@@ -2,11 +2,13 @@
 title: "Strategic Industrial Policy"
 type: concept
 tags: [industrial-policy, manufacturing, technology, trade]
-sources: [getting-entrepreneurial-in-korea-summer-school, all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420, all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310, all-in-with-chamath-jason-sacks-friedberg-dan-dreyfus-americas-critical-minerals-crisis-is-here-41594225, vol-268-liang-ge-lao-si-lai-si-1003563933, vol-125-riben-daodi-hai-xing-bu-xing-chuantai-dongya-guancha-ju-lsilax772olwi9xvvvfz6xcelfqw, no-201-zhongguo-gaotie-jianshi-976314772, battlefield-rare-earths-how-the-us-lost-to-china, why-economists-got-free-trade-with-china-so-wrong, no-211-huishang-wangshi-cong-qianshi-buxiu-dao-zuiniu-fengtou-1002275189, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]
+sources: [all-in-with-chamath-jason-sacks-friedberg-saronic-founders-autonomous-warships-chinas-230x-advantage-swarms-of-robot-ships-42334230, getting-entrepreneurial-in-korea-summer-school, all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420, all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310, all-in-with-chamath-jason-sacks-friedberg-dan-dreyfus-americas-critical-minerals-crisis-is-here-41594225, vol-268-liang-ge-lao-si-lai-si-1003563933, vol-125-riben-daodi-hai-xing-bu-xing-chuantai-dongya-guancha-ju-lsilax772olwi9xvvvfz6xcelfqw, no-201-zhongguo-gaotie-jianshi-976314772, battlefield-rare-earths-how-the-us-lost-to-china, why-economists-got-free-trade-with-china-so-wrong, no-211-huishang-wangshi-cong-qianshi-buxiu-dao-zuiniu-fengtou-1002275189, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]
 last_updated: 2026-08-24
 ---
 
 # Strategic Industrial Policy
+
+[[all-in-with-chamath-jason-sacks-friedberg-saronic-founders-autonomous-warships-chinas-230x-advantage-swarms-of-robot-ships-42334230]] adds a naval shipbuilding and defense-prime case. [[Saronic]] argues that [[PortAlpha|Port Alpha]], [[SoftwareDefinedShipbuilding]], and [[PrivateCapitalDefensePrime]] can rebuild some U.S. shipbuilding capacity by co-designing vessels, yards, supply chains, and autonomy around throughput rather than relying only on legacy shipyard programs.
 
 [[getting-entrepreneurial-in-korea-summer-school]] adds the [[ExportDiscipline]] version through [[SouthKorea|South Korea]]. The source argues that cheap loans, tariffs, and manufacturing support worked better when firms still had to export and meet world-market standards, making global competition the feedback loop for whether public support was building real capability.
 
@@ -33,6 +35,7 @@ The concept is not simply protection. The episode allows that temporary barriers
 [[vol-268-liang-ge-lao-si-lai-si-1003563933]] adds a British aerospace rescue case through [[IndustrialCapabilityBailout]]. The source says the [[UnitedKingdom]] government preserved [[RollsRoyce|Rolls-Royce]] aero-engine assets during the [[RollsRoyceRB211|RB211]] crisis because aircraft-engine capability mattered for defense, exports, and national industrial capacity, while [[RollsRoyceMotorCars|Rolls-Royce Motor Cars]] could be separated.
 
 ## Key Claims
+- The Saronic source adds that defense industrial policy can run through privately funded new primes and shipyard construction, not only public subsidies or procurement mandates.
 - Industrial policy should target future productive capacity, not only restore old labor-intensive work.
 - Temporary protection is weaker without domestic investment, skills, infrastructure, and firm capability.
 - High-tech sectors matter because they can carry innovation spillovers beyond the direct number of jobs.
@@ -48,6 +51,7 @@ The concept is not simply protection. The episode allows that temporary barriers
 - The Planet Money Korea source adds that subsidies and tariff protection should be paired with export competitiveness; a protected chip factory still needs pressure to become world-class.
 
 ## Connections
+- [[Saronic]], [[PortAlpha|Port Alpha]], [[NavalShipbuildingThroughput]], [[SoftwareDefinedShipbuilding]], and [[PrivateCapitalDefensePrime]] - naval shipbuilding-capacity branch added by All-In.
 - [[RahmEmanuel|Rahm Emanuel]], [[AlliedEconomicBlocAgainstChina]], [[ResearchInstitutionsAsStrategicCapacity]], [[EducationWorkforcePipeline]], and [[PragmaticImmigrationCompromise]] - broader strategic-capacity branch added by All-In.
 - [[SouthKorea|South Korea]], [[OliverKim]], [[ExportDiscipline]], [[IndustrialLadder]], and [[EastAsianTigers]] - development-policy discipline branch added by Planet Money.
 - [[UnitedStates]], [[China]], and [[ChinaShock]] - strategic and historical context.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 7376
+wiki_total_pages: 7462
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -449,6 +449,9 @@ wiki_pages:
   - key: "ThriveMarket"
     title: "Thrive Market"
     url: "/wiki/entities/thrivemarket/"
+  - key: "ThrockmortonPlot"
+    title: "Throckmorton Plot"
+    url: "/wiki/entities/throckmortonplot/"
   - key: "Throughline"
     title: "Throughline"
     url: "/wiki/entities/throughline/"
@@ -1040,6 +1043,9 @@ wiki_pages:
   - key: "TaiqiuShe"
     title: "宋太丘社 / Taiqiu She"
     url: "/wiki/entities/taiqiushe/"
+  - key: "TugeHu"
+    title: "屠各胡 / Tuge Hu"
+    url: "/wiki/entities/tugehu/"
   - key: "TsunekoNoLongerHuman"
     title: "常子 / Tsuneko"
     url: "/wiki/entities/tsunekonolongerhuman/"
@@ -1175,6 +1181,9 @@ wiki_pages:
   - key: "Tancheng"
     title: "郯城 / Tancheng"
     url: "/wiki/entities/tancheng/"
+  - key: "TaoqiuHongLateHan"
+    title: "陶丘洪 / Taoqiu Hong (late Han)"
+    url: "/wiki/entities/taoqiuhonglatehan/"
   - key: "TaoYuanming"
     title: "陶渊明 / Tao Yuanming"
     url: "/wiki/entities/taoyuanming/"

@@ -2,11 +2,23 @@
 title: "韩遂 / Han Sui"
 type: entity
 tags: [person, late-han, military, guanzhong, china]
-sources: [zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet, zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth, zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk]
-last_updated: 2026-08-24
+sources: [zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw, zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw, zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh, zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z, zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet, zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth, zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk]
+last_updated: 2026-08-25
 ---
 
 # 韩遂 / Han Sui
+
+[[zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw|Hanji 935]] backfills Han Sui before the later consolidation branch. In this earlier 185 CE stage, he is paired with [[BianZhangLateHan|边章]] as a western rebel actor who defeats [[ZhangWenLateHan|张温]] at Meiyang before [[DongZhuo|董卓]] and right Fufeng-side forces counterattack.
+
+After the defeat, Han Sui and Bian Zhang withdraw toward Yuzhong. The episode's operational point is that the rebel side survives pursuit by cutting [[ZhouShenLateHan|周慎]]'s grain road after Zhou Shen rejects [[SunJianLateHan|孙坚]]'s proposal to cut theirs first.
+
+[[zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw|Hanji 937]] supplies Han Sui's pre-coalition consolidation before the later Chen Cang and Guanzhong branches. The episode says Han Sui kills or absorbs [[BianZhangLateHan|边章]], [[BeigongBoyuLateHan|北宫伯玉]], and [[LiWenhouLateHan|李文侯]], gathers a force of more than 100,000, attacks [[LongxiCommandery|陇西郡]], and draws [[LiXiangruLateHan|李相如]] into rebellion. The source notes a variant in which Bian Zhang dies of illness, but follows the Zizhi Tongjian killing account.
+
+[[zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh|Hanji 938]] supplies the formation stage after [[GengBiLateHan|耿鄙]]'s Liangzhou command collapses. Han Sui aligns with [[MaTeng|马腾]] and [[WangGuoLateHan|王国]] and helps turn provincial military failure into a wider rebel coalition.
+
+[[zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z|Hanji 942]] backfills Han Sui before the later Guanzhong and Changpingguan branches. After [[WangGuoLateHan|王国]] fails at [[ChenCang|陈仓]] and is removed, Han Sui coerces [[YanZhongLateHan|阎忠]] into nominal leadership of the rebel coalition.
+
+Yan Zhong's quick death leaves Han Sui's side weakening through internal attacks, making this an early source case for [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]]. The episode also makes Han Sui the military target used by [[JianShuoLateHan|蹇硕]] and the attendants when they try to send [[HeJin|何进]] away from [[LuoyangLateHan|洛阳]].
 
 [[zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet|Hanji 973]] supplies the fuller lead-in to Han Sui's 194 CE contact with [[FanChouLateHan|樊稠]]. Han Sui comes from Jincheng with Qiang-Hu cavalry as a mediator between [[MaTeng|马腾]] and [[LiJueLateHan|李傕]], but the episode dramatizes him as being drawn onto Ma Teng's side through drink and shared western ties.
 
@@ -21,6 +33,10 @@ After the defeat at [[ChangpingguanBattleLateHan|长平观之战]], Han Sui with
 [[ZhongYao|钟繇]]'s letters from [[ChangAnHanCapital|长安]] are said to persuade Han Sui, Ma Teng, and related forces to submit to the Han court and send sons to the court. In the source's strategic sequence, this helps Cao Cao reduce western uncertainty before concentrating on [[LyuBu|吕布]] and the larger [[YuanShao|袁绍]] problem.
 
 ## Connections
+- [[zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw|Hanji 935]], [[BianZhangLateHan|边章]], [[ZhangWenLateHan|张温]], [[ZhouShenLateHan|周慎]], and [[SunJianLateHan|孙坚]] - Meiyang victory, Yuzhong withdrawal, and Han supply-line cut.
+- [[zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw|Hanji 937]], [[BianZhangLateHan|边章]], [[BeigongBoyuLateHan|北宫伯玉]], [[LiWenhouLateHan|李文侯]], [[LongxiCommandery|陇西郡]], and [[LiXiangruLateHan|李相如]] - rebel consolidation and Longxi attack.
+- [[zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh|Hanji 938]], [[GengBiLateHan|耿鄙]], [[MaTeng|马腾]], and [[WangGuoLateHan|王国]] - 187 CE coalition formation after Liangzhou command collapse.
+- [[zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z|Hanji 942]], [[WangGuoLateHan|王国]], [[ChenCangBattleLateHan|陈仓之战]], [[YanZhongLateHan|阎忠]], [[JianShuoLateHan|蹇硕]], [[HeJin|何进]], and [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]] - post-Chen-Cang coalition instability and court use of the western campaign as a displacement plan.
 - [[MaTeng|马腾]] - paired major Guanzhong leader.
 - [[zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet|Hanji 973]], [[ChangpingguanBattleLateHan|长平观之战]], [[FanChouLateHan|樊稠]], and [[AlcoholAsPowerCatalyst|酒作为权力催化剂]] - mediator-to-ally shift, defeat, title variant, and post-battle reconciliation.
 - [[zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth|Hanji 981]], [[LiuYanLateHan|刘焉]], [[LiuFanLateHan|刘范]], [[LiuDanLateHan|刘诞]], [[LiJueLateHan|李傕]], and [[GuanzhongRegion|关中]] - western pressure and failed Chang'an-side support.

@@ -2,11 +2,13 @@
 title: "England"
 type: entity
 tags: [country, historical-state, maritime-history, europe]
-sources: [695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455, 696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496, 14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285]
+sources: [694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087, 695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455, 696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496, 14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285]
 last_updated: 2026-08-25
 ---
 
 # England
+
+[[694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087]] adds England as a Protestant monarchy navigating privateering, marriage diplomacy, and Catholic conspiracy before open Anglo-Spanish war. [[FrancisDrake]]'s treasure creates a [[PrivateeringPlausibleDeniability]] problem, [[FrancoisDukeOfAnjou|Anjou]] offers a risky French option, and the [[ThrockmortonPlot]] shows how foreign invasion plans could rely on domestic Catholic geography and [[MaryQueenOfScots|Mary, Queen of Scots]]' claim.
 
 [[695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455]] adds England at the moment it moves from cold war toward open conflict with [[Spain]]. The source presents the [[LowCountries|Low Countries]] as the key theatre: if [[PhilipII|Philip II]] and [[AlexanderFarnese|Alexander Farnese / Duke of Parma]] crush the [[DutchRevolt]], England faces invasion risk, trade damage, and Protestant defeat close to home.
 
@@ -20,6 +22,7 @@ In the source, England matters less as a modern [[UnitedKingdom]] policy actor t
 
 ## Key Claims
 - England is part of [[ConfessionalTradeConflict]] because religious division and trade rivalry reinforce each other.
+- Episode 694 treats England as vulnerable to both overseas Spanish pressure and internally grounded Catholic invasion plotting.
 - Episode 695 treats England as a reluctant intervention power whose anti-Spanish policy is forced by the Dutch theatre, trade pressure, and invasion risk.
 - Episode 696 treats England as a Protestant monarchy where [[TudorSuccessionCrisis]], espionage, and legal procedure converge around Mary.
 - Adams's English identity helps him explain why Iberian Catholic accusations should not be taken as neutral information.
@@ -27,6 +30,7 @@ In the source, England matters less as a modern [[UnitedKingdom]] policy actor t
 
 ## Connections
 - [[WilliamAdams|William Adams / 三浦按针]] - central English figure.
+- [[FrancisDrake]], [[GoldenHind]], [[FrancoisDukeOfAnjou|Francois, Duke of Anjou]], [[ThrockmortonPlot]], [[BondOfAssociation]], and [[PrivateeringPlausibleDeniability]] - prewar Elizabethan branch added by episode 694.
 - [[PhilipSidney|Sir Philip Sidney]], [[FrancisDrake]], [[RobertDudley|Robert Dudley / Earl of Leicester]], [[LowCountries|Low Countries]], [[DutchRevolt]], [[TreatyOfNonsuch]], and [[StrategicInterventionThreshold]] - Low Countries intervention branch added by episode 695.
 - [[ElizabethI|Elizabeth I]], [[MaryQueenOfScots|Mary, Queen of Scots]], [[BabingtonPlot]], and [[ActForTheQueensSafety|Act for the Queen's Safety]] - Elizabethan security branch added by The Rest Is History.
 - [[Netherlands]], [[Spain]], and [[Portugal]] - rival and partner maritime powers.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 5372
+wiki_total_pages: 5398
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -893,6 +893,9 @@ wiki_pages:
   - key: "CommandContinuityDamageControl"
     title: "Command Continuity Damage Control / 统帅连续性危机处置"
     url: "/wiki/concepts/commandcontinuitydamagecontrol/"
+  - key: "CommandDisciplineAuthority"
+    title: "Command Discipline Authority / 军法威严"
+    url: "/wiki/concepts/commanddisciplineauthority/"
   - key: "CommandSynchronizationFailure"
     title: "Command Synchronization Failure / 军令同步失灵"
     url: "/wiki/concepts/commandsynchronizationfailure/"
@@ -1064,6 +1067,9 @@ wiki_pages:
   - key: "ConcreteFilledWallSystems"
     title: "Concrete-Filled Wall Systems"
     url: "/wiki/concepts/concretefilledwallsystems/"
+  - key: "ConfessionalInvasionConspiracy"
+    title: "Confessional Invasion Conspiracy"
+    url: "/wiki/concepts/confessionalinvasionconspiracy/"
   - key: "ConfessionalTradeConflict"
     title: "Confessional Trade Conflict"
     url: "/wiki/concepts/confessionaltradeconflict/"

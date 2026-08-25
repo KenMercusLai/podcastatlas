@@ -2,11 +2,13 @@
 title: "南匈奴 / Southern Xiongnu"
 type: entity
 tags: [people, frontier, late-han, steppe, china]
-sources: [zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb, zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo, zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna]
+sources: [zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy, zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb, zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo, zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna]
 last_updated: 2026-08-25
 ---
 
 # 南匈奴 / Southern Xiongnu
+
+[[zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy|Hanji 939]] supplies the earliest current Southern Xiongnu succession crisis. The Han court orders Southern Xiongnu troops to support [[LiuYuLateHan|刘虞]] against [[ZhangChunLateHan|张纯]]; [[QiangquChanyu|羌渠]] sends cavalry, but fear of repeated requisition leads [[XiluoSouthernXiongnu|醯落]] and the [[TugeHu|屠各胡]] to rebel, kill Qiangqu, and install [[YufuluoChanyu|于扶罗]].
 
 [[zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb|Hanji 949]] backfills the Southern Xiongnu internal crisis before the later Cao Cao and emperor-escort branches. The source says [[YufuluoChanyu|于扶罗]] faces a rival succession backed by rebels, goes to [[LuoyangLateHan|洛阳]] to seek court judgment, and finds the Han court unable to act amid [[DongZhuo|董卓]]'s takeover and [[EmperorLingOfHan|汉灵帝]]'s death.
 
@@ -25,6 +27,7 @@ The source does not give a full Southern Xiongnu narrative here. Its value is ch
 The source does not connect this note deeply to Gongsun Zan's collapse. It preserves a late-Han frontier transition alongside the Youzhou branch and links the page to the broader [[Xiongnu|匈奴]] archive.
 
 ## Connections
+- [[zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy|Hanji 939]], [[QiangquChanyu|羌渠]], [[XiluoSouthernXiongnu|醯落]], [[TugeHu|屠各胡]], [[LiuYuLateHan|刘虞]], [[ZhangChunLateHan|张纯]], and [[FrontierConscriptionBackfire|边疆征发反噬]] - requisition backlash and Yufuluo's succession origin.
 - [[zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb|Hanji 949]], [[YufuluoChanyu|于扶罗]], [[BaiboArmy|白波军]], [[LuoyangLateHan|洛阳]], and [[DongZhuo|董卓]] - succession crisis, failed appeal, and stranded armed actor prelude.
 - [[zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo|Hanji 957]], [[ZhangYangLateHan|张杨]], [[YuanShao|袁绍]], and [[PuyangLateHan|濮阳]] - earlier hostage path attached to Zhang Yang.
 - [[zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr|Hanji 961]], [[NeihuangBattleLateHan|内黄之战]], [[CaoCao|曹操]], and [[YuDuLateHan|于毒]] - earlier campaign branch.

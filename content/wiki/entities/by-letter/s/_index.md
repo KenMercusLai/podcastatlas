@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 7376
+wiki_total_pages: 7462
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -167,6 +167,9 @@ wiki_pages:
   - key: "SarahWu"
     title: "Sarah Wu"
     url: "/wiki/entities/sarahwu/"
+  - key: "Saronic"
+    title: "Saronic"
+    url: "/wiki/entities/saronic/"
   - key: "SashaNauta"
     title: "Sasha Nauta"
     url: "/wiki/entities/sashanauta/"
@@ -869,6 +872,9 @@ wiki_pages:
   - key: "SriNarayanan"
     title: "Sri Narayanan"
     url: "/wiki/entities/srinarayanan/"
+  - key: "StBartholomewsDayMassacre"
+    title: "St Bartholomew's Day Massacre"
+    url: "/wiki/entities/stbartholomewsdaymassacre/"
   - key: "StGeorgesSchool"
     title: "St. George's School / 圣乔治学校"
     url: "/wiki/entities/stgeorgesschool/"
@@ -1187,6 +1193,9 @@ wiki_pages:
   - key: "SurbhiSarna"
     title: "Surbhi Sarna"
     url: "/wiki/entities/surbhisarna/"
+  - key: "SurgeAI"
+    title: "Surge AI"
+    url: "/wiki/entities/surgeai/"
   - key: "SusanDell"
     title: "Susan Dell"
     url: "/wiki/entities/susandell/"
@@ -1502,6 +1511,9 @@ wiki_pages:
   - key: "SongXiugong"
     title: "宋休公 / Duke Xiu of Song"
     url: "/wiki/entities/songxiugong/"
+  - key: "SongDianLateHan"
+    title: "宋典 / Song Dian (late Han)"
+    url: "/wiki/entities/songdianlatehan/"
   - key: "SongLiu"
     title: "宋刘 / Song Liu"
     url: "/wiki/entities/songliu/"

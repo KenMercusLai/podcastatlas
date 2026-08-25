@@ -2,11 +2,13 @@
 title: "Starlink"
 type: entity
 tags: [company, satellite, spacex, connectivity]
-sources: [tech-20260818-tech-pod-128-tech-20260818-tech-pod-128, tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128, an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e, putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210, 95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611, e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793]
-last_updated: 2026-08-24
+sources: [tech-20260818-tech-pod-128-tech-20260818-tech-pod-128, tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128, an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e, putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210, 95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611, e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793, all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555]
+last_updated: 2026-08-25
 ---
 
 # Starlink
+
+[[all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555]] adds an All-In subscriber and bandwidth-expansion view. The source says Starlink reached 12 million subscribers, doubled year over year, had about $66 ARPU, and could gain materially more capacity from V3 satellites deployed by [[Starship]], making Starlink central to [[SpaceX]]'s public-market growth story rather than only a satellite-connectivity case.
 
 [[tech-20260818-tech-pod-128-tech-20260818-tech-pod-128]] adds Starlink as the episode's main example of [[CommercialSatelliteConstellations]] driving launch demand. The source says companies are deploying many smaller satellites for internet service, GPS, and Earth imaging, and it presents Starlink as a leading reason [[SpaceLaunchCapacityBottleneck]] has become visible around U.S. launch pads and spaceports.
 
@@ -29,6 +31,7 @@ The source gives Starlink two roles. First, it can generate commercial cash flow
 [[tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128]] adds a public-earnings view. [[JoannaStern]] says Starlink is performing well, including through partnerships with airlines, while the same [[SpaceX]] segment links large satellite and rocket activity to [[OrbitalDebrisGovernance]] concerns.
 
 ## Connections
+- [[SpaceX]], [[Starship]], [[AIComputePriceRisk]], and [[AIInfrastructureDebtFinancing]] - August 8 All-In branch where Starlink growth and V3 capacity support the public-market and AI-infrastructure story.
 - [[SpaceX]] — Starlink's parent company in the source.
 - [[ReusableRocketEconomics]] — launch-cost precondition for building the constellation.
 - [[Starship]] — next vehicle platform that could further lower deployment cost.

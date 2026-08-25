@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "q"
-wiki_total_pages: 7376
+wiki_total_pages: 7462
 wiki_pages:
   - key: "Qatar"
     title: "Qatar"
@@ -98,6 +98,9 @@ wiki_pages:
   - key: "QiWuLun"
     title: "《齐物论》"
     url: "/wiki/entities/qiwulun/"
+  - key: "QiuLijuLateHan"
+    title: "丘力居 / Qiu Liju (late Han)"
+    url: "/wiki/entities/qiulijulatehan/"
   - key: "QiuChuji"
     title: "丘处机"
     url: "/wiki/entities/qiuchuji/"
@@ -158,6 +161,9 @@ wiki_pages:
   - key: "QuKai"
     title: "曲凯 / Qu Kai"
     url: "/wiki/entities/qukai/"
+  - key: "QuXingLateHan"
+    title: "曲星 / Qu Xing (late Han)"
+    url: "/wiki/entities/quxinglatehan/"
   - key: "QuwoWarringStates"
     title: "曲沃 / Quwo (Warring States)"
     url: "/wiki/entities/quwowarringstates/"
@@ -185,6 +191,9 @@ wiki_pages:
   - key: "QuMuLateHan"
     title: "渠穆 / Qu Mu (late Han)"
     url: "/wiki/entities/qumulatehan/"
+  - key: "QianweiCommanderyLateHan"
+    title: "犍为郡 / Qianwei Commandery (late Han)"
+    url: "/wiki/entities/qianweicommanderylatehan/"
   - key: "QinWangWan"
     title: "王绾 / Wang Wan (Qin)"
     url: "/wiki/entities/qinwangwan/"
@@ -272,6 +281,9 @@ wiki_pages:
   - key: "QiushiBaike"
     title: "糗事百科 / Qiushi Baike"
     url: "/wiki/entities/qiushibaike/"
+  - key: "QiangquChanyu"
+    title: "羌渠 / Qiangqu Chanyu"
+    url: "/wiki/entities/qiangquchanyu/"
   - key: "QinanChuBattlefield"
     title: "蕲南 / Qinan (Chu battlefield)"
     url: "/wiki/entities/qinanchubattlefield/"

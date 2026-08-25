@@ -2,11 +2,13 @@
 title: "Prophecy-Triggered Policy / 预言触发政策"
 type: concept
 tags: [politics, prophecy, statecraft, qin-history, religion]
-sources: [zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo, zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-2-ln15p5qb7lc20goni1ibcpmn3wca, zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-1-lgtlhau6ixqglk1ict1fs0jexjwe, zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8]
+sources: [zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy, zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo, zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-2-ln15p5qb7lc20goni1ibcpmn3wca, zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-1-lgtlhau6ixqglk1ict1fs0jexjwe, zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8]
 last_updated: 2026-08-25
 ---
 
 # Prophecy-Triggered Policy / 预言触发政策
+
+[[zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy|Hanji 939]] adds a destination-selection version. [[DongFuLateHan|董扶]] tells [[LiuYanLateHan|刘焉]] that the capital will become chaotic and that [[YizhouLateHan|益州]] has imperial qi; Liu Yan then shifts his desired provincial post from Jiaozhi to Yizhou. The prophecy does not create the whole reform, but it routes a survival-minded official toward the province where [[ProvincialShepherdAutonomy|州牧集权与地方割据]] later becomes concrete.
 
 [[zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo|Hanji 957]] adds a court-purge version. A prediction that a minister will die does not point to a frontier campaign or travel countermeasure; [[DongZhuo|董卓]] converts it into an accusation against [[ZhangWenLateHan|张温]] and a public killing, so the policy output is targeted coercion.
 
@@ -21,6 +23,7 @@ The episode also shows why later hindsight must be separated from contemporaneou
 [[zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-2-ln15p5qb7lc20goni1ibcpmn3wca]] makes that personal version operational. Once the omen is read as Qin Shi Huang's own death warning, divination returns "游徙吉," and action shifts into [[OmenCountermeasureMobility|游徙避命]]: population relocation toward the northern frontier and the emperor's final tour. This turns prophecy-triggered policy from enemy identification into fate-management.
 
 ## Key Claims
+- Hanji 939 adds that a prophecy can redirect a career and destination choice inside an already-real institutional reform.
 - Hanji 957 adds that a prediction can trigger a purge when a ruler converts a vague death sign into a named political accusation.
 - A prophecy can become politically consequential even when the source does not prove supernatural truth.
 - The governing effect comes from interpretation: the same phrase can name an external enemy in one moment and a dynastic successor in hindsight.
@@ -30,6 +33,7 @@ The episode also shows why later hindsight must be separated from contemporaneou
 - The source treats "亡秦者胡" as an example of how omen language can blur [[ImmortalityQuestPolitics|求仙政治]], frontier security, and later historical irony.
 
 ## Connections
+- [[zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy|Hanji 939]], [[DongFuLateHan|董扶]], [[LiuYanLateHan|刘焉]], [[YizhouLateHan|益州]], and [[ProvincialShepherdAutonomy|州牧集权与地方割据]] - prophecy-guided provincial destination choice.
 - [[zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo|Hanji 957]], [[DongZhuo|董卓]], [[ZhangWenLateHan|张温]], [[ChineseAstrologicalPolitics|中国星占政治]], and [[OmenLaunderedPurge|天象包装式清洗]] - death prediction converted into purge action.
 - [[LuSheng|卢生]] - messenger of the warning in the source.
 - [[QinShiHuang|嬴政 / 秦始皇]] - ruler who interprets the warning and acts.

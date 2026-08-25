@@ -8,6 +8,14 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-25] ingest | Google's AI Brain Drain, SpaceX's Huge Quarter, Airtable's 90% Collapse, US Data Fuels China AI
+
+Added source page for an All-In episode on Google AI leadership changes, hyperscaler model/cloud channel conflict, SpaceX public-market AI compute and Starlink growth, Airtable's sale to Bending Spoons and SaaS valuation reset, and U.S. expert-data sales to Chinese AI labs. Created pages for Airtable, Bending Spoons, Hyper Agent, Discovery Loop, Surge AI, Mercor, Micro1, AI Hyperscaler Model Channel Conflict, Frontier Model Duopoly, AI Compute Price Risk, SaaS Capital Structure Reset, No-Code AI Disruption, Expert Data Export Controls, and Product-Led Growth; updated related Google, SpaceX, SaaS, infrastructure-finance, open-model, and export-control pages. No settled contradiction found; Google leadership, SpaceX financials, Airtable transaction details, and China expert-data claims remain source-scoped.
+
+## [2026-08-25] ingest | 《资治通鉴·汉纪》942丨越优秀的人活得越累，合理吗？
+
+Added source page for Hanji 942: Gai Xun and Yuan Shao's first anti-eunuch move, Jian Shuo's transfer counter, Wang Guo's failed siege of Chen Cang, Huangfu Song's delay-then-pursue victory over Dong Zhuo's objections, Gongsun Zan's over-pursuit against Qiu Liju, Liu Yu's Youzhou pacification, Han Sui/Yan Zhong coalition instability, Ma Ridi's eclipse-linked dismissal, He Jin's delay of Jian Shuo's western-transfer plan, and Cao Cao's early military footing. Created pages for Gai Xun, Wang Guo, Qiu Liju, Zhang Chun, Zhang Ju, Yan Zhong, and the Chen Cang battle; updated connected late-Han actors and court-access, fortified-attrition, forced-march, people-based security, alliance-fragility, war-cost, celestial-omen, and surrender-cascade concepts. No settled contradiction found; similarly named figures were disambiguated.
+
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》943丨权势考验人性，背后藏着巨大凶险
 
 Added source page for Hanji 943: Emperor Ling's non-designated succession, Liu Bian and Liu Xie's rival maternal/foster support lines, Jian Shuo's failed attempt to kill He Jin and install Liu Xie, Pan Yin's warning, Guo Sheng's letter handoff, Liu Bian's accession, He Jin's killing of Jian Shuo, and the purge of Empress Dowager Dong and Dong Zhong. Created pages for Jian Shuo, Empress Dowager Dong, Dong Zhong, Guo Sheng, Pan Yin, Shi Zimiao, and Zhang Jin; updated connected late-Han actors and succession, palace-access, palace-violence, maternal-status, legitimacy-purge, and human-nature concepts. No settled contradiction found; Dong Taihou's death remains source-variant across chronicle, history, and Romance accounts, and the host's power-and-human-nature readings remain source-scoped.
@@ -11251,6 +11259,14 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-25] ingest | Saronic Founders: Autonomous Warships, China's 230X Advantage & Swarms of Robot Ships
+
+Added source page for an All-In interview with Saronic co-founders Dino Mavroukis and Vibh Altakar on autonomous naval vessels, the U.S.-China shipbuilding throughput gap, Corsair and Marauder, Strait of Hormuz rescue claims, human-authorized autonomy, private-capital defense procurement, and Port Alpha in Texas. Created Saronic, Dino Mavroukis, Vibh Altakar, Corsair, Marauder, Port Alpha, Autonomous Naval Vessels, Naval Shipbuilding Throughput, Software-Defined Shipbuilding, Private Capital Defense Prime, and Human-Authorized Autonomous Weapons pages; updated All-In, U.S. Navy, U.S. Department of Defense, Strait of Hormuz, Texas, China, Defense Tech Startup Procurement, Defense AI Procurement, Dual-Use Defense Technology, Low-Cost Drone Warfare, Strategic Industrial Policy, overview, and index. No settled contradiction found; rescue details, capacity figures, job claims, and authorization claims remain source-scoped.
+
+## [2026-08-25] ingest | 《资治通鉴·汉纪》941丨身处官场，他竟想干翻皇帝
+
+Added source page for Hanji 941: Wang Fen's failed 188 CE plan to seize Emperor Ling, kill the eunuchs, and install Hefei Marquis; Cao Cao and Hua Xin's refusal logic; the red-qi omen that cancels the travel window; Ma Ridi and Dong Zhong's appointments; the West Garden Eight Colonels with Jian Shuo, Yuan Shao, and Cao Cao; renewed Qingzhou/Xuzhou Yellow Turban disorder; and Gai Xun's Pingle Guan remonstrance. Created pages for Wang Fen, Chen Yi, Taoqiu Hong, Hefei Marquis, West Garden Eight Colonels, and Imperial Deposition Coup Risk; updated connected late-Han actor, place, group, and omen pages. No settled contradiction found; motive readings and the Hefei Marquis identity remain source-scoped.
+
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》948丨董卓废帝：权臣如何改变皇权游戏？
 
 Added source page for Hanji 948: Dong Zhuo's forced deposition of Liu Bian, installation of Emperor Xian, Yuan Shao's armed objection and exit, Lu Zhi's remonstrance, Yuan Wei's coerced seal-transfer role, Empress Dowager He's poisoning, He-family intimidation, prestige appointments for Liu Yu, Yang Biao, and Huang Wan, Party Prohibition rehabilitation, and Niu Fu's Hedong response to the Baibo Army. Created pages for Lu Zhi (late Han), Yuan Wei, Empress Dowager He, He Miao, Wuyang Jun, Chen Fan, Dou Wu, coerced imperial replacement, and Party Prohibition rehabilitation; updated connected Dong Zhuo, Yuan Shao, Cai Yong, Liu Bian, Emperor Xian, He Jin, Liu Yu, Yang Biao, Huang Wan, Niu Fu, Baibo Army, Hedong, Mingqi legitimacy, court office capture, and coerced talent legitimacy pages. No settled contradiction found; Lu Zhi is disambiguated from Lu Zhi / 吕雉, and motive readings around appointments and He-family violence remain source-scoped.
@@ -11426,6 +11442,94 @@ Added source page for Hanji 944: He Jin's first anti-eunuch planning after Emper
 ## [2026-08-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-25] ingest | 694. Elizabeth I vs The Catholics: A Treacherous Conspiracy (Part 4)
+
+Added source page for a The Rest Is History episode on Francis Drake's return and Golden Hind ceremony, Elizabeth's plausible-denial handling of Spanish treasure, Anjou marriage and Dutch diplomacy, the Act of Abjuration and French Fury, the Throckmorton Plot, Mendoza's expulsion, Mary Stuart's tightened confinement, and the Bond of Association. Created pages for the Throckmorton plot cluster, Anjou and the French civil-war branch, Golden Hind, Act of Abjuration, French Fury, Bond of Association, privateering plausible deniability, marriage diplomacy as strategic option, and confessional invasion conspiracy; updated connected Elizabethan, Spanish, English, French, Dutch, Catholic, intelligence, succession, and escalation pages. No settled contradiction found; the source backfills the sequence before episodes 695 and 696 rather than changing the Babington Plot's later legal role.
+
+## [2026-08-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-25] ingest | 《资治通鉴·汉纪》940丨得民心者得天下，你信不信？
+
+Added source page for Hanji 940: Fan Ling's brief taiwei appointment, Ma Xiang and Zhao Zhi's Yizhou revolt at Mianzhu, Xi Jian's failed local support, Jia Long's counterattack, Liu Yan's lenient Mianzhu pacification, and seven-commandery flood relief corruption. Created Ma Xiang, Zhao Zhi, Xi Jian, Jia Long, Mianzhu, Ba Commandery, Qianwei Commandery, Yizhou pacification by leniency, and disaster relief corruption pages; updated Fan Ling, Liu Yan, Yizhou, people-based political security, provincial shepherd autonomy, disaster response state capacity, overview, and index. No settled contradiction found; transcript renderings "留言" and "樊麟" were normalized to canonical Liu Yan and Fan Ling.
+
+## [2026-08-25] lint | Wiki health check
+
+Ran lint after health and identity validation passed. Health scanned 14,236 non-generated wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest`; report returned in-session and `wiki/lint-report.md` was not updated.
+
+## [2026-08-25] ingest | 《资治通鉴·汉纪》939丨东汉乱局的疯狂三国序曲
+
+Added source page for Hanji 939: Emperor Ling's amnesty and comet response, Baibo resurgence under Guo Da, Zhang Yi's killing in Bingzhou, Liu Yan's provincial-shepherd proposal and Yizhou destination through Dong Fu's prophecy, first Yizhou/Yuzhou/Youzhou shepherd appointments, Southern Xiongnu requisition backlash that kills Qiangqu and elevates Yufuluo, and Cao Song's taiwei dismissal. Created pages for Guo Da, Zhang Yi, Bingzhou, Dong Fu, Qiangqu, Xiluo, Tuge Hu, and Frontier Conscription Backfire; updated connected late-Han provincial, Baibo, Southern Xiongnu, Cao Song, omen, prophecy, and provincial autonomy pages. No settled contradiction found; source renderings 郭大 and 郤俭 remain source-scoped.
+
+## [2026-08-25] lint | Wiki health check
+
+Ran lint after health and identity validation passed. Health scanned 14,245 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest`; report returned in-session and `wiki/lint-report.md` was not updated.
+
+## [2026-08-25] ingest | 《资治通鉴·汉纪》938丨历史的警醒！软弱只会带来屈辱
+
+Added source page for Hanji 938: 187 CE Liangzhou rebellion under Ma Teng, Han Sui, and Wang Guo after Geng Bi's collapse, Zhang Wen's dismissal and court office churn through Cui Lie, Xu Xiang, Ding Gong, and Cao Song, Wuhuan auxiliary supply failure feeding Zhang Chun, Zhang Ju, and Qiu Liju's Youzhou rebellion, Sun Jian's suppression of Qu Xing at Changsha, sale of Guannei marquis status, and Chen Shi's "Liangshang Junzi" moral-authority story. Created Geng Bi, Cui Lie, Ding Gong (late Han), Qu Xing, Chen Shi, and Frontier Auxiliary Supply Failure pages; updated connected late-Han rebel, frontier, office, legitimacy, rank-sale, moral-reputation, and people-support pages. No settled contradiction found; transcript renderings 耿彼, 丁公, 三府, and 肥河县 are handled as source-scoped or normalized only where the role is clear.
+
+## [2026-08-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-25] ingest | 《资治通鉴·汉纪》937丨战神之死，好人总是多灾多难？
+
+Added source page for Hanji 937: Han Sui's absorption of Bian Zhang, Beigong Boyu, and Li Wenhou; Geng Bi's failed Liangzhou campaign after trusting Cheng Qiu and rejecting Fu Xie's timing advice; the Di Dao mutiny; Fu Xie's besieged Hanyang duty choice, Fu Gan/Yang Hui handoff, Huang Yan surrender test, and death. Created Fu Xie, Fu Gan, Cheng Qiu, Yang Hui, Huang Yan, Li Xiangru, Bian Zhang, Beigong Boyu, Li Wenhou, Hanyang Commandery, Di Dao, Office-Duty Martyrdom, and Frontier Command Collapse pages; updated connected late-Han, Liangzhou, people-support, moral-reputation, alliance-fragility, and tempo-discipline pages. No settled contradiction found; Bian Zhang's death variant and Fu Gan's later historian evaluation remain source-scoped.
+
+## [2026-08-25] ingest | 《资治通鉴·汉纪》936丨乱世先杀圣母心，这话对吗？
+
+Added source page for Hanji 936: Dong Zhuo's dam-covered retreat and contemptuous response to Zhang Wen, Sun Jian's military-law recommendation, Emperor Ling's Wanjin/Yutang palace hoarding and devices, Fu Xie's refusal of Zhao Zhong's private patronage, Zhao Ci's rebellion, and Zhang Yan's eunuch-driven prison death. Created Command Discipline Authority plus pages for Zhang Yan (late-Han taiwei), Zhao Ci, Song Dian, and Bi Lan; updated connected late-Han actor, place, frontier, and political-ethics pages. No settled contradiction found; 张延 is disambiguated from 张燕 / Zhang Yan of the Heishan Army.
+
+## [2026-08-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-25] ingest | 《资治通鉴·汉纪》933丨为官之道：有所为，有所不为
+
+Added source page for Hanji 933: Zhang Niujiao's deathbed transfer of leadership to Chu Yan/Zhang Yan, Zhang Yan's consolidation of the Black Mountain network and court incorporation through office, Cui Lie's purchased situ appointment through Emperor Ling's wet nurse Madam Cheng, and Cui Jun's reputational "stink" judgment. Created Zhang Niujiao, Cui Jun, Madam Cheng (late Han), Office-Based Rebel Incorporation, and Office-Sale Legitimacy Damage pages; updated connected Zhang Yan, Heishan Army, Emperor Ling, Cui Lie, Yuan Wei, court-office, and moral-reputation pages. No settled contradiction found; ChengFurenLateHan is disambiguated from ChengFuren, Su Shi's mother.
+
+## [2026-08-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-25] ingest | 《资治通鉴·汉纪》935丨人活一口气，难成的是自己
+
+Added source page for Hanji 935: Liu Tao's warning about Yellow Turban aftermath and western rebellion pressure, eunuch accusation filtering, his prison death, Zhang Wen's 185 CE western campaign, Dong Zhuo's counterattack context, Sun Jian's ignored advice to cut the rebels' grain road, and Zhou Shen's retreat after the Han supply line is cut. Created pages for Liu Tao and Zhou Shen; updated related late-Han actors plus court-feedback, palace-access, death-defying remonstrance, and battlefield logistics concepts. No settled contradiction found; Han Sui and Bian Zhang's campaign role is preserved as an earlier stage before Hanji 937's later consolidation branch.
+
+## [2026-08-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-25] ingest | 《资治通鉴·汉纪》934丨杀一人则天下安，你杀不杀？
+
+Added source page for Hanji 934: Cui Zhouping as the Romance lead-in, Beigong Boyu's pressure on Sanfu, Cui Lie's proposal to abandon Liangzhou, Fu Xie's "斩司徒，天下乃安" rebuttal and western-shield argument, and Huangfu Song's punishment after Zhang Rang and Zhao Zhong turn refused bribery and anti-corruption memorials into slander. Created Cui Zhouping, Liangzhou (late Han), and Strategic Frontier Abandonment pages; updated related late-Han court, eunuch-access, feedback-collapse, frontier, and Huangfu Song pages. No settled contradiction found; Hexi commandery details and the literary lead-in are kept source-scoped.
 
 ## [2026-08-25] lint | Wiki health check
 

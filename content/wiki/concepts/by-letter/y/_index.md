@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "y"
-wiki_total_pages: 5372
+wiki_total_pages: 5398
 wiki_pages:
   - key: "YangtzeFishingBanRecovery"
     title: "Yangtze Fishing Ban Recovery"
@@ -86,6 +86,9 @@ wiki_pages:
   - key: "YuxiIntoHonglou"
     title: "玉溪一脉入红楼 / Yuxi Into Honglou"
     url: "/wiki/concepts/yuxiintohonglou/"
+  - key: "YizhouPacificationByLeniency"
+    title: "益州宽惠安抚 / Yizhou Pacification by Leniency"
+    url: "/wiki/concepts/yizhoupacificationbyleniency/"
   - key: "YuefaSanzhang"
     title: "约法三章 / Three-Article Covenant"
     url: "/wiki/concepts/yuefasanzhang/"

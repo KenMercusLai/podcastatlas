@@ -2,11 +2,13 @@
 title: "AI Export Controls"
 type: concept
 tags: [ai, policy, export-controls, geopolitics]
-sources: [tech-20260821-mp-tech-pod-128-tech-20260821-mp-tech-pod-128, all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390, all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545, all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955, tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]
-last_updated: 2026-08-24
+sources: [tech-20260821-mp-tech-pod-128-tech-20260821-mp-tech-pod-128, all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390, all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545, all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955, tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255, all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555]
+last_updated: 2026-08-25
 ---
 
 # AI Export Controls
+
+[[all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555]] adds the expert-data boundary through [[ExpertDataExportControls]]. The episode distinguishes ordinary data labeling from proprietary, dual-use, military-relevant, or frontier-model-improving expert datasets, with [[DavidSacks|David Sacks]] arguing for a high bar before expanding controls and [[JasonCalacanis|Jason Calacanis]] worrying that U.S. expert data helps Chinese labs catch up.
 
 [[all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390]] adds a China-origin control mirror. The hosts ask whether Chinese open-weight and hosted models could be restricted for foreign users if they become strategically important, making [[ChinaModelAccessRestrictionRisk]] the inbound counterpart to U.S. restrictions on frontier models and chips.
 
@@ -31,6 +33,7 @@ The source contrasts AI controls with chip restrictions around [[Nvidia]] hardwa
 [[tech-20260821-mp-tech-pod-128-tech-20260821-mp-tech-pod-128]] adds a logistics-crime consequence. In [[PareshDave]]'s account of [[AIDataCenterCargoTheft]], investigators suspect some stolen high-value technology is routed overseas through ports and doctored paperwork, and Dave notes that U.S. export controls may increase incentives to smuggle restricted chips out of the country.
 
 ## Key Claims
+- Expert datasets sit between commodity labeling and controlled model/chip access; the policy question is whether their content materially advances foreign frontier or military capability.
 - The Fable source adds that model-company safety rhetoric can become evidence for export-control escalation when a model appears cyber-relevant and jailbreakable.
 - AI controls become more likely when model companies or policymakers frame frontier models as weapon-like capabilities.
 - API-delivered services are difficult to restrict by nationality because the real user behind an account may not match the identity boundary.
@@ -45,6 +48,7 @@ The source contrasts AI controls with chip restrictions around [[Nvidia]] hardwa
 - The All-In strategy source adds that controls are only half the problem: the U.S. also wants allied and developing countries to adopt the American stack before Chinese alternatives become default infrastructure.
 
 ## Connections
+- [[ExpertDataExportControls]], [[SurgeAI|Surge AI]], [[Mercor]], [[Micro1]], [[China]], [[Tencent]], [[ByteDance]], [[Alibaba]], and [[MoonshotAI|Moonshot]] - August 8 All-In branch on U.S. expert data sold to Chinese AI labs.
 - [[Fable5|Fable 5]], [[Anthropic]], [[DarioAmodei|Dario Amodei]], [[HyperscalerAIGatekeeping]], and [[FrontierModelReleaseGovernance]] - All-In source's Fable shutdown and national-security escalation branch.
 - [[FrontierModelAccessRestrictions]] — implementation layer for limiting model access.
 - [[FrontierModelReleaseGovernance]] — model-review and release-clearance layer added by The Intelligence.

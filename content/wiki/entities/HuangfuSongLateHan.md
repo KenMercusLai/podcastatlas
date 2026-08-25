@@ -2,11 +2,19 @@
 title: "皇甫嵩 / Huangfu Song (late Han)"
 type: entity
 tags: [late-han, official, military, chang-an]
-sources: [zizhi-tongjian-hanji-951-tianjiang-hengcai-jiujing-shi-haoshi-haishi-huaishi-lovwgng2wrtfno-s9ttpybbhksvh, zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf, zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf, zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q, zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3]
+sources: [zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8, zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z, zizhi-tongjian-hanji-951-tianjiang-hengcai-jiujing-shi-haoshi-haishi-huaishi-lovwgng2wrtfno-s9ttpybbhksvh, zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf, zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf, zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q, zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3]
 last_updated: 2026-08-25
 ---
 
 # 皇甫嵩 / Huangfu Song (late Han)
+
+[[zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8|Hanji 934]] adds Huangfu Song's 185 CE court-vulnerability branch before the later Chen Cang and Dong Zhuo scenes. [[EmperorLingOfHan|汉灵帝]] recalls him to guard [[ChangAnHanCapital|长安]] against [[BeigongBoyuLateHan|北宫伯玉]] and related Sanfu pressure, showing that the court still needs his military capacity.
+
+The same episode then shows why merit does not protect him. Huangfu Song refuses [[ZhangRangLateHan|张让]]'s fifty-million-cash demand and memorializes against [[ZhaoZhongLateHan|赵忠]]'s overbuilt residence near Ye. Zhang Rang and Zhao Zhong answer with accusations of defeat, lack of merit, and wasted supplies; Emperor Ling believes them, recalls Huangfu Song, strips his Left Chariot-and-Cavalry General seal, and cuts six thousand households from his fief.
+
+[[zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z|Hanji 942]] backfills the old military grievance behind later [[DongZhuo|董卓]]-Huangfu Song scenes. Recalled as Left General and paired with Dong Zhuo against [[WangGuoLateHan|王国]], Huangfu Song refuses immediate relief of [[ChenCang|陈仓]] because he judges the city can hold and the besieger will tire.
+
+When Wang Guo withdraws after more than eighty days, Huangfu Song reverses into pursuit despite Dong Zhuo's objection. The victory makes him a case of [[FortifiedAttritionPatience|坚壁耗敌式耐心]] and [[WarCostTempoDiscipline|战争成本与速决纪律]], but it also humiliates Dong Zhuo, turning tactical correctness into later political exposure.
 
 [[zizhi-tongjian-hanji-951-tianjiang-hengcai-jiujing-shi-haoshi-haishi-huaishi-lovwgng2wrtfno-s9ttpybbhksvh|Hanji 951]] backfills the missed anti-[[DongZhuo|董卓]] opening before Huangfu Song's later Chang'an survival scene. While he holds a large force at Fufeng, [[GeXunLateHan|葛勋]] and [[LiangYanLateHan|梁衍]] suggest using those troops to welcome [[EmperorXianOfHan|汉献帝]], claim imperial authority, and attack Dong Zhuo in coordination with [[YuanShao|袁绍]] from the east.
 
@@ -24,6 +32,8 @@ His dismissal appears beside [[LiuBiao|Liu Biao]]'s promotion to Zhengnan genera
 
 ## Connections
 
+- [[zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8|Hanji 934]], [[BeigongBoyuLateHan|北宫伯玉]], [[ZhangRangLateHan|张让]], [[ZhaoZhongLateHan|赵忠]], and [[PalaceAccessMonopoly|宫廷接触垄断]] - earlier Sanfu assignment, refused bribery, anti-corruption memorial, and slander-driven demotion.
+- [[zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z|Hanji 942]], [[WangGuoLateHan|王国]], [[ChenCang|陈仓]], [[ChenCangBattleLateHan|陈仓之战]], [[DongZhuo|董卓]], [[FortifiedAttritionPatience|坚壁耗敌式耐心]], and [[WarCostTempoDiscipline|战争成本与速决纪律]] - delay-then-pursue victory and its resentment cost.
 - [[zizhi-tongjian-hanji-951-tianjiang-hengcai-jiujing-shi-haoshi-haishi-huaishi-lovwgng2wrtfno-s9ttpybbhksvh|Hanji 951]], [[GeXunLateHan|葛勋]], [[LiangYanLateHan|梁衍]], [[EmperorXianOfHan|汉献帝]], [[YuanShao|袁绍]], and [[MingqiLegitimacy|名器合法性]] - refused opportunity to escort the emperor and attack Dong Zhuo.
 - [[zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf|Hanji 955]], [[DongZhuo|董卓]], and [[ChangAnHanCapital|长安]] - cliffhanger setup for the fear question.
 - [[zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf|Hanji 956]], [[DongZhuo|董卓]], and [[DefensiveSpeechUnderTyranny|暴政下的防御性言说]] - intimidation question answered through public legitimacy.

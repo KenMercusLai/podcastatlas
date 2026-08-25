@@ -2,11 +2,13 @@
 title: "于扶罗 / Yufuluo Chanyu"
 type: entity
 tags: [person, late-han, xiongnu, frontier]
-sources: [zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb, zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf, zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr, zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r, zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna]
+sources: [zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy, zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb, zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf, zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr, zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r, zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna]
 last_updated: 2026-08-25
 ---
 
 # 于扶罗 / Yufuluo Chanyu
+
+[[zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy|Hanji 939]] gives Yufuluo's succession origin before his later failed appeal and Baibo branch. After the Han court requisitions [[SouthernXiongnu|南匈奴]] cavalry for [[LiuYuLateHan|刘虞]]'s campaign against [[ZhangChunLateHan|张纯]], [[XiluoSouthernXiongnu|醯落]] and the [[TugeHu|屠各胡]] kill Yufuluo's father [[QiangquChanyu|羌渠]] and install Yufuluo as chanyu.
 
 [[zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb|Hanji 949]] backfills Yufuluo's crisis before his later central-plains appearances. The source says rebels inside the [[SouthernXiongnu|南匈奴]] support a rival chanyu, so Yufuluo goes to [[LuoyangLateHan|洛阳]] to seek Han court intervention just as [[EmperorLingOfHan|汉灵帝]] dies and [[DongZhuo|董卓]]'s disorder makes judgment unavailable.
 
@@ -25,6 +27,7 @@ This episode does not explain Yufuluo's independent aims. It places him inside t
 The source gives only a brief annalistic notice, so this page remains source-scoped and should be expanded only when later sources develop his role directly.
 
 ## Connections
+- [[zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy|Hanji 939]], [[QiangquChanyu|羌渠]], [[XiluoSouthernXiongnu|醯落]], [[TugeHu|屠各胡]], [[LiuYuLateHan|刘虞]], and [[FrontierConscriptionBackfire|边疆征发反噬]] - succession origin after requisition backlash.
 - [[zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb|Hanji 949]], [[SouthernXiongnu|南匈奴]], [[LuoyangLateHan|洛阳]], [[DongZhuo|董卓]], and [[BaiboArmy|白波军]] - succession crisis, failed appeal, and stranded armed-actor prelude.
 - [[zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf|Hanji 956]], [[ZhangYangLateHan|张杨]], and [[YuanShao|袁绍]] - early encampment marker before later conflicts.
 - [[zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr|Hanji 961]], [[NeihuangBattleLateHan|内黄之战]], [[SuiGuLateHan|眭固]], [[YuDuLateHan|于毒]], and [[CaoCao|曹操]] - earlier defeat branch.

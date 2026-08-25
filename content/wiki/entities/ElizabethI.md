@@ -2,11 +2,15 @@
 title: "Elizabeth I"
 type: entity
 tags: [person, monarchy, england, protestantism, tudor]
-sources: [695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455, 696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496]
+sources: [694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087, 695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455, 696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496]
 last_updated: 2026-08-25
 ---
 
 # Elizabeth I
+
+[[694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087]] adds Elizabeth at the moment [[FrancisDrake]]'s return forces a choice between appeasing [[Spain]] and profiting from anti-Spanish privateering. The episode presents her handling of Drake's treasure and the [[GoldenHind]] ceremony as [[PrivateeringPlausibleDeniability]]: she takes money and prestige while preserving formal denial and diplomatic flexibility.
+
+The same source shows Elizabeth using [[MarriageDiplomacyAsStrategicOption]] through [[FrancoisDukeOfAnjou|Francois, Duke of Anjou]], hoping a French option might contain [[PhilipII|Philip II]] in the [[LowCountries|Low Countries]]. The collapse of Anjou's Dutch project, the [[ThrockmortonPlot]], and the [[BondOfAssociation]] all harden the link between Catholic plotting, [[MaryQueenOfScots|Mary, Queen of Scots]], and [[TudorSuccessionCrisis]] before the later Babington evidence path.
 
 [[695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455]] adds Elizabeth before the [[BabingtonPlot]] crisis, as a ruler trying to avoid open war with [[Spain]] while the [[LowCountries|Low Countries]] deteriorate. The episode presents her distrust of [[PhilipSidney|Sir Philip Sidney]], anger over his anti-Anjou intervention, and reluctance to fund war fully as part of a broader preference for control, delay, and limited commitment.
 
@@ -20,8 +24,10 @@ Elizabeth signs Mary's death warrant on 1 February 1587 but still resists immedi
 
 ## Connections
 - [[MaryQueenOfScots|Mary, Queen of Scots]] - dynastic rival and Catholic claimant.
+- [[FrancisDrake]], [[GoldenHind]], [[BernardinoDeMendoza]], and [[PrivateeringPlausibleDeniability]] - Drake return, treasure, and diplomatic denial branch.
+- [[FrancoisDukeOfAnjou|Francois, Duke of Anjou]], [[JohnStubbs]], [[WilliamAllen]], and [[MarriageDiplomacyAsStrategicOption]] - French marriage option and domestic backlash.
 - [[PhilipSidney|Sir Philip Sidney]], [[RobertDudley|Robert Dudley / Earl of Leicester]], [[FrancisDrake]], and [[FrancisWalsingham]] - English actors around the Low Countries branch.
-- [[LowCountries|Low Countries]], [[DutchRevolt]], [[TreatyOfNonsuch]], [[Flushing]], and [[Antwerp]] - intervention theatre and trigger.
+- [[LowCountries|Low Countries]], [[DutchRevolt]], [[ActOfAbjuration]], [[FrenchFury]], [[TreatyOfNonsuch]], [[Flushing]], and [[Antwerp]] - intervention theatre and trigger.
 - [[FrancisWalsingham]], [[WilliamCecil|William Cecil / Lord Burleigh]], and [[ActForTheQueensSafety|Act for the Queen's Safety]] - ministerial and legal pressure around Mary's execution.
-- [[BabingtonPlot]], [[FotheringhayCastle]], and [[SpanishArmada]] - assassination threat, execution site, and later escalation.
+- [[ThrockmortonPlot]], [[BondOfAssociation]], [[BabingtonPlot]], [[FotheringhayCastle]], and [[SpanishArmada]] - assassination threat, execution site, and later escalation.
 - [[StrategicInterventionThreshold]], [[TudorSuccessionCrisis]], [[RoyalExecutionLegitimacy]], and [[ConfessionalWarEscalation]] - interpretive frames in the episodes.

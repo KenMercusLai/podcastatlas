@@ -2,11 +2,13 @@
 title: "冀州 / Jizhou (late Han)"
 type: entity
 tags: [place, province, late-han, yuan-shao]
-sources: [zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf, zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo]
+sources: [zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r, zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf, zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo]
 last_updated: 2026-08-25
 ---
 
 # 冀州 / Jizhou (late Han)
+
+[[zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r|Hanji 941]] adds a pre-Yuan-Shao use of Jizhou through [[WangFenLateHan|王芬]], then serving as provincial inspector. Wang Fen's coup circle uses a claimed [[HeishanArmy|黑山军]] attack as the formal reason to mobilize troops, showing Jizhou as a military resource before the later Han Fu-Yuan Shao transfer branch.
 
 [[zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf|Hanji 956]] supplies the transfer mechanics behind Jizhou's later aftermath. The province is presented as militarily and materially strong enough to resist: Han Fu's advisers claim it can gather a very large army and has grain for years. Its loss comes because [[YuanShao|袁绍]] makes [[HanFuLateHan|韩馥]] misread the threat field, not because Jizhou is already exhausted.
 
@@ -16,6 +18,7 @@ The page also anchors the adjacent branch in which [[XunYu|荀彧]] later arrive
 
 ## Connections
 
+- [[zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r|Hanji 941]], [[WangFenLateHan|王芬]], [[HeishanArmy|黑山军]], and [[ImperialDepositionCoupRisk|废立政变风险]] - pretextual mobilization for the failed 188 CE coup.
 - [[zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf|Hanji 956]], [[PsychologicalSurrenderTrap|心理迫降陷阱]], [[GengWuLateHan|耿武]], [[MinChunLateHan|闵纯]], [[LiLiHanFuRetainer|李历]], [[ZhaoFuLateHan|赵浮]], and [[ChengHuanLateHan|程奂]] - pre-transfer capacity and ignored resistance advice.
 - [[HanFuLateHan|韩馥]] - displaced Jizhou holder.
 - [[YuanShao|袁绍]] - powerholder who absorbs the province.

@@ -2,11 +2,13 @@
 title: "Jeff Dean"
 type: entity
 tags: [person, ai, google, infrastructure]
-sources: [kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054, e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149, moxing-nengli-yijing-goule-yao-juan-jiu-juan-infra-duitan-daiguanlan-runta-chuangshiren-lmjsnpp7d75yhqh7bovj1bv6yhbk]
-last_updated: 2026-08-16
+sources: [kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054, e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149, moxing-nengli-yijing-goule-yao-juan-jiu-juan-infra-duitan-daiguanlan-runta-chuangshiren-lmjsnpp7d75yhqh7bovj1bv6yhbk, all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555]
+last_updated: 2026-08-25
 ---
 
 # Jeff Dean
+
+[[all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555]] adds the All-In interpretation of the same reported startup transition: [[JeffDean]] and other senior researchers moving toward [[DiscoveryLoop]] become a signal that [[Google]]'s AI research bench and cloud-infrastructure business may be pulling in different strategic directions. The episode does not independently verify the move, but it uses the report to frame [[AIHyperscalerModelChannelConflict]].
 
 Jeff Dean appears in [[e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149]] as one of the high-level [[Google]] figures [[HenryTPUEngineer|Henry]] associates with deciding future [[TPU]] direction. The episode frames Dean and [[DeepMind]] as closer to the workload and model-strategy brain, while the hardware organization implements those bets through chips, systems, and software support.
 
@@ -17,6 +19,7 @@ The source uses him to connect [[TPU]] roadmap choices to internal model and pro
 [[kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054]] adds a source-reported startup transition. The episode says Dean and several senior researchers will leave [[Google]] to build a company focused on AI systems that can keep improving themselves, with Google also investing. The wiki keeps this as source-scoped because the episode is summarizing press reporting rather than presenting Dean's own account.
 
 ## Connections
+- [[DiscoveryLoop]], [[AIHyperscalerModelChannelConflict]], and [[FrontierModelDuopoly]] - All-In branch treating the reported startup move as a market-structure and compute-allocation signal.
 - [[Google]], [[DeepMind]], [[GoogleDeepMind]], and [[Gemini]] — organizational and model context.
 - [[TPU]], [[AIChipSpecialization]], and [[ASICWorkloadPredictionRisk]] — hardware-roadmap context.
 - [[TrainingComputeAllocation]] and [[MaaSInfrastructure]] — strategic compute-allocation frame.

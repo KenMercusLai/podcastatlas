@@ -1631,6 +1631,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455": [
     {
       "key": "history",
@@ -2479,6 +2486,18 @@
       "url": "/topics/technology/"
     }
   ],
+  "AIComputePriceRisk": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "AIConsciousnessBoundary": [
     {
       "key": "technology",
@@ -3113,6 +3132,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "AIHyperscalerModelChannelConflict": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "AIIPOValuation": [
@@ -4578,6 +4604,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "ActOfAbjuration": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "ActiveFundCrowding": [
     {
       "key": "economics",
@@ -5252,6 +5285,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "Airtable": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "Airwallex": [
@@ -7820,6 +7860,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "AutonomousNavalVessels": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AutonomousVehicleRegulatoryPatchwork": [
     {
       "key": "politics",
@@ -8746,6 +8793,13 @@
       "url": "/topics/science/"
     }
   ],
+  "BendingSpoons": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "Benfen": [
     {
       "key": "politics",
@@ -8857,6 +8911,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "BernardinoDeMendoza": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "BernieEcclestone": [
@@ -9570,6 +9631,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "BondOfAssociation": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "BonusShareSplitMisreading": [
@@ -12460,6 +12528,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "ChristopherHatton": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "ChristopherMiller": [
     {
       "key": "technology",
@@ -14970,6 +15045,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "CuiZhouping": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "CulinaryGrammar": [
     {
       "key": "culture",
@@ -16847,6 +16929,13 @@
       "url": "/topics/history/"
     }
   ],
+  "DisasterReliefCorruption": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "DisasterResponseStateCapacity": [
     {
       "key": "politics",
@@ -16880,6 +16969,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "DiscoveryLoop": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "DiscoveryModel": [
@@ -19591,6 +19687,18 @@
       "url": "/topics/science/"
     }
   ],
+  "ExpertDataExportControls": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "ExpertiseAmplifiedAIUse": [
     {
       "key": "technology",
@@ -21751,6 +21859,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "FrancoisDukeOfAnjou": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "FrancoisTruffaut": [
     {
       "key": "culture",
@@ -21963,6 +22078,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "FrontierCommandCollapse": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "FrontierDefensivePatience": [
     {
       "key": "history",
@@ -21992,6 +22114,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "FrontierModelDuopoly": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "FrontierModelInflectionPivot": [
@@ -26843,6 +26972,18 @@
       "url": "/topics/technology/"
     }
   ],
+  "HumanAuthorizedAutonomousWeapons": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "HumanAuthorshipPremium": [
     {
       "key": "technology",
@@ -27084,6 +27225,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "HyperAgent": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "Hyperfixed": [
@@ -28949,6 +29097,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "JamesBeaton": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "JamesCameron": [
@@ -34983,6 +35138,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "MarriageDiplomacyAsStrategicOption": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "MarriageExitFriction": [
     {
       "key": "politics",
@@ -35810,6 +35972,13 @@
       "url": "/topics/history/"
     }
   ],
+  "Mercor": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "MeritBasedImmigrationFilter": [
     {
       "key": "politics",
@@ -36059,6 +36228,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "MichelDeCastelnau": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "MichelFoucault": [
     {
       "key": "politics",
@@ -36100,6 +36276,13 @@
     }
   ],
   "MicoWorld": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "Micro1": [
     {
       "key": "technology",
       "label": "Technology",
@@ -38641,6 +38824,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "NoCodeAIDisruption": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "NoDraftPlayerMarket": [
@@ -42958,6 +43148,13 @@
       "url": "/topics/science/"
     }
   ],
+  "PrivateCapitalDefensePrime": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "PrivateCompanySecondaries": [
     {
       "key": "economics",
@@ -43101,6 +43298,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "PrivateeringPlausibleDeniability": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "PriyaRathod": [
     {
       "key": "technology",
@@ -43176,6 +43380,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "ProductLedGrowth": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "ProductLedWillingnessToPay": [
@@ -46904,6 +47115,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "SaaSCapitalStructureReset": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "SaaSReliabilityUnderPolicyRisk": [
     {
       "key": "technology",
@@ -49710,6 +49928,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "SoftwareDefinedShipbuilding": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "SoftwareDeveloperHiringPullback": [
     {
       "key": "technology",
@@ -52185,6 +52410,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "SurgeAI": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "SurgicalOutcomeMetricDistortion": [
@@ -56725,6 +56957,13 @@
     }
   ],
   "VibeTraining": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "VibhAltakar": [
     {
       "key": "technology",
       "label": "Technology",
@@ -62542,6 +62781,18 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255": [

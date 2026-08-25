@@ -2,17 +2,20 @@
 title: "樊陵 / Fan Ling (late Han)"
 type: entity
 tags: [person, late-han, official, court, china]
-sources: [zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5]
+sources: [zizhi-tongjian-hanji-940-de-minxin-zhe-de-tianxia-ni-xin-bu-xin-loipf7b0p5a-yh0rj2njnsml8a1j, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5]
 last_updated: 2026-08-25
 ---
 
 # 樊陵 / Fan Ling (late Han)
+
+[[zizhi-tongjian-hanji-940-de-minxin-zhe-de-tianxia-ni-xin-bu-xin-loipf7b0p5a-yh0rj2njnsml8a1j|Hanji 940]] backfills Fan Ling before the forged-appointment scene. The source renders the name as "樊麟" and says he is appointed from Yongle shaofu to taiwei in May 188, then removed in June, making him part of the late [[EmperorLingOfHan|汉灵帝]] court's rapid high-office turnover.
 
 樊陵 / Fan Ling (late Han) enters the wiki through [[zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5|Hanji 946]] as one of the officials named in the eunuch faction's forged post-[[HeJin|何进]] appointment order. After He Jin is killed, [[ZhangRangLateHan|张让]] and [[DuanGuiLateHan|段珪]] appoint Fan Ling as sili xiaowei, displacing He Jin's intended personnel arrangement.
 
 The source uses Fan Ling less as an individual biography than as evidence that the palace faction tries to convert violence into immediate office control. [[YuanShao|袁绍]] and [[YuanWeiLateHan|袁隗]] then use their own false edict to summon and kill Fan Ling and [[XuXiangLateHan|许相]], turning forged document politics into a reciprocal killing channel.
 
 ## Connections
+- [[zizhi-tongjian-hanji-940-de-minxin-zhe-de-tianxia-ni-xin-bu-xin-loipf7b0p5a-yh0rj2njnsml8a1j|Hanji 940]] and [[EmperorLingOfHan|汉灵帝]] - brief taiwei appointment and removal before the later palace crisis.
 - [[ZhangRangLateHan|张让]], [[DuanGuiLateHan|段珪]], and [[TenAttendantsLateHan|十常侍]] - faction that appoints him.
 - [[XuXiangLateHan|许相]] - paired appointee killed in the same backlash.
 - [[YuanShao|袁绍]] and [[YuanWeiLateHan|袁隗]] - actors who summon and kill him through a false edict.

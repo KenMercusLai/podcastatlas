@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 7376
+wiki_total_pages: 7462
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -98,6 +98,9 @@ wiki_pages:
   - key: "JamesAx"
     title: "James Ax"
     url: "/wiki/entities/jamesax/"
+  - key: "JamesBeaton"
+    title: "James Beaton"
+    url: "/wiki/entities/jamesbeaton/"
   - key: "JamesBrussel"
     title: "James Brussel"
     url: "/wiki/entities/jamesbrussel/"
@@ -584,6 +587,9 @@ wiki_pages:
   - key: "JohnStuartMill"
     title: "John Stuart Mill / 穆勒"
     url: "/wiki/entities/johnstuartmill/"
+  - key: "JohnStubbs"
+    title: "John Stubbs"
+    url: "/wiki/entities/johnstubbs/"
   - key: "JohnTernus"
     title: "John Ternus"
     url: "/wiki/entities/johnternus/"
@@ -1079,6 +1085,9 @@ wiki_pages:
   - key: "JiaYucun"
     title: "贾雨村 / Jia Yucun"
     url: "/wiki/entities/jiayucun/"
+  - key: "JiaLongLateHan"
+    title: "贾龙 / Jia Long (late Han)"
+    url: "/wiki/entities/jialonglatehan/"
   - key: "JianShuoLateHan"
     title: "蹇硕 / Jian Shuo (late Han)"
     url: "/wiki/entities/jianshuolatehan/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 7376
+wiki_total_pages: 7462
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -368,6 +368,9 @@ wiki_pages:
   - key: "GoldenFleece"
     title: "Golden Fleece / 金羊毛"
     url: "/wiki/entities/goldenfleece/"
+  - key: "GoldenHind"
+    title: "Golden Hind"
+    url: "/wiki/entities/goldenhind/"
   - key: "GoldenLink"
     title: "Golden Link"
     url: "/wiki/entities/goldenlink/"
@@ -848,6 +851,9 @@ wiki_pages:
   - key: "GanLong"
     title: "甘龙 / Gan Long"
     url: "/wiki/entities/ganlong/"
+  - key: "GaiXunLateHan"
+    title: "盖勋 / Gai Xun (late Han)"
+    url: "/wiki/entities/gaixunlatehan/"
   - key: "Gaide"
     title: "盖德"
     url: "/wiki/entities/gaide/"
@@ -863,6 +869,9 @@ wiki_pages:
   - key: "GengWuLateHan"
     title: "耿武 / Geng Wu (late Han)"
     url: "/wiki/entities/gengwulatehan/"
+  - key: "GengBiLateHan"
+    title: "耿鄙 / Geng Bi (late Han)"
+    url: "/wiki/entities/gengbilatehan/"
   - key: "GouBian"
     title: "苟变 / Gou Bian"
     url: "/wiki/entities/goubian/"
@@ -896,6 +905,9 @@ wiki_pages:
   - key: "GuoTu"
     title: "郭图 / Guo Tu"
     url: "/wiki/entities/guotu/"
+  - key: "GuoDaLateHan"
+    title: "郭大 / Guo Da (late Han)"
+    url: "/wiki/entities/guodalatehan/"
   - key: "GuoWei"
     title: "郭威 / Guo Wei"
     url: "/wiki/entities/guowei/"

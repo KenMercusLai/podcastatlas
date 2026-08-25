@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 5372
+wiki_total_pages: 5398
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -662,6 +662,9 @@ wiki_pages:
   - key: "ExperimentalScienceEthics"
     title: "Experimental Science Ethics"
     url: "/wiki/concepts/experimentalscienceethics/"
+  - key: "ExpertDataExportControls"
+    title: "Expert Data Export Controls"
+    url: "/wiki/concepts/expertdataexportcontrols/"
   - key: "ExpertTrustRepair"
     title: "Expert Trust Repair"
     url: "/wiki/concepts/experttrustrepair/"

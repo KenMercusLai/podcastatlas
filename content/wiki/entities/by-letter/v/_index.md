@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "v"
-wiki_total_pages: 7376
+wiki_total_pages: 7462
 wiki_pages:
   - key: "VacheronConstantin"
     title: "Vacheron Constantin"
@@ -98,6 +98,9 @@ wiki_pages:
   - key: "VibeSong"
     title: "Vibe Song"
     url: "/wiki/entities/vibesong/"
+  - key: "VibhAltakar"
+    title: "Vibh Altakar"
+    url: "/wiki/entities/vibhaltakar/"
   - key: "Vichy"
     title: "Vichy / 薇姿"
     url: "/wiki/entities/vichy/"

@@ -2,11 +2,15 @@
 title: "Spain"
 type: entity
 tags: [country, football, sports-development, healthcare, law, maritime-history, catholicism, migration, borders]
-sources: [695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455, 696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496, taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7, 119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, why-the-us-has-no-guaranteed-paid-vacation, youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410, 14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285, burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b]
+sources: [694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087, 695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455, 696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496, taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7, 119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, why-the-us-has-no-guaranteed-paid-vacation, youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410, 14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285, burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b]
 last_updated: 2026-08-25
 ---
 
 # Spain
+
+[[694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087]] adds Spain as the enlarged Catholic monarchy confronting Elizabethan [[England]] after [[PhilipII|Philip II]] becomes king of [[Portugal]] as well as Spain. The episode links Spanish silver, pressure in the [[LowCountries|Low Countries]], activity around [[Ireland]], and [[BernardinoDeMendoza]]'s London diplomacy to the crisis created by [[FrancisDrake]]'s return.
+
+The same source makes Spain part of the [[ThrockmortonPlot]] through Mendoza and expected Spanish financing for [[HenryDukeOfGuise|Henry, Duke of Guise]]'s invasion plan. Mendoza's expulsion after [[FrancisWalsingham]]'s charges leaves England and Spain without normal diplomatic relations.
 
 [[695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455]] adds Spain as the active pressure behind the [[LowCountries|Low Countries]] crisis before the Armada branch. [[PhilipII|Philip II]]'s war, [[AlexanderFarnese|Alexander Farnese / Duke of Parma]]'s recovery of the southern Netherlands, the fall of [[Antwerp]], and the embargo on English ships push [[ElizabethI|Elizabeth I]] toward the [[TreatyOfNonsuch]] while [[FrancisDrake]] applies pressure to Spanish imperial possessions.
 
@@ -32,10 +36,12 @@ Spain appears in [[vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shang
 - The Intelligence source treats Spain as both a tournament favorite in the current final and a future 2030 host.
 - The Burning questions source treats Spain as a wildfire-risk example rather than as a politics or sports case.
 - The Taken littorally source treats Spain as vulnerable to [[MigrationWeaponization]] when legal rulings, enclave geography, and relations with [[Morocco]] and [[Algeria]] interact.
+- Episode 694 treats Spain as an enlarged Catholic imperial power whose ambassador, silver flows, and Low Countries pressure make Drake's privateering a diplomatic crisis.
 - Episode 695 treats Spain as a military, confessional, and economic pressure system around the Low Countries before open Anglo-Spanish war.
 - The Rest Is History source treats Spain as the Catholic great-power escalation path after Mary's execution, not as a single-cause Armada trigger.
 
 ## Connections
+- [[PhilipII|Philip II]], [[Portugal]], [[BernardinoDeMendoza]], [[FrancisDrake]], [[GoldenHind]], [[ThrockmortonPlot]], and [[PrivateeringPlausibleDeniability]] - Drake and Throckmorton branch added by episode 694.
 - [[PhilipII|Philip II]], [[AlexanderFarnese|Alexander Farnese / Duke of Parma]], [[LowCountries|Low Countries]], [[DutchRevolt]], [[Antwerp]], [[TreatyOfNonsuch]], and [[FrancisDrake]] - Low Countries escalation and English intervention branch added by episode 695.
 - [[England]], [[ElizabethI|Elizabeth I]], [[MaryQueenOfScots|Mary, Queen of Scots]], [[BabingtonPlot]], [[SpanishArmada]], and [[ConfessionalWarEscalation]] - Elizabethan conflict branch added by episode 696.
 - [[Portugal]], [[Jesuits]], [[HasekuraTsunenaga|Hasekura Tsunenaga]], and [[ConfessionalTradeConflict]] - early-modern Catholic maritime branch added by episode 14.

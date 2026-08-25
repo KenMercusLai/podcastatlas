@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2192
+topic_total_pages: 2193
 topic_concepts:
   - key: "AbraxasWholeGodSymbolism"
     title: "Abraxas Whole-God Symbolism / 阿布拉克萨斯完整神象征"
@@ -5408,6 +5408,9 @@ topic_entities:
   - key: "CuiJian"
     title: "崔健 / Cui Jian"
     url: "/wiki/entities/cuijian/"
+  - key: "CuiZhouping"
+    title: "崔州平 / Cui Zhouping"
+    url: "/wiki/entities/cuizhouping/"
   - key: "KawabataYasunari"
     title: "川端康成 / Kawabata Yasunari"
     url: "/wiki/entities/kawabatayasunari/"

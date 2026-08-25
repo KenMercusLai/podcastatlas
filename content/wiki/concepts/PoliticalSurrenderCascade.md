@@ -2,11 +2,15 @@
 title: "Political Surrender Cascade / 招降示范级联"
 type: concept
 tags: [statecraft, rebellion, signaling, military]
-sources: [zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr, zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7, zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx, zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-2-lvtievjrclb1lxxxxr6k-q7kryto, zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg]
-last_updated: 2026-08-23
+sources: [zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z, zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr, zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7, zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx, zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-2-lvtievjrclb1lxxxxr6k-q7kryto, zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg]
+last_updated: 2026-08-25
 ---
 
 # Political Surrender Cascade / 招降示范级联
+
+[[zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z|Hanji 942]] adds a late-Han frontier-pacification version through [[LiuYuLateHan|刘虞]] in [[YouzhouLateHan|幽州]]. Liu Yu combines envoys to [[Xianbei|鲜卑]], reward signals around [[ZhangJuLateHan|张举]] and [[ZhangChunLateHan|张纯]], and inducement of [[QiuLijuLateHan|丘力居]]'s submission so followers scatter or surrender.
+
+The case differs from a city-by-city conquest cascade. It works by changing the expected safety and payoff of remaining attached to the rebellion, especially for frontier actors who can choose submission once Liu Yu's credibility makes the court side look survivable.
 
 Political surrender cascade / 招降示范级联 is the pattern [[zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg|Qinji 128-5]] builds from [[KuaiChe|蒯彻]]'s advice to [[WuChen|武臣]]. A rebel commander can sometimes take territory by making surrender look safer and more profitable than resistance, then letting nearby cities copy the first successful example.
 
@@ -33,11 +37,13 @@ The two variants show why the cascade depends on credibility, not just fear. A s
 [[zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr|Hanji 191]] adds a suppression-side cascade in the attack on Yan. [[LiuBang|刘邦]] sends [[FanKuai|樊哙]] militarily, but the edict simultaneously tells Yan people and officials that they are not guilty if they do not follow [[LuWan|卢绾]], and that surrender or return can bring pardon, rank, or reward. The result is a separation strategy: isolate the ruler while making compliance profitable for his subordinates.
 
 ## Key Claims
+- Hanji 942 adds a frontier pacification variant: envoys, rewards, and credible humane reputation can make rebel followers and allied frontier actors detach without city-by-city siege.
 - Hanji 191 adds the rebellion-suppression form: amnesty and rank promises can peel local officials and followers away from a condemned ruler while the army advances.
 - Hanji 157 part 2 adds that a cascade can be powered by battlefield reputation: one state submits because a recent victory makes resistance look isolated, then that submission becomes leverage against the next state.
 - Hanji 162-3 adds that a cascade can be interrupted by the victor's own side when a parallel commander treats diplomatic success as a rival merit claim rather than as shared strategic success.
 
 ## Connections
+- [[zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z|Hanji 942]], [[LiuYuLateHan|刘虞]], [[YouzhouLateHan|幽州]], [[QiuLijuLateHan|丘力居]], [[ZhangJuLateHan|张举]], [[ZhangChunLateHan|张纯]], [[Xianbei|鲜卑]], and [[Wuhuan|乌桓]] - late-Han frontier submission and dispersal branch.
 - [[zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr|Hanji 191]], [[LiuBang|刘邦]], [[FanKuai|樊哙]], [[LuWan|卢绾]], and [[YanState|燕国]] - pardon-and-rank edict used to separate Yan subordinates from Lu Wan.
 - [[zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx|Hanji 162-3]], [[LiShiqi|郦食其]], [[TianGuangQiKing|田广]], [[HanXin|韩信]], [[KuaiChe|蒯彻 / 蒯通]], and [[QiState|齐国]] - more-than-seventy-city submission interrupted by Han's own attack.
 - [[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3|Hanji 157 part 2]], [[VictoryDeterrenceDiplomacy|胜势威慑外交]], [[HanXin|韩信]], [[YanState|燕国]], and [[QiState|齐国]] - surrender cascade driven by Jingxing reputation and envoy sequencing.

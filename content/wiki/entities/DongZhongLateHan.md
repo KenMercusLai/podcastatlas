@@ -2,11 +2,13 @@
 title: "董重 / Dong Zhong (late Han)"
 type: entity
 tags: [person, late-han, general, imperial-family, china]
-sources: [zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt]
+sources: [zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r, zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt]
 last_updated: 2026-08-25
 ---
 
 # 董重 / Dong Zhong (late Han)
+
+[[zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r|Hanji 941]] backfills Dong Zhong before the succession purge. He is appointed piqi jiangjun after serving as weiwei and Xiu marquis; the episode ties the rise to his relationship with the Yongle empress dowager line and treats the high office as both prestige and exposure.
 
 董重 / Dong Zhong (late Han) enters the wiki through [[zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt|Hanji 943]] as the Dong-family military figure tied to [[EmpressDowagerDongLateHan|董太后]]'s side of the succession struggle. He is not [[DongZhongshu|董仲舒]]; the stable suffix keeps the late-Han general distinct from the Western Han thinker.
 
@@ -15,6 +17,7 @@ The source names Dong Zhong as 骠骑将军 and places him in rivalry with [[HeJ
 He Jin's answer is coercive and fast. He joins the Three Excellencies in memorializing against the Dong side, has troops surround Dong Zhong's general's residence, removes him from office, and Dong Zhong kills himself. The page therefore marks the concrete armed elimination of the Dong support line after [[LiuBianHongnongWang|刘辩 / 弘农王]] has been enthroned.
 
 ## Connections
+- [[zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r|Hanji 941]], [[EmperorLingOfHan|汉灵帝]], and [[WestGardenEightColonels|西园八校尉]] - same 188 CE court-military reshuffle context in which Dong Zhong rises.
 - [[zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt|Hanji 943]] - source case.
 - [[EmpressDowagerDongLateHan|董太后]], [[EmperorXianOfHan|汉献帝]], and [[SuccessionNonDesignationRisk|未定继承人风险]] - Dong-side succession support.
 - [[HeJin|何进]], [[EmpressDowagerHe|何太后]], and [[SuccessionLegitimacyPurge|继位合法性清洗]] - retaliation and removal after the threat against He Jin.

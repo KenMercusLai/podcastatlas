@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1474
+topic_total_pages: 1475
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -3630,6 +3630,9 @@ topic_sources:
   - key: "69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465"
     title: "69.闲聊推理文学：历史学者可不就是侦探吗！"
     url: "/wiki/sources/69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465/"
+  - key: "694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087"
+    title: "694. Elizabeth I vs The Catholics: A Treacherous Conspiracy (Part 4)"
+    url: "/wiki/sources/694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087/"
   - key: "695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455"
     title: "695. Elizabeth I vs The Catholics: The Shadow War (Part 5)"
     url: "/wiki/sources/695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455/"

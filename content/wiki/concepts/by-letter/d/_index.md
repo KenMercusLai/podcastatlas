@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 5372
+wiki_total_pages: 5398
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -713,6 +713,9 @@ wiki_pages:
   - key: "DualManuscriptNarration"
     title: "双手稿叙事 / Dual Manuscript Narration"
     url: "/wiki/concepts/dualmanuscriptnarration/"
+  - key: "DisasterReliefCorruption"
+    title: "救灾物资贪腐 / Disaster Relief Corruption"
+    url: "/wiki/concepts/disasterreliefcorruption/"
   - key: "DigitalHealthCommunity"
     title: "数字健共体"
     url: "/wiki/concepts/digitalhealthcommunity/"

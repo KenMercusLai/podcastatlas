@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 5372
+wiki_total_pages: 5398
 wiki_pages:
   - key: "ICEWorkforceExpansion"
     title: "ICE Workforce Expansion"
@@ -74,6 +74,9 @@ wiki_pages:
   - key: "ImperialDeathConcealment"
     title: "Imperial Death Concealment / 秘不发丧式过渡控制"
     url: "/wiki/concepts/imperialdeathconcealment/"
+  - key: "ImperialDepositionCoupRisk"
+    title: "Imperial Deposition Coup Risk / 废立政变风险"
+    url: "/wiki/concepts/imperialdepositioncouprisk/"
   - key: "ImperialExaminationAsOnlyExit"
     title: "Imperial Examination As Only Exit"
     url: "/wiki/concepts/imperialexaminationasonlyexit/"

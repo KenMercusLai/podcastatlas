@@ -2,7 +2,7 @@
 title: "Good Intentions Political Limits"
 type: concept
 tags: [ethics, politics, realism, responsibility]
-sources: [zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3, zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y, zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj, 170-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-xia-958158115, 169-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-shang-957052909, 35-tianzhende-renleixuejia-zuo-tianye-hui-shangyin-de-603418624, 133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]
+sources: [zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar, zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3, zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y, zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj, 170-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-xia-958158115, 169-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-shang-957052909, 35-tianzhende-renleixuejia-zuo-tianye-hui-shangyin-de-603418624, 133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]
 last_updated: 2026-08-25
 ---
 
@@ -11,6 +11,8 @@ last_updated: 2026-08-25
 Good intentions political limits is the episode's ethical endpoint: sincere goodness does not automatically produce good political outcomes. [[72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837]] develops this through [[ThePrince|《君主论》]], the host's reflection on a prisoner's-dilemma-style workplace game, and the broader distinction between what ought to happen and what actually happens.
 
 The concept does not reject goodness. The source argues that people need conscience and belief in the good precisely because political reality is dangerous. The boundary is that naively assuming truth, kindness, or cooperation will be reciprocated can leave a person unable to act when others defect or use power.
+
+[[zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar|Hanji 936]] adds a late-Han command version through [[ZhangWenLateHan|张温]] and [[DongZhuo|董卓]]. Zhang Wen's reluctance to execute Dong Zhuo is not treated as pure cowardice: Dong Zhuo has western military prestige and no single uncontestable capital offense. Yet the source also shows that reluctance carrying a political cost because public contempt by a powerful subordinate weakens [[CommandDisciplineAuthority|军法威严]].
 
 [[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]] adds a Confucian statecraft version through [[WangMang|王莽]]. In that source, [[ConfucianIdealGovernance]] and moral reputation are not dismissed as empty, but they fail when attached to [[IdeologicalOvercontrol]], weak policy execution, and [[ConfucianForeignPolicyMoralism|symbolic frontier policy]].
 
@@ -34,6 +36,7 @@ The concept does not reject goodness. The source argues that people need conscie
 
 ## Key Claims
 - Hanji 967 adds that survival-oriented advice can fail ethically when it does not constrain the character and incentives of the executors who will benefit from success.
+- Hanji 936 adds that procedural reluctance and humane hesitation can still damage command authority when a powerful subordinate publicly treats hierarchy as optional.
 - Goodness without realism can become helpless, but realism without conscience becomes corruption.
 - The episode separates "is" and "ought" without allowing the "is" to erase the "ought."
 - The source's final moral instruction is to avoid evil unless absolutely necessary, and to know what one is doing if necessity is claimed.
@@ -50,6 +53,7 @@ The concept does not reject goodness. The source argues that people need conscie
 
 ## Connections
 - [[zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3|Hanji 967]], [[JiaXu|贾诩]], [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], and [[ExecutorCharacterAdviceRisk]] - adviser-executor version of constrained intention.
+- [[zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar|Hanji 936]], [[ZhangWenLateHan|张温]], [[DongZhuo|董卓]], [[SunJianLateHan|孙坚]], and [[CommandDisciplineAuthority|军法威严]] - command-law version of well-reasoned hesitation becoming politically costly.
 - [[MachiavellianRealism]] and [[NonMoralPoliticalAnalysis]] - concepts that create the pressure on naive goodness.
 - [[CrueltyUsedWell]] - most dangerous case where effect and moral responsibility diverge.
 - [[FixedHumanNaturePolitics]] - adjacent worry about assuming permanent badness too quickly.

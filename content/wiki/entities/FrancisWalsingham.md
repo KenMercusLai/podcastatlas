@@ -2,11 +2,15 @@
 title: "Francis Walsingham"
 type: entity
 tags: [person, intelligence, tudor, england]
-sources: [695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455, 696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496]
+sources: [694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087, 695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455, 696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496]
 last_updated: 2026-08-25
 ---
 
 # Francis Walsingham
+
+[[694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087]] adds Walsingham as an early advocate of backing [[FrancisDrake]] and as the intelligence minister who exposes the [[ThrockmortonPlot]]. The episode shows his network penetrating [[MichelDeCastelnau]]'s French embassy, copying [[MaryQueenOfScots|Mary, Queen of Scots]]' cipher correspondence, and watching [[FrancisThrockmorton]] closely enough that Mary was worried by June 1583.
+
+The source also makes Walsingham a policy escalator after the plot: he charges [[BernardinoDeMendoza]] before the Privy Council, helps drive tighter restrictions on Mary, and works with [[WilliamCecil|William Cecil / Lord Burleigh]] on the [[BondOfAssociation]].
 
 [[695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455]] adds Walsingham before the Babington operation as part of [[PhilipSidney|Sir Philip Sidney]]'s militant Protestant formation. The episode places Sidney with Walsingham in Paris during the St Bartholomew's Day Massacre and later makes Sidney Walsingham's son-in-law, turning religious trauma, family alliance, and anti-Spanish policy into one network.
 
@@ -18,6 +22,8 @@ Mary accuses Walsingham of tampering with her letters at [[FotheringhayCastle]],
 
 ## Connections
 - [[ElizabethI|Elizabeth I]] and [[WilliamCecil|William Cecil / Lord Burleigh]] - Protestant security leadership around Mary.
+- [[FrancisDrake]], [[ChristopherHatton]], and [[RobertDudley|Robert Dudley / Earl of Leicester]] - pro-Drake council faction in episode 694.
 - [[PhilipSidney|Sir Philip Sidney]], [[France]], and [[ConfessionalWarEscalation]] - earlier Protestant-militant formation in episode 695.
+- [[ThrockmortonPlot]], [[FrancisThrockmorton]], [[MichelDeCastelnau]], [[BernardinoDeMendoza]], [[HenryFagot]], and [[BondOfAssociation]] - earlier conspiracy exposure branch.
 - [[MaryQueenOfScots|Mary, Queen of Scots]], [[BabingtonPlot]], [[GilbertGifford]], and [[ThomasPhillips]] - target, conspiracy, courier, and cryptanalyst.
 - [[ChartleyManor]], [[FotheringhayCastle]], and [[SpyNetworkEntrapment]] - operational and legal path.

@@ -2,7 +2,7 @@
 title: "Battlefield Encirclement Logistics / 战场围困与断粮"
 type: concept
 tags: [warfare, logistics, encirclement, military-command, warring-states]
-sources: [zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym, zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on, zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-2-li14pizmfrzhpg8m5bmxdx8ibw7p, zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-1-ltkz7bwqgkcqessdfbn9unf5e05l, zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-2-lqy1uu29xbfipo9e0kq6obkl3oay, zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns]
+sources: [zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw, zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym, zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on, zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-2-li14pizmfrzhpg8m5bmxdx8ibw7p, zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-1-ltkz7bwqgkcqessdfbn9unf5e05l, zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-2-lqy1uu29xbfipo9e0kq6obkl3oay, zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns]
 last_updated: 2026-08-23
 ---
 
@@ -13,6 +13,10 @@ Battlefield encirclement logistics / 战场围困与断粮 is the operational pa
 In the episode, [[ZhaoKuo|赵括]] replaces [[LianPo|廉颇]]'s defensive posture with an attack across the Dan River. Bai Qi lets Qin's front line feign defeat and fall back to prepared barriers, then uses a 25,000-person side force and 5,000 cavalry to cut the Zhao army from its camp and rear support. Qin then makes the cut durable with chariots, infantry, ditches, walls, and fortified lines.
 
 The concept is adjacent to [[TransportCorridorSeverance|交通线切割]], but it operates at battle scale rather than regional strategy scale. Earlier corridor severance isolates [[Shangdang|上党]] from [[HanState|韩国]] and produces the political prelude to Changping; battlefield encirclement logistics isolates Zhao's main force from food, retreat, and reinforcement after Zhao Kuo moves.
+
+[[zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw|Hanji 935]] adds a late-Han pursuit version through [[SunJianLateHan|孙坚]]'s advice to [[ZhouShenLateHan|周慎]]. After [[BianZhangLateHan|边章]] and [[HanSui|韩遂]] withdraw toward Yuzhong, Sun Jian argues that their city force has little food and depends on external grain movement; cutting that road while the main army supports would force retreat and open a chance to settle Liangzhou.
+
+The source also gives the failed mirror image. Zhou Shen ignores the advice, besieges directly, and the rebels cut the Han army's own grain road at Kuiyuan Gorge. The episode therefore adds a warning form of the concept: if a commander does not act on the enemy's logistical vulnerability, the same mechanism can be turned back against his own force.
 
 [[zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw|Qinji 134]] adds the Julu reversal case. At first, [[WangLiQin|王离]] is the besieger whose army is fed through [[ZhangHanQin|章邯]]'s corridor from [[Aocang|敖仓]] toward [[Julu|巨鹿]]. [[XiangYu|项羽]] changes the encirclement not by immediately attacking Wang Li, but by sending [[YingBu|英布]] and [[PuGeneral|蒲将军]] to break the corridor and separate Wang Li from Zhang Han.
 
@@ -29,6 +33,7 @@ This adds an attacking-rescue version of the concept. The side trying to relieve
 [[zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym|Hanji 178]] adds the release boundary of that same encirclement. The pocket remains lethal through hunger, cold, and separation, but Modu's ability to keep it closed is not costless: allied forces fail to arrive, Han reinforcements are approaching, and holding or occupying the Han ruler could exceed Xiongnu aims. The concept therefore connects battlefield isolation to [[EncirclementReleaseCalculus|围困开口式风险权衡]], where the encircler may open one passage because total destruction creates new strategic risk.
 
 ## Key Claims
+- Hanji 935 adds a pursuit-and-siege warning: an army that ignores the enemy's food-road vulnerability may see the same supply-line logic reversed against itself.
 - Encirclement becomes decisive when it controls food movement, not only battlefield position.
 - A feigned retreat can be useful when it pulls the enemy across a terrain or river line that makes retreat harder.
 - Fast cavalry or light forces may make the first cut, but fieldworks and heavier troops are needed to keep the cut closed.
@@ -43,6 +48,7 @@ This adds an attacking-rescue version of the concept. The side trying to relieve
 - Hanji 178 adds that an encirclement's logistical success can still produce a release decision when allied uncertainty, reinforcements, and occupation costs make full annihilation risky.
 
 ## Connections
+- [[zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw|Hanji 935]], [[SunJianLateHan|孙坚]], [[ZhouShenLateHan|周慎]], [[BianZhangLateHan|边章]], and [[HanSui|韩遂]] - rejected rebel-grain-road plan and reversed Han supply-line failure.
 - [[zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym|Hanji 178]], [[BaidengEncirclement|白登之围]], [[MaoDunChanyu|冒顿单于]], [[LiuBang|刘邦]], and [[EncirclementReleaseCalculus|围困开口式风险权衡]] - lethal isolation whose continuation becomes strategically risky for the encircler.
 - [[zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on|Hanji 177]], [[BaidengEncirclement|白登之围]], [[LiuBang|刘邦]], [[MaoDunChanyu|冒顿单于]], and [[NomadicCavalryRaidingAsymmetry|游牧骑兵劫掠不对称]] - winter cavalry encirclement that can kill through isolation.
 - [[BaiQi|白起]], [[ZhaoKuo|赵括]], [[QinState|秦国]], and [[ZhaoState|赵国]] - commander pair and opposing states in the source case.

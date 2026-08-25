@@ -2,11 +2,15 @@
 title: "何进 / He Jin"
 type: entity
 tags: [person, late-han, china]
-sources: [zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt, zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr, zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5, zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1, zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk, zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh]
+sources: [zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z, zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt, zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr, zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5, zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1, zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk, zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh]
 last_updated: 2026-08-25
 ---
 
 # 何进 / He Jin
+
+[[zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z|Hanji 942]] backfills He Jin before [[EmperorLingOfHan|汉灵帝]]'s death and before the later anti-eunuch plans. [[JianShuoLateHan|蹇硕]] and other attendants urge the emperor to send He Jin west against [[HanSui|韩遂]], which He Jin reads as a bid to remove him from the capital power center.
+
+He Jin does not refuse directly. He delays by asking [[YuanShao|袁绍]] to gather troops from [[Xuzhou|徐州]] and [[YanzhouLateHan|兖州]] first, turning a dangerous court order into time-buying maneuvering. This episode therefore gives his later dependence on Yuan Shao and outside-force logic an earlier pre-succession root.
 
 [[zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt|Hanji 943]] backfills He Jin before the anti-eunuch planning in Hanji 944. After [[EmperorLingOfHan|汉灵帝]] dies without a named heir, [[JianShuoLateHan|蹇硕]] tries to lure He Jin into the palace and kill him before installing Liu Xie, later [[EmperorXianOfHan|汉献帝]]. [[PanYinLateHan|潘隐]] warns He Jin, so He Jin survives long enough for [[LiuBianHongnongWang|刘辩 / 弘农王]] and [[EmpressDowagerHe|何太后]] to become the accession center.
 
@@ -35,6 +39,7 @@ The source matters for He Jin because Dong Zhuo's deposition is followed by remo
 何进 / He Jin enters the wiki through [[zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh|Hanji 1013]] as the family status marker for [[LadyYinCaoCao|尹夫人]], whom the source identifies as his daughter-in-law. The episode does not develop He Jin's career; it uses the tie to explain why Lady Yin and [[HeYan|何晏]] already belong to an elite late-Han household world before their connection to [[CaoCao|曹操]].
 
 ## Connections
+- [[zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z|Hanji 942]], [[JianShuoLateHan|蹇硕]], [[YuanShao|袁绍]], [[HanSui|韩遂]], [[Xuzhou|徐州]], and [[YanzhouLateHan|兖州]] - attempted displacement west and He Jin's delay through outside-troop preparation.
 - [[zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt|Hanji 943]], [[JianShuoLateHan|蹇硕]], [[PanYinLateHan|潘隐]], [[GuoShengLateHan|郭胜]], [[EmpressDowagerDongLateHan|董太后]], [[DongZhongLateHan|董重]], [[SuccessionNonDesignationRisk|未定继承人风险]], and [[SuccessionLegitimacyPurge|继位合法性清洗]] - first succession crisis, failed attempt against He Jin, and He-side consolidation.
 - [[zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr|Hanji 944]], [[EmpressDowagerHe|何太后]], [[HeMiaoLateHan|何苗]], [[WuyangJun|武阳君]], [[ChenLinLateHan|陈琳]], [[CaoCao|曹操]], and [[LethalPlanLeakageRisk|致命计划泄露风险]] - earlier anti-eunuch planning, family obstruction, and leakage warning.
 - [[zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl|Hanji 945]], [[YuanShao|袁绍]], [[ZhengTaiLateHan|郑泰]], [[LuZhiLateHan|卢植]], [[DongZhuo|董卓]], and [[ExternalTroopInvitationRisk|外兵入京升级风险]] - outside-troop summons and ignored warnings before the palace trap.

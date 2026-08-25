@@ -2,11 +2,19 @@
 title: "蹇硕 / Jian Shuo (late Han)"
 type: entity
 tags: [person, eunuch, late-han, court, china]
-sources: [zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt]
+sources: [zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r, zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z, zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt]
 last_updated: 2026-08-25
 ---
 
 # 蹇硕 / Jian Shuo (late Han)
+
+[[zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r|Hanji 941]] backfills Jian Shuo's formal military position before the succession crisis. In the new [[WestGardenEightColonels|西园八校尉]] structure, he becomes shangjun xiaowei; the episode stresses that even the general-in-chief is placed under his command in this arrangement.
+
+This makes Jian Shuo more than a palace attendant before Hanji 942-943. His later ability to move [[GaiXunLateHan|盖勋]], pressure [[HeJin|何进]], and attempt a Liu Xie succession move rests on a prior combination of [[EmperorLingOfHan|汉灵帝]]'s trust, eunuch access, and capital military authority.
+
+[[zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z|Hanji 942]] shows Jian Shuo before the succession coup. When [[GaiXunLateHan|盖勋]] and [[YuanShao|袁绍]] begin discussing removal of the eunuchs, Jian Shuo uses his inside access to have Gai Xun moved to Jingzhao yin, neutralizing the threat through appointment rather than open confrontation.
+
+The same episode also shows Jian Shuo trying to displace [[HeJin|何进]] from [[LuoyangLateHan|洛阳]] before [[EmperorLingOfHan|汉灵帝]]'s death. With other attendants, he urges the emperor to send He Jin west against [[HanSui|韩遂]], but He Jin reads the move as dangerous and delays by asking Yuan Shao to gather outside troops first.
 
 蹇硕 / Jian Shuo (late Han) enters the wiki through [[zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt|Hanji 943]] as the eunuch and military office-holder whom [[EmperorLingOfHan|汉灵帝]] trusts with Liu Xie, later [[EmperorXianOfHan|汉献帝]], near the end of his life. The source presents Jian Shuo as the first actor to try converting the unsettled succession into force: kill [[HeJin|何进]] first, then install Liu Xie.
 
@@ -15,6 +23,8 @@ The plan fails because [[PanYinLateHan|潘隐]], Jian Shuo's subordinate and He 
 That appeal exposes his isolation. [[GuoShengLateHan|郭胜]] is tied to the He family and hands the letter to He Jin; He Jin orders Jian Shuo arrested and killed. The source then says Jian Shuo's palace guard command passes to He Jin, turning a failed succession coup into a major strengthening of the He side before Hanji 944's anti-eunuch planning.
 
 ## Connections
+- [[zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r|Hanji 941]], [[WestGardenEightColonels|西园八校尉]], [[EmperorLingOfHan|汉灵帝]], [[YuanShao|袁绍]], and [[CaoCao|曹操]] - early shangjun xiaowei command in the capital military restructuring.
+- [[zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z|Hanji 942]], [[GaiXunLateHan|盖勋]], [[YuanShao|袁绍]], [[HeJin|何进]], and [[HanSui|韩遂]] - pre-succession use of appointment and campaign assignment to move threats away from the capital.
 - [[zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt|Hanji 943]] - source case.
 - [[EmperorLingOfHan|汉灵帝]], [[EmperorXianOfHan|汉献帝]], and [[SuccessionNonDesignationRisk|未定继承人风险]] - trust assignment and non-designated succession field.
 - [[HeJin|何进]], [[PanYinLateHan|潘隐]], [[GuoShengLateHan|郭胜]], and [[ZhaoZhongLateHan|赵忠]] - failed killing plan, warning, betrayal, and exposure.

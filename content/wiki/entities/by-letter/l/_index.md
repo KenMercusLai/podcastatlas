@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 7376
+wiki_total_pages: 7462
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -725,6 +725,9 @@ wiki_pages:
   - key: "LengJianguo"
     title: "冷建国 / Leng Jianguo"
     url: "/wiki/entities/lengjianguo/"
+  - key: "LiangzhouLateHan"
+    title: "凉州 / Liangzhou (late Han)"
+    url: "/wiki/entities/liangzhoulatehan/"
   - key: "LiangzhouWarlordClique"
     title: "凉州系军阀 / Liangzhou Warlord Clique"
     url: "/wiki/entities/liangzhouwarlordclique/"
@@ -836,6 +839,9 @@ wiki_pages:
   - key: "LiuChangHuainanKing"
     title: "刘长 / Liu Chang (Huainan king)"
     url: "/wiki/entities/liuchanghuainanking/"
+  - key: "LiuTaoLateHan"
+    title: "刘陶 / 刘桃 (late Han)"
+    url: "/wiki/entities/liutaolatehan/"
   - key: "LiuFei"
     title: "刘飞"
     url: "/wiki/entities/liufei/"
@@ -1022,6 +1028,9 @@ wiki_pages:
   - key: "LiDeyu"
     title: "李德裕"
     url: "/wiki/entities/lideyu/"
+  - key: "LiWenhouLateHan"
+    title: "李文侯 / Li Wenhou (late Han)"
+    url: "/wiki/entities/liwenhoulatehan/"
   - key: "LiSi"
     title: "李斯 / Li Si"
     url: "/wiki/entities/lisi/"
@@ -1070,6 +1079,9 @@ wiki_pages:
   - key: "LiBai"
     title: "李白 / Li Bai"
     url: "/wiki/entities/libai/"
+  - key: "LiXiangruLateHan"
+    title: "李相如 / Li Xiangru (late Han)"
+    url: "/wiki/entities/lixiangrulatehan/"
   - key: "LiWeiSanlian"
     title: "李维 / Li Wei (Sanlian)"
     url: "/wiki/entities/liweisanlian/"

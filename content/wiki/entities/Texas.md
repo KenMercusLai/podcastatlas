@@ -1,12 +1,14 @@
 ---
 title: "Texas"
 type: entity
-tags: [place, state, energy, climate, carbon-removal, ai-policy, crypto]
-sources: [all-in-with-chamath-jason-sacks-friedberg-mark-cuban-on-the-ai-bubble-who-actually-gets-wiped-out-42155640, tech-20260814-tech-pod-128-tech-20260814-tech-pod-128, tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128, tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128, tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128, tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128]
-last_updated: 2026-08-22
+tags: [place, state, energy, climate, carbon-removal, ai-policy, crypto, shipbuilding, defense]
+sources: [all-in-with-chamath-jason-sacks-friedberg-saronic-founders-autonomous-warships-chinas-230x-advantage-swarms-of-robot-ships-42334230, all-in-with-chamath-jason-sacks-friedberg-mark-cuban-on-the-ai-bubble-who-actually-gets-wiped-out-42155640, tech-20260814-tech-pod-128-tech-20260814-tech-pod-128, tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128, tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128, tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128, tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128]
+last_updated: 2026-08-25
 ---
 
 # Texas
+
+[[all-in-with-chamath-jason-sacks-friedberg-saronic-founders-autonomous-warships-chinas-230x-advantage-swarms-of-robot-ships-42334230]] adds Texas as [[Saronic]]'s manufacturing and shipyard base. The episode says Saronic can build [[CorsairSaronic|Corsair]] vessels at its Austin-area facility and is planning [[PortAlpha|Port Alpha]] in Brownsville as a large shipyard for autonomous vessels, making Texas part of [[NavalShipbuildingThroughput]] and [[StrategicIndustrialPolicy]] rather than only an AI, crypto, and carbon-removal state.
 
 [[all-in-with-chamath-jason-sacks-friedberg-mark-cuban-on-the-ai-bubble-who-actually-gets-wiped-out-42155640]] adds Texas as an operating-culture and tax-policy comparison through [[MarkCuban|Mark Cuban]] and the [[AllIn|All-In]] hosts. The discussion contrasts Texas with [[California]] and New York on building, taxes, quality of life, and company formation, while Cuban argues that wealth-tax proposals can ignore behavioral responses and mobility. The source therefore connects Texas to [[CaliforniaWealthTaxCapitalFlight]] and founder operating environment, not only state regulation.
 
@@ -25,6 +27,7 @@ The source uses Texas as the fossil-fuel-backed contrast case. Support from an o
 [[tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128]] adds Texas to the [[OnlineAgeVerification]] branch. [[DrewHarwell]] says a Texas explicit-content age-verification law reached the [[SupremeCourt]], and the episode treats the ruling as part of the legal shift encouraging more state and federal attention to age assurance.
 
 ## Connections
+- [[Saronic]], [[PortAlpha|Port Alpha]], [[CorsairSaronic|Corsair]], [[SoftwareDefinedShipbuilding]], and [[NavalShipbuildingThroughput]] - defense shipbuilding and autonomous-vessel branch added by the Saronic interview.
 - [[OccidentalPetroleum|Occidental Petroleum]] - company backing the Texas hub in the episode.
 - [[Carbon180]], [[AaronBurns]], and [[UnitedStatesCongress|Congress]] - policy and funding context.
 - [[DirectAirCapture]], [[CarbonRemoval]], [[CarbonRemovalPoliticalDurability]], and [[CarbonRemovalMoralHazard]] - technology and legitimacy frame.

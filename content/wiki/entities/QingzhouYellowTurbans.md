@@ -2,11 +2,13 @@
 title: "青州黄巾军 / Qingzhou Yellow Turbans"
 type: entity
 tags: [group, late-han, yellow-turban, qingzhou, yanzhou, military]
-sources: [zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo, zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq, zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj]
+sources: [zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r, zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo, zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq, zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj]
 last_updated: 2026-08-25
 ---
 
 # 青州黄巾军 / Qingzhou Yellow Turbans
+
+[[zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r|Hanji 941]] adds the 188 CE recurrence notice before later battlefield and conversion branches. The episode says Yellow Turban forces in [[QingzhouLateHan|青州]] and [[Xuzhou|徐州]] rise again and attack commanderies and counties, keeping civilian suffering active while the capital reorganizes military command.
 
 [[zizhi-tongjian-hanji-958-jiemi-shishang-zui-duanming-de-tongchoudikai-lve41q9gyijbop8wk-b7e6shogju|Hanji 958]] adds an earlier pre-Cao branch. The source describes a large Qingzhou Yellow Turban force attacking Bohai and preparing to connect with the [[HeishanArmy|黑山军]] before [[GongsunZan|公孙瓒]] attacks near [[DongguangCountyLateHan|东光县]] and defeats it.
 
@@ -20,6 +22,7 @@ The same branch prepares [[zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-ya
 
 ## Connections
 
+- [[zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r|Hanji 941]], [[QingzhouLateHan|青州]], [[Xuzhou|徐州]], and [[WarDisasterCompounding]] - 188 CE recurrence and civilian suffering before later conversion or pacification branches.
 - [[zizhi-tongjian-hanji-958-jiemi-shishang-zui-duanming-de-tongchoudikai-lve41q9gyijbop8wk-b7e6shogju|Hanji 958]], [[GongsunZan|公孙瓒]], [[DongguangCountyLateHan|东光县]], and [[HeishanArmy|黑山军]] - earlier defeat that builds Gongsun Zan's standing.
 - [[zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo|Hanji 957]], [[BaoXin|鲍信]], [[CaoCao|曹操]], [[YuanShao|袁绍]], and [[DongCommandery|东郡]] - pressure that supports Bao Xin's early positioning advice.
 - [[QingzhouLateHan|青州]] - provincial label attached to the force.

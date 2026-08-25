@@ -2,11 +2,13 @@
 title: "AI Native SaaS Threat"
 type: concept
 tags: [ai, saas, competition]
-sources: [all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420, all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435, all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140, 11-nian-110-yi-meijin-ranhou-ne-duihua-airwallex-wu-kai-ai-shidai-xiayizhan-1000-yi-lr4tvdrq25by7fugoqkqojw6vwdk, openclaw-zhihou-wo-zhi-xiang-weilai-3-6-ge-yue-de-shiqing-duitan-sheet0-chuangshiren-wang-wenfeng-lu-d4y7qifag6-rc79tp-roxjp4z, e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, tech-20260218-0218-mp-tech-pod-128-tech-20260218-0218-mp-tech-pod-128, community-led-saas-growth-how-ninety-hit-44m-arr, bootstrapped-saas-12m-arr-across-5-products-with-a-team-of-10, finding-product-market-fit-after-3-years-of-failed-ideas, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1]
-last_updated: 2026-08-21
+sources: [all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420, all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435, all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140, 11-nian-110-yi-meijin-ranhou-ne-duihua-airwallex-wu-kai-ai-shidai-xiayizhan-1000-yi-lr4tvdrq25by7fugoqkqojw6vwdk, openclaw-zhihou-wo-zhi-xiang-weilai-3-6-ge-yue-de-shiqing-duitan-sheet0-chuangshiren-wang-wenfeng-lu-d4y7qifag6-rc79tp-roxjp4z, e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, tech-20260218-0218-mp-tech-pod-128-tech-20260218-0218-mp-tech-pod-128, community-led-saas-growth-how-ninety-hit-44m-arr, bootstrapped-saas-12m-arr-across-5-products-with-a-team-of-10, finding-product-market-fit-after-3-years-of-failed-ideas, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1, all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555]
+last_updated: 2026-08-25
 ---
 
 # AI Native SaaS Threat
+
+[[all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555]] adds the no-code SaaS reset version through [[Airtable]]. The hosts argue that tools such as [[ClaudeCode]], [[Lovable]], and [[Perplexity]] can weaken products whose main promise is user-created workflows, while a useful but slower-growing product may still survive under a lower-cost owner if it has trust, daily use, and [[ProductLedGrowth|product-led growth]] potential.
 
 [[all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420]] adds the investor-market version of SaaS pressure. The hosts connect agentic interfaces, [[ClaudeCode]], [[OpenAI]], and enterprise buyers' desire to state an intent rather than operate many screens to the possibility that SaaS seats, maintenance revenue, and brand-like switching costs get repriced downward.
 
@@ -29,6 +31,7 @@ AI native SaaS threat is the risk that new competitors build around AI from the 
 [[ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1]] adds the [[EnterpriseResourcePlanning|ERP]] qualification through [[SAP]]. [[YuanXin]] accepts that AI coding and agents pressure software interaction, customization, and seat pricing, but argues that ERP replacement is constrained by [[ERPTrustMoat]]: audited data, permissions, compliance, localization, business processes, and cross-system trust are harder to rebuild than screens or code.
 
 ## Key Claims
+- The August 8 All-In source adds that no-code and lightweight workflow products can face earlier AI pressure than systems of record because AI can turn intent into disposable tools or direct answers.
 - AI makes product creation faster, so incumbents cannot rely only on codebase maturity.
 - AI-native entrants may design pricing, workflows, data models, and user expectations differently from older SaaS products.
 - Incumbents can respond by embedding AI, transforming core workflows, and using customer data, trust, and distribution as advantages.
@@ -46,6 +49,7 @@ AI native SaaS threat is the risk that new competitors build around AI from the 
 - Nadella adds that AI may make SaaS less about fixed seats and screens while increasing the value of enterprise context, identity, orchestration, and local ecosystem effects.
 
 ## Connections
+- [[Airtable]], [[BendingSpoons|Bending Spoons]], [[HyperAgent]], [[NoCodeAIDisruption]], [[SaaSCapitalStructureReset]], and [[ProductLedGrowth]] - August 8 All-In branch on no-code SaaS exposure and post-ZIRP operating reset.
 - [[DanielNewman]], [[MarketplaceTech]], [[MondayCom|monday.com]], and [[Asana]] — enterprise-software threat case added by the February 18, 2026 episode.
 - [[Ninety]] and [[Mas]] — incumbent platform and AI companion example.
 - [[TeaMaker]] and [[ThibautLouisLucas]] — founder and holding-company example of AI-era distribution focus.

@@ -2,11 +2,15 @@
 title: "Court Office Capture / 朝廷开府任官失序"
 type: concept
 tags: [late-han, court, legitimacy, institutions, appointments]
-sources: [zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5, zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1, zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk, zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb, zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r, zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis]
+sources: [zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj, zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5, zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1, zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk, zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb, zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r, zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis]
 last_updated: 2026-08-25
 ---
 
 # Court Office Capture / 朝廷开府任官失序
+
+[[zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj|Hanji 933]] adds a bought-office prelude before office churn, forged appointments, and armed court capture. [[CuiLieLateHan|崔烈]] becomes situ only after paying five million cash through [[ChengFurenLateHan|程夫人]], while [[EmperorLingOfHan|汉灵帝]] treats the transaction as underpriced. The appointment channel is not yet occupied by a warlord, but it is already monetized through palace access.
+
+[[zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh|Hanji 938]] adds an office-churn prelude before the forged appointments and armed office capture. After [[ZhangWenLateHan|张温]] is removed as taiwei, the court cycles senior offices through [[CuiLieLateHan|崔烈]], [[XuXiangLateHan|许相]], [[DingGongLateHan|丁宫]], and [[CaoSong|曹嵩]] while rebellion continues. This is not yet capture by one warlord, but it shows the top-office order failing to convert appointment movement into restored crisis capacity.
 
 [[zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5|Hanji 946]] adds the forged-appointment prelude before Dong Zhuo's later office capture. After [[HeJin|何进]] is killed, [[ZhangRangLateHan|张让]] and [[DuanGuiLateHan|段珪]] issue orders appointing [[FanLingLateHan|樊陵]] as sili xiaowei and [[XuXiangLateHan|许相]] as Henan yin, overturning appointments He Jin had arranged for [[YuanShao|袁绍]] and [[WangYunLateHan|王允]].
 
@@ -33,6 +37,8 @@ The source case is Chang'an in 194 CE. [[GuoSiLateHan|郭汜]] and [[FanChouLate
 The concept differs from ordinary factional recommendation. In this source, office multiplication does not mean more institutional capacity; it means the old Three Excellencies' nominees are displaced by candidates pushed through military-controlled offices. Formal `名器` still matters, but the machinery that should connect title to orderly selection is being occupied by coercive actors.
 
 ## Key Claims
+- Hanji 933 adds a pre-capture monetization layer: high office can be routed through palace brokers before armed actors openly capture appointment channels.
+- Hanji 938 adds a pre-capture office-churn layer: high appointments keep moving while crisis resolution does not follow.
 - Hanji 946 adds that office capture can begin through forged appointments during palace violence, before a stable victor has emerged.
 - Hanji 947 adds that office capture can begin before forced deposition, when a newly arrived armed actor manufactures military inevitability and then takes a top court office.
 - A single armed court-captor can use ordinary-looking appointments and self-honors to stage legitimacy immediately after forcing imperial replacement.
@@ -42,6 +48,8 @@ The concept differs from ordinary factional recommendation. In this source, offi
 - The pattern helps explain how a weak court can remain symbolically alive while losing control over personnel channels.
 
 ## Connections
+- [[zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj|Hanji 933]], [[CuiLieLateHan|崔烈]], [[ChengFurenLateHan|程夫人]], [[EmperorLingOfHan|汉灵帝]], and [[OfficeSaleLegitimacyDamage|买官名节损耗]] - bought-office prelude before later office churn and capture.
+- [[zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh|Hanji 938]], [[ZhangWenLateHan|张温]], [[CuiLieLateHan|崔烈]], [[XuXiangLateHan|许相]], [[DingGongLateHan|丁宫]], and [[CaoSong|曹嵩]] - top-office churn before later violent capture of appointment channels.
 - [[zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5|Hanji 946]], [[ZhangRangLateHan|张让]], [[DuanGuiLateHan|段珪]], [[FanLingLateHan|樊陵]], [[XuXiangLateHan|许相]], [[YuanShao|袁绍]], and [[YuanWeiLateHan|袁隗]] - forged appointments and retaliatory false edict after He Jin's killing.
 - [[zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1|Hanji 947]], [[DongZhuo|董卓]], [[LuoyangLateHan|洛阳]], [[LyuBu|吕布]], [[DingYuanLateHan|丁原]], and [[MilitaryPresenceTheater|军力声势表演]] - staged troop momentum, rival-force absorption, and sikong office capture before forced deposition.
 - [[zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk|Hanji 948]], [[LiuYuLateHan|刘虞]], [[YangBiao|杨彪]], [[HuangWanLateHan|黄琬]], [[CoercedImperialReplacement|胁迫式废立]], and [[MingqiLegitimacy|名器合法性]] - office staging after Dong Zhuo's forced emperor replacement.

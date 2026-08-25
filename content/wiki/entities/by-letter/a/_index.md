@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 7376
+wiki_total_pages: 7462
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -134,6 +134,9 @@ wiki_pages:
   - key: "ActForTheQueensSafety"
     title: "Act for the Queen's Safety"
     url: "/wiki/entities/actforthequeenssafety/"
+  - key: "ActOfAbjuration"
+    title: "Act of Abjuration"
+    url: "/wiki/entities/actofabjuration/"
   - key: "Actozsoft"
     title: "Actozsoft"
     url: "/wiki/entities/actozsoft/"
@@ -317,6 +320,9 @@ wiki_pages:
   - key: "AirJelly"
     title: "AirJelly"
     url: "/wiki/entities/airjelly/"
+  - key: "Airtable"
+    title: "Airtable"
+    url: "/wiki/entities/airtable/"
   - key: "Airwallex"
     title: "Airwallex"
     url: "/wiki/entities/airwallex/"

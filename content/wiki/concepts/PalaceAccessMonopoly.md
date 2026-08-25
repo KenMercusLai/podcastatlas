@@ -2,11 +2,23 @@
 title: "Palace Access Monopoly / 宫廷接触垄断"
 type: concept
 tags: [governance, court-politics, information-control, qin]
-sources: [zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt, zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr, zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5, zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj, zizhi-tongjian-qinji-131-1-qinxiang-lisi-yisheng-jingming-que-zao-yaozhan-liupvalcghtas2ibfyjrtdz6ctg7, zizhi-tongjian-qinji-130-4-ruhe-dinglun-qinxiang-lisi-de-xiachang-ljnz0vflgr62hyktrg5cigz7c-7x]
+sources: [zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8, zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw, zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z, zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt, zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr, zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5, zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj, zizhi-tongjian-qinji-131-1-qinxiang-lisi-yisheng-jingming-que-zao-yaozhan-liupvalcghtas2ibfyjrtdz6ctg7, zizhi-tongjian-qinji-130-4-ruhe-dinglun-qinxiang-lisi-de-xiachang-ljnz0vflgr62hyktrg5cigz7c-7x]
 last_updated: 2026-08-25
 ---
 
 # Palace Access Monopoly / 宫廷接触垄断
+
+[[zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8|Hanji 934]] adds an earlier favorite-slander version before Liu Tao's remonstrance case. [[ZhangRangLateHan|张让]] and [[ZhaoZhongLateHan|赵忠]] are trusted by [[EmperorLingOfHan|汉灵帝]] as "父母"; when [[HuangfuSongLateHan|皇甫嵩]] refuses Zhang Rang's bribe demand and reports Zhao Zhong's overbuilt residence, the two can recode a useful commander as defeated, meritless, and wasteful.
+
+This branch shows access monopoly as reputation control. Huangfu Song's military record and anti-corruption memorial do not vanish, but the ruler's trusted palace channel decides which interpretation becomes actionable.
+
+[[zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw|Hanji 935]] adds a pre-coup accusation-filtering version. [[LiuTaoLateHan|刘陶 / 刘桃]]'s memorial reaches [[EmperorLingOfHan|汉灵帝]], but the eunuch side controls the interpretive path: instead of answering the substance of the western-crisis warning, they ask why Liu Tao knows unreported local details and suggest contact with rebels.
+
+This branch is less dramatic than later palace killings, but it shows why access monopoly matters before open violence. The key power is not only physical entry to a palace room; it is the ability to decide whether information appears as loyal warning, dark exaggeration, or criminal evidence.
+
+[[zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z|Hanji 942]] adds a pre-succession appointment version. [[JianShuoLateHan|蹇硕]] learns that [[GaiXunLateHan|盖勋]] and [[YuanShao|袁绍]] are discussing action against the eunuchs, then uses palace access to move Gai Xun out to Jingzhao yin. The appointment looks honorable, but it breaks the capital-side anti-eunuch channel.
+
+The same episode shows access monopoly as campaign assignment. Jian Shuo and other attendants push [[EmperorLingOfHan|汉灵帝]] to send [[HeJin|何进]] west against [[HanSui|韩遂]], trying to remove a dangerous capital actor before the succession crisis. He Jin's delay through Yuan Shao shows the access channel can still be resisted, but only through indirect maneuver.
 
 [[zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt|Hanji 943]] adds a deathbed-trust and summons version before the later Ten Attendants sequence. [[JianShuoLateHan|蹇硕]] has proximity to Liu Xie, later [[EmperorXianOfHan|汉献帝]], because [[EmperorLingOfHan|汉灵帝]] entrusts the child to him; Jian Shuo then tries to use palace summons and inner-court positioning to isolate [[HeJin|何进]].
 
@@ -35,6 +47,9 @@ The episode treats this as a specific form of [[CourtFeedbackCollapse|君臣反�
 [[zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj|Qinji 137]] widens the access problem from audience timing to crisis information. Zhao Gao keeps reports of [[WangLiQin|王离]]'s capture, [[ZhangHanQin|章邯]]'s defeats, and broad eastern rebellion from Hu Hai, while using [[PointingDeerAsHorse|指鹿为马]] to map which officials will publicly obey him. The access monopoly has therefore become [[CrisisInformationBlockade|危机信息封锁]] plus public loyalty testing.
 
 ## Key Claims
+- Hanji 934 adds that access monopoly can convert refused bribery and anti-corruption reporting into slander against a useful commander.
+- Hanji 935 adds that access monopoly can control interpretation before it controls bodies: a crisis warning can be recoded as suspicious knowledge and contact with enemies.
+- Hanji 942 adds that palace access can turn appointments and campaign assignments into tools for moving threats away from the capital before open violence begins.
 - Hanji 943 adds that deathbed trust and palace summons can become a succession weapon, but the same access channel can be broken by insiders with cross-faction ties.
 - Hanji 944 adds that palace access can rest on service dependence, gratitude, and family-benefit channels before a formal crisis order is issued.
 - Hanji 945 adds that palace access can be restored through kinship and emotion even after formal dismissal.
@@ -47,6 +62,9 @@ The episode treats this as a specific form of [[CourtFeedbackCollapse|君臣反�
 - Qinji 137 adds that access monopoly can also become battlefield-news blockade: the intermediary decides not only who reaches the ruler, but what reality reaches him.
 
 ## Connections
+- [[zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8|Hanji 934]], [[HuangfuSongLateHan|皇甫嵩]], [[ZhangRangLateHan|张让]], [[ZhaoZhongLateHan|赵忠]], and [[EmperorLingOfHan|汉灵帝]] - refused bribe and anti-corruption memorial turned into slander.
+- [[zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw|Hanji 935]], [[LiuTaoLateHan|刘陶 / 刘桃]], [[EmperorLingOfHan|汉灵帝]], [[TenAttendantsLateHan|十常侍]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - remonstrance interpreted as criminal suspicion through eunuch access.
+- [[zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z|Hanji 942]], [[GaiXunLateHan|盖勋]], [[YuanShao|袁绍]], [[JianShuoLateHan|蹇硕]], [[HeJin|何进]], and [[HanSui|韩遂]] - pre-succession transfer and campaign-assignment displacement.
 - [[zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt|Hanji 943]], [[JianShuoLateHan|蹇硕]], [[PanYinLateHan|潘隐]], [[GuoShengLateHan|郭胜]], [[HeJin|何进]], and [[EmperorXianOfHan|汉献帝]] - deathbed trust, palace summons, and broken eunuch message channel.
 - [[zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr|Hanji 944]], [[EmpressDowagerHe|何太后]], [[WangMeirenLateHan|王美人]], [[HeMiaoLateHan|何苗]], [[WuyangJun|武阳君]], and [[TenAttendantsLateHan|十常侍]] - palace-service dependence and family-interest protection before formal reentry.
 - [[zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl|Hanji 945]], [[ZhangRangLateHan|张让]], [[WuyangJun|武阳君]], [[EmpressDowagerHe|何太后]], [[HeJin|何进]], and [[ExternalTroopInvitationRisk|外兵入京升级风险]] - formal dismissal followed by family-channel reentry.

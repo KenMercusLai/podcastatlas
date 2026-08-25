@@ -1,6 +1,14 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "c57027a9653965a41990054007c8903fcfbbbc217d16d713c7794063cab12e63",
+      "d8a6848bc14e973e5a4acc510b41de60cffbd07b7d20615dcec8406f7eb6c64b",
+      "336b5af2cba04255b0e459e1a98803b32b887b3065e1405a0e88fc1943b7237a",
+      "a6ecde6afee6553e5405152b7b9135a1593f747db35ec96acc79149cea0b64dd",
+      "87b775125d4f05e15659027ff8ad371d5175bbc592b1efb666fa587f59b275cd",
+      "52bd23a332078725732e062cd7a40475c7129d00db7eafbf69f1f89e9525cb2d",
+      "f0be44be058bab2c162d223e3fab730940d7dda354ca5cb733a3dc06c2b611c1",
+      "11573f92ae4b8882a734507fa688e7cb857e6114d28cb2b59f24f6aa10941f6a",
       "df5c29a04690e81016a026daaf2b237839bb63d8d775a4fc01963ac6cd13ce34",
       "3f9930ebab6f19dfd1ee066a722271a561c7baeb0416e0b0ab5ed6b7c094349e",
       "c2dbbe773351e4ee2996c498ecdc52c0994dde88162da5655035877d40b29745",
@@ -201,13 +209,310 @@
       "0fba5d11c8de7efacd2b63af5f1939d94c6dbb1d7bafc6ac1ade1274bd388278",
       "d2ebb1f66c4d89d070f9f574affe60d1700fea687fbf72d6a87ccf19244070a0",
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
-      "52ff6a8ab5ba908d61cdeb8b075d4c4225b4441d1030d1274b4bfea4f56873a8"
+      "0c44513d0be67a931cc97bd29911cea2bb9a7cae081936bd55010c7c16a6a2c9"
     ],
-    "paragraph_count": 201
+    "paragraph_count": 209
   },
-  "overview_commit": "3777428aa4a10fc1a271ab8eace30b71c2cf0ed9",
-  "overview_digest": "6b69fb4f506caae5f22f81aa23ff6ffaa232e405956a48f90edfbb61a16077cf",
+  "overview_commit": "75ba66145ba20f3d24508905c28d62cdc27aec81",
+  "overview_digest": "2fcbee020c44b1d109026427307d74eb779d7f75012ba1e1230fdef39521c7ec",
   "paragraphs": [
+    {
+      "id": "c57027a9653965a41990054007c8903fcfbbbc217d16d713c7794063cab12e63",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 185 CE late-Han layer between [[zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj|Hanji 933]] and [[zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw|Hanji 935]]. It adds [[CuiZhouping|崔州平]], [[LiangzhouLateHan|凉州]], and [[StrategicFrontierAbandonment|弃边失屏]], while extending [[CuiLieLateHan|崔烈]], [[FuXie|傅燮]], [[HuangfuSongLateHan|皇甫嵩]], [[BeigongBoyuLateHan|北宫伯玉]], [[EmperorLingOfHan|汉灵帝]], [[ZhangRangLateHan|张让]], [[ZhaoZhongLateHan|赵忠]], [[TenAttendantsLateHan|十常侍]], [[GuanzhongRegion|关中]], [[ChangAnHanCapital|长安]], [[PalaceAccessMonopoly|宫廷接触垄断]], [[CourtFeedbackCollapse|君臣反馈失灵]], [[OfficeSaleLegitimacyDamage|买官名节损耗]], and [[MeritBasedRewardPunishment|因功赏罚]]. Its core synthesis is that late-Han state failure is both strategic and informational: Fu Xie can still stop Cui Lie's abandonment proposal by reframing Liangzhou as a western shield, but Huangfu Song's military usefulness and anti-corruption reporting cannot protect him once Zhang Rang and Zhao Zhong control the ruler's interpretation. No settled contradiction is recorded; the Hexi commandery list is kept as source-scoped context rather than expanded into separate canonical pages from this short episode.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 2
+      },
+      "wikilinks": [
+        "BeigongBoyuLateHan",
+        "ChangAnHanCapital",
+        "CourtFeedbackCollapse",
+        "CuiLieLateHan",
+        "CuiZhouping",
+        "EmperorLingOfHan",
+        "FuXie",
+        "GuanzhongRegion",
+        "HuangfuSongLateHan",
+        "LiangzhouLateHan",
+        "MeritBasedRewardPunishment",
+        "OfficeSaleLegitimacyDamage",
+        "PalaceAccessMonopoly",
+        "RuiqiJiangtouZizhiTongjian",
+        "StrategicFrontierAbandonment",
+        "TenAttendantsLateHan",
+        "ZhangRangLateHan",
+        "ZhaoZhongLateHan",
+        "zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj",
+        "zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8",
+        "zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw"
+      ]
+    },
+    {
+      "id": "d8a6848bc14e973e5a4acc510b41de60cffbd07b7d20615dcec8406f7eb6c64b",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 185 CE late-Han crisis between [[zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj|Hanji 933]] and [[zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar|Hanji 936]]. It adds [[LiuTaoLateHan|刘陶 / 刘桃]] and [[ZhouShenLateHan|周慎]], while extending [[EmperorLingOfHan|汉灵帝]], [[TenAttendantsLateHan|十常侍]], [[ZhangWenLateHan|张温]], [[DongZhuo|董卓]], [[BianZhangLateHan|边章]], [[HanSui|韩遂]], [[SunJianLateHan|孙坚]], [[ZhangJiaoLateHan|张角]], [[LuoyangLateHan|洛阳]], [[CourtFeedbackCollapse|君臣反馈失灵]], [[PalaceAccessMonopoly|宫廷接触垄断]], [[DeathDefyingRemonstrance|赴死式直谏]], and [[BattlefieldEncirclementLogistics|战场围困与断粮]]. Its core synthesis is that late-Han collapse is visible both at court and in the field: Liu Tao's urgent warning reaches the ruler but is recoded by eunuch intermediaries into suspicion and imprisonment, while Sun Jian reads the Liangzhou pursuit as a supply-road problem that Zhou Shen ignores until the rebel side cuts Han logistics instead. No settled contradiction is recorded; Han Sui and Bian Zhang's 185 campaign role is treated as an earlier stage before Hanji 937's later consolidation and Bian Zhang death/absorption branch.",
+      "topic_scores": {
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "BattlefieldEncirclementLogistics",
+        "BianZhangLateHan",
+        "CourtFeedbackCollapse",
+        "DeathDefyingRemonstrance",
+        "DongZhuo",
+        "EmperorLingOfHan",
+        "HanSui",
+        "LiuTaoLateHan",
+        "LuoyangLateHan",
+        "PalaceAccessMonopoly",
+        "RuiqiJiangtouZizhiTongjian",
+        "SunJianLateHan",
+        "TenAttendantsLateHan",
+        "ZhangJiaoLateHan",
+        "ZhangWenLateHan",
+        "ZhouShenLateHan",
+        "zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj",
+        "zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw",
+        "zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar"
+      ]
+    },
+    {
+      "id": "336b5af2cba04255b0e459e1a98803b32b887b3065e1405a0e88fc1943b7237a",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 185 CE late-Han layer before [[zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar|Hanji 936]] and the later [[HeishanArmy|黑山军]] campaign record. It adds [[ZhangNiujiaoLateHan|张牛角]], [[CuiJunLateHan|崔钧]], [[ChengFurenLateHan|程夫人]], [[OfficeBasedRebelIncorporation|授官式招安]], and [[OfficeSaleLegitimacyDamage|买官名节损耗]], while extending [[ZhangYanLateHan|张燕]], [[HeishanArmy|黑山军]], [[EmperorLingOfHan|汉灵帝]], [[CuiLieLateHan|崔烈]], [[YuanWeiLateHan|袁隗]], [[LuoyangLateHan|洛阳]], [[CourtOfficeCapture|朝廷开府任官失序]], [[MingqiLegitimacy|名器合法性]], and [[MoralReputationPoliticalCapital|道德名望政治资本]]. Its core synthesis is that late-Han breakdown appears as both incorporation and commodification: the court lacks the force to destroy Zhang Yan's vast mountain network and therefore gives him a title and delegated local duties, while Cui Lie's bought situ appointment shows high office becoming a palace-priced good whose visible price destroys the reputation it was meant to crown. No settled contradiction is recorded; the episode backfills Zhang Yan's origin before Hanji 970 and keeps the late-Han [[ChengFurenLateHan|程夫人]] distinct from [[ChengFuren|Su Shi's mother]].",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "ChengFuren",
+        "ChengFurenLateHan",
+        "CourtOfficeCapture",
+        "CuiJunLateHan",
+        "CuiLieLateHan",
+        "EmperorLingOfHan",
+        "HeishanArmy",
+        "LuoyangLateHan",
+        "MingqiLegitimacy",
+        "MoralReputationPoliticalCapital",
+        "OfficeBasedRebelIncorporation",
+        "OfficeSaleLegitimacyDamage",
+        "RuiqiJiangtouZizhiTongjian",
+        "YuanWeiLateHan",
+        "ZhangNiujiaoLateHan",
+        "ZhangYanLateHan",
+        "zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj",
+        "zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar"
+      ]
+    },
+    {
+      "id": "a6ecde6afee6553e5405152b7b9135a1593f747db35ec96acc79149cea0b64dd",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [],
+      "text": "The latest addition is [[all-in-with-chamath-jason-sacks-friedberg-saronic-founders-autonomous-warships-chinas-230x-advantage-swarms-of-robot-ships-42334230]], an [[AllIn|All-In]] interview with [[DinoMavroukis]] and [[VibhAltakar]] of [[Saronic]] on autonomous naval vessels, U.S.-China shipbuilding capacity, and defense procurement reform. It adds [[Saronic]], [[DinoMavroukis]], [[VibhAltakar]], [[CorsairSaronic|Corsair]], [[MarauderSaronic|Marauder]], [[PortAlpha|Port Alpha]], [[AutonomousNavalVessels]], [[NavalShipbuildingThroughput]], [[SoftwareDefinedShipbuilding]], [[PrivateCapitalDefensePrime]], and [[HumanAuthorizedAutonomousWeapons]], while extending [[AllIn]], [[USNavy|U.S. Navy]], [[USDepartmentOfDefense]], [[China]], [[StraitOfHormuz]], [[Texas]], [[DefenseTechStartupProcurement]], [[DefenseAIProcurement]], [[DualUseDefenseTechnology]], [[LowCostDroneWarfare]], and [[StrategicIndustrialPolicy]]. Its core synthesis is that naval autonomy is presented as a manufacturing and cost-throughput answer as much as a robotics story: removing crews changes vessel design, private capital can fund prototypes outside slow cost-plus loops, and shipyards/processes can be co-designed for smaller autonomous platforms that add mass without replacing the entire crewed Navy. No settled contradiction is recorded; the rescue mission, shipbuilding ratios, job figures, and weapon-authorization claims are preserved as source-scoped interview claims.",
+      "topic_scores": {
+        "ai-and-technology": 4,
+        "business-and-markets": 1,
+        "culture-and-media": 1,
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AllIn",
+        "AutonomousNavalVessels",
+        "China",
+        "CorsairSaronic",
+        "DefenseAIProcurement",
+        "DefenseTechStartupProcurement",
+        "DinoMavroukis",
+        "DualUseDefenseTechnology",
+        "HumanAuthorizedAutonomousWeapons",
+        "LowCostDroneWarfare",
+        "MarauderSaronic",
+        "NavalShipbuildingThroughput",
+        "PortAlpha",
+        "PrivateCapitalDefensePrime",
+        "Saronic",
+        "SoftwareDefinedShipbuilding",
+        "StraitOfHormuz",
+        "StrategicIndustrialPolicy",
+        "Texas",
+        "USDepartmentOfDefense",
+        "USNavy",
+        "VibhAltakar",
+        "all-in-with-chamath-jason-sacks-friedberg-saronic-founders-autonomous-warships-chinas-230x-advantage-swarms-of-robot-ships-42334230"
+      ]
+    },
+    {
+      "id": "87b775125d4f05e15659027ff8ad371d5175bbc592b1efb666fa587f59b275cd",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 187 CE Liangzhou collapse before [[zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh|Hanji 938]]. It adds [[FuXie|傅燮]], [[FuGan|傅干]], [[ChengQiu|程球]], [[YangHuiLateHan|杨晖]], [[HuangYanLateHan|黄衍]], [[LiXiangruLateHan|李相如]], [[BianZhangLateHan|边章]], [[BeigongBoyuLateHan|北宫伯玉]], [[LiWenhouLateHan|李文侯]], [[HanyangCommanderyLateHan|汉阳郡]], [[DiDaoLateHan|狄道]], [[OfficeDutyMartyrdom|守官赴死]], and [[FrontierCommandCollapse|边郡军政崩盘]], while extending [[EmperorLingOfHan|汉灵帝]], [[HeMiaoLateHan|何苗]], [[HanSui|韩遂]], [[GengBiLateHan|耿鄙]], [[WangGuoLateHan|王国]], [[LongxiCommandery|陇西郡]], [[WarCostTempoDiscipline|战争成本与速决纪律]], [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]], [[PeopleBasedPoliticalSecurity|民心型政治安全]], and [[MoralReputationPoliticalCapital|道德名望政治资本]]. Its core synthesis is that Liangzhou collapses through coupled command and moral failure: Han Sui consolidates rebel leadership, Geng Bi turns corrupt staff and premature timing into mutiny, and Fu Xie's local reputation can create rescue offers but cannot save the commandery once he chooses official duty over flight or surrender. No settled contradiction is recorded; Bian Zhang's death variant and Fu Gan's later historian evaluation remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 2,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "BeigongBoyuLateHan",
+        "BianZhangLateHan",
+        "ChengQiu",
+        "DiDaoLateHan",
+        "EmperorLingOfHan",
+        "FrontierCommandCollapse",
+        "FuGan",
+        "FuXie",
+        "GengBiLateHan",
+        "HanSui",
+        "HanyangCommanderyLateHan",
+        "HeMiaoLateHan",
+        "HuangYanLateHan",
+        "InterestStructuredAllianceFragility",
+        "LiWenhouLateHan",
+        "LiXiangruLateHan",
+        "LongxiCommandery",
+        "MoralReputationPoliticalCapital",
+        "OfficeDutyMartyrdom",
+        "PeopleBasedPoliticalSecurity",
+        "RuiqiJiangtouZizhiTongjian",
+        "WangGuoLateHan",
+        "WarCostTempoDiscipline",
+        "YangHuiLateHan",
+        "zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw",
+        "zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh"
+      ]
+    },
+    {
+      "id": "52bd23a332078725732e062cd7a40475c7129d00db7eafbf69f1f89e9525cb2d",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 187 CE late-Han layer immediately before [[zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy|Hanji 939]]. It adds [[GengBiLateHan|耿鄙]], [[CuiLieLateHan|崔烈]], [[DingGongLateHan|丁宫]], [[QuXingLateHan|曲星]], [[ChenShiLateHan|陈寔]], and [[FrontierAuxiliarySupplyFailure|边兵粮饷供应失灵]], while extending [[MaTeng|马腾]], [[HanSui|韩遂]], [[WangGuoLateHan|王国]], [[ZhangWenLateHan|张温]], [[ZhangChunLateHan|张纯]], [[ZhangJuLateHan|张举]], [[QiuLijuLateHan|丘力居]], [[Wuhuan|乌桓]], [[GongsunZan|公孙瓒]], [[SunJianLateHan|孙坚]], [[XuXiangLateHan|许相]], [[CaoSong|曹嵩]], [[EmperorLingOfHan|汉灵帝]], [[YouzhouLateHan|幽州]], [[PeopleBasedPoliticalSecurity|民心型政治安全]], [[MingqiLegitimacy|名器合法性]], [[RankSaleDisasterFinance|鬻爵赈灾融资]], [[MoralReputationPoliticalCapital|道德名望政治资本]], and [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]]. Its core synthesis is that late-Han collapse is visible before Dong Zhuo: Liangzhou rebellion grows out of unlivable local rule, Wuhuan troop mismanagement turns a mobilization asset into a rebellion channel, Zhang Ju's imperial claim humiliates Han authority, Sun Jian's Changsha victory previews local militarized careers, and Chen Shi's moral authority shows a rare non-coercive order path. No settled contradiction is recorded; transcript forms 耿彼, 丁公, 三府, and 肥河县 are kept source-scoped or normalized only where the role clearly identifies the distinct historical actor.",
+      "topic_scores": {
+        "business-and-markets": 1,
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 2
+      },
+      "wikilinks": [
+        "CaoSong",
+        "ChenShiLateHan",
+        "CuiLieLateHan",
+        "DingGongLateHan",
+        "EmperorLingOfHan",
+        "FrontierAuxiliarySupplyFailure",
+        "GengBiLateHan",
+        "GongsunZan",
+        "HanSui",
+        "InterestStructuredAllianceFragility",
+        "MaTeng",
+        "MingqiLegitimacy",
+        "MoralReputationPoliticalCapital",
+        "PeopleBasedPoliticalSecurity",
+        "QiuLijuLateHan",
+        "QuXingLateHan",
+        "RankSaleDisasterFinance",
+        "RuiqiJiangtouZizhiTongjian",
+        "SunJianLateHan",
+        "WangGuoLateHan",
+        "Wuhuan",
+        "XuXiangLateHan",
+        "YouzhouLateHan",
+        "ZhangChunLateHan",
+        "ZhangJuLateHan",
+        "ZhangWenLateHan",
+        "zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh",
+        "zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy"
+      ]
+    },
+    {
+      "id": "f0be44be058bab2c162d223e3fab730940d7dda354ca5cb733a3dc06c2b611c1",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-940-de-minxin-zhe-de-tianxia-ni-xin-bu-xin-loipf7b0p5a-yh0rj2njnsml8a1j]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 188 CE [[YizhouLateHan|益州]] and flood-disaster layer before [[zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r|Hanji 941]]. It adds [[MaXiangLateHan|马相]], [[ZhaoZhiLateHan|赵祗]], [[XiJianLateHan|郗俭]], [[JiaLongLateHan|贾龙]], [[MianzhuLateHan|绵竹]], [[BaCommanderyLateHan|巴郡]], [[QianweiCommanderyLateHan|犍为郡]], [[YizhouPacificationByLeniency|益州宽惠安抚]], and [[DisasterReliefCorruption|救灾物资贪腐]], while extending [[FanLingLateHan|樊陵]], [[LiuYanLateHan|刘焉]], [[PeopleBasedPoliticalSecurity|民心型政治安全]], [[ProvincialShepherdAutonomy|州牧集权与地方割据]], and [[DisasterResponseStateCapacity|disaster response state capacity]]. Its core synthesis is that late-Han disorder is already visible as a people-support and relief-integrity problem: Xi Jian's extraction leaves Yizhou undefended, Ma Xiang's uprising converts resentment into fast but unstable power, Jia Long restores local order, Liu Yan enters through lenient pacification at Mianzhu, and the seven-commandery flood reveals both protective officials and relief profiteers. No settled contradiction is recorded; the source's \"留言\" and \"樊麟\" renderings are normalized to canonical [[LiuYanLateHan|刘焉]] and [[FanLingLateHan|樊陵]] while kept source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 3,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "BaCommanderyLateHan",
+        "DisasterReliefCorruption",
+        "DisasterResponseStateCapacity",
+        "FanLingLateHan",
+        "JiaLongLateHan",
+        "LiuYanLateHan",
+        "MaXiangLateHan",
+        "MianzhuLateHan",
+        "PeopleBasedPoliticalSecurity",
+        "ProvincialShepherdAutonomy",
+        "QianweiCommanderyLateHan",
+        "RuiqiJiangtouZizhiTongjian",
+        "XiJianLateHan",
+        "YizhouLateHan",
+        "YizhouPacificationByLeniency",
+        "ZhaoZhiLateHan",
+        "zizhi-tongjian-hanji-940-de-minxin-zhe-de-tianxia-ni-xin-bu-xin-loipf7b0p5a-yh0rj2njnsml8a1j",
+        "zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r"
+      ]
+    },
+    {
+      "id": "11573f92ae4b8882a734507fa688e7cb857e6114d28cb2b59f24f6aa10941f6a",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "business-and-markets"
+      ],
+      "text": "The latest addition is [[all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555]], an [[AllIn|All-In]] episode that connects AI model competition, hyperscaler infrastructure, public-market [[SpaceX]], SaaS repricing, and U.S.-China data policy. It adds [[Airtable]], [[BendingSpoons|Bending Spoons]], [[HyperAgent]], [[DiscoveryLoop]], [[SurgeAI|Surge AI]], [[Mercor]], [[Micro1]], [[AIHyperscalerModelChannelConflict]], [[FrontierModelDuopoly]], [[AIComputePriceRisk]], [[SaaSCapitalStructureReset]], [[NoCodeAIDisruption]], [[ExpertDataExportControls]], and [[ProductLedGrowth]], while extending [[Google]], [[GoogleDeepMind]], [[JeffDean]], [[DemisHassabis]], [[SpaceX]], [[Starlink]], [[Starship]], [[BradGerstner|Brad Gerstner]], [[China]], [[OpenSourceAIModels]], [[ModelRoutingCostControl]], [[AIExportControls]], [[DataCenterDebtRisk]], [[AIInfrastructureDebtFinancing]], [[AINativeSaaSThreat]], [[AIApplicationLayerMoat]], [[LiquidationPreferenceStack]], and [[PrivateEquityAITransformation]]. Its core synthesis is that AI value is separating into layers: frontier models may concentrate around a premium tier, cloud providers can monetize scarce compute even while their internal model teams compete for it, AI infrastructure valuations depend on compute pricing as much as physical capacity, and software companies facing AI and post-ZIRP pressure may need different owners or separated AI spinouts. No settled contradiction is recorded; SpaceX financials, Google leadership timing, Airtable transaction details, and China expert-data claims remain source-scoped market claims.",
+      "topic_scores": {
+        "ai-and-technology": 5,
+        "business-and-markets": 5,
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "science-health-and-climate": 1
+      },
+      "wikilinks": [
+        "AIApplicationLayerMoat",
+        "AIComputePriceRisk",
+        "AIExportControls",
+        "AIHyperscalerModelChannelConflict",
+        "AIInfrastructureDebtFinancing",
+        "AINativeSaaSThreat",
+        "Airtable",
+        "AllIn",
+        "BendingSpoons",
+        "BradGerstner",
+        "China",
+        "DataCenterDebtRisk",
+        "DemisHassabis",
+        "DiscoveryLoop",
+        "ExpertDataExportControls",
+        "FrontierModelDuopoly",
+        "Google",
+        "GoogleDeepMind",
+        "HyperAgent",
+        "JeffDean",
+        "LiquidationPreferenceStack",
+        "Mercor",
+        "Micro1",
+        "ModelRoutingCostControl",
+        "NoCodeAIDisruption",
+        "OpenSourceAIModels",
+        "PrivateEquityAITransformation",
+        "ProductLedGrowth",
+        "SaaSCapitalStructureReset",
+        "SpaceX",
+        "Starlink",
+        "Starship",
+        "SurgeAI",
+        "all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555"
+      ]
+    },
     {
       "id": "df5c29a04690e81016a026daaf2b237839bb63d8d775a4fc01963ac6cd13ce34",
       "primary_topic": "history-and-geopolitics",
@@ -5821,28 +6126,42 @@
       ]
     },
     {
-      "id": "52ff6a8ab5ba908d61cdeb8b075d4c4225b4441d1030d1274b4bfea4f56873a8",
+      "id": "0c44513d0be67a931cc97bd29911cea2bb9a7cae081936bd55010c7c16a6a2c9",
       "primary_topic": "governance-and-institutions",
       "secondary_topics": [
         "history-and-geopolitics"
       ],
-      "text": "The [[zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth|Hanji 981]] late-Han source adds a compact prelude to the wiki's Cao Cao/Yuan Shao and Xuzhou branches. [[ChengYu|程昱]] turns [[CaoCao|曹操]]'s fear after [[YanzhouLateHan|兖州]] losses into refusal of [[HostageBackedDependencyTrap|家属质押式依附陷阱]], while [[LiuZhang|刘璋]] inheriting [[YizhouLateHan|益州]] and losing [[GanNing|甘宁]] through [[ImportedTroopsLocalEliteCleavage|外来武装与本土豪族裂缝]] show that political survival depends on both corrective advice and elite integration. The same source backfills [[TaoQianLateHan|陶谦]]'s handoff and [[LiuBei|刘备]]'s hesitation before [[LocalEliteProxySelection|地方豪强代理人选择]] explains the Xuzhou choice in Hanji 982.",
+      "text": "The late-Han sources now show both the institutional prelude and the later warlord-field consequences. [[zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy|Hanji 939]] shows collapse before the famous succession violence: [[EmperorLingOfHan|汉灵帝]]'s amnesty and comet ritual do not restore order, the [[BaiboArmy|白波军]] under [[GuoDaLateHan|郭大]] and [[ZhangYiLateHan|张懿]]'s killing in [[BingzhouLateHan|并州]] expose provincial office fragility, [[LiuYanLateHan|刘焉]] converts that weakness into [[ProvincialShepherdAutonomy|州牧集权与地方割据]] and an [[YizhouLateHan|益州]] exit through [[DongFuLateHan|董扶]]'s prophecy, and the court's requisition of [[SouthernXiongnu|南匈奴]] cavalry against [[ZhangChunLateHan|张纯]] kills [[QiangquChanyu|羌渠]] and elevates [[YufuluoChanyu|于扶罗]] through [[FrontierConscriptionBackfire|边疆征发反噬]]. The [[zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth|Hanji 981]] source then adds a compact prelude to the wiki's Cao Cao/Yuan Shao and Xuzhou branches: [[ChengYu|程昱]] turns [[CaoCao|曹操]]'s fear after [[YanzhouLateHan|兖州]] losses into refusal of [[HostageBackedDependencyTrap|家属质押式依附陷阱]], while [[LiuZhang|刘璋]] inheriting Yizhou and losing [[GanNing|甘宁]] through [[ImportedTroopsLocalEliteCleavage|外来武装与本土豪族裂缝]] show that political survival depends on both corrective advice and elite integration. The same later source backfills [[TaoQianLateHan|陶谦]]'s handoff and [[LiuBei|刘备]]'s hesitation before [[LocalEliteProxySelection|地方豪强代理人选择]] explains the Xuzhou choice in Hanji 982.",
       "topic_scores": {
         "governance-and-institutions": 1,
         "history-and-geopolitics": 1
       },
       "wikilinks": [
+        "BaiboArmy",
+        "BingzhouLateHan",
         "CaoCao",
         "ChengYu",
+        "DongFuLateHan",
+        "EmperorLingOfHan",
+        "FrontierConscriptionBackfire",
         "GanNing",
+        "GuoDaLateHan",
         "HostageBackedDependencyTrap",
         "ImportedTroopsLocalEliteCleavage",
         "LiuBei",
+        "LiuYanLateHan",
         "LiuZhang",
         "LocalEliteProxySelection",
+        "ProvincialShepherdAutonomy",
+        "QiangquChanyu",
+        "SouthernXiongnu",
         "TaoQianLateHan",
         "YanzhouLateHan",
         "YizhouLateHan",
+        "YufuluoChanyu",
+        "ZhangChunLateHan",
+        "ZhangYiLateHan",
+        "zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy",
         "zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth"
       ]
     }

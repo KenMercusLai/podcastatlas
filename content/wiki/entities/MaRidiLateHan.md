@@ -2,11 +2,15 @@
 title: "马日磾 / Ma Ridi (late Han)"
 type: entity
 tags: [person, late-han, court, official]
-sources: [zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk, zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1]
+sources: [zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r, zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z, zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk, zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1]
 last_updated: 2026-08-25
 ---
 
 # 马日磾 / Ma Ridi (late Han)
+
+[[zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r|Hanji 941]] adds Ma Ridi's appointment upward before the later eclipse-linked removal. In autumn 188, he moves from shesheng xiaowei to taiwei; the episode reads the promotion through office responsibility, learned reputation, and family background rather than through an independent policy branch.
+
+[[zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z|Hanji 942]] adds an earlier court-omen personnel note. After a solar eclipse, Ma Ridi is removed as taiwei and [[LiuYuLateHan|刘虞]] is elevated, making Ma Ridi part of a standard [[CelestialOmenPoliticalResponsibility|天象政治责任]] sequence rather than a developed factional branch.
 
 [[zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk|Hanji 963]] adds Ma Ridi's earlier court-literary role. After [[WangYunLateHan|王允]] imprisons [[CaiYong|蔡邕]], Ma Ridi pleads that Cai Yong's offense is not enough to justify death and that sparing him matters because he carries unfinished Han history.
 
@@ -17,6 +21,8 @@ The episode uses Ma Ridi as the failed warning voice. He argues that killing Cai
 His source role is about [[MingqiLegitimacy|名器合法性]] under coercion. Ma Ridi carries court authority, but the visible object that should authorize appointment can be seized by a regional warlord, turning title machinery into Yuan Shu's resource. The episode ends his branch with shame and fatal distress after the lost tally.
 
 ## Connections
+- [[zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r|Hanji 941]] - taiwei appointment from shesheng xiaowei before the later removal.
+- [[zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z|Hanji 942]], [[LiuYuLateHan|刘虞]], and [[CelestialOmenPoliticalResponsibility|天象政治责任]] - eclipse-linked removal from taiwei.
 - [[CaiYong|蔡邕]], [[WangYunLateHan|王允]], and [[HistoricalRecordAuthority|史官记录话语权]] - Hanji 963 plea over the historian's life.
 - [[YuanShu|袁术]] - warlord who takes the tally and extracts appointments.
 - [[Shouchun|寿春]] - setting for the court mission and Yuan Shu pressure.

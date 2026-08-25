@@ -2,11 +2,13 @@
 title: "黄琬 / Huang Wan (late Han)"
 type: entity
 tags: [person, late-han, official, chang-an]
-sources: [zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk, zizhi-tongjian-hanji-951-tianjiang-hengcai-jiujing-shi-haoshi-haishi-huaishi-lovwgng2wrtfno-s9ttpybbhksvh, zizhi-tongjian-hanji-962-dongzhuo-yu-lvbu-daodi-weishenme-juelie-lgp3kxfqnhokibf6kpli6p4j8iti, zizhi-tongjian-hanji-966-meiyou-yexin-budong-quanmou-jiu-bie-dang-lingdao-lldn3hi1gl5v3axvklwakgf6vx3u]
+sources: [zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy, zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk, zizhi-tongjian-hanji-951-tianjiang-hengcai-jiujing-shi-haoshi-haishi-huaishi-lovwgng2wrtfno-s9ttpybbhksvh, zizhi-tongjian-hanji-962-dongzhuo-yu-lvbu-daodi-weishenme-juelie-lgp3kxfqnhokibf6kpli6p4j8iti, zizhi-tongjian-hanji-966-meiyou-yexin-budong-quanmou-jiu-bie-dang-lingdao-lldn3hi1gl5v3axvklwakgf6vx3u]
 last_updated: 2026-08-25
 ---
 
 # 黄琬 / Huang Wan (late Han)
+
+[[zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy|Hanji 939]] backfills Huang Wan's first current page marker before the Dong Zhuo court branch. After [[LiuYanLateHan|刘焉]] proposes stronger provincial shepherds, the court appoints Huang Wan as Yu Province shepherd alongside Liu Yan in [[YizhouLateHan|益州]] and [[LiuYuLateHan|刘虞]] in [[YouzhouLateHan|幽州]].
 
 [[zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk|Hanji 948]] adds Huang Wan before the relocation debate and anti-Dong-Zhuo planning branches. [[DongZhuo|董卓]] appoints him as situ after the forced replacement of [[LiuBianHongnongWang|刘辩 / 弘农王]] with [[EmperorXianOfHan|汉献帝]], using a senior court office to broaden the legitimacy surface of the new order.
 
@@ -24,6 +26,7 @@ His later arrest and execution after [[LiJueLateHan|李傕]] and [[GuoSiLateHan|
 
 ## Connections
 
+- [[zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy|Hanji 939]], [[LiuYanLateHan|刘焉]], [[LiuYuLateHan|刘虞]], and [[ProvincialShepherdAutonomy|州牧集权与地方割据]] - early provincial-shepherd appointment.
 - [[zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk|Hanji 948]], [[DongZhuo|董卓]], [[EmperorXianOfHan|汉献帝]], [[CoercedImperialReplacement|胁迫式废立]], and [[CourtOfficeCapture|朝廷开府任官失序]] - situ appointment after the forced replacement.
 - [[zizhi-tongjian-hanji-951-tianjiang-hengcai-jiujing-shi-haoshi-haishi-huaishi-lovwgng2wrtfno-s9ttpybbhksvh|Hanji 951]], [[YangBiao|杨彪]], [[XunShuangLateHan|荀爽]], and [[CoerciveCapitalRelocation|强制迁都]] - relocation debate, de-escalation, removal, and restoration after apology.
 - [[zizhi-tongjian-hanji-962-dongzhuo-yu-lvbu-daodi-weishenme-juelie-lgp3kxfqnhokibf6kpli6p4j8iti|Hanji 962]], [[ShiSunRuiLateHan|士孙瑞]], [[YangZanLateHan|杨瓒]], and [[PersonalGuardAttackSurface|贴身侍卫反噬]] - planning circle before the assassination.

@@ -2,11 +2,13 @@
 title: "Disaster Response State Capacity"
 type: concept
 tags: [governance, disaster-response, politics, state-capacity]
-sources: [zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis, zizhi-tongjian-qinji-106-jingren-faxian-xinlingjun-de-feizhengchang-siwang-lsj3kd2tb4tqtuvhwvsdwkh-h5el, yi-fen-laizi-bingchuang-shang-de-xiangguan-shudan-598284093, 04-qieernuobeili-de-wuye-woyao-jin-jianyu-le-530594843, 105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645, 65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922, fault-lines-venezuelas-paltry-earthquake-response-6a44e38375e7a3e96111931b, 56-bansheng-shijie-popolanlan-xiao-dongwu-fengfengbubu-641299301, burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b, afghanistan-five-years-on-our-correspondent-visits-6a7ee547049c692a6b3ee0a9, all-in-with-chamath-jason-sacks-friedberg-adam-carolla-on-californias-collapse-fires-failed-leadership-and-gyno-fascism-39710360, all-in-with-chamath-jason-sacks-friedberg-spencer-pratt-on-fixing-la-wildfires-homelessness-corruption-the-fight-to-take-it-back-41236810]
+sources: [zizhi-tongjian-hanji-940-de-minxin-zhe-de-tianxia-ni-xin-bu-xin-loipf7b0p5a-yh0rj2njnsml8a1j, zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis, zizhi-tongjian-qinji-106-jingren-faxian-xinlingjun-de-feizhengchang-siwang-lsj3kd2tb4tqtuvhwvsdwkh-h5el, yi-fen-laizi-bingchuang-shang-de-xiangguan-shudan-598284093, 04-qieernuobeili-de-wuye-woyao-jin-jianyu-le-530594843, 105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645, 65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922, fault-lines-venezuelas-paltry-earthquake-response-6a44e38375e7a3e96111931b, 56-bansheng-shijie-popolanlan-xiao-dongwu-fengfengbubu-641299301, burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b, afghanistan-five-years-on-our-correspondent-visits-6a7ee547049c692a6b3ee0a9, all-in-with-chamath-jason-sacks-friedberg-adam-carolla-on-californias-collapse-fires-failed-leadership-and-gyno-fascism-39710360, all-in-with-chamath-jason-sacks-friedberg-spencer-pratt-on-fixing-la-wildfires-homelessness-corruption-the-fight-to-take-it-back-41236810]
 last_updated: 2026-08-24
 ---
 
 # Disaster Response State Capacity
+
+[[zizhi-tongjian-hanji-940-de-minxin-zhe-de-tianxia-ni-xin-bu-xin-loipf7b0p5a-yh0rj2njnsml8a1j|Hanji 940]] adds an earlier late-Han flood case before the later Chang'an famine-relief audit. The source says seven commandery-states suffer flooding; some officials work to rescue people, while others steal relief materials. This makes [[DisasterReliefCorruption|救灾物资贪腐]] part of disaster response capacity rather than a separate moral afterthought.
 
 [[zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis|Hanji 979]] adds a premodern famine-relief audit case through [[EmperorXianOfHan|汉献帝]] in [[ChangAnHanCapital|长安]]. The emperor can order the granary opened and can detect [[HouWenLateHan|侯汶]]'s relief failure by testing the gruel ingredients, but the broader court remains too captured by armed office-holders to turn that audit into stable institutional control.
 
@@ -35,6 +37,7 @@ The concept matters because natural disasters quickly become legitimacy tests. I
 [[yi-fen-laizi-bingchuang-shang-de-xiangguan-shudan-598284093]] adds a plague-response and public-health-memory version. Through [[DongbeiBoyi|《东北博弈》]], [[WuLiande|Wu Liande / 伍连德]], and [[ShixinPublicHealth|《失信：公共卫生体系的崩溃》]], the source shows that disease response depends on credible experts, quarantine authority, sanitation, surveillance, communication, and the political willingness to fund prevention before disaster is visible.
 
 ## Key Claims
+- Hanji 940 adds that flood relief capacity depends on officials who actually deliver aid rather than diverting supplies under cover of disaster.
 - Hanji 979 adds that disaster response capacity includes corruption detection inside the relief channel, and that an accurate audit can still be too small to repair a collapsing coercive order.
 - Disaster response depends on ordinary state functions before the disaster: logistics, health systems, skilled labor, fuel supply, and corruption control.
 - The first 48 hours after a major earthquake are politically important because rescue visibility shapes whether people feel protected or abandoned.
@@ -53,6 +56,7 @@ The concept matters because natural disasters quickly become legitimacy tests. I
 - Premodern disaster response can use rank, grain, and hierarchy as mobilization infrastructure when direct stores are insufficient.
 
 ## Connections
+- [[zizhi-tongjian-hanji-940-de-minxin-zhe-de-tianxia-ni-xin-bu-xin-loipf7b0p5a-yh0rj2njnsml8a1j|Hanji 940]], [[DisasterReliefCorruption|救灾物资贪腐]], [[NaturalHazardSocialDisaster|natural hazard as social disaster]], and [[PeopleBasedPoliticalSecurity|民心型政治安全]] - late-Han floods, relief integrity, and legitimacy branch.
 - [[zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis|Hanji 979]], [[EmperorXianOfHan|汉献帝]], [[HouWenLateHan|侯汶]], [[ChangAnHanCapital|长安]], and [[FamineEntitlementFailure|Famine Entitlement Failure]] - late-Han granary relief and gruel-audit branch.
 - [[NationalistGovernment]], [[SongZiwen]], [[WuLiande]], [[JohnHopeSimpson]], and [[ChinaInternationalFamineReliefCommission]] - 1931 flood response branch.
 - [[NaturalHazardSocialDisaster]], [[DisasterReliefMismatch]], [[FamineEntitlementFailure]], and [[WarDisasterCompounding]] - historical-disaster concepts added by episode 65.

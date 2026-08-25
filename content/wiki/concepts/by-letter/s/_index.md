@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 5372
+wiki_total_pages: 5398
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -17,6 +17,9 @@ wiki_pages:
   - key: "ScienceFictionNewWave"
     title: "New Wave Science Fiction / 科幻新浪潮"
     url: "/wiki/concepts/sciencefictionnewwave/"
+  - key: "SaaSCapitalStructureReset"
+    title: "SaaS Capital Structure Reset"
+    url: "/wiki/concepts/saascapitalstructurereset/"
   - key: "SaaSHoldingCompany"
     title: "SaaS Holding Company"
     url: "/wiki/concepts/saasholdingcompany/"
@@ -761,6 +764,9 @@ wiki_pages:
   - key: "SoftwarePaymentCulture"
     title: "Software Payment Culture"
     url: "/wiki/concepts/softwarepaymentculture/"
+  - key: "SoftwareDefinedShipbuilding"
+    title: "Software-Defined Shipbuilding"
+    url: "/wiki/concepts/softwaredefinedshipbuilding/"
   - key: "SolarGeoengineering"
     title: "Solar Geoengineering"
     url: "/wiki/concepts/solargeoengineering/"
@@ -1526,6 +1532,9 @@ wiki_pages:
   - key: "SichuanPostConquestResistance"
     title: "川蜀征服后反抗 / Sichuan Post-Conquest Resistance"
     url: "/wiki/concepts/sichuanpostconquestresistance/"
+  - key: "StrategicFrontierAbandonment"
+    title: "弃边失屏 / Strategic Frontier Abandonment"
+    url: "/wiki/concepts/strategicfrontierabandonment/"
   - key: "SchoolAreaMemoryEcology"
     title: "放学后记忆生态 / School-Area Memory Ecology"
     url: "/wiki/concepts/schoolareamemoryecology/"

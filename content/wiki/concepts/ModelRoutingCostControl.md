@@ -2,11 +2,13 @@
 title: "Model Routing Cost Control"
 type: concept
 tags: [ai, economics, infrastructure]
-sources: [vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1, e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817, all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390, all-in-with-chamath-jason-sacks-friedberg-open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs-42029880, zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588, e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1]
-last_updated: 2026-08-24
+sources: [vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1, e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817, all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390, all-in-with-chamath-jason-sacks-friedberg-open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs-42029880, zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588, e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1, all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555]
+last_updated: 2026-08-25
 ---
 
 # Model Routing Cost Control
+
+[[all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555]] adds the enterprise procurement version from [[DavidFriedberg|David Friedberg]]. Friedberg expects companies to route simple workflows to cheaper [[OpenSourceAIModels|open-weight models]] while reserving premium or specialized models for hard tasks, making model choice a normal cost-control layer rather than a one-time vendor decision.
 
 [[e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817]] adds [[Dongxu]]'s concrete operating pattern. He routes routine repeated work, memory organization, news and paper summaries, and lower-risk tasks to local or cheaper models, while reserving the strongest frontier models for difficult database bugs, cross-module changes, and tasks where one strong pass can beat a long multi-agent debate. The source names this broader shift [[TokenEfficientAgentWorkflow]].
 
@@ -33,6 +35,7 @@ The concept is the user- and product-workflow version of the serving-side routin
 [[vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1]] adds a time-aware routing case. [[DeepSeek]] peak/off-peak pricing makes the router decide not only which model fits a task, but when the task should run; [[Codex]] reset pricing and [[OpenRouter]] availability make subscription capacity, paid resets, API prices, and task urgency part of one routing decision.
 
 ## Key Claims
+- The August 8 All-In source adds that enterprise model routing becomes more valuable as frontier providers cut prices and open-weight models become viable for routine tasks.
 - High-end models can be necessary for hard tasks, but defaulting to them for every step wastes scarce token budget.
 - The useful router must consider task risk: brainstorming, summarization, execution, code review, release checks, and product judgment have different failure costs.
 - Coding workflows make routing visible because a weak model can waste time through repeated repair, while a strong model can burn quota quickly.
@@ -49,6 +52,7 @@ The concept is the user- and product-workflow version of the serving-side routin
 - Vol. 172 adds that routing can include time windows and quota recovery: a low-priority batch job may wait for cheap inference, while a live coding or assistant task may justify peak-rate or reset spending.
 
 ## Connections
+- [[DavidFriedberg|David Friedberg]], [[OpenSourceAIModels]], [[FrontierModelDuopoly]], [[AIInferenceCostStructure]], [[Anthropic]], [[OpenAI]], and [[Google]] - August 8 All-In branch on enterprise blends of cheap, premium, and specialized models.
 - [[AIInferenceCostStructure]] and [[AISubscriptionEconomics]] — cost and quota pressure that makes routing necessary.
 - [[MaaSInfrastructure]] — serving-side model selection, latency, and capacity management.
 - [[AgentHarness]], [[AISkills]], and [[AICodingVerification]] — workflow components that can decide or validate model choice.

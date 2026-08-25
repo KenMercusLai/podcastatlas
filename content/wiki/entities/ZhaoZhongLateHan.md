@@ -2,11 +2,19 @@
 title: "赵忠 / Zhao Zhong (late Han)"
 type: entity
 tags: [person, eunuch, late-han, court, china]
-sources: [zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5]
+sources: [zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8, zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar, zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5]
 last_updated: 2026-08-25
 ---
 
 # 赵忠 / Zhao Zhong (late Han)
+
+[[zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8|Hanji 934]] adds Zhao Zhong's earlier conflict with [[HuangfuSongLateHan|皇甫嵩]]. Huangfu Song sees Zhao Zhong's residence near Ye as far beyond court norms and memorializes that it should be confiscated. Zhao Zhong then joins [[ZhangRangLateHan|张让]] in slandering Huangfu Song to [[EmperorLingOfHan|汉灵帝]], producing Huangfu Song's recall and reduction.
+
+This branch comes before Zhao Zhong's later patronage route toward [[FuXie|傅燮]] in Hanji 936 and before the succession crisis. It shows the same pattern in an anti-corruption setting: a memorial against eunuch luxury can become political exposure for the official who reports it.
+
+[[zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar|Hanji 936]] backfills Zhao Zhong before the succession crisis. As chariot general handling Yellow Turban merit, he sends his brother Zhao Yan to solicit [[FuXie|傅燮]] with a private-favor route toward marquis status. Fu Xie refuses, after which Zhao Zhong resents him but fears his reputation enough to move him outward to [[HanyangCommanderyLateHan|汉阳郡]] rather than openly destroy him.
+
+The same source later removes Zhao Zhong from office after the 186 CE eclipse and crisis sequence. Hanji 936 therefore presents Zhao Zhong as a patronage broker and resentment channel before later sources show him as part of the endangered eunuch faction.
 
 [[zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt|Hanji 943]] adds Zhao Zhong before his death in Hanji 946. [[JianShuoLateHan|蹇硕]] writes to Zhao Zhong and other palace attendants asking them to close the palace gates and kill [[HeJin|何进]] before He Jin can strike first, but the proposal is blocked after [[GuoShengLateHan|郭胜]] gives the letter to He Jin.
 
@@ -17,6 +25,8 @@ The source matters because Zhao Zhong appears first as part of the attempted eun
 His page is intentionally narrow. Zhao Zhong marks the transition from targeted revenge against leading [[TenAttendantsLateHan|十常侍]] figures into the larger purge in which Yuan Shao closes the North Palace gates and kills eunuchs indiscriminately.
 
 ## Connections
+- [[zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8|Hanji 934]], [[HuangfuSongLateHan|皇甫嵩]], [[ZhangRangLateHan|张让]], and [[EmperorLingOfHan|汉灵帝]] - anti-corruption memorial and slander-driven demotion.
+- [[zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar|Hanji 936]], [[FuXie|傅燮]], and [[HanyangCommanderyLateHan|汉阳郡]] - Yellow Turban merit patronage channel and Fu Xie's refusal.
 - [[zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt|Hanji 943]], [[JianShuoLateHan|蹇硕]], [[GuoShengLateHan|郭胜]], and [[HeJin|何进]] - failed preemptive letter before Jian Shuo's death.
 - [[TenAttendantsLateHan|十常侍]], [[ZhangRangLateHan|张让]], and [[DuanGuiLateHan|段珪]] - eunuch faction context.
 - [[YuanShao|袁绍]] and [[HeMiaoLateHan|何苗]] - actors who kill him in the source.

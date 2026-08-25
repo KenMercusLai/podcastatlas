@@ -2,11 +2,19 @@
 title: "刘虞 / Liu Yu (Late Han)"
 type: entity
 tags: [person, late-han, youzhou, china]
-sources: [zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk, zizhi-tongjian-hanji-954-renxingbenshan-haishi-renxingbene-lkurz9dbb25jrjyl5c-rrahda39h, zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku, zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2, zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna]
+sources: [zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy, zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z, zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk, zizhi-tongjian-hanji-954-renxingbenshan-haishi-renxingbene-lkurz9dbb25jrjyl5c-rrahda39h, zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku, zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2, zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna]
 last_updated: 2026-08-25
 ---
 
 # 刘虞 / Liu Yu (Late Han)
+
+[[zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy|Hanji 939]] backfills Liu Yu's Youzhou appointment before Hanji 942 develops his pacification. After [[LiuYanLateHan|刘焉]]'s provincial-shepherd proposal, the court sends Liu Yu as [[YouzhouLateHan|幽州]] shepherd because he has earlier local prestige and is expected to handle [[ZhangChunLateHan|张纯]]'s rebellion.
+
+The same source also makes Liu Yu's appointment part of [[FrontierConscriptionBackfire|边疆征发反噬]]. The court orders [[SouthernXiongnu|南匈奴]] troops to support him against Zhang Chun; that requisition helps trigger the revolt that kills [[QiangquChanyu|羌渠]] and installs [[YufuluoChanyu|于扶罗]].
+
+[[zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z|Hanji 942]] backfills Liu Yu's successful [[YouzhouLateHan|幽州]] entry before the later alternative-emperor and death branches. Sent into a province destabilized by [[ZhangJuLateHan|张举]], [[ZhangChunLateHan|张纯]], [[QiuLijuLateHan|丘力居]], and frontier forces, Liu Yu sends envoys to [[Xianbei|鲜卑]], offers rewards around Zhang Ju and Zhang Chun, and induces Qiu Liju's submission.
+
+The episode makes Liu Yu's reputation a governing instrument. After the crisis disperses, he removes most garrisons and leaves [[GongsunZan|公孙瓒]] with cavalry at [[YoubeipingCommandery|右北平]], creating the early contrast between [[PeopleBasedPoliticalSecurity|民心型政治安全]] and Gongsun Zan's military suppression path. The same source also notes his elevation after an eclipse, when [[MaRidiLateHan|马日磾]] is removed as taiwei.
 
 [[zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk|Hanji 948]] adds an earlier appointment layer before Liu Yu becomes the alternative-emperor refusal case in Hanji 954. After deposing [[LiuBianHongnongWang|刘辩 / 弘农王]], [[DongZhuo|董卓]] appoints Liu Yu as da sima and grants him marquis status, using Liu Yu's reputation and Han-clan standing to stabilize the newly coerced court surface.
 
@@ -31,6 +39,8 @@ The same source makes his death a coerced court-legitimacy scene. [[DuanXunLateH
 [[zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna|Hanji 998]] follows the aftermath: Liu Yu's old staff and supporters, especially [[XianyuFu|鲜于辅]], gather forces to avenge him. His son [[LiuHeLateHan|刘和]] becomes a banner around which [[Wuhuan|乌桓]], [[Xianbei|鲜卑]], and Yuan Shao-aligned forces can coordinate against Gongsun Zan.
 
 ## Connections
+- [[zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy|Hanji 939]], [[ProvincialShepherdAutonomy|州牧集权与地方割据]], [[ZhangChunLateHan|张纯]], [[SouthernXiongnu|南匈奴]], [[QiangquChanyu|羌渠]], and [[FrontierConscriptionBackfire|边疆征发反噬]] - appointment and requisition-backfire prehistory.
+- [[zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z|Hanji 942]], [[ZhangJuLateHan|张举]], [[ZhangChunLateHan|张纯]], [[QiuLijuLateHan|丘力居]], [[Xianbei|鲜卑]], [[Wuhuan|乌桓]], [[GongsunZan|公孙瓒]], [[YoubeipingCommandery|右北平]], and [[MaRidiLateHan|马日磾]] - Youzhou pacification, garrison reduction, and eclipse-linked elevation.
 - [[zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk|Hanji 948]], [[DongZhuo|董卓]], [[CoercedImperialReplacement|胁迫式废立]], and [[MingqiLegitimacy|名器合法性]] - early reputation-bearing appointment after Dong Zhuo's deposition.
 - [[zizhi-tongjian-hanji-958-jiemi-shishang-zui-duanming-de-tongchoudikai-lve41q9gyijbop8wk-b7e6shogju|Hanji 958]], [[EmperorXianOfHan|汉献帝]], [[YuanShu|袁术]], [[Wuguan|武关]], [[NanyangCommandery|南阳郡]], and [[GongsunYueLateHan|公孙越]] - earlier cavalry-request and trust-rupture branch.
 - [[zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku|Hanji 971]] - supply, plunder, and accusation prelude to the direct Liu Yu/Gongsun Zan conflict.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5372
+wiki_total_pages: 5398
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -974,6 +974,9 @@ wiki_pages:
   - key: "PrivateAirlineFailureModes"
     title: "Private Airline Failure Modes"
     url: "/wiki/concepts/privateairlinefailuremodes/"
+  - key: "PrivateCapitalDefensePrime"
+    title: "Private Capital Defense Prime"
+    url: "/wiki/concepts/privatecapitaldefenseprime/"
   - key: "PrivateCreditMarket"
     title: "Private Credit Market / 私募信贷市场"
     url: "/wiki/concepts/privatecreditmarket/"
@@ -1028,6 +1031,9 @@ wiki_pages:
   - key: "PrivateSectorOffensiveCyberAuthority"
     title: "Private-Sector Offensive Cyber Authority"
     url: "/wiki/concepts/privatesectoroffensivecyberauthority/"
+  - key: "PrivateeringPlausibleDeniability"
+    title: "Privateering Plausible Deniability"
+    url: "/wiki/concepts/privateeringplausibledeniability/"
   - key: "ProactiveAdviserInitiative"
     title: "Proactive Adviser Initiative / 主动补位式谋臣"
     url: "/wiki/concepts/proactiveadviserinitiative/"
@@ -1091,6 +1097,9 @@ wiki_pages:
   - key: "ProductLedBrandLongevity"
     title: "Product-Led Brand Longevity"
     url: "/wiki/concepts/productledbrandlongevity/"
+  - key: "ProductLedGrowth"
+    title: "Product-Led Growth"
+    url: "/wiki/concepts/productledgrowth/"
   - key: "ProductionInvestmentCity"
     title: "Production Investment City / 产投城市"
     url: "/wiki/concepts/productioninvestmentcity/"

@@ -2,11 +2,15 @@
 title: "Philip II of Spain"
 type: entity
 tags: [person, monarchy, spain, catholicism, war]
-sources: [695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455]
+sources: [694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087, 695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455]
 last_updated: 2026-08-25
 ---
 
 # Philip II of Spain
+
+[[694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087]] adds Philip at the moment his power expands through [[Portugal]] as well as [[Spain]]. The episode treats his control of Portugal's global empire, silver flows from South America, pressure in the [[LowCountries|Low Countries]], and activity around [[Ireland]] as the backdrop to [[ElizabethI|Elizabeth I]]'s caution after [[FrancisDrake]] returns.
+
+Philip's resources also sit behind the [[ThrockmortonPlot]]. The source says money for [[HenryDukeOfGuise|Guise]]'s invasion project was expected from Guise, Philip, and the Pope, while Philip's ambassador [[BernardinoDeMendoza]] supported Catholic plotting in London before being expelled.
 
 Philip II of Spain appears in [[695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455]] as the Catholic monarch whose pressure on the [[LowCountries|Low Countries]], English shipping, and Protestant rivals pushes [[ElizabethI|Elizabeth I]] toward open conflict. The episode also notes that [[PhilipSidney|Sir Philip Sidney]] was named after Philip, who was his godfather, sharpening the later confessional reversal.
 
@@ -16,5 +20,6 @@ The source links Philip to economic pressure as well as invasion fear. His embar
 
 ## Connections
 - [[Spain]], [[England]], and [[ElizabethI|Elizabeth I]] - monarchies in escalation.
-- [[LowCountries|Low Countries]], [[DutchRevolt]], [[WilliamOfOrange|William of Orange]], and [[AlexanderFarnese|Alexander Farnese / Duke of Parma]] - Dutch theatre.
-- [[FrancisDrake]], [[InterstateEconomicWarfare]], [[ConfessionalWarEscalation]], and [[SpanishArmada]] - pressure and escalation frames.
+- [[Portugal]], [[Ireland]], [[LowCountries|Low Countries]], [[DutchRevolt]], [[ActOfAbjuration]], [[WilliamOfOrange|William of Orange]], and [[AlexanderFarnese|Alexander Farnese / Duke of Parma]] - Dutch and imperial theatre.
+- [[FrancisDrake]], [[GoldenHind]], [[InterstateEconomicWarfare]], [[PrivateeringPlausibleDeniability]], [[ConfessionalWarEscalation]], and [[SpanishArmada]] - pressure and escalation frames.
+- [[BernardinoDeMendoza]], [[HenryDukeOfGuise|Henry, Duke of Guise]], and [[ThrockmortonPlot]] - Catholic conspiracy branch.

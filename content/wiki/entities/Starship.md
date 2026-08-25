@@ -2,11 +2,13 @@
 title: "Starship"
 type: entity
 tags: [spacecraft, spacex, launch, mars]
-sources: [tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, ruhe-douzhu-yike-huojian-s10e21-b66fdf0f-d428-4f0c-8412-b0c7581132d0, tsr-ycoffsite-andylapsa-v1-audio-tsr-ycoffsite-andylapsa-v1-audio, e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793]
-last_updated: 2026-08-04
+sources: [tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, ruhe-douzhu-yike-huojian-s10e21-b66fdf0f-d428-4f0c-8412-b0c7581132d0, tsr-ycoffsite-andylapsa-v1-audio-tsr-ycoffsite-andylapsa-v1-audio, e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793, all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555]
+last_updated: 2026-08-25
 ---
 
 # Starship
+
+[[all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555]] adds Starship as the near-term deployment lever for V3 [[Starlink]] satellites. The hosts treat recent flight-test progress, heat-shield work, and launch cadence as the mechanism that could translate [[SpaceX]] rocket iteration into much higher satellite bandwidth and a stronger public-market infrastructure story.
 
 Starship is the next-generation SpaceX launch and spacecraft system discussed in [[145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou]]. [[LouisHong]] says the underlying idea was already forming around 2012 because [[Falcon9]] and earlier vehicles could not satisfy the company's long-term Mars and large-scale space ambitions.
 
@@ -21,6 +23,7 @@ In the source, Starship is the planned scale jump after Falcon 9. [[Falcon9]] ma
 [[e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793]] adds Starship as the scaling assumption behind [[OrbitalDataCenterEconomics]]. [[LouisHong]] estimates that one Starship launch could carry around 100 100kW orbital compute units, making a 1GW target roughly a 100-launch problem if recovery, cadence, and satellite production improve enough. [[LiuBinyan]] accepts that the launch-count side may be possible while doubting that the resulting data center is economically necessary.
 
 ## Connections
+- [[Starlink]], [[SpaceX]], [[AIComputePriceRisk]], and [[AIInfrastructureDebtFinancing]] - August 8 All-In branch where Starship enables V3 satellite deployment and supports the public-market growth story.
 - [[SpaceX]] and [[ElonMusk]] — company and leader behind the source's Starship framing.
 - [[Falcon9]] — prior reusable-launch platform and production stepping stone.
 - [[RocketRecoveryRouteChoice]], [[SeaNetRocketRecovery]], and [[LongMarch10B]] — recovery-architecture comparison added by S10E21.

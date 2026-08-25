@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 5372
+wiki_total_pages: 5398
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -527,6 +527,9 @@ wiki_pages:
   - key: "AIComputeContinuity"
     title: "AI Compute Continuity"
     url: "/wiki/concepts/aicomputecontinuity/"
+  - key: "AIComputePriceRisk"
+    title: "AI Compute Price Risk"
+    url: "/wiki/concepts/aicomputepricerisk/"
   - key: "AIConsciousnessBoundary"
     title: "AI Consciousness Boundary"
     url: "/wiki/concepts/aiconsciousnessboundary/"
@@ -719,6 +722,9 @@ wiki_pages:
   - key: "AIHollowingFoundationalTraining"
     title: "AI Hollowing Foundational Training / AI导致基础训练空心化"
     url: "/wiki/concepts/aihollowingfoundationaltraining/"
+  - key: "AIHyperscalerModelChannelConflict"
+    title: "AI Hyperscaler Model Channel Conflict"
+    url: "/wiki/concepts/aihyperscalermodelchannelconflict/"
   - key: "AIImpersonationFraudRisk"
     title: "AI Impersonation Fraud Risk"
     url: "/wiki/concepts/aiimpersonationfraudrisk/"
@@ -1754,6 +1760,9 @@ wiki_pages:
   - key: "AutonomousEnterprise"
     title: "Autonomous Enterprise"
     url: "/wiki/concepts/autonomousenterprise/"
+  - key: "AutonomousNavalVessels"
+    title: "Autonomous Naval Vessels"
+    url: "/wiki/concepts/autonomousnavalvessels/"
   - key: "AutonomousVehicleRegulatoryPatchwork"
     title: "Autonomous Vehicle Regulatory Patchwork"
     url: "/wiki/concepts/autonomousvehicleregulatorypatchwork/"

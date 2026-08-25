@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 1823
+topic_total_pages: 1827
 topic_concepts:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -118,6 +118,9 @@ topic_concepts:
   - key: "AICompressedValueCreation"
     title: "AI Compressed Value Creation"
     url: "/wiki/concepts/aicompressedvaluecreation/"
+  - key: "AIComputePriceRisk"
+    title: "AI Compute Price Risk"
+    url: "/wiki/concepts/aicomputepricerisk/"
   - key: "AIDataCenterPrivateCreditFinancing"
     title: "AI Data-Center Private Credit Financing"
     url: "/wiki/concepts/aidatacenterprivatecreditfinancing/"
@@ -2002,6 +2005,9 @@ topic_concepts:
   - key: "PrimeBorrowerCreditRisk"
     title: "Prime Borrower Credit Risk"
     url: "/wiki/concepts/primeborrowercreditrisk/"
+  - key: "PrivateCapitalDefensePrime"
+    title: "Private Capital Defense Prime"
+    url: "/wiki/concepts/privatecapitaldefenseprime/"
   - key: "PrivateCreditMarket"
     title: "Private Credit Market / 私募信贷市场"
     url: "/wiki/concepts/privatecreditmarket/"
@@ -2194,6 +2200,9 @@ topic_concepts:
   - key: "RuminationVsReflection"
     title: "Rumination Vs Reflection"
     url: "/wiki/concepts/ruminationvsreflection/"
+  - key: "SaaSCapitalStructureReset"
+    title: "SaaS Capital Structure Reset"
+    url: "/wiki/concepts/saascapitalstructurereset/"
   - key: "SakokuDutchWindow"
     title: "Sakoku Dutch Window"
     url: "/wiki/concepts/sakokudutchwindow/"
@@ -5175,6 +5184,9 @@ topic_sources:
   - key: "socialradarspod-garrytan-final"
     title: "Garry Tan on Returning to Y Combinator"
     url: "/wiki/sources/socialradarspod-garrytan-final/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555"
+    title: "Google's AI Brain Drain, SpaceX's Huge Quarter, Airtable's 90% Collapse, US Data Fuels China AI"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555/"
   - key: "tsr-s4-gusto-v3-tsr-s4-gusto-v3"
     title: "Gusto Co-Founders: Josh Reeves, Edward Kim & Tomer London"
     url: "/wiki/sources/tsr-s4-gusto-v3-tsr-s4-gusto-v3/"

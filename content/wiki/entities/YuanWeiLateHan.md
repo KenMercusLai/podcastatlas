@@ -2,11 +2,13 @@
 title: "袁隗 / Yuan Wei (late Han)"
 type: entity
 tags: [person, late-han, official, yuan-family, china]
-sources: [zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5, zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk]
+sources: [zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj, zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5, zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk]
 last_updated: 2026-08-25
 ---
 
 # 袁隗 / Yuan Wei (late Han)
+
+[[zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj|Hanji 933]] backfills Yuan Wei before his succession-crisis roles. The episode says he is removed as situ before [[CuiLieLateHan|崔烈]]'s March appointment, making him part of high-office turnover already visible in 185 CE before later false-edict and coerced seal-transfer episodes.
 
 [[zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt|Hanji 943]] adds Yuan Wei at the moment [[LiuBianHongnongWang|刘辩 / 弘农王]] becomes emperor. The source says Yuan Wei is appointed taifu and shares memorial-handling authority with [[HeJin|何进]], giving the new accession a senior Yuan-family procedural support before the later false-edict and forced seal-transfer episodes.
 
@@ -21,6 +23,7 @@ This makes Yuan Wei part of the same unstable title-and-office field that Hanji 
 His role is procedural rather than ideational. The source has Yuan Wei remove the imperial seal from Liu Bian and hand the position to [[EmperorXianOfHan|汉献帝]], making him the visible court official through whom armed coercion receives ritual form. This makes him a source case for [[MingqiLegitimacy|名器合法性]] under duress: the seal and office still matter, but the will behind them belongs to Dong Zhuo's military control.
 
 ## Connections
+- [[zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj|Hanji 933]], [[CuiLieLateHan|崔烈]], and [[OfficeSaleLegitimacyDamage|买官名节损耗]] - removal from the situ office before Cui Lie's purchased appointment.
 - [[zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt|Hanji 943]], [[LiuBianHongnongWang|刘辩 / 弘农王]], [[HeJin|何进]], and [[MingqiLegitimacy|名器合法性]] - taifu appointment and shared memorial-handling role after accession.
 - [[zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5|Hanji 946]], [[YuanShao|袁绍]], [[FanLingLateHan|樊陵]], [[XuXiangLateHan|许相]], [[CourtOfficeCapture|朝廷开府任官失序]], and [[PalaceCoupViolenceCascade|宫廷政变暴力级联]] - false edict used to kill eunuch-backed officeholders.
 - [[DongZhuo|董卓]] - coercive powerholder who forces the procedure.

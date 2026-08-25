@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 5372
+wiki_total_pages: 5398
 wiki_pages:
   - key: "NamingPowerSocialChange"
     title: "Naming Power In Social Change / 社会变革中的命名权"
@@ -65,6 +65,9 @@ wiki_pages:
   - key: "NatureCityProximity"
     title: "Nature-City Proximity / 城市自然邻近"
     url: "/wiki/concepts/naturecityproximity/"
+  - key: "NavalShipbuildingThroughput"
+    title: "Naval Shipbuilding Throughput"
+    url: "/wiki/concepts/navalshipbuildingthroughput/"
   - key: "NavigationDeviceCommoditization"
     title: "Navigation Device Commoditization"
     url: "/wiki/concepts/navigationdevicecommoditization/"
@@ -173,6 +176,9 @@ wiki_pages:
   - key: "NoSmallMattersInGovernance"
     title: "No Small Matters in Governance / 治无小乱无大"
     url: "/wiki/concepts/nosmallmattersingovernance/"
+  - key: "NoCodeAIDisruption"
+    title: "No-Code AI Disruption"
+    url: "/wiki/concepts/nocodeaidisruption/"
   - key: "NoDraftPlayerMarket"
     title: "No-Draft Player Market"
     url: "/wiki/concepts/nodraftplayermarket/"

@@ -149,20 +149,20 @@
       "earliest_episode_date": "2026-01-08",
       "latest_episode_date": "2026-08-21",
       "latest_episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up [42513830].md",
-      "source_note_count": 27,
-      "topic_matched_source_note_count": 24,
+      "source_note_count": 29,
+      "topic_matched_source_note_count": 25,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 17
+          "source_note_count": 18
         },
         {
           "key": "economics",
           "label": "Economics",
           "url": "/topics/economics/",
-          "source_note_count": 11
+          "source_note_count": 12
         },
         {
           "key": "politics",
@@ -225,12 +225,12 @@
           "title": "SpaceX",
           "url": "/wiki/entities/spacex/",
           "kind": "organization",
-          "episode_count": 4
+          "episode_count": 5
         },
         {
-          "key": "DarioAmodei",
-          "title": "Dario Amodei",
-          "url": "/wiki/entities/darioamodei/",
+          "key": "BradGerstner",
+          "title": "Brad Gerstner",
+          "url": "/wiki/entities/bradgerstner/",
           "kind": "person",
           "episode_count": 3
         }
@@ -801,17 +801,38 @@
       "earliest_episode_date": "2020-11-02",
       "latest_episode_date": "2026-08-19",
       "latest_episode_file": "GLT2308408988 [GLT2308408988].md",
-      "source_note_count": 4,
-      "topic_matched_source_note_count": 4,
+      "source_note_count": 5,
+      "topic_matched_source_note_count": 5,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 4
+          "source_note_count": 5
         }
       ],
       "entities": [
+        {
+          "key": "ElizabethI",
+          "title": "Elizabeth I",
+          "url": "/wiki/entities/elizabethi/",
+          "kind": "person",
+          "episode_count": 3
+        },
+        {
+          "key": "FrancisWalsingham",
+          "title": "Francis Walsingham",
+          "url": "/wiki/entities/franciswalsingham/",
+          "kind": "person",
+          "episode_count": 3
+        },
+        {
+          "key": "AlexanderFarnese",
+          "title": "Alexander Farnese / Duke of Parma",
+          "url": "/wiki/entities/alexanderfarnese/",
+          "kind": "person",
+          "episode_count": 2
+        },
         {
           "key": "BSpecials",
           "title": "B Specials",
@@ -820,16 +841,9 @@
           "episode_count": 2
         },
         {
-          "key": "ElizabethI",
-          "title": "Elizabeth I",
-          "url": "/wiki/entities/elizabethi/",
-          "kind": "person",
-          "episode_count": 2
-        },
-        {
-          "key": "FrancisWalsingham",
-          "title": "Francis Walsingham",
-          "url": "/wiki/entities/franciswalsingham/",
+          "key": "FrancisDrake",
+          "title": "Francis Drake",
+          "url": "/wiki/entities/francisdrake/",
           "kind": "person",
           "episode_count": 2
         },
@@ -848,24 +862,10 @@
           "episode_count": 2
         },
         {
-          "key": "OrangeOrder",
-          "title": "Orange Order",
-          "url": "/wiki/entities/orangeorder/",
-          "kind": "organization",
-          "episode_count": 2
-        },
-        {
-          "key": "RoyalUlsterConstabulary",
-          "title": "Royal Ulster Constabulary",
-          "url": "/wiki/entities/royalulsterconstabulary/",
-          "kind": "organization",
-          "episode_count": 2
-        },
-        {
-          "key": "Stormont",
-          "title": "Stormont",
-          "url": "/wiki/entities/stormont/",
-          "kind": "organization",
+          "key": "MaryQueenOfScots",
+          "title": "Mary, Queen of Scots",
+          "url": "/wiki/entities/maryqueenofscots/",
+          "kind": "person",
           "episode_count": 2
         }
       ],
@@ -2336,7 +2336,7 @@
       "earliest_episode_date": "2025-12-07",
       "latest_episode_date": "2026-08-23",
       "latest_episode_file": "《资治通鉴·汉纪》1020丨三国败家子袁术，如何把好牌打得稀烂？ [lhwR9hFMANr_zkTLEUfy3kvl38u0].md",
-      "source_note_count": 382,
+      "source_note_count": 392,
       "topic_matched_source_note_count": 246,
       "topics": [
         {
@@ -2377,7 +2377,7 @@
           "title": "曹操 / Cao Cao",
           "url": "/wiki/entities/caocao/",
           "kind": "person",
-          "episode_count": 44
+          "episode_count": 46
         },
         {
           "key": "QinZhaoxiangwang",
@@ -2408,18 +2408,18 @@
           "episode_count": 31
         },
         {
+          "key": "YuanShao",
+          "title": "袁绍 / Yuan Shao",
+          "url": "/wiki/entities/yuanshao/",
+          "kind": "person",
+          "episode_count": 30
+        },
+        {
           "key": "ZhouXianwang",
           "title": "周显王 / King Xian of Zhou",
           "url": "/wiki/entities/zhouxianwang/",
           "kind": "person",
           "episode_count": 29
-        },
-        {
-          "key": "YuanShao",
-          "title": "袁绍 / Yuan Shao",
-          "url": "/wiki/entities/yuanshao/",
-          "kind": "person",
-          "episode_count": 28
         }
       ],
       "start_here_episode_files": [
