@@ -2,11 +2,15 @@
 title: "十常侍 / Ten Attendants (late Han)"
 type: entity
 tags: [group, eunuchs, late-han, court, china]
-sources: [zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5]
+sources: [zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr, zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5]
 last_updated: 2026-08-25
 ---
 
 # 十常侍 / Ten Attendants (late Han)
+
+[[zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr|Hanji 944]] backfills the faction's protection before the later dismissal and counterattack. The source says [[EmpressDowagerHe|何太后]] relies on eunuchs for palace affairs and remembers their earlier protection after the [[WangMeirenLateHan|王美人]] poisoning crisis, while [[WuyangJun|武阳君]] and [[HeMiaoLateHan|何苗]] are tied to eunuch benefits.
+
+The group is therefore not protected only by office. It sits inside a palace and family-interest network that makes [[HeJin|何进]]'s partial anti-eunuch proposal hard to execute and makes leaked intent dangerous before Hanji 945 shows the faction being dismissed and then reentering.
 
 [[zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl|Hanji 945]] backfills the Ten Attendants before their Hanji 946 counterattack. [[HeJin|何进]] and [[YuanShao|袁绍]] use outside-force pressure and jiajie authority to force [[EmpressDowagerHe|何太后]] to dismiss many regular palace attendants and lesser eunuchs, but He Jin does not execute them when they come to submit.
 
@@ -19,6 +23,7 @@ The group matters because palace access lets it move faster than its outside ene
 The source treats the Ten Attendants' end as a mutual-destruction prelude rather than a clean restoration. Killing the eunuchs does not restore court order; it creates the vacuum that [[DongZhuo|董卓]] exploits in [[zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1|Hanji 947]].
 
 ## Connections
+- [[zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr|Hanji 944]], [[EmpressDowagerHe|何太后]], [[HeMiaoLateHan|何苗]], [[WuyangJun|武阳君]], [[HeJin|何进]], and [[LethalPlanLeakageRisk|致命计划泄露风险]] - pre-dismissal interest network and exposed anti-eunuch planning.
 - [[zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl|Hanji 945]], [[HeJin|何进]], [[YuanShao|袁绍]], [[ZhangRangLateHan|张让]], [[WuyangJun|武阳君]], and [[ExternalTroopInvitationRisk|外兵入京升级风险]] - dismissal, spared submission, and reentry before the killing.
 - [[ZhangRangLateHan|张让]], [[DuanGuiLateHan|段珪]], and [[ZhaoZhongLateHan|赵忠]] - named figures in the source's eunuch bloc.
 - [[HeJin|何进]] and [[EmpressDowagerHe|何太后]] - outside powerholder and queen mother around whom the conflict turns.

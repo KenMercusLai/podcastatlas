@@ -2,11 +2,15 @@
 title: "Palace Coup Violence Cascade / 宫廷政变暴力级联"
 type: concept
 tags: [court-politics, violence, late-han, institutions, crisis]
-sources: [zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5]
+sources: [zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr, zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5]
 last_updated: 2026-08-25
 ---
 
 # Palace Coup Violence Cascade / 宫廷政变暴力级联
+
+[[zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr|Hanji 944]] supplies the earlier information precondition for the Hanji 945-946 cascade. [[HeJin|何进]]'s anti-eunuch intent becomes visible before he has removed the [[TenAttendantsLateHan|十常侍]], while [[EmpressDowagerHe|何太后]], [[HeMiaoLateHan|何苗]], and [[WuyangJun|武阳君]] keep family and eunuch interests entangled.
+
+This makes [[LethalPlanLeakageRisk|致命计划泄露风险]] part of the cascade's setup. The later first killing is not an isolated surprise; it follows a period in which target awareness, partial measures, family channels, and outside-force talk all increase the chance that the conflict will move faster than He Jin can control.
 
 [[zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl|Hanji 945]] supplies the escalation precondition for the Hanji 946 cascade. [[HeJin|何进]]'s summons draws outside forces toward [[LuoyangLateHan|洛阳]], [[YuanShao|袁绍]] receives jiajie authority, many eunuchs are dismissed but not removed as a threat, and [[ZhangRangLateHan|张让]] regains palace access through [[WuyangJun|武阳君]].
 
@@ -17,6 +21,7 @@ The pattern is not simply "violence causes more violence." The source shows seve
 The concept helps connect Hanji 946 to Hanji 947. By the time [[DongZhuo|董卓]] arrives, the palace has not been stabilized by anti-eunuch victory. It has been emptied of ordinary authority, creating a field where an outside army can appear as rescue while becoming control.
 
 ## Key Claims
+- Hanji 944 adds plan leakage, family-interest protection, and partial handling as preconditions before the first palace killing.
 - Hanji 945 adds that the cascade is primed before the first killing by outside-force mobilization, delegated coercive authority, partial dismissal, and restored palace access for the target faction.
 - Palace violence can cascade through access control, forged documents, blocked gates, rumor, revenge, and uncertainty about legitimate command.
 - Once the first killing destroys the expected decision channel, later actors may treat false orders and physical force as normal tools.
@@ -25,6 +30,7 @@ The concept helps connect Hanji 946 to Hanji 947. By the time [[DongZhuo|董卓]
 - A successful purge of one faction does not necessarily restore order; it can produce a power vacuum for a third actor.
 
 ## Connections
+- [[zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr|Hanji 944]], [[HeJin|何进]], [[TenAttendantsLateHan|十常侍]], [[EmpressDowagerHe|何太后]], [[HeMiaoLateHan|何苗]], [[WuyangJun|武阳君]], and [[LethalPlanLeakageRisk|致命计划泄露风险]] - exposed intent and family-interest protection before the palace-coup sequence.
 - [[zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl|Hanji 945]], [[HeJin|何进]], [[YuanShao|袁绍]], [[DongZhuo|董卓]], [[ZhangRangLateHan|张让]], [[WuyangJun|武阳君]], and [[ExternalTroopInvitationRisk|外兵入京升级风险]] - pre-killing escalation conditions.
 - [[HeJin|何进]], [[ZhangRangLateHan|张让]], [[DuanGuiLateHan|段珪]], and [[TenAttendantsLateHan|十常侍]] - initial killing and faction target.
 - [[YuanShao|袁绍]], [[YuanShu|袁术]], [[YuanWeiLateHan|袁隗]], [[WuKuangLateHan|吴匡]], [[FanLingLateHan|樊陵]], [[XuXiangLateHan|许相]], [[ZhaoZhongLateHan|赵忠]], and [[HeMiaoLateHan|何苗]] - retaliation and office/family violence.

@@ -2,11 +2,15 @@
 title: "Palace Access Monopoly / 宫廷接触垄断"
 type: concept
 tags: [governance, court-politics, information-control, qin]
-sources: [zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5, zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj, zizhi-tongjian-qinji-131-1-qinxiang-lisi-yisheng-jingming-que-zao-yaozhan-liupvalcghtas2ibfyjrtdz6ctg7, zizhi-tongjian-qinji-130-4-ruhe-dinglun-qinxiang-lisi-de-xiachang-ljnz0vflgr62hyktrg5cigz7c-7x]
+sources: [zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr, zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5, zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj, zizhi-tongjian-qinji-131-1-qinxiang-lisi-yisheng-jingming-que-zao-yaozhan-liupvalcghtas2ibfyjrtdz6ctg7, zizhi-tongjian-qinji-130-4-ruhe-dinglun-qinxiang-lisi-de-xiachang-ljnz0vflgr62hyktrg5cigz7c-7x]
 last_updated: 2026-08-25
 ---
 
 # Palace Access Monopoly / 宫廷接触垄断
+
+[[zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr|Hanji 944]] adds the dependency layer before Hanji 945's reentry scene. [[EmpressDowagerHe|何太后]] resists [[HeJin|何进]]'s proposal partly because eunuchs manage the palace space and partly because the source says they had once helped protect her after the [[WangMeirenLateHan|王美人]] poisoning crisis.
+
+This version shows palace access as an interest network before it becomes a tactical trap. [[WuyangJun|武阳君]] and [[HeMiaoLateHan|何苗]] can translate eunuch interests into family advice to the dowager, so the [[TenAttendantsLateHan|十常侍]] remain protected by relationship pathways even before [[ZhangRangLateHan|张让]]'s later reentry.
 
 [[zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl|Hanji 945]] adds the reentry version before Hanji 946's trap. [[ZhangRangLateHan|张让]] has been pushed out with other eunuchs under [[HeJin|何进]] and [[YuanShao|袁绍]]'s pressure, but he uses family channels through [[WuyangJun|武阳君]] and [[EmpressDowagerHe|何太后]] to regain palace access.
 
@@ -27,6 +31,7 @@ The episode treats this as a specific form of [[CourtFeedbackCollapse|君臣反�
 [[zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj|Qinji 137]] widens the access problem from audience timing to crisis information. Zhao Gao keeps reports of [[WangLiQin|王离]]'s capture, [[ZhangHanQin|章邯]]'s defeats, and broad eastern rebellion from Hu Hai, while using [[PointingDeerAsHorse|指鹿为马]] to map which officials will publicly obey him. The access monopoly has therefore become [[CrisisInformationBlockade|危机信息封锁]] plus public loyalty testing.
 
 ## Key Claims
+- Hanji 944 adds that palace access can rest on service dependence, gratitude, and family-benefit channels before a formal crisis order is issued.
 - Hanji 945 adds that palace access can be restored through kinship and emotion even after formal dismissal.
 - Hanji 946 adds that palace access monopoly can become immediate bodily danger when inner-court actors control routes, summonses, and who can hear the ruler's or dowager's orders.
 - Access control can be more decisive than formal rank when the ruler accepts an intermediary's filtering role.
@@ -37,6 +42,7 @@ The episode treats this as a specific form of [[CourtFeedbackCollapse|君臣反�
 - Qinji 137 adds that access monopoly can also become battlefield-news blockade: the intermediary decides not only who reaches the ruler, but what reality reaches him.
 
 ## Connections
+- [[zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr|Hanji 944]], [[EmpressDowagerHe|何太后]], [[WangMeirenLateHan|王美人]], [[HeMiaoLateHan|何苗]], [[WuyangJun|武阳君]], and [[TenAttendantsLateHan|十常侍]] - palace-service dependence and family-interest protection before formal reentry.
 - [[zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl|Hanji 945]], [[ZhangRangLateHan|张让]], [[WuyangJun|武阳君]], [[EmpressDowagerHe|何太后]], [[HeJin|何进]], and [[ExternalTroopInvitationRisk|外兵入京升级风险]] - formal dismissal followed by family-channel reentry.
 - [[zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5|Hanji 946]], [[ZhangRangLateHan|张让]], [[DuanGuiLateHan|段珪]], [[HeJin|何进]], [[EmpressDowagerHe|何太后]], and [[TenAttendantsLateHan|十常侍]] - late-Han palace trap through access, eavesdropping, and claimed dowager order.
 - [[ZhaoGao|赵高]] - court operator who creates the access bottleneck in the source.

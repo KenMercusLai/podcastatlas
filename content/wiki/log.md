@@ -11414,3 +11414,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-25] ingest | 《资治通鉴·汉纪》944丨想在乱世中存活，先管住嘴
+
+Added source page for Hanji 944: He Jin's first anti-eunuch planning after Emperor Ling's death, Yuan Shao's outside-troop proposal, Empress Dowager He and He-family obstruction through Wuyang Jun and He Miao, and Chen Lin/Cao Cao's warnings about handing initiative away and letting the plan leak. Created Lethal Plan Leakage Risk; updated connected late-Han actors and palace-crisis concepts. No settled contradiction found; motive readings and Chen Lin's office wording remain source-scoped.
+
+## [2026-08-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

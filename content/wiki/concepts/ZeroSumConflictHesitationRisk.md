@@ -2,11 +2,15 @@
 title: "Zero-Sum Conflict Hesitation Risk / 死斗局优柔寡断风险"
 type: concept
 tags: [strategy, conflict, leadership, late-han, workplace]
-sources: [zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5]
+sources: [zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr, zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5]
 last_updated: 2026-08-25
 ---
 
 # Zero-Sum Conflict Hesitation Risk / 死斗局优柔寡断风险
+
+[[zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr|Hanji 944]] adds the pre-lethal setup. [[HeJin|何进]] has troops and rank after [[EmperorLingOfHan|汉灵帝]]'s death, but his partial handling, family negotiation with [[EmpressDowagerHe|何太后]], and repeated discussion of the anti-eunuch plan expose intent before the [[TenAttendantsLateHan|十常侍]] are removed.
+
+The source makes hesitation inseparable from [[LethalPlanLeakageRisk|致命计划泄露风险]]. Delay is dangerous because talk and partial measures tell the target faction that the conflict may become existential while still leaving it enough access and time to respond.
 
 [[zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl|Hanji 945]] adds the setup for zero-sum conflict hesitation risk before the actual killing. [[HeJin|何进]] tries to solve the eunuch conflict indirectly by summoning outside troops and pressuring [[EmpressDowagerHe|何太后]], but he ignores warnings that [[DongZhuo|董卓]]'s approach will change the conflict field.
 
@@ -17,6 +21,7 @@ The source's negative contrast is [[ZhangRangLateHan|张让]] and [[DuanGuiLateH
 The episode also uses a modern "打直球" analogy. In wiki terms, that analogy belongs near [[CommunicationBoundarySetting|Communication Boundary Setting]], but Hanji 946 is sharper than ordinary workplace boundary practice. The source is not recommending impulsive aggression; it is warning that unclear limits and repeated delay can invite escalation when the other side is already treating the relation as a survival fight.
 
 ## Key Claims
+- Hanji 944 adds the earlier leakage layer: a delayed purge can become dangerous before violence begins if the target infers the plan while still able to act.
 - Hanji 945 adds the pre-killing setup: hesitation can start as indirect escalation, where the actor avoids direct resolution while creating a wider danger.
 - A powerholder can lose despite superior resources if the conflict has become zero-sum and the actor still behaves as if compromise procedures remain intact.
 - Delay is not neutral when the opponent can use the interval to gather information, choose the ground, and strike first.
@@ -25,6 +30,7 @@ The episode also uses a modern "打直球" analogy. In wiki terms, that analogy 
 - The concept is source-scoped. It records the episode's interpretive frame rather than proving that hesitation alone caused the late-Han collapse.
 
 ## Connections
+- [[zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr|Hanji 944]], [[HeJin|何进]], [[EmpressDowagerHe|何太后]], [[HeMiaoLateHan|何苗]], [[WuyangJun|武阳君]], and [[LethalPlanLeakageRisk|致命计划泄露风险]] - partial handling, family obstruction, and exposed intent before the killing.
 - [[zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl|Hanji 945]], [[HeJin|何进]], [[YuanShao|袁绍]], [[DongZhuo|董卓]], and [[ExternalTroopInvitationRisk|外兵入京升级风险]] - indirect escalation before decisive action.
 - [[HeJin|何进]], [[ZhangRangLateHan|张让]], [[DuanGuiLateHan|段珪]], and [[QuMuLateHan|渠穆]] - source case and immediate counterattack.
 - [[TenAttendantsLateHan|十常侍]] and [[PalaceAccessMonopoly|宫廷接触垄断]] - faction and access mechanism that make hesitation dangerous.

@@ -2,11 +2,15 @@
 title: "何太后 / Empress Dowager He"
 type: entity
 tags: [person, empress-dowager, late-han, he-family, china]
-sources: [zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5, zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk]
+sources: [zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr, zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5, zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk]
 last_updated: 2026-08-25
 ---
 
 # 何太后 / Empress Dowager He
+
+[[zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr|Hanji 944]] explains why Empress Dowager He resists [[HeJin|何进]]'s first anti-eunuch proposal. The source says she treats palace service as dependent on eunuchs and also carries a debt from the earlier [[WangMeirenLateHan|王美人]] episode, when eunuch pleading and payments helped keep [[EmperorLingOfHan|汉灵帝]] from deposing her.
+
+The same source makes her decision field familial as well as institutional. [[WuyangJun|武阳君]] and [[HeMiaoLateHan|何苗]] are presented as tied to eunuch benefits and warn her that He Jin wants sole power, so the dowager becomes the point where palace dependence, old gratitude, kinship, and fear of He Jin's ambition block decisive action.
 
 [[zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl|Hanji 945]] adds Empress Dowager He's decision position before the palace killing. [[HeJin|何进]] and [[YuanShao|袁绍]] try to pressure her into authorizing the killing of the [[TenAttendantsLateHan|十常侍]], and the outside-force summons is meant partly to make that pressure irresistible.
 
@@ -21,6 +25,7 @@ Her release marks one of the few successful interruptions in the cascade. [[LuZh
 The source then makes Empress Dowager He part of Dong Zhuo's effort to dismantle the He-family base. Dong Zhuo accuses her through the earlier Dong太皇太后 grievance, moves her to another palace, and has her poisoned shortly after the deposition. Her death turns the deposition from a title transfer into a bodily purge of the previous succession's maternal and affinal support.
 
 ## Connections
+- [[zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr|Hanji 944]], [[WangMeirenLateHan|王美人]], [[EmperorLingOfHan|汉灵帝]], [[HeMiaoLateHan|何苗]], [[WuyangJun|武阳君]], and [[TenAttendantsLateHan|十常侍]] - background debt and family-interest resistance to He Jin's anti-eunuch proposal.
 - [[zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl|Hanji 945]], [[HeJin|何进]], [[YuanShao|袁绍]], [[ZhangRangLateHan|张让]], [[WuyangJun|武阳君]], and [[ExternalTroopInvitationRisk|外兵入京升级风险]] - pressure to dismiss eunuchs and permission for their return.
 - [[zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5|Hanji 946]], [[HeJin|何进]], [[ZhangRangLateHan|张让]], [[DuanGuiLateHan|段珪]], [[LuZhiLateHan|卢植]], and [[PalaceCoupViolenceCascade|宫廷政变暴力级联]] - dowager authority invoked, captured, and partly rescued during the palace collapse.
 - [[LiuBianHongnongWang|刘辩 / 弘农王]] - son and ruler whose position is removed.

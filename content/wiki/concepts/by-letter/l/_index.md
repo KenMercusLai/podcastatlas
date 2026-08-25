@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 5371
+wiki_total_pages: 5372
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -200,6 +200,9 @@ wiki_pages:
   - key: "Leitmotif"
     title: "Leitmotif"
     url: "/wiki/concepts/leitmotif/"
+  - key: "LethalPlanLeakageRisk"
+    title: "Lethal Plan Leakage Risk / 致命计划泄露风险"
+    url: "/wiki/concepts/lethalplanleakagerisk/"
   - key: "LeverageDrivenBullMarket"
     title: "Leverage-Driven Bull Market"
     url: "/wiki/concepts/leveragedrivenbullmarket/"

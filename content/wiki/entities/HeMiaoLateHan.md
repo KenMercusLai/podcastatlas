@@ -2,11 +2,15 @@
 title: "何苗 / He Miao (late Han)"
 type: entity
 tags: [person, late-han, he-family, china]
-sources: [zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5, zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1, zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk]
+sources: [zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5, zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1, zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk]
 last_updated: 2026-08-25
 ---
 
 # 何苗 / He Miao (late Han)
+
+[[zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr|Hanji 944]] backfills He Miao before the later palace-killing aftermath. The episode says he is [[EmpressDowagerHe|何太后]]'s half-brother from the He-family field, originally surnamed Zhu, and that he has already accepted benefits from the eunuch side alongside [[WuyangJun|武阳君]].
+
+In this source, He Miao's importance is political obstruction. He helps persuade the dowager that [[HeJin|何进]]'s anti-eunuch plan is really an attempt to monopolize power, making him part of the family-interest channel that protects the [[TenAttendantsLateHan|十常侍]] before Hanji 946 turns the same family conflict into lethal blame.
 
 [[zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5|Hanji 946]] gives He Miao's living death scene before Hanji 947-948's troop-transfer and corpse-humiliation branches. After [[HeJin|何进]] is killed and the anti-eunuch retaliation begins, [[WuKuangLateHan|吴匡]] blames He Miao for failing to support He Jin, stirs soldiers' anger, and kills him with [[DongMinLateHan|董旻]].
 
@@ -21,6 +25,7 @@ That transfer makes the later posthumous punishment more intelligible: Dong Zhuo
 His role is posthumous but politically meaningful. Dong Zhuo's treatment of He Miao and the killing of [[WuyangJun|武阳君]] warn the court that the previous He-family succession base has no protection left. The source reads this as a display of force meant to make officials comply after the deposition.
 
 ## Connections
+- [[zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr|Hanji 944]], [[EmpressDowagerHe|何太后]], [[WuyangJun|武阳君]], [[HeJin|何进]], and [[TenAttendantsLateHan|十常侍]] - eunuch-linked benefit channel and obstruction before the purge attempt.
 - [[zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5|Hanji 946]], [[HeJin|何进]], [[WuKuangLateHan|吴匡]], [[DongMinLateHan|董旻]], [[TenAttendantsLateHan|十常侍]], and [[PalaceCoupViolenceCascade|宫廷政变暴力级联]] - He-family infighting after the anti-eunuch revenge begins.
 - [[zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1|Hanji 947]], [[HeJin|何进]], [[DongZhuo|董卓]], [[LuoyangLateHan|洛阳]], and [[MilitaryPresenceTheater|军力声势表演]] - He-family troop transfer before the later posthumous warning.
 - [[DongZhuo|董卓]] - powerholder who uses He Miao's corpse as a warning.

@@ -2,11 +2,15 @@
 title: "陈琳 / Chen Lin (Late Han)"
 type: entity
 tags: [person, late-han, writer, official]
-sources: [zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl, zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76]
+sources: [zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr, zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl, zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76]
 last_updated: 2026-08-25
 ---
 
 # 陈琳 / Chen Lin (Late Han)
+
+[[zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr|Hanji 944]] gives Chen Lin's warning in detail before Hanji 945 names him as an ignored voice. The source identifies him in [[HeJin|何进]]'s document-and-decision support role and has him warn that He Jin already controls enough force to punish the eunuch leaders without inviting outside armies.
+
+Chen Lin's argument becomes one of the first concrete forms of [[ExternalTroopInvitationRisk|外兵入京升级风险]] and [[LethalPlanLeakageRisk|致命计划泄露风险]]. If outside forces gather, the conflict changes from a controllable palace action into a contest over who has the larger army, effectively handing the weapon handle to others.
 
 陈琳 / Chen Lin (Late Han) enters the wiki through [[zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl|Hanji 945]] as one of the warning voices [[HeJin|何进]] ignores before summoning outside troops into [[LuoyangLateHan|洛阳]]. The source does not develop Chen Lin's argument in detail, but places him with [[CaoCao|曹操]] as an adviser against the escalation path.
 
@@ -15,6 +19,7 @@ last_updated: 2026-08-25
 The page is source-scoped. Hanji 996 does not develop Chen Lin's wider literary or political career; it uses him as a writer whose letter makes the conflict explicit. Zang Hong's reply acknowledges Yuan Shao's earlier regard for him, but insists that current favor cannot erase the duty owed to an old superior and the destruction of Zhang Chao's family by [[CaoCao|曹操]].
 
 ## Connections
+- [[zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr|Hanji 944]], [[HeJin|何进]], [[YuanShao|袁绍]], [[TenAttendantsLateHan|十常侍]], [[ExternalTroopInvitationRisk|外兵入京升级风险]], and [[LethalPlanLeakageRisk|致命计划泄露风险]] - detailed warning against inviting outside troops and exposing the purge plan.
 - [[zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl|Hanji 945]], [[HeJin|何进]], [[CaoCao|曹操]], and [[ExternalTroopInvitationRisk|外兵入京升级风险]] - warning against the outside-troop escalation.
 - [[zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76|Hanji 996]] - source case.
 - [[ZangHong|臧洪]] - target of Chen Lin's persuasion letter.

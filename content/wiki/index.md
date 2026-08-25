@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》944丨想在乱世中存活，先管住嘴](sources/zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr.md) — 芮淇讲透资治通鉴 episode on He Jin's early anti-eunuch planning, Yuan Shao's outside-troop advice, Empress Dowager He and He-family obstruction, Chen Lin and Cao Cao's leakage warnings, and lethal plan exposure risk.
 - [《资治通鉴·汉纪》945丨执念太深的人，只会越来越痛苦](sources/zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl.md) — 芮淇讲透资治通鉴 episode on He Jin's obsession with summoning outside troops, Zheng Tai and Lu Zhi's warnings, Dong Zhuo's halted approach, Yuan Shao's jiajie authority, and Zhang Rang's return through palace-family ties.
 - [《资治通鉴·汉纪》946丨职场斗争时优柔寡断，有多致命？](sources/zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5.md) — 芮淇讲透资治通鉴 episode on He Jin's failed anti-eunuch move, Zhang Rang and Duan Gui's killing of He Jin, Yuan-family retaliation, the imperial flight to Xiaopingjin, and Dong Zhuo's opening.
 - [《资治通鉴·汉纪》947丨董卓收服吕布，开启称霸之路](sources/zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1.md) — 芮淇讲透资治通鉴 episode on Dong Zhuo's first Luoyang consolidation, Bao Xin's missed preemptive-strike advice to Yuan Shao, staged reinforcements, Lü Bu's killing of Ding Yuan, sikong office capture, and Cai Yong's coerced recruitment.
@@ -1429,7 +1430,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
-- [十常侍 / Ten Attendants (late Han)](entities/TenAttendantsLateHan.md) — Late-Han eunuch faction whose palace access, counter-killing, and later destruction drive the Hanji 946 palace collapse.
+- [十常侍 / Ten Attendants (late Han)](entities/TenAttendantsLateHan.md) — Late-Han eunuch faction whose protected palace access, He-family ties, counter-killing, and later destruction drive the Hanji 944-946 collapse.
 - [张让 / Zhang Rang (late Han)](entities/ZhangRangLateHan.md) — Eunuch faction leader who confronts He Jin, directs the killing, forges orders, flees with the imperial boys, and dies at the Yellow River in Hanji 946.
 - [段珪 / Duan Gui (late Han)](entities/DuanGuiLateHan.md) — Eunuch faction figure, transcript variant 段规, who helps trap He Jin, seize the dowager and imperial boys, and flee toward Xiaopingjin.
 - [渠穆 / Qu Mu (late Han)](entities/QuMuLateHan.md) — Zhang Rang-side follower who kills He Jin inside the palace in Hanji 946.
@@ -1443,9 +1444,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [闵贡 / Min Gong (late Han)](entities/MinGongLateHan.md) — Late-Han figure in the young emperor and Chenliu prince's escape before Dong Zhuo's armed greeting turns rescue into coercive control.
 - [卢植 / Lu Zhi (late Han)](entities/LuZhiLateHan.md) — Late-Han official who objects to Dong Zhuo's forced deposition of Liu Bian and survives through reputation-backed de-escalation.
 - [袁隗 / Yuan Wei (late Han)](entities/YuanWeiLateHan.md) — Yuan-family elder and grand tutor made to handle the seal-transfer procedure in Dong Zhuo's coerced imperial replacement.
-- [何太后 / Empress Dowager He](entities/EmpressDowagerHe.md) — He-family queen-mother figure removed and poisoned after Dong Zhuo deposes Liu Bian.
-- [何苗 / He Miao (late Han)](entities/HeMiaoLateHan.md) — He-family figure whose corpse Dong Zhuo publicly mutilates as intimidation after the deposition.
-- [武阳君 / Wuyang Jun](entities/WuyangJun.md) — He-family elder killed and denied normal body recovery in Dong Zhuo's post-deposition terror.
+- [何太后 / Empress Dowager He](entities/EmpressDowagerHe.md) — He-family queen-mother whose eunuch debt and palace dependence block He Jin's purge before Dong Zhuo later removes and poisons her.
+- [何苗 / He Miao (late Han)](entities/HeMiaoLateHan.md) — He-family figure tied to eunuch benefits before He Jin's failure and later killed, with his corpse publicly mutilated after the deposition.
+- [武阳君 / Wuyang Jun](entities/WuyangJun.md) — He-family elder and eunuch-benefit channel who helps block He Jin's purge before being killed in Dong Zhuo's post-deposition terror.
 - [陈蕃 / Chen Fan (late Han)](entities/ChenFanLateHan.md) — Party Prohibition-linked official rehabilitated in Dong Zhuo's justice-packaging move.
 - [窦武 / Dou Wu (late Han)](entities/DouWuLateHan.md) — Party Prohibition-linked official rehabilitated alongside Chen Fan in Dong Zhuo's court-legitimacy packaging.
 - [刘辩 / Liu Bian (Hongnong Wang)](entities/LiuBianHongnongWang.md) — Deposed late-Han emperor and Hongnong Wang poisoned by Li Ru under Dong Zhuo's command in Hanji 950.
@@ -1664,7 +1665,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [臧洪 / Zang Hong](entities/ZangHong.md) — Late-Han official whose 996-997 branch ties old-superior loyalty to failed rescue, East Commandery starvation, final refusal, and emotion-driven political rigidity.
 - [张超 / Zhang Chao (Late Han)](entities/ZhangChaoLateHan.md) — Zang Hong's old Guangling superior, trapped at Yongqiu by Cao Cao, whose death and family destruction become the moral grievance behind Hanji 996-997.
 - [张邈 / Zhang Miao (Late Han)](entities/ZhangMiaoLateHan.md) — Cao Cao's trusted friend turned Yanzhou betrayer, later remembered through Zhang Chao and Zang Hong's failed-rescue grievance.
-- [陈琳 / Chen Lin (Late Han)](entities/ChenLinLateHan.md) — Late-Han writer used by Yuan Shao in Hanji 996 to persuade Zang Hong before the East Commandery siege hardens.
+- [陈琳 / Chen Lin (Late Han)](entities/ChenLinLateHan.md) — Late-Han adviser and writer who warns He Jin against outside-troop escalation in Hanji 944 and later writes Yuan Shao's persuasion letter to Zang Hong.
 - [朱治 / Zhu Zhi (Late Han)](entities/ZhuZhiLateHan.md) — Danyang officer in Hanji 996 whose move into Wu shows Jiangdong local authority fragmenting.
 - [严白虎 / Yan Baihu](entities/YanBaihu.md) — Wu-region local strongman who appears as a refuge in Hanji 996 and as a lower-priority Jiangdong threat in Hanji 1004.
 - [雍丘 / Yongqiu (Late Han)](entities/YongqiuLateHan.md) — Siege setting where Zhang Chao falls to Cao Cao, triggering Zang Hong's break with Yuan Shao.
@@ -1924,7 +1925,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [秦朗 / Qin Lang](entities/QinLang.md) — Son of Qin Yilu and Lady Du, brought into the Cao household branch after Cao Cao takes Lady Du.
 - [尹夫人 / Lady Yin (Cao Cao)](entities/LadyYinCaoCao.md) — He Jin's daughter-in-law and He Yan's mother, taken into Cao Cao's household in Hanji 1013.
 - [何晏 / He Yan](entities/HeYan.md) — Lady Yin's son and Cao Cao foster son used by Hanji 1013 to bridge Cao household history to Wei-Jin cultural style.
-- [何进 / He Jin](entities/HeJin.md) — Late-Han family status marker for Lady Yin and He Yan in Hanji 1013.
+- [何进 / He Jin](entities/HeJin.md) — Late-Han grand general whose hesitant anti-eunuch purge, outside-force summons, and death open the Hanji 944-946 palace collapse.
 - [张济 / Zhang Ji (late Han)](entities/ZhangJiLateHan.md) — Zhang Xiu's uncle whose death at Rangcheng lets Liu Biao absorb the remaining troops and later leaves Lady Zou as the Wancheng widow/aunt figure.
 - [邹氏 / Lady Zou (Wancheng)](entities/LadyZouWancheng.md) — Zhang Ji's widow and Zhang Xiu's aunt by marriage whose taking by Cao Cao becomes the Wancheng status insult; Hanji 1013's "周氏" is kept as a transcript variant.
 - [胡车儿 / Hu Che'er](entities/HuCheEr.md) — Zhang Xiu subordinate who alarms Zhang Xiu when rewarded by Cao Cao and then drinks with and disarms Dian Wei.
@@ -1961,7 +1962,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [寿春 / Shouchun](entities/Shouchun.md) — Yuan Shu's self-coronation site in Hanji 1015, where the "仲家" regime and imperial offices are staged.
 - [九江郡 / Jiujiang Commandery](entities/JiujiangCommandery.md) — Commandery whose office Yuan Shu renames into a Huainan capital-style post after claiming imperial status.
 - [淮南 / Huainan Region](entities/HuainanRegion.md) — Late-Han regional frame around Yuan Shu's Shouchun base, disambiguated from other Huainan kingdom pages.
-- [袁绍 / Yuan Shao](entities/YuanShao.md) — Late-Han northern power whose hostility toward Zhang Miao, grain-warning branch, Zang Hong rescue refusal, status resentment, Guo Jia rejection, and formal Han-court appointments structure multiple late-Han branches.
+- [袁绍 / Yuan Shao](entities/YuanShao.md) — Late-Han northern power whose early anti-eunuch pressure, outside-force advice, coalition leadership, Zang Hong branch, Guo Jia rejection, and Han-court appointments structure multiple late-Han branches.
 - [金尚 / Jin Shang](entities/JinShang.md) — Late-Han official killed after refusing Yuan Shu's taiwei title, used by Hanji 1016 as a title-risk and survival-pacing caution.
 - [韩胤 / Han Yin (late Han)](entities/HanYinLateHan.md) — Yuan Shu envoy whose Lü Bu marriage mission collapses after Chen Gui's warning, ending with execution at Cao Cao's court.
 - [陈登 / Chen Deng](entities/ChenDeng.md) — Late-Han official whose Hanji 1016-1018 branch moves from Yuan Shu hostage leverage into Cao Cao's Guangling appointment and Lü Bu management.
@@ -2787,7 +2788,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [赵良 / Zhao Liang](entities/ZhaoLiang.md) — Figure whose pre-death advice to Shang Yang is framed as a missed warning after Zizhi Tongjian's flashback.
 - [百里奚 / Baili Xi](entities/BailiXi.md) — Outsider Qin minister redeemed by Qin Mu Gong with five black ram skins and used as Shang Yang's hoped-for comparison.
 - [秦穆公 / Duke Mu of Qin](entities/QinMugong.md) — Earlier Qin ruler whose recognition of Baili Xi becomes the precedent Qin Xiao Gong wants to restore.
-- [曹操 / Cao Cao](entities/CaoCao.md) — Later analogy and late-Han powerholder whose branches include Cao Song revenge, Xuzhou/Yanzhou, legitimacy-window seizure, adviser intake,屯田, Wancheng failure, Chen Deng, and Yuan Shu court-risk handling.
+- [曹操 / Cao Cao](entities/CaoCao.md) — Later analogy and late-Han powerholder whose branches include early purge-leakage warnings, Cao Song revenge, Xuzhou/Yanzhou, legitimacy-window seizure, adviser intake,屯田, Wancheng failure, Chen Deng, and Yuan Shu court-risk handling.
 - [曹丕 / Cao Pi](entities/CaoPi.md) — Cao Cao's successor used to show one forward path from de facto control into formal dynastic replacement.
 - [汉献帝 / Emperor Xian of Han](entities/EmperorXianOfHan.md) — Late Han emperor whose vulnerable but recognized title lets Cao Cao seize a legitimacy window and later use the Xu court to manage Yuan Shao, Yuan Shu, and old-Han ministers.
 - [《吕氏春秋》 / Lushi Chunqiu](entities/LushiChunqiu.md) — Pre-Qin text cited for criticizing Shang Yang's non-repeatable parley deception and damaged personal credibility.
@@ -8802,6 +8803,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Lethal Plan Leakage Risk / 致命计划泄露风险](concepts/LethalPlanLeakageRisk.md) — Political risk where a high-stakes purge or crisis plan becomes dangerous once talk, delay, and partial disclosure let targets prepare first.
 - [External Troop Invitation Risk / 外兵入京升级风险](concepts/ExternalTroopInvitationRisk.md) — Palace-crisis pattern where borrowing outside military pressure gives armed outsiders a route into central power.
 - [Zero-Sum Conflict Hesitation Risk / 死斗局优柔寡断风险](concepts/ZeroSumConflictHesitationRisk.md) — Hanji 946 frame where delayed, softened action becomes dangerous after a conflict has become lethal and the other side can strike first.
 - [Palace Coup Violence Cascade / 宫廷政变暴力级联](concepts/PalaceCoupViolenceCascade.md) — Hanji 946 pattern where one palace killing triggers forged orders, gate assault, retaliatory slaughter, imperial flight, and third-party capture opportunity.
