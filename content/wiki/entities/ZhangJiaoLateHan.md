@@ -2,11 +2,15 @@
 title: "张角 / Zhang Jiao (late Han)"
 type: entity
 tags: [person, late-han, religion, rebellion]
-sources: [zizhi-tongjian-hanji-923-chengnianrende-dingji-henjin-guzi-lide-juejue-lifzh-gohpqnmdznnfv72tndqf8h, zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o, zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3, zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29, zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw, zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k]
+sources: [zizhi-tongjian-hanji-922-ruhe-zai-fanchen-zhong-xiulian-qingshang-lsxiqneyyeod6aeeqxuhs517pn1x, zizhi-tongjian-hanji-923-chengnianrende-dingji-henjin-guzi-lide-juejue-lifzh-gohpqnmdznnfv72tndqf8h, zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o, zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3, zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29, zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw, zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k]
 last_updated: 2026-08-26
 ---
 
 # 张角 / Zhang Jiao (late Han)
+
+[[zizhi-tongjian-hanji-922-ruhe-zai-fanchen-zhong-xiulian-qingshang-lsxiqneyyeod6aeeqxuhs517pn1x|Hanji 922]] supplies Zhang Jiao's earliest growth layer before Hanji 923's warning-and-uprising sequence. The episode presents him as using Huang-Lao religious language, confessed sins, talisman-water healing, and discipleship to build trust; some sick people recover in the source account, and popular belief spreads as followers travel to seek him.
+
+The same source emphasizes administrative nonintervention before open rebellion. Local officials initially read Zhang Jiao as encouraging moral conduct rather than building a dangerous organization, so his [[TaipingDao|太平道]] network can grow over more than a decade across eight provinces before the later [[YellowTurbansLateHan|Yellow Turban]] plot becomes visible.
 
 [[zizhi-tongjian-hanji-923-chengnianrende-dingji-henjin-guzi-lide-juejue-lifzh-gohpqnmdznnfv72tndqf8h|Hanji 923]] backfills Zhang Jiao before the open [[YellowTurbansLateHan|Yellow Turban]] emergency. The episode places his rise inside epidemic and poverty pressure: commoners who cannot reliably get medical help become receptive to his healing activity, and [[TaipingDao|太平道]] turns that trust into [[ReliefBasedReligiousMobilization|救济型宗教动员]].
 
@@ -29,6 +33,7 @@ The same episode pairs his death with [[ZhangBaoYellowTurban|张宝]]'s defeat a
 The episode does not equate Zhang Jiao with [[ZeRong|笮融]]. Zhang Jiao functions as a historical comparator showing that late-Han religious networks could mobilize people at scale, while Ze Rong is framed more narrowly as an actor who uses Buddhist display to cover personal plunder and murder.
 
 ## Connections
+- [[zizhi-tongjian-hanji-922-ruhe-zai-fanchen-zhong-xiulian-qingshang-lsxiqneyyeod6aeeqxuhs517pn1x|Hanji 922]], [[TaipingDao|太平道]], [[YellowTurbansLateHan|黄巾军]], and [[ReliefBasedReligiousMobilization|救济型宗教动员]] - Huang-Lao healing frame, confession, discipleship, and local nonintervention before the organized revolt.
 - [[zizhi-tongjian-hanji-923-chengnianrende-dingji-henjin-guzi-lide-juejue-lifzh-gohpqnmdznnfv72tndqf8h|Hanji 923]], [[TaipingDao|太平道]], [[MaYuanyiLateHan|马元义]], [[TangZhouLateHan|唐周]], and [[ReliefBasedReligiousMobilization|救济型宗教动员]] - epidemic-context organization, planned uprising, disclosure, and early launch.
 - [[zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o|Hanji 928]], [[LuZhiLateHan|卢植]], [[ZuoFengLateHan|左丰]], [[DongZhuo|董卓]], and [[BattlefieldCommanderReplacementRisk|阵前换将风险]] - Guangzong siege interrupted by court inspection and replacement command.
 - [[zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3|Hanji 929]], [[HuangfuSongLateHan|皇甫嵩]], [[ZhangLiangYellowTurban|张梁]], [[ZhangBaoYellowTurban|张宝]], and [[YellowTurbansLateHan|黄巾军]] - death, posthumous decapitation, and main-force suppression.

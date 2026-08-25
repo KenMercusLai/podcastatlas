@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 7600
+wiki_total_pages: 7607
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -797,6 +797,9 @@ wiki_pages:
   - key: "HayashiYuri"
     title: "林优里 / Hayashi Yuri"
     url: "/wiki/entities/hayashiyuri/"
+  - key: "HuanDianLateHan"
+    title: "桓典 / Huan Dian (late Han)"
+    url: "/wiki/entities/huandianlatehan/"
   - key: "HuanChu"
     title: "桓楚 / Huan Chu"
     url: "/wiki/entities/huanchu/"

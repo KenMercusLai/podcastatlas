@@ -5659,6 +5659,10 @@
     "title": "盗匪成军纪律化 / Bandit-to-Army Discipline",
     "url": "/wiki/concepts/bandittoarmydiscipline/"
   },
+  "BandunMan": {
+    "title": "板楯蛮 / Bandun Man",
+    "url": "/wiki/entities/bandunman/"
+  },
   "BanffNationalPark": {
     "title": "Banff National Park / 班夫",
     "url": "/wiki/entities/banffnationalpark/"
@@ -7875,6 +7879,10 @@
     "title": "曹丕 / Cao Pi",
     "url": "/wiki/entities/caopi/"
   },
+  "CaoQianLateHan": {
+    "title": "曹谦 / Cao Qian (late Han)",
+    "url": "/wiki/entities/caoqianlatehan/"
+  },
   "CaoRen": {
     "title": "曹仁 / Cao Ren",
     "url": "/wiki/entities/caoren/"
@@ -8815,6 +8823,10 @@
     "title": "Chemosensation",
     "url": "/wiki/concepts/chemosensation/"
   },
+  "ChenBaoLateHan": {
+    "title": "陈鲍 / Chen Bao (late Han)",
+    "url": "/wiki/entities/chenbaolatehan/"
+  },
   "ChenCang": {
     "title": "陈仓 / Chen Cang",
     "url": "/wiki/entities/chencang/"
@@ -8834,6 +8846,10 @@
   "ChenCountyChuHan": {
     "title": "陈县 / Chen County (Chu-Han)",
     "url": "/wiki/entities/chencountychuhan/"
+  },
+  "ChenDanLateHan": {
+    "title": "陈耽 / Chen Dan (late Han)",
+    "url": "/wiki/entities/chendanlatehan/"
   },
   "ChenDanian": {
     "title": "Chen Danian / 陈大年",
@@ -21850,6 +21866,10 @@
   "HuanChu": {
     "title": "桓楚 / Huan Chu",
     "url": "/wiki/entities/huanchu/"
+  },
+  "HuanDianLateHan": {
+    "title": "桓典 / Huan Dian (late Han)",
+    "url": "/wiki/entities/huandianlatehan/"
   },
   "HuanJieLateHan": {
     "title": "桓阶 / Huan Jie (late Han)",
@@ -50627,6 +50647,10 @@
     "title": "徐熙元",
     "url": "/wiki/entities/xuxiyuan/"
   },
+  "XuXuTaiweiLateHan": {
+    "title": "许訏 / Xu Xu (late-Han taiwei)",
+    "url": "/wiki/entities/xuxutaiweilatehan/"
+  },
   "XuXuanGuaiLu": {
     "title": "《续玄怪录》",
     "url": "/wiki/entities/xuxuanguailu/"
@@ -52134,6 +52158,10 @@
   "ZhangJiLateHan": {
     "title": "张济 / Zhang Ji (late Han)",
     "url": "/wiki/entities/zhangjilatehan/"
+  },
+  "ZhangJiSikongLateHan": {
+    "title": "张济 / Zhang Ji (late-Han sikong)",
+    "url": "/wiki/entities/zhangjisikonglatehan/"
   },
   "ZhangJiaoLateHan": {
     "title": "张角 / Zhang Jiao (late Han)",
@@ -56918,6 +56946,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-922-ruhe-zai-fanchen-zhong-xiulian-qingshang-lsxiqneyyeod6aeeqxuhs517pn1x": {
+    "title": "《资治通鉴·汉纪》922丨如何在凡尘中修炼情商？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-922-ruhe-zai-fanchen-zhong-xiulian-qingshang-lsxiqneyyeod6aeeqxuhs517pn1x/"
   },
   "zizhi-tongjian-hanji-923-chengnianrende-dingji-henjin-guzi-lide-juejue-lifzh-gohpqnmdznnfv72tndqf8h": {
     "title": "《资治通鉴·汉纪》923丨成年人的顶级狠劲：骨子里的决绝",

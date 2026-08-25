@@ -11735,3 +11735,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-26] ingest | 《资治通鉴·汉纪》922丨如何在凡尘中修炼情商？
+
+Added source page for Hanji 922: Emperor Ling's 182-183 CE court prelude, false anti-corruption reporting by Xu Xu and Zhang Ji, Chen Dan's defense of wrongly accused officials, Chen Bao's root-cause explanation of the Bandun Man rebellion, Huan Dian's censorial reputation, and Zhang Jiao's Taiping Dao expansion before Hanji 923. Created Xu Xu (late-Han taiwei), Zhang Ji (late-Han sikong), Chen Dan, Chen Bao, Bandun Man, Cao Qian, and Huan Dian; updated linked late-Han entity and concept pages. No settled contradiction found; the source's Zhang Ji is disambiguated from the later warlord Zhang Ji.

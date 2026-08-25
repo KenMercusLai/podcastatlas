@@ -2,11 +2,15 @@
 title: "黄巾军 / Yellow Turbans (late Han)"
 type: entity
 tags: [movement, rebellion, late-han]
-sources: [zizhi-tongjian-hanji-923-chengnianrende-dingji-henjin-guzi-lide-juejue-lifzh-gohpqnmdznnfv72tndqf8h, zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4, zizhi-tongjian-hanji-927-zuo-shengyi-de-zuigao-jingjie-shi-shenme-lngfbjn6xui9k-9lp-ihdqkhpbpr, zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o, zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3, zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd]
+sources: [zizhi-tongjian-hanji-922-ruhe-zai-fanchen-zhong-xiulian-qingshang-lsxiqneyyeod6aeeqxuhs517pn1x, zizhi-tongjian-hanji-923-chengnianrende-dingji-henjin-guzi-lide-juejue-lifzh-gohpqnmdznnfv72tndqf8h, zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4, zizhi-tongjian-hanji-927-zuo-shengyi-de-zuigao-jingjie-shi-shenme-lngfbjn6xui9k-9lp-ihdqkhpbpr, zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o, zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3, zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd]
 last_updated: 2026-08-26
 ---
 
 # 黄巾军 / Yellow Turbans (late Han)
+
+[[zizhi-tongjian-hanji-922-ruhe-zai-fanchen-zhong-xiulian-qingshang-lsxiqneyyeod6aeeqxuhs517pn1x|Hanji 922]] supplies the pre-rebellion social-religious layer before Yellow Turban identity appears as an open military emergency. [[ZhangJiaoLateHan|张角]]'s [[TaipingDao|太平道]] grows through healing, confession, and discipleship under conditions where many ordinary people need practical relief.
+
+The episode's value for this page is timing. Local officials initially see the movement as moral teaching rather than a coordinated revolt, so the mass base can expand across eight provinces before Hanji 923 adds the thirty-six `fang`, palace contacts, disclosure, and early launch.
 
 [[zizhi-tongjian-hanji-923-chengnianrende-dingji-henjin-guzi-lide-juejue-lifzh-gohpqnmdznnfv72tndqf8h|Hanji 923]] supplies the pre-outbreak organization layer for the Yellow Turbans. Before the open 184 CE emergency, [[ZhangJiaoLateHan|张角]]'s [[TaipingDao|太平道]] grows through healing and popular distress, divides into thirty-six `fang`, marks "甲子" on official gates, and prepares coordinated action through figures such as [[MaYuanyiLateHan|马元义]].
 
@@ -35,6 +39,7 @@ The same source then follows successive leaders [[HanZhongLateHan|韩忠]] and [
 This page covers the broad late-Han Yellow Turban movement field as it appears in Hanji 930. It remains distinct from later or regional successor pages such as [[QingzhouYellowTurbans|青州黄巾军]], [[BaiboArmy|白波军]], and [[HeishanArmy|黑山军]].
 
 ## Connections
+- [[zizhi-tongjian-hanji-922-ruhe-zai-fanchen-zhong-xiulian-qingshang-lsxiqneyyeod6aeeqxuhs517pn1x|Hanji 922]], [[ZhangJiaoLateHan|张角]], [[TaipingDao|太平道]], and [[ReliefBasedReligiousMobilization|救济型宗教动员]] - pre-rebellion healing trust, discipleship, and local nonintervention.
 - [[zizhi-tongjian-hanji-923-chengnianrende-dingji-henjin-guzi-lide-juejue-lifzh-gohpqnmdznnfv72tndqf8h|Hanji 923]], [[ZhangJiaoLateHan|张角]], [[TaipingDao|太平道]], [[MaYuanyiLateHan|马元义]], and [[TangZhouLateHan|唐周]] - pre-outbreak organization, plot disclosure, and early launch.
 - [[zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4|Hanji 925]], [[BoCaiLateHan|波才]], [[ZhuJunLateHan|朱儁]], [[HuangfuSongLateHan|皇甫嵩]], [[ChangsheBattleLateHan|长社之战]], and [[YingchuanCommandery|颍川郡]] - opening 184 CE battlefield layer and Changshe fire-attack defeat.
 - [[zizhi-tongjian-hanji-927-zuo-shengyi-de-zuigao-jingjie-shi-shenme-lngfbjn6xui9k-9lp-ihdqkhpbpr|Hanji 927]], [[FuXie|傅燮]], [[ZhaoZhongLateHan|赵忠]], [[ZhangManchengLateHan|张曼成]], [[QinJieLateHan|秦颉]], [[NanyangCommandery|南阳郡]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - internal-court diagnosis and earliest Nanyang branch.

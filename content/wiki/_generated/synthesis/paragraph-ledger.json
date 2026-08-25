@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "11b76d31b206a5e924f75936cdc8d503cf6d0e98102c218cf68c1056ab73485c",
       "733f743cc3c0eedc1a1a2e9b7fd072b78a70e7539a10bc84265c38c1ccddead5",
       "9a171a2c08f89f42da0c2486cc46f51e6c75cc103bb555b3ed7bd5a61c1c7c79",
       "7d7b693d6f35815ea65575bc5b059360b4fee92ebcf1baf6f0f25aadad4c1df0",
@@ -228,11 +229,45 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "0c44513d0be67a931cc97bd29911cea2bb9a7cae081936bd55010c7c16a6a2c9"
     ],
-    "paragraph_count": 226
+    "paragraph_count": 227
   },
-  "overview_commit": "ba7f33b6799b730d5113f2884384f96cc25e4618",
-  "overview_digest": "40f922b088e91b43f6078d12ac9edd450bf3d71bb5532b8db735a1ce57ebee99",
+  "overview_commit": "c6f9b7a0efc92f16acd875d252f9048068b75482",
+  "overview_digest": "e947eb83e674aa1782e827ea7c52256af4dfa01800ab74a28a4cd45ebd1be467",
   "paragraphs": [
+    {
+      "id": "11b76d31b206a5e924f75936cdc8d503cf6d0e98102c218cf68c1056ab73485c",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-922-ruhe-zai-fanchen-zhong-xiulian-qingshang-lsxiqneyyeod6aeeqxuhs517pn1x|《资治通鉴·汉纪》922丨如何在凡尘中修炼情商？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 182-183 CE late-Han prelude before Hanji 923. It adds [[XuXuTaiweiLateHan|许訏]], [[ZhangJiSikongLateHan|张济]], [[ChenDanLateHan|陈耽]], [[ChenBaoLateHan|陈鲍]], [[BandunMan|板楯蛮]], [[CaoQianLateHan|曹谦]], and [[HuanDianLateHan|桓典]], while extending [[EmperorLingOfHan|汉灵帝]], [[BaCommanderyLateHan|巴郡]], [[WuyangJun|武阳君]], [[ZhangJiaoLateHan|张角]], [[TaipingDao|太平道]], [[YellowTurbansLateHan|黄巾军]], [[CourtFeedbackCollapse|君臣反馈失灵]], [[PeopleBasedPoliticalSecurity|民心型政治安全]], [[RootCausePacification|查因安抚式治理]], [[UntimelyExtravagance|时绌举赢]], and [[ReliefBasedReligiousMobilization|救济型宗教动员]]. Its core synthesis is that late-Han breakdown is visible before the Yellow Turban emergency: court anti-corruption feedback can invert into private-party protection, local extraction can turn a historically loyal group into rebels until clean administration repairs the grievance, and healing-based religious care can become mass organization while officials still read it as moral teaching. No settled contradiction is recorded; the source's Zhang Ji is disambiguated from the later warlord Zhang Ji, and the host's emotional-intelligence opening remains source-scoped interpretation.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "BaCommanderyLateHan",
+        "BandunMan",
+        "CaoQianLateHan",
+        "ChenBaoLateHan",
+        "ChenDanLateHan",
+        "CourtFeedbackCollapse",
+        "EmperorLingOfHan",
+        "HuanDianLateHan",
+        "PeopleBasedPoliticalSecurity",
+        "ReliefBasedReligiousMobilization",
+        "RootCausePacification",
+        "RuiqiJiangtouZizhiTongjian",
+        "TaipingDao",
+        "UntimelyExtravagance",
+        "WuyangJun",
+        "XuXuTaiweiLateHan",
+        "YellowTurbansLateHan",
+        "ZhangJiSikongLateHan",
+        "ZhangJiaoLateHan",
+        "zizhi-tongjian-hanji-922-ruhe-zai-fanchen-zhong-xiulian-qingshang-lsxiqneyyeod6aeeqxuhs517pn1x"
+      ]
+    },
     {
       "id": "733f743cc3c0eedc1a1a2e9b7fd072b78a70e7539a10bc84265c38c1ccddead5",
       "primary_topic": "history-and-geopolitics",

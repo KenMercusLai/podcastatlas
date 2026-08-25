@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 7600
+wiki_total_pages: 7607
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -1325,6 +1325,9 @@ wiki_pages:
   - key: "CaoTengLateHan"
     title: "曹腾 / Cao Teng (late Han)"
     url: "/wiki/entities/caotenglatehan/"
+  - key: "CaoQianLateHan"
+    title: "曹谦 / Cao Qian (late Han)"
+    url: "/wiki/entities/caoqianlatehan/"
   - key: "CaoBaoLateHan"
     title: "曹豹 / Cao Bao (late Han)"
     url: "/wiki/entities/caobaolatehan/"
@@ -1604,6 +1607,9 @@ wiki_pages:
   - key: "ChenQun"
     title: "陈群 / Chen Qun"
     url: "/wiki/entities/chenqun/"
+  - key: "ChenDanLateHan"
+    title: "陈耽 / Chen Dan (late Han)"
+    url: "/wiki/entities/chendanlatehan/"
   - key: "ChenLiao"
     title: "陈聊 / Chen Liao"
     url: "/wiki/entities/chenliao/"
@@ -1631,6 +1637,9 @@ wiki_pages:
   - key: "ChenYu"
     title: "陈馀 / Chen Yu"
     url: "/wiki/entities/chenyu/"
+  - key: "ChenBaoLateHan"
+    title: "陈鲍 / Chen Bao (late Han)"
+    url: "/wiki/entities/chenbaolatehan/"
   - key: "ChineseUniversityOfHongKong"
     title: "香港中文大学 / Chinese University of Hong Kong"
     url: "/wiki/entities/chineseuniversityofhongkong/"

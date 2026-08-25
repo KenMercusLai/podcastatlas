@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1861
+topic_total_pages: 1863
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -4976,6 +4976,9 @@ topic_entities:
   - key: "LuJia"
     title: "陆贾 / Lu Jia"
     url: "/wiki/entities/lujia/"
+  - key: "ChenBaoLateHan"
+    title: "陈鲍 / Chen Bao (late Han)"
+    url: "/wiki/entities/chenbaolatehan/"
   - key: "YongzhengEmperor"
     title: "雍正 / Yongzheng Emperor"
     url: "/wiki/entities/yongzhengemperor/"
@@ -5562,6 +5565,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh"
     title: "《资治通鉴·汉纪》185｜一张利嘴，收复中国万里疆土"
     url: "/wiki/sources/zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh/"
+  - key: "zizhi-tongjian-hanji-922-ruhe-zai-fanchen-zhong-xiulian-qingshang-lsxiqneyyeod6aeeqxuhs517pn1x"
+    title: "《资治通鉴·汉纪》922丨如何在凡尘中修炼情商？"
+    url: "/wiki/sources/zizhi-tongjian-hanji-922-ruhe-zai-fanchen-zhong-xiulian-qingshang-lsxiqneyyeod6aeeqxuhs517pn1x/"
   - key: "zizhi-tongjian-qinji-111-1-ruoda-de-zhaoguo-jing-wang-yu-yige-jinv-zhi-shou-lhrqb8-swlkuyoydgjyn8ldnlkzc"
     title: "《资治通鉴·秦纪》111-1｜偌大的赵国竟亡于一个妓女之手"
     url: "/wiki/sources/zizhi-tongjian-qinji-111-1-ruoda-de-zhaoguo-jing-wang-yu-yige-jinv-zhi-shou-lhrqb8-swlkuyoydgjyn8ldnlkzc/"

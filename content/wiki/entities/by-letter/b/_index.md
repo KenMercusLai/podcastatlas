@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 7600
+wiki_total_pages: 7607
 wiki_pages:
   - key: "BSpecials"
     title: "B Specials"
@@ -866,6 +866,9 @@ wiki_pages:
   - key: "BaofengYingyin"
     title: "暴风影音 / Baofeng Yingyin"
     url: "/wiki/entities/baofengyingyin/"
+  - key: "BandunMan"
+    title: "板楯蛮 / Bandun Man"
+    url: "/wiki/entities/bandunman/"
   - key: "BoZhi"
     title: "柏直 / Bo Zhi"
     url: "/wiki/entities/bozhi/"
