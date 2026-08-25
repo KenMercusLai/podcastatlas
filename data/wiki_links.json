@@ -2959,6 +2959,10 @@
     "title": "《木偶奇遇记》 / The Adventures of Pinocchio",
     "url": "/wiki/entities/adventuresofpinocchio/"
   },
+  "AdversitySilenceDiscipline": {
+    "title": "Adversity Silence Discipline / 逆境守口",
+    "url": "/wiki/concepts/adversitysilencediscipline/"
+  },
   "AdviserStateArchitecture": {
     "title": "Adviser State Architecture / 谋士政权架构",
     "url": "/wiki/concepts/adviserstatearchitecture/"
@@ -8983,6 +8987,10 @@
     "title": "陈桥兵变 / Chenqiao Mutiny",
     "url": "/wiki/entities/chenqiaomutiny/"
   },
+  "ChenQiuLateHan": {
+    "title": "陈球 / Chen Qiu (late Han)",
+    "url": "/wiki/entities/chenqiulatehan/"
+  },
   "ChenQun": {
     "title": "陈群 / Chen Qun",
     "url": "/wiki/entities/chenqun/"
@@ -9090,6 +9098,10 @@
   "ChengHuanLateHan": {
     "title": "程奂 / Cheng Huan (late Han)",
     "url": "/wiki/entities/chenghuanlatehan/"
+  },
+  "ChengHuangLateHan": {
+    "title": "程璜 / Cheng Huang (late Han)",
+    "url": "/wiki/entities/chenghuanglatehan/"
   },
   "ChengJing": {
     "title": "程静 / Cheng Jing",
@@ -20767,6 +20779,10 @@
     "title": "何颙 / He Yong (late Han)",
     "url": "/wiki/entities/heyonglatehan/"
   },
+  "HeZhenLateHan": {
+    "title": "何真 / He Zhen (late Han)",
+    "url": "/wiki/entities/hezhenlatehan/"
+  },
   "HeadAndShoulders": {
     "title": "Head & Shoulders / 海飞丝",
     "url": "/wiki/entities/headandshoulders/"
@@ -27871,6 +27887,10 @@
     "title": "刘和 / Liu He (Late Han)",
     "url": "/wiki/entities/liuhelatehan/"
   },
+  "LiuHeSituLateHan": {
+    "title": "刘郃 / Liu He (late-Han situ)",
+    "url": "/wiki/entities/liuhesitulatehan/"
+  },
   "LiuHeng": {
     "title": "刘恒 / Emperor Wen of Han",
     "url": "/wiki/entities/liuheng/"
@@ -27903,6 +27923,10 @@
     "title": "Liu Ming-Yu / 刘洺堉",
     "url": "/wiki/entities/liumingyu/"
   },
+  "LiuNaLateHan": {
+    "title": "刘纳 / Liu Na (late Han)",
+    "url": "/wiki/entities/liunalatehan/"
+  },
   "LiuQing": {
     "title": "刘擎 / Liu Qing",
     "url": "/wiki/entities/liuqing/"
@@ -27922,6 +27946,10 @@
   "LiuTaoLateHan": {
     "title": "刘陶 / 刘桃 (late Han)",
     "url": "/wiki/entities/liutaolatehan/"
+  },
+  "LiuTiaoLateHan": {
+    "title": "刘鯈 / Liu Tiao (late Han)",
+    "url": "/wiki/entities/liutiaolatehan/"
   },
   "LiuWenhuan": {
     "title": "Liu Wenhuan",
@@ -48379,6 +48407,10 @@
     "title": "王芬 / Wang Fen (late Han)",
     "url": "/wiki/entities/wangfenlatehan/"
   },
+  "WangFuLateHan": {
+    "title": "王甫 / Wang Fu (late Han)",
+    "url": "/wiki/entities/wangfulatehan/"
+  },
   "WangFuSuShi": {
     "title": "王弗 / Wang Fu",
     "url": "/wiki/entities/wangfusushi/"
@@ -51146,6 +51178,10 @@
   "YangQiLateHan": {
     "title": "杨琦 / Yang Qi (late Han)",
     "url": "/wiki/entities/yangqilatehan/"
+  },
+  "YangQiuLateHan": {
+    "title": "阳球 / Yang Qiu (late Han)",
+    "url": "/wiki/entities/yangqiulatehan/"
   },
   "YangShen": {
     "title": "杨慎",
@@ -57066,6 +57102,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5": {
+    "title": "《资治通鉴·汉纪》918丨事情不顺利时，为什么要闭嘴？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5/"
   },
   "zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade": {
     "title": "《资治通鉴·汉纪》919丨想活得好？先踢开善良的自己",

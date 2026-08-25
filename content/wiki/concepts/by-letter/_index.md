@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 5473
+wiki_total_pages: 5474
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -191,6 +191,9 @@ wiki_pages:
   - key: "AdvancedPackaging"
     title: "Advanced Packaging"
     url: "/wiki/concepts/advancedpackaging/"
+  - key: "AdversitySilenceDiscipline"
+    title: "Adversity Silence Discipline / 逆境守口"
+    url: "/wiki/concepts/adversitysilencediscipline/"
   - key: "AdviserStateArchitecture"
     title: "Adviser State Architecture / 谋士政权架构"
     url: "/wiki/concepts/adviserstatearchitecture/"

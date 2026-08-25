@@ -11656,6 +11656,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-26] ingest | 《资治通鉴·汉纪》918丨事情不顺利时，为什么要闭嘴？
+
+Added source page for Hanji 918: adversity silence discipline, the 179 CE Liu He-Chen Qiu-Liu Na-Yang Qiu anti-Cao Jie plot and household leak through Cheng Huang, Bandun Man/Yizhou/Xianbei pressure, and the early He-family rise through Empress He, He Jin, Liu Bian, and He Zhen. Created disambiguated pages for Liu He the situ, Liu Tiao, Chen Qiu, Liu Na, Yang Qiu, Cheng Huang, He Zhen, Wang Fu, and Adversity Silence Discipline; updated linked late-Han entity and concept pages. No settled contradiction found; transcript Liu He/Liu Tiao ASR variants are normalized to 刘郃/刘鯈 and kept distinct from Liu Yu's son Liu He.
+
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》920丨明悟这个道理，才能赚大钱
 
 Added source page for Hanji 920: wealth-through-Dao framing, 181 CE horse-procurement price cornering, Zhu Jun's Jiaozhi suppression of Wuhu Man and Liang Long, disaster and office churn around Yang Ci and Chen Dan, Xianbei succession weakness after Tanshihuai, Han Lingdi's palace-market play, and the public/private treasury setup before Hanji 921. Created Liang Long, Wuhu Man (Jiaozhi), Tanshihuai, He Lian, Kuitou, Wealth Through Dao Frame, Palace Market Theater, and Procurement Signal Price Cornering; updated linked late-Han entity and concept pages. No settled contradiction found; transcript variants around Zhu Jun, Wuhu Man, Tanshihuai, He Lian, and Kuitou are normalized cautiously.
@@ -11765,6 +11769,10 @@ Ran lint. See lint-report.md for details.
 Ran lint. See lint-report.md for details.
 
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》919丨想活得好？先踢开善良的自己
+
+## [2026-08-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-26] lint | Wiki health check
 

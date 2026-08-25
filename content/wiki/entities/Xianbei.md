@@ -2,11 +2,13 @@
 title: "鲜卑 / Xianbei"
 type: entity
 tags: [people, frontier, late-han, steppe, china]
-sources: [zizhi-tongjian-hanji-920-mingwu-zhege-daoli-caineng-zhuan-daqian-lqmabg3bpyz6ct2v4arx-iun57ws, zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar, zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z, zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna]
+sources: [zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5, zizhi-tongjian-hanji-920-mingwu-zhege-daoli-caineng-zhuan-daqian-lqmabg3bpyz6ct2v4arx-iun57ws, zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar, zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z, zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna]
 last_updated: 2026-08-26
 ---
 
 # 鲜卑 / Xianbei
+
+[[zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5|Hanji 918]] adds the earliest Xianbei pressure marker in this late-Han run. The episode records Xianbei incursions into [[YouzhouLateHan|幽州]] and [[BingzhouLateHan|并州]] in the same field as [[BandunMan|板楯蛮]] rebellion and capital-court executions, establishing frontier pressure before the 181 CE Tanshihuai succession branch.
 
 [[zizhi-tongjian-hanji-920-mingwu-zhege-daoli-caineng-zhuan-daqian-lqmabg3bpyz6ct2v4arx-iun57ws|Hanji 920]] adds an earlier 181 CE leadership-transition layer. In the same year that Xianbei forces invade [[YouzhouLateHan|幽州]] and [[BingzhouLateHan|并州]], [[TanshihuaiXianbei|檀石槐]] dies and his son [[HeLianXianbei|和连]] succeeds him.
 
@@ -23,6 +25,7 @@ The source uses the incursion as one item in a broader late-Han stress field rat
 The source uses Xianbei mainly to show that Gongsun Zan's political failure has widened beyond a narrow Han official dispute. Frontier groups, Liu Yu loyalists, and Yuan Shao's network all find common cause against him.
 
 ## Connections
+- [[zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5|Hanji 918]], [[YouzhouLateHan|幽州]], [[BingzhouLateHan|并州]], and [[BandunMan|板楯蛮]] - 179-180 CE frontier-pressure marker before later leadership-transition material.
 - [[zizhi-tongjian-hanji-920-mingwu-zhege-daoli-caineng-zhuan-daqian-lqmabg3bpyz6ct2v4arx-iun57ws|Hanji 920]], [[TanshihuaiXianbei|檀石槐]], [[HeLianXianbei|和连]], [[KuitouXianbei|魁头]], [[YouzhouLateHan|幽州]], and [[BingzhouLateHan|并州]] - 181 CE incursion, succession weakness, and later dispersal.
 - [[zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar|Hanji 936]], [[YouzhouLateHan|幽州]], [[BingzhouLateHan|并州]], and [[ZhangWenLateHan|张温]] - 186 CE incursion and recall pressure.
 - [[zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z|Hanji 942]], [[LiuYuLateHan|刘虞]], [[ZhangChunLateHan|张纯]], and [[ZhangJuLateHan|张举]] - envoy-and-pacification branch before the later anti-Gongsun coalition.

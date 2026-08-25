@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》918丨事情不顺利时，为什么要闭嘴？](sources/zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5.md) — 芮淇讲透资治通鉴 episode on adversity silence discipline, the 179 CE Liu He-Chen Qiu-Liu Na-Yang Qiu anti-Cao Jie plot leak, late-Han frontier/local disorder, and the early He-family rise through Empress He, He Jin, Liu Bian, and He Zhen.
 - [《资治通鉴·汉纪》919丨想活得好？先踢开善良的自己](sources/zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade.md) — 芮淇讲透资治通鉴 episode on boundaryless kindness, Emperor Ling's garden project, Yang Ci's remonstrance, classical flattery around shared pleasure, Yang Xuan's Lingling suppression tactic, and Zhao Kai's false-accusation reversal.
 - [《资治通鉴·汉纪》920丨明悟这个道理，才能赚大钱](sources/zizhi-tongjian-hanji-920-mingwu-zhege-daoli-caineng-zhuan-daqian-lqmabg3bpyz6ct2v4arx-iun57ws.md) — 芮淇讲透资治通鉴 episode on wealth-through-Dao framing, 181 CE horse-procurement price cornering, Zhu Jun's Jiaozhi suppression, Xianbei succession weakness, Han Lingdi's palace-market play, and the public/private treasury problem.
 - [《资治通鉴·汉纪》921丨金钱如水：缺则渴死，贪则淹死](sources/zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic.md) — 芮淇讲透资治通鉴 episode on Han Lingdi's private-treasury extraction, Lyu Qiang's public/private finance remonstrance and appointment-accountability warning, Wang Meiren and Liu Xie's foster transfer, and Cao Jie-to-Zhao Zhong eunuch continuity.
@@ -1475,6 +1476,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [刘郃 / Liu He (late-Han situ)](entities/LiuHeSituLateHan.md) — Late-Han situ and imperial-clan figure whose anti-Cao Jie plot collapses after household leakage; distinct from Liu Yu's son Liu He.
+- [刘鯈 / Liu Tiao (late Han)](entities/LiuTiaoLateHan.md) — Liu He's brother whose death under Dou Wu is invoked to press Liu He into anti-eunuch action.
+- [陈球 / Chen Qiu (late Han)](entities/ChenQiuLateHan.md) — Yongle shaofu who urges Liu He to act against Cao Jie in the failed 179 CE plot.
+- [刘纳 / Liu Na (late Han)](entities/LiuNaLateHan.md) — Shangshu who frames senior-office inaction as uselessness during the failed anti-Cao Jie plot.
+- [阳球 / Yang Qiu (late Han)](entities/YangQiuLateHan.md) — Weiwei whose household connection to Cheng Huang leaks the anti-Cao Jie plan.
+- [程璜 / Cheng Huang (late Han)](entities/ChengHuangLateHan.md) — Eunuch intermediary who carries the leaked anti-Cao Jie plot to Cao Jie.
+- [何真 / He Zhen (late Han)](entities/HeZhenLateHan.md) — He-family household head whose daughter becomes Empress He and whose sons become outer-relative actors.
+- [王甫 / Wang Fu (late Han)](entities/WangFuLateHan.md) — Late-Han eunuch powerholder named in the Cao Jie eunuch-network background.
 - [杨璇 / Yang Xuan (late Han)](entities/YangXuanLateHan.md) — Lingling administrator who uses lime/fire-horse and crossbow wagons to defeat Cangwu-Guiyang bandits before a blood-letter appeal overturns Zhao Kai's false accusation.
 - [赵凯 / Zhao Kai (late Han)](entities/ZhaoKaiLateHan.md) — Jingzhou inspector whose false accusation against Yang Xuan turns a local victory into prison-cart danger before the blood-letter appeal reverses the case.
 - [苍梧郡 / Cangwu Commandery (late Han)](entities/CangwuCommanderyLateHan.md) — Southern commandery whose bandits join Guiyang bandits in the Yang Xuan-Lingling suppression branch.
@@ -9104,6 +9113,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Adversity Silence Discipline / 逆境守口](concepts/AdversitySilenceDiscipline.md) — Discipline of withholding complaint, argument, and uncontrolled disclosure when an adverse or unclear situation makes speech strategically costly.
 - [Boundaryless Kindness Trap / 无边界善良陷阱](concepts/BoundarylessKindnessTrap.md) — Source-scoped frame in which kindness without boundaries or value exchange makes a person carry responsibility without receiving protection or benefit.
 - [Shared Pleasure Governance Test / 与民同乐治理检验](concepts/SharedPleasureGovernanceTest.md) — Mencian public/private test for whether a ruler's park or pleasure project is shared public use or an exclusionary trap.
 - [Classic Citation Legitimation Capture / 引经据典式欲望包装](concepts/ClassicCitationLegitimationCapture.md) — Court-rhetoric pattern where learned citation strips a precedent of its conditions and turns ruler desire into apparent legitimacy.

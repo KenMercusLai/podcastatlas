@@ -2,11 +2,13 @@
 title: "杨赐 / Yang Ci (late Han)"
 type: entity
 tags: [person, late-han, official, china]
-sources: [zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade, zizhi-tongjian-hanji-920-mingwu-zhege-daoli-caineng-zhuan-daqian-lqmabg3bpyz6ct2v4arx-iun57ws, zizhi-tongjian-hanji-923-chengnianrende-dingji-henjin-guzi-lide-juejue-lifzh-gohpqnmdznnfv72tndqf8h, zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4, zizhi-tongjian-hanji-931-rensheng-jiannan-chu-bianshi-xiuxin-shi-lpzmvxop8lmlwvxhoojzj5ok9qd6]
+sources: [zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5, zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade, zizhi-tongjian-hanji-920-mingwu-zhege-daoli-caineng-zhuan-daqian-lqmabg3bpyz6ct2v4arx-iun57ws, zizhi-tongjian-hanji-923-chengnianrende-dingji-henjin-guzi-lide-juejue-lifzh-gohpqnmdznnfv72tndqf8h, zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4, zizhi-tongjian-hanji-931-rensheng-jiannan-chu-bianshi-xiuxin-shi-lpzmvxop8lmlwvxhoojzj5ok9qd6]
 last_updated: 2026-08-26
 ---
 
 # 杨赐 / Yang Ci (late Han)
+
+[[zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5|Hanji 918]] adds Yang Ci's immediate pre-Hanji-919 office marker. After the failed anti-[[CaoJieLateHan|曹节]] plot kills [[LiuHeSituLateHan|刘郃]], the court appoints Yang Ci as situ, placing him in senior office before his garden remonstrance and later [[YellowTurbansLateHan|Yellow Turban]] warnings.
 
 [[zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade|Hanji 919]] adds an earlier Yang Ci remonstrance against [[EmperorLingOfHan|Emperor Ling]]'s garden project. As situ, he argues that the proposed gardens will seize suburban land, damage fertile fields, displace residents, and add private pleasure on top of already sufficient imperial parks; the warning momentarily moves Ling, but is overwritten by attendants' classical citation. This makes Yang Ci a recurring figure for livelihood-based restraint before both [[UntimelyExtravagance|garden extravagance]] and later fiscal extraction.
 
@@ -27,6 +29,7 @@ The episode therefore makes Yang Ci a case of warning that fails first as court 
 The episode gives Yang Ci a narrow but important function. Alongside [[HeJin|何进]] and [[YuanWeiLateHan|袁隗]], he helps rescue Wang Yun from the death edge, making Wang Yun's early [[MoralReputationPoliticalCapital|道德名望政治资本]] visible before the later Dong Zhuo branch.
 
 ## Connections
+- [[zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5|Hanji 918]], [[LiuHeSituLateHan|刘郃]], [[CaoJieLateHan|曹节]], and [[EmperorLingOfHan|汉灵帝]] - appointment as situ after the failed anti-eunuch plot.
 - [[zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade]] — adds his garden remonstrance against taking fields and displacing residents.
 - [[SharedPleasureGovernanceTest]] — Mencian test later invoked against the material warning he gives.
 - [[ClassicCitationLegitimationCapture]] — rhetoric pattern that defeats his remonstrance.

@@ -2,11 +2,13 @@
 title: "何苗 / He Miao (late Han)"
 type: entity
 tags: [person, late-han, he-family, china]
-sources: [zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw, zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5, zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1, zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk]
-last_updated: 2026-08-25
+sources: [zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5, zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw, zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5, zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1, zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk]
+last_updated: 2026-08-26
 ---
 
 # 何苗 / He Miao (late Han)
+
+[[zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5|Hanji 918]] backfills He Miao's family origin before his 187-189 military and palace roles. The episode places him in [[HeZhenLateHan|何真]]'s household with [[EmpressDowagerHe|何皇后 / 何太后]] and [[HeJin|何进]], making his later He-family position a product of Empress He's elevation and [[LiuBianHongnongWang|刘辩]]'s birth rather than a standalone office career.
 
 [[zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw|Hanji 937]] gives He Miao an earlier 187 CE military-credit layer before the later He-family palace crisis. After thieves at Yingyang kill the Zhongmou county magistrate, He Miao suppresses them as Henan yin and is appointed chariot-and-cavalry general.
 
@@ -27,6 +29,7 @@ That transfer makes the later posthumous punishment more intelligible: Dong Zhuo
 His role is posthumous but politically meaningful. Dong Zhuo's treatment of He Miao and the killing of [[WuyangJun|武阳君]] warn the court that the previous He-family succession base has no protection left. The source reads this as a display of force meant to make officials comply after the deposition.
 
 ## Connections
+- [[zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5|Hanji 918]], [[HeZhenLateHan|何真]], [[EmpressDowagerHe|何皇后 / 何太后]], [[HeJin|何进]], and [[LiuBianHongnongWang|刘辩 / 弘农王]] - He-family origin and outer-relative prehistory.
 - [[zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw|Hanji 937]] and [[EmperorLingOfHan|汉灵帝]] - 187 CE suppression of Yingyang thieves and appointment as chariot-and-cavalry general.
 - [[zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr|Hanji 944]], [[EmpressDowagerHe|何太后]], [[WuyangJun|武阳君]], [[HeJin|何进]], and [[TenAttendantsLateHan|十常侍]] - eunuch-linked benefit channel and obstruction before the purge attempt.
 - [[zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5|Hanji 946]], [[HeJin|何进]], [[WuKuangLateHan|吴匡]], [[DongMinLateHan|董旻]], [[TenAttendantsLateHan|十常侍]], and [[PalaceCoupViolenceCascade|宫廷政变暴力级联]] - He-family infighting after the anti-eunuch revenge begins.

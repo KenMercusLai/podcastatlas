@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1868
+topic_total_pages: 1869
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -5574,6 +5574,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh"
     title: "《资治通鉴·汉纪》185｜一张利嘴，收复中国万里疆土"
     url: "/wiki/sources/zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh/"
+  - key: "zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5"
+    title: "《资治通鉴·汉纪》918丨事情不顺利时，为什么要闭嘴？"
+    url: "/wiki/sources/zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5/"
   - key: "zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade"
     title: "《资治通鉴·汉纪》919丨想活得好？先踢开善良的自己"
     url: "/wiki/sources/zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade/"

@@ -2,11 +2,13 @@
 title: "Lethal Plan Leakage Risk / 致命计划泄露风险"
 type: concept
 tags: [strategy, information-control, court-politics, late-han, communication]
-sources: [zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr]
-last_updated: 2026-08-25
+sources: [zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5, zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr]
+last_updated: 2026-08-26
 ---
 
 # Lethal Plan Leakage Risk / 致命计划泄露风险
+
+[[zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5|Hanji 918]] adds an earlier version of the same risk before the He Jin crisis. [[LiuHeSituLateHan|刘郃]] names the danger that the eunuch side has many eyes and ears, yet the plan by Liu He, [[ChenQiuLateHan|陈球]], [[LiuNaLateHan|刘纳]], and [[YangQiuLateHan|阳球]] against [[CaoJieLateHan|曹节]] still leaks through [[ChengHuangLateHan|程璜]]. This makes the concept less tied to one 189 CE failure and more broadly late-Han: moral urgency does not protect a plan whose information path is uncontrolled.
 
 Lethal plan leakage risk / 致命计划泄露风险 enters the wiki through [[zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr|Hanji 944]] as the information-control failure around [[HeJin|何进]]'s plan to eliminate the [[TenAttendantsLateHan|十常侍]]. The episode's "管住嘴" frame is not ordinary politeness; it is the danger that a purge, arrest, or coercive move becomes more dangerous once the target side can infer the plan before the initiator has executed it.
 
@@ -16,6 +18,7 @@ This concept sits between [[ExternalTroopInvitationRisk|外兵入京升级风险
 
 ## Key Claims
 
+- Hanji 918 adds that the risk can begin in private households and concubine/eunuch access before any public mobilization or troop movement exists.
 - High-stakes plans are not made safer by wider discussion if the additional listeners can leak, redirect, or preempt the action.
 - Delay and disclosure interact: a leaked plan becomes more dangerous when the initiator still has not chosen a concrete executable route.
 - Partial measures can expose intent without removing the target's ability to respond.
@@ -25,6 +28,7 @@ This concept sits between [[ExternalTroopInvitationRisk|外兵入京升级风险
 
 ## Connections
 
+- [[zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5|Hanji 918]], [[LiuHeSituLateHan|刘郃]], [[ChenQiuLateHan|陈球]], [[LiuNaLateHan|刘纳]], [[YangQiuLateHan|阳球]], [[ChengHuangLateHan|程璜]], and [[CaoJieLateHan|曹节]] - earlier anti-eunuch plot destroyed by household leakage.
 - [[zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr|Hanji 944]], [[HeJin|何进]], [[YuanShao|袁绍]], [[ChenLinLateHan|陈琳]], and [[CaoCao|曹操]] - source case and warning voices.
 - [[TenAttendantsLateHan|十常侍]], [[EmpressDowagerHe|何太后]], [[HeMiaoLateHan|何苗]], and [[WuyangJun|武阳君]] - target faction and court-family channels that make leakage dangerous.
 - [[DouWuLateHan|窦武]] - precedent Yuan Shao uses for failed anti-eunuch action after leaked intent.

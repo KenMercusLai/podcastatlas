@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 7625
+wiki_total_pages: 7633
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -1430,6 +1430,9 @@ wiki_pages:
   - key: "ChengQiu"
     title: "程球 / Cheng Qiu"
     url: "/wiki/entities/chengqiu/"
+  - key: "ChengHuangLateHan"
+    title: "程璜 / Cheng Huang (late Han)"
+    url: "/wiki/entities/chenghuanglatehan/"
   - key: "ChengDieyi"
     title: "程蝶衣 / Cheng Dieyi"
     url: "/wiki/entities/chengdieyi/"
@@ -1586,6 +1589,9 @@ wiki_pages:
   - key: "ChenGui"
     title: "陈珪 / Chen Gui"
     url: "/wiki/entities/chengui/"
+  - key: "ChenQiuLateHan"
+    title: "陈球 / Chen Qiu (late Han)"
+    url: "/wiki/entities/chenqiulatehan/"
   - key: "ChenLinLateHan"
     title: "陈琳 / Chen Lin (Late Han)"
     url: "/wiki/entities/chenlinlatehan/"

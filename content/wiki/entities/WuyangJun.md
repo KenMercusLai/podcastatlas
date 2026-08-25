@@ -2,11 +2,13 @@
 title: "武阳君 / Wuyang Jun"
 type: entity
 tags: [person, late-han, he-family, china]
-sources: [zizhi-tongjian-hanji-922-ruhe-zai-fanchen-zhong-xiulian-qingshang-lsxiqneyyeod6aeeqxuhs517pn1x, zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr, zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl, zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk]
+sources: [zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5, zizhi-tongjian-hanji-922-ruhe-zai-fanchen-zhong-xiulian-qingshang-lsxiqneyyeod6aeeqxuhs517pn1x, zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr, zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl, zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk]
 last_updated: 2026-08-26
 ---
 
 # 武阳君 / Wuyang Jun
+
+[[zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5|Hanji 918]] gives Wuyang Jun an earlier household prehistory through the He-family rise. The episode traces [[EmpressDowagerHe|Empress He]]'s path from [[HeZhenLateHan|何真]]'s Nanyang butcher household into the palace and treats the family line around [[HeJin|何进]] and [[HeMiaoLateHan|何苗]] as already becoming politically meaningful after [[LiuBianHongnongWang|刘辩]]'s birth; later pages preserve the formal Wuyang Jun title notice separately.
 
 [[zizhi-tongjian-hanji-922-ruhe-zai-fanchen-zhong-xiulian-qingshang-lsxiqneyyeod6aeeqxuhs517pn1x|Hanji 922]] gives Wuyang Jun an earlier title-marker before the 189 palace-family crisis. In 183 CE, [[EmperorLingOfHan|汉灵帝]] grants Empress He's mother the title Wuyang Jun amid the same episode's disaster, flood, and late-Han instability markers.
 
@@ -25,6 +27,7 @@ The source gives Wuyang Jun a narrow but important pre-collapse role. Her channe
 The page is source-scoped. Wuyang Jun matters here less as a developed biography than as evidence that Dong Zhuo's deposition politics becomes household liquidation. By denying proper handling of her body, Dong Zhuo makes the He family an example to the remaining court.
 
 ## Connections
+- [[zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5|Hanji 918]], [[HeZhenLateHan|何真]], [[EmpressDowagerHe|何皇后 / 何太后]], [[HeJin|何进]], and [[HeMiaoLateHan|何苗]] - He-household prehistory before the formal title marker.
 - [[zizhi-tongjian-hanji-922-ruhe-zai-fanchen-zhong-xiulian-qingshang-lsxiqneyyeod6aeeqxuhs517pn1x|Hanji 922]] and [[EmperorLingOfHan|汉灵帝]] - 183 CE title grant to Empress He's mother.
 - [[zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr|Hanji 944]], [[EmpressDowagerHe|何太后]], [[HeMiaoLateHan|何苗]], [[HeJin|何进]], and [[TenAttendantsLateHan|十常侍]] - He-family elder tied to eunuch benefits before the reentry channel.
 - [[zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl|Hanji 945]], [[ZhangRangLateHan|张让]], [[EmpressDowagerHe|何太后]], [[TenAttendantsLateHan|十常侍]], and [[PalaceAccessMonopoly|宫廷接触垄断]] - family channel for eunuch reentry.

@@ -2,11 +2,13 @@
 title: "何太后 / Empress Dowager He"
 type: entity
 tags: [person, empress-dowager, late-han, he-family, china]
-sources: [zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic, zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt, zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr, zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5, zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk]
+sources: [zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5, zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic, zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt, zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr, zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5, zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk]
 last_updated: 2026-08-26
 ---
 
 # 何太后 / Empress Dowager He
+
+[[zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5|Hanji 918]] backfills Empress He before the Wang Meiren and succession branches. The episode presents her as [[HeZhenLateHan|何真]]'s daughter from a Nanyang butcher household whose palace entry is aided by household resources, whose beauty brings her into [[EmperorLingOfHan|汉灵帝]]'s favor, and whose birth of [[LiuBianHongnongWang|刘辩]] turns the He family into an outer-relative power base around [[HeJin|何进]] and [[HeMiaoLateHan|何苗]].
 
 [[zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic|Hanji 921]] adds Empress He before she becomes dowager. After [[WangMeirenLateHan|王美人]] gives birth to Liu Xie, later [[EmperorXianOfHan|汉献帝]], the episode says Empress He poisons Wang; [[EmperorLingOfHan|汉灵帝]] considers deposing He but is dissuaded by eunuch pleading, so He survives with an early debt to the palace-eunuch channel.
 
@@ -33,6 +35,7 @@ Her release marks one of the few successful interruptions in the cascade. [[LuZh
 The source then makes Empress Dowager He part of Dong Zhuo's effort to dismantle the He-family base. Dong Zhuo accuses her through the earlier Dong太皇太后 grievance, moves her to another palace, and has her poisoned shortly after the deposition. Her death turns the deposition from a title transfer into a bodily purge of the previous succession's maternal and affinal support.
 
 ## Connections
+- [[zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5|Hanji 918]], [[HeZhenLateHan|何真]], [[HeJin|何进]], [[HeMiaoLateHan|何苗]], [[LiuBianHongnongWang|刘辩 / 弘农王]], and [[PrivateAccessTalentChannel|私人进身通道]] - palace-entry and outer-relative prehistory.
 - [[zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic|Hanji 921]], [[WangMeirenLateHan|王美人]], [[EmperorLingOfHan|汉灵帝]], and [[TenAttendantsLateHan|十常侍]] - poisoning crisis and eunuch protection before He becomes dowager.
 - [[zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt|Hanji 943]], [[LiuBianHongnongWang|刘辩 / 弘农王]], [[EmpressDowagerDongLateHan|董太后]], [[DongZhongLateHan|董重]], [[JianShuoLateHan|蹇硕]], and [[SuccessionLegitimacyPurge|继位合法性清洗]] - accession, rival succession line, and He-side retaliation.
 - [[zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr|Hanji 944]], [[WangMeirenLateHan|王美人]], [[EmperorLingOfHan|汉灵帝]], [[HeMiaoLateHan|何苗]], [[WuyangJun|武阳君]], and [[TenAttendantsLateHan|十常侍]] - background debt and family-interest resistance to He Jin's anti-eunuch proposal.

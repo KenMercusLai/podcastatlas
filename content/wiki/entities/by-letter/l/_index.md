@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 7625
+wiki_total_pages: 7633
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -809,6 +809,9 @@ wiki_pages:
   - key: "LiuYaoLateHan"
     title: "刘繇 / Liu Yao (late Han)"
     url: "/wiki/entities/liuyaolatehan/"
+  - key: "LiuNaLateHan"
+    title: "刘纳 / Liu Na (late Han)"
+    url: "/wiki/entities/liunalatehan/"
   - key: "LiuXuAnpingPrince"
     title: "刘续 / Liu Xu (Anping Wang)"
     url: "/wiki/entities/liuxuanpingprince/"
@@ -848,6 +851,9 @@ wiki_pages:
   - key: "LiuBianHongnongWang"
     title: "刘辩 / Liu Bian (Hongnong Wang)"
     url: "/wiki/entities/liubianhongnongwang/"
+  - key: "LiuHeSituLateHan"
+    title: "刘郃 / Liu He (late-Han situ)"
+    url: "/wiki/entities/liuhesitulatehan/"
   - key: "LiuChangHuainanKing"
     title: "刘长 / Liu Chang (Huainan king)"
     url: "/wiki/entities/liuchanghuainanking/"
@@ -857,6 +863,9 @@ wiki_pages:
   - key: "LiuFei"
     title: "刘飞"
     url: "/wiki/entities/liufei/"
+  - key: "LiuTiaoLateHan"
+    title: "刘鯈 / Liu Tiao (late Han)"
+    url: "/wiki/entities/liutiaolatehan/"
   - key: "LiJiChuHan"
     title: "利几 / Li Ji (Chu-Han)"
     url: "/wiki/entities/lijichuhan/"

@@ -2,11 +2,13 @@
 title: "刘辩 / Liu Bian (Hongnong Wang)"
 type: entity
 tags: [person, emperor, late-han, china]
-sources: [zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5, zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1, zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk, zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr]
-last_updated: 2026-08-25
+sources: [zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5, zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5, zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1, zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk, zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr]
+last_updated: 2026-08-26
 ---
 
 # 刘辩 / Liu Bian (Hongnong Wang)
+
+[[zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5|Hanji 918]] backfills Liu Bian's birth before the 189 accession and deposition branches. The episode ties him to [[EmpressDowagerHe|Empress He]]'s elevation and the rise of [[HeJin|何进]], making his later succession position legible as a product of maternal status and outer-relative power before [[EmperorLingOfHan|汉灵帝]] dies without a formal designation.
 
 [[zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt|Hanji 943]] adds Liu Bian's accession before the palace-flight and deposition branches. The source identifies him as [[EmpressDowagerHe|何太后]]'s son and explains the "史侯" label through [[ShiZimiaoLateHan|史子眇]], who had raised him outside the palace.
 
@@ -30,6 +32,7 @@ His role is narrow but important. Liu Bian's death gives the anti-Dong-Zhuo side
 
 ## Connections
 
+- [[zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5|Hanji 918]], [[EmpressDowagerHe|何皇后 / 何太后]], [[HeJin|何进]], and [[MaternalStatusSuccessionLeverage|子以母贵式继承杠杆]] - birth and maternal-status prehistory before accession.
 - [[zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt|Hanji 943]], [[EmpressDowagerHe|何太后]], [[HeJin|何进]], [[JianShuoLateHan|蹇硕]], [[ShiZimiaoLateHan|史子眇]], and [[SuccessionNonDesignationRisk|未定继承人风险]] - accession after Emperor Ling's non-designated succession and failed palace plot.
 - [[zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5|Hanji 946]], [[ZhangRangLateHan|张让]], [[DuanGuiLateHan|段珪]], [[EmperorXianOfHan|汉献帝]], [[MinGongLateHan|闵贡]], [[Xiaopingjin|小平津]], and [[MingqiLegitimacy|名器合法性]] - imperial flight without normal seals or secure escort.
 - [[zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1|Hanji 947]], [[DongZhuo|董卓]], [[EmperorXianOfHan|汉献帝]], [[MinGongLateHan|闵贡]], and [[ProtectorCaptorAmbiguity|护驾与挟持模糊性]] - flight, frightened encounter, and pre-deposition comparison with Liu Xie.
