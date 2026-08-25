@@ -40829,6 +40829,13 @@
       "url": "/topics/history/"
     }
   ],
+  "PartyBanCrisisAmnesty": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "PartyGuitar": [
     {
       "key": "technology",
@@ -52749,6 +52756,13 @@
       "url": "/topics/science/"
     }
   ],
+  "SystemicErrorAmplification": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "SystemicRiskException": [
     {
       "key": "economics",
@@ -54702,6 +54716,20 @@
     }
   ],
   "ThreeJinVassalRecognition": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
+  "ThreeKingdomsPeriod": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
+  "ThreeKingdomsStruggleStrategyReading": [
     {
       "key": "history",
       "label": "History",

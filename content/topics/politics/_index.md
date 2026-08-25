@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1840
+topic_total_pages: 1842
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -1771,6 +1771,9 @@ topic_concepts:
   - key: "PartitionMinorityTrap"
     title: "Partition Minority Trap"
     url: "/wiki/concepts/partitionminoritytrap/"
+  - key: "PartyBanCrisisAmnesty"
+    title: "Party-Ban Crisis Amnesty / 党锢危机赦免"
+    url: "/wiki/concepts/partybancrisisamnesty/"
   - key: "PassiveInvestingGovernance"
     title: "Passive Investing Governance"
     url: "/wiki/concepts/passiveinvestinggovernance/"
@@ -2377,6 +2380,9 @@ topic_concepts:
   - key: "SixStateRestorationAntiQinStrategy"
     title: "Six-State Restoration Anti-Qin Strategy / 六国复国式反秦策略"
     url: "/wiki/concepts/sixstaterestorationantiqinstrategy/"
+  - key: "SystemicErrorAmplification"
+    title: "Small Error Systemic Failure / 细小错误系统性放大"
+    url: "/wiki/concepts/systemicerroramplification/"
   - key: "SmallStateBufferDiplomacy"
     title: "Small-State Buffer Diplomacy / 小国夹缝外交"
     url: "/wiki/concepts/smallstatebufferdiplomacy/"

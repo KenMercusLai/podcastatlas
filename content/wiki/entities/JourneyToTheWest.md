@@ -2,11 +2,13 @@
 title: "《西游记》"
 type: entity
 tags: [book, literature, chinese-classics, mythology]
-sources: [29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891, 43-xiyouji-duo-ni-shi-shenme-yaojing-618154182, 136-chunri-mingmei-liaoliao-guishen-827911486]
-last_updated: 2026-08-06
+sources: [zizhi-tongjian-hanji-923-plus-luanshi-fengyun-qi-ruiqi-jiemi-shishang-zui-zhenshi-de-sanguo-lj0ic-bhawqut5zbutbzd0orxjoe, 29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891, 43-xiyouji-duo-ni-shi-shenme-yaojing-618154182, 136-chunri-mingmei-liaoliao-guishen-827911486]
+last_updated: 2026-08-25
 ---
 
 # 《西游记》
+
+[[zizhi-tongjian-hanji-923-plus-luanshi-fengyun-qi-ruiqi-jiemi-shishang-zui-zhenshi-de-sanguo-lj0ic-bhawqut5zbutbzd0orxjoe|Hanji 923 plus]] uses 《西游记》 in a four-classics comparison. The source-scoped claim is that the novel can be read as a small-team management text, while [[RomanceOfTheThreeKingdoms|《三国演义》]] / Three Kingdoms trains attention to conflict strategy, [[WaterMargin|《水浒传》]] to large-team management, and [[HongLouMeng|《红楼梦》]] to cultural and interpersonal continuity.
 
 [[29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891]] adds a [[JosephCampbell|Campbell]] comparison layer. The episode uses 《西游记》 as one of the familiar Chinese examples for [[HeroJourneyNarrative]]: dangerous thresholds, demons, temptations, belly/furnace ordeals around [[SunWukong|孙悟空]], and the final return with scriptures all make the text legible beside world-hero patterns without reducing it to Campbell alone.
 
@@ -19,6 +21,7 @@ The book also anchors the wiki's [[MythicSourceLayering]] branch. [[SunWukong|�
 [[136-chunri-mingmei-liaoliao-guishen-827911486]] adds an underworld-administration use of the novel. The episode uses Tang Taizong's descent to the underworld, Cui Jue's altered life-span register, Liu Quan's melon delivery, and bodily return stories to show how [[JourneyToTheWest|《西游记》]] can turn [[UnderworldBureaucracy]] into satire of paperwork, relationships, imperial power, and negotiable authority.
 
 ## Connections
+- [[zizhi-tongjian-hanji-923-plus-luanshi-fengyun-qi-ruiqi-jiemi-shishang-zui-zhenshi-de-sanguo-lj0ic-bhawqut5zbutbzd0orxjoe|Hanji 923 plus]], [[ThreeKingdomsStruggleStrategyReading|三国斗争策略读法]], [[WaterMargin|《水浒传》]], and [[HongLouMeng|《红楼梦》]] - four-classics comparison used to define the coming Three Kingdoms reading frame.
 - [[HeroJourneyNarrative]], [[BellyOfTheWhaleRebirth]], [[HeroReturnWithBoon]], and [[Monomyth]] - Campbell branch added by episode 29.
 - [[MihuanChishu|蜜獾吃书]] - episode context.
 - [[WuChengen|吴承恩]], [[QiuChuji|丘处机]], and [[YangShen|杨慎]] - author-attribution figures discussed by the source.

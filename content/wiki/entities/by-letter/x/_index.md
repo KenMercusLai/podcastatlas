@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 7504
+wiki_total_pages: 7511
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -206,6 +206,9 @@ wiki_pages:
   - key: "XiaShuo"
     title: "夏说 / Xia Shuo"
     url: "/wiki/entities/xiashuo/"
+  - key: "XiaYunLateHan"
+    title: "夏韵 / Xia Yun (late Han)"
+    url: "/wiki/entities/xiayunlatehan/"
   - key: "XunweiShunde"
     title: "寻味顺德"
     url: "/wiki/entities/xunweishunde/"
@@ -269,6 +272,9 @@ wiki_pages:
   - key: "XuFuren"
     title: "徐夫人 / Xu Furen"
     url: "/wiki/entities/xufuren/"
+  - key: "XuFengLateHan"
+    title: "徐奉 / Xu Feng (late Han)"
+    url: "/wiki/entities/xufenglatehan/"
   - key: "Xuzhou"
     title: "徐州 / Xuzhou"
     url: "/wiki/entities/xuzhou/"
@@ -509,6 +515,9 @@ wiki_pages:
   - key: "XiangXiang"
     title: "项襄 / Xiang Xiang"
     url: "/wiki/entities/xiangxiang/"
+  - key: "XiangXuLateHan"
+    title: "项诩 / Xiang Xu (late Han)"
+    url: "/wiki/entities/xiangxulatehan/"
   - key: "XuJia"
     title: "须贾 / Xu Jia"
     url: "/wiki/entities/xujia/"

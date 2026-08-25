@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》923 plus丨乱世风云起：芮淇揭秘史上最真实的三国](sources/zizhi-tongjian-hanji-923-plus-luanshi-fengyun-qi-ruiqi-jiemi-shishang-zui-zhenshi-de-sanguo-lj0ic-bhawqut5zbutbzd0orxjoe.md) — 芮淇讲透资治通鉴 prologue setting up the Three Kingdoms arc as a historical-source and struggle-strategy reading rather than only Romance memory.
 - [《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮](sources/zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4.md) — 芮淇讲透资治通鉴 episode on Gongsun Hong's compromise logic, Cao Cao's early law-enforcement signal, and the Changshe fire attack against Bo Cai's Yellow Turban force.
 - [《资治通鉴·汉纪》926丨真正的强者，都懂得“造势”](sources/zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc.md) — 芮淇讲透资治通鉴 episode on Cao Cao's early reputation-making through He Yong, Qiao Xuan, Xu Shao's 月旦品, the "能臣/奸雄" label, and anti-eunuch signaling from a eunuch-family background.
 - [《资治通鉴·汉纪》927丨做生意的最高境界是什么？](sources/zizhi-tongjian-hanji-927-zuo-shengyi-de-zuigao-jingjie-shi-shenme-lngfbjn6xui9k-9lp-ihdqkhpbpr.md) — 芮淇讲透资治通鉴 episode on Fu Xie's warning about eunuch-rooted Yellow Turban disorder, Zhang Mancheng's Nanyang branch, Jia Cong's Jiaozhi pacification, and source-scoped business composure.
@@ -1453,6 +1454,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [三国时代 / Three Kingdoms Period](entities/ThreeKingdomsPeriod.md) — Historical-period node introduced by Hanji 923 plus as the upcoming field for long-game struggle strategy and source-vs-Romance reading.
 - [公孙弘 / Gongsun Hong](entities/GongsunHong.md) — Western Han official used in Hanji 925 as a case of compromise without losing agency.
 - [波才 / Bo Cai (late Han)](entities/BoCaiLateHan.md) — Yellow Turban commander whose force defeats Zhu Jun before collapsing under Huangfu Song's Changshe fire-attack design.
 - [长社之战 / Changshe Battle (late Han)](entities/ChangsheBattleLateHan.md) — 184 CE battle where Huangfu Song uses retreat, harassment, and fire attack against Bo Cai's Yellow Turban force.
@@ -8961,6 +8963,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [三国斗争策略读法 / Three Kingdoms Struggle Strategy Reading](concepts/ThreeKingdomsStruggleStrategyReading.md) — Hanji 923 plus frame for reading Three Kingdoms through repeated conflict, shifting alliances, and historical-source discipline.
 - [Strategic Compromise as Agency / 策略性妥协保全机会](concepts/StrategicCompromiseAsAgency.md) — compromise pattern where a second-best adjustment preserves influence and future action.
 - [Status-Conditioned Risk Taking / 地位条件化行动尺度](concepts/StatusConditionedRiskTaking.md) — risk pattern where rank, backing, and office change what actions are survivable.
 - [Local Private AI](concepts/LocalPrivateAI.md) — Pattern where AI runs against private user data on the user's own machine rather than exposing files, prompts, or queries to cloud services.

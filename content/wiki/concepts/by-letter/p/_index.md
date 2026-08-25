@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5412
+wiki_total_pages: 5415
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -116,6 +116,9 @@ wiki_pages:
   - key: "PartyProhibitionRehabilitation"
     title: "Party Prohibition Rehabilitation / 党人翻案合法性"
     url: "/wiki/concepts/partyprohibitionrehabilitation/"
+  - key: "PartyBanCrisisAmnesty"
+    title: "Party-Ban Crisis Amnesty / 党锢危机赦免"
+    url: "/wiki/concepts/partybancrisisamnesty/"
   - key: "PassengerComplaintHandling"
     title: "Passenger Complaint Handling"
     url: "/wiki/concepts/passengercomplainthandling/"

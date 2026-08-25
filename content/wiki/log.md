@@ -11459,6 +11459,7 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》944丨想在乱世中存活，先管住嘴
 
 Added source page for Hanji 944: He Jin's first anti-eunuch planning after Emperor Ling's death, Yuan Shao's outside-troop proposal, Empress Dowager He and He-family obstruction through Wuyang Jun and He Miao, and Chen Lin/Cao Cao's warnings about handing initiative away and letting the plan leak. Created Lethal Plan Leakage Risk; updated connected late-Han actors and palace-crisis concepts. No settled contradiction found; motive readings and Chen Lin's office wording remain source-scoped.
@@ -11598,6 +11599,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-25] ingest | 《资治通鉴·汉纪》923 plus丨乱世风云起：芮淇揭秘史上最真实的三国
+
+Added source page for Hanji 923 plus: a short prologue framing the coming Three Kingdoms arc as source-grounded struggle strategy rather than only Romance memory. Created Three Kingdoms Period and Three Kingdoms Struggle Strategy Reading pages; updated Romance of the Three Kingdoms, Journey to the West, Water Margin, Dream of the Red Chamber, Classic Reading Complexity, and Fiction As Historical Evidence pages. No settled contradiction found; Zhao Zilong and Sima Yi remain source-scoped teaser names rather than new canonical pages.
 
 ## [2026-08-25] lint | Wiki health check
 

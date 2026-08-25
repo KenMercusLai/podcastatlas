@@ -2,7 +2,7 @@
 title: "Fiction As Historical Evidence"
 type: concept
 tags: [history, literature, evidence, interpretation]
-sources: [zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf, 28-liaozhai-zhiyi-buwei-junwang-chang-zange-pianxiang-cangsheng-shuo-guihua-587843930, fanwai-15-banlatte-jiang-jinpingmei-la-erqie-haishi-luse-de-991508433, 148-wangshi-zhisi-duanjing-tuiyuan-shang-de-lishi-zhuangjing-892588934]
+sources: [zizhi-tongjian-hanji-923-plus-luanshi-fengyun-qi-ruiqi-jiemi-shishang-zui-zhenshi-de-sanguo-lj0ic-bhawqut5zbutbzd0orxjoe, zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf, 28-liaozhai-zhiyi-buwei-junwang-chang-zange-pianxiang-cangsheng-shuo-guihua-587843930, fanwai-15-banlatte-jiang-jinpingmei-la-erqie-haishi-luse-de-991508433, 148-wangshi-zhisi-duanjing-tuiyuan-shang-de-lishi-zhuangjing-892588934]
 last_updated: 2026-08-25
 ---
 
@@ -14,6 +14,8 @@ The concept's boundary is that fiction is not treated as a transcript of events.
 
 [[zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf|Hanji 955]] adds a negative Three Kingdoms case. The episode treats the [[RomanceOfTheThreeKingdoms|《三国演义》]] scene in which [[GuanYu|关羽]] kills [[HuaXiongLateHan|华雄]] as powerful literary memory, but not as direct event evidence; the source-scoped historical credit goes to [[SunJianLateHan|孙坚]] at [[YangrenBattleLateHan|阳人之战]].
 
+[[zizhi-tongjian-hanji-923-plus-luanshi-fengyun-qi-ruiqi-jiemi-shishang-zui-zhenshi-de-sanguo-lj0ic-bhawqut5zbutbzd0orxjoe|Hanji 923 plus]] adds the positive framing for that same Three Kingdoms boundary. The prologue says the coming arc is not simply Luo Guanzhong's Three Kingdoms, so [[RomanceOfTheThreeKingdoms|《三国演义》]] becomes useful as reception history while [[ZizhiTongjian|《资治通鉴》]] and actor-logic reconstruction carry the source-grounded historical reading.
+
 [[fanwai-15-banlatte-jiang-jinpingmei-la-erqie-haishi-luse-de-991508433]] adds a Ming-style urban-life case through [[JinPingMei|《金瓶梅》]]. The episode treats the novel's food, clothing, cosmetics, housing, business, officialdom, religious ceremony, funerals, law, transport, and entertainment as evidence for [[UrbanEverydayFiction]] and [[HouseholdAsSocialWeb]], while still keeping the novel literary rather than documentary.
 
 [[28-liaozhai-zhiyi-buwei-junwang-chang-zange-pianxiang-cangsheng-shuo-guihua-587843930]] adds a direct [[LiaozhaiZhiyi|《聊斋志异》]] reading. The source uses 《野狗》 and 《公孙九娘》 to show how war trauma around [[YuQiRebellion|于七之乱]] can be carried by strange plots without turning those plots into literal military record. This reinforces the method boundary: fiction can reveal the remembered shape of violence, burial, official absence, and common fear without proving each incident as fact.
@@ -21,6 +23,7 @@ The concept's boundary is that fiction is not treated as a transcript of events.
 ## Key Claims
 - Fiction can preserve fears, norms, fantasies, and moral tensions that official records omit.
 - Fiction is weakest when used as direct proof that an event happened.
+- Hanji 923 plus adds the boundary before the event-level corrections: novelized Three Kingdoms memory can frame reception, but the show claims to ground the coming arc in chronicle comparison and actor logic.
 - Hanji 955 adds that a memorable fictionalized Three Kingdoms scene can become historically misleading when it is treated as event attribution.
 - Fiction becomes stronger as evidence when it is checked against place, law, administrative records, material conditions, and recurring social patterns.
 - The method helps explain why [[LiaozhaiZhiyi|《聊斋志异》]] can illuminate [[WangShiTancheng|王氏]]'s world without pretending to speak in her exact voice.
@@ -28,6 +31,7 @@ The concept's boundary is that fiction is not treated as a transcript of events.
 - A strange tale can preserve historical pressure through atmosphere, setting, and repeated moral concerns even when the supernatural event is not factual evidence.
 
 ## Connections
+- [[zizhi-tongjian-hanji-923-plus-luanshi-fengyun-qi-ruiqi-jiemi-shishang-zui-zhenshi-de-sanguo-lj0ic-bhawqut5zbutbzd0orxjoe|Hanji 923 plus]], [[ThreeKingdomsPeriod|三国时代]], [[ThreeKingdomsStruggleStrategyReading|三国斗争策略读法]], and [[ZizhiTongjian|《资治通鉴》]] - prologue boundary between novelized reception and source-grounded history.
 - [[zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf|Hanji 955]], [[RomanceOfTheThreeKingdoms|《三国演义》]], [[GuanYu|关羽]], [[HuaXiongLateHan|华雄]], [[SunJianLateHan|孙坚]], and [[YangrenBattleLateHan|阳人之战]] - Three Kingdoms literary memory checked against historical attribution.
 - [[LiaozhaiZhiyi|《聊斋志异》]] and [[PuSongling|蒲松龄]] - central literary source.
 - [[YuQiRebellion|于七之乱]] and [[StrangeTaleSocialCritique]] - episode 28's war-memory and social-critique extension.

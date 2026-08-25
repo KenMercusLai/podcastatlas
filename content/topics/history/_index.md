@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1475
+topic_total_pages: 1477
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1171,6 +1171,9 @@ topic_concepts:
   - key: "ZhouQinHybridOrder"
     title: "Zhou-Qin Hybrid Order / 周秦混合制"
     url: "/wiki/concepts/zhouqinhybridorder/"
+  - key: "ThreeKingdomsStruggleStrategyReading"
+    title: "三国斗争策略读法 / Three Kingdoms Struggle Strategy Reading"
+    url: "/wiki/concepts/threekingdomsstrugglestrategyreading/"
   - key: "EnvoyKillingTaboo"
     title: "不斩来使 / Envoy Killing Taboo"
     url: "/wiki/concepts/envoykillingtaboo/"
@@ -1781,6 +1784,9 @@ topic_entities:
   - key: "DingGong"
     title: "丁公 / Ding Gong"
     url: "/wiki/entities/dinggong/"
+  - key: "ThreeKingdomsPeriod"
+    title: "三国时代 / Three Kingdoms Period"
+    url: "/wiki/entities/threekingdomsperiod/"
   - key: "SanchuanWarringStates"
     title: "三川 / Sanchuan (Warring States)"
     url: "/wiki/entities/sanchuanwarringstates/"

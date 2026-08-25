@@ -2,11 +2,13 @@
 title: "《红楼梦》 / Dream of the Red Chamber"
 type: entity
 tags: [book, literature, chinese-classics, novel]
-sources: [zizhi-tongjian-qinji-108-2-laoai-de-hougong-mishi-lof4xuuxfkehm9igpdvihv7exqdy, ritan-chuantai-hongloumeng-haishi-keyi-du-yidu-de-587167638, fanwai-15-banlatte-jiang-jinpingmei-la-erqie-haishi-luse-de-991508433, 114-youdao-chi-ao-shangju-shi-liaoliao-pangxie-de-quwen-shihua-758424117, 01-maitian-shouwangzhe-20shiji-de-meiguo-jiabaoyu-523554422, 167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324, 183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260, 101-caoyin-yu-kangxi-hongloumeng-xing-zhong-you-shi-735044876]
-last_updated: 2026-08-05
+sources: [zizhi-tongjian-hanji-923-plus-luanshi-fengyun-qi-ruiqi-jiemi-shishang-zui-zhenshi-de-sanguo-lj0ic-bhawqut5zbutbzd0orxjoe, zizhi-tongjian-qinji-108-2-laoai-de-hougong-mishi-lof4xuuxfkehm9igpdvihv7exqdy, ritan-chuantai-hongloumeng-haishi-keyi-du-yidu-de-587167638, fanwai-15-banlatte-jiang-jinpingmei-la-erqie-haishi-luse-de-991508433, 114-youdao-chi-ao-shangju-shi-liaoliao-pangxie-de-quwen-shihua-758424117, 01-maitian-shouwangzhe-20shiji-de-meiguo-jiabaoyu-523554422, 167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324, 183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260, 101-caoyin-yu-kangxi-hongloumeng-xing-zhong-you-shi-735044876]
+last_updated: 2026-08-25
 ---
 
 # 《红楼梦》 / Dream of the Red Chamber
+
+[[zizhi-tongjian-hanji-923-plus-luanshi-fengyun-qi-ruiqi-jiemi-shishang-zui-zhenshi-de-sanguo-lj0ic-bhawqut5zbutbzd0orxjoe|Hanji 923 plus]] uses 《红楼梦》 in a four-classics comparison. The source-scoped claim is that Red Chamber preserves enduring human feeling and Chinese cultural texture, while Three Kingdoms is introduced as [[ThreeKingdomsStruggleStrategyReading|斗争策略读法]], [[JourneyToTheWest|《西游记》]] as small-team management, and [[WaterMargin|《水浒传》]] as large-team management.
 
 [[ritan-chuantai-hongloumeng-haishi-keyi-du-yidu-de-587167638]] adds an explicit reader-entry and version-reading branch. The [[MihuanChishu|蜜獾吃书]] / [[Ritan|日谈]] crossover argues that the novel can be entered from chapter 3, [[GrandViewGarden|大观园]], poetry games, love, women, or version questions, but should not be reduced to romance, workplace lessons, dynastic code, or family archive. It adds [[RedChamberEntryReading]], [[TruthfulTemperamentInRedChamber]], [[GrandViewGardenYouthUtopia]], [[RedChamberDreamStructure]], and [[RedChamberVersionAndSequelReading]] as the episode's main frames.
 
@@ -27,6 +29,7 @@ The novel matters in this source as a receiver of classical poetry. [[Xiangling|
 [[101-caoyin-yu-kangxi-hongloumeng-xing-zhong-you-shi-735044876]] adds a family-history branch through [[JonathanSpence|史景迁]]'s [[CaoYinAndKangxi|《曹寅与康熙》]]. It reads [[CaoYin|曹寅]], [[KangxiEmperor|康熙]], [[JiangningWeavingBureau|江宁织造]], southern-tour reception, deficit finance, and secret memorials as historical background for imperial favor and household collapse. The source keeps this as [[RedChamberFamilyHistoryEcho|家族史回声]], not a proof that the novel is simply encoded Cao-family biography.
 
 ## Connections
+- [[zizhi-tongjian-hanji-923-plus-luanshi-fengyun-qi-ruiqi-jiemi-shishang-zui-zhenshi-de-sanguo-lj0ic-bhawqut5zbutbzd0orxjoe|Hanji 923 plus]], [[ThreeKingdomsStruggleStrategyReading|三国斗争策略读法]], [[JourneyToTheWest|《西游记》]], and [[WaterMargin|《水浒传》]] - source-scoped four-classics comparison.
 - [[TheCatcherInTheRye|《麦田里的守望者》]], [[HoldenCaulfield|Holden Caulfield / 霍尔顿]], and [[AmericanJiaBaoyuComparison]] - modern American comparison branch added by episode 01.
 - [[Crab|螃蟹]], [[CrabCulturalSymbolism]], and [[JinPingMei|《金瓶梅》]] - crab-banquet branch added by episode 114 and expanded structurally by the Banlatte special.
 - [[HouseholdAsSocialWeb]], [[UrbanEverydayFiction]], and [[CleanEditionClassicReading]] - Jin Ping Mei comparison branch added by the Banlatte special.

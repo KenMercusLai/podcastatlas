@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 5412
+wiki_total_pages: 5415
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -614,6 +614,9 @@ wiki_pages:
   - key: "TyrannicideRepublicanDilemma"
     title: "Tyrannicide Republican Dilemma / 弑君式共和困境"
     url: "/wiki/concepts/tyranniciderepublicandilemma/"
+  - key: "ThreeKingdomsStruggleStrategyReading"
+    title: "三国斗争策略读法 / Three Kingdoms Struggle Strategy Reading"
+    url: "/wiki/concepts/threekingdomsstrugglestrategyreading/"
   - key: "TrustAsMoralRisk"
     title: "信赖作为道德风险 / Trust As Moral Risk"
     url: "/wiki/concepts/trustasmoralrisk/"

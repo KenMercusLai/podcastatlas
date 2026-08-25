@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 7504
+wiki_total_pages: 7511
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -956,6 +956,9 @@ wiki_pages:
   - key: "TheNoseAkutagawa"
     title: "《鼻子》 / The Nose"
     url: "/wiki/entities/thenoseakutagawa/"
+  - key: "ThreeKingdomsPeriod"
+    title: "三国时代 / Three Kingdoms Period"
+    url: "/wiki/entities/threekingdomsperiod/"
   - key: "TonyContentEngineer"
     title: "东尼 / Tony (content engineer)"
     url: "/wiki/entities/tonycontentengineer/"

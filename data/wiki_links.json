@@ -16367,6 +16367,10 @@
     "title": "冯喜 / Feng Xi (Warring States)",
     "url": "/wiki/entities/fengxiwarringstates/"
   },
+  "FengXuLateHan": {
+    "title": "封谞 / Feng Xu (late Han)",
+    "url": "/wiki/entities/fengxulatehan/"
+  },
   "FengYuxiang": {
     "title": "Feng Yuxiang / 冯玉祥",
     "url": "/wiki/entities/fengyuxiang/"
@@ -28631,6 +28635,10 @@
     "title": "Lü Bu Factional Balance / 吕布集团派系平衡",
     "url": "/wiki/concepts/lyubufactionalbalance/"
   },
+  "LyuQiangLateHan": {
+    "title": "吕强 / Lyu Qiang (late Han)",
+    "url": "/wiki/entities/lyuqianglatehan/"
+  },
   "MAGA": {
     "title": "MAGA / Make America Great Again",
     "url": "/wiki/entities/maga/"
@@ -34346,6 +34354,10 @@
   "PartitionOfJin": {
     "title": "Partition of Jin / 三家分晋",
     "url": "/wiki/concepts/partitionofjin/"
+  },
+  "PartyBanCrisisAmnesty": {
+    "title": "Party-Ban Crisis Amnesty / 党锢危机赦免",
+    "url": "/wiki/concepts/partybancrisisamnesty/"
   },
   "PartyGuitar": {
     "title": "Party Guitar",
@@ -43975,6 +43987,10 @@
     "title": "Systemic Degenerative Volatility",
     "url": "/wiki/concepts/systemicdegenerativevolatility/"
   },
+  "SystemicErrorAmplification": {
+    "title": "Small Error Systemic Failure / 细小错误系统性放大",
+    "url": "/wiki/concepts/systemicerroramplification/"
+  },
   "SystemicRiskException": {
     "title": "Systemic Risk Exception",
     "url": "/wiki/concepts/systemicriskexception/"
@@ -45342,6 +45358,14 @@
   "ThreeJinVassalRecognition": {
     "title": "Three Jin Vassal Recognition / 三晋受封",
     "url": "/wiki/concepts/threejinvassalrecognition/"
+  },
+  "ThreeKingdomsPeriod": {
+    "title": "三国时代 / Three Kingdoms Period",
+    "url": "/wiki/entities/threekingdomsperiod/"
+  },
+  "ThreeKingdomsStruggleStrategyReading": {
+    "title": "三国斗争策略读法 / Three Kingdoms Struggle Strategy Reading",
+    "url": "/wiki/concepts/threekingdomsstrugglestrategyreading/"
   },
   "ThreeLayerScaleEconomies": {
     "title": "Three-Layer Scale Economies",
@@ -49535,6 +49559,10 @@
     "title": "夏姬 / 夏太后 / Lady Xia",
     "url": "/wiki/entities/xiataihou/"
   },
+  "XiaYunLateHan": {
+    "title": "夏韵 / Xia Yun (late Han)",
+    "url": "/wiki/entities/xiayunlatehan/"
+  },
   "XiahouDun": {
     "title": "夏侯惇 / Xiahou Dun",
     "url": "/wiki/entities/xiahoudun/"
@@ -49590,6 +49618,10 @@
   "XiangXiang": {
     "title": "项襄 / Xiang Xiang",
     "url": "/wiki/entities/xiangxiang/"
+  },
+  "XiangXuLateHan": {
+    "title": "项诩 / Xiang Xu (late Han)",
+    "url": "/wiki/entities/xiangxulatehan/"
   },
   "XiangYan": {
     "title": "项燕 / Xiang Yan",
@@ -49978,6 +50010,10 @@
   "XuDanLateHan": {
     "title": "许耽 / Xu Dan (late Han)",
     "url": "/wiki/entities/xudanlatehan/"
+  },
+  "XuFengLateHan": {
+    "title": "徐奉 / Xu Feng (late Han)",
+    "url": "/wiki/entities/xufenglatehan/"
   },
   "XuFu": {
     "title": "Xu Fu / 徐福",
@@ -51574,6 +51610,10 @@
   "ZhangJuLateHan": {
     "title": "张举 / Zhang Ju (late Han)",
     "url": "/wiki/entities/zhangjulatehan/"
+  },
+  "ZhangJunLateHan": {
+    "title": "张钧 / Zhang Jun (late Han)",
+    "url": "/wiki/entities/zhangjunlatehan/"
   },
   "ZhangKaiAssassin": {
     "title": "张闿 / Zhang Kai (assassin)",
@@ -56278,6 +56318,14 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-923-plus-luanshi-fengyun-qi-ruiqi-jiemi-shishang-zui-zhenshi-de-sanguo-lj0ic-bhawqut5zbutbzd0orxjoe": {
+    "title": "《资治通鉴·汉纪》923 plus丨乱世风云起：芮淇揭秘史上最真实的三国",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-923-plus-luanshi-fengyun-qi-ruiqi-jiemi-shishang-zui-zhenshi-de-sanguo-lj0ic-bhawqut5zbutbzd0orxjoe/"
+  },
+  "zizhi-tongjian-hanji-924-1-de-cuowu-100-de-shibai-lmeo7vufm6ib5lni6p49rponazut": {
+    "title": "《资治通鉴·汉纪》924丨1%的错误=100%的失败",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-924-1-de-cuowu-100-de-shibai-lmeo7vufm6ib5lni6p49rponazut/"
   },
   "zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4": {
     "title": "《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮",

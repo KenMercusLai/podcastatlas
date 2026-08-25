@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 5412
+wiki_total_pages: 5415
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -608,6 +608,9 @@ wiki_pages:
   - key: "SmallBusinessFinancingGap"
     title: "Small Business Financing Gap"
     url: "/wiki/concepts/smallbusinessfinancinggap/"
+  - key: "SystemicErrorAmplification"
+    title: "Small Error Systemic Failure / 细小错误系统性放大"
+    url: "/wiki/concepts/systemicerroramplification/"
   - key: "SmallNucleicAcidDrugs"
     title: "Small Nucleic Acid Drugs"
     url: "/wiki/concepts/smallnucleicaciddrugs/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 7504
+wiki_total_pages: 7511
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -908,6 +908,9 @@ wiki_pages:
   - key: "LyuBu"
     title: "吕布 / Lü Bu"
     url: "/wiki/entities/lyubu/"
+  - key: "LyuQiangLateHan"
+    title: "吕强 / Lyu Qiang (late Han)"
+    url: "/wiki/entities/lyuqianglatehan/"
   - key: "LuZe"
     title: "吕泽 / Lu Ze"
     url: "/wiki/entities/luze/"
