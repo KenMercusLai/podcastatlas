@@ -2,11 +2,15 @@
 title: "Emperor Wu of Han / 汉武帝"
 type: entity
 tags: [person, emperor, china, western-han, fangshu]
-sources: [zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1, zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv, zizhi-tongjian-hanji-150-plus-zaiye-bujian-2022-qing-duo-guanzhao-2023-fjhgtqac9r-1rpjh6oubmspqywue, zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997]
-last_updated: 2026-08-23
+sources: [zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4, zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1, zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv, zizhi-tongjian-hanji-150-plus-zaiye-bujian-2022-qing-duo-guanzhao-2023-fjhgtqac9r-1rpjh6oubmspqywue, zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997]
+last_updated: 2026-08-25
 ---
 
 # Emperor Wu of Han / 汉武帝
+
+[[zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4|Hanji 925]] adds Han Wudi as the ruler in [[GongsunHong|公孙弘]]'s compromise example. The episode says Gongsun Hong avoids direct confrontation when Han Wudi wants attention on both the [[Xiongnu|匈奴]] front and southwest development, instead narrowing the policy question so imperial desire and state capacity are not forced into one impossible demand.
+
+This is a source-scoped statecraft use rather than a new full biographical branch. Han Wudi matters here because a powerful ruler's preferences set the risk environment for advice, making [[StrategicCompromiseAsAgency|策略性妥协保全机会]] necessary for a court actor who wants to remain useful.
 
 Emperor Wu of Han / 汉武帝 appears in [[87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997]] as the episode's most extensive case of imperial fangshu consumption. The source presents his求仙 as deeper and more expensive than [[QinShiHuang|秦始皇]]'s: Li Shaojun, Shaoweng, Luan Da, spirit-summoning displays, sea voyages, palaces, platforms, and alchemical promises all feed a long search for immortality.
 
@@ -31,6 +35,7 @@ The same source also makes Han Wudi central to [[WuguPoliticalPanic|巫蛊之乱
 - Hanji 179 uses Han Wudi as the later break point where early Han heqin gives way to military confrontation with Xiongnu.
 
 ## Connections
+- [[zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4|Hanji 925]], [[GongsunHong|公孙弘]], [[Xiongnu|匈奴]], and [[StrategicCompromiseAsAgency|策略性妥协保全机会]] - compromise and policy-priority example.
 - [[87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997]] - source episode.
 - [[WesternHanDynasty|西汉]] - dynastic setting.
 - [[ImmortalityQuestPolitics]], [[FangshiFraudAndAuthority]], and [[WuguPoliticalPanic]] - main source concepts.

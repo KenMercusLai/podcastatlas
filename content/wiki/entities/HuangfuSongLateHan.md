@@ -2,11 +2,15 @@
 title: "皇甫嵩 / Huangfu Song (late Han)"
 type: entity
 tags: [late-han, official, military, chang-an]
-sources: [zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o, zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3, zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8, zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z, zizhi-tongjian-hanji-951-tianjiang-hengcai-jiujing-shi-haoshi-haishi-huaishi-lovwgng2wrtfno-s9ttpybbhksvh, zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf, zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf, zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q, zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3]
+sources: [zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4, zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o, zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3, zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8, zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z, zizhi-tongjian-hanji-951-tianjiang-hengcai-jiujing-shi-haoshi-haishi-huaishi-lovwgng2wrtfno-s9ttpybbhksvh, zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf, zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf, zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q, zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3]
 last_updated: 2026-08-25
 ---
 
 # 皇甫嵩 / Huangfu Song (late Han)
+
+[[zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4|Hanji 925]] backfills Huangfu Song at the opening of the 184 CE [[YellowTurbansLateHan|Yellow Turban]] battlefield sequence. After [[ZhuJunLateHan|朱儁]] first loses to [[BoCaiLateHan|波才]], Huangfu Song retreats into [[ChangsheBattleLateHan|长社]], keeps Zhu Jun hidden nearby, wears down Bo Cai's camp, and then uses a night fire attack before [[CaoCao|曹操]] joins the pursuit.
+
+The episode makes Huangfu Song's retreat active rather than timid. His visible weakness protects the weaker Han force long enough to convert Bo Cai's confidence, poor night watch, grass-and-tree camp, and fatigue into a strike window, extending [[FortifiedAttritionPatience|坚壁耗敌式耐心]], [[LureEnemyOutOfPosition|诱敌离位]], and [[BattlefieldInformationControl|战场信息控制]].
 
 [[zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o|Hanji 928]] backfills Huangfu Song immediately before the larger Hanji 929 Yellow Turban victory sequence. He and [[ZhuJunLateHan|朱儁]] continue suppressing the [[YellowTurbansLateHan|黄巾军]] around Runan and [[ChenStateLateHan|陈国]], defeating Bo Cai around Yangdi and Peng Tuo at Xihua.
 
@@ -40,6 +44,7 @@ His dismissal appears beside [[LiuBiao|Liu Biao]]'s promotion to Zhengnan genera
 
 ## Connections
 
+- [[zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4|Hanji 925]], [[ChangsheBattleLateHan|长社之战]], [[BoCaiLateHan|波才]], [[CaoCao|曹操]], [[FortifiedAttritionPatience|坚壁耗敌式耐心]], [[LureEnemyOutOfPosition|诱敌离位]], and [[BattlefieldInformationControl|战场信息控制]] - first Yellow Turban victory through retreat, fatigue, night fire, and pursuit.
 - [[zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o|Hanji 928]], [[ZhuJunLateHan|朱儁]], [[YellowTurbansLateHan|黄巾军]], and [[ChenStateLateHan|陈国]] - Runan-Chen victories and credit-sharing report before the main Guangzong/Quyang sequence.
 - [[zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3|Hanji 929]], [[YellowTurbansLateHan|黄巾军]], [[ZhangJiaoLateHan|张角]], [[ZhangLiangYellowTurban|张梁]], [[ZhangBaoYellowTurban|张宝]], and [[MilitaryMoraleThroughSharedHardship|同甘共苦式士气]] - 184 CE main Yellow Turban suppression and leadership-morale branch.
 - [[zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8|Hanji 934]], [[BeigongBoyuLateHan|北宫伯玉]], [[ZhangRangLateHan|张让]], [[ZhaoZhongLateHan|赵忠]], and [[PalaceAccessMonopoly|宫廷接触垄断]] - earlier Sanfu assignment, refused bribery, anti-corruption memorial, and slander-driven demotion.

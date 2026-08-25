@@ -2336,7 +2336,7 @@
       "earliest_episode_date": "2025-12-07",
       "latest_episode_date": "2026-08-23",
       "latest_episode_file": "《资治通鉴·汉纪》1020丨三国败家子袁术，如何把好牌打得稀烂？ [lhwR9hFMANr_zkTLEUfy3kvl38u0].md",
-      "source_note_count": 399,
+      "source_note_count": 400,
       "topic_matched_source_note_count": 247,
       "topics": [
         {
@@ -2377,7 +2377,7 @@
           "title": "曹操 / Cao Cao",
           "url": "/wiki/entities/caocao/",
           "kind": "person",
-          "episode_count": 47
+          "episode_count": 48
         },
         {
           "key": "QinZhaoxiangwang",

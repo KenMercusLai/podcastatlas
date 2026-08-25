@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 5410
+wiki_total_pages: 5412
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1133,6 +1133,9 @@ wiki_pages:
   - key: "StatusSuppressionThenEqualTreatment"
     title: "Status Suppression Then Equal Treatment / 先挫锐气后同等厚待"
     url: "/wiki/concepts/statussuppressionthenequaltreatment/"
+  - key: "StatusConditionedRiskTaking"
+    title: "Status-Conditioned Risk Taking / 地位条件化行动尺度"
+    url: "/wiki/concepts/statusconditionedrisktaking/"
   - key: "StatusFilteredTalentMisrecognition"
     title: "Status-Filtered Talent Misrecognition / 门第筛选式人才误判"
     url: "/wiki/concepts/statusfilteredtalentmisrecognition/"
@@ -1208,6 +1211,9 @@ wiki_pages:
   - key: "StrategicCapitalRelocation"
     title: "Strategic Capital Relocation / 战略性迁都"
     url: "/wiki/concepts/strategiccapitalrelocation/"
+  - key: "StrategicCompromiseAsAgency"
+    title: "Strategic Compromise as Agency / 策略性妥协保全机会"
+    url: "/wiki/concepts/strategiccompromiseasagency/"
   - key: "StrategicConcessionDiplomacy"
     title: "Strategic Concession Diplomacy / 欲擒故纵式让利外交"
     url: "/wiki/concepts/strategicconcessiondiplomacy/"

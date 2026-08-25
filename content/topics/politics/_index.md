@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1839
+topic_total_pages: 1840
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -2497,6 +2497,9 @@ topic_concepts:
   - key: "StatusOrderBacklash"
     title: "Status Order Backlash / 名分秩序反弹"
     url: "/wiki/concepts/statusorderbacklash/"
+  - key: "StatusConditionedRiskTaking"
+    title: "Status-Conditioned Risk Taking / 地位条件化行动尺度"
+    url: "/wiki/concepts/statusconditionedrisktaking/"
   - key: "StealingTigerTalliesToRescueZhao"
     title: "Stealing Tiger Tallies to Rescue Zhao / 窃符救赵"
     url: "/wiki/concepts/stealingtigertalliestorescuezhao/"

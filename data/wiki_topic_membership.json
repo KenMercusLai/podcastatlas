@@ -51464,6 +51464,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "StatusConditionedRiskTaking": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "StatusInsultDefectionCascade": [
     {
       "key": "history",

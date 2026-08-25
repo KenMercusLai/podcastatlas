@@ -2,11 +2,15 @@
 title: "颍川郡 / Yingchuan Commandery"
 type: entity
 tags: [place, commandery, qin, chu-han, warfare]
-sources: [zizhi-tongjian-hanji-960-caowei-dingji-zhinang-xunyu-weihe-qi-yuan-tou-cao-lmor1txqpm88itt4incalusconjr, zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r, zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn, zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o]
+sources: [zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4, zizhi-tongjian-hanji-960-caowei-dingji-zhinang-xunyu-weihe-qi-yuan-tou-cao-lmor1txqpm88itt4incalusconjr, zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r, zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn, zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o]
 last_updated: 2026-08-25
 ---
 
 # 颍川郡 / Yingchuan Commandery
+
+[[zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4|Hanji 925]] adds Yingchuan as the battlefield setting for the first 184 CE [[YellowTurbansLateHan|Yellow Turban]] reversal on this page. [[ZhuJunLateHan|朱儁]] initially loses to [[BoCaiLateHan|波才]], and [[HuangfuSongLateHan|皇甫嵩]] then retreats into [[ChangsheBattleLateHan|长社]] before using fire and pursuit to break Bo Cai's force.
+
+This gives Yingchuan a late-Han war layer earlier than its existing elite-network branch. The commandery appears first as an exposed battlefield, then later as one of the talent-source regions that becomes important to [[CaoCao|曹操]] through Xun, Zhong, and Chen networks.
 
 [[zizhi-tongjian-hanji-960-caowei-dingji-zhinang-xunyu-weihe-qi-yuan-tou-cao-lmor1txqpm88itt4incalusconjr|Hanji 960]] adds a late-Han crisis-migration use before the elite-network branch in Hanji 969. [[XunYu|荀彧]] reads Yingchuan as exposed to war after [[DongZhuo|董卓]]'s collapse, urges people to leave, and moves his kin toward the north before [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], [[ZhangJiLateHan|张济]], and related forces devastate the area.
 
@@ -25,6 +29,7 @@ For the wiki, Yingchuan therefore becomes a correction to simplified Liu Bang me
 [[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i|Hanji 184]] later reassigns Yingchuan again inside the same early-Han search for safer regional control. After [[PengYue|彭越]] is killed, Liu Bang abolishes Yingchuan into Huaiyang and names his son Liu You as Huaiyang king, extending [[SameSurnameKingEnfeoffment|同姓王分封]] into the central-plains map.
 
 ## Connections
+- [[zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4|Hanji 925]], [[YellowTurbansLateHan|黄巾军]], [[BoCaiLateHan|波才]], [[ZhuJunLateHan|朱儁]], [[HuangfuSongLateHan|皇甫嵩]], and [[ChangsheBattleLateHan|长社之战]] - early 184 CE battlefield setting.
 - [[zizhi-tongjian-hanji-960-caowei-dingji-zhinang-xunyu-weihe-qi-yuan-tou-cao-lmor1txqpm88itt4incalusconjr|Hanji 960]], [[XunYu|荀彧]], [[HanFuLateHan|韩馥]], [[YuanShao|袁绍]], [[CaoCao|曹操]], and [[CrisisMigrationJudgment|危局迁徙判断]] - late-Han war-risk migration and camp-choice branch.
 - [[zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r|Hanji 969]], [[ZhongYao|钟繇]], [[XunYu|荀彧]], and [[CaoCao|曹操]] - late-Han elite-network and camp-choice branch.
 - [[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i|Hanji 184]], [[PengYue|彭越]], [[LiuBang|刘邦]], and [[SameSurnameKingEnfeoffment|同姓王分封]] - reassignment into Huaiyang under Liu-family kingship.

@@ -2,11 +2,15 @@
 title: "朱儁 / Zhu Jun (late Han)"
 type: entity
 tags: [person, late-han, court, official]
-sources: [zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o, zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd, zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr, zizhi-tongjian-hanji-951-tianjiang-hengcai-jiujing-shi-haoshi-haishi-huaishi-lovwgng2wrtfno-s9ttpybbhksvh, zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq, zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis, zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk]
+sources: [zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4, zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o, zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd, zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr, zizhi-tongjian-hanji-951-tianjiang-hengcai-jiujing-shi-haoshi-haishi-huaishi-lovwgng2wrtfno-s9ttpybbhksvh, zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq, zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis, zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk]
 last_updated: 2026-08-25
 ---
 
 # 朱儁 / Zhu Jun (late Han)
+
+[[zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4|Hanji 925]] backfills Zhu Jun at the first 184 CE [[YellowTurbansLateHan|Yellow Turban]] battlefield moment. He initially loses to [[BoCaiLateHan|波才]], with Han cavalry withdrawing and infantry collapsing, before [[HuangfuSongLateHan|皇甫嵩]] stabilizes the field and later has Zhu Jun hidden near [[ChangsheBattleLateHan|长社]] for the counterattack.
+
+The source makes Zhu Jun's role important precisely because it begins with failure. His return into Huangfu Song's fire-attack sequence shows how a defeated commander can still become part of a coordinated recovery rather than only a liability.
 
 [[zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o|Hanji 928]] backfills Zhu Jun just before the fuller Nanyang campaign in Hanji 930. He fights beside [[HuangfuSongLateHan|皇甫嵩]] against the [[YellowTurbansLateHan|黄巾军]] in the Runan-[[ChenStateLateHan|陈国]] field, including the victory over Peng Tuo at Xihua.
 
@@ -35,6 +39,7 @@ His move to Zhongmou and call for all provinces and commanderies to attack Dong 
 In the episode, Zhu Jun is angered by Guo Si's hostage-taking, falls ill, and dies. His role makes the ministerial side of the Li-Guo crisis bodily concrete: officials are not only symbolically humiliated by detention, but physically consumed by the stress and helplessness of being military hostages.
 
 ## Connections
+- [[zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4|Hanji 925]], [[BoCaiLateHan|波才]], [[HuangfuSongLateHan|皇甫嵩]], [[ChangsheBattleLateHan|长社之战]], and [[YellowTurbansLateHan|黄巾军]] - initial defeat and later hidden coordination in the Changshe counterattack.
 - [[zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o|Hanji 928]], [[HuangfuSongLateHan|皇甫嵩]], [[YellowTurbansLateHan|黄巾军]], and [[ChenStateLateHan|陈国]] - Runan-Chen campaign credit and promotion before the Nanyang branch.
 - [[zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd|Hanji 930]], [[YellowTurbansLateHan|黄巾军]], [[ZhangManchengLateHan|张曼成]], [[ZhaoHongLateHan|赵弘]], [[HanZhongLateHan|韩忠]], [[SunXiaLateHan|孙夏]], [[QinJieLateHan|秦颉]], [[SunJianLateHan|孙坚]], [[BattlefieldCommanderReplacementRisk|阵前换将风险]], and [[EncirclementReleaseCalculus|围困开口式风险权衡]] - 184 CE Nanyang campaign and siege-release branch.
 - [[zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr|Hanji 950]], [[DongZhuo|董卓]], [[LuoyangLateHan|洛阳]], [[ChangAnHanCapital|长安]], and [[AntiDongZhuoCoalition|反董卓联盟]] - refusal of appointment and warning against westward relocation.

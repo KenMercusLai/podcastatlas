@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "7a69263fc3963a56df6170de394a18e0ec4d2b05facd0200ebd227b3ae354797",
       "ab0b793d55f3a0dd24461592cdba3af1e4322fd13e7177eac84849a9d38414af",
       "06faea8aceebcaed86203d949331f2b3f2786db5ba3600addd61451f5a3c99dd",
       "fee792d2d3a363d08fa62ba93c1ff393f7068a0e901761816ccdd04f5e382c15",
@@ -218,11 +219,50 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "0c44513d0be67a931cc97bd29911cea2bb9a7cae081936bd55010c7c16a6a2c9"
     ],
-    "paragraph_count": 216
+    "paragraph_count": 217
   },
-  "overview_commit": "8eee34763537d6005cbf2f18f9fb87fe959f2d3f",
-  "overview_digest": "5f668889133d6292342eadbfb94ec75289d135004167239c6d00758323b98844",
+  "overview_commit": "96a484aeb5d2f1bb4e3f96f438aa4d9eff2c2268",
+  "overview_digest": "e48fe3923bad765891c45ffaf198661eac40ad84d940037a67073296f654e787",
   "paragraphs": [
+    {
+      "id": "7a69263fc3963a56df6170de394a18e0ec4d2b05facd0200ebd227b3ae354797",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the first 184 CE Yellow Turban battlefield layer before [[zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc|Hanji 926]] and [[zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o|Hanji 928]]. It adds [[GongsunHong|公孙弘]], [[BoCaiLateHan|波才]], [[ChangsheBattleLateHan|长社之战]], [[StrategicCompromiseAsAgency|策略性妥协保全机会]], and [[StatusConditionedRiskTaking|地位条件化行动尺度]], while extending [[HanWudi|汉武帝]], [[Xiongnu|匈奴]], [[CaoCao|曹操]], [[JianShuoLateHan|蹇硕]], [[YangCiLateHan|杨赐]], [[LiuTaoLateHan|刘陶 / 刘桃]], [[EmperorLingOfHan|汉灵帝]], [[HuangfuSongLateHan|皇甫嵩]], [[ZhuJunLateHan|朱儁]], [[YellowTurbansLateHan|黄巾军]], [[YingchuanCommandery|颍川郡]], [[HighStatusLawEnforcementSignal|高位执法信号]], [[FortifiedAttritionPatience|坚壁耗敌式耐心]], [[LureEnemyOutOfPosition|诱敌离位]], [[BattlefieldInformationControl|战场信息控制]], and [[PoliticalSurvivalFirst|安全第一政治生存]]. Its core synthesis is that compromise and retreat can preserve agency when force or status is insufficient: Gongsun Hong avoids direct opposition to Han Wudi while narrowing the policy demand, Cao Cao's early curfew enforcement exposes how backing changes risk, and Huangfu Song turns temporary weakness at Changshe into fatigue, fire attack, and pursuit. No settled contradiction is recorded; Jian Tu, Deng Sheng, Zhao Qian, Guo Xun, Liu Wei, Shaoling, and Guangyang remain source-scoped because this episode gives them narrow episodic roles.",
+      "topic_scores": {
+        "governance-and-institutions": 3,
+        "history-and-geopolitics": 2
+      },
+      "wikilinks": [
+        "BattlefieldInformationControl",
+        "BoCaiLateHan",
+        "CaoCao",
+        "ChangsheBattleLateHan",
+        "EmperorLingOfHan",
+        "FortifiedAttritionPatience",
+        "GongsunHong",
+        "HanWudi",
+        "HighStatusLawEnforcementSignal",
+        "HuangfuSongLateHan",
+        "JianShuoLateHan",
+        "LiuTaoLateHan",
+        "LureEnemyOutOfPosition",
+        "PoliticalSurvivalFirst",
+        "RuiqiJiangtouZizhiTongjian",
+        "StatusConditionedRiskTaking",
+        "StrategicCompromiseAsAgency",
+        "Xiongnu",
+        "YangCiLateHan",
+        "YellowTurbansLateHan",
+        "YingchuanCommandery",
+        "ZhuJunLateHan",
+        "zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4",
+        "zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc",
+        "zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o"
+      ]
+    },
     {
       "id": "ab0b793d55f3a0dd24461592cdba3af1e4322fd13e7177eac84849a9d38414af",
       "primary_topic": "business-and-markets",

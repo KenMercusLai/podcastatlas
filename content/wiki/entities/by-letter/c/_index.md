@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 7501
+wiki_total_pages: 7504
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -1481,6 +1481,9 @@ wiki_pages:
   - key: "ChangshengFund"
     title: "长盛基金 / Changsheng Fund"
     url: "/wiki/entities/changshengfund/"
+  - key: "ChangsheBattleLateHan"
+    title: "长社之战 / Changshe Battle (late Han)"
+    url: "/wiki/entities/changshebattlelatehan/"
   - key: "ChenJuQiMinister"
     title: "陈举 / Chen Ju (Qi Minister)"
     url: "/wiki/entities/chenjuqiminister/"

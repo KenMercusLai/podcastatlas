@@ -6695,6 +6695,10 @@
     "title": "Bluetooth",
     "url": "/wiki/entities/bluetooth/"
   },
+  "BoCaiLateHan": {
+    "title": "波才 / Bo Cai (late Han)",
+    "url": "/wiki/entities/bocailatehan/"
+  },
   "BoJing": {
     "title": "博靖 / Bo Jing",
     "url": "/wiki/entities/bojing/"
@@ -8534,6 +8538,10 @@
   "ChangshaKingdom": {
     "title": "长沙国 / Changsha Kingdom",
     "url": "/wiki/entities/changshakingdom/"
+  },
+  "ChangsheBattleLateHan": {
+    "title": "长社之战 / Changshe Battle (late Han)",
+    "url": "/wiki/entities/changshebattlelatehan/"
   },
   "ChangshengFund": {
     "title": "长盛基金 / Changsheng Fund",
@@ -18962,6 +18970,10 @@
   "GongsunFanLateHan": {
     "title": "公孙范 / Gongsun Fan (late Han)",
     "url": "/wiki/entities/gongsunfanlatehan/"
+  },
+  "GongsunHong": {
+    "title": "公孙弘 / Gongsun Hong",
+    "url": "/wiki/entities/gongsunhong/"
   },
   "GongsunJia": {
     "title": "公孙贾 / Gongsun Jia",
@@ -42931,6 +42943,10 @@
     "title": "Status Anxiety Persuasion / 位阶焦虑式说服",
     "url": "/wiki/concepts/statusanxietypersuasion/"
   },
+  "StatusConditionedRiskTaking": {
+    "title": "Status-Conditioned Risk Taking / 地位条件化行动尺度",
+    "url": "/wiki/concepts/statusconditionedrisktaking/"
+  },
   "StatusDescentPressure": {
     "title": "Status Descent Pressure / 身份落差压力",
     "url": "/wiki/concepts/statusdescentpressure/"
@@ -43206,6 +43222,10 @@
   "StrategicCapitalRelocation": {
     "title": "Strategic Capital Relocation / 战略性迁都",
     "url": "/wiki/concepts/strategiccapitalrelocation/"
+  },
+  "StrategicCompromiseAsAgency": {
+    "title": "Strategic Compromise as Agency / 策略性妥协保全机会",
+    "url": "/wiki/concepts/strategiccompromiseasagency/"
   },
   "StrategicConcessionDiplomacy": {
     "title": "Strategic Concession Diplomacy / 欲擒故纵式让利外交",
@@ -56258,6 +56278,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4": {
+    "title": "《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4/"
   },
   "zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc": {
     "title": "《资治通鉴·汉纪》926丨真正的强者，都懂得“造势”",
