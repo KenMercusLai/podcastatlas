@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 7550
+wiki_total_pages: 7562
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -1307,6 +1307,9 @@ wiki_pages:
   - key: "LongxiCommandery"
     title: "陇西郡 / Longxi Commandery"
     url: "/wiki/entities/longxicommandery/"
+  - key: "LinglingCommanderyLateHan"
+    title: "零陵郡 / Lingling Commandery (late Han)"
+    url: "/wiki/entities/linglingcommanderylatehan/"
   - key: "LeiTao"
     title: "雷涛 / 无二旅人 / Lei Tao"
     url: "/wiki/entities/leitao/"

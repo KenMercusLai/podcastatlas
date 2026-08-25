@@ -11656,6 +11656,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-26] ingest | 《资治通鉴·汉纪》1027丨荆州之主刘表，为何难成霸主？
+
+Added source page for Hanji 1027: Liu Biao's double alignment with the Li-Guo court and Yuan Shao, Deng Xi's ignored warning, and Zhang Xian/Huan Jie's southern Jingzhou attachment to Cao Cao. Created pages for Deng Xi, Zhang Xian, Huan Jie, southern Jingzhou commanderies, Wuxi Man/Sha Moke, Wang Fuzhi, Pang Tong, Guandu Campaign, Factional Alignment Exit Capital, and Fence-Sitting Strategic Exposure; updated Liu Biao/Jingzhou governance context. No settled contradiction found; the source qualifies earlier defensive-governance praise by exposing Liu Biao's strategic ceiling and Jingzhou's southern fissures.
+
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》1028丨小霸王孙策立威，称霸江东！
 
 Added source page for Hanji 1028: Sun Ce's Cao-backed title/marriage channel, Yuan Shu's proxy disruption through Zu Lang and Shanyue, Zhou Yu and Lu Su leaving Yuan Shu, and Sun Ce capturing then appointing Zu Lang and Taishi Ci. Created Lu Su, Shanyue, Sun Yi (Late Han), and Captured Opponent Talent Incorporation pages; updated linked Sun Ce, Taishi Ci, Zu Lang, Danyang, Zhou Yu, Yuan Shu, Cao Cao, Wang Lang, Zhang Hong, Liu Yao, Hua Xin, Sun Quan, and talent/trust concept pages. No settled contradiction found; Cao Cao's Wang Lang factional-balancing reading and Sun Ce character judgments remain source-scoped.
@@ -11671,6 +11675,10 @@ Added source page for Hanji 1030: Yuan Shao's final pressure on Gongsun Zan at Y
 ## [2026-08-26] ingest | Elbows up, again: a US-Canada trade flare-up
 
 Added source page for The Intelligence episode on the breakdown in U.S.-Canada trade talks, Mark Carney's diversification dilemma, Japan's employment ice age generation, and Jeremy Black's totemic/utilitarian siege distinction. Created Mark Carney, Hal Hodson, Torigoe Atsushi, Jeremy Black, Alberta, Quebec, Trade Diversification Stability Paradox, Entry-Cohort Labor Market Scarring, and Siege Typology pages; updated connected Canada, United States, Donald Trump, Japan, Economist podcast, tariff, labor, and siege-history pages. No direct contradiction found; tariff figures, Japan cohort timing, and siege examples remain source-scoped.
+
+## [2026-08-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-26] lint | Wiki health check
 

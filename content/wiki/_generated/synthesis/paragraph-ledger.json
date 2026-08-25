@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "7d7b693d6f35815ea65575bc5b059360b4fee92ebcf1baf6f0f25aadad4c1df0",
       "840eaed48823d1cb8394205dc6f757a3f266cc085d658c74982cb8d290278aa1",
       "edc20184f9cefbd958ce0fe6369ba50f9c227485553384690d5efee4f2579a08",
       "cfdf373b36b386d0fcf8826c8af5b3ae5ea7a4893abd05eb6a4e1b5630010bc0",
@@ -225,11 +226,48 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "0c44513d0be67a931cc97bd29911cea2bb9a7cae081936bd55010c7c16a6a2c9"
     ],
-    "paragraph_count": 223
+    "paragraph_count": 224
   },
-  "overview_commit": "2e75666ccb40da9599bbaf88dd70c6ce7d223beb",
-  "overview_digest": "cef90e6cbf9eb42411c93d94718bed9e93a7a479065f4e2f110c221e133e5009",
+  "overview_commit": "d3a76ac49b8b2f3897402c2a335040d8b4cd76b2",
+  "overview_digest": "fa4c8b0c77546293c803636a1b4141125e984f7daa974b0841c84e82d616aec5",
   "paragraphs": [
+    {
+      "id": "7d7b693d6f35815ea65575bc5b059360b4fee92ebcf1baf6f0f25aadad4c1df0",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1027-jingzhou-zhizhu-liubiao-weihe-nan-cheng-bazhu-ll-ebguqllsf-5ycvpdogihzn3lj]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode on [[LiuBiao|刘表]]'s [[Jingzhou|荆州]] strategy before the Guandu horizon. It adds [[DengXiLateHan|邓羲]], [[ZhangXianLateHan|张献]], [[HuanJieLateHan|桓阶]], [[SouthernJingzhouLateHan|荆南]], [[ChangshaCommanderyLateHan|长沙郡]], [[LinglingCommanderyLateHan|零陵郡]], [[GuiyangCommanderyLateHan|桂阳郡]], [[WuxiMan|五溪蛮]], [[ShaMoke|沙摩柯]], [[WangFuzhi|王夫之]], [[PangTong|庞统]], [[GuanduCampaign|官渡之战]], [[FactionalAlignmentExitCapital|派系站队退出资本]], and [[FenceSittingStrategicExposure|骑墙式战略暴露]], while extending [[CaoCao|曹操]], [[YuanShao|袁绍]], [[HuangZu|黄祖]], [[DefensiveLocalGovernance|保境安民式守成治理]], and [[XingshiqingStrategicAssessment|行势情战略评估]]. Its core synthesis is that Liu Biao's defensive Jingzhou order has a strategic ceiling: double alignment preserves short-term room, but ignored remonstrance and southern local-elite defection let Cao Cao constrain him before he can actively shape the Yuan-Cao contest. No settled contradiction is recorded; the source qualifies earlier Liu Biao defensive-governance praise by showing the exposure created by local fissures and passive balancing.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "CaoCao",
+        "ChangshaCommanderyLateHan",
+        "DefensiveLocalGovernance",
+        "DengXiLateHan",
+        "FactionalAlignmentExitCapital",
+        "FenceSittingStrategicExposure",
+        "GuanduCampaign",
+        "GuiyangCommanderyLateHan",
+        "HuanJieLateHan",
+        "HuangZu",
+        "Jingzhou",
+        "LinglingCommanderyLateHan",
+        "LiuBiao",
+        "PangTong",
+        "RuiqiJiangtouZizhiTongjian",
+        "ShaMoke",
+        "SouthernJingzhouLateHan",
+        "WangFuzhi",
+        "WuxiMan",
+        "XingshiqingStrategicAssessment",
+        "YuanShao",
+        "ZhangXianLateHan",
+        "zizhi-tongjian-hanji-1027-jingzhou-zhizhu-liubiao-weihe-nan-cheng-bazhu-ll-ebguqllsf-5ycvpdogihzn3lj"
+      ]
+    },
     {
       "id": "840eaed48823d1cb8394205dc6f757a3f266cc085d658c74982cb8d290278aa1",
       "primary_topic": "psychology-and-personal-development",

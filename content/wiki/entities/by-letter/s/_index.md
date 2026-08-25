@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 7550
+wiki_total_pages: 7562
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1649,6 +1649,9 @@ wiki_pages:
   - key: "ShaWujing"
     title: "沙和尚"
     url: "/wiki/entities/shawujing/"
+  - key: "ShaMoke"
+    title: "沙摩柯 / Sha Moke"
+    url: "/wiki/entities/shamoke/"
   - key: "ShaxiAncientTown"
     title: "沙溪古镇 / Shaxi Ancient Town"
     url: "/wiki/entities/shaxiancienttown/"
@@ -1748,6 +1751,9 @@ wiki_pages:
   - key: "SuGao"
     title: "苏高 / Su Gao"
     url: "/wiki/entities/sugao/"
+  - key: "SouthernJingzhouLateHan"
+    title: "荆南 / Southern Jingzhou (late Han)"
+    url: "/wiki/entities/southernjingzhoulatehan/"
   - key: "ShuHouNingTong"
     title: "蜀侯宁通 / Shu Hou Ning Tong"
     url: "/wiki/entities/shuhouningtong/"

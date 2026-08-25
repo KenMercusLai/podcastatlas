@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1027丨荆州之主刘表，为何难成霸主？](sources/zizhi-tongjian-hanji-1027-jingzhou-zhizhu-liubiao-weihe-nan-cheng-bazhu-ll-ebguqllsf-5ycvpdogihzn3lj.md) — 芮淇讲透资治通鉴 episode on Liu Biao's double alignment with the Li-Guo court and Yuan Shao, Deng Xi's resignation, and Zhang Xian/Huan Jie's southern Jingzhou attachment to Cao Cao before Guandu.
 - [《资治通鉴·汉纪》1028丨小霸王孙策立威，称霸江东！](sources/zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x.md) — 芮淇讲透资治通鉴 episode on Sun Ce consolidating Jiangdong by accepting Cao Cao's title overtures, drawing Zhou Yu and Lu Su out of Yuan Shu's orbit, and capturing then appointing Zu Lang and Taishi Ci.
 - [《资治通鉴·汉纪》1029丨国士无双太史慈：一诺千金义当先](sources/zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto.md) — 芮淇讲透资治通鉴 episode on Sun Ce sending Taishi Ci to pacify Liu Yao's remaining followers and inspect Yuzhang, with Hua Xin's limited control, Tong Zhi in Luling, and Panyang local forces near Haihun.
 - [《资治通鉴·汉纪》1030丨手握好牌，公孙瓒为何打得稀烂？](sources/zizhi-tongjian-hanji-1030-shouwo-hao-pai-gongsunzan-weihe-da-de-xilan-lpkntyov4viqyzgxgcujn36qhv8.md) — 芮淇讲透资治通鉴 episode on Yuan Shao reaching Yijing, Gongsun Zan's failed rescue-trust logic, Guan Jing's warning, and passive self-preservation as a failed strategy.
@@ -1464,6 +1465,18 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [邓羲 / Deng Xi (late Han)](entities/DengXiLateHan.md) — Liu Biao aide whose ignored warning against double alignment marks a failed Jingzhou feedback channel.
+- [张献 / Zhang Xian (late Han)](entities/ZhangXianLateHan.md) — Changsha administrator who attaches southern Jingzhou commanderies to Cao Cao against Liu Biao.
+- [桓阶 / Huan Jie (late Han)](entities/HuanJieLateHan.md) — Changsha local-elite adviser behind Zhang Xian's southern commandery alignment with Cao Cao.
+- [长沙郡 / Changsha Commandery (late Han)](entities/ChangshaCommanderyLateHan.md) — Late-Han southern Jingzhou commandery led by Zhang Xian; distinct from modern Changsha and Western Han Changsha Kingdom.
+- [零陵郡 / Lingling Commandery (late Han)](entities/LinglingCommanderyLateHan.md) — Southern Jingzhou commandery grouped with Changsha and Guiyang in the Zhang Xian-Huan Jie breakaway.
+- [桂阳郡 / Guiyang Commandery (late Han)](entities/GuiyangCommanderyLateHan.md) — Southern Jingzhou commandery whose inclusion makes the Zhang Xian-Huan Jie alignment strategically significant.
+- [荆南 / Southern Jingzhou (late Han)](entities/SouthernJingzhouLateHan.md) — Disambiguated late-Han southern Jingzhou zone whose commanderies can attach to Cao Cao against Liu Biao.
+- [五溪蛮 / Wuxi Man](entities/WuxiMan.md) — Frontier people Liu Biao courts through Sha Moke after southern Jingzhou pressure grows.
+- [沙摩柯 / Sha Moke](entities/ShaMoke.md) — Wuxi Man leader Liu Biao tries to draw in as a reactive support channel.
+- [王夫之 / Wang Fuzhi](entities/WangFuzhi.md) — Later commentator cited by Hanji 1027 to sharpen the negative judgment of Liu Biao's Jingzhou strategy.
+- [庞统 / Pang Tong](entities/PangTong.md) — Jingzhou talent used source-scopedly as a later consequence of Liu Biao's weak correction/talent channel.
+- [官渡之战 / Guandu Campaign](entities/GuanduCampaign.md) — Looming Cao Cao-Yuan Shao confrontation that makes Liu Biao's southern constraint strategically important.
 - [鲁肃 / Lu Su](entities/LuSu.md) — Future Eastern Wu adviser introduced by Hanji 1028 as leaving Yuan Shu's failing appointment path with Zhou Yu and moving his household toward Sun Ce's Qu'a base.
 - [山越 / Shanyue](entities/Shanyue.md) — Mountain-based Jiangdong local-force field that Yuan Shu tries to mobilize through Zu Lang and that also supports Taishi Ci before Sun Ce's consolidation.
 - [孙翊 / Sun Yi (late Han)](entities/SunYiLateHan.md) — Sun-family son named in Hanji 982 and added by Hanji 1028 to Cao Cao's hostage-like court-service leverage over Sun Ce.
@@ -9018,6 +9031,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [派系站队退出资本 / Factional Alignment Exit Capital](concepts/FactionalAlignmentExitCapital.md) — Hanji 1027 workplace frame for reading informal power while building portable professional value and exit options.
+- [骑墙式战略暴露 / Fence-Sitting Strategic Exposure](concepts/FenceSittingStrategicExposure.md) — Liu Biao pattern where short-term neutrality becomes exploitable when local fissures and external patrons constrain initiative.
 - [降敌任用式立威 / Captured Opponent Talent Incorporation](concepts/CapturedOpponentTalentIncorporation.md) — Hanji 1028 pattern where Sun Ce turns captured rivals such as Zu Lang and Taishi Ci into visible proof of authority, restraint, and usable talent.
 - [Rescue Reciprocity Command Trust / 救援互惠式统帅信任](concepts/RescueReciprocityCommandTrust.md) — Command-trust failure where a leader's refusal to rescue subordinates teaches them not to risk themselves when the leader later needs support.
 - [Trade Diversification Stability Paradox](concepts/TradeDiversificationStabilityParadox.md) — Pattern where escaping dependence on a dominant trade partner first requires enough stability with that partner to attract investment.

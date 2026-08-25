@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1850
+topic_total_pages: 1851
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -2971,6 +2971,9 @@ topic_concepts:
   - key: "CupWineDisarmsGenerals"
     title: "杯酒释兵权 / Cup of Wine Disarms Generals"
     url: "/wiki/concepts/cupwinedisarmsgenerals/"
+  - key: "FactionalAlignmentExitCapital"
+    title: "派系站队退出资本 / Factional Alignment Exit Capital"
+    url: "/wiki/concepts/factionalalignmentexitcapital/"
   - key: "QingFemaleInheritanceConstraint"
     title: "清代女性继承限制 / Qing Female Inheritance Constraint"
     url: "/wiki/concepts/qingfemaleinheritanceconstraint/"

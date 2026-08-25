@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 7550
+wiki_total_pages: 7562
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -572,6 +572,9 @@ wiki_pages:
   - key: "WudoumiDao"
     title: "五斗米道 / Wudoumi Dao"
     url: "/wiki/entities/wudoumidao/"
+  - key: "WuxiMan"
+    title: "五溪蛮 / Wuxi Man"
+    url: "/wiki/entities/wuximan/"
   - key: "WuZixu"
     title: "伍子胥 / Wu Zixu"
     url: "/wiki/entities/wuzixu/"
@@ -821,6 +824,9 @@ wiki_pages:
   - key: "WangDake"
     title: "王大可"
     url: "/wiki/entities/wangdake/"
+  - key: "WangFuzhi"
+    title: "王夫之 / Wang Fuzhi"
+    url: "/wiki/entities/wangfuzhi/"
   - key: "WangPo"
     title: "王婆 / Wang Po"
     url: "/wiki/entities/wangpo/"

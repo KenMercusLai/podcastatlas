@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 7550
+wiki_total_pages: 7562
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -809,6 +809,9 @@ wiki_pages:
   - key: "GreatWildGoosePagoda"
     title: "大雁塔 / Great Wild Goose Pagoda"
     url: "/wiki/entities/greatwildgoosepagoda/"
+  - key: "GuanduCampaign"
+    title: "官渡之战 / Guandu Campaign"
+    url: "/wiki/entities/guanducampaign/"
   - key: "GanBao"
     title: "干宝 / Gan Bao"
     url: "/wiki/entities/ganbao/"
@@ -839,6 +842,9 @@ wiki_pages:
   - key: "GuilinCommandery"
     title: "桂林郡 / Guilin Commandery"
     url: "/wiki/entities/guilincommandery/"
+  - key: "GuiyangCommanderyLateHan"
+    title: "桂阳郡 / Guiyang Commandery (late Han)"
+    url: "/wiki/entities/guiyangcommanderylatehan/"
   - key: "GuilingBattle"
     title: "桂陵之战 / Battle of Guiling"
     url: "/wiki/entities/guilingbattle/"
