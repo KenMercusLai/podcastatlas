@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 5461
+wiki_total_pages: 5462
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -260,6 +260,9 @@ wiki_pages:
   - key: "RelentlesslyResourcefulFounder"
     title: "Relentlessly Resourceful Founder"
     url: "/wiki/concepts/relentlesslyresourcefulfounder/"
+  - key: "ReliefBasedReligiousMobilization"
+    title: "Relief-Based Religious Mobilization / 救济型宗教动员"
+    url: "/wiki/concepts/reliefbasedreligiousmobilization/"
   - key: "ReligiousControlledSubstanceExemption"
     title: "Religious Controlled-Substance Exemption"
     url: "/wiki/concepts/religiouscontrolledsubstanceexemption/"

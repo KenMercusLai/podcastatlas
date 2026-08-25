@@ -2,11 +2,15 @@
 title: "杨赐 / Yang Ci (late Han)"
 type: entity
 tags: [person, late-han, official, china]
-sources: [zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4, zizhi-tongjian-hanji-931-rensheng-jiannan-chu-bianshi-xiuxin-shi-lpzmvxop8lmlwvxhoojzj5ok9qd6]
-last_updated: 2026-08-25
+sources: [zizhi-tongjian-hanji-923-chengnianrende-dingji-henjin-guzi-lide-juejue-lifzh-gohpqnmdznnfv72tndqf8h, zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4, zizhi-tongjian-hanji-931-rensheng-jiannan-chu-bianshi-xiuxin-shi-lpzmvxop8lmlwvxhoojzj5ok9qd6]
+last_updated: 2026-08-26
 ---
 
 # 杨赐 / Yang Ci (late Han)
+
+[[zizhi-tongjian-hanji-923-chengnianrende-dingji-henjin-guzi-lide-juejue-lifzh-gohpqnmdznnfv72tndqf8h|Hanji 923]] adds the substance of Yang Ci's pre-uprising warning. As situ, he sees [[ZhangJiaoLateHan|张角]]'s network as dangerous but argues against immediate blunt suppression; the episode says he recommends first investigating and dispersing displaced followers so the organization loses its base before the court targets the leaders.
+
+The source turns Yang Ci into a prevention strategist, not only a vindicated memorialist. His warning fails because the memorial remains unattended after he leaves office, making the later [[YellowTurbansLateHan|Yellow Turban]] crisis a case where accurate risk diagnosis exists before the court acts.
 
 [[zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4|Hanji 925]] adds Yang Ci's earlier Yellow Turban warning branch. When [[EmperorLingOfHan|汉灵帝]] asks about the uprising, Yang Ci answers too directly for the ruler's taste and is dismissed in April 184, but later memorials by Yang Ci and [[LiuTaoLateHan|刘陶 / 刘桃]] about [[ZhangJiaoLateHan|张角]] and the [[YellowTurbansLateHan|Yellow Turbans]] are recognized as accurate.
 
@@ -17,6 +21,7 @@ The episode therefore makes Yang Ci a case of warning that fails first as court 
 The episode gives Yang Ci a narrow but important function. Alongside [[HeJin|何进]] and [[YuanWeiLateHan|袁隗]], he helps rescue Wang Yun from the death edge, making Wang Yun's early [[MoralReputationPoliticalCapital|道德名望政治资本]] visible before the later Dong Zhuo branch.
 
 ## Connections
+- [[zizhi-tongjian-hanji-923-chengnianrende-dingji-henjin-guzi-lide-juejue-lifzh-gohpqnmdznnfv72tndqf8h|Hanji 923]], [[ZhangJiaoLateHan|张角]], [[TaipingDao|太平道]], and [[EmperorLingOfHan|汉灵帝]] - pre-uprising warning and dispersal-first prevention strategy.
 - [[zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4|Hanji 925]], [[EmperorLingOfHan|汉灵帝]], [[LiuTaoLateHan|刘陶 / 刘桃]], [[ZhangJiaoLateHan|张角]], [[YellowTurbansLateHan|黄巾军]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - dismissed warning and later vindication.
 - [[zizhi-tongjian-hanji-931-rensheng-jiannan-chu-bianshi-xiuxin-shi-lpzmvxop8lmlwvxhoojzj5ok9qd6|Hanji 931]] - source case.
 - [[WangYunLateHan|王允]] - imprisoned official whom Yang Ci helps rescue.
