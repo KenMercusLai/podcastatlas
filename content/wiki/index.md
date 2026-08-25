@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》910丨社会生存，我劝你多点城府](sources/zizhi-tongjian-hanji-910-shehui-shengcun-wo-quan-ni-duodian-chengfu-lp2fvuyb8ampzoeyr7znztnr0fgk.md) — 芮淇讲透资治通鉴 episode on guarded disclosure, Zhao Bao's 177 CE family-hostage dilemma against Xianbei and Tanshihuai, the 178 Wuhu Man outbreak and omen-office setting, and Hongdu Menxue as Emperor Ling's counterweight to Taixue and great-clan selection channels.
 - [《资治通鉴·汉纪》911丨古代公务员也能包分配？](sources/zizhi-tongjian-hanji-911-gudai-gongwuyuan-ye-neng-bao-fenpei-ls3pxu9xlpuulsdailx8tcoylv9e.md) — 芮淇讲透资治通鉴 episode on Hongdu Menxue as a fast-track appointment channel against Taixue, official-selection systems as power allocation, Shi Yiguan and Liang Hu's calligraphy talent, Zhang Hao's eunuch-linked taiwei promotion and gold-seal omen, and the earthquake/hen-omen office churn before Hanji 912.
 - [《资治通鉴·汉纪》912丨秘密到底该不该说出口？](sources/zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a.md) — 芮淇讲透资治通鉴 episode on Han Fei's secrecy warning, 178 CE omen remonstrance by Yang Ci and Cai Yong, Cao Jie's leak of Cai's confidential memorial, and source-scoped risk around loyal advice, secrecy, protection, and aftermath capacity.
 - [《资治通鉴·汉纪》913丨看懂“塞翁失马”，悟透人生福祸](sources/zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g.md) — 芮淇讲透资治通鉴 episode on Cai Yong's framed exile and survival, Song Empress's wugu accusation and death, Lu Zhi's ignored institutional memorial, and source-scoped workplace/self-protection readings of explanation and misfortune.
@@ -1605,7 +1606,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [曹腾 / Cao Teng (late Han)](entities/CaoTengLateHan.md) — Eunuch adoptive grandfather in Cao Cao's family background, anchoring the label Cao Cao tries to offset through anti-eunuch signaling.
 - [贾从 / Jia Cong (late Han)](entities/JiaCongLateHan.md) — Late-Han official who pacifies Jiaozhi by investigating extraction, relieving burdens, reassuring displaced people, and appointing clean local officials.
 - [交趾郡 / Jiaozhi Commandery](entities/JiaozhiCommandery.md) — Southern commandery in today's northern Vietnam/Red River region, source case for the 181 Wuhu Man/Liang Long rebellion, Zhu Jun's rapid suppression, and later Jia Cong root-cause pacification.
-- [乌浒蛮 / Wuhu Man (Jiaozhi)](entities/WuhuManJiaozhi.md) — Southern Jiaozhi rebel group in Hanji 920, disambiguated from Wuhu place names and suppressed by Zhu Jun after a prolonged rebellion.
+- [乌浒蛮 / Wuhu Man (Jiaozhi)](entities/WuhuManJiaozhi.md) — Southern frontier rebel group whose Hanji 910 outbreak in JiuZhen/Rinan becomes the long-running branch later suppressed by Zhu Jun in Hanji 920.
 - [梁龙 / Liang Long (late Han)](entities/LiangLongLateHan.md) — Jiaozhi rebel actor killed by Zhu Jun during the 181 southern suppression branch.
 - [左丰 / Zuo Feng (late Han)](entities/ZuoFengLateHan.md) — Small yellow gate whose inspection report after Lu Zhi's gift refusal leads Emperor Ling to recall Lu Zhi and appoint Dong Zhuo.
 - [张梁 / Zhang Liang (Yellow Turban)](entities/ZhangLiangYellowTurban.md) — Yellow Turban leader killed by Huangfu Song at Guangzong in Hanji 929, disambiguated from Zhang Liang the early-Han strategist.
@@ -1995,8 +1996,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [周丹 / Zhou Dan (Late Han)](entities/ZhouDanLateHan.md) — Gongsun Zan's Yuyang taishou defeated and killed by Yan Rou in the Youzhou backlash.
 - [刘和 / Liu He (Late Han)](entities/LiuHeLateHan.md) — Liu Yu's son welcomed as a banner by the anti-Gongsun coalition.
 - [乌桓 / Wuhuan](entities/Wuhuan.md) — Northern frontier group whose forces help Yan Rou's anti-Gongsun coalition and whose respect for Tian Chou marks the Xu Wu Mountain order branch.
-- [鲜卑 / Xianbei](entities/Xianbei.md) — Northern frontier people whose wiki branch now includes 181 leadership transition after Tanshihuai, later Liu Yu outreach, and the anti-Gongsun coalition.
-- [檀石槐 / Tanshihuai (Xianbei)](entities/TanshihuaiXianbei.md) — Xianbei leader whose death in Hanji 920 sets up the weaker He Lian and Kuitou succession branch.
+- [赵苞 / 赵包 / Zhao Bao (Late Han)](entities/ZhaoBaoLateHan.md) — Liaoxi official whose mother and wife become Xianbei hostages in Hanji 910, creating a loyal-minister versus family-rescue dilemma distinct from Warring States Zhao Bao.
+- [鲜卑 / Xianbei](entities/Xianbei.md) — Northern frontier people whose wiki branch now includes Zhao Bao's 177 family-hostage battle, 181 leadership transition after Tanshihuai, later Liu Yu outreach, and the anti-Gongsun coalition.
+- [檀石槐 / Tanshihuai (Xianbei)](entities/TanshihuaiXianbei.md) — Xianbei leader used in Hanji 910 as hostage-pressure commander against Zhao Bao and whose death in Hanji 920 sets up the weaker He Lian and Kuitou succession branch.
 - [和连 / He Lian (Xianbei)](entities/HeLianXianbei.md) — Tanshihuai's son and weaker Xianbei successor, killed after attacking Beidi in the Hanji 920 succession summary.
 - [魁头 / Kuitou (Xianbei)](entities/KuitouXianbei.md) — Nephew-line Xianbei successor whose later contest with He Lian's son disperses the group in the Hanji 920 account.
 - [幽州 / Youzhou (Late Han)](entities/YouzhouLateHan.md) — Northern province where Gongsun Zan's post-Liu Yu control unravels through commandery defections.
@@ -9139,9 +9141,9 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Concepts
 - [Confidential Remonstrance Leakage / 密奏泄露风险](concepts/ConfidentialRemonstranceLeakage.md) — Late-Han speech-risk pattern where a private corrective memorial is exposed through inner-court access and becomes intelligence for retaliation before advice can become protection or policy.
-- [选官通道竞争 / Official Selection Channel Competition](concepts/OfficialSelectionChannelCompetition.md) — Political-institutional pattern where rival education or recommendation routes compete over finite official posts, making curriculum and status disputes into appointment-order conflict.
-- [太学 / Taixue](concepts/Taixue.md) — Established classical education-to-office route whose students resent Hongdu Menxue's faster appointment channel in the late-Han selection conflict.
-- [鸿都门学 / Hongdu Menxue](concepts/HongduMenxue.md) — Late-Han court-sponsored literary and artistic channel that Emperor Ling favors against Taixue and士人 prestige, turning cultural recognition into appointment-channel competition.
+- [选官通道竞争 / Official Selection Channel Competition](concepts/OfficialSelectionChannelCompetition.md) — Political-institutional pattern where rival education or recommendation routes compete over finite official posts, including Hongdu Menxue as Emperor Ling's counterchannel against Taixue and great-clan selection control.
+- [太学 / Taixue](concepts/Taixue.md) — Established classical education-to-office route and incumbent status field whose students resent Hongdu Menxue's faster appointment channel in the late-Han selection conflict.
+- [鸿都门学 / Hongdu Menxue](concepts/HongduMenxue.md) — Late-Han court-sponsored literary and artistic channel that Emperor Ling favors against Taixue and great-clan/士人 prestige, turning cultural recognition into appointment-channel competition.
 - [AI Portfolio Leverage Liquidation](concepts/AIPortfolioLeverageLiquidation.md) — Market-risk pattern where a levered AI equity thesis can be forced out by margin mechanics before long-run fundamentals resolve.
 - [Pacing the Frontier](concepts/PacingTheFrontier.md) — Source-scoped frontier-AI governance proposal framed through safety, government pace-setting, regulatory capture risk, and duopoly incentives.
 - [City-Owned Grocery Politics](concepts/CityOwnedGroceryPolitics.md) — Municipal grocery-store politics where visible affordability benefits compete with thin-margin retail execution and public-budget costs.
@@ -9804,7 +9806,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Post-Coalition Spoils Imbalance / 联军战后利益失衡](concepts/PostCoalitionSpoilsImbalance.md) — Post-victory payoff problem where Qin treats treasure as inadequate and attacks Wei after the anti-Qi coalition.
 - [Crisis Autonomous Marriage / 患难自主婚姻](concepts/CrisisAutonomousMarriage.md) — Relationship pattern where Tian Fazhang and Jun Wang Hou's private crisis bond precedes restored royal marriage.
 - [Retainer Revenge Mobilization / 臣下复仇动员](concepts/RetainerRevengeMobilization.md) — Wang Sun Gu's conversion of subject-duty shame into a public revenge force against Zhuo Chi.
-- [Loyalty-Collateral Dilemma / 忠义牵连困境](concepts/LoyaltyCollateralDilemma.md) — Wang Zhu case where loyal refusal of enemy service risks making nearby people collateral unless the target exits the coercive choice.
+- [Loyalty-Collateral Dilemma / 忠义牵连困境](concepts/LoyaltyCollateralDilemma.md) — Pattern where public loyalty or office duty can make family, followers, or local people collateral, from Wang Zhu to Zhao Bao and later late-Han siege cases.
 - [Xunzian Wangba Three Paths / 荀子王霸三分法](concepts/XunzianWangbaThreePaths.md) — Xunzi-derived framework where ritual-righteous rule becomes kingly rule, credible trust supports hegemony, and profit-first deception leads toward ruin.
 - [Xing'e Theory / 性恶论](concepts/XingETheory.md) — Source-scoped Xunzi human-nature doctrine used to explain why ritual, law, education, and credible institutions are needed for political order.
 - [Victory Overreach Failure / 数胜必亡式胜利反噬](concepts/VictoryOverreachFailure.md) — Pattern where victory inflates confidence, relaxes discipline, exhausts support, kills corrective feedback, or invites tactical reversal.
@@ -14268,7 +14270,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lottery Gambling Platform Fraud](concepts/LotteryGamblingPlatformFraud.md) — Risk that betting, lottery, or small-payment prize platforms control odds, winners, settlement, and balances.
 - [AI Impersonation Fraud Risk](concepts/AIImpersonationFraudRisk.md) — Risk that generated voices, faces, or personalized media weaken traditional identity verification in scams.
 - [Social Signal Interpretation](concepts/SocialSignalInterpretation.md) — Reading indirect meaning from timing, relationship, setting, emotional state, and nonliteral prompts.
-- [Communication Boundary Setting](concepts/CommunicationBoundarySetting.md) — Deciding what to say, decline, defer, or leave unsaid based on relationship, setting, and likely interpretation.
+- [Communication Boundary Setting](concepts/CommunicationBoundarySetting.md) — Deciding what to say, decline, defer, or leave unsaid based on relationship, setting, likely interpretation, and whether disclosure creates leverage.
 - [Workplace Communication Risk](concepts/WorkplaceCommunicationRisk.md) — Risk that office words, favors, jokes, or repeated patterns are interpreted differently by colleagues than intended.
 - [Language Precision](concepts/LanguagePrecision.md) — Practical need for clear pronunciation, terminology, and confirmation when misunderstanding would change action.
 - [Investment Fraud Red Flags](concepts/InvestmentFraudRedFlags.md) — Warning signs such as high easy returns, small early payouts, staged social proof, authority packaging, opaque contracts, and unfamiliar fund routes.

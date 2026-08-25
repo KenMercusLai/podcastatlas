@@ -11656,6 +11656,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-26] ingest | 《资治通鉴·汉纪》910丨社会生存，我劝你多点城府
+
+Added source page for Hanji 910: guarded-disclosure and social-survival framing, Zhao Bao's 177 CE family-hostage dilemma against Xianbei and Tanshihuai, the 178 CE Wuhu Man outbreak and omen-office setting, and Hongdu Menxue as Emperor Ling's counterweight to Taixue and great-clan selection power. Created Zhao Bao (Late Han); updated Xianbei, Tanshihuai, Wuhu Man, Emperor Ling, Ruiqi Jiangtou Zizhi Tongjian, Hongdu Menxue, Taixue, Official Selection Channel Competition, Court Office Capture, Loyalty-Collateral Dilemma, Communication Boundary Setting, index, and overview. No settled contradiction found; 赵包/赵苞 is kept distinct from Warring States Zhao Bao, and Hanji 910's Wuhu Man outbreak is treated as a chronology extension before Hanji 920's suppression branch.
+
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》911丨古代公务员也能包分配？
 
 Added source page for Hanji 911: Hongdu Menxue curriculum and fast-track appointment conflict with Taixue, official-selection history as imperial/elite power allocation, Lingdi reinterpretation, Shi Yiguan and Liang Hu calligraphy anecdotes, Zhang Hao's eunuch-linked taiwei appointment and gold-seal omen, earthquake/hen omen, Chen Dan removal, and Lai Yan appointment before Hanji 912. Created Taixue, Official Selection Channel Competition, Shi Yiguan, Zhang Hao, and Lai Yan; updated Hongdu Menxue, Emperor Ling, Liang Hu, Chen Dan, Court Office Capture, Auspicious Omen Politics, Natural Disaster Political Omen, Celestial Omen Political Responsibility, the Ruiqi show page, index, and overview. No settled contradiction found; 张昊 is normalized to 张颢 while Hongdu count/first-specialized-university, posthumous-name, and omen-manipulation readings remain source-scoped.
@@ -11829,6 +11833,10 @@ Added source page for Hanji 913: workplace bullying and explanation-boundary fra
 ## [2026-08-26] lint | Wiki health check
 
 Ran health, identity validation, and lint. Health scanned 14,603 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` and common provider API keys are unset; report returned in-session and `wiki/lint-report.md` was not updated.
+
+## [2026-08-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-26] lint | Wiki health check
 
