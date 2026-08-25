@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 5432
+wiki_total_pages: 5439
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -467,6 +467,9 @@ wiki_pages:
   - key: "RetirementSecurityTradeoff"
     title: "Retirement Security Tradeoff"
     url: "/wiki/concepts/retirementsecuritytradeoff/"
+  - key: "RetreatRomanceDeflation"
+    title: "Retreat Romance Deflation / 退隐浪漫祛魅"
+    url: "/wiki/concepts/retreatromancedeflation/"
   - key: "RetrievalAugmentedGeneration"
     title: "Retrieval-Augmented Generation"
     url: "/wiki/concepts/retrievalaugmentedgeneration/"

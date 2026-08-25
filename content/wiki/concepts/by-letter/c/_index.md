@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 5432
+wiki_total_pages: 5439
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -632,6 +632,9 @@ wiki_pages:
   - key: "CircleOfCompetence"
     title: "Circle Of Competence"
     url: "/wiki/concepts/circleofcompetence/"
+  - key: "CircularLinearTimeTension"
+    title: "Circular And Linear Time Tension / 环形时间与线性时间张力"
+    url: "/wiki/concepts/circularlineartimetension/"
   - key: "CircularProductTakeback"
     title: "Circular Product Takeback"
     url: "/wiki/concepts/circularproducttakeback/"

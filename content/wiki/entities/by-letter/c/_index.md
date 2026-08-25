@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 7531
+wiki_total_pages: 7535
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -1157,6 +1157,9 @@ wiki_pages:
   - key: "CheDundunYeShiji"
     title: "《车墩墩野事记》"
     url: "/wiki/entities/chedundunyeshiji/"
+  - key: "CizhiShangShan"
+    title: "《辞职上山》"
+    url: "/wiki/entities/cizhishangshan/"
   - key: "ChangdehaokanNengDangFanChiMa"
     title: "《长得好看能当饭吃吗》"
     url: "/wiki/entities/changdehaokannengdangfanchima/"

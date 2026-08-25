@@ -2666,8 +2666,8 @@
       "earliest_episode_date": "2026-02-04",
       "latest_episode_date": "2026-08-24",
       "latest_episode_file": "山上山下皆人间，无事逍遥即神仙 [lhJIgUq74flhaTdXnBrnzhjg_ACP].md",
-      "source_note_count": 18,
-      "topic_matched_source_note_count": 14,
+      "source_note_count": 19,
+      "topic_matched_source_note_count": 15,
       "topics": [
         {
           "key": "economics",
@@ -2685,15 +2685,15 @@
           "key": "science",
           "label": "Science",
           "url": "/topics/science/",
-          "source_note_count": 2
+          "source_note_count": 3
         }
       ],
       "entities": [],
       "start_here_episode_files": [
         "A股的春夏秋冬：种树、种粮、种菜 [ljzicMfBl9GuXoqmCDd8iKdn6JBX].md",
         "激发动物精神，创造更多机会 [lnDyFDMtGo-9l5cR8OY82t1XnLFe].md",
-        "中年三账户：现金流、肌肉、睡眠 [lnyOmrU5v2YZO1-oTUyw2MDJ_VaE].md",
-        "山上山下皆人间，无事逍遥即神仙 [lhJIgUq74flhaTdXnBrnzhjg_ACP].md"
+        "山上山下皆人间，无事逍遥即神仙 [lhJIgUq74flhaTdXnBrnzhjg_ACP].md",
+        "如此打工 30 年：流水线上的面孔与时间 [lodsUKTWtcFXnhmzWUM5IeSbZbmE].md"
       ]
     }
   }

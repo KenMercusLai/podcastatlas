@@ -11639,3 +11639,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-25] ingest | 山上山下皆人间，无事逍遥即神仙
+
+Added source page for a 面基 episode with 李闯 on 《辞职上山》, Wudang Daoist life, fieldnote writing, folk belief as last-resort support, Chinese-medicine uncertainty, circular/linear time, and 逍遥 as freedom inside ordinary constraints. Created pages for Li Chuang, 《辞职上山》, Quanzhen Daoism, Zhenwu Dadi, Daoist Temple Everyday Labor, Fieldnote To Public Writing, Belief As Last-Resort Support, Circular And Linear Time Tension, Xiaoyao As Non-Dependence, Medicine As Way-Seeking, and Retreat Romance Deflation; updated overview, index, 面基, Wudang Mountain, Zhuangzi, fieldwork, folk religion, ritual tourism, medical knowledge, Daoist nourishing-life, work decentering, financial/lifestyle freedom, and spiritual freedom pages. No direct contradiction found; the source qualifies quitting, Wudang tourism, folk-belief, and Chinese-medicine claims by keeping them source-scoped and grounded in ordinary bodily, institutional, and social constraints.
+
+## [2026-08-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

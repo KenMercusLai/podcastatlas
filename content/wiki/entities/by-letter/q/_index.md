@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "q"
-wiki_total_pages: 7531
+wiki_total_pages: 7535
 wiki_pages:
   - key: "Qatar"
     title: "Qatar"
@@ -41,6 +41,9 @@ wiki_pages:
   - key: "QQ"
     title: "QQ"
     url: "/wiki/entities/qq/"
+  - key: "QuanzhenDaoism"
+    title: "Quanzhen Daoism / 全真道教"
+    url: "/wiki/entities/quanzhendaoism/"
   - key: "Quanzhou"
     title: "Quanzhou / 泉州"
     url: "/wiki/entities/quanzhou/"

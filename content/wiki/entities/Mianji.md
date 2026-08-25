@@ -1,8 +1,9 @@
 ---
 title: "面基"
 type: entity
-tags: [podcast, investing, trading, embodied-judgment, macro, ai-workflow, career, nonfiction, reading, knowledge-management, platform-labor, fixed-income-plus, wealth-management, labor, manufacturing, bitcoin, money]
+tags: [podcast, investing, trading, embodied-judgment, macro, ai-workflow, career, nonfiction, reading, knowledge-management, platform-labor, fixed-income-plus, wealth-management, labor, manufacturing, bitcoin, money, daoism, anthropology, medicine, life-design]
 sources:
+  - shan-shang-shan-xia-jie-renjian-wushi-xiaoyao-ji-shenxian-lhjiguq74flhatdxnbrnzhjg-acp
   - jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe
   - ruci-dagong-30-nian-liushuixian-shang-de-miankong-yu-shijian-lodsuktwtcfxnhmzwum5iesbzbme
   - a-gu-de-chun-xia-qiu-dong-zhongshu-zhongliang-zhongcai-ljzicmfbl9guxoqmcdd8ikdn6jbx
@@ -21,10 +22,12 @@ sources:
   - da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf
   - dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1
   - zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae
-last_updated: 2026-08-17
+last_updated: 2026-08-25
 ---
 
 # 面基
+
+[[shan-shang-shan-xia-jie-renjian-wushi-xiaoyao-ji-shenxian-lhjiguq74flhatdxnbrnzhjg-acp]] adds a Daoism, anthropology, medicine, and life-design branch through [[LiChuang|李闯]] and [[CizhiShangShan|《辞职上山》]]. It connects [[WudangMountain|武当山]], [[QuanzhenDaoism|全真道教]], [[DaoistTempleEverydayLabor]], [[RetreatRomanceDeflation]], [[FieldnoteToPublicWriting]], [[BeliefAsLastResortSupport]], [[MedicineAsWaySeeking|以医入道]], [[XiaoyaoAsNonDependence|逍遥作为不被外物左右]], and [[CircularLinearTimeTension|环形时间与线性时间张力]] to the show's existing work, embodied judgment, freedom, and nonfiction threads.
 
 [[jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe]] adds a money, Bitcoin, AI, and opportunity branch through [[ZhouLuohua|周洛华]] and the revised [[BitStandardBook|《比特本位》]]. It connects [[RiskCostSeparation|风险与成本分离]], [[OpportunityGeneratingDecentralization|创造机会的去中心化]], [[AnimalSpiritsOpportunityActivation|动物精神与机会激活]], [[ProofOfWorkMonetaryValidation|工作量证明的货币验证]], [[FiatCapitalMarketDecentralization|纸币时代的资本市场去中心化]], [[HumanValueAIDeployment|提高人的价值以部署 AI]], and [[DecentralizedAgentIdentity|去中心化智能体身份]] to the show's existing investing, macro, and AI-agency themes.
 
@@ -52,6 +55,7 @@ The [[DaChangXiaomin]] conversation adds a nonfiction career layer through [[Xia
 
 ## Connections
 - [[ZhouLuohua|周洛华]], [[BitStandardBook|《比特本位》]], [[RiskCostSeparation]], [[OpportunityGeneratingDecentralization]], [[AnimalSpiritsOpportunityActivation]], [[FiatCapitalMarketDecentralization]], [[HumanValueAIDeployment]], and [[DecentralizedAgentIdentity]] - money, Bitcoin, opportunity, and AI-human-value branch.
+- [[LiChuang|李闯]], [[CizhiShangShan|《辞职上山》]], [[WudangMountain|武当山]], [[DaoistTempleEverydayLabor]], and [[XiaoyaoAsNonDependence]] - Daoism, fieldwork, medicine, and freedom branch.
 - [[ZhanTeacher|占老师]], [[RuciDagong30Nian|《如此打工30年》]], [[Dongguan|东莞]], [[WorkerPhotographicArchive]], [[TayloristFactoryTime]], and [[ContinuousLearningAgainstDisplacement]] - labor, manufacturing-memory, and worker-archive branch.
 - [[WuWeizhi]], [[ZhongouRuibo]], [[AShareMarketSeasons]], [[ASharePlantingCompanyTaxonomy]], [[InvestmentStrategyFit]], [[GrowthInvesting]], [[MAPERInvestmentResearchFramework]], and [[ResearchIndexPortfolioConstruction]] - A-share institutional-investing and research-process branch.
 - [[ZhangYizhen]], [[AShareValuationIndicators]], [[MultiStrategyAllocation]], and [[DrawdownPsychology]] — E145's A-share valuation, strategy-mix, and investor-psychology layer.

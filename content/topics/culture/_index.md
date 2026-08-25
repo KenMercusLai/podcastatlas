@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2198
+topic_total_pages: 2199
 topic_concepts:
   - key: "AbraxasWholeGodSymbolism"
     title: "Abraxas Whole-God Symbolism / 阿布拉克萨斯完整神象征"
@@ -5078,6 +5078,9 @@ topic_entities:
   - key: "CheDundunYeShiji"
     title: "《车墩墩野事记》"
     url: "/wiki/entities/chedundunyeshiji/"
+  - key: "CizhiShangShan"
+    title: "《辞职上山》"
+    url: "/wiki/entities/cizhishangshan/"
   - key: "GuoQinLun"
     title: "《过秦论》 / Guo Qin Lun"
     url: "/wiki/entities/guoqinlun/"

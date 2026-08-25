@@ -1,14 +1,16 @@
 ---
 title: "Ritual Tourism Authenticity Tension / 仪式文旅真实性张力"
 type: concept
-tags: [tourism, ritual, heritage, authenticity, folk-religion, china]
-sources: [ep249-minnan-gucheng-youshenji-chuantong-yishi-beihou-de-xiangtu-wangluo-lpk1vb9-zmgmuous1nyzefgapgww]
-last_updated: 2026-08-07
+tags: [tourism, ritual, heritage, authenticity, folk-religion, china, daoism]
+sources: [shan-shang-shan-xia-jie-renjian-wushi-xiaoyao-ji-shenxian-lhjiguq74flhatdxnbrnzhjg-acp, ep249-minnan-gucheng-youshenji-chuantong-yishi-beihou-de-xiangtu-wangluo-lpk1vb9-zmgmuous1nyzefgapgww]
+last_updated: 2026-08-25
 ---
 
 # Ritual Tourism Authenticity Tension / 仪式文旅真实性张力
 
 Ritual tourism authenticity tension is the gap between presenting ritual as heritage for outsiders and performing ritual as effective practice for locals. [[ep249-minnan-gucheng-youshenji-chuantong-yishi-beihou-de-xiangtu-wangluo-lpk1vb9-zmgmuous1nyzefgapgww]] develops the concept through [[YongningAncientCity|永宁古城]], where tourists, short videos, heritage policy, cultural festivals, and local deity processions all meet.
+
+[[shan-shang-shan-xia-jie-renjian-wushi-xiaoyao-ji-shenxian-lhjiguq74flhatdxnbrnzhjg-acp]] adds a Daoist scenic-area version through [[WudangMountain|武当山]]. The source shows that a sacred mountain can also be a tourist workplace: [[LiChuang|李闯]] describes schedules, buses, visitors, possible influencer promotion, and all-staff pressure during peak seasons alongside [[QuanzhenDaoism|全真道教]] practice and [[DaoistTempleEverydayLabor]].
 
 The episode says local governments recognize that folk practices such as deity processions and related performance forms can attract visitors. At the same time, official cultural-tourism framing cannot fully endorse "god belief," while local ritual logic may still need [[JitongSpiritMedium|鸡童/乩童]], temple authority, route obligations, offerings, and community participation to feel complete.
 
@@ -20,8 +22,10 @@ This creates a practical split. Visitors may prefer "real" village ritual over t
 - Government, visitor, and temple logics can coexist without fully matching.
 - Authenticity is not only oldness; in this source it means that local participants still recognize the ritual as doing social and religious work.
 - The strongest continuity test is local practice, not outside spectacle.
+- The Wudang source adds that scenic-area operations can reshape religious labor through visitor flow, media packaging, and peak-season scheduling.
 
 ## Connections
+- [[WudangMountain|武当山]], [[LiChuang|李闯]], [[DaoistTempleEverydayLabor]], and [[QuanzhenDaoism|全真道教]] - Daoist scenic-area extension from the 面基 source.
 - [[YongningAncientCity|永宁古城]], [[MinnanRitualNetwork]], and [[JitongSpiritMedium]] - source case and ritual mechanism.
 - [[HeritageTourismCommercialization]] - broader heritage-to-tourism conversion.
 - [[TourismTrafficMismatch]] - related problem where visitor demand may not match local value.

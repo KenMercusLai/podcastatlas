@@ -1,12 +1,14 @@
 ---
 title: "Fieldwork As Knowledge Method / 田野作为知识方法"
 type: concept
-tags: [method, fieldwork, evidence, scholarship, journalism, science-reporting, ritual]
-sources: [baiwan-ge-jingguan-shehui-tingshuo-ni-ye-xiang-dang-zhubo-lgd0yapclwvsessg7xnhaarpyiwy, ep267-tafang-meigonghe-yuji-hunfeiyi-yu-shuili-diguo-lkq2vxaatn4wxue7y5q1fc3-8yfk, ep264-tafang-tangshi-zhilu-shengtang-qixiang-shaonianxin-loo2dfuxffizpbl4si5nwcixnngi, ep261-mifeng-weiji-ruguo-shiqu-mifeng-shijie-jianghui-zenyang-lqp-cwcdxx1ziixb35ijmmvd6cv, ep249-minnan-gucheng-youshenji-chuantong-yishi-beihou-de-xiangtu-wangluo-lpk1vb9-zmgmuous1nyzefgapgww, ep248-zai-gaoyuan-yu-dixia-tanxun-zhongguo-da-kexue-xiangmu-lidn7xxkcw4-66fw-y50fqqacwo, xianchang-xianchang-2025-nianzhong-teji-sanlian-nvjizhe-jiemi-xinwen-beihou-de-ku-yu-guang-loz-sggelhx166n2me8v6d8k9a3c, ruci-dagong-30-nian-liushuixian-shang-de-miankong-yu-shijian-lodsuktwtcfxnhmzwum5iesbzbme, 36-heian-de-zuoshou-liufang-yu-ai-de-weilai-wangshi-605254522, 35-tianzhende-renleixuejia-zuo-tianye-hui-shangyin-de-603418624, 19-huangye-shang-de-dashi-wo-bei-yu-luanshi-qiu-yanjiu-ben-wei-niliu-zhi-wangju-565412437]
-last_updated: 2026-08-10
+tags: [method, fieldwork, evidence, scholarship, journalism, science-reporting, ritual, anthropology]
+sources: [shan-shang-shan-xia-jie-renjian-wushi-xiaoyao-ji-shenxian-lhjiguq74flhatdxnbrnzhjg-acp, baiwan-ge-jingguan-shehui-tingshuo-ni-ye-xiang-dang-zhubo-lgd0yapclwvsessg7xnhaarpyiwy, ep267-tafang-meigonghe-yuji-hunfeiyi-yu-shuili-diguo-lkq2vxaatn4wxue7y5q1fc3-8yfk, ep264-tafang-tangshi-zhilu-shengtang-qixiang-shaonianxin-loo2dfuxffizpbl4si5nwcixnngi, ep261-mifeng-weiji-ruguo-shiqu-mifeng-shijie-jianghui-zenyang-lqp-cwcdxx1ziixb35ijmmvd6cv, ep249-minnan-gucheng-youshenji-chuantong-yishi-beihou-de-xiangtu-wangluo-lpk1vb9-zmgmuous1nyzefgapgww, ep248-zai-gaoyuan-yu-dixia-tanxun-zhongguo-da-kexue-xiangmu-lidn7xxkcw4-66fw-y50fqqacwo, xianchang-xianchang-2025-nianzhong-teji-sanlian-nvjizhe-jiemi-xinwen-beihou-de-ku-yu-guang-loz-sggelhx166n2me8v6d8k9a3c, ruci-dagong-30-nian-liushuixian-shang-de-miankong-yu-shijian-lodsuktwtcfxnhmzwum5iesbzbme, 36-heian-de-zuoshou-liufang-yu-ai-de-weilai-wangshi-605254522, 35-tianzhende-renleixuejia-zuo-tianye-hui-shangyin-de-603418624, 19-huangye-shang-de-dashi-wo-bei-yu-luanshi-qiu-yanjiu-ben-wei-niliu-zhi-wangju-565412437]
+last_updated: 2026-08-25
 ---
 
 # Fieldwork As Knowledge Method / 田野作为知识方法
+
+[[shan-shang-shan-xia-jie-renjian-wushi-xiaoyao-ji-shenxian-lhjiguq74flhatdxnbrnzhjg-acp]] adds a self-ethnographic life-writing version through [[LiChuang|李闯]]. His notes from [[WudangMountain|武当山]], [[Xishuangbanna|西双版纳]], a hutong shop, and a county hospital show fieldwork moving across formal anthropology and ordinary life: daily chores, pilgrims, illness, shifts, cooking, and conversations become evidence when recorded with a distinction between observation and interpretation.
 
 [[baiwan-ge-jingguan-shehui-tingshuo-ni-ye-xiang-dang-zhubo-lgd0yapclwvsessg7xnhaarpyiwy]] adds a contemporary platform-labor version through [[TianFeng|田峰]] and student researchers at [[ChineseAcademyOfSocialSciences|中国社科院]]. The source shows that [[TalentGroupLivestreaming|才艺团播]] cannot be understood from the public screen alone; fieldwork has to enter makeup rooms, guide tables, rehearsal rooms, guild reviews, and even the bodily experience of standing under the lights and learning dance.
 
@@ -45,8 +47,10 @@ The concept gathers several branches. [[DingWenjiang|丁文江]] walks geologica
 - River-geography reporting adds that transport systems, seasonal climate, ritual life, water bodies, and engineered deltas have to be observed as one operating region before a river becomes an explanatory frame.
 - The group-livestreaming source adds that platform labor needs backstage and participant observation because the public screen hides operational, bodily, and compliance work.
 - The worker-photography source adds that a participant's long archive can become field evidence when ordinary work, documents, routes, images, and later reclassification are kept together.
+- The Li Chuang source adds that fieldwork habits can become a general life-writing discipline when the observer records ordinary settings before converting them into public nonfiction.
 
 ## Connections
+- [[LiChuang|李闯]], [[CizhiShangShan|《辞职上山》]], [[FieldnoteToPublicWriting]], [[WudangMountain|武当山]], and [[MedicineAsWaySeeking|以医入道]] - self-ethnographic and life-writing extension from the 面基 source.
 - [[ZhanTeacher|占老师]], [[RuciDagong30Nian|《如此打工30年》]], [[WorkerPhotographicArchive]], [[Dongguan|东莞]], and [[PersonalArchiveAsHistory]] - insider worker-archive extension from the 面基 source.
 - [[MekongRiver]], [[MainlandSoutheastAsia]], [[MekongRiverGeographicWriting]], [[MonsoonSeasonalSocialOrder]], [[AngkorHydraulicEmpire]], and [[MekongDeltaColonialCanalAgriculture]] - EP267 river-geography extension.
 - [[TalentGroupLivestreaming]], [[LivestreamGuildIndustrialization]], [[RealTimeLivestreamLabor]], [[PlatformModerationComplianceLabor]], [[TianFeng]], and [[ChineseAcademyOfSocialSciences]] - platform-labor fieldwork extension from the 面基 source.

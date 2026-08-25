@@ -92,8 +92,27 @@
         "RetrievalAugmentedGeneration",
         "AIVerification"
       ]
+    },
+    {
+      "global_candidate": false,
+      "id": "medical-and-cultivation-claims-need-source-scoped-boundaries",
+      "qualifications": [
+        "The episode reports Li Chuang's lived and interpretive account of medicine, belief, and Daoist practice; it does not establish clinical efficacy or replace diagnosis.",
+        "The source keeps Chinese-medicine claims, county-hospital limits, and bodily practice as bounded field observations rather than general medical advice."
+      ],
+      "statement": "The Wudang source adds that [[MedicineAsWaySeeking]], [[MedicalKnowledgeBoundary]], [[DaoistNourishingLifeTechniques]], and [[BeliefAsLastResortSupport]] should be read through embodied uncertainty: practice and belief may help people orient when ordinary explanations run out, but health claims remain source-scoped and constrained by bodies, diagnosis, and evidence.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "shan-shang-shan-xia-jie-renjian-wushi-xiaoyao-ji-shenxian-lhjiguq74flhatdxnbrnzhjg-acp",
+        "MedicineAsWaySeeking",
+        "MedicalKnowledgeBoundary",
+        "DaoistNourishingLifeTechniques",
+        "BeliefAsLastResortSupport",
+        "WudangMountain",
+        "LiChuang"
+      ]
     }
   ],
-  "summary": "Data Science With Sam EP47 adds a personal-health-data privacy case: local private AI can make sensitive records queryable without sending files or questions to public services, but health answers still need grounding, citations, refusal behavior, and verification. Science, health, climate, and space-engineering claims become credible when physical constraints, evidence, regulation, implementation cost, and operational follow-through stay visible: reusable rockets need repeatable recovery plus launch-site throughput, space growth needs pads, geography, licensing, and habitat review, climate work needs material and storage validation, scientific imagination stays evidence-bound, and risk products must map to concrete exposure.",
+  "summary": "Data Science With Sam EP47 adds a personal-health-data privacy case: local private AI can make sensitive records queryable without sending files or questions to public services, but health answers still need grounding, citations, refusal behavior, and verification. Science, health, climate, and space-engineering claims become credible when physical constraints, evidence, regulation, implementation cost, and operational follow-through stay visible: reusable rockets need repeatable recovery plus launch-site throughput, space growth needs pads, geography, licensing, and habitat review, climate work needs material and storage validation, scientific imagination stays evidence-bound, and risk products must map to concrete exposure. The Wudang episode adds a source-scoped medicine-and-cultivation qualifier: Chinese-medicine, nourishing-life, and belief practices are treated as embodied exploratory systems that may offer support under uncertainty, but they do not erase diagnosis, evidence limits, or ordinary bodily constraints.",
   "topic_id": "science-health-and-climate"
 }

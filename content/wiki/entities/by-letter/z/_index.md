@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 7531
+wiki_total_pages: 7535
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -794,6 +794,9 @@ wiki_pages:
   - key: "ZhendouBoxingGym"
     title: "真斗拳馆"
     url: "/wiki/entities/zhendouboxinggym/"
+  - key: "ZhenwuDadi"
+    title: "真武大帝 / Zhenwu Dadi"
+    url: "/wiki/entities/zhenwudadi/"
   - key: "Zhihu"
     title: "知乎 / Zhihu"
     url: "/wiki/entities/zhihu/"

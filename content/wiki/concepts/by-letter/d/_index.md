@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 5432
+wiki_total_pages: 5439
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -26,6 +26,9 @@ wiki_pages:
   - key: "DaoistRitualTechnology"
     title: "Daoist Ritual Technology / 道教仪式技术"
     url: "/wiki/concepts/daoistritualtechnology/"
+  - key: "DaoistTempleEverydayLabor"
+    title: "Daoist Temple Everyday Labor / 道观日常劳动"
+    url: "/wiki/concepts/daoisttempleeverydaylabor/"
   - key: "DarkAdviserCraft"
     title: "Dark Adviser Craft / 毒士灰度谋略"
     url: "/wiki/concepts/darkadvisercraft/"

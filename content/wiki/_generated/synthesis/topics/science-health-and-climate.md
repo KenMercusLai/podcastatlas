@@ -4,15 +4,15 @@ generated: true
 topic_id: science-health-and-climate
 title: "Science, Health, and Climate"
 last_updated: 2026-08-25
-as_of_overview_commit: 8eee34763537d6005cbf2f18f9fb87fe959f2d3f
-input_digest: 63aaf9ec49966c9bc8d64671a0aadc50b78489786df492503f70e4e1d8eb1a40
+as_of_overview_commit: 71248d9f4ed672a1c2b39202b6d732b4debbdf3a
+input_digest: c17c04e81bb8e17c6c5fea063c3526b0ccee3c79928c1744080af05ace087263
 ---
 
 # Science, Health, and Climate
 
 ## Current State
 
-Data Science With Sam EP47 adds a personal-health-data privacy case: local private AI can make sensitive records queryable without sending files or questions to public services, but health answers still need grounding, citations, refusal behavior, and verification. Science, health, climate, and space-engineering claims become credible when physical constraints, evidence, regulation, implementation cost, and operational follow-through stay visible: reusable rockets need repeatable recovery plus launch-site throughput, space growth needs pads, geography, licensing, and habitat review, climate work needs material and storage validation, scientific imagination stays evidence-bound, and risk products must map to concrete exposure.
+Data Science With Sam EP47 adds a personal-health-data privacy case: local private AI can make sensitive records queryable without sending files or questions to public services, but health answers still need grounding, citations, refusal behavior, and verification. Science, health, climate, and space-engineering claims become credible when physical constraints, evidence, regulation, implementation cost, and operational follow-through stay visible: reusable rockets need repeatable recovery plus launch-site throughput, space growth needs pads, geography, licensing, and habitat review, climate work needs material and storage validation, scientific imagination stays evidence-bound, and risk products must map to concrete exposure. The Wudang episode adds a source-scoped medicine-and-cultivation qualifier: Chinese-medicine, nourishing-life, and belief practices are treated as embodied exploratory systems that may offer support under uncertainty, but they do not erase diagnosis, evidence limits, or ordinary bodily constraints.
 
 ## Cross-source Findings
 
@@ -76,3 +76,14 @@ EP47 adds a health-data privacy boundary: [[PersonalHealthData]] can become more
 
 - The source uses medical data as an example of sensitive personal material rather than giving clinical advice.
 - Local private AI is treated as a privacy architecture, not as proof that generated health answers are clinically correct.
+
+### Medical And Cultivation Claims Need Source Scoped Boundaries
+
+The Wudang source adds that [[MedicineAsWaySeeking]], [[MedicalKnowledgeBoundary]], [[DaoistNourishingLifeTechniques]], and [[BeliefAsLastResortSupport]] should be read through embodied uncertainty: practice and belief may help people orient when ordinary explanations run out, but health claims remain source-scoped and constrained by bodies, diagnosis, and evidence.
+
+**Evidence:** [[shan-shang-shan-xia-jie-renjian-wushi-xiaoyao-ji-shenxian-lhjiguq74flhatdxnbrnzhjg-acp]], [[MedicineAsWaySeeking]], [[MedicalKnowledgeBoundary]], [[DaoistNourishingLifeTechniques]], [[BeliefAsLastResortSupport]], [[WudangMountain]], [[LiChuang]]
+
+**Qualifications:**
+
+- The episode reports Li Chuang's lived and interpretive account of medicine, belief, and Daoist practice; it does not establish clinical efficacy or replace diagnosis.
+- The source keeps Chinese-medicine claims, county-hospital limits, and bodily practice as bounded field observations rather than general medical advice.

@@ -2,11 +2,13 @@
 title: "Medical Knowledge Boundary"
 type: concept
 tags: [medicine, uncertainty, diagnosis, public-health]
-sources: [ep274-ruhe-zhaodao-shihe-ziji-de-gengnianqi-daan-li2bp1rtitdnvc04rmizyfg1txfh, 86-dakai-yike-xin-na-meihao-de-zhang-wo-yijing-daguo-le-702323437, 162-pishu-xianliao-renjian-zhi-qi-yitian-jici-zui-jiankang-938004270, yi-fen-laizi-bingchuang-shang-de-xiangguan-shudan-598284093]
-last_updated: 2026-08-15
+sources: [shan-shang-shan-xia-jie-renjian-wushi-xiaoyao-ji-shenxian-lhjiguq74flhatdxnbrnzhjg-acp, ep274-ruhe-zhaodao-shihe-ziji-de-gengnianqi-daan-li2bp1rtitdnvc04rmizyfg1txfh, 86-dakai-yike-xin-na-meihao-de-zhang-wo-yijing-daguo-le-702323437, 162-pishu-xianliao-renjian-zhi-qi-yitian-jici-zui-jiankang-938004270, yi-fen-laizi-bingchuang-shang-de-xiangguan-shudan-598284093]
+last_updated: 2026-08-25
 ---
 
 # Medical Knowledge Boundary
+
+[[shan-shang-shan-xia-jie-renjian-wushi-xiaoyao-ji-shenxian-lhjiguq74flhatdxnbrnzhjg-acp]] adds a Chinese-medicine and county-hospital observation branch through [[LiChuang|李闯]] and [[MedicineAsWaySeeking|以医入道]]. The source keeps uncertainty visible: some discomforts remain hard to diagnose, some people cannot afford or arrange hospital care, and illness is often entangled with diet, work, sleep, occupation, and social structure. This extension is not a clinical endorsement of any unverified treatment; it is a source-scoped account of why people move between medicine, self-care, and belief.
 
 Medical knowledge boundary is the source's frame for respecting medicine without pretending it is omniscient. In [[yi-fen-laizi-bingchuang-shang-de-xiangguan-shudan-598284093]], the hosts discuss early uncertainty around new diseases, expert trust swings, a personal experience of unresolved pneumonia after travel, and the fact that many viral illnesses still depend heavily on the body's immune response.
 
@@ -26,8 +28,10 @@ The concept does not reject medical care. It pairs humility with responsibility:
 - Ordinary body signals should be observed over time and interpreted with symptoms, duration, and clinical context rather than converted into instant certainty.
 - High-risk surgery makes medicine's limits visible without making action meaningless; the hardest cases require bounded courage, not certainty.
 - EP274 adds that a life-stage label should not swallow every symptom; differential diagnosis and trend history still matter.
+- The Li Chuang source adds that medical uncertainty is lived through access, cost, work obligations, and ordinary habits as well as through diagnosis.
 
 ## Connections
+- [[LiChuang|李闯]], [[MedicineAsWaySeeking|以医入道]], and [[BeliefAsLastResortSupport]] - 面基 source branch around Chinese medicine, county hospitals, and fallback belief.
 - [[MedicalDiagnosticReasoning]] and [[MedicalRiskManagement]] - existing clinical uncertainty and safety frames.
 - [[HighRiskSurgicalInnovation]], [[ArtificialHeartBridgeTherapy]], and [[SurgicalOutcomeMetricDistortion]] - episode 86's surgical extension.
 - [[InfectiousDiseasePublicLiteracy]] - public-facing disease-literacy branch.

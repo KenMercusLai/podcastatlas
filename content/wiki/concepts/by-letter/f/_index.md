@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 5432
+wiki_total_pages: 5439
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -284,6 +284,9 @@ wiki_pages:
   - key: "FieldFirstVerticalSaaS"
     title: "Field-First Vertical SaaS"
     url: "/wiki/concepts/fieldfirstverticalsaas/"
+  - key: "FieldnoteToPublicWriting"
+    title: "Fieldnote To Public Writing / 田野笔记到公共写作"
+    url: "/wiki/concepts/fieldnotetopublicwriting/"
   - key: "FieldworkAsKnowledgeMethod"
     title: "Fieldwork As Knowledge Method / 田野作为知识方法"
     url: "/wiki/concepts/fieldworkasknowledgemethod/"

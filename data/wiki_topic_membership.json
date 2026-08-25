@@ -8729,6 +8729,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "BeliefAsLastResortSupport": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "BellLabs": [
     {
       "key": "technology",
@@ -12932,6 +12939,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "CizhiShangShan": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "Clacton": [
@@ -32590,6 +32604,13 @@
       "url": "/topics/history/"
     }
   ],
+  "LiChuang": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "LiDui": [
     {
       "key": "history",
@@ -35766,6 +35787,13 @@
       "url": "/topics/science/"
     }
   ],
+  "MedicineAsWaySeeking": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "MeditationsOnFirstPhilosophy": [
     {
       "key": "culture",
@@ -36276,6 +36304,11 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "Miaoya": [
@@ -59990,6 +60023,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "XiaoyaoAsNonDependence": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "Xiaoyuzhou": [
     {
       "key": "culture",
@@ -65209,6 +65249,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "shan-shang-shan-xia-jie-renjian-wushi-xiaoyao-ji-shenxian-lhjiguq74flhatdxnbrnzhjg-acp": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076": [

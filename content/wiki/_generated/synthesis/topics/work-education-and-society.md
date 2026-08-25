@@ -4,15 +4,15 @@ generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
 last_updated: 2026-08-25
-as_of_overview_commit: 6765151a72f3c2bfc8ef47a1c0539adae71eab44
-input_digest: 8d69f14ce03840da84ea592b5d0f240b017b6a783900202e4e66687d6900ae5e
+as_of_overview_commit: 71248d9f4ed672a1c2b39202b6d732b4debbdf3a
+input_digest: e4bf5f7541a9edd8d3c858b65bf17106bf4d1c62efc73e990dab78cdefc25783
 ---
 
 # Work, Education, and Society
 
 ## Current State
 
-The work, education, and society material emphasizes implementation over capability claims: AI, software, creative production, physical products, research, creator work, finance, public building, and institutional roles all depend on workflow ownership, distribution, verification, trust, supply chains, labor constraints, and human judgment. Hanji 986 adds a premodern organizational case where coercive command breaks feedback and base security determines whether expansion is practical. Hanji 999 adds a premodern social-order case where grain, agricultural labor, protection, and family safety condition whether authority and alliances hold. Hanji 926 adds a reputation-infrastructure case where elite evaluators and circulated labels can certify a politically ambiguous actor, while the same judgment system can also constrain talent recognition.
+The work, education, and society material emphasizes implementation over capability claims: AI, software, creative production, physical products, research, creator work, finance, public building, and institutional roles all depend on workflow ownership, distribution, verification, trust, supply chains, labor constraints, and human judgment. Hanji 986 adds a premodern organizational case where coercive command breaks feedback and base security determines whether expansion is practical. Hanji 999 adds a premodern social-order case where grain, agricultural labor, protection, and family safety condition whether authority and alliances hold. Hanji 926 adds a reputation-infrastructure case where elite evaluators and circulated labels can certify a politically ambiguous actor, while the same judgment system can also constrain talent recognition. The Wudang episode adds a Daoist fieldwork and life-design branch: quitting work and going up the mountain become analytically useful only after romantic retreat stories are grounded in temple shifts, chores, bodily discomfort, tourist mediation, family obligations, fieldnote practice, and a Zhuangzi-style freedom based on reducing dependence on external scoring.
 
 ## Cross-source Findings
 
@@ -161,3 +161,14 @@ The AI labor outlook remains unsettled: [[EntryLevelAICareerLadderRisk]] and [[S
 **Qualifications:**
 
 - The 2026 prediction source records contradictory investor assumptions rather than resolved outcomes; it is valuable as a map of tensions, not as settled accuracy.
+
+### Exit And Retreat Need Constraint Accounting
+
+The Wudang source turns quit-work fantasy into constraint accounting: [[CizhiShangShan]], [[DaoistTempleEverydayLabor]], [[RetreatRomanceDeflation]], [[WorkRoleDecentering]], [[CircularLinearTimeTension]], and [[XiaoyaoAsNonDependence]] show that freedom is built through ordinary labor, time practice, fieldnotes, and reduced dependence on external scoring rather than escape from the human world.
+
+**Evidence:** [[shan-shang-shan-xia-jie-renjian-wushi-xiaoyao-ji-shenxian-lhjiguq74flhatdxnbrnzhjg-acp]], [[CizhiShangShan]], [[LiChuang]], [[WudangMountain]], [[DaoistTempleEverydayLabor]], [[FieldnoteToPublicWriting]], [[RetreatRomanceDeflation]], [[WorkRoleDecentering]], [[CircularLinearTimeTension]], [[XiaoyaoAsNonDependence]], [[FinancialFreedomVsLifestyleFreedom]]
+
+**Qualifications:**
+
+- The claim is grounded in one 面基 episode and Li Chuang's book-centered account, so it should not be generalized to all Daoist practice or all quitting decisions.
+- The source reframes retreat and freedom as constraint-aware practice, not as a recommendation to leave work or seek medical or spiritual certainty on Wudang Mountain.

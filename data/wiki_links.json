@@ -6059,6 +6059,10 @@
     "title": "Belgium",
     "url": "/wiki/entities/belgium/"
   },
+  "BeliefAsLastResortSupport": {
+    "title": "Belief As Last-Resort Support / 信仰作为最后退路",
+    "url": "/wiki/concepts/beliefaslastresortsupport/"
+  },
   "BellLabs": {
     "title": "Bell Labs",
     "url": "/wiki/entities/belllabs/"
@@ -9883,6 +9887,10 @@
     "title": "Circle Of Competence",
     "url": "/wiki/concepts/circleofcompetence/"
   },
+  "CircularLinearTimeTension": {
+    "title": "Circular And Linear Time Tension / 环形时间与线性时间张力",
+    "url": "/wiki/concepts/circularlineartimetension/"
+  },
   "CircularProductTakeback": {
     "title": "Circular Product Takeback",
     "url": "/wiki/concepts/circularproducttakeback/"
@@ -9978,6 +9986,10 @@
   "CivilizedBodyDiscipline": {
     "title": "Civilized Body Discipline / 文明身体规训",
     "url": "/wiki/concepts/civilizedbodydiscipline/"
+  },
+  "CizhiShangShan": {
+    "title": "《辞职上山》",
+    "url": "/wiki/entities/cizhishangshan/"
   },
   "Clacton": {
     "title": "Clacton",
@@ -12182,6 +12194,10 @@
   "DaoistRitualTechnology": {
     "title": "Daoist Ritual Technology / 道教仪式技术",
     "url": "/wiki/concepts/daoistritualtechnology/"
+  },
+  "DaoistTempleEverydayLabor": {
+    "title": "Daoist Temple Everyday Labor / 道观日常劳动",
+    "url": "/wiki/concepts/daoisttempleeverydaylabor/"
   },
   "Daqi": {
     "title": "大琪",
@@ -16550,6 +16566,10 @@
   "FieldTrainingOfficerEffects": {
     "title": "Field Training Officer Effects",
     "url": "/wiki/concepts/fieldtrainingofficereffects/"
+  },
+  "FieldnoteToPublicWriting": {
+    "title": "Fieldnote To Public Writing / 田野笔记到公共写作",
+    "url": "/wiki/concepts/fieldnotetopublicwriting/"
   },
   "FieldworkAsKnowledgeMethod": {
     "title": "Fieldwork As Knowledge Method / 田野作为知识方法",
@@ -26839,6 +26859,10 @@
     "title": "李重进 / Li Chongjin",
     "url": "/wiki/entities/lichongjin/"
   },
+  "LiChuang": {
+    "title": "李闯 / Li Chuang",
+    "url": "/wiki/entities/lichuang/"
+  },
   "LiCunxu": {
     "title": "李存勖 / Li Cunxu",
     "url": "/wiki/entities/licunxu/"
@@ -30046,6 +30070,10 @@
   "MedicationInteractionRisk": {
     "title": "Medication Interaction Risk",
     "url": "/wiki/concepts/medicationinteractionrisk/"
+  },
+  "MedicineAsWaySeeking": {
+    "title": "Medicine As Way-Seeking / 以医入道",
+    "url": "/wiki/concepts/medicineaswayseeking/"
   },
   "MedievalUrbanMarginality": {
     "title": "Medieval Urban Marginality",
@@ -37639,6 +37667,10 @@
     "title": "Quantum Entanglement Fate Metaphor / 量子纠缠命运隐喻",
     "url": "/wiki/concepts/quantumentanglementfatemetaphor/"
   },
+  "QuanzhenDaoism": {
+    "title": "Quanzhen Daoism / 全真道教",
+    "url": "/wiki/entities/quanzhendaoism/"
+  },
   "Quanzhou": {
     "title": "Quanzhou / 泉州",
     "url": "/wiki/entities/quanzhou/"
@@ -38734,6 +38766,10 @@
   "RetirementSecurityTradeoff": {
     "title": "Retirement Security Tradeoff",
     "url": "/wiki/concepts/retirementsecuritytradeoff/"
+  },
+  "RetreatRomanceDeflation": {
+    "title": "Retreat Romance Deflation / 退隐浪漫祛魅",
+    "url": "/wiki/concepts/retreatromancedeflation/"
   },
   "RetrievalAugmentedGeneration": {
     "title": "Retrieval-Augmented Generation",
@@ -49927,6 +49963,10 @@
     "title": "小平津 / Xiaopingjin",
     "url": "/wiki/entities/xiaopingjin/"
   },
+  "XiaoyaoAsNonDependence": {
+    "title": "Xiaoyao As Non-Dependence / 逍遥作为不被外物左右",
+    "url": "/wiki/concepts/xiaoyaoasnondependence/"
+  },
   "XiaoyusanInsurance": {
     "title": "小雨伞",
     "url": "/wiki/entities/xiaoyusaninsurance/"
@@ -52423,6 +52463,10 @@
     "title": "郑州 / Zhengzhou",
     "url": "/wiki/entities/zhengzhou/"
   },
+  "ZhenwuDadi": {
+    "title": "真武大帝 / Zhenwu Dadi",
+    "url": "/wiki/entities/zhenwudadi/"
+  },
   "ZhiYao": {
     "title": "智瑶 / Zhi Yao",
     "url": "/wiki/entities/zhiyao/"
@@ -54626,6 +54670,10 @@
   "seven-allegedly-fake-chanel-bags-vs-the-realreal": {
     "title": "Seven allegedly fake Chanel bags vs The RealReal",
     "url": "/wiki/sources/seven-allegedly-fake-chanel-bags-vs-the-realreal/"
+  },
+  "shan-shang-shan-xia-jie-renjian-wushi-xiaoyao-ji-shenxian-lhjiguq74flhatdxnbrnzhjg-acp": {
+    "title": "山上山下皆人间，无事逍遥即神仙",
+    "url": "/wiki/sources/shan-shang-shan-xia-jie-renjian-wushi-xiaoyao-ji-shenxian-lhjiguq74flhatdxnbrnzhjg-acp/"
   },
   "shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076": {
     "title": "商业小样43 | AI时代，谁在给服务器“降温”",

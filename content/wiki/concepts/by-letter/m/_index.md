@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 5432
+wiki_total_pages: 5439
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -341,6 +341,9 @@ wiki_pages:
   - key: "MedicationInteractionRisk"
     title: "Medication Interaction Risk"
     url: "/wiki/concepts/medicationinteractionrisk/"
+  - key: "MedicineAsWaySeeking"
+    title: "Medicine As Way-Seeking / 以医入道"
+    url: "/wiki/concepts/medicineaswayseeking/"
   - key: "MedievalUrbanMarginality"
     title: "Medieval Urban Marginality"
     url: "/wiki/concepts/medievalurbanmarginality/"

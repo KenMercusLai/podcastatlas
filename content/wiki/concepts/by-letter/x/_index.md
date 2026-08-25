@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "x"
-wiki_total_pages: 5432
+wiki_total_pages: 5439
 wiki_pages:
   - key: "XFFXFramework"
     title: "X/F/FX Framework"
@@ -17,6 +17,9 @@ wiki_pages:
   - key: "XiaohongshuCreatorMonetization"
     title: "Xiaohongshu Creator Monetization"
     url: "/wiki/concepts/xiaohongshucreatormonetization/"
+  - key: "XiaoyaoAsNonDependence"
+    title: "Xiaoyao As Non-Dependence / 逍遥作为不被外物左右"
+    url: "/wiki/concepts/xiaoyaoasnondependence/"
   - key: "XiayiPlan"
     title: "Xiayi Plan / 下邑画策"
     url: "/wiki/concepts/xiayiplan/"

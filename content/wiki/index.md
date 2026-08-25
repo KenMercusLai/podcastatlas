@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [山上山下皆人间，无事逍遥即神仙](sources/shan-shang-shan-xia-jie-renjian-wushi-xiaoyao-ji-shenxian-lhjiguq74flhatdxnbrnzhjg-acp.md) — 面基 episode with 李闯 on 《辞职上山》, Wudang Daoist life, fieldnote writing, folk belief as last-resort support, Chinese-medicine uncertainty, circular/linear time, and 逍遥 as freedom inside ordinary constraints.
 - [179.先救日元再救长债，“救火队长”贝森特在走一条怎样的钢丝？](sources/179-xian-jiu-riyuan-zai-jiu-changzhai-jiuhuoduizhang-beisente-zai-zou-yi-tiao-zenyang-de-gangsi-lqjc6vz-1ungnkpdw9d5kbsa-ouo.md) — 起朱楼宴宾客 episode reading Scott Bessent's yen intervention, FIMA Repo push, Treasury buybacks, stablecoin demand, and Fed pressure as one fragile U.S. financing toolkit.
 - [汽水音乐冲击腾讯、网易，特斯拉等车企在国内开展大规模召回](sources/qishui-yinyue-chongji-tengxun-wangyi-tesila-deng-cheqi-zai-guonei-kaizhan-daguimo-zhaohui-1008396395.md) — 声动早咖啡 episode linking a major China vehicle recall, Apple foldable/Vision Pro pressure, efficiency-over-expansion cases, Premier League sponsorship changes, and Qishui Music's pressure on Tencent Music and NetEase Cloud Music.
 - [YETI: Ron and Ryan Seiders. How Two Brothers Turned a $400 Cooler Into a $2 Billion Brand](sources/yeti-ron-and-ryan-seiders-how-two-brothers-turned-a-400-cooler-into-a-2-billion-brand-d7f8e0e8-51a5-4444-8c1d-f5c43c353285.md) — How I Built This episode on Roy and Ryan Seiders building YETI through rotomolded cooler durability, specialty retail, proof-led marketing, supplier-risk recovery, and Rambler drinkware expansion.
@@ -1458,6 +1459,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [李闯 / Li Chuang](entities/LiChuang.md) — Writer and 面基 guest connecting anthropology, Wudang volunteer life, fieldnotes, Chinese-medicine study, and freedom under ordinary constraints.
+- [《辞职上山》](entities/CizhiShangShan.md) — Li Chuang book used by the 面基 episode to demystify quitting, Wudang life, Daoist practice, and mountain retreat as escape.
+- [Quanzhen Daoism / 全真道教](entities/QuanzhenDaoism.md) — Source-scoped Wudang Daoist institutional frame for lessons, recitation, temple duties, and varied cultivation practice.
+- [真武大帝 / Zhenwu Dadi](entities/ZhenwuDadi.md) — Daoist deity used in the Wudang source to show internal religious order and boundaries around folk-help-seeking.
 - [Scott Bessent / 贝森特](entities/ScottBessent.md) — U.S. Treasury figure read by Qizhulou as a trader-style policy operator balancing yen defense, Treasury demand, buybacks, and dollar dominance.
 - [George Soros](entities/GeorgeSoros.md) — Macro investor appearing as the hedge-fund context for Bessent's sterling and yen trading background.
 - [Tencent Music / 腾讯音乐](entities/TencentMusic.md) — Tencent online-music incumbent pressured by Qishui Music's Douyin-backed distribution in the 2026-08-25 声动早咖啡 source.
@@ -4095,7 +4100,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dongfeng Motor / 东风汽车](entities/DongfengMotor.md) — Auto company successor to 二汽 whose headquarters move to Wuhan is the turning point in the Shiyan source.
 - [Second Automobile Works / 二汽](entities/SecondAutomobileWorks.md) — Third Front auto project that created Shiyan as an industrial city and later became Dongfeng Motor.
 - [城市就是这样](entities/ChengshiJiushiZheyang.md) — 商业就是这样 city-observation series context for the Shiyan auto-city episode.
-- [Wudang Mountain / 武当山](entities/WudangMountain.md) — Shiyan tourism and cultural anchor named as part of the city's non-auto diversification.
+- [Wudang Mountain / 武当山](entities/WudangMountain.md) — Shiyan tourism anchor and Wudang Daoist-life setting where the 面基 source connects scenic-area pressure, temple labor, and retreat demystification.
 - [Danjiangkou Reservoir / 丹江口水库](entities/DanjiangkouReservoir.md) — Water-resource anchor for Shiyan tied in the source to South-to-North Water Transfer and bottled-water production.
 - [South-to-North Water Transfer Project / 南水北调](entities/SouthToNorthWaterTransferProject.md) — National water infrastructure referenced through Danjiangkou Reservoir in the Shiyan episode.
 - [Envision AESC / 远景动力](entities/EnvisionAESC.md) — Battery-production company named as a Shiyan diversification anchor.
@@ -7046,7 +7051,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《起死》](entities/QiSi.md) — 《故事新编》 story reversing the 庄子 skull tradition by making resurrection collide with material loss and survival.
 - [大禹 / Yu the Great](entities/YuTheGreat.md) — Mythic flood-control figure recast in 《理水》 as the dirty, practical worker-ruler opposed to insulated scholars and officials.
 - [顾颉刚](entities/GuJiegang.md) — Historian and 古史辨 figure used by episode 75 as the source-scoped target behind the "禹是一条虫" allusion.
-- [庄子](entities/Zhuangzi.md) — Philosopher figure in 《起死》 whose 齐物论 language fails before 杨大的 concrete demands.
+- [庄子](entities/Zhuangzi.md) — Philosopher figure used both in 《起死》's 齐物论 satire and in the 面基 source's 逍遥-as-non-dependence freedom frame.
 - [《齐物论》](entities/QiWuLun.md) — Zhuangzi text used in 《起死》 as both philosophical language and status capital.
 - [杨大](entities/YangDa.md) — Resurrected skull figure in 《起死》 whose demand for clothes, baggage, and survival punctures metaphysical consolation.
 - [郭沫若](entities/GuoMoruo.md) — Writer used source-scopingly as an example of opportunistic reversal around attacks on and later praise for 鲁迅.
@@ -8488,7 +8493,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [运雷](entities/YunLei.md) — 面基 guest and fund manager explaining efficient-frontier asset allocation, correlation research, and FOF product design.
 - [南方全球](entities/NanfangQuanqiu.md) — QDII fund/product context used to discuss overseas ETF, bond, commodity, REIT, and active-fund allocation tooling.
 - [COWZ](entities/COWZ.md) — Free-cash-flow ETF/index example used as a possible S&P 500 substitute when expected return improves without losing correlation fit.
-- [面基](entities/Mianji.md) — Podcast/show context for investing, asset allocation, fixed-income-plus wealth management, embodied judgment, AI workflow, nonfiction, reading, midlife infrastructure, and talent group livestreaming fieldwork.
+- [面基](entities/Mianji.md) — Podcast/show context for investing, asset allocation, fixed-income-plus wealth management, embodied judgment, AI workflow, nonfiction, reading, midlife infrastructure, fieldwork, and Wudang life-design branches.
 - [43talks](entities/FortyThreeTalks.md) — Offline "AI + X" discussion format used as a frame-collision practice in the 面基 reading episode.
 - [关雅迪](entities/GuanYadi.md) — 面基 guest whose endurance running, ocean sailing, climbing, and life-design stories ground trained intuition and embodied judgment.
 - [青岛号](entities/QingdaoClipperYacht.md) — Ocean-racing boat used by E161 to explain team risk, weather uncertainty, captain judgment, and performance under physical stress.
@@ -8993,6 +8998,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Daoist Temple Everyday Labor / 道观日常劳动](concepts/DaoistTempleEverydayLabor.md) — Wudang source concept showing sacred practice as schedules, chores, altar duty, security shifts, visitors, weather, and ordinary institutional work.
+- [Fieldnote To Public Writing / 田野笔记到公共写作](concepts/FieldnoteToPublicWriting.md) — Li Chuang method for separating observation from subjective response before turning lived records into public nonfiction.
+- [Belief As Last-Resort Support / 信仰作为最后退路](concepts/BeliefAsLastResortSupport.md) — Social reading of religious recourse when medical, financial, emotional, or institutional options have narrowed.
+- [Circular And Linear Time Tension / 环形时间与线性时间张力](concepts/CircularLinearTimeTension.md) — Contrast between seasonal return and modern progress time, including the pressures and freedoms each can create.
+- [Xiaoyao As Non-Dependence / 逍遥作为不被外物左右](concepts/XiaoyaoAsNonDependence.md) — Daoist-inflected freedom frame where ordinary constraints remain but external scoring has less control over the self.
+- [Medicine As Way-Seeking / 以医入道](concepts/MedicineAsWaySeeking.md) — Li Chuang's source-scoped frame for using medical study to approach life, body, uncertainty, and social causes of illness.
+- [Retreat Romance Deflation / 退隐浪漫祛魅](concepts/RetreatRomanceDeflation.md) — Demystification pattern showing that quitting, retreat, and mountain life still require handling bodies, work, money, weather, and institutions.
 - [Bessent Impossible Triangle / 贝森特不可能三角](concepts/BessentImpossibleTriangle.md) — Qizhulou frame for the tension between U.S. trade-deficit reduction, dollar dominance, and continued foreign Treasury demand.
 - [Treasury Demand Substitution](concepts/TreasuryDemandSubstitution.md) — Policy bundle using stablecoins, bank balance sheets, FIMA Repo, buybacks, maturity shifts, and Fed pressure to replace or support Treasury-market absorption.
 - [FIMA Repo Backstop](concepts/FIMARepoBackstop.md) — Use of the Fed's foreign official repo facility as a liquidity bridge so currency intervention need not force Treasury sales.
