@@ -2,11 +2,13 @@
 title: "Li-Ning"
 type: entity
 tags: [company, footwear, china, sports]
-sources: [xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195, e241-paoxie-jishu-diedaishi-malasong-paojin-2-xiaoshi-kao-ren-haishi-kao-xie]
-last_updated: 2026-08-16
+sources: [qishui-yinyue-chongji-tengxun-wangyi-tesila-deng-cheqi-zai-guonei-kaizhan-daguimo-zhaohui-1008396395, xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195, e241-paoxie-jishu-diedaishi-malasong-paojin-2-xiaoshi-kao-ren-haishi-kao-xie]
+last_updated: 2026-08-25
 ---
 
 # Li-Ning
+
+[[qishui-yinyue-chongji-tengxun-wangyi-tesila-deng-cheqi-zai-guonei-kaizhan-daguimo-zhaohui-1008396395]] adds an operating-performance update. The source says Li-Ning's first-half revenue rose 2.8% and profit returned to growth after three years of decline, while store count fell slightly and the company emphasized testing new categories before expanding them. It also says the June 2026 [[CurryBrand|Curry Brand]] cooperation is meant to create deeper brand binding.
 
 Li-Ning is a Chinese sportswear brand discussed in [[e241-paoxie-jishu-diedaishi-malasong-paojin-2-xiaoshi-kao-ren-haishi-kao-xie]] as one of the domestic companies that had already explored sub-100-gram concept racing shoes before [[AdidasAdiosProEvo3]] became the source's main production-race case. The source places Li-Ning inside the broader Chinese running-shoe catch-up story.
 
@@ -18,8 +20,10 @@ Li-Ning is a Chinese sportswear brand discussed in [[e241-paoxie-jishu-diedaishi
 - The challenge is to move from learning foreign technical directions to creating leading innovation.
 - The 声动早咖啡 source keeps the Mbappe report as a market rumor, not a completed endorsement.
 - The same source makes Li-Ning's recent Curry-brand cooperation part of why the Mbappe rumor was plausible to observers.
+- The 2026-08-25 声动早咖啡 source adds that Li-Ning is prioritizing category validation, profit recovery, and deeper athlete-brand cooperation over store-count expansion.
 
 ## Connections
 - [[Xtep]], [[QiaodanSports]], and [[361Degrees]] — Chinese peers in the source.
 - [[AdidasAdiosProEvo3]], [[PerformanceFootwearMarket]], and [[RunningShoeTechnology]] — related themes.
 - [[KylianMbappe]], [[Nike]], and [[AthleteSponsorshipStrategy]] — rumor-denial and star-sponsorship branch added by 声动早咖啡.
+- [[CurryBrand]] and [[EfficiencyOverScaleExpansion]] - operating and sponsorship branch added by the later 声动早咖啡 source.

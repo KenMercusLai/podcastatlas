@@ -6,8 +6,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [汽水音乐冲击腾讯、网易，特斯拉等车企在国内开展大规模召回](sources/qishui-yinyue-chongji-tengxun-wangyi-tesila-deng-cheqi-zai-guonei-kaizhan-daguimo-zhaohui-1008396395.md) — 声动早咖啡 episode linking a major China vehicle recall, Apple foldable/Vision Pro pressure, efficiency-over-expansion cases, Premier League sponsorship changes, and Qishui Music's pressure on Tencent Music and NetEase Cloud Music.
 - [YETI: Ron and Ryan Seiders. How Two Brothers Turned a $400 Cooler Into a $2 Billion Brand](sources/yeti-ron-and-ryan-seiders-how-two-brothers-turned-a-400-cooler-into-a-2-billion-brand-d7f8e0e8-51a5-4444-8c1d-f5c43c353285.md) — How I Built This episode on Roy and Ryan Seiders building YETI through rotomolded cooler durability, specialty retail, proof-led marketing, supplier-risk recovery, and Rambler drinkware expansion.
 - [《资治通鉴·汉纪》923 plus丨乱世风云起：芮淇揭秘史上最真实的三国](sources/zizhi-tongjian-hanji-923-plus-luanshi-fengyun-qi-ruiqi-jiemi-shishang-zui-zhenshi-de-sanguo-lj0ic-bhawqut5zbutbzd0orxjoe.md) — 芮淇讲透资治通鉴 prologue setting up the Three Kingdoms arc as a historical-source and struggle-strategy reading rather than only Romance memory.
+- [《资治通鉴·汉纪》924丨1%的错误=100%的失败](sources/zizhi-tongjian-hanji-924-1-de-cuowu-100-de-shibai-lmeo7vufm6ib5lni6p49rponazut.md) — 芮淇讲透资治通鉴 episode backfilling the opening 184 CE Yellow Turban emergency, party-ban crisis amnesty, palace-insider exposure, and eunuch-channel retaliation against corrective speakers.
 - [《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮](sources/zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4.md) — 芮淇讲透资治通鉴 episode on Gongsun Hong's compromise logic, Cao Cao's early law-enforcement signal, and the Changshe fire attack against Bo Cai's Yellow Turban force.
 - [《资治通鉴·汉纪》926丨真正的强者，都懂得“造势”](sources/zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc.md) — 芮淇讲透资治通鉴 episode on Cao Cao's early reputation-making through He Yong, Qiao Xuan, Xu Shao's 月旦品, the "能臣/奸雄" label, and anti-eunuch signaling from a eunuch-family background.
 - [《资治通鉴·汉纪》927丨做生意的最高境界是什么？](sources/zizhi-tongjian-hanji-927-zuo-shengyi-de-zuigao-jingjie-shi-shenme-lngfbjn6xui9k-9lp-ihdqkhpbpr.md) — 芮淇讲透资治通鉴 episode on Fu Xie's warning about eunuch-rooted Yellow Turban disorder, Zhang Mancheng's Nanyang branch, Jia Cong's Jiaozhi pacification, and source-scoped business composure.
@@ -1455,6 +1457,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Tencent Music / 腾讯音乐](entities/TencentMusic.md) — Tencent online-music incumbent pressured by Qishui Music's Douyin-backed distribution in the 2026-08-25 声动早咖啡 source.
+- [NetEase Cloud Music / 网易云音乐](entities/NetEaseCloudMusic.md) — NetEase music product compared with Qishui Music after source-cited user and profit pressure.
+- [Oriental Selection / 东方甄选](entities/OrientalSelection.md) — Livestream-commerce company shifting toward self-operated products, supply-chain standardization, and lower anchor dependence.
+- [Dreame / 追觅](entities/Dreame.md) — Consumer-hardware company whose car project is described as shrinking after fast hiring and unresolved manufacturing/financing gates.
+- [Beike / 贝壳](entities/Beike.md) — Chinese real-estate platform used as a profit-through-efficiency case as second-hand transactions become more important.
+- [Curry Brand](entities/CurryBrand.md) — Basketball star brand linked to Li-Ning's 2026 deeper athlete-brand cooperation.
 - [YETI](entities/YETI.md) — Outdoor cooler and drinkware brand built by Roy and Ryan Seiders from a premium rotomolded cooler niche into a broader consumer brand.
 - [Roy Seiders](entities/RoySeiders.md) — YETI co-founder who moved from boat-building and Icy Tech distribution into product design, operations, and CEO responsibility.
 - [Ryan Seiders](entities/RyanSeiders.md) — YETI co-founder whose wildlife, rod-building, and sales background helped build the specialty-retail channel.
@@ -1468,6 +1476,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [YETI Tundra](entities/YETITundra.md) — Hard-cooler product line that made YETI's rugged premium positioning visible.
 - [YETI Rambler](entities/YETIRambler.md) — Drinkware line that gave YETI a lower-price mass-appeal entry point.
 - [三国时代 / Three Kingdoms Period](entities/ThreeKingdomsPeriod.md) — Historical-period node introduced by Hanji 923 plus as the upcoming field for long-game struggle strategy and source-vs-Romance reading.
+- [封谞 / Feng Xu (late Han)](entities/FengXuLateHan.md) — Eunuch exposed in Hanji 924 as an inside contact for Zhang Jiao during the Yellow Turban emergency.
+- [吕强 / Lyu Qiang (late Han)](entities/LyuQiangLateHan.md) — Eunuch adviser who urges party-ban amnesty and anti-corruption measures before Zhao Zhong and Xia Yun's accusation drives his suicide.
+- [夏韵 / Xia Yun (late Han)](entities/XiaYunLateHan.md) — Eunuch favorite who joins Zhao Zhong in accusing Lyu Qiang after his crisis-repair advice.
+- [项诩 / Xiang Xu (late Han)](entities/XiangXuLateHan.md) — Henei attendant official whose anti-eunuch memorial is reframed by Zhang Rang as Yellow Turban collusion.
+- [徐奉 / Xu Feng (late Han)](entities/XuFengLateHan.md) — Eunuch exposed with Feng Xu as a Zhang Jiao insider, showing palace-favorite culpability in the Yellow Turban crisis.
+- [张钧 / Zhang Jun (late Han)](entities/ZhangJunLateHan.md) — Zhongshan langzhong whose anti-Ten-Attendants memorial is shown to the eunuchs and recoded into a fatal Yellow Turban accusation.
 - [公孙弘 / Gongsun Hong](entities/GongsunHong.md) — Western Han official used in Hanji 925 as a case of compromise without losing agency.
 - [波才 / Bo Cai (late Han)](entities/BoCaiLateHan.md) — Yellow Turban commander whose force defeats Zhu Jun before collapsing under Huangfu Song's Changshe fire-attack design.
 - [长社之战 / Changshe Battle (late Han)](entities/ChangsheBattleLateHan.md) — 184 CE battle where Huangfu Song uses retreat, harassment, and fire attack against Bo Cai's Yellow Turban force.
@@ -8976,12 +8990,19 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Vehicle Emergency Handle Usability](concepts/VehicleEmergencyHandleUsability.md) — Automotive safety affordance issue where emergency mechanical handles must be visible and usable in crash conditions.
+- [Short-Video Music Distribution](concepts/ShortVideoMusicDistribution.md) — Platform pattern where short-video discovery and traffic reshape music-app competition.
+- [Hotel Retail Flywheel](concepts/HotelRetailFlywheel.md) — Hospitality-retail pattern where in-stay product trial turns hotel bedding and comfort goods into consumer sales.
+- [Efficiency Over Scale Expansion](concepts/EfficiencyOverScaleExpansion.md) — Business shift from traffic, store, headcount, and network growth toward operating efficiency and channel discipline.
+- [Sports Betting Sponsorship Exit](concepts/SportsBettingSponsorshipExit.md) — Football sponsorship shift as betting sponsors leave restricted shirt inventory and other global brands enter.
 - [Rotomolded Cooler Category](concepts/RotomoldedCoolerCategory.md) — Durable cooler category using thick polyethylene rotomolding to justify premium outdoor use.
 - [Specialty Retail Beachhead](concepts/SpecialtyRetailBeachhead.md) — Distribution pattern where narrow expert retailers educate and validate a premium product before mass retail.
 - [Demonstration Led Product Proof](concepts/DemonstrationLedProductProof.md) — Proof pattern where visible tests make a product's premium performance claim believable.
 - [Supplier Concentration Crisis](concepts/SupplierConcentrationCrisis.md) — Manufacturing risk where a growing company depends too heavily on one factory, geography, or key person.
 - [Accessible Entry Point Brand Extension](concepts/AccessibleEntryPointBrandExtension.md) — Brand-extension pattern where a lower-price product lets more customers participate without abandoning the premium promise.
 - [三国斗争策略读法 / Three Kingdoms Struggle Strategy Reading](concepts/ThreeKingdomsStruggleStrategyReading.md) — Hanji 923 plus frame for reading Three Kingdoms through repeated conflict, shifting alliances, and historical-source discipline.
+- [Party-Ban Crisis Amnesty / 党锢危机赦免](concepts/PartyBanCrisisAmnesty.md) — Hanji 924 emergency-repair move where releasing banned party figures and their families rebuilds crisis capacity against the Yellow Turban uprising.
+- [Small Error Systemic Failure / 细小错误系统性放大](concepts/SystemicErrorAmplification.md) — Hanji 924 frame for how a small institutional flaw becomes total failure when court access capture amplifies errors under crisis pressure.
 - [Strategic Compromise as Agency / 策略性妥协保全机会](concepts/StrategicCompromiseAsAgency.md) — compromise pattern where a second-best adjustment preserves influence and future action.
 - [Status-Conditioned Risk Taking / 地位条件化行动尺度](concepts/StatusConditionedRiskTaking.md) — risk pattern where rank, backing, and office change what actions are survivable.
 - [Local Private AI](concepts/LocalPrivateAI.md) — Pattern where AI runs against private user data on the user's own machine rather than exposing files, prompts, or queries to cloud services.

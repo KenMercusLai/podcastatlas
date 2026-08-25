@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 7523
+wiki_total_pages: 7529
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -197,6 +197,9 @@ wiki_pages:
   - key: "TencentMeeting"
     title: "Tencent Meeting"
     url: "/wiki/entities/tencentmeeting/"
+  - key: "TencentMusic"
+    title: "Tencent Music / 腾讯音乐"
+    url: "/wiki/entities/tencentmusic/"
   - key: "TencentTEG"
     title: "Tencent TEG"
     url: "/wiki/entities/tencentteg/"

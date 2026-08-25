@@ -1569,8 +1569,8 @@
       "earliest_episode_date": "2021-07-08",
       "latest_episode_date": "2026-08-24",
       "latest_episode_file": "汽水音乐冲击腾讯、网易，特斯拉等车企在国内开展大规模召回 [1008396395].md",
-      "source_note_count": 16,
-      "topic_matched_source_note_count": 11,
+      "source_note_count": 17,
+      "topic_matched_source_note_count": 12,
       "topics": [
         {
           "key": "technology",
@@ -1579,15 +1579,15 @@
           "source_note_count": 8
         },
         {
-          "key": "economics",
-          "label": "Economics",
-          "url": "/topics/economics/",
-          "source_note_count": 2
-        },
-        {
           "key": "culture",
           "label": "Culture",
           "url": "/topics/culture/",
+          "source_note_count": 3
+        },
+        {
+          "key": "economics",
+          "label": "Economics",
+          "url": "/topics/economics/",
           "source_note_count": 2
         }
       ],
@@ -1597,12 +1597,19 @@
           "title": "Apple",
           "url": "/wiki/entities/apple/",
           "kind": "organization",
-          "episode_count": 4
+          "episode_count": 5
         },
         {
           "key": "ByteDance",
           "title": "ByteDance",
           "url": "/wiki/entities/bytedance/",
+          "kind": "organization",
+          "episode_count": 4
+        },
+        {
+          "key": "Xiaomi",
+          "title": "Xiaomi",
+          "url": "/wiki/entities/xiaomi/",
           "kind": "organization",
           "episode_count": 4
         },
@@ -1614,9 +1621,9 @@
           "episode_count": 3
         },
         {
-          "key": "Xiaomi",
-          "title": "Xiaomi",
-          "url": "/wiki/entities/xiaomi/",
+          "key": "Tesla",
+          "title": "Tesla",
+          "url": "/wiki/entities/tesla/",
           "kind": "organization",
           "episode_count": 3
         },
@@ -1640,20 +1647,13 @@
           "url": "/wiki/entities/amctheatres/",
           "kind": "organization",
           "episode_count": 2
-        },
-        {
-          "key": "Baidu",
-          "title": "Baidu",
-          "url": "/wiki/entities/baidu/",
-          "kind": "organization",
-          "episode_count": 2
         }
       ],
       "start_here_episode_files": [
         "咖啡豆｜传统美食广场接连闭店，「大食代们」遇到哪些发展阻碍？ [1007530222].md",
+        "汽水音乐冲击腾讯、网易，特斯拉等车企在国内开展大规模召回 [1008396395].md",
         "咖啡豆｜「和牛自由」成自助餐厅卖点，贵价光环从何而来？ [1004978054].md",
-        "咖啡豆｜两次遭遇苹果冲击，运动手表佳明为何还能增长？ [1006272684].md",
-        "汽水音乐冲击腾讯、网易，特斯拉等车企在国内开展大规模召回 [1008396395].md"
+        "越卖越贵的「山下有松们」，如何持续抢占轻奢包袋市场？ [1008110631].md"
       ]
     },
     "张小珺Jùn｜商业访谈录": {

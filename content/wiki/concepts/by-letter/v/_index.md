@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "v"
-wiki_total_pages: 5420
+wiki_total_pages: 5425
 wiki_pages:
   - key: "VacationShame"
     title: "Vacation Shame / 休假羞耻感"
@@ -38,6 +38,9 @@ wiki_pages:
   - key: "VectorModelEngineering"
     title: "Vector Model Engineering"
     url: "/wiki/concepts/vectormodelengineering/"
+  - key: "VehicleEmergencyHandleUsability"
+    title: "Vehicle Emergency Handle Usability"
+    url: "/wiki/concepts/vehicleemergencyhandleusability/"
   - key: "VeilOfIgnorance"
     title: "Veil Of Ignorance"
     url: "/wiki/concepts/veilofignorance/"

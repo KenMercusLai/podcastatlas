@@ -2,11 +2,13 @@
 title: "Foldable Phone Productivity"
 type: concept
 tags: [smartphones, consumer-electronics, product-design, ai]
-sources: [ai-shidai-de-chaoji-rukou-haishi-shouji-ma-s10e17-523a0d42-4c16-4dd6-a2ab-9277fec1a731, 268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs]
-last_updated: 2026-07-09
+sources: [qishui-yinyue-chongji-tengxun-wangyi-tesila-deng-cheqi-zai-guonei-kaizhan-daguimo-zhaohui-1008396395, ai-shidai-de-chaoji-rukou-haishi-shouji-ma-s10e17-523a0d42-4c16-4dd6-a2ab-9277fec1a731, 268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs]
+last_updated: 2026-08-25
 ---
 
 # Foldable Phone Productivity
+
+[[qishui-yinyue-chongji-tengxun-wangyi-tesila-deng-cheqi-zai-guonei-kaizhan-daguimo-zhaohui-1008396395]] adds the Apple-market-test version. The source says a reported foldable [[IPhone|iPhone]] would cost more than USD 2,000 while omitting telephoto and Face ID, so the productivity and China-market appeal have to be strong enough to overcome premium pricing and feature tradeoffs.
 
 Foldable Phone Productivity is the value test for foldable phones in [[ai-shidai-de-chaoji-rukou-haishi-shouji-ma-s10e17-523a0d42-4c16-4dd6-a2ab-9277fec1a731]]. [[HanBoxiao]] argues that early foldables had obvious screen-size advantages but also visible weaknesses in weight, battery life, heat, camera quality, crease, and durability. Once those baseline weaknesses improve, the remaining question is whether users open the larger screen because it helps them do more.
 
@@ -21,6 +23,7 @@ The episode treats foldables as a device form between phone, tablet, and PC. The
 - The system must manage heat, battery, NPU, CPU, GPU, display, and foreground smoothness, so foldable productivity depends on [[OnDeviceAI]] and [[HandsetChipCoDesign]] rather than industrial design alone.
 - Foldables are better framed as reducing "must open the laptop" moments than as replacing PCs outright.
 - The larger canvas can make [[MultiAgentCollaboration]] visible when users compare multiple AI answers or assign adjacent windows different AI roles.
+- Apple adds a price-and-feature-tradeoff test: if a foldable phone costs more than a flagship slab phone while losing camera or biometric features, the open-screen job must be unusually clear.
 
 ## Connections
 - [[Vivo]] and [[HanBoxiao]] — source company and product speaker.
@@ -29,3 +32,4 @@ The episode treats foldables as a device form between phone, tablet, and PC. The
 - [[OnDeviceAI]], [[HandsetChipCoDesign]], and [[EdgeCloudAIBoundary]] — system and AI requirements behind productive foldable use.
 - [[MobileAIWorkstation]], [[AIFileManagement]], and [[MultiAgentCollaboration]] — task, file, and multi-agent extensions added by episode 268.
 - [[ConsumerElectronicsLifecycle]] — foldables must move beyond novelty to a repeated, durable use case.
+- [[Apple]] and [[IPhone]] - reported foldable-iPhone market-test branch added by 声动早咖啡.

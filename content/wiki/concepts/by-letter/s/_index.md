@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 5420
+wiki_total_pages: 5425
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -506,6 +506,9 @@ wiki_pages:
   - key: "ShortVideoCreationTools"
     title: "Short-Video Creation Tools"
     url: "/wiki/concepts/shortvideocreationtools/"
+  - key: "ShortVideoMusicDistribution"
+    title: "Short-Video Music Distribution"
+    url: "/wiki/concepts/shortvideomusicdistribution/"
   - key: "ShroudedJobAttributes"
     title: "Shrouded Job Attributes"
     url: "/wiki/concepts/shroudedjobattributes/"
@@ -887,6 +890,9 @@ wiki_pages:
   - key: "SportsBettingEngagement"
     title: "Sports Betting Engagement"
     url: "/wiki/concepts/sportsbettingengagement/"
+  - key: "SportsBettingSponsorshipExit"
+    title: "Sports Betting Sponsorship Exit"
+    url: "/wiki/concepts/sportsbettingsponsorshipexit/"
   - key: "SportsBroadcastPublicAccess"
     title: "Sports Broadcast Public Access"
     url: "/wiki/concepts/sportsbroadcastpublicaccess/"

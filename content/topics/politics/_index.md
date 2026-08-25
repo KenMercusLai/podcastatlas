@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1842
+topic_total_pages: 1843
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -2431,6 +2431,9 @@ topic_concepts:
   - key: "SplitGlobalization"
     title: "Split Globalization / 分裂的全球化"
     url: "/wiki/concepts/splitglobalization/"
+  - key: "SportsBettingSponsorshipExit"
+    title: "Sports Betting Sponsorship Exit"
+    url: "/wiki/concepts/sportsbettingsponsorshipexit/"
   - key: "SportsBroadcastingAct"
     title: "Sports Broadcasting Act"
     url: "/wiki/concepts/sportsbroadcastingact/"

@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 1830
+topic_total_pages: 1831
 topic_concepts:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -832,6 +832,9 @@ topic_concepts:
   - key: "EffectiveTariffRateShock"
     title: "Effective Tariff Rate Shock"
     url: "/wiki/concepts/effectivetariffrateshock/"
+  - key: "EfficiencyOverScaleExpansion"
+    title: "Efficiency Over Scale Expansion"
+    url: "/wiki/concepts/efficiencyoverscaleexpansion/"
   - key: "EfficientFrontier"
     title: "Efficient Frontier"
     url: "/wiki/concepts/efficientfrontier/"

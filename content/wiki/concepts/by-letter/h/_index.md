@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 5420
+wiki_total_pages: 5425
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -407,6 +407,9 @@ wiki_pages:
   - key: "HotelPMSInventoryControl"
     title: "Hotel PMS Inventory Control"
     url: "/wiki/concepts/hotelpmsinventorycontrol/"
+  - key: "HotelRetailFlywheel"
+    title: "Hotel Retail Flywheel"
+    url: "/wiki/concepts/hotelretailflywheel/"
   - key: "HotelServiceSOPHumanCeiling"
     title: "Hotel Service SOP And Human Ceiling"
     url: "/wiki/concepts/hotelservicesophumanceiling/"

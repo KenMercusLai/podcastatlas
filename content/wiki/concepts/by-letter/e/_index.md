@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 5420
+wiki_total_pages: 5425
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -134,6 +134,9 @@ wiki_pages:
   - key: "EffectiveTariffRateShock"
     title: "Effective Tariff Rate Shock"
     url: "/wiki/concepts/effectivetariffrateshock/"
+  - key: "EfficiencyOverScaleExpansion"
+    title: "Efficiency Over Scale Expansion"
+    url: "/wiki/concepts/efficiencyoverscaleexpansion/"
   - key: "EfficientFrontier"
     title: "Efficient Frontier"
     url: "/wiki/concepts/efficientfrontier/"

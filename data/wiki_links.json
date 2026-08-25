@@ -6023,6 +6023,10 @@
     "title": "北京东方新天地 / Beijing Oriental Plaza",
     "url": "/wiki/entities/beijingorientalplaza/"
   },
+  "Beike": {
+    "title": "Beike / 贝壳",
+    "url": "/wiki/entities/beike/"
+  },
   "Beimin": {
     "title": "北明 / 北民",
     "url": "/wiki/entities/beimin/"
@@ -11723,6 +11727,10 @@
     "title": "Currency Risk",
     "url": "/wiki/concepts/currencyrisk/"
   },
+  "CurryBrand": {
+    "title": "Curry Brand",
+    "url": "/wiki/entities/currybrand/"
+  },
   "CursedBunny": {
     "title": "《诅咒兔》 / Cursed Bunny",
     "url": "/wiki/entities/cursedbunny/"
@@ -13831,6 +13839,10 @@
     "title": "Dream Parenthood Ambiguity / 梦中亲子暧昧",
     "url": "/wiki/concepts/dreamparenthoodambiguity/"
   },
+  "Dreame": {
+    "title": "Dreame / 追觅",
+    "url": "/wiki/entities/dreame/"
+  },
   "DrewHarwell": {
     "title": "Drew Harwell",
     "url": "/wiki/entities/drewharwell/"
@@ -14502,6 +14514,10 @@
   "EffectiveTariffRateShock": {
     "title": "Effective Tariff Rate Shock",
     "url": "/wiki/concepts/effectivetariffrateshock/"
+  },
+  "EfficiencyOverScaleExpansion": {
+    "title": "Efficiency Over Scale Expansion",
+    "url": "/wiki/concepts/efficiencyoverscaleexpansion/"
   },
   "EfficientFrontier": {
     "title": "Efficient Frontier",
@@ -21422,6 +21438,10 @@
   "HotelPlatformPricingPower": {
     "title": "Hotel Platform Pricing Power",
     "url": "/wiki/concepts/hotelplatformpricingpower/"
+  },
+  "HotelRetailFlywheel": {
+    "title": "Hotel Retail Flywheel",
+    "url": "/wiki/concepts/hotelretailflywheel/"
   },
   "HotelServiceSOPHumanCeiling": {
     "title": "Hotel Service SOP And Human Ceiling",
@@ -32331,6 +32351,10 @@
     "title": "NetEase",
     "url": "/wiki/entities/netease/"
   },
+  "NetEaseCloudMusic": {
+    "title": "NetEase Cloud Music / 网易云音乐",
+    "url": "/wiki/entities/neteasecloudmusic/"
+  },
   "NetEaseKaola": {
     "title": "网易考拉 / NetEase Kaola",
     "url": "/wiki/entities/neteasekaola/"
@@ -33850,6 +33874,10 @@
   "Orienspace": {
     "title": "Orienspace / 东方空间",
     "url": "/wiki/entities/orienspace/"
+  },
+  "OrientalSelection": {
+    "title": "Oriental Selection / 东方甄选",
+    "url": "/wiki/entities/orientalselection/"
   },
   "OrientalistMysteryMisdirection": {
     "title": "东方主义谜题误导 / Orientalist Mystery Misdirection",
@@ -41359,6 +41387,10 @@
     "title": "Short-Video Creation Tools",
     "url": "/wiki/concepts/shortvideocreationtools/"
   },
+  "ShortVideoMusicDistribution": {
+    "title": "Short-Video Music Distribution",
+    "url": "/wiki/concepts/shortvideomusicdistribution/"
+  },
   "ShoshiminSeries": {
     "title": "《小市民》系列",
     "url": "/wiki/entities/shoshiminseries/"
@@ -42510,6 +42542,10 @@
   "SportsBettingEngagement": {
     "title": "Sports Betting Engagement",
     "url": "/wiki/concepts/sportsbettingengagement/"
+  },
+  "SportsBettingSponsorshipExit": {
+    "title": "Sports Betting Sponsorship Exit",
+    "url": "/wiki/concepts/sportsbettingsponsorshipexit/"
   },
   "SportsBroadcastPublicAccess": {
     "title": "Sports Broadcast Public Access",
@@ -44774,6 +44810,10 @@
   "TencentMeeting": {
     "title": "Tencent Meeting",
     "url": "/wiki/entities/tencentmeeting/"
+  },
+  "TencentMusic": {
+    "title": "Tencent Music / 腾讯音乐",
+    "url": "/wiki/entities/tencentmusic/"
   },
   "TencentTEG": {
     "title": "Tencent TEG",
@@ -47234,6 +47274,10 @@
   "VectorModelEngineering": {
     "title": "Vector Model Engineering",
     "url": "/wiki/concepts/vectormodelengineering/"
+  },
+  "VehicleEmergencyHandleUsability": {
+    "title": "Vehicle Emergency Handle Usability",
+    "url": "/wiki/concepts/vehicleemergencyhandleusability/"
   },
   "VeilOfIgnorance": {
     "title": "Veil Of Ignorance",
@@ -54474,6 +54518,10 @@
   "qiquan-zhe-zhang-bing-weishenme-yuelaiyue-nanchi-le-1": {
     "title": "期权这张饼，为什么越来越难吃了？",
     "url": "/wiki/sources/qiquan-zhe-zhang-bing-weishenme-yuelaiyue-nanchi-le-1/"
+  },
+  "qishui-yinyue-chongji-tengxun-wangyi-tesila-deng-cheqi-zai-guonei-kaizhan-daguimo-zhaohui-1008396395": {
+    "title": "汽水音乐冲击腾讯、网易，特斯拉等车企在国内开展大规模召回",
+    "url": "/wiki/sources/qishui-yinyue-chongji-tengxun-wangyi-tesila-deng-cheqi-zai-guonei-kaizhan-daguimo-zhaohui-1008396395/"
   },
   "quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec": {
     "title": "全面压制，不留空档：字节跳动如何做增长？｜字节跳动 第7集",

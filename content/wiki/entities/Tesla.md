@@ -2,11 +2,13 @@
 title: "Tesla"
 type: entity
 tags: [company, ev, batteries, investing, technology, autonomous-driving]
-sources: [lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506, kafeidou-chuantong-meishi-guangchang-jielian-bidian-dashidaimen-yudao-naxie-fazhan-zuai-1007530222, an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c, the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4, tech-20251231-1231-mp-tech-pod-128-tech-20251231-1231-mp-tech-pod-128, tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128, e244-duan-dao-duan-vs-shangxia-fenceng-jiqiren-lujing-zhizheng-zhengzai-zhuanxiang-fc9a3737-81a9-49cf-a7d6-530c77df836e, jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, e229-cong-shougong-zuofang-dao-quanqiu-diyi-zhongguo-dongli-dianchi-nixi-shi, momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1]
-last_updated: 2026-08-24
+sources: [qishui-yinyue-chongji-tengxun-wangyi-tesila-deng-cheqi-zai-guonei-kaizhan-daguimo-zhaohui-1008396395, lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506, kafeidou-chuantong-meishi-guangchang-jielian-bidian-dashidaimen-yudao-naxie-fazhan-zuai-1007530222, an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c, the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4, tech-20251231-1231-mp-tech-pod-128-tech-20251231-1231-mp-tech-pod-128, tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128, e244-duan-dao-duan-vs-shangxia-fenceng-jiqiren-lujing-zhizheng-zhengzai-zhuanxiang-fc9a3737-81a9-49cf-a7d6-530c77df836e, jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, e229-cong-shougong-zuofang-dao-quanqiu-diyi-zhongguo-dongli-dianchi-nixi-shi, momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1]
+last_updated: 2026-08-25
 ---
 
 # Tesla
+
+[[qishui-yinyue-chongji-tengxun-wangyi-tesila-deng-cheqi-zai-guonei-kaizhan-daguimo-zhaohui-1008396395]] adds a China recall branch. The source says Tesla was the largest participant in a roughly 4.3-million-vehicle recall by nine automakers, with about 3 million Tesla vehicles affected because emergency mechanical interior handles were not legible enough against cabin trim, making the case part of [[VehicleEmergencyHandleUsability]].
 
 [[lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506]] adds a [[CyberCab]] rollout update from The Information. The source says Tesla could launch a dedicated robotaxi vehicle in Austin, first for employee rides on public roads and then for commercial service. The episode frames the dedicated no-steering-wheel, no-pedal vehicle as a way to reduce Model Y retrofit work, while leaving production, regulation, and operations as unresolved deployment constraints.
 
@@ -48,6 +50,7 @@ Tesla is the episode's strongest single-stock example in [[ep57-mei-gu-dong-dang
 - The December 31, 2025 Marketplace Tech source treats used Teslas as a lower-price entry point for EV buyers, not as a claim about Tesla's new-car demand or profitability.
 - The Doubao integration shows Tesla China experimenting with third-party AI assistant surfaces while keeping vehicle-control authority separate in the source account.
 - The CyberCab update treats dedicated robotaxi hardware as a potential cost and operational simplification, not as proof that city-scale [[RobotaxiEconomics]] has been solved.
+- The recall source treats Tesla's minimalist cabin design as a safety-affordance issue in emergency escape, not as an autonomous-driving or drivetrain problem.
 
 ## Connections
 - [[DonaldTrump]] — political-trade context behind the episode's Tesla example.
@@ -66,3 +69,4 @@ Tesla is the episode's strongest single-stock example in [[ep57-mei-gu-dong-dang
 - [[ZannyMintonBeddoes]], [[AIAbundanceNarrative]], [[PhysicalAI]], [[AIWorkOptionality]], [[UniversalHighIncome]], and [[TechnoOptimismPresentThreatGap]] - Gigafactory interview context added by The Intelligence.
 - [[TeslaOptimus|Tesla Optimus]], [[HumanoidRobotCommercialization]], and [[PhysicalAIManufacturingGap]] - CES 2026 All-In branch.
 - [[CyberCab]], [[RobotaxiEconomics]], [[RobotaxiFleetOperations]], and [[AutonomousVehicleRegulatoryPatchwork]] - dedicated-vehicle robotaxi branch added by 声动早咖啡.
+- [[VehicleEmergencyHandleUsability]], [[GeelyAutomobile]], [[DongfengMotor]], and [[Xiaomi]] - China recall branch added by 声动早咖啡.

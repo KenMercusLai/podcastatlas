@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 7523
+wiki_total_pages: 7529
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -1079,6 +1079,9 @@ wiki_pages:
   - key: "CultureWineCompany"
     title: "Culture Wine Company"
     url: "/wiki/entities/culturewinecompany/"
+  - key: "CurryBrand"
+    title: "Curry Brand"
+    url: "/wiki/entities/currybrand/"
   - key: "Cursor"
     title: "Cursor"
     url: "/wiki/entities/cursor/"

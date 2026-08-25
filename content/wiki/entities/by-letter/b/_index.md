@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 7523
+wiki_total_pages: 7529
 wiki_pages:
   - key: "BSpecials"
     title: "B Specials"
@@ -200,6 +200,9 @@ wiki_pages:
   - key: "BeijingEnterprises"
     title: "Beijing Enterprises / 北京控股"
     url: "/wiki/entities/beijingenterprises/"
+  - key: "Beike"
+    title: "Beike / 贝壳"
+    url: "/wiki/entities/beike/"
   - key: "BeingAndNothingness"
     title: "Being and Nothingness / 《存在与虚无》"
     url: "/wiki/entities/beingandnothingness/"

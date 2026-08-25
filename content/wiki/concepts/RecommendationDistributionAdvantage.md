@@ -2,11 +2,13 @@
 title: "Recommendation Distribution Advantage"
 type: concept
 tags: [platforms, recommendation, growth, distribution]
-sources: [touteng-dazhan-ba-nian-hou-zai-ba-zijie-he-tengxun-zai-gege-zhanchang-shang-de-jingzheng-zhuyi-chaikai-zijie-tiaodong-di-6-ji-lvglr-jws7o7utjauxnoqqasj91d, quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec]
-last_updated: 2026-07-08
+sources: [qishui-yinyue-chongji-tengxun-wangyi-tesila-deng-cheqi-zai-guonei-kaizhan-daguimo-zhaohui-1008396395, touteng-dazhan-ba-nian-hou-zai-ba-zijie-he-tengxun-zai-gege-zhanchang-shang-de-jingzheng-zhuyi-chaikai-zijie-tiaodong-di-6-ji-lvglr-jws7o7utjauxnoqqasj91d, quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec]
+last_updated: 2026-08-25
 ---
 
 # Recommendation Distribution Advantage
+
+[[qishui-yinyue-chongji-tengxun-wangyi-tesila-deng-cheqi-zai-guonei-kaizhan-daguimo-zhaohui-1008396395]] adds a direct market-share pressure signal through [[QishuiMusic|汽水音乐]]. The source says Qishui's June 2026 monthly active users surpassed [[NetEaseCloudMusic|NetEase Cloud Music]], making music a visible case where [[Douyin]] signals and [[ByteDance]] distribution can challenge older incumbents.
 
 Recommendation distribution advantage is the capability pattern the Touteng episode attaches to [[ByteDance]]. In [[touteng-dazhan-ba-nian-hou-zai-ba-zijie-he-tengxun-zai-gege-zhanchang-shang-de-jingzheng-zhuyi-chaikai-zijie-tiaodong-di-6-ji-lvglr-jws7o7utjauxnoqqasj91d]], the hosts use [[JinriToutiao]], [[Douyin]], [[OceanEngine]], [[Ohayoo]], and short-drama/IP products to show how recommendation, growth, data, traffic buying, and advertiser feedback can reinforce one another.
 
@@ -21,9 +23,11 @@ This is close to but broader than [[RecommendationSystemProductization]]. Recomm
 - AI may become the next version of this system-capability race if model quality, product usage, data, and distribution begin to compound together.
 - Distribution advantage needs financial confidence: products can buy traffic more aggressively only when LTV, retention, ad load, and commercial value are measurable.
 - It is not universally transferable; the episode 7 source says supply-chain, transaction, heavy-game, and AI assistant businesses have constraints that recommendation-led growth cannot solve alone.
+- In music, recommendation distribution advantage can begin before the music app opens because short-video behavior generates song, creator, clip, and user-interest signals.
 
 ## Connections
 - [[ByteDance]], [[JinriToutiao]], [[Douyin]], [[OceanEngine]], and [[Ohayoo]] — source cases.
 - [[Tencent]], [[TiantianKuaibao]], [[TencentWeishi]], and [[ChaoxiGuangnian]] — contrast cases.
 - [[DataDrivenProductCulture]], [[RecommendationSystemProductization]], [[UnifiedAdPlatform]], and [[PlatformCompanyWorldviews]] — adjacent concepts.
 - [[ByteDanceGrowthSystem]], [[LTVBasedGrowthBudgeting]], [[AutomatedPerformanceMarketing]], [[CreativeMaterialIndustrialization]], [[GrowthRiskControl]], and [[AIConsumerGrowthMetrics]] — operating concepts added by the episode 7 source.
+- [[ShortVideoMusicDistribution]], [[QishuiMusic]], [[TencentMusic]], and [[NetEaseCloudMusic]] - online-music competition branch added by 声动早咖啡.

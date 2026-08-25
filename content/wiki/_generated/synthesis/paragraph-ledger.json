@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "6c34209727f75104903943b071128ff109161df77edfcda038729ce7304fa300",
       "41a98bea9841429961e472ee8bccfe10370044f54128de4d1fbfe77e3ac78eae",
       "7a69263fc3963a56df6170de394a18e0ec4d2b05facd0200ebd227b3ae354797",
       "ab0b793d55f3a0dd24461592cdba3af1e4322fd13e7177eac84849a9d38414af",
@@ -220,11 +221,53 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "0c44513d0be67a931cc97bd29911cea2bb9a7cae081936bd55010c7c16a6a2c9"
     ],
-    "paragraph_count": 218
+    "paragraph_count": 219
   },
-  "overview_commit": "5e6e47dba0efb205e6e25e957fa0fe3062e8c2c0",
-  "overview_digest": "e7390de6c05c726f858842e022a1601e6586f99f2e91e62e5ae56bb135f6803b",
+  "overview_commit": "615f4b41538b792a47f5e85d61ecb2447a7fe4f0",
+  "overview_digest": "72d17ed5d9c9369533fe0d3807a2f61f1b6c41e91ae8dd781ca082370fd1f95b",
   "paragraphs": [
+    {
+      "id": "6c34209727f75104903943b071128ff109161df77edfcda038729ce7304fa300",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "The latest addition is [[qishui-yinyue-chongji-tengxun-wangyi-tesila-deng-cheqi-zai-guonei-kaizhan-daguimo-zhaohui-1008396395]], a [[ShengdongZaokafei|声动早咖啡]] daily business scan about China auto recalls, Apple hardware pressure, efficiency-focused company updates, Premier League sponsorship change, and online-music platform competition. It adds [[TencentMusic]], [[NetEaseCloudMusic]], [[OrientalSelection]], [[Dreame]], [[Beike]], [[CurryBrand]], [[VehicleEmergencyHandleUsability]], [[ShortVideoMusicDistribution]], [[HotelRetailFlywheel]], [[EfficiencyOverScaleExpansion]], and [[SportsBettingSponsorshipExit]], while extending [[QishuiMusic]], [[Tesla]], [[GeelyAutomobile]], [[DongfengMotor]], [[Xiaomi]], [[Apple]], [[VisionPro]], [[LiNing]], [[Atour]], [[PremierLeague]], [[RecommendationDistributionAdvantage]], [[PlatformIPStrategy]], [[FoldablePhoneProductivity]], [[ConsumerElectronicsLifecycle]], [[AthleteSponsorshipStrategy]], [[GlobalSportsSponsorship]], and [[ShengdongZaokafei]]. Its core synthesis is that mature markets are forcing companies to prove usability, channel efficiency, product value, and entry-point control rather than rely on scale alone: emergency handles must be discoverable, foldables and mixed reality must justify cost and content, livestream and hotel businesses must convert traffic or rooms into repeat products, football clubs must replace gambling sponsors, and music incumbents must answer short-video distribution. No settled contradiction is recorded; recall counts, user metrics, profit changes, layoff figures, sponsorship prices, and product rumors remain source-scoped.",
+      "topic_scores": {
+        "business-and-markets": 8,
+        "culture-and-media": 1,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "Apple",
+        "AthleteSponsorshipStrategy",
+        "Atour",
+        "Beike",
+        "ConsumerElectronicsLifecycle",
+        "CurryBrand",
+        "DongfengMotor",
+        "Dreame",
+        "EfficiencyOverScaleExpansion",
+        "FoldablePhoneProductivity",
+        "GeelyAutomobile",
+        "GlobalSportsSponsorship",
+        "HotelRetailFlywheel",
+        "LiNing",
+        "NetEaseCloudMusic",
+        "OrientalSelection",
+        "PlatformIPStrategy",
+        "PremierLeague",
+        "QishuiMusic",
+        "RecommendationDistributionAdvantage",
+        "ShengdongZaokafei",
+        "ShortVideoMusicDistribution",
+        "SportsBettingSponsorshipExit",
+        "TencentMusic",
+        "Tesla",
+        "VehicleEmergencyHandleUsability",
+        "VisionPro",
+        "Xiaomi",
+        "qishui-yinyue-chongji-tengxun-wangyi-tesila-deng-cheqi-zai-guonei-kaizhan-daguimo-zhaohui-1008396395"
+      ]
+    },
     {
       "id": "41a98bea9841429961e472ee8bccfe10370044f54128de4d1fbfe77e3ac78eae",
       "primary_topic": "business-and-markets",

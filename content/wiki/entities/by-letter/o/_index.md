@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "o"
-wiki_total_pages: 7523
+wiki_total_pages: 7529
 wiki_pages:
   - key: "ODesign"
     title: "O-Design / Odyssey"
@@ -215,6 +215,9 @@ wiki_pages:
   - key: "Orienspace"
     title: "Orienspace / 东方空间"
     url: "/wiki/entities/orienspace/"
+  - key: "OrientalSelection"
+    title: "Oriental Selection / 东方甄选"
+    url: "/wiki/entities/orientalselection/"
   - key: "OrlandBishop"
     title: "Orland Bishop"
     url: "/wiki/entities/orlandbishop/"

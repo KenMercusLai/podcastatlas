@@ -11271,6 +11271,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-25] ingest | 汽水音乐冲击腾讯、网易，特斯拉等车企在国内开展大规模召回
+
+Added source page for a 声动早咖啡 episode on Tesla-led China vehicle recalls, Apple foldable and Vision Pro pressure, Oriental Selection self-operated products, Li-Ning/Curry Brand cooperation, Atour bedding retail, Dreame car-project contraction, Beike efficiency, Premier League betting-sponsor exit, and Qishui Music's pressure on Tencent Music and NetEase Cloud Music. Created Tencent Music, NetEase Cloud Music, Oriental Selection, Dreame, Beike, Curry Brand, Vehicle Emergency Handle Usability, Short-Video Music Distribution, Hotel Retail Flywheel, Efficiency Over Scale Expansion, and Sports Betting Sponsorship Exit pages; updated related company and concept pages. No settled contradiction found; reported counts, financials, user metrics, and rumors remain source-scoped.
+
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮
 
 Added source page for Hanji 925: Gongsun Hong's compromise logic, Cao Cao's early Luoyang law-enforcement signal against Jian Shuo's uncle, Yang Ci and Liu Tao's belatedly vindicated Yellow Turban warnings, and Huangfu Song's Changshe fire attack against Bo Cai before Cao Cao joins the pursuit. Created Gongsun Hong, Bo Cai, Changshe Battle, Strategic Compromise as Agency, and Status-Conditioned Risk Taking pages; updated connected Han Wudi, Xiongnu, Cao Cao, Huangfu Song, Zhu Jun, Yellow Turbans, Yang Ci, Liu Tao, Jian Shuo, Yingchuan, Emperor Ling, and military-strategy pages. No settled contradiction found; minor names and place notices remain source-scoped.
@@ -11608,6 +11612,10 @@ Ran lint. See lint-report.md for details.
 
 Added source page for Hanji 923 plus: a short prologue framing the coming Three Kingdoms arc as source-grounded struggle strategy rather than only Romance memory. Created Three Kingdoms Period and Three Kingdoms Struggle Strategy Reading pages; updated Romance of the Three Kingdoms, Journey to the West, Water Margin, Dream of the Red Chamber, Classic Reading Complexity, and Fiction As Historical Evidence pages. No settled contradiction found; Zhao Zilong and Sima Yi remain source-scoped teaser names rather than new canonical pages.
 
+## [2026-08-25] ingest | 《资治通鉴·汉纪》924丨1%的错误=100%的失败
+
+Added source page for Hanji 924: the opening 184 CE Yellow Turban emergency, Emperor Ling's capital-defense response, Huangfu Song and Lyu Qiang's party-ban amnesty and military-funding advice, and the Ten Attendants' continued control over accusation channels. Created pages: `wiki/sources/zizhi-tongjian-hanji-924-1-de-cuowu-100-de-shibai-lmeo7vufm6ib5lni6p49rponazut.md`, `wiki/entities/FengXuLateHan.md`, `wiki/entities/LyuQiangLateHan.md`, `wiki/entities/XiaYunLateHan.md`, `wiki/entities/XiangXuLateHan.md`, `wiki/entities/XuFengLateHan.md`, `wiki/entities/ZhangJunLateHan.md`, `wiki/concepts/PartyBanCrisisAmnesty.md`, and `wiki/concepts/SystemicErrorAmplification.md`. No settled contradiction found; Xia Yun's source spelling and the episode's "1%" framing remain source-scoped.
+
 ## [2026-08-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -11615,6 +11623,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-25] ingest | YETI: Ron and Ryan Seiders. How Two Brothers Turned a $400 Cooler Into a $2 Billion Brand
 
 Added source page for a How I Built This episode on Roy and Ryan Seiders building YETI from fragile-cooler frustration into a premium outdoor cooler and drinkware brand. Created YETI, Roy Seiders, Ryan Seiders, Roger Seiders, Flexcoat, Waterloo Rods, Icy Tech, Ivan Brown, Walt Larson, Cortec Group, YETI Tundra, YETI Rambler, Rotomolded Cooler Category, Specialty Retail Beachhead, Demonstration Led Product Proof, Supplier Concentration Crisis, and Accessible Entry Point Brand Extension pages; updated How I Built This, Guy Raz, and consumer-brand/channel/product-proof concept pages. No settled contradiction found; the title/body Ron/Roy mismatch is preserved as source-scoped metadata while the wiki uses Roy Seiders for the founder discussed in the episode body.
+
+## [2026-08-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-25] lint | Wiki health check
 

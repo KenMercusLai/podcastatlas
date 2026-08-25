@@ -2,11 +2,13 @@
 title: "Xiaomi"
 type: entity
 tags: [company, china, technology, investing, ai]
-sources: [lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506, zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, 138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf, no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027, mai-xiangzao-qijia-de-bainian-huawang-weishenme-chengle-bandaoti-zhizao-de-guanjiang-qiye-1004213131]
-last_updated: 2026-08-24
+sources: [qishui-yinyue-chongji-tengxun-wangyi-tesila-deng-cheqi-zai-guonei-kaizhan-daguimo-zhaohui-1008396395, lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506, zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, 138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf, no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027, mai-xiangzao-qijia-de-bainian-huawang-weishenme-chengle-bandaoti-zhizao-de-guanjiang-qiye-1004213131]
+last_updated: 2026-08-25
 ---
 
 # Xiaomi
+
+[[qishui-yinyue-chongji-tengxun-wangyi-tesila-deng-cheqi-zai-guonei-kaizhan-daguimo-zhaohui-1008396395]] adds Xiaomi as one of the automakers named in a large China recall tied to interior emergency mechanical handle visibility and operation. For Xiaomi's page, the recall extends the company's EV branch from growth and export plans into [[VehicleEmergencyHandleUsability]] and post-sale safety obligations.
 
 [[lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506]] adds a Q2 2026 earnings and strategy update. The source says Xiaomi's revenue fell 6.1% year over year and net profit fell 43%, partly because AI data-center demand pushed traditional memory prices higher and Xiaomi's broad handset price coverage made it exposed to component inflation. The same source says Xiaomi is putting more capital into cars, AI, and infrastructure, with EV deliveries up nearly 30% year over year and overseas EV sales planned for the second half of 2027.
 
@@ -42,3 +44,4 @@ Xiaomi appears in [[ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-sh
 - [[RangeExtendedEV]] - EV route side item added by 声动早咖啡.
 - [[KongTao]], [[PhysicalAI]], [[EmbodiedAI]], and [[VisionLanguageActionModels]] - robotics foundation-model branch added by the later 声动早咖啡 source.
 - [[AIHardwareSupplyChainPressure]], [[ChinaPassengerVehicleDemandPressure]], [[ChineseHardwareGlobalization]], and [[GlobalProductLocalization]] - memory-cost pressure and EV-export branch added by the 2026-08-19 声动早咖啡 source.
+- [[VehicleEmergencyHandleUsability]] - EV recall branch added by the 2026-08-25 声动早咖啡 source.
