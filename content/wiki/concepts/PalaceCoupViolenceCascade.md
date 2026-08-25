@@ -2,11 +2,15 @@
 title: "Palace Coup Violence Cascade / 宫廷政变暴力级联"
 type: concept
 tags: [court-politics, violence, late-han, institutions, crisis]
-sources: [zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr, zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5]
+sources: [zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt, zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr, zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5]
 last_updated: 2026-08-25
 ---
 
 # Palace Coup Violence Cascade / 宫廷政变暴力级联
+
+[[zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt|Hanji 943]] adds the pre-cascade succession field before Hanji 944-946. The first attempted killing comes from [[JianShuoLateHan|蹇硕]], who wants to remove [[HeJin|何进]] before installing Liu Xie, later [[EmperorXianOfHan|汉献帝]]. The failed attempt then reverses into He Jin killing Jian Shuo and absorbing his guard command.
+
+This source also shows how a palace violence sequence can begin as succession cleanup before it becomes general eunuch war. Once [[LiuBianHongnongWang|刘辩 / 弘农王]] and [[EmpressDowagerHe|何太后]] hold the accession field, He Jin moves against [[EmpressDowagerDongLateHan|董太后]] and [[DongZhongLateHan|董重]]. Hanji 943 therefore supplies the first layer of force, fear, and faction liquidation that Hanji 944-946 later widen.
 
 [[zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr|Hanji 944]] supplies the earlier information precondition for the Hanji 945-946 cascade. [[HeJin|何进]]'s anti-eunuch intent becomes visible before he has removed the [[TenAttendantsLateHan|十常侍]], while [[EmpressDowagerHe|何太后]], [[HeMiaoLateHan|何苗]], and [[WuyangJun|武阳君]] keep family and eunuch interests entangled.
 
@@ -21,6 +25,7 @@ The pattern is not simply "violence causes more violence." The source shows seve
 The concept helps connect Hanji 946 to Hanji 947. By the time [[DongZhuo|董卓]] arrives, the palace has not been stabilized by anti-eunuch victory. It has been emptied of ordinary authority, creating a field where an outside army can appear as rescue while becoming control.
 
 ## Key Claims
+- Hanji 943 adds the pre-cascade layer: non-designated succession produces a failed palace killing, a retaliatory eunuch killing, and the purge of a rival succession support line before the broader anti-eunuch conflict begins.
 - Hanji 944 adds plan leakage, family-interest protection, and partial handling as preconditions before the first palace killing.
 - Hanji 945 adds that the cascade is primed before the first killing by outside-force mobilization, delegated coercive authority, partial dismissal, and restored palace access for the target faction.
 - Palace violence can cascade through access control, forged documents, blocked gates, rumor, revenge, and uncertainty about legitimate command.
@@ -30,6 +35,7 @@ The concept helps connect Hanji 946 to Hanji 947. By the time [[DongZhuo|董卓]
 - A successful purge of one faction does not necessarily restore order; it can produce a power vacuum for a third actor.
 
 ## Connections
+- [[zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt|Hanji 943]], [[JianShuoLateHan|蹇硕]], [[HeJin|何进]], [[EmpressDowagerDongLateHan|董太后]], [[DongZhongLateHan|董重]], and [[SuccessionNonDesignationRisk|未定继承人风险]] - pre-cascade succession violence and He-side consolidation.
 - [[zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr|Hanji 944]], [[HeJin|何进]], [[TenAttendantsLateHan|十常侍]], [[EmpressDowagerHe|何太后]], [[HeMiaoLateHan|何苗]], [[WuyangJun|武阳君]], and [[LethalPlanLeakageRisk|致命计划泄露风险]] - exposed intent and family-interest protection before the palace-coup sequence.
 - [[zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl|Hanji 945]], [[HeJin|何进]], [[YuanShao|袁绍]], [[DongZhuo|董卓]], [[ZhangRangLateHan|张让]], [[WuyangJun|武阳君]], and [[ExternalTroopInvitationRisk|外兵入京升级风险]] - pre-killing escalation conditions.
 - [[HeJin|何进]], [[ZhangRangLateHan|张让]], [[DuanGuiLateHan|段珪]], and [[TenAttendantsLateHan|十常侍]] - initial killing and faction target.

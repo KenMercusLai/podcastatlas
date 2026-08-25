@@ -2,11 +2,15 @@
 title: "Fixed Human Nature Politics"
 type: concept
 tags: [political-theory, human-nature, literature, identity]
-sources: [zizhi-tongjian-hanji-954-renxingbenshan-haishi-renxingbene-lkurz9dbb25jrjyl5c-rrahda39h, zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl, zizhi-tongjian-qinji-101-2-ruhe-kandai-xingbenshan-yu-xingbene-lmawsqkttjmitwkczhyfs7f7-mqt, 51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320, 39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065, 72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837]
-last_updated: 2026-08-24
+sources: [zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt, zizhi-tongjian-hanji-954-renxingbenshan-haishi-renxingbene-lkurz9dbb25jrjyl5c-rrahda39h, zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl, zizhi-tongjian-qinji-101-2-ruhe-kandai-xingbenshan-yu-xingbene-lmawsqkttjmitwkczhyfs7f7-mqt, 51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320, 39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065, 72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837]
+last_updated: 2026-08-25
 ---
 
 # Fixed Human Nature Politics
+
+[[zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt|Hanji 943]] adds a source-scoped severe version through the host's opening claim that power exposes people and that people can be screened but not educated into a different nature. The later historical section then shows that view operating as court-risk analysis: jealousy, debt, fear, and factional interest move faster than moral instruction after [[EmperorLingOfHan|汉灵帝]] dies.
+
+The addition is useful as a boundary case. The episode's aphorism leans toward fixed human-nature pessimism, but the wiki keeps it as the source's interpretive frame rather than a settled anthropology. Its evidence remains the concrete late-Han sequence: [[JianShuoLateHan|蹇硕]], [[HeJin|何进]], [[EmpressDowagerHe|何太后]], and [[EmpressDowagerDongLateHan|董太后]] act inside incentives and danger, not inside a proof that no person can ever change.
 
 Fixed human nature politics is the episode's nameable worry that political theory or public identity can treat people as permanently defined by one underlying essence. In [[51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320]], [[ThomasHobbes]] and [[NiccoloMachiavelli]] mark a modern political tendency to build from assumptions about fixed human badness, while [[GulliversTravels|《格列佛游记》]] keeps unsettling any simple account of what humans are.
 
@@ -25,6 +29,7 @@ The concept does not deny human vice. It names the danger of making vice, nature
 [[zizhi-tongjian-qinji-101-2-ruhe-kandai-xingbenshan-yu-xingbene-lmawsqkttjmitwkczhyfs7f7-mqt]] adds an explicit classical-Chinese version of the anti-fixity point. The episode contrasts [[XingShanTheory|性善论]] and [[XingETheory|性恶论]], but its synthesis is [[HumanNaturePlasticity|人性可变性]]: good and bad tendencies can change with need, motive, environment, education, ritual, law, and crisis.
 
 ## Key Claims
+- Hanji 943 adds a source-scoped pessimistic aphorism about screening rather than educating people, but its wiki use is bounded to late-Han court-risk interpretation.
 - Political systems can become self-limiting when they assume human nature is fixed and bad.
 - A label can help describe a person, but it becomes harmful when it becomes the person's whole essence.
 - Swift's satire attacks human vice while still keeping open the possibility that humans should be formed, educated, or warned.
@@ -35,6 +40,7 @@ The concept does not deny human vice. It names the danger of making vice, nature
 - Hanji 988 adds that Han Fei-style interest analysis can clarify coercive politics without requiring a total denial of benevolence, trust, or moral formation.
 
 ## Connections
+- [[zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt|Hanji 943]], [[HeJin|何进]], [[JianShuoLateHan|蹇硕]], [[EmpressDowagerHe|何太后]], [[EmpressDowagerDongLateHan|董太后]], and [[SuccessionNonDesignationRisk|未定继承人风险]] - source-scoped power-and-human-nature frame.
 - [[ThomasHobbes]] and [[NiccoloMachiavelli]] - political-theory references used by the episode.
 - [[JonathanSwift]] and [[GulliversTravels|《格列佛游记》]] - literary frame for the concept.
 - [[PureRationalityTrap]] - rationalist mirror image of fixed vice.

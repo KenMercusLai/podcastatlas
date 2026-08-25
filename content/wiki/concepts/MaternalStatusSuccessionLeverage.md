@@ -2,11 +2,15 @@
 title: "Maternal Status Succession Leverage / 子以母贵式继承杠杆"
 type: concept
 tags: [succession, court-politics, family-politics, qin-state, warring-states]
-sources: [zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz, zizhi-tongjian-zhouji-97-3-lvbuwei-lishishang-fengtou-di-yi-ren-lswa9b864oc-s8vaxtdu15arydu2]
-last_updated: 2026-08-21
+sources: [zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt, zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz, zizhi-tongjian-zhouji-97-3-lvbuwei-lishishang-fengtou-di-yi-ren-lswa9b864oc-s8vaxtdu15arydu2]
+last_updated: 2026-08-25
 ---
 
 # Maternal Status Succession Leverage / 子以母贵式继承杠杆
+
+[[zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt|Hanji 943]] adds a late-Han imperial variant where maternal and foster-maternal status divide succession support after [[EmperorLingOfHan|汉灵帝]] dies without naming an heir. [[LiuBianHongnongWang|刘辩 / 弘农王]] has the living queen-mother line through [[EmpressDowagerHe|何太后]] and [[HeJin|何进]], while Liu Xie, later [[EmperorXianOfHan|汉献帝]], has the birth line of [[WangMeirenLateHan|王美人]] and the foster-grandmother line of [[EmpressDowagerDongLateHan|董太后]].
+
+This case is not the same as Lu Buwei's adoption strategy, because no outside entrepreneur is manufacturing the maternal link. It broadens the concept by showing how an already existing maternal/foster association can become a factional label: "史侯" and "董侯" make household support legible before formal title procedure settles the throne.
 
 Maternal status succession leverage / 子以母贵式继承杠杆 is the mechanism [[LuBuwei|吕不韦]] identifies in [[zizhi-tongjian-zhouji-97-3-lvbuwei-lishishang-fengtou-di-yi-ren-lswa9b864oc-s8vaxtdu15arydu2]]. [[QinXiaowenwang|安国君柱 / 秦孝文王]] has many sons, but his favored wife [[HuayangFuren|华阳夫人]] has none. [[QinZhuangxiangwang|异人 / 子楚]] is otherwise weak in the ranking, yet adoption by Huayang Furen could attach him to the highest-status maternal line.
 
@@ -17,12 +21,14 @@ The mechanism is distinct from [[AffectionDrivenSuccessionRisk|宠爱驱动的�
 [[zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz]] adds the mechanism's material completion. Lu Buwei's persuasion through [[YangquanJun|阳泉君]] makes [[HuayangFuren|华阳夫人]] accept Yiren, but the episode stresses that the carved jade tally changes the adoption from a convenient arrangement into a [[WrittenSuccessionCredential|written succession credential]]. Maternal status supplies the lever; written proof makes the lever harder to deny later.
 
 ## Key Claims
+- Hanji 943 adds that maternal and foster-maternal association can become a factional succession label even without a deliberate adoption strategy.
 - A son's succession value can be increased by attaching him to a higher-status maternal figure.
 - Adoption or maternal affiliation can matter as much as birth order when the favored wife has no son.
 - The mechanism creates political optionality for outsiders who can recognize and operate inside the family structure.
 - The episode uses the mechanism as the core reason Lu Buwei can treat Yiren as a "奇货."
 
 ## Connections
+- [[zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt|Hanji 943]], [[LiuBianHongnongWang|刘辩 / 弘农王]], [[EmperorXianOfHan|汉献帝]], [[EmpressDowagerHe|何太后]], [[WangMeirenLateHan|王美人]], and [[EmpressDowagerDongLateHan|董太后]] - late-Han birth and foster-maternal succession split.
 - [[LuBuwei|吕不韦]] - strategist who identifies the mechanism.
 - [[QinZhuangxiangwang|异人 / 子楚]] - under-ranked son whose value can be changed.
 - [[HuayangFuren|华阳夫人]] - favored but childless wife who supplies the status channel.

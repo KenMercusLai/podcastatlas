@@ -2,11 +2,15 @@
 title: "十常侍 / Ten Attendants (late Han)"
 type: entity
 tags: [group, eunuchs, late-han, court, china]
-sources: [zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr, zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5]
+sources: [zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt, zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr, zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5]
 last_updated: 2026-08-25
 ---
 
 # 十常侍 / Ten Attendants (late Han)
+
+[[zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt|Hanji 943]] adds the pre-Hanji-944 fracture inside the broader eunuch field. [[JianShuoLateHan|蹇硕]] tries to rally [[ZhaoZhongLateHan|赵忠]] and other palace attendants against [[HeJin|何进]], but [[GuoShengLateHan|郭胜]] rejects the proposal and hands the letter to He Jin.
+
+This source therefore keeps the eunuch bloc from looking mechanically unified. Eunuch access and proximity are still dangerous, but factional debts and He-family ties can split the channel before Hanji 944-946 show the later Ten Attendants crisis hardening into mutual destruction.
 
 [[zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr|Hanji 944]] backfills the faction's protection before the later dismissal and counterattack. The source says [[EmpressDowagerHe|何太后]] relies on eunuchs for palace affairs and remembers their earlier protection after the [[WangMeirenLateHan|王美人]] poisoning crisis, while [[WuyangJun|武阳君]] and [[HeMiaoLateHan|何苗]] are tied to eunuch benefits.
 
@@ -23,6 +27,7 @@ The group matters because palace access lets it move faster than its outside ene
 The source treats the Ten Attendants' end as a mutual-destruction prelude rather than a clean restoration. Killing the eunuchs does not restore court order; it creates the vacuum that [[DongZhuo|董卓]] exploits in [[zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1|Hanji 947]].
 
 ## Connections
+- [[zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt|Hanji 943]], [[JianShuoLateHan|蹇硕]], [[ZhaoZhongLateHan|赵忠]], [[GuoShengLateHan|郭胜]], and [[HeJin|何进]] - pre-Hanji-944 eunuch-channel fracture around Jian Shuo's failed appeal.
 - [[zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr|Hanji 944]], [[EmpressDowagerHe|何太后]], [[HeMiaoLateHan|何苗]], [[WuyangJun|武阳君]], [[HeJin|何进]], and [[LethalPlanLeakageRisk|致命计划泄露风险]] - pre-dismissal interest network and exposed anti-eunuch planning.
 - [[zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl|Hanji 945]], [[HeJin|何进]], [[YuanShao|袁绍]], [[ZhangRangLateHan|张让]], [[WuyangJun|武阳君]], and [[ExternalTroopInvitationRisk|外兵入京升级风险]] - dismissal, spared submission, and reentry before the killing.
 - [[ZhangRangLateHan|张让]], [[DuanGuiLateHan|段珪]], and [[ZhaoZhongLateHan|赵忠]] - named figures in the source's eunuch bloc.

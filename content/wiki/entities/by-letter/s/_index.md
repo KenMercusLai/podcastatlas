@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 7369
+wiki_total_pages: 7376
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1397,6 +1397,9 @@ wiki_pages:
   - key: "ShaoHu"
     title: "召忽 / Shao Hu"
     url: "/wiki/entities/shaohu/"
+  - key: "ShiZimiaoLateHan"
+    title: "史子眇 / Shi Zimiao (late Han)"
+    url: "/wiki/entities/shizimiaolatehan/"
   - key: "ShiXiangyun"
     title: "史湘云 / Shi Xiangyun"
     url: "/wiki/entities/shixiangyun/"

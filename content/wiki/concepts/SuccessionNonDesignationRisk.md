@@ -2,11 +2,15 @@
 title: "Succession Non-Designation Risk / 未定继承人风险"
 type: concept
 tags: [governance, succession, monarchy, family-business, warring-states]
-sources: [zizhi-tongjian-qinji-127-3-haiwai-huigui-yipi-zhujian-jiekai-huhai-lidi-zhi-mi-lja0pankcx4ugtylbxxqkwuavdnw, zizhi-tongjian-qinji-109-2-chunshenjun-bei-huangdi-dajiuge-quanzu-miemen-locma2plu7v-vsssm5dr5frc3szw, zizhi-tongjian-qinji-109-1-lishishang-zui-zhuming-de-huangdi-bei-lv-le-liawtywj4c9n0zpii-rxl7cguzyy, zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt, zizhi-tongjian-qinji-127-3-haiwai-huigui-yipi-zhujian-jiekai-huhai-lidi-zhi-mi-lja0pankcx4ugtylbxxqkwuavdnw, zizhi-tongjian-qinji-109-2-chunshenjun-bei-huangdi-dajiuge-quanzu-miemen-locma2plu7v-vsssm5dr5frc3szw, zizhi-tongjian-qinji-109-1-lishishang-zui-zhuming-de-huangdi-bei-lv-le-liawtywj4c9n0zpii-rxl7cguzyy, zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
+last_updated: 2026-08-25
 ---
 
 # Succession Non-Designation Risk / 未定继承人风险
+
+[[zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt|Hanji 943]] adds a late-Han imperial variant through [[EmperorLingOfHan|汉灵帝]]. He dies without naming a crown prince even though [[LiuBianHongnongWang|刘辩 / 弘农王]] and Liu Xie, later [[EmperorXianOfHan|汉献帝]], have different support bases. Private preference for Liu Xie and deathbed trust in [[JianShuoLateHan|蹇硕]] do not substitute for public designation.
+
+The result is immediate factional violence rather than a slow legal dispute. Jian Shuo tries to kill [[HeJin|何进]], He Jin kills Jian Shuo, and the He side then moves against [[EmpressDowagerDongLateHan|董太后]] and [[DongZhongLateHan|董重]]. The episode therefore extends the concept from rival-claimant ambiguity into a palace-access and outer-relative crisis where the first actor to convert uncertainty into force can reshape the accession.
 
 Succession non-designation risk / 未定继承人风险 is the governance problem [[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]] draws from [[WeiWuhou|魏武侯]]. The source says Wei Wuhou dies without clearly naming a successor, leaving [[LiangHuiWang|魏罃]] and [[GongzhongHuan|公中缓]] to fight and throwing [[WeiState|魏国]] into disorder.
 
@@ -27,6 +31,7 @@ This concept bridges ancient and modern cases. It sits inside [[AutocraticSucces
 [[zizhi-tongjian-qinji-127-3-haiwai-huigui-yipi-zhujian-jiekai-huhai-lidi-zhi-mi-lja0pankcx4ugtylbxxqkwuavdnw]] adds a deathbed travel variant. If [[QinShiHuang|秦始皇]] has not already made a legible succession settlement before his final illness, distance itself becomes part of the non-designation risk: [[FuSu|扶苏]] is far away, [[QinErshi|胡亥 / 秦二世]] is nearby, and [[LiSi|李斯]] with [[FengQuji|冯去疾]] can argue that waiting for a broader decision may cause disorder. The source keeps this as the [[ZhaoZhengShu|《赵正书》]] account, not a settled resolution of the forged-edict tradition.
 
 ## Key Claims
+- Hanji 943 adds that private preference plus deathbed entrustment does not solve succession risk when no public heir designation binds court factions.
 - Not naming a successor can preserve the incumbent's power in the short term while exporting conflict to the next transition.
 - A plausible alternative claimant is enough to turn silence into factional competition.
 - Succession planning requires more than a private preference; it needs legible procedure and enough elite acceptance to prevent a scramble.
@@ -39,6 +44,7 @@ This concept bridges ancient and modern cases. It sits inside [[AutocraticSucces
 - Dying away from the capital can turn non-designation into a proximity problem: the nearest plausible heir may become the emergency solution.
 
 ## Connections
+- [[zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt|Hanji 943]], [[EmperorLingOfHan|汉灵帝]], [[LiuBianHongnongWang|刘辩 / 弘农王]], [[EmperorXianOfHan|汉献帝]], [[JianShuoLateHan|蹇硕]], [[HeJin|何进]], and [[EmpressDowagerDongLateHan|董太后]] - late-Han non-designation, failed palace killing, and rival support-line purge.
 - [[WeiWuhou|魏武侯]], [[LiangHuiWang|魏罃 / 梁惠王]], and [[GongzhongHuan|公中缓]] - source case.
 - [[ZhuozeBattle|浊泽之战]], [[SuccessionCrisisIntervention]], and [[CoalitionSettlementFailure]] - downstream part 3 consequence.
 - [[ZhaoXiangzi|赵襄子]], [[ZhaoXianzi|赵献子]], and [[ZhaoHuanzi|赵桓子]] - contrast case where designation exists but is contested.

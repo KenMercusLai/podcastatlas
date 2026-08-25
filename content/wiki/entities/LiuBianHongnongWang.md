@@ -2,11 +2,15 @@
 title: "刘辩 / Liu Bian (Hongnong Wang)"
 type: entity
 tags: [person, emperor, late-han, china]
-sources: [zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5, zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1, zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk, zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr]
+sources: [zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5, zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1, zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk, zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr]
 last_updated: 2026-08-25
 ---
 
 # 刘辩 / Liu Bian (Hongnong Wang)
+
+[[zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt|Hanji 943]] adds Liu Bian's accession before the palace-flight and deposition branches. The source identifies him as [[EmpressDowagerHe|何太后]]'s son and explains the "史侯" label through [[ShiZimiaoLateHan|史子眇]], who had raised him outside the palace.
+
+His enthronement depends on [[JianShuoLateHan|蹇硕]] failing to kill [[HeJin|何进]]. Once He Jin avoids the palace trap, Liu Bian becomes emperor on 189-05-13, Empress Dowager He presides over court affairs, and Liu Xie, later [[EmperorXianOfHan|汉献帝]], is moved into the Bohai Wang position rather than receiving the throne. This makes Liu Bian the initial beneficiary of the unresolved [[SuccessionNonDesignationRisk|succession non-designation risk]] that Dong Zhuo later exploits.
 
 [[zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5|Hanji 946]] gives Liu Bian's vulnerable imperial-body prelude before Dong Zhuo sees him in Hanji 947. During the palace violence, [[ZhangRangLateHan|张让]] and [[DuanGuiLateHan|段珪]] take him with Liu Xie, later [[EmperorXianOfHan|汉献帝]], out through palace passageways toward [[Xiaopingjin|小平津]] without normal seals, escort, or command order.
 
@@ -26,6 +30,7 @@ His role is narrow but important. Liu Bian's death gives the anti-Dong-Zhuo side
 
 ## Connections
 
+- [[zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt|Hanji 943]], [[EmpressDowagerHe|何太后]], [[HeJin|何进]], [[JianShuoLateHan|蹇硕]], [[ShiZimiaoLateHan|史子眇]], and [[SuccessionNonDesignationRisk|未定继承人风险]] - accession after Emperor Ling's non-designated succession and failed palace plot.
 - [[zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5|Hanji 946]], [[ZhangRangLateHan|张让]], [[DuanGuiLateHan|段珪]], [[EmperorXianOfHan|汉献帝]], [[MinGongLateHan|闵贡]], [[Xiaopingjin|小平津]], and [[MingqiLegitimacy|名器合法性]] - imperial flight without normal seals or secure escort.
 - [[zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1|Hanji 947]], [[DongZhuo|董卓]], [[EmperorXianOfHan|汉献帝]], [[MinGongLateHan|闵贡]], and [[ProtectorCaptorAmbiguity|护驾与挟持模糊性]] - flight, frightened encounter, and pre-deposition comparison with Liu Xie.
 - [[zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk|Hanji 948]], [[YuanShao|袁绍]], [[LuZhiLateHan|卢植]], and [[CoercedImperialReplacement|胁迫式废立]] - deposition before the later poisoning branch.

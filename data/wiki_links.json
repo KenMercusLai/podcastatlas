@@ -13447,6 +13447,10 @@
     "title": "董昭 / Dong Zhao (late Han)",
     "url": "/wiki/entities/dongzhaolatehan/"
   },
+  "DongZhongLateHan": {
+    "title": "董重 / Dong Zhong (late Han)",
+    "url": "/wiki/entities/dongzhonglatehan/"
+  },
   "DongZhongshu": {
     "title": "Dong Zhongshu / 董仲舒",
     "url": "/wiki/entities/dongzhongshu/"
@@ -14742,6 +14746,10 @@
   "EmploymentIceAgeGeneration": {
     "title": "Employment Ice Age Generation",
     "url": "/wiki/concepts/employmenticeagegeneration/"
+  },
+  "EmpressDowagerDongLateHan": {
+    "title": "董太后 / Empress Dowager Dong (late Han)",
+    "url": "/wiki/entities/empressdowagerdonglatehan/"
   },
   "EmpressDowagerHe": {
     "title": "何太后 / Empress Dowager He",
@@ -19467,6 +19475,10 @@
     "title": "《过秦论》 / Guo Qin Lun",
     "url": "/wiki/entities/guoqinlun/"
   },
+  "GuoShengLateHan": {
+    "title": "郭胜 / Guo Sheng (late Han)",
+    "url": "/wiki/entities/guoshenglatehan/"
+  },
   "GuoSiLateHan": {
     "title": "郭汜 / Guo Si (late Han)",
     "url": "/wiki/entities/guosilatehan/"
@@ -23750,6 +23762,10 @@
   "JiaguwenDeGushi": {
     "title": "《甲骨文的故事》",
     "url": "/wiki/entities/jiaguwendegushi/"
+  },
+  "JianShuoLateHan": {
+    "title": "蹇硕 / Jian Shuo (late Han)",
+    "url": "/wiki/entities/jianshuolatehan/"
   },
   "JianZhuKeShu": {
     "title": "《谏逐客书》 / Jian Zhu Ke Shu",
@@ -33759,6 +33775,10 @@
     "title": "潘序伦",
     "url": "/wiki/entities/panxulun/"
   },
+  "PanYinLateHan": {
+    "title": "潘隐 / Pan Yin (late Han)",
+    "url": "/wiki/entities/panyinlatehan/"
+  },
   "Panasonic": {
     "title": "Panasonic",
     "url": "/wiki/entities/panasonic/"
@@ -40634,6 +40654,10 @@
   "ShiYiZhiCiZouBaoxian": {
     "title": "《事已至此，走保险》",
     "url": "/wiki/entities/shiyizhicizoubaoxian/"
+  },
+  "ShiZimiaoLateHan": {
+    "title": "史子眇 / Shi Zimiao (late Han)",
+    "url": "/wiki/entities/shizimiaolatehan/"
   },
   "Shibo": {
     "title": "Shibo",
@@ -50915,6 +50939,10 @@
     "title": "Zhang Jiayuan",
     "url": "/wiki/entities/zhangjiayuan/"
   },
+  "ZhangJinLateHan": {
+    "title": "张津 / Zhang Jin (late Han)",
+    "url": "/wiki/entities/zhangjinlatehan/"
+  },
   "ZhangJintao": {
     "title": "张金涛 / Zhang Jintao",
     "url": "/wiki/entities/zhangjintao/"
@@ -55562,6 +55590,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt": {
+    "title": "《资治通鉴·汉纪》943丨权势考验人性，背后藏着巨大凶险",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt/"
   },
   "zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr": {
     "title": "《资治通鉴·汉纪》944丨想在乱世中存活，先管住嘴",

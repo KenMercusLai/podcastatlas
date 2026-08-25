@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-25] ingest | 《资治通鉴·汉纪》943丨权势考验人性，背后藏着巨大凶险
+
+Added source page for Hanji 943: Emperor Ling's non-designated succession, Liu Bian and Liu Xie's rival maternal/foster support lines, Jian Shuo's failed attempt to kill He Jin and install Liu Xie, Pan Yin's warning, Guo Sheng's letter handoff, Liu Bian's accession, He Jin's killing of Jian Shuo, and the purge of Empress Dowager Dong and Dong Zhong. Created pages for Jian Shuo, Empress Dowager Dong, Dong Zhong, Guo Sheng, Pan Yin, Shi Zimiao, and Zhang Jin; updated connected late-Han actors and succession, palace-access, palace-violence, maternal-status, legitimacy-purge, and human-nature concepts. No settled contradiction found; Dong Taihou's death remains source-variant across chronicle, history, and Romance accounts, and the host's power-and-human-nature readings remain source-scoped.
+
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》945丨执念太深的人，只会越来越痛苦
 
 Added source page for Hanji 945: He Jin's fixation on summoning outside troops to pressure Empress Dowager He against the eunuchs, Zheng Tai and Lu Zhi's warnings against inviting Dong Zhuo, Wang Kuang/Bao Xin/Qiao Mao/Ding Yuan mobilization, Zhong Shao's temporary halt of Dong Zhuo, Yuan Shao's jiajie authority, and Zhang Rang's palace-family route back inside. Created External Troop Invitation Risk; updated late-Han actor and concept pages. No settled contradiction found; the "执念" and motive readings are source-scoped.
@@ -11418,6 +11422,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》944丨想在乱世中存活，先管住嘴
 
 Added source page for Hanji 944: He Jin's first anti-eunuch planning after Emperor Ling's death, Yuan Shao's outside-troop proposal, Empress Dowager He and He-family obstruction through Wuyang Jun and He Miao, and Chen Lin/Cao Cao's warnings about handing initiative away and letting the plan leak. Created Lethal Plan Leakage Risk; updated connected late-Han actors and palace-crisis concepts. No settled contradiction found; motive readings and Chen Lin's office wording remain source-scoped.
+
+## [2026-08-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-25] lint | Wiki health check
 

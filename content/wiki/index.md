@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》943丨权势考验人性，背后藏着巨大凶险](sources/zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt.md) — 芮淇讲透资治通鉴 episode on Emperor Ling's non-designated succession, Jian Shuo's failed move for Liu Xie, Liu Bian's accession, He Jin's killing of Jian Shuo, and the purge of Empress Dowager Dong's side.
 - [《资治通鉴·汉纪》944丨想在乱世中存活，先管住嘴](sources/zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr.md) — 芮淇讲透资治通鉴 episode on He Jin's early anti-eunuch planning, Yuan Shao's outside-troop advice, Empress Dowager He and He-family obstruction, Chen Lin and Cao Cao's leakage warnings, and lethal plan exposure risk.
 - [《资治通鉴·汉纪》945丨执念太深的人，只会越来越痛苦](sources/zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl.md) — 芮淇讲透资治通鉴 episode on He Jin's obsession with summoning outside troops, Zheng Tai and Lu Zhi's warnings, Dong Zhuo's halted approach, Yuan Shao's jiajie authority, and Zhang Rang's return through palace-family ties.
 - [《资治通鉴·汉纪》946丨职场斗争时优柔寡断，有多致命？](sources/zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5.md) — 芮淇讲透资治通鉴 episode on He Jin's failed anti-eunuch move, Zhang Rang and Duan Gui's killing of He Jin, Yuan-family retaliation, the imperial flight to Xiaopingjin, and Dong Zhuo's opening.
@@ -1430,6 +1431,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [蹇硕 / Jian Shuo (late Han)](entities/JianShuoLateHan.md) — Eunuch and military office-holder whose failed attempt to kill He Jin and install Liu Xie opens the Hanji 943 succession crisis.
+- [董太后 / Empress Dowager Dong (late Han)](entities/EmpressDowagerDongLateHan.md) — Foster-grandmother support line for Liu Xie, targeted by He Jin and Empress Dowager He after Liu Bian's accession.
+- [董重 / Dong Zhong (late Han)](entities/DongZhongLateHan.md) — Dong-family general whose threat value makes him the armed target of He Jin's post-accession purge.
+- [郭胜 / Guo Sheng (late Han)](entities/GuoShengLateHan.md) — Eunuch access broker who rejects Jian Shuo's appeal and gives the letter to He Jin.
+- [潘隐 / Pan Yin (late Han)](entities/PanYinLateHan.md) — Jian Shuo subordinate whose warning lets He Jin avoid the palace trap.
+- [史子眇 / Shi Zimiao (late Han)](entities/ShiZimiaoLateHan.md) — Figure who raised Liu Bian and explains the source's "史侯" label.
+- [张津 / Zhang Jin (late Han)](entities/ZhangJinLateHan.md) — He Jin aide used by Yuan Shao as the access channel for the first broader anti-eunuch proposal.
 - [十常侍 / Ten Attendants (late Han)](entities/TenAttendantsLateHan.md) — Late-Han eunuch faction whose protected palace access, He-family ties, counter-killing, and later destruction drive the Hanji 944-946 collapse.
 - [张让 / Zhang Rang (late Han)](entities/ZhangRangLateHan.md) — Eunuch faction leader who confronts He Jin, directs the killing, forges orders, flees with the imperial boys, and dies at the Yellow River in Hanji 946.
 - [段珪 / Duan Gui (late Han)](entities/DuanGuiLateHan.md) — Eunuch faction figure, transcript variant 段规, who helps trap He Jin, seize the dowager and imperial boys, and flee toward Xiaopingjin.
