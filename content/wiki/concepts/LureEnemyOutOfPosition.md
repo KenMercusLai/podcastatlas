@@ -1,51 +1,54 @@
 ---
 title: "Lure Enemy Out of Position / 诱敌离位"
 type: concept
-tags: [warfare, strategy, tactics, pre-qin-history]
-sources: [zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4, zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on, zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf, zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l, zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh, zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4, zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr]
-last_updated: 2026-08-25
+tags: [warfare, strategy, tactics, pre-qin-history, late-han]
+sources:
+  - zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4
+  - zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on
+  - zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf
+  - zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l
+  - zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh
+  - zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4
+  - zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada
+  - zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr
+  - zizhi-tongjian-hanji-1038-sanshiliu-ji-zhi-diaohu-lishan-sunce-zhiqu-wancheng-lhomk8hfdidl61degwbqtj2xkj9z
+last_updated: 2026-08-26
+knowledge_schema: synthesis-v1
 ---
 
 # Lure Enemy Out of Position / 诱敌离位
 
-Lure enemy out of position / 诱敌离位 is the tactical pattern [[zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr]] attributes to [[SunBin|孙膑]] when [[QiWeiwang|齐威王]] asks how to break a stalemate between well-formed armies. Sun Bin proposes exposing a small force under a brave lower-status leader, letting it take disadvantage, and tempting the enemy into pursuit.
+## Definition
+Lure Enemy Out of Position / 诱敌离位 is the tactic of using bait, false signals, exposed targets, concessions, or incentives to make an opponent leave a safer formation, posture, route, or base before the prepared strike lands.
 
-The pattern matters because it shifts the question from strength comparison to position control. The enemy is dangerous while holding formation; once it leaves that position, prepared forces can attack from the side. The source later pairs this logic with [[EncirclingWeiToRescueZhao|围魏救赵]], where the entire Wei army is pulled away from [[Handan|邯郸]] by pressure on [[Daliang|大梁]].
-
-[[zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4|Hanji 925]] adds a late-Han fire-attack version through [[ChangsheBattleLateHan|长社之战]]. [[HuangfuSongLateHan|皇甫嵩]]'s retreat and weak visible position encourage [[BoCaiLateHan|波才]]'s [[YellowTurbansLateHan|Yellow Turban]] force to press around Changshe, while hidden coordination with [[ZhuJunLateHan|朱儁]], night harassment, and fire create the real attack.
-
-[[zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada]] adds a psychological and logistical version before [[MalingBattle|马陵之战]]. [[SunBin|孙膑]] reads [[WeiState|魏国]] soldiers as contemptuous of Qi, then plans to make apparent Qi weakness trigger urgent pursuit. The enemy is not only drawn out of position; it is drawn into [[ForcedMarchOperationalRisk|forced-march exhaustion]].
-
-[[zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4]] supplies the mechanism: [[DecreasingStovesDeception|减灶诱敌]]. The staged decline in camp stoves makes [[PangJuan|庞涓]] treat pursuit as urgent and low-risk, pulling him away from the slower main force and into the prepared Maling kill zone.
-
-[[zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh]] adds a frontier-raiding version through [[LiMu|李牧]]. Instead of luring a regular army away from a fixed campaign position, Li Mu first lets [[Xiongnu|匈奴]] treat years of non-battle as cowardice, then exposes people and livestock, feigns retreat, and lets a small group be captured so the chanyu commits the main force deep enough for Zhao to encircle it.
-
-[[zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l|Hanji 164-2]] adds [[LongJuChuGeneral|龙且]] at [[WeishuiBattle|潍水之战]]. A defensive camp-and-supply plan is available, but Long Ju's contempt for [[HanXin|韩信]] and hunger for visible merit make the feigned retreat irresistible, pulling him away from the safer posture and into the river trap.
-
-[[zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf|Hanji 175]] adds a steppe-political version through [[MaoDunChanyu|冒顿单于]] and [[Donghu|东胡]]. Modu first concedes a prized horse and a wife, letting Donghu misread restraint as weakness; when Donghu crosses the red line by demanding land, Modu attacks an unprepared enemy. The enemy is not lured into a battlefield formation here; it is lured into a false political estimate of Xiongnu fear.
-
-[[zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on|Hanji 177]] adds the direct Baideng battlefield version of Modu's false-weakness pattern. Instead of baiting Donghu through concessions, Modu lets Han envoys see weak horses, sick livestock, and low morale so [[LiuBang|刘邦]] will believe Xiongnu can be pursued. [[LouJing|刘敬 / 楼敬]] identifies the display as bait, but Liu Bang rejects the warning and advances into the [[BaidengEncirclement|白登之围]].
+## Current Synthesis
+The current synthesis treats the pattern as a position-control tactic that scales from battlefield formation to campaign design. Early sources show exposed small forces, false weakness, feigned retreat, decreasing stoves, and frontier livestock bait drawing commanders into pursuit or encirclement. Hanji 1038 adds the named [[SunCe|孙策]] case of 调虎离山: a strong enemy is not only drawn down a road, but pulled away from his [[RootBasePriority|root base]] so the rear can be seized.
 
 ## Key Claims
-- Hanji 925 adds that a weak defensive posture can draw an enemy into fatigue and camp-carelessness before a fire attack, even when the opponent is not pulled into a long-distance pursuit.
-- A strong enemy can be made weaker by changing its location and formation before the decisive fight.
-- A small exposed force may be a deliberate lure rather than a simple sacrifice.
-- The tactic depends on preparation; drawing the enemy out has no value without a waiting strike.
-- The same logic can scale from battlefield formation to campaign design.
-- The Maling outcome shows contempt can be activated by a concrete false signal: an enemy may leave good operating conditions because it thinks the target is easy.
-- Qinji 105 shows the lure can be built over years: repeated refusal to fight can create enemy overconfidence before the false opening appears.
-- Hanji 164-2 adds that contempt can make a commander abandon a stronger defensive plan for pursuit.
-- Hanji 175 adds that concessions can lure an opponent into overconfidence before the decisive attack, especially when the concession hides a non-negotiable territorial red line.
-- Hanji 177 adds that staged weakness shown through reconnaissance channels can lure a ruler and advance force into cavalry encirclement.
+- A strong enemy can be made weaker by changing its position, formation, operating condition, or base security before the decisive strike.
+- Bait has strategic value only when paired with a prepared attack, ambush, encirclement, or rear-base seizure.
+- The false signal can be visible weakness, concession, decreasing camp stoves, exposed people or livestock, feigned retreat, gifts, or promised gain.
+- Opponent psychology matters: contempt, greed, desire for visible merit, or overconfidence can make the lure persuasive.
+- The pattern scales from tactical pursuit to campaign-level displacement and political misreading.
+- Hanji 1038 adds a base-emptying version in which the target is lured away from the rear rather than merely out of battle formation.
 
-## Connections
-- [[zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4|Hanji 925]], [[ChangsheBattleLateHan|长社之战]], [[HuangfuSongLateHan|皇甫嵩]], [[BoCaiLateHan|波才]], [[ZhuJunLateHan|朱儁]], and [[YellowTurbansLateHan|黄巾军]] - late-Han retreat, hidden coordination, and fire-attack bait.
-- [[zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on|Hanji 177]], [[MaoDunChanyu|冒顿单于]], [[LiuBang|刘邦]], [[LouJing|刘敬 / 楼敬]], and [[BaidengEncirclement|白登之围]] - false weakness shown to envoys before the encirclement.
-- [[zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf|Hanji 175]], [[MaoDunChanyu|冒顿单于]], [[Donghu|东胡]], and [[Xiongnu|匈奴]] - concession sequence that creates false enemy confidence before attack.
-- [[zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l|Hanji 164-2]], [[WeishuiBattle|潍水之战]], [[HanXin|韩信]], [[LongJuChuGeneral|龙且]], and [[RiverCrossingDeception|渡河欺敌]] - false retreat that draws Long Ju into a flood trap.
-- [[SunBin|孙膑]] and [[QiWeiwang|齐威王]] - teacher and questioner in the source.
-- [[TianJi|田忌]] and [[QiState|齐国]] - command setting for later application.
-- [[EncirclingWeiToRescueZhao]], [[GuilingBattle|桂陵之战]], [[MalingBattle|马陵之战]], [[Daliang|大梁]], and [[Handan|邯郸]] - campaign-scale version.
-- [[ForcedMarchOperationalRisk]], [[DecreasingStovesDeception]], and [[SunziBingfa|《孙子兵法》]] - Maling extension through pursuit, false weakness, and exhaustion.
-- [[LiMu|李牧]], [[Xiongnu|匈奴]], [[FrontierDefensivePatience|边境防御耐心]], and [[BattlefieldInformationControl|战场信息控制]] - Qinji 105 frontier version through reputation, bait, and encirclement.
-- [[TianJiHorseRacing]] - adjacent pattern of changing matchups before contesting.
+## Evidence
+- Foundational position-control pattern: [[zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr|Zhouji 16]] presents Sun Bin's answer to a stalemate as exposing a weaker force and attacking once the enemy leaves its strong position; [[zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada|Zhouji 19]] and [[zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4|Zhouji 20]] extend the same logic through Maling pursuit and decreasing stoves.
+- False weakness and concession signals: [[zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf|Hanji 175]] uses Modu's concessions to Donghu, [[zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on|Hanji 177]] uses weak-looking Xiongnu displays before Baideng, and [[zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4|Hanji 925]] uses Huangfu Song's weak visible posture before the Changshe fire attack.
+- Terrain, pursuit, and contempt: [[zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l|Hanji 164-2]] shows Long Ju abandoning a safer posture to chase Han Xin into the Weishui trap, while [[zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh|Qinji 105]] shows Li Mu building Xiongnu overconfidence over years before exposing people and livestock.
+- Base-emptying campaign pattern: [[zizhi-tongjian-hanji-1038-sanshiliu-ji-zhi-diaohu-lishan-sunce-zhiqu-wancheng-lhomk8hfdidl61degwbqtj2xkj9z|Hanji 1038]] explicitly labels Sun Ce's Lujiang operation 调虎离山: gifts and deferential language draw [[LiuXunLateHan|刘勋]] toward Shangliao, while Sun Ce and [[ZhouYuLateHan|周瑜]] take [[WanChengLujiang|皖城]].
+
+## Counterevidence & Qualifications
+Not every retreat, gift, or concession is a lure. The pattern requires a false or selectively displayed opening, a predictable enemy misread, and a prepared exploitation plan. The modern phrase 调虎离山 is used source-scoped here; older episodes may show the same strategic logic without naming it that way.
+
+## What Changed
+- Added Hanji 1038 as the explicit 调虎离山 and base-emptying version of the concept.
+- Migrated the page from chronological append notes to synthesis-v1.
+
+## Related Concepts
+- [[BattlefieldInformationControl|战场信息控制]] - broader information-control pattern that supplies false signals and managed enemy perception.
+- [[EncirclingWeiToRescueZhao|围魏救赵]] - campaign cousin where pressure on a valued place pulls an army away from its current objective.
+- [[RiverCrossingDeception|渡河欺敌]] - terrain-specific version in which the lure leads into a river trap.
+- [[ForcedMarchOperationalRisk|强行军作战风险]] - operational failure often triggered when bait makes pursuit feel urgent.
+- [[FrontierDefensivePatience|边境防御耐心]] - long-horizon reputation management that makes frontier bait credible.
+- [[RootBasePriority|根本根据地优先]] - base-security concept highlighted by the Liu Xun/Wan City branch.

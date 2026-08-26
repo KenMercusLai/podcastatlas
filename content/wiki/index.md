@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1038丨三十六计之调虎离山：孙策智取皖城](sources/zizhi-tongjian-hanji-1038-sanshiliu-ji-zhi-diaohu-lishan-sunce-zhiqu-wancheng-lhomk8hfdidl61degwbqtj2xkj9z.md) — 芮淇讲透资治通鉴 episode on Sun Ce luring Liu Xun out of Lujiang, Liu Ye's ignored warning, the capture of Wan City with Zhou Yu, Liu Xun's flight to Cao Cao, and the Huang Zu/Yuzhang follow-on.
 - [The continent nobody owns & everyone benefits from (Summer School)](sources/the-continent-nobody-owns-everyone-benefits-from-summer-school.md) — Planet Money Summer School finale on Antarctica's non-market climate value, treaty-based commons governance, McMurdo retail scarcity, Tokyo parking, Vienna social housing, and Brazilian consortios.
 - [《资治通鉴·汉纪》1039丨东吴第一嘴炮？且看他如何劝降华歆](sources/zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd.md) — 芮淇讲透资治通鉴 episode on Yu Fan persuading Hua Xin to surrender Yuzhang to Sun Ce, the moral dispute over surrender as civilian protection, Sun Ce's Luling split and local pacification, Lady Wu saving Wei Teng, Xu Zhao's selective leniency case, and Xu Chu stopping Xu Ta's guard plot against Cao Cao.
 - [《资治通鉴·汉纪》1040丨乱世英雄，曹操为何独独看好刘备？](sources/zizhi-tongjian-hanji-1040-luanshi-yingxiong-caocao-weihe-dudu-kanhao-liubei-lrazzwo4bjspvwmnkx5hoar1iq3x.md) — 芮淇讲透资治通鉴 episode on Cao Cao's "天下英雄" judgment of Liu Bei, the Dong Cheng/Yidai Zhao plot, Liu Bei's chopsticks-and-thunder composure, Cao Cao releasing Liu Bei to intercept Yuan Shu, and Liu Bei killing Che Zhou to regain Xuzhou before Guandu.
@@ -2025,13 +2026,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [孙贲 / Sun Ben (late Han)](entities/SunBenLateHan.md) — Sun-family actor who links Danyang recruitment infrastructure to Sun Ce's later Yuzhang administration.
 - [孙河 / Sun He (late Han)](entities/SunHeLateHan.md) — Early Sun Ce companion named with Lu Fan during the Danyang recruitment phase.
 - [陆康 / Lu Kang (late Han)](entities/LuKangLateHan.md) — Clean late-Han official whose Le'an remonstrance against palace-construction taxes precedes his later Lujiang refusal of Yuan Shu's grain demand.
-- [庐江郡 / Lujiang Commandery](entities/LujiangCommandery.md) — Commandery promised to Sun Ce after the Lu Kang campaign but awarded to Liu Xun.
+- [庐江郡 / Lujiang Commandery](entities/LujiangCommandery.md) — Commandery promised to Sun Ce, awarded to Liu Xun, and later exposed when Sun Ce lures Liu Xun out and captures Wan City.
 - [祖郎 / Zu Lang (late Han)](entities/ZuLangLateHan.md) — Danyang local strongman who attacks Sun Ce near Jing County.
 - [泾县 / Jing County (late Han)](entities/JingCountyLateHan.md) — Danyang county where Zu Lang nearly kills Sun Ce during the early Jiangdong entry.
 - [曲阿 / Qu'a (late Han)](entities/QuALateHan.md) — Jiangdong site for Sun Ce's early Danyang recruitment and Liu Yao's later southern refuge.
 - [周昕 / Zhou Xin (late Han)](entities/ZhouXinLateHan.md) — Yuan Shao-leaning Danyang figure used by Hanji 983 to explain Yuan Shu's appointment pressure.
 - [陈纪 / Chen Ji (late Han)](entities/ChenJiLateHan.md) — Late-Han figure named in Dong Zhuo's scholar-recruitment field and later as Yuan Shu's Jiujiang appointee after a broken promise to Sun Ce.
-- [刘勋 / Liu Xun (late Han)](entities/LiuXunLateHan.md) — Yuan Shu appointee to Lujiang after Sun Ce defeats Lu Kang.
+- [刘勋 / Liu Xun (late Han)](entities/LiuXunLateHan.md) — Lujiang holder who ignores Liu Ye's warning, leaves his rear exposed, loses Wan City to Sun Ce, and flees to Cao Cao.
+- [刘晔 / Liu Ye (late Han)](entities/LiuYeLateHan.md) — Adviser whose ignored warning identifies Sun Ce's Lujiang lure and Liu Xun's exposed rear.
 - [樊能 / Fan Neng (late Han)](entities/FanNengLateHan.md) — Liu Yao officer sent with Yu Mi to guard Hengjiang.
 - [于糜 / Yu Mi (late Han)](entities/YuMiLateHan.md) — Liu Yao officer paired with Fan Neng at Hengjiang.
 - [张英 / Zhang Ying (late Han)](entities/ZhangYingLateHan.md) — Liu Yao officer guarding Danglikou against Yuan Shu's side.
@@ -2060,7 +2062,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [秦松 / Qin Song (Late Han)](entities/QinSongLateHan.md) — Sun Ce adviser named among the decision participants in Hanji 994's Jiangdong bench.
 - [陈端 / Chen Duan (Late Han)](entities/ChenDuanLateHan.md) — Sun Ce adviser named with Qin Song in Hanji 994 as part of the expanding Jiangdong deliberation group.
 - [陆逊 / Lu Xun (Eastern Wu)](entities/LuXunDongWu.md) — Later Wu commander invoked in Hanji 994 to distinguish later grand-commander offices from Lu Fan's early disciplinary `都督`.
-- [周瑜 / Zhou Yu](entities/ZhouYuLateHan.md) — Sun-Wu commander invoked in Hanji 994 for office-title caution around the later `大都督` idea.
+- [周瑜 / Zhou Yu](entities/ZhouYuLateHan.md) — Sun Ce ally whose profile runs from birth marker and material Jiangdong support to active Wan City campaign command, with later title-history caution.
 - [颜回 / Yan Hui](entities/YanHui.md) — Confucius disciple whose "无伐善，无施劳" line is used in Hanji 994 as anti-boasting and anti-jealousy self-cultivation.
 - [笮融 / Ze Rong](entities/ZeRong.md) — Late-Han Xuzhou figure who turns grain and Buddhist display into a following, then repeatedly kills hosts and benefactors.
 - [刘繇 / Liu Yao (late Han)](entities/LiuYaoLateHan.md) — Han-recognized official whose Yuzhang refuge route and posthumous followers create Sun Ce's Taishi Ci trust mission.
@@ -2360,7 +2362,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [杨定 / Yang Ding (late Han)](entities/YangDingLateHan.md) — Late-Han general whose failed attack on Duan Wei collapses when Zhang Ji, Li Jue, and Guo Si re-sort around Emperor Xian.
 - [穰城 / Rangcheng](entities/Rangcheng.md) — Nanyang city where Zhang Ji dies attacking in Hanji 1010, opening Liu Biao's mourning-framed absorption of the remaining troops.
 - [祢衡 / Mi Heng (Late Han)](entities/MiHengLateHan.md) — Late-Han scholar whose talent, insults, naked drumming, and death through Cao Cao-Liu Biao-Huang Zu transfer anchor the Hanji 1011 borrowed-knife case.
-- [黄祖 / Huang Zu](entities/HuangZu.md) — Jiangxia official normalized from the transcript's "黄族", serving as the final actor who kills 祢衡 after Liu Biao passes him onward.
+- [黄祖 / Huang Zu](entities/HuangZu.md) — Jiangxia official in Liu Biao's orbit, endpoint of the Mi Heng borrowed-knife chain and later defeated by Sun Ce after aiding Liu Xun.
 - [蒯越 / Kuai Yue](entities/KuaiYue.md) — Jingzhou elite figure normalized from "款越/款月", used in Hanji 1010 for Liu Biao's consolidation and Hanji 1011 for the offended circle around 祢衡.
 - [蔡瑁 / Cai Mao](entities/CaiMao.md) — Jingzhou elite figure normalized from "蔡茂", used in Hanji 1010 for Liu Biao's consolidation and Hanji 1011 for the local pressure before 祢衡's transfer to Huang Zu.
 - [关羽 / Guan Yu](entities/GuanYu.md) — Liu Bei-aligned general whose Romance Hua Xiong memory is corrected by Hanji 955 and whose later Lady Du request alerts Cao Cao before the Xiapi household shift.
@@ -2447,7 +2449,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [刘宠 / Liu Chong (Chen king)](entities/LiuChongChenKing.md) — Late-Han Chen king whose military defense and death with Luo Jun anchor Hanji 1019's local-order fragility case.
 - [骆俊 / Luo Jun](entities/LuoJun.md) — Chen state chancellor whose civil governance pairs with Liu Chong's military capacity before Yuan Shu's assassination plot removes both.
 - [陈国 / Chen State (late Han)](entities/ChenStateLateHan.md) — Late-Han refuge polity made strong by Liu Chong and Luo Jun, then destabilized after Zhang Kai's false-surrender assassination.
-- [孙策 / Sun Ce](entities/SunCe.md) — Late-Han Jiangdong builder combining rapid conquest, talent absorption, pacification, legitimacy pragmatism, selective leniency, and personal/temperamental risk.
+- [孙策 / Sun Ce](entities/SunCe.md) — Late-Han Jiangdong builder combining rapid conquest, indirect deception, talent absorption, pacification, legitimacy pragmatism, selective leniency, and personal risk.
 - [孙坚 / Sun Jian (late Han)](entities/SunJianLateHan.md) — Late-Han commander credited by Hanji 955 with killing Hua Xiong at Yangren and finding the Heirloom Imperial Seal, later becoming Sun Ce's inherited-title source.
 - [陈瑀 / Chen Yu (Wu commandery)](entities/ChenYuWuCommandery.md) — Wu commandery governor whose planned attack on Sun Ce is detected and preempted, distinct from Chu-Han Chen Yu.
 - [张闿 / Zhang Kai (assassin)](entities/ZhangKaiAssassin.md) — Late-Han killer linked both to the Hou Hanshu robbery version of Cao Song's death and Yuan Shu's false-surrender assassination of Liu Chong and Luo Jun.
@@ -2659,6 +2661,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张家山汉墓竹简 / Zhangjiashan Han Tomb Bamboo Slips](entities/ZhangjiashanHanmuZhujian.md) — Excavated Qin-Han evidence used in Qinji 138 to correct "宦人/宦籍" and "隐官" vocabulary around Zhao Gao.
 - [睡虎地秦简 / Shuihudi Qin Slips](entities/ShuihudiQinJian.md) — Excavated Qin legal-administrative material used to support reading "隐官" as status/workplace rather than castration.
 - [陈留 / Chenliu](entities/Chenliu.md) — Qinji 136 route hub where Li Shiqi's risky inside action gives Liu Bang grain, weapons, recruits, and a stronger westward base.
+- [皖城 / Wan City (Lujiang)](entities/WanChengLujiang.md) — Liu Xun's Lujiang rear base captured by Sun Ce and Zhou Yu after the Shangliao lure.
 - [宛县 / Wan County](entities/WanCounty.md) — Nanyang commandery center whose branches include Liu Bang's rewarded surrender-pacification, Zhang Xiu's post-Zhang-Ji stationing, and Cao Cao/Zhang Xiu's Wancheng disaster.
 - [陈恢 / Chen Hui (Nanyang)](entities/ChenHuiNanyang.md) — Nanyang retainer who persuades Liu Bang to accept Wan's surrender by appealing to his Guanzhong deadline under the Huaiwang agreement.
 - [郦商 / Li Shang](entities/LiShang.md) — Li Shiqi's younger brother appointed general over many Chenliu troops after Liu Bang takes the city.
@@ -9901,6 +9904,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Status Anxiety Persuasion / 位阶焦虑式说服](concepts/StatusAnxietyPersuasion.md) — Pattern of redirecting policy by making another actor's success look like personal rank or merit loss, from Fan Ju/Bai Qi to Kuai Che/Han Xin.
 - [Surrendered Prisoner Security Dilemma / 杀降安全困境](concepts/SurrenderedPrisonerSecurityDilemma.md) — Post-victory dilemma where keeping surrendered troops preserves manpower but creates guarding, feeding, revolt, and legitimacy risks.
 - [War Cost Tempo Discipline / 战争成本与速决纪律](concepts/WarCostTempoDiscipline.md) — Resource-discipline frame where speed, delay, or nonmilitary victory must be judged against manpower, food, logistics, and campaign endurance.
+- [War as Violent Redistribution / 战争的暴力再分配](concepts/WarAsViolentRedistribution.md) — Source-scoped Hanji 1038 frame treating war as forcible transfer of territory, people, resources, and other survival space.
 - [Battlefield Encirclement Logistics / 战场围困与断粮](concepts/BattlefieldEncirclementLogistics.md) — Operational pattern where route cuts, feigned retreat, flank insertion, pursuit pressure, and fieldworks turn movement into supply, retreat, or crowding disaster.
 - [Shield-State Rescue Failure / 屏障国救援失灵](concepts/ShieldStateRescueFailure.md) — Alliance failure mode where states refuse troops or grain to a buffer state whose survival protects them from a common enemy.
 - [Paper War Command Trap / 纸上谈兵式统帅陷阱](concepts/PaperWarCommandTrap.md) — Failure mode where theoretical military fluency and reputation are mistaken for battlefield command competence.
@@ -10069,7 +10073,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Encircling Wei to Rescue Zhao / 围魏救赵](concepts/EncirclingWeiToRescueZhao.md) — Strategy of relieving an ally by threatening what the aggressor must save instead of fighting at the obvious pressure point.
 - [Lu Wine Handan War Cascade / 鲁酒薄而邯郸围](concepts/LuWineHandanWarCascade.md) — Diplomatic-causal chain where a tribute insult, honor conflict, and strategic distraction widen into Wei's siege of Handan.
 - [Tian Ji Horse Racing / 田忌赛马](concepts/TianJiHorseRacing.md) — Resource-allocation pattern where one planned loss creates two decisive wins across the larger contest.
-- [Lure Enemy Out of Position / 诱敌离位](concepts/LureEnemyOutOfPosition.md) — Tactic of drawing an enemy into vulnerability through exposed targets, false weakness, concessions, or prepared pursuit bait.
+- [Lure Enemy Out of Position / 诱敌离位](concepts/LureEnemyOutOfPosition.md) — Tactic of drawing an enemy out of a safe formation, position, or base through bait, false weakness, incentives, or exposed targets.
 - [Treason Accusation Trap / 谋反指控陷阱](concepts/TreasonAccusationTrap.md) — Court-politics pattern where a planted suspicious event turns a rival's prestige into operational treason suspicion.
 - [Political Parable Weaponization / 寓言式政治挑拨](concepts/PoliticalParableWeaponization.md) — Court-rhetoric pattern where a true-sounding lesson is used to attack a rival.
 - [Chancellor-Centered Governance / 宰相中心治理](concepts/ChancellorCenteredGovernance.md) — Historiographical frame for treating chancellor notices, including Qin's first left/right chancellors, as crucial state-operation evidence.

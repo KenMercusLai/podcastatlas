@@ -1432,6 +1432,36 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/huaxin/"
     },
+    "HuangZu": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1011丨祢衡之死：最具悲剧色彩的借刀杀人 [ltRzPchWDfcyp4NTmUm9Giu-5mVa].md",
+          "key": "zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1011丨祢衡之死：最具悲剧色彩的借刀杀人",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1027丨荆州之主刘表，为何难成霸主？ [ll-ebgUQLlSF_5YCvPDogihzN3lJ].md",
+          "key": "zizhi-tongjian-hanji-1027-jingzhou-zhizhu-liubiao-weihe-nan-cheng-bazhu-ll-ebguqllsf-5ycvpdogihzn3lj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1027丨荆州之主刘表，为何难成霸主？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1027-jingzhou-zhizhu-liubiao-weihe-nan-cheng-bazhu-ll-ebguqllsf-5ycvpdogihzn3lj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1038丨三十六计之调虎离山：孙策智取皖城 [lhOmK8hFDiDL61DegWBqTj2XKj9Z].md",
+          "key": "zizhi-tongjian-hanji-1038-sanshiliu-ji-zhi-diaohu-lishan-sunce-zhiqu-wancheng-lhomk8hfdidl61degwbqtj2xkj9z",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1038丨三十六计之调虎离山：孙策智取皖城",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1038-sanshiliu-ji-zhi-diaohu-lishan-sunce-zhiqu-wancheng-lhomk8hfdidl61degwbqtj2xkj9z/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/huangzu/"
+    },
     "HumanRobotSafetyCertification": {
       "episode_count": 1,
       "show_count": 1,
@@ -2185,6 +2215,45 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/liudaisikongzhangshi/"
     },
+    "LiuXunLateHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》983丨只会骗人的老板永远不是好老板 [lkNR2zyDwjYTjo7Od_rT3Zi_4k_s].md",
+          "key": "zizhi-tongjian-hanji-983-zhi-hui-pianren-de-laoban-yongyuan-bushi-hao-laoban-lknr2zydwjytjo7od-rt3zi-4k-s",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》983丨只会骗人的老板永远不是好老板",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-983-zhi-hui-pianren-de-laoban-yongyuan-bushi-hao-laoban-lknr2zydwjytjo7od-rt3zi-4k-s/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1038丨三十六计之调虎离山：孙策智取皖城 [lhOmK8hFDiDL61DegWBqTj2XKj9Z].md",
+          "key": "zizhi-tongjian-hanji-1038-sanshiliu-ji-zhi-diaohu-lishan-sunce-zhiqu-wancheng-lhomk8hfdidl61degwbqtj2xkj9z",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1038丨三十六计之调虎离山：孙策智取皖城",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1038-sanshiliu-ji-zhi-diaohu-lishan-sunce-zhiqu-wancheng-lhomk8hfdidl61degwbqtj2xkj9z/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/liuxunlatehan/"
+    },
+    "LiuYeLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1038丨三十六计之调虎离山：孙策智取皖城 [lhOmK8hFDiDL61DegWBqTj2XKj9Z].md",
+          "key": "zizhi-tongjian-hanji-1038-sanshiliu-ji-zhi-diaohu-lishan-sunce-zhiqu-wancheng-lhomk8hfdidl61degwbqtj2xkj9z",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1038丨三十六计之调虎离山：孙策智取皖城",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1038-sanshiliu-ji-zhi-diaohu-lishan-sunce-zhiqu-wancheng-lhomk8hfdidl61degwbqtj2xkj9z/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/liuyelatehan/"
+    },
     "LizWalters": {
       "episode_count": 1,
       "show_count": 1,
@@ -2259,6 +2328,29 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/loyaltycollateraldilemma/"
     },
+    "LujiangCommandery": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》983丨只会骗人的老板永远不是好老板 [lkNR2zyDwjYTjo7Od_rT3Zi_4k_s].md",
+          "key": "zizhi-tongjian-hanji-983-zhi-hui-pianren-de-laoban-yongyuan-bushi-hao-laoban-lknr2zydwjytjo7od-rt3zi-4k-s",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》983丨只会骗人的老板永远不是好老板",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-983-zhi-hui-pianren-de-laoban-yongyuan-bushi-hao-laoban-lknr2zydwjytjo7od-rt3zi-4k-s/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1038丨三十六计之调虎离山：孙策智取皖城 [lhOmK8hFDiDL61DegWBqTj2XKj9Z].md",
+          "key": "zizhi-tongjian-hanji-1038-sanshiliu-ji-zhi-diaohu-lishan-sunce-zhiqu-wancheng-lhomk8hfdidl61degwbqtj2xkj9z",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1038丨三十六计之调虎离山：孙策智取皖城",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1038-sanshiliu-ji-zhi-diaohu-lishan-sunce-zhiqu-wancheng-lhomk8hfdidl61degwbqtj2xkj9z/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/lujiangcommandery/"
+    },
     "LulingLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -2281,6 +2373,78 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/lulinglatehan/"
+    },
+    "LureEnemyOutOfPosition": {
+      "episode_count": 9,
+      "show_count": 1,
+      "source_note_count": 9,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮 [liMAFqSkGbLRweTeSTyH39w_hZM4].md",
+          "key": "zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》177｜被困白登山 刘邦命悬一线 [ljDmXF6beJ8Ju0GmVM9cp48GY0ON].md",
+          "key": "zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》177｜被困白登山 刘邦命悬一线",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》175｜必看刘邦的皇家礼仪课 [loS9hsomNdNhyQpXAFSTGYQuomZF].md",
+          "key": "zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》175｜必看刘邦的皇家礼仪课",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》164-2｜项羽头号大将 怎么输给韩信的 [lhE_-LMb1zrziPBOnGg02gmNmB4l].md",
+          "key": "zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》164-2｜项羽头号大将 怎么输给韩信的",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》105｜战争花样赵国李牧最会耍 [ljTQDg46a8o13ZZSjV-P_FPOL5Oh].md",
+          "key": "zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》105｜战争花样赵国李牧最会耍",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》20丨庞涓死此树下 [ls_8-3JHz5Q1c5Ca11MhdzMZ4wg4].md",
+          "key": "zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》20丨庞涓死此树下",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》19丨马陵之战 [lhBAPt09X2PtdQx0uoPkP8APBaDA].md",
+          "key": "zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》19丨马陵之战",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》16丨孙膑庞涓恩怨纠葛 桂陵之战 [lrYHzkc1_xsVFjhvIcU8yxA9d2jr].md",
+          "key": "zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》16丨孙膑庞涓恩怨纠葛 桂陵之战",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1038丨三十六计之调虎离山：孙策智取皖城 [lhOmK8hFDiDL61DegWBqTj2XKj9Z].md",
+          "key": "zizhi-tongjian-hanji-1038-sanshiliu-ji-zhi-diaohu-lishan-sunce-zhiqu-wancheng-lhomk8hfdidl61degwbqtj2xkj9z",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1038丨三十六计之调虎离山：孙策智取皖城",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1038-sanshiliu-ji-zhi-diaohu-lishan-sunce-zhiqu-wancheng-lhomk8hfdidl61degwbqtj2xkj9z/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/lureenemyoutofposition/"
     },
     "MaxBennett": {
       "episode_count": 1,
@@ -2958,9 +3122,9 @@
       "url": "/wiki/entities/sunbenlatehan/"
     },
     "SunCe": {
-      "episode_count": 17,
+      "episode_count": 18,
       "show_count": 1,
-      "source_note_count": 17,
+      "source_note_count": 18,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1028丨小霸王孙策立威，称霸江东！ [lgur-3FmpR55wy3AjI--0Rm38Y7X].md",
@@ -3080,6 +3244,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1039丨东吴第一嘴炮？且看他如何劝降华歆",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1038丨三十六计之调虎离山：孙策智取皖城 [lhOmK8hFDiDL61DegWBqTj2XKj9Z].md",
+          "key": "zizhi-tongjian-hanji-1038-sanshiliu-ji-zhi-diaohu-lishan-sunce-zhiqu-wancheng-lhomk8hfdidl61degwbqtj2xkj9z",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1038丨三十六计之调虎离山：孙策智取皖城",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1038-sanshiliu-ji-zhi-diaohu-lishan-sunce-zhiqu-wancheng-lhomk8hfdidl61degwbqtj2xkj9z/"
         }
       ],
       "updated": "2026-08-26",
@@ -3342,6 +3513,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/viennasocialhousingscale/"
     },
+    "WanChengLujiang": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1038丨三十六计之调虎离山：孙策智取皖城 [lhOmK8hFDiDL61DegWBqTj2XKj9Z].md",
+          "key": "zizhi-tongjian-hanji-1038-sanshiliu-ji-zhi-diaohu-lishan-sunce-zhiqu-wancheng-lhomk8hfdidl61degwbqtj2xkj9z",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1038丨三十六计之调虎离山：孙策智取皖城",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1038-sanshiliu-ji-zhi-diaohu-lishan-sunce-zhiqu-wancheng-lhomk8hfdidl61degwbqtj2xkj9z/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/wanchenglujiang/"
+    },
     "WangFuDongChengPlot": {
       "episode_count": 1,
       "show_count": 1,
@@ -3389,6 +3576,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/wangmentouzhi/"
+    },
+    "WarAsViolentRedistribution": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1038丨三十六计之调虎离山：孙策智取皖城 [lhOmK8hFDiDL61DegWBqTj2XKj9Z].md",
+          "key": "zizhi-tongjian-hanji-1038-sanshiliu-ji-zhi-diaohu-lishan-sunce-zhiqu-wancheng-lhomk8hfdidl61degwbqtj2xkj9z",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1038丨三十六计之调虎离山：孙策智取皖城",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1038-sanshiliu-ji-zhi-diaohu-lishan-sunce-zhiqu-wancheng-lhomk8hfdidl61degwbqtj2xkj9z/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/warasviolentredistribution/"
     },
     "WeiTengLateHan": {
       "episode_count": 1,
@@ -3752,6 +3955,57 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/zhongjilatehan/"
+    },
+    "ZhouYuLateHan": {
+      "episode_count": 6,
+      "show_count": 1,
+      "source_note_count": 6,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》905丨富贵如何险中求？ [lklXX5nqUka2MTblLXIvk0a7B-fu].md",
+          "key": "zizhi-tongjian-hanji-905-fugui-ruhe-xianzhong-qiu-lklxx5nquka2mtbllxivk0a7b-fu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》905丨富贵如何险中求？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-905-fugui-ruhe-xianzhong-qiu-lklxx5nquka2mtbllxivk0a7b-fu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1028丨小霸王孙策立威，称霸江东！ [lgur-3FmpR55wy3AjI--0Rm38Y7X].md",
+          "key": "zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1028丨小霸王孙策立威，称霸江东！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》982丨扒一扒刘备入徐背后的利益之争 [ljAjdC95XTyLHkn5TeEFz26Yyyz1].md",
+          "key": "zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》982丨扒一扒刘备入徐背后的利益之争",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》992丨乱世有多可怕？揭秘长安的血色梦魇 [ltuxzRb-1X5y2CTwo4DrGgxn5sTZ].md",
+          "key": "zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》992丨乱世有多可怕？揭秘长安的血色梦魇",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》994丨跟着‌东吴重臣吕范，学习职场智慧 [lgQP2vQmh1mSS96gcwmFLP_cCPFU].md",
+          "key": "zizhi-tongjian-hanji-994-genzhe-dongwu-zhongchen-lvfan-xuexi-zhichang-zhihui-lgqp2vqmh1mss96gcwmflp-ccpfu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》994丨跟着东吴重臣吕范，学习职场智慧",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-994-genzhe-dongwu-zhongchen-lvfan-xuexi-zhichang-zhihui-lgqp2vqmh1mss96gcwmflp-ccpfu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1038丨三十六计之调虎离山：孙策智取皖城 [lhOmK8hFDiDL61DegWBqTj2XKj9Z].md",
+          "key": "zizhi-tongjian-hanji-1038-sanshiliu-ji-zhi-diaohu-lishan-sunce-zhiqu-wancheng-lhomk8hfdidl61degwbqtj2xkj9z",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1038丨三十六计之调虎离山：孙策智取皖城",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1038-sanshiliu-ji-zhi-diaohu-lishan-sunce-zhiqu-wancheng-lhomk8hfdidl61degwbqtj2xkj9z/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/zhouyulatehan/"
     },
     "ZhuLingLateHan": {
       "episode_count": 1,

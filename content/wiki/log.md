@@ -11672,6 +11672,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-26] ingest | 《资治通鉴·汉纪》1038丨三十六计之调虎离山：孙策智取皖城
+
+Added source page for Hanji 1038: Sun Ce's Lujiang lure against Liu Xun, Liu Ye's ignored warning, the capture of Wan City with Zhou Yu, Liu Xun's defeat and flight to Cao Cao, the follow-on Huang Zu attack, and the Yuzhang persuasion setup. Created Liu Ye, Wan City (Lujiang), and War as Violent Redistribution; migrated Liu Xun, Zhou Yu, Huang Zu, Lujiang Commandery, and Lure Enemy Out of Position to synthesis-v1; updated Sun Ce, index, and overview. No settled contradiction found; 刘业 is normalized to 刘晔 / Liu Ye and 皖城 is disambiguated from 宛县 / Wan County.
+
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》1039丨东吴第一嘴炮？且看他如何劝降华歆
 
 Added source page for Hanji 1039: Yu Fan's force-backed persuasion of Hua Xin, Hua Xin's contested surrender of Yuzhang, Sun Ce's Luling split and Sun-family appointments, Lady Wu's rescue of Wei Teng, Xu Zhao's selective-leniency case, Yan Baihu's flight, and Xu Chu's prevention of Xu Ta's insider plot against Cao Cao. Created Sun Fu, Sun Sheng, Wei Teng, Xu Zhao, Xu Ta, Force-Backed Surrender Persuasion, and Surrender as Civilian-Protection Tradeoff; updated related Sun Ce, Hua Xin, Yu Fan, Lady Wu, Yuzhang, Luling, Sun Ben, Tong Zhi, Yan Baihu, Xu Chu, and Personal Guard Attack Surface pages. No settled contradiction found; the transcript's 于藩 form is normalized to Yu Fan / 虞翻 and Hua Xin's motive remains source-scoped.
@@ -12029,6 +12033,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-26] ingest | The continent nobody owns & everyone benefits from (Summer School)
 
 Added source page for Planet Money Summer School's Antarctica finale: non-market valuation of Antarctica and the Southern Ocean, Antarctic Treaty commons governance, McMurdo retail demand under isolation, Tokyo parking-cost internalization, Vienna social housing at scale, and Brazilian consortio group financing. Created Antarctica, Southern Ocean, Antarctic Treaty, McMurdo Station, Natalie Stokel, Liz Walters, Tokyo, Non-Market Environmental Valuation, Antarctic Climate Services, Trust-Based Commons Governance, Isolated Retail Demand Management, Parking Cost Internalization, Vienna Social Housing Scale, Consortio Group Financing, and Institutional Policy Pluralism; migrated Vienna to synthesis-v1 and updated index and overview. No settled contradiction found; valuation figures, treaty details, rent effects, and financing terms remain source-scoped.
+
+## [2026-08-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-26] lint | Wiki health check
 
