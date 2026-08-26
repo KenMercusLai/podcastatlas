@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 7829
+wiki_total_pages: 7833
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -134,6 +134,9 @@ wiki_pages:
   - key: "ElObeid"
     title: "El Obeid"
     url: "/wiki/entities/elobeid/"
+  - key: "ElanParadoxMachines"
+    title: "Elan (Paradox Machines)"
+    url: "/wiki/entities/elanparadoxmachines/"
   - key: "ElanLee"
     title: "Elan Lee"
     url: "/wiki/entities/elanlee/"

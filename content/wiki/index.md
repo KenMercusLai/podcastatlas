@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP 46: Fix the Foundation First: Why Your Data Strategy Is Failing Before the AI Gets Involved](sources/ep-46-fix-the-foundation-first-why-your-data-strategy-is-failing-before-the-ai-gets-involved.md) — Data Science With Sam episode with Elan on Paradox Machines, data foundations, mid-market data-team economics, AI readiness, and data sovereignty.
 - [《资治通鉴·汉纪》892丨修止语，古人有什么捷径？](sources/zizhi-tongjian-hanji-892-xiu-zhiyu-guren-youshenme-jiejing-lnobbkp6mj4xyb9jeuqsiuqogct.md) — 芮淇讲透资治通鉴 episode on 修止语, Duan Jiong's Eastern Qiang pacification, Sima Guang's anti-extermination critique, root-cause frontier governance, and the party-prohibition honor lists that become dangerous in Hanji 893.
 - [An interview with Yuval Noah Harari](sources/an-interview-with-yuval-noah-harari-6a872b94c71d02aaba56ca7c.md) — The Intelligence interview with Yuval Noah Harari on AI inevitability, trust migration, mass-produced intimacy, AI consciousness, legal personhood, military oversight, sovereignty, and democratic accountability.
 - [Slip the Surly Bonds? Scott Bessent Goes on a Yield Trip](sources/slip-the-surly-bonds-scott-bessent-goes-on-a-yield-trip-6a8eb9200c15e359f9599e1a.md) — The Intelligence episode on Scott Bessent's long-bond buyback signal, U.S. water-system cyber vulnerability, and British accent prestige around Andy Burnham.
@@ -1537,6 +1538,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Paradox Machines](entities/ParadoxMachines.md) — Data and AI consultancy/platform combining outsourced senior data talent with data infrastructure for mid-market and SMB customers.
+- [Elan (Paradox Machines)](entities/ElanParadoxMachines.md) — Source-scoped Paradox Machines founder and CEO voice on data foundations before AI.
+- [Infinity Venture Studio](entities/InfinityVentureStudio.md) — New York venture studio named as the incubation context for Paradox Machines.
+- [Tableau](entities/Tableau.md) — Analytics/dashboard product named as part of the mid-market data stack cost barrier.
 - [Yuval Noah Harari](entities/YuvalNoahHarari.md) — Historian and philosopher using an information-network lens to warn that AI governance must reject inevitability and preserve human agency.
 - [Nexus (Yuval Noah Harari book)](entities/NexusHarariBook.md) — Harari book framed in The Intelligence interview as a history of information networks from the Stone Age to AI.
 - [李膺 / Li Ying (late Han)](entities/LiYingLateHan.md) — Late-Han party-prohibition figure whose pre-crackdown public honor in Hanji 892 and prison choice/student liability in Hanji 893 anchor reputation danger.
@@ -9370,6 +9375,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Data Foundation-First AI Strategy](concepts/DataFoundationFirstAIStrategy.md) — Enterprise AI strategy frame where ownership, governance, data modeling, and business alignment must precede dashboards, connectors, and agents.
+- [Mid-Market Data Talent Gap](concepts/MidMarketDataTalentGap.md) — Mismatch between smaller companies' need for data/AI capability and their ability to afford or retain senior data teams and tooling.
+- [Data Team as Business Partner](concepts/DataTeamAsBusinessPartner.md) — Operating model where data teams combine guardrails with business-user exploration so analytics can shape decisions.
+- [Data Sovereignty](concepts/DataSovereignty.md) — Company-specific control over governed, secure, fit-for-purpose data as a durable AI-era strategic asset.
 - [AI Inevitability Responsibility Evasion](concepts/AIInevitabilityResponsibilityEvasion.md) — Governance failure mode where AI actors call risky trajectories inevitable and thereby obscure current human responsibility.
 - [Algorithmic Trust Migration](concepts/AlgorithmicTrustMigration.md) — Shift of practical trust from human institutions into algorithmic systems that rank, filter, transact, advise, or decide.
 - [Mass-Produced AI Intimacy](concepts/MassProducedAIIntimacy.md) — Scalable AI-generated emotional attachment used as a political, commercial, or social persuasion surface.

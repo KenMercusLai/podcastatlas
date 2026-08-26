@@ -16215,6 +16215,18 @@
       "url": "/topics/technology/"
     }
   ],
+  "DataFoundationFirstAIStrategy": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "DataPortabilityAndSustainableTools": [
     {
       "key": "technology",
@@ -16237,6 +16249,25 @@
     }
   ],
   "DataScienceWithSam": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "DataSovereignty": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "DataTeamAsBusinessPartner": [
     {
       "key": "technology",
       "label": "Technology",
@@ -18939,6 +18970,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "ElanParadoxMachines": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "ElderTechnologyExclusion": [
@@ -28676,6 +28714,13 @@
       "url": "/topics/science/"
     }
   ],
+  "InfinityVentureStudio": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "InflationBias": [
     {
       "key": "economics",
@@ -37287,6 +37332,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "MidMarketDataTalentGap": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "MiddleClassConsumptionPressure": [
     {
       "key": "economics",
@@ -41768,6 +41820,13 @@
     }
   ],
   "Paperboy": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "ParadoxMachines": [
     {
       "key": "technology",
       "label": "Technology",
@@ -54309,6 +54368,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "Tableau": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "TacticalCredibilityCost": [
     {
       "key": "history",
@@ -65552,6 +65618,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "ep-46-fix-the-foundation-first-why-your-data-strategy-is-failing-before-the-ai-gets-involved": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "ep-47-the-ai-pioneer-who-decided-privacy-matters-more-than-hype": [

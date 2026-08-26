@@ -2,34 +2,54 @@
 title: "Enterprise AI Pilot Purgatory"
 type: concept
 tags: [ai, enterprise, management, transformation]
-sources: [enterprise-sales-with-no-product-landing-a-big-four-customer, ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise, all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420, all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790]
-last_updated: 2026-08-24
+sources:
+  - enterprise-sales-with-no-product-landing-a-big-four-customer
+  - ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise
+  - all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420
+  - all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790
+  - ep-46-fix-the-foundation-first-why-your-data-strategy-is-failing-before-the-ai-gets-involved
+last_updated: 2026-08-27
+knowledge_schema: synthesis-v1
 ---
 
 # Enterprise AI Pilot Purgatory
 
-[[ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise]] adds [[JimSpignardo]]'s [[MicrosoftCopilot|Microsoft 365 Copilot]] version. He says pilots fail from weak use cases, poor data grounding, no handoff owner, shallow license-based training, and no baselines.
+## Definition
+Enterprise AI pilot purgatory is the gap between visible AI experimentation and durable enterprise value, where pilots, dashboards, license rollouts, or proofs of concept exist but do not become measured workflow change.
 
-[[enterprise-sales-with-no-product-landing-a-big-four-customer]] adds a non-AI enterprise-sales precursor through [[ChristianLund]] and [[Templafy]]. Lund's [[EnterprisePOCDiscipline]] makes the same failure mode visible before AI: a pilot can absorb the startup's effort without becoming value unless proof criteria, budget, buying authority, timing, and rollout path are agreed up front.
+## Current Synthesis
+The current synthesis is that pilot purgatory is not mainly a model-capability problem. It appears when organizations start from weak use cases, missing baselines, unclear proof criteria, poor data grounding, shallow enablement, and no accountable operational owner. The non-AI Templafy source shows the same structure at the enterprise POC gate: a pilot can consume work without becoming value unless budget, success criteria, timing, and rollout consequences are explicit.
 
-[[all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420]] adds Sacks's warning that enterprise AI pilots often fail because giving a business AI does not automatically create efficiency. The escape route is change management, workflow redesign, and accountable owners, which is why private-equity control of operations is treated as valuable rather than model access alone.
-
-Enterprise AI pilot purgatory is the gap in [[all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790]] between broad AI experimentation and durable enterprise-scale value. [[BobSternfels|Bob Sternfels]] says large enterprises are adopting AI faster than previous technologies, but also says non-technology companies are finding value realization harder than expected.
-
-The source frames the problem as a leadership tension. CEOs want speed, CFOs ask for ROI discipline, and CIOs warn that waiting too long creates disruption risk. That puts the concept inside [[BusinessLedAITransformation]]: model access and pilots are not enough unless workflows, data, governance, incentives, and human-agent roles change.
+The AI-specific sources add two layers. One layer is executive and financial: CEOs want speed, CFOs demand ROI discipline, and CIOs worry about disruption if they wait. The newer data-foundation source makes the upstream blocker sharper: dashboards and pilots can exist for years without answering leadership's real questions if ownership, governance, alignment, and business-user exploration are missing.
 
 ## Key Claims
-- Enterprise AI can generate visible pilots before it changes the operating model.
-- CFO discipline and CIO disruption fear can both be reasonable, creating a decision problem rather than a simple pro-AI or anti-AI split.
-- The escape from pilot purgatory requires bounded use cases, measurable outcomes, workflow redesign, data access, and accountable owners.
-- The concept explains why [[AICompressedValueCreation]] at model companies can coexist with slower productivity gains inside their customers.
-- EP48 adds that pilot purgatory can come from a failed transition between innovation and operations, not only from weak model capability.
-- License assignment without enablement can produce a temporary usage bump followed by plateau.
-- Templafy adds that pilot purgatory can start at the sales gate when a POC lacks explicit buyer commitment and rollout consequences.
+- Enterprise AI can generate visible pilots before it changes operating workflows.
+- The failure mode often begins with vague use cases, missing success criteria, no baselines, and no handoff owner.
+- Poor [[AIDataReadiness]] can make a capable model unusable because permissions, grounding, source freshness, or semantic meaning are wrong.
+- Buying licenses or dashboards does not produce productivity unless enablement, governance, and business ownership follow.
+- CFO ROI discipline and CIO disruption concerns can both be valid, so the decision problem is not simply whether to adopt AI.
+- Escape from purgatory requires bounded workflows, measurable outcomes, data foundations, accountable owners, and change management.
 
-## Connections
-- [[BusinessLedAITransformation]], [[CapabilityOverhang]], [[AIWorkflowTriage]], and [[EnterpriseAgentGovernance]] - adjacent enterprise adoption concepts.
-- [[BobSternfels|Bob Sternfels]], [[McKinsey]], [[GeneralCatalyst|General Catalyst]], and [[OpenAI]] - source cases and actors.
-- [[WorkplaceAIReadinessGap]] and [[AgentWorkforceRedesign]] - workforce-side bottlenecks.
-- [[JimSpignardo]], [[Proarc]], [[Microsoft365CopilotAdoption]], [[AIAdoptionBaselineMeasurement]], and [[ShadowAI]] - Copilot rollout and shadow-use branch from Data Science With Sam EP48.
-- [[ChristianLund]], [[Templafy]], [[EnterprisePOCDiscipline]], and [[EnterpriseCustomerAsMarket]] - enterprise SaaS POC discipline branch from The SaaS Podcast.
+## Evidence
+- Enterprise POC discipline: [[enterprise-sales-with-no-product-landing-a-big-four-customer]] shows that pilots fail before AI when proof criteria, budget, buying intent, timing, and rollout path are not explicit.
+- Copilot rollout: [[ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise]] says AI pilots fail from weak use cases, poor data grounding, no handoff owner, shallow training, and missing baselines.
+- Change-management warning: [[all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420]] argues that giving a business AI does not automatically create efficiency without workflow redesign and accountable owners.
+- Operating-model tension: [[all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790]] frames the problem as value realization under CEO, CFO, and CIO pressure.
+- Data-foundation gap: [[ep-46-fix-the-foundation-first-why-your-data-strategy-is-failing-before-the-ai-gets-involved]] says analytics tools, dashboards, and AI pilots can coexist with an inability to answer important leadership questions when data ownership and governance are unresolved.
+
+## Counterevidence & Qualifications
+Pilots are not inherently wasteful. They can be useful when they test specific workflows, reveal data gaps, establish baselines, and clarify ownership before scale. The sources also vary in evidence type: some are founder or investor interpretations, while the EP48 and EP46 sources are practitioner interviews. The stable claim is not that pilots fail by default, but that visible experimentation is weak evidence unless it changes accepted work.
+
+## What Changed
+- Reframed pilot purgatory to include pre-AI dashboards and analytics tools that fail to drive decisions.
+- Added data ownership, governance, and business-user exploration as upstream blockers.
+- Preserved the existing ROI, POC, Copilot, and change-management explanations while compressing them into the schema-v1 structure.
+
+## Related Concepts
+- [[BusinessLedAITransformation]] - broader adoption frame that pilot purgatory fails to reach.
+- [[AIDataReadiness]] - data-grounding and permission layer that often blocks pilot value.
+- [[DataFoundationFirstAIStrategy]] - upstream prevention strategy focused on ownership, governance, and modeling.
+- [[EnterpriseAIROIAudit]] - measurement discipline needed to prove productivity or cost impact.
+- [[EnterpriseAgentGovernance]] - governance layer needed when pilots become agentic workflows.
+- [[DataTeamAsBusinessPartner]] - decision-culture pattern that helps dashboards become business action.
+- [[AIWorkflowTriage]] - method for choosing bounded workflows before deployment.

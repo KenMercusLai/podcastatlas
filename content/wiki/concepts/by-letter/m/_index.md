@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 5602
+wiki_total_pages: 5606
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -497,6 +497,9 @@ wiki_pages:
   - key: "Microsoft365CopilotAdoption"
     title: "Microsoft 365 Copilot Adoption"
     url: "/wiki/concepts/microsoft365copilotadoption/"
+  - key: "MidMarketDataTalentGap"
+    title: "Mid-Market Data Talent Gap"
+    url: "/wiki/concepts/midmarketdatatalentgap/"
   - key: "MiddleEastSocialGameGrowth"
     title: "Middle East Social Game Growth"
     url: "/wiki/concepts/middleeastsocialgamegrowth/"

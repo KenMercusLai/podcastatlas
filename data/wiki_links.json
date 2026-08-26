@@ -12703,6 +12703,10 @@
     "title": "Data Engineering For Data Science",
     "url": "/wiki/concepts/dataengineeringfordatascience/"
   },
+  "DataFoundationFirstAIStrategy": {
+    "title": "Data Foundation-First AI Strategy",
+    "url": "/wiki/concepts/datafoundationfirstaistrategy/"
+  },
   "DataPortabilityAndSustainableTools": {
     "title": "Data Portability And Sustainable Tools",
     "url": "/wiki/concepts/dataportabilityandsustainabletools/"
@@ -12730,6 +12734,14 @@
   "DataScientistMLOpsFluency": {
     "title": "Data Scientist MLOps Fluency",
     "url": "/wiki/concepts/datascientistmlopsfluency/"
+  },
+  "DataSovereignty": {
+    "title": "Data Sovereignty",
+    "url": "/wiki/concepts/datasovereignty/"
+  },
+  "DataTeamAsBusinessPartner": {
+    "title": "Data Team as Business Partner",
+    "url": "/wiki/concepts/datateamasbusinesspartner/"
   },
   "DataToMemoryTransformation": {
     "title": "Data-to-Memory Transformation",
@@ -15054,6 +15066,10 @@
   "ElanLee": {
     "title": "Elan Lee",
     "url": "/wiki/entities/elanlee/"
+  },
+  "ElanParadoxMachines": {
+    "title": "Elan (Paradox Machines)",
+    "url": "/wiki/entities/elanparadoxmachines/"
   },
   "EldenRing": {
     "title": "Elden Ring / 艾尔登法环",
@@ -23354,6 +23370,10 @@
   "InferioritySuperiorityDynamic": {
     "title": "Inferiority-Superiority Dynamic",
     "url": "/wiki/concepts/inferioritysuperioritydynamic/"
+  },
+  "InfinityVentureStudio": {
+    "title": "Infinity Venture Studio",
+    "url": "/wiki/entities/infinityventurestudio/"
   },
   "InflationBias": {
     "title": "Inflation Bias",
@@ -31715,6 +31735,10 @@
     "title": "Microsoft Research Asia",
     "url": "/wiki/entities/microsoftresearchasia/"
   },
+  "MidMarketDataTalentGap": {
+    "title": "Mid-Market Data Talent Gap",
+    "url": "/wiki/concepts/midmarketdatatalentgap/"
+  },
   "MiddleClassConsumptionPressure": {
     "title": "Middle-Class Consumption Pressure",
     "url": "/wiki/concepts/middleclassconsumptionpressure/"
@@ -35498,6 +35522,10 @@
   "Paperboy": {
     "title": "Paperboy",
     "url": "/wiki/entities/paperboy/"
+  },
+  "ParadoxMachines": {
+    "title": "Paradox Machines",
+    "url": "/wiki/entities/paradoxmachines/"
   },
   "Paraguay": {
     "title": "Paraguay",
@@ -45663,6 +45691,10 @@
     "title": "TV Motion Stutter",
     "url": "/wiki/concepts/tvmotionstutter/"
   },
+  "Tableau": {
+    "title": "Tableau",
+    "url": "/wiki/entities/tableau/"
+  },
   "TacitManagementKnowledge": {
     "title": "Tacit Management Knowledge / 默会知识",
     "url": "/wiki/concepts/tacitmanagementknowledge/"
@@ -55662,6 +55694,10 @@
   "ep-4-a-i-talk-with-a-rocket-scientist-from-nasa": {
     "title": "EP 4: A.I. talk with a Rocket Scientist from NASA",
     "url": "/wiki/sources/ep-4-a-i-talk-with-a-rocket-scientist-from-nasa/"
+  },
+  "ep-46-fix-the-foundation-first-why-your-data-strategy-is-failing-before-the-ai-gets-involved": {
+    "title": "EP 46: Fix the Foundation First: Why Your Data Strategy Is Failing Before the AI Gets Involved",
+    "url": "/wiki/sources/ep-46-fix-the-foundation-first-why-your-data-strategy-is-failing-before-the-ai-gets-involved/"
   },
   "ep-47-the-ai-pioneer-who-decided-privacy-matters-more-than-hype": {
     "title": "EP 47: The AI Pioneer Who Decided Privacy Matters More Than Hype",

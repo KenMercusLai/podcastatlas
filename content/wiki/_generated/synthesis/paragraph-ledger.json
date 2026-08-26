@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "072aed6a21e807d5a78b02e0ca8b8493b571199d6760e84c96728f1c083b0598",
       "a47936afcfdb27f98815bc151f6b9e14a3181634eed517cf8919e4908eae520d",
       "d7991ddfbce0b1d31aaa461ba983f6cecc1eceec91c9af96d47d787ef95e5be8",
       "c4bed92f4f60604cd67c692bde4a39159344021e9ec150955ef7de0001f70cc3",
@@ -272,11 +273,44 @@
       "ed252faccaaf1dc4e8c654d3406a6a1a0fc3a6f6fe78821348d1b123c7e85a5c",
       "32b62a0e1fc3144c5e7770721fc745607afef0d0cf46a8fe94d35cab377dbbf9"
     ],
-    "paragraph_count": 270
+    "paragraph_count": 271
   },
-  "overview_commit": "8bdef1f2890ff846ddc3a117e062d11d5251eec9",
-  "overview_digest": "2e4509a8057a122e61b14fbb78c5f53a1b829d522f6f5de634a900b4dff069ee",
+  "overview_commit": "43031f8c1b4a191bc1afa64c959b775a1b9f86f2",
+  "overview_digest": "aa3c7e8af8c56de720ed58315c611f025a749a46e6594baf1f1014ab9aa8138a",
   "paragraphs": [
+    {
+      "id": "072aed6a21e807d5a78b02e0ca8b8493b571199d6760e84c96728f1c083b0598",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "ai-and-technology"
+      ],
+      "text": "The latest addition is [[ep-46-fix-the-foundation-first-why-your-data-strategy-is-failing-before-the-ai-gets-involved|EP 46: Fix the Foundation First: Why Your Data Strategy Is Failing Before the AI Gets Involved]], a [[DataScienceWithSam]] episode with [[ElanParadoxMachines|Elan]] of [[ParadoxMachines]] on data foundations before AI. It adds [[ParadoxMachines]], [[ElanParadoxMachines]], [[InfinityVentureStudio]], [[Tableau]], [[DataFoundationFirstAIStrategy]], [[MidMarketDataTalentGap]], [[DataTeamAsBusinessPartner]], and [[DataSovereignty]], while extending [[AIDataReadiness]], [[EnterpriseAIPilotPurgatory]], [[BusinessLedAITransformation]], [[EnterpriseAgentGovernance]], [[AIApplicationLayerMoat]], [[ModelSovereignty]], and [[DigitalSovereignty]]. Its core synthesis is that enterprise AI failure often begins before model selection: dashboards, pilots, and AI connectors cannot compensate for missing data ownership, governance, business modeling, executive conviction, and bottom-up data exploration. No settled contradiction is recorded; Paradox Machines' scale, customer claims, and market positioning remain source-scoped founder statements.",
+      "topic_scores": {
+        "ai-and-technology": 3,
+        "business-and-markets": 4,
+        "governance-and-institutions": 1,
+        "science-health-and-climate": 1
+      },
+      "wikilinks": [
+        "AIApplicationLayerMoat",
+        "AIDataReadiness",
+        "BusinessLedAITransformation",
+        "DataFoundationFirstAIStrategy",
+        "DataScienceWithSam",
+        "DataSovereignty",
+        "DataTeamAsBusinessPartner",
+        "DigitalSovereignty",
+        "ElanParadoxMachines",
+        "EnterpriseAIPilotPurgatory",
+        "EnterpriseAgentGovernance",
+        "InfinityVentureStudio",
+        "MidMarketDataTalentGap",
+        "ModelSovereignty",
+        "ParadoxMachines",
+        "Tableau",
+        "ep-46-fix-the-foundation-first-why-your-data-strategy-is-failing-before-the-ai-gets-involved"
+      ]
+    },
     {
       "id": "a47936afcfdb27f98815bc151f6b9e14a3181634eed517cf8919e4908eae520d",
       "primary_topic": "governance-and-institutions",

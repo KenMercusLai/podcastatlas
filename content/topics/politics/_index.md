@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1916
+topic_total_pages: 1918
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -643,6 +643,12 @@ topic_concepts:
   - key: "DataCenterCostShifting"
     title: "Data Center Cost Shifting"
     url: "/wiki/concepts/datacentercostshifting/"
+  - key: "DataFoundationFirstAIStrategy"
+    title: "Data Foundation-First AI Strategy"
+    url: "/wiki/concepts/datafoundationfirstaistrategy/"
+  - key: "DataSovereignty"
+    title: "Data Sovereignty"
+    url: "/wiki/concepts/datasovereignty/"
   - key: "DataEnabledPersecution"
     title: "Data-Enabled Persecution / 数据化迫害"
     url: "/wiki/concepts/dataenabledpersecution/"

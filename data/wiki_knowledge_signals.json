@@ -492,6 +492,43 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/aidatabrokerdemand/"
     },
+    "AIDataReadiness": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "9389C8D8129058D299C60A4A7A643C6~8605835_2026-08-20-232235-8787-0-0-1.128 [9389C8D8129058D299C60A4A7A643C6~8605835_2026-08-20-232235-8787-0-0-1.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a87a9bc].md",
+          "key": "ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise",
+          "show": "Data Science With Sam",
+          "title": "EP 48: From Pilots to Productivity: What It Actually Takes to Make AI Work in the Enterprise",
+          "url": "/wiki/sources/ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise/"
+        },
+        {
+          "episode_file": "39ADD5FCDC6997BBA7B53F822E6A5B5A~8584417_2026-08-10-214817-8787-0-0-10.128 [39ADD5FCDC6997BBA7B53F822E6A5B5A~8584417_2026-08-10-214817-8787-0-0-10.128.mp3？cdn_id=99&uuid=8b3a9fb2-da9e-4bbe-c0a9-e60f7882261d&wuuid=6a839553].md",
+          "key": "ep-28-the-ai-revolution-redefining-healthcare-financing",
+          "show": "Data Science With Sam",
+          "title": "EP 28: The AI Revolution: Redefining Healthcare Financing",
+          "url": "/wiki/sources/ep-28-the-ai-revolution-redefining-healthcare-financing/"
+        },
+        {
+          "episode_file": "E69ADA8664814B454CA68D0D8A92C90~8584430_2026-08-10-215630-8787-0-0-10.128 [E69ADA8664814B454CA68D0D8A92C90~8584430_2026-08-10-215630-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a83899e].md",
+          "key": "ep-16-data-decoded-navigating-the-ai-revolution",
+          "show": "Data Science With Sam",
+          "title": "EP 16: Data Decoded: Navigating the AI Revolution",
+          "url": "/wiki/sources/ep-16-data-decoded-navigating-the-ai-revolution/"
+        },
+        {
+          "episode_file": "27EF88C45FEB84B417313FFFF4F07AA4~8584396_2026-08-10-213036-8787-0-0-10.128 [27EF88C45FEB84B417313FFFF4F07AA4~8584396_2026-08-10-213036-8787-0-0-10.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a83af9f].md",
+          "key": "ep-46-fix-the-foundation-first-why-your-data-strategy-is-failing-before-the-ai-gets-involved",
+          "show": "Data Science With Sam",
+          "title": "EP 46: Fix the Foundation First: Why Your Data Strategy Is Failing Before the AI Gets Involved",
+          "url": "/wiki/sources/ep-46-fix-the-foundation-first-why-your-data-strategy-is-failing-before-the-ai-gets-involved/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/aidatareadiness/"
+    },
     "AIEmpireSovereigntyRisk": {
       "episode_count": 1,
       "show_count": 1,
@@ -1727,6 +1764,54 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/databrokercompliancegap/"
     },
+    "DataFoundationFirstAIStrategy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "27EF88C45FEB84B417313FFFF4F07AA4~8584396_2026-08-10-213036-8787-0-0-10.128 [27EF88C45FEB84B417313FFFF4F07AA4~8584396_2026-08-10-213036-8787-0-0-10.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a83af9f].md",
+          "key": "ep-46-fix-the-foundation-first-why-your-data-strategy-is-failing-before-the-ai-gets-involved",
+          "show": "Data Science With Sam",
+          "title": "EP 46: Fix the Foundation First: Why Your Data Strategy Is Failing Before the AI Gets Involved",
+          "url": "/wiki/sources/ep-46-fix-the-foundation-first-why-your-data-strategy-is-failing-before-the-ai-gets-involved/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/datafoundationfirstaistrategy/"
+    },
+    "DataSovereignty": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "27EF88C45FEB84B417313FFFF4F07AA4~8584396_2026-08-10-213036-8787-0-0-10.128 [27EF88C45FEB84B417313FFFF4F07AA4~8584396_2026-08-10-213036-8787-0-0-10.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a83af9f].md",
+          "key": "ep-46-fix-the-foundation-first-why-your-data-strategy-is-failing-before-the-ai-gets-involved",
+          "show": "Data Science With Sam",
+          "title": "EP 46: Fix the Foundation First: Why Your Data Strategy Is Failing Before the AI Gets Involved",
+          "url": "/wiki/sources/ep-46-fix-the-foundation-first-why-your-data-strategy-is-failing-before-the-ai-gets-involved/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/datasovereignty/"
+    },
+    "DataTeamAsBusinessPartner": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "27EF88C45FEB84B417313FFFF4F07AA4~8584396_2026-08-10-213036-8787-0-0-10.128 [27EF88C45FEB84B417313FFFF4F07AA4~8584396_2026-08-10-213036-8787-0-0-10.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a83af9f].md",
+          "key": "ep-46-fix-the-foundation-first-why-your-data-strategy-is-failing-before-the-ai-gets-involved",
+          "show": "Data Science With Sam",
+          "title": "EP 46: Fix the Foundation First: Why Your Data Strategy Is Failing Before the AI Gets Involved",
+          "url": "/wiki/sources/ep-46-fix-the-foundation-first-why-your-data-strategy-is-failing-before-the-ai-gets-involved/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/datateamasbusinesspartner/"
+    },
     "DeathGroundTacticalPreconditions": {
       "episode_count": 4,
       "show_count": 1,
@@ -2021,6 +2106,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/dulldirtydangerousrobotics/"
     },
+    "ElanParadoxMachines": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "27EF88C45FEB84B417313FFFF4F07AA4~8584396_2026-08-10-213036-8787-0-0-10.128 [27EF88C45FEB84B417313FFFF4F07AA4~8584396_2026-08-10-213036-8787-0-0-10.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a83af9f].md",
+          "key": "ep-46-fix-the-foundation-first-why-your-data-strategy-is-failing-before-the-ai-gets-involved",
+          "show": "Data Science With Sam",
+          "title": "EP 46: Fix the Foundation First: Why Your Data Strategy Is Failing Before the AI Gets Involved",
+          "url": "/wiki/sources/ep-46-fix-the-foundation-first-why-your-data-strategy-is-failing-before-the-ai-gets-involved/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/elanparadoxmachines/"
+    },
     "EmbodiedDataPyramid": {
       "episode_count": 6,
       "show_count": 5,
@@ -2103,6 +2204,50 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/energyabundanceclimatestrategy/"
+    },
+    "EnterpriseAIPilotPurgatory": {
+      "episode_count": 5,
+      "show_count": 3,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "AHARO4500147412 [AHARO4500147412].md",
+          "key": "enterprise-sales-with-no-product-landing-a-big-four-customer",
+          "show": "The SaaS Podcast - Real Lessons on Growing Profitable SaaS",
+          "title": "Enterprise Sales With No Product: Landing a Big Four Customer",
+          "url": "/wiki/sources/enterprise-sales-with-no-product-landing-a-big-four-customer/"
+        },
+        {
+          "episode_file": "9389C8D8129058D299C60A4A7A643C6~8605835_2026-08-20-232235-8787-0-0-1.128 [9389C8D8129058D299C60A4A7A643C6~8605835_2026-08-20-232235-8787-0-0-1.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a87a9bc].md",
+          "key": "ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise",
+          "show": "Data Science With Sam",
+          "title": "EP 48: From Pilots to Productivity: What It Actually Takes to Make AI Work in the Enterprise",
+          "url": "/wiki/sources/ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's Generational Run, OpenAI Panics, AI Moats, Meta Loses Lawsuits [40647420].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Anthropic's Generational Run, OpenAI Panics, AI Moats, Meta Loses Lawsuits",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Why AI will dwarf every tech revolution before it： robots, manufacturing, AR glasses from CES 2026 [39655790].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Why AI will dwarf every tech revolution before it: robots, manufacturing, AR glasses from CES 2026",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790/"
+        },
+        {
+          "episode_file": "27EF88C45FEB84B417313FFFF4F07AA4~8584396_2026-08-10-213036-8787-0-0-10.128 [27EF88C45FEB84B417313FFFF4F07AA4~8584396_2026-08-10-213036-8787-0-0-10.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a83af9f].md",
+          "key": "ep-46-fix-the-foundation-first-why-your-data-strategy-is-failing-before-the-ai-gets-involved",
+          "show": "Data Science With Sam",
+          "title": "EP 46: Fix the Foundation First: Why Your Data Strategy Is Failing Before the AI Gets Involved",
+          "url": "/wiki/sources/ep-46-fix-the-foundation-first-why-your-data-strategy-is-failing-before-the-ai-gets-involved/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/enterpriseaipilotpurgatory/"
     },
     "EvolutionaryMisrecognition": {
       "episode_count": 1,
@@ -3526,6 +3671,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/industrialinspectionrobotics/"
+    },
+    "InfinityVentureStudio": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "27EF88C45FEB84B417313FFFF4F07AA4~8584396_2026-08-10-213036-8787-0-0-10.128 [27EF88C45FEB84B417313FFFF4F07AA4~8584396_2026-08-10-213036-8787-0-0-10.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a83af9f].md",
+          "key": "ep-46-fix-the-foundation-first-why-your-data-strategy-is-failing-before-the-ai-gets-involved",
+          "show": "Data Science With Sam",
+          "title": "EP 46: Fix the Foundation First: Why Your Data Strategy Is Failing Before the AI Gets Involved",
+          "url": "/wiki/sources/ep-46-fix-the-foundation-first-why-your-data-strategy-is-failing-before-the-ai-gets-involved/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/infinityventurestudio/"
     },
     "InstitutionalPolicyPluralism": {
       "episode_count": 1,
@@ -5806,6 +5967,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/michaelkratsios/"
     },
+    "MidMarketDataTalentGap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "27EF88C45FEB84B417313FFFF4F07AA4~8584396_2026-08-10-213036-8787-0-0-10.128 [27EF88C45FEB84B417313FFFF4F07AA4~8584396_2026-08-10-213036-8787-0-0-10.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a83af9f].md",
+          "key": "ep-46-fix-the-foundation-first-why-your-data-strategy-is-failing-before-the-ai-gets-involved",
+          "show": "Data Science With Sam",
+          "title": "EP 46: Fix the Foundation First: Why Your Data Strategy Is Failing Before the AI Gets Involved",
+          "url": "/wiki/sources/ep-46-fix-the-foundation-first-why-your-data-strategy-is-failing-before-the-ai-gets-involved/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/midmarketdatatalentgap/"
+    },
     "MilitaryAIOversightCompression": {
       "episode_count": 1,
       "show_count": 1,
@@ -6363,6 +6540,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/ordinarypeoplehistoricalvisibility/"
+    },
+    "ParadoxMachines": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "27EF88C45FEB84B417313FFFF4F07AA4~8584396_2026-08-10-213036-8787-0-0-10.128 [27EF88C45FEB84B417313FFFF4F07AA4~8584396_2026-08-10-213036-8787-0-0-10.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a83af9f].md",
+          "key": "ep-46-fix-the-foundation-first-why-your-data-strategy-is-failing-before-the-ai-gets-involved",
+          "show": "Data Science With Sam",
+          "title": "EP 46: Fix the Foundation First: Why Your Data Strategy Is Failing Before the AI Gets Involved",
+          "url": "/wiki/sources/ep-46-fix-the-foundation-first-why-your-data-strategy-is-failing-before-the-ai-gets-involved/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/paradoxmachines/"
     },
     "ParisForeignMissionsSociety": {
       "episode_count": 1,
@@ -7694,6 +7887,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/suspiciondrivenelitealienation/"
+    },
+    "Tableau": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "27EF88C45FEB84B417313FFFF4F07AA4~8584396_2026-08-10-213036-8787-0-0-10.128 [27EF88C45FEB84B417313FFFF4F07AA4~8584396_2026-08-10-213036-8787-0-0-10.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a83af9f].md",
+          "key": "ep-46-fix-the-foundation-first-why-your-data-strategy-is-failing-before-the-ai-gets-involved",
+          "show": "Data Science With Sam",
+          "title": "EP 46: Fix the Foundation First: Why Your Data Strategy Is Failing Before the AI Gets Involved",
+          "url": "/wiki/sources/ep-46-fix-the-foundation-first-why-your-data-strategy-is-failing-before-the-ai-gets-involved/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/tableau/"
     },
     "TadunLateHan": {
       "episode_count": 1,

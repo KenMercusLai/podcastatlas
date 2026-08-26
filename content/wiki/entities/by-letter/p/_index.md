@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 7829
+wiki_total_pages: 7833
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -59,6 +59,9 @@ wiki_pages:
   - key: "Paperboy"
     title: "Paperboy"
     url: "/wiki/entities/paperboy/"
+  - key: "ParadoxMachines"
+    title: "Paradox Machines"
+    url: "/wiki/entities/paradoxmachines/"
   - key: "Paraguay"
     title: "Paraguay"
     url: "/wiki/entities/paraguay/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 5602
+wiki_total_pages: 5606
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -92,6 +92,9 @@ wiki_pages:
   - key: "DataEngineeringForDataScience"
     title: "Data Engineering For Data Science"
     url: "/wiki/concepts/dataengineeringfordatascience/"
+  - key: "DataFoundationFirstAIStrategy"
+    title: "Data Foundation-First AI Strategy"
+    url: "/wiki/concepts/datafoundationfirstaistrategy/"
   - key: "DataPortabilityAndSustainableTools"
     title: "Data Portability And Sustainable Tools"
     url: "/wiki/concepts/dataportabilityandsustainabletools/"
@@ -110,6 +113,12 @@ wiki_pages:
   - key: "DataScientistMLOpsFluency"
     title: "Data Scientist MLOps Fluency"
     url: "/wiki/concepts/datascientistmlopsfluency/"
+  - key: "DataSovereignty"
+    title: "Data Sovereignty"
+    url: "/wiki/concepts/datasovereignty/"
+  - key: "DataTeamAsBusinessPartner"
+    title: "Data Team as Business Partner"
+    url: "/wiki/concepts/datateamasbusinesspartner/"
   - key: "DataBackedLaborBargaining"
     title: "Data-Backed Labor Bargaining"
     url: "/wiki/concepts/databackedlaborbargaining/"

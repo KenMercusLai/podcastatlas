@@ -247,14 +247,14 @@
       "earliest_episode_date": "2021-09-28",
       "latest_episode_date": "2026-08-20",
       "latest_episode_file": "9389C8D8129058D299C60A4A7A643C6~8605835_2026-08-20-232235-8787-0-0-1.128 [9389C8D8129058D299C60A4A7A643C6~8605835_2026-08-20-232235-8787-0-0-1.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a87a9bc].md",
-      "source_note_count": 20,
-      "topic_matched_source_note_count": 13,
+      "source_note_count": 21,
+      "topic_matched_source_note_count": 14,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 10
+          "source_note_count": 11
         },
         {
           "key": "science",
