@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1895
+topic_total_pages: 1897
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3031,6 +3031,9 @@ topic_concepts:
   - key: "CupWineDisarmsGenerals"
     title: "杯酒释兵权 / Cup of Wine Disarms Generals"
     url: "/wiki/concepts/cupwinedisarmsgenerals/"
+  - key: "ArmedFollowerIntegrationCost"
+    title: "武装部众整合成本 / Armed Follower Integration Cost"
+    url: "/wiki/concepts/armedfollowerintegrationcost/"
   - key: "FactionalAlignmentExitCapital"
     title: "派系站队退出资本 / Factional Alignment Exit Capital"
     url: "/wiki/concepts/factionalalignmentexitcapital/"
@@ -3046,6 +3049,9 @@ topic_concepts:
   - key: "QingRumorPolitics"
     title: "清代谣言政治 / Qing Rumor Politics"
     url: "/wiki/concepts/qingrumorpolitics/"
+  - key: "SuspicionDrivenEliteAlienation"
+    title: "猜疑驱动的士族离心 / Suspicion-Driven Elite Alienation"
+    url: "/wiki/concepts/suspiciondrivenelitealienation/"
   - key: "WangAnshiReforms"
     title: "王安石变法 / Wang Anshi Reforms"
     url: "/wiki/concepts/wanganshireforms/"

@@ -588,6 +588,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/anybotics/"
     },
+    "ArmedFollowerIntegrationCost": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1037丨忠于曹操or刘表？揭秘韩嵩的忠义抉择 [lomRBxFFCu6eUaNtOZh2FjVrYkVA].md",
+          "key": "zizhi-tongjian-hanji-1037-zhongyu-caocao-or-liubiao-jiemi-hansong-de-zhongyi-jueze-lomrbxffcu6euantozh2fjvrykva",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1037丨忠于曹操or刘表？揭秘韩嵩的忠义抉择",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1037-zhongyu-caocao-or-liubiao-jiemi-hansong-de-zhongyi-jueze-lomrbxffcu6euantozh2fjvrykva/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/armedfollowerintegrationcost/"
+    },
     "AtlasRobot": {
       "episode_count": 1,
       "show_count": 1,
@@ -773,6 +789,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/consortiogroupfinancing/"
+    },
+    "CourtLegitimacyOverPatronLoyalty": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1037丨忠于曹操or刘表？揭秘韩嵩的忠义抉择 [lomRBxFFCu6eUaNtOZh2FjVrYkVA].md",
+          "key": "zizhi-tongjian-hanji-1037-zhongyu-caocao-or-liubiao-jiemi-hansong-de-zhongyi-jueze-lomrbxffcu6euantozh2fjvrykva",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1037丨忠于曹操or刘表？揭秘韩嵩的忠义抉择",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1037-zhongyu-caocao-or-liubiao-jiemi-hansong-de-zhongyi-jueze-lomrbxffcu6euantozh2fjvrykva/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/courtlegitimacyoverpatronloyalty/"
     },
     "CrisisComposureCoverStory": {
       "episode_count": 1,
@@ -1343,6 +1375,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/guanjinglatehan/"
+    },
+    "HanSongLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1037丨忠于曹操or刘表？揭秘韩嵩的忠义抉择 [lomRBxFFCu6eUaNtOZh2FjVrYkVA].md",
+          "key": "zizhi-tongjian-hanji-1037-zhongyu-caocao-or-liubiao-jiemi-hansong-de-zhongyi-jueze-lomrbxffcu6euantozh2fjvrykva",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1037丨忠于曹操or刘表？揭秘韩嵩的忠义抉择",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1037-zhongyu-caocao-or-liubiao-jiemi-hansong-de-zhongyi-jueze-lomrbxffcu6euantozh2fjvrykva/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/hansonglatehan/"
     },
     "HeYongLateHan": {
       "episode_count": 5,
@@ -2199,6 +2247,92 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/latentrivalrecognition/"
     },
+    "LiuBiao": {
+      "episode_count": 11,
+      "show_count": 1,
+      "source_note_count": 11,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》953丨乱世之中，要不要讲究仁义？ [lrZfImgqAtJXyw9zX9rY2kIWXKON].md",
+          "key": "zizhi-tongjian-hanji-953-luanshi-zhizhong-yaobuyao-jiangjiu-renyi-lrzfimgqatjxyw9zx9ry2kiwxkon",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》953丨乱世之中，要不要讲究仁义？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-953-luanshi-zhizhong-yaobuyao-jiangjiu-renyi-lrzfimgqatjxyw9zx9ry2kiwxkon/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》959丨如果你穿越到三国，该如何存活？ [lroaiHMPNRElmFcUGym9zx2H2dHQ].md",
+          "key": "zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》959丨如果你穿越到三国，该如何存活？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》967丨他参与谋杀董卓，竟能逃过死神围猎？ [lv24bIySWJ9LjDLD5HTynhAUHPh3].md",
+          "key": "zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》967丨他参与谋杀董卓，竟能逃过死神围猎？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》969丨袁氏兄弟内斗，谁能捡漏？ [lsgj6sewO35jPSGFm_kOIvIJtr6r].md",
+          "key": "zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》969丨袁氏兄弟内斗，谁能捡漏？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》999丨三国乱世，人性有多么脆弱？ [li8Tz30Elca7BnIpEI6DfQDxMMEu].md",
+          "key": "zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》999丨三国乱世，人性有多么脆弱？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1010丨三国刘表，究竟是不是漂亮的草包？ [lo58hZFo-Qv0SOaUOGTgFrKOurrd].md",
+          "key": "zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1010丨三国刘表，究竟是不是漂亮的草包？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1011丨祢衡之死：最具悲剧色彩的借刀杀人 [ltRzPchWDfcyp4NTmUm9Giu-5mVa].md",
+          "key": "zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1011丨祢衡之死：最具悲剧色彩的借刀杀人",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1012丨好色曹操：乱世中的独特情事 [llvRUCIhUV2bUvp1-lISZ4uSBPrh].md",
+          "key": "zizhi-tongjian-hanji-1012-haose-caocao-luanshi-zhong-de-dute-qingshi-llvrucihuv2buvp1-lisz4usbprh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1012丨好色曹操：乱世中的独特情事",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1012-haose-caocao-luanshi-zhong-de-dute-qingshi-llvrucihuv2buvp1-lisz4usbprh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1013丨典韦之死，竟是曹操好色害了他？ [lhe6jrPJP3cfbdhvJTdIeziJfnOH].md",
+          "key": "zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1013丨典韦之死，竟是曹操好色害了他？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1027丨荆州之主刘表，为何难成霸主？ [ll-ebgUQLlSF_5YCvPDogihzN3lJ].md",
+          "key": "zizhi-tongjian-hanji-1027-jingzhou-zhizhu-liubiao-weihe-nan-cheng-bazhu-ll-ebguqllsf-5ycvpdogihzn3lj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1027丨荆州之主刘表，为何难成霸主？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1027-jingzhou-zhizhu-liubiao-weihe-nan-cheng-bazhu-ll-ebguqllsf-5ycvpdogihzn3lj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1037丨忠于曹操or刘表？揭秘韩嵩的忠义抉择 [lomRBxFFCu6eUaNtOZh2FjVrYkVA].md",
+          "key": "zizhi-tongjian-hanji-1037-zhongyu-caocao-or-liubiao-jiemi-hansong-de-zhongyi-jueze-lomrbxffcu6euantozh2fjvrykva",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1037丨忠于曹操or刘表？揭秘韩嵩的忠义抉择",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1037-zhongyu-caocao-or-liubiao-jiemi-hansong-de-zhongyi-jueze-lomrbxffcu6euantozh2fjvrykva/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/liubiao/"
+    },
     "LiuDaiSikongZhangshi": {
       "episode_count": 1,
       "show_count": 1,
@@ -2216,9 +2350,9 @@
       "url": "/wiki/entities/liudaisikongzhangshi/"
     },
     "LiuXunLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》983丨只会骗人的老板永远不是好老板 [lkNR2zyDwjYTjo7Od_rT3Zi_4k_s].md",
@@ -2233,15 +2367,22 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1038丨三十六计之调虎离山：孙策智取皖城",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1038-sanshiliu-ji-zhi-diaohu-lishan-sunce-zhiqu-wancheng-lhomk8hfdidl61degwbqtj2xkj9z/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1037丨忠于曹操or刘表？揭秘韩嵩的忠义抉择 [lomRBxFFCu6eUaNtOZh2FjVrYkVA].md",
+          "key": "zizhi-tongjian-hanji-1037-zhongyu-caocao-or-liubiao-jiemi-hansong-de-zhongyi-jueze-lomrbxffcu6euantozh2fjvrykva",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1037丨忠于曹操or刘表？揭秘韩嵩的忠义抉择",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1037-zhongyu-caocao-or-liubiao-jiemi-hansong-de-zhongyi-jueze-lomrbxffcu6euantozh2fjvrykva/"
         }
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/liuxunlatehan/"
     },
     "LiuYeLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1038丨三十六计之调虎离山：孙策智取皖城 [lhOmK8hFDiDL61DegWBqTj2XKj9Z].md",
@@ -2249,6 +2390,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1038丨三十六计之调虎离山：孙策智取皖城",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1038-sanshiliu-ji-zhi-diaohu-lishan-sunce-zhiqu-wancheng-lhomk8hfdidl61degwbqtj2xkj9z/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1037丨忠于曹操or刘表？揭秘韩嵩的忠义抉择 [lomRBxFFCu6eUaNtOZh2FjVrYkVA].md",
+          "key": "zizhi-tongjian-hanji-1037-zhongyu-caocao-or-liubiao-jiemi-hansong-de-zhongyi-jueze-lomrbxffcu6euantozh2fjvrykva",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1037丨忠于曹操or刘表？揭秘韩嵩的忠义抉择",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1037-zhongyu-caocao-or-liubiao-jiemi-hansong-de-zhongyi-jueze-lomrbxffcu6euantozh2fjvrykva/"
         }
       ],
       "updated": "2026-08-26",
@@ -3304,6 +3452,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/surrenderascivilianprotectiontradeoff/"
     },
+    "SuspicionDrivenEliteAlienation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1037丨忠于曹操or刘表？揭秘韩嵩的忠义抉择 [lomRBxFFCu6eUaNtOZh2FjVrYkVA].md",
+          "key": "zizhi-tongjian-hanji-1037-zhongyu-caocao-or-liubiao-jiemi-hansong-de-zhongyi-jueze-lomrbxffcu6euantozh2fjvrykva",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1037丨忠于曹操or刘表？揭秘韩嵩的忠义抉择",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1037-zhongyu-caocao-or-liubiao-jiemi-hansong-de-zhongyi-jueze-lomrbxffcu6euantozh2fjvrykva/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/suspiciondrivenelitealienation/"
+    },
     "TanSitong": {
       "episode_count": 1,
       "show_count": 1,
@@ -3894,6 +4058,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/yuanhonglatehan/"
     },
+    "YuanYinLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1037丨忠于曹操or刘表？揭秘韩嵩的忠义抉择 [lomRBxFFCu6eUaNtOZh2FjVrYkVA].md",
+          "key": "zizhi-tongjian-hanji-1037-zhongyu-caocao-or-liubiao-jiemi-hansong-de-zhongyi-jueze-lomrbxffcu6euantozh2fjvrykva",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1037丨忠于曹操or刘表？揭秘韩嵩的忠义抉择",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1037-zhongyu-caocao-or-liubiao-jiemi-hansong-de-zhongyi-jueze-lomrbxffcu6euantozh2fjvrykva/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/yuanyinlatehan/"
+    },
     "YuzhangCommandery": {
       "episode_count": 3,
       "show_count": 1,
@@ -3939,6 +4119,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/zhangjianlatehan/"
+    },
+    "ZhengBaoLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1037丨忠于曹操or刘表？揭秘韩嵩的忠义抉择 [lomRBxFFCu6eUaNtOZh2FjVrYkVA].md",
+          "key": "zizhi-tongjian-hanji-1037-zhongyu-caocao-or-liubiao-jiemi-hansong-de-zhongyi-jueze-lomrbxffcu6euantozh2fjvrykva",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1037丨忠于曹操or刘表？揭秘韩嵩的忠义抉择",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1037-zhongyu-caocao-or-liubiao-jiemi-hansong-de-zhongyi-jueze-lomrbxffcu6euantozh2fjvrykva/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/zhengbaolatehan/"
     },
     "ZhongJiLateHan": {
       "episode_count": 1,

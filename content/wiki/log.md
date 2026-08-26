@@ -12041,3 +12041,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-26] ingest | 《资治通鉴·汉纪》1037丨忠于曹操or刘表？揭秘韩嵩的忠义抉择
+
+Added source page for Hanji 1037: Han Song's Xudu appointment and court-loyalty defense, Liu Biao's suspicion and imprisonment of Han Song, Liu Ye's killing of Zheng Bao, Liu Ye's refusal to absorb undisciplined followers, and the Zheng Bao/Yuan Yin food-pressure prelude to Liu Xun's Hanji 1038 mistake. Created Han Song (late Han), Zheng Bao, Yuan Yin, Court Legitimacy Over Patron Loyalty, Suspicion-Driven Elite Alienation, and Armed Follower Integration Cost; updated Liu Biao, Liu Ye, Liu Xun, index, and overview. No settled contradiction found; Han Song / 韩嵩 is disambiguated from the modern AI-chip researcher Han Song / 韩松.
+
+## [2026-08-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

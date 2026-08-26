@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 5539
+wiki_total_pages: 5542
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1751,6 +1751,9 @@ wiki_pages:
   - key: "ClosedCircleMystery"
     title: "暴风雪山庄 / Closed-Circle Mystery"
     url: "/wiki/concepts/closedcirclemystery/"
+  - key: "CourtLegitimacyOverPatronLoyalty"
+    title: "朝廷名义高于主君私属 / Court Legitimacy Over Patron Loyalty"
+    url: "/wiki/concepts/courtlegitimacyoverpatronloyalty/"
   - key: "CupWineDisarmsGenerals"
     title: "杯酒释兵权 / Cup of Wine Disarms Generals"
     url: "/wiki/concepts/cupwinedisarmsgenerals/"

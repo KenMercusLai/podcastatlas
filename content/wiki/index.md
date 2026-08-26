@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1037丨忠于曹操or刘表？揭秘韩嵩的忠义抉择](sources/zizhi-tongjian-hanji-1037-zhongyu-caocao-or-liubiao-jiemi-hansong-de-zhongyi-jueze-lomrbxffcu6euantozh2fjvrykva.md) — 芮淇讲透资治通鉴 episode on Han Song's court-loyalty conflict with Liu Biao, Liu Biao's suspicion and imprisonment of him, Liu Ye's killing of Zheng Bao, and the follower/grain pressure that sets up Liu Xun before Hanji 1038.
 - [《资治通鉴·汉纪》1038丨三十六计之调虎离山：孙策智取皖城](sources/zizhi-tongjian-hanji-1038-sanshiliu-ji-zhi-diaohu-lishan-sunce-zhiqu-wancheng-lhomk8hfdidl61degwbqtj2xkj9z.md) — 芮淇讲透资治通鉴 episode on Sun Ce luring Liu Xun out of Lujiang, Liu Ye's ignored warning, the capture of Wan City with Zhou Yu, Liu Xun's flight to Cao Cao, and the Huang Zu/Yuzhang follow-on.
 - [The continent nobody owns & everyone benefits from (Summer School)](sources/the-continent-nobody-owns-everyone-benefits-from-summer-school.md) — Planet Money Summer School finale on Antarctica's non-market climate value, treaty-based commons governance, McMurdo retail scarcity, Tokyo parking, Vienna social housing, and Brazilian consortios.
 - [《资治通鉴·汉纪》1039丨东吴第一嘴炮？且看他如何劝降华歆](sources/zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd.md) — 芮淇讲透资治通鉴 episode on Yu Fan persuading Hua Xin to surrender Yuzhang to Sun Ce, the moral dispute over surrender as civilian protection, Sun Ce's Luling split and local pacification, Lady Wu saving Wei Teng, Xu Zhao's selective leniency case, and Xu Chu stopping Xu Ta's guard plot against Cao Cao.
@@ -2034,6 +2035,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [陈纪 / Chen Ji (late Han)](entities/ChenJiLateHan.md) — Late-Han figure named in Dong Zhuo's scholar-recruitment field and later as Yuan Shu's Jiujiang appointee after a broken promise to Sun Ce.
 - [刘勋 / Liu Xun (late Han)](entities/LiuXunLateHan.md) — Lujiang holder who ignores Liu Ye's warning, leaves his rear exposed, loses Wan City to Sun Ce, and flees to Cao Cao.
 - [刘晔 / Liu Ye (late Han)](entities/LiuYeLateHan.md) — Adviser whose ignored warning identifies Sun Ce's Lujiang lure and Liu Xun's exposed rear.
+- [韩嵩 / Han Song (late Han)](entities/HanSongLateHan.md) — Jingzhou envoy whose Xudu appointment and court-facing loyalty trigger Liu Biao's suspicion and imprisonment.
+- [郑宝 / Zheng Bao (late Han)](entities/ZhengBaoLateHan.md) — Yangzhou armed leader killed by Liu Ye after trying to use Liu Ye's reputation for a southward population movement.
+- [袁胤 / Yuan Yin (late Han)](entities/YuanYinLateHan.md) — Yuan Shu kinsman whose arrival with remnants and households intensifies Liu Xun's Lujiang food pressure.
 - [樊能 / Fan Neng (late Han)](entities/FanNengLateHan.md) — Liu Yao officer sent with Yu Mi to guard Hengjiang.
 - [于糜 / Yu Mi (late Han)](entities/YuMiLateHan.md) — Liu Yao officer paired with Fan Neng at Hengjiang.
 - [张英 / Zhang Ying (late Han)](entities/ZhangYingLateHan.md) — Liu Yao officer guarding Danglikou against Yuan Shu's side.
@@ -9322,6 +9326,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [纳叛安抚式整合 / Strategic Defector Incorporation](concepts/StrategicDefectorIncorporation.md) — Hanji 1026 Cao Cao pattern where former enemies, local brokers, and past defectors are selectively incorporated to stabilize territory before the next campaign.
 - [派系站队退出资本 / Factional Alignment Exit Capital](concepts/FactionalAlignmentExitCapital.md) — Hanji 1027 workplace frame for reading informal power while building portable professional value and exit options.
 - [骑墙式战略暴露 / Fence-Sitting Strategic Exposure](concepts/FenceSittingStrategicExposure.md) — Liu Biao pattern where short-term neutrality becomes exploitable when local fissures and external patrons constrain initiative.
+- [猜疑驱动的士族离心 / Suspicion-Driven Elite Alienation](concepts/SuspicionDrivenEliteAlienation.md) — Hanji 1037 Liu Biao pattern where harsh suspicion toward a court-facing insider damages elite confidence.
 - [降敌任用式立威 / Captured Opponent Talent Incorporation](concepts/CapturedOpponentTalentIncorporation.md) — Hanji 1028 pattern where Sun Ce turns captured rivals such as Zu Lang and Taishi Ci into visible proof of authority, restraint, and usable talent.
 - [Rescue Reciprocity Command Trust / 救援互惠式统帅信任](concepts/RescueReciprocityCommandTrust.md) — Command-trust failure where non-rescue teaches subordinates that danger is not shared, making later relief brittle.
 - [Trade Diversification Stability Paradox](concepts/TradeDiversificationStabilityParadox.md) — Pattern where escaping dependence on a dominant trade partner first requires enough stability with that partner to attract investment.
@@ -9611,6 +9616,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [分香卖履 / Fenxiang Mailu](concepts/FenxiangMailu.md) — Hanji 1014 Cao Cao deathbed household-settlement frame around incense, livelihood, and non-sacrificial family duty.
 - [Anti-Usurpation Coalition Pressure / 讨逆同盟压力](concepts/AntiUsurpationCoalitionPressure.md) — Hanji 1001/1002/1015 pattern where Yuan Shu's imperial claim first fails internal support, then costs ally support, then forces rivals to oppose him because non-response would look like recognition.
 - [Mingqi Legitimacy / 名器合法性](concepts/MingqiLegitimacy.md) — Late-Han title-and-symbol legitimacy frame where prophecies, seals, imperial names, official appointments, and refusal of office alter political risk.
+- [朝廷名义高于主君私属 / Court Legitimacy Over Patron Loyalty](concepts/CourtLegitimacyOverPatronLoyalty.md) — Hanji 1037 loyalty-priority conflict where Han Song treats the recognized court's duty as higher than Liu Biao's personal authority.
 - [Marriage Alliance War Exposure / 联姻同盟战场暴露](concepts/MarriageAllianceWarExposure.md) — Hanji 1016 pattern where a marriage alliance would move Yuan Shu's war and legitimacy costs onto Lü Bu and Xuzhou.
 - [轻于去就 / Qing Yu Qu Jiu](concepts/QingYuQuJiu.md) — Hanji 1017 unstable-affiliation concept where a capable actor treats camps, patrons, jobs, or commitments too lightly.
 - [饥附饱扬 / Ji Fu Bao Yang](concepts/JiFuBaoYang.md) — Hanji 1018 dependency pattern where a dangerous actor attaches while needy and leaves once secure.
@@ -9904,6 +9910,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Status Anxiety Persuasion / 位阶焦虑式说服](concepts/StatusAnxietyPersuasion.md) — Pattern of redirecting policy by making another actor's success look like personal rank or merit loss, from Fan Ju/Bai Qi to Kuai Che/Han Xin.
 - [Surrendered Prisoner Security Dilemma / 杀降安全困境](concepts/SurrenderedPrisonerSecurityDilemma.md) — Post-victory dilemma where keeping surrendered troops preserves manpower but creates guarding, feeding, revolt, and legitimacy risks.
 - [War Cost Tempo Discipline / 战争成本与速决纪律](concepts/WarCostTempoDiscipline.md) — Resource-discipline frame where speed, delay, or nonmilitary victory must be judged against manpower, food, logistics, and campaign endurance.
+- [武装部众整合成本 / Armed Follower Integration Cost](concepts/ArmedFollowerIntegrationCost.md) — Hanji 1037 pattern where followers gained after an armed leader's death become food, discipline, and command costs rather than free strength.
 - [War as Violent Redistribution / 战争的暴力再分配](concepts/WarAsViolentRedistribution.md) — Source-scoped Hanji 1038 frame treating war as forcible transfer of territory, people, resources, and other survival space.
 - [Battlefield Encirclement Logistics / 战场围困与断粮](concepts/BattlefieldEncirclementLogistics.md) — Operational pattern where route cuts, feigned retreat, flank insertion, pursuit pressure, and fieldworks turn movement into supply, retreat, or crowding disaster.
 - [Shield-State Rescue Failure / 屏障国救援失灵](concepts/ShieldStateRescueFailure.md) — Alliance failure mode where states refuse troops or grain to a buffer state whose survival protects them from a common enemy.

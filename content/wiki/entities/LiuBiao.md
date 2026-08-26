@@ -2,47 +2,69 @@
 title: "刘表 / Liu Biao"
 type: entity
 tags: [person, late-han, three-kingdoms, ruler, china]
-sources: [zizhi-tongjian-hanji-953-luanshi-zhizhong-yaobuyao-jiangjiu-renyi-lrzfimgqatjxyw9zx9ry2kiwxkon, zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq, zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3, zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu, zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd, zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva, zizhi-tongjian-hanji-1012-haose-caocao-luanshi-zhong-de-dute-qingshi-llvrucihuv2buvp1-lisz4usbprh, zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh, zizhi-tongjian-hanji-1027-jingzhou-zhizhu-liubiao-weihe-nan-cheng-bazhu-ll-ebguqllsf-5ycvpdogihzn3lj]
+sources:
+  - zizhi-tongjian-hanji-953-luanshi-zhizhong-yaobuyao-jiangjiu-renyi-lrzfimgqatjxyw9zx9ry2kiwxkon
+  - zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq
+  - zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3
+  - zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r
+  - zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu
+  - zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd
+  - zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva
+  - zizhi-tongjian-hanji-1012-haose-caocao-luanshi-zhong-de-dute-qingshi-llvrucihuv2buvp1-lisz4usbprh
+  - zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh
+  - zizhi-tongjian-hanji-1027-jingzhou-zhizhu-liubiao-weihe-nan-cheng-bazhu-ll-ebguqllsf-5ycvpdogihzn3lj
+  - zizhi-tongjian-hanji-1037-zhongyu-caocao-or-liubiao-jiemi-hansong-de-zhongyi-jueze-lomrbxffcu6euantozh2fjvrykva
 last_updated: 2026-08-26
+knowledge_schema: synthesis-v1
 ---
 
 # 刘表 / Liu Biao
 
-[[zizhi-tongjian-hanji-953-luanshi-zhizhong-yaobuyao-jiangjiu-renyi-lrzfimgqatjxyw9zx9ry2kiwxkon|Hanji 953]] supplies Liu Biao's Jingzhou entry point. He arrives with appointment authority but little direct force, consults [[KuaiLiang|蒯良]] and [[KuaiYue|蒯越]], and combines benevolent people-support language with a coercive move against local armed clan heads. By executing fifty-five dangerous local leaders, absorbing their followers, and moving the state office to [[XiangyangLateHan|襄阳]], Liu Biao converts a fragile title into practical [[Jingzhou|Jingzhou]] control and establishes the base for his later [[DefensiveLocalGovernance|defensive local governance]].
+## Overview
+刘表 / Liu Biao is the late-Han Jingzhou ruler whose wiki profile combines real regional consolidation and defensive stability with a recurring strategic ceiling: slow change-reading, indecision, suspicion, and fragile elite integration.
 
-[[zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq|Hanji 959]] backfills Liu Biao as an early critic of [[LiuYanLateHan|刘焉]]'s Yizhou autonomy. When Liu Yan has emperor-level carriage equipment made in [[YizhouLateHan|益州]], Liu Biao memorializes the court that Liu Yan is imitating imperial symbols and drawing local recognition away from [[EmperorXianOfHan|汉献帝]].
+## Current Profile
+The current synthesis presents Liu Biao as neither an empty figure nor a durable contender for empire. He turns a weak appointment into practical [[Jingzhou|Jingzhou]] control through [[KuaiLiang|蒯良]], [[KuaiYue|蒯越]], local-force removal, troop absorption, and the move to [[XiangyangLateHan|襄阳]]. He also preserves relative peace, attracts scholars, keeps ritual claims bounded, pressures Yuan Shu, and supplies Emperor Xian's damaged court.
 
-[[zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3|Hanji 967]] adds an earlier formal-recognition layer. After the Chang'an counterattack sequence, Liu Biao sends tribute to the court and receives the Zhengnan general, Jingzhou governor, and Chengwu marquis package. The episode uses this briefly, but it matters for [[MingqiLegitimacy|名器合法性]] because court titles remain desirable even while [[ChangAnHanCapital|长安]] is under Li-Guo military control.
+The same pattern has limits. [[JiaXu|贾诩]]'s judgment in Hanji 1010, Deng Xi's ignored warning in Hanji 1027, the Mi Heng transfer in Hanji 1011, and the Han Song imprisonment in Hanji 1037 all point to a ruler who can shelter a region but struggles when court legitimacy, outside patrons, corrective advice, and Jingzhou elite opinion require decisive alignment. His defensive governance can preserve Jianghan, but it does not fully integrate Jingzhou before Cao Cao and Sun-side pressure make the province a target.
 
-[[zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r|Hanji 969]] adds Liu Biao before his own Jingzhou-governance evaluation. In this source, Liu Biao pressures [[YuanShu|袁术]] from the [[Jingzhou|荆州]] side, helping force Yuan Shu toward Fengqiu and then into [[CaoCao|曹操]]'s pursuit. The episode also uses Jingzhou's geography around [[JianglingLateHan|江陵]] to explain why Liu Biao's province will later matter as a corridor between [[YizhouLateHan|益州]] and [[YangzhouLateHan|扬州]].
+## Key Characteristics
+- Converts formal appointment into regional control by combining benevolent legitimacy language, local elite counsel, and coercive removal of dangerous armed clan heads.
+- Uses ritual restraint and court tribute to remain inside Han legitimacy while preserving Jingzhou autonomy.
+- Provides real defensive local governance: peace, scholar refuge, commoner protection, and troop absorption without needless humiliation.
+- Shows a strategic ceiling in disorder because he reads change slowly, avoids decisive alignment, and treats correction as personal challenge.
+- Handles disruptive talent and court-facing advice through suspicion or indirect displacement, as seen with Mi Heng and Han Song.
+- Leaves Jingzhou vulnerable because southern commanderies and elite circles can attach to outside patrons when Liu Biao's center looks unsafe or indecisive.
 
-[[zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu|Hanji 999]] adds Liu Biao's earlier court-support role before his own Jingzhou evaluation branch. [[ZhaoQiLateHan|赵岐]] persuades him to help [[EmperorXianOfHan|汉献帝]]'s return toward [[LuoyangLateHan|洛阳]], and the source says Liu Biao sends troops, supplies, and grain. This gives Liu Biao a practical stabilizing role in the same late-Han environment where other armed protectors exploit the court.
+## Evidence
+- Founding consolidation: [[zizhi-tongjian-hanji-953-luanshi-zhizhong-yaobuyao-jiangjiu-renyi-lrzfimgqatjxyw9zx9ry2kiwxkon|Hanji 953]] shows Liu Biao entering Jingzhou with little force, relying on Kuai Liang and Kuai Yue, removing fifty-five local leaders, absorbing followers, and moving to Xiangyang.
+- Han legitimacy and court recognition: [[zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq|Hanji 959]] has Liu Biao memorialize against Liu Yan's imperial-style symbolism; [[zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3|Hanji 967]] records his captured-court title package; [[zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu|Hanji 999]] shows him supplying Emperor Xian's damaged court.
+- Defensive strength: [[zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd|Hanji 1010]] shows Liu Biao mourning Zhang Ji instead of celebrating, absorbing Zhang Ji's remaining troops, treating scholars and commoners well, and backing away from emperor-level music when warned.
+- Strategic and elite-integration limits: [[zizhi-tongjian-hanji-1027-jingzhou-zhizhu-liubiao-weihe-nan-cheng-bazhu-ll-ebguqllsf-5ycvpdogihzn3lj|Hanji 1027]] has Deng Xi warn against double alignment with the Li-Guo court and Yuan Shao, then shows Zhang Xian and Huan Jie attaching southern Jingzhou commanderies to Cao Cao.
+- Suspicion and indirect handling: [[zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva|Hanji 1011]] shows Liu Biao passing Mi Heng to Huang Zu after local offense; [[zizhi-tongjian-hanji-1037-zhongyu-caocao-or-liubiao-jiemi-hansong-de-zhongyi-jueze-lomrbxffcu6euantozh2fjvrykva|Hanji 1037]] shows him threatening Han Song, torturing mission staff, finding no proof of betrayal, and still imprisoning Han Song.
+- Wancheng orbit: [[zizhi-tongjian-hanji-1012-haose-caocao-luanshi-zhong-de-dute-qingshi-llvrucihuv2buvp1-lisz4usbprh|Hanji 1012]] and [[zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh|Hanji 1013]] use Liu Biao as Zhang Xiu's regional alignment before and after the Wancheng crisis.
+- Yuan Shu and Yangtze field: [[zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r|Hanji 969]] shows Liu Biao pressuring Yuan Shu from Jingzhou and places Jingzhou inside the Yangtze corridor comparison.
 
-[[zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd|Hanji 1010]] gives Liu Biao his own interpretive branch before the later [[MiHengLateHan|祢衡]] and Wancheng episodes. After [[ZhangJiLateHan|张济]] dies attacking [[Rangcheng|穰城]] in [[NanyangCommandery|南阳郡]], Liu Biao refuses congratulations, frames the death as a failure of hospitality rather than a victory, and absorbs Zhang Ji's remaining troops through [[MourningFramedMilitaryAbsorption|丧礼化收编]]. The source reads this as real political skill: Liu Biao can hide force behind gentleness and turn danger into local consolidation.
+## Qualifications
+The page keeps the balanced synthesis intact. Liu Biao is not reduced to cowardice or stupidity: the sources show real state-building, local protection, and ritual-political skill. The negative judgment is narrower: those strengths fail to become broader strategic initiative once Guandu-era alignment, southern commandery fissures, and court-Cao legitimacy pressure intensify.
 
-The same episode makes Liu Biao's strength bounded. He had stabilized [[Jingzhou|荆州]] with local elites such as [[KuaiYue|蒯越]] and [[CaiMao|蔡瑁]], treated commoners and scholars well, and respected ritual limits when warned not to use emperor-level court music. But [[JiaXu|贾诩]] judges that Liu Biao is better suited to peaceful high office or [[DefensiveLocalGovernance|保境安民式守成治理]] than to disorder-era expansion, because he reads change slowly, lacks decisive action, and is too suspicious.
+## What Changed
+- Added Hanji 1037 as direct evidence that Liu Biao's suspicion could turn court-facing advice into imprisonment and elite alienation.
+- Migrated the legacy chronological page to synthesis-v1 while preserving the full ordered source inventory.
+- Reframed the Mi Heng and Han Song cases as part of the same suspicion/indirect-handling limit rather than isolated anecdotes.
 
-[[zizhi-tongjian-hanji-1027-jingzhou-zhizhu-liubiao-weihe-nan-cheng-bazhu-ll-ebguqllsf-5ycvpdogihzn3lj|Hanji 1027]] returns to Liu Biao's strategic ceiling from another angle. In 198 CE he accepts the Li-Guo court title package and resumes tribute while staying close to [[YuanShao|袁绍]], which [[DengXiLateHan|邓羲]] reads as dangerous double alignment. The episode calls this [[FenceSittingStrategicExposure|骑墙式战略暴露]]: Liu Biao can protect Jianghan briefly, but [[ZhangXianLateHan|张献]] and [[HuanJieLateHan|桓阶]] later attach [[SouthernJingzhouLateHan|southern Jingzhou]] commanderies to [[CaoCao|曹操]], forcing Liu Biao into costly responses through [[HuangZu|黄祖]] and [[WuxiMan|五溪蛮]] support.
-
-[[zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva|Hanji 1011]] adds Liu Biao as the second holder in [[MiHengLateHan|祢衡]]'s death chain. [[CaoCao|曹操]] sends Mi Heng to him after the public drumming humiliation; Liu Biao first treats Mi Heng as a guest, then turns against him when Jingzhou elites such as [[KuaiYue|蒯越]] and [[CaiMao|蔡瑁]] are offended and rumors say Mi Heng privately calls Liu Biao indecisive. The source reads Liu Biao's decision to send Mi Heng to [[HuangZu|黄祖]] as a second-stage [[BorrowedKnifeKilling|借刀杀人]] move.
-
-刘表 / Liu Biao enters the wiki through [[zizhi-tongjian-hanji-1012-haose-caocao-luanshi-zhong-de-dute-qingshi-llvrucihuv2buvp1-lisz4usbprh|Hanji 1012]] as the regional power with whom [[ZhangXiu|张绣]] aligns after [[ZhangJiLateHan|张济]] dies and Zhang Xiu takes over the troops. The episode uses Liu Biao as part of Zhang Xiu's pre-surrender background before Cao Cao's southern campaign.
-
-[[zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh|Hanji 1013]] adds that Zhang Xiu reconnects with Liu Biao after the Wancheng attack and subsequent defeat by [[CaoCao|曹操]]. These episodes do not develop Liu Biao's own policy; they use him as the fallback alignment that keeps Zhang Xiu from becoming simply a surrendered or defeated remnant.
-
-## Connections
-- [[KuaiLiang|蒯良]], [[KuaiYue|蒯越]], and [[XiangyangLateHan|襄阳]] - founding pieces of Liu Biao's Jingzhou consolidation in Hanji 953.
-- [[zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq|Hanji 959]], [[LiuYanLateHan|刘焉]], [[YizhouLateHan|益州]], [[MingqiLegitimacy|名器合法性]], and [[LiAsPoliticalOrder|礼制政治秩序]] - early memorial against Liu Yan's imperial-style symbolism.
-- [[zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3|Hanji 967]], [[ChangAnHanCapital|长安]], [[HuangfuSongLateHan|皇甫嵩]], and [[MingqiLegitimacy|名器合法性]] - captured-court title recognition after Dong Zhuo's death.
-- [[zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r|Hanji 969]], [[YuanShu|袁术]], [[CaoCao|曹操]], [[Jingzhou|荆州]], [[JianglingLateHan|江陵]], and [[RiverCorridorStrategicBase|长江走廊战略根据地]] - early pressure on Yuan Shu and strategic-geography setup.
-- [[ZhaoQiLateHan|赵岐]], [[EmperorXianOfHan|汉献帝]], and [[LuoyangLateHan|洛阳]] - Hanji 999 court-support and supply branch.
-- [[Jingzhou|荆州]], [[NanyangCommandery|南阳郡]], [[Rangcheng|穰城]], and [[MourningFramedMilitaryAbsorption|丧礼化收编]] - Hanji 1010 regional consolidation and remnant-absorption branch.
-- [[DengXiLateHan|邓羲]], [[ZhangXianLateHan|张献]], [[HuanJieLateHan|桓阶]], [[SouthernJingzhouLateHan|荆南]], and [[FenceSittingStrategicExposure|骑墙式战略暴露]] - Hanji 1027 double-alignment warning and southern Jingzhou exposure.
-- [[ZhangXiu|张绣]] - commander connected to Liu Biao before surrender and after the Wancheng sequence.
-- [[MiHengLateHan|祢衡]], [[HuangZu|黄祖]], [[KuaiYue|蒯越]], and [[CaiMao|蔡瑁]] - Hanji 1011 guest, final killer, and offended Jingzhou circle.
-- [[ZhangJiLateHan|张济]] - death that precedes Zhang Xiu's control of the troops.
-- [[CaoCao|曹操]] - opposing power whose counterattack pushes Zhang Xiu back.
-- [[WanCounty|宛城]] - setting of the attack that precedes the realignment.
-- [[DesireDrivenCommandExposure|私欲驱动的统帅暴露]] - source concept explaining the crisis that sends Zhang Xiu back into Liu Biao's orbit.
-- [[BorrowedKnifeKilling|借刀杀人]] - source concept for Liu Biao's indirect transfer of Mi Heng to Huang Zu.
-- [[DefensiveLocalGovernance|保境安民式守成治理]], [[XingshiqingStrategicAssessment|行势情战略评估]], and [[LiAsPoliticalOrder|礼制政治秩序]] - concepts that explain the source's balanced evaluation of his strengths and limits.
+## Relationships
+- [[Jingzhou|荆州]] - regional base Liu Biao consolidates, protects, and ultimately fails to integrate fully.
+- [[KuaiLiang|蒯良]] - adviser who supplies the people-support argument for Liu Biao's initial consolidation.
+- [[KuaiYue|蒯越]] - adviser and Jingzhou elite figure tied to both founding force absorption and later court-circle pressure.
+- [[CaiMao|蔡瑁]] - Jingzhou elite ally in Liu Biao's local ruling circle.
+- [[JiaXu|贾诩]] - evaluator who credits Liu Biao's peaceful-age suitability while naming his disorder-era limits.
+- [[DengXiLateHan|邓羲]] - ignored adviser whose resignation marks Liu Biao's failed correction channel.
+- [[ZhangXianLateHan|张献]] and [[HuanJieLateHan|桓阶]] - southern Jingzhou actors whose attachment to Cao Cao exposes Liu Biao's internal fissures.
+- [[HanSongLateHan|韩嵩]] - envoy whose court-facing loyalty triggers Liu Biao's suspicion in Hanji 1037.
+- [[MiHengLateHan|祢衡]] - disruptive scholar whose transfer to Huang Zu shows Liu Biao's indirect removal pattern.
+- [[CaoCao|曹操]] - external power whose court legitimacy and military pressure expose Liu Biao's strategic ceiling.
+- [[YuanShao|袁绍]] - northern patron option that makes Liu Biao's double alignment risky before Guandu.
+- [[DefensiveLocalGovernance|保境安民式守成治理]] - concept for Liu Biao's real local strength.
+- [[FenceSittingStrategicExposure|骑墙式战略暴露]] - concept for Liu Biao's double-alignment vulnerability.
+- [[SuspicionDrivenEliteAlienation|猜疑驱动的士族离心]] - concept for the Han Song incident's elite-political consequence.

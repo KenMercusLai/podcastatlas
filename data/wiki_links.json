@@ -4859,6 +4859,10 @@
     "title": "Armand Benard",
     "url": "/wiki/entities/armandbenard/"
   },
+  "ArmedFollowerIntegrationCost": {
+    "title": "武装部众整合成本 / Armed Follower Integration Cost",
+    "url": "/wiki/concepts/armedfollowerintegrationcost/"
+  },
   "ArmedProtestZoneSecurity": {
     "title": "Armed Protest-Zone Security",
     "url": "/wiki/concepts/armedprotestzonesecurity/"
@@ -11502,6 +11506,10 @@
   "CourtFeedbackCollapse": {
     "title": "Court Feedback Collapse / 君臣反馈失灵",
     "url": "/wiki/concepts/courtfeedbackcollapse/"
+  },
+  "CourtLegitimacyOverPatronLoyalty": {
+    "title": "朝廷名义高于主君私属 / Court Legitimacy Over Patron Loyalty",
+    "url": "/wiki/concepts/courtlegitimacyoverpatronloyalty/"
   },
   "CourtOfficeCapture": {
     "title": "Court Office Capture / 朝廷开府任官失序",
@@ -20590,6 +20598,10 @@
   "HanSong": {
     "title": "Han Song / 韩松",
     "url": "/wiki/entities/hansong/"
+  },
+  "HanSongLateHan": {
+    "title": "韩嵩 / Han Song (late Han)",
+    "url": "/wiki/entities/hansonglatehan/"
   },
   "HanState": {
     "title": "韩国 / Han State",
@@ -44967,6 +44979,10 @@
     "title": "Sushiro / 寿司郎",
     "url": "/wiki/entities/sushiro/"
   },
+  "SuspicionDrivenEliteAlienation": {
+    "title": "猜疑驱动的士族离心 / Suspicion-Driven Elite Alienation",
+    "url": "/wiki/concepts/suspiciondrivenelitealienation/"
+  },
   "SuspicionTriggeredCommandMutiny": {
     "title": "Suspicion-Triggered Command Mutiny / 猜疑触发的部下倒戈",
     "url": "/wiki/concepts/suspiciontriggeredcommandmutiny/"
@@ -52587,6 +52603,10 @@
     "title": "袁遗 / Yuan Yi (late Han)",
     "url": "/wiki/entities/yuanyilatehan/"
   },
+  "YuanYinLateHan": {
+    "title": "袁胤 / Yuan Yin (late Han)",
+    "url": "/wiki/entities/yuanyinlatehan/"
+  },
   "YuanZhang": {
     "title": "袁掌 / Yuan Zhang",
     "url": "/wiki/entities/yuanzhang/"
@@ -53602,6 +53622,10 @@
   "ZhengAnping": {
     "title": "郑安平 / Zheng Anping",
     "url": "/wiki/entities/zhenganping/"
+  },
+  "ZhengBaoLateHan": {
+    "title": "郑宝 / Zheng Bao (late Han)",
+    "url": "/wiki/entities/zhengbaolatehan/"
   },
   "ZhengChangHanKing": {
     "title": "郑昌 / Zheng Chang (Han King)",
@@ -57486,6 +57510,10 @@
   "zizhi-tongjian-hanji-1031-gongsunzan-zhisi-cong-bianjiang-zhanshen-dao-kunshou-zifen-lmqoechccfwmfpmbdx8-tjmnm3jz": {
     "title": "《资治通鉴·汉纪》1031丨公孙瓒之死：从边疆战神到困兽自焚",
     "url": "/wiki/sources/zizhi-tongjian-hanji-1031-gongsunzan-zhisi-cong-bianjiang-zhanshen-dao-kunshou-zifen-lmqoechccfwmfpmbdx8-tjmnm3jz/"
+  },
+  "zizhi-tongjian-hanji-1037-zhongyu-caocao-or-liubiao-jiemi-hansong-de-zhongyi-jueze-lomrbxffcu6euantozh2fjvrykva": {
+    "title": "《资治通鉴·汉纪》1037丨忠于曹操or刘表？揭秘韩嵩的忠义抉择",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-1037-zhongyu-caocao-or-liubiao-jiemi-hansong-de-zhongyi-jueze-lomrbxffcu6euantozh2fjvrykva/"
   },
   "zizhi-tongjian-hanji-1038-sanshiliu-ji-zhi-diaohu-lishan-sunce-zhiqu-wancheng-lhomk8hfdidl61degwbqtj2xkj9z": {
     "title": "《资治通鉴·汉纪》1038丨三十六计之调虎离山：孙策智取皖城",

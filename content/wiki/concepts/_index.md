@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 5539
+wiki_total_pages: 5542
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1829,6 +1829,9 @@ wiki_pages:
   - key: "AppointedGovernorSecessionRisk"
     title: "受任地方长官割据风险 / Appointed Governor Secession Risk"
     url: "/wiki/concepts/appointedgovernorsecessionrisk/"
+  - key: "ArmedFollowerIntegrationCost"
+    title: "武装部众整合成本 / Armed Follower Integration Cost"
+    url: "/wiki/concepts/armedfollowerintegrationcost/"
   - key: "AbsoluteCommandObedience"
     title: "绝对服从式指挥训练 / Absolute Command Obedience"
     url: "/wiki/concepts/absolutecommandobedience/"

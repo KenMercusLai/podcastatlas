@@ -7268,6 +7268,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "ArmedFollowerIntegrationCost": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "ArmoredCombat": [
     {
       "key": "history",
@@ -53459,6 +53466,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "SuspicionDrivenEliteAlienation": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "SustainableConstructionCarbonTradeoff": [

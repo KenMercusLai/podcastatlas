@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 7743
+wiki_total_pages: 7746
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -1082,6 +1082,9 @@ wiki_pages:
   - key: "ZhengAnping"
     title: "郑安平 / Zheng Anping"
     url: "/wiki/entities/zhenganping/"
+  - key: "ZhengBaoLateHan"
+    title: "郑宝 / Zheng Bao (late Han)"
+    url: "/wiki/entities/zhengbaolatehan/"
   - key: "Zhengzhou"
     title: "郑州 / Zhengzhou"
     url: "/wiki/entities/zhengzhou/"

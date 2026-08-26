@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 7743
+wiki_total_pages: 7746
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -659,6 +659,9 @@ wiki_pages:
   - key: "YuanShaoLyuBuAssassinationAttempt"
     title: "袁绍刺吕布未遂 / Yuan Shao-Lü Bu Assassination Attempt"
     url: "/wiki/entities/yuanshaolyubuassassinationattempt/"
+  - key: "YuanYinLateHan"
+    title: "袁胤 / Yuan Yin (late Han)"
+    url: "/wiki/entities/yuanyinlatehan/"
   - key: "YuanTan"
     title: "袁谭 / Yuan Tan"
     url: "/wiki/entities/yuantan/"
