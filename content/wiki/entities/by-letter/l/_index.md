@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 7761
+wiki_total_pages: 7768
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -23,6 +23,9 @@ wiki_pages:
   - key: "Labubu"
     title: "Labubu"
     url: "/wiki/entities/labubu/"
+  - key: "Lacoste"
+    title: "Lacoste"
+    url: "/wiki/entities/lacoste/"
   - key: "LaelBrainard"
     title: "Lael Brainard"
     url: "/wiki/entities/laelbrainard/"

@@ -1371,6 +1371,10 @@
     "title": "AI Artist Development",
     "url": "/wiki/concepts/aiartistdevelopment/"
   },
+  "AIAsBrandMirror": {
+    "title": "AI as Brand Mirror",
+    "url": "/wiki/concepts/aiasbrandmirror/"
+  },
   "AIAsBusinessOperator": {
     "title": "AI As Business Operator",
     "url": "/wiki/concepts/aiasbusinessoperator/"
@@ -2695,6 +2699,10 @@
     "title": "Action Defines Identity",
     "url": "/wiki/concepts/actiondefinesidentity/"
   },
+  "ActionableOrganizationalValues": {
+    "title": "Actionable Organizational Values",
+    "url": "/wiki/concepts/actionableorganizationalvalues/"
+  },
   "ActiveFundCrowding": {
     "title": "Active Fund Crowding / 主动基金抱团",
     "url": "/wiki/concepts/activefundcrowding/"
@@ -3006,6 +3014,10 @@
   "AeroShorts": {
     "title": "AeroShorts",
     "url": "/wiki/entities/aeroshorts/"
+  },
+  "AeropuertosArgentina2000": {
+    "title": "Aeropuertos Argentina 2000",
+    "url": "/wiki/entities/aeropuertosargentina2000/"
   },
   "AerosolCoolingMasking": {
     "title": "Aerosol Cooling Masking",
@@ -4279,6 +4291,10 @@
     "title": "Andy Lapsa",
     "url": "/wiki/entities/andylapsa/"
   },
+  "AndyStalman": {
+    "title": "Andy Stalman",
+    "url": "/wiki/entities/andystalman/"
+  },
   "Anerle": {
     "title": "安乐",
     "url": "/wiki/entities/anerle/"
@@ -4302,6 +4318,10 @@
   "AngelaRayner": {
     "title": "Angela Rayner",
     "url": "/wiki/entities/angelarayner/"
+  },
+  "AngelicIntelligence": {
+    "title": "Angelic Intelligence",
+    "url": "/wiki/concepts/angelicintelligence/"
   },
   "AngerDrivenWarDecision": {
     "title": "Anger-Driven War Decision / 因怒兴师",
@@ -7135,6 +7155,10 @@
     "title": "Brand-Controlled Authentication",
     "url": "/wiki/concepts/brandcontrolledauthentication/"
   },
+  "BrandDoing": {
+    "title": "Brand Doing",
+    "url": "/wiki/concepts/branddoing/"
+  },
   "BrandImpersonationMonitoring": {
     "title": "Brand Impersonation Monitoring",
     "url": "/wiki/concepts/brandimpersonationmonitoring/"
@@ -7142,6 +7166,10 @@
   "BrandPodcasting": {
     "title": "Brand Podcasting",
     "url": "/wiki/concepts/brandpodcasting/"
+  },
+  "BrandValueProtection": {
+    "title": "Brand Value Protection",
+    "url": "/wiki/concepts/brandvalueprotection/"
   },
   "BrandonKatz": {
     "title": "Brandon Katz",
@@ -26075,6 +26103,10 @@
     "title": "Kemi Badenoch",
     "url": "/wiki/entities/kemibadenoch/"
   },
+  "KenCato": {
+    "title": "Ken Cato",
+    "url": "/wiki/entities/kencato/"
+  },
   "KenChenault": {
     "title": "Ken Chenault",
     "url": "/wiki/entities/kenchenault/"
@@ -26690,6 +26722,10 @@
   "Labubu": {
     "title": "Labubu",
     "url": "/wiki/entities/labubu/"
+  },
+  "Lacoste": {
+    "title": "Lacoste",
+    "url": "/wiki/entities/lacoste/"
   },
   "LadyBianCaoCao": {
     "title": "卞夫人 / Lady Bian (Cao Cao)",
@@ -42103,6 +42139,10 @@
     "title": "Sheikh Hasina",
     "url": "/wiki/entities/sheikhhasina/"
   },
+  "ShekharNatarajan": {
+    "title": "Shekhar Natarajan",
+    "url": "/wiki/entities/shekharnatarajan/"
+  },
   "Shell": {
     "title": "Shell",
     "url": "/wiki/entities/shell/"
@@ -47071,6 +47111,10 @@
     "title": "Tommy",
     "url": "/wiki/entities/tommy/"
   },
+  "TomorrowToday": {
+    "title": "Tomorrow Today",
+    "url": "/wiki/entities/tomorrowtoday/"
+  },
   "TongBin": {
     "title": "Tong Bin / 童宾",
     "url": "/wiki/entities/tongbin/"
@@ -47186,6 +47230,10 @@
   "TotalitarianDoubleLife": {
     "title": "Totalitarian Double Life / 极权双重生活",
     "url": "/wiki/concepts/totalitariandoublelife/"
+  },
+  "TotemBranding": {
+    "title": "Totem Branding",
+    "url": "/wiki/entities/totembranding/"
   },
   "TotemismNationalism": {
     "title": "Totemism And Nationalism / 图腾主义与民族主义",
@@ -50126,6 +50174,10 @@
   "WhitneyDuan": {
     "title": "Whitney Duan",
     "url": "/wiki/entities/whitneyduan/"
+  },
+  "WholeCompanyBranding": {
+    "title": "Whole-Company Branding",
+    "url": "/wiki/concepts/wholecompanybranding/"
   },
   "WholeFoodsMarket": {
     "title": "Whole Foods Market",
@@ -55654,6 +55706,10 @@
   "how-danny-jenkins-bootstrapped-threatlocker-from-150k-debt-to-200m": {
     "title": "How Danny Jenkins Bootstrapped ThreatLocker From $150K Debt to $200M",
     "url": "/wiki/sources/how-danny-jenkins-bootstrapped-threatlocker-from-150k-debt-to-200m/"
+  },
+  "how-modern-brands-build-loyalty-purpose-and-identity-andy-stalman-shekhar-natarajan-podcast": {
+    "title": "How Modern Brands Build Loyalty, Purpose, and Identity | Andy Stalman | Shekhar Natarajan Podcast",
+    "url": "/wiki/sources/how-modern-brands-build-loyalty-purpose-and-identity-andy-stalman-shekhar-natarajan-podcast/"
   },
   "how-much-money-president-trump-and-his-family-have-made": {
     "title": "How much money President Trump and his family have made",

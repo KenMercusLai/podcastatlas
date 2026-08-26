@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 7761
+wiki_total_pages: 7768
 wiki_pages:
   - key: "KunyangBattle"
     title: "Battle of Kunyang / 昆阳之战"
@@ -176,6 +176,9 @@ wiki_pages:
   - key: "KemiBadenoch"
     title: "Kemi Badenoch"
     url: "/wiki/entities/kemibadenoch/"
+  - key: "KenCato"
+    title: "Ken Cato"
+    url: "/wiki/entities/kencato/"
   - key: "KenChenault"
     title: "Ken Chenault"
     url: "/wiki/entities/kenchenault/"

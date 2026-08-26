@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 5554
+wiki_total_pages: 5560
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -203,6 +203,9 @@ wiki_pages:
   - key: "WhiteBearEffect"
     title: "White Bear Effect / 白熊效应"
     url: "/wiki/concepts/whitebeareffect/"
+  - key: "WholeCompanyBranding"
+    title: "Whole-Company Branding"
+    url: "/wiki/concepts/wholecompanybranding/"
   - key: "WholeProcessCancerDocumentation"
     title: "Whole-Process Cancer Documentation"
     url: "/wiki/concepts/wholeprocesscancerdocumentation/"

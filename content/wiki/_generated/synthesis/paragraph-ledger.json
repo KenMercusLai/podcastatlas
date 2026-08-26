@@ -254,12 +254,13 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "68e3dcf4cf80f3ff08de28db5fa06665d045db631dc75f908ce827ef84e2485b",
       "d9074e43b7b103fc0d0097b207bf8018227d6e146ca0eb75638118627687641c",
-      "b16a38bd6e190222f7f3e6f0535803ce60ae7f3304e3477dfcdd995a15fb502f"
+      "b16a38bd6e190222f7f3e6f0535803ce60ae7f3304e3477dfcdd995a15fb502f",
+      "32b62a0e1fc3144c5e7770721fc745607afef0d0cf46a8fe94d35cab377dbbf9"
     ],
-    "paragraph_count": 254
+    "paragraph_count": 255
   },
-  "overview_commit": "343c263ffe35a5c40de6344a498016e9024c12ef",
-  "overview_digest": "3d135211faed2211cb7c7a398650cd15c71a53c169280c486c5bd5cb348b6943",
+  "overview_commit": "4b35054f03dc48c7ce9bd7a17814ce872937b75c",
+  "overview_digest": "01252eafd0ac3bfa6120b4a339b58c5e95e7a9d4571d24dedd90bc6dc5a77849",
   "paragraphs": [
     {
       "id": "19c611dfbbb92ca577ecdd3de8dcb299e3594783b3ac7731e0e81164d2e63156",
@@ -7818,6 +7819,54 @@
         "zizhi-tongjian-hanji-910-shehui-shengcun-wo-quan-ni-duodian-chengfu-lp2fvuyb8ampzoeyr7znztnr0fgk",
         "zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy",
         "zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth"
+      ]
+    },
+    {
+      "id": "32b62a0e1fc3144c5e7770721fc745607afef0d0cf46a8fe94d35cab377dbbf9",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "culture-and-media",
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[how-modern-brands-build-loyalty-purpose-and-identity-andy-stalman-shekhar-natarajan-podcast]], a [[TomorrowToday]] episode with [[ShekharNatarajan]] interviewing [[AndyStalman]] on branding, AI, values, and human meaning. It adds [[AndyStalman]], [[ShekharNatarajan]], [[TomorrowToday]], [[TotemBranding]], [[Lacoste]], [[AeropuertosArgentina2000]], [[KenCato]], [[WholeCompanyBranding]], [[BrandDoing]], [[ActionableOrganizationalValues]], [[AIAsBrandMirror]], [[BrandValueProtection]], and [[AngelicIntelligence]], while extending [[Argentina]], [[Spain]], [[Amazon]], [[Apple]], [[Alphabet]], [[Gemini]], [[LinkedIn]], [[CocaCola]], [[Nike]], [[SP500|S&P 500]], [[ValuesAsOperationalAsset]], [[TrustAsBusinessAsset]], [[ConsumerBrandMoat]], [[StoryLedConsumerBranding]], [[EmotionalBrandRelationship]], and [[HumanValueBeyondEfficiency]]. Its core synthesis is that brand is a whole-company operating system: identity, values, culture, leadership, employee engagement, sensory experience, and customer behavior have to line up before AI can safely amplify them. No direct contradiction is recorded; the episode's brand-value, employee-engagement, leakage, and ranking figures remain source-scoped conversational claims.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "business-and-markets": 5,
+        "culture-and-media": 3,
+        "psychology-and-personal-development": 4,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AIAsBrandMirror",
+        "ActionableOrganizationalValues",
+        "AeropuertosArgentina2000",
+        "Alphabet",
+        "Amazon",
+        "AndyStalman",
+        "AngelicIntelligence",
+        "Apple",
+        "Argentina",
+        "BrandDoing",
+        "BrandValueProtection",
+        "CocaCola",
+        "ConsumerBrandMoat",
+        "EmotionalBrandRelationship",
+        "Gemini",
+        "HumanValueBeyondEfficiency",
+        "KenCato",
+        "Lacoste",
+        "LinkedIn",
+        "Nike",
+        "SP500",
+        "ShekharNatarajan",
+        "Spain",
+        "StoryLedConsumerBranding",
+        "TomorrowToday",
+        "TotemBranding",
+        "TrustAsBusinessAsset",
+        "ValuesAsOperationalAsset",
+        "WholeCompanyBranding",
+        "how-modern-brands-build-loyalty-purpose-and-identity-andy-stalman-shekhar-natarajan-podcast"
       ]
     }
   ],

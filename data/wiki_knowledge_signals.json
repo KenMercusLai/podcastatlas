@@ -153,6 +153,22 @@
       "updated": "2026-08-07",
       "url": "/wiki/concepts/aiagentoverseascommercialization/"
     },
+    "AIAsBrandMirror": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "128_default_tc [128_default_tc].md",
+          "key": "how-modern-brands-build-loyalty-purpose-and-identity-andy-stalman-shekhar-natarajan-podcast",
+          "show": "Tomorrow, Today",
+          "title": "How Modern Brands Build Loyalty, Purpose, and Identity | Andy Stalman | Shekhar Natarajan Podcast",
+          "url": "/wiki/sources/how-modern-brands-build-loyalty-purpose-and-identity-andy-stalman-shekhar-natarajan-podcast/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/aiasbrandmirror/"
+    },
     "AICommercializationPressure": {
       "episode_count": 36,
       "show_count": 15,
@@ -545,6 +561,38 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/aisnowlineworkboundary/"
     },
+    "ActionableOrganizationalValues": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "128_default_tc [128_default_tc].md",
+          "key": "how-modern-brands-build-loyalty-purpose-and-identity-andy-stalman-shekhar-natarajan-podcast",
+          "show": "Tomorrow, Today",
+          "title": "How Modern Brands Build Loyalty, Purpose, and Identity | Andy Stalman | Shekhar Natarajan Podcast",
+          "url": "/wiki/sources/how-modern-brands-build-loyalty-purpose-and-identity-andy-stalman-shekhar-natarajan-podcast/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/actionableorganizationalvalues/"
+    },
+    "AeropuertosArgentina2000": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "128_default_tc [128_default_tc].md",
+          "key": "how-modern-brands-build-loyalty-purpose-and-identity-andy-stalman-shekhar-natarajan-podcast",
+          "show": "Tomorrow, Today",
+          "title": "How Modern Brands Build Loyalty, Purpose, and Identity | Andy Stalman | Shekhar Natarajan Podcast",
+          "url": "/wiki/sources/how-modern-brands-build-loyalty-purpose-and-identity-andy-stalman-shekhar-natarajan-podcast/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/aeropuertosargentina2000/"
+    },
     "AgilityRobotics": {
       "episode_count": 1,
       "show_count": 1,
@@ -576,6 +624,38 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/amandamcmaster/"
+    },
+    "AndyStalman": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "128_default_tc [128_default_tc].md",
+          "key": "how-modern-brands-build-loyalty-purpose-and-identity-andy-stalman-shekhar-natarajan-podcast",
+          "show": "Tomorrow, Today",
+          "title": "How Modern Brands Build Loyalty, Purpose, and Identity | Andy Stalman | Shekhar Natarajan Podcast",
+          "url": "/wiki/sources/how-modern-brands-build-loyalty-purpose-and-identity-andy-stalman-shekhar-natarajan-podcast/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/andystalman/"
+    },
+    "AngelicIntelligence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "128_default_tc [128_default_tc].md",
+          "key": "how-modern-brands-build-loyalty-purpose-and-identity-andy-stalman-shekhar-natarajan-podcast",
+          "show": "Tomorrow, Today",
+          "title": "How Modern Brands Build Loyalty, Purpose, and Identity | Andy Stalman | Shekhar Natarajan Podcast",
+          "url": "/wiki/sources/how-modern-brands-build-loyalty-purpose-and-identity-andy-stalman-shekhar-natarajan-podcast/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/angelicintelligence/"
     },
     "AntarcticClimateServices": {
       "episode_count": 1,
@@ -732,6 +812,38 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/bostondynamics/"
+    },
+    "BrandDoing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "128_default_tc [128_default_tc].md",
+          "key": "how-modern-brands-build-loyalty-purpose-and-identity-andy-stalman-shekhar-natarajan-podcast",
+          "show": "Tomorrow, Today",
+          "title": "How Modern Brands Build Loyalty, Purpose, and Identity | Andy Stalman | Shekhar Natarajan Podcast",
+          "url": "/wiki/sources/how-modern-brands-build-loyalty-purpose-and-identity-andy-stalman-shekhar-natarajan-podcast/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/branddoing/"
+    },
+    "BrandValueProtection": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "128_default_tc [128_default_tc].md",
+          "key": "how-modern-brands-build-loyalty-purpose-and-identity-andy-stalman-shekhar-natarajan-podcast",
+          "show": "Tomorrow, Today",
+          "title": "How Modern Brands Build Loyalty, Purpose, and Identity | Andy Stalman | Shekhar Natarajan Podcast",
+          "url": "/wiki/sources/how-modern-brands-build-loyalty-purpose-and-identity-andy-stalman-shekhar-natarajan-podcast/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/brandvalueprotection/"
     },
     "CaixinMedia": {
       "episode_count": 1,
@@ -2535,6 +2647,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/jonathanhurst/"
     },
+    "KenCato": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "128_default_tc [128_default_tc].md",
+          "key": "how-modern-brands-build-loyalty-purpose-and-identity-andy-stalman-shekhar-natarajan-podcast",
+          "show": "Tomorrow, Today",
+          "title": "How Modern Brands Build Loyalty, Purpose, and Identity | Andy Stalman | Shekhar Natarajan Podcast",
+          "url": "/wiki/sources/how-modern-brands-build-loyalty-purpose-and-identity-andy-stalman-shekhar-natarajan-podcast/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/kencato/"
+    },
     "KimiDeltaAttention": {
       "episode_count": 2,
       "show_count": 2,
@@ -2735,6 +2863,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/kyliejenner/"
+    },
+    "Lacoste": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "128_default_tc [128_default_tc].md",
+          "key": "how-modern-brands-build-loyalty-purpose-and-identity-andy-stalman-shekhar-natarajan-podcast",
+          "show": "Tomorrow, Today",
+          "title": "How Modern Brands Build Loyalty, Purpose, and Identity | Andy Stalman | Shekhar Natarajan Podcast",
+          "url": "/wiki/sources/how-modern-brands-build-loyalty-purpose-and-identity-andy-stalman-shekhar-natarajan-podcast/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/lacoste/"
     },
     "LadyWuSunJian": {
       "episode_count": 2,
@@ -4114,6 +4258,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/santaizicatholicvillage/"
     },
+    "ShekharNatarajan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "128_default_tc [128_default_tc].md",
+          "key": "how-modern-brands-build-loyalty-purpose-and-identity-andy-stalman-shekhar-natarajan-podcast",
+          "show": "Tomorrow, Today",
+          "title": "How Modern Brands Build Loyalty, Purpose, and Identity | Andy Stalman | Shekhar Natarajan Podcast",
+          "url": "/wiki/sources/how-modern-brands-build-loyalty-purpose-and-identity-andy-stalman-shekhar-natarajan-podcast/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/shekharnatarajan/"
+    },
     "ShenYueFDE": {
       "episode_count": 1,
       "show_count": 1,
@@ -4584,6 +4744,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/tokyo/"
     },
+    "TomorrowToday": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "128_default_tc [128_default_tc].md",
+          "key": "how-modern-brands-build-loyalty-purpose-and-identity-andy-stalman-shekhar-natarajan-podcast",
+          "show": "Tomorrow, Today",
+          "title": "How Modern Brands Build Loyalty, Purpose, and Identity | Andy Stalman | Shekhar Natarajan Podcast",
+          "url": "/wiki/sources/how-modern-brands-build-loyalty-purpose-and-identity-andy-stalman-shekhar-natarajan-podcast/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/tomorrowtoday/"
+    },
     "TongZhiLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -4622,6 +4798,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/totalattentionpractice/"
+    },
+    "TotemBranding": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "128_default_tc [128_default_tc].md",
+          "key": "how-modern-brands-build-loyalty-purpose-and-identity-andy-stalman-shekhar-natarajan-podcast",
+          "show": "Tomorrow, Today",
+          "title": "How Modern Brands Build Loyalty, Purpose, and Identity | Andy Stalman | Shekhar Natarajan Podcast",
+          "url": "/wiki/sources/how-modern-brands-build-loyalty-purpose-and-identity-andy-stalman-shekhar-natarajan-podcast/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/totembranding/"
     },
     "TrustBasedCommonsGovernance": {
       "episode_count": 1,
@@ -4812,6 +5004,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/whatisourproblem/"
+    },
+    "WholeCompanyBranding": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "128_default_tc [128_default_tc].md",
+          "key": "how-modern-brands-build-loyalty-purpose-and-identity-andy-stalman-shekhar-natarajan-podcast",
+          "show": "Tomorrow, Today",
+          "title": "How Modern Brands Build Loyalty, Purpose, and Identity | Andy Stalman | Shekhar Natarajan Podcast",
+          "url": "/wiki/sources/how-modern-brands-build-loyalty-purpose-and-identity-andy-stalman-shekhar-natarajan-podcast/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/wholecompanybranding/"
     },
     "WuLaoshiSanlianEditor": {
       "episode_count": 1,

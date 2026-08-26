@@ -11672,6 +11672,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-26] ingest | How Modern Brands Build Loyalty, Purpose, and Identity | Andy Stalman | Shekhar Natarajan Podcast
+
+Added source page for the Tomorrow Today episode with Andy Stalman on whole-company branding, brand doing, actionable values, AI as a brand mirror, brand value protection, and angelic intelligence. Created Andy Stalman, Shekhar Natarajan, Tomorrow Today, Totem Branding, Lacoste, Aeropuertos Argentina 2000, Ken Cato, Whole-Company Branding, Brand Doing, Actionable Organizational Values, AI as Brand Mirror, Brand Value Protection, and Angelic Intelligence. Updated index, overview, and downstream synthesis inputs. No direct contradiction found; conversational statistics and rankings remain source-scoped.
+
 ## [2026-08-26] ingest | 一个中国 FDE 的光环、落差与「救火」日常｜S10E27
 
 Added What's Next source page for Shen Yue's field account of Chinese FDE work: vendor-side coordination, state-owned enterprise project rescue, private-company ROI pressure, data and document cleanup, legal contract-review rule extraction, and production accuracy limits. Created Shen Yue / 申越; migrated Chinese-Style FDE and Forward Deployed Engineer to synthesis-v1; updated index and overview. No settled contradiction found; the episode qualifies glamorous FDE narratives by emphasizing customer-side authority, business-team access, human cooperation, and acceptance criteria.
@@ -12085,6 +12089,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》1036丨刘表为何要逼韩嵩见曹操？
 
 Added source page for Hanji 1036: Liu Biao's unresolved neutrality between Yuan Shao and Cao Cao, Han Song and Liu Xian's warning that non-alignment can anger both sides, and Han Song's pre-mission explanation that court appointment would reorder his formal loyalty if Liu Biao remained undecided. Created Liu Xian (late Han), updated Han Song (late Han), Liu Biao, Court Legitimacy Over Patron Loyalty, Suspicion-Driven Elite Alienation, and migrated Fence-Sitting Strategic Exposure to synthesis-v1. No settled contradiction found; Hanji 1036 qualifies Hanji 1037 by showing Han Song warned Liu Biao before the Xudu mission.
+
+## [2026-08-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-26] lint | Wiki health check
 

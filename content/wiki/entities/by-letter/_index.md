@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 7761
+wiki_total_pages: 7768
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -251,6 +251,9 @@ wiki_pages:
   - key: "AeroFS"
     title: "AeroFS"
     url: "/wiki/entities/aerofs/"
+  - key: "AeropuertosArgentina2000"
+    title: "Aeropuertos Argentina 2000"
+    url: "/wiki/entities/aeropuertosargentina2000/"
   - key: "AeroShorts"
     title: "AeroShorts"
     url: "/wiki/entities/aeroshorts/"
@@ -830,6 +833,9 @@ wiki_pages:
   - key: "AndyLapsa"
     title: "Andy Lapsa"
     url: "/wiki/entities/andylapsa/"
+  - key: "AndyStalman"
+    title: "Andy Stalman"
+    url: "/wiki/entities/andystalman/"
   - key: "AngelReese"
     title: "Angel Reese"
     url: "/wiki/entities/angelreese/"

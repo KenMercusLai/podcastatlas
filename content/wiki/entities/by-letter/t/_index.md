@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 7761
+wiki_total_pages: 7768
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -614,6 +614,9 @@ wiki_pages:
   - key: "Tommy"
     title: "Tommy"
     url: "/wiki/entities/tommy/"
+  - key: "TomorrowToday"
+    title: "Tomorrow Today"
+    url: "/wiki/entities/tomorrowtoday/"
   - key: "TongBin"
     title: "Tong Bin / 童宾"
     url: "/wiki/entities/tongbin/"
@@ -665,6 +668,9 @@ wiki_pages:
   - key: "TotalEnergies"
     title: "TotalEnergies"
     url: "/wiki/entities/totalenergies/"
+  - key: "TotemBranding"
+    title: "Totem Branding"
+    url: "/wiki/entities/totembranding/"
   - key: "ToutiaoLite"
     title: "Toutiao Lite"
     url: "/wiki/entities/toutiaolite/"

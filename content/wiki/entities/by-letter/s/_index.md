@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 7761
+wiki_total_pages: 7768
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -491,6 +491,9 @@ wiki_pages:
   - key: "SHEIN"
     title: "SHEIN"
     url: "/wiki/entities/shein/"
+  - key: "ShekharNatarajan"
+    title: "Shekhar Natarajan"
+    url: "/wiki/entities/shekharnatarajan/"
   - key: "Shell"
     title: "Shell"
     url: "/wiki/entities/shell/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How Modern Brands Build Loyalty, Purpose, and Identity | Andy Stalman | Shekhar Natarajan Podcast](sources/how-modern-brands-build-loyalty-purpose-and-identity-andy-stalman-shekhar-natarajan-podcast.md) — Tomorrow Today episode with Andy Stalman on whole-company branding, brand doing, actionable values, AI as a brand mirror, and brand value protection.
 - [《资治通鉴·汉纪》1036丨刘表为何要逼韩嵩见曹操？](sources/zizhi-tongjian-hanji-1036-liubiao-weihe-yao-bi-hansong-jian-caocao-lnifeizgoebis2gdovgmzg6dojaz.md) — 芮淇讲透资治通鉴 episode on Liu Biao's neutrality between Yuan Shao and Cao Cao, Han Song and Liu Xian's warning, and Han Song's pre-mission claim that court appointment would reorder his loyalty.
 - [一个中国 FDE 的光环、落差与「救火」日常｜S10E27](sources/yi-ge-zhongguo-fde-de-guanghuan-luocha-yu-jiuhuo-richang-s10e27-587619bb-62c2-485d-9f27-f0be0115a986.md) — What's Next episode with Shen Yue on Chinese FDE work as vendor-side coordination, business-access negotiation, MVP rescue, data cleanup, and ROI/accuracy expectation management.
 - [Can Meta Finally Make Smart Glasses Cool?](sources/tech-20260826-0826-mp-tech-pod-128-tech-20260826-0826-mp-tech-pod-128.md) — Marketplace Tech episode with Carrie Batten on Meta's smart-glasses fashion push, creator gifting, hands-free use cases, and bystander privacy friction.
@@ -1516,6 +1517,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Andy Stalman](entities/AndyStalman.md) — Branding strategist and entrepreneur whose Tomorrow Today interview frames brand as identity, behavior, culture, AI readiness, and human meaning.
+- [Shekhar Natarajan](entities/ShekharNatarajan.md) — Tomorrow Today host whose questions connect branding to actionable values, AI leakage, unresolved deliberation, and angelic intelligence.
+- [Tomorrow Today](entities/TomorrowToday.md) — Podcast show context for Shekhar Natarajan's interview with Andy Stalman on branding and AI.
+- [Totem Branding](entities/TotemBranding.md) — Andy Stalman's branding company and methodology vehicle for identity, purpose, values, promise, leadership, and impact.
+- [Lacoste](entities/Lacoste.md) — Sportswear and lifestyle brand in Stalman's career history, used as a legacy-and-relevance brand stewardship case.
+- [Aeropuertos Argentina 2000](entities/AeropuertosArgentina2000.md) — Airport-company career case where Stalman describes commercial revenue innovation and young-team execution.
+- [Ken Cato](entities/KenCato.md) — Australian designer named as Stalman's collaborator in his pre-Totem Spain-based company-building phase.
 - [Shen Yue / 申越](entities/ShenYueFDE.md) — AI trainer and enterprise AI consultant whose What's Next S10E27 field account grounds Chinese FDE work in vendor-side coordination, business-access negotiation, and project rescue.
 - [Carrie Batten](entities/CarrieBatten.md) — New York Magazine contributor whose Marketplace Tech interview frames Meta smart glasses as fashion, creator distribution, and bystander privacy problem.
 - [New York Magazine](entities/NewYorkMagazine.md) — Publication context for Carrie Batten's reporting on Meta smart glasses, gendered marketing, and privacy stigma.
@@ -9281,6 +9289,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Whole-Company Branding](concepts/WholeCompanyBranding.md) — Brand frame where identity, purpose, values, leadership, culture, employee behavior, sensory experience, and technology all shape the brand.
+- [Brand Doing](concepts/BrandDoing.md) — Claim that a brand is proved by repeated behavior, delivery, protection, and service rather than by communication alone.
+- [Actionable Organizational Values](concepts/ActionableOrganizationalValues.md) — Values clear enough to resolve dilemmas, guide decisions, shape processes, and survive movement through organizational layers.
+- [AI as Brand Mirror](concepts/AIAsBrandMirror.md) — Idea that AI reflects and amplifies an organization's existing identity, alignment, process quality, culture, and trust boundaries.
+- [Brand Value Protection](concepts/BrandValueProtection.md) — Discipline of protecting intangible brand value through trust, IP, reputation, privacy, employee alignment, and AI governance.
+- [Angelic Intelligence](concepts/AngelicIntelligence.md) — Shekhar Natarajan's source-scoped human-centered AI frame for technology that guides, amplifies human beauty, and preserves meaning.
 - [Creator Gifting Demand Manufacture](concepts/CreatorGiftingDemandManufacture.md) — Marketing pattern where gifted creator distribution makes a product appear socially adopted before paid demand is clear.
 - [Gendered AI Marketing](concepts/GenderedAIMarketing.md) — Framing AI products and adoption through gender-coded audiences, aesthetics, spokespeople, and empowerment pressure.
 - [普通人历史可见性 / Ordinary People Historical Visibility](concepts/OrdinaryPeopleHistoricalVisibility.md) — Method problem of how ordinary people become historically legible through fragile letters, archives, maps, fieldwork, genealogy, and memory.

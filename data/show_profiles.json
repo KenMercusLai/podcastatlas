@@ -1026,9 +1026,16 @@
       "earliest_episode_date": "2026-08-25",
       "latest_episode_date": "2026-08-25",
       "latest_episode_file": "128_default_tc [128_default_tc].md",
-      "source_note_count": 0,
-      "topic_matched_source_note_count": 0,
-      "topics": [],
+      "source_note_count": 1,
+      "topic_matched_source_note_count": 1,
+      "topics": [
+        {
+          "key": "technology",
+          "label": "Technology",
+          "url": "/topics/technology/",
+          "source_note_count": 1
+        }
+      ],
       "entities": [],
       "start_here_episode_files": [
         "128_default_tc [128_default_tc].md"

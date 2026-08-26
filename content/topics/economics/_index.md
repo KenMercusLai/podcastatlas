@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 1858
+topic_total_pages: 1859
 topic_concepts:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -4427,6 +4427,9 @@ topic_entities:
   - key: "TomerLondon"
     title: "Tomer London"
     url: "/wiki/entities/tomerlondon/"
+  - key: "TomorrowToday"
+    title: "Tomorrow Today"
+    url: "/wiki/entities/tomorrowtoday/"
   - key: "TonyXu"
     title: "Tony Xu"
     url: "/wiki/entities/tonyxu/"

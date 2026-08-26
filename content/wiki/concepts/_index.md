@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 5554
+wiki_total_pages: 5560
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -86,6 +86,9 @@ wiki_pages:
   - key: "ActionDefinesIdentity"
     title: "Action Defines Identity"
     url: "/wiki/concepts/actiondefinesidentity/"
+  - key: "ActionableOrganizationalValues"
+    title: "Actionable Organizational Values"
+    url: "/wiki/concepts/actionableorganizationalvalues/"
   - key: "ActiveFundCrowding"
     title: "Active Fund Crowding / 主动基金抱团"
     url: "/wiki/concepts/activefundcrowding/"
@@ -425,6 +428,9 @@ wiki_pages:
   - key: "AIArtistDevelopment"
     title: "AI Artist Development"
     url: "/wiki/concepts/aiartistdevelopment/"
+  - key: "AIAsBrandMirror"
+    title: "AI as Brand Mirror"
+    url: "/wiki/concepts/aiasbrandmirror/"
   - key: "AIAsBusinessOperator"
     title: "AI As Business Operator"
     url: "/wiki/concepts/aiasbusinessoperator/"
@@ -1346,6 +1352,9 @@ wiki_pages:
   - key: "AncientLargeArmyCommandLimits"
     title: "Ancient Large-Army Command Limits / 古代大兵团指挥极限"
     url: "/wiki/concepts/ancientlargearmycommandlimits/"
+  - key: "AngelicIntelligence"
+    title: "Angelic Intelligence"
+    url: "/wiki/concepts/angelicintelligence/"
   - key: "AngerDrivenWarDecision"
     title: "Anger-Driven War Decision / 因怒兴师"
     url: "/wiki/concepts/angerdrivenwardecision/"

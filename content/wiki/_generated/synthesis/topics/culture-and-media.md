@@ -3,16 +3,16 @@
 generated: true
 topic_id: culture-and-media
 title: "Culture and Media"
-last_updated: 2026-08-25
-as_of_overview_commit: 827aaf5e5fd676c711f51b8552487779264ff491
-input_digest: 596f8b551d65ac6932c2c0d3f5cafe5036ec7aac4ebe9ad99da659fdced2f7b0
+last_updated: 2026-08-26
+as_of_overview_commit: 4b35054f03dc48c7ce9bd7a17814ce872937b75c
+input_digest: 04563d6082020c5dc89feb12e894dbd74d89a107ab1933f58acb03be05eee9d8
 ---
 
 # Culture and Media
 
 ## Current State
 
-The cultural sources use literature, folklore, games, and media forms as tools for examining politics, identity, evidence, agency, and reception rather than treating works only as plots or entertainment objects. Hanji 955 adds that a famous fictionalized scene can preserve durable memory while still requiring source-bound attribution when used as historical evidence.
+The cultural sources use literature, folklore, games, and media forms as tools for examining politics, identity, evidence, agency, and reception rather than treating works only as plots or entertainment objects. Hanji 955 adds that a famous fictionalized scene can preserve durable memory while still requiring source-bound attribution when used as historical evidence. The Andy Stalman episode extends this with brand as cultural meaning: product, story, place, sensory memory, and repeated organizational behavior shape identity without making brand evidence equivalent to literary or historical evidence.
 
 ## Cross-source Findings
 
@@ -57,3 +57,14 @@ Hanji 955 adds a Three Kingdoms boundary case for [[FictionAsHistoricalEvidence]
 - This claim is source-scoped to Hanji 955 and uses the Romance Hua Xiong scene as a negative evidence-boundary case.
 - It does not deny the cultural force of the Romance scene; it only rejects using that scene as direct event attribution.
 - The claim complements older fiction-as-evidence material by adding a Three Kingdoms attribution example rather than replacing the social-imagination method.
+
+### Brand Can Operate As Cultural Identity System
+
+[[WholeCompanyBranding]], [[StoryLedConsumerBranding]], [[EmotionalBrandRelationship]], and [[BrandDoing]] add a culture-facing brand branch: brands can function as meaning and identity systems when stories, sensory experience, place, personality, and repeated behavior make products or institutions culturally legible.
+
+**Evidence:** [[how-modern-brands-build-loyalty-purpose-and-identity-andy-stalman-shekhar-natarajan-podcast]], [[WholeCompanyBranding]], [[StoryLedConsumerBranding]], [[EmotionalBrandRelationship]], [[BrandDoing]], [[AndyStalman]], [[TotemBranding]], [[Lacoste]], [[TomorrowToday]], [[ConsumerBrandMoat]]
+
+**Qualifications:**
+
+- The claim is grounded in a business interview rather than a cultural-history source, so it connects brand to identity without reducing literature, folklore, games, or media to marketing.
+- The brand rankings and economic figures remain source-scoped and are not required for the cultural identity claim.

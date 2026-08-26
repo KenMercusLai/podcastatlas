@@ -60,8 +60,30 @@
         "SunJianLateHan",
         "YangrenBattleLateHan"
       ]
+    },
+    {
+      "global_candidate": false,
+      "id": "brand-can-operate-as-cultural-identity-system",
+      "qualifications": [
+        "The claim is grounded in a business interview rather than a cultural-history source, so it connects brand to identity without reducing literature, folklore, games, or media to marketing.",
+        "The brand rankings and economic figures remain source-scoped and are not required for the cultural identity claim."
+      ],
+      "statement": "[[WholeCompanyBranding]], [[StoryLedConsumerBranding]], [[EmotionalBrandRelationship]], and [[BrandDoing]] add a culture-facing brand branch: brands can function as meaning and identity systems when stories, sensory experience, place, personality, and repeated behavior make products or institutions culturally legible.",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "how-modern-brands-build-loyalty-purpose-and-identity-andy-stalman-shekhar-natarajan-podcast",
+        "WholeCompanyBranding",
+        "StoryLedConsumerBranding",
+        "EmotionalBrandRelationship",
+        "BrandDoing",
+        "AndyStalman",
+        "TotemBranding",
+        "Lacoste",
+        "TomorrowToday",
+        "ConsumerBrandMoat"
+      ]
     }
   ],
-  "summary": "The cultural sources use literature, folklore, games, and media forms as tools for examining politics, identity, evidence, agency, and reception rather than treating works only as plots or entertainment objects. Hanji 955 adds that a famous fictionalized scene can preserve durable memory while still requiring source-bound attribution when used as historical evidence.",
+  "summary": "The cultural sources use literature, folklore, games, and media forms as tools for examining politics, identity, evidence, agency, and reception rather than treating works only as plots or entertainment objects. Hanji 955 adds that a famous fictionalized scene can preserve durable memory while still requiring source-bound attribution when used as historical evidence. The Andy Stalman episode extends this with brand as cultural meaning: product, story, place, sensory memory, and repeated organizational behavior shape identity without making brand evidence equivalent to literary or historical evidence.",
   "topic_id": "culture-and-media"
 }
