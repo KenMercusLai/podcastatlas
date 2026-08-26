@@ -1491,9 +1491,9 @@
       "url": "/wiki/concepts/crisiscomposurecoverstory/"
     },
     "CrisisWithdrawalSelfProtection": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》896丨假如乱世降临，你该如何自保？ [lsUvt_KSP_gfGGC9RIqQOVJSWkG_].md",
@@ -1508,9 +1508,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》895丨血腥屠刀下的骨肉情深",
           "url": "/wiki/sources/zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》894丨一场逃亡引发的大屠杀 [lhuLP9HQU07UAYYFl3eG-xwrTkeu].md",
+          "key": "zizhi-tongjian-hanji-894-yi-chang-taowang-yinfa-de-da-tusha-lhulp9hqu07uayyfl3eg-xwrtkeu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》894丨一场逃亡引发的大屠杀",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-894-yi-chang-taowang-yinfa-de-da-tusha-lhulp9hqu07uayyfl3eg-xwrtkeu/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-08-27",
       "url": "/wiki/concepts/crisiswithdrawalselfprotection/"
     },
     "CuiYanLateHan": {
@@ -2155,9 +2162,9 @@
       "url": "/wiki/entities/frasermcilwraith/"
     },
     "FugitiveShelterCollateralRisk": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》895丨血腥屠刀下的骨肉情深 [llsPLYYRjXhqkPi2AiuQZUlgm6w3].md",
@@ -2165,9 +2172,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》895丨血腥屠刀下的骨肉情深",
           "url": "/wiki/sources/zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》894丨一场逃亡引发的大屠杀 [lhuLP9HQU07UAYYFl3eG-xwrTkeu].md",
+          "key": "zizhi-tongjian-hanji-894-yi-chang-taowang-yinfa-de-da-tusha-lhulp9hqu07uayyfl3eg-xwrtkeu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》894丨一场逃亡引发的大屠杀",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-894-yi-chang-taowang-yinfa-de-da-tusha-lhulp9hqu07uayyfl3eg-xwrtkeu/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-08-27",
       "url": "/wiki/concepts/fugitivesheltercollateralrisk/"
     },
     "FuyouTiandi": {
@@ -2715,6 +2729,29 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/guoning/"
     },
+    "GuoTaiLateHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》931丨人生艰难处，便是修心时 [lpZMvxOp8lmlwvXHoOJZj5ok9Qd6].md",
+          "key": "zizhi-tongjian-hanji-931-rensheng-jiannan-chu-bianshi-xiuxin-shi-lpzmvxop8lmlwvxhoojzj5ok9qd6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》931丨人生艰难处，便是修心时",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-931-rensheng-jiannan-chu-bianshi-xiuxin-shi-lpzmvxop8lmlwvxhoojzj5ok9qd6/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》894丨一场逃亡引发的大屠杀 [lhuLP9HQU07UAYYFl3eG-xwrTkeu].md",
+          "key": "zizhi-tongjian-hanji-894-yi-chang-taowang-yinfa-de-da-tusha-lhulp9hqu07uayyfl3eg-xwrtkeu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》894丨一场逃亡引发的大屠杀",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-894-yi-chang-taowang-yinfa-de-da-tusha-lhulp9hqu07uayyfl3eg-xwrtkeu/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/guotailatehan/"
+    },
     "GuoTu": {
       "episode_count": 5,
       "show_count": 1,
@@ -2968,6 +3005,29 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/historicalquestionconsciousness/"
+    },
+    "HouLanLateHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》900丨职场权术都不动，该怎样生存 [lmhJwOsY4EsWyHfpPDGHfsMfycQr].md",
+          "key": "zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》900丨职场权术都不动，该怎样生存",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》894丨一场逃亡引发的大屠杀 [lhuLP9HQU07UAYYFl3eG-xwrTkeu].md",
+          "key": "zizhi-tongjian-hanji-894-yi-chang-taowang-yinfa-de-da-tusha-lhulp9hqu07uayyfl3eg-xwrtkeu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》894丨一场逃亡引发的大屠杀",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-894-yi-chang-taowang-yinfa-de-da-tusha-lhulp9hqu07uayyfl3eg-xwrtkeu/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/houlanlatehan/"
     },
     "HuaXin": {
       "episode_count": 5,
@@ -4276,6 +4336,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/leiboyuanshuretainer/"
     },
+    "LiDuLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》894丨一场逃亡引发的大屠杀 [lhuLP9HQU07UAYYFl3eG-xwrTkeu].md",
+          "key": "zizhi-tongjian-hanji-894-yi-chang-taowang-yinfa-de-da-tusha-lhulp9hqu07uayyfl3eg-xwrtkeu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》894丨一场逃亡引发的大屠杀",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-894-yi-chang-taowang-yinfa-de-da-tusha-lhulp9hqu07uayyfl3eg-xwrtkeu/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/lidulatehan/"
+    },
     "LiJiHistorian": {
       "episode_count": 1,
       "show_count": 1,
@@ -5053,6 +5129,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/maridilatehan/"
+    },
+    "MaoQinLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》894丨一场逃亡引发的大屠杀 [lhuLP9HQU07UAYYFl3eG-xwrTkeu].md",
+          "key": "zizhi-tongjian-hanji-894-yi-chang-taowang-yinfa-de-da-tusha-lhulp9hqu07uayyfl3eg-xwrtkeu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》894丨一场逃亡引发的大屠杀",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-894-yi-chang-taowang-yinfa-de-da-tusha-lhulp9hqu07uayyfl3eg-xwrtkeu/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/maoqinlatehan/"
     },
     "MaxBennett": {
       "episode_count": 1,
@@ -5905,6 +5997,29 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/parkingcostinternalization/"
+    },
+    "PartyProhibitionKinshipExpansion": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》907丨所有的病都是你的心病 [ltQzyOHCauDUWuaNlvqPH9L81d79].md",
+          "key": "zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》907丨所有的病都是你的心病",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》894丨一场逃亡引发的大屠杀 [lhuLP9HQU07UAYYFl3eG-xwrTkeu].md",
+          "key": "zizhi-tongjian-hanji-894-yi-chang-taowang-yinfa-de-da-tusha-lhulp9hqu07uayyfl3eg-xwrtkeu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》894丨一场逃亡引发的大屠杀",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-894-yi-chang-taowang-yinfa-de-da-tusha-lhulp9hqu07uayyfl3eg-xwrtkeu/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/partyprohibitionkinshipexpansion/"
     },
     "PersonalGuardAttackSurface": {
       "episode_count": 2,
@@ -7527,9 +7642,9 @@
       "url": "/wiki/entities/wangzhonglatehan/"
     },
     "WangmenTouzhi": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》895丨血腥屠刀下的骨肉情深 [llsPLYYRjXhqkPi2AiuQZUlgm6w3].md",
@@ -7537,9 +7652,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》895丨血腥屠刀下的骨肉情深",
           "url": "/wiki/sources/zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》894丨一场逃亡引发的大屠杀 [lhuLP9HQU07UAYYFl3eG-xwrTkeu].md",
+          "key": "zizhi-tongjian-hanji-894-yi-chang-taowang-yinfa-de-da-tusha-lhulp9hqu07uayyfl3eg-xwrtkeu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》894丨一场逃亡引发的大屠杀",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-894-yi-chang-taowang-yinfa-de-da-tusha-lhulp9hqu07uayyfl3eg-xwrtkeu/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-08-27",
       "url": "/wiki/concepts/wangmentouzhi/"
     },
     "WarAsViolentRedistribution": {
@@ -7800,6 +7922,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/xianyufu/"
+    },
+    "XiziRanLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》894丨一场逃亡引发的大屠杀 [lhuLP9HQU07UAYYFl3eG-xwrTkeu].md",
+          "key": "zizhi-tongjian-hanji-894-yi-chang-taowang-yinfa-de-da-tusha-lhulp9hqu07uayyfl3eg-xwrtkeu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》894丨一场逃亡引发的大屠杀",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-894-yi-chang-taowang-yinfa-de-da-tusha-lhulp9hqu07uayyfl3eg-xwrtkeu/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/xiziranlatehan/"
     },
     "XuChu": {
       "episode_count": 2,
@@ -8344,9 +8482,9 @@
       "url": "/wiki/entities/zangbalatehan/"
     },
     "ZhangJianLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》895丨血腥屠刀下的骨肉情深 [llsPLYYRjXhqkPi2AiuQZUlgm6w3].md",
@@ -8354,9 +8492,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》895丨血腥屠刀下的骨肉情深",
           "url": "/wiki/sources/zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》894丨一场逃亡引发的大屠杀 [lhuLP9HQU07UAYYFl3eG-xwrTkeu].md",
+          "key": "zizhi-tongjian-hanji-894-yi-chang-taowang-yinfa-de-da-tusha-lhulp9hqu07uayyfl3eg-xwrtkeu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》894丨一场逃亡引发的大屠杀",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-894-yi-chang-taowang-yinfa-de-da-tusha-lhulp9hqu07uayyfl3eg-xwrtkeu/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-08-27",
       "url": "/wiki/entities/zhangjianlatehan/"
     },
     "ZhangXiu": {

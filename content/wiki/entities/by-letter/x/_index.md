@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 7815
+wiki_total_pages: 7818
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -326,6 +326,9 @@ wiki_pages:
   - key: "XuHongliang"
     title: "徐鸿亮 / Tom"
     url: "/wiki/entities/xuhongliang/"
+  - key: "XiziRanLateHan"
+    title: "戏子然 / Xizi Ran (late Han)"
+    url: "/wiki/entities/xiziranlatehan/"
   - key: "XieguRoadLateHan"
     title: "斜谷道 / Xiegu Road (late Han)"
     url: "/wiki/entities/xieguroadlatehan/"

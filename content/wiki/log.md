@@ -12222,3 +12222,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-27] lint | Wiki health check
 
 Ran lint after health passed. Identity validation passed. Deterministic checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM and no provider key variables are present in the environment. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-27] ingest | 《资治通鉴·汉纪》894丨一场逃亡引发的大屠杀
+
+Added source page for Hanji 894: the 169 CE party-prohibition purge, Guo Tai's grief and guarded withdrawal into teaching, Zhang Jian's Hou Lan-triggered flight, Li Du and Mao Qin's non-arrest scene, Xizi Ran's route point, and the punishment of many helpers and relatives after Zhang's escape. Updated Zhang Jian, Guo Tai, Hou Lan, Fugitive Shelter Collateral Risk, Wangmen Touzhi, Party Prohibition Kinship Expansion, and Crisis Withdrawal Self-Protection; added Li Du, Mao Qin, and Xizi Ran. No settled contradiction found; the source backfills Hanji 895 and Hanji 896 rather than changing their later shelter and survival claims.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint after health and identity validation passed. Health scanned 14,936 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` and common provider API key variables are unset in this shell; a bounded in-session review of the orphan and fragile-bridge endpoint pages found no direct contradictions. Report returned in-session; `wiki/lint-report.md` was not updated.

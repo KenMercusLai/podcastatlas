@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 7815
+wiki_total_pages: 7818
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -1268,6 +1268,9 @@ wiki_pages:
   - key: "MaoSui"
     title: "毛遂 / Mao Sui"
     url: "/wiki/entities/maosui/"
+  - key: "MaoQinLateHan"
+    title: "毛钦 / Mao Qin (late Han)"
+    url: "/wiki/entities/maoqinlatehan/"
   - key: "MinzhengVocationalUniversity"
     title: "民政职业大学 / Minzheng Vocational University"
     url: "/wiki/entities/minzhengvocationaluniversity/"
