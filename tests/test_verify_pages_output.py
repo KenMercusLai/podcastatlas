@@ -776,8 +776,21 @@ class VerifyPagesOutputTest(unittest.TestCase):
                 ),
                 encoding="utf-8",
             )
-            with mock.patch.object(verifier, "SHOW_PROFILES_PATH", projection):
-                report = verifier.validate(public)
+            with tempfile.TemporaryDirectory() as projection_directory:
+                knowledge_signals = Path(projection_directory) / "wiki_knowledge_signals.json"
+                knowledge_signals.write_text(
+                    json.dumps({"version": 1, "pages": {}}),
+                    encoding="utf-8",
+                )
+                with (
+                    mock.patch.object(verifier, "SHOW_PROFILES_PATH", projection),
+                    mock.patch.object(
+                        verifier,
+                        "KNOWLEDGE_SIGNALS_PATH",
+                        knowledge_signals,
+                    ),
+                ):
+                    report = verifier.validate(public)
 
         self.assertEqual([], report["errors"])
         self.assertEqual(len(expected_paths) + 4, report["file_count"])
