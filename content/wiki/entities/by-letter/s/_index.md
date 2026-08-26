@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 7693
+wiki_total_pages: 7714
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -848,6 +848,9 @@ wiki_pages:
   - key: "SportingLisbon"
     title: "Sporting Lisbon"
     url: "/wiki/entities/sportinglisbon/"
+  - key: "SpotRobot"
+    title: "Spot Robot"
+    url: "/wiki/entities/spotrobot/"
   - key: "Spotify"
     title: "Spotify"
     url: "/wiki/entities/spotify/"

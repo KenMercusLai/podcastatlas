@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 7693
+wiki_total_pages: 7714
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -206,6 +206,9 @@ wiki_pages:
   - key: "NeoCognition"
     title: "Neo Cognition"
     url: "/wiki/entities/neocognition/"
+  - key: "NeoRobot"
+    title: "Neo Robot"
+    url: "/wiki/entities/neorobot/"
   - key: "NeoTango"
     title: "Neo Tango"
     url: "/wiki/entities/neotango/"

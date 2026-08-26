@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 7693
+wiki_total_pages: 7714
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -98,6 +98,9 @@ wiki_pages:
   - key: "Yihao"
     title: "Yihao"
     url: "/wiki/entities/yihao/"
+  - key: "YijingFortress"
+    title: "Yijing Fortress"
+    url: "/wiki/entities/yijingfortress/"
   - key: "YimuTechnology"
     title: "Yimu Technology / 一目科技"
     url: "/wiki/entities/yimutechnology/"
@@ -428,9 +431,6 @@ wiki_pages:
   - key: "YangXiong"
     title: "扬雄 / Yang Xiong"
     url: "/wiki/entities/yangxiong/"
-  - key: "YijingFortress"
-    title: "易京 / Yijing Fortress"
-    url: "/wiki/entities/yijingfortress/"
   - key: "YixianLateHan"
     title: "易县 / Yi County (Late Han)"
     url: "/wiki/entities/yixianlatehan/"
@@ -665,6 +665,9 @@ wiki_pages:
   - key: "YuanChanggeng"
     title: "袁长庚 / Yuan Changgeng"
     url: "/wiki/entities/yuanchanggeng/"
+  - key: "YuanHongLateHan"
+    title: "袁闳 / Yuan Hong (late Han)"
+    url: "/wiki/entities/yuanhonglatehan/"
   - key: "YuanWeiLateHan"
     title: "袁隗 / Yuan Wei (late Han)"
     url: "/wiki/entities/yuanweilatehan/"

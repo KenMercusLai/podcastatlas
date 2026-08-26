@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1889
+topic_total_pages: 1892
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -586,6 +586,9 @@ topic_concepts:
   - key: "CrisisStakeholderLeadership"
     title: "Crisis Stakeholder Leadership"
     url: "/wiki/concepts/crisisstakeholderleadership/"
+  - key: "CrisisWithdrawalSelfProtection"
+    title: "Crisis Withdrawal Self-Protection / 危局抽身自保"
+    url: "/wiki/concepts/crisiswithdrawalselfprotection/"
   - key: "CriticalMineralsGeopolitics"
     title: "Critical Minerals Geopolitics"
     url: "/wiki/concepts/criticalmineralsgeopolitics/"
@@ -2308,6 +2311,9 @@ topic_concepts:
   - key: "RitualAffectiveOrder"
     title: "Ritual Affective Order / 仪式感秩序生成"
     url: "/wiki/concepts/ritualaffectiveorder/"
+  - key: "RobotSovereigntyAndDataTrust"
+    title: "Robot Sovereignty and Data Trust"
+    url: "/wiki/concepts/robotsovereigntyanddatatrust/"
   - key: "RobotaxiHybridDeployment"
     title: "Robotaxi Hybrid Deployment"
     url: "/wiki/concepts/robotaxihybriddeployment/"
@@ -5346,6 +5352,9 @@ topic_sources:
   - key: "tech-20260108-0108-mp-tech-pod-128-tech-20260108-0108-mp-tech-pod-128"
     title: "Surveillance cameras livestreamed for the internet to see"
     url: "/wiki/sources/tech-20260108-0108-mp-tech-pod-128-tech-20260108-0108-mp-tech-pod-128/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680"
+    title: "The $1/Hour Worker: Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680/"
   - key: "tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128"
     title: "The 'biohacking' trend that has tech workers experimenting on themselves"
     url: "/wiki/sources/tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 7693
+wiki_total_pages: 7714
 wiki_pages:
   - key: "BSpecials"
     title: "B Specials"
@@ -320,6 +320,9 @@ wiki_pages:
   - key: "BernieSanders"
     title: "Bernie Sanders"
     url: "/wiki/entities/berniesanders/"
+  - key: "BerntBornich"
+    title: "Bernt Bornich"
+    url: "/wiki/entities/berntbornich/"
   - key: "BertBell"
     title: "Bert Bell"
     url: "/wiki/entities/bertbell/"

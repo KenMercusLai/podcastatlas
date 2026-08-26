@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 5506
+wiki_total_pages: 5517
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -321,7 +321,7 @@ wiki_pages:
     title: "Reranking Models"
     url: "/wiki/concepts/rerankingmodels/"
   - key: "RescueReciprocityCommandTrust"
-    title: "Rescue Reciprocity Command Trust / 救援互惠式统帅信任"
+    title: "Rescue Reciprocity Command Trust"
     url: "/wiki/concepts/rescuereciprocitycommandtrust/"
   - key: "ResearchChemicalLoophole"
     title: "Research Chemical Loophole"
@@ -587,9 +587,15 @@ wiki_pages:
   - key: "RobotActiveUseMetrics"
     title: "Robot Active Use Metrics"
     url: "/wiki/concepts/robotactiveusemetrics/"
+  - key: "RobotAsAService"
+    title: "Robot as a Service"
+    url: "/wiki/concepts/robotasaservice/"
   - key: "RobotChefCostQualityTradeoff"
     title: "Robot Chef Cost-Quality Tradeoff"
     url: "/wiki/concepts/robotchefcostqualitytradeoff/"
+  - key: "RobotControlDataScarcity"
+    title: "Robot Control Data Scarcity"
+    url: "/wiki/concepts/robotcontroldatascarcity/"
   - key: "RobotDataScaleUp"
     title: "Robot Data Scale Up"
     url: "/wiki/concepts/robotdatascaleup/"
@@ -623,6 +629,9 @@ wiki_pages:
   - key: "RobotRepurchaseDemand"
     title: "Robot Repurchase Demand / 机器人复购需求"
     url: "/wiki/concepts/robotrepurchasedemand/"
+  - key: "RobotSovereigntyAndDataTrust"
+    title: "Robot Sovereignty and Data Trust"
+    url: "/wiki/concepts/robotsovereigntyanddatatrust/"
   - key: "RobotTeleoperationAndRemoteTakeover"
     title: "Robot Teleoperation and Remote Takeover"
     url: "/wiki/concepts/robotteleoperationandremotetakeover/"

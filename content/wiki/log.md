@@ -8,6 +8,14 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-26] ingest | 《资治通鉴·汉纪》895丨血腥屠刀下的骨肉情深
+
+Added source page for Hanji 895: Zhang Jian's 169 CE party-prohibition flight, Kong Rong hiding him in Kong Bao's household, the Kong-family responsibility contest that ends with Kong Bao's execution, Xia Fu's critique of collateral flight, Du Gen's non-implicating concealment, and Tan Sitong's later poetic allusion. Created Zhang Jian, Kong Bao, Kong Rong's mother, Xia Fu, Du Gen, Tan Sitong, Fugitive Shelter Collateral Risk, and Wangmen Touzhi pages; migrated Kong Rong and Loyalty-Collateral Dilemma to synthesis-v1; updated Crisis Withdrawal Self-Protection. No settled contradiction found; raw transcript variants 张简, 孔包, and 下父 are normalized to 张俭, 孔褒, and 夏馥 while kept source-scoped.
+
+## [2026-08-26] ingest | The $1/Hour Worker: Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs
+
+Added source page for an All-In robotics special with Anybotics, 1X, Boston Dynamics, and Agility Robotics. Created Anybotics, Peter Fankhauser, 1X, Bernt Bornich, Neo Robot, Agility Robotics, Jonathan Hurst, Digit Robot, Amanda McMaster, Spot Robot, Atlas Robot, Industrial Inspection Robotics, Robot Sovereignty and Data Trust, Robot as a Service, Dull Dirty Dangerous Robotics, Robot Control Data Scarcity, Physical AI Hard Takeoff, and Human-Robot Safety Certification; updated Boston Dynamics, Humanoid Robot Commercialization, Robot Teleoperation and Remote Takeover, Embodied Data Pyramid, index, and overview. No settled contradiction found; transcript name variants are normalized and the episode's home-humanoid, robot-sovereignty, anti-weaponization, and hard-takeoff claims remain source-scoped.
+
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》899丨好清斗贪官
 
 Added source page for Hanji 899: the opening Jin Ren/Wu Zhi bribery story around "钱能通神", Emperor Ling's 172 CE visit to Guangwu's Yuanling, Cai Yong's "礼有烦而不可省者" defense of tomb sacrifice, and the host's ritual-sense argument about solemnity, sacredness, order, and self-realization. Created Emperor Ming of Han and Ritual Affective Order pages; updated Cai Yong, Emperor Ling, Liu Xiu, Li As Political Order, Imperial Ritual Distance, and the Ruiqi show page. No settled contradiction found; minor figures and setting terms are kept source-scoped.
@@ -11664,6 +11672,18 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-26] ingest | EP278 AI时代不卷专业，卷什么？丨“人在中流”特别策划02
+
+Added Talk三联 source page for the second “人在中流” AI discussion: AI-era major choice, career cognition, junior-rung compression, real-world education, media work upstream of AI, and non-algorithmic capabilities. Created Gao Erji, Wu Laoshi (Sanlian editor), Caixin Media, and AI Snowline Work Boundary; updated AI-Era Major Choice, Career Cognition Education, and Non-Algorithmic Capabilities into synthesis-v1. No settled contradiction found; the episode qualifies safe-major and AI-tutor optimism by keeping foundations, internalization, real-world contact, and human judgment central.
+
+## [2026-08-26] ingest | 《资治通鉴·汉纪》1031丨公孙瓒之死：从边疆战神到困兽自焚
+
+Added source page for Hanji 1031: Gongsun Zan's 199 CE Yijing endgame, Zhang Yan and Gongsun Xu's attempted relief, Yuan Shao's intercepted fire-signal trap and tunnel siege, Gongsun Zan's family killing and death, Guan Jing's loyalist death, Tian Kai's final defeat/death, and the source-scoped self-knowledge frame. Updated Gongsun Zan, Yijing Fortress, Gongsun Xu (Late Han), Guan Jing (Late Han), Tian Kai (Late Han), Rescue Reciprocity Command Trust, and Fortress Security Illusion. No settled contradiction found; self-knowledge and Dunning-Kruger framing is preserved as episode interpretation.
+
+## [2026-08-26] ingest | 《资治通鉴·汉纪》896丨假如乱世降临，你该如何自保？
+
+Added source page for Hanji 896: 169 CE party-prohibition self-protection through Chen Shi's courtesy to Zhang Rang, He Yong and young Yuan Shao's rescue work, Yuan Hong's domestic reclusion, Shentu Pan's early withdrawal, and Sima Guang's caution against unsupported public confrontation. Created Yuan Hong and Crisis Withdrawal Self-Protection; migrated Chen Shi, He Yong, and Shentu Pan to synthesis-v1. No settled contradiction found; Yuan-family genealogy, Fan Pang, Guo Xi, Geng Lin, Baego, and other minor notices remain source-scoped.
+
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》898丨认贼作父？可怜之人能有多荒唐？
 
 Added source page for Hanji 898: Emperor Ling's "father/mother" dependence on Zhang Rang and Zhao Zhong, 171 CE guanli and amnesty with party figures still excluded, disaster/epidemic and late-Han population-collapse framing, Three Excellencies office churn, Dong Meng's pro-Dou intervention and death after Cao Jie/Wang Fu retaliation, and Xianbei pressure in Bingzhou. Created Dong Meng and Late-Han Population Collapse; updated linked late-Han entity and concept pages. No settled contradiction found; population arithmetic, disease attribution, and minor office-name variants remain source-scoped.
@@ -11949,6 +11969,26 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》897丨职场必读！什么才叫领导力？
 
 Added source page for Hanji 897: relationships without exchangeable capability, Duan Jiong's shared-hardship leadership, Dong Chong's false Dong Taihou instruction, Gu Yong's trust-based frontier submission, and Meng Tuo's manufactured Zhang Rang access followed by failed Shule command. Created Dong Chong, Meng Tuo, Gu Yong, Shule Kingdom, and Manufactured Access Brokerage; updated linked leadership, access, office-capture, and surrender-cascade pages. No settled contradiction found; 170 CE/建宁二年 and transcript variants such as 段九 and 官带 are kept source-scoped.
+
+## [2026-08-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-26] lint | Wiki health check
 

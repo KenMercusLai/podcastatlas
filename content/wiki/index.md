@@ -6,6 +6,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The $1/Hour Worker: Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs](sources/all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680.md) — All-In robotics special on Anybotics, 1X, Boston Dynamics, and Agility Robotics across industrial inspection, home humanoids, warehouse humanoids, teleoperation, robot data, safety, sovereignty, and dangerous-work automation.
+- [《资治通鉴·汉纪》895丨血腥屠刀下的骨肉情深](sources/zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3.md) — 芮淇讲透资治通鉴 episode on Zhang Jian's 169 CE flight, Kong Rong hiding him in Kong Bao's household, the Kong-family responsibility contest, Xia Fu and Du Gen's non-implication withdrawal, and Tan Sitong's later poetic allusion.
+- [《资治通鉴·汉纪》896丨假如乱世降临，你该如何自保？](sources/zizhi-tongjian-hanji-896-jiaru-luanshi-jianglin-ni-gai-ruhe-zibao-lsuvt-ksp-gfggc9riqqovjswkg.md) — 芮淇讲透资治通鉴 episode on 169 CE party-prohibition survival through Chen Shi's courtesy to Zhang Rang, He Yong and Yuan Shao's rescue network, Yuan Hong's domestic reclusion, Shentu Pan's early withdrawal, and Sima Guang's warning about unsupported public confrontation.
 - [《资治通鉴·汉纪》897丨职场必读！什么才叫领导力？](sources/zizhi-tongjian-hanji-897-zhichang-bidu-shenme-cai-jiao-lingdaoli-lvrrmksykazlsb7w8abbdmnqfzqq.md) — 芮淇讲透资治通鉴 episode on relationships without capability, Duan Jiong's shared-hardship leadership, Dong Chong's false Dong Taihou instruction, Gu Yong's trust-based frontier submission, and Meng Tuo's staged Zhang Rang access leading to failed Shule command.
 - [《资治通鉴·汉纪》898丨认贼作父？可怜之人能有多荒唐？](sources/zizhi-tongjian-hanji-898-renzei-zuofu-kelian-zhiren-neng-you-duo-huangtang-lgfup6tyv85zhvnmzf6xlesmblcj.md) — 芮淇讲透资治通鉴 episode on Emperor Ling calling Zhang Rang and Zhao Zhong "father/mother", 171 CE guanli and amnesty with party figures still excluded, disaster and epidemic population-collapse framing, Dong Meng's fatal pro-Dou intervention, and Xianbei pressure in Bingzhou.
 - [《资治通鉴·汉纪》899丨好清斗贪官](sources/zizhi-tongjian-hanji-899-hao-qing-dou-tanguan-ljhic1plzmv8k6lu73j5terihanx.md) — 芮淇讲透资治通鉴 episode on a "money can reach the gods" bribery story, Emperor Ling's 172 CE visit to Guangwu's Yuanling, Cai Yong's "礼有烦而不可省者" ritual defense, and ritual sense as solemn, sacred order.
@@ -40,6 +43,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》1028丨小霸王孙策立威，称霸江东！](sources/zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x.md) — 芮淇讲透资治通鉴 episode on Sun Ce consolidating Jiangdong by accepting Cao Cao's title overtures, drawing Zhou Yu and Lu Su out of Yuan Shu's orbit, and capturing then appointing Zu Lang and Taishi Ci.
 - [《资治通鉴·汉纪》1029丨国士无双太史慈：一诺千金义当先](sources/zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto.md) — 芮淇讲透资治通鉴 episode on Sun Ce sending Taishi Ci to pacify Liu Yao's remaining followers and inspect Yuzhang, with Hua Xin's limited control, Tong Zhi in Luling, and Panyang local forces near Haihun.
 - [《资治通鉴·汉纪》1030丨手握好牌，公孙瓒为何打得稀烂？](sources/zizhi-tongjian-hanji-1030-shouwo-hao-pai-gongsunzan-weihe-da-de-xilan-lpkntyov4viqyzgxgcujn36qhv8.md) — 芮淇讲透资治通鉴 episode on Yuan Shao reaching Yijing, Gongsun Zan's failed rescue-trust logic, Guan Jing's warning, and passive self-preservation as a failed strategy.
+- [《资治通鉴·汉纪》1031丨公孙瓒之死：从边疆战神到困兽自焚](sources/zizhi-tongjian-hanji-1031-gongsunzan-zhisi-cong-bianjiang-zhanshen-dao-kunshou-zifen-lmqoechccfwmfpmbdx8-tjmnm3jz.md) — 芮淇讲透资治通鉴 episode on Gongsun Zan's failed fire-signal sortie, Yuan Shao's tunnel siege, Yijing's collapse, Guan Jing's death, Tian Kai's final defeat, and command trust failing past repair.
 - [Elbows up, again: a US-Canada trade flare-up](sources/elbows-up-again-a-us-canada-trade-flare-up-6a8c0fa3a89d26398ee7a5db.md) — The Intelligence episode on Canada-US tariff talks, Canada's diversification dilemma, Japan's employment ice age generation, and totemic versus utilitarian sieges.
 - [AI loves negative parallelism](sources/tech-20260824-mp-tech-pod-128-tech-20260824-mp-tech-pod-128.md) — Marketplace Tech episode with Will Oremus on negative parallelism as an AI-writing tell, Pangram's frequency finding, Claude watermarking, synthetic-data feedback loops, and AI style bleed into human writing.
 - [山上山下皆人间，无事逍遥即神仙](sources/shan-shang-shan-xia-jie-renjian-wushi-xiaoyao-ji-shenxian-lhjiguq74flhatdxnbrnzhjg-acp.md) — 面基 episode with 李闯 on 《辞职上山》, Wudang Daoist life, fieldnote writing, folk belief as last-resort support, Chinese-medicine uncertainty, circular/linear time, and 逍遥 as freedom inside ordinary constraints.
@@ -153,6 +157,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Why the Trump administration plans to boost funding for subsea cables](sources/tech-20260820-tech-pod-128-tech-20260820-tech-pod-128.md) — Marketplace Tech episode with Erin Murphy on undersea data cables, hyperscaler ownership, U.S. funding for Caribbean and Central American cable replacement, trusted networks, landing-point security, sabotage ambiguity, and redundancy.
 - [Bombs and bombshells: Zelensky under pressure](sources/bombs-and-bombshells-zelensky-under-pressure-6a86d3561ad8716bb64646f0.md) — The Intelligence episode on Zelensky under Russian, election, corruption, and export pressure; China's mental-health access gap; and PAW Patrol as children's media values debate and competence fantasy.
 - [EP275 Token 通胀时代，谁还能“不可替代”？丨“人在中流”特别策划01](sources/ep275-token-tongzhang-shidai-shui-hai-neng-bu-ke-tidai-renzai-zhongliu-tebie-cehua-01-lgnagvell4jyvv7eejrcgno2xjsr.md) — Talk三联 episode on AI workplace anxiety, token spending, editorial AI translation, commercialization pressure, AI productivity ratchets, human-scale AI use, and non-algorithmic capabilities.
+- [EP278 AI时代不卷专业，卷什么？丨“人在中流”特别策划02](sources/ep278-ai-shidai-bu-juan-zhuanye-juan-shenme-renzai-zhongliu-tebie-cehua-02-lhvsbropwclouwshe-2-fczwnwzz.md) — Talk三联 episode with Caixin's Gao Erji and a Sanlian deputy editor on AI-era major choice, career cognition, junior-rung compression, real-world learning, media originality, and non-algorithmic capabilities.
 - [Enterprise Sales With No Product: Landing a Big Four Customer](sources/enterprise-sales-with-no-product-landing-a-big-four-customer.md) — The SaaS Podcast episode with Christian Lund on Templafy's pre-product enterprise sales, Big Four customer, POC qualification, cloud-to-AI technology resets, and buyer-ready AI messaging.
 - [咖啡豆｜传统美食广场接连闭店，「大食代们」遇到哪些发展阻碍？](sources/kafeidou-chuantong-meishi-guangchang-jielian-bidian-dashidaimen-yudao-naxie-fazhan-zuai-1007530222.md) — 声动早咖啡 episode on Food Republic-style food-court decline, delivery-margin pressure, restaurant-chain standardization, mall restaurantization, Skyland/City Mart successor formats, and short updates on mRNA cancer vaccines, Kling AI, Doubao in Tesla China, and Carlsberg's alcohol-free growth.
 - [EP 48: From Pilots to Productivity: What It Actually Takes to Make AI Work in the Enterprise](sources/ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise.md) — Data Science With Sam episode with Jim Spignardo of Proarc on enterprise AI pilot failure, Microsoft 365 Copilot adoption, shadow AI, governance, baselines, and dedicated AI ownership.
@@ -1499,6 +1504,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Anybotics](entities/Anybotics.md) — Swiss robotics company using quadruped robots for industrial inspection in hazardous infrastructure.
+- [Peter Fankhauser](entities/PeterFankhauser.md) — Anybotics co-founder and CEO arguing that quadruped inspection robots can turn hazardous plants into safer data-generating environments.
+- [1X](entities/OneX.md) — Robotics company building the Neo home humanoid as a consumer platform around domestic usefulness, safety, and continuous learning.
+- [Bernt Bornich](entities/BerntBornich.md) — 1X founder and CEO presenting home humanoids as a platform whose usefulness compounds through deployment data.
+- [Neo Robot](entities/NeoRobot.md) — 1X's home humanoid robot, framed as a domestic AI platform for chores, presence, and embodied data learning.
+- [Agility Robotics](entities/AgilityRobotics.md) — Humanoid robotics company commercializing Digit for structured logistics and warehouse workflows.
+- [Jonathan Hurst](entities/JonathanHurst.md) — Agility Robotics co-founder and chief robot officer focused on legged humanoids for practical material-handling work.
+- [Digit Robot](entities/DigitRobot.md) — Agility Robotics' bipedal humanoid robot designed for tote, bin, cart, and warehouse material-handling workflows.
+- [Amanda McMaster](entities/AmandaMcMaster.md) — Boston Dynamics representative describing Spot, Atlas, safety certification, robot learning, and bounded deployments.
+- [Spot Robot](entities/SpotRobot.md) — Boston Dynamics' quadruped robot used for inspection, sensing, and hazardous-environment operations.
+- [Atlas Robot](entities/AtlasRobot.md) — Boston Dynamics' humanoid robot platform for manipulation, mobility, and warehouse-oriented development.
 - [董宠 / Dong Chong (late Han)](entities/DongChongLateHan.md) — Imperial relative whose false invocation of Empress Dowager Dong turns private requests into court-legitimacy risk.
 - [孟陀 / Meng Tuo (late Han)](entities/MengTuoLateHan.md) — Merchant-turned-Liangzhou inspector who manufactures access to Zhang Rang through a staged kneeling scene before failing against Shule.
 - [谷永 / Gu Yong (late Han)](entities/GuYongLateHan.md) — Frontier administrator whose trust-based submission and county-establishment case contrasts with Meng Tuo's failed command.
@@ -1589,8 +1605,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [鲁肃 / Lu Su](entities/LuSu.md) — Future Eastern Wu adviser introduced by Hanji 1028 as leaving Yuan Shu's failing appointment path with Zhou Yu and moving his household toward Sun Ce's Qu'a base.
 - [山越 / Shanyue](entities/Shanyue.md) — Mountain-based Jiangdong local-force field that Yuan Shu tries to mobilize through Zu Lang and that also supports Taishi Ci before Sun Ce's consolidation.
 - [孙翊 / Sun Yi (late Han)](entities/SunYiLateHan.md) — Sun-family son named in Hanji 982 and added by Hanji 1028 to Cao Cao's hostage-like court-service leverage over Sun Ce.
-- [关静 / Guan Jing (Late Han)](entities/GuanJingLateHan.md) — Gongsun Zan adviser whose Yijing warning stops the elite-cavalry sortie because the remaining garrison would read it as abandonment.
-- [公孙旭 / Gongsun Xu (Late Han)](entities/GongsunXuLateHan.md) — Gongsun Zan's son in Hanji 1030, sent from Yijing to seek Black Mountain Army help; disambiguated from Warring States Gongsun Xu.
+- [关静 / Guan Jing (Late Han)](entities/GuanJingLateHan.md) — Gongsun Zan adviser whose Yijing warning and final loyalist death expose command trust after the fortress falls.
+- [公孙旭 / Gongsun Xu (Late Han)](entities/GongsunXuLateHan.md) — Gongsun Zan's son sent for Black Mountain help and later tied to the failed fire-signal relief plan at Yijing.
 - [Mark Carney](entities/MarkCarney.md) — Canadian prime minister in The Intelligence source on renewed U.S.-Canada tariff talks and diversification constraints.
 - [Hal Hodson](entities/HalHodson.md) — The Intelligence correspondent explaining Canada's tariff dilemma, provincial exposure, and investment-stability trap.
 - [Torigoe Atsushi](entities/TorigoeAtsushi.md) — Japanese employment-ice-age worker used as a concrete case of entry-cohort labor-market scarring.
@@ -1715,7 +1731,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [崔烈 / Cui Lie (late Han)](entities/CuiLieLateHan.md) — Late-Han official who briefly becomes taiwei after Zhang Wen's removal and is later replaced by Cao Song.
 - [丁宫 / Ding Gong (late Han)](entities/DingGongLateHan.md) — Pei commandery official appointed sikong in Hanji 938, kept distinct from the Chu-Han Ding Gong page.
 - [曲星 / Qu Xing (late Han)](entities/QuXingLateHan.md) — Changsha rebel suppressed by Sun Jian in 187 CE, giving Sun Jian an early governorship-and-marquis branch.
-- [陈寔 / Chen Shi (late Han)](entities/ChenShiLateHan.md) — Taiqiu moral authority whose "梁上君子" story and posthumous mourning contrast with late-Han coercive disorder.
+- [陈寔 / Chen Shi (late Han)](entities/ChenShiLateHan.md) — Taiqiu moral authority whose "梁上君子" story, dispute trust, and earlier Zhang Rang protection branch show reputation as a non-coercive survival resource.
 - [马相 / Ma Xiang (late Han)](entities/MaXiangLateHan.md) — Yizhou rebel who rises at Mianzhu, kills Xi Jian, proclaims himself Son of Heaven, and is defeated by Jia Long.
 - [赵祗 / Zhao Zhi (late Han)](entities/ZhaoZhiLateHan.md) — Co-leader with Ma Xiang in the Mianzhu Yellow Turban-banner revolt.
 - [郗俭 / Xi Jian (late Han)](entities/XiJianLateHan.md) — Yizhou inspector whose extraction-heavy rule is presented as the local trigger for the Ma Xiang revolt.
@@ -1763,6 +1779,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [闵贡 / Min Gong (late Han)](entities/MinGongLateHan.md) — Late-Han figure in the young emperor and Chenliu prince's escape before Dong Zhuo's armed greeting turns rescue into coercive control.
 - [卢植 / Lu Zhi (late Han)](entities/LuZhiLateHan.md) — Late-Han official who objects to Dong Zhuo's forced deposition of Liu Bian and survives through reputation-backed de-escalation.
 - [袁隗 / Yuan Wei (late Han)](entities/YuanWeiLateHan.md) — Yuan-family senior official whose page now runs from Hanji 903's situ appointment through later rescue, false-edict, and Dong Zhuo seal-transfer roles.
+- [袁闳 / Yuan Hong (late Han)](entities/YuanHongLateHan.md) — Yuan-family recluse who rejects family wealth and withdraws into a doorless earthen hut as a party-crisis self-protection path.
 - [何太后 / Empress Dowager He](entities/EmpressDowagerHe.md) — He-family queen-mother whose eunuch debt and palace dependence block He Jin's purge before Dong Zhuo later removes and poisons her.
 - [何苗 / He Miao (late Han)](entities/HeMiaoLateHan.md) — He-family figure tied to eunuch benefits before He Jin's failure and later killed, with his corpse publicly mutilated after the deposition.
 - [武阳君 / Wuyang Jun](entities/WuyangJun.md) — He-family elder and eunuch-benefit channel who helps block He Jin's purge before being killed in Dong Zhuo's post-deposition terror.
@@ -1812,7 +1829,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [斜谷道 / Xiegu Road (late Han)](entities/XieguRoadLateHan.md) — Qinling route whose blockage lets Liu Yan's Yizhou regime turn Hanzhong control into separation from the Chang'an court.
 - [张修 / Zhang Xiu (Five Pecks)](entities/ZhangXiuFivePecks.md) — Five-Pecks-style religious actor first tied to Ba Commandery in Hanji 929 and later paired with Zhang Lu in Liu Yan's Hanzhong road-control strategy.
 - [韩馥 / Han Fu (late Han)](entities/HanFuLateHan.md) — Jizhou official whom Xun Yu initially seeks before finding Yuan Shao has taken over.
-- [何颙 / He Yong (late Han)](entities/HeYongLateHan.md) — Late-Han talent evaluator used by Hanji 949 in Dong Zhuo's recommendation channel and by Hanji 960 to link Xun Yu's ability with Cao Cao's future stabilizing potential.
+- [何颙 / He Yong (late Han)](entities/HeYongLateHan.md) — Late-Han Party-linked talent evaluator whose crisis rescue work with Yuan Shao precedes later Cao Cao/Xun Yu appraisals, He Jin recruitment, and Dong Zhuo recommendation-channel use.
 - [界桥之战 / Jieqiao Battle (late Han)](entities/JieqiaoBattleLateHan.md) — Yuan Shao-Gongsun Zan battle where Qu Yi's shielded infantry and strong crossbows defeat a cavalry-heavy force.
 - [麹义 / Qu Yi (late Han)](entities/QuYiLateHan.md) — Yuan Shao commander whose shield-crossbow formation wins the Jieqiao battle against Gongsun Zan.
 - [严纲 / Yan Gang (late Han)](entities/YanGangLateHan.md) — Gongsun Zan's appointed Jizhou inspector killed in the Jieqiao battle.
@@ -1885,7 +1902,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [伍琼 / Wu Qiong (late Han)](entities/WuQiongLateHan.md) — Official first used in Dong Zhuo's recommendation channel and later executed after opposing the forced relocation to Chang'an.
 - [周毖 / Zhou Bi (late Han)](entities/ZhouBiLateHan.md) — Official first used in Dong Zhuo's recommendation channel and later executed with Wu Qiong after opposing the forced relocation from Luoyang.
 - [韩融 / Han Rong (late Han)](entities/HanRongLateHan.md) — Scholar-official appointed by Dong Zhuo as part of the Hanji 949 coerced talent-legitimacy field.
-- [申屠蟠 / Shentu Pan (late Han)](entities/ShentuPanLateHan.md) — Late-Han scholar whose repeated refusal of office culminates in rejecting Dong Zhuo's summons.
+- [申屠蟠 / Shentu Pan (late Han)](entities/ShentuPanLateHan.md) — Late-Han scholar whose early party-crisis withdrawal and later refusal of Dong Zhuo's summons make reclusion both moral stance and survival judgment.
 - [葛勋 / Ge Xun (late Han)](entities/GeXunLateHan.md) — Official who discusses Huangfu Song's anti-Dong-Zhuo opening and later defuses Dong Zhuo's threat against Zhu Jun.
 - [梁衍 / Liang Yan (late Han)](entities/LiangYanLateHan.md) — Huangfu Song adviser who proposes escorting Emperor Xian and attacking Dong Zhuo under imperial authority.
 - [黄琬 / Huang Wan (late Han)](entities/HuangWanLateHan.md) — Anti-Dong-Zhuo court official executed after Li Jue and Guo Si take Chang'an in Hanji 966.
@@ -1915,7 +1932,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [邺城 / Ye (Late Han)](entities/YeLateHan.md) — Yuan Shao's late-Han headquarters city threatened during the Wei Commandery and Black Mountain crisis.
 - [长平观之战 / Changpingguan Battle (late Han)](entities/ChangpingguanBattleLateHan.md) — 194 CE battle where Li Jue's side defeats Ma Teng and Han Sui, after which Han Sui's friendly contact with Fan Chou becomes a later suspicion seed.
 - [王美人 / 灵怀皇后 (late Han)](entities/WangMeirenLateHan.md) — Emperor Xian's mother, reburied and posthumously honored in Hanji 973 before the court's military weakness becomes the main story.
-- [田楷 / Tian Kai (late Han)](entities/TianKaiLateHan.md) — Qingzhou inspector whose aid request route introduces Liu Bei into Tao Qian's Xuzhou crisis.
+- [田楷 / Tian Kai (late Han)](entities/TianKaiLateHan.md) — Gongsun Zan-aligned Qingzhou inspector whose Yuan-side proxy war ends in defeat and death.
 - [种劭 / Zhong Shao (late Han)](entities/ZhongShaoLateHan.md) — Chang'an remonstrance official whose inside plot against Li Jue leaks before the Changpingguan branch.
 - [马宇 / Ma Yu (late Han)](entities/MaYuLateHan.md) — Chang'an attendant whose courier-disguise role belongs to the failed inside plot against Li Jue.
 - [边让 / Bian Rang (Late Han)](entities/BianRangLateHan.md) — Chenliu scholar-official whose killing is treated by Hanji 974 as the deeper trigger for Yanzhou local-elite fear before Zhang Miao and Chen Gong betray Cao Cao.
@@ -2059,7 +2076,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [魁头 / Kuitou (Xianbei)](entities/KuitouXianbei.md) — Nephew-line Xianbei successor whose later contest with He Lian's son disperses the group in the Hanji 920 account.
 - [幽州 / Youzhou (Late Han)](entities/YouzhouLateHan.md) — Northern province where Gongsun Zan's post-Liu Yu control unravels through commandery defections.
 - [易县 / Yi County (Late Han)](entities/YixianLateHan.md) — Place Gongsun Zan chooses as a supposed refuge after reading a children's song.
-- [易京 / Yijing Fortress](entities/YijingFortress.md) — Gongsun Zan's trenched tower stronghold, treated as a false-security command-isolation case.
+- [易京 / Yijing Fortress](entities/YijingFortress.md) — Gongsun Zan's trenched tower stronghold, ending as a command-isolation and tunnel-siege failure.
 - [白马义从 / Baima Yicong](entities/BaimaYicong.md) — Gongsun Zan's white-horse cavalry identity contrasted with his later Yijing confinement.
 - [汉灵帝 / Emperor Ling of Han](entities/EmperorLingOfHan.md) — Late-Han emperor whose reign includes Hongdu Menxue patronage, Xidi office-sale pricing, palace-market play, private-treasury extraction, captured feedback, succession non-designation, and unresolved frontier appeals.
 - [董卓 / Dong Zhuo](entities/DongZhuo.md) — Late-Han warlord whose arc now runs from Luoyang terror and coerced scholar legitimacy through forced relocation, assassination, and Meiwu/Yijing fortress comparison.
@@ -2236,6 +2253,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Operation Forrest Gump](entities/OperationForrestGump.md) — Anti-corruption operation in the source alleging money laundering linked to bail for officials charged in earlier investigations.
 - [李维 / Li Wei (Sanlian)](entities/LiWeiSanlian.md) — Talk三联 EP275 speaker framing AI tool use through token spend, team adoption, productivity, sales, and human judgment.
 - [陈明霞 / Chen Mingxia](entities/ChenMingxia.md) — Talk三联 EP275 guest arguing for human-scale AI use, non-algorithmic capabilities, and skepticism toward token-KPI anxiety.
+- [高尔基 / Gao Erji](entities/GaoErji.md) — Caixin Media executive president in EP278 framing AI-era education through task substitution, original content, and person-centered capability.
+- [吴老师 / Wu Laoshi (Sanlian editor)](entities/WuLaoshiSanlianEditor.md) — Sanlian deputy editor in EP278 grounding AI-era education in journalism temperament, real-world experience, parenting, and knowledge internalization.
+- [财新传媒 / Caixin Media](entities/CaixinMedia.md) — Media institution represented by Gao Erji in EP278, used for AI-era editorial, product, database, and original-reporting context.
 - [Templafy](entities/Templafy.md) — Enterprise document automation SaaS company used as a case for pre-product selling, POC discipline, cloud rebuilding, and AI-era positioning.
 - [Christian Lund](entities/ChristianLund.md) — Templafy co-founder explaining enterprise sales before product maturity, "yes, if" POC gating, and AI messaging timing.
 - [Omnidocs](entities/Omnidocs.md) — Older document-automation business whose domain expertise and limits led into the cloud-era Templafy rebuild.
@@ -2344,7 +2364,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [马腾 / Ma Teng](entities/MaTeng.md) — Western military leader defeated by Fan Chou in Hanji 984 and later calmed by Zhong Yao's interest-framing letters in Hanji 1015.
 - [韩遂 / Han Sui](entities/HanSui.md) — Western military leader whose friendly field conversation with Fan Chou becomes purge evidence in Hanji 984 before the later Zhong Yao stabilization branch.
 - [毛玠 / Mao Jie](entities/MaoJie.md) — Cao Cao adviser whose Hanji 968 strategy pairs "奉天子以令不臣" with farming, stockpiling, and military supply.
-- [公孙瓒 / Gongsun Zan](entities/GongsunZan.md) — Northern warlord whose Hanji 971 supply/plunder dispute with Liu Yu leads into the execution, Youzhou backlash, Yijing isolation, and Yuan Shao war.
+- [公孙瓒 / Gongsun Zan](entities/GongsunZan.md) — Northern warlord whose arc runs from frontier cavalry success through Liu Yu rupture and Yijing isolation to death under Yuan Shao's siege.
 - [曹嵩 / Cao Song](entities/CaoSong.md) — Cao Cao's father, whose disputed killing triggers the Xuzhou revenge branch in Hanji 971.
 - [曹德 / Cao De (Late Han)](entities/CaoDeLateHan.md) — Cao Cao's younger brother killed with Cao Song in the source's account.
 - [应劭 / Ying Shao (Late Han)](entities/YingShaoLateHan.md) — Taishan official ordered to receive Cao Song, then fleeing after the killing.
@@ -2412,7 +2432,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [许褚 / Xu Chu](entities/XuChu.md) — Local strongman whose fortified following is absorbed by Cao Cao and turned into close-guard capacity.
 - [杨彪 / Yang Biao](entities/YangBiao.md) — Old-Han elite whose Yuan Shu marriage tie leads to a politically risky arrest and release under Cao Cao.
 - [杨修 / Yang Xiu](entities/YangXiu.md) — Yang Biao's son and Yuan Shu marriage link in Hanji 1020's court-risk branch.
-- [孔融 / Kong Rong](entities/KongRong.md) — Late-Han scholar-official whose Hanji 1007 Beihai failure, Hanji 1011 Mi Heng recommendation, Hanji 1016 Yuan Shao mission, and Hanji 1020 Yang Biao challenge show prestige, advice, and legitimacy pressure.
+- [张俭 / Zhang Jian (late Han)](entities/ZhangJianLateHan.md) — Party-prohibition fugitive whose 169 CE flight creates the Kong-family shelter case and the later Wangmen Touzhi memory.
+- [孔褒 / Kong Bao (late Han)](entities/KongBaoLateHan.md) — Kong Rong's elder brother and Zhang Jian's intended host, ultimately executed after claiming responsibility for the shelter case.
+- [孔融母 / Kong Rong's mother](entities/KongRongMother.md) — Unnamed household elder who joins Kong Bao and Kong Rong in trying to assume guilt for sheltering Zhang Jian.
+- [夏馥 / Xia Fu (late Han)](entities/XiaFuLateHan.md) — Critic of Zhang Jian's collateral flight who hides by disguise, rough labor, and refusal of implicated aid.
+- [杜根 / Du Gen (late Han)](entities/DuGenLateHan.md) — Comparison figure for concealment that avoids implicating friends and kin under political danger.
+- [谭嗣同 / Tan Sitong](entities/TanSitong.md) — Qing reformer invoked through a prison-poem allusion pairing Zhang Jian and Du Gen as persecution-memory figures.
+- [孔融 / Kong Rong](entities/KongRong.md) — Late-Han scholar-official whose early Zhang Jian sheltering, Xuzhou support, Beihai failure, Mi Heng recommendation, Yuan Shao mission, and Yang Biao challenge show moral courage and prestige-capacity limits.
 - [荀彧 / Xun Yu](entities/XunYu.md) — Cao Cao-side official whose welcome-the-emperor argument, adviser recommendation channel, later strategic sequencing, and court-risk interventions shape Cao Cao's early order.
 - [满宠 / Man Chong](entities/ManChong.md) — Severe Cao Cao-side legal official whose Hanji 1006 Cao Hong-client case and Hanji 1020 Yang Biao report both tie enforcement to political trust.
 - [张胜 / Zhang Sheng (Western Han envoy)](entities/ZhangShengWesternHan.md) — Lu Wan envoy persuaded in Xiongnu territory that quick suppression of Chen Xi would endanger Yan, later becoming evidence against Lu Wan.
@@ -8927,7 +8953,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Bitcoin](entities/Bitcoin.md) — Cryptocurrency asset discussed through trading, scarcity, safe-haven behavior, consumer confidence, regulated access, Lugano's everyday-payment experiment, and conviction-based holdability.
 - [Bird Mobile](entities/BirdMobile.md) — First-generation Chinese domestic handset brand remembered for licenses, local channels, celebrity marketing, and the "手机中的战斗机" slogan.
 - [Bobo's Oat Bars](entities/BobosOatBars.md) — Food company that shared early Boulder kitchen capacity and employees with Justin's Nut Butter.
-- [Boston Dynamics](entities/BostonDynamics.md) — Robotics company referenced through Shibo's admiration for Marc Raibert and autonomous robotics.
+- [Boston Dynamics](entities/BostonDynamics.md) — Robotics company whose Spot and Atlas platforms anchor inspection, safety-certification, manipulation, and warehouse-humanoid evidence.
 - [Built for a Better World](entities/BuiltForABetterWorld.md) — Jeffrey Hollender's book about Seventh Generation and the future role of responsible business.
 - [ByteDance](entities/ByteDance.md) — Company behind TikTok, Doubao, and Seedance, discussed through short-video globalization, data-driven product culture, AI cost pressure, video capability, and AI-for-math signals.
 - [Cang Shifu](entities/CangShifu.md) — AI practitioner and creator discussing CLI workflows, skills, Code Pilot, and hands-on agent use.
@@ -9196,6 +9222,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Industrial Inspection Robotics](concepts/IndustrialInspectionRobotics.md) — Use of robots to inspect hazardous or remote industrial assets while reducing human exposure and turning physical sites into repeatable data environments.
+- [Robot Sovereignty and Data Trust](concepts/RobotSovereigntyAndDataTrust.md) — Strategic concern that embodied robots carry cameras, microphones, control loops, and operational data whose ownership, routing, and jurisdiction matter.
+- [Robot as a Service](concepts/RobotAsAService.md) — Robotics business model that sells outcomes or operating hours while the vendor carries more deployment, maintenance, and performance risk.
+- [Dull Dirty Dangerous Robotics](concepts/DullDirtyDangerousRobotics.md) — Automation frame prioritizing work that is repetitive, unpleasant, remote, hazardous, or economically hard to staff.
+- [Robot Control Data Scarcity](concepts/RobotControlDataScarcity.md) — Data bottleneck created because high-quality robot action data is far scarcer than internet-scale text, image, audio, and video data.
+- [Physical AI Hard Takeoff](concepts/PhysicalAIHardTakeoff.md) — Robotics acceleration thesis in which embodied deployment, self-generated data, simulation, and foundation models could compound robot capability quickly.
+- [Human-Robot Safety Certification](concepts/HumanRobotSafetyCertification.md) — Certification and deployment discipline for proving robots can work near people, assets, and workflows without unacceptable risk.
 - [Manufactured Access Brokerage / 假势通道套利](concepts/ManufacturedAccessBrokerage.md) — Meng Tuo pattern where staged deference creates apparent access, converts others' gifts into real favor, and can produce office without competence.
 - [Ritual Affective Order / 仪式感秩序生成](concepts/RitualAffectiveOrder.md) — Hanji 899 frame for how cumbersome ritual can produce solemnity, sacredness, ordered memory, and disciplined participation rather than mere decorative form.
 - [Moderation As Political Survival / 中庸圆滑政治生存](concepts/ModerationAsPoliticalSurvival.md) — Hanji 900 frame for Hu Guang's survival through institutional competence, non-offense, relationship continuity, and controlled exposure, with moral costs kept visible.
@@ -9234,7 +9267,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [派系站队退出资本 / Factional Alignment Exit Capital](concepts/FactionalAlignmentExitCapital.md) — Hanji 1027 workplace frame for reading informal power while building portable professional value and exit options.
 - [骑墙式战略暴露 / Fence-Sitting Strategic Exposure](concepts/FenceSittingStrategicExposure.md) — Liu Biao pattern where short-term neutrality becomes exploitable when local fissures and external patrons constrain initiative.
 - [降敌任用式立威 / Captured Opponent Talent Incorporation](concepts/CapturedOpponentTalentIncorporation.md) — Hanji 1028 pattern where Sun Ce turns captured rivals such as Zu Lang and Taishi Ci into visible proof of authority, restraint, and usable talent.
-- [Rescue Reciprocity Command Trust / 救援互惠式统帅信任](concepts/RescueReciprocityCommandTrust.md) — Command-trust failure where a leader's refusal to rescue subordinates teaches them not to risk themselves when the leader later needs support.
+- [Rescue Reciprocity Command Trust / 救援互惠式统帅信任](concepts/RescueReciprocityCommandTrust.md) — Command-trust failure where non-rescue teaches subordinates that danger is not shared, making later relief brittle.
 - [Trade Diversification Stability Paradox](concepts/TradeDiversificationStabilityParadox.md) — Pattern where escaping dependence on a dominant trade partner first requires enough stability with that partner to attract investment.
 - [Entry-Cohort Labor Market Scarring](concepts/EntryCohortLaborMarketScarring.md) — Long-run wage, pension, and housing damage from entering the workforce during a weak hiring regime.
 - [Siege Typology](concepts/SiegeTypology.md) — Military-history distinction between symbolically totemic sieges and strategically utilitarian sieges.
@@ -9377,7 +9410,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [接纳者掠杀 / Hospitality Predation](concepts/HospitalityPredation.md) — Trust-boundary pattern where a received guest or helper weaponizes hospitality into murder, plunder, or replacement.
 - [Peak-Valley AI Inference Pricing](concepts/PeakValleyAIInferencePricing.md) — Demand-window pricing pattern where AI API costs vary by peak and off-peak serving load.
 - [Emotional Attachment Political Distortion / 情执政治判断失衡](concepts/EmotionalAttachmentPoliticalDistortion.md) — Pattern where affection, grief, resentment, or loyalty becomes the lens that overwhelms organization-level judgment and political survival.
-- [Fortress Security Illusion / 筑城避世安全幻觉](concepts/FortressSecurityIllusion.md) — Warlord-security failure where walls, grain, and isolation are mistaken for real safety after initiative, advisers, and people-support have been lost.
+- [Fortress Security Illusion / 筑城避世安全幻觉](concepts/FortressSecurityIllusion.md) — Warlord-security failure where walls, grain, and isolation are mistaken for safety after trust, initiative, and people-support fail.
 - [China Burger Expansion / 中国汉堡开店潮](concepts/ChinaBurgerExpansion.md) — Restaurant-market pattern where foreign burger chains and adjacent Chinese restaurant brands test burgers as filling, affordable meal occasions.
 - [Yellow Lemon Price Cycle / 黄柠檬价格周期](concepts/YellowLemonPriceCycle.md) — Supply-demand pattern where better Anyue output, export disruption, inventory, and weaker tea-drink procurement push domestic yellow-lemon prices down.
 - [Soft-Discount Retail / 软折扣零售](concepts/SoftDiscountRetail.md) — Discount format based on close-dated, overstock, and tail-goods supply, contrasted with hard discount's structural operating efficiency.
@@ -9457,9 +9490,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mental Health Service Regulation Gap](concepts/MentalHealthServiceRegulationGap.md) — Lack of licensing, supervision, and quality controls in counseling and mental-health support markets.
 - [Children's Media Values Debate](concepts/ChildrensMediaValuesDebate.md) — Debate over whether children's entertainment transmits politics, institutional lessons, values, or psychological reassurance.
 - [Child Competence Wish Fulfillment](concepts/ChildCompetenceWishFulfillment.md) — Appeal of stories where child-aligned characters solve adult problems and turn anxiety into competence.
-- [Non-Algorithmic Capabilities / 非算法能力](concepts/NonAlgorithmicCapabilities.md) — EP275 frame for the judgment, connection, self-definition, decision, and aesthetic abilities that become more important as AI handles standard tasks.
+- [Non-Algorithmic Capabilities / 非算法能力](concepts/NonAlgorithmicCapabilities.md) — AI-era judgment, connection, self-definition, resilience, real-world contact, and original question-setting abilities reinforced by EP275 and EP278.
 - [Human-Scale AI Use / 人作为 AI 的尺度](concepts/HumanScaleAIUse.md) — Standard for judging AI by whether it improves human work quality, life quality, value creation, and agency rather than token consumption or adoption pressure.
 - [AI Productivity Ratchet / AI 生产率棘轮](concepts/AIProductivityRatchet.md) — Workplace pattern where AI-fluent workers receive more tasks, review burden, and responsibility when productivity gains become a new baseline.
+- [AI Snowline Work Boundary / AI工作雪线边界](concepts/AISnowlineWorkBoundary.md) — EP278 task-layer metaphor separating AI-industrializable standardized work from trust-heavy, relationship-heavy, judgment-heavy human work.
 - [Enterprise POC Discipline](concepts/EnterprisePOCDiscipline.md) — Enterprise-sales practice of accepting POCs only with explicit proof criteria, budget, timing, buyer intent, and rollout consequences.
 - [Enterprise Customer As Market](concepts/EnterpriseCustomerAsMarket.md) — View that one large enterprise can contain enough internal workflows and teams to justify broad landing and later expansion.
 - [Technology Reset Rebuild](concepts/TechnologyResetRebuild.md) — Strategy of rebuilding a product foundation for a platform shift rather than making the old system look current.
@@ -9602,6 +9636,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Covert Political Technology / 阴谋式政治技术](concepts/CovertPoliticalTechnology.md) — Chen Ping frame for hidden political work through inducement, rumor, information, and enemy-side division.
 - [Moral Slander Reframing / 道德诬陷焦点转移](concepts/MoralSlanderReframing.md) — Hanji 154 pattern in which Chen Ping and Wei Wuzhi answer a private moral smear by returning Liu Bang to evidence, role, and useful talent.
 - [Political Survival First / 安全第一政治生存](concepts/PoliticalSurvivalFirst.md) — Frame for treating self-preservation, leader exposure, host-risk reading, factional non-prosecution, staged alignment, alliance blocking, adviser exit, and timing as political disciplines.
+- [Crisis Withdrawal Self-Protection / 危局抽身自保](concepts/CrisisWithdrawalSelfProtection.md) — Late-Han pattern where actors preserve life and moral autonomy by lowering exposure, withdrawing, or avoiding contacts who would become collateral targets.
+- [Fugitive Shelter Collateral Risk / 收留逃亡者的牵连风险](concepts/FugitiveShelterCollateralRisk.md) — Hanji 895 pattern where sheltering a politically pursued person transfers danger to hosts, kin, friends, and helpers.
+- [望门投止 / Wangmen Touzhi](concepts/WangmenTouzhi.md) — Idiom-memory branch from Zhang Jian's flight, preserving desperate refuge-seeking while exposing host-side collateral risk.
 - [Lü Bu Factional Balance / 吕布集团派系平衡](concepts/LyuBuFactionalBalance.md) — Late-Han command pattern whose Yanzhou gentry channel begins in the anti-Cao coalition and later constrains Lü Bu after Hao Meng's revolt.
 - [Second-in-Command Role Fit / 二把手角色适配](concepts/SecondInCommandRoleFit.md) — Liu Bang and Chen Ping frame for using high-ability covert operators heavily while bounding their independent authority.
 - [Veteran Merit-Clique Supervision / 功臣旧将监督](concepts/VeteranMeritCliqueSupervision.md) — Liu Bang's use of an outsider such as Chen Ping to monitor old generals, including the backlash and smear pressure that such supervision can trigger.
@@ -9879,7 +9916,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Post-Coalition Spoils Imbalance / 联军战后利益失衡](concepts/PostCoalitionSpoilsImbalance.md) — Post-victory payoff problem where Qin treats treasure as inadequate and attacks Wei after the anti-Qi coalition.
 - [Crisis Autonomous Marriage / 患难自主婚姻](concepts/CrisisAutonomousMarriage.md) — Relationship pattern where Tian Fazhang and Jun Wang Hou's private crisis bond precedes restored royal marriage.
 - [Retainer Revenge Mobilization / 臣下复仇动员](concepts/RetainerRevengeMobilization.md) — Wang Sun Gu's conversion of subject-duty shame into a public revenge force against Zhuo Chi.
-- [Loyalty-Collateral Dilemma / 忠义牵连困境](concepts/LoyaltyCollateralDilemma.md) — Pattern where public loyalty or office duty can make family, followers, or local people collateral, from Wang Zhu to Zhao Bao and later late-Han siege cases.
+- [Loyalty-Collateral Dilemma / 忠义牵连困境](concepts/LoyaltyCollateralDilemma.md) — Pattern where loyalty, duty, refuge, or honor shifts danger onto family, hosts, followers, civilians, or local people.
 - [Xunzian Wangba Three Paths / 荀子王霸三分法](concepts/XunzianWangbaThreePaths.md) — Xunzi-derived framework where ritual-righteous rule becomes kingly rule, credible trust supports hegemony, and profit-first deception leads toward ruin.
 - [Xing'e Theory / 性恶论](concepts/XingETheory.md) — Source-scoped Xunzi human-nature doctrine used to explain why ritual, law, education, and credible institutions are needed for political order.
 - [Victory Overreach Failure / 数胜必亡式胜利反噬](concepts/VictoryOverreachFailure.md) — Pattern where victory inflates confidence, relaxes discipline, exhausts support, kills corrective feedback, or invites tactical reversal.
@@ -10921,7 +10958,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mainland Southeast Asia River-Valley State Formation / 中南半岛河谷国家形成](concepts/MainlandSoutheastAsiaRiverValleyStateFormation.md) — EP267 concept for mountains and north-south river valleys shaping ethnic, linguistic, and political zones.
 - [Angkor Hydraulic Empire / 吴哥水利帝国](concepts/AngkorHydraulicEmpire.md) — EP267 synthesis of Tonle Sap flood pulses, reservoirs, dry-season irrigation, rice surplus, labor, temples, and sacred kingship.
 - [Mekong Delta Colonial Canal Agriculture / 湄公河三角洲殖民沟渠农业](concepts/MekongDeltaColonialCanalAgriculture.md) — EP267 downstream water-engineering case where French colonial canals made rice abundance while increasing climate and saltwater-intrusion exposure.
-- [AI-Era Major Choice / AI时代专业选择](concepts/AIEraMajorChoice.md) — EP266 frame for choosing majors by durable foundations, real problem contact, AI collaboration, and transferable judgment rather than current heat.
+- [AI-Era Major Choice / AI时代专业选择](concepts/AIEraMajorChoice.md) — EP266 and EP278 frame for choosing majors by foundations, real problem contact, AI collaboration, career cognition, person-fit, and transferable judgment rather than current heat.
 - [AI Hollowing Foundational Training / AI导致基础训练空心化](concepts/AIHollowingFoundationalTraining.md) — EP266 risk that students use AI to skip early practice needed for later system judgment.
 - [New Engineering Education / 新工科教育](concepts/NewEngineeringEducation.md) — EP266 engineering-education reform branch around real problems, system design, industry collaboration, and AI-era innovation.
 - [Medical AI Education / 医学AI教育](concepts/MedicalAIEducation.md) — EP266 medical-teaching branch where AI supports case reasoning, simulation, process assessment, and error correction while doctors retain responsibility.
@@ -11077,7 +11114,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Order-Class Vocational Education / 订单班](concepts/OrderClassVocationalEducation.md) — Employer-oriented cohort model that can clarify employment channels but remains shallower than full dual-system training.
 - [Vocational Degree Progression / 职业教育升学通道](concepts/VocationalDegreeProgression.md) — 专升本, vocational undergraduate, and exam routes that give vocational students mobility while complicating employment-first cooperation.
 - [Project-Based Vocational Learning / 项目式职业学习](concepts/ProjectBasedVocationalLearning.md) — Hands-on learning mode that can build confidence and practical skill when students work on real projects.
-- [Career Cognition Education / 职业认知教育](concepts/CareerCognitionEducation.md) — Occupational-understanding layer that helps students evaluate pay, skill ladders, work culture, and industry fit.
+- [Career Cognition Education / 职业认知教育](concepts/CareerCognitionEducation.md) — Occupational-understanding layer that helps students evaluate pay, skill ladders, work culture, industry fit, personality fit, and AI-exposed task layers.
 - [AI-Assisted Program Adjustment / AI辅助专业调整](concepts/AIProgramAdjustment.md) — Vocational-school use of AI, labor-demand data, and policy signals to adjust majors, courses, and micro-specializations.
 - [Elder-Care Workforce / 养老照护人才](concepts/ElderCareWorkforce.md) — Trained care-labor pipeline needed for aging societies, linking real practice, dignity, retention, and technology boundaries.
 - [Short Drama Overseas Expansion / 短剧出海](concepts/ShortDramaOverseasExpansion.md) — EP240 frame for Chinese short dramas moving abroad through domestic market pressure, web-fiction lineage, localized production, and paid traffic.
@@ -13906,7 +13943,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [World Model VLA Fusion](concepts/WorldModelVLAFusion.md) — Robot-model route where world models supply future-state prediction and VLA-style systems supply instruction/action generation.
 - [Robot Logistics Sorting](concepts/RobotLogisticsSorting.md) — Early humanoid-robot commercialization wedge around package flipping, label exposure, soft packages, and industrial tail cases.
 - [Dexterous Manipulation](concepts/DexterousManipulation.md) — High-DOF hands, deformable-object handling, retargeting, sensors, and hand-specific data as a robotics bottleneck.
-- [Robot Teleoperation and Remote Takeover](concepts/RobotTeleoperationAndRemoteTakeover.md) — Teleoperation as both robot-training data source and industrial supervision/fallback pattern.
+- [Robot Teleoperation and Remote Takeover](concepts/RobotTeleoperationAndRemoteTakeover.md) — Teleoperation as robot-training data, remote supervision, remote presence, and demo-authenticity risk across industrial and home robots.
 - [Humanoid Robot Marathon](concepts/HumanoidRobotMarathon.md) — Stress-test frame for biped robot motors, cooling, navigation, reliability, and large-company system engineering.
 - [Embodied Robot Data Paradigms](concepts/EmbodiedRobotDataParadigms.md) — Shift from Aloha-style teleoperation toward UMI, egocentric video, motion capture, and dexterous-hand data.
 - [ByteDance Growth System](concepts/ByteDanceGrowthSystem.md) — Company-level growth capability combining growth BP, LTV models, automated buying, creative material, risk control, internal traffic, and localization.
@@ -14003,7 +14040,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Company Game Difficulty Strategy](concepts/CompanyGameDifficultyStrategy.md) — Strategy frame for how companies choose market and technology difficulty, from stepwise climbs to hard-mode categories.
 - [Physical AI](concepts/PhysicalAI.md) — AI strategy for physical-world systems such as cars and robots where models, data, controls, hardware, manufacturing, safety, and organization must be rebuilt together.
 - [Stitched AI Architecture](concepts/StitchedAIArchitecture.md) — Rule-heavy software plus partial-AI stack criticized as useful for local progress but insufficient for full autonomous driving or generalized robotics.
-- [Humanoid Robot Commercialization](concepts/HumanoidRobotCommercialization.md) — Challenge of turning human-like general robots into reliable, affordable, useful products across homes, work, elder care, and other physical environments.
+- [Humanoid Robot Commercialization](concepts/HumanoidRobotCommercialization.md) — Challenge of turning human-like robots into safe, reliable, useful products, now split between bounded warehouse workflows, home-platform bets, and hard-takeoff forecasts.
 - [Token Maxxing](concepts/TokenMaxxing.md) — AI usage-growth frame that separates gross token volume from token-per-task, dollar-per-token, reasoning-token cost, model quality, and business outcome.
 - [Loop Maxxing](concepts/LoopMaxxing.md) — Recursive AI workflow where outputs are fed back into later prompts to improve reasoning, raising evaluation, stopping-rule, and inference-latency constraints.
 - [AI Economic Diffusion](concepts/AIEconomicDiffusion.md) — Gap between model capability becoming available and organizations redesigning workflows, software, roles, and incentives enough to convert AI into productivity.
@@ -14164,7 +14201,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [High Responsibility Density](concepts/HighResponsibilityDensity.md) — Organization pattern where small teams own design, sourcing, production, and outcomes across hard-tech systems.
 - [SpaceX Mafia](concepts/SpaceXMafia.md) — Hard-tech alumni network expected to carry SpaceX/Tesla operating methods into new physical-technology startups.
 - [Data As Education](concepts/DataAsEducation.md) — Frame that AI data includes teaching signals such as tasks, feedback, evaluation, correction, and environments, not only labeled files.
-- [Embodied Data Pyramid](concepts/EmbodiedDataPyramid.md) — Robotics data structure combining scarce real robot data, scalable simulation, and broad internet or human first-person data.
+- [Embodied Data Pyramid](concepts/EmbodiedDataPyramid.md) — Robotics data strategy combining teleoperation, real robot data, simulation, structured 3D, tactile data, human first-person data, and internet video priors.
 - [Robotics Simulation Evaluation](concepts/RoboticsSimulationEvaluation.md) — Simulation-as-evaluation infrastructure for repeatable robot training, testing, feedback, and counterfactual physical tasks.
 - [Data Engine Learning Loop](concepts/DataEngineLearningLoop.md) — Feedback-driven data system that supplies environments, tasks, evaluation, and iterative learning rather than only annotation files.
 - [Data Recipe Co-Creation](concepts/DataRecipeCoCreation.md) — Joint discovery between data companies and model teams of which data mixtures measurably improve models.

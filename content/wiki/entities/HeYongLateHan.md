@@ -2,34 +2,55 @@
 title: "何颙 / He Yong (late Han)"
 type: entity
 tags: [person, late-han, evaluator, talent]
-sources: [zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc, zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt, zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb, zizhi-tongjian-hanji-960-caowei-dingji-zhinang-xunyu-weihe-qi-yuan-tou-cao-lmor1txqpm88itt4incalusconjr]
-last_updated: 2026-08-25
+sources:
+  - zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc
+  - zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt
+  - zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb
+  - zizhi-tongjian-hanji-960-caowei-dingji-zhinang-xunyu-weihe-qi-yuan-tou-cao-lmor1txqpm88itt4incalusconjr
+  - zizhi-tongjian-hanji-896-jiaru-luanshi-jianglin-ni-gai-ruhe-zibao-lsuvt-ksp-gfggc9riqqovjswkg
+last_updated: 2026-08-26
+knowledge_schema: synthesis-v1
 ---
-
 # 何颙 / He Yong (late Han)
 
-[[zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc|Hanji 926]] backfills He Yong's reputation-evaluator role before his He Jin and Dong Zhuo-era appearances. The episode presents him as a Nanyang figure, a Taixue-centered notable appreciated by Party figures, and one of [[YuanShao|袁绍]]'s奔走友 alongside people such as [[ZhangMiaoLateHan|张邈]], [[XuYouLateHan|许攸]], and [[WuQiongLateHan|伍琼]].
+## Overview
 
-This earlier placement matters because He Yong is not only a later recommender under powerful patrons. Hanji 926 uses his judgments to help build [[CaoCao|曹操]]'s early reputation: the same evaluator who calls [[XunYu|荀彧]] a ruler-assisting talent is also said to identify Cao Cao as a person who may pacify the world.
+He Yong is a Nanyang and Taixue-associated late-Han notable whose value in the wiki lies in crisis networks and reputation brokerage. He appears first as a party-linked survivor and rescuer, then as a talent evaluator and recommendation node whose authority later becomes useful to much stronger political actors.
 
-[[zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt|Hanji 943]] adds He Yong before the Dong Zhuo and Xun Yu branches. After [[HeJin|何进]] kills [[JianShuoLateHan|蹇硕]] and consolidates around [[LiuBianHongnongWang|刘辩 / 弘农王]]'s accession, the source says He Jin recruits He Yong, [[ZhengTaiLateHan|郑泰]], and other wise or strategic people into his close circle.
+## Current Profile
 
-This early placement makes He Yong part of the first He-side personnel buildout rather than only a later recommender under [[DongZhuo|董卓]]. The source does not make him the strategist of the accession settlement, but it shows that He Jin's new power immediately attracts or appoints talent before the anti-eunuch conflict escalates.
+In [[zizhi-tongjian-hanji-896-jiaru-luanshi-jianglin-ni-gai-ruhe-zibao-lsuvt-ksp-gfggc9riqqovjswkg|Hanji 896]], He Yong is close enough to Chen Fan and Li Ying to be endangered by party-prohibition pursuit, changes name, hides between Nanyang and Runan, and cooperates with young Yuan Shao to help endangered party figures escape. Later source notes make that same network value legible in different settings: He Yong helps validate Cao Cao, praises Xun Yu as "王佐之才," joins He Jin's reformist personnel field, and is pulled into Dong Zhuo's coercive recommendation politics.
 
-[[zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb|Hanji 949]] adds He Yong to [[DongZhuo|董卓]]'s early legitimacy-repair effort. The source names him with [[ZhouBiLateHan|周毖]], [[WuQiongLateHan|伍琼]], and [[ZhengTaiLateHan|郑泰]] as figures used to clean corrupt officials and recommend neglected worthies after Dong Zhuo receives xiangguo status.
+## Key Characteristics
 
-In this source, He Yong's talent-evaluation role is compromised by context: a recommendation channel can place worthy people in office, but under Dong Zhuo's terror it also risks becoming [[CoercedTalentLegitimacy|胁迫征士合法性]].
+- Party-linked Nanyang and Taixue notable who survives by alias and hiding in the 169 CE crisis.
+- Early rescue-network actor with Yuan Shao, not merely a later recommender.
+- Talent evaluator whose judgments help make Cao Cao and Xun Yu legible as exceptional figures.
+- Personnel channel for He Jin's anti-eunuch buildout and later Dong Zhuo's legitimacy-seeking recruitment.
+- Source-scoped profile centered on evaluation, rescue, and recommendation rather than full biography.
 
-何颙 / He Yong (late Han) enters the wiki through [[zizhi-tongjian-hanji-960-caowei-dingji-zhinang-xunyu-weihe-qi-yuan-tou-cao-lmor1txqpm88itt4incalusconjr|Hanji 960]] as a talent evaluator whose judgments frame [[XunYu|荀彧]]'s later camp choice. The episode says He Yong recognizes Xun Yu as a ruler-assisting talent and had also praised [[CaoCao|曹操]] as someone who could pacify the world as the Han order collapsed.
+## Evidence
 
-The page is source-scoped. He Yong matters here because the episode uses his evaluations to connect two different kinds of judgment: identifying a capable adviser and identifying the ruler who can use that adviser. That makes him part of the [[TalentAsStateTreasure|以贤臣为宝]] and [[TalentAttractionThroughRespect|礼贤下士式人才吸附]] branch rather than a standalone biography.
+- Party-risk and rescue network: [[zizhi-tongjian-hanji-896-jiaru-luanshi-jianglin-ni-gai-ruhe-zibao-lsuvt-ksp-gfggc9riqqovjswkg|Hanji 896]] places He Yong in hiding and in quiet coordination with Yuan Shao after the crackdown on party figures.
+- Reputation evaluator: [[zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc|Hanji 926]] links He Yong to Cao Cao's reputation chain, while [[zizhi-tongjian-hanji-960-caowei-dingji-zhinang-xunyu-weihe-qi-yuan-tou-cao-lmor1txqpm88itt4incalusconjr|Hanji 960]] records his judgment of Xun Yu.
+- He Jin personnel field: [[zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt|Hanji 943]] lists He Yong among the officials and scholars He Jin summoned or used while preparing to confront eunuch power.
+- Coerced recommendation politics: [[zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb|Hanji 949]] includes He Yong in Dong Zhuo's recommendation channel, showing how moral reputation could be borrowed by violent power.
+- Yuan Shao friendship bridge: [[zizhi-tongjian-hanji-896-jiaru-luanshi-jianglin-ni-gai-ruhe-zibao-lsuvt-ksp-gfggc9riqqovjswkg|Hanji 896]] and [[zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc|Hanji 926]] together make Yuan Shao's early elite reach visible.
 
-## Connections
+## Qualifications
 
-- [[zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc|Hanji 926]], [[CaoCao|曹操]], [[XunYu|荀彧]], [[YuanShao|袁绍]], and [[EliteEndorsementReputationMaking|名士背书式造势]] - early evaluator authority and reputation-making endorsement.
-- [[zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt|Hanji 943]], [[HeJin|何进]], [[ZhengTaiLateHan|郑泰]], and [[TalentAsStateTreasure|以贤臣为宝]] - early He-side personnel buildout after Liu Bian's accession.
-- [[zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb|Hanji 949]], [[DongZhuo|董卓]], [[ZhouBiLateHan|周毖]], [[WuQiongLateHan|伍琼]], [[ZhengTaiLateHan|郑泰]], and [[CoercedTalentLegitimacy|胁迫征士合法性]] - recommendation channel under coercive rule.
-- [[XunYu|荀彧]] - talent He Yong is said to recognize.
-- [[CaoCao|曹操]] - powerholder He Yong is said to identify as a future stabilizer.
-- [[TalentAsStateTreasure|以贤臣为宝]] and [[TalentAttractionThroughRespect|礼贤下士式人才吸附]] - personnel frames supported by his source role.
-- [[zizhi-tongjian-hanji-960-caowei-dingji-zhinang-xunyu-weihe-qi-yuan-tou-cao-lmor1txqpm88itt4incalusconjr|Hanji 960]] - source context.
+The rescue role in Hanji 896 does not prove that He Yong directed the whole operation; the source supports coordination and planning with Yuan Shao. His later presence in Dong Zhuo's recommendation field should not be treated as endorsement of Dong Zhuo, since the surrounding synthesis frames that field as coercive legitimacy packaging.
+
+## What Changed
+
+- Added the earlier party-prohibition danger and rescue role, making the later evaluator and personnel roles rooted in crisis-era networks.
+- Clarified that He Yong's Yuan Shao connection predates the later He Jin and Dong Zhuo fields.
+
+## Relationships
+
+- [[YuanShao|袁绍]] - crisis-rescue partner and later network peer.
+- [[XunYu|荀彧]] - talent He Yong praises as "王佐之才."
+- [[CaoCao|曹操]] - powerholder He Yong is said to identify early.
+- [[HeJin|何进]] - later recruiter who draws He Yong into anti-eunuch personnel politics.
+- [[TalentAttractionThroughRespect|礼贤下士式人才吸附]] - framework around recommendation and usable authority.
+- [[CoercedTalentLegitimacy|胁迫征士合法性]] - boundary for He Yong's Dong Zhuo-era recommendation context.

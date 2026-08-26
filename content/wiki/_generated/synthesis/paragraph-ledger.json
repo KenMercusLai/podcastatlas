@@ -1,6 +1,8 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "c1fcb3861b584fe6e941c87932da97413c4884d0dceb790e661f42a218f310c0",
+      "3ebdf9dcaded254adec25e064e08f763e9ead24285786d5a7dd344b303cb97ce",
       "08e9e438e40918d3a19ca7da2690c490428c5bd254df490c89e74304af0569d4",
       "68639998e00d8dc008789ff62087e5df0174d198c430028997e19ee6b49bad5c",
       "e9167ce1beebc3cb36e023f645490831481f79fb4f49ad03eff1807160a12ba3",
@@ -20,6 +22,7 @@
       "9a171a2c08f89f42da0c2486cc46f51e6c75cc103bb555b3ed7bd5a61c1c7c79",
       "7d7b693d6f35815ea65575bc5b059360b4fee92ebcf1baf6f0f25aadad4c1df0",
       "840eaed48823d1cb8394205dc6f757a3f266cc085d658c74982cb8d290278aa1",
+      "4fbe70aa1f53b32473387df288ea810f7381dfacf1213a6732c1aceab7f634f8",
       "edc20184f9cefbd958ce0fe6369ba50f9c227485553384690d5efee4f2579a08",
       "cfdf373b36b386d0fcf8826c8af5b3ae5ea7a4893abd05eb6a4e1b5630010bc0",
       "c028892a2d50db645a114ab75b1d3b261fe9f6136ee91e1c379ef58d9ec989a0",
@@ -241,14 +244,96 @@
       "0fba5d11c8de7efacd2b63af5f1939d94c6dbb1d7bafc6ac1ade1274bd388278",
       "d2ebb1f66c4d89d070f9f574affe60d1700fea687fbf72d6a87ccf19244070a0",
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
+      "68e3dcf4cf80f3ff08de28db5fa06665d045db631dc75f908ce827ef84e2485b",
       "d9074e43b7b103fc0d0097b207bf8018227d6e146ca0eb75638118627687641c",
       "b16a38bd6e190222f7f3e6f0535803ce60ae7f3304e3477dfcdd995a15fb502f"
     ],
-    "paragraph_count": 242
+    "paragraph_count": 246
   },
-  "overview_commit": "c51610a9a9dbd77510c678127db006a8ddd97470",
-  "overview_digest": "c0e777abe8e8c4c63f3e306a0f679d1c4aa997b4495d29deacbf6089c28aa765",
+  "overview_commit": "7d08cfe095712776af7e7c0aab71b20298d0e04e",
+  "overview_digest": "8b39be01c8062063a7ccfecb8842015537b9610b04298e3eab070d7aa88a15c3",
   "paragraphs": [
+    {
+      "id": "c1fcb3861b584fe6e941c87932da97413c4884d0dceb790e661f42a218f310c0",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[ep278-ai-shidai-bu-juan-zhuanye-juan-shenme-renzai-zhongliu-tebie-cehua-02-lhvsbropwclouwshe-2-fczwnwzz]], a [[TalkSanlian|Talk三联]] “人在中流” episode with [[GaoErji|高尔基]] of [[CaixinMedia|财新传媒]] and [[WuLaoshiSanlianEditor|吴老师]] of [[SanlianLifeWeekly|三联生活周刊]] on AI, education, parenting, and career formation. It adds [[AISnowlineWorkBoundary]], [[GaoErji]], [[WuLaoshiSanlianEditor]], and [[CaixinMedia]], while extending [[AIEraMajorChoice]], [[CareerCognitionEducation]], [[NonAlgorithmicCapabilities]], [[CollegeMajorChoice]], [[EntryLevelAICareerLadderRisk]], [[AIAsTutor]], [[AIShortcutRisk]], [[HumanJudgmentUnderAI]], [[HumanAgencyUnderAI]], [[HumanConnectionUnderAI]], [[FieldworkAsKnowledgeMethod]], and [[InterviewAsEmbodiedReporting]]. Its core synthesis is that AI-era students should not chase a safe major label alone: routine junior tasks can be compressed across fields, but durable value comes from foundations, real-world contact, occupational self-knowledge, original upstream questions, trust-building, resilience, and using AI as a tool rather than becoming tool-like. No settled contradiction is recorded; the source qualifies AI-tutor and safe-major optimism by keeping practice, internalization, and concrete professional scenes central.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "culture-and-media": 1,
+        "psychology-and-personal-development": 2,
+        "work-education-and-society": 3
+      },
+      "wikilinks": [
+        "AIAsTutor",
+        "AIEraMajorChoice",
+        "AIShortcutRisk",
+        "AISnowlineWorkBoundary",
+        "CaixinMedia",
+        "CareerCognitionEducation",
+        "CollegeMajorChoice",
+        "EntryLevelAICareerLadderRisk",
+        "FieldworkAsKnowledgeMethod",
+        "GaoErji",
+        "HumanAgencyUnderAI",
+        "HumanConnectionUnderAI",
+        "HumanJudgmentUnderAI",
+        "InterviewAsEmbodiedReporting",
+        "NonAlgorithmicCapabilities",
+        "SanlianLifeWeekly",
+        "TalkSanlian",
+        "WuLaoshiSanlianEditor",
+        "ep278-ai-shidai-bu-juan-zhuanye-juan-shenme-renzai-zhongliu-tebie-cehua-02-lhvsbropwclouwshe-2-fczwnwzz"
+      ]
+    },
+    {
+      "id": "3ebdf9dcaded254adec25e064e08f763e9ead24285786d5a7dd344b303cb97ce",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [],
+      "text": "The latest addition is [[all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680]], an [[AllIn|All-In]] robotics special with [[Anybotics]], [[OneX|1X]], [[BostonDynamics|Boston Dynamics]], and [[AgilityRobotics|Agility Robotics]] on [[PhysicalAI|physical AI]] moving from demos into deployed work. It adds [[IndustrialInspectionRobotics]], [[RobotSovereigntyAndDataTrust]], [[RobotAsAService]], [[DullDirtyDangerousRobotics]], [[RobotControlDataScarcity]], [[PhysicalAIHardTakeoff]], [[HumanRobotSafetyCertification]], [[NeoRobot|Neo]], [[DigitRobot|Digit]], [[SpotRobot|Spot]], [[AtlasRobot|Atlas]], [[PeterFankhauser]], [[BerntBornich]], [[AmandaMcMaster]], and [[JonathanHurst]], while extending [[HumanoidRobotCommercialization]], [[RobotTeleoperationAndRemoteTakeover]], [[EmbodiedDataPyramid]], [[RobotFormFactorPragmatism]], [[RobotDataScaleUp]], [[RoboticsSimulationEvaluation]], [[ProductionRobotScenarioSelection]], [[DualUseDefenseTechnology]], [[China]], and [[UnitedStates]]. Its core synthesis is that robotics is commercializing first where work is dangerous, repetitive, remote, or operationally expensive: quadrupeds gather inspection data in hazardous infrastructure, warehouse humanoids target bounded tote/bin workflows, and home humanoids remain a higher-variance platform bet whose 2026 launch and hard-takeoff claims must be held against autonomy, safety, privacy, data, and unit-economics evidence. No settled contradiction is recorded; the episode's China/data-sovereignty and anti-weaponization claims are preserved as source-scoped strategic judgments.",
+      "topic_scores": {
+        "ai-and-technology": 3,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AgilityRobotics",
+        "AllIn",
+        "AmandaMcMaster",
+        "Anybotics",
+        "AtlasRobot",
+        "BerntBornich",
+        "BostonDynamics",
+        "China",
+        "DigitRobot",
+        "DualUseDefenseTechnology",
+        "DullDirtyDangerousRobotics",
+        "EmbodiedDataPyramid",
+        "HumanRobotSafetyCertification",
+        "HumanoidRobotCommercialization",
+        "IndustrialInspectionRobotics",
+        "JonathanHurst",
+        "NeoRobot",
+        "OneX",
+        "PeterFankhauser",
+        "PhysicalAI",
+        "PhysicalAIHardTakeoff",
+        "ProductionRobotScenarioSelection",
+        "RobotAsAService",
+        "RobotControlDataScarcity",
+        "RobotDataScaleUp",
+        "RobotFormFactorPragmatism",
+        "RobotSovereigntyAndDataTrust",
+        "RobotTeleoperationAndRemoteTakeover",
+        "RoboticsSimulationEvaluation",
+        "SpotRobot",
+        "UnitedStates",
+        "all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680"
+      ]
+    },
     {
       "id": "08e9e438e40918d3a19ca7da2690c490428c5bd254df490c89e74304af0569d4",
       "primary_topic": "governance-and-institutions",
@@ -910,6 +995,37 @@
         "XingshiqingStrategicAssessment",
         "YuzhangCommandery",
         "zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto"
+      ]
+    },
+    {
+      "id": "4fbe70aa1f53b32473387df288ea810f7381dfacf1213a6732c1aceab7f634f8",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics",
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1031-gongsunzan-zhisi-cong-bianjiang-zhanshen-dao-kunshou-zifen-lmqoechccfwmfpmbdx8-tjmnm3jz]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode completing [[GongsunZan|公孙瓒]]'s [[YijingFortress|易京]] endgame in 199 CE. It extends [[YuanShao|袁绍]], [[ZhangYanLateHan|张燕]], [[GongsunXuLateHan|公孙旭]], [[GuanJingLateHan|关静]], [[TianKaiLateHan|田楷]], [[RescueReciprocityCommandTrust|救援互惠式统帅信任]], and [[FortressSecurityIllusion|筑城避世安全幻觉]], while keeping the opening self-knowledge frame connected to [[DunningKrugerEffect|Dunning-Kruger effect]], [[CapabilityGapSelfDiagnosis]], and [[RationalHumility]] as source-scoped commentary. Its core synthesis is that Yuan Shao's intercepted fire-signal trap and tunnel-and-fire siege finish what earlier command isolation began: walls, grain, family concentration, and outside relief cannot restore a force whose confidence in shared danger has already collapsed. No settled contradiction is recorded; the psychological framing is preserved as interpretation rather than independent proof of Gongsun Zan's inner state.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "CapabilityGapSelfDiagnosis",
+        "DunningKrugerEffect",
+        "FortressSecurityIllusion",
+        "GongsunXuLateHan",
+        "GongsunZan",
+        "GuanJingLateHan",
+        "RationalHumility",
+        "RescueReciprocityCommandTrust",
+        "RuiqiJiangtouZizhiTongjian",
+        "TianKaiLateHan",
+        "YijingFortress",
+        "YuanShao",
+        "ZhangYanLateHan",
+        "zizhi-tongjian-hanji-1031-gongsunzan-zhisi-cong-bianjiang-zhanshen-dao-kunshou-zifen-lmqoechccfwmfpmbdx8-tjmnm3jz"
       ]
     },
     {
@@ -7290,6 +7406,27 @@
         "SoftwareMaintenanceRevenueCompression",
         "Tesla",
         "all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260"
+      ]
+    },
+    {
+      "id": "68e3dcf4cf80f3ff08de28db5fa06665d045db631dc75f908ce827ef84e2485b",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "[[zizhi-tongjian-hanji-896-jiaru-luanshi-jianglin-ni-gai-ruhe-zibao-lsuvt-ksp-gfggc9riqqovjswkg|Hanji 896]] moves the late-Han party-prohibition synthesis to 169 CE. [[ChenShiLateHan|陈寔]] shows moral reputation working as practical protection when earlier courtesy to [[ZhangRangLateHan|张让]] later saves him and other innocents; [[HeYongLateHan|何颙]] and [[YuanShao|袁绍]] show the active version through secret rescue networks; and [[YuanHongLateHan|袁闳]] with [[ShentuPanLateHan|申屠蟠]] create [[CrisisWithdrawalSelfProtection|危局抽身自保]] as the exit version of [[PoliticalSurvivalFirst|安全第一政治生存]]. The source qualifies heroic speech under disorder: Sima Guang's comment does not deny Party figures' moral concern, but warns that public denunciation without power or timing can turn righteousness into collateral danger.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "ChenShiLateHan",
+        "CrisisWithdrawalSelfProtection",
+        "HeYongLateHan",
+        "PoliticalSurvivalFirst",
+        "ShentuPanLateHan",
+        "YuanHongLateHan",
+        "YuanShao",
+        "ZhangRangLateHan",
+        "zizhi-tongjian-hanji-896-jiaru-luanshi-jianglin-ni-gai-ruhe-zibao-lsuvt-ksp-gfggc9riqqovjswkg"
       ]
     },
     {

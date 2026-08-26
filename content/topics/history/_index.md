@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1482
+topic_total_pages: 1483
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1297,6 +1297,9 @@ topic_concepts:
   - key: "UntimelyExtravagance"
     title: "时绌举赢 / Untimely Extravagance"
     url: "/wiki/concepts/untimelyextravagance/"
+  - key: "WangmenTouzhi"
+    title: "望门投止 / Wangmen Touzhi"
+    url: "/wiki/concepts/wangmentouzhi/"
   - key: "TerminalHezongFailure"
     title: "末次合纵失败 / Terminal Hezong Failure"
     url: "/wiki/concepts/terminalhezongfailure/"

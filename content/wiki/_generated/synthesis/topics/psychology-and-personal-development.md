@@ -4,15 +4,15 @@ generated: true
 topic_id: psychology-and-personal-development
 title: "Psychology and Personal Development"
 last_updated: 2026-08-26
-as_of_overview_commit: a6ede511dfab6244faa2b398b3b3c50c3c8953ac
-input_digest: 35cb3a377706f3f7675ed8e0c2b6213bcd74250eb2238cccf2e3ec78ce2aeca8
+as_of_overview_commit: 7d08cfe095712776af7e7c0aab71b20298d0e04e
+input_digest: b4805a40f337aa9b308059589f6e7537d66680802ea98dc9125ffa6c54460e45
 ---
 
 # Psychology and Personal Development
 
 ## Current State
 
-Hanji 901 adds impatience control to the personal-development branch: the episode frames 急性子 as anxiety, compulsion, rigid thinking, result fixation, and self-importance, then offers a small reaction interval through the count-to-three pause and Kafka example. Hanji 902 adds strategic emotion concealment to the personal-development branch: the episode treats uncontrolled display as a survival risk and uses Liu Meng, Zhang Huan, Duan Jiong, and Su Buwei to distinguish timing and self-command from moral endorsement of every tactic. Hanji 1029 adds character-reading delegation to the psychology branch: Sun Ce trusts Taishi Ci's promise, and that trust becomes useful only when Taishi Ci returns with concrete Yuzhang intelligence; the same source's windfall opening treats sudden wealth as a test of restraint, boundaries, and self-knowledge. Data Science With Sam EP47 keeps AI assistance under human judgment and verification, while April 13 Marketplace Tech shows that perceived authorship can affect trust in emotionally meaningful work. Hanji 930 reframes greed and resentment as prompts to build exchangeable capability, and Hanji 962, Hanji 970, and Hanji 999 show relationship trust becoming condition-dependent under violence, assassination risk, grain, protection, and family-safety pressure. Hanji 997 adds emotional attachment as a judgment-risk case, Hanji 1012 shows private desire breaking fragile surrender trust, and Hanji 1015 frames ambition as dangerous when title, timing, recognition, and capacity do not match. The market and workplace paragraphs add the same calibration problem in newer settings: Unitree enthusiasm needs commercial self-checks, investing needs stop-loss and position-sizing discipline, workplace relationships need explicit boundaries, agent automation needs permission limits and human verification, middle-class consumption needs identity-cost discipline, and organizational trust can become both asset and liability. Episode 692 adds a collective-judgment case: confessional trauma memory, Campion's charisma, and the pastoral-versus-subversion ambiguity show how sincere mission can become threatening when identity, legitimacy, and security fear are already coupled.
+Hanji 901 adds impatience control to the personal-development branch: the episode frames 急性子 as anxiety, compulsion, rigid thinking, result fixation, and self-importance, then offers a small reaction interval through the count-to-three pause and Kafka example. Hanji 902 adds strategic emotion concealment to the personal-development branch: the episode treats uncontrolled display as a survival risk and uses Liu Meng, Zhang Huan, Duan Jiong, and Su Buwei to distinguish timing and self-command from moral endorsement of every tactic. Hanji 1029 adds character-reading delegation to the psychology branch: Sun Ce trusts Taishi Ci's promise, and that trust becomes useful only when Taishi Ci returns with concrete Yuzhang intelligence; the same source's windfall opening treats sudden wealth as a test of restraint, boundaries, and self-knowledge. Data Science With Sam EP47 keeps AI assistance under human judgment and verification, and EP278 extends that boundary into student formation by treating non-algorithmic capabilities, human agency, connection, and pacing as safeguards against becoming tool-like. April 13 Marketplace Tech shows that perceived authorship can affect trust in emotionally meaningful work. Hanji 930 reframes greed and resentment as prompts to build exchangeable capability, and Hanji 962, Hanji 970, and Hanji 999 show relationship trust becoming condition-dependent under violence, assassination risk, grain, protection, and family-safety pressure. Hanji 997 adds emotional attachment as a judgment-risk case, Hanji 1012 shows private desire breaking fragile surrender trust, and Hanji 1015 frames ambition as dangerous when title, timing, recognition, and capacity do not match. The market and workplace paragraphs add the same calibration problem in newer settings: Unitree enthusiasm needs commercial self-checks, investing needs stop-loss and position-sizing discipline, workplace relationships need explicit boundaries, agent automation needs permission limits and human verification, middle-class consumption needs identity-cost discipline, and organizational trust can become both asset and liability. Episode 692 adds a collective-judgment case: confessional trauma memory, Campion's charisma, and the pastoral-versus-subversion ambiguity show how sincere mission can become threatening when identity, legitimacy, and security fear are already coupled.
 
 ## Cross-source Findings
 
@@ -64,14 +64,15 @@ Hanji 930 adds [[ExchangeableCapability]] to the personal-development branch: de
 
 ### Augmented Intelligence Keeps Human Judgment Accountable
 
-[[AugmentedIntelligence]] adds a personal-judgment frame for AI use: [[JonathanSchaeffer]] treats LLMs as useful assistants or interns, but [[HumanJudgmentUnderAI]], [[AIVerification]], and awareness of [[AIHallucination]] remain the user's responsibility.
+[[AugmentedIntelligence]] and [[ep278-ai-shidai-bu-juan-zhuanye-juan-shenme-renzai-zhongliu-tebie-cehua-02-lhvsbropwclouwshe-2-fczwnwzz|EP278]] add a personal-judgment frame for AI use: [[JonathanSchaeffer]] treats LLMs as useful assistants or interns, while the AI-era education source adds [[NonAlgorithmicCapabilities]], [[HumanAgencyUnderAI]], and [[HumanConnectionUnderAI]] as safeguards against letting convenience replace verification, practice, and self-direction.
 
-**Evidence:** [[ep-47-the-ai-pioneer-who-decided-privacy-matters-more-than-hype]], [[AugmentedIntelligence]], [[JonathanSchaeffer]], [[HumanJudgmentUnderAI]], [[AIVerification]], [[AIHallucination]]
+**Evidence:** [[ep-47-the-ai-pioneer-who-decided-privacy-matters-more-than-hype]], [[ep278-ai-shidai-bu-juan-zhuanye-juan-shenme-renzai-zhongliu-tebie-cehua-02-lhvsbropwclouwshe-2-fczwnwzz]], [[AugmentedIntelligence]], [[JonathanSchaeffer]], [[HumanJudgmentUnderAI]], [[AIVerification]], [[AIHallucination]], [[NonAlgorithmicCapabilities]], [[HumanAgencyUnderAI]], [[HumanConnectionUnderAI]]
 
 **Qualifications:**
 
 - The source frames this as Jonathan Schaeffer's preferred AI-use language rather than a universal psychology finding.
 - The claim applies most directly to important LLM-assisted work where the user has enough context to verify output.
+- EP278 extends the same boundary into student formation and parenting: using AI as a tool is different from becoming tool-like.
 
 ### Perceived Authorship Shapes Trust
 

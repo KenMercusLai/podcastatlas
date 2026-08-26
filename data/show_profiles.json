@@ -149,14 +149,14 @@
       "earliest_episode_date": "2026-01-08",
       "latest_episode_date": "2026-08-21",
       "latest_episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up [42513830].md",
-      "source_note_count": 30,
-      "topic_matched_source_note_count": 26,
+      "source_note_count": 31,
+      "topic_matched_source_note_count": 27,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 19
+          "source_note_count": 20
         },
         {
           "key": "economics",
@@ -168,7 +168,7 @@
           "key": "politics",
           "label": "Politics",
           "url": "/topics/politics/",
-          "source_note_count": 9
+          "source_note_count": 10
         },
         {
           "key": "culture",
@@ -703,20 +703,20 @@
       "earliest_episode_date": "2025-12-20",
       "latest_episode_date": "2026-08-25",
       "latest_episode_file": "EP278 AI时代不卷专业，卷什么？丨“人在中流”特别策划02 [lhVSBrOPwCLOUWShE-2_FcZWnWZz].md",
-      "source_note_count": 42,
-      "topic_matched_source_note_count": 27,
+      "source_note_count": 43,
+      "topic_matched_source_note_count": 28,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 15
+          "source_note_count": 16
         },
         {
           "key": "culture",
           "label": "Culture",
           "url": "/topics/culture/",
-          "source_note_count": 12
+          "source_note_count": 13
         },
         {
           "key": "science",
@@ -790,10 +790,10 @@
         }
       ],
       "start_here_episode_files": [
-        "EP277 对话贾樟柯（下）：我没有背叛真实世界，我只是在寻找电影的新可能 [lqprBTGi7PKCh3hJ3wXa1Q8WoVox].md",
+        "EP278 AI时代不卷专业，卷什么？丨“人在中流”特别策划02 [lhVSBrOPwCLOUWShE-2_FcZWnWZz].md",
         "EP273 NPC还是NPD，都别想拿走我们人生的遥控器 [lqqnd-e29XVhx2mTF6uUZX13wwvF].md",
         "EP267 踏访湄公河：雨季、婚飞蚁与水利帝国 [lkq2VXaATn4wXUE7y5q1FC3_8yfk].md",
-        "EP278 AI时代不卷专业，卷什么？丨“人在中流”特别策划02 [lhVSBrOPwCLOUWShE-2_FcZWnWZz].md"
+        "EP277 对话贾樟柯（下）：我没有背叛真实世界，我只是在寻找电影的新可能 [lqprBTGi7PKCh3hJ3wXa1Q8WoVox].md"
       ]
     },
     "The Rest Is History": {
@@ -2336,7 +2336,7 @@
       "earliest_episode_date": "2025-12-07",
       "latest_episode_date": "2026-08-24",
       "latest_episode_file": "《资治通鉴·汉纪》1035丨斩杀曹操亲子和爱将，他竟再度归降曹操？ [lh10WWkWcqw5HNAp3BOdW6oXPT7v].md",
-      "source_note_count": 435,
+      "source_note_count": 438,
       "topic_matched_source_note_count": 257,
       "topics": [
         {

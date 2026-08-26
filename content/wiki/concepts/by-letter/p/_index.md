@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5506
+wiki_total_pages: 5517
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -383,6 +383,9 @@ wiki_pages:
   - key: "PhysicalAI"
     title: "Physical AI"
     url: "/wiki/concepts/physicalai/"
+  - key: "PhysicalAIHardTakeoff"
+    title: "Physical AI Hard Takeoff"
+    url: "/wiki/concepts/physicalaihardtakeoff/"
   - key: "PhysicalAIManufacturingGap"
     title: "Physical AI Manufacturing Gap"
     url: "/wiki/concepts/physicalaimanufacturinggap/"

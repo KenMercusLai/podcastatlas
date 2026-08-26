@@ -6,8 +6,11 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "o"
-wiki_total_pages: 7693
+wiki_total_pages: 7714
 wiki_pages:
+  - key: "OneX"
+    title: "1X"
+    url: "/wiki/entities/onex/"
   - key: "ODesign"
     title: "O-Design / Odyssey"
     url: "/wiki/entities/odesign/"

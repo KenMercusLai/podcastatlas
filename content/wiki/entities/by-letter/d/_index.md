@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 7693
+wiki_total_pages: 7714
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -422,6 +422,9 @@ wiki_pages:
   - key: "Digg"
     title: "Digg"
     url: "/wiki/entities/digg/"
+  - key: "DigitRobot"
+    title: "Digit Robot"
+    url: "/wiki/entities/digitrobot/"
   - key: "DigitalBedrock"
     title: "Digital Bedrock"
     url: "/wiki/entities/digitalbedrock/"
@@ -854,6 +857,9 @@ wiki_pages:
   - key: "DuShaoqing"
     title: "杜少卿"
     url: "/wiki/entities/dushaoqing/"
+  - key: "DuGenLateHan"
+    title: "杜根 / Du Gen (late Han)"
+    url: "/wiki/entities/dugenlatehan/"
   - key: "DuMu"
     title: "杜牧 / Du Mu"
     url: "/wiki/entities/dumu/"

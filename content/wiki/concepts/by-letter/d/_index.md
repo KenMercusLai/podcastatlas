@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 5506
+wiki_total_pages: 5517
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -692,6 +692,9 @@ wiki_pages:
   - key: "DubaiRealEstateMarket"
     title: "Dubai Real Estate Market"
     url: "/wiki/concepts/dubairealestatemarket/"
+  - key: "DullDirtyDangerousRobotics"
+    title: "Dull Dirty Dangerous Robotics"
+    url: "/wiki/concepts/dulldirtydangerousrobotics/"
   - key: "DunbarNumber"
     title: "Dunbar Number / 邓巴数"
     url: "/wiki/concepts/dunbarnumber/"

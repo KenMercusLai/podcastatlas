@@ -4,15 +4,15 @@ generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
 last_updated: 2026-08-26
-as_of_overview_commit: 9562a68c35d3475b6bbfce9c51fd6777a0d29946
-input_digest: d80970c23207130d9efc80fcf98bd53d2fc2ffc8ddf4f87f53495ca163fd917f
+as_of_overview_commit: 7d08cfe095712776af7e7c0aab71b20298d0e04e
+input_digest: c252dce70e9f61a8b0ff3fa021cc272ea9abd7b360f803266ed3aafc0d5815e0
 ---
 
 # Work, Education, and Society
 
 ## Current State
 
-Hanji 904 adds a premodern career-entry case before the Sun Jian and Hongdu sequence: Cao Cao formal Xiaolian/langguan path works through Cao Teng/Cao Song family access, Qiao Xuan/Xu Shao public appraisal, and Sima Fang appointment judgment, so status, reputation, and office placement are already linked before later reputation-infrastructure claims. Hanji 905 adds a premodern visibility case: Sun Jian's crisis role turns capacity into public career capital, while the Xiping Stone Classics make education order depend on shared textual standards at Taixue. Hanji 909 adds a premodern decision-and-command prelude: Cai Yong warns against deep Xianbei war, Wang Fu-sponsored command selection, and the Xianbei defeat join institutional judgment to work-and-social-order analysis. Hanji 910 then adds a premodern education-and-social-order prelude: Hongdu Menxue turns learning routes into office-channel competition, while Zhao Bao makes family vulnerability part of a loyalty-collateral dilemma under frontier pressure. The 2026-08-24 The Intelligence source adds a cohort-scarring branch: Japan's employment ice age generation shows that a weak labor-market entry window can shape wages, housing, pensions, and household formation long after the initial downturn. The work, education, and society material emphasizes implementation over capability claims: AI, software, creative production, physical products, research, creator work, finance, public building, and institutional roles all depend on workflow ownership, distribution, verification, trust, supply chains, labor constraints, and human judgment. Hanji 986 adds a premodern organizational case where coercive command breaks feedback and base security determines whether expansion is practical. Hanji 999 adds a premodern social-order case where grain, agricultural labor, protection, and family safety condition whether authority and alliances hold. Hanji 926 adds a reputation-infrastructure case where elite evaluators and circulated labels can certify a politically ambiguous actor, while the same judgment system can also constrain talent recognition. The Wudang episode adds a Daoist fieldwork and life-design branch: quitting work and going up the mountain become analytically useful only after romantic retreat stories are grounded in temple shifts, chores, bodily discomfort, tourist mediation, family obligations, fieldnote practice, and a Zhuangzi-style freedom based on reducing dependence on external scoring.
+EP278 adds an AI-era education and career branch: major choice cannot be reduced to a safe label when standardized junior work may be compressed, so durable formation comes from foundations, occupational cognition, field contact, upstream questions, trust, verification, and non-algorithmic capabilities. Hanji 904 adds a premodern career-entry case before the Sun Jian and Hongdu sequence: Cao Cao formal Xiaolian/langguan path works through Cao Teng/Cao Song family access, Qiao Xuan/Xu Shao public appraisal, and Sima Fang appointment judgment, so status, reputation, and office placement are already linked before later reputation-infrastructure claims. Hanji 905 adds a premodern visibility case: Sun Jian's crisis role turns capacity into public career capital, while the Xiping Stone Classics make education order depend on shared textual standards at Taixue. Hanji 909 adds a premodern decision-and-command prelude: Cai Yong warns against deep Xianbei war, Wang Fu-sponsored command selection, and the Xianbei defeat join institutional judgment to work-and-social-order analysis. Hanji 910 then adds a premodern education-and-social-order prelude: Hongdu Menxue turns learning routes into office-channel competition, while Zhao Bao makes family vulnerability part of a loyalty-collateral dilemma under frontier pressure. The 2026-08-24 The Intelligence source adds a cohort-scarring branch: Japan's employment ice age generation shows that a weak labor-market entry window can shape wages, housing, pensions, and household formation long after the initial downturn. The work, education, and society material emphasizes implementation over capability claims: AI, software, creative production, physical products, research, creator work, finance, public building, and institutional roles all depend on workflow ownership, distribution, verification, trust, supply chains, labor constraints, and human judgment. Hanji 986 adds a premodern organizational case where coercive command breaks feedback and base security determines whether expansion is practical. Hanji 999 adds a premodern social-order case where grain, agricultural labor, protection, and family safety condition whether authority and alliances hold. Hanji 926 adds a reputation-infrastructure case where elite evaluators and circulated labels can certify a politically ambiguous actor, while the same judgment system can also constrain talent recognition. The Wudang episode adds a Daoist fieldwork and life-design branch: quitting work and going up the mountain become analytically useful only after romantic retreat stories are grounded in temple shifts, chores, bodily discomfort, tourist mediation, family obligations, fieldnote practice, and a Zhuangzi-style freedom based on reducing dependence on external scoring. Hanji 1031 contributes a bounded self-knowledge analogy: Dunning-Kruger and rational-humility language is kept source-scoped, while the cross-topic lesson is that leadership confidence needs external feedback and shared-risk tests.
 
 ## Cross-source Findings
 
@@ -71,6 +71,17 @@ Career progress and workplace pacing are framed as context practice rather than 
 - Internships and transfers are most useful when tied to explicit stage goals, direction filtering, and managed communication rather than prestige alone.
 - EP58 treats bounded task pacing and AI-assisted presentation room as useful only when real delivery, role constraints, and judgment remain owned by the worker.
 - Japan's employment ice age details remain source-scoped to the 2026-08-24 The Intelligence episode and should not be generalized to every recession cohort without additional sources.
+
+### Ai Era Education Needs Foundations And Real World Judgment
+
+[[ep278-ai-shidai-bu-juan-zhuanye-juan-shenme-renzai-zhongliu-tebie-cehua-02-lhvsbropwclouwshe-2-fczwnwzz|EP278]] extends AI-era career formation: [[AIEraMajorChoice]], [[CareerCognitionEducation]], and [[AISnowlineWorkBoundary]] show that safe-major labels are insufficient when standardized junior tasks can be compressed, while [[NonAlgorithmicCapabilities]], [[FieldworkAsKnowledgeMethod]], [[InterviewAsEmbodiedReporting]], and [[HumanJudgmentUnderAI]] preserve foundations, real-world contact, upstream questions, trust, and verification as durable work capacity.
+
+**Evidence:** [[ep278-ai-shidai-bu-juan-zhuanye-juan-shenme-renzai-zhongliu-tebie-cehua-02-lhvsbropwclouwshe-2-fczwnwzz]], [[AIEraMajorChoice]], [[CareerCognitionEducation]], [[AISnowlineWorkBoundary]], [[NonAlgorithmicCapabilities]], [[CollegeMajorChoice]], [[EntryLevelAICareerLadderRisk]], [[AIAsTutor]], [[AIShortcutRisk]], [[HumanJudgmentUnderAI]], [[HumanAgencyUnderAI]], [[HumanConnectionUnderAI]], [[FieldworkAsKnowledgeMethod]], [[InterviewAsEmbodiedReporting]]
+
+**Qualifications:**
+
+- EP278 is a source-scoped education and career conversation, so the snowline metaphor should be treated as a heuristic rather than a settled labor-market forecast.
+- The source does not replace major selection with anti-specialization; it asks students to combine disciplinary foundations, occupational cognition, practice, and AI use.
 
 ### Ai Native Research Expands Access But Needs Grounding
 
@@ -208,3 +219,15 @@ The Wudang source turns quit-work fantasy into constraint accounting: [[CizhiSha
 
 - This claim uses Hanji 905 as a bounded premodern work-and-status case, not as a universal career rule.
 - The Sun-family omen story and Danyang-name uncertainty remain source-scoped and are not promoted into independent evidence.
+
+### Self Knowledge Frame Remains Source Scoped In Historical Leadership
+
+[[zizhi-tongjian-hanji-1031-gongsunzan-zhisi-cong-bianjiang-zhanshen-dao-kunshou-zifen-lmqoechccfwmfpmbdx8-tjmnm3jz|Hanji 1031]] adds a source-scoped self-knowledge and workplace analogy around [[GongsunZan]]: the episode invokes [[DunningKrugerEffect]], [[CapabilityGapSelfDiagnosis]], and [[RationalHumility]], but the durable cross-topic use is cautionary rather than diagnostic, because capability claims and confidence become socially costly when a leader stops testing them against advisers, subordinates, and changing conditions at [[YijingFortress]].
+
+**Evidence:** [[zizhi-tongjian-hanji-1031-gongsunzan-zhisi-cong-bianjiang-zhanshen-dao-kunshou-zifen-lmqoechccfwmfpmbdx8-tjmnm3jz]], [[GongsunZan]], [[DunningKrugerEffect]], [[CapabilityGapSelfDiagnosis]], [[RationalHumility]], [[YijingFortress]], [[GuanJingLateHan]], [[RescueReciprocityCommandTrust]], [[FortressSecurityIllusion]]
+
+**Qualifications:**
+
+- This claim does not promote the episode's psychological vocabulary into a diagnosis of Gongsun Zan or a settled social-science finding.
+- The work-and-society relevance is limited to feedback, confidence, and shared-risk analogies drawn from a historical leadership narrative.
+- The concrete historical evidence remains the Yijing siege and command-trust collapse rather than the opening self-help frame.

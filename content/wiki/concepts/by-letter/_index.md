@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 5506
+wiki_total_pages: 5517
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1001,6 +1001,9 @@ wiki_pages:
   - key: "AISlopDetection"
     title: "AI Slop Detection"
     url: "/wiki/concepts/aislopdetection/"
+  - key: "AISnowlineWorkBoundary"
+    title: "AI Snowline Work Boundary / AI工作雪线边界"
+    url: "/wiki/concepts/aisnowlineworkboundary/"
   - key: "AISocialNetworks"
     title: "AI Social Networks"
     url: "/wiki/concepts/aisocialnetworks/"

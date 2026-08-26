@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 7693
+wiki_total_pages: 7714
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -467,6 +467,9 @@ wiki_pages:
   - key: "Throughline"
     title: "Throughline"
     url: "/wiki/entities/throughline/"
+  - key: "TianKaiLateHan"
+    title: "Tian Kai (Late Han)"
+    url: "/wiki/entities/tiankailatehan/"
   - key: "TianYuandong"
     title: "Tian Yuandong / 田渊栋"
     url: "/wiki/entities/tianyuandong/"
@@ -1169,9 +1172,6 @@ wiki_pages:
   - key: "TianYanLateHan"
     title: "田晏 / Tian Yan (late Han)"
     url: "/wiki/entities/tianyanlatehan/"
-  - key: "TianKaiLateHan"
-    title: "田楷 / Tian Kai (late Han)"
-    url: "/wiki/entities/tiankailatehan/"
   - key: "TianHeng"
     title: "田横 / Tian Heng"
     url: "/wiki/entities/tianheng/"
@@ -1211,6 +1211,9 @@ wiki_pages:
   - key: "TencentVideo"
     title: "腾讯视频 / Tencent Video"
     url: "/wiki/entities/tencentvideo/"
+  - key: "TanSitong"
+    title: "谭嗣同 / Tan Sitong"
+    url: "/wiki/entities/tansitong/"
   - key: "TanizakiJunichiro"
     title: "谷崎润一郎 / Tanizaki Junichiro"
     url: "/wiki/entities/tanizakijunichiro/"

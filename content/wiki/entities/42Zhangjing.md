@@ -1,6 +1,7 @@
 ---
 title: "42章经"
 type: entity
+knowledge_schema: synthesis-v1
 tags: [podcast, business, investing, ai]
 sources:
   - paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78
@@ -20,48 +21,60 @@ last_updated: 2026-08-09
 
 # 42章经
 
-42章经 is the podcast/show context for [[paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78]] and [[guanyu-ai-kaiyuan-shangyehua-yu-quanqiuhua-de-jingyan-jiaoxun-he-fangfalun-duitan-pingcap-cto-dongxu-ljw8va0evobhz4ojzrulqzjvxw5]]. In the Zhu Ning episode, the show interviews [[ZhuNing]] on bubbles, AI valuation, behavioral finance, macro policy, and personal wealth decisions.
+## Overview
+42章经 is a podcast and interview context represented here by conversations on business, investing, AI products, company building, agents, and model infrastructure. Its guests include economists, technical founders, product builders, and organization operators, with [[QuKai]] also providing a mid-2026 AI industry synthesis.
 
-The episode adds a finance and AI-investing branch to the wiki by connecting [[BubbleNecessaryConditions]], [[SpeculativeBubblePsychology]], [[AIEquityValuationRisk]], [[AIBubbleHedging]], and [[InvestmentRiskManagement]]. Its distinctive stance is caution without simple pessimism: AI can be a real technology while still requiring investors to separate adoption, earnings, valuation, and personal risk capacity.
+## Current Profile
+Across the bounded source set, 42章经 functions as an operator-oriented forum for testing AI and business narratives against mechanisms and constraints. Episodes move from market valuation and open-source infrastructure to consumer applications, recruiting, multi-agent work, software creation, and model-training data. The recurring editorial pattern is not simple optimism or pessimism: technological progress is treated as real while valuation, demand, reliability, willingness to pay, organization design, and execution remain separate tests.
 
-The PingCAP episode adds a founder-operator and infrastructure branch through [[Dongxu]], [[PingCAP]], and [[TiDB]]. It connects open-source trust, cloud-service monetization, founder-led globalization, and AI-era data memory infrastructure into one business-building method for technical companies.
+The profile is increasingly AI-centered. A sequence of founder interviews examines how stronger models and agents change product moats, software interfaces, staffing, pricing, and collaboration, while later synthesis and technical episodes connect those company-level observations to the application-market trough and to post-training, synthetic data, and recursive self-improvement.
 
-The Mengqi episode adds an AI application-founder branch through [[Mengqi]], [[InvokoAI]], and [[Clico]]. It turns the show's AI/startup thread toward founder ego, vertical Agent drift, model-provider pressure, Reddit-based user research, token economics, and the practical gap between an impressive Agent story and maintained user-facing software.
+## Key Characteristics
+- Combines investing and technology analysis by separating underlying capability from valuation, timing, and personal or company risk.
+- Uses founder and operator retrospectives to expose failed assumptions, pivots, and concrete operating constraints rather than relying only on market narratives.
+- Covers the AI stack across consumer products, application businesses, organizational systems, agent collaboration, and model-training infrastructure.
+- Repeatedly tests ambitious AI claims against user pull, payment, maintenance, evaluation, security, and human accountability.
+- Builds continuity across episodes, revisiting themes such as coding democratization, agent-native work, and application-layer pressure from multiple guests and levels of the stack.
 
-The EVE episode adds a consumer companion branch through [[Tristan]], [[NaturalSelection]], and [[EVE]]. It connects romance-game production, [[AICompanionActiveMemory]], emotional interaction, real-world temporal awareness, 3D interaction, and game-like monetization into a concrete AI companionship product thesis.
+## Evidence
+### Technology, markets, and strategic discipline
+- [[paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78]] separates real AI progress from bubble-like valuation and emphasizes consequence-based risk management.
+- [[guanyu-ai-kaiyuan-shangyehua-yu-quanqiuhua-de-jingyan-jiaoxun-he-fangfalun-duitan-pingcap-cto-dongxu-ljw8va0evobhz4ojzrulqzjvxw5]] connects open-source trust, cloud monetization, globalization, and agent-era data infrastructure through [[PingCAP]] and [[TiDB]].
+- [[ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx]] synthesizes the 2023-2026 cycle into an [[AIApplicationMarketTrough]] judgment while rejecting the claim that applications are simply dead.
 
-The Wei Xiaokang episode adds a founder-organization and recruiting branch through [[WeiXiaokang]], [[ByteDance]], and [[Meituan]]. It connects [[BusinessModelOrganizationFit]], [[RecruitingSupplyStrategy]], [[ReferenceCheckHiring]], and [[AIRecruitingSourcing]] into a practical early-startup organization method, while qualifying [[OnePersonCompany]] optimism with a small-team view of AI-era company building.
+### Product cases and founder correction
+- [[yige-ai-chuangshiren-de-xurongxin-zhuang-he-yumei-zhidian-duitan-invoko-ai-chuangshiren-mengqi-lsi79o-z19zplvmqdbpzzneogpk3f]] uses [[Mengqi]]'s reset from a vertical-agent story toward [[Clico]] to foreground user research, maintenance, and unit economics.
+- [[zhe-keneng-caishi-ai-peiban-zhenzheng-gai-you-de-yangzi-duitan-shuaping-chanpin-eve-chuangshiren-tristan-lgvcb1tuur-1rf2qk8jv9chmwew]] examines [[EVE]] as a system of active memory, emotional post-training, game design, world awareness, and monetization rather than a model wrapper.
+- [[youhua-shenglv-erfei-peilv-ba-yi-jian-shi-zuodao-lilun-shang-gaiyou-de-yangzi-duitan-lianxu-chuangyezhe-albert-lu0vamaawctwva3qblnsf99esar2]] shifts founder judgment from upside narratives toward [[WinRateStartupStrategy]], user fit, and controllable execution.
+- [[dang-ruanjian-rongyi-bei-chuangzuo-xin-shidai-de-chanpin-chang-shenme-yang-duitan-albert-ltgalbpl0p41d33vvsbaczqrcbdi]] revisits [[Albert]] to explore [[SoftwareCreationBarbell]], taste-led software, and [[MakerCommunity]] when coding becomes cheaper.
 
-The Wang Wenfeng episode adds a post-[[OpenClaw]] agent-product branch through [[WangWenfeng]] and [[Sheet0]]. It connects [[CodingAgentAsUniversalActionLayer]], [[AIManagingAI]], [[AgentHarness]], [[AgenticWorkflow]], [[AISkills]], and [[AINativeSaaSThreat]] into a short-cycle startup thesis: follow the next three to six months of real agent-use bottlenecks rather than overbuilding for a distant terminal state.
+### Organizations and agent-native work
+- [[shaoyou-de-shendu-canyu-guo-zijie-meituan-zuzhi-jianshe-de-ren-duitan-ai-chuangyezhe-wei-xiaokang-lof0mb7u5buzec1qtxqrt9kraiud]] grounds recruiting and organization design in business-model fit, supply mapping, reference checks, and stage-appropriate hiring.
+- [[openclaw-zhihou-wo-zhi-xiang-weilai-3-6-ge-yue-de-shiqing-duitan-sheet0-chuangshiren-wang-wenfeng-lu-d4y7qifag6-rc79tp-roxjp4z]] presents coding agents as a general action layer and [[AIManagingAI]] as an emerging operating method, while favoring near-term bottlenecks over distant prophecy.
+- [[yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy]] develops [[AgentDynamics]] through a seven-person, roughly forty-agent case involving identity, shared context, task claiming, and culture.
+- [[women-shi-ruhe-dingyi-openclaw-for-teams-xin-chanpin-xingtai-de-duitan-kuse-junior-lianchuang-jian-cto-yuhao-lkp1a0todflxoyycyo3zhrap3ebv]] extends the agent thread into enterprise identity, memory, permissions, security, evaluation, and salary-like pricing through [[Junior]].
 
-The RC episode adds a second agent-product branch through [[RC]], [[SlockAI|Slock.ai]], and [[KimiCLI|Kimi CLI]]. It shifts the show's agent coverage from coding-agent action layers toward [[AgentDynamics]]: multi-agent teams need channels, threads, shared documents, [[AgentTaskClaiming]], memory, and culture-aware management so one or more humans can work with dozens of agents.
+### Technical frontier
+- [[cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi]] connects [[ModelDistillation]], [[SyntheticAgentData]], environment-based evaluation, and [[RSIData]] to a broader account of future model competition.
 
-The Yuhao episode adds [[Kuse]] and [[Junior]] as the enterprise-team branch of the same agent discussion. It reframes [[OpenClaw]]/[[OpenCloud]]-style products for companies through [[OpenClawForTeams]], [[DigitalEmployees]], [[EnterpriseAgentMemory]], [[AgentEvaluationBenchmarks]], and salary-like [[OutcomeBasedAIPricing]].
+## Qualifications
+- This profile is synthesized only from the twelve source notes listed in frontmatter; it is not a complete catalog of the show's history, hosts, ownership, audience, or distribution.
+- Most evidence comes from interviews and therefore records guests' retrospective claims, estimates, and product theses rather than independent verification by the show or the wiki.
+- The bounded set is heavily concentrated in 2026 AI startups and agent products, with one consumer-companion episode from 2024 and limited non-AI finance coverage, so it may overstate the show's overall AI share.
+- Specific figures such as revenue mix, token spending, team size, and agent count remain source-scoped snapshots.
 
-The Albert episode adds a founder-method and AI product-judgment branch. [[Albert]] contrasts [[OddsDrivenStartupNarrative]] with [[WinRateStartupStrategy]], then applies that distinction to [[AIInteractiveContentPlatforms]], [[AIGeneratedContentQualityGap]], [[UserModalityContentFit]], [[Hexfield]], [[ModelCapabilityPackaging]], [[CodingDemocratization]], and [[TheoreticalOperatingStandard]].
+## What Changed
+- The synthesis identifies a recurring method: separate technical possibility from valuation, demand, execution, and risk.
+- The agent interviews are consolidated into a progression from coding-agent action layers to multi-agent collaboration and enterprise AI employees.
+- The two Albert conversations are treated as a continuous inquiry into founder judgment, coding democratization, and software's changing product form.
+- The AI recap and RSI interview extend the profile from startup cases to market-cycle and model-infrastructure analysis.
 
-The later Albert episode adds a software-future branch. It turns [[CodingDemocratization]] into an industry-structure claim through [[SoftwareCreationBarbell]], then into a creator-economy claim through [[SoftwareAsCulturalWork]] and [[MakerCommunity]]. Its finance coda adds [[OnePersonFund]] as a speculative path where coding agents and market data might turn token spend into direct trading feedback.
-
-[[ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx]] adds [[QuKai]]'s mid-2026 AI recap as a show-level synthesis. The episode connects the show's founder and AI application interviews to a broader [[AIApplicationMarketTrough]] argument: models have regained investor heat, applications need stronger revenue and user proof, and founders should avoid reshaping product truth around capital's current preference for model stories.
-
-[[cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi]] adds a model-training and data branch through [[MengFanqing|孟繁青]] of [[EvolventAI|Evolvent AI]]. The episode connects the show's agent and AI-startup coverage to [[RecursiveSelfImprovement]], [[SyntheticAgentData]], [[RSIData]], [[EnvironmentBasedAgentBenchmarks]], and [[ModelDistillation]], with the source-scoped thesis that future model competition may be fought through environments, data traces, verifiers, and organization speed as much as model scale.
-
-## Connections
-- [[ZhuNing]] — guest economist in the episode.
-- [[BubbleNecessaryConditions]], [[BehavioralInvestingBiases]], and [[SpeculativeBubblePsychology]] — main behavioral-finance frame.
-- [[AIEquityValuationRisk]], [[AIBubbleHedging]], and [[AIInvestmentResearch]] — AI-market themes.
-- [[InvestmentRiskManagement]], [[PositionSizing]], and [[ValueInvesting]] — practical investing discipline emphasized by the interview.
-- [[Dongxu]], [[PingCAP]], and [[TiDB]] — infrastructure-company case added by the PingCAP CTO interview.
-- [[OpenSourceInfrastructureTrust]], [[DatabaseCloudServiceCommercialization]], [[FounderLedSoftwareGlobalization]], and [[AIDataMemoryInfrastructure]] — company-building themes from the PingCAP source.
-- [[Mengqi]], [[InvokoAI]], and [[Clico]] — AI application-founder and product-pivot case.
-- [[FounderEgo]], [[VerticalAgentSaaSification]], [[AIApplicationLayerMoat]], and [[AIStartupUnitEconomics]] — startup lessons from the Mengqi interview.
-- [[Tristan]], [[NaturalSelection]], and [[EVE]] — AI companion-product case.
-- [[AIFriendProducts]], [[AICompanionActiveMemory]], and [[EmotionalInteractionModels]] — companion design themes added by the EVE episode.
-- [[WeiXiaokang]], [[BusinessModelOrganizationFit]], [[RecruitingSupplyStrategy]], [[ReferenceCheckHiring]], and [[AIRecruitingSourcing]] — organization and recruiting branch added by the Wei Xiaokang episode.
-- [[WangWenfeng]], [[Sheet0]], [[AIManagingAI]], and [[CodingAgentAsUniversalActionLayer]] — post-OpenClaw coding-agent and AI-managed-workflow branch.
-- [[RC]], [[SlockAI|Slock.ai]], [[KimiCLI|Kimi CLI]], and [[AgentDynamics]] — multi-agent organization and collaboration branch added by the RC episode.
-- [[Kuse]], [[Yuhao]], [[Junior]], and [[OpenClawForTeams]] — AI-employee and team-agent product branch added by the Yuhao episode.
-- [[Albert]], [[WinRateStartupStrategy]], [[CodingDemocratization]], and [[Hexfield]] — founder-method, AI coding, and image/video product branch added by the Albert source.
-- [[SoftwareCreationBarbell]], [[SoftwareAsCulturalWork]], [[MakerCommunity]], and [[OnePersonFund]] — software-future branch added by the later Albert conversation.
-- [[QuKai]], [[AIApplicationMarketTrough]], [[ZhipuAI]], [[Manus]], and [[Anbi]] — mid-2026 AI recap branch on model/application rotation and founder signal discipline.
-- [[MengFanqing]], [[EvolventAI]], [[RSIData]], [[SyntheticAgentData]], and [[EnvironmentBasedAgentBenchmarks]] — RSI data and post-training infrastructure branch.
+## Relationships
+- [[QuKai]] - contributes the source set's show-level AI market synthesis.
+- [[ZhuNing]] - anchors the show's behavioral-finance and investment-risk branch.
+- [[PingCAP]] and [[TiDB]] - provide the open-source infrastructure, cloud commercialization, and globalization case.
+- [[EVE]] and [[Clico]] - represent contrasting consumer AI product cases centered on maintained user experience.
+- [[Sheet0]], [[SlockAI|Slock.ai]], and [[Junior]] - form a progression from AI-managed work to multi-agent teams and enterprise AI employees.
+- [[Albert]] - connects founder decision discipline with coding democratization and long-tail software creation.
+- [[AIApplicationMarketTrough]] - summarizes the market context used to reassess the show's application-startup interviews.
+- [[RecursiveSelfImprovement]] and [[SyntheticAgentData]] - connect the show's product and agent coverage to model-training infrastructure.

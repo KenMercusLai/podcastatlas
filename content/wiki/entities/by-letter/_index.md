@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 7693
+wiki_total_pages: 7714
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -293,6 +293,9 @@ wiki_pages:
   - key: "AGIHouse"
     title: "AGI House"
     url: "/wiki/entities/agihouse/"
+  - key: "AgilityRobotics"
+    title: "Agility Robotics"
+    url: "/wiki/entities/agilityrobotics/"
   - key: "AhmadAlSharah"
     title: "Ahmad al-Sharah"
     url: "/wiki/entities/ahmadalsharah/"
@@ -611,6 +614,9 @@ wiki_pages:
   - key: "AmandaFisher"
     title: "Amanda Fisher"
     url: "/wiki/entities/amandafisher/"
+  - key: "AmandaMcMaster"
+    title: "Amanda McMaster"
+    url: "/wiki/entities/amandamcmaster/"
   - key: "Amazon"
     title: "Amazon"
     url: "/wiki/entities/amazon/"
@@ -923,6 +929,9 @@ wiki_pages:
   - key: "AnyaYermakova"
     title: "Anya Yermakova"
     url: "/wiki/entities/anyayermakova/"
+  - key: "Anybotics"
+    title: "Anybotics"
+    url: "/wiki/entities/anybotics/"
   - key: "Anybots"
     title: "Anybots"
     url: "/wiki/entities/anybots/"
@@ -1112,6 +1121,9 @@ wiki_pages:
   - key: "AtlanticAvenueBarclaysCenter"
     title: "Atlantic Avenue-Barclays Center"
     url: "/wiki/entities/atlanticavenuebarclayscenter/"
+  - key: "AtlasRobot"
+    title: "Atlas Robot"
+    url: "/wiki/entities/atlasrobot/"
   - key: "AtlasShrugged"
     title: "Atlas Shrugged / 《阿特拉斯耸耸肩》"
     url: "/wiki/entities/atlasshrugged/"

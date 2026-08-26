@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 1851
+topic_total_pages: 1853
 topic_concepts:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -4805,6 +4805,9 @@ topic_entities:
   - key: "XieZhiyu"
     title: "谢治宇 / Xie Zhiyu"
     url: "/wiki/entities/xiezhiyu/"
+  - key: "CaixinMedia"
+    title: "财新传媒 / Caixin Media"
+    url: "/wiki/entities/caixinmedia/"
   - key: "FeiQizhulou"
     title: "费 / Fei (Qizhulou)"
     url: "/wiki/entities/feiqizhulou/"
@@ -4856,6 +4859,9 @@ topic_entities:
   - key: "GaoShanwen"
     title: "高善文 / Gao Shanwen"
     url: "/wiki/entities/gaoshanwen/"
+  - key: "GaoErji"
+    title: "高尔基 / Gao Erji"
+    url: "/wiki/entities/gaoerji/"
 topic_sources:
   - key: "1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6"
     title: "1 人公司，扛 5 个人的活，还要管 50 个 Agents？｜S10E18"

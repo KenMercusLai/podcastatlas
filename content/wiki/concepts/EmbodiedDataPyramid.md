@@ -2,41 +2,53 @@
 title: "Embodied Data Pyramid"
 type: concept
 tags: [robotics, data, embodied-ai]
-sources: [e244-duan-dao-duan-vs-shangxia-fenceng-jiqiren-lujing-zhizheng-zhengzai-zhuanxiang-fc9a3737-81a9-49cf-a7d6-530c77df836e, cong-hui-tiaowu-dao-you-ganzhi-chujue-shi-jiqiren-tongwang-zhineng-de-menpiao-ma-s10e19-f448a656-3004-430b-a853-79d1e77dcb53, jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe, 147-he-mayi-lingbo-shenyujun-liao-jiqiren-yuansheng-jichu-moxing-danao-he-benti-de-guanxi-yuxunlian-yu-shuju-scale-up-laoshi-tangxiaoou-luxtyuafi-2onim15fw6lpypo2ga]
-last_updated: 2026-08-07
+sources:
+  - e244-duan-dao-duan-vs-shangxia-fenceng-jiqiren-lujing-zhizheng-zhengzai-zhuanxiang-fc9a3737-81a9-49cf-a7d6-530c77df836e
+  - cong-hui-tiaowu-dao-you-ganzhi-chujue-shi-jiqiren-tongwang-zhineng-de-menpiao-ma-s10e19-f448a656-3004-430b-a853-79d1e77dcb53
+  - jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1
+  - 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe
+  - 147-he-mayi-lingbo-shenyujun-liao-jiqiren-yuansheng-jichu-moxing-danao-he-benti-de-guanxi-yuxunlian-yu-shuju-scale-up-laoshi-tangxiaoou-luxtyuafi-2onim15fw6lpypo2ga
+  - all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680
+last_updated: 2026-08-26
+knowledge_schema: synthesis-v1
 ---
 
 # Embodied Data Pyramid
 
-Embodied data pyramid is [[XieChen]]'s frame for combining data sources in [[EmbodiedAI]]. In [[134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe]], the top layer is real robot teleoperation or body data, the middle layer is simulation data, and the bottom layer is internet-scale and human first-person data.
+## Definition
+The embodied data pyramid is a robotics data strategy that combines scarce high-fidelity robot or teleoperation data, scalable simulation and structured physical data, human first-person or motion data, and broad internet-scale video or image priors.
 
-[[jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1]] extends the top and bottom of this pyramid by naming concrete collection shifts: Aloha-style teleoperation, UMI-style body-free data, first-person video, whole-body motion capture, and dexterous-hand datasets. The source's [[EmbodiedRobotDataParadigms]] concept keeps the pyramid dynamic by asking which new data source unlocks which robot capability.
-
-[[cong-hui-tiaowu-dao-you-ganzhi-chujue-shi-jiqiren-tongwang-zhineng-de-menpiao-ma-s10e19-f448a656-3004-430b-a853-79d1e77dcb53]] adds a tactile-data layer through [[YimuTechnology]]. [[EricLiZhiqiang]] says real tactile robot data is valuable but expensive, simulation data should be expanded with [[OpticalTactileSensing]], and large-scale video data can still help pretrain visual priors before touch and action are added.
-
-[[e244-duan-dao-duan-vs-shangxia-fenceng-jiqiren-lujing-zhizheng-zhengzai-zhuanxiang-fc9a3737-81a9-49cf-a7d6-530c77df836e]] adds a structured-3D manipulation layer. [[HanZheng]] argues that real robot operation, teleoperation, motion capture, and first-person video are too scarce or incomplete to cover arbitrary object manipulation, so [[Structured3DRobotData]] and [[Sim2Real]] need to sit between internet-scale priors and real robot validation.
-
-[[147-he-mayi-lingbo-shenyujun-liao-jiqiren-yuansheng-jichu-moxing-danao-he-benti-de-guanxi-yuxunlian-yu-shuju-scale-up-laoshi-tangxiaoou-luxtyuafi-2onim15fw6lpypo2ga]] adds a source that pushes harder toward real-machine data. [[ShenYujun|沈宇军]] still accepts first-person human data and simulation for evaluation or partial coverage, but [[AntLingbo|蚂蚁灵波]] treats real robot data, stricter cleaning, and many body configurations as the main near-term route for [[RobotDataScaleUp]].
+## Current Synthesis
+The wiki's current synthesis is that no single data layer solves embodied intelligence. Real robot data is most grounded but expensive and narrow; simulation and structured 3D can multiply tasks and evaluation; tactile and sensor data capture contact details; human first-person video and internet video supply broader scene priors. The All-In robotics special adds a 1X variant that puts high-quality teleoperation at the top, then human sensor data, egocentric video, and general video, using human-like embodiment to make lower layers more useful.
 
 ## Key Claims
-- Real robot data is most physically accurate but expensive, hard to scale, and therefore too narrow to carry general robotics learning alone.
-- [[RoboticsSimulationEvaluation]] is the scalable middle layer because it can generate repeated tasks, failures, counterfactuals, and evaluation scenarios.
-- Human first-person and internet data are larger and less body-specific, but can provide scene, object, task, and daily-life priors.
-- The pyramid should be a loop: real-world and human data can be converted into simulation worlds, while simulation outputs must be checked against real-world results.
-- This creates a tension with pure [[RealRobotDataStrategy]]: real data stays necessary, but the source argues it should not dominate the recipe by default.
-- Hardware-specific dexterous-hand data complicates the pyramid because "real robot data" does not transfer cleanly when hand structure, sensors, or drive method change.
-- [[TactileSensing]] creates a special data problem because it is high-frequency and continuous while also being closer to force and deformation ground truth than ordinary visual data.
-- [[TouchNet]] is proposed as a field-level tactile dataset, but the source still places it inside a broader recipe of scarce real data, simulation, and video pretraining.
-- [[Structured3DRobotData]] adds a geometry, parts, material, friction, and dynamics layer that ordinary video and teleoperation cannot supply cleanly.
-- The Ant Lingbo source creates a useful tension inside the pyramid: simulation and recipes may be necessary for scale, but real-machine data may remain the source of sensor, body, and execution distribution that robot-native models need most.
+- Real robot and teleoperation data are high-value because they contain action, sensor, body, latency, and failure information.
+- Simulation is the scalable middle layer only when it supports physical consistency, counterfactual action, and useful evaluation.
+- Human first-person, motion-capture, and internet video can provide scene and task priors but may lack the force, contact, and body-specific data needed for control.
+- Tactile sensing creates a special data layer because contact deformation, friction, slip, and force are closer to manipulation ground truth than ordinary video.
+- Structured 3D and sim-to-real methods can fill gaps left by raw video or narrow teleoperation traces.
+- Human-like robots can make human video more transferable, but that does not remove safety, privacy, and control-data limitations.
 
-## Connections
-- [[DataAsEducation]] — broader metaphor behind the pyramid.
-- [[DataRecipeCoCreation]] — process for discovering how much of each layer improves a model.
-- [[PhysicalWorldDataFlywheel]] — adjacent real-world data-loop concept from the [[Xinghaitu]] source.
-- [[WorldModels]] and [[VisionLanguageActionModels]] — model routes that need physical-world data and evaluation.
-- [[GuanglunIntelligence]] — company building simulation-centered data infrastructure in the source.
-- [[EmbodiedRobotDataParadigms]], [[DexterousManipulation]], and [[RobotTeleoperationAndRemoteTakeover]] — collection-method updates from the LateTalk source.
-- [[TactileSensing]], [[OpticalTactileSensing]], [[TouchNet]], and [[TactileTransformerEncoder]] — tactile data, sensor route, dataset, and model-interface additions from the What's Next source.
-- [[SuduTechnology]], [[ShapeNet]], [[PartNet]], and [[Sim2Real]] — structured 3D and simulation route added by E244.
-- [[AntLingbo]], [[ShenYujun]], [[RobotDataScaleUp]], and [[EmbodiedNativeFoundationModels]] — real-machine-heavy scale-up route added by episode 147.
+## Evidence
+- Foundational pyramid evidence: [[134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe]] places real robot data at the top, simulation in the middle, and internet plus human first-person data at the bottom.
+- Q2 data-method evidence: [[jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1]] names Aloha-style teleoperation, UMI-style body-free data, egocentric video, whole-body motion capture, and dexterous-hand data.
+- Tactile evidence: [[cong-hui-tiaowu-dao-you-ganzhi-chujue-shi-jiqiren-tongwang-zhineng-de-menpiao-ma-s10e19-f448a656-3004-430b-a853-79d1e77dcb53]] adds optical tactile sensing, TouchNet, simulation, and high-frequency touch data to the recipe.
+- Structured-data evidence: [[e244-duan-dao-duan-vs-shangxia-fenceng-jiqiren-lujing-zhizheng-zhengzai-zhuanxiang-fc9a3737-81a9-49cf-a7d6-530c77df836e]] argues that geometry, material, friction, parts, and dynamics require structured 3D and simulation between internet priors and real validation.
+- Real-machine tension evidence: [[147-he-mayi-lingbo-shenyujun-liao-jiqiren-yuansheng-jichu-moxing-danao-he-benti-de-guanxi-yuxunlian-yu-shuju-scale-up-laoshi-tangxiaoou-luxtyuafi-2onim15fw6lpypo2ga]] pushes harder toward real sensors, cross-body data cleaning, and robot-native foundation models.
+- 1X evidence: [[all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680]] records Bornich's hierarchy of teleoperation data, human sensor data, egocentric video, and general video.
+
+## Counterevidence & Qualifications
+The bounded sources disagree on weighting. Xie Chen emphasizes simulation and recipes because real robot data is too costly to scale alone; Shen Yujun emphasizes real-machine data and stricter cleaning; 1X emphasizes transfer from human-like video; tactile sources argue that visual data is incomplete without force and contact. The synthesis is a portfolio view, not a settled recipe.
+
+## What Changed
+- Added 1X's explicit teleoperation-to-general-video data hierarchy.
+- Clarified that humanoid embodiment can improve human-video transfer while leaving action, safety, and privacy limits intact.
+
+## Related Concepts
+- [[RobotDataScaleUp]] - broader challenge of scaling embodied data volume, quality, and coverage.
+- [[RobotControlDataScarcity]] - action-level bottleneck that sits near the high-fidelity end of the pyramid.
+- [[RoboticsSimulationEvaluation]] - scalable simulation and evaluation layer.
+- [[RobotTeleoperationAndRemoteTakeover]] - source of high-quality action traces and remote correction.
+- [[TactileSensing]] - contact-data layer that ordinary visual data cannot replace.
+- [[Structured3DRobotData]] - geometry and physical-structure layer that supports manipulation generalization.
+- [[HumanoidRobotCommercialization]] - commercial field whose progress depends on better embodied data recipes.

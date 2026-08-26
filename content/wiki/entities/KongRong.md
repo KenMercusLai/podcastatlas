@@ -2,36 +2,66 @@
 title: "孔融 / Kong Rong"
 type: entity
 tags: [person, late-han, official, scholar, china]
-sources: [zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth, zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1, zizhi-tongjian-hanji-1007-cong-shentong-dao-fuwang-kongrong-zhenshi-mianmu-puguang-lkiljj4yvl5fhslrc9gcxudxxklt, zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva, zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs, zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0]
-last_updated: 2026-08-24
+sources:
+  - zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth
+  - zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1
+  - zizhi-tongjian-hanji-1007-cong-shentong-dao-fuwang-kongrong-zhenshi-mianmu-puguang-lkiljj4yvl5fhslrc9gcxudxxklt
+  - zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva
+  - zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs
+  - zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0
+  - zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3
+last_updated: 2026-08-26
+knowledge_schema: synthesis-v1
 ---
 
 # 孔融 / Kong Rong
 
-[[zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth|Hanji 981]] adds Kong Rong's first support for [[LiuBei|刘备]] in the Xuzhou handoff. After Liu Bei hesitates and points toward [[YuanShu|袁术]], Kong Rong argues that Yuan Shu is only relying on ancestral prestige and that Liu Bei will regret refusing an opportunity jointly offered by officials and people.
+## Overview
 
-[[zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1|Hanji 982]] adds Kong Rong's earlier Xuzhou-adjacent support for [[LiuBei|刘备]]. The episode says Kong Rong is not a local Xuzhou magnate like [[MiZhu|糜竺]] or [[ChenDeng|陈登]], but his scholar prestige and Han-orthodox values make Liu Bei preferable to [[YuanShu|袁术]]'s title-ambition path.
+Kong Rong is a late-Han scholar-official whose source-backed profile combines moral courage, Confucian prestige, and repeated limits in turning reputation into durable political capacity.
 
-[[zizhi-tongjian-hanji-1007-cong-shentong-dao-fuwang-kongrong-zhenshi-mianmu-puguang-lkiljj4yvl5fhslrc9gcxudxxklt|Hanji 1007]] backfills Kong Rong's earlier [[BeihaiCommandery|北海郡]] failure before the later court episodes. The source presents him as a famous descendant of [[Confucius|孔子]], a childhood moral exemplar through the "让梨" story, and a literary figure, but argues that those forms of prestige do not become wartime governing capacity.
+## Current Profile
 
-In that Beihai branch, Kong Rong honors [[ZhengXuan|郑玄]] and receives respected figures such as [[ZuoChengzu|左承祖]] and [[LiuYixun|刘义逊]], yet the episode says he does not use them as real strategic partners. When Zuo Chengzu advises him to rely on a stronger neighboring power because Beihai lacks troops and grain, Kong Rong kills him. Liu Yixun then leaves, and [[YuanTan|袁谭]] later takes Beihai after a spring-to-summer attack, capturing Kong Rong's wife and children after Kong Rong flees.
+The current evidence now starts with Kong Rong as a sixteen-year-old who shelters [[ZhangJianLateHan|张俭]] during the 169 CE party-prohibition danger and tries to take the capital charge himself. Later episodes present the adult Kong Rong as a prestige actor: he helps legitimate [[LiuBei|刘备]] in the [[Xuzhou|徐州]] succession, honors [[ZhengXuan|郑玄]], recommends [[MiHengLateHan|祢衡]], serves as an imperial envoy to [[YuanShao|袁绍]], and confronts [[CaoCao|曹操]] over [[YangBiao|杨彪]].
 
-[[zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva|Hanji 1011]] adds Kong Rong as [[MiHengLateHan|祢衡]]'s recommender to [[CaoCao|曹操]]. The source says Kong Rong appreciates Mi Heng's talent but also uses his later comment on Mi Heng's naked drumming to show how learned allusion can become politically reckless in a violent court.
+That same evidence also keeps the profile sharply qualified. Kong Rong's courage and old-Han moral voice do not reliably become strategic judgment. His [[BeihaiCommandery|北海郡]] branch shows respect for learning but poor use of advisers, the killing of [[ZuoChengzu|左承祖]], the departure of [[LiuYixun|刘义逊]], and eventual defeat by [[YuanTan|袁谭]].
 
-孔融 / Kong Rong enters the wiki through [[zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0|Hanji 1020]] as the old-Han voice who challenges [[CaoCao|曹操]] after [[YangBiao|杨彪]] is arrested. The source says Kong Rong rushes to argue that Yang Biao's family reputation should not be erased by [[YuanShu|袁术]]'s crime.
+## Key Characteristics
 
-His intervention matters because Cao Cao initially pushes responsibility upward by saying the arrest is the emperor's will. Kong Rong answers through the Zhou Cheng Wang and Duke of Zhou analogy, implying that Cao Cao cannot hide behind [[EmperorXianOfHan|汉献帝]] when real power sits with him. The episode therefore uses Kong Rong to show that Cao Cao's authority is still constrained by elite reputation and public argument.
+- Early moral-risk taker who shelters Zhang Jian and claims responsibility under party-prohibition pressure.
+- Confucian-prestige actor whose lineage, childhood reputation, literature, and old-Han moral standing make him useful in legitimacy disputes.
+- Xuzhou succession supporter who favors Liu Bei over Yuan Shu because reputation and Han orthodoxy matter to local alignment.
+- Beihai governor whose prestige does not translate into grain, troops, safe advice, or strategic flexibility.
+- Recommender and speaker whose talent judgment and public argument can be morally forceful but politically dangerous.
+- Han-court intermediary who can carry title recognition to Yuan Shao and challenge Cao Cao's responsibility-shifting in the Yang Biao case.
 
-[[zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs|Hanji 1016]] adds a more official envoy role. Kong Rong is sent with a tally to [[YuanShao|袁绍]], making him part of the Han-court title-recognition machinery at the same time [[YuanShu|袁术]]'s self-claimed imperial title is treated as illegitimate.
+## Evidence
 
-## Connections
-- [[zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth|Hanji 981]], [[LiuBei|刘备]], [[YuanShu|袁术]], and [[Xuzhou|徐州]] - first Xuzhou persuasion scene.
-- [[zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1|Hanji 982]], [[LiuBei|刘备]], [[YuanShu|袁术]], and [[LocalEliteProxySelection|地方豪强代理人选择]] - prestige-backed support for Liu Bei against Yuan Shu's illegitimate title direction.
-- [[BeihaiCommandery|北海郡]], [[YuanTan|袁谭]], [[ZuoChengzu|左承祖]], [[LiuYixun|刘义逊]], and [[ZhengXuan|郑玄]] - Hanji 1007 Beihai failure branch.
-- [[YangBiao|杨彪]] - old-Han elite he defends.
-- [[MiHengLateHan|祢衡]] - scholar he recommends to Cao Cao in Hanji 1011.
-- [[CaoCao|曹操]] - powerholder he confronts.
-- [[EmperorXianOfHan|汉献帝]] - emperor named in Cao Cao's responsibility-shifting reply.
-- [[YuanShao|袁绍]] - recipient of Kong Rong's Hanji 1016 appointment mission.
-- [[ManChong|满宠]] and [[XunYu|荀彧]] - other figures in the case.
-- [[MingqiLegitimacy|名器合法性]], [[PrestigeConstrainedPoliticalProsecution|名望约束下的政治追诉]], [[PrestigeCapacityGap|名望能力落差]], [[XingshiqingStrategicAssessment|行势情战略评估]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - concepts linked to the appointment, remonstrance, reputation-capacity, strategy, and advice-failure cases.
+- Early courage under repression: [[zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3|Hanji 895]] presents Kong Rong hiding Zhang Jian, then saying he personally made the sheltering decision and should bear the guilt.
+- Xuzhou legitimacy support: [[zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth|Hanji 981]] and [[zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1|Hanji 982]] show Kong Rong supporting Liu Bei's Xuzhou acceptance and opposing the Yuan Shu alternative through prestige and Han-orthodox reasoning.
+- Prestige-capacity gap: [[zizhi-tongjian-hanji-1007-cong-shentong-dao-fuwang-kongrong-zhenshi-mianmu-puguang-lkiljj4yvl5fhslrc9gcxudxxklt|Hanji 1007]] uses Kong Rong's Beihai failure, Zheng Xuan honor, Zuo Chengzu execution, Liu Yixun departure, and Yuan Tan attack to ground [[PrestigeCapacityGap|名望能力落差]].
+- Risky recommendation and speech: [[zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva|Hanji 1011]] shows Kong Rong appreciating and recommending Mi Heng, while also exposing the danger of learned public commentary around Cao Cao.
+- Court-recognition and prosecution pressure: [[zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs|Hanji 1016]] sends Kong Rong with a tally to Yuan Shao, while [[zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0|Hanji 1020]] has him defend Yang Biao against reputation-destroying punishment without secure evidence.
+
+## Qualifications
+
+Kong Rong should not be flattened into either childhood virtue or late Beihai incompetence. Hanji 895 supports a real early courage-and-sacrifice layer, while Hanji 1007 supports a real governance-capacity critique. The page also separates source chronology: Hanji 895 backfills his youth, whereas Hanji 981-1020 cover adult roles during later warlord politics.
+
+## What Changed
+
+- Hanji 895 adds the earliest Kong Rong layer: youthful sheltering, responsibility-taking, and Kong-family sacrifice under party-prohibition pressure.
+- The page was migrated from append-style prose into synthesis-v1 while preserving all prior source keys.
+
+## Relationships
+
+- [[ZhangJianLateHan|张俭]] - fugitive whom Kong Rong shelters as a teenager.
+- [[KongBaoLateHan|孔褒]] - elder brother and intended host of Zhang Jian.
+- [[KongRongMother|孔融母]] - mother who joins the family's responsibility contest.
+- [[LiuBei|刘备]] - Xuzhou succession candidate Kong Rong supports.
+- [[YuanShu|袁术]] - rejected Xuzhou alternative and later illegitimate-title comparator.
+- [[BeihaiCommandery|北海郡]] - governorship where Kong Rong's prestige-capacity gap becomes visible.
+- [[ZuoChengzu|左承祖]] and [[LiuYixun|刘义逊]] - advisers/guests whose treatment exposes Kong Rong's advice-channel failure.
+- [[MiHengLateHan|祢衡]] - talented scholar Kong Rong recommends into Cao Cao's dangerous field.
+- [[YangBiao|杨彪]] - old-Han elite Kong Rong defends against Cao Cao's prosecution pressure.
+- [[PrestigeCapacityGap|名望能力落差]] - concept that qualifies Kong Rong's reputation.
+- [[FugitiveShelterCollateralRisk|收留逃亡者的牵连风险]] - early ethical risk shown by the Zhang Jian shelter case.

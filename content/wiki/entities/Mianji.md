@@ -22,57 +22,59 @@ sources:
   - da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf
   - dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1
   - zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae
+knowledge_schema: synthesis-v1
 last_updated: 2026-08-25
 ---
 
 # 面基
 
-[[shan-shang-shan-xia-jie-renjian-wushi-xiaoyao-ji-shenxian-lhjiguq74flhatdxnbrnzhjg-acp]] adds a Daoism, anthropology, medicine, and life-design branch through [[LiChuang|李闯]] and [[CizhiShangShan|《辞职上山》]]. It connects [[WudangMountain|武当山]], [[QuanzhenDaoism|全真道教]], [[DaoistTempleEverydayLabor]], [[RetreatRomanceDeflation]], [[FieldnoteToPublicWriting]], [[BeliefAsLastResortSupport]], [[MedicineAsWaySeeking|以医入道]], [[XiaoyaoAsNonDependence|逍遥作为不被外物左右]], and [[CircularLinearTimeTension|环形时间与线性时间张力]] to the show's existing work, embodied judgment, freedom, and nonfiction threads.
+## Overview
 
-[[jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe]] adds a money, Bitcoin, AI, and opportunity branch through [[ZhouLuohua|周洛华]] and the revised [[BitStandardBook|《比特本位》]]. It connects [[RiskCostSeparation|风险与成本分离]], [[OpportunityGeneratingDecentralization|创造机会的去中心化]], [[AnimalSpiritsOpportunityActivation|动物精神与机会激活]], [[ProofOfWorkMonetaryValidation|工作量证明的货币验证]], [[FiatCapitalMarketDecentralization|纸币时代的资本市场去中心化]], [[HumanValueAIDeployment|提高人的价值以部署 AI]], and [[DecentralizedAgentIdentity|去中心化智能体身份]] to the show's existing investing, macro, and AI-agency themes.
+面基 is a Chinese podcast represented in the current Wiki through 19 source notes. Its corpus began with investing, trading, and macro conversations, then expanded into AI workflows, embodied judgment, labor, nonfiction, health, anthropology, and life design.
 
-[[ruci-dagong-30-nian-liushuixian-shang-de-miankong-yu-shijian-lodsuktwtcfxnhmzwum5iesbzbme]] adds a labor, manufacturing-memory, and worker-archive branch through [[ZhanTeacher|占老师]] and [[RuciDagong30Nian|《如此打工30年》]]. It connects [[Dongguan|东莞]], [[ChanganTown|长安镇]], [[WorkerPhotographicArchive|工人摄影档案]], [[PearlRiverDeltaManufacturingTransformation|珠三角制造业变迁]], [[TayloristFactoryTime|泰勒制工厂时间]], [[MigrantWorkerSocialInsuranceLegacy|农民工社保遗留问题]], [[ManufacturingMicroFragmentation|制造业小微化]], and [[ContinuousLearningAgainstDisplacement|以持续学习对抗替代]] to the show's existing agency and nonfiction themes.
+The useful identity of the page is therefore not a chronological list of guests. It is a profile of the show’s recurring editorial question: how people preserve judgment and agency when markets, technology, institutions, and life conditions remain uncertain.
 
-[[a-gu-de-chun-xia-qiu-dong-zhongshu-zhongliang-zhongcai-ljzicmfbl9guxoqmcdd8ikdn6jbx]] adds an A-share institutional-investing branch through [[WuWeizhi|吴伟志]] of [[ZhongouRuibo|中欧瑞博]]. It connects [[AShareMarketSeasons|A 股四季框架]], [[ASharePlantingCompanyTaxonomy|种树种粮种菜]], [[InvestmentStrategyFit]], [[GrowthInvesting]], [[MAPERInvestmentResearchFramework]], and [[ResearchIndexPortfolioConstruction]] into the show's existing investing thread, with the distinctive claim that method, market season, company type, and organization process must fit before any slogan becomes actionable.
+## Current Profile
 
-[[suoyou-jingzhi-quxian-beihou-doushi-ren-zhengtai-fenbu-de-putongren-lsnrkqhtktjlmrscow2-mt2df0yq]] adds a fixed-income-plus and private-account product-management branch. It connects [[FixedIncomePlusProduct|固收+产品]], [[RiskBudgetedAbsoluteReturn]], [[RollingHoldingPeriodExperience]], [[CrossAssetRiskExpression]], [[MVPInvestmentFramework]], and [[ConvertibleBondDoubleLowStrategy]] to the show's earlier allocation work by asking who is holding the net-value curve and what drawdown path the middle of the client distribution can tolerate.
+**Investing and decision process** remain the strongest recurring branch. Episodes connect position sizing, valuation, portfolio construction, market structure, risk budgets, and investor psychology. The emphasis is usually practical: a framework matters only when it fits the holder, product, market regime, and decision process.
 
-The E145 source adds an A-share bull-market psychology layer through [[ZhangYizhen]], [[AShareValuationIndicators]], [[MultiStrategyAllocation]], and [[DrawdownPsychology]]. Its distinctive contribution is to move from "is 4000 points high" toward a more practical question: how should an investor preserve realized gains, action capacity, and emotional stability when valuation repair has already happened and late-cycle sentiment can still push prices higher.
+**AI and human agency** form a second branch. The corpus treats AI as both an investment subject and a workflow environment. Context engineering, persistent memory, pacing, authorship, and output-quality gates are framed as ways to use agents without outsourcing intention or judgment.
 
-The E144 source adds a trend-trading and market-statistics layer through [[NoPredictionTrading]], [[DiversificationAlpha]], [[RandomMarketNarratives]], [[Polymarket]], and an expanded [[TrendFollowing]] frame. Its distinctive contribution is to treat signals as market-state observations rather than predictions, then connect repeated positive-expectation trades, small probes, diversification, and post-hoc narrative risk.
+**Embodied life and institutional experience** now form a broader third branch. Episodes on trained intuition, factory labor, large-company systems, reading, health, Daoist practice, and platform work move the show beyond finance while preserving the same concern with how people act under structures they do not fully control.
 
-面基 is the podcast/show context for [[e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc]], [[e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf]], [[e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc]], [[e159-ganggu-de-teshu-zhichu-yu-shengcun-zhidao-lgvf0ymk0sholjyzv0bptza8weyy]], [[e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf]], [[e161-tuoli-lixing-baozheng-qu-jinqing-youxi-ba-lppjqrftylxa6xudzlhgbk1iym6f]], and [[e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl]]. E153 uses an investing conversation to connect [[CompoundingGrowthFormula]], [[KellyCriterion]], [[InvestmentEdge]], [[PositionSizing]], [[QuantitativeInvesting]], [[PassiveInvesting]], and trading exits into one practical framework. E155 adds an AI investment layer through [[AIInvestmentMetrics]], [[JevonsParadoxInAI]], [[HumanResourceDeflationComputeInfrastructureInflation]], [[CAPEXOPEXSubstitution]], [[LanguageUserInterface]], and [[HoloAssets]]. E158 adds a multi-asset layer through [[AssetAllocation]], [[EfficientFrontier]], [[AssetCorrelation]], [[SixtyFortyPortfolio]], [[FreeCashFlowIndexing]], and [[FOFProductDesign]]. E159 adds a Hong Kong equity market-structure layer through [[HongKongMarketStructure]], [[HangSengTechIndex]], [[HongKongStockConnect]], [[HongKongExchangesAndClearing]], dividend assets, liquidity, IPO absorption, and active risk management. E160 adds a public-fund value-investing layer through [[ValueInvesting]], [[MarginOfSafety]], [[DividendDiscountModel]], [[FundLiabilityMatching]], [[CircleOfCompetence]], [[BusinessMoat]], and [[ValueTrap]]. E161 adds an embodied-judgment layer through [[GuanYadi]], [[TrainedIntuition]], [[EmbodiedJudgment]], [[FlowEnvironmentDesign]], [[ExtremeEnvironmentRiskManagement]], and [[ActionDefinesIdentity]]. E162 adds a long-cycle macro layer through [[KondratievCycle]], [[TechnologyInstallationCycle]], [[DepressionDrivenInnovation]], [[RiskParity]], [[MacroAssetExpression]], [[GoldMonetaryAnchor]], and [[GeopoliticalCycleMacro]].
+## Key Characteristics
 
-E163 adds an AI workflow and life-design layer through [[PingGe]], [[AISkills]], [[ContextEngineering]], [[PersistentAgentMemory]], [[HumanAgencyUnderAI]], [[AIUsePacing]], and [[OutputQualityGates]]. It treats AI not only as an investment or productivity topic, but as a practical question of how ordinary users define intention, preserve subjectivity, and prevent agents from turning finite life into endless task queues.
+1. **Practical agency is the strongest through-line.** The show repeatedly asks what a person can actually control when forecasts, systems, or incentives remain uncertain.
+2. **Investment frameworks must fit the holder and environment.** Market season, product design, liquidity, psychology, and institutional process matter alongside expected return.
+3. **AI should extend judgment rather than replace intention.** Context, pacing, memory, authorship, and quality gates determine whether an AI workflow remains human-directed.
+4. **Embodied and institutional experience count as knowledge.** Trained intuition, labor history, health, and fieldwork add evidence that cannot be reduced to abstract models.
+5. **The show’s identity is broadening.** Investing remains central in the current corpus, but newer sources make work, life design, and social systems part of the durable profile.
 
-The [[dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1]] source adds a reading, friendship, and personal-knowledge layer through [[XFFXFramework]], [[AIAssistedReading]], [[ReadingAsFrameTraining]], [[PersonalKnowledgeEcology]], [[AIAuthorshipPresence]], and [[FortyThreeTalks]]. It connects the show's existing AI-agency thread to a broader cognition claim: when AI makes outputs cheap, people still need to train the frame that decides what to read, trust, share, and test in the world.
+## Evidence
 
-The [[DaChangXiaomin]] conversation adds a nonfiction career layer through [[XiaoMan]], [[CareerShoreMyth]], [[SystemHumanity]], [[LayoffBuffer]], [[ToolRationalitySpillover]], [[FamilyLaborBoundaries]], and [[NonfictionPublicness]]. It moves the show from AI, investing, and embodied judgment into ordinary workers' relationship with large-company systems, asking how people can keep agency while restraining expectations that a system or "shore" will guarantee a stable life.
+- **Investing branch:** [[jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe]], [[a-gu-de-chun-xia-qiu-dong-zhongshu-zhongliang-zhongcai-ljzicmfbl9guxoqmcdd8ikdn6jbx]], and [[e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0]] connect theory to position sizing, market seasons, repeated play, and holder suitability.
+- **AI-agency branch:** [[e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf]], [[e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl]], and [[e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb]] support the distinction between cheap output and accountable, human-directed judgment.
+- **Embodied-judgment branch:** [[shan-shang-shan-xia-jie-renjian-wushi-xiaoyao-ji-shenxian-lhjiguq74flhatdxnbrnzhjg-acp]], [[baiwan-ge-jingguan-shehui-tingshuo-ni-ye-xiang-dang-zhubo-lgd0yapclwvsessg7xnhaarpyiwy]], and [[e161-tuoli-lixing-baozheng-qu-jinqing-youxi-ba-lppjqrftylxa6xudzlhgbk1iym6f]] treat practice, field experience, bodily feedback, and play as evidence alongside explicit reasoning.
+- **Work and life branch:** [[ruci-dagong-30-nian-liushuixian-shang-de-miankong-yu-shijian-lodsuktwtcfxnhmzwum5iesbzbme]], [[da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf]], [[dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1]], and [[zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae]] broaden the corpus while retaining the practical-agency theme.
 
-[[zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae]] adds a midlife health and household-finance layer through [[MidlifeThreeAccounts]], [[PersonalCashFlowAccount]], [[MuscleAsLongevityInfrastructure]], [[SleepAsDailyHealthAccount]], and [[EnvironmentOverWillpower]]. It connects the show's investing and embodied-judgment threads by treating cash flow, strength, and sleep as slow-feedback accounts that have to be maintained before middle-age pressure and later-life decline make them visible.
+## Qualifications
 
-[[baiwan-ge-jingguan-shehui-tingshuo-ni-ye-xiang-dang-zhubo-lgd0yapclwvsessg7xnhaarpyiwy]] adds a platform-labor and fieldwork branch through [[TianFeng|田峰]]'s discussion of [[TalentGroupLivestreaming|才艺团播]]. It moves 面基 beyond investing, AI, and personal agency into a social-science account of livestream rooms as industrialized systems of guild training, real-time data, compliance, makeup, camera work, and backstage review.
+- This profile covers the 19 episodes currently represented in the Wiki, not the complete 面基 archive.
+- A guest’s argument should not automatically be treated as the show’s permanent editorial position.
+- Investing has more repeated evidence than the newer labor, health, anthropology, and life-design branches; those newer branches may still change with future episodes.
+- Topic breadth creates a risk of making the entity page too general. Claims should remain tied to recurring patterns or be labeled as emerging.
 
-## Connections
-- [[ZhouLuohua|周洛华]], [[BitStandardBook|《比特本位》]], [[RiskCostSeparation]], [[OpportunityGeneratingDecentralization]], [[AnimalSpiritsOpportunityActivation]], [[FiatCapitalMarketDecentralization]], [[HumanValueAIDeployment]], and [[DecentralizedAgentIdentity]] - money, Bitcoin, opportunity, and AI-human-value branch.
-- [[LiChuang|李闯]], [[CizhiShangShan|《辞职上山》]], [[WudangMountain|武当山]], [[DaoistTempleEverydayLabor]], and [[XiaoyaoAsNonDependence]] - Daoism, fieldwork, medicine, and freedom branch.
-- [[ZhanTeacher|占老师]], [[RuciDagong30Nian|《如此打工30年》]], [[Dongguan|东莞]], [[WorkerPhotographicArchive]], [[TayloristFactoryTime]], and [[ContinuousLearningAgainstDisplacement]] - labor, manufacturing-memory, and worker-archive branch.
-- [[WuWeizhi]], [[ZhongouRuibo]], [[AShareMarketSeasons]], [[ASharePlantingCompanyTaxonomy]], [[InvestmentStrategyFit]], [[GrowthInvesting]], [[MAPERInvestmentResearchFramework]], and [[ResearchIndexPortfolioConstruction]] - A-share institutional-investing and research-process branch.
-- [[ZhangYizhen]], [[AShareValuationIndicators]], [[MultiStrategyAllocation]], and [[DrawdownPsychology]] — E145's A-share valuation, strategy-mix, and investor-psychology layer.
-- [[NoPredictionTrading]], [[DiversificationAlpha]], and [[RandomMarketNarratives]] — E144's trading-statistics and narrative-risk layer.
-- [[KellyCriterion]] — central mathematical sizing idea in the episode.
-- [[EdwardThorp]] and [[ClaudeShannon]] — historical examples used by the episode.
-- [[InvestmentRiskManagement]] — broader wiki theme reinforced by the source.
-- [[AIInvestmentMetrics]] and [[HoloAssets]] — E155's AI business-metric and hard-asset investment frame.
-- [[EfficientFrontier]] and [[AssetAllocation]] — E158's multi-asset portfolio-construction framework.
-- [[HongKongMarketStructure]] — E159's market-structure and survival frame for Hong Kong equities.
-- [[ValueInvesting]], [[MarginOfSafety]], and [[DividendDiscountModel]] — E160's long-duration cash-flow and safety-margin framework.
-- [[GuanYadi]], [[TrainedIntuition]], and [[EmbodiedJudgment]] — E161's embodied decision-making and endurance-practice framework.
-- [[KondratievCycle]], [[RiskParity]], and [[MacroAssetExpression]] — E162's long-cycle macro, multi-asset, and portfolio-expression framework.
-- [[PingGe]], [[HumanAgencyUnderAI]], [[AIUsePacing]], and [[OutputQualityGates]] — E163's AI mindset, pacing, and workflow-quality layer.
-- [[XFFXFramework]], [[AIAssistedReading]], [[ReadingAsFrameTraining]], and [[PersonalKnowledgeEcology]] — reading and personal-context layer added by the "读书，就是在读一个人的 F" episode.
-- [[XiaoMan]], [[DaChangXiaomin]], [[CareerShoreMyth]], and [[SystemHumanity]] — big-company, layoff, nonfiction, and system-agency layer.
-- [[MidlifeThreeAccounts]], [[PersonalCashFlowAccount]], [[MuscleAsLongevityInfrastructure]], and [[SleepAsDailyHealthAccount]] - midlife money/body/sleep layer.
-- [[TianFeng]], [[TalentGroupLivestreaming]], [[LivestreamGuildIndustrialization]], [[RealTimeLivestreamLabor]], [[PlatformModerationComplianceLabor]], and [[SocialProductionOfBeauty]] - platform-labor and fieldwork layer from the group-livestreaming episode.
-- [[FixedIncomePlusProduct]], [[RiskBudgetedAbsoluteReturn]], [[RollingHoldingPeriodExperience]], [[CrossAssetRiskExpression]], [[MVPInvestmentFramework]], and [[ConvertibleBondDoubleLowStrategy]] - low-risk client, fixed-income-plus, and multi-asset private-account layer.
-- [[YiLaoYongYi]] — adjacent Chinese investing podcast already represented in the wiki through episodes on [[JimSimons]], [[JesseLivermore]], finance careers, and market risk.
+## What Changed
+
+- The earliest represented layer centered on investing, trading, portfolio construction, and market risk.
+- AI investment and workflow episodes added a second question: how tools change human value, attention, and authorship.
+- Recent sources expanded the profile into labor history, institutional life, health, reading, anthropology, and Daoist practice, revealing practical agency as the connection across otherwise different subjects.
+
+## Relationships
+
+- [[InvestmentRiskManagement]] - recurring subject and decision-process framework.
+- [[EmbodiedJudgment]] - connects market decisions, trained intuition, and lived practice.
+- [[HumanAgencyUnderAI]] - recurring principle in the AI-workflow branch.
+- [[PersonalKnowledgeEcology]] - connects reading, context, authorship, and AI-assisted thinking.
+- [[DaChangXiaomin]] - nonfiction and large-company institutional-life branch.
+- [[YiLaoYongYi]] - adjacent Chinese investing podcast represented in the same Wiki.

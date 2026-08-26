@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 7693
+wiki_total_pages: 7714
 wiki_pages:
   - key: "KunyangBattle"
     title: "Battle of Kunyang / 昆阳之战"
@@ -524,6 +524,12 @@ wiki_pages:
   - key: "KongRong"
     title: "孔融 / Kong Rong"
     url: "/wiki/entities/kongrong/"
+  - key: "KongRongMother"
+    title: "孔融母 / Kong Rong's mother"
+    url: "/wiki/entities/kongrongmother/"
+  - key: "KongBaoLateHan"
+    title: "孔褒 / Kong Bao (late Han)"
+    url: "/wiki/entities/kongbaolatehan/"
   - key: "KongFu"
     title: "孔鲋 / Kong Fu"
     url: "/wiki/entities/kongfu/"

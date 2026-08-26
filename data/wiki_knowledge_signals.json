@@ -1,4 +1,2405 @@
 {
-  "pages": {},
+  "pages": {
+    "42Zhangjing": {
+      "episode_count": 12,
+      "show_count": 1,
+      "source_note_count": 12,
+      "sources": [
+        {
+          "episode_file": "泡沫的四个必要不充分条件 ｜ 对谈经济学者朱宁教授 [lo4XhK5fNW1DCoRwaCtTcSfJjr78].md",
+          "key": "paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78",
+          "show": "42章经",
+          "title": "泡沫的四个必要不充分条件 | 对谈经济学者朱宁教授",
+          "url": "/wiki/sources/paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78/"
+        },
+        {
+          "episode_file": "关于 AI、开源、商业化与全球化的经验、教训和方法论 ｜ 对谈 PingCAP CTO 东旭 [ljw8Va0EvOBhz4OJzRULqZJvXW5-].md",
+          "key": "guanyu-ai-kaiyuan-shangyehua-yu-quanqiuhua-de-jingyan-jiaoxun-he-fangfalun-duitan-pingcap-cto-dongxu-ljw8va0evobhz4ojzrulqzjvxw5",
+          "show": "42章经",
+          "title": "关于 AI、开源、商业化与全球化的经验、教训和方法论 | 对谈 PingCAP CTO 东旭",
+          "url": "/wiki/sources/guanyu-ai-kaiyuan-shangyehua-yu-quanqiuhua-de-jingyan-jiaoxun-he-fangfalun-duitan-pingcap-cto-dongxu-ljw8va0evobhz4ojzrulqzjvxw5/"
+        },
+        {
+          "episode_file": "一个 AI 创始人的虚荣心、装，和愚昧之巅｜对谈 invoko.ai 创始人梦琪 [lsI79O-Z19zPlvmqdBpZnEOGPk3F].md",
+          "key": "yige-ai-chuangshiren-de-xurongxin-zhuang-he-yumei-zhidian-duitan-invoko-ai-chuangshiren-mengqi-lsi79o-z19zplvmqdbpzzneogpk3f",
+          "show": "42章经",
+          "title": "一个 AI 创始人的虚荣心、装，和愚昧之巅｜对谈 invoko.ai 创始人梦琪",
+          "url": "/wiki/sources/yige-ai-chuangshiren-de-xurongxin-zhuang-he-yumei-zhidian-duitan-invoko-ai-chuangshiren-mengqi-lsi79o-z19zplvmqdbpzzneogpk3f/"
+        },
+        {
+          "episode_file": "这可能才是 AI 陪伴真正该有的样子｜对谈刷屏产品 EVE 创始人 Tristan [lgVCb1TuUR_1rf2qK8Jv9cHMWew_].md",
+          "key": "zhe-keneng-caishi-ai-peiban-zhenzheng-gai-you-de-yangzi-duitan-shuaping-chanpin-eve-chuangshiren-tristan-lgvcb1tuur-1rf2qk8jv9chmwew",
+          "show": "42章经",
+          "title": "这可能才是 AI 陪伴真正该有的样子｜对谈刷屏产品 EVE 创始人 Tristan",
+          "url": "/wiki/sources/zhe-keneng-caishi-ai-peiban-zhenzheng-gai-you-de-yangzi-duitan-shuaping-chanpin-eve-chuangshiren-tristan-lgvcb1tuur-1rf2qk8jv9chmwew/"
+        },
+        {
+          "episode_file": "少有的深度参与过字节、美团组织建设的人｜对谈 AI 创业者魏小康 [loF0mb7U5BUzEC1qTXQrt9krAiUD].md",
+          "key": "shaoyou-de-shendu-canyu-guo-zijie-meituan-zuzhi-jianshe-de-ren-duitan-ai-chuangyezhe-wei-xiaokang-lof0mb7u5buzec1qtxqrt9kraiud",
+          "show": "42章经",
+          "title": "少有的深度参与过字节、美团组织建设的人｜对谈 AI 创业者魏小康",
+          "url": "/wiki/sources/shaoyou-de-shendu-canyu-guo-zijie-meituan-zuzhi-jianshe-de-ren-duitan-ai-chuangyezhe-wei-xiaokang-lof0mb7u5buzec1qtxqrt9kraiud/"
+        },
+        {
+          "episode_file": "OpenClaw 之后，我只想未来 3-6 个月的事情｜对谈 Sheet0 创始人王文锋 [lu_D4y7QIfAG6-rc79TP-rOxJp4Z].md",
+          "key": "openclaw-zhihou-wo-zhi-xiang-weilai-3-6-ge-yue-de-shiqing-duitan-sheet0-chuangshiren-wang-wenfeng-lu-d4y7qifag6-rc79tp-roxjp4z",
+          "show": "42章经",
+          "title": "OpenClaw 之后，我只想未来 3-6 个月的事情｜对谈 Sheet0 创始人王文锋",
+          "url": "/wiki/sources/openclaw-zhihou-wo-zhi-xiang-weilai-3-6-ge-yue-de-shiqing-duitan-sheet0-chuangshiren-wang-wenfeng-lu-d4y7qifag6-rc79tp-roxjp4z/"
+        },
+        {
+          "episode_file": "用 Agent 动力学，和 40 个 Agents 一起为「人 + AI」做产品｜对谈 Slock.ai 创始人 RC [liiv-fKcDolfb06hKOyz0IX3feJY].md",
+          "key": "yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy",
+          "show": "42章经",
+          "title": "用 Agent 动力学，和 40 个 Agents 一起为「人 + AI」做产品｜对谈 Slock.ai 创始人 RC",
+          "url": "/wiki/sources/yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy/"
+        },
+        {
+          "episode_file": "我们是如何定义 OpenClaw for Teams 新产品形态的｜对谈 Kuse&Junior 联创兼 CTO 宇豪 [lkp1A0TodFlxOyYCYo3zhRaP3eBv].md",
+          "key": "women-shi-ruhe-dingyi-openclaw-for-teams-xin-chanpin-xingtai-de-duitan-kuse-junior-lianchuang-jian-cto-yuhao-lkp1a0todflxoyycyo3zhrap3ebv",
+          "show": "42章经",
+          "title": "我们是如何定义 OpenClaw for Teams 新产品形态的｜对谈 Kuse&Junior 联创兼 CTO 宇豪",
+          "url": "/wiki/sources/women-shi-ruhe-dingyi-openclaw-for-teams-xin-chanpin-xingtai-de-duitan-kuse-junior-lianchuang-jian-cto-yuhao-lkp1a0todflxoyycyo3zhrap3ebv/"
+        },
+        {
+          "episode_file": "优化胜率而非赔率，把一件事做到理论上该有的样子｜对谈连续创业者 Albert [lu0VAMAaWCTwVa3qbLNsf99esAR2].md",
+          "key": "youhua-shenglv-erfei-peilv-ba-yi-jian-shi-zuodao-lilun-shang-gaiyou-de-yangzi-duitan-lianxu-chuangyezhe-albert-lu0vamaawctwva3qblnsf99esar2",
+          "show": "42章经",
+          "title": "优化胜率而非赔率，把一件事做到理论上该有的样子｜对谈连续创业者 Albert",
+          "url": "/wiki/sources/youhua-shenglv-erfei-peilv-ba-yi-jian-shi-zuodao-lilun-shang-gaiyou-de-yangzi-duitan-lianxu-chuangyezhe-albert-lu0vamaawctwva3qblnsf99esar2/"
+        },
+        {
+          "episode_file": "当软件容易被创作，新时代的产品长什么样？ ｜ 对谈 Albert [ltgaLbpl0P41D33VvSBACZqrCBdI].md",
+          "key": "dang-ruanjian-rongyi-bei-chuangzuo-xin-shidai-de-chanpin-chang-shenme-yang-duitan-albert-ltgalbpl0p41d33vvsbaczqrcbdi",
+          "show": "42章经",
+          "title": "当软件容易被创作，新时代的产品长什么样？ | 对谈 Albert",
+          "url": "/wiki/sources/dang-ruanjian-rongyi-bei-chuangzuo-xin-shidai-de-chanpin-chang-shenme-yang-duitan-albert-ltgalbpl0p41d33vvsbaczqrcbdi/"
+        },
+        {
+          "episode_file": "AI 发展了 4 年，把应用发展没了？｜AI 年中复盘 [lgTuy-EszlCI5YaGUocYNdIgwmLX].md",
+          "key": "ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx",
+          "show": "42章经",
+          "title": "AI 发展了 4 年，把应用发展没了？｜AI 年中复盘",
+          "url": "/wiki/sources/ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx/"
+        },
+        {
+          "episode_file": "从蒸馏到合成数据到 RSI，模型竞争的下一个焦点是什么？｜对谈 Evolvent AI 联创孟繁青 [lq1xnhp4MuC3iViDqhVd0Ul77QmI].md",
+          "key": "cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi",
+          "show": "42章经",
+          "title": "从蒸馏到合成数据到 RSI，模型竞争的下一个焦点是什么？｜对谈 Evolvent AI 联创孟繁青",
+          "url": "/wiki/sources/cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi/"
+        }
+      ],
+      "updated": "2026-08-09",
+      "url": "/wiki/entities/42zhangjing/"
+    },
+    "AIAgentOverseasCommercialization": {
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "为什么Manus必须出海？聊聊国产大模型的“文科生困境” ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [为什么manus必须出海？聊聊国产大模型的文科生困-1].md",
+          "key": "weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun",
+          "show": "科技乱炖",
+          "title": "为什么Manus必须出海？聊聊国产大模型的“文科生困境”",
+          "url": "/wiki/sources/weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun/"
+        },
+        {
+          "episode_file": "别在国内卷了，去美国看看只要产品好就有人付费的市场 ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [别在国内卷了，去美国看看只要产品好就有人付费-1].md",
+          "key": "bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun",
+          "show": "科技乱炖",
+          "title": "别在国内卷了，去美国看看只要产品好就有人付费的市场",
+          "url": "/wiki/sources/bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun/"
+        },
+        {
+          "episode_file": "关于 AI、开源、商业化与全球化的经验、教训和方法论 ｜ 对谈 PingCAP CTO 东旭 [ljw8Va0EvOBhz4OJzRULqZJvXW5-].md",
+          "key": "guanyu-ai-kaiyuan-shangyehua-yu-quanqiuhua-de-jingyan-jiaoxun-he-fangfalun-duitan-pingcap-cto-dongxu-ljw8va0evobhz4ojzrulqzjvxw5",
+          "show": "42章经",
+          "title": "关于 AI、开源、商业化与全球化的经验、教训和方法论 | 对谈 PingCAP CTO 东旭",
+          "url": "/wiki/sources/guanyu-ai-kaiyuan-shangyehua-yu-quanqiuhua-de-jingyan-jiaoxun-he-fangfalun-duitan-pingcap-cto-dongxu-ljw8va0evobhz4ojzrulqzjvxw5/"
+        },
+        {
+          "episode_file": "AI 发展了 4 年，把应用发展没了？｜AI 年中复盘 [lgTuy-EszlCI5YaGUocYNdIgwmLX].md",
+          "key": "ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx",
+          "show": "42章经",
+          "title": "AI 发展了 4 年，把应用发展没了？｜AI 年中复盘",
+          "url": "/wiki/sources/ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx/"
+        }
+      ],
+      "updated": "2026-08-07",
+      "url": "/wiki/concepts/aiagentoverseascommercialization/"
+    },
+    "AICommercializationPressure": {
+      "episode_count": 36,
+      "show_count": 15,
+      "source_note_count": 36,
+      "sources": [
+        {
+          "episode_file": "EP275 Token 通胀时代，谁还能“不可替代”？丨“人在中流”特别策划01 [lgNagVELl4JyVv7EejrCgNO2Xjsr].md",
+          "key": "ep275-token-tongzhang-shidai-shui-hai-neng-bu-ke-tidai-renzai-zhongliu-tebie-cehua-01-lgnagvell4jyvv7eejrcgno2xjsr",
+          "show": "Talk三联",
+          "title": "EP275 Token 通胀时代，谁还能“不可替代”？丨“人在中流”特别策划01",
+          "url": "/wiki/sources/ep275-token-tongzhang-shidai-shui-hai-neng-bu-ke-tidai-renzai-zhongliu-tebie-cehua-01-lgnagvell4jyvv7eejrcgno2xjsr/"
+        },
+        {
+          "episode_file": "巴黎水和圣培露还能赚钱，雀巢为何要剥离水业务？ [1005452453].md",
+          "key": "bali-shui-he-shengpeilu-hai-neng-zhuanqian-quechao-weihe-yao-boli-shui-yewu-1005452453",
+          "show": "声动早咖啡",
+          "title": "巴黎水和圣培露还能赚钱，雀巢为何要剥离水业务？",
+          "url": "/wiki/sources/bali-shui-he-shengpeilu-hai-neng-zhuanqian-quechao-weihe-yao-boli-shui-yewu-1005452453/"
+        },
+        {
+          "episode_file": "270.大厂押注AI办公，飞书和钉钉却先成了配角 [lmb4DgcgOv3mR4CN7ciKBgHpfrO4].md",
+          "key": "270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4",
+          "show": "乱翻书",
+          "title": "270.大厂押注AI办公，飞书和钉钉却先成了配角",
+          "url": "/wiki/sources/270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4/"
+        },
+        {
+          "episode_file": "对话Liblib陈冕：关于活下来，以及所有接近死亡的时刻 (1) [175-1].md",
+          "key": "duihua-liblib-chenmian-guanyu-huoxialai-yiji-suoyou-jiejin-siwang-de-shike-1-175-1",
+          "show": "晚点聊 LateTalk",
+          "title": "175: 对话Liblib陈冕：关于活下来，以及所有接近死亡的时刻",
+          "url": "/wiki/sources/duihua-liblib-chenmian-guanyu-huoxialai-yiji-suoyou-jiejin-siwang-de-shike-1-175-1/"
+        },
+        {
+          "episode_file": "172.全球宏观和资本市场2026半年度复盘与展望：AI叙事的下一步 [lvj6L_TwEuld-GvkpqURqpm4GpT2].md",
+          "key": "172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2",
+          "show": "起朱楼宴宾客",
+          "title": "172.全球宏观和资本市场2026半年度复盘与展望：AI叙事的下一步",
+          "url": "/wiki/sources/172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2/"
+        },
+        {
+          "episode_file": "7000 亿美元砸向 AI：这是下一代互联网，还是泡沫重演？｜ S10E12 [7af0955b-e3b5-4b40-9ccf-90ec061bbf52].md",
+          "key": "7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52",
+          "show": "What's Next｜科技早知道",
+          "title": "7000 亿美元砸向 AI：这是下一代互联网，还是泡沫重演？ | S10E12",
+          "url": "/wiki/sources/7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52/"
+        },
+        {
+          "episode_file": "AI4S 需要狂人与野心家｜对话英灵殿 Odin：＂如果神存在，我怎能容忍自己不是神？＂【公路播客】 [lhcEYiP6DQoMRwk38uVqJWOoMxyZ].md",
+          "key": "ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz",
+          "show": "十字路口Crossing",
+          "title": "AI4S 需要狂人与野心家｜对话英灵殿 Odin：\\\"如果神存在，我怎能容忍自己不是神？\\\"【公路播客】",
+          "url": "/wiki/sources/ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz/"
+        },
+        {
+          "episode_file": "tech_20260320_0320_MP_TECH_pod_128 [tech_20260320_0320_MP_TECH_pod_128].md",
+          "key": "tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Gecko's $71M contract with U.S. Navy, BuzzFeed doubts its business viability, and Amazon offers faster delivery",
+          "url": "/wiki/sources/tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": " 1 人公司，扛 5 个人的活，还要管 50 个 Agents ？｜ S10E18 [e3a21dde-0bba-4ec2-bf12-5043500ae5c6].md",
+          "key": "1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6",
+          "show": "What's Next｜科技早知道",
+          "title": "1 人公司，扛 5 个人的活，还要管 50 个 Agents？｜S10E18",
+          "url": "/wiki/sources/1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6/"
+        },
+        {
+          "episode_file": "【AI季报 26Q2】从 coding 到 RSI，强者愈强的未来？ (1) [171-1].md",
+          "key": "ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1",
+          "show": "晚点聊 LateTalk",
+          "title": "171: 【AI季报 26Q2】从 coding 到 RSI，强者愈强的未来？",
+          "url": "/wiki/sources/ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1/"
+        },
+        {
+          "episode_file": "136. 全球大模型季报第9集：和广密聊，Coding是AGI第二幕、硅谷御三家真相、模型正成为新一代OS [lh_CQyoSs_DztmYB5kmBjaPA6W9V].md",
+          "key": "136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "136. 全球大模型季报第9集：和广密聊，Coding是AGI第二幕、硅谷御三家真相、模型正成为新一代OS",
+          "url": "/wiki/sources/136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v/"
+        },
+        {
+          "episode_file": "阿里千问离职余震，在几万人的铁球里如何体面生存 ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [阿里千问离职余震，在几万人的铁球里如何体面生-1].md",
+          "key": "ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun",
+          "show": "科技乱炖",
+          "title": "阿里千问离职余震，在几万人的铁球里如何体面生存",
+          "url": "/wiki/sources/ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun/"
+        },
+        {
+          "episode_file": "从QQ会员到豆包包月，中国人为什么总觉得软件该免费 ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [从qq会员到豆包包月，中国人为什么总觉得软件该免-1].md",
+          "key": "cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun",
+          "show": "科技乱炖",
+          "title": "从QQ会员到豆包包月，中国人为什么总觉得软件该免费",
+          "url": "/wiki/sources/cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun/"
+        },
+        {
+          "episode_file": "EP117 豆包月活过亿，阿里再造「千问」是不是晚了？ [lmp0PzdIg2iJOW5k3cNnnvVqq6Sa].md",
+          "key": "ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa",
+          "show": "硬地骇客",
+          "title": "EP117 豆包月活过亿，阿里再造「千问」是不是晚了？",
+          "url": "/wiki/sources/ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa/"
+        },
+        {
+          "episode_file": "AHARO4475675265 [AHARO4475675265].md",
+          "key": "community-led-saas-growth-how-ninety-hit-44m-arr",
+          "show": "The SaaS Podcast - Real Lessons on Growing Profitable SaaS",
+          "title": "Community-Led SaaS Growth: How Ninety Hit $44M ARR",
+          "url": "/wiki/sources/community-led-saas-growth-how-ninety-hit-44m-arr/"
+        },
+        {
+          "episode_file": "EP88 穿越量化之父西蒙斯：AI会让普通人更容易赚钱，还是更难？ [lhvIGzza2uGmAYezkBrxUfKmP4L1].md",
+          "key": "ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1",
+          "show": "一劳永逸",
+          "title": "EP88 穿越量化之父西蒙斯：AI会让普通人更容易赚钱，还是更难？",
+          "url": "/wiki/sources/ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1/"
+        },
+        {
+          "episode_file": "131. 印奇出任阶跃星辰董事长的访谈：聪明人的诱惑、取舍、超长链路残酷淘汰赛、阶跃函数和超多元方程 [lo-xQNj9qSh16zHeUQI6pQ3jOkjq].md",
+          "key": "131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "131. 印奇出任阶跃星辰董事长的访谈：聪明人的诱惑、取舍、超长链路残酷淘汰赛、阶跃函数和超多元方程",
+          "url": "/wiki/sources/131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan/"
+        },
+        {
+          "episode_file": "为什么公司用不好AI？从焦虑到行动的 3 个关键动作｜对谈百融智能张韶峰 [lgaRNGnaqRaN2C9P4jsSURvT6cEs].md",
+          "key": "weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces",
+          "show": "十字路口Crossing",
+          "title": "为什么公司用不好AI？从焦虑到行动的 3 个关键动作｜对谈百融智能张韶峰",
+          "url": "/wiki/sources/weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces/"
+        },
+        {
+          "episode_file": "“你有一把能够挖出金子的铲子，肯定不会先给别人用”｜对谈开物纪陆子恒：用AI发明新材料 [lvHl1-hY1GwtainUjjgf8XBS4FYH].md",
+          "key": "ni-you-yi-ba-nenggou-wa-chu-jinzi-de-chanzi-kending-buhui-xian-gei-bieren-yong-duitan-kaiwuji-lu-ziheng-yong-ai-faming-xin-cailiao-lvhl1-hy1gwtainujjgf8xbs4fyh",
+          "show": "十字路口Crossing",
+          "title": "“你有一把能够挖出金子的铲子，肯定不会先给别人用”｜对谈开物纪陆子恒：用AI发明新材料",
+          "url": "/wiki/sources/ni-you-yi-ba-nenggou-wa-chu-jinzi-de-chanzi-kending-buhui-xian-gei-bieren-yong-duitan-kaiwuji-lu-ziheng-yong-ai-faming-xin-cailiao-lvhl1-hy1gwtainujjgf8xbs4fyh/"
+        },
+        {
+          "episode_file": "当“印钞机”百度开始失血，是天灾还是人祸？ ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [当印钞机百度开始失血，是天灾还是人祸？-1].md",
+          "key": "dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun",
+          "show": "科技乱炖",
+          "title": "当“印钞机”百度开始失血，是天灾还是人祸？",
+          "url": "/wiki/sources/dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun/"
+        },
+        {
+          "episode_file": "EP101 对话 Simon：AI 创业者的第一项基本功是把账算明白 [lhrRhFslND1z9cUu2VKUXbb5pVjX].md",
+          "key": "ep101-duihua-simon-ai-chuangyezhe-de-diyi-xiang-jibengong-shi-ba-zhang-suan-mingbai-lhrrhfslnd1z9cuu2vkuxbb5pvjx",
+          "show": "硬地骇客",
+          "title": "EP101 对话 Simon：AI 创业者的第一项基本功是把账算明白",
+          "url": "/wiki/sources/ep101-duihua-simon-ai-chuangyezhe-de-diyi-xiang-jibengong-shi-ba-zhang-suan-mingbai-lhrrhfslnd1z9cuu2vkuxbb5pvjx/"
+        },
+        {
+          "episode_file": "具身智能的滔天大泡沫中，他已经把机器人送进300个家庭｜对话张翼：未来不远创始人⧸CEO [lic8B7dkxTS3Qjrs6Af1RGBF4xRf].md",
+          "key": "jushen-zhineng-de-taotian-da-paomo-zhong-ta-yijing-ba-jiqiren-songjin-300-ge-jiating-duihua-zhang-yi-weilaibuyuan-chuangshiren-ceo-lic8b7dkxts3qjrs6af1rgbf4xrf",
+          "show": "十字路口Crossing",
+          "title": "具身智能的滔天大泡沫中，他已经把机器人送进300个家庭｜对话张翼：未来不远创始人/CEO",
+          "url": "/wiki/sources/jushen-zhineng-de-taotian-da-paomo-zhong-ta-yijing-ba-jiqiren-songjin-300-ge-jiating-duihua-zhang-yi-weilaibuyuan-chuangshiren-ceo-lic8b7dkxts3qjrs6af1rgbf4xrf/"
+        },
+        {
+          "episode_file": "为什么Manus必须出海？聊聊国产大模型的“文科生困境” ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [为什么manus必须出海？聊聊国产大模型的文科生困-1].md",
+          "key": "weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun",
+          "show": "科技乱炖",
+          "title": "为什么Manus必须出海？聊聊国产大模型的“文科生困境”",
+          "url": "/wiki/sources/weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun/"
+        },
+        {
+          "episode_file": "OPC 的真正难题，是 AI 还没学会替你把东西卖出去 ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [opc-的真正难题，是-ai-还没学会替你把东西卖出去-1].md",
+          "key": "opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1",
+          "show": "科技乱炖",
+          "title": "OPC 的真正难题，是 AI 还没学会替你把东西卖出去",
+          "url": "/wiki/sources/opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1/"
+        },
+        {
+          "episode_file": "把 AI 吹成核武器的人，亲手拉下了新冷战铁幕 ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [把-ai-吹成核武器的人，亲手拉下了新冷战铁幕-1].md",
+          "key": "ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1",
+          "show": "科技乱炖",
+          "title": "把 AI 吹成核武器的人，亲手拉下了新冷战铁幕",
+          "url": "/wiki/sources/ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1/"
+        },
+        {
+          "episode_file": "132. 对星海图创始人高继扬的3小时访谈：鲶鱼、曾国藩、Waymo与Momenta的两面、一只狼与许华哲的离开 [lplNqS9I0z2b64zp9zF2h6EkhXjr].md",
+          "key": "132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "132. 对星海图创始人高继扬的3小时访谈：鲶鱼、曾国藩、Waymo与Momenta的两面、一只狼与许华哲的离开",
+          "url": "/wiki/sources/132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan/"
+        },
+        {
+          "episode_file": "全面压制，不留空档：字节跳动如何做增长？｜字节跳动 第7集 [lqSZvMuR6JV8b9XT8rJgmWFdQtEc].md",
+          "key": "quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec",
+          "show": "乱翻书",
+          "title": "全面压制，不留空档：字节跳动如何做增长？｜字节跳动 第7集",
+          "url": "/wiki/sources/quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec/"
+        },
+        {
+          "episode_file": "关于 AI、开源、商业化与全球化的经验、教训和方法论 ｜ 对谈 PingCAP CTO 东旭 [ljw8Va0EvOBhz4OJzRULqZJvXW5-].md",
+          "key": "guanyu-ai-kaiyuan-shangyehua-yu-quanqiuhua-de-jingyan-jiaoxun-he-fangfalun-duitan-pingcap-cto-dongxu-ljw8va0evobhz4ojzrulqzjvxw5",
+          "show": "42章经",
+          "title": "关于 AI、开源、商业化与全球化的经验、教训和方法论 | 对谈 PingCAP CTO 东旭",
+          "url": "/wiki/sources/guanyu-ai-kaiyuan-shangyehua-yu-quanqiuhua-de-jingyan-jiaoxun-he-fangfalun-duitan-pingcap-cto-dongxu-ljw8va0evobhz4ojzrulqzjvxw5/"
+        },
+        {
+          "episode_file": "一个 AI 创始人的虚荣心、装，和愚昧之巅｜对谈 invoko.ai 创始人梦琪 [lsI79O-Z19zPlvmqdBpZnEOGPk3F].md",
+          "key": "yige-ai-chuangshiren-de-xurongxin-zhuang-he-yumei-zhidian-duitan-invoko-ai-chuangshiren-mengqi-lsi79o-z19zplvmqdbpzzneogpk3f",
+          "show": "42章经",
+          "title": "一个 AI 创始人的虚荣心、装，和愚昧之巅｜对谈 invoko.ai 创始人梦琪",
+          "url": "/wiki/sources/yige-ai-chuangshiren-de-xurongxin-zhuang-he-yumei-zhidian-duitan-invoko-ai-chuangshiren-mengqi-lsi79o-z19zplvmqdbpzzneogpk3f/"
+        },
+        {
+          "episode_file": "Fear-jerker： America’s AI backlash [6a3cf783d760508ebaecd9fd].md",
+          "key": "fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd",
+          "show": "Economist Podcasts",
+          "title": "Fear-jerker: America's AI backlash",
+          "url": "/wiki/sources/fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd/"
+        },
+        {
+          "episode_file": "许华哲再次具身创业：不想错过最大的西瓜 (1) [166-1].md",
+          "key": "166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1",
+          "show": "晚点聊 LateTalk",
+          "title": "166: 许华哲再次具身创业：不想错过最大的西瓜",
+          "url": "/wiki/sources/166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1/"
+        },
+        {
+          "episode_file": "tech_20260219_0219_MP_TECH_pod_128 [tech_20260219_0219_MP_TECH_pod_128].md",
+          "key": "tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Meta's big bet on superintelligence",
+          "url": "/wiki/sources/tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "当软件容易被创作，新时代的产品长什么样？ ｜ 对谈 Albert [ltgaLbpl0P41D33VvSBACZqrCBdI].md",
+          "key": "dang-ruanjian-rongyi-bei-chuangzuo-xin-shidai-de-chanpin-chang-shenme-yang-duitan-albert-ltgalbpl0p41d33vvsbaczqrcbdi",
+          "show": "42章经",
+          "title": "当软件容易被创作，新时代的产品长什么样？ | 对谈 Albert",
+          "url": "/wiki/sources/dang-ruanjian-rongyi-bei-chuangzuo-xin-shidai-de-chanpin-chang-shenme-yang-duitan-albert-ltgalbpl0p41d33vvsbaczqrcbdi/"
+        },
+        {
+          "episode_file": "AI 发展了 4 年，把应用发展没了？｜AI 年中复盘 [lgTuy-EszlCI5YaGUocYNdIgwmLX].md",
+          "key": "ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx",
+          "show": "42章经",
+          "title": "AI 发展了 4 年，把应用发展没了？｜AI 年中复盘",
+          "url": "/wiki/sources/ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx/"
+        },
+        {
+          "episode_file": "AI 不只比智商，WAIC 和 Kimi K3 透露了什么新竞争 ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [ai-不只比智商，waic-和-kimi-k3-透露了什么新竞争-1].md",
+          "key": "ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1",
+          "show": "科技乱炖",
+          "title": "AI 不只比智商，WAIC 和 Kimi K3 透露了什么新竞争",
+          "url": "/wiki/sources/ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1/"
+        },
+        {
+          "episode_file": "宇树上市暴涨，但人形机器人的钱到底从哪里赚？｜S10E26 [4a50d4a3-a6ff-4c89-b754-367b73ce924b].md",
+          "key": "yushu-shangshi-baozhang-dan-renxing-jiqiren-de-qian-daodi-cong-nali-zhuan-s10e26-4a50d4a3-a6ff-4c89-b754-367b73ce924b",
+          "show": "What's Next｜科技早知道",
+          "title": "宇树上市暴涨，但人形机器人的钱到底从哪里赚？｜S10E26",
+          "url": "/wiki/sources/yushu-shangshi-baozhang-dan-renxing-jiqiren-de-qian-daodi-cong-nali-zhuan-s10e26-4a50d4a3-a6ff-4c89-b754-367b73ce924b/"
+        }
+      ],
+      "updated": "2026-08-24",
+      "url": "/wiki/concepts/aicommercializationpressure/"
+    },
+    "AIEraMajorChoice": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "EP266 当AI重构大学，我们该如何定义“好专业”？ [llbzCGsEFktCvkq__f37Hoan79dd].md",
+          "key": "ep266-dang-ai-zhonggou-daxue-women-gai-ruhe-dingyi-hao-zhuanye-llbzcgsefktcvkq-f37hoan79dd",
+          "show": "Talk三联",
+          "title": "EP266 当AI重构大学，我们该如何定义“好专业”？",
+          "url": "/wiki/sources/ep266-dang-ai-zhonggou-daxue-women-gai-ruhe-dingyi-hao-zhuanye-llbzcgsefktcvkq-f37hoan79dd/"
+        },
+        {
+          "episode_file": "EP278 AI时代不卷专业，卷什么？丨“人在中流”特别策划02 [lhVSBrOPwCLOUWShE-2_FcZWnWZz].md",
+          "key": "ep278-ai-shidai-bu-juan-zhuanye-juan-shenme-renzai-zhongliu-tebie-cehua-02-lhvsbropwclouwshe-2-fczwnwzz",
+          "show": "Talk三联",
+          "title": "EP278 AI时代不卷专业，卷什么？丨“人在中流”特别策划02",
+          "url": "/wiki/sources/ep278-ai-shidai-bu-juan-zhuanye-juan-shenme-renzai-zhongliu-tebie-cehua-02-lhvsbropwclouwshe-2-fczwnwzz/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/aieramajorchoice/"
+    },
+    "AISnowlineWorkBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "EP278 AI时代不卷专业，卷什么？丨“人在中流”特别策划02 [lhVSBrOPwCLOUWShE-2_FcZWnWZz].md",
+          "key": "ep278-ai-shidai-bu-juan-zhuanye-juan-shenme-renzai-zhongliu-tebie-cehua-02-lhvsbropwclouwshe-2-fczwnwzz",
+          "show": "Talk三联",
+          "title": "EP278 AI时代不卷专业，卷什么？丨“人在中流”特别策划02",
+          "url": "/wiki/sources/ep278-ai-shidai-bu-juan-zhuanye-juan-shenme-renzai-zhongliu-tebie-cehua-02-lhvsbropwclouwshe-2-fczwnwzz/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/aisnowlineworkboundary/"
+    },
+    "AgilityRobotics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The $1⧸Hour Worker： Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs [42245680].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The $1/Hour Worker: Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/agilityrobotics/"
+    },
+    "AmandaMcMaster": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The $1⧸Hour Worker： Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs [42245680].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The $1/Hour Worker: Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/amandamcmaster/"
+    },
+    "Anybotics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The $1⧸Hour Worker： Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs [42245680].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The $1/Hour Worker: Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/anybotics/"
+    },
+    "AtlasRobot": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The $1⧸Hour Worker： Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs [42245680].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The $1/Hour Worker: Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/atlasrobot/"
+    },
+    "BerntBornich": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The $1⧸Hour Worker： Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs [42245680].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The $1/Hour Worker: Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/berntbornich/"
+    },
+    "BostonDynamics": {
+      "episode_count": 5,
+      "show_count": 5,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "宇树上市暴涨，但人形机器人的钱到底从哪里赚？｜S10E26 [4a50d4a3-a6ff-4c89-b754-367b73ce924b].md",
+          "key": "yushu-shangshi-baozhang-dan-renxing-jiqiren-de-qian-daodi-cong-nali-zhuan-s10e26-4a50d4a3-a6ff-4c89-b754-367b73ce924b",
+          "show": "What's Next｜科技早知道",
+          "title": "宇树上市暴涨，但人形机器人的钱到底从哪里赚？｜S10E26",
+          "url": "/wiki/sources/yushu-shangshi-baozhang-dan-renxing-jiqiren-de-qian-daodi-cong-nali-zhuan-s10e26-4a50d4a3-a6ff-4c89-b754-367b73ce924b/"
+        },
+        {
+          "episode_file": "E244｜端到端vs上下分层：机器人路径之争，正在转向？ [fc9a3737-81a9-49cf-a7d6-530c77df836e].md",
+          "key": "e244-duan-dao-duan-vs-shangxia-fenceng-jiqiren-lujing-zhizheng-zhengzai-zhuanxiang-fc9a3737-81a9-49cf-a7d6-530c77df836e",
+          "show": "硅谷101",
+          "title": "E244｜端到端vs上下分层：机器人路径之争，正在转向？",
+          "url": "/wiki/sources/e244-duan-dao-duan-vs-shangxia-fenceng-jiqiren-lujing-zhizheng-zhengzai-zhuanxiang-fc9a3737-81a9-49cf-a7d6-530c77df836e/"
+        },
+        {
+          "episode_file": "我遇到了第一个真正想买的陪伴机器人！｜对话世博：越伴动力创始人【公路播客】 [lryDeLIzm0-hbk68u5CqE3TI-epB].md",
+          "key": "wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb",
+          "show": "十字路口Crossing",
+          "title": "我遇到了第一个真正想买的陪伴机器人！｜对话世博：越伴动力创始人【公路播客】",
+          "url": "/wiki/sources/wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb/"
+        },
+        {
+          "episode_file": "TSR-S2-TrevorBlackwell-v2 [TSR-S2-TrevorBlackwell-v2].md",
+          "key": "tsr-s2-trevorblackwell-v2",
+          "show": "The Social Radars",
+          "title": "Trevor Blackwell on Viaweb, Robots, and Early Y Combinator",
+          "url": "/wiki/sources/tsr-s2-trevorblackwell-v2/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The $1⧸Hour Worker： Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs [42245680].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The $1/Hour Worker: Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/bostondynamics/"
+    },
+    "CaixinMedia": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "EP278 AI时代不卷专业，卷什么？丨“人在中流”特别策划02 [lhVSBrOPwCLOUWShE-2_FcZWnWZz].md",
+          "key": "ep278-ai-shidai-bu-juan-zhuanye-juan-shenme-renzai-zhongliu-tebie-cehua-02-lhvsbropwclouwshe-2-fczwnwzz",
+          "show": "Talk三联",
+          "title": "EP278 AI时代不卷专业，卷什么？丨“人在中流”特别策划02",
+          "url": "/wiki/sources/ep278-ai-shidai-bu-juan-zhuanye-juan-shenme-renzai-zhongliu-tebie-cehua-02-lhvsbropwclouwshe-2-fczwnwzz/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/caixinmedia/"
+    },
+    "CareerCognitionEducation": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "EP241 校企合作是新一代的“铁饭碗”吗？ [lnmpSBVoQBexeaRdXYX88HyWUfig].md",
+          "key": "ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig",
+          "show": "Talk三联",
+          "title": "EP241 校企合作是新一代的“铁饭碗”吗？",
+          "url": "/wiki/sources/ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig/"
+        },
+        {
+          "episode_file": "EP278 AI时代不卷专业，卷什么？丨“人在中流”特别策划02 [lhVSBrOPwCLOUWShE-2_FcZWnWZz].md",
+          "key": "ep278-ai-shidai-bu-juan-zhuanye-juan-shenme-renzai-zhongliu-tebie-cehua-02-lhvsbropwclouwshe-2-fczwnwzz",
+          "show": "Talk三联",
+          "title": "EP278 AI时代不卷专业，卷什么？丨“人在中流”特别策划02",
+          "url": "/wiki/sources/ep278-ai-shidai-bu-juan-zhuanye-juan-shenme-renzai-zhongliu-tebie-cehua-02-lhvsbropwclouwshe-2-fczwnwzz/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/careercognitioneducation/"
+    },
+    "ChenShiLateHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》938丨历史的警醒！软弱只会带来屈辱 [lnlNrkETgFbADHFJbZDJjtrMQFsH].md",
+          "key": "zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》938丨历史的警醒！软弱只会带来屈辱",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》896丨假如乱世降临，你该如何自保？ [lsUvt_KSP_gfGGC9RIqQOVJSWkG_].md",
+          "key": "zizhi-tongjian-hanji-896-jiaru-luanshi-jianglin-ni-gai-ruhe-zibao-lsuvt-ksp-gfggc9riqqovjswkg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》896丨假如乱世降临，你该如何自保？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-896-jiaru-luanshi-jianglin-ni-gai-ruhe-zibao-lsuvt-ksp-gfggc9riqqovjswkg/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/chenshilatehan/"
+    },
+    "CrisisWithdrawalSelfProtection": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》896丨假如乱世降临，你该如何自保？ [lsUvt_KSP_gfGGC9RIqQOVJSWkG_].md",
+          "key": "zizhi-tongjian-hanji-896-jiaru-luanshi-jianglin-ni-gai-ruhe-zibao-lsuvt-ksp-gfggc9riqqovjswkg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》896丨假如乱世降临，你该如何自保？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-896-jiaru-luanshi-jianglin-ni-gai-ruhe-zibao-lsuvt-ksp-gfggc9riqqovjswkg/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》895丨血腥屠刀下的骨肉情深 [llsPLYYRjXhqkPi2AiuQZUlgm6w3].md",
+          "key": "zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》895丨血腥屠刀下的骨肉情深",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/crisiswithdrawalselfprotection/"
+    },
+    "DigitRobot": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The $1⧸Hour Worker： Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs [42245680].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The $1/Hour Worker: Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/digitrobot/"
+    },
+    "DuGenLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》895丨血腥屠刀下的骨肉情深 [llsPLYYRjXhqkPi2AiuQZUlgm6w3].md",
+          "key": "zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》895丨血腥屠刀下的骨肉情深",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/dugenlatehan/"
+    },
+    "DullDirtyDangerousRobotics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The $1⧸Hour Worker： Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs [42245680].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The $1/Hour Worker: Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/dulldirtydangerousrobotics/"
+    },
+    "EmbodiedDataPyramid": {
+      "episode_count": 6,
+      "show_count": 5,
+      "source_note_count": 6,
+      "sources": [
+        {
+          "episode_file": "E244｜端到端vs上下分层：机器人路径之争，正在转向？ [fc9a3737-81a9-49cf-a7d6-530c77df836e].md",
+          "key": "e244-duan-dao-duan-vs-shangxia-fenceng-jiqiren-lujing-zhizheng-zhengzai-zhuanxiang-fc9a3737-81a9-49cf-a7d6-530c77df836e",
+          "show": "硅谷101",
+          "title": "E244｜端到端vs上下分层：机器人路径之争，正在转向？",
+          "url": "/wiki/sources/e244-duan-dao-duan-vs-shangxia-fenceng-jiqiren-lujing-zhizheng-zhengzai-zhuanxiang-fc9a3737-81a9-49cf-a7d6-530c77df836e/"
+        },
+        {
+          "episode_file": "从会跳舞到有感知，触觉是机器人通往智能的门票吗？｜ S10E19 [f448a656-3004-430b-a853-79d1e77dcb53].md",
+          "key": "cong-hui-tiaowu-dao-you-ganzhi-chujue-shi-jiqiren-tongwang-zhineng-de-menpiao-ma-s10e19-f448a656-3004-430b-a853-79d1e77dcb53",
+          "show": "What's Next｜科技早知道",
+          "title": "从会跳舞到有感知，触觉是机器人通往智能的门票吗？｜ S10E19",
+          "url": "/wiki/sources/cong-hui-tiaowu-dao-you-ganzhi-chujue-shi-jiqiren-tongwang-zhineng-de-menpiao-ma-s10e19-f448a656-3004-430b-a853-79d1e77dcb53/"
+        },
+        {
+          "episode_file": "【具身季报 26Q2】世界模型大风不停，和不想被贴标签的人 (1) [170-1].md",
+          "key": "jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1",
+          "show": "晚点聊 LateTalk",
+          "title": "170: 【具身季报 26Q2】世界模型大风不停，和不想被贴标签的人",
+          "url": "/wiki/sources/jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1/"
+        },
+        {
+          "episode_file": "134. 【数据的综述】和谢晨聊，新时代的石油、历史、版图、数据金字塔、定价与Recipe [lkInPy65_ZR4cQmK23rmHJ_hhLVQ].md",
+          "key": "134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "134. 【数据的综述】和谢晨聊，新时代的石油、历史、版图、数据金字塔、定价与Recipe",
+          "url": "/wiki/sources/134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe/"
+        },
+        {
+          "episode_file": "147. 和蚂蚁灵波沈宇军聊：机器人原生基础模型、大脑和本体的关系、预训练与数据scale up、老师汤晓鸥 [luXTyuAfi_2ONiM15fW6Lpypo2GA].md",
+          "key": "147-he-mayi-lingbo-shenyujun-liao-jiqiren-yuansheng-jichu-moxing-danao-he-benti-de-guanxi-yuxunlian-yu-shuju-scale-up-laoshi-tangxiaoou-luxtyuafi-2onim15fw6lpypo2ga",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "147. 和蚂蚁灵波沈宇军聊：机器人原生基础模型、大脑和本体的关系、预训练与数据scale up、老师汤晓鸥",
+          "url": "/wiki/sources/147-he-mayi-lingbo-shenyujun-liao-jiqiren-yuansheng-jichu-moxing-danao-he-benti-de-guanxi-yuxunlian-yu-shuju-scale-up-laoshi-tangxiaoou-luxtyuafi-2onim15fw6lpypo2ga/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The $1⧸Hour Worker： Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs [42245680].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The $1/Hour Worker: Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/embodieddatapyramid/"
+    },
+    "FortressSecurityIllusion": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1030丨手握好牌，公孙瓒为何打得稀烂？ [lpKntYOv4viqYzGXgcUjN36qHv8_].md",
+          "key": "zizhi-tongjian-hanji-1030-shouwo-hao-pai-gongsunzan-weihe-da-de-xilan-lpkntyov4viqyzgxgcujn36qhv8",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1030丨手握好牌，公孙瓒为何打得稀烂？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1030-shouwo-hao-pai-gongsunzan-weihe-da-de-xilan-lpkntyov4viqyzgxgcujn36qhv8/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》962丨董卓与吕布，到底为什么决裂？ [lgP3KXFQnHoKibF6KplI6P4j8iTI].md",
+          "key": "zizhi-tongjian-hanji-962-dongzhuo-yu-lvbu-daodi-weishenme-juelie-lgp3kxfqnhokibf6kpli6p4j8iti",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》962丨董卓与吕布，到底为什么决裂？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-962-dongzhuo-yu-lvbu-daodi-weishenme-juelie-lgp3kxfqnhokibf6kpli6p4j8iti/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》998丨白马将军公孙瓒：从三千白马到困守孤城 [lp-1L2GvBsBFnyZNUTDGhxwwvqNA].md",
+          "key": "zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》998丨白马将军公孙瓒：从三千白马到困守孤城",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1031丨公孙瓒之死：从边疆战神到困兽自焚 [lmQoechCCFWMfpMbdX8_tJMnM3jz].md",
+          "key": "zizhi-tongjian-hanji-1031-gongsunzan-zhisi-cong-bianjiang-zhanshen-dao-kunshou-zifen-lmqoechccfwmfpmbdx8-tjmnm3jz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1031丨公孙瓒之死：从边疆战神到困兽自焚",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1031-gongsunzan-zhisi-cong-bianjiang-zhanshen-dao-kunshou-zifen-lmqoechccfwmfpmbdx8-tjmnm3jz/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/fortresssecurityillusion/"
+    },
+    "FugitiveShelterCollateralRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》895丨血腥屠刀下的骨肉情深 [llsPLYYRjXhqkPi2AiuQZUlgm6w3].md",
+          "key": "zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》895丨血腥屠刀下的骨肉情深",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/fugitivesheltercollateralrisk/"
+    },
+    "GaoErji": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "EP278 AI时代不卷专业，卷什么？丨“人在中流”特别策划02 [lhVSBrOPwCLOUWShE-2_FcZWnWZz].md",
+          "key": "ep278-ai-shidai-bu-juan-zhuanye-juan-shenme-renzai-zhongliu-tebie-cehua-02-lhvsbropwclouwshe-2-fczwnwzz",
+          "show": "Talk三联",
+          "title": "EP278 AI时代不卷专业，卷什么？丨“人在中流”特别策划02",
+          "url": "/wiki/sources/ep278-ai-shidai-bu-juan-zhuanye-juan-shenme-renzai-zhongliu-tebie-cehua-02-lhvsbropwclouwshe-2-fczwnwzz/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/gaoerji/"
+    },
+    "GlobalProductLocalization": {
+      "episode_count": 15,
+      "show_count": 9,
+      "source_note_count": 15,
+      "sources": [
+        {
+          "episode_file": "EP255 厂二代的“继承之战”：年轻人接班会重塑企业吗？ [likvzmPGwXneTPaeZxCLsX4s_HkW].md",
+          "key": "ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw",
+          "show": "Talk三联",
+          "title": "EP255 厂二代的“继承之战”：年轻人接班会重塑企业吗？",
+          "url": "/wiki/sources/ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw/"
+        },
+        {
+          "episode_file": "Musical.ly如何成为 TikTok？PM眼中的字节产品文化和全球化之路｜字节跳动 第5集 [ludFlvAw7lId_tCi9GaGBbXOBVtz].md",
+          "key": "musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz",
+          "show": "乱翻书",
+          "title": "Musical.ly如何成为 TikTok？PM眼中的字节产品文化和全球化之路｜字节跳动 第5集",
+          "url": "/wiki/sources/musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz/"
+        },
+        {
+          "episode_file": "全面压制，不留空档：字节跳动如何做增长？｜字节跳动 第7集 [lqSZvMuR6JV8b9XT8rJgmWFdQtEc].md",
+          "key": "quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec",
+          "show": "乱翻书",
+          "title": "全面压制，不留空档：字节跳动如何做增长？｜字节跳动 第7集",
+          "url": "/wiki/sources/quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec/"
+        },
+        {
+          "episode_file": "关于 AI、开源、商业化与全球化的经验、教训和方法论 ｜ 对谈 PingCAP CTO 东旭 [ljw8Va0EvOBhz4OJzRULqZJvXW5-].md",
+          "key": "guanyu-ai-kaiyuan-shangyehua-yu-quanqiuhua-de-jingyan-jiaoxun-he-fangfalun-duitan-pingcap-cto-dongxu-ljw8va0evobhz4ojzrulqzjvxw5",
+          "show": "42章经",
+          "title": "关于 AI、开源、商业化与全球化的经验、教训和方法论 | 对谈 PingCAP CTO 东旭",
+          "url": "/wiki/sources/guanyu-ai-kaiyuan-shangyehua-yu-quanqiuhua-de-jingyan-jiaoxun-he-fangfalun-duitan-pingcap-cto-dongxu-ljw8va0evobhz4ojzrulqzjvxw5/"
+        },
+        {
+          "episode_file": "140. 大疆还能低空飞多久？ ｜ 疯投圈 (1) [140-1].md",
+          "key": "140-da-jiang-hai-neng-di-kong-fei-duo-jiu-feng-tou-quan-1-140-1",
+          "show": "疯投圈",
+          "title": "140. 大疆还能低空飞多久？",
+          "url": "/wiki/sources/140-da-jiang-hai-neng-di-kong-fei-duo-jiu-feng-tou-quan-1-140-1/"
+        },
+        {
+          "episode_file": "141. ☕️咖啡战争2026：机构化与本土化 ｜ 疯投圈 (1) [141-1].md",
+          "key": "141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1",
+          "show": "疯投圈",
+          "title": "141. 咖啡战争2026：机构化与本土化",
+          "url": "/wiki/sources/141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1/"
+        },
+        {
+          "episode_file": "Vol.264 把世界杯作为方法 [999416048].md",
+          "key": "vol-264-ba-shijiebei-zuowei-fangfa-999416048",
+          "show": "商业就是这样",
+          "title": "Vol.264 把世界杯作为方法",
+          "url": "/wiki/sources/vol-264-ba-shijiebei-zuowei-fangfa-999416048/"
+        },
+        {
+          "episode_file": "E232｜餐饮出海有新招儿吗？从鼎泰丰与贡茶拿下美国初代销冠聊起 [3bb14dd4-0b13-4173-9d5b-0e63bf98ae1d].md",
+          "key": "e232-canyin-chuhai-you-xin-zhaor-ma-cong-dingtaifeng-yu-gongcha-naxia-meiguo-chudai-xiaoguan-liaoqi-3bb14dd4-0b13-4173-9d5b-0e63bf98ae1d",
+          "show": "硅谷101",
+          "title": "E232｜餐饮出海有新招儿吗？从鼎泰丰与贡茶拿下美国初代销冠聊起",
+          "url": "/wiki/sources/e232-canyin-chuhai-you-xin-zhaor-ma-cong-dingtaifeng-yu-gongcha-naxia-meiguo-chudai-xiaoguan-liaoqi-3bb14dd4-0b13-4173-9d5b-0e63bf98ae1d/"
+        },
+        {
+          "episode_file": "从央视纪录片到爆款 AI 短剧：第一批「转身」的导演 ｜ S10E11 [3c05e3d5-d8f6-44c1-97ca-698261d7b2bc].md",
+          "key": "cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc",
+          "show": "What's Next｜科技早知道",
+          "title": "从央视纪录片到爆款 AI 短剧：第一批「转身」的导演 | S10E11",
+          "url": "/wiki/sources/cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc/"
+        },
+        {
+          "episode_file": "EP240 “霸总甜宠”在海外：短剧出海的产业密码 [ltVXvfj5ko6DJhsjatipHdy-DzeK].md",
+          "key": "ep240-ba-zong-tian-chong-zai-haiwai-duanju-chuhai-de-chanye-mima-ltvxvfj5ko6djhsjatiphdy-dzek",
+          "show": "Talk三联",
+          "title": "EP240 “霸总甜宠”在海外：短剧出海的产业密码",
+          "url": "/wiki/sources/ep240-ba-zong-tian-chong-zai-haiwai-duanju-chuhai-de-chanye-mima-ltvxvfj5ko6djhsjatiphdy-dzek/"
+        },
+        {
+          "episode_file": "165.年报季中的真实中国2026 [lpredEVU_gAKn92dwutMuLYtMsLo].md",
+          "key": "165-nianbaoji-zhong-de-zhenshi-zhongguo-2026-lpredevu-gakn92dwutmulytmslo",
+          "show": "起朱楼宴宾客",
+          "title": "165.年报季中的真实中国2026",
+          "url": "/wiki/sources/165-nianbaoji-zhong-de-zhenshi-zhongguo-2026-lpredevu-gakn92dwutmulytmslo/"
+        },
+        {
+          "episode_file": "144. 国货出海新趋势：山下有松、观夏、PANE ｜ 疯投圈 (1) [144-1].md",
+          "key": "144-guohuo-chuhai-xinqushi-shanxia-yousong-guanxia-pane-feng-tou-quan-1-144-1",
+          "show": "疯投圈",
+          "title": "144 ✪ 国货出海新趋势：山下有松、观夏、PANE",
+          "url": "/wiki/sources/144-guohuo-chuhai-xinqushi-shanxia-yousong-guanxia-pane-feng-tou-quan-1-144-1/"
+        },
+        {
+          "episode_file": "服装品牌 A&F 寻找中国合作伙伴，付费提前看特朗普帖文服务上线 [1004810677].md",
+          "key": "fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677",
+          "show": "声动早咖啡",
+          "title": "服装品牌 A&F 寻找中国合作伙伴，付费提前看特朗普帖文服务上线",
+          "url": "/wiki/sources/fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677/"
+        },
+        {
+          "episode_file": "145. 改嫁中资的餐饮洋品牌 ｜ 疯投圈 (1) [145-1].md",
+          "key": "145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1",
+          "show": "疯投圈",
+          "title": "145. 改嫁中资的餐饮洋品牌",
+          "url": "/wiki/sources/145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1/"
+        },
+        {
+          "episode_file": "Vol.271 阿迪达斯如何触底反弹？ [1007333155].md",
+          "key": "vol-271-a-di-da-si-ruhe-chudi-fantan-1007333155",
+          "show": "商业就是这样",
+          "title": "Vol.271 阿迪达斯如何触底反弹？",
+          "url": "/wiki/sources/vol-271-a-di-da-si-ruhe-chudi-fantan-1007333155/"
+        }
+      ],
+      "updated": "2026-08-24",
+      "url": "/wiki/concepts/globalproductlocalization/"
+    },
+    "GongsunXuLateHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1030丨手握好牌，公孙瓒为何打得稀烂？ [lpKntYOv4viqYzGXgcUjN36qHv8_].md",
+          "key": "zizhi-tongjian-hanji-1030-shouwo-hao-pai-gongsunzan-weihe-da-de-xilan-lpkntyov4viqyzgxgcujn36qhv8",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1030丨手握好牌，公孙瓒为何打得稀烂？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1030-shouwo-hao-pai-gongsunzan-weihe-da-de-xilan-lpkntyov4viqyzgxgcujn36qhv8/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1031丨公孙瓒之死：从边疆战神到困兽自焚 [lmQoechCCFWMfpMbdX8_tJMnM3jz].md",
+          "key": "zizhi-tongjian-hanji-1031-gongsunzan-zhisi-cong-bianjiang-zhanshen-dao-kunshou-zifen-lmqoechccfwmfpmbdx8-tjmnm3jz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1031丨公孙瓒之死：从边疆战神到困兽自焚",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1031-gongsunzan-zhisi-cong-bianjiang-zhanshen-dao-kunshou-zifen-lmqoechccfwmfpmbdx8-tjmnm3jz/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/gongsunxulatehan/"
+    },
+    "GongsunZan": {
+      "episode_count": 14,
+      "show_count": 1,
+      "source_note_count": 14,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》907丨所有的病都是你的心病 [ltQzyOHCauDUWuaNlvqPH9L81d79].md",
+          "key": "zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》907丨所有的病都是你的心病",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1030丨手握好牌，公孙瓒为何打得稀烂？ [lpKntYOv4viqYzGXgcUjN36qHv8_].md",
+          "key": "zizhi-tongjian-hanji-1030-shouwo-hao-pai-gongsunzan-weihe-da-de-xilan-lpkntyov4viqyzgxgcujn36qhv8",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1030丨手握好牌，公孙瓒为何打得稀烂？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1030-shouwo-hao-pai-gongsunzan-weihe-da-de-xilan-lpkntyov4viqyzgxgcujn36qhv8/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》938丨历史的警醒！软弱只会带来屈辱 [lnlNrkETgFbADHFJbZDJjtrMQFsH].md",
+          "key": "zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》938丨历史的警醒！软弱只会带来屈辱",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》942丨越优秀的人活得越累，合理吗？ [lkwlRcgnT-kxXC2qqZ6z6WKG7e5z].md",
+          "key": "zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》942丨越优秀的人活得越累，合理吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》956丨庸人和智者，究竟差距在哪里？ [lphEE8cJ_7GcMG-CyNpIPHJVaUuF].md",
+          "key": "zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》956丨庸人和智者，究竟差距在哪里？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》960丨曹魏顶级智囊荀彧，为何“弃袁投曹”？ [lmor1tXQpm88ITT4INCalusconJr].md",
+          "key": "zizhi-tongjian-hanji-960-caowei-dingji-zhinang-xunyu-weihe-qi-yuan-tou-cao-lmor1txqpm88itt4incalusconjr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》960丨曹魏顶级智囊荀彧，为何“弃袁投曹”？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-960-caowei-dingji-zhinang-xunyu-weihe-qi-yuan-tou-cao-lmor1txqpm88itt4incalusconjr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》961丨内黄之战：曹操初露锋芒 [ljdLt6kIU8tg0Qws_jlYEJ_YhGXr].md",
+          "key": "zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》961丨内黄之战：曹操初露锋芒",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》969丨袁氏兄弟内斗，谁能捡漏？ [lsgj6sewO35jPSGFm_kOIvIJtr6r].md",
+          "key": "zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》969丨袁氏兄弟内斗，谁能捡漏？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》970丨袁绍暗杀吕布，为何会失败？ [ln2pnVIt_qgpNHN-PnE7o-P1IRrS].md",
+          "key": "zizhi-tongjian-hanji-970-yuanshao-ansha-lvbu-weihe-hui-shibai-ln2pnvit-qgpnhn-pne7o-p1irrs",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》970丨袁绍暗杀吕布，为何会失败？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-970-yuanshao-ansha-lvbu-weihe-hui-shibai-ln2pnvit-qgpnhn-pne7o-p1irrs/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》971丨乱世迷云：谁杀了曹操老爹 [ljh3HdhssIGMv78BuEo_HpRfQwKU].md",
+          "key": "zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》971丨乱世迷云：谁杀了曹操老爹",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》972丨三国刘虞之死：太傻太天真 [lvawRCAnDBh628RcKukOSGArH7v2].md",
+          "key": "zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》972丨三国刘虞之死：太傻太天真",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》998丨白马将军公孙瓒：从三千白马到困守孤城 [lp-1L2GvBsBFnyZNUTDGhxwwvqNA].md",
+          "key": "zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》998丨白马将军公孙瓒：从三千白马到困守孤城",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1015丨三国乱世，为什么袁术敢称帝？ [liM0JEMKWYjCESJ2nvSr3jNdhxFK].md",
+          "key": "zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1015丨三国乱世，为什么袁术敢称帝？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1031丨公孙瓒之死：从边疆战神到困兽自焚 [lmQoechCCFWMfpMbdX8_tJMnM3jz].md",
+          "key": "zizhi-tongjian-hanji-1031-gongsunzan-zhisi-cong-bianjiang-zhanshen-dao-kunshou-zifen-lmqoechccfwmfpmbdx8-tjmnm3jz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1031丨公孙瓒之死：从边疆战神到困兽自焚",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1031-gongsunzan-zhisi-cong-bianjiang-zhanshen-dao-kunshou-zifen-lmqoechccfwmfpmbdx8-tjmnm3jz/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/gongsunzan/"
+    },
+    "GuanJingLateHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1030丨手握好牌，公孙瓒为何打得稀烂？ [lpKntYOv4viqYzGXgcUjN36qHv8_].md",
+          "key": "zizhi-tongjian-hanji-1030-shouwo-hao-pai-gongsunzan-weihe-da-de-xilan-lpkntyov4viqyzgxgcujn36qhv8",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1030丨手握好牌，公孙瓒为何打得稀烂？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1030-shouwo-hao-pai-gongsunzan-weihe-da-de-xilan-lpkntyov4viqyzgxgcujn36qhv8/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1031丨公孙瓒之死：从边疆战神到困兽自焚 [lmQoechCCFWMfpMbdX8_tJMnM3jz].md",
+          "key": "zizhi-tongjian-hanji-1031-gongsunzan-zhisi-cong-bianjiang-zhanshen-dao-kunshou-zifen-lmqoechccfwmfpmbdx8-tjmnm3jz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1031丨公孙瓒之死：从边疆战神到困兽自焚",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1031-gongsunzan-zhisi-cong-bianjiang-zhanshen-dao-kunshou-zifen-lmqoechccfwmfpmbdx8-tjmnm3jz/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/guanjinglatehan/"
+    },
+    "HeYongLateHan": {
+      "episode_count": 5,
+      "show_count": 1,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》926丨真正的强者，都懂得“造势” [lssMABZoKU4uE28irdmfn0-d_0DC].md",
+          "key": "zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》926丨真正的强者，都懂得“造势”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》943丨权势考验人性，背后藏着巨大凶险 [lg7ia5XOK-swdMHml35YV9qQQkvt].md",
+          "key": "zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》943丨权势考验人性，背后藏着巨大凶险",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》949丨历史上的董卓到底多残暴？ [lk6IdoGWMC54Nk1Sdfc5wOnYVGbB].md",
+          "key": "zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》949丨历史上的董卓到底多残暴？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》960丨曹魏顶级智囊荀彧，为何“弃袁投曹”？ [lmor1tXQpm88ITT4INCalusconJr].md",
+          "key": "zizhi-tongjian-hanji-960-caowei-dingji-zhinang-xunyu-weihe-qi-yuan-tou-cao-lmor1txqpm88itt4incalusconjr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》960丨曹魏顶级智囊荀彧，为何“弃袁投曹”？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-960-caowei-dingji-zhinang-xunyu-weihe-qi-yuan-tou-cao-lmor1txqpm88itt4incalusconjr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》896丨假如乱世降临，你该如何自保？ [lsUvt_KSP_gfGGC9RIqQOVJSWkG_].md",
+          "key": "zizhi-tongjian-hanji-896-jiaru-luanshi-jianglin-ni-gai-ruhe-zibao-lsuvt-ksp-gfggc9riqqovjswkg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》896丨假如乱世降临，你该如何自保？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-896-jiaru-luanshi-jianglin-ni-gai-ruhe-zibao-lsuvt-ksp-gfggc9riqqovjswkg/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/heyonglatehan/"
+    },
+    "HumanRobotSafetyCertification": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The $1⧸Hour Worker： Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs [42245680].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The $1/Hour Worker: Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/humanrobotsafetycertification/"
+    },
+    "HumanoidRobotCommercialization": {
+      "episode_count": 7,
+      "show_count": 7,
+      "source_note_count": 7,
+      "sources": [
+        {
+          "episode_file": "宇树上市暴涨，但人形机器人的钱到底从哪里赚？｜S10E26 [4a50d4a3-a6ff-4c89-b754-367b73ce924b].md",
+          "key": "yushu-shangshi-baozhang-dan-renxing-jiqiren-de-qian-daodi-cong-nali-zhuan-s10e26-4a50d4a3-a6ff-4c89-b754-367b73ce924b",
+          "show": "What's Next｜科技早知道",
+          "title": "宇树上市暴涨，但人形机器人的钱到底从哪里赚？｜S10E26",
+          "url": "/wiki/sources/yushu-shangshi-baozhang-dan-renxing-jiqiren-de-qian-daodi-cong-nali-zhuan-s10e26-4a50d4a3-a6ff-4c89-b754-367b73ce924b/"
+        },
+        {
+          "episode_file": "tech_20260807_0807_MP_TECH_pod_128 [tech_20260807_0807_MP_TECH_pod_128].md",
+          "key": "tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Gig workers train humanoids on household chores",
+          "url": "/wiki/sources/tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "An interview with Elon Musk [6a6212214fac21e67f9b8c8c].md",
+          "key": "an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c",
+          "show": "Economist Podcasts",
+          "title": "An interview with Elon Musk",
+          "url": "/wiki/sources/an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c/"
+        },
+        {
+          "episode_file": "【具身季报 26Q2】世界模型大风不停，和不想被贴标签的人 (1) [170-1].md",
+          "key": "jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1",
+          "show": "晚点聊 LateTalk",
+          "title": "170: 【具身季报 26Q2】世界模型大风不停，和不想被贴标签的人",
+          "url": "/wiki/sources/jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1/"
+        },
+        {
+          "episode_file": "143. 对何小鹏的第二次访谈：更大赌注、人形机器人Iron诞生、那场意外、技术剧变下CEO、GX和缝合怪 [ljeKstsAfrj-oVTm2bpL92S4nwoc].md",
+          "key": "143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "143. 对何小鹏的第二次访谈：更大赌注、人形机器人Iron诞生、那场意外、技术剧变下CEO、GX和缝合怪",
+          "url": "/wiki/sources/143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc/"
+        },
+        {
+          "episode_file": "TSR-S2-TrevorBlackwell-v2 [TSR-S2-TrevorBlackwell-v2].md",
+          "key": "tsr-s2-trevorblackwell-v2",
+          "show": "The Social Radars",
+          "title": "Trevor Blackwell on Viaweb, Robots, and Early Y Combinator",
+          "url": "/wiki/sources/tsr-s2-trevorblackwell-v2/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The $1⧸Hour Worker： Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs [42245680].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The $1/Hour Worker: Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/humanoidrobotcommercialization/"
+    },
+    "IndustrialInspectionRobotics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The $1⧸Hour Worker： Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs [42245680].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The $1/Hour Worker: Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/industrialinspectionrobotics/"
+    },
+    "InvestmentRiskManagement": {
+      "episode_count": 59,
+      "show_count": 9,
+      "source_note_count": 59,
+      "sources": [
+        {
+          "episode_file": "激发动物精神，创造更多机会 [lnDyFDMtGo-9l5cR8OY82t1XnLFe].md",
+          "key": "jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe",
+          "show": "面基",
+          "title": "激发动物精神，创造更多机会",
+          "url": "/wiki/sources/jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe/"
+        },
+        {
+          "episode_file": "A股的春夏秋冬：种树、种粮、种菜 [ljzicMfBl9GuXoqmCDd8iKdn6JBX].md",
+          "key": "a-gu-de-chun-xia-qiu-dong-zhongshu-zhongliang-zhongcai-ljzicmfbl9guxoqmcdd8ikdn6jbx",
+          "show": "面基",
+          "title": "A股的春夏秋冬：种树、种粮、种菜",
+          "url": "/wiki/sources/a-gu-de-chun-xia-qiu-dong-zhongshu-zhongliang-zhongcai-ljzicmfbl9guxoqmcdd8ikdn6jbx/"
+        },
+        {
+          "episode_file": "Cockroaches 1, Modi 0： India’s remarkable protests [6a6729a33e2f0b6f92d26ab8].md",
+          "key": "cockroaches-1-modi-0-indias-remarkable-protests-6a6729a33e2f0b6f92d26ab8",
+          "show": "Economist Podcasts",
+          "title": "Cockroaches 1, Modi 0: India’s remarkable protests",
+          "url": "/wiki/sources/cockroaches-1-modi-0-indias-remarkable-protests-6a6729a33e2f0b6f92d26ab8/"
+        },
+        {
+          "episode_file": "所有净值曲线背后都是人，正态分布的普通人 [lsNRKqHtKTjLmrscOw2_mt2Df0yQ].md",
+          "key": "suoyou-jingzhi-quxian-beihou-doushi-ren-zhengtai-fenbu-de-putongren-lsnrkqhtktjlmrscow2-mt2df0yq",
+          "show": "面基",
+          "title": "所有净值曲线背后都是人，正态分布的普通人",
+          "url": "/wiki/sources/suoyou-jingzhi-quxian-beihou-doushi-ren-zhengtai-fenbu-de-putongren-lsnrkqhtktjlmrscow2-mt2df0yq/"
+        },
+        {
+          "episode_file": "172.全球宏观和资本市场2026半年度复盘与展望：AI叙事的下一步 [lvj6L_TwEuld-GvkpqURqpm4GpT2].md",
+          "key": "172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2",
+          "show": "起朱楼宴宾客",
+          "title": "172.全球宏观和资本市场2026半年度复盘与展望：AI叙事的下一步",
+          "url": "/wiki/sources/172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2/"
+        },
+        {
+          "episode_file": "171.为什么牛市后期更容易亏钱？｜ 半年度投资账复盘 [lkkAFVBeA1zTxdwc0eeMpDINc4Yk].md",
+          "key": "171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk",
+          "show": "起朱楼宴宾客",
+          "title": "171.为什么牛市后期更容易亏钱？｜半年度投资账复盘",
+          "url": "/wiki/sources/171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk/"
+        },
+        {
+          "episode_file": "166.普通人能从机构投资者身上学到什么？｜串台投资ABC [lpg8ZL95KBVJVXSJr8cpB8Ogkeg6].md",
+          "key": "166-putongren-neng-cong-jigou-touzizhe-shenshang-xuedao-shenme-chuantai-touzi-abc-lpg8zl95kbvjvxsjr8cpb8ogkeg6",
+          "show": "起朱楼宴宾客",
+          "title": "166.普通人能从机构投资者身上学到什么？｜串台投资ABC",
+          "url": "/wiki/sources/166-putongren-neng-cong-jigou-touzizhe-shenshang-xuedao-shenme-chuantai-touzi-abc-lpg8zl95kbvjvxsjr8cpb8ogkeg6/"
+        },
+        {
+          "episode_file": "161. 全球宏观和资本市场2026一季度复盘与展望 [lgZjnsGkur1mcrMkqqxSvXHZB0bm].md",
+          "key": "161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm",
+          "show": "起朱楼宴宾客",
+          "title": "161. 全球宏观和资本市场2026一季度复盘与展望",
+          "url": "/wiki/sources/161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm/"
+        },
+        {
+          "episode_file": "163.当孤注一掷的年轻人遇上这个草台班子的世界｜串台轻刀快马 [lvXFvTZ-wGWDL8mMTzYeHwgwtBta].md",
+          "key": "163-dang-guzhuyizhi-de-nianqingren-yushang-zhege-caotaibanzi-de-shijie-chuantai-qingdao-kuaima-lvxfvtz-wgwdl8mmtzyehwgwtbta",
+          "show": "起朱楼宴宾客",
+          "title": "163.当孤注一掷的年轻人遇上这个草台班子的世界｜串台轻刀快马",
+          "url": "/wiki/sources/163-dang-guzhuyizhi-de-nianqingren-yushang-zhege-caotaibanzi-de-shijie-chuantai-qingdao-kuaima-lvxfvtz-wgwdl8mmtzyehwgwtbta/"
+        },
+        {
+          "episode_file": "157.如何带走牛市的胜利果实？ [loRY40ilOWKjfe-lt_hiWJdsDBQ2].md",
+          "key": "157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2",
+          "show": "起朱楼宴宾客",
+          "title": "157.如何带走牛市的胜利果实？",
+          "url": "/wiki/sources/157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2/"
+        },
+        {
+          "episode_file": "155.如何理解黄金的史诗级波动 [lp3lcda5ZskIV_dcEZcUGF2q93VI].md",
+          "key": "155-ruhe-lijie-huangjin-de-shishiji-bodong-lp3lcda5zskiv-dcezcugf2q93vi",
+          "show": "起朱楼宴宾客",
+          "title": "155.如何理解黄金的史诗级波动",
+          "url": "/wiki/sources/155-ruhe-lijie-huangjin-de-shishiji-bodong-lp3lcda5zskiv-dcezcugf2q93vi/"
+        },
+        {
+          "episode_file": "151.私募信贷Private Credit：加速AI建设的“天使”，还是诱发金融危机的“恶魔”？ [nlAHYbjWcrIMit8DfF7YhZPbUpm1].md",
+          "key": "151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1",
+          "show": "起朱楼宴宾客",
+          "title": "151.私募信贷Private Credit：加速AI建设的“天使”，还是诱发金融危机的“恶魔”？",
+          "url": "/wiki/sources/151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1/"
+        },
+        {
+          "episode_file": "143.如何判断一段行情是回调还是结束？｜ 三季度投资账复盘 [lnmkuiW9mFdI5tqOJZi07vNAORQZ].md",
+          "key": "143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz",
+          "show": "起朱楼宴宾客",
+          "title": "143.如何判断一段行情是回调还是结束？| 三季度投资账复盘",
+          "url": "/wiki/sources/143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz/"
+        },
+        {
+          "episode_file": "136.银行理财还能怎么买？ [llC7N0f3g2-jRz4XkOEFz1NuI5lT].md",
+          "key": "136-yinhang-licai-hai-neng-zenme-mai-llc7n0f3g2-jrz4xkoefz1nui5lt",
+          "show": "起朱楼宴宾客",
+          "title": "136.银行理财还能怎么买？",
+          "url": "/wiki/sources/136-yinhang-licai-hai-neng-zenme-mai-llc7n0f3g2-jrz4xkoefz1nui5lt/"
+        },
+        {
+          "episode_file": "135.宏观大事频发期如何保持定力？｜ 投资账2025半年度复盘 [lism1-w05rT4jdWnUn3l8wscYMlQ].md",
+          "key": "135-hongguan-dashi-pinfa-qi-ruhe-baochi-dingli-touzi-zhang-2025-banniandu-fupan-lism1-w05rt4jdwnun3l8wscymlq",
+          "show": "起朱楼宴宾客",
+          "title": "135.宏观大事频发期如何保持定力？| 投资账2025半年度复盘",
+          "url": "/wiki/sources/135-hongguan-dashi-pinfa-qi-ruhe-baochi-dingli-touzi-zhang-2025-banniandu-fupan-lism1-w05rt4jdwnun3l8wscymlq/"
+        },
+        {
+          "episode_file": "134. 投资大师系列先导篇：“他们不只赚了很多钱，更创造了理解世界的方法” [lqKjPfQc0YmgVNBoEk5JmJycWTYg].md",
+          "key": "134-touzi-dashi-xilie-xiandao-pian-tamen-bu-zhi-zhuan-le-henduo-qian-geng-chuangzao-le-lijie-shijie-de-fangfa-lqkjpfqc0ymgvnboek5jmjycwtyg",
+          "show": "起朱楼宴宾客",
+          "title": "134. 投资大师系列先导篇：“他们不只赚了很多钱，更创造了理解世界的方法”",
+          "url": "/wiki/sources/134-touzi-dashi-xilie-xiandao-pian-tamen-bu-zhi-zhuan-le-henduo-qian-geng-chuangzao-le-lijie-shijie-de-fangfa-lqkjpfqc0ymgvnboek5jmjycwtyg/"
+        },
+        {
+          "episode_file": "vol.126.公募基金还值得买吗？ [loJrZ1qCtAqzKc2RG0lQoKos-o6V].md",
+          "key": "vol-126-gongmu-jijin-hai-zhide-mai-ma-lojrz1qctaqzkc2rg0lqokos-o6v",
+          "show": "起朱楼宴宾客",
+          "title": "vol.126.公募基金还值得买吗？",
+          "url": "/wiki/sources/vol-126-gongmu-jijin-hai-zhide-mai-ma-lojrz1qctaqzkc2rg0lqokos-o6v/"
+        },
+        {
+          "episode_file": "vol.124.信息过载后如何保持冷静？ ｜ 投资账复盘 [ltPmLl0JmcW-Dl0_32QESDdwEm4L].md",
+          "key": "vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l",
+          "show": "起朱楼宴宾客",
+          "title": "vol.124.信息过载后如何保持冷静？ | 投资账复盘",
+          "url": "/wiki/sources/vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l/"
+        },
+        {
+          "episode_file": "vol.115.全球宏观和资本市场2025展望：短期问题不解决，就没有中期和长期了 [lrfL2E5nuf7_uBq-SHyBqytjHuHx].md",
+          "key": "vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx",
+          "show": "起朱楼宴宾客",
+          "title": "Vol.115 全球宏观和资本市场2025展望：短期问题不解决，就没有中期和长期了",
+          "url": "/wiki/sources/vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx/"
+        },
+        {
+          "episode_file": "tech_20260414_0414_MP_TECH_pod_128 [tech_20260414_0414_MP_TECH_pod_128].md",
+          "key": "tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "States are getting crypto-curious",
+          "url": "/wiki/sources/tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "Vol.112.一次非共识的2024反思和2025展望 ｜ 对话蓝小康X牟一凌 [lkASJTodqGMnbPYamBQOxl_Fcsyv].md",
+          "key": "vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv",
+          "show": "起朱楼宴宾客",
+          "title": "Vol.112 一次非共识的2024反思和2025展望 | 对话蓝小康X牟一凌",
+          "url": "/wiki/sources/vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv/"
+        },
+        {
+          "episode_file": "EP90 从美加墨世界杯看懂期权—华尔街的终极武器 [lmB62L64uOjzsq1uVRr0Tj81Tg1p].md",
+          "key": "ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p",
+          "show": "一劳永逸",
+          "title": "EP90 从美加墨世界杯看懂期权—华尔街的终极武器",
+          "url": "/wiki/sources/ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p/"
+        },
+        {
+          "episode_file": "E43 张潇雨、孟岩对话许哲：没有更好的生活 [lrSfby01kUOuRnlY5mlkKzI-AyLS].md",
+          "key": "e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls",
+          "show": "无人知晓",
+          "title": "E43 张潇雨、孟岩对话许哲：没有更好的生活",
+          "url": "/wiki/sources/e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls/"
+        },
+        {
+          "episode_file": "E160.一个价值投资者的 20 年回顾：求积分，求胜率，求时间 [lixen828SKnLuJulEv9eVt37MBuf].md",
+          "key": "e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf",
+          "show": "面基",
+          "title": "E160.一个价值投资者的 20 年回顾：求积分，求胜率，求时间",
+          "url": "/wiki/sources/e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf/"
+        },
+        {
+          "episode_file": "E158.资产配置与有效前沿：去找更好的，更不一样的，更贴近时代的 [luzrI_gwmqHB02k9xMf6McDsAqkC].md",
+          "key": "e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc",
+          "show": "面基",
+          "title": "E158.资产配置与有效前沿：去找更好的，更不一样的，更贴近时代的",
+          "url": "/wiki/sources/e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc/"
+        },
+        {
+          "episode_file": "E153.股神的牌局：复利公式 + 凯利公式 [lmyVi9mnlaQIB-bAspjiEHZ3EpqC].md",
+          "key": "e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc",
+          "show": "面基",
+          "title": "E153.股神的牌局：复利公式 + 凯利公式",
+          "url": "/wiki/sources/e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc/"
+        },
+        {
+          "episode_file": "EP88 穿越量化之父西蒙斯：AI会让普通人更容易赚钱，还是更难？ [lhvIGzza2uGmAYezkBrxUfKmP4L1].md",
+          "key": "ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1",
+          "show": "一劳永逸",
+          "title": "EP88 穿越量化之父西蒙斯：AI会让普通人更容易赚钱，还是更难？",
+          "url": "/wiki/sources/ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1/"
+        },
+        {
+          "episode_file": "EP38 风满楼！全球资本市场巨幅动荡，腥风血雨时刻近在咫尺 [lsZSKb0h-qqxsct4yAEBeGd-1pH9].md",
+          "key": "ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9",
+          "show": "一劳永逸",
+          "title": "EP38 风满楼！全球资本市场巨幅动荡，腥风血雨时刻近在咫尺",
+          "url": "/wiki/sources/ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9/"
+        },
+        {
+          "episode_file": "EP39 风满楼下集：全球衰退慢慢逼近，严防死守步步为营！漫聊下半年美股、美债、汇率 [lgZ718uN4sJVgXqbydFIKyXZ0hcJ].md",
+          "key": "ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj",
+          "show": "一劳永逸",
+          "title": "EP39 风满楼下集：全球衰退慢慢逼近，严防死守步步为营！漫聊下半年美股、美债、汇率",
+          "url": "/wiki/sources/ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj/"
+        },
+        {
+          "episode_file": "EP76 穿越1940：我与股票大作手利弗莫尔的最后对话 [lr0fb5YFiWoXaamdwjJgH4RjEPrG].md",
+          "key": "ep76-chuanyue-1940-wo-yu-gupiao-dazuoshou-lifumoer-de-zuihou-duihua-lr0fb5yfiwoxaamdwjjgh4rjeprg",
+          "show": "一劳永逸",
+          "title": "EP76 穿越1940：我与股票大作手利弗莫尔的最后对话",
+          "url": "/wiki/sources/ep76-chuanyue-1940-wo-yu-gupiao-dazuoshou-lifumoer-de-zuihou-duihua-lr0fb5yfiwoxaamdwjjgh4rjeprg/"
+        },
+        {
+          "episode_file": "EP57 美股动荡，东升西降？这回是走是留 [lmEiHCoQeZY-5JxQDDEOtTydSwZ5].md",
+          "key": "ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5",
+          "show": "一劳永逸",
+          "title": "EP57 美股动荡，东升西降？这回是走是留",
+          "url": "/wiki/sources/ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5/"
+        },
+        {
+          "episode_file": "EP18 都是黄泉预约客，保险买对心安乐 [lly-_Wx9zeCfmov5CbmufMynlOSw].md",
+          "key": "ep18-dou-shi-huang-quan-yu-yue-ke-baoxian-mai-dui-xin-an-le-lly-wx9zecfmov5cbmufmynlosw",
+          "show": "一劳永逸",
+          "title": "EP18 都是黄泉预约客，保险买对心安乐",
+          "url": "/wiki/sources/ep18-dou-shi-huang-quan-yu-yue-ke-baoxian-mai-dui-xin-an-le-lly-wx9zecfmov5cbmufmynlosw/"
+        },
+        {
+          "episode_file": "EP46 历次牛市众生相： 措手不及的幸福能持续多久？ [li10XWklA-3kK-zGDe2i0UxBpoT2].md",
+          "key": "ep46-lici-niushi-zhongshengxiang-cuoshoubuji-de-xingfu-neng-chixu-duojiu-li10xwkla-3kk-zgde2i0uxbpot2",
+          "show": "一劳永逸",
+          "title": "EP46 历次牛市众生相：措手不及的幸福能持续多久？",
+          "url": "/wiki/sources/ep46-lici-niushi-zhongshengxiang-cuoshoubuji-de-xingfu-neng-chixu-duojiu-li10xwkla-3kk-zgde2i0uxbpot2/"
+        },
+        {
+          "episode_file": "EP89 海外券商大地震，跨境投资新时代 [li8YA-R5CPZ3sIFDJBy73VH9-RXS].md",
+          "key": "ep89-haiwai-quanshang-da-dizhen-kuajing-touzi-xinshidai-li8ya-r5cpz3sifdjby73vh9-rxs",
+          "show": "一劳永逸",
+          "title": "EP89 海外券商大地震，跨境投资新时代",
+          "url": "/wiki/sources/ep89-haiwai-quanshang-da-dizhen-kuajing-touzi-xinshidai-li8ya-r5cpz3sifdjby73vh9-rxs/"
+        },
+        {
+          "episode_file": "EP86 面子、底子、日子：财报只讲这三件事 [lukmNLKkuXvRvv12frOSd9tEG7bJ].md",
+          "key": "ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj",
+          "show": "一劳永逸",
+          "title": "EP86 面子、底子、日子：财报只讲这三件事",
+          "url": "/wiki/sources/ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj/"
+        },
+        {
+          "episode_file": "EP80 与查理·芒格的跨时空对话：当眼睛失明时，我们看见什么？ [lh4q7VpcFqOYNSSW23DBwcerkN7i].md",
+          "key": "ep80-yu-chali-mangge-de-kuashikong-duihua-dang-yanjing-shiming-shi-women-kanjian-shenme-lh4q7vpcfqoynssw23dbwcerkn7i",
+          "show": "一劳永逸",
+          "title": "EP80 与查理·芒格的跨时空对话：当眼睛失明时，我们看见什么？",
+          "url": "/wiki/sources/ep80-yu-chali-mangge-de-kuashikong-duihua-dang-yanjing-shiming-shi-women-kanjian-shenme-lh4q7vpcfqoynssw23dbwcerkn7i/"
+        },
+        {
+          "episode_file": "EP77 四十万年薪，副业赚了三十四亿，特朗普教你如何搞钱 [lnrx8VKDjEdXbmMCWXLNwow-pCAB].md",
+          "key": "ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab",
+          "show": "一劳永逸",
+          "title": "EP77 四十万年薪，副业赚了三十四亿，特朗普教你如何搞钱",
+          "url": "/wiki/sources/ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab/"
+        },
+        {
+          "episode_file": "EP69 AI时代来临，投资不再是单机模式 [lpPXMDl3wLRRtswXWpZEkZ-qzygN].md",
+          "key": "ep69-ai-shidai-lailin-touzi-buzai-shi-danji-moshi-lppxmdl3wlrrtswxwpzekz-qzygn",
+          "show": "一劳永逸",
+          "title": "EP69 AI时代来临，投资不再是单机模式",
+          "url": "/wiki/sources/ep69-ai-shidai-lailin-touzi-buzai-shi-danji-moshi-lppxmdl3wlrrtswxwpzekz-qzygn/"
+        },
+        {
+          "episode_file": "EP64 投资路上踩坑无数，如今的我刀枪不入 [lub3Eh1mNDJ9OAJS8pS3XUVoirtm].md",
+          "key": "ep64-touzi-lushang-caikeng-wushu-rujin-de-wo-daoqiangburu-lub3eh1mndj9oajs8ps3xuvoirtm",
+          "show": "一劳永逸",
+          "title": "EP64 投资路上踩坑无数，如今的我刀枪不入",
+          "url": "/wiki/sources/ep64-touzi-lushang-caikeng-wushu-rujin-de-wo-daoqiangburu-lub3eh1mndj9oajs8ps3xuvoirtm/"
+        },
+        {
+          "episode_file": "EP28 百年金融诈骗史：阶级跨越与锒铛入狱的距离 [ltPKaW9wXzPxLxO3Mhh_0rKimGcj].md",
+          "key": "ep28-bainian-jinrong-zhapian-shi-jieji-kuayue-yu-liangdang-ruyu-de-juli-ltpkaw9wxzpxlxo3mhh-0rkimgcj",
+          "show": "一劳永逸",
+          "title": "EP28 百年金融诈骗史：阶级跨越与锒铛入狱的距离",
+          "url": "/wiki/sources/ep28-bainian-jinrong-zhapian-shi-jieji-kuayue-yu-liangdang-ruyu-de-juli-ltpkaw9wxzpxlxo3mhh-0rkimgcj/"
+        },
+        {
+          "episode_file": "EP24 房贷车贷消费贷，贷贷为奴，代代还 [lswnAA7X8BiKu9ouyV-_C1DKF439].md",
+          "key": "ep24-fangdai-chedai-xiaofeidai-daidai-weinu-daidai-hai-lswnaa7x8biku9ouyv-c1dkf439",
+          "show": "一劳永逸",
+          "title": "EP24 房贷车贷消费贷，贷贷为奴，代代还",
+          "url": "/wiki/sources/ep24-fangdai-chedai-xiaofeidai-daidai-weinu-daidai-hai-lswnaa7x8biku9ouyv-c1dkf439/"
+        },
+        {
+          "episode_file": "EP23 民国金融往事：《追风者》背后的天才少年与银行体系 [lu50LZwnfquaBFaRE58GBhWR42py].md",
+          "key": "ep23-minguo-jinrong-wangshi-zhuifengzhe-beihou-de-tiancai-shaonian-yu-yinxing-tixi-lu50lzwnfquabfare58gbhwr42py",
+          "show": "一劳永逸",
+          "title": "EP23 民国金融往事：《追风者》背后的天才少年与银行体系",
+          "url": "/wiki/sources/ep23-minguo-jinrong-wangshi-zhuifengzhe-beihou-de-tiancai-shaonian-yu-yinxing-tixi-lu50lzwnfquabfare58gbhwr42py/"
+        },
+        {
+          "episode_file": "E159.港股的特殊之处与生存之道 [lgVF0YmK0SHoLJYZV0BPTZA8WEyy].md",
+          "key": "e159-ganggu-de-teshu-zhichu-yu-shengcun-zhidao-lgvf0ymk0sholjyzv0bptza8weyy",
+          "show": "面基",
+          "title": "E159.港股的特殊之处与生存之道",
+          "url": "/wiki/sources/e159-ganggu-de-teshu-zhichu-yu-shengcun-zhidao-lgvf0ymk0sholjyzv0bptza8weyy/"
+        },
+        {
+          "episode_file": "Stock options： how to hedge an AI bubble [698efe7e7301331f1f674bd5].md",
+          "key": "stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5",
+          "show": "Economist Podcasts",
+          "title": "Stock options: how to hedge an AI bubble",
+          "url": "/wiki/sources/stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5/"
+        },
+        {
+          "episode_file": "E144.交易的艺术：不预测，统计优势，分散红利，随机波动 [llbHc5weMiNtlSLFWrtx4qDxTs_0].md",
+          "key": "e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0",
+          "show": "面基",
+          "title": "E144.交易的艺术：不预测，统计优势，分散红利，随机波动",
+          "url": "/wiki/sources/e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0/"
+        },
+        {
+          "episode_file": "E145.上钟了！4000点之上的心理按摩 [lrK6eqFQkjniHzF5pIMBek4kqm9e].md",
+          "key": "e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e",
+          "show": "面基",
+          "title": "E145.上钟了！4000点之上的心理按摩",
+          "url": "/wiki/sources/e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e/"
+        },
+        {
+          "episode_file": "泡沫的四个必要不充分条件 ｜ 对谈经济学者朱宁教授 [lo4XhK5fNW1DCoRwaCtTcSfJjr78].md",
+          "key": "paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78",
+          "show": "42章经",
+          "title": "泡沫的四个必要不充分条件 | 对谈经济学者朱宁教授",
+          "url": "/wiki/sources/paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78/"
+        },
+        {
+          "episode_file": "139. 泡泡玛特和拼多多值得投资么？ ｜ 疯投圈 (1) [139-1].md",
+          "key": "139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1",
+          "show": "疯投圈",
+          "title": "139. 泡泡玛特和拼多多值得投资么？",
+          "url": "/wiki/sources/139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1/"
+        },
+        {
+          "episode_file": "137. 从顺德猪肉婆到韩国圣水洞：那些AI无法取代的体验消费 ｜ 疯投圈 (1) [137-1].md",
+          "key": "137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1",
+          "show": "疯投圈",
+          "title": "137. 从顺德猪肉婆到韩国圣水洞：那些AI无法取代的体验消费",
+          "url": "/wiki/sources/137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1/"
+        },
+        {
+          "episode_file": "vol.101.既安全、收益又高、流动性还好的投资到底存在吗？ [lr7Xt-2CGoru2gFDbaTvBIV78iXg].md",
+          "key": "vol-101-ji-anquan-shouyi-you-gao-liudongxing-hai-hao-de-touzi-daodi-cunzai-ma-lr7xt-2cgoru2gfdbatvbiv78ixg",
+          "show": "起朱楼宴宾客",
+          "title": "vol.101.既安全、收益又高、流动性还好的投资到底存在吗？",
+          "url": "/wiki/sources/vol-101-ji-anquan-shouyi-you-gao-liudongxing-hai-hao-de-touzi-daodi-cunzai-ma-lr7xt-2cgoru2gfdbatvbiv78ixg/"
+        },
+        {
+          "episode_file": "vol.103.文艺复兴科技西蒙斯的封神之路：是量化之王，更是洞察人性的大师 [luLzVnaXDb4KlqAg-P2YYQLmiIkl].md",
+          "key": "vol-103-wenyi-fuxing-keji-ximengsi-de-fengshen-zhilu-shi-lianghua-zhiwang-gengshi-dongcha-renxing-de-dashi-lulzvnaxdb4klqag-p2yyqlmiikl",
+          "show": "起朱楼宴宾客",
+          "title": "vol.103.文艺复兴科技西蒙斯的封神之路：是量化之王，更是洞察人性的大师",
+          "url": "/wiki/sources/vol-103-wenyi-fuxing-keji-ximengsi-de-fengshen-zhilu-shi-lianghua-zhiwang-gengshi-dongcha-renxing-de-dashi-lulzvnaxdb4klqag-p2yyqlmiikl/"
+        },
+        {
+          "episode_file": "vol.104.普通人港股完全生存指南 ｜ 串台三点下班 [lmzivGi6D3gUV7WAJYjw9Cv9ZZ90].md",
+          "key": "vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90",
+          "show": "起朱楼宴宾客",
+          "title": "vol.104.普通人港股完全生存指南 | 串台三点下班",
+          "url": "/wiki/sources/vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90/"
+        },
+        {
+          "episode_file": "vol.105.如何判断一个投资组合是否适合自己？ [lmaOwq8820pA0Jyiw6z93B6HsTpe].md",
+          "key": "vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe",
+          "show": "起朱楼宴宾客",
+          "title": "vol.105.如何判断一个投资组合是否适合自己？",
+          "url": "/wiki/sources/vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe/"
+        },
+        {
+          "episode_file": "vol.109. FOF派VS指数派，关于个人养老金账户该配什么的一场辩论 [lmWScl4PPAxVEcCgTvp5oi-YpV2X].md",
+          "key": "vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x",
+          "show": "起朱楼宴宾客",
+          "title": "vol.109. FOF派VS指数派，关于个人养老金账户该配什么的一场辩论",
+          "url": "/wiki/sources/vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x/"
+        },
+        {
+          "episode_file": "vol.110.投资就是对世界观的投票｜《迈出资产配置第一步》完结篇 [lk5jkGNZVZerYmCixYlsdQdtn7F8].md",
+          "key": "vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8",
+          "show": "起朱楼宴宾客",
+          "title": "vol.110.投资就是对世界观的投票｜《迈出资产配置第一步》完结篇",
+          "url": "/wiki/sources/vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8/"
+        },
+        {
+          "episode_file": "vol.119.券商研究报告还值得读吗？ [ljPCtaPO_auonRN4TlqzvZV66qv3].md",
+          "key": "vol-119-quanshang-yanjiu-baogao-hai-zhide-du-ma-ljpctapo-auonrn4tlqzvzv66qv3",
+          "show": "起朱楼宴宾客",
+          "title": "vol.119.券商研究报告还值得读吗？",
+          "url": "/wiki/sources/vol-119-quanshang-yanjiu-baogao-hai-zhide-du-ma-ljpctapo-auonrn4tlqzvzv66qv3/"
+        },
+        {
+          "episode_file": "vol.121.从昙花一现的分级基金到风头正劲的杠杆ETF：永远不要低估人性的疯狂 [luSAGciTDOZVzm8WaUsvecVI-qmB].md",
+          "key": "vol-121-cong-tanhua-yixian-de-fenji-jijin-dao-fengtou-zhengjing-de-ganggan-etf-yongyuan-buyao-digu-renxing-de-fengkuang-lusagcitdozvzm8wausvecvi-qmb",
+          "show": "起朱楼宴宾客",
+          "title": "vol.121.从昙花一现的分级基金到风头正劲的杠杆ETF：永远不要低估人性的疯狂",
+          "url": "/wiki/sources/vol-121-cong-tanhua-yixian-de-fenji-jijin-dao-fengtou-zhengjing-de-ganggan-etf-yongyuan-buyao-digu-renxing-de-fengkuang-lusagcitdozvzm8wausvecvi-qmb/"
+        },
+        {
+          "episode_file": "EP268 毛冬x唐唐：大黄，你到底咋了！上蹿下跳的黄金和那些绝不下车的人 [lgUjs-q24FZqCUUTIbty8K0bOwBV].md",
+          "key": "ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv",
+          "show": "Talk三联",
+          "title": "EP268 毛冬x唐唐：大黄，你到底咋了！上蹿下跳的黄金和那些绝不下车的人",
+          "url": "/wiki/sources/ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv/"
+        },
+        {
+          "episode_file": "133.全球宏观和资本市场2025年中盘点：中国的三个温差和美国的三个预期差 [lhJ_qcSwiuQSKvZn-f693VtI6Xsc].md",
+          "key": "133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc",
+          "show": "起朱楼宴宾客",
+          "title": "133.全球宏观和资本市场2025年中盘点：中国的三个温差和美国的三个预期差",
+          "url": "/wiki/sources/133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc/"
+        }
+      ],
+      "updated": "2026-08-17",
+      "url": "/wiki/concepts/investmentriskmanagement/"
+    },
+    "JonathanHurst": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The $1⧸Hour Worker： Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs [42245680].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The $1/Hour Worker: Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/jonathanhurst/"
+    },
+    "KongBaoLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》895丨血腥屠刀下的骨肉情深 [llsPLYYRjXhqkPi2AiuQZUlgm6w3].md",
+          "key": "zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》895丨血腥屠刀下的骨肉情深",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/kongbaolatehan/"
+    },
+    "KongRong": {
+      "episode_count": 7,
+      "show_count": 1,
+      "source_note_count": 7,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》981丨三国最刚谋士程昱：一句话让曹操叹服 [lhLHlRMf2GVSPwyvjkxG6Kz44FTH].md",
+          "key": "zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》981丨三国最刚谋士程昱：一句话让曹操叹服",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》982丨扒一扒刘备入徐背后的利益之争 [ljAjdC95XTyLHkn5TeEFz26Yyyz1].md",
+          "key": "zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》982丨扒一扒刘备入徐背后的利益之争",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1007丨从神童到覆亡：孔融真实面目曝光！ [lkiLjJ4yVl5fHSlRC9gcXuDXXKLT].md",
+          "key": "zizhi-tongjian-hanji-1007-cong-shentong-dao-fuwang-kongrong-zhenshi-mianmu-puguang-lkiljj4yvl5fhslrc9gcxudxxklt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1007丨从神童到覆亡：孔融真实面目曝光！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1007-cong-shentong-dao-fuwang-kongrong-zhenshi-mianmu-puguang-lkiljj4yvl5fhslrc9gcxudxxklt/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1011丨祢衡之死：最具悲剧色彩的借刀杀人 [ltRzPchWDfcyp4NTmUm9Giu-5mVa].md",
+          "key": "zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1011丨祢衡之死：最具悲剧色彩的借刀杀人",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1016丨三国乱世里，陈珪家族的命运抉择 [ltUckdCxpYxK-XmzP8Rt_2gJfZcs].md",
+          "key": "zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1016丨三国乱世里，陈珪家族的命运抉择",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1020丨三国败家子袁术，如何把好牌打得稀烂？ [lhwR9hFMANr_zkTLEUfy3kvl38u0].md",
+          "key": "zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1020丨三国败家子袁术，如何把好牌打得稀烂？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》895丨血腥屠刀下的骨肉情深 [llsPLYYRjXhqkPi2AiuQZUlgm6w3].md",
+          "key": "zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》895丨血腥屠刀下的骨肉情深",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/kongrong/"
+    },
+    "KongRongMother": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》895丨血腥屠刀下的骨肉情深 [llsPLYYRjXhqkPi2AiuQZUlgm6w3].md",
+          "key": "zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》895丨血腥屠刀下的骨肉情深",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/kongrongmother/"
+    },
+    "LoyaltyCollateralDilemma": {
+      "episode_count": 7,
+      "show_count": 1,
+      "source_note_count": 7,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》910丨社会生存，我劝你多点城府 [lp2fvuYb8AMPzoEYR7Znztnr0fgK].md",
+          "key": "zizhi-tongjian-hanji-910-shehui-shengcun-wo-quan-ni-duodian-chengfu-lp2fvuyb8ampzoeyr7znztnr0fgk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》910丨社会生存，我劝你多点城府",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-910-shehui-shengcun-wo-quan-ni-duodian-chengfu-lp2fvuyb8ampzoeyr7znztnr0fgk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》978丨孤身劝退数万敌军，他怎么做到的？ [lhgD8vSvUAf5oi9aEfh0wxABmzwV].md",
+          "key": "zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》978丨孤身劝退数万敌军，他怎么做到的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》996丨乱世臧洪：讲义气的人，下场最憋屈？ [lgPA-m6h6BvHyinTNUj6zTOpUi76].md",
+          "key": "zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》996丨乱世臧洪：讲义气的人，下场最憋屈？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》163｜刘邦手下谋士如何被韩信内卷惨死？ [lubinu6HOIHU59kNMLixMaRYhnq7].md",
+          "key": "zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》163｜刘邦手下谋士如何被韩信内卷惨死？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》148-2｜烹了王陵母亲 项羽杀人诛心 [ljyV8Bow4Rj1L5ThS3zNx2eVgVtm].md",
+          "key": "zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》148-2｜烹了王陵母亲 项羽杀人诛心",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》72丨什么样的人 才是忠贞之士？ [logxEgNQeXGC7z-lOdw6TR6_8F28].md",
+          "key": "zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》72丨什么样的人 才是忠贞之士？",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》895丨血腥屠刀下的骨肉情深 [llsPLYYRjXhqkPi2AiuQZUlgm6w3].md",
+          "key": "zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》895丨血腥屠刀下的骨肉情深",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/loyaltycollateraldilemma/"
+    },
+    "Mianji": {
+      "episode_count": 19,
+      "show_count": 1,
+      "source_note_count": 19,
+      "sources": [
+        {
+          "episode_file": "山上山下皆人间，无事逍遥即神仙 [lhJIgUq74flhaTdXnBrnzhjg_ACP].md",
+          "key": "shan-shang-shan-xia-jie-renjian-wushi-xiaoyao-ji-shenxian-lhjiguq74flhatdxnbrnzhjg-acp",
+          "show": "面基",
+          "title": "山上山下皆人间，无事逍遥即神仙",
+          "url": "/wiki/sources/shan-shang-shan-xia-jie-renjian-wushi-xiaoyao-ji-shenxian-lhjiguq74flhatdxnbrnzhjg-acp/"
+        },
+        {
+          "episode_file": "激发动物精神，创造更多机会 [lnDyFDMtGo-9l5cR8OY82t1XnLFe].md",
+          "key": "jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe",
+          "show": "面基",
+          "title": "激发动物精神，创造更多机会",
+          "url": "/wiki/sources/jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe/"
+        },
+        {
+          "episode_file": "如此打工 30 年：流水线上的面孔与时间 [lodsUKTWtcFXnhmzWUM5IeSbZbmE].md",
+          "key": "ruci-dagong-30-nian-liushuixian-shang-de-miankong-yu-shijian-lodsuktwtcfxnhmzwum5iesbzbme",
+          "show": "面基",
+          "title": "如此打工 30 年：流水线上的面孔与时间",
+          "url": "/wiki/sources/ruci-dagong-30-nian-liushuixian-shang-de-miankong-yu-shijian-lodsuktwtcfxnhmzwum5iesbzbme/"
+        },
+        {
+          "episode_file": "A股的春夏秋冬：种树、种粮、种菜 [ljzicMfBl9GuXoqmCDd8iKdn6JBX].md",
+          "key": "a-gu-de-chun-xia-qiu-dong-zhongshu-zhongliang-zhongcai-ljzicmfbl9guxoqmcdd8ikdn6jbx",
+          "show": "面基",
+          "title": "A股的春夏秋冬：种树、种粮、种菜",
+          "url": "/wiki/sources/a-gu-de-chun-xia-qiu-dong-zhongshu-zhongliang-zhongcai-ljzicmfbl9guxoqmcdd8ikdn6jbx/"
+        },
+        {
+          "episode_file": "所有净值曲线背后都是人，正态分布的普通人 [lsNRKqHtKTjLmrscOw2_mt2Df0yQ].md",
+          "key": "suoyou-jingzhi-quxian-beihou-doushi-ren-zhengtai-fenbu-de-putongren-lsnrkqhtktjlmrscow2-mt2df0yq",
+          "show": "面基",
+          "title": "所有净值曲线背后都是人，正态分布的普通人",
+          "url": "/wiki/sources/suoyou-jingzhi-quxian-beihou-doushi-ren-zhengtai-fenbu-de-putongren-lsnrkqhtktjlmrscow2-mt2df0yq/"
+        },
+        {
+          "episode_file": "百万个景观社会：听说你也想当主播？ [lgd0YapCLwVsessg7XnhaarPYIWy].md",
+          "key": "baiwan-ge-jingguan-shehui-tingshuo-ni-ye-xiang-dang-zhubo-lgd0yapclwvsessg7xnhaarpyiwy",
+          "show": "面基",
+          "title": "百万个景观社会：听说你也想当主播？",
+          "url": "/wiki/sources/baiwan-ge-jingguan-shehui-tingshuo-ni-ye-xiang-dang-zhubo-lgd0yapclwvsessg7xnhaarpyiwy/"
+        },
+        {
+          "episode_file": "E145.上钟了！4000点之上的心理按摩 [lrK6eqFQkjniHzF5pIMBek4kqm9e].md",
+          "key": "e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e",
+          "show": "面基",
+          "title": "E145.上钟了！4000点之上的心理按摩",
+          "url": "/wiki/sources/e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e/"
+        },
+        {
+          "episode_file": "E144.交易的艺术：不预测，统计优势，分散红利，随机波动 [llbHc5weMiNtlSLFWrtx4qDxTs_0].md",
+          "key": "e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0",
+          "show": "面基",
+          "title": "E144.交易的艺术：不预测，统计优势，分散红利，随机波动",
+          "url": "/wiki/sources/e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0/"
+        },
+        {
+          "episode_file": "E153.股神的牌局：复利公式 + 凯利公式 [lmyVi9mnlaQIB-bAspjiEHZ3EpqC].md",
+          "key": "e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc",
+          "show": "面基",
+          "title": "E153.股神的牌局：复利公式 + 凯利公式",
+          "url": "/wiki/sources/e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc/"
+        },
+        {
+          "episode_file": "E155.似乎没什么人再提「AI 泡沫论」了 [lkon87VgPkdkQ9Ll_fG0eaBnUubF].md",
+          "key": "e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf",
+          "show": "面基",
+          "title": "E155.似乎没什么人再提「AI 泡沫论」了",
+          "url": "/wiki/sources/e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf/"
+        },
+        {
+          "episode_file": "E158.资产配置与有效前沿：去找更好的，更不一样的，更贴近时代的 [luzrI_gwmqHB02k9xMf6McDsAqkC].md",
+          "key": "e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc",
+          "show": "面基",
+          "title": "E158.资产配置与有效前沿：去找更好的，更不一样的，更贴近时代的",
+          "url": "/wiki/sources/e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc/"
+        },
+        {
+          "episode_file": "E159.港股的特殊之处与生存之道 [lgVF0YmK0SHoLJYZV0BPTZA8WEyy].md",
+          "key": "e159-ganggu-de-teshu-zhichu-yu-shengcun-zhidao-lgvf0ymk0sholjyzv0bptza8weyy",
+          "show": "面基",
+          "title": "E159.港股的特殊之处与生存之道",
+          "url": "/wiki/sources/e159-ganggu-de-teshu-zhichu-yu-shengcun-zhidao-lgvf0ymk0sholjyzv0bptza8weyy/"
+        },
+        {
+          "episode_file": "E160.一个价值投资者的 20 年回顾：求积分，求胜率，求时间 [lixen828SKnLuJulEv9eVt37MBuf].md",
+          "key": "e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf",
+          "show": "面基",
+          "title": "E160.一个价值投资者的 20 年回顾：求积分，求胜率，求时间",
+          "url": "/wiki/sources/e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf/"
+        },
+        {
+          "episode_file": "E161.脱离理性暴政，去尽情游戏吧！ [lppJQRfTyLxA6XUdZlHgBk1iYM6f].md",
+          "key": "e161-tuoli-lixing-baozheng-qu-jinqing-youxi-ba-lppjqrftylxa6xudzlhgbk1iym6f",
+          "show": "面基",
+          "title": "E161.脱离理性暴政，去尽情游戏吧！",
+          "url": "/wiki/sources/e161-tuoli-lixing-baozheng-qu-jinqing-youxi-ba-lppjqrftylxa6xudzlhgbk1iym6f/"
+        },
+        {
+          "episode_file": "E162.康波周期中的AI：新技术总在萧条期爆发，bad times make good people [limyZCH9lA0bBwE8y9GEOfgQARGL].md",
+          "key": "e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl",
+          "show": "面基",
+          "title": "E162.康波周期中的AI：新技术总在萧条期爆发，bad times make good people",
+          "url": "/wiki/sources/e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl/"
+        },
+        {
+          "episode_file": "E163.要完了？不！是要玩了！论养AI的心态与习惯 [lqeZCpNw8p6CwHjr2wcw68X4UpHB].md",
+          "key": "e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb",
+          "show": "面基",
+          "title": "E163.要完了？不！是要玩了！论养AI的心态与习惯",
+          "url": "/wiki/sources/e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb/"
+        },
+        {
+          "episode_file": "《大厂小民》：我们必须克制对系统与上岸的期待 [lps_6oqp9lJyFW6WPfkUTCks6DGF].md",
+          "key": "da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf",
+          "show": "面基",
+          "title": "《大厂小民》：我们必须克制对系统与上岸的期待",
+          "url": "/wiki/sources/da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf/"
+        },
+        {
+          "episode_file": "读书，就是在读一个人的 F [li4Qt9Zs2BsS4tKLNJ3Yg9y_quo1].md",
+          "key": "dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1",
+          "show": "面基",
+          "title": "读书，就是在读一个人的 F",
+          "url": "/wiki/sources/dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1/"
+        },
+        {
+          "episode_file": "中年三账户：现金流、肌肉、睡眠 [lnyOmrU5v2YZO1-oTUyw2MDJ_VaE].md",
+          "key": "zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae",
+          "show": "面基",
+          "title": "中年三账户：现金流、肌肉、睡眠",
+          "url": "/wiki/sources/zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae/"
+        }
+      ],
+      "updated": "2026-08-25",
+      "url": "/wiki/entities/mianji/"
+    },
+    "ModelContextProtocol": {
+      "episode_count": 6,
+      "show_count": 6,
+      "source_note_count": 6,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Microsoft CEO Satya Nadella on AI’s Business Revolution： What Happens to SaaS, OpenAI, and Microsoft？ ｜ LIVE from Davos [39818140].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Microsoft CEO Satya Nadella on AI's Business Revolution: What Happens to SaaS, OpenAI, and Microsoft? | LIVE from Davos",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140/"
+        },
+        {
+          "episode_file": "EP119 对话刘可凡：用 try-catch-finally，给独立做产品的内耗写个处理流程 🐛 [ludjc3AB_JBwpCI6TPAAjTFfsBLx].md",
+          "key": "ep119-duihua-liu-kefan-yong-try-catch-finally-gei-duli-zuo-chanpin-de-neihao-xie-ge-chuli-liucheng-ludjc3ab-jbwpci6tpaajtffsblx",
+          "show": "硬地骇客",
+          "title": "EP119 对话刘可凡：用 try-catch-finally，给独立做产品的内耗写个处理流程 🐛",
+          "url": "/wiki/sources/ep119-duihua-liu-kefan-yong-try-catch-finally-gei-duli-zuo-chanpin-de-neihao-xie-ge-chuli-liucheng-ludjc3ab-jbwpci6tpaajtffsblx/"
+        },
+        {
+          "episode_file": "E155.似乎没什么人再提「AI 泡沫论」了 [lkon87VgPkdkQ9Ll_fG0eaBnUubF].md",
+          "key": "e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf",
+          "show": "面基",
+          "title": "E155.似乎没什么人再提「AI 泡沫论」了",
+          "url": "/wiki/sources/e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf/"
+        },
+        {
+          "episode_file": "当可靠的代码变成了偶尔发疯的OpenClaw，我们未来的工作范式变迁 ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [当可靠的代码变成了偶尔发疯的openclaw，我们未来的工-1].md",
+          "key": "dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian",
+          "show": "科技乱炖",
+          "title": "当可靠的代码变成了偶尔发疯的OpenClaw，我们未来的工作范式变迁",
+          "url": "/wiki/sources/dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian/"
+        },
+        {
+          "episode_file": "关于 AI、开源、商业化与全球化的经验、教训和方法论 ｜ 对谈 PingCAP CTO 东旭 [ljw8Va0EvOBhz4OJzRULqZJvXW5-].md",
+          "key": "guanyu-ai-kaiyuan-shangyehua-yu-quanqiuhua-de-jingyan-jiaoxun-he-fangfalun-duitan-pingcap-cto-dongxu-ljw8va0evobhz4ojzrulqzjvxw5",
+          "show": "42章经",
+          "title": "关于 AI、开源、商业化与全球化的经验、教训和方法论 | 对谈 PingCAP CTO 东旭",
+          "url": "/wiki/sources/guanyu-ai-kaiyuan-shangyehua-yu-quanqiuhua-de-jingyan-jiaoxun-he-fangfalun-duitan-pingcap-cto-dongxu-ljw8va0evobhz4ojzrulqzjvxw5/"
+        },
+        {
+          "episode_file": "为什么硅谷开始重新定义「AI 记忆」｜ S10E20 [a70c41aa-41ae-488d-a6e2-63c3de5b9ec3].md",
+          "key": "weishenme-guigu-kaishi-zhongxin-dingyi-ai-jiyi-s10e20-a70c41aa-41ae-488d-a6e2-63c3de5b9ec3",
+          "show": "What's Next｜科技早知道",
+          "title": "为什么硅谷开始重新定义「AI 记忆」｜ S10E20",
+          "url": "/wiki/sources/weishenme-guigu-kaishi-zhongxin-dingyi-ai-jiyi-s10e20-a70c41aa-41ae-488d-a6e2-63c3de5b9ec3/"
+        }
+      ],
+      "updated": "2026-08-18",
+      "url": "/wiki/concepts/modelcontextprotocol/"
+    },
+    "NeoRobot": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The $1⧸Hour Worker： Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs [42245680].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The $1/Hour Worker: Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/neorobot/"
+    },
+    "NonAlgorithmicCapabilities": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "EP275 Token 通胀时代，谁还能“不可替代”？丨“人在中流”特别策划01 [lgNagVELl4JyVv7EejrCgNO2Xjsr].md",
+          "key": "ep275-token-tongzhang-shidai-shui-hai-neng-bu-ke-tidai-renzai-zhongliu-tebie-cehua-01-lgnagvell4jyvv7eejrcgno2xjsr",
+          "show": "Talk三联",
+          "title": "EP275 Token 通胀时代，谁还能“不可替代”？丨“人在中流”特别策划01",
+          "url": "/wiki/sources/ep275-token-tongzhang-shidai-shui-hai-neng-bu-ke-tidai-renzai-zhongliu-tebie-cehua-01-lgnagvell4jyvv7eejrcgno2xjsr/"
+        },
+        {
+          "episode_file": "EP278 AI时代不卷专业，卷什么？丨“人在中流”特别策划02 [lhVSBrOPwCLOUWShE-2_FcZWnWZz].md",
+          "key": "ep278-ai-shidai-bu-juan-zhuanye-juan-shenme-renzai-zhongliu-tebie-cehua-02-lhvsbropwclouwshe-2-fczwnwzz",
+          "show": "Talk三联",
+          "title": "EP278 AI时代不卷专业，卷什么？丨“人在中流”特别策划02",
+          "url": "/wiki/sources/ep278-ai-shidai-bu-juan-zhuanye-juan-shenme-renzai-zhongliu-tebie-cehua-02-lhvsbropwclouwshe-2-fczwnwzz/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/nonalgorithmiccapabilities/"
+    },
+    "OneX": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The $1⧸Hour Worker： Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs [42245680].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The $1/Hour Worker: Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/onex/"
+    },
+    "OpenSourceCommunityCommercialization": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "E247｜对话盛颖：xAI，Infra的浪漫，SGLang，开源，平权与“甄嬛传” [6c9d13b1-ac9a-4a7a-a35b-99bfb8374668].md",
+          "key": "e247-duihua-shengying-xai-infra-de-langman-sglang-kaiyuan-pingquan-yu-zhenhuanchuan-6c9d13b1-ac9a-4a7a-a35b-99bfb8374668",
+          "show": "硅谷101",
+          "title": "E247｜对话盛颖：xAI，Infra的浪漫，SGLang，开源，平权与“甄嬛传”",
+          "url": "/wiki/sources/e247-duihua-shengying-xai-infra-de-langman-sglang-kaiyuan-pingquan-yu-zhenhuanchuan-6c9d13b1-ac9a-4a7a-a35b-99bfb8374668/"
+        },
+        {
+          "episode_file": "那个不穿西装的程序员，扯出了国产操作系统二十年秘史 ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [那个不穿西装的程序员，扯出了国产操作系统二十-1].md",
+          "key": "nage-bu-chuan-xizhuang-de-chengxuyuan-chechule-guochan-caozuoxitong-ershi-nian-mishi-keji-luandun",
+          "show": "科技乱炖",
+          "title": "那个不穿西装的程序员，扯出了国产操作系统二十年秘史",
+          "url": "/wiki/sources/nage-bu-chuan-xizhuang-de-chengxuyuan-chechule-guochan-caozuoxitong-ershi-nian-mishi-keji-luandun/"
+        },
+        {
+          "episode_file": "关于 AI、开源、商业化与全球化的经验、教训和方法论 ｜ 对谈 PingCAP CTO 东旭 [ljw8Va0EvOBhz4OJzRULqZJvXW5-].md",
+          "key": "guanyu-ai-kaiyuan-shangyehua-yu-quanqiuhua-de-jingyan-jiaoxun-he-fangfalun-duitan-pingcap-cto-dongxu-ljw8va0evobhz4ojzrulqzjvxw5",
+          "show": "42章经",
+          "title": "关于 AI、开源、商业化与全球化的经验、教训和方法论 | 对谈 PingCAP CTO 东旭",
+          "url": "/wiki/sources/guanyu-ai-kaiyuan-shangyehua-yu-quanqiuhua-de-jingyan-jiaoxun-he-fangfalun-duitan-pingcap-cto-dongxu-ljw8va0evobhz4ojzrulqzjvxw5/"
+        }
+      ],
+      "updated": "2026-08-08",
+      "url": "/wiki/concepts/opensourcecommunitycommercialization/"
+    },
+    "PeterFankhauser": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The $1⧸Hour Worker： Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs [42245680].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The $1/Hour Worker: Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/peterfankhauser/"
+    },
+    "PhysicalAIHardTakeoff": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The $1⧸Hour Worker： Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs [42245680].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The $1/Hour Worker: Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/physicalaihardtakeoff/"
+    },
+    "RescueReciprocityCommandTrust": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1030丨手握好牌，公孙瓒为何打得稀烂？ [lpKntYOv4viqYzGXgcUjN36qHv8_].md",
+          "key": "zizhi-tongjian-hanji-1030-shouwo-hao-pai-gongsunzan-weihe-da-de-xilan-lpkntyov4viqyzgxgcujn36qhv8",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1030丨手握好牌，公孙瓒为何打得稀烂？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1030-shouwo-hao-pai-gongsunzan-weihe-da-de-xilan-lpkntyov4viqyzgxgcujn36qhv8/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1031丨公孙瓒之死：从边疆战神到困兽自焚 [lmQoechCCFWMfpMbdX8_tJMnM3jz].md",
+          "key": "zizhi-tongjian-hanji-1031-gongsunzan-zhisi-cong-bianjiang-zhanshen-dao-kunshou-zifen-lmqoechccfwmfpmbdx8-tjmnm3jz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1031丨公孙瓒之死：从边疆战神到困兽自焚",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1031-gongsunzan-zhisi-cong-bianjiang-zhanshen-dao-kunshou-zifen-lmqoechccfwmfpmbdx8-tjmnm3jz/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/rescuereciprocitycommandtrust/"
+    },
+    "RobotAsAService": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The $1⧸Hour Worker： Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs [42245680].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The $1/Hour Worker: Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/robotasaservice/"
+    },
+    "RobotControlDataScarcity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The $1⧸Hour Worker： Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs [42245680].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The $1/Hour Worker: Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/robotcontroldatascarcity/"
+    },
+    "RobotSovereigntyAndDataTrust": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The $1⧸Hour Worker： Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs [42245680].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The $1/Hour Worker: Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/robotsovereigntyanddatatrust/"
+    },
+    "RobotTeleoperationAndRemoteTakeover": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "【具身季报 26Q2】世界模型大风不停，和不想被贴标签的人 (1) [170-1].md",
+          "key": "jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1",
+          "show": "晚点聊 LateTalk",
+          "title": "170: 【具身季报 26Q2】世界模型大风不停，和不想被贴标签的人",
+          "url": "/wiki/sources/jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1/"
+        },
+        {
+          "episode_file": "AI 不只比智商，WAIC 和 Kimi K3 透露了什么新竞争 ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [ai-不只比智商，waic-和-kimi-k3-透露了什么新竞争-1].md",
+          "key": "ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1",
+          "show": "科技乱炖",
+          "title": "AI 不只比智商，WAIC 和 Kimi K3 透露了什么新竞争",
+          "url": "/wiki/sources/ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The $1⧸Hour Worker： Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs [42245680].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The $1/Hour Worker: Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/robotteleoperationandremotetakeover/"
+    },
+    "ShentuPanLateHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》949丨历史上的董卓到底多残暴？ [lk6IdoGWMC54Nk1Sdfc5wOnYVGbB].md",
+          "key": "zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》949丨历史上的董卓到底多残暴？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》896丨假如乱世降临，你该如何自保？ [lsUvt_KSP_gfGGC9RIqQOVJSWkG_].md",
+          "key": "zizhi-tongjian-hanji-896-jiaru-luanshi-jianglin-ni-gai-ruhe-zibao-lsuvt-ksp-gfggc9riqqovjswkg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》896丨假如乱世降临，你该如何自保？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-896-jiaru-luanshi-jianglin-ni-gai-ruhe-zibao-lsuvt-ksp-gfggc9riqqovjswkg/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/shentupanlatehan/"
+    },
+    "SpotRobot": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The $1⧸Hour Worker： Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs [42245680].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The $1/Hour Worker: Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/spotrobot/"
+    },
+    "TanSitong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》895丨血腥屠刀下的骨肉情深 [llsPLYYRjXhqkPi2AiuQZUlgm6w3].md",
+          "key": "zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》895丨血腥屠刀下的骨肉情深",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/tansitong/"
+    },
+    "TianKaiLateHan": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》969丨袁氏兄弟内斗，谁能捡漏？ [lsgj6sewO35jPSGFm_kOIvIJtr6r].md",
+          "key": "zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》969丨袁氏兄弟内斗，谁能捡漏？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》973丨长平观之战：生死之敌战后竟重归于好？ [lgAZc9DEWFaYb8QnknCFkfa12YeT].md",
+          "key": "zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》973丨长平观之战：生死之敌战后竟重归于好？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1031丨公孙瓒之死：从边疆战神到困兽自焚 [lmQoechCCFWMfpMbdX8_tJMnM3jz].md",
+          "key": "zizhi-tongjian-hanji-1031-gongsunzan-zhisi-cong-bianjiang-zhanshen-dao-kunshou-zifen-lmqoechccfwmfpmbdx8-tjmnm3jz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1031丨公孙瓒之死：从边疆战神到困兽自焚",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1031-gongsunzan-zhisi-cong-bianjiang-zhanshen-dao-kunshou-zifen-lmqoechccfwmfpmbdx8-tjmnm3jz/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/tiankailatehan/"
+    },
+    "WangmenTouzhi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》895丨血腥屠刀下的骨肉情深 [llsPLYYRjXhqkPi2AiuQZUlgm6w3].md",
+          "key": "zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》895丨血腥屠刀下的骨肉情深",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/wangmentouzhi/"
+    },
+    "WuLaoshiSanlianEditor": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "EP278 AI时代不卷专业，卷什么？丨“人在中流”特别策划02 [lhVSBrOPwCLOUWShE-2_FcZWnWZz].md",
+          "key": "ep278-ai-shidai-bu-juan-zhuanye-juan-shenme-renzai-zhongliu-tebie-cehua-02-lhvsbropwclouwshe-2-fczwnwzz",
+          "show": "Talk三联",
+          "title": "EP278 AI时代不卷专业，卷什么？丨“人在中流”特别策划02",
+          "url": "/wiki/sources/ep278-ai-shidai-bu-juan-zhuanye-juan-shenme-renzai-zhongliu-tebie-cehua-02-lhvsbropwclouwshe-2-fczwnwzz/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/wulaoshisanlianeditor/"
+    },
+    "XiaFuLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》895丨血腥屠刀下的骨肉情深 [llsPLYYRjXhqkPi2AiuQZUlgm6w3].md",
+          "key": "zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》895丨血腥屠刀下的骨肉情深",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/xiafulatehan/"
+    },
+    "YijingFortress": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1030丨手握好牌，公孙瓒为何打得稀烂？ [lpKntYOv4viqYzGXgcUjN36qHv8_].md",
+          "key": "zizhi-tongjian-hanji-1030-shouwo-hao-pai-gongsunzan-weihe-da-de-xilan-lpkntyov4viqyzgxgcujn36qhv8",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1030丨手握好牌，公孙瓒为何打得稀烂？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1030-shouwo-hao-pai-gongsunzan-weihe-da-de-xilan-lpkntyov4viqyzgxgcujn36qhv8/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》998丨白马将军公孙瓒：从三千白马到困守孤城 [lp-1L2GvBsBFnyZNUTDGhxwwvqNA].md",
+          "key": "zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》998丨白马将军公孙瓒：从三千白马到困守孤城",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1031丨公孙瓒之死：从边疆战神到困兽自焚 [lmQoechCCFWMfpMbdX8_tJMnM3jz].md",
+          "key": "zizhi-tongjian-hanji-1031-gongsunzan-zhisi-cong-bianjiang-zhanshen-dao-kunshou-zifen-lmqoechccfwmfpmbdx8-tjmnm3jz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1031丨公孙瓒之死：从边疆战神到困兽自焚",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1031-gongsunzan-zhisi-cong-bianjiang-zhanshen-dao-kunshou-zifen-lmqoechccfwmfpmbdx8-tjmnm3jz/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/yijingfortress/"
+    },
+    "YuanHongLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》896丨假如乱世降临，你该如何自保？ [lsUvt_KSP_gfGGC9RIqQOVJSWkG_].md",
+          "key": "zizhi-tongjian-hanji-896-jiaru-luanshi-jianglin-ni-gai-ruhe-zibao-lsuvt-ksp-gfggc9riqqovjswkg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》896丨假如乱世降临，你该如何自保？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-896-jiaru-luanshi-jianglin-ni-gai-ruhe-zibao-lsuvt-ksp-gfggc9riqqovjswkg/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/yuanhonglatehan/"
+    },
+    "ZhangJianLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》895丨血腥屠刀下的骨肉情深 [llsPLYYRjXhqkPi2AiuQZUlgm6w3].md",
+          "key": "zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》895丨血腥屠刀下的骨肉情深",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/zhangjianlatehan/"
+    }
+  },
   "version": 1
 }

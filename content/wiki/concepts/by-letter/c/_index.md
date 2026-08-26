@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 5506
+wiki_total_pages: 5517
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1493,6 +1493,9 @@ wiki_pages:
   - key: "CrisisStakeholderLeadership"
     title: "Crisis Stakeholder Leadership"
     url: "/wiki/concepts/crisisstakeholderleadership/"
+  - key: "CrisisWithdrawalSelfProtection"
+    title: "Crisis Withdrawal Self-Protection / 危局抽身自保"
+    url: "/wiki/concepts/crisiswithdrawalselfprotection/"
   - key: "CrisisFirstMilitaryDiscipline"
     title: "Crisis-First Military Discipline / 临危先务军纪"
     url: "/wiki/concepts/crisisfirstmilitarydiscipline/"

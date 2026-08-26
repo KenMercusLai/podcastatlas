@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 5506
+wiki_total_pages: 5517
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -621,7 +621,7 @@ wiki_pages:
     title: "Fortified Attrition Patience / 坚壁耗敌式耐心"
     url: "/wiki/concepts/fortifiedattritionpatience/"
   - key: "FortressSecurityIllusion"
-    title: "Fortress Security Illusion / 筑城避世安全幻觉"
+    title: "Fortress Security Illusion"
     url: "/wiki/concepts/fortresssecurityillusion/"
   - key: "FortuneMisfortuneReversal"
     title: "Fortune-Misfortune Reversal / 塞翁失马式福祸反转"
@@ -911,6 +911,9 @@ wiki_pages:
   - key: "FrontlineAIEnablement"
     title: "Frontline AI Enablement"
     url: "/wiki/concepts/frontlineaienablement/"
+  - key: "FugitiveShelterCollateralRisk"
+    title: "Fugitive Shelter Collateral Risk / 收留逃亡者的牵连风险"
+    url: "/wiki/concepts/fugitivesheltercollateralrisk/"
   - key: "FugitiveTemporality"
     title: "Fugitive Temporality"
     url: "/wiki/concepts/fugitivetemporality/"

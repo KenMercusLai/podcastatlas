@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 5506
+wiki_total_pages: 5517
 wiki_pages:
   - key: "ICEWorkforceExpansion"
     title: "ICE Workforce Expansion"
@@ -218,6 +218,9 @@ wiki_pages:
   - key: "IndustrialControlSystemCyberRisk"
     title: "Industrial Control System Cyber Risk"
     url: "/wiki/concepts/industrialcontrolsystemcyberrisk/"
+  - key: "IndustrialInspectionRobotics"
+    title: "Industrial Inspection Robotics"
+    url: "/wiki/concepts/industrialinspectionrobotics/"
   - key: "IndustrialLadder"
     title: "Industrial Ladder"
     url: "/wiki/concepts/industrialladder/"
