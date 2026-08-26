@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 7828
+wiki_total_pages: 7829
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -758,6 +758,9 @@ wiki_pages:
   - key: "DongWuyangLateHan"
     title: "东武阳 / Dong Wuyang (Late Han)"
     url: "/wiki/entities/dongwuyanglatehan/"
+  - key: "DongqiangLateHan"
+    title: "东羌 / Eastern Qiang (late Han)"
+    url: "/wiki/entities/dongqianglatehan/"
   - key: "Donghu"
     title: "东胡 / Donghu"
     url: "/wiki/entities/donghu/"

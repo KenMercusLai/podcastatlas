@@ -703,6 +703,43 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/actionableorganizationalvalues/"
     },
+    "AdversitySilenceDiscipline": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》912丨秘密到底该不该说出口？ [lhSgiPxwC17PaHc-R6Jl7xDyrS2A].md",
+          "key": "zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》912丨秘密到底该不该说出口？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》913丨看懂“塞翁失马”，悟透人生福祸 [lkFbrwTGsJmA85BZugqONZK3Hy4g].md",
+          "key": "zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》913丨看懂“塞翁失马”，悟透人生福祸",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》918丨事情不顺利时，为什么要闭嘴？ [lh-tBOhgO96qw8bJqu3x1Yp6CZV5].md",
+          "key": "zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》918丨事情不顺利时，为什么要闭嘴？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》892丨修止语，古人有什么捷径？ [lnObbkp6mJ4xyB9jEuqSiUQogcT-].md",
+          "key": "zizhi-tongjian-hanji-892-xiu-zhiyu-guren-youshenme-jiejing-lnobbkp6mj4xyb9jeuqsiuqogct",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》892丨修止语，古人有什么捷径？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-892-xiu-zhiyu-guren-youshenme-jiejing-lnobbkp6mj4xyb9jeuqsiuqogct/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/adversitysilencediscipline/"
+    },
     "AdviceFramingUnderHierarchy": {
       "episode_count": 2,
       "show_count": 1,
@@ -1814,6 +1851,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/domesticbagsupplychainupgrade/"
     },
+    "DongqiangLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》892丨修止语，古人有什么捷径？ [lnObbkp6mJ4xyB9jEuqSiUQogcT-].md",
+          "key": "zizhi-tongjian-hanji-892-xiu-zhiyu-guren-youshenme-jiejing-lnobbkp6mj4xyb9jeuqsiuqogct",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》892丨修止语，古人有什么捷径？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-892-xiu-zhiyu-guren-youshenme-jiejing-lnobbkp6mj4xyb9jeuqsiuqogct/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/dongqianglatehan/"
+    },
     "DopamineWantingLoop": {
       "episode_count": 1,
       "show_count": 1,
@@ -1893,6 +1946,64 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/duxilatehan/"
+    },
+    "DuanJiongLateHan": {
+      "episode_count": 7,
+      "show_count": 1,
+      "source_note_count": 7,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》897丨职场必读！什么才叫领导力？ [lvRRMkSykaZLSb7W8aBbdmNqfzQQ].md",
+          "key": "zizhi-tongjian-hanji-897-zhichang-bidu-shenme-cai-jiao-lingdaoli-lvrrmksykazlsb7w8abbdmnqfzqq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》897丨职场必读！什么才叫领导力？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-897-zhichang-bidu-shenme-cai-jiao-lingdaoli-lvrrmksykazlsb7w8abbdmnqfzqq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》902丨控制情绪是人生必修课 [ljYNYlVdLSDTjF4ES9jmIlAV863b].md",
+          "key": "zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》902丨控制情绪是人生必修课",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》903丨为什么劝你冤冤相报何时了？ [loKpt93MUc8kasvN44VgsjKI8boM].md",
+          "key": "zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》903丨为什么劝你冤冤相报何时了？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》904丨觉照内观：获得心灵大自由的秘诀 [lopN_oKbzr4LJvqmgzCsb7qAv0n2].md",
+          "key": "zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》904丨觉照内观：获得心灵大自由的秘诀",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》915丨世上没有真正的口误，这话对吗？ [lgXCODJxnAOZvYEgxQUrgZjI5gUs].md",
+          "key": "zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》915丨世上没有真正的口误，这话对吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》917丨如何迅速找到升职加薪的破局点？ [lk2zT5C3ONvUi9A4PPBowsHY66Tg].md",
+          "key": "zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》917丨如何迅速找到升职加薪的破局点？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》892丨修止语，古人有什么捷径？ [lnObbkp6mJ4xyB9jEuqSiUQogcT-].md",
+          "key": "zizhi-tongjian-hanji-892-xiu-zhiyu-guren-youshenme-jiejing-lnobbkp6mj4xyb9jeuqsiuqogct",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》892丨修止语，古人有什么捷径？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-892-xiu-zhiyu-guren-youshenme-jiejing-lnobbkp6mj4xyb9jeuqsiuqogct/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/duanjionglatehan/"
     },
     "DullDirtyDangerousRobotics": {
       "episode_count": 1,
@@ -2026,9 +2137,9 @@
       "url": "/wiki/entities/fifawomensworldcup/"
     },
     "FanPangLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》893丨荣誉榜如何变成死亡名单？ [lmxzQoaUf79-swWNK_0CEVAv0GQ_].md",
@@ -2036,6 +2147,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》893丨荣誉榜如何变成死亡名单？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》892丨修止语，古人有什么捷径？ [lnObbkp6mJ4xyB9jEuqSiUQogcT-].md",
+          "key": "zizhi-tongjian-hanji-892-xiu-zhiyu-guren-youshenme-jiejing-lnobbkp6mj4xyb9jeuqsiuqogct",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》892丨修止语，古人有什么捷径？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-892-xiu-zhiyu-guren-youshenme-jiejing-lnobbkp6mj4xyb9jeuqsiuqogct/"
         }
       ],
       "updated": "2026-08-27",
@@ -4594,9 +4712,9 @@
       "url": "/wiki/entities/litonglatehan/"
     },
     "LiYingLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》893丨荣誉榜如何变成死亡名单？ [lmxzQoaUf79-swWNK_0CEVAv0GQ_].md",
@@ -4604,6 +4722,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》893丨荣誉榜如何变成死亡名单？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》892丨修止语，古人有什么捷径？ [lnObbkp6mJ4xyB9jEuqSiUQogcT-].md",
+          "key": "zizhi-tongjian-hanji-892-xiu-zhiyu-guren-youshenme-jiejing-lnobbkp6mj4xyb9jeuqsiuqogct",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》892丨修止语，古人有什么捷径？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-892-xiu-zhiyu-guren-youshenme-jiejing-lnobbkp6mj4xyb9jeuqsiuqogct/"
         }
       ],
       "updated": "2026-08-27",
@@ -6610,9 +6735,9 @@
       "url": "/wiki/entities/raybansmartglasses/"
     },
     "ReputationListPersecutionTarget": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》893丨荣誉榜如何变成死亡名单？ [lmxzQoaUf79-swWNK_0CEVAv0GQ_].md",
@@ -6620,6 +6745,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》893丨荣誉榜如何变成死亡名单？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》892丨修止语，古人有什么捷径？ [lnObbkp6mJ4xyB9jEuqSiUQogcT-].md",
+          "key": "zizhi-tongjian-hanji-892-xiu-zhiyu-guren-youshenme-jiejing-lnobbkp6mj4xyb9jeuqsiuqogct",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》892丨修止语，古人有什么捷径？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-892-xiu-zhiyu-guren-youshenme-jiejing-lnobbkp6mj4xyb9jeuqsiuqogct/"
         }
       ],
       "updated": "2026-08-27",
@@ -6851,6 +6983,36 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/robotteleoperationandremotetakeover/"
+    },
+    "RootCausePacification": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》922丨如何在凡尘中修炼情商？ [lsXIqNEYyEOd6AeeQxuhs517PN1X].md",
+          "key": "zizhi-tongjian-hanji-922-ruhe-zai-fanchen-zhong-xiulian-qingshang-lsxiqneyyeod6aeeqxuhs517pn1x",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》922丨如何在凡尘中修炼情商？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-922-ruhe-zai-fanchen-zhong-xiulian-qingshang-lsxiqneyyeod6aeeqxuhs517pn1x/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》927丨做生意的最高境界是什么？ [lnGFBjN6Xui9K_9LP-IHdQKhpBpR].md",
+          "key": "zizhi-tongjian-hanji-927-zuo-shengyi-de-zuigao-jingjie-shi-shenme-lngfbjn6xui9k-9lp-ihdqkhpbpr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》927丨做生意的最高境界是什么？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-927-zuo-shengyi-de-zuigao-jingjie-shi-shenme-lngfbjn6xui9k-9lp-ihdqkhpbpr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》892丨修止语，古人有什么捷径？ [lnObbkp6mJ4xyB9jEuqSiUQogcT-].md",
+          "key": "zizhi-tongjian-hanji-892-xiu-zhiyu-guren-youshenme-jiejing-lnobbkp6mj4xyb9jeuqsiuqogct",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》892丨修止语，古人有什么捷径？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-892-xiu-zhiyu-guren-youshenme-jiejing-lnobbkp6mj4xyb9jeuqsiuqogct/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/rootcausepacification/"
     },
     "RuleOverKinshipPower": {
       "episode_count": 2,

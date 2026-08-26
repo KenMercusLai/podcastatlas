@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "a47936afcfdb27f98815bc151f6b9e14a3181634eed517cf8919e4908eae520d",
       "d7991ddfbce0b1d31aaa461ba983f6cecc1eceec91c9af96d47d787ef95e5be8",
       "c4bed92f4f60604cd67c692bde4a39159344021e9ec150955ef7de0001f70cc3",
       "9fd0e1239421b99e6a8f0b4e873ebb36ecb6abd70f408cb3b485445039e11c54",
@@ -271,11 +272,37 @@
       "ed252faccaaf1dc4e8c654d3406a6a1a0fc3a6f6fe78821348d1b123c7e85a5c",
       "32b62a0e1fc3144c5e7770721fc745607afef0d0cf46a8fe94d35cab377dbbf9"
     ],
-    "paragraph_count": 269
+    "paragraph_count": 270
   },
-  "overview_commit": "c85f56ba6ba64e2073107afb49c1fbaad687f5ce",
-  "overview_digest": "c5ba3a9e2c73e03fe8ce1166bf66e1368a74a2d7b4e526fcff07064ba2c678ed",
+  "overview_commit": "8bdef1f2890ff846ddc3a117e062d11d5251eec9",
+  "overview_digest": "2e4509a8057a122e61b14fbb78c5f53a1b829d522f6f5de634a900b4dff069ee",
   "paragraphs": [
+    {
+      "id": "a47936afcfdb27f98815bc151f6b9e14a3181634eed517cf8919e4908eae520d",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics",
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-892-xiu-zhiyu-guren-youshenme-jiejing-lnobbkp6mj4xyb9jeuqsiuqogct|《资治通鉴·汉纪》892丨修止语，古人有什么捷径？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 169 CE prelude before [[zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq|Hanji 893]]. It adds [[DongqiangLateHan|东羌]], while extending [[DuanJiongLateHan|段熲]], [[LiYingLateHan|李膺]], [[FanPangLateHan|范滂]], [[RootCausePacification|查因安抚式治理]], [[AdversitySilenceDiscipline|逆境守口]], and [[ReputationListPersecutionTarget|名望榜单迫害目标化]]. Its core synthesis is that Hanji 892 links speech restraint, frontier governance, and reputation exposure: 修止语 makes self-command a discipline of reduced complaint and conflict, Sima Guang's critique shifts the Eastern Qiang settlement from slaughter-first merit to root-cause governance failure, and the士人 honor-list catalog sets up the next episode's conversion of public fame into persecution targets. No settled contradiction is recorded; jade/body-practice claims and several quick honor-list names remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "AdversitySilenceDiscipline",
+        "DongqiangLateHan",
+        "DuanJiongLateHan",
+        "FanPangLateHan",
+        "LiYingLateHan",
+        "ReputationListPersecutionTarget",
+        "RootCausePacification",
+        "RuiqiJiangtouZizhiTongjian",
+        "zizhi-tongjian-hanji-892-xiu-zhiyu-guren-youshenme-jiejing-lnobbkp6mj4xyb9jeuqsiuqogct",
+        "zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq"
+      ]
+    },
     {
       "id": "d7991ddfbce0b1d31aaa461ba983f6cecc1eceec91c9af96d47d787ef95e5be8",
       "primary_topic": "governance-and-institutions",

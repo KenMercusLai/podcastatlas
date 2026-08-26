@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》892丨修止语，古人有什么捷径？](sources/zizhi-tongjian-hanji-892-xiu-zhiyu-guren-youshenme-jiejing-lnobbkp6mj4xyb9jeuqsiuqogct.md) — 芮淇讲透资治通鉴 episode on 修止语, Duan Jiong's Eastern Qiang pacification, Sima Guang's anti-extermination critique, root-cause frontier governance, and the party-prohibition honor lists that become dangerous in Hanji 893.
 - [An interview with Yuval Noah Harari](sources/an-interview-with-yuval-noah-harari-6a872b94c71d02aaba56ca7c.md) — The Intelligence interview with Yuval Noah Harari on AI inevitability, trust migration, mass-produced intimacy, AI consciousness, legal personhood, military oversight, sovereignty, and democratic accountability.
 - [Slip the Surly Bonds? Scott Bessent Goes on a Yield Trip](sources/slip-the-surly-bonds-scott-bessent-goes-on-a-yield-trip-6a8eb9200c15e359f9599e1a.md) — The Intelligence episode on Scott Bessent's long-bond buyback signal, U.S. water-system cyber vulnerability, and British accent prestige around Andy Burnham.
 - [当机器人学会认路，物理世界才真正接上了 AI](sources/dang-jiqiren-xuehui-renlu-wuli-shijie-cai-zhenzheng-jieshangle-ai-658f592c4a52.md) — 科技乱炖 episode with Gaode's Tang Wenbin on navigation-first embodied AI, guide robot dogs, A-BOT Navigation, last-mile delivery, inspection, and robot commercialization constraints.
@@ -1538,8 +1539,9 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Entities
 - [Yuval Noah Harari](entities/YuvalNoahHarari.md) — Historian and philosopher using an information-network lens to warn that AI governance must reject inevitability and preserve human agency.
 - [Nexus (Yuval Noah Harari book)](entities/NexusHarariBook.md) — Harari book framed in The Intelligence interview as a history of information networks from the Stone Age to AI.
-- [李膺 / Li Ying (late Han)](entities/LiYingLateHan.md) — Late-Han party-prohibition figure whose public reputation, prison choice, and student-network liability anchor Hanji 893.
-- [范滂 / Fan Pang (late Han)](entities/FanPangLateHan.md) — Late-Han party-prohibition figure whose voluntary imprisonment, refusal to implicate Guo Yi, and family farewell expose名节 under persecution.
+- [李膺 / Li Ying (late Han)](entities/LiYingLateHan.md) — Late-Han party-prohibition figure whose pre-crackdown public honor in Hanji 892 and prison choice/student liability in Hanji 893 anchor reputation danger.
+- [范滂 / Fan Pang (late Han)](entities/FanPangLateHan.md) — Late-Han party-prohibition figure whose honor-list visibility in Hanji 892 and voluntary imprisonment/family farewell in Hanji 893 expose名节 under persecution.
+- [东羌 / Eastern Qiang (late Han)](entities/DongqiangLateHan.md) — Frontier group whose Hanji 892 rebellion is treated as both Duan Jiong's military victory and a root-cause governance failure produced by harsh local rule.
 - [范滂母 / Fan Pang's mother](entities/FanPangMotherLateHan.md) — Family elder whose farewell to Fan Pang frames moral fame and long life as incompatible under the party-prohibition disaster.
 - [景毅 / Jing Yi (late Han)](entities/JingYiLateHan.md) — Official who self-reports because his son's studentship under Li Ying was omitted from the punishment list.
 - [朱璧 / Zhu Bi (late Han)](entities/ZhuBiLateHan.md) — Hou Lan-linked accuser who denounces Zhang Jian and twenty-four others as party figures in Hanji 893.
@@ -1672,7 +1674,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [沈忠 / Shen Zhong (late Han)](entities/ShenZhongLateHan.md) — Liangguo langzhong whose death-pledged memorial against Zhu Yu and eunuch corruption is shelved under Emperor Ling.
 - [于贵人 / Yu Guiren (late Han)](entities/YuGuirenLateHan.md) — Former imperial consort remembered as Xianling Guiren whose funeral route triggers Cao Jie's eunuch regrouping scene.
 - [何海 / He Hai (late Han)](entities/HeHaiLateHan.md) — Shanglu county official whose petition narrows party-prohibition collateral punishment for more distant kin.
-- [段熲 / Duan Jiong (late Han)](entities/DuanJiongLateHan.md) — Veteran frontier commander whose page now runs from Hanji 902's Zhuque Gate crackdown and Zhang Huan pressure through Su-household extermination, office churn, and anti-Wang Fu prosecution.
+- [段熲 / Duan Jiong (late Han)](entities/DuanJiongLateHan.md) — Veteran frontier commander whose profile now runs from Eastern Qiang pacification and Sima Guang's critique through Zhuque Gate crackdown, Su-household extermination, office churn, and anti-Wang Fu prosecution.
 - [张脩 / Zhang Xiu (Protector of Xiongnu)](entities/ZhangXiuProtectorOfXiongnu.md) — Han frontier official who kills Huzheng without authorization and installs Qiangqu as Southern Xiongnu chanyu; distinct from Zhang Xiu of Wancheng and Zhang Xiu of Five Pecks.
 - [呼征 / Huzheng Chanyu](entities/HuzhengChanyu.md) — Southern Xiongnu chanyu who first succeeds his father in 178 CE, then is killed by Zhang Xiu before Qiangqu's installation.
 - [朱瑀 / Zhu Yu (late Han)](entities/ZhuYuLateHan.md) — Eunuch favorite named with Cao Jie in Lyu Qiang's title-privilege criticism and Yang Qiu's target field.
@@ -9376,7 +9378,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Military AI Oversight Compression](concepts/MilitaryAIOversightCompression.md) — Failure mode where wartime AI speed turns human review into rapid approval of machine recommendations.
 - [AI Empire Sovereignty Risk](concepts/AIEmpireSovereigntyRisk.md) — Sovereignty risk from dependence on foreign-controlled AI systems embedded in information, infrastructure, and decisions.
 - [Political Accent Prestige](concepts/PoliticalAccentPrestige.md) — How accent, class, and regional speech shape who sounds authoritative or credible in British politics.
-- [Reputation List as Persecution Target / 名望榜单迫害目标化](concepts/ReputationListPersecutionTarget.md) — Pattern where a public honor list becomes a target list when hostile power treats moral reputation as factional danger.
+- [Reputation List as Persecution Target / 名望榜单迫害目标化](concepts/ReputationListPersecutionTarget.md) — Pattern where public honor categories and reputation lists become target lists when hostile power treats moral reputation as factional danger.
 - [Party Network Treason Framing / 朋党网络谋反化](concepts/PartyNetworkTreasonFraming.md) — Pattern where recommendation and reputation networks are explained to a ruler as rebellion or throne-security threats.
 - [Guide Robot Dogs](concepts/GuideRobotDogs.md) — Assistive legged robots for visually impaired users, combining navigation, memory, route explanation, haptics, and owner-specific command safety.
 - [Mobility-First Embodied AI](concepts/MobilityFirstEmbodiedAI.md) — Robotics strategy that starts with reliable movement through real spaces before broad humanoid manipulation.
@@ -9458,7 +9460,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Promotion Position Fit / 升职位置匹配](concepts/PromotionPositionFit.md) — Career strategy frame for testing whether a role is on a visible advancement path, solves superior demand, and sits with organizational momentum.
 - [党锢亲属牵连缩限 / Party Prohibition Kinship Narrowing](concepts/PartyProhibitionKinshipNarrowing.md) — Late-Han legal repair that narrows party-prohibition collateral punishment by excluding more distant kin.
 - [边疆将领擅断干预 / Unauthorized Frontier Command Intervention](concepts/UnauthorizedFrontierCommandIntervention.md) — Frontier-command failure where a field official changes allied succession without central authorization.
-- [Adversity Silence Discipline / 逆境守口](concepts/AdversitySilenceDiscipline.md) — Discipline of withholding complaint, argument, and uncontrolled disclosure when an adverse or unclear situation makes speech strategically costly.
+- [Adversity Silence Discipline / 逆境守口](concepts/AdversitySilenceDiscipline.md) — Discipline of deliberate speech restraint, from 修止语 practice to withholding complaint, argument, and disclosure when adverse conditions make speech strategically costly.
 - [Boundaryless Kindness Trap / 无边界善良陷阱](concepts/BoundarylessKindnessTrap.md) — Source-scoped frame in which kindness without boundaries or value exchange makes a person carry responsibility without receiving protection or benefit.
 - [Shared Pleasure Governance Test / 与民同乐治理检验](concepts/SharedPleasureGovernanceTest.md) — Mencian public/private test for whether a ruler's park or pleasure project is shared public use or an exclusionary trap.
 - [Classic Citation Legitimation Capture / 引经据典式欲望包装](concepts/ClassicCitationLegitimationCapture.md) — Court-rhetoric pattern where learned citation strips a precedent of its conditions and turns ruler desire into apparent legitimacy.
@@ -9514,7 +9516,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Augmented Intelligence](concepts/AugmentedIntelligence.md) — Human-supervised AI framing where models extend capability but users still verify and own important outcomes.
 - [AI Query Privacy Risk](concepts/AIQueryPrivacyRisk.md) — Risk that prompts, search terms, interaction logs, or retrieval traces reveal sensitive personal or professional information.
 - [名士背书式造势 / Elite-Endorsement Reputation Making](concepts/EliteEndorsementReputationMaking.md) — Hanji 926 pattern where elite evaluators, memorable labels, and counter-signaling turn reputation into political entry capital.
-- [查因安抚式治理 / Root-Cause Pacification](concepts/RootCausePacification.md) — Governance pattern where an official first diagnoses why people rebelled, then combines relief, reassurance, clean appointments, and targeted punishment.
+- [查因安抚式治理 / Root-Cause Pacification](concepts/RootCausePacification.md) — Governance pattern where officials diagnose why people rebelled, then address extraction, blocked complaints, personnel, relief, and targeted coercion rather than treating unrest as innate hostility.
 - [商人定气功夫 / Merchant Composure Discipline](concepts/MerchantComposureDiscipline.md) — Source-scoped Hanji 927 business frame around credibility, detachment, calm judgment, and decisive action.
 - [巡查送礼关口 / Inspection Gift Gatekeeping](concepts/InspectionGiftGatekeeping.md) — Hanji 928 pattern where an inspector with ruler access can turn gift refusal and a slanted report into command-changing political risk.
 - [对事不对人式公义 / Public Duty Over Private Grievance](concepts/PublicDutyOverPrivateGrievance.md) — Hanji 929 ethical frame where Gai Xun keeps private dislike and injury from deciding public law, office duty, and military rescue.

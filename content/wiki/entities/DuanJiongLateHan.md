@@ -2,38 +2,68 @@
 title: "段熲 / Duan Jiong (late Han)"
 type: entity
 tags: [person, late-han, general, frontier, court-politics]
-sources: [zizhi-tongjian-hanji-897-zhichang-bidu-shenme-cai-jiao-lingdaoli-lvrrmksykazlsb7w8abbdmnqfzqq, zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b, zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom, zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2, zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus, zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg]
-last_updated: 2026-08-26
+sources:
+  - zizhi-tongjian-hanji-897-zhichang-bidu-shenme-cai-jiao-lingdaoli-lvrrmksykazlsb7w8abbdmnqfzqq
+  - zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b
+  - zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom
+  - zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2
+  - zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus
+  - zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg
+  - zizhi-tongjian-hanji-892-xiu-zhiyu-guren-youshenme-jiejing-lnobbkp6mj4xyb9jeuqsiuqogct
+last_updated: 2026-08-27
+knowledge_schema: synthesis-v1
 ---
 
 # 段熲 / Duan Jiong (late Han)
 
-[[zizhi-tongjian-hanji-897-zhichang-bidu-shenme-cai-jiao-lingdaoli-lvrrmksykazlsb7w8abbdmnqfzqq|Hanji 897]] backfills Duan Jiong before the Zhuque Gate and prosecution branches. The transcript's "段九" is normalized to Duan Jiong; the episode recalls his long frontier service, appointment as shizhong, and willingness to share hardship with soldiers, making him a positive case of [[MilitaryMoraleThroughSharedHardship|同甘共苦式士气]] before later sources complicate him through coercive investigation and eunuch-side alignment.
+## Overview
 
-[[zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b|Hanji 902]] adds the earliest Duan Jiong branch now attached to this page. After [[LiuMengLateHan|刘猛]] is removed for failing to hunt the Zhuque Gate anonymous accuser aggressively, Duan becomes sili xiaowei and drives a large investigation that reaches Taixue students and more than a thousand detainees. The episode contrasts his old frontier fame with his new closeness to [[CaoJieLateHan|曹节]] and [[WangFuLateHan|王甫]], making Duan an early case of [[AnonymousRemonstranceSuppression|anonymous remonstrance suppression]] before his later office churn and fall.
+Duan Jiong is a late-Han frontier commander and later court-political actor whose evidence now spans battlefield merit, controversial frontier pacification, coercive investigation, office churn, and punishment inside anti-eunuch prosecution.
 
-The same source also places Duan opposite [[ZhangHuanLateHan|张奂]]. Duan's willingness to threaten Zhang's exile route, followed by Zhang's humbled letter and withdrawal, turns Duan into a pressure point for [[PoliticalSurvivalFirst|survival-first politics]] as well as eunuch-side enforcement.
+## Current Profile
 
-[[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom|Hanji 903]] continues Duan's early coercive branch through the [[SuBuweiLateHan|苏不韦]] and [[LiHaoLateHan|李昊]] revenge sequence: Duan is tied to Li Hao, tests Su with a private post, and then has Su's household exterminated after Su refuses. This makes Duan's page begin with suppressed speech and [[PrivatePunishmentWithoutProcedure|private punishment without procedure]] before it becomes a frontier-merit and anti-eunuch-prosecution page.
+The current evidence keeps Duan mixed. Hanji 892 and Hanji 897 show why he had real military weight: he completes the Eastern Qiang pacification, receives major court reward, and is remembered as a commander who shared hardship with soldiers. But the same frontier victory is ethically qualified by [[SimaGuang|司马光]]'s warning that indiscriminate killing of non-Han peoples violates a ruler's duty to protect life, and the host attributes the Qiang rebellion to harsh local exploitation.
 
-[[zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2|Hanji 904]] adds an earlier 173 CE high-office churn marker before Duan Jiong's later prosecution and memorialized service record. The source appoints him taiwei after Li Xian is removed, then removes him near the late-year Xianbei and eclipse notices, making his page begin with office instability before the Hanji 915-917 fall-and-merit branch.
+Duan's later record moves from merit into court danger. Hanji 902-903 tie him to the Zhuque Gate crackdown, Zhang Huan pressure, and Su-household extermination; Hanji 904 places him in early Emperor Ling office churn; Hanji 915 and Hanji 917 show his alliance with Wang Fu and Cao Jie making him vulnerable to Yang Qiu's prosecution and to Lyu Qiang's later argument that punished merit teaches fear and silence.
 
-[[zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus|Hanji 915]] directly narrates Duan Jiong's fall before Hanji 917 memorializes his service record. The episode places him as an ally of [[WangFuLateHan|王甫]] and [[CaoJieLateHan|曹节]], then has him self-impeach after an eclipse before [[YangQiuLateHan|阳球]] accuses him with Wang Fu and Wang Fu's family network.
+## Key Characteristics
 
-Duan dies by suicide after the arrest. In this episode he is less a pure merit-victim than a punished old commander caught inside the anti-eunuch prosecution field, which later allows [[LyuQiangLateHan|吕强]] to turn his treatment into evidence of broken reward and punishment.
+- Veteran frontier commander with a real reputation for campaign endurance, soldier-side hardship, and completion of the Eastern Qiang pacification.
+- Ethically contested pacifier whose success is paired with high killing, high cost, and Sima Guang's anti-extermination critique.
+- Coercive court enforcer who turns anonymous remonstrance and private revenge fields into broad investigation or household punishment.
+- High-office actor in Emperor Ling's early reign whose appointments and removals appear beside disasters, omens, and frontier pressure.
+- Eunuch-side ally or associated actor whose proximity to Wang Fu and Cao Jie makes later prosecution politically plausible.
+- Punished-merit example in Lyu Qiang's memorial, showing that old service records do not protect officials when court interpretation is captured.
 
-[[zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg|Hanji 917]] backfills 段熲 / Duan Jiong as an older late-Han frontier commander whose merit does not protect his family from court-political damage. [[LyuQiangLateHan|吕强]]'s memorial says Duan had served two emperors, held high office, and had major border merit, but was pulled into the prosecution field after [[YangQiuLateHan|阳球]] destroyed [[WangFuLateHan|王甫]].
+## Evidence
 
-The episode uses Duan Jiong as a second warning beside [[CaiYong|蔡邕]]. A court that lets corrective speakers and meritorious commanders be punished teaches silence and fear, turning merit records into weak protection once palace politics controls interpretation.
+- Frontier campaign and critique: [[zizhi-tongjian-hanji-892-xiu-zhiyu-guren-youshenme-jiejing-lnobbkp6mj4xyb9jeuqsiuqogct|Hanji 892]] says Duan's Eastern Qiang campaign ends with large-scale killing, livestock capture, state cost, and reward, while Sima Guang criticizes indiscriminate killing and the host attributes rebellion to local exploitation.
+- Shared-hardship leadership: [[zizhi-tongjian-hanji-897-zhichang-bidu-shenme-cai-jiao-lingdaoli-lvrrmksykazlsb7w8abbdmnqfzqq|Hanji 897]] recalls Duan's long frontier service and makes his soldier-side hardship the basis for command credibility.
+- Zhuque Gate crackdown: [[zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b|Hanji 902]] places Duan as Liu Meng's harsher successor, driving arrests of Taixue students and more than a thousand detainees after an anonymous anti-eunuch accusation.
+- Zhang Huan pressure and private punishment: [[zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b|Hanji 902]] links Duan to Zhang Huan's humbled survival, while [[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom|Hanji 903]] links him to the extermination of Su Buwei's household.
+- Office churn: [[zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2|Hanji 904]] places Duan's taiwei appointment and removal beside epidemic, earthquake, eclipse, and Xianbei pressure.
+- Anti-Wang Fu prosecution: [[zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus|Hanji 915]] says Yang Qiu obtains arrests against Wang Fu, Duan, Wang Ji, and Wang Meng, with Duan dying by suicide.
+- Punished merit warning: [[zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg|Hanji 917]] uses Lyu Qiang's memorial to treat Duan's family punishment as evidence that meritorious service no longer secures fair reward and protection.
 
-## Connections
-- [[zizhi-tongjian-hanji-897-zhichang-bidu-shenme-cai-jiao-lingdaoli-lvrrmksykazlsb7w8abbdmnqfzqq|Hanji 897]] and [[MilitaryMoraleThroughSharedHardship|同甘共苦式士气]] - frontier shared-hardship leadership before later coercive court roles.
-- [[zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b|Hanji 902]], [[LiuMengLateHan|刘猛]], [[CaoJieLateHan|曹节]], [[WangFuLateHan|王甫]], [[ZhangHuanLateHan|张奂]], and [[AnonymousRemonstranceSuppression|匿名进谏压制]] - Zhuque Gate crackdown and Zhang Huan pressure before the revenge sequence.
-- [[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom|Hanji 903]], [[SuBuweiLateHan|苏不韦]], [[LiHaoLateHan|李昊]], [[AtrocityRetaliationCycle|retaliatory escalation]], and [[PrivatePunishmentWithoutProcedure|无程序私刑]] - private coercion and household extermination before Duan's later court offices.
-- [[zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2|Hanji 904]], [[Xianbei|鲜卑]], and [[CelestialOmenPoliticalResponsibility|天象政治责任]] - 173 CE taiwei appointment and removal beside frontier pressure and eclipse notices.
-- [[zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus|Hanji 915]], [[WangFuLateHan|王甫]], [[CaoJieLateHan|曹节]], and [[YangQiuLateHan|阳球]] - direct arrest and suicide in the anti-Wang Fu prosecution.
-- [[LyuQiangLateHan|吕强]] — memorializes for recalling Cai Yong and restoring Duan Jiong's family.
-- [[YangQiuLateHan|阳球]] and [[WangFuLateHan|王甫]] — prosecution context that pulls Duan into the anti-eunuch aftermath.
-- [[CaiYong|蔡邕]] — paired punished-correction case in Lyu Qiang's memorial.
-- [[MeritBasedRewardPunishment|因功赏罚]] — Duan's case qualifies the idea that merit secures reward when prosecution channels are captured.
-- [[CourtFeedbackCollapse|君臣反馈失灵]] — concept extended by punished merit and punished speech.
+## Qualifications
+
+Duan should not be flattened into either a heroic frontier general or a corrupt court tool. The sources give both real command capacity and serious moral or institutional damage. Hanji 892's Qiang statistics and Jia Xu anecdote are source-scoped; they show the episode's scale and memory claims without settling an independent military history. Transcript variants such as 段炯 and 段颎 are normalized to 段熲.
+
+## What Changed
+
+- Added Hanji 892 as the earliest current evidence for Duan's Eastern Qiang pacification.
+- Qualified the frontier-merit profile with Sima Guang's anti-extermination critique and the host's exploitation-root diagnosis.
+- Migrated the page to synthesis-v1 while preserving the later coercive-investigation and prosecution synthesis.
+
+## Relationships
+
+- [[DongqiangLateHan|东羌]] - frontier population whose pacification anchors Duan's earliest current source role.
+- [[SimaGuang|司马光]] - historian whose critique qualifies Duan's anti-Qiang victory.
+- [[MilitaryMoraleThroughSharedHardship|同甘共苦式士气]] - positive command frame attached to Duan's soldier-side frontier service.
+- [[RootCausePacification|查因安抚式治理]] - governance frame that challenges slaughter-first frontier settlement.
+- [[AnonymousRemonstranceSuppression|匿名进谏压制]] - court-enforcement pattern Duan drives after the Zhuque Gate accusation.
+- [[AtrocityRetaliationCycle|retaliatory escalation]] - private-violence pattern intensified by Duan's punishment of Su Buwei's household.
+- [[WangFuLateHan|王甫]] - eunuch powerholder whose prosecution field pulls Duan into arrest and suicide.
+- [[YangQiuLateHan|阳球]] - anti-eunuch prosecutor whose first strike destroys Wang Fu and Duan.
+- [[LyuQiangLateHan|吕强]] - remonstrator who cites Duan as punished-merit evidence.
+- [[CourtFeedbackCollapse|君臣反馈失灵]] - broader institutional frame for punished warning and punished merit.
