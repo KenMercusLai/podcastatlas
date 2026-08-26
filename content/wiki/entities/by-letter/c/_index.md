@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 7753
+wiki_total_pages: 7759
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -98,6 +98,9 @@ wiki_pages:
   - key: "CapeCanaveral"
     title: "Cape Canaveral"
     url: "/wiki/entities/capecanaveral/"
+  - key: "Caperni"
+    title: "Caperni"
+    url: "/wiki/entities/caperni/"
   - key: "CapitalCitiesABC"
     title: "Capital Cities/ABC"
     url: "/wiki/entities/capitalcitiesabc/"
@@ -188,6 +191,9 @@ wiki_pages:
   - key: "Carousel"
     title: "Carousel"
     url: "/wiki/entities/carousel/"
+  - key: "CarrieBatten"
+    title: "Carrie Batten"
+    url: "/wiki/entities/carriebatten/"
   - key: "CarrieBuck"
     title: "Carrie Buck / 卡丽·巴克"
     url: "/wiki/entities/carriebuck/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 5552
+wiki_total_pages: 5554
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -59,6 +59,9 @@ wiki_pages:
   - key: "GenderedAgeAnxiety"
     title: "Gendered Age Anxiety"
     url: "/wiki/concepts/genderedageanxiety/"
+  - key: "GenderedAIMarketing"
+    title: "Gendered AI Marketing"
+    url: "/wiki/concepts/genderedaimarketing/"
   - key: "GenderedCreatorConfidence"
     title: "Gendered Creator Confidence"
     url: "/wiki/concepts/genderedcreatorconfidence/"

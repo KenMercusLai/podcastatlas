@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2227
+topic_total_pages: 2231
 topic_concepts:
   - key: "AbraxasWholeGodSymbolism"
     title: "Abraxas Whole-God Symbolism / 阿布拉克萨斯完整神象征"
@@ -2684,6 +2684,9 @@ topic_entities:
   - key: "CapitalCitiesABC"
     title: "Capital Cities/ABC"
     url: "/wiki/entities/capitalcitiesabc/"
+  - key: "CarrieBatten"
+    title: "Carrie Batten"
+    url: "/wiki/entities/carriebatten/"
   - key: "CarrotSticks"
     title: "Carrot Sticks"
     url: "/wiki/entities/carrotsticks/"
@@ -3572,6 +3575,9 @@ topic_entities:
   - key: "NewYorkInstituteOfTechnology"
     title: "New York Institute of Technology"
     url: "/wiki/entities/newyorkinstituteoftechnology/"
+  - key: "NewYorkMagazine"
+    title: "New York Magazine"
+    url: "/wiki/entities/newyorkmagazine/"
   - key: "NewYorkTimes"
     title: "New York Times"
     url: "/wiki/entities/newyorktimes/"
@@ -3608,6 +3614,9 @@ topic_entities:
   - key: "NYU"
     title: "NYU"
     url: "/wiki/entities/nyu/"
+  - key: "Oakley"
+    title: "Oakley"
+    url: "/wiki/entities/oakley/"
   - key: "Odin"
     title: "Odin / 奥丁"
     url: "/wiki/entities/odin/"
@@ -4022,6 +4031,9 @@ topic_entities:
   - key: "TexasAMUniversity"
     title: "Texas A&M University"
     url: "/wiki/entities/texasamuniversity/"
+  - key: "TeyanaTaylor"
+    title: "Teyana Taylor"
+    url: "/wiki/entities/teyanataylor/"
   - key: "Thailand"
     title: "Thailand"
     url: "/wiki/entities/thailand/"

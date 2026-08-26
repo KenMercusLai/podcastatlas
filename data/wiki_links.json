@@ -8059,6 +8059,10 @@
     "title": "Cape Canaveral",
     "url": "/wiki/entities/capecanaveral/"
   },
+  "Caperni": {
+    "title": "Caperni",
+    "url": "/wiki/entities/caperni/"
+  },
   "CapitalAccountInvestmentRestrictions": {
     "title": "Capital Account Investment Restrictions",
     "url": "/wiki/concepts/capitalaccountinvestmentrestrictions/"
@@ -8322,6 +8326,10 @@
   "Carousel": {
     "title": "Carousel",
     "url": "/wiki/entities/carousel/"
+  },
+  "CarrieBatten": {
+    "title": "Carrie Batten",
+    "url": "/wiki/entities/carriebatten/"
   },
   "CarrieBuck": {
     "title": "Carrie Buck / 卡丽·巴克",
@@ -11622,6 +11630,10 @@
   "CreatorFactCheckingResponsibility": {
     "title": "Creator Fact-Checking Responsibility / 创作者事实核查责任",
     "url": "/wiki/concepts/creatorfactcheckingresponsibility/"
+  },
+  "CreatorGiftingDemandManufacture": {
+    "title": "Creator Gifting Demand Manufacture",
+    "url": "/wiki/concepts/creatorgiftingdemandmanufacture/"
   },
   "CreatorOwnedAudience": {
     "title": "Creator-Owned Audience",
@@ -18842,6 +18854,10 @@
   "GenderSwapSelfThoughtExperiment": {
     "title": "Gender-Swap Self Thought Experiment / 性转自我思想实验",
     "url": "/wiki/concepts/genderswapselfthoughtexperiment/"
+  },
+  "GenderedAIMarketing": {
+    "title": "Gendered AI Marketing",
+    "url": "/wiki/concepts/genderedaimarketing/"
   },
   "GenderedAgeAnxiety": {
     "title": "Gendered Age Anxiety",
@@ -26583,6 +26599,10 @@
     "title": "Kylian Mbappe / 姆巴佩",
     "url": "/wiki/entities/kylianmbappe/"
   },
+  "KylieJenner": {
+    "title": "Kylie Jenner",
+    "url": "/wiki/entities/kyliejenner/"
+  },
   "KylinOS": {
     "title": "Kylin OS",
     "url": "/wiki/entities/kylinos/"
@@ -33283,6 +33303,10 @@
     "title": "New York Institute of Technology",
     "url": "/wiki/entities/newyorkinstituteoftechnology/"
   },
+  "NewYorkMagazine": {
+    "title": "New York Magazine",
+    "url": "/wiki/entities/newyorkmagazine/"
+  },
   "NewYorkSaladBowlMulticulturalism": {
     "title": "New York Salad-Bowl Multiculturalism / 纽约沙拉式多元",
     "url": "/wiki/concepts/newyorksaladbowlmulticulturalism/"
@@ -33894,6 +33918,10 @@
   "OaklandCalifornia": {
     "title": "Oakland, California",
     "url": "/wiki/entities/oaklandcalifornia/"
+  },
+  "Oakley": {
+    "title": "Oakley",
+    "url": "/wiki/entities/oakley/"
   },
   "OathBoundCommandTrust": {
     "title": "Oath-Bound Command Trust / 盟誓约束下的统帅信任",
@@ -46059,6 +46087,10 @@
     "title": "Textual Variant Political Stakes / 史书异文政治重量",
     "url": "/wiki/concepts/textualvariantpoliticalstakes/"
   },
+  "TeyanaTaylor": {
+    "title": "Teyana Taylor",
+    "url": "/wiki/entities/teyanataylor/"
+  },
   "ThaiOrientAirlines": {
     "title": "Thai Orient Airlines / 泰国东方航空",
     "url": "/wiki/entities/thaiorientairlines/"
@@ -56750,6 +56782,10 @@
   "tech-20260824-mp-tech-pod-128-tech-20260824-mp-tech-pod-128": {
     "title": "AI loves negative parallelism",
     "url": "/wiki/sources/tech-20260824-mp-tech-pod-128-tech-20260824-mp-tech-pod-128/"
+  },
+  "tech-20260826-0826-mp-tech-pod-128-tech-20260826-0826-mp-tech-pod-128": {
+    "title": "Can Meta Finally Make Smart Glasses Cool?",
+    "url": "/wiki/sources/tech-20260826-0826-mp-tech-pod-128-tech-20260826-0826-mp-tech-pod-128/"
   },
   "tengxun-ali-zijie-zhengduo-dagongren-hulianwang-dachang-weihe-jiti-jiama-ai-bangong-1008598460": {
     "title": "腾讯、阿里、字节争夺打工人，互联网大厂为何集体加码 AI 办公？",

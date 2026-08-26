@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Can Meta Finally Make Smart Glasses Cool?](sources/tech-20260826-0826-mp-tech-pod-128-tech-20260826-0826-mp-tech-pod-128.md) — Marketplace Tech episode with Carrie Batten on Meta's smart-glasses fashion push, creator gifting, hands-free use cases, and bystander privacy friction.
 - [152. 领读Kimi K3技术报告：从架构创新聊起，注意力美学、多教师蒸馏和开源MoE](sources/152-lingdu-kimi-k3-jishu-baogao-cong-jiagou-chuangxin-liaoqi-zhuyili-meixue-duojiaoshi-zhengliu-he-kaiyuan-moe-lrvngxoafcz7vzh8hywulkwnb6n6.md) — 张小珺Jùn technical-report reading with Sun Yutao on Kimi K3's 2.8T/100B-active MoE scale, KDA lineage, Latent MoE, quantile balancing, NoPE, multi-teacher distillation, and model-infra co-design.
 - [Episode 20: 100 年前东北女孩写给巴黎的信｜对谈历史学者李纪：普通人如何穿过大历史？](sources/100-nian-qian-dongbei-nvhai-xie-gei-bali-de-xin-duitan-lishixuezhe-liji-putongren-ruhe-chuanguo-da-lishi-3d36f181-94ad-4883-8db3-5f040b5ed45b.md) — Fuyou Tiandi episode with historian Li Ji on Northeast Catholic mission villages, three Du-family girls' letters to Paris, missionary maps and archives, ordinary people's historical visibility, and historical judgment against one-line labels.
 - [《资治通鉴·汉纪》1037丨忠于曹操or刘表？揭秘韩嵩的忠义抉择](sources/zizhi-tongjian-hanji-1037-zhongyu-caocao-or-liubiao-jiemi-hansong-de-zhongyi-jueze-lomrbxffcu6euantozh2fjvrykva.md) — 芮淇讲透资治通鉴 episode on Han Song's court-loyalty conflict with Liu Biao, Liu Biao's suspicion and imprisonment of him, Liu Ye's killing of Zheng Bao, and the follower/grain pressure that sets up Liu Xun before Hanji 1038.
@@ -1513,6 +1514,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Carrie Batten](entities/CarrieBatten.md) — New York Magazine contributor whose Marketplace Tech interview frames Meta smart glasses as fashion, creator distribution, and bystander privacy problem.
+- [New York Magazine](entities/NewYorkMagazine.md) — Publication context for Carrie Batten's reporting on Meta smart glasses, gendered marketing, and privacy stigma.
+- [Oakley](entities/Oakley.md) — Eyewear and sports-fashion brand used as Meta's activity-coded smart-glasses collaboration in the source.
+- [Caperni](entities/Caperni.md) — Fashion brand named as Meta's runway-collaboration route for making smart glasses socially legible.
+- [Kylie Jenner](entities/KylieJenner.md) — Celebrity figure tied to the Starfire smart-glasses campaign and its mixed visibility/privacy effect.
+- [Teyana Taylor](entities/TeyanaTaylor.md) — Public figure named in Meta's fashion-oriented smart-glasses promotion.
 - [李纪 / Li Ji (historian)](entities/LiJiHistorian.md) — Historian whose Northeast Catholic mission research connects the Du girls' letters, Paris archives, fieldwork, genealogy, and anti-label historical judgment.
 - [巴黎外方传教会 / Paris Foreign Missions Society](entities/ParisForeignMissionsSociety.md) — Catholic mission society whose Paris archive, maps, and rural Northeast records preserve the episode's letters and missionary materials.
 - [三台子 / Santai Zi Catholic Village](entities/SantaiZiCatholicVillage.md) — Northeast Catholic village made visible through Du-family letters, missionary maps, fieldwork, and descendant memory.
@@ -9270,6 +9277,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Creator Gifting Demand Manufacture](concepts/CreatorGiftingDemandManufacture.md) — Marketing pattern where gifted creator distribution makes a product appear socially adopted before paid demand is clear.
+- [Gendered AI Marketing](concepts/GenderedAIMarketing.md) — Framing AI products and adoption through gender-coded audiences, aesthetics, spokespeople, and empowerment pressure.
 - [普通人历史可见性 / Ordinary People Historical Visibility](concepts/OrdinaryPeopleHistoricalVisibility.md) — Method problem of how ordinary people become historically legible through fragile letters, archives, maps, fieldwork, genealogy, and memory.
 - [东北现代性试验场 / Northeast Modernity Test Site](concepts/NortheastModernityTestSite.md) — Frame for late Qing and early Republican Northeast China as a migration, land, religion, treaty, and global-modernity frontier.
 - [传教士地图知识生产 / Missionary Map Knowledge Production](concepts/MissionaryMapKnowledgeProduction.md) — Pattern where mission maps record space while also ranking villages and church infrastructure for a particular audience.

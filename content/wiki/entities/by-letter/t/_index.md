@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 7753
+wiki_total_pages: 7759
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -248,6 +248,9 @@ wiki_pages:
   - key: "TexasPublicPolicyFoundation"
     title: "Texas Public Policy Foundation"
     url: "/wiki/entities/texaspublicpolicyfoundation/"
+  - key: "TeyanaTaylor"
+    title: "Teyana Taylor"
+    url: "/wiki/entities/teyanataylor/"
   - key: "ThaiOrientAirlines"
     title: "Thai Orient Airlines / 泰国东方航空"
     url: "/wiki/entities/thaiorientairlines/"

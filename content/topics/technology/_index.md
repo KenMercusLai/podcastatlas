@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2443
+topic_total_pages: 2447
 topic_concepts:
   - key: "AcademicAIResearchRole"
     title: "Academic AI Research Role"
@@ -1207,6 +1207,9 @@ topic_concepts:
   - key: "CreativeRiskAvoidanceCulture"
     title: "Creative Risk-Avoidance Culture"
     url: "/wiki/concepts/creativeriskavoidanceculture/"
+  - key: "CreatorGiftingDemandManufacture"
+    title: "Creator Gifting Demand Manufacture"
+    url: "/wiki/concepts/creatorgiftingdemandmanufacture/"
   - key: "CrimeStatisticsComparability"
     title: "Crime Statistics Comparability"
     url: "/wiki/concepts/crimestatisticscomparability/"
@@ -1699,6 +1702,9 @@ topic_concepts:
   - key: "FullStackAIPlatform"
     title: "Full-Stack AI Platform"
     url: "/wiki/concepts/fullstackaiplatform/"
+  - key: "GenderedAIMarketing"
+    title: "Gendered AI Marketing"
+    url: "/wiki/concepts/genderedaimarketing/"
   - key: "GeneratedWorkInterfaces"
     title: "Generated Work Interfaces"
     url: "/wiki/concepts/generatedworkinterfaces/"
@@ -3797,6 +3803,9 @@ topic_entities:
   - key: "CarlotaPerez"
     title: "Carlota Perez"
     url: "/wiki/entities/carlotaperez/"
+  - key: "CarrieBatten"
+    title: "Carrie Batten"
+    url: "/wiki/entities/carriebatten/"
   - key: "Casetext"
     title: "Casetext"
     url: "/wiki/entities/casetext/"
@@ -6612,6 +6621,9 @@ topic_sources:
   - key: "can-computer-hackers-get-inside-your-mind"
     title: "Can computer hackers get inside your mind?"
     url: "/wiki/sources/can-computer-hackers-get-inside-your-mind/"
+  - key: "tech-20260826-0826-mp-tech-pod-128-tech-20260826-0826-mp-tech-pod-128"
+    title: "Can Meta Finally Make Smart Glasses Cool?"
+    url: "/wiki/sources/tech-20260826-0826-mp-tech-pod-128-tech-20260826-0826-mp-tech-pod-128/"
   - key: "tech-20260813-0813-mp-tech-pod-128-tech-20260813-0813-mp-tech-pod-128"
     title: "Can Silicon Valley give AI good taste?"
     url: "/wiki/sources/tech-20260813-0813-mp-tech-pod-128-tech-20260813-0813-mp-tech-pod-128/"

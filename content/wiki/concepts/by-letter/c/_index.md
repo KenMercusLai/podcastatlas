@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 5552
+wiki_total_pages: 5554
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1442,6 +1442,9 @@ wiki_pages:
   - key: "CreatorFactCheckingResponsibility"
     title: "Creator Fact-Checking Responsibility / 创作者事实核查责任"
     url: "/wiki/concepts/creatorfactcheckingresponsibility/"
+  - key: "CreatorGiftingDemandManufacture"
+    title: "Creator Gifting Demand Manufacture"
+    url: "/wiki/concepts/creatorgiftingdemandmanufacture/"
   - key: "CreatorResponsibilityEthics"
     title: "Creator Responsibility Ethics / 创造者责任伦理"
     url: "/wiki/concepts/creatorresponsibilityethics/"

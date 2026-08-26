@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 7753
+wiki_total_pages: 7759
 wiki_pages:
   - key: "KunyangBattle"
     title: "Battle of Kunyang / 昆阳之战"
@@ -449,6 +449,9 @@ wiki_pages:
   - key: "KylianMbappe"
     title: "Kylian Mbappe / 姆巴佩"
     url: "/wiki/entities/kylianmbappe/"
+  - key: "KylieJenner"
+    title: "Kylie Jenner"
+    url: "/wiki/entities/kyliejenner/"
   - key: "KylinOS"
     title: "Kylin OS"
     url: "/wiki/entities/kylinos/"

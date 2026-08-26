@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "e2dbcfd86d4d842870971df2023efea40b445cb17f22433f137edc058c21d53d",
       "baa8563117c87f0fa06054d580b6c7c44c5428f74779f71a669eeb99a2f47d20",
       "8d6f3161ce308c5fa1672e99fa6cd5e9c59199d70f119267c31b3d0481772e20",
       "547548604597cb96f8ee207d1a3ccc73e53ead93e2136757534d418981e69e17",
@@ -253,11 +254,46 @@
       "d9074e43b7b103fc0d0097b207bf8018227d6e146ca0eb75638118627687641c",
       "b16a38bd6e190222f7f3e6f0535803ce60ae7f3304e3477dfcdd995a15fb502f"
     ],
-    "paragraph_count": 251
+    "paragraph_count": 252
   },
-  "overview_commit": "5853003e990c3208fa5ed9aecf6d58ea2ef69fb4",
-  "overview_digest": "8af5b1bdca0853e89c47062565ae198489a55421b5d42f80f7afdcf9d6d5452d",
+  "overview_commit": "e06724e4963c71dcad1f7a652c32288bebab6141",
+  "overview_digest": "4695875f69389630016e8f03421b43bb64288514adbc6f94940cf67bf2d2c15d",
   "paragraphs": [
+    {
+      "id": "e2dbcfd86d4d842870971df2023efea40b445cb17f22433f137edc058c21d53d",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[tech-20260826-0826-mp-tech-pod-128-tech-20260826-0826-mp-tech-pod-128]], a [[MarketplaceTech]] episode with [[CarrieBatten]] of [[NewYorkMagazine|New York Magazine]] on [[Meta]]'s effort to make [[RayBanSmartGlasses|Ray-Ban smart glasses]] culturally acceptable. It adds [[CarrieBatten]], [[NewYorkMagazine]], [[Oakley]], [[Caperni]], [[KylieJenner]], [[TeyanaTaylor]], [[CreatorGiftingDemandManufacture]], and [[GenderedAIMarketing]], while extending [[RayBanSmartGlasses]], [[AIGlassesProductFit]], [[SmartGlassesBystanderPrivacy]], [[AIHardwarePrivacyExchange]], [[ConsumerAIHardwareProductFit]], [[WearableAIAssistant]], [[ConsumerCameraSurveillance]], [[ConsentBasedRecording]], and [[Meta]]. Its core synthesis is that smart glasses have plausible hands-free use cases in travel, cooking, gardening, and creator work, but face-level recording makes bystander comfort and consent harder than phone capture; Meta may still mainstream the product through fashion, celebrity, and gifted creator distribution, so visibility should not be mistaken for organic willingness to pay. No settled contradiction is recorded; the source qualifies earlier demand optimism by adding first-generation flop history, privacy stigma, and marketing-driven adoption risk.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "business-and-markets": 2,
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "AIGlassesProductFit",
+        "AIHardwarePrivacyExchange",
+        "Caperni",
+        "CarrieBatten",
+        "ConsentBasedRecording",
+        "ConsumerAIHardwareProductFit",
+        "ConsumerCameraSurveillance",
+        "CreatorGiftingDemandManufacture",
+        "GenderedAIMarketing",
+        "KylieJenner",
+        "MarketplaceTech",
+        "Meta",
+        "NewYorkMagazine",
+        "Oakley",
+        "RayBanSmartGlasses",
+        "SmartGlassesBystanderPrivacy",
+        "TeyanaTaylor",
+        "WearableAIAssistant",
+        "tech-20260826-0826-mp-tech-pod-128-tech-20260826-0826-mp-tech-pod-128"
+      ]
+    },
     {
       "id": "baa8563117c87f0fa06054d580b6c7c44c5428f74779f71a669eeb99a2f47d20",
       "primary_topic": "history-and-geopolitics",

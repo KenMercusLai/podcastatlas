@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "o"
-wiki_total_pages: 7753
+wiki_total_pages: 7759
 wiki_pages:
   - key: "OneX"
     title: "1X"
@@ -20,6 +20,9 @@ wiki_pages:
   - key: "OaklandCalifornia"
     title: "Oakland, California"
     url: "/wiki/entities/oaklandcalifornia/"
+  - key: "Oakley"
+    title: "Oakley"
+    url: "/wiki/entities/oakley/"
   - key: "ObamaPresidentialCenter"
     title: "Obama Presidential Center"
     url: "/wiki/entities/obamapresidentialcenter/"

@@ -11986,6 +11986,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-26] ingest | Can Meta Finally Make Smart Glasses Cool?
+
+Added source page for Marketplace Tech's Meta smart-glasses episode: first-generation Ray-Ban flop history, AI/live-streaming feature additions, Oakley and Caperni positioning, Kylie Jenner and Teyana Taylor promotion, hands-free travel/cooking/gardening use cases, bystander privacy friction, creator gifting, and gendered AI marketing. Created Carrie Batten, New York Magazine, Oakley, Caperni, Kylie Jenner, Teyana Taylor, Creator Gifting Demand Manufacture, and Gendered AI Marketing; migrated Ray-Ban Smart Glasses, AI Glasses Product Fit, Smart Glasses Bystander Privacy, AI Hardware Privacy Exchange, and Consumer AI Hardware Product Fit to synthesis-v1. No settled contradiction found; the source qualifies earlier smart-glasses demand optimism with privacy stigma and marketing-driven adoption risk.
+
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》897丨职场必读！什么才叫领导力？
 
 Added source page for Hanji 897: relationships without exchangeable capability, Duan Jiong's shared-hardship leadership, Dong Chong's false Dong Taihou instruction, Gu Yong's trust-based frontier submission, and Meng Tuo's manufactured Zhang Rang access followed by failed Shule command. Created Dong Chong, Meng Tuo, Gu Yong, Shule Kingdom, and Manufactured Access Brokerage; updated linked leadership, access, office-capture, and surrender-cascade pages. No settled contradiction found; 170 CE/建宁二年 and transcript variants such as 段九 and 官带 are kept source-scoped.
@@ -12053,6 +12057,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》1037丨忠于曹操or刘表？揭秘韩嵩的忠义抉择
 
 Added source page for Hanji 1037: Han Song's Xudu appointment and court-loyalty defense, Liu Biao's suspicion and imprisonment of Han Song, Liu Ye's killing of Zheng Bao, Liu Ye's refusal to absorb undisciplined followers, and the Zheng Bao/Yuan Yin food-pressure prelude to Liu Xun's Hanji 1038 mistake. Created Han Song (late Han), Zheng Bao, Yuan Yin, Court Legitimacy Over Patron Loyalty, Suspicion-Driven Elite Alienation, and Armed Follower Integration Cost; updated Liu Biao, Liu Ye, Liu Xun, index, and overview. No settled contradiction found; Han Song / 韩嵩 is disambiguated from the modern AI-chip researcher Han Song / 韩松.
+
+## [2026-08-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-26] lint | Wiki health check
 
