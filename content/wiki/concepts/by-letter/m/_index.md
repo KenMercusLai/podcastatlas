@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 5501
+wiki_total_pages: 5503
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -698,6 +698,9 @@ wiki_pages:
   - key: "ModelResponsiveAINativeOrganization"
     title: "Model-Responsive AI Native Organization"
     url: "/wiki/concepts/modelresponsiveainativeorganization/"
+  - key: "ModerationAsPoliticalSurvival"
+    title: "Moderation As Political Survival / 中庸圆滑政治生存"
+    url: "/wiki/concepts/moderationaspoliticalsurvival/"
   - key: "ModernChineseAcademicInstitutionBuilding"
     title: "Modern Chinese Academic Institution Building / 中国现代学术制度建设"
     url: "/wiki/concepts/modernchineseacademicinstitutionbuilding/"

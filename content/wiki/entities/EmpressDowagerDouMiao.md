@@ -2,11 +2,15 @@
 title: "窦妙 / Empress Dowager Dou Miao"
 type: entity
 tags: [person, empress-dowager, late-han, dou-family, court-ritual]
-sources: [zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud]
+sources: [zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr, zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud]
 last_updated: 2026-08-26
 ---
 
 # 窦妙 / Empress Dowager Dou Miao
+
+[[zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr|Hanji 900]] adds Dou Miao's death and posthumous mistreatment before the Hanji 901 burial debate. After her mother dies in Bijing and Dou Miao dies at Nangong Yuntai in June 172 CE, the source says eunuch resentment toward the Dou family shapes the initial handling of her body: she is moved with poor ceremony and left unattended before [[EmperorLingOfHan|汉灵帝]] insists she cannot be treated merely as a guiren.
+
+The episode also supplies the procedural prelude. [[CaoJieLateHan|曹节]] and [[WangFuLateHan|王甫]] first prefer guiren-level funeral treatment, then try to bury Dou elsewhere while moving [[FengGuirenLateHan|冯贵人]] toward [[EmperorHuanOfHan|汉桓帝]]'s tomb. That setup turns Dou's death into [[ImperialBurialLegitimacy|帝后合葬名分]] before [[zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud|Hanji 901]] records the meeting argument.
 
 窦妙 / Empress Dowager Dou Miao enters the wiki through [[zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud|Hanji 901]] as the deceased empress dowager whose burial status becomes a 172 CE court test. The source presents her as [[EmperorHuanOfHan|汉桓帝]]'s empress and as a dowager whose earlier support helped [[EmperorLingOfHan|汉灵帝]] inherit the throne.
 
@@ -16,6 +20,7 @@ Her political danger comes from family and factional memory. [[DouWuLateHan|窦�
 
 ## Connections
 
+- [[zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr|Hanji 900]] - death, initial neglect, and meeting setup before the burial decision.
 - [[zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud|Hanji 901]] - source episode.
 - [[EmperorHuanOfHan|汉桓帝]] - deceased emperor with whom the burial is debated.
 - [[EmperorLingOfHan|汉灵帝]] - ruler whose accession benefit and final approval shape her posthumous status.

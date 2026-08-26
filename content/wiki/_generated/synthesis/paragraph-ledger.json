@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "e9167ce1beebc3cb36e023f645490831481f79fb4f49ad03eff1807160a12ba3",
       "64f4e7e02b7db9d71f22ae6dc96503f17ab9d4b7266a173a340b072ff08fed49",
       "bf9a4f3a2894a9ccd1632f4877f743fad537cd781a1d7c122bf8c67b5f8e2add",
       "e2b2eeb2a497845d9d0b856265b8d97834b83e4dcd49a380fc66e7537163cd55",
@@ -240,11 +241,42 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "b16a38bd6e190222f7f3e6f0535803ce60ae7f3304e3477dfcdd995a15fb502f"
     ],
-    "paragraph_count": 238
+    "paragraph_count": 239
   },
-  "overview_commit": "a6ede511dfab6244faa2b398b3b3c50c3c8953ac",
-  "overview_digest": "1795ff8aa62fa24faf721a777c2a6279d1ab9d28aa62a0f178a81e02c81fadd3",
+  "overview_commit": "ff2db53284d0b083887d138fdca52c897c8eee89",
+  "overview_digest": "06bc00a878e6d337e433f4d7df909834387467195b87ce4755e3b10cb94a2d9a",
   "paragraphs": [
+    {
+      "id": "e9167ce1beebc3cb36e023f645490831481f79fb4f49ad03eff1807160a12ba3",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr|《资治通鉴·汉纪》900丨职场权术都不动，该怎样生存]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 172 CE late-Han setup immediately before [[zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud|Hanji 901]]. It adds [[HuGuangLateHan|胡广]], [[HouLanLateHan|侯览]], [[ModerationAsPoliticalSurvival|中庸圆滑政治生存]], and [[PredeterminedMeetingProcess|既定结果会议程序]], while extending [[EmperorLingOfHan|汉灵帝]], [[EmpressDowagerDouMiao|窦妙 / 窦皇太后]], [[CaoJieLateHan|曹节]], [[WangFuLateHan|王甫]], [[ZhaoZhongLateHan|赵忠]], [[FengGuirenLateHan|冯贵人]], [[EmperorHuanOfHan|汉桓帝]], [[ImperialBurialLegitimacy|帝后合葬名分]], [[PoliticalSurvivalFirst|安全第一政治生存]], and [[StrategicEmotionConcealment|情绪不外露的战略纪律]]. Its core synthesis is that early Emperor Ling-era survival and procedure are already morally mixed before the open burial debate: Hu Guang's technical competence and non-offense preserve office but invite criticism, Hou Lan's fall shows palace power can still become exposure, and Dou Miao's funeral meeting shows formal deliberation beginning after power has already shaped the field. No settled contradiction is recorded; Hou Lan's internal-eunuch trigger is kept source-scoped, and the title's \"都不动\" spelling is preserved while the episode is interpreted as workplace power-tactics ignorance.",
+      "topic_scores": {
+        "governance-and-institutions": 3,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "CaoJieLateHan",
+        "EmperorHuanOfHan",
+        "EmperorLingOfHan",
+        "EmpressDowagerDouMiao",
+        "FengGuirenLateHan",
+        "HouLanLateHan",
+        "HuGuangLateHan",
+        "ImperialBurialLegitimacy",
+        "ModerationAsPoliticalSurvival",
+        "PoliticalSurvivalFirst",
+        "PredeterminedMeetingProcess",
+        "RuiqiJiangtouZizhiTongjian",
+        "StrategicEmotionConcealment",
+        "WangFuLateHan",
+        "ZhaoZhongLateHan",
+        "zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr",
+        "zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud"
+      ]
+    },
     {
       "id": "64f4e7e02b7db9d71f22ae6dc96503f17ab9d4b7266a173a340b072ff08fed49",
       "primary_topic": "governance-and-institutions",

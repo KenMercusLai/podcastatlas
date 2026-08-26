@@ -11921,3 +11921,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-26] ingest | 《资治通鉴·汉纪》900丨职场权术都不动，该怎样生存
+
+Added source page for Hanji 900: Hu Guang's 172 CE death and moderation-based court survival, anger control and advance/retreat judgment, Hou Lan's uncertain eunuch-faction fall, Empress Dowager Dou Miao's death and initial funeral mistreatment, and the supervised burial-meeting setup before Hanji 901. Created Hu Guang, Hou Lan, Moderation As Political Survival, and Predetermined Meeting Process; updated linked late-Han entity and concept pages, index, and overview. No settled contradiction found; Hou Lan's trigger remains source-scoped and the title spelling "都不动" is preserved from the source file.
+
+## [2026-08-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

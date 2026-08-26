@@ -2,11 +2,13 @@
 title: "赵忠 / Zhao Zhong (late Han)"
 type: entity
 tags: [person, eunuch, late-han, court, china]
-sources: [zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud, zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic, zizhi-tongjian-hanji-927-zuo-shengyi-de-zuigao-jingjie-shi-shenme-lngfbjn6xui9k-9lp-ihdqkhpbpr, zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29, zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8, zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar, zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5]
+sources: [zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr, zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud, zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic, zizhi-tongjian-hanji-927-zuo-shengyi-de-zuigao-jingjie-shi-shenme-lngfbjn6xui9k-9lp-ihdqkhpbpr, zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29, zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8, zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar, zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5]
 last_updated: 2026-08-26
 ---
 
 # 赵忠 / Zhao Zhong (late Han)
+
+[[zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr|Hanji 900]] backfills Zhao Zhong as the zhongchangshi ordered by [[EmperorLingOfHan|汉灵帝]] to supervise the meeting over [[EmpressDowagerDouMiao|窦皇太后]]'s burial. The episode's procedural point is that the meeting is not a neutral room: Zhao Zhong's supervision places the debate inside palace access and [[PredeterminedMeetingProcess|既定结果会议程序]] before Hanji 901 shows his pressure on the assembled officials.
 
 [[zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud|Hanji 901]] backfills Zhao Zhong before his later favorite, palace-finance, and succession-crisis roles. During the 172 CE meeting over whether [[EmpressDowagerDouMiao|窦皇太后]] should be buried with [[EmperorHuanOfHan|汉桓帝]], Zhao Zhong presses officials to stop delaying and state a position.
 
@@ -41,6 +43,7 @@ The source matters because Zhao Zhong appears first as part of the attempted eun
 His page is intentionally narrow. Zhao Zhong marks the transition from targeted revenge against leading [[TenAttendantsLateHan|十常侍]] figures into the larger purge in which Yuan Shao closes the North Palace gates and kills eunuchs indiscriminately.
 
 ## Connections
+- [[zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr|Hanji 900]], [[EmperorLingOfHan|汉灵帝]], [[EmpressDowagerDouMiao|窦皇太后]], and [[PredeterminedMeetingProcess|既定结果会议程序]] - meeting-supervision setup before Hanji 901's debate.
 - [[zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud|Hanji 901]], [[EmpressDowagerDouMiao|窦皇太后]], [[ChenQiuLateHan|陈球 / 陈求]], and [[LiXianTaiweiLateHan|李贤]] - early burial-debate pressure and anger at pro-Dou recognition.
 - [[zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic|Hanji 921]], [[CaoJieLateHan|曹节]], [[ChenFanLateHan|陈蕃]], and [[DouWuLateHan|窦武]] - inherited eunuch-power line and pre-Yellow-Turban favorite status.
 - [[zizhi-tongjian-hanji-927-zuo-shengyi-de-zuigao-jingjie-shi-shenme-lngfbjn6xui9k-9lp-ihdqkhpbpr|Hanji 927]], [[FuXie|傅燮]], [[YellowTurbansLateHan|黄巾军]], [[EmperorLingOfHan|汉灵帝]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - resentment and blocked reward after Fu Xie's eunuch warning.

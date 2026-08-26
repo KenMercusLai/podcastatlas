@@ -21811,6 +21811,10 @@
     "title": "《后汉书》 / Hou Hanshu",
     "url": "/wiki/entities/houhanshu/"
   },
+  "HouLanLateHan": {
+    "title": "侯览 / Hou Lan (late Han)",
+    "url": "/wiki/entities/houlanlatehan/"
+  },
   "HouSheng": {
     "title": "后胜 / Hou Sheng",
     "url": "/wiki/entities/housheng/"
@@ -21966,6 +21970,10 @@
   "HuGe": {
     "title": "胡戈 / Hu Ge",
     "url": "/wiki/entities/huge/"
+  },
+  "HuGuangLateHan": {
+    "title": "胡广 / Hu Guang (late Han)",
+    "url": "/wiki/entities/huguanglatehan/"
   },
   "HuSanxing": {
     "title": "胡三省 / Hu Sanxing",
@@ -31703,6 +31711,10 @@
     "title": "Model Workflow Fit",
     "url": "/wiki/concepts/modelworkflowfit/"
   },
+  "ModerationAsPoliticalSurvival": {
+    "title": "Moderation As Political Survival / 中庸圆滑政治生存",
+    "url": "/wiki/concepts/moderationaspoliticalsurvival/"
+  },
   "ModernChineseAcademicInstitutionBuilding": {
     "title": "Modern Chinese Academic Institution Building / 中国现代学术制度建设",
     "url": "/wiki/concepts/modernchineseacademicinstitutionbuilding/"
@@ -36630,6 +36642,10 @@
   "PredestinedChoice": {
     "title": "Predestined Choice",
     "url": "/wiki/concepts/predestinedchoice/"
+  },
+  "PredeterminedMeetingProcess": {
+    "title": "Predetermined Meeting Process / 既定结果会议程序",
+    "url": "/wiki/concepts/predeterminedmeetingprocess/"
   },
   "PredictionMarketEthics": {
     "title": "Prediction Market Ethics",
@@ -57426,6 +57442,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr": {
+    "title": "《资治通鉴·汉纪》900丨职场权术都不动，该怎样生存",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr/"
   },
   "zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud": {
     "title": "《资治通鉴·汉纪》901 丨急性子的人会是什么下场？",

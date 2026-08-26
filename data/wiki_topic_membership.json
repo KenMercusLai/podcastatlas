@@ -37400,6 +37400,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "ModerationAsPoliticalSurvival": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "ModernJapaneseInteriorDiscovery": [
     {
       "key": "culture",
@@ -43305,6 +43312,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "PredeterminedMeetingProcess": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "PredictionMarketEthics": [

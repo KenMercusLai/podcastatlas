@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 7685
+wiki_total_pages: 7687
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -713,6 +713,9 @@ wiki_pages:
   - key: "HouShengFangshi"
     title: "侯生 / Hou Sheng (Fangshi)"
     url: "/wiki/entities/houshengfangshi/"
+  - key: "HouLanLateHan"
+    title: "侯览 / Hou Lan (late Han)"
+    url: "/wiki/entities/houlanlatehan/"
   - key: "HouChao"
     title: "侯超 / Hou Chao"
     url: "/wiki/entities/houchao/"
@@ -914,6 +917,9 @@ wiki_pages:
   - key: "HuFengLateHan"
     title: "胡封 / Hu Feng (late Han)"
     url: "/wiki/entities/hufenglatehan/"
+  - key: "HuGuangLateHan"
+    title: "胡广 / Hu Guang (late Han)"
+    url: "/wiki/entities/huguanglatehan/"
   - key: "HuGe"
     title: "胡戈 / Hu Ge"
     url: "/wiki/entities/huge/"

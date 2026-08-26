@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》900丨职场权术都不动，该怎样生存](sources/zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr.md) — 芮淇讲透资治通鉴 episode on Hu Guang's moderation-based court survival, anger control and advance/retreat judgment, Hou Lan's uncertain eunuch-faction fall, Empress Dowager Dou's death and funeral mistreatment, and the prelude to the burial meeting resolved in Hanji 901.
 - [《资治通鉴·汉纪》901 丨急性子的人会是什么下场？](sources/zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud.md) — 芮淇讲透资治通鉴 episode on acute-temper emotion control, Kafka's The Metamorphosis self-importance example, and the 172 CE burial debate over Empress Dowager Dou, Li Xian and Chen Qiu's pro-burial argument, eunuch resistance from Zhao Zhong/Cao Jie/Wang Fu, and Emperor Ling's acceptance.
 - [《资治通鉴·汉纪》902丨控制情绪是人生必修课](sources/zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b.md) — 芮淇讲透资治通鉴 episode on strategic emotion concealment, the 172 CE Zhuque Gate accusation against Cao Jie and Wang Fu, Liu Meng's restrained investigation, Duan Jiong's crackdown, Zhang Huan's humbled survival, and Su Buwei's first failed revenge attack on Li Hao.
 - [《资治通鉴·汉纪》903丨为什么劝你冤冤相报何时了？](sources/zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom.md) — 芮淇讲透资治通鉴 episode on Su Buwei's revenge spiral, Duan Jiong's extermination of Su's household, Liu Kui's unpaid Wang Fu brokerage, forged treason evidence, Bohai collateral punishment, Xu Sheng's Kuaiji uprising, and early Emperor Ling office/frontier churn.
@@ -1495,6 +1496,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [胡广 / Hu Guang (late Han)](entities/HuGuangLateHan.md) — Late-Han senior official whose six-reign service, institutional knowledge, mildness, and non-offense make Hanji 900's moderation-based survival case.
+- [侯览 / Hou Lan (late Han)](entities/HouLanLateHan.md) — Late-Han eunuch stripped of office and seals in Hanji 900, used as a source-scoped example of palace protection failing under internal faction risk.
 - [李贤 / Li Xian (taiwei, late Han)](entities/LiXianTaiweiLateHan.md) — Ill taiwei who risks death in Hanji 901 to argue that Empress Dowager Dou should be buried with Emperor Huan; distinct from 李暹 / Li Xian.
 - [窦妙 / Empress Dowager Dou Miao](entities/EmpressDowagerDouMiao.md) — Late-Han empress dowager whose disputed burial with Emperor Huan becomes a 172 CE test of posthumous status, family guilt, and anti-eunuch memory.
 - [汉桓帝 / Emperor Huan of Han](entities/EmperorHuanOfHan.md) — Late-Han emperor used as a posthumous burial reference in Hanji 901 and as a later comparison/succession-memory node.
@@ -9184,6 +9187,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Moderation As Political Survival / 中庸圆滑政治生存](concepts/ModerationAsPoliticalSurvival.md) — Hanji 900 frame for Hu Guang's survival through institutional competence, non-offense, relationship continuity, and controlled exposure, with moral costs kept visible.
+- [Predetermined Meeting Process / 既定结果会议程序](concepts/PredeterminedMeetingProcess.md) — Hanji 900 pattern where formal deliberation can ratify a decision already shaped by authority, factional bargaining, and prior communication.
 - [Imperial Burial Legitimacy / 帝后合葬名分](concepts/ImperialBurialLegitimacy.md) — Hanji 901 pattern where tomb placement, co-sacrifice, and posthumous title decide whether a deceased empress dowager remains inside official role order.
 - [Strategic Emotion Concealment / 情绪不外露的战略纪律](concepts/StrategicEmotionConcealment.md) — Hanji 902 source-scoped discipline of keeping emotion from exposing intention, timing, or leverage before action.
 - [Anonymous Remonstrance Suppression / 匿名进谏压制](concepts/AnonymousRemonstranceSuppression.md) — Late-Han pattern where an anonymous corrective accusation is answered by hunting the speaker and punishing restrained investigation rather than repairing the accused abuses.

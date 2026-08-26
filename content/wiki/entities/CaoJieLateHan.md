@@ -2,11 +2,13 @@
 title: "曹节 / Cao Jie (late Han eunuch)"
 type: entity
 tags: [person, eunuch, late-han, court, china]
-sources: [zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud, zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b, zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a, zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus, zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu, zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg, zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5, zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic]
+sources: [zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr, zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud, zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b, zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a, zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus, zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu, zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg, zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5, zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic]
 last_updated: 2026-08-26
 ---
 
 # 曹节 / Cao Jie (late Han eunuch)
+
+[[zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr|Hanji 900]] backfills Cao Jie before the Hanji 901 burial debate. After [[EmpressDowagerDouMiao|窦皇太后]] dies, Cao Jie and [[WangFuLateHan|王甫]] first try to handle her funeral at guiren status, then prefer burying her elsewhere and moving [[FengGuirenLateHan|冯贵人]] toward [[EmperorHuanOfHan|汉桓帝]]'s tomb. The source presents this as defensive eunuch politics rooted in old grievance around the Dou family, before the next episode shows [[ChenQiuLateHan|陈球 / 陈求]] and [[LiXianTaiweiLateHan|李贤]] forcing the issue in formal meeting.
 
 [[zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud|Hanji 901]] backfills Cao Jie before the Zhuque Gate accusation in Hanji 902. He and [[WangFuLateHan|王甫]] oppose burying [[EmpressDowagerDouMiao|窦皇太后]] with [[EmperorHuanOfHan|汉桓帝]], using prior consort precedents and Dou-family guilt to resist her full posthumous recognition.
 
@@ -37,6 +39,7 @@ This earlier layer changes the Cao Jie page from a death marker into a surveilla
 The episode pairs Cao Jie with the older grievance against [[ChenFanLateHan|陈蕃]] and [[DouWuLateHan|窦武]]. That makes him more than a succession vacancy. His death is a handoff point inside the palace-favorite channel, where one generation's anti-eunuch wounds become the background for Zhao Zhong's later greed, arrogance, and access to [[EmperorLingOfHan|汉灵帝]].
 
 ## Connections
+- [[zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr|Hanji 900]], [[WangFuLateHan|王甫]], [[EmpressDowagerDouMiao|窦皇太后]], [[FengGuirenLateHan|冯贵人]], and [[PredeterminedMeetingProcess|既定结果会议程序]] - funeral-rank dispute and meeting prelude.
 - [[zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud|Hanji 901]], [[WangFuLateHan|王甫]], [[EmpressDowagerDouMiao|窦皇太后]], [[EmperorHuanOfHan|汉桓帝]], and [[ImperialBurialLegitimacy|帝后合葬名分]] - early opposition to Dou's burial recognition.
 - [[zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b|Hanji 902]], [[WangFuLateHan|王甫]], [[LiuMengLateHan|刘猛]], [[DuanJiongLateHan|段熲]], [[EmperorLingOfHan|汉灵帝]], and [[AnonymousRemonstranceSuppression|匿名进谏压制]] - Zhuque Gate accusation and pursuit of the anonymous speaker.
 - [[zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a|Hanji 912]], [[CaiYong|蔡邕]], [[EmperorLingOfHan|汉灵帝]], [[ConfidentialRemonstranceLeakage|密奏泄露风险]], and [[PalaceAccessMonopoly|宫廷接触垄断]] - secret memorial access, leak, and retaliation setup.

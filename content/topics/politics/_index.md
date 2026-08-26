@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1886
+topic_total_pages: 1888
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -1627,6 +1627,9 @@ topic_concepts:
   - key: "ModelWeightPortabilityRisk"
     title: "Model Weight Portability Risk"
     url: "/wiki/concepts/modelweightportabilityrisk/"
+  - key: "ModerationAsPoliticalSurvival"
+    title: "Moderation As Political Survival / 中庸圆滑政治生存"
+    url: "/wiki/concepts/moderationaspoliticalsurvival/"
   - key: "MoralDisengagementRationalization"
     title: "Moral Disengagement Rationalization / 道德推脱式自我合理化"
     url: "/wiki/concepts/moraldisengagementrationalization/"
@@ -2017,6 +2020,9 @@ topic_concepts:
   - key: "PragmaticImmigrationCompromise"
     title: "Pragmatic Immigration Compromise"
     url: "/wiki/concepts/pragmaticimmigrationcompromise/"
+  - key: "PredeterminedMeetingProcess"
+    title: "Predetermined Meeting Process / 既定结果会议程序"
+    url: "/wiki/concepts/predeterminedmeetingprocess/"
   - key: "PredictionMarketEthics"
     title: "Prediction Market Ethics"
     url: "/wiki/concepts/predictionmarketethics/"
