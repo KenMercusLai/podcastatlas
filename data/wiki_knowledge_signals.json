@@ -1327,6 +1327,29 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/cityplacepremium/"
     },
+    "ConcealedCapabilityTiming": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》959丨如果你穿越到三国，该如何存活？ [lroaiHMPNRElmFcUGym9zx2H2dHQ].md",
+          "key": "zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》959丨如果你穿越到三国，该如何存活？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1022丨乱世三国，三位名士的生存抉择 [lgMBekoMxwiU7HjnPXKXGGyhvwaF].md",
+          "key": "zizhi-tongjian-hanji-1022-luanshi-sanguo-sanwei-mingshi-de-shengcun-jueze-lgmbekomxwiu7hjnpxkxggyhvwaf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1022丨乱世三国，三位名士的生存抉择",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1022-luanshi-sanguo-sanwei-mingshi-de-shengcun-jueze-lgmbekomxwiu7hjnpxkxggyhvwaf/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/concealedcapabilitytiming/"
+    },
     "ConsortioGroupFinancing": {
       "episode_count": 1,
       "show_count": 1,
@@ -1694,6 +1717,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/dugenlatehan/"
     },
+    "DuXiLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1022丨乱世三国，三位名士的生存抉择 [lgMBekoMxwiU7HjnPXKXGGyhvwaF].md",
+          "key": "zizhi-tongjian-hanji-1022-luanshi-sanguo-sanwei-mingshi-de-shengcun-jueze-lgmbekomxwiu7hjnpxkxggyhvwaf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1022丨乱世三国，三位名士的生存抉择",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1022-luanshi-sanguo-sanwei-mingshi-de-shengcun-jueze-lgmbekomxwiu7hjnpxkxggyhvwaf/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/duxilatehan/"
+    },
     "DullDirtyDangerousRobotics": {
       "episode_count": 1,
       "show_count": 1,
@@ -1824,6 +1863,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/fifawomensworldcup/"
+    },
+    "FanQinLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1022丨乱世三国，三位名士的生存抉择 [lgMBekoMxwiU7HjnPXKXGGyhvwaF].md",
+          "key": "zizhi-tongjian-hanji-1022-luanshi-sanguo-sanwei-mingshi-de-shengcun-jueze-lgmbekomxwiu7hjnpxkxggyhvwaf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1022丨乱世三国，三位名士的生存抉择",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1022-luanshi-sanguo-sanwei-mingshi-de-shengcun-jueze-lgmbekomxwiu7hjnpxkxggyhvwaf/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/fanqinlatehan/"
     },
     "FatherGaoNortheastMission": {
       "episode_count": 1,
@@ -3991,6 +4046,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/lijihistorian/"
     },
+    "LiTongLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1022丨乱世三国，三位名士的生存抉择 [lgMBekoMxwiU7HjnPXKXGGyhvwaF].md",
+          "key": "zizhi-tongjian-hanji-1022-luanshi-sanguo-sanwei-mingshi-de-shengcun-jueze-lgmbekomxwiu7hjnpxkxggyhvwaf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1022丨乱世三国，三位名士的生存抉择",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1022-luanshi-sanguo-sanwei-mingshi-de-shengcun-jueze-lgmbekomxwiu7hjnpxkxggyhvwaf/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/litonglatehan/"
+    },
     "LinkedIn": {
       "episode_count": 4,
       "show_count": 3,
@@ -5881,6 +5952,29 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/robotteleoperationandremotetakeover/"
     },
+    "RuleOverKinshipPower": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1006丨郭嘉不满袁绍，为何却能归顺曹操？ [lup_p-Inz1sdlhpnAGgqjP0EAvAr].md",
+          "key": "zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1006丨郭嘉不满袁绍，为何却能归顺曹操？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1022丨乱世三国，三位名士的生存抉择 [lgMBekoMxwiU7HjnPXKXGGyhvwaF].md",
+          "key": "zizhi-tongjian-hanji-1022-luanshi-sanguo-sanwei-mingshi-de-shengcun-jueze-lgmbekomxwiu7hjnpxkxggyhvwaf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1022丨乱世三国，三位名士的生存抉择",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1022-luanshi-sanguo-sanwei-mingshi-de-shengcun-jueze-lgmbekomxwiu7hjnpxkxggyhvwaf/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/ruleoverkinshippower/"
+    },
     "SaltRevenueAgriculturalRecovery": {
       "episode_count": 1,
       "show_count": 1,
@@ -7289,6 +7383,43 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/xuzhaolatehan/"
     },
+    "XunYou": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1025丨败于曹操，吕布错在禁酒令？ [ljJT1t2mK77si6re_-WEW_hPl8qZ].md",
+          "key": "zizhi-tongjian-hanji-1025-bai-yu-caocao-lvbu-cuo-zai-jinjiuling-ljjt1t2mk77si6re-wew-hpl8qz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1025丨败于曹操，吕布错在禁酒令？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1025-bai-yu-caocao-lvbu-cuo-zai-jinjiuling-ljjt1t2mk77si6re-wew-hpl8qz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1005丨孙策注定早逝，是性格决定命运？ [lpQnerE2cWcrngggyEzd-BsQAHx4].md",
+          "key": "zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1005丨孙策注定早逝，是性格决定命运？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1006丨郭嘉不满袁绍，为何却能归顺曹操？ [lup_p-Inz1sdlhpnAGgqjP0EAvAr].md",
+          "key": "zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1006丨郭嘉不满袁绍，为何却能归顺曹操？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1022丨乱世三国，三位名士的生存抉择 [lgMBekoMxwiU7HjnPXKXGGyhvwaF].md",
+          "key": "zizhi-tongjian-hanji-1022-luanshi-sanguo-sanwei-mingshi-de-shengcun-jueze-lgmbekomxwiu7hjnpxkxggyhvwaf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1022丨乱世三国，三位名士的生存抉择",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1022-luanshi-sanguo-sanwei-mingshi-de-shengcun-jueze-lgmbekomxwiu7hjnpxkxggyhvwaf/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/xunyou/"
+    },
     "YanBaihu": {
       "episode_count": 3,
       "show_count": 1,
@@ -7633,6 +7764,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/zhaolina/"
+    },
+    "ZhaoYanLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1022丨乱世三国，三位名士的生存抉择 [lgMBekoMxwiU7HjnPXKXGGyhvwaF].md",
+          "key": "zizhi-tongjian-hanji-1022-luanshi-sanguo-sanwei-mingshi-de-shengcun-jueze-lgmbekomxwiu7hjnpxkxggyhvwaf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1022丨乱世三国，三位名士的生存抉择",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1022-luanshi-sanguo-sanwei-mingshi-de-shengcun-jueze-lgmbekomxwiu7hjnpxkxggyhvwaf/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/zhaoyanlatehan/"
     },
     "ZhengBaoLateHan": {
       "episode_count": 1,

@@ -14367,6 +14367,10 @@
     "title": "杜太后 / Empress Dowager Du",
     "url": "/wiki/entities/dutaihou/"
   },
+  "DuXiLateHan": {
+    "title": "杜袭 / Du Xi (late Han)",
+    "url": "/wiki/entities/duxilatehan/"
+  },
   "DuZiChun": {
     "title": "《杜子春》",
     "url": "/wiki/entities/duzichun/"
@@ -16482,6 +16486,10 @@
   "FanQiLuWanEnvoy": {
     "title": "范齐 / Fan Qi (Lu Wan envoy)",
     "url": "/wiki/entities/fanqiluwanenvoy/"
+  },
+  "FanQinLateHan": {
+    "title": "繁钦 / Fan Qin (late Han)",
+    "url": "/wiki/entities/fanqinlatehan/"
   },
   "FanWuji": {
     "title": "樊无忌 / Fan Wuji",
@@ -27810,6 +27818,10 @@
   "LiTiantian": {
     "title": "李天天",
     "url": "/wiki/entities/litiantian/"
+  },
+  "LiTongLateHan": {
+    "title": "李通 / Li Tong (late Han)",
+    "url": "/wiki/entities/litonglatehan/"
   },
   "LiWeiQingOfficial": {
     "title": "李卫 / Li Wei",
@@ -53955,6 +53967,10 @@
     "title": "昭奚恤 / Zhao Xixu",
     "url": "/wiki/entities/zhaoxixu/"
   },
+  "ZhaoYanLateHan": {
+    "title": "赵俨 / Zhao Yan (late Han)",
+    "url": "/wiki/entities/zhaoyanlatehan/"
+  },
   "ZhaoYao": {
     "title": "赵尧 / Zhao Yao",
     "url": "/wiki/entities/zhaoyao/"
@@ -57906,6 +57922,10 @@
   "zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0": {
     "title": "《资治通鉴·汉纪》1020丨三国败家子袁术，如何把好牌打得稀烂？",
     "url": "/wiki/sources/zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0/"
+  },
+  "zizhi-tongjian-hanji-1022-luanshi-sanguo-sanwei-mingshi-de-shengcun-jueze-lgmbekomxwiu7hjnpxkxggyhvwaf": {
+    "title": "《资治通鉴·汉纪》1022丨乱世三国，三位名士的生存抉择",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-1022-luanshi-sanguo-sanwei-mingshi-de-shengcun-jueze-lgmbekomxwiu7hjnpxkxggyhvwaf/"
   },
   "zizhi-tongjian-hanji-1023-jiemi-caocao-yu-zhangxiu-de-bingfa-boyi-lphbnmfdu0x5w7zjra7k0o8cyel4": {
     "title": "《资治通鉴·汉纪》1023丨揭秘曹操与张绣的兵法博弈",

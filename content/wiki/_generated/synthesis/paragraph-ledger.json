@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "45a44f77de74d0637e13f3e7e7b4abaf46478b01a188b0bbe804ec6096a9083c",
       "20a627e1fa58ef974c09c43448d566a65f34c4716c65a7b0cb3a5e9e99aa6c80",
       "d59deaae3eb589df45f702d15d17cc78bcc6a4a8b3742d681f8adc3cf903d0c0",
       "7a0b9342ff7e5037d26f669907c339a74dabea46863d7092ab9f61fd93db331f",
@@ -265,11 +266,37 @@
       "ed252faccaaf1dc4e8c654d3406a6a1a0fc3a6f6fe78821348d1b123c7e85a5c",
       "32b62a0e1fc3144c5e7770721fc745607afef0d0cf46a8fe94d35cab377dbbf9"
     ],
-    "paragraph_count": 263
+    "paragraph_count": 264
   },
-  "overview_commit": "69a3e68e2e8ec691820c19f138a7c3b4eccdf2b4",
-  "overview_digest": "41b02251cab5957d2dd4b9bfcca4ce6ac714273921bd07548f76912b1802c508",
+  "overview_commit": "1c502415f0207645a46c8c95b3436e62b921715a",
+  "overview_digest": "71e6cf96f8cd24ab34eccdaa23117acd27ef723e268e6ecab0bb79c5bcf85b25",
   "paragraphs": [
+    {
+      "id": "45a44f77de74d0637e13f3e7e7b4abaf46478b01a188b0bbe804ec6096a9083c",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "[[zizhi-tongjian-hanji-1022-luanshi-sanguo-sanwei-mingshi-de-shengcun-jueze-lgmbekomxwiu7hjnpxkxggyhvwaf|Hanji 1022]] sharpens late-Han survival and governance before the later Zhang Xiu campaign. [[DuXiLateHan]], [[ZhaoYanLateHan]], and [[FanQinLateHan]] extend [[ConcealedCapabilityTiming]] from individual survival into group refuge strategy: Liu Biao's hospitality in [[Jingzhou]] can preserve talent without becoming final allegiance, while Zhao Yan's later move to [[CaoCao]] after [[Xudu]] shows exposure changing when the patron field changes. The same source extends [[RuleOverKinshipPower]] through [[LiTongLateHan]]: Zhao Yan's execution of Li Tong's wife's uncle becomes credible because Li Tong accepts public duty over private kinship. [[XunYou]]'s rejected advice against rushing [[ZhangXiu]] then sets up Hanji 1023's blocked-retreat consequences, making waiting, attacking, and recruiting all timing-dependent rather than moralized defaults.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 2
+      },
+      "wikilinks": [
+        "CaoCao",
+        "ConcealedCapabilityTiming",
+        "DuXiLateHan",
+        "FanQinLateHan",
+        "Jingzhou",
+        "LiTongLateHan",
+        "RuleOverKinshipPower",
+        "Xudu",
+        "XunYou",
+        "ZhangXiu",
+        "ZhaoYanLateHan",
+        "zizhi-tongjian-hanji-1022-luanshi-sanguo-sanwei-mingshi-de-shengcun-jueze-lgmbekomxwiu7hjnpxkxggyhvwaf"
+      ]
+    },
     {
       "id": "20a627e1fa58ef974c09c43448d566a65f34c4716c65a7b0cb3a5e9e99aa6c80",
       "primary_topic": "business-and-markets",
