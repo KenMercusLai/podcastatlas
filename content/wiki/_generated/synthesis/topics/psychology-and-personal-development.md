@@ -4,15 +4,15 @@ generated: true
 topic_id: psychology-and-personal-development
 title: "Psychology and Personal Development"
 last_updated: 2026-08-26
-as_of_overview_commit: 7d08cfe095712776af7e7c0aab71b20298d0e04e
-input_digest: b4805a40f337aa9b308059589f6e7537d66680802ea98dc9125ffa6c54460e45
+as_of_overview_commit: 4d992a6aa91e0d631ce620d82e72b057b4d79c98
+input_digest: fc3eac70e05f1b56545b97c41e77a89f0ec2220bff3f8556e618fd6fbbcb70c3
 ---
 
 # Psychology and Personal Development
 
 ## Current State
 
-Hanji 901 adds impatience control to the personal-development branch: the episode frames 急性子 as anxiety, compulsion, rigid thinking, result fixation, and self-importance, then offers a small reaction interval through the count-to-three pause and Kafka example. Hanji 902 adds strategic emotion concealment to the personal-development branch: the episode treats uncontrolled display as a survival risk and uses Liu Meng, Zhang Huan, Duan Jiong, and Su Buwei to distinguish timing and self-command from moral endorsement of every tactic. Hanji 1029 adds character-reading delegation to the psychology branch: Sun Ce trusts Taishi Ci's promise, and that trust becomes useful only when Taishi Ci returns with concrete Yuzhang intelligence; the same source's windfall opening treats sudden wealth as a test of restraint, boundaries, and self-knowledge. Data Science With Sam EP47 keeps AI assistance under human judgment and verification, and EP278 extends that boundary into student formation by treating non-algorithmic capabilities, human agency, connection, and pacing as safeguards against becoming tool-like. April 13 Marketplace Tech shows that perceived authorship can affect trust in emotionally meaningful work. Hanji 930 reframes greed and resentment as prompts to build exchangeable capability, and Hanji 962, Hanji 970, and Hanji 999 show relationship trust becoming condition-dependent under violence, assassination risk, grain, protection, and family-safety pressure. Hanji 997 adds emotional attachment as a judgment-risk case, Hanji 1012 shows private desire breaking fragile surrender trust, and Hanji 1015 frames ambition as dangerous when title, timing, recognition, and capacity do not match. The market and workplace paragraphs add the same calibration problem in newer settings: Unitree enthusiasm needs commercial self-checks, investing needs stop-loss and position-sizing discipline, workplace relationships need explicit boundaries, agent automation needs permission limits and human verification, middle-class consumption needs identity-cost discipline, and organizational trust can become both asset and liability. Episode 692 adds a collective-judgment case: confessional trauma memory, Campion's charisma, and the pastoral-versus-subversion ambiguity show how sincere mission can become threatening when identity, legitimacy, and security fear are already coupled.
+Hanji 1040 adds latent rival recognition and crisis composure: Cao Cao reads Liu Bei's ambition, reputation, resilience, and composure as future-threat signals, while Liu Bei survives the "天下英雄" moment through a plausible cover story; the same source turns release of a protected guest into dangerous guest release risk when operational freedom lets Liu Bei recover Xuzhou. Hanji 901 adds impatience control to the personal-development branch: the episode frames 急性子 as anxiety, compulsion, rigid thinking, result fixation, and self-importance, then offers a small reaction interval through the count-to-three pause and Kafka example. Hanji 902 adds strategic emotion concealment to the personal-development branch: the episode treats uncontrolled display as a survival risk and uses Liu Meng, Zhang Huan, Duan Jiong, and Su Buwei to distinguish timing and self-command from moral endorsement of every tactic. Hanji 1029 adds character-reading delegation to the psychology branch: Sun Ce trusts Taishi Ci's promise, and that trust becomes useful only when Taishi Ci returns with concrete Yuzhang intelligence; the same source's windfall opening treats sudden wealth as a test of restraint, boundaries, and self-knowledge. Data Science With Sam EP47 keeps AI assistance under human judgment and verification, and EP278 extends that boundary into student formation by treating non-algorithmic capabilities, human agency, connection, and pacing as safeguards against becoming tool-like. April 13 Marketplace Tech shows that perceived authorship can affect trust in emotionally meaningful work. Hanji 930 reframes greed and resentment as prompts to build exchangeable capability, and Hanji 962, Hanji 970, and Hanji 999 show relationship trust becoming condition-dependent under violence, assassination risk, grain, protection, and family-safety pressure. Hanji 997 adds emotional attachment as a judgment-risk case, Hanji 1012 shows private desire breaking fragile surrender trust, and Hanji 1015 frames ambition as dangerous when title, timing, recognition, and capacity do not match. The market and workplace paragraphs add the same calibration problem in newer settings: Unitree enthusiasm needs commercial self-checks, investing needs stop-loss and position-sizing discipline, workplace relationships need explicit boundaries, agent automation needs permission limits and human verification, middle-class consumption needs identity-cost discipline, and organizational trust can become both asset and liability. Episode 692 adds a collective-judgment case: confessional trauma memory, Campion's charisma, and the pastoral-versus-subversion ambiguity show how sincere mission can become threatening when identity, legitimacy, and security fear are already coupled.
 
 ## Cross-source Findings
 
@@ -39,6 +39,18 @@ Hanji 901 adds impatience control to the personal-development branch: the episod
 - This is the host's personal-development frame layered onto late-Han narrative, not a clinical psychology claim.
 - The source distinguishes emotional concealment and timing from moral approval of revenge, coercion, or political silence.
 - The claim is source-scoped to Hanji 902 because the same figures also belong to governance and history branches.
+
+### Latent Rival Recognition Needs Containment
+
+[[zizhi-tongjian-hanji-1040-luanshi-yingxiong-caocao-weihe-dudu-kanhao-liubei-lrazzwo4bjspvwmnkx5hoar1iq3x|Hanji 1040]] adds a survival-judgment case: [[CaoCao]]'s [[LatentRivalRecognition]] of [[LiuBei]] is paired with [[CrisisComposureCoverStory]] and [[StrategicEmotionConcealment]] inside the [[YidaiZhao]] pressure field, but recognition stops being effective containment once the protected guest is released into [[DangerousGuestReleaseRisk]] and rebuilds position through [[CheZhouLateHan]] and [[Xuzhou]].
+
+**Evidence:** [[zizhi-tongjian-hanji-1040-luanshi-yingxiong-caocao-weihe-dudu-kanhao-liubei-lrazzwo4bjspvwmnkx5hoar1iq3x]], [[CaoCao]], [[LatentRivalRecognition]], [[LiuBei]], [[CrisisComposureCoverStory]], [[StrategicEmotionConcealment]], [[YidaiZhao]], [[DangerousGuestReleaseRisk]], [[CheZhouLateHan]], [[Xuzhou]]
+
+**Qualifications:**
+
+- This is a historical political-psychology reading of a late-Han narrative, not a general psychology finding.
+- The claim does not negate reputation-constrained talent protection; it adds the boundary where protecting a dangerous guest requires containment design.
+- Transcript name normalizations and the 200 CE Liu Dai identity split remain source-scoped.
 
 ### Character Reading Turns Recognition Into Delegation
 

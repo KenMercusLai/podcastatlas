@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 7720
+wiki_total_pages: 7729
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -788,6 +788,9 @@ wiki_pages:
   - key: "LiuDaiLateHan"
     title: "刘岱 / Liu Dai (late Han)"
     url: "/wiki/entities/liudailatehan/"
+  - key: "LiuDaiSikongZhangshi"
+    title: "刘岱 / Liu Dai (Sikong changshi)"
+    url: "/wiki/entities/liudaisikongzhangshi/"
   - key: "LiuBinyan"
     title: "刘彬晏 / Liu Binyan"
     url: "/wiki/entities/liubinyan/"

@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-26
-as_of_overview_commit: cc59c48f09b52bead92585b2dbd3efa4dde47113
-summary: "Durable value hinges on grounded systems: AI office, markets, states, science, work, and judgment need verification, trust, constraints, and real-world feedback."
-episode_count: 1498
-source_count: 1498
-paragraph_count: 248
+as_of_overview_commit: 4d992a6aa91e0d631ce620d82e72b057b4d79c98
+summary: "Durable value hinges on grounded systems: AI, markets, states, science, work, history, and judgment need verification, containment, trust, constraints, and real-world feedback."
+episode_count: 1499
+source_count: 1499
+paragraph_count: 249
 topic_count: 8
 ---
 
@@ -29,27 +29,27 @@ topic_count: 8
 
 ### AI and Technology
 
-AI value now spans office agents, token-efficient agent practice, enterprise rollout, physical AI, defense autonomy, AI-for-science, robotics, provenance, and expression. The newest source makes office agents a commercialization test: workplace context and coding-style verification may make enterprise tasks pay, but consumer retention, token cost, payment culture, permission boundaries, and real-world feedback still decide adoption.
+AI value now spans office agents, token-efficient agent practice, enterprise rollout, physical AI, defense autonomy, AI-for-science, robotics, provenance, and expression. Durable adoption still depends on workflow embedding, verification, permission boundaries, model routing, product economics, safety certification, and real-world feedback.
 
 - AI creates durable value when model capability is embedded in real workflows through [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AIOfficeAgent]], [[AgentFacingInterfaces]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AgentHarness]], and [[TokenEfficientAgentWorkflow]] rather than left as isolated chat or generation. Evidence: [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AgentFacingInterfaces]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AgentHarness]], [[TokenEfficientAgentWorkflow]], [[ModelRoutingCostControl]], [[LocalAgentExecution]], [[MultiAgentCollaboration]], [[AgentNativeSoftware]], [[OpenClaw]], [[HermesAgent]], [[SlockAI]], [[HeadlessSoftware]], [[Paperboy]], [[AIOperationsRole]], [[AgentOptimizedCLI]], [[RoutineAgentAutomation]], [[AIOfficeAgent]], [[ClaudeCode]], [[DingTalk]], [[Feishu]], [[TencentWorkBuddy]], [[DoubaoWork]], [[tengxun-ali-zijie-zhengduo-dagongren-hulianwang-dachang-weihe-jiti-jiama-ai-bangong-1008598460]].
 - The agent branch now points to a token-efficient operating discipline: [[TokenEfficientAgentWorkflow]], [[ModelRoutingCostControl]], [[LocalAgentExecution]], [[MultiAgentCollaboration]], [[PersistentAgentMemory]], [[AISkills]], and [[AgentHarness]] allocate expensive frontier calls, local models, deterministic tools, skills, memory, review, and human attention by task value, uncertainty, risk, latency, and verification cost. Evidence: [[TokenEfficientAgentWorkflow]], [[TokenMaxxing]], [[ModelRoutingCostControl]], [[LocalAgentExecution]], [[MultiAgentCollaboration]], [[PersistentAgentMemory]], [[AISkills]], [[AgentHarness]], [[AIInferenceCostStructure]], [[DeepSeek]], [[Fable5]], [[GLM52]], [[OpenClaw]], [[HermesAgent]], [[SlockAI]], [[DB9]], [[Dongxu]], [[ZhangHongjiang]], [[e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817]].
 
 ### Business and Markets
 
-Market durability comes from demand proof, distribution, operating control, payment evidence, local trust, valuation discipline, and resilience. The AI-office source adds that work-task value, cloud demand, and workplace context can make monetization more legible than consumer chatbot scale, but subsidy-led usage and non-coding ROI still need proof.
+Market durability comes from demand proof, distribution, operating control, payment evidence, local trust, valuation discipline, and resilience. AI office, robotics, SaaS, consumer goods, restaurants, development policy, and infrastructure cases all separate initial attention from repeatable value.
 
 - [[CustomerPull]], [[ProductLedWillingnessToPay]], and [[PreProductSelling]] become durable only when distribution, buyer-commitment, payment proof, and operating gates such as [[CPGDistribution]], [[RetailLineReview]], [[PlanogramGatekeeping]], [[RetailPricePointProductScoping]], [[MassRetailProductionDeadline]], [[EnterprisePOCDiscipline]], [[EnterpriseCustomerAsMarket]], [[AIOfficeAgent]], and [[RobotRepurchaseDemand]] can repeatedly deliver value after initial attention. Evidence: [[CustomerPull]], [[ProductLedWillingnessToPay]], [[PreProductSelling]], [[CPGDistribution]], [[RetailLineReview]], [[PlanogramGatekeeping]], [[RetailPricePointProductScoping]], [[MassRetailProductionDeadline]], [[EnterprisePOCDiscipline]], [[EnterpriseCustomerAsMarket]], [[Templafy]], [[RobotRepurchaseDemand]], [[AIOfficeAgent]], [[AICommercializationPressure]], [[AIConsumerGrowthMetrics]], [[AIInferenceCostStructure]], [[DingTalk]], [[Feishu]], [[TencentWorkBuddy]], [[DoubaoWork]], [[tengxun-ali-zijie-zhengduo-dagongren-hulianwang-dachang-weihe-jiti-jiama-ai-bangong-1008598460]].
 - Technical or creative capability becomes market value only after operational translation: [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AIEngineeringThinking]], [[AICodingVerification]], [[AIOfficeAgent]], [[AgentHarness]], [[AgentFacingInterfaces]], [[AIGameIndustrialization]], [[AIForScience]], [[CausalWorldModels]], and [[HumanoidRobotCommercialization]] all make capability depend on workflow fit, verification, interfaces, experiments, scene fit, or repeated use. Evidence: [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AIEngineeringThinking]], [[AICodingVerification]], [[AIOfficeAgent]], [[AgentHarness]], [[ClaudeCode]], [[AIProgrammingEngineShift]], [[AgentFacingInterfaces]], [[AIGameIndustrialization]], [[AIForScience]], [[CausalWorldModels]], [[HumanoidRobotCommercialization]], [[tengxun-ali-zijie-zhengduo-dagongren-hulianwang-dachang-weihe-jiti-jiama-ai-bangong-1008598460]].
 
 ### Culture and Media
 
-Cultural sources use literature, folklore, games, and media memory to test politics, agency, evidence, and reception, while keeping fictionalized fame distinct from historical proof.
+Cultural sources use literature, folklore, games, and media memory to test politics, identity, evidence, agency, and reception while keeping fictionalized fame distinct from historical proof.
 
 - [[PoliticalConditionAsHumanExperiment]] uses fiction to expose how political conditions, speed, exile, and public performance reshape human behavior. Evidence: [[PoliticalConditionAsHumanExperiment]], [[PublicMoralPerformance]], [[SlownessAsModernityCritique]].
 
 ### Governance and Institutions
 
-Governance capacity ranges from court access, party prohibitions, frontier pressure, and Yijing command collapse to modern surveillance, development, AI, and mission governance, where formal controls work only with implementation discipline and social support.
+Governance capacity ranges from court access, party prohibitions, frontier pressure, and Yijing command collapse to modern surveillance, development, AI, and mission governance. Formal controls work only with implementation discipline, legitimacy, enforceable systems, and social support.
 
 - The early-Han sequence shows victory turning into governance only through family order, capital choice, exit management, reward ranking, ritual hierarchy, frontier containment, [[HanXiongnuHeqinPolicy|heqin]] diplomacy, vassal rollback, investigation-triggered rebellion risk, and finally the failure of personal trust in [[LuWan|Lu Wan]]'s Yan kingship. Evidence: [[LiuBang]], [[StrategicCapitalRelocation]], [[LiAsPoliticalOrder]], [[BaidengEncirclement]], [[HanXiongnuHeqinPolicy]], [[DifferentSurnameKingSuspicion]], [[HuainanKingdomEarlyHan]], [[InvestigationDrivenRebellionEscalation]], [[LuWan]], [[YanState]].
 - State capacity appears as enforceable controls over appointments, territory, households, standards, symbols, and punishment, but [[PowerExitTrap|exit traps]] and backlash show that control does not automatically create social support. Evidence: [[LegalistRulerTechnique]], [[QinAdministrativeStandardization]], [[HouseholdSeparationLaw]], [[ImperialSymbolicStandardization]], [[PowerExitTrap]], [[WarringStatesReformBacklash]].
@@ -63,7 +63,7 @@ The history branch links late-Han title, frontier, access, and alliance cases wi
 
 ### Psychology and Personal Development
 
-Personal judgment is framed as disciplined attention: AI assistance, non-algorithmic agency, authorship trust, emotion concealment, impatience control, risk sizing, ambition, and relationship trust all need verification and constraint awareness.
+Personal judgment is framed as disciplined attention and constraint awareness. Hanji 1040 adds latent rival recognition, crisis composure, and the containment risk of releasing a protected rival; other sources keep AI assistance, authorship trust, emotion concealment, impatience, risk sizing, ambition, and relationship trust tied to verification and self-command.
 
 - [[AugmentedIntelligence]] and [[ep278-ai-shidai-bu-juan-zhuanye-juan-shenme-renzai-zhongliu-tebie-cehua-02-lhvsbropwclouwshe-2-fczwnwzz|EP278]] add a personal-judgment frame for AI use: [[JonathanSchaeffer]] treats LLMs as useful assistants or interns, while the AI-era education source adds [[NonAlgorithmicCapabilities]], [[HumanAgencyUnderAI]], and [[HumanConnectionUnderAI]] as safeguards against letting convenience replace verification, practice, and self-direction. Evidence: [[ep-47-the-ai-pioneer-who-decided-privacy-matters-more-than-hype]], [[ep278-ai-shidai-bu-juan-zhuanye-juan-shenme-renzai-zhongliu-tebie-cehua-02-lhvsbropwclouwshe-2-fczwnwzz]], [[AugmentedIntelligence]], [[JonathanSchaeffer]], [[HumanJudgmentUnderAI]], [[AIVerification]], [[AIHallucination]], [[NonAlgorithmicCapabilities]], [[HumanAgencyUnderAI]], [[HumanConnectionUnderAI]].
 - [[HumanAuthorshipPremium]] and [[AlgorithmAversion]] show that perceived AI authorship can reduce trust in emotionally or identity-relevant products. Evidence: [[HumanAuthorshipPremium]], [[AlgorithmAversion]].

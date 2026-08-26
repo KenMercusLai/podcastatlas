@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1040丨乱世英雄，曹操为何独独看好刘备？](sources/zizhi-tongjian-hanji-1040-luanshi-yingxiong-caocao-weihe-dudu-kanhao-liubei-lrazzwo4bjspvwmnkx5hoar1iq3x.md) — 芮淇讲透资治通鉴 episode on Cao Cao's "天下英雄" judgment of Liu Bei, the Dong Cheng/Yidai Zhao plot, Liu Bei's chopsticks-and-thunder composure, Cao Cao releasing Liu Bei to intercept Yuan Shu, and Liu Bei killing Che Zhou to regain Xuzhou before Guandu.
 - [腾讯、阿里、字节争夺打工人，互联网大厂为何集体加码 AI 办公？](sources/tengxun-ali-zijie-zhengduo-dagongren-hulianwang-dachang-weihe-jiti-jiama-ai-bangong-1008598460.md) — 声动早咖啡 episode on Tencent, Alibaba, and ByteDance shifting from consumer AI chatbots toward AI office products because agents, coding proof, token costs, enterprise context, and payment uncertainty make office workflows the new AI battleground.
 - [E46 我们从未看见彼此](sources/e46-women-congwei-kanjian-bici-lmliksaiwxakmjbn-p2voaaoenxh.md) — 无人知晓 solo episode on AI-era expression, the film 《好朋友们》, evolved intelligence, interpersonal projection, language labels, algorithmic amplification, and Krishnamurti's total attention.
 - [The $1/Hour Worker: Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs](sources/all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680.md) — All-In robotics special on Anybotics, 1X, Boston Dynamics, and Agility Robotics across industrial inspection, home humanoids, warehouse humanoids, teleoperation, robot data, safety, sovereignty, and dangerous-work automation.
@@ -1506,6 +1507,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [衣带诏 / Clothes Belt Edict](entities/YidaiZhao.md) — Alleged hidden imperial instruction associated with Dong Cheng's anti-Cao plot in Hanji 1040.
+- [车胄 / Che Zhou (late Han)](entities/CheZhouLateHan.md) — Cao-side Xuzhou official killed by Liu Bei after Liu Bei leaves Cao Cao's control.
+- [朱灵 / Zhu Ling (late Han)](entities/ZhuLingLateHan.md) — Cao-side officer sent with Liu Bei to intercept Yuan Shu in Hanji 1040.
+- [刘岱 / Liu Dai (Sikong changshi)](entities/LiuDaiSikongZhangshi.md) — Disambiguated Cao-side officer sent with Wang Zhong against Liu Bei in 200 CE.
+- [王忠 / Wang Zhong (late Han)](entities/WangZhongLateHan.md) — Zhonglangjiang in Cao Cao's failed first attack on Liu Bei after the Xuzhou breakaway.
+- [昌豨 / Chang Xi (late Han)](entities/ChangXiLateHan.md) — East Sea local armed leader who joins Liu Bei after the Xuzhou shift.
+- [王服 / Wang Fu (Dong Cheng plot)](entities/WangFuDongChengPlot.md) — Disambiguated anti-Cao conspirator executed after the Dong Cheng plot is exposed.
+- [种辑 / Zhong Ji (late Han)](entities/ZhongJiLateHan.md) — Dong Cheng plot participant rendered as "崇基" in the Hanji 1040 transcript.
+- [吴子兰 / Wu Zilan (late Han)](entities/WuZilanLateHan.md) — Dong Cheng plot participant rendered as "吴子澜" in the Hanji 1040 transcript.
 - [Max Bennett](entities/MaxBennett.md) — Authorial figure behind A Brief History of Intelligence as used in E46's evolved-misrecognition frame.
 - [Good Friends / 好朋友们](entities/GoodFriendsFilm.md) — Korean film case E46 uses to examine friendship, false memory, projection, and the failure to see another person directly.
 - [Jiddu Krishnamurti / 克里希那穆提](entities/JidduKrishnamurti.md) — Thinker E46 uses for image, register, and total attention in interpersonal perception.
@@ -9230,6 +9240,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Latent Rival Recognition / 潜在强敌识别](concepts/LatentRivalRecognition.md) — Strategy pattern of reading future threat in a currently weak but resilient actor, created from Cao Cao's judgment of Liu Bei.
+- [Crisis Composure Cover Story / 临场定力与借势遮掩](concepts/CrisisComposureCoverStory.md) — Self-protection pattern where a visible fear response is quickly explained through a plausible scene cue.
+- [Dangerous Guest Release Risk / 放虎归山式宾客释放风险](concepts/DangerousGuestReleaseRisk.md) — Failure mode where a sheltered high-potential actor is released with enough autonomy to rebuild independent power.
 - [AI Expression Baseline / AI 表达基线](concepts/AIExpressionBaseline.md) — E46 frame for AI raising the floor of ordinary expression and making sincere, experience-grounded human deviation more valuable.
 - [Interpersonal Image Projection / 人际意象投射](concepts/InterpersonalImageProjection.md) — Pattern where another person is seen through memory, fear, desire, labels, and disowned parts of the self.
 - [Evolutionary Misrecognition / 进化式误认](concepts/EvolutionaryMisrecognition.md) — E46 synthesis that survival-oriented cognition helps organisms live while making direct seeing structurally difficult.

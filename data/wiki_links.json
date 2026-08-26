@@ -8623,6 +8623,10 @@
     "title": "唐代长安 / Tang Chang'an",
     "url": "/wiki/entities/changantang/"
   },
+  "ChangXiLateHan": {
+    "title": "昌豨 / Chang Xi (late Han)",
+    "url": "/wiki/entities/changxilatehan/"
+  },
   "ChangXinMemory": {
     "title": "ChangXin Memory / 长鑫存储",
     "url": "/wiki/entities/changxinmemory/"
@@ -8890,6 +8894,10 @@
   "CheDundunYeShiji": {
     "title": "《车墩墩野事记》",
     "url": "/wiki/entities/chedundunyeshiji/"
+  },
+  "CheZhouLateHan": {
+    "title": "车胄 / Che Zhou (late Han)",
+    "url": "/wiki/entities/chezhoulatehan/"
   },
   "ChedunTown": {
     "title": "车墩镇 / Chedun Town",
@@ -11655,6 +11663,10 @@
     "title": "Crisis Autonomous Marriage / 患难自主婚姻",
     "url": "/wiki/concepts/crisisautonomousmarriage/"
   },
+  "CrisisComposureCoverStory": {
+    "title": "Crisis Composure Cover Story / 临场定力与借势遮掩",
+    "url": "/wiki/concepts/crisiscomposurecoverstory/"
+  },
   "CrisisDeceptionSurvival": {
     "title": "Crisis Deception Survival / 临危欺敌求生",
     "url": "/wiki/concepts/crisisdeceptionsurvival/"
@@ -12286,6 +12298,10 @@
   "Dangdang": {
     "title": "当当 / Dangdang",
     "url": "/wiki/entities/dangdang/"
+  },
+  "DangerousGuestReleaseRisk": {
+    "title": "Dangerous Guest Release Risk / 放虎归山式宾客释放风险",
+    "url": "/wiki/concepts/dangerousguestreleaserisk/"
   },
   "DangerousVisions": {
     "title": "Dangerous Visions",
@@ -26887,6 +26903,10 @@
     "title": "Latent Diffusion",
     "url": "/wiki/concepts/latentdiffusion/"
   },
+  "LatentRivalRecognition": {
+    "title": "Latent Rival Recognition / 潜在强敌识别",
+    "url": "/wiki/concepts/latentrivalrecognition/"
+  },
   "LaterHan": {
     "title": "后汉 / Later Han",
     "url": "/wiki/entities/laterhan/"
@@ -28130,6 +28150,10 @@
   "LiuDaiLateHan": {
     "title": "刘岱 / Liu Dai (late Han)",
     "url": "/wiki/entities/liudailatehan/"
+  },
+  "LiuDaiSikongZhangshi": {
+    "title": "刘岱 / Liu Dai (Sikong changshi)",
+    "url": "/wiki/entities/liudaisikongzhangshi/"
   },
   "LiuDanLateHan": {
     "title": "刘诞 / Liu Dan (late Han)",
@@ -48871,6 +48895,10 @@
     "title": "王芬 / Wang Fen (late Han)",
     "url": "/wiki/entities/wangfenlatehan/"
   },
+  "WangFuDongChengPlot": {
+    "title": "王服 / Wang Fu (Dong Cheng plot)",
+    "url": "/wiki/entities/wangfudongchengplot/"
+  },
   "WangFuLateHan": {
     "title": "王甫 / Wang Fu (late Han)",
     "url": "/wiki/entities/wangfulatehan/"
@@ -49134,6 +49162,10 @@
   "WangZhengjun": {
     "title": "Wang Zhengjun / 王政君",
     "url": "/wiki/entities/wangzhengjun/"
+  },
+  "WangZhongLateHan": {
+    "title": "王忠 / Wang Zhong (late Han)",
+    "url": "/wiki/entities/wangzhonglatehan/"
   },
   "WangZhongwen": {
     "title": "王仲闻 / Wang Zhongwen",
@@ -50486,6 +50518,10 @@
   "WuZhicai": {
     "title": "吾之才 / Wu Zhicai",
     "url": "/wiki/entities/wuzhicai/"
+  },
+  "WuZilanLateHan": {
+    "title": "吴子兰 / Wu Zilan (late Han)",
+    "url": "/wiki/entities/wuzilanlatehan/"
   },
   "WuZixu": {
     "title": "伍子胥 / Wu Zixu",
@@ -51946,6 +51982,10 @@
   "Yibin": {
     "title": "Yibin / 宜宾",
     "url": "/wiki/entities/yibin/"
+  },
+  "YidaiZhao": {
+    "title": "衣带诏 / Clothes Belt Edict",
+    "url": "/wiki/entities/yidaizhao/"
   },
   "YieldCurveInversion": {
     "title": "Yield Curve Inversion",
@@ -53591,6 +53631,10 @@
     "title": "Zhiyuan Robotics",
     "url": "/wiki/entities/zhiyuanrobotics/"
   },
+  "ZhongJiLateHan": {
+    "title": "种辑 / Zhong Ji (late Han)",
+    "url": "/wiki/entities/zhongjilatehan/"
+  },
   "ZhongKui": {
     "title": "钟馗",
     "url": "/wiki/entities/zhongkui/"
@@ -53898,6 +53942,10 @@
   "ZhuJunLateHan": {
     "title": "朱儁 / Zhu Jun (late Han)",
     "url": "/wiki/entities/zhujunlatehan/"
+  },
+  "ZhuLingLateHan": {
+    "title": "朱灵 / Zhu Ling (late Han)",
+    "url": "/wiki/entities/zhulinglatehan/"
   },
   "ZhuNing": {
     "title": "朱宁 / Zhu Ning",
@@ -57334,6 +57382,10 @@
   "zizhi-tongjian-hanji-1031-gongsunzan-zhisi-cong-bianjiang-zhanshen-dao-kunshou-zifen-lmqoechccfwmfpmbdx8-tjmnm3jz": {
     "title": "《资治通鉴·汉纪》1031丨公孙瓒之死：从边疆战神到困兽自焚",
     "url": "/wiki/sources/zizhi-tongjian-hanji-1031-gongsunzan-zhisi-cong-bianjiang-zhanshen-dao-kunshou-zifen-lmqoechccfwmfpmbdx8-tjmnm3jz/"
+  },
+  "zizhi-tongjian-hanji-1040-luanshi-yingxiong-caocao-weihe-dudu-kanhao-liubei-lrazzwo4bjspvwmnkx5hoar1iq3x": {
+    "title": "《资治通鉴·汉纪》1040丨乱世英雄，曹操为何独独看好刘备？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-1040-luanshi-yingxiong-caocao-weihe-dudu-kanhao-liubei-lrazzwo4bjspvwmnkx5hoar1iq3x/"
   },
   "zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo": {
     "title": "《资治通鉴·汉纪》139｜“他”再次影响“汉朝”",

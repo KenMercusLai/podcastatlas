@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 5525
+wiki_total_pages: 5528
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -17,6 +17,9 @@ wiki_pages:
   - key: "DailyLiveMediaCadence"
     title: "Daily Live Media Cadence"
     url: "/wiki/concepts/dailylivemediacadence/"
+  - key: "DangerousGuestReleaseRisk"
+    title: "Dangerous Guest Release Risk / 放虎归山式宾客释放风险"
+    url: "/wiki/concepts/dangerousguestreleaserisk/"
   - key: "DaoistAlchemy"
     title: "Daoist Alchemy / 道教炼丹"
     url: "/wiki/concepts/daoistalchemy/"

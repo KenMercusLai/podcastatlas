@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 7720
+wiki_total_pages: 7729
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -767,6 +767,9 @@ wiki_pages:
   - key: "ZhuHanLateHan"
     title: "朱瀚 / Zhu Han (late Han)"
     url: "/wiki/entities/zhuhanlatehan/"
+  - key: "ZhuLingLateHan"
+    title: "朱灵 / Zhu Ling (late Han)"
+    url: "/wiki/entities/zhulinglatehan/"
   - key: "ZhuXi"
     title: "朱熹 / Zhu Xi"
     url: "/wiki/entities/zhuxi/"
@@ -836,6 +839,9 @@ wiki_pages:
   - key: "ZhongShaoLateHan"
     title: "种劭 / Zhong Shao (late Han)"
     url: "/wiki/entities/zhongshaolatehan/"
+  - key: "ZhongJiLateHan"
+    title: "种辑 / Zhong Ji (late Han)"
+    url: "/wiki/entities/zhongjilatehan/"
   - key: "ZhangPingQinGeneral"
     title: "章平 / Zhang Ping (Qin General)"
     url: "/wiki/entities/zhangpingqingeneral/"

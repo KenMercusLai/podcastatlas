@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "547548604597cb96f8ee207d1a3ccc73e53ead93e2136757534d418981e69e17",
       "02aca0cdc3e5a8775e4f935539adfd86ed7ad52997d7c90ca4cf477989391fb1",
       "b59592e9dee1b2eee5a578c1941f5cafbbdd73787a357e7b849bb4a18af13d90",
       "c1fcb3861b584fe6e941c87932da97413c4884d0dceb790e661f42a218f310c0",
@@ -250,11 +251,51 @@
       "d9074e43b7b103fc0d0097b207bf8018227d6e146ca0eb75638118627687641c",
       "b16a38bd6e190222f7f3e6f0535803ce60ae7f3304e3477dfcdd995a15fb502f"
     ],
-    "paragraph_count": 248
+    "paragraph_count": 249
   },
-  "overview_commit": "cc59c48f09b52bead92585b2dbd3efa4dde47113",
-  "overview_digest": "6a27c6d2037debd5ece71ad73a0bbfc8b8286a92f88a38a37f2a1974d2fa2681",
+  "overview_commit": "4d992a6aa91e0d631ce620d82e72b057b4d79c98",
+  "overview_digest": "860fcbc7d9ccd0f72556c168cff1ea7e2559f4963d7de0e72bf09198514cbe53",
   "paragraphs": [
+    {
+      "id": "547548604597cb96f8ee207d1a3ccc73e53ead93e2136757534d418981e69e17",
+      "primary_topic": "psychology-and-personal-development",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1040-luanshi-yingxiong-caocao-weihe-dudu-kanhao-liubei-lrazzwo4bjspvwmnkx5hoar1iq3x]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode centering [[CaoCao|曹操]]'s \"天下英雄\" judgment of [[LiuBei|刘备]] inside the [[YidaiZhao|衣带诏]] conspiracy and the immediate pre-[[GuanduCampaign|官渡之战]] Xuzhou shift. It adds [[YidaiZhao|衣带诏]], [[CheZhouLateHan|车胄]], [[ZhuLingLateHan|朱灵]], [[LiuDaiSikongZhangshi|刘岱]], [[WangZhongLateHan|王忠]], [[ChangXiLateHan|昌豨]], [[WangFuDongChengPlot|王服]], [[ZhongJiLateHan|种辑]], [[WuZilanLateHan|吴子兰]], [[LatentRivalRecognition|潜在强敌识别]], [[CrisisComposureCoverStory|临场定力与借势遮掩]], and [[DangerousGuestReleaseRisk|放虎归山式宾客释放风险]], while extending [[DongChengLateHan|董承]], [[GuoJia|郭嘉]], [[ChengYu|程昱]], [[DongZhaoLateHan|董昭]], [[Xuzhou|徐州]], [[Xiapi|下邳]], [[PeiCounty|小沛]], [[ReputationConstrainedTalentProtection|名声约束下的人才保护]], [[StrategicEmotionConcealment|情绪不外露的战略纪律]], and [[XingshiqingStrategicAssessment|行势情战略评估]]. Its core synthesis is that Cao Cao can recognize Liu Bei's future threat from ambition, reputation, resilience, and composure even when Liu Bei's current force is thin, but recognition fails as containment once Liu Bei receives enough operational freedom to kill Che Zhou, recover Xuzhou, gather local force, and contact Yuan Shao. No settled contradiction is recorded; multiple transcript name forms are normalized source-scoped, and the 200 CE Liu Dai is kept separate from the earlier deceased Yanzhou inspector.",
+      "topic_scores": {
+        "culture-and-media": 1,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 2
+      },
+      "wikilinks": [
+        "CaoCao",
+        "ChangXiLateHan",
+        "CheZhouLateHan",
+        "ChengYu",
+        "CrisisComposureCoverStory",
+        "DangerousGuestReleaseRisk",
+        "DongChengLateHan",
+        "DongZhaoLateHan",
+        "GuanduCampaign",
+        "GuoJia",
+        "LatentRivalRecognition",
+        "LiuBei",
+        "LiuDaiSikongZhangshi",
+        "PeiCounty",
+        "ReputationConstrainedTalentProtection",
+        "RuiqiJiangtouZizhiTongjian",
+        "StrategicEmotionConcealment",
+        "WangFuDongChengPlot",
+        "WangZhongLateHan",
+        "WuZilanLateHan",
+        "Xiapi",
+        "XingshiqingStrategicAssessment",
+        "Xuzhou",
+        "YidaiZhao",
+        "ZhongJiLateHan",
+        "ZhuLingLateHan",
+        "zizhi-tongjian-hanji-1040-luanshi-yingxiong-caocao-weihe-dudu-kanhao-liubei-lrazzwo4bjspvwmnkx5hoar1iq3x"
+      ]
+    },
     {
       "id": "02aca0cdc3e5a8775e4f935539adfd86ed7ad52997d7c90ca4cf477989391fb1",
       "primary_topic": "ai-and-technology",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 7720
+wiki_total_pages: 7729
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -629,6 +629,9 @@ wiki_pages:
   - key: "WuWa"
     title: "吴娃 / Wu Wa"
     url: "/wiki/entities/wuwa/"
+  - key: "WuZilanLateHan"
+    title: "吴子兰 / Wu Zilan (late Han)"
+    url: "/wiki/entities/wuzilanlatehan/"
   - key: "WuGuang"
     title: "吴广 / Wu Guang"
     url: "/wiki/entities/wuguang/"
@@ -884,6 +887,9 @@ wiki_pages:
   - key: "WangWeiTudou"
     title: "王微 / Wang Wei (Tudou)"
     url: "/wiki/entities/wangweitudou/"
+  - key: "WangZhongLateHan"
+    title: "王忠 / Wang Zhong (late Han)"
+    url: "/wiki/entities/wangzhonglatehan/"
   - key: "WangWenfeng"
     title: "王文锋 / Wang Wenfeng"
     url: "/wiki/entities/wangwenfeng/"
@@ -893,6 +899,9 @@ wiki_pages:
   - key: "WangMingchen"
     title: "王明辰 / Wang Mingchen"
     url: "/wiki/entities/wangmingchen/"
+  - key: "WangFuDongChengPlot"
+    title: "王服 / Wang Fu (Dong Cheng plot)"
+    url: "/wiki/entities/wangfudongchengplot/"
   - key: "WangLangLateHan"
     title: "王朗 / Wang Lang (late Han)"
     url: "/wiki/entities/wanglanglatehan/"

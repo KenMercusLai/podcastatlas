@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 5525
+wiki_total_pages: 5528
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1481,6 +1481,9 @@ wiki_pages:
   - key: "CrisisAutonomousMarriage"
     title: "Crisis Autonomous Marriage / 患难自主婚姻"
     url: "/wiki/concepts/crisisautonomousmarriage/"
+  - key: "CrisisComposureCoverStory"
+    title: "Crisis Composure Cover Story / 临场定力与借势遮掩"
+    url: "/wiki/concepts/crisiscomposurecoverstory/"
   - key: "CrisisDeceptionSurvival"
     title: "Crisis Deception Survival / 临危欺敌求生"
     url: "/wiki/concepts/crisisdeceptionsurvival/"

@@ -12009,3 +12009,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-26] ingest | 《资治通鉴·汉纪》1040丨乱世英雄，曹操为何独独看好刘备？
+
+Added source page for Hanji 1040: Cao Cao's "天下英雄" judgment of Liu Bei inside the Dong Cheng/Yidai Zhao plot, Liu Bei's chopsticks-and-thunder composure, Cao Cao's disputed release of Liu Bei to intercept Yuan Shu, Liu Bei's killing of Che Zhou and recovery of Xuzhou, and the failed first Cao-side counterattack by Liu Dai and Wang Zhong. Created disambiguated pages for Che Zhou, Zhu Ling, Liu Dai, Wang Zhong, Chang Xi, Wang Fu, Zhong Ji, Wu Zilan, Clothes Belt Edict, Latent Rival Recognition, Crisis Composure Cover Story, and Dangerous Guest Release Risk. No settled contradiction found; transcript-normalized names and the Liu Dai identity split remain source-scoped.
+
+## [2026-08-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
