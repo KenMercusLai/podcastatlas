@@ -2235,6 +2235,101 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/jonathanhurst/"
     },
+    "KimiDeltaAttention": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "详解Kimi K3：强到冲击Anthropic估值的模型什么样？ (1) [177-1].md",
+          "key": "xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1",
+          "show": "晚点聊 LateTalk",
+          "title": "177: 详解Kimi K3：强到冲击Anthropic估值的模型什么样？",
+          "url": "/wiki/sources/xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1/"
+        },
+        {
+          "episode_file": "152. 领读Kimi K3技术报告：从架构创新聊起，注意力美学、多教师蒸馏和开源MoE [lrVnGxoafcZ7vzH8HywULkwNb6n6].md",
+          "key": "152-lingdu-kimi-k3-jishu-baogao-cong-jiagou-chuangxin-liaoqi-zhuyili-meixue-duojiaoshi-zhengliu-he-kaiyuan-moe-lrvngxoafcz7vzh8hywulkwnb6n6",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "152. 领读Kimi K3技术报告：从架构创新聊起，注意力美学、多教师蒸馏和开源MoE",
+          "url": "/wiki/sources/152-lingdu-kimi-k3-jishu-baogao-cong-jiagou-chuangxin-liaoqi-zhuyili-meixue-duojiaoshi-zhengliu-he-kaiyuan-moe-lrvngxoafcz7vzh8hywulkwnb6n6/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/kimideltaattention/"
+    },
+    "KimiK3": {
+      "episode_count": 9,
+      "show_count": 7,
+      "source_note_count": 9,
+      "sources": [
+        {
+          "episode_file": "蒸馏风暴：一场无人公开谈论的技术竞赛 (1) [179-1].md",
+          "key": "zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1",
+          "show": "晚点聊 LateTalk",
+          "title": "179: 蒸馏风暴：一场无人公开谈论的技术竞赛",
+          "url": "/wiki/sources/zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1/"
+        },
+        {
+          "episode_file": "「蜘蛛侠」新片拿下近半国内票房，AI 模型爆发价格战 [1004403588].md",
+          "key": "zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588",
+          "show": "声动早咖啡",
+          "title": "「蜘蛛侠」新片拿下近半国内票房，AI 模型爆发价格战",
+          "url": "/wiki/sources/zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588/"
+        },
+        {
+          "episode_file": "详解Kimi K3：强到冲击Anthropic估值的模型什么样？ (1) [177-1].md",
+          "key": "xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1",
+          "show": "晚点聊 LateTalk",
+          "title": "177: 详解Kimi K3：强到冲击Anthropic估值的模型什么样？",
+          "url": "/wiki/sources/xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1/"
+        },
+        {
+          "episode_file": "E246｜何谓蒸馏？聊聊硅谷如何看中国开放模型逼近前沿 [5fd236d7-9a72-4b15-9e84-e83ceadd1b41].md",
+          "key": "e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41",
+          "show": "硅谷101",
+          "title": "E246｜何谓蒸馏？聊聊硅谷如何看中国开放模型逼近前沿",
+          "url": "/wiki/sources/e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41/"
+        },
+        {
+          "episode_file": "姚顺雨，来到腾讯300天 (1) [176-1].md",
+          "key": "yao-shunyu-laidao-tengxun-300tian-1-176-1",
+          "show": "晚点聊 LateTalk",
+          "title": "176: 姚顺宇，来到腾讯300天",
+          "url": "/wiki/sources/yao-shunyu-laidao-tengxun-300tian-1-176-1/"
+        },
+        {
+          "episode_file": "tech_20260731_0731_MP_TECH_pod_128 [tech_20260731_0731_MP_TECH_pod_128].md",
+          "key": "tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Meta and Microsoft report different AI earnings",
+          "url": "/wiki/sources/tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "AI 不只比智商，WAIC 和 Kimi K3 透露了什么新竞争 ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [ai-不只比智商，waic-和-kimi-k3-透露了什么新竞争-1].md",
+          "key": "ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1",
+          "show": "科技乱炖",
+          "title": "AI 不只比智商，WAIC 和 Kimi K3 透露了什么新竞争",
+          "url": "/wiki/sources/ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1/"
+        },
+        {
+          "episode_file": "国产 AI 算力能凭「超节点」弯道超车吗？ ｜ WAIC 深度观察 S10E23 [a6c6ab3e-72b2-470b-aefd-04b19679d37f].md",
+          "key": "guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f",
+          "show": "What's Next｜科技早知道",
+          "title": "国产 AI 算力能凭「超节点」弯道超车吗？｜WAIC 深度观察 S10E23",
+          "url": "/wiki/sources/guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f/"
+        },
+        {
+          "episode_file": "152. 领读Kimi K3技术报告：从架构创新聊起，注意力美学、多教师蒸馏和开源MoE [lrVnGxoafcZ7vzH8HywULkwNb6n6].md",
+          "key": "152-lingdu-kimi-k3-jishu-baogao-cong-jiagou-chuangxin-liaoqi-zhuyili-meixue-duojiaoshi-zhengliu-he-kaiyuan-moe-lrvngxoafcz7vzh8hywulkwnb6n6",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "152. 领读Kimi K3技术报告：从架构创新聊起，注意力美学、多教师蒸馏和开源MoE",
+          "url": "/wiki/sources/152-lingdu-kimi-k3-jishu-baogao-cong-jiagou-chuangxin-liaoqi-zhuyili-meixue-duojiaoshi-zhengliu-he-kaiyuan-moe-lrvngxoafcz7vzh8hywulkwnb6n6/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/kimik3/"
+    },
     "KongBaoLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -2363,6 +2458,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/languagecompressionlabeling/"
+    },
+    "LatentMoE": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "152. 领读Kimi K3技术报告：从架构创新聊起，注意力美学、多教师蒸馏和开源MoE [lrVnGxoafcZ7vzH8HywULkwNb6n6].md",
+          "key": "152-lingdu-kimi-k3-jishu-baogao-cong-jiagou-chuangxin-liaoqi-zhuyili-meixue-duojiaoshi-zhengliu-he-kaiyuan-moe-lrvngxoafcz7vzh8hywulkwnb6n6",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "152. 领读Kimi K3技术报告：从架构创新聊起，注意力美学、多教师蒸馏和开源MoE",
+          "url": "/wiki/sources/152-lingdu-kimi-k3-jishu-baogao-cong-jiagou-chuangxin-liaoqi-zhuyili-meixue-duojiaoshi-zhengliu-he-kaiyuan-moe-lrvngxoafcz7vzh8hywulkwnb6n6/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/latentmoe/"
     },
     "LatentRivalRecognition": {
       "episode_count": 1,
@@ -3074,6 +3185,66 @@
       "updated": "2026-08-18",
       "url": "/wiki/concepts/modelcontextprotocol/"
     },
+    "ModelInfraCoDesign": {
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "E247｜对话盛颖：xAI，Infra的浪漫，SGLang，开源，平权与“甄嬛传” [6c9d13b1-ac9a-4a7a-a35b-99bfb8374668].md",
+          "key": "e247-duihua-shengying-xai-infra-de-langman-sglang-kaiyuan-pingquan-yu-zhenhuanchuan-6c9d13b1-ac9a-4a7a-a35b-99bfb8374668",
+          "show": "硅谷101",
+          "title": "E247｜对话盛颖：xAI，Infra的浪漫，SGLang，开源，平权与“甄嬛传”",
+          "url": "/wiki/sources/e247-duihua-shengying-xai-infra-de-langman-sglang-kaiyuan-pingquan-yu-zhenhuanchuan-6c9d13b1-ac9a-4a7a-a35b-99bfb8374668/"
+        },
+        {
+          "episode_file": "详解Kimi K3：强到冲击Anthropic估值的模型什么样？ (1) [177-1].md",
+          "key": "xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1",
+          "show": "晚点聊 LateTalk",
+          "title": "177: 详解Kimi K3：强到冲击Anthropic估值的模型什么样？",
+          "url": "/wiki/sources/xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1/"
+        },
+        {
+          "episode_file": "148. 对游凯超3小时访谈：开源Infra、和模型Co-design 、“如果vLLM失败，我们会后悔一辈子” [lg-fhgPMq4r-8L_-5_YRimxgkIms].md",
+          "key": "148-dui-you-kaichao-3-xiaoshi-fangtan-kaiyuan-infra-he-moxing-co-design-ruguo-vllm-shibai-women-hui-houhui-yibeizi-lg-fhgpmq4r-8l-5-yrimxgkims",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "148. 对游凯超3小时访谈：开源Infra、和模型Co-design 、“如果vLLM失败，我们会后悔一辈子”",
+          "url": "/wiki/sources/148-dui-you-kaichao-3-xiaoshi-fangtan-kaiyuan-infra-he-moxing-co-design-ruguo-vllm-shibai-women-hui-houhui-yibeizi-lg-fhgpmq4r-8l-5-yrimxgkims/"
+        },
+        {
+          "episode_file": "152. 领读Kimi K3技术报告：从架构创新聊起，注意力美学、多教师蒸馏和开源MoE [lrVnGxoafcZ7vzH8HywULkwNb6n6].md",
+          "key": "152-lingdu-kimi-k3-jishu-baogao-cong-jiagou-chuangxin-liaoqi-zhuyili-meixue-duojiaoshi-zhengliu-he-kaiyuan-moe-lrvngxoafcz7vzh8hywulkwnb6n6",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "152. 领读Kimi K3技术报告：从架构创新聊起，注意力美学、多教师蒸馏和开源MoE",
+          "url": "/wiki/sources/152-lingdu-kimi-k3-jishu-baogao-cong-jiagou-chuangxin-liaoqi-zhuyili-meixue-duojiaoshi-zhengliu-he-kaiyuan-moe-lrvngxoafcz7vzh8hywulkwnb6n6/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/modelinfracodesign/"
+    },
+    "MultiTeacherDistillation": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "详解Kimi K3：强到冲击Anthropic估值的模型什么样？ (1) [177-1].md",
+          "key": "xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1",
+          "show": "晚点聊 LateTalk",
+          "title": "177: 详解Kimi K3：强到冲击Anthropic估值的模型什么样？",
+          "url": "/wiki/sources/xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1/"
+        },
+        {
+          "episode_file": "152. 领读Kimi K3技术报告：从架构创新聊起，注意力美学、多教师蒸馏和开源MoE [lrVnGxoafcZ7vzH8HywULkwNb6n6].md",
+          "key": "152-lingdu-kimi-k3-jishu-baogao-cong-jiagou-chuangxin-liaoqi-zhuyili-meixue-duojiaoshi-zhengliu-he-kaiyuan-moe-lrvngxoafcz7vzh8hywulkwnb6n6",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "152. 领读Kimi K3技术报告：从架构创新聊起，注意力美学、多教师蒸馏和开源MoE",
+          "url": "/wiki/sources/152-lingdu-kimi-k3-jishu-baogao-cong-jiagou-chuangxin-liaoqi-zhuyili-meixue-duojiaoshi-zhengliu-he-kaiyuan-moe-lrvngxoafcz7vzh8hywulkwnb6n6/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/multiteacherdistillation/"
+    },
     "NatalieStokel": {
       "episode_count": 1,
       "show_count": 1,
@@ -3105,6 +3276,29 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/neorobot/"
+    },
+    "NoPositionEncoding": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "详解Kimi K3：强到冲击Anthropic估值的模型什么样？ (1) [177-1].md",
+          "key": "xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1",
+          "show": "晚点聊 LateTalk",
+          "title": "177: 详解Kimi K3：强到冲击Anthropic估值的模型什么样？",
+          "url": "/wiki/sources/xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1/"
+        },
+        {
+          "episode_file": "152. 领读Kimi K3技术报告：从架构创新聊起，注意力美学、多教师蒸馏和开源MoE [lrVnGxoafcZ7vzH8HywULkwNb6n6].md",
+          "key": "152-lingdu-kimi-k3-jishu-baogao-cong-jiagou-chuangxin-liaoqi-zhuyili-meixue-duojiaoshi-zhengliu-he-kaiyuan-moe-lrvngxoafcz7vzh8hywulkwnb6n6",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "152. 领读Kimi K3技术报告：从架构创新聊起，注意力美学、多教师蒸馏和开源MoE",
+          "url": "/wiki/sources/152-lingdu-kimi-k3-jishu-baogao-cong-jiagou-chuangxin-liaoqi-zhuyili-meixue-duojiaoshi-zhengliu-he-kaiyuan-moe-lrvngxoafcz7vzh8hywulkwnb6n6/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/nopositionencoding/"
     },
     "NonAlgorithmicCapabilities": {
       "episode_count": 2,
@@ -3160,6 +3354,29 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/northeastmodernitytestsite/"
+    },
+    "OnPolicyDistillation": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "详解Kimi K3：强到冲击Anthropic估值的模型什么样？ (1) [177-1].md",
+          "key": "xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1",
+          "show": "晚点聊 LateTalk",
+          "title": "177: 详解Kimi K3：强到冲击Anthropic估值的模型什么样？",
+          "url": "/wiki/sources/xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1/"
+        },
+        {
+          "episode_file": "152. 领读Kimi K3技术报告：从架构创新聊起，注意力美学、多教师蒸馏和开源MoE [lrVnGxoafcZ7vzH8HywULkwNb6n6].md",
+          "key": "152-lingdu-kimi-k3-jishu-baogao-cong-jiagou-chuangxin-liaoqi-zhuyili-meixue-duojiaoshi-zhengliu-he-kaiyuan-moe-lrvngxoafcz7vzh8hywulkwnb6n6",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "152. 领读Kimi K3技术报告：从架构创新聊起，注意力美学、多教师蒸馏和开源MoE",
+          "url": "/wiki/sources/152-lingdu-kimi-k3-jishu-baogao-cong-jiagou-chuangxin-liaoqi-zhuyili-meixue-duojiaoshi-zhengliu-he-kaiyuan-moe-lrvngxoafcz7vzh8hywulkwnb6n6/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/onpolicydistillation/"
     },
     "OneX": {
       "episode_count": 1,
@@ -3341,6 +3558,29 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/predictiveworldmodelanxiety/"
+    },
+    "QuantileBalancing": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "详解Kimi K3：强到冲击Anthropic估值的模型什么样？ (1) [177-1].md",
+          "key": "xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1",
+          "show": "晚点聊 LateTalk",
+          "title": "177: 详解Kimi K3：强到冲击Anthropic估值的模型什么样？",
+          "url": "/wiki/sources/xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1/"
+        },
+        {
+          "episode_file": "152. 领读Kimi K3技术报告：从架构创新聊起，注意力美学、多教师蒸馏和开源MoE [lrVnGxoafcZ7vzH8HywULkwNb6n6].md",
+          "key": "152-lingdu-kimi-k3-jishu-baogao-cong-jiagou-chuangxin-liaoqi-zhuyili-meixue-duojiaoshi-zhengliu-he-kaiyuan-moe-lrvngxoafcz7vzh8hywulkwnb6n6",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "152. 领读Kimi K3技术报告：从架构创新聊起，注意力美学、多教师蒸馏和开源MoE",
+          "url": "/wiki/sources/152-lingdu-kimi-k3-jishu-baogao-cong-jiagou-chuangxin-liaoqi-zhuyili-meixue-duojiaoshi-zhengliu-he-kaiyuan-moe-lrvngxoafcz7vzh8hywulkwnb6n6/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/quantilebalancing/"
     },
     "RescueReciprocityCommandTrust": {
       "episode_count": 2,
@@ -3703,6 +3943,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/sunshengeasternjin/"
+    },
+    "SunYutao": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "152. 领读Kimi K3技术报告：从架构创新聊起，注意力美学、多教师蒸馏和开源MoE [lrVnGxoafcZ7vzH8HywULkwNb6n6].md",
+          "key": "152-lingdu-kimi-k3-jishu-baogao-cong-jiagou-chuangxin-liaoqi-zhuyili-meixue-duojiaoshi-zhengliu-he-kaiyuan-moe-lrvngxoafcz7vzh8hywulkwnb6n6",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "152. 领读Kimi K3技术报告：从架构创新聊起，注意力美学、多教师蒸馏和开源MoE",
+          "url": "/wiki/sources/152-lingdu-kimi-k3-jishu-baogao-cong-jiagou-chuangxin-liaoqi-zhuyili-meixue-duojiaoshi-zhengliu-he-kaiyuan-moe-lrvngxoafcz7vzh8hywulkwnb6n6/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/sunyutao/"
     },
     "SurrenderAsCivilianProtectionTradeoff": {
       "episode_count": 1,

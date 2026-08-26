@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 5550
+wiki_total_pages: 5552
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -104,6 +104,9 @@ wiki_pages:
   - key: "LatentDiffusion"
     title: "Latent Diffusion"
     url: "/wiki/concepts/latentdiffusion/"
+  - key: "LatentMoE"
+    title: "Latent MoE"
+    url: "/wiki/concepts/latentmoe/"
   - key: "LatentRivalRecognition"
     title: "Latent Rival Recognition / 潜在强敌识别"
     url: "/wiki/concepts/latentrivalrecognition/"

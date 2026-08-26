@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2439
+topic_total_pages: 2443
 topic_concepts:
   - key: "AcademicAIResearchRole"
     title: "Academic AI Research Role"
@@ -2062,6 +2062,9 @@ topic_concepts:
   - key: "LatentDiffusion"
     title: "Latent Diffusion"
     url: "/wiki/concepts/latentdiffusion/"
+  - key: "LatentMoE"
+    title: "Latent MoE"
+    url: "/wiki/concepts/latentmoe/"
   - key: "LawyerState"
     title: "Lawyer State / 律师国家"
     url: "/wiki/concepts/lawyerstate/"
@@ -2302,6 +2305,9 @@ topic_concepts:
   - key: "MSPChannelDistribution"
     title: "MSP Channel Distribution"
     url: "/wiki/concepts/mspchanneldistribution/"
+  - key: "MultiTeacherDistillation"
+    title: "Multi-Teacher Distillation"
+    url: "/wiki/concepts/multiteacherdistillation/"
   - key: "MultimodalIntelligence"
     title: "Multimodal Intelligence"
     url: "/wiki/concepts/multimodalintelligence/"
@@ -5567,6 +5573,9 @@ topic_entities:
   - key: "Sugon"
     title: "Sugon / 中科曙光"
     url: "/wiki/entities/sugon/"
+  - key: "SunYutao"
+    title: "Sun Yutao / 孙宇涛"
+    url: "/wiki/entities/sunyutao/"
   - key: "Suno"
     title: "Suno"
     url: "/wiki/entities/suno/"
@@ -6363,6 +6372,9 @@ topic_sources:
   - key: "151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1"
     title: "151.私募信贷Private Credit：加速AI建设的“天使”，还是诱发金融危机的“恶魔”？"
     url: "/wiki/sources/151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1/"
+  - key: "152-lingdu-kimi-k3-jishu-baogao-cong-jiagou-chuangxin-liaoqi-zhuyili-meixue-duojiaoshi-zhengliu-he-kaiyuan-moe-lrvngxoafcz7vzh8hywulkwnb6n6"
+    title: "152. 领读Kimi K3技术报告：从架构创新聊起，注意力美学、多教师蒸馏和开源MoE"
+    url: "/wiki/sources/152-lingdu-kimi-k3-jishu-baogao-cong-jiagou-chuangxin-liaoqi-zhuyili-meixue-duojiaoshi-zhengliu-he-kaiyuan-moe-lrvngxoafcz7vzh8hywulkwnb6n6/"
   - key: "152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz"
     title: "152.关于2026年的四个猜想"
     url: "/wiki/sources/152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz/"

@@ -495,6 +495,10 @@
     "title": "152.关于2026年的四个猜想",
     "url": "/wiki/sources/152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz/"
   },
+  "152-lingdu-kimi-k3-jishu-baogao-cong-jiagou-chuangxin-liaoqi-zhuyili-meixue-duojiaoshi-zhengliu-he-kaiyuan-moe-lrvngxoafcz7vzh8hywulkwnb6n6": {
+    "title": "152. 领读Kimi K3技术报告：从架构创新聊起，注意力美学、多教师蒸馏和开源MoE",
+    "url": "/wiki/sources/152-lingdu-kimi-k3-jishu-baogao-cong-jiagou-chuangxin-liaoqi-zhuyili-meixue-duojiaoshi-zhengliu-he-kaiyuan-moe-lrvngxoafcz7vzh8hywulkwnb6n6/"
+  },
   "152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062": {
     "title": "152.夜色如水话七夕，牛郎原本是保安？【民俗学系列填坑啦】",
     "url": "/wiki/sources/152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062/"
@@ -26971,6 +26975,10 @@
     "title": "Latent Diffusion",
     "url": "/wiki/concepts/latentdiffusion/"
   },
+  "LatentMoE": {
+    "title": "Latent MoE",
+    "url": "/wiki/concepts/latentmoe/"
+  },
   "LatentRivalRecognition": {
     "title": "Latent Rival Recognition / 潜在强敌识别",
     "url": "/wiki/concepts/latentrivalrecognition/"
@@ -32430,6 +32438,10 @@
   "MultiStrategyAllocation": {
     "title": "Multi-Strategy Allocation",
     "url": "/wiki/concepts/multistrategyallocation/"
+  },
+  "MultiTeacherDistillation": {
+    "title": "Multi-Teacher Distillation",
+    "url": "/wiki/concepts/multiteacherdistillation/"
   },
   "MultidisciplinaryHospitalCare": {
     "title": "Multidisciplinary Hospital Care / 医院多职种协作",
@@ -44854,6 +44866,10 @@
   "SunYuanhua": {
     "title": "孙元化 / Sun Yuanhua",
     "url": "/wiki/entities/sunyuanhua/"
+  },
+  "SunYutao": {
+    "title": "Sun Yutao / 孙宇涛",
+    "url": "/wiki/entities/sunyutao/"
   },
   "SunZhonghuai": {
     "title": "孙忠怀 / Sun Zhonghuai",

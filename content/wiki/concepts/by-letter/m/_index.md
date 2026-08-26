@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 5550
+wiki_total_pages: 5552
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -881,6 +881,9 @@ wiki_pages:
   - key: "MultiStrategyAllocation"
     title: "Multi-Strategy Allocation"
     url: "/wiki/concepts/multistrategyallocation/"
+  - key: "MultiTeacherDistillation"
+    title: "Multi-Teacher Distillation"
+    url: "/wiki/concepts/multiteacherdistillation/"
   - key: "MultidisciplinaryHospitalCare"
     title: "Multidisciplinary Hospital Care / 医院多职种协作"
     url: "/wiki/concepts/multidisciplinaryhospitalcare/"

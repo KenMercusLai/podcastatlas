@@ -746,6 +746,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "152-lingdu-kimi-k3-jishu-baogao-cong-jiagou-chuangxin-liaoqi-zhuyili-meixue-duojiaoshi-zhengliu-he-kaiyuan-moe-lrvngxoafcz7vzh8hywulkwnb6n6": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d": [
     {
       "key": "technology",
@@ -32513,6 +32520,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "LatentMoE": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "LatinAmerica": [
     {
       "key": "economics",
@@ -38196,6 +38210,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "MultiTeacherDistillation": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "MultimodalIntelligence": [
@@ -53269,6 +53290,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "SunYutao": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "SunZhonghuai": [

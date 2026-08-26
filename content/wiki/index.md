@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [152. 领读Kimi K3技术报告：从架构创新聊起，注意力美学、多教师蒸馏和开源MoE](sources/152-lingdu-kimi-k3-jishu-baogao-cong-jiagou-chuangxin-liaoqi-zhuyili-meixue-duojiaoshi-zhengliu-he-kaiyuan-moe-lrvngxoafcz7vzh8hywulkwnb6n6.md) — 张小珺Jùn technical-report reading with Sun Yutao on Kimi K3's 2.8T/100B-active MoE scale, KDA lineage, Latent MoE, quantile balancing, NoPE, multi-teacher distillation, and model-infra co-design.
 - [Episode 20: 100 年前东北女孩写给巴黎的信｜对谈历史学者李纪：普通人如何穿过大历史？](sources/100-nian-qian-dongbei-nvhai-xie-gei-bali-de-xin-duitan-lishixuezhe-liji-putongren-ruhe-chuanguo-da-lishi-3d36f181-94ad-4883-8db3-5f040b5ed45b.md) — Fuyou Tiandi episode with historian Li Ji on Northeast Catholic mission villages, three Du-family girls' letters to Paris, missionary maps and archives, ordinary people's historical visibility, and historical judgment against one-line labels.
 - [《资治通鉴·汉纪》1037丨忠于曹操or刘表？揭秘韩嵩的忠义抉择](sources/zizhi-tongjian-hanji-1037-zhongyu-caocao-or-liubiao-jiemi-hansong-de-zhongyi-jueze-lomrbxffcu6euantozh2fjvrykva.md) — 芮淇讲透资治通鉴 episode on Han Song's court-loyalty conflict with Liu Biao, Liu Biao's suspicion and imprisonment of him, Liu Ye's killing of Zheng Bao, and the follower/grain pressure that sets up Liu Xun before Hanji 1038.
 - [《资治通鉴·汉纪》1038丨三十六计之调虎离山：孙策智取皖城](sources/zizhi-tongjian-hanji-1038-sanshiliu-ji-zhi-diaohu-lishan-sunce-zhiqu-wancheng-lhomk8hfdidl61degwbqtj2xkj9z.md) — 芮淇讲透资治通鉴 episode on Sun Ce luring Liu Xun out of Lujiang, Liu Ye's ignored warning, the capture of Wan City with Zhou Yu, Liu Xun's flight to Cao Cao, and the Huang Zu/Yuzhang follow-on.
@@ -4209,7 +4210,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [东尼 / Tony (content engineer)](entities/TonyContentEngineer.md) — Former media worker and AI model-content practitioner explaining content engineering, internationalization, and podcast-like voice-agent design.
 - [Bianca (content engineer)](entities/BiancaContentEngineer.md) — Content-engineering speaker grounding AI answer evaluation in product goals, intent reading, uncertainty handling, and consensus-trained art limits.
 - [WAIC](entities/WAIC.md) — World Artificial Intelligence Conference context used by Keji Luandun to read the AI industry's shift from model spectacle toward landing, commercialization, and deployment.
-- [Kimi K3](entities/KimiK3.md) — Kimi model/product case spanning open-weight debate, workflow-fit tests, KDA, Attention Residues, MoE routing, Per-Head Muon, MOPD, AgentIn, and infrastructure constraints.
+- [Kimi K3](entities/KimiK3.md) — Kimi model/product case spanning open-weight debate, workflow-fit tests, KDA, Latent MoE, quantile balancing, NoPE, multi-teacher distillation, and infrastructure constraints.
+- [Sun Yutao / 孙宇涛](entities/SunYutao.md) — LLM architecture and training researcher serving as the source-scoped guide to Kimi K3's technical-report lineage and infra tradeoffs.
 - [Huawei CM384](entities/HuaweiCM384.md) — Huawei AI supernode case used to compare domestic system-level catch-up against Nvidia GB200 NVL72 through aggregate compute, power, cooling, and market validation.
 - [Nvidia GB200 NVL72](entities/NvidiaGB200NVL72.md) — Nvidia Blackwell rack-scale supernode reference used in the WAIC source as the benchmark for Huawei CM384 and domestic AI infrastructure comparison.
 - [Alibaba Cloud / 阿里云](entities/AlibabaCloud.md) — Alibaba cloud-infrastructure unit connecting Aliyun Bailian model serving, Pingtouge chip work, and WAIC supernode participation.
@@ -10652,14 +10654,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [African Radio Resilience](concepts/AfricanRadioResilience.md) — Persistence of radio across Africa because it is cheap, phone-compatible, culturally embedded, useful in traffic, and not dependent on mobile data.
 - [Low-Data Media Access](concepts/LowDataMediaAccess.md) — Access advantage of media channels that work when connectivity or mobile data is limited.
 - [DAB Radio Capacity Expansion](concepts/DABRadioCapacityExpansion.md) — Digital broadcast upgrade being trialed in Kenya, Ghana, and Senegal to relieve crowded radio spectrum.
-- [Kimi Delta Attention / KDA](concepts/KimiDeltaAttention.md) — Kimi K3 linear-attention mechanism that lowers long-context state cost while complicating prefix reuse, rollback, and serving implementation.
+- [Kimi Delta Attention / KDA](concepts/KimiDeltaAttention.md) — Kimi K3 linear-attention mechanism whose channelized decay and kernels lower long-context state cost while complicating prefix reuse, rollback, and serving implementation.
 - [Attention Residues](concepts/AttentionResidues.md) — Kimi K3 depth-direction attention mechanism for selectively reading shallower-layer representations instead of relying only on additive residual streams.
-- [NoPE / No Position Encoding](concepts/NoPositionEncoding.md) — Position-encoding-light architecture pattern where KDA recurrent state, gating, and decay carry order and recency information.
-- [Quantile Balancing](concepts/QuantileBalancing.md) — MoE routing-balance method used in the Kimi K3 discussion to stabilize sparse expert load without a separate auxiliary loss.
+- [NoPE / No Position Encoding](concepts/NoPositionEncoding.md) — Position-encoding-light architecture pattern where KDA recurrent state, gating, decay, and hybrid attention carry order and recency information.
+- [Quantile Balancing](concepts/QuantileBalancing.md) — MoE routing-balance method using routing-score distribution information to stabilize sparse expert load without a separate auxiliary loss.
+- [Latent MoE](concepts/LatentMoE.md) — MoE communication-reduction pattern where a reduced latent hidden state is dispatched to experts before capacity is recovered elsewhere.
 - [Per-Head Muon](concepts/PerHeadMuon.md) — Kimi K3 optimizer variation applying Muon-style orthogonalized updates per attention head for large-scale training stability.
 - [Kernel Development Agents](concepts/KernelDevelopmentAgents.md) — AI agents for low-level kernel optimization, treated as a cheap, verifiable local recursive self-improvement loop.
 - [MOPD Post-Training](concepts/MOPDPostTraining.md) — Post-training recipe that merges domain expert models and reasoning-effort levels back into one model.
-- [On-Policy Distillation](concepts/OnPolicyDistillation.md) — Distillation method where the student generates trajectories and a teacher scores them, keeping rewards near the student's current behavior.
+- [On-Policy Distillation](concepts/OnPolicyDistillation.md) — Distillation method where the student generates behavior and a teacher scores or corrects it near the student's current policy.
+- [Multi-Teacher Distillation](concepts/MultiTeacherDistillation.md) — Post-training pattern where several teacher or expert models transfer complementary capabilities into one student model.
 - [Agent Environment Isolation](concepts/AgentEnvironmentIsolation.md) — Agent safety and training pattern where sandbox isolation, permissions, rollback, and environment consistency shape useful agent behavior.
 - [Employee Stock Options / 员工期权](concepts/EmployeeStockOptions.md) — Employment-linked right to buy future company equity, whose value depends on vesting, exercise terms, liquidity, tax, and company trust.
 - [Employee Stock Option Liquidity Risk / 员工期权流动性风险](concepts/EmployeeStockOptionLiquidityRisk.md) — Gap between a valuable-looking employee option grant and a realistic cash exit through IPO, sale, buyback, or enforceable exercise.
@@ -10774,7 +10778,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Liquor License Quota Barrier](concepts/LiquorLicenseQuotaBarrier.md) — Regulatory cap or scarcity mechanism that can limit lawful nightlife and shape venue economics.
 - [Socializing Decline](concepts/SocializingDecline.md) — Drop in time spent socializing, treated as a nightlife, loneliness, and urban civic-life problem.
 - [PagedAttention](concepts/PagedAttention.md) — vLLM-origin inference-memory idea showing how attention state, memory layout, request scheduling, and serving needs become one systems problem.
-- [Model-Infra Co-Design](concepts/ModelInfraCoDesign.md) — Joint design of model architecture, inference engine, chip features, and agent workloads to improve serving efficiency.
+- [Model-Infra Co-Design](concepts/ModelInfraCoDesign.md) — Joint design of model architecture, kernels, inference engines, chip features, and agent workloads to improve serving efficiency.
 - [Open Source AI Infrastructure](concepts/OpenSourceAIInfrastructure.md) — Community-governed, company-supported AI infrastructure pattern illustrated by vLLM, Infract, and the PyTorch Foundation.
 - [Continuous Batching](concepts/ContinuousBatching.md) — Inference scheduling pattern for active generation requests under latency, memory, and variable sequence-length constraints.
 - [Prefix Caching](concepts/PrefixCaching.md) — Reuse of stable prompt prefixes in inference, especially important for coding-agent harnesses with repeated context.
