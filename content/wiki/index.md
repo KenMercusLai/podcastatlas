@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》902丨控制情绪是人生必修课](sources/zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b.md) — 芮淇讲透资治通鉴 episode on strategic emotion concealment, the 172 CE Zhuque Gate accusation against Cao Jie and Wang Fu, Liu Meng's restrained investigation, Duan Jiong's crackdown, Zhang Huan's humbled survival, and Su Buwei's first failed revenge attack on Li Hao.
 - [《资治通鉴·汉纪》903丨为什么劝你冤冤相报何时了？](sources/zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom.md) — 芮淇讲透资治通鉴 episode on Su Buwei's revenge spiral, Duan Jiong's extermination of Su's household, Liu Kui's unpaid Wang Fu brokerage, forged treason evidence, Bohai collateral punishment, Xu Sheng's Kuaiji uprising, and early Emperor Ling office/frontier churn.
 - [《资治通鉴·汉纪》904丨觉照内观：获得心灵大自由的秘诀](sources/zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2.md) — 芮淇讲透资治通鉴 episode on early-rising meditation and 觉照内观, 173-174 CE late-Han disaster/omen office churn, Tang Heng/Tang Zhen eunuch-family appointment networks, and Cao Cao's nineteen-year-old entry through Xiaolian, Qiao Xuan, Xu Shao, and Sima Fang.
 - [《资治通鉴·汉纪》905丨富贵如何险中求？](sources/zizhi-tongjian-hanji-905-fugui-ruhe-xianzhong-qiu-lklxx5nquka2mtbllxivk0a7b-fu.md) — 芮淇讲透资治通鉴 episode on Sun Jian's 174 CE role suppressing Xu Sheng, risk as career opportunity, Xianbei pressure, Emperor Ling and Cai Yong's Xiping Stone Classics project at Taixue, and Zhou Yu's 175 CE birth marker.
@@ -1493,8 +1494,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
-- [苏不韦 / Su Buwei (late Han)](entities/SuBuweiLateHan.md) — Late-Han avenger whose failed revenge against Li Hao escalates into tomb desecration and the extermination of his own household under Duan Jiong.
-- [李昊 / Li Hao (late Han)](entities/LiHaoLateHan.md) — Late-Han target of Su Buwei's revenge whose father's corpse is desecrated and displayed before Duan Jiong's retaliation against Su's household.
+- [刘猛 / Liu Meng (late Han)](entities/LiuMengLateHan.md) — Sili xiaowei who treats the Zhuque Gate anti-eunuch accusation as substantially true, does not pursue the anonymous speaker aggressively, and is punished after Duan Jiong takes over.
+- [张奂 / Zhang Huan (late Han)](entities/ZhangHuanLateHan.md) — Late-Han official and frontier figure who survives Wang Yu's accusation and Duan Jiong's pressure by lowering his posture, then withdraws to teaching and writing.
+- [王寓 / Wang Yu (late Han)](entities/WangYuLateHan.md) — Former sili xiaowei whose refused recommendation request becomes a personal-grudge accusation against Zhang Huan; distinct from Wang Yu / 汪玉.
+- [苏谦 / Su Qian (late Han)](entities/SuQianLateHan.md) — Father of Su Buwei whose attempted complaint against Li Hao becomes the killing that launches Su Buwei's filial revenge.
+- [苏不韦 / Su Buwei (late Han)](entities/SuBuweiLateHan.md) — Late-Han avenger whose tunnel attack against Li Hao begins a revenge spiral that escalates into tomb desecration and the extermination of his household under Duan Jiong.
+- [李昊 / Li Hao (late Han)](entities/LiHaoLateHan.md) — Late-Han official who kills Su Qian, survives Su Buwei's first attack, then suffers grave desecration and corpse-display retaliation before Duan Jiong destroys Su's household.
 - [刘亏 / Liu Kui (Bohai king)](entities/LiuKuiBohaiKing.md) — Imperial kinsman restored as Bohai king through Wang Fu's access brokerage, then destroyed after refusing the promised payment.
 - [渤海王国 / Bohai Kingdom (late Han)](entities/BohaiKingdomLateHan.md) — Liu Kui's restored royal fief, turned into the target field for Wang Fu's forged treason case and mass collateral punishment.
 - [郑萨 / Zheng Sa (late Han)](entities/ZhengSaLateHan.md) — Court associate whose monitored ties to Liu Kui become evidence material in Wang Fu's forged treason case.
@@ -1520,7 +1525,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [沈忠 / Shen Zhong (late Han)](entities/ShenZhongLateHan.md) — Liangguo langzhong whose death-pledged memorial against Zhu Yu and eunuch corruption is shelved under Emperor Ling.
 - [于贵人 / Yu Guiren (late Han)](entities/YuGuirenLateHan.md) — Former imperial consort remembered as Xianling Guiren whose funeral route triggers Cao Jie's eunuch regrouping scene.
 - [何海 / He Hai (late Han)](entities/HeHaiLateHan.md) — Shanglu county official whose petition narrows party-prohibition collateral punishment for more distant kin.
-- [段熲 / Duan Jiong (late Han)](entities/DuanJiongLateHan.md) — Veteran frontier commander whose page now runs from Hanji 903's Su-household extermination through later office churn and anti-Wang Fu prosecution.
+- [段熲 / Duan Jiong (late Han)](entities/DuanJiongLateHan.md) — Veteran frontier commander whose page now runs from Hanji 902's Zhuque Gate crackdown and Zhang Huan pressure through Su-household extermination, office churn, and anti-Wang Fu prosecution.
 - [张脩 / Zhang Xiu (Protector of Xiongnu)](entities/ZhangXiuProtectorOfXiongnu.md) — Han frontier official who kills Huzheng without authorization and installs Qiangqu as Southern Xiongnu chanyu; distinct from Zhang Xiu of Wancheng and Zhang Xiu of Five Pecks.
 - [呼征 / Huzheng Chanyu](entities/HuzhengChanyu.md) — Southern Xiongnu chanyu who first succeeds his father in 178 CE, then is killed by Zhang Xiu before Qiangqu's installation.
 - [朱瑀 / Zhu Yu (late Han)](entities/ZhuYuLateHan.md) — Eunuch favorite named with Cao Jie in Lyu Qiang's title-privilege criticism and Yang Qiu's target field.
@@ -9173,6 +9178,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Strategic Emotion Concealment / 情绪不外露的战略纪律](concepts/StrategicEmotionConcealment.md) — Hanji 902 source-scoped discipline of keeping emotion from exposing intention, timing, or leverage before action.
+- [Anonymous Remonstrance Suppression / 匿名进谏压制](concepts/AnonymousRemonstranceSuppression.md) — Late-Han pattern where an anonymous corrective accusation is answered by hunting the speaker and punishing restrained investigation rather than repairing the accused abuses.
 - [Crisis Opportunity Conversion / 危机机会转化](concepts/CrisisOpportunityConversion.md) — Hanji 905 pattern where capability, nerve, timing, and public legibility turn a crisis into political capital rather than only danger.
 - [熹平石经 / Xiping Stone Classics](concepts/XipingStoneClassics.md) — Emperor Ling and Cai Yong's 175 CE stone-inscription project standardizing the Five Classics at Taixue amid late-Han disorder.
 - [三互法任官限制 / Sanhu Law Appointment Constraint](concepts/SanhuLawAppointmentConstraint.md) — Late-Han anti-collusion appointment rule whose overbroad exclusions leave urgent provincial inspector posts vacant and show how regulation can block the talent it is meant to discipline.

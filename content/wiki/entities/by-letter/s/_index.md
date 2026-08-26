@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 7676
+wiki_total_pages: 7680
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1769,6 +1769,9 @@ wiki_pages:
   - key: "SuQin"
     title: "苏秦 / Su Qin"
     url: "/wiki/entities/suqin/"
+  - key: "SuQianLateHan"
+    title: "苏谦 / Su Qian (late Han)"
+    url: "/wiki/entities/suqianlatehan/"
   - key: "SuShi"
     title: "苏轼 / Su Shi / Su Dongpo"
     url: "/wiki/entities/sushi/"

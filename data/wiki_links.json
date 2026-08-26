@@ -4427,6 +4427,10 @@
     "title": "Annual Upfront SaaS Cash Flow",
     "url": "/wiki/concepts/annualupfrontsaascashflow/"
   },
+  "AnonymousRemonstranceSuppression": {
+    "title": "Anonymous Remonstrance Suppression / 匿名进谏压制",
+    "url": "/wiki/concepts/anonymousremonstrancesuppression/"
+  },
   "AnonymousVisitorIdentification": {
     "title": "Anonymous Visitor Identification",
     "url": "/wiki/concepts/anonymousvisitoridentification/"
@@ -28039,6 +28043,10 @@
     "title": "刘良佑 / Liu Liangyou",
     "url": "/wiki/entities/liuliangyou/"
   },
+  "LiuMengLateHan": {
+    "title": "刘猛 / Liu Meng (late Han)",
+    "url": "/wiki/entities/liumenglatehan/"
+  },
   "LiuMingyu": {
     "title": "Liu Ming-Yu / 刘洺堉",
     "url": "/wiki/entities/liumingyu/"
@@ -44003,6 +44011,10 @@
     "title": "Strategic Depth Defense / 战略纵深防御",
     "url": "/wiki/concepts/strategicdepthdefense/"
   },
+  "StrategicEmotionConcealment": {
+    "title": "Strategic Emotion Concealment / 情绪不外露的战略纪律",
+    "url": "/wiki/concepts/strategicemotionconcealment/"
+  },
   "StrategicFocusUnderIncumbentPressure": {
     "title": "Strategic Focus Under Incumbent Pressure",
     "url": "/wiki/concepts/strategicfocusunderincumbentpressure/"
@@ -44190,6 +44202,10 @@
   "SuLinWong": {
     "title": "Su-Lin Wong",
     "url": "/wiki/entities/sulinwong/"
+  },
+  "SuQianLateHan": {
+    "title": "苏谦 / Su Qian (late Han)",
+    "url": "/wiki/entities/suqianlatehan/"
   },
   "SuQin": {
     "title": "苏秦 / Su Qin",
@@ -48863,6 +48879,10 @@
     "title": "Wang Yu / 汪玉",
     "url": "/wiki/entities/wangyu/"
   },
+  "WangYuLateHan": {
+    "title": "王寓 / Wang Yu (late Han)",
+    "url": "/wiki/entities/wangyulatehan/"
+  },
   "WangYuSouthernDynasties": {
     "title": "王玉 / Wang Yu (Southern Dynasties)",
     "url": "/wiki/entities/wangyusoutherndynasties/"
@@ -52558,6 +52578,10 @@
   "ZhangHua": {
     "title": "Zhang Hua / 张华",
     "url": "/wiki/entities/zhanghua/"
+  },
+  "ZhangHuanLateHan": {
+    "title": "张奂 / Zhang Huan (late Han)",
+    "url": "/wiki/entities/zhanghuanlatehan/"
   },
   "ZhangJiLateHan": {
     "title": "张济 / Zhang Ji (late Han)",
@@ -57378,6 +57402,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b": {
+    "title": "《资治通鉴·汉纪》902丨控制情绪是人生必修课",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b/"
   },
   "zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom": {
     "title": "《资治通鉴·汉纪》903丨为什么劝你冤冤相报何时了？",

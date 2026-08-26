@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 5498
+wiki_total_pages: 5500
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1391,6 +1391,9 @@ wiki_pages:
   - key: "AnnualUpfrontSaaSCashFlow"
     title: "Annual Upfront SaaS Cash Flow"
     url: "/wiki/concepts/annualupfrontsaascashflow/"
+  - key: "AnonymousRemonstranceSuppression"
+    title: "Anonymous Remonstrance Suppression / 匿名进谏压制"
+    url: "/wiki/concepts/anonymousremonstrancesuppression/"
   - key: "AnonymousVisitorIdentification"
     title: "Anonymous Visitor Identification"
     url: "/wiki/concepts/anonymousvisitoridentification/"

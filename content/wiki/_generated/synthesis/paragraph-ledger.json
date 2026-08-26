@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "bf9a4f3a2894a9ccd1632f4877f743fad537cd781a1d7c122bf8c67b5f8e2add",
       "e2b2eeb2a497845d9d0b856265b8d97834b83e4dcd49a380fc66e7537163cd55",
       "e47d1d5203e78026f14f4a86bcbd1066d57a54949b99fadad0960ed8b889fc7d",
       "a1716c3e63a84c7da824cdab200702525dd2cb4ee0321f1394555522d1fde71c",
@@ -238,11 +239,46 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "b16a38bd6e190222f7f3e6f0535803ce60ae7f3304e3477dfcdd995a15fb502f"
     ],
-    "paragraph_count": 236
+    "paragraph_count": 237
   },
-  "overview_commit": "e31d7a3ed0e5001e73bcc673231e9ac65c2e0b3a",
-  "overview_digest": "ef3e763ade802c0f011b0637bf6e64c5eb449c0eb2a387d8fd47f33e910211a0",
+  "overview_commit": "1a8181401e235da4c8caf273e484411b2358e937",
+  "overview_digest": "81f5a1753196df2b1b8b52748c74b1402a5f301f79e0277a0928fa4eb4b084db",
   "paragraphs": [
+    {
+      "id": "bf9a4f3a2894a9ccd1632f4877f743fad537cd781a1d7c122bf8c67b5f8e2add",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics",
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b|《资治通鉴·汉纪》902丨控制情绪是人生必修课]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 172 CE late-Han layer immediately before [[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom|Hanji 903]]. It adds [[LiuMengLateHan|刘猛]], [[ZhangHuanLateHan|张奂]], [[WangYuLateHan|王寓]], [[SuQianLateHan|苏谦]], [[StrategicEmotionConcealment|情绪不外露的战略纪律]], and [[AnonymousRemonstranceSuppression|匿名进谏压制]], while extending [[CaoJieLateHan|曹节]], [[WangFuLateHan|王甫]], [[DuanJiongLateHan|段熲]], [[EmperorLingOfHan|汉灵帝]], [[SuBuweiLateHan|苏不韦]], [[LiHaoLateHan|李昊]], [[CourtFeedbackCollapse|君臣反馈失灵]], [[PoliticalSurvivalFirst|安全第一政治生存]], and [[AtrocityRetaliationCycle|retaliatory escalation]]. Its core synthesis is that emotion, speech, and timing are already dangerous before the later revenge and office-churn branch: the Zhuque Gate warning against eunuchs is answered by pursuit of the anonymous speaker, Liu Meng is punished for restrained enforcement, Duan Jiong converts frontier merit into palace-side coercion, Zhang Huan survives by lowering his posture, and Su Buwei's patient filial revenge begins with a failed tunnel attack that terrifies Li Hao. No settled contradiction is recorded; the source's 段颎/段炯 and 李浩 spellings are normalized to existing canonical routes, while 王寓 is disambiguated from the existing [[WangYu|Wang Yu / 汪玉]] page.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "AnonymousRemonstranceSuppression",
+        "AtrocityRetaliationCycle",
+        "CaoJieLateHan",
+        "CourtFeedbackCollapse",
+        "DuanJiongLateHan",
+        "EmperorLingOfHan",
+        "LiHaoLateHan",
+        "LiuMengLateHan",
+        "PoliticalSurvivalFirst",
+        "RuiqiJiangtouZizhiTongjian",
+        "StrategicEmotionConcealment",
+        "SuBuweiLateHan",
+        "SuQianLateHan",
+        "WangFuLateHan",
+        "WangYu",
+        "WangYuLateHan",
+        "ZhangHuanLateHan",
+        "zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b",
+        "zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom"
+      ]
+    },
     {
       "id": "e2b2eeb2a497845d9d0b856265b8d97834b83e4dcd49a380fc66e7537163cd55",
       "primary_topic": "governance-and-institutions",
