@@ -8,6 +8,8 @@ last_updated: 2026-08-26
 
 # Personal Revenge Through State Power / 以国力行私仇
 
+[[zizhi-tongjian-hanji-898-renzei-zuofu-kelian-zhiren-neng-you-duo-huangtang-lgfup6tyv85zhvnmzf6xlesmblcj|Hanji 898]] adds an earlier late-Han palace-retaliation variant. [[CaoJieLateHan|曹节]] and [[WangFuLateHan|王甫]]'s old grievance against [[DouWuLateHan|窦武]] becomes actionable when [[DongMengLateHan|董萌]] speaks for [[EmpressDowagerDouMiao|窦皇太后]]; they recode that pro-Dou speech as slander against [[EmpressDowagerDongLateHan|董太后]], and Dong Meng is imprisoned and killed.
+
 [[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom|Hanji 903]] adds a late-Han court-brokerage variant. [[WangFuLateHan|王甫]]'s private grievance against [[LiuKuiBohaiKing|刘亏]] begins as an unpaid restoration fee, but Wang turns it into a state treason case by monitoring Liu's network, using [[LianZhongLateHan|廉中]]'s forged evidence, and getting [[EmperorLingOfHan|汉灵帝]] to send official interrogation into [[BohaiKingdomLateHan|Bohai]]. Unlike Fan Ju's interstate pressure, this branch uses inner-court access and criminal accusation as the public machinery of private revenge.
 
 Personal revenge through state power / 以国力行私仇 is the pattern [[zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm]] draws from [[FanJu|范雎]] after he becomes powerful in [[QinState|秦国]]. Fan Ju's targets, [[XuJia|须贾]] and [[WeiQiWarringStates|魏齐]], are personal enemies from his earlier ordeal in [[WeiState|魏国]], but his leverage comes from Qin's diplomatic and military pressure.
@@ -27,6 +29,7 @@ That source also adds a mobility layer. Fan Ju's low birth and earlier humiliati
 [[zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku|Hanji 971]] adds a late-Han warlord version through [[CaoCao|曹操]]. Unlike Fan Ju's diplomatic revenge or Qin Shi Huang's conquered-city memory, Cao Cao's father [[CaoSong|曹嵩]] and brother [[CaoDeLateHan|曹德]] are killed first; the danger comes when that real family loss is answered with the armed capacity of a regional power. The resulting [[XuzhouMassacreLateHan|徐州屠杀]] shows private grief scaling into civilian catastrophe through command authority.
 
 ## Key Claims
+- Hanji 898 adds that palace resentment can become fatal when old factional grievance is routed through accusation against a ruler's mother.
 - Hanji 903 adds that inner-court brokerage can let private debt enforcement become official treason punishment.
 - Personal vengeance becomes more dangerous when it can be routed through an already plausible state interest.
 - Diplomatic theater can punish a target more effectively than execution when reputation and status are the main objects.
@@ -40,6 +43,7 @@ That source also adds a mobility layer. Fan Ju's low birth and earlier humiliati
 - A real family killing can still become politically catastrophic when a commander answers it through regional military capacity rather than bounded punishment.
 
 ## Connections
+- [[zizhi-tongjian-hanji-898-renzei-zuofu-kelian-zhiren-neng-you-duo-huangtang-lgfup6tyv85zhvnmzf6xlesmblcj|Hanji 898]], [[DongMengLateHan|董萌]], [[CaoJieLateHan|曹节]], [[WangFuLateHan|王甫]], [[DouWuLateHan|窦武]], and [[EmpressDowagerDouMiao|窦皇太后]] - old anti-Dou grievance recoded as fatal palace accusation.
 - [[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom|Hanji 903]], [[WangFuLateHan|王甫]], [[LiuKuiBohaiKing|刘亏]], [[LianZhongLateHan|廉中]], [[BohaiKingdomLateHan|渤海王国]], and [[TreasonAccusationTrap|谋反指控陷阱]] - unpaid access brokerage recast as state treason punishment.
 - [[FanJu|范雎]] - source case for private revenge embedded in Qin policy.
 - [[XuJia|须贾]] and [[WeiQiWarringStates|魏齐]] - targets of the two revenge stages.

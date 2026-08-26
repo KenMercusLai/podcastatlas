@@ -240,12 +240,13 @@
       "0fba5d11c8de7efacd2b63af5f1939d94c6dbb1d7bafc6ac1ade1274bd388278",
       "d2ebb1f66c4d89d070f9f574affe60d1700fea687fbf72d6a87ccf19244070a0",
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
+      "d9074e43b7b103fc0d0097b207bf8018227d6e146ca0eb75638118627687641c",
       "b16a38bd6e190222f7f3e6f0535803ce60ae7f3304e3477dfcdd995a15fb502f"
     ],
-    "paragraph_count": 240
+    "paragraph_count": 241
   },
-  "overview_commit": "452ccfee54a38165ac5319029edb2f27484c37ed",
-  "overview_digest": "0d0c4fda3a5e7560f99d9bcccd4a16de1249db96967ffe3e57cfe7f83396ac55",
+  "overview_commit": "d3bfea7d542e46aaa1caa7983440c47ccb4f727f",
+  "overview_digest": "ebe70b86330757934ba55d97d4cea711f6b3d4fa375f8874aa704127e8542164",
   "paragraphs": [
     {
       "id": "68639998e00d8dc008789ff62087e5df0174d198c430028997e19ee6b49bad5c",
@@ -7254,6 +7255,35 @@
         "SoftwareMaintenanceRevenueCompression",
         "Tesla",
         "all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260"
+      ]
+    },
+    {
+      "id": "d9074e43b7b103fc0d0097b207bf8018227d6e146ca0eb75638118627687641c",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "[[zizhi-tongjian-hanji-898-renzei-zuofu-kelian-zhiren-neng-you-duo-huangtang-lgfup6tyv85zhvnmzf6xlesmblcj|Hanji 898]] moves the late-Han synthesis one step earlier, to 171 CE. [[EmperorLingOfHan|汉灵帝]]'s language for [[ZhangRangLateHan|张让]] and [[ZhaoZhongLateHan|赵忠]] gives [[PalaceAccessMonopoly|宫廷接触垄断]] an intimacy prelude before later slander and document-access cases; the amnesty that still excludes party figures creates the negative prehistory for later [[PartyBanCrisisAmnesty|党锢危机赦免]]; and the earthquake, eclipse, epidemic, and population arithmetic add [[LateHanPopulationCollapse|东汉末年人口崩塌]] as a source-scoped bridge between [[PandemicAsHistoricalForce]], [[WarDisasterCompounding]], and [[NaturalDisasterPoliticalOmen|自然灾害政治征兆]]. The same episode starts the Dou branch before the burial dispute: [[DongMengLateHan|董萌]]'s support for [[EmpressDowagerDouMiao|窦皇太后]] briefly increases her treatment, but [[CaoJieLateHan|曹节]] and [[WangFuLateHan|王甫]] turn old grievance around [[DouWuLateHan|窦武]] into a fatal accusation, while [[Xianbei|鲜卑]] pressure in [[BingzhouLateHan|并州]] keeps frontier disorder visible from the start.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 3
+      },
+      "wikilinks": [
+        "BingzhouLateHan",
+        "CaoJieLateHan",
+        "DongMengLateHan",
+        "DouWuLateHan",
+        "EmperorLingOfHan",
+        "EmpressDowagerDouMiao",
+        "LateHanPopulationCollapse",
+        "NaturalDisasterPoliticalOmen",
+        "PalaceAccessMonopoly",
+        "PandemicAsHistoricalForce",
+        "PartyBanCrisisAmnesty",
+        "WangFuLateHan",
+        "WarDisasterCompounding",
+        "Xianbei",
+        "ZhangRangLateHan",
+        "ZhaoZhongLateHan",
+        "zizhi-tongjian-hanji-898-renzei-zuofu-kelian-zhiren-neng-you-duo-huangtang-lgfup6tyv85zhvnmzf6xlesmblcj"
       ]
     },
     {

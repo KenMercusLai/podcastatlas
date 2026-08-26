@@ -8,6 +8,8 @@ last_updated: 2026-08-26
 
 # 赵忠 / Zhao Zhong (late Han)
 
+[[zizhi-tongjian-hanji-898-renzei-zuofu-kelian-zhiren-neng-you-duo-huangtang-lgfup6tyv85zhvnmzf6xlesmblcj|Hanji 898]] backfills Zhao Zhong's intimate favorite-status layer before the burial-meeting, palace-finance, patronage, and succession-crisis branches. The source says [[EmperorLingOfHan|汉灵帝]] calls [[ZhangRangLateHan|张让]] "father" and Zhao Zhong "mother," making Zhao's page begin with ruler dependence before later action-specific cases.
+
 [[zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr|Hanji 900]] backfills Zhao Zhong as the zhongchangshi ordered by [[EmperorLingOfHan|汉灵帝]] to supervise the meeting over [[EmpressDowagerDouMiao|窦皇太后]]'s burial. The episode's procedural point is that the meeting is not a neutral room: Zhao Zhong's supervision places the debate inside palace access and [[PredeterminedMeetingProcess|既定结果会议程序]] before Hanji 901 shows his pressure on the assembled officials.
 
 [[zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud|Hanji 901]] backfills Zhao Zhong before his later favorite, palace-finance, and succession-crisis roles. During the 172 CE meeting over whether [[EmpressDowagerDouMiao|窦皇太后]] should be buried with [[EmperorHuanOfHan|汉桓帝]], Zhao Zhong presses officials to stop delaying and state a position.
@@ -43,6 +45,7 @@ The source matters because Zhao Zhong appears first as part of the attempted eun
 His page is intentionally narrow. Zhao Zhong marks the transition from targeted revenge against leading [[TenAttendantsLateHan|十常侍]] figures into the larger purge in which Yuan Shao closes the North Palace gates and kills eunuchs indiscriminately.
 
 ## Connections
+- [[zizhi-tongjian-hanji-898-renzei-zuofu-kelian-zhiren-neng-you-duo-huangtang-lgfup6tyv85zhvnmzf6xlesmblcj|Hanji 898]], [[EmperorLingOfHan|汉灵帝]], [[ZhangRangLateHan|张让]], and [[PalaceAccessMonopoly|宫廷接触垄断]] - intimate favorite language before later palace-action branches.
 - [[zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr|Hanji 900]], [[EmperorLingOfHan|汉灵帝]], [[EmpressDowagerDouMiao|窦皇太后]], and [[PredeterminedMeetingProcess|既定结果会议程序]] - meeting-supervision setup before Hanji 901's debate.
 - [[zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud|Hanji 901]], [[EmpressDowagerDouMiao|窦皇太后]], [[ChenQiuLateHan|陈球 / 陈求]], and [[LiXianTaiweiLateHan|李贤]] - early burial-debate pressure and anger at pro-Dou recognition.
 - [[zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic|Hanji 921]], [[CaoJieLateHan|曹节]], [[ChenFanLateHan|陈蕃]], and [[DouWuLateHan|窦武]] - inherited eunuch-power line and pre-Yellow-Turban favorite status.

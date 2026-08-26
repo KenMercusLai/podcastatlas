@@ -8,6 +8,8 @@ last_updated: 2026-08-26
 
 # 王甫 / Wang Fu (late Han)
 
+[[zizhi-tongjian-hanji-898-renzei-zuofu-kelian-zhiren-neng-you-duo-huangtang-lgfup6tyv85zhvnmzf6xlesmblcj|Hanji 898]] backfills Wang Fu's anti-Dou retaliation before the burial-recognition, Bohai brokerage, and wugu branches. After [[DongMengLateHan|董萌]] speaks for [[EmpressDowagerDouMiao|窦皇太后]], Wang Fu and [[CaoJieLateHan|曹节]] turn old resentment against [[DouWuLateHan|窦武]] into an accusation that Dong Meng has slandered [[EmpressDowagerDongLateHan|董太后]], and Dong Meng is imprisoned and killed.
+
 [[zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr|Hanji 900]] backfills Wang Fu before the Hanji 901 burial-recognition fight. He appears with [[CaoJieLateHan|曹节]] after [[EmpressDowagerDouMiao|窦皇太后]]'s death, first favoring guiren-level funeral treatment and then trying to keep Dou from sharing [[EmperorHuanOfHan|汉桓帝]]'s burial status while [[FengGuirenLateHan|冯贵人]] is promoted as an alternative. The source makes this a pre-meeting move inside [[ImperialBurialLegitimacy|帝后合葬名分]] and [[PredeterminedMeetingProcess|既定结果会议程序]], before Hanji 901 records the direct arguments.
 
 [[zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud|Hanji 901]] backfills Wang Fu before the Zhuque Gate accusation and Bohai brokerage branches. He appears with [[CaoJieLateHan|曹节]] as an opponent of burying [[EmpressDowagerDouMiao|窦皇太后]] with [[EmperorHuanOfHan|汉桓帝]], arguing from precedent and family-guilt logic against her full ritual recognition.
@@ -35,6 +37,7 @@ The same source makes [[YangBiao|杨彪]]'s report against Wang Fu's Jingzhao re
 The episode uses Wang Fu mainly to situate Cao Jie's power and the anti-eunuch hostility facing the court. His page is source-scoped until later ingests add a fuller Wang Fu branch.
 
 ## Connections
+- [[zizhi-tongjian-hanji-898-renzei-zuofu-kelian-zhiren-neng-you-duo-huangtang-lgfup6tyv85zhvnmzf6xlesmblcj|Hanji 898]], [[DongMengLateHan|董萌]], [[CaoJieLateHan|曹节]], [[EmpressDowagerDouMiao|窦皇太后]], [[DouWuLateHan|窦武]], and [[EmpressDowagerDongLateHan|董太后]] - early anti-Dou retaliation through accusation.
 - [[zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr|Hanji 900]], [[CaoJieLateHan|曹节]], [[EmpressDowagerDouMiao|窦皇太后]], [[FengGuirenLateHan|冯贵人]], and [[PredeterminedMeetingProcess|既定结果会议程序]] - pre-meeting funeral-rank and burial-status maneuver.
 - [[zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud|Hanji 901]], [[CaoJieLateHan|曹节]], [[EmpressDowagerDouMiao|窦皇太后]], [[LiXianTaiweiLateHan|李贤]], and [[ChenQiuLateHan|陈球 / 陈求]] - burial-recognition opposition before later accusation branches.
 - [[zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b|Hanji 902]], [[CaoJieLateHan|曹节]], [[LiuMengLateHan|刘猛]], [[DuanJiongLateHan|段熲]], and [[AnonymousRemonstranceSuppression|匿名进谏压制]] - Zhuque Gate accusation and search for the anonymous accuser.

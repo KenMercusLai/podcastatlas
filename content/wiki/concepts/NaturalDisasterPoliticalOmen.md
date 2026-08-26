@@ -8,6 +8,8 @@ last_updated: 2026-08-26
 
 # Natural Disaster Political Omen / 自然灾害政治征兆
 
+[[zizhi-tongjian-hanji-898-renzei-zuofu-kelian-zhiren-neng-you-duo-huangtang-lgfup6tyv85zhvnmzf6xlesmblcj|Hanji 898]] adds the earliest late-Han disaster marker currently attached to this concept. The source places a 171 CE earthquake and epidemic beside [[EmperorLingOfHan|汉灵帝]]'s guanli, amnesty, party-figure exclusion, solar eclipse, and senior-office churn, making disaster notice part of the same early reign pressure field.
+
 [[zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2|Hanji 904]] adds an earlier late-Han epidemic and earthquake branch. The 173 CE epidemic kills Zong Ju and is followed by amnesty and senior-office replacement; the Beihai earthquake then sits beside [[YangCiLateHan|杨赐]]'s removal and [[TangZhenLateHan|唐珍]]'s sikong appointment, making disaster notice part of early [[EmperorLingOfHan|汉灵帝]] office accountability.
 
 [[zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79|Hanji 907]] adds a late-Han remonstrance use of disaster omen logic before the earthquake-and-office branches. [[CaoLuanLateHan|曹鸾]] argues that floods, drought, epidemics, and other disorders are tied to [[EmperorLingOfHan|汉灵帝]]'s mistreatment of party figures, making disaster interpretation a tool for political mercy and personnel repair. The source records the argument as historical reasoning, not as proof that disasters were caused by the party prohibition.
@@ -27,6 +29,7 @@ The concept is adjacent to [[MandateOfHeavenLegitimacy]] and [[AuspiciousOmenPol
 [[zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob]] adds a Zhao earthquake and famine sequence but shifts emphasis away from omen interpretation. The source does include fear-making and ominous-sign manufacture through [[DunRuo|顿弱]], yet its main analytic use of disaster is material: walls collapse, food runs short, morale weakens, and Qin can choose [[DisasterExploitingConquestTiming|趁灾进攻时机]].
 
 ## Key Claims
+- Hanji 898 adds an earlier 171 CE earthquake-and-epidemic pressure marker beside amnesty, party-figure exclusion, eclipse, and senior-office churn.
 - Hanji 904 adds that epidemic and earthquake notices can sit directly beside amnesty and senior-office movement before later remonstrance uses of disaster logic.
 - Hanji 907 adds that disaster interpretation can be used as a mercy-and-rehabilitation argument: Cao Luan uses floods, drought, and epidemic to challenge party-prohibition injustice.
 - Hanji 909 adds that a terrestrial disaster notice can be paired with senior-office removal after military failure, making earthquake accountability part of late-Han personnel churn.
@@ -40,6 +43,7 @@ The concept is adjacent to [[MandateOfHeavenLegitimacy]] and [[AuspiciousOmenPol
 - A disaster notice can also be strategically material rather than mainly omen-like: the same earthquake or famine can affect walls, food, morale, and invasion timing.
 
 ## Connections
+- [[zizhi-tongjian-hanji-898-renzei-zuofu-kelian-zhiren-neng-you-duo-huangtang-lgfup6tyv85zhvnmzf6xlesmblcj|Hanji 898]], [[EmperorLingOfHan|汉灵帝]], [[LateHanPopulationCollapse|东汉末年人口崩塌]], and [[CelestialOmenPoliticalResponsibility|天象政治责任]] - 171 CE earthquake, epidemic, eclipse, amnesty, and office churn.
 - [[zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2|Hanji 904]], [[EmperorLingOfHan|汉灵帝]], [[YangCiLateHan|杨赐]], [[TangZhenLateHan|唐珍]], and [[CourtOfficeCapture|朝廷开府任官失序]] - 173 CE epidemic, Beihai earthquake, amnesty, and senior-office churn.
 - [[zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79|Hanji 907]], [[CaoLuanLateHan|曹鸾]], [[EmperorLingOfHan|汉灵帝]], [[PartyProhibitionKinshipExpansion|党锢亲属牵连扩大]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - disaster-omen argument for party-figure mercy that triggers punishment instead.
 - [[zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj|Hanji 909]], [[LuoyangLateHan|洛阳]], [[ChenQiuLateHan|陈球]], [[ChenDanLateHan|陈耽]], [[YangCiLateHan|杨赐]], and [[CelestialOmenPoliticalResponsibility|天象政治责任]] - post-expedition earthquake and senior-office turnover.

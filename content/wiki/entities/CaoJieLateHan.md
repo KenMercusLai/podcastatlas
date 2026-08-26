@@ -8,6 +8,8 @@ last_updated: 2026-08-26
 
 # 曹节 / Cao Jie (late Han eunuch)
 
+[[zizhi-tongjian-hanji-898-renzei-zuofu-kelian-zhiren-neng-you-duo-huangtang-lgfup6tyv85zhvnmzf6xlesmblcj|Hanji 898]] backfills Cao Jie's anti-Dou grievance before the Hanji 900 funeral and Hanji 901 burial-debate branches. When [[DongMengLateHan|董萌]] speaks for [[EmpressDowagerDouMiao|窦皇太后]] and [[EmperorLingOfHan|汉灵帝]] increases her support, Cao Jie and [[WangFuLateHan|王甫]] resent the reminder of [[DouWuLateHan|窦武]]'s earlier attempt to remove them and accuse Dong Meng of slandering [[EmpressDowagerDongLateHan|董太后]], leading to Dong Meng's death.
+
 [[zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr|Hanji 900]] backfills Cao Jie before the Hanji 901 burial debate. After [[EmpressDowagerDouMiao|窦皇太后]] dies, Cao Jie and [[WangFuLateHan|王甫]] first try to handle her funeral at guiren status, then prefer burying her elsewhere and moving [[FengGuirenLateHan|冯贵人]] toward [[EmperorHuanOfHan|汉桓帝]]'s tomb. The source presents this as defensive eunuch politics rooted in old grievance around the Dou family, before the next episode shows [[ChenQiuLateHan|陈球 / 陈求]] and [[LiXianTaiweiLateHan|李贤]] forcing the issue in formal meeting.
 
 [[zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud|Hanji 901]] backfills Cao Jie before the Zhuque Gate accusation in Hanji 902. He and [[WangFuLateHan|王甫]] oppose burying [[EmpressDowagerDouMiao|窦皇太后]] with [[EmperorHuanOfHan|汉桓帝]], using prior consort precedents and Dou-family guilt to resist her full posthumous recognition.
@@ -39,6 +41,7 @@ This earlier layer changes the Cao Jie page from a death marker into a surveilla
 The episode pairs Cao Jie with the older grievance against [[ChenFanLateHan|陈蕃]] and [[DouWuLateHan|窦武]]. That makes him more than a succession vacancy. His death is a handoff point inside the palace-favorite channel, where one generation's anti-eunuch wounds become the background for Zhao Zhong's later greed, arrogance, and access to [[EmperorLingOfHan|汉灵帝]].
 
 ## Connections
+- [[zizhi-tongjian-hanji-898-renzei-zuofu-kelian-zhiren-neng-you-duo-huangtang-lgfup6tyv85zhvnmzf6xlesmblcj|Hanji 898]], [[DongMengLateHan|董萌]], [[WangFuLateHan|王甫]], [[EmpressDowagerDouMiao|窦皇太后]], [[DouWuLateHan|窦武]], and [[EmpressDowagerDongLateHan|董太后]] - pro-Dou speech recoded into fatal accusation.
 - [[zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr|Hanji 900]], [[WangFuLateHan|王甫]], [[EmpressDowagerDouMiao|窦皇太后]], [[FengGuirenLateHan|冯贵人]], and [[PredeterminedMeetingProcess|既定结果会议程序]] - funeral-rank dispute and meeting prelude.
 - [[zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud|Hanji 901]], [[WangFuLateHan|王甫]], [[EmpressDowagerDouMiao|窦皇太后]], [[EmperorHuanOfHan|汉桓帝]], and [[ImperialBurialLegitimacy|帝后合葬名分]] - early opposition to Dou's burial recognition.
 - [[zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b|Hanji 902]], [[WangFuLateHan|王甫]], [[LiuMengLateHan|刘猛]], [[DuanJiongLateHan|段熲]], [[EmperorLingOfHan|汉灵帝]], and [[AnonymousRemonstranceSuppression|匿名进谏压制]] - Zhuque Gate accusation and pursuit of the anonymous speaker.

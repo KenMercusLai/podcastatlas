@@ -11664,6 +11664,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-26] ingest | 《资治通鉴·汉纪》898丨认贼作父？可怜之人能有多荒唐？
+
+Added source page for Hanji 898: Emperor Ling's "father/mother" dependence on Zhang Rang and Zhao Zhong, 171 CE guanli and amnesty with party figures still excluded, disaster/epidemic and late-Han population-collapse framing, Three Excellencies office churn, Dong Meng's pro-Dou intervention and death after Cao Jie/Wang Fu retaliation, and Xianbei pressure in Bingzhou. Created Dong Meng and Late-Han Population Collapse; updated linked late-Han entity and concept pages. No settled contradiction found; population arithmetic, disease attribution, and minor office-name variants remain source-scoped.
+
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》901 丨急性子的人会是什么下场？
 
 Added source page for Hanji 901: acute-temper emotion control, Kafka's The Metamorphosis self-importance example, and the 172 CE debate over Empress Dowager Dou's burial with Emperor Huan. Created Li Xian (taiwei), Empress Dowager Dou Miao, Emperor Huan of Han, Feng Guiren, Kafka's The Metamorphosis, and Imperial Burial Legitimacy pages; updated linked late-Han eunuch, minister, ritual-order, posthumous-status, and emotion-regulation pages. No settled contradiction found; 李贤 is disambiguated from 李暹, Kafka's 《变形记》 is disambiguated from Ovid's 《变形记》, 陈求 is normalized to 陈球, and the 2025/2026 source date cue remains source-scoped.
@@ -11929,6 +11933,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》900丨职场权术都不动，该怎样生存
 
 Added source page for Hanji 900: Hu Guang's 172 CE death and moderation-based court survival, anger control and advance/retreat judgment, Hou Lan's uncertain eunuch-faction fall, Empress Dowager Dou Miao's death and initial funeral mistreatment, and the supervised burial-meeting setup before Hanji 901. Created Hu Guang, Hou Lan, Moderation As Political Survival, and Predetermined Meeting Process; updated linked late-Han entity and concept pages, index, and overview. No settled contradiction found; Hou Lan's trigger remains source-scoped and the title spelling "都不动" is preserved from the source file.
+
+## [2026-08-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-26] lint | Wiki health check
 

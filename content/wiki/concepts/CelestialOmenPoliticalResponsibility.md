@@ -8,6 +8,8 @@ last_updated: 2026-08-26
 
 # Celestial Omen Political Responsibility / 天象政治责任
 
+[[zizhi-tongjian-hanji-898-renzei-zuofu-kelian-zhiren-neng-you-duo-huangtang-lgfup6tyv85zhvnmzf6xlesmblcj|Hanji 898]] adds the earliest late-Han eclipse marker currently attached to this concept. The 171 CE solar eclipse appears beside earthquake, epidemic, amnesty, party-figure exclusion, and senior-office churn, so the omen functions here as an annalistic responsibility signal before later episodes develop fuller remonstrance and office-replacement cases.
+
 [[zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2|Hanji 904]] adds an earlier eclipse-and-office marker before Hanji 909's post-expedition version. The late-173 solar eclipse appears after [[DuanJiongLateHan|段熲]]'s removal and near renewed [[Xianbei|鲜卑]] raids, so the omen is part of senior-office responsibility and frontier-stress chronology rather than a detailed remonstrance scene.
 
 [[zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj|Hanji 909]] adds an earlier 177 CE office-responsibility layer. After the failed Xianbei expedition, a tenth-month first-day solar eclipse is followed by [[LiuKuanLateHan|刘宽]]'s removal as taiwei and [[MengYuLateHan|孟郁]]'s appointment, so the omen functions as senior-office accountability in the shadow of military failure.
@@ -37,6 +39,7 @@ The concept is adjacent to [[NaturalDisasterPoliticalOmen]], but it deals with s
 [[zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-1-lgtlhau6ixqglk1ict1fs0jexjwe]] adds a Qin imperial case through [[ChineseAstrologicalPolitics|荧惑守心]]. The source explains the sign as Mars pausing or reversing in the Heart mansion and treats it as a warning attached to the ruler's fate. The page keeps the same method as with eclipses: the omen is evidence for political reasoning and narrative pressure, not proof of celestial causation.
 
 ## Key Claims
+- Hanji 898 adds a routine 171 CE eclipse marker beside disaster, epidemic, amnesty, party exclusion, and office churn before later developed omen-remonstrance cases.
 - Hanji 904 adds a routine eclipse-and-office marker before the later developed 177 and 178 omen cases: the solar eclipse sits beside Duan Jiong's removal and frontier pressure.
 - Hanji 909 adds an eclipse-and-office version before the later 178 omen sequence: military failure is followed by solar-eclipse responsibility and taiwei replacement.
 - Hanji 911 adds a pre-remonstrance anomaly-and-office layer: earthquake and animal omen are recorded beside Chen Dan's removal and Lai Yan's appointment before officials translate omens into detailed diagnosis.
@@ -55,6 +58,7 @@ The concept is adjacent to [[NaturalDisasterPoliticalOmen]], but it deals with s
 - Qinji 126 adds that non-eclipse celestial events could also be read as direct warnings about imperial death and legitimacy crisis.
 
 ## Connections
+- [[zizhi-tongjian-hanji-898-renzei-zuofu-kelian-zhiren-neng-you-duo-huangtang-lgfup6tyv85zhvnmzf6xlesmblcj|Hanji 898]], [[EmperorLingOfHan|汉灵帝]], [[NaturalDisasterPoliticalOmen|自然灾害政治征兆]], and [[CourtOfficeCapture|朝廷开府任官失序]] - 171 CE eclipse beside disaster, epidemic, amnesty, and office churn.
 - [[zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2|Hanji 904]], [[DuanJiongLateHan|段熲]], [[Xianbei|鲜卑]], [[EmperorLingOfHan|汉灵帝]], and [[CourtOfficeCapture|朝廷开府任官失序]] - late-173 solar eclipse beside senior-office removal and raids.
 - [[zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj|Hanji 909]], [[LiuKuanLateHan|刘宽]], [[MengYuLateHan|孟郁]], [[EmperorLingOfHan|汉灵帝]], and [[OverextendedFrontierExpedition|边境远征过度]] - post-expedition eclipse and taiwei replacement.
 - [[zizhi-tongjian-hanji-911-gudai-gongwuyuan-ye-neng-bao-fenpei-ls3pxu9xlpuulsdailx8tcoylv9e|Hanji 911]], [[ChenDanLateHan|陈耽]], [[LaiYanLateHan|来艳]], and [[NaturalDisasterPoliticalOmen|自然灾害政治征兆]] - earthquake, hen-turning-male notice, and senior-office turnover before the Hanji 912 remonstrance.

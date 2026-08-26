@@ -8,7 +8,9 @@ last_updated: 2026-08-26
 
 # 鲜卑 / Xianbei
 
-[[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom|Hanji 903]] adds the earliest Xianbei pressure marker now attached to this page. The episode records a Xianbei incursion into [[BingzhouLateHan|并州]] in the same early Emperor Ling field as [[XuShengLateHan|许生]]'s Kuaiji uprising, [[SouthernXiongnu|Southern Xiongnu]] succession, and high-office churn, making northern pressure visible before the late-173 Youzhou-Bingzhou notice in Hanji 904.
+[[zizhi-tongjian-hanji-898-renzei-zuofu-kelian-zhiren-neng-you-duo-huangtang-lgfup6tyv85zhvnmzf6xlesmblcj|Hanji 898]] adds the earliest Xianbei pressure marker currently attached to this page. The episode records a Xianbei attack on [[BingzhouLateHan|并州]] at the end of the Hanji 48 segment, placing northern frontier danger in the same early [[EmperorLingOfHan|汉灵帝]] field as eunuch dependence, party-prohibition exclusion, epidemic, disaster, and office churn.
+
+[[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom|Hanji 903]] continues the early Xianbei pressure branch. The episode records a Xianbei incursion into [[BingzhouLateHan|并州]] in the same early Emperor Ling field as [[XuShengLateHan|许生]]'s Kuaiji uprising, [[SouthernXiongnu|Southern Xiongnu]] succession, and high-office churn, keeping northern pressure visible before the late-173 Youzhou-Bingzhou notice in Hanji 904.
 
 [[zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2|Hanji 904]] adds the earliest late-173 Xianbei pressure marker currently attached to this page. The source records raids into [[YouzhouLateHan|幽州]] and [[BingzhouLateHan|并州]] beside epidemic, earthquake, senior-office churn, and a solar eclipse, so frontier pressure appears before the 174-177 sequence that later episodes develop.
 
@@ -41,7 +43,8 @@ The source uses the incursion as one item in a broader late-Han stress field rat
 The source uses Xianbei mainly to show that Gongsun Zan's political failure has widened beyond a narrow Han official dispute. Frontier groups, Liu Yu loyalists, and Yuan Shao's network all find common cause against him.
 
 ## Connections
-- [[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom|Hanji 903]], [[BingzhouLateHan|并州]], [[SouthernXiongnu|南匈奴]], and [[EmperorLingOfHan|汉灵帝]] - earliest frontier-pressure marker in this page's late-Han sequence.
+- [[zizhi-tongjian-hanji-898-renzei-zuofu-kelian-zhiren-neng-you-duo-huangtang-lgfup6tyv85zhvnmzf6xlesmblcj|Hanji 898]], [[BingzhouLateHan|并州]], [[EmperorLingOfHan|汉灵帝]], and [[LateHanPopulationCollapse|东汉末年人口崩塌]] - earliest frontier-pressure marker in this page's late-Han sequence.
+- [[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom|Hanji 903]], [[BingzhouLateHan|并州]], [[SouthernXiongnu|南匈奴]], and [[EmperorLingOfHan|汉灵帝]] - continued early frontier-pressure marker in this page's late-Han sequence.
 - [[zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2|Hanji 904]], [[YouzhouLateHan|幽州]], [[BingzhouLateHan|并州]], [[DuanJiongLateHan|段熲]], and [[CelestialOmenPoliticalResponsibility|天象政治责任]] - late-173 incursion marker beside office churn and eclipse.
 - [[zizhi-tongjian-hanji-905-fugui-ruhe-xianzhong-qiu-lklxx5nquka2mtbllxivk0a7b-fu|Hanji 905]], [[BeidiCommandery|北地郡]], and [[BingzhouLateHan|并州]] - 174 CE Xianbei incursion marker before the 175-177 pressure sequence.
 - [[zizhi-tongjian-hanji-906-lihai-de-ren-weishenme-xiangshou-chongtu-lvc3wedrifdzdu-yv1qhocl8uss2|Hanji 906]], [[YouzhouLateHan|幽州]], [[GuanzhongRegion|关中]], and [[SanhuLawAppointmentConstraint|三互法任官限制]] - 175 CE incursion marker beside the appointment-bottleneck discussion.

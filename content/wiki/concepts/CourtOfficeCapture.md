@@ -8,6 +8,8 @@ last_updated: 2026-08-26
 
 # Court Office Capture / 朝廷开府任官失序
 
+[[zizhi-tongjian-hanji-898-renzei-zuofu-kelian-zhiren-neng-you-duo-huangtang-lgfup6tyv85zhvnmzf6xlesmblcj|Hanji 898]] adds the earliest late-Han office-churn marker currently attached to this concept. The 171 CE sequence places repeated Three Excellencies movement beside earthquake, solar eclipse, epidemic, party-figure exclusion, and palace-favorite dependence, with [[QiaoXuanLateHan|乔玄]], [[LaiYanLateHan|来艳]], [[EmpressSongLateHan|宋皇后]], and other named officeholders appearing in rapid succession.
+
 [[zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2|Hanji 904]] adds an earlier office-churn prelude before Hongdu, office-sale, document-access, and military-capture branches. Epidemic, earthquake, amnesty, [[Xianbei|鲜卑]] pressure, and solar eclipse notices sit beside repeated changes among the Three Excellencies, while [[TangZhenLateHan|唐珍]]'s appointment through [[TangHengLateHan|唐衡]] shows eunuch-family connection already reaching high office.
 
 [[zizhi-tongjian-hanji-910-shehui-shengcun-wo-quan-ni-duodian-chengfu-lp2fvuyb8ampzoeyr7znztnr0fgk|Hanji 910]] adds the earliest appointment-channel prelude currently attached to this concept. [[HongduMenxue|鸿都门学]] gives [[EmperorLingOfHan|汉灵帝]] a possible counterweight to [[Taixue|太学]], great-clan influence, and察举 recommendation control. This is not office sale or armed capture yet, but it shows the personnel order becoming a power contest over which channel can convert learning and patronage into appointment.
@@ -59,6 +61,7 @@ The source case is Chang'an in 194 CE. [[GuoSiLateHan|郭汜]] and [[FanChouLate
 The concept differs from ordinary factional recommendation. In this source, office multiplication does not mean more institutional capacity; it means the old Three Excellencies' nominees are displaced by candidates pushed through military-controlled offices. Formal `名器` still matters, but the machinery that should connect title to orderly selection is being occupied by coercive actors.
 
 ## Key Claims
+- Hanji 898 adds the earliest attached office-churn prelude: top offices move rapidly beside disaster, eclipse, epidemic, party exclusion, and palace-favorite dependence.
 - Hanji 904 adds an office-churn prelude: disasters and omens trigger senior movement without showing restored state capacity, and eunuch-family connection reaches the sikong appointment through Tang Zhen.
 - Hanji 910 adds the channel-creation layer: even before office sale, appointment order can be politicized by creating a ruler-backed counterroute to incumbent elite selection.
 - Hanji 911 adds the parallel-channel layer: before office sale or armed capture, Hongdu and eunuch-linked promotions already redirect access to finite posts.
@@ -78,6 +81,7 @@ The concept differs from ordinary factional recommendation. In this source, offi
 - The pattern helps explain how a weak court can remain symbolically alive while losing control over personnel channels.
 
 ## Connections
+- [[zizhi-tongjian-hanji-898-renzei-zuofu-kelian-zhiren-neng-you-duo-huangtang-lgfup6tyv85zhvnmzf6xlesmblcj|Hanji 898]], [[EmperorLingOfHan|汉灵帝]], [[QiaoXuanLateHan|乔玄]], [[LaiYanLateHan|来艳]], [[EmpressSongLateHan|宋皇后]], [[NaturalDisasterPoliticalOmen|自然灾害政治征兆]], and [[CelestialOmenPoliticalResponsibility|天象政治责任]] - 171 CE high-office churn and pressure chronology.
 - [[zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2|Hanji 904]], [[TangHengLateHan|唐衡]], [[TangZhenLateHan|唐珍]], [[YangCiLateHan|杨赐]], [[DuanJiongLateHan|段熲]], [[EmperorLingOfHan|汉灵帝]], and [[Xianbei|鲜卑]] - 173 CE office churn and eunuch-family sikong appointment before later selection-channel disorders.
 - [[zizhi-tongjian-hanji-910-shehui-shengcun-wo-quan-ni-duodian-chengfu-lp2fvuyb8ampzoeyr7znztnr0fgk|Hanji 910]], [[HongduMenxue|鸿都门学]], [[Taixue|太学]], [[EmperorLingOfHan|汉灵帝]], and [[OfficialSelectionChannelCompetition|选官通道竞争]] - early channel-creation prelude before later sale, document-access, and forged-appointment forms.
 - [[zizhi-tongjian-hanji-911-gudai-gongwuyuan-ye-neng-bao-fenpei-ls3pxu9xlpuulsdailx8tcoylv9e|Hanji 911]], [[HongduMenxue|鸿都门学]], [[Taixue|太学]], [[OfficialSelectionChannelCompetition|选官通道竞争]], and [[ZhangHaoTaiweiLateHan|张颢]] - parallel education-to-office channel and palace-linked taiwei promotion before later capture forms.

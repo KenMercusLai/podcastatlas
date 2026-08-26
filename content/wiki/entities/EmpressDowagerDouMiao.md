@@ -2,11 +2,13 @@
 title: "窦妙 / Empress Dowager Dou Miao"
 type: entity
 tags: [person, empress-dowager, late-han, dou-family, court-ritual]
-sources: [zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr, zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud]
+sources: [zizhi-tongjian-hanji-898-renzei-zuofu-kelian-zhiren-neng-you-duo-huangtang-lgfup6tyv85zhvnmzf6xlesmblcj, zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr, zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud]
 last_updated: 2026-08-26
 ---
 
 # 窦妙 / Empress Dowager Dou Miao
+
+[[zizhi-tongjian-hanji-898-renzei-zuofu-kelian-zhiren-neng-you-duo-huangtang-lgfup6tyv85zhvnmzf6xlesmblcj|Hanji 898]] backfills Dou Miao before her 172 CE death and burial dispute. [[EmperorLingOfHan|汉灵帝]] remembers that Dou Miao and [[DouWuLateHan|窦武]] supported his accession, visits her at Nangong, personally offers food, and increases her support after [[DongMengLateHan|董萌]] speaks for her. The same source shows how fragile that recognition remains when [[CaoJieLateHan|曹节]] and [[WangFuLateHan|王甫]] turn the pro-Dou intervention into a fatal accusation against Dong Meng.
 
 [[zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr|Hanji 900]] adds Dou Miao's death and posthumous mistreatment before the Hanji 901 burial debate. After her mother dies in Bijing and Dou Miao dies at Nangong Yuntai in June 172 CE, the source says eunuch resentment toward the Dou family shapes the initial handling of her body: she is moved with poor ceremony and left unattended before [[EmperorLingOfHan|汉灵帝]] insists she cannot be treated merely as a guiren.
 
@@ -20,6 +22,7 @@ Her political danger comes from family and factional memory. [[DouWuLateHan|窦�
 
 ## Connections
 
+- [[zizhi-tongjian-hanji-898-renzei-zuofu-kelian-zhiren-neng-you-duo-huangtang-lgfup6tyv85zhvnmzf6xlesmblcj|Hanji 898]], [[DongMengLateHan|董萌]], [[CaoJieLateHan|曹节]], and [[WangFuLateHan|王甫]] - living support branch and fatal backlash against pro-Dou speech.
 - [[zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr|Hanji 900]] - death, initial neglect, and meeting setup before the burial decision.
 - [[zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud|Hanji 901]] - source episode.
 - [[EmperorHuanOfHan|汉桓帝]] - deceased emperor with whom the burial is debated.

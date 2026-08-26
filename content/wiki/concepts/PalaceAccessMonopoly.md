@@ -8,6 +8,8 @@ last_updated: 2026-08-26
 
 # Palace Access Monopoly / 宫廷接触垄断
 
+[[zizhi-tongjian-hanji-898-renzei-zuofu-kelian-zhiren-neng-you-duo-huangtang-lgfup6tyv85zhvnmzf6xlesmblcj|Hanji 898]] adds the intimate-dependence prelude to later late-Han access cases. [[EmperorLingOfHan|汉灵帝]] calls [[ZhangRangLateHan|张让]] "father" and [[ZhaoZhongLateHan|赵忠]] "mother," making the ruler's emotional dependence on palace favorites visible before specific brokerage, confidential-memorial, inspection, slander, and coup mechanisms appear.
+
 [[zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud|Hanji 901]] adds an early limitation on eunuch-side access power. [[ZhaoZhongLateHan|赵忠]] presses the court meeting over [[EmpressDowagerDouMiao|窦皇太后]]'s burial, while [[CaoJieLateHan|曹节]] and [[WangFuLateHan|王甫]] argue against burying her with [[EmperorHuanOfHan|汉桓帝]].
 
 The episode still belongs to this concept because eunuch proximity shapes the risk and agenda. But unlike later Hanji 903, 912, and 934 cases, the access channel does not control the final interpretation: [[ChenQiuLateHan|陈球 / 陈求]] and [[LiXianTaiweiLateHan|李贤]] persuade [[EmperorLingOfHan|汉灵帝]] to accept Dou's posthumous recognition.
@@ -61,6 +63,7 @@ The episode treats this as a specific form of [[CourtFeedbackCollapse|君臣反�
 [[zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj|Qinji 137]] widens the access problem from audience timing to crisis information. Zhao Gao keeps reports of [[WangLiQin|王离]]'s capture, [[ZhangHanQin|章邯]]'s defeats, and broad eastern rebellion from Hu Hai, while using [[PointingDeerAsHorse|指鹿为马]] to map which officials will publicly obey him. The access monopoly has therefore become [[CrisisInformationBlockade|危机信息封锁]] plus public loyalty testing.
 
 ## Key Claims
+- Hanji 898 adds the intimate-dependence prelude: access monopoly can begin as ruler trust and emotional reliance before it becomes a specific document, inspection, or summons mechanism.
 - Hanji 901 adds that palace access can shape the agenda without guaranteeing the outcome when public official argument still reaches the ruler.
 - Hanji 903 adds that palace access monopoly can work as brokerage first and accusation routing second, turning the same channel from favor into coercion.
 - Hanji 912 adds that access monopoly can begin as physical and attentional proximity: a confidential memorial can be read and leaked before formal document routing is discussed.
@@ -81,6 +84,7 @@ The episode treats this as a specific form of [[CourtFeedbackCollapse|君臣反�
 - Qinji 137 adds that access monopoly can also become battlefield-news blockade: the intermediary decides not only who reaches the ruler, but what reality reaches him.
 
 ## Connections
+- [[zizhi-tongjian-hanji-898-renzei-zuofu-kelian-zhiren-neng-you-duo-huangtang-lgfup6tyv85zhvnmzf6xlesmblcj|Hanji 898]], [[EmperorLingOfHan|汉灵帝]], [[ZhangRangLateHan|张让]], [[ZhaoZhongLateHan|赵忠]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - favorite-language and emotional dependence before later access cases.
 - [[zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud|Hanji 901]], [[ZhaoZhongLateHan|赵忠]], [[CaoJieLateHan|曹节]], [[WangFuLateHan|王甫]], [[ChenQiuLateHan|陈球 / 陈求]], and [[LiXianTaiweiLateHan|李贤]] - eunuch-shaped burial agenda that officials still partly overcome.
 - [[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom|Hanji 903]], [[WangFuLateHan|王甫]], [[LiuKuiBohaiKing|刘亏]], [[BohaiKingdomLateHan|渤海王国]], [[LianZhongLateHan|廉中]], and [[TreasonAccusationTrap|谋反指控陷阱]] - palace brokerage and accusation routing in the Liu Kui case.
 - [[zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a|Hanji 912]], [[CaoJieLateHan|曹节]], [[CaiYong|蔡邕]], [[EmperorLingOfHan|汉灵帝]], and [[ConfidentialRemonstranceLeakage|密奏泄露风险]] - confidential memorial observed, read, and leaked through inner-court proximity.

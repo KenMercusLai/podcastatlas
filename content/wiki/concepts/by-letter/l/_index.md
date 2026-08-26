@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 5504
+wiki_total_pages: 5505
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -89,6 +89,9 @@ wiki_pages:
   - key: "LateBloomingTalent"
     title: "Late-Blooming Talent / 大器晚成式人才显现"
     url: "/wiki/concepts/latebloomingtalent/"
+  - key: "LateHanPopulationCollapse"
+    title: "Late-Han Population Collapse / 东汉末年人口崩塌"
+    url: "/wiki/concepts/latehanpopulationcollapse/"
   - key: "LateMingWesternLearning"
     title: "Late-Ming Western Learning / 晚明西学东渐"
     url: "/wiki/concepts/latemingwesternlearning/"
