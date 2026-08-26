@@ -261,12 +261,13 @@
       "68e3dcf4cf80f3ff08de28db5fa06665d045db631dc75f908ce827ef84e2485b",
       "d9074e43b7b103fc0d0097b207bf8018227d6e146ca0eb75638118627687641c",
       "b16a38bd6e190222f7f3e6f0535803ce60ae7f3304e3477dfcdd995a15fb502f",
+      "ed252faccaaf1dc4e8c654d3406a6a1a0fc3a6f6fe78821348d1b123c7e85a5c",
       "32b62a0e1fc3144c5e7770721fc745607afef0d0cf46a8fe94d35cab377dbbf9"
     ],
-    "paragraph_count": 261
+    "paragraph_count": 262
   },
-  "overview_commit": "4c9e5846934e3e4f6b9a6e77fdc70f892f355083",
-  "overview_digest": "2aa683cd3d6c41cc4bd3f60ecea565ce2afa06f2916e54968c1b5a207d426fa3",
+  "overview_commit": "66ad40840d28d8641aad3cbf17024c584388e1e6",
+  "overview_digest": "80c7c025c4f4b0c031261f321940956f4f66a17f4cf6090a2953ff6963dcfbe6",
   "paragraphs": [
     {
       "id": "d59deaae3eb589df45f702d15d17cc78bcc6a4a8b3742d681f8adc3cf903d0c0",
@@ -8020,6 +8021,30 @@
         "zizhi-tongjian-hanji-910-shehui-shengcun-wo-quan-ni-duodian-chengfu-lp2fvuyb8ampzoeyr7znztnr0fgk",
         "zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy",
         "zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth"
+      ]
+    },
+    {
+      "id": "ed252faccaaf1dc4e8c654d3406a6a1a0fc3a6f6fe78821348d1b123c7e85a5c",
+      "primary_topic": "psychology-and-personal-development",
+      "secondary_topics": [],
+      "text": "[[zizhi-tongjian-hanji-1024-yongguan-sanjun-lvbu-weihe-shizhong-yi-shi-wucheng-lkfum6s9gin-vtfrjkxim9yukshj|Hanji 1024]] fills the pre-[[Xiapi|下邳]] collapse decision field in the late-Han command synthesis. [[XunYou|荀攸]] pushes [[CaoCao|曹操]] to strike while [[LyuBu|吕布]] is newly aligned with [[YuanShu|袁术]] but not yet stable; [[ChenGongLateHan|陈宫]] then offers an inner-outer defense and supply-exhaustion plan that Lü Bu first accepts and then abandons after household warning. The episode strengthens the wiki's Lü Bu judgment and the [[LongTermAchievementDiscipline|长期成事纪律]] branch at once: Lü Bu's problem is not lack of force, since [[GaoShun|高顺]] and [[ZhangLiao|张辽]] can defeat [[LiuBei|刘备]] and [[XiahouDun|夏侯惇]], but an inability to hold one strategic judgment long enough to turn force, advisers, allies, and city defense into durable initiative.",
+      "topic_scores": {
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 3
+      },
+      "wikilinks": [
+        "CaoCao",
+        "ChenGongLateHan",
+        "GaoShun",
+        "LiuBei",
+        "LongTermAchievementDiscipline",
+        "LyuBu",
+        "XiahouDun",
+        "Xiapi",
+        "XunYou",
+        "YuanShu",
+        "ZhangLiao",
+        "zizhi-tongjian-hanji-1024-yongguan-sanjun-lvbu-weihe-shizhong-yi-shi-wucheng-lkfum6s9gin-vtfrjkxim9yukshj"
       ]
     },
     {

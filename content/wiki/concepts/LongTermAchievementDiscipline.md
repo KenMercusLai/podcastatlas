@@ -1,33 +1,46 @@
 ---
 title: "Long-Term Achievement Discipline / 长期成事纪律"
 type: concept
+knowledge_schema: synthesis-v1
 tags: [self-cultivation, discipline, long-termism, achievement, chinese-history]
-sources: [zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-4-lml7lpd3u9l7esryknmhoampgx6v, zizhi-tongjian-hanji-150-plus-songgei-2023-xiang-chengshi-de-ni-llspjstksuy5c-i9mxm53t2r55f7]
-last_updated: 2026-08-23
+sources:
+  - zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-4-lml7lpd3u9l7esryknmhoampgx6v
+  - zizhi-tongjian-hanji-150-plus-songgei-2023-xiang-chengshi-de-ni-llspjstksuy5c-i9mxm53t2r55f7
+  - zizhi-tongjian-hanji-1024-yongguan-sanjun-lvbu-weihe-shizhong-yi-shi-wucheng-lkfum6s9gin-vtfrjkxim9yukshj
+last_updated: 2026-08-27
 ---
-
 # Long-Term Achievement Discipline / 长期成事纪律
 
-Long-term achievement discipline / 长期成事纪律 is the source's method for "成事" in [[zizhi-tongjian-hanji-150-plus-songgei-2023-xiang-chengshi-de-ni-llspjstksuy5c-i9mxm53t2r55f7|Hanji 150 PLUS]]. The episode argues that large outcomes are not mainly won by one burst of effort, sacrifice, or emotional intensity. They come from sustained attention, frustration tolerance, self-command, and the willingness to keep tending a goal before results are visible.
+## Definition
+Long-term achievement discipline / 长期成事纪律 is the practice of turning desire, ambition, or felt vocation into sustained attention, repeated action, self-command, and moral-practical cultivation over time. It treats achievement as a disciplined relationship with difficulty rather than a single burst of effort or a claim of innate talent.
 
-The source's case is [[ZengGuofan|曾国藩]]. It presents him as slow in youth and repeatedly unsuccessful in examinations, then uses his later progress to make "笨鸟先飞" and "厚积薄发" practical rather than sentimental. The point is not that weak aptitude automatically becomes greatness; it is that acknowledged limits can be turned into a stricter practice regime.
-
-The episode's strongest metaphor cluster treats action like tending life: hatching an egg, building a nest, cultivating a tree, and preserving a spring. That gives the concept its boundary. It differs from generic ambition because the method requires proximity, repetition, care, and caution. It also differs from mere productivity discipline because the end includes [[VirtuePracticeInternalization|修养内化]]: speech, intention, conduct, and goal protection have to move together.
-
-[[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-4-lml7lpd3u9l7esryknmhoampgx6v|Hanji 161 part 4]] returns to Zeng Guofan from another angle: his reception of [[LiaofanSixun|《了凡四训》]]. This does not replace the achievement-discipline frame; it adds a textual source for why self-discipline, family teaching, official conduct, and accumulated virtue are treated as one long practice.
+## Current Synthesis
+The concept begins with Zeng Guofan as a positive case: slow early progress and repeated examination frustration become material for patient accumulation rather than proof of fixed incapacity. It then connects to the Yuan Liaofan and Zeng Guofan self-cultivation branch, where cognition, intention, speech, family teaching, official conduct, and accumulated virtue matter only when practiced. Hanji 1024 adds a negative late-Han contrast through Lü Bu. Lü Bu has desire, force, advisers, and opportunities, but weak focus and unstable self-command make those assets scatter under pressure. The synthesis is therefore two-sided: long-term achievement requires both enduring practice and the ability to govern desire so it does not become reactive appetite, fear, or confusion.
 
 ## Key Claims
-- Short-term effort can create self-satisfaction without producing durable progress.
-- Starting behind in talent, status, or resources is a constraint, not a verdict.
-- Achievement grows through repeated, close, patient tending of a goal.
-- Self-discipline includes protecting the thing one has resolved to do and staying with it through slow development.
-- The source links durable achievement to moral cultivation, so "成事" is not only technical execution.
-- Hanji 161 part 4 adds that Zeng's long-term discipline is adjacent to a broader fate-change-through-virtue tradition.
+- Durable achievement depends on sustained attention and frustration tolerance, not one burst of effort or emotional intensity.
+- Starting behind in talent, status, or resources is a constraint that can be converted into practice, not a final verdict.
+- Self-cultivation turns cognition and intention into action; knowing the right principle is insufficient without repeated conduct.
+- Desire is useful only when disciplined by focus and self-command; unmanaged desire multiplies aims and weakens direction.
+- In political and military settings, lack of inner order can appear as unstable decisions even when resources, allies, and talent are available.
 
-## Connections
-- [[ZengGuofan|曾国藩]] - source case for slow aptitude converted into disciplined accumulation.
-- [[LateBloomingTalent|大器晚成式人才显现]] - adjacent life-course pattern, here focused on practice rather than only recognition and timing.
-- [[VirtuePracticeInternalization|修养内化]] - achievement requires repeated conduct becoming character.
-- [[HumanNaturePlasticity|人性可变性]] - self-change is possible through accumulated training and 知行合一.
-- [[Bingjian|《冰鉴》]] - separate Zeng Guofan branch in the wiki, useful as contrast because this source is about doing rather than reading people.
-- [[LiaofanSixun|《了凡四训》]] and [[FateChangeThroughVirtuePractice|积善修心式改命]] - Hanji 161 part 4 extension of Zeng's self-cultivation branch.
+## Evidence
+- Patient accumulation: [[zizhi-tongjian-hanji-150-plus-songgei-2023-xiang-chengshi-de-ni-llspjstksuy5c-i9mxm53t2r55f7|Hanji 150 PLUS]] uses Zeng Guofan's slow youth, repeated effort, and metaphors of hatching, nesting, tree-growing, and spring-preserving to define achievement as long tending.
+- Practice over knowledge: [[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-4-lml7lpd3u9l7esryknmhoampgx6v|Hanji 161 part 4]] links Zeng Guofan's reception of Liaofan Sixun to intention, virtue, family teaching, and the need to enact what one claims to understand.
+- Desire and focus: [[zizhi-tongjian-hanji-1024-yongguan-sanjun-lvbu-weihe-shizhong-yi-shi-wucheng-lkfum6s9gin-vtfrjkxim9yukshj|Hanji 1024]] frames desire as either motivational or destructive depending on whether it is governed by focus, rational control, and humility.
+- Negative political case: [[zizhi-tongjian-hanji-1024-yongguan-sanjun-lvbu-weihe-shizhong-yi-shi-wucheng-lkfum6s9gin-vtfrjkxim9yukshj|Hanji 1024]] shows Lü Bu possessing force, commanders, advisers, and a possible rescue channel while still losing initiative through oscillation and abandoned plans.
+
+## Counterevidence & Qualifications
+This concept is an interpretive self-cultivation frame, not a claim that character alone explains every success or failure. Material opportunity, institutions, coercive force, illness, family position, and luck still shape outcomes. The Zeng Guofan episodes are exemplary and moralizing, while Hanji 1024's reading of Lü Bu's desire and inner order is source-scoped rather than direct evidence of psychological state.
+
+## What Changed
+- Hanji 1024 adds a negative late-Han case: high force and high desire do not become durable achievement without focus and self-command.
+- The concept now includes desire governance under pressure, not only patient accumulation over time.
+- The current synthesis now links inner discipline to political-military decision stability.
+
+## Related Concepts
+- [[VirtuePracticeInternalization]] - supplies the moral-practice mechanism by which repeated conduct becomes character.
+- [[HumanNaturePlasticity]] - describes the premise that people can change through accumulated training and knowing-action integration.
+- [[MeditativeStabilityPractice]] - adjacent attention-training frame for stabilizing the mind before action.
+- [[QingYuQuJiu]] - late-Han contrast case where unstable commitment makes trust and durable achievement difficult.
+- [[WarCostTempoDiscipline]] - external strategic counterpart showing that achievement also depends on timing, supply, and disciplined campaign pace.

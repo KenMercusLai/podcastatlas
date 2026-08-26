@@ -12138,6 +12138,7 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》1032丨对待叛徒，曹操为何仁慈？
 
 Added source page for Hanji 1032: Yuan Shao's post-Gongsun-Zan northern settlement, Tian Yu's advice that Xianyu Fu submit to Cao Cao's emperor-backed court, Wuhuan chanyu-seal politics around Tadun and Yan Rou, Cao Cao's Shequan operation against Sui Gu, and Cao's pardon and appointment of Wei Zhong after a prior Yanzhou-crisis flight. Created Wei Zhong, Shequan, Tian Yu, and Tadun pages; updated Guandu Campaign, Strategic Defector Incorporation, Xianyu Fu, and Yan Rou. No settled contradiction found; the transcript's "称帝后的袁绍" phrase is kept source-scoped because adjacent sources treat Yuan Shu, not Yuan Shao, as the usurping emperor.
@@ -12157,6 +12158,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-27] ingest | 《资治通鉴·汉纪》1024丨勇冠三军吕布，为何始终一事无成？
+
+Added source page for Hanji 1024: Lü Bu's 198 CE pre-Xiapi decision field, Gao Shun and Zhang Liao's attack on Liu Bei, Xun You's attack-window advice to Cao Cao, Chen Gong's rejected early-attack and abandoned inner-outer attrition plan, and Yuan Shu's still-uncertain rescue channel. Updated Lü Bu and Long-Term Achievement Discipline to synthesis-v1. No settled contradiction found; the source qualifies final-cause readings of Lü Bu's fall by moving the failure earlier to lost initiative, unstable trust, and weak self-command.
 
 ## [2026-08-27] lint | Wiki health check
 
