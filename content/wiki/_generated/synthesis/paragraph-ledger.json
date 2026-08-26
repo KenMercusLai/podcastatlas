@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "b59592e9dee1b2eee5a578c1941f5cafbbdd73787a357e7b849bb4a18af13d90",
       "c1fcb3861b584fe6e941c87932da97413c4884d0dceb790e661f42a218f310c0",
       "3ebdf9dcaded254adec25e064e08f763e9ead24285786d5a7dd344b303cb97ce",
       "08e9e438e40918d3a19ca7da2690c490428c5bd254df490c89e74304af0569d4",
@@ -248,11 +249,51 @@
       "d9074e43b7b103fc0d0097b207bf8018227d6e146ca0eb75638118627687641c",
       "b16a38bd6e190222f7f3e6f0535803ce60ae7f3304e3477dfcdd995a15fb502f"
     ],
-    "paragraph_count": 246
+    "paragraph_count": 247
   },
-  "overview_commit": "7d08cfe095712776af7e7c0aab71b20298d0e04e",
-  "overview_digest": "8b39be01c8062063a7ccfecb8842015537b9610b04298e3eab070d7aa88a15c3",
+  "overview_commit": "9677edbc93d1129785b6af69179c0670d8838aa9",
+  "overview_digest": "bbe8edb743c813e22d087be8f81f332637f5cdb715cfbdb17cbc87d605c27c0c",
   "paragraphs": [
+    {
+      "id": "b59592e9dee1b2eee5a578c1941f5cafbbdd73787a357e7b849bb4a18af13d90",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [],
+      "text": "The latest addition is [[e46-women-congwei-kanjian-bici-lmliksaiwxakmjbn-p2voaaoenxh]], a [[WurenZhixiao]] solo essay by [[MengYan]] on why familiar people are often seen through fear, memory, projection, and language rather than directly. It adds [[GoodFriendsFilm|《好朋友们》]], [[MaxBennett]], [[JidduKrishnamurti]], [[TimUrban]], [[WhatIsOurProblem]], [[AIExpressionBaseline]], [[InterpersonalImageProjection]], [[EvolutionaryMisrecognition]], [[DopamineWantingLoop]], [[PredictiveWorldModelAnxiety]], [[MentalizingProjection]], [[LanguageCompressionLabeling]], and [[TotalAttentionPractice]], while extending [[ABriefHistoryOfIntelligence]], [[AIAuthorshipPresence]], [[AIContentDevaluation]], [[AlgorithmicAmplification]], [[AlgorithmicLabeling]], [[SubjectiveRealityConstruction]], [[BuddhistConsciousnessProjectionFrame]], [[HumanConnectionUnderAI]], and [[FeedCuration]]. Its core synthesis is that \"not seeing each other\" is not only a moral failure: survival cognition assigns value, pursues wanting, simulates threats, models other minds from the self, and compresses people into words; AI and social platforms raise the stakes by making generic expression and emotion-optimized labels cheaper. No settled contradiction is recorded; the episode qualifies AI-expression optimism by making sincere human deviation and full attention the scarce layer.",
+      "topic_scores": {
+        "ai-and-technology": 3,
+        "culture-and-media": 1,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "ABriefHistoryOfIntelligence",
+        "AIAuthorshipPresence",
+        "AIContentDevaluation",
+        "AIExpressionBaseline",
+        "AlgorithmicAmplification",
+        "AlgorithmicLabeling",
+        "BuddhistConsciousnessProjectionFrame",
+        "DopamineWantingLoop",
+        "EvolutionaryMisrecognition",
+        "FeedCuration",
+        "GoodFriendsFilm",
+        "HumanConnectionUnderAI",
+        "InterpersonalImageProjection",
+        "JidduKrishnamurti",
+        "LanguageCompressionLabeling",
+        "MaxBennett",
+        "MengYan",
+        "MentalizingProjection",
+        "PredictiveWorldModelAnxiety",
+        "SubjectiveRealityConstruction",
+        "TimUrban",
+        "TotalAttentionPractice",
+        "WhatIsOurProblem",
+        "WurenZhixiao",
+        "e46-women-congwei-kanjian-bici-lmliksaiwxakmjbn-p2voaaoenxh"
+      ]
+    },
     {
       "id": "c1fcb3861b584fe6e941c87932da97413c4884d0dceb790e661f42a218f310c0",
       "primary_topic": "work-education-and-society",

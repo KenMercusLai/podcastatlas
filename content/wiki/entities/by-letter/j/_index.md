@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 7714
+wiki_total_pages: 7719
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -386,6 +386,9 @@ wiki_pages:
   - key: "Jianying"
     title: "Jianying / 剪映"
     url: "/wiki/entities/jianying/"
+  - key: "JidduKrishnamurti"
+    title: "Jiddu Krishnamurti / 克里希那穆提"
+    url: "/wiki/entities/jiddukrishnamurti/"
   - key: "JieDechen"
     title: "Jie Dechen"
     url: "/wiki/entities/jiedechen/"

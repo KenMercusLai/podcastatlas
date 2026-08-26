@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 7714
+wiki_total_pages: 7719
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -464,6 +464,9 @@ wiki_pages:
   - key: "MaxBazerman"
     title: "Max Bazerman / 马克斯·巴兹曼"
     url: "/wiki/entities/maxbazerman/"
+  - key: "MaxBennett"
+    title: "Max Bennett"
+    url: "/wiki/entities/maxbennett/"
   - key: "MaxDemian"
     title: "Max Demian / 德米安"
     url: "/wiki/entities/maxdemian/"

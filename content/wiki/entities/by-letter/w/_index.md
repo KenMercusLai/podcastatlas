@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 7714
+wiki_total_pages: 7719
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -263,6 +263,9 @@ wiki_pages:
   - key: "WhartonSchool"
     title: "Wharton School"
     url: "/wiki/entities/whartonschool/"
+  - key: "WhatIsOurProblem"
+    title: "What Is Our Problem? / 我们究竟怎么了"
+    url: "/wiki/entities/whatisourproblem/"
   - key: "WhatsNextKejiZaozhidao"
     title: "What's Next｜科技早知道"
     url: "/wiki/entities/whatsnextkejizaozhidao/"

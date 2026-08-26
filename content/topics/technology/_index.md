@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2434
+topic_total_pages: 2436
 topic_concepts:
   - key: "AcademicAIResearchRole"
     title: "Academic AI Research Role"
@@ -334,6 +334,9 @@ topic_concepts:
   - key: "AIExportControls"
     title: "AI Export Controls"
     url: "/wiki/concepts/aiexportcontrols/"
+  - key: "AIExpressionBaseline"
+    title: "AI Expression Baseline / AI 表达基线"
+    url: "/wiki/concepts/aiexpressionbaseline/"
   - key: "AIFactoryAllegory"
     title: "AI Factory Allegory"
     url: "/wiki/concepts/aifactoryallegory/"
@@ -6711,6 +6714,9 @@ topic_sources:
   - key: "e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask"
     title: "E45 孟岩对话李继刚：人何以自处"
     url: "/wiki/sources/e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask/"
+  - key: "e46-women-congwei-kanjian-bici-lmliksaiwxakmjbn-p2voaaoenxh"
+    title: "E46 我们从未看见彼此"
+    url: "/wiki/sources/e46-women-congwei-kanjian-bici-lmliksaiwxakmjbn-p2voaaoenxh/"
   - key: "enterprise-sales-with-no-product-landing-a-big-four-customer"
     title: "Enterprise Sales With No Product: Landing a Big Four Customer"
     url: "/wiki/sources/enterprise-sales-with-no-product-landing-a-big-four-customer/"

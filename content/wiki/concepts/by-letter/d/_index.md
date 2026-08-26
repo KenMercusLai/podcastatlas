@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 5517
+wiki_total_pages: 5525
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -611,6 +611,9 @@ wiki_pages:
   - key: "DonroeDoctrine"
     title: "Donroe Doctrine"
     url: "/wiki/concepts/donroedoctrine/"
+  - key: "DopamineWantingLoop"
+    title: "Dopamine Wanting Loop / 多巴胺渴爱循环"
+    url: "/wiki/concepts/dopaminewantingloop/"
   - key: "DopplerEffect"
     title: "Doppler Effect"
     url: "/wiki/concepts/dopplereffect/"

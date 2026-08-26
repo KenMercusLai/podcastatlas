@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 7714
+wiki_total_pages: 7719
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -395,6 +395,9 @@ wiki_pages:
   - key: "GongsunZan"
     title: "Gongsun Zan"
     url: "/wiki/entities/gongsunzan/"
+  - key: "GoodFriendsFilm"
+    title: "Good Friends / 好朋友们"
+    url: "/wiki/entities/goodfriendsfilm/"
   - key: "GoodToGo"
     title: "Good To Go"
     url: "/wiki/entities/goodtogo/"

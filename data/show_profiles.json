@@ -1759,20 +1759,20 @@
       "earliest_episode_date": "2025-11-18",
       "latest_episode_date": "2026-08-25",
       "latest_episode_file": "E46 我们从未看见彼此 [lmLikSaiWXAKmjBn_p2VoaaOENXH].md",
-      "source_note_count": 4,
-      "topic_matched_source_note_count": 4,
+      "source_note_count": 5,
+      "topic_matched_source_note_count": 5,
       "topics": [
+        {
+          "key": "technology",
+          "label": "Technology",
+          "url": "/topics/technology/",
+          "source_note_count": 3
+        },
         {
           "key": "economics",
           "label": "Economics",
           "url": "/topics/economics/",
           "source_note_count": 3
-        },
-        {
-          "key": "technology",
-          "label": "Technology",
-          "url": "/topics/technology/",
-          "source_note_count": 2
         },
         {
           "key": "politics",
@@ -1793,13 +1793,13 @@
           "title": "Meng Yan / 孟岩",
           "url": "/wiki/entities/mengyan/",
           "kind": "person",
-          "episode_count": 4
+          "episode_count": 5
         }
       ],
       "start_here_episode_files": [
+        "E46 我们从未看见彼此 [lmLikSaiWXAKmjBn_p2VoaaOENXH].md",
         "E45 孟岩对话李继刚：人何以自处 [lvA2mFXeSE7V0sFV3mFpfFHBDAsk].md",
         "E44 李晓波对话孟岩：这次，就这样吧？ [lpcrvFgnsEAED-eaMbK9OFnvuQ2-].md",
-        "E46 我们从未看见彼此 [lmLikSaiWXAKmjBn_p2VoaaOENXH].md",
         "E43 张潇雨、孟岩对话许哲：没有更好的生活 [lrSfby01kUOuRnlY5mlkKzI-AyLS].md"
       ]
     },

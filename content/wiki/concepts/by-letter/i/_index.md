@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 5517
+wiki_total_pages: 5525
 wiki_pages:
   - key: "ICEWorkforceExpansion"
     title: "ICE Workforce Expansion"
@@ -509,6 +509,9 @@ wiki_pages:
   - key: "InternshipAsCareerExploration"
     title: "Internship As Career Exploration"
     url: "/wiki/concepts/internshipascareerexploration/"
+  - key: "InterpersonalImageProjection"
+    title: "Interpersonal Image Projection / 人际意象投射"
+    url: "/wiki/concepts/interpersonalimageprojection/"
   - key: "InterpretationAndOverinterpretation"
     title: "Interpretation And Overinterpretation"
     url: "/wiki/concepts/interpretationandoverinterpretation/"

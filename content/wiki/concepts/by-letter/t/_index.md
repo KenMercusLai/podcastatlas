@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 5517
+wiki_total_pages: 5525
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -353,6 +353,9 @@ wiki_pages:
   - key: "TopModelBuildRuntimeSplit"
     title: "Top Model Build Runtime Split"
     url: "/wiki/concepts/topmodelbuildruntimesplit/"
+  - key: "TotalAttentionPractice"
+    title: "Total Attention Practice / 全然注意力"
+    url: "/wiki/concepts/totalattentionpractice/"
   - key: "TotalitarianDoubleLife"
     title: "Totalitarian Double Life / 极权双重生活"
     url: "/wiki/concepts/totalitariandoublelife/"

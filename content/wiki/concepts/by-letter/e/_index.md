@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 5517
+wiki_total_pages: 5525
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -614,6 +614,9 @@ wiki_pages:
   - key: "EvilAsResponsibilityFailure"
     title: "Evil As Responsibility Failure"
     url: "/wiki/concepts/evilasresponsibilityfailure/"
+  - key: "EvolutionaryMisrecognition"
+    title: "Evolutionary Misrecognition / 进化式误认"
+    url: "/wiki/concepts/evolutionarymisrecognition/"
   - key: "EvolutionaryTraitInterpretation"
     title: "Evolutionary Trait Interpretation"
     url: "/wiki/concepts/evolutionarytraitinterpretation/"

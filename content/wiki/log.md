@@ -11993,3 +11993,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-26] ingest | E46 我们从未看见彼此
+
+Added source page for Wuren Zhixiao E46: AI-raised expression baselines, 《好朋友们》 as an interpersonal projection case, Max Bennett's five-layer intelligence frame, dopamine wanting, predictive anxiety, mentalizing projection, language compression, algorithmic amplification, harmful speech, and Krishnamurti's image/register and total-attention vocabulary. Created Max Bennett, Good Friends, Jiddu Krishnamurti, Tim Urban, What Is Our Problem, AI Expression Baseline, Interpersonal Image Projection, Evolutionary Misrecognition, Dopamine Wanting Loop, Predictive World-Model Anxiety, Mentalizing Projection, Language Compression Labeling, and Total Attention Practice; updated Wuren Zhixiao, Meng Yan, and A Brief History of Intelligence. No settled contradiction found.
+
+## [2026-08-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

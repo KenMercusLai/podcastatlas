@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 5517
+wiki_total_pages: 5525
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -644,6 +644,9 @@ wiki_pages:
   - key: "AIExportControls"
     title: "AI Export Controls"
     url: "/wiki/concepts/aiexportcontrols/"
+  - key: "AIExpressionBaseline"
+    title: "AI Expression Baseline / AI 表达基线"
+    url: "/wiki/concepts/aiexpressionbaseline/"
   - key: "AIFactoryAllegory"
     title: "AI Factory Allegory"
     url: "/wiki/concepts/aifactoryallegory/"

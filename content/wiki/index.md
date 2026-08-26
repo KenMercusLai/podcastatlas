@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [E46 我们从未看见彼此](sources/e46-women-congwei-kanjian-bici-lmliksaiwxakmjbn-p2voaaoenxh.md) — 无人知晓 solo episode on AI-era expression, the film 《好朋友们》, evolved intelligence, interpersonal projection, language labels, algorithmic amplification, and Krishnamurti's total attention.
 - [The $1/Hour Worker: Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs](sources/all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680.md) — All-In robotics special on Anybotics, 1X, Boston Dynamics, and Agility Robotics across industrial inspection, home humanoids, warehouse humanoids, teleoperation, robot data, safety, sovereignty, and dangerous-work automation.
 - [《资治通鉴·汉纪》895丨血腥屠刀下的骨肉情深](sources/zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3.md) — 芮淇讲透资治通鉴 episode on Zhang Jian's 169 CE flight, Kong Rong hiding him in Kong Bao's household, the Kong-family responsibility contest, Xia Fu and Du Gen's non-implication withdrawal, and Tan Sitong's later poetic allusion.
 - [《资治通鉴·汉纪》896丨假如乱世降临，你该如何自保？](sources/zizhi-tongjian-hanji-896-jiaru-luanshi-jianglin-ni-gai-ruhe-zibao-lsuvt-ksp-gfggc9riqqovjswkg.md) — 芮淇讲透资治通鉴 episode on 169 CE party-prohibition survival through Chen Shi's courtesy to Zhang Rang, He Yong and Yuan Shao's rescue network, Yuan Hong's domestic reclusion, Shentu Pan's early withdrawal, and Sima Guang's warning about unsupported public confrontation.
@@ -1504,6 +1505,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Max Bennett](entities/MaxBennett.md) — Authorial figure behind A Brief History of Intelligence as used in E46's evolved-misrecognition frame.
+- [Good Friends / 好朋友们](entities/GoodFriendsFilm.md) — Korean film case E46 uses to examine friendship, false memory, projection, and the failure to see another person directly.
+- [Jiddu Krishnamurti / 克里希那穆提](entities/JidduKrishnamurti.md) — Thinker E46 uses for image, register, and total attention in interpersonal perception.
+- [Tim Urban](entities/TimUrban.md) — Authorial reference for E46's account of engagement-driven social media algorithms.
+- [What Is Our Problem? / 我们究竟怎么了](entities/WhatIsOurProblem.md) — Tim Urban book used in E46 to connect labels, emotion, and algorithmic amplification.
 - [Anybotics](entities/Anybotics.md) — Swiss robotics company using quadruped robots for industrial inspection in hazardous infrastructure.
 - [Peter Fankhauser](entities/PeterFankhauser.md) — Anybotics co-founder and CEO arguing that quadruped inspection robots can turn hazardous plants into safer data-generating environments.
 - [1X](entities/OneX.md) — Robotics company building the Neo home humanoid as a consumer platform around domestic usefulness, safety, and continuous learning.
@@ -8418,9 +8424,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Oliver](entities/Oliver.md) — Invisible Technologies enterprise-business VP and former McKinsey private-equity consultant explaining PE motives and workflow-first AI adoption.
 - [Blackstone](entities/Blackstone.md) — Financial institution referenced in Anthropic's AI partnership context and used to explain private equity as an AI deployment channel.
 - [McKinsey](entities/McKinsey.md) — Consulting firm mentioned through Oliver's prior private-equity consulting background.
-- [无人知晓](entities/WurenZhixiao.md) — Podcast/show context for conversations on uncertainty, investing, engineering, AI, human agency, and life practice.
+- [无人知晓](entities/WurenZhixiao.md) — Podcast/show context for conversations and essays on uncertainty, investing, AI, attention, human agency, and seeing others through projection.
 - [Zhang Xiaoyu / 张潇雨](entities/ZhangXiaoyu.md) — Speaker who translates black swans, options, and antifragility into public work, relationships, health, and no-better-life reflection.
-- [Meng Yan / 孟岩](entities/MengYan.md) — Speaker who translates tail-risk, antifragility, engineering, AI-era self-disposition, and life-practice questions into ordinary-investor and ordinary-life terms.
+- [Meng Yan / 孟岩](entities/MengYan.md) — Speaker who translates investing, engineering, AI-era agency, and interpersonal perception into ordinary-life practice questions.
 - [Wei Qing / 韦青](entities/WeiQing.md) — Engineering and Microsoft-background guest framing AI, organizations, language, attention, and human-machine amplification through the silent protagonist idea.
 - [Xu Zhe / 许哲](entities/XuZhe.md) — Investor and guest explaining black swans, fat tails, options, convexity, antifragility, and impermanence/no-self.
 - [Nassim Taleb](entities/NassimTaleb.md) — Uncertainty thinker referenced through black swans, fat tails, antifragility, barbell strategy, and asymmetric risk.
@@ -8925,7 +8931,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Fit For Life](entities/FitForLife.md) — Joey Shamah's post-e.l.f. fitness-products licensing company.
 - [AS Beauty](entities/ASBeauty.md) — Joey Shamah's later beauty company focused on acquiring and operating existing brands.
 - [25 & Pine](entities/25AndPine.md) — Family furniture company using social storytelling to sell parent-child shared furniture.
-- [A Brief History of Intelligence](entities/ABriefHistoryOfIntelligence.md) — Book used in the Neihe Konghuang episode to connect biological intelligence, simulation, world models, and mentalizing.
+- [A Brief History of Intelligence](entities/ABriefHistoryOfIntelligence.md) — Max Bennett book used to connect biological intelligence, simulation, world models, mentalizing, and E46's evolved-misrecognition frame.
 - [Aether AI](entities/AetherAI.md) — AI robotics company founded by Huang Biwei to build causal world models for embodied intelligence.
 - [Air New Zealand](entities/AirNewZealand.md) — Airline used in EP11 as a meal-design and responsive cabin-care example.
 - [Adao](entities/Adao.md) — MiniMax Agent chief architect discussing agent harnesses, multi-agent cross-checking, and model-harness feedback loops.
@@ -9222,6 +9228,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [AI Expression Baseline / AI 表达基线](concepts/AIExpressionBaseline.md) — E46 frame for AI raising the floor of ordinary expression and making sincere, experience-grounded human deviation more valuable.
+- [Interpersonal Image Projection / 人际意象投射](concepts/InterpersonalImageProjection.md) — Pattern where another person is seen through memory, fear, desire, labels, and disowned parts of the self.
+- [Evolutionary Misrecognition / 进化式误认](concepts/EvolutionaryMisrecognition.md) — E46 synthesis that survival-oriented cognition helps organisms live while making direct seeing structurally difficult.
+- [Dopamine Wanting Loop / 多巴胺渴爱循环](concepts/DopamineWantingLoop.md) — E46's reinforcement-learning and Buddhist-craving frame for wanting without lasting satisfaction.
+- [Predictive World-Model Anxiety / 预测世界模型焦虑](concepts/PredictiveWorldModelAnxiety.md) — Claim that the brain's simulation capacity enables planning while replaying possible harms as present anxiety.
+- [Mentalizing Projection / 心智化投射](concepts/MentalizingProjection.md) — Social-cognition mechanism where models of other minds borrow from one's own experience, fear, and desire.
+- [Language Compression Labeling / 语言压缩与标签化](concepts/LanguageCompressionLabeling.md) — E46 concept for language as both civilization infrastructure and a compressor that can freeze people into labels.
+- [Total Attention Practice / 全然注意力](concepts/TotalAttentionPractice.md) — Krishnamurti-derived E46 frame for whole-body attention that sees images as images.
 - [Industrial Inspection Robotics](concepts/IndustrialInspectionRobotics.md) — Use of robots to inspect hazardous or remote industrial assets while reducing human exposure and turning physical sites into repeatable data environments.
 - [Robot Sovereignty and Data Trust](concepts/RobotSovereigntyAndDataTrust.md) — Strategic concern that embodied robots carry cameras, microphones, control loops, and operational data whose ownership, routing, and jurisdiction matter.
 - [Robot as a Service](concepts/RobotAsAService.md) — Robotics business model that sells outcomes or operating hours while the vendor carries more deployment, maintenance, and performance risk.

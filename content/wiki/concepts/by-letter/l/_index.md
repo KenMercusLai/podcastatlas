@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 5517
+wiki_total_pages: 5525
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -44,6 +44,9 @@ wiki_pages:
   - key: "LanguageAsSocialGrooming"
     title: "Language As Social Grooming / 语言作为社会性梳毛"
     url: "/wiki/concepts/languageassocialgrooming/"
+  - key: "LanguageCompressionLabeling"
+    title: "Language Compression Labeling / 语言压缩与标签化"
+    url: "/wiki/concepts/languagecompressionlabeling/"
   - key: "LanguageModelScalingBet"
     title: "Language Model Scaling Bet"
     url: "/wiki/concepts/languagemodelscalingbet/"
