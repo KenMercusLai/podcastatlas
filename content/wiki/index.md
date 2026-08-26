@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》885丨生死关头，他请假休息？！](sources/zizhi-tongjian-hanji-885-shengsi-guantou-ta-qingjia-xiuxi-luydnh9oqdyyfpbeztooi2e7lvca.md) — 芮淇讲透资治通鉴 episode on the pre-leak decision window before the failed 168 CE Dou Wu / Chen Fan anti-eunuch coup, covering Dou Miao's hesitation, Chen Fan's urgent memorial, Liu Yu's omen warning, Zheng Sa's arrest, and Dou Wu's fatal leave-taking.
 - [《资治通鉴·汉纪》886丨身处职场，做个城府很深的人](sources/zizhi-tongjian-hanji-886-shenchu-zhichang-zuoge-chengfu-henshen-de-ren-lo6dgcdbshjgto-qsfcouwjersdi.md) — 芮淇讲透资治通鉴 episode on the leaked prelude to the 168 CE Dou Wu anti-eunuch coup, Zhu Yu's eunuch-side oath, Cao Jie and Wang Fu's palace seizure, legitimacy-symbol control, and "城府" as strategic self-command.
 - [《资治通鉴·汉纪》887丨当猪队长碰上猪队友，结果太惨！](sources/zizhi-tongjian-hanji-887-dang-zhuduizhang-pengshang-zhuduiyou-jieguo-taican-lvyh9a-kvsdqaokmylgg139bvhfk.md) — 芮淇讲透资治通鉴 episode on the failed 168 CE Dou Wu / Chen Fan anti-eunuch coup, Chen Fan's palace intervention and death, eunuch-side forged authority and troop reversal, Dou Wu's suicide, and the widened purge of kin, followers, students, and old subordinates.
 - [《资治通鉴·汉纪》888丨乱世之中，致敬不怕死的人](sources/zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq.md) — 芮淇讲透资治通鉴 episode on the 168 CE aftermath of the Dou Wu / Chen Fan anti-eunuch crisis, honoring Ba Su's refusal to flee, Zhu Zhen's protection of Chen Yi, Hu Teng's protection of Dou Wu's grandson, and the moral-outcome mismatch of eunuch-side rewards.
@@ -1545,6 +1546,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [刘瑜 / Liu Yu (late Han astrologer)](entities/LiuYuAstrologerLateHan.md) — Disambiguated omen reader whose warning to Dou Miao, Dou Wu, and Chen Fan turns celestial interpretation into palace-security advice before the 168 CE countercoup.
+- [山冰 / Shan Bing (late Han)](entities/ShanBingLateHan.md) — Dou-side small yellow-gate actor inserted into the Huangmenling channel, arresting Zheng Sa before Wang Fu reverses the prison channel.
+- [尹勋 / Yin Xun (late Han)](entities/YinXunLateHan.md) — Dou-side memorial actor who joins Shan Bing in requesting the arrest of Cao Jie and Wang Fu after Zheng Sa's interrogation.
 - [巴肃 / Ba Su (late Han)](entities/BaSuLateHan.md) — Bohai-associated late-Han participant in the Dou Wu plan who refuses a magistrate's escape offer and accepts execution.
 - [朱震 / Zhu Zhen (late Han)](entities/ZhuZhenLateHan.md) — Chen Fan's friend who buries him, hides Chen Yi, and keeps the secret through household imprisonment and torture.
 - [胡腾 / Hu Teng (late Han)](entities/HuTengLateHan.md) — Former Dou Wu subordinate who buries and mourns Dou Wu, then hides Dou Wu's young grandson in Lingling.
@@ -1674,7 +1678,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [李昊 / Li Hao (late Han)](entities/LiHaoLateHan.md) — Late-Han official who kills Su Qian, survives Su Buwei's first attack, then suffers grave desecration and corpse-display retaliation before Duan Jiong destroys Su's household.
 - [刘亏 / Liu Kui (Bohai king)](entities/LiuKuiBohaiKing.md) — Imperial kinsman restored as Bohai king through Wang Fu's access brokerage, then destroyed after refusing the promised payment.
 - [渤海王国 / Bohai Kingdom (late Han)](entities/BohaiKingdomLateHan.md) — Liu Kui's restored royal fief, turned into the target field for Wang Fu's forged treason case and mass collateral punishment.
-- [郑萨 / Zheng Sa (late Han)](entities/ZhengSaLateHan.md) — Court associate whose monitored ties to Liu Kui become evidence material in Wang Fu's forged treason case.
+- [郑飒 / Zheng Sa (late Han)](entities/ZhengSaLateHan.md) — Court actor whose arrest in the 168 CE Dou Wu crisis and later monitored ties to Liu Kui both become accusation material.
 - [董腾 / Dong Teng (late Han)](entities/DongTengLateHan.md) — Yellow Gate figure whose social connections with Liu Kui and Zheng Sa become suspicion material in Wang Fu's Bohai case.
 - [廉中 / Lian Zhong (late Han)](entities/LianZhongLateHan.md) — Shangshu ling said in Hanji 903 to forge evidence for Wang Fu's accusation that Zheng Sa and Liu Kui plotted imperial replacement.
 - [许生 / Xu Sheng (late-Han rebel)](entities/XuShengLateHan.md) — Kuaiji rebel who proclaims himself Yangming emperor in Hanji 903 before his suppression becomes Sun Jian's first visible late-Han career opportunity in Hanji 905.

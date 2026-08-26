@@ -15,17 +15,18 @@ sources:
   - zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5
   - zizhi-tongjian-hanji-887-dang-zhuduizhang-pengshang-zhuduiyou-jieguo-taican-lvyh9a-kvsdqaokmylgg139bvhfk
   - zizhi-tongjian-hanji-886-shenchu-zhichang-zuoge-chengfu-henshen-de-ren-lo6dgcdbshjgto-qsfcouwjersdi
+  - zizhi-tongjian-hanji-885-shengsi-guantou-ta-qingjia-xiuxi-luydnh9oqdyyfpbeztooi2e7lvca
 last_updated: 2026-08-27
 knowledge_schema: synthesis-v1
 ---
 
 ## Overview
 
-王甫 / Wang Fu (late Han) is a late-Han eunuch powerholder whose profile now begins with the 168 CE seizure sequence before the defeat of [[DouWuLateHan|窦武]] and [[ChenFanLateHan|陈蕃]]. [[zizhi-tongjian-hanji-886-shenchu-zhichang-zuoge-chengfu-henshen-de-ren-lo6dgcdbshjgto-qsfcouwjersdi|Hanji 886]] shows Wang Fu acting through Huangmenling authority, prison access, guards, and seal seizure; [[zizhi-tongjian-hanji-887-dang-zhuduizhang-pengshang-zhuduiyou-jieguo-taican-lvyh9a-kvsdqaokmylgg139bvhfk|Hanji 887]] then shows him turning accusation and reward language against Dou's troops.
+王甫 / Wang Fu (late Han) is a late-Han eunuch powerholder whose profile now begins with the prelude to the 168 CE seizure sequence before the defeat of [[DouWuLateHan|窦武]] and [[ChenFanLateHan|陈蕃]]. [[zizhi-tongjian-hanji-885-shengsi-guantou-ta-qingjia-xiuxi-luydnh9oqdyyfpbeztooi2e7lvca|Hanji 885]] first names Wang Fu in the danger field after [[ZhengSaLateHan|郑飒 / 郑萨]]'s interrogation links him with [[CaoJieLateHan|曹节]]. [[zizhi-tongjian-hanji-886-shenchu-zhichang-zuoge-chengfu-henshen-de-ren-lo6dgcdbshjgto-qsfcouwjersdi|Hanji 886]] then shows Wang Fu acting through Huangmenling authority, prison access, guards, and seal seizure; [[zizhi-tongjian-hanji-887-dang-zhuduizhang-pengshang-zhuduiyou-jieguo-taican-lvyh9a-kvsdqaokmylgg139bvhfk|Hanji 887]] shows him turning accusation and reward language against Dou's troops.
 
 ## Current Profile
 
-Wang Fu's current profile is a sequence of accusation power, access brokerage, and violent reversal. In the 168 CE coup prelude, he receives authority from the eunuch-controlled edict channel, goes to Beisi prison, acts against Yin Xun and Shan Bing, releases Zheng Sa, returns with guards, seizes [[EmpressDowagerDouMiao|窦妙 / 窦皇太后]], and takes the jade seal and ribbons. That action gives concrete force to the source's argument that legitimacy symbols and palace custody decide the field before Dou Wu's outside rally.
+Wang Fu's current profile is a sequence of accusation power, access brokerage, and violent reversal. In Hanji 885, he is first visible as a named threat in Zheng Sa's confession, which prompts [[YinXunLateHan|尹勋]] and [[ShanBingLateHan|山冰]] to ask Dou Miao for authority to arrest him and Cao Jie. In the Hanji 886 coup prelude, he receives authority from the eunuch-controlled edict channel, goes to Beisi prison, acts against Yin Xun and Shan Bing, releases Zheng Sa, returns with guards, seizes [[EmpressDowagerDouMiao|窦妙 / 窦皇太后]], and takes the jade seal and ribbons. That action gives concrete force to the source's argument that legitimacy symbols and palace custody decide the field before Dou Wu's outside rally.
 
 Hanji 887 then shows Wang Fu as the public voice of the eunuch side: he recodes Dou Wu's action as rebellion, has Chen Fan seized, and uses shouted accusation to shift soldiers away from Dou. The later burial conflict shows the same defensive memory problem in ritual form, as Wang Fu and [[CaoJieLateHan|曹节]] oppose Dou Miao's full status because that status would revive the old Dou/Chen injustice.
 
@@ -34,6 +35,7 @@ The later sources broaden the pattern. Wang Fu is named in anonymous accusation,
 ## Key Characteristics
 
 - Wang Fu is a direct countercoup actor whose prison, guard, and seal actions help remove Dou Wu's original legitimacy field.
+- Before that counteraction, he is named in the interrogation evidence that Dou Wu's side uses to seek arrests.
 - His speech and arrest power help turn Chen Fan and Dou Wu from reformers into alleged rebels.
 - He repeatedly converts access into accusation, whether against Chen Fan, Dou Miao's memory, Liu Kui, or Empress Song.
 - His brokerage power is transactional and dangerous: favor can become coercion once a promised payment or expected alignment fails.
@@ -42,6 +44,7 @@ The later sources broaden the pattern. Wang Fu is named in anonymous accusation,
 
 ## Evidence
 
+- Pre-coup accusation target: [[zizhi-tongjian-hanji-885-shengsi-guantou-ta-qingjia-xiuxi-luydnh9oqdyyfpbeztooi2e7lvca|Hanji 885]] says Zheng Sa's interrogation names Wang Fu with Cao Jie, after which Yin Xun and Shan Bing submit a memorial requesting their arrest.
 - Prison, guard, and seal action: [[zizhi-tongjian-hanji-886-shenchu-zhichang-zuoge-chengfu-henshen-de-ren-lo6dgcdbshjgto-qsfcouwjersdi|Hanji 886]] says Wang Fu receives Huangmenling authority, goes to Beisi prison, acts against Yin Xun and Shan Bing, releases Zheng Sa, returns with guards, seizes Dou Miao, and takes the jade seal and ribbons.
 - Countercoup voice and arrest: [[zizhi-tongjian-hanji-887-dang-zhuduizhang-pengshang-zhuduiyou-jieguo-taican-lvyh9a-kvsdqaokmylgg139bvhfk|Hanji 887]] says Wang Fu rebuts Chen Fan, orders him seized, and uses shouted rebellion accusations plus reward promises to turn Dou Wu's troops.
 - Burial-status defense: [[zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr|Hanji 900]] and [[zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud|Hanji 901]] show Wang Fu and Cao Jie opposing Dou Miao's full funeral and burial recognition.
@@ -69,6 +72,7 @@ The later sources broaden the pattern. Wang Fu is named in anonymous accusation,
 - [[DouWuLateHan|窦武]] - anti-eunuch opponent whom Wang Fu helps strip of legitimacy and recode as a rebel.
 - [[ChenFanLateHan|陈蕃]] - palace opponent whom Wang Fu orders seized before Chen's death.
 - [[EmpressDowagerDouMiao|窦妙 / 窦皇太后]] - dowager whose seizure and later status threaten Wang Fu's factional memory.
+- [[ZhengSaLateHan|郑飒 / 郑萨]], [[YinXunLateHan|尹勋]], and [[ShanBingLateHan|山冰]] - interrogation and memorial chain that precedes Wang Fu's reversal through prison authority.
 - [[LiuKuiBohaiKing|刘亏]] - brokerage client later destroyed through Wang Fu's accusation channel.
 - [[EmpressSongLateHan|宋皇后]] - palace rival destroyed after Wang Fu's wugu accusation.
 - [[PersonalRevengeThroughStatePower|以国力行私仇]] - concept that captures Wang Fu's accusation-as-state-punishment pattern.

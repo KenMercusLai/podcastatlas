@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 7849
+wiki_total_pages: 7852
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1652,6 +1652,9 @@ wiki_pages:
   - key: "ShandongLunengFootballSchool"
     title: "山东鲁能足校 / Shandong Luneng Football School"
     url: "/wiki/entities/shandonglunengfootballschool/"
+  - key: "ShanBingLateHan"
+    title: "山冰 / Shan Bing (late Han)"
+    url: "/wiki/entities/shanbinglatehan/"
   - key: "Shanyue"
     title: "山越 / Shanyue"
     url: "/wiki/entities/shanyue/"

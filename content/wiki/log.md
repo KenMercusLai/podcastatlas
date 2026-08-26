@@ -12191,7 +12191,6 @@ Added source page for Hanji 1034: Yuan Shao's pre-Guandu council, Ju Shou's rest
 
 Ran lint. See lint-report.md for details.
 
-
 ## [2026-08-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -12327,3 +12326,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-27] ingest | 《资治通鉴·汉纪》885丨生死关头，他请假休息？！
+
+Added source page for Hanji 885: the pre-leak decision window before the failed 168 CE Dou Wu / Chen Fan anti-eunuch coup, including Dou Miao's hesitation, Chen Fan's hard-line memorial, Liu Yu's omen warning, Shan Bing's arrest of Zheng Sa, Yin Xun and Shan Bing's requested arrests of Cao Jie and Wang Fu, and Dou Wu's September 7 leave-taking. Created disambiguated Liu Yu astrologer, Shan Bing, and Yin Xun pages; migrated Zheng Sa to synthesis-v1; updated Dou Wu, Chen Fan, Empress Dowager Dou Miao, Cao Jie, Wang Fu, Hou Lan, Lethal Plan Leakage Risk, and Zero-Sum Conflict Hesitation Risk. No settled contradiction found; Liu Yu / 刘瑜 is kept distinct from Liu Yu / 刘虞.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran health, identity validation, and lint. Health passed across 15,002 wiki pages; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-22 with 12,882 nodes and 149,964 edges while the current lint scan covered 15,002 pages, so fragile-bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because no provider-qualified `LLM_MODEL` or common provider API key variables are configured in this shell; bounded in-session review of the orphan page and fragile-bridge endpoint pages found no direct contradictions. Report returned in-session; `wiki/lint-report.md` was not updated.
