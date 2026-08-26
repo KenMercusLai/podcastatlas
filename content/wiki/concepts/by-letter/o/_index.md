@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 5608
+wiki_total_pages: 5609
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -26,6 +26,9 @@ wiki_pages:
   - key: "Objectivism"
     title: "Objectivism / 客观主义"
     url: "/wiki/concepts/objectivism/"
+  - key: "ObliqueRemonstranceSelfProtection"
+    title: "Oblique Remonstrance Self-Protection / 迂回进谏自保"
+    url: "/wiki/concepts/obliqueremonstranceselfprotection/"
   - key: "Observability"
     title: "Observability"
     url: "/wiki/concepts/observability/"

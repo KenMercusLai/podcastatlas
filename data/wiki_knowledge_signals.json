@@ -1321,6 +1321,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/californiaprivacyprotectionagency/"
     },
+    "CaoShaoLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》890丨想当官先学对付“小人” [ltNVH6QU-MR8flSDLXF_E6rKNpIS].md",
+          "key": "zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》890丨想当官先学对付“小人”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/caoshaolatehan/"
+    },
     "Caperni": {
       "episode_count": 1,
       "show_count": 1,
@@ -6759,6 +6775,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/oakley/"
     },
+    "ObliqueRemonstranceSelfProtection": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》890丨想当官先学对付“小人” [ltNVH6QU-MR8flSDLXF_E6rKNpIS].md",
+          "key": "zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》890丨想当官先学对付“小人”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/obliqueremonstranceselfprotection/"
+    },
     "OfficeOfScienceAndTechnologyPolicy": {
       "episode_count": 1,
       "show_count": 1,
@@ -9396,6 +9428,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/xianyufu/"
     },
+    "XieBiLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》890丨想当官先学对付“小人” [ltNVH6QU-MR8flSDLXF_E6rKNpIS].md",
+          "key": "zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》890丨想当官先学对付“小人”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/xiebilatehan/"
+    },
     "XiziRanLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -9676,6 +9724,85 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/yangbiao/"
+    },
+    "YangCiLateHan": {
+      "episode_count": 10,
+      "show_count": 1,
+      "source_note_count": 10,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》904丨觉照内观：获得心灵大自由的秘诀 [lopN_oKbzr4LJvqmgzCsb7qAv0n2].md",
+          "key": "zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》904丨觉照内观：获得心灵大自由的秘诀",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》907丨所有的病都是你的心病 [ltQzyOHCauDUWuaNlvqPH9L81d79].md",
+          "key": "zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》907丨所有的病都是你的心病",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》912丨秘密到底该不该说出口？ [lhSgiPxwC17PaHc-R6Jl7xDyrS2A].md",
+          "key": "zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》912丨秘密到底该不该说出口？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》918丨事情不顺利时，为什么要闭嘴？ [lh-tBOhgO96qw8bJqu3x1Yp6CZV5].md",
+          "key": "zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》918丨事情不顺利时，为什么要闭嘴？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》919丨想活得好？先踢开善良的自己 [lrqxfZIR4BQXt0v3cCvfEf8FaaDE].md",
+          "key": "zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》919丨想活得好？先踢开善良的自己",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》920丨明悟这个道理，才能赚大钱 [lqMAbg3bpYz6Ct2V4ArX-IUn57Ws].md",
+          "key": "zizhi-tongjian-hanji-920-mingwu-zhege-daoli-caineng-zhuan-daqian-lqmabg3bpyz6ct2v4arx-iun57ws",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》920丨明悟这个道理，才能赚大钱",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-920-mingwu-zhege-daoli-caineng-zhuan-daqian-lqmabg3bpyz6ct2v4arx-iun57ws/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》923丨成年人的顶级狠劲：骨子里的决绝 [liFZh-GohPqNmdzNnfV72tNDQf8H].md",
+          "key": "zizhi-tongjian-hanji-923-chengnianrende-dingji-henjin-guzi-lide-juejue-lifzh-gohpqnmdznnfv72tndqf8h",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》923丨成年人的顶级狠劲：骨子里的决绝",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-923-chengnianrende-dingji-henjin-guzi-lide-juejue-lifzh-gohpqnmdznnfv72tndqf8h/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮 [liMAFqSkGbLRweTeSTyH39w_hZM4].md",
+          "key": "zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》931丨人生艰难处，便是修心时 [lpZMvxOp8lmlwvXHoOJZj5ok9Qd6].md",
+          "key": "zizhi-tongjian-hanji-931-rensheng-jiannan-chu-bianshi-xiuxin-shi-lpzmvxop8lmlwvxhoojzj5ok9qd6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》931丨人生艰难处，便是修心时",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-931-rensheng-jiannan-chu-bianshi-xiuxin-shi-lpzmvxop8lmlwvxhoojzj5ok9qd6/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》890丨想当官先学对付“小人” [ltNVH6QU-MR8flSDLXF_E6rKNpIS].md",
+          "key": "zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》890丨想当官先学对付“小人”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/yangcilatehan/"
     },
     "YangFengLateHan": {
       "episode_count": 13,
@@ -9985,6 +10112,29 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/zangbalatehan/"
+    },
+    "ZhangHuanLateHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》902丨控制情绪是人生必修课 [ljYNYlVdLSDTjF4ES9jmIlAV863b].md",
+          "key": "zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》902丨控制情绪是人生必修课",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》890丨想当官先学对付“小人” [ltNVH6QU-MR8flSDLXF_E6rKNpIS].md",
+          "key": "zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》890丨想当官先学对付“小人”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/zhanghuanlatehan/"
     },
     "ZhangJianLateHan": {
       "episode_count": 3,

@@ -2,50 +2,69 @@
 title: "杨赐 / Yang Ci (late Han)"
 type: entity
 tags: [person, late-han, official, china]
-sources: [zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2, zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79, zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a, zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5, zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade, zizhi-tongjian-hanji-920-mingwu-zhege-daoli-caineng-zhuan-daqian-lqmabg3bpyz6ct2v4arx-iun57ws, zizhi-tongjian-hanji-923-chengnianrende-dingji-henjin-guzi-lide-juejue-lifzh-gohpqnmdznnfv72tndqf8h, zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4, zizhi-tongjian-hanji-931-rensheng-jiannan-chu-bianshi-xiuxin-shi-lpzmvxop8lmlwvxhoojzj5ok9qd6]
-last_updated: 2026-08-26
+sources:
+  - zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2
+  - zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79
+  - zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a
+  - zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5
+  - zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade
+  - zizhi-tongjian-hanji-920-mingwu-zhege-daoli-caineng-zhuan-daqian-lqmabg3bpyz6ct2v4arx-iun57ws
+  - zizhi-tongjian-hanji-923-chengnianrende-dingji-henjin-guzi-lide-juejue-lifzh-gohpqnmdznnfv72tndqf8h
+  - zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4
+  - zizhi-tongjian-hanji-931-rensheng-jiannan-chu-bianshi-xiuxin-shi-lpzmvxop8lmlwvxhoojzj5ok9qd6
+  - zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis
+last_updated: 2026-08-27
+knowledge_schema: synthesis-v1
 ---
 
-# 杨赐 / Yang Ci (late Han)
+## Overview
 
-[[zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2|Hanji 904]] gives Yang Ci an earlier 173 CE office-churn marker before his later situ, omen, garden, and Yellow Turban warning branches. The episode appoints him sikong after Zong Ju dies in an epidemic, then removes him after the Beihai earthquake, making Yang Ci part of [[NaturalDisasterPoliticalOmen|自然灾害政治征兆]] and senior-office accountability before the better-developed 178-184 material.
+杨赐 / Yang Ci is a recurring late-Han senior official in the [[EmperorLingOfHan|汉灵帝]] corpus. Across the current source set he appears in office churn, disaster-omen interpretation, garden remonstrance, [[YellowTurbansLateHan|Yellow Turban]] prewarning, and rescue of [[WangYunLateHan|王允]]. [[zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis|Hanji 890]] now backfills an earlier 169 CE snake-omen answer that makes him a source case for survivable indirect remonstrance.
 
-[[zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79|Hanji 907]] adds Yang Ci's earliest office marker in this late-Han run. After [[YuanWeiLateHan|袁隗]] is removed as situ in late 176, Yang Ci is appointed to the office, placing him in senior court before his later omen remonstrance, garden remonstrance, and Yellow Turban warnings.
+## Current Profile
 
-[[zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a|Hanji 912]] adds Yang Ci's 178 CE omen-remonstrance role before his later situ and Yellow Turban warning branches. The source transcript renders him as "杨次"; this page normalizes to Yang Ci because the senior-official setting and later page pattern match 杨赐. Asked by [[EmperorLingOfHan|汉灵帝]] about black qi, a palace rainbow, and hens turning male, Yang Ci links the omens to harem/eunuch dominance, [[HongduMenxue|鸿都门学]] favoritism, blocked worthy officials, forged-command channels, and imperial extravagance.
+Yang Ci's current profile is not a simple "ignored loyal minister" story. He repeatedly supplies useful diagnosis to Emperor Ling's court, but the system converts or blocks the advice in different ways: disaster-linked office turnover, leaked confidential memorials, courtly flattery, delayed Yellow Turban recognition, and favorite-protection all appear in the evidence.
 
-[[zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5|Hanji 918]] adds Yang Ci's immediate pre-Hanji-919 office marker. After the failed anti-[[CaoJieLateHan|曹节]] plot kills [[LiuHeSituLateHan|刘郃]], the court appoints Yang Ci as situ, placing him in senior office before his garden remonstrance and later [[YellowTurbansLateHan|Yellow Turban]] warnings.
+The distinctive addition from Hanji 890 is tactical. Asked about a snake omen, Yang Ci does not directly demand redress for [[DouWuLateHan|窦武]] and [[ChenFanLateHan|陈蕃]] and does not name [[CaoJieLateHan|曹节]]'s faction. He instead shifts the explanation toward the ruler's authority, harem affection, queen-family power, and inner/outer boundary discipline. Compared with [[XieBiLateHan|谢弼]]'s lethal directness, Yang Ci becomes a case of [[ObliqueRemonstranceSelfProtection|迂回进谏自保]]: still corrective, but angled to keep the speaker alive and present.
 
-[[zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade|Hanji 919]] adds an earlier Yang Ci remonstrance against [[EmperorLingOfHan|Emperor Ling]]'s garden project. As situ, he argues that the proposed gardens will seize suburban land, damage fertile fields, displace residents, and add private pleasure on top of already sufficient imperial parks; the warning momentarily moves Ling, but is overwritten by attendants' classical citation. This makes Yang Ci a recurring figure for livelihood-based restraint before both [[UntimelyExtravagance|garden extravagance]] and later fiscal extraction.
+## Key Characteristics
 
-[[zizhi-tongjian-hanji-920-mingwu-zhege-daoli-caineng-zhuan-daqian-lqmabg3bpyz6ct2v4arx-iun57ws|Hanji 920]] gives Yang Ci an 181 CE office-turnover marker before the later [[YellowTurbansLateHan|Yellow Turban]] warning branch. After the North Palace winter-night pavilion Yongxiang office fire in [[LuoyangLateHan|洛阳]], Yang Ci is dismissed as situ and [[ChenDanLateHan|陈耽]] is appointed in his place.
+- Yang Ci is a senior office-holder whose career is visible through repeated appointments, removals, and court crises.
+- He uses omen interpretation as a vehicle for political diagnosis rather than as an isolated supernatural claim.
+- His advice often identifies institutional disorder: harem and eunuch influence, blocked talent, extravagant projects, private pleasure, and rebellion risk.
+- His effectiveness is mixed because correct warnings may be leaked, ignored, overwritten by flattering interpretation, or recognized only after disaster.
+- Hanji 890 adds a pragmatic self-protection profile: Yang Ci can preserve correction by redirecting the target and lowering direct factional collision.
+- He also appears as a protective senior figure when Wang Yun is near death after Zhang Rang's retaliation.
 
-The episode uses the dismissal mainly as part of a disaster-and-office-churn sequence: hail, eclipse, palace fire, and senior removals surround [[EmperorLingOfHan|汉灵帝]]'s reign before Yang Ci's later warnings become more substantial in Hanji 923 and Hanji 925.
+## Evidence
 
-[[zizhi-tongjian-hanji-923-chengnianrende-dingji-henjin-guzi-lide-juejue-lifzh-gohpqnmdznnfv72tndqf8h|Hanji 923]] adds the substance of Yang Ci's pre-uprising warning. As situ, he sees [[ZhangJiaoLateHan|张角]]'s network as dangerous but argues against immediate blunt suppression; the episode says he recommends first investigating and dispersing displaced followers so the organization loses its base before the court targets the leaders.
+- Office visibility: [[zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2|Hanji 904]], [[zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79|Hanji 907]], [[zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5|Hanji 918]], and [[zizhi-tongjian-hanji-920-mingwu-zhege-daoli-caineng-zhuan-daqian-lqmabg3bpyz6ct2v4arx-iun57ws|Hanji 920]] place Yang Ci inside Three Excellencies appointment, removal, and disaster-linked office churn from 173 through 181 CE.
+- Omen diagnosis: [[zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis|Hanji 890]] uses the snake omen for an indirect warning about royal authority and inner-court boundaries, while [[zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a|Hanji 912]] has Yang Ci connect black qi, a palace rainbow, and hens turning male to harem/eunuch, Hongdu, personnel, forged-command, and extravagance disorder.
+- Material remonstrance: [[zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade|Hanji 919]] has Yang Ci oppose Emperor Ling's garden project because it would seize fields, displace residents, and add private pleasure to public burden.
+- Yellow Turban warning: [[zizhi-tongjian-hanji-923-chengnianrende-dingji-henjin-guzi-lide-juejue-lifzh-gohpqnmdznnfv72tndqf8h|Hanji 923]] presents Yang Ci as a prevention strategist who wants to disperse [[ZhangJiaoLateHan|张角]]'s follower base before blunt suppression triggers revolt, while [[zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4|Hanji 925]] records dismissal after a too-direct answer and later vindication of older memorials.
+- Protective role: [[zizhi-tongjian-hanji-931-rensheng-jiannan-chu-bianshi-xiuxin-shi-lpzmvxop8lmlwvxhoojzj5ok9qd6|Hanji 931]] names Yang Ci with [[HeJin|何进]] and [[YuanWeiLateHan|袁隗]] among senior figures who help rescue Wang Yun from the death edge.
 
-The source turns Yang Ci into a prevention strategist, not only a vindicated memorialist. His warning fails because the memorial remains unattended after he leaves office, making the later [[YellowTurbansLateHan|Yellow Turban]] crisis a case where accurate risk diagnosis exists before the court acts.
+## Qualifications
 
-[[zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4|Hanji 925]] adds Yang Ci's earlier Yellow Turban warning branch. When [[EmperorLingOfHan|汉灵帝]] asks about the uprising, Yang Ci answers too directly for the ruler's taste and is dismissed in April 184, but later memorials by Yang Ci and [[LiuTaoLateHan|刘陶 / 刘桃]] about [[ZhangJiaoLateHan|张角]] and the [[YellowTurbansLateHan|Yellow Turbans]] are recognized as accurate.
+- Multiple source transcripts render Yang Ci as "杨次"; the page normalizes to 杨赐 because the senior-office roles and later corpus pattern match.
+- The omen material is recorded as the sources' political language and host interpretation, not as an independent claim that omens caused events.
+- Yang Ci's survival in Hanji 890 should not be flattened into pure prudence; the same page keeps his more direct and punished warnings in Hanji 925.
+- The source inventory is still episode-led, so the page should be revised again if a fuller historical biography adds career stages outside these podcast notes.
 
-The episode therefore makes Yang Ci a case of warning that fails first as court speech and succeeds only after disaster supplies proof. His later enfeoffment as Linjin marquis does not erase the earlier [[CourtFeedbackCollapse|君臣反馈失灵]].
+## What Changed
 
-杨赐 / Yang Ci (late Han) enters through [[zizhi-tongjian-hanji-931-rensheng-jiannan-chu-bianshi-xiuxin-shi-lpzmvxop8lmlwvxhoojzj5ok9qd6|Hanji 931]] as one of the senior officials moved by [[WangYunLateHan|王允]]'s imprisonment after the [[ZhangRangLateHan|张让]] retaliation case. The source transcript renders the name as "杨次"; this page normalizes it to Yang Ci because the role and late-Han setting match the senior official 杨赐.
+- Added Hanji 890 as the earliest current branch for Yang Ci's 169 CE snake-omen answer.
+- Recast Yang Ci as both a repeated diagnostic remonstrant and a tactician of survivable indirect criticism.
+- Connected his 169 strategy to the new [[ObliqueRemonstranceSelfProtection|迂回进谏自保]] concept while preserving later examples where his advice fails or is punished.
 
-The episode gives Yang Ci a narrow but important function. Alongside [[HeJin|何进]] and [[YuanWeiLateHan|袁隗]], he helps rescue Wang Yun from the death edge, making Wang Yun's early [[MoralReputationPoliticalCapital|道德名望政治资本]] visible before the later Dong Zhuo branch.
+## Relationships
 
-## Connections
-- [[zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2|Hanji 904]], [[TangZhenLateHan|唐珍]], [[EmperorLingOfHan|汉灵帝]], and [[NaturalDisasterPoliticalOmen|自然灾害政治征兆]] - 173 CE sikong appointment and removal in epidemic/earthquake office churn.
-- [[zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79|Hanji 907]], [[YuanWeiLateHan|袁隗]], and [[EmperorLingOfHan|汉灵帝]] - 176 CE appointment as situ before later remonstrance branches.
-- [[zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a|Hanji 912]], [[EmperorLingOfHan|汉灵帝]], [[HongduMenxue|鸿都门学]], [[CelestialOmenPoliticalResponsibility|天象政治责任]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - 178 CE omen remonstrance against harem/eunuch, literary-favor, appointment, and extravagance disorder.
-- [[zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5|Hanji 918]], [[LiuHeSituLateHan|刘郃]], [[CaoJieLateHan|曹节]], and [[EmperorLingOfHan|汉灵帝]] - appointment as situ after the failed anti-eunuch plot.
-- [[zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade]] — adds his garden remonstrance against taking fields and displacing residents.
-- [[SharedPleasureGovernanceTest]] — Mencian test later invoked against the material warning he gives.
-- [[ClassicCitationLegitimationCapture]] — rhetoric pattern that defeats his remonstrance.
-- [[zizhi-tongjian-hanji-920-mingwu-zhege-daoli-caineng-zhuan-daqian-lqmabg3bpyz6ct2v4arx-iun57ws|Hanji 920]], [[ChenDanLateHan|陈耽]], [[EmperorLingOfHan|汉灵帝]], and [[LuoyangLateHan|洛阳]] - 181 CE dismissal after the palace-fire and disaster sequence.
-- [[zizhi-tongjian-hanji-923-chengnianrende-dingji-henjin-guzi-lide-juejue-lifzh-gohpqnmdznnfv72tndqf8h|Hanji 923]], [[ZhangJiaoLateHan|张角]], [[TaipingDao|太平道]], and [[EmperorLingOfHan|汉灵帝]] - pre-uprising warning and dispersal-first prevention strategy.
-- [[zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4|Hanji 925]], [[EmperorLingOfHan|汉灵帝]], [[LiuTaoLateHan|刘陶 / 刘桃]], [[ZhangJiaoLateHan|张角]], [[YellowTurbansLateHan|黄巾军]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - dismissed warning and later vindication.
-- [[zizhi-tongjian-hanji-931-rensheng-jiannan-chu-bianshi-xiuxin-shi-lpzmvxop8lmlwvxhoojzj5ok9qd6|Hanji 931]] - source case.
-- [[WangYunLateHan|王允]] - imprisoned official whom Yang Ci helps rescue.
-- [[HeJin|何进]] and [[YuanWeiLateHan|袁隗]] - paired rescuers in the episode's account.
-- [[ZhangRangLateHan|张让]] and [[EmperorLingOfHan|汉灵帝]] - court-favorite setting that makes the prison case politically dangerous.
+- [[zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis|Hanji 890]] - 169 CE snake-omen remonstrance and indirect-survival contrast.
+- [[zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a|Hanji 912]] - 178 CE omen-remonstrance branch against harem/eunuch, Hongdu, personnel, and extravagance disorder.
+- [[zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade|Hanji 919]] - garden remonstrance and public-burden warning.
+- [[zizhi-tongjian-hanji-923-chengnianrende-dingji-henjin-guzi-lide-juejue-lifzh-gohpqnmdznnfv72tndqf8h|Hanji 923]] and [[zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4|Hanji 925]] - Yellow Turban prewarning, dismissal, and delayed vindication branch.
+- [[zizhi-tongjian-hanji-931-rensheng-jiannan-chu-bianshi-xiuxin-shi-lpzmvxop8lmlwvxhoojzj5ok9qd6|Hanji 931]] - Wang Yun rescue branch.
+- [[EmperorLingOfHan|汉灵帝]] - ruler who receives, ignores, partially accepts, or later recognizes Yang Ci's warnings.
+- [[XieBiLateHan|谢弼]] - direct remonstrance contrast for the 169 CE source.
+- [[ObliqueRemonstranceSelfProtection|迂回进谏自保]] - concept grounded by Yang Ci's Hanji 890 strategy.
+- [[CourtFeedbackCollapse|君臣反馈失灵]] - recurring institutional setting that limits the effect of Yang Ci's warnings.

@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-27
-as_of_overview_commit: 381a5e90c30865c1c6ae2a80afbc17e2d0c680e5
-summary: "Current synthesis centers on AI and data infrastructure turning into value through governance, operational translation, proof, and institutional capacity."
-episode_count: 1531
-source_count: 1531
-paragraph_count: 272
+as_of_overview_commit: a1c8e1419b410af05261f20533a55e2f9bf1a10f
+summary: "Current synthesis centers on AI, data, governance, and historical institutions turning capability or authority into value through proof, translation, and accountability."
+episode_count: 1533
+source_count: 1533
+paragraph_count: 273
 topic_count: 8
 ---
 
@@ -49,7 +49,7 @@ Culture and media sources treat literature, games, brands, authorship, and story
 
 ### Governance and Institutions
 
-Governance appears as implementation capacity: privacy rights, AI guardrails, public-safety surveillance, research funding, security states, and institutional missions depend on enforceable workflows, incentives, authority, legitimacy, and accountability; Episode 691 adds the Elizabethan succession-security machinery before later Tudor plots.
+Governance appears as implementation capacity: privacy rights, AI guardrails, public-safety surveillance, research funding, security states, historical court advice, and institutional missions depend on enforceable workflows, incentives, authority, legitimacy, feedback channels, and accountability; Hanji 890 adds remonstrance-channel design under captured late-Han power.
 
 - The California data-broker branch shows that privacy rights depend on compliance workflows: [[CaliforniaDeleteAct]], [[DeleteRequestAndOptOutPlatform]], [[ConsumerDataDeletion]], [[DataBrokerComplianceGap]], and [[CaliforniaPrivacyProtectionAgency]] connect centralized deletion, broker registration, reporting duties, request friction, agency capacity, and private-lawsuit proposals into one implementation problem. Evidence: [[CaliforniaDeleteAct]], [[DeleteRequestAndOptOutPlatform]], [[ConsumerDataDeletion]], [[DataBrokerComplianceGap]], [[CaliforniaPrivacyProtectionAgency]], [[tech-20260825-mp-tech-pod-128-tech-20260825-mp-tech-pod-128]].
 - The early-Han sequence shows victory turning into governance only through family order, capital choice, exit management, reward ranking, ritual hierarchy, frontier containment, [[HanXiongnuHeqinPolicy|heqin]] diplomacy, vassal rollback, investigation-triggered rebellion risk, and finally the failure of personal trust in [[LuWan|Lu Wan]]'s Yan kingship. Evidence: [[LiuBang]], [[StrategicCapitalRelocation]], [[LiAsPoliticalOrder]], [[BaidengEncirclement]], [[HanXiongnuHeqinPolicy]], [[DifferentSurnameKingSuspicion]], [[HuainanKingdomEarlyHan]], [[InvestigationDrivenRebellionEscalation]], [[LuWan]], [[YanState]].

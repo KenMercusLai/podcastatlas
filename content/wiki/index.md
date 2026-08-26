@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》890丨想当官先学对付“小人”](sources/zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis.md) — 芮淇讲透资治通鉴 episode on 169 CE remonstrance under eunuch pressure, contrasting Zhang Huan and Xie Bi's direct memorials with Yang Ci's oblique snake-omen answer and survival-first strategy.
 - [《资治通鉴·汉纪》891丨高段位的母亲，是家的定海神针](sources/zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5.md) — 芮淇讲透资治通鉴 episode on parental repair after anger, embodied parenting, 169 CE office churn, Duan Jiong's rejection of a surrender-first Qiang policy, and the silent night encirclement before Hanji 892.
 - [EP 46: Fix the Foundation First: Why Your Data Strategy Is Failing Before the AI Gets Involved](sources/ep-46-fix-the-foundation-first-why-your-data-strategy-is-failing-before-the-ai-gets-involved.md) — Data Science With Sam episode with Elan on Paradox Machines, data foundations, mid-market data-team economics, AI readiness, and data sovereignty.
 - [《资治通鉴·汉纪》892丨修止语，古人有什么捷径？](sources/zizhi-tongjian-hanji-892-xiu-zhiyu-guren-youshenme-jiejing-lnobbkp6mj4xyb9jeuqsiuqogct.md) — 芮淇讲透资治通鉴 episode on 修止语, Duan Jiong's Eastern Qiang pacification, Sima Guang's anti-extermination critique, root-cause frontier governance, and the party-prohibition honor lists that become dangerous in Hanji 893.
@@ -1540,6 +1541,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [谢弼 / Xie Bi (late Han)](entities/XieBiLateHan.md) — Late-Han direct remonstrant whose memorial for Empress Dowager Dou expands into court critique before Cao Shao's retaliation kills him.
+- [曹绍 / Cao Shao (late Han)](entities/CaoShaoLateHan.md) — Cao Jie-linked Dong Commandery administrator who arrests and tortures Xie Bi in Hanji 890.
 - [冯禅 / Feng Chan (late Han)](entities/FengChanLateHan.md) — Imperial envoy sent to Hanyang to persuade remaining Qiang forces to surrender before Duan Jiong argues for attack.
 - [刘嚣 / Liu Xiao (late Han)](entities/LiuXiaoLateHan.md) — Changsha official appointed sikong in Hanji 891 and framed as a eunuch-flattery appointment case.
 - [闻人袭 / Wenren Xi (late Han)](entities/WenrenXiLateHan.md) — Taiwei removed in the May 169 Three Excellencies turnover.
@@ -1657,7 +1660,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [冯贵人 / Feng Guiren (late Han)](entities/FengGuirenLateHan.md) — Imperial consort proposed as an alternative burial figure to Empress Dowager Dou in Hanji 901, mainly as a ritual-claim contrast.
 - [The Metamorphosis / Kafka's 《变形记》](entities/TheMetamorphosisKafka.md) — Kafka work used in Hanji 901 to illustrate anxious self-importance and impatience; distinct from Ovid's Metamorphoses.
 - [刘猛 / Liu Meng (late Han)](entities/LiuMengLateHan.md) — Sili xiaowei who treats the Zhuque Gate anti-eunuch accusation as substantially true, does not pursue the anonymous speaker aggressively, and is punished after Duan Jiong takes over.
-- [张奂 / Zhang Huan (late Han)](entities/ZhangHuanLateHan.md) — Late-Han official and frontier figure who survives Wang Yu's accusation and Duan Jiong's pressure by lowering his posture, then withdraws to teaching and writing.
+- [张奂 / Zhang Huan (late Han)](entities/ZhangHuanLateHan.md) — Late-Han official whose direct 169 CE pro-Dou/Chen remonstrance and later humbled survival under Duan Jiong show both exposure and preserved agency.
 - [王寓 / Wang Yu (late Han)](entities/WangYuLateHan.md) — Former sili xiaowei whose refused recommendation request becomes a personal-grudge accusation against Zhang Huan; distinct from Wang Yu / 汪玉.
 - [苏谦 / Su Qian (late Han)](entities/SuQianLateHan.md) — Father of Su Buwei whose attempted complaint against Li Hao becomes the killing that launches Su Buwei's filial revenge.
 - [苏不韦 / Su Buwei (late Han)](entities/SuBuweiLateHan.md) — Late-Han avenger whose tunnel attack against Li Hao begins a revenge spiral that escalates into tomb desecration and the extermination of his household under Duan Jiong.
@@ -2045,7 +2048,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [宋翼 / Song Yi (late Han)](entities/SongYiLateHan.md) — Wang Yun-side official whose rigid obedience to a captured-court summons removes the last outside deterrent against Li-Guo executions.
 - [王宏 / Wang Hong (late Han)](entities/WangHongLateHan.md) — Official who sees Li-Guo's summons as a trap and proposes using outside troops before being pulled down by Song Yi's compliance.
 - [赵戬 / Zhao Jian (late Han)](entities/ZhaoJianLateHan.md) — Former Wang Yun subordinate who risks collecting and burying Wang Yun's body after the Chang'an executions.
-- [杨赐 / Yang Ci (late Han)](entities/YangCiLateHan.md) — Senior late-Han official whose page now covers 181 dismissal after palace-fire office churn, pre-Yellow-Turban warnings, and later rescue of Wang Yun.
+- [杨赐 / Yang Ci (late Han)](entities/YangCiLateHan.md) — Senior late-Han official whose profile now includes 169 CE oblique snake-omen remonstrance, later omen/garden/Yellow-Turban warnings, and Wang Yun's rescue.
 - [郭泰 / Guo Tai (late Han)](entities/GuoTaiLateHan.md) — Late-Han scholar who survives the 169 CE party-prohibition disaster through guarded speech, withdraws into teaching, and later serves as a reputation witness for Wang Yun.
 - [王允 / Wang Yun (late Han)](entities/WangYunLateHan.md) — Late-Han official who takes public credit after Dong Zhuo's killing, clarifying Shi Sunrui's hidden-merit survival case.
 - [皇甫嵩 / Huangfu Song (late Han)](entities/HuangfuSongLateHan.md) — Late-Han official whose Dong Zhuo fear-question cliffhanger, proposed troop-reassurance role, and later dismissal mark survival speech and captured-court appointment/removal power.
@@ -9388,6 +9391,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Oblique Remonstrance Self-Protection / 迂回进谏自保](concepts/ObliqueRemonstranceSelfProtection.md) — Hanji 890 pattern where an adviser preserves corrective speech by changing the angle, target, and risk surface of criticism.
 - [Parental Repair After Harm / 父母伤害后的修复](concepts/ParentalRepairAfterHarm.md) — Hanji 891 parenting practice of naming harm, apologizing, rejecting hitting/scolding as problem-solving, and asking the child what happened.
 - [Parental Embodied Modeling / 身教型家庭教育](concepts/ParentalEmbodiedModeling.md) — Family-education frame where adult routines, emotional steadiness, sleep, order, and repair teach children more than instruction alone.
 - [Data Foundation-First AI Strategy](concepts/DataFoundationFirstAIStrategy.md) — Enterprise AI strategy frame where ownership, governance, data modeling, and business alignment must precede dashboards, connectors, and agents.

@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "88ce2ea88a6e9a16ef04955c5d053701092faea15d22a816d725940c424558ca",
       "eb1ac9cf89cf337a5ff0121af84ace8643a6544a45a9cc56bbedb3670589ef7a",
       "072aed6a21e807d5a78b02e0ca8b8493b571199d6760e84c96728f1c083b0598",
       "a47936afcfdb27f98815bc151f6b9e14a3181634eed517cf8919e4908eae520d",
@@ -274,11 +275,40 @@
       "ed252faccaaf1dc4e8c654d3406a6a1a0fc3a6f6fe78821348d1b123c7e85a5c",
       "32b62a0e1fc3144c5e7770721fc745607afef0d0cf46a8fe94d35cab377dbbf9"
     ],
-    "paragraph_count": 272
+    "paragraph_count": 273
   },
-  "overview_commit": "b75fd8a1a8aa456ca8c3431f65d2af5c21c21946",
-  "overview_digest": "0ce0c8daa8d359651dfed397060ac509cdedf85c516d0ff9dfc2c2136effe06c",
+  "overview_commit": "a1c8e1419b410af05261f20533a55e2f9bf1a10f",
+  "overview_digest": "372a313777763979b4b5265a3f0275840376d4b7841a5b59c0efb33de87bd3b6",
   "paragraphs": [
+    {
+      "id": "88ce2ea88a6e9a16ef04955c5d053701092faea15d22a816d725940c424558ca",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis|《资治通鉴·汉纪》890丨想当官先学对付“小人”]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 169 CE late-Han court before [[zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5|Hanji 891]]. It adds [[XieBiLateHan|谢弼]], [[CaoShaoLateHan|曹绍]], and [[ObliqueRemonstranceSelfProtection|迂回进谏自保]], while extending [[ZhangHuanLateHan|张奂]], [[YangCiLateHan|杨赐]], [[EmperorLingOfHan|汉灵帝]], [[CaoJieLateHan|曹节]], [[DouWuLateHan|窦武]], [[ChenFanLateHan|陈蕃]], [[EmpressDowagerDouMiao|窦妙]], [[PoliticalSurvivalFirst|安全第一政治生存]], [[CourtFeedbackCollapse|君臣反馈失灵]], [[ConfidentialRemonstranceLeakage|密奏泄露风险]], and [[DeathDefyingRemonstrance|赴死式直谏]]. Its core synthesis is that late-Han remonstrance depends on adversary mapping and channel design: Zhang Huan and Xie Bi name eunuch-aligned power directly and are punished, while Yang Ci survives by converting a snake omen into a veiled critique of inner-court boundary collapse and imperial authority. No settled contradiction is recorded; ASR variants such as 张宦, 谢毕, 杨次, 曹杰, and 李英 are normalized to canonical routes.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "CaoJieLateHan",
+        "CaoShaoLateHan",
+        "ChenFanLateHan",
+        "ConfidentialRemonstranceLeakage",
+        "CourtFeedbackCollapse",
+        "DeathDefyingRemonstrance",
+        "DouWuLateHan",
+        "EmperorLingOfHan",
+        "EmpressDowagerDouMiao",
+        "ObliqueRemonstranceSelfProtection",
+        "PoliticalSurvivalFirst",
+        "RuiqiJiangtouZizhiTongjian",
+        "XieBiLateHan",
+        "YangCiLateHan",
+        "ZhangHuanLateHan",
+        "zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis",
+        "zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5"
+      ]
+    },
     {
       "id": "eb1ac9cf89cf337a5ff0121af84ace8643a6544a45a9cc56bbedb3670589ef7a",
       "primary_topic": "governance-and-institutions",

@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-27] ingest | 《资治通鉴·汉纪》890丨想当官先学对付“小人”
+
+Added source page for Hanji 890: the 169 CE late-Han remonstrance contrast between Zhang Huan, Xie Bi, and Yang Ci under eunuch-side pressure. Created Xie Bi, Cao Shao, and Oblique Remonstrance Self-Protection pages; migrated Zhang Huan and Yang Ci to synthesis-v1 with the new source appended to their evidence inventories. No settled contradiction found; transcript variants 张宦, 谢毕, 杨次, 曹杰, and 李英 are normalized to the existing late-Han routes where the roles match.
+
 ## [2026-08-27] ingest | An interview with Yuval Noah Harari
 
 Added source page for The Intelligence interview with Yuval Noah Harari on AI as a civilizational governance problem. Created Yuval Noah Harari, Nexus (Yuval Noah Harari book), AI Inevitability Responsibility Evasion, Algorithmic Trust Migration, Mass-Produced AI Intimacy, AI Legal Personhood Risk, Military AI Oversight Compression, AI Empire Sovereignty Risk, and Suffering-Based Moral Subjecthood. No settled contradiction found; the source qualifies AI fatalistic acceleration, AI consciousness, AI companion risk, and AI governance by emphasizing responsibility, suffering, anti-impersonation rules, and democratic agency in 2026.
@@ -12282,6 +12286,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》891丨高段位的母亲，是家的定海神针
 
 Added source page for Hanji 891: parental repair after scolding or hitting, embodied parenting and the mother-as-family-anchor frame, 169 CE Three Excellencies churn, Liu Xiao's eunuch-favor appointment, and Duan Jiong's rejection of a surrender-first Qiang policy followed by silent night encirclement. Created parental repair/modeling concepts and disambiguated Feng Chan, Wenren Xi, Xu Xun, Liu Chong the minister, Liu Xiao, and Zhang Kai the Duan officer; updated Duan Jiong, Eastern Qiang, Tian Yan, Xia Yu, and Deceptive Surrender Lull. No settled contradiction found; Hanji 891 backfills the tactical predecessor to Hanji 892 while leaving the anti-extermination critique intact.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-27] lint | Wiki health check
 
