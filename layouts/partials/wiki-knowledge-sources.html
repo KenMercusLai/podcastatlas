@@ -1,0 +1,14 @@
+<section class="wiki-knowledge-sources" data-source-count="{{ .source_note_count }}">
+  <h2>Sources</h2>
+  <details>
+    <summary>{{ lang.FormatNumber 0 .source_note_count }} source notes across {{ lang.FormatNumber 0 .show_count }} {{ if eq (int .show_count) 1 }}show{{ else }}shows{{ end }}</summary>
+    <ol>
+      {{ range .sources }}
+        <li data-source-key="{{ .key }}" data-episode-file="{{ .episode_file }}">
+          <a href="{{ strings.TrimPrefix "/" .url | relURL }}">{{ .title }}</a>
+          <span class="wiki-source-show">{{ .show }}</span>
+        </li>
+      {{ end }}
+    </ol>
+  </details>
+</section>

@@ -22,6 +22,7 @@ WIKI_DIR = ROOT / "content" / "wiki"
 EPISODES_DIR = ROOT / "content" / "episodes"
 STATS_PATH = WIKI_DIR / "stats.md"
 DATA_PATH = ROOT / "data" / "wiki_links.json"
+KNOWLEDGE_SIGNALS_PATH = ROOT / "data" / "wiki_knowledge_signals.json"
 TOPICS_CONFIG_PATH = ROOT / "data" / "wiki_topics.json"
 TOPIC_MEMBERSHIP_PATH = ROOT / "data" / "wiki_topic_membership.json"
 TOPICS_DIR = ROOT / "content" / "topics"
@@ -203,6 +204,25 @@ def read_inline_front_matter_list(path: Path, key: str) -> tuple[str, ...]:
             if item.strip()
         )
     return ()
+
+
+def read_front_matter_list(path: Path, key: str) -> tuple[str, ...]:
+    """Read an inline or indented YAML list without adding a YAML dependency."""
+    text = path.read_text(encoding="utf-8")
+    front_matter, _ = split_front_matter(text)
+    prefix = f"{key}:"
+    for index, raw_line in enumerate(front_matter):
+        if raw_line.strip() != prefix:
+            continue
+        values: list[str] = []
+        for line in front_matter[index + 1 :]:
+            if not line.startswith("  - "):
+                break
+            value = strip_quotes(line.removeprefix("  - ").strip())
+            if value:
+                values.append(value)
+        return tuple(values)
+    return read_inline_front_matter_list(path, key)
 
 
 def classify_topics(pages: list[WikiPage], topics: list[Topic]) -> dict[str, tuple[str, ...]]:
@@ -733,6 +753,7 @@ def expected_generated_files() -> dict[Path, str]:
             "Source pages in the Podcast Atlas wiki",
         ),
         DATA_PATH: make_link_data(pages),
+        KNOWLEDGE_SIGNALS_PATH: make_knowledge_signals(pages),
         TOPIC_MEMBERSHIP_PATH: make_topic_membership(pages, topics),
         **expected_alphabetical_files(pages),
         **expected_safe_page_files(pages),
@@ -757,6 +778,78 @@ def make_link_data(pages: list[WikiPage]) -> str:
         for page in sorted(pages, key=lambda item: item.key)
     }
     return json.dumps(data, ensure_ascii=False, indent=2, sort_keys=True) + "\n"
+
+
+def make_knowledge_signals(
+    pages: list[WikiPage],
+    *,
+    episodes_dir: Path = EPISODES_DIR,
+) -> str:
+    """Derive complete public coverage signals for synthesis-v1 pages."""
+    by_key = {page.key: page for page in pages}
+    episode_paths = {
+        path.name: path
+        for path in sorted(episodes_dir.glob("*.md"))
+        if not path.name.startswith("_")
+    }
+    records: dict[str, dict[str, object]] = {}
+
+    for page in sorted(pages, key=lambda item: item.key):
+        if page.section not in {"concepts", "entities"}:
+            continue
+        if read_front_matter_value(page.path, "knowledge_schema") != "synthesis-v1":
+            continue
+
+        source_keys = read_front_matter_list(page.path, "sources")
+        if not source_keys:
+            raise ValueError(f"{page.path}: synthesis-v1 page has no source notes")
+
+        show_names: set[str] = set()
+        episode_files: set[str] = set()
+        source_records: list[dict[str, str]] = []
+        for source_key in source_keys:
+            source_page = by_key.get(source_key)
+            if source_page is None or source_page.section != "sources":
+                raise ValueError(
+                    f"{page.path}: unknown source note {source_key}"
+                )
+            source_file = read_front_matter_value(source_page.path, "source_file")
+            if not source_file:
+                raise ValueError(
+                    f"{source_page.path}: missing source_file for {page.key}"
+                )
+            episode_name = Path(source_file).name
+            episode_path = episode_paths.get(episode_name)
+            if episode_path is None:
+                raise ValueError(
+                    f"{source_page.path}: episode mapping does not exist: {episode_name}"
+                )
+            show = read_front_matter_value(episode_path, "show")
+            if not show:
+                raise ValueError(f"{episode_path}: missing show for {page.key}")
+            show_names.add(show)
+            episode_files.add(episode_name)
+            source_records.append(
+                {
+                    "key": source_key,
+                    "title": source_page.title,
+                    "url": page_url(source_page),
+                    "episode_file": episode_name,
+                    "show": show,
+                }
+            )
+
+        records[page.key] = {
+            "url": page_url(page),
+            "updated": read_front_matter_value(page.path, "last_updated"),
+            "source_note_count": len(source_records),
+            "episode_count": len(episode_files),
+            "show_count": len(show_names),
+            "sources": source_records,
+        }
+
+    payload = {"version": 1, "pages": records}
+    return json.dumps(payload, ensure_ascii=False, indent=2, sort_keys=True) + "\n"
 
 
 def make_stats_page(
