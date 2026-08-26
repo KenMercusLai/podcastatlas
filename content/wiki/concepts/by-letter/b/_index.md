@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 5580
+wiki_total_pages: 5583
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -434,6 +434,9 @@ wiki_pages:
   - key: "BrandImpersonationMonitoring"
     title: "Brand Impersonation Monitoring"
     url: "/wiki/concepts/brandimpersonationmonitoring/"
+  - key: "BrandNarrativeHomogenizationRisk"
+    title: "Brand Narrative Homogenization Risk"
+    url: "/wiki/concepts/brandnarrativehomogenizationrisk/"
   - key: "BrandPodcasting"
     title: "Brand Podcasting"
     url: "/wiki/concepts/brandpodcasting/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 7798
+wiki_total_pages: 7801
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -320,6 +320,9 @@ wiki_pages:
   - key: "DeepSeekHarness"
     title: "DeepSeek Harness"
     url: "/wiki/entities/deepseekharness/"
+  - key: "DeepZ"
+    title: "DeepZ"
+    url: "/wiki/entities/deepz/"
   - key: "Deerflow"
     title: "Deerflow"
     url: "/wiki/entities/deerflow/"

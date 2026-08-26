@@ -891,6 +891,29 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/armedfollowerintegrationcost/"
     },
+    "AspirationalEmotionalPremium": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "144. 国货出海新趋势：山下有松、观夏、PANE ｜ 疯投圈 (1) [144-1].md",
+          "key": "144-guohuo-chuhai-xinqushi-shanxia-yousong-guanxia-pane-feng-tou-quan-1-144-1",
+          "show": "疯投圈",
+          "title": "144 ✪ 国货出海新趋势：山下有松、观夏、PANE",
+          "url": "/wiki/sources/144-guohuo-chuhai-xinqushi-shanxia-yousong-guanxia-pane-feng-tou-quan-1-144-1/"
+        },
+        {
+          "episode_file": "越卖越贵的「山下有松们」，如何持续抢占轻奢包袋市场？ [1008110631].md",
+          "key": "yue-mai-yue-gui-de-shanxia-yousong-men-ruhe-chixu-qiangzhan-qingshe-baodai-shichang-1008110631",
+          "show": "声动早咖啡",
+          "title": "越卖越贵的「山下有松们」，如何持续抢占轻奢包袋市场？",
+          "url": "/wiki/sources/yue-mai-yue-gui-de-shanxia-yousong-men-ruhe-chixu-qiangzhan-qingshe-baodai-shichang-1008110631/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/aspirationalemotionalpremium/"
+    },
     "AthletePostRetirementIdentity": {
       "episode_count": 1,
       "show_count": 1,
@@ -998,6 +1021,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/branddoing/"
+    },
+    "BrandNarrativeHomogenizationRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "越卖越贵的「山下有松们」，如何持续抢占轻奢包袋市场？ [1008110631].md",
+          "key": "yue-mai-yue-gui-de-shanxia-yousong-men-ruhe-chixu-qiangzhan-qingshe-baodai-shichang-1008110631",
+          "show": "声动早咖啡",
+          "title": "越卖越贵的「山下有松们」，如何持续抢占轻奢包袋市场？",
+          "url": "/wiki/sources/yue-mai-yue-gui-de-shanxia-yousong-men-ruhe-chixu-qiangzhan-qingshe-baodai-shichang-1008110631/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/brandnarrativehomogenizationrisk/"
     },
     "BrandValueProtection": {
       "episode_count": 1,
@@ -1211,6 +1250,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/chinawomensnationalfootballteam/"
+    },
+    "ChineseLightLuxuryBagPremiumization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "越卖越贵的「山下有松们」，如何持续抢占轻奢包袋市场？ [1008110631].md",
+          "key": "yue-mai-yue-gui-de-shanxia-yousong-men-ruhe-chixu-qiangzhan-qingshe-baodai-shichang-1008110631",
+          "show": "声动早咖啡",
+          "title": "越卖越贵的「山下有松们」，如何持续抢占轻奢包袋市场？",
+          "url": "/wiki/sources/yue-mai-yue-gui-de-shanxia-yousong-men-ruhe-chixu-qiangzhan-qingshe-baodai-shichang-1008110631/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/chineselightluxurybagpremiumization/"
     },
     "ChineseStyleFDE": {
       "episode_count": 5,
@@ -1504,6 +1559,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/deathgroundtacticalpreconditions/"
     },
+    "DeepZ": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "越卖越贵的「山下有松们」，如何持续抢占轻奢包袋市场？ [1008110631].md",
+          "key": "yue-mai-yue-gui-de-shanxia-yousong-men-ruhe-chixu-qiangzhan-qingshe-baodai-shichang-1008110631",
+          "show": "声动早咖啡",
+          "title": "越卖越贵的「山下有松们」，如何持续抢占轻奢包袋市场？",
+          "url": "/wiki/sources/yue-mai-yue-gui-de-shanxia-yousong-men-ruhe-chixu-qiangzhan-qingshe-baodai-shichang-1008110631/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/deepz/"
+    },
     "DeleteRequestAndOptOutPlatform": {
       "episode_count": 2,
       "show_count": 1,
@@ -1542,6 +1613,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/digitrobot/"
+    },
+    "DomesticBagSupplyChainUpgrade": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "越卖越贵的「山下有松们」，如何持续抢占轻奢包袋市场？ [1008110631].md",
+          "key": "yue-mai-yue-gui-de-shanxia-yousong-men-ruhe-chixu-qiangzhan-qingshe-baodai-shichang-1008110631",
+          "show": "声动早咖啡",
+          "title": "越卖越贵的「山下有松们」，如何持续抢占轻奢包袋市场？",
+          "url": "/wiki/sources/yue-mai-yue-gui-de-shanxia-yousong-men-ruhe-chixu-qiangzhan-qingshe-baodai-shichang-1008110631/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/domesticbagsupplychainupgrade/"
     },
     "DopamineWantingLoop": {
       "episode_count": 1,
@@ -2071,6 +2158,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/gauravkarna/"
+    },
+    "Gele": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "越卖越贵的「山下有松们」，如何持续抢占轻奢包袋市场？ [1008110631].md",
+          "key": "yue-mai-yue-gui-de-shanxia-yousong-men-ruhe-chixu-qiangzhan-qingshe-baodai-shichang-1008110631",
+          "show": "声动早咖啡",
+          "title": "越卖越贵的「山下有松们」，如何持续抢占轻奢包袋市场？",
+          "url": "/wiki/sources/yue-mai-yue-gui-de-shanxia-yousong-men-ruhe-chixu-qiangzhan-qingshe-baodai-shichang-1008110631/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/gele/"
     },
     "GenderedAIMarketing": {
       "episode_count": 1,
@@ -5532,6 +5635,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/predictiveworldmodelanxiety/"
     },
+    "Qiuzhen": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "越卖越贵的「山下有松们」，如何持续抢占轻奢包袋市场？ [1008110631].md",
+          "key": "yue-mai-yue-gui-de-shanxia-yousong-men-ruhe-chixu-qiangzhan-qingshe-baodai-shichang-1008110631",
+          "show": "声动早咖啡",
+          "title": "越卖越贵的「山下有松们」，如何持续抢占轻奢包袋市场？",
+          "url": "/wiki/sources/yue-mai-yue-gui-de-shanxia-yousong-men-ruhe-chixu-qiangzhan-qingshe-baodai-shichang-1008110631/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/qiuzhen/"
+    },
     "QuantileBalancing": {
       "episode_count": 2,
       "show_count": 2,
@@ -5880,6 +5999,29 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/shangxiabanchang/"
+    },
+    "ShanxiaYousong": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "144. 国货出海新趋势：山下有松、观夏、PANE ｜ 疯投圈 (1) [144-1].md",
+          "key": "144-guohuo-chuhai-xinqushi-shanxia-yousong-guanxia-pane-feng-tou-quan-1-144-1",
+          "show": "疯投圈",
+          "title": "144 ✪ 国货出海新趋势：山下有松、观夏、PANE",
+          "url": "/wiki/sources/144-guohuo-chuhai-xinqushi-shanxia-yousong-guanxia-pane-feng-tou-quan-1-144-1/"
+        },
+        {
+          "episode_file": "越卖越贵的「山下有松们」，如何持续抢占轻奢包袋市场？ [1008110631].md",
+          "key": "yue-mai-yue-gui-de-shanxia-yousong-men-ruhe-chixu-qiangzhan-qingshe-baodai-shichang-1008110631",
+          "show": "声动早咖啡",
+          "title": "越卖越贵的「山下有松们」，如何持续抢占轻奢包袋市场？",
+          "url": "/wiki/sources/yue-mai-yue-gui-de-shanxia-yousong-men-ruhe-chixu-qiangzhan-qingshe-baodai-shichang-1008110631/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/shanxiayousong/"
     },
     "ShekharNatarajan": {
       "episode_count": 1,

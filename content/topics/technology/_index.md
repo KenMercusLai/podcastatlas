@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2462
+topic_total_pages: 2463
 topic_concepts:
   - key: "AcademicAIResearchRole"
     title: "Academic AI Research Role"
@@ -4061,6 +4061,9 @@ topic_entities:
   - key: "DeepSeekHarness"
     title: "DeepSeek Harness"
     url: "/wiki/entities/deepseekharness/"
+  - key: "DeepZ"
+    title: "DeepZ"
+    url: "/wiki/entities/deepz/"
   - key: "Dehomag"
     title: "Dehomag / 德霍梅格"
     url: "/wiki/entities/dehomag/"

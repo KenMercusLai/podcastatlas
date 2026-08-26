@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "20a627e1fa58ef974c09c43448d566a65f34c4716c65a7b0cb3a5e9e99aa6c80",
       "d59deaae3eb589df45f702d15d17cc78bcc6a4a8b3742d681f8adc3cf903d0c0",
       "7a0b9342ff7e5037d26f669907c339a74dabea46863d7092ab9f61fd93db331f",
       "11b46069f5d5d3b388ce54be58a714716b4196155acf6688217b72a05e31fe09",
@@ -264,11 +265,33 @@
       "ed252faccaaf1dc4e8c654d3406a6a1a0fc3a6f6fe78821348d1b123c7e85a5c",
       "32b62a0e1fc3144c5e7770721fc745607afef0d0cf46a8fe94d35cab377dbbf9"
     ],
-    "paragraph_count": 262
+    "paragraph_count": 263
   },
-  "overview_commit": "6586a4b8f3f93693f8eaa6cf5ec03b9399170e6c",
-  "overview_digest": "855927376767cff138b6d57d6c531a02d06318ce22ff2672afe67721bc864dd3",
+  "overview_commit": "69a3e68e2e8ec691820c19f138a7c3b4eccdf2b4",
+  "overview_digest": "41b02251cab5957d2dd4b9bfcca4ce6ac714273921bd07548f76912b1802c508",
   "paragraphs": [
+    {
+      "id": "20a627e1fa58ef974c09c43448d566a65f34c4716c65a7b0cb3a5e9e99aa6c80",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "The domestic light-luxury bag source extends the consumer-brand synthesis from export attention into domestic premiumization. [[ChineseLightLuxuryBagPremiumization]] now links [[ShanxiaYousong]], [[Qiuzhen]], and [[Gele]] to the same operating equation: international luxury price fatigue and discount-worn accessible luxury create room, but [[DomesticBagSupplyChainUpgrade]], low-logo commuter positioning, [[AspirationalEmotionalPremium]], [[StoryLedConsumerBranding]], [[RetailSiteSelection]], and [[ProductLedWillingnessToPay]] have to converge before a RMB 1,000-3,000 domestic bag feels credible. [[BrandNarrativeHomogenizationRisk]] keeps the premium fragile because quality-control, aftersales, design originality, store experience, and repeated neutral/natural/intellectual-woman narratives can turn emotional branding into a template just as consumers are becoming stricter.",
+      "topic_scores": {
+        "business-and-markets": 4,
+        "culture-and-media": 1
+      },
+      "wikilinks": [
+        "AspirationalEmotionalPremium",
+        "BrandNarrativeHomogenizationRisk",
+        "ChineseLightLuxuryBagPremiumization",
+        "DomesticBagSupplyChainUpgrade",
+        "Gele",
+        "ProductLedWillingnessToPay",
+        "Qiuzhen",
+        "RetailSiteSelection",
+        "ShanxiaYousong",
+        "StoryLedConsumerBranding"
+      ]
+    },
     {
       "id": "d59deaae3eb589df45f702d15d17cc78bcc6a4a8b3742d681f8adc3cf903d0c0",
       "primary_topic": "history-and-geopolitics",

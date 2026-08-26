@@ -16521,6 +16521,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "DeepZ": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "DefaultDenySecurity": [
     {
       "key": "technology",

@@ -12142,6 +12142,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-27] ingest | 越卖越贵的「山下有松们」，如何持续抢占轻奢包袋市场？
+
+Added source page for the 声动早咖啡 episode on Chinese mid- to high-end bag brands moving into light-luxury pricing. Created Qiuzhen, Gele, DeepZ, Chinese Light-Luxury Bag Premiumization, Domestic Bag Supply Chain Upgrade, and Brand Narrative Homogenization Risk; updated Shanxia Yousong and Aspirational Emotional Premium to synthesis-v1. Flagged a source-scoped Shanxia Yousong revenue tension between the earlier reported 2025 revenue above RMB 1 billion and the newer RMB 600-700 million industry estimate.
+
 
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》1032丨对待叛徒，曹操为何仁慈？
 
@@ -12170,6 +12174,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》1024丨勇冠三军吕布，为何始终一事无成？
 
 Added source page for Hanji 1024: Lü Bu's 198 CE pre-Xiapi decision field, Gao Shun and Zhang Liao's attack on Liu Bei, Xun You's attack-window advice to Cao Cao, Chen Gong's rejected early-attack and abandoned inner-outer attrition plan, and Yuan Shu's still-uncertain rescue channel. Updated Lü Bu and Long-Term Achievement Discipline to synthesis-v1. No settled contradiction found; the source qualifies final-cause readings of Lü Bu's fall by moving the failure earlier to lost initiative, unstable trust, and weak self-command.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-27] lint | Wiki health check
 
