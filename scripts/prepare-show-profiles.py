@@ -75,20 +75,40 @@ def scalar(lines: list[str], key: str, delimiter: str) -> str:
     return ""
 
 
-def inline_list(lines: list[str], key: str) -> tuple[str, ...]:
+def front_matter_list(lines: list[str], key: str) -> tuple[str, ...]:
     prefix = f"{key}:"
-    for raw_line in lines:
+    for index, raw_line in enumerate(lines):
         line = raw_line.strip()
         if not line.startswith(prefix):
             continue
         value = line.split(":", 1)[1].strip()
-        if not value.startswith("[") or not value.endswith("]"):
-            raise ValueError(f"{key} must be an inline list")
-        return tuple(
-            strip_quotes(item.strip())
-            for item in value[1:-1].split(",")
-            if item.strip()
-        )
+        if value:
+            if not value.startswith("[") or not value.endswith("]"):
+                raise ValueError(f"{key} must be a list")
+            return tuple(
+                strip_quotes(item.strip())
+                for item in value[1:-1].split(",")
+                if item.strip()
+            )
+
+        key_indent = len(raw_line) - len(raw_line.lstrip())
+        items: list[str] = []
+        for item_line in lines[index + 1 :]:
+            stripped = item_line.strip()
+            if not stripped:
+                continue
+            item_indent = len(item_line) - len(item_line.lstrip())
+            if item_indent <= key_indent:
+                break
+            if not stripped.startswith("- "):
+                raise ValueError(f"{key} must be a list")
+            item = strip_quotes(stripped[2:].strip())
+            if not item:
+                raise ValueError(f"{key} contains an empty item")
+            items.append(item)
+        if not items:
+            raise ValueError(f"{key} must be a list")
+        return tuple(items)
     return ()
 
 
@@ -176,11 +196,11 @@ def load_entity_support(
         if entity_path.name.startswith("_"):
             continue
         delimiter, front_matter = split_front_matter(entity_path.read_text(encoding="utf-8"))
-        tags = {value.casefold() for value in inline_list(front_matter, "tags")}
+        tags = {value.casefold() for value in front_matter_list(front_matter, "tags")}
         kind = entity_kind(tags)
         if kind is None:
             continue
-        sources = inline_list(front_matter, "sources")
+        sources = front_matter_list(front_matter, "sources")
         episode_files = sorted(
             {source_to_episode[source] for source in sources if source in source_to_episode}
         )

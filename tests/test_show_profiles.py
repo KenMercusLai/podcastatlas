@@ -26,6 +26,20 @@ class ShowProfilesTest(unittest.TestCase):
     def test_show_profile_generator_exists(self):
         self.assertTrue(SCRIPT.is_file(), "show profile generator is missing")
 
+    def test_front_matter_list_accepts_yaml_block_sequences(self):
+        self.assertEqual(
+            ("source-a", "source-b"),
+            prepare.front_matter_list(
+                [
+                    "sources:",
+                    "  - source-a",
+                    "  - 'source-b'",
+                    "next_key: value",
+                ],
+                "sources",
+            ),
+        )
+
     def test_committed_projection_matches_the_current_corpus(self):
         expected = prepare.render_payload(prepare.build_show_profiles())
         actual = (ROOT / "data" / "show_profiles.json").read_text(encoding="utf-8")
@@ -63,7 +77,7 @@ class ShowProfilesTest(unittest.TestCase):
             )
             write(
                 entities / "Alice.md",
-                "---\ntitle: Alice\ntype: entity\ntags: [person]\nsources: [source-a, source-b]\n---\n",
+                "---\ntitle: Alice\ntype: entity\ntags: [person]\nsources:\n  - source-a\n  - source-b\n---\n",
             )
             write(
                 entities / "OneOff.md",
