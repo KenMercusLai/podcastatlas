@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1905
+topic_total_pages: 1907
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -1804,6 +1804,9 @@ topic_concepts:
   - key: "PartitionMinorityTrap"
     title: "Partition Minority Trap"
     url: "/wiki/concepts/partitionminoritytrap/"
+  - key: "PartyNetworkTreasonFraming"
+    title: "Party Network Treason Framing / 朋党网络谋反化"
+    url: "/wiki/concepts/partynetworktreasonframing/"
   - key: "PartyBanCrisisAmnesty"
     title: "Party-Ban Crisis Amnesty / 党锢危机赦免"
     url: "/wiki/concepts/partybancrisisamnesty/"
@@ -2287,6 +2290,9 @@ topic_concepts:
   - key: "RepublicanForeignPolicyAdaptation"
     title: "Republican Foreign Policy Adaptation"
     url: "/wiki/concepts/republicanforeignpolicyadaptation/"
+  - key: "ReputationListPersecutionTarget"
+    title: "Reputation List as Persecution Target / 名望榜单迫害目标化"
+    url: "/wiki/concepts/reputationlistpersecutiontarget/"
   - key: "ResearchChemicalLoophole"
     title: "Research Chemical Loophole"
     url: "/wiki/concepts/researchchemicalloophole/"

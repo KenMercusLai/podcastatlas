@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 7818
+wiki_total_pages: 7825
 wiki_pages:
   - key: "FortyThreeTalks"
     title: "43talks"
@@ -707,6 +707,12 @@ wiki_pages:
   - key: "FanFangLateHan"
     title: "范方 / Fan Fang (Late Han)"
     url: "/wiki/entities/fanfanglatehan/"
+  - key: "FanPangLateHan"
+    title: "范滂 / Fan Pang (late Han)"
+    url: "/wiki/entities/fanpanglatehan/"
+  - key: "FanPangMotherLateHan"
+    title: "范滂母 / Fan Pang's mother"
+    url: "/wiki/entities/fanpangmotherlatehan/"
   - key: "FanLi"
     title: "范蠡 / Fan Li"
     url: "/wiki/entities/fanli/"

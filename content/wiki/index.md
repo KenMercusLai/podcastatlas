@@ -35,6 +35,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [腾讯、阿里、字节争夺打工人，互联网大厂为何集体加码 AI 办公？](sources/tengxun-ali-zijie-zhengduo-dagongren-hulianwang-dachang-weihe-jiti-jiama-ai-bangong-1008598460.md) — 声动早咖啡 episode on Tencent, Alibaba, and ByteDance shifting from consumer AI chatbots toward AI office products because agents, coding proof, token costs, enterprise context, and payment uncertainty make office workflows the new AI battleground.
 - [E46 我们从未看见彼此](sources/e46-women-congwei-kanjian-bici-lmliksaiwxakmjbn-p2voaaoenxh.md) — 无人知晓 solo episode on AI-era expression, the film 《好朋友们》, evolved intelligence, interpersonal projection, language labels, algorithmic amplification, and Krishnamurti's total attention.
 - [The $1/Hour Worker: Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs](sources/all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680.md) — All-In robotics special on Anybotics, 1X, Boston Dynamics, and Agility Robotics across industrial inspection, home humanoids, warehouse humanoids, teleoperation, robot data, safety, sovereignty, and dangerous-work automation.
+- [《资治通鉴·汉纪》893丨荣誉榜如何变成死亡名单？](sources/zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq.md) — 芮淇讲透资治通鉴 episode on the 169 CE second party-prohibition setup, where a士人 honor list becomes a persecution target, Cao Jie frames party networks as rebellion to the young Emperor Ling, and Li Ying/Fan Pang choose death-facing responsibility.
 - [《资治通鉴·汉纪》894丨一场逃亡引发的大屠杀](sources/zizhi-tongjian-hanji-894-yi-chang-taowang-yinfa-de-da-tusha-lhulp9hqu07uayyfl3eg-xwrtkeu.md) — 芮淇讲透资治通鉴 episode on the 169 CE party-prohibition purge, Guo Tai's guarded withdrawal, Zhang Jian's Hou Lan-triggered flight, Li Du and Mao Qin's non-arrest scene, and the helper households punished after Zhang's escape.
 - [《资治通鉴·汉纪》895丨血腥屠刀下的骨肉情深](sources/zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3.md) — 芮淇讲透资治通鉴 episode on Zhang Jian's 169 CE flight, Kong Rong hiding him in Kong Bao's household, the Kong-family responsibility contest, Xia Fu and Du Gen's non-implication withdrawal, and Tan Sitong's later poetic allusion.
 - [《资治通鉴·汉纪》896丨假如乱世降临，你该如何自保？](sources/zizhi-tongjian-hanji-896-jiaru-luanshi-jianglin-ni-gai-ruhe-zibao-lsuvt-ksp-gfggc9riqqovjswkg.md) — 芮淇讲透资治通鉴 episode on 169 CE party-prohibition survival through Chen Shi's courtesy to Zhang Rang, He Yong and Yuan Shao's rescue network, Yuan Hong's domestic reclusion, Shentu Pan's early withdrawal, and Sima Guang's warning about unsupported public confrontation.
@@ -1533,6 +1534,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [李膺 / Li Ying (late Han)](entities/LiYingLateHan.md) — Late-Han party-prohibition figure whose public reputation, prison choice, and student-network liability anchor Hanji 893.
+- [范滂 / Fan Pang (late Han)](entities/FanPangLateHan.md) — Late-Han party-prohibition figure whose voluntary imprisonment, refusal to implicate Guo Yi, and family farewell expose名节 under persecution.
+- [范滂母 / Fan Pang's mother](entities/FanPangMotherLateHan.md) — Family elder whose farewell to Fan Pang frames moral fame and long life as incompatible under the party-prohibition disaster.
+- [景毅 / Jing Yi (late Han)](entities/JingYiLateHan.md) — Official who self-reports because his son's studentship under Li Ying was omitted from the punishment list.
+- [朱璧 / Zhu Bi (late Han)](entities/ZhuBiLateHan.md) — Hou Lan-linked accuser who denounces Zhang Jian and twenty-four others as party figures in Hanji 893.
+- [吴导 / Wu Dao (late Han)](entities/WuDaoLateHan.md) — Runan duyou whose grief over Fan Pang's arrest order reveals local enforcement friction.
+- [郭揖 / Guo Yi (late Han)](entities/GuoYiLateHan.md) — Local magistrate who tries to free Fan Pang and flee with him before Fan Pang refuses to implicate him.
 - [唐文斌 / Tang Wenbin](entities/TangWenbin.md) — Gaode embodied-business lead explaining the company's navigation-first Physical AI route.
 - [郭宁 / Guo Ning](entities/GuoNing.md) — Gaode CEO tied in the source to the strategy that Gaode should become Alibaba's Physical AI port.
 - [A-BOT Navigation](entities/ABOTNavigation.md) — Gaode robot-navigation model layer for visual, indoor-outdoor, and robot-passability-aware routing.
@@ -9355,6 +9363,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Reputation List as Persecution Target / 名望榜单迫害目标化](concepts/ReputationListPersecutionTarget.md) — Pattern where a public honor list becomes a target list when hostile power treats moral reputation as factional danger.
+- [Party Network Treason Framing / 朋党网络谋反化](concepts/PartyNetworkTreasonFraming.md) — Pattern where recommendation and reputation networks are explained to a ruler as rebellion or throne-security threats.
 - [Guide Robot Dogs](concepts/GuideRobotDogs.md) — Assistive legged robots for visually impaired users, combining navigation, memory, route explanation, haptics, and owner-specific command safety.
 - [Mobility-First Embodied AI](concepts/MobilityFirstEmbodiedAI.md) — Robotics strategy that starts with reliable movement through real spaces before broad humanoid manipulation.
 - [Robot Navigation Infrastructure](concepts/RobotNavigationInfrastructure.md) — Map, visual navigation, passability, indoor-memory, and feedback systems that let robots move through real environments.

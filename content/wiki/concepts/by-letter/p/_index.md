@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5592
+wiki_total_pages: 5594
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -122,6 +122,9 @@ wiki_pages:
   - key: "PartitionOfJin"
     title: "Partition of Jin / 三家分晋"
     url: "/wiki/concepts/partitionofjin/"
+  - key: "PartyNetworkTreasonFraming"
+    title: "Party Network Treason Framing / 朋党网络谋反化"
+    url: "/wiki/concepts/partynetworktreasonframing/"
   - key: "PartyProhibitionRehabilitation"
     title: "Party Prohibition Rehabilitation / 党人翻案合法性"
     url: "/wiki/concepts/partyprohibitionrehabilitation/"

@@ -262,16 +262,17 @@
       "0fba5d11c8de7efacd2b63af5f1939d94c6dbb1d7bafc6ac1ade1274bd388278",
       "d2ebb1f66c4d89d070f9f574affe60d1700fea687fbf72d6a87ccf19244070a0",
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
-      "68e3dcf4cf80f3ff08de28db5fa06665d045db631dc75f908ce827ef84e2485b",
+      "182e970dd82ce4e9f37420e52f42ff6e2a5ab47e2531f7be4bdacd6ee621352e",
+      "071eae42bb31ffd3cdf9394ad0e35360fa8e9247b719381e1b3cf89c03873025",
       "d9074e43b7b103fc0d0097b207bf8018227d6e146ca0eb75638118627687641c",
       "b16a38bd6e190222f7f3e6f0535803ce60ae7f3304e3477dfcdd995a15fb502f",
       "ed252faccaaf1dc4e8c654d3406a6a1a0fc3a6f6fe78821348d1b123c7e85a5c",
       "32b62a0e1fc3144c5e7770721fc745607afef0d0cf46a8fe94d35cab377dbbf9"
     ],
-    "paragraph_count": 266
+    "paragraph_count": 267
   },
-  "overview_commit": "50ea3b7a12ea2199bfae3502a554ceca5e455622",
-  "overview_digest": "8367e11555cdc2ef84cf64062649ee562c60c677228287536d35988fc0be2d4c",
+  "overview_commit": "3b9d4414df5e6a17733fa902e4841632e1efea28",
+  "overview_digest": "340a90066b4d9644f9e90d76b3c011c5ca47dc5f3280065a5550e3468a18f89c",
   "paragraphs": [
     {
       "id": "9fd0e1239421b99e6a8f0b4e873ebb36ecb6abd70f408cb3b485445039e11c54",
@@ -8032,10 +8033,35 @@
       ]
     },
     {
-      "id": "68e3dcf4cf80f3ff08de28db5fa06665d045db631dc75f908ce827ef84e2485b",
+      "id": "182e970dd82ce4e9f37420e52f42ff6e2a5ab47e2531f7be4bdacd6ee621352e",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics",
+        "work-education-and-society"
+      ],
+      "text": "[[zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq|Hanji 893]] moves the late-Han party-prohibition synthesis to the reputation-list prelude of 169 CE. [[ReputationListPersecutionTarget|名望榜单迫害目标化]] shows that a士人 honor list can become an arrest list when [[CaoJieLateHan|曹节]] translates mutual praise and recommendation into [[PartyNetworkTreasonFraming|朋党网络谋反化]] for the young [[EmperorLingOfHan|汉灵帝]]. [[LiYingLateHan|李膺]] and [[FanPangLateHan|范滂]] choose prison and death-facing名节, [[JingYiLateHan|景毅]] self-reports into liability, and [[PartyProhibitionKinshipExpansion|党锢亲属牵连扩大]] gains an earlier stage where student and subordinate ties become punishable exposure before the later Zhang Jian shelter chain.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "CaoJieLateHan",
+        "EmperorLingOfHan",
+        "FanPangLateHan",
+        "JingYiLateHan",
+        "LiYingLateHan",
+        "PartyNetworkTreasonFraming",
+        "PartyProhibitionKinshipExpansion",
+        "ReputationListPersecutionTarget",
+        "zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq"
+      ]
+    },
+    {
+      "id": "071eae42bb31ffd3cdf9394ad0e35360fa8e9247b719381e1b3cf89c03873025",
       "primary_topic": "governance-and-institutions",
       "secondary_topics": [],
-      "text": "[[zizhi-tongjian-hanji-896-jiaru-luanshi-jianglin-ni-gai-ruhe-zibao-lsuvt-ksp-gfggc9riqqovjswkg|Hanji 896]] moves the late-Han party-prohibition synthesis to 169 CE. [[ChenShiLateHan|陈寔]] shows moral reputation working as practical protection when earlier courtesy to [[ZhangRangLateHan|张让]] later saves him and other innocents; [[HeYongLateHan|何颙]] and [[YuanShao|袁绍]] show the active version through secret rescue networks; and [[YuanHongLateHan|袁闳]] with [[ShentuPanLateHan|申屠蟠]] create [[CrisisWithdrawalSelfProtection|危局抽身自保]] as the exit version of [[PoliticalSurvivalFirst|安全第一政治生存]]. The source qualifies heroic speech under disorder: Sima Guang's comment does not deny Party figures' moral concern, but warns that public denunciation without power or timing can turn righteousness into collateral danger.",
+      "text": "[[zizhi-tongjian-hanji-896-jiaru-luanshi-jianglin-ni-gai-ruhe-zibao-lsuvt-ksp-gfggc9riqqovjswkg|Hanji 896]] then extends the same 169 CE party-prohibition synthesis into survival choices. [[ChenShiLateHan|陈寔]] shows moral reputation working as practical protection when earlier courtesy to [[ZhangRangLateHan|张让]] later saves him and other innocents; [[HeYongLateHan|何颙]] and [[YuanShao|袁绍]] show the active version through secret rescue networks; and [[YuanHongLateHan|袁闳]] with [[ShentuPanLateHan|申屠蟠]] create [[CrisisWithdrawalSelfProtection|危局抽身自保]] as the exit version of [[PoliticalSurvivalFirst|安全第一政治生存]]. The source qualifies heroic speech under disorder: Sima Guang's comment does not deny Party figures' moral concern, but warns that public denunciation without power or timing can turn righteousness into collateral danger.",
       "topic_scores": {
         "governance-and-institutions": 2,
         "history-and-geopolitics": 1

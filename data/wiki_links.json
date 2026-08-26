@@ -16495,6 +16495,14 @@
     "title": "樊能 / Fan Neng (late Han)",
     "url": "/wiki/entities/fannenglatehan/"
   },
+  "FanPangLateHan": {
+    "title": "范滂 / Fan Pang (late Han)",
+    "url": "/wiki/entities/fanpanglatehan/"
+  },
+  "FanPangMotherLateHan": {
+    "title": "范滂母 / Fan Pang's mother",
+    "url": "/wiki/entities/fanpangmotherlatehan/"
+  },
   "FanQiLuWanEnvoy": {
     "title": "范齐 / Fan Qi (Lu Wan envoy)",
     "url": "/wiki/entities/fanqiluwanenvoy/"
@@ -20406,6 +20414,10 @@
   "GuoWeiWarringStates": {
     "title": "郭隗 / Guo Wei (Warring States)",
     "url": "/wiki/entities/guoweiwarringstates/"
+  },
+  "GuoYiLateHan": {
+    "title": "郭揖 / Guo Yi (late Han)",
+    "url": "/wiki/entities/guoyilatehan/"
   },
   "GuoYoulin": {
     "title": "郭友霖 / Guo Youlin",
@@ -25191,6 +25203,10 @@
     "title": "景阳 / Jing Yang",
     "url": "/wiki/entities/jingyang/"
   },
+  "JingYiLateHan": {
+    "title": "景毅 / Jing Yi (late Han)",
+    "url": "/wiki/entities/jingyilatehan/"
+  },
   "JingangJing": {
     "title": "《金刚经》 / Diamond Sutra",
     "url": "/wiki/entities/jingangjing/"
@@ -27922,6 +27938,10 @@
   "LiYanhong": {
     "title": "Li Yanhong",
     "url": "/wiki/entities/liyanhong/"
+  },
+  "LiYingLateHan": {
+    "title": "李膺 / Li Ying (late Han)",
+    "url": "/wiki/entities/liyinglatehan/"
   },
   "LiYou": {
     "title": "李由 / Li You",
@@ -35543,6 +35563,10 @@
     "title": "Party Guitar",
     "url": "/wiki/entities/partyguitar/"
   },
+  "PartyNetworkTreasonFraming": {
+    "title": "Party Network Treason Framing / 朋党网络谋反化",
+    "url": "/wiki/concepts/partynetworktreasonframing/"
+  },
   "PartyProhibitionKinshipExpansion": {
     "title": "党锢亲属牵连扩大 / Party Prohibition Kinship Expansion",
     "url": "/wiki/concepts/partyprohibitionkinshipexpansion/"
@@ -39694,6 +39718,10 @@
   "ReputationConstrainedTalentProtection": {
     "title": "Reputation-Constrained Talent Protection / 名声约束下的人才保护",
     "url": "/wiki/concepts/reputationconstrainedtalentprotection/"
+  },
+  "ReputationListPersecutionTarget": {
+    "title": "Reputation List as Persecution Target / 名望榜单迫害目标化",
+    "url": "/wiki/concepts/reputationlistpersecutiontarget/"
   },
   "RerankingModels": {
     "title": "Reranking Models",
@@ -50959,6 +50987,10 @@
     "title": "武大郎 / Wu Dalang",
     "url": "/wiki/entities/wudalang/"
   },
+  "WuDaoLateHan": {
+    "title": "吴导 / Wu Dao (late Han)",
+    "url": "/wiki/entities/wudaolatehan/"
+  },
   "WuDunLateHan": {
     "title": "吴敦 / Wu Dun (late Han)",
     "url": "/wiki/entities/wudunlatehan/"
@@ -54530,6 +54562,10 @@
   "ZhuBajie": {
     "title": "猪八戒",
     "url": "/wiki/entities/zhubajie/"
+  },
+  "ZhuBiLateHan": {
+    "title": "朱璧 / Zhu Bi (late Han)",
+    "url": "/wiki/entities/zhubilatehan/"
   },
   "ZhuFangZhangChu": {
     "title": "诸坊 / Zhu Fang (Zhang Chu)",
@@ -58446,6 +58482,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq": {
+    "title": "《资治通鉴·汉纪》893丨荣誉榜如何变成死亡名单？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq/"
   },
   "zizhi-tongjian-hanji-894-yi-chang-taowang-yinfa-de-da-tusha-lhulp9hqu07uayyfl3eg-xwrtkeu": {
     "title": "《资治通鉴·汉纪》894丨一场逃亡引发的大屠杀",

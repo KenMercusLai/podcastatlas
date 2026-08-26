@@ -12230,3 +12230,11 @@ Added source page for Hanji 894: the 169 CE party-prohibition purge, Guo Tai's g
 ## [2026-08-27] lint | Wiki health check
 
 Ran lint after health and identity validation passed. Health scanned 14,936 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` and common provider API key variables are unset in this shell; a bounded in-session review of the orphan and fragile-bridge endpoint pages found no direct contradictions. Report returned in-session; `wiki/lint-report.md` was not updated.
+
+## [2026-08-27] ingest | 《资治通鉴·汉纪》893丨荣誉榜如何变成死亡名单？
+
+Added source page for Hanji 893: the 169 CE second party-prohibition setup, where a士人 honor list becomes a target list, Hou Lan uses Zhu Bi's accusation against Zhang Jian, Cao Jie frames party networks as rebellion to the young Emperor Ling, and Li Ying, Jing Yi, and Fan Pang choose death-facing or self-implicating responsibility. Created Li Ying, Fan Pang, Fan Pang's mother, Jing Yi, Zhu Bi, Wu Dao, Guo Yi, Reputation List as Persecution Target, and Party Network Treason Framing; updated Zhang Jian, Hou Lan, and Party Prohibition Kinship Expansion. No settled contradiction found; minor names in Cao Jie's broader accusation list remain source-scoped pending disambiguation.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint after health and identity validation passed. Health scanned 14,946 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because no `LLM_MODEL` or common provider API key variables are set in this shell, so the script fell back to a semantic-unavailable section. Report returned in-session; `wiki/lint-report.md` was not updated.
