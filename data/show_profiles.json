@@ -447,19 +447,19 @@
       ]
     },
     "Huberman Lab": {
-      "episode_count": 51,
+      "episode_count": 52,
       "earliest_episode_date": "2020-12-21",
-      "latest_episode_date": "2021-12-13",
-      "latest_episode_file": "SCIM4448895120 [SCIM4448895120].md",
+      "latest_episode_date": "2021-12-20",
+      "latest_episode_file": "SCIM2455538543 [SCIM2455538543].md",
       "source_note_count": 0,
       "topic_matched_source_note_count": 0,
       "topics": [],
       "entities": [],
       "start_here_episode_files": [
+        "SCIM2455538543 [SCIM2455538543].md",
         "SCIM4448895120 [SCIM4448895120].md",
         "SCIM2745308962 [SCIM2745308962].md",
-        "SCIM4159413839 [SCIM4159413839].md",
-        "SCIM2344094719 [SCIM2344094719].md"
+        "SCIM4159413839 [SCIM4159413839].md"
       ]
     },
     "Long Now": {
