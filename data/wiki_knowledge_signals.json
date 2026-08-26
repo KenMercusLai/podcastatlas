@@ -2374,9 +2374,9 @@
       "url": "/wiki/entities/guanjinglatehan/"
     },
     "GuanduCampaign": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1026丨揭秘三国第一猛将吕布的落幕 [lhjf_aguJuIgLqCHUMtFf3tfTxg1].md",
@@ -2405,6 +2405,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1034丨袁绍的败局，只因不肯听沮授的话？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1034-yuanshao-de-baiju-zhi-yin-buken-ting-jushou-de-hua-log-wy2zvpdjopbdyexb0ijqmph4/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1032丨对待叛徒，曹操为何仁慈？ [lmrr3C2F2dAyEctlwNdt4p_KATUy].md",
+          "key": "zizhi-tongjian-hanji-1032-duidai-pantu-caocao-weihe-renci-lmrr3c2f2dayectlwndt4p-katuy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1032丨对待叛徒，曹操为何仁慈？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1032-duidai-pantu-caocao-weihe-renci-lmrr3c2f2dayectlwndt4p-katuy/"
         }
       ],
       "updated": "2026-08-27",
@@ -5627,6 +5634,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/shentupanlatehan/"
     },
+    "ShequanLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1032丨对待叛徒，曹操为何仁慈？ [lmrr3C2F2dAyEctlwNdt4p_KATUy].md",
+          "key": "zizhi-tongjian-hanji-1032-duidai-pantu-caocao-weihe-renci-lmrr3c2f2dayectlwndt4p-katuy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1032丨对待叛徒，曹操为何仁慈？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1032-duidai-pantu-caocao-weihe-renci-lmrr3c2f2dayectlwndt4p-katuy/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/shequanlatehan/"
+    },
     "SmartGlassesBystanderPrivacy": {
       "episode_count": 3,
       "show_count": 2,
@@ -5722,9 +5745,9 @@
       "url": "/wiki/entities/stanfordinstituteforhumancenteredai/"
     },
     "StrategicDefectorIncorporation": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1026丨揭秘三国第一猛将吕布的落幕 [lhjf_aguJuIgLqCHUMtFf3tfTxg1].md",
@@ -5739,9 +5762,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1035丨斩杀曹操亲子和爱将，他竟再度归降曹操？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1035-zhansha-caocao-qinzi-he-aijiang-ta-jing-zaidu-guijiang-caocao-lh10wwkwcqw5hnap3bodw6oxpt7v/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1032丨对待叛徒，曹操为何仁慈？ [lmrr3C2F2dAyEctlwNdt4p_KATUy].md",
+          "key": "zizhi-tongjian-hanji-1032-duidai-pantu-caocao-weihe-renci-lmrr3c2f2dayectlwndt4p-katuy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1032丨对待叛徒，曹操为何仁慈？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1032-duidai-pantu-caocao-weihe-renci-lmrr3c2f2dayectlwndt4p-katuy/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-08-27",
       "url": "/wiki/concepts/strategicdefectorincorporation/"
     },
     "SunBenLateHan": {
@@ -5989,6 +6019,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/suspiciondrivenelitealienation/"
     },
+    "TadunLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1032丨对待叛徒，曹操为何仁慈？ [lmrr3C2F2dAyEctlwNdt4p_KATUy].md",
+          "key": "zizhi-tongjian-hanji-1032-duidai-pantu-caocao-weihe-renci-lmrr3c2f2dayectlwndt4p-katuy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1032丨对待叛徒，曹操为何仁慈？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1032-duidai-pantu-caocao-weihe-renci-lmrr3c2f2dayectlwndt4p-katuy/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/tadunlatehan/"
+    },
     "TanSitong": {
       "episode_count": 1,
       "show_count": 1,
@@ -6080,6 +6126,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/tiankailatehan/"
+    },
+    "TianYuLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1032丨对待叛徒，曹操为何仁慈？ [lmrr3C2F2dAyEctlwNdt4p_KATUy].md",
+          "key": "zizhi-tongjian-hanji-1032-duidai-pantu-caocao-weihe-renci-lmrr3c2f2dayectlwndt4p-katuy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1032丨对待叛徒，曹操为何仁慈？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1032-duidai-pantu-caocao-weihe-renci-lmrr3c2f2dayectlwndt4p-katuy/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/tianyulatehan/"
     },
     "TimUrban": {
       "episode_count": 1,
@@ -6457,6 +6519,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/weitenglatehan/"
     },
+    "WeiZhongLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1032丨对待叛徒，曹操为何仁慈？ [lmrr3C2F2dAyEctlwNdt4p_KATUy].md",
+          "key": "zizhi-tongjian-hanji-1032-duidai-pantu-caocao-weihe-renci-lmrr3c2f2dayectlwndt4p-katuy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1032丨对待叛徒，曹操为何仁慈？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1032-duidai-pantu-caocao-weihe-renci-lmrr3c2f2dayectlwndt4p-katuy/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/weizhonglatehan/"
+    },
     "WenChouLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -6613,6 +6691,29 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/xiafulatehan/"
     },
+    "XianyuFu": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》998丨白马将军公孙瓒：从三千白马到困守孤城 [lp-1L2GvBsBFnyZNUTDGhxwwvqNA].md",
+          "key": "zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》998丨白马将军公孙瓒：从三千白马到困守孤城",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1032丨对待叛徒，曹操为何仁慈？ [lmrr3C2F2dAyEctlwNdt4p_KATUy].md",
+          "key": "zizhi-tongjian-hanji-1032-duidai-pantu-caocao-weihe-renci-lmrr3c2f2dayectlwndt4p-katuy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1032丨对待叛徒，曹操为何仁慈？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1032-duidai-pantu-caocao-weihe-renci-lmrr3c2f2dayectlwndt4p-katuy/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/xianyufu/"
+    },
     "XuChu": {
       "episode_count": 2,
       "show_count": 1,
@@ -6729,6 +6830,29 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/yanlianglatehan/"
+    },
+    "YanRou": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》998丨白马将军公孙瓒：从三千白马到困守孤城 [lp-1L2GvBsBFnyZNUTDGhxwwvqNA].md",
+          "key": "zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》998丨白马将军公孙瓒：从三千白马到困守孤城",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1032丨对待叛徒，曹操为何仁慈？ [lmrr3C2F2dAyEctlwNdt4p_KATUy].md",
+          "key": "zizhi-tongjian-hanji-1032-duidai-pantu-caocao-weihe-renci-lmrr3c2f2dayectlwndt4p-katuy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1032丨对待叛徒，曹操为何仁慈？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1032-duidai-pantu-caocao-weihe-renci-lmrr3c2f2dayectlwndt4p-katuy/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/yanrou/"
     },
     "YangFuLateHan": {
       "episode_count": 1,

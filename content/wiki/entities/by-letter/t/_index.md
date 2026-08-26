@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 7793
+wiki_total_pages: 7797
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1214,6 +1214,9 @@ wiki_pages:
   - key: "TianJiao"
     title: "田角 / Tian Jiao"
     url: "/wiki/entities/tianjiao/"
+  - key: "TianYuLateHan"
+    title: "田豫 / Tian Yu (Late Han)"
+    url: "/wiki/entities/tianyulatehan/"
   - key: "TianDu"
     title: "田都 / Tian Du"
     url: "/wiki/entities/tiandu/"
@@ -1232,6 +1235,9 @@ wiki_pages:
   - key: "TanizakiJunichiro"
     title: "谷崎润一郎 / Tanizaki Junichiro"
     url: "/wiki/entities/tanizakijunichiro/"
+  - key: "TadunLateHan"
+    title: "蹋顿 / Tadun (Late Han)"
+    url: "/wiki/entities/tadunlatehan/"
   - key: "Tancheng"
     title: "郯城 / Tancheng"
     url: "/wiki/entities/tancheng/"

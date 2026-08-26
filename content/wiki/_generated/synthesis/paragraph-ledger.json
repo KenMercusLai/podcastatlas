@@ -36,6 +36,7 @@
       "7d7b693d6f35815ea65575bc5b059360b4fee92ebcf1baf6f0f25aadad4c1df0",
       "840eaed48823d1cb8394205dc6f757a3f266cc085d658c74982cb8d290278aa1",
       "4fbe70aa1f53b32473387df288ea810f7381dfacf1213a6732c1aceab7f634f8",
+      "5239c0d507a19ecbc810ec7a9df7c23d5eb1ece92691c8a18e0245f617a1ec38",
       "edc20184f9cefbd958ce0fe6369ba50f9c227485553384690d5efee4f2579a08",
       "cfdf373b36b386d0fcf8826c8af5b3ae5ea7a4893abd05eb6a4e1b5630010bc0",
       "c028892a2d50db645a114ab75b1d3b261fe9f6136ee91e1c379ef58d9ec989a0",
@@ -262,10 +263,10 @@
       "b16a38bd6e190222f7f3e6f0535803ce60ae7f3304e3477dfcdd995a15fb502f",
       "32b62a0e1fc3144c5e7770721fc745607afef0d0cf46a8fe94d35cab377dbbf9"
     ],
-    "paragraph_count": 260
+    "paragraph_count": 261
   },
-  "overview_commit": "9733c3367d5b2c6e566cb16e4f239cbf2e6e5b69",
-  "overview_digest": "db6a6a541734dacc93234a57b19a931aebe5ac36f73de2556489a81126b686f1",
+  "overview_commit": "4c9e5846934e3e4f6b9a6e77fdc70f892f355083",
+  "overview_digest": "2aa683cd3d6c41cc4bd3f60ecea565ce2afa06f2916e54968c1b5a207d426fa3",
   "paragraphs": [
     {
       "id": "d59deaae3eb589df45f702d15d17cc78bcc6a4a8b3742d681f8adc3cf903d0c0",
@@ -1495,6 +1496,39 @@
         "YuanShao",
         "ZhangYanLateHan",
         "zizhi-tongjian-hanji-1031-gongsunzan-zhisi-cong-bianjiang-zhanshen-dao-kunshou-zifen-lmqoechccfwmfpmbdx8-tjmnm3jz"
+      ]
+    },
+    {
+      "id": "5239c0d507a19ecbc810ec7a9df7c23d5eb1ece92691c8a18e0245f617a1ec38",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1032-duidai-pantu-caocao-weihe-renci-lmrr3c2f2dayectlwndt4p-katuy]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode bridging [[GongsunZan|公孙瓒]]'s fall and the [[GuanduCampaign|官渡]] horizon. It adds [[WeiZhongLateHan|魏种]], [[ShequanLateHan|射犬]], [[TianYuLateHan|田豫]], and [[TadunLateHan|蹋顿]], while extending [[CaoCao|曹操]], [[YuanShao|袁绍]], [[XianyuFu|鲜于辅]], [[YanRou|阎柔]], [[Wuhuan|乌桓]], [[QiuLijuLateHan|丘力居]], [[SuiGuLateHan|眭固]], [[CaoRen|曹仁]], [[Aocang|敖仓]], [[GuanduCampaign|官渡之战]], [[StrategicDefectorIncorporation|纳叛安抚式整合]], [[LegitimacyWindowSeizure|合法性窗口抢占]], [[TalentAsStateTreasure|以贤臣为宝]], and [[PeopleBasedPoliticalSecurity|民心型政治安全]]. Its core synthesis is that the pre-Guandu field is a rear-settlement and talent-use problem before it becomes a decisive campaign: Yuan Shao tries to stabilize Youzhou and Wuhuan after Yijing, Tian Yu reads Cao Cao's emperor-backed name as a submission signal, and Cao Cao turns the capture of a prior defector into administrative appointment rather than private revenge. No settled contradiction is recorded; the transcript's \"称帝后的袁绍\" wording is kept source-scoped against the adjacent Yuan Shu usurpation sequence.",
+      "topic_scores": {
+        "governance-and-institutions": 3,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "Aocang",
+        "CaoCao",
+        "CaoRen",
+        "GongsunZan",
+        "GuanduCampaign",
+        "LegitimacyWindowSeizure",
+        "PeopleBasedPoliticalSecurity",
+        "QiuLijuLateHan",
+        "RuiqiJiangtouZizhiTongjian",
+        "ShequanLateHan",
+        "StrategicDefectorIncorporation",
+        "SuiGuLateHan",
+        "TadunLateHan",
+        "TalentAsStateTreasure",
+        "TianYuLateHan",
+        "WeiZhongLateHan",
+        "Wuhuan",
+        "XianyuFu",
+        "YanRou",
+        "YuanShao",
+        "zizhi-tongjian-hanji-1032-duidai-pantu-caocao-weihe-renci-lmrr3c2f2dayectlwndt4p-katuy"
       ]
     },
     {

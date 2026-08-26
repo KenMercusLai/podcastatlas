@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1032丨对待叛徒，曹操为何仁慈？](sources/zizhi-tongjian-hanji-1032-duidai-pantu-caocao-weihe-renci-lmrr3c2f2dayectlwndt4p-katuy.md) — 芮淇讲透资治通鉴 episode on Yuan Shao's post-Gongsun-Zan northern settlement, Tian Yu's advice to Xianyu Fu, Wuhuan chanyu-seal politics, Cao Cao's Shequan operation, and Cao's pardon and appointment of Wei Zhong before Guandu.
 - [《资治通鉴·汉纪》1033丨割据军阀袁术，最终吐血而亡？](sources/zizhi-tongjian-hanji-1033-geju-junfa-yuanshu-zuizhong-tuxue-er-wang-lt0ibs-en0oeoqkkcxl8sevjng4.md) — 芮淇讲透资治通鉴 episode on Yuan Shu's final collapse, the Heirloom Seal's return to court, Yuan Shao's post-Gongsun-Zan title temptation, and the Ju Shou / Guo Tu / Shen Pei pre-Guandu strategy debate.
 - [《资治通鉴·汉纪》1034丨袁绍的败局，只因不肯听沮授的话？](sources/zizhi-tongjian-hanji-1034-yuanshao-de-baiju-zhi-yin-buken-ting-jushou-de-hua-log-wy2zvpdjopbdyexb0ijqmph4.md) — 芮淇讲透资治通鉴 episode on Yuan Shao's pre-Guandu war council, Ju Shou's rest-and-harassment strategy, Guo Tu and Shen Pei's flattery, Cao Cao and Xun Yu's Yuan-camp diagnosis, and Cao's early deployments to Liyang, Qingzhou, the Yellow River, and Guandu.
 - [《资治通鉴·汉纪》1035丨斩杀曹操亲子和爱将，他竟再度归降曹操？](sources/zizhi-tongjian-hanji-1035-zhansha-caocao-qinzi-he-aijiang-ta-jing-zaidu-guijiang-caocao-lh10wwkwcqw5hnap3bodw6oxpt7v.md) — 芮淇讲透资治通鉴 episode on Zhang Xiu's Jia Xu-advised renewed submission to Cao Cao, Yang Fu's Cao/Yuan comparison, and Wei Ji's Guanzhong salt-revenue agricultural recovery plan before Guandu.
@@ -1524,6 +1525,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [魏种 / Wei Zhong (Late Han)](entities/WeiZhongLateHan.md) — Cao Cao's former recommendee who fled during the Yanzhou crisis but was pardoned and appointed after capture at Shequan.
+- [射犬 / Shequan (Late Han)](entities/ShequanLateHan.md) — Yellow River north-bank site where Cao Cao's campaign against Sui Gu produced surrender, Wei Zhong's capture, and the Aocang pre-Guandu positioning.
+- [田豫 / Tian Yu (Late Han)](entities/TianYuLateHan.md) — Yuyang adviser whose argument for Xianyu Fu's submission reads Cao Cao's emperor-backed legitimacy in Hanji 1032.
+- [蹋顿 / Tadun (Late Han)](entities/TadunLateHan.md) — Wuhuan leader favored by Yuan Shao after Gongsun Zan's fall and tied to the chanyu-seal frontier settlement.
 - [陈简 / Chen Jian (Yuan Shu retainer)](entities/ChenJianYuanShuRetainer.md) — Yuan Shu old retainer who refuses to shelter him during the final collapse.
 - [雷波 / Lei Bo (Yuan Shu retainer)](entities/LeiBoYuanShuRetainer.md) — Yuan Shu old retainer whose refusal marks the collapse of Yuan Shu's usable refuge network.
 - [耿包 / Geng Bao (late Han)](entities/GengBaoLateHan.md) — Yuan Shao subordinate whose imperial-title proposal becomes a title-test casualty after official rejection.
