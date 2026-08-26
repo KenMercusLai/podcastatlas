@@ -2824,6 +2824,18 @@
       "url": "/topics/politics/"
     }
   ],
+  "AIEmpireSovereigntyRisk": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "AIEmploymentMultiplierCompression": [
     {
       "key": "technology",
@@ -3254,6 +3266,18 @@
       "url": "/topics/politics/"
     }
   ],
+  "AIInevitabilityResponsibilityEvasion": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "AIInferenceCostStructure": [
     {
       "key": "technology",
@@ -3449,6 +3473,18 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "AILegalPersonhoodRisk": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "AILiteracyAgainstWorship": [
@@ -5810,6 +5846,28 @@
     }
   ],
   "AlgorithmicDiversityDividend": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "AlgorithmicTrustMigration": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
     {
       "key": "culture",
       "label": "Culture",
@@ -36101,6 +36159,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "MassProducedAIIntimacy": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "MassachusettsInvestorsTrust": [
     {
       "key": "economics",
@@ -37365,6 +37435,18 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "MilitaryAIOversightCompression": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "MilitaryActionTerminology": [
@@ -39509,6 +39591,23 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "NexusHarariBook": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "NiChiXiangcaiMa": [
@@ -53574,6 +53673,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "SufferingBasedMoralSubjecthood": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "SufiImageLegitimacy": [
     {
       "key": "culture",
@@ -62898,6 +63004,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "YuvalNoahHarari": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "YuxiIntoHonglou": [
     {
       "key": "culture",
@@ -64662,6 +64775,18 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "an-interview-with-yuval-noah-harari-6a872b94c71d02aaba56ca7c": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "aodesai-ba-baomihua-zhuangjin-teluoyi-muma-haolaiwu-dapian-weihe-zhadui-dingzhi-baomihuatong-1004599628": [

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 5595
+wiki_total_pages: 5602
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -632,6 +632,9 @@ wiki_pages:
   - key: "AIElectionMisinformationRisk"
     title: "AI Election Misinformation Risk"
     url: "/wiki/concepts/aielectionmisinformationrisk/"
+  - key: "AIEmpireSovereigntyRisk"
+    title: "AI Empire Sovereignty Risk"
+    url: "/wiki/concepts/aiempiresovereigntyrisk/"
   - key: "AIEmploymentMultiplierCompression"
     title: "AI Employment Multiplier Compression / AI就业乘数压缩"
     url: "/wiki/concepts/aiemploymentmultipliercompression/"
@@ -749,6 +752,9 @@ wiki_pages:
   - key: "AIIndustrySelfRegulation"
     title: "AI Industry Self-Regulation"
     url: "/wiki/concepts/aiindustryselfregulation/"
+  - key: "AIInevitabilityResponsibilityEvasion"
+    title: "AI Inevitability Responsibility Evasion"
+    url: "/wiki/concepts/aiinevitabilityresponsibilityevasion/"
   - key: "AIInferenceCostStructure"
     title: "AI Inference Cost Structure"
     url: "/wiki/concepts/aiinferencecoststructure/"
@@ -815,6 +821,9 @@ wiki_pages:
   - key: "AILaborSubstitutionValuationBoundary"
     title: "AI Labor Substitution Valuation Boundary / AI劳动力替代估值边界"
     url: "/wiki/concepts/ailaborsubstitutionvaluationboundary/"
+  - key: "AILegalPersonhoodRisk"
+    title: "AI Legal Personhood Risk"
+    url: "/wiki/concepts/ailegalpersonhoodrisk/"
   - key: "AILiteracyAgainstWorship"
     title: "AI Literacy Against Worship"
     url: "/wiki/concepts/ailiteracyagainstworship/"
@@ -1262,6 +1271,9 @@ wiki_pages:
   - key: "AlgorithmicRelevanceAssessment"
     title: "Algorithmic Relevance Assessment / 算法相关性评估"
     url: "/wiki/concepts/algorithmicrelevanceassessment/"
+  - key: "AlgorithmicTrustMigration"
+    title: "Algorithmic Trust Migration"
+    url: "/wiki/concepts/algorithmictrustmigration/"
   - key: "AlienAbductionNarrative"
     title: "Alien Abduction Narrative"
     url: "/wiki/concepts/alienabductionnarrative/"

@@ -492,6 +492,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/aidatabrokerdemand/"
     },
+    "AIEmpireSovereigntyRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "An interview with Yuval Noah Harari [6a872b94c71d02aaba56ca7c].md",
+          "key": "an-interview-with-yuval-noah-harari-6a872b94c71d02aaba56ca7c",
+          "show": "Economist Podcasts",
+          "title": "An interview with Yuval Noah Harari",
+          "url": "/wiki/sources/an-interview-with-yuval-noah-harari-6a872b94c71d02aaba56ca7c/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/aiempiresovereigntyrisk/"
+    },
     "AIEraMajorChoice": {
       "episode_count": 2,
       "show_count": 1,
@@ -583,6 +599,38 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/aihardwareprivacyexchange/"
+    },
+    "AIInevitabilityResponsibilityEvasion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "An interview with Yuval Noah Harari [6a872b94c71d02aaba56ca7c].md",
+          "key": "an-interview-with-yuval-noah-harari-6a872b94c71d02aaba56ca7c",
+          "show": "Economist Podcasts",
+          "title": "An interview with Yuval Noah Harari",
+          "url": "/wiki/sources/an-interview-with-yuval-noah-harari-6a872b94c71d02aaba56ca7c/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/aiinevitabilityresponsibilityevasion/"
+    },
+    "AILegalPersonhoodRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "An interview with Yuval Noah Harari [6a872b94c71d02aaba56ca7c].md",
+          "key": "an-interview-with-yuval-noah-harari-6a872b94c71d02aaba56ca7c",
+          "show": "Economist Podcasts",
+          "title": "An interview with Yuval Noah Harari",
+          "url": "/wiki/sources/an-interview-with-yuval-noah-harari-6a872b94c71d02aaba56ca7c/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/ailegalpersonhoodrisk/"
     },
     "AIOfficeAgent": {
       "episode_count": 2,
@@ -709,6 +757,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/agilityrobotics/"
+    },
+    "AlgorithmicTrustMigration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "An interview with Yuval Noah Harari [6a872b94c71d02aaba56ca7c].md",
+          "key": "an-interview-with-yuval-noah-harari-6a872b94c71d02aaba56ca7c",
+          "show": "Economist Podcasts",
+          "title": "An interview with Yuval Noah Harari",
+          "url": "/wiki/sources/an-interview-with-yuval-noah-harari-6a872b94c71d02aaba56ca7c/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/algorithmictrustmigration/"
     },
     "AmandaMcMaster": {
       "episode_count": 1,
@@ -5307,6 +5371,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/maoqinlatehan/"
     },
+    "MassProducedAIIntimacy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "An interview with Yuval Noah Harari [6a872b94c71d02aaba56ca7c].md",
+          "key": "an-interview-with-yuval-noah-harari-6a872b94c71d02aaba56ca7c",
+          "show": "Economist Podcasts",
+          "title": "An interview with Yuval Noah Harari",
+          "url": "/wiki/sources/an-interview-with-yuval-noah-harari-6a872b94c71d02aaba56ca7c/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/massproducedaiintimacy/"
+    },
     "MaxBennett": {
       "episode_count": 1,
       "show_count": 1,
@@ -5601,6 +5681,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/michaelkratsios/"
     },
+    "MilitaryAIOversightCompression": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "An interview with Yuval Noah Harari [6a872b94c71d02aaba56ca7c].md",
+          "key": "an-interview-with-yuval-noah-harari-6a872b94c71d02aaba56ca7c",
+          "show": "Economist Podcasts",
+          "title": "An interview with Yuval Noah Harari",
+          "url": "/wiki/sources/an-interview-with-yuval-noah-harari-6a872b94c71d02aaba56ca7c/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/militaryaioversightcompression/"
+    },
     "MissionaryFieldworkInfrastructure": {
       "episode_count": 2,
       "show_count": 2,
@@ -5876,6 +5972,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/newyorkmagazine/"
+    },
+    "NexusHarariBook": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "An interview with Yuval Noah Harari [6a872b94c71d02aaba56ca7c].md",
+          "key": "an-interview-with-yuval-noah-harari-6a872b94c71d02aaba56ca7c",
+          "show": "Economist Podcasts",
+          "title": "An interview with Yuval Noah Harari",
+          "url": "/wiki/sources/an-interview-with-yuval-noah-harari-6a872b94c71d02aaba56ca7c/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/nexushararibook/"
     },
     "NoPositionEncoding": {
       "episode_count": 2,
@@ -7159,6 +7271,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/strategicdefectorincorporation/"
+    },
+    "SufferingBasedMoralSubjecthood": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "An interview with Yuval Noah Harari [6a872b94c71d02aaba56ca7c].md",
+          "key": "an-interview-with-yuval-noah-harari-6a872b94c71d02aaba56ca7c",
+          "show": "Economist Podcasts",
+          "title": "An interview with Yuval Noah Harari",
+          "url": "/wiki/sources/an-interview-with-yuval-noah-harari-6a872b94c71d02aaba56ca7c/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/sufferingbasedmoralsubjecthood/"
     },
     "SunBenLateHan": {
       "episode_count": 2,
@@ -8742,6 +8870,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/yuanyinlatehan/"
+    },
+    "YuvalNoahHarari": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "An interview with Yuval Noah Harari [6a872b94c71d02aaba56ca7c].md",
+          "key": "an-interview-with-yuval-noah-harari-6a872b94c71d02aaba56ca7c",
+          "show": "Economist Podcasts",
+          "title": "An interview with Yuval Noah Harari",
+          "url": "/wiki/sources/an-interview-with-yuval-noah-harari-6a872b94c71d02aaba56ca7c/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/yuvalnoahharari/"
     },
     "YuzhangCommandery": {
       "episode_count": 3,

@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-27] ingest | An interview with Yuval Noah Harari
+
+Added source page for The Intelligence interview with Yuval Noah Harari on AI as a civilizational governance problem. Created Yuval Noah Harari, Nexus (Yuval Noah Harari book), AI Inevitability Responsibility Evasion, Algorithmic Trust Migration, Mass-Produced AI Intimacy, AI Legal Personhood Risk, Military AI Oversight Compression, AI Empire Sovereignty Risk, and Suffering-Based Moral Subjecthood. No settled contradiction found; the source qualifies AI fatalistic acceleration, AI consciousness, AI companion risk, and AI governance by emphasizing responsibility, suffering, anti-impersonation rules, and democratic agency in 2026.
+
 ## [2026-08-27] ingest | 22 岁的具身 CEO、5 轮融资、过亿美元、“不知天有多高”、“一年吃了十年的苦”｜对谈黄一：萝博派对创始人/CEO
 
 Added source page for the Shizilukou Crossing interview with Huang Yi: Luobo Paidui's five financing rounds, founder-side financing term discipline, open-source humanoid platform strategy, RPO's education/research demand, RP1's productization agenda, organization scaling, and bounded choices around model work, home, entertainment, and industrial scenarios. Created Huang Yi (robotics founder), Luobo Paidui, RPO Robot, RP1 Robot, Open Source Robot Platform Strategy, Hard-Tech Financing Discipline, and Research Education Robot Platform pages. No settled contradiction found; financing, order, roadmap, and technical details remain source-scoped founder claims.
@@ -12246,3 +12250,7 @@ Added source page for The Intelligence episode on Scott Bessent's long-bond buyb
 ## [2026-08-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran health, identity validation, and lint. Health scanned 14,959 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-22 with 12,882 nodes and 149,964 edges while the current lint scan covered 14,959 pages, so fragile-bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` and common provider API key variables are unset in this shell; a bounded in-session review of the script sample found no direct contradictions or stale summaries and flagged depth/schema drift in sampled legacy concept pages, especially `wiki/concepts/ExportPorcelainCustomization.md` and `wiki/concepts/FinancialPowerAndStateCapacity.md`, which lack `## Key Claims`. Report returned in-session; `wiki/lint-report.md` was not updated.

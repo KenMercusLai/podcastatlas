@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 7826
+wiki_total_pages: 7828
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -230,6 +230,9 @@ wiki_pages:
   - key: "YuriSagalov"
     title: "Yuri Sagalov"
     url: "/wiki/entities/yurisagalov/"
+  - key: "YuvalNoahHarari"
+    title: "Yuval Noah Harari"
+    url: "/wiki/entities/yuvalnoahharari/"
   - key: "YiGeAfuhanNvrenDeLaixin"
     title: "《一个阿富汗女人的来信》"
     url: "/wiki/entities/yigeafuhannvrendelaixin/"

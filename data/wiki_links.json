@@ -1671,6 +1671,10 @@
     "title": "AI Election Misinformation Risk",
     "url": "/wiki/concepts/aielectionmisinformationrisk/"
   },
+  "AIEmpireSovereigntyRisk": {
+    "title": "AI Empire Sovereignty Risk",
+    "url": "/wiki/concepts/aiempiresovereigntyrisk/"
+  },
   "AIEmploymentMultiplierCompression": {
     "title": "AI Employment Multiplier Compression / AI就业乘数压缩",
     "url": "/wiki/concepts/aiemploymentmultipliercompression/"
@@ -1875,6 +1879,10 @@
     "title": "AI Industry Self-Regulation",
     "url": "/wiki/concepts/aiindustryselfregulation/"
   },
+  "AIInevitabilityResponsibilityEvasion": {
+    "title": "AI Inevitability Responsibility Evasion",
+    "url": "/wiki/concepts/aiinevitabilityresponsibilityevasion/"
+  },
   "AIInferenceCostStructure": {
     "title": "AI Inference Cost Structure",
     "url": "/wiki/concepts/aiinferencecoststructure/"
@@ -1958,6 +1966,10 @@
   "AILaborSubstitutionValuationBoundary": {
     "title": "AI Labor Substitution Valuation Boundary / AI劳动力替代估值边界",
     "url": "/wiki/concepts/ailaborsubstitutionvaluationboundary/"
+  },
+  "AILegalPersonhoodRisk": {
+    "title": "AI Legal Personhood Risk",
+    "url": "/wiki/concepts/ailegalpersonhoodrisk/"
   },
   "AILiteracyAgainstWorship": {
     "title": "AI Literacy Against Worship",
@@ -3718,6 +3730,10 @@
   "AlgorithmicRelevanceAssessment": {
     "title": "Algorithmic Relevance Assessment / 算法相关性评估",
     "url": "/wiki/concepts/algorithmicrelevanceassessment/"
+  },
+  "AlgorithmicTrustMigration": {
+    "title": "Algorithmic Trust Migration",
+    "url": "/wiki/concepts/algorithmictrustmigration/"
   },
   "AliFangxuehou": {
     "title": "阿里（《放学后的小巷》）",
@@ -30655,6 +30671,10 @@
     "title": "Mass Participation Sports Event Moat",
     "url": "/wiki/concepts/massparticipationsportseventmoat/"
   },
+  "MassProducedAIIntimacy": {
+    "title": "Mass-Produced AI Intimacy",
+    "url": "/wiki/concepts/massproducedaiintimacy/"
+  },
   "MassRetailProductionDeadline": {
     "title": "Mass Retail Production Deadline",
     "url": "/wiki/concepts/massretailproductiondeadline/"
@@ -31802,6 +31822,10 @@
   "MilieuSpecificAnalysis": {
     "title": "Milieu-Specific Analysis",
     "url": "/wiki/concepts/milieuspecificanalysis/"
+  },
+  "MilitaryAIOversightCompression": {
+    "title": "Military AI Oversight Compression",
+    "url": "/wiki/concepts/militaryaioversightcompression/"
   },
   "MilitaryActionTerminology": {
     "title": "Military Action Terminology / 伐侵袭用语",
@@ -33606,6 +33630,10 @@
   "NextRobot": {
     "title": "Next Robot",
     "url": "/wiki/entities/nextrobot/"
+  },
+  "NexusHarariBook": {
+    "title": "Nexus (Yuval Noah Harari book)",
+    "url": "/wiki/entities/nexushararibook/"
   },
   "NgoziOkonjoIweala": {
     "title": "Ngozi Okonjo-Iweala",
@@ -45123,6 +45151,10 @@
     "title": "速度科技 / Sudu Technology",
     "url": "/wiki/entities/sudutechnology/"
   },
+  "SufferingBasedMoralSubjecthood": {
+    "title": "Suffering-Based Moral Subjecthood",
+    "url": "/wiki/concepts/sufferingbasedmoralsubjecthood/"
+  },
   "SufiImageLegitimacy": {
     "title": "Sufi Image Legitimacy",
     "url": "/wiki/concepts/sufiimagelegitimacy/"
@@ -53279,6 +53311,10 @@
     "title": "Yuri Sagalov",
     "url": "/wiki/entities/yurisagalov/"
   },
+  "YuvalNoahHarari": {
+    "title": "Yuval Noah Harari",
+    "url": "/wiki/entities/yuvalnoahharari/"
+  },
   "YuxiIntoHonglou": {
     "title": "玉溪一脉入红楼 / Yuxi Into Honglou",
     "url": "/wiki/concepts/yuxiintohonglou/"
@@ -55130,6 +55166,10 @@
   "an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c": {
     "title": "An interview with Elon Musk",
     "url": "/wiki/sources/an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c/"
+  },
+  "an-interview-with-yuval-noah-harari-6a872b94c71d02aaba56ca7c": {
+    "title": "An interview with Yuval Noah Harari",
+    "url": "/wiki/sources/an-interview-with-yuval-noah-harari-6a872b94c71d02aaba56ca7c/"
   },
   "aodesai-ba-baomihua-zhuangjin-teluoyi-muma-haolaiwu-dapian-weihe-zhadui-dingzhi-baomihuatong-1004599628": {
     "title": "《奥德赛》把爆米花装进特洛伊木马，好莱坞大片为何扎堆定制爆米花桶？",

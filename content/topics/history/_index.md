@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1491
+topic_total_pages: 1492
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1550,6 +1550,9 @@ topic_entities:
   - key: "NevilleChamberlain"
     title: "Neville Chamberlain / 张伯伦"
     url: "/wiki/entities/nevillechamberlain/"
+  - key: "NexusHarariBook"
+    title: "Nexus (Yuval Noah Harari book)"
+    url: "/wiki/entities/nexushararibook/"
   - key: "NorthernIreland"
     title: "Northern Ireland"
     url: "/wiki/entities/northernireland/"

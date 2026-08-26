@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2243
+topic_total_pages: 2245
 topic_concepts:
   - key: "AbraxasWholeGodSymbolism"
     title: "Abraxas Whole-God Symbolism / 阿布拉克萨斯完整神象征"
@@ -199,6 +199,9 @@ topic_concepts:
   - key: "AlgorithmicDiversityDividend"
     title: "Algorithmic Diversity Dividend / 算法多样性红利"
     url: "/wiki/concepts/algorithmicdiversitydividend/"
+  - key: "AlgorithmicTrustMigration"
+    title: "Algorithmic Trust Migration"
+    url: "/wiki/concepts/algorithmictrustmigration/"
   - key: "AlienatedMaleViolence"
     title: "Alienated Male Violence"
     url: "/wiki/concepts/alienatedmaleviolence/"
@@ -3614,6 +3617,9 @@ topic_entities:
   - key: "NewsCorp"
     title: "News Corp"
     url: "/wiki/entities/newscorp/"
+  - key: "NexusHarariBook"
+    title: "Nexus (Yuval Noah Harari book)"
+    url: "/wiki/entities/nexushararibook/"
   - key: "NFLFilms"
     title: "NFL Films"
     url: "/wiki/entities/nflfilms/"

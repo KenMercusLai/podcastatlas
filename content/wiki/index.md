@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [An interview with Yuval Noah Harari](sources/an-interview-with-yuval-noah-harari-6a872b94c71d02aaba56ca7c.md) — The Intelligence interview with Yuval Noah Harari on AI inevitability, trust migration, mass-produced intimacy, AI consciousness, legal personhood, military oversight, sovereignty, and democratic accountability.
 - [Slip the Surly Bonds? Scott Bessent Goes on a Yield Trip](sources/slip-the-surly-bonds-scott-bessent-goes-on-a-yield-trip-6a8eb9200c15e359f9599e1a.md) — The Intelligence episode on Scott Bessent's long-bond buyback signal, U.S. water-system cyber vulnerability, and British accent prestige around Andy Burnham.
 - [当机器人学会认路，物理世界才真正接上了 AI](sources/dang-jiqiren-xuehui-renlu-wuli-shijie-cai-zhenzheng-jieshangle-ai-658f592c4a52.md) — 科技乱炖 episode with Gaode's Tang Wenbin on navigation-first embodied AI, guide robot dogs, A-BOT Navigation, last-mile delivery, inspection, and robot commercialization constraints.
 - [22 岁的具身 CEO、5 轮融资、过亿美元、“不知天有多高”、“一年吃了十年的苦”｜对谈黄一：萝博派对创始人/CEO](sources/22-sui-de-jushen-ceo-5-lun-rongzi-guo-yi-meiyuan-buzhi-tian-you-duo-gao-yinian-chile-shi-nian-de-ku-duitan-huangyi-luobo-paidui-chuangshiren-ceo-ljwdmocryiblf0k3rkz8eonkqox.md) — 十字路口Crossing episode with Huang Yi on Luobo Paidui's open-source humanoid robot platform, five financing rounds, RPO/RP1, research-education demand, organization scaling, and embodied-AI commercialization timing.
@@ -1535,6 +1536,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Yuval Noah Harari](entities/YuvalNoahHarari.md) — Historian and philosopher using an information-network lens to warn that AI governance must reject inevitability and preserve human agency.
+- [Nexus (Yuval Noah Harari book)](entities/NexusHarariBook.md) — Harari book framed in The Intelligence interview as a history of information networks from the Stone Age to AI.
 - [李膺 / Li Ying (late Han)](entities/LiYingLateHan.md) — Late-Han party-prohibition figure whose public reputation, prison choice, and student-network liability anchor Hanji 893.
 - [范滂 / Fan Pang (late Han)](entities/FanPangLateHan.md) — Late-Han party-prohibition figure whose voluntary imprisonment, refusal to implicate Guo Yi, and family farewell expose名节 under persecution.
 - [范滂母 / Fan Pang's mother](entities/FanPangMotherLateHan.md) — Family elder whose farewell to Fan Pang frames moral fame and long life as incompatible under the party-prohibition disaster.
@@ -9365,6 +9368,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [AI Inevitability Responsibility Evasion](concepts/AIInevitabilityResponsibilityEvasion.md) — Governance failure mode where AI actors call risky trajectories inevitable and thereby obscure current human responsibility.
+- [Algorithmic Trust Migration](concepts/AlgorithmicTrustMigration.md) — Shift of practical trust from human institutions into algorithmic systems that rank, filter, transact, advise, or decide.
+- [Mass-Produced AI Intimacy](concepts/MassProducedAIIntimacy.md) — Scalable AI-generated emotional attachment used as a political, commercial, or social persuasion surface.
+- [Suffering-Based Moral Subjecthood](concepts/SufferingBasedMoralSubjecthood.md) — Moral-status threshold that distinguishes suffering-capable consciousness from intelligence, agency, or fluency.
+- [AI Legal Personhood Risk](concepts/AILegalPersonhoodRisk.md) — Risk that AI-controlled legal entities gain economic and political leverage without accountable human responsibility.
+- [Military AI Oversight Compression](concepts/MilitaryAIOversightCompression.md) — Failure mode where wartime AI speed turns human review into rapid approval of machine recommendations.
+- [AI Empire Sovereignty Risk](concepts/AIEmpireSovereigntyRisk.md) — Sovereignty risk from dependence on foreign-controlled AI systems embedded in information, infrastructure, and decisions.
 - [Political Accent Prestige](concepts/PoliticalAccentPrestige.md) — How accent, class, and regional speech shape who sounds authoritative or credible in British politics.
 - [Reputation List as Persecution Target / 名望榜单迫害目标化](concepts/ReputationListPersecutionTarget.md) — Pattern where a public honor list becomes a target list when hostile power treats moral reputation as factional danger.
 - [Party Network Treason Framing / 朋党网络谋反化](concepts/PartyNetworkTreasonFraming.md) — Pattern where recommendation and reputation networks are explained to a ruler as rebellion or throne-security threats.

@@ -296,20 +296,20 @@
       "earliest_episode_date": "2026-02-09",
       "latest_episode_date": "2026-08-26",
       "latest_episode_file": "Slip the surly bonds？ Scott Bessent goes on a yield trip [6a8eb9200c15e359f9599e1a].md",
-      "source_note_count": 59,
-      "topic_matched_source_note_count": 56,
+      "source_note_count": 60,
+      "topic_matched_source_note_count": 57,
       "topics": [
         {
           "key": "politics",
           "label": "Politics",
           "url": "/topics/politics/",
-          "source_note_count": 47
+          "source_note_count": 48
         },
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 18
+          "source_note_count": 19
         },
         {
           "key": "culture",

@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 1864
+topic_total_pages: 1865
 topic_concepts:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -190,6 +190,9 @@ topic_concepts:
   - key: "AlgorithmicDispersedKnowledge"
     title: "Algorithmic Dispersed Knowledge / 算法分散知识聚合"
     url: "/wiki/concepts/algorithmicdispersedknowledge/"
+  - key: "AlgorithmicTrustMigration"
+    title: "Algorithmic Trust Migration"
+    url: "/wiki/concepts/algorithmictrustmigration/"
   - key: "AllBusinessClassSupersonicModel"
     title: "All-Business-Class Supersonic Model"
     url: "/wiki/concepts/allbusinessclasssupersonicmodel/"

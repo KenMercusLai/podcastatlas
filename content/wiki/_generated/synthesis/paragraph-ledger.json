@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "d7991ddfbce0b1d31aaa461ba983f6cecc1eceec91c9af96d47d787ef95e5be8",
       "c4bed92f4f60604cd67c692bde4a39159344021e9ec150955ef7de0001f70cc3",
       "9fd0e1239421b99e6a8f0b4e873ebb36ecb6abd70f408cb3b485445039e11c54",
       "7c31699f19222e774fff76473ab87279a5574f385b405b75d4427426c0c90ba2",
@@ -270,11 +271,53 @@
       "ed252faccaaf1dc4e8c654d3406a6a1a0fc3a6f6fe78821348d1b123c7e85a5c",
       "32b62a0e1fc3144c5e7770721fc745607afef0d0cf46a8fe94d35cab377dbbf9"
     ],
-    "paragraph_count": 268
+    "paragraph_count": 269
   },
-  "overview_commit": "78f9634afd5cc861bf4162e289b036ada56a8450",
-  "overview_digest": "9ae5cfb754750027f6172a354495393657781fb1b3914af4c5cf5c87693741a3",
+  "overview_commit": "c85f56ba6ba64e2073107afb49c1fbaad687f5ce",
+  "overview_digest": "c5ba3a9e2c73e03fe8ce1166bf66e1368a74a2d7b4e526fcff07064ba2c678ed",
   "paragraphs": [
+    {
+      "id": "d7991ddfbce0b1d31aaa461ba983f6cecc1eceec91c9af96d47d787ef95e5be8",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "ai-and-technology",
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[an-interview-with-yuval-noah-harari-6a872b94c71d02aaba56ca7c|An interview with Yuval Noah Harari]], a [[TheIntelligence]] interview with [[YuvalNoahHarari]] on AI as a civilizational governance problem. It adds [[YuvalNoahHarari]], [[NexusHarariBook|Nexus]], [[AIInevitabilityResponsibilityEvasion]], [[AlgorithmicTrustMigration]], [[MassProducedAIIntimacy]], [[AILegalPersonhoodRisk]], [[MilitaryAIOversightCompression]], [[AIEmpireSovereigntyRisk]], and [[SufferingBasedMoralSubjecthood]], while extending [[EconomistPodcasts]], [[TheIntelligence]], [[ElonMusk]], [[AIFatalisticAcceleration]], [[AIConsciousnessBoundary]], [[AICompanionAttentionRisk]], [[AIInformationPollution]], [[HumanJudgmentUnderAI]], [[AIGovernanceAndCompliance]], [[AIAlignmentGovernance]], [[AIContentProvenance]], [[PoliticalDeepfakeRegulation]], [[ModelSovereignty]], and [[SovereignAIModels]]. Its core synthesis is that AI governance has to be treated as present human responsibility rather than fate: trust can migrate to algorithms, intimacy can become mass-produced persuasion, legal personhood can become economic leverage, wartime review can compress into approval, and foreign-controlled AI systems can become sovereignty infrastructure. No settled contradiction is recorded; the source qualifies fatalistic acceleration, AI consciousness, and companion-risk branches by making responsibility, suffering, disclosure, and democratic agency explicit.",
+      "topic_scores": {
+        "ai-and-technology": 3,
+        "culture-and-media": 1,
+        "governance-and-institutions": 4,
+        "history-and-geopolitics": 2,
+        "psychology-and-personal-development": 2
+      },
+      "wikilinks": [
+        "AIAlignmentGovernance",
+        "AICompanionAttentionRisk",
+        "AIConsciousnessBoundary",
+        "AIContentProvenance",
+        "AIEmpireSovereigntyRisk",
+        "AIFatalisticAcceleration",
+        "AIGovernanceAndCompliance",
+        "AIInevitabilityResponsibilityEvasion",
+        "AIInformationPollution",
+        "AILegalPersonhoodRisk",
+        "AlgorithmicTrustMigration",
+        "EconomistPodcasts",
+        "ElonMusk",
+        "HumanJudgmentUnderAI",
+        "MassProducedAIIntimacy",
+        "MilitaryAIOversightCompression",
+        "ModelSovereignty",
+        "NexusHarariBook",
+        "PoliticalDeepfakeRegulation",
+        "SovereignAIModels",
+        "SufferingBasedMoralSubjecthood",
+        "TheIntelligence",
+        "YuvalNoahHarari",
+        "an-interview-with-yuval-noah-harari-6a872b94c71d02aaba56ca7c"
+      ]
+    },
     {
       "id": "c4bed92f4f60604cd67c692bde4a39159344021e9ec150955ef7de0001f70cc3",
       "primary_topic": "governance-and-institutions",

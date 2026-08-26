@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 7826
+wiki_total_pages: 7828
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -317,6 +317,9 @@ wiki_pages:
   - key: "NextRobot"
     title: "Next Robot"
     url: "/wiki/entities/nextrobot/"
+  - key: "NexusHarariBook"
+    title: "Nexus (Yuval Noah Harari book)"
+    url: "/wiki/entities/nexushararibook/"
   - key: "NFLFilms"
     title: "NFL Films"
     url: "/wiki/entities/nflfilms/"

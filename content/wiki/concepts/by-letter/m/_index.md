@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 5595
+wiki_total_pages: 5602
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -242,6 +242,9 @@ wiki_pages:
   - key: "MassRetailProductionDeadline"
     title: "Mass Retail Production Deadline"
     url: "/wiki/concepts/massretailproductiondeadline/"
+  - key: "MassProducedAIIntimacy"
+    title: "Mass-Produced AI Intimacy"
+    url: "/wiki/concepts/massproducedaiintimacy/"
   - key: "MaterialHistoryNarrative"
     title: "Material History Narrative"
     url: "/wiki/concepts/materialhistorynarrative/"
@@ -530,6 +533,9 @@ wiki_pages:
   - key: "MilitaryActionTerminology"
     title: "Military Action Terminology / 伐侵袭用语"
     url: "/wiki/concepts/militaryactionterminology/"
+  - key: "MilitaryAIOversightCompression"
+    title: "Military AI Oversight Compression"
+    url: "/wiki/concepts/militaryaioversightcompression/"
   - key: "MilitaryBaseSovereignty"
     title: "Military Base Sovereignty"
     url: "/wiki/concepts/militarybasesovereignty/"
