@@ -2,30 +2,44 @@
 title: "Personal Guard Attack Surface / 贴身侍卫反噬"
 type: concept
 tags: [security, assassination, statecraft, late-han, trust]
-sources: [zizhi-tongjian-hanji-962-dongzhuo-yu-lvbu-daodi-weishenme-juelie-lgp3kxfqnhokibf6kpli6p4j8iti]
-last_updated: 2026-08-25
+sources:
+  - zizhi-tongjian-hanji-962-dongzhuo-yu-lvbu-daodi-weishenme-juelie-lgp3kxfqnhokibf6kpli6p4j8iti
+  - zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd
+last_updated: 2026-08-26
+knowledge_schema: synthesis-v1
 ---
 
 # Personal Guard Attack Surface / 贴身侍卫反噬
 
-Personal guard attack surface / 贴身侍卫反噬 enters the wiki through [[zizhi-tongjian-hanji-962-dongzhuo-yu-lvbu-daodi-weishenme-juelie-lgp3kxfqnhokibf6kpli6p4j8iti|Hanji 962]]. It names the security reversal in which a ruler's most trusted physical protector becomes the easiest route for resentment, fear, or outside persuasion to reach the ruler.
+## Definition
+Personal guard attack surface is the security reversal in which the people closest to a leader's body become either the most effective protection layer or the easiest path for resentment, fear, and conspiracy to reach the leader.
 
-The source case is [[DongZhuo|董卓]] and [[LyuBu|吕布]]. Dong Zhuo depends on Lü Bu because he is strong, skilled at riding and shooting, and close enough to serve as personal guard. That closeness does not create stable loyalty. Dong Zhuo's violent temper, the hand-halberd incident, and Lü Bu's fear that an affair will be exposed give [[WangYunLateHan|王允]] the pressure points needed to convert the guard from shield into threat.
-
-The concept differs from [[AssassinationAccessCredential|刺杀接近凭证]]. A credential is an object, office, courtesy, surrender posture, or document that wins temporary proximity. A personal guard already has proximity; the vulnerable step is psychological and relational. It also differs from ordinary [[PersonalTrustPoliticalFragility|私交信任的政治脆弱性]] because the failed trust has an immediate physical-security consequence.
+## Current Synthesis
+Hanji 962 defines the failure case through [[DongZhuo|董卓]] and [[LyuBu|吕布]]: the trusted guard already has proximity, so psychological fracture can turn protection into attack. Hanji 1039 adds a second branch from [[CaoCao|曹操]]'s guard unit: [[XuTaLateHan|徐他]]'s resentment under strict discipline creates assassination risk, while [[XuChu|许褚]]'s vigilance detects the anomaly and restores the close-guard layer.
 
 ## Key Claims
+- A personal guard is both shield and standing access channel to the protected body.
+- Fear, humiliation, private scandal, or punitive discipline can turn proximity into lethal exposure.
+- Outside conspirators may not need to penetrate security if they can convert someone already inside it.
+- Guard discipline is necessary but can create resentment if the governed guards experience it as intolerable pressure.
+- The same layer can recover protection when a trusted commander notices behavioral anomalies and acts quickly.
 
-- A personal guard is not only protection; the guard is also a standing access channel to the protected body.
-- Kinship language or sworn intimacy cannot compensate for repeated fear, humiliation, or lethal unpredictability.
-- Violence used to discipline a close protector can damage exactly the loyalty that makes protection useful.
-- A private scandal can turn resentment into urgency because the guard now fears exposure and punishment.
-- Outside conspirators do not need to defeat the security layer if they can persuade the security layer to reverse direction.
+## Evidence
+- Guard-as-access channel: [[zizhi-tongjian-hanji-962-dongzhuo-yu-lvbu-daodi-weishenme-juelie-lgp3kxfqnhokibf6kpli6p4j8iti|Hanji 962]] shows Dong Zhuo depending on Lü Bu's strength and proximity, which later gives Lü Bu the route to kill him.
+- Psychological fracture: [[zizhi-tongjian-hanji-962-dongzhuo-yu-lvbu-daodi-weishenme-juelie-lgp3kxfqnhokibf6kpli6p4j8iti|Hanji 962]] ties Lü Bu's reversal to Dong Zhuo's violent temper, the hand-halberd incident, affair exposure fear, and Wang Yun's persuasion.
+- Insider resentment: [[zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd|Hanji 1039]] says Xu Ta plots against Cao Cao because he resents the strictness of Xu Chu's guard discipline.
+- Protective recovery: [[zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd|Hanji 1039]] shows Xu Chu returning unexpectedly, reading Xu Ta's group as suspicious, and killing the conspirators.
+- Concept boundary: [[zizhi-tongjian-hanji-962-dongzhuo-yu-lvbu-daodi-weishenme-juelie-lgp3kxfqnhokibf6kpli6p4j8iti|Hanji 962]] and [[zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd|Hanji 1039]] distinguish standing insider proximity from one-time access credentials.
 
-## Connections
+## Counterevidence & Qualifications
+The concept should not imply that strict discipline is inherently unsafe. Hanji 1039 shows discipline producing both resentment in Xu Ta and reliable protection through Xu Chu. The more precise claim is that discipline must be paired with trust, monitoring, and command judgment because proximity magnifies both loyalty and grievance.
 
-- [[zizhi-tongjian-hanji-962-dongzhuo-yu-lvbu-daodi-weishenme-juelie-lgp3kxfqnhokibf6kpli6p4j8iti|Hanji 962]], [[DongZhuo|董卓]], [[LyuBu|吕布]], and [[WangYunLateHan|王允]] - source case and conversion mechanism.
-- [[HuangWanLateHan|黄琬]], [[ShiSunRuiLateHan|士孙瑞]], and [[YangZanLateHan|杨瓒]] - official planning circle that needs the guard channel.
-- [[AssassinationAccessCredential|刺杀接近凭证]] - downstream access concept activated in Hanji 963.
-- [[PersonalTrustPoliticalFragility|私交信任的政治脆弱性]] - broader relationship-political fragility.
-- [[FortressSecurityIllusion|筑城避世安全幻觉]] - adjacent false-security pattern because Dong Zhuo also seeks safety through [[MeiwuFortress|郿坞]] while the closer guard layer is already unstable.
+## What Changed
+- Added Hanji 1039's Xu Ta and Xu Chu branch, broadening the concept from guard reversal to guard-layer failure and recovery.
+- Migrated the page to synthesis-v1.
+
+## Related Concepts
+- [[AssassinationAccessCredential|刺杀接近凭证]] - one-time proximity differs from standing guard access.
+- [[PersonalTrustPoliticalFragility|私交信任的政治脆弱性]] - broader trust failure that can become physical-security failure when the trusted person is armed and close.
+- [[FortressSecurityIllusion|筑城避世安全幻觉]] - false-security frame adjacent to Dong Zhuo's reliance on fortification while his guard layer fractures.
+- [[PeopleBasedPoliticalSecurity|民心型政治安全]] - wider legitimacy and attachment layer that can reduce resentment before it becomes security risk.

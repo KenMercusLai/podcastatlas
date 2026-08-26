@@ -17467,6 +17467,10 @@
     "title": "Foraging Ethics",
     "url": "/wiki/concepts/foragingethics/"
   },
+  "ForceBackedSurrenderPersuasion": {
+    "title": "Force-Backed Surrender Persuasion / 武力背书式劝降",
+    "url": "/wiki/concepts/forcebackedsurrenderpersuasion/"
+  },
   "ForcedMarchOperationalRisk": {
     "title": "Forced-March Operational Risk / 急行军作战风险",
     "url": "/wiki/concepts/forcedmarchoperationalrisk/"
@@ -44679,6 +44683,10 @@
     "title": "Sun Chuanfang / 孙传芳",
     "url": "/wiki/entities/sunchuanfang/"
   },
+  "SunFuLateHan": {
+    "title": "孙辅 / Sun Fu (late Han)",
+    "url": "/wiki/entities/sunfulatehan/"
+  },
   "SunGuanLateHan": {
     "title": "孙观 / Sun Guan (late Han)",
     "url": "/wiki/entities/sunguanlatehan/"
@@ -44706,6 +44714,10 @@
   "SunRuoxi": {
     "title": "孙若曦 / Sun Ruoxi",
     "url": "/wiki/entities/sunruoxi/"
+  },
+  "SunShengEasternJin": {
+    "title": "孙胜 / Sun Sheng (Eastern Jin)",
+    "url": "/wiki/entities/sunshengeasternjin/"
   },
   "SunWukong": {
     "title": "孙悟空",
@@ -44846,6 +44858,10 @@
   "SurgicalOutcomeMetricDistortion": {
     "title": "Surgical Outcome Metric Distortion",
     "url": "/wiki/concepts/surgicaloutcomemetricdistortion/"
+  },
+  "SurrenderAsCivilianProtectionTradeoff": {
+    "title": "Surrender as Civilian-Protection Tradeoff / 献城保民权衡",
+    "url": "/wiki/concepts/surrenderascivilianprotectiontradeoff/"
   },
   "SurrenderedPrisonerSecurityDilemma": {
     "title": "Surrendered Prisoner Security Dilemma / 杀降安全困境",
@@ -49587,6 +49603,10 @@
     "title": "魏国 / Wei State",
     "url": "/wiki/entities/weistate/"
   },
+  "WeiTengLateHan": {
+    "title": "魏腾 / Wei Teng (late Han)",
+    "url": "/wiki/entities/weitenglatehan/"
+  },
   "WeiWangJia": {
     "title": "魏王假 / King Jia of Wei",
     "url": "/wiki/entities/weiwangjia/"
@@ -51303,6 +51323,10 @@
     "title": "许汜 / Xu Si (Late Han)",
     "url": "/wiki/entities/xusilatehan/"
   },
+  "XuTaLateHan": {
+    "title": "徐他 / Xu Ta (late Han)",
+    "url": "/wiki/entities/xutalatehan/"
+  },
   "XuTao": {
     "title": "徐涛",
     "url": "/wiki/entities/xutao/"
@@ -51346,6 +51370,10 @@
   "XuYouLateHan": {
     "title": "许攸 / Xu You (late Han)",
     "url": "/wiki/entities/xuyoulatehan/"
+  },
+  "XuZhaoLateHan": {
+    "title": "徐昭 / Xu Zhao (late Han)",
+    "url": "/wiki/entities/xuzhaolatehan/"
   },
   "XuZhe": {
     "title": "Xu Zhe / 许哲",
@@ -57382,6 +57410,10 @@
   "zizhi-tongjian-hanji-1031-gongsunzan-zhisi-cong-bianjiang-zhanshen-dao-kunshou-zifen-lmqoechccfwmfpmbdx8-tjmnm3jz": {
     "title": "《资治通鉴·汉纪》1031丨公孙瓒之死：从边疆战神到困兽自焚",
     "url": "/wiki/sources/zizhi-tongjian-hanji-1031-gongsunzan-zhisi-cong-bianjiang-zhanshen-dao-kunshou-zifen-lmqoechccfwmfpmbdx8-tjmnm3jz/"
+  },
+  "zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd": {
+    "title": "《资治通鉴·汉纪》1039丨东吴第一嘴炮？且看他如何劝降华歆",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd/"
   },
   "zizhi-tongjian-hanji-1040-luanshi-yingxiong-caocao-weihe-dudu-kanhao-liubei-lrazzwo4bjspvwmnkx5hoar1iq3x": {
     "title": "《资治通鉴·汉纪》1040丨乱世英雄，曹操为何独独看好刘备？",

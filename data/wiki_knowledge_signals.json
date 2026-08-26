@@ -912,6 +912,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/evolutionarymisrecognition/"
     },
+    "ForceBackedSurrenderPersuasion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1039丨东吴第一嘴炮？且看他如何劝降华歆 [lhRE_IH73YNzfwUJO0lNXYJDguYD].md",
+          "key": "zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1039丨东吴第一嘴炮？且看他如何劝降华歆",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/forcebackedsurrenderpersuasion/"
+    },
     "FortressSecurityIllusion": {
       "episode_count": 4,
       "show_count": 1,
@@ -1307,6 +1323,50 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/heyonglatehan/"
+    },
+    "HuaXin": {
+      "episode_count": 5,
+      "show_count": 1,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1028丨小霸王孙策立威，称霸江东！ [lgur-3FmpR55wy3AjI--0Rm38Y7X].md",
+          "key": "zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1028丨小霸王孙策立威，称霸江东！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1029丨国士无双太史慈：一诺千金义当先 [lvCkWLHZ5g_oApPy89THYE9oyrTo].md",
+          "key": "zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1029丨国士无双太史慈：一诺千金义当先",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》941丨身处官场，他竟想干翻皇帝 [liU-FqIz9pI7U6ClTrn-cJmjz__r].md",
+          "key": "zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》941丨身处官场，他竟想干翻皇帝",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》995丨他嘴上慈悲，为何多次残杀恩人？ [llicuKOezcCD5IYCIn4UQ7qUn51K].md",
+          "key": "zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》995丨他嘴上慈悲，为何多次残杀恩人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1039丨东吴第一嘴炮？且看他如何劝降华歆 [lhRE_IH73YNzfwUJO0lNXYJDguYD].md",
+          "key": "zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1039丨东吴第一嘴炮？且看他如何劝降华歆",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/huaxin/"
     },
     "HumanRobotSafetyCertification": {
       "episode_count": 1,
@@ -1958,6 +2018,29 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/kongrongmother/"
     },
+    "LadyWuSunJian": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》982丨扒一扒刘备入徐背后的利益之争 [ljAjdC95XTyLHkn5TeEFz26Yyyz1].md",
+          "key": "zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》982丨扒一扒刘备入徐背后的利益之争",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1039丨东吴第一嘴炮？且看他如何劝降华歆 [lhRE_IH73YNzfwUJO0lNXYJDguYD].md",
+          "key": "zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1039丨东吴第一嘴炮？且看他如何劝降华歆",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/ladywusunjian/"
+    },
     "LanguageCompressionLabeling": {
       "episode_count": 1,
       "show_count": 1,
@@ -2063,6 +2146,29 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/loyaltycollateraldilemma/"
+    },
+    "LulingLateHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1029丨国士无双太史慈：一诺千金义当先 [lvCkWLHZ5g_oApPy89THYE9oyrTo].md",
+          "key": "zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1029丨国士无双太史慈：一诺千金义当先",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1039丨东吴第一嘴炮？且看他如何劝降华歆 [lhRE_IH73YNzfwUJO0lNXYJDguYD].md",
+          "key": "zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1039丨东吴第一嘴炮？且看他如何劝降华歆",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/lulinglatehan/"
     },
     "MaxBennett": {
       "episode_count": 1,
@@ -2425,6 +2531,29 @@
       "updated": "2026-08-08",
       "url": "/wiki/concepts/opensourcecommunitycommercialization/"
     },
+    "PersonalGuardAttackSurface": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》962丨董卓与吕布，到底为什么决裂？ [lgP3KXFQnHoKibF6KplI6P4j8iTI].md",
+          "key": "zizhi-tongjian-hanji-962-dongzhuo-yu-lvbu-daodi-weishenme-juelie-lgp3kxfqnhokibf6kpli6p4j8iti",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》962丨董卓与吕布，到底为什么决裂？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-962-dongzhuo-yu-lvbu-daodi-weishenme-juelie-lgp3kxfqnhokibf6kpli6p4j8iti/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1039丨东吴第一嘴炮？且看他如何劝降华歆 [lhRE_IH73YNzfwUJO0lNXYJDguYD].md",
+          "key": "zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1039丨东吴第一嘴炮？且看他如何劝降华歆",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/personalguardattacksurface/"
+    },
     "PeterFankhauser": {
       "episode_count": 1,
       "show_count": 1,
@@ -2613,6 +2742,205 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/spotrobot/"
     },
+    "SunBenLateHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》983丨只会骗人的老板永远不是好老板 [lkNR2zyDwjYTjo7Od_rT3Zi_4k_s].md",
+          "key": "zizhi-tongjian-hanji-983-zhi-hui-pianren-de-laoban-yongyuan-bushi-hao-laoban-lknr2zydwjytjo7od-rt3zi-4k-s",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》983丨只会骗人的老板永远不是好老板",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-983-zhi-hui-pianren-de-laoban-yongyuan-bushi-hao-laoban-lknr2zydwjytjo7od-rt3zi-4k-s/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1039丨东吴第一嘴炮？且看他如何劝降华歆 [lhRE_IH73YNzfwUJO0lNXYJDguYD].md",
+          "key": "zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1039丨东吴第一嘴炮？且看他如何劝降华歆",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/sunbenlatehan/"
+    },
+    "SunCe": {
+      "episode_count": 17,
+      "show_count": 1,
+      "source_note_count": 17,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1028丨小霸王孙策立威，称霸江东！ [lgur-3FmpR55wy3AjI--0Rm38Y7X].md",
+          "key": "zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1028丨小霸王孙策立威，称霸江东！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1029丨国士无双太史慈：一诺千金义当先 [lvCkWLHZ5g_oApPy89THYE9oyrTo].md",
+          "key": "zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1029丨国士无双太史慈：一诺千金义当先",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1030丨手握好牌，公孙瓒为何打得稀烂？ [lpKntYOv4viqYzGXgcUjN36qHv8_].md",
+          "key": "zizhi-tongjian-hanji-1030-shouwo-hao-pai-gongsunzan-weihe-da-de-xilan-lpkntyov4viqyzgxgcujn36qhv8",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1030丨手握好牌，公孙瓒为何打得稀烂？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1030-shouwo-hao-pai-gongsunzan-weihe-da-de-xilan-lpkntyov4viqyzgxgcujn36qhv8/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》969丨袁氏兄弟内斗，谁能捡漏？ [lsgj6sewO35jPSGFm_kOIvIJtr6r].md",
+          "key": "zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》969丨袁氏兄弟内斗，谁能捡漏？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》982丨扒一扒刘备入徐背后的利益之争 [ljAjdC95XTyLHkn5TeEFz26Yyyz1].md",
+          "key": "zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》982丨扒一扒刘备入徐背后的利益之争",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》983丨只会骗人的老板永远不是好老板 [lkNR2zyDwjYTjo7Od_rT3Zi_4k_s].md",
+          "key": "zizhi-tongjian-hanji-983-zhi-hui-pianren-de-laoban-yongyuan-bushi-hao-laoban-lknr2zydwjytjo7od-rt3zi-4k-s",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》983丨只会骗人的老板永远不是好老板",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-983-zhi-hui-pianren-de-laoban-yongyuan-bushi-hao-laoban-lknr2zydwjytjo7od-rt3zi-4k-s/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》992丨乱世有多可怕？揭秘长安的血色梦魇 [ltuxzRb-1X5y2CTwo4DrGgxn5sTZ].md",
+          "key": "zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》992丨乱世有多可怕？揭秘长安的血色梦魇",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》993丨神亭岭之战：孙策大战太史慈 [lrIVPk7COL2l7K-S4dqZXXP2KQp1].md",
+          "key": "zizhi-tongjian-hanji-993-shentingling-zhizhan-sunce-dazhan-taishici-lrivpk7col2l7k-s4dqzxxp2kqp1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》993丨神亭岭之战：孙策大战太史慈",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-993-shentingling-zhizhan-sunce-dazhan-taishici-lrivpk7col2l7k-s4dqzxxp2kqp1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》994丨跟着‌东吴重臣吕范，学习职场智慧 [lgQP2vQmh1mSS96gcwmFLP_cCPFU].md",
+          "key": "zizhi-tongjian-hanji-994-genzhe-dongwu-zhongchen-lvfan-xuexi-zhichang-zhihui-lgqp2vqmh1mss96gcwmflp-ccpfu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》994丨跟着东吴重臣吕范，学习职场智慧",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-994-genzhe-dongwu-zhongchen-lvfan-xuexi-zhichang-zhihui-lgqp2vqmh1mss96gcwmflp-ccpfu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》995丨他嘴上慈悲，为何多次残杀恩人？ [llicuKOezcCD5IYCIn4UQ7qUn51K].md",
+          "key": "zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》995丨他嘴上慈悲，为何多次残杀恩人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1002丨袁术称帝后，孙策成为最大赢 [llyA3C2-pEfUjWXdXEfvQXWjIZJo].md",
+          "key": "zizhi-tongjian-hanji-1002-yuanshu-chengdi-hou-sunce-chengwei-zui-da-ying-llya3c2-pefujwxdxefvqxwxjizjo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1002丨袁术称帝后，孙策成为最大赢",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1002-yuanshu-chengdi-hou-sunce-chengwei-zui-da-ying-llya3c2-pefujwxdxefvqxwxjizjo/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1004丨曹操迎奉汉献帝，是谁的主意？ [lrRGA-flmX5aJnhU1c42x7kOoE94].md",
+          "key": "zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1004丨曹操迎奉汉献帝，是谁的主意？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1005丨孙策注定早逝，是性格决定命运？ [lpQnerE2cWcrngggyEzd-BsQAHx4].md",
+          "key": "zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1005丨孙策注定早逝，是性格决定命运？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1015丨三国乱世，为什么袁术敢称帝？ [liM0JEMKWYjCESJ2nvSr3jNdhxFK].md",
+          "key": "zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1015丨三国乱世，为什么袁术敢称帝？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1017丨三国隐藏英雄，陈登的传奇往事 [lhcVtm8FOBuzjfYO9UirDCgX2pLq].md",
+          "key": "zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1017丨三国隐藏英雄，陈登的传奇往事",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1019丨揭秘陈愍王刘宠的传奇一生 [ll2fma7wuPP5gcZudySFEtt5Lhio].md",
+          "key": "zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1019丨揭秘陈愍王刘宠的传奇一生",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1039丨东吴第一嘴炮？且看他如何劝降华歆 [lhRE_IH73YNzfwUJO0lNXYJDguYD].md",
+          "key": "zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1039丨东吴第一嘴炮？且看他如何劝降华歆",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/sunce/"
+    },
+    "SunFuLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1039丨东吴第一嘴炮？且看他如何劝降华歆 [lhRE_IH73YNzfwUJO0lNXYJDguYD].md",
+          "key": "zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1039丨东吴第一嘴炮？且看他如何劝降华歆",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/sunfulatehan/"
+    },
+    "SunShengEasternJin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1039丨东吴第一嘴炮？且看他如何劝降华歆 [lhRE_IH73YNzfwUJO0lNXYJDguYD].md",
+          "key": "zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1039丨东吴第一嘴炮？且看他如何劝降华歆",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/sunshengeasternjin/"
+    },
+    "SurrenderAsCivilianProtectionTradeoff": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1039丨东吴第一嘴炮？且看他如何劝降华歆 [lhRE_IH73YNzfwUJO0lNXYJDguYD].md",
+          "key": "zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1039丨东吴第一嘴炮？且看他如何劝降华歆",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/surrenderascivilianprotectiontradeoff/"
+    },
     "TanSitong": {
       "episode_count": 1,
       "show_count": 1,
@@ -2705,6 +3033,29 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/timurban/"
     },
+    "TongZhiLateHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1029丨国士无双太史慈：一诺千金义当先 [lvCkWLHZ5g_oApPy89THYE9oyrTo].md",
+          "key": "zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1029丨国士无双太史慈：一诺千金义当先",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1039丨东吴第一嘴炮？且看他如何劝降华歆 [lhRE_IH73YNzfwUJO0lNXYJDguYD].md",
+          "key": "zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1039丨东吴第一嘴炮？且看他如何劝降华歆",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/tongzhilatehan/"
+    },
     "TotalAttentionPractice": {
       "episode_count": 1,
       "show_count": 1,
@@ -2768,6 +3119,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/wangmentouzhi/"
+    },
+    "WeiTengLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1039丨东吴第一嘴炮？且看他如何劝降华歆 [lhRE_IH73YNzfwUJO0lNXYJDguYD].md",
+          "key": "zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1039丨东吴第一嘴炮？且看他如何劝降华歆",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/weitenglatehan/"
     },
     "WhatIsOurProblem": {
       "episode_count": 1,
@@ -2877,6 +3244,91 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/xiafulatehan/"
     },
+    "XuChu": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1020丨三国败家子袁术，如何把好牌打得稀烂？ [lhwR9hFMANr_zkTLEUfy3kvl38u0].md",
+          "key": "zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1020丨三国败家子袁术，如何把好牌打得稀烂？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1039丨东吴第一嘴炮？且看他如何劝降华歆 [lhRE_IH73YNzfwUJO0lNXYJDguYD].md",
+          "key": "zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1039丨东吴第一嘴炮？且看他如何劝降华歆",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/xuchu/"
+    },
+    "XuTaLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1039丨东吴第一嘴炮？且看他如何劝降华歆 [lhRE_IH73YNzfwUJO0lNXYJDguYD].md",
+          "key": "zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1039丨东吴第一嘴炮？且看他如何劝降华歆",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/xutalatehan/"
+    },
+    "XuZhaoLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1039丨东吴第一嘴炮？且看他如何劝降华歆 [lhRE_IH73YNzfwUJO0lNXYJDguYD].md",
+          "key": "zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1039丨东吴第一嘴炮？且看他如何劝降华歆",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/xuzhaolatehan/"
+    },
+    "YanBaihu": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》996丨乱世臧洪：讲义气的人，下场最憋屈？ [lgPA-m6h6BvHyinTNUj6zTOpUi76].md",
+          "key": "zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》996丨乱世臧洪：讲义气的人，下场最憋屈？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1004丨曹操迎奉汉献帝，是谁的主意？ [lrRGA-flmX5aJnhU1c42x7kOoE94].md",
+          "key": "zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1004丨曹操迎奉汉献帝，是谁的主意？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1039丨东吴第一嘴炮？且看他如何劝降华歆 [lhRE_IH73YNzfwUJO0lNXYJDguYD].md",
+          "key": "zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1039丨东吴第一嘴炮？且看他如何劝降华歆",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/yanbaihu/"
+    },
     "YidaiZhao": {
       "episode_count": 1,
       "show_count": 1,
@@ -2923,6 +3375,36 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/yijingfortress/"
     },
+    "YuFan": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1004丨曹操迎奉汉献帝，是谁的主意？ [lrRGA-flmX5aJnhU1c42x7kOoE94].md",
+          "key": "zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1004丨曹操迎奉汉献帝，是谁的主意？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1005丨孙策注定早逝，是性格决定命运？ [lpQnerE2cWcrngggyEzd-BsQAHx4].md",
+          "key": "zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1005丨孙策注定早逝，是性格决定命运？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1039丨东吴第一嘴炮？且看他如何劝降华歆 [lhRE_IH73YNzfwUJO0lNXYJDguYD].md",
+          "key": "zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1039丨东吴第一嘴炮？且看他如何劝降华歆",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/yufan/"
+    },
     "YuanHongLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -2938,6 +3420,36 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/yuanhonglatehan/"
+    },
+    "YuzhangCommandery": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1029丨国士无双太史慈：一诺千金义当先 [lvCkWLHZ5g_oApPy89THYE9oyrTo].md",
+          "key": "zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1029丨国士无双太史慈：一诺千金义当先",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》995丨他嘴上慈悲，为何多次残杀恩人？ [llicuKOezcCD5IYCIn4UQ7qUn51K].md",
+          "key": "zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》995丨他嘴上慈悲，为何多次残杀恩人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1039丨东吴第一嘴炮？且看他如何劝降华歆 [lhRE_IH73YNzfwUJO0lNXYJDguYD].md",
+          "key": "zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1039丨东吴第一嘴炮？且看他如何劝降华歆",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/yuzhangcommandery/"
     },
     "ZhangJianLateHan": {
       "episode_count": 1,

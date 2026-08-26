@@ -2,75 +2,64 @@
 title: "孙策 / Sun Ce"
 type: entity
 tags: [person, late-han, three-kingdoms, military]
-sources: [zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x, zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto, zizhi-tongjian-hanji-1030-shouwo-hao-pai-gongsunzan-weihe-da-de-xilan-lpkntyov4viqyzgxgcujn36qhv8, zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r, zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1, zizhi-tongjian-hanji-983-zhi-hui-pianren-de-laoban-yongyuan-bushi-hao-laoban-lknr2zydwjytjo7od-rt3zi-4k-s, zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz, zizhi-tongjian-hanji-993-shentingling-zhizhan-sunce-dazhan-taishici-lrivpk7col2l7k-s4dqzxxp2kqp1, zizhi-tongjian-hanji-994-genzhe-dongwu-zhongchen-lvfan-xuexi-zhichang-zhihui-lgqp2vqmh1mss96gcwmflp-ccpfu, zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k, zizhi-tongjian-hanji-1002-yuanshu-chengdi-hou-sunce-chengwei-zui-da-ying-llya3c2-pefujwxdxefvqxwxjizjo, zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94, zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk, zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq, zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio]
+sources:
+  - zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x
+  - zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto
+  - zizhi-tongjian-hanji-1030-shouwo-hao-pai-gongsunzan-weihe-da-de-xilan-lpkntyov4viqyzgxgcujn36qhv8
+  - zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r
+  - zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1
+  - zizhi-tongjian-hanji-983-zhi-hui-pianren-de-laoban-yongyuan-bushi-hao-laoban-lknr2zydwjytjo7od-rt3zi-4k-s
+  - zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz
+  - zizhi-tongjian-hanji-993-shentingling-zhizhan-sunce-dazhan-taishici-lrivpk7col2l7k-s4dqzxxp2kqp1
+  - zizhi-tongjian-hanji-994-genzhe-dongwu-zhongchen-lvfan-xuexi-zhichang-zhihui-lgqp2vqmh1mss96gcwmflp-ccpfu
+  - zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k
+  - zizhi-tongjian-hanji-1002-yuanshu-chengdi-hou-sunce-chengwei-zui-da-ying-llya3c2-pefujwxdxefvqxwxjizjo
+  - zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94
+  - zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4
+  - zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk
+  - zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq
+  - zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio
+  - zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd
 last_updated: 2026-08-26
+knowledge_schema: synthesis-v1
 ---
 
 # 孙策 / Sun Ce
 
-[[zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r|Hanji 969]] adds Sun Ce mostly as a future beneficiary of Yangzhou geography before his own Jiangdong campaign pages. The episode says the eastern side of [[YangzhouLateHan|扬州]], including commanderies later taken by Sun Ce, becomes the base for Sun-family power, while [[ChenYuWuCommandery|陈瑀]]'s failed Yangzhou position helps show how fragile the pre-Sun office order was.
+## Overview
+孙策 / Sun Ce is the late-Han Jiangdong builder whose source profile moves from dependent Sun-family heir to autonomous regional consolidator.
 
-[[zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1|Hanji 982]] backfills Sun Ce before the Yuan Shu dependency branch. After [[SunJianLateHan|孙坚]] dies, the source has the teenage Sun Ce return his father's body, move toward Jiangdu, and build relationships with local heroes. It also adds the maternal-resource layer through [[LadyWuSunJian|吴夫人]], [[QiantangWuClan|钱塘吴氏]], and [[WuJingLateHan|吴景]], plus the early friendship with [[ZhouYuLateHan|周瑜]] that later becomes material support in Hanji 992.
+## Current Profile
+The current synthesis presents Sun Ce as fast, charismatic, and unusually able to convert conquest into order through discipline, respect, and talent absorption. The same record keeps two risks visible: he repeatedly accepts personal exposure, and his severity toward local critics or strongmen needs correction by advisers and family authority.
 
-[[zizhi-tongjian-hanji-983-zhi-hui-pianren-de-laoban-yongyuan-bushi-hao-laoban-lknr2zydwjytjo7od-rt3zi-4k-s|Hanji 983]] backfills Sun Ce before the Hengjiang and Qu'a advances. After [[SunJianLateHan|孙坚]]'s death, Sun Ce entrusts his family to [[ZhangHongLateHan|张纮]] in [[GuanglingCommandery|广陵]], goes to [[Shouchun|寿春]] to serve [[YuanShu|袁术]], and is sent to recruit through [[WuJingLateHan|吴景]] and [[SunBenLateHan|孙贲]] in [[DanyangCommandery|丹阳郡]] rather than immediately receiving all of Sun Jian's old troops.
+## Key Characteristics
+- Converts kinship, maternal, friendship, and Danyang channels into an independent Jiangdong base after Yuan Shu's broken promises.
+- Uses discipline, lenient terms, and respectful treatment of defeated or surrendered actors to make conquest socially sustainable.
+- Recognizes and incorporates useful talent, including former opponents and local officials.
+- Reads timing pragmatically across Yuan Shu's imperial overreach, Cao-backed titles, Chen Yu's preemption, and Yuzhang's weakness.
+- Governs through mixed severity and flexibility: he suppresses strongmen, nearly kills Wei Teng, accepts Lady Wu's restraint, and spares Xu Zhao for loyalty.
+- Carries personal and temperamental risk through bold dueling, light-security hunting, and punitive impulses.
 
-The same source makes Sun Ce's later break from Yuan Shu a credibility problem. Sun Ce survives [[ZuLangLateHan|祖郎]]'s attack near [[JingCountyLateHan|泾县]], receives the `怀义校尉` platform, and then attacks [[LuKangLateHan|陆康]] in [[LujiangCommandery|庐江郡]] after Yuan Shu promises him the commandery. Yuan Shu's reversals over [[JiujiangCommandery|九江郡]] and Lujiang become the source case for [[PromiseCredibilityTalentRetention|承诺信用与人才流失]].
+## Evidence
+- Base formation: [[zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r|Hanji 969]], [[zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1|Hanji 982]], [[zizhi-tongjian-hanji-983-zhi-hui-pianren-de-laoban-yongyuan-bushi-hao-laoban-lknr2zydwjytjo7od-rt3zi-4k-s|Hanji 983]], and [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz|Hanji 992]] connect Yangzhou geography, Lady Wu's network, Wu Jing and Sun Ben, Zhou Yu's support, and Yuan Shu's broken promises to Sun Ce's launch.
+- Pacification and social order: [[zizhi-tongjian-hanji-993-shentingling-zhizhan-sunce-dazhan-taishici-lrivpk7col2l7k-s4dqzxxp2kqp1|Hanji 993]], [[zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x|Hanji 1028]], and [[zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd|Hanji 1039]] show strict discipline, captured-opponent incorporation, elder-guest treatment of Hua Xin, care for Yuan Shu and Liu Yao's families, and local praise.
+- Talent recognition: [[zizhi-tongjian-hanji-994-genzhe-dongwu-zhongchen-lvfan-xuexi-zhichang-zhihui-lgqp2vqmh1mss96gcwmflp-ccpfu|Hanji 994]], [[zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4|Hanji 1005]], [[zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x|Hanji 1028]], [[zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto|Hanji 1029]], and [[zizhi-tongjian-hanji-1030-shouwo-hao-pai-gongsunzan-weihe-da-de-xilan-lpkntyov4viqyzgxgcujn36qhv8|Hanji 1030]] make Sun Ce a repeated case of trusting Zhang Zhao, Zhang Hong, Lü Fan, Yu Fan, Zu Lang, and Taishi Ci.
+- Timing and legitimacy: [[zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k|Hanji 995]], [[zizhi-tongjian-hanji-1002-yuanshu-chengdi-hou-sunce-chengwei-zui-da-ying-llya3c2-pefujwxdxefvqxwxjizjo|Hanji 1002]], [[zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk|Hanji 1015]], [[zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq|Hanji 1017]], and [[zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio|Hanji 1019]] place Sun Ce inside route choice, anti-usurpation pressure, Guangling containment, Cao-backed recognition, and Chen Yu preemption.
+- Mixed severity: [[zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd|Hanji 1039]] shows Sun Ce suppressing local strongmen while being restrained by Lady Wu over Wei Teng and sparing Xu Zhao because of Xu Zhao's loyalty to others.
+- Exposure risk: [[zizhi-tongjian-hanji-993-shentingling-zhizhan-sunce-dazhan-taishici-lrivpk7col2l7k-s4dqzxxp2kqp1|Hanji 993]], [[zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94|Hanji 1004]], and [[zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4|Hanji 1005]] connect bold field behavior, surprise-tempo strengths, and Yu Fan's warning about solo hunting.
 
-[[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz|Hanji 992]] backfills Sun Ce's departure from [[YuanShu|袁术]] before the Jiangdong expansion in Hanji 993. [[ZhuZhiLateHan|朱治]] tells Sun Ce not to remain on Yuan Shu's platform, and Sun Ce asks to help his uncle [[WuJingLateHan|吴景]] take [[HengjiangLateHan|横江]]. Yuan Shu permits the move partly because he has repeatedly failed to keep promises to Sun Ce and partly because he thinks [[LiuYaoLateHan|刘繇]] and [[WangLangLateHan|王朗]] will block him.
+## Qualifications
+Sun Ce's page aggregates episodes that often use him as an example for strategy, leadership, or risk. That makes his pattern clear but source-scoped: the page should not flatten every action into either heroic magnanimity or violent impetuosity.
 
-The same source turns Sun Ce's start into a support-network story. By [[LiyangLateHan|历阳]], his force has grown through recruitment, and [[ZhouYuLateHan|周瑜]] then brings troops, boats, grain, funds, and a [[DanyangCommandery|丹阳郡]] channel through [[ZhouShangLateHan|周尚]]. The episode treats the capture of Hengjiang as Sun Ce's first real Jiangdong threshold: the public mission to aid Wu Jing becomes a viable independent base-building campaign.
+## What Changed
+- Added Hanji 1039 as the Yuzhang surrender, Luling administrative split, Wei Teng restraint, Xu Zhao leniency, and local-strongman suppression layer.
+- Migrated the page from chronological append notes to synthesis-v1.
 
-[[zizhi-tongjian-hanji-993-shentingling-zhizhan-sunce-dazhan-taishici-lrivpk7col2l7k-s4dqzxxp2kqp1|Hanji 993]] backfills Sun Ce's 195 CE Jiangdong expansion before the existing Hanji 994 organization branch. The episode emphasizes that his army advances quickly while maintaining strict discipline, causing frightened people to return with food and wine rather than treating the army as a plundering force. Sun Ce's personal charisma, openness to advice, and ability to use people are presented as the social basis behind the battlefield momentum.
-
-The same source adds [[ShentinglingBattle|神亭岭之战]], where Sun Ce meets [[TaishiCi|太史慈]] while Taishi Ci is scouting for [[LiuYaoLateHan|刘繇]]. Sun Ce has thirteen riders, including [[HanDang|韩当]] and [[HuangGai|黄盖]], but still fights Taishi Ci directly. After entering Qu'a, Sun Ce issues lenient surrender and recruitment terms, drawing large numbers of soldiers and horses; this extends his branch into [[PeopleBasedPoliticalSecurity|民心型政治安全]] and [[OccupationPacificationStrategy|占领区怀柔治理]] before the later personal-risk warnings.
-
-[[zizhi-tongjian-hanji-994-genzhe-dongwu-zhongchen-lvfan-xuexi-zhichang-zhihui-lgqp2vqmh1mss96gcwmflp-ccpfu|Hanji 994]] backfills Sun Ce's camp before the Liu Yao and Ze Rong branch. [[YuanShu|袁术]] recommends him for an acting military title, but the episode's main Sun Ce lesson is organizational: he lets [[LuFan|吕范]] take a low-status discipline office, entrusts [[ZhangZhaoLateHan|张昭]] and [[ZhangHongLateHan|张纮]] with administrative and military work, and does not envy Zhang Zhao when northern士大夫 credit Zhang Zhao with Jiangdong success. The source turns Sun Ce into a positive case for [[OperationalGapOwnership|主动补组织短板]] and [[SubordinateSuccessNonJealousy|下属成就不嫉妒]] before later pages add his personal-risk limits.
-
-[[zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k|Hanji 995]] backfills Sun Ce as the pressure shaping [[LiuYaoLateHan|刘繇]]'s route choice before Sun Ce's own Kuaiji campaign is narrated. [[XuShao|许劭]] warns Liu Yao not to flee to [[KuaijiCommandery|会稽郡]] because the commandery is rich, coastal, and likely to draw Sun Ce's attack, making [[YuzhangCommandery|豫章郡]] the safer survival route.
-
-[[zizhi-tongjian-hanji-1002-yuanshu-chengdi-hou-sunce-chengwei-zui-da-ying-llya3c2-pefujwxdxefvqxwxjizjo|Hanji 1002]] supplies Sun Ce's prior break from [[YuanShu|袁术]]. When Yuan Shu prepares to claim the imperial title, Sun Ce writes that the current [[EmperorXianOfHan|汉献帝]] has not behaved like Xia Jie or Shang Zhou: the emperor is young and constrained, not an oppressor whose overthrow can be justified by classical precedent.
-
-The source treats the letter as both warning and exit document. Sun Ce invokes the Yuan family's long Han service and Dong Zhuo's failure to claim the throne, then makes clear that if Yuan Shu proceeds he will not support him. Yuan Shu's angry non-reply turns the relationship into open separation, so Yuan Shu's title overreach becomes Sun Ce's opportunity for autonomous development in Jiangdong.
-
-[[zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94|Hanji 1004]] adds the Kuaiji campaign before the later hunting-risk warning. Sun Ce decides not to clear Yan Baihu and other local strongmen first, judging them lower-priority than [[KuaijiCommandery|会稽郡]]. When [[WangLangLateHan|王朗]] blocks repeated crossings at Guling, Sun Ce accepts [[SunJingLateHan|孙静]]'s detour-and-rear-attack plan, uses camp fires as deception, and forces Wang Lang into flight and surrender.
-
-The same source reads Sun Ce as a high-tempo frontier builder: bold, decisive, and good at surprise, but also impatient and insufficiently guarded. That evaluation prepares the more explicit [[LeaderPersonalExposure|领导者轻身涉险]] lesson in Hanji 1005 rather than resolving Sun Ce's death as a single accident.
-
-[[zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4|Hanji 1005]] backfills Sun Ce's earlier [[KuaijiCommandery|会稽郡]] branch. After defeating [[WangLangLateHan|王朗]], Sun Ce takes the commandery governorship and retains [[YuFan|虞翻]], Wang Lang's merit officer. The episode emphasizes Sun Ce's ability to absorb local personnel and treat Yu Fan as a friend.
-
-The same source turns Sun Ce into a negative case for [[LeaderPersonalExposure|领导者轻身涉险]]. He keeps going out hunting in light clothing and often alone, so Yu Fan warns that a person with authority and mission cannot expose himself like an ordinary traveler. The episode does not narrate Sun Ce's death in detail, but it treats the later solo-hunting disaster as a habit-shaped outcome rather than a pure accident.
-
-[[zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio|Hanji 1019]] later adds Sun Ce as the late-Han regional actor whom [[CaoCao|曹操]] tries to pull into the Han-authorized field. Cao Cao sends Wang Pu with imperial orders making Sun Ce cavalry commandant, heir to [[SunJianLateHan|孙坚]]'s Wu Cheng marquis title, and governor of Kuaiji; Sun Ce then receives the Minghan general title under [[EmperorXianOfHan|汉献帝]]'s name.
-
-[[zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x|Hanji 1028]] turns that recognition field into a Jiangdong consolidation case. [[CaoCao|曹操]] recommends Sun Ce for title and marriage ties while also asking [[SunQuan|孙权]] and [[SunYiLateHan|孙翊]] to come to court in a hostage-like service role. At the same time, [[YuanShu|袁术]] tries to use [[ZuLangLateHan|祖郎]] and [[Shanyue|山越]] forces against Sun Ce after Sun Ce's break with Yuan Shu.
-
-The same source makes Sun Ce's authority depend on converting dangerous opponents. He captures Zu Lang and [[TaishiCi|太史慈]], but releases and appoints both instead of taking revenge, making the army see that courage and prior enmity can become usable service. This adds [[CapturedOpponentTalentIncorporation|降敌任用式立威]] to Sun Ce's existing profile: the leader is not only fast and personally bold, but able to turn victory, magnanimity, and talent absorption into order.
-
-[[zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk|Hanji 1015]] adds a compact precondition for that title branch: after [[YuanShu|袁术]] declares himself emperor, Sun Ce is listed among the powers with reason to oppose him. The source does not narrate Sun Ce's campaign in this episode, but it places him inside the [[AntiUsurpationCoalitionPressure|讨逆同盟压力]] created by Yuan Shu's claim.
-
-The episode also gives Sun Ce an active local-security role. When [[ChenYuWuCommandery|陈瑀]] plans to strike him by coordinating with figures such as Zu Lang and Yan Baihu, Sun Ce detects the danger first and sends Lu Fan to attack Chen Yu at Haixi. Chen Yu's defeat and flight make Sun Ce part of the source's broader late-Han lesson about reading momentum and acting before a coalition against him solidifies.
-
-[[zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto|Hanji 1029]] gives the full positive trust case behind the later Hanji 1030 contrast. After [[LiuYaoLateHan|刘繇]] dies, Sun Ce sends [[TaishiCi|太史慈]] to reassure Liu Yao's remaining soldiers and inspect [[YuzhangCommandery|豫章郡]]. Even when advisers warn that Taishi Ci may not return, Sun Ce reads him as a promise-keeping man who has found a true知己; Taishi Ci returns inside the agreed sixty days and reports that [[HuaXin|华歆]] lacks control over [[TongZhiLateHan|僮芝]] at [[LulingLateHan|庐陵]] and [[PanyangLocalForces|番阳民帅]] near [[HaihunLateHan|海昏]].
-
-[[zizhi-tongjian-hanji-1030-shouwo-hao-pai-gongsunzan-weihe-da-de-xilan-lpkntyov4viqyzgxgcujn36qhv8|Hanji 1030]] then uses Sun Ce as a positive contrast before returning to Gongsun Zan. The source says Sun Ce understands Taishi Ci as someone who values promises and will not betray a true知己, so he can trust and employ him. In the episode's structure, Sun Ce's talent trust contrasts with Gongsun Zan's rescue-trust collapse at Yijing.
-
-[[zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq|Hanji 1017]] mentions Sun Ce only as strategic pressure. The source says [[ChenDeng|陈登]]'s [[GuanglingCommandery|广陵]] base becomes a barrier against Sun Ce's northward movement, but it does not develop Sun Ce's own actions in that branch.
-
-## Connections
-- [[zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r|Hanji 969]], [[YangzhouLateHan|扬州]], [[ChenYuWuCommandery|陈瑀]], [[DanyangCommandery|丹阳郡]], [[KuaijiCommandery|会稽郡]], and [[YuzhangCommandery|豫章郡]] - pre-Jiangdong strategic-geography setup.
-- [[zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1|Hanji 982]], [[LadyWuSunJian|吴夫人]], [[QiantangWuClan|钱塘吴氏]], [[WuJingLateHan|吴景]], [[ZhouYuLateHan|周瑜]], and [[KinshipResourceStateBuilding|姻亲资源建构]] - pre-Yuan-Shu kinship, local-resource, and friendship setup.
-- [[zizhi-tongjian-hanji-983-zhi-hui-pianren-de-laoban-yongyuan-bushi-hao-laoban-lknr2zydwjytjo7od-rt3zi-4k-s|Hanji 983]], [[ZhangHongLateHan|张纮]], [[WuJingLateHan|吴景]], [[SunBenLateHan|孙贲]], [[LuKangLateHan|陆康]], [[LujiangCommandery|庐江郡]], and [[PromiseCredibilityTalentRetention|承诺信用与人才流失]] - family-trust setup, Danyang recruitment, and Yuan Shu's broken office promises.
-- [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz|Hanji 992]], [[ZhuZhiLateHan|朱治]], [[WuJingLateHan|吴景]], [[ZhouYuLateHan|周瑜]], [[ZhouShangLateHan|周尚]], [[DanyangCommandery|丹阳郡]], [[LiyangLateHan|历阳]], and [[HengjiangLateHan|横江]] - departure from Yuan Shu, family pretext, support network, and first Jiangdong crossing threshold.
-- [[zizhi-tongjian-hanji-993-shentingling-zhizhan-sunce-dazhan-taishici-lrivpk7col2l7k-s4dqzxxp2kqp1|Hanji 993]], [[TaishiCi|太史慈]], [[ShentinglingBattle|神亭岭之战]], [[HanDang|韩当]], [[HuangGai|黄盖]], [[PeopleBasedPoliticalSecurity|民心型政治安全]], and [[OccupationPacificationStrategy|占领区怀柔治理]] - Jiangdong discipline, Shenting encounter, and lenient recruitment branch.
-- [[zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x|Hanji 1028]], [[SunQuan|孙权]], [[SunYiLateHan|孙翊]], [[ZuLangLateHan|祖郎]], [[Shanyue|山越]], [[LuSu|鲁肃]], [[WangLangLateHan|王朗]], and [[CapturedOpponentTalentIncorporation|降敌任用式立威]] - title recognition, hostage-like court-service pressure, Yuan Shu proxy resistance, and captured-opponent incorporation.
-- [[zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto|Hanji 1029]], [[TaishiCi|太史慈]], [[HuaXin|华歆]], [[TongZhiLateHan|僮芝]], [[LulingLateHan|庐陵]], [[PanyangLocalForces|番阳民帅]], [[HaihunLateHan|海昏]], and [[CharacterReadingDelegationTrust|识人授权信任]] - promise-based delegation and Yuzhang intelligence.
-- [[zizhi-tongjian-hanji-1030-shouwo-hao-pai-gongsunzan-weihe-da-de-xilan-lpkntyov4viqyzgxgcujn36qhv8|Hanji 1030]] and [[TaishiCi|太史慈]] - opening trust-and-personnel contrast against Gongsun Zan's endgame.
-- [[LuFan|吕范]], [[ZhangZhaoLateHan|张昭]], [[ZhangHongLateHan|张纮]], [[QinSongLateHan|秦松]], [[ChenDuanLateHan|陈端]], [[OperationalGapOwnership|主动补组织短板]], and [[SubordinateSuccessNonJealousy|下属成就不嫉妒]] - Hanji 994 organization-building, discipline, talent, and anti-jealousy branch.
-- [[zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k|Hanji 995]], [[LiuYaoLateHan|刘繇]], [[XuShao|许劭]], [[KuaijiCommandery|会稽郡]], and [[YuzhangCommandery|豫章郡]] - earlier Sun Ce pressure behind Liu Yao's route choice.
-- [[SunJingLateHan|孙静]], [[YuFan|虞翻]], [[WangLangLateHan|王朗]], and [[LeaderPersonalExposure|领导者轻身涉险]] - Hanji 1004-1005 Kuaiji takeover, surprise maneuver, and personal-risk warning.
-- [[CaoCao|曹操]] and [[EmperorXianOfHan|汉献帝]] - source of the title and legitimacy package.
-- [[YuanShu|袁术]], [[EmperorXianOfHan|汉献帝]], [[AntiUsurpationCoalitionPressure|讨逆同盟压力]], and [[MoralizedWarPretext|道德化战争借口]] - Hanji 1002 warning/break branch and Hanji 1015 usurpation-response branch.
-- [[KuaijiCommandery|会稽郡]] - commandery governorship attached to Sun Ce in the episode.
-- [[SunJianLateHan|孙坚]] - father whose title Sun Ce inherits.
-- [[ChenYuWuCommandery|陈瑀]] - local opponent whom Sun Ce preempts.
-- [[GuanglingCommandery|广陵]] and [[ChenDeng|陈登]] - Hanji 1017 source-scoped northern-pressure branch.
+## Relationships
+- [[YuanShu|袁术]] - early patron whose broken promises and imperial claim enable Sun Ce's autonomy.
+- [[ZhouYuLateHan|周瑜]] - early ally whose troops, grain, boats, and funds materially support Sun Ce's launch.
+- [[TaishiCi|太史慈]] - captured opponent and trusted delegate who proves Sun Ce's character-reading capacity.
+- [[HuaXin|华歆]] - Yuzhang administrator whose surrender Sun Ce accepts.
+- [[LadyWuSunJian|吴夫人]] - maternal authority who corrects Sun Ce's punitive excess.
+- [[CapturedOpponentTalentIncorporation|降敌任用式立威]] - pattern Sun Ce uses to turn victory into legitimacy.
+- [[LeaderPersonalExposure|领导者轻身涉险]] - recurring risk in Sun Ce's personal conduct.

@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1483
+topic_total_pages: 1484
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -2258,6 +2258,9 @@ topic_entities:
   - key: "KongXi"
     title: "孔熙 / Kong Xi"
     url: "/wiki/entities/kongxi/"
+  - key: "SunShengEasternJin"
+    title: "孙胜 / Sun Sheng (Eastern Jin)"
+    url: "/wiki/entities/sunshengeasternjin/"
   - key: "SunBin"
     title: "孙膑 / Sun Bin"
     url: "/wiki/entities/sunbin/"

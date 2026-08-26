@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 7729
+wiki_total_pages: 7734
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -272,6 +272,9 @@ wiki_pages:
   - key: "Xiaodai"
     title: "小黛"
     url: "/wiki/entities/xiaodai/"
+  - key: "XuTaLateHan"
+    title: "徐他 / Xu Ta (late Han)"
+    url: "/wiki/entities/xutalatehan/"
   - key: "XuGuangqi"
     title: "徐光启 / Xu Guangqi"
     url: "/wiki/entities/xuguangqi/"
@@ -296,6 +299,9 @@ wiki_pages:
   - key: "XuWuMountain"
     title: "徐无山 / Xu Wu Mountain"
     url: "/wiki/entities/xuwumountain/"
+  - key: "XuZhaoLateHan"
+    title: "徐昭 / Xu Zhao (late Han)"
+    url: "/wiki/entities/xuzhaolatehan/"
   - key: "XuTao"
     title: "徐涛"
     url: "/wiki/entities/xutao/"

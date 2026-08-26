@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 5528
+wiki_total_pages: 5530
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -560,6 +560,9 @@ wiki_pages:
   - key: "ForagingEthics"
     title: "Foraging Ethics"
     url: "/wiki/concepts/foragingethics/"
+  - key: "ForceBackedSurrenderPersuasion"
+    title: "Force-Backed Surrender Persuasion / 武力背书式劝降"
+    url: "/wiki/concepts/forcebackedsurrenderpersuasion/"
   - key: "ForcedRefugeeReturn"
     title: "Forced Refugee Return"
     url: "/wiki/concepts/forcedrefugeereturn/"

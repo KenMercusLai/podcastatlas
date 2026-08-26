@@ -11672,6 +11672,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-26] ingest | 《资治通鉴·汉纪》1039丨东吴第一嘴炮？且看他如何劝降华歆
+
+Added source page for Hanji 1039: Yu Fan's force-backed persuasion of Hua Xin, Hua Xin's contested surrender of Yuzhang, Sun Ce's Luling split and Sun-family appointments, Lady Wu's rescue of Wei Teng, Xu Zhao's selective-leniency case, Yan Baihu's flight, and Xu Chu's prevention of Xu Ta's insider plot against Cao Cao. Created Sun Fu, Sun Sheng, Wei Teng, Xu Zhao, Xu Ta, Force-Backed Surrender Persuasion, and Surrender as Civilian-Protection Tradeoff; updated related Sun Ce, Hua Xin, Yu Fan, Lady Wu, Yuzhang, Luling, Sun Ben, Tong Zhi, Yan Baihu, Xu Chu, and Personal Guard Attack Surface pages. No settled contradiction found; the transcript's 于藩 form is normalized to Yu Fan / 虞翻 and Hua Xin's motive remains source-scoped.
+
 ## [2026-08-26] ingest | 腾讯、阿里、字节争夺打工人，互联网大厂为何集体加码 AI 办公？
 
 Added source page for a 声动早咖啡 episode on Tencent, Alibaba, and ByteDance concentrating on AI office after consumer chatbot promotion. Created Doubao Work; migrated AI Office Agent and Tencent WorkBuddy to synthesis-v1; updated index, overview, and generated synthesis artifacts. No direct contradiction found; WorkBuddy/WorkBody naming and reported revenue, DAU, token-cost, and financing figures remain source-scoped.
@@ -12013,6 +12017,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》1040丨乱世英雄，曹操为何独独看好刘备？
 
 Added source page for Hanji 1040: Cao Cao's "天下英雄" judgment of Liu Bei inside the Dong Cheng/Yidai Zhao plot, Liu Bei's chopsticks-and-thunder composure, Cao Cao's disputed release of Liu Bei to intercept Yuan Shu, Liu Bei's killing of Che Zhou and recovery of Xuzhou, and the failed first Cao-side counterattack by Liu Dai and Wang Zhong. Created disambiguated pages for Che Zhou, Zhu Ling, Liu Dai, Wang Zhong, Chang Xi, Wang Fu, Zhong Ji, Wu Zilan, Clothes Belt Edict, Latent Rival Recognition, Crisis Composure Cover Story, and Dangerous Guest Release Risk. No settled contradiction found; transcript-normalized names and the Liu Dai identity split remain source-scoped.
+
+## [2026-08-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-26] lint | Wiki health check
 
