@@ -6516,6 +6516,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/modelinfracodesign/"
     },
+    "MoralDesertPoliticalOutcomeGap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》889丨为什么好人不长命，祸害遗千年？ [lt_G7qgkCF-fHy3XcCECJaGWQHku].md",
+          "key": "zizhi-tongjian-hanji-889-weishenme-haoren-bu-changming-huohai-yi-qiannian-lt-g7qgkcf-fhy3xccecjagwqhku",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》889丨为什么好人不长命，祸害遗千年？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-889-weishenme-haoren-bu-changming-huohai-yi-qiannian-lt-g7qgkcf-fhy3xccecjagwqhku/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/moraldesertpoliticaloutcomegap/"
+    },
     "MultiTeacherDistillation": {
       "episode_count": 2,
       "show_count": 2,
@@ -10114,9 +10130,9 @@
       "url": "/wiki/entities/zangbalatehan/"
     },
     "ZhangHuanLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》902丨控制情绪是人生必修课 [ljYNYlVdLSDTjF4ES9jmIlAV863b].md",
@@ -10131,6 +10147,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》890丨想当官先学对付“小人”",
           "url": "/wiki/sources/zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》889丨为什么好人不长命，祸害遗千年？ [lt_G7qgkCF-fHy3XcCECJaGWQHku].md",
+          "key": "zizhi-tongjian-hanji-889-weishenme-haoren-bu-changming-huohai-yi-qiannian-lt-g7qgkcf-fhy3xccecjagwqhku",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》889丨为什么好人不长命，祸害遗千年？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-889-weishenme-haoren-bu-changming-huohai-yi-qiannian-lt-g7qgkcf-fhy3xccecjagwqhku/"
         }
       ],
       "updated": "2026-08-27",

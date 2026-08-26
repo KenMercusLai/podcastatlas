@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1918
+topic_total_pages: 1919
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -1660,6 +1660,9 @@ topic_concepts:
   - key: "ModerationAsPoliticalSurvival"
     title: "Moderation As Political Survival / 中庸圆滑政治生存"
     url: "/wiki/concepts/moderationaspoliticalsurvival/"
+  - key: "MoralDesertPoliticalOutcomeGap"
+    title: "Moral Desert Political Outcome Gap / 善恶报应与政治结果错位"
+    url: "/wiki/concepts/moraldesertpoliticaloutcomegap/"
   - key: "MoralDisengagementRationalization"
     title: "Moral Disengagement Rationalization / 道德推脱式自我合理化"
     url: "/wiki/concepts/moraldisengagementrationalization/"

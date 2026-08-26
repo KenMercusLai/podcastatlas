@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 5609
+wiki_total_pages: 5610
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -794,6 +794,9 @@ wiki_pages:
   - key: "MoralCostOfEffectiveRescue"
     title: "Moral Cost of Effective Rescue / 成事的道德代价"
     url: "/wiki/concepts/moralcostofeffectiverescue/"
+  - key: "MoralDesertPoliticalOutcomeGap"
+    title: "Moral Desert Political Outcome Gap / 善恶报应与政治结果错位"
+    url: "/wiki/concepts/moraldesertpoliticaloutcomegap/"
   - key: "MoralDisengagementRationalization"
     title: "Moral Disengagement Rationalization / 道德推脱式自我合理化"
     url: "/wiki/concepts/moraldisengagementrationalization/"

@@ -38253,6 +38253,18 @@
       "url": "/topics/history/"
     }
   ],
+  "MoralDesertPoliticalOutcomeGap": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "MoralDisengagementRationalization": [
     {
       "key": "politics",

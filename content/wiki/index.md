@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》889丨为什么好人不长命，祸害遗千年？](sources/zizhi-tongjian-hanji-889-weishenme-haoren-bu-changming-huohai-yi-qiannian-lt-g7qgkcf-fhy3xccecjagwqhku.md) — 芮淇讲透资治通鉴 episode on moral-outcome mismatch after the 169 CE anti-eunuch coup, Zhang Huan's refusal of compromised reward, Emperor Ling's Dong-family elevation, omen-triggered memorial, and eunuch-blocked repair for Dou Wu, Chen Fan, and Dou Miao.
 - [《资治通鉴·汉纪》890丨想当官先学对付“小人”](sources/zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis.md) — 芮淇讲透资治通鉴 episode on 169 CE remonstrance under eunuch pressure, contrasting Zhang Huan and Xie Bi's direct memorials with Yang Ci's oblique snake-omen answer and survival-first strategy.
 - [《资治通鉴·汉纪》891丨高段位的母亲，是家的定海神针](sources/zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5.md) — 芮淇讲透资治通鉴 episode on parental repair after anger, embodied parenting, 169 CE office churn, Duan Jiong's rejection of a surrender-first Qiang policy, and the silent night encirclement before Hanji 892.
 - [EP 46: Fix the Foundation First: Why Your Data Strategy Is Failing Before the AI Gets Involved](sources/ep-46-fix-the-foundation-first-why-your-data-strategy-is-failing-before-the-ai-gets-involved.md) — Data Science With Sam episode with Elan on Paradox Machines, data foundations, mid-market data-team economics, AI readiness, and data sovereignty.
@@ -1660,7 +1661,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [冯贵人 / Feng Guiren (late Han)](entities/FengGuirenLateHan.md) — Imperial consort proposed as an alternative burial figure to Empress Dowager Dou in Hanji 901, mainly as a ritual-claim contrast.
 - [The Metamorphosis / Kafka's 《变形记》](entities/TheMetamorphosisKafka.md) — Kafka work used in Hanji 901 to illustrate anxious self-importance and impatience; distinct from Ovid's Metamorphoses.
 - [刘猛 / Liu Meng (late Han)](entities/LiuMengLateHan.md) — Sili xiaowei who treats the Zhuque Gate anti-eunuch accusation as substantially true, does not pursue the anonymous speaker aggressively, and is punished after Duan Jiong takes over.
-- [张奂 / Zhang Huan (late Han)](entities/ZhangHuanLateHan.md) — Late-Han official whose direct 169 CE pro-Dou/Chen remonstrance and later humbled survival under Duan Jiong show both exposure and preserved agency.
+- [张奂 / Zhang Huan (late Han)](entities/ZhangHuanLateHan.md) — Late-Han official whose post-coup guilt, refused reward, direct pro-Dou/Chen remonstrance, and later humbled survival under Duan Jiong show both exposure and preserved agency.
 - [王寓 / Wang Yu (late Han)](entities/WangYuLateHan.md) — Former sili xiaowei whose refused recommendation request becomes a personal-grudge accusation against Zhang Huan; distinct from Wang Yu / 汪玉.
 - [苏谦 / Su Qian (late Han)](entities/SuQianLateHan.md) — Father of Su Buwei whose attempted complaint against Li Hao becomes the killing that launches Su Buwei's filial revenge.
 - [苏不韦 / Su Buwei (late Han)](entities/SuBuweiLateHan.md) — Late-Han avenger whose tunnel attack against Li Hao begins a revenge spiral that escalates into tomb desecration and the extermination of his household under Duan Jiong.
@@ -9391,6 +9392,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Moral Desert Political Outcome Gap / 善恶报应与政治结果错位](concepts/MoralDesertPoliticalOutcomeGap.md) — Hanji 889 frame where virtue and harm do not reliably map to survival, reward, or punishment, requiring political mechanism analysis without erasing moral judgment.
 - [Oblique Remonstrance Self-Protection / 迂回进谏自保](concepts/ObliqueRemonstranceSelfProtection.md) — Hanji 890 pattern where an adviser preserves corrective speech by changing the angle, target, and risk surface of criticism.
 - [Parental Repair After Harm / 父母伤害后的修复](concepts/ParentalRepairAfterHarm.md) — Hanji 891 parenting practice of naming harm, apologizing, rejecting hitting/scolding as problem-solving, and asking the child what happened.
 - [Parental Embodied Modeling / 身教型家庭教育](concepts/ParentalEmbodiedModeling.md) — Family-education frame where adult routines, emotional steadiness, sleep, order, and repair teach children more than instruction alone.

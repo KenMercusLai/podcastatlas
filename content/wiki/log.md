@@ -12294,3 +12294,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-27] ingest | 《资治通鉴·汉纪》889丨为什么好人不长命，祸害遗千年？
+
+Added source page for Hanji 889: the moral-outcome mismatch after the failed anti-eunuch coup, Zhang Huan's refusal of a compromised marquisate, Emperor Ling's elevation of his birth-family Dong line, an omen-triggered memorial for Dou Wu and Chen Fan, and eunuch-blocked repair for Empress Dowager Dou. Created Moral Desert Political Outcome Gap and updated Zhang Huan's synthesis profile. No settled contradiction found; the source backfills Hanji 890's direct remonstrance setup while preserving transcript-normalization cautions.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1493
+topic_total_pages: 1494
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -598,6 +598,9 @@ topic_concepts:
   - key: "MoralCostOfEffectiveRescue"
     title: "Moral Cost of Effective Rescue / 成事的道德代价"
     url: "/wiki/concepts/moralcostofeffectiverescue/"
+  - key: "MoralDesertPoliticalOutcomeGap"
+    title: "Moral Desert Political Outcome Gap / 善恶报应与政治结果错位"
+    url: "/wiki/concepts/moraldesertpoliticaloutcomegap/"
   - key: "MoralFaceUnderPowerCompetition"
     title: "Moral Face Under Power Competition / 权力竞争中的要脸"
     url: "/wiki/concepts/moralfaceunderpowercompetition/"
