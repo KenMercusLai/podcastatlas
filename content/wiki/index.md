@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [一个中国 FDE 的光环、落差与「救火」日常｜S10E27](sources/yi-ge-zhongguo-fde-de-guanghuan-luocha-yu-jiuhuo-richang-s10e27-587619bb-62c2-485d-9f27-f0be0115a986.md) — What's Next episode with Shen Yue on Chinese FDE work as vendor-side coordination, business-access negotiation, MVP rescue, data cleanup, and ROI/accuracy expectation management.
 - [Can Meta Finally Make Smart Glasses Cool?](sources/tech-20260826-0826-mp-tech-pod-128-tech-20260826-0826-mp-tech-pod-128.md) — Marketplace Tech episode with Carrie Batten on Meta's smart-glasses fashion push, creator gifting, hands-free use cases, and bystander privacy friction.
 - [152. 领读Kimi K3技术报告：从架构创新聊起，注意力美学、多教师蒸馏和开源MoE](sources/152-lingdu-kimi-k3-jishu-baogao-cong-jiagou-chuangxin-liaoqi-zhuyili-meixue-duojiaoshi-zhengliu-he-kaiyuan-moe-lrvngxoafcz7vzh8hywulkwnb6n6.md) — 张小珺Jùn technical-report reading with Sun Yutao on Kimi K3's 2.8T/100B-active MoE scale, KDA lineage, Latent MoE, quantile balancing, NoPE, multi-teacher distillation, and model-infra co-design.
 - [Episode 20: 100 年前东北女孩写给巴黎的信｜对谈历史学者李纪：普通人如何穿过大历史？](sources/100-nian-qian-dongbei-nvhai-xie-gei-bali-de-xin-duitan-lishixuezhe-liji-putongren-ruhe-chuanguo-da-lishi-3d36f181-94ad-4883-8db3-5f040b5ed45b.md) — Fuyou Tiandi episode with historian Li Ji on Northeast Catholic mission villages, three Du-family girls' letters to Paris, missionary maps and archives, ordinary people's historical visibility, and historical judgment against one-line labels.
@@ -1514,6 +1515,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Shen Yue / 申越](entities/ShenYueFDE.md) — AI trainer and enterprise AI consultant whose What's Next S10E27 field account grounds Chinese FDE work in vendor-side coordination, business-access negotiation, and project rescue.
 - [Carrie Batten](entities/CarrieBatten.md) — New York Magazine contributor whose Marketplace Tech interview frames Meta smart glasses as fashion, creator distribution, and bystander privacy problem.
 - [New York Magazine](entities/NewYorkMagazine.md) — Publication context for Carrie Batten's reporting on Meta smart glasses, gendered marketing, and privacy stigma.
 - [Oakley](entities/Oakley.md) — Eyewear and sports-fashion brand used as Meta's activity-coded smart-glasses collaboration in the source.

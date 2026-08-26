@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 7759
+wiki_total_pages: 7760
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -497,6 +497,9 @@ wiki_pages:
   - key: "ShenNanpeng"
     title: "Shen Nanpeng"
     url: "/wiki/entities/shennanpeng/"
+  - key: "ShenYueFDE"
+    title: "Shen Yue / 申越"
+    url: "/wiki/entities/shenyuefde/"
   - key: "ShengpaiNotice"
     title: "Shengpai Notice"
     url: "/wiki/entities/shengpainotice/"

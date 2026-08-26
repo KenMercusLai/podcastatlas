@@ -859,6 +859,50 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/chenshilatehan/"
     },
+    "ChineseStyleFDE": {
+      "episode_count": 5,
+      "show_count": 4,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "E248｜一个“催发货”AI要跑通260步，和阿里瓴羊朋新宇聊聊中国式FDE [9e923c4c-1c87-499b-90a4-9a21cc83e4b1].md",
+          "key": "e248-yi-ge-cui-fahuo-ai-yao-paotong-260-bu-he-ali-lingyang-pengxinyu-liaoliao-zhongguoshi-fde-9e923c4c-1c87-499b-90a4-9a21cc83e4b1",
+          "show": "硅谷101",
+          "title": "E248｜一个“催发货”AI要跑通260步，和阿里瓴羊彭新宇聊聊中国式FDE",
+          "url": "/wiki/sources/e248-yi-ge-cui-fahuo-ai-yao-paotong-260-bu-he-ali-lingyang-pengxinyu-liaoliao-zhongguoshi-fde-9e923c4c-1c87-499b-90a4-9a21cc83e4b1/"
+        },
+        {
+          "episode_file": "EP128 从 Palantir 到 OpenAI：FDE 会成为 AI 时代最重要的新岗位？ 🧬 [ltozkUtZ_GVff4xu-fEYzflHVZ2U].md",
+          "key": "ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u",
+          "show": "硬地骇客",
+          "title": "EP128 从 Palantir 到 OpenAI：FDE 会成为 AI 时代最重要的新岗位？ 🧬",
+          "url": "/wiki/sources/ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u/"
+        },
+        {
+          "episode_file": "E240｜OpenAI联手PE砸下40亿美元，聊聊硅谷最火新职位FDE [47b7778e-1ed6-4dab-b7c9-8b4a6555b867].md",
+          "key": "e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde",
+          "show": "硅谷101",
+          "title": "E240｜OpenAI联手PE砸下40亿美元，聊聊硅谷最火新职位FDE",
+          "url": "/wiki/sources/e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde/"
+        },
+        {
+          "episode_file": "AI冲击企业软件巨头？与SAP原欣聊大模型to B的颠覆与边界 (1) [174-1].md",
+          "key": "ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1",
+          "show": "晚点聊 LateTalk",
+          "title": "174: AI冲击企业软件巨头？与SAP原欣聊大模型to B的颠覆与边界",
+          "url": "/wiki/sources/ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1/"
+        },
+        {
+          "episode_file": "一个中国 FDE 的光环、落差与「救火」日常 ｜ S10E27 [587619bb-62c2-485d-9f27-f0be0115a986].md",
+          "key": "yi-ge-zhongguo-fde-de-guanghuan-luocha-yu-jiuhuo-richang-s10e27-587619bb-62c2-485d-9f27-f0be0115a986",
+          "show": "What's Next｜科技早知道",
+          "title": "一个中国 FDE 的光环、落差与「救火」日常｜S10E27",
+          "url": "/wiki/sources/yi-ge-zhongguo-fde-de-guanghuan-luocha-yu-jiuhuo-richang-s10e27-587619bb-62c2-485d-9f27-f0be0115a986/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/chinesestylefde/"
+    },
     "ConsortioGroupFinancing": {
       "episode_count": 1,
       "show_count": 1,
@@ -1255,6 +1299,78 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/fortresssecurityillusion/"
+    },
+    "ForwardDeployedEngineer": {
+      "episode_count": 9,
+      "show_count": 6,
+      "source_note_count": 9,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Mark Cuban on the AI Bubble： Who Actually Gets Wiped Out？ [42155640].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-mark-cuban-on-the-ai-bubble-who-actually-gets-wiped-out-42155640",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Mark Cuban on the AI Bubble: Who Actually Gets Wiped Out?",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-mark-cuban-on-the-ai-bubble-who-actually-gets-wiped-out-42155640/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source？, Trump Accounts [42041390].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source?, Trump Accounts",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390/"
+        },
+        {
+          "episode_file": "高手怎么用 AI？普通人怎么学 AI？投资人如何投 AI？｜对谈课代表立正 [ljQYo4tz0o2-pmSl-Mjx6UmsuzsC].md",
+          "key": "gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc",
+          "show": "十字路口Crossing",
+          "title": "高手怎么用 AI？普通人怎么学 AI？投资人如何投 AI？｜对谈课代表立正",
+          "url": "/wiki/sources/gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc/"
+        },
+        {
+          "episode_file": "OpenAI 和 Anthropic 共同看好的 FDE：AI 时代的新岗位出现，旧分工松动｜对谈 Rolling AI [ljlaTRJiMRLNBe_LUqmAt0C74Xo6].md",
+          "key": "openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6",
+          "show": "十字路口Crossing",
+          "title": "OpenAI 和 Anthropic 共同看好的 FDE：AI 时代的新岗位出现，旧分工松动｜对谈 Rolling AI",
+          "url": "/wiki/sources/openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6/"
+        },
+        {
+          "episode_file": "E240｜OpenAI联手PE砸下40亿美元，聊聊硅谷最火新职位FDE [47b7778e-1ed6-4dab-b7c9-8b4a6555b867].md",
+          "key": "e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde",
+          "show": "硅谷101",
+          "title": "E240｜OpenAI联手PE砸下40亿美元，聊聊硅谷最火新职位FDE",
+          "url": "/wiki/sources/e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde/"
+        },
+        {
+          "episode_file": "EP128 从 Palantir 到 OpenAI：FDE 会成为 AI 时代最重要的新岗位？ 🧬 [ltozkUtZ_GVff4xu-fEYzflHVZ2U].md",
+          "key": "ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u",
+          "show": "硬地骇客",
+          "title": "EP128 从 Palantir 到 OpenAI：FDE 会成为 AI 时代最重要的新岗位？ 🧬",
+          "url": "/wiki/sources/ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u/"
+        },
+        {
+          "episode_file": "AI冲击企业软件巨头？与SAP原欣聊大模型to B的颠覆与边界 (1) [174-1].md",
+          "key": "ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1",
+          "show": "晚点聊 LateTalk",
+          "title": "174: AI冲击企业软件巨头？与SAP原欣聊大模型to B的颠覆与边界",
+          "url": "/wiki/sources/ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1/"
+        },
+        {
+          "episode_file": "E248｜一个“催发货”AI要跑通260步，和阿里瓴羊朋新宇聊聊中国式FDE [9e923c4c-1c87-499b-90a4-9a21cc83e4b1].md",
+          "key": "e248-yi-ge-cui-fahuo-ai-yao-paotong-260-bu-he-ali-lingyang-pengxinyu-liaoliao-zhongguoshi-fde-9e923c4c-1c87-499b-90a4-9a21cc83e4b1",
+          "show": "硅谷101",
+          "title": "E248｜一个“催发货”AI要跑通260步，和阿里瓴羊彭新宇聊聊中国式FDE",
+          "url": "/wiki/sources/e248-yi-ge-cui-fahuo-ai-yao-paotong-260-bu-he-ali-lingyang-pengxinyu-liaoliao-zhongguoshi-fde-9e923c4c-1c87-499b-90a4-9a21cc83e4b1/"
+        },
+        {
+          "episode_file": "一个中国 FDE 的光环、落差与「救火」日常 ｜ S10E27 [587619bb-62c2-485d-9f27-f0be0115a986].md",
+          "key": "yi-ge-zhongguo-fde-de-guanghuan-luocha-yu-jiuhuo-richang-s10e27-587619bb-62c2-485d-9f27-f0be0115a986",
+          "show": "What's Next｜科技早知道",
+          "title": "一个中国 FDE 的光环、落差与「救火」日常｜S10E27",
+          "url": "/wiki/sources/yi-ge-zhongguo-fde-de-guanghuan-luocha-yu-jiuhuo-richang-s10e27-587619bb-62c2-485d-9f27-f0be0115a986/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/forwarddeployedengineer/"
     },
     "FugitiveShelterCollateralRisk": {
       "episode_count": 1,
@@ -3937,6 +4053,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/santaizicatholicvillage/"
+    },
+    "ShenYueFDE": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "一个中国 FDE 的光环、落差与「救火」日常 ｜ S10E27 [587619bb-62c2-485d-9f27-f0be0115a986].md",
+          "key": "yi-ge-zhongguo-fde-de-guanghuan-luocha-yu-jiuhuo-richang-s10e27-587619bb-62c2-485d-9f27-f0be0115a986",
+          "show": "What's Next｜科技早知道",
+          "title": "一个中国 FDE 的光环、落差与「救火」日常｜S10E27",
+          "url": "/wiki/sources/yi-ge-zhongguo-fde-de-guanghuan-luocha-yu-jiuhuo-richang-s10e27-587619bb-62c2-485d-9f27-f0be0115a986/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/shenyuefde/"
     },
     "ShentuPanLateHan": {
       "episode_count": 2,

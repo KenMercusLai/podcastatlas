@@ -49799,6 +49799,13 @@
       "url": "/topics/history/"
     }
   ],
+  "ShenYueFDE": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "ShenYujun": [
     {
       "key": "technology",
@@ -68668,6 +68675,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "yi-ge-zhongguo-fde-de-guanghuan-luocha-yu-jiuhuo-richang-s10e27-587619bb-62c2-485d-9f27-f0be0115a986": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "yi-ren-gongsi-de-lingyizhong-keneng-ai-fuze-jingying-renlei-fuze-reai-yingwen-fangtan-s10e14-33e95bf5-9dd2-45d7-9b5f-6e05a078f2d7": [

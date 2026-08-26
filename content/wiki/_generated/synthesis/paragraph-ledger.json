@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "9baf78d4abc4af870b525c5c520883b9316ef81d3d2def71b4576c647430b61f",
       "e2dbcfd86d4d842870971df2023efea40b445cb17f22433f137edc058c21d53d",
       "baa8563117c87f0fa06054d580b6c7c44c5428f74779f71a669eeb99a2f47d20",
       "8d6f3161ce308c5fa1672e99fa6cd5e9c59199d70f119267c31b3d0481772e20",
@@ -254,11 +255,38 @@
       "d9074e43b7b103fc0d0097b207bf8018227d6e146ca0eb75638118627687641c",
       "b16a38bd6e190222f7f3e6f0535803ce60ae7f3304e3477dfcdd995a15fb502f"
     ],
-    "paragraph_count": 252
+    "paragraph_count": 253
   },
-  "overview_commit": "e06724e4963c71dcad1f7a652c32288bebab6141",
-  "overview_digest": "4695875f69389630016e8f03421b43bb64288514adbc6f94940cf67bf2d2c15d",
+  "overview_commit": "5321df55eefbad54aee4868992e9c9e86ed04cb2",
+  "overview_digest": "8914f823c61f2aa53536c6a568a8c5c379217ce835b5d737a3db34138b11bc97",
   "paragraphs": [
+    {
+      "id": "9baf78d4abc4af870b525c5c520883b9316ef81d3d2def71b4576c647430b61f",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "ai-and-technology"
+      ],
+      "text": "The latest addition is [[yi-ge-zhongguo-fde-de-guanghuan-luocha-yu-jiuhuo-richang-s10e27-587619bb-62c2-485d-9f27-f0be0115a986]], a [[WhatsNextKejiZaozhidao|What's Next｜科技早知道]] episode with [[ShenYueFDE|申越]] on front-line Chinese FDE work. It adds [[ShenYueFDE]], while extending [[ForwardDeployedEngineer]], [[ChineseStyleFDE]], [[BusinessLedAITransformation]], [[EnterpriseAIPilotPurgatory]], [[EnterpriseAIROIAudit]], [[AIDataReadiness]], [[RetrievalAugmentedGeneration]], and [[AIWorkflowTriage]]. Its core synthesis is that FDE hype only becomes enterprise AI value when customer-side authority, business-team access, data and document preparation, acceptance criteria, and production reliability exist; without them, a plausible AI platform project can collapse into demos, refund risk, and vendor-side firefighting. No settled contradiction is recorded; the source qualifies more glamorous FDE narratives with low-status vendor coordination, state-owned enterprise ownership ambiguity, private-company ROI pressure, and model-accuracy limits.",
+      "topic_scores": {
+        "ai-and-technology": 2,
+        "business-and-markets": 3,
+        "governance-and-institutions": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AIDataReadiness",
+        "AIWorkflowTriage",
+        "BusinessLedAITransformation",
+        "ChineseStyleFDE",
+        "EnterpriseAIPilotPurgatory",
+        "EnterpriseAIROIAudit",
+        "ForwardDeployedEngineer",
+        "RetrievalAugmentedGeneration",
+        "ShenYueFDE",
+        "WhatsNextKejiZaozhidao",
+        "yi-ge-zhongguo-fde-de-guanghuan-luocha-yu-jiuhuo-richang-s10e27-587619bb-62c2-485d-9f27-f0be0115a986"
+      ]
+    },
     {
       "id": "e2dbcfd86d4d842870971df2023efea40b445cb17f22433f137edc058c21d53d",
       "primary_topic": "business-and-markets",

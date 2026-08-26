@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2447
+topic_total_pages: 2449
 topic_concepts:
   - key: "AcademicAIResearchRole"
     title: "Academic AI Research Role"
@@ -5441,6 +5441,9 @@ topic_entities:
   - key: "Sheet0"
     title: "Sheet0"
     url: "/wiki/entities/sheet0/"
+  - key: "ShenYueFDE"
+    title: "Shen Yue / 申越"
+    url: "/wiki/entities/shenyuefde/"
   - key: "Shenzhen"
     title: "Shenzhen / 深圳"
     url: "/wiki/entities/shenzhen/"
@@ -7185,6 +7188,9 @@ topic_sources:
   - key: "yige-ai-chuangshiren-de-xurongxin-zhuang-he-yumei-zhidian-duitan-invoko-ai-chuangshiren-mengqi-lsi79o-z19zplvmqdbpzzneogpk3f"
     title: "一个 AI 创始人的虚荣心、装，和愚昧之巅｜对谈 invoko.ai 创始人梦琪"
     url: "/wiki/sources/yige-ai-chuangshiren-de-xurongxin-zhuang-he-yumei-zhidian-duitan-invoko-ai-chuangshiren-mengqi-lsi79o-z19zplvmqdbpzzneogpk3f/"
+  - key: "yi-ge-zhongguo-fde-de-guanghuan-luocha-yu-jiuhuo-richang-s10e27-587619bb-62c2-485d-9f27-f0be0115a986"
+    title: "一个中国 FDE 的光环、落差与「救火」日常｜S10E27"
+    url: "/wiki/sources/yi-ge-zhongguo-fde-de-guanghuan-luocha-yu-jiuhuo-richang-s10e27-587619bb-62c2-485d-9f27-f0be0115a986/"
   - key: "yi-ren-gongsi-de-lingyizhong-keneng-ai-fuze-jingying-renlei-fuze-reai-yingwen-fangtan-s10e14-33e95bf5-9dd2-45d7-9b5f-6e05a078f2d7"
     title: "一人公司的另一种可能：AI 负责经营，人类负责热爱｜英文访谈 S10E14"
     url: "/wiki/sources/yi-ren-gongsi-de-lingyizhong-keneng-ai-fuze-jingying-renlei-fuze-reai-yingwen-fangtan-s10e14-33e95bf5-9dd2-45d7-9b5f-6e05a078f2d7/"
