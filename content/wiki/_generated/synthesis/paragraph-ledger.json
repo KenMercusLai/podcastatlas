@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "08e9e438e40918d3a19ca7da2690c490428c5bd254df490c89e74304af0569d4",
       "68639998e00d8dc008789ff62087e5df0174d198c430028997e19ee6b49bad5c",
       "e9167ce1beebc3cb36e023f645490831481f79fb4f49ad03eff1807160a12ba3",
       "64f4e7e02b7db9d71f22ae6dc96503f17ab9d4b7266a173a340b072ff08fed49",
@@ -243,11 +244,45 @@
       "d9074e43b7b103fc0d0097b207bf8018227d6e146ca0eb75638118627687641c",
       "b16a38bd6e190222f7f3e6f0535803ce60ae7f3304e3477dfcdd995a15fb502f"
     ],
-    "paragraph_count": 241
+    "paragraph_count": 242
   },
-  "overview_commit": "d3bfea7d542e46aaa1caa7983440c47ccb4f727f",
-  "overview_digest": "ebe70b86330757934ba55d97d4cea711f6b3d4fa375f8874aa704127e8542164",
+  "overview_commit": "c51610a9a9dbd77510c678127db006a8ddd97470",
+  "overview_digest": "c0e777abe8e8c4c63f3e306a0f679d1c4aa997b4495d29deacbf6089c28aa765",
   "paragraphs": [
+    {
+      "id": "08e9e438e40918d3a19ca7da2690c490428c5bd254df490c89e74304af0569d4",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-897-zhichang-bidu-shenme-cai-jiao-lingdaoli-lvrrmksykazlsb7w8abbdmnqfzqq|《资治通鉴·汉纪》897丨职场必读！什么才叫领导力？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 170 CE late-Han layer before [[zizhi-tongjian-hanji-898-renzei-zuofu-kelian-zhiren-neng-you-duo-huangtang-lgfup6tyv85zhvnmzf6xlesmblcj|Hanji 898]]. It adds [[DongChongLateHan|董宠]], [[MengTuoLateHan|孟陀]], [[GuYongLateHan|谷永]], [[ShuleKingdom|疏勒]], and [[ManufacturedAccessBrokerage|假势通道套利]], while extending [[DuanJiongLateHan|段熲]], [[ZhangRangLateHan|张让]], [[QiaoXuanLateHan|桥玄]], [[LiangzhouLateHan|凉州]], [[EmpressDowagerDongLateHan|董太后]], [[EmperorLingOfHan|汉灵帝]], [[ExchangeableCapability|可交换能力]], [[MilitaryMoraleThroughSharedHardship|同甘共苦式士气]], [[PoliticalSurrenderCascade|招降示范级联]], [[PrivateAccessTalentChannel|私人进身通道]], and [[CourtOfficeCapture|朝廷开府任官失序]]. Its core synthesis is that leadership and access diverge sharply: Duan Jiong's soldiers follow shared hardship, Gu Yong's frontier submission depends on trust, while Dong Chong and Meng Tuo show private invocation and staged access turning office into legitimacy and capability risk. No settled contradiction is recorded; 170 CE/建宁二年 and ASR forms such as 段九/官带 remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 2,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "CourtOfficeCapture",
+        "DongChongLateHan",
+        "DuanJiongLateHan",
+        "EmperorLingOfHan",
+        "EmpressDowagerDongLateHan",
+        "ExchangeableCapability",
+        "GuYongLateHan",
+        "LiangzhouLateHan",
+        "ManufacturedAccessBrokerage",
+        "MengTuoLateHan",
+        "MilitaryMoraleThroughSharedHardship",
+        "PoliticalSurrenderCascade",
+        "PrivateAccessTalentChannel",
+        "QiaoXuanLateHan",
+        "RuiqiJiangtouZizhiTongjian",
+        "ShuleKingdom",
+        "ZhangRangLateHan",
+        "zizhi-tongjian-hanji-897-zhichang-bidu-shenme-cai-jiao-lingdaoli-lvrrmksykazlsb7w8abbdmnqfzqq",
+        "zizhi-tongjian-hanji-898-renzei-zuofu-kelian-zhiren-neng-you-duo-huangtang-lgfup6tyv85zhvnmzf6xlesmblcj"
+      ]
+    },
     {
       "id": "68639998e00d8dc008789ff62087e5df0174d198c430028997e19ee6b49bad5c",
       "primary_topic": "governance-and-institutions",

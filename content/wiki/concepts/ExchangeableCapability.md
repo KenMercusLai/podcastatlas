@@ -2,11 +2,13 @@
 title: "Exchangeable Capability / 可交换能力"
 type: concept
 tags: [personal-development, relationships, capability, strategy]
-sources: [zizhi-tongjian-hanji-905-fugui-ruhe-xianzhong-qiu-lklxx5nquka2mtbllxivk0a7b-fu, zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd]
+sources: [zizhi-tongjian-hanji-897-zhichang-bidu-shenme-cai-jiao-lingdaoli-lvrrmksykazlsb7w8abbdmnqfzqq, zizhi-tongjian-hanji-905-fugui-ruhe-xianzhong-qiu-lklxx5nquka2mtbllxivk0a7b-fu, zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd]
 last_updated: 2026-08-26
 ---
 
 # Exchangeable Capability / 可交换能力
+
+[[zizhi-tongjian-hanji-897-zhichang-bidu-shenme-cai-jiao-lingdaoli-lvrrmksykazlsb7w8abbdmnqfzqq|Hanji 897]] adds the opening "people without value cannot make connections useful" lesson before Hanji 930 names the concept more directly. The source contrasts panic, sudden-wealth desire, and shortcut-seeking with building visible value that can survive contact with real tasks.
 
 [[zizhi-tongjian-hanji-905-fugui-ruhe-xianzhong-qiu-lklxx5nquka2mtbllxivk0a7b-fu|Hanji 905]] adds a pre-Hanji-930 Sun Jian case before the concept is named. Sun Jian's recruitment during the [[XuShengLateHan|许生]] suppression shows capability becoming exchangeable only when risk, visible action, and public recognition line up; the episode treats this as [[CrisisOpportunityConversion|危机机会转化]] rather than as mere luck.
 
@@ -17,6 +19,7 @@ The concept is not a claim that all relationships are crude transactions. In the
 This makes exchangeable capability adjacent to [[MoralReputationPoliticalCapital|道德名望政治资本]] and [[TalentAsStateTreasure|以贤臣为宝]]. The difference is perspective: moral reputation and talent value describe how others use or protect capable people; exchangeable capability describes the personal preparation that makes recognition possible in the first place.
 
 ## Key Claims
+- Hanji 897 adds a negative access test: relationships without value or ability may create appearance but not durable usefulness.
 - Hanji 905 adds that capability may need a crisis setting before others can see it as exchangeable value.
 - Relationships, patrons, and background help only when the person has something real to bring into the exchange.
 - Capability can be ethical, strategic, technical, or martial; it is not limited to money or status.
@@ -25,6 +28,7 @@ This makes exchangeable capability adjacent to [[MoralReputationPoliticalCapital
 - The concept should remain source-scoped as the host's life-advice frame, not as a universal theory that reduces every relationship to calculation.
 
 ## Connections
+- [[zizhi-tongjian-hanji-897-zhichang-bidu-shenme-cai-jiao-lingdaoli-lvrrmksykazlsb7w8abbdmnqfzqq|Hanji 897]], [[DuanJiongLateHan|段熲]], [[MengTuoLateHan|孟陀]], and [[ManufacturedAccessBrokerage|假势通道套利]] - contrast between capability-backed leadership and access theater.
 - [[zizhi-tongjian-hanji-905-fugui-ruhe-xianzhong-qiu-lklxx5nquka2mtbllxivk0a7b-fu|Hanji 905]], [[SunJianLateHan|孙坚]], [[XuShengLateHan|许生]], and [[CrisisOpportunityConversion|危机机会转化]] - early risk-recognition case before the Yellow Turban branch.
 - [[zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd|Hanji 930]], [[GaiXunLateHan|盖勋]], [[ZhuJunLateHan|朱儁]], and [[SunJianLateHan|孙坚]] - source cases.
 - [[MoralReputationPoliticalCapital|道德名望政治资本]] - reputation as a usable form of value.

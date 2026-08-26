@@ -13787,6 +13787,10 @@
     "title": "董承 / Dong Cheng (late Han)",
     "url": "/wiki/entities/dongchenglatehan/"
   },
+  "DongChongLateHan": {
+    "title": "董宠 / Dong Chong (late Han)",
+    "url": "/wiki/entities/dongchonglatehan/"
+  },
   "DongCommandery": {
     "title": "东郡 / Dong Commandery",
     "url": "/wiki/entities/dongcommandery/"
@@ -19826,6 +19830,10 @@
   "GuLong": {
     "title": "古龙 / Gu Long",
     "url": "/wiki/entities/gulong/"
+  },
+  "GuYongLateHan": {
+    "title": "谷永 / Gu Yong (late Han)",
+    "url": "/wiki/entities/guyonglatehan/"
   },
   "GuYongqiang": {
     "title": "古永锵 / Gu Yongqiang",
@@ -29659,6 +29667,10 @@
     "title": "Manual Operations Debt",
     "url": "/wiki/concepts/manualoperationsdebt/"
   },
+  "ManufacturedAccessBrokerage": {
+    "title": "Manufactured Access Brokerage / 假势通道套利",
+    "url": "/wiki/concepts/manufacturedaccessbrokerage/"
+  },
   "ManufacturedPrisonerDilemma": {
     "title": "Manufactured Prisoner Dilemma",
     "url": "/wiki/concepts/manufacturedprisonerdilemma/"
@@ -30758,6 +30770,10 @@
   "MengTongxueFangxuehou": {
     "title": "孟同学（《放学后的小巷》）",
     "url": "/wiki/entities/mengtongxuefangxuehou/"
+  },
+  "MengTuoLateHan": {
+    "title": "孟陀 / Meng Tuo (late Han)",
+    "url": "/wiki/entities/mengtuolatehan/"
   },
   "MengWu": {
     "title": "蒙武 / Meng Wu",
@@ -42146,6 +42162,10 @@
   "ShukeBeta": {
     "title": "舒克贝塔 / Shuke and Beta",
     "url": "/wiki/entities/shukebeta/"
+  },
+  "ShuleKingdom": {
+    "title": "疏勒 / Shule Kingdom",
+    "url": "/wiki/entities/shulekingdom/"
   },
   "ShuliangHe": {
     "title": "叔梁纥",
@@ -57458,6 +57478,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-897-zhichang-bidu-shenme-cai-jiao-lingdaoli-lvrrmksykazlsb7w8abbdmnqfzqq": {
+    "title": "《资治通鉴·汉纪》897丨职场必读！什么才叫领导力？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-897-zhichang-bidu-shenme-cai-jiao-lingdaoli-lvrrmksykazlsb7w8abbdmnqfzqq/"
   },
   "zizhi-tongjian-hanji-898-renzei-zuofu-kelian-zhiren-neng-you-duo-huangtang-lgfup6tyv85zhvnmzf6xlesmblcj": {
     "title": "《资治通鉴·汉纪》898丨认贼作父？可怜之人能有多荒唐？",

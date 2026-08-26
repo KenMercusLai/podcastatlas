@@ -2,11 +2,13 @@
 title: "张让 / Zhang Rang (late Han)"
 type: entity
 tags: [person, eunuch, late-han, court, china]
-sources: [zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29, zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8, zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5]
+sources: [zizhi-tongjian-hanji-897-zhichang-bidu-shenme-cai-jiao-lingdaoli-lvrrmksykazlsb7w8abbdmnqfzqq, zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29, zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8, zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5]
 last_updated: 2026-08-26
 ---
 
 # 张让 / Zhang Rang (late Han)
+
+[[zizhi-tongjian-hanji-897-zhichang-bidu-shenme-cai-jiao-lingdaoli-lvrrmksykazlsb7w8abbdmnqfzqq|Hanji 897]] backfills Zhang Rang before the favorite-language branch. [[MengTuoLateHan|孟陀]] manipulates a Zhang-household servant's public kneeling to counterfeit access, then turns gift-seekers' wealth into real gifts for Zhang. This extends the page from ruler dependence to household-level brokerage around Zhang through [[ManufacturedAccessBrokerage|假势通道套利]].
 
 [[zizhi-tongjian-hanji-898-renzei-zuofu-kelian-zhiren-neng-you-duo-huangtang-lgfup6tyv85zhvnmzf6xlesmblcj|Hanji 898]] backfills Zhang Rang's favorite-status layer before the later palace-finance, Huangfu Song, and palace-crisis branches. The source says [[EmperorLingOfHan|汉灵帝]] calls Zhang Rang "father" and [[ZhaoZhongLateHan|赵忠]] "mother," making imperial dependence itself the earliest mechanism attached to this page.
 
@@ -33,6 +35,7 @@ The episode presents Zhang Rang as faster and more ruthless than He Jin in a zer
 Zhang Rang's final scene is source-scoped but structurally important. He flees with [[LiuBianHongnongWang|刘辩 / 弘农王]] and Liu Xie / [[EmperorXianOfHan|汉献帝]] toward [[Xiaopingjin|小平津]], then jumps into the river after [[MinGongLateHan|闵贡]] catches up and kills several eunuchs. His death closes the Ten Attendants branch while opening the [[DongZhuo|董卓]] branch.
 
 ## Connections
+- [[zizhi-tongjian-hanji-897-zhichang-bidu-shenme-cai-jiao-lingdaoli-lvrrmksykazlsb7w8abbdmnqfzqq|Hanji 897]], [[MengTuoLateHan|孟陀]], and [[ManufacturedAccessBrokerage|假势通道套利]] - staged household access before later imperial favorite language.
 - [[zizhi-tongjian-hanji-898-renzei-zuofu-kelian-zhiren-neng-you-duo-huangtang-lgfup6tyv85zhvnmzf6xlesmblcj|Hanji 898]], [[EmperorLingOfHan|汉灵帝]], [[ZhaoZhongLateHan|赵忠]], and [[PalaceAccessMonopoly|宫廷接触垄断]] - intimate favorite language before later slander and finance branches.
 - [[zizhi-tongjian-hanji-931-rensheng-jiannan-chu-bianshi-xiuxin-shi-lpzmvxop8lmlwvxhoojzj5ok9qd6|Hanji 931]], [[WangYunLateHan|王允]], [[EmperorLingOfHan|汉灵帝]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - retainer correspondence with Yellow Turban forces, imperial non-pursuit, and retaliatory imprisonment.
 - [[zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29|Hanji 932]], [[EmperorLingOfHan|汉灵帝]], [[ZhaoZhongLateHan|赵忠]], [[LuKangLateHan|陆康]], and [[PalaceConstructionFeeExtraction|修宫钱转嫁盘剥]] - palace-construction finance, material inspection, and remonstrance-recoding branch.

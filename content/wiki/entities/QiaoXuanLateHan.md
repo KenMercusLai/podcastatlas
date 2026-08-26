@@ -2,11 +2,13 @@
 title: "桥玄 / Qiao Xuan (late Han)"
 type: entity
 tags: [person, late-han, official, reputation, talent, law, hostage]
-sources: [zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2, zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus, zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc]
+sources: [zizhi-tongjian-hanji-897-zhichang-bidu-shenme-cai-jiao-lingdaoli-lvrrmksykazlsb7w8abbdmnqfzqq, zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2, zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus, zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc]
 last_updated: 2026-08-26
 ---
 
 # 桥玄 / Qiao Xuan (late Han)
+
+[[zizhi-tongjian-hanji-897-zhichang-bidu-shenme-cai-jiao-lingdaoli-lvrrmksykazlsb7w8abbdmnqfzqq|Hanji 897]] adds an earlier high-office marker before Qiao Xuan's hostage-ransom and [[CaoCao|曹操]] endorsement branches. The episode places his appointment as sikong inside the 170 CE Three Excellencies churn, making his later reputation work sit on top of a prior senior-office record.
 
 [[zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2|Hanji 904]] gives a compressed early Cao Cao reputation route before Hanji 926 develops it. The episode has Qiao Xuan, as an older recognized figure, send nineteen-year-old [[CaoCao|曹操]] toward [[XuShao|许劭]]'s public evaluation, making Qiao's endorsement part of Cao Cao's first office path rather than only a later reputation anecdote.
 
@@ -20,6 +22,7 @@ In the episode, Qiao Xuan tells Cao Cao that the realm is heading into disorder 
 
 ## Connections
 
+- [[zizhi-tongjian-hanji-897-zhichang-bidu-shenme-cai-jiao-lingdaoli-lvrrmksykazlsb7w8abbdmnqfzqq|Hanji 897]] - earlier sikong appointment in the 170 CE office-churn layer.
 - [[zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus|Hanji 915]], [[HostageRansomDeterrence|劫质禁赎威慑]], [[LiuXiu|刘秀]], and [[YinLihua|阴丽华]] - hostage-ransom precedent and late-Han no-ransom rule.
 - [[zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2|Hanji 904]] - earlier compressed Cao Cao referral route.
 - [[zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc|Hanji 926]] - source context.

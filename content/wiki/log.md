@@ -11945,3 +11945,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-26] ingest | 《资治通鉴·汉纪》897丨职场必读！什么才叫领导力？
+
+Added source page for Hanji 897: relationships without exchangeable capability, Duan Jiong's shared-hardship leadership, Dong Chong's false Dong Taihou instruction, Gu Yong's trust-based frontier submission, and Meng Tuo's manufactured Zhang Rang access followed by failed Shule command. Created Dong Chong, Meng Tuo, Gu Yong, Shule Kingdom, and Manufactured Access Brokerage; updated linked leadership, access, office-capture, and surrender-cascade pages. No settled contradiction found; 170 CE/建宁二年 and transcript variants such as 段九 and 官带 are kept source-scoped.
+
+## [2026-08-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

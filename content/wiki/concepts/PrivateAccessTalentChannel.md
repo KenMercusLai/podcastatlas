@@ -2,11 +2,13 @@
 title: "Private Access Talent Channel / 私人进身通道"
 type: concept
 tags: [governance, court-politics, talent, social-capital, pre-qin-history]
-sources: [zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2, zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5, zizhi-tongjian-qinji-115-1-jingke-ciqin-sihu-you-dianer-caoshuai-le-lgz1adsn1t8jjiaobmtfedpr-ixn, zizhi-tongjian-zhouji-12-gongsunyang-qiuzhi-lu-shang-de-la-guanxi-zou-houmen-lvv4-bz8sm9scezci-o-msapkvil]
+sources: [zizhi-tongjian-hanji-897-zhichang-bidu-shenme-cai-jiao-lingdaoli-lvrrmksykazlsb7w8abbdmnqfzqq, zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2, zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5, zizhi-tongjian-qinji-115-1-jingke-ciqin-sihu-you-dianer-caoshuai-le-lgz1adsn1t8jjiaobmtfedpr-ixn, zizhi-tongjian-zhouji-12-gongsunyang-qiuzhi-lu-shang-de-la-guanxi-zou-houmen-lvv4-bz8sm9scezci-o-msapkvil]
 last_updated: 2026-08-26
 ---
 
 # Private Access Talent Channel / 私人进身通道
+
+[[zizhi-tongjian-hanji-897-zhichang-bidu-shenme-cai-jiao-lingdaoli-lvrrmksykazlsb7w8abbdmnqfzqq|Hanji 897]] adds a counterfeit-access boundary through [[MengTuoLateHan|孟陀]]. Unlike access that surfaces ability, Meng Tuo creates the appearance of access to [[ZhangRangLateHan|张让]] through a staged kneeling scene, then converts others' gifts into real favor.
 
 [[zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2|Hanji 904]] adds a late-Han formal-private hybrid. [[CaoCao|曹操]] receives a formal Xiaolian path and court post, but the episode stresses that [[CaoTengLateHan|曹腾]] and [[CaoSong|曹嵩]] make that path available, while [[QiaoXuanLateHan|桥玄]], [[XuShao|许劭]], and [[SimaFangLateHan|司马防]] make his reputation and office placement actionable.
 
@@ -21,6 +23,7 @@ The risk is that access and evaluation become entangled. [[GongshuWeiChancellor|
 [[zizhi-tongjian-qinji-115-1-jingke-ciqin-sihu-you-dianer-caoshuai-le-lgz1adsn1t8jjiaobmtfedpr-ixn]] adds a hostile-use variant through [[MengJia|蒙嘉]]. Here the private channel does not surface reform talent for Qin; it lets [[JingKe|荆轲]] and [[QinWuyang|秦武阳]] turn gifts and a surrender script into access to [[QinShiHuang|嬴政 / 秦始皇]]. The concept therefore covers both productive talent transmission and dangerous proximity brokerage when the ruler's trusted attendants become the actionable path around formal distance.
 
 ## Key Claims
+- Hanji 897 adds that access channels must be distinguished from staged access signals that manufacture status without testing ability.
 - Hanji 904 adds that a formal recommendation route can still depend on family access and reputation brokers to become actionable.
 - Hanji 918 adds that private access can operate through palace selection and household spending, converting family ambition into outer-relative and succession leverage.
 - Open recruitment does not remove the need for trusted access to the ruler.
@@ -30,6 +33,7 @@ The risk is that access and evaluation become entangled. [[GongshuWeiChancellor|
 - Qinji 115-1 adds that ruler-adjacent private access can also be exploited by hostile envoys, making proximity itself a security problem.
 
 ## Connections
+- [[zizhi-tongjian-hanji-897-zhichang-bidu-shenme-cai-jiao-lingdaoli-lvrrmksykazlsb7w8abbdmnqfzqq|Hanji 897]], [[MengTuoLateHan|孟陀]], [[ZhangRangLateHan|张让]], and [[ManufacturedAccessBrokerage|假势通道套利]] - counterfeit access before real favor.
 - [[zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2|Hanji 904]], [[CaoCao|曹操]], [[CaoTengLateHan|曹腾]], [[CaoSong|曹嵩]], [[QiaoXuanLateHan|桥玄]], [[XuShao|许劭]], and [[SimaFangLateHan|司马防]] - formal Xiaolian path made usable through family and reputation access.
 - [[zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5|Hanji 918]], [[HeZhenLateHan|何真]], [[EmpressDowagerHe|何皇后 / 何太后]], [[HeJin|何进]], [[HeMiaoLateHan|何苗]], and [[MaternalStatusSuccessionLeverage|子以母贵式继承杠杆]] - late-Han palace-selection and household-rise variant.
 - [[ShangYang|公孙鞅 / 商鞅]], [[JingJian|景监]], [[QinXiaogong|秦孝公]], and [[QinState|秦国]] - source case.

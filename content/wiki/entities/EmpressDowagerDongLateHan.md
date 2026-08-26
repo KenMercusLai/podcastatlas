@@ -2,11 +2,13 @@
 title: "董太后 / Empress Dowager Dong (late Han)"
 type: entity
 tags: [person, empress-dowager, late-han, imperial-family, china]
-sources: [zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic, zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt]
+sources: [zizhi-tongjian-hanji-897-zhichang-bidu-shenme-cai-jiao-lingdaoli-lvrrmksykazlsb7w8abbdmnqfzqq, zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic, zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt]
 last_updated: 2026-08-26
 ---
 
 # 董太后 / Empress Dowager Dong (late Han)
+
+[[zizhi-tongjian-hanji-897-zhichang-bidu-shenme-cai-jiao-lingdaoli-lvrrmksykazlsb7w8abbdmnqfzqq|Hanji 897]] backfills her name as an authority falsely invoked by [[DongChongLateHan|董宠]] before the later Liu Xie foster-line branch. The page treats this as false-authority use, not as evidence that Empress Dowager Dong directed Dong Chong's private requests.
 
 [[zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic|Hanji 921]] first adds Empress Dowager Dong as the foster line for Liu Xie after [[WangMeirenLateHan|王美人]]'s death. The episode says [[EmperorLingOfHan|汉灵帝]] sends Liu Xie to Changle Palace to be raised by Dong Taihou after the poisoning crisis around [[EmpressDowagerHe|何皇后 / 何太后]].
 
@@ -17,6 +19,7 @@ The source shows her power as both family status and danger signal. She favors L
 Her death is preserved as source-variant material. [[ZizhiTongjian|《资治通鉴》]] says she died from fear and anxiety; [[HouHanshu|《后汉书》]] is read by the episode as recording pressure toward suicide; [[RomanceOfTheThreeKingdoms|《三国演义》]] later turns the death into poisoning by He Taihou. The page keeps those variants separate because the episode uses them to distinguish chronicle, history, and novelized memory.
 
 ## Connections
+- [[zizhi-tongjian-hanji-897-zhichang-bidu-shenme-cai-jiao-lingdaoli-lvrrmksykazlsb7w8abbdmnqfzqq|Hanji 897]] and [[DongChongLateHan|董宠]] - false invocation of her authority for private requests.
 - [[zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic|Hanji 921]], [[WangMeirenLateHan|王美人]], and [[EmperorLingOfHan|汉灵帝]] - Liu Xie's foster transfer to Dong Taihou after the poisoning crisis.
 - [[zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt|Hanji 943]] - source case.
 - [[EmperorXianOfHan|汉献帝]], [[LiuBianHongnongWang|刘辩 / 弘农王]], [[EmpressDowagerHe|何太后]], and [[SuccessionNonDesignationRisk|未定继承人风险]] - rival succession and foster-family support field.

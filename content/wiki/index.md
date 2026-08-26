@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》897丨职场必读！什么才叫领导力？](sources/zizhi-tongjian-hanji-897-zhichang-bidu-shenme-cai-jiao-lingdaoli-lvrrmksykazlsb7w8abbdmnqfzqq.md) — 芮淇讲透资治通鉴 episode on relationships without capability, Duan Jiong's shared-hardship leadership, Dong Chong's false Dong Taihou instruction, Gu Yong's trust-based frontier submission, and Meng Tuo's staged Zhang Rang access leading to failed Shule command.
 - [《资治通鉴·汉纪》898丨认贼作父？可怜之人能有多荒唐？](sources/zizhi-tongjian-hanji-898-renzei-zuofu-kelian-zhiren-neng-you-duo-huangtang-lgfup6tyv85zhvnmzf6xlesmblcj.md) — 芮淇讲透资治通鉴 episode on Emperor Ling calling Zhang Rang and Zhao Zhong "father/mother", 171 CE guanli and amnesty with party figures still excluded, disaster and epidemic population-collapse framing, Dong Meng's fatal pro-Dou intervention, and Xianbei pressure in Bingzhou.
 - [《资治通鉴·汉纪》899丨好清斗贪官](sources/zizhi-tongjian-hanji-899-hao-qing-dou-tanguan-ljhic1plzmv8k6lu73j5terihanx.md) — 芮淇讲透资治通鉴 episode on a "money can reach the gods" bribery story, Emperor Ling's 172 CE visit to Guangwu's Yuanling, Cai Yong's "礼有烦而不可省者" ritual defense, and ritual sense as solemn, sacred order.
 - [《资治通鉴·汉纪》900丨职场权术都不动，该怎样生存](sources/zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr.md) — 芮淇讲透资治通鉴 episode on Hu Guang's moderation-based court survival, anger control and advance/retreat judgment, Hou Lan's uncertain eunuch-faction fall, Empress Dowager Dou's death and funeral mistreatment, and the prelude to the burial meeting resolved in Hanji 901.
@@ -1498,6 +1499,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [董宠 / Dong Chong (late Han)](entities/DongChongLateHan.md) — Imperial relative whose false invocation of Empress Dowager Dong turns private requests into court-legitimacy risk.
+- [孟陀 / Meng Tuo (late Han)](entities/MengTuoLateHan.md) — Merchant-turned-Liangzhou inspector who manufactures access to Zhang Rang through a staged kneeling scene before failing against Shule.
+- [谷永 / Gu Yong (late Han)](entities/GuYongLateHan.md) — Frontier administrator whose trust-based submission and county-establishment case contrasts with Meng Tuo's failed command.
+- [疏勒 / Shule Kingdom](entities/ShuleKingdom.md) — Western Regions kingdom whose successful resistance to Meng Tuo exposes office without matching command capacity.
 - [汉明帝 / Emperor Ming of Han](entities/EmperorMingOfHan.md) — Eastern Han emperor used by Hanji 899 as the filial precedent behind Guangwu Yuanling tomb-sacrifice practice.
 - [胡广 / Hu Guang (late Han)](entities/HuGuangLateHan.md) — Late-Han senior official whose six-reign service, institutional knowledge, mildness, and non-offense make Hanji 900's moderation-based survival case.
 - [侯览 / Hou Lan (late Han)](entities/HouLanLateHan.md) — Late-Han eunuch stripped of office and seals in Hanji 900, used as a source-scoped example of palace protection failing under internal faction risk.
@@ -9191,6 +9196,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Manufactured Access Brokerage / 假势通道套利](concepts/ManufacturedAccessBrokerage.md) — Meng Tuo pattern where staged deference creates apparent access, converts others' gifts into real favor, and can produce office without competence.
 - [Ritual Affective Order / 仪式感秩序生成](concepts/RitualAffectiveOrder.md) — Hanji 899 frame for how cumbersome ritual can produce solemnity, sacredness, ordered memory, and disciplined participation rather than mere decorative form.
 - [Moderation As Political Survival / 中庸圆滑政治生存](concepts/ModerationAsPoliticalSurvival.md) — Hanji 900 frame for Hu Guang's survival through institutional competence, non-offense, relationship continuity, and controlled exposure, with moral costs kept visible.
 - [Predetermined Meeting Process / 既定结果会议程序](concepts/PredeterminedMeetingProcess.md) — Hanji 900 pattern where formal deliberation can ratify a decision already shaped by authority, factional bargaining, and prior communication.
