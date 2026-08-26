@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 7772
+wiki_total_pages: 7776
 wiki_pages:
   - key: "FortyThreeTalks"
     title: "43talks"
@@ -431,6 +431,9 @@ wiki_pages:
   - key: "FranzKromer"
     title: "Franz Kromer / 弗朗兹·克罗默"
     url: "/wiki/entities/franzkromer/"
+  - key: "FraserMcIlwraith"
+    title: "Fraser McIlwraith"
+    url: "/wiki/entities/frasermcilwraith/"
   - key: "FrauEva"
     title: "Frau Eva / 夏娃夫人"
     url: "/wiki/entities/fraueva/"

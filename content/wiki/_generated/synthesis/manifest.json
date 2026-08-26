@@ -1,8 +1,8 @@
 {
   "content_date": "2026-08-26",
   "corpus": {
-    "episode_count": 1510,
-    "source_count": 1510
+    "episode_count": 1511,
+    "source_count": 1511
   },
   "generated": true,
   "global": {
@@ -16,14 +16,14 @@
     "output_digest": "c20aaf5243f59e0a8f4ab636b84c9829fb27c0d61a251ae85f7a9fdf78fe358a",
     "overview_commit": "4b35054f03dc48c7ce9bd7a17814ce872937b75c",
     "overview_digest": "01252eafd0ac3bfa6120b4a339b58c5e95e7a9d4571d24dedd90bc6dc5a77849",
-    "pending_ingests": 2,
+    "pending_ingests": 3,
     "pending_topics": [
       "history-and-geopolitics",
       "psychology-and-personal-development"
     ]
   },
-  "overview_commit": "ebd7eb938663ce445dfcc1c0b703f9ba04d98bdd",
-  "overview_digest": "d21bbb7fe140761b2331c53230ed54e719fc08341ea6d3324568dd1d9d92f84f",
+  "overview_commit": "3ba8ccf596665140f960fc9686634bdf898c65f3",
+  "overview_digest": "a7fe46a0e6b1c0694f4cf060b2599734120bed4365bf96c19b2f25de7f8b760b",
   "paragraph_count": 256,
   "schema_version": 1,
   "topics": {

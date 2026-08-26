@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1897
+topic_total_pages: 1899
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3617,6 +3617,9 @@ topic_entities:
   - key: "FranklinDRoosevelt"
     title: "Franklin D. Roosevelt"
     url: "/wiki/entities/franklindroosevelt/"
+  - key: "FraserMcIlwraith"
+    title: "Fraser McIlwraith"
+    url: "/wiki/entities/frasermcilwraith/"
   - key: "FredWertheimer"
     title: "Fred Wertheimer"
     url: "/wiki/entities/fredwertheimer/"
@@ -5241,6 +5244,9 @@ topic_sources:
   - key: "eric-ries-incorruptible-by-design-wrgromn5peq"
     title: "Eric Ries: Incorruptible by Design"
     url: "/wiki/sources/eric-ries-incorruptible-by-design-wrgromn5peq/"
+  - key: "even-more-maximum-pressure-sanctions-on-iran-6a8d6a9b66c4a1e81a4c86a9"
+    title: "Even-more-maximum pressure: sanctions on Iran"
+    url: "/wiki/sources/even-more-maximum-pressure-sanctions-on-iran-6a8d6a9b66c4a1e81a4c86a9/"
   - key: "far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658"
     title: "Far Crimea: war comes to Russia's door"
     url: "/wiki/sources/far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658/"

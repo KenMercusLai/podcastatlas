@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Even-more-maximum pressure: sanctions on Iran](sources/even-more-maximum-pressure-sanctions-on-iran-6a8d6a9b66c4a1e81a4c86a9.md) — The Intelligence episode on Operation Economic Outcast, Philippine offshoring under AI, and LinkedIn-based city place-premium wage research.
 - [Episode 19: 赵丽娜：在场比赢重要；门将的信心、直觉与热爱](sources/zhao-lina-zaichang-bi-ying-zhongyao-menjiang-de-xinxin-zhijue-yu-reai-229fde7d-d39d-4f7c-a33d-607f5370fc60.md) — Fuyou Tiandi episode with Zhao Lina on football atmosphere, youth access, goalkeeper confidence and intuition, women football visibility, and post-retirement identity.
 - [How Modern Brands Build Loyalty, Purpose, and Identity | Andy Stalman | Shekhar Natarajan Podcast](sources/how-modern-brands-build-loyalty-purpose-and-identity-andy-stalman-shekhar-natarajan-podcast.md) — Tomorrow Today episode with Andy Stalman on whole-company branding, brand doing, actionable values, AI as a brand mirror, and brand value protection.
 - [《资治通鉴·汉纪》1036丨刘表为何要逼韩嵩见曹操？](sources/zizhi-tongjian-hanji-1036-liubiao-weihe-yao-bi-hansong-jian-caocao-lnifeizgoebis2gdovgmzg6dojaz.md) — 芮淇讲透资治通鉴 episode on Liu Biao's neutrality between Yuan Shao and Cao Cao, Han Song and Liu Xian's warning, and Han Song's pre-mission claim that court appointment would reorder his loyalty.
@@ -1518,6 +1519,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Fraser McIlwraith](entities/FraserMcIlwraith.md) — The Intelligence correspondent explaining Operation Economic Outcast, Iran sanctions pressure, Chinese-bank constraints, and UAE compliance channels.
+- [Josh Spencer](entities/JoshSpencer.md) — The Intelligence correspondent explaining AI's mixed effect on Philippine offshoring, from worker augmentation to tier-one task pressure.
+- [Vishnu Padmanabhan](entities/VishnuPadmanabhan.md) — Economist explainer distinguishing worker effects from city place effects in wage gaps.
+- [Gaurav Karna](entities/GauravKarna.md) — UC San Diego researcher whose LinkedIn-based job-history work anchors the city place-premium segment.
 - [Andy Stalman](entities/AndyStalman.md) — Branding strategist and entrepreneur whose Tomorrow Today interview frames brand as identity, behavior, culture, AI readiness, and human meaning.
 - [Shekhar Natarajan](entities/ShekharNatarajan.md) — Tomorrow Today host whose questions connect branding to actionable values, AI leakage, unresolved deliberation, and angelic intelligence.
 - [Tomorrow Today](entities/TomorrowToday.md) — Podcast show context for Shekhar Natarajan's interview with Andy Stalman on branding and AI.
@@ -1677,7 +1682,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《辞职上山》](entities/CizhiShangShan.md) — Li Chuang book used by the 面基 episode to demystify quitting, Wudang life, Daoist practice, and mountain retreat as escape.
 - [Quanzhen Daoism / 全真道教](entities/QuanzhenDaoism.md) — Source-scoped Wudang Daoist institutional frame for lessons, recitation, temple duties, and varied cultivation practice.
 - [真武大帝 / Zhenwu Dadi](entities/ZhenwuDadi.md) — Daoist deity used in the Wudang source to show internal religious order and boundaries around folk-help-seeking.
-- [Scott Bessent / 贝森特](entities/ScottBessent.md) — U.S. Treasury figure read by Qizhulou as a trader-style policy operator balancing yen defense, Treasury demand, buybacks, and dollar dominance.
+- [Scott Bessent / 贝森特](entities/ScottBessent.md) — U.S. Treasury policy operator linked to debt-financing tools, market ambiguity, and Operation Economic Outcast against Iran.
 - [George Soros](entities/GeorgeSoros.md) — Macro investor appearing as the hedge-fund context for Bessent's sterling and yen trading background.
 - [Tencent Music / 腾讯音乐](entities/TencentMusic.md) — Tencent online-music incumbent pressured by Qishui Music's Douyin-backed distribution in the 2026-08-25 声动早咖啡 source.
 - [NetEase Cloud Music / 网易云音乐](entities/NetEaseCloudMusic.md) — NetEase music product compared with Qishui Music after source-cited user and profit pressure.
@@ -7988,7 +7993,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mississippi](entities/Mississippi.md) — U.S. state in the Marketplace Tech age-verification episode where legal exposure affected Bluesky service availability.
 - [Aviv Ovadia](entities/AvivOvadia.md) — AI and Democracy Foundation founder warning that generative AI can push media distrust into information apocalypse and reality apathy.
 - [AI and Democracy Foundation](entities/AIAndDemocracyFoundation.md) — Organization represented by Aviv Ovadia in the Marketplace Tech infocalypse episode, focused on AI-resilient democratic governance.
-- [LinkedIn](entities/LinkedIn.md) — Platform named in the infocalypse episode as one implementation example for content credentials and media provenance.
+- [LinkedIn](entities/LinkedIn.md) — Professional platform used in the wiki as a provenance adopter, AI-slop pressure case, Microsoft organization example, and city-wage research dataset.
 - [UC Berkeley](entities/UCBerkeley.md) — Institutional affiliation for Britt Young in the Marketplace Tech prosthetics episode.
 - [Open Bionics](entities/OpenBionics.md) — British 3D-printed prosthetics firm discussed as an availability option that still faces insurance-coverage barriers.
 - [Daria Georgievich](entities/DariaGeorgievich.md) — Psychiatrist explaining why consumer chatbots are unsafe mental-health supports for teens, especially in longer conversations.
@@ -8282,7 +8287,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Georgia Banjo](entities/GeorgiaBanjo.md) — The Intelligence participant analyzing AI as a possible but limited post-Brexit regulatory opportunity for Britain.
 - [Greg Carlstrom](entities/GregCarlstrom.md) — The Intelligence analyst explaining Gulf stability risk, uneven Gulf readiness, and possible strategic-investment shifts after the Iran war.
 - [Gulf Cooperation Council](entities/GulfCooperationCouncil.md) — Regional Gulf frame where confidence, security, finance, logistics, aviation, sovereign wealth, and expatriate business life interact.
-- [United Arab Emirates](entities/UnitedArabEmirates.md) — Gulf state connected to fiscal resilience, expatriate confidence, Dubai's business hub model, and Abu Dhabi's oil-backed capital role.
+- [United Arab Emirates](entities/UnitedArabEmirates.md) — Gulf state connected to business-hub resilience, oil coordination, Sudan and Syria diplomacy, and Iran sanctions compliance channels.
 - [Bahrain](entities/Bahrain.md) — Gulf state presented as more exposed after the Iran war because of debt, limited reserves, and dependence on outside support.
 - [Economist Podcasts](entities/EconomistPodcasts.md) — Economist audio context for Tocqueville Road Trip and The Intelligence branches on Latin America investment, Gulf stability, Brexit, and adjacent Economist podcast sources.
 - [Tocqueville Road Trip](entities/TocquevilleRoadTrip.md) — Economist podcast series retracing Tocqueville's U.S. journey to ask whether Democracy in America still explains the country.
@@ -8656,7 +8661,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [India](entities/India.md) — Country context for Telangana's filial-piety law and elder-abuse protections.
 - [Singapore](entities/Singapore.md) — Early Asian filial-piety law case from the episode's elder-care segment.
 - [Malaysia](entities/Malaysia.md) — Elder-care capacity case with limited licensed nursing homes and hospital-abandonment data in the episode.
-- [Philippines](entities/Philippines.md) — Proposed punitive elder-neglect law case in the episode's filial-piety segment.
+- [Philippines](entities/Philippines.md) — Country case spanning youth justice, punitive elder-care law, and AI-exposed offshore services labor.
 - [Rosie Bloor](entities/RosieBloor.md) — Host introducing the episode's finance, Turkey politics, and literary obituary segments.
 - [Josh Roberts](entities/JoshRoberts.md) — Capital-markets correspondent explaining AI bubble hedging, hyperscaler capex, and defensive portfolio choices.
 - [Piotr Zilevsky](entities/PiotrZilevsky.md) — Turkey correspondent explaining Erdogan succession dynamics, term-limit workarounds, and party maneuvering.
@@ -9294,6 +9299,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [AI Offshoring Labor Resilience](concepts/AIOffshoringLaborResilience.md) — Pattern where AI augments contextual offshore service work while compressing basic tasks and monitoring workers.
+- [City Place Premium](concepts/CityPlacePremium.md) — Wage gain attributable to a city's place-specific productivity and matching effects after separating worker composition.
 - [Whole-Company Branding](concepts/WholeCompanyBranding.md) — Brand frame where identity, purpose, values, leadership, culture, employee behavior, sensory experience, and technology all shape the brand.
 - [Brand Doing](concepts/BrandDoing.md) — Claim that a brand is proved by repeated behavior, delivery, protection, and service rather than by communication alone.
 - [Actionable Organizational Values](concepts/ActionableOrganizationalValues.md) — Values clear enough to resolve dilemmas, guide decisions, shape processes, and survive movement through organizational layers.
@@ -10493,7 +10500,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [GPU Hot Swapping](concepts/GPUHotSwapping.md) — Dynamic inference-serving pattern where a requested model can be brought online quickly instead of reserving one GPU per model.
 - [Long-Tail Model Hosting](concepts/LongTailModelHosting.md) — Strategy of serving niche, language-specific, and company-specific AI models whose individual demand may not justify dedicated standby GPUs.
 - [Flat-Rate AI Inference Pricing](concepts/FlatRateAIInferencePricing.md) — Pricing approach that makes many hosted AI models easier to buy by reducing usage-bill uncertainty and per-model price-table complexity.
-- [Oil Revenue Sanctions Leverage](concepts/OilRevenueSanctionsLeverage.md) — Pressure pattern where control over oil revenue flows becomes bargaining power in political-transition negotiations.
+- [Oil Revenue Sanctions Leverage](concepts/OilRevenueSanctionsLeverage.md) — Bargaining power created when oil-dependent states can be pressured through licensing, blockade enforcement, buyer pressure, or revenue channels.
 - [Opposition Legitimacy Gap](concepts/OppositionLegitimacyGap.md) — Transition risk when negotiations exclude the opposition actor with the strongest popular mandate.
 - [Fast-Food Demand Reset](concepts/FastFoodDemandReset.md) — Demand-pressure pattern where price, health, safety, and household stress weaken fast-food traffic.
 - [Gesamtkunstwerk](concepts/Gesamtkunstwerk.md) — Wagnerian total-work-of-art concept joining poetry, music, staging, and spectacle.
@@ -13000,7 +13007,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Epistemological Warfare](concepts/EpistemologicalWarfare.md) — Attack frame where corrupting trusted outputs damages a target's ability to know what is true.
 - [Nuclear Weapons Modeling](concepts/NuclearWeaponsModeling.md) — Simulation domain that the Fast 16 episode identifies as the likely target area for calculation-corruption sabotage.
 - [AI-Assisted Malware Reverse Engineering](concepts/AIAssistedMalwareReverseEngineering.md) — Use of AI tools to help experts inspect and reason about malware while keeping human validation central.
-- [Iran Sanctions](concepts/IranSanctions.md) — Multi-decade U.S. and international pressure system linking asset freezes, oil limits, banking isolation, nuclear diplomacy, civilian hardship, and insider gains.
+- [Iran Sanctions](concepts/IranSanctions.md) — Multi-decade pressure system linking dollar banking, oil revenue, third-country enforcement, nuclear diplomacy, civilian hardship, and escalation risk.
 - [Dollar Financial Sanctions](concepts/DollarFinancialSanctions.md) — Use of dollar clearing, global bank access, and compliance risk to isolate a target economy beyond direct trade restrictions.
 - [Sanctions Overcompliance](concepts/SanctionsOvercompliance.md) — Pattern where banks and firms avoid more activity than sanctions law requires because legal and reputational risk remains too high.
 - [Economic Sanctions As Violence](concepts/EconomicSanctionsAsViolence.md) — Ethical frame that sanctions can pressure governments by impoverishing civilians despite being presented as an alternative to war.

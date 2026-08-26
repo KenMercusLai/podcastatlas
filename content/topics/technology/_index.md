@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2455
+topic_total_pages: 2459
 topic_concepts:
   - key: "AcademicAIResearchRole"
     title: "Academic AI Research Role"
@@ -556,6 +556,9 @@ topic_concepts:
   - key: "AIOfficeAgent"
     title: "AI Office Agent"
     url: "/wiki/concepts/aiofficeagent/"
+  - key: "AIOffshoringLaborResilience"
+    title: "AI Offshoring Labor Resilience"
+    url: "/wiki/concepts/aioffshoringlaborresilience/"
   - key: "AIOperationsRole"
     title: "AI Operations Role"
     url: "/wiki/concepts/aioperationsrole/"
@@ -4580,6 +4583,9 @@ topic_entities:
   - key: "JoshHawley"
     title: "Josh Hawley"
     url: "/wiki/entities/joshhawley/"
+  - key: "JoshSpencer"
+    title: "Josh Spencer"
+    url: "/wiki/entities/joshspencer/"
   - key: "Jove"
     title: "Jove"
     url: "/wiki/entities/jove/"
@@ -5198,6 +5204,9 @@ topic_entities:
   - key: "PGP"
     title: "PGP"
     url: "/wiki/entities/pgp/"
+  - key: "Philippines"
+    title: "Philippines"
+    url: "/wiki/entities/philippines/"
   - key: "PhysicalIntelligence"
     title: "Physical Intelligence"
     url: "/wiki/entities/physicalintelligence/"
@@ -6882,6 +6891,9 @@ topic_sources:
   - key: "eric-ries-on-how-founders-quietly-lose-their-company"
     title: "Eric Ries on How Founders Quietly Lose Their Company"
     url: "/wiki/sources/eric-ries-on-how-founders-quietly-lose-their-company/"
+  - key: "even-more-maximum-pressure-sanctions-on-iran-6a8d6a9b66c4a1e81a4c86a9"
+    title: "Even-more-maximum pressure: sanctions on Iran"
+    url: "/wiki/sources/even-more-maximum-pressure-sanctions-on-iran-6a8d6a9b66c4a1e81a4c86a9/"
   - key: "tech-20260107-0107-mp-tech-pod-128-tech-20260107-0107-mp-tech-pod-128"
     title: "Farming in the digital age"
     url: "/wiki/sources/tech-20260107-0107-mp-tech-pod-128-tech-20260107-0107-mp-tech-pod-128/"

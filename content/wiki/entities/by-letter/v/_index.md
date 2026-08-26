@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "v"
-wiki_total_pages: 7772
+wiki_total_pages: 7776
 wiki_pages:
   - key: "VacheronConstantin"
     title: "Vacheron Constantin"
@@ -146,6 +146,9 @@ wiki_pages:
   - key: "VishalDataScienceWithSam"
     title: "Vishal (Data Science With Sam)"
     url: "/wiki/entities/vishaldatasciencewithsam/"
+  - key: "VishnuPadmanabhan"
+    title: "Vishnu Padmanabhan"
+    url: "/wiki/entities/vishnupadmanabhan/"
   - key: "VisionPro"
     title: "Vision Pro"
     url: "/wiki/entities/visionpro/"

@@ -3641,6 +3641,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "AIOffshoringLaborResilience": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AIOperationsRole": [
     {
       "key": "technology",
@@ -13125,6 +13132,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "CityPlacePremium": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "CivicAudienceEtiquette": [
     {
       "key": "culture",
@@ -22383,6 +22397,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "FraserMcIlwraith": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "FrauEva": [
     {
       "key": "culture",
@@ -23331,6 +23352,13 @@
     }
   ],
   "GaryStark": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
+  "GauravKarna": [
     {
       "key": "economics",
       "label": "Economics",
@@ -31084,6 +31112,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "JoshSpencer": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "JournalisticAuthorityErosion": [
@@ -42473,6 +42508,11 @@
     }
   ],
   "Philippines": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
     {
       "key": "politics",
       "label": "Politics",
@@ -58446,6 +58486,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "VishnuPadmanabhan": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "VisionLanguageActionModels": [
     {
       "key": "technology",
@@ -65709,6 +65756,18 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "even-more-maximum-pressure-sanctions-on-iran-6a8d6a9b66c4a1e81a4c86a9": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552": [

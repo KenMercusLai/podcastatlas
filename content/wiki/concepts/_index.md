@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 5566
+wiki_total_pages: 5568
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -875,6 +875,9 @@ wiki_pages:
   - key: "AIOfficeAgent"
     title: "AI Office Agent"
     url: "/wiki/concepts/aiofficeagent/"
+  - key: "AIOffshoringLaborResilience"
+    title: "AI Offshoring Labor Resilience"
+    url: "/wiki/concepts/aioffshoringlaborresilience/"
   - key: "AIOperationsRole"
     title: "AI Operations Role"
     url: "/wiki/concepts/aioperationsrole/"

@@ -545,6 +545,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/aiofficeagent/"
     },
+    "AIOffshoringLaborResilience": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Even-more-maximum pressure： sanctions on Iran [6a8d6a9b66c4a1e81a4c86a9].md",
+          "key": "even-more-maximum-pressure-sanctions-on-iran-6a8d6a9b66c4a1e81a4c86a9",
+          "show": "Economist Podcasts",
+          "title": "Even-more-maximum pressure: sanctions on Iran",
+          "url": "/wiki/sources/even-more-maximum-pressure-sanctions-on-iran-6a8d6a9b66c4a1e81a4c86a9/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/aioffshoringlaborresilience/"
+    },
     "AISnowlineWorkBoundary": {
       "episode_count": 1,
       "show_count": 1,
@@ -1046,6 +1062,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/chinesestylefde/"
+    },
+    "CityPlacePremium": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Even-more-maximum pressure： sanctions on Iran [6a8d6a9b66c4a1e81a4c86a9].md",
+          "key": "even-more-maximum-pressure-sanctions-on-iran-6a8d6a9b66c4a1e81a4c86a9",
+          "show": "Economist Podcasts",
+          "title": "Even-more-maximum pressure: sanctions on Iran",
+          "url": "/wiki/sources/even-more-maximum-pressure-sanctions-on-iran-6a8d6a9b66c4a1e81a4c86a9/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/cityplacepremium/"
     },
     "ConsortioGroupFinancing": {
       "episode_count": 1,
@@ -1578,6 +1610,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/forwarddeployedengineer/"
     },
+    "FraserMcIlwraith": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Even-more-maximum pressure： sanctions on Iran [6a8d6a9b66c4a1e81a4c86a9].md",
+          "key": "even-more-maximum-pressure-sanctions-on-iran-6a8d6a9b66c4a1e81a4c86a9",
+          "show": "Economist Podcasts",
+          "title": "Even-more-maximum pressure: sanctions on Iran",
+          "url": "/wiki/sources/even-more-maximum-pressure-sanctions-on-iran-6a8d6a9b66c4a1e81a4c86a9/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/frasermcilwraith/"
+    },
     "FugitiveShelterCollateralRisk": {
       "episode_count": 1,
       "show_count": 1,
@@ -1653,6 +1701,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/gaoerji/"
+    },
+    "GauravKarna": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Even-more-maximum pressure： sanctions on Iran [6a8d6a9b66c4a1e81a4c86a9].md",
+          "key": "even-more-maximum-pressure-sanctions-on-iran-6a8d6a9b66c4a1e81a4c86a9",
+          "show": "Economist Podcasts",
+          "title": "Even-more-maximum pressure: sanctions on Iran",
+          "url": "/wiki/sources/even-more-maximum-pressure-sanctions-on-iran-6a8d6a9b66c4a1e81a4c86a9/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/gauravkarna/"
     },
     "GenderedAIMarketing": {
       "episode_count": 1,
@@ -2686,6 +2750,43 @@
       "updated": "2026-08-17",
       "url": "/wiki/concepts/investmentriskmanagement/"
     },
+    "IranSanctions": {
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "EP251 伊朗困局：四十年战略选择的代价与现实 [lp8VyONYUgtd2oZyMgOf_MiM9ZkD].md",
+          "key": "ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd",
+          "show": "Talk三联",
+          "title": "EP251 伊朗困局：四十年战略选择的代价与现实",
+          "url": "/wiki/sources/ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_aad33273d2201c3937bb02bae96f34b5_20712040 [default.mp3_ywr3ahjkcgo_aad33273d2201c3937bb02bae96f34b5_20712040].md",
+          "key": "how-to-get-through-the-strait-of-hormuz",
+          "show": "Planet Money",
+          "title": "How to get through the Strait of Hormuz",
+          "url": "/wiki/sources/how-to-get-through-the-strait-of-hormuz/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_6da70d43ac924c3b37ef826c0b7dd43e_34889738 [default.mp3_ywr3ahjkcgo_6da70d43ac924c3b37ef826c0b7dd43e_34889738].md",
+          "key": "iran-protests-and-sanctions",
+          "show": "Planet Money",
+          "title": "Iran, protests, and sanctions",
+          "url": "/wiki/sources/iran-protests-and-sanctions/"
+        },
+        {
+          "episode_file": "Even-more-maximum pressure： sanctions on Iran [6a8d6a9b66c4a1e81a4c86a9].md",
+          "key": "even-more-maximum-pressure-sanctions-on-iran-6a8d6a9b66c4a1e81a4c86a9",
+          "show": "Economist Podcasts",
+          "title": "Even-more-maximum pressure: sanctions on Iran",
+          "url": "/wiki/sources/even-more-maximum-pressure-sanctions-on-iran-6a8d6a9b66c4a1e81a4c86a9/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/iransanctions/"
+    },
     "IsolatedRetailDemandManagement": {
       "episode_count": 1,
       "show_count": 1,
@@ -2733,6 +2834,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/jonathanhurst/"
+    },
+    "JoshSpencer": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Even-more-maximum pressure： sanctions on Iran [6a8d6a9b66c4a1e81a4c86a9].md",
+          "key": "even-more-maximum-pressure-sanctions-on-iran-6a8d6a9b66c4a1e81a4c86a9",
+          "show": "Economist Podcasts",
+          "title": "Even-more-maximum pressure: sanctions on Iran",
+          "url": "/wiki/sources/even-more-maximum-pressure-sanctions-on-iran-6a8d6a9b66c4a1e81a4c86a9/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/joshspencer/"
     },
     "KenCato": {
       "episode_count": 1,
@@ -3053,6 +3170,43 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/lijihistorian/"
+    },
+    "LinkedIn": {
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Microsoft CEO Satya Nadella on AI’s Business Revolution： What Happens to SaaS, OpenAI, and Microsoft？ ｜ LIVE from Davos [39818140].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Microsoft CEO Satya Nadella on AI's Business Revolution: What Happens to SaaS, OpenAI, and Microsoft? | LIVE from Davos",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140/"
+        },
+        {
+          "episode_file": "tech_20260810_0810_MP_TECH_pod_128 [tech_20260810_0810_MP_TECH_pod_128].md",
+          "key": "tech-20260810-0810-mp-tech-pod-128-tech-20260810-0810-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Substack CEO on the platform's new AI detector",
+          "url": "/wiki/sources/tech-20260810-0810-mp-tech-pod-128-tech-20260810-0810-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260121_0121_MP_TECH_pod_128 [tech_20260121_0121_MP_TECH_pod_128].md",
+          "key": "tech-20260121-0121-mp-tech-pod-128-tech-20260121-0121-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Welcome to the 'infocalypse'",
+          "url": "/wiki/sources/tech-20260121-0121-mp-tech-pod-128-tech-20260121-0121-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "Even-more-maximum pressure： sanctions on Iran [6a8d6a9b66c4a1e81a4c86a9].md",
+          "key": "even-more-maximum-pressure-sanctions-on-iran-6a8d6a9b66c4a1e81a4c86a9",
+          "show": "Economist Podcasts",
+          "title": "Even-more-maximum pressure: sanctions on Iran",
+          "url": "/wiki/sources/even-more-maximum-pressure-sanctions-on-iran-6a8d6a9b66c4a1e81a4c86a9/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/linkedin/"
     },
     "LiuBiao": {
       "episode_count": 12,
@@ -3957,6 +4111,29 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/oakley/"
     },
+    "OilRevenueSanctionsLeverage": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Caracas under pressure： democracy in Venezuela [6a7d8bbe7d85cbdf96e00822].md",
+          "key": "caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822",
+          "show": "Economist Podcasts",
+          "title": "Caracas under pressure: democracy in Venezuela",
+          "url": "/wiki/sources/caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822/"
+        },
+        {
+          "episode_file": "Even-more-maximum pressure： sanctions on Iran [6a8d6a9b66c4a1e81a4c86a9].md",
+          "key": "even-more-maximum-pressure-sanctions-on-iran-6a8d6a9b66c4a1e81a4c86a9",
+          "show": "Economist Podcasts",
+          "title": "Even-more-maximum pressure: sanctions on Iran",
+          "url": "/wiki/sources/even-more-maximum-pressure-sanctions-on-iran-6a8d6a9b66c4a1e81a4c86a9/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/oilrevenuesanctionsleverage/"
+    },
     "OnPolicyDistillation": {
       "episode_count": 2,
       "show_count": 2,
@@ -4128,6 +4305,36 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/peterfankhauser/"
+    },
+    "Philippines": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "The Elon game： Musk’s vision of the future [6a633594d19896314260e5c4].md",
+          "key": "the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4",
+          "show": "Economist Podcasts",
+          "title": "The Elon game: Musk's vision of the future",
+          "url": "/wiki/sources/the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4/"
+        },
+        {
+          "episode_file": "Peace fire： further US-Iran strikes [6a4f7acffe878dc8e27e6fbf].md",
+          "key": "peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf",
+          "show": "Economist Podcasts",
+          "title": "Peace fire: further US-Iran strikes",
+          "url": "/wiki/sources/peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf/"
+        },
+        {
+          "episode_file": "Even-more-maximum pressure： sanctions on Iran [6a8d6a9b66c4a1e81a4c86a9].md",
+          "key": "even-more-maximum-pressure-sanctions-on-iran-6a8d6a9b66c4a1e81a4c86a9",
+          "show": "Economist Podcasts",
+          "title": "Even-more-maximum pressure: sanctions on Iran",
+          "url": "/wiki/sources/even-more-maximum-pressure-sanctions-on-iran-6a8d6a9b66c4a1e81a4c86a9/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/philippines/"
     },
     "PhysicalAIHardTakeoff": {
       "episode_count": 1,
@@ -4344,6 +4551,29 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/santaizicatholicvillage/"
+    },
+    "ScottBessent": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "179.先救日元再救长债，“救火队长”贝森特在走一条怎样的钢丝？ [lqJc6VZ_1UNGNKPDW9d5kBSa_oUo].md",
+          "key": "179-xian-jiu-riyuan-zai-jiu-changzhai-jiuhuoduizhang-beisente-zai-zou-yi-tiao-zenyang-de-gangsi-lqjc6vz-1ungnkpdw9d5kbsa-ouo",
+          "show": "起朱楼宴宾客",
+          "title": "179.先救日元再救长债，“救火队长”贝森特在走一条怎样的钢丝？",
+          "url": "/wiki/sources/179-xian-jiu-riyuan-zai-jiu-changzhai-jiuhuoduizhang-beisente-zai-zou-yi-tiao-zenyang-de-gangsi-lqjc6vz-1ungnkpdw9d5kbsa-ouo/"
+        },
+        {
+          "episode_file": "Even-more-maximum pressure： sanctions on Iran [6a8d6a9b66c4a1e81a4c86a9].md",
+          "key": "even-more-maximum-pressure-sanctions-on-iran-6a8d6a9b66c4a1e81a4c86a9",
+          "show": "Economist Podcasts",
+          "title": "Even-more-maximum pressure: sanctions on Iran",
+          "url": "/wiki/sources/even-more-maximum-pressure-sanctions-on-iran-6a8d6a9b66c4a1e81a4c86a9/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/scottbessent/"
     },
     "ShangXiaBanchang": {
       "episode_count": 1,
@@ -4950,6 +5180,57 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/trustbasedcommonsgovernance/"
     },
+    "UnitedArabEmirates": {
+      "episode_count": 6,
+      "show_count": 3,
+      "source_note_count": 6,
+      "sources": [
+        {
+          "episode_file": "Outsider chance： ending Sudan’s proxy war [6a75b3695d765781a2b1b132].md",
+          "key": "outsider-chance-ending-sudans-proxy-war-6a75b3695d765781a2b1b132",
+          "show": "Economist Podcasts",
+          "title": "Outsider chance: ending Sudan's proxy war",
+          "url": "/wiki/sources/outsider-chance-ending-sudans-proxy-war-6a75b3695d765781a2b1b132/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_6de40aadb0709698bbe625e5508949b5_29033608 [default.mp3_ywr3ahjkcgo_6de40aadb0709698bbe625e5508949b5_29033608].md",
+          "key": "the-secret-meeting-that-launched-opec",
+          "show": "Planet Money",
+          "title": "The secret meeting that launched OPEC",
+          "url": "/wiki/sources/the-secret-meeting-that-launched-opec/"
+        },
+        {
+          "episode_file": "Gulf-co-operation counsel： what next for the region [6a4387d73fa89e3338f83da6].md",
+          "key": "gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6",
+          "show": "Economist Podcasts",
+          "title": "Gulf-co-operation counsel: what next for the region",
+          "url": "/wiki/sources/gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6/"
+        },
+        {
+          "episode_file": "vol.106.迪拜，真的遍地是黄金？ [lpXchuTXf7yOMjDfyKwZvVNmBaQ8].md",
+          "key": "vol-106-dibai-zhende-biandi-shi-huangjin-lpxchutxf7yomjdfykwzvvnmbaq8",
+          "show": "起朱楼宴宾客",
+          "title": "vol.106.迪拜，真的遍地是黄金？",
+          "url": "/wiki/sources/vol-106-dibai-zhende-biandi-shi-huangjin-lpxchutxf7yomjdfykwzvvnmbaq8/"
+        },
+        {
+          "episode_file": "A firm Andy： what are new British PM’s plans？ [6a5deeca76f8ee25bb4bbf9c].md",
+          "key": "a-firm-andy-what-are-new-british-pms-plans-6a5deeca76f8ee25bb4bbf9c",
+          "show": "Economist Podcasts",
+          "title": "A firm Andy: what are new British PM's plans?",
+          "url": "/wiki/sources/a-firm-andy-what-are-new-british-pms-plans-6a5deeca76f8ee25bb4bbf9c/"
+        },
+        {
+          "episode_file": "Even-more-maximum pressure： sanctions on Iran [6a8d6a9b66c4a1e81a4c86a9].md",
+          "key": "even-more-maximum-pressure-sanctions-on-iran-6a8d6a9b66c4a1e81a4c86a9",
+          "show": "Economist Podcasts",
+          "title": "Even-more-maximum pressure: sanctions on Iran",
+          "url": "/wiki/sources/even-more-maximum-pressure-sanctions-on-iran-6a8d6a9b66c4a1e81a4c86a9/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/unitedarabemirates/"
+    },
     "VernacularFemaleReligiousWriting": {
       "episode_count": 1,
       "show_count": 1,
@@ -5011,6 +5292,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/viennasocialhousingscale/"
+    },
+    "VishnuPadmanabhan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Even-more-maximum pressure： sanctions on Iran [6a8d6a9b66c4a1e81a4c86a9].md",
+          "key": "even-more-maximum-pressure-sanctions-on-iran-6a8d6a9b66c4a1e81a4c86a9",
+          "show": "Economist Podcasts",
+          "title": "Even-more-maximum pressure: sanctions on Iran",
+          "url": "/wiki/sources/even-more-maximum-pressure-sanctions-on-iran-6a8d6a9b66c4a1e81a4c86a9/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/vishnupadmanabhan/"
     },
     "WanChengLujiang": {
       "episode_count": 1,

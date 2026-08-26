@@ -11676,6 +11676,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-26] ingest | Even-more-maximum pressure: sanctions on Iran
+
+Added source page for The Intelligence episode on Operation Economic Outcast, Philippine AI/offshoring labor resilience, and LinkedIn-based city place-premium wage research. Created Fraser McIlwraith, Josh Spencer, Vishnu Padmanabhan, Gaurav Karna, AI Offshoring Labor Resilience, and City Place Premium; updated Iran Sanctions, Oil Revenue Sanctions Leverage, Scott Bessent, Philippines, LinkedIn, and United Arab Emirates to synthesis-v1. No settled contradiction found; the episode qualifies earlier Iran relief and AI labor-displacement branches by showing renewed sanctions pressure and continued offshore employment growth alongside entry-level pressure.
+
 ## [2026-08-26] ingest | How Modern Brands Build Loyalty, Purpose, and Identity | Andy Stalman | Shekhar Natarajan Podcast
 
 Added source page for the Tomorrow Today episode with Andy Stalman on whole-company branding, brand doing, actionable values, AI as a brand mirror, brand value protection, and angelic intelligence. Created Andy Stalman, Shekhar Natarajan, Tomorrow Today, Totem Branding, Lacoste, Aeropuertos Argentina 2000, Ken Cato, Whole-Company Branding, Brand Doing, Actionable Organizational Values, AI as Brand Mirror, Brand Value Protection, and Angelic Intelligence. Updated index, overview, and downstream synthesis inputs. No direct contradiction found; conversational statistics and rankings remain source-scoped.
@@ -12093,6 +12097,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》1036丨刘表为何要逼韩嵩见曹操？
 
 Added source page for Hanji 1036: Liu Biao's unresolved neutrality between Yuan Shao and Cao Cao, Han Song and Liu Xian's warning that non-alignment can anger both sides, and Han Song's pre-mission explanation that court appointment would reorder his formal loyalty if Liu Biao remained undecided. Created Liu Xian (late Han), updated Han Song (late Han), Liu Biao, Court Legitimacy Over Patron Loyalty, Suspicion-Driven Elite Alienation, and migrated Fence-Sitting Strategic Exposure to synthesis-v1. No settled contradiction found; Hanji 1036 qualifies Hanji 1037 by showing Han Song warned Liu Biao before the Xudu mission.
+
+## [2026-08-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-26] lint | Wiki health check
 

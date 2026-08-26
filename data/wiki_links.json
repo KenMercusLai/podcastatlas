@@ -2043,6 +2043,10 @@
     "title": "AI Office Agent",
     "url": "/wiki/concepts/aiofficeagent/"
   },
+  "AIOffshoringLaborResilience": {
+    "title": "AI Offshoring Labor Resilience",
+    "url": "/wiki/concepts/aioffshoringlaborresilience/"
+  },
   "AIOperationsRole": {
     "title": "AI Operations Role",
     "url": "/wiki/concepts/aioperationsrole/"
@@ -10179,6 +10183,10 @@
     "title": "City-Owned Grocery Politics",
     "url": "/wiki/concepts/cityownedgrocerypolitics/"
   },
+  "CityPlacePremium": {
+    "title": "City Place Premium",
+    "url": "/wiki/concepts/cityplacepremium/"
+  },
   "CivicAudienceEtiquette": {
     "title": "Civic Audience Etiquette",
     "url": "/wiki/concepts/civicaudienceetiquette/"
@@ -18075,6 +18083,10 @@
     "title": "Franz Kromer / 弗朗兹·克罗默",
     "url": "/wiki/entities/franzkromer/"
   },
+  "FraserMcIlwraith": {
+    "title": "Fraser McIlwraith",
+    "url": "/wiki/entities/frasermcilwraith/"
+  },
   "FrauEva": {
     "title": "Frau Eva / 夏娃夫人",
     "url": "/wiki/entities/fraueva/"
@@ -18826,6 +18838,10 @@
   "GastonBrowne": {
     "title": "Gaston Browne",
     "url": "/wiki/entities/gastonbrowne/"
+  },
+  "GauravKarna": {
+    "title": "Gaurav Karna",
+    "url": "/wiki/entities/gauravkarna/"
   },
   "GauravSukhatme": {
     "title": "Gaurav Sukhatme",
@@ -25554,6 +25570,10 @@
   "JoshSchaeffer": {
     "title": "Josh Schaeffer",
     "url": "/wiki/entities/joshschaeffer/"
+  },
+  "JoshSpencer": {
+    "title": "Josh Spencer",
+    "url": "/wiki/entities/joshspencer/"
   },
   "JosieDallap": {
     "title": "Josie Dallap",
@@ -48891,6 +48911,10 @@
     "title": "Vishal (Data Science With Sam)",
     "url": "/wiki/entities/vishaldatasciencewithsam/"
   },
+  "VishnuPadmanabhan": {
+    "title": "Vishnu Padmanabhan",
+    "url": "/wiki/entities/vishnupadmanabhan/"
+  },
   "VisionLanguageActionModels": {
     "title": "Vision Language Action Models",
     "url": "/wiki/concepts/visionlanguageactionmodels/"
@@ -55642,6 +55666,10 @@
   "eric-ries-on-how-founders-quietly-lose-their-company": {
     "title": "Eric Ries on How Founders Quietly Lose Their Company",
     "url": "/wiki/sources/eric-ries-on-how-founders-quietly-lose-their-company/"
+  },
+  "even-more-maximum-pressure-sanctions-on-iran-6a8d6a9b66c4a1e81a4c86a9": {
+    "title": "Even-more-maximum pressure: sanctions on Iran",
+    "url": "/wiki/sources/even-more-maximum-pressure-sanctions-on-iran-6a8d6a9b66c4a1e81a4c86a9/"
   },
   "fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552": {
     "title": "番外 14：跟李诞聊聊播客、创作、AI 与中年",

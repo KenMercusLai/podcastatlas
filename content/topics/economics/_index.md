@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 1859
+topic_total_pages: 1862
 topic_concepts:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -526,6 +526,9 @@ topic_concepts:
   - key: "CircleOfCompetence"
     title: "Circle Of Competence"
     url: "/wiki/concepts/circleofcompetence/"
+  - key: "CityPlacePremium"
+    title: "City Place Premium"
+    url: "/wiki/concepts/cityplacepremium/"
   - key: "CivicRelationshipsAsCrisisInfrastructure"
     title: "Civic Relationships As Crisis Infrastructure"
     url: "/wiki/concepts/civicrelationshipsascrisisinfrastructure/"
@@ -3419,6 +3422,9 @@ topic_entities:
   - key: "GaryStark"
     title: "Gary Stark"
     url: "/wiki/entities/garystark/"
+  - key: "GauravKarna"
+    title: "Gaurav Karna"
+    url: "/wiki/entities/gauravkarna/"
   - key: "GECAS"
     title: "GECAS"
     url: "/wiki/entities/gecas/"
@@ -4502,6 +4508,9 @@ topic_entities:
   - key: "VishalDataScienceWithSam"
     title: "Vishal (Data Science With Sam)"
     url: "/wiki/entities/vishaldatasciencewithsam/"
+  - key: "VishnuPadmanabhan"
+    title: "Vishnu Padmanabhan"
+    url: "/wiki/entities/vishnupadmanabhan/"
   - key: "VistaEquityPartners"
     title: "Vista Equity Partners"
     url: "/wiki/entities/vistaequitypartners/"
