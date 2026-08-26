@@ -1621,6 +1621,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/deleterequestandoptoutplatform/"
     },
+    "DengJiLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1021丨曹操手握重权，为什么容不下杨彪？ [lr_y4xqAnWJYSlVF4fbWxJUYMTUN].md",
+          "key": "zizhi-tongjian-hanji-1021-caocao-shouwo-zhongquan-weishenme-rongbuxia-yangbiao-lr-y4xqanwjyslvf4fbwxjuymtun",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1021丨曹操手握重权，为什么容不下杨彪？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1021-caocao-shouwo-zhongquan-weishenme-rongbuxia-yangbiao-lr-y4xqanwjyslvf4fbwxjuymtun/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/dengjilatehan/"
+    },
     "DigitRobot": {
       "episode_count": 1,
       "show_count": 1,
@@ -2695,6 +2711,64 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/hansonglatehan/"
     },
+    "HanXianLateHan": {
+      "episode_count": 7,
+      "show_count": 1,
+      "source_note_count": 7,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》991丨争夺献帝之战：谁能最终取胜？ [lkbSl5UZqxOuzM6MleWrNUNS0x6P].md",
+          "key": "zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》991丨争夺献帝之战：谁能最终取胜？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》999丨三国乱世，人性有多么脆弱？ [li8Tz30Elca7BnIpEI6DfQDxMMEu].md",
+          "key": "zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》999丨三国乱世，人性有多么脆弱？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1000丨郝萌叛乱，竟逼吕布翻墙逃跑？ [lluThd9hV_0NqBOT4FuctjCuka68].md",
+          "key": "zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1000丨郝萌叛乱，竟逼吕布翻墙逃跑？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1003丨三国最被低估的谋士：董昭 [llC7Q-LoennXw26v3u5cbhiTIKW1].md",
+          "key": "zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1003丨三国最被低估的谋士：董昭",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1004丨曹操迎奉汉献帝，是谁的主意？ [lrRGA-flmX5aJnhU1c42x7kOoE94].md",
+          "key": "zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1004丨曹操迎奉汉献帝，是谁的主意？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1018丨他为何让曹操忌惮、孙策畏惧、刘备惋惜？ [lqCcdHrJMeRO-gT7vSAQ2eJuHHw8].md",
+          "key": "zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1018丨他为何让曹操忌惮、孙策畏惧、刘备惋惜？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1021丨曹操手握重权，为什么容不下杨彪？ [lr_y4xqAnWJYSlVF4fbWxJUYMTUN].md",
+          "key": "zizhi-tongjian-hanji-1021-caocao-shouwo-zhongquan-weishenme-rongbuxia-yangbiao-lr-y4xqanwjyslvf4fbwxjuymtun",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1021丨曹操手握重权，为什么容不下杨彪？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1021-caocao-shouwo-zhongquan-weishenme-rongbuxia-yangbiao-lr-y4xqanwjyslvf4fbwxjuymtun/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/hanxianlatehan/"
+    },
     "HeYongLateHan": {
       "episode_count": 5,
       "show_count": 1,
@@ -2955,6 +3029,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/humanoidrobotcommercialization/"
+    },
+    "HuyangLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1021丨曹操手握重权，为什么容不下杨彪？ [lr_y4xqAnWJYSlVF4fbWxJUYMTUN].md",
+          "key": "zizhi-tongjian-hanji-1021-caocao-shouwo-zhongquan-weishenme-rongbuxia-yangbiao-lr-y4xqanwjyslvf4fbwxjuymtun",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1021丨曹操手握重权，为什么容不下杨彪？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1021-caocao-shouwo-zhongquan-weishenme-rongbuxia-yangbiao-lr-y4xqanwjyslvf4fbwxjuymtun/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/huyanglatehan/"
     },
     "IndustrialInspectionRobotics": {
       "episode_count": 1,
@@ -3633,6 +3723,36 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/jiddukrishnamurti/"
+    },
+    "JinShang": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》964丨别骄傲！别骄傲！别骄傲！ [lo2_eDzFFU0v9iXoabC06rX_OqoQ].md",
+          "key": "zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》964丨别骄傲！别骄傲！别骄傲！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1016丨三国乱世里，陈珪家族的命运抉择 [ltUckdCxpYxK-XmzP8Rt_2gJfZcs].md",
+          "key": "zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1016丨三国乱世里，陈珪家族的命运抉择",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1021丨曹操手握重权，为什么容不下杨彪？ [lr_y4xqAnWJYSlVF4fbWxJUYMTUN].md",
+          "key": "zizhi-tongjian-hanji-1021-caocao-shouwo-zhongquan-weishenme-rongbuxia-yangbiao-lr-y4xqanwjyslvf4fbwxjuymtun",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1021丨曹操手握重权，为什么容不下杨彪？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1021-caocao-shouwo-zhongquan-weishenme-rongbuxia-yangbiao-lr-y4xqanwjyslvf4fbwxjuymtun/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/jinshang/"
     },
     "JonathanHurst": {
       "episode_count": 1,
@@ -4748,6 +4868,50 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/lyubu/"
     },
+    "MaRidiLateHan": {
+      "episode_count": 5,
+      "show_count": 1,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》941丨身处官场，他竟想干翻皇帝 [liU-FqIz9pI7U6ClTrn-cJmjz__r].md",
+          "key": "zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》941丨身处官场，他竟想干翻皇帝",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》942丨越优秀的人活得越累，合理吗？ [lkwlRcgnT-kxXC2qqZ6z6WKG7e5z].md",
+          "key": "zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》942丨越优秀的人活得越累，合理吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》963丨史上被“点天灯”的第一人，是他！ [lkPkhlpKV3Xpw-hUR4b7SH-3DRUk].md",
+          "key": "zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》963丨史上被“点天灯”的第一人，是他！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》982丨扒一扒刘备入徐背后的利益之争 [ljAjdC95XTyLHkn5TeEFz26Yyyz1].md",
+          "key": "zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》982丨扒一扒刘备入徐背后的利益之争",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1021丨曹操手握重权，为什么容不下杨彪？ [lr_y4xqAnWJYSlVF4fbWxJUYMTUN].md",
+          "key": "zizhi-tongjian-hanji-1021-caocao-shouwo-zhongquan-weishenme-rongbuxia-yangbiao-lr-y4xqanwjyslvf4fbwxjuymtun",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1021丨曹操手握重权，为什么容不下杨彪？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1021-caocao-shouwo-zhongquan-weishenme-rongbuxia-yangbiao-lr-y4xqanwjyslvf4fbwxjuymtun/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/maridilatehan/"
+    },
     "MaxBennett": {
       "episode_count": 1,
       "show_count": 1,
@@ -5705,6 +5869,29 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/predictiveworldmodelanxiety/"
+    },
+    "PrestigeConstrainedPoliticalProsecution": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1020丨三国败家子袁术，如何把好牌打得稀烂？ [lhwR9hFMANr_zkTLEUfy3kvl38u0].md",
+          "key": "zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1020丨三国败家子袁术，如何把好牌打得稀烂？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1021丨曹操手握重权，为什么容不下杨彪？ [lr_y4xqAnWJYSlVF4fbWxJUYMTUN].md",
+          "key": "zizhi-tongjian-hanji-1021-caocao-shouwo-zhongquan-weishenme-rongbuxia-yangbiao-lr-y4xqanwjyslvf4fbwxjuymtun",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1021丨曹操手握重权，为什么容不下杨彪？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1021-caocao-shouwo-zhongquan-weishenme-rongbuxia-yangbiao-lr-y4xqanwjyslvf4fbwxjuymtun/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/prestigeconstrainedpoliticalprosecution/"
     },
     "Qiuzhen": {
       "episode_count": 1,
@@ -7273,6 +7460,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/wurenzhixiao/"
     },
+    "WuyinLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1021丨曹操手握重权，为什么容不下杨彪？ [lr_y4xqAnWJYSlVF4fbWxJUYMTUN].md",
+          "key": "zizhi-tongjian-hanji-1021-caocao-shouwo-zhongquan-weishenme-rongbuxia-yangbiao-lr-y4xqanwjyslvf4fbwxjuymtun",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1021丨曹操手握重权，为什么容不下杨彪？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1021-caocao-shouwo-zhongquan-weishenme-rongbuxia-yangbiao-lr-y4xqanwjyslvf4fbwxjuymtun/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/wuyinlatehan/"
+    },
     "XiaFuLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -7488,6 +7691,178 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/yanrou/"
+    },
+    "YangBiao": {
+      "episode_count": 9,
+      "show_count": 1,
+      "source_note_count": 9,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》915丨世上没有真正的口误，这话对吗？ [lgXCODJxnAOZvYEgxQUrgZjI5gUs].md",
+          "key": "zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》915丨世上没有真正的口误，这话对吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》948丨董卓废帝：权臣如何改变皇权游戏？ [ltEKG1a_5b5U37AeeKjM3DM2m6kK].md",
+          "key": "zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》948丨董卓废帝：权臣如何改变皇权游戏？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》951丨天降横财，究竟是好事还是坏事？ [loVwGng2WrTfnO-S9tTpYBBHksVH].md",
+          "key": "zizhi-tongjian-hanji-951-tianjiang-hengcai-jiujing-shi-haoshi-haishi-huaishi-lovwgng2wrtfno-s9ttpybbhksvh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》951丨天降横财，究竟是好事还是坏事？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-951-tianjiang-hengcai-jiujing-shi-haoshi-haishi-huaishi-lovwgng2wrtfno-s9ttpybbhksvh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》979丨遭遇同僚背刺，他如何为曹操力挽狂澜？ [luU58a2Ww11g_rADh_5g4l7FCIS_].md",
+          "key": "zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》979丨遭遇同僚背刺，他如何为曹操力挽狂澜？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》985丨反目成仇：李郭之乱的细节探究 [lt_T2UN0ZcUDkIGE9UCL1tXA2HHK].md",
+          "key": "zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》985丨反目成仇：李郭之乱的细节探究",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》989丨宁为太平犬，不做乱世人 [lkOycygmjnlTuVPQ-6wjv-lS61s6].md",
+          "key": "zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》989丨宁为太平犬，不做乱世人",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》991丨争夺献帝之战：谁能最终取胜？ [lkbSl5UZqxOuzM6MleWrNUNS0x6P].md",
+          "key": "zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》991丨争夺献帝之战：谁能最终取胜？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1020丨三国败家子袁术，如何把好牌打得稀烂？ [lhwR9hFMANr_zkTLEUfy3kvl38u0].md",
+          "key": "zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1020丨三国败家子袁术，如何把好牌打得稀烂？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1021丨曹操手握重权，为什么容不下杨彪？ [lr_y4xqAnWJYSlVF4fbWxJUYMTUN].md",
+          "key": "zizhi-tongjian-hanji-1021-caocao-shouwo-zhongquan-weishenme-rongbuxia-yangbiao-lr-y4xqanwjyslvf4fbwxjuymtun",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1021丨曹操手握重权，为什么容不下杨彪？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1021-caocao-shouwo-zhongquan-weishenme-rongbuxia-yangbiao-lr-y4xqanwjyslvf4fbwxjuymtun/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/yangbiao/"
+    },
+    "YangFengLateHan": {
+      "episode_count": 13,
+      "show_count": 1,
+      "source_note_count": 13,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》985丨反目成仇：李郭之乱的细节探究 [lt_T2UN0ZcUDkIGE9UCL1tXA2HHK].md",
+          "key": "zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》985丨反目成仇：李郭之乱的细节探究",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》986丨天欲其亡，必先令其狂 [lvLvu057-tnz3hAL6oodHyDvZvbd].md",
+          "key": "zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》986丨天欲其亡，必先令其狂",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》988丨受尽凌辱，他是汉末悲惨的皇帝 [lsDKpAkVk5u_OMEgCRI_wSTup-ZL].md",
+          "key": "zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》988丨受尽凌辱，他是汉末悲惨的皇帝",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》989丨宁为太平犬，不做乱世人 [lkOycygmjnlTuVPQ-6wjv-lS61s6].md",
+          "key": "zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》989丨宁为太平犬，不做乱世人",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》990丨李傕&郭汜：生死冤家为何突然联手？ [lmop5mcRsJUq_iXuv0sfHo5mvc_f].md",
+          "key": "zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》990丨李傕&郭汜：生死冤家为何突然联手？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》991丨争夺献帝之战：谁能最终取胜？ [lkbSl5UZqxOuzM6MleWrNUNS0x6P].md",
+          "key": "zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》991丨争夺献帝之战：谁能最终取胜？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》999丨三国乱世，人性有多么脆弱？ [li8Tz30Elca7BnIpEI6DfQDxMMEu].md",
+          "key": "zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》999丨三国乱世，人性有多么脆弱？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1000丨郝萌叛乱，竟逼吕布翻墙逃跑？ [lluThd9hV_0NqBOT4FuctjCuka68].md",
+          "key": "zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1000丨郝萌叛乱，竟逼吕布翻墙逃跑？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1003丨三国最被低估的谋士：董昭 [llC7Q-LoennXw26v3u5cbhiTIKW1].md",
+          "key": "zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1003丨三国最被低估的谋士：董昭",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1004丨曹操迎奉汉献帝，是谁的主意？ [lrRGA-flmX5aJnhU1c42x7kOoE94].md",
+          "key": "zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1004丨曹操迎奉汉献帝，是谁的主意？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1005丨孙策注定早逝，是性格决定命运？ [lpQnerE2cWcrngggyEzd-BsQAHx4].md",
+          "key": "zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1005丨孙策注定早逝，是性格决定命运？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1018丨他为何让曹操忌惮、孙策畏惧、刘备惋惜？ [lqCcdHrJMeRO-gT7vSAQ2eJuHHw8].md",
+          "key": "zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1018丨他为何让曹操忌惮、孙策畏惧、刘备惋惜？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1021丨曹操手握重权，为什么容不下杨彪？ [lr_y4xqAnWJYSlVF4fbWxJUYMTUN].md",
+          "key": "zizhi-tongjian-hanji-1021-caocao-shouwo-zhongquan-weishenme-rongbuxia-yangbiao-lr-y4xqanwjyslvf4fbwxjuymtun",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1021丨曹操手握重权，为什么容不下杨彪？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1021-caocao-shouwo-zhongquan-weishenme-rongbuxia-yangbiao-lr-y4xqanwjyslvf4fbwxjuymtun/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/yangfenglatehan/"
     },
     "YangFuLateHan": {
       "episode_count": 1,

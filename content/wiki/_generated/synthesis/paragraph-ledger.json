@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "7c31699f19222e774fff76473ab87279a5574f385b405b75d4427426c0c90ba2",
       "45a44f77de74d0637e13f3e7e7b4abaf46478b01a188b0bbe804ec6096a9083c",
       "20a627e1fa58ef974c09c43448d566a65f34c4716c65a7b0cb3a5e9e99aa6c80",
       "d59deaae3eb589df45f702d15d17cc78bcc6a4a8b3742d681f8adc3cf903d0c0",
@@ -266,11 +267,42 @@
       "ed252faccaaf1dc4e8c654d3406a6a1a0fc3a6f6fe78821348d1b123c7e85a5c",
       "32b62a0e1fc3144c5e7770721fc745607afef0d0cf46a8fe94d35cab377dbbf9"
     ],
-    "paragraph_count": 264
+    "paragraph_count": 265
   },
-  "overview_commit": "1c502415f0207645a46c8c95b3436e62b921715a",
-  "overview_digest": "71e6cf96f8cd24ab34eccdaa23117acd27ef723e268e6ecab0bb79c5bcf85b25",
+  "overview_commit": "32f7e24bf715a63055b8d7a8f453b69ade67d65f",
+  "overview_digest": "e7451d158345c3cf95b058479b508b7a172ff5f23f64abb65cee25532971dc59",
   "paragraphs": [
+    {
+      "id": "7c31699f19222e774fff76473ab87279a5574f385b405b75d4427426c0c90ba2",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "[[zizhi-tongjian-hanji-1021-caocao-shouwo-zhongquan-weishenme-rongbuxia-yangbiao-lr-y4xqanwjyslvf4fbwxjuymtun|Hanji 1021]] sharpens the court-control side of [[PrestigeConstrainedPoliticalProsecution|名望约束下的政治追诉]]. [[CaoCao]] cannot safely execute [[YangBiao]] while [[KongRong]], [[ManChong]], weak evidence, and Yang's old-Han prestige make public confidence costly, but release plus removal from taiwei still sidelines him and warns the [[EmperorXianOfHan]] loyalist field. The same source extends [[MingqiLegitimacy]] through [[MaRidiLateHan]] and [[JinShang]], contrasting Yuan Shu's coercive use of envoy symbols with posthumous loyalty recognition, and it links the southern military branch from [[HuyangLateHan]] and [[WuyinLateHan]] to the later [[ZhangXiu]]-[[LiuBiao]] pressure sequence. [[YangFengLateHan]] and [[HanXianLateHan]] then close a Baibo-remnant arc: escort merit and coalition switching cannot compensate for food shortage, discipline failure, and the loss of a stable base.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 2,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "CaoCao",
+        "EmperorXianOfHan",
+        "HanXianLateHan",
+        "HuyangLateHan",
+        "JinShang",
+        "KongRong",
+        "LiuBiao",
+        "MaRidiLateHan",
+        "ManChong",
+        "MingqiLegitimacy",
+        "PrestigeConstrainedPoliticalProsecution",
+        "WuyinLateHan",
+        "YangBiao",
+        "YangFengLateHan",
+        "ZhangXiu",
+        "zizhi-tongjian-hanji-1021-caocao-shouwo-zhongquan-weishenme-rongbuxia-yangbiao-lr-y4xqanwjyslvf4fbwxjuymtun"
+      ]
+    },
     {
       "id": "45a44f77de74d0637e13f3e7e7b4abaf46478b01a188b0bbe804ec6096a9083c",
       "primary_topic": "governance-and-institutions",

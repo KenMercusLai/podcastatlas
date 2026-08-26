@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-27] ingest | 《资治通鉴·汉纪》1021丨曹操手握重权，为什么容不下杨彪？
+
+Added source page for Hanji 1021: Cao Cao releases but removes Yang Biao, turning the old-Han loyalist case into a reputation-constrained court-control signal; Ma Ridi and Jin Shang receive posthumous court treatment after Yuan Shu pressure; Cao attacks Huyang and Wuyin to isolate Zhang Xiu and Liu Biao's Nanyang line; and Yang Feng and Han Xian's Baibo remnant branch ends after Liu Bei kills Yang Feng and Han Xian is killed in flight. Created Deng Ji, Huyang, and Wuyin pages; migrated Yang Biao, Ma Ridi, Jin Shang, Han Xian, Yang Feng, and Prestige-Constrained Political Prosecution to synthesis-v1. No settled contradiction found; transcript/person-place variants around Huyang, Wuyin, Deng Ji, and Zhang Xuan are kept source-scoped where not independently expanded.
+
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》1023丨揭秘曹操与张绣的兵法博弈
 
 Added source page for Hanji 1023: Yuan Shao's proposed capital relocation around the emperor, Tian Feng's rejected Xudu attack advice, Cao Cao's withdrawal from the Rangcheng front, Zhang Xiu and Liu Biao's Anzhong blockade, Cao Cao's false-escape ambush, and Jia Xu's two-stage pursuit judgment. Created Anzhong and Returning Army Interdiction Risk pages; updated Zhang Xiu, Jia Xu, Liu Biao, Tian Feng, Death-Ground Tactical Preconditions, and Lure Enemy Out of Position. No settled contradiction found; transcript place wording such as 眷城 and 壤县 is kept source-scoped while linked cautiously to existing geography.
@@ -12178,6 +12182,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》1024丨勇冠三军吕布，为何始终一事无成？
 
 Added source page for Hanji 1024: Lü Bu's 198 CE pre-Xiapi decision field, Gao Shun and Zhang Liao's attack on Liu Bei, Xun You's attack-window advice to Cao Cao, Chen Gong's rejected early-attack and abandoned inner-outer attrition plan, and Yuan Shu's still-uncertain rescue channel. Updated Lü Bu and Long-Term Achievement Discipline to synthesis-v1. No settled contradiction found; the source qualifies final-cause readings of Lü Bu's fall by moving the failure earlier to lost initiative, unstable trust, and weak self-command.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-27] lint | Wiki health check
 
