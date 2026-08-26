@@ -2,11 +2,13 @@
 title: "Collateral Punishment And Guilt By Association"
 type: concept
 tags: [law, criminal-law, punishment, family, records, legalism, pre-qin-history]
-sources: [zizhi-tongjian-qinji-131-1-qinxiang-lisi-yisheng-jingming-que-zao-yaozhan-liupvalcghtas2ibfyjrtdz6ctg7, zizhi-tongjian-qinji-128-1-buxiang-cuanwei-de-taijian-bushi-ge-hao-jianchen-lh23xj9qxvubj5rlfa9fxmddgbiu, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga, 100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302]
-last_updated: 2026-08-19
+sources: [zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79, zizhi-tongjian-qinji-131-1-qinxiang-lisi-yisheng-jingming-que-zao-yaozhan-liupvalcghtas2ibfyjrtdz6ctg7, zizhi-tongjian-qinji-128-1-buxiang-cuanwei-de-taijian-bushi-ge-hao-jianchen-lh23xj9qxvubj5rlfa9fxmddgbiu, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga, 100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302]
+last_updated: 2026-08-26
 ---
 
 # Collateral Punishment And Guilt By Association
+
+[[zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79|Hanji 907]] adds a late-Han party-prohibition variant. After [[CaoLuanLateHan|曹鸾]]'s memorial for party figures, [[EmperorLingOfHan|汉灵帝]] expands exclusion from office to students, old subordinates, fathers, sons, brothers, and five-degree relatives. This is not clan extermination, but it is still collateral punishment: the state turns educational, service, and kinship ties into political disability through [[PartyProhibitionKinshipExpansion|党锢亲属牵连扩大]].
 
 Collateral punishment and guilt by association is the episode's frame for punishment that continues beyond the formal sentence or spills onto relatives. [[100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302]] discusses criminal records, sex-offender registration, job and license barriers, school-entry record checks, and Chinese-style family-member consequences as modern forms adjacent to historical 连坐.
 
@@ -21,6 +23,7 @@ The source argues that this is hard to justify under either retribution or utili
 [[zizhi-tongjian-qinji-131-1-qinxiang-lisi-yisheng-jingming-que-zao-yaozhan-liupvalcghtas2ibfyjrtdz6ctg7|Qinji 131-1]] adds the condemned-minister version through [[LiSi|李斯]]. After [[ZhaoGao|赵高]] turns the treason charge into a forced confession, Li Si is executed at [[Xianyang|咸阳]] and the source says his three clans are destroyed. His son is also taken to execution with him, making family annihilation part of the punishment outcome rather than a separate battlefield event.
 
 ## Key Claims
+- In Hanji 907, collateral punishment appears as political-office exclusion through party-prohibition kinship and network liability rather than as execution or ordinary criminal-record stigma.
 - A sentence can end while social and administrative punishment continues.
 - Record-based exclusion may be easier to administer than to justify.
 - Punishing relatives violates personal responsibility and can reproduce harm across generations.
@@ -31,6 +34,7 @@ The source argues that this is hard to justify under either retribution or utili
 - In Li Si's Qin case, a manufactured treason conviction extends from the accused minister to son and clans, turning family destruction into political cleanup and deterrent display.
 
 ## Connections
+- [[zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79|Hanji 907]], [[CaoLuanLateHan|曹鸾]], [[EmperorLingOfHan|汉灵帝]], and [[PartyProhibitionKinshipExpansion|党锢亲属牵连扩大]] - late-Han office-exclusion variant of collateral punishment.
 - [[PunishmentTheoryTradeoff]] - theory background for why collateral punishment is unstable.
 - [[CriminalLawAsPowerLimitation]] - state-power and administrative-extension frame.
 - [[LawMoralityBoundary]] - moral-disgust boundary around continuing stigma.

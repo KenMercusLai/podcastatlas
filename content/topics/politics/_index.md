@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1882
+topic_total_pages: 1883
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -2917,6 +2917,9 @@ topic_concepts:
   - key: "DefensiveLocalGovernance"
     title: "保境安民式守成治理 / Defensive Local Governance"
     url: "/wiki/concepts/defensivelocalgovernance/"
+  - key: "PartyProhibitionKinshipExpansion"
+    title: "党锢亲属牵连扩大 / Party Prohibition Kinship Expansion"
+    url: "/wiki/concepts/partyprohibitionkinshipexpansion/"
   - key: "PartyProhibitionKinshipNarrowing"
     title: "党锢亲属牵连缩限 / Party Prohibition Kinship Narrowing"
     url: "/wiki/concepts/partyprohibitionkinshipnarrowing/"

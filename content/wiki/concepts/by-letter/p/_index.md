@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5490
+wiki_total_pages: 5491
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1427,6 +1427,9 @@ wiki_pages:
   - key: "PalaceConstructionFeeExtraction"
     title: "修宫钱转嫁盘剥 / Palace Construction Fee Extraction"
     url: "/wiki/concepts/palaceconstructionfeeextraction/"
+  - key: "PartyProhibitionKinshipExpansion"
+    title: "党锢亲属牵连扩大 / Party Prohibition Kinship Expansion"
+    url: "/wiki/concepts/partyprohibitionkinshipexpansion/"
   - key: "PartyProhibitionKinshipNarrowing"
     title: "党锢亲属牵连缩限 / Party Prohibition Kinship Narrowing"
     url: "/wiki/concepts/partyprohibitionkinshipnarrowing/"

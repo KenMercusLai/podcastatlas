@@ -41203,6 +41203,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "PartyProhibitionKinshipExpansion": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "PartyProhibitionKinshipNarrowing": [
     {
       "key": "politics",

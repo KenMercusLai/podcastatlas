@@ -2,11 +2,13 @@
 title: "阳球 / Yang Qiu (late Han)"
 type: entity
 tags: [late-han, han, minister, anti-eunuch-politics, leakage]
-sources: [zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a, zizhi-tongjian-hanji-914-xinren-de-ren-weihe-zong-shang-ni-zui-shen-lvwit-rzrkscn5a3h6wblntxppso, zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus, zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu, zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg, zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5]
+sources: [zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79, zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a, zizhi-tongjian-hanji-914-xinren-de-ren-weihe-zong-shang-ni-zui-shen-lvwit-rzrkscn5a3h6wblntxppso, zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus, zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu, zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg, zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5]
 last_updated: 2026-08-26
 ---
 
 # 阳球 / Yang Qiu (late Han)
+
+[[zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79|Hanji 907]] adds Yang Qiu's pre-anti-eunuch local-office marker. The transcript renders him as "杨求"; this page normalizes to [[YangQiuLateHan|阳球]] because the Pingyuan chancellor harsh-law case matches the later canonical official. The source says he is summoned to the tingwei for severe penal practice, then pardoned because of earlier merit against bandits in Jiujiang and appointed yilang.
 
 [[zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a|Hanji 912]] adds a source-scoped antecedent before Yang Qiu's Hongdu memorial and anti-eunuch prosecution branches. The transcript renders the name as "杨球" and calls him jiangzuo dajiang; this page links the actor to Yang Qiu because the Cheng Huang/Cai Yong retaliation field matches the later canonical page. The source says Cai Yong's uncle Cai Zhi had an old grievance with Yang Qiu, and that Cheng Huang used an affinal or household tie to turn the leak of Cai Yong's memorial into an anonymous accusation.
 
@@ -31,6 +33,7 @@ That setup makes Yang Qiu a dangerous anti-eunuch instrument rather than only a 
 The episode's crucial detail is domestic: Yang Qiu's concubine has a connection to [[ChengHuangLateHan|程璜]], who is bribed and threatened until he tells Cao Jie. Yang Qiu therefore makes the anti-eunuch plan an example of [[LethalPlanLeakageRisk|lethal plan leakage risk]]: a plot can fail through household access before the formal political move begins.
 
 ## Connections
+- [[zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79|Hanji 907]], [[EmperorLingOfHan|汉灵帝]], and [[LuoyangLateHan|洛阳]] - pre-prosecutorial local-office marker, harsh-law charge, pardon, and yilang appointment.
 - [[zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a|Hanji 912]], [[CaiYong|蔡邕]], [[ChengHuangLateHan|程璜]], [[LiuHeSituLateHan|刘郃]], and [[ConfidentialRemonstranceLeakage|密奏泄露风险]] - source-scoped old-grievance and household/affinal access note in the Cai Yong retaliation setup.
 - [[zizhi-tongjian-hanji-914-xinren-de-ren-weihe-zong-shang-ni-zui-shen-lvwit-rzrkscn5a3h6wblntxppso|Hanji 914]], [[HongduMenxue|鸿都门学]], [[EmperorLingOfHan|汉灵帝]], [[CourtOfficeCapture|朝廷开府任官失序]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - memorial against the Hongdu appointment channel before the later anti-eunuch prosecutions.
 - [[zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus|Hanji 915]], [[WangFuLateHan|王甫]], [[WangJiLateHan|王吉]], [[WangMengLateHan|王萌]], [[DuanJiongLateHan|段熲]], and [[YangBiao|杨彪]] - first major prosecution and its brutal method.

@@ -2,11 +2,13 @@
 title: "鸿都门学 / Hongdu Menxue"
 type: concept
 tags: [late-han, education, court, appointments, factional-politics]
-sources: [zizhi-tongjian-hanji-908-nijing-chu-qiangzhe-xialu-chu-yongzhe-gudu-chu-zhizhe-lqih1dradhzi0mipxsaiedd52dlj, zizhi-tongjian-hanji-910-shehui-shengcun-wo-quan-ni-duodian-chengfu-lp2fvuyb8ampzoeyr7znztnr0fgk, zizhi-tongjian-hanji-911-gudai-gongwuyuan-ye-neng-bao-fenpei-ls3pxu9xlpuulsdailx8tcoylv9e, zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a, zizhi-tongjian-hanji-914-xinren-de-ren-weihe-zong-shang-ni-zui-shen-lvwit-rzrkscn5a3h6wblntxppso]
+sources: [zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79, zizhi-tongjian-hanji-908-nijing-chu-qiangzhe-xialu-chu-yongzhe-gudu-chu-zhizhe-lqih1dradhzi0mipxsaiedd52dlj, zizhi-tongjian-hanji-910-shehui-shengcun-wo-quan-ni-duodian-chengfu-lp2fvuyb8ampzoeyr7znztnr0fgk, zizhi-tongjian-hanji-911-gudai-gongwuyuan-ye-neng-bao-fenpei-ls3pxu9xlpuulsdailx8tcoylv9e, zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a, zizhi-tongjian-hanji-914-xinren-de-ren-weihe-zong-shang-ni-zui-shen-lvwit-rzrkscn5a3h6wblntxppso]
 last_updated: 2026-08-26
 ---
 
 # 鸿都门学 / Hongdu Menxue
+
+[[zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79|Hanji 907]] adds an early literary-favor layer before Cai Yong's Hanji 908 warning and the later Hongdu establishment explanations. [[EmperorLingOfHan|汉灵帝]] draws fu-writing students and later edict-writing, bird-seal, and calligraphy talent toward the Hongdu gate; the episode says figures such as Yue Song and Jia Hu use that channel to recommend flatterers and poorly regarded people. Hongdu therefore appears first as ruler-favored cultural access that can turn amusement, writing, and court proximity into appointment advantage.
 
 [[zizhi-tongjian-hanji-908-nijing-chu-qiangzhe-xialu-chu-yongzhe-gudu-chu-zhizhe-lqih1dradhzi0mipxsaiedd52dlj|Hanji 908]] adds a pre-Hongdu warning layer from [[CaiYong|蔡邕]]'s 177 CE memorial. Before [[EmperorLingOfHan|汉灵帝]] formalizes [[HongduMenxue|鸿都门学]] as a favored channel, Cai already criticizes the court for giving appointment weight to writing, calligraphy, painting, fu composition, and other "small ways" when they displace deeper office responsibility and classical-ritual grounding.
 
@@ -27,6 +29,7 @@ The host's reading makes Hongdu Menxue political rather than merely educational.
 The concept differs from ordinary education policy. Its wiki role is to mark how cultural recognition can become [[CourtOfficeCapture|朝廷开府任官失序]] when the ruler uses literary prestige to bypass or counter an established personnel field, and how the resulting critique can still fail through [[CourtFeedbackCollapse|君臣反馈失灵]].
 
 ## Key Claims
+- Hanji 907 adds the early court-access layer: literary and calligraphic talent around Hongdu can become a path for flatterers before later remonstrants name the selection problem.
 - Hanji 910 adds the establishment/motive layer: Hongdu Menxue can be read as Emperor Ling's attempt to weaken Taixue and great-clan control over appointments.
 - Hanji 911 adds the establishment/curriculum layer: Hongdu Menxue teaches literary and artistic skills and competes with Taixue as an office-access path.
 - Hanji 912 adds that Hongdu appears first as part of omen-remonstrance criticism, before Hanji 914 develops the channel as an appointment-order problem.
@@ -37,6 +40,7 @@ The concept differs from ordinary education policy. Its wiki role is to mark how
 - Hanji 914 places Hongdu Menxue immediately before Xidi office sale, making both part of a broader appointment-order breakdown.
 
 ## Connections
+- [[zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79|Hanji 907]], [[EmperorLingOfHan|汉灵帝]], [[Taixue|太学]], and [[OfficialSelectionChannelCompetition|选官通道竞争]] - early literary, edict-writing, bird-seal, and flatterer access around Hongdu.
 - [[zizhi-tongjian-hanji-908-nijing-chu-qiangzhe-xialu-chu-yongzhe-gudu-chu-zhizhe-lqih1dradhzi0mipxsaiedd52dlj|Hanji 908]], [[CaiYong|蔡邕]], [[EmperorLingOfHan|汉灵帝]], [[Taixue|太学]], and [[OfficialSelectionChannelCompetition|选官通道竞争]] - pre-Hongdu warning that minor literary and artistic skills are appointment risks when treated as primary qualifications.
 - [[zizhi-tongjian-hanji-910-shehui-shengcun-wo-quan-ni-duodian-chengfu-lp2fvuyb8ampzoeyr7znztnr0fgk|Hanji 910]], [[EmperorLingOfHan|汉灵帝]], [[Taixue|太学]], and [[OfficialSelectionChannelCompetition|选官通道竞争]] - Hongdu as a ruler-backed counterweight to great-clan and士人 selection control.
 - [[zizhi-tongjian-hanji-911-gudai-gongwuyuan-ye-neng-bao-fenpei-ls3pxu9xlpuulsdailx8tcoylv9e|Hanji 911]], [[Taixue|太学]], [[OfficialSelectionChannelCompetition|选官通道竞争]], [[ShiYiguanLateHan|师宜官]], and [[LiangHuLateHan|梁鹄]] - curriculum, talent, and appointment-channel competition at Hongdu's establishment.

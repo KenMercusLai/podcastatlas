@@ -11857,6 +11857,15 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》908丨逆境出强者，狭路出勇者，孤独出智者
 
 Added source page for Hanji 908: Cai Yong's 177 CE confidential memorial on imperial ritual neglect, literary/artistic skills distorting appointment standards, Xuanling filial sons being placed near the crown prince, Emperor Ling's partial correction, and the host's source-scoped inner-strength, classic-reading, and meditation lesson. Created Filial Mourning Access Credential; updated linked late-Han and self-cultivation pages. No settled contradiction found; one-off precedent names are kept source-scoped unless later ingests require canonical pages.
+
+## [2026-08-26] ingest | 《资治通鉴·汉纪》907丨所有的病都是你的心病
+
+Added source page for Hanji 907: Cao Luan's 176 CE memorial for party figures, Emperor Ling's lethal response, expansion of party-prohibition liability to students, old subordinates, close kin, and five-degree relatives, early Liu Bei/Gongsun Zan study under Lu Zhi, Xianbei pressure, false Xuanling filial sons, early Hongdu literary-favor signals, and source-scoped "心病" self-cultivation advice. Created Cao Luan and Party Prohibition Kinship Expansion; updated linked late-Han entity and concept pages. No settled contradiction found; transcript "杨求" is normalized to Yang Qiu and minor office names remain source-scoped.
+
+## [2026-08-26] lint | Wiki health check
+
+Ran health, identity validation, and lint. Health scanned 14,629 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-22 with 12,882 nodes and 149,964 edges while the current lint scan covered 14,629 pages, so fragile-bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL`, `ANTHROPIC_API_KEY`, and `OPENAI_API_KEY` are unset in this shell. Report returned in-session; `wiki/lint-report.md` was not updated.

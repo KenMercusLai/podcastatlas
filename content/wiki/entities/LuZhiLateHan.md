@@ -2,11 +2,13 @@
 title: "卢植 / Lu Zhi (late Han)"
 type: entity
 tags: [person, late-han, official, scholar, china]
-sources: [zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g, zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o, zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5, zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk]
+sources: [zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79, zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g, zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o, zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5, zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk]
 last_updated: 2026-08-26
 ---
 
 # 卢植 / Lu Zhi (late Han)
+
+[[zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79|Hanji 907]] adds Lu Zhi's teacher role before his 178 institutional memorial and 184 Yellow Turban command. The source says [[GongsunZan|公孙瓒]] and the young [[LiuBei|刘备]] both study under him in 176 CE, making Lu Zhi an early scholar-network node before he becomes a repeated remonstrance and crisis-boundary figure.
 
 [[zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g|Hanji 913]] adds Lu Zhi's 178 CE institutional memorial before his later Yellow Turban command and Dong Zhuo remonstrance branches. He argues that most imprisoned party figures are innocent, [[EmpressSongLateHan|宋皇后]]'s family should receive burial, governors and inspectors need stable terms, and appointments should follow responsible standards rather than private lobbying. [[EmperorLingOfHan|汉灵帝]] ignores the memorial, making Lu Zhi an early witness for [[LocalOfficialTenureStability|地方官任期稳定]] and [[CourtFeedbackCollapse|君臣反馈失灵]].
 
@@ -29,6 +31,7 @@ The episode makes Lu Zhi the clearest remonstrance figure inside the forced repl
 This page is disambiguated from [[LuZhi|吕雉 / Lu Zhi]]. Its role is source-scoped to the late-Han Dong Zhuo branch.
 
 ## Connections
+- [[zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79|Hanji 907]], [[GongsunZan|公孙瓒]], and [[LiuBei|刘备]] - early teacher-student branch.
 - [[zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g|Hanji 913]], [[EmperorLingOfHan|汉灵帝]], [[EmpressSongLateHan|宋皇后]], [[LocalOfficialTenureStability|地方官任期稳定]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - ignored institutional memorial on party prisoners, burial, tenure, and appointment standards.
 - [[zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o|Hanji 928]], [[ZhangJiaoLateHan|张角]], [[ZuoFengLateHan|左丰]], [[EmperorLingOfHan|汉灵帝]], and [[InspectionGiftGatekeeping|巡查送礼关口]] - Guangzong siege, inspection report, and recall before Dong Zhuo's replacement command.
 - [[zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl|Hanji 945]], [[HeJin|何进]], [[DongZhuo|董卓]], and [[ExternalTroopInvitationRisk|外兵入京升级风险]] - warning that Dong Zhuo's entry will create disorder.
