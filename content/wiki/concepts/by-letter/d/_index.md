@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 5610
+wiki_total_pages: 5611
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -167,6 +167,9 @@ wiki_pages:
   - key: "DeathBenefitPortfolio"
     title: "Death-Benefit Portfolio"
     url: "/wiki/concepts/deathbenefitportfolio/"
+  - key: "DeathFacingResponsibility"
+    title: "Death-Facing Responsibility / 赴死式责任承担"
+    url: "/wiki/concepts/deathfacingresponsibility/"
   - key: "DeathGroundTacticalPreconditions"
     title: "Death-Ground Tactical Preconditions / 死地战术前提"
     url: "/wiki/concepts/deathgroundtacticalpreconditions/"

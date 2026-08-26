@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》888丨乱世之中，致敬不怕死的人](sources/zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq.md) — 芮淇讲透资治通鉴 episode on the 168 CE aftermath of the Dou Wu / Chen Fan anti-eunuch crisis, honoring Ba Su's refusal to flee, Zhu Zhen's protection of Chen Yi, Hu Teng's protection of Dou Wu's grandson, and the moral-outcome mismatch of eunuch-side rewards.
 - [《资治通鉴·汉纪》889丨为什么好人不长命，祸害遗千年？](sources/zizhi-tongjian-hanji-889-weishenme-haoren-bu-changming-huohai-yi-qiannian-lt-g7qgkcf-fhy3xccecjagwqhku.md) — 芮淇讲透资治通鉴 episode on moral-outcome mismatch after the 169 CE anti-eunuch coup, Zhang Huan's refusal of compromised reward, Emperor Ling's Dong-family elevation, omen-triggered memorial, and eunuch-blocked repair for Dou Wu, Chen Fan, and Dou Miao.
 - [《资治通鉴·汉纪》890丨想当官先学对付“小人”](sources/zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis.md) — 芮淇讲透资治通鉴 episode on 169 CE remonstrance under eunuch pressure, contrasting Zhang Huan and Xie Bi's direct memorials with Yang Ci's oblique snake-omen answer and survival-first strategy.
 - [《资治通鉴·汉纪》891丨高段位的母亲，是家的定海神针](sources/zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5.md) — 芮淇讲透资治通鉴 episode on parental repair after anger, embodied parenting, 169 CE office churn, Duan Jiong's rejection of a surrender-first Qiang policy, and the silent night encirclement before Hanji 892.
@@ -1542,6 +1543,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [巴肃 / Ba Su (late Han)](entities/BaSuLateHan.md) — Bohai-associated late-Han participant in the Dou Wu plan who refuses a magistrate's escape offer and accepts execution.
+- [朱震 / Zhu Zhen (late Han)](entities/ZhuZhenLateHan.md) — Chen Fan's friend who buries him, hides Chen Yi, and keeps the secret through household imprisonment and torture.
+- [胡腾 / Hu Teng (late Han)](entities/HuTengLateHan.md) — Former Dou Wu subordinate who buries and mourns Dou Wu, then hides Dou Wu's young grandson in Lingling.
 - [谢弼 / Xie Bi (late Han)](entities/XieBiLateHan.md) — Late-Han direct remonstrant whose memorial for Empress Dowager Dou expands into court critique before Cao Shao's retaliation kills him.
 - [曹绍 / Cao Shao (late Han)](entities/CaoShaoLateHan.md) — Cao Jie-linked Dong Commandery administrator who arrests and tortures Xie Bi in Hanji 890.
 - [冯禅 / Feng Chan (late Han)](entities/FengChanLateHan.md) — Imperial envoy sent to Hanyang to persuade remaining Qiang forces to surrender before Duan Jiong argues for attack.
@@ -9392,7 +9396,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
-- [Moral Desert Political Outcome Gap / 善恶报应与政治结果错位](concepts/MoralDesertPoliticalOutcomeGap.md) — Hanji 889 frame where virtue and harm do not reliably map to survival, reward, or punishment, requiring political mechanism analysis without erasing moral judgment.
+- [Death-Facing Responsibility / 赴死式责任承担](concepts/DeathFacingResponsibility.md) — Hanji 888 pattern where actors accept lethal or household risk after political defeat through self-surrender, burial, mourning, or survivor protection.
+- [Moral Desert Political Outcome Gap / 善恶报应与政治结果错位](concepts/MoralDesertPoliticalOutcomeGap.md) — Hanji 888-889 frame where virtue and harm do not reliably map to survival, reward, or punishment, requiring political mechanism analysis without erasing moral judgment.
 - [Oblique Remonstrance Self-Protection / 迂回进谏自保](concepts/ObliqueRemonstranceSelfProtection.md) — Hanji 890 pattern where an adviser preserves corrective speech by changing the angle, target, and risk surface of criticism.
 - [Parental Repair After Harm / 父母伤害后的修复](concepts/ParentalRepairAfterHarm.md) — Hanji 891 parenting practice of naming harm, apologizing, rejecting hitting/scolding as problem-solving, and asking the child what happened.
 - [Parental Embodied Modeling / 身教型家庭教育](concepts/ParentalEmbodiedModeling.md) — Family-education frame where adult routines, emotional steadiness, sleep, order, and repair teach children more than instruction alone.

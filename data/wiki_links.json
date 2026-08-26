@@ -5659,6 +5659,10 @@
     "title": "巴国 / Ba State (Warring States)",
     "url": "/wiki/entities/bastatewarringstates/"
   },
+  "BaSuLateHan": {
+    "title": "巴肃 / Ba Su (late Han)",
+    "url": "/wiki/entities/basulatehan/"
+  },
   "BabingtonPlot": {
     "title": "Babington Plot",
     "url": "/wiki/entities/babingtonplot/"
@@ -12946,6 +12950,10 @@
   "DeathDefyingRemonstrance": {
     "title": "赴死式直谏 / Death-Defying Remonstrance",
     "url": "/wiki/concepts/deathdefyingremonstrance/"
+  },
+  "DeathFacingResponsibility": {
+    "title": "Death-Facing Responsibility / 赴死式责任承担",
+    "url": "/wiki/concepts/deathfacingresponsibility/"
   },
   "DeathGroundTacticalPreconditions": {
     "title": "Death-Ground Tactical Preconditions / 死地战术前提",
@@ -22386,6 +22394,10 @@
   "HuShi": {
     "title": "胡适",
     "url": "/wiki/entities/hushi/"
+  },
+  "HuTengLateHan": {
+    "title": "胡腾 / Hu Teng (late Han)",
+    "url": "/wiki/entities/hutenglatehan/"
   },
   "HuWencaiLateHan": {
     "title": "胡文才 / Hu Wencai (late Han)",
@@ -54783,6 +54795,10 @@
     "title": "朱瑀 / Zhu Yu (late Han)",
     "url": "/wiki/entities/zhuyulatehan/"
   },
+  "ZhuZhenLateHan": {
+    "title": "朱震 / Zhu Zhen (late Han)",
+    "url": "/wiki/entities/zhuzhenlatehan/"
+  },
   "ZhuZhiLateHan": {
     "title": "朱治 / Zhu Zhi (Late Han)",
     "url": "/wiki/entities/zhuzhilatehan/"
@@ -58646,6 +58662,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq": {
+    "title": "《资治通鉴·汉纪》888丨乱世之中，致敬不怕死的人",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq/"
   },
   "zizhi-tongjian-hanji-889-weishenme-haoren-bu-changming-huohai-yi-qiannian-lt-g7qgkcf-fhy3xccecjagwqhku": {
     "title": "《资治通鉴·汉纪》889丨为什么好人不长命，祸害遗千年？",

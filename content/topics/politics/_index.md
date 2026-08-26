@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1919
+topic_total_pages: 1920
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -658,6 +658,9 @@ topic_concepts:
   - key: "DEAExemptionProcess"
     title: "DEA Exemption Process"
     url: "/wiki/concepts/deaexemptionprocess/"
+  - key: "DeathFacingResponsibility"
+    title: "Death-Facing Responsibility / 赴死式责任承担"
+    url: "/wiki/concepts/deathfacingresponsibility/"
   - key: "DecentralizedAIControl"
     title: "Decentralized AI Control"
     url: "/wiki/concepts/decentralizedaicontrol/"

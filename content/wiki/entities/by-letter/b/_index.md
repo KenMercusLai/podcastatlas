@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 7846
+wiki_total_pages: 7849
 wiki_pages:
   - key: "BSpecials"
     title: "B Specials"
@@ -854,6 +854,9 @@ wiki_pages:
   - key: "BaStateWarringStates"
     title: "巴国 / Ba State (Warring States)"
     url: "/wiki/entities/bastatewarringstates/"
+  - key: "BaSuLateHan"
+    title: "巴肃 / Ba Su (late Han)"
+    url: "/wiki/entities/basulatehan/"
   - key: "BaShu"
     title: "巴蜀 / Ba-Shu"
     url: "/wiki/entities/bashu/"

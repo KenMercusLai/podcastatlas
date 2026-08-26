@@ -1158,6 +1158,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/atlasrobot/"
     },
+    "BaSuLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》888丨乱世之中，致敬不怕死的人 [ll7s9E5bh8rEuy4XZzjwQ0PsoWvQ].md",
+          "key": "zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》888丨乱世之中，致敬不怕死的人",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/basulatehan/"
+    },
     "BerntBornich": {
       "episode_count": 1,
       "show_count": 1,
@@ -1901,6 +1917,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/datateamasbusinesspartner/"
+    },
+    "DeathFacingResponsibility": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》888丨乱世之中，致敬不怕死的人 [ll7s9E5bh8rEuy4XZzjwQ0PsoWvQ].md",
+          "key": "zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》888丨乱世之中，致敬不怕死的人",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/deathfacingresponsibility/"
     },
     "DeathGroundTacticalPreconditions": {
       "episode_count": 4,
@@ -3743,6 +3775,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/houlanlatehan/"
+    },
+    "HuTengLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》888丨乱世之中，致敬不怕死的人 [ll7s9E5bh8rEuy4XZzjwQ0PsoWvQ].md",
+          "key": "zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》888丨乱世之中，致敬不怕死的人",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/hutenglatehan/"
     },
     "HuaXin": {
       "episode_count": 5,
@@ -6517,9 +6565,9 @@
       "url": "/wiki/concepts/modelinfracodesign/"
     },
     "MoralDesertPoliticalOutcomeGap": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》889丨为什么好人不长命，祸害遗千年？ [lt_G7qgkCF-fHy3XcCECJaGWQHku].md",
@@ -6527,6 +6575,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》889丨为什么好人不长命，祸害遗千年？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-889-weishenme-haoren-bu-changming-huohai-yi-qiannian-lt-g7qgkcf-fhy3xccecjagwqhku/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》888丨乱世之中，致敬不怕死的人 [ll7s9E5bh8rEuy4XZzjwQ0PsoWvQ].md",
+          "key": "zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》888丨乱世之中，致敬不怕死的人",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq/"
         }
       ],
       "updated": "2026-08-27",
@@ -10402,6 +10457,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/zhulinglatehan/"
+    },
+    "ZhuZhenLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》888丨乱世之中，致敬不怕死的人 [ll7s9E5bh8rEuy4XZzjwQ0PsoWvQ].md",
+          "key": "zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》888丨乱世之中，致敬不怕死的人",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/zhuzhenlatehan/"
     }
   },
   "version": 1

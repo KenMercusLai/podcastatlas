@@ -12302,3 +12302,11 @@ Added source page for Hanji 889: the moral-outcome mismatch after the failed ant
 ## [2026-08-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-27] ingest | 《资治通鉴·汉纪》888丨乱世之中，致敬不怕死的人
+
+Added source page for Hanji 888: the 168 CE aftermath of the failed Dou Wu / Chen Fan anti-eunuch crisis, Ba Su's refusal to flee, Zhu Zhen's burial of Chen Fan and protection of Chen Yi, Hu Teng's burial of Dou Wu and protection of Dou Wu's young grandson, and eunuch-side rewards to Cao Jie, Wang Fu, Zhu Yu, and others. Created Ba Su, Zhu Zhen, Hu Teng, and Death-Facing Responsibility; updated Moral Desert Political Outcome Gap. No settled contradiction found; broad奸臣 outcome claims remain source-scoped and minor reward/helper names remain uncanonical pending stronger evidence.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
