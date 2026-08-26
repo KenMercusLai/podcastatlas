@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [California's data and privacy laws aren't being followed](sources/tech-20260825-mp-tech-pod-128-tech-20260825-mp-tech-pod-128.md) — Marketplace Tech episode with Megan McCarty-Carino and Jennifer King on California data-broker compliance, DROPS deletion requests, CalPrivacy enforcement, private lawsuits, and AI developers' brokered-data demand.
 - [Even-more-maximum pressure: sanctions on Iran](sources/even-more-maximum-pressure-sanctions-on-iran-6a8d6a9b66c4a1e81a4c86a9.md) — The Intelligence episode on Operation Economic Outcast, Philippine offshoring under AI, and LinkedIn-based city place-premium wage research.
 - [Episode 19: 赵丽娜：在场比赢重要；门将的信心、直觉与热爱](sources/zhao-lina-zaichang-bi-ying-zhongyao-menjiang-de-xinxin-zhijue-yu-reai-229fde7d-d39d-4f7c-a33d-607f5370fc60.md) — Fuyou Tiandi episode with Zhao Lina on football atmosphere, youth access, goalkeeper confidence and intuition, women football visibility, and post-retirement identity.
 - [How Modern Brands Build Loyalty, Purpose, and Identity | Andy Stalman | Shekhar Natarajan Podcast](sources/how-modern-brands-build-loyalty-purpose-and-identity-andy-stalman-shekhar-natarajan-podcast.md) — Tomorrow Today episode with Andy Stalman on whole-company branding, brand doing, actionable values, AI as a brand mirror, and brand value protection.
@@ -1519,6 +1520,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Jennifer King](entities/JenniferKing.md) — Stanford HAI privacy researcher explaining California data-broker compliance failures, deletion friction, enforcement limits, and AI data-broker demand.
+- [Stanford Institute for Human-Centered AI](entities/StanfordInstituteForHumanCenteredAI.md) — Stanford policy and research context for Jennifer King's data-broker compliance report.
+- [California Privacy Protection Agency](entities/CaliforniaPrivacyProtectionAgency.md) — California privacy regulator framed as the enforcement bottleneck for data-broker registration, deletion, and reporting compliance.
 - [Fraser McIlwraith](entities/FraserMcIlwraith.md) — The Intelligence correspondent explaining Operation Economic Outcast, Iran sanctions pressure, Chinese-bank constraints, and UAE compliance channels.
 - [Josh Spencer](entities/JoshSpencer.md) — The Intelligence correspondent explaining AI's mixed effect on Philippine offshoring, from worker augmentation to tier-one task pressure.
 - [Vishnu Padmanabhan](entities/VishnuPadmanabhan.md) — Economist explainer distinguishing worker effects from city place effects in wage gaps.
@@ -7550,7 +7554,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Brookings Institution](entities/BrookingsInstitution.md) — Policy institution represented by Nicole Turner-Lee in the Marketplace Tech discussion of data brokers and state privacy tools.
 - [California](entities/California.md) — State appearing through wildfire rebuilding, carbon removal, data-broker deletion, and Meta social-media litigation.
 - [New Mexico](entities/NewMexico.md) — State attorney-general verdict context where Meta was found to have violated state law and misled consumers about child-safety guardrails.
-- [Delete Request and Opt Out Platform](entities/DeleteRequestAndOptOutPlatform.md) — California's DROP tool for residents to request deletion of personal information from registered data brokers.
+- [Delete Request and Opt Out Platform](entities/DeleteRequestAndOptOutPlatform.md) — California's DROP/DROPS tool for residents to centralize deletion requests to registered data brokers, with effectiveness dependent on broker compliance.
 - [Kalshi](entities/Kalshi.md) — Prediction-market platform used by Marketplace Tech to examine harmful-event wagers, Khamenei-related market resolution, CFTC rules, market-integrity risk, and self-regulatory guardrails.
 - [News Corp](entities/NewsCorp.md) — Media company whose reported Meta licensing deal grounds the wiki's AI content licensing and publisher traffic-loss branch.
 - [Wired](entities/Wired.md) — Technology publication affiliation for Paresh Dave in Marketplace Tech Bytes episodes on AI infrastructure, prediction markets, defense AI, and media licensing.
@@ -9299,6 +9303,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Data Broker Compliance Gap](concepts/DataBrokerComplianceGap.md) — Gap between California privacy rights and data-broker behavior around registration, reporting, request friction, and enforcement risk.
+- [AI Data Broker Demand](concepts/AIDataBrokerDemand.md) — Emerging pressure for AI developers or ad-supported AI products to buy brokered personal data for model development, personalization, or targeting.
 - [AI Offshoring Labor Resilience](concepts/AIOffshoringLaborResilience.md) — Pattern where AI augments contextual offshore service work while compressing basic tasks and monitoring workers.
 - [City Place Premium](concepts/CityPlacePremium.md) — Wage gain attributable to a city's place-specific productivity and matching effects after separating worker composition.
 - [Whole-Company Branding](concepts/WholeCompanyBranding.md) — Brand frame where identity, purpose, values, leadership, culture, employee behavior, sensory experience, and technology all shape the brand.
@@ -13539,8 +13545,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Youth Entrepreneurship](concepts/YouthEntrepreneurship.md) — Supervised youth commercial activity used to teach goals, communication, customer follow-up, money purpose, and responsibility.
 - [Digital Commerce Literacy](concepts/DigitalCommerceLiteracy.md) — Practical skill of using online sales tools while understanding message, channel, follow-up, checkout, safety, and trust.
 - [Child Online Commerce Safety](concepts/ChildOnlineCommerceSafety.md) — Safety boundary for minors using digital tools to sell, fundraise, contact customers, or bridge online ordering into offline delivery.
-- [Consumer Data Deletion](concepts/ConsumerDataDeletion.md) — Consumer privacy mechanism for requesting removal of broker-held personal information, framed as harm reduction rather than total erasure.
-- [California Delete Act](concepts/CaliforniaDeleteAct.md) — 2023 California law mandating DROP and turning data-broker deletion rights into a centralized state workflow.
+- [Consumer Data Deletion](concepts/ConsumerDataDeletion.md) — Privacy mechanism for removing broker-held personal information, now framed through centralized requests, broker friction, and enforcement scale.
+- [California Delete Act](concepts/CaliforniaDeleteAct.md) — California law turning data-broker deletion rights into DROP/DROPS workflows, registration duties, compliance checks, and AI-buyer disclosure.
 - [AI-Enabled Spam](concepts/AIEnabledSpam.md) — Unwanted outreach made more scalable, adaptive, or ambiguous by AI, only partly mitigated by data-broker deletion.
 - [Prediction Market Ethics](concepts/PredictionMarketEthics.md) — Boundary problem for event markets that may aggregate information while monetizing harmful outcomes or inviting insider-informed trading.
 - [AI Content Licensing](concepts/AIContentLicensing.md) — AI-company payments to publishers or content owners for current information, archives, training data, grounding, attribution, or answer visibility.
@@ -13583,7 +13589,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [South Florida Tech Migration](concepts/SouthFloridaTechMigration.md) — Business-geography pattern where Miami and nearby Florida markets attract technology and finance firms through taxes, regulation, politics, and symbolism.
 - [Consumer Camera Surveillance](concepts/ConsumerCameraSurveillance.md) — Privacy and governance problem created when consumer camera devices become searchable AI-enabled neighborhood networks.
 - [Personal Superintelligence](concepts/PersonalSuperintelligence.md) — Meta's proposed personalized assistant strategy combining user data, Meta AI, app distribution, and wearable hardware.
-- [AI Advertising Targeting](concepts/AIAdvertisingTargeting.md) — Use of AI to improve ad matching, timing, prediction, and monetization inside platform advertising businesses.
+- [AI Advertising Targeting](concepts/AIAdvertisingTargeting.md) — Use of AI to improve ad matching, timing, prediction, and monetization, including emerging brokered-data demand for AI products.
 - [Computing Enrollment Decline](concepts/ComputingEnrollmentDecline.md) — Reported fall in U.S. computer and information science enrollment, with students shifting away from traditional CS toward applied computing subfields.
 - [Computing Research Pipeline](concepts/ComputingResearchPipeline.md) — Path from undergraduate computing study into graduate programs, university research, and industry research capacity.
 - [Data Center Onsite Power](concepts/DataCenterOnsitePower.md) — Pattern where data-center developers generate electricity at or near the facility, often to move faster than grid interconnection queues allow.

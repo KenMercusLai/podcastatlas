@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "4750f2d130430d92f8abea0e83e20e22d8a9614002bf3042c8881efa9d804e73",
       "04576f804c02d279ab9de8acef1fbad90ddad801be39c854e0694d24fa1fe010",
       "19c611dfbbb92ca577ecdd3de8dcb299e3594783b3ac7731e0e81164d2e63156",
       "9baf78d4abc4af870b525c5c520883b9316ef81d3d2def71b4576c647430b61f",
@@ -258,11 +259,37 @@
       "b16a38bd6e190222f7f3e6f0535803ce60ae7f3304e3477dfcdd995a15fb502f",
       "32b62a0e1fc3144c5e7770721fc745607afef0d0cf46a8fe94d35cab377dbbf9"
     ],
-    "paragraph_count": 256
+    "paragraph_count": 257
   },
-  "overview_commit": "3ba8ccf596665140f960fc9686634bdf898c65f3",
-  "overview_digest": "a7fe46a0e6b1c0694f4cf060b2599734120bed4365bf96c19b2f25de7f8b760b",
+  "overview_commit": "7e6e45be8ba684f67b31a0b90920693154011f9c",
+  "overview_digest": "d23e2bac36ee8143e8bd1d85041202acd314bb0d9389c8bcbfb7a95fc389395e",
   "paragraphs": [
+    {
+      "id": "4750f2d130430d92f8abea0e83e20e22d8a9614002bf3042c8881efa9d804e73",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "governance-and-institutions"
+      ],
+      "text": "The latest addition is [[tech-20260825-mp-tech-pod-128-tech-20260825-mp-tech-pod-128]], a [[MarketplaceTech]] episode with [[JenniferKing]] of the [[StanfordInstituteForHumanCenteredAI|Stanford Institute for Human-Centered AI]] on California data-broker compliance. It adds [[JenniferKing]], [[StanfordInstituteForHumanCenteredAI]], [[CaliforniaPrivacyProtectionAgency]], [[DataBrokerComplianceGap]], and [[AIDataBrokerDemand]], while extending [[CaliforniaDeleteAct]], [[DeleteRequestAndOptOutPlatform|DROP/DROPS]], [[ConsumerDataDeletion]], and [[AIAdvertisingTargeting]]. Its core synthesis is that privacy law only becomes practical when rights survive broker incentives: the source pairs a 9% compliance finding, request-friction tactics, reporting failures, agency resource limits, and possible private lawsuits with the newer question of whether brokered personal data is being sold into generative-AI development and ad-targeting models. No settled contradiction is recorded; the source qualifies the March 2026 DROP episode by shifting from platform promise to compliance and enforcement risk.",
+      "topic_scores": {
+        "ai-and-technology": 2,
+        "business-and-markets": 1,
+        "governance-and-institutions": 2
+      },
+      "wikilinks": [
+        "AIAdvertisingTargeting",
+        "AIDataBrokerDemand",
+        "CaliforniaDeleteAct",
+        "CaliforniaPrivacyProtectionAgency",
+        "ConsumerDataDeletion",
+        "DataBrokerComplianceGap",
+        "DeleteRequestAndOptOutPlatform",
+        "JenniferKing",
+        "MarketplaceTech",
+        "StanfordInstituteForHumanCenteredAI",
+        "tech-20260825-mp-tech-pod-128-tech-20260825-mp-tech-pod-128"
+      ]
+    },
     {
       "id": "04576f804c02d279ab9de8acef1fbad90ddad801be39c854e0694d24fa1fe010",
       "primary_topic": "psychology-and-personal-development",

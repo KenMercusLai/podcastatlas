@@ -116,6 +116,36 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/abriefhistoryofintelligence/"
     },
+    "AIAdvertisingTargeting": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "tech_20260105_0105_MP_TECH_pod_128 [tech_20260105_0105_MP_TECH_pod_128].md",
+          "key": "tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "How U.S. political campaigns have used generative AI",
+          "url": "/wiki/sources/tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260219_0219_MP_TECH_pod_128 [tech_20260219_0219_MP_TECH_pod_128].md",
+          "key": "tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Meta's big bet on superintelligence",
+          "url": "/wiki/sources/tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260825_MP_TECH_pod_128 [tech_20260825_MP_TECH_pod_128].md",
+          "key": "tech-20260825-mp-tech-pod-128-tech-20260825-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "California's data and privacy laws aren't being followed",
+          "url": "/wiki/sources/tech-20260825-mp-tech-pod-128-tech-20260825-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/aiadvertisingtargeting/"
+    },
     "AIAgentOverseasCommercialization": {
       "episode_count": 4,
       "show_count": 2,
@@ -429,6 +459,22 @@
       ],
       "updated": "2026-08-24",
       "url": "/wiki/concepts/aicommercializationpressure/"
+    },
+    "AIDataBrokerDemand": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260825_MP_TECH_pod_128 [tech_20260825_MP_TECH_pod_128].md",
+          "key": "tech-20260825-mp-tech-pod-128-tech-20260825-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "California's data and privacy laws aren't being followed",
+          "url": "/wiki/sources/tech-20260825-mp-tech-pod-128-tech-20260825-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/aidatabrokerdemand/"
     },
     "AIEraMajorChoice": {
       "episode_count": 2,
@@ -893,6 +939,45 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/caixinmedia/"
     },
+    "CaliforniaDeleteAct": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "tech_20260309_0309_MP_TECH_pod_128 [tech_20260309_0309_MP_TECH_pod_128].md",
+          "key": "tech-20260309-0309-mp-tech-pod-128-tech-20260309-0309-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "California's one-stop shop for data brokers to delete consumers' data",
+          "url": "/wiki/sources/tech-20260309-0309-mp-tech-pod-128-tech-20260309-0309-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260825_MP_TECH_pod_128 [tech_20260825_MP_TECH_pod_128].md",
+          "key": "tech-20260825-mp-tech-pod-128-tech-20260825-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "California's data and privacy laws aren't being followed",
+          "url": "/wiki/sources/tech-20260825-mp-tech-pod-128-tech-20260825-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/californiadeleteact/"
+    },
+    "CaliforniaPrivacyProtectionAgency": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260825_MP_TECH_pod_128 [tech_20260825_MP_TECH_pod_128].md",
+          "key": "tech-20260825-mp-tech-pod-128-tech-20260825-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "California's data and privacy laws aren't being followed",
+          "url": "/wiki/sources/tech-20260825-mp-tech-pod-128-tech-20260825-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/californiaprivacyprotectionagency/"
+    },
     "Caperni": {
       "episode_count": 1,
       "show_count": 1,
@@ -1125,6 +1210,29 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/consumeraihardwareproductfit/"
     },
+    "ConsumerDataDeletion": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "tech_20260309_0309_MP_TECH_pod_128 [tech_20260309_0309_MP_TECH_pod_128].md",
+          "key": "tech-20260309-0309-mp-tech-pod-128-tech-20260309-0309-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "California's one-stop shop for data brokers to delete consumers' data",
+          "url": "/wiki/sources/tech-20260309-0309-mp-tech-pod-128-tech-20260309-0309-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260825_MP_TECH_pod_128 [tech_20260825_MP_TECH_pod_128].md",
+          "key": "tech-20260825-mp-tech-pod-128-tech-20260825-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "California's data and privacy laws aren't being followed",
+          "url": "/wiki/sources/tech-20260825-mp-tech-pod-128-tech-20260825-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/consumerdatadeletion/"
+    },
     "CourtLegitimacyOverPatronLoyalty": {
       "episode_count": 2,
       "show_count": 1,
@@ -1218,6 +1326,45 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/dangerousguestreleaserisk/"
+    },
+    "DataBrokerComplianceGap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260825_MP_TECH_pod_128 [tech_20260825_MP_TECH_pod_128].md",
+          "key": "tech-20260825-mp-tech-pod-128-tech-20260825-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "California's data and privacy laws aren't being followed",
+          "url": "/wiki/sources/tech-20260825-mp-tech-pod-128-tech-20260825-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/databrokercompliancegap/"
+    },
+    "DeleteRequestAndOptOutPlatform": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "tech_20260309_0309_MP_TECH_pod_128 [tech_20260309_0309_MP_TECH_pod_128].md",
+          "key": "tech-20260309-0309-mp-tech-pod-128-tech-20260309-0309-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "California's one-stop shop for data brokers to delete consumers' data",
+          "url": "/wiki/sources/tech-20260309-0309-mp-tech-pod-128-tech-20260309-0309-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260825_MP_TECH_pod_128 [tech_20260825_MP_TECH_pod_128].md",
+          "key": "tech-20260825-mp-tech-pod-128-tech-20260825-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "California's data and privacy laws aren't being followed",
+          "url": "/wiki/sources/tech-20260825-mp-tech-pod-128-tech-20260825-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/deleterequestandoptoutplatform/"
     },
     "DigitRobot": {
       "episode_count": 1,
@@ -2802,6 +2949,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/isolatedretaildemandmanagement/"
+    },
+    "JenniferKing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260825_MP_TECH_pod_128 [tech_20260825_MP_TECH_pod_128].md",
+          "key": "tech-20260825-mp-tech-pod-128-tech-20260825-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "California's data and privacy laws aren't being followed",
+          "url": "/wiki/sources/tech-20260825-mp-tech-pod-128-tech-20260825-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/jenniferking/"
     },
     "JidduKrishnamurti": {
       "episode_count": 1,
@@ -4723,6 +4886,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/spotrobot/"
+    },
+    "StanfordInstituteForHumanCenteredAI": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260825_MP_TECH_pod_128 [tech_20260825_MP_TECH_pod_128].md",
+          "key": "tech-20260825-mp-tech-pod-128-tech-20260825-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "California's data and privacy laws aren't being followed",
+          "url": "/wiki/sources/tech-20260825-mp-tech-pod-128-tech-20260825-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/stanfordinstituteforhumancenteredai/"
     },
     "SunBenLateHan": {
       "episode_count": 2,

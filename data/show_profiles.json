@@ -523,14 +523,14 @@
       "earliest_episode_date": "2025-12-08",
       "latest_episode_date": "2026-08-26",
       "latest_episode_file": "tech_20260826_0826_MP_TECH_pod_128 [tech_20260826_0826_MP_TECH_pod_128].md",
-      "source_note_count": 132,
-      "topic_matched_source_note_count": 103,
+      "source_note_count": 133,
+      "topic_matched_source_note_count": 104,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 84
+          "source_note_count": 85
         },
         {
           "key": "politics",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 7776
+wiki_total_pages: 7779
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -53,6 +53,9 @@ wiki_pages:
   - key: "CaliforniaCoastalCommission"
     title: "California Coastal Commission"
     url: "/wiki/entities/californiacoastalcommission/"
+  - key: "CaliforniaPrivacyProtectionAgency"
+    title: "California Privacy Protection Agency"
+    url: "/wiki/entities/californiaprivacyprotectionagency/"
   - key: "CallumWilliams"
     title: "Callum Williams"
     url: "/wiki/entities/callumwilliams/"

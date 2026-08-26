@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1899
+topic_total_pages: 1900
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -4553,6 +4553,9 @@ topic_entities:
   - key: "SpencerPratt"
     title: "Spencer Pratt"
     url: "/wiki/entities/spencerpratt/"
+  - key: "StanfordInstituteForHumanCenteredAI"
+    title: "Stanford Institute for Human-Centered AI"
+    url: "/wiki/entities/stanfordinstituteforhumancenteredai/"
   - key: "StanfordReview"
     title: "Stanford Review"
     url: "/wiki/entities/stanfordreview/"

@@ -1587,6 +1587,10 @@
     "title": "AI Cyber-Defense Utility",
     "url": "/wiki/concepts/aicyberdefenseutility/"
   },
+  "AIDataBrokerDemand": {
+    "title": "AI Data Broker Demand",
+    "url": "/wiki/concepts/aidatabrokerdemand/"
+  },
   "AIDataCenterCargoTheft": {
     "title": "AI Data Center Cargo Theft",
     "url": "/wiki/concepts/aidatacentercargotheft/"
@@ -7851,6 +7855,10 @@
     "title": "California Post-Fire Rebuilding Delay",
     "url": "/wiki/concepts/californiapostfirerebuildingdelay/"
   },
+  "CaliforniaPrivacyProtectionAgency": {
+    "title": "California Privacy Protection Agency",
+    "url": "/wiki/entities/californiaprivacyprotectionagency/"
+  },
   "CaliforniaWealthTaxCapitalFlight": {
     "title": "California Wealth-Tax Capital Flight",
     "url": "/wiki/concepts/californiawealthtaxcapitalflight/"
@@ -12558,6 +12566,10 @@
   "DataBackedLaborBargaining": {
     "title": "Data-Backed Labor Bargaining",
     "url": "/wiki/concepts/databackedlaborbargaining/"
+  },
+  "DataBrokerComplianceGap": {
+    "title": "Data Broker Compliance Gap",
+    "url": "/wiki/concepts/databrokercompliancegap/"
   },
   "DataBrokerLoophole": {
     "title": "Data Broker Loophole",
@@ -24598,6 +24610,10 @@
   "JenniferJesse": {
     "title": "Jennifer Jesse",
     "url": "/wiki/entities/jenniferjesse/"
+  },
+  "JenniferKing": {
+    "title": "Jennifer King",
+    "url": "/wiki/entities/jenniferking/"
   },
   "JensSpahn": {
     "title": "Jens Spahn",
@@ -43975,6 +43991,10 @@
     "title": "Standards-Based Innovation",
     "url": "/wiki/concepts/standardsbasedinnovation/"
   },
+  "StanfordInstituteForHumanCenteredAI": {
+    "title": "Stanford Institute for Human-Centered AI",
+    "url": "/wiki/entities/stanfordinstituteforhumancenteredai/"
+  },
   "StanfordReview": {
     "title": "Stanford Review",
     "url": "/wiki/entities/stanfordreview/"
@@ -56914,6 +56934,10 @@
   "tech-20260824-mp-tech-pod-128-tech-20260824-mp-tech-pod-128": {
     "title": "AI loves negative parallelism",
     "url": "/wiki/sources/tech-20260824-mp-tech-pod-128-tech-20260824-mp-tech-pod-128/"
+  },
+  "tech-20260825-mp-tech-pod-128-tech-20260825-mp-tech-pod-128": {
+    "title": "California's data and privacy laws aren't being followed",
+    "url": "/wiki/sources/tech-20260825-mp-tech-pod-128-tech-20260825-mp-tech-pod-128/"
   },
   "tech-20260826-0826-mp-tech-pod-128-tech-20260826-0826-mp-tech-pod-128": {
     "title": "Can Meta Finally Make Smart Glasses Cool?",

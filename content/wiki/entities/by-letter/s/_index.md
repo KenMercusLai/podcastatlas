@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 7776
+wiki_total_pages: 7779
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -923,6 +923,9 @@ wiki_pages:
   - key: "StandardChartered"
     title: "Standard Chartered"
     url: "/wiki/entities/standardchartered/"
+  - key: "StanfordInstituteForHumanCenteredAI"
+    title: "Stanford Institute for Human-Centered AI"
+    url: "/wiki/entities/stanfordinstituteforhumancenteredai/"
   - key: "StanfordReview"
     title: "Stanford Review"
     url: "/wiki/entities/stanfordreview/"

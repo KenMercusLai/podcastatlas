@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2459
+topic_total_pages: 2462
 topic_concepts:
   - key: "AcademicAIResearchRole"
     title: "Academic AI Research Role"
@@ -268,6 +268,9 @@ topic_concepts:
   - key: "AICyberDefenseUtility"
     title: "AI Cyber-Defense Utility"
     url: "/wiki/concepts/aicyberdefenseutility/"
+  - key: "AIDataBrokerDemand"
+    title: "AI Data Broker Demand"
+    url: "/wiki/concepts/aidatabrokerdemand/"
   - key: "AIDataCenterCargoTheft"
     title: "AI Data Center Cargo Theft"
     url: "/wiki/concepts/aidatacentercargotheft/"
@@ -5558,6 +5561,9 @@ topic_entities:
   - key: "Stammy"
     title: "Stammy"
     url: "/wiki/entities/stammy/"
+  - key: "StanfordInstituteForHumanCenteredAI"
+    title: "Stanford Institute for Human-Centered AI"
+    url: "/wiki/entities/stanfordinstituteforhumancenteredai/"
   - key: "StanfordUniversity"
     title: "Stanford University"
     url: "/wiki/entities/stanforduniversity/"
@@ -6642,6 +6648,9 @@ topic_sources:
   - key: "tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128"
     title: "Bytes: Week in Review - SpaceX eyes an IPO, community members want legal commitments from Micron, and YouTube to ditch AI slop"
     url: "/wiki/sources/tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128/"
+  - key: "tech-20260825-mp-tech-pod-128-tech-20260825-mp-tech-pod-128"
+    title: "California's data and privacy laws aren't being followed"
+    url: "/wiki/sources/tech-20260825-mp-tech-pod-128-tech-20260825-mp-tech-pod-128/"
   - key: "tech-20260817-tech-pod-128-tech-20260817-tech-pod-128"
     title: "Can an AI music company make nice with human artists?"
     url: "/wiki/sources/tech-20260817-tech-pod-128-tech-20260817-tech-pod-128/"

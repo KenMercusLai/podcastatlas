@@ -2649,6 +2649,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "AIDataBrokerDemand": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AIDataCenterCargoTheft": [
     {
       "key": "technology",
@@ -52160,6 +52167,18 @@
       "url": "/topics/technology/"
     }
   ],
+  "StanfordInstituteForHumanCenteredAI": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "StanfordReview": [
     {
       "key": "politics",
@@ -67738,6 +67757,13 @@
     }
   ],
   "tech-20260824-mp-tech-pod-128-tech-20260824-mp-tech-pod-128": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "tech-20260825-mp-tech-pod-128-tech-20260825-mp-tech-pod-128": [
     {
       "key": "technology",
       "label": "Technology",
