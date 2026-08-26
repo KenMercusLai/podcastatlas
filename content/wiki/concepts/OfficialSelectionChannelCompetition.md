@@ -2,11 +2,13 @@
 title: "选官通道竞争 / Official Selection Channel Competition"
 type: concept
 tags: [institutions, appointments, education, late-han]
-sources: [zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79, zizhi-tongjian-hanji-908-nijing-chu-qiangzhe-xialu-chu-yongzhe-gudu-chu-zhizhe-lqih1dradhzi0mipxsaiedd52dlj, zizhi-tongjian-hanji-910-shehui-shengcun-wo-quan-ni-duodian-chengfu-lp2fvuyb8ampzoeyr7znztnr0fgk, zizhi-tongjian-hanji-911-gudai-gongwuyuan-ye-neng-bao-fenpei-ls3pxu9xlpuulsdailx8tcoylv9e]
+sources: [zizhi-tongjian-hanji-906-lihai-de-ren-weishenme-xiangshou-chongtu-lvc3wedrifdzdu-yv1qhocl8uss2, zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79, zizhi-tongjian-hanji-908-nijing-chu-qiangzhe-xialu-chu-yongzhe-gudu-chu-zhizhe-lqih1dradhzi0mipxsaiedd52dlj, zizhi-tongjian-hanji-910-shehui-shengcun-wo-quan-ni-duodian-chengfu-lp2fvuyb8ampzoeyr7znztnr0fgk, zizhi-tongjian-hanji-911-gudai-gongwuyuan-ye-neng-bao-fenpei-ls3pxu9xlpuulsdailx8tcoylv9e]
 last_updated: 2026-08-26
 ---
 
 # 选官通道竞争 / Official Selection Channel Competition
+
+[[zizhi-tongjian-hanji-906-lihai-de-ren-weishenme-xiangshou-chongtu-lvc3wedrifdzdu-yv1qhocl8uss2|Hanji 906]] adds the exclusion-rule side of selection before the Hongdu channel dispute. The [[SanhuLawAppointmentConstraint|三互法任官限制]] does not create a favored new route; it narrows eligibility so much that [[YouzhouLateHan|幽州]] and [[JizhouLateHan|冀州]] cannot easily receive inspectors. This broadens the concept: appointment systems fail not only when rival channels capture offices, but also when avoidance rules make the qualified pool too small.
 
 [[zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79|Hanji 907]] adds the practical access layer before Cai Yong's explicit warning. The court favors fu-writing students, edict writers, bird-seal/calligraphic talent, false Xuanling filial sons, and people recommended through palace-favorite channels. The source therefore shows selection-channel competition before it becomes a named school dispute: cultural display and moral display are already competing with regular office qualification.
 
@@ -21,6 +23,7 @@ The episode makes the competition material. Official posts are finite, so a new 
 The broader source-scoped framework links selection systems to power distribution. Hereditary office, Han recommendation, Nine-Rank selection, and later [[ImperialExaminationOpportunityEquality|科举与机会平等]] each redistribute status opportunity and elite control; Hongdu is read as [[EmperorLingOfHan|汉灵帝]]'s attempted counterweight to powerful士人 networks rather than as a fully public exam-like solution.
 
 ## Key Claims
+- Hanji 906 adds that selection failure can come from overbroad disqualification as well as from a rival favored channel.
 - Hanji 907 adds that selection-channel competition can begin as palace access and ruler taste before a formal rival school is fully articulated.
 - A curriculum dispute becomes political when completion of that curriculum changes access to appointment.
 - Hanji 910 adds the imperial-motive layer: a new selection channel can be a ruler's attempt to weaken incumbent elite gatekeeping.
@@ -29,6 +32,7 @@ The broader source-scoped framework links selection systems to power distributio
 - The source's proto-examination comparison is bounded: Hongdu widens or redirects access, but remains entangled with court favor and eunuch patronage.
 
 ## Connections
+- [[zizhi-tongjian-hanji-906-lihai-de-ren-weishenme-xiangshou-chongtu-lvc3wedrifdzdu-yv1qhocl8uss2|Hanji 906]], [[CaiYong|蔡邕]], [[SanhuLawAppointmentConstraint|三互法任官限制]], [[YouzhouLateHan|幽州]], and [[JizhouLateHan|冀州]] - eligibility overconstraint before the later favored-channel problem.
 - [[zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79|Hanji 907]], [[EmperorLingOfHan|汉灵帝]], [[HongduMenxue|鸿都门学]], and [[FilialMourningAccessCredential|守陵孝行进身凭证]] - favored literary, calligraphic, and moral-display access before Cai Yong's critique.
 - [[zizhi-tongjian-hanji-908-nijing-chu-qiangzhe-xialu-chu-yongzhe-gudu-chu-zhizhe-lqih1dradhzi0mipxsaiedd52dlj|Hanji 908]], [[CaiYong|蔡邕]], [[HongduMenxue|鸿都门学]], and [[FilialMourningAccessCredential|守陵孝行进身凭证]] - pre-Hongdu minor-talent and moral-display credentials as appointment-channel risks.
 - [[zizhi-tongjian-hanji-910-shehui-shengcun-wo-quan-ni-duodian-chengfu-lp2fvuyb8ampzoeyr7znztnr0fgk|Hanji 910]], [[EmperorLingOfHan|汉灵帝]], [[HongduMenxue|鸿都门学]], and [[Taixue|太学]] - establishment-side counterchannel against great-clan selection control.

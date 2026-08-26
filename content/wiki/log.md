@@ -11877,3 +11877,11 @@ Added The Rest Is History source page for the St Bartholomew's Day Massacre, Wal
 ## [2026-08-26] lint | Wiki health check
 
 Ran health, identity validation, and lint. Health scanned 14,642 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-22 with 12,882 nodes and 149,964 edges, so fragile-bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because the configured default model `claude-3-5-sonnet-latest` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not updated.
+
+## [2026-08-26] ingest | 《资治通鉴·汉纪》906丨厉害的人，为什么享受冲突？
+
+Added source page for Hanji 906: conflict as source-scoped boundary practice, Cai Yong's 175 CE memorial against the 三互法 appointment bottleneck, Youzhou/Jizhou vacant inspector posts, Sima Guang's "many regulations" decline warning, and 175-176 frontier/regional office markers. Created Sanhu Law Appointment Constraint; updated Cai Yong, Emperor Ling, Official Selection Channel Competition, Court Feedback Collapse, Talent as State Treasure, Merit-Based Reward and Punishment, Local Official Tenure Stability, Communication Boundary Setting, Xianbei, Youzhou, Jizhou, Yizhou, and Chen Dan. No settled contradiction found; transcript variants around Cai Yong, Chen Dan, and small Western Regions names are kept source-scoped.
+
+## [2026-08-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

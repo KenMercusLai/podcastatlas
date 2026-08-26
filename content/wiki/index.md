@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》906丨厉害的人，为什么享受冲突？](sources/zizhi-tongjian-hanji-906-lihai-de-ren-weishenme-xiangshou-chongtu-lvc3wedrifdzdu-yv1qhocl8uss2.md) — 芮淇讲透资治通鉴 episode on conflict as source-scoped boundary practice, Cai Yong's 175 CE memorial against the 三互法 appointment bottleneck, vacant Youzhou/Jizhou inspector posts, and Sima Guang's rule-proliferation critique.
 - [《资治通鉴·汉纪》907丨所有的病都是你的心病](sources/zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79.md) — 芮淇讲透资治通鉴 episode on Cao Luan's 176 CE party-figure memorial, Emperor Ling's lethal response and five-degree kinship expansion of party prohibition, early Liu Bei/Gongsun Zan study under Lu Zhi, Xianbei pressure, false Xuanling filial sons, and source-scoped "心病" self-cultivation.
 - [《资治通鉴·汉纪》908丨逆境出强者，狭路出勇者，孤独出智者](sources/zizhi-tongjian-hanji-908-nijing-chu-qiangzhe-xialu-chu-yongzhe-gudu-chu-zhizhe-lqih1dradhzi0mipxsaiedd52dlj.md) — 芮淇讲透资治通鉴 episode on Cai Yong's 177 CE memorial about ritual neglect, literary/artistic appointment distortion, false "Xuanling filial sons" near the crown prince, and source-scoped inward-strength and meditation practice.
 - [《资治通鉴·汉纪》909丨2025如何养成一身贵气？](sources/zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj.md) — 芮淇讲透资治通鉴 episode on "贵气" as self-command, Cai Yong's rejected warning against the 177 CE Xianbei expedition, Xia Yu/Tian Yan/Zang Min's three-route defeat by Tanshihuai, and eclipse/earthquake office accountability after the failed campaign.
@@ -9158,6 +9159,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [三互法任官限制 / Sanhu Law Appointment Constraint](concepts/SanhuLawAppointmentConstraint.md) — Late-Han anti-collusion appointment rule whose overbroad exclusions leave urgent provincial inspector posts vacant and show how regulation can block the talent it is meant to discipline.
 - [党锢亲属牵连扩大 / Party Prohibition Kinship Expansion](concepts/PartyProhibitionKinshipExpansion.md) — Late-Han party-prohibition pattern where punishment expands from named party figures to students, old subordinates, fathers, sons, brothers, and five-degree kin.
 - [守陵孝行进身凭证 / Filial Mourning Access Credential](concepts/FilialMourningAccessCredential.md) — Late-Han appointment-risk pattern where public mourning and filial display become credentials for palace or heir proximity unless institutionally verified.
 - [Overextended Frontier Expedition / 边境远征过度](concepts/OverextendedFrontierExpedition.md) — Strategic failure pattern where a court escalates frontier raids into deep punitive war despite weak capacity, poor border control, strong opponents, and unsettled internal conditions.

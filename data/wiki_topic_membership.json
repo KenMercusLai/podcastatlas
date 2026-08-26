@@ -48013,6 +48013,13 @@
       "url": "/topics/history/"
     }
   ],
+  "SanhuLawAppointmentConstraint": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "SanlianLifeWeekly": [
     {
       "key": "history",
@@ -68613,6 +68620,13 @@
     }
   ],
   "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "zizhi-tongjian-hanji-906-lihai-de-ren-weishenme-xiangshou-chongtu-lvc3wedrifdzdu-yv1qhocl8uss2": [
     {
       "key": "politics",
       "label": "Politics",

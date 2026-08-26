@@ -2,11 +2,13 @@
 title: "鲜卑 / Xianbei"
 type: entity
 tags: [people, frontier, late-han, steppe, china]
-sources: [zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79, zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj, zizhi-tongjian-hanji-910-shehui-shengcun-wo-quan-ni-duodian-chengfu-lp2fvuyb8ampzoeyr7znztnr0fgk, zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g, zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5, zizhi-tongjian-hanji-920-mingwu-zhege-daoli-caineng-zhuan-daqian-lqmabg3bpyz6ct2v4arx-iun57ws, zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar, zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z, zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna]
+sources: [zizhi-tongjian-hanji-906-lihai-de-ren-weishenme-xiangshou-chongtu-lvc3wedrifdzdu-yv1qhocl8uss2, zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79, zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj, zizhi-tongjian-hanji-910-shehui-shengcun-wo-quan-ni-duodian-chengfu-lp2fvuyb8ampzoeyr7znztnr0fgk, zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g, zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5, zizhi-tongjian-hanji-920-mingwu-zhege-daoli-caineng-zhuan-daqian-lqmabg3bpyz6ct2v4arx-iun57ws, zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar, zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z, zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna]
 last_updated: 2026-08-26
 ---
 
 # 鲜卑 / Xianbei
+
+[[zizhi-tongjian-hanji-906-lihai-de-ren-weishenme-xiangshou-chongtu-lvc3wedrifdzdu-yv1qhocl8uss2|Hanji 906]] backfills the first Xianbei pressure marker in this late-Han run. The 175 CE annal notes Xianbei incursions into [[YouzhouLateHan|幽州]], Hongnong Commandery, and the [[GuanzhongRegion|三辅 / 关中]] field, with locust disaster in the same notice. The episode uses this mainly as background for urgent provincial appointments, not yet as the policy debate that Hanji 909 develops.
 
 [[zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79|Hanji 907]] adds the earliest Xianbei pressure marker in the 176-177 CE sequence. The source records Xianbei invading [[YouzhouLateHan|幽州]] in 176 and repeatedly disturbing the eastern, western, and northern frontiers in 177, setting up the stronger policy debate and failed deep expedition that Hanji 909 develops.
 
@@ -33,6 +35,7 @@ The source uses the incursion as one item in a broader late-Han stress field rat
 The source uses Xianbei mainly to show that Gongsun Zan's political failure has widened beyond a narrow Han official dispute. Frontier groups, Liu Yu loyalists, and Yuan Shao's network all find common cause against him.
 
 ## Connections
+- [[zizhi-tongjian-hanji-906-lihai-de-ren-weishenme-xiangshou-chongtu-lvc3wedrifdzdu-yv1qhocl8uss2|Hanji 906]], [[YouzhouLateHan|幽州]], [[GuanzhongRegion|关中]], and [[SanhuLawAppointmentConstraint|三互法任官限制]] - 175 CE incursion marker beside the appointment-bottleneck discussion.
 - [[zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79|Hanji 907]], [[YouzhouLateHan|幽州]], and [[EmperorLingOfHan|汉灵帝]] - 176-177 CE frontier-pressure marker before the failed offensive debate.
 - [[zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj|Hanji 909]], [[CaiYong|蔡邕]], [[XiaYuLateHan|夏育]], [[TianYanLateHan|田晏]], [[ZangMinLateHan|臧旻]], [[TanshihuaiXianbei|檀石槐]], and [[OverextendedFrontierExpedition|边境远征过度]] - 177 CE offensive debate and failed deep expedition.
 - [[zizhi-tongjian-hanji-910-shehui-shengcun-wo-quan-ni-duodian-chengfu-lp2fvuyb8ampzoeyr7znztnr0fgk|Hanji 910]], [[ZhaoBaoLateHan|赵苞 / 赵包]], [[TanshihuaiXianbei|檀石槐]], and [[LoyaltyCollateralDilemma|忠义牵连困境]] - 177 CE family-hostage battle before the later incursion and succession branches.

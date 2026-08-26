@@ -2,23 +2,27 @@
 title: "Local Official Tenure Stability / 地方官任期稳定"
 type: concept
 tags: [governance, institutions, official-selection, china]
-sources: [zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g]
+sources: [zizhi-tongjian-hanji-906-lihai-de-ren-weishenme-xiangshou-chongtu-lvc3wedrifdzdu-yv1qhocl8uss2, zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g]
 last_updated: 2026-08-26
 ---
 
 # Local Official Tenure Stability / 地方官任期稳定
+
+[[zizhi-tongjian-hanji-906-lihai-de-ren-weishenme-xiangshou-chongtu-lvc3wedrifdzdu-yv1qhocl8uss2|Hanji 906]] adds a vacancy-before-tenure edge case. [[CaiYong|蔡邕]]'s complaint is not that [[YouzhouLateHan|幽州]] and [[JizhouLateHan|冀州]] officials rotate too quickly, but that overbroad [[SanhuLawAppointmentConstraint|三互法任官限制]] leaves inspector posts hard to fill at all. Tenure stability presupposes timely appointment of capable officials before multi-year evaluation can even begin.
 
 Local official tenure stability / 地方官任期稳定 is [[LuZhiLateHan|卢植]]'s Hanji 913 institutional proposal that governors and inspectors should not be moved too frequently. The source says local officials need at least a three-year term and longer observation before the court can evaluate ability, record, and change over time.
 
 The concept counters short-term appointment churn. If offices rotate too quickly, officials chase visible quick wins, private patrons, and transfer timing rather than durable local welfare; if officials serve long enough to be observed, promotion and dismissal can reconnect to performance evidence.
 
 ## Key Claims
+- Hanji 906 adds that office continuity can fail before tenure starts when appointment constraints leave key provincial posts vacant.
 - Stable tenure gives local policy enough time to show results beyond immediate reputation.
 - Multi-year evaluation reduces incentives for short-term display and private lobbying.
 - Appointment standards need both responsible selectors and an observation period that can test actual ability.
 - In Hanji 913, Emperor Ling's refusal to act makes the proposal another unrealized repair inside [[CourtFeedbackCollapse|君臣反馈失灵]].
 
 ## Connections
+- [[zizhi-tongjian-hanji-906-lihai-de-ren-weishenme-xiangshou-chongtu-lvc3wedrifdzdu-yv1qhocl8uss2|Hanji 906]], [[CaiYong|蔡邕]], [[SanhuLawAppointmentConstraint|三互法任官限制]], [[YouzhouLateHan|幽州]], and [[JizhouLateHan|冀州]] - vacant inspector posts before any stable tenure can operate.
 - [[zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g|Hanji 913]] - source episode.
 - [[LuZhiLateHan|卢植]] - official who makes the proposal.
 - [[EmperorLingOfHan|汉灵帝]] - ruler who ignores the memorial.

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1884
+topic_total_pages: 1886
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -2914,6 +2914,9 @@ topic_concepts:
   - key: "ZhouRoyalSymbolicDeterrence"
     title: "Zhou Royal Symbolic Deterrence / 周王室象征威慑"
     url: "/wiki/concepts/zhouroyalsymbolicdeterrence/"
+  - key: "SanhuLawAppointmentConstraint"
+    title: "三互法任官限制 / Sanhu Law Appointment Constraint"
+    url: "/wiki/concepts/sanhulawappointmentconstraint/"
   - key: "EnvoyKillingTaboo"
     title: "不斩来使 / Envoy Killing Taboo"
     url: "/wiki/concepts/envoykillingtaboo/"
@@ -5607,6 +5610,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh"
     title: "《资治通鉴·汉纪》185｜一张利嘴，收复中国万里疆土"
     url: "/wiki/sources/zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh/"
+  - key: "zizhi-tongjian-hanji-906-lihai-de-ren-weishenme-xiangshou-chongtu-lvc3wedrifdzdu-yv1qhocl8uss2"
+    title: "《资治通鉴·汉纪》906丨厉害的人，为什么享受冲突？"
+    url: "/wiki/sources/zizhi-tongjian-hanji-906-lihai-de-ren-weishenme-xiangshou-chongtu-lvc3wedrifdzdu-yv1qhocl8uss2/"
   - key: "zizhi-tongjian-hanji-914-xinren-de-ren-weihe-zong-shang-ni-zui-shen-lvwit-rzrkscn5a3h6wblntxppso"
     title: "《资治通鉴·汉纪》914丨信任的人，为何总伤你最深？"
     url: "/wiki/sources/zizhi-tongjian-hanji-914-xinren-de-ren-weihe-zong-shang-ni-zui-shen-lvwit-rzrkscn5a3h6wblntxppso/"
