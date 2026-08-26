@@ -1247,6 +1247,10 @@
     "title": "ABC",
     "url": "/wiki/entities/abc/"
   },
+  "ABOTNavigation": {
+    "title": "A-BOT Navigation",
+    "url": "/wiki/entities/abotnavigation/"
+  },
   "ABTA": {
     "title": "ABTA",
     "url": "/wiki/entities/abta/"
@@ -20259,6 +20263,10 @@
     "title": "归有光 / Gui Youguang",
     "url": "/wiki/entities/guiyouguang/"
   },
+  "GuideRobotDogs": {
+    "title": "Guide Robot Dogs",
+    "url": "/wiki/concepts/guiderobotdogs/"
+  },
   "GuifeiZuijiu": {
     "title": "《贵妃醉酒》 / Guifei Zuijiu",
     "url": "/wiki/entities/guifeizuijiu/"
@@ -20358,6 +20366,10 @@
   "GuoMoruo": {
     "title": "郭沫若",
     "url": "/wiki/entities/guomoruo/"
+  },
+  "GuoNing": {
+    "title": "郭宁 / Guo Ning",
+    "url": "/wiki/entities/guoning/"
   },
   "GuoPu": {
     "title": "Guo Pu / 郭璞",
@@ -27127,6 +27139,10 @@
     "title": "《卡美洛的最后守护者》 / The Last Defender of Camelot",
     "url": "/wiki/entities/lastdefenderofcamelot/"
   },
+  "LastMileRobotDelivery": {
+    "title": "Last-Mile Robot Delivery",
+    "url": "/wiki/concepts/lastmilerobotdelivery/"
+  },
   "LateBloomingTalent": {
     "title": "Late-Blooming Talent / 大器晚成式人才显现",
     "url": "/wiki/concepts/latebloomingtalent/"
@@ -32098,6 +32114,10 @@
   "MobilityFarewellGeneration": {
     "title": "Mobility Farewell Generation / 流动生活中的离别经验",
     "url": "/wiki/concepts/mobilityfarewellgeneration/"
+  },
+  "MobilityFirstEmbodiedAI": {
+    "title": "Mobility-First Embodied AI",
+    "url": "/wiki/concepts/mobilityfirstembodiedai/"
   },
   "MockTurtle": {
     "title": "Mock Turtle / 假海龟",
@@ -40331,6 +40351,10 @@
     "title": "Robot Chef Cost-Quality Tradeoff",
     "url": "/wiki/concepts/robotchefcostqualitytradeoff/"
   },
+  "RobotCommercializationNegativeFeedbackLoop": {
+    "title": "Robot Commercialization Negative Feedback Loop",
+    "url": "/wiki/concepts/robotcommercializationnegativefeedbackloop/"
+  },
   "RobotControlDataScarcity": {
     "title": "Robot Control Data Scarcity",
     "url": "/wiki/concepts/robotcontroldatascarcity/"
@@ -40375,6 +40399,10 @@
     "title": "Robot Logistics Sorting",
     "url": "/wiki/concepts/robotlogisticssorting/"
   },
+  "RobotNavigationInfrastructure": {
+    "title": "Robot Navigation Infrastructure",
+    "url": "/wiki/concepts/robotnavigationinfrastructure/"
+  },
   "RobotReinforcementLearning": {
     "title": "Robot Reinforcement Learning",
     "url": "/wiki/concepts/robotreinforcementlearning/"
@@ -40382,6 +40410,10 @@
   "RobotRepurchaseDemand": {
     "title": "Robot Repurchase Demand / 机器人复购需求",
     "url": "/wiki/concepts/robotrepurchasedemand/"
+  },
+  "RobotResponseLatency": {
+    "title": "Robot Response Latency",
+    "url": "/wiki/concepts/robotresponselatency/"
   },
   "RobotSovereigntyAndDataTrust": {
     "title": "Robot Sovereignty and Data Trust",
@@ -45834,6 +45866,10 @@
   "TangTao": {
     "title": "唐涛 / 唐唐 / Tang Tao",
     "url": "/wiki/entities/tangtao/"
+  },
+  "TangWenbin": {
+    "title": "唐文斌 / Tang Wenbin",
+    "url": "/wiki/entities/tangwenbin/"
   },
   "TangXiaoou": {
     "title": "汤晓鸥 / Tang Xiao'ou",
@@ -55246,6 +55282,10 @@
   "dang-huawei-paochu-tao-dinglv-women-gai-xin-ta-dao-na-yibu-keji-luandun": {
     "title": "当华为抛出韬定律，我们该信它到哪一步？",
     "url": "/wiki/sources/dang-huawei-paochu-tao-dinglv-women-gai-xin-ta-dao-na-yibu-keji-luandun/"
+  },
+  "dang-jiqiren-xuehui-renlu-wuli-shijie-cai-zhenzheng-jieshangle-ai-658f592c4a52": {
+    "title": "当机器人学会认路，物理世界才真正接上了 AI",
+    "url": "/wiki/sources/dang-jiqiren-xuehui-renlu-wuli-shijie-cai-zhenzheng-jieshangle-ai-658f592c4a52/"
   },
   "dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian": {
     "title": "当可靠的代码变成了偶尔发疯的OpenClaw，我们未来的工作范式变迁",

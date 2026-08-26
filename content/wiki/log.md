@@ -12150,6 +12150,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-27] ingest | 当机器人学会认路，物理世界才真正接上了 AI
+
+Added source page for the 科技乱炖 World Robot Conference conversation with Gaode's Tang Wenbin on navigation-first embodied AI, A-BOT Navigation, guide robot dogs, last-mile delivery, inspection, robot response latency, and commercialization feedback loops. Created Tang Wenbin, Guo Ning, A-BOT Navigation, Guide Robot Dogs, Mobility-First Embodied AI, Robot Navigation Infrastructure, Last-Mile Robot Delivery, Robot Response Latency, and Robot Commercialization Negative Feedback Loop; migrated Gaode to synthesis-v1 and updated Industrial Inspection Robotics. No settled contradiction found; the source qualifies humanoid-first robotics narratives by treating movement, maps, route memory, passability, and field feedback as an earlier practical layer.
+
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》1022丨乱世三国，三位名士的生存抉择
 
 Added source page for Hanji 1022: Du Xi, Zhao Yan, and Fan Qin preserve themselves under Liu Biao in Jingzhou, Zhao Yan later chooses Cao Cao after the Xudu court position becomes legible, Zhao Yan and Li Tong turn a wife-side kinship plea into a law-over-private-ties case, Xun You's rejected Zhang Xiu advice sets up Hanji 1023, and Duan Wei's order against Li Jue closes the episode. Created Du Xi, Zhao Yan, Fan Qin, and Li Tong pages; updated Concealed Capability Timing, Rule Over Kinship Power, and Xun You to synthesis-v1. No settled contradiction found; transcript forms around 杜席/杜袭, 赵衍/赵俨, 婆卿/繁钦, 段威/段煨, 李爵/李傕, and 让场/穰城 remain source-scoped.
@@ -12186,6 +12190,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》1024丨勇冠三军吕布，为何始终一事无成？
 
 Added source page for Hanji 1024: Lü Bu's 198 CE pre-Xiapi decision field, Gao Shun and Zhang Liao's attack on Liu Bei, Xun You's attack-window advice to Cao Cao, Chen Gong's rejected early-attack and abandoned inner-outer attrition plan, and Yuan Shu's still-uncertain rescue channel. Updated Lü Bu and Long-Term Achievement Discipline to synthesis-v1. No settled contradiction found; the source qualifies final-cause readings of Lü Bu's fall by moving the failure earlier to lost initiative, unstable trust, and weak self-command.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-27] lint | Wiki health check
 

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 5586
+wiki_total_pages: 5592
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -647,6 +647,9 @@ wiki_pages:
   - key: "MobilityFarewellGeneration"
     title: "Mobility Farewell Generation / 流动生活中的离别经验"
     url: "/wiki/concepts/mobilityfarewellgeneration/"
+  - key: "MobilityFirstEmbodiedAI"
+    title: "Mobility-First Embodied AI"
+    url: "/wiki/concepts/mobilityfirstembodiedai/"
   - key: "ModelAsOperatingSystem"
     title: "Model As Operating System"
     url: "/wiki/concepts/modelasoperatingsystem/"

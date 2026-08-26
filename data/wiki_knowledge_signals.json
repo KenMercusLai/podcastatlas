@@ -93,6 +93,22 @@
       "updated": "2026-08-09",
       "url": "/wiki/entities/42zhangjing/"
     },
+    "ABOTNavigation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "658f592c4a52 [658f592c4a52].md",
+          "key": "dang-jiqiren-xuehui-renlu-wuli-shijie-cai-zhenzheng-jieshangle-ai-658f592c4a52",
+          "show": "科技乱炖",
+          "title": "当机器人学会认路，物理世界才真正接上了 AI",
+          "url": "/wiki/sources/dang-jiqiren-xuehui-renlu-wuli-shijie-cai-zhenzheng-jieshangle-ai-658f592c4a52/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/abotnavigation/"
+    },
     "ABriefHistoryOfIntelligence": {
       "episode_count": 2,
       "show_count": 2,
@@ -2214,6 +2230,29 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/gaoerji/"
     },
+    "Gaode": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "EP117 豆包月活过亿，阿里再造「千问」是不是晚了？ [lmp0PzdIg2iJOW5k3cNnnvVqq6Sa].md",
+          "key": "ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa",
+          "show": "硬地骇客",
+          "title": "EP117 豆包月活过亿，阿里再造「千问」是不是晚了？",
+          "url": "/wiki/sources/ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa/"
+        },
+        {
+          "episode_file": "658f592c4a52 [658f592c4a52].md",
+          "key": "dang-jiqiren-xuehui-renlu-wuli-shijie-cai-zhenzheng-jieshangle-ai-658f592c4a52",
+          "show": "科技乱炖",
+          "title": "当机器人学会认路，物理世界才真正接上了 AI",
+          "url": "/wiki/sources/dang-jiqiren-xuehui-renlu-wuli-shijie-cai-zhenzheng-jieshangle-ai-658f592c4a52/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/gaode/"
+    },
     "GauravKarna": {
       "episode_count": 1,
       "show_count": 1,
@@ -2643,6 +2682,38 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/guanducampaign/"
+    },
+    "GuideRobotDogs": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "658f592c4a52 [658f592c4a52].md",
+          "key": "dang-jiqiren-xuehui-renlu-wuli-shijie-cai-zhenzheng-jieshangle-ai-658f592c4a52",
+          "show": "科技乱炖",
+          "title": "当机器人学会认路，物理世界才真正接上了 AI",
+          "url": "/wiki/sources/dang-jiqiren-xuehui-renlu-wuli-shijie-cai-zhenzheng-jieshangle-ai-658f592c4a52/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/guiderobotdogs/"
+    },
+    "GuoNing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "658f592c4a52 [658f592c4a52].md",
+          "key": "dang-jiqiren-xuehui-renlu-wuli-shijie-cai-zhenzheng-jieshangle-ai-658f592c4a52",
+          "show": "科技乱炖",
+          "title": "当机器人学会认路，物理世界才真正接上了 AI",
+          "url": "/wiki/sources/dang-jiqiren-xuehui-renlu-wuli-shijie-cai-zhenzheng-jieshangle-ai-658f592c4a52/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/guoning/"
     },
     "GuoTu": {
       "episode_count": 5,
@@ -3079,9 +3150,9 @@
       "url": "/wiki/entities/huyanglatehan/"
     },
     "IndustrialInspectionRobotics": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The $1⧸Hour Worker： Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs [42245680].md",
@@ -3089,9 +3160,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "The $1/Hour Worker: Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680/"
+        },
+        {
+          "episode_file": "658f592c4a52 [658f592c4a52].md",
+          "key": "dang-jiqiren-xuehui-renlu-wuli-shijie-cai-zhenzheng-jieshangle-ai-658f592c4a52",
+          "show": "科技乱炖",
+          "title": "当机器人学会认路，物理世界才真正接上了 AI",
+          "url": "/wiki/sources/dang-jiqiren-xuehui-renlu-wuli-shijie-cai-zhenzheng-jieshangle-ai-658f592c4a52/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-08-27",
       "url": "/wiki/concepts/industrialinspectionrobotics/"
     },
     "InstitutionalPolicyPluralism": {
@@ -4133,6 +4211,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/languagecompressionlabeling/"
+    },
+    "LastMileRobotDelivery": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "658f592c4a52 [658f592c4a52].md",
+          "key": "dang-jiqiren-xuehui-renlu-wuli-shijie-cai-zhenzheng-jieshangle-ai-658f592c4a52",
+          "show": "科技乱炖",
+          "title": "当机器人学会认路，物理世界才真正接上了 AI",
+          "url": "/wiki/sources/dang-jiqiren-xuehui-renlu-wuli-shijie-cai-zhenzheng-jieshangle-ai-658f592c4a52/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/lastmilerobotdelivery/"
     },
     "LatentMoE": {
       "episode_count": 1,
@@ -5293,6 +5387,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/missionarymapknowledgeproduction/"
     },
+    "MobilityFirstEmbodiedAI": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "658f592c4a52 [658f592c4a52].md",
+          "key": "dang-jiqiren-xuehui-renlu-wuli-shijie-cai-zhenzheng-jieshangle-ai-658f592c4a52",
+          "show": "科技乱炖",
+          "title": "当机器人学会认路，物理世界才真正接上了 AI",
+          "url": "/wiki/sources/dang-jiqiren-xuehui-renlu-wuli-shijie-cai-zhenzheng-jieshangle-ai-658f592c4a52/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/mobilityfirstembodiedai/"
+    },
     "ModelContextProtocol": {
       "episode_count": 6,
       "show_count": 6,
@@ -6189,6 +6299,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/robotasaservice/"
     },
+    "RobotCommercializationNegativeFeedbackLoop": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "658f592c4a52 [658f592c4a52].md",
+          "key": "dang-jiqiren-xuehui-renlu-wuli-shijie-cai-zhenzheng-jieshangle-ai-658f592c4a52",
+          "show": "科技乱炖",
+          "title": "当机器人学会认路，物理世界才真正接上了 AI",
+          "url": "/wiki/sources/dang-jiqiren-xuehui-renlu-wuli-shijie-cai-zhenzheng-jieshangle-ai-658f592c4a52/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/robotcommercializationnegativefeedbackloop/"
+    },
     "RobotControlDataScarcity": {
       "episode_count": 1,
       "show_count": 1,
@@ -6204,6 +6330,38 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/robotcontroldatascarcity/"
+    },
+    "RobotNavigationInfrastructure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "658f592c4a52 [658f592c4a52].md",
+          "key": "dang-jiqiren-xuehui-renlu-wuli-shijie-cai-zhenzheng-jieshangle-ai-658f592c4a52",
+          "show": "科技乱炖",
+          "title": "当机器人学会认路，物理世界才真正接上了 AI",
+          "url": "/wiki/sources/dang-jiqiren-xuehui-renlu-wuli-shijie-cai-zhenzheng-jieshangle-ai-658f592c4a52/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/robotnavigationinfrastructure/"
+    },
+    "RobotResponseLatency": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "658f592c4a52 [658f592c4a52].md",
+          "key": "dang-jiqiren-xuehui-renlu-wuli-shijie-cai-zhenzheng-jieshangle-ai-658f592c4a52",
+          "show": "科技乱炖",
+          "title": "当机器人学会认路，物理世界才真正接上了 AI",
+          "url": "/wiki/sources/dang-jiqiren-xuehui-renlu-wuli-shijie-cai-zhenzheng-jieshangle-ai-658f592c4a52/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/robotresponselatency/"
     },
     "RobotSovereigntyAndDataTrust": {
       "episode_count": 1,
@@ -6917,6 +7075,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/tansitong/"
+    },
+    "TangWenbin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "658f592c4a52 [658f592c4a52].md",
+          "key": "dang-jiqiren-xuehui-renlu-wuli-shijie-cai-zhenzheng-jieshangle-ai-658f592c4a52",
+          "show": "科技乱炖",
+          "title": "当机器人学会认路，物理世界才真正接上了 AI",
+          "url": "/wiki/sources/dang-jiqiren-xuehui-renlu-wuli-shijie-cai-zhenzheng-jieshangle-ai-658f592c4a52/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/tangwenbin/"
     },
     "TencentWorkBuddy": {
       "episode_count": 3,

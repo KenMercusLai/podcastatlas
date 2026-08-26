@@ -1945,6 +1945,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "ABOTNavigation": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "ABTestingForMarketers": [
     {
       "key": "economics",
@@ -25030,6 +25037,13 @@
       "url": "/topics/history/"
     }
   ],
+  "GuideRobotDogs": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "Guiguzi": [
     {
       "key": "history",
@@ -32623,6 +32637,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "LastMileRobotDelivery": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "LateBloomingTalent": [
     {
       "key": "history",
@@ -37694,6 +37715,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "MobilityFirstEmbodiedAI": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "MockTurtle": [
@@ -47607,6 +47635,18 @@
       "url": "/topics/technology/"
     }
   ],
+  "RobotCommercializationNegativeFeedbackLoop": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "RobotControlDataScarcity": [
     {
       "key": "technology",
@@ -47684,6 +47724,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "RobotNavigationInfrastructure": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "RobotReinforcementLearning": [
     {
       "key": "technology",
@@ -47692,6 +47739,13 @@
     }
   ],
   "RobotRepurchaseDemand": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "RobotResponseLatency": [
     {
       "key": "technology",
       "label": "Technology",
@@ -54518,6 +54572,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "TangWenbin": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "TangXiaoou": [
@@ -64862,6 +64923,13 @@
     }
   ],
   "dang-huawei-paochu-tao-dinglv-women-gai-xin-ta-dao-na-yibu-keji-luandun": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "dang-jiqiren-xuehui-renlu-wuli-shijie-cai-zhenzheng-jieshangle-ai-658f592c4a52": [
     {
       "key": "technology",
       "label": "Technology",

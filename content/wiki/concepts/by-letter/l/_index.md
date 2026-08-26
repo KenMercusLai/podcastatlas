@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 5586
+wiki_total_pages: 5592
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -80,6 +80,9 @@ wiki_pages:
   - key: "LastChanceEcologicalWitnessing"
     title: "Last-Chance Ecological Witnessing"
     url: "/wiki/concepts/lastchanceecologicalwitnessing/"
+  - key: "LastMileRobotDelivery"
+    title: "Last-Mile Robot Delivery"
+    url: "/wiki/concepts/lastmilerobotdelivery/"
   - key: "LateBullMarketLossRisk"
     title: "Late Bull Market Loss Risk / 牛市后期亏钱风险"
     url: "/wiki/concepts/latebullmarketlossrisk/"

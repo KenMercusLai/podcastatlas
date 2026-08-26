@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 1863
+topic_total_pages: 1864
 topic_concepts:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -2224,6 +2224,9 @@ topic_concepts:
   - key: "RoboAdvisorHybridService"
     title: "Robo-Advisor Hybrid Service / 人机结合投顾"
     url: "/wiki/concepts/roboadvisorhybridservice/"
+  - key: "RobotCommercializationNegativeFeedbackLoop"
+    title: "Robot Commercialization Negative Feedback Loop"
+    url: "/wiki/concepts/robotcommercializationnegativefeedbackloop/"
   - key: "RollingHoldingPeriodExperience"
     title: "Rolling Holding-Period Experience / 滚动持有期体验"
     url: "/wiki/concepts/rollingholdingperiodexperience/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [当机器人学会认路，物理世界才真正接上了 AI](sources/dang-jiqiren-xuehui-renlu-wuli-shijie-cai-zhenzheng-jieshangle-ai-658f592c4a52.md) — 科技乱炖 episode with Gaode's Tang Wenbin on navigation-first embodied AI, guide robot dogs, A-BOT Navigation, last-mile delivery, inspection, and robot commercialization constraints.
 - [22 岁的具身 CEO、5 轮融资、过亿美元、“不知天有多高”、“一年吃了十年的苦”｜对谈黄一：萝博派对创始人/CEO](sources/22-sui-de-jushen-ceo-5-lun-rongzi-guo-yi-meiyuan-buzhi-tian-you-duo-gao-yinian-chile-shi-nian-de-ku-duitan-huangyi-luobo-paidui-chuangshiren-ceo-ljwdmocryiblf0k3rkz8eonkqox.md) — 十字路口Crossing episode with Huang Yi on Luobo Paidui's open-source humanoid robot platform, five financing rounds, RPO/RP1, research-education demand, organization scaling, and embodied-AI commercialization timing.
 - [《资治通鉴·汉纪》1021丨曹操手握重权，为什么容不下杨彪？](sources/zizhi-tongjian-hanji-1021-caocao-shouwo-zhongquan-weishenme-rongbuxia-yangbiao-lr-y4xqanwjyslvf4fbwxjuymtun.md) — 芮淇讲透资治通鉴 episode on Cao Cao releasing but removing Yang Biao, Ma Ridi and Jin Shang's returned-body honor disputes after Yuan Shu, Cao's Huyang-Wuyin operation against the Zhang Xiu-Liu Biao line, and Yang Feng/Han Xian's final Baibo-remnant dispersal.
 - [《资治通鉴·汉纪》1022丨乱世三国，三位名士的生存抉择](sources/zizhi-tongjian-hanji-1022-luanshi-sanguo-sanwei-mingshi-de-shengcun-jueze-lgmbekomxwiu7hjnpxkxggyhvwaf.md) — 芮淇讲透资治通鉴 episode on Du Xi, Zhao Yan, and Fan Qin preserving themselves in Liu Biao's Jingzhou, Zhao Yan choosing Cao Cao after Xudu, law-over-kinship enforcement around Li Tong, Xun You's rejected Zhang Xiu advice, and Duan Wei's order against Li Jue.
@@ -1531,6 +1532,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [唐文斌 / Tang Wenbin](entities/TangWenbin.md) — Gaode embodied-business lead explaining the company's navigation-first Physical AI route.
+- [郭宁 / Guo Ning](entities/GuoNing.md) — Gaode CEO tied in the source to the strategy that Gaode should become Alibaba's Physical AI port.
+- [A-BOT Navigation](entities/ABOTNavigation.md) — Gaode robot-navigation model layer for visual, indoor-outdoor, and robot-passability-aware routing.
 - [Huang Yi / 黄一 (robotics founder)](entities/HuangYiRobotics.md) — Founder and CEO of Luobo Paidui, framed as a young hard-tech founder balancing fundraising, open source, and product focus.
 - [Luobo Paidui / 萝博派对](entities/LuoboPaidui.md) — Open-source humanoid robotics startup building RPO/RP1 platforms for research, education, and later industrial demand.
 - [RP1 Robot](entities/RP1Robot.md) — Luobo Paidui's planned productized humanoid platform aimed mainly at research and education customers.
@@ -8805,7 +8809,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Avatr / 阿维塔](entities/Avatr.md) — Automaker named as a minority-stake buyer in Shenzhen Yinwang, showing Huawei's broader supplier-platform route.
 - [Quark](entities/Quark.md) — Alibaba search/browser/netdisk product surface discussed as a Qwen distribution path and AI-product-fragmentation case.
 - [Taobao](entities/Taobao.md) — Alibaba ecommerce platform discussed as a possible fulfillment surface for Qwen and agentic commerce.
-- [Gaode](entities/Gaode.md) — Alibaba map and local-service surface discussed as part of Qwen's real-world service-entry layer.
+- [Gaode](entities/Gaode.md) — Alibaba map, local-service, and robotics-navigation surface discussed through Qwen service entry and Gaode's Physical AI route.
 - [DingTalk](entities/DingTalk.md) — Alibaba collaboration product discussed as a work-service surface that could connect to Qwen.
 - [Roi](entities/Roi.md) — Mujian founder and CEO connecting AI simulation content, creator tools, play, and first-seat founder agency.
 - [Mujian](entities/Mujian.md) — AI simulation interactive content platform building virtual-life experiences, creator tooling, distribution, and monetization.
@@ -9347,6 +9351,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Guide Robot Dogs](concepts/GuideRobotDogs.md) — Assistive legged robots for visually impaired users, combining navigation, memory, route explanation, haptics, and owner-specific command safety.
+- [Mobility-First Embodied AI](concepts/MobilityFirstEmbodiedAI.md) — Robotics strategy that starts with reliable movement through real spaces before broad humanoid manipulation.
+- [Robot Navigation Infrastructure](concepts/RobotNavigationInfrastructure.md) — Map, visual navigation, passability, indoor-memory, and feedback systems that let robots move through real environments.
+- [Last-Mile Robot Delivery](concepts/LastMileRobotDelivery.md) — Delivery scenario where robots solve final handoff gaps through indoor-outdoor routing, local-service integration, and user communication.
+- [Robot Response Latency](concepts/RobotResponseLatency.md) — Delay between robot perception, model reasoning, and physical action, especially across edge-cloud brain/body architectures.
+- [Robot Commercialization Negative Feedback Loop](concepts/RobotCommercializationNegativeFeedbackLoop.md) — Pattern where high cost, unclear ROI, immature ecosystem, and low deployment volume slow robot learning and adoption.
 - [Hard-Tech Financing Discipline](concepts/HardTechFinancingDiscipline.md) — Early hardware-startup financing practice around prototype proof, investor fit, protective terms, deep pockets, and burn-rate control.
 - [Open Source Robot Platform Strategy](concepts/OpenSourceRobotPlatformStrategy.md) — Using open-source humanoid hardware/software to lower cooperation friction, seed researcher adoption, and build ecosystem feedback.
 - [Research Education Robot Platform](concepts/ResearchEducationRobotPlatform.md) — Humanoid-robot platform wedge where schools, labs, and startups drive iteration before broader industrial or home deployment.

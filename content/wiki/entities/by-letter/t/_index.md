@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 7812
+wiki_total_pages: 7815
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1016,6 +1016,9 @@ wiki_pages:
   - key: "TangZhouLateHan"
     title: "唐周 / Tang Zhou (late Han)"
     url: "/wiki/entities/tangzhoulatehan/"
+  - key: "TangWenbin"
+    title: "唐文斌 / Tang Wenbin"
+    url: "/wiki/entities/tangwenbin/"
   - key: "TangDynasty"
     title: "唐朝 / Tang Dynasty"
     url: "/wiki/entities/tangdynasty/"

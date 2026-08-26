@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 5586
+wiki_total_pages: 5592
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -602,6 +602,9 @@ wiki_pages:
   - key: "RobotChefCostQualityTradeoff"
     title: "Robot Chef Cost-Quality Tradeoff"
     url: "/wiki/concepts/robotchefcostqualitytradeoff/"
+  - key: "RobotCommercializationNegativeFeedbackLoop"
+    title: "Robot Commercialization Negative Feedback Loop"
+    url: "/wiki/concepts/robotcommercializationnegativefeedbackloop/"
   - key: "RobotControlDataScarcity"
     title: "Robot Control Data Scarcity"
     url: "/wiki/concepts/robotcontroldatascarcity/"
@@ -632,12 +635,18 @@ wiki_pages:
   - key: "RobotLogisticsSorting"
     title: "Robot Logistics Sorting"
     url: "/wiki/concepts/robotlogisticssorting/"
+  - key: "RobotNavigationInfrastructure"
+    title: "Robot Navigation Infrastructure"
+    url: "/wiki/concepts/robotnavigationinfrastructure/"
   - key: "RobotReinforcementLearning"
     title: "Robot Reinforcement Learning"
     url: "/wiki/concepts/robotreinforcementlearning/"
   - key: "RobotRepurchaseDemand"
     title: "Robot Repurchase Demand / 机器人复购需求"
     url: "/wiki/concepts/robotrepurchasedemand/"
+  - key: "RobotResponseLatency"
+    title: "Robot Response Latency"
+    url: "/wiki/concepts/robotresponselatency/"
   - key: "RobotSovereigntyAndDataTrust"
     title: "Robot Sovereignty and Data Trust"
     url: "/wiki/concepts/robotsovereigntyanddatatrust/"

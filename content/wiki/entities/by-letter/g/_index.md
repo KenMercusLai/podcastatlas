@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 7812
+wiki_total_pages: 7815
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -950,6 +950,9 @@ wiki_pages:
   - key: "GuoWei"
     title: "郭威 / Guo Wei"
     url: "/wiki/entities/guowei/"
+  - key: "GuoNing"
+    title: "郭宁 / Guo Ning"
+    url: "/wiki/entities/guoning/"
   - key: "GuoKai"
     title: "郭开 / Guo Kai"
     url: "/wiki/entities/guokai/"
