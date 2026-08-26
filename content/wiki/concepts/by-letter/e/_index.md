@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 5570
+wiki_total_pages: 5577
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -350,6 +350,9 @@ wiki_pages:
   - key: "EndogenousMoneyCreation"
     title: "Endogenous Money Creation / 内生货币"
     url: "/wiki/concepts/endogenousmoneycreation/"
+  - key: "EnergyAbundanceClimateStrategy"
+    title: "Energy Abundance Climate Strategy"
+    url: "/wiki/concepts/energyabundanceclimatestrategy/"
   - key: "EnergyDrinkYouthRegulation"
     title: "Energy Drink Youth Regulation"
     url: "/wiki/concepts/energydrinkyouthregulation/"

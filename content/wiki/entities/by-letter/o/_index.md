@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "o"
-wiki_total_pages: 7779
+wiki_total_pages: 7782
 wiki_pages:
   - key: "OneX"
     title: "1X"
@@ -278,6 +278,9 @@ wiki_pages:
   - key: "OzgurOzel"
     title: "Ozgur Ozel"
     url: "/wiki/entities/ozgurozel/"
+  - key: "OfficeOfScienceAndTechnologyPolicy"
+    title: "White House Office of Science and Technology Policy"
+    url: "/wiki/entities/officeofscienceandtechnologypolicy/"
   - key: "OurSymphonyWithAnimals"
     title: "《伴生》 / Our Symphony with Animals"
     url: "/wiki/entities/oursymphonywithanimals/"

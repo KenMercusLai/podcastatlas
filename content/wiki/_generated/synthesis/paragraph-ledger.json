@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "11b46069f5d5d3b388ce54be58a714716b4196155acf6688217b72a05e31fe09",
       "4750f2d130430d92f8abea0e83e20e22d8a9614002bf3042c8881efa9d804e73",
       "04576f804c02d279ab9de8acef1fbad90ddad801be39c854e0694d24fa1fe010",
       "19c611dfbbb92ca577ecdd3de8dcb299e3594783b3ac7731e0e81164d2e63156",
@@ -259,11 +260,47 @@
       "b16a38bd6e190222f7f3e6f0535803ce60ae7f3304e3477dfcdd995a15fb502f",
       "32b62a0e1fc3144c5e7770721fc745607afef0d0cf46a8fe94d35cab377dbbf9"
     ],
-    "paragraph_count": 257
+    "paragraph_count": 258
   },
-  "overview_commit": "7e6e45be8ba684f67b31a0b90920693154011f9c",
-  "overview_digest": "d23e2bac36ee8143e8bd1d85041202acd314bb0d9389c8bcbfb7a95fc389395e",
+  "overview_commit": "a5e69fab89551347bbcfa3219269568f666c7fd9",
+  "overview_digest": "e435791bdfccccfbeb4b4bec4b499961a61a7bf9a6de24d4f3e4a37729e0541b",
   "paragraphs": [
+    {
+      "id": "11b46069f5d5d3b388ce54be58a714716b4196155acf6688217b72a05e31fe09",
+      "primary_topic": "science-health-and-climate",
+      "secondary_topics": [
+        "governance-and-institutions"
+      ],
+      "text": "The latest addition is [[all-in-with-chamath-jason-sacks-friedberg-michael-kratsios-trumps-science-agenda-anti-science-claims-faucis-damage-dei-china-42543770]], an [[AllIn|All-In]] interview with [[MichaelKratsios|Michael Kratsios]] of [[OfficeOfScienceAndTechnologyPolicy|OSTP]] on the Trump administration's [[NewGoldenAgeScienceAgenda|New Golden Age science agenda]]. It adds [[OfficeOfScienceAndTechnologyPolicy]], [[NationalScienceFoundation]], [[AnthonyFauci]], [[NewGoldenAgeScienceAgenda]], [[ScienceFundingPortfolioLogic]], [[ResearchFundingAdditionality]], [[ScienceTrustPoliticization]], [[USChinaScienceCompetition]], [[EnergyAbundanceClimateStrategy]], and [[ScienceTalentPipeline]], while extending [[NationalInstitutesOfHealth]], [[JayBhattacharya]], [[GenesisMission]], [[FederalResearchFundingPoliticalRisk]], [[ResearchInstitutionsAsStrategicCapacity]], and [[MedicalDogmaTrustRepair]]. Its core synthesis is that the administration's pro-science case is not measured by budget totals alone: Kratsios argues for outcome-tested grants, scientist-centered funding, pre-competitive research, energy abundance, AI-for-science missions, and a stronger STEM pipeline, while critics' capacity-risk concerns remain live because grant disruption, DEI classification, COVID trust, climate-emergency framing, and China comparisons are politically contested. No settled contradiction is recorded; the source qualifies earlier research-cut warnings by adding the administration's reallocation and productivity argument.",
+      "topic_scores": {
+        "ai-and-technology": 2,
+        "governance-and-institutions": 3,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1,
+        "science-health-and-climate": 5
+      },
+      "wikilinks": [
+        "AllIn",
+        "AnthonyFauci",
+        "EnergyAbundanceClimateStrategy",
+        "FederalResearchFundingPoliticalRisk",
+        "GenesisMission",
+        "JayBhattacharya",
+        "MedicalDogmaTrustRepair",
+        "MichaelKratsios",
+        "NationalInstitutesOfHealth",
+        "NationalScienceFoundation",
+        "NewGoldenAgeScienceAgenda",
+        "OfficeOfScienceAndTechnologyPolicy",
+        "ResearchFundingAdditionality",
+        "ResearchInstitutionsAsStrategicCapacity",
+        "ScienceFundingPortfolioLogic",
+        "ScienceTalentPipeline",
+        "ScienceTrustPoliticization",
+        "USChinaScienceCompetition",
+        "all-in-with-chamath-jason-sacks-friedberg-michael-kratsios-trumps-science-agenda-anti-science-claims-faucis-damage-dei-china-42543770"
+      ]
+    },
     {
       "id": "4750f2d130430d92f8abea0e83e20e22d8a9614002bf3042c8881efa9d804e73",
       "primary_topic": "ai-and-technology",

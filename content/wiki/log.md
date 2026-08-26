@@ -12121,3 +12121,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-26] ingest | Michael Kratsios: Trump's Science Agenda, Anti-Science Claims, Fauci's Damage, DEI & China
+
+Added source page for the All-In Kratsios interview on the New Golden Age science agenda, OSTP coordination, NSF and NIH funding reform, DEI grant controversy, climate-emergency framing, energy abundance, Genesis Mission, China competition, STEM talent, and COVID-era trust damage. Created Office of Science and Technology Policy, National Science Foundation, Anthony Fauci, New Golden Age Science Agenda, Science Funding Portfolio Logic, Research Funding Additionality, Science Trust Politicization, U.S.-China Science Competition, Energy Abundance Climate Strategy, and Science Talent Pipeline; migrated Michael Kratsios, National Institutes of Health, Jay Bhattacharya, Genesis Mission, Federal Research Funding Political Risk, Research Institutions As Strategic Capacity, and Medical Dogma Trust Repair to synthesis-v1. No settled contradiction found; the source qualifies earlier research-cut warnings by adding the administration's source-scoped reallocation, depoliticization, and productivity argument.
+
+## [2026-08-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

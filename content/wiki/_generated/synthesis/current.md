@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-26
-as_of_overview_commit: 7e6e45be8ba684f67b31a0b90920693154011f9c
-summary: "Current synthesis links AI, markets, governance, history, culture, psychology, climate, and work around implementation: capability matters when trust and evidence hold."
-episode_count: 1512
-source_count: 1512
-paragraph_count: 257
+as_of_overview_commit: a5e69fab89551347bbcfa3219269568f666c7fd9
+summary: "Current synthesis links AI, markets, governance, history, culture, psychology, science, and work around implementation: capability matters when trust, evidence, and capacity hold."
+episode_count: 1513
+source_count: 1513
+paragraph_count: 258
 topic_count: 8
 ---
 
@@ -19,17 +19,17 @@ topic_count: 8
 - AI creates durable value when model capability is embedded in real workflows through [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AIOfficeAgent]], [[AgentFacingInterfaces]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AgentHarness]], and [[TokenEfficientAgentWorkflow]] rather than left as isolated chat or generation.
 - [[CustomerPull]], [[ProductLedWillingnessToPay]], and [[PreProductSelling]] become durable only when distribution, buyer-commitment, payment proof, and operating gates such as [[CPGDistribution]], [[RetailLineReview]], [[PlanogramGatekeeping]], [[RetailPricePointProductScoping]], [[MassRetailProductionDeadline]], [[EnterprisePOCDiscipline]], [[EnterpriseCustomerAsMarket]], [[AIOfficeAgent]], and [[RobotRepurchaseDemand]] can repeatedly deliver value after initial attention.
 - [[PoliticalConditionAsHumanExperiment]] uses fiction to expose how political conditions, speed, exile, and public performance reshape human behavior.
-- The California data-broker branch shows that privacy rights depend on compliance workflows: [[CaliforniaDeleteAct]], [[DeleteRequestAndOptOutPlatform]], [[ConsumerDataDeletion]], [[DataBrokerComplianceGap]], and [[CaliforniaPrivacyProtectionAgency]] connect centralized deletion, broker registration, reporting duties, request friction, agency capacity, and private-lawsuit proposals into one implementation problem.
+- Federal research governance now appears as a capacity-and-productivity tradeoff: [[FederalResearchFundingPoliticalRisk]] and [[ResearchInstitutionsAsStrategicCapacity]] keep grant disruption and talent damage visible, while [[NewGoldenAgeScienceAgenda]], [[ScienceFundingPortfolioLogic]], [[ResearchFundingAdditionality]], and [[OfficeOfScienceAndTechnologyPolicy]] argue for outcome-tested grants, more direct scientist funding, and basic/pre-competitive research rather than equating science support with legacy institutional channels.
 - [[UnderseaDataCables]] show contemporary geopolitics moving into physical internet routes: [[UnitedStates]] funding for [[Caribbean]] and [[CentralAmerica]] cable replacement, competition with [[China]], vendor concerns involving [[Russia]], [[CableLandingPointSecurity]], and [[CableNetworkResilience]] make cloud and financial connectivity part of strategic infrastructure rather than only telecom operations.
 - [[AugmentedIntelligence]] and [[ep278-ai-shidai-bu-juan-zhuanye-juan-shenme-renzai-zhongliu-tebie-cehua-02-lhvsbropwclouwshe-2-fczwnwzz|EP278]] add a personal-judgment frame for AI use: [[JonathanSchaeffer]] treats LLMs as useful assistants or interns, while the AI-era education source adds [[NonAlgorithmicCapabilities]], [[HumanAgencyUnderAI]], and [[HumanConnectionUnderAI]] as safeguards against letting convenience replace verification, practice, and self-direction.
-- [[ClimateAdaptation]], [[LowCarbonConstructionMaterials]], and [[CarbonStoragePermanence]] depend on material performance, permitting, cost, and verification as well as technical feasibility.
+- Science-and-health policy now adds a trust-and-productivity branch: [[NewGoldenAgeScienceAgenda]], [[ScienceFundingPortfolioLogic]], [[ResearchFundingAdditionality]], [[ScienceTrustPoliticization]], [[EnergyAbundanceClimateStrategy]], [[ScienceTalentPipeline]], [[NationalInstitutesOfHealth]], and [[GenesisMission]] frame federal science as outcome-tested grants, scientist-centered funding, AI-for-science missions, energy abundance, COVID-trust repair, and talent formation rather than budget totals alone.
 - [[ep278-ai-shidai-bu-juan-zhuanye-juan-shenme-renzai-zhongliu-tebie-cehua-02-lhvsbropwclouwshe-2-fczwnwzz|EP278]] and [[100-nian-qian-dongbei-nvhai-xie-gei-bali-de-xin-duitan-lishixuezhe-liji-putongren-ruhe-chuanguo-da-lishi-3d36f181-94ad-4883-8db3-5f040b5ed45b]] together extend AI-era formation: [[AIEraMajorChoice]], [[CareerCognitionEducation]], and [[AISnowlineWorkBoundary]] show that safe-major labels are insufficient when standardized junior tasks can be compressed, while [[NonAlgorithmicCapabilities]], [[FieldworkAsKnowledgeMethod]], [[InterviewAsEmbodiedReporting]], [[HistoricalQuestionConsciousness]], [[OralHistoryMemoryAnalysis]], and [[HistoricalComplexityAgainstLabels]] preserve foundations, real-world contact, upstream questions, listening, source judgment, trust, and verification as durable [[HumanJudgmentUnderAI]].
 
 ## Synthesis by Domain
 
 ### AI and Technology
 
-AI value is strongest when models are embedded in workflows with context, interfaces, verification, permission boundaries, cost routing, product economics, and grounded feedback; the new data-broker source adds AI personal-data supply-chain risk.
+AI value is strongest when models are embedded in workflows with context, interfaces, verification, permission boundaries, cost routing, product economics, and grounded feedback; the latest privacy branch adds AI personal-data supply-chain risk.
 
 - AI creates durable value when model capability is embedded in real workflows through [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AIOfficeAgent]], [[AgentFacingInterfaces]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AgentHarness]], and [[TokenEfficientAgentWorkflow]] rather than left as isolated chat or generation. Evidence: [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AgentFacingInterfaces]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AgentHarness]], [[TokenEfficientAgentWorkflow]], [[ModelRoutingCostControl]], [[LocalAgentExecution]], [[MultiAgentCollaboration]], [[AgentNativeSoftware]], [[OpenClaw]], [[HermesAgent]], [[SlockAI]], [[HeadlessSoftware]], [[Paperboy]], [[AIOperationsRole]], [[AgentOptimizedCLI]], [[RoutineAgentAutomation]], [[AIOfficeAgent]], [[ClaudeCode]], [[DingTalk]], [[Feishu]], [[TencentWorkBuddy]], [[DoubaoWork]], [[tengxun-ali-zijie-zhengduo-dagongren-hulianwang-dachang-weihe-jiti-jiama-ai-bangong-1008598460]].
 - The agent branch now points to a token-efficient operating discipline: [[TokenEfficientAgentWorkflow]], [[ModelRoutingCostControl]], [[LocalAgentExecution]], [[MultiAgentCollaboration]], [[PersistentAgentMemory]], [[AISkills]], and [[AgentHarness]] allocate expensive frontier calls, local models, deterministic tools, skills, memory, review, and human attention by task value, uncertainty, risk, latency, and verification cost. Evidence: [[TokenEfficientAgentWorkflow]], [[TokenMaxxing]], [[ModelRoutingCostControl]], [[LocalAgentExecution]], [[MultiAgentCollaboration]], [[PersistentAgentMemory]], [[AISkills]], [[AgentHarness]], [[AIInferenceCostStructure]], [[DeepSeek]], [[Fable5]], [[GLM52]], [[OpenClaw]], [[HermesAgent]], [[SlockAI]], [[DB9]], [[Dongxu]], [[ZhangHongjiang]], [[e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817]].
@@ -49,7 +49,7 @@ Culture and media pages treat stories, folklore, games, brands, and media forms 
 
 ### Governance and Institutions
 
-Governance works when formal rights and titles translate into enforceable workflows, trusted institutions, incentives, and capacity; the California data-broker branch adds privacy compliance, deletion usability, agency enforcement, and AI-buyer disclosure to the pattern.
+Governance works when formal rights, titles, and funding mandates translate into enforceable workflows, trusted institutions, incentives, and capacity; the newest privacy and federal-research branches make implementation, enforcement, and politicization risks explicit.
 
 - The California data-broker branch shows that privacy rights depend on compliance workflows: [[CaliforniaDeleteAct]], [[DeleteRequestAndOptOutPlatform]], [[ConsumerDataDeletion]], [[DataBrokerComplianceGap]], and [[CaliforniaPrivacyProtectionAgency]] connect centralized deletion, broker registration, reporting duties, request friction, agency capacity, and private-lawsuit proposals into one implementation problem. Evidence: [[CaliforniaDeleteAct]], [[DeleteRequestAndOptOutPlatform]], [[ConsumerDataDeletion]], [[DataBrokerComplianceGap]], [[CaliforniaPrivacyProtectionAgency]], [[tech-20260825-mp-tech-pod-128-tech-20260825-mp-tech-pod-128]].
 - The early-Han sequence shows victory turning into governance only through family order, capital choice, exit management, reward ranking, ritual hierarchy, frontier containment, [[HanXiongnuHeqinPolicy|heqin]] diplomacy, vassal rollback, investigation-triggered rebellion risk, and finally the failure of personal trust in [[LuWan|Lu Wan]]'s Yan kingship. Evidence: [[LiuBang]], [[StrategicCapitalRelocation]], [[LiAsPoliticalOrder]], [[BaidengEncirclement]], [[HanXiongnuHeqinPolicy]], [[DifferentSurnameKingSuspicion]], [[HuainanKingdomEarlyHan]], [[InvestigationDrivenRebellionEscalation]], [[LuWan]], [[YanState]].
@@ -70,7 +70,7 @@ Personal-development claims stress calibrated judgment: human verification, auth
 
 ### Science, Health, and Climate
 
-Science, health, climate, and space claims remain evidence-bound: private health AI needs grounded local use, climate adoption needs regulation and infrastructure, and space progress depends on reusable operations and launch-site capacity.
+Science, health, climate, and space claims remain evidence-bound: federal science reform is now a trust, productivity, and capacity tradeoff, while health AI, climate adoption, and space progress still need grounding, regulation, and operational proof.
 
 - [[SpaceEconomyInfrastructure]] depends on [[SpaceLaunchCapacityBottleneck]], [[SpaceportSitingConstraint]], and [[SpaceLaunchEnvironmentalReview]] because [[CommercialSatelliteConstellations]] and [[ReusableRocketEconomics]] only become usable cadence when pads, ports, airspace, licensing, and habitat review are workable. Evidence: [[SpaceEconomyInfrastructure]], [[SpaceLaunchCapacityBottleneck]], [[SpaceportSitingConstraint]], [[SpaceLaunchEnvironmentalReview]], [[CommercialSatelliteConstellations]], [[ReusableRocketEconomics]].
 - [[ClimateAdaptation]], [[LowCarbonConstructionMaterials]], and [[CarbonStoragePermanence]] depend on material performance, permitting, cost, and verification as well as technical feasibility. Evidence: [[ClimateAdaptation]], [[LowCarbonConstructionMaterials]], [[CarbonStoragePermanence]].

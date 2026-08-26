@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1900
+topic_total_pages: 1902
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -2368,6 +2368,9 @@ topic_concepts:
   - key: "ScholarOfficialPublicDuty"
     title: "Scholar-Official Public Duty / 士大夫公共责任"
     url: "/wiki/concepts/scholarofficialpublicduty/"
+  - key: "ScienceTrustPoliticization"
+    title: "Science Trust Politicization"
+    url: "/wiki/concepts/sciencetrustpoliticization/"
   - key: "ScienceUnderRevolutionarySuspicion"
     title: "Science Under Revolutionary Suspicion / 革命怀疑下的科学"
     url: "/wiki/concepts/scienceunderrevolutionarysuspicion/"
@@ -2785,6 +2788,9 @@ topic_concepts:
   - key: "USHealthInsuranceDenialPolitics"
     title: "U.S. Health Insurance Denial Politics"
     url: "/wiki/concepts/ushealthinsurancedenialpolitics/"
+  - key: "USChinaScienceCompetition"
+    title: "U.S.-China Science Competition"
+    url: "/wiki/concepts/uschinasciencecompetition/"
   - key: "USIranNuclearDiplomacy"
     title: "U.S.-Iran Nuclear Diplomacy"
     url: "/wiki/concepts/usirannucleardiplomacy/"

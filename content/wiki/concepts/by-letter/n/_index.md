@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 5570
+wiki_total_pages: 5577
 wiki_pages:
   - key: "NamingPowerSocialChange"
     title: "Naming Power In Social Change / 社会变革中的命名权"
@@ -125,6 +125,9 @@ wiki_pages:
   - key: "NewEngineeringEducation"
     title: "New Engineering Education / 新工科教育"
     url: "/wiki/concepts/newengineeringeducation/"
+  - key: "NewGoldenAgeScienceAgenda"
+    title: "New Golden Age Science Agenda"
+    url: "/wiki/concepts/newgoldenagescienceagenda/"
   - key: "NewLabOrganization"
     title: "New Lab Organization"
     url: "/wiki/concepts/newlaborganization/"

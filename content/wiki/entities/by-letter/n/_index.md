@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 7779
+wiki_total_pages: 7782
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -137,6 +137,9 @@ wiki_pages:
   - key: "NationalRentalHomeCouncil"
     title: "National Rental Home Council"
     url: "/wiki/entities/nationalrentalhomecouncil/"
+  - key: "NationalScienceFoundation"
+    title: "National Science Foundation"
+    url: "/wiki/entities/nationalsciencefoundation/"
   - key: "NationalSecurityAgency"
     title: "National Security Agency"
     url: "/wiki/entities/nationalsecurityagency/"

@@ -111,8 +111,30 @@
         "WudangMountain",
         "LiChuang"
       ]
+    },
+    {
+      "global_candidate": true,
+      "id": "science-policy-reform-needs-trust-productivity-and-capacity",
+      "qualifications": [
+        "The source is a single interview with Michael Kratsios and keeps claims about NSF grants, climate framing, Fauci, and China source-scoped rather than settled fact.",
+        "It qualifies existing research-cut warnings with a productivity and reallocation argument but does not resolve implementation risk or external criticism."
+      ],
+      "statement": "Science-and-health policy now adds a trust-and-productivity branch: [[NewGoldenAgeScienceAgenda]], [[ScienceFundingPortfolioLogic]], [[ResearchFundingAdditionality]], [[ScienceTrustPoliticization]], [[EnergyAbundanceClimateStrategy]], [[ScienceTalentPipeline]], [[NationalInstitutesOfHealth]], and [[GenesisMission]] frame federal science as outcome-tested grants, scientist-centered funding, AI-for-science missions, energy abundance, COVID-trust repair, and talent formation rather than budget totals alone.",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "all-in-with-chamath-jason-sacks-friedberg-michael-kratsios-trumps-science-agenda-anti-science-claims-faucis-damage-dei-china-42543770",
+        "NewGoldenAgeScienceAgenda",
+        "ScienceFundingPortfolioLogic",
+        "ResearchFundingAdditionality",
+        "ScienceTrustPoliticization",
+        "EnergyAbundanceClimateStrategy",
+        "ScienceTalentPipeline",
+        "NationalInstitutesOfHealth",
+        "GenesisMission",
+        "MedicalDogmaTrustRepair"
+      ]
     }
   ],
-  "summary": "Data Science With Sam EP47 adds a personal-health-data privacy case: local private AI can make sensitive records queryable without sending files or questions to public services, but health answers still need grounding, citations, refusal behavior, and verification. Science, health, climate, and space-engineering claims become credible when physical constraints, evidence, regulation, implementation cost, and operational follow-through stay visible: reusable rockets need repeatable recovery plus launch-site throughput, space growth needs pads, geography, licensing, and habitat review, climate work needs material and storage validation, scientific imagination stays evidence-bound, and risk products must map to concrete exposure. The Wudang episode adds a source-scoped medicine-and-cultivation qualifier: Chinese-medicine, nourishing-life, and belief practices are treated as embodied exploratory systems that may offer support under uncertainty, but they do not erase diagnosis, evidence limits, or ordinary bodily constraints.",
+  "summary": "Kratsios adds a federal science-policy branch: the New Golden Age agenda frames NIH/NSF reform, grant portfolios, energy abundance, AI-for-science, COVID trust repair, China competition, and STEM talent as a productivity problem, while implementation and politicization risks remain contested. Data Science With Sam EP47 adds a personal-health-data privacy case: local private AI can make sensitive records queryable without sending files or questions to public services, but health answers still need grounding, citations, refusal behavior, and verification. Science, health, climate, and space-engineering claims become credible when physical constraints, evidence, regulation, implementation cost, and operational follow-through stay visible: reusable rockets need repeatable recovery plus launch-site throughput, space growth needs pads, geography, licensing, and habitat review, climate work needs material and storage validation, scientific imagination stays evidence-bound, and risk products must map to concrete exposure. The Wudang episode adds a source-scoped medicine-and-cultivation qualifier: Chinese-medicine, nourishing-life, and belief practices are treated as embodied exploratory systems that may offer support under uncertainty, but they do not erase diagnosis, evidence limits, or ordinary bodily constraints.",
   "topic_id": "science-health-and-climate"
 }

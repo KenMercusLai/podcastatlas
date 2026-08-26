@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 743
+topic_total_pages: 746
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -361,6 +361,9 @@ topic_concepts:
   - key: "EmpathyAgainstComparison"
     title: "Empathy Against Comparison / 对抗比较的同理心"
     url: "/wiki/concepts/empathyagainstcomparison/"
+  - key: "EnergyAbundanceClimateStrategy"
+    title: "Energy Abundance Climate Strategy"
+    url: "/wiki/concepts/energyabundanceclimatestrategy/"
   - key: "EnergyDrinkYouthRegulation"
     title: "Energy Drink Youth Regulation"
     url: "/wiki/concepts/energydrinkyouthregulation/"
@@ -1637,6 +1640,9 @@ topic_entities:
   - key: "NathanielBranden"
     title: "Nathaniel Branden / 纳撒尼尔·布兰登"
     url: "/wiki/entities/nathanielbranden/"
+  - key: "NationalScienceFoundation"
+    title: "National Science Foundation"
+    url: "/wiki/entities/nationalsciencefoundation/"
   - key: "NikolaTesla"
     title: "Nikola Tesla / 尼古拉·特斯拉"
     url: "/wiki/entities/nikolatesla/"
@@ -2190,6 +2196,9 @@ topic_sources:
   - key: "tech-20260211-0211-mp-tech-pod-128-tech-20260211-0211-mp-tech-pod-128"
     title: "Is the moon (and its resources) up for grabs?"
     url: "/wiki/sources/tech-20260211-0211-mp-tech-pod-128-tech-20260211-0211-mp-tech-pod-128/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-michael-kratsios-trumps-science-agenda-anti-science-claims-faucis-damage-dei-china-42543770"
+    title: "Michael Kratsios: Trump's Science Agenda, Anti-Science Claims, Fauci's Damage, DEI & China"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-michael-kratsios-trumps-science-agenda-anti-science-claims-faucis-damage-dei-china-42543770/"
   - key: "missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3"
     title: "Missing Peace: Will Israel Imperil Iran Deal?"
     url: "/wiki/sources/missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3/"

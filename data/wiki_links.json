@@ -4527,6 +4527,10 @@
     "title": "Anthony Babington",
     "url": "/wiki/entities/anthonybabington/"
   },
+  "AnthonyFauci": {
+    "title": "Anthony Fauci",
+    "url": "/wiki/entities/anthonyfauci/"
+  },
   "Anthropic": {
     "title": "Anthropic",
     "url": "/wiki/entities/anthropic/"
@@ -15406,6 +15410,10 @@
   "EndogenousMoneyCreation": {
     "title": "Endogenous Money Creation / 内生货币",
     "url": "/wiki/concepts/endogenousmoneycreation/"
+  },
+  "EnergyAbundanceClimateStrategy": {
+    "title": "Energy Abundance Climate Strategy",
+    "url": "/wiki/concepts/energyabundanceclimatestrategy/"
   },
   "EnergyDrinkYouthRegulation": {
     "title": "Energy Drink Youth Regulation",
@@ -33051,6 +33059,10 @@
     "title": "National Rental Home Council",
     "url": "/wiki/entities/nationalrentalhomecouncil/"
   },
+  "NationalScienceFoundation": {
+    "title": "National Science Foundation",
+    "url": "/wiki/entities/nationalsciencefoundation/"
+  },
   "NationalSecurityAgency": {
     "title": "National Security Agency",
     "url": "/wiki/entities/nationalsecurityagency/"
@@ -33342,6 +33354,10 @@
   "NewFiveDynastiesHistory": {
     "title": "《新五代史》 / New History of the Five Dynasties",
     "url": "/wiki/entities/newfivedynastieshistory/"
+  },
+  "NewGoldenAgeScienceAgenda": {
+    "title": "New Golden Age Science Agenda",
+    "url": "/wiki/concepts/newgoldenagescienceagenda/"
   },
   "NewHampshire": {
     "title": "New Hampshire",
@@ -34150,6 +34166,10 @@
   "OfficeOfManagementAndBudget": {
     "title": "Office of Management and Budget / OMB",
     "url": "/wiki/entities/officeofmanagementandbudget/"
+  },
+  "OfficeOfScienceAndTechnologyPolicy": {
+    "title": "White House Office of Science and Technology Policy",
+    "url": "/wiki/entities/officeofscienceandtechnologypolicy/"
   },
   "OfficeSaleLegitimacyDamage": {
     "title": "买官名节损耗 / Office-Sale Legitimacy Damage",
@@ -39563,6 +39583,10 @@
     "title": "Research Chemical Loophole",
     "url": "/wiki/concepts/researchchemicalloophole/"
   },
+  "ResearchFundingAdditionality": {
+    "title": "Research Funding Additionality",
+    "url": "/wiki/concepts/researchfundingadditionality/"
+  },
   "ResearchIndexPortfolioConstruction": {
     "title": "Research Index Portfolio Construction / 投研指数化",
     "url": "/wiki/concepts/researchindexportfolioconstruction/"
@@ -41335,6 +41359,10 @@
     "title": "Science Fiction Realism",
     "url": "/wiki/concepts/sciencefictionrealism/"
   },
+  "ScienceFundingPortfolioLogic": {
+    "title": "Science Funding Portfolio Logic",
+    "url": "/wiki/concepts/sciencefundingportfoliologic/"
+  },
   "ScienceOptimismAndPseudoscience": {
     "title": "Science Optimism And Pseudoscience",
     "url": "/wiki/concepts/scienceoptimismandpseudoscience/"
@@ -41342,6 +41370,14 @@
   "ScienceReligionCivilizationTension": {
     "title": "Science-Religion Civilization Tension",
     "url": "/wiki/concepts/sciencereligioncivilizationtension/"
+  },
+  "ScienceTalentPipeline": {
+    "title": "Science Talent Pipeline",
+    "url": "/wiki/concepts/sciencetalentpipeline/"
+  },
+  "ScienceTrustPoliticization": {
+    "title": "Science Trust Politicization",
+    "url": "/wiki/concepts/sciencetrustpoliticization/"
   },
   "ScienceUnderRevolutionarySuspicion": {
     "title": "Science Under Revolutionary Suspicion / 革命怀疑下的科学",
@@ -47958,6 +47994,10 @@
   "USChinaAIMacroAsymmetry": {
     "title": "U.S.-China AI Macro Asymmetry / 中美AI宏观不对称",
     "url": "/wiki/concepts/uschinaaimacroasymmetry/"
+  },
+  "USChinaScienceCompetition": {
+    "title": "U.S.-China Science Competition",
+    "url": "/wiki/concepts/uschinasciencecompetition/"
   },
   "USConstitutionalCrisisRisk": {
     "title": "U.S. Constitutional Crisis Risk",
@@ -54778,6 +54818,10 @@
   "all-in-with-chamath-jason-sacks-friedberg-mark-cuban-on-the-ai-bubble-who-actually-gets-wiped-out-42155640": {
     "title": "Mark Cuban on the AI Bubble: Who Actually Gets Wiped Out?",
     "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-mark-cuban-on-the-ai-bubble-who-actually-gets-wiped-out-42155640/"
+  },
+  "all-in-with-chamath-jason-sacks-friedberg-michael-kratsios-trumps-science-agenda-anti-science-claims-faucis-damage-dei-china-42543770": {
+    "title": "Michael Kratsios: Trump's Science Agenda, Anti-Science Claims, Fauci's Damage, DEI & China",
+    "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-michael-kratsios-trumps-science-agenda-anti-science-claims-faucis-damage-dei-china-42543770/"
   },
   "all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140": {
     "title": "Microsoft CEO Satya Nadella on AI's Business Revolution: What Happens to SaaS, OpenAI, and Microsoft? | LIVE from Davos",

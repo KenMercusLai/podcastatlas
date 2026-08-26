@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "u"
-wiki_total_pages: 5570
+wiki_total_pages: 5577
 wiki_pages:
   - key: "US2025ExpectationGaps"
     title: "U.S. 2025 Expectation Gaps"
@@ -38,6 +38,9 @@ wiki_pages:
   - key: "USChinaAIMacroAsymmetry"
     title: "U.S.-China AI Macro Asymmetry / 中美AI宏观不对称"
     url: "/wiki/concepts/uschinaaimacroasymmetry/"
+  - key: "USChinaScienceCompetition"
+    title: "U.S.-China Science Competition"
+    url: "/wiki/concepts/uschinasciencecompetition/"
   - key: "USIranNuclearDiplomacy"
     title: "U.S.-Iran Nuclear Diplomacy"
     url: "/wiki/concepts/usirannucleardiplomacy/"

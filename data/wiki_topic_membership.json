@@ -19330,6 +19330,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "EnergyAbundanceClimateStrategy": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "EnergyDrinkYouthRegulation": [
     {
       "key": "politics",
@@ -38902,6 +38909,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "NationalScienceFoundation": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "NationalSecurityAgency": [
     {
       "key": "technology",
@@ -48860,6 +48874,20 @@
       "url": "/topics/science/"
     }
   ],
+  "ScienceTalentPipeline": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "ScienceTrustPoliticization": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "ScienceUnderRevolutionarySuspicion": [
     {
       "key": "politics",
@@ -57398,6 +57426,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "USChinaScienceCompetition": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "USConstitutionalCrisisRisk": [
     {
       "key": "politics",
@@ -64332,6 +64367,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "all-in-with-chamath-jason-sacks-friedberg-michael-kratsios-trumps-science-agenda-anti-science-claims-faucis-damage-dei-china-42543770": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140": [

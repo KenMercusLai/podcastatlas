@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 5570
+wiki_total_pages: 5577
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -167,9 +167,18 @@ wiki_pages:
   - key: "ScienceFictionRealism"
     title: "Science Fiction Realism"
     url: "/wiki/concepts/sciencefictionrealism/"
+  - key: "ScienceFundingPortfolioLogic"
+    title: "Science Funding Portfolio Logic"
+    url: "/wiki/concepts/sciencefundingportfoliologic/"
   - key: "ScienceOptimismAndPseudoscience"
     title: "Science Optimism And Pseudoscience"
     url: "/wiki/concepts/scienceoptimismandpseudoscience/"
+  - key: "ScienceTalentPipeline"
+    title: "Science Talent Pipeline"
+    url: "/wiki/concepts/sciencetalentpipeline/"
+  - key: "ScienceTrustPoliticization"
+    title: "Science Trust Politicization"
+    url: "/wiki/concepts/sciencetrustpoliticization/"
   - key: "ScienceUnderRevolutionarySuspicion"
     title: "Science Under Revolutionary Suspicion / 革命怀疑下的科学"
     url: "/wiki/concepts/scienceunderrevolutionarysuspicion/"

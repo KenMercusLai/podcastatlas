@@ -3,16 +3,16 @@
 generated: true
 topic_id: science-health-and-climate
 title: "Science, Health, and Climate"
-last_updated: 2026-08-25
-as_of_overview_commit: 71248d9f4ed672a1c2b39202b6d732b4debbdf3a
-input_digest: c17c04e81bb8e17c6c5fea063c3526b0ccee3c79928c1744080af05ace087263
+last_updated: 2026-08-26
+as_of_overview_commit: a5e69fab89551347bbcfa3219269568f666c7fd9
+input_digest: e1b11e0fc8f4b160701a9fd70cdc2dcddb542b564814cc9c3b51c795dbca41a2
 ---
 
 # Science, Health, and Climate
 
 ## Current State
 
-Data Science With Sam EP47 adds a personal-health-data privacy case: local private AI can make sensitive records queryable without sending files or questions to public services, but health answers still need grounding, citations, refusal behavior, and verification. Science, health, climate, and space-engineering claims become credible when physical constraints, evidence, regulation, implementation cost, and operational follow-through stay visible: reusable rockets need repeatable recovery plus launch-site throughput, space growth needs pads, geography, licensing, and habitat review, climate work needs material and storage validation, scientific imagination stays evidence-bound, and risk products must map to concrete exposure. The Wudang episode adds a source-scoped medicine-and-cultivation qualifier: Chinese-medicine, nourishing-life, and belief practices are treated as embodied exploratory systems that may offer support under uncertainty, but they do not erase diagnosis, evidence limits, or ordinary bodily constraints.
+Kratsios adds a federal science-policy branch: the New Golden Age agenda frames NIH/NSF reform, grant portfolios, energy abundance, AI-for-science, COVID trust repair, China competition, and STEM talent as a productivity problem, while implementation and politicization risks remain contested. Data Science With Sam EP47 adds a personal-health-data privacy case: local private AI can make sensitive records queryable without sending files or questions to public services, but health answers still need grounding, citations, refusal behavior, and verification. Science, health, climate, and space-engineering claims become credible when physical constraints, evidence, regulation, implementation cost, and operational follow-through stay visible: reusable rockets need repeatable recovery plus launch-site throughput, space growth needs pads, geography, licensing, and habitat review, climate work needs material and storage validation, scientific imagination stays evidence-bound, and risk products must map to concrete exposure. The Wudang episode adds a source-scoped medicine-and-cultivation qualifier: Chinese-medicine, nourishing-life, and belief practices are treated as embodied exploratory systems that may offer support under uncertainty, but they do not erase diagnosis, evidence limits, or ordinary bodily constraints.
 
 ## Cross-source Findings
 
@@ -87,3 +87,14 @@ The Wudang source adds that [[MedicineAsWaySeeking]], [[MedicalKnowledgeBoundary
 
 - The episode reports Li Chuang's lived and interpretive account of medicine, belief, and Daoist practice; it does not establish clinical efficacy or replace diagnosis.
 - The source keeps Chinese-medicine claims, county-hospital limits, and bodily practice as bounded field observations rather than general medical advice.
+
+### Science Policy Reform Needs Trust Productivity And Capacity
+
+Science-and-health policy now adds a trust-and-productivity branch: [[NewGoldenAgeScienceAgenda]], [[ScienceFundingPortfolioLogic]], [[ResearchFundingAdditionality]], [[ScienceTrustPoliticization]], [[EnergyAbundanceClimateStrategy]], [[ScienceTalentPipeline]], [[NationalInstitutesOfHealth]], and [[GenesisMission]] frame federal science as outcome-tested grants, scientist-centered funding, AI-for-science missions, energy abundance, COVID-trust repair, and talent formation rather than budget totals alone.
+
+**Evidence:** [[all-in-with-chamath-jason-sacks-friedberg-michael-kratsios-trumps-science-agenda-anti-science-claims-faucis-damage-dei-china-42543770]], [[NewGoldenAgeScienceAgenda]], [[ScienceFundingPortfolioLogic]], [[ResearchFundingAdditionality]], [[ScienceTrustPoliticization]], [[EnergyAbundanceClimateStrategy]], [[ScienceTalentPipeline]], [[NationalInstitutesOfHealth]], [[GenesisMission]], [[MedicalDogmaTrustRepair]]
+
+**Qualifications:**
+
+- The source is a single interview with Michael Kratsios and keeps claims about NSF grants, climate framing, Fauci, and China source-scoped rather than settled fact.
+- It qualifies existing research-cut warnings with a productivity and reallocation argument but does not resolve implementation risk or external criticism.

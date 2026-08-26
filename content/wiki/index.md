@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Michael Kratsios: Trump's Science Agenda, Anti-Science Claims, Fauci's Damage, DEI & China](sources/all-in-with-chamath-jason-sacks-friedberg-michael-kratsios-trumps-science-agenda-anti-science-claims-faucis-damage-dei-china-42543770.md) — All-In interview with Michael Kratsios on the New Golden Age science agenda, federal research funding reform, DEI grant controversy, climate framing, COVID trust damage, China competition, and STEM talent.
 - [California's data and privacy laws aren't being followed](sources/tech-20260825-mp-tech-pod-128-tech-20260825-mp-tech-pod-128.md) — Marketplace Tech episode with Megan McCarty-Carino and Jennifer King on California data-broker compliance, DROPS deletion requests, CalPrivacy enforcement, private lawsuits, and AI developers' brokered-data demand.
 - [Even-more-maximum pressure: sanctions on Iran](sources/even-more-maximum-pressure-sanctions-on-iran-6a8d6a9b66c4a1e81a4c86a9.md) — The Intelligence episode on Operation Economic Outcast, Philippine offshoring under AI, and LinkedIn-based city place-premium wage research.
 - [Episode 19: 赵丽娜：在场比赢重要；门将的信心、直觉与热爱](sources/zhao-lina-zaichang-bi-ying-zhongyao-menjiang-de-xinxin-zhijue-yu-reai-229fde7d-d39d-4f7c-a33d-607f5370fc60.md) — Fuyou Tiandi episode with Zhao Lina on football atmosphere, youth access, goalkeeper confidence and intuition, women football visibility, and post-retirement identity.
@@ -3506,11 +3507,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Adam Goldstein (Archer Aviation)](entities/AdamGoldsteinArcher.md) — Archer Aviation CEO in the All-In source, disambiguated from the existing Hipmunk/Reddit-context Adam Goldstein page.
 - [Project Nix](entities/ProjectNix.md) — Archer-Anduril autonomous collaborative attack helicopter drone project discussed as a lower-cost, no-pilot-risk defense aviation concept.
 - [Crusoe](entities/Crusoe.md) — AI cloud and data-center company presented as an energy-first neocloud built around power access, construction, batteries, leases, and financing.
-- [Michael Kratsios](entities/MichaelKratsios.md) — Policy voice in the All-In AI strategy episode explaining innovation, infrastructure, export strategy, and Genesis Mission scientific-data work.
+- [Michael Kratsios](entities/MichaelKratsios.md) — OSTP and PCAST science/technology policy figure linking U.S. AI strategy, Genesis Mission, federal science-funding reform, public trust, and China competition.
+- [White House Office of Science and Technology Policy](entities/OfficeOfScienceAndTechnologyPolicy.md) — White House science-policy coordinating office used by Kratsios to explain the New Golden Age agenda and agency implementation.
 - [PCAST](entities/PCAST.md) — U.S. science and technology advisory council discussed by All-In through David Sacks and Michael Kratsios as AI, nuclear, quantum, semiconductor, biotech, and China-competition policy context.
 - [Maria Bartiromo](entities/MariaBartiromo.md) — Moderator of the All-In AI strategy episode with David Sacks and Michael Kratsios.
 - [U.S. Department of Energy](entities/USDepartmentOfEnergy.md) — Department whose national-lab scientific data is framed through the Genesis Mission as an AI-for-science asset.
-- [Genesis Mission](entities/GenesisMission.md) — Government AI-for-science initiative described as using scientific data and national-lab research to accelerate discovery.
+- [Genesis Mission](entities/GenesisMission.md) — Government AI-for-science mission using scientific data and national-lab resources, later framed by Kratsios as the New Golden Age flagship for doubling scientific output.
 - [Sarah B. Rogers](entities/SarahBRogers.md) — State Department public-diplomacy official used by All-In to frame free speech, UK/EU platform regulation, and anti-censorship diplomacy.
 - [UK Online Safety Act](entities/UKOnlineSafetyAct.md) — UK platform-regulation law discussed as an age-gating, risk-assessment, and speech-removal pressure point.
 - [European Union Digital Services Act](entities/EuropeanUnionDigitalServicesAct.md) — EU platform-regulation regime discussed through content obligations, trusted flaggers, and foreign fines on U.S. platforms.
@@ -3525,8 +3527,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Phi Silica](entities/PhiSilica.md) — Microsoft on-device model named by Nadella in the local AI and workstation return branch.
 - [Windows](entities/Windows.md) — Microsoft operating system extended by Nadella into local AI, prompt processing, and hybrid local-cloud agent execution.
 - [Marty Makary](entities/MartyMakary.md) — FDA commissioner interviewed on All-In about review speed, trial reform, public-health trust, vaccines, nutrition, drug pricing, and AI health tools.
-- [Jay Bhattacharya](entities/JayBhattacharya.md) — NIH reform and COVID-era school-reopening figure named in Makary's public-health trust account.
-- [National Institutes of Health](entities/NationalInstitutesOfHealth.md) — Federal research institution in Makary's root-cause public-health funding discussion.
+- [Jay Bhattacharya](entities/JayBhattacharya.md) — Public-health and NIH reform figure tied to school-reopening dissent, root-cause public-health research, and Kratsios's tentative NIH researcher-age claim.
+- [National Institutes of Health](entities/NationalInstitutesOfHealth.md) — Federal research institution in All-In sources, spanning strategic capacity, root-cause public-health priorities, and Kratsios's funding-productivity reform critique.
+- [National Science Foundation](entities/NationalScienceFoundation.md) — Federal science grant agency in the Kratsios source, tied to DEI grant controversy, meta-science units, golden tickets, fellowships, and science talent.
+- [Anthony Fauci](entities/AnthonyFauci.md) — Public-health figure used in the Kratsios interview as a source-scoped symbol of COVID-era science trust damage.
 - [Centers for Disease Control and Prevention](entities/CentersForDiseaseControlAndPrevention.md) — Federal public-health agency tied to Makary's vaccine-schedule trust-rebuilding discussion.
 - [Johns Hopkins University](entities/JohnsHopkinsUniversity.md) — Academic medicine and public-health background context for Marty Makary in the All-In source.
 - [Sharmin (Data Science With Sam)](entities/SharminDataScienceWithSam.md) — Livora founder and Data Science With Sam guest explaining healthcare clinic financing, product-design-led lending workflows, AI document analysis, borrower readiness, and consent-based lender matching.
@@ -10000,7 +10004,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Allied Economic Bloc Against China](concepts/AlliedEconomicBlocAgainstChina.md) — Emanuel's proposal to aggregate U.S. allies and partners into a coordinated economic bloc that can counter Chinese dependency strategy and overcapacity.
 - [Pragmatic Immigration Compromise](concepts/PragmaticImmigrationCompromise.md) — Immigration frame pairing border and workplace enforcement with legal immigration, skilled talent, foreign students, and the Dignity Act compromise.
 - [Education Workforce Pipeline](concepts/EducationWorkforcePipeline.md) — Emanuel's school-to-workforce frame linking third-grade reading, high-school plans, community college, vocational pathways, and growth.
-- [Research Institutions As Strategic Capacity](concepts/ResearchInstitutionsAsStrategicCapacity.md) — View that universities, national labs, NIH/NSF/DARPA-style research, and foreign-student talent are strategic U.S. advantages in competition with China.
+- [Research Institutions As Strategic Capacity](concepts/ResearchInstitutionsAsStrategicCapacity.md) — View that universities, national labs, research agencies, public funding, and science talent are strategic U.S. capacity, qualified by scientist-centered funding reform.
+- [New Golden Age Science Agenda](concepts/NewGoldenAgeScienceAgenda.md) — Kratsios's science-policy frame linking public trust, funding experiments, scientist-centered grants, national missions, and China competition.
+- [Science Funding Portfolio Logic](concepts/ScienceFundingPortfolioLogic.md) — Grant-reform logic using meta-science units, reviewer golden tickets, variable grant duration, and portable fellowships to fund higher-variance research.
+- [Research Funding Additionality](concepts/ResearchFundingAdditionality.md) — Principle that public research money should target basic, early-stage, pre-competitive discovery gaps private markets are unlikely to fund.
+- [U.S.-China Science Competition](concepts/USChinaScienceCompetition.md) — Kratsios frame where scientific leadership, R&D productivity, critical minerals, and talent pipelines become strategic competition with China.
+- [Energy Abundance Climate Strategy](concepts/EnergyAbundanceClimateStrategy.md) — Kratsios climate-policy frame emphasizing nuclear, fusion, affordable energy, and development over emergency-framed restriction.
+- [Science Talent Pipeline](concepts/ScienceTalentPipeline.md) — STEM, gifted-education, fellowship, domestic-participation, and high-skill immigration channel for U.S. scientific capacity.
 - [Threatened Defection Leverage / 投敌威胁式求援](concepts/ThreatenedDefectionLeverage.md) — Weak-state rescue tactic where abandonment is made costly because the weak state can surrender to the would-be rescuer's rival.
 - [Land-For-Peace Exhaustion Trap / 抱薪救火式割地求和](concepts/LandForPeaceExhaustionTrap.md) — Su Dai's warning that ceding land for peace with Qin can fuel repeated coercion until the weaker state is exhausted.
 - [Strategic Depth Defense / 战略纵深防御](concepts/StrategicDepthDefense.md) — Survival pattern where distance, route risk, and logistics let a damaged state buy time and force the attacker to solve passage problems first.
@@ -10265,7 +10275,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Post-Market Drug Surveillance](concepts/PostMarketDrugSurveillance.md) — Safety layer that keeps FDA attention on drugs after approval to detect subgroup risks, interactions, and late safety signals.
 - [Animal Testing Substitution](concepts/AnimalTestingSubstitution.md) — Regulatory and ethical move toward computational modeling and organ-on-chip alternatives when animal studies poorly predict human outcomes.
 - [Plausible Mechanism Pathway](concepts/PlausibleMechanismPathway.md) — Flexible evidence route for bespoke cell and gene therapies where randomized trials may be impractical but mechanism, manufacturing, and monitoring still matter.
-- [Medical Dogma Trust Repair](concepts/MedicalDogmaTrustRepair.md) — Public-health trust frame where institutions rebuild credibility by updating guidance, admitting uncertainty, and separating evidence strength from authority.
+- [Medical Dogma Trust Repair](concepts/MedicalDogmaTrustRepair.md) — Public-health trust frame where institutions rebuild credibility by updating guidance, admitting uncertainty, and separating evidence strength from authority or anti-science labeling.
+- [Science Trust Politicization](concepts/ScienceTrustPoliticization.md) — Pattern where scientific authority loses credibility when dissent, grant criteria, or climate/COVID messaging appear politically coded.
 - [Vaccine Schedule Trust Rebuilding](concepts/VaccineScheduleTrustRebuilding.md) — Makary's source-scoped strategy of distinguishing core vaccine priorities and answering parent risk questions without abandoning CDC recommendations.
 - [Root-Cause Public Health Research](concepts/RootCausePublicHealthResearch.md) — Research-priority frame around food, school lunches, microbiome, sleep, environment, inflammation, and chronic-disease causes.
 - [Consumer Health AI Governance](concepts/ConsumerHealthAIGovernance.md) — FDA boundary between consumer health information tools and AI or wearable systems that claim medical-grade intervention or measurement.
@@ -11483,7 +11494,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Trump Supporter Interpretive Loop](concepts/TrumpSupporterInterpretiveLoop.md) — Vol.128 "特朗普心理学" frame for pro-Trump media and supporters interpreting abrupt moves as hidden deal strategy.
 - [Tariff Consumer Price Pass-Through](concepts/TariffConsumerPricePassThrough.md) — Vol.128 consumer-facing tariff channel through toys, baby gear, fashion, ecommerce goods, imported brands, and delayed inflation effects.
 - [Tariff Exemption Pressure Valve](concepts/TariffExemptionPressureValve.md) — Vol.128 mechanism where exemptions and carveouts soften high headline tariff pressure while increasing planning uncertainty.
-- [Federal Research Funding Political Risk](concepts/FederalResearchFundingPoliticalRisk.md) — Vol.128 campus-facing risk that grant cuts, freezes, and legal reversals disrupt research and early-career academic labor markets.
+- [Federal Research Funding Political Risk](concepts/FederalResearchFundingPoliticalRisk.md) — Risk that grant cuts, freezes, reallocation, and politicized definitions of science disrupt research capacity while raising unresolved productivity-reform questions.
 - [Independent Agency Control Pressure](concepts/IndependentAgencyControlPressure.md) — Vol.128 governance frame linking OMB, DOGE, regulatory review, Fed succession, and weaker practical independence.
 - [Annual Report Macro Reading](concepts/AnnualReportMacroReading.md) — Method of using many company reports to infer macro demand, confidence, balance-sheet stress, and enterprise adaptation.
 - [Compressed Corporate Evolution](concepts/CompressedCorporateEvolution.md) — Chinese company growth pattern that compresses product, listing, internationalization, and professionalization stages into a shorter cycle.

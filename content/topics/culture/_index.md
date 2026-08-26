@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2239
+topic_total_pages: 2240
 topic_concepts:
   - key: "AbraxasWholeGodSymbolism"
     title: "Abraxas Whole-God Symbolism / 阿布拉克萨斯完整神象征"
@@ -1765,6 +1765,9 @@ topic_concepts:
   - key: "ScienceOptimismAndPseudoscience"
     title: "Science Optimism And Pseudoscience"
     url: "/wiki/concepts/scienceoptimismandpseudoscience/"
+  - key: "ScienceTalentPipeline"
+    title: "Science Talent Pipeline"
+    url: "/wiki/concepts/sciencetalentpipeline/"
   - key: "ScienceValueTransmission"
     title: "Science Value Transmission / 科学价值观传入"
     url: "/wiki/concepts/sciencevaluetransmission/"
