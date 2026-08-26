@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "7a0b9342ff7e5037d26f669907c339a74dabea46863d7092ab9f61fd93db331f",
       "11b46069f5d5d3b388ce54be58a714716b4196155acf6688217b72a05e31fe09",
       "4750f2d130430d92f8abea0e83e20e22d8a9614002bf3042c8881efa9d804e73",
       "04576f804c02d279ab9de8acef1fbad90ddad801be39c854e0694d24fa1fe010",
@@ -260,11 +261,43 @@
       "b16a38bd6e190222f7f3e6f0535803ce60ae7f3304e3477dfcdd995a15fb502f",
       "32b62a0e1fc3144c5e7770721fc745607afef0d0cf46a8fe94d35cab377dbbf9"
     ],
-    "paragraph_count": 258
+    "paragraph_count": 259
   },
-  "overview_commit": "a5e69fab89551347bbcfa3219269568f666c7fd9",
-  "overview_digest": "e435791bdfccccfbeb4b4bec4b499961a61a7bf9a6de24d4f3e4a37729e0541b",
+  "overview_commit": "07ebfbbea17caca061ee732220899b964bcf550f",
+  "overview_digest": "69aa7d6ae35a0b9ec816e50c23c078d90500c4056f9eced41a03b565b3812150",
   "paragraphs": [
+    {
+      "id": "7a0b9342ff7e5037d26f669907c339a74dabea46863d7092ab9f61fd93db331f",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics",
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1035-zhansha-caocao-qinzi-he-aijiang-ta-jing-zaidu-guijiang-caocao-lh10wwkwcqw5hnap3bodw6oxpt7v|《资治通鉴·汉纪》1035丨斩杀曹操亲子和爱将，他竟再度归降曹操？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the immediate pre-[[zizhi-tongjian-hanji-1036-liubiao-weihe-yao-bi-hansong-jian-caocao-lnifeizgoebis2gdovgmzg6dojaz|Hanji 1036]] Guandu setup. It adds [[YangFuLateHan|杨阜]], [[WeiJiLateHan|魏觊]], and [[SaltRevenueAgriculturalRecovery|盐利农具式复耕安置]], while extending [[ZhangXiu|张绣]], [[JiaXu|贾诩]], [[CaoCao|曹操]], [[YuanShao|袁绍]], [[XunYu|荀彧]], [[GuanzhongRegion|关中]], [[GuanduCampaign|官渡之战]], [[StrategicDefectorIncorporation|纳叛安抚式整合]], [[LegitimacyWindowSeizure|合法性窗口抢占]], and [[WartimeAgriculturalLaborCollapse|战争抽空农业劳动力]]. Its core synthesis is that Cao Cao's Guandu preparation runs through people and grain before the battlefield: Jia Xu turns Zhang Xiu's old blood debt into a high-value surrender calculus, Yang Fu frames Cao's advantage over Yuan Shao as decisive organization and talent use, and Wei Ji turns salt revenue into refugee farming, local-general containment, and front-line supply. No settled contradiction is recorded; the opening upward-networking analogy remains source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "CaoCao",
+        "GuanduCampaign",
+        "GuanzhongRegion",
+        "JiaXu",
+        "LegitimacyWindowSeizure",
+        "RuiqiJiangtouZizhiTongjian",
+        "SaltRevenueAgriculturalRecovery",
+        "StrategicDefectorIncorporation",
+        "WartimeAgriculturalLaborCollapse",
+        "WeiJiLateHan",
+        "XunYu",
+        "YangFuLateHan",
+        "YuanShao",
+        "ZhangXiu",
+        "zizhi-tongjian-hanji-1035-zhansha-caocao-qinzi-he-aijiang-ta-jing-zaidu-guijiang-caocao-lh10wwkwcqw5hnap3bodw6oxpt7v",
+        "zizhi-tongjian-hanji-1036-liubiao-weihe-yao-bi-hansong-jian-caocao-lnifeizgoebis2gdovgmzg6dojaz"
+      ]
+    },
     {
       "id": "11b46069f5d5d3b388ce54be58a714716b4196155acf6688217b72a05e31fe09",
       "primary_topic": "science-health-and-climate",

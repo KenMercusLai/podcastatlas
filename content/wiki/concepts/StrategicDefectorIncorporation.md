@@ -2,28 +2,47 @@
 title: "纳叛安抚式整合 / Strategic Defector Incorporation"
 type: concept
 tags: [statecraft, surrender, talent, pacification, late-han]
-sources: [zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1]
+sources:
+  - zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1
+  - zizhi-tongjian-hanji-1035-zhansha-caocao-qinzi-he-aijiang-ta-jing-zaidu-guijiang-caocao-lh10wwkwcqw5hnap3bodw6oxpt7v
+knowledge_schema: synthesis-v1
 last_updated: 2026-08-26
 ---
 
 # 纳叛安抚式整合 / Strategic Defector Incorporation
 
-纳叛安抚式整合 / strategic defector incorporation is the settlement pattern [[zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1|Hanji 1026]] draws from [[CaoCao|曹操]] after the fall of [[LyuBu|吕布]] at [[Xiapi|下邳]]. Cao Cao does not apply one rule to everyone: he executes Lü Bu, [[ChenGongLateHan|陈宫]], and [[GaoShun|高顺]], but incorporates [[ZhangLiao|张辽]], [[ChenJiLateHan|陈纪]], [[ChenQun|陈群]], [[ZhangBaLateHan|张霸]], and several local or former-defector actors.
+## Definition
+纳叛安抚式整合 / strategic defector incorporation is the settlement pattern in which a ruler selectively incorporates former enemies, defectors, or those who protected defectors because pardon and office can stabilize territory, advertise surrender survivability, and convert dangerous armed capacity into usable strength.
 
-The sharpest case is Zhang Ba's protection of [[XuXiLateHan|徐翕]] and [[MaoHuiLateHan|毛晖]], former Cao subordinates who had betrayed during the [[YanzhouLateHan|兖州]] crisis. Cao Cao first asks for their heads, but after Zhang Ba refuses to betray guests under his protection, Cao Cao praises the conduct and appoints the men instead. The source reads this as political rationality over personal revenge: pardon and office make surrender, local brokerage, and reattachment visibly survivable.
-
-This concept differs from [[CapturedOpponentTalentIncorporation|降敌任用式立威]], where a victor uses captured enemies after proving hierarchy, and from [[PoliticalSurrenderCascade|招降示范级联]], which tracks the broader spread of surrender incentives. Strategic defector incorporation focuses on the harder reputational move: admitting people who have already betrayed or sheltered fugitives because doing so stabilizes territory, reassures local networks, and builds capacity for the next campaign.
+## Current Synthesis
+The concept now covers two Cao Cao branches before Guandu. After Lü Bu's collapse at Xiapi, Cao Cao executes actors judged too dangerous while incorporating Zhang Liao, Zhang Ba, Xu Xi, Mao Hui, and other local or former-defector figures. Zhang Xiu is the harder case: he had caused the deaths of Cao Cao's son, nephew, and guard, yet Jia Xu judges that Cao Cao will still accept him because Cao needs his force, holds emperor-backed legitimacy, and can turn forgiveness into a public signal of magnanimity. The pattern is therefore selective, strategic, and reputationally expensive rather than blanket clemency.
 
 ## Key Claims
-- The policy depends on selective judgment: some actors are too trust-destroying to preserve, while others can be made useful under a new hierarchy.
-- Incorporating former defectors can advertise that surrender is survivable even after prior hostility, reducing resistance among local armed groups.
-- A broker's refusal to betray protected guests can become useful to the victor, because it proves local reputation and makes that broker more credible to others.
-- The move converts resentment into state capacity only if the victor has enough power to make pardon look like policy rather than weakness.
-- Hanji 1026 ties this settlement logic to Cao Cao's preparation for the Yuan Shao/Yuan Tan/Guandu field.
+- Incorporation is selective: some defeated actors remain too trust-destroying to spare, while others can be made useful under a new hierarchy.
+- Pardon advertises that surrender can remain survivable even after prior hostility, reducing resistance among local armed groups.
+- Local brokers and advisers matter because figures like Zhang Ba and Jia Xu can make risky incorporations credible or strategically legible.
+- The victor needs enough legitimacy and power for pardon to look like state policy rather than weakness.
+- Pre-campaign pressure raises the value of incorporation: before Guandu, manpower, rear security, and surrender signaling are unusually valuable.
 
-## Connections
-- [[CaoCao|曹操]], [[LyuBu|吕布]], [[Xiapi|下邳]], and [[Xuzhou|徐州]] - source ruler, defeated actor, siege site, and settlement zone.
-- [[ZhangBaLateHan|张霸]], [[XuXiLateHan|徐翕]], [[MaoHuiLateHan|毛晖]], [[WuDunLateHan|吴敦]], [[YinLiLateHan|尹礼]], and [[SunGuanLateHan|孙观]] - local-force and former-defector incorporation cases.
-- [[ZhangLiao|张辽]], [[ChenJiLateHan|陈纪]], and [[ChenQun|陈群]] - usable personnel absorbed after Lü Bu's collapse.
-- [[YuanShao|袁绍]], [[YuanTan|袁谭]], [[QingzhouLateHan|青州]], and [[GuanduCampaign|官渡之战]] - strategic horizon that gives the settlement its urgency.
-- [[CapturedOpponentTalentIncorporation|降敌任用式立威]], [[PoliticalSurrenderCascade|招降示范级联]], [[ReputationConstrainedTalentProtection|名声约束下的人才保护]], [[PeopleBasedPoliticalSecurity|民心型政治安全]], [[TalentAsStateTreasure|以贤臣为宝]], and [[XingshiqingStrategicAssessment|行势情战略评估]] - adjacent concepts.
+## Evidence
+- Selective settlement after Xiapi: [[zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1|Hanji 1026]] contrasts Cao Cao's execution of Lü Bu, Chen Gong, and Gao Shun with the incorporation of Zhang Liao, Chen Ji, Chen Qun, Zhang Ba, and local-force actors.
+- Former-defector pardon: [[zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1|Hanji 1026]] treats Zhang Ba's protection of Xu Xi and Mao Hui as a case where Cao Cao rewards credible local protection rather than demanding revenge.
+- High-cost former enemy: [[zizhi-tongjian-hanji-1035-zhansha-caocao-qinzi-he-aijiang-ta-jing-zaidu-guijiang-caocao-lh10wwkwcqw5hnap3bodw6oxpt7v|Hanji 1035]] makes Zhang Xiu's renewed submission a more reputationally expensive case because Wancheng had killed Cao Ang, Cao Anmin, and Dian Wei.
+- Legitimacy and magnanimity logic: [[zizhi-tongjian-hanji-1035-zhansha-caocao-qinzi-he-aijiang-ta-jing-zaidu-guijiang-caocao-lh10wwkwcqw5hnap3bodw6oxpt7v|Hanji 1035]] records Jia Xu's argument that Cao Cao's emperor-backed name, weaker position, and ambition to display grace make acceptance likely.
+- Guandu horizon: [[zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1|Hanji 1026]] and [[zizhi-tongjian-hanji-1035-zhansha-caocao-qinzi-he-aijiang-ta-jing-zaidu-guijiang-caocao-lh10wwkwcqw5hnap3bodw6oxpt7v|Hanji 1035]] both tie incorporation to the expanding field before Cao Cao's confrontation with Yuan Shao.
+
+## Counterevidence & Qualifications
+Lü Bu's execution shows that the pattern is not universal mercy. Zhang Xiu's prior attack makes him a higher trust risk than many defeated officers, and the current source does not independently document the full later record of his service. The concept also remains distinct from [[CapturedOpponentTalentIncorporation|降敌任用式立威]], where the focus is captured opponent talent after hierarchy is visibly established; strategic defector incorporation puts more weight on prior betrayal, local brokerage, and the reputational cost of pardon.
+
+## What Changed
+- Added Zhang Xiu as the higher-stakes former-enemy case that tests the limits of Cao Cao's incorporation policy.
+- Connected incorporation more explicitly to legitimacy, public magnanimity, and Guandu preparation.
+- Replaced the legacy source-by-source layout with the synthesis-v1 concept structure.
+
+## Related Concepts
+- [[CapturedOpponentTalentIncorporation|降敌任用式立威]] - adjacent captured-enemy talent pattern with a stronger emphasis on visible hierarchy after defeat.
+- [[PoliticalSurrenderCascade|招降示范级联]] - broader mechanism by which one visible surrender can lower resistance elsewhere.
+- [[ReputationConstrainedTalentProtection|名声约束下的人才保护]] - related reputational logic around protecting or accepting risky talent.
+- [[TalentAsStateTreasure|以贤臣为宝]] - talent-value premise that makes capable former enemies worth political cost.
+- [[SaltRevenueAgriculturalRecovery|盐利农具式复耕安置]] - companion pre-Guandu capacity policy focused on rear logistics rather than armed elites.
+- [[XingshiqingStrategicAssessment|行势情战略评估]] - assessment frame used by advisers when judging whether incorporation will strengthen or expose the ruler.

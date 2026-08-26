@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1035丨斩杀曹操亲子和爱将，他竟再度归降曹操？](sources/zizhi-tongjian-hanji-1035-zhansha-caocao-qinzi-he-aijiang-ta-jing-zaidu-guijiang-caocao-lh10wwkwcqw5hnap3bodw6oxpt7v.md) — 芮淇讲透资治通鉴 episode on Zhang Xiu's Jia Xu-advised renewed submission to Cao Cao, Yang Fu's Cao/Yuan comparison, and Wei Ji's Guanzhong salt-revenue agricultural recovery plan before Guandu.
 - [Michael Kratsios: Trump's Science Agenda, Anti-Science Claims, Fauci's Damage, DEI & China](sources/all-in-with-chamath-jason-sacks-friedberg-michael-kratsios-trumps-science-agenda-anti-science-claims-faucis-damage-dei-china-42543770.md) — All-In interview with Michael Kratsios on the New Golden Age science agenda, federal research funding reform, DEI grant controversy, climate framing, COVID trust damage, China competition, and STEM talent.
 - [California's data and privacy laws aren't being followed](sources/tech-20260825-mp-tech-pod-128-tech-20260825-mp-tech-pod-128.md) — Marketplace Tech episode with Megan McCarty-Carino and Jennifer King on California data-broker compliance, DROPS deletion requests, CalPrivacy enforcement, private lawsuits, and AI developers' brokered-data demand.
 - [Even-more-maximum pressure: sanctions on Iran](sources/even-more-maximum-pressure-sanctions-on-iran-6a8d6a9b66c4a1e81a4c86a9.md) — The Intelligence episode on Operation Economic Outcast, Philippine offshoring under AI, and LinkedIn-based city place-premium wage research.
@@ -1671,7 +1672,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [沙摩柯 / Sha Moke](entities/ShaMoke.md) — Wuxi Man leader Liu Biao tries to draw in as a reactive support channel.
 - [王夫之 / Wang Fuzhi](entities/WangFuzhi.md) — Later commentator cited by Hanji 1027 to sharpen the negative judgment of Liu Biao's Jingzhou strategy.
 - [庞统 / Pang Tong](entities/PangTong.md) — Jingzhou talent used source-scopedly as a later consequence of Liu Biao's weak correction/talent channel.
-- [官渡之战 / Guandu Campaign](entities/GuanduCampaign.md) — Looming Cao Cao-Yuan Shao confrontation that makes Liu Biao's southern constraint strategically important.
+- [官渡之战 / Guandu Campaign](entities/GuanduCampaign.md) — Looming Cao Cao-Yuan Shao confrontation whose current setup spans eastern settlement, Jingzhou constraint, Zhang Xiu's renewed submission, and Guanzhong rear governance.
+- [杨阜 / Yang Fu (late Han)](entities/YangFuLateHan.md) — Liangzhou/Guanzhong official whose pre-Guandu assessment favors Cao Cao over Yuan Shao on decisiveness, law, army strength, and talent use.
+- [魏觊 / Wei Ji (late Han)](entities/WeiJiLateHan.md) — Hedong official whose Guanzhong plan uses salt revenue, farming tools, oxen, and Sili Xiaowei presence to settle refugees and limit local generals before Guandu.
 - [鲁肃 / Lu Su](entities/LuSu.md) — Future Eastern Wu adviser introduced by Hanji 1028 as leaving Yuan Shu's failing appointment path with Zhou Yu and moving his household toward Sun Ce's Qu'a base.
 - [山越 / Shanyue](entities/Shanyue.md) — Mountain-based Jiangdong local-force field that Yuan Shu tries to mobilize through Zu Lang and that also supports Taishi Ci before Sun Ce's consolidation.
 - [孙翊 / Sun Yi (late Han)](entities/SunYiLateHan.md) — Sun-family son named in Hanji 982 and added by Hanji 1028 to Cao Cao's hostage-like court-service leverage over Sun Ce.
@@ -2417,7 +2420,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张济 / Zhang Ji (late Han)](entities/ZhangJiLateHan.md) — Zhang Xiu's uncle whose death at Rangcheng lets Liu Biao absorb the remaining troops and later leaves Lady Zou as the Wancheng widow/aunt figure.
 - [邹氏 / Lady Zou (Wancheng)](entities/LadyZouWancheng.md) — Zhang Ji's widow and Zhang Xiu's aunt by marriage whose taking by Cao Cao becomes the Wancheng status insult; Hanji 1013's "周氏" is kept as a transcript variant.
 - [胡车儿 / Hu Che'er](entities/HuCheEr.md) — Zhang Xiu subordinate who alarms Zhang Xiu when rewarded by Cao Cao and then drinks with and disarms Dian Wei.
-- [贾诩 / Jia Xu](entities/JiaXu.md) — Zhang Xiu adviser whose host-risk reading, Liu Biao evaluation, surrender advice, and Wancheng plan make him a late-Han survival-and-strategy contrast.
+- [贾诩 / Jia Xu](entities/JiaXu.md) — Late-Han adviser whose survival-first host-risk reading, Wancheng planning, Cao-over-Yuan patron choice, and Zhang Xiu submission advice make him a condition-sensitive strategy figure.
 - [白波军 / Baibo Army](entities/BaiboArmy.md) — Late-Han armed group tied first to Yufuluo's failed raiding branch and later to the emergency escort coalition around Emperor Xian.
 - [李乐 / Li Le (late Han)](entities/LiLeLateHan.md) — Former Baibo commander normalized from the transcript's "李越", helping Dong Cheng and Yang Feng during Emperor Xian's flight.
 - [胡才 / Hu Cai (late Han)](entities/HuCaiLateHan.md) — Former Baibo commander in the emergency reinforcement field that briefly counters Li Jue's pursuit of Emperor Xian.
@@ -2730,7 +2733,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [成吉思汗 / Genghis Khan](entities/GenghisKhan.md) — Mongol leader used as Qinji 131-3's example of drinking customs disciplined by self-control.
 - [《礼记》 / Book of Rites](entities/LijiText.md) — Confucian classic cited for drinking without losing composure and for alcohol as harmonious social ritual.
 - [王仲闻 / Wang Zhongwen](entities/WangZhongwen.md) — Scholar whose Li Qingzhao annotation statistics are used to quantify wine in her ci corpus.
-- [张绣 / Zhang Xiu](entities/ZhangXiu.md) — Late Han commander who inherits Zhang Ji's troops, attaches to Liu Biao through Jia Xu, and later turns Cao Cao's Wancheng surrender into a security disaster.
+- [张绣 / Zhang Xiu](entities/ZhangXiu.md) — Late Han commander who inherits Zhang Ji's troops, turns the first Cao Cao surrender into the Wancheng disaster, then submits again before Guandu through Jia Xu's advice.
 - [典韦 / Dian Wei](entities/DianWei.md) — Cao Cao guard whose drunken disarming and final defense anchor Qinji 131-2's Wancheng example.
 - [曹昂 / Cao Ang](entities/CaoAng.md) — Cao Cao's son whose death marks the familial cost of the Wancheng drinking-and-security disaster.
 - [张飞 / Zhang Fei](entities/ZhangFei.md) — Three Kingdoms figure used as the compact example of drunkenly losing Xuzhou and harming Liu Bei's base.
@@ -9389,7 +9392,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Trademark-Based Event Protection](concepts/TrademarkBasedEventProtection.md) — Protecting an event brand through names, marks, visual systems, training services, and official affiliations when the rules themselves are open.
 - [Authorized Fitness Training Network](concepts/AuthorizedFitnessTrainingNetwork.md) — Gym and course authorization layer tying local training, official programming, community activity, and priority race access to an event brand.
 - [Suspicion-Triggered Command Mutiny / 猜疑触发的部下倒戈](concepts/SuspicionTriggeredCommandMutiny.md) — Hanji 1025 pattern where a besieged commander's suspicion turns a subordinate's loyalty gesture into fear, anger, and organized defection.
-- [纳叛安抚式整合 / Strategic Defector Incorporation](concepts/StrategicDefectorIncorporation.md) — Hanji 1026 Cao Cao pattern where former enemies, local brokers, and past defectors are selectively incorporated to stabilize territory before the next campaign.
+- [纳叛安抚式整合 / Strategic Defector Incorporation](concepts/StrategicDefectorIncorporation.md) — Cao Cao pattern where former enemies, local brokers, and past defectors are selectively incorporated to stabilize territory and add capacity before Guandu.
+- [盐利农具式复耕安置 / Salt-Revenue Agricultural Recovery](concepts/SaltRevenueAgriculturalRecovery.md) — Wei Ji's Guanzhong policy pattern using state salt revenue to fund tools and oxen for returning refugees, restoring farming while weakening private military absorption.
 - [派系站队退出资本 / Factional Alignment Exit Capital](concepts/FactionalAlignmentExitCapital.md) — Hanji 1027 workplace frame for reading informal power while building portable professional value and exit options.
 - [骑墙式战略暴露 / Fence-Sitting Strategic Exposure](concepts/FenceSittingStrategicExposure.md) — Hanji 1027/1036 Liu Biao pattern where short-term neutrality becomes exploitable through local fissures, external patrons, and envoy loyalty traps.
 - [猜疑驱动的士族离心 / Suspicion-Driven Elite Alienation](concepts/SuspicionDrivenEliteAlienation.md) — Hanji 1036-1037 Liu Biao pattern where ignored duty warnings and harsh suspicion toward a court-facing insider damage elite confidence.

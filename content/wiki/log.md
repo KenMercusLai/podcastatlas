@@ -11676,6 +11676,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-26] ingest | 《资治通鉴·汉纪》1035丨斩杀曹操亲子和爱将，他竟再度归降曹操？
+
+Added source page for the 芮淇讲透资治通鉴 episode on Zhang Xiu's Jia Xu-advised renewed submission to Cao Cao, Yang Fu's Cao/Yuan comparison, Wei Ji's Guanzhong salt-revenue agricultural recovery plan, and the logistics-and-incorporation setup before Guandu. Created Yang Fu (late Han), Wei Ji (late Han), and Salt-Revenue Agricultural Recovery; migrated Zhang Xiu, Jia Xu, Guandu Campaign, and Strategic Defector Incorporation to synthesis-v1. No settled contradiction found; the opening upward-networking analogy remains source-scoped.
+
 ## [2026-08-26] ingest | California's data and privacy laws aren't being followed
 
 Added Marketplace Tech source page on California data-broker compliance, DROPS deletion requests, CalPrivacy enforcement, private lawsuit recommendations, and brokered personal data demand from generative AI developers. Created Jennifer King, Stanford Institute for Human-Centered AI, California Privacy Protection Agency, Data Broker Compliance Gap, and AI Data Broker Demand; migrated and updated Delete Request and Opt Out Platform, California Delete Act, Consumer Data Deletion, and AI Advertising Targeting to synthesis-v1. No settled contradiction found; DROP/DROPS is treated as a naming variant for the same centralized California deletion system.
@@ -12127,5 +12131,9 @@ Ran lint. See lint-report.md for details.
 Added source page for the All-In Kratsios interview on the New Golden Age science agenda, OSTP coordination, NSF and NIH funding reform, DEI grant controversy, climate-emergency framing, energy abundance, Genesis Mission, China competition, STEM talent, and COVID-era trust damage. Created Office of Science and Technology Policy, National Science Foundation, Anthony Fauci, New Golden Age Science Agenda, Science Funding Portfolio Logic, Research Funding Additionality, Science Trust Politicization, U.S.-China Science Competition, Energy Abundance Climate Strategy, and Science Talent Pipeline; migrated Michael Kratsios, National Institutes of Health, Jay Bhattacharya, Genesis Mission, Federal Research Funding Political Risk, Research Institutions As Strategic Capacity, and Medical Dogma Trust Repair to synthesis-v1. No settled contradiction found; the source qualifies earlier research-cut warnings by adding the administration's source-scoped reallocation, depoliticization, and productivity argument.
 
 ## [2026-08-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

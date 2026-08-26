@@ -2265,6 +2265,36 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/guanjinglatehan/"
     },
+    "GuanduCampaign": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1026丨揭秘三国第一猛将吕布的落幕 [lhjf_aguJuIgLqCHUMtFf3tfTxg1].md",
+          "key": "zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1026丨揭秘三国第一猛将吕布的落幕",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1027丨荆州之主刘表，为何难成霸主？ [ll-ebgUQLlSF_5YCvPDogihzN3lJ].md",
+          "key": "zizhi-tongjian-hanji-1027-jingzhou-zhizhu-liubiao-weihe-nan-cheng-bazhu-ll-ebguqllsf-5ycvpdogihzn3lj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1027丨荆州之主刘表，为何难成霸主？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1027-jingzhou-zhizhu-liubiao-weihe-nan-cheng-bazhu-ll-ebguqllsf-5ycvpdogihzn3lj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1035丨斩杀曹操亲子和爱将，他竟再度归降曹操？ [lh10WWkWcqw5HNAp3BOdW6oXPT7v].md",
+          "key": "zizhi-tongjian-hanji-1035-zhansha-caocao-qinzi-he-aijiang-ta-jing-zaidu-guijiang-caocao-lh10wwkwcqw5hnap3bodw6oxpt7v",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1035丨斩杀曹操亲子和爱将，他竟再度归降曹操？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1035-zhansha-caocao-qinzi-he-aijiang-ta-jing-zaidu-guijiang-caocao-lh10wwkwcqw5hnap3bodw6oxpt7v/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/guanducampaign/"
+    },
     "HanSongLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -3073,6 +3103,99 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/jenniferking/"
+    },
+    "JiaXu": {
+      "episode_count": 12,
+      "show_count": 1,
+      "source_note_count": 12,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》965丨帮过别人的忙，为什么要少提？ [ltJd_cv59hNM_n8aR9jXdOGP9Q0Q].md",
+          "key": "zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》965丨帮过别人的忙，为什么要少提？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》966丨没有野心，不懂权谋，就别当领导 [lldN3HI1gl5v3AXVklwaKgF6vX3u].md",
+          "key": "zizhi-tongjian-hanji-966-meiyou-yexin-budong-quanmou-jiu-bie-dang-lingdao-lldn3hi1gl5v3axvklwakgf6vx3u",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》966丨没有野心，不懂权谋，就别当领导",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-966-meiyou-yexin-budong-quanmou-jiu-bie-dang-lingdao-lldn3hi1gl5v3axvklwakgf6vx3u/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》967丨他参与谋杀董卓，竟能逃过死神围猎？ [lv24bIySWJ9LjDLD5HTynhAUHPh3].md",
+          "key": "zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》967丨他参与谋杀董卓，竟能逃过死神围猎？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》977丨亦正亦邪：乱世毒士的诡谲风云 [lgtPgxl5ANxiAl8yM2Nt8DMuc3Ee].md",
+          "key": "zizhi-tongjian-hanji-977-yi-zheng-yi-xie-luanshi-dushi-de-guijue-fengyun-lgtpgxl5anxial8ym2nt8dmuc3ee",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》977丨亦正亦邪：乱世毒士的诡谲风云",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-977-yi-zheng-yi-xie-luanshi-dushi-de-guijue-fengyun-lgtpgxl5anxial8ym2nt8dmuc3ee/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》984丨凉州系军阀内斗，他为何第一个倒下？ [lurb2qfZSa7E_OwH_dL-M-sCczE5].md",
+          "key": "zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》984丨凉州系军阀内斗，他为何第一个倒下？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》988丨受尽凌辱，他是汉末悲惨的皇帝 [lsDKpAkVk5u_OMEgCRI_wSTup-ZL].md",
+          "key": "zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》988丨受尽凌辱，他是汉末悲惨的皇帝",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》991丨争夺献帝之战：谁能最终取胜？ [lkbSl5UZqxOuzM6MleWrNUNS0x6P].md",
+          "key": "zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》991丨争夺献帝之战：谁能最终取胜？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1010丨三国刘表，究竟是不是漂亮的草包？ [lo58hZFo-Qv0SOaUOGTgFrKOurrd].md",
+          "key": "zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1010丨三国刘表，究竟是不是漂亮的草包？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1011丨祢衡之死：最具悲剧色彩的借刀杀人 [ltRzPchWDfcyp4NTmUm9Giu-5mVa].md",
+          "key": "zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1011丨祢衡之死：最具悲剧色彩的借刀杀人",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1012丨好色曹操：乱世中的独特情事 [llvRUCIhUV2bUvp1-lISZ4uSBPrh].md",
+          "key": "zizhi-tongjian-hanji-1012-haose-caocao-luanshi-zhong-de-dute-qingshi-llvrucihuv2buvp1-lisz4usbprh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1012丨好色曹操：乱世中的独特情事",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1012-haose-caocao-luanshi-zhong-de-dute-qingshi-llvrucihuv2buvp1-lisz4usbprh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1013丨典韦之死，竟是曹操好色害了他？ [lhe6jrPJP3cfbdhvJTdIeziJfnOH].md",
+          "key": "zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1013丨典韦之死，竟是曹操好色害了他？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1035丨斩杀曹操亲子和爱将，他竟再度归降曹操？ [lh10WWkWcqw5HNAp3BOdW6oXPT7v].md",
+          "key": "zizhi-tongjian-hanji-1035-zhansha-caocao-qinzi-he-aijiang-ta-jing-zaidu-guijiang-caocao-lh10wwkwcqw5hnap3bodw6oxpt7v",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1035丨斩杀曹操亲子和爱将，他竟再度归降曹操？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1035-zhansha-caocao-qinzi-he-aijiang-ta-jing-zaidu-guijiang-caocao-lh10wwkwcqw5hnap3bodw6oxpt7v/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/jiaxu/"
     },
     "JidduKrishnamurti": {
       "episode_count": 1,
@@ -4984,6 +5107,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/robotteleoperationandremotetakeover/"
     },
+    "SaltRevenueAgriculturalRecovery": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1035丨斩杀曹操亲子和爱将，他竟再度归降曹操？ [lh10WWkWcqw5HNAp3BOdW6oXPT7v].md",
+          "key": "zizhi-tongjian-hanji-1035-zhansha-caocao-qinzi-he-aijiang-ta-jing-zaidu-guijiang-caocao-lh10wwkwcqw5hnap3bodw6oxpt7v",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1035丨斩杀曹操亲子和爱将，他竟再度归降曹操？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1035-zhansha-caocao-qinzi-he-aijiang-ta-jing-zaidu-guijiang-caocao-lh10wwkwcqw5hnap3bodw6oxpt7v/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/saltrevenueagriculturalrecovery/"
+    },
     "SantaiZiCatholicVillage": {
       "episode_count": 1,
       "show_count": 1,
@@ -5235,6 +5374,29 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/stanfordinstituteforhumancenteredai/"
+    },
+    "StrategicDefectorIncorporation": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1026丨揭秘三国第一猛将吕布的落幕 [lhjf_aguJuIgLqCHUMtFf3tfTxg1].md",
+          "key": "zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1026丨揭秘三国第一猛将吕布的落幕",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1035丨斩杀曹操亲子和爱将，他竟再度归降曹操？ [lh10WWkWcqw5HNAp3BOdW6oXPT7v].md",
+          "key": "zizhi-tongjian-hanji-1035-zhansha-caocao-qinzi-he-aijiang-ta-jing-zaidu-guijiang-caocao-lh10wwkwcqw5hnap3bodw6oxpt7v",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1035丨斩杀曹操亲子和爱将，他竟再度归降曹操？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1035-zhansha-caocao-qinzi-he-aijiang-ta-jing-zaidu-guijiang-caocao-lh10wwkwcqw5hnap3bodw6oxpt7v/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/strategicdefectorincorporation/"
     },
     "SunBenLateHan": {
       "episode_count": 2,
@@ -5917,6 +6079,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/warasviolentredistribution/"
     },
+    "WeiJiLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1035丨斩杀曹操亲子和爱将，他竟再度归降曹操？ [lh10WWkWcqw5HNAp3BOdW6oXPT7v].md",
+          "key": "zizhi-tongjian-hanji-1035-zhansha-caocao-qinzi-he-aijiang-ta-jing-zaidu-guijiang-caocao-lh10wwkwcqw5hnap3bodw6oxpt7v",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1035丨斩杀曹操亲子和爱将，他竟再度归降曹操？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1035-zhansha-caocao-qinzi-he-aijiang-ta-jing-zaidu-guijiang-caocao-lh10wwkwcqw5hnap3bodw6oxpt7v/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/weijilatehan/"
+    },
     "WeiTengLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -6158,6 +6336,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/yanbaihu/"
     },
+    "YangFuLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1035丨斩杀曹操亲子和爱将，他竟再度归降曹操？ [lh10WWkWcqw5HNAp3BOdW6oXPT7v].md",
+          "key": "zizhi-tongjian-hanji-1035-zhansha-caocao-qinzi-he-aijiang-ta-jing-zaidu-guijiang-caocao-lh10wwkwcqw5hnap3bodw6oxpt7v",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1035丨斩杀曹操亲子和爱将，他竟再度归降曹操？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1035-zhansha-caocao-qinzi-he-aijiang-ta-jing-zaidu-guijiang-caocao-lh10wwkwcqw5hnap3bodw6oxpt7v/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/yangfulatehan/"
+    },
     "YidaiZhao": {
       "episode_count": 1,
       "show_count": 1,
@@ -6327,6 +6521,50 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/zhangjianlatehan/"
+    },
+    "ZhangXiu": {
+      "episode_count": 5,
+      "show_count": 1,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1010丨三国刘表，究竟是不是漂亮的草包？ [lo58hZFo-Qv0SOaUOGTgFrKOurrd].md",
+          "key": "zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1010丨三国刘表，究竟是不是漂亮的草包？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1012丨好色曹操：乱世中的独特情事 [llvRUCIhUV2bUvp1-lISZ4uSBPrh].md",
+          "key": "zizhi-tongjian-hanji-1012-haose-caocao-luanshi-zhong-de-dute-qingshi-llvrucihuv2buvp1-lisz4usbprh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1012丨好色曹操：乱世中的独特情事",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1012-haose-caocao-luanshi-zhong-de-dute-qingshi-llvrucihuv2buvp1-lisz4usbprh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1013丨典韦之死，竟是曹操好色害了他？ [lhe6jrPJP3cfbdhvJTdIeziJfnOH].md",
+          "key": "zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1013丨典韦之死，竟是曹操好色害了他？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》131-2｜盘点皇帝们酒后小癖好 [liVpg3zH7LsqFFGca2POMIQNlvYd].md",
+          "key": "zizhi-tongjian-qinji-131-2-pandian-huangdimen-jiuhou-xiaopihao-livpg3zh7lsqffgca2pomiqnlvyd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》131-2｜盘点皇帝们酒后小癖好",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-131-2-pandian-huangdimen-jiuhou-xiaopihao-livpg3zh7lsqffgca2pomiqnlvyd/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1035丨斩杀曹操亲子和爱将，他竟再度归降曹操？ [lh10WWkWcqw5HNAp3BOdW6oXPT7v].md",
+          "key": "zizhi-tongjian-hanji-1035-zhansha-caocao-qinzi-he-aijiang-ta-jing-zaidu-guijiang-caocao-lh10wwkwcqw5hnap3bodw6oxpt7v",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1035丨斩杀曹操亲子和爱将，他竟再度归降曹操？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1035-zhansha-caocao-qinzi-he-aijiang-ta-jing-zaidu-guijiang-caocao-lh10wwkwcqw5hnap3bodw6oxpt7v/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/zhangxiu/"
     },
     "ZhaoLina": {
       "episode_count": 1,
