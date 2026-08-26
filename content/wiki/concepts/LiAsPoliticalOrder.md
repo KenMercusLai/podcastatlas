@@ -2,11 +2,13 @@
 title: "Li As Political Order / 礼制政治秩序"
 type: concept
 tags: [confucianism, governance, legitimacy, hierarchy, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud, zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq, zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd, zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh, zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy, zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf, zizhi-tongjian-zhouji-48-junwang-weisha-buneng-chuanwei-zaixiang-lnwhljnn888mzlj7let2ptn1pcdm]
-last_updated: 2026-08-25
+sources: [zizhi-tongjian-hanji-899-hao-qing-dou-tanguan-ljhic1plzmv8k6lu73j5terihanx, zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud, zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq, zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd, zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh, zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy, zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf, zizhi-tongjian-zhouji-48-junwang-weisha-buneng-chuanwei-zaixiang-lnwhljnn888mzlj7let2ptn1pcdm]
+last_updated: 2026-08-26
 ---
 
 # Li As Political Order / 礼制政治秩序
+
+[[zizhi-tongjian-hanji-899-hao-qing-dou-tanguan-ljhic1plzmv8k6lu73j5terihanx|Hanji 899]] adds a tomb-sacrifice and ritual-affect version before the Hanji 901 burial-dispute branch. [[CaiYong|蔡邕]] watches [[EmperorLingOfHan|汉灵帝]] sacrifice at [[LiuXiu|光武帝]]'s Yuanling and concludes that some rites are cumbersome but cannot be omitted. The point is not only posthumous status; the rite makes dynastic memory, filial hierarchy, solemnity, and sacred seriousness perceptible.
 
 [[zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud|Hanji 901]] adds a late-Han imperial-burial version before the Liu Biao and Liu Yan symbolic-boundary cases. The dispute over [[EmpressDowagerDouMiao|窦皇太后]] is not only where a body should be placed; it is whether the court will preserve the role relationship among empress, dowager, deceased emperor, and successor.
 
@@ -31,6 +33,7 @@ This case makes the concept more administrative than the Yan abdication case. �
 [[zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq|Hanji 959]] adds the negative mirror of that restraint. [[LiuYanLateHan|刘焉]] makes imperial-style carriage equipment in [[YizhouLateHan|益州]], and [[LiuBiao|刘表]] reports it as imitation of the emperor. The point is not only etiquette; if local people learn to recognize Liu Yan's symbols instead of [[EmperorXianOfHan|汉献帝]]'s, role order is being replaced by provincial autonomy.
 
 ## Key Claims
+- Hanji 899 adds that ritual order works through felt solemnity and sacred seriousness as well as through formal role categories.
 - Hanji 901 adds that burial rites can preserve political role order after death; changing them can become a factional rewriting of status.
 - 礼 is treated as a practical rule system, not merely ritual decoration.
 - Role names matter because they tell officials, heirs, armies, and subjects whose authority they are recognizing.
@@ -44,6 +47,7 @@ This case makes the concept more administrative than the Yan abdication case. �
 - Hanji 959 adds that imperial-style objects used by a provincial ruler can signal the erosion of role order before formal usurpation.
 
 ## Connections
+- [[zizhi-tongjian-hanji-899-hao-qing-dou-tanguan-ljhic1plzmv8k6lu73j5terihanx|Hanji 899]], [[CaiYong|蔡邕]], [[EmperorLingOfHan|汉灵帝]], [[LiuXiu|光武帝]], [[EmperorMingOfHan|汉明帝]], and [[RitualAffectiveOrder|仪式感秩序生成]] - tomb sacrifice as role memory and felt sacred order.
 - [[zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud|Hanji 901]], [[EmpressDowagerDouMiao|窦皇太后]], [[EmperorHuanOfHan|汉桓帝]], [[LiXianTaiweiLateHan|李贤]], and [[ImperialBurialLegitimacy|帝后合葬名分]] - burial status as role-order preservation.
 - [[zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh|Hanji 185]], [[LuJia|陆贾]], [[Xinyu|《新语》]], [[LiuBang|刘邦]], and [[BattlefieldVictoryToFoundingOrder|战场胜利到建国秩序]] - civil-order warning that conquest on horseback cannot remain the governing model.
 - [[zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy|Hanji 176]], [[ChanglePalace|长乐宫]], [[SimaGuang|司马光]], and [[ImperialRitualDistance|君臣礼制距离]] - completed court ritual, positive ritual theory, and hierarchy-distance caveat.

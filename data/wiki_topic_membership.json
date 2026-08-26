@@ -46820,6 +46820,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "RitualAffectiveOrder": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "RitualRecognitionOfMilitaryPower": [
     {
       "key": "history",

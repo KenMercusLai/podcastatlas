@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》899丨好清斗贪官](sources/zizhi-tongjian-hanji-899-hao-qing-dou-tanguan-ljhic1plzmv8k6lu73j5terihanx.md) — 芮淇讲透资治通鉴 episode on a "money can reach the gods" bribery story, Emperor Ling's 172 CE visit to Guangwu's Yuanling, Cai Yong's "礼有烦而不可省者" ritual defense, and ritual sense as solemn, sacred order.
 - [《资治通鉴·汉纪》900丨职场权术都不动，该怎样生存](sources/zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr.md) — 芮淇讲透资治通鉴 episode on Hu Guang's moderation-based court survival, anger control and advance/retreat judgment, Hou Lan's uncertain eunuch-faction fall, Empress Dowager Dou's death and funeral mistreatment, and the prelude to the burial meeting resolved in Hanji 901.
 - [《资治通鉴·汉纪》901 丨急性子的人会是什么下场？](sources/zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud.md) — 芮淇讲透资治通鉴 episode on acute-temper emotion control, Kafka's The Metamorphosis self-importance example, and the 172 CE burial debate over Empress Dowager Dou, Li Xian and Chen Qiu's pro-burial argument, eunuch resistance from Zhao Zhong/Cao Jie/Wang Fu, and Emperor Ling's acceptance.
 - [《资治通鉴·汉纪》902丨控制情绪是人生必修课](sources/zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b.md) — 芮淇讲透资治通鉴 episode on strategic emotion concealment, the 172 CE Zhuque Gate accusation against Cao Jie and Wang Fu, Liu Meng's restrained investigation, Duan Jiong's crackdown, Zhang Huan's humbled survival, and Su Buwei's first failed revenge attack on Li Hao.
@@ -1496,6 +1497,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [汉明帝 / Emperor Ming of Han](entities/EmperorMingOfHan.md) — Eastern Han emperor used by Hanji 899 as the filial precedent behind Guangwu Yuanling tomb-sacrifice practice.
 - [胡广 / Hu Guang (late Han)](entities/HuGuangLateHan.md) — Late-Han senior official whose six-reign service, institutional knowledge, mildness, and non-offense make Hanji 900's moderation-based survival case.
 - [侯览 / Hou Lan (late Han)](entities/HouLanLateHan.md) — Late-Han eunuch stripped of office and seals in Hanji 900, used as a source-scoped example of palace protection failing under internal faction risk.
 - [李贤 / Li Xian (taiwei, late Han)](entities/LiXianTaiweiLateHan.md) — Ill taiwei who risks death in Hanji 901 to argue that Empress Dowager Dou should be buried with Emperor Huan; distinct from 李暹 / Li Xian.
@@ -9187,6 +9189,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Ritual Affective Order / 仪式感秩序生成](concepts/RitualAffectiveOrder.md) — Hanji 899 frame for how cumbersome ritual can produce solemnity, sacredness, ordered memory, and disciplined participation rather than mere decorative form.
 - [Moderation As Political Survival / 中庸圆滑政治生存](concepts/ModerationAsPoliticalSurvival.md) — Hanji 900 frame for Hu Guang's survival through institutional competence, non-offense, relationship continuity, and controlled exposure, with moral costs kept visible.
 - [Predetermined Meeting Process / 既定结果会议程序](concepts/PredeterminedMeetingProcess.md) — Hanji 900 pattern where formal deliberation can ratify a decision already shaped by authority, factional bargaining, and prior communication.
 - [Imperial Burial Legitimacy / 帝后合葬名分](concepts/ImperialBurialLegitimacy.md) — Hanji 901 pattern where tomb placement, co-sacrifice, and posthumous title decide whether a deceased empress dowager remains inside official role order.

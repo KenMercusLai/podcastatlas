@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 7687
+wiki_total_pages: 7688
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -464,6 +464,9 @@ wiki_pages:
   - key: "EachNet"
     title: "易趣 / EachNet"
     url: "/wiki/entities/eachnet/"
+  - key: "EmperorMingOfHan"
+    title: "汉明帝 / Emperor Ming of Han"
+    url: "/wiki/entities/emperormingofhan/"
   - key: "EmperorHuanOfHan"
     title: "汉桓帝 / Emperor Huan of Han"
     url: "/wiki/entities/emperorhuanofhan/"

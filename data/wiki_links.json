@@ -15131,6 +15131,10 @@
     "title": "汉灵帝 / Emperor Ling of Han",
     "url": "/wiki/entities/emperorlingofhan/"
   },
+  "EmperorMingOfHan": {
+    "title": "汉明帝 / Emperor Ming of Han",
+    "url": "/wiki/entities/emperormingofhan/"
+  },
   "EmperorNaruhito": {
     "title": "Emperor Naruhito",
     "url": "/wiki/entities/emperornaruhito/"
@@ -39583,6 +39587,10 @@
     "title": "日谈",
     "url": "/wiki/entities/ritan/"
   },
+  "RitualAffectiveOrder": {
+    "title": "Ritual Affective Order / 仪式感秩序生成",
+    "url": "/wiki/concepts/ritualaffectiveorder/"
+  },
   "RitualAmbushCountercoup": {
     "title": "宗庙仪式反制政变 / Ritual Ambush Countercoup",
     "url": "/wiki/concepts/ritualambushcountercoup/"
@@ -57442,6 +57450,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-899-hao-qing-dou-tanguan-ljhic1plzmv8k6lu73j5terihanx": {
+    "title": "《资治通鉴·汉纪》899丨好清斗贪官",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-899-hao-qing-dou-tanguan-ljhic1plzmv8k6lu73j5terihanx/"
   },
   "zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr": {
     "title": "《资治通鉴·汉纪》900丨职场权术都不动，该怎样生存",

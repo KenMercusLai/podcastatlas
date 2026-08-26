@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "68639998e00d8dc008789ff62087e5df0174d198c430028997e19ee6b49bad5c",
       "e9167ce1beebc3cb36e023f645490831481f79fb4f49ad03eff1807160a12ba3",
       "64f4e7e02b7db9d71f22ae6dc96503f17ab9d4b7266a173a340b072ff08fed49",
       "bf9a4f3a2894a9ccd1632f4877f743fad537cd781a1d7c122bf8c67b5f8e2add",
@@ -241,11 +242,37 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "b16a38bd6e190222f7f3e6f0535803ce60ae7f3304e3477dfcdd995a15fb502f"
     ],
-    "paragraph_count": 239
+    "paragraph_count": 240
   },
-  "overview_commit": "ff2db53284d0b083887d138fdca52c897c8eee89",
-  "overview_digest": "06bc00a878e6d337e433f4d7df909834387467195b87ce4755e3b10cb94a2d9a",
+  "overview_commit": "452ccfee54a38165ac5319029edb2f27484c37ed",
+  "overview_digest": "0d0c4fda3a5e7560f99d9bcccd4a16de1249db96967ffe3e57cfe7f83396ac55",
   "paragraphs": [
+    {
+      "id": "68639998e00d8dc008789ff62087e5df0174d198c430028997e19ee6b49bad5c",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-899-hao-qing-dou-tanguan-ljhic1plzmv8k6lu73j5terihanx|《资治通鉴·汉纪》899丨好清斗贪官]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 172 CE ritual opening immediately before [[zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr|Hanji 900]]. It adds [[EmperorMingOfHan|汉明帝]] and [[RitualAffectiveOrder|仪式感秩序生成]], while extending [[CaiYong|蔡邕]], [[EmperorLingOfHan|汉灵帝]], [[LiuXiu|光武帝]], [[LiAsPoliticalOrder|礼制政治秩序]], [[ImperialRitualDistance|君臣礼制距离]], [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]], [[CaiWenji|蔡文姬]], [[HuGuangLateHan|胡广]], and [[TalentAttractionThroughRespect|礼贤下士式人才吸附]]. Its core synthesis is that ritual is treated as an institution of felt order, not ornamental complexity: Cai Yong's \"礼有烦而不可省者\" turns tomb sacrifice into a way to make filial memory, hierarchy, sacredness, and disciplined seriousness real, while the opening bribery story supplies the counter-image of money bending office networks. No settled contradiction is recorded; the title's anti-corruption emphasis is preserved as opening frame, while the sustained chronicle contribution is the Yuanling ritual argument.",
+      "topic_scores": {
+        "culture-and-media": 1,
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "CaiWenji",
+        "CaiYong",
+        "EmperorLingOfHan",
+        "EmperorMingOfHan",
+        "HuGuangLateHan",
+        "ImperialRitualDistance",
+        "LiAsPoliticalOrder",
+        "LiuXiu",
+        "RitualAffectiveOrder",
+        "RuiqiJiangtouZizhiTongjian",
+        "TalentAttractionThroughRespect",
+        "zizhi-tongjian-hanji-899-hao-qing-dou-tanguan-ljhic1plzmv8k6lu73j5terihanx",
+        "zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr"
+      ]
+    },
     {
       "id": "e9167ce1beebc3cb36e023f645490831481f79fb4f49ad03eff1807160a12ba3",
       "primary_topic": "governance-and-institutions",

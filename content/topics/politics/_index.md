@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1888
+topic_total_pages: 1889
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -2305,6 +2305,9 @@ topic_concepts:
   - key: "RiskCostSeparation"
     title: "Risk-Cost Separation / 风险与成本分离"
     url: "/wiki/concepts/riskcostseparation/"
+  - key: "RitualAffectiveOrder"
+    title: "Ritual Affective Order / 仪式感秩序生成"
+    url: "/wiki/concepts/ritualaffectiveorder/"
   - key: "RobotaxiHybridDeployment"
     title: "Robotaxi Hybrid Deployment"
     url: "/wiki/concepts/robotaxihybriddeployment/"

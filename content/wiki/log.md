@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-26] ingest | 《资治通鉴·汉纪》899丨好清斗贪官
+
+Added source page for Hanji 899: the opening Jin Ren/Wu Zhi bribery story around "钱能通神", Emperor Ling's 172 CE visit to Guangwu's Yuanling, Cai Yong's "礼有烦而不可省者" defense of tomb sacrifice, and the host's ritual-sense argument about solemnity, sacredness, order, and self-realization. Created Emperor Ming of Han and Ritual Affective Order pages; updated Cai Yong, Emperor Ling, Liu Xiu, Li As Political Order, Imperial Ritual Distance, and the Ruiqi show page. No settled contradiction found; minor figures and setting terms are kept source-scoped.
+
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》904丨觉照内观：获得心灵大自由的秘诀
 
 Added source page for Hanji 904: early-rising sitting meditation and 觉照内观, 173-174 CE epidemic/earthquake/eclipse and Three Excellencies churn, Tang Heng/Tang Zhen eunuch-family office networks, and Cao Cao's nineteen-year-old Xiaolian/langguan entry through Cao Teng/Cao Song, Qiao Xuan, Xu Shao, and Sima Fang. Created Sima Fang, Tang Heng, and Tang Zhen pages; updated connected late-Han actor, appointment, omen, office-churn, reputation, and meditative-practice pages. No settled contradiction found; breath/yangqi claims and "阉三代" are kept source-scoped.
@@ -11925,6 +11929,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》900丨职场权术都不动，该怎样生存
 
 Added source page for Hanji 900: Hu Guang's 172 CE death and moderation-based court survival, anger control and advance/retreat judgment, Hou Lan's uncertain eunuch-faction fall, Empress Dowager Dou Miao's death and initial funeral mistreatment, and the supervised burial-meeting setup before Hanji 901. Created Hu Guang, Hou Lan, Moderation As Political Survival, and Predetermined Meeting Process; updated linked late-Han entity and concept pages, index, and overview. No settled contradiction found; Hou Lan's trigger remains source-scoped and the title spelling "都不动" is preserved from the source file.
+
+## [2026-08-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-26] lint | Wiki health check
 
