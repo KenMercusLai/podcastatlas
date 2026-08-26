@@ -2,51 +2,69 @@
 title: "王甫 / Wang Fu (late Han)"
 type: entity
 tags: [late-han, han, eunuch, court-politics]
-sources: [zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr, zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud, zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b, zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom, zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj, zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g, zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus, zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu, zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg, zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5]
-last_updated: 2026-08-26
+sources:
+  - zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr
+  - zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud
+  - zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b
+  - zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom
+  - zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj
+  - zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g
+  - zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus
+  - zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu
+  - zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg
+  - zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5
+  - zizhi-tongjian-hanji-887-dang-zhuduizhang-pengshang-zhuduiyou-jieguo-taican-lvyh9a-kvsdqaokmylgg139bvhfk
+last_updated: 2026-08-27
+knowledge_schema: synthesis-v1
 ---
 
-# 王甫 / Wang Fu (late Han)
+## Overview
 
-[[zizhi-tongjian-hanji-898-renzei-zuofu-kelian-zhiren-neng-you-duo-huangtang-lgfup6tyv85zhvnmzf6xlesmblcj|Hanji 898]] backfills Wang Fu's anti-Dou retaliation before the burial-recognition, Bohai brokerage, and wugu branches. After [[DongMengLateHan|董萌]] speaks for [[EmpressDowagerDouMiao|窦皇太后]], Wang Fu and [[CaoJieLateHan|曹节]] turn old resentment against [[DouWuLateHan|窦武]] into an accusation that Dong Meng has slandered [[EmpressDowagerDongLateHan|董太后]], and Dong Meng is imprisoned and killed.
+王甫 / Wang Fu (late Han) is a late-Han eunuch powerholder whose page now begins with his public role in the 168 CE defeat of [[DouWuLateHan|窦武]] and [[ChenFanLateHan|陈蕃]]. [[zizhi-tongjian-hanji-887-dang-zhuduizhang-pengshang-zhuduiyou-jieguo-taican-lvyh9a-kvsdqaokmylgg139bvhfk|Hanji 887]] presents Wang Fu as the actor who answers Chen Fan inside the palace, orders his seizure, and later helps break Dou Wu's military support by shouting rebellion accusations and promising rewards.
 
-[[zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr|Hanji 900]] backfills Wang Fu before the Hanji 901 burial-recognition fight. He appears with [[CaoJieLateHan|曹节]] after [[EmpressDowagerDouMiao|窦皇太后]]'s death, first favoring guiren-level funeral treatment and then trying to keep Dou from sharing [[EmperorHuanOfHan|汉桓帝]]'s burial status while [[FengGuirenLateHan|冯贵人]] is promoted as an alternative. The source makes this a pre-meeting move inside [[ImperialBurialLegitimacy|帝后合葬名分]] and [[PredeterminedMeetingProcess|既定结果会议程序]], before Hanji 901 records the direct arguments.
+## Current Profile
 
-[[zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud|Hanji 901]] backfills Wang Fu before the Zhuque Gate accusation and Bohai brokerage branches. He appears with [[CaoJieLateHan|曹节]] as an opponent of burying [[EmpressDowagerDouMiao|窦皇太后]] with [[EmperorHuanOfHan|汉桓帝]], arguing from precedent and family-guilt logic against her full ritual recognition.
+Wang Fu's current profile is a sequence of accusation power, access brokerage, and violent reversal. In the 168 CE coup, he acts as the public voice of the eunuch side: he recodes Dou Wu's action as rebellion, has Chen Fan seized, and uses shouted accusation to shift soldiers away from Dou. The later burial conflict shows the same defensive memory problem in ritual form, as Wang Fu and [[CaoJieLateHan|曹节]] oppose [[EmpressDowagerDouMiao|窦妙 / 窦皇太后]]'s full status because that status would revive the old Dou/Chen injustice.
 
-The episode makes Wang Fu part of a defensive eunuch-memory problem. Because the Dou case can reactivate the old grievance around [[DouWuLateHan|窦武]] and [[ChenFanLateHan|陈蕃]], Wang Fu's opposition belongs to [[ImperialBurialLegitimacy|帝后合葬名分]] and [[PalaceAccessMonopoly|宫廷接触垄断]] before his later use of palace access as brokerage, accusation, and retaliation.
+The later sources broaden the pattern. Wang Fu is named in anonymous accusation, uses palace access to broker and then destroy [[LiuKuiBohaiKing|刘亏]], helps push the failed Xianbei expedition through [[TianYanLateHan|田晏]], turns palace rivalry into [[EmpressSongLateHan|宋皇后]]'s wugu accusation, and reaches a family-network power peak before [[YangQiuLateHan|阳球]] destroys him. His corpse then becomes a political signal that Cao Jie uses to regroup the eunuch side.
 
-[[zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b|Hanji 902]] adds Wang Fu's earliest wiki layer beside [[CaoJieLateHan|曹节]]. An anonymous Zhuque Gate posting accuses the two eunuch powerholders and condemns senior officials for not speaking truth. The episode's important point for Wang Fu is not adjudication of the accusation but the court response: pursuit of the anonymous speaker and punishment pressure against [[LiuMengLateHan|刘猛]] after [[DuanJiongLateHan|段熲]] takes over the investigation.
+## Key Characteristics
 
-[[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom|Hanji 903]] then backfills Wang Fu before the Xianbei lobbying and later palace-accusation branches. [[LiuKuiBohaiKing|刘亏]] promises him fifty million cash if Wang can restore Liu's [[BohaiKingdomLateHan|Bohai]] kingship; after Liu refuses to pay, Wang monitors Liu's ties to [[ZhengSaLateHan|郑萨]] and [[DongTengLateHan|董腾]], has [[LianZhongLateHan|廉中]] forge evidence, and recodes the unpaid debt into a treason case. The case makes Wang Fu's page begin with [[AnonymousRemonstranceSuppression|anonymous remonstrance suppression]], [[InnerCourtAccessBrokerageRisk|access brokerage risk]], and [[PersonalRevengeThroughStatePower|personal revenge through state power]] before his later wugu and anti-eunuch-prosecution roles.
+- Wang Fu is a direct countercoup actor whose speech and arrest power help turn Chen Fan and Dou Wu from reformers into alleged rebels.
+- He repeatedly converts access into accusation, whether against Chen Fan, Dou Miao's memory, Liu Kui, or Empress Song.
+- His brokerage power is transactional and dangerous: favor can become coercion once a promised payment or expected alignment fails.
+- His political reach extends beyond palace rivalry into military appointment and frontier policy through Tian Yan's Xianbei command.
+- His fall shows that eunuch powerholders can be destroyed individually while the broader eunuch channel survives and regroups.
 
-[[zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj|Hanji 909]] backfills Wang Fu before the palace-accusation and destruction branches. [[TianYanLateHan|田晏]] asks Wang Fu to recommend him to [[EmperorLingOfHan|汉灵帝]] for the Xianbei campaign, and Wang Fu strongly pushes the expedition, helping turn Tian Yan into Po Xianbei zhonglangjiang. The case makes Wang Fu's inner-court access a military-policy channel before later sources show his role in palace accusation and eunuch-network retaliation.
+## Evidence
 
-[[zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g|Hanji 913]] gives Wang Fu an earlier palace-accusation branch before his Hanji 915 destruction. After Song Fei is killed, Wang Fu fears [[EmpressSongLateHan|宋皇后]]'s resentment and accuses her of using wugu against [[EmperorLingOfHan|汉灵帝]], making him a key actor in a lethal [[WuguPoliticalPanic|巫蛊政治恐慌]] case.
+- Countercoup voice and arrest: [[zizhi-tongjian-hanji-887-dang-zhuduizhang-pengshang-zhuduiyou-jieguo-taican-lvyh9a-kvsdqaokmylgg139bvhfk|Hanji 887]] says Wang Fu rebuts Chen Fan, orders him seized, and uses shouted rebellion accusations plus reward promises to turn Dou Wu's troops.
+- Burial-status defense: [[zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr|Hanji 900]] and [[zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud|Hanji 901]] show Wang Fu and Cao Jie opposing Dou Miao's full funeral and burial recognition.
+- Anonymous accusation pressure: [[zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b|Hanji 902]] names Wang Fu with Cao Jie in the Zhuque Gate accusation and the court response against the anonymous critic.
+- Access brokerage and revenge: [[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom|Hanji 903]] says Wang Fu helps Liu Kui regain Bohai kingship, then turns the unpaid debt into a forged treason case.
+- Frontier appointment channel: [[zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj|Hanji 909]] says Tian Yan reaches Xianbei command through Wang Fu's recommendation, linking palace access to failed frontier policy.
+- Wugu accusation: [[zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g|Hanji 913]] says Wang Fu accuses Empress Song after fearing her resentment, leading to her removal and death.
+- Destruction and afterlife: [[zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus|Hanji 915]] records Wang Fu's arrest and death after Yang Qiu's prosecution, while [[zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu|Hanji 916]], [[zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg|Hanji 917]], and [[zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5|Hanji 918]] show his corpse humiliation and continuing role as background for Cao Jie's regrouping and anti-eunuch backlash.
 
-[[zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus|Hanji 915]] supplies Wang Fu's pre-destruction exposure. The episode places him beside [[CaoJieLateHan|曹节]] as a powerful eunuch whose family members and retainers occupy offices, while his adopted son [[WangJiLateHan|王吉]] is accused of mass killing and corpse display as Pei chancellor.
+## Qualifications
 
-The same source makes [[YangBiao|杨彪]]'s report against Wang Fu's Jingzhao retainers the evidence channel that lets [[YangQiuLateHan|阳球]] attack the network. Wang Fu is arrested with [[DuanJiongLateHan|段熲]], Wang Ji, and [[WangMengLateHan|王萌]], then beaten to death after prison interrogation and publicly labeled as a criminal minister.
+- Hanji 887 makes Wang Fu's palace speech and troop-shifting role vivid, but the source still summarizes the coup rather than reconstructing every command order.
+- The page treats Wang Fu as a recurring pattern of accusation power, not as the only cause of every late-Han palace failure.
+- Some transcript forms render 王甫 as 王府; the wiki keeps the existing canonical Wang Fu route where the sequence and role match.
 
-[[zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu|Hanji 916]] adds the public afterlife of Wang Fu's destruction. During [[YuGuirenLateHan|于贵人]]'s funeral, [[CaoJieLateHan|曹节]] sees Wang Fu's mutilated corpse abandoned by the roadside; the source treats that humiliation as the emotional and political trigger for Cao Jie to reunify the eunuch side and move against [[YangQiuLateHan|阳球]].
+## What Changed
 
-[[zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg|Hanji 917]] gives Wang Fu a fuller pre-Hanji-918 role. [[YangQiuLateHan|阳球]] has already destroyed Wang Fu and his household or political circle; the source uses that success as the reason Yang thinks he can continue against [[CaoJieLateHan|曹节]] and [[ZhuYuLateHan|朱瑀]].
+- Hanji 887 adds Wang Fu's earliest direct action in the anti-Dou countercoup.
+- The profile now begins with public accusation and troop persuasion rather than later brokerage and wugu cases.
+- The page clarifies that Wang Fu's eventual destruction did not end the eunuch-side access system.
 
-[[WangFuLateHan|王甫]] was a late-Han eunuch powerholder mentioned in [[zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5|Hanji 918]] as part of the broader eunuch-network background around [[CaoJieLateHan|曹节]].
+## Relationships
 
-The episode uses Wang Fu mainly to situate Cao Jie's power and the anti-eunuch hostility facing the court. His page is source-scoped until later ingests add a fuller Wang Fu branch.
-
-## Connections
-- [[zizhi-tongjian-hanji-898-renzei-zuofu-kelian-zhiren-neng-you-duo-huangtang-lgfup6tyv85zhvnmzf6xlesmblcj|Hanji 898]], [[DongMengLateHan|董萌]], [[CaoJieLateHan|曹节]], [[EmpressDowagerDouMiao|窦皇太后]], [[DouWuLateHan|窦武]], and [[EmpressDowagerDongLateHan|董太后]] - early anti-Dou retaliation through accusation.
-- [[zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr|Hanji 900]], [[CaoJieLateHan|曹节]], [[EmpressDowagerDouMiao|窦皇太后]], [[FengGuirenLateHan|冯贵人]], and [[PredeterminedMeetingProcess|既定结果会议程序]] - pre-meeting funeral-rank and burial-status maneuver.
-- [[zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud|Hanji 901]], [[CaoJieLateHan|曹节]], [[EmpressDowagerDouMiao|窦皇太后]], [[LiXianTaiweiLateHan|李贤]], and [[ChenQiuLateHan|陈球 / 陈求]] - burial-recognition opposition before later accusation branches.
-- [[zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b|Hanji 902]], [[CaoJieLateHan|曹节]], [[LiuMengLateHan|刘猛]], [[DuanJiongLateHan|段熲]], and [[AnonymousRemonstranceSuppression|匿名进谏压制]] - Zhuque Gate accusation and search for the anonymous accuser.
-- [[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom|Hanji 903]], [[LiuKuiBohaiKing|刘亏]], [[BohaiKingdomLateHan|渤海王国]], [[ZhengSaLateHan|郑萨]], [[DongTengLateHan|董腾]], and [[LianZhongLateHan|廉中]] - access brokerage, unpaid debt, forged treason evidence, and collateral purge.
-- [[zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj|Hanji 909]], [[TianYanLateHan|田晏]], [[EmperorLingOfHan|汉灵帝]], [[CaiYong|蔡邕]], and [[OverextendedFrontierExpedition|边境远征过度]] - eunuch-backed expedition lobbying before the failed Xianbei campaign.
-- [[zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g|Hanji 913]], [[EmpressSongLateHan|宋皇后]], [[EmperorLingOfHan|汉灵帝]], and [[WuguPoliticalPanic|巫蛊政治恐慌]] - accusation that turns palace rivalry into lethal action.
-- [[zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus|Hanji 915]], [[WangJiLateHan|王吉]], [[WangMengLateHan|王萌]], [[YangBiao|杨彪]], [[DuanJiongLateHan|段熲]], and [[YangQiuLateHan|阳球]] - pre-destruction family-network exposure, prosecution, and corpse humiliation.
-- [[zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu|Hanji 916]], [[YuGuirenLateHan|于贵人]], [[CaoJieLateHan|曹节]], and [[YangQiuLateHan|阳球]] - roadside corpse humiliation that triggers eunuch regrouping against Yang Qiu.
-- [[zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg|Hanji 917]] and [[YangQiuLateHan|阳球]] — prosecution success that fuels the later anti-Cao Jie attempt.
-- [[CaoJieLateHan]] — nearby eunuch powerholder in the Hanji 918 background.
-- [[TenAttendantsLateHan]] — later eunuch-faction page that benefits from this earlier power-network context.
-- [[CourtFeedbackCollapse]] — broader pattern in which palace channels and eunuch influence distort corrective politics.
+- [[CaoJieLateHan|曹节]] - paired eunuch powerholder in anti-Dou memory, burial resistance, and post-Wang regrouping.
+- [[DouWuLateHan|窦武]] - anti-eunuch opponent whom Wang Fu helps recode as a rebel.
+- [[ChenFanLateHan|陈蕃]] - palace opponent whom Wang Fu orders seized before Chen's death.
+- [[EmpressDowagerDouMiao|窦妙 / 窦皇太后]] - dowager whose status threatens Wang Fu's factional memory.
+- [[LiuKuiBohaiKing|刘亏]] - brokerage client later destroyed through Wang Fu's accusation channel.
+- [[EmpressSongLateHan|宋皇后]] - palace rival destroyed after Wang Fu's wugu accusation.
+- [[YangQiuLateHan|阳球]] - prosecutor whose attack kills Wang Fu and exposes the network's vulnerability.
+- [[PersonalRevengeThroughStatePower|以国力行私仇]] - concept that captures Wang Fu's accusation-as-state-punishment pattern.

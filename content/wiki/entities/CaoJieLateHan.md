@@ -2,54 +2,69 @@
 title: "曹节 / Cao Jie (late Han eunuch)"
 type: entity
 tags: [person, eunuch, late-han, court, china]
-sources: [zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr, zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud, zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b, zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a, zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus, zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu, zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg, zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5, zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic]
-last_updated: 2026-08-26
+sources:
+  - zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr
+  - zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud
+  - zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b
+  - zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a
+  - zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus
+  - zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu
+  - zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg
+  - zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5
+  - zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic
+  - zizhi-tongjian-hanji-887-dang-zhuduizhang-pengshang-zhuduiyou-jieguo-taican-lvyh9a-kvsdqaokmylgg139bvhfk
+last_updated: 2026-08-27
+knowledge_schema: synthesis-v1
 ---
 
-# 曹节 / Cao Jie (late Han eunuch)
+## Overview
 
-[[zizhi-tongjian-hanji-898-renzei-zuofu-kelian-zhiren-neng-you-duo-huangtang-lgfup6tyv85zhvnmzf6xlesmblcj|Hanji 898]] backfills Cao Jie's anti-Dou grievance before the Hanji 900 funeral and Hanji 901 burial-debate branches. When [[DongMengLateHan|董萌]] speaks for [[EmpressDowagerDouMiao|窦皇太后]] and [[EmperorLingOfHan|汉灵帝]] increases her support, Cao Jie and [[WangFuLateHan|王甫]] resent the reminder of [[DouWuLateHan|窦武]]'s earlier attempt to remove them and accuse Dong Meng of slandering [[EmpressDowagerDongLateHan|董太后]], leading to Dong Meng's death.
+曹节 / Cao Jie is a senior late-Han eunuch whose current wiki profile runs from the 168 CE anti-[[DouWuLateHan|窦武]] counteraction to later document access, title privilege, regrouping, and succession through [[ZhaoZhongLateHan|赵忠]]. [[zizhi-tongjian-hanji-887-dang-zhuduizhang-pengshang-zhuduiyou-jieguo-taican-lvyh9a-kvsdqaokmylgg139bvhfk|Hanji 887]] now supplies the earliest direct crisis layer: Cao Jie and the eunuch side exploit the information gap, forged authority, and military coordination that overturn Dou Wu and [[ChenFanLateHan|陈蕃]].
 
-[[zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr|Hanji 900]] backfills Cao Jie before the Hanji 901 burial debate. After [[EmpressDowagerDouMiao|窦皇太后]] dies, Cao Jie and [[WangFuLateHan|王甫]] first try to handle her funeral at guiren status, then prefer burying her elsewhere and moving [[FengGuirenLateHan|冯贵人]] toward [[EmperorHuanOfHan|汉桓帝]]'s tomb. The source presents this as defensive eunuch politics rooted in old grievance around the Dou family, before the next episode shows [[ChenQiuLateHan|陈球 / 陈求]] and [[LiXianTaiweiLateHan|李贤]] forcing the issue in formal meeting.
+## Current Profile
 
-[[zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud|Hanji 901]] backfills Cao Jie before the Zhuque Gate accusation in Hanji 902. He and [[WangFuLateHan|王甫]] oppose burying [[EmpressDowagerDouMiao|窦皇太后]] with [[EmperorHuanOfHan|汉桓帝]], using prior consort precedents and Dou-family guilt to resist her full posthumous recognition.
+Cao Jie's profile is best read as palace access converted into durable political leverage. In Hanji 887, the eunuch side does not merely defend itself rhetorically; it uses forged imperial authority, Zhang Huan's uninformed return, Zhou Jing's temporary command, and Wang Fu's battlefield messaging to turn Dou Wu's formal position into isolation. That origin makes later anti-Dou and anti-Chen memory politically charged rather than abstract.
 
-The source reads that opposition as self-protection. If Dou receives formal honor, the older eunuch-side defeat of [[DouWuLateHan|窦武]] and [[ChenFanLateHan|陈蕃]] becomes harder to treat as settled political necessity, so Cao Jie's page gains an early [[ImperialBurialLegitimacy|burial-legitimacy]] branch before his later memorial leaks, regrouping, and anti-eunuch conflict.
+The later sources show Cao Jie repeatedly operating through access and interpretation. He resists [[EmpressDowagerDouMiao|窦妙 / 窦皇太后]]'s posthumous recognition because it would reopen Dou Wu and Chen Fan's grievance. He appears in an anonymous Zhuque Gate accusation with [[WangFuLateHan|王甫]], leaks [[CaiYong|蔡邕]]'s confidential memorial, recovers influence after Wang Fu's corpse humiliation, gains shangshu ling access, is criticized by [[LyuQiangLateHan|吕强]] for title privilege, survives [[YangQiuLateHan|阳球]]'s anti-eunuch plot after household leakage, and then dies in 181 CE with Zhao Zhong inheriting the favorite channel rather than the system ending.
 
-[[zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b|Hanji 902]] adds Cao Jie's earliest wiki layer before the confidential-memorial and anti-eunuch prosecution branches. An anonymous Zhuque Gate posting names [[CaoJieLateHan|曹节]] with [[WangFuLateHan|王甫]] in an accusation about palace abuse and murdered or confined imperial-family power. [[EmperorLingOfHan|汉灵帝]]'s response targets the anonymous speaker, while Cao Jie and allies later use [[DuanJiongLateHan|段熲]] to punish [[LiuMengLateHan|刘猛]], making Cao Jie part of [[AnonymousRemonstranceSuppression|anonymous remonstrance suppression]] before he appears as a direct memorial leaker.
+## Key Characteristics
 
-[[zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a|Hanji 912]] later adds Cao Jie's confidential access case before the anti-eunuch conflicts. After [[CaiYong|蔡邕]] submits a confidential omen memorial to [[EmperorLingOfHan|汉灵帝]], Cao Jie notices the emperor's reaction, reads the memorial while Ling leaves to change clothes, and leaks it to the criticized network. The episode makes him an anchor for [[ConfidentialRemonstranceLeakage|密奏泄露风险]] and a precursor to later [[PalaceAccessMonopoly|宫廷接触垄断]] cases.
+- Cao Jie is presented as a direct beneficiary and likely organizer of the 168 CE counteraction against Dou Wu and Chen Fan.
+- His power depends on palace access, document visibility, and the ability to turn events into ruler-facing interpretations.
+- He defends eunuch-side memory by resisting actions that would make Dou Wu, Chen Fan, or Dou Miao publicly honorable.
+- His network is resilient: accusation, punishment, corpse humiliation, and remonstrance pressure do not remove the broader eunuch channel.
+- He becomes a recurring target for officials who read eunuch privilege as a source of court failure, but those attacks often expose the attackers first.
+- His death functions as a succession point inside eunuch power, with Zhao Zhong carrying forward the favorite channel.
 
-[[zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus|Hanji 915]] places Cao Jie at a pre-Hanji-916 power peak beside [[WangFuLateHan|王甫]]. Their relatives and retainers are described as occupying offices and extracting public wealth, while [[YangQiuLateHan|阳球]]'s first strike destroys Wang Fu and [[DuanJiongLateHan|段熲]] but only foreshadows Cao Jie as the stronger next target.
+## Evidence
 
-The source therefore adds a setup layer to Cao Jie's rebound. Yang Qiu thinks killing Wang Fu proves he can continue against Cao Jie, but the host frames Cao Jie's relationship with [[EmperorLingOfHan|汉灵帝]] as deeper than Yang Qiu understands.
+- Countercoup mechanics: [[zizhi-tongjian-hanji-887-dang-zhuduizhang-pengshang-zhuduiyou-jieguo-taican-lvyh9a-kvsdqaokmylgg139bvhfk|Hanji 887]] says Cao Jie and the eunuch side use information asymmetry, forged orders, Zhang Huan's return, and troop coordination to reverse Dou Wu's position.
+- Anti-Dou memory defense: [[zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr|Hanji 900]] and [[zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud|Hanji 901]] show Cao Jie opposing Dou Miao's full funeral and burial recognition with Wang Fu.
+- Accusation and speech control: [[zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b|Hanji 902]] places Cao Jie in the Zhuque Gate accusation and the search for the anonymous speaker.
+- Confidential access: [[zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a|Hanji 912]] says Cao Jie reads and leaks Cai Yong's confidential memorial after watching Emperor Ling's reaction.
+- Power peak and rebound: [[zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus|Hanji 915]] places Cao Jie beside Wang Fu at a pre-destruction eunuch-power peak, while [[zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu|Hanji 916]] shows him using Wang Fu's public corpse humiliation to regroup the eunuch side and regain access.
+- Title and privilege criticism: [[zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg|Hanji 917]] names Cao Jie in Lyu Qiang's critique of no-merit marquisates and family privilege.
+- Plot survival and succession: [[zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5|Hanji 918]] makes Cao Jie the target and beneficiary of a leaked anti-eunuch plot, while [[zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic|Hanji 921]] records his death and Zhao Zhong's succession.
 
-[[zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu|Hanji 916]] backfills Cao Jie's recovery before the Lyu Qiang and Liu He branches. During [[YuGuirenLateHan|于贵人]]'s funeral procession, he sees [[WangFuLateHan|王甫]]'s mutilated corpse abandoned by the road and turns the scene into an argument that palace eunuchs must regroup rather than scatter home.
+## Qualifications
 
-The episode shows Cao Jie converting visible humiliation into access politics. He leads other zhongchangshi to [[EmperorLingOfHan|汉灵帝]], argues that [[YangQiuLateHan|阳球]] is too brutal to remain sili xiaowei, and soon gains shangshu ling power through [[ShangshuTaiImperialAccess|尚书台近侍权力]]. This makes the later Hanji 917-918 anti-Cao Jie escalation a rebound after Cao Jie has already retaken the inner-court channel.
+- The 168 CE source names Cao Jie as part of the eunuch-side action field; it does not separately reconstruct every decision he personally made inside that counteraction.
+- This page preserves Cao Jie's agency without making him the only cause of late-Han eunuch politics. Wang Fu, Zhao Zhong, Zhu Yu, Zhang Rang, Cheng Huang, and other actors carry adjacent branches.
+- Some older body material cited Hanji 898, but the page's canonical source inventory did not include that note; this structured rewrite uses the preserved frontmatter inventory plus the newly ingested Hanji 887 source.
 
-[[zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg|Hanji 917]] backfills Cao Jie as one of the eunuch favorites named in [[LyuQiangLateHan|吕强]]'s refused-title remonstrance. The episode normalizes the transcript's 曹杰/曹洁 to Cao Jie and makes him part of the marquisate and family-privilege problem that Lyu Qiang says violates the no-merit-no-marquis standard.
+## What Changed
 
-The closing hook also makes Cao Jie the next target after [[YangQiuLateHan|阳球]]'s destruction of [[WangFuLateHan|王甫]]. Cao Jie's survival depends on his closeness to [[EmperorLingOfHan|汉灵帝]], setting up Hanji 918's leaked anti-Cao Jie plot.
+- Hanji 887 moves Cao Jie's profile earlier, from later burial/document/plot branches back to the 168 CE countercoup itself.
+- The page now synthesizes Cao Jie as an access-and-interpretation actor across forged orders, memorial leakage, regrouping, and plot exposure.
+- The Dong/Dou memory branch is retained through Hanji 900, 901, and 921 rather than through source-by-source append prose.
 
-[[zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5|Hanji 918]] backfills Cao Jie before the 181 CE death-and-succession branch. The episode makes him the target of [[LiuHeSituLateHan|刘郃]], [[ChenQiuLateHan|陈球]], [[LiuNaLateHan|刘纳]], and [[YangQiuLateHan|阳球]]'s anti-eunuch plot, and the beneficiary when the plan leaks through [[ChengHuangLateHan|程璜]].
+## Relationships
 
-This earlier layer changes the Cao Jie page from a death marker into a surveillance-power case. Cao Jie survives because the opposing plan is exposed before execution, then converts the information into an accusation that reaches [[EmperorLingOfHan|汉灵帝]], making him an early anchor for [[LethalPlanLeakageRisk|致命计划泄露风险]].
-
-曹节 / Cao Jie enters the wiki through [[zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic|Hanji 921]] as the late-Han eunuch and Huarong marquis whose death in 181 CE opens the route for [[ZhaoZhongLateHan|赵忠]] to act as dachangqiu. The source presents him as an experienced palace figure who served across five reigns, but its emphasis is negative: he is remembered for harming loyal officials and helping entrench eunuch power.
-
-The episode pairs Cao Jie with the older grievance against [[ChenFanLateHan|陈蕃]] and [[DouWuLateHan|窦武]]. That makes him more than a succession vacancy. His death is a handoff point inside the palace-favorite channel, where one generation's anti-eunuch wounds become the background for Zhao Zhong's later greed, arrogance, and access to [[EmperorLingOfHan|汉灵帝]].
-
-## Connections
-- [[zizhi-tongjian-hanji-898-renzei-zuofu-kelian-zhiren-neng-you-duo-huangtang-lgfup6tyv85zhvnmzf6xlesmblcj|Hanji 898]], [[DongMengLateHan|董萌]], [[WangFuLateHan|王甫]], [[EmpressDowagerDouMiao|窦皇太后]], [[DouWuLateHan|窦武]], and [[EmpressDowagerDongLateHan|董太后]] - pro-Dou speech recoded into fatal accusation.
-- [[zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr|Hanji 900]], [[WangFuLateHan|王甫]], [[EmpressDowagerDouMiao|窦皇太后]], [[FengGuirenLateHan|冯贵人]], and [[PredeterminedMeetingProcess|既定结果会议程序]] - funeral-rank dispute and meeting prelude.
-- [[zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud|Hanji 901]], [[WangFuLateHan|王甫]], [[EmpressDowagerDouMiao|窦皇太后]], [[EmperorHuanOfHan|汉桓帝]], and [[ImperialBurialLegitimacy|帝后合葬名分]] - early opposition to Dou's burial recognition.
-- [[zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b|Hanji 902]], [[WangFuLateHan|王甫]], [[LiuMengLateHan|刘猛]], [[DuanJiongLateHan|段熲]], [[EmperorLingOfHan|汉灵帝]], and [[AnonymousRemonstranceSuppression|匿名进谏压制]] - Zhuque Gate accusation and pursuit of the anonymous speaker.
-- [[zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a|Hanji 912]], [[CaiYong|蔡邕]], [[EmperorLingOfHan|汉灵帝]], [[ConfidentialRemonstranceLeakage|密奏泄露风险]], and [[PalaceAccessMonopoly|宫廷接触垄断]] - secret memorial access, leak, and retaliation setup.
-- [[zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus|Hanji 915]], [[WangFuLateHan|王甫]], [[YangQiuLateHan|阳球]], and [[DuanJiongLateHan|段熲]] - pre-destruction power peak and Yang Qiu's next-target setup.
-- [[zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu|Hanji 916]], [[YuGuirenLateHan|于贵人]], [[WangFuLateHan|王甫]], [[YangQiuLateHan|阳球]], and [[ShangshuTaiImperialAccess|尚书台近侍权力]] - funeral-triggered regrouping, Yang Qiu transfer, and shangshu ling access recovery.
-- [[zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg|Hanji 917]], [[LyuQiangLateHan|吕强]], [[ZhuYuLateHan|朱瑀]], [[YangQiuLateHan|阳球]], and [[WangFuLateHan|王甫]] - merit-title criticism and next-target setup before the plot leak.
-- [[zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5|Hanji 918]], [[LiuHeSituLateHan|刘郃]], [[YangQiuLateHan|阳球]], [[ChengHuangLateHan|程璜]], and [[EmperorLingOfHan|汉灵帝]] - pre-181 plot target and exposure beneficiary.
-- [[zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic|Hanji 921]], [[EmperorLingOfHan|汉灵帝]], and [[ZhaoZhongLateHan|赵忠]] - source case and office succession.
-- [[ChenFanLateHan|陈蕃]] and [[DouWuLateHan|窦武]] - older officials whom the source names as victims of Cao Jie's eunuch-side politics.
-- [[TenAttendantsLateHan|十常侍]], [[PalaceAccessMonopoly|宫廷接触垄断]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - wider late-Han eunuch-power setting.
+- [[WangFuLateHan|王甫]] - closest paired eunuch actor in anti-Dou memory, accusation, and later power-network exposure.
+- [[DouWuLateHan|窦武]] and [[ChenFanLateHan|陈蕃]] - defeated anti-eunuch figures whose memory threatens Cao Jie's factional legitimacy.
+- [[EmpressDowagerDouMiao|窦妙 / 窦皇太后]] - dowager whose burial status reopens the Dou/Chen grievance field.
+- [[ZhangHuanLateHan|张奂]] - military figure used by the eunuch side and later morally troubled by the result.
+- [[CaiYong|蔡邕]] - confidential memorial writer whose criticism is exposed through Cao Jie's access.
+- [[LyuQiangLateHan|吕强]] and [[YangQiuLateHan|阳球]] - officials whose anti-eunuch moves make Cao Jie a target.
+- [[ZhaoZhongLateHan|赵忠]] - successor in the favorite channel after Cao Jie's death.
+- [[PalaceAccessMonopoly|宫廷接触垄断]] - core mechanism behind Cao Jie's recurring power.

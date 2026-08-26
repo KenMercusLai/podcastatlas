@@ -12187,6 +12187,7 @@ Added source page for Hanji 1034: Yuan Shao's pre-Guandu council, Ju Shou's rest
 
 Ran lint. See lint-report.md for details.
 
+
 ## [2026-08-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -12306,6 +12307,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》888丨乱世之中，致敬不怕死的人
 
 Added source page for Hanji 888: the 168 CE aftermath of the failed Dou Wu / Chen Fan anti-eunuch crisis, Ba Su's refusal to flee, Zhu Zhen's burial of Chen Fan and protection of Chen Yi, Hu Teng's burial of Dou Wu and protection of Dou Wu's young grandson, and eunuch-side rewards to Cao Jie, Wang Fu, Zhu Yu, and others. Created Ba Su, Zhu Zhen, Hu Teng, and Death-Facing Responsibility; updated Moral Desert Political Outcome Gap. No settled contradiction found; broad奸臣 outcome claims remain source-scoped and minor reward/helper names remain uncanonical pending stronger evidence.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-27] ingest | 《资治通鉴·汉纪》887丨当猪队长碰上猪队友，结果太惨！
+
+Added source page for Hanji 887: the failed 168 CE Dou Wu / Chen Fan anti-eunuch coup, Chen Fan's palace intervention and death, eunuch-side forged authority and troop reversal through Zhang Huan's uninformed force, Dou Wu's suicide, Dou Miao's confinement, and the widened purge of kin, followers, students, old subordinates, and recommended officials. Updated Dou Wu, Chen Fan, Zhang Huan, Cao Jie, Wang Fu, Empress Dowager Dou Miao, Zero-Sum Conflict Hesitation Risk, Lethal Plan Leakage Risk, and Party Prohibition Kinship Expansion to synthesis-v1/current synthesis. No settled contradiction found; minor names remain source-scoped pending stronger disambiguation.
 
 ## [2026-08-27] lint | Wiki health check
 

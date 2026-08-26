@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "af8e2a6837f0f62b6f60a5863290b6bfbe580b2a3f833a4c9b6b5c602c6f2887",
       "1ad7431c99f52a29eda8564fe41459d5e490f67c51b8bfed0930dd3466829694",
       "88ce2ea88a6e9a16ef04955c5d053701092faea15d22a816d725940c424558ca",
       "eb1ac9cf89cf337a5ff0121af84ace8643a6544a45a9cc56bbedb3670589ef7a",
@@ -276,11 +277,38 @@
       "ed252faccaaf1dc4e8c654d3406a6a1a0fc3a6f6fe78821348d1b123c7e85a5c",
       "32b62a0e1fc3144c5e7770721fc745607afef0d0cf46a8fe94d35cab377dbbf9"
     ],
-    "paragraph_count": 274
+    "paragraph_count": 275
   },
-  "overview_commit": "55f83fc7b324c6b1a3c3e307f80ec916f59afbe5",
-  "overview_digest": "3111fd4fccc1e1f81cb04bec1a86d60421f03bb09e6744db7a4539c8126cb9ea",
+  "overview_commit": "59610390ffb993dc7f627a8cdbba57f6e70df6ae",
+  "overview_digest": "690b3ee566b34d6486f41febac521a14f8b30ac8985032185ddbd0fc1c3ddc62",
   "paragraphs": [
+    {
+      "id": "af8e2a6837f0f62b6f60a5863290b6bfbe580b2a3f833a4c9b6b5c602c6f2887",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-887-dang-zhuduizhang-pengshang-zhuduiyou-jieguo-taican-lvyh9a-kvsdqaokmylgg139bvhfk|《资治通鉴·汉纪》887丨当猪队长碰上猪队友，结果太惨！]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the failed 168 CE [[DouWuLateHan|窦武]] / [[ChenFanLateHan|陈蕃]] anti-eunuch coup before [[zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq|Hanji 888]] and [[zizhi-tongjian-hanji-889-weishenme-haoren-bu-changming-huohai-yi-qiannian-lt-g7qgkcf-fhy3xccecjagwqhku|Hanji 889]]. It extends [[EmpressDowagerDouMiao|窦妙]], [[CaoJieLateHan|曹节]], [[WangFuLateHan|王甫]], [[ZhangHuanLateHan|张奂]], [[LethalPlanLeakageRisk|致命计划泄露风险]], [[ZeroSumConflictHesitationRisk|死斗局优柔寡断风险]], and [[PartyProhibitionKinshipExpansion|党锢亲属牵连扩大]]. Its core synthesis is that the Dou/Chen disaster begins before the moral-aftermath pages: hesitation, poor secrecy, palace access, forged authority, and troop-message control let the eunuch side turn reform intent into alleged rebellion and then expand punishment through family and affiliation networks. No settled contradiction is recorded; minor names remain source-scoped pending disambiguation.",
+      "topic_scores": {
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "CaoJieLateHan",
+        "ChenFanLateHan",
+        "DouWuLateHan",
+        "EmpressDowagerDouMiao",
+        "LethalPlanLeakageRisk",
+        "PartyProhibitionKinshipExpansion",
+        "RuiqiJiangtouZizhiTongjian",
+        "WangFuLateHan",
+        "ZeroSumConflictHesitationRisk",
+        "ZhangHuanLateHan",
+        "zizhi-tongjian-hanji-887-dang-zhuduizhang-pengshang-zhuduiyou-jieguo-taican-lvyh9a-kvsdqaokmylgg139bvhfk",
+        "zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq",
+        "zizhi-tongjian-hanji-889-weishenme-haoren-bu-changming-huohai-yi-qiannian-lt-g7qgkcf-fhy3xccecjagwqhku"
+      ]
+    },
     {
       "id": "1ad7431c99f52a29eda8564fe41459d5e490f67c51b8bfed0930dd3466829694",
       "primary_topic": "governance-and-institutions",
