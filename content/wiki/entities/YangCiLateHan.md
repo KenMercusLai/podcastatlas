@@ -2,11 +2,13 @@
 title: "杨赐 / Yang Ci (late Han)"
 type: entity
 tags: [person, late-han, official, china]
-sources: [zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79, zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a, zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5, zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade, zizhi-tongjian-hanji-920-mingwu-zhege-daoli-caineng-zhuan-daqian-lqmabg3bpyz6ct2v4arx-iun57ws, zizhi-tongjian-hanji-923-chengnianrende-dingji-henjin-guzi-lide-juejue-lifzh-gohpqnmdznnfv72tndqf8h, zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4, zizhi-tongjian-hanji-931-rensheng-jiannan-chu-bianshi-xiuxin-shi-lpzmvxop8lmlwvxhoojzj5ok9qd6]
+sources: [zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2, zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79, zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a, zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5, zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade, zizhi-tongjian-hanji-920-mingwu-zhege-daoli-caineng-zhuan-daqian-lqmabg3bpyz6ct2v4arx-iun57ws, zizhi-tongjian-hanji-923-chengnianrende-dingji-henjin-guzi-lide-juejue-lifzh-gohpqnmdznnfv72tndqf8h, zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4, zizhi-tongjian-hanji-931-rensheng-jiannan-chu-bianshi-xiuxin-shi-lpzmvxop8lmlwvxhoojzj5ok9qd6]
 last_updated: 2026-08-26
 ---
 
 # 杨赐 / Yang Ci (late Han)
+
+[[zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2|Hanji 904]] gives Yang Ci an earlier 173 CE office-churn marker before his later situ, omen, garden, and Yellow Turban warning branches. The episode appoints him sikong after Zong Ju dies in an epidemic, then removes him after the Beihai earthquake, making Yang Ci part of [[NaturalDisasterPoliticalOmen|自然灾害政治征兆]] and senior-office accountability before the better-developed 178-184 material.
 
 [[zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79|Hanji 907]] adds Yang Ci's earliest office marker in this late-Han run. After [[YuanWeiLateHan|袁隗]] is removed as situ in late 176, Yang Ci is appointed to the office, placing him in senior court before his later omen remonstrance, garden remonstrance, and Yellow Turban warnings.
 
@@ -33,6 +35,7 @@ The episode therefore makes Yang Ci a case of warning that fails first as court 
 The episode gives Yang Ci a narrow but important function. Alongside [[HeJin|何进]] and [[YuanWeiLateHan|袁隗]], he helps rescue Wang Yun from the death edge, making Wang Yun's early [[MoralReputationPoliticalCapital|道德名望政治资本]] visible before the later Dong Zhuo branch.
 
 ## Connections
+- [[zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2|Hanji 904]], [[TangZhenLateHan|唐珍]], [[EmperorLingOfHan|汉灵帝]], and [[NaturalDisasterPoliticalOmen|自然灾害政治征兆]] - 173 CE sikong appointment and removal in epidemic/earthquake office churn.
 - [[zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79|Hanji 907]], [[YuanWeiLateHan|袁隗]], and [[EmperorLingOfHan|汉灵帝]] - 176 CE appointment as situ before later remonstrance branches.
 - [[zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a|Hanji 912]], [[EmperorLingOfHan|汉灵帝]], [[HongduMenxue|鸿都门学]], [[CelestialOmenPoliticalResponsibility|天象政治责任]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - 178 CE omen remonstrance against harem/eunuch, literary-favor, appointment, and extravagance disorder.
 - [[zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5|Hanji 918]], [[LiuHeSituLateHan|刘郃]], [[CaoJieLateHan|曹节]], and [[EmperorLingOfHan|汉灵帝]] - appointment as situ after the failed anti-eunuch plot.

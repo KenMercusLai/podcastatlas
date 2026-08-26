@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 7666
+wiki_total_pages: 7669
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1457,6 +1457,9 @@ wiki_pages:
   - key: "SimaCuo"
     title: "司马错 / Sima Cuo"
     url: "/wiki/entities/simacuo/"
+  - key: "SimaFangLateHan"
+    title: "司马防 / Sima Fang (late Han)"
+    url: "/wiki/entities/simafanglatehan/"
   - key: "ShangyeJiushiZheyang"
     title: "商业就是这样"
     url: "/wiki/entities/shangyejiushizheyang/"

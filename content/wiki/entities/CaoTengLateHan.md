@@ -2,11 +2,13 @@
 title: "曹腾 / Cao Teng (late Han)"
 type: entity
 tags: [person, eunuch, late-han, cao-family]
-sources: [zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc]
-last_updated: 2026-08-25
+sources: [zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2, zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc]
+last_updated: 2026-08-26
 ---
 
 # 曹腾 / Cao Teng (late Han)
+
+[[zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2|Hanji 904]] adds the earlier career-entry use of Cao Teng before the fuller reputation branch. The episode says Cao Teng adopted [[CaoSong|曹嵩]], making Cao Teng the eunuch-line ancestor through whom nineteen-year-old [[CaoCao|曹操]] can be recommended as Xiaolian and brought into court service.
 
 曹腾 / Cao Teng (late Han) enters the wiki through [[zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc|Hanji 926]] as the eunuch ancestor whose adoption of [[CaoSong|曹嵩]] shapes [[CaoCao|曹操]]'s early reputation problem. The source does not build a full Cao Teng biography; it uses him to explain why Cao Cao was tagged as coming from a eunuch-connected family.
 
@@ -15,6 +17,7 @@ This matters because the episode argues that late-Han士人 reputation was diffi
 ## Connections
 
 - [[zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc|Hanji 926]] - source context.
+- [[zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2|Hanji 904]] - earlier Xiaolian and first-entry setup.
 - [[CaoSong|曹嵩]] - adopted son whose status links the Cao family to Cao Teng.
 - [[CaoCao|曹操]] - grandson-line figure who inherits the eunuch-family reputation problem.
 - [[JianShuoLateHan|蹇硕]] - later eunuch-cluster reference point for Cao Cao's anti-eunuch signaling.

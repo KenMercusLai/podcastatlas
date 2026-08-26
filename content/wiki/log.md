@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-26] ingest | 《资治通鉴·汉纪》904丨觉照内观：获得心灵大自由的秘诀
+
+Added source page for Hanji 904: early-rising sitting meditation and 觉照内观, 173-174 CE epidemic/earthquake/eclipse and Three Excellencies churn, Tang Heng/Tang Zhen eunuch-family office networks, and Cao Cao's nineteen-year-old Xiaolian/langguan entry through Cao Teng/Cao Song, Qiao Xuan, Xu Shao, and Sima Fang. Created Sima Fang, Tang Heng, and Tang Zhen pages; updated connected late-Han actor, appointment, omen, office-churn, reputation, and meditative-practice pages. No settled contradiction found; breath/yangqi claims and "阉三代" are kept source-scoped.
+
 ## [2026-08-25] ingest | AI loves negative parallelism
 
 Added source page for a Marketplace Tech episode with Will Oremus on negative parallelism as an AI-writing tell, Pangram's frequency comparison, evolving AI style tells, Claude watermarking, and synthetic-data feedback loops. Created Negative Parallelism; updated Will Oremus, Pangram, The Atlantic, Marketplace Tech, AI Writing Detection, and Model Collapse. No direct contradiction found; the source's next-word-prediction explanation and style-contagion concern are kept source-scoped.
@@ -11889,6 +11893,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》905丨富贵如何险中求？
 
 Added source page for Hanji 905: Sun Jian's 174 CE role in suppressing Xu Sheng, the youth-bandit story and source-scoped "富贵险中求" risk-opportunity frame, Zang Min's Yangzhou branch, Xianbei pressure, Emperor Ling and Cai Yong's Xiping Stone Classics project at Taixue, and Zhou Yu's 175 CE birth marker. Created Xu Sheng, Crisis Opportunity Conversion, and Xiping Stone Classics; updated linked late-Han entity and concept pages. No settled contradiction found; "藏民" is normalized to Zang Min, Danyang-name uncertainty remains source-scoped, and Sun-family ancestral-cloud material is treated as legendary coloration.
+
+## [2026-08-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-26] lint | Wiki health check
 

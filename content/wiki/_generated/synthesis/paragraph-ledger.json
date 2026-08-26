@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "e47d1d5203e78026f14f4a86bcbd1066d57a54949b99fadad0960ed8b889fc7d",
       "a1716c3e63a84c7da824cdab200702525dd2cb4ee0321f1394555522d1fde71c",
       "d5b87245157f3b8c8f793da419acd28d1cd7fb95a5d0240ae8fb34b34d4a0b2a",
       "1f363b6361a3c2630becb8d3c3217d09fc0aa72caf14eec9e7251aca024432c2",
@@ -236,11 +237,51 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "b16a38bd6e190222f7f3e6f0535803ce60ae7f3304e3477dfcdd995a15fb502f"
     ],
-    "paragraph_count": 234
+    "paragraph_count": 235
   },
-  "overview_commit": "518e730c901b7e820c2be94d11cb01832a20b36e",
-  "overview_digest": "92da7b04ce4ba7c05d75e6428fb51eb9a605565863a09aa9343e8ecd1553953d",
+  "overview_commit": "9562a68c35d3475b6bbfce9c51fd6777a0d29946",
+  "overview_digest": "1b4db3f3bfd93f865db971e9032113f533c5cec805823d28c12653c3b0429061",
   "paragraphs": [
+    {
+      "id": "e47d1d5203e78026f14f4a86bcbd1066d57a54949b99fadad0960ed8b889fc7d",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2|《资治通鉴·汉纪》904丨觉照内观：获得心灵大自由的秘诀]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 173-174 CE late-Han layer before [[zizhi-tongjian-hanji-905-fugui-ruhe-xianzhong-qiu-lklxx5nquka2mtbllxivk0a7b-fu|Hanji 905]]. It adds [[SimaFangLateHan|司马防]], [[TangHengLateHan|唐衡]], and [[TangZhenLateHan|唐珍]], while extending [[CaoCao|曹操]], [[CaoTengLateHan|曹腾]], [[CaoSong|曹嵩]], [[QiaoXuanLateHan|桥玄]], [[XuShao|许劭]], [[EmperorLingOfHan|汉灵帝]], [[YangCiLateHan|杨赐]], [[ChenDanLateHan|陈耽]], [[DuanJiongLateHan|段熲]], [[Xianbei|鲜卑]], [[MeditativeStabilityPractice|定力修行框架]], [[NaturalDisasterPoliticalOmen|自然灾害政治征兆]], [[CelestialOmenPoliticalResponsibility|天象政治责任]], [[CourtOfficeCapture|朝廷开府任官失序]], [[OfficialSelectionChannelCompetition|选官通道竞争]], [[EliteEndorsementReputationMaking|名士背书式造势]], [[PandemicAsHistoricalForce|Pandemic As Historical Force]], and [[PrivateAccessTalentChannel|私人进身通道]]. Its core synthesis is that late-Han disorder and Cao Cao's first career step are both access-channel stories: the court answers epidemic, earthquake, eclipse, and frontier pressure with amnesty and Three Excellencies churn, while Cao Cao enters office through eunuch-family resources, reputation certification, and Sima Fang's appointment judgment. No settled contradiction is recorded; the breath/yangqi practice claims and \"阉三代\" label remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 2,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "CaoCao",
+        "CaoSong",
+        "CaoTengLateHan",
+        "CelestialOmenPoliticalResponsibility",
+        "ChenDanLateHan",
+        "CourtOfficeCapture",
+        "DuanJiongLateHan",
+        "EliteEndorsementReputationMaking",
+        "EmperorLingOfHan",
+        "MeditativeStabilityPractice",
+        "NaturalDisasterPoliticalOmen",
+        "OfficialSelectionChannelCompetition",
+        "PandemicAsHistoricalForce",
+        "PrivateAccessTalentChannel",
+        "QiaoXuanLateHan",
+        "RuiqiJiangtouZizhiTongjian",
+        "SimaFangLateHan",
+        "TangHengLateHan",
+        "TangZhenLateHan",
+        "Xianbei",
+        "XuShao",
+        "YangCiLateHan",
+        "zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2",
+        "zizhi-tongjian-hanji-905-fugui-ruhe-xianzhong-qiu-lklxx5nquka2mtbllxivk0a7b-fu"
+      ]
+    },
     {
       "id": "a1716c3e63a84c7da824cdab200702525dd2cb4ee0321f1394555522d1fde71c",
       "primary_topic": "governance-and-institutions",

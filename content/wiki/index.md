@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》904丨觉照内观：获得心灵大自由的秘诀](sources/zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2.md) — 芮淇讲透资治通鉴 episode on early-rising meditation and 觉照内观, 173-174 CE late-Han disaster/omen office churn, Tang Heng/Tang Zhen eunuch-family appointment networks, and Cao Cao's nineteen-year-old entry through Xiaolian, Qiao Xuan, Xu Shao, and Sima Fang.
 - [《资治通鉴·汉纪》905丨富贵如何险中求？](sources/zizhi-tongjian-hanji-905-fugui-ruhe-xianzhong-qiu-lklxx5nquka2mtbllxivk0a7b-fu.md) — 芮淇讲透资治通鉴 episode on Sun Jian's 174 CE role suppressing Xu Sheng, risk as career opportunity, Xianbei pressure, Emperor Ling and Cai Yong's Xiping Stone Classics project at Taixue, and Zhou Yu's 175 CE birth marker.
 - [《资治通鉴·汉纪》906丨厉害的人，为什么享受冲突？](sources/zizhi-tongjian-hanji-906-lihai-de-ren-weishenme-xiangshou-chongtu-lvc3wedrifdzdu-yv1qhocl8uss2.md) — 芮淇讲透资治通鉴 episode on conflict as source-scoped boundary practice, Cai Yong's 175 CE memorial against the 三互法 appointment bottleneck, vacant Youzhou/Jizhou inspector posts, and Sima Guang's rule-proliferation critique.
 - [《资治通鉴·汉纪》907丨所有的病都是你的心病](sources/zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79.md) — 芮淇讲透资治通鉴 episode on Cao Luan's 176 CE party-figure memorial, Emperor Ling's lethal response and five-degree kinship expansion of party prohibition, early Liu Bei/Gongsun Zan study under Lu Zhi, Xianbei pressure, false Xuanling filial sons, and source-scoped "心病" self-cultivation.
@@ -1617,6 +1618,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Alberta Machine Intelligence Institute](entities/AlbertaMachineIntelligenceInstitute.md) — AI institute co-founded by Jonathan Schaeffer, linked by EP47 to Canadian AI research and sovereignty context.
 - [桥玄 / Qiao Xuan (late Han)](entities/QiaoXuanLateHan.md) — Senior late-Han official whose endorsement and Xu Shao referral help Cao Cao convert elite recognition into reputation.
 - [曹腾 / Cao Teng (late Han)](entities/CaoTengLateHan.md) — Eunuch adoptive grandfather in Cao Cao's family background, anchoring the label Cao Cao tries to offset through anti-eunuch signaling.
+- [司马防 / Sima Fang (late Han)](entities/SimaFangLateHan.md) — Late-Han official who recommends nineteen-year-old Cao Cao for Luoyang north commandant after the Qiao Xuan/Xu Shao reputation step.
+- [唐衡 / Tang Heng (late Han)](entities/TangHengLateHan.md) — Eunuch whose family network explains Tang Zhen's sikong appointment and links late-Han office access to eunuch-linked marriage and patronage.
+- [唐珍 / Tang Zhen (late Han)](entities/TangZhenLateHan.md) — Tang Heng's younger brother, appointed sikong in Hanji 904 amid disaster-driven senior-office churn.
 - [贾从 / Jia Cong (late Han)](entities/JiaCongLateHan.md) — Late-Han official who pacifies Jiaozhi by investigating extraction, relieving burdens, reassuring displaced people, and appointing clean local officials.
 - [交趾郡 / Jiaozhi Commandery](entities/JiaozhiCommandery.md) — Southern commandery in today's northern Vietnam/Red River region, source case for the 181 Wuhu Man/Liang Long rebellion, Zhu Jun's rapid suppression, and later Jia Cong root-cause pacification.
 - [乌浒蛮 / Wuhu Man (Jiaozhi)](entities/WuhuManJiaozhi.md) — Southern frontier rebel group whose Hanji 910 outbreak in JiuZhen/Rinan becomes the long-running branch later suppressed by Zhu Jun in Hanji 920.

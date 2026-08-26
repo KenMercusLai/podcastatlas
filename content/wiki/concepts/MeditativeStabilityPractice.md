@@ -2,11 +2,13 @@
 title: "Meditative Stability Practice / 定力修行框架"
 type: concept
 tags: [meditation, self-regulation, buddhism, spirituality, relationships]
-sources: [zizhi-tongjian-hanji-908-nijing-chu-qiangzhe-xialu-chu-yongzhe-gudu-chu-zhizhe-lqih1dradhzi0mipxsaiedd52dlj, zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-4-lml7lpd3u9l7esryknmhoampgx6v, zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-3-ll74kq2hg2vp-zx-cqxkadxahamd]
+sources: [zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2, zizhi-tongjian-hanji-908-nijing-chu-qiangzhe-xialu-chu-yongzhe-gudu-chu-zhizhe-lqih1dradhzi0mipxsaiedd52dlj, zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-4-lml7lpd3u9l7esryknmhoampgx6v, zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-3-ll74kq2hg2vp-zx-cqxkadxahamd]
 last_updated: 2026-08-26
 ---
 
 # Meditative Stability Practice / 定力修行框架
+
+[[zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2|Hanji 904]] adds the most concrete daily-practice routine currently attached to this concept. The host describes early rising, a long sitting period, deep and abdominal breathing, movement after sitting, and "觉照内观" as an inward-observation method; the wiki keeps the warmth, breath, and yangqi language source-scoped rather than treating it as medical evidence.
 
 [[zizhi-tongjian-hanji-908-nijing-chu-qiangzhe-xialu-chu-yongzhe-gudu-chu-zhizhe-lqih1dradhzi0mipxsaiedd52dlj|Hanji 908]] adds another source-scoped practice use: the host turns from [[CaiYong|蔡邕]]'s warning about "small ways" to a modern claim that indiscriminate information intake can scatter attention. The episode recommends closing the senses, simplifying inputs, and using meditation or禅修 to recover inner steadiness, so the frame remains practical self-regulation rather than historical evidence about late-Han institutions.
 
@@ -19,6 +21,7 @@ The wiki keeps the frame source-scoped. Its useful practical claim is that calm 
 [[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-4-lml7lpd3u9l7esryknmhoampgx6v|Hanji 161 part 4]] extends the practice frame by stressing that hearing the Way is insufficient without action. In this installment,修心 becomes [[FateChangeThroughVirtuePractice|积善修心式改命]]: cognition, intention, and virtue have to become conduct before fate-change language has content.
 
 ## Key Claims
+- Hanji 904 adds a concrete early-rising sitting routine and names "觉照内观" as the practice of observing mind and body from within.
 - 定力 is treated as a trained capacity, not a mood.
 - Retreat and practice reduce everyday social and emotional noise so the person can see their own direction more clearly.
 - The host connects practice to "降服其心" and a protective "金刚罩" image.
@@ -27,6 +30,7 @@ The wiki keeps the frame source-scoped. Its useful practical claim is that calm 
 - Part 4 adds that practice is the difference between merely hearing a teaching and embodying it.
 
 ## Connections
+- [[zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2|Hanji 904]], [[DaoistNourishingLifeTechniques]], and [[MindBodyUnion]] - early sitting, breathing, movement, and source-scoped body-energy language.
 - [[zizhi-tongjian-hanji-908-nijing-chu-qiangzhe-xialu-chu-yongzhe-gudu-chu-zhizhe-lqih1dradhzi0mipxsaiedd52dlj|Hanji 908]], [[ClassicReadingComplexity|经典阅读复杂性]], and [[SelfGeneratedEmotionalCapacity|内在自生的情绪价值]] - information-discipline and inner-steadiness extension.
 - [[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-3-ll74kq2hg2vp-zx-cqxkadxahamd|Hanji 161 part 3]] - source episode.
 - [[ReactionChoiceFrame|反应选择框架]], [[EmotionRegulationToolkit|情绪调节工具箱]], and [[GratitudeResentmentReturnFrame|感恩怨恨回向框架]] - practical emotion and response-neighbor concepts.

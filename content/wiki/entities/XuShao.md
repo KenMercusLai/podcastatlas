@@ -2,11 +2,13 @@
 title: "许劭 / Xu Shao"
 type: entity
 tags: [person, late-han, adviser, strategy]
-sources: [zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc, zizhi-tongjian-hanji-993-shentingling-zhizhan-sunce-dazhan-taishici-lrivpk7col2l7k-s4dqzxxp2kqp1, zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k]
-last_updated: 2026-08-25
+sources: [zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2, zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc, zizhi-tongjian-hanji-993-shentingling-zhizhan-sunce-dazhan-taishici-lrivpk7col2l7k-s4dqzxxp2kqp1, zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k]
+last_updated: 2026-08-26
 ---
 
 # 许劭 / Xu Shao
+
+[[zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2|Hanji 904]] adds the compressed first-entry version of Xu Shao's Cao Cao appraisal. After [[QiaoXuanLateHan|桥玄]] directs [[CaoCao|曹操]] to him, Xu Shao's monthly-appraisal authority turns a judgment into a reputational asset that can circulate before [[SimaFangLateHan|司马防]] recommends Cao Cao for Luoyang north commandant.
 
 [[zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc|Hanji 926]] backfills Xu Shao as an elite reputation judge before the Liu Yao route-advice branch. The episode presents his and Xu Jing's月旦品 as a Runan monthly appraisal system whose judgments could shape official conduct and public standing.
 
@@ -21,6 +23,7 @@ Xu Shao recommends [[YuzhangCommandery|豫章郡]] because its north-west routes
 The episode makes Xu Shao a source case for [[XingshiqingStrategicAssessment|行势情战略评估]]. He reads geography, incentives, official legitimacy, and personal reliability together rather than treating a wealthy commandery or a nominal helper as sufficient.
 
 ## Connections
+- [[zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2|Hanji 904]], [[CaoCao|曹操]], [[QiaoXuanLateHan|桥玄]], [[SimaFangLateHan|司马防]], and [[EliteEndorsementReputationMaking|名士背书式造势]] - compressed early appraisal-to-office route.
 - [[zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc|Hanji 926]], [[CaoCao|曹操]], [[QiaoXuanLateHan|桥玄]], and [[EliteEndorsementReputationMaking|名士背书式造势]] - 月旦品 and the "能臣/奸雄" judgment as reputation certification.
 - [[zizhi-tongjian-hanji-993-shentingling-zhizhan-sunce-dazhan-taishici-lrivpk7col2l7k-s4dqzxxp2kqp1|Hanji 993]], [[TaishiCi|太史慈]], and [[StatusFilteredTalentMisrecognition|门第筛选式人才误判]] - source-scoped role as the feared elite judgment Liu Yao imagines.
 - [[zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k|Hanji 995]] - source episode.
