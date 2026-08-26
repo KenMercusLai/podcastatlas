@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "19c611dfbbb92ca577ecdd3de8dcb299e3594783b3ac7731e0e81164d2e63156",
       "9baf78d4abc4af870b525c5c520883b9316ef81d3d2def71b4576c647430b61f",
       "e2dbcfd86d4d842870971df2023efea40b445cb17f22433f137edc058c21d53d",
       "baa8563117c87f0fa06054d580b6c7c44c5428f74779f71a669eeb99a2f47d20",
@@ -255,11 +256,38 @@
       "d9074e43b7b103fc0d0097b207bf8018227d6e146ca0eb75638118627687641c",
       "b16a38bd6e190222f7f3e6f0535803ce60ae7f3304e3477dfcdd995a15fb502f"
     ],
-    "paragraph_count": 253
+    "paragraph_count": 254
   },
-  "overview_commit": "5321df55eefbad54aee4868992e9c9e86ed04cb2",
-  "overview_digest": "8914f823c61f2aa53536c6a568a8c5c379217ce835b5d737a3db34138b11bc97",
+  "overview_commit": "343c263ffe35a5c40de6344a498016e9024c12ef",
+  "overview_digest": "3d135211faed2211cb7c7a398650cd15c71a53c169280c486c5bd5cb348b6943",
   "paragraphs": [
+    {
+      "id": "19c611dfbbb92ca577ecdd3de8dcb299e3594783b3ac7731e0e81164d2e63156",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1036-liubiao-weihe-yao-bi-hansong-jian-caocao-lnifeizgoebis2gdovgmzg6dojaz]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the pre-Hanji 1037 setup for [[LiuBiao|刘表]] and [[HanSongLateHan|韩嵩]]. It adds [[LiuXianLateHan|刘先]], while extending [[YuanShao|袁绍]], [[CaoCao|曹操]], [[Jingzhou|荆州]], [[Xudu|许都]], [[EmperorXianOfHan|汉献帝]], [[CourtLegitimacyOverPatronLoyalty|朝廷名义高于主君私属]], [[FenceSittingStrategicExposure|骑墙式战略暴露]], and [[SuspicionDrivenEliteAlienation|猜疑驱动的士族离心]]. Its core synthesis is that Liu Biao's neutrality has already become active exposure: advisers warn that refusing both Yuan Shao and Cao Cao can alienate both sides, while Han Song sees that an exploratory court mission will change his formal loyalty unless Liu Biao has already chosen submission. No settled contradiction is recorded; the source qualifies Hanji 1037 by showing Han Song's warning before Liu Biao later treats the mission outcome as betrayal.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "CaoCao",
+        "CourtLegitimacyOverPatronLoyalty",
+        "EmperorXianOfHan",
+        "FenceSittingStrategicExposure",
+        "HanSongLateHan",
+        "Jingzhou",
+        "LiuBiao",
+        "LiuXianLateHan",
+        "RuiqiJiangtouZizhiTongjian",
+        "SuspicionDrivenEliteAlienation",
+        "Xudu",
+        "YuanShao",
+        "zizhi-tongjian-hanji-1036-liubiao-weihe-yao-bi-hansong-jian-caocao-lnifeizgoebis2gdovgmzg6dojaz"
+      ]
+    },
     {
       "id": "9baf78d4abc4af870b525c5c520883b9316ef81d3d2def71b4576c647430b61f",
       "primary_topic": "business-and-markets",

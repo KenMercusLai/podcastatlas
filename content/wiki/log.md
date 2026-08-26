@@ -12081,3 +12081,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-26] ingest | 《资治通鉴·汉纪》1036丨刘表为何要逼韩嵩见曹操？
+
+Added source page for Hanji 1036: Liu Biao's unresolved neutrality between Yuan Shao and Cao Cao, Han Song and Liu Xian's warning that non-alignment can anger both sides, and Han Song's pre-mission explanation that court appointment would reorder his formal loyalty if Liu Biao remained undecided. Created Liu Xian (late Han), updated Han Song (late Han), Liu Biao, Court Legitimacy Over Patron Loyalty, Suspicion-Driven Elite Alienation, and migrated Fence-Sitting Strategic Exposure to synthesis-v1. No settled contradiction found; Hanji 1036 qualifies Hanji 1037 by showing Han Song warned Liu Biao before the Xudu mission.
+
+## [2026-08-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

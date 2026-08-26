@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-26
-as_of_overview_commit: 5321df55eefbad54aee4868992e9c9e86ed04cb2
-summary: "Durable value maps to workflow fit, customer authority, demand proof, governance, privacy, and human judgment across AI, markets, work, health, and geopolitics."
-episode_count: 1507
-source_count: 1507
-paragraph_count: 253
+as_of_overview_commit: 343c263ffe35a5c40de6344a498016e9024c12ef
+summary: "Durable value depends on workflow fit, demand proof, legitimate governance, material capacity, privacy, and human judgment across AI, markets, work, health, and history."
+episode_count: 1508
+source_count: 1508
+paragraph_count: 254
 topic_count: 8
 ---
 
@@ -36,7 +36,7 @@ AI value is strongest when model capability is embedded in owned workflows, perm
 
 ### Business and Markets
 
-The business corpus separates attention from durable demand: AI, SaaS, consumer goods, robotics, public safety, and development policy need distribution, payment proof, operating capacity, trust, and repeat use.
+Business value survives when attention becomes repeatable demand through distribution, payment proof, operating capacity, trust, local control, and disciplined risk.
 
 - [[the-continent-nobody-owns-everyone-benefits-from-summer-school]] adds that market value can be created or protected by institutional design outside ordinary ownership: [[NonMarketEnvironmentalValuation]] makes [[Antarctica]] and [[SouthernOcean]] climate services visible, [[ParkingCostInternalization]] prices [[Tokyo]] street storage, [[ViennaSocialHousingScale]] uses nonprofit and public supply to affect rents, and [[ConsortioGroupFinancing]] formalizes mutual purchasing finance in [[Brazil]]. Evidence: [[the-continent-nobody-owns-everyone-benefits-from-summer-school]], [[NonMarketEnvironmentalValuation]], [[Antarctica]], [[SouthernOcean]], [[AntarcticClimateServices]], [[ParkingCostInternalization]], [[Tokyo]], [[ViennaSocialHousingScale]], [[Vienna]], [[ConsortioGroupFinancing]], [[Brazil]], [[ExternalityInternalization]], [[HousingAffordabilitySupplyMechanics]].
 - [[CustomerPull]], [[ProductLedWillingnessToPay]], and [[PreProductSelling]] become durable only when distribution, buyer-commitment, payment proof, and operating gates such as [[CPGDistribution]], [[RetailLineReview]], [[PlanogramGatekeeping]], [[RetailPricePointProductScoping]], [[MassRetailProductionDeadline]], [[EnterprisePOCDiscipline]], [[EnterpriseCustomerAsMarket]], [[AIOfficeAgent]], and [[RobotRepurchaseDemand]] can repeatedly deliver value after initial attention. Evidence: [[CustomerPull]], [[ProductLedWillingnessToPay]], [[PreProductSelling]], [[CPGDistribution]], [[RetailLineReview]], [[PlanogramGatekeeping]], [[RetailPricePointProductScoping]], [[MassRetailProductionDeadline]], [[EnterprisePOCDiscipline]], [[EnterpriseCustomerAsMarket]], [[Templafy]], [[RobotRepurchaseDemand]], [[AIOfficeAgent]], [[AICommercializationPressure]], [[AIConsumerGrowthMetrics]], [[AIInferenceCostStructure]], [[DingTalk]], [[Feishu]], [[TencentWorkBuddy]], [[DoubaoWork]], [[tengxun-ali-zijie-zhengduo-dagongren-hulianwang-dachang-weihe-jiti-jiama-ai-bangong-1008598460]].
@@ -49,14 +49,14 @@ Culture and media sources use literature, games, folklore, and media forms as ev
 
 ### Governance and Institutions
 
-Governance appears as enforceable control over legitimacy, appointments, markets, liability, surveillance, and trust; formal authority works only when incentives, procedure, and accountability hold.
+Governance appears as enforceable control over legitimacy, appointments, markets, surveillance, and trust; Hanji 1036 adds [[LiuBiao]]'s neutrality as a loyalty-status trap when formal authority and private allegiance diverge.
 
 - The early-Han sequence shows victory turning into governance only through family order, capital choice, exit management, reward ranking, ritual hierarchy, frontier containment, [[HanXiongnuHeqinPolicy|heqin]] diplomacy, vassal rollback, investigation-triggered rebellion risk, and finally the failure of personal trust in [[LuWan|Lu Wan]]'s Yan kingship. Evidence: [[LiuBang]], [[StrategicCapitalRelocation]], [[LiAsPoliticalOrder]], [[BaidengEncirclement]], [[HanXiongnuHeqinPolicy]], [[DifferentSurnameKingSuspicion]], [[HuainanKingdomEarlyHan]], [[InvestigationDrivenRebellionEscalation]], [[LuWan]], [[YanState]].
 - State capacity appears as enforceable controls over appointments, territory, households, standards, symbols, and punishment, but [[PowerExitTrap|exit traps]] and backlash show that control does not automatically create social support. Evidence: [[LegalistRulerTechnique]], [[QinAdministrativeStandardization]], [[HouseholdSeparationLaw]], [[ImperialSymbolicStandardization]], [[PowerExitTrap]], [[WarringStatesReformBacklash]].
 
 ### History and Geopolitics
 
-Historical and geopolitical claims converge on material capacity behind formal names: dynastic legitimacy, alliances, frontier control, data cables, and technology ecosystems need enforceable systems and timing.
+History and geopolitics hinge on material capacity behind formal names: dynastic titles, alliances, frontier control, data cables, technology ecosystems, and [[LiuBiao]]'s pre-Guandu neutrality all need enforceable timing and alignment.
 
 - [[UnderseaDataCables]] show contemporary geopolitics moving into physical internet routes: [[UnitedStates]] funding for [[Caribbean]] and [[CentralAmerica]] cable replacement, competition with [[China]], vendor concerns involving [[Russia]], [[CableLandingPointSecurity]], and [[CableNetworkResilience]] make cloud and financial connectivity part of strategic infrastructure rather than only telecom operations. Evidence: [[UnderseaDataCables]], [[UnitedStates]], [[Caribbean]], [[CentralAmerica]], [[China]], [[Russia]], [[CableLandingPointSecurity]], [[CableNetworkResilience]], [[TrustedNetworkGeopolitics]], [[DigitalInfrastructureWarRisk]], [[RegionalNetworkTopologyRisk]], [[AsymmetricInfrastructureAttack]], [[MarketplaceTech]], [[ErinMurphy]], [[tech-20260820-tech-pod-128-tech-20260820-tech-pod-128]].
 - The Hanji 992, 1002, and 1015-1016 branch makes late-Han title order a strategic condition: [[EmperorXianOfHan]]'s ruined Anyi and Chang'an context keeps [[MingqiLegitimacy]] symbolically active but materially thin, [[JuShou]] sees [[LegitimacyWindowSeizure]] for [[YuanShao]] before [[GuoTu]] and [[ChunyuQiong]] help Yuan Shao miss it, [[SunCe]] treats [[YuanShu]]'s planned imperial title as a [[MoralizedWarPretext]] and exits, [[XunYu]] turns the emperor's recognition into [[LegitimacyWindowSeizure]] for [[CaoCao]], Yuan Shu's later Shouchun claim outruns [[TitleRealityRestraint]] and creates [[AntiUsurpationCoalitionPressure]], and [[ChenGui]] blocks [[MarriageAllianceWarExposure]] around [[LyuBu]] and [[Xuzhou]]. Evidence: [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz]], [[EmperorXianOfHan]], [[ChangAnHanCapital]], [[GuanzhongRegion]], [[MingqiLegitimacy]], [[JuShou]], [[LegitimacyWindowSeizure]], [[YuanShao]], [[GuoTu]], [[ChunyuQiong]], [[WartimeAgriculturalLaborCollapse]], [[FamineEntitlementFailure]], [[SunCe]], [[YuanShu]], [[MoralizedWarPretext]], [[XunYu]], [[CaoCao]], [[TitleRealityRestraint]], [[AntiUsurpationCoalitionPressure]], [[ChenGui]], [[MarriageAllianceWarExposure]], [[LyuBu]], [[Xuzhou]], [[XingshiqingStrategicAssessment]], [[GuoJia]], [[ZhongYao]].

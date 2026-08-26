@@ -950,9 +950,9 @@
       "url": "/wiki/concepts/consumeraihardwareproductfit/"
     },
     "CourtLegitimacyOverPatronLoyalty": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1037丨忠于曹操or刘表？揭秘韩嵩的忠义抉择 [lomRBxFFCu6eUaNtOZh2FjVrYkVA].md",
@@ -960,6 +960,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1037丨忠于曹操or刘表？揭秘韩嵩的忠义抉择",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1037-zhongyu-caocao-or-liubiao-jiemi-hansong-de-zhongyi-jueze-lomrbxffcu6euantozh2fjvrykva/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1036丨刘表为何要逼韩嵩见曹操？ [lniFEizgOEbis2gdoVgmzg6dOJAz].md",
+          "key": "zizhi-tongjian-hanji-1036-liubiao-weihe-yao-bi-hansong-jian-caocao-lnifeizgoebis2gdovgmzg6dojaz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1036丨刘表为何要逼韩嵩见曹操？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1036-liubiao-weihe-yao-bi-hansong-jian-caocao-lnifeizgoebis2gdovgmzg6dojaz/"
         }
       ],
       "updated": "2026-08-26",
@@ -1246,6 +1253,29 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/femalereligiouslifespace/"
+    },
+    "FenceSittingStrategicExposure": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1027丨荆州之主刘表，为何难成霸主？ [ll-ebgUQLlSF_5YCvPDogihzN3lJ].md",
+          "key": "zizhi-tongjian-hanji-1027-jingzhou-zhizhu-liubiao-weihe-nan-cheng-bazhu-ll-ebguqllsf-5ycvpdogihzn3lj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1027丨荆州之主刘表，为何难成霸主？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1027-jingzhou-zhizhu-liubiao-weihe-nan-cheng-bazhu-ll-ebguqllsf-5ycvpdogihzn3lj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1036丨刘表为何要逼韩嵩见曹操？ [lniFEizgOEbis2gdoVgmzg6dOJAz].md",
+          "key": "zizhi-tongjian-hanji-1036-liubiao-weihe-yao-bi-hansong-jian-caocao-lnifeizgoebis2gdovgmzg6dojaz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1036丨刘表为何要逼韩嵩见曹操？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1036-liubiao-weihe-yao-bi-hansong-jian-caocao-lnifeizgoebis2gdovgmzg6dojaz/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/fencesittingstrategicexposure/"
     },
     "ForceBackedSurrenderPersuasion": {
       "episode_count": 1,
@@ -1741,9 +1771,9 @@
       "url": "/wiki/entities/guanjinglatehan/"
     },
     "HanSongLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1037丨忠于曹操or刘表？揭秘韩嵩的忠义抉择 [lomRBxFFCu6eUaNtOZh2FjVrYkVA].md",
@@ -1751,6 +1781,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1037丨忠于曹操or刘表？揭秘韩嵩的忠义抉择",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1037-zhongyu-caocao-or-liubiao-jiemi-hansong-de-zhongyi-jueze-lomrbxffcu6euantozh2fjvrykva/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1036丨刘表为何要逼韩嵩见曹操？ [lniFEizgOEbis2gdoVgmzg6dOJAz].md",
+          "key": "zizhi-tongjian-hanji-1036-liubiao-weihe-yao-bi-hansong-jian-caocao-lnifeizgoebis2gdovgmzg6dojaz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1036丨刘表为何要逼韩嵩见曹操？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1036-liubiao-weihe-yao-bi-hansong-jian-caocao-lnifeizgoebis2gdovgmzg6dojaz/"
         }
       ],
       "updated": "2026-08-26",
@@ -2787,9 +2824,9 @@
       "url": "/wiki/entities/lijihistorian/"
     },
     "LiuBiao": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 1,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》953丨乱世之中，要不要讲究仁义？ [lrZfImgqAtJXyw9zX9rY2kIWXKON].md",
@@ -2867,6 +2904,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1037丨忠于曹操or刘表？揭秘韩嵩的忠义抉择",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1037-zhongyu-caocao-or-liubiao-jiemi-hansong-de-zhongyi-jueze-lomrbxffcu6euantozh2fjvrykva/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1036丨刘表为何要逼韩嵩见曹操？ [lniFEizgOEbis2gdoVgmzg6dOJAz].md",
+          "key": "zizhi-tongjian-hanji-1036-liubiao-weihe-yao-bi-hansong-jian-caocao-lnifeizgoebis2gdovgmzg6dojaz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1036丨刘表为何要逼韩嵩见曹操？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1036-liubiao-weihe-yao-bi-hansong-jian-caocao-lnifeizgoebis2gdovgmzg6dojaz/"
         }
       ],
       "updated": "2026-08-26",
@@ -2887,6 +2931,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/liudaisikongzhangshi/"
+    },
+    "LiuXianLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1036丨刘表为何要逼韩嵩见曹操？ [lniFEizgOEbis2gdoVgmzg6dOJAz].md",
+          "key": "zizhi-tongjian-hanji-1036-liubiao-weihe-yao-bi-hansong-jian-caocao-lnifeizgoebis2gdovgmzg6dojaz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1036丨刘表为何要逼韩嵩见曹操？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1036-liubiao-weihe-yao-bi-hansong-jian-caocao-lnifeizgoebis2gdovgmzg6dojaz/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/liuxianlatehan/"
     },
     "LiuXunLateHan": {
       "episode_count": 3,
@@ -4378,9 +4438,9 @@
       "url": "/wiki/concepts/surrenderascivilianprotectiontradeoff/"
     },
     "SuspicionDrivenEliteAlienation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1037丨忠于曹操or刘表？揭秘韩嵩的忠义抉择 [lomRBxFFCu6eUaNtOZh2FjVrYkVA].md",
@@ -4388,6 +4448,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1037丨忠于曹操or刘表？揭秘韩嵩的忠义抉择",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1037-zhongyu-caocao-or-liubiao-jiemi-hansong-de-zhongyi-jueze-lomrbxffcu6euantozh2fjvrykva/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1036丨刘表为何要逼韩嵩见曹操？ [lniFEizgOEbis2gdoVgmzg6dOJAz].md",
+          "key": "zizhi-tongjian-hanji-1036-liubiao-weihe-yao-bi-hansong-jian-caocao-lnifeizgoebis2gdovgmzg6dojaz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1036丨刘表为何要逼韩嵩见曹操？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1036-liubiao-weihe-yao-bi-hansong-jian-caocao-lnifeizgoebis2gdovgmzg6dojaz/"
         }
       ],
       "updated": "2026-08-26",

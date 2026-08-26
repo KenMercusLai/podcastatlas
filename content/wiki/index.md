@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1036丨刘表为何要逼韩嵩见曹操？](sources/zizhi-tongjian-hanji-1036-liubiao-weihe-yao-bi-hansong-jian-caocao-lnifeizgoebis2gdovgmzg6dojaz.md) — 芮淇讲透资治通鉴 episode on Liu Biao's neutrality between Yuan Shao and Cao Cao, Han Song and Liu Xian's warning, and Han Song's pre-mission claim that court appointment would reorder his loyalty.
 - [一个中国 FDE 的光环、落差与「救火」日常｜S10E27](sources/yi-ge-zhongguo-fde-de-guanghuan-luocha-yu-jiuhuo-richang-s10e27-587619bb-62c2-485d-9f27-f0be0115a986.md) — What's Next episode with Shen Yue on Chinese FDE work as vendor-side coordination, business-access negotiation, MVP rescue, data cleanup, and ROI/accuracy expectation management.
 - [Can Meta Finally Make Smart Glasses Cool?](sources/tech-20260826-0826-mp-tech-pod-128-tech-20260826-0826-mp-tech-pod-128.md) — Marketplace Tech episode with Carrie Batten on Meta's smart-glasses fashion push, creator gifting, hands-free use cases, and bystander privacy friction.
 - [152. 领读Kimi K3技术报告：从架构创新聊起，注意力美学、多教师蒸馏和开源MoE](sources/152-lingdu-kimi-k3-jishu-baogao-cong-jiagou-chuangxin-liaoqi-zhuyili-meixue-duojiaoshi-zhengliu-he-kaiyuan-moe-lrvngxoafcz7vzh8hywulkwnb6n6.md) — 张小珺Jùn technical-report reading with Sun Yutao on Kimi K3's 2.8T/100B-active MoE scale, KDA lineage, Latent MoE, quantile balancing, NoPE, multi-teacher distillation, and model-infra co-design.
@@ -2052,7 +2053,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [陈纪 / Chen Ji (late Han)](entities/ChenJiLateHan.md) — Late-Han figure named in Dong Zhuo's scholar-recruitment field and later as Yuan Shu's Jiujiang appointee after a broken promise to Sun Ce.
 - [刘勋 / Liu Xun (late Han)](entities/LiuXunLateHan.md) — Lujiang holder who ignores Liu Ye's warning, leaves his rear exposed, loses Wan City to Sun Ce, and flees to Cao Cao.
 - [刘晔 / Liu Ye (late Han)](entities/LiuYeLateHan.md) — Adviser whose ignored warning identifies Sun Ce's Lujiang lure and Liu Xun's exposed rear.
-- [韩嵩 / Han Song (late Han)](entities/HanSongLateHan.md) — Jingzhou envoy whose Xudu appointment and court-facing loyalty trigger Liu Biao's suspicion and imprisonment.
+- [韩嵩 / Han Song (late Han)](entities/HanSongLateHan.md) — Jingzhou envoy whose pre-mission warning and Xudu appointment turn Liu Biao's ambiguous alignment into a court-loyalty dispute.
+- [刘先 / Liu Xian (late Han)](entities/LiuXianLateHan.md) — Jingzhou adviser who joins Han Song in warning Liu Biao that neutrality between Yuan Shao and Cao Cao can alienate both sides.
 - [郑宝 / Zheng Bao (late Han)](entities/ZhengBaoLateHan.md) — Yangzhou armed leader killed by Liu Ye after trying to use Liu Ye's reputation for a southward population movement.
 - [袁胤 / Yuan Yin (late Han)](entities/YuanYinLateHan.md) — Yuan Shu kinsman whose arrival with remnants and households intensifies Liu Xun's Lujiang food pressure.
 - [樊能 / Fan Neng (late Han)](entities/FanNengLateHan.md) — Liu Yao officer sent with Yu Mi to guard Hengjiang.
@@ -2405,7 +2407,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [伏完 / Fu Wan (late Han)](entities/FuWanLateHan.md) — Fu Shou's father, appointed zhijinwu when Emperor Xian names her empress under Li-Guo coercion in Hanji 985.
 - [士孙瑞 / Shi Sun Rui (late Han)](entities/ShiSunRuiLateHan.md) — Court official killed during Emperor Xian's flight after earlier surviving the Dong Zhuo assassination aftermath.
 - [曹安民 / Cao Anmin](entities/CaoAnmin.md) — Cao Cao nephew killed in the Wancheng night attack alongside Cao Ang and Dian Wei.
-- [刘表 / Liu Biao](entities/LiuBiao.md) — Late-Han Jingzhou ruler read as politically skillful at remnant absorption and defensive governance but limited by slow change-reading, indecision, and suspicion.
+- [刘表 / Liu Biao](entities/LiuBiao.md) — Late-Han Jingzhou ruler read as politically skillful at defensive governance but limited by indecision, suspicion, and Guandu-era fence-sitting exposure.
 - [于禁 / Yu Jin](entities/YuJin.md) — Cao Cao general whose Wancheng branch includes Hanji 1013 pursuit relief and Hanji 1014 retreat discipline, civilian protection, camp defense, and reward.
 - [丁夫人 / Lady Ding (Cao Cao)](entities/LadyDingCaoCao.md) — Cao Cao's original wife and Cao Ang's foster mother; Hanji 1014 ties Cao Ang's death to the household rupture.
 - [卞夫人 / Lady Bian (Cao Cao)](entities/LadyBianCaoCao.md) — Cao Cao wife who later becomes formal wife after Lady Ding's rupture, source-scoped through Hanji 1014's household list.
@@ -9353,8 +9355,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Suspicion-Triggered Command Mutiny / 猜疑触发的部下倒戈](concepts/SuspicionTriggeredCommandMutiny.md) — Hanji 1025 pattern where a besieged commander's suspicion turns a subordinate's loyalty gesture into fear, anger, and organized defection.
 - [纳叛安抚式整合 / Strategic Defector Incorporation](concepts/StrategicDefectorIncorporation.md) — Hanji 1026 Cao Cao pattern where former enemies, local brokers, and past defectors are selectively incorporated to stabilize territory before the next campaign.
 - [派系站队退出资本 / Factional Alignment Exit Capital](concepts/FactionalAlignmentExitCapital.md) — Hanji 1027 workplace frame for reading informal power while building portable professional value and exit options.
-- [骑墙式战略暴露 / Fence-Sitting Strategic Exposure](concepts/FenceSittingStrategicExposure.md) — Liu Biao pattern where short-term neutrality becomes exploitable when local fissures and external patrons constrain initiative.
-- [猜疑驱动的士族离心 / Suspicion-Driven Elite Alienation](concepts/SuspicionDrivenEliteAlienation.md) — Hanji 1037 Liu Biao pattern where harsh suspicion toward a court-facing insider damages elite confidence.
+- [骑墙式战略暴露 / Fence-Sitting Strategic Exposure](concepts/FenceSittingStrategicExposure.md) — Hanji 1027/1036 Liu Biao pattern where short-term neutrality becomes exploitable through local fissures, external patrons, and envoy loyalty traps.
+- [猜疑驱动的士族离心 / Suspicion-Driven Elite Alienation](concepts/SuspicionDrivenEliteAlienation.md) — Hanji 1036-1037 Liu Biao pattern where ignored duty warnings and harsh suspicion toward a court-facing insider damage elite confidence.
 - [降敌任用式立威 / Captured Opponent Talent Incorporation](concepts/CapturedOpponentTalentIncorporation.md) — Hanji 1028 pattern where Sun Ce turns captured rivals such as Zu Lang and Taishi Ci into visible proof of authority, restraint, and usable talent.
 - [Rescue Reciprocity Command Trust / 救援互惠式统帅信任](concepts/RescueReciprocityCommandTrust.md) — Command-trust failure where non-rescue teaches subordinates that danger is not shared, making later relief brittle.
 - [Trade Diversification Stability Paradox](concepts/TradeDiversificationStabilityParadox.md) — Pattern where escaping dependence on a dominant trade partner first requires enough stability with that partner to attract investment.
@@ -9644,7 +9646,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [分香卖履 / Fenxiang Mailu](concepts/FenxiangMailu.md) — Hanji 1014 Cao Cao deathbed household-settlement frame around incense, livelihood, and non-sacrificial family duty.
 - [Anti-Usurpation Coalition Pressure / 讨逆同盟压力](concepts/AntiUsurpationCoalitionPressure.md) — Hanji 1001/1002/1015 pattern where Yuan Shu's imperial claim first fails internal support, then costs ally support, then forces rivals to oppose him because non-response would look like recognition.
 - [Mingqi Legitimacy / 名器合法性](concepts/MingqiLegitimacy.md) — Late-Han title-and-symbol legitimacy frame where prophecies, seals, imperial names, official appointments, and refusal of office alter political risk.
-- [朝廷名义高于主君私属 / Court Legitimacy Over Patron Loyalty](concepts/CourtLegitimacyOverPatronLoyalty.md) — Hanji 1037 loyalty-priority conflict where Han Song treats the recognized court's duty as higher than Liu Biao's personal authority.
+- [朝廷名义高于主君私属 / Court Legitimacy Over Patron Loyalty](concepts/CourtLegitimacyOverPatronLoyalty.md) — Hanji 1036-1037 loyalty-priority conflict where Han Song treats the recognized court's duty as higher than Liu Biao's personal authority.
 - [Marriage Alliance War Exposure / 联姻同盟战场暴露](concepts/MarriageAllianceWarExposure.md) — Hanji 1016 pattern where a marriage alliance would move Yuan Shu's war and legitimacy costs onto Lü Bu and Xuzhou.
 - [轻于去就 / Qing Yu Qu Jiu](concepts/QingYuQuJiu.md) — Hanji 1017 unstable-affiliation concept where a capable actor treats camps, patrons, jobs, or commitments too lightly.
 - [饥附饱扬 / Ji Fu Bao Yang](concepts/JiFuBaoYang.md) — Hanji 1018 dependency pattern where a dangerous actor attaches while needy and leaves once secure.
