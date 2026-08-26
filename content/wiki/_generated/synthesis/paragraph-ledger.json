@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "7f63a5468bf59272fa3a6ed648448ea6002fb09d3c5bb53ed2819f03f76908e5",
       "af8e2a6837f0f62b6f60a5863290b6bfbe580b2a3f833a4c9b6b5c602c6f2887",
       "1ad7431c99f52a29eda8564fe41459d5e490f67c51b8bfed0930dd3466829694",
       "88ce2ea88a6e9a16ef04955c5d053701092faea15d22a816d725940c424558ca",
@@ -277,11 +278,38 @@
       "ed252faccaaf1dc4e8c654d3406a6a1a0fc3a6f6fe78821348d1b123c7e85a5c",
       "32b62a0e1fc3144c5e7770721fc745607afef0d0cf46a8fe94d35cab377dbbf9"
     ],
-    "paragraph_count": 275
+    "paragraph_count": 276
   },
-  "overview_commit": "59610390ffb993dc7f627a8cdbba57f6e70df6ae",
-  "overview_digest": "690b3ee566b34d6486f41febac521a14f8b30ac8985032185ddbd0fc1c3ddc62",
+  "overview_commit": "8b4fba25b4d6a119e39173179cbd696b4887a05b",
+  "overview_digest": "c55a9edbe7055ba6cf32c0fcf46e30b97063535ba620a2532e30894d7a041c13",
   "paragraphs": [
+    {
+      "id": "7f63a5468bf59272fa3a6ed648448ea6002fb09d3c5bb53ed2819f03f76908e5",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-886-shenchu-zhichang-zuoge-chengfu-henshen-de-ren-lo6dgcdbshjgto-qsfcouwjersdi|《资治通鉴·汉纪》886丨身处职场，做个城府很深的人]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode that backfills the pre-[[zizhi-tongjian-hanji-887-dang-zhuduizhang-pengshang-zhuduiyou-jieguo-taican-lvyh9a-kvsdqaokmylgg139bvhfk|Hanji 887]] leak and palace-seizure phase of the 168 CE [[DouWuLateHan|窦武]] anti-eunuch crisis. It extends [[ZhuYuLateHan|朱瑀]], [[CaoJieLateHan|曹节]], [[WangFuLateHan|王甫]], [[EmpressDowagerDouMiao|窦妙 / 窦皇太后]], [[LethalPlanLeakageRisk|致命计划泄露风险]], [[ZeroSumConflictHesitationRisk|死斗局优柔寡断风险]], and [[StrategicEmotionConcealment|情绪不外露的战略纪律]], while linking the episode's legitimacy-symbol analysis to [[MingqiLegitimacy|名器合法性]] and [[PalaceAccessMonopoly|宫廷接触垄断]]. Its core synthesis is that Dou Wu's failure starts before open military reversal: leaked intent lets Zhu Yu organize a sworn counter-coalition, Cao Jie and Wang Fu secure emperor, dowager, gates, seals, tallies, and edict language, and Dou's later troop rally begins after the eunuch side has already seized the recognizable authority field. No settled contradiction is recorded; the host's \"城府\" workplace framing and minor names such as Gong Pu, Zhang Liang, Zhao Rao, Yin Xun, Shan Bing, Zheng Sa, and Dou Shao remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 2,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "CaoJieLateHan",
+        "DouWuLateHan",
+        "EmpressDowagerDouMiao",
+        "LethalPlanLeakageRisk",
+        "MingqiLegitimacy",
+        "PalaceAccessMonopoly",
+        "RuiqiJiangtouZizhiTongjian",
+        "StrategicEmotionConcealment",
+        "WangFuLateHan",
+        "ZeroSumConflictHesitationRisk",
+        "ZhuYuLateHan",
+        "zizhi-tongjian-hanji-886-shenchu-zhichang-zuoge-chengfu-henshen-de-ren-lo6dgcdbshjgto-qsfcouwjersdi",
+        "zizhi-tongjian-hanji-887-dang-zhuduizhang-pengshang-zhuduiyou-jieguo-taican-lvyh9a-kvsdqaokmylgg139bvhfk"
+      ]
+    },
     {
       "id": "af8e2a6837f0f62b6f60a5863290b6bfbe580b2a3f833a4c9b6b5c602c6f2887",
       "primary_topic": "history-and-geopolitics",

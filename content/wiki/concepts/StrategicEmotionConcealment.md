@@ -2,30 +2,57 @@
 title: "Strategic Emotion Concealment / 情绪不外露的战略纪律"
 type: concept
 tags: [emotion, strategy, self-protection, late-han]
-sources: [zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr, zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b]
-last_updated: 2026-08-26
+sources:
+  - zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr
+  - zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b
+  - zizhi-tongjian-hanji-886-shenchu-zhichang-zuoge-chengfu-henshen-de-ren-lo6dgcdbshjgto-qsfcouwjersdi
+last_updated: 2026-08-27
+knowledge_schema: synthesis-v1
 ---
 
-# Strategic Emotion Concealment / 情绪不外露的战略纪律
+## Definition
 
-[[zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr|Hanji 900]] supplies the workplace-power prelude to this concept. The host says anger is a bad tactic because it lowers judgment, exposes the actor's state, and lets opponents steer the situation; the practical alternative is to read timing and interests before choosing whether to advance or retreat. The source links this emotional discipline to [[HuGuangLateHan|胡广]]'s [[ModerationAsPoliticalSurvival|中庸圆滑政治生存]], not to passivity as a general life ideal.
+Strategic emotion concealment / 情绪不外露的战略纪律 is the discipline of keeping fear, anger, pride, resentment, or panic from becoming visible behavior that exposes intention, weakens judgment, or gives another actor leverage.
 
-Strategic emotion concealment / 情绪不外露的战略纪律 enters the wiki through [[zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b|Hanji 902]]. The episode's opening argues that a strong person is not emotionless; strength is the ability to keep emotion from dictating judgment, timing, and visible action. The host uses The Godfather's family/outside-people contrast and the Sonny/Michael comparison to separate uncontrolled expression from purposeful restraint.
+## Current Synthesis
 
-The late-Han cases give the frame political weight. [[ZhangHuanLateHan|张奂]] survives by swallowing humiliation before [[DuanJiongLateHan|段熲]], while [[SuBuweiLateHan|苏不韦]] shows the darker side of disciplined emotion: patience, disguise, and planning can serve filial revenge as easily as self-preservation. The concept therefore sits between [[EmotionRegulationToolkit|ordinary emotion regulation]], [[PoliticalSurvivalFirst|survival-first politics]], and [[ConcealedCapabilityTiming|藏器待时]].
+The current synthesis treats emotion concealment as a political and organizational skill, not as emotional numbness. [[zizhi-tongjian-hanji-886-shenchu-zhichang-zuoge-chengfu-henshen-de-ren-lo6dgcdbshjgto-qsfcouwjersdi|Hanji 886]] gives the cleanest statement: emotion may fluctuate, but behavior cannot lose control. The host ties that discipline to "城府" in high-risk environments, where clear purpose, sensitivity to danger, and self-command matter before a person acts.
+
+[[zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr|Hanji 900]] makes anger the office-survival example: visible rage narrows judgment and lets opponents read the actor's state. [[zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b|Hanji 902]] makes the discipline more explicit through The Godfather's family/outside-people contrast and through late-Han cases where open correction is dangerous, measured submission can preserve life, and long revenge can organize concealed emotion into harm.
+
+The concept therefore sits between ordinary [[EmotionRegulationToolkit|emotion regulation]], [[PoliticalSurvivalFirst|survival-first politics]], and [[ConcealedCapabilityTiming|concealed capability timing]]. It is useful when visible feeling would expose intent or timing, but it is not inherently virtuous: the same self-command can preserve agency or intensify retaliation.
 
 ## Key Claims
 
-- Hanji 900 adds anger as a workplace and court-survival liability: visible rage gives away leverage before judgment is complete.
 - Concealing emotion is strategic when visible feeling would expose intention, weakness, timing, or leverage.
-- The episode does not treat restraint as permanent passivity; the point is choosing when to endure and when to act.
-- Restraint can preserve future agency, as in Zhang Huan's withdrawal and teaching life.
-- The same discipline can also intensify revenge when emotion is not released but organized into a long plan.
+- The concept does not demand inner blankness; it separates internal feeling from externally controlled action.
+- Anger is especially risky in political or workplace conflict because it can narrow judgment and advertise the actor's state.
+- Restraint can preserve future agency, as in survival and withdrawal cases where open dignity would create greater danger.
+- The same discipline can also intensify revenge when emotion is hidden, organized, and later released through planning.
 
-## Connections
+## Evidence
 
-- [[zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr|Hanji 900]], [[HuGuangLateHan|胡广]], and [[ModerationAsPoliticalSurvival|中庸圆滑政治生存]] - anger control as office-survival discipline.
-- [[zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b|Hanji 902]], [[ZhangHuanLateHan|张奂]], [[DuanJiongLateHan|段熲]], [[SuBuweiLateHan|苏不韦]], and [[LiHaoLateHan|李昊]] - source cases.
-- [[PoliticalSurvivalFirst|安全第一政治生存]] and [[ConcealedCapabilityTiming|藏器待时]] - adjacent strategy concepts around exposure and timing.
-- [[EmotionRegulationToolkit|情绪调节工具箱]] - broader non-political emotional regulation frame.
+- Feeling-action separation: [[zizhi-tongjian-hanji-886-shenchu-zhichang-zuoge-chengfu-henshen-de-ren-lo6dgcdbshjgto-qsfcouwjersdi|Hanji 886]] states that emotion may lose control but behavior cannot, and links that distinction to "城府" in high-risk political and workplace settings.
+- Anger as exposure: [[zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr|Hanji 900]] says visible anger lowers judgment, exposes one's state, and helps stronger opponents steer the situation.
+- Strategic rather than passive restraint: [[zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr|Hanji 900]] links emotion control to reading timing, interests, and advance-or-retreat choices rather than to permanent yielding.
+- Family/outside-people concealment: [[zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b|Hanji 902]] uses The Godfather example to distinguish uncontrolled expression from purposeful secrecy around intentions.
+- Survival and revenge contrast: [[zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b|Hanji 902]] contrasts Zhang Huan's humbled survival with Su Buwei's patient revenge, showing that controlled emotion can preserve life or feed destructive planning.
+
+## Counterevidence & Qualifications
+
+The concept should not be turned into a universal rule against expression. In lower-stakes relationships, visible emotion can communicate boundaries, grief, care, or injustice. The late-Han sources apply the discipline to dangerous hierarchy, court politics, and hostile organizational settings where visible feeling can become actionable information for stronger actors.
+
+## What Changed
+
+- The page has been migrated to `synthesis-v1`.
+- The synthesis now explicitly separates internal emotion from external behavior through the Hanji 886 "城府" framing.
+- The page now treats anger control, survival restraint, and concealed revenge as different outcomes of the same discipline.
+
+## Related Concepts
+
+- [[EmotionRegulationToolkit|情绪调节工具箱]] - broader non-political frame for managing emotional reactions.
+- [[PoliticalSurvivalFirst|安全第一政治生存]] - survival frame in which emotion concealment protects future agency.
+- [[WorldlyPoliticalCultivation|入世政治修行]] - adjacent idea that court danger can become a discipline of timing, concealment, and action.
+- [[ConcealedCapabilityTiming|藏器待时]] - related timing concept for hiding capability until action is useful.
+- [[LethalPlanLeakageRisk|致命计划泄露风险]] - high-stakes information-control case where visible intention can become fatal.
 - [[AtrocityRetaliationCycle]] - warning that controlled emotion can still feed destructive retaliation.

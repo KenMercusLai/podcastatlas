@@ -12158,6 +12158,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-27] ingest | 《资治通鉴·汉纪》886丨身处职场，做个城府很深的人
+
+Added source page for Hanji 886: the leaked prelude to the 168 CE Dou Wu anti-eunuch crisis, Zhu Yu's oath, Cao Jie and Wang Fu's control of emperor, gates, seals, tallies, edict channel, Beisi prison, and Dou Miao, plus the host's "城府" frame as strategic emotion and behavior control. Migrated Zhu Yu and Strategic Emotion Concealment to synthesis-v1; updated Dou Wu, Cao Jie, Wang Fu, Empress Dowager Dou Miao, Lethal Plan Leakage Risk, and Zero-Sum Conflict Hesitation Risk with the new source appended. No settled contradiction found; minor names remain source-scoped.
+
 ## [2026-08-27] ingest | 当机器人学会认路，物理世界才真正接上了 AI
 
 Added source page for the 科技乱炖 World Robot Conference conversation with Gaode's Tang Wenbin on navigation-first embodied AI, A-BOT Navigation, guide robot dogs, last-mile delivery, inspection, robot response latency, and commercialization feedback loops. Created Tang Wenbin, Guo Ning, A-BOT Navigation, Guide Robot Dogs, Mobility-First Embodied AI, Robot Navigation Infrastructure, Last-Mile Robot Delivery, Robot Response Latency, and Robot Commercialization Negative Feedback Loop; migrated Gaode to synthesis-v1 and updated Industrial Inspection Robotics. No settled contradiction found; the source qualifies humanoid-first robotics narratives by treating movement, maps, route memory, passability, and field feedback as an earlier practical layer.
@@ -12315,6 +12319,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》887丨当猪队长碰上猪队友，结果太惨！
 
 Added source page for Hanji 887: the failed 168 CE Dou Wu / Chen Fan anti-eunuch coup, Chen Fan's palace intervention and death, eunuch-side forged authority and troop reversal through Zhang Huan's uninformed force, Dou Wu's suicide, Dou Miao's confinement, and the widened purge of kin, followers, students, old subordinates, and recommended officials. Updated Dou Wu, Chen Fan, Zhang Huan, Cao Jie, Wang Fu, Empress Dowager Dou Miao, Zero-Sum Conflict Hesitation Risk, Lethal Plan Leakage Risk, and Party Prohibition Kinship Expansion to synthesis-v1/current synthesis. No settled contradiction found; minor names remain source-scoped pending stronger disambiguation.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-27] lint | Wiki health check
 
