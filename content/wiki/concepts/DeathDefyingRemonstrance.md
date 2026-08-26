@@ -2,11 +2,15 @@
 title: "赴死式直谏 / Death-Defying Remonstrance"
 type: concept
 tags: [governance, remonstrance, court-politics, pre-qin-history]
-sources: [zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu, zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29, zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw, zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i, zizhi-tongjian-qinji-108-1-lishi-gan-dangmian-dingzhuang-qinshihuang-diyi-ren-lg0dssyicp387foiraohkv1x5aij]
+sources: [zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud, zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu, zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29, zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw, zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i, zizhi-tongjian-qinji-108-1-lishi-gan-dangmian-dingzhuang-qinshihuang-diyi-ren-lg0dssyicp387foiraohkv1x5aij]
 last_updated: 2026-08-26
 ---
 
 # 赴死式直谏 / Death-Defying Remonstrance
+
+[[zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud|Hanji 901]] adds a court-ritual version through [[LiXianTaiweiLateHan|李贤]]. Li Xian attends the burial-status meeting while ill, carries poison, and says he will not return alive if [[EmpressDowagerDouMiao|窦皇太后]] cannot share proper honor with [[EmperorHuanOfHan|汉桓帝]].
+
+The case differs from a direct memorial against the ruler's wrongdoing. Li Xian risks death to force the court to treat [[ImperialBurialLegitimacy|帝后合葬名分]] as a matter of public order, and the episode presents the intervention as successful because [[EmperorLingOfHan|汉灵帝]] accepts his memorial.
 
 [[zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu|Hanji 916]] adds a shelved late-Han version through [[ShenZhongLateHan|沈忠]]. Shen Zhong does not die in the episode, but he makes the memorial death-facing by offering to be boiled and to have his wife and children exiled if his accusation against [[ZhuYuLateHan|朱瑀]] is false. The case shows a failed breakthrough: extreme personal staking cannot force correction when the court is unwilling to act on the warning.
 
@@ -25,6 +29,7 @@ The pattern differs from [[AllusiveRemonstrance|隐语进谏]] and [[ProtectiveR
 [[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i|Hanji 184]] adds a Western Han version through [[LuanBu|栾布]]. Luan Bu has already been ordered boiled for mourning [[PengYue|彭越]], but uses his last requested words to shift Liu Bang from anger at defiance to the public consequence of killing a possibly innocent contributor: all merit-holders may become fearful. The case differs from Mao Jiao in setting and target, but keeps the same structure of death-facing speech that makes ruler intimidation politically counterproductive.
 
 ## Key Claims
+- Hanji 901 adds a successful court-ritual version: death-facing resolve can break meeting silence and force a posthumous-status decision.
 - Hanji 916 adds a shelved version: death-facing stakes can strengthen a memorial's moral witness without forcing the court to investigate or repair.
 - Hanji 932 adds a successful-but-narrow version: death-facing speech can force a temporary policy halt while leaving the larger extraction machinery intact.
 - Hanji 935 adds a failed-breakthrough version: death-facing speech may preserve moral testimony without changing the ruler's captured information system.
@@ -35,6 +40,7 @@ The pattern differs from [[AllusiveRemonstrance|隐语进谏]] and [[ProtectiveR
 - The pattern can temporarily repair [[CourtFeedbackCollapse|君臣反馈失灵]], but it is costly because it depends on extraordinary personal risk rather than a healthy feedback institution.
 
 ## Connections
+- [[zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud|Hanji 901]], [[LiXianTaiweiLateHan|李贤]], [[EmpressDowagerDouMiao|窦皇太后]], [[EmperorLingOfHan|汉灵帝]], and [[ImperialBurialLegitimacy|帝后合葬名分]] - successful death-facing burial-status remonstrance.
 - [[zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu|Hanji 916]], [[ShenZhongLateHan|沈忠]], [[ZhuYuLateHan|朱瑀]], [[EmperorLingOfHan|汉灵帝]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - death-pledged accusation shelved without correction.
 - [[zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29|Hanji 932]], [[SimaZhiLateHan|司马直]], [[EmperorLingOfHan|汉灵帝]], [[JuluCommanderyLateHan|巨鹿郡]], and [[PalaceConstructionFeeExtraction|修宫钱转嫁盘剥]] - late-Han death memorial that temporarily halts the palace-construction fee.
 - [[zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw|Hanji 935]], [[LiuTaoLateHan|刘陶 / 刘桃]], [[EmperorLingOfHan|汉灵帝]], [[TenAttendantsLateHan|十常侍]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - late-Han remonstrance whose death testimony does not repair the court.

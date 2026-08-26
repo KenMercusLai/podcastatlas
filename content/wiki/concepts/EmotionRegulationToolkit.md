@@ -2,11 +2,15 @@
 title: "Emotion Regulation Toolkit / 情绪调节工具箱"
 type: concept
 tags: [mental-health, emotion, self-care, relationships, embodiment]
-sources: [zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-2-lttnuxlypca4pafz1mzdr3aizfcv, ep273-npc-haishi-npd-dou-bie-xiang-nazou-women-rensheng-de-yaokongqi-lqqnd-e29xvhx2mtf6uuzx13wwvf, ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx]
+sources: [zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud, zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-2-lttnuxlypca4pafz1mzdr3aizfcv, ep273-npc-haishi-npd-dou-bie-xiang-nazou-women-rensheng-de-yaokongqi-lqqnd-e29xvhx2mtf6uuzx13wwvf, ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx]
 last_updated: 2026-08-23
 ---
 
 # Emotion Regulation Toolkit / 情绪调节工具箱
+
+[[zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud|Hanji 901]] adds a compact impatience version. The host reads "急性子" as anxiety, compulsion, rigid thinking, result fixation, and poor emotional control, then recommends a deliberately simple pause: count "一二三" before acting so the immediate surge does not decide the next move.
+
+The source also uses [[TheMetamorphosisKafka|Kafka's The Metamorphosis]] to make the emotional mistake concrete. Gregor Samsa still imagines his work urgency and family indispensability after waking as an insect, but the family later adapts, so the episode treats anxious self-importance as part of why impatience becomes harmful.
 
 Emotion regulation toolkit / 情绪调节工具箱 is [[ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx]]'s practical alternative to either suppressing emotion or trying to avoid every unpleasant feeling. The episode argues that healthier emotional life depends on identifying emotion, feeling it, knowing one can regulate it, and seeking the right kind of help or tool.
 
@@ -17,6 +21,7 @@ The toolkit named in the source is deliberately ordinary: trusted friends or fam
 [[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-2-lttnuxlypca4pafz1mzdr3aizfcv|Hanji 161 part 2]] adds a spiritualized anger-and-betrayal version. The episode describes fury as a state in which a person may feel "not themselves," then recommends pausing, accepting that the event has happened, finding the emotional "fuse," and choosing a response before hatred or complaint adds a second injury. This becomes the local [[ReactionChoiceFrame|反应选择框架]] branch.
 
 ## Key Claims
+- Hanji 901 adds that even a brief deliberate delay can be a useful first tool when impatience is carrying anxiety, compulsion, and self-importance into action.
 - Emotional health is not permanent happiness or total avoidance of negative feeling.
 - Naming and tolerating emotion comes before choosing a tool.
 - Body-based activities matter because many people are stuck in screen, desk, and head-based work.
@@ -27,6 +32,7 @@ The toolkit named in the source is deliberately ordinary: trusted friends or fam
 - In controlling relationships, regulation is not only calming down; it can mean restoring enough feeling and action to stop overriding oneself.
 
 ## Connections
+- [[zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud|Hanji 901]], [[TheMetamorphosisKafka|Kafka's The Metamorphosis]], and [[ReactionChoiceFrame|反应选择框架]] - impatience, self-importance, and pause-before-action branch.
 - [[RelationshipNeedDiversification]], [[EmotionalCoRegulationFit]], and [[EmpathyBoundaries]] - human support network branch.
 - [[SelfGeneratedEmotionalCapacity]], [[ActionAgainstAnxiety]], and [[CommunicationBoundarySetting]] - agency and boundary practices.
 - [[ReactionChoiceFrame|反应选择框架]] and [[GratitudeResentmentReturnFrame|感恩怨恨回向框架]] - Hanji 161 branch around anger, resentment, and chosen response.

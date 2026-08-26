@@ -2,11 +2,15 @@
 title: "Posthumous Name Politics / 谥号政治"
 type: concept
 tags: [historiography, chinese-history, legitimacy, naming]
-sources: [zizhi-tongjian-qinji-120-2-qinchao-di-yi-tao-vi-sheji-linian-lno-aeljks2vt1k3wjrizsanirtq, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei]
+sources: [zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud, zizhi-tongjian-qinji-120-2-qinchao-di-yi-tao-vi-sheji-linian-lno-aeljks2vt1k3wjrizsanirtq, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei]
 last_updated: 2026-08-22
 ---
 
 # Posthumous Name Politics / 谥号政治
+
+[[zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud|Hanji 901]] adds a late-Han empress-dowager branch. After [[EmperorLingOfHan|汉灵帝]] accepts [[LiXianTaiweiLateHan|李贤]]'s argument that [[EmpressDowagerDouMiao|窦皇太后]] should be buried with [[EmperorHuanOfHan|汉桓帝]], the episode records her posthumous title as Huan Si Empress.
+
+Here the posthumous name is part of a larger [[ImperialBurialLegitimacy|帝后合葬名分]] settlement. The title does not only label Dou after death; it publicly resolves whether the court remembers her as a legitimate empress/dowager or lets eunuch-side family-guilt arguments keep her outside that order.
 
 Posthumous name politics / 谥号政治 is the episode's explanation that later ruler labels are not ordinary personal names. In [[zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei]], the host says a deceased Son of Heaven or regional ruler receives a posthumous character selected by senior figures according to life record, achievement, or judgment.
 
@@ -17,6 +21,7 @@ The concept matters because naming becomes compact interpretation. A posthumous 
 [[zizhi-tongjian-qinji-120-2-qinchao-di-yi-tao-vi-sheji-linian-lno-aeljks2vt1k3wjrizsanirtq]] adds the Qin abolition branch. The episode says [[QinShiHuang|嬴政 / 秦始皇]] rejects谥法 and substitutes the numbered sequence of 始皇帝, 二世, 三世, and so on. The host reads this not as a cosmetic naming change but as a political removal of the residual right to judge rulers after death.
 
 ## Key Claims
+- Hanji 901 adds that an empress-dowager posthumous title can seal a contested burial and ritual-recognition decision.
 - Posthumous names are retrospective labels, not ordinary names used during life.
 - A one-character posthumous label can encode praise, criticism, mourning, or judgment.
 - Later expansions of posthumous titles can make the naming system increasingly elaborate.
@@ -24,6 +29,7 @@ The concept matters because naming becomes compact interpretation. A posthumous 
 - Qinji 120-2 adds the opposite strategy: abolishing posthumous judgment and using sequence numbers protects the imperial line from retrospective moral labels.
 
 ## Connections
+- [[zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud|Hanji 901]], [[EmpressDowagerDouMiao|窦皇太后]], [[EmperorHuanOfHan|汉桓帝]], and [[ImperialBurialLegitimacy|帝后合葬名分]] - Huan Si Empress as posthumous settlement.
 - [[ZhouRoyalHouse|周王室]], [[ZhouWeilieWang|周威烈王]], and [[ZhouAnWang|周安王]] - Zhou examples in the source.
 - [[ChuShengWang|楚声王]] and [[ChuDaoWang|楚悼王]] - Chu succession examples.
 - [[YanMinGong|燕闵公]] and [[YanXiGong|燕僖公]] - Yan succession examples.

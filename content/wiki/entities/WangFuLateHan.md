@@ -2,11 +2,15 @@
 title: "王甫 / Wang Fu (late Han)"
 type: entity
 tags: [late-han, han, eunuch, court-politics]
-sources: [zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b, zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom, zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj, zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g, zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus, zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu, zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg, zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5]
+sources: [zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud, zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b, zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom, zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj, zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g, zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus, zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu, zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg, zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5]
 last_updated: 2026-08-26
 ---
 
 # 王甫 / Wang Fu (late Han)
+
+[[zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud|Hanji 901]] backfills Wang Fu before the Zhuque Gate accusation and Bohai brokerage branches. He appears with [[CaoJieLateHan|曹节]] as an opponent of burying [[EmpressDowagerDouMiao|窦皇太后]] with [[EmperorHuanOfHan|汉桓帝]], arguing from precedent and family-guilt logic against her full ritual recognition.
+
+The episode makes Wang Fu part of a defensive eunuch-memory problem. Because the Dou case can reactivate the old grievance around [[DouWuLateHan|窦武]] and [[ChenFanLateHan|陈蕃]], Wang Fu's opposition belongs to [[ImperialBurialLegitimacy|帝后合葬名分]] and [[PalaceAccessMonopoly|宫廷接触垄断]] before his later use of palace access as brokerage, accusation, and retaliation.
 
 [[zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b|Hanji 902]] adds Wang Fu's earliest wiki layer beside [[CaoJieLateHan|曹节]]. An anonymous Zhuque Gate posting accuses the two eunuch powerholders and condemns senior officials for not speaking truth. The episode's important point for Wang Fu is not adjudication of the accusation but the court response: pursuit of the anonymous speaker and punishment pressure against [[LiuMengLateHan|刘猛]] after [[DuanJiongLateHan|段熲]] takes over the investigation.
 
@@ -29,6 +33,7 @@ The same source makes [[YangBiao|杨彪]]'s report against Wang Fu's Jingzhao re
 The episode uses Wang Fu mainly to situate Cao Jie's power and the anti-eunuch hostility facing the court. His page is source-scoped until later ingests add a fuller Wang Fu branch.
 
 ## Connections
+- [[zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud|Hanji 901]], [[CaoJieLateHan|曹节]], [[EmpressDowagerDouMiao|窦皇太后]], [[LiXianTaiweiLateHan|李贤]], and [[ChenQiuLateHan|陈球 / 陈求]] - burial-recognition opposition before later accusation branches.
 - [[zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b|Hanji 902]], [[CaoJieLateHan|曹节]], [[LiuMengLateHan|刘猛]], [[DuanJiongLateHan|段熲]], and [[AnonymousRemonstranceSuppression|匿名进谏压制]] - Zhuque Gate accusation and search for the anonymous accuser.
 - [[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom|Hanji 903]], [[LiuKuiBohaiKing|刘亏]], [[BohaiKingdomLateHan|渤海王国]], [[ZhengSaLateHan|郑萨]], [[DongTengLateHan|董腾]], and [[LianZhongLateHan|廉中]] - access brokerage, unpaid debt, forged treason evidence, and collateral purge.
 - [[zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj|Hanji 909]], [[TianYanLateHan|田晏]], [[EmperorLingOfHan|汉灵帝]], [[CaiYong|蔡邕]], and [[OverextendedFrontierExpedition|边境远征过度]] - eunuch-backed expedition lobbying before the failed Xianbei campaign.

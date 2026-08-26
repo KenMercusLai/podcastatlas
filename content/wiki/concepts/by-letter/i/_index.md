@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 5500
+wiki_total_pages: 5501
 wiki_pages:
   - key: "ICEWorkforceExpansion"
     title: "ICE Workforce Expansion"
@@ -68,6 +68,9 @@ wiki_pages:
   - key: "ImperfectActionPractice"
     title: "Imperfect Action Practice"
     url: "/wiki/concepts/imperfectactionpractice/"
+  - key: "ImperialBurialLegitimacy"
+    title: "Imperial Burial Legitimacy / 帝后合葬名分"
+    url: "/wiki/concepts/imperialburiallegitimacy/"
   - key: "ImperialConstructionOverload"
     title: "Imperial Construction Overload / 帝国工程过载"
     url: "/wiki/concepts/imperialconstructionoverload/"

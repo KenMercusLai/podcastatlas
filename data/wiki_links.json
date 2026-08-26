@@ -15123,6 +15123,10 @@
     "title": "Empathy Circle Expansion",
     "url": "/wiki/concepts/empathycircleexpansion/"
   },
+  "EmperorHuanOfHan": {
+    "title": "汉桓帝 / Emperor Huan of Han",
+    "url": "/wiki/entities/emperorhuanofhan/"
+  },
   "EmperorLingOfHan": {
     "title": "汉灵帝 / Emperor Ling of Han",
     "url": "/wiki/entities/emperorlingofhan/"
@@ -15174,6 +15178,10 @@
   "EmpressDowagerDongLateHan": {
     "title": "董太后 / Empress Dowager Dong (late Han)",
     "url": "/wiki/entities/empressdowagerdonglatehan/"
+  },
+  "EmpressDowagerDouMiao": {
+    "title": "窦妙 / Empress Dowager Dou Miao",
+    "url": "/wiki/entities/empressdowagerdoumiao/"
   },
   "EmpressDowagerHe": {
     "title": "何太后 / Empress Dowager He",
@@ -16594,6 +16602,10 @@
   "FengDao": {
     "title": "冯道 / Feng Dao",
     "url": "/wiki/entities/fengdao/"
+  },
+  "FengGuirenLateHan": {
+    "title": "冯贵人 / Feng Guiren (late Han)",
+    "url": "/wiki/entities/fengguirenlatehan/"
   },
   "FengHaoWarringStates": {
     "title": "冯浩 / Feng Hao (Warring States adviser)",
@@ -22623,6 +22635,10 @@
     "title": "皇室包衣治理 / Imperial Bondservant Governance",
     "url": "/wiki/concepts/imperialbondservantgovernance/"
   },
+  "ImperialBurialLegitimacy": {
+    "title": "Imperial Burial Legitimacy / 帝后合葬名分",
+    "url": "/wiki/concepts/imperialburiallegitimacy/"
+  },
   "ImperialConstructionOverload": {
     "title": "Imperial Construction Overload / 帝国工程过载",
     "url": "/wiki/concepts/imperialconstructionoverload/"
@@ -27418,6 +27434,10 @@
   "LiXianLateHan": {
     "title": "李暹 / Li Xian (late Han)",
     "url": "/wiki/entities/lixianlatehan/"
+  },
+  "LiXianTaiweiLateHan": {
+    "title": "李贤 / Li Xian (taiwei, late Han)",
+    "url": "/wiki/entities/lixiantaiweilatehan/"
   },
   "LiXiang": {
     "title": "李翔 / Li Xiang",
@@ -45863,6 +45883,10 @@
     "title": "《黑客帝国》 / The Matrix",
     "url": "/wiki/entities/thematrix/"
   },
+  "TheMetamorphosisKafka": {
+    "title": "The Metamorphosis / Kafka's 《变形记》",
+    "url": "/wiki/entities/themetamorphosiskafka/"
+  },
   "TheMomTest": {
     "title": "The Mom Test",
     "url": "/wiki/entities/themomtest/"
@@ -57402,6 +57426,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud": {
+    "title": "《资治通鉴·汉纪》901 丨急性子的人会是什么下场？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud/"
   },
   "zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b": {
     "title": "《资治通鉴·汉纪》902丨控制情绪是人生必修课",

@@ -2,11 +2,15 @@
 title: "Collateral Punishment And Guilt By Association"
 type: concept
 tags: [law, criminal-law, punishment, family, records, legalism, pre-qin-history]
-sources: [zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom, zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79, zizhi-tongjian-qinji-131-1-qinxiang-lisi-yisheng-jingming-que-zao-yaozhan-liupvalcghtas2ibfyjrtdz6ctg7, zizhi-tongjian-qinji-128-1-buxiang-cuanwei-de-taijian-bushi-ge-hao-jianchen-lh23xj9qxvubj5rlfa9fxmddgbiu, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga, 100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302]
+sources: [zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud, zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom, zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79, zizhi-tongjian-qinji-131-1-qinxiang-lisi-yisheng-jingming-que-zao-yaozhan-liupvalcghtas2ibfyjrtdz6ctg7, zizhi-tongjian-qinji-128-1-buxiang-cuanwei-de-taijian-bushi-ge-hao-jianchen-lh23xj9qxvubj5rlfa9fxmddgbiu, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga, 100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302]
 last_updated: 2026-08-26
 ---
 
 # Collateral Punishment And Guilt By Association
+
+[[zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud|Hanji 901]] adds a posthumous-status variant. [[CaoJieLateHan|曹节]] and [[WangFuLateHan|王甫]] oppose full burial recognition for [[EmpressDowagerDouMiao|窦皇太后]] by arguing from Dou-family guilt and precedent, while [[ChenQiuLateHan|陈球 / 陈求]] and [[LiXianTaiweiLateHan|李贤]] answer that she should not be treated as the planner or commander of the family's offenses.
+
+This is not execution or office exclusion. It shows the same logic reaching into [[ImperialBurialLegitimacy|帝后合葬名分]]: a family member's political defeat can be used to deny a deceased woman ritual status even after her own dowager role had public meaning.
 
 [[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom|Hanji 903]] adds two lethal late-Han variants. [[DuanJiongLateHan|段熲]]'s retaliation against [[SuBuweiLateHan|苏不韦]] kills more than sixty members of Su's household, while [[WangFuLateHan|王甫]]'s treason case against [[LiuKuiBohaiKing|刘亏]] reaches Liu's concubines, children, dancers, and [[BohaiKingdomLateHan|Bohai]] officials. In both branches, punishment travels along household, patronage, and office ties rather than staying bounded to the original actor.
 
@@ -25,6 +29,7 @@ The source argues that this is hard to justify under either retribution or utili
 [[zizhi-tongjian-qinji-131-1-qinxiang-lisi-yisheng-jingming-que-zao-yaozhan-liupvalcghtas2ibfyjrtdz6ctg7|Qinji 131-1]] adds the condemned-minister version through [[LiSi|李斯]]. After [[ZhaoGao|赵高]] turns the treason charge into a forced confession, Li Si is executed at [[Xianyang|咸阳]] and the source says his three clans are destroyed. His son is also taken to execution with him, making family annihilation part of the punishment outcome rather than a separate battlefield event.
 
 ## Key Claims
+- Hanji 901 adds that guilt-by-association can deny posthumous ritual recognition, not only impose punishment on living kin.
 - Hanji 903 adds household-destruction and fief-purge variants before the office-exclusion form in Hanji 907.
 - In Hanji 907, collateral punishment appears as political-office exclusion through party-prohibition kinship and network liability rather than as execution or ordinary criminal-record stigma.
 - A sentence can end while social and administrative punishment continues.
@@ -37,6 +42,7 @@ The source argues that this is hard to justify under either retribution or utili
 - In Li Si's Qin case, a manufactured treason conviction extends from the accused minister to son and clans, turning family destruction into political cleanup and deterrent display.
 
 ## Connections
+- [[zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud|Hanji 901]], [[EmpressDowagerDouMiao|窦皇太后]], [[CaoJieLateHan|曹节]], [[WangFuLateHan|王甫]], [[ChenQiuLateHan|陈球 / 陈求]], and [[ImperialBurialLegitimacy|帝后合葬名分]] - family guilt used to contest burial recognition.
 - [[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom|Hanji 903]], [[SuBuweiLateHan|苏不韦]], [[DuanJiongLateHan|段熲]], [[LiuKuiBohaiKing|刘亏]], [[BohaiKingdomLateHan|渤海王国]], and [[WangFuLateHan|王甫]] - household killing and royal-fief purge.
 - [[zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79|Hanji 907]], [[CaoLuanLateHan|曹鸾]], [[EmperorLingOfHan|汉灵帝]], and [[PartyProhibitionKinshipExpansion|党锢亲属牵连扩大]] - late-Han office-exclusion variant of collateral punishment.
 - [[PunishmentTheoryTradeoff]] - theory background for why collateral punishment is unstable.

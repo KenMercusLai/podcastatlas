@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2218
+topic_total_pages: 2219
 topic_concepts:
   - key: "AbraxasWholeGodSymbolism"
     title: "Abraxas Whole-God Symbolism / 阿布拉克萨斯完整神象征"
@@ -4064,6 +4064,9 @@ topic_entities:
   - key: "InvisibleManHGWells"
     title: "The Invisible Man / 《隐身人》"
     url: "/wiki/entities/invisiblemanhgwells/"
+  - key: "TheMetamorphosisKafka"
+    title: "The Metamorphosis / Kafka's 《变形记》"
+    url: "/wiki/entities/themetamorphosiskafka/"
   - key: "TheMomTest"
     title: "The Mom Test"
     url: "/wiki/entities/themomtest/"

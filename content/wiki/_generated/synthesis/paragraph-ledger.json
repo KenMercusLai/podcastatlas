@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "64f4e7e02b7db9d71f22ae6dc96503f17ab9d4b7266a173a340b072ff08fed49",
       "bf9a4f3a2894a9ccd1632f4877f743fad537cd781a1d7c122bf8c67b5f8e2add",
       "e2b2eeb2a497845d9d0b856265b8d97834b83e4dcd49a380fc66e7537163cd55",
       "e47d1d5203e78026f14f4a86bcbd1066d57a54949b99fadad0960ed8b889fc7d",
@@ -239,11 +240,51 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "b16a38bd6e190222f7f3e6f0535803ce60ae7f3304e3477dfcdd995a15fb502f"
     ],
-    "paragraph_count": 237
+    "paragraph_count": 238
   },
-  "overview_commit": "1a8181401e235da4c8caf273e484411b2358e937",
-  "overview_digest": "81f5a1753196df2b1b8b52748c74b1402a5f301f79e0277a0928fa4eb4b084db",
+  "overview_commit": "a6ede511dfab6244faa2b398b3b3c50c3c8953ac",
+  "overview_digest": "1795ff8aa62fa24faf721a777c2a6279d1ab9d28aa62a0f178a81e02c81fadd3",
   "paragraphs": [
+    {
+      "id": "64f4e7e02b7db9d71f22ae6dc96503f17ab9d4b7266a173a340b072ff08fed49",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud|《资治通鉴·汉纪》901 丨急性子的人会是什么下场？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 172 CE late-Han burial-legitimacy layer immediately before [[zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b|Hanji 902]]. It adds [[LiXianTaiweiLateHan|李贤]], [[EmpressDowagerDouMiao|窦妙 / 窦皇太后]], [[EmperorHuanOfHan|汉桓帝]], [[FengGuirenLateHan|冯贵人]], [[TheMetamorphosisKafka|Kafka's The Metamorphosis]], and [[ImperialBurialLegitimacy|帝后合葬名分]], while extending [[ChenQiuLateHan|陈球 / 陈求]], [[EmperorLingOfHan|汉灵帝]], [[ZhaoZhongLateHan|赵忠]], [[CaoJieLateHan|曹节]], [[WangFuLateHan|王甫]], [[ChenFanLateHan|陈蕃]], [[DouWuLateHan|窦武]], [[EmotionRegulationToolkit|情绪调节工具箱]], [[ReactionChoiceFrame|反应选择框架]], [[MingqiLegitimacy|名器合法性]], [[LiAsPoliticalOrder|礼制政治秩序]], [[PosthumousNamePolitics|谥号政治]], and [[CollateralPunishmentAndGuiltByAssociation|collateral punishment]]. Its core synthesis is that timing and role judgment link the personal and political halves of the episode: the opening urges a pause before impatience turns anxiety and self-importance into bad action, while the court narrative shows Chen Qiu and Li Xian breaking dangerous silence to preserve Dou's burial status against eunuch-side family-guilt arguments. No settled contradiction is recorded; 李贤 is disambiguated from [[LiXianLateHan|李暹]], Kafka's 《变形记》 is disambiguated from [[Metamorphoses|Ovid's Metamorphoses]], 陈求 is normalized to [[ChenQiuLateHan|陈球]], and the source's 2025 opening date cue is kept source-scoped against 2026-07-28 metadata.",
+      "topic_scores": {
+        "governance-and-institutions": 4,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 2,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "CaoJieLateHan",
+        "ChenFanLateHan",
+        "ChenQiuLateHan",
+        "CollateralPunishmentAndGuiltByAssociation",
+        "DouWuLateHan",
+        "EmotionRegulationToolkit",
+        "EmperorHuanOfHan",
+        "EmperorLingOfHan",
+        "EmpressDowagerDouMiao",
+        "FengGuirenLateHan",
+        "ImperialBurialLegitimacy",
+        "LiAsPoliticalOrder",
+        "LiXianLateHan",
+        "LiXianTaiweiLateHan",
+        "Metamorphoses",
+        "MingqiLegitimacy",
+        "PosthumousNamePolitics",
+        "ReactionChoiceFrame",
+        "RuiqiJiangtouZizhiTongjian",
+        "TheMetamorphosisKafka",
+        "WangFuLateHan",
+        "ZhaoZhongLateHan",
+        "zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud",
+        "zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b"
+      ]
+    },
     {
       "id": "bf9a4f3a2894a9ccd1632f4877f743fad537cd781a1d7c122bf8c67b5f8e2add",
       "primary_topic": "governance-and-institutions",

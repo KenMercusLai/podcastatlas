@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 7680
+wiki_total_pages: 7685
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -323,6 +323,9 @@ wiki_pages:
   - key: "TheLiberationOfAuntJemima"
     title: "The Liberation of Aunt Jemima"
     url: "/wiki/entities/theliberationofauntjemima/"
+  - key: "TheMetamorphosisKafka"
+    title: "The Metamorphosis / Kafka's 《变形记》"
+    url: "/wiki/entities/themetamorphosiskafka/"
   - key: "TheMomTest"
     title: "The Mom Test"
     url: "/wiki/entities/themomtest/"

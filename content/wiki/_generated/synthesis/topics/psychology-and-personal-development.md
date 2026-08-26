@@ -4,17 +4,29 @@ generated: true
 topic_id: psychology-and-personal-development
 title: "Psychology and Personal Development"
 last_updated: 2026-08-26
-as_of_overview_commit: 1a8181401e235da4c8caf273e484411b2358e937
-input_digest: a14ad41575cf1a206f94ee9fe4773dfb3384c088ac8897a8a20d12ea8ee71e31
+as_of_overview_commit: a6ede511dfab6244faa2b398b3b3c50c3c8953ac
+input_digest: 35cb3a377706f3f7675ed8e0c2b6213bcd74250eb2238cccf2e3ec78ce2aeca8
 ---
 
 # Psychology and Personal Development
 
 ## Current State
 
-Hanji 902 adds strategic emotion concealment to the personal-development branch: the episode treats uncontrolled display as a survival risk and uses Liu Meng, Zhang Huan, Duan Jiong, and Su Buwei to distinguish timing and self-command from moral endorsement of every tactic. Hanji 1029 adds character-reading delegation to the psychology branch: Sun Ce trusts Taishi Ci's promise, and that trust becomes useful only when Taishi Ci returns with concrete Yuzhang intelligence; the same source's windfall opening treats sudden wealth as a test of restraint, boundaries, and self-knowledge. Data Science With Sam EP47 keeps AI assistance under human judgment and verification, while April 13 Marketplace Tech shows that perceived authorship can affect trust in emotionally meaningful work. Hanji 930 reframes greed and resentment as prompts to build exchangeable capability, and Hanji 962, Hanji 970, and Hanji 999 show relationship trust becoming condition-dependent under violence, assassination risk, grain, protection, and family-safety pressure. Hanji 997 adds emotional attachment as a judgment-risk case, Hanji 1012 shows private desire breaking fragile surrender trust, and Hanji 1015 frames ambition as dangerous when title, timing, recognition, and capacity do not match. The market and workplace paragraphs add the same calibration problem in newer settings: Unitree enthusiasm needs commercial self-checks, investing needs stop-loss and position-sizing discipline, workplace relationships need explicit boundaries, agent automation needs permission limits and human verification, middle-class consumption needs identity-cost discipline, and organizational trust can become both asset and liability. Episode 692 adds a collective-judgment case: confessional trauma memory, Campion's charisma, and the pastoral-versus-subversion ambiguity show how sincere mission can become threatening when identity, legitimacy, and security fear are already coupled.
+Hanji 901 adds impatience control to the personal-development branch: the episode frames 急性子 as anxiety, compulsion, rigid thinking, result fixation, and self-importance, then offers a small reaction interval through the count-to-three pause and Kafka example. Hanji 902 adds strategic emotion concealment to the personal-development branch: the episode treats uncontrolled display as a survival risk and uses Liu Meng, Zhang Huan, Duan Jiong, and Su Buwei to distinguish timing and self-command from moral endorsement of every tactic. Hanji 1029 adds character-reading delegation to the psychology branch: Sun Ce trusts Taishi Ci's promise, and that trust becomes useful only when Taishi Ci returns with concrete Yuzhang intelligence; the same source's windfall opening treats sudden wealth as a test of restraint, boundaries, and self-knowledge. Data Science With Sam EP47 keeps AI assistance under human judgment and verification, while April 13 Marketplace Tech shows that perceived authorship can affect trust in emotionally meaningful work. Hanji 930 reframes greed and resentment as prompts to build exchangeable capability, and Hanji 962, Hanji 970, and Hanji 999 show relationship trust becoming condition-dependent under violence, assassination risk, grain, protection, and family-safety pressure. Hanji 997 adds emotional attachment as a judgment-risk case, Hanji 1012 shows private desire breaking fragile surrender trust, and Hanji 1015 frames ambition as dangerous when title, timing, recognition, and capacity do not match. The market and workplace paragraphs add the same calibration problem in newer settings: Unitree enthusiasm needs commercial self-checks, investing needs stop-loss and position-sizing discipline, workplace relationships need explicit boundaries, agent automation needs permission limits and human verification, middle-class consumption needs identity-cost discipline, and organizational trust can become both asset and liability. Episode 692 adds a collective-judgment case: confessional trauma memory, Campion's charisma, and the pastoral-versus-subversion ambiguity show how sincere mission can become threatening when identity, legitimacy, and security fear are already coupled.
 
 ## Cross-source Findings
+
+### Impatience Pause Interrupts Self Importance
+
+[[zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud|Hanji 901]] adds an impatience-specific personal-development case: [[EmotionRegulationToolkit]] and [[ReactionChoiceFrame]] become a deliberately simple pause before action, while [[TheMetamorphosisKafka]] is used to puncture anxious self-importance before it drives speech or behavior.
+
+**Evidence:** [[zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud]], [[EmotionRegulationToolkit]], [[ReactionChoiceFrame]], [[TheMetamorphosisKafka]]
+
+**Qualifications:**
+
+- This is the host source-scoped personal-development interpretation, not a clinical psychology claim.
+- Kafka The Metamorphosis is kept distinct from Ovid Metamorphoses because both Chinese titles can appear as bianxingji.
+- The episode court-burial narrative also belongs to the governance topic; this claim only captures the impatience and self-importance frame.
 
 ### Emotion Concealment Supports Political Survival
 

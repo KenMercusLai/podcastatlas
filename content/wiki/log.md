@@ -11660,6 +11660,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-26] ingest | 《资治通鉴·汉纪》901 丨急性子的人会是什么下场？
+
+Added source page for Hanji 901: acute-temper emotion control, Kafka's The Metamorphosis self-importance example, and the 172 CE debate over Empress Dowager Dou's burial with Emperor Huan. Created Li Xian (taiwei), Empress Dowager Dou Miao, Emperor Huan of Han, Feng Guiren, Kafka's The Metamorphosis, and Imperial Burial Legitimacy pages; updated linked late-Han eunuch, minister, ritual-order, posthumous-status, and emotion-regulation pages. No settled contradiction found; 李贤 is disambiguated from 李暹, Kafka's 《变形记》 is disambiguated from Ovid's 《变形记》, 陈求 is normalized to 陈球, and the 2025/2026 source date cue remains source-scoped.
+
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》902丨控制情绪是人生必修课
 
 Added source page for Hanji 902: strategic emotion concealment, the 172 CE Zhuque Gate accusation against Cao Jie and Wang Fu, Liu Meng's restrained investigation and punishment, Duan Jiong's broad crackdown, Zhang Huan's humbled survival, and Su Buwei's first failed revenge attack on Li Hao. Created Liu Meng, Zhang Huan, Wang Yu (late Han), Su Qian, Strategic Emotion Concealment, and Anonymous Remonstrance Suppression pages; updated linked late-Han actor, court-feedback, survival, and revenge-cycle pages. No settled contradiction found; 段颎/段炯 and 李浩 are normalized to existing canonical routes, while 王寓 is disambiguated from Wang Yu / 汪玉.
