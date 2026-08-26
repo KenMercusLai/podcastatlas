@@ -11672,6 +11672,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-26] ingest | 腾讯、阿里、字节争夺打工人，互联网大厂为何集体加码 AI 办公？
+
+Added source page for a 声动早咖啡 episode on Tencent, Alibaba, and ByteDance concentrating on AI office after consumer chatbot promotion. Created Doubao Work; migrated AI Office Agent and Tencent WorkBuddy to synthesis-v1; updated index, overview, and generated synthesis artifacts. No direct contradiction found; WorkBuddy/WorkBody naming and reported revenue, DAU, token-cost, and financing figures remain source-scoped.
+
 ## [2026-08-26] ingest | EP278 AI时代不卷专业，卷什么？丨“人在中流”特别策划02
 
 Added Talk三联 source page for the second “人在中流” AI discussion: AI-era major choice, career cognition, junior-rung compression, real-world education, media work upstream of AI, and non-algorithmic capabilities. Created Gao Erji, Wu Laoshi (Sanlian editor), Caixin Media, and AI Snowline Work Boundary; updated AI-Era Major Choice, Career Cognition Education, and Non-Algorithmic Capabilities into synthesis-v1. No settled contradiction found; the episode qualifies safe-major and AI-tutor optimism by keeping foundations, internalization, real-world contact, and human judgment central.
@@ -11997,6 +12001,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-26] ingest | E46 我们从未看见彼此
 
 Added source page for Wuren Zhixiao E46: AI-raised expression baselines, 《好朋友们》 as an interpersonal projection case, Max Bennett's five-layer intelligence frame, dopamine wanting, predictive anxiety, mentalizing projection, language compression, algorithmic amplification, harmful speech, and Krishnamurti's image/register and total-attention vocabulary. Created Max Bennett, Good Friends, Jiddu Krishnamurti, Tim Urban, What Is Our Problem, AI Expression Baseline, Interpersonal Image Projection, Evolutionary Misrecognition, Dopamine Wanting Loop, Predictive World-Model Anxiety, Mentalizing Projection, Language Compression Labeling, and Total Attention Practice; updated Wuren Zhixiao, Meng Yan, and A Brief History of Intelligence. No settled contradiction found.
+
+## [2026-08-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-26] lint | Wiki health check
 

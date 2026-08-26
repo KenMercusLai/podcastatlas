@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "02aca0cdc3e5a8775e4f935539adfd86ed7ad52997d7c90ca4cf477989391fb1",
       "b59592e9dee1b2eee5a578c1941f5cafbbdd73787a357e7b849bb4a18af13d90",
       "c1fcb3861b584fe6e941c87932da97413c4884d0dceb790e661f42a218f310c0",
       "3ebdf9dcaded254adec25e064e08f763e9ead24285786d5a7dd344b303cb97ce",
@@ -249,11 +250,52 @@
       "d9074e43b7b103fc0d0097b207bf8018227d6e146ca0eb75638118627687641c",
       "b16a38bd6e190222f7f3e6f0535803ce60ae7f3304e3477dfcdd995a15fb502f"
     ],
-    "paragraph_count": 247
+    "paragraph_count": 248
   },
-  "overview_commit": "9677edbc93d1129785b6af69179c0670d8838aa9",
-  "overview_digest": "bbe8edb743c813e22d087be8f81f332637f5cdb715cfbdb17cbc87d605c27c0c",
+  "overview_commit": "cc59c48f09b52bead92585b2dbd3efa4dde47113",
+  "overview_digest": "6a27c6d2037debd5ece71ad73a0bbfc8b8286a92f88a38a37f2a1974d2fa2681",
   "paragraphs": [
+    {
+      "id": "02aca0cdc3e5a8775e4f935539adfd86ed7ad52997d7c90ca4cf477989391fb1",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "business-and-markets"
+      ],
+      "text": "The latest addition is [[tengxun-ali-zijie-zhengduo-dagongren-hulianwang-dachang-weihe-jiti-jiama-ai-bangong-1008598460]], a [[ShengdongZaokafei|声动早咖啡]] episode on [[Tencent]], [[Alibaba]], and [[ByteDance]] shifting from consumer chatbot promotion toward [[AIOfficeAgent|AI office agents]]. It adds [[DoubaoWork]], while extending [[TencentWorkBuddy]], [[Doubao]], [[Yuanbao]], [[Qwen]], [[DingTalk]], [[Feishu]], [[ClaudeCode]], [[Anthropic]], [[OpenAI]], [[DeepSeek]], [[Manus]], [[AgentHarness]], [[AIProgrammingEngineShift]], [[AICommercializationPressure]], [[AIInferenceCostStructure]], and [[AIConsumerGrowthMetrics]]. Its core synthesis is that AI office is a monetization and entry-point response to token-cost pressure: coding agents show clearer task verification and B-end willingness to pay, while office platforms can use documents, permissions, history, and enterprise context, but Chinese enterprise payment culture, subsidies, and non-coding office-work ROI remain unresolved. No settled contradiction is recorded; the [[TencentWorkBuddy]] / [[TencentWorkBody]] product-name boundary remains source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 4,
+        "business-and-markets": 2,
+        "culture-and-media": 1,
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AICommercializationPressure",
+        "AIConsumerGrowthMetrics",
+        "AIInferenceCostStructure",
+        "AIOfficeAgent",
+        "AIProgrammingEngineShift",
+        "AgentHarness",
+        "Alibaba",
+        "Anthropic",
+        "ByteDance",
+        "ClaudeCode",
+        "DeepSeek",
+        "DingTalk",
+        "Doubao",
+        "DoubaoWork",
+        "Feishu",
+        "Manus",
+        "OpenAI",
+        "Qwen",
+        "ShengdongZaokafei",
+        "Tencent",
+        "TencentWorkBody",
+        "TencentWorkBuddy",
+        "Yuanbao",
+        "tengxun-ali-zijie-zhengduo-dagongren-hulianwang-dachang-weihe-jiti-jiama-ai-bangong-1008598460"
+      ]
+    },
     {
       "id": "b59592e9dee1b2eee5a578c1941f5cafbbdd73787a357e7b849bb4a18af13d90",
       "primary_topic": "ai-and-technology",

@@ -453,6 +453,29 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/aiexpressionbaseline/"
     },
+    "AIOfficeAgent": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "270.大厂押注AI办公，飞书和钉钉却先成了配角 [lmb4DgcgOv3mR4CN7ciKBgHpfrO4].md",
+          "key": "270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4",
+          "show": "乱翻书",
+          "title": "270.大厂押注AI办公，飞书和钉钉却先成了配角",
+          "url": "/wiki/sources/270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4/"
+        },
+        {
+          "episode_file": "腾讯、阿里、字节争夺打工人，互联网大厂为何集体加码 AI 办公？ [1008598460].md",
+          "key": "tengxun-ali-zijie-zhengduo-dagongren-hulianwang-dachang-weihe-jiti-jiama-ai-bangong-1008598460",
+          "show": "声动早咖啡",
+          "title": "腾讯、阿里、字节争夺打工人，互联网大厂为何集体加码 AI 办公？",
+          "url": "/wiki/sources/tengxun-ali-zijie-zhengduo-dagongren-hulianwang-dachang-weihe-jiti-jiama-ai-bangong-1008598460/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/aiofficeagent/"
+    },
     "AISnowlineWorkBoundary": {
       "episode_count": 1,
       "show_count": 1,
@@ -709,6 +732,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/dopaminewantingloop/"
+    },
+    "DoubaoWork": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "腾讯、阿里、字节争夺打工人，互联网大厂为何集体加码 AI 办公？ [1008598460].md",
+          "key": "tengxun-ali-zijie-zhengduo-dagongren-hulianwang-dachang-weihe-jiti-jiama-ai-bangong-1008598460",
+          "show": "声动早咖啡",
+          "title": "腾讯、阿里、字节争夺打工人，互联网大厂为何集体加码 AI 办公？",
+          "url": "/wiki/sources/tengxun-ali-zijie-zhengduo-dagongren-hulianwang-dachang-weihe-jiti-jiama-ai-bangong-1008598460/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/doubaowork/"
     },
     "DuGenLateHan": {
       "episode_count": 1,
@@ -2493,6 +2532,36 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/tansitong/"
+    },
+    "TencentWorkBuddy": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "270.大厂押注AI办公，飞书和钉钉却先成了配角 [lmb4DgcgOv3mR4CN7ciKBgHpfrO4].md",
+          "key": "270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4",
+          "show": "乱翻书",
+          "title": "270.大厂押注AI办公，飞书和钉钉却先成了配角",
+          "url": "/wiki/sources/270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4/"
+        },
+        {
+          "episode_file": "姚顺雨，来到腾讯300天 (1) [176-1].md",
+          "key": "yao-shunyu-laidao-tengxun-300tian-1-176-1",
+          "show": "晚点聊 LateTalk",
+          "title": "176: 姚顺宇，来到腾讯300天",
+          "url": "/wiki/sources/yao-shunyu-laidao-tengxun-300tian-1-176-1/"
+        },
+        {
+          "episode_file": "腾讯、阿里、字节争夺打工人，互联网大厂为何集体加码 AI 办公？ [1008598460].md",
+          "key": "tengxun-ali-zijie-zhengduo-dagongren-hulianwang-dachang-weihe-jiti-jiama-ai-bangong-1008598460",
+          "show": "声动早咖啡",
+          "title": "腾讯、阿里、字节争夺打工人，互联网大厂为何集体加码 AI 办公？",
+          "url": "/wiki/sources/tengxun-ali-zijie-zhengduo-dagongren-hulianwang-dachang-weihe-jiti-jiama-ai-bangong-1008598460/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/tencentworkbuddy/"
     },
     "TianKaiLateHan": {
       "episode_count": 3,

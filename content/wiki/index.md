@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [腾讯、阿里、字节争夺打工人，互联网大厂为何集体加码 AI 办公？](sources/tengxun-ali-zijie-zhengduo-dagongren-hulianwang-dachang-weihe-jiti-jiama-ai-bangong-1008598460.md) — 声动早咖啡 episode on Tencent, Alibaba, and ByteDance shifting from consumer AI chatbots toward AI office products because agents, coding proof, token costs, enterprise context, and payment uncertainty make office workflows the new AI battleground.
 - [E46 我们从未看见彼此](sources/e46-women-congwei-kanjian-bici-lmliksaiwxakmjbn-p2voaaoenxh.md) — 无人知晓 solo episode on AI-era expression, the film 《好朋友们》, evolved intelligence, interpersonal projection, language labels, algorithmic amplification, and Krishnamurti's total attention.
 - [The $1/Hour Worker: Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs](sources/all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680.md) — All-In robotics special on Anybotics, 1X, Boston Dynamics, and Agility Robotics across industrial inspection, home humanoids, warehouse humanoids, teleoperation, robot data, safety, sovereignty, and dangerous-work automation.
 - [《资治通鉴·汉纪》895丨血腥屠刀下的骨肉情深](sources/zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3.md) — 芮淇讲透资治通鉴 episode on Zhang Jian's 169 CE flight, Kong Rong hiding him in Kong Bao's household, the Kong-family responsibility contest, Xia Fu and Du Gen's non-implication withdrawal, and Tan Sitong's later poetic allusion.
@@ -3964,6 +3965,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [伍玥 / Wu Yue (Sanlian)](entities/WuYueSanlian.md) — Talk三联 speaker whose magazine memories connect family subscriptions, class circulation, youth literature, and Hallyu fan consumption.
 - [Tencent WorkBody](entities/TencentWorkBody.md) — Tencent AI office-agent product named by episode 270 as a non-programmer work-agent competitor.
 - [Doubao Enterprise Edition / 豆包企业版](entities/DoubaoEnterpriseEdition.md) — Source-scoped enterprise packaging where Doubao AI is sold through Feishu-like office workflows.
+- [Doubao Work / 豆包工作](entities/DoubaoWork.md) — ByteDance AI-office product named in the 2026 office-agent pivot, kept distinct from Doubao Enterprise Edition until product lineage is clearer.
 - [Eric (Feishu source)](entities/EricFeishu.md) — Source speaker with Feishu commercialization/product background explaining Feishu, Volcano Engine, and Doubao enterprise sales overlap.
 - [雅兰 / Yalan (Luanfanshu)](entities/YalanLuanfanshu.md) — Source speaker summarizing Doubao consumer monetization limits around GMV, ads, and subscription.
 - [Wang Tiezhen / 王铁镇](entities/WangTiezhen.md) — Silicon Valley 101 guest explaining model distillation, scaling efficiency, Kimi K3 licensing, and open-model safety governance.

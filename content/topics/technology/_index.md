@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2436
+topic_total_pages: 2438
 topic_concepts:
   - key: "AcademicAIResearchRole"
     title: "Academic AI Research Role"
@@ -4070,6 +4070,9 @@ topic_entities:
   - key: "DoubaoEnterpriseEdition"
     title: "Doubao Enterprise Edition / 豆包企业版"
     url: "/wiki/entities/doubaoenterpriseedition/"
+  - key: "DoubaoWork"
+    title: "Doubao Work / 豆包工作"
+    url: "/wiki/entities/doubaowork/"
   - key: "DougDawson"
     title: "Doug Dawson"
     url: "/wiki/entities/dougdawson/"
@@ -7293,6 +7296,9 @@ topic_sources:
   - key: "suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i"
     title: "算力狂想曲，我在AI工厂的奇遇"
     url: "/wiki/sources/suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i/"
+  - key: "tengxun-ali-zijie-zhengduo-dagongren-hulianwang-dachang-weihe-jiti-jiama-ai-bangong-1008598460"
+    title: "腾讯、阿里、字节争夺打工人，互联网大厂为何集体加码 AI 办公？"
+    url: "/wiki/sources/tengxun-ali-zijie-zhengduo-dagongren-hulianwang-dachang-weihe-jiti-jiama-ai-bangong-1008598460/"
   - key: "lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506"
     title: "蓝箭航天完成中国首次陆地火箭回收，宇树科技市值超过 3000 亿"
     url: "/wiki/sources/lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506/"
