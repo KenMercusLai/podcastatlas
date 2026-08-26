@@ -639,6 +639,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/actionableorganizationalvalues/"
     },
+    "AdviceFramingUnderHierarchy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1034丨袁绍的败局，只因不肯听沮授的话？ [loG-Wy2ZVPdJOPbdyexb0IJQmph4].md",
+          "key": "zizhi-tongjian-hanji-1034-yuanshao-de-baiju-zhi-yin-buken-ting-jushou-de-hua-log-wy2zvpdjopbdyexb0ijqmph4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1034丨袁绍的败局，只因不肯听沮授的话？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1034-yuanshao-de-baiju-zhi-yin-buken-ting-jushou-de-hua-log-wy2zvpdjopbdyexb0ijqmph4/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/adviceframingunderhierarchy/"
+    },
     "AeropuertosArgentina2000": {
       "episode_count": 1,
       "show_count": 1,
@@ -2266,9 +2282,9 @@
       "url": "/wiki/entities/guanjinglatehan/"
     },
     "GuanduCampaign": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1026丨揭秘三国第一猛将吕布的落幕 [lhjf_aguJuIgLqCHUMtFf3tfTxg1].md",
@@ -2290,10 +2306,54 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1035丨斩杀曹操亲子和爱将，他竟再度归降曹操？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1035-zhansha-caocao-qinzi-he-aijiang-ta-jing-zaidu-guijiang-caocao-lh10wwkwcqw5hnap3bodw6oxpt7v/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1034丨袁绍的败局，只因不肯听沮授的话？ [loG-Wy2ZVPdJOPbdyexb0IJQmph4].md",
+          "key": "zizhi-tongjian-hanji-1034-yuanshao-de-baiju-zhi-yin-buken-ting-jushou-de-hua-log-wy2zvpdjopbdyexb0ijqmph4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1034丨袁绍的败局，只因不肯听沮授的话？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1034-yuanshao-de-baiju-zhi-yin-buken-ting-jushou-de-hua-log-wy2zvpdjopbdyexb0ijqmph4/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-08-27",
       "url": "/wiki/entities/guanducampaign/"
+    },
+    "GuoTu": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》956丨庸人和智者，究竟差距在哪里？ [lphEE8cJ_7GcMG-CyNpIPHJVaUuF].md",
+          "key": "zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》956丨庸人和智者，究竟差距在哪里？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》960丨曹魏顶级智囊荀彧，为何“弃袁投曹”？ [lmor1tXQpm88ITT4INCalusconJr].md",
+          "key": "zizhi-tongjian-hanji-960-caowei-dingji-zhinang-xunyu-weihe-qi-yuan-tou-cao-lmor1txqpm88itt4incalusconjr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》960丨曹魏顶级智囊荀彧，为何“弃袁投曹”？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-960-caowei-dingji-zhinang-xunyu-weihe-qi-yuan-tou-cao-lmor1txqpm88itt4incalusconjr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》992丨乱世有多可怕？揭秘长安的血色梦魇 [ltuxzRb-1X5y2CTwo4DrGgxn5sTZ].md",
+          "key": "zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》992丨乱世有多可怕？揭秘长安的血色梦魇",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1034丨袁绍的败局，只因不肯听沮授的话？ [loG-Wy2ZVPdJOPbdyexb0IJQmph4].md",
+          "key": "zizhi-tongjian-hanji-1034-yuanshao-de-baiju-zhi-yin-buken-ting-jushou-de-hua-log-wy2zvpdjopbdyexb0ijqmph4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1034丨袁绍的败局，只因不肯听沮授的话？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1034-yuanshao-de-baiju-zhi-yin-buken-ting-jushou-de-hua-log-wy2zvpdjopbdyexb0ijqmph4/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/guotu/"
     },
     "HanSongLateHan": {
       "episode_count": 2,
@@ -3245,6 +3305,43 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/joshspencer/"
     },
+    "JuShou": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》976丨三国谋士大盘点，谁是你心中的神？ [ljGPbosQ-9XIoWpgaEyossmgSt6x].md",
+          "key": "zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》976丨三国谋士大盘点，谁是你心中的神？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》992丨乱世有多可怕？揭秘长安的血色梦魇 [ltuxzRb-1X5y2CTwo4DrGgxn5sTZ].md",
+          "key": "zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》992丨乱世有多可怕？揭秘长安的血色梦魇",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》993丨神亭岭之战：孙策大战太史慈 [lrIVPk7COL2l7K-S4dqZXXP2KQp1].md",
+          "key": "zizhi-tongjian-hanji-993-shentingling-zhizhan-sunce-dazhan-taishici-lrivpk7col2l7k-s4dqzxxp2kqp1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》993丨神亭岭之战：孙策大战太史慈",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-993-shentingling-zhizhan-sunce-dazhan-taishici-lrivpk7col2l7k-s4dqzxxp2kqp1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1034丨袁绍的败局，只因不肯听沮授的话？ [loG-Wy2ZVPdJOPbdyexb0IJQmph4].md",
+          "key": "zizhi-tongjian-hanji-1034-yuanshao-de-baiju-zhi-yin-buken-ting-jushou-de-hua-log-wy2zvpdjopbdyexb0ijqmph4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1034丨袁绍的败局，只因不肯听沮授的话？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1034-yuanshao-de-baiju-zhi-yin-buken-ting-jushou-de-hua-log-wy2zvpdjopbdyexb0ijqmph4/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/jushou/"
+    },
     "KenCato": {
       "episode_count": 1,
       "show_count": 1,
@@ -3779,6 +3876,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/liuyelatehan/"
+    },
+    "LiyangYellowRiverLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1034丨袁绍的败局，只因不肯听沮授的话？ [loG-Wy2ZVPdJOPbdyexb0IJQmph4].md",
+          "key": "zizhi-tongjian-hanji-1034-yuanshao-de-baiju-zhi-yin-buken-ting-jushou-de-hua-log-wy2zvpdjopbdyexb0ijqmph4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1034丨袁绍的败局，只因不肯听沮授的话？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1034-yuanshao-de-baiju-zhi-yin-buken-ting-jushou-de-hua-log-wy2zvpdjopbdyexb0ijqmph4/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/liyangyellowriverlatehan/"
     },
     "LizWalters": {
       "episode_count": 1,
@@ -5242,6 +5355,29 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/shekharnatarajan/"
     },
+    "ShenPeiLateHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》957丨他曾雄霸一方，为何懦弱到在厕所自尽？ [lnKHah144822mC4AA9bNeZKLGvOO].md",
+          "key": "zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》957丨他曾雄霸一方，为何懦弱到在厕所自尽？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1034丨袁绍的败局，只因不肯听沮授的话？ [loG-Wy2ZVPdJOPbdyexb0IJQmph4].md",
+          "key": "zizhi-tongjian-hanji-1034-yuanshao-de-baiju-zhi-yin-buken-ting-jushou-de-hua-log-wy2zvpdjopbdyexb0ijqmph4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1034丨袁绍的败局，只因不肯听沮授的话？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1034-yuanshao-de-baiju-zhi-yin-buken-ting-jushou-de-hua-log-wy2zvpdjopbdyexb0ijqmph4/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/shenpeilatehan/"
+    },
     "ShenYueFDE": {
       "episode_count": 1,
       "show_count": 1,
@@ -6111,6 +6247,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/weitenglatehan/"
     },
+    "WenChouLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1034丨袁绍的败局，只因不肯听沮授的话？ [loG-Wy2ZVPdJOPbdyexb0IJQmph4].md",
+          "key": "zizhi-tongjian-hanji-1034-yuanshao-de-baiju-zhi-yin-buken-ting-jushou-de-hua-log-wy2zvpdjopbdyexb0ijqmph4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1034丨袁绍的败局，只因不肯听沮授的话？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1034-yuanshao-de-baiju-zhi-yin-buken-ting-jushou-de-hua-log-wy2zvpdjopbdyexb0ijqmph4/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/wenchoulatehan/"
+    },
     "WhatIsOurProblem": {
       "episode_count": 1,
       "show_count": 1,
@@ -6336,6 +6488,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/yanbaihu/"
     },
+    "YanLiangLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1034丨袁绍的败局，只因不肯听沮授的话？ [loG-Wy2ZVPdJOPbdyexb0IJQmph4].md",
+          "key": "zizhi-tongjian-hanji-1034-yuanshao-de-baiju-zhi-yin-buken-ting-jushou-de-hua-log-wy2zvpdjopbdyexb0ijqmph4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1034丨袁绍的败局，只因不肯听沮授的话？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1034-yuanshao-de-baiju-zhi-yin-buken-ting-jushou-de-hua-log-wy2zvpdjopbdyexb0ijqmph4/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/yanlianglatehan/"
+    },
     "YangFuLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -6505,6 +6673,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/yuzhangcommandery/"
+    },
+    "ZangBaLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1034丨袁绍的败局，只因不肯听沮授的话？ [loG-Wy2ZVPdJOPbdyexb0IJQmph4].md",
+          "key": "zizhi-tongjian-hanji-1034-yuanshao-de-baiju-zhi-yin-buken-ting-jushou-de-hua-log-wy2zvpdjopbdyexb0ijqmph4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1034丨袁绍的败局，只因不肯听沮授的话？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1034-yuanshao-de-baiju-zhi-yin-buken-ting-jushou-de-hua-log-wy2zvpdjopbdyexb0ijqmph4/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/zangbalatehan/"
     },
     "ZhangJianLateHan": {
       "episode_count": 1,

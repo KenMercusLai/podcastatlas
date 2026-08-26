@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 7784
+wiki_total_pages: 7788
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -725,6 +725,9 @@ wiki_pages:
   - key: "WarringStatesPeriod"
     title: "战国时期 / Warring States Period"
     url: "/wiki/entities/warringstatesperiod/"
+  - key: "WenChouLateHan"
+    title: "文丑 / Wen Chou (late Han)"
+    url: "/wiki/entities/wenchoulatehan/"
   - key: "WenliLiangkaihua"
     title: "文力两开花 / Wenli Liangkaihua"
     url: "/wiki/entities/wenliliangkaihua/"

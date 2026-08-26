@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "d59deaae3eb589df45f702d15d17cc78bcc6a4a8b3742d681f8adc3cf903d0c0",
       "7a0b9342ff7e5037d26f669907c339a74dabea46863d7092ab9f61fd93db331f",
       "11b46069f5d5d3b388ce54be58a714716b4196155acf6688217b72a05e31fe09",
       "4750f2d130430d92f8abea0e83e20e22d8a9614002bf3042c8881efa9d804e73",
@@ -261,11 +262,45 @@
       "b16a38bd6e190222f7f3e6f0535803ce60ae7f3304e3477dfcdd995a15fb502f",
       "32b62a0e1fc3144c5e7770721fc745607afef0d0cf46a8fe94d35cab377dbbf9"
     ],
-    "paragraph_count": 259
+    "paragraph_count": 260
   },
-  "overview_commit": "07ebfbbea17caca061ee732220899b964bcf550f",
-  "overview_digest": "69aa7d6ae35a0b9ec816e50c23c078d90500c4056f9eced41a03b565b3812150",
+  "overview_commit": "7c17119b00dd6642b82f0c8930e23fa7b052cc37",
+  "overview_digest": "db6a6a541734dacc93234a57b19a931aebe5ac36f73de2556489a81126b686f1",
   "paragraphs": [
+    {
+      "id": "d59deaae3eb589df45f702d15d17cc78bcc6a4a8b3742d681f8adc3cf903d0c0",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1034-yuanshao-de-baiju-zhi-yin-buken-ting-jushou-de-hua-log-wy2zvpdjopbdyexb0ijqmph4|《资治通鉴·汉纪》1034丨袁绍的败局，只因不肯听沮授的话？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode on [[YuanShao|袁绍]]'s pre-[[GuanduCampaign|官渡]] war council and [[CaoCao|曹操]]'s opposing assessment. It adds [[YanLiangLateHan|颜良]], [[WenChouLateHan|文丑]], [[ZangBaLateHan|臧霸]], [[LiyangYellowRiverLateHan|黎阳]], and [[AdviceFramingUnderHierarchy|等级场景中的进言包装]], while extending [[JuShou|沮授]], [[GuoTu|郭图]], [[ShenPeiLateHan|审配]], [[KongRong|孔融]], [[XunYu|荀彧]], [[QingzhouLateHan|青州]], [[YuJin|于禁]], [[Xudu|许都]], [[AdviserStateArchitecture|谋士政权架构]], [[CourtFeedbackCollapse|君臣反馈失灵]], and [[XingshiqingStrategicAssessment|行势情战略评估]]. Its core synthesis is that Yuan Shao's pre-Guandu weakness is not reducible to ignoring one correct adviser: Ju Shou supplies the rest, agriculture, and harassment strategy, but blunt framing loses to flattery inside a factional court, while Cao Cao and Xun Yu turn opponent analysis into morale, shared judgment, and forward deployment. No settled contradiction is recorded; the episode qualifies older adviser-failure pages by adding speech framing and meeting dynamics as mechanisms.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 2,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "AdviceFramingUnderHierarchy",
+        "AdviserStateArchitecture",
+        "CaoCao",
+        "CourtFeedbackCollapse",
+        "GuanduCampaign",
+        "GuoTu",
+        "JuShou",
+        "KongRong",
+        "LiyangYellowRiverLateHan",
+        "QingzhouLateHan",
+        "RuiqiJiangtouZizhiTongjian",
+        "ShenPeiLateHan",
+        "WenChouLateHan",
+        "XingshiqingStrategicAssessment",
+        "Xudu",
+        "XunYu",
+        "YanLiangLateHan",
+        "YuJin",
+        "YuanShao",
+        "ZangBaLateHan",
+        "zizhi-tongjian-hanji-1034-yuanshao-de-baiju-zhi-yin-buken-ting-jushou-de-hua-log-wy2zvpdjopbdyexb0ijqmph4"
+      ]
+    },
     {
       "id": "7a0b9342ff7e5037d26f669907c339a74dabea46863d7092ab9f61fd93db331f",
       "primary_topic": "governance-and-institutions",

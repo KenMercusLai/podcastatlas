@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 7784
+wiki_total_pages: 7788
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -869,6 +869,9 @@ wiki_pages:
   - key: "ZangYan"
     title: "臧衍 / Zang Yan"
     url: "/wiki/entities/zangyan/"
+  - key: "ZangBaLateHan"
+    title: "臧霸 / Zang Ba (late Han)"
+    url: "/wiki/entities/zangbalatehan/"
   - key: "Zili"
     title: "自立"
     url: "/wiki/entities/zili/"

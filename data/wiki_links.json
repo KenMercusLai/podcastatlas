@@ -3003,6 +3003,10 @@
     "title": "Adversity Silence Discipline / 逆境守口",
     "url": "/wiki/concepts/adversitysilencediscipline/"
   },
+  "AdviceFramingUnderHierarchy": {
+    "title": "等级场景中的进言包装 / Hierarchy-Aware Advice Framing",
+    "url": "/wiki/concepts/adviceframingunderhierarchy/"
+  },
   "AdviserStateArchitecture": {
     "title": "Adviser State Architecture / 谋士政权架构",
     "url": "/wiki/concepts/adviserstatearchitecture/"
@@ -28611,6 +28615,10 @@
     "title": "栎阳 / Liyang (Qin-Han)",
     "url": "/wiki/entities/liyangqinhan/"
   },
+  "LiyangYellowRiverLateHan": {
+    "title": "黎阳 / Liyang (Yellow River, late Han)",
+    "url": "/wiki/entities/liyangyellowriverlatehan/"
+  },
   "LizFarmer": {
     "title": "Liz Farmer",
     "url": "/wiki/entities/lizfarmer/"
@@ -50067,6 +50075,10 @@
     "title": "Wembley Stadium",
     "url": "/wiki/entities/wembleystadium/"
   },
+  "WenChouLateHan": {
+    "title": "文丑 / Wen Chou (late Han)",
+    "url": "/wiki/entities/wenchoulatehan/"
+  },
   "WenJiang": {
     "title": "文姜 / Wen Jiang",
     "url": "/wiki/entities/wenjiang/"
@@ -51999,6 +52011,10 @@
     "title": "严良（《放学后的小巷》）",
     "url": "/wiki/entities/yanliangfangxuehou/"
   },
+  "YanLiangLateHan": {
+    "title": "颜良 / Yan Liang (late Han)",
+    "url": "/wiki/entities/yanlianglatehan/"
+  },
   "YanMinGong": {
     "title": "燕闵公 / Duke Min of Yan",
     "url": "/wiki/entities/yanmingong/"
@@ -53078,6 +53094,10 @@
   "ZackPolanski": {
     "title": "Zack Polanski",
     "url": "/wiki/entities/zackpolanski/"
+  },
+  "ZangBaLateHan": {
+    "title": "臧霸 / Zang Ba (late Han)",
+    "url": "/wiki/entities/zangbalatehan/"
   },
   "ZangHong": {
     "title": "臧洪 / Zang Hong",
@@ -57842,6 +57862,10 @@
   "zizhi-tongjian-hanji-1031-gongsunzan-zhisi-cong-bianjiang-zhanshen-dao-kunshou-zifen-lmqoechccfwmfpmbdx8-tjmnm3jz": {
     "title": "《资治通鉴·汉纪》1031丨公孙瓒之死：从边疆战神到困兽自焚",
     "url": "/wiki/sources/zizhi-tongjian-hanji-1031-gongsunzan-zhisi-cong-bianjiang-zhanshen-dao-kunshou-zifen-lmqoechccfwmfpmbdx8-tjmnm3jz/"
+  },
+  "zizhi-tongjian-hanji-1034-yuanshao-de-baiju-zhi-yin-buken-ting-jushou-de-hua-log-wy2zvpdjopbdyexb0ijqmph4": {
+    "title": "《资治通鉴·汉纪》1034丨袁绍的败局，只因不肯听沮授的话？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-1034-yuanshao-de-baiju-zhi-yin-buken-ting-jushou-de-hua-log-wy2zvpdjopbdyexb0ijqmph4/"
   },
   "zizhi-tongjian-hanji-1035-zhansha-caocao-qinzi-he-aijiang-ta-jing-zaidu-guijiang-caocao-lh10wwkwcqw5hnap3bodw6oxpt7v": {
     "title": "《资治通鉴·汉纪》1035丨斩杀曹操亲子和爱将，他竟再度归降曹操？",

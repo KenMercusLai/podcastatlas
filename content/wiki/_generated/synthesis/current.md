@@ -3,12 +3,12 @@
 schema_version: 1
 generated: true
 synthesis_source: compact
-last_updated: 2026-08-26
-as_of_overview_commit: 07ebfbbea17caca061ee732220899b964bcf550f
-summary: "Across AI, markets, governance, history, culture, psychology, science, and work, capability matters when implementation, trust, evidence, capacity, and human judgment hold."
-episode_count: 1514
-source_count: 1514
-paragraph_count: 259
+last_updated: 2026-08-27
+as_of_overview_commit: 7c17119b00dd6642b82f0c8930e23fa7b052cc37
+summary: "Across AI, markets, governance, history, culture, psychology, science, and work, capability depends on implementation, trust, evidence, capacity, timing, and human judgment."
+episode_count: 1515
+source_count: 1515
+paragraph_count: 260
 topic_count: 8
 ---
 
@@ -49,14 +49,14 @@ Culture and media pages treat stories, folklore, games, brands, and media forms 
 
 ### Governance and Institutions
 
-Governance works when titles, rights, funding mandates, and resources become enforceable workflows, trusted institutions, incentives, and material capacity; Hanji 1035 adds surrender incorporation, salt-funded farming recovery, refugee settlement, and Guanzhong control before Guandu.
+Governance works when titles, rights, funding mandates, and resources become enforceable workflows, trusted institutions, incentives, and material capacity; the Guandu-adjacent branch keeps surrender, farming recovery, refugee settlement, and regional control visible.
 
 - The California data-broker branch shows that privacy rights depend on compliance workflows: [[CaliforniaDeleteAct]], [[DeleteRequestAndOptOutPlatform]], [[ConsumerDataDeletion]], [[DataBrokerComplianceGap]], and [[CaliforniaPrivacyProtectionAgency]] connect centralized deletion, broker registration, reporting duties, request friction, agency capacity, and private-lawsuit proposals into one implementation problem. Evidence: [[CaliforniaDeleteAct]], [[DeleteRequestAndOptOutPlatform]], [[ConsumerDataDeletion]], [[DataBrokerComplianceGap]], [[CaliforniaPrivacyProtectionAgency]], [[tech-20260825-mp-tech-pod-128-tech-20260825-mp-tech-pod-128]].
 - The early-Han sequence shows victory turning into governance only through family order, capital choice, exit management, reward ranking, ritual hierarchy, frontier containment, [[HanXiongnuHeqinPolicy|heqin]] diplomacy, vassal rollback, investigation-triggered rebellion risk, and finally the failure of personal trust in [[LuWan|Lu Wan]]'s Yan kingship. Evidence: [[LiuBang]], [[StrategicCapitalRelocation]], [[LiAsPoliticalOrder]], [[BaidengEncirclement]], [[HanXiongnuHeqinPolicy]], [[DifferentSurnameKingSuspicion]], [[HuainanKingdomEarlyHan]], [[InvestigationDrivenRebellionEscalation]], [[LuWan]], [[YanState]].
 
 ### History and Geopolitics
 
-History and geopolitics emphasize systems over labels: the late-Han Guandu setup now includes Zhang Xiu, Jia Xu, Yang Fu, Wei Ji, and Guanzhong rear capacity, while infrastructure, alliances, reforms, and ecosystems matter when material capacity and timing hold.
+History and geopolitics emphasize systems over labels: the late-Han Guandu setup now includes Yuan Shao's faulty advice process, Cao-side assessment and deployment, Zhang Xiu, Jia Xu, Yang Fu, Wei Ji, and Guanzhong rear capacity, while infrastructure, alliances, reforms, and ecosystems matter when material capacity and timing hold.
 
 - [[UnderseaDataCables]] show contemporary geopolitics moving into physical internet routes: [[UnitedStates]] funding for [[Caribbean]] and [[CentralAmerica]] cable replacement, competition with [[China]], vendor concerns involving [[Russia]], [[CableLandingPointSecurity]], and [[CableNetworkResilience]] make cloud and financial connectivity part of strategic infrastructure rather than only telecom operations. Evidence: [[UnderseaDataCables]], [[UnitedStates]], [[Caribbean]], [[CentralAmerica]], [[China]], [[Russia]], [[CableLandingPointSecurity]], [[CableNetworkResilience]], [[TrustedNetworkGeopolitics]], [[DigitalInfrastructureWarRisk]], [[RegionalNetworkTopologyRisk]], [[AsymmetricInfrastructureAttack]], [[MarketplaceTech]], [[ErinMurphy]], [[tech-20260820-tech-pod-128-tech-20260820-tech-pod-128]].
 - The Hanji 992, 1002, and 1015-1016 branch makes late-Han title order a strategic condition: [[EmperorXianOfHan]]'s ruined Anyi and Chang'an context keeps [[MingqiLegitimacy]] symbolically active but materially thin, [[JuShou]] sees [[LegitimacyWindowSeizure]] for [[YuanShao]] before [[GuoTu]] and [[ChunyuQiong]] help Yuan Shao miss it, [[SunCe]] treats [[YuanShu]]'s planned imperial title as a [[MoralizedWarPretext]] and exits, [[XunYu]] turns the emperor's recognition into [[LegitimacyWindowSeizure]] for [[CaoCao]], Yuan Shu's later Shouchun claim outruns [[TitleRealityRestraint]] and creates [[AntiUsurpationCoalitionPressure]], and [[ChenGui]] blocks [[MarriageAllianceWarExposure]] around [[LyuBu]] and [[Xuzhou]]. Evidence: [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz]], [[EmperorXianOfHan]], [[ChangAnHanCapital]], [[GuanzhongRegion]], [[MingqiLegitimacy]], [[JuShou]], [[LegitimacyWindowSeizure]], [[YuanShao]], [[GuoTu]], [[ChunyuQiong]], [[WartimeAgriculturalLaborCollapse]], [[FamineEntitlementFailure]], [[SunCe]], [[YuanShu]], [[MoralizedWarPretext]], [[XunYu]], [[CaoCao]], [[TitleRealityRestraint]], [[AntiUsurpationCoalitionPressure]], [[ChenGui]], [[MarriageAllianceWarExposure]], [[LyuBu]], [[Xuzhou]], [[XingshiqingStrategicAssessment]], [[GuoJia]], [[ZhongYao]].
@@ -77,7 +77,7 @@ Science, health, climate, and space claims remain evidence-bound: federal scienc
 
 ### Work, Education, and Society
 
-Work, education, and society claims focus on formation and implementation: AI-era education needs foundations, field contact, source judgment, and human capabilities, workplace change needs ownership and verification, and Hanji 1035 adds source-scoped patronage and returning-labor settlement as organizational capacity.
+Work, education, and society claims focus on formation and implementation: AI-era education needs foundations, field contact, source judgment, and human capabilities, workplace change needs ownership and verification, and historical patronage analogies stay source-scoped.
 
 - AI and automation change work only when they reorganize production roles, workflows, and review responsibilities, from [[AIVideoProductionWorkflow]] and [[RollingAI]] to [[HeadlessSoftware]], [[Paperboy]], and [[HumanJudgmentUnderAI]]. Evidence: [[AIVideoProductionWorkflow]], [[JiaZhangke]], [[FilmRealityBeyondRealism]], [[LiveActionFilmUnderAI]], [[CreativeLaborAIBacklash]], [[AIPublicLikenessGeneration]], [[AITrainingCopyrightDispute]], [[AIEnergyBottleneck]], [[RollingAI]], [[HeadlessSoftware]], [[Paperboy]], [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].
 - Workplace AI readiness depends on ownership, baselines, training, and role-specific workflows: [[WorkplaceAIReadinessGap]], [[Microsoft365CopilotAdoption]], [[AIAdoptionBaselineMeasurement]], [[AIOperationsRole]], [[FrontlineAIEnablement]], and [[HumanJudgmentUnderAI]] show that license access or worker experimentation is not enough. Evidence: [[WorkplaceAIReadinessGap]], [[Microsoft365CopilotAdoption]], [[AIAdoptionBaselineMeasurement]], [[AIOperationsRole]], [[FrontlineAIEnablement]], [[HumanJudgmentUnderAI]], [[ShadowAI]], [[BusinessLedAITransformation]], [[JimSpignardo]], [[Proarc]], [[ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise]].

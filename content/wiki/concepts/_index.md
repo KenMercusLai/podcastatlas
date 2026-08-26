@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 5578
+wiki_total_pages: 5579
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1850,6 +1850,9 @@ wiki_pages:
   - key: "ArmedFollowerIntegrationCost"
     title: "武装部众整合成本 / Armed Follower Integration Cost"
     url: "/wiki/concepts/armedfollowerintegrationcost/"
+  - key: "AdviceFramingUnderHierarchy"
+    title: "等级场景中的进言包装 / Hierarchy-Aware Advice Framing"
+    url: "/wiki/concepts/adviceframingunderhierarchy/"
   - key: "AbsoluteCommandObedience"
     title: "绝对服从式指挥训练 / Absolute Command Obedience"
     url: "/wiki/concepts/absolutecommandobedience/"

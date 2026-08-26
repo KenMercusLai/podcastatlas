@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1034丨袁绍的败局，只因不肯听沮授的话？](sources/zizhi-tongjian-hanji-1034-yuanshao-de-baiju-zhi-yin-buken-ting-jushou-de-hua-log-wy2zvpdjopbdyexb0ijqmph4.md) — 芮淇讲透资治通鉴 episode on Yuan Shao's pre-Guandu war council, Ju Shou's rest-and-harassment strategy, Guo Tu and Shen Pei's flattery, Cao Cao and Xun Yu's Yuan-camp diagnosis, and Cao's early deployments to Liyang, Qingzhou, the Yellow River, and Guandu.
 - [《资治通鉴·汉纪》1035丨斩杀曹操亲子和爱将，他竟再度归降曹操？](sources/zizhi-tongjian-hanji-1035-zhansha-caocao-qinzi-he-aijiang-ta-jing-zaidu-guijiang-caocao-lh10wwkwcqw5hnap3bodw6oxpt7v.md) — 芮淇讲透资治通鉴 episode on Zhang Xiu's Jia Xu-advised renewed submission to Cao Cao, Yang Fu's Cao/Yuan comparison, and Wei Ji's Guanzhong salt-revenue agricultural recovery plan before Guandu.
 - [Michael Kratsios: Trump's Science Agenda, Anti-Science Claims, Fauci's Damage, DEI & China](sources/all-in-with-chamath-jason-sacks-friedberg-michael-kratsios-trumps-science-agenda-anti-science-claims-faucis-damage-dei-china-42543770.md) — All-In interview with Michael Kratsios on the New Golden Age science agenda, federal research funding reform, DEI grant controversy, climate framing, COVID trust damage, China competition, and STEM talent.
 - [California's data and privacy laws aren't being followed](sources/tech-20260825-mp-tech-pod-128-tech-20260825-mp-tech-pod-128.md) — Marketplace Tech episode with Megan McCarty-Carino and Jennifer King on California data-broker compliance, DROPS deletion requests, CalPrivacy enforcement, private lawsuits, and AI developers' brokered-data demand.
@@ -1672,7 +1673,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [沙摩柯 / Sha Moke](entities/ShaMoke.md) — Wuxi Man leader Liu Biao tries to draw in as a reactive support channel.
 - [王夫之 / Wang Fuzhi](entities/WangFuzhi.md) — Later commentator cited by Hanji 1027 to sharpen the negative judgment of Liu Biao's Jingzhou strategy.
 - [庞统 / Pang Tong](entities/PangTong.md) — Jingzhou talent used source-scopedly as a later consequence of Liu Biao's weak correction/talent channel.
-- [官渡之战 / Guandu Campaign](entities/GuanduCampaign.md) — Looming Cao Cao-Yuan Shao confrontation whose current setup spans eastern settlement, Jingzhou constraint, Zhang Xiu's renewed submission, and Guanzhong rear governance.
+- [官渡之战 / Guandu Campaign](entities/GuanduCampaign.md) — Looming Cao Cao-Yuan Shao confrontation whose current setup spans eastern settlement, Jingzhou constraint, Yuan's flawed war council, Cao's early deployments, Zhang Xiu's renewed submission, and Guanzhong rear governance.
+- [黎阳 / Liyang (Yellow River, late Han)](entities/LiyangYellowRiverLateHan.md) — Yellow River forward point where Cao Cao briefly deploys before returning to Xudu and placing troops at Guandu.
+- [臧霸 / Zang Ba (late Han)](entities/ZangBaLateHan.md) — Cao-side commander sent with elite troops to Qingzhou to secure the eastern front before Guandu.
+- [颜良 / Yan Liang (late Han)](entities/YanLiangLateHan.md) — Yuan Shao general named as a strength by Kong Rong and discounted by Xun Yu as brave but capturable.
+- [文丑 / Wen Chou (late Han)](entities/WenChouLateHan.md) — Yuan Shao general paired with Yan Liang in the pre-Guandu debate and treated source-scoped as brave but not strategic.
 - [杨阜 / Yang Fu (late Han)](entities/YangFuLateHan.md) — Liangzhou/Guanzhong official whose pre-Guandu assessment favors Cao Cao over Yuan Shao on decisiveness, law, army strength, and talent use.
 - [魏觊 / Wei Ji (late Han)](entities/WeiJiLateHan.md) — Hedong official whose Guanzhong plan uses salt revenue, farming tools, oxen, and Sili Xiaowei presence to settle refugees and limit local generals before Guandu.
 - [鲁肃 / Lu Su](entities/LuSu.md) — Future Eastern Wu adviser introduced by Hanji 1028 as leaving Yuan Shu's failing appointment path with Zhou Yu and moving his household toward Sun Ce's Qu'a base.
@@ -1884,7 +1889,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张温 / Zhang Wen (late Han)](entities/ZhangWenLateHan.md) — late-Han minister whom Dong Zhuo kills by wrapping accusation and private resentment in celestial-omen language.
 - [白绕 / Bai Rao (late Han)](entities/BaiRaoLateHan.md) — Black Mountain-linked commander defeated by Cao Cao at Puyang during the East Commandery opening.
 - [王肱 / Wang Gong (late Han)](entities/WangGongLateHan.md) — Dong Commandery administrator unable to resist Yu Du, Bai Rao, and Sui Gu before Cao Cao enters the field.
-- [审配 / Shen Pei (late Han)](entities/ShenPeiLateHan.md) — Yuan Shao adviser added to the Jizhou personnel field after Yuan Shao takes the province.
+- [审配 / Shen Pei (late Han)](entities/ShenPeiLateHan.md) — Yuan Shao adviser whose current profile runs from Jizhou personnel absorption to pro-war flattery in the pre-Guandu council.
 - [逢纪 / Feng Ji (late Han)](entities/FengJiLateHan.md) — Yuan Shao adviser in the Jizhou-side personnel cluster recorded by Hanji 957.
 - [荀谌 / Xun Chen (late Han)](entities/XunChenLateHan.md) — Xun-family figure and Yuan Shao-side adviser placed in the Jizhou talent field.
 - [反董卓联盟 / Anti-Dong Zhuo Coalition](entities/AntiDongZhuoCoalition.md) — late-Han common-enemy coalition whose active Sun Jian front is already constrained by Yuan Shu's suspicion before Hanji 958 shows open allied rupture.
@@ -2087,7 +2092,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [兖州 / Yanzhou (Late Han)](entities/YanzhouLateHan.md) — Cao Cao's contested root base whose crisis begins with local-elite fear around Bian Rang, then moves through Zhang Miao/Chen Gong's Lü Bu invitation, remaining-city defense, and recovery.
 - [定陶之战 (195 CE) / Dingtao Battle (Late Han)](entities/DingtaoBattleLateHan.md) — Late-Han battle where Cao Cao uses terrain and伏兵 to defeat Lü Bu after choosing to secure Yanzhou.
 - [严氏 / Lady Yan (Lü Bu)](entities/LadyYanLyuBu.md) — Lü Bu's wife in Hanji 987's reception scene, where seating Liu Bei on her bed marks a public/private etiquette breach.
-- [郭图 / Guo Tu](entities/GuoTu.md) — Yuan Shao adviser who opposes Ju Shou's plan to welcome Emperor Xian because hosting the sovereign would constrain later decisions.
+- [郭图 / Guo Tu](entities/GuoTu.md) — Yuan Shao adviser whose source-scoped profile moves from Jizhou persuasion to constraint-avoidant and flattering counsel against Ju Shou.
 - [淳于琼 / Chunyu Qiong](entities/ChunyuQiong.md) — Yuan Shao adviser paired with Guo Tu in resisting the emperor-welcome plan and its legitimacy-control tradeoff.
 - [吴景 / Wu Jing (late Han)](entities/WuJingLateHan.md) — Sun Ce's uncle whose stalled Hengjiang campaign becomes Sun Ce's public reason to leave Yuan Shu and open the Jiangdong campaign.
 - [周尚 / Zhou Shang (late Han)](entities/ZhouShangLateHan.md) — Danyang governor and Zhou Yu's uncle whose office helps supply Sun Ce's early Jiangdong logistics and recruitment channel.
@@ -2098,7 +2103,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [神亭岭之战 / Shentingling Battle](entities/ShentinglingBattle.md) — Late-Han encounter where Taishi Ci scouts with one rider and fights Sun Ce despite Sun Ce's stronger retinue.
 - [韩当 / Han Dang](entities/HanDang.md) — Veteran rider named among Sun Ce's thirteen followers at Shentingling in Hanji 993.
 - [黄盖 / Huang Gai](entities/HuangGai.md) — Veteran rider named with Han Dang in Sun Ce's Shentingling retinue.
-- [沮授 / Ju Shou](entities/JuShou.md) — Yuan Shao-side adviser whose welcome-the-emperor advice and later Hanji 976 recall make him a case of talent not converted into usable authority.
+- [沮授 / Ju Shou](entities/JuShou.md) — Yuan Shao adviser whose emperor-welcome and pre-Guandu recovery plans make him a case of correct counsel not converted into action.
 - [许攸 / Xu You (late Han)](entities/XuYouLateHan.md) — Yuan Shao adviser named in Hanji 976 as part of the underconverted Hebei adviser group with Ju Shou and Tian Feng.
 - [甘宁 / Gan Ning](entities/GanNing.md) — Liu Biao-side military talent invoked by Hanji 993 as a comparator for distrusted or underused ability.
 - [吕范 / Lu Fan](entities/LuFan.md) — Sun Ce follower who volunteers for low-status military-discipline work in Hanji 994, making him a case of operational gap ownership.
@@ -9520,6 +9525,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Political Trial Theatre](concepts/PoliticalTrialTheatre.md) — Use of court procedure, space, hierarchy, and evidence staging to make a contested judgment authoritative.
 - [Martyrdom Staging](concepts/MartyrdomStaging.md) — Use of ritual, dress, prayer, and composure to turn execution into symbolic testimony.
 - [Confessional War Escalation](concepts/ConfessionalWarEscalation.md) — Pattern where religious identity, dynastic legitimacy, and interstate rivalry make local security decisions feed wider war.
+- [等级场景中的进言包装 / Hierarchy-Aware Advice Framing](concepts/AdviceFramingUnderHierarchy.md) — Hanji 1034 pattern where accurate counsel can fail if blunt phrasing violates a leader's status psychology, while flattering speech can win attention despite weaker strategy.
 - [Adviser State Architecture / 谋士政权架构](concepts/AdviserStateArchitecture.md) — Hanji 957 and 974-976 frame for adviser-rich power, post-crisis organizational repair, and advisers as builders of legitimacy, logistics, talent channels, strategy, and institutional capacity.
 - [Dark Adviser Craft / 毒士灰度谋略](concepts/DarkAdviserCraft.md) — Hanji 976-977 frame for disorder-era advisers mixing visible state architecture with hidden technique, moral language, legal-administrative action, silence, and survival.
 - [Court Office Capture / 朝廷开府任官失序](concepts/CourtOfficeCapture.md) — Late-Han pattern where 171 CE office churn, Hongdu selection channels, eunuch-linked promotion, Xidi pricing, palace finance, forged appointments, and armed commanders hollow out the court's normal selection order.
