@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 7825
+wiki_total_pages: 7826
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -62,6 +62,9 @@ wiki_pages:
   - key: "LandSpace"
     title: "LandSpace / 蓝箭航天"
     url: "/wiki/entities/landspace/"
+  - key: "LaneGreen"
+    title: "Lane Green"
+    url: "/wiki/entities/lanegreen/"
   - key: "Languedoc"
     title: "Languedoc / 朗格多克"
     url: "/wiki/entities/languedoc/"

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1907
+topic_total_pages: 1909
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -1900,6 +1900,9 @@ topic_concepts:
   - key: "PolicyDrivenMarketRally"
     title: "Policy-Driven Market Rally"
     url: "/wiki/concepts/policydrivenmarketrally/"
+  - key: "PoliticalAccentPrestige"
+    title: "Political Accent Prestige"
+    url: "/wiki/concepts/politicalaccentprestige/"
   - key: "PoliticalAssassinationEthics"
     title: "Political Assassination Ethics / 政治刺杀伦理"
     url: "/wiki/concepts/politicalassassinationethics/"
@@ -4016,6 +4019,9 @@ topic_entities:
   - key: "LabourPartyUK"
     title: "Labour Party (UK)"
     url: "/wiki/entities/labourpartyuk/"
+  - key: "LaneGreen"
+    title: "Lane Green"
+    url: "/wiki/entities/lanegreen/"
   - key: "LarryElder"
     title: "Larry Elder"
     url: "/wiki/entities/larryelder/"

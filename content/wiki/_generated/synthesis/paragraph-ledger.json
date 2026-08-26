@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "c4bed92f4f60604cd67c692bde4a39159344021e9ec150955ef7de0001f70cc3",
       "9fd0e1239421b99e6a8f0b4e873ebb36ecb6abd70f408cb3b485445039e11c54",
       "7c31699f19222e774fff76473ab87279a5574f385b405b75d4427426c0c90ba2",
       "45a44f77de74d0637e13f3e7e7b4abaf46478b01a188b0bbe804ec6096a9083c",
@@ -269,11 +270,43 @@
       "ed252faccaaf1dc4e8c654d3406a6a1a0fc3a6f6fe78821348d1b123c7e85a5c",
       "32b62a0e1fc3144c5e7770721fc745607afef0d0cf46a8fe94d35cab377dbbf9"
     ],
-    "paragraph_count": 267
+    "paragraph_count": 268
   },
-  "overview_commit": "3b9d4414df5e6a17733fa902e4841632e1efea28",
-  "overview_digest": "340a90066b4d9644f9e90d76b3c011c5ca47dc5f3280065a5550e3468a18f89c",
+  "overview_commit": "78f9634afd5cc861bf4162e289b036ada56a8450",
+  "overview_digest": "9ae5cfb754750027f6172a354495393657781fb1b3914af4c5cf5c87693741a3",
   "paragraphs": [
+    {
+      "id": "c4bed92f4f60604cd67c692bde4a39159344021e9ec150955ef7de0001f70cc3",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "ai-and-technology",
+        "business-and-markets"
+      ],
+      "text": "The latest addition is [[slip-the-surly-bonds-scott-bessent-goes-on-a-yield-trip-6a8eb9200c15e359f9599e1a|Slip the Surly Bonds? Scott Bessent Goes on a Yield Trip]], a [[TheIntelligence]] episode linking [[ScottBessent|Scott Bessent / 贝森特]]'s small long-bond buyback plan, cyberattacks on U.S. water facilities, and [[AndyBurnham]]'s northern accent as a political-authority signal. It adds [[LaneGreen]] and [[PoliticalAccentPrestige]], while extending [[TreasuryBuybackPolicy]], [[TreasuryDemandSubstitution]], [[BessentImpossibleTriangle]], [[WaterSystemCyberResilience]], [[IndustrialControlSystemCyberRisk]], [[IranLinkedCyberOperations]], [[StateCyberActorThreatModel]], [[ShashankJoshi]], [[CentralBankIndependence]], and [[FederalFundsRateAsPolicySignal]]. Its core synthesis is that institutional weakness can show up through signals rather than breakdowns: a tiny Treasury buyback can reveal debt-market and Fed-pressure anxiety, exposed operational technology can make fragmented local utilities a strategic target, and accent prestige can keep class-coded authority alive even when regional voices gain status. A source-scoped chronology tension remains because this later episode speaks prospectively about Burnham at Number 10, while earlier wiki sources already place him in the premiership.",
+      "topic_scores": {
+        "ai-and-technology": 2,
+        "business-and-markets": 2,
+        "governance-and-institutions": 3
+      },
+      "wikilinks": [
+        "AndyBurnham",
+        "BessentImpossibleTriangle",
+        "CentralBankIndependence",
+        "FederalFundsRateAsPolicySignal",
+        "IndustrialControlSystemCyberRisk",
+        "IranLinkedCyberOperations",
+        "LaneGreen",
+        "PoliticalAccentPrestige",
+        "ScottBessent",
+        "ShashankJoshi",
+        "StateCyberActorThreatModel",
+        "TheIntelligence",
+        "TreasuryBuybackPolicy",
+        "TreasuryDemandSubstitution",
+        "WaterSystemCyberResilience",
+        "slip-the-surly-bonds-scott-bessent-goes-on-a-yield-trip-6a8eb9200c15e359f9599e1a"
+      ]
+    },
     {
       "id": "9fd0e1239421b99e6a8f0b4e873ebb36ecb6abd70f408cb3b485445039e11c54",
       "primary_topic": "ai-and-technology",

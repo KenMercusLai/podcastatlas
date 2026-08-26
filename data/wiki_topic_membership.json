@@ -32472,6 +32472,13 @@
       "url": "/topics/science/"
     }
   ],
+  "LaneGreen": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "LanguageDependentAIBias": [
     {
       "key": "technology",
@@ -43264,6 +43271,18 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "PoliticalAccentPrestige": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "PoliticalAssassinationEthics": [
@@ -66790,6 +66809,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "slip-the-surly-bonds-scott-bessent-goes-on-a-yield-trip-6a8eb9200c15e359f9599e1a": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "snap-judgement-japan-pms-electoral-landslide-6989c0fc61be18927058bb7d": [

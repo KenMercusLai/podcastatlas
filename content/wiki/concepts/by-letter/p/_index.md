@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5594
+wiki_total_pages: 5595
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -602,6 +602,9 @@ wiki_pages:
   - key: "PolicyDrivenMarketRally"
     title: "Policy-Driven Market Rally"
     url: "/wiki/concepts/policydrivenmarketrally/"
+  - key: "PoliticalAccentPrestige"
+    title: "Political Accent Prestige"
+    url: "/wiki/concepts/politicalaccentprestige/"
   - key: "PoliticalAssassinationEthics"
     title: "Political Assassination Ethics / 政治刺杀伦理"
     url: "/wiki/concepts/politicalassassinationethics/"

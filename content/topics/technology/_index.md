@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2479
+topic_total_pages: 2480
 topic_concepts:
   - key: "AcademicAIResearchRole"
     title: "Academic AI Research Role"
@@ -7113,6 +7113,9 @@ topic_sources:
   - key: "tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final"
     title: "Ron Conway on National Semiconductor, Altos, and Early Angel Investing"
     url: "/wiki/sources/tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final/"
+  - key: "slip-the-surly-bonds-scott-bessent-goes-on-a-yield-trip-6a8eb9200c15e359f9599e1a"
+    title: "Slip the Surly Bonds? Scott Bessent Goes on a Yield Trip"
+    url: "/wiki/sources/slip-the-surly-bonds-scott-bessent-goes-on-a-yield-trip-6a8eb9200c15e359f9599e1a/"
   - key: "so-are-we-in-an-ai-bubble-here-are-clues-to-look-for"
     title: "So are we in an AI bubble? Here are clues to look for."
     url: "/wiki/sources/so-are-we-in-an-ai-bubble-here-are-clues-to-look-for/"

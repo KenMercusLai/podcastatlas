@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Slip the Surly Bonds? Scott Bessent Goes on a Yield Trip](sources/slip-the-surly-bonds-scott-bessent-goes-on-a-yield-trip-6a8eb9200c15e359f9599e1a.md) — The Intelligence episode on Scott Bessent's long-bond buyback signal, U.S. water-system cyber vulnerability, and British accent prestige around Andy Burnham.
 - [当机器人学会认路，物理世界才真正接上了 AI](sources/dang-jiqiren-xuehui-renlu-wuli-shijie-cai-zhenzheng-jieshangle-ai-658f592c4a52.md) — 科技乱炖 episode with Gaode's Tang Wenbin on navigation-first embodied AI, guide robot dogs, A-BOT Navigation, last-mile delivery, inspection, and robot commercialization constraints.
 - [22 岁的具身 CEO、5 轮融资、过亿美元、“不知天有多高”、“一年吃了十年的苦”｜对谈黄一：萝博派对创始人/CEO](sources/22-sui-de-jushen-ceo-5-lun-rongzi-guo-yi-meiyuan-buzhi-tian-you-duo-gao-yinian-chile-shi-nian-de-ku-duitan-huangyi-luobo-paidui-chuangshiren-ceo-ljwdmocryiblf0k3rkz8eonkqox.md) — 十字路口Crossing episode with Huang Yi on Luobo Paidui's open-source humanoid robot platform, five financing rounds, RPO/RP1, research-education demand, organization scaling, and embodied-AI commercialization timing.
 - [《资治通鉴·汉纪》1021丨曹操手握重权，为什么容不下杨彪？](sources/zizhi-tongjian-hanji-1021-caocao-shouwo-zhongquan-weishenme-rongbuxia-yangbiao-lr-y4xqanwjyslvf4fbwxjuymtun.md) — 芮淇讲透资治通鉴 episode on Cao Cao releasing but removing Yang Biao, Ma Ridi and Jin Shang's returned-body honor disputes after Yuan Shu, Cao's Huyang-Wuyin operation against the Zhang Xiu-Liu Biao line, and Yang Feng/Han Xian's final Baibo-remnant dispersal.
@@ -1732,7 +1733,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《辞职上山》](entities/CizhiShangShan.md) — Li Chuang book used by the 面基 episode to demystify quitting, Wudang life, Daoist practice, and mountain retreat as escape.
 - [Quanzhen Daoism / 全真道教](entities/QuanzhenDaoism.md) — Source-scoped Wudang Daoist institutional frame for lessons, recitation, temple duties, and varied cultivation practice.
 - [真武大帝 / Zhenwu Dadi](entities/ZhenwuDadi.md) — Daoist deity used in the Wudang source to show internal religious order and boundaries around folk-help-seeking.
-- [Scott Bessent / 贝森特](entities/ScottBessent.md) — U.S. Treasury policy operator linked to debt-financing tools, market ambiguity, and Operation Economic Outcast against Iran.
+- [Scott Bessent / 贝森特](entities/ScottBessent.md) — U.S. Treasury policy operator linked to debt-financing tools, market ambiguity, long-yield buyback signaling, and Operation Economic Outcast against Iran.
 - [George Soros](entities/GeorgeSoros.md) — Macro investor appearing as the hedge-fund context for Bessent's sterling and yen trading background.
 - [Tencent Music / 腾讯音乐](entities/TencentMusic.md) — Tencent online-music incumbent pressured by Qishui Music's Douyin-backed distribution in the 2026-08-25 声动早咖啡 source.
 - [NetEase Cloud Music / 网易云音乐](entities/NetEaseCloudMusic.md) — NetEase music product compared with Qishui Music after source-cited user and profit pressure.
@@ -4361,7 +4362,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mykhailo Fedorov](entities/MykhailoFedorov.md) — Ukrainian reformist official in the source's defence-ministry crisis, tied to drone scale-up, procurement incentives, and public protest after dismissal.
 - [Oleksandr Syrskyi / Sersky](entities/OleksandrSyrskyi.md) — Ukrainian commander normalized from the source spelling "Sersky," presented as the rigid command-culture rival to Fedorov.
 - [Mykhailo Drapatyi / Drapati](entities/MykhailoDrapatyi.md) — Ukrainian general normalized from the source spelling "Drapati," appointed after Syrskyi and framed as a new-generation command-reform test.
-- [Shashank Joshi](entities/ShashankJoshi.md) — The Intelligence analyst interpreting Ukraine's reshuffle as an ethos and command-culture dispute.
+- [Shashank Joshi](entities/ShashankJoshi.md) — The Intelligence analyst interpreting security events through institutions, from Ukraine command reform to U.S. water-system cyber risk.
 - [Albuquerque](entities/Albuquerque.md) — New Mexico city used by the episode as a case study in high police-killing rates and mental-health crisis response failures.
 - [Albuquerque Police Department](entities/AlbuquerquePoliceDepartment.md) — Police department used as the source's consent-decree and culture-gap case.
 - [Jose Armas](entities/JoseArmas.md) — Albuquerque police-killing case used cautiously as the episode's mental-health crisis response example.
@@ -8663,7 +8664,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sasha Nauta](entities/SashaNauta.md) — The Intelligence correspondent explaining Starmer's weak authority, delivery gap, and Labour pressure.
 - [Angela Rayner](entities/AngelaRayner.md) — Possible Labour successor discussed as plausible but damaged by tax-scandal questions.
 - [Wes Streeting](entities/WesStreeting.md) — Possible Labour successor discussed as weakened by Mandelson ties and party unpopularity.
-- [Andy Burnham](entities/AndyBurnham.md) — Labour successor figure who moves from blocked alternative to likely replacement after a by-election victory.
+- [Andy Burnham](entities/AndyBurnham.md) — Labour successor and source-scoped prime-ministerial figure whose northern identity, devolution project, and accent carry political meaning.
+- [Lane Green](entities/LaneGreen.md) — The Intelligence language-politics voice explaining Andy Burnham's northern accent and British accent prestige.
 - [Ed Miliband](entities/EdMiliband.md) — Possible Labour successor whose route or plans are described as unclear.
 - [Kathy Hochul](entities/KathyHochul.md) — New York governor tied to the assisted-dying law and its extra safeguards.
 - [Death with Dignity](entities/DeathWithDignity.md) — Advocacy group cited for expected assisted-dying bill activity in additional U.S. states.
@@ -9363,6 +9365,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Political Accent Prestige](concepts/PoliticalAccentPrestige.md) — How accent, class, and regional speech shape who sounds authoritative or credible in British politics.
 - [Reputation List as Persecution Target / 名望榜单迫害目标化](concepts/ReputationListPersecutionTarget.md) — Pattern where a public honor list becomes a target list when hostile power treats moral reputation as factional danger.
 - [Party Network Treason Framing / 朋党网络谋反化](concepts/PartyNetworkTreasonFraming.md) — Pattern where recommendation and reputation networks are explained to a ruler as rebellion or throne-security threats.
 - [Guide Robot Dogs](concepts/GuideRobotDogs.md) — Assistive legged robots for visually impaired users, combining navigation, memory, route explanation, haptics, and owner-specific command safety.
@@ -9476,7 +9479,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Bessent Impossible Triangle / 贝森特不可能三角](concepts/BessentImpossibleTriangle.md) — Qizhulou frame for the tension between U.S. trade-deficit reduction, dollar dominance, and continued foreign Treasury demand.
 - [Treasury Demand Substitution](concepts/TreasuryDemandSubstitution.md) — Policy bundle using stablecoins, bank balance sheets, FIMA Repo, buybacks, maturity shifts, and Fed pressure to replace or support Treasury-market absorption.
 - [FIMA Repo Backstop](concepts/FIMARepoBackstop.md) — Use of the Fed's foreign official repo facility as a liquidity bridge so currency intervention need not force Treasury sales.
-- [Treasury Buyback Policy](concepts/TreasuryBuybackPolicy.md) — Treasury old-bond buybacks read as both off-the-run liquidity support and macro reaction-function signaling.
+- [Treasury Buyback Policy](concepts/TreasuryBuybackPolicy.md) — Treasury old-bond buybacks read as off-the-run liquidity support, macro reaction-function signaling, and Fed-Treasury boundary pressure.
 - [U.S.-Japan Currency Intervention](concepts/USJapanCurrencyIntervention.md) — Source-scoped case where yen defense, U.S. export/trade concerns, and Japanese Treasury-holder behavior meet.
 - [Policy Ambiguity As Market Tool](concepts/PolicyAmbiguityAsMarketTool.md) — Strategy of using unclear defense levels, sudden action, and broad toolkits to avoid one-way market targets.
 - [Hamiltonian Economic Nationalism](concepts/HamiltonianEconomicNationalism.md) — Source label for pairing U.S. production-security goals with control over dollar, Treasury, finance, and technology rules.
@@ -9650,7 +9653,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Procrastination Self-Regulation Failure](concepts/ProcrastinationSelfRegulationFailure.md) — Research framing of procrastination as a self-control and executive-function problem with income and health links.
 - [Mental Contrasting With Implementation Intentions](concepts/MentalContrastingImplementationIntentions.md) — Behavioral intervention that pairs a goal with its obstacle and a specific response tactic.
 - [Exercise Self-Mastery For Procrastination](concepts/ExerciseSelfMasteryForProcrastination.md) — Procrastination intervention frame where exercise may build mastery over discomfort and unpleasant tasks.
-- [Water System Cyber Resilience](concepts/WaterSystemCyberResilience.md) — Ability of water utilities to keep services safe and running after cyber incidents through planning, manual recovery, staffing, and basic controls.
+- [Water System Cyber Resilience](concepts/WaterSystemCyberResilience.md) — Ability of water utilities to keep services safe and running after cyber incidents despite fragmented local ownership, weak standards, staffing gaps, and operational-technology exposure.
 - [Cyber Hygiene Baseline](concepts/CyberHygieneBaseline.md) — Minimum controls such as non-default credentials, multi-factor authentication, and reduced operational-technology exposure.
 - [State Cyber Actor Threat Model](concepts/StateCyberActorThreatModel.md) — Threat-modeling frame separating state actors, criminals, and hacktivists by motive, capability, and attribution confidence.
 - [Election Information Operations](concepts/ElectionInformationOperations.md) — Cyber-enabled efforts to shape election trust, division, and public attention through information-space tactics.

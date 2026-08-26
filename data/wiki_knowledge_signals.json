@@ -726,6 +726,64 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/amandamcmaster/"
     },
+    "AndyBurnham": {
+      "episode_count": 7,
+      "show_count": 1,
+      "source_note_count": 7,
+      "sources": [
+        {
+          "episode_file": "It’s not easy being Green： Zack Polanski [6a82d1a0ff328abd84724cf0].md",
+          "key": "its-not-easy-being-green-zack-polanski-6a82d1a0ff328abd84724cf0",
+          "show": "Economist Podcasts",
+          "title": "It’s not easy being Green: Zack Polanski",
+          "url": "/wiki/sources/its-not-easy-being-green-zack-polanski-6a82d1a0ff328abd84724cf0/"
+        },
+        {
+          "episode_file": "A Keir-death experience： Britain's PM clings on [698b0dc3337b2a3b2ef0aa07].md",
+          "key": "a-keir-death-experience-britains-pm-clings-on-698b0dc3337b2a3b2ef0aa07",
+          "show": "Economist Podcasts",
+          "title": "A Keir-death experience: Britain's PM clings on",
+          "url": "/wiki/sources/a-keir-death-experience-britains-pm-clings-on-698b0dc3337b2a3b2ef0aa07/"
+        },
+        {
+          "episode_file": "Coming in Andy： Britain's prime minister-in-waiting [6a3512974a2a3be0f419384b].md",
+          "key": "coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b",
+          "show": "Economist Podcasts",
+          "title": "Coming in Andy: Britain's prime minister-in-waiting",
+          "url": "/wiki/sources/coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b/"
+        },
+        {
+          "episode_file": "Starmergeddon： British PM resigns [6a390b674a8189f2c3b4e6f1].md",
+          "key": "starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1",
+          "show": "Economist Podcasts",
+          "title": "Starmergeddon: British PM resigns",
+          "url": "/wiki/sources/starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1/"
+        },
+        {
+          "episode_file": "A firm Andy： what are new British PM’s plans？ [6a5deeca76f8ee25bb4bbf9c].md",
+          "key": "a-firm-andy-what-are-new-british-pms-plans-6a5deeca76f8ee25bb4bbf9c",
+          "show": "Economist Podcasts",
+          "title": "A firm Andy: what are new British PM's plans?",
+          "url": "/wiki/sources/a-firm-andy-what-are-new-british-pms-plans-6a5deeca76f8ee25bb4bbf9c/"
+        },
+        {
+          "episode_file": "In it to bin it： Nigel Farage v Count Binface [6a58abcdc152a357db17c20e].md",
+          "key": "in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e",
+          "show": "Economist Podcasts",
+          "title": "In it to bin it: Nigel Farage v Count Binface",
+          "url": "/wiki/sources/in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e/"
+        },
+        {
+          "episode_file": "Slip the surly bonds？ Scott Bessent goes on a yield trip [6a8eb9200c15e359f9599e1a].md",
+          "key": "slip-the-surly-bonds-scott-bessent-goes-on-a-yield-trip-6a8eb9200c15e359f9599e1a",
+          "show": "Economist Podcasts",
+          "title": "Slip the Surly Bonds? Scott Bessent Goes on a Yield Trip",
+          "url": "/wiki/sources/slip-the-surly-bonds-scott-bessent-goes-on-a-yield-trip-6a8eb9200c15e359f9599e1a/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/andyburnham/"
+    },
     "AndyStalman": {
       "episode_count": 1,
       "show_count": 1,
@@ -4327,6 +4385,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/ladywusunjian/"
     },
+    "LaneGreen": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Slip the surly bonds？ Scott Bessent goes on a yield trip [6a8eb9200c15e359f9599e1a].md",
+          "key": "slip-the-surly-bonds-scott-bessent-goes-on-a-yield-trip-6a8eb9200c15e359f9599e1a",
+          "show": "Economist Podcasts",
+          "title": "Slip the Surly Bonds? Scott Bessent Goes on a Yield Trip",
+          "url": "/wiki/sources/slip-the-surly-bonds-scott-bessent-goes-on-a-yield-trip-6a8eb9200c15e359f9599e1a/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/lanegreen/"
+    },
     "LanguageCompressionLabeling": {
       "episode_count": 1,
       "show_count": 1,
@@ -6216,6 +6290,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/physicalaihardtakeoff/"
     },
+    "PoliticalAccentPrestige": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Slip the surly bonds？ Scott Bessent goes on a yield trip [6a8eb9200c15e359f9599e1a].md",
+          "key": "slip-the-surly-bonds-scott-bessent-goes-on-a-yield-trip-6a8eb9200c15e359f9599e1a",
+          "show": "Economist Podcasts",
+          "title": "Slip the Surly Bonds? Scott Bessent Goes on a Yield Trip",
+          "url": "/wiki/sources/slip-the-surly-bonds-scott-bessent-goes-on-a-yield-trip-6a8eb9200c15e359f9599e1a/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/politicalaccentprestige/"
+    },
     "PostSuccessArrogance": {
       "episode_count": 4,
       "show_count": 1,
@@ -6754,9 +6844,9 @@
       "url": "/wiki/concepts/sciencetrustpoliticization/"
     },
     "ScottBessent": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "179.先救日元再救长债，“救火队长”贝森特在走一条怎样的钢丝？ [lqJc6VZ_1UNGNKPDW9d5kBSa_oUo].md",
@@ -6771,9 +6861,16 @@
           "show": "Economist Podcasts",
           "title": "Even-more-maximum pressure: sanctions on Iran",
           "url": "/wiki/sources/even-more-maximum-pressure-sanctions-on-iran-6a8d6a9b66c4a1e81a4c86a9/"
+        },
+        {
+          "episode_file": "Slip the surly bonds？ Scott Bessent goes on a yield trip [6a8eb9200c15e359f9599e1a].md",
+          "key": "slip-the-surly-bonds-scott-bessent-goes-on-a-yield-trip-6a8eb9200c15e359f9599e1a",
+          "show": "Economist Podcasts",
+          "title": "Slip the Surly Bonds? Scott Bessent Goes on a Yield Trip",
+          "url": "/wiki/sources/slip-the-surly-bonds-scott-bessent-goes-on-a-yield-trip-6a8eb9200c15e359f9599e1a/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-08-27",
       "url": "/wiki/entities/scottbessent/"
     },
     "ShangXiaBanchang": {
@@ -6814,6 +6911,29 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/shanxiayousong/"
+    },
+    "ShashankJoshi": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Kyiv brawl： Ukraine’s top general fired [6a609aec4fac21e67f1be165].md",
+          "key": "kyiv-brawl-ukraines-top-general-fired-6a609aec4fac21e67f1be165",
+          "show": "Economist Podcasts",
+          "title": "Kyiv brawl: Ukraine's top general fired",
+          "url": "/wiki/sources/kyiv-brawl-ukraines-top-general-fired-6a609aec4fac21e67f1be165/"
+        },
+        {
+          "episode_file": "Slip the surly bonds？ Scott Bessent goes on a yield trip [6a8eb9200c15e359f9599e1a].md",
+          "key": "slip-the-surly-bonds-scott-bessent-goes-on-a-yield-trip-6a8eb9200c15e359f9599e1a",
+          "show": "Economist Podcasts",
+          "title": "Slip the Surly Bonds? Scott Bessent Goes on a Yield Trip",
+          "url": "/wiki/sources/slip-the-surly-bonds-scott-bessent-goes-on-a-yield-trip-6a8eb9200c15e359f9599e1a/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/shashankjoshi/"
     },
     "ShekharNatarajan": {
       "episode_count": 1,
@@ -7558,6 +7678,29 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/totembranding/"
     },
+    "TreasuryBuybackPolicy": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "179.先救日元再救长债，“救火队长”贝森特在走一条怎样的钢丝？ [lqJc6VZ_1UNGNKPDW9d5kBSa_oUo].md",
+          "key": "179-xian-jiu-riyuan-zai-jiu-changzhai-jiuhuoduizhang-beisente-zai-zou-yi-tiao-zenyang-de-gangsi-lqjc6vz-1ungnkpdw9d5kbsa-ouo",
+          "show": "起朱楼宴宾客",
+          "title": "179.先救日元再救长债，“救火队长”贝森特在走一条怎样的钢丝？",
+          "url": "/wiki/sources/179-xian-jiu-riyuan-zai-jiu-changzhai-jiuhuoduizhang-beisente-zai-zou-yi-tiao-zenyang-de-gangsi-lqjc6vz-1ungnkpdw9d5kbsa-ouo/"
+        },
+        {
+          "episode_file": "Slip the surly bonds？ Scott Bessent goes on a yield trip [6a8eb9200c15e359f9599e1a].md",
+          "key": "slip-the-surly-bonds-scott-bessent-goes-on-a-yield-trip-6a8eb9200c15e359f9599e1a",
+          "show": "Economist Podcasts",
+          "title": "Slip the Surly Bonds? Scott Bessent Goes on a Yield Trip",
+          "url": "/wiki/sources/slip-the-surly-bonds-scott-bessent-goes-on-a-yield-trip-6a8eb9200c15e359f9599e1a/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/treasurybuybackpolicy/"
+    },
     "TrustBasedCommonsGovernance": {
       "episode_count": 1,
       "show_count": 1,
@@ -7805,6 +7948,29 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/warasviolentredistribution/"
+    },
+    "WaterSystemCyberResilience": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "tech_20260819_MP_TECH_pod_128 [tech_20260819_MP_TECH_pod_128].md",
+          "key": "tech-20260819-mp-tech-pod-128-tech-20260819-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Cyberattacks on U.S. water systems raise concerns about security",
+          "url": "/wiki/sources/tech-20260819-mp-tech-pod-128-tech-20260819-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "Slip the surly bonds？ Scott Bessent goes on a yield trip [6a8eb9200c15e359f9599e1a].md",
+          "key": "slip-the-surly-bonds-scott-bessent-goes-on-a-yield-trip-6a8eb9200c15e359f9599e1a",
+          "show": "Economist Podcasts",
+          "title": "Slip the Surly Bonds? Scott Bessent Goes on a Yield Trip",
+          "url": "/wiki/sources/slip-the-surly-bonds-scott-bessent-goes-on-a-yield-trip-6a8eb9200c15e359f9599e1a/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/watersystemcyberresilience/"
     },
     "WeiJiLateHan": {
       "episode_count": 1,

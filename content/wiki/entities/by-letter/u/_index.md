@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "u"
-wiki_total_pages: 7825
+wiki_total_pages: 7826
 wiki_pages:
   - key: "UDropInn"
     title: "U Drop Inn"

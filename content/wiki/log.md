@@ -12238,3 +12238,11 @@ Added source page for Hanji 893: the 169 CE second party-prohibition setup, wher
 ## [2026-08-27] lint | Wiki health check
 
 Ran lint after health and identity validation passed. Health scanned 14,946 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because no `LLM_MODEL` or common provider API key variables are set in this shell, so the script fell back to a semantic-unavailable section. Report returned in-session; `wiki/lint-report.md` was not updated.
+
+## [2026-08-27] ingest | Slip the Surly Bonds? Scott Bessent Goes on a Yield Trip
+
+Added source page for The Intelligence episode on Scott Bessent's long-bond buyback signal, water-system cyber vulnerability, and British accent prestige around Andy Burnham. Updated Scott Bessent, Treasury Buyback Policy, Water System Cyber Resilience, Shashank Joshi, and Andy Burnham; added Lane Green and Political Accent Prestige. No settled technical contradiction found; preserved a source-scoped Burnham chronology tension and attribution qualification around Iran-linked water attacks.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

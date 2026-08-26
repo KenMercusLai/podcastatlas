@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2242
+topic_total_pages: 2243
 topic_concepts:
   - key: "AbraxasWholeGodSymbolism"
     title: "Abraxas Whole-God Symbolism / 阿布拉克萨斯完整神象征"
@@ -1567,6 +1567,9 @@ topic_concepts:
   - key: "PoetryEducationAsPlay"
     title: "Poetry Education As Play"
     url: "/wiki/concepts/poetryeducationasplay/"
+  - key: "PoliticalAccentPrestige"
+    title: "Political Accent Prestige"
+    url: "/wiki/concepts/politicalaccentprestige/"
   - key: "PoliticalClosureAsLiteraryPressure"
     title: "Political Closure As Literary Pressure"
     url: "/wiki/concepts/politicalclosureasliterarypressure/"
