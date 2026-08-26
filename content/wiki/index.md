@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》891丨高段位的母亲，是家的定海神针](sources/zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5.md) — 芮淇讲透资治通鉴 episode on parental repair after anger, embodied parenting, 169 CE office churn, Duan Jiong's rejection of a surrender-first Qiang policy, and the silent night encirclement before Hanji 892.
 - [EP 46: Fix the Foundation First: Why Your Data Strategy Is Failing Before the AI Gets Involved](sources/ep-46-fix-the-foundation-first-why-your-data-strategy-is-failing-before-the-ai-gets-involved.md) — Data Science With Sam episode with Elan on Paradox Machines, data foundations, mid-market data-team economics, AI readiness, and data sovereignty.
 - [《资治通鉴·汉纪》892丨修止语，古人有什么捷径？](sources/zizhi-tongjian-hanji-892-xiu-zhiyu-guren-youshenme-jiejing-lnobbkp6mj4xyb9jeuqsiuqogct.md) — 芮淇讲透资治通鉴 episode on 修止语, Duan Jiong's Eastern Qiang pacification, Sima Guang's anti-extermination critique, root-cause frontier governance, and the party-prohibition honor lists that become dangerous in Hanji 893.
 - [An interview with Yuval Noah Harari](sources/an-interview-with-yuval-noah-harari-6a872b94c71d02aaba56ca7c.md) — The Intelligence interview with Yuval Noah Harari on AI inevitability, trust migration, mass-produced intimacy, AI consciousness, legal personhood, military oversight, sovereignty, and democratic accountability.
@@ -1539,6 +1540,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [冯禅 / Feng Chan (late Han)](entities/FengChanLateHan.md) — Imperial envoy sent to Hanyang to persuade remaining Qiang forces to surrender before Duan Jiong argues for attack.
+- [刘嚣 / Liu Xiao (late Han)](entities/LiuXiaoLateHan.md) — Changsha official appointed sikong in Hanji 891 and framed as a eunuch-flattery appointment case.
+- [闻人袭 / Wenren Xi (late Han)](entities/WenrenXiLateHan.md) — Taiwei removed in the May 169 Three Excellencies turnover.
+- [许训 / Xu Xun (late Han)](entities/XuXunLateHan.md) — High official in Hanji 891's May-June 169 office-turnover sequence, kept source-scoped pending exact appointment disambiguation.
+- [刘宠 / Liu Chong (late Han minister)](entities/LiuChongLateHanMinister.md) — Disambiguated ministerial Liu Chong appointed taiwei in June 169, distinct from the Chen king page.
+- [张恺 / Zhang Kai (Duan Jiong officer)](entities/ZhangKaiDuanJiongOfficer.md) — Sima-level officer who leads the eastern mountain force in Duan Jiong's Qiang encirclement; distinct from Zhang Kai the assassin.
 - [Paradox Machines](entities/ParadoxMachines.md) — Data and AI consultancy/platform combining outsourced senior data talent with data infrastructure for mid-market and SMB customers.
 - [Elan (Paradox Machines)](entities/ElanParadoxMachines.md) — Source-scoped Paradox Machines founder and CEO voice on data foundations before AI.
 - [Infinity Venture Studio](entities/InfinityVentureStudio.md) — New York venture studio named as the incubation context for Paradox Machines.
@@ -1547,7 +1554,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Nexus (Yuval Noah Harari book)](entities/NexusHarariBook.md) — Harari book framed in The Intelligence interview as a history of information networks from the Stone Age to AI.
 - [李膺 / Li Ying (late Han)](entities/LiYingLateHan.md) — Late-Han party-prohibition figure whose pre-crackdown public honor in Hanji 892 and prison choice/student liability in Hanji 893 anchor reputation danger.
 - [范滂 / Fan Pang (late Han)](entities/FanPangLateHan.md) — Late-Han party-prohibition figure whose honor-list visibility in Hanji 892 and voluntary imprisonment/family farewell in Hanji 893 expose名节 under persecution.
-- [东羌 / Eastern Qiang (late Han)](entities/DongqiangLateHan.md) — Frontier group whose Hanji 892 rebellion is treated as both Duan Jiong's military victory and a root-cause governance failure produced by harsh local rule.
+- [东羌 / Eastern Qiang (late Han)](entities/DongqiangLateHan.md) — Frontier group whose Hanji 891-892 evidence pairs Duan Jiong's tactical campaign against remaining Qiang forces with later resettlement, anti-extermination critique, and root-cause governance failure.
 - [范滂母 / Fan Pang's mother](entities/FanPangMotherLateHan.md) — Family elder whose farewell to Fan Pang frames moral fame and long life as incompatible under the party-prohibition disaster.
 - [景毅 / Jing Yi (late Han)](entities/JingYiLateHan.md) — Official who self-reports because his son's studentship under Li Ying was omitted from the punishment list.
 - [朱璧 / Zhu Bi (late Han)](entities/ZhuBiLateHan.md) — Hou Lan-linked accuser who denounces Zhang Jian and twenty-four others as party figures in Hanji 893.
@@ -1662,8 +1669,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [廉中 / Lian Zhong (late Han)](entities/LianZhongLateHan.md) — Shangshu ling said in Hanji 903 to forge evidence for Wang Fu's accusation that Zheng Sa and Liu Kui plotted imperial replacement.
 - [许生 / Xu Sheng (late-Han rebel)](entities/XuShengLateHan.md) — Kuaiji rebel who proclaims himself Yangming emperor in Hanji 903 before his suppression becomes Sun Jian's first visible late-Han career opportunity in Hanji 905.
 - [曹鸾 / Cao Luan (late Han)](entities/CaoLuanLateHan.md) — Yongchang administrator whose party-figure memorial triggers Emperor Ling's lethal response and wider party-prohibition kinship liability.
-- [夏育 / Xia Yu (late Han)](entities/XiaYuLateHan.md) — Hu Wuhuan xiaoyu whose offensive memorial and failed 177 CE Xianbei expedition command become a late-Han overextension case.
-- [田晏 / Tian Yan (late Han)](entities/TianYanLateHan.md) — Pardoned late-Han figure who uses Wang Fu's palace access to gain Xianbei campaign command before sharing the three-route defeat.
+- [夏育 / Xia Yu (late Han)](entities/XiaYuLateHan.md) — Late-Han frontier officer who appears in Duan Jiong's 169 Qiang campaign before becoming the offensive advocate and defeated commander in the 177 Xianbei expedition.
+- [田晏 / Tian Yan (late Han)](entities/TianYanLateHan.md) — Late-Han frontier officer who appears in Duan Jiong's 169 Qiang campaign before using Wang Fu's palace access to gain command in the failed 177 Xianbei expedition.
 - [臧旻 / Zang Min (late Han)](entities/ZangMinLateHan.md) — Han commander who leads the Yanmen route with the Southern Xiongnu chanyu in the failed 177 CE Xianbei expedition.
 - [刘宽 / Liu Kuan (late Han)](entities/LiuKuanLateHan.md) — Taiwei removed after the post-expedition solar eclipse in Hanji 909's omen-accountability sequence.
 - [孟郁 / Meng Yu (late Han)](entities/MengYuLateHan.md) — Official appointed taiwei after Liu Kuan's removal in the Hanji 909 eclipse-and-office churn.
@@ -1680,7 +1687,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [沈忠 / Shen Zhong (late Han)](entities/ShenZhongLateHan.md) — Liangguo langzhong whose death-pledged memorial against Zhu Yu and eunuch corruption is shelved under Emperor Ling.
 - [于贵人 / Yu Guiren (late Han)](entities/YuGuirenLateHan.md) — Former imperial consort remembered as Xianling Guiren whose funeral route triggers Cao Jie's eunuch regrouping scene.
 - [何海 / He Hai (late Han)](entities/HeHaiLateHan.md) — Shanglu county official whose petition narrows party-prohibition collateral punishment for more distant kin.
-- [段熲 / Duan Jiong (late Han)](entities/DuanJiongLateHan.md) — Veteran frontier commander whose profile now runs from Eastern Qiang pacification and Sima Guang's critique through Zhuque Gate crackdown, Su-household extermination, office churn, and anti-Wang Fu prosecution.
+- [段熲 / Duan Jiong (late Han)](entities/DuanJiongLateHan.md) — Veteran frontier commander whose profile now spans Hanji 891's tactical anti-Qiang campaign, Hanji 892's ethical critique, shared-hardship leadership, coercive crackdowns, office churn, and anti-Wang Fu prosecution.
 - [张脩 / Zhang Xiu (Protector of Xiongnu)](entities/ZhangXiuProtectorOfXiongnu.md) — Han frontier official who kills Huzheng without authorization and installs Qiangqu as Southern Xiongnu chanyu; distinct from Zhang Xiu of Wancheng and Zhang Xiu of Five Pecks.
 - [呼征 / Huzheng Chanyu](entities/HuzhengChanyu.md) — Southern Xiongnu chanyu who first succeeds his father in 178 CE, then is killed by Zhang Xiu before Qiangqu's installation.
 - [朱瑀 / Zhu Yu (late Han)](entities/ZhuYuLateHan.md) — Eunuch favorite named with Cao Jie in Lyu Qiang's title-privilege criticism and Yang Qiu's target field.
@@ -9381,6 +9388,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Parental Repair After Harm / 父母伤害后的修复](concepts/ParentalRepairAfterHarm.md) — Hanji 891 parenting practice of naming harm, apologizing, rejecting hitting/scolding as problem-solving, and asking the child what happened.
+- [Parental Embodied Modeling / 身教型家庭教育](concepts/ParentalEmbodiedModeling.md) — Family-education frame where adult routines, emotional steadiness, sleep, order, and repair teach children more than instruction alone.
 - [Data Foundation-First AI Strategy](concepts/DataFoundationFirstAIStrategy.md) — Enterprise AI strategy frame where ownership, governance, data modeling, and business alignment must precede dashboards, connectors, and agents.
 - [Mid-Market Data Talent Gap](concepts/MidMarketDataTalentGap.md) — Mismatch between smaller companies' need for data/AI capability and their ability to afford or retain senior data teams and tooling.
 - [Data Team as Business Partner](concepts/DataTeamAsBusinessPartner.md) — Operating model where data teams combine guardrails with business-user exploration so analytics can shape decisions.
@@ -10121,7 +10130,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Loyal Minister Exit Ethic / 忠臣去国的退场伦理](concepts/LoyalMinisterExitEthic.md) — Le Yi's model of leaving a dangerous old court without slandering the old patron or turning new patronage into revenge.
 - [Fire-Ox Night Raid / 火牛阵夜袭](concepts/FireOxNightRaid.md) — Tian Dan's Jimo tactic combining cattle, fire, blades, night attack, false surrender, and prior psychological setup to break Yan.
 - [Atrocity Backfire Mobilization / 暴行反噬式动员](concepts/AtrocityBackfireMobilization.md) — Pattern where enemy cruelty meant to frighten defenders instead makes surrender intolerable and hardens resistance.
-- [Deceptive Surrender Lull / 诈降麻痹](concepts/DeceptiveSurrenderLull.md) — False-surrender setup that makes a besieging army relax before a prepared surprise attack.
+- [Deceptive Surrender Lull / 诈降麻痹](concepts/DeceptiveSurrenderLull.md) — Surrender or peace signals that lower vigilance before surprise action, now including Duan Jiong's counter-assessment of unreliable Qiang surrender in Hanji 891.
 - [Marriage Ritual Orthodoxy / 婚姻礼法正当性](concepts/MarriageRitualOrthodoxy.md) — Family-ritual standard of parental command and matchmaker mediation used to judge Jun Wang Hou's crisis marriage.
 - [Counterintelligence Rumor Wedge / 反间流言楔入](concepts/CounterintelligenceRumorWedge.md) — Tactic that exploits ruler suspicion or impatience to induce damaging enemy command changes, from Tian Dan and Fan Ju to Qin's slander against Xinlingjun.
 - [Battlefield Commander Replacement Risk / 阵前换将风险](concepts/BattlefieldCommanderReplacementRisk.md) — Failure mode where front-line replacement breaks strategy, morale, secrecy, or competence, now including Lian Po's replacement by Zhao Kuo.

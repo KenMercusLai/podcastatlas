@@ -16915,6 +16915,10 @@
     "title": "骑墙式战略暴露 / Fence-Sitting Strategic Exposure",
     "url": "/wiki/concepts/fencesittingstrategicexposure/"
   },
+  "FengChanLateHan": {
+    "title": "冯禅 / Feng Chan (late Han)",
+    "url": "/wiki/entities/fengchanlatehan/"
+  },
   "FengCounty": {
     "title": "丰邑 / 丰县 / Feng County",
     "url": "/wiki/entities/fengcounty/"
@@ -28511,6 +28515,10 @@
     "title": "刘宠 / Liu Chong (Chen king)",
     "url": "/wiki/entities/liuchongchenking/"
   },
+  "LiuChongLateHanMinister": {
+    "title": "刘宠 / Liu Chong (late Han minister)",
+    "url": "/wiki/entities/liuchonglatehanminister/"
+  },
   "LiuDaiLateHan": {
     "title": "刘岱 / Liu Dai (late Han)",
     "url": "/wiki/entities/liudailatehan/"
@@ -28634,6 +28642,10 @@
   "LiuXiang": {
     "title": "刘向 / Liu Xiang",
     "url": "/wiki/entities/liuxiang/"
+  },
+  "LiuXiaoLateHan": {
+    "title": "刘嚣 / Liu Xiao (late Han)",
+    "url": "/wiki/entities/liuxiaolatehan/"
   },
   "LiuXiu": {
     "title": "Liu Xiu / 刘秀",
@@ -35555,9 +35567,17 @@
     "title": "Parental Defense Conflict / 父母辩护冲突",
     "url": "/wiki/concepts/parentaldefenseconflict/"
   },
+  "ParentalEmbodiedModeling": {
+    "title": "Parental Embodied Modeling / 身教型家庭教育",
+    "url": "/wiki/concepts/parentalembodiedmodeling/"
+  },
   "ParentalJudgmentOutsourcing": {
     "title": "Parental Judgment Outsourcing",
     "url": "/wiki/concepts/parentaljudgmentoutsourcing/"
+  },
+  "ParentalRepairAfterHarm": {
+    "title": "Parental Repair After Harm / 父母伤害后的修复",
+    "url": "/wiki/concepts/parentalrepairafterharm/"
   },
   "Parentification": {
     "title": "Parentification / 亲职化",
@@ -50403,6 +50423,10 @@
     "title": "文力两开花 / Wenli Liangkaihua",
     "url": "/wiki/entities/wenliliangkaihua/"
   },
+  "WenrenXiLateHan": {
+    "title": "闻人袭 / Wenren Xi (late Han)",
+    "url": "/wiki/entities/wenrenxilatehan/"
+  },
   "Wenxin": {
     "title": "Wenxin",
     "url": "/wiki/entities/wenxin/"
@@ -52059,6 +52083,10 @@
     "title": "《续玄怪录》",
     "url": "/wiki/entities/xuxuanguailu/"
   },
+  "XuXunLateHan": {
+    "title": "许训 / Xu Xun (late Han)",
+    "url": "/wiki/entities/xuxunlatehan/"
+  },
   "XuYiBilibili": {
     "title": "徐逸 / Xu Yi",
     "url": "/wiki/entities/xuyibilibili/"
@@ -53666,6 +53694,10 @@
   "ZhangKaiAssassin": {
     "title": "张闿 / Zhang Kai (assassin)",
     "url": "/wiki/entities/zhangkaiassassin/"
+  },
+  "ZhangKaiDuanJiongOfficer": {
+    "title": "张恺 / Zhang Kai (Duan Jiong officer)",
+    "url": "/wiki/entities/zhangkaiduanjiongofficer/"
   },
   "ZhangKaidi": {
     "title": "张开地 / Zhang Kaidi",
@@ -58598,6 +58630,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5": {
+    "title": "《资治通鉴·汉纪》891丨高段位的母亲，是家的定海神针",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5/"
   },
   "zizhi-tongjian-hanji-892-xiu-zhiyu-guren-youshenme-jiejing-lnobbkp6mj4xyb9jeuqsiuqogct": {
     "title": "《资治通鉴·汉纪》892丨修止语，古人有什么捷径？",

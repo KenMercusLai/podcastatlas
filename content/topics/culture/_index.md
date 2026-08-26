@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2245
+topic_total_pages: 2246
 topic_concepts:
   - key: "AbraxasWholeGodSymbolism"
     title: "Abraxas Whole-God Symbolism / 阿布拉克萨斯完整神象征"
@@ -1492,6 +1492,9 @@ topic_concepts:
   - key: "PaperMagazineSubscriptionRitual"
     title: "Paper Magazine Subscription Ritual / 纸刊订阅仪式"
     url: "/wiki/concepts/papermagazinesubscriptionritual/"
+  - key: "ParentalEmbodiedModeling"
+    title: "Parental Embodied Modeling / 身教型家庭教育"
+    url: "/wiki/concepts/parentalembodiedmodeling/"
   - key: "ParticipationDataMoat"
     title: "Participation Data Moat / 参赛数据护城河"
     url: "/wiki/concepts/participationdatamoat/"

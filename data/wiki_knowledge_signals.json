@@ -1923,6 +1923,36 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/deathgroundtacticalpreconditions/"
     },
+    "DeceptiveSurrenderLull": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·秦纪》117-2｜学着点！秦朝武将竟然如此高情商？ [lsYw3EItcNZfEXL1L6vfh2Gbtaoy].md",
+          "key": "zizhi-tongjian-qinji-117-2-xuezhedian-qinchao-wujiang-jingran-ruci-gaoqingshang-lsyw3eitcnzfexl1l6vfh2gbtaoy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》117-2｜学着点！秦朝武将竟然如此高情商？",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-117-2-xuezhedian-qinchao-wujiang-jingran-ruci-gaoqingshang-lsyw3eitcnzfexl1l6vfh2gbtaoy/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》79丨史上用耕牛 打胜仗第一人 [lsRL0pOsblloqwUGox160XSicp2p].md",
+          "key": "zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》79丨史上用耕牛 打胜仗第一人",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》891丨高段位的母亲，是家的定海神针 [lmqKzsNhTIWc9wZcee869Kuu57M5].md",
+          "key": "zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》891丨高段位的母亲，是家的定海神针",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/deceptivesurrenderlull/"
+    },
     "DeepZ": {
       "episode_count": 1,
       "show_count": 1,
@@ -2011,9 +2041,9 @@
       "url": "/wiki/concepts/domesticbagsupplychainupgrade/"
     },
     "DongqiangLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》892丨修止语，古人有什么捷径？ [lnObbkp6mJ4xyB9jEuqSiUQogcT-].md",
@@ -2021,6 +2051,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》892丨修止语，古人有什么捷径？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-892-xiu-zhiyu-guren-youshenme-jiejing-lnobbkp6mj4xyb9jeuqsiuqogct/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》891丨高段位的母亲，是家的定海神针 [lmqKzsNhTIWc9wZcee869Kuu57M5].md",
+          "key": "zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》891丨高段位的母亲，是家的定海神针",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5/"
         }
       ],
       "updated": "2026-08-27",
@@ -2107,9 +2144,9 @@
       "url": "/wiki/entities/duxilatehan/"
     },
     "DuanJiongLateHan": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》897丨职场必读！什么才叫领导力？ [lvRRMkSykaZLSb7W8aBbdmNqfzQQ].md",
@@ -2159,6 +2196,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》892丨修止语，古人有什么捷径？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-892-xiu-zhiyu-guren-youshenme-jiejing-lnobbkp6mj4xyb9jeuqsiuqogct/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》891丨高段位的母亲，是家的定海神针 [lmqKzsNhTIWc9wZcee869Kuu57M5].md",
+          "key": "zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》891丨高段位的母亲，是家的定海神针",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5/"
         }
       ],
       "updated": "2026-08-27",
@@ -2584,6 +2628,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/fencesittingstrategicexposure/"
+    },
+    "FengChanLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》891丨高段位的母亲，是家的定海神针 [lmqKzsNhTIWc9wZcee869Kuu57M5].md",
+          "key": "zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》891丨高段位的母亲，是家的定海神针",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/fengchanlatehan/"
     },
     "ForceBackedSurrenderPersuasion": {
       "episode_count": 1,
@@ -5231,6 +5291,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/liubiao/"
     },
+    "LiuChongLateHanMinister": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》891丨高段位的母亲，是家的定海神针 [lmqKzsNhTIWc9wZcee869Kuu57M5].md",
+          "key": "zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》891丨高段位的母亲，是家的定海神针",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/liuchonglatehanminister/"
+    },
     "LiuDaiSikongZhangshi": {
       "episode_count": 1,
       "show_count": 1,
@@ -5262,6 +5338,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/liuxianlatehan/"
+    },
+    "LiuXiaoLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》891丨高段位的母亲，是家的定海神针 [lmqKzsNhTIWc9wZcee869Kuu57M5].md",
+          "key": "zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》891丨高段位的母亲，是家的定海神针",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/liuxiaolatehan/"
     },
     "LiuXunLateHan": {
       "episode_count": 4,
@@ -6838,6 +6930,38 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/paradoxmachines/"
+    },
+    "ParentalEmbodiedModeling": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》891丨高段位的母亲，是家的定海神针 [lmqKzsNhTIWc9wZcee869Kuu57M5].md",
+          "key": "zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》891丨高段位的母亲，是家的定海神针",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/parentalembodiedmodeling/"
+    },
+    "ParentalRepairAfterHarm": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》891丨高段位的母亲，是家的定海神针 [lmqKzsNhTIWc9wZcee869Kuu57M5].md",
+          "key": "zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》891丨高段位的母亲，是家的定海神针",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/parentalrepairafterharm/"
     },
     "ParisForeignMissionsSociety": {
       "episode_count": 1,
@@ -8464,6 +8588,29 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/tiankailatehan/"
     },
+    "TianYanLateHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》909丨2025如何养成一身贵气？ [lomnDMpHR_YBUnJbBbbn9EBAFcsj].md",
+          "key": "zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》909丨2025如何养成一身贵气？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》891丨高段位的母亲，是家的定海神针 [lmqKzsNhTIWc9wZcee869Kuu57M5].md",
+          "key": "zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》891丨高段位的母亲，是家的定海神针",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/tianyanlatehan/"
+    },
     "TianYuLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -8978,6 +9125,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/wenchoulatehan/"
     },
+    "WenrenXiLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》891丨高段位的母亲，是家的定海神针 [lmqKzsNhTIWc9wZcee869Kuu57M5].md",
+          "key": "zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》891丨高段位的母亲，是家的定海神针",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/wenrenxilatehan/"
+    },
     "WhatIsOurProblem": {
       "episode_count": 1,
       "show_count": 1,
@@ -9187,6 +9350,29 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/xiafulatehan/"
     },
+    "XiaYuLateHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》909丨2025如何养成一身贵气？ [lomnDMpHR_YBUnJbBbbn9EBAFcsj].md",
+          "key": "zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》909丨2025如何养成一身贵气？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》891丨高段位的母亲，是家的定海神针 [lmqKzsNhTIWc9wZcee869Kuu57M5].md",
+          "key": "zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》891丨高段位的母亲，是家的定海神针",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/xiayulatehan/"
+    },
     "XianyuFu": {
       "episode_count": 2,
       "show_count": 1,
@@ -9280,6 +9466,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/xutalatehan/"
+    },
+    "XuXunLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》891丨高段位的母亲，是家的定海神针 [lmqKzsNhTIWc9wZcee869Kuu57M5].md",
+          "key": "zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》891丨高段位的母亲，是家的定海神针",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/xuxunlatehan/"
     },
     "XuZhaoLateHan": {
       "episode_count": 1,
@@ -9813,6 +10015,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/zhangjianlatehan/"
+    },
+    "ZhangKaiDuanJiongOfficer": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》891丨高段位的母亲，是家的定海神针 [lmqKzsNhTIWc9wZcee869Kuu57M5].md",
+          "key": "zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》891丨高段位的母亲，是家的定海神针",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/zhangkaiduanjiongofficer/"
     },
     "ZhangXiu": {
       "episode_count": 6,

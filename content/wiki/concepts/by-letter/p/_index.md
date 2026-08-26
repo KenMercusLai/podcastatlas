@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5606
+wiki_total_pages: 5608
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -86,9 +86,15 @@ wiki_pages:
   - key: "ParentalDefenseConflict"
     title: "Parental Defense Conflict / 父母辩护冲突"
     url: "/wiki/concepts/parentaldefenseconflict/"
+  - key: "ParentalEmbodiedModeling"
+    title: "Parental Embodied Modeling / 身教型家庭教育"
+    url: "/wiki/concepts/parentalembodiedmodeling/"
   - key: "ParentalJudgmentOutsourcing"
     title: "Parental Judgment Outsourcing"
     url: "/wiki/concepts/parentaljudgmentoutsourcing/"
+  - key: "ParentalRepairAfterHarm"
+    title: "Parental Repair After Harm / 父母伤害后的修复"
+    url: "/wiki/concepts/parentalrepairafterharm/"
   - key: "Parentification"
     title: "Parentification / 亲职化"
     url: "/wiki/concepts/parentification/"

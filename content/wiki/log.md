@@ -12278,3 +12278,11 @@ Added source page for The Rest Is History episode on Cecil's 1569 security warni
 ## [2026-08-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-27] ingest | 《资治通鉴·汉纪》891丨高段位的母亲，是家的定海神针
+
+Added source page for Hanji 891: parental repair after scolding or hitting, embodied parenting and the mother-as-family-anchor frame, 169 CE Three Excellencies churn, Liu Xiao's eunuch-favor appointment, and Duan Jiong's rejection of a surrender-first Qiang policy followed by silent night encirclement. Created parental repair/modeling concepts and disambiguated Feng Chan, Wenren Xi, Xu Xun, Liu Chong the minister, Liu Xiao, and Zhang Kai the Duan officer; updated Duan Jiong, Eastern Qiang, Tian Yan, Xia Yu, and Deceptive Surrender Lull. No settled contradiction found; Hanji 891 backfills the tactical predecessor to Hanji 892 while leaving the anti-extermination critique intact.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

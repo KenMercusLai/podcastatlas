@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 7838
+wiki_total_pages: 7844
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -542,6 +542,9 @@ wiki_pages:
   - key: "ZhangZhihao"
     title: "张志浩"
     url: "/wiki/entities/zhangzhihao/"
+  - key: "ZhangKaiDuanJiongOfficer"
+    title: "张恺 / Zhang Kai (Duan Jiong officer)"
+    url: "/wiki/entities/zhangkaiduanjiongofficer/"
   - key: "ZhangYiLateHan"
     title: "张懿 / Zhang Yi (late Han)"
     url: "/wiki/entities/zhangyilatehan/"
