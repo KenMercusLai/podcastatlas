@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 5530
+wiki_total_pages: 5538
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -566,6 +566,9 @@ wiki_pages:
   - key: "TrustAsBusinessAsset"
     title: "Trust As Business Asset"
     url: "/wiki/concepts/trustasbusinessasset/"
+  - key: "TrustBasedCommonsGovernance"
+    title: "Trust-Based Commons Governance"
+    url: "/wiki/concepts/trustbasedcommonsgovernance/"
   - key: "TrustBasedDistribution"
     title: "Trust-Based Distribution"
     url: "/wiki/concepts/trustbaseddistribution/"

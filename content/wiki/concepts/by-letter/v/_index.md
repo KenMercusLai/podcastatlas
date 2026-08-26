@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "v"
-wiki_total_pages: 5530
+wiki_total_pages: 5538
 wiki_pages:
   - key: "VacationShame"
     title: "Vacation Shame / 休假羞耻感"
@@ -140,6 +140,9 @@ wiki_pages:
   - key: "VIEEmployeeEquityMismatch"
     title: "VIE Employee Equity Mismatch / VIE 员工股权主体错位"
     url: "/wiki/concepts/vieemployeeequitymismatch/"
+  - key: "ViennaSocialHousingScale"
+    title: "Vienna Social Housing Scale"
+    url: "/wiki/concepts/viennasocialhousingscale/"
   - key: "ViewpointDebanking"
     title: "Viewpoint Debanking"
     url: "/wiki/concepts/viewpointdebanking/"

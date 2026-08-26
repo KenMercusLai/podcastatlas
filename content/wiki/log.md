@@ -12025,3 +12025,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-26] ingest | The continent nobody owns & everyone benefits from (Summer School)
+
+Added source page for Planet Money Summer School's Antarctica finale: non-market valuation of Antarctica and the Southern Ocean, Antarctic Treaty commons governance, McMurdo retail demand under isolation, Tokyo parking-cost internalization, Vienna social housing at scale, and Brazilian consortio group financing. Created Antarctica, Southern Ocean, Antarctic Treaty, McMurdo Station, Natalie Stokel, Liz Walters, Tokyo, Non-Market Environmental Valuation, Antarctic Climate Services, Trust-Based Commons Governance, Isolated Retail Demand Management, Parking Cost Internalization, Vienna Social Housing Scale, Consortio Group Financing, and Institutional Policy Pluralism; migrated Vienna to synthesis-v1 and updated index and overview. No settled contradiction found; valuation figures, treaty details, rent effects, and financing terms remain source-scoped.
+
+## [2026-08-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

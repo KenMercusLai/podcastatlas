@@ -6783,6 +6783,32 @@
       "url": "/topics/technology/"
     }
   ],
+  "AntarcticClimateServices": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "AntarcticTreaty": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "Antarctica": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "Anthropic": [
     {
       "key": "technology",
@@ -14225,6 +14251,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "ConsortioGroupFinancing": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "ConspiracyTheoryPatternSeeking": [
@@ -28602,6 +28635,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "InstitutionalPolicyPluralism": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "InstitutionalSectarianDiscrimination": [
     {
       "key": "politics",
@@ -36023,6 +36068,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "McMurdoStation": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "MeaningAsEvolvedFunction": [
     {
       "key": "science",
@@ -38554,6 +38606,18 @@
       "url": "/topics/economics/"
     }
   ],
+  "NatalieStokel": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "NateBlecharczyk": [
     {
       "key": "economics",
@@ -39547,6 +39611,18 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "NonMarketEnvironmentalValuation": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "NongzhengQuanshu": [
@@ -51071,6 +51147,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "SouthernOcean": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "SouthernTourPoliticalTheater": [
     {
       "key": "politics",
@@ -56656,6 +56739,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "TrustBasedCommonsGovernance": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "TrustBasedPhilanthropy": [
@@ -67380,6 +67470,18 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "the-continent-nobody-owns-everyone-benefits-from-summer-school": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4": [

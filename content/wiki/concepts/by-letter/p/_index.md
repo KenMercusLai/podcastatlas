@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5530
+wiki_total_pages: 5538
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -95,6 +95,9 @@ wiki_pages:
   - key: "ParentingDataHypervigilance"
     title: "Parenting Data Hypervigilance"
     url: "/wiki/concepts/parentingdatahypervigilance/"
+  - key: "ParkingCostInternalization"
+    title: "Parking Cost Internalization"
+    url: "/wiki/concepts/parkingcostinternalization/"
   - key: "ParkinsonsLaw"
     title: "Parkinson's Law"
     url: "/wiki/concepts/parkinsonslaw/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 5530
+wiki_total_pages: 5538
 wiki_pages:
   - key: "ICEWorkforceExpansion"
     title: "ICE Workforce Expansion"
@@ -341,6 +341,9 @@ wiki_pages:
   - key: "InstitutionalOvercompliance"
     title: "Institutional Overcompliance"
     url: "/wiki/concepts/institutionalovercompliance/"
+  - key: "InstitutionalPolicyPluralism"
+    title: "Institutional Policy Pluralism"
+    url: "/wiki/concepts/institutionalpolicypluralism/"
   - key: "InstitutionalSectarianDiscrimination"
     title: "Institutional Sectarian Discrimination"
     url: "/wiki/concepts/institutionalsectariandiscrimination/"
@@ -647,6 +650,9 @@ wiki_pages:
   - key: "IslandExtinctionAfterHumanArrival"
     title: "Island Extinction After Human Arrival"
     url: "/wiki/concepts/islandextinctionafterhumanarrival/"
+  - key: "IsolatedRetailDemandManagement"
+    title: "Isolated Retail Demand Management"
+    url: "/wiki/concepts/isolatedretaildemandmanagement/"
   - key: "IsraeliElection2026"
     title: "Israeli Election 2026"
     url: "/wiki/concepts/israelielection2026/"

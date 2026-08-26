@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1892
+topic_total_pages: 1895
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -1297,6 +1297,9 @@ topic_concepts:
   - key: "InstitutionalMechanismSatire"
     title: "Institutional Mechanism Satire"
     url: "/wiki/concepts/institutionalmechanismsatire/"
+  - key: "InstitutionalPolicyPluralism"
+    title: "Institutional Policy Pluralism"
+    url: "/wiki/concepts/institutionalpolicypluralism/"
   - key: "InstitutionalSectarianDiscrimination"
     title: "Institutional Sectarian Discrimination"
     url: "/wiki/concepts/institutionalsectariandiscrimination/"
@@ -2740,6 +2743,9 @@ topic_concepts:
   - key: "TrustAsBusinessAsset"
     title: "Trust As Business Asset"
     url: "/wiki/concepts/trustasbusinessasset/"
+  - key: "TrustBasedCommonsGovernance"
+    title: "Trust-Based Commons Governance"
+    url: "/wiki/concepts/trustbasedcommonsgovernance/"
   - key: "TrustBasedPhilanthropy"
     title: "Trust-Based Philanthropy"
     url: "/wiki/concepts/trustbasedphilanthropy/"
@@ -3215,6 +3221,9 @@ topic_entities:
   - key: "AnshelPfeffer"
     title: "Anshel Pfeffer"
     url: "/wiki/entities/anshelpfeffer/"
+  - key: "AntarcticTreaty"
+    title: "Antarctic Treaty"
+    url: "/wiki/entities/antarctictreaty/"
   - key: "AntonLaGuardia"
     title: "Anton LaGuardia"
     url: "/wiki/entities/antonlaguardia/"

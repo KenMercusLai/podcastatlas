@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The continent nobody owns & everyone benefits from (Summer School)](sources/the-continent-nobody-owns-everyone-benefits-from-summer-school.md) — Planet Money Summer School finale on Antarctica's non-market climate value, treaty-based commons governance, McMurdo retail scarcity, Tokyo parking, Vienna social housing, and Brazilian consortios.
 - [《资治通鉴·汉纪》1039丨东吴第一嘴炮？且看他如何劝降华歆](sources/zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd.md) — 芮淇讲透资治通鉴 episode on Yu Fan persuading Hua Xin to surrender Yuzhang to Sun Ce, the moral dispute over surrender as civilian protection, Sun Ce's Luling split and local pacification, Lady Wu saving Wei Teng, Xu Zhao's selective leniency case, and Xu Chu stopping Xu Ta's guard plot against Cao Cao.
 - [《资治通鉴·汉纪》1040丨乱世英雄，曹操为何独独看好刘备？](sources/zizhi-tongjian-hanji-1040-luanshi-yingxiong-caocao-weihe-dudu-kanhao-liubei-lrazzwo4bjspvwmnkx5hoar1iq3x.md) — 芮淇讲透资治通鉴 episode on Cao Cao's "天下英雄" judgment of Liu Bei, the Dong Cheng/Yidai Zhao plot, Liu Bei's chopsticks-and-thunder composure, Cao Cao releasing Liu Bei to intercept Yuan Shu, and Liu Bei killing Che Zhou to regain Xuzhou before Guandu.
 - [腾讯、阿里、字节争夺打工人，互联网大厂为何集体加码 AI 办公？](sources/tengxun-ali-zijie-zhengduo-dagongren-hulianwang-dachang-weihe-jiti-jiama-ai-bangong-1008598460.md) — 声动早咖啡 episode on Tencent, Alibaba, and ByteDance shifting from consumer AI chatbots toward AI office products because agents, coding proof, token costs, enterprise context, and payment uncertainty make office workflows the new AI battleground.
@@ -1508,6 +1509,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Antarctica](entities/Antarctica.md) — protected continent whose largest source-described economic value comes from climate-regulating services rather than ordinary markets.
+- [Southern Ocean](entities/SouthernOcean.md) — Antarctic ocean system tied to carbon absorption, fisheries, and climate-service valuation.
+- [Antarctic Treaty](entities/AntarcticTreaty.md) — treaty frame for Antarctic peace, science, trust, collaboration, and sanctions in the Planet Money source.
+- [McMurdo Station](entities/McMurdoStation.md) — Antarctic scientific base and settlement case showing logistics, worker services, and isolated retail demand.
+- [Natalie Stokel](entities/NatalieStokel.md) — economist whose Antarctic valuation makes tourism, fisheries, and climate services legible in dollar terms.
+- [Liz Walters](entities/LizWalters.md) — former McMurdo store officer illustrating novelty, scarcity, and display as retail tools in an isolated settlement.
+- [Tokyo](entities/Tokyo.md) — city policy case where car ownership is tied to proof of off-street parking.
 - [孙辅 / Sun Fu (late Han)](entities/SunFuLateHan.md) — Sun-family administrator assigned to the newly created Luling commandery after Sun Ce takes Yuzhang.
 - [孙胜 / Sun Sheng (Eastern Jin)](entities/SunShengEasternJin.md) — Eastern Jin historian whose orthodox criticism of Hua Xin, Yu Fan, and Sun Ce counters the civilian-protection reading of Yuzhang's surrender.
 - [魏腾 / Wei Teng (late Han)](entities/WeiTengLateHan.md) — Kuaiji merit officer whose public criticism of Sun Ce nearly brings execution before Lady Wu intervenes.
@@ -4742,7 +4750,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The World of Yesterday / 《昨日的世界》](entities/TheWorldOfYesterday.md) — Zweig memoir used by the source as a bridge from prewar Europe to contemporary fragmentation.
 - [Romain Rolland / 罗曼·罗兰](entities/RomainRolland.md) — antiwar writer used in the source's cross-border friendship and world-citizen argument.
 - [Austria](entities/Austria.md) — national and imperial background for Zweig's education, Viennese culture, and later exile story.
-- [Vienna / 维也纳](entities/Vienna.md) — cultural city through which the source explains Zweig's elite European world.
+- [Vienna / 维也纳](entities/Vienna.md) — city appearing as a totemic siege case, Zweig-era cultural setting, and large-scale social-housing policy example.
 - [Schengen Area / 申根区](entities/SchengenArea.md) — European border and visa regime used by the source to explain passport mobility inequality.
 - [Erasmus Programme / 伊拉斯莫计划](entities/ErasmusProgramme.md) — European student-exchange program used as a contemporary identity-building institution.
 - [Airbus](entities/Airbus.md) — European aerospace company used as the source's industrial-integration and war-prevention example.
@@ -9246,6 +9254,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Non-Market Environmental Valuation](concepts/NonMarketEnvironmentalValuation.md) — Method for pricing environmental services that ordinary markets ignore, used here to make Antarctica's climate value visible.
+- [Antarctic Climate Services](concepts/AntarcticClimateServices.md) — Reflective ice, Southern Ocean carbon absorption, and stored land ice treated as Antarctica's largest economic contribution.
+- [Trust-Based Commons Governance](concepts/TrustBasedCommonsGovernance.md) — Shared-resource governance through rules, cooperation, trust, and sanctions rather than ordinary ownership.
+- [Isolated Retail Demand Management](concepts/IsolatedRetailDemandManagement.md) — Retail strategy for remote settlements where shopping serves novelty, identity, and entertainment needs.
+- [Parking Cost Internalization](concepts/ParkingCostInternalization.md) — Urban policy frame that makes car owners bear vehicle-storage costs instead of shifting them onto public streets.
+- [Vienna Social Housing Scale](concepts/ViennaSocialHousingScale.md) — Large nonprofit, cooperative, supported, and rent-controlled housing supply as a citywide rent-market intervention.
+- [Consortio Group Financing](concepts/ConsortioGroupFinancing.md) — Brazilian formal group self-financing system for large purchases using contracts, bank organization, fees, and drawings.
+- [Institutional Policy Pluralism](concepts/InstitutionalPolicyPluralism.md) — Comparative-economics frame where shared principles are implemented through different local institutions.
 - [Force-Backed Surrender Persuasion / 武力背书式劝降](concepts/ForceBackedSurrenderPersuasion.md) — Hanji 1039 pattern where respectful persuasion, material asymmetry, precedent, and a deadline make surrender the least damaging option under military pressure.
 - [Surrender as Civilian-Protection Tradeoff / 献城保民权衡](concepts/SurrenderAsCivilianProtectionTradeoff.md) — Ethical-political frame for judging surrender against civilian harm from unwinnable resistance rather than only against loyalist ideals.
 - [Latent Rival Recognition / 潜在强敌识别](concepts/LatentRivalRecognition.md) — Strategy pattern of reading future threat in a currently weak but resilient actor, created from Cao Cao's judgment of Liu Bei.

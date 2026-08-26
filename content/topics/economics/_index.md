@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 1853
+topic_total_pages: 1858
 topic_concepts:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -580,6 +580,9 @@ topic_concepts:
   - key: "ConfessionalTradeConflict"
     title: "Confessional Trade Conflict"
     url: "/wiki/concepts/confessionaltradeconflict/"
+  - key: "ConsortioGroupFinancing"
+    title: "Consortio Group Financing"
+    url: "/wiki/concepts/consortiogroupfinancing/"
   - key: "ConstraintDrivenProductDiscipline"
     title: "Constraint-Driven Product Discipline"
     url: "/wiki/concepts/constraintdrivenproductdiscipline/"
@@ -1417,6 +1420,9 @@ topic_concepts:
   - key: "InstitutionalInvestorProcessDiscipline"
     title: "Institutional Investor Process Discipline / 机构投资者流程纪律"
     url: "/wiki/concepts/institutionalinvestorprocessdiscipline/"
+  - key: "InstitutionalPolicyPluralism"
+    title: "Institutional Policy Pluralism"
+    url: "/wiki/concepts/institutionalpolicypluralism/"
   - key: "InstitutionalSingleFamilyRental"
     title: "Institutional Single-Family Rental"
     url: "/wiki/concepts/institutionalsinglefamilyrental/"
@@ -1816,6 +1822,9 @@ topic_concepts:
   - key: "NonGAAPEarnings"
     title: "Non-GAAP Earnings"
     url: "/wiki/concepts/nongaapearnings/"
+  - key: "NonMarketEnvironmentalValuation"
+    title: "Non-Market Environmental Valuation"
+    url: "/wiki/concepts/nonmarketenvironmentalvaluation/"
   - key: "NonprofitStartupDiscipline"
     title: "Nonprofit Startup Discipline"
     url: "/wiki/concepts/nonprofitstartupdiscipline/"
@@ -3896,6 +3905,9 @@ topic_entities:
   - key: "NatFriedman"
     title: "Nat Friedman"
     url: "/wiki/entities/natfriedman/"
+  - key: "NatalieStokel"
+    title: "Natalie Stokel"
+    url: "/wiki/entities/nataliestokel/"
   - key: "NateBlecharczyk"
     title: "Nate Blecharczyk"
     url: "/wiki/entities/nateblecharczyk/"
@@ -5397,6 +5409,9 @@ topic_sources:
   - key: "the-case-of-the-missing-totem-aung-san-suu-kyi-6a560fc4f96471dde4821d2f"
     title: "The case of the missing totem: Aung San Suu Kyi"
     url: "/wiki/sources/the-case-of-the-missing-totem-aung-san-suu-kyi-6a560fc4f96471dde4821d2f/"
+  - key: "the-continent-nobody-owns-everyone-benefits-from-summer-school"
+    title: "The continent nobody owns & everyone benefits from (Summer School)"
+    url: "/wiki/sources/the-continent-nobody-owns-everyone-benefits-from-summer-school/"
   - key: "the-secret-meeting-that-launched-opec"
     title: "The secret meeting that launched OPEC"
     url: "/wiki/sources/the-secret-meeting-that-launched-opec/"

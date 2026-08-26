@@ -605,14 +605,14 @@
       "earliest_episode_date": "2025-07-18",
       "latest_episode_date": "2026-08-26",
       "latest_episode_file": "default.mp3_ywr3ahjkcgo_fb83612e726fa5aa682874e780f8cc1f_42235685 [default.mp3_ywr3ahjkcgo_fb83612e726fa5aa682874e780f8cc1f_42235685].md",
-      "source_note_count": 73,
-      "topic_matched_source_note_count": 42,
+      "source_note_count": 74,
+      "topic_matched_source_note_count": 43,
       "topics": [
         {
           "key": "economics",
           "label": "Economics",
           "url": "/topics/economics/",
-          "source_note_count": 18
+          "source_note_count": 19
         },
         {
           "key": "politics",
@@ -692,7 +692,7 @@
         }
       ],
       "start_here_episode_files": [
-        "default.mp3_ywr3ahjkcgo_bd79b919adf14f387b2d9f8da0b64daf_39858332 [default.mp3_ywr3ahjkcgo_bd79b919adf14f387b2d9f8da0b64daf_39858332].md",
+        "default.mp3_ywr3ahjkcgo_fb83612e726fa5aa682874e780f8cc1f_42235685 [default.mp3_ywr3ahjkcgo_fb83612e726fa5aa682874e780f8cc1f_42235685].md",
         "default.mp3_ywr3ahjkcgo_703b184afdfd58f0b2a7bbfd6feeaec2_27253518 [default.mp3_ywr3ahjkcgo_703b184afdfd58f0b2a7bbfd6feeaec2_27253518].md",
         "default.mp3_ywr3ahjkcgo_f5e779df1da7a4c278586ff9d3f1d98e_20827812 [default.mp3_ywr3ahjkcgo_f5e779df1da7a4c278586ff9d3f1d98e_20827812].md",
         "default.mp3_ywr3ahjkcgo_5c39ca8bbdbf89c6ef326681052f6a26_40467297 [default.mp3_ywr3ahjkcgo_5c39ca8bbdbf89c6ef326681052f6a26_40467297].md"

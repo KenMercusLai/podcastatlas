@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 5530
+wiki_total_pages: 5538
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1406,6 +1406,9 @@ wiki_pages:
   - key: "AnswerEngineOptimization"
     title: "Answer Engine Optimization"
     url: "/wiki/concepts/answerengineoptimization/"
+  - key: "AntarcticClimateServices"
+    title: "Antarctic Climate Services"
+    url: "/wiki/concepts/antarcticclimateservices/"
   - key: "AnthropologicalScienceFictionWorldbuilding"
     title: "Anthropological Science Fiction Worldbuilding / 人类学式科幻世界建构"
     url: "/wiki/concepts/anthropologicalsciencefictionworldbuilding/"

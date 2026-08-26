@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 5530
+wiki_total_pages: 5538
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1148,6 +1148,9 @@ wiki_pages:
   - key: "ConsiderTheOppositeBiasCorrection"
     title: "Consider-The-Opposite Bias Correction / 反向设想偏见校正"
     url: "/wiki/concepts/considertheoppositebiascorrection/"
+  - key: "ConsortioGroupFinancing"
+    title: "Consortio Group Financing"
+    url: "/wiki/concepts/consortiogroupfinancing/"
   - key: "ConspiracyTheoryPatternSeeking"
     title: "Conspiracy Theory Pattern Seeking"
     url: "/wiki/concepts/conspiracytheorypatternseeking/"

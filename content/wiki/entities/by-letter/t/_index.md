@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 7734
+wiki_total_pages: 7741
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -563,6 +563,9 @@ wiki_pages:
   - key: "TokugawaShogunate"
     title: "Tokugawa Shogunate / 德川幕府"
     url: "/wiki/entities/tokugawashogunate/"
+  - key: "Tokyo"
+    title: "Tokyo"
+    url: "/wiki/entities/tokyo/"
   - key: "TokyoDisneyResort"
     title: "Tokyo Disney Resort / 东京迪士尼"
     url: "/wiki/entities/tokyodisneyresort/"

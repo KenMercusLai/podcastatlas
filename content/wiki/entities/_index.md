@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 7734
+wiki_total_pages: 7741
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -890,6 +890,12 @@ wiki_pages:
   - key: "AntaSports"
     title: "Anta Sports / 安踏"
     url: "/wiki/entities/antasports/"
+  - key: "AntarcticTreaty"
+    title: "Antarctic Treaty"
+    url: "/wiki/entities/antarctictreaty/"
+  - key: "Antarctica"
+    title: "Antarctica"
+    url: "/wiki/entities/antarctica/"
   - key: "AnthonyBabington"
     title: "Anthony Babington"
     url: "/wiki/entities/anthonybabington/"

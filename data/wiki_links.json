@@ -4475,6 +4475,18 @@
     "title": "Anta Sports / 安踏",
     "url": "/wiki/entities/antasports/"
   },
+  "AntarcticClimateServices": {
+    "title": "Antarctic Climate Services",
+    "url": "/wiki/concepts/antarcticclimateservices/"
+  },
+  "AntarcticTreaty": {
+    "title": "Antarctic Treaty",
+    "url": "/wiki/entities/antarctictreaty/"
+  },
+  "Antarctica": {
+    "title": "Antarctica",
+    "url": "/wiki/entities/antarctica/"
+  },
   "AnthonyBabington": {
     "title": "Anthony Babington",
     "url": "/wiki/entities/anthonybabington/"
@@ -11070,6 +11082,10 @@
   "ConsiderTheOppositeBiasCorrection": {
     "title": "Consider-The-Opposite Bias Correction / 反向设想偏见校正",
     "url": "/wiki/concepts/considertheoppositebiascorrection/"
+  },
+  "ConsortioGroupFinancing": {
+    "title": "Consortio Group Financing",
+    "url": "/wiki/concepts/consortiogroupfinancing/"
   },
   "ConspiracyTheoryPatternSeeking": {
     "title": "Conspiracy Theory Pattern Seeking",
@@ -23271,6 +23287,10 @@
     "title": "Institutional Overcompliance",
     "url": "/wiki/concepts/institutionalovercompliance/"
   },
+  "InstitutionalPolicyPluralism": {
+    "title": "Institutional Policy Pluralism",
+    "url": "/wiki/concepts/institutionalpolicypluralism/"
+  },
   "InstitutionalSectarianDiscrimination": {
     "title": "Institutional Sectarian Discrimination",
     "url": "/wiki/concepts/institutionalsectariandiscrimination/"
@@ -23818,6 +23838,10 @@
   "IslandExtinctionAfterHumanArrival": {
     "title": "Island Extinction After Human Arrival",
     "url": "/wiki/concepts/islandextinctionafterhumanarrival/"
+  },
+  "IsolatedRetailDemandManagement": {
+    "title": "Isolated Retail Demand Management",
+    "url": "/wiki/concepts/isolatedretaildemandmanagement/"
   },
   "Israel": {
     "title": "Israel",
@@ -28411,6 +28435,10 @@
     "title": "Liz Farmer",
     "url": "/wiki/entities/lizfarmer/"
   },
+  "LizWalters": {
+    "title": "Liz Walters",
+    "url": "/wiki/entities/lizwalters/"
+  },
   "LizanSports": {
     "title": "力赞体育 / Lizan Sports",
     "url": "/wiki/entities/lizansports/"
@@ -30542,6 +30570,10 @@
   "McKinsey": {
     "title": "McKinsey",
     "url": "/wiki/entities/mckinsey/"
+  },
+  "McMurdoStation": {
+    "title": "McMurdo Station",
+    "url": "/wiki/entities/mcmurdostation/"
   },
   "McNallyJackson": {
     "title": "McNally Jackson",
@@ -32731,6 +32763,10 @@
     "title": "Natalia John",
     "url": "/wiki/entities/nataliajohn/"
   },
+  "NatalieStokel": {
+    "title": "Natalie Stokel",
+    "url": "/wiki/entities/nataliestokel/"
+  },
   "NataschaWodin": {
     "title": "Natascha Wodin / 纳塔莎·沃丁",
     "url": "/wiki/entities/nataschawodin/"
@@ -33562,6 +33598,10 @@
   "NonKillingUnification": {
     "title": "Non-Killing Unification / 不爱杀人者能一之",
     "url": "/wiki/concepts/nonkillingunification/"
+  },
+  "NonMarketEnvironmentalValuation": {
+    "title": "Non-Market Environmental Valuation",
+    "url": "/wiki/concepts/nonmarketenvironmentalvaluation/"
   },
   "NonMoralPoliticalAnalysis": {
     "title": "Non-Moral Political Analysis",
@@ -35114,6 +35154,10 @@
   "ParkerConrad": {
     "title": "Parker Conrad",
     "url": "/wiki/entities/parkerconrad/"
+  },
+  "ParkingCostInternalization": {
+    "title": "Parking Cost Internalization",
+    "url": "/wiki/concepts/parkingcostinternalization/"
   },
   "ParkinsonsLaw": {
     "title": "Parkinson's Law",
@@ -43271,6 +43315,10 @@
     "title": "荆南 / Southern Jingzhou (late Han)",
     "url": "/wiki/entities/southernjingzhoulatehan/"
   },
+  "SouthernOcean": {
+    "title": "Southern Ocean",
+    "url": "/wiki/entities/southernocean/"
+  },
   "SouthernTang": {
     "title": "南唐 / Southern Tang",
     "url": "/wiki/entities/southerntang/"
@@ -46819,6 +46867,10 @@
     "title": "Tokugawa Shogunate / 德川幕府",
     "url": "/wiki/entities/tokugawashogunate/"
   },
+  "Tokyo": {
+    "title": "Tokyo",
+    "url": "/wiki/entities/tokyo/"
+  },
   "TokyoDisneyResort": {
     "title": "Tokyo Disney Resort / 东京迪士尼",
     "url": "/wiki/entities/tokyodisneyresort/"
@@ -47370,6 +47422,10 @@
   "TrustAsMoralRisk": {
     "title": "信赖作为道德风险 / Trust As Moral Risk",
     "url": "/wiki/concepts/trustasmoralrisk/"
+  },
+  "TrustBasedCommonsGovernance": {
+    "title": "Trust-Based Commons Governance",
+    "url": "/wiki/concepts/trustbasedcommonsgovernance/"
   },
   "TrustBasedDistribution": {
     "title": "Trust-Based Distribution",
@@ -48538,6 +48594,10 @@
   "Vienna": {
     "title": "Vienna / 维也纳",
     "url": "/wiki/entities/vienna/"
+  },
+  "ViennaSocialHousingScale": {
+    "title": "Vienna Social Housing Scale",
+    "url": "/wiki/concepts/viennasocialhousingscale/"
   },
   "Vietnam": {
     "title": "Vietnam",
@@ -56594,6 +56654,10 @@
   "the-case-of-the-missing-totem-aung-san-suu-kyi-6a560fc4f96471dde4821d2f": {
     "title": "The case of the missing totem: Aung San Suu Kyi",
     "url": "/wiki/sources/the-case-of-the-missing-totem-aung-san-suu-kyi-6a560fc4f96471dde4821d2f/"
+  },
+  "the-continent-nobody-owns-everyone-benefits-from-summer-school": {
+    "title": "The continent nobody owns & everyone benefits from (Summer School)",
+    "url": "/wiki/sources/the-continent-nobody-owns-everyone-benefits-from-summer-school/"
   },
   "the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4": {
     "title": "The Elon game: Musk's vision of the future",

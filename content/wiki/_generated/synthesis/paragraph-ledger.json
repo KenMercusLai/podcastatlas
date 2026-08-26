@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "8d6f3161ce308c5fa1672e99fa6cd5e9c59199d70f119267c31b3d0481772e20",
       "547548604597cb96f8ee207d1a3ccc73e53ead93e2136757534d418981e69e17",
       "02aca0cdc3e5a8775e4f935539adfd86ed7ad52997d7c90ca4cf477989391fb1",
       "b59592e9dee1b2eee5a578c1941f5cafbbdd73787a357e7b849bb4a18af13d90",
@@ -251,11 +252,54 @@
       "d9074e43b7b103fc0d0097b207bf8018227d6e146ca0eb75638118627687641c",
       "b16a38bd6e190222f7f3e6f0535803ce60ae7f3304e3477dfcdd995a15fb502f"
     ],
-    "paragraph_count": 249
+    "paragraph_count": 250
   },
-  "overview_commit": "f30842957443be819efb0870adec1f446aa5df5f",
-  "overview_digest": "4a4db9c637ccf46034388c7c6881024411670ee32de9119b7d3f69575e20fc24",
+  "overview_commit": "1463b7299b52ca80db140e98e1baa197ba0b92e0",
+  "overview_digest": "6cf40f964e930d2a64851dfbc1291028ee46246177f2ec099d4948d9b61eb047",
   "paragraphs": [
+    {
+      "id": "8d6f3161ce308c5fa1672e99fa6cd5e9c59199d70f119267c31b3d0481772e20",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "governance-and-institutions",
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[the-continent-nobody-owns-everyone-benefits-from-summer-school]], a [[PlanetMoney]] Summer School finale using [[Antarctica]] to show how economics applies where ordinary markets and ownership are sparse. It adds [[Antarctica]], [[SouthernOcean]], [[AntarcticTreaty]], [[McMurdoStation]], [[NatalieStokel]], [[LizWalters]], [[Tokyo]], [[NonMarketEnvironmentalValuation]], [[AntarcticClimateServices]], [[TrustBasedCommonsGovernance]], [[IsolatedRetailDemandManagement]], [[ParkingCostInternalization]], [[ViennaSocialHousingScale]], [[ConsortioGroupFinancing]], and [[InstitutionalPolicyPluralism]], while extending [[Vienna]], [[Japan]], [[Brazil]], [[ExternalityInternalization]], [[TragedyOfTheCommons]], [[TourismResourceProtectionFunding]], [[FisheriesResourceManagement]], and [[HousingAffordabilitySupplyMechanics]]. Its core synthesis is that value can be created by restraint and institutional design: Antarctic ice and the Southern Ocean are most valuable as climate regulators, Tokyo makes car owners internalize parking costs, Vienna uses housing supply at public/nonprofit scale to affect rents, and Brazilian consortios formalize mutual finance under high-interest conditions. No settled contradiction is recorded; the Antarctic dollar estimate, treaty details, Vienna rent effect, and consortio rates remain source-scoped.",
+      "topic_scores": {
+        "business-and-markets": 4,
+        "governance-and-institutions": 2,
+        "psychology-and-personal-development": 1,
+        "science-health-and-climate": 1,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "AntarcticClimateServices",
+        "AntarcticTreaty",
+        "Antarctica",
+        "Brazil",
+        "ConsortioGroupFinancing",
+        "ExternalityInternalization",
+        "FisheriesResourceManagement",
+        "HousingAffordabilitySupplyMechanics",
+        "InstitutionalPolicyPluralism",
+        "IsolatedRetailDemandManagement",
+        "Japan",
+        "LizWalters",
+        "McMurdoStation",
+        "NatalieStokel",
+        "NonMarketEnvironmentalValuation",
+        "ParkingCostInternalization",
+        "PlanetMoney",
+        "SouthernOcean",
+        "Tokyo",
+        "TourismResourceProtectionFunding",
+        "TragedyOfTheCommons",
+        "TrustBasedCommonsGovernance",
+        "Vienna",
+        "ViennaSocialHousingScale",
+        "the-continent-nobody-owns-everyone-benefits-from-summer-school"
+      ]
+    },
     {
       "id": "547548604597cb96f8ee207d1a3ccc73e53ead93e2136757534d418981e69e17",
       "primary_topic": "psychology-and-personal-development",
