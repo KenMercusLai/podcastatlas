@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1883
+topic_total_pages: 1884
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -793,6 +793,9 @@ topic_concepts:
   - key: "EliteFiscalLawCompliance"
     title: "Elite Fiscal-Law Compliance / 贵族税法同遵"
     url: "/wiki/concepts/elitefiscallawcompliance/"
+  - key: "ElizabethanRecusancySecurityState"
+    title: "Elizabethan Recusancy Security State"
+    url: "/wiki/concepts/elizabethanrecusancysecuritystate/"
   - key: "EmbodiedCarbonBuildingCode"
     title: "Embodied Carbon Building Code"
     url: "/wiki/concepts/embodiedcarbonbuildingcode/"

@@ -2,11 +2,13 @@
 title: "France"
 type: entity
 tags: [country, politics, europe, coffee, film, culture, resistance]
-sources: [694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087, 695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455, tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128, 21-hong-yu-hei-ta-si-yu-zhencheng-569042001, 133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110, 108-zu-yu-zhan-ai-yu-bu-ai-bali-jiu-zai-nali-songjian-745812905, marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c, 74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763, burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b]
+sources: [692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025, 694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087, 695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455, tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128, 21-hong-yu-hei-ta-si-yu-zhencheng-569042001, 133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110, 108-zu-yu-zhan-ai-yu-bu-ai-bali-jiu-zai-nali-songjian-745812905, marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c, 74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763, burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b]
 last_updated: 2026-08-25
 ---
 
 # France
+
+[[692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025]] adds France through the [[StBartholomewsDayMassacre]] itself before the later diplomatic and three-Henry branches. The episode follows [[GaspardColigny]], [[HenryDukeOfGuise|Henry, Duke of Guise]], royal-wedding reconciliation hopes, Louvre killings, neighborhood violence, and Catholic rescue of some Huguenots as the event becomes English [[ConfessionalTraumaMemory|confessional trauma memory]].
 
 [[694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087]] adds France as both [[ElizabethI|Elizabeth I]]'s hoped-for counterweight to [[Spain]] and a source of instability. [[FrancoisDukeOfAnjou|Francois, Duke of Anjou]] gives Elizabeth a possible marriage and Dutch-policy option, while [[HenryIIIOfFrance|Henry III]], [[HenryOfNavarre]], and [[HenryDukeOfGuise|Henry, Duke of Guise]] turn the post-[[StBartholomewsDayMassacre]] field into factional crisis.
 
@@ -32,6 +34,7 @@ The source presents the field as crowded: [[EmmanuelMacron]] cannot be the same 
 
 ## Connections
 - [[MarineLePen]] and [[NationalRally]] - central French political actors in the source.
+- [[GaspardColigny]], [[ChristopherMarlowe]], [[FrancisWalsingham]], and [[ConfessionalTraumaMemory]] - massacre and English-memory branch added by episode 692.
 - [[FrancoisDukeOfAnjou|Francois, Duke of Anjou]], [[HenryIIIOfFrance]], [[HenryOfNavarre]], [[HenryDukeOfGuise|Henry, Duke of Guise]], [[CatholicLeague]], [[StBartholomewsDayMassacre]], and [[WarOfTheThreeHenrys]] - Elizabethan French civil-war branch added by episode 694.
 - [[ThrockmortonPlot]], [[MichelDeCastelnau]], [[WilliamAllen]], and [[ConfessionalInvasionConspiracy]] - French-linked conspiracy branch.
 - [[ElizabethI|Elizabeth I]], [[England]], [[LowCountries|Low Countries]], [[DutchRevolt]], and [[StrategicInterventionThreshold]] - Elizabethan branch where French paralysis removes the preferred alternative patron.

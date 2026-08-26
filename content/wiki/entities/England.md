@@ -2,11 +2,13 @@
 title: "England"
 type: entity
 tags: [country, historical-state, maritime-history, europe]
-sources: [693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329, 694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087, 695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455, 696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496, 14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285]
+sources: [692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025, 693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329, 694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087, 695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455, 696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496, 14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285]
 last_updated: 2026-08-26
 ---
 
 # England
+
+[[692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025]] adds England before the Drake and Armada branches as a Protestant monarchy interpreting Catholicism through massacre memory, papal excommunication, dynastic threat, and priest missions. The source uses [[FrancisWalsingham]], [[WilliamCecil|William Cecil / Lord Burleigh]], [[MaryQueenOfScots|Mary, Queen of Scots]], and [[EdmundCampion]] to show [[ElizabethanRecusancySecurityState|recusancy security politics]] forming before the later named plots.
 
 [[693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329]] adds England's Drake branch before the return crisis: English maritime ambition is still entangled with [[JohnHawkins]]'s slaving voyages, unauthorized raids, and Protestant hostility to Spanish monopoly. Drake's eventual [[GoldenHind]] circumnavigation gives England a proof that Spanish Atlantic and Pacific systems can be reached.
 
@@ -23,6 +25,7 @@ England enters the wiki's early-modern maritime branch through [[14-wushi-weilia
 In the source, England matters less as a modern [[UnitedKingdom]] policy actor than as a Protestant maritime power trying to break into trade routes already dominated by [[Spain]] and [[Portugal]]. English traders later reach Japan in 1613, but the episode says their position weakens after Adams dies and the [[TokugawaShogunate]] becomes less tolerant of foreign risk.
 
 ## Key Claims
+- Episode 692 treats England as a state where the memory of Paris, papal excommunication, Mary Stuart's claim, and Catholic priest missions make worship refusal look like a possible security problem.
 - England is part of [[ConfessionalTradeConflict]] because religious division and trade rivalry reinforce each other.
 - Episode 694 treats England as vulnerable to both overseas Spanish pressure and internally grounded Catholic invasion plotting.
 - Episode 695 treats England as a reluctant intervention power whose anti-Spanish policy is forced by the Dutch theatre, trade pressure, and invasion risk.
@@ -33,6 +36,7 @@ In the source, England matters less as a modern [[UnitedKingdom]] policy actor t
 
 ## Connections
 - [[WilliamAdams|William Adams / 三浦按针]] - central English figure.
+- [[StBartholomewsDayMassacre]], [[FrancisWalsingham]], [[WilliamCecil|William Cecil / Lord Burleigh]], [[WilliamAllen]], [[RobertPersons]], [[EdmundCampion]], [[CharlesSled]], [[ConfessionalTraumaMemory]], and [[ElizabethanRecusancySecurityState]] - pre-Drake Elizabethan security branch added by episode 692.
 - [[JohnHawkins]], [[SanJuanDeUlua]], [[NombreDeDios]], [[DiegoDrakeAlly|Diego]], [[Cimarrones]], [[ThomasDoughty]], [[NewAlbion]], and [[SpanishImperialMonopolyVulnerability]] - Drake pre-return branch added by episode 693.
 - [[FrancisDrake]], [[GoldenHind]], [[FrancoisDukeOfAnjou|Francois, Duke of Anjou]], [[ThrockmortonPlot]], [[BondOfAssociation]], and [[PrivateeringPlausibleDeniability]] - prewar Elizabethan branch added by episode 694.
 - [[PhilipSidney|Sir Philip Sidney]], [[FrancisDrake]], [[RobertDudley|Robert Dudley / Earl of Leicester]], [[LowCountries|Low Countries]], [[DutchRevolt]], [[TreatyOfNonsuch]], and [[StrategicInterventionThreshold]] - Low Countries intervention branch added by episode 695.

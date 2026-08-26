@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 7657
+wiki_total_pages: 7665
 wiki_pages:
   - key: "RachelReeves"
     title: "Rachel Reeves"
@@ -356,6 +356,9 @@ wiki_pages:
   - key: "RobertAxelrod"
     title: "Robert Axelrod"
     url: "/wiki/entities/robertaxelrod/"
+  - key: "RobertBeale"
+    title: "Robert Beale"
+    url: "/wiki/entities/robertbeale/"
   - key: "RobertBoyle"
     title: "Robert Boyle / 罗伯特·波义耳"
     url: "/wiki/entities/robertboyle/"
@@ -389,6 +392,9 @@ wiki_pages:
   - key: "RobertMorris"
     title: "Robert Morris"
     url: "/wiki/entities/robertmorris/"
+  - key: "RobertPersons"
+    title: "Robert Persons"
+    url: "/wiki/entities/robertpersons/"
   - key: "RobertPrice"
     title: "Robert Price"
     url: "/wiki/entities/robertprice/"

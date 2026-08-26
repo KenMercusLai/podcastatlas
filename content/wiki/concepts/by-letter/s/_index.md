@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 5491
+wiki_total_pages: 5495
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -362,6 +362,9 @@ wiki_pages:
   - key: "SemiconductorTalentGenealogy"
     title: "Semiconductor Talent Genealogy"
     url: "/wiki/concepts/semiconductortalentgenealogy/"
+  - key: "SeminaryPriestMission"
+    title: "Seminary Priest Mission"
+    url: "/wiki/concepts/seminarypriestmission/"
   - key: "SemioticDetectiveFiction"
     title: "Semiotic Detective Fiction"
     url: "/wiki/concepts/semioticdetectivefiction/"

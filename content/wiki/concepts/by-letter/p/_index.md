@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5491
+wiki_total_pages: 5495
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -143,6 +143,9 @@ wiki_pages:
   - key: "PassportMobilityInequality"
     title: "Passport Mobility Inequality"
     url: "/wiki/concepts/passportmobilityinequality/"
+  - key: "PastoralMissionSubversionAmbiguity"
+    title: "Pastoral Mission-Subversion Ambiguity"
+    url: "/wiki/concepts/pastoralmissionsubversionambiguity/"
   - key: "PatentPool"
     title: "Patent Pool"
     url: "/wiki/concepts/patentpool/"

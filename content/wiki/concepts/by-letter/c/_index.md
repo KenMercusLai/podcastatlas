@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 5491
+wiki_total_pages: 5495
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1085,6 +1085,9 @@ wiki_pages:
   - key: "ConfessionalTradeConflict"
     title: "Confessional Trade Conflict"
     url: "/wiki/concepts/confessionaltradeconflict/"
+  - key: "ConfessionalTraumaMemory"
+    title: "Confessional Trauma Memory"
+    url: "/wiki/concepts/confessionaltraumamemory/"
   - key: "ConfessionalWarEscalation"
     title: "Confessional War Escalation"
     url: "/wiki/concepts/confessionalwarescalation/"

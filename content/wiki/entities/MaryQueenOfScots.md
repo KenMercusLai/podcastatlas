@@ -2,11 +2,13 @@
 title: "Mary, Queen of Scots"
 type: entity
 tags: [person, monarchy, scotland, tudor, catholicism]
-sources: [694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087, 696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496]
-last_updated: 2026-08-25
+sources: [692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025, 694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087, 696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496]
+last_updated: 2026-08-26
 ---
 
 # Mary, Queen of Scots
+
+[[692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025]] adds Mary as part of the pre-plot threat imagination around [[ElizabethI|Elizabeth I]]. Before the source reaches [[EdmundCampion]], [[WilliamAllen]], or the later [[ThrockmortonPlot]], Mary's Catholic claim helps English Protestant ministers read papal excommunication and the [[StBartholomewsDayMassacre]] as possible steps toward replacing Elizabeth.
 
 [[694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087]] adds Mary before the [[BabingtonPlot]] as the captive claimant around whom the [[ThrockmortonPlot]] forms. The episode presents her correspondence through [[MichelDeCastelnau]], the Paris planning of [[HenryDukeOfGuise|Henry, Duke of Guise]], and [[FrancisThrockmorton]]'s English link as evidence that Mary was politically active rather than merely symbolic.
 
@@ -20,6 +22,7 @@ At [[FotheringhayCastle]], Mary rejects English jurisdiction, accuses Walsingham
 
 ## Connections
 - [[ElizabethI|Elizabeth I]] - cousin, rival claimant field, and queen whose death plot triggers Mary's prosecution.
+- [[StBartholomewsDayMassacre]], [[CatholicChurch]], [[WilliamCecil|William Cecil / Lord Burleigh]], [[FrancisWalsingham]], and [[ElizabethanRecusancySecurityState]] - earlier threat-imagination branch.
 - [[ThrockmortonPlot]], [[FrancisThrockmorton]], [[HenryDukeOfGuise|Henry, Duke of Guise]], [[MichelDeCastelnau]], [[BernardinoDeMendoza]], and [[BondOfAssociation]] - earlier conspiracy and security-response branch.
 - [[BabingtonPlot]], [[AnthonyBabington]], [[GilbertGifford]], and [[ThomasPhillips]] - correspondence and evidence path.
 - [[FrancisWalsingham]], [[WilliamCecil|William Cecil / Lord Burleigh]], [[AmiasPaulet]], and [[FotheringhayCastle]] - prosecution, custody, and execution context.

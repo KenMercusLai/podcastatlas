@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 7657
+wiki_total_pages: 7665
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -77,6 +77,9 @@ wiki_pages:
   - key: "CampSocial"
     title: "Camp Social"
     url: "/wiki/entities/campsocial/"
+  - key: "CampionsBrag"
+    title: "Campion's Brag"
+    url: "/wiki/entities/campionsbrag/"
   - key: "Canada"
     title: "Canada"
     url: "/wiki/entities/canada/"
@@ -407,6 +410,9 @@ wiki_pages:
   - key: "CharlesSchwab"
     title: "Charles Schwab"
     url: "/wiki/entities/charlesschwab/"
+  - key: "CharlesSled"
+    title: "Charles Sled"
+    url: "/wiki/entities/charlessled/"
   - key: "CharlieChaplin"
     title: "Charlie Chaplin / 卓别林"
     url: "/wiki/entities/charliechaplin/"
@@ -653,6 +659,9 @@ wiki_pages:
   - key: "ChristopherHatton"
     title: "Christopher Hatton"
     url: "/wiki/entities/christopherhatton/"
+  - key: "ChristopherMarlowe"
+    title: "Christopher Marlowe"
+    url: "/wiki/entities/christophermarlowe/"
   - key: "ChristopherMiller"
     title: "Christopher Miller"
     url: "/wiki/entities/christophermiller/"

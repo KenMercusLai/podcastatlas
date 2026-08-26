@@ -2,11 +2,13 @@
 title: "The Rest Is History"
 type: entity
 tags: [podcast, history]
-sources: [699-the-troubles-return-of-the-ira-part-3-glt9519811642, 693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329, 694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087, 695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455, 696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496, 698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988, 697-the-troubles-murder-in-belfast-part-1-glt4877520736]
+sources: [692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025, 699-the-troubles-return-of-the-ira-part-3-glt9519811642, 693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329, 694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087, 695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455, 696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496, 698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988, 697-the-troubles-murder-in-belfast-part-1-glt4877520736]
 last_updated: 2026-08-26
 ---
 
 # The Rest Is History
+
+[[692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025]] adds the origin layer for the Elizabethan sequence. It connects the [[StBartholomewsDayMassacre]], [[GaspardColigny]], [[HenryDukeOfGuise|Henry, Duke of Guise]], [[FrancisWalsingham]]'s Paris experience, [[WilliamCecil|William Cecil / Lord Burleigh]]'s Catholic-conspiracy reading, [[WilliamAllen]]'s seminaries, [[RobertPersons]], [[EdmundCampion]], and [[CharlesSled]] into the pre-Drake security-state field.
 
 [[693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329]] adds the pre-return [[FrancisDrake]] branch. It connects contested heroic memory, [[JohnHawkins]]'s slaving voyage, [[SanJuanDeUlua]], [[NombreDeDios]], [[DiegoDrakeAlly|Diego]], the [[Cimarrones]], [[ThomasDoughty]]'s execution, the [[GoldenHind]] circumnavigation, [[NewAlbion]], and [[SpanishImperialMonopolyVulnerability]] before episode 694 begins with Drake's return.
 
@@ -23,6 +25,7 @@ For the wiki, the show page anchors selected narrative-history branches rather t
 ## Connections
 - [[TheTroubles]], [[NorthernIreland]], [[PartitionMinorityTrap]], [[CivilRightsToStreetWarThreshold]], and [[CounterinsurgencyLegitimacyTrap]] - historical subject and interpretive frame in the sources.
 - [[TerenceONeill|Terence O'Neill]], [[IanPaisley]], [[GustySpence]], and [[BernadetteDevlin]] - figures central to the two-part narrative.
+- [[StBartholomewsDayMassacre]], [[GaspardColigny]], [[RobertPersons]], [[EdmundCampion]], [[CharlesSled]], [[ConfessionalTraumaMemory]], and [[ElizabethanRecusancySecurityState]] - Elizabethan origin layer added by episode 692.
 - [[JohnHawkins]], [[SanJuanDeUlua]], [[NombreDeDios]], [[DiegoDrakeAlly|Diego]], [[Cimarrones]], [[ThomasDoughty]], [[NewAlbion]], and [[SpanishImperialMonopolyVulnerability]] - Drake origin and circumnavigation branch added by episode 693.
 - [[FrancisDrake]], [[GoldenHind]], [[FrancoisDukeOfAnjou|Francois, Duke of Anjou]], [[ThrockmortonPlot]], [[MaryQueenOfScots|Mary, Queen of Scots]], and [[BondOfAssociation]] - Elizabethan branch added by episode 694.
 - [[PhilipSidney|Sir Philip Sidney]], [[DutchRevolt]], [[Antwerp]], [[TreatyOfNonsuch]], and [[LowCountries|Low Countries]] - Elizabethan intervention branch added by episode 695.

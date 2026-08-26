@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 5491
+wiki_total_pages: 5495
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -209,6 +209,9 @@ wiki_pages:
   - key: "EliteRelocationControl"
     title: "Elite Relocation Control / 豪杰迁徙控制"
     url: "/wiki/concepts/eliterelocationcontrol/"
+  - key: "ElizabethanRecusancySecurityState"
+    title: "Elizabethan Recusancy Security State"
+    url: "/wiki/concepts/elizabethanrecusancysecuritystate/"
   - key: "EmbodiedAging"
     title: "Embodied Aging"
     url: "/wiki/concepts/embodiedaging/"

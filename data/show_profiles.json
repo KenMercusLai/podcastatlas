@@ -801,14 +801,14 @@
       "earliest_episode_date": "2020-11-02",
       "latest_episode_date": "2026-08-23",
       "latest_episode_file": "GLT9519811642 [GLT9519811642].md",
-      "source_note_count": 7,
-      "topic_matched_source_note_count": 7,
+      "source_note_count": 8,
+      "topic_matched_source_note_count": 8,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 7
+          "source_note_count": 8
         }
       ],
       "entities": [
@@ -817,12 +817,19 @@
           "title": "Elizabeth I",
           "url": "/wiki/entities/elizabethi/",
           "kind": "person",
-          "episode_count": 4
+          "episode_count": 5
         },
         {
           "key": "FrancisWalsingham",
           "title": "Francis Walsingham",
           "url": "/wiki/entities/franciswalsingham/",
+          "kind": "person",
+          "episode_count": 5
+        },
+        {
+          "key": "PhilipII",
+          "title": "Philip II of Spain",
+          "url": "/wiki/entities/philipii/",
           "kind": "person",
           "episode_count": 4
         },
@@ -848,23 +855,16 @@
           "episode_count": 3
         },
         {
-          "key": "OrangeOrder",
-          "title": "Orange Order",
-          "url": "/wiki/entities/orangeorder/",
-          "kind": "organization",
-          "episode_count": 3
-        },
-        {
-          "key": "PhilipII",
-          "title": "Philip II of Spain",
-          "url": "/wiki/entities/philipii/",
+          "key": "MaryQueenOfScots",
+          "title": "Mary, Queen of Scots",
+          "url": "/wiki/entities/maryqueenofscots/",
           "kind": "person",
           "episode_count": 3
         },
         {
-          "key": "RoyalUlsterConstabulary",
-          "title": "Royal Ulster Constabulary",
-          "url": "/wiki/entities/royalulsterconstabulary/",
+          "key": "OrangeOrder",
+          "title": "Orange Order",
+          "url": "/wiki/entities/orangeorder/",
           "kind": "organization",
           "episode_count": 3
         }

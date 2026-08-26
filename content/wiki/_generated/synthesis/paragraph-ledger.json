@@ -5,6 +5,7 @@
       "1f363b6361a3c2630becb8d3c3217d09fc0aa72caf14eec9e7251aca024432c2",
       "6d94ee3b53515873e0a7a3b642cbe834fa6d425a35cfdf72175b68d3e0f55a4a",
       "16f50ea5ab1829d6e72bc8ff55aef50147f553c9bef0368b8376edd4c2cbe6f3",
+      "cd62e04d05587e53829356ba3bab38595fda85420d493e0fe4005fa83a070f93",
       "9b984926e9ec6240ab93f21d16c52d8d346569c7d3c6d3619745a53ef5ec81d4",
       "11b76d31b206a5e924f75936cdc8d503cf6d0e98102c218cf68c1056ab73485c",
       "733f743cc3c0eedc1a1a2e9b7fd072b78a70e7539a10bc84265c38c1ccddead5",
@@ -234,10 +235,10 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "b16a38bd6e190222f7f3e6f0535803ce60ae7f3304e3477dfcdd995a15fb502f"
     ],
-    "paragraph_count": 232
+    "paragraph_count": 233
   },
-  "overview_commit": "9862f88f5dd08a445ea092c8f5a84bc57de907bb",
-  "overview_digest": "608b53a2dcd11146cbcfbf43b4806bda2f4ec89473db851337dc8c01bdc11f36",
+  "overview_commit": "4e52a3e051f3085475dbdd01a31b8bd78b9a76d1",
+  "overview_digest": "d588812dac3b08a45d85eabaeb0c55a661b3e16a2b8f5105a0e761828c2127b1",
   "paragraphs": [
     {
       "id": "d5b87245157f3b8c8f793da419acd28d1cd7fb95a5d0240ae8fb34b34d4a0b2a",
@@ -354,6 +355,52 @@
         "ZhangJiSikongLateHan",
         "zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus",
         "zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu"
+      ]
+    },
+    {
+      "id": "cd62e04d05587e53829356ba3bab38595fda85420d493e0fe4005fa83a070f93",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics",
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025]], a [[TheRestIsHistory]] episode backfilling the origin layer before the Drake, Throckmorton, Sidney, and Babington branches. It adds [[ChristopherMarlowe]], [[GaspardColigny]], [[RobertBeale]], [[RobertPersons]], [[EdmundCampion]], [[CharlesSled]], [[DouaiReimsSeminaries]], [[CampionsBrag]], [[ConfessionalTraumaMemory]], [[ElizabethanRecusancySecurityState]], [[SeminaryPriestMission]], and [[PastoralMissionSubversionAmbiguity]], while extending [[StBartholomewsDayMassacre]], [[FrancisWalsingham]], [[WilliamCecil|William Cecil / Lord Burleigh]], [[ElizabethI|Elizabeth I]], [[MaryQueenOfScots|Mary, Queen of Scots]], [[WilliamAllen]], [[Jesuits]], [[CatholicChurch]], [[HenryDukeOfGuise|Henry, Duke of Guise]], [[PhilipII|Philip II]], [[England]], [[France]], [[ConfessionalInvasionConspiracy]], [[SpyNetworkEntrapment]], [[TudorSuccessionCrisis]], and [[ConfessionalWarEscalation]]. Its core synthesis is that Elizabethan anti-Catholic security politics begin before the later plots: the memory of Paris, papal excommunication, Mary Stuart's claim, seminary-trained priests, Jesuit discipline, and informant dossiers turn pastoral Catholic mission into a possible state-subversion problem. No settled contradiction is recorded; Catholic rescue of some Huguenots and Campion's denial of treason keep the episode's claims source-scoped rather than a blanket judgment on all Catholics.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 2,
+        "psychology-and-personal-development": 2
+      },
+      "wikilinks": [
+        "692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025",
+        "CampionsBrag",
+        "CatholicChurch",
+        "CharlesSled",
+        "ChristopherMarlowe",
+        "ConfessionalInvasionConspiracy",
+        "ConfessionalTraumaMemory",
+        "ConfessionalWarEscalation",
+        "DouaiReimsSeminaries",
+        "EdmundCampion",
+        "ElizabethI",
+        "ElizabethanRecusancySecurityState",
+        "England",
+        "France",
+        "FrancisWalsingham",
+        "GaspardColigny",
+        "HenryDukeOfGuise",
+        "Jesuits",
+        "MaryQueenOfScots",
+        "PastoralMissionSubversionAmbiguity",
+        "PhilipII",
+        "RobertBeale",
+        "RobertPersons",
+        "SeminaryPriestMission",
+        "SpyNetworkEntrapment",
+        "StBartholomewsDayMassacre",
+        "TheRestIsHistory",
+        "TudorSuccessionCrisis",
+        "WilliamAllen",
+        "WilliamCecil"
       ]
     },
     {

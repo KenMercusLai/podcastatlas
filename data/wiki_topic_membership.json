@@ -1638,6 +1638,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329": [
     {
       "key": "history",
@@ -17617,6 +17624,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "DouaiReimsSeminaries": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "Douban": [
     {
       "key": "culture",
@@ -18767,6 +18781,13 @@
     }
   ],
   "ElizabethLaird": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "ElizabethanRecusancySecurityState": [
     {
       "key": "politics",
       "label": "Politics",
@@ -48841,6 +48862,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "SeminaryPriestMission": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "SemioticDetectiveFiction": [

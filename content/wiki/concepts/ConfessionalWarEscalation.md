@@ -2,11 +2,13 @@
 title: "Confessional War Escalation"
 type: concept
 tags: [religion, war, geopolitics, early-modern]
-sources: [694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087, 695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455, 696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496]
-last_updated: 2026-08-25
+sources: [692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025, 694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087, 695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455, 696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496]
+last_updated: 2026-08-26
 ---
 
 # Confessional War Escalation
+
+[[692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025]] adds the prewar memory and recusancy layer. The [[StBartholomewsDayMassacre]], the Pope's excommunication of [[ElizabethI|Elizabeth I]], [[MaryQueenOfScots|Mary, Queen of Scots]]' claim, and [[SeminaryPriestMission|seminary priest missions]] make English Protestants see Catholicism as a possible political-military threat before the later invasion plots become visible.
 
 [[694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087]] adds the prewar conspiracy and diplomacy layer. [[FrancisDrake]]'s return turns privateering into a Spanish diplomatic crisis, [[FrancoisDukeOfAnjou|Anjou]]'s failure removes a French solution in the [[LowCountries|Low Countries]], the [[ThrockmortonPlot]] ties invasion to [[MaryQueenOfScots|Mary, Queen of Scots]], and [[BernardinoDeMendoza]]'s expulsion breaks normal Anglo-Spanish diplomacy.
 
@@ -18,6 +20,7 @@ The Elizabethan episodes do not reduce the Armada to a single-cause reaction to 
 
 ## Connections
 - [[England]], [[Spain]], [[LowCountries|Low Countries]], [[DutchRevolt]], and [[SpanishArmada]] - geopolitical field and military endpoint.
+- [[StBartholomewsDayMassacre]], [[ConfessionalTraumaMemory]], [[ElizabethanRecusancySecurityState]], [[SeminaryPriestMission]], [[PastoralMissionSubversionAmbiguity]], and [[EdmundCampion]] - pre-plot memory and security-state layer added by episode 692.
 - [[FrancisDrake]], [[GoldenHind]], [[FrancoisDukeOfAnjou|Francois, Duke of Anjou]], [[ThrockmortonPlot]], [[BernardinoDeMendoza]], and [[BondOfAssociation]] - episode 694 privateering, diplomacy, and conspiracy branch.
 - [[PhilipII|Philip II]], [[AlexanderFarnese|Alexander Farnese / Duke of Parma]], [[Antwerp]], [[TreatyOfNonsuch]], [[FrancisDrake]], and [[PhilipSidney|Sir Philip Sidney]] - episode 695 escalation branch.
 - [[MaryQueenOfScots|Mary, Queen of Scots]], [[ElizabethI|Elizabeth I]], [[BabingtonPlot]], and [[TudorSuccessionCrisis]] - dynastic and confessional prelude.

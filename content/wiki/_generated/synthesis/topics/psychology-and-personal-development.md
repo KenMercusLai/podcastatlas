@@ -4,15 +4,15 @@ generated: true
 topic_id: psychology-and-personal-development
 title: "Psychology and Personal Development"
 last_updated: 2026-08-26
-as_of_overview_commit: 8a07af66d60c6009e87a3d2dc0df801121957d25
-input_digest: 6059a0d6fc9c72dfb3762b81c8dffb93d25674bfe81fe772448ba2d659ed9469
+as_of_overview_commit: 4e52a3e051f3085475dbdd01a31b8bd78b9a76d1
+input_digest: 53dfe7eb02673ae1f4731c5b8c3df9ab2b069b015c320dcb21f662a2a08e6b63
 ---
 
 # Psychology and Personal Development
 
 ## Current State
 
-Hanji 1029 adds character-reading delegation to the psychology branch: Sun Ce trusts Taishi Ci's promise, and that trust becomes useful only when Taishi Ci returns with concrete Yuzhang intelligence; the same source's windfall opening treats sudden wealth as a test of restraint, boundaries, and self-knowledge. Data Science With Sam EP47 keeps AI assistance under human judgment and verification, while April 13 Marketplace Tech shows that perceived authorship can affect trust in emotionally meaningful work. Hanji 930 reframes greed and resentment as prompts to build exchangeable capability, and Hanji 962, Hanji 970, and Hanji 999 show relationship trust becoming condition-dependent under violence, assassination risk, grain, protection, and family-safety pressure. Hanji 997 adds emotional attachment as a judgment-risk case, Hanji 1012 shows private desire breaking fragile surrender trust, and Hanji 1015 frames ambition as dangerous when title, timing, recognition, and capacity do not match. The market and workplace paragraphs add the same calibration problem in newer settings: Unitree enthusiasm needs commercial self-checks, investing needs stop-loss and position-sizing discipline, workplace relationships need explicit boundaries, agent automation needs permission limits and human verification, middle-class consumption needs identity-cost discipline, and organizational trust can become both asset and liability.
+Hanji 1029 adds character-reading delegation to the psychology branch: Sun Ce trusts Taishi Ci's promise, and that trust becomes useful only when Taishi Ci returns with concrete Yuzhang intelligence; the same source's windfall opening treats sudden wealth as a test of restraint, boundaries, and self-knowledge. Data Science With Sam EP47 keeps AI assistance under human judgment and verification, while April 13 Marketplace Tech shows that perceived authorship can affect trust in emotionally meaningful work. Hanji 930 reframes greed and resentment as prompts to build exchangeable capability, and Hanji 962, Hanji 970, and Hanji 999 show relationship trust becoming condition-dependent under violence, assassination risk, grain, protection, and family-safety pressure. Hanji 997 adds emotional attachment as a judgment-risk case, Hanji 1012 shows private desire breaking fragile surrender trust, and Hanji 1015 frames ambition as dangerous when title, timing, recognition, and capacity do not match. The market and workplace paragraphs add the same calibration problem in newer settings: Unitree enthusiasm needs commercial self-checks, investing needs stop-loss and position-sizing discipline, workplace relationships need explicit boundaries, agent automation needs permission limits and human verification, middle-class consumption needs identity-cost discipline, and organizational trust can become both asset and liability. Episode 692 adds a collective-judgment case: confessional trauma memory, Campion's charisma, and the pastoral-versus-subversion ambiguity show how sincere mission can become threatening when identity, legitimacy, and security fear are already coupled.
 
 ## Cross-source Findings
 
@@ -134,3 +134,14 @@ S10E26 adds a market-psychology caution: [[UnitreeIPOValuation]] and [[AIEquityV
 
 - The episode supplies a valuation-discipline and emotional-product branch, not an independent psychological study of investors or robot users.
 - The Disney and companion-robot links describe an alternate emotional-value path, not proof that Unitree's humanoid PMF is solved.
+
+### Confessional Trauma Memory Shapes Security Judgment
+
+Episode 692 adds a psychology-adjacent judgment case: [[ConfessionalTraumaMemory]] after the [[StBartholomewsDayMassacre]] helps explain why [[FrancisWalsingham]] and [[WilliamCecil]] interpret [[EdmundCampion]], [[CampionsBrag]], [[RobertPersons]], and the [[SeminaryPriestMission]] through [[PastoralMissionSubversionAmbiguity]] rather than as only pastoral care.
+
+**Evidence:** [[692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025]], [[ConfessionalTraumaMemory]], [[StBartholomewsDayMassacre]], [[FrancisWalsingham]], [[WilliamCecil]], [[EdmundCampion]], [[CampionsBrag]], [[RobertPersons]], [[SeminaryPriestMission]], [[PastoralMissionSubversionAmbiguity]]
+
+**Qualifications:**
+
+- This is a historical political-psychology reading, not a clinical claim about trauma or threat perception.
+- The source keeps Catholic pastoral purpose and Protestant security suspicion in tension rather than resolving the ambiguity.

@@ -78,6 +78,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》958丨揭秘史上最短命的“同仇敌忾”](sources/zizhi-tongjian-hanji-958-jiemi-shishang-zui-duanming-de-tongchoudikai-lve41q9gyijbop8wk-b7e6shogju.md) — 芮淇讲透资治通鉴 episode on Gongsun Zan's Yellow Turban victory, Emperor Xian's Liu Yu rescue request, Yuan Shu's troop play, Sun Jian's rear seizure, and the anti-Dong-Zhuo coalition's fast Yuan Shao/Gongsun Zan rupture.
 - [《资治通鉴·汉纪》959丨如果你穿越到三国，该如何存活？](sources/zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq.md) — 芮淇讲透资治通鉴 episode on late-Han survival through Zhu Jun and Tao Qian's anti-Dong-Zhuo posture, Liu Yan's Yizhou autonomy, Hanzhong/Xiegu road control, and Gongsun Du's concealed-capability timing.
 - [《资治通鉴·汉纪》960丨曹魏顶级智囊荀彧，为何“弃袁投曹”？](sources/zizhi-tongjian-hanji-960-caowei-dingji-zhinang-xunyu-weihe-qi-yuan-tou-cao-lmor1txqpm88itt4incalusconjr.md) — 芮淇讲透资治通鉴 episode on Xun Yu leaving Yingchuan, rejecting Yuan Shao as able to gather but not use talent, choosing Cao Cao, and Qu Yi's shield-crossbow victory over Gongsun Zan at Jieqiao.
+- [692. Elizabeth I vs The Catholics: A Massacre in Paris (Part 2)](sources/692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025.md) — The Rest Is History episode on the St Bartholomew's Day Massacre, Walsingham's security-state formation, Allen's seminaries, Jesuit missions, Campion's capture, and the pastoral-versus-treason question.
 - [694. Elizabeth I vs The Catholics: A Treacherous Conspiracy (Part 4)](sources/694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087.md) — The Rest Is History episode on Drake's return, Anjou diplomacy, the Low Countries, the Throckmorton Plot, Mendoza's expulsion, the Bond of Association, and escalation toward Spain.
 - [693. Elizabeth I vs The Catholics: England's Greatest Hero (Part 3)](sources/693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329.md) — The Rest Is History episode on Francis Drake's contested memory, Hawkins and slaving, San Juan de Ulua, Nombre de Dios, the Cimarrones alliance, Doughty's execution, the Golden Hind circumnavigation, and Spain's exposed imperial routes.
 - [695. Elizabeth I vs The Catholics: The Shadow War (Part 5)](sources/695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455.md) — The Rest Is History episode on Sir Philip Sidney, Antwerp's fall, the Dutch Revolt, the Treaty of Nonsuch, Elizabeth's reluctant Low Countries intervention, Drake's raids, and Sidney's Protestant martyrdom at Zutphen.
@@ -1778,6 +1779,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [麹义 / Qu Yi (late Han)](entities/QuYiLateHan.md) — Yuan Shao commander whose shield-crossbow formation wins the Jieqiao battle against Gongsun Zan.
 - [严纲 / Yan Gang (late Han)](entities/YanGangLateHan.md) — Gongsun Zan's appointed Jizhou inspector killed in the Jieqiao battle.
 - [Christopher Hatton](entities/ChristopherHatton.md) — Privy Council supporter of Drake whose stance shows the pro-privateering faction around Elizabeth.
+- [Christopher Marlowe](entities/ChristopherMarlowe.md) — Playwright whose St Bartholomew's Day massacre play shows how French violence entered English Protestant memory.
 - [Golden Hind](entities/GoldenHind.md) — Drake's circumnavigation ship, Pacific prize vessel, New Albion platform, and later public stage for Elizabeth's ambiguous knighting ceremony.
 - [John Hawkins](entities/JohnHawkins.md) — English mariner and slaving captain whose 1567 expedition with Drake collapses at San Juan de Ulua.
 - [San Juan de Ulua](entities/SanJuanDeUlua.md) — Spanish port near Veracruz where Hawkins and Drake's expedition is attacked in 1568.
@@ -1791,11 +1793,18 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Francois, Duke of Anjou](entities/FrancoisDukeOfAnjou.md) — French Catholic suitor and Dutch sovereignty candidate whose failure removes Elizabeth's preferred French option.
 - [John Stubbs](entities/JohnStubbs.md) — Protestant pamphleteer punished for attacking Elizabeth's proposed Anjou marriage.
 - [William Allen](entities/WilliamAllen.md) — English Catholic exile tied to anti-Anjou criticism and the Paris planning behind the Throckmorton Plot.
+- [Douai and Reims Seminaries](entities/DouaiReimsSeminaries.md) — Allen's English Catholic priest-training institutions for undercover return missions into England.
+- [Robert Persons](entities/RobertPersons.md) — English Jesuit whose mission with Campion sharpens the pastoral conversion versus subversion question.
+- [Edmund Campion](entities/EdmundCampion.md) — English Jesuit priest whose preaching, "Campion's Brag," torture, trial, and execution anchor the episode's Catholic mission branch.
+- [Campion's Brag](entities/CampionsBrag.md) — Campion's letter denying treason, read by Protestants as a provocative Catholic challenge.
+- [Charles Sled](entities/CharlesSled.md) — Catholic-network courier and informant whose dossier of names and descriptions confirms Walsingham's suspicions.
 - [Henry of Navarre](entities/HenryOfNavarre.md) — Huguenot claimant whose succession position after Anjou's death helps trigger the War of the Three Henrys.
 - [Henry, Duke of Guise](entities/HenryDukeOfGuise.md) — Catholic League leader who drives the French side of the Throckmorton invasion plan.
 - [Henry III of France](entities/HenryIIIOfFrance.md) — Childless French king whose succession crisis weakens France as England's counterweight to Spain.
 - [Catholic League](entities/CatholicLeague.md) — French Catholic faction under Guise connecting French civil war to English invasion plotting.
+- [Gaspard Coligny](entities/GaspardColigny.md) — Huguenot leader whose killing by Guise's men helps ignite the St Bartholomew's Day Massacre.
 - [St Bartholomew's Day Massacre](entities/StBartholomewsDayMassacre.md) — French confessional trauma behind Walsingham, Sidney, and the three-Henry factional field.
+- [Robert Beale](entities/RobertBeale.md) — Walsingham's brother-in-law and source-linked witness to the warning and intelligence lessons drawn from Paris.
 - [War of the Three Henrys](entities/WarOfTheThreeHenrys.md) — French civil-war phase that follows Anjou's death and narrows England's diplomatic options.
 - [Act of Abjuration](entities/ActOfAbjuration.md) — Dutch renunciation of Philip II's rule before the failed Anjou solution.
 - [French Fury](entities/FrenchFury.md) — Anjou's failed Antwerp coup that collapses the French answer to the Dutch Revolt.
@@ -9271,6 +9280,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Spanish Imperial Monopoly Vulnerability](concepts/SpanishImperialMonopolyVulnerability.md) — Drake-era finding that Spain's Atlantic and Pacific treasure systems could be attacked through exposed routes and ships.
 - [Marriage Diplomacy as Strategic Option](concepts/MarriageDiplomacyAsStrategicOption.md) — Use of a proposed royal marriage as a live geopolitical option even before the marriage happens.
 - [Confessional Invasion Conspiracy](concepts/ConfessionalInvasionConspiracy.md) — Pattern where foreign invasion, domestic sympathizers, religious legitimacy, and a claimant combine.
+- [Confessional Trauma Memory](concepts/ConfessionalTraumaMemory.md) — Pattern where religious violence elsewhere becomes a political warning and security frame.
+- [Elizabethan Recusancy Security State](concepts/ElizabethanRecusancySecurityState.md) — Pattern where recusancy becomes a state-security category under excommunication, claimant, and priest-mission pressure.
+- [Seminary Priest Mission](concepts/SeminaryPriestMission.md) — Exile-trained Catholic priest network returning undercover to sustain English Catholicism.
+- [Pastoral Mission-Subversion Ambiguity](concepts/PastoralMissionSubversionAmbiguity.md) — Ambiguity where the same Catholic mission can be read as pastoral care or political subversion.
 - [Strategic Intervention Threshold](concepts/StrategicInterventionThreshold.md) — Point where a reluctant ruler accepts direct intervention because nonintervention has become riskier.
 - [Protestant Heroic Martyrdom](concepts/ProtestantHeroicMartyrdom.md) — Memory pattern where a militant Protestant death becomes usable national-confessional symbolism.
 - [Integrated Command Capacity / 全维度统帅能力](concepts/IntegratedCommandCapacity.md) — Hanji 961 frame for command that joins strategic target choice, tactical variation, adviser use, resource systems, and political capacity.

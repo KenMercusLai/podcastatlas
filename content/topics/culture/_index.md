@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2215
+topic_total_pages: 2217
 topic_concepts:
   - key: "AbraxasWholeGodSymbolism"
     title: "Abraxas Whole-God Symbolism / 阿布拉克萨斯完整神象征"
@@ -1783,6 +1783,9 @@ topic_concepts:
   - key: "SelfRecognitionHorror"
     title: "Self-Recognition Horror"
     url: "/wiki/concepts/selfrecognitionhorror/"
+  - key: "SeminaryPriestMission"
+    title: "Seminary Priest Mission"
+    url: "/wiki/concepts/seminarypriestmission/"
   - key: "SemioticDetectiveFiction"
     title: "Semiotic Detective Fiction"
     url: "/wiki/concepts/semioticdetectivefiction/"
@@ -2834,6 +2837,9 @@ topic_entities:
   - key: "DorothyArzner"
     title: "Dorothy Arzner / 多罗西·阿兹娜"
     url: "/wiki/entities/dorothyarzner/"
+  - key: "DouaiReimsSeminaries"
+    title: "Douai and Reims Seminaries"
+    url: "/wiki/entities/douaireimsseminaries/"
   - key: "DriveToSurvive"
     title: "Drive to Survive"
     url: "/wiki/entities/drivetosurvive/"

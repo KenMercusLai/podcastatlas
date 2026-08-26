@@ -2,11 +2,13 @@
 title: "Philip II of Spain"
 type: entity
 tags: [person, monarchy, spain, catholicism, war]
-sources: [693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329, 694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087, 695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455]
+sources: [692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025, 693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329, 694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087, 695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455]
 last_updated: 2026-08-26
 ---
 
 # Philip II of Spain
+
+[[692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025]] adds Philip as part of English Protestant readings of Catholic power before the Drake branch. The episode says Philip gives thanks after hearing of the [[StBartholomewsDayMassacre]], making Spanish monarchy part of the [[ConfessionalTraumaMemory|confessional trauma memory]] that later [[WilliamCecil|William Cecil / Lord Burleigh]] folds into a wider Catholic-threat map.
 
 [[693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329]] adds Philip as the absent but central monarch whose American and Pacific systems [[FrancisDrake]] tests. The episode links Drake's grievance after [[SanJuanDeUlua]], the silver route through [[NombreDeDios]], and the capture of the [[NuestraSenoraDeLaConcepcion]] to [[SpanishImperialMonopolyVulnerability]].
 
@@ -22,6 +24,7 @@ The source links Philip to economic pressure as well as invasion fear. His embar
 
 ## Connections
 - [[Spain]], [[England]], and [[ElizabethI|Elizabeth I]] - monarchies in escalation.
+- [[StBartholomewsDayMassacre]], [[CatholicChurch]], [[WilliamCecil|William Cecil / Lord Burleigh]], and [[ConfessionalTraumaMemory]] - massacre celebration and English security-memory branch added by episode 692.
 - [[SanJuanDeUlua]], [[NombreDeDios]], [[NuestraSenoraDeLaConcepcion]], and [[SpanishImperialMonopolyVulnerability]] - imperial vulnerability branch added by episode 693.
 - [[Portugal]], [[Ireland]], [[LowCountries|Low Countries]], [[DutchRevolt]], [[ActOfAbjuration]], [[WilliamOfOrange|William of Orange]], and [[AlexanderFarnese|Alexander Farnese / Duke of Parma]] - Dutch and imperial theatre.
 - [[FrancisDrake]], [[GoldenHind]], [[InterstateEconomicWarfare]], [[PrivateeringPlausibleDeniability]], [[ConfessionalWarEscalation]], and [[SpanishArmada]] - pressure and escalation frames.

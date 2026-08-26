@@ -2,11 +2,15 @@
 title: "Elizabeth I"
 type: entity
 tags: [person, monarchy, england, protestantism, tudor]
-sources: [693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329, 694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087, 695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455, 696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496]
+sources: [692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025, 693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329, 694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087, 695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455, 696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496]
 last_updated: 2026-08-26
 ---
 
 # Elizabeth I
+
+[[692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025]] adds Elizabeth before the Drake branch as the excommunicated Protestant queen whose rule Catholic opponents could describe as illegitimate. The source links the Pope's 1570 excommunication, [[MaryQueenOfScots|Mary, Queen of Scots]]' rival claim, and English memories of the [[StBartholomewsDayMassacre]] into the background for [[ElizabethanRecusancySecurityState|recusancy security politics]].
+
+In this earlier layer, Elizabeth's government criminalizes language that calls her a heretic, schismatic, tyrant, infidel, or usurper, while recusants who refuse Protestant services can face imprisonment by Privy Council order. The source frames this not as a settled proof that all Catholics rebelled, but as the state treating Catholic loyalty as a possible path to foreign power and dynastic overthrow.
 
 [[693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329]] adds Elizabeth before [[FrancisDrake]]'s return, as the ruler who wants revenge against [[PhilipII|Philip II]] but keeps Drake's 1577 expedition deniable. The source says [[FrancisWalsingham]] arranges a private meeting between Elizabeth and Drake, while the absence of a written commission later exposes Drake at the [[PiracyPrivateeringBoundary|piracy-privateering boundary]].
 
@@ -26,6 +30,7 @@ Elizabeth signs Mary's death warrant on 1 February 1587 but still resists immedi
 
 ## Connections
 - [[MaryQueenOfScots|Mary, Queen of Scots]] - dynastic rival and Catholic claimant.
+- [[StBartholomewsDayMassacre]], [[CatholicChurch]], [[WilliamCecil|William Cecil / Lord Burleigh]], [[FrancisWalsingham]], [[EdmundCampion]], and [[ElizabethanRecusancySecurityState]] - excommunication, trauma memory, and recusancy-security branch added by episode 692.
 - [[JohnHawkins]], [[SanJuanDeUlua]], [[ThomasDoughty]], [[PiracyPrivateeringBoundary]], and [[SpanishImperialMonopolyVulnerability]] - Drake's pre-return branch added by episode 693.
 - [[FrancisDrake]], [[GoldenHind]], [[BernardinoDeMendoza]], and [[PrivateeringPlausibleDeniability]] - Drake return, treasure, and diplomatic denial branch.
 - [[FrancoisDukeOfAnjou|Francois, Duke of Anjou]], [[JohnStubbs]], [[WilliamAllen]], and [[MarriageDiplomacyAsStrategicOption]] - French marriage option and domestic backlash.

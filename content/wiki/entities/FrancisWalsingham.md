@@ -2,11 +2,15 @@
 title: "Francis Walsingham"
 type: entity
 tags: [person, intelligence, tudor, england]
-sources: [693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329, 694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087, 695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455, 696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496]
+sources: [692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025, 693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329, 694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087, 695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455, 696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496]
 last_updated: 2026-08-26
 ---
 
 # Francis Walsingham
+
+[[692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025]] adds Walsingham's origin layer before the later Drake and Mary branches. As [[ElizabethI|Elizabeth I]]'s ambassador in [[France]] during the [[StBartholomewsDayMassacre]], he shelters Huguenots and English Protestants, faces danger himself, and later treats the massacre as formative [[ConfessionalTraumaMemory|confessional trauma memory]].
+
+The same episode links that memory to Walsingham's later office as principal secretary and spymaster. It presents his intelligence system as improvised, personal, religiously driven, and aimed especially at hard targets in [[Spain]] and the papacy, with [[RobertBeale]] describing overseas recruitment and [[CharlesSled]] later supplying a dossier on Catholic names, pensions, and descriptions.
 
 [[693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329]] adds Walsingham as the court figure who arranges a private meeting between [[FrancisDrake]] and [[ElizabethI|Elizabeth I]] before the 1577 expedition. The episode uses that meeting to show how anti-[[Spain]] policy could be encouraged while remaining outside a written commission.
 
@@ -24,6 +28,7 @@ Mary accuses Walsingham of tampering with her letters at [[FotheringhayCastle]],
 
 ## Connections
 - [[ElizabethI|Elizabeth I]] and [[WilliamCecil|William Cecil / Lord Burleigh]] - Protestant security leadership around Mary.
+- [[StBartholomewsDayMassacre]], [[RobertBeale]], [[CharlesSled]], [[EdmundCampion]], [[ConfessionalTraumaMemory]], and [[ElizabethanRecusancySecurityState]] - origin and recusancy-security branch added by episode 692.
 - [[FrancisDrake]], [[ThomasDoughty]], and [[PiracyPrivateeringBoundary]] - deniable authorization branch added by episode 693.
 - [[FrancisDrake]], [[ChristopherHatton]], and [[RobertDudley|Robert Dudley / Earl of Leicester]] - pro-Drake council faction in episode 694.
 - [[PhilipSidney|Sir Philip Sidney]], [[France]], and [[ConfessionalWarEscalation]] - earlier Protestant-militant formation in episode 695.
