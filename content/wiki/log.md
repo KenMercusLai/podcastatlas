@@ -11857,3 +11857,6 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-08-26] ingest | 《资治通鉴·汉纪》908丨逆境出强者，狭路出勇者，孤独出智者
+
+Added source page for Hanji 908: Cai Yong's 177 CE confidential memorial on imperial ritual neglect, literary/artistic skills distorting appointment standards, Xuanling filial sons being placed near the crown prince, Emperor Ling's partial correction, and the host's source-scoped inner-strength, classic-reading, and meditation lesson. Created Filial Mourning Access Credential; updated linked late-Han and self-cultivation pages. No settled contradiction found; one-off precedent names are kept source-scoped unless later ingests require canonical pages.

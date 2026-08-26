@@ -2,11 +2,13 @@
 title: "Meditative Stability Practice / 定力修行框架"
 type: concept
 tags: [meditation, self-regulation, buddhism, spirituality, relationships]
-sources: [zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-4-lml7lpd3u9l7esryknmhoampgx6v, zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-3-ll74kq2hg2vp-zx-cqxkadxahamd]
-last_updated: 2026-08-23
+sources: [zizhi-tongjian-hanji-908-nijing-chu-qiangzhe-xialu-chu-yongzhe-gudu-chu-zhizhe-lqih1dradhzi0mipxsaiedd52dlj, zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-4-lml7lpd3u9l7esryknmhoampgx6v, zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-3-ll74kq2hg2vp-zx-cqxkadxahamd]
+last_updated: 2026-08-26
 ---
 
 # Meditative Stability Practice / 定力修行框架
+
+[[zizhi-tongjian-hanji-908-nijing-chu-qiangzhe-xialu-chu-yongzhe-gudu-chu-zhizhe-lqih1dradhzi0mipxsaiedd52dlj|Hanji 908]] adds another source-scoped practice use: the host turns from [[CaiYong|蔡邕]]'s warning about "small ways" to a modern claim that indiscriminate information intake can scatter attention. The episode recommends closing the senses, simplifying inputs, and using meditation or禅修 to recover inner steadiness, so the frame remains practical self-regulation rather than historical evidence about late-Han institutions.
 
 Meditative stability practice / 定力修行框架 is [[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-3-ll74kq2hg2vp-zx-cqxkadxahamd|Hanji 161 part 3]]'s practical answer to "quantum interference." The host treats静坐, 冥想, 禅修, retreat, and降服其心 as ways to recover a bright self-knowing mind when relationships, resentment, family conflict, job loss, or desire scatter attention.
 
@@ -25,6 +27,7 @@ The wiki keeps the frame source-scoped. Its useful practical claim is that calm 
 - Part 4 adds that practice is the difference between merely hearing a teaching and embodying it.
 
 ## Connections
+- [[zizhi-tongjian-hanji-908-nijing-chu-qiangzhe-xialu-chu-yongzhe-gudu-chu-zhizhe-lqih1dradhzi0mipxsaiedd52dlj|Hanji 908]], [[ClassicReadingComplexity|经典阅读复杂性]], and [[SelfGeneratedEmotionalCapacity|内在自生的情绪价值]] - information-discipline and inner-steadiness extension.
 - [[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-3-ll74kq2hg2vp-zx-cqxkadxahamd|Hanji 161 part 3]] - source episode.
 - [[ReactionChoiceFrame|反应选择框架]], [[EmotionRegulationToolkit|情绪调节工具箱]], and [[GratitudeResentmentReturnFrame|感恩怨恨回向框架]] - practical emotion and response-neighbor concepts.
 - [[QuantumEntanglementFateMetaphor|量子纠缠命运隐喻]] and [[RelationalFateNetwork|关系命运网络]] - worldview in which the practice is said to reduce interference.

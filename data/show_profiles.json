@@ -2336,7 +2336,7 @@
       "earliest_episode_date": "2025-12-07",
       "latest_episode_date": "2026-08-24",
       "latest_episode_file": "《资治通鉴·汉纪》1030丨手握好牌，公孙瓒为何打得稀烂？ [lpKntYOv4viqYzGXgcUjN36qHv8_].md",
-      "source_note_count": 423,
+      "source_note_count": 424,
       "topic_matched_source_note_count": 256,
       "topics": [
         {
@@ -2408,18 +2408,18 @@
           "episode_count": 32
         },
         {
+          "key": "EmperorLingOfHan",
+          "title": "汉灵帝 / Emperor Ling of Han",
+          "url": "/wiki/entities/emperorlingofhan/",
+          "kind": "person",
+          "episode_count": 31
+        },
+        {
           "key": "YuanShao",
           "title": "袁绍 / Yuan Shao",
           "url": "/wiki/entities/yuanshao/",
           "kind": "person",
           "episode_count": 31
-        },
-        {
-          "key": "EmperorLingOfHan",
-          "title": "汉灵帝 / Emperor Ling of Han",
-          "url": "/wiki/entities/emperorlingofhan/",
-          "kind": "person",
-          "episode_count": 30
         }
       ],
       "start_here_episode_files": [

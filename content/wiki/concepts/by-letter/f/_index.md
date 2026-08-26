@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 5489
+wiki_total_pages: 5490
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -986,6 +986,9 @@ wiki_pages:
   - key: "FemaleBeautySelfSurveillance"
     title: "女性美貌自我监控 / Female Beauty Self-Surveillance"
     url: "/wiki/concepts/femalebeautyselfsurveillance/"
+  - key: "FilialMourningAccessCredential"
+    title: "守陵孝行进身凭证 / Filial Mourning Access Credential"
+    url: "/wiki/concepts/filialmourningaccesscredential/"
   - key: "FoundingMeritHierarchy"
     title: "建国功臣排序 / Founding Merit Hierarchy"
     url: "/wiki/concepts/foundingmerithierarchy/"

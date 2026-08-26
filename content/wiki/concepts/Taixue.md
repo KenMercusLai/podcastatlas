@@ -2,11 +2,13 @@
 title: "太学 / Taixue"
 type: concept
 tags: [education, institutions, china, officials]
-sources: [zizhi-tongjian-hanji-910-shehui-shengcun-wo-quan-ni-duodian-chengfu-lp2fvuyb8ampzoeyr7znztnr0fgk, zizhi-tongjian-hanji-911-gudai-gongwuyuan-ye-neng-bao-fenpei-ls3pxu9xlpuulsdailx8tcoylv9e]
+sources: [zizhi-tongjian-hanji-908-nijing-chu-qiangzhe-xialu-chu-yongzhe-gudu-chu-zhizhe-lqih1dradhzi0mipxsaiedd52dlj, zizhi-tongjian-hanji-910-shehui-shengcun-wo-quan-ni-duodian-chengfu-lp2fvuyb8ampzoeyr7znztnr0fgk, zizhi-tongjian-hanji-911-gudai-gongwuyuan-ye-neng-bao-fenpei-ls3pxu9xlpuulsdailx8tcoylv9e]
 last_updated: 2026-08-26
 ---
 
 # 太学 / Taixue
+
+[[zizhi-tongjian-hanji-908-nijing-chu-qiangzhe-xialu-chu-yongzhe-gudu-chu-zhizhe-lqih1dradhzi0mipxsaiedd52dlj|Hanji 908]] adds an earlier ritual-education layer before the Hongdu conflict. [[CaiYong|蔡邕]] tells [[EmperorLingOfHan|汉灵帝]] that the court has neglected the Taixue elder-honoring ceremony alongside seasonal and ancestral rites, and Ling partially accepts the criticism by attending Taixue again. This makes Taixue part of [[LiAsPoliticalOrder|礼制政治秩序]] before it becomes the incumbent selection channel later challenged by [[HongduMenxue|鸿都门学]].
 
 [[zizhi-tongjian-hanji-910-shehui-shengcun-wo-quan-ni-duodian-chengfu-lp2fvuyb8ampzoeyr7znztnr0fgk|Hanji 910]] introduces 太学 / Taixue as the established official-learning field whose social power matters because great clans and士人 networks can use it alongside察举 recommendation. In the host's source-scoped reading, [[HongduMenxue|鸿都门学]] matters because [[EmperorLingOfHan|汉灵帝]] may be building a counterchannel against that incumbent selection order.
 
@@ -21,6 +23,7 @@ The page's immediate wiki role is relational. Taixue is the incumbent status and
 - Taixue student resentment shows how credential paths can become defended status interests.
 
 ## Connections
+- [[zizhi-tongjian-hanji-908-nijing-chu-qiangzhe-xialu-chu-yongzhe-gudu-chu-zhizhe-lqih1dradhzi0mipxsaiedd52dlj|Hanji 908]], [[CaiYong|蔡邕]], [[EmperorLingOfHan|汉灵帝]], and [[LiAsPoliticalOrder|礼制政治秩序]] - Taixue ceremony as part of restored imperial rites before the later Hongdu selection dispute.
 - [[zizhi-tongjian-hanji-910-shehui-shengcun-wo-quan-ni-duodian-chengfu-lp2fvuyb8ampzoeyr7znztnr0fgk|Hanji 910]], [[EmperorLingOfHan|汉灵帝]], and [[HongduMenxue|鸿都门学]] - Taixue as the incumbent channel that Hongdu is read as countering.
 - [[zizhi-tongjian-hanji-911-gudai-gongwuyuan-ye-neng-bao-fenpei-ls3pxu9xlpuulsdailx8tcoylv9e|Hanji 911]] - source episode.
 - [[HongduMenxue|鸿都门学]] - rival late-Han literary and artistic channel.

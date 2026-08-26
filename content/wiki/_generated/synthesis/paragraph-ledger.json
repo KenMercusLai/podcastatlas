@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "1f363b6361a3c2630becb8d3c3217d09fc0aa72caf14eec9e7251aca024432c2",
       "6d94ee3b53515873e0a7a3b642cbe834fa6d425a35cfdf72175b68d3e0f55a4a",
       "16f50ea5ab1829d6e72bc8ff55aef50147f553c9bef0368b8376edd4c2cbe6f3",
       "9b984926e9ec6240ab93f21d16c52d8d346569c7d3c6d3619745a53ef5ec81d4",
@@ -232,11 +233,39 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "b16a38bd6e190222f7f3e6f0535803ce60ae7f3304e3477dfcdd995a15fb502f"
     ],
-    "paragraph_count": 230
+    "paragraph_count": 231
   },
-  "overview_commit": "3dc8f19f0b4edf2553c5cd0e5de73ca0d8c9b6ab",
-  "overview_digest": "dd63edd7f84b9dfba3114bcea384254286fbbc700e97aac7a351b97bfa9ce8d6",
+  "overview_commit": "8497cfeff297fd43b11bb37b6ead8f841b7d295b",
+  "overview_digest": "3f86f7f5ddf04bd1cba0191ef199d3c58e08e4146125f104460b783490b30be1",
   "paragraphs": [
+    {
+      "id": "1f363b6361a3c2630becb8d3c3217d09fc0aa72caf14eec9e7251aca024432c2",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-908-nijing-chu-qiangzhe-xialu-chu-yongzhe-gudu-chu-zhizhe-lqih1dradhzi0mipxsaiedd52dlj|《资治通鉴·汉纪》908丨逆境出强者，狭路出勇者，孤独出智者]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 177 CE court-advice layer immediately before [[zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj|Hanji 909]]. It adds [[FilialMourningAccessCredential|守陵孝行进身凭证]], while extending [[CaiYong|蔡邕]], [[EmperorLingOfHan|汉灵帝]], [[Taixue|太学]], [[HongduMenxue|鸿都门学]], [[OfficialSelectionChannelCompetition|选官通道竞争]], [[LiAsPoliticalOrder|礼制政治秩序]], [[Analects|《论语》]], [[ZiXia|子夏]], [[WangYangming|王阳明]], and [[MeditativeStabilityPractice|定力修行框架]]. Its core synthesis is that late-Han disorder is visible before the frontier-expedition failure: Cai Yong can still get partial correction on ritual and crown-prince access, but his warning shows that imperial taste, minor skills, and moral display are already competing with offices, rites, and verified responsibility. No settled contradiction is recorded; the meditation and inner-strength lesson remains source-scoped personal teaching.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "Analects",
+        "CaiYong",
+        "EmperorLingOfHan",
+        "FilialMourningAccessCredential",
+        "HongduMenxue",
+        "LiAsPoliticalOrder",
+        "MeditativeStabilityPractice",
+        "OfficialSelectionChannelCompetition",
+        "RuiqiJiangtouZizhiTongjian",
+        "Taixue",
+        "WangYangming",
+        "ZiXia",
+        "zizhi-tongjian-hanji-908-nijing-chu-qiangzhe-xialu-chu-yongzhe-gudu-chu-zhizhe-lqih1dradhzi0mipxsaiedd52dlj",
+        "zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj"
+      ]
+    },
     {
       "id": "6d94ee3b53515873e0a7a3b642cbe834fa6d425a35cfdf72175b68d3e0f55a4a",
       "primary_topic": "governance-and-institutions",
