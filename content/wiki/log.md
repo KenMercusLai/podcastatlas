@@ -11885,3 +11885,11 @@ Added source page for Hanji 906: conflict as source-scoped boundary practice, Ca
 ## [2026-08-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-26] ingest | 《资治通鉴·汉纪》905丨富贵如何险中求？
+
+Added source page for Hanji 905: Sun Jian's 174 CE role in suppressing Xu Sheng, the youth-bandit story and source-scoped "富贵险中求" risk-opportunity frame, Zang Min's Yangzhou branch, Xianbei pressure, Emperor Ling and Cai Yong's Xiping Stone Classics project at Taixue, and Zhou Yu's 175 CE birth marker. Created Xu Sheng, Crisis Opportunity Conversion, and Xiping Stone Classics; updated linked late-Han entity and concept pages. No settled contradiction found; "藏民" is normalized to Zang Min, Danyang-name uncertainty remains source-scoped, and Sun-family ancestral-cloud material is treated as legendary coloration.
+
+## [2026-08-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

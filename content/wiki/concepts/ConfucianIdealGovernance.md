@@ -2,11 +2,13 @@
 title: "Confucian Ideal Governance / 儒家理想治理"
 type: concept
 tags: [history, politics, china, confucianism]
-sources: [zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo, zizhi-tongjian-qinji-99-4-shui-shi-kongzi-hou-zui-weidade-sixiangjia-lr4phoq9chc4tz0yb8y95gy21qdd, zizhi-tongjian-qinji-99-3-xunzi-bingfa-li-cangzhe-renxing-de-mimi-lgfcp4hkruyhhrjguqhjbhllvwp43, zizhi-tongjian-qinji-99-2-mingming-yilian-baixiang-de-caize-ping-shenme-baixiang-lhfyb6hzcqkpbzdrwsxajb7hhmhe, zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj, zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk, zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn, 165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-905-fugui-ruhe-xianzhong-qiu-lklxx5nquka2mtbllxivk0a7b-fu, zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo, zizhi-tongjian-qinji-99-4-shui-shi-kongzi-hou-zui-weidade-sixiangjia-lr4phoq9chc4tz0yb8y95gy21qdd, zizhi-tongjian-qinji-99-3-xunzi-bingfa-li-cangzhe-renxing-de-mimi-lgfcp4hkruyhhrjguqhjbhllvwp43, zizhi-tongjian-qinji-99-2-mingming-yilian-baixiang-de-caize-ping-shenme-baixiang-lhfyb6hzcqkpbzdrwsxajb7hhmhe, zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj, zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk, zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn, 165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl]
+last_updated: 2026-08-26
 ---
 
 # Confucian Ideal Governance / 儒家理想治理
+
+[[zizhi-tongjian-hanji-905-fugui-ruhe-xianzhong-qiu-lklxx5nquka2mtbllxivk0a7b-fu|Hanji 905]] adds a late-Han textual-standardization branch through [[XipingStoneClassics|熹平石经]]. The episode reads [[EmperorLingOfHan|汉灵帝]]'s correction and stone inscription of the Five Classics as an attempt to reinforce Confucian loyalty, filial hierarchy, and shared textual authority amid rebellion and frontier pressure. This is a state-backed cultural-order version of the concept, not proof that textual authority can repair institutional breakdown by itself.
 
 Confucian ideal governance / 儒家理想治理 is the source's name for a politics that tries to moralize rule through ritual, ancient models, hierarchy, virtue, and scholar-official support. In [[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]], this ideal gives [[WangMang|王莽]] both language and supporters.
 
@@ -39,6 +41,7 @@ The episode's conclusion is pessimistic. [[XiangruiBook|《祥瑞》]] is summar
 [[zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo]] adds a ritual-knowledge limit. [[QinShiHuang|嬴政 / 秦始皇]] consults more than seventy Qi-Lu scholars before the [[Taishan|泰山]] fengshan ceremony, but the episode says their conflicting procedures convince him that the inherited ritual tradition is impractical for his urgent imperial purpose. This is not a rejection of all Confucian governance; it is a source-scoped case where ritual authority loses control of the final design to Qin's own heaven-sacrifice practice.
 
 ## Key Claims
+- Hanji 905 adds that Confucian ideal governance can appear as official text standardization when the court tries to reassert common classical authority under disorder.
 - Moral ideals can constrain rulers only when institutions and reality checks hold.
 - Ancient models can become political authority even when social conditions have changed.
 - Scholar support and ritual language can legitimate concentration of power.
@@ -58,6 +61,7 @@ The episode's conclusion is pessimistic. [[XiangruiBook|《祥瑞》]] is summar
 - Qinji 122-1 adds a ritual-authority limit: learned tradition can be politically attractive while still failing to provide a clear executable procedure.
 
 ## Connections
+- [[zizhi-tongjian-hanji-905-fugui-ruhe-xianzhong-qiu-lklxx5nquka2mtbllxivk0a7b-fu|Hanji 905]], [[XipingStoneClassics|熹平石经]], [[CaiYong|蔡邕]], [[EmperorLingOfHan|汉灵帝]], [[Taixue|太学]], and [[LiAsPoliticalOrder|礼制政治秩序]] - late-Han official classical-text standardization branch.
 - [[WangMang]], [[DongZhongshu]], and [[XiangruiBook|《祥瑞》]] - source context.
 - [[MoralReputationPoliticalCapital]], [[TuoguReformPolitics]], [[WangMangReforms]], and [[ConfucianForeignPolicyMoralism]] - concept cluster.
 - [[Mengzi|孟子 / Mencius]], [[MencianBenevolentGovernment]], [[MencianPeopleBasedLegitimacy]], and [[MencianIdealismLimits]] - early Confucian contrast.

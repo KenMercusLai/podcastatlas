@@ -2,11 +2,13 @@
 title: "周瑜 / Zhou Yu"
 type: entity
 tags: [person, late-han, eastern-wu, military, disambiguation]
-sources: [zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x, zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1, zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz, zizhi-tongjian-hanji-994-genzhe-dongwu-zhongchen-lvfan-xuexi-zhichang-zhihui-lgqp2vqmh1mss96gcwmflp-ccpfu]
+sources: [zizhi-tongjian-hanji-905-fugui-ruhe-xianzhong-qiu-lklxx5nquka2mtbllxivk0a7b-fu, zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x, zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1, zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz, zizhi-tongjian-hanji-994-genzhe-dongwu-zhongchen-lvfan-xuexi-zhichang-zhihui-lgqp2vqmh1mss96gcwmflp-ccpfu]
 last_updated: 2026-08-26
 ---
 
 # 周瑜 / Zhou Yu
+
+[[zizhi-tongjian-hanji-905-fugui-ruhe-xianzhong-qiu-lklxx5nquka2mtbllxivk0a7b-fu|Hanji 905]] adds Zhou Yu's birth marker before the later Sun-Ce alliance material. The episode records 175 CE as the year when Zhou Yu, son of Luoyang county magistrate Zhou Yi, is born. No career action is developed here; the note functions as a chronological bridge from [[SunJianLateHan|孙坚]]'s emergence toward the later Sun-Zhou Jiangdong branch.
 
 [[zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1|Hanji 982]] adds the friendship-and-family layer before Zhou Yu's later material support. The episode says Zhou Yu hears of [[SunCe|孙策]], meets him at Shu County, invites the Sun family to live near him, and pays respects to [[LadyWuSunJian|吴夫人]]. That makes the Sun-Zhou tie look like a family-alliance channel before it becomes the troop, boats, grain, and funds branch in Hanji 992.
 
@@ -21,6 +23,7 @@ The episode treats Zhou Yu as more than an added officer. His help supplies miss
 The source does not develop Zhou Yu's campaigns or broader career. His current wiki role is bounded to a historiographical warning: familiar Three Kingdoms title language can distort early Jiangdong institutions if later meanings are projected backward.
 
 ## Connections
+- [[zizhi-tongjian-hanji-905-fugui-ruhe-xianzhong-qiu-lklxx5nquka2mtbllxivk0a7b-fu|Hanji 905]], [[SunJianLateHan|孙坚]], and [[LuoyangLateHan|洛阳]] - 175 CE birth marker before the Sun-Ce alliance branch.
 - [[zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1|Hanji 982]], [[SunCe|孙策]], [[LadyWuSunJian|吴夫人]], and [[KinshipResourceStateBuilding|姻亲资源建构]] - pre-campaign friendship and family-alliance branch.
 - [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz|Hanji 992]], [[ZhouShangLateHan|周尚]], [[DanyangCommandery|丹阳郡]], [[WuJingLateHan|吴景]], [[HengjiangLateHan|横江]], and [[LiyangLateHan|历阳]] - early Sun Ce support, logistics, ships, and recruitment branch.
 - [[zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x|Hanji 1028]], [[LuSu|鲁肃]], and [[YuanShu|袁术]] - rejected Yuan Shu appointments and attachment to Sun Ce's camp.

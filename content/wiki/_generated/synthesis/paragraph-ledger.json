@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "a1716c3e63a84c7da824cdab200702525dd2cb4ee0321f1394555522d1fde71c",
       "d5b87245157f3b8c8f793da419acd28d1cd7fb95a5d0240ae8fb34b34d4a0b2a",
       "1f363b6361a3c2630becb8d3c3217d09fc0aa72caf14eec9e7251aca024432c2",
       "6d94ee3b53515873e0a7a3b642cbe834fa6d425a35cfdf72175b68d3e0f55a4a",
@@ -235,11 +236,44 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "b16a38bd6e190222f7f3e6f0535803ce60ae7f3304e3477dfcdd995a15fb502f"
     ],
-    "paragraph_count": 233
+    "paragraph_count": 234
   },
-  "overview_commit": "a161042d8338bf127aeeb7b280dd09a7320f7fc3",
-  "overview_digest": "d572687878bd32189db9a39a58dd43c3169d1f5574d460d77804b089a9ebd4c2",
+  "overview_commit": "518e730c901b7e820c2be94d11cb01832a20b36e",
+  "overview_digest": "92da7b04ce4ba7c05d75e6428fb51eb9a605565863a09aa9343e8ecd1553953d",
   "paragraphs": [
+    {
+      "id": "a1716c3e63a84c7da824cdab200702525dd2cb4ee0321f1394555522d1fde71c",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-905-fugui-ruhe-xianzhong-qiu-lklxx5nquka2mtbllxivk0a7b-fu|《资治通鉴·汉纪》905丨富贵如何险中求？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 174-175 CE late-Han layer immediately before [[zizhi-tongjian-hanji-906-lihai-de-ren-weishenme-xiangshou-chongtu-lvc3wedrifdzdu-yv1qhocl8uss2|Hanji 906]]. It adds [[XuShengLateHan|许生]], [[CrisisOpportunityConversion|危机机会转化]], and [[XipingStoneClassics|熹平石经]], while extending [[SunJianLateHan|孙坚]], [[ZangMinLateHan|臧旻]], [[DanyangCommandery|丹阳郡]], [[EmperorLingOfHan|汉灵帝]], [[CaiYong|蔡邕]], [[Taixue|太学]], [[ConfucianIdealGovernance|儒家理想治理]], [[LiAsPoliticalOrder|礼制政治秩序]], [[Xianbei|鲜卑]], [[BingzhouLateHan|并州]], and [[ZhouYuLateHan|周瑜]]. Its core synthesis is that late-Han disorder can produce opposite institutional responses: Sun Jian converts local danger into armed reputation and career capital, while Emperor Ling's court tries to stabilize shared classical authority through public stone texts at Taixue. No settled contradiction is recorded; the risk lesson, Danyang-name uncertainty, and Sun-family omen story remain source-scoped.",
+      "topic_scores": {
+        "culture-and-media": 1,
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "BingzhouLateHan",
+        "CaiYong",
+        "ConfucianIdealGovernance",
+        "CrisisOpportunityConversion",
+        "DanyangCommandery",
+        "EmperorLingOfHan",
+        "LiAsPoliticalOrder",
+        "RuiqiJiangtouZizhiTongjian",
+        "SunJianLateHan",
+        "Taixue",
+        "Xianbei",
+        "XipingStoneClassics",
+        "XuShengLateHan",
+        "ZangMinLateHan",
+        "ZhouYuLateHan",
+        "zizhi-tongjian-hanji-905-fugui-ruhe-xianzhong-qiu-lklxx5nquka2mtbllxivk0a7b-fu",
+        "zizhi-tongjian-hanji-906-lihai-de-ren-weishenme-xiangshou-chongtu-lvc3wedrifdzdu-yv1qhocl8uss2"
+      ]
+    },
     {
       "id": "d5b87245157f3b8c8f793da419acd28d1cd7fb95a5d0240ae8fb34b34d4a0b2a",
       "primary_topic": "governance-and-institutions",

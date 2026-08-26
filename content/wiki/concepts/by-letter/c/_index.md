@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 5496
+wiki_total_pages: 5498
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1487,6 +1487,9 @@ wiki_pages:
   - key: "CrisisInformationBlockade"
     title: "Crisis Information Blockade / 危机信息封锁"
     url: "/wiki/concepts/crisisinformationblockade/"
+  - key: "CrisisOpportunityConversion"
+    title: "Crisis Opportunity Conversion / 危机机会转化"
+    url: "/wiki/concepts/crisisopportunityconversion/"
   - key: "CrisisStakeholderLeadership"
     title: "Crisis Stakeholder Leadership"
     url: "/wiki/concepts/crisisstakeholderleadership/"

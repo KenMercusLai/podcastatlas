@@ -11635,6 +11635,10 @@
     "title": "危局迁徙判断 / Crisis Migration Judgment",
     "url": "/wiki/concepts/crisismigrationjudgment/"
   },
+  "CrisisOpportunityConversion": {
+    "title": "Crisis Opportunity Conversion / 危机机会转化",
+    "url": "/wiki/concepts/crisisopportunityconversion/"
+  },
   "CrisisStakeholderLeadership": {
     "title": "Crisis Stakeholder Leadership",
     "url": "/wiki/concepts/crisisstakeholderleadership/"
@@ -50823,6 +50827,10 @@
     "title": "匈奴 / Xiongnu",
     "url": "/wiki/entities/xiongnu/"
   },
+  "XipingStoneClassics": {
+    "title": "熹平石经 / Xiping Stone Classics",
+    "url": "/wiki/concepts/xipingstoneclassics/"
+  },
   "Xiren": {
     "title": "袭人 / Xiren",
     "url": "/wiki/entities/xiren/"
@@ -50942,6 +50950,10 @@
   "XuShen": {
     "title": "许慎",
     "url": "/wiki/entities/xushen/"
+  },
+  "XuShengLateHan": {
+    "title": "许生 / Xu Sheng (late-Han rebel)",
+    "url": "/wiki/entities/xushenglatehan/"
   },
   "XuSiLateHan": {
     "title": "许汜 / Xu Si (Late Han)",
@@ -57326,6 +57338,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-905-fugui-ruhe-xianzhong-qiu-lklxx5nquka2mtbllxivk0a7b-fu": {
+    "title": "《资治通鉴·汉纪》905丨富贵如何险中求？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-905-fugui-ruhe-xianzhong-qiu-lklxx5nquka2mtbllxivk0a7b-fu/"
   },
   "zizhi-tongjian-hanji-906-lihai-de-ren-weishenme-xiangshou-chongtu-lvc3wedrifdzdu-yv1qhocl8uss2": {
     "title": "《资治通鉴·汉纪》906丨厉害的人，为什么享受冲突？",

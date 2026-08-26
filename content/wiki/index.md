@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》905丨富贵如何险中求？](sources/zizhi-tongjian-hanji-905-fugui-ruhe-xianzhong-qiu-lklxx5nquka2mtbllxivk0a7b-fu.md) — 芮淇讲透资治通鉴 episode on Sun Jian's 174 CE role suppressing Xu Sheng, risk as career opportunity, Xianbei pressure, Emperor Ling and Cai Yong's Xiping Stone Classics project at Taixue, and Zhou Yu's 175 CE birth marker.
 - [《资治通鉴·汉纪》906丨厉害的人，为什么享受冲突？](sources/zizhi-tongjian-hanji-906-lihai-de-ren-weishenme-xiangshou-chongtu-lvc3wedrifdzdu-yv1qhocl8uss2.md) — 芮淇讲透资治通鉴 episode on conflict as source-scoped boundary practice, Cai Yong's 175 CE memorial against the 三互法 appointment bottleneck, vacant Youzhou/Jizhou inspector posts, and Sima Guang's rule-proliferation critique.
 - [《资治通鉴·汉纪》907丨所有的病都是你的心病](sources/zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79.md) — 芮淇讲透资治通鉴 episode on Cao Luan's 176 CE party-figure memorial, Emperor Ling's lethal response and five-degree kinship expansion of party prohibition, early Liu Bei/Gongsun Zan study under Lu Zhi, Xianbei pressure, false Xuanling filial sons, and source-scoped "心病" self-cultivation.
 - [《资治通鉴·汉纪》908丨逆境出强者，狭路出勇者，孤独出智者](sources/zizhi-tongjian-hanji-908-nijing-chu-qiangzhe-xialu-chu-yongzhe-gudu-chu-zhizhe-lqih1dradhzi0mipxsaiedd52dlj.md) — 芮淇讲透资治通鉴 episode on Cai Yong's 177 CE memorial about ritual neglect, literary/artistic appointment distortion, false "Xuanling filial sons" near the crown prince, and source-scoped inward-strength and meditation practice.
@@ -1490,6 +1491,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [许生 / Xu Sheng (late-Han rebel)](entities/XuShengLateHan.md) — 174 CE rebel whose suppression by the Yangzhou-Danyang side becomes Sun Jian's first visible late-Han career opportunity in Hanji 905.
 - [曹鸾 / Cao Luan (late Han)](entities/CaoLuanLateHan.md) — Yongchang administrator whose party-figure memorial triggers Emperor Ling's lethal response and wider party-prohibition kinship liability.
 - [夏育 / Xia Yu (late Han)](entities/XiaYuLateHan.md) — Hu Wuhuan xiaoyu whose offensive memorial and failed 177 CE Xianbei expedition command become a late-Han overextension case.
 - [田晏 / Tian Yan (late Han)](entities/TianYanLateHan.md) — Pardoned late-Han figure who uses Wang Fu's palace access to gain Xianbei campaign command before sharing the three-route defeat.
@@ -9159,6 +9161,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Crisis Opportunity Conversion / 危机机会转化](concepts/CrisisOpportunityConversion.md) — Hanji 905 pattern where capability, nerve, timing, and public legibility turn a crisis into political capital rather than only danger.
+- [熹平石经 / Xiping Stone Classics](concepts/XipingStoneClassics.md) — Emperor Ling and Cai Yong's 175 CE stone-inscription project standardizing the Five Classics at Taixue amid late-Han disorder.
 - [三互法任官限制 / Sanhu Law Appointment Constraint](concepts/SanhuLawAppointmentConstraint.md) — Late-Han anti-collusion appointment rule whose overbroad exclusions leave urgent provincial inspector posts vacant and show how regulation can block the talent it is meant to discipline.
 - [党锢亲属牵连扩大 / Party Prohibition Kinship Expansion](concepts/PartyProhibitionKinshipExpansion.md) — Late-Han party-prohibition pattern where punishment expands from named party figures to students, old subordinates, fathers, sons, brothers, and five-degree kin.
 - [守陵孝行进身凭证 / Filial Mourning Access Credential](concepts/FilialMourningAccessCredential.md) — Late-Han appointment-risk pattern where public mourning and filial display become credentials for palace or heir proximity unless institutionally verified.
