@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 5583
+wiki_total_pages: 5586
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -86,6 +86,9 @@ wiki_pages:
   - key: "HardTechDirectionSelection"
     title: "Hard-Tech Direction Selection"
     url: "/wiki/concepts/hardtechdirectionselection/"
+  - key: "HardTechFinancingDiscipline"
+    title: "Hard-Tech Financing Discipline"
+    url: "/wiki/concepts/hardtechfinancingdiscipline/"
   - key: "HardTechRegulatoryPathfinding"
     title: "Hard-Tech Regulatory Pathfinding"
     url: "/wiki/concepts/hardtechregulatorypathfinding/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 7808
+wiki_total_pages: 7812
 wiki_pages:
   - key: "BSpecials"
     title: "B Specials"

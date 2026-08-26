@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 5583
+wiki_total_pages: 5586
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -245,6 +245,9 @@ wiki_pages:
   - key: "OpenSourceInfrastructureTrust"
     title: "Open Source Infrastructure Trust"
     url: "/wiki/concepts/opensourceinfrastructuretrust/"
+  - key: "OpenSourceRobotPlatformStrategy"
+    title: "Open Source Robot Platform Strategy"
+    url: "/wiki/concepts/opensourcerobotplatformstrategy/"
   - key: "OpenSourceStartupCostCollapse"
     title: "Open Source Startup Cost Collapse"
     url: "/wiki/concepts/opensourcestartupcostcollapse/"

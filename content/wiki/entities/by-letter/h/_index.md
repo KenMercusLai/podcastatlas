@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 7808
+wiki_total_pages: 7812
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -533,6 +533,9 @@ wiki_pages:
   - key: "HuangBote"
     title: "Huang Bote"
     url: "/wiki/entities/huangbote/"
+  - key: "HuangYiRobotics"
+    title: "Huang Yi / 黄一 (robotics founder)"
+    url: "/wiki/entities/huangyirobotics/"
   - key: "HuangZhang"
     title: "Huang Zhang"
     url: "/wiki/entities/huangzhang/"

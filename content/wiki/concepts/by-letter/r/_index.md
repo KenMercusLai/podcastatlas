@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 5583
+wiki_total_pages: 5586
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -326,6 +326,9 @@ wiki_pages:
   - key: "ResearchChemicalLoophole"
     title: "Research Chemical Loophole"
     url: "/wiki/concepts/researchchemicalloophole/"
+  - key: "ResearchEducationRobotPlatform"
+    title: "Research Education Robot Platform"
+    url: "/wiki/concepts/researcheducationrobotplatform/"
   - key: "ResearchFundingAdditionality"
     title: "Research Funding Additionality"
     url: "/wiki/concepts/researchfundingadditionality/"

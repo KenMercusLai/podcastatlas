@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 7808
+wiki_total_pages: 7812
 wiki_pages:
   - key: "RachelReeves"
     title: "Rachel Reeves"
@@ -569,9 +569,15 @@ wiki_pages:
   - key: "RoyalUlsterConstabulary"
     title: "Royal Ulster Constabulary"
     url: "/wiki/entities/royalulsterconstabulary/"
+  - key: "RP1Robot"
+    title: "RP1 Robot"
+    url: "/wiki/entities/rp1robot/"
   - key: "RPGMaker"
     title: "RPG Maker"
     url: "/wiki/entities/rpgmaker/"
+  - key: "RPORobot"
+    title: "RPO Robot"
+    url: "/wiki/entities/rporobot/"
   - key: "RSIBenchData"
     title: "RSIbench-data"
     url: "/wiki/entities/rsibenchdata/"

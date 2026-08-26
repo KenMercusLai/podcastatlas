@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2240
+topic_total_pages: 2242
 topic_concepts:
   - key: "AbraxasWholeGodSymbolism"
     title: "Abraxas Whole-God Symbolism / 阿布拉克萨斯完整神象征"
@@ -1693,6 +1693,9 @@ topic_concepts:
   - key: "RemedialEducationTargeting"
     title: "Remedial Education Targeting"
     url: "/wiki/concepts/remedialeducationtargeting/"
+  - key: "ResearchEducationRobotPlatform"
+    title: "Research Education Robot Platform"
+    url: "/wiki/concepts/researcheducationrobotplatform/"
   - key: "ResponsibilityAgainstRomanticEscape"
     title: "Responsibility Against Romantic Escape / 以责任抵抗浪漫逃避"
     url: "/wiki/concepts/responsibilityagainstromanticescape/"
@@ -3851,6 +3854,9 @@ topic_entities:
   - key: "RoyalMail"
     title: "Royal Mail"
     url: "/wiki/entities/royalmail/"
+  - key: "RPORobot"
+    title: "RPO Robot"
+    url: "/wiki/entities/rporobot/"
   - key: "RudolfErichRaspe"
     title: "Rudolf Erich Raspe"
     url: "/wiki/entities/rudolferichraspe/"

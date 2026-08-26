@@ -803,6 +803,10 @@
     "title": "21.红与黑：他死于真诚",
     "url": "/wiki/sources/21-hong-yu-hei-ta-si-yu-zhencheng-569042001/"
   },
+  "22-sui-de-jushen-ceo-5-lun-rongzi-guo-yi-meiyuan-buzhi-tian-you-duo-gao-yinian-chile-shi-nian-de-ku-duitan-huangyi-luobo-paidui-chuangshiren-ceo-ljwdmocryiblf0k3rkz8eonkqox": {
+    "title": "22 岁的具身 CEO、5 轮融资、过亿美元、“不知天有多高”、“一年吃了十年的苦”｜对谈黄一：萝博派对创始人/CEO",
+    "url": "/wiki/sources/22-sui-de-jushen-ceo-5-lun-rongzi-guo-yi-meiyuan-buzhi-tian-you-duo-gao-yinian-chile-shi-nian-de-ku-duitan-huangyi-luobo-paidui-chuangshiren-ceo-ljwdmocryiblf0k3rkz8eonkqox/"
+  },
   "22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427": {
     "title": "22.足球经济学：读者不必是球迷",
     "url": "/wiki/sources/22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427/"
@@ -21015,6 +21019,10 @@
     "title": "Hard-Tech Direction Selection",
     "url": "/wiki/concepts/hardtechdirectionselection/"
   },
+  "HardTechFinancingDiscipline": {
+    "title": "Hard-Tech Financing Discipline",
+    "url": "/wiki/concepts/hardtechfinancingdiscipline/"
+  },
   "HardTechFundraising": {
     "title": "Hard Tech Fundraising",
     "url": "/wiki/concepts/hardtechfundraising/"
@@ -22406,6 +22414,10 @@
   "HuangYanLateHan": {
     "title": "黄衍 / Huang Yan (late Han)",
     "url": "/wiki/entities/huangyanlatehan/"
+  },
+  "HuangYiRobotics": {
+    "title": "Huang Yi / 黄一 (robotics founder)",
+    "url": "/wiki/entities/huangyirobotics/"
   },
   "HuangYimeng": {
     "title": "黄一孟 / Huang Yimeng",
@@ -29495,6 +29507,10 @@
     "title": "Luo Yonghao",
     "url": "/wiki/entities/luoyonghao/"
   },
+  "LuoboPaidui": {
+    "title": "Luobo Paidui / 萝博派对",
+    "url": "/wiki/entities/luobopaidui/"
+  },
   "LuojiSiwei": {
     "title": "罗辑思维",
     "url": "/wiki/entities/luojisiwei/"
@@ -34671,6 +34687,10 @@
     "title": "Open Source Infrastructure Trust",
     "url": "/wiki/concepts/opensourceinfrastructuretrust/"
   },
+  "OpenSourceRobotPlatformStrategy": {
+    "title": "Open Source Robot Platform Strategy",
+    "url": "/wiki/concepts/opensourcerobotplatformstrategy/"
+  },
   "OpenSourceStartupCostCollapse": {
     "title": "Open Source Startup Cost Collapse",
     "url": "/wiki/concepts/opensourcestartupcostcollapse/"
@@ -38851,9 +38871,17 @@
     "title": "RMB Exchange Rate Policy",
     "url": "/wiki/concepts/rmbexchangeratepolicy/"
   },
+  "RP1Robot": {
+    "title": "RP1 Robot",
+    "url": "/wiki/entities/rp1robot/"
+  },
   "RPGMaker": {
     "title": "RPG Maker",
     "url": "/wiki/entities/rpgmaker/"
+  },
+  "RPORobot": {
+    "title": "RPO Robot",
+    "url": "/wiki/entities/rporobot/"
   },
   "RSIBenchData": {
     "title": "RSIbench-data",
@@ -39654,6 +39682,10 @@
   "ResearchChemicalLoophole": {
     "title": "Research Chemical Loophole",
     "url": "/wiki/concepts/researchchemicalloophole/"
+  },
+  "ResearchEducationRobotPlatform": {
+    "title": "Research Education Robot Platform",
+    "url": "/wiki/concepts/researcheducationrobotplatform/"
   },
   "ResearchFundingAdditionality": {
     "title": "Research Funding Additionality",
