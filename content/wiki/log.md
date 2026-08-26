@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-27] ingest | 《资治通鉴·汉纪》1023丨揭秘曹操与张绣的兵法博弈
+
+Added source page for Hanji 1023: Yuan Shao's proposed capital relocation around the emperor, Tian Feng's rejected Xudu attack advice, Cao Cao's withdrawal from the Rangcheng front, Zhang Xiu and Liu Biao's Anzhong blockade, Cao Cao's false-escape ambush, and Jia Xu's two-stage pursuit judgment. Created Anzhong and Returning Army Interdiction Risk pages; updated Zhang Xiu, Jia Xu, Liu Biao, Tian Feng, Death-Ground Tactical Preconditions, and Lure Enemy Out of Position. No settled contradiction found; transcript place wording such as 眷城 and 壤县 is kept source-scoped while linked cautiously to existing geography.
+
 ## [2026-08-26] ingest | Episode 19: 赵丽娜：在场比赢重要；门将的信心、直觉与热爱
 
 Added source page for a Fuyou Tiandi episode with Zhao Lina on football as atmosphere and participation, childhood entry into formal football training, national-team visibility, goalkeeper confidence and intuition, penalty preparation, embodied training against fear, youth football public access, women football visibility, and post-retirement identity through podcasting and charity. Created Zhao Lina, 《上下半场》, China Women's National Football Team, FIFA Women's World Cup, Sports Participation Over Winning, Goalkeeper Embodied Judgment, Embodied Training Against Fear, Youth Football Public Access, Women's Football Visibility, and Athlete Post-Retirement Identity; updated Fuyou Tiandi, index, and overview. No settled contradiction found; the source qualifies sports-business and fandom material by emphasizing bodily presence, gendered subjectivity, and transition after competitive sport.
@@ -12166,6 +12170,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》1024丨勇冠三军吕布，为何始终一事无成？
 
 Added source page for Hanji 1024: Lü Bu's 198 CE pre-Xiapi decision field, Gao Shun and Zhang Liao's attack on Liu Bei, Xun You's attack-window advice to Cao Cao, Chen Gong's rejected early-attack and abandoned inner-outer attrition plan, and Yuan Shu's still-uncertain rescue channel. Updated Lü Bu and Long-Term Achievement Discipline to synthesis-v1. No settled contradiction found; the source qualifies final-cause readings of Lü Bu's fall by moving the failure earlier to lost initiative, unstable trust, and weak self-command.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-27] lint | Wiki health check
 

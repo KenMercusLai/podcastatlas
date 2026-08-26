@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 7797
+wiki_total_pages: 7798
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1310,6 +1310,9 @@ wiki_pages:
   - key: "Anyi"
     title: "安邑 / Anyi"
     url: "/wiki/entities/anyi/"
+  - key: "AnzhongLateHan"
+    title: "安重 / Anzhong (late Han)"
+    url: "/wiki/entities/anzhonglatehan/"
   - key: "AnyangQinRebellion"
     title: "安阳 / Anyang (Qin Rebellion)"
     url: "/wiki/entities/anyangqinrebellion/"

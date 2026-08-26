@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 5579
+wiki_total_pages: 5580
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -491,6 +491,9 @@ wiki_pages:
   - key: "ReturnOnEquityAnalysis"
     title: "Return On Equity Analysis"
     url: "/wiki/concepts/returnonequityanalysis/"
+  - key: "ReturningArmyInterdictionRisk"
+    title: "Returning Army Interdiction Risk / 归师勿遏式追击风险"
+    url: "/wiki/concepts/returningarmyinterdictionrisk/"
   - key: "ReusablePackagingDurability"
     title: "Reusable Packaging Durability / 可复用包装耐久性"
     url: "/wiki/concepts/reusablepackagingdurability/"

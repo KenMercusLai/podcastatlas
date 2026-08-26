@@ -859,6 +859,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/anybotics/"
     },
+    "AnzhongLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1023丨揭秘曹操与张绣的兵法博弈 [lpHbNmFDU0x5W7ZjrA7K0O8cyEL4].md",
+          "key": "zizhi-tongjian-hanji-1023-jiemi-caocao-yu-zhangxiu-de-bingfa-boyi-lphbnmfdu0x5w7zjra7k0o8cyel4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1023丨揭秘曹操与张绣的兵法博弈",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1023-jiemi-caocao-yu-zhangxiu-de-bingfa-boyi-lphbnmfdu0x5w7zjra7k0o8cyel4/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/anzhonglatehan/"
+    },
     "ArmedFollowerIntegrationCost": {
       "episode_count": 1,
       "show_count": 1,
@@ -1450,6 +1466,43 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/databrokercompliancegap/"
+    },
+    "DeathGroundTacticalPreconditions": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》159-2｜张良说了啥救下汉朝？ [lvS9ELvRJP_yPZ63W4CZpuHbSfB-].md",
+          "key": "zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》159-2｜张良说了啥救下汉朝？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》157｜韩信“背水一战”兵法解读（2） [loWgToMc-_SFMDnSHZLsCM26d-d3].md",
+          "key": "zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》157｜韩信“背水一战”兵法解读（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》157｜韩信“背水一战”兵法解读（1） [loiz8Ge_a39tMIGAjoOL2SPZrI5i].md",
+          "key": "zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-1-loiz8ge-a39tmigajool2spzri5i",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》157｜韩信“背水一战”兵法解读（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-1-loiz8ge-a39tmigajool2spzri5i/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1023丨揭秘曹操与张绣的兵法博弈 [lpHbNmFDU0x5W7ZjrA7K0O8cyEL4].md",
+          "key": "zizhi-tongjian-hanji-1023-jiemi-caocao-yu-zhangxiu-de-bingfa-boyi-lphbnmfdu0x5w7zjra7k0o8cyel4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1023丨揭秘曹操与张绣的兵法博弈",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1023-jiemi-caocao-yu-zhangxiu-de-bingfa-boyi-lphbnmfdu0x5w7zjra7k0o8cyel4/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/deathgroundtacticalpreconditions/"
     },
     "DeleteRequestAndOptOutPlatform": {
       "episode_count": 2,
@@ -3308,9 +3361,9 @@
       "url": "/wiki/entities/jenniferking/"
     },
     "JiaXu": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 1,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》965丨帮过别人的忙，为什么要少提？ [ltJd_cv59hNM_n8aR9jXdOGP9Q0Q].md",
@@ -3395,9 +3448,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1035丨斩杀曹操亲子和爱将，他竟再度归降曹操？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1035-zhansha-caocao-qinzi-he-aijiang-ta-jing-zaidu-guijiang-caocao-lh10wwkwcqw5hnap3bodw6oxpt7v/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1023丨揭秘曹操与张绣的兵法博弈 [lpHbNmFDU0x5W7ZjrA7K0O8cyEL4].md",
+          "key": "zizhi-tongjian-hanji-1023-jiemi-caocao-yu-zhangxiu-de-bingfa-boyi-lphbnmfdu0x5w7zjra7k0o8cyel4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1023丨揭秘曹操与张绣的兵法博弈",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1023-jiemi-caocao-yu-zhangxiu-de-bingfa-boyi-lphbnmfdu0x5w7zjra7k0o8cyel4/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-08-27",
       "url": "/wiki/entities/jiaxu/"
     },
     "JidduKrishnamurti": {
@@ -3866,9 +3926,9 @@
       "url": "/wiki/entities/linkedin/"
     },
     "LiuBiao": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 1,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》953丨乱世之中，要不要讲究仁义？ [lrZfImgqAtJXyw9zX9rY2kIWXKON].md",
@@ -3953,9 +4013,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1036丨刘表为何要逼韩嵩见曹操？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1036-liubiao-weihe-yao-bi-hansong-jian-caocao-lnifeizgoebis2gdovgmzg6dojaz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1023丨揭秘曹操与张绣的兵法博弈 [lpHbNmFDU0x5W7ZjrA7K0O8cyEL4].md",
+          "key": "zizhi-tongjian-hanji-1023-jiemi-caocao-yu-zhangxiu-de-bingfa-boyi-lphbnmfdu0x5w7zjra7k0o8cyel4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1023丨揭秘曹操与张绣的兵法博弈",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1023-jiemi-caocao-yu-zhangxiu-de-bingfa-boyi-lphbnmfdu0x5w7zjra7k0o8cyel4/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-08-27",
       "url": "/wiki/entities/liubiao/"
     },
     "LiuDaiSikongZhangshi": {
@@ -4217,9 +4284,9 @@
       "url": "/wiki/entities/lulinglatehan/"
     },
     "LureEnemyOutOfPosition": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮 [liMAFqSkGbLRweTeSTyH39w_hZM4].md",
@@ -4283,9 +4350,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1038丨三十六计之调虎离山：孙策智取皖城",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1038-sanshiliu-ji-zhi-diaohu-lishan-sunce-zhiqu-wancheng-lhomk8hfdidl61degwbqtj2xkj9z/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1023丨揭秘曹操与张绣的兵法博弈 [lpHbNmFDU0x5W7ZjrA7K0O8cyEL4].md",
+          "key": "zizhi-tongjian-hanji-1023-jiemi-caocao-yu-zhangxiu-de-bingfa-boyi-lphbnmfdu0x5w7zjra7k0o8cyel4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1023丨揭秘曹操与张绣的兵法博弈",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1023-jiemi-caocao-yu-zhangxiu-de-bingfa-boyi-lphbnmfdu0x5w7zjra7k0o8cyel4/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-08-27",
       "url": "/wiki/concepts/lureenemyoutofposition/"
     },
     "LyuBu": {
@@ -5594,6 +5668,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/researchinstitutionsasstrategiccapacity/"
     },
+    "ReturningArmyInterdictionRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1023丨揭秘曹操与张绣的兵法博弈 [lpHbNmFDU0x5W7ZjrA7K0O8cyEL4].md",
+          "key": "zizhi-tongjian-hanji-1023-jiemi-caocao-yu-zhangxiu-de-bingfa-boyi-lphbnmfdu0x5w7zjra7k0o8cyel4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1023丨揭秘曹操与张绣的兵法博弈",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1023-jiemi-caocao-yu-zhangxiu-de-bingfa-boyi-lphbnmfdu0x5w7zjra7k0o8cyel4/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/returningarmyinterdictionrisk/"
+    },
     "RobotAsAService": {
       "episode_count": 1,
       "show_count": 1,
@@ -6338,6 +6428,36 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/teyanataylor/"
+    },
+    "TianFengLateHan": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》975丨兖州之乱：荀彧如何帮曹操守大本营？ [ln0Hh4jroKkWTqSmXMqHdJzCOSdr].md",
+          "key": "zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》975丨兖州之乱：荀彧如何帮曹操守大本营？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》976丨三国谋士大盘点，谁是你心中的神？ [ljGPbosQ-9XIoWpgaEyossmgSt6x].md",
+          "key": "zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》976丨三国谋士大盘点，谁是你心中的神？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1023丨揭秘曹操与张绣的兵法博弈 [lpHbNmFDU0x5W7ZjrA7K0O8cyEL4].md",
+          "key": "zizhi-tongjian-hanji-1023-jiemi-caocao-yu-zhangxiu-de-bingfa-boyi-lphbnmfdu0x5w7zjra7k0o8cyel4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1023丨揭秘曹操与张绣的兵法博弈",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1023-jiemi-caocao-yu-zhangxiu-de-bingfa-boyi-lphbnmfdu0x5w7zjra7k0o8cyel4/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/tianfenglatehan/"
     },
     "TianKaiLateHan": {
       "episode_count": 3,
@@ -7306,9 +7426,9 @@
       "url": "/wiki/entities/zhangjianlatehan/"
     },
     "ZhangXiu": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1010丨三国刘表，究竟是不是漂亮的草包？ [lo58hZFo-Qv0SOaUOGTgFrKOurrd].md",
@@ -7344,9 +7464,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1035丨斩杀曹操亲子和爱将，他竟再度归降曹操？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1035-zhansha-caocao-qinzi-he-aijiang-ta-jing-zaidu-guijiang-caocao-lh10wwkwcqw5hnap3bodw6oxpt7v/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1023丨揭秘曹操与张绣的兵法博弈 [lpHbNmFDU0x5W7ZjrA7K0O8cyEL4].md",
+          "key": "zizhi-tongjian-hanji-1023-jiemi-caocao-yu-zhangxiu-de-bingfa-boyi-lphbnmfdu0x5w7zjra7k0o8cyel4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1023丨揭秘曹操与张绣的兵法博弈",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1023-jiemi-caocao-yu-zhangxiu-de-bingfa-boyi-lphbnmfdu0x5w7zjra7k0o8cyel4/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-08-27",
       "url": "/wiki/entities/zhangxiu/"
     },
     "ZhaoLina": {

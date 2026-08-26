@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1023丨揭秘曹操与张绣的兵法博弈](sources/zizhi-tongjian-hanji-1023-jiemi-caocao-yu-zhangxiu-de-bingfa-boyi-lphbnmfdu0x5w7zjra7k0o8cyel4.md) — 芮淇讲透资治通鉴 episode on Yuan Shao's capital-relocation pressure, Tian Feng's rejected Xudu attack advice, Cao Cao's withdrawal from the Rangcheng front, Zhang Xiu and Liu Biao's Anzhong blockade, Cao Cao's false-escape ambush, and Jia Xu's two-stage pursuit judgment.
 - [《资治通鉴·汉纪》1024丨勇冠三军吕布，为何始终一事无成？](sources/zizhi-tongjian-hanji-1024-yongguan-sanjun-lvbu-weihe-shizhong-yi-shi-wucheng-lkfum6s9gin-vtfrjkxim9yukshj.md) — 芮淇讲透资治通鉴 episode on Lü Bu's 198 CE pre-Xiapi decision failures, Gao Shun and Zhang Liao's attack on Liu Bei, Xun You's attack-window advice to Cao Cao, Chen Gong's abandoned attrition plan, Yuan Shu rescue, and desire/focus as self-command.
 - [《资治通鉴·汉纪》1032丨对待叛徒，曹操为何仁慈？](sources/zizhi-tongjian-hanji-1032-duidai-pantu-caocao-weihe-renci-lmrr3c2f2dayectlwndt4p-katuy.md) — 芮淇讲透资治通鉴 episode on Yuan Shao's post-Gongsun-Zan northern settlement, Tian Yu's advice to Xianyu Fu, Wuhuan chanyu-seal politics, Cao Cao's Shequan operation, and Cao's pardon and appointment of Wei Zhong before Guandu.
 - [《资治通鉴·汉纪》1033丨割据军阀袁术，最终吐血而亡？](sources/zizhi-tongjian-hanji-1033-geju-junfa-yuanshu-zuizhong-tuxue-er-wang-lt0ibs-en0oeoqkkcxl8sevjng4.md) — 芮淇讲透资治通鉴 episode on Yuan Shu's final collapse, the Heirloom Seal's return to court, Yuan Shao's post-Gongsun-Zan title temptation, and the Ju Shou / Guo Tu / Shen Pei pre-Guandu strategy debate.
@@ -2422,6 +2423,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [华阴 / Huayin (late Han)](entities/HuayinLateHan.md) — Corridor site where Emperor Xian reaches Duan Wei's supplies and where route control, rumor, and survival politics converge.
 - [段煨 / Duan Wei (late Han)](entities/DuanWeiLateHan.md) — Huayin-based late-Han general who resists Yang Ding while feeding Emperor Xian, later serving as Jia Xu's suspicious host before Jia Xu joins Zhang Xiu.
 - [杨定 / Yang Ding (late Han)](entities/YangDingLateHan.md) — Late-Han general whose failed attack on Duan Wei collapses when Zhang Ji, Li Jue, and Guo Si re-sort around Emperor Xian.
+- [安重 / Anzhong (late Han)](entities/AnzhongLateHan.md) — Late-Han battlefield-place where Zhang Xiu and Liu Biao block Cao Cao's retreat before Cao Cao turns the pressure into a false-escape ambush.
 - [穰城 / Rangcheng](entities/Rangcheng.md) — Nanyang city where Zhang Ji dies attacking in Hanji 1010, opening Liu Biao's mourning-framed absorption of the remaining troops.
 - [祢衡 / Mi Heng (Late Han)](entities/MiHengLateHan.md) — Late-Han scholar whose talent, insults, naked drumming, and death through Cao Cao-Liu Biao-Huang Zu transfer anchor the Hanji 1011 borrowed-knife case.
 - [黄祖 / Huang Zu](entities/HuangZu.md) — Jiangxia official in Liu Biao's orbit, endpoint of the Mi Heng borrowed-knife chain and later defeated by Sun Ce after aiding Liu Xun.
@@ -2437,7 +2439,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张济 / Zhang Ji (late Han)](entities/ZhangJiLateHan.md) — Zhang Xiu's uncle whose death at Rangcheng lets Liu Biao absorb the remaining troops and later leaves Lady Zou as the Wancheng widow/aunt figure.
 - [邹氏 / Lady Zou (Wancheng)](entities/LadyZouWancheng.md) — Zhang Ji's widow and Zhang Xiu's aunt by marriage whose taking by Cao Cao becomes the Wancheng status insult; Hanji 1013's "周氏" is kept as a transcript variant.
 - [胡车儿 / Hu Che'er](entities/HuCheEr.md) — Zhang Xiu subordinate who alarms Zhang Xiu when rewarded by Cao Cao and then drinks with and disarms Dian Wei.
-- [贾诩 / Jia Xu](entities/JiaXu.md) — Late-Han adviser whose survival-first host-risk reading, Wancheng planning, Cao-over-Yuan patron choice, and Zhang Xiu submission advice make him a condition-sensitive strategy figure.
+- [贾诩 / Jia Xu](entities/JiaXu.md) — Late-Han adviser whose survival-first host-risk reading, Wancheng planning, Anzhong pursuit timing, Cao-over-Yuan patron choice, and Zhang Xiu submission advice make him a condition-sensitive strategy figure.
 - [白波军 / Baibo Army](entities/BaiboArmy.md) — Late-Han armed group tied first to Yufuluo's failed raiding branch and later to the emergency escort coalition around Emperor Xian.
 - [李乐 / Li Le (late Han)](entities/LiLeLateHan.md) — Former Baibo commander normalized from the transcript's "李越", helping Dong Cheng and Yang Feng during Emperor Xian's flight.
 - [胡才 / Hu Cai (late Han)](entities/HuCaiLateHan.md) — Former Baibo commander in the emergency reinforcement field that briefly counters Li Jue's pursuit of Emperor Xian.
@@ -2750,7 +2752,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [成吉思汗 / Genghis Khan](entities/GenghisKhan.md) — Mongol leader used as Qinji 131-3's example of drinking customs disciplined by self-control.
 - [《礼记》 / Book of Rites](entities/LijiText.md) — Confucian classic cited for drinking without losing composure and for alcohol as harmonious social ritual.
 - [王仲闻 / Wang Zhongwen](entities/WangZhongwen.md) — Scholar whose Li Qingzhao annotation statistics are used to quantify wine in her ci corpus.
-- [张绣 / Zhang Xiu](entities/ZhangXiu.md) — Late Han commander who inherits Zhang Ji's troops, turns the first Cao Cao surrender into the Wancheng disaster, then submits again before Guandu through Jia Xu's advice.
+- [张绣 / Zhang Xiu](entities/ZhangXiu.md) — Late Han commander who inherits Zhang Ji's troops, turns the first Cao Cao surrender into the Wancheng disaster, remains dangerous around Anzhong, then submits again before Guandu through Jia Xu's advice.
 - [典韦 / Dian Wei](entities/DianWei.md) — Cao Cao guard whose drunken disarming and final defense anchor Qinji 131-2's Wancheng example.
 - [曹昂 / Cao Ang](entities/CaoAng.md) — Cao Cao's son whose death marks the familial cost of the Wancheng drinking-and-security disaster.
 - [张飞 / Zhang Fei](entities/ZhangFei.md) — Three Kingdoms figure used as the compact example of drunkenly losing Xuzhou and harming Liu Bei's base.
@@ -4318,7 +4320,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Chery / 奇瑞](entities/Chery.md) — Wuhu-based automaker used as an early Anhui carmaking and local industrial-upgrading case.
 - [BOE Technology / 京东方](entities/BOETechnology.md) — Display-panel company whose Hefei 6th-generation LCD line anchors the classic Hefei industrial-investment case.
 - [NIO / 蔚来](entities/NIO.md) — Electric-vehicle company tied to Hefei industrial investment and, in FengTouQuan, to premium EV branding through ES8, battery leasing, and battery-swap infrastructure.
-- [田丰 / Tian Feng (late Han)](entities/TianFengLateHan.md) — Yuan Shao adviser disambiguated from modern researcher 田峰; Hanji 976 uses him as a case of high-value talent wasted by decision failure.
+- [田丰 / Tian Feng (late Han)](entities/TianFengLateHan.md) — Yuan Shao adviser disambiguated from modern researcher 田峰; his grain-warning and Xudu-emperor advice make him a case of high-value talent wasted by decision failure.
 - [田峰 / Tian Feng](entities/TianFeng.md) — 中国社科院 researcher explaining talent group livestreaming as guild-backed labor, real-time data, compliance, aesthetic production, and fieldwork evidence.
 - [Chinese Academy of Social Sciences / 中国社会科学院](entities/ChineseAcademyOfSocialSciences.md) — Research-institution context for Tian Feng and student fieldwork on talent group livestreaming.
 - [Changsha / 长沙](entities/Changsha.md) — Fieldwork city and entertainment-labor setting for talent group livestreaming guilds in the 面基 episode.
@@ -9769,7 +9771,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Irreversible Defection Binding / 断路式策反绑定](concepts/IrreversibleDefectionBinding.md) — Sui He pattern where private persuasion is followed by public exposure and an exit-closing act so a wavering defector cannot quietly return to the old camp.
 - [Victory Deterrence Diplomacy / 胜势威慑外交](concepts/VictoryDeterrenceDiplomacy.md) — Pattern where battlefield or regime victory is converted into envoy-backed surrender pressure, from Han Xin's Yan/Qi sequence to Lu Jia's Nanyue mission.
 - [背水一战 / Backwater Battle](concepts/BackwaterBattle.md) — Han Xin's Jingxing battle pattern joining backwater formation, hidden red-flag cavalry, Zhao morale collapse, and later victory-to-diplomacy conversion.
-- [Death-Ground Tactical Preconditions / 死地战术前提](concepts/DeathGroundTacticalPreconditions.md) — Sunzi-style no-retreat tactics work only when intelligence, enemy-choice confirmation, terrain, morale, and surprise have already made forced commitment usable.
+- [Death-Ground Tactical Preconditions / 死地战术前提](concepts/DeathGroundTacticalPreconditions.md) — Sunzi-style no-retreat tactics work only when intelligence, enemy-choice confirmation, terrain, morale, route pressure, and surprise have made forced commitment usable.
+- [Returning Army Interdiction Risk / 归师勿遏式追击风险](concepts/ReturningArmyInterdictionRisk.md) — Hanji 1023 pursuit-risk concept where blocking a returning or retreating force can create death-ground resolve and ambush danger unless commander position and rear-guard timing have changed.
 - [Moralized Anti-Deception Command / 道德化拒诈指挥](concepts/MoralizedAntiDeceptionCommand.md) — Chen Yu's Jingxing failure mode where righteous-army language rejects a practical supply-line stratagem and preserves face over position.
 - [River Crossing Deception / 渡河欺敌](concepts/RiverCrossingDeception.md) — Han Xin's West Wei tactic: visible crossing preparations at Linjin/Puban hide the real Xiayang crossing and Anyi strike.
 - [Power-Backed Grain Hoarding / 权力保护下的乱世囤粮](concepts/PowerBackedGrainHoarding.md) — Source-scoped pattern where grain foresight pays off only if stores and sellers are protected during violent scarcity.
@@ -10174,7 +10177,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Encircling Wei to Rescue Zhao / 围魏救赵](concepts/EncirclingWeiToRescueZhao.md) — Strategy of relieving an ally by threatening what the aggressor must save instead of fighting at the obvious pressure point.
 - [Lu Wine Handan War Cascade / 鲁酒薄而邯郸围](concepts/LuWineHandanWarCascade.md) — Diplomatic-causal chain where a tribute insult, honor conflict, and strategic distraction widen into Wei's siege of Handan.
 - [Tian Ji Horse Racing / 田忌赛马](concepts/TianJiHorseRacing.md) — Resource-allocation pattern where one planned loss creates two decisive wins across the larger contest.
-- [Lure Enemy Out of Position / 诱敌离位](concepts/LureEnemyOutOfPosition.md) — Tactic of drawing an enemy out of a safe formation, position, or base through bait, false weakness, incentives, or exposed targets.
+- [Lure Enemy Out of Position / 诱敌离位](concepts/LureEnemyOutOfPosition.md) — Tactic of drawing an enemy out of a safe formation, position, route, or base through bait, false weakness, incentives, exposed targets, or false escape.
 - [Treason Accusation Trap / 谋反指控陷阱](concepts/TreasonAccusationTrap.md) — Court-politics pattern where a planted suspicious event turns a rival's prestige into operational treason suspicion.
 - [Political Parable Weaponization / 寓言式政治挑拨](concepts/PoliticalParableWeaponization.md) — Court-rhetoric pattern where a true-sounding lesson is used to attack a rival.
 - [Chancellor-Centered Governance / 宰相中心治理](concepts/ChancellorCenteredGovernance.md) — Historiographical frame for treating chancellor notices, including Qin's first left/right chancellors, as crucial state-operation evidence.
