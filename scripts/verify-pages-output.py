@@ -24,6 +24,7 @@ class OnThisDayEpisode(TypedDict):
 
 ROOT = Path(__file__).resolve().parents[1]
 SHOW_PROFILES_PATH = ROOT / "data" / "show_profiles.json"
+KNOWLEDGE_SIGNALS_PATH = ROOT / "data" / "wiki_knowledge_signals.json"
 
 
 REQUIRED_FILES = (
@@ -1464,6 +1465,138 @@ def validate_pagefind_output(public_dir: Path, errors: list[str]) -> None:
         errors.append("legacy raw tag URL found in Pagefind result fragments")
 
 
+def html_attribute(tag: str, name: str) -> str | None:
+    match = re.search(
+        rf"\b{re.escape(name)}\s*=\s*(?:\"([^\"]*)\"|'([^']*)'|([^\s>]+))",
+        tag,
+        re.IGNORECASE,
+    )
+    if match is None:
+        return None
+    return next(value for value in match.groups() if value is not None)
+
+
+def html_tag_with_class(markup: str, tag_name: str, class_name: str) -> re.Match[str] | None:
+    for match in re.finditer(rf"<{tag_name}\b[^>]*>", markup, re.IGNORECASE):
+        classes = html_attribute(match.group(0), "class")
+        if classes and class_name in classes.split():
+            return match
+    return None
+
+
+def validate_knowledge_pages(public_dir: Path, payload: dict, errors: list[str]) -> None:
+    """Verify every synthesis-v1 page renders exact derived coverage and sources."""
+    if not isinstance(payload, dict) or payload.get("version") != 1:
+        errors.append("invalid generated Wiki knowledge signal projection")
+        return
+    pages = payload.get("pages")
+    if not isinstance(pages, dict):
+        errors.append("invalid generated Wiki knowledge signal projection")
+        return
+
+    for key, record in sorted(pages.items()):
+        if not isinstance(record, dict):
+            errors.append(f"invalid structured Wiki page projection: {key}")
+            continue
+        url = record.get("url")
+        sources = record.get("sources")
+        if not isinstance(url, str) or not isinstance(sources, list):
+            errors.append(f"invalid structured Wiki page projection: {key}")
+            continue
+        page_path = public_dir / urlsplit(url).path.strip("/") / "index.html"
+        if not page_path.is_file():
+            errors.append(f"missing structured Wiki page: {key}")
+            continue
+        page_html = page_path.read_text(encoding="utf-8")
+        signal_match = html_tag_with_class(
+            page_html, "p", "wiki-knowledge-signals"
+        )
+        if signal_match is None:
+            errors.append(f"structured Wiki page {key} is missing coverage signals")
+            continue
+        signal_tag = signal_match.group(0)
+        expected_attributes = {
+            "data-knowledge-schema": "synthesis-v1",
+            "data-episode-count": str(record.get("episode_count")),
+            "data-show-count": str(record.get("show_count")),
+            "data-source-count": str(record.get("source_note_count")),
+        }
+        for attribute, expected in expected_attributes.items():
+            if html_attribute(signal_tag, attribute) != expected:
+                errors.append(
+                    f"structured Wiki page {key} {attribute} mismatch"
+                )
+        updated = record.get("updated")
+        time_match = re.search(r"<time\b[^>]*>", page_html, re.IGNORECASE)
+        if (
+            not isinstance(updated, str)
+            or time_match is None
+            or html_attribute(time_match.group(0), "datetime") != updated
+        ):
+            errors.append(f"structured Wiki page {key} update date mismatch")
+
+        source_open = html_tag_with_class(
+            page_html, "section", "wiki-knowledge-sources"
+        )
+        if source_open is None:
+            errors.append(f"structured Wiki page {key} is missing Sources section")
+            continue
+        source_close = re.search(
+            r"</section\s*>", page_html[source_open.end():], re.IGNORECASE
+        )
+        if source_close is None:
+            errors.append(f"structured Wiki page {key} is missing Sources section")
+            continue
+        source_html = page_html[
+            source_open.end():source_open.end() + source_close.start()
+        ]
+        rendered_keys = [
+            value
+            for match in re.finditer(r"<li\b[^>]*>", source_html, re.IGNORECASE)
+            if (value := html_attribute(match.group(0), "data-source-key")) is not None
+        ]
+        expected_keys = [
+            source.get("key") for source in sources if isinstance(source, dict)
+        ]
+        if rendered_keys != expected_keys:
+            errors.append(f"structured Wiki page {key} source inventory is incomplete")
+            continue
+        for source in sources:
+            source_key = source.get("key")
+            source_url = source.get("url")
+            if not isinstance(source_key, str) or not isinstance(source_url, str):
+                errors.append(f"invalid structured Wiki source projection: {key}")
+                continue
+            item_match = next(
+                (
+                    match
+                    for match in re.finditer(
+                        r"<li\b[^>]*>.*?</li\s*>",
+                        source_html,
+                        re.IGNORECASE | re.DOTALL,
+                    )
+                    if html_attribute(
+                        match.group(0).split(">", 1)[0] + ">",
+                        "data-source-key",
+                    ) == source_key
+                ),
+                None,
+            )
+            href_match = (
+                re.search(r"<a\b[^>]*>", item_match.group(0), re.IGNORECASE)
+                if item_match
+                else None
+            )
+            href_value = (
+                html_attribute(href_match.group(0), "href") if href_match else None
+            )
+            href_path = urlsplit(html.unescape(href_value)).path if href_value else ""
+            if not href_path.endswith(urlsplit(source_url).path):
+                errors.append(
+                    f"structured Wiki page {key} source link mismatch: {source_key}"
+                )
+
+
 def validate(public_dir: Path) -> dict:
     public_dir = public_dir.resolve()
     files = [path for path in public_dir.rglob("*") if path.is_file()]
@@ -1506,6 +1639,12 @@ def validate(public_dir: Path) -> dict:
         errors.append(f"invalid generated show profile projection: {error}")
     else:
         validate_show_profiles(public_dir, show_profiles, errors)
+    try:
+        knowledge_signals = json.loads(KNOWLEDGE_SIGNALS_PATH.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError) as error:
+        errors.append(f"invalid generated Wiki knowledge signal projection: {error}")
+    else:
+        validate_knowledge_pages(public_dir, knowledge_signals, errors)
 
     homepage = public_dir / "index.html"
     homepage_canonical = None

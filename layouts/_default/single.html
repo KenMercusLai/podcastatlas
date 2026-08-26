@@ -5,8 +5,20 @@
     {{ else }}
       <article>
     {{ end }}
+      {{ $knowledgeSignal := false }}
+      {{ if eq .Params.knowledge_schema "synthesis-v1" }}
+        {{ $knowledgeSignal = index hugo.Data.wiki_knowledge_signals.pages .File.BaseFileName }}
+        {{ if not $knowledgeSignal }}
+          {{ errorf "missing synthesis-v1 knowledge signals for %s" .File.Path }}
+        {{ end }}
+      {{ end }}
       {{ if not (findRE `(?m)^#\s+` .RawContent 1) }}
         <h1>{{ .Title }}</h1>
+      {{ end }}
+      {{ with $knowledgeSignal }}
+        <p class="wiki-knowledge-signals" data-knowledge-schema="synthesis-v1" data-episode-count="{{ .episode_count }}" data-show-count="{{ .show_count }}" data-source-count="{{ .source_note_count }}">
+          Updated <time datetime="{{ .updated }}">{{ .updated }}</time> · {{ lang.FormatNumber 0 .episode_count }} episodes · {{ lang.FormatNumber 0 .show_count }} {{ if eq (int .show_count) 1 }}show{{ else }}shows{{ end }} · {{ lang.FormatNumber 0 .source_note_count }} source notes
+        </p>
       {{ end }}
       {{ if .Params.synthesis_source }}
         {{ with .Params.last_updated }}
@@ -27,7 +39,9 @@
           {{ partial "wiki-source-original-audio-link.html" . }}
         {{ else }}
           {{ with .Params.type }}<span>{{ . }}</span>{{ end }}
-          {{ with .Params.last_updated }}<span>Updated {{ time.Format "2006-01-02" . }}</span>{{ end }}
+          {{ if not $knowledgeSignal }}
+            {{ with .Params.last_updated }}<span>Updated {{ time.Format "2006-01-02" . }}</span>{{ end }}
+          {{ end }}
         {{ end }}
         {{ $topicMembership := index hugo.Data.wiki_topic_membership .File.BaseFileName }}
         {{ with $topicMembership }}
@@ -39,6 +53,9 @@
       <div class="content">
         {{ partial "wiki-content.html" . }}
       </div>
+      {{ with $knowledgeSignal }}
+        {{ partial "wiki-knowledge-sources.html" . }}
+      {{ end }}
     </article>
   {{ else if eq .Section "episodes" }}
     {{ $episodePresentation := partial "episode-presentation.html" . }}
