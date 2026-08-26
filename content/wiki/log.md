@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-26] ingest | Episode 19: 赵丽娜：在场比赢重要；门将的信心、直觉与热爱
+
+Added source page for a Fuyou Tiandi episode with Zhao Lina on football as atmosphere and participation, childhood entry into formal football training, national-team visibility, goalkeeper confidence and intuition, penalty preparation, embodied training against fear, youth football public access, women football visibility, and post-retirement identity through podcasting and charity. Created Zhao Lina, 《上下半场》, China Women's National Football Team, FIFA Women's World Cup, Sports Participation Over Winning, Goalkeeper Embodied Judgment, Embodied Training Against Fear, Youth Football Public Access, Women's Football Visibility, and Athlete Post-Retirement Identity; updated Fuyou Tiandi, index, and overview. No settled contradiction found; the source qualifies sports-business and fandom material by emphasizing bodily presence, gendered subjectivity, and transition after competitive sport.
+
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》895丨血腥屠刀下的骨肉情深
 
 Added source page for Hanji 895: Zhang Jian's 169 CE party-prohibition flight, Kong Rong hiding him in Kong Bao's household, the Kong-family responsibility contest that ends with Kong Bao's execution, Xia Fu's critique of collateral flight, Du Gen's non-implicating concealment, and Tan Sitong's later poetic allusion. Created Zhang Jian, Kong Bao, Kong Rong's mother, Xia Fu, Du Gen, Tan Sitong, Fugitive Shelter Collateral Risk, and Wangmen Touzhi pages; migrated Kong Rong and Loyalty-Collateral Dilemma to synthesis-v1; updated Crisis Withdrawal Self-Protection. No settled contradiction found; raw transcript variants 张简, 孔包, and 下父 are normalized to 张俭, 孔褒, and 夏馥 while kept source-scoped.
@@ -12089,6 +12093,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》1036丨刘表为何要逼韩嵩见曹操？
 
 Added source page for Hanji 1036: Liu Biao's unresolved neutrality between Yuan Shao and Cao Cao, Han Song and Liu Xian's warning that non-alignment can anger both sides, and Han Song's pre-mission explanation that court appointment would reorder his formal loyalty if Liu Biao remained undecided. Created Liu Xian (late Han), updated Han Song (late Han), Liu Biao, Court Legitimacy Over Patron Loyalty, Suspicion-Driven Elite Alienation, and migrated Fence-Sitting Strategic Exposure to synthesis-v1. No settled contradiction found; Hanji 1036 qualifies Hanji 1037 by showing Han Song warned Liu Biao before the Xudu mission.
+
+## [2026-08-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-26] lint | Wiki health check
 

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 7768
+wiki_total_pages: 7772
 wiki_pages:
   - key: "FortyThreeTalks"
     title: "43talks"
@@ -191,6 +191,9 @@ wiki_pages:
   - key: "FIFA"
     title: "FIFA"
     url: "/wiki/entities/fifa/"
+  - key: "FIFAWomensWorldCup"
+    title: "FIFA Women's World Cup"
+    url: "/wiki/entities/fifawomensworldcup/"
   - key: "FIFAWorldCup"
     title: "FIFA World Cup"
     url: "/wiki/entities/fifaworldcup/"

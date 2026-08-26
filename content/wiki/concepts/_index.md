@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 5560
+wiki_total_pages: 5566
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1649,6 +1649,9 @@ wiki_pages:
   - key: "AthleteDataPrivacyGovernance"
     title: "Athlete Data Privacy Governance"
     url: "/wiki/concepts/athletedataprivacygovernance/"
+  - key: "AthletePostRetirementIdentity"
+    title: "Athlete Post-Retirement Identity / 退役运动员身份转换"
+    url: "/wiki/concepts/athletepostretirementidentity/"
   - key: "AthleteSponsorshipStrategy"
     title: "Athlete Sponsorship Strategy"
     url: "/wiki/concepts/athletesponsorshipstrategy/"

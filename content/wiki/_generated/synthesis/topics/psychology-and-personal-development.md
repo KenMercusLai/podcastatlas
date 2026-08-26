@@ -4,8 +4,8 @@ generated: true
 topic_id: psychology-and-personal-development
 title: "Psychology and Personal Development"
 last_updated: 2026-08-26
-as_of_overview_commit: 4b35054f03dc48c7ce9bd7a17814ce872937b75c
-input_digest: 0cb9bea0eacb8c59e9e96144dfc5784f818e6d9ea857c631d50fd9b1079e9935
+as_of_overview_commit: ebd7eb938663ce445dfcc1c0b703f9ba04d98bdd
+input_digest: dbb83d7eb9b73aca919e81b7d9e993e49a88f60c2c12c9f23a2f0ea3d4992648
 ---
 
 # Psychology and Personal Development
@@ -15,6 +15,18 @@ input_digest: 0cb9bea0eacb8c59e9e96144dfc5784f818e6d9ea857c631d50fd9b1079e9935
 Hanji 1040 adds latent rival recognition and crisis composure: Cao Cao reads Liu Bei's ambition, reputation, resilience, and composure as future-threat signals, while Liu Bei survives the "天下英雄" moment through a plausible cover story; the same source turns release of a protected guest into dangerous guest release risk when operational freedom lets Liu Bei recover Xuzhou. Hanji 901 adds impatience control to the personal-development branch: the episode frames 急性子 as anxiety, compulsion, rigid thinking, result fixation, and self-importance, then offers a small reaction interval through the count-to-three pause and Kafka example. Hanji 902 adds strategic emotion concealment to the personal-development branch: the episode treats uncontrolled display as a survival risk and uses Liu Meng, Zhang Huan, Duan Jiong, and Su Buwei to distinguish timing and self-command from moral endorsement of every tactic. Hanji 1029 adds character-reading delegation to the psychology branch: Sun Ce trusts Taishi Ci's promise, and that trust becomes useful only when Taishi Ci returns with concrete Yuzhang intelligence; the same source's windfall opening treats sudden wealth as a test of restraint, boundaries, and self-knowledge. Data Science With Sam EP47 keeps AI assistance under human judgment and verification, and EP278 extends that boundary into student formation by treating non-algorithmic capabilities, human agency, connection, and pacing as safeguards against becoming tool-like. April 13 Marketplace Tech shows that perceived authorship can affect trust in emotionally meaningful work. Hanji 930 reframes greed and resentment as prompts to build exchangeable capability, and Hanji 962, Hanji 970, and Hanji 999 show relationship trust becoming condition-dependent under violence, assassination risk, grain, protection, and family-safety pressure. Hanji 997 adds emotional attachment as a judgment-risk case, Hanji 1012 shows private desire breaking fragile surrender trust, and Hanji 1015 frames ambition as dangerous when title, timing, recognition, and capacity do not match. The market and workplace paragraphs add the same calibration problem in newer settings: Unitree enthusiasm needs commercial self-checks, investing needs stop-loss and position-sizing discipline, workplace relationships need explicit boundaries, agent automation needs permission limits and human verification, middle-class consumption needs identity-cost discipline, and organizational trust can become both asset and liability. Episode 692 adds a collective-judgment case: confessional trauma memory, Campion's charisma, and the pastoral-versus-subversion ambiguity show how sincere mission can become threatening when identity, legitimacy, and security fear are already coupled. The Andy Stalman episode adds a human-centered AI and meaning branch: angelic intelligence, human value beyond efficiency, and AI-as-mirror framing treat technology as an amplifier that needs purpose, beauty, connection, and judgment rather than pure productivity.
 
 ## Cross-source Findings
+
+### Embodied Participation Builds Confidence
+
+[[zhao-lina-zaichang-bi-ying-zhongyao-menjiang-de-xinxin-zhijue-yu-reai-229fde7d-d39d-4f7c-a33d-607f5370fc60]] adds an embodied-confidence case: [[ZhaoLina]] frames [[SportsParticipationOverWinning]] as a route into selfhood, while [[GoalkeeperEmbodiedJudgment]], [[EmbodiedTrainingAgainstFear]], coach trust, penalty preparation, and post-retirement narration through [[ShangXiaBanchang]] show confidence being trained through action rather than abstract self-belief.
+
+**Evidence:** [[zhao-lina-zaichang-bi-ying-zhongyao-menjiang-de-xinxin-zhijue-yu-reai-229fde7d-d39d-4f7c-a33d-607f5370fc60]], [[ZhaoLina]], [[SportsParticipationOverWinning]], [[GoalkeeperEmbodiedJudgment]], [[EmbodiedTrainingAgainstFear]], [[ShangXiaBanchang]], [[YouthFootballPublicAccess]], [[AthletePostRetirementIdentity]], [[WomensFootballVisibility]], [[ActionAgainstAnxiety]], [[SubjectivityThroughFailure]], [[FuyouTiandi]]
+
+**Qualifications:**
+
+- This claim is source-scoped to the Zhao Lina interview and should not be generalized into a complete theory of sports psychology.
+- The source links confidence to elite training, coach trust, public competition, and post-retirement narration; ordinary participation will not reproduce those conditions automatically.
+- The claim qualifies winning-centered sports and fandom material without denying that professional football remains structured by selection, pressure, and results.
 
 ### Impatience Pause Interrupts Self Importance
 

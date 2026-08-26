@@ -737,6 +737,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/armedfollowerintegrationcost/"
     },
+    "AthletePostRetirementIdentity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "赵丽娜：在场比赢重要；门将的信心、直觉与热爱 [229fde7d-d39d-4f7c-a33d-607f5370fc60].md",
+          "key": "zhao-lina-zaichang-bi-ying-zhongyao-menjiang-de-xinxin-zhijue-yu-reai-229fde7d-d39d-4f7c-a33d-607f5370fc60",
+          "show": "蜉蝣天地 Meanders",
+          "title": "Episode 19: 赵丽娜：在场比赢重要；门将的信心、直觉与热爱",
+          "url": "/wiki/sources/zhao-lina-zaichang-bi-ying-zhongyao-menjiang-de-xinxin-zhijue-yu-reai-229fde7d-d39d-4f7c-a33d-607f5370fc60/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/athletepostretirementidentity/"
+    },
     "AtlasRobot": {
       "episode_count": 1,
       "show_count": 1,
@@ -970,6 +986,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/chenshilatehan/"
+    },
+    "ChinaWomensNationalFootballTeam": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "赵丽娜：在场比赢重要；门将的信心、直觉与热爱 [229fde7d-d39d-4f7c-a33d-607f5370fc60].md",
+          "key": "zhao-lina-zaichang-bi-ying-zhongyao-menjiang-de-xinxin-zhijue-yu-reai-229fde7d-d39d-4f7c-a33d-607f5370fc60",
+          "show": "蜉蝣天地 Meanders",
+          "title": "Episode 19: 赵丽娜：在场比赢重要；门将的信心、直觉与热爱",
+          "url": "/wiki/sources/zhao-lina-zaichang-bi-ying-zhongyao-menjiang-de-xinxin-zhijue-yu-reai-229fde7d-d39d-4f7c-a33d-607f5370fc60/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/chinawomensnationalfootballteam/"
     },
     "ChineseStyleFDE": {
       "episode_count": 5,
@@ -1302,6 +1334,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/embodieddatapyramid/"
     },
+    "EmbodiedTrainingAgainstFear": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "赵丽娜：在场比赢重要；门将的信心、直觉与热爱 [229fde7d-d39d-4f7c-a33d-607f5370fc60].md",
+          "key": "zhao-lina-zaichang-bi-ying-zhongyao-menjiang-de-xinxin-zhijue-yu-reai-229fde7d-d39d-4f7c-a33d-607f5370fc60",
+          "show": "蜉蝣天地 Meanders",
+          "title": "Episode 19: 赵丽娜：在场比赢重要；门将的信心、直觉与热爱",
+          "url": "/wiki/sources/zhao-lina-zaichang-bi-ying-zhongyao-menjiang-de-xinxin-zhijue-yu-reai-229fde7d-d39d-4f7c-a33d-607f5370fc60/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/embodiedtrainingagainstfear/"
+    },
     "EvolutionaryMisrecognition": {
       "episode_count": 1,
       "show_count": 1,
@@ -1317,6 +1365,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/evolutionarymisrecognition/"
+    },
+    "FIFAWomensWorldCup": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "赵丽娜：在场比赢重要；门将的信心、直觉与热爱 [229fde7d-d39d-4f7c-a33d-607f5370fc60].md",
+          "key": "zhao-lina-zaichang-bi-ying-zhongyao-menjiang-de-xinxin-zhijue-yu-reai-229fde7d-d39d-4f7c-a33d-607f5370fc60",
+          "show": "蜉蝣天地 Meanders",
+          "title": "Episode 19: 赵丽娜：在场比赢重要；门将的信心、直觉与热爱",
+          "url": "/wiki/sources/zhao-lina-zaichang-bi-ying-zhongyao-menjiang-de-xinxin-zhijue-yu-reai-229fde7d-d39d-4f7c-a33d-607f5370fc60/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/fifawomensworldcup/"
     },
     "FatherGaoNortheastMission": {
       "episode_count": 1,
@@ -1531,9 +1595,9 @@
       "url": "/wiki/concepts/fugitivesheltercollateralrisk/"
     },
     "FuyouTiandi": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "汉洋：挖坑、媒介枷锁、好内容、对谈、为什么做蜉蝣天地 [59b766f5-ee1d-4040-a650-a96b7b4b70d5].md",
@@ -1562,6 +1626,13 @@
           "show": "蜉蝣天地 Meanders",
           "title": "Episode 20: 100 年前东北女孩写给巴黎的信｜对谈历史学者李纪：普通人如何穿过大历史？",
           "url": "/wiki/sources/100-nian-qian-dongbei-nvhai-xie-gei-bali-de-xin-duitan-lishixuezhe-liji-putongren-ruhe-chuanguo-da-lishi-3d36f181-94ad-4883-8db3-5f040b5ed45b/"
+        },
+        {
+          "episode_file": "赵丽娜：在场比赢重要；门将的信心、直觉与热爱 [229fde7d-d39d-4f7c-a33d-607f5370fc60].md",
+          "key": "zhao-lina-zaichang-bi-ying-zhongyao-menjiang-de-xinxin-zhijue-yu-reai-229fde7d-d39d-4f7c-a33d-607f5370fc60",
+          "show": "蜉蝣天地 Meanders",
+          "title": "Episode 19: 赵丽娜：在场比赢重要；门将的信心、直觉与热爱",
+          "url": "/wiki/sources/zhao-lina-zaichang-bi-ying-zhongyao-menjiang-de-xinxin-zhijue-yu-reai-229fde7d-d39d-4f7c-a33d-607f5370fc60/"
         }
       ],
       "updated": "2026-08-26",
@@ -1712,6 +1783,22 @@
       ],
       "updated": "2026-08-24",
       "url": "/wiki/concepts/globalproductlocalization/"
+    },
+    "GoalkeeperEmbodiedJudgment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "赵丽娜：在场比赢重要；门将的信心、直觉与热爱 [229fde7d-d39d-4f7c-a33d-607f5370fc60].md",
+          "key": "zhao-lina-zaichang-bi-ying-zhongyao-menjiang-de-xinxin-zhijue-yu-reai-229fde7d-d39d-4f7c-a33d-607f5370fc60",
+          "show": "蜉蝣天地 Meanders",
+          "title": "Episode 19: 赵丽娜：在场比赢重要；门将的信心、直觉与热爱",
+          "url": "/wiki/sources/zhao-lina-zaichang-bi-ying-zhongyao-menjiang-de-xinxin-zhijue-yu-reai-229fde7d-d39d-4f7c-a33d-607f5370fc60/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/goalkeeperembodiedjudgment/"
     },
     "GongsunXuLateHan": {
       "episode_count": 2,
@@ -4258,6 +4345,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/santaizicatholicvillage/"
     },
+    "ShangXiaBanchang": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "赵丽娜：在场比赢重要；门将的信心、直觉与热爱 [229fde7d-d39d-4f7c-a33d-607f5370fc60].md",
+          "key": "zhao-lina-zaichang-bi-ying-zhongyao-menjiang-de-xinxin-zhijue-yu-reai-229fde7d-d39d-4f7c-a33d-607f5370fc60",
+          "show": "蜉蝣天地 Meanders",
+          "title": "Episode 19: 赵丽娜：在场比赢重要；门将的信心、直觉与热爱",
+          "url": "/wiki/sources/zhao-lina-zaichang-bi-ying-zhongyao-menjiang-de-xinxin-zhijue-yu-reai-229fde7d-d39d-4f7c-a33d-607f5370fc60/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/shangxiabanchang/"
+    },
     "ShekharNatarajan": {
       "episode_count": 1,
       "show_count": 1,
@@ -4358,6 +4461,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/southernocean/"
+    },
+    "SportsParticipationOverWinning": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "赵丽娜：在场比赢重要；门将的信心、直觉与热爱 [229fde7d-d39d-4f7c-a33d-607f5370fc60].md",
+          "key": "zhao-lina-zaichang-bi-ying-zhongyao-menjiang-de-xinxin-zhijue-yu-reai-229fde7d-d39d-4f7c-a33d-607f5370fc60",
+          "show": "蜉蝣天地 Meanders",
+          "title": "Episode 19: 赵丽娜：在场比赢重要；门将的信心、直觉与热爱",
+          "url": "/wiki/sources/zhao-lina-zaichang-bi-ying-zhongyao-menjiang-de-xinxin-zhijue-yu-reai-229fde7d-d39d-4f7c-a33d-607f5370fc60/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/sportsparticipationoverwinning/"
     },
     "SpotRobot": {
       "episode_count": 1,
@@ -5021,6 +5140,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/wholecompanybranding/"
     },
+    "WomensFootballVisibility": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "赵丽娜：在场比赢重要；门将的信心、直觉与热爱 [229fde7d-d39d-4f7c-a33d-607f5370fc60].md",
+          "key": "zhao-lina-zaichang-bi-ying-zhongyao-menjiang-de-xinxin-zhijue-yu-reai-229fde7d-d39d-4f7c-a33d-607f5370fc60",
+          "show": "蜉蝣天地 Meanders",
+          "title": "Episode 19: 赵丽娜：在场比赢重要；门将的信心、直觉与热爱",
+          "url": "/wiki/sources/zhao-lina-zaichang-bi-ying-zhongyao-menjiang-de-xinxin-zhijue-yu-reai-229fde7d-d39d-4f7c-a33d-607f5370fc60/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/womensfootballvisibility/"
+    },
     "WuLaoshiSanlianEditor": {
       "episode_count": 1,
       "show_count": 1,
@@ -5244,6 +5379,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/yijingfortress/"
     },
+    "YouthFootballPublicAccess": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "赵丽娜：在场比赢重要；门将的信心、直觉与热爱 [229fde7d-d39d-4f7c-a33d-607f5370fc60].md",
+          "key": "zhao-lina-zaichang-bi-ying-zhongyao-menjiang-de-xinxin-zhijue-yu-reai-229fde7d-d39d-4f7c-a33d-607f5370fc60",
+          "show": "蜉蝣天地 Meanders",
+          "title": "Episode 19: 赵丽娜：在场比赢重要；门将的信心、直觉与热爱",
+          "url": "/wiki/sources/zhao-lina-zaichang-bi-ying-zhongyao-menjiang-de-xinxin-zhijue-yu-reai-229fde7d-d39d-4f7c-a33d-607f5370fc60/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/youthfootballpublicaccess/"
+    },
     "YuFan": {
       "episode_count": 3,
       "show_count": 1,
@@ -5351,6 +5502,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/zhangjianlatehan/"
+    },
+    "ZhaoLina": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "赵丽娜：在场比赢重要；门将的信心、直觉与热爱 [229fde7d-d39d-4f7c-a33d-607f5370fc60].md",
+          "key": "zhao-lina-zaichang-bi-ying-zhongyao-menjiang-de-xinxin-zhijue-yu-reai-229fde7d-d39d-4f7c-a33d-607f5370fc60",
+          "show": "蜉蝣天地 Meanders",
+          "title": "Episode 19: 赵丽娜：在场比赢重要；门将的信心、直觉与热爱",
+          "url": "/wiki/sources/zhao-lina-zaichang-bi-ying-zhongyao-menjiang-de-xinxin-zhijue-yu-reai-229fde7d-d39d-4f7c-a33d-607f5370fc60/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/entities/zhaolina/"
     },
     "ZhengBaoLateHan": {
       "episode_count": 1,

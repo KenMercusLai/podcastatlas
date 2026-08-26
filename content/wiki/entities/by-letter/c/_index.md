@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 7768
+wiki_total_pages: 7772
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -1196,6 +1196,9 @@ wiki_pages:
   - key: "ChinaCommunicationUniversity"
     title: "中国传媒大学 / Communication University of China"
     url: "/wiki/entities/chinacommunicationuniversity/"
+  - key: "ChinaWomensNationalFootballTeam"
+    title: "中国女足 / China Women's National Football Team"
+    url: "/wiki/entities/chinawomensnationalfootballteam/"
   - key: "ChinaSpallationNeutronSource"
     title: "中国散裂中子源 / China Spallation Neutron Source"
     url: "/wiki/entities/chinaspallationneutronsource/"

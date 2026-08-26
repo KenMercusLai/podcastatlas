@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "04576f804c02d279ab9de8acef1fbad90ddad801be39c854e0694d24fa1fe010",
       "19c611dfbbb92ca577ecdd3de8dcb299e3594783b3ac7731e0e81164d2e63156",
       "9baf78d4abc4af870b525c5c520883b9316ef81d3d2def71b4576c647430b61f",
       "e2dbcfd86d4d842870971df2023efea40b445cb17f22433f137edc058c21d53d",
@@ -257,11 +258,45 @@
       "b16a38bd6e190222f7f3e6f0535803ce60ae7f3304e3477dfcdd995a15fb502f",
       "32b62a0e1fc3144c5e7770721fc745607afef0d0cf46a8fe94d35cab377dbbf9"
     ],
-    "paragraph_count": 255
+    "paragraph_count": 256
   },
-  "overview_commit": "4b35054f03dc48c7ce9bd7a17814ce872937b75c",
-  "overview_digest": "01252eafd0ac3bfa6120b4a339b58c5e95e7a9d4571d24dedd90bc6dc5a77849",
+  "overview_commit": "ebd7eb938663ce445dfcc1c0b703f9ba04d98bdd",
+  "overview_digest": "d21bbb7fe140761b2331c53230ed54e719fc08341ea6d3324568dd1d9d92f84f",
   "paragraphs": [
+    {
+      "id": "04576f804c02d279ab9de8acef1fbad90ddad801be39c854e0694d24fa1fe010",
+      "primary_topic": "psychology-and-personal-development",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[zhao-lina-zaichang-bi-ying-zhongyao-menjiang-de-xinxin-zhijue-yu-reai-229fde7d-d39d-4f7c-a33d-607f5370fc60]], a [[FuyouTiandi]] episode with [[ZhaoLina|赵丽娜]] on football atmosphere, goalkeeper confidence, youth access, women football visibility, and post-retirement identity. It adds [[ZhaoLina]], [[ShangXiaBanchang|《上下半场》]], [[ChinaWomensNationalFootballTeam|中国女足]], [[FIFAWomensWorldCup|FIFA Women's World Cup]], [[SportsParticipationOverWinning|上场比赢重要]], [[YouthFootballPublicAccess|儿童足球公共可及性]], [[GoalkeeperEmbodiedJudgment|门将身体化判断]], [[EmbodiedTrainingAgainstFear|反本能身体训练]], [[AthletePostRetirementIdentity|退役运动员身份转换]], and [[WomensFootballVisibility|女足主体性可见度]], while extending [[SportsFandomNetworkEffects]], [[SportsLifestyleConsumption]], [[PenaltyShootoutStrategy]], [[DataDrivenPenaltyPreparation]], [[ActionAgainstAnxiety]], [[SubjectivityThroughFailure]], [[FuyouTiandi]], and [[HanYang]]. Its core synthesis is that football's meaning is not exhausted by tactical expertise or winning: live presence, children's ordinary access, goalkeeper body training, coach trust, and athlete-controlled narration all make participation a route into confidence and selfhood. No settled contradiction is recorded; the source qualifies sports-business and fandom material by keeping bodily presence, gendered subjectivity, and retirement transition in view.",
+      "topic_scores": {
+        "business-and-markets": 1,
+        "history-and-geopolitics": 2,
+        "psychology-and-personal-development": 3
+      },
+      "wikilinks": [
+        "ActionAgainstAnxiety",
+        "AthletePostRetirementIdentity",
+        "ChinaWomensNationalFootballTeam",
+        "DataDrivenPenaltyPreparation",
+        "EmbodiedTrainingAgainstFear",
+        "FIFAWomensWorldCup",
+        "FuyouTiandi",
+        "GoalkeeperEmbodiedJudgment",
+        "HanYang",
+        "PenaltyShootoutStrategy",
+        "ShangXiaBanchang",
+        "SportsFandomNetworkEffects",
+        "SportsLifestyleConsumption",
+        "SportsParticipationOverWinning",
+        "SubjectivityThroughFailure",
+        "WomensFootballVisibility",
+        "YouthFootballPublicAccess",
+        "ZhaoLina",
+        "zhao-lina-zaichang-bi-ying-zhongyao-menjiang-de-xinxin-zhijue-yu-reai-229fde7d-d39d-4f7c-a33d-607f5370fc60"
+      ]
+    },
     {
       "id": "19c611dfbbb92ca577ecdd3de8dcb299e3594783b3ac7731e0e81164d2e63156",
       "primary_topic": "governance-and-institutions",

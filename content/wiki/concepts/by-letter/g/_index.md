@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 5560
+wiki_total_pages: 5566
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -203,6 +203,9 @@ wiki_pages:
   - key: "GoalBasedClientProfiling"
     title: "Goal-Based Client Profiling / 目标导向客户画像"
     url: "/wiki/concepts/goalbasedclientprofiling/"
+  - key: "GoalkeeperEmbodiedJudgment"
+    title: "Goalkeeper Embodied Judgment / 门将身体化判断"
+    url: "/wiki/concepts/goalkeeperembodiedjudgment/"
   - key: "GoldAsCurrencySpareTire"
     title: "Gold As Currency Spare Tire / 黄金备胎"
     url: "/wiki/concepts/goldascurrencysparetire/"

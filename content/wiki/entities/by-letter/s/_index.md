@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 7768
+wiki_total_pages: 7772
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1295,6 +1295,9 @@ wiki_pages:
   - key: "SangengBanyeJuranYaoChiXiangjiao"
     title: "《三更半夜居然要吃香蕉》"
     url: "/wiki/entities/sangengbanyejuranyaochixiangjiao/"
+  - key: "ShangXiaBanchang"
+    title: "《上下半场》 / Shang Xia Banchang"
+    url: "/wiki/entities/shangxiabanchang/"
   - key: "ShangShumiHanTaiweiShu"
     title: "《上枢密韩太尉书》"
     url: "/wiki/entities/shangshumihantaiweishu/"

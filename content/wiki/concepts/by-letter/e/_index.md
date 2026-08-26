@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 5560
+wiki_total_pages: 5566
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -248,6 +248,9 @@ wiki_pages:
   - key: "EmbodiedTaste"
     title: "Embodied Taste"
     url: "/wiki/concepts/embodiedtaste/"
+  - key: "EmbodiedTrainingAgainstFear"
+    title: "Embodied Training Against Fear / 反本能身体训练"
+    url: "/wiki/concepts/embodiedtrainingagainstfear/"
   - key: "EmergencySuccessionLegitimation"
     title: "Emergency Succession Legitimation / 临终就近立储"
     url: "/wiki/concepts/emergencysuccessionlegitimation/"

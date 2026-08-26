@@ -5119,6 +5119,10 @@
     "title": "Athlete Data Privacy Governance",
     "url": "/wiki/concepts/athletedataprivacygovernance/"
   },
+  "AthletePostRetirementIdentity": {
+    "title": "Athlete Post-Retirement Identity / 退役运动员身份转换",
+    "url": "/wiki/concepts/athletepostretirementidentity/"
+  },
   "AthleteSponsorshipStrategy": {
     "title": "Athlete Sponsorship Strategy",
     "url": "/wiki/concepts/athletesponsorshipstrategy/"
@@ -9630,6 +9634,10 @@
   "ChinaWeightManagementPolicy": {
     "title": "China Weight-Management Policy / 中国体重管理政策",
     "url": "/wiki/concepts/chinaweightmanagementpolicy/"
+  },
+  "ChinaWomensNationalFootballTeam": {
+    "title": "中国女足 / China Women's National Football Team",
+    "url": "/wiki/entities/chinawomensnationalfootballteam/"
   },
   "ChinaYouthUnemployment": {
     "title": "China Youth Unemployment",
@@ -15167,6 +15175,10 @@
     "title": "Embodied Taste",
     "url": "/wiki/concepts/embodiedtaste/"
   },
+  "EmbodiedTrainingAgainstFear": {
+    "title": "Embodied Training Against Fear / 反本能身体训练",
+    "url": "/wiki/concepts/embodiedtrainingagainstfear/"
+  },
   "EmergencySuccessionLegitimation": {
     "title": "Emergency Succession Legitimation / 临终就近立储",
     "url": "/wiki/concepts/emergencysuccessionlegitimation/"
@@ -16138,6 +16150,10 @@
   "FIFA": {
     "title": "FIFA",
     "url": "/wiki/entities/fifa/"
+  },
+  "FIFAWomensWorldCup": {
+    "title": "FIFA Women's World Cup",
+    "url": "/wiki/entities/fifawomensworldcup/"
   },
   "FIFAWorldCup": {
     "title": "FIFA World Cup",
@@ -19382,6 +19398,10 @@
   "GoalBasedClientProfiling": {
     "title": "Goal-Based Client Profiling / 目标导向客户画像",
     "url": "/wiki/concepts/goalbasedclientprofiling/"
+  },
+  "GoalkeeperEmbodiedJudgment": {
+    "title": "Goalkeeper Embodied Judgment / 门将身体化判断",
+    "url": "/wiki/concepts/goalkeeperembodiedjudgment/"
   },
   "Gob": {
     "title": "Gob",
@@ -41939,6 +41959,10 @@
     "title": "商汤 / Shang Tang",
     "url": "/wiki/entities/shangtang/"
   },
+  "ShangXiaBanchang": {
+    "title": "《上下半场》 / Shang Xia Banchang",
+    "url": "/wiki/entities/shangxiabanchang/"
+  },
   "ShangYang": {
     "title": "Shang Yang / 商鞅",
     "url": "/wiki/entities/shangyang/"
@@ -43730,6 +43754,10 @@
   "SportsOfficiatingAutomation": {
     "title": "Sports Officiating Automation",
     "url": "/wiki/concepts/sportsofficiatingautomation/"
+  },
+  "SportsParticipationOverWinning": {
+    "title": "Sports Participation Over Winning / 上场比赢重要",
+    "url": "/wiki/concepts/sportsparticipationoverwinning/"
   },
   "SportsPlayerAutonomy": {
     "title": "Sports Player Autonomy",
@@ -50479,6 +50507,10 @@
     "title": "Women Workplace Progress Stall",
     "url": "/wiki/concepts/womenworkplaceprogressstall/"
   },
+  "WomensFootballVisibility": {
+    "title": "Women's Football Visibility / 女足主体性可见度",
+    "url": "/wiki/concepts/womensfootballvisibility/"
+  },
   "WomensHealthDiagnosticGap": {
     "title": "Women's Health Diagnostic Gap",
     "url": "/wiki/concepts/womenshealthdiagnosticgap/"
@@ -52591,6 +52623,10 @@
     "title": "Youth Football Development System",
     "url": "/wiki/concepts/youthfootballdevelopmentsystem/"
   },
+  "YouthFootballPublicAccess": {
+    "title": "Youth Football Public Access / 儿童足球公共可及性",
+    "url": "/wiki/concepts/youthfootballpublicaccess/"
+  },
   "YouthHappinessAfterGrowth": {
     "title": "Youth Happiness After Growth",
     "url": "/wiki/concepts/youthhappinessaftergrowth/"
@@ -53638,6 +53674,10 @@
   "ZhaoLiehou": {
     "title": "赵烈侯 / Marquis Lie of Zhao",
     "url": "/wiki/entities/zhaoliehou/"
+  },
+  "ZhaoLina": {
+    "title": "赵丽娜 / Zhao Lina",
+    "url": "/wiki/entities/zhaolina/"
   },
   "ZhaoLinger": {
     "title": "Zhao Ling'er / 赵灵儿",
@@ -57530,6 +57570,10 @@
   "yushu-shangshi-baozhang-dan-renxing-jiqiren-de-qian-daodi-cong-nali-zhuan-s10e26-4a50d4a3-a6ff-4c89-b754-367b73ce924b": {
     "title": "宇树上市暴涨，但人形机器人的钱到底从哪里赚？｜S10E26",
     "url": "/wiki/sources/yushu-shangshi-baozhang-dan-renxing-jiqiren-de-qian-daodi-cong-nali-zhuan-s10e26-4a50d4a3-a6ff-4c89-b754-367b73ce924b/"
+  },
+  "zhao-lina-zaichang-bi-ying-zhongyao-menjiang-de-xinxin-zhijue-yu-reai-229fde7d-d39d-4f7c-a33d-607f5370fc60": {
+    "title": "Episode 19: 赵丽娜：在场比赢重要；门将的信心、直觉与热爱",
+    "url": "/wiki/sources/zhao-lina-zaichang-bi-ying-zhongyao-menjiang-de-xinxin-zhijue-yu-reai-229fde7d-d39d-4f7c-a33d-607f5370fc60/"
   },
   "zhe-bannian-women-you-maile-naxie-keji-haowu-1": {
     "title": "这半年，我们又买了哪些科技好物？",

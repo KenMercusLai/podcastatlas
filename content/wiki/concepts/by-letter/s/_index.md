@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 5560
+wiki_total_pages: 5566
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -944,6 +944,9 @@ wiki_pages:
   - key: "SportsOfficiatingAutomation"
     title: "Sports Officiating Automation"
     url: "/wiki/concepts/sportsofficiatingautomation/"
+  - key: "SportsParticipationOverWinning"
+    title: "Sports Participation Over Winning / 上场比赢重要"
+    url: "/wiki/concepts/sportsparticipationoverwinning/"
   - key: "SportsPlayerAutonomy"
     title: "Sports Player Autonomy"
     url: "/wiki/concepts/sportsplayerautonomy/"

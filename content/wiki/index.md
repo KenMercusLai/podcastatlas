@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Episode 19: 赵丽娜：在场比赢重要；门将的信心、直觉与热爱](sources/zhao-lina-zaichang-bi-ying-zhongyao-menjiang-de-xinxin-zhijue-yu-reai-229fde7d-d39d-4f7c-a33d-607f5370fc60.md) — Fuyou Tiandi episode with Zhao Lina on football atmosphere, youth access, goalkeeper confidence and intuition, women football visibility, and post-retirement identity.
 - [How Modern Brands Build Loyalty, Purpose, and Identity | Andy Stalman | Shekhar Natarajan Podcast](sources/how-modern-brands-build-loyalty-purpose-and-identity-andy-stalman-shekhar-natarajan-podcast.md) — Tomorrow Today episode with Andy Stalman on whole-company branding, brand doing, actionable values, AI as a brand mirror, and brand value protection.
 - [《资治通鉴·汉纪》1036丨刘表为何要逼韩嵩见曹操？](sources/zizhi-tongjian-hanji-1036-liubiao-weihe-yao-bi-hansong-jian-caocao-lnifeizgoebis2gdovgmzg6dojaz.md) — 芮淇讲透资治通鉴 episode on Liu Biao's neutrality between Yuan Shao and Cao Cao, Han Song and Liu Xian's warning, and Han Song's pre-mission claim that court appointment would reorder his loyalty.
 - [一个中国 FDE 的光环、落差与「救火」日常｜S10E27](sources/yi-ge-zhongguo-fde-de-guanghuan-luocha-yu-jiuhuo-richang-s10e27-587619bb-62c2-485d-9f27-f0be0115a986.md) — What's Next episode with Shen Yue on Chinese FDE work as vendor-side coordination, business-access negotiation, MVP rescue, data cleanup, and ROI/accuracy expectation management.
@@ -8247,6 +8248,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Li Jigang / 李继刚](entities/LiJigang.md) — E45 guest whose reading, investing, prompt, Memory/Soul, and education frames ask how people keep agency under AI time compression.
 - [汉洋 / Han Yang](entities/HanYang.md) — Content creator and Fuyou Tiandi host arguing for long-form, guest-centered conversation against conclusion-driven media constraints.
 - [蜉蝣天地 / Fuyou Tiandi](entities/FuyouTiandi.md) — Han Yang's video-podcast project built around long-form conversation, non-instrumental understanding, visible guest worlds, and source-grounded historical complexity.
+- [赵丽娜 / Zhao Lina](entities/ZhaoLina.md) — Former Chinese women's football goalkeeper whose Fuyou Tiandi interview links confidence, goalkeeper judgment, youth access, and post-retirement identity.
+- [《上下半场》 / Shang Xia Banchang](entities/ShangXiaBanchang.md) — Zhao Lina's post-retirement podcast/project for athlete stories, public expression, and reading people through interviews.
+- [中国女足 / China Women's National Football Team](entities/ChinaWomensNationalFootballTeam.md) — National-team context for Zhao Lina's goalkeeper confidence, World Cup visibility, and women's football comparison pressure.
+- [FIFA Women's World Cup](entities/FIFAWomensWorldCup.md) — Women's international football tournament node created from Zhao Lina's 2015 Canada World Cup memory.
 - [Lex Fridman](entities/LexFridman.md) — Long-form interview reference used by Han Yang through John Carmack, Rick Rubin, and Ilya Sutskever examples.
 - [Joe Rogan](entities/JoeRogan.md) — Long-form podcast reference used by Han Yang to show how private interests can develop public meaning.
 - [John Carmack](entities/JohnCarmack.md) — Engineering interview example showing how side topics can reveal values better than narrow technology-media framing.
@@ -12606,6 +12611,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Data-Driven Penalty Preparation](concepts/DataDrivenPenaltyPreparation.md) — Use of penalty records, tendencies, and behavioral cues to prepare takers and goalkeepers.
 - [Penalty Shootout Strategy](concepts/PenaltyShootoutStrategy.md) — Statistical, tactical, and psychological preparation for deciding penalty kicks.
 - [Penalty Shootout Pressure](concepts/PenaltyShootoutPressure.md) — Psychological load created when single kicks decide survival in a match or tournament.
+- [Goalkeeper Embodied Judgment / 门将身体化判断](concepts/GoalkeeperEmbodiedJudgment.md) — Goalkeeper-specific mix of responsibility, preparation, reflex, risk style, and fear control.
+- [Embodied Training Against Fear / 反本能身体训练](concepts/EmbodiedTrainingAgainstFear.md) — Practice of making frightening or counter-instinctive actions safer through repeated bodily learning.
+- [Sports Participation Over Winning / 上场比赢重要](concepts/SportsParticipationOverWinning.md) — Sports frame where entering the field and gaining experience precede result-only evaluation.
+- [Youth Football Public Access / 儿童足球公共可及性](concepts/YouthFootballPublicAccess.md) — Claim that children need ordinary football access before the sport becomes elite selection.
+- [Women's Football Visibility / 女足主体性可见度](concepts/WomensFootballVisibility.md) — Visibility condition where women footballers are watched as their own sporting subjects, not only as comparisons.
+- [Athlete Post-Retirement Identity / 退役运动员身份转换](concepts/AthletePostRetirementIdentity.md) — Process of rebuilding work, public labels, and future orientation after a competitive sports role ends.
 - [Federal Student Loan Caps](concepts/FederalStudentLoanCaps.md) — Policy mechanism limiting graduate federal borrowing to pressure schools on price while risking borrower access.
 - [Bennett Hypothesis](concepts/BennettHypothesis.md) — Theory that federal student aid can be captured by colleges through higher tuition.
 - [Grad PLUS Loans](concepts/GradPLUSLoans.md) — Federal graduate-loan program whose 2006 unlimited borrowing structure became a test case for tuition pass-through.

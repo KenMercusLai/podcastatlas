@@ -2,6 +2,31 @@
   "claims": [
     {
       "global_candidate": false,
+      "id": "embodied-participation-builds-confidence",
+      "qualifications": [
+        "This claim is source-scoped to the Zhao Lina interview and should not be generalized into a complete theory of sports psychology.",
+        "The source links confidence to elite training, coach trust, public competition, and post-retirement narration; ordinary participation will not reproduce those conditions automatically.",
+        "The claim qualifies winning-centered sports and fandom material without denying that professional football remains structured by selection, pressure, and results."
+      ],
+      "statement": "[[zhao-lina-zaichang-bi-ying-zhongyao-menjiang-de-xinxin-zhijue-yu-reai-229fde7d-d39d-4f7c-a33d-607f5370fc60]] adds an embodied-confidence case: [[ZhaoLina]] frames [[SportsParticipationOverWinning]] as a route into selfhood, while [[GoalkeeperEmbodiedJudgment]], [[EmbodiedTrainingAgainstFear]], coach trust, penalty preparation, and post-retirement narration through [[ShangXiaBanchang]] show confidence being trained through action rather than abstract self-belief.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zhao-lina-zaichang-bi-ying-zhongyao-menjiang-de-xinxin-zhijue-yu-reai-229fde7d-d39d-4f7c-a33d-607f5370fc60",
+        "ZhaoLina",
+        "SportsParticipationOverWinning",
+        "GoalkeeperEmbodiedJudgment",
+        "EmbodiedTrainingAgainstFear",
+        "ShangXiaBanchang",
+        "YouthFootballPublicAccess",
+        "AthletePostRetirementIdentity",
+        "WomensFootballVisibility",
+        "ActionAgainstAnxiety",
+        "SubjectivityThroughFailure",
+        "FuyouTiandi"
+      ]
+    },
+    {
+      "global_candidate": false,
       "id": "impatience-pause-interrupts-self-importance",
       "qualifications": [
         "This is the host source-scoped personal-development interpretation, not a clinical psychology claim.",
