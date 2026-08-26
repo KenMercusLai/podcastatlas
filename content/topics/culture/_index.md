@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2226
+topic_total_pages: 2227
 topic_concepts:
   - key: "AbraxasWholeGodSymbolism"
     title: "Abraxas Whole-God Symbolism / 阿布拉克萨斯完整神象征"
@@ -2209,6 +2209,9 @@ topic_concepts:
   - key: "EffortNarrativeInterrogation"
     title: "努力叙事追问 / Effort Narrative Interrogation"
     url: "/wiki/concepts/effortnarrativeinterrogation/"
+  - key: "HistoricalQuestionConsciousness"
+    title: "历史问题意识 / Historical Question Consciousness"
+    url: "/wiki/concepts/historicalquestionconsciousness/"
   - key: "HardshipCultureAsEducation"
     title: "吃苦文化作为教育 / Hardship Culture As Education"
     url: "/wiki/concepts/hardshipcultureaseducation/"

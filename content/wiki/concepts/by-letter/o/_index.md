@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 5542
+wiki_total_pages: 5550
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -473,12 +473,18 @@ wiki_pages:
   - key: "OfficeSaleLegitimacyDamage"
     title: "买官名节损耗 / Office-Sale Legitimacy Damage"
     url: "/wiki/concepts/officesalelegitimacydamage/"
+  - key: "OralHistoryMemoryAnalysis"
+    title: "口述记忆分析 / Oral History Memory Analysis"
+    url: "/wiki/concepts/oralhistorymemoryanalysis/"
   - key: "OfficialLearningMonopoly"
     title: "学在王官式知识垄断 / Official Learning Monopoly"
     url: "/wiki/concepts/officiallearningmonopoly/"
   - key: "OfficeBasedRebelIncorporation"
     title: "授官式招安 / Office-Based Rebel Incorporation"
     url: "/wiki/concepts/officebasedrebelincorporation/"
+  - key: "OrdinaryPeopleHistoricalVisibility"
+    title: "普通人历史可见性 / Ordinary People Historical Visibility"
+    url: "/wiki/concepts/ordinarypeoplehistoricalvisibility/"
   - key: "OfficialSelectionChannelCompetition"
     title: "选官通道竞争 / Official Selection Channel Competition"
     url: "/wiki/concepts/officialselectionchannelcompetition/"

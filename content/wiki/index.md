@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Episode 20: 100 年前东北女孩写给巴黎的信｜对谈历史学者李纪：普通人如何穿过大历史？](sources/100-nian-qian-dongbei-nvhai-xie-gei-bali-de-xin-duitan-lishixuezhe-liji-putongren-ruhe-chuanguo-da-lishi-3d36f181-94ad-4883-8db3-5f040b5ed45b.md) — Fuyou Tiandi episode with historian Li Ji on Northeast Catholic mission villages, three Du-family girls' letters to Paris, missionary maps and archives, ordinary people's historical visibility, and historical judgment against one-line labels.
 - [《资治通鉴·汉纪》1037丨忠于曹操or刘表？揭秘韩嵩的忠义抉择](sources/zizhi-tongjian-hanji-1037-zhongyu-caocao-or-liubiao-jiemi-hansong-de-zhongyi-jueze-lomrbxffcu6euantozh2fjvrykva.md) — 芮淇讲透资治通鉴 episode on Han Song's court-loyalty conflict with Liu Biao, Liu Biao's suspicion and imprisonment of him, Liu Ye's killing of Zheng Bao, and the follower/grain pressure that sets up Liu Xun before Hanji 1038.
 - [《资治通鉴·汉纪》1038丨三十六计之调虎离山：孙策智取皖城](sources/zizhi-tongjian-hanji-1038-sanshiliu-ji-zhi-diaohu-lishan-sunce-zhiqu-wancheng-lhomk8hfdidl61degwbqtj2xkj9z.md) — 芮淇讲透资治通鉴 episode on Sun Ce luring Liu Xun out of Lujiang, Liu Ye's ignored warning, the capture of Wan City with Zhou Yu, Liu Xun's flight to Cao Cao, and the Huang Zu/Yuzhang follow-on.
 - [The continent nobody owns & everyone benefits from (Summer School)](sources/the-continent-nobody-owns-everyone-benefits-from-summer-school.md) — Planet Money Summer School finale on Antarctica's non-market climate value, treaty-based commons governance, McMurdo retail scarcity, Tokyo parking, Vienna social housing, and Brazilian consortios.
@@ -1511,6 +1512,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [李纪 / Li Ji (historian)](entities/LiJiHistorian.md) — Historian whose Northeast Catholic mission research connects the Du girls' letters, Paris archives, fieldwork, genealogy, and anti-label historical judgment.
+- [巴黎外方传教会 / Paris Foreign Missions Society](entities/ParisForeignMissionsSociety.md) — Catholic mission society whose Paris archive, maps, and rural Northeast records preserve the episode's letters and missionary materials.
+- [三台子 / Santai Zi Catholic Village](entities/SantaiZiCatholicVillage.md) — Northeast Catholic village made visible through Du-family letters, missionary maps, fieldwork, and descendant memory.
+- [杜氏女孩 / Du Family Girls](entities/DuFamilyGirls.md) — Three Northeast Catholic girls whose vernacular letters show female religious literacy, longing, and gender constraint.
+- [高神父 / Father Gao (Northeast mission)](entities/FatherGaoNortheastMission.md) — Long-serving French missionary whose hundreds of letters and drawings preserve daily Northeast mission life and historical complexity.
+- [林神父 / Father Lin (Northeast mission)](entities/FatherLinNortheastMission.md) — Priest addressed by the Du girls' letters, remembered mainly through his illness, return to Paris, and absent-recipient role.
 - [Antarctica](entities/Antarctica.md) — protected continent whose largest source-described economic value comes from climate-regulating services rather than ordinary markets.
 - [Southern Ocean](entities/SouthernOcean.md) — Antarctic ocean system tied to carbon absorption, fisheries, and climate-service valuation.
 - [Antarctic Treaty](entities/AntarcticTreaty.md) — treaty frame for Antarctic peace, science, trust, collaboration, and sanctions in the Planet Money source.
@@ -8218,7 +8225,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [SBM Intelligence](entities/SBMIntelligence.md) — Organization behind the Jollof Index used to compare food affordability in Nigeria and Ghana.
 - [Li Jigang / 李继刚](entities/LiJigang.md) — E45 guest whose reading, investing, prompt, Memory/Soul, and education frames ask how people keep agency under AI time compression.
 - [汉洋 / Han Yang](entities/HanYang.md) — Content creator and Fuyou Tiandi host arguing for long-form, guest-centered conversation against conclusion-driven media constraints.
-- [蜉蝣天地 / Fuyou Tiandi](entities/FuyouTiandi.md) — Han Yang's video-podcast project built around long-form conversation, non-instrumental understanding, and visible guest worlds.
+- [蜉蝣天地 / Fuyou Tiandi](entities/FuyouTiandi.md) — Han Yang's video-podcast project built around long-form conversation, non-instrumental understanding, visible guest worlds, and source-grounded historical complexity.
 - [Lex Fridman](entities/LexFridman.md) — Long-form interview reference used by Han Yang through John Carmack, Rick Rubin, and Ilya Sutskever examples.
 - [Joe Rogan](entities/JoeRogan.md) — Long-form podcast reference used by Han Yang to show how private interests can develop public meaning.
 - [John Carmack](entities/JohnCarmack.md) — Engineering interview example showing how side topics can reveal values better than narrow technology-media framing.
@@ -9261,6 +9268,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [普通人历史可见性 / Ordinary People Historical Visibility](concepts/OrdinaryPeopleHistoricalVisibility.md) — Method problem of how ordinary people become historically legible through fragile letters, archives, maps, fieldwork, genealogy, and memory.
+- [东北现代性试验场 / Northeast Modernity Test Site](concepts/NortheastModernityTestSite.md) — Frame for late Qing and early Republican Northeast China as a migration, land, religion, treaty, and global-modernity frontier.
+- [传教士地图知识生产 / Missionary Map Knowledge Production](concepts/MissionaryMapKnowledgeProduction.md) — Pattern where mission maps record space while also ranking villages and church infrastructure for a particular audience.
+- [女性宗教白话书写 / Vernacular Female Religious Writing](concepts/VernacularFemaleReligiousWriting.md) — Women using religious literacy, vernacular language, and devotional vocabulary to express feeling and constraint.
+- [女性宗教生活空间 / Female Religious Life Space](concepts/FemaleReligiousLifeSpace.md) — Ambivalent room created by religious roles such as 守贞女: agency outside marriage, but under hierarchy and discipline.
+- [口述记忆分析 / Oral History Memory Analysis](concepts/OralHistoryMemoryAnalysis.md) — Treating interviews as both event evidence and evidence of how memory is organized, revised, and narrated.
+- [历史问题意识 / Historical Question Consciousness](concepts/HistoricalQuestionConsciousness.md) — Historian's discipline for choosing questions that organize abundant sources and AI-era fact access.
+- [拒绝历史人物标签 / Historical Complexity Against Labels](concepts/HistoricalComplexityAgainstLabels.md) — Interpretive ethic of holding structure, agency, contradiction, and change without flattening actors into one-line labels.
 - [Non-Market Environmental Valuation](concepts/NonMarketEnvironmentalValuation.md) — Method for pricing environmental services that ordinary markets ignore, used here to make Antarctica's climate value visible.
 - [Antarctic Climate Services](concepts/AntarcticClimateServices.md) — Reflective ice, Southern Ocean carbon absorption, and stored land ice treated as Antarctica's largest economic contribution.
 - [Trust-Based Commons Governance](concepts/TrustBasedCommonsGovernance.md) — Shared-resource governance through rules, cooperation, trust, and sanctions rather than ordinary ownership.
@@ -11663,7 +11678,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Fieldwork Romance Deflation / 田野浪漫去魅](concepts/FieldworkRomanceDeflation.md) — Anthropology-method corrective that values field evidence while puncturing heroic, pure, or exoticized ideas of fieldwork and field sites.
 - [Ethnographic Everyday Friction / 民族志日常摩擦](concepts/EthnographicEverydayFriction.md) — Fieldwork logistics and bodily vulnerability as part of how ethnographic evidence is actually produced.
 - [Participant-Observer Entanglement / 参与观察者纠缠](concepts/ParticipantObserverEntanglement.md) — Anthropology problem where the researcher's presence, help, dependence, money, body, and local classification become part of the field.
-- [Missionary Fieldwork Infrastructure / 传教士田野基础设施](concepts/MissionaryFieldworkInfrastructure.md) — Ambivalent support network in which missionaries provide vehicles, medicine, loans, translation, and local knowledge while also carrying religious and colonial pressure.
+- [Missionary Fieldwork Infrastructure / 传教士田野基础设施](concepts/MissionaryFieldworkInfrastructure.md) — Ambivalent mission support and knowledge system spanning fieldwork logistics, village records, maps, archives, and religious-colonial pressure.
 - [Development Project Unintended Consequences / 发展项目的意外后果](concepts/DevelopmentProjectUnintendedConsequences.md) — Pattern where technically well-meaning development projects create food, resource, legitimacy, evaluation, or belief-system side effects.
 - [Visual Representation Literacy / 视觉表征素养](concepts/VisualRepresentationLiteracy.md) — Learned conventions behind reading photos, film, ID pictures, ballots, and screen images as representations.
 - [Cat Domestication History](concepts/CatDomesticationHistory.md) — Episode 34 natural-history layer tying cats to African wildcat ancestry, agriculture, stored grain, rodents, disease anxiety, and cohabitation before pet intimacy.

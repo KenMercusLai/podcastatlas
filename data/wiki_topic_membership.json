@@ -93,6 +93,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "100-nian-qian-dongbei-nvhai-xie-gei-bali-de-xin-duitan-lishixuezhe-liji-putongren-ruhe-chuanguo-da-lishi-3d36f181-94ad-4883-8db3-5f040b5ed45b": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "101-caoyin-yu-kangxi-hongloumeng-xing-zhong-you-shi-735044876": [
     {
       "key": "culture",
@@ -26385,6 +26392,13 @@
       "url": "/topics/science/"
     }
   ],
+  "HistoricalComplexityAgainstLabels": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "HistoricalDetectiveReasoning": [
     {
       "key": "history",
@@ -26435,6 +26449,23 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "HistoricalQuestionConsciousness": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "HistoricalRecordAuthority": [
@@ -37384,6 +37415,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "MissionaryMapKnowledgeProduction": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "Mississippi": [
     {
       "key": "politics",
@@ -39707,6 +39745,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "NortheastModernityTestSite": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "NortheastWomenFamilyAgency": [
     {
       "key": "culture",
@@ -40701,6 +40746,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "OralHistoryMemoryAnalysis": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "OralMythMagicalRealismSource": [
     {
       "key": "culture",
@@ -40797,6 +40849,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "OrdinaryPeopleHistoricalVisibility": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "OrdinaryPeopleResistance": [

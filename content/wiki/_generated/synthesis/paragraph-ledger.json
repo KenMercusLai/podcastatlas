@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "baa8563117c87f0fa06054d580b6c7c44c5428f74779f71a669eeb99a2f47d20",
       "8d6f3161ce308c5fa1672e99fa6cd5e9c59199d70f119267c31b3d0481772e20",
       "547548604597cb96f8ee207d1a3ccc73e53ead93e2136757534d418981e69e17",
       "02aca0cdc3e5a8775e4f935539adfd86ed7ad52997d7c90ca4cf477989391fb1",
@@ -252,11 +253,51 @@
       "d9074e43b7b103fc0d0097b207bf8018227d6e146ca0eb75638118627687641c",
       "b16a38bd6e190222f7f3e6f0535803ce60ae7f3304e3477dfcdd995a15fb502f"
     ],
-    "paragraph_count": 250
+    "paragraph_count": 251
   },
-  "overview_commit": "f6e92424c0382b45b4ba90b65e6378229d624f07",
-  "overview_digest": "9bc024881129db3f39e68787ad74fa54928722c4c75dc9f77712b45d3bc6ea75",
+  "overview_commit": "44ff3656b77aac93eba32d7269c202b214e20a8e",
+  "overview_digest": "8af5b1bdca0853e89c47062565ae198489a55421b5d42f80f7afdcf9d6d5452d",
   "paragraphs": [
+    {
+      "id": "baa8563117c87f0fa06054d580b6c7c44c5428f74779f71a669eeb99a2f47d20",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[100-nian-qian-dongbei-nvhai-xie-gei-bali-de-xin-duitan-lishixuezhe-liji-putongren-ruhe-chuanguo-da-lishi-3d36f181-94ad-4883-8db3-5f040b5ed45b]], a [[FuyouTiandi]] episode with [[LiJiHistorian|李纪]] on three Northeast Catholic girls' letters, [[ParisForeignMissionsSociety|巴黎外方传教会]] archives, and ordinary people crossing large history. It adds [[LiJiHistorian]], [[ParisForeignMissionsSociety]], [[SantaiZiCatholicVillage]], [[DuFamilyGirls]], [[FatherGaoNortheastMission]], [[FatherLinNortheastMission]], [[OrdinaryPeopleHistoricalVisibility]], [[NortheastModernityTestSite]], [[MissionaryMapKnowledgeProduction]], [[VernacularFemaleReligiousWriting]], [[FemaleReligiousLifeSpace]], [[OralHistoryMemoryAnalysis]], [[HistoricalQuestionConsciousness]], and [[HistoricalComplexityAgainstLabels]], while extending [[FuyouTiandi]], [[MissionaryFieldworkInfrastructure]], [[PersonalArchiveAsHistory]], [[MicrohistoryFromHostileArchives]], [[CatholicChurch]], [[PastoralMissionSubversionAmbiguity]], and [[HumanJudgmentUnderAI]]. Its core synthesis is that ordinary people become visible through fragile and institutionally mediated traces: mission maps make 三台子 important inside one knowledge system, church literacy lets rural girls write gendered longing in religious vernacular, oral memory and genealogy reconnect letters to descendants, and historical judgment must name treaty-imperial structures without flattening missionaries or believers into final labels. No settled contradiction is recorded; the source qualifies missionary-critical pages by keeping both structural power and local ordinary life visible.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 2,
+        "psychology-and-personal-development": 1,
+        "science-health-and-climate": 1,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "100-nian-qian-dongbei-nvhai-xie-gei-bali-de-xin-duitan-lishixuezhe-liji-putongren-ruhe-chuanguo-da-lishi-3d36f181-94ad-4883-8db3-5f040b5ed45b",
+        "CatholicChurch",
+        "DuFamilyGirls",
+        "FatherGaoNortheastMission",
+        "FatherLinNortheastMission",
+        "FemaleReligiousLifeSpace",
+        "FuyouTiandi",
+        "HistoricalComplexityAgainstLabels",
+        "HistoricalQuestionConsciousness",
+        "HumanJudgmentUnderAI",
+        "LiJiHistorian",
+        "MicrohistoryFromHostileArchives",
+        "MissionaryFieldworkInfrastructure",
+        "MissionaryMapKnowledgeProduction",
+        "NortheastModernityTestSite",
+        "OralHistoryMemoryAnalysis",
+        "OrdinaryPeopleHistoricalVisibility",
+        "ParisForeignMissionsSociety",
+        "PastoralMissionSubversionAmbiguity",
+        "PersonalArchiveAsHistory",
+        "SantaiZiCatholicVillage",
+        "VernacularFemaleReligiousWriting"
+      ]
+    },
     {
       "id": "8d6f3161ce308c5fa1672e99fa6cd5e9c59199d70f119267c31b3d0481772e20",
       "primary_topic": "business-and-markets",

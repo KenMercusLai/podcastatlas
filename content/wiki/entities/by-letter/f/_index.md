@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 7746
+wiki_total_pages: 7752
 wiki_pages:
   - key: "FortyThreeTalks"
     title: "43talks"
@@ -641,6 +641,9 @@ wiki_pages:
   - key: "FuSu"
     title: "扶苏 / Fu Su"
     url: "/wiki/entities/fusu/"
+  - key: "FatherLinNortheastMission"
+    title: "林神父 / Father Lin (Northeast mission)"
+    url: "/wiki/entities/fatherlinnortheastmission/"
   - key: "FengyanFengyu"
     title: "枫言枫语"
     url: "/wiki/entities/fengyanfengyu/"
@@ -731,6 +734,9 @@ wiki_pages:
   - key: "FengJiLateHan"
     title: "逢纪 / Feng Ji (late Han)"
     url: "/wiki/entities/fengjilatehan/"
+  - key: "FatherGaoNortheastMission"
+    title: "高神父 / Father Gao (Northeast mission)"
+    url: "/wiki/entities/fathergaonortheastmission/"
   - key: "FoieGras"
     title: "鹅肝 / Foie Gras"
     url: "/wiki/entities/foiegras/"

@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2438
+topic_total_pages: 2439
 topic_concepts:
   - key: "AcademicAIResearchRole"
     title: "Academic AI Research Role"
@@ -3349,6 +3349,9 @@ topic_concepts:
   - key: "HistoricalReportingAIHallucination"
     title: "历史报道中的AI幻觉 / Historical Reporting AI Hallucination"
     url: "/wiki/concepts/historicalreportingaihallucination/"
+  - key: "HistoricalQuestionConsciousness"
+    title: "历史问题意识 / Historical Question Consciousness"
+    url: "/wiki/concepts/historicalquestionconsciousness/"
 topic_entities:
   - key: "OneX"
     title: "1X"

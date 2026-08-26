@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 5542
+wiki_total_pages: 5550
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -965,6 +965,9 @@ wiki_pages:
   - key: "MourningFramedMilitaryAbsorption"
     title: "丧礼化收编 / Mourning-Framed Military Absorption"
     url: "/wiki/concepts/mourningframedmilitaryabsorption/"
+  - key: "MissionaryMapKnowledgeProduction"
+    title: "传教士地图知识生产 / Missionary Map Knowledge Production"
+    url: "/wiki/concepts/missionarymapknowledgeproduction/"
   - key: "MinisterAsExchangeableAsset"
     title: "可交换功臣 / Minister as Exchangeable Asset"
     url: "/wiki/concepts/ministerasexchangeableasset/"

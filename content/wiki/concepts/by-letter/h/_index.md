@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 5542
+wiki_total_pages: 5550
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -587,6 +587,9 @@ wiki_pages:
   - key: "HistoricalReportingAIHallucination"
     title: "历史报道中的AI幻觉 / Historical Reporting AI Hallucination"
     url: "/wiki/concepts/historicalreportingaihallucination/"
+  - key: "HistoricalQuestionConsciousness"
+    title: "历史问题意识 / Historical Question Consciousness"
+    url: "/wiki/concepts/historicalquestionconsciousness/"
   - key: "HardshipCultureAsEducation"
     title: "吃苦文化作为教育 / Hardship Culture As Education"
     url: "/wiki/concepts/hardshipcultureaseducation/"
@@ -599,6 +602,9 @@ wiki_pages:
   - key: "HouseholdTroupeStatusBoundary"
     title: "家班身份边界 / Household Troupe Status Boundary"
     url: "/wiki/concepts/householdtroupestatusboundary/"
+  - key: "HistoricalComplexityAgainstLabels"
+    title: "拒绝历史人物标签 / Historical Complexity Against Labels"
+    url: "/wiki/concepts/historicalcomplexityagainstlabels/"
   - key: "HospitalityPredation"
     title: "接纳者掠杀 / Hospitality Predation"
     url: "/wiki/concepts/hospitalitypredation/"

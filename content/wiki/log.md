@@ -11672,6 +11672,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-26] ingest | Episode 20: 100 年前东北女孩写给巴黎的信｜对谈历史学者李纪：普通人如何穿过大历史？
+
+Added source page for Fuyou Tiandi episode 20: Li Ji on Northeast Catholic mission villages, the Du-family girls' letters to Father Lin, Paris Foreign Missions Society archives, mission maps, oral history, Father Gao's letters, AI-era historical education, and refusing one-line labels for historical actors. Created Li Ji (historian), Paris Foreign Missions Society, Santai Zi Catholic Village, Du Family Girls, Father Gao, Father Lin, Ordinary People Historical Visibility, Northeast Modernity Test Site, Missionary Map Knowledge Production, Vernacular Female Religious Writing, Female Religious Life Space, Oral History Memory Analysis, Historical Question Consciousness, and Historical Complexity Against Labels; migrated Fuyou Tiandi and Missionary Fieldwork Infrastructure to synthesis-v1. No settled contradiction found; missionary treaty protection and local ordinary-life complexity are preserved together.
+
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》1038丨三十六计之调虎离山：孙策智取皖城
 
 Added source page for Hanji 1038: Sun Ce's Lujiang lure against Liu Xun, Liu Ye's ignored warning, the capture of Wan City with Zhou Yu, Liu Xun's defeat and flight to Cao Cao, the follow-on Huang Zu attack, and the Yuzhang persuasion setup. Created Liu Ye, Wan City (Lujiang), and War as Violent Redistribution; migrated Liu Xun, Zhou Yu, Huang Zu, Lujiang Commandery, and Lure Enemy Out of Position to synthesis-v1; updated Sun Ce, index, and overview. No settled contradiction found; 刘业 is normalized to 刘晔 / Liu Ye and 皖城 is disambiguated from 宛县 / Wan County.
@@ -12045,6 +12049,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》1037丨忠于曹操or刘表？揭秘韩嵩的忠义抉择
 
 Added source page for Hanji 1037: Han Song's Xudu appointment and court-loyalty defense, Liu Biao's suspicion and imprisonment of Han Song, Liu Ye's killing of Zheng Bao, Liu Ye's refusal to absorb undisciplined followers, and the Zheng Bao/Yuan Yin food-pressure prelude to Liu Xun's Hanji 1038 mistake. Created Han Song (late Han), Zheng Bao, Yuan Yin, Court Legitimacy Over Patron Loyalty, Suspicion-Driven Elite Alienation, and Armed Follower Integration Cost; updated Liu Biao, Liu Ye, Liu Xun, index, and overview. No settled contradiction found; Han Song / 韩嵩 is disambiguated from the modern AI-chip researcher Han Song / 韩松.
+
+## [2026-08-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-26] lint | Wiki health check
 

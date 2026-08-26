@@ -51,6 +51,10 @@
     "title": "100.法律的悖论：谢天谢地，幸好我们还有罗翔",
     "url": "/wiki/sources/100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302/"
   },
+  "100-nian-qian-dongbei-nvhai-xie-gei-bali-de-xin-duitan-lishixuezhe-liji-putongren-ruhe-chuanguo-da-lishi-3d36f181-94ad-4883-8db3-5f040b5ed45b": {
+    "title": "Episode 20: 100 年前东北女孩写给巴黎的信｜对谈历史学者李纪：普通人如何穿过大历史？",
+    "url": "/wiki/sources/100-nian-qian-dongbei-nvhai-xie-gei-bali-de-xin-duitan-lishixuezhe-liji-putongren-ruhe-chuanguo-da-lishi-3d36f181-94ad-4883-8db3-5f040b5ed45b/"
+  },
   "101-caoyin-yu-kangxi-hongloumeng-xing-zhong-you-shi-735044876": {
     "title": "101.曹寅与康熙：红楼梦醒终有时",
     "url": "/wiki/sources/101-caoyin-yu-kangxi-hongloumeng-xing-zhong-you-shi-735044876/"
@@ -14211,6 +14215,10 @@
     "title": "Dry Electrode Manufacturing",
     "url": "/wiki/concepts/dryelectrodemanufacturing/"
   },
+  "DuFamilyGirls": {
+    "title": "杜氏女孩 / Du Family Girls",
+    "url": "/wiki/entities/dufamilygirls/"
+  },
   "DuFu": {
     "title": "杜甫 / Du Fu",
     "url": "/wiki/entities/dufu/"
@@ -16483,6 +16491,14 @@
     "title": "命相判断的政治风险 / Fate-Reading Political Risk",
     "url": "/wiki/concepts/fatereadingpoliticalrisk/"
   },
+  "FatherGaoNortheastMission": {
+    "title": "高神父 / Father Gao (Northeast mission)",
+    "url": "/wiki/entities/fathergaonortheastmission/"
+  },
+  "FatherLinNortheastMission": {
+    "title": "林神父 / Father Lin (Northeast mission)",
+    "url": "/wiki/entities/fatherlinnortheastmission/"
+  },
   "FavoriteDrivenHeirDisplacement": {
     "title": "Favorite-Driven Heir Displacement / 宠幸驱动的废嫡立庶",
     "url": "/wiki/concepts/favoritedrivenheirdisplacement/"
@@ -16682,6 +16698,10 @@
   "FemaleOralStorytelling": {
     "title": "Female Oral Storytelling / 女性口头叙事",
     "url": "/wiki/concepts/femaleoralstorytelling/"
+  },
+  "FemaleReligiousLifeSpace": {
+    "title": "女性宗教生活空间 / Female Religious Life Space",
+    "url": "/wiki/concepts/femalereligiouslifespace/"
   },
   "FemaleRevengeAndPoliticalOrder": {
     "title": "Female Revenge And Political Order",
@@ -21527,6 +21547,10 @@
     "title": "Historical Body Concept",
     "url": "/wiki/concepts/historicalbodyconcept/"
   },
+  "HistoricalComplexityAgainstLabels": {
+    "title": "拒绝历史人物标签 / Historical Complexity Against Labels",
+    "url": "/wiki/concepts/historicalcomplexityagainstlabels/"
+  },
   "HistoricalDetectiveReasoning": {
     "title": "Historical Detective Reasoning",
     "url": "/wiki/concepts/historicaldetectivereasoning/"
@@ -21550,6 +21574,10 @@
   "HistoricalPrecedentWeaponization": {
     "title": "Historical Precedent Weaponization / 历史先例武器化",
     "url": "/wiki/concepts/historicalprecedentweaponization/"
+  },
+  "HistoricalQuestionConsciousness": {
+    "title": "历史问题意识 / Historical Question Consciousness",
+    "url": "/wiki/concepts/historicalquestionconsciousness/"
   },
   "HistoricalRecordAuthority": {
     "title": "Historical Record Authority / 史官记录话语权",
@@ -27455,6 +27483,10 @@
     "title": "利几 / Li Ji (Chu-Han)",
     "url": "/wiki/entities/lijichuhan/"
   },
+  "LiJiHistorian": {
+    "title": "李纪 / Li Ji (historian)",
+    "url": "/wiki/entities/lijihistorian/"
+  },
   "LiJiSlaysSnake": {
     "title": "李寄斩蛇 / Li Ji Slays the Snake",
     "url": "/wiki/entities/lijislayssnake/"
@@ -31731,6 +31763,10 @@
     "title": "Missionary Fieldwork Infrastructure / 传教士田野基础设施",
     "url": "/wiki/concepts/missionaryfieldworkinfrastructure/"
   },
+  "MissionaryMapKnowledgeProduction": {
+    "title": "传教士地图知识生产 / Missionary Map Knowledge Production",
+    "url": "/wiki/concepts/missionarymapknowledgeproduction/"
+  },
   "Mississippi": {
     "title": "Mississippi",
     "url": "/wiki/entities/mississippi/"
@@ -33687,6 +33723,10 @@
     "title": "Northeast As Memory Structure / 东北作为记忆结构",
     "url": "/wiki/concepts/northeastasmemorystructure/"
   },
+  "NortheastModernityTestSite": {
+    "title": "东北现代性试验场 / Northeast Modernity Test Site",
+    "url": "/wiki/concepts/northeastmodernitytestsite/"
+  },
   "NortheastWomenFamilyAgency": {
     "title": "Northeast Women Family Agency / 东北女性的家庭行动力",
     "url": "/wiki/concepts/northeastwomenfamilyagency/"
@@ -34547,6 +34587,10 @@
     "title": "Oral-Formulaic Epic",
     "url": "/wiki/concepts/oralformulaicepic/"
   },
+  "OralHistoryMemoryAnalysis": {
+    "title": "口述记忆分析 / Oral History Memory Analysis",
+    "url": "/wiki/concepts/oralhistorymemoryanalysis/"
+  },
   "OralMythMagicalRealismSource": {
     "title": "Oral Myth As Magical Realism Source",
     "url": "/wiki/concepts/oralmythmagicalrealismsource/"
@@ -34598,6 +34642,10 @@
   "OrdinaryLifePoetics": {
     "title": "Ordinary Life Poetics / 日常生活诗意",
     "url": "/wiki/concepts/ordinarylifepoetics/"
+  },
+  "OrdinaryPeopleHistoricalVisibility": {
+    "title": "普通人历史可见性 / Ordinary People Historical Visibility",
+    "url": "/wiki/concepts/ordinarypeoplehistoricalvisibility/"
   },
   "OrdinaryPeopleResistance": {
     "title": "Ordinary People Resistance",
@@ -35158,6 +35206,10 @@
   "PareshDave": {
     "title": "Paresh Dave",
     "url": "/wiki/entities/pareshdave/"
+  },
+  "ParisForeignMissionsSociety": {
+    "title": "巴黎外方传教会 / Paris Foreign Missions Society",
+    "url": "/wiki/entities/parisforeignmissionssociety/"
   },
   "ParisLOreal": {
     "title": "Paris L'Oreal / 巴黎欧莱雅",
@@ -40950,6 +41002,10 @@
   "SantaClaraUniversity": {
     "title": "Santa Clara University",
     "url": "/wiki/entities/santaclarauniversity/"
+  },
+  "SantaiZiCatholicVillage": {
+    "title": "三台子 / Santai Zi Catholic Village",
+    "url": "/wiki/entities/santaizicatholicvillage/"
   },
   "SapnaMaheshwari": {
     "title": "Sapna Maheshwari",
@@ -48470,6 +48526,10 @@
   "Verizon": {
     "title": "Verizon",
     "url": "/wiki/entities/verizon/"
+  },
+  "VernacularFemaleReligiousWriting": {
+    "title": "女性宗教白话书写 / Vernacular Female Religious Writing",
+    "url": "/wiki/concepts/vernacularfemalereligiouswriting/"
   },
   "VernacularIndustrialism": {
     "title": "Vernacular Industrialism",

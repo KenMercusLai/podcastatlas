@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "v"
-wiki_total_pages: 5542
+wiki_total_pages: 5550
 wiki_pages:
   - key: "VacationShame"
     title: "Vacation Shame / 休假羞耻感"
@@ -206,6 +206,9 @@ wiki_pages:
   - key: "VulcanizedSoleTradeoff"
     title: "Vulcanized Sole Tradeoff"
     url: "/wiki/concepts/vulcanizedsoletradeoff/"
+  - key: "VernacularFemaleReligiousWriting"
+    title: "女性宗教白话书写 / Vernacular Female Religious Writing"
+    url: "/wiki/concepts/vernacularfemalereligiouswriting/"
   - key: "VassalHumiliationConspiracy"
     title: "诸侯王羞辱触发谋刺 / Vassal Humiliation Conspiracy"
     url: "/wiki/concepts/vassalhumiliationconspiracy/"

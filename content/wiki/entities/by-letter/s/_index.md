@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 7746
+wiki_total_pages: 7752
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1379,6 +1379,9 @@ wiki_pages:
   - key: "SanWuHuan"
     title: "三五环"
     url: "/wiki/entities/sanwuhuan/"
+  - key: "SantaiZiCatholicVillage"
+    title: "三台子 / Santai Zi Catholic Village"
+    url: "/wiki/entities/santaizicatholicvillage/"
   - key: "SanchuanWarringStates"
     title: "三川 / Sanchuan (Warring States)"
     url: "/wiki/entities/sanchuanwarringstates/"
