@@ -1,0 +1,17 @@
+{{- $aliases := slice -}}
+{{- with .Params.search_aliases -}}
+  {{- if reflect.IsSlice . -}}
+    {{- range . -}}
+      {{- $alias := strings.TrimSpace (printf "%v" .) -}}
+      {{- if $alias -}}
+        {{- $aliases = $aliases | append $alias -}}
+      {{- end -}}
+    {{- end -}}
+  {{- else -}}
+    {{- $alias := strings.TrimSpace (printf "%v" .) -}}
+    {{- if $alias -}}
+      {{- $aliases = $aliases | append $alias -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- return (delimit ($aliases | uniq) " · ") -}}

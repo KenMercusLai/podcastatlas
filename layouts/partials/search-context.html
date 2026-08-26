@@ -1,0 +1,47 @@
+{{- $type := lower (partial "search-type.html" .) -}}
+{{- $context := "" -}}
+{{- if in (slice "concept" "entity") $type -}}
+  {{- $signal := false -}}
+  {{- with .File -}}
+    {{- $signal = index hugo.Data.wiki_knowledge_signals.pages .BaseFileName -}}
+  {{- end -}}
+  {{- with $signal -}}
+    {{- $episodeLabel := cond (eq (int .episode_count) 1) "Episode" "Episodes" -}}
+    {{- $showLabel := cond (eq (int .show_count) 1) "Show" "Shows" -}}
+    {{- $sourceLabel := cond (eq (int .source_note_count) 1) "Source" "Sources" -}}
+    {{- $context = printf "%v %s · %v %s · %v %s · Updated %v" .episode_count $episodeLabel .show_count $showLabel .source_note_count $sourceLabel .updated -}}
+  {{- else -}}
+    {{- $parts := slice -}}
+    {{- with $.Params.sources -}}
+      {{- $sourceLabel := cond (eq (len .) 1) "Source" "Sources" -}}
+      {{- $parts = $parts | append (printf "%d %s" (len .) $sourceLabel) -}}
+    {{- end -}}
+    {{- with $.Params.last_updated -}}
+      {{- $parts = $parts | append (printf "Updated %v" .) -}}
+    {{- end -}}
+    {{- $context = delimit $parts " · " -}}
+  {{- end -}}
+{{- else if eq $type "episode" -}}
+  {{- $parts := slice -}}
+  {{- with .Params.show -}}
+    {{- $parts = $parts | append (printf "%v" .) -}}
+  {{- end -}}
+  {{- with .Params.date -}}
+    {{- $parts = $parts | append (printf "Published %s" (time.Format "2 Jan 2006" .)) -}}
+  {{- end -}}
+  {{- $context = delimit $parts " · " -}}
+{{- else if eq $type "show" -}}
+  {{- $episodeLabel := cond (eq .Pages.Len 1) "Episode" "Episodes" -}}
+  {{- $context = printf "%d %s" .Pages.Len $episodeLabel -}}
+{{- else if eq $type "source note" -}}
+  {{- with .Params.date -}}
+    {{- $context = printf "Published %s · Source Note" (time.Format "2 Jan 2006" .) -}}
+  {{- else -}}
+    {{- $context = "Source Note" -}}
+  {{- end -}}
+{{- else if eq $type "topic" -}}
+  {{- with .Params.topic_total_pages -}}
+    {{- $context = printf "%v Related Pages" . -}}
+  {{- end -}}
+{{- end -}}
+{{- return $context -}}

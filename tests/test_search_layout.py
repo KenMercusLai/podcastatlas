@@ -36,26 +36,75 @@ class SearchLayoutTest(unittest.TestCase):
         self.assertNotIn("base-url=", rendered)
         self.assertIn("<pagefind-input></pagefind-input>", rendered)
         self.assertIn("<pagefind-summary></pagefind-summary>", rendered)
-        self.assertIn("<pagefind-filter-pane></pagefind-filter-pane>", rendered)
-        self.assertIn("<pagefind-results></pagefind-results>", rendered)
+        self.assertNotIn("<pagefind-filter-pane", rendered)
+        self.assertIn("<pagefind-results hide-sub-results>", rendered)
         self.assertNotIn("<pagefind-searchbox", rendered)
         self.assertIn('data-pagefind-ignore="all"', rendered)
 
-    def test_every_page_exposes_searchable_type_metadata(self):
+    def test_search_page_has_fixed_user_facing_groups_and_custom_result_context(self):
+        layout = ROOT / "layouts" / "search" / "list.html"
+        rendered = layout.read_text()
+
+        groups = [
+            "All",
+            "Concepts &amp; Topics",
+            "People &amp; Organizations",
+            "Episodes",
+            "Shows",
+            "Source Notes",
+        ]
+        offsets = [rendered.index(f">{group}<") for group in groups]
+        self.assertEqual(offsets, sorted(offsets))
+        self.assertIn('data-search-group="Concepts &amp; Topics"', rendered)
+        self.assertIn('data-search-group="People &amp; Organizations"', rendered)
+        self.assertIn('instance.triggerFilter("group", group ? [group] : [])', rendered)
+        self.assertIn("{{ meta.type }}", rendered)
+        self.assertIn("{{ meta.context }}", rendered)
+        self.assertIn('class="search-result-type"', rendered)
+        self.assertIn('class="search-result-context"', rendered)
+
+    def test_every_page_exposes_searchable_type_group_context_and_alias_metadata(self):
         layout = BASE_LAYOUT.read_text()
         type_partial = ROOT / "layouts" / "partials" / "search-type.html"
+        group_partial = ROOT / "layouts" / "partials" / "search-group.html"
+        context_partial = ROOT / "layouts" / "partials" / "search-context.html"
+        aliases_partial = ROOT / "layouts" / "partials" / "search-aliases.html"
 
-        self.assertTrue(type_partial.is_file())
+        for path in (type_partial, group_partial, context_partial, aliases_partial):
+            self.assertTrue(path.is_file())
+
         self.assertIn('partial "search-type.html" .', layout)
-        self.assertIn('data-pagefind-filter="type[content]"', layout)
+        self.assertIn('partial "search-group.html" .', layout)
+        self.assertIn('partial "search-context.html" .', layout)
+        self.assertIn('partial "search-aliases.html" .', layout)
+        self.assertIn('data-pagefind-filter="group[content]"', layout)
+        self.assertIn('data-pagefind-meta="group[content]"', layout)
         self.assertIn('data-pagefind-meta="type[content]"', layout)
+        self.assertIn('data-pagefind-meta="context[content]"', layout)
+        self.assertIn('data-pagefind-meta="aliases[content]"', layout)
+        self.assertIn('data-pagefind-index-attrs="content"', layout)
 
         classifier = type_partial.read_text()
         self.assertIn('.Section "episodes"', classifier)
         self.assertIn(".Params.type", classifier)
         self.assertIn('.Data.Singular "show"', classifier)
-        self.assertIn('.Data.Singular "tag"', classifier)
-        self.assertIn('.Data.Singular "category"', classifier)
+
+        groups = group_partial.read_text()
+        self.assertIn('slice "concept" "topic"', groups)
+        self.assertIn('"Concepts & Topics"', groups)
+        self.assertIn('eq $type "entity"', groups)
+        self.assertIn('"People & Organizations"', groups)
+        self.assertIn('eq $type "source note"', groups)
+        self.assertIn('"Source Notes"', groups)
+
+        context = context_partial.read_text()
+        self.assertIn("wiki_knowledge_signals.pages", context)
+        self.assertIn(".Params.show", context)
+        self.assertIn(".Pages.Len", context)
+
+        aliases = aliases_partial.read_text()
+        self.assertIn(".Params.search_aliases", aliases)
+        self.assertNotIn(".Params.aliases", aliases)
 
 
 if __name__ == "__main__":
