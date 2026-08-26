@@ -6855,6 +6855,10 @@
     "title": "渤海郡 / Bohai Commandery (late Han)",
     "url": "/wiki/entities/bohaicommanderylatehan/"
   },
+  "BohaiKingdomLateHan": {
+    "title": "渤海王国 / Bohai Kingdom (late Han)",
+    "url": "/wiki/entities/bohaikingdomlatehan/"
+  },
   "Bolangsha": {
     "title": "博浪沙 / Bolangsha",
     "url": "/wiki/entities/bolangsha/"
@@ -13810,6 +13814,10 @@
   "DongMinLateHan": {
     "title": "董旻 / Dong Min (late Han)",
     "url": "/wiki/entities/dongminlatehan/"
+  },
+  "DongTengLateHan": {
+    "title": "董腾 / Dong Teng (late Han)",
+    "url": "/wiki/entities/dongtenglatehan/"
   },
   "DongWuyangLateHan": {
     "title": "东武阳 / Dong Wuyang (Late Han)",
@@ -27223,6 +27231,10 @@
     "title": "李固 / Li Gu (late Han)",
     "url": "/wiki/entities/ligulatehan/"
   },
+  "LiHaoLateHan": {
+    "title": "李昊 / Li Hao (late Han)",
+    "url": "/wiki/entities/lihaolatehan/"
+  },
   "LiHongjun": {
     "title": "李洪军 / Li Hongjun",
     "url": "/wiki/entities/lihongjun/"
@@ -27486,6 +27498,10 @@
   "LianPo": {
     "title": "廉颇 / Lian Po",
     "url": "/wiki/entities/lianpo/"
+  },
+  "LianZhongLateHan": {
+    "title": "廉中 / Lian Zhong (late Han)",
+    "url": "/wiki/entities/lianzhonglatehan/"
   },
   "LiangHuLateHan": {
     "title": "梁鹄 / Liang Hu (late Han)",
@@ -28014,6 +28030,10 @@
   "LiuKuanLateHan": {
     "title": "刘宽 / Liu Kuan (late Han)",
     "url": "/wiki/entities/liukuanlatehan/"
+  },
+  "LiuKuiBohaiKing": {
+    "title": "刘亏 / Liu Kui (Bohai king)",
+    "url": "/wiki/entities/liukuibohaiking/"
   },
   "LiuLiangyou": {
     "title": "刘良佑 / Liu Liangyou",
@@ -44143,6 +44163,10 @@
     "title": "苏本",
     "url": "/wiki/entities/suben/"
   },
+  "SuBuweiLateHan": {
+    "title": "苏不韦 / Su Buwei (late Han)",
+    "url": "/wiki/entities/subuweilatehan/"
+  },
   "SuCauseway": {
     "title": "苏堤 / Su Causeway",
     "url": "/wiki/entities/sucauseway/"
@@ -53179,6 +53203,10 @@
     "title": "郑人买履 / Zheng Ren Mai Lv",
     "url": "/wiki/concepts/zhengrenmailv/"
   },
+  "ZhengSaLateHan": {
+    "title": "郑萨 / Zheng Sa (late Han)",
+    "url": "/wiki/entities/zhengsalatehan/"
+  },
   "ZhengState": {
     "title": "郑国 / Zheng State",
     "url": "/wiki/entities/zhengstate/"
@@ -57350,6 +57378,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom": {
+    "title": "《资治通鉴·汉纪》903丨为什么劝你冤冤相报何时了？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom/"
   },
   "zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2": {
     "title": "《资治通鉴·汉纪》904丨觉照内观：获得心灵大自由的秘诀",

@@ -2,11 +2,13 @@
 title: "王甫 / Wang Fu (late Han)"
 type: entity
 tags: [late-han, han, eunuch, court-politics]
-sources: [zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj, zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g, zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus, zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu, zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg, zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5]
+sources: [zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom, zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj, zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g, zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus, zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu, zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg, zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5]
 last_updated: 2026-08-26
 ---
 
 # 王甫 / Wang Fu (late Han)
+
+[[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom|Hanji 903]] backfills Wang Fu before the Xianbei lobbying and later palace-accusation branches. [[LiuKuiBohaiKing|刘亏]] promises him fifty million cash if Wang can restore Liu's [[BohaiKingdomLateHan|Bohai]] kingship; after Liu refuses to pay, Wang monitors Liu's ties to [[ZhengSaLateHan|郑萨]] and [[DongTengLateHan|董腾]], has [[LianZhongLateHan|廉中]] forge evidence, and recodes the unpaid debt into a treason case. The case makes Wang Fu's page begin with [[InnerCourtAccessBrokerageRisk|access brokerage risk]] and [[PersonalRevengeThroughStatePower|personal revenge through state power]] before his later wugu and anti-eunuch-prosecution roles.
 
 [[zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj|Hanji 909]] backfills Wang Fu before the palace-accusation and destruction branches. [[TianYanLateHan|田晏]] asks Wang Fu to recommend him to [[EmperorLingOfHan|汉灵帝]] for the Xianbei campaign, and Wang Fu strongly pushes the expedition, helping turn Tian Yan into Po Xianbei zhonglangjiang. The case makes Wang Fu's inner-court access a military-policy channel before later sources show his role in palace accusation and eunuch-network retaliation.
 
@@ -25,6 +27,7 @@ The same source makes [[YangBiao|杨彪]]'s report against Wang Fu's Jingzhao re
 The episode uses Wang Fu mainly to situate Cao Jie's power and the anti-eunuch hostility facing the court. His page is source-scoped until later ingests add a fuller Wang Fu branch.
 
 ## Connections
+- [[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom|Hanji 903]], [[LiuKuiBohaiKing|刘亏]], [[BohaiKingdomLateHan|渤海王国]], [[ZhengSaLateHan|郑萨]], [[DongTengLateHan|董腾]], and [[LianZhongLateHan|廉中]] - access brokerage, unpaid debt, forged treason evidence, and collateral purge.
 - [[zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj|Hanji 909]], [[TianYanLateHan|田晏]], [[EmperorLingOfHan|汉灵帝]], [[CaiYong|蔡邕]], and [[OverextendedFrontierExpedition|边境远征过度]] - eunuch-backed expedition lobbying before the failed Xianbei campaign.
 - [[zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g|Hanji 913]], [[EmpressSongLateHan|宋皇后]], [[EmperorLingOfHan|汉灵帝]], and [[WuguPoliticalPanic|巫蛊政治恐慌]] - accusation that turns palace rivalry into lethal action.
 - [[zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus|Hanji 915]], [[WangJiLateHan|王吉]], [[WangMengLateHan|王萌]], [[YangBiao|杨彪]], [[DuanJiongLateHan|段熲]], and [[YangQiuLateHan|阳球]] - pre-destruction family-network exposure, prosecution, and corpse humiliation.

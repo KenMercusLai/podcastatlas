@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 7669
+wiki_total_pages: 7676
 wiki_pages:
   - key: "BSpecials"
     title: "B Specials"
@@ -884,6 +884,9 @@ wiki_pages:
   - key: "BoCaiLateHan"
     title: "波才 / Bo Cai (late Han)"
     url: "/wiki/entities/bocailatehan/"
+  - key: "BohaiKingdomLateHan"
+    title: "渤海王国 / Bohai Kingdom (late Han)"
+    url: "/wiki/entities/bohaikingdomlatehan/"
   - key: "BohaiCommanderyLateHan"
     title: "渤海郡 / Bohai Commandery (late Han)"
     url: "/wiki/entities/bohaicommanderylatehan/"

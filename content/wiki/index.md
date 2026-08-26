@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》903丨为什么劝你冤冤相报何时了？](sources/zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom.md) — 芮淇讲透资治通鉴 episode on Su Buwei's revenge spiral, Duan Jiong's extermination of Su's household, Liu Kui's unpaid Wang Fu brokerage, forged treason evidence, Bohai collateral punishment, Xu Sheng's Kuaiji uprising, and early Emperor Ling office/frontier churn.
 - [《资治通鉴·汉纪》904丨觉照内观：获得心灵大自由的秘诀](sources/zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2.md) — 芮淇讲透资治通鉴 episode on early-rising meditation and 觉照内观, 173-174 CE late-Han disaster/omen office churn, Tang Heng/Tang Zhen eunuch-family appointment networks, and Cao Cao's nineteen-year-old entry through Xiaolian, Qiao Xuan, Xu Shao, and Sima Fang.
 - [《资治通鉴·汉纪》905丨富贵如何险中求？](sources/zizhi-tongjian-hanji-905-fugui-ruhe-xianzhong-qiu-lklxx5nquka2mtbllxivk0a7b-fu.md) — 芮淇讲透资治通鉴 episode on Sun Jian's 174 CE role suppressing Xu Sheng, risk as career opportunity, Xianbei pressure, Emperor Ling and Cai Yong's Xiping Stone Classics project at Taixue, and Zhou Yu's 175 CE birth marker.
 - [《资治通鉴·汉纪》906丨厉害的人，为什么享受冲突？](sources/zizhi-tongjian-hanji-906-lihai-de-ren-weishenme-xiangshou-chongtu-lvc3wedrifdzdu-yv1qhocl8uss2.md) — 芮淇讲透资治通鉴 episode on conflict as source-scoped boundary practice, Cai Yong's 175 CE memorial against the 三互法 appointment bottleneck, vacant Youzhou/Jizhou inspector posts, and Sima Guang's rule-proliferation critique.
@@ -1492,7 +1493,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
-- [许生 / Xu Sheng (late-Han rebel)](entities/XuShengLateHan.md) — 174 CE rebel whose suppression by the Yangzhou-Danyang side becomes Sun Jian's first visible late-Han career opportunity in Hanji 905.
+- [苏不韦 / Su Buwei (late Han)](entities/SuBuweiLateHan.md) — Late-Han avenger whose failed revenge against Li Hao escalates into tomb desecration and the extermination of his own household under Duan Jiong.
+- [李昊 / Li Hao (late Han)](entities/LiHaoLateHan.md) — Late-Han target of Su Buwei's revenge whose father's corpse is desecrated and displayed before Duan Jiong's retaliation against Su's household.
+- [刘亏 / Liu Kui (Bohai king)](entities/LiuKuiBohaiKing.md) — Imperial kinsman restored as Bohai king through Wang Fu's access brokerage, then destroyed after refusing the promised payment.
+- [渤海王国 / Bohai Kingdom (late Han)](entities/BohaiKingdomLateHan.md) — Liu Kui's restored royal fief, turned into the target field for Wang Fu's forged treason case and mass collateral punishment.
+- [郑萨 / Zheng Sa (late Han)](entities/ZhengSaLateHan.md) — Court associate whose monitored ties to Liu Kui become evidence material in Wang Fu's forged treason case.
+- [董腾 / Dong Teng (late Han)](entities/DongTengLateHan.md) — Yellow Gate figure whose social connections with Liu Kui and Zheng Sa become suspicion material in Wang Fu's Bohai case.
+- [廉中 / Lian Zhong (late Han)](entities/LianZhongLateHan.md) — Shangshu ling said in Hanji 903 to forge evidence for Wang Fu's accusation that Zheng Sa and Liu Kui plotted imperial replacement.
+- [许生 / Xu Sheng (late-Han rebel)](entities/XuShengLateHan.md) — Kuaiji rebel who proclaims himself Yangming emperor in Hanji 903 before his suppression becomes Sun Jian's first visible late-Han career opportunity in Hanji 905.
 - [曹鸾 / Cao Luan (late Han)](entities/CaoLuanLateHan.md) — Yongchang administrator whose party-figure memorial triggers Emperor Ling's lethal response and wider party-prohibition kinship liability.
 - [夏育 / Xia Yu (late Han)](entities/XiaYuLateHan.md) — Hu Wuhuan xiaoyu whose offensive memorial and failed 177 CE Xianbei expedition command become a late-Han overextension case.
 - [田晏 / Tian Yan (late Han)](entities/TianYanLateHan.md) — Pardoned late-Han figure who uses Wang Fu's palace access to gain Xianbei campaign command before sharing the three-route defeat.
@@ -1512,7 +1520,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [沈忠 / Shen Zhong (late Han)](entities/ShenZhongLateHan.md) — Liangguo langzhong whose death-pledged memorial against Zhu Yu and eunuch corruption is shelved under Emperor Ling.
 - [于贵人 / Yu Guiren (late Han)](entities/YuGuirenLateHan.md) — Former imperial consort remembered as Xianling Guiren whose funeral route triggers Cao Jie's eunuch regrouping scene.
 - [何海 / He Hai (late Han)](entities/HeHaiLateHan.md) — Shanglu county official whose petition narrows party-prohibition collateral punishment for more distant kin.
-- [段熲 / Duan Jiong (late Han)](entities/DuanJiongLateHan.md) — Veteran frontier commander invoked by Lyu Qiang as a meritorious official whose family punishment shows correction and service no longer protected status.
+- [段熲 / Duan Jiong (late Han)](entities/DuanJiongLateHan.md) — Veteran frontier commander whose page now runs from Hanji 903's Su-household extermination through later office churn and anti-Wang Fu prosecution.
 - [张脩 / Zhang Xiu (Protector of Xiongnu)](entities/ZhangXiuProtectorOfXiongnu.md) — Han frontier official who kills Huzheng without authorization and installs Qiangqu as Southern Xiongnu chanyu; distinct from Zhang Xiu of Wancheng and Zhang Xiu of Five Pecks.
 - [呼征 / Huzheng Chanyu](entities/HuzhengChanyu.md) — Southern Xiongnu chanyu who first succeeds his father in 178 CE, then is killed by Zhang Xiu before Qiangqu's installation.
 - [朱瑀 / Zhu Yu (late Han)](entities/ZhuYuLateHan.md) — Eunuch favorite named with Cao Jie in Lyu Qiang's title-privilege criticism and Yang Qiu's target field.
@@ -1523,7 +1531,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [阳球 / Yang Qiu (late Han)](entities/YangQiuLateHan.md) — Late-Han shangshu ling and anti-eunuch official who first memorializes against Hongdu Menxue, then overreaches after destroying Wang Fu's network.
 - [程璜 / Cheng Huang (late Han)](entities/ChengHuangLateHan.md) — Eunuch intermediary who carries the leaked anti-Cao Jie plot to Cao Jie.
 - [何真 / He Zhen (late Han)](entities/HeZhenLateHan.md) — He-family household head whose daughter becomes Empress He and whose sons become outer-relative actors.
-- [王甫 / Wang Fu (late Han)](entities/WangFuLateHan.md) — Late-Han eunuch powerholder destroyed by Yang Qiu before the anti-Cao Jie escalation and named in the Cao Jie network background.
+- [王甫 / Wang Fu (late Han)](entities/WangFuLateHan.md) — Late-Han eunuch powerholder whose branch now runs from Liu Kui's unpaid restoration brokerage and forged treason case to later wugu accusation and Yang Qiu's prosecution.
 - [杨璇 / Yang Xuan (late Han)](entities/YangXuanLateHan.md) — Lingling administrator who uses lime/fire-horse and crossbow wagons to defeat Cangwu-Guiyang bandits before a blood-letter appeal overturns Zhao Kai's false accusation.
 - [赵凯 / Zhao Kai (late Han)](entities/ZhaoKaiLateHan.md) — Jingzhou inspector whose false accusation against Yang Xuan turns a local victory into prison-cart danger before the blood-letter appeal reverses the case.
 - [苍梧郡 / Cangwu Commandery (late Han)](entities/CangwuCommanderyLateHan.md) — Southern commandery whose bandits join Guiyang bandits in the Yang Xuan-Lingling suppression branch.
@@ -1731,7 +1739,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [丁原 / Ding Yuan (late Han)](entities/DingYuanLateHan.md) — Late-Han commander killed by Lü Bu as Dong Zhuo absorbs rival military force during the first Luoyang takeover.
 - [闵贡 / Min Gong (late Han)](entities/MinGongLateHan.md) — Late-Han figure in the young emperor and Chenliu prince's escape before Dong Zhuo's armed greeting turns rescue into coercive control.
 - [卢植 / Lu Zhi (late Han)](entities/LuZhiLateHan.md) — Late-Han official who objects to Dong Zhuo's forced deposition of Liu Bian and survives through reputation-backed de-escalation.
-- [袁隗 / Yuan Wei (late Han)](entities/YuanWeiLateHan.md) — Yuan-family elder and grand tutor made to handle the seal-transfer procedure in Dong Zhuo's coerced imperial replacement.
+- [袁隗 / Yuan Wei (late Han)](entities/YuanWeiLateHan.md) — Yuan-family senior official whose page now runs from Hanji 903's situ appointment through later rescue, false-edict, and Dong Zhuo seal-transfer roles.
 - [何太后 / Empress Dowager He](entities/EmpressDowagerHe.md) — He-family queen-mother whose eunuch debt and palace dependence block He Jin's purge before Dong Zhuo later removes and poisons her.
 - [何苗 / He Miao (late Han)](entities/HeMiaoLateHan.md) — He-family figure tied to eunuch benefits before He Jin's failure and later killed, with his corpse publicly mutilated after the deposition.
 - [武阳君 / Wuyang Jun](entities/WuyangJun.md) — He-family elder and eunuch-benefit channel who helps block He Jin's purge before being killed in Dong Zhuo's post-deposition terror.
@@ -2022,7 +2030,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [刘和 / Liu He (Late Han)](entities/LiuHeLateHan.md) — Liu Yu's son welcomed as a banner by the anti-Gongsun coalition.
 - [乌桓 / Wuhuan](entities/Wuhuan.md) — Northern frontier group whose forces help Yan Rou's anti-Gongsun coalition and whose respect for Tian Chou marks the Xu Wu Mountain order branch.
 - [赵苞 / 赵包 / Zhao Bao (Late Han)](entities/ZhaoBaoLateHan.md) — Liaoxi official whose mother and wife become Xianbei hostages in Hanji 910, creating a loyal-minister versus family-rescue dilemma distinct from Warring States Zhao Bao.
-- [鲜卑 / Xianbei](entities/Xianbei.md) — Northern frontier people whose wiki branch now includes Zhao Bao's 177 family-hostage battle, 181 leadership transition after Tanshihuai, later Liu Yu outreach, and the anti-Gongsun coalition.
+- [鲜卑 / Xianbei](entities/Xianbei.md) — Northern frontier people whose wiki branch now begins with Hanji 903's Bingzhou incursion before Zhao Bao's hostage battle, Tanshihuai succession, Liu Yu outreach, and the anti-Gongsun coalition.
 - [檀石槐 / Tanshihuai (Xianbei)](entities/TanshihuaiXianbei.md) — Xianbei leader used in Hanji 910 as hostage-pressure commander against Zhao Bao and whose death in Hanji 920 sets up the weaker He Lian and Kuitou succession branch.
 - [和连 / He Lian (Xianbei)](entities/HeLianXianbei.md) — Tanshihuai's son and weaker Xianbei successor, killed after attacking Beidi in the Hanji 920 succession summary.
 - [魁头 / Kuitou (Xianbei)](entities/KuitouXianbei.md) — Nephew-line Xianbei successor whose later contest with He Lian's son disperses the group in the Hanji 920 account.
@@ -2033,7 +2041,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [汉灵帝 / Emperor Ling of Han](entities/EmperorLingOfHan.md) — Late-Han emperor whose reign includes Hongdu Menxue patronage, Xidi office-sale pricing, palace-market play, private-treasury extraction, captured feedback, succession non-designation, and unresolved frontier appeals.
 - [董卓 / Dong Zhuo](entities/DongZhuo.md) — Late-Han warlord whose arc now runs from Luoyang terror and coerced scholar legitimacy through forced relocation, assassination, and Meiwu/Yijing fortress comparison.
 - [郿坞 / Meiwu Fortress](entities/MeiwuFortress.md) — Dong Zhuo's stronghold used as the comparison case for Yijing-style false security.
-- [南匈奴 / Southern Xiongnu](entities/SouthernXiongnu.md) — Late-Han frontier group whose Huzheng succession, Zhang Xiu intervention, Yufuluo crisis, later campaign roles, emperor-escort cavalry, and Huchuquan succession are tracked.
+- [南匈奴 / Southern Xiongnu](entities/SouthernXiongnu.md) — Late-Han frontier group whose branch now starts with Hanji 903's unnamed succession marker before Huzheng, Zhang Xiu, Yufuluo, emperor-escort, and Huchuquan notices.
 - [于扶罗 / Yufuluo Chanyu](entities/YufuluoChanyu.md) — Southern Xiongnu chanyu whose death is recorded at the end of Hanji 998.
 - [呼厨泉 / Huchuquan Chanyu](entities/HuchuquanChanyu.md) — Yufuluo's younger brother and Southern Xiongnu successor stationed at Pingyang.
 - [Coach / 蔻驰](entities/CoachFashionBrand.md) — Fashion brand in the source's China growth case, balancing higher average prices, less discounting, outlet use, small stores, and flagship image-building.
@@ -2721,7 +2729,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [百越 / Baiyue](entities/Baiyue.md) — Broad label for Yue peoples and polities subdued in Qinji 119-3 as Wang Jian pushes Qin control into Jiangnan before the Kuaiji Commandery setup.
 - [无诸 / Wuzhu (Minyue king)](entities/WuzhuMinyueKing.md) — Former Yue ruler named in the transcript as 吴珠, granted Minyue kingship by Liu Bang after supporting Han against Xiang Yu.
 - [闽越 / Minyue](entities/Minyue.md) — Yue-descended southeastern polity Liu Bang recognizes through Wuzhu's Minyue kingship in Hanji 169 part 2.
-- [会稽郡 / Kuaiji Commandery](entities/KuaijiCommandery.md) — Commandery from Qin's southeastern expansion through the Xiang takeover branch and Sun Ce's late-Han local base/title frame.
+- [会稽郡 / Kuaiji Commandery](entities/KuaijiCommandery.md) — Commandery from Qin's southeastern expansion through Xiang takeover, Xu Sheng's Hanji 903 uprising, and Sun Ce's late-Han local base/title frame.
 - [雍门司马 / Yongmen Sima](entities/YongmenSima.md) — Qi remonstrance figure who challenges Qi Wang Jian's proposed trip to Qin by asking whether the king exists for the state.
 - [白公胜之乱 / Bai Gong Sheng Rebellion](entities/BaiGongShengRebellion.md) — 479 BCE Chu crisis where Bai Gong Sheng kills Zi Xi and seizes Chu Hui Wang before Ye Gong suppresses the rebellion.
 - [楚惠王 / King Hui of Chu](entities/ChuHuiwang.md) — Chu ruler seized during Bai Gong Sheng's rebellion and restored by Ye Gong.

@@ -2,11 +2,13 @@
 title: "袁隗 / Yuan Wei (late Han)"
 type: entity
 tags: [person, late-han, official, yuan-family, china]
-sources: [zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79, zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj, zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5, zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk]
+sources: [zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom, zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79, zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj, zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5, zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk]
 last_updated: 2026-08-26
 ---
 
 # 袁隗 / Yuan Wei (late Han)
+
+[[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom|Hanji 903]] adds Yuan Wei's earliest high-office marker in this wiki. The source transcript renders him as 袁伟, but the route remains [[YuanWeiLateHan|袁隗]] because the senior late-Han office sequence matches the existing page. After Situ Xu Xu is removed, Yuan Wei is promoted from dahonglu to situ in the same early Emperor Ling field as [[Xianbei|鲜卑]] pressure and [[SouthernXiongnu|Southern Xiongnu]] succession.
 
 [[zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79|Hanji 907]] adds an earlier 176 CE office marker before Yuan Wei's later Wang Yun rescue and succession-crisis roles. The transcript renders him as "袁伟"; this page keeps the canonical Yuan Wei route because the senior-office role matches the later late-Han official. In the source, Yuan Wei is removed as situ before [[YangCiLateHan|杨赐]] is appointed in his place.
 
@@ -29,6 +31,7 @@ This makes Yuan Wei part of the same unstable title-and-office field that Hanji 
 His role is procedural rather than ideational. The source has Yuan Wei remove the imperial seal from Liu Bian and hand the position to [[EmperorXianOfHan|汉献帝]], making him the visible court official through whom armed coercion receives ritual form. This makes him a source case for [[MingqiLegitimacy|名器合法性]] under duress: the seal and office still matter, but the will behind them belongs to Dong Zhuo's military control.
 
 ## Connections
+- [[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom|Hanji 903]], [[EmperorLingOfHan|汉灵帝]], [[Xianbei|鲜卑]], and [[SouthernXiongnu|南匈奴]] - earliest situ appointment marker in the office-churn sequence.
 - [[zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79|Hanji 907]], [[YangCiLateHan|杨赐]], and [[EmperorLingOfHan|汉灵帝]] - earlier removal as situ in the 176 CE office sequence.
 - [[zizhi-tongjian-hanji-931-rensheng-jiannan-chu-bianshi-xiuxin-shi-lpzmvxop8lmlwvxhoojzj5ok9qd6|Hanji 931]], [[WangYunLateHan|王允]], [[HeJin|何进]], and [[YangCiLateHan|杨赐]] - early rescue of Wang Yun after Zhang Rang's retaliation.
 - [[zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj|Hanji 933]], [[CuiLieLateHan|崔烈]], and [[OfficeSaleLegitimacyDamage|买官名节损耗]] - removal from the situ office before Cui Lie's purchased appointment.

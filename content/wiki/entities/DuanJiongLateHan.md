@@ -2,11 +2,13 @@
 title: "段熲 / Duan Jiong (late Han)"
 type: entity
 tags: [person, late-han, general, frontier, court-politics]
-sources: [zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2, zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus, zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg]
+sources: [zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom, zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2, zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus, zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg]
 last_updated: 2026-08-26
 ---
 
 # 段熲 / Duan Jiong (late Han)
+
+[[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom|Hanji 903]] adds the earliest Duan Jiong branch now attached to this page. Before his high-office churn appears in Hanji 904, the source places him in the [[SuBuweiLateHan|苏不韦]] and [[LiHaoLateHan|李昊]] revenge sequence: Duan is tied to Li Hao, tests Su with a private post, and then has Su's household exterminated after Su refuses. This makes Duan's page begin with [[PrivatePunishmentWithoutProcedure|private punishment without procedure]] before it becomes a frontier-merit and anti-eunuch-prosecution page.
 
 [[zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2|Hanji 904]] adds an earlier 173 CE high-office churn marker before Duan Jiong's later prosecution and memorialized service record. The source appoints him taiwei after Li Xian is removed, then removes him near the late-year Xianbei and eclipse notices, making his page begin with office instability before the Hanji 915-917 fall-and-merit branch.
 
@@ -19,6 +21,7 @@ Duan dies by suicide after the arrest. In this episode he is less a pure merit-v
 The episode uses Duan Jiong as a second warning beside [[CaiYong|蔡邕]]. A court that lets corrective speakers and meritorious commanders be punished teaches silence and fear, turning merit records into weak protection once palace politics controls interpretation.
 
 ## Connections
+- [[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom|Hanji 903]], [[SuBuweiLateHan|苏不韦]], [[LiHaoLateHan|李昊]], [[AtrocityRetaliationCycle|retaliatory escalation]], and [[PrivatePunishmentWithoutProcedure|无程序私刑]] - private coercion and household extermination before Duan's later court offices.
 - [[zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2|Hanji 904]], [[Xianbei|鲜卑]], and [[CelestialOmenPoliticalResponsibility|天象政治责任]] - 173 CE taiwei appointment and removal beside frontier pressure and eclipse notices.
 - [[zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus|Hanji 915]], [[WangFuLateHan|王甫]], [[CaoJieLateHan|曹节]], and [[YangQiuLateHan|阳球]] - direct arrest and suicide in the anti-Wang Fu prosecution.
 - [[LyuQiangLateHan|吕强]] — memorializes for recalling Cai Yong and restoring Duan Jiong's family.

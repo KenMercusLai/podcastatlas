@@ -2,11 +2,13 @@
 title: "Tomb-Desecration Political Violence / 陵墓亵渎式政治暴力"
 type: concept
 tags: [political-violence, ritual-order, memory, war]
-sources: [zizhi-tongjian-hanji-952-danxing-haoshi-weishenme-mowen-qiancheng-li9vvaeaues9-fxy4e4yp-f4pugj]
-last_updated: 2026-08-25
+sources: [zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom, zizhi-tongjian-hanji-952-danxing-haoshi-weishenme-mowen-qiancheng-li9vvaeaues9-fxy4e4yp-f4pugj]
+last_updated: 2026-08-26
 ---
 
 # Tomb-Desecration Political Violence / 陵墓亵渎式政治暴力
+
+[[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom|Hanji 903]] adds a private-revenge version before the Dong Zhuo warlord branch. [[SuBuweiLateHan|苏不韦]] digs up [[LiHaoLateHan|李昊]]'s father's grave and decapitates the corpse after failing to kill Li directly. Here the tomb violation is not wealth extraction from state collapse; it is a family-targeted insult designed to continue revenge through ancestor, corpse, and public memory.
 
 Tomb-desecration political violence names the pattern in which grave robbery, mausoleum destruction, or corpse-directed violation becomes more than opportunistic theft. In [[zizhi-tongjian-hanji-952-danxing-haoshi-weishenme-mowen-qiancheng-li9vvaeaues9-fxy4e4yp-f4pugj|Hanji 952]], [[DongZhuo|Dong Zhuo]]'s looting of imperial mausoleums and ministerial graves around [[LuoyangLateHan|Luoyang]] attacks ancestral memory, ritual order, and cultural inheritance while also extracting treasure.
 
@@ -15,12 +17,14 @@ The concept sits beside, but is not identical to, [[PublicCorpseHumiliation|publ
 ## Key Claims
 
 - Tomb violation in political crisis can function as an attack on public memory and ritual legitimacy, not just as wealth extraction.
+- Hanji 903 adds that tomb violation can also work as revenge against a living target's family line after a direct attack fails.
 - Dong Zhuo's grave looting makes the Luoyang disaster ancestral and cultural as well as urban and military.
 - Because graves encode family and dynastic continuity, their destruction can intensify the perception that a ruler or warlord has crossed from harsh rule into civilizational vandalism.
 
 ## Connections
 
 - [[DongZhuo|Dong Zhuo]] - the late-Han example of tomb-desecration violence in the wiki.
+- [[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom|Hanji 903]], [[SuBuweiLateHan|苏不韦]], [[LiHaoLateHan|李昊]], and [[AtrocityRetaliationCycle|retaliatory escalation]] - private-feud tomb desecration before the Dong Zhuo branch.
 - [[LuoyangLateHan|Luoyang (late Han)]] - the ruined capital landscape where palaces, homes, and tombs are all violated.
 - [[WarDisasterCompounding]] - tomb desecration compounds ordinary war destruction by adding ritual and memory harm.
 - [[PublicCorpseHumiliation]] - related but narrower pattern of post-mortem degradation.

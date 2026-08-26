@@ -11660,6 +11660,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-26] ingest | 《资治通鉴·汉纪》903丨为什么劝你冤冤相报何时了？
+
+Added source page for Hanji 903: Su Buwei's revenge against Li Hao, tomb desecration and corpse display, Duan Jiong's extermination of Su's household, Liu Kui's restored Bohai kingship through Wang Fu's unpaid access brokerage, forged treason evidence through Zheng Sa, Dong Teng, and Lian Zhong, Xu Sheng's Kuaiji uprising, Xianbei pressure, Southern Xiongnu succession, and Yuan Wei's situ appointment. Created Su Buwei, Li Hao, Liu Kui, Bohai Kingdom, Zheng Sa, Dong Teng, and Lian Zhong; updated linked late-Han entity and concept pages. No settled contradiction found; transcript variants for Duan Jiong, Wang Fu, Yuan Wei, and Xu Sheng are normalized to existing routes, while Liu Kui's source spelling is preserved and Zhang Xian is left source-scoped to avoid collision with the existing Zhang Xian route.
+
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》909丨2025如何养成一身贵气？
 
 Added source page for Hanji 909: "贵气" and self-command framing, Cai Yong's rejected warning against the 177 CE deep Xianbei expedition, Wang Fu's sponsorship of Tian Yan, Xia Yu/Tian Yan/Zang Min's three-route defeat by Tanshihuai, and eclipse/earthquake-linked office accountability afterward. Created Xia Yu, Tian Yan (late Han), Zang Min, Liu Kuan, Meng Yu, and Overextended Frontier Expedition; updated Cai Yong, Emperor Ling, Wang Fu, Xianbei, Tanshihuai, war-cost and strategic-assessment concepts, omen concepts, Ruiqi show page, index, and overview. No settled contradiction found; the episode's "last large-scale external expedition" claim remains source-scoped.
@@ -11893,6 +11897,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》905丨富贵如何险中求？
 
 Added source page for Hanji 905: Sun Jian's 174 CE role in suppressing Xu Sheng, the youth-bandit story and source-scoped "富贵险中求" risk-opportunity frame, Zang Min's Yangzhou branch, Xianbei pressure, Emperor Ling and Cai Yong's Xiping Stone Classics project at Taixue, and Zhou Yu's 175 CE birth marker. Created Xu Sheng, Crisis Opportunity Conversion, and Xiping Stone Classics; updated linked late-Han entity and concept pages. No settled contradiction found; "藏民" is normalized to Zang Min, Danyang-name uncertainty remains source-scoped, and Sun-family ancestral-cloud material is treated as legendary coloration.
+
+## [2026-08-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-26] lint | Wiki health check
 

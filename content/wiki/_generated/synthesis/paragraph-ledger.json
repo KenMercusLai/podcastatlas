@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "e2b2eeb2a497845d9d0b856265b8d97834b83e4dcd49a380fc66e7537163cd55",
       "e47d1d5203e78026f14f4a86bcbd1066d57a54949b99fadad0960ed8b889fc7d",
       "a1716c3e63a84c7da824cdab200702525dd2cb4ee0321f1394555522d1fde71c",
       "d5b87245157f3b8c8f793da419acd28d1cd7fb95a5d0240ae8fb34b34d4a0b2a",
@@ -237,11 +238,46 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "b16a38bd6e190222f7f3e6f0535803ce60ae7f3304e3477dfcdd995a15fb502f"
     ],
-    "paragraph_count": 235
+    "paragraph_count": 236
   },
-  "overview_commit": "9562a68c35d3475b6bbfce9c51fd6777a0d29946",
-  "overview_digest": "1b4db3f3bfd93f865db971e9032113f533c5cec805823d28c12653c3b0429061",
+  "overview_commit": "e31d7a3ed0e5001e73bcc673231e9ac65c2e0b3a",
+  "overview_digest": "ef3e763ade802c0f011b0637bf6e64c5eb449c0eb2a387d8fd47f33e910211a0",
   "paragraphs": [
+    {
+      "id": "e2b2eeb2a497845d9d0b856265b8d97834b83e4dcd49a380fc66e7537163cd55",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom|《资治通鉴·汉纪》903丨为什么劝你冤冤相报何时了？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the pre-Hanji 904 late-Han layer. It adds [[SuBuweiLateHan|苏不韦]], [[LiHaoLateHan|李昊]], [[LiuKuiBohaiKing|刘亏]], [[BohaiKingdomLateHan|渤海王国]], [[ZhengSaLateHan|郑萨]], [[DongTengLateHan|董腾]], and [[LianZhongLateHan|廉中]], while extending [[DuanJiongLateHan|段熲]], [[WangFuLateHan|王甫]], [[EmperorLingOfHan|汉灵帝]], [[XuShengLateHan|许生]], [[KuaijiCommandery|会稽郡]], [[Xianbei|鲜卑]], [[SouthernXiongnu|南匈奴]], [[YuanWeiLateHan|袁隗]], [[AtrocityRetaliationCycle|retaliatory escalation]], [[TreasonAccusationTrap|谋反指控陷阱]], [[InnerCourtAccessBrokerageRisk|内廷通道攀附风险]], [[PersonalRevengeThroughStatePower|以国力行私仇]], [[PrivatePunishmentWithoutProcedure|无程序私刑]], and [[CollateralPunishmentAndGuiltByAssociation|collateral punishment]]. Its core synthesis is that early Emperor Ling-era disorder appears before the later disaster and Xianbei-expedition sequence as private grievance becoming public catastrophe: Su Buwei's revenge violates tomb and corpse, Duan Jiong answers through household extermination, and Wang Fu turns Liu Kui's unpaid access bargain into forged treason evidence that the court rewards. No settled contradiction is recorded; transcript variants for 段熲, 王甫, 袁隗, and 许生 are normalized to existing routes, while 刘亏 is preserved source-scoped and 张贤 is left unlinked to avoid collision with the existing 张献 page.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "AtrocityRetaliationCycle",
+        "BohaiKingdomLateHan",
+        "CollateralPunishmentAndGuiltByAssociation",
+        "DongTengLateHan",
+        "DuanJiongLateHan",
+        "EmperorLingOfHan",
+        "InnerCourtAccessBrokerageRisk",
+        "KuaijiCommandery",
+        "LiHaoLateHan",
+        "LianZhongLateHan",
+        "LiuKuiBohaiKing",
+        "PersonalRevengeThroughStatePower",
+        "PrivatePunishmentWithoutProcedure",
+        "RuiqiJiangtouZizhiTongjian",
+        "SouthernXiongnu",
+        "SuBuweiLateHan",
+        "TreasonAccusationTrap",
+        "WangFuLateHan",
+        "Xianbei",
+        "XuShengLateHan",
+        "YuanWeiLateHan",
+        "ZhengSaLateHan",
+        "zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom"
+      ]
+    },
     {
       "id": "e47d1d5203e78026f14f4a86bcbd1066d57a54949b99fadad0960ed8b889fc7d",
       "primary_topic": "history-and-geopolitics",

@@ -2,11 +2,13 @@
 title: "Treason Accusation Trap / 谋反指控陷阱"
 type: concept
 tags: [court-politics, governance, political-intrigue, pre-qin-history]
-sources: [zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l, zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb, zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv, zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob, zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y, zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij]
-last_updated: 2026-08-23
+sources: [zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom, zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l, zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb, zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv, zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob, zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y, zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij]
+last_updated: 2026-08-26
 ---
 
 # Treason Accusation Trap / 谋反指控陷阱
+
+[[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom|Hanji 903]] adds a late-Han debt-and-network version. [[WangFuLateHan|王甫]] first brokers [[LiuKuiBohaiKing|刘亏]]'s restoration as king of [[BohaiKingdomLateHan|Bohai]], then turns against him after Liu refuses the promised payment. Liu's resentment and his ties to [[ZhengSaLateHan|郑萨]] and [[DongTengLateHan|董腾]] become accusation material once [[LianZhongLateHan|廉中]] forges evidence that the circle planned to install Liu as emperor.
 
 Treason accusation trap / 谋反指控陷阱 is the pattern [[zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij]] draws from [[ZouJi|成侯邹忌]]'s attack on [[TianJi|田忌]]. After Tian Ji's [[MalingBattle|马陵之战]] victory raises his prestige, Zou Ji arranges a staged market divination in which a supposed Tian Ji agent asks whether the general can "do great things," making military success look like a possible rebellion signal.
 
@@ -27,6 +29,7 @@ This concept is adjacent to [[PoliticalParableWeaponization]], but it is harsher
 [[zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l|Hanji 183]] turns that border case into an explicit historiographical problem. The host argues that Han Xin's late rebellion report was likely framed, not proven, because he had refused betrayal when he had real command leverage and would have had fewer tools after demotion. The concept therefore must preserve both possibilities: a transmitted informer report that operates like a treason trigger, and a later interpretive layer treating the same report as political construction.
 
 ## Key Claims
+- Hanji 903 adds a late-Han court-brokerage branch: unpaid palace access, monitored association, and forged paperwork turn a restored imperial kinsman into a throne-security threat.
 - Hanji 183 adds a source-critical branch: the accusation may be the political trap itself rather than evidence of an underlying plot.
 - Hanji 182 part 2 adds that even a seemingly grounded informer report can produce the same operational pattern as a trap: security pressure first, protocol capture second.
 - Hanji 172 adds a two-step version: accusation creates ruler-security pressure, while ritual summons supplies the low-force capture method.
@@ -40,6 +43,7 @@ This concept is adjacent to [[PoliticalParableWeaponization]], but it is harsher
 - A treason accusation can remove a commander even when the external enemy is the obvious immediate threat; ruler fear can outrank battlefield necessity.
 
 ## Connections
+- [[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom|Hanji 903]], [[LiuKuiBohaiKing|刘亏]], [[WangFuLateHan|王甫]], [[ZhengSaLateHan|郑萨]], [[DongTengLateHan|董腾]], [[LianZhongLateHan|廉中]], and [[EmperorLingOfHan|汉灵帝]] - restored-title debt recoded into forged treason evidence.
 - [[zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l|Hanji 183]], [[HanXin|韩信]], [[SimaGuang|司马光]], [[LuZhi|吕雉]], and [[PowerExitTrap|权力退场困境]] - frame-up reading and challenge to moralized blame.
 - [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb|Hanji 182 part 2]], [[HanXin|韩信]], [[LuZhi|吕雉]], [[XiaoHe|萧何]], and [[CelebratorySummonsEntrapment|报捷祝贺式诱捕]] - informer report followed by palace-protocol capture.
 - [[zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv|Hanji 172]], [[HanXin|韩信]], [[LiuBang|刘邦]], [[ChenPing|陈平]], and [[RitualTourSummonsEntrapment|巡游会侯式诱捕]] - early Han accusation followed by protocol-based arrest.
