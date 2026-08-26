@@ -9083,6 +9083,10 @@
     "title": "Chen Jiageng / 陈嘉庚",
     "url": "/wiki/entities/chenjiageng/"
   },
+  "ChenJianYuanShuRetainer": {
+    "title": "陈简 / Chen Jian (Yuan Shu retainer)",
+    "url": "/wiki/entities/chenjianyuanshuretainer/"
+  },
   "ChenJingchu": {
     "title": "Chen Jingchu",
     "url": "/wiki/entities/chenjingchu/"
@@ -11998,6 +12002,10 @@
   "CuiLieLateHan": {
     "title": "崔烈 / Cui Lie (late Han)",
     "url": "/wiki/entities/cuilielatehan/"
+  },
+  "CuiYanLateHan": {
+    "title": "崔琰 / Cui Yan (late Han)",
+    "url": "/wiki/entities/cuiyanlatehan/"
   },
   "CuiZhouping": {
     "title": "崔州平 / Cui Zhouping",
@@ -19074,6 +19082,10 @@
   "GeneticCulpabilityProblem": {
     "title": "Genetic Culpability Problem / 遗传归责问题",
     "url": "/wiki/concepts/geneticculpabilityproblem/"
+  },
+  "GengBaoLateHan": {
+    "title": "耿包 / Geng Bao (late Han)",
+    "url": "/wiki/entities/gengbaolatehan/"
   },
   "GengBiLateHan": {
     "title": "耿鄙 / Geng Bi (late Han)",
@@ -27398,6 +27410,10 @@
   "LegitimacyWindowSeizure": {
     "title": "Legitimacy Window Seizure / 合法性窗口抢占",
     "url": "/wiki/concepts/legitimacywindowseizure/"
+  },
+  "LeiBoYuanShuRetainer": {
+    "title": "雷波 / Lei Bo (Yuan Shu retainer)",
+    "url": "/wiki/entities/leiboyuanshuretainer/"
   },
   "LeiJun": {
     "title": "Lei Jun",
@@ -51691,6 +51707,10 @@
     "title": "许路 / Xu Lu",
     "url": "/wiki/entities/xulu/"
   },
+  "XuQiuGuanglingLateHan": {
+    "title": "徐秋 / Xu Qiu (Guangling late Han)",
+    "url": "/wiki/entities/xuqiuguanglinglatehan/"
+  },
   "XuQiuLateHan": {
     "title": "许秋 / Xu Qiu (late Han)",
     "url": "/wiki/entities/xuqiulatehan/"
@@ -57862,6 +57882,10 @@
   "zizhi-tongjian-hanji-1031-gongsunzan-zhisi-cong-bianjiang-zhanshen-dao-kunshou-zifen-lmqoechccfwmfpmbdx8-tjmnm3jz": {
     "title": "《资治通鉴·汉纪》1031丨公孙瓒之死：从边疆战神到困兽自焚",
     "url": "/wiki/sources/zizhi-tongjian-hanji-1031-gongsunzan-zhisi-cong-bianjiang-zhanshen-dao-kunshou-zifen-lmqoechccfwmfpmbdx8-tjmnm3jz/"
+  },
+  "zizhi-tongjian-hanji-1033-geju-junfa-yuanshu-zuizhong-tuxue-er-wang-lt0ibs-en0oeoqkkcxl8sevjng4": {
+    "title": "《资治通鉴·汉纪》1033丨割据军阀袁术，最终吐血而亡？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-1033-geju-junfa-yuanshu-zuizhong-tuxue-er-wang-lt0ibs-en0oeoqkkcxl8sevjng4/"
   },
   "zizhi-tongjian-hanji-1034-yuanshao-de-baiju-zhi-yin-buken-ting-jushou-de-hua-log-wy2zvpdjopbdyexb0ijqmph4": {
     "title": "《资治通鉴·汉纪》1034丨袁绍的败局，只因不肯听沮授的话？",

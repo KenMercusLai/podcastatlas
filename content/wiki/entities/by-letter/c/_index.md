@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 7788
+wiki_total_pages: 7793
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -1265,6 +1265,9 @@ wiki_pages:
   - key: "CuiLieLateHan"
     title: "崔烈 / Cui Lie (late Han)"
     url: "/wiki/entities/cuilielatehan/"
+  - key: "CuiYanLateHan"
+    title: "崔琰 / Cui Yan (late Han)"
+    url: "/wiki/entities/cuiyanlatehan/"
   - key: "CuiJunLateHan"
     title: "崔钧 / Cui Jun (late Han)"
     url: "/wiki/entities/cuijunlatehan/"
@@ -1646,6 +1649,9 @@ wiki_pages:
   - key: "ChenDuanLateHan"
     title: "陈端 / Chen Duan (Late Han)"
     url: "/wiki/entities/chenduanlatehan/"
+  - key: "ChenJianYuanShuRetainer"
+    title: "陈简 / Chen Jian (Yuan Shu retainer)"
+    url: "/wiki/entities/chenjianyuanshuretainer/"
   - key: "ChenJiLateHan"
     title: "陈纪 / Chen Ji (late Han)"
     url: "/wiki/entities/chenjilatehan/"

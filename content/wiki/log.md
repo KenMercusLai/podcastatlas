@@ -12138,9 +12138,17 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-27] ingest | 《资治通鉴·汉纪》1033丨割据军阀袁术，最终吐血而亡？
+
+Added source page for Hanji 1033: Yuan Shu's final luxury-and-famine collapse, failed refuge with Chen Jian and Lei Bo, attempted title transfer toward Yuan Shao, Liu Bei and Zhu Ling's interception, Yuan Yin's remnant flight to Liu Xun, the Heirloom Imperial Seal's return to court, Yuan Shao's post-Gongsun-Zan title temptation, and the Ju Shou / Guo Tu / Shen Pei pre-Guandu debate. Created Chen Jian (Yuan Shu retainer), Lei Bo (Yuan Shu retainer), Geng Bao, Cui Yan, and Xu Qiu (Guangling late Han); updated Ju Shou, Guo Tu, Shen Pei, Yuan Yin, Liu Xun, Heirloom Imperial Seal, Post-Success Arrogance, Hierarchy-Aware Advice Framing, and Anti-Usurpation Coalition Pressure. No settled contradiction found; transcript variants around Zhu Ling, Yuan Tan, Xu Qiu, and Lei Bo remain source-scoped.
+
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》1034丨袁绍的败局，只因不肯听沮授的话？
 
 Added source page for Hanji 1034: Yuan Shao's pre-Guandu council, Ju Shou's rest, agriculture, and harassment strategy, Guo Tu and Shen Pei's flattering pro-war framing, Cao Cao and Xun Yu's diagnosis of Yuan's advisers and generals, and Cao's early deployments through 黎阳, 青州, the Yellow River line, and 官渡. Created Yan Liang, Wen Chou, Zang Ba, Liyang (Yellow River), and Hierarchy-Aware Advice Framing; updated Ju Shou, Guo Tu, Shen Pei, and Guandu Campaign. No settled contradiction found; the episode qualifies "Yuan lost because he ignored Ju Shou" by adding advice framing, internal factionalism, and Cao-side organizational comparison.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-27] lint | Wiki health check
 
