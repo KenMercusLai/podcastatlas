@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 7833
+wiki_total_pages: 7838
 wiki_pages:
   - key: "RachelReeves"
     title: "Rachel Reeves"
@@ -167,6 +167,9 @@ wiki_pages:
   - key: "ReginaldMaudling"
     title: "Reginald Maudling"
     url: "/wiki/entities/reginaldmaudling/"
+  - key: "RegnansInExcelsis"
+    title: "Regnans in Excelsis"
+    url: "/wiki/entities/regnansinexcelsis/"
   - key: "ReidHoffman"
     title: "Reid Hoffman"
     url: "/wiki/entities/reidhoffman/"
@@ -317,6 +320,9 @@ wiki_pages:
   - key: "RickyAlam"
     title: "Ricky Alam"
     url: "/wiki/entities/rickyalam/"
+  - key: "RidolfiPlot"
+    title: "Ridolfi Plot"
+    url: "/wiki/entities/ridolfiplot/"
   - key: "Ring"
     title: "Ring"
     url: "/wiki/entities/ring/"
@@ -404,6 +410,9 @@ wiki_pages:
   - key: "RobertSmith"
     title: "Robert Smith"
     url: "/wiki/entities/robertsmith/"
+  - key: "RobertoRidolfi"
+    title: "Roberto Ridolfi"
+    url: "/wiki/entities/robertoridolfi/"
   - key: "RobinDunbar"
     title: "Robin Dunbar / 罗宾·邓巴"
     url: "/wiki/entities/robindunbar/"

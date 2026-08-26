@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "v"
-wiki_total_pages: 7833
+wiki_total_pages: 7838
 wiki_pages:
   - key: "VacheronConstantin"
     title: "Vacheron Constantin"

@@ -1659,6 +1659,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025": [
     {
       "key": "history",
@@ -47757,6 +47764,13 @@
     }
   ],
   "RobertSmith": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
+  "RobertoRidolfi": [
     {
       "key": "economics",
       "label": "Economics",

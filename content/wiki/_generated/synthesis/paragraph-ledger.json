@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "eb1ac9cf89cf337a5ff0121af84ace8643a6544a45a9cc56bbedb3670589ef7a",
       "072aed6a21e807d5a78b02e0ca8b8493b571199d6760e84c96728f1c083b0598",
       "a47936afcfdb27f98815bc151f6b9e14a3181634eed517cf8919e4908eae520d",
       "d7991ddfbce0b1d31aaa461ba983f6cecc1eceec91c9af96d47d787ef95e5be8",
@@ -273,11 +274,44 @@
       "ed252faccaaf1dc4e8c654d3406a6a1a0fc3a6f6fe78821348d1b123c7e85a5c",
       "32b62a0e1fc3144c5e7770721fc745607afef0d0cf46a8fe94d35cab377dbbf9"
     ],
-    "paragraph_count": 271
+    "paragraph_count": 272
   },
-  "overview_commit": "43031f8c1b4a191bc1afa64c959b775a1b9f86f2",
-  "overview_digest": "aa3c7e8af8c56de720ed58315c611f025a749a46e6594baf1f1014ab9aa8138a",
+  "overview_commit": "381a5e90c30865c1c6ae2a80afbc17e2d0c680e5",
+  "overview_digest": "892adc6f2c45e3da3debc6faf102833e99e3c386092f56a4cbca6322813bec38",
   "paragraphs": [
+    {
+      "id": "eb1ac9cf89cf337a5ff0121af84ace8643a6544a45a9cc56bbedb3670589ef7a",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561|691. Elizabeth I vs The Catholics: The Queen's Spymaster (Part 1)]], a [[TheRestIsHistory]] episode opening the Elizabeth I versus Catholics sequence through [[WilliamCecil|William Cecil / Lord Burleigh]]'s 1569 security logic. It adds [[ThomasHowardDukeOfNorfolk|Thomas Howard / Duke of Norfolk]], [[RobertoRidolfi]], [[RidolfiPlot]], [[NorthernRising]], and [[RegnansInExcelsis]], while extending [[ElizabethI|Elizabeth I]], [[MaryQueenOfScots|Mary, Queen of Scots]], [[FrancisWalsingham]], [[LowCountries|Low Countries]], [[TudorSuccessionCrisis]], [[ElizabethanRecusancySecurityState]], [[ConfessionalInvasionConspiracy]], [[RoyalExecutionLegitimacy]], [[SpyNetworkEntrapment]], and [[ConfessionalWarEscalation]]. Its core synthesis is that Elizabethan anti-Catholic security politics begin before Paris, Drake, Throckmorton, and Babington: Mary's arrival in England, Norfolk's marriage scheme, papal excommunication, the Northern Rising, Ridolfi's papal-money channel, and Low Countries repression make Cecil's paranoia look like a governing system rather than an isolated fear. No settled contradiction is recorded; Ridolfi's exact role remains source-scoped because the episode keeps open whether he was conspirator, plant, double agent, or survivor.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "governance-and-institutions": 3,
+        "history-and-geopolitics": 2
+      },
+      "wikilinks": [
+        "691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561",
+        "ConfessionalInvasionConspiracy",
+        "ConfessionalWarEscalation",
+        "ElizabethI",
+        "ElizabethanRecusancySecurityState",
+        "FrancisWalsingham",
+        "LowCountries",
+        "MaryQueenOfScots",
+        "NorthernRising",
+        "RegnansInExcelsis",
+        "RidolfiPlot",
+        "RobertoRidolfi",
+        "RoyalExecutionLegitimacy",
+        "SpyNetworkEntrapment",
+        "TheRestIsHistory",
+        "ThomasHowardDukeOfNorfolk",
+        "TudorSuccessionCrisis",
+        "WilliamCecil"
+      ]
+    },
     {
       "id": "072aed6a21e807d5a78b02e0ca8b8493b571199d6760e84c96728f1c083b0598",
       "primary_topic": "business-and-markets",

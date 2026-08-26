@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 1865
+topic_total_pages: 1866
 topic_concepts:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -4136,6 +4136,9 @@ topic_entities:
   - key: "RobertSmith"
     title: "Robert Smith"
     url: "/wiki/entities/robertsmith/"
+  - key: "RobertoRidolfi"
+    title: "Roberto Ridolfi"
+    url: "/wiki/entities/robertoridolfi/"
   - key: "RobinGreenwood"
     title: "Robin Greenwood"
     url: "/wiki/entities/robingreenwood/"

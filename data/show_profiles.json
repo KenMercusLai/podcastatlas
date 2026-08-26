@@ -817,14 +817,14 @@
       "earliest_episode_date": "2020-11-02",
       "latest_episode_date": "2026-08-23",
       "latest_episode_file": "GLT9519811642 [GLT9519811642].md",
-      "source_note_count": 8,
-      "topic_matched_source_note_count": 8,
+      "source_note_count": 9,
+      "topic_matched_source_note_count": 9,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 8
+          "source_note_count": 9
         }
       ],
       "entities": [
@@ -833,19 +833,33 @@
           "title": "Elizabeth I",
           "url": "/wiki/entities/elizabethi/",
           "kind": "person",
-          "episode_count": 5
+          "episode_count": 6
         },
         {
           "key": "FrancisWalsingham",
           "title": "Francis Walsingham",
           "url": "/wiki/entities/franciswalsingham/",
           "kind": "person",
-          "episode_count": 5
+          "episode_count": 6
+        },
+        {
+          "key": "MaryQueenOfScots",
+          "title": "Mary, Queen of Scots",
+          "url": "/wiki/entities/maryqueenofscots/",
+          "kind": "person",
+          "episode_count": 4
         },
         {
           "key": "PhilipII",
           "title": "Philip II of Spain",
           "url": "/wiki/entities/philipii/",
+          "kind": "person",
+          "episode_count": 4
+        },
+        {
+          "key": "WilliamCecil",
+          "title": "William Cecil / Lord Burleigh",
+          "url": "/wiki/entities/williamcecil/",
           "kind": "person",
           "episode_count": 4
         },
@@ -867,20 +881,6 @@
           "key": "IrishRepublicanArmy",
           "title": "Irish Republican Army",
           "url": "/wiki/entities/irishrepublicanarmy/",
-          "kind": "organization",
-          "episode_count": 3
-        },
-        {
-          "key": "MaryQueenOfScots",
-          "title": "Mary, Queen of Scots",
-          "url": "/wiki/entities/maryqueenofscots/",
-          "kind": "person",
-          "episode_count": 3
-        },
-        {
-          "key": "OrangeOrder",
-          "title": "Orange Order",
-          "url": "/wiki/entities/orangeorder/",
           "kind": "organization",
           "episode_count": 3
         }

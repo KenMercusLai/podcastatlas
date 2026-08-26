@@ -1562,6 +1562,80 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/concealedcapabilitytiming/"
     },
+    "ConfessionalInvasionConspiracy": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "GLT4665799025 [GLT4665799025].md",
+          "key": "692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025",
+          "show": "The Rest Is History",
+          "title": "692. Elizabeth I vs The Catholics: A Massacre in Paris (Part 2)",
+          "url": "/wiki/sources/692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025/"
+        },
+        {
+          "episode_file": "GLT1627515087 [GLT1627515087].md",
+          "key": "694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087",
+          "show": "The Rest Is History",
+          "title": "694. Elizabeth I vs The Catholics: A Treacherous Conspiracy (Part 4)",
+          "url": "/wiki/sources/694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087/"
+        },
+        {
+          "episode_file": "GLT8312620561 [GLT8312620561].md",
+          "key": "691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561",
+          "show": "The Rest Is History",
+          "title": "691. Elizabeth I vs The Catholics: The Queen's Spymaster (Part 1)",
+          "url": "/wiki/sources/691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/confessionalinvasionconspiracy/"
+    },
+    "ConfessionalWarEscalation": {
+      "episode_count": 5,
+      "show_count": 1,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "GLT4665799025 [GLT4665799025].md",
+          "key": "692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025",
+          "show": "The Rest Is History",
+          "title": "692. Elizabeth I vs The Catholics: A Massacre in Paris (Part 2)",
+          "url": "/wiki/sources/692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025/"
+        },
+        {
+          "episode_file": "GLT1627515087 [GLT1627515087].md",
+          "key": "694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087",
+          "show": "The Rest Is History",
+          "title": "694. Elizabeth I vs The Catholics: A Treacherous Conspiracy (Part 4)",
+          "url": "/wiki/sources/694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087/"
+        },
+        {
+          "episode_file": "GLT5637968455 [GLT5637968455].md",
+          "key": "695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455",
+          "show": "The Rest Is History",
+          "title": "695. Elizabeth I vs The Catholics: The Shadow War (Part 5)",
+          "url": "/wiki/sources/695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455/"
+        },
+        {
+          "episode_file": "GLT2334035496 [GLT2334035496].md",
+          "key": "696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496",
+          "show": "The Rest Is History",
+          "title": "696. Elizabeth I vs The Catholics: Killing the Queen of Scots (Part 6)",
+          "url": "/wiki/sources/696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496/"
+        },
+        {
+          "episode_file": "GLT8312620561 [GLT8312620561].md",
+          "key": "691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561",
+          "show": "The Rest Is History",
+          "title": "691. Elizabeth I vs The Catholics: The Queen's Spymaster (Part 1)",
+          "url": "/wiki/sources/691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/confessionalwarescalation/"
+    },
     "ConsortioGroupFinancing": {
       "episode_count": 1,
       "show_count": 1,
@@ -2122,6 +2196,80 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/elanparadoxmachines/"
     },
+    "ElizabethI": {
+      "episode_count": 6,
+      "show_count": 1,
+      "source_note_count": 6,
+      "sources": [
+        {
+          "episode_file": "GLT4665799025 [GLT4665799025].md",
+          "key": "692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025",
+          "show": "The Rest Is History",
+          "title": "692. Elizabeth I vs The Catholics: A Massacre in Paris (Part 2)",
+          "url": "/wiki/sources/692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025/"
+        },
+        {
+          "episode_file": "GLT5069845329 [GLT5069845329].md",
+          "key": "693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329",
+          "show": "The Rest Is History",
+          "title": "693. Elizabeth I vs The Catholics: England's Greatest Hero (Part 3)",
+          "url": "/wiki/sources/693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329/"
+        },
+        {
+          "episode_file": "GLT1627515087 [GLT1627515087].md",
+          "key": "694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087",
+          "show": "The Rest Is History",
+          "title": "694. Elizabeth I vs The Catholics: A Treacherous Conspiracy (Part 4)",
+          "url": "/wiki/sources/694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087/"
+        },
+        {
+          "episode_file": "GLT5637968455 [GLT5637968455].md",
+          "key": "695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455",
+          "show": "The Rest Is History",
+          "title": "695. Elizabeth I vs The Catholics: The Shadow War (Part 5)",
+          "url": "/wiki/sources/695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455/"
+        },
+        {
+          "episode_file": "GLT2334035496 [GLT2334035496].md",
+          "key": "696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496",
+          "show": "The Rest Is History",
+          "title": "696. Elizabeth I vs The Catholics: Killing the Queen of Scots (Part 6)",
+          "url": "/wiki/sources/696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496/"
+        },
+        {
+          "episode_file": "GLT8312620561 [GLT8312620561].md",
+          "key": "691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561",
+          "show": "The Rest Is History",
+          "title": "691. Elizabeth I vs The Catholics: The Queen's Spymaster (Part 1)",
+          "url": "/wiki/sources/691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/elizabethi/"
+    },
+    "ElizabethanRecusancySecurityState": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "GLT4665799025 [GLT4665799025].md",
+          "key": "692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025",
+          "show": "The Rest Is History",
+          "title": "692. Elizabeth I vs The Catholics: A Massacre in Paris (Part 2)",
+          "url": "/wiki/sources/692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025/"
+        },
+        {
+          "episode_file": "GLT8312620561 [GLT8312620561].md",
+          "key": "691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561",
+          "show": "The Rest Is History",
+          "title": "691. Elizabeth I vs The Catholics: The Queen's Spymaster (Part 1)",
+          "url": "/wiki/sources/691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/elizabethanrecusancysecuritystate/"
+    },
     "EmbodiedDataPyramid": {
       "episode_count": 6,
       "show_count": 5,
@@ -2561,6 +2709,57 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/forwarddeployedengineer/"
+    },
+    "FrancisWalsingham": {
+      "episode_count": 6,
+      "show_count": 1,
+      "source_note_count": 6,
+      "sources": [
+        {
+          "episode_file": "GLT4665799025 [GLT4665799025].md",
+          "key": "692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025",
+          "show": "The Rest Is History",
+          "title": "692. Elizabeth I vs The Catholics: A Massacre in Paris (Part 2)",
+          "url": "/wiki/sources/692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025/"
+        },
+        {
+          "episode_file": "GLT5069845329 [GLT5069845329].md",
+          "key": "693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329",
+          "show": "The Rest Is History",
+          "title": "693. Elizabeth I vs The Catholics: England's Greatest Hero (Part 3)",
+          "url": "/wiki/sources/693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329/"
+        },
+        {
+          "episode_file": "GLT1627515087 [GLT1627515087].md",
+          "key": "694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087",
+          "show": "The Rest Is History",
+          "title": "694. Elizabeth I vs The Catholics: A Treacherous Conspiracy (Part 4)",
+          "url": "/wiki/sources/694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087/"
+        },
+        {
+          "episode_file": "GLT5637968455 [GLT5637968455].md",
+          "key": "695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455",
+          "show": "The Rest Is History",
+          "title": "695. Elizabeth I vs The Catholics: The Shadow War (Part 5)",
+          "url": "/wiki/sources/695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455/"
+        },
+        {
+          "episode_file": "GLT2334035496 [GLT2334035496].md",
+          "key": "696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496",
+          "show": "The Rest Is History",
+          "title": "696. Elizabeth I vs The Catholics: Killing the Queen of Scots (Part 6)",
+          "url": "/wiki/sources/696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496/"
+        },
+        {
+          "episode_file": "GLT8312620561 [GLT8312620561].md",
+          "key": "691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561",
+          "show": "The Rest Is History",
+          "title": "691. Elizabeth I vs The Catholics: The Queen's Spymaster (Part 1)",
+          "url": "/wiki/sources/691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/franciswalsingham/"
     },
     "FraserMcIlwraith": {
       "episode_count": 1,
@@ -5186,6 +5385,36 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/longtermachievementdiscipline/"
     },
+    "LowCountries": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "GLT1627515087 [GLT1627515087].md",
+          "key": "694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087",
+          "show": "The Rest Is History",
+          "title": "694. Elizabeth I vs The Catholics: A Treacherous Conspiracy (Part 4)",
+          "url": "/wiki/sources/694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087/"
+        },
+        {
+          "episode_file": "GLT5637968455 [GLT5637968455].md",
+          "key": "695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455",
+          "show": "The Rest Is History",
+          "title": "695. Elizabeth I vs The Catholics: The Shadow War (Part 5)",
+          "url": "/wiki/sources/695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455/"
+        },
+        {
+          "episode_file": "GLT8312620561 [GLT8312620561].md",
+          "key": "691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561",
+          "show": "The Rest Is History",
+          "title": "691. Elizabeth I vs The Catholics: The Queen's Spymaster (Part 1)",
+          "url": "/wiki/sources/691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/lowcountries/"
+    },
     "LoyaltyCollateralDilemma": {
       "episode_count": 7,
       "show_count": 1,
@@ -5656,6 +5885,43 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/maoqinlatehan/"
+    },
+    "MaryQueenOfScots": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "GLT4665799025 [GLT4665799025].md",
+          "key": "692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025",
+          "show": "The Rest Is History",
+          "title": "692. Elizabeth I vs The Catholics: A Massacre in Paris (Part 2)",
+          "url": "/wiki/sources/692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025/"
+        },
+        {
+          "episode_file": "GLT1627515087 [GLT1627515087].md",
+          "key": "694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087",
+          "show": "The Rest Is History",
+          "title": "694. Elizabeth I vs The Catholics: A Treacherous Conspiracy (Part 4)",
+          "url": "/wiki/sources/694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087/"
+        },
+        {
+          "episode_file": "GLT2334035496 [GLT2334035496].md",
+          "key": "696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496",
+          "show": "The Rest Is History",
+          "title": "696. Elizabeth I vs The Catholics: Killing the Queen of Scots (Part 6)",
+          "url": "/wiki/sources/696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496/"
+        },
+        {
+          "episode_file": "GLT8312620561 [GLT8312620561].md",
+          "key": "691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561",
+          "show": "The Rest Is History",
+          "title": "691. Elizabeth I vs The Catholics: The Queen's Spymaster (Part 1)",
+          "url": "/wiki/sources/691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/maryqueenofscots/"
     },
     "MassProducedAIIntimacy": {
       "episode_count": 1,
@@ -6369,6 +6635,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/northeastmodernitytestsite/"
     },
+    "NorthernRising": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8312620561 [GLT8312620561].md",
+          "key": "691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561",
+          "show": "The Rest Is History",
+          "title": "691. Elizabeth I vs The Catholics: The Queen's Spymaster (Part 1)",
+          "url": "/wiki/sources/691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/northernrising/"
+    },
     "Oakley": {
       "episode_count": 1,
       "show_count": 1,
@@ -6927,6 +7209,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/raybansmartglasses/"
     },
+    "RegnansInExcelsis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8312620561 [GLT8312620561].md",
+          "key": "691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561",
+          "show": "The Rest Is History",
+          "title": "691. Elizabeth I vs The Catholics: The Queen's Spymaster (Part 1)",
+          "url": "/wiki/sources/691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/regnansinexcelsis/"
+    },
     "ReputationListPersecutionTarget": {
       "episode_count": 2,
       "show_count": 1,
@@ -7050,6 +7348,38 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/returningarmyinterdictionrisk/"
+    },
+    "RidolfiPlot": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8312620561 [GLT8312620561].md",
+          "key": "691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561",
+          "show": "The Rest Is History",
+          "title": "691. Elizabeth I vs The Catholics: The Queen's Spymaster (Part 1)",
+          "url": "/wiki/sources/691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/ridolfiplot/"
+    },
+    "RobertoRidolfi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8312620561 [GLT8312620561].md",
+          "key": "691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561",
+          "show": "The Rest Is History",
+          "title": "691. Elizabeth I vs The Catholics: The Queen's Spymaster (Part 1)",
+          "url": "/wiki/sources/691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/robertoridolfi/"
     },
     "RobotAsAService": {
       "episode_count": 1,
@@ -7206,6 +7536,29 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/rootcausepacification/"
+    },
+    "RoyalExecutionLegitimacy": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "GLT2334035496 [GLT2334035496].md",
+          "key": "696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496",
+          "show": "The Rest Is History",
+          "title": "696. Elizabeth I vs The Catholics: Killing the Queen of Scots (Part 6)",
+          "url": "/wiki/sources/696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496/"
+        },
+        {
+          "episode_file": "GLT8312620561 [GLT8312620561].md",
+          "key": "691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561",
+          "show": "The Rest Is History",
+          "title": "691. Elizabeth I vs The Catholics: The Queen's Spymaster (Part 1)",
+          "url": "/wiki/sources/691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/royalexecutionlegitimacy/"
     },
     "RuleOverKinshipPower": {
       "episode_count": 2,
@@ -7580,6 +7933,43 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/spotrobot/"
+    },
+    "SpyNetworkEntrapment": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "GLT4665799025 [GLT4665799025].md",
+          "key": "692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025",
+          "show": "The Rest Is History",
+          "title": "692. Elizabeth I vs The Catholics: A Massacre in Paris (Part 2)",
+          "url": "/wiki/sources/692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025/"
+        },
+        {
+          "episode_file": "GLT1627515087 [GLT1627515087].md",
+          "key": "694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087",
+          "show": "The Rest Is History",
+          "title": "694. Elizabeth I vs The Catholics: A Treacherous Conspiracy (Part 4)",
+          "url": "/wiki/sources/694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087/"
+        },
+        {
+          "episode_file": "GLT2334035496 [GLT2334035496].md",
+          "key": "696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496",
+          "show": "The Rest Is History",
+          "title": "696. Elizabeth I vs The Catholics: Killing the Queen of Scots (Part 6)",
+          "url": "/wiki/sources/696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496/"
+        },
+        {
+          "episode_file": "GLT8312620561 [GLT8312620561].md",
+          "key": "691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561",
+          "show": "The Rest Is History",
+          "title": "691. Elizabeth I vs The Catholics: The Queen's Spymaster (Part 1)",
+          "url": "/wiki/sources/691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/spynetworkentrapment/"
     },
     "StanfordInstituteForHumanCenteredAI": {
       "episode_count": 1,
@@ -7998,6 +8388,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/teyanataylor/"
     },
+    "ThomasHowardDukeOfNorfolk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8312620561 [GLT8312620561].md",
+          "key": "691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561",
+          "show": "The Rest Is History",
+          "title": "691. Elizabeth I vs The Catholics: The Queen's Spymaster (Part 1)",
+          "url": "/wiki/sources/691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/thomashowarddukeofnorfolk/"
+    },
     "TianFengLateHan": {
       "episode_count": 3,
       "show_count": 1,
@@ -8215,6 +8621,43 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/trustbasedcommonsgovernance/"
+    },
+    "TudorSuccessionCrisis": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "GLT4665799025 [GLT4665799025].md",
+          "key": "692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025",
+          "show": "The Rest Is History",
+          "title": "692. Elizabeth I vs The Catholics: A Massacre in Paris (Part 2)",
+          "url": "/wiki/sources/692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025/"
+        },
+        {
+          "episode_file": "GLT1627515087 [GLT1627515087].md",
+          "key": "694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087",
+          "show": "The Rest Is History",
+          "title": "694. Elizabeth I vs The Catholics: A Treacherous Conspiracy (Part 4)",
+          "url": "/wiki/sources/694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087/"
+        },
+        {
+          "episode_file": "GLT2334035496 [GLT2334035496].md",
+          "key": "696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496",
+          "show": "The Rest Is History",
+          "title": "696. Elizabeth I vs The Catholics: Killing the Queen of Scots (Part 6)",
+          "url": "/wiki/sources/696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496/"
+        },
+        {
+          "episode_file": "GLT8312620561 [GLT8312620561].md",
+          "key": "691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561",
+          "show": "The Rest Is History",
+          "title": "691. Elizabeth I vs The Catholics: The Queen's Spymaster (Part 1)",
+          "url": "/wiki/sources/691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/tudorsuccessioncrisis/"
     },
     "USChinaScienceCompetition": {
       "episode_count": 1,
@@ -8566,6 +9009,43 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/wholecompanybranding/"
+    },
+    "WilliamCecil": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "GLT4665799025 [GLT4665799025].md",
+          "key": "692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025",
+          "show": "The Rest Is History",
+          "title": "692. Elizabeth I vs The Catholics: A Massacre in Paris (Part 2)",
+          "url": "/wiki/sources/692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025/"
+        },
+        {
+          "episode_file": "GLT1627515087 [GLT1627515087].md",
+          "key": "694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087",
+          "show": "The Rest Is History",
+          "title": "694. Elizabeth I vs The Catholics: A Treacherous Conspiracy (Part 4)",
+          "url": "/wiki/sources/694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087/"
+        },
+        {
+          "episode_file": "GLT2334035496 [GLT2334035496].md",
+          "key": "696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496",
+          "show": "The Rest Is History",
+          "title": "696. Elizabeth I vs The Catholics: Killing the Queen of Scots (Part 6)",
+          "url": "/wiki/sources/696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496/"
+        },
+        {
+          "episode_file": "GLT8312620561 [GLT8312620561].md",
+          "key": "691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561",
+          "show": "The Rest Is History",
+          "title": "691. Elizabeth I vs The Catholics: The Queen's Spymaster (Part 1)",
+          "url": "/wiki/sources/691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/williamcecil/"
     },
     "WomensFootballVisibility": {
       "episode_count": 1,
