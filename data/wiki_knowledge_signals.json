@@ -5375,9 +5375,9 @@
       "url": "/wiki/entities/ericweinstein/"
     },
     "EunuchPatronageViolenceShield": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》872丨他娶妾不成，竟杀人全家 [ltBEGc7GBET2_HLhwhtevVltGNlC].md",
@@ -5399,6 +5399,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》869丨李膺为何被称为天下第一楷模？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-869-liying-weihe-bei-chengwei-tianxia-diyi-kaimo-lltckcioe1n9v91yy4c9vvwmz4mo/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》866丨真正活明白的人，懂得“三不沾” [lhhMmyjfo6MkF-qS6BhHZu8HHLN6].md",
+          "key": "zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》866丨真正活明白的人，懂得“三不沾”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6/"
         }
       ],
       "updated": "2026-08-28",
@@ -5727,6 +5734,29 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/fengchanlatehan/"
+    },
+    "FengGunLateHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》866丨真正活明白的人，懂得“三不沾” [lhhMmyjfo6MkF-qS6BhHZu8HHLN6].md",
+          "key": "zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》866丨真正活明白的人，懂得“三不沾”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》869丨李膺为何被称为天下第一楷模？ [llTCKCiOE1n9V91Yy4C9VvWmZ4mo].md",
+          "key": "zizhi-tongjian-hanji-869-liying-weihe-bei-chengwei-tianxia-diyi-kaimo-lltckcioe1n9v91yy4c9vvwmz4mo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》869丨李膺为何被称为天下第一楷模？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-869-liying-weihe-bei-chengwei-tianxia-diyi-kaimo-lltckcioe1n9v91yy4c9vvwmz4mo/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/fenggunlatehan/"
     },
     "FengyishanBattleLateHan": {
       "episode_count": 1,
@@ -6670,9 +6700,9 @@
       "url": "/wiki/entities/goodfriendsfilm/"
     },
     "GuanBaLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》884丨职场除奸，要对谁先开刀？ [lvtC3uQLsO242olKyin3fvz5A7YS].md",
@@ -6680,9 +6710,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》884丨职场除奸，要对谁先开刀？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》866丨真正活明白的人，懂得“三不沾” [lhhMmyjfo6MkF-qS6BhHZu8HHLN6].md",
+          "key": "zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》866丨真正活明白的人，懂得“三不沾”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-28",
       "url": "/wiki/entities/guanbalatehan/"
     },
     "GuanJingLateHan": {
@@ -7405,9 +7442,9 @@
       "url": "/wiki/entities/hufanglatehan/"
     },
     "HuLanLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》867丨无辜被泼脏水？他选择霸气回击 [lqEnvOy7X8iC-Qn3_bf93QJ8tjVk].md",
@@ -7415,6 +7452,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》867丨无辜被泼脏水？他选择霸气回击",
           "url": "/wiki/sources/zizhi-tongjian-hanji-867-wugu-bei-po-zangshui-ta-xuanze-baqi-huiji-lqenvoy7x8ic-qn3-bf93qj8tjvk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》866丨真正活明白的人，懂得“三不沾” [lhhMmyjfo6MkF-qS6BhHZu8HHLN6].md",
+          "key": "zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》866丨真正活明白的人，懂得“三不沾”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6/"
         }
       ],
       "updated": "2026-08-28",
@@ -9597,9 +9641,9 @@
       "url": "/wiki/entities/litonglatehan/"
     },
     "LiYingLateHan": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》893丨荣誉榜如何变成死亡名单？ [lmxzQoaUf79-swWNK_0CEVAv0GQ_].md",
@@ -9649,6 +9693,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》869丨李膺为何被称为天下第一楷模？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-869-liying-weihe-bei-chengwei-tianxia-diyi-kaimo-lltckcioe1n9v91yy4c9vvwmz4mo/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》866丨真正活明白的人，懂得“三不沾” [lhhMmyjfo6MkF-qS6BhHZu8HHLN6].md",
+          "key": "zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》866丨真正活明白的人，懂得“三不沾”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6/"
         }
       ],
       "updated": "2026-08-28",
@@ -10071,10 +10122,33 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/liuyelatehan/"
     },
-    "LiuYuAstrologerLateHan": {
+    "LiuYouLateHan": {
       "episode_count": 2,
       "show_count": 1,
       "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》866丨真正活明白的人，懂得“三不沾” [lhhMmyjfo6MkF-qS6BhHZu8HHLN6].md",
+          "key": "zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》866丨真正活明白的人，懂得“三不沾”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》869丨李膺为何被称为天下第一楷模？ [llTCKCiOE1n9V91Yy4C9VvWmZ4mo].md",
+          "key": "zizhi-tongjian-hanji-869-liying-weihe-bei-chengwei-tianxia-diyi-kaimo-lltckcioe1n9v91yy4c9vvwmz4mo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》869丨李膺为何被称为天下第一楷模？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-869-liying-weihe-bei-chengwei-tianxia-diyi-kaimo-lltckcioe1n9v91yy4c9vvwmz4mo/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/liuyoulatehan/"
+    },
+    "LiuYuAstrologerLateHan": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》885丨生死关头，他请假休息？！ [luYDnh9OqdyYFPBeztoOi2E7lvca].md",
@@ -10089,9 +10163,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》884丨职场除奸，要对谁先开刀？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》866丨真正活明白的人，懂得“三不沾” [lhhMmyjfo6MkF-qS6BhHZu8HHLN6].md",
+          "key": "zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》866丨真正活明白的人，懂得“三不沾”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-28",
       "url": "/wiki/entities/liuyuastrologerlatehan/"
     },
     "LiuZhiTaiyuanLateHan": {
@@ -14207,9 +14288,9 @@
       "url": "/wiki/entities/romanceofthethreekingdoms/"
     },
     "RootCausePacification": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》922丨如何在凡尘中修炼情商？ [lsXIqNEYyEOd6AeeQxuhs517PN1X].md",
@@ -14238,9 +14319,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》883丨老板要反思：如何避免高官内讧？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-883-laoban-yao-fansi-ruhe-bimian-gaoguan-neihong-lph-fycnqas6hztjq1jbsisvylid/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》866丨真正活明白的人，懂得“三不沾” [lhhMmyjfo6MkF-qS6BhHZu8HHLN6].md",
+          "key": "zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》866丨真正活明白的人，懂得“三不沾”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-28",
       "url": "/wiki/concepts/rootcausepacification/"
     },
     "RoyalExecutionLegitimacy": {
@@ -15300,9 +15388,9 @@
       "url": "/wiki/concepts/strategicemotionconcealment/"
     },
     "SuKangLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》884丨职场除奸，要对谁先开刀？ [lvtC3uQLsO242olKyin3fvz5A7YS].md",
@@ -15310,9 +15398,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》884丨职场除奸，要对谁先开刀？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》866丨真正活明白的人，懂得“三不沾” [lhhMmyjfo6MkF-qS6BhHZu8HHLN6].md",
+          "key": "zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》866丨真正活明白的人，懂得“三不沾”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-28",
       "url": "/wiki/entities/sukanglatehan/"
     },
     "SubconsciousCreativeIncubation": {
@@ -16083,6 +16178,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/threeqwar/"
+    },
+    "ThreeRefusalsIntegrity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》866丨真正活明白的人，懂得“三不沾” [lhhMmyjfo6MkF-qS6BhHZu8HHLN6].md",
+          "key": "zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》866丨真正活明白的人，懂得“三不沾”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/threerefusalsintegrity/"
     },
     "TianFengLateHan": {
       "episode_count": 5,
@@ -18122,6 +18233,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/yangbiao/"
     },
+    "YangBingLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》866丨真正活明白的人，懂得“三不沾” [lhhMmyjfo6MkF-qS6BhHZu8HHLN6].md",
+          "key": "zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》866丨真正活明白的人，懂得“三不沾”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/yangbinglatehan/"
+    },
     "YangCiLateHan": {
       "episode_count": 10,
       "show_count": 1,
@@ -18332,6 +18459,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/yangqiaolatehan/"
+    },
+    "YangYuanqunLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》866丨真正活明白的人，懂得“三不沾” [lhhMmyjfo6MkF-qS6BhHZu8HHLN6].md",
+          "key": "zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》866丨真正活明白的人，懂得“三不沾”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/yangyuanqunlatehan/"
     },
     "YanjinBattleLateHan": {
       "episode_count": 1,
@@ -19230,6 +19373,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/zhouhongyi/"
     },
+    "ZhouJingLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》866丨真正活明白的人，懂得“三不沾” [lhhMmyjfo6MkF-qS6BhHZu8HHLN6].md",
+          "key": "zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》866丨真正活明白的人，懂得“三不沾”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/zhoujinglatehan/"
+    },
     "ZhouYuLateHan": {
       "episode_count": 7,
       "show_count": 1,
@@ -19305,9 +19464,9 @@
       "url": "/wiki/entities/zhubilatehan/"
     },
     "ZhuGaiLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》867丨无辜被泼脏水？他选择霸气回击 [lqEnvOy7X8iC-Qn3_bf93QJ8tjVk].md",
@@ -19315,6 +19474,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》867丨无辜被泼脏水？他选择霸气回击",
           "url": "/wiki/sources/zizhi-tongjian-hanji-867-wugu-bei-po-zangshui-ta-xuanze-baqi-huiji-lqenvoy7x8ic-qn3-bf93qj8tjvk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》866丨真正活明白的人，懂得“三不沾” [lhhMmyjfo6MkF-qS6BhHZu8HHLN6].md",
+          "key": "zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》866丨真正活明白的人，懂得“三不沾”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6/"
         }
       ],
       "updated": "2026-08-28",

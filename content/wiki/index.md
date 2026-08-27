@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》866丨真正活明白的人，懂得“三不沾”](sources/zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6.md) — 芮淇讲透资治通鉴 episode on Yang Yuanqun's bribery reversal against Li Ying, Feng Gun and Liu You's punishment after enforcing against eunuch-linked actors, Yang Bing's "three refusals" integrity, Liu Yu's anti-eunuch memorial, and the Zhu Gai-Hu Lan rebellion prelude.
 - [VOL.215 低GI蜂蜜、零蔗糖、抗糖丸…？这届控糖人到底踩了多少坑？ft.「大食话」](sources/vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z.md) — 这病说来话长 episode with 阿汤 and 岳宛柔 on practical sugar control, liquid sugar, added and free sugars, low-GI honey, zero-sucrose labels, sweeteners, glycation anxiety, and staple-food structure.
 - [《资治通鉴·汉纪》867丨无辜被泼脏水？他选择霸气回击](sources/zizhi-tongjian-hanji-867-wugu-bei-po-zangshui-ta-xuanze-baqi-huiji-lqenvoy7x8ic-qn3-bf93qj8tjvk.md) — 芮淇讲透资治通鉴 episode on Chen Qiu's Lingling defense, Du Shang's false report against Zhang Pan, Zhang Pan's refusal to accept amnesty without exoneration, Duan Jiong's Western Qiang victory, and Chen Fan's Taiwei appointment.
 - [《资治通鉴·汉纪》868丨赢了也是输家？东汉后宫争艳记](sources/zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v.md) — 芮淇讲透资治通鉴 episode on Wang Chang's Nanyang governance reversal, per-mu land taxation, chronicle policy compression, Liu Mao's sikong appointment, and Emperor Huan's harem sequence from Empress Deng and Guo Guiren through Tian Sheng and Dou Miao.
@@ -1596,6 +1597,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [羊元群 / Yang Yuanqun (late Han)](entities/YangYuanqunLateHan.md) — Corrupt Beihai official whose eunuch bribery turns Li Ying's investigation into an enforcement-reversal case.
+- [冯绲 / Feng Gun (late Han)](entities/FengGunLateHan.md) — Legal official punished after a eunuch-relative custody case is recoded against him, later included in Ying Feng's pardon context.
+- [刘祐 / Liu You (late Han)](entities/LiuYouLateHan.md) — Fiscal official punished after trying to confiscate underpriced property acquisitions by Su Kang and Guan Ba.
+- [杨秉 / Yang Bing (late Han)](entities/YangBingLateHan.md) — Clean late-Han minister whose "three refusals" toward wine, sexual entanglement, and money frame public-office integrity.
+- [周景 / Zhou Jing (late Han)](entities/ZhouJingLateHan.md) — Senior official paired with Yang Bing in anti-corruption enforcement during Emperor Huan's eunuch-dominated court.
 - [胡方 / Hu Fang (late Han)](entities/HuFangLateHan.md) — Bingzhou inspector who refuses to validate Huangfu Gui's attempted self-impeachment exit from frontier appointment.
 - [赵典 / Zhao Dian (late Han)](entities/ZhaoDianLateHan.md) — Taichang whose recommendation brings Xun Shuang into Emperor Huan's post-eclipse court examination field.
 - [Sam Harris](entities/SamHarris.md) — Huberman Lab guest presenting meditation as first-person inquiry into consciousness, selfing, thought identification, psychedelics, and ordinary freedom.
@@ -1712,10 +1718,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [杨桥 / Yang Qiao (late Han)](entities/YangQiaoLateHan.md) — Source-bounded late-Han recommended talent whose fatal refusal of Emperor Huan's princess-marriage pressure anchors the coerced imperial marriage case.
 - [宋弘 / Song Hong (Eastern Han)](entities/SongHongEasternHan.md) — Eastern Han official used as the Liu Xiu restraint contrast to Yang Qiao's fatal coerced-marriage case.
 - [赵饶 / Zhao Rao (late Han)](entities/ZhaoRaoLateHan.md) — Emperor Ling's wet nurse and palace-proximity actor whose daily access helps explain Dou Miao's hesitation and later appears in Cao Jie's emergency custody channel.
-- [管霸 / Guan Ba (late Han)](entities/GuanBaLateHan.md) — Powerful zhongchangshi singled out as the first selective anti-eunuch target when Dou Miao refuses a blanket purge.
-- [苏康 / Su Kang (late Han)](entities/SuKangLateHan.md) — Zhongchangshi arrested and executed with Guan Ba in Dou Miao's limited first anti-eunuch punishment.
+- [管霸 / Guan Ba (late Han)](entities/GuanBaLateHan.md) — Powerful zhongchangshi whose profile now spans underpriced property acquisition, Liu You's failed confiscation order, and later selective execution.
+- [苏康 / Su Kang (late Han)](entities/SuKangLateHan.md) — Zhongchangshi whose protected property acquisition precedes his paired execution with Guan Ba in Dou Miao's limited purge.
 - [杜密 / Du Mi (late Han)](entities/DuMiLateHan.md) — Late-Han士人 whose profile now runs from first Party Prohibition imprisonment, Zheng Xuan recognition, and public-duty critique to reform-court hope and later reputation danger.
-- [刘瑜 / Liu Yu (late Han astrologer)](entities/LiuYuAstrologerLateHan.md) — Disambiguated reform-cohort omen reader whose warning to Dou Miao, Dou Wu, and Chen Fan turns celestial interpretation into palace-security advice before the 168 CE countercoup.
+- [刘瑜 / Liu Yu (late Han astrologer)](entities/LiuYuAstrologerLateHan.md) — Disambiguated Guangling remonstrant and omen reader whose role spans Liu Yu's anti-eunuch memorial and later palace-security warning.
 - [山冰 / Shan Bing (late Han)](entities/ShanBingLateHan.md) — Dou-side small yellow-gate actor inserted into the Huangmenling channel, arresting Zheng Sa before Wang Fu reverses the prison channel.
 - [尹勋 / Yin Xun (late Han)](entities/YinXunLateHan.md) — Reform-cohort figure and Dou-side memorial actor who joins Shan Bing in requesting the arrest of Cao Jie and Wang Fu after Zheng Sa's interrogation.
 - [巴肃 / Ba Su (late Han)](entities/BaSuLateHan.md) — Bohai-associated late-Han participant in the Dou Wu plan who refuses a magistrate's escape offer and accepts execution.
@@ -1735,7 +1741,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tableau](entities/Tableau.md) — Analytics/dashboard product named as part of the mid-market data stack cost barrier.
 - [Yuval Noah Harari](entities/YuvalNoahHarari.md) — Historian and philosopher using an information-network lens to warn that AI governance must reject inevitability and preserve human agency.
 - [Nexus (Yuval Noah Harari book)](entities/NexusHarariBook.md) — Harari book framed in The Intelligence interview as a history of information networks from the Stone Age to AI.
-- [李膺 / Li Ying (late Han)](entities/LiYingLateHan.md) — Late-Han scholar-official whose profile now runs from Ying Feng-backed restoration and Zhang Shuo enforcement through Party Prohibition imprisonment, reform restoration, prison death, and student liability.
+- [李膺 / Li Ying (late Han)](entities/LiYingLateHan.md) — Late-Han scholar-official whose profile now runs from Yang Yuanqun's bribery reversal through restoration, high-risk enforcement, Party Prohibition, reform return, and prison death.
 - [应奉 / Ying Feng (late Han)](entities/YingFengLateHan.md) — Late-Han official whose memorials block Tian Sheng's empress elevation on status grounds and persuade Emperor Huan to pardon Li Ying through state-capacity framing.
 - [范滂 / Fan Pang (late Han)](entities/FanPangLateHan.md) — Late-Han party-prohibition figure whose profile now runs from Runan delegated清裁 through prison ritual refusal, moral defense, exclusion, reputation exposure, and voluntary imprisonment.
 - [东羌 / Eastern Qiang (late Han)](entities/DongqiangLateHan.md) — Frontier group whose evidence spans Hanji 881's Fengyishan campaign horizon, Hanji 883's surrender-versus-suppression policy dispute, Hanji 891's tactical campaign, and Hanji 892's anti-extermination critique.
@@ -9594,6 +9600,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [三不沾式清廉自守 / Three-Refusals Integrity](concepts/ThreeRefusalsIntegrity.md) — Public-office integrity discipline built around refusing wine, sexual entanglement, and money as capture channels.
 - [任官责任退出受限 / Office Duty Exit Constraint](concepts/OfficeDutyExitConstraint.md) — Governance pattern where capable officials cannot easily leave or avoid office because crisis demand treats their ability as a public asset.
 - [仁厚地方治理 / Humane Local Governance](concepts/HumaneLocalGovernance.md) — Local-administration pattern where calm conduct, light punishment, moral instruction, and redirected coercive capacity build order without maximizing fear.
 - [按亩征税 / Per-Mu Land Taxation](concepts/PerMuLandTaxation.md) — Huan-era fiscal-policy marker for the first source-described order to tax landholders by the mu.
@@ -9707,7 +9714,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Catholic Burial Legitimacy](concepts/CatholicBurialLegitimacy.md) — Problem of making a politically important death eligible for Catholic rites when suicide threatens burial legitimacy.
 - [Dynastic Heir Loss Shock](concepts/DynasticHeirLossShock.md) — Succession disruption created when a ruling house abruptly loses the expected direct heir.
 - [Fin-de-Siecle Vienna Crisis Reading](concepts/FinDeSiecleViennaCrisisReading.md) — Interpretation of Mayerling through late nineteenth-century Viennese culture, inner-life language, and Habsburg decline.
-- [Eunuch Patronage Violence Shield / 宦官庇护下的地方暴行](concepts/EunuchPatronageViolenceShield.md) — Pattern where eunuch access or complaint channels shield local violence, with Zhang Shuo as a failed-shield countercase before later enforcement rebounds.
+- [Eunuch Patronage Violence Shield / 宦官庇护下的地方暴行](concepts/EunuchPatronageViolenceShield.md) — Pattern where eunuch access or complaint channels shield corruption, property extraction, or local violence and can turn enforcement against enforcers.
 - [Open Source AI Ban Risk](concepts/OpenSourceAIBanRisk.md) — Risk that model-provenance or national-security concerns become broad restrictions on open-weight AI models.
 - [Token Tax On AI](concepts/TokenTaxOnAI.md) — Enterprise cost penalty created when policy pushes buyers away from cheaper open models and toward closed APIs.
 - [AI Output Training Symmetry](concepts/AIOutputTrainingSymmetry.md) — Consistency problem between AI labs' fair-use claims for human works and objections to competitors training on model outputs.
@@ -9893,7 +9900,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Augmented Intelligence](concepts/AugmentedIntelligence.md) — Human-supervised AI framing where models extend capability but users still verify and own important outcomes.
 - [AI Query Privacy Risk](concepts/AIQueryPrivacyRisk.md) — Risk that prompts, search terms, interaction logs, or retrieval traces reveal sensitive personal or professional information.
 - [名士背书式造势 / Elite-Endorsement Reputation Making](concepts/EliteEndorsementReputationMaking.md) — Hanji 926 pattern where elite evaluators, memorable labels, and counter-signaling turn reputation into political entry capital.
-- [查因安抚式治理 / Root-Cause Pacification](concepts/RootCausePacification.md) — Governance pattern where officials diagnose why people rebelled, then combine relief, personnel repair, surrender policy, resettlement judgment, and targeted coercion.
+- [查因安抚式治理 / Root-Cause Pacification](concepts/RootCausePacification.md) — Governance pattern where officials diagnose court-level and local causes of rebellion, then combine relief, personnel repair, surrender policy, resettlement judgment, and targeted coercion.
 - [商人定气功夫 / Merchant Composure Discipline](concepts/MerchantComposureDiscipline.md) — Source-scoped Hanji 927 business frame around credibility, detachment, calm judgment, and decisive action.
 - [巡查送礼关口 / Inspection Gift Gatekeeping](concepts/InspectionGiftGatekeeping.md) — Hanji 928 pattern where an inspector with ruler access can turn gift refusal and a slanted report into command-changing political risk.
 - [对事不对人式公义 / Public Duty Over Private Grievance](concepts/PublicDutyOverPrivateGrievance.md) — Hanji 929 ethical frame where Gai Xun keeps private dislike and injury from deciding public law, office duty, and military rescue.

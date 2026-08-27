@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 5767
+wiki_total_pages: 5768
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -653,6 +653,9 @@ wiki_pages:
   - key: "TyrannicideRepublicanDilemma"
     title: "Tyrannicide Republican Dilemma / 弑君式共和困境"
     url: "/wiki/concepts/tyranniciderepublicandilemma/"
+  - key: "ThreeRefusalsIntegrity"
+    title: "三不沾式清廉自守 / Three-Refusals Integrity"
+    url: "/wiki/concepts/threerefusalsintegrity/"
   - key: "ThreeKingdomsStruggleStrategyReading"
     title: "三国斗争策略读法 / Three Kingdoms Struggle Strategy Reading"
     url: "/wiki/concepts/threekingdomsstrugglestrategyreading/"

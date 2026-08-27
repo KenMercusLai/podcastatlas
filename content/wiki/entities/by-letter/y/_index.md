@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 7994
+wiki_total_pages: 7999
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -554,6 +554,9 @@ wiki_pages:
   - key: "YangZanLateHan"
     title: "杨瓒 / Yang Zan (late Han)"
     url: "/wiki/entities/yangzanlatehan/"
+  - key: "YangBingLateHan"
+    title: "杨秉 / Yang Bing (late Han)"
+    url: "/wiki/entities/yangbinglatehan/"
   - key: "YangDuanhe"
     title: "杨端和 / Yang Duanhe"
     url: "/wiki/entities/yangduanhe/"
@@ -644,6 +647,9 @@ wiki_pages:
   - key: "YonezawaHonobu"
     title: "米泽穗信 / Yonezawa Honobu"
     url: "/wiki/entities/yonezawahonobu/"
+  - key: "YangYuanqunLateHan"
+    title: "羊元群 / Yang Yuanqun (late Han)"
+    url: "/wiki/entities/yangyuanqunlatehan/"
   - key: "YaRestaurant"
     title: "芽 / Ya Restaurant"
     url: "/wiki/entities/yarestaurant/"
