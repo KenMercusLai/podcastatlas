@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 7852
+wiki_total_pages: 7856
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -899,6 +899,9 @@ wiki_pages:
   - key: "GuanchengWarringStates"
     title: "管城 / Guancheng (Warring States)"
     url: "/wiki/entities/guanchengwarringstates/"
+  - key: "GuanBaLateHan"
+    title: "管霸 / Guan Ba (late Han)"
+    url: "/wiki/entities/guanbalatehan/"
   - key: "GengBaoLateHan"
     title: "耿包 / Geng Bao (late Han)"
     url: "/wiki/entities/gengbaolatehan/"

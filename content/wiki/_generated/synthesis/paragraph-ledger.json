@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "59cf16f1cca072ba4e0c3bb0937d8f8b6318da539042eaab86579b0b54e1398c",
       "7f63a5468bf59272fa3a6ed648448ea6002fb09d3c5bb53ed2819f03f76908e5",
       "af8e2a6837f0f62b6f60a5863290b6bfbe580b2a3f833a4c9b6b5c602c6f2887",
       "1ad7431c99f52a29eda8564fe41459d5e490f67c51b8bfed0930dd3466829694",
@@ -278,11 +279,39 @@
       "ed252faccaaf1dc4e8c654d3406a6a1a0fc3a6f6fe78821348d1b123c7e85a5c",
       "32b62a0e1fc3144c5e7770721fc745607afef0d0cf46a8fe94d35cab377dbbf9"
     ],
-    "paragraph_count": 276
+    "paragraph_count": 277
   },
-  "overview_commit": "f0d070090abc816287da2faea07eb64b571f8091",
-  "overview_digest": "c750c664c01572cee294f9e3e8be9432f79e14a4ce4a7001ead7f685e4ba8804",
+  "overview_commit": "8092e7424d745897c337a7741df46d5f46e06d2e",
+  "overview_digest": "fce362c224dcf3eda3c14fe62759008c47f08056178a478aa0b1952e84085df0",
   "paragraphs": [
+    {
+      "id": "59cf16f1cca072ba4e0c3bb0937d8f8b6318da539042eaab86579b0b54e1398c",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys|《资治通鉴·汉纪》884丨职场除奸，要对谁先开刀？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode that backfills the first decision window before the 168 CE [[DouWuLateHan|窦武]] / [[ChenFanLateHan|陈蕃]] anti-eunuch disaster covered by Hanji 885-887. It adds [[GuanBaLateHan|管霸]], [[SuKangLateHan|苏康]], [[ZhaoRaoLateHan|赵饶]], [[DuMiLateHan|杜密]], and [[PalaceProximityPower|宫廷近身权力]], while extending [[EmpressDowagerDouMiao|窦妙 / 窦皇太后]], [[CaoJieLateHan|曹节]], [[WangFuLateHan|王甫]], [[LiYingLateHan|李膺]], [[YinXunLateHan|尹勋]], and [[LiuYuAstrologerLateHan|刘瑜]]. Its core synthesis is that the crisis begins before leak and military reversal: Dou Miao empowers reform officials, but wet-nurse, attendant, and eunuch proximity makes palace influence hard to remove, so the first action becomes selective punishment of Guan Ba and Su Kang while Cao Jie and Wang Fu remain live targets. No settled contradiction is recorded; transcript forms such as 管爸, 曹洁, 王府, 李英, and 刘渝 are normalized to canonical late-Han routes.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 2,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "CaoJieLateHan",
+        "ChenFanLateHan",
+        "DouWuLateHan",
+        "DuMiLateHan",
+        "EmpressDowagerDouMiao",
+        "GuanBaLateHan",
+        "LiYingLateHan",
+        "LiuYuAstrologerLateHan",
+        "PalaceProximityPower",
+        "RuiqiJiangtouZizhiTongjian",
+        "SuKangLateHan",
+        "WangFuLateHan",
+        "YinXunLateHan",
+        "ZhaoRaoLateHan",
+        "zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys"
+      ]
+    },
     {
       "id": "7f63a5468bf59272fa3a6ed648448ea6002fb09d3c5bb53ed2819f03f76908e5",
       "primary_topic": "history-and-geopolitics",

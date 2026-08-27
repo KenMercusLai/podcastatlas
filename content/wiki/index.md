@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》884丨职场除奸，要对谁先开刀？](sources/zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys.md) — 芮淇讲透资治通鉴 episode on the 168 CE opening decision window before the Dou Wu / Chen Fan anti-eunuch crisis, covering Dou Miao's reform patronage, palace proximity power around Zhao Rao, Cao Jie, and Wang Fu, and the first selective executions of Guan Ba and Su Kang.
 - [《资治通鉴·汉纪》885丨生死关头，他请假休息？！](sources/zizhi-tongjian-hanji-885-shengsi-guantou-ta-qingjia-xiuxi-luydnh9oqdyyfpbeztooi2e7lvca.md) — 芮淇讲透资治通鉴 episode on the pre-leak decision window before the failed 168 CE Dou Wu / Chen Fan anti-eunuch coup, covering Dou Miao's hesitation, Chen Fan's urgent memorial, Liu Yu's omen warning, Zheng Sa's arrest, and Dou Wu's fatal leave-taking.
 - [《资治通鉴·汉纪》886丨身处职场，做个城府很深的人](sources/zizhi-tongjian-hanji-886-shenchu-zhichang-zuoge-chengfu-henshen-de-ren-lo6dgcdbshjgto-qsfcouwjersdi.md) — 芮淇讲透资治通鉴 episode on the leaked prelude to the 168 CE Dou Wu anti-eunuch coup, Zhu Yu's eunuch-side oath, Cao Jie and Wang Fu's palace seizure, legitimacy-symbol control, and "城府" as strategic self-command.
 - [《资治通鉴·汉纪》887丨当猪队长碰上猪队友，结果太惨！](sources/zizhi-tongjian-hanji-887-dang-zhuduizhang-pengshang-zhuduiyou-jieguo-taican-lvyh9a-kvsdqaokmylgg139bvhfk.md) — 芮淇讲透资治通鉴 episode on the failed 168 CE Dou Wu / Chen Fan anti-eunuch coup, Chen Fan's palace intervention and death, eunuch-side forged authority and troop reversal, Dou Wu's suicide, and the widened purge of kin, followers, students, and old subordinates.
@@ -1546,9 +1547,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
-- [刘瑜 / Liu Yu (late Han astrologer)](entities/LiuYuAstrologerLateHan.md) — Disambiguated omen reader whose warning to Dou Miao, Dou Wu, and Chen Fan turns celestial interpretation into palace-security advice before the 168 CE countercoup.
+- [赵饶 / Zhao Rao (late Han)](entities/ZhaoRaoLateHan.md) — Emperor Ling's wet nurse and palace-proximity actor whose daily access helps explain Dou Miao's hesitation and later appears in Cao Jie's emergency custody channel.
+- [管霸 / Guan Ba (late Han)](entities/GuanBaLateHan.md) — Powerful zhongchangshi singled out as the first selective anti-eunuch target when Dou Miao refuses a blanket purge.
+- [苏康 / Su Kang (late Han)](entities/SuKangLateHan.md) — Zhongchangshi arrested and executed with Guan Ba in Dou Miao's limited first anti-eunuch punishment.
+- [杜密 / Du Mi (late Han)](entities/DuMiLateHan.md) — Late-Han士人 whose current evidence runs from 168 CE reform-court hope to the later reputation-danger field.
+- [刘瑜 / Liu Yu (late Han astrologer)](entities/LiuYuAstrologerLateHan.md) — Disambiguated reform-cohort omen reader whose warning to Dou Miao, Dou Wu, and Chen Fan turns celestial interpretation into palace-security advice before the 168 CE countercoup.
 - [山冰 / Shan Bing (late Han)](entities/ShanBingLateHan.md) — Dou-side small yellow-gate actor inserted into the Huangmenling channel, arresting Zheng Sa before Wang Fu reverses the prison channel.
-- [尹勋 / Yin Xun (late Han)](entities/YinXunLateHan.md) — Dou-side memorial actor who joins Shan Bing in requesting the arrest of Cao Jie and Wang Fu after Zheng Sa's interrogation.
+- [尹勋 / Yin Xun (late Han)](entities/YinXunLateHan.md) — Reform-cohort figure and Dou-side memorial actor who joins Shan Bing in requesting the arrest of Cao Jie and Wang Fu after Zheng Sa's interrogation.
 - [巴肃 / Ba Su (late Han)](entities/BaSuLateHan.md) — Bohai-associated late-Han participant in the Dou Wu plan who refuses a magistrate's escape offer and accepts execution.
 - [朱震 / Zhu Zhen (late Han)](entities/ZhuZhenLateHan.md) — Chen Fan's friend who buries him, hides Chen Yi, and keeps the secret through household imprisonment and torture.
 - [胡腾 / Hu Teng (late Han)](entities/HuTengLateHan.md) — Former Dou Wu subordinate who buries and mourns Dou Wu, then hides Dou Wu's young grandson in Lingling.
@@ -1712,7 +1717,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [阳球 / Yang Qiu (late Han)](entities/YangQiuLateHan.md) — Late-Han shangshu ling and anti-eunuch official who first memorializes against Hongdu Menxue, then overreaches after destroying Wang Fu's network.
 - [程璜 / Cheng Huang (late Han)](entities/ChengHuangLateHan.md) — Eunuch intermediary who carries the leaked anti-Cao Jie plot to Cao Jie.
 - [何真 / He Zhen (late Han)](entities/HeZhenLateHan.md) — He-family household head whose daughter becomes Empress He and whose sons become outer-relative actors.
-- [王甫 / Wang Fu (late Han)](entities/WangFuLateHan.md) — Late-Han eunuch powerholder whose branch now begins with 168 prison, guard, seal, and accusation action against the Dou/Chen side before later Dou-memory resistance, Liu Kui brokerage, wugu accusation, and Yang Qiu's prosecution.
+- [王甫 / Wang Fu (late Han)](entities/WangFuLateHan.md) — Late-Han eunuch powerholder whose branch now begins with near-palace access and target status before 168 prison, guard, seal, and accusation action against the Dou/Chen side.
 - [杨璇 / Yang Xuan (late Han)](entities/YangXuanLateHan.md) — Lingling administrator who uses lime/fire-horse and crossbow wagons to defeat Cangwu-Guiyang bandits before a blood-letter appeal overturns Zhao Kai's false accusation.
 - [赵凯 / Zhao Kai (late Han)](entities/ZhaoKaiLateHan.md) — Jingzhou inspector whose false accusation against Yang Xuan turns a local victory into prison-cart danger before the blood-letter appeal reverses the case.
 - [苍梧郡 / Cangwu Commandery (late Han)](entities/CangwuCommanderyLateHan.md) — Southern commandery whose bandits join Guiyang bandits in the Yang Xuan-Lingling suppression branch.
@@ -1797,7 +1802,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [马元义 / Ma Yuanyi (late Han)](entities/MaYuanyiLateHan.md) — Taiping Dao organizer whose regional believer coordination and palace contacts are exposed before the early Yellow Turban launch.
 - [唐周 / Tang Zhou (late Han)](entities/TangZhouLateHan.md) — Taiping Dao disciple whose disclosure of Zhang Jiao's plan triggers Ma Yuanyi's arrest and the early Yellow Turban uprising.
 - [吕强 / Lyu Qiang (late Han)](entities/LyuQiangLateHan.md) — Eunuch adviser whose refused marquisate and remonstrances criticize eunuch privilege, palace burden, private treasury extraction, and party-ban crisis policy before retaliation drives his suicide.
-- [曹节 / Cao Jie (late Han eunuch)](entities/CaoJieLateHan.md) — Senior late-Han eunuch whose branch now begins with 168 palace, seal, gate, and edict control before the anti-Dou/Chen countercoup, later remonstrance pressure, Yang Qiu's plot, and Zhao Zhong's succession.
+- [曹节 / Cao Jie (late Han eunuch)](entities/CaoJieLateHan.md) — Senior late-Han eunuch whose branch now begins with palace-proximity influence before 168 palace, seal, gate, and edict control against the Dou/Chen side.
 - [夏韵 / Xia Yun (late Han)](entities/XiaYunLateHan.md) — Eunuch favorite who joins Zhao Zhong in accusing Lyu Qiang after his crisis-repair advice.
 - [项诩 / Xiang Xu (late Han)](entities/XiangXuLateHan.md) — Henei attendant official whose anti-eunuch memorial is reframed by Zhang Rang as Yellow Turban collusion.
 - [徐奉 / Xu Feng (late Han)](entities/XuFengLateHan.md) — Eunuch exposed with Feng Xu as a Zhang Jiao insider, showing palace-favorite culpability in the Yellow Turban crisis.
@@ -1931,8 +1936,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [何太后 / Empress Dowager He](entities/EmpressDowagerHe.md) — He-family queen-mother whose eunuch debt and palace dependence block He Jin's purge before Dong Zhuo later removes and poisons her.
 - [何苗 / He Miao (late Han)](entities/HeMiaoLateHan.md) — He-family figure tied to eunuch benefits before He Jin's failure and later killed, with his corpse publicly mutilated after the deposition.
 - [武阳君 / Wuyang Jun](entities/WuyangJun.md) — He-family elder and eunuch-benefit channel who helps block He Jin's purge before being killed in Dong Zhuo's post-deposition terror.
-- [陈蕃 / Chen Fan (late Han)](entities/ChenFanLateHan.md) — Late-Han anti-eunuch official killed after entering the palace to defend Dou Wu in the failed 168 coup, later remembered through moral aftermath, burial dispute, and rehabilitation politics.
-- [窦武 / Dou Wu (late Han)](entities/DouWuLateHan.md) — Late-Han outer-relative and anti-eunuch official whose failed 168 action now runs from leaked plan and lost palace-symbol control to countercoup reversal, collateral purge, and later rehabilitation memory.
+- [陈蕃 / Chen Fan (late Han)](entities/ChenFanLateHan.md) — Late-Han anti-eunuch official whose branch now begins with first removal advice against Cao Jie and Wang Fu before his fatal palace intervention and later memory.
+- [窦武 / Dou Wu (late Han)](entities/DouWuLateHan.md) — Late-Han outer-relative and anti-eunuch official whose failed 168 action now runs from reform opening and limited first arrests to leaked plan, countercoup reversal, purge, and memory.
 - [刘辩 / Liu Bian (Hongnong Wang)](entities/LiuBianHongnongWang.md) — Deposed late-Han emperor and Hongnong Wang poisoned by Li Ru under Dong Zhuo's command in Hanji 950.
 - [李儒 / Li Ru (late Han)](entities/LiRuLateHan.md) — Dong Zhuo-side official who carries out the poisoning of Liu Bian in Hanji 950.
 - [郑泰 / Zheng Tai (late Han)](entities/ZhengTaiLateHan.md) — Court official whose advice restrains Dong Zhuo from immediate mass attack and diagnoses the anti-Dong-Zhuo coalition's weak cohesion.
@@ -9402,6 +9407,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Palace Proximity Power / 宫廷近身权力](concepts/PalaceProximityPower.md) — Hanji 884 pattern where wet nurses, attendants, and eunuchs turn daily near-body access to a dowager or emperor into political leverage before formal control is visible.
 - [Death-Facing Responsibility / 赴死式责任承担](concepts/DeathFacingResponsibility.md) — Hanji 888 pattern where actors accept lethal or household risk after political defeat through self-surrender, burial, mourning, or survivor protection.
 - [Moral Desert Political Outcome Gap / 善恶报应与政治结果错位](concepts/MoralDesertPoliticalOutcomeGap.md) — Hanji 888-889 frame where virtue and harm do not reliably map to survival, reward, or punishment, requiring political mechanism analysis without erasing moral judgment.
 - [Oblique Remonstrance Self-Protection / 迂回进谏自保](concepts/ObliqueRemonstranceSelfProtection.md) — Hanji 890 pattern where an adviser preserves corrective speech by changing the angle, target, and risk surface of criticism.

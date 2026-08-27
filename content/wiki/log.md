@@ -12334,3 +12334,11 @@ Added source page for Hanji 885: the pre-leak decision window before the failed 
 ## [2026-08-27] lint | Wiki health check
 
 Ran health, identity validation, and lint. Health passed across 15,002 wiki pages; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-22 with 12,882 nodes and 149,964 edges while the current lint scan covered 15,002 pages, so fragile-bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because no provider-qualified `LLM_MODEL` or common provider API key variables are configured in this shell; bounded in-session review of the orphan page and fragile-bridge endpoint pages found no direct contradictions. Report returned in-session; `wiki/lint-report.md` was not updated.
+
+## [2026-08-27] ingest | 《资治通鉴·汉纪》884丨职场除奸，要对谁先开刀？
+
+Added source page for Hanji 884: the 168 CE opening decision window before the Dou Wu / Chen Fan anti-eunuch crisis, including Dou Miao's reform patronage, palace proximity power around Zhao Rao, Cao Jie, and Wang Fu, Chen Fan's first removal advice, and the selective executions of Guan Ba and Su Kang. Created Guan Ba, Su Kang, Zhao Rao, Du Mi, and Palace Proximity Power pages; updated Dou Wu, Chen Fan, Empress Dowager Dou Miao, Cao Jie, Wang Fu, Yin Xun, Liu Yu, and Li Ying. No settled contradiction found; transcript variants are normalized to canonical late-Han routes.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

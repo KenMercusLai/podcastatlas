@@ -14403,6 +14403,10 @@
     "title": "督亢地图 / Du Kang Map",
     "url": "/wiki/entities/dukangmap/"
   },
+  "DuMiLateHan": {
+    "title": "杜密 / Du Mi (late Han)",
+    "url": "/wiki/entities/dumilatehan/"
+  },
   "DuMu": {
     "title": "杜牧 / Du Mu",
     "url": "/wiki/entities/dumu/"
@@ -20210,6 +20214,10 @@
   "GuaitanLiterature": {
     "title": "怪谈文学 / Guaitan Literature",
     "url": "/wiki/concepts/guaitanliterature/"
+  },
+  "GuanBaLateHan": {
+    "title": "管霸 / Guan Ba (late Han)",
+    "url": "/wiki/entities/guanbalatehan/"
   },
   "GuanGao": {
     "title": "贯高 / Guan Gao",
@@ -35447,6 +35455,10 @@
     "title": "宫市游乐式权力错位 / Palace Market Theater",
     "url": "/wiki/concepts/palacemarkettheater/"
   },
+  "PalaceProximityPower": {
+    "title": "宫廷近身权力 / Palace Proximity Power",
+    "url": "/wiki/concepts/palaceproximitypower/"
+  },
   "PalaceScandalPowerConsolidation": {
     "title": "Palace Scandal Power Consolidation / 宫廷丑闻式收权",
     "url": "/wiki/concepts/palacescandalpowerconsolidation/"
@@ -45079,6 +45091,10 @@
     "title": "Su Hao / 苏浩",
     "url": "/wiki/entities/suhao/"
   },
+  "SuKangLateHan": {
+    "title": "苏康 / Su Kang (late Han)",
+    "url": "/wiki/entities/sukanglatehan/"
+  },
   "SuLi": {
     "title": "苏厉 / Su Li",
     "url": "/wiki/entities/suli/"
@@ -54195,6 +54211,10 @@
     "title": "赵岐 / Zhao Qi (late Han)",
     "url": "/wiki/entities/zhaoqilatehan/"
   },
+  "ZhaoRaoLateHan": {
+    "title": "赵饶 / Zhao Rao (late Han)",
+    "url": "/wiki/entities/zhaoraolatehan/"
+  },
   "ZhaoServantEnvoy": {
     "title": "赵厮养卒 / Zhao Servant Envoy",
     "url": "/wiki/entities/zhaoservantenvoy/"
@@ -58674,6 +58694,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys": {
+    "title": "《资治通鉴·汉纪》884丨职场除奸，要对谁先开刀？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys/"
   },
   "zizhi-tongjian-hanji-885-shengsi-guantou-ta-qingjia-xiuxi-luydnh9oqdyyfpbeztooi2e7lvca": {
     "title": "《资治通鉴·汉纪》885丨生死关头，他请假休息？！",

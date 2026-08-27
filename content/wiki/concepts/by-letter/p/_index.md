@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5611
+wiki_total_pages: 5612
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1463,6 +1463,9 @@ wiki_pages:
   - key: "PalaceMarketTheater"
     title: "宫市游乐式权力错位 / Palace Market Theater"
     url: "/wiki/concepts/palacemarkettheater/"
+  - key: "PalaceProximityPower"
+    title: "宫廷近身权力 / Palace Proximity Power"
+    url: "/wiki/concepts/palaceproximitypower/"
   - key: "ProvincialShepherdAutonomy"
     title: "州牧集权与地方割据 / Provincial Shepherd Autonomy"
     url: "/wiki/concepts/provincialshepherdautonomy/"

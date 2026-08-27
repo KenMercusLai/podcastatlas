@@ -1338,9 +1338,9 @@
       "url": "/wiki/entities/californiaprivacyprotectionagency/"
     },
     "CaoJieLateHan": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 1,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》900丨职场权术都不动，该怎样生存 [lmhJwOsY4EsWyHfpPDGHfsMfycQr].md",
@@ -1425,6 +1425,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》885丨生死关头，他请假休息？！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-885-shengsi-guantou-ta-qingjia-xiuxi-luydnh9oqdyyfpbeztooi2e7lvca/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》884丨职场除奸，要对谁先开刀？ [lvtC3uQLsO242olKyin3fvz5A7YS].md",
+          "key": "zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》884丨职场除奸，要对谁先开刀？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys/"
         }
       ],
       "updated": "2026-08-27",
@@ -1534,9 +1541,9 @@
       "url": "/wiki/entities/chezhoulatehan/"
     },
     "ChenFanLateHan": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》901 丨急性子的人会是什么下场？ [lh1yfyJZqPTXVtnV9tAiQms9YjUd].md",
@@ -1579,6 +1586,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》885丨生死关头，他请假休息？！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-885-shengsi-guantou-ta-qingjia-xiuxi-luydnh9oqdyyfpbeztooi2e7lvca/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》884丨职场除奸，要对谁先开刀？ [lvtC3uQLsO242olKyin3fvz5A7YS].md",
+          "key": "zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》884丨职场除奸，要对谁先开刀？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys/"
         }
       ],
       "updated": "2026-08-27",
@@ -2272,9 +2286,9 @@
       "url": "/wiki/concepts/dopaminewantingloop/"
     },
     "DouWuLateHan": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》898丨认贼作父？可怜之人能有多荒唐？ [lgFUp6tYV85zHvnMZf6XleSMBlCj].md",
@@ -2324,6 +2338,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》885丨生死关头，他请假休息？！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-885-shengsi-guantou-ta-qingjia-xiuxi-luydnh9oqdyyfpbeztooi2e7lvca/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》884丨职场除奸，要对谁先开刀？ [lvtC3uQLsO242olKyin3fvz5A7YS].md",
+          "key": "zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》884丨职场除奸，要对谁先开刀？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys/"
         }
       ],
       "updated": "2026-08-27",
@@ -2376,6 +2397,29 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/dugenlatehan/"
+    },
+    "DuMiLateHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》884丨职场除奸，要对谁先开刀？ [lvtC3uQLsO242olKyin3fvz5A7YS].md",
+          "key": "zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》884丨职场除奸，要对谁先开刀？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》893丨荣誉榜如何变成死亡名单？ [lmxzQoaUf79-swWNK_0CEVAv0GQ_].md",
+          "key": "zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》893丨荣誉榜如何变成死亡名单？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/dumilatehan/"
     },
     "DuXiLateHan": {
       "episode_count": 1,
@@ -2632,9 +2676,9 @@
       "url": "/wiki/concepts/embodiedtrainingagainstfear/"
     },
     "EmpressDowagerDouMiao": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》898丨认贼作父？可怜之人能有多荒唐？ [lgFUp6tYV85zHvnMZf6XleSMBlCj].md",
@@ -2677,6 +2721,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》885丨生死关头，他请假休息？！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-885-shengsi-guantou-ta-qingjia-xiuxi-luydnh9oqdyyfpbeztooi2e7lvca/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》884丨职场除奸，要对谁先开刀？ [lvtC3uQLsO242olKyin3fvz5A7YS].md",
+          "key": "zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》884丨职场除奸，要对谁先开刀？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys/"
         }
       ],
       "updated": "2026-08-27",
@@ -3606,6 +3657,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/goodfriendsfilm/"
+    },
+    "GuanBaLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》884丨职场除奸，要对谁先开刀？ [lvtC3uQLsO242olKyin3fvz5A7YS].md",
+          "key": "zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》884丨职场除奸，要对谁先开刀？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/guanbalatehan/"
     },
     "GuanJingLateHan": {
       "episode_count": 2,
@@ -5500,9 +5567,9 @@
       "url": "/wiki/entities/litonglatehan/"
     },
     "LiYingLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》893丨荣誉榜如何变成死亡名单？ [lmxzQoaUf79-swWNK_0CEVAv0GQ_].md",
@@ -5517,6 +5584,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》892丨修止语，古人有什么捷径？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-892-xiu-zhiyu-guren-youshenme-jiejing-lnobbkp6mj4xyb9jeuqsiuqogct/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》884丨职场除奸，要对谁先开刀？ [lvtC3uQLsO242olKyin3fvz5A7YS].md",
+          "key": "zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》884丨职场除奸，要对谁先开刀？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys/"
         }
       ],
       "updated": "2026-08-27",
@@ -5784,9 +5858,9 @@
       "url": "/wiki/entities/liuyelatehan/"
     },
     "LiuYuAstrologerLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》885丨生死关头，他请假休息？！ [luYDnh9OqdyYFPBeztoOi2E7lvca].md",
@@ -5794,6 +5868,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》885丨生死关头，他请假休息？！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-885-shengsi-guantou-ta-qingjia-xiuxi-luydnh9oqdyyfpbeztooi2e7lvca/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》884丨职场除奸，要对谁先开刀？ [lvtC3uQLsO242olKyin3fvz5A7YS].md",
+          "key": "zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》884丨职场除奸，要对谁先开刀？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys/"
         }
       ],
       "updated": "2026-08-27",
@@ -7338,6 +7419,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/ordinarypeoplehistoricalvisibility/"
     },
+    "PalaceProximityPower": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》884丨职场除奸，要对谁先开刀？ [lvtC3uQLsO242olKyin3fvz5A7YS].md",
+          "key": "zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》884丨职场除奸，要对谁先开刀？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/palaceproximitypower/"
+    },
     "ParadoxMachines": {
       "episode_count": 1,
       "show_count": 1,
@@ -8624,6 +8721,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/strategicemotionconcealment/"
     },
+    "SuKangLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》884丨职场除奸，要对谁先开刀？ [lvtC3uQLsO242olKyin3fvz5A7YS].md",
+          "key": "zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》884丨职场除奸，要对谁先开刀？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/sukanglatehan/"
+    },
     "SufferingBasedMoralSubjecthood": {
       "episode_count": 1,
       "show_count": 1,
@@ -9467,9 +9580,9 @@
       "url": "/wiki/entities/wangfudongchengplot/"
     },
     "WangFuLateHan": {
-      "episode_count": 13,
+      "episode_count": 14,
       "show_count": 1,
-      "source_note_count": 13,
+      "source_note_count": 14,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》900丨职场权术都不动，该怎样生存 [lmhJwOsY4EsWyHfpPDGHfsMfycQr].md",
@@ -9561,6 +9674,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》885丨生死关头，他请假休息？！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-885-shengsi-guantou-ta-qingjia-xiuxi-luydnh9oqdyyfpbeztooi2e7lvca/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》884丨职场除奸，要对谁先开刀？ [lvtC3uQLsO242olKyin3fvz5A7YS].md",
+          "key": "zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》884丨职场除奸，要对谁先开刀？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys/"
         }
       ],
       "updated": "2026-08-27",
@@ -10518,9 +10638,9 @@
       "url": "/wiki/entities/yijingfortress/"
     },
     "YinXunLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》885丨生死关头，他请假休息？！ [luYDnh9OqdyYFPBeztoOi2E7lvca].md",
@@ -10535,6 +10655,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》886丨身处职场，做个城府很深的人",
           "url": "/wiki/sources/zizhi-tongjian-hanji-886-shenchu-zhichang-zuoge-chengfu-henshen-de-ren-lo6dgcdbshjgto-qsfcouwjersdi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》884丨职场除奸，要对谁先开刀？ [lvtC3uQLsO242olKyin3fvz5A7YS].md",
+          "key": "zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》884丨职场除奸，要对谁先开刀？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys/"
         }
       ],
       "updated": "2026-08-27",
@@ -10887,6 +11014,29 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/zhaolina/"
+    },
+    "ZhaoRaoLateHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》884丨职场除奸，要对谁先开刀？ [lvtC3uQLsO242olKyin3fvz5A7YS].md",
+          "key": "zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》884丨职场除奸，要对谁先开刀？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》886丨身处职场，做个城府很深的人 [lo6dGcDBSHjgto-qsFCOUWJERSDI].md",
+          "key": "zizhi-tongjian-hanji-886-shenchu-zhichang-zuoge-chengfu-henshen-de-ren-lo6dgcdbshjgto-qsfcouwjersdi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》886丨身处职场，做个城府很深的人",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-886-shenchu-zhichang-zuoge-chengfu-henshen-de-ren-lo6dgcdbshjgto-qsfcouwjersdi/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/zhaoraolatehan/"
     },
     "ZhaoYanLateHan": {
       "episode_count": 1,
