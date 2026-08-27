@@ -23623,6 +23623,10 @@
     "title": "Imperial Local-God Conflict / 皇权与地方神冲突",
     "url": "/wiki/concepts/imperiallocalgodconflict/"
   },
+  "ImperialPetitionOffenseRisk": {
+    "title": "Imperial Petition Offense Risk / 申冤上书冒犯风险",
+    "url": "/wiki/concepts/imperialpetitionoffenserisk/"
+  },
   "ImperialPrivateTreasuryExtraction": {
     "title": "帝王私库进奉盘剥 / Imperial Private Treasury Extraction",
     "url": "/wiki/concepts/imperialprivatetreasuryextraction/"
@@ -27271,6 +27275,10 @@
     "title": "Kotoku Shusui / 幸德秋水",
     "url": "/wiki/entities/kotokushusui/"
   },
+  "KouRongLateHan": {
+    "title": "寇荣 / Kou Rong (late Han)",
+    "url": "/wiki/entities/kouronglatehan/"
+  },
   "KrebsOnSecurity": {
     "title": "Krebs on Security",
     "url": "/wiki/entities/krebsonsecurity/"
@@ -28066,6 +28074,10 @@
   "LegalInterestIndividualReduction": {
     "title": "Legal Interest Individual Reduction",
     "url": "/wiki/concepts/legalinterestindividualreduction/"
+  },
+  "LegalJudgmentBeforeImperialGrace": {
+    "title": "Legal Judgment Before Imperial Grace / 先法度后恩宥",
+    "url": "/wiki/concepts/legaljudgmentbeforeimperialgrace/"
   },
   "LegalParadoxThinking": {
     "title": "Legal Paradox Thinking",
@@ -60026,6 +60038,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-864-mingchen-zhihou-weihe-cansi-yu-diwang-zhishou-lqwexx6nchx10roxsrvh8c0ktkfq": {
+    "title": "《资治通鉴·汉纪》864丨名臣之后为何惨死于帝王之手？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-864-mingchen-zhihou-weihe-cansi-yu-diwang-zhishou-lqwexx6nchx10roxsrvh8c0ktkfq/"
   },
   "zizhi-tongjian-hanji-865-zhichang-boss-ye-rongyi-bei-zhezhong-ren-beici-ljfhfevljqnx6zceakjfbw5gwfma": {
     "title": "《资治通鉴·汉纪》865丨职场BOSS也容易被这种人背刺",

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》864丨名臣之后为何惨死于帝王之手？](sources/zizhi-tongjian-hanji-864-mingchen-zhihou-weihe-cansi-yu-diwang-zhishou-lqwexx6nchx10roxsrvh8c0ktkfq.md) — 芮淇讲透资治通鉴 episode on Kou Rong's failed petition and execution, Shi Bi's law-first proposal for Liu Kui, and the Hou Can corruption notice before Hanji 865.
 - [《资治通鉴·汉纪》865丨职场BOSS也容易被这种人背刺](sources/zizhi-tongjian-hanji-865-zhichang-boss-ye-rongyi-bei-zhezhong-ren-beici-ljfhfevljqnx6zceakjfbw5gwfma.md) — 芮淇讲透资治通鉴 episode on Yang Bing's impeachment of Hou Can and Hou Lan, the Three Excellencies' jurisdiction over palace eunuchs, a temporary civil-official counterattack on eunuch privilege, and the Deng-Guo harem-rivalry deposition notice.
 - [《资治通鉴·汉纪》866丨真正活明白的人，懂得“三不沾”](sources/zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6.md) — 芮淇讲透资治通鉴 episode on Yang Yuanqun's bribery reversal against Li Ying, Feng Gun and Liu You's punishment after enforcing against eunuch-linked actors, Yang Bing's "three refusals" integrity, Liu Yu's anti-eunuch memorial, and the Zhu Gai-Hu Lan rebellion prelude.
 - [VOL.215 低GI蜂蜜、零蔗糖、抗糖丸…？这届控糖人到底踩了多少坑？ft.「大食话」](sources/vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z.md) — 这病说来话长 episode with 阿汤 and 岳宛柔 on practical sugar control, liquid sugar, added and free sugars, low-GI honey, zero-sucrose labels, sweeteners, glycation anxiety, and staple-food structure.
@@ -1598,6 +1599,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [寇荣 / Kou Rong (late Han)](entities/KouRongLateHan.md) — Huan-era meritorious-family official whose blocked petition and offensive historical analogies end in execution.
 - [羊元群 / Yang Yuanqun (late Han)](entities/YangYuanqunLateHan.md) — Corrupt Beihai official whose eunuch bribery turns Li Ying's investigation into an enforcement-reversal case.
 - [冯绲 / Feng Gun (late Han)](entities/FengGunLateHan.md) — Legal official punished after a eunuch-relative custody case is recoded against him, later included in Ying Feng's pardon context.
 - [刘祐 / Liu You (late Han)](entities/LiuYouLateHan.md) — Fiscal official punished after trying to confiscate underpriced property acquisitions by Su Kang and Guan Ba.
@@ -1715,7 +1717,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张成 / Zhang Cheng (late Han astrologer)](entities/ZhangChengAstrologerLateHan.md) — Source-bounded astrologer whose predicted amnesty and murder case trigger Li Ying's enforcement and eunuch-backed party accusation.
 - [劳修 / Lao Xiu (late Han)](entities/LaoXiuLateHan.md) — Zhang Cheng's disciple whose eunuch-backed accusation turns Li Ying's enforcement case into the first Party Prohibition arrest order.
 - [霍谞 / Huo Xu (late Han)](entities/HuoXuLateHan.md) — Fan Pang's life-saving benefactor whose current wiki role centers on tacit gratitude rather than public repayment display.
-- [史弼 / Shi Bi (late Han)](entities/ShiBiLateHan.md) — Pingyuan chancellor who refuses to fabricate party-member names under Party Prohibition reporting pressure.
+- [史弼 / Shi Bi (late Han)](entities/ShiBiLateHan.md) — Late-Han official who proposes law-first handling for Liu Kui and later refuses to fabricate Party Prohibition names in Pingyuan.
 - [杨桥 / Yang Qiao (late Han)](entities/YangQiaoLateHan.md) — Source-bounded late-Han recommended talent whose fatal refusal of Emperor Huan's princess-marriage pressure anchors the coerced imperial marriage case.
 - [宋弘 / Song Hong (Eastern Han)](entities/SongHongEasternHan.md) — Eastern Han official used as the Liu Xiu restraint contrast to Yang Qiao's fatal coerced-marriage case.
 - [赵饶 / Zhao Rao (late Han)](entities/ZhaoRaoLateHan.md) — Emperor Ling's wet nurse and palace-proximity actor whose daily access helps explain Dou Miao's hesitation and later appears in Cao Jie's emergency custody channel.
@@ -1842,7 +1844,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [汉明帝 / Emperor Ming of Han](entities/EmperorMingOfHan.md) — Eastern Han emperor used by Hanji 899 as the filial precedent behind Guangwu Yuanling tomb-sacrifice practice.
 - [胡广 / Hu Guang (late Han)](entities/HuGuangLateHan.md) — Late-Han senior official whose six-reign service, institutional knowledge, mildness, and non-offense make Hanji 900's moderation-based survival case.
 - [侯览 / Hou Lan (late Han)](entities/HouLanLateHan.md) — Late-Han eunuch whose complaint channel punishes Cheng Jin and Liu Zhi before his Zhang Jian retaliation chain and later office-removal suicide.
-- [侯参 / Hou Can (late Han)](entities/HouCanLateHan.md) — Yizhou inspector whose corruption and suicide let Yang Bing turn a local case into pressure against Hou Lan.
+- [侯参 / Hou Can (late Han)](entities/HouCanLateHan.md) — Yizhou inspector whose corruption notice and suicide become Yang Bing's pressure case against Hou Lan.
 - [李贤 / Li Xian (taiwei, late Han)](entities/LiXianTaiweiLateHan.md) — Ill taiwei who risks death in Hanji 901 to argue that Empress Dowager Dou should be buried with Emperor Huan; distinct from 李暹 / Li Xian.
 - [邓皇后 / Empress Deng (Huan-era)](entities/EmpressDengHuanLateHan.md) — Emperor Huan empress whose rivalry with Guo Guiren ends in deposition and death before the later Tian Sheng and Dou Miao branch.
 - [郭贵人 / Guo Guiren (Huan-era)](entities/GuoGuirenHuanLateHan.md) — Emperor Huan consort who outlasts Empress Deng but loses favor, showing palace victory without stable protection.
@@ -1859,8 +1861,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [苏谦 / Su Qian (late Han)](entities/SuQianLateHan.md) — Father of Su Buwei whose attempted complaint against Li Hao becomes the killing that launches Su Buwei's filial revenge.
 - [苏不韦 / Su Buwei (late Han)](entities/SuBuweiLateHan.md) — Late-Han avenger whose tunnel attack against Li Hao begins a revenge spiral that escalates into tomb desecration and the extermination of his household under Duan Jiong.
 - [李昊 / Li Hao (late Han)](entities/LiHaoLateHan.md) — Late-Han official who kills Su Qian, survives Su Buwei's first attack, then suffers grave desecration and corpse-display retaliation before Duan Jiong destroys Su's household.
-- [刘亏 / Liu Kui (Bohai king)](entities/LiuKuiBohaiKing.md) — Imperial kinsman restored as Bohai king through Wang Fu's access brokerage, then destroyed after refusing the promised payment.
-- [渤海王国 / Bohai Kingdom (late Han)](entities/BohaiKingdomLateHan.md) — Liu Kui's restored royal fief, turned into the target field for Wang Fu's forged treason case and mass collateral punishment.
+- [刘亏 / Liu Kui (Bohai king)](entities/LiuKuiBohaiKing.md) — Imperial kinsman whose early Bohai misconduct is warned against before his later Wang Fu brokerage and forged treason purge.
+- [渤海王国 / Bohai Kingdom (late Han)](entities/BohaiKingdomLateHan.md) — Liu Kui's royal fief, first a missed legal-stabilization problem and later Wang Fu's forged treason purge field.
 - [郑飒 / Zheng Sa (late Han)](entities/ZhengSaLateHan.md) — Court actor whose arrest in the 168 CE Dou Wu crisis and later monitored ties to Liu Kui both become accusation material.
 - [董腾 / Dong Teng (late Han)](entities/DongTengLateHan.md) — Yellow Gate figure whose social connections with Liu Kui and Zheng Sa become suspicion material in Wang Fu's Bohai case.
 - [廉中 / Lian Zhong (late Han)](entities/LianZhongLateHan.md) — Shangshu ling said in Hanji 903 to forge evidence for Wang Fu's accusation that Zheng Sa and Liu Kui plotted imperial replacement.
@@ -9602,6 +9604,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Imperial Petition Offense Risk / 申冤上书冒犯风险](concepts/ImperialPetitionOffenseRisk.md) — Petition failure pattern where a self-defense memorial becomes punishable because its proof sounds like accusation against the ruler.
+- [Legal Judgment Before Imperial Grace / 先法度后恩宥](concepts/LegalJudgmentBeforeImperialGrace.md) — Procedural pattern where officials establish law first, then leave room for sovereign clemency after judgment.
 - [三不沾式清廉自守 / Three-Refusals Integrity](concepts/ThreeRefusalsIntegrity.md) — Public-office integrity discipline built around refusing wine, sexual entanglement, and money as capture channels.
 - [任官责任退出受限 / Office Duty Exit Constraint](concepts/OfficeDutyExitConstraint.md) — Governance pattern where capable officials cannot easily leave or avoid office because crisis demand treats their ability as a public asset.
 - [仁厚地方治理 / Humane Local Governance](concepts/HumaneLocalGovernance.md) — Local-administration pattern where calm conduct, light punishment, moral instruction, and redirected coercive capacity build order without maximizing fear.

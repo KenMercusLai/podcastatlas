@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 5769
+wiki_total_pages: 5771
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -182,6 +182,9 @@ wiki_pages:
   - key: "LegalInterestIndividualReduction"
     title: "Legal Interest Individual Reduction"
     url: "/wiki/concepts/legalinterestindividualreduction/"
+  - key: "LegalJudgmentBeforeImperialGrace"
+    title: "Legal Judgment Before Imperial Grace / 先法度后恩宥"
+    url: "/wiki/concepts/legaljudgmentbeforeimperialgrace/"
   - key: "LegalParadoxThinking"
     title: "Legal Paradox Thinking"
     url: "/wiki/concepts/legalparadoxthinking/"

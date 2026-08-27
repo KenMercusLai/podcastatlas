@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1953
+topic_total_pages: 1955
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -1309,6 +1309,9 @@ topic_concepts:
   - key: "ImperialKilnWasteControl"
     title: "Imperial Kiln Waste Control / 御窑落选品控制"
     url: "/wiki/concepts/imperialkilnwastecontrol/"
+  - key: "ImperialPetitionOffenseRisk"
+    title: "Imperial Petition Offense Risk / 申冤上书冒犯风险"
+    url: "/wiki/concepts/imperialpetitionoffenserisk/"
   - key: "ImperialTourPoliticalTheater"
     title: "Imperial Tour Political Theater / 帝国巡游政治剧场"
     url: "/wiki/concepts/imperialtourpoliticaltheater/"
@@ -1519,6 +1522,9 @@ topic_concepts:
   - key: "LegalInterestIndividualReduction"
     title: "Legal Interest Individual Reduction"
     url: "/wiki/concepts/legalinterestindividualreduction/"
+  - key: "LegalJudgmentBeforeImperialGrace"
+    title: "Legal Judgment Before Imperial Grace / 先法度后恩宥"
+    url: "/wiki/concepts/legaljudgmentbeforeimperialgrace/"
   - key: "LegalParadoxThinking"
     title: "Legal Paradox Thinking"
     url: "/wiki/concepts/legalparadoxthinking/"

@@ -28744,6 +28744,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "ImperialPetitionOffenseRisk": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "ImperialRitualDistance": [
     {
       "key": "politics",
@@ -33473,6 +33480,13 @@
     }
   ],
   "LegalInterestIndividualReduction": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "LegalJudgmentBeforeImperialGrace": [
     {
       "key": "politics",
       "label": "Politics",

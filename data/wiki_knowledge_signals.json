@@ -2045,6 +2045,29 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/bogside/"
     },
+    "BohaiKingdomLateHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》903丨为什么劝你冤冤相报何时了？ [loKpt93MUc8kasvN44VgsjKI8boM].md",
+          "key": "zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》903丨为什么劝你冤冤相报何时了？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》864丨名臣之后为何惨死于帝王之手？ [lqWeXX6nchx10rOxSRvh8C0kTKfq].md",
+          "key": "zizhi-tongjian-hanji-864-mingchen-zhihou-weihe-cansi-yu-diwang-zhishou-lqwexx6nchx10roxsrvh8c0ktkfq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》864丨名臣之后为何惨死于帝王之手？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-864-mingchen-zhihou-weihe-cansi-yu-diwang-zhishou-lqwexx6nchx10roxsrvh8c0ktkfq/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/bohaikingdomlatehan/"
+    },
     "BostonDynamics": {
       "episode_count": 5,
       "show_count": 5,
@@ -7387,9 +7410,9 @@
       "url": "/wiki/concepts/hotelretailflywheel/"
     },
     "HouCanLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》865丨职场BOSS也容易被这种人背刺 [ljfhFEVLJqNx6ZcEAkJfbw5GWfMA].md",
@@ -7397,6 +7420,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》865丨职场BOSS也容易被这种人背刺",
           "url": "/wiki/sources/zizhi-tongjian-hanji-865-zhichang-boss-ye-rongyi-bei-zhezhong-ren-beici-ljfhfevljqnx6zceakjfbw5gwfma/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》864丨名臣之后为何惨死于帝王之手？ [lqWeXX6nchx10rOxSRvh8C0kTKfq].md",
+          "key": "zizhi-tongjian-hanji-864-mingchen-zhihou-weihe-cansi-yu-diwang-zhishou-lqwexx6nchx10roxsrvh8c0ktkfq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》864丨名臣之后为何惨死于帝王之手？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-864-mingchen-zhihou-weihe-cansi-yu-diwang-zhishou-lqwexx6nchx10roxsrvh8c0ktkfq/"
         }
       ],
       "updated": "2026-08-28",
@@ -8005,6 +8035,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/immunesystemastunablesensornetwork/"
+    },
+    "ImperialPetitionOffenseRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》864丨名臣之后为何惨死于帝王之手？ [lqWeXX6nchx10rOxSRvh8C0kTKfq].md",
+          "key": "zizhi-tongjian-hanji-864-mingchen-zhihou-weihe-cansi-yu-diwang-zhishou-lqwexx6nchx10roxsrvh8c0ktkfq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》864丨名臣之后为何惨死于帝王之手？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-864-mingchen-zhihou-weihe-cansi-yu-diwang-zhishou-lqwexx6nchx10roxsrvh8c0ktkfq/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/imperialpetitionoffenserisk/"
     },
     "ImpermanenceAndNoSelf": {
       "episode_count": 3,
@@ -9301,6 +9347,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/kongrongmother/"
     },
+    "KouRongLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》864丨名臣之后为何惨死于帝王之手？ [lqWeXX6nchx10rOxSRvh8C0kTKfq].md",
+          "key": "zizhi-tongjian-hanji-864-mingchen-zhihou-weihe-cansi-yu-diwang-zhishou-lqwexx6nchx10roxsrvh8c0ktkfq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》864丨名臣之后为何惨死于帝王之手？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-864-mingchen-zhihou-weihe-cansi-yu-diwang-zhishou-lqwexx6nchx10roxsrvh8c0ktkfq/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/kouronglatehan/"
+    },
     "KylieJenner": {
       "episode_count": 1,
       "show_count": 1,
@@ -9520,6 +9582,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/leadershipemotionalcounterweight/"
+    },
+    "LegalJudgmentBeforeImperialGrace": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》864丨名臣之后为何惨死于帝王之手？ [lqWeXX6nchx10rOxSRvh8C0kTKfq].md",
+          "key": "zizhi-tongjian-hanji-864-mingchen-zhihou-weihe-cansi-yu-diwang-zhishou-lqwexx6nchx10roxsrvh8c0ktkfq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》864丨名臣之后为何惨死于帝王之手？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-864-mingchen-zhihou-weihe-cansi-yu-diwang-zhishou-lqwexx6nchx10roxsrvh8c0ktkfq/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/legaljudgmentbeforeimperialgrace/"
     },
     "LegitimacyIndictmentWarfare": {
       "episode_count": 2,
@@ -10025,6 +10103,29 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/liukuanlatehan/"
+    },
+    "LiuKuiBohaiKing": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》903丨为什么劝你冤冤相报何时了？ [loKpt93MUc8kasvN44VgsjKI8boM].md",
+          "key": "zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》903丨为什么劝你冤冤相报何时了？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》864丨名臣之后为何惨死于帝王之手？ [lqWeXX6nchx10rOxSRvh8C0kTKfq].md",
+          "key": "zizhi-tongjian-hanji-864-mingchen-zhihou-weihe-cansi-yu-diwang-zhishou-lqwexx6nchx10roxsrvh8c0ktkfq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》864丨名臣之后为何惨死于帝王之手？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-864-mingchen-zhihou-weihe-cansi-yu-diwang-zhishou-lqwexx6nchx10roxsrvh8c0ktkfq/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/liukuibohaiking/"
     },
     "LiuMaoLateHan": {
       "episode_count": 2,
@@ -15032,9 +15133,9 @@
       "url": "/wiki/entities/shequanlatehan/"
     },
     "ShiBiLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》877丨他为何冷落救命恩人？ [loOFS4ruGl-Q8kUNfB-Jpj5mGVhi].md",
@@ -15042,9 +15143,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》877丨他为何冷落救命恩人？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-877-ta-weihe-lengluo-jiuming-enren-loofs4rugl-q8kunfb-jpj5mgvhi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》864丨名臣之后为何惨死于帝王之手？ [lqWeXX6nchx10rOxSRvh8C0kTKfq].md",
+          "key": "zizhi-tongjian-hanji-864-mingchen-zhihou-weihe-cansi-yu-diwang-zhishou-lqwexx6nchx10roxsrvh8c0ktkfq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》864丨名臣之后为何惨死于帝王之手？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-864-mingchen-zhihou-weihe-cansi-yu-diwang-zhishou-lqwexx6nchx10roxsrvh8c0ktkfq/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-28",
       "url": "/wiki/entities/shibilatehan/"
     },
     "SleepAsDailyHealthAccount": {

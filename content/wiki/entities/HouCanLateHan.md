@@ -4,42 +4,46 @@ type: entity
 tags: [person, late-han, provincial-official, corruption, eunuch-politics]
 sources:
   - zizhi-tongjian-hanji-865-zhichang-boss-ye-rongyi-bei-zhezhong-ren-beici-ljfhfevljqnx6zceakjfbw5gwfma
+  - zizhi-tongjian-hanji-864-mingchen-zhihou-weihe-cansi-yu-diwang-zhishou-lqwexx6nchx10roxsrvh8c0ktkfq
 last_updated: 2026-08-28
 knowledge_schema: synthesis-v1
 ---
 
+# 侯参 / Hou Can (late Han)
+
 ## Overview
 
-侯参 / Hou Can is the late-Han Yizhou inspector in [[zizhi-tongjian-hanji-865-zhichang-boss-ye-rongyi-bei-zhezhong-ren-beici-ljfhfevljqnx6zceakjfbw5gwfma|Hanji 865]] whose corruption case lets [[YangBingLateHan|杨秉]] push an attack from a local official onto Hou Can's eunuch brother [[HouLanLateHan|侯览]].
+侯参 / Hou Can is the late-Han Yizhou inspector whose corruption and suicide are introduced as the closing notice in [[zizhi-tongjian-hanji-864-mingchen-zhihou-weihe-cansi-yu-diwang-zhishou-lqwexx6nchx10roxsrvh8c0ktkfq|Hanji 864]] and expanded in [[zizhi-tongjian-hanji-865-zhichang-boss-ye-rongyi-bei-zhezhong-ren-beici-ljfhfevljqnx6zceakjfbw5gwfma|Hanji 865]] into [[YangBingLateHan|杨秉]]'s pressure case against Hou Can's eunuch brother [[HouLanLateHan|侯览]].
 
 ## Current Profile
 
-Hou Can is a source-scoped corruption case rather than a full biographical subject. The episode says he holds the Yizhou inspector post, relies on Hou Lan's power, abuses local people, and accumulates enormous illicit wealth. Once Yang Bing impeaches him, Hou Can is brought back toward Luoyang in a prison cart and dies by suicide on the road.
+Hou Can remains a compact corruption case rather than a full biography. Hanji 864 gives the annalistic hook: his reported corruption reaches an enormous amount, he is impeached, sent toward Luoyang in a prison cart, and dies by suicide before arrival. Hanji 865 supplies the fuller institutional meaning: Hou Can's abuse matters because it is linked to Hou Lan's power and because Yang Bing can turn visible local corruption into a challenge to the palace protection around Hou Lan.
 
-His importance is structural. Hou Can shows how eunuch kinship power can protect local predation until a senior minister turns the case into a court-level impeachment. The large vehicle train of seized valuables makes his abuse visible enough that Yang Bing can widen the argument from Hou Can's conduct to Hou Lan's fitness to remain near Emperor Huan.
+His profile therefore anchors a breach in [[EunuchPatronageViolenceShield|宦官庇护下的地方暴行]]. Hou Can's office abuse is not merely private greed; it becomes evidence in a court argument about whether senior ministers can hold inner-court eunuch networks accountable.
 
 ## Key Characteristics
 
-- Late-Han provincial inspector whose office becomes a vehicle for local abuse.
+- Late-Han provincial inspector whose Yizhou office becomes a vehicle for local abuse.
 - Brother of Hou Lan, making his corruption part of the eunuch-protection field.
 - Impeachment target whose suicide prevents an ordinary trial outcome.
 - Evidence trigger that lets Yang Bing challenge Hou Lan's palace access and office status.
 
 ## Evidence
 
+- Corruption notice: [[zizhi-tongjian-hanji-864-mingchen-zhihou-weihe-cansi-yu-diwang-zhishou-lqwexx6nchx10roxsrvh8c0ktkfq|Hanji 864]] says Hou Can is reported for huge corrupt gains while serving as a provincial inspector and is sent toward Luoyang in a prison cart.
+- Death in custody route: [[zizhi-tongjian-hanji-864-mingchen-zhihou-weihe-cansi-yu-diwang-zhishou-lqwexx6nchx10roxsrvh8c0ktkfq|Hanji 864]] says Hou Can dies by suicide before reaching Luoyang.
 - Provincial corruption: [[zizhi-tongjian-hanji-865-zhichang-boss-ye-rongyi-bei-zhezhong-ren-beici-ljfhfevljqnx6zceakjfbw5gwfma|Hanji 865]] says Hou Can serves as Yizhou inspector, relies on Hou Lan, harms the local population, and amasses very large corrupt gains.
-- Custody and death: [[zizhi-tongjian-hanji-865-zhichang-boss-ye-rongyi-bei-zhezhong-ren-beici-ljfhfevljqnx6zceakjfbw5gwfma|Hanji 865]] says Yang Bing impeaches Hou Can, who is then sent toward Luoyang in a prison cart and dies by suicide en route.
-- Visible evidence: [[zizhi-tongjian-hanji-865-zhichang-boss-ye-rongyi-bei-zhezhong-ren-beici-ljfhfevljqnx6zceakjfbw5gwfma|Hanji 865]] says the seized vehicles carry large amounts of gold, silver, and foil, turning household extraction into legible court evidence.
+- Visible evidence: [[zizhi-tongjian-hanji-865-zhichang-boss-ye-rongyi-bei-zhezhong-ren-beici-ljfhfevljqnx6zceakjfbw5gwfma|Hanji 865]] says seized vehicles carry large amounts of gold, silver, and foil, turning household extraction into legible court evidence.
 - Pressure on Hou Lan: [[zizhi-tongjian-hanji-865-zhichang-boss-ye-rongyi-bei-zhezhong-ren-beici-ljfhfevljqnx6zceakjfbw5gwfma|Hanji 865]] makes Hou Can's case the immediate basis for Yang Bing's further memorial against Hou Lan.
 
 ## Qualifications
 
-The current page is bounded to Hanji 865. It does not reconstruct Hou Can's family history, prior career, or whether all recorded wealth belongs personally to him rather than to a broader household extraction network. The source's 侯澜 spelling is normalized to the existing Hou Lan page, while Hou Can remains separate from unrelated Hou-surname late-Han figures.
+The current page is bounded to Hanji 864-865. Hanji 864 introduces the case briefly; Hanji 865 supplies the fuller Hou Lan and Yang Bing connection. The page does not reconstruct Hou Can's prior career or whether every reported asset belongs personally to him rather than to a broader household extraction network.
 
 ## What Changed
 
-- Created Hou Can as the local-corruption trigger behind Yang Bing's anti-Hou Lan impeachment.
-- Added Hou Can as a concrete source case for eunuch kinship protection failing under senior-minister pressure.
+- Added Hanji 864 as the earlier annalistic notice for Hou Can's corruption, custody route, and suicide.
+- Kept Hanji 865 as the main source for why Hou Can's case becomes pressure against Hou Lan.
 
 ## Relationships
 

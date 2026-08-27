@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-28] ingest | 《资治通鉴·汉纪》864丨名臣之后为何惨死于帝王之手？
+
+Added source page for Hanji 864: Kou Rong's Huan-era accusation, blocked petition, risky historical analogies, and execution; Shi Bi's law-first, grace-second proposal for Liu Kui's Bohai misconduct; and the Hou Can corruption notice before Hanji 865. Created Kou Rong, Imperial Petition Offense Risk, and Legal Judgment Before Imperial Grace pages; updated Shi Bi, Liu Kui, Bohai Kingdom, Hou Can, index, and overview. No settled contradiction found; Liu Kui's Huan-era Bohai layer and later Emperor Ling-era restoration/purge are preserved as sequential layers with an unresolved interval.
+
 ## [2026-08-27] ingest | Essentials: How to Become Resilient, Forge Your Identity & Lead Others | Jocko Willink
 
 Added source page for a Huberman Lab Essentials episode with Jocko Willink on discipline over motivation, exercise-generated energy, resilience after failure, leadership as emotional counterweight, action after adversity, identity through independence, and operational detachment. Created Jocko Willink, Discipline Over Motivation, Operational Detachment, Leadership Emotional Counterweight, and Action After Adversity pages; extended Huberman Lab, Andrew Huberman, and Autonomic Stress Training. No settled contradiction found; exercise, nutrition timing, deliberate discomfort, leadership, parenting, and resilience claims remain source-scoped and not universal protocols.
@@ -12748,6 +12752,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》865丨职场BOSS也容易被这种人背刺
 
 Added source page for a 165 CE Huan-era backfill on Yang Bing's impeachment of Hou Can and Hou Lan, the dispute over whether the Three Excellencies can impeach palace eunuchs, the temporary civil-official counterattack against eunuch privilege, and the Deng-Guo harem-rivalry deposition notice. Created Hou Can and Three Excellencies Inner-Court Jurisdiction pages; updated Yang Bing, Hou Lan, Emperor Huan, Empress Deng, Guo Guiren, Eunuch Patronage Violence Shield, index, and overview. No settled contradiction found; Hou Lan's 165 removal is kept as an earlier removal or demotion whose later access/reinstatement path remains unresolved.
+
+## [2026-08-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-28] lint | Wiki health check
 
