@@ -418,6 +418,51 @@ class VerifyPagesOutputTest(unittest.TestCase):
             verifier.validate_pagefind_output(public, errors)
             self.assertIn("internal _generated URL found in Pagefind result fragments", errors)
 
+    def test_pagefind_verifier_rejects_hugo_encoded_result_url_template(self):
+        verifier = load_verifier()
+        with tempfile.TemporaryDirectory() as directory:
+            public = Path(directory)
+            write(public / "pagefind/pagefind.en-us.pf_meta", "meta")
+            write(public / "pagefind/index/en-us_example.pf_index", "index")
+            fragment = public / "pagefind/fragment/en-us_example.pf_fragment"
+            fragment.parent.mkdir(parents=True, exist_ok=True)
+            fragment.write_bytes(gzip.compress(b"/wiki/current-synthesis/ compact synthesis"))
+
+            search = public / "search/index.html"
+            write(
+                search,
+                '<script type="text/pagefind-template">'
+                '<a class="pf-result-link" '
+                'href="{{ meta.url | default(url) | safeUrl }}">{{ meta.title }}</a>'
+                "</script>",
+            )
+            errors: list[str] = []
+            verifier.validate_pagefind_output(public, errors)
+            self.assertEqual([], errors)
+
+            write(
+                search,
+                '<!-- href="{{ meta.url | default(url) | safeUrl }}" -->'
+                '<script type="text/pagefind-template">'
+                '<a class="pf-result-link" '
+                'href="%7b%7b%20meta.url%20%7c%20default%28url%29%20%7c%20safeUrl%20%7d%7d">'
+                "{{ meta.title }}</a></script>",
+            )
+            errors = []
+            verifier.validate_pagefind_output(public, errors)
+            self.assertIn("Pagefind result URL template was escaped by Hugo", errors)
+
+            write(
+                search,
+                '<script type="text/pagefind-template">'
+                '<!-- <a class="pf-result-link" '
+                'href="{{ meta.url | default(url) | safeUrl }}">{{ meta.title }}</a> -->'
+                "</script>",
+            )
+            errors = []
+            verifier.validate_pagefind_output(public, errors)
+            self.assertIn("Pagefind result URL template was escaped by Hugo", errors)
+
     def test_current_synthesis_verifier_checks_snapshot_metadata_across_landing_and_detail(self):
         verifier = load_verifier()
         with tempfile.TemporaryDirectory() as directory:
@@ -716,6 +761,13 @@ class VerifyPagesOutputTest(unittest.TestCase):
                     key = Path(relative).parts[2]
                     body = (
                         f'<a class="wiki-topic-link" data-topic-key="{key}" href="/topics/{key}/">{key}</a>'
+                    )
+                elif relative == "search/index.html":
+                    body = (
+                        '<script type="text/pagefind-template">'
+                        '<a class="pf-result-link" '
+                        'href="{{ meta.url | default(url) | safeUrl }}">{{ meta.title }}</a>'
+                        "</script>"
                     )
                 else:
                     body = ""

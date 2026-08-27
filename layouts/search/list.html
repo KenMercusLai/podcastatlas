@@ -102,7 +102,7 @@
                   {{ printf "{{#if meta.context}}" }}<span class="search-result-context">{{ printf "{{ meta.context }}" }}</span>{{ printf "{{/if}}" }}
                 </p>
                 <p class="pf-result-title">
-                  <a class="pf-result-link" href="{{ printf "{{ meta.url | default(url) | safeUrl }}" }}">{{ printf "{{ meta.title }}" }}</a>
+                  <a class="pf-result-link" {{ printf `href="{{ meta.url | default(url) | safeUrl }}"` | safeHTMLAttr }}>{{ printf "{{ meta.title }}" }}</a>
                 </p>
                 {{ printf "{{#if excerpt}}" }}<p class="pf-result-excerpt">{{ printf "{{+ excerpt +}}" }}</p>{{ printf "{{/if}}" }}
               </div>

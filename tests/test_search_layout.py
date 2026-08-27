@@ -63,6 +63,15 @@ class SearchLayoutTest(unittest.TestCase):
         self.assertIn('class="search-result-type"', rendered)
         self.assertIn('class="search-result-context"', rendered)
 
+    def test_search_result_link_preserves_pagefind_url_template_through_hugo(self):
+        layout = ROOT / "layouts" / "search" / "list.html"
+        rendered = layout.read_text()
+
+        self.assertIn(
+            '{{ printf `href="{{ meta.url | default(url) | safeUrl }}"` | safeHTMLAttr }}',
+            rendered,
+        )
+
     def test_every_page_exposes_searchable_type_group_context_and_alias_metadata(self):
         layout = BASE_LAYOUT.read_text()
         type_partial = ROOT / "layouts" / "partials" / "search-type.html"

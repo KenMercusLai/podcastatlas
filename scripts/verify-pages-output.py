@@ -270,6 +270,42 @@ class PublicLinkParser(HTMLParser):
             self.has_github_link = True
 
 
+class PagefindTemplateParser(HTMLParser):
+    def __init__(self) -> None:
+        super().__init__(convert_charrefs=True)
+        self.templates: list[str] = []
+        self._template_chunks: list[str] | None = None
+
+    def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
+        if tag.lower() != "script" or self._template_chunks is not None:
+            return
+        attributes = dict(attrs)
+        if (attributes.get("type") or "").lower() == "text/pagefind-template":
+            self._template_chunks = []
+
+    def handle_data(self, data: str) -> None:
+        if self._template_chunks is not None:
+            self._template_chunks.append(data)
+
+    def handle_endtag(self, tag: str) -> None:
+        if tag.lower() == "script" and self._template_chunks is not None:
+            self.templates.append("".join(self._template_chunks))
+            self._template_chunks = None
+
+
+class PagefindResultLinkParser(HTMLParser):
+    def __init__(self) -> None:
+        super().__init__(convert_charrefs=True)
+        self.hrefs: list[str | None] = []
+
+    def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
+        if tag.lower() != "a":
+            return
+        attributes = dict(attrs)
+        if "pf-result-link" in (attributes.get("class") or "").split():
+            self.hrefs.append(attributes.get("href"))
+
+
 class MarkerParser(HTMLParser):
     def __init__(self) -> None:
         super().__init__(convert_charrefs=True)
@@ -1442,6 +1478,19 @@ def validate_pagefind_output(public_dir: Path, errors: list[str]) -> None:
         errors.append("missing Pagefind metadata index")
     if not list((pagefind_dir / "index").glob("*.pf_index")):
         errors.append("missing Pagefind search index")
+
+    search_page = public_dir / "search" / "index.html"
+    if search_page.is_file():
+        template_parser = PagefindTemplateParser()
+        template_parser.feed(search_page.read_text(encoding="utf-8"))
+        result_hrefs: list[str | None] = []
+        for template in template_parser.templates:
+            link_parser = PagefindResultLinkParser()
+            link_parser.feed(template)
+            result_hrefs.extend(link_parser.hrefs)
+        expected_result_href = "{{ meta.url | default(url) | safeUrl }}"
+        if result_hrefs != [expected_result_href]:
+            errors.append("Pagefind result URL template was escaped by Hugo")
 
     fragments = list((pagefind_dir / "fragment").glob("*.pf_fragment"))
     if not fragments:
