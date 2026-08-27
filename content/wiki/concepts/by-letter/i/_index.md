@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 5788
+wiki_total_pages: 5790
 wiki_pages:
   - key: "ICEWorkforceExpansion"
     title: "ICE Workforce Expansion"
@@ -695,6 +695,9 @@ wiki_pages:
   - key: "ImperialPrivateTreasuryExtraction"
     title: "帝王私库进奉盘剥 / Imperial Private Treasury Extraction"
     url: "/wiki/concepts/imperialprivatetreasuryextraction/"
+  - key: "ImperialPrivateDesireGovernanceRisk"
+    title: "帝王私欲治理风险 / Imperial Private Desire Governance Risk"
+    url: "/wiki/concepts/imperialprivatedesiregovernancerisk/"
   - key: "ImperialBondservantGovernance"
     title: "皇室包衣治理 / Imperial Bondservant Governance"
     url: "/wiki/concepts/imperialbondservantgovernance/"

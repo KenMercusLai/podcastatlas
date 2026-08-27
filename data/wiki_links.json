@@ -11859,6 +11859,10 @@
     "title": "Council on Foreign Relations",
     "url": "/wiki/entities/councilonforeignrelations/"
   },
+  "CounselExitAfterNonresponse": {
+    "title": "进言不纳后的抽身 / Counsel Exit After Nonresponse",
+    "url": "/wiki/concepts/counselexitafternonresponse/"
+  },
   "CountBinface": {
     "title": "Count Binface",
     "url": "/wiki/entities/countbinface/"
@@ -13578,6 +13582,10 @@
   "DengTuzhi": {
     "title": "邓图直 / Deng Tuzhi",
     "url": "/wiki/entities/dengtuzhi/"
+  },
+  "DengWanshiLateHan": {
+    "title": "邓万世 / Deng Wanshi (late Han)",
+    "url": "/wiki/entities/dengwanshilatehan/"
   },
   "DengXiLateHan": {
     "title": "邓羲 / Deng Xi (late Han)",
@@ -23694,6 +23702,10 @@
   "ImperialPetitionOffenseRisk": {
     "title": "Imperial Petition Offense Risk / 申冤上书冒犯风险",
     "url": "/wiki/concepts/imperialpetitionoffenserisk/"
+  },
+  "ImperialPrivateDesireGovernanceRisk": {
+    "title": "帝王私欲治理风险 / Imperial Private Desire Governance Risk",
+    "url": "/wiki/concepts/imperialprivatedesiregovernancerisk/"
   },
   "ImperialPrivateTreasuryExtraction": {
     "title": "帝王私库进奉盘剥 / Imperial Private Treasury Extraction",
@@ -54587,6 +54599,10 @@
     "title": "袁放 / Yuan Fang (HYROX)",
     "url": "/wiki/entities/yuanfanghyrox/"
   },
+  "YuanHongChenliuLateHan": {
+    "title": "袁闳 / Yuan Hong (Chenliu, late Han)",
+    "url": "/wiki/entities/yuanhongchenliulatehan/"
+  },
   "YuanHongLateHan": {
     "title": "袁闳 / Yuan Hong (late Han)",
     "url": "/wiki/entities/yuanhonglatehan/"
@@ -60230,6 +60246,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-852-dang-meinv-ruyun-shi-fu-haishi-huo-luml30ytbc-awpvk-7-23ehzbqpx": {
+    "title": "《资治通鉴·汉纪》852丨当美女如云，是福还是 “祸”？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-852-dang-meinv-ruyun-shi-fu-haishi-huo-luml30ytbc-awpvk-7-23ehzbqpx/"
   },
   "zizhi-tongjian-hanji-857-xuehui-gongying-cai-shi-zhenzheng-de-yingjia-lh3zx6pw-4ib7owiz8c68bv-9htn": {
     "title": "《资治通鉴·汉纪》857丨学会共赢，才是真正的赢家",

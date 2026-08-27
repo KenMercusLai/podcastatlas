@@ -2932,9 +2932,9 @@
       "url": "/wiki/entities/chezhoulatehan/"
     },
     "ChenFanLateHan": {
-      "episode_count": 16,
+      "episode_count": 17,
       "show_count": 1,
-      "source_note_count": 16,
+      "source_note_count": 17,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》901 丨急性子的人会是什么下场？ [lh1yfyJZqPTXVtnV9tAiQms9YjUd].md",
@@ -3047,6 +3047,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》858丨为什么劝你一定要换位思考？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-858-weishenme-quan-ni-yiding-yao-huanwei-sikao-lobr-xznqo-ctjpc-ytpstubmahl/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》852丨当美女如云，是福还是 “祸”？ [luml30yTbc-aWPVK-7_23eHZBQPx].md",
+          "key": "zizhi-tongjian-hanji-852-dang-meinv-ruyun-shi-fu-haishi-huo-luml30ytbc-awpvk-7-23ehzbqpx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》852丨当美女如云，是福还是 “祸”？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-852-dang-meinv-ruyun-shi-fu-haishi-huo-luml30ytbc-awpvk-7-23ehzbqpx/"
         }
       ],
       "updated": "2026-08-28",
@@ -3827,6 +3834,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/coronaryarterycalciummidlifescreening/"
     },
+    "CounselExitAfterNonresponse": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》852丨当美女如云，是福还是 “祸”？ [luml30yTbc-aWPVK-7_23eHZBQPx].md",
+          "key": "zizhi-tongjian-hanji-852-dang-meinv-ruyun-shi-fu-haishi-huo-luml30ytbc-awpvk-7-23ehzbqpx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》852丨当美女如云，是福还是 “祸”？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-852-dang-meinv-ruyun-shi-fu-haishi-huo-luml30ytbc-awpvk-7-23ehzbqpx/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/counselexitafternonresponse/"
+    },
     "CounterinsurgencyLegitimacyTrap": {
       "episode_count": 2,
       "show_count": 1,
@@ -4413,6 +4436,29 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/dengjilatehan/"
+    },
+    "DengWanshiLateHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》852丨当美女如云，是福还是 “祸”？ [luml30yTbc-aWPVK-7_23eHZBQPx].md",
+          "key": "zizhi-tongjian-hanji-852-dang-meinv-ruyun-shi-fu-haishi-huo-luml30ytbc-awpvk-7-23ehzbqpx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》852丨当美女如云，是福还是 “祸”？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-852-dang-meinv-ruyun-shi-fu-haishi-huo-luml30ytbc-awpvk-7-23ehzbqpx/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》865丨职场BOSS也容易被这种人背刺 [ljfhFEVLJqNx6ZcEAkJfbw5GWfMA].md",
+          "key": "zizhi-tongjian-hanji-865-zhichang-boss-ye-rongyi-bei-zhezhong-ren-beici-ljfhfevljqnx6zceakjfbw5gwfma",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》865丨职场BOSS也容易被这种人背刺",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-865-zhichang-boss-ye-rongyi-bei-zhezhong-ren-beici-ljfhfevljqnx6zceakjfbw5gwfma/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/dengwanshilatehan/"
     },
     "Derry": {
       "episode_count": 3,
@@ -5383,9 +5429,9 @@
       "url": "/wiki/concepts/emotionsasfunctionalcontrolstates/"
     },
     "EmperorHuanOfHan": {
-      "episode_count": 15,
+      "episode_count": 16,
       "show_count": 1,
-      "source_note_count": 15,
+      "source_note_count": 16,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》901 丨急性子的人会是什么下场？ [lh1yfyJZqPTXVtnV9tAiQms9YjUd].md",
@@ -5491,6 +5537,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》858丨为什么劝你一定要换位思考？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-858-weishenme-quan-ni-yiding-yao-huanwei-sikao-lobr-xznqo-ctjpc-ytpstubmahl/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》852丨当美女如云，是福还是 “祸”？ [luml30yTbc-aWPVK-7_23eHZBQPx].md",
+          "key": "zizhi-tongjian-hanji-852-dang-meinv-ruyun-shi-fu-haishi-huo-luml30ytbc-awpvk-7-23ehzbqpx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》852丨当美女如云，是福还是 “祸”？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-852-dang-meinv-ruyun-shi-fu-haishi-huo-luml30ytbc-awpvk-7-23ehzbqpx/"
         }
       ],
       "updated": "2026-08-28",
@@ -8556,6 +8609,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/imperialpetitionoffenserisk/"
+    },
+    "ImperialPrivateDesireGovernanceRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》852丨当美女如云，是福还是 “祸”？ [luml30yTbc-aWPVK-7_23eHZBQPx].md",
+          "key": "zizhi-tongjian-hanji-852-dang-meinv-ruyun-shi-fu-haishi-huo-luml30ytbc-awpvk-7-23ehzbqpx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》852丨当美女如云，是福还是 “祸”？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-852-dang-meinv-ruyun-shi-fu-haishi-huo-luml30ytbc-awpvk-7-23ehzbqpx/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/imperialprivatedesiregovernancerisk/"
     },
     "ImperialRetinueDiscipline": {
       "episode_count": 1,
@@ -20142,6 +20211,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/yufan/"
+    },
+    "YuanHongChenliuLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》852丨当美女如云，是福还是 “祸”？ [luml30yTbc-aWPVK-7_23eHZBQPx].md",
+          "key": "zizhi-tongjian-hanji-852-dang-meinv-ruyun-shi-fu-haishi-huo-luml30ytbc-awpvk-7-23ehzbqpx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》852丨当美女如云，是福还是 “祸”？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-852-dang-meinv-ruyun-shi-fu-haishi-huo-luml30ytbc-awpvk-7-23ehzbqpx/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/yuanhongchenliulatehan/"
     },
     "YuanHongLateHan": {
       "episode_count": 1,

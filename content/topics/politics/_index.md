@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1957
+topic_total_pages: 1958
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3127,6 +3127,9 @@ topic_concepts:
   - key: "ClothCladAngerPersuasion"
     title: "布衣之怒 / Cloth-Clad Anger Persuasion"
     url: "/wiki/concepts/clothcladangerpersuasion/"
+  - key: "ImperialPrivateDesireGovernanceRisk"
+    title: "帝王私欲治理风险 / Imperial Private Desire Governance Risk"
+    url: "/wiki/concepts/imperialprivatedesiregovernancerisk/"
   - key: "XuzhouMutualKingship"
     title: "徐州相王 / Xuzhou Mutual Kingship"
     url: "/wiki/concepts/xuzhoumutualkingship/"

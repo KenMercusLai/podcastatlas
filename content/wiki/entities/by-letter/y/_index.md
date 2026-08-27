@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 8029
+wiki_total_pages: 8031
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -713,6 +713,9 @@ wiki_pages:
   - key: "YuanChanggeng"
     title: "袁长庚 / Yuan Changgeng"
     url: "/wiki/entities/yuanchanggeng/"
+  - key: "YuanHongChenliuLateHan"
+    title: "袁闳 / Yuan Hong (Chenliu, late Han)"
+    url: "/wiki/entities/yuanhongchenliulatehan/"
   - key: "YuanHongLateHan"
     title: "袁闳 / Yuan Hong (late Han)"
     url: "/wiki/entities/yuanhonglatehan/"

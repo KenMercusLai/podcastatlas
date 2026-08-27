@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-28] ingest | 《资治通鉴·汉纪》852丨当美女如云，是福还是 “祸”？
+
+Added source page for a 159 CE Huan-era backfill on Emperor Huan's post-Liang favor rewards, Chen Fan's criticism of non-merit marquisates and harem expense, partial release of palace women, Yuan Hong's middle-ruler diagnosis, Deng Wanshi's excessive palace intimacy, and Yuan Hong's withdrawal after an unanswered omen-coded memorial. Created Yuan Hong (Chenliu), Deng Wanshi, Imperial Private Desire Governance Risk, and Counsel Exit After Nonresponse pages; updated Emperor Huan, Chen Fan, overview, and index. No settled contradiction found; Yuan Hong is disambiguated from the later Yuan-family recluse route, while Deng Zun, the Huang-family title holder, exact harem figures, and the opening desire lesson remain source-scoped.
+
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》860丨惊为天人！东汉郭泰有多神？
 
 Added source page for Hanji 860: Huang Qiong's 164 CE funeral, Xu Zhi's anonymous mourning and selective speech, Fu Rong's introduction of Guo Tai to Li Ying, Guo Tai's Luoyang fame, and Mao Rong's rain-shelter and filial-household virtue scenes. Created Huang Qiong and Mao Rong pages; updated Guo Tai, Xu Zhi, Fu Rong, Li Ying, Moral Mentorship as Talent Cultivation, Situational Character Tests, Elite-Endorsement Reputation Making, index, and overview. No settled contradiction found; transcript variants 徐志, 李英, 芙蓉, 毛戎, and 毛蓉 were normalized to late-Han canonical routes.
@@ -12832,6 +12836,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-28] ingest | 689. A Murderous Affair: The Habsburgs' Greatest Scandal (Part 1)
 
 Added source page for The Rest Is History episode on Crown Prince Rudolf's formation, Franz Joseph and Sisi's family world, the 1867 dual monarchy, fin-de-siecle Vienna, Rudolf's politics and marriage, Mary Vetsera's early pursuit, and Countess Larish's access brokerage before Mayerling. Created Princess Stephanie of Belgium, Elisabeth Marie of Austria, Georg von Schonerer, Austro-Hungarian Dual Monarchy, and Dynastic Heir Role Entrapment; updated Crown Prince Rudolf, Mary Vetsera, Franz Joseph I, Empress Sisi, Austria-Hungary, Habsburg Dynasty, Countess Larish, Mayerling Incident, Kaiser Wilhelm II, Mayerling Death Pact, Fin-de-Siecle Vienna Crisis Reading, Vienna, The Rest Is History, overview, and index. No settled contradiction found; Countess Larisch is kept on the existing CountessLarish route, and psychological, medical, agency, and decline-causation claims remain source-scoped.
+
+## [2026-08-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-28] lint | Wiki health check
 
