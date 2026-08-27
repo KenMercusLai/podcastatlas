@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-27
-as_of_overview_commit: c5b547a77fc6923c3266c89b3974c8bc3a9b2fe4
-summary: "Durable value depends on operational proof, trust boundaries, human judgment, and adjacent-demand fit as AI, markets, institutions, science, and conflict systems shift."
-episode_count: 1559
-source_count: 1559
-paragraph_count: 290
+as_of_overview_commit: 2c6153a74ce28014c96d70d8bdeba7aa3ca05452
+summary: "Durable value depends on operational proof, trust boundaries, human judgment, and adjacent-demand fit as AI, lodging, markets, institutions, science, and conflict systems shift."
+episode_count: 1561
+source_count: 1561
+paragraph_count: 291
 topic_count: 8
 ---
 
@@ -36,7 +36,7 @@ AI value depends on workflow integration, data readiness, verification, permissi
 
 ### Business and Markets
 
-Business value still turns on demand proof, distribution, trust, payment, and operating fit; the new roundup adds adjacent occasions as a growth defense under mature-category pressure.
+Business value turns on demand proof, distribution, payment, trust, operating fit, and timing; the lodging branch adds spare-bedroom cash-flow, safety, and search constraints.
 
 - [[the-continent-nobody-owns-everyone-benefits-from-summer-school]] adds that market value can be created or protected by institutional design outside ordinary ownership: [[NonMarketEnvironmentalValuation]] makes [[Antarctica]] and [[SouthernOcean]] climate services visible, [[ParkingCostInternalization]] prices [[Tokyo]] street storage, [[ViennaSocialHousingScale]] uses nonprofit and public supply to affect rents, and [[ConsortioGroupFinancing]] formalizes mutual purchasing finance in [[Brazil]]. Evidence: [[the-continent-nobody-owns-everyone-benefits-from-summer-school]], [[NonMarketEnvironmentalValuation]], [[Antarctica]], [[SouthernOcean]], [[AntarcticClimateServices]], [[ParkingCostInternalization]], [[Tokyo]], [[ViennaSocialHousingScale]], [[Vienna]], [[ConsortioGroupFinancing]], [[Brazil]], [[ExternalityInternalization]], [[HousingAffordabilitySupplyMechanics]].
 - [[CustomerPull]], [[ProductLedWillingnessToPay]], and [[PreProductSelling]] become durable only when distribution, buyer-commitment, payment proof, and operating gates such as [[CPGDistribution]], [[RetailLineReview]], [[PlanogramGatekeeping]], [[RetailPricePointProductScoping]], [[MassRetailProductionDeadline]], [[EnterprisePOCDiscipline]], [[EnterpriseCustomerAsMarket]], [[AIOfficeAgent]], and [[RobotRepurchaseDemand]] can repeatedly deliver value after initial attention. Evidence: [[CustomerPull]], [[ProductLedWillingnessToPay]], [[PreProductSelling]], [[CPGDistribution]], [[RetailLineReview]], [[PlanogramGatekeeping]], [[RetailPricePointProductScoping]], [[MassRetailProductionDeadline]], [[EnterprisePOCDiscipline]], [[EnterpriseCustomerAsMarket]], [[Templafy]], [[RobotRepurchaseDemand]], [[AIOfficeAgent]], [[AICommercializationPressure]], [[AIConsumerGrowthMetrics]], [[AIInferenceCostStructure]], [[DingTalk]], [[Feishu]], [[TencentWorkBuddy]], [[DoubaoWork]], [[tengxun-ali-zijie-zhengduo-dagongren-hulianwang-dachang-weihe-jiti-jiama-ai-bangong-1008598460]], [[ep-46-fix-the-foundation-first-why-your-data-strategy-is-failing-before-the-ai-gets-involved]], [[MidMarketDataTalentGap]], [[ParadoxMachines]].
@@ -63,7 +63,7 @@ Historical and geopolitical cases show power moving through enforceable systems,
 
 ### Psychology and Personal Development
 
-Personal-development sources frame agency as disciplined attention, sized risk, authorship trust, self-command, and human judgment under AI and institutional pressure.
+Personal-development sources frame agency as disciplined attention, sized risk, authorship trust, self-command, and acceptable trust boundaries under AI, institutions, and stranger-in-home transactions.
 
 - [[AugmentedIntelligence]] and [[ep278-ai-shidai-bu-juan-zhuanye-juan-shenme-renzai-zhongliu-tebie-cehua-02-lhvsbropwclouwshe-2-fczwnwzz|EP278]] add a personal-judgment frame for AI use: [[JonathanSchaeffer]] treats LLMs as useful assistants or interns, while the AI-era education source adds [[NonAlgorithmicCapabilities]], [[HumanAgencyUnderAI]], and [[HumanConnectionUnderAI]] as safeguards against letting convenience replace verification, practice, and self-direction. Evidence: [[ep-47-the-ai-pioneer-who-decided-privacy-matters-more-than-hype]], [[ep278-ai-shidai-bu-juan-zhuanye-juan-shenme-renzai-zhongliu-tebie-cehua-02-lhvsbropwclouwshe-2-fczwnwzz]], [[AugmentedIntelligence]], [[JonathanSchaeffer]], [[HumanJudgmentUnderAI]], [[AIVerification]], [[AIHallucination]], [[NonAlgorithmicCapabilities]], [[HumanAgencyUnderAI]], [[HumanConnectionUnderAI]].
 - [[HumanAuthorshipPremium]] and [[AlgorithmAversion]] show that perceived AI authorship can reduce trust in emotionally or identity-relevant products. Evidence: [[HumanAuthorshipPremium]], [[AlgorithmAversion]].

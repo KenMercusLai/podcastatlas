@@ -12512,3 +12512,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-27] lint | Wiki health check
 
 Ran health, identity validation, and lint. Health scanned 15,142 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-22 with 12,882 nodes and 149,964 edges while the current lint scan covered 15,142 pages, so fragile-bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because no provider-qualified `LLM_MODEL` or common provider API key variables are configured in this shell. Report returned in-session; `wiki/lint-report.md` was not updated.
+
+## [2026-08-27] ingest | Vol.272 2026年了，怎么还有人要做中国版Airbnb？
+
+Added source page for a 商业就是这样 episode with 谭丁 on 一间次卧, China's spare-bedroom sharing opportunity, housing cash-flow pressure, low-price local lodging, female guest safety, payment custody, host verification, brand-product barter, AI/RAG search, and one-person company operations. Created Tan Ding, 一间次卧, Tujia, Xiaozhu, China Home-Sharing Supply Motivation, Bedroom Homestay Platform Trust, and Non-Standard Lodging Search pages; migrated Hotel Retail Flywheel to synthesis-v1 and extended it from chain-hotel bedding retail into broader lodging-room product trial. No settled contradiction found; macro statistics, platform metrics, host/guest percentages, and regulatory observations are kept source-scoped to the episode.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

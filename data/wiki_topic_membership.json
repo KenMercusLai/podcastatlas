@@ -40208,6 +40208,13 @@
       "url": "/topics/science/"
     }
   ],
+  "NonStandardLodgingSearch": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "NongzhengQuanshu": [
     {
       "key": "culture",

@@ -290,12 +290,13 @@
       "b16a38bd6e190222f7f3e6f0535803ce60ae7f3304e3477dfcdd995a15fb502f",
       "ed252faccaaf1dc4e8c654d3406a6a1a0fc3a6f6fe78821348d1b123c7e85a5c",
       "32b62a0e1fc3144c5e7770721fc745607afef0d0cf46a8fe94d35cab377dbbf9",
-      "396c04c09218df7c8497dea530434860e00ec38668ed4b222f6a27bb86d534e9"
+      "396c04c09218df7c8497dea530434860e00ec38668ed4b222f6a27bb86d534e9",
+      "3362304333dfcee314476fce4ed5623c60aa152f17b8b0db64ce82de7271a34a"
     ],
-    "paragraph_count": 290
+    "paragraph_count": 291
   },
-  "overview_commit": "9bdb8f17c13a845de094d9fa694a3c7ca2a0fe9b",
-  "overview_digest": "3c3203e039183a4bc1c50dc03902ae090efabb0fb85bbf55b16be4dda0b08714",
+  "overview_commit": "2c6153a74ce28014c96d70d8bdeba7aa3ca05452",
+  "overview_digest": "599963349d9e64f1186f1e9462a4022fdcf52f464c77bcd6c62c7d378a912002",
   "paragraphs": [
     {
       "id": "8a771097ddfd7388b548e15df7342514d4c5e1ff50b05589df78e1a5686991fe",
@@ -8976,6 +8977,42 @@
         "VolkswagenGroup",
         "Yadea",
         "waimai-chengwei-haidilao-zengzhang-zuikuai-de-yewu-legao-biaoshi-buhui-yong-ai-lai-sheji-chanpin-1008870590"
+      ]
+    },
+    {
+      "id": "3362304333dfcee314476fce4ed5623c60aa152f17b8b0db64ce82de7271a34a",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[vol-272-2026-nian-le-zenme-hai-you-ren-yao-zuo-zhongguo-ban-airbnb-1008880863]], a [[ShangyeJiushiZheyang|商业就是这样]] episode with [[TanDing|谭丁]] on [[YijianCiwo|一间次卧]] and the possibility of a China-side room-sharing platform. It adds [[TanDing]], [[YijianCiwo]], [[Tujia]], [[Xiaozhu]], [[ChinaHomeSharingSupplyMotivation]], [[BedroomHomestayPlatformTrust]], and [[NonStandardLodgingSearch]], while extending [[Airbnb]], [[Xiaohongshu]], [[Meituan]], [[Ctrip]], [[Anaya]], [[HotelRetailFlywheel]], [[OnlineTravelAgency]], [[HotelPlatformPricingPower]], [[LocalLifePlatformDependency]], [[OnePersonCompany]], and [[RetrievalAugmentedGeneration]]. Its core synthesis is that the \"Chinese Airbnb\" question is less about copying Airbnb's product than about when household cash-flow pressure, spare housing capacity, low-price local travel, female safety preferences, escrow-like fulfillment, and non-standard search create supply and trust conditions for paid bedroom sharing. No settled contradiction is recorded; macro statistics, platform metrics, and regulatory claims remain source-scoped to the episode.",
+      "topic_scores": {
+        "business-and-markets": 4,
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 2
+      },
+      "wikilinks": [
+        "Airbnb",
+        "Anaya",
+        "BedroomHomestayPlatformTrust",
+        "ChinaHomeSharingSupplyMotivation",
+        "Ctrip",
+        "HotelPlatformPricingPower",
+        "HotelRetailFlywheel",
+        "LocalLifePlatformDependency",
+        "Meituan",
+        "NonStandardLodgingSearch",
+        "OnePersonCompany",
+        "OnlineTravelAgency",
+        "RetrievalAugmentedGeneration",
+        "ShangyeJiushiZheyang",
+        "TanDing",
+        "Tujia",
+        "Xiaohongshu",
+        "Xiaozhu",
+        "YijianCiwo",
+        "vol-272-2026-nian-le-zenme-hai-you-ren-yao-zuo-zhongguo-ban-airbnb-1008880863"
       ]
     }
   ],

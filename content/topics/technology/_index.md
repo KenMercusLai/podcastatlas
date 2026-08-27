@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2509
+topic_total_pages: 2510
 topic_concepts:
   - key: "AcademicAIResearchRole"
     title: "Academic AI Research Role"
@@ -2428,6 +2428,9 @@ topic_concepts:
   - key: "NonConsensusInnovation"
     title: "Non-Consensus Innovation"
     url: "/wiki/concepts/nonconsensusinnovation/"
+  - key: "NonStandardLodgingSearch"
+    title: "Non-Standard Lodging Search / 非标住宿搜索"
+    url: "/wiki/concepts/nonstandardlodgingsearch/"
   - key: "NontraditionalAIResearchPath"
     title: "Nontraditional AI Research Path"
     url: "/wiki/concepts/nontraditionalairesearchpath/"

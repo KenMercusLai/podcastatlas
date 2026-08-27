@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 5661
+wiki_total_pages: 5664
 wiki_pages:
   - key: "NamingPowerSocialChange"
     title: "Naming Power In Social Change / 社会变革中的命名权"
@@ -233,6 +233,9 @@ wiki_pages:
   - key: "NonMoralPoliticalAnalysis"
     title: "Non-Moral Political Analysis"
     url: "/wiki/concepts/nonmoralpoliticalanalysis/"
+  - key: "NonStandardLodgingSearch"
+    title: "Non-Standard Lodging Search / 非标住宿搜索"
+    url: "/wiki/concepts/nonstandardlodgingsearch/"
   - key: "NonfictionPublicness"
     title: "Nonfiction Publicness"
     url: "/wiki/concepts/nonfictionpublicness/"

@@ -6159,6 +6159,10 @@
     "title": "Becky Sullivan",
     "url": "/wiki/entities/beckysullivan/"
   },
+  "BedroomHomestayPlatformTrust": {
+    "title": "Bedroom Homestay Platform Trust / 次卧民宿平台信任",
+    "url": "/wiki/concepts/bedroomhomestayplatformtrust/"
+  },
   "BedtimeReadingRitual": {
     "title": "Bedtime Reading Ritual / 睡前阅读仪式",
     "url": "/wiki/concepts/bedtimereadingritual/"
@@ -9646,6 +9650,10 @@
   "ChinaHandsetSupplyChain": {
     "title": "China Handset Supply Chain",
     "url": "/wiki/concepts/chinahandsetsupplychain/"
+  },
+  "ChinaHomeSharingSupplyMotivation": {
+    "title": "China Home-Sharing Supply Motivation / 中国家庭共享住宿供给动机",
+    "url": "/wiki/concepts/chinahomesharingsupplymotivation/"
   },
   "ChinaIndustrialKShapedDivergence": {
     "title": "China Industrial K-Shaped Divergence / 中国式K型产业分化",
@@ -34327,6 +34335,10 @@
     "title": "Non-Moral Political Analysis",
     "url": "/wiki/concepts/nonmoralpoliticalanalysis/"
   },
+  "NonStandardLodgingSearch": {
+    "title": "Non-Standard Lodging Search / 非标住宿搜索",
+    "url": "/wiki/concepts/nonstandardlodgingsearch/"
+  },
   "NonfictionPublicness": {
     "title": "Nonfiction Publicness",
     "url": "/wiki/concepts/nonfictionpublicness/"
@@ -46359,6 +46371,10 @@
     "title": "《他们的性》",
     "url": "/wiki/entities/tamendexing/"
   },
+  "TanDing": {
+    "title": "谭丁 / Tan Ding",
+    "url": "/wiki/entities/tanding/"
+  },
   "TanSitong": {
     "title": "谭嗣同 / Tan Sitong",
     "url": "/wiki/entities/tansitong/"
@@ -48586,6 +48602,10 @@
   "TugeHu": {
     "title": "屠各胡 / Tuge Hu",
     "url": "/wiki/entities/tugehu/"
+  },
+  "Tujia": {
+    "title": "途家 / Tujia",
+    "url": "/wiki/entities/tujia/"
   },
   "TumorMicroenvironment": {
     "title": "Tumor Microenvironment",
@@ -52223,6 +52243,10 @@
     "title": "小智AI / Xiaozhi AI",
     "url": "/wiki/entities/xiaozhiai/"
   },
+  "Xiaozhu": {
+    "title": "小猪 / Xiaozhu",
+    "url": "/wiki/entities/xiaozhu/"
+  },
   "Xiapi": {
     "title": "下邳 / Xiapi",
     "url": "/wiki/entities/xiapi/"
@@ -53266,6 +53290,10 @@
   "Yihaodian": {
     "title": "一号店 / Yihaodian",
     "url": "/wiki/entities/yihaodian/"
+  },
+  "YijianCiwo": {
+    "title": "一间次卧 / Yijian Ciwo",
+    "url": "/wiki/entities/yijianciwo/"
   },
   "YijingFortress": {
     "title": "Yijing Fortress",
@@ -58454,6 +58482,10 @@
   "vol-271-a-di-da-si-ruhe-chudi-fantan-1007333155": {
     "title": "Vol.271 阿迪达斯如何触底反弹？",
     "url": "/wiki/sources/vol-271-a-di-da-si-ruhe-chudi-fantan-1007333155/"
+  },
+  "vol-272-2026-nian-le-zenme-hai-you-ren-yao-zuo-zhongguo-ban-airbnb-1008880863": {
+    "title": "Vol.272 2026年了，怎么还有人要做中国版Airbnb？",
+    "url": "/wiki/sources/vol-272-2026-nian-le-zenme-hai-you-ren-yao-zuo-zhongguo-ban-airbnb-1008880863/"
   },
   "waimai-chengwei-haidilao-zengzhang-zuikuai-de-yewu-legao-biaoshi-buhui-yong-ai-lai-sheji-chanpin-1008870590": {
     "title": "外卖成为海底捞增长最快的业务，乐高表示不会用 AI 来设计产品",

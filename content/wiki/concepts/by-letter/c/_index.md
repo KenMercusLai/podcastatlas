@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 5661
+wiki_total_pages: 5664
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -443,6 +443,9 @@ wiki_pages:
   - key: "ChinaHandsetSupplyChain"
     title: "China Handset Supply Chain"
     url: "/wiki/concepts/chinahandsetsupplychain/"
+  - key: "ChinaHomeSharingSupplyMotivation"
+    title: "China Home-Sharing Supply Motivation / 中国家庭共享住宿供给动机"
+    url: "/wiki/concepts/chinahomesharingsupplymotivation/"
   - key: "ChinaIndustrialKShapedDivergence"
     title: "China Industrial K-Shaped Divergence / 中国式K型产业分化"
     url: "/wiki/concepts/chinaindustrialkshapeddivergence/"

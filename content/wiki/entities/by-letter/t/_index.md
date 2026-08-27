@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 7920
+wiki_total_pages: 7924
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1241,6 +1241,9 @@ wiki_pages:
   - key: "TencentVideo"
     title: "腾讯视频 / Tencent Video"
     url: "/wiki/entities/tencentvideo/"
+  - key: "TanDing"
+    title: "谭丁 / Tan Ding"
+    url: "/wiki/entities/tanding/"
   - key: "TanSitong"
     title: "谭嗣同 / Tan Sitong"
     url: "/wiki/entities/tansitong/"
@@ -1250,6 +1253,9 @@ wiki_pages:
   - key: "TadunLateHan"
     title: "蹋顿 / Tadun (Late Han)"
     url: "/wiki/entities/tadunlatehan/"
+  - key: "Tujia"
+    title: "途家 / Tujia"
+    url: "/wiki/entities/tujia/"
   - key: "Tancheng"
     title: "郯城 / Tancheng"
     url: "/wiki/entities/tancheng/"

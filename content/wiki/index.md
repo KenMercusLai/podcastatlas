@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Vol.272 2026年了，怎么还有人要做中国版Airbnb？](sources/vol-272-2026-nian-le-zenme-hai-you-ren-yao-zuo-zhongguo-ban-airbnb-1008880863.md) — 商业就是这样 episode with 谭丁 on 一间次卧, Chinese spare-bedroom sharing, housing cash-flow pressure, low-price local lodging, trust/fulfillment, brand placement, AI/RAG search, and one-person company operations.
 - [Eric Weinstein: The State of American Science, Breakthrough Coverups, and the Danger of Physics](sources/all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645.md) — All-In interview with Eric Weinstein on scientific precarity, high-beta basic-science funding, physics stagnation, dangerous-knowledge secrecy, UAP compartmentalization, AI discovery, and China talent competition.
 - [外卖成为海底捞增长最快的业务，乐高表示不会用 AI 来设计产品](sources/waimai-chengwei-haidilao-zengzhang-zuikuai-de-yewu-legao-biaoshi-buhui-yong-ai-lai-sheji-chanpin-1008870590.md) — 声动早咖啡 roundup on Nongfu Spring tea growth, Haidilao delivery, coffee supply, Apple local AI hardware, Nvidia-Perplexity, Volkswagen restructuring, electric two-wheelers, Lao Pu Gold, and Lego's AI design boundary.
 - [700. The Troubles: Bloody Sunday (Part 4)](sources/700-the-troubles-bloody-sunday-part-4-glt3909829334.md) — The Rest Is History episode on Bloody Sunday, Saville and Widgery, Derry and Free Derry, Stormont's suspension, direct rule, failed IRA talks, and Bloody Friday.
@@ -1568,6 +1569,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [谭丁 / Tan Ding](entities/TanDing.md) — Travel and hospitality operator building 一间次卧 as a spare-bedroom marketplace.
+- [一间次卧 / Yijian Ciwo](entities/YijianCiwo.md) — Chinese bedroom-sharing platform connecting homeowner cash-flow pressure, low-price lodging demand, trust operations, brand placement, and AI search.
+- [途家 / Tujia](entities/Tujia.md) — Chinese homestay platform used as the vacation-rental contrast in the episode's Airbnb-in-China analysis.
+- [小猪 / Xiaozhu](entities/Xiaozhu.md) — Early Chinese Airbnb-style homestay platform used as a contrast for spare-bedroom supply timing.
 - [Eric Weinstein](entities/EricWeinstein.md) — Heterodox science-policy and physics critic linking scientific precarity, high-beta funding, Geometric Unity, secrecy, AI, and UAPs.
 - [Aima Technology / 爱玛](entities/AimaTechnology.md) — Traditional Chinese electric two-wheeler maker on the declining legacy side of the 2026 market split.
 - [Lego / 乐高](entities/Lego.md) — Toy company expanding across children and adult consumers while keeping AI out of independent product design.
@@ -9492,6 +9497,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [China Home-Sharing Supply Motivation](concepts/ChinaHomeSharingSupplyMotivation.md) — Thesis that Chinese spare-bedroom supply depends on household cash-flow pressure, housing expectations, and trust infrastructure.
+- [Bedroom Homestay Platform Trust](concepts/BedroomHomestayPlatformTrust.md) — Safety, payment, verification, and expectation-management layer for booking rooms inside ordinary homes.
+- [Non-Standard Lodging Search](concepts/NonStandardLodgingSearch.md) — AI/RAG-assisted matching problem for highly variable rooms that cannot be fully captured by hotel-style filters.
 - [Scientific Precariat](concepts/ScientificPrecariat.md) — Career structure where grant dependence, peer review, HR process, and status pressure make scientists avoid dissent.
 - [High-Beta Science Funding](concepts/HighBetaScienceFunding.md) — Public-science funding logic for credible low-probability, high-upside research bets.
 - [Physics Stagnation Claim](concepts/PhysicsStagnationClaim.md) — Weinstein's source-scoped diagnosis that post-1983 theoretical physics drifted from physically grounded frontier theory.

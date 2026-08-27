@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 5661
+wiki_total_pages: 5664
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -137,6 +137,9 @@ wiki_pages:
   - key: "BeautyProblemNaming"
     title: "Beauty Problem Naming / 审美问题命名"
     url: "/wiki/concepts/beautyproblemnaming/"
+  - key: "BedroomHomestayPlatformTrust"
+    title: "Bedroom Homestay Platform Trust / 次卧民宿平台信任"
+    url: "/wiki/concepts/bedroomhomestayplatformtrust/"
   - key: "BedtimeReadingRitual"
     title: "Bedtime Reading Ritual / 睡前阅读仪式"
     url: "/wiki/concepts/bedtimereadingritual/"
