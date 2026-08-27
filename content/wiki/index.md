@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Advice Line with Daymond John of FUBU](sources/advice-line-with-daymond-john-of-fubu-0961848f-0f5a-4fb7-932c-3a04f08bc8d4.md) — How I Built This Advice Line episode with Daymond John on founder pitch evidence, staged retail tests, niche-origin expansion, and mission-aligned B2B vendor switching.
 - [Essentials: Diet & Nutrition for Mental Health | Dr. Chris Palmer](sources/essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786.md) — Huberman Lab Essentials episode with Chris Palmer on nutrition, ketogenic diets, epilepsy history, mitochondria, metabolic psychiatry, and supervised psychiatric medication boundaries.
 - [No.216 ⚔️ 「十步杀一人」：红衣大炮周鸿祎的三十年全面战争史 | 中国互联网故事 27](sources/no-216-shi-bu-sha-yi-ren-hongyi-dapao-zhouhongyi-de-sanshinian-quanmian-zhanzhengshi-zhongguo-hulianwang-gushi-27-1008693437.md) — Banlatte episode on Zhou Hongyi, 3721, Yahoo China, Qihoo 360, free antivirus, 3Q, search wars, mobile distribution, enterprise security, investing, and founder-media identity.
 - [VOL.220对话大白牛/Under：莫德纳“定制抗癌疫苗”，离普通人有多远？](sources/vol-220-duihua-dabainiu-under-modena-dingzhi-kangai-yimiao-li-putongren-you-duoyuan-lofs520ps1evva8nafsnrkcbvgjz.md) — 这病说来话长 episode with 大白牛/Under on Moderna/Merck's individualized melanoma mRNA vaccine, therapeutic/adjuvant use, immune-recognition limits, AI-assisted feature extraction, cost, validation, and screening.
@@ -1574,6 +1575,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Daymond John](entities/DaymondJohn.md) — FUBU founder and Advice Line guest using story, numbers, resilience, and staged proof to evaluate early founders.
+- [FUBU](entities/FUBU.md) — Daymond John's consumer brand used as operating context for small-store story transfer and retail proof.
+- [Sabor a Mexico Salsas](entities/SaborAMexicoSalsas.md) — Chicago family salsa brand advised to test small retailers before larger grocery expansion.
+- [Christopher Navarro](entities/ChristopherNavarro.md) — Sabor a Mexico co-founder asking how to move beyond farmers markets without losing local proof.
+- [Raised Nutrition](entities/RaisedNutrition.md) — Australian whole-food protein bar brand advised to keep its jiu-jitsu origin while broadening around ingredients and recovery.
+- [Darcy (Raised Nutrition)](entities/DarcyRaisedNutrition.md) — Raised Nutrition founder-caller asking whether a niche athletic origin story limits broader wellness appeal.
+- [Cooks Who Feed](entities/CooksWhoFeed.md) — Social-enterprise kitchen-linen company advised to use low-risk B2B trials, referrals, and client-centered impact storytelling.
+- [Seema Sanghavi](entities/SeemaSanghavi.md) — Cooks Who Feed founder-caller focused on convincing B2B buyers to switch vendors.
 - [Huberman Lab](entities/HubermanLab.md) — Health and neuroscience show context for the Essentials episode on nutrition, ketosis, and mental health.
 - [Andrew Huberman](entities/AndrewHuberman.md) — Host framing the nutrition and mental health discussion with Chris Palmer.
 - [Chris Palmer](entities/ChrisPalmer.md) — Psychiatrist grounding the episode's metabolic psychiatry, ketogenic diet, and mitochondrial mental-health claims.
@@ -9516,6 +9525,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Founder Pitch Evidence Fit](concepts/FounderPitchEvidenceFit.md) — Pitch standard where founder story, customer insight, timing, numbers, and resilience reinforce one another.
+- [Small Retailer Channel Test](concepts/SmallRetailerChannelTest.md) — Limited local-store pilot used to test shelf behavior, story transfer, sampling, and replenishment before larger retail.
+- [Niche Origin Story Expansion](concepts/NicheOriginStoryExpansion.md) — Positioning move that keeps the first community origin while broadening the promise for adjacent customers.
+- [Mission-Aligned Vendor Switching](concepts/MissionAlignedVendorSwitching.md) — B2B pattern where a mission-led supplier wins by lowering switching risk and helping the buyer tell its own values story.
 - [Nutrition and Mental Health](concepts/NutritionMentalHealth.md) — Clinical frame treating diet, glucose, insulin, ketosis, and metabolism as possible mental-health variables.
 - [Metabolic Psychiatry](concepts/MetabolicPsychiatry.md) — Framework connecting psychiatric symptoms to metabolism, nutrition, mitochondrial function, inflammation, hormones, and stress response.
 - [Ketogenic Diet and Mental Health](concepts/KetogenicDietMentalHealth.md) — Source-scoped psychiatric intervention branch where ketosis is treated as clinically relevant but safety- and evidence-bounded.

@@ -296,12 +296,13 @@
       "396c04c09218df7c8497dea530434860e00ec38668ed4b222f6a27bb86d534e9",
       "3362304333dfcee314476fce4ed5623c60aa152f17b8b0db64ce82de7271a34a",
       "6bd28c470f6e9c123dc24d79e82dbcfb73e9f49f777bfd2b02744df233e9e914",
-      "16d531495e2a6294ae198d0b95a352e519f488fcca1dbdae1f416758d1cfa576"
+      "16d531495e2a6294ae198d0b95a352e519f488fcca1dbdae1f416758d1cfa576",
+      "a9fec3ceb1b343b1fafeebc9ab2903b46238a861f9aaafd9d15b1460340a08b5"
     ],
-    "paragraph_count": 296
+    "paragraph_count": 297
   },
-  "overview_commit": "9a8be1d0407b46a54b51cc65350ea5eebc358842",
-  "overview_digest": "56023c0317360aece6e1329d620a8c7a944972860cf83dd457e88a882906c683",
+  "overview_commit": "a93b8be48aad5c746bc047bf5df81cf9cb717d2b",
+  "overview_digest": "c738a389a1e46cfead4d489b52e29711068f4f714a17a91767394a82b4710c6b",
   "paragraphs": [
     {
       "id": "11ed9373f4a2e830124b00d733415b16da01a3debf8df811edd060b9b8535ba4",
@@ -9175,6 +9176,42 @@
         "no-212-cengjing-de-jingshen-jiaoluo-douban-zhihu-tieba-hupu-zhongguo-hulianwang-gushi-25-1003510980",
         "no-214-xunzhao-tonglei-xiaohongshu-bilibili-yiji-wuhuabamen-de-naxie-shequ-zhongguo-hulianwang-gushi-26-1005977305",
         "no-216-shi-bu-sha-yi-ren-hongyi-dapao-zhouhongyi-de-sanshinian-quanmian-zhanzhengshi-zhongguo-hulianwang-gushi-27-1008693437"
+      ]
+    },
+    {
+      "id": "a9fec3ceb1b343b1fafeebc9ab2903b46238a861f9aaafd9d15b1460340a08b5",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "The latest addition is [[advice-line-with-daymond-john-of-fubu-0961848f-0f5a-4fb7-932c-3a04f08bc8d4]], a [[HowIBuiltThis]] Advice Line episode with [[GuyRaz]] and [[DaymondJohn]] of [[FUBU]] advising [[SaborAMexicoSalsas]], [[RaisedNutrition]], and [[CooksWhoFeed]]. It adds [[DaymondJohn]], [[FUBU]], [[ChristopherNavarro]], [[DarcyRaisedNutrition]], [[SeemaSanghavi]], [[SaborAMexicoSalsas]], [[RaisedNutrition]], [[CooksWhoFeed]], [[FounderPitchEvidenceFit]], [[SmallRetailerChannelTest]], [[NicheOriginStoryExpansion]], and [[MissionAlignedVendorSwitching]], while extending [[StoryLedConsumerBranding]], [[LocalMarketProof]], [[InStoreDemos]], [[CPGDistribution]], [[CoreTribePositioning]], [[PurposeDrivenBusiness]], [[FounderLedLiveSelling]], and [[RelationshipLedGrowth]]. Its core synthesis is that early consumer and mission-led businesses should use story as proof only when it is paired with customer value, numbers, and staged channel evidence: Sabor should test local stores before big retail, Raised should keep the jiu-jitsu origin while broadening around ingredients and recovery, and Cooks Who Feed should make B2B vendor switching low-risk while helping clients tell their own impact story. No settled contradiction is recorded; sales figures, meal counts, client examples, and platform/channel recommendations remain source-scoped.",
+      "topic_scores": {
+        "business-and-markets": 6,
+        "culture-and-media": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "CPGDistribution",
+        "ChristopherNavarro",
+        "CooksWhoFeed",
+        "CoreTribePositioning",
+        "DarcyRaisedNutrition",
+        "DaymondJohn",
+        "FUBU",
+        "FounderLedLiveSelling",
+        "FounderPitchEvidenceFit",
+        "GuyRaz",
+        "HowIBuiltThis",
+        "InStoreDemos",
+        "LocalMarketProof",
+        "MissionAlignedVendorSwitching",
+        "NicheOriginStoryExpansion",
+        "PurposeDrivenBusiness",
+        "RaisedNutrition",
+        "RelationshipLedGrowth",
+        "SaborAMexicoSalsas",
+        "SeemaSanghavi",
+        "SmallRetailerChannelTest",
+        "StoryLedConsumerBranding",
+        "advice-line-with-daymond-john-of-fubu-0961848f-0f5a-4fb7-932c-3a04f08bc8d4"
       ]
     }
   ],

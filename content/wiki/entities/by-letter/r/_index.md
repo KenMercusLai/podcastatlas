@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 7938
+wiki_total_pages: 7946
 wiki_pages:
   - key: "RachelReeves"
     title: "Rachel Reeves"
@@ -26,6 +26,9 @@ wiki_pages:
   - key: "RahulBanerjee"
     title: "Rahul Banerjee"
     url: "/wiki/entities/rahulbanerjee/"
+  - key: "RaisedNutrition"
+    title: "Raised Nutrition"
+    url: "/wiki/entities/raisednutrition/"
   - key: "RajChetty"
     title: "Raj Chetty"
     url: "/wiki/entities/rajchetty/"

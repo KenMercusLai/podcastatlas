@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 5675
+wiki_total_pages: 5679
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -641,6 +641,9 @@ wiki_pages:
   - key: "SmallOpenEconomyVulnerability"
     title: "Small Open Economy Vulnerability"
     url: "/wiki/concepts/smallopeneconomyvulnerability/"
+  - key: "SmallRetailerChannelTest"
+    title: "Small Retailer Channel Test"
+    url: "/wiki/concepts/smallretailerchanneltest/"
   - key: "SmallTrustBuildsLargeTrust"
     title: "Small Trust Builds Large Trust / 小信诚则大信立"
     url: "/wiki/concepts/smalltrustbuildslargetrust/"

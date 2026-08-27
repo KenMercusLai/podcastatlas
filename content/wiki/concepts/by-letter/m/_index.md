@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 5675
+wiki_total_pages: 5679
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -605,6 +605,9 @@ wiki_pages:
   - key: "MissionDrivenCustomerEducation"
     title: "Mission Driven Customer Education"
     url: "/wiki/concepts/missiondrivencustomereducation/"
+  - key: "MissionAlignedVendorSwitching"
+    title: "Mission-Aligned Vendor Switching"
+    url: "/wiki/concepts/missionalignedvendorswitching/"
   - key: "MissionCriticalRestaurantSoftware"
     title: "Mission-Critical Restaurant Software"
     url: "/wiki/concepts/missioncriticalrestaurantsoftware/"

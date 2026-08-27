@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 7938
+wiki_total_pages: 7946
 wiki_pages:
   - key: "FortyThreeTalks"
     title: "43talks"
@@ -503,6 +503,9 @@ wiki_pages:
   - key: "FTX"
     title: "FTX"
     url: "/wiki/entities/ftx/"
+  - key: "FUBU"
+    title: "FUBU"
+    url: "/wiki/entities/fubu/"
   - key: "FuchsiaDunlop"
     title: "Fuchsia Dunlop / 胡霞"
     url: "/wiki/entities/fuchsiadunlop/"

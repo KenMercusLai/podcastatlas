@@ -12245,6 +12245,8 @@ Ran lint. See lint-report.md for details.
 
 
 
+
+
 ## [2026-08-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -12556,6 +12558,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-27] ingest | Advice Line with Daymond John of FUBU
+
+Added source page for the How I Built This Advice Line episode with Daymond John advising Sabor a Mexico Salsas, Raised Nutrition, and Cooks Who Feed. Created Daymond John, FUBU, Sabor a Mexico Salsas, Christopher Navarro, Raised Nutrition, Darcy (Raised Nutrition), Cooks Who Feed, Seema Sanghavi, Founder Pitch Evidence Fit, Small Retailer Channel Test, Niche Origin Story Expansion, and Mission-Aligned Vendor Switching pages; updated index and overview. No settled contradiction found; sales figures, meal counts, client examples, and channel recommendations remain source-scoped.
 
 ## [2026-08-27] lint | Wiki health check
 

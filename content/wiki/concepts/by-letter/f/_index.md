@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 5675
+wiki_total_pages: 5679
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -719,6 +719,9 @@ wiki_pages:
   - key: "FounderOperationalReset"
     title: "Founder Operational Reset"
     url: "/wiki/concepts/founderoperationalreset/"
+  - key: "FounderPitchEvidenceFit"
+    title: "Founder Pitch Evidence Fit"
+    url: "/wiki/concepts/founderpitchevidencefit/"
   - key: "FounderProductFit"
     title: "Founder Product Fit"
     url: "/wiki/concepts/founderproductfit/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 7938
+wiki_total_pages: 7946
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -29,6 +29,9 @@ wiki_pages:
   - key: "SabinaNong"
     title: "Sabina Nong"
     url: "/wiki/entities/sabinanong/"
+  - key: "SaborAMexicoSalsas"
+    title: "Sabor a Mexico Salsas"
+    url: "/wiki/entities/saboramexicosalsas/"
   - key: "SadiaPekkanen"
     title: "Sadia Pekkanen"
     url: "/wiki/entities/sadiapekkanen/"
@@ -296,6 +299,9 @@ wiki_pages:
   - key: "Seedance"
     title: "Seedance"
     url: "/wiki/entities/seedance/"
+  - key: "SeemaSanghavi"
+    title: "Seema Sanghavi"
+    url: "/wiki/entities/seemasanghavi/"
   - key: "Segment"
     title: "Segment"
     url: "/wiki/entities/segment/"

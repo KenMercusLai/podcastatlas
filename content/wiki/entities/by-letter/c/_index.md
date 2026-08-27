@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 7938
+wiki_total_pages: 7946
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -686,6 +686,9 @@ wiki_pages:
   - key: "ChristopherMims"
     title: "Christopher Mims"
     url: "/wiki/entities/christophermims/"
+  - key: "ChristopherNavarro"
+    title: "Christopher Navarro"
+    url: "/wiki/entities/christophernavarro/"
   - key: "ChristopherNolan"
     title: "Christopher Nolan"
     url: "/wiki/entities/christophernolan/"
@@ -968,6 +971,9 @@ wiki_pages:
   - key: "CookiePal"
     title: "Cookie Pal"
     url: "/wiki/entities/cookiepal/"
+  - key: "CooksWhoFeed"
+    title: "Cooks Who Feed"
+    url: "/wiki/entities/cookswhofeed/"
   - key: "Coolpad"
     title: "Coolpad"
     url: "/wiki/entities/coolpad/"

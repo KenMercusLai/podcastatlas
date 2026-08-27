@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 1867
+topic_total_pages: 1868
 topic_concepts:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -1099,6 +1099,9 @@ topic_concepts:
   - key: "FounderOperationalReset"
     title: "Founder Operational Reset"
     url: "/wiki/concepts/founderoperationalreset/"
+  - key: "FounderPitchEvidenceFit"
+    title: "Founder Pitch Evidence Fit"
+    url: "/wiki/concepts/founderpitchevidencefit/"
   - key: "FounderPsychologyOperationalRisk"
     title: "Founder Psychology Operational Risk"
     url: "/wiki/concepts/founderpsychologyoperationalrisk/"

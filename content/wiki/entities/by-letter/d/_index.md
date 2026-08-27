@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 7938
+wiki_total_pages: 7946
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -143,6 +143,9 @@ wiki_pages:
   - key: "Danu"
     title: "Danu / 达努"
     url: "/wiki/entities/danu/"
+  - key: "DarcyRaisedNutrition"
+    title: "Darcy (Raised Nutrition)"
+    url: "/wiki/entities/darcyraisednutrition/"
   - key: "Darfur"
     title: "Darfur"
     url: "/wiki/entities/darfur/"
@@ -281,6 +284,9 @@ wiki_pages:
   - key: "DawonKahng"
     title: "Dawon Kahng / 姜大元"
     url: "/wiki/entities/dawonkahng/"
+  - key: "DaymondJohn"
+    title: "Daymond John"
+    url: "/wiki/entities/daymondjohn/"
   - key: "DAZN"
     title: "DAZN"
     url: "/wiki/entities/dazn/"
