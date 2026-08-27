@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1940
+topic_total_pages: 1941
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -433,6 +433,9 @@ topic_concepts:
   - key: "ChineseDragonImperialSymbolism"
     title: "Chinese Dragon Imperial Symbolism / 中国龙的皇权符号化"
     url: "/wiki/concepts/chinesedragonimperialsymbolism/"
+  - key: "ChineseInternetPlatformWars"
+    title: "Chinese Internet Platform Wars / 中文互联网平台战争"
+    url: "/wiki/concepts/chineseinternetplatformwars/"
   - key: "ChineseModernizationCulturalGap"
     title: "Chinese Modernization Cultural Gap / 中国现代化的文化短板"
     url: "/wiki/concepts/chinesemodernizationculturalgap/"

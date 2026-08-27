@@ -12762,6 +12762,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "ChineseInternetPlatformWars": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "ChineseLongVideoPlatformEconomics": [
     {
       "key": "economics",
@@ -22693,6 +22700,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "FreeSecuritySoftwareStrategy": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "FreeServiceHiddenCost": [
@@ -45741,6 +45755,13 @@
       "url": "/topics/history/"
     }
   ],
+  "QiXiangdong": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "QiXuanWang": [
     {
       "key": "history",
@@ -45854,6 +45875,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "Qihoo360": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "QilinRansomwareGroup": [
@@ -56523,6 +56551,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "ThreeQWar": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "ThreeQinContainment": [
     {
       "key": "history",
@@ -62393,6 +62428,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "YahooChina": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "YairLapid": [
     {
       "key": "politics",
@@ -64362,6 +64404,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "ZhouHongyi": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "ZhouJiangong": [
@@ -67027,6 +67076,13 @@
     }
   ],
   "no-211-huishang-wangshi-cong-qianshi-buxiu-dao-zuiniu-fengtou-1002275189": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "no-216-shi-bu-sha-yi-ren-hongyi-dapao-zhouhongyi-de-sanshinian-quanmian-zhanzhengshi-zhongguo-hulianwang-gushi-27-1008693437": [
     {
       "key": "technology",
       "label": "Technology",

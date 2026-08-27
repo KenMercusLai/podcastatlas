@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [No.216 ⚔️ 「十步杀一人」：红衣大炮周鸿祎的三十年全面战争史 | 中国互联网故事 27](sources/no-216-shi-bu-sha-yi-ren-hongyi-dapao-zhouhongyi-de-sanshinian-quanmian-zhanzhengshi-zhongguo-hulianwang-gushi-27-1008693437.md) — Banlatte episode on Zhou Hongyi, 3721, Yahoo China, Qihoo 360, free antivirus, 3Q, search wars, mobile distribution, enterprise security, investing, and founder-media identity.
 - [VOL.220对话大白牛/Under：莫德纳“定制抗癌疫苗”，离普通人有多远？](sources/vol-220-duihua-dabainiu-under-modena-dingzhi-kangai-yimiao-li-putongren-you-duoyuan-lofs520ps1evva8nafsnrkcbvgjz.md) — 这病说来话长 episode with 大白牛/Under on Moderna/Merck's individualized melanoma mRNA vaccine, therapeutic/adjuvant use, immune-recognition limits, AI-assisted feature extraction, cost, validation, and screening.
 - [Vol.272 2026年了，怎么还有人要做中国版Airbnb？](sources/vol-272-2026-nian-le-zenme-hai-you-ren-yao-zuo-zhongguo-ban-airbnb-1008880863.md) — 商业就是这样 episode with 谭丁 on 一间次卧, Chinese spare-bedroom sharing, housing cash-flow pressure, low-price local lodging, trust/fulfillment, brand placement, AI/RAG search, and one-person company operations.
 - [Eric Weinstein: The State of American Science, Breakthrough Coverups, and the Danger of Physics](sources/all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645.md) — All-In interview with Eric Weinstein on scientific precarity, high-beta basic-science funding, physics stagnation, dangerous-knowledge secrecy, UAP compartmentalization, AI discovery, and China talent competition.
@@ -1572,6 +1573,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [周鸿祎 / Zhou Hongyi](entities/ZhouHongyi.md) — Founder figure connecting 3721, Yahoo China, Qihoo 360, free security, 3Q, search, investing, and founder-media identity.
+- [Qihoo 360 / 奇虎 360](entities/Qihoo360.md) — Chinese security and internet company built around free security software, browser traffic, search, mobile distribution, and big-security repositioning.
+- [3721](entities/3721.md) — Chinese-keyword access product/company that became both an early web-entry innovation and a browser-plugin controversy.
+- [Yahoo China / 雅虎中国](entities/YahooChina.md) — China-market Yahoo operation linking 3721's acquisition to Zhou Hongyi's post-Yahoo Qihoo phase.
+- [齐向东 / Qi Xiangdong](entities/QiXiangdong.md) — Qihoo founder/operator figure tied to 360's early security turn, 3Q crisis role, and later Qianxin separation.
+- [3Q War / 3Q 大战](entities/ThreeQWar.md) — 360-Tencent conflict where security software, instant messaging, and platform control became a public choose-one crisis.
 - [谭丁 / Tan Ding](entities/TanDing.md) — Travel and hospitality operator building 一间次卧 as a spare-bedroom marketplace.
 - [一间次卧 / Yijian Ciwo](entities/YijianCiwo.md) — Chinese bedroom-sharing platform connecting homeowner cash-flow pressure, low-price lodging demand, trust operations, brand placement, and AI search.
 - [途家 / Tujia](entities/Tujia.md) — Chinese homestay platform used as the vacation-rental contrast in the episode's Airbnb-in-China analysis.
@@ -9503,6 +9510,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Chinese Internet Entry-Point Competition / 中文互联网入口竞争](concepts/ChineseInternetEntryPointCompetition.md) — Recurring fight to control user access through keywords, plugins, browsers, navigation pages, search defaults, security tools, mobile assistants, and app stores.
+- [Free Security Software Strategy / 免费安全软件策略](concepts/FreeSecuritySoftwareStrategy.md) — Using free antivirus, cleanup, browser, and system-protection tools to build user trust, distribution, and traffic power.
+- [Chinese Internet Platform Wars / 中文互联网平台战争](concepts/ChineseInternetPlatformWars.md) — High-intensity platform conflict using client software, defaults, public accusation, lawsuits, media pressure, and user lock-in.
 - [China Home-Sharing Supply Motivation](concepts/ChinaHomeSharingSupplyMotivation.md) — Thesis that Chinese spare-bedroom supply depends on household cash-flow pressure, housing expectations, and trust infrastructure.
 - [Bedroom Homestay Platform Trust](concepts/BedroomHomestayPlatformTrust.md) — Safety, payment, verification, and expectation-management layer for booking rooms inside ordinary homes.
 - [Non-Standard Lodging Search](concepts/NonStandardLodgingSearch.md) — AI/RAG-assisted matching problem for highly variable rooms that cannot be fully captured by hotel-style filters.

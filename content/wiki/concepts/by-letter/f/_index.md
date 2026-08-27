@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 5665
+wiki_total_pages: 5668
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -839,6 +839,9 @@ wiki_pages:
   - key: "FreeRiderProblem"
     title: "Free Rider Problem"
     url: "/wiki/concepts/freeriderproblem/"
+  - key: "FreeSecuritySoftwareStrategy"
+    title: "Free Security Software Strategy / 免费安全软件策略"
+    url: "/wiki/concepts/freesecuritysoftwarestrategy/"
   - key: "FreeServiceHiddenCost"
     title: "Free Service Hidden Cost / 免费服务隐性成本"
     url: "/wiki/concepts/freeservicehiddencost/"

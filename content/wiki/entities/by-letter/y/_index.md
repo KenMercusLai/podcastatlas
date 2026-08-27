@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 7927
+wiki_total_pages: 7933
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -20,6 +20,9 @@ wiki_pages:
   - key: "Yahoo"
     title: "Yahoo"
     url: "/wiki/entities/yahoo/"
+  - key: "YahooChina"
+    title: "Yahoo China / 雅虎中国"
+    url: "/wiki/entities/yahoochina/"
   - key: "YahooStore"
     title: "Yahoo Store"
     url: "/wiki/entities/yahoostore/"

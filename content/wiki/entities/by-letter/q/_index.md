@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "q"
-wiki_total_pages: 7927
+wiki_total_pages: 7933
 wiki_pages:
   - key: "Qatar"
     title: "Qatar"
@@ -26,6 +26,9 @@ wiki_pages:
   - key: "Qidian"
     title: "Qidian / 起点中文网"
     url: "/wiki/entities/qidian/"
+  - key: "Qihoo360"
+    title: "Qihoo 360 / 奇虎 360"
+    url: "/wiki/entities/qihoo360/"
   - key: "QilinRansomwareGroup"
     title: "Qilin Ransomware Group"
     url: "/wiki/entities/qilinransomwaregroup/"
@@ -353,6 +356,9 @@ wiki_pages:
   - key: "Qianzhong"
     title: "黔中 / Qianzhong"
     url: "/wiki/entities/qianzhong/"
+  - key: "QiXiangdong"
+    title: "齐向东 / Qi Xiangdong"
+    url: "/wiki/entities/qixiangdong/"
   - key: "QiKingdomEarlyHan"
     title: "齐国 / Qi Kingdom (early Han)"
     url: "/wiki/entities/qikingdomearlyhan/"

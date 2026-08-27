@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 5665
+wiki_total_pages: 5668
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -557,6 +557,12 @@ wiki_pages:
   - key: "ChineseHighSpeedRail"
     title: "Chinese High-Speed Rail"
     url: "/wiki/concepts/chinesehighspeedrail/"
+  - key: "ChineseInternetEntryPointCompetition"
+    title: "Chinese Internet Entry-Point Competition / 中文互联网入口竞争"
+    url: "/wiki/concepts/chineseinternetentrypointcompetition/"
+  - key: "ChineseInternetPlatformWars"
+    title: "Chinese Internet Platform Wars / 中文互联网平台战争"
+    url: "/wiki/concepts/chineseinternetplatformwars/"
   - key: "ChineseLightLuxuryBagPremiumization"
     title: "Chinese Light-Luxury Bag Premiumization"
     url: "/wiki/concepts/chineselightluxurybagpremiumization/"

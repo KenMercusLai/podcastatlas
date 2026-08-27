@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-27
-as_of_overview_commit: 8386ee6f55025292f872bd92239aff32529d15f1
-summary: "Durable value depends on operational proof, trust boundaries, human judgment, enforceable institutions, and validation as AI, markets, science, health, and conflicts shift."
-episode_count: 1564
-source_count: 1564
-paragraph_count: 294
+as_of_overview_commit: 3dd475ebc63dbb03251386d844b6df46201cfd8e
+summary: "Durable value depends on operational proof, trust boundaries, human judgment, institutions, validation, and platform conflict as AI, markets, science, and geopolitics shift."
+episode_count: 1565
+source_count: 1565
+paragraph_count: 295
 topic_count: 8
 ---
 
@@ -36,7 +36,7 @@ AI value depends on workflow integration, data readiness, verification, permissi
 
 ### Business and Markets
 
-Business value turns on demand proof, distribution, payment, trust, operating fit, timing, and regulated validation; consumer, lodging, biotech, AI, and hardware cases all need adoption gates.
+Business value turns on demand proof, distribution, payment, trust, operating fit, timing, regulated validation, and platform-entry control; the Zhou/Qihoo branch adds China internet conflict as a trust-and-distribution case.
 
 - [[the-continent-nobody-owns-everyone-benefits-from-summer-school]] adds that market value can be created or protected by institutional design outside ordinary ownership: [[NonMarketEnvironmentalValuation]] makes [[Antarctica]] and [[SouthernOcean]] climate services visible, [[ParkingCostInternalization]] prices [[Tokyo]] street storage, [[ViennaSocialHousingScale]] uses nonprofit and public supply to affect rents, and [[ConsortioGroupFinancing]] formalizes mutual purchasing finance in [[Brazil]]. Evidence: [[the-continent-nobody-owns-everyone-benefits-from-summer-school]], [[NonMarketEnvironmentalValuation]], [[Antarctica]], [[SouthernOcean]], [[AntarcticClimateServices]], [[ParkingCostInternalization]], [[Tokyo]], [[ViennaSocialHousingScale]], [[Vienna]], [[ConsortioGroupFinancing]], [[Brazil]], [[ExternalityInternalization]], [[HousingAffordabilitySupplyMechanics]].
 - [[CustomerPull]], [[ProductLedWillingnessToPay]], and [[PreProductSelling]] become durable only when distribution, buyer-commitment, payment proof, and operating gates such as [[CPGDistribution]], [[RetailLineReview]], [[PlanogramGatekeeping]], [[RetailPricePointProductScoping]], [[MassRetailProductionDeadline]], [[EnterprisePOCDiscipline]], [[EnterpriseCustomerAsMarket]], [[AIOfficeAgent]], and [[RobotRepurchaseDemand]] can repeatedly deliver value after initial attention. Evidence: [[CustomerPull]], [[ProductLedWillingnessToPay]], [[PreProductSelling]], [[CPGDistribution]], [[RetailLineReview]], [[PlanogramGatekeeping]], [[RetailPricePointProductScoping]], [[MassRetailProductionDeadline]], [[EnterprisePOCDiscipline]], [[EnterpriseCustomerAsMarket]], [[Templafy]], [[RobotRepurchaseDemand]], [[AIOfficeAgent]], [[AICommercializationPressure]], [[AIConsumerGrowthMetrics]], [[AIInferenceCostStructure]], [[DingTalk]], [[Feishu]], [[TencentWorkBuddy]], [[DoubaoWork]], [[tengxun-ali-zijie-zhengduo-dagongren-hulianwang-dachang-weihe-jiti-jiama-ai-bangong-1008598460]], [[ep-46-fix-the-foundation-first-why-your-data-strategy-is-failing-before-the-ai-gets-involved]], [[MidMarketDataTalentGap]], [[ParadoxMachines]].
@@ -56,28 +56,28 @@ Governance value depends on enforceable boundaries, implementation capacity, leg
 
 ### History and Geopolitics
 
-Historical and geopolitical cases show power moving through enforceable systems, alliances, infrastructure, title legitimacy, technology ecosystems, sovereignty risks, and source-scoped battlefield timing.
+Historical and geopolitical cases show power moving through enforceable systems, alliances, infrastructure, title legitimacy, technology ecosystems, sovereignty risks, platform-era business history, and source-scoped timing.
 
 - [[UnderseaDataCables]] show contemporary geopolitics moving into physical internet routes: [[UnitedStates]] funding for [[Caribbean]] and [[CentralAmerica]] cable replacement, competition with [[China]], vendor concerns involving [[Russia]], [[CableLandingPointSecurity]], and [[CableNetworkResilience]] make cloud and financial connectivity part of strategic infrastructure rather than only telecom operations. Evidence: [[UnderseaDataCables]], [[UnitedStates]], [[Caribbean]], [[CentralAmerica]], [[China]], [[Russia]], [[CableLandingPointSecurity]], [[CableNetworkResilience]], [[TrustedNetworkGeopolitics]], [[DigitalInfrastructureWarRisk]], [[RegionalNetworkTopologyRisk]], [[AsymmetricInfrastructureAttack]], [[MarketplaceTech]], [[ErinMurphy]], [[tech-20260820-tech-pod-128-tech-20260820-tech-pod-128]].
 - The Hanji 992, 1002, and 1015-1016 branch makes late-Han title order a strategic condition: [[EmperorXianOfHan]]'s ruined Anyi and Chang'an context keeps [[MingqiLegitimacy]] symbolically active but materially thin, [[JuShou]] sees [[LegitimacyWindowSeizure]] for [[YuanShao]] before [[GuoTu]] and [[ChunyuQiong]] help Yuan Shao miss it, [[SunCe]] treats [[YuanShu]]'s planned imperial title as a [[MoralizedWarPretext]] and exits, [[XunYu]] turns the emperor's recognition into [[LegitimacyWindowSeizure]] for [[CaoCao]], Yuan Shu's later Shouchun claim outruns [[TitleRealityRestraint]] and creates [[AntiUsurpationCoalitionPressure]], and [[ChenGui]] blocks [[MarriageAllianceWarExposure]] around [[LyuBu]] and [[Xuzhou]]. Evidence: [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz]], [[EmperorXianOfHan]], [[ChangAnHanCapital]], [[GuanzhongRegion]], [[MingqiLegitimacy]], [[JuShou]], [[LegitimacyWindowSeizure]], [[YuanShao]], [[GuoTu]], [[ChunyuQiong]], [[WartimeAgriculturalLaborCollapse]], [[FamineEntitlementFailure]], [[SunCe]], [[YuanShu]], [[MoralizedWarPretext]], [[XunYu]], [[CaoCao]], [[TitleRealityRestraint]], [[AntiUsurpationCoalitionPressure]], [[ChenGui]], [[MarriageAllianceWarExposure]], [[LyuBu]], [[Xuzhou]], [[XingshiqingStrategicAssessment]], [[GuoJia]], [[ZhongYao]].
 
 ### Psychology and Personal Development
 
-Personal-development sources frame agency as disciplined attention, sized risk, authorship trust, self-command, acceptable trust boundaries, and opponent-state calibration.
+Personal and collective judgment depends on trust, pacing, reputation, self-regulation, exposure sizing, social identity, and context-aware action under uncertainty.
 
 - [[AugmentedIntelligence]] and [[ep278-ai-shidai-bu-juan-zhuanye-juan-shenme-renzai-zhongliu-tebie-cehua-02-lhvsbropwclouwshe-2-fczwnwzz|EP278]] add a personal-judgment frame for AI use: [[JonathanSchaeffer]] treats LLMs as useful assistants or interns, while the AI-era education source adds [[NonAlgorithmicCapabilities]], [[HumanAgencyUnderAI]], and [[HumanConnectionUnderAI]] as safeguards against letting convenience replace verification, practice, and self-direction. Evidence: [[ep-47-the-ai-pioneer-who-decided-privacy-matters-more-than-hype]], [[ep278-ai-shidai-bu-juan-zhuanye-juan-shenme-renzai-zhongliu-tebie-cehua-02-lhvsbropwclouwshe-2-fczwnwzz]], [[AugmentedIntelligence]], [[JonathanSchaeffer]], [[HumanJudgmentUnderAI]], [[AIVerification]], [[AIHallucination]], [[NonAlgorithmicCapabilities]], [[HumanAgencyUnderAI]], [[HumanConnectionUnderAI]].
 - [[HumanAuthorshipPremium]] and [[AlgorithmAversion]] show that perceived AI authorship can reduce trust in emotionally or identity-relevant products. Evidence: [[HumanAuthorshipPremium]], [[AlgorithmAversion]].
 
 ### Science, Health, and Climate
 
-Science, health, climate, and space claims become credible through funding capacity, trust repair, privacy boundaries, physical implementation, and clinical validation; cancer-vaccine optimism remains therapeutic and context-bound.
+Science, health, climate, and space claims become credible when evidence, physical constraints, regulation, implementation cost, validation, and operational follow-through stay visible.
 
 - [[SpaceEconomyInfrastructure]] depends on [[SpaceLaunchCapacityBottleneck]], [[SpaceportSitingConstraint]], and [[SpaceLaunchEnvironmentalReview]] because [[CommercialSatelliteConstellations]] and [[ReusableRocketEconomics]] only become usable cadence when pads, ports, airspace, licensing, and habitat review are workable. Evidence: [[SpaceEconomyInfrastructure]], [[SpaceLaunchCapacityBottleneck]], [[SpaceportSitingConstraint]], [[SpaceLaunchEnvironmentalReview]], [[CommercialSatelliteConstellations]], [[ReusableRocketEconomics]].
 - [[ClimateAdaptation]], [[LowCarbonConstructionMaterials]], and [[CarbonStoragePermanence]] depend on material performance, permitting, cost, and verification as well as technical feasibility. Evidence: [[ClimateAdaptation]], [[LowCarbonConstructionMaterials]], [[CarbonStoragePermanence]].
 
 ### Work, Education, and Society
 
-Work and education sources argue AI and automation raise the premium on judgment, context practice, embodied learning, boundaries, foundations, and real-world grounding.
+Work, education, and society sources show capability becoming useful only through production systems, review, responsibility, career context, social constraints, and grounded human judgment.
 
 - AI and automation change work only when they reorganize production roles, workflows, and review responsibilities, from [[AIVideoProductionWorkflow]] and [[RollingAI]] to [[HeadlessSoftware]], [[Paperboy]], and [[HumanJudgmentUnderAI]]. Evidence: [[AIVideoProductionWorkflow]], [[JiaZhangke]], [[FilmRealityBeyondRealism]], [[LiveActionFilmUnderAI]], [[CreativeLaborAIBacklash]], [[AIPublicLikenessGeneration]], [[AITrainingCopyrightDispute]], [[AIEnergyBottleneck]], [[RollingAI]], [[HeadlessSoftware]], [[Paperboy]], [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].
 - Workplace AI readiness depends on ownership, baselines, training, and role-specific workflows: [[WorkplaceAIReadinessGap]], [[Microsoft365CopilotAdoption]], [[AIAdoptionBaselineMeasurement]], [[AIOperationsRole]], [[FrontlineAIEnablement]], and [[HumanJudgmentUnderAI]] show that license access or worker experimentation is not enough. Evidence: [[WorkplaceAIReadinessGap]], [[Microsoft365CopilotAdoption]], [[AIAdoptionBaselineMeasurement]], [[AIOperationsRole]], [[FrontlineAIEnablement]], [[HumanJudgmentUnderAI]], [[ShadowAI]], [[BusinessLedAITransformation]], [[JimSpignardo]], [[Proarc]], [[ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise]].

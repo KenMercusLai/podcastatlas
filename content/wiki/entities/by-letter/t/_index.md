@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 7927
+wiki_total_pages: 7933
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -17,6 +17,9 @@ wiki_pages:
   - key: "ThreeM"
     title: "3M"
     url: "/wiki/entities/threem/"
+  - key: "ThreeQWar"
+    title: "3Q War / 3Q 大战"
+    url: "/wiki/entities/threeqwar/"
   - key: "TConScribd"
     title: "T-Con (Scribd Co-Founder)"
     url: "/wiki/entities/tconscribd/"

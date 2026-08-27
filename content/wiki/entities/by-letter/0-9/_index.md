@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "0-9"
-wiki_total_pages: 7927
+wiki_total_pages: 7933
 wiki_pages:
   - key: "1789Capital"
     title: "1789 Capital"
@@ -20,6 +20,9 @@ wiki_pages:
   - key: "361Degrees"
     title: "361 Degrees"
     url: "/wiki/entities/361degrees/"
+  - key: "3721"
+    title: "3721"
+    url: "/wiki/entities/3721/"
   - key: "404Media"
     title: "404 Media"
     url: "/wiki/entities/404media/"
