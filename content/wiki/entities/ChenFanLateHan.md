@@ -18,17 +18,20 @@ sources:
   - zizhi-tongjian-hanji-869-liying-weihe-bei-chengwei-tianxia-diyi-kaimo-lltckcioe1n9v91yy4c9vvwmz4mo
   - zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v
   - zizhi-tongjian-hanji-867-wugu-bei-po-zangshui-ta-xuanze-baqi-huiji-lqenvoy7x8ic-qn3-bf93qj8tjvk
+  - zizhi-tongjian-hanji-858-weishenme-quan-ni-yiding-yao-huanwei-sikao-lobr-xznqo-ctjpc-ytpstubmahl
 last_updated: 2026-08-28
 knowledge_schema: synthesis-v1
 ---
 
 ## Overview
 
-陈蕃 / Chen Fan is an anti-eunuch official whose profile now begins with a 165 CE Taiwei appointment and attempted office-yield request in [[zizhi-tongjian-hanji-867-wugu-bei-po-zangshui-ta-xuanze-baqi-huiji-lqenvoy7x8ic-qn3-bf93qj8tjvk|Hanji 867]]. The later bounded sequence moves through a formal-status objection in [[EmperorHuanOfHan|汉桓帝]]'s harem politics, a failed pardon petition for [[LiYingLateHan|李膺]] and other punished officials, defense of enforcement officials punished under eunuch pressure, first Party Prohibition procedural resistance, Emperor Huan-era removal, interregnum duty enforcement, title-discipline refusal, the 168 CE anti-eunuch crisis, fatal palace intervention, and later memory. [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|Hanji 868]] shows him supporting [[YingFengLateHan|应奉]]'s objection to making [[TianShengLateHan|田圣 / 田胜]] empress, while [[zizhi-tongjian-hanji-869-liying-weihe-bei-chengwei-tianxia-diyi-kaimo-lltckcioe1n9v91yy4c9vvwmz4mo|Hanji 869]] shows Chen Fan's tearful petition failing before Ying Feng reframes the same pardon problem as state capacity. [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|Hanji 872]] then shows him defending [[ZhaiChaoLateHan|翟超]] and [[HuangFuDonghaiLateHan|黄浮]] after Huan punishes them under eunuch complaint.
+陈蕃 / Chen Fan is an anti-eunuch official whose current wiki profile now begins with a 163 CE hunting remonstrance against [[EmperorHuanOfHan|汉桓帝]] before the 165 CE Taiwei appointment and attempted office-yield request in [[zizhi-tongjian-hanji-867-wugu-bei-po-zangshui-ta-xuanze-baqi-huiji-lqenvoy7x8ic-qn3-bf93qj8tjvk|Hanji 867]]. The later bounded sequence moves through a formal-status objection in Huan's harem politics, a failed pardon petition for [[LiYingLateHan|李膺]] and other punished officials, defense of enforcement officials punished under eunuch pressure, first Party Prohibition procedural resistance, Emperor Huan-era removal, interregnum duty enforcement, title-discipline refusal, the 168 CE anti-eunuch crisis, fatal palace intervention, and later memory. [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|Hanji 868]] shows him supporting [[YingFengLateHan|应奉]]'s objection to making [[TianShengLateHan|田圣 / 田胜]] empress, while [[zizhi-tongjian-hanji-869-liying-weihe-bei-chengwei-tianxia-diyi-kaimo-lltckcioe1n9v91yy4c9vvwmz4mo|Hanji 869]] shows Chen Fan's tearful petition failing before Ying Feng reframes the same pardon problem as state capacity. [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|Hanji 872]] then shows him defending [[ZhaiChaoLateHan|翟超]] and [[HuangFuDonghaiLateHan|黄浮]] after Huan punishes them under eunuch complaint.
 
 ## Current Profile
 
-Chen Fan's current profile is built around role discipline under danger. Hanji 867 supplies the earliest bounded layer: Chen is promoted from Taizhong dafu to Taiwei, then asks to yield the post to [[HuGuangLateHan|Hu Guang]], [[WangChangShumaoLateHan|Wang Chang]], and the pardoned convict Li Ying. Emperor Huan refuses, but the episode gives Chen an early office-discipline posture before the better-known anti-eunuch crisis. Hanji 868 then shows Chen supporting Ying Feng's formal-status argument against making Tian Sheng empress, so his next profile role is not only moral protest but also defense of title order. Hanji 869 shows Chen Fan repeatedly pleading with Emperor Huan for punished officials, including Li Ying, but the ruler does not accept the emotionally forceful appeal. The episode's contrast with Ying Feng makes this a failure of framing more than a failure of loyalty: Chen speaks urgently for justice, while Ying Feng converts the same case into personnel, frontier, and state-security language that Huan can accept.
+Chen Fan's current profile is built around role discipline under danger. [[zizhi-tongjian-hanji-858-weishenme-quan-ni-yiding-yao-huanwei-sikao-lobr-xznqo-ctjpc-ytpstubmahl|Hanji 858]] gives Chen Fan's earliest bounded layer. As guangluxun, he remonstrates after Emperor Huan hunts at Guangcheng, Hangu Pass, and Shanglin while the court faces empty stores, tight finance, war, displacement, rain, wheat planting, and labor requisition. Huan does not answer. The case makes Chen an early example of correct, public-minded remonstrance that fails to become policy because it directly confronts the ruler's pleasure without offering an easier implementation path.
+
+Chen Fan's 165 CE profile is built around Taiwei rank and office discipline. Hanji 867 shows Chen promoted from Taizhong dafu to Taiwei, then asking to yield the post to [[HuGuangLateHan|Hu Guang]], [[WangChangShumaoLateHan|Wang Chang]], and the pardoned convict Li Ying. Emperor Huan refuses, but the episode gives Chen an office-discipline posture before the better-known anti-eunuch crisis. Hanji 868 then shows Chen supporting Ying Feng's formal-status argument against making Tian Sheng empress, so his next profile role is not only moral protest but also defense of title order. Hanji 869 shows Chen Fan repeatedly pleading with Emperor Huan for punished officials, including Li Ying, but the ruler does not accept the emotionally forceful appeal. The episode's contrast with Ying Feng makes this a failure of framing more than a failure of loyalty: Chen speaks urgently for justice, while Ying Feng converts the same case into personnel, frontier, and state-security language that Huan can accept.
 
 Hanji 872 then shows Chen Fan after eunuch complaint converts local enforcement against [[XuXuanLateHan|徐宣]] and [[HouLanLateHan|侯览]] into punishment for Zhai Chao and Huang Fu. Chen Fan joins [[LiuMaoLateHan|刘茂]] in defending the officials, then continues after Liu Mao retreats. His memorial reframes the issue from one local case into [[CourtFeedbackCollapse|君臣反馈失灵]]: external thieves are not the deepest danger if the ruler's inner court rewards favorites and blocks忠言.
 
@@ -42,16 +45,18 @@ Hanji 884, Hanji 885, and Hanji 887 then move Chen into the live anti-eunuch cri
 
 ## Key Characteristics
 
+- Direct remonstrant whose earliest bounded layer is a 163 CE hunting warning that names public hardship but receives no imperial answer.
 - Remonstrating high official whose 165 CE profile includes Taiwei office-yield discipline, formal empress-status objection, failed pardon appeal, and later diagnosis of favorite-protected enforcement inversion.
 - Procedural resister who refuses to endorse vague party-arrest charges against famous士人.
 - Remonstrating high official whose removal during the first Party Prohibition crisis chills open rescue.
 - Duty enforcer who treats office as binding through death-of-ruler and succession uncertainty.
 - Title-legitimacy defender who refuses Dou Miao's favor-based marquisate.
 - Anti-eunuch strategist who identifies Cao Jie and Wang Fu as urgent removal targets before Dou Wu's hesitation.
-- Palace intervention figure whose final action converts moral clarity into bodily exposure.
 
 ## Evidence
 
+- Hunting remonstrance: [[zizhi-tongjian-hanji-858-weishenme-quan-ni-yiding-yao-huanwei-sikao-lobr-xznqo-ctjpc-ytpstubmahl|Hanji 858]] says Chen Fan, then guangluxun, warns Huan against hunting amid barren fields, tight finance, empty stores, war, displacement, autumn rains, wheat planting, forced labor, and road repair.
+- Non-conversion of warning: [[zizhi-tongjian-hanji-858-weishenme-quan-ni-yiding-yao-huanwei-sikao-lobr-xznqo-ctjpc-ytpstubmahl|Hanji 858]] says Huan gives no reply, and contrasts the ignored warning with Zhou Jing and Yang Bing's accepted cleanup proposal.
 - Taiwei appointment and office-yield request: [[zizhi-tongjian-hanji-867-wugu-bei-po-zangshui-ta-xuanze-baqi-huiji-lqenvoy7x8ic-qn3-bf93qj8tjvk|Hanji 867]] says Chen Fan is promoted from Taizhong dafu to Taiwei and asks to yield the office to Hu Guang, Wang Chang, and the pardoned Li Ying, but Emperor Huan refuses.
 - Empress-status objection: [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|Hanji 868]] says Chen Fan supports Ying Feng's objection that Tian Sheng's background makes her unsuitable for empress rank, helping block Huan's preferred choice.
 - Failed pardon petition: [[zizhi-tongjian-hanji-869-liying-weihe-bei-chengwei-tianxia-diyi-kaimo-lltckcioe1n9v91yy4c9vvwmz4mo|Hanji 869]] says Chen Fan repeatedly pleads for Li Ying and other punished officials, but Emperor Huan rejects the plea before Ying Feng's state-capacity memorial succeeds.
@@ -70,19 +75,21 @@ Hanji 884, Hanji 885, and Hanji 887 then move Chen into the live anti-eunuch cri
 
 ## Qualifications
 
-Hanji 867 adds the Taiwei appointment and office-yield request, Hanji 868 adds a formal-status objection inside harem politics, and Hanji 869 adds the failed pardon-petition layer; these are adjacent but distinct 165 CE roles and should not be collapsed into a single event. Hanji 869's ASR variant "程帆" is normalized to 陈蕃 because the same source heading identifies 陈蕃 and the actor's office and sequence match this canonical route. Hanji 872 shows Chen Fan's defense of punished enforcement officials before the first Party Prohibition arrest order; Hanji 874 shows his procedural resistance to that order, while Hanji 876 shows the later removal and chilling effect. The page keeps these layers adjacent but distinct. Hanji 887's evaluation of Chen Fan as seeing the crisis more clearly than Dou Wu is the host's interpretation, not proof that Chen's preferred violent timing would certainly have succeeded. Later uses of Chen's memory vary: repair actors, coup plotters, and Dong Zhuo use the old grievance for different political ends. Minor transcript variants such as 陈藩 are normalized to 陈蕃 because existing late-Han routes already carry this actor.
+Hanji 858 does not show Chen Fan punished for the hunting memorial; it only shows non-response, so it should be kept distinct from the later 166-167 retaliation and removal layers. Hanji 867 adds the Taiwei appointment and office-yield request, Hanji 868 adds a formal-status objection inside harem politics, and Hanji 869 adds the failed pardon-petition layer; these are adjacent but distinct 165 CE roles and should not be collapsed into a single event. Hanji 869's ASR variant "程帆" is normalized to 陈蕃 because the same source heading identifies 陈蕃 and the actor's office and sequence match this canonical route. Hanji 872 shows Chen Fan's defense of punished enforcement officials before the first Party Prohibition arrest order; Hanji 874 shows his procedural resistance to that order, while Hanji 876 shows the later removal and chilling effect. The page keeps these layers adjacent but distinct. Hanji 887's evaluation of Chen Fan as seeing the crisis more clearly than Dou Wu is the host's interpretation, not proof that Chen's preferred violent timing would certainly have succeeded. Later uses of Chen's memory vary: repair actors, coup plotters, and Dong Zhuo use the old grievance for different political ends. Minor transcript variants such as 陈藩 are normalized to 陈蕃 because existing late-Han routes already carry this actor.
 
 ## What Changed
 
-- Hanji 867 adds Chen Fan's 165 CE Taiwei appointment and attempted office-yield request to Hu Guang, Wang Chang, and Li Ying.
-- Hanji 868 and Hanji 869 remain the next 165 CE layers before Chen Fan's Huan-era enforcement-inversion defense: formal empress-status objection and failed pardon petition.
-- Hanji 872 adds Chen Fan's defense of Zhai Chao and Huang Fu before the first Party Prohibition arrest-order layer.
-- The profile now treats Chen's earliest bounded role as office-discipline at Taiwei rank, followed by formal-status and anti-eunuch institutional diagnosis under Emperor Huan.
-- The later Party Prohibition, duty, title, anti-eunuch, death, and memory branches remain intact but are no longer the earliest bounded layer.
+- Hanji 858 adds Chen Fan's 163 CE hunting remonstrance as the earliest bounded layer.
+- The profile now distinguishes an unanswered moral-administrative warning from later successful or partially successful state-capacity and institutional frames around Huan.
+- Hanji 867-869 remain the next 165 CE layers before Chen Fan's Huan-era enforcement-inversion defense: Taiwei office-yield, formal empress-status objection, and failed pardon petition.
+- Hanji 872 keeps Chen Fan's defense of Zhai Chao and Huang Fu before the first Party Prohibition arrest-order layer.
+- The later Party Prohibition, duty, title, anti-eunuch, death, and memory branches remain intact.
 
 ## Relationships
 
 - [[EmperorHuanOfHan|汉桓帝]] - ruler whose pardon refusal, arrest order, anger, and personnel pretext define Chen Fan's Huan-era risk.
+- [[AdviceFramingUnderHierarchy|等级场景中的进言包装]] - concept clarified by Chen Fan's correct but unanswered hunting warning.
+- [[ZhouJingLateHan|周景]] and [[YangBingLateHan|杨秉]] - contrast case whose accepted cleanup proposal follows a more executable institutional path in Hanji 858.
 - [[HuGuangLateHan|胡广]] - senior official whom Chen Fan names as a preferred Taiwei candidate in Hanji 867.
 - [[WangChangShumaoLateHan|王畅]] - reputation official whom Chen Fan names as a preferred Taiwei candidate in Hanji 867.
 - [[YingFengLateHan|应奉]] - official whose successful state-capacity memorial contrasts with Chen Fan's failed tearful petition.
