@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 5687
+wiki_total_pages: 5694
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1610,6 +1610,9 @@ wiki_pages:
   - key: "ArtisticAchievementMoralAccountability"
     title: "Artistic Achievement Moral Accountability"
     url: "/wiki/concepts/artisticachievementmoralaccountability/"
+  - key: "ArtisticFeedbackBoundary"
+    title: "Artistic Feedback Boundary"
+    url: "/wiki/concepts/artisticfeedbackboundary/"
   - key: "AsItIsPractice"
     title: "As It Is Practice / 如其所是"
     url: "/wiki/concepts/asitispractice/"
@@ -1883,6 +1886,9 @@ wiki_pages:
   - key: "AviationSafetyRules"
     title: "Aviation Safety Rules"
     url: "/wiki/concepts/aviationsafetyrules/"
+  - key: "AwarenessMeditationStoryDropping"
+    title: "Awareness Meditation Story Dropping"
+    url: "/wiki/concepts/awarenessmeditationstorydropping/"
   - key: "AppointedGovernorSecessionRisk"
     title: "受任地方长官割据风险 / Appointed Governor Secession Risk"
     url: "/wiki/concepts/appointedgovernorsecessionrisk/"

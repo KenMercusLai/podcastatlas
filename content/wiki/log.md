@@ -12174,6 +12174,10 @@ Added source page for The Rest Is History episode on Crown Prince Rudolf, Mary V
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-27] ingest | Essentials: How to Access Your Creativity | Rick Rubin
+
+Added source page for a Huberman Lab Essentials episode with Rick Rubin on creativity as felt process, attention aperture shifts, external feedback boundaries, creative phase separation, focus-and-disengagement, self-doubt, and meditation. Created Creativity as Felt Process, Creative Aperture Shift, Artistic Feedback Boundary, Creative Phase Separation, Subconscious Creative Incubation, Self-Doubt as Creative Check, and Awareness Meditation Story Dropping pages; migrated Rick Rubin to synthesis-v1 and extended Huberman Lab and Andrew Huberman. No settled contradiction found; creativity-process, subconscious-work, meditation, live-performance, and surgery-healing claims remain source-scoped.
+
 ## [2026-08-27] ingest | Why 70mm Film Still Feels Like the Hottest Movie Technology
 
 Added source page for the Marketplace Tech episode with Miles Williams on the Alex Theatre's 70mm retrofit for The Odyssey, IMAX 70mm versus standard 70mm and 35mm format differences, scarce legacy projection expertise, and analog moviegoing as a hard-to-reproduce event. Created Alex Theatre, Miles Williams, 70mm Film Projection, and Analog Moviegoing Experience pages. No direct contradiction found; revenue ranking, Gen Z analog-interest claims, and apprenticeship signals remain source-scoped.
@@ -12574,6 +12578,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-27] ingest | Advice Line with Daymond John of FUBU
 
 Added source page for the How I Built This Advice Line episode with Daymond John advising Sabor a Mexico Salsas, Raised Nutrition, and Cooks Who Feed. Created Daymond John, FUBU, Sabor a Mexico Salsas, Christopher Navarro, Raised Nutrition, Darcy (Raised Nutrition), Cooks Who Feed, Seema Sanghavi, Founder Pitch Evidence Fit, Small Retailer Channel Test, Niche Origin Story Expansion, and Mission-Aligned Vendor Switching pages; updated index and overview. No settled contradiction found; sales figures, meal counts, client examples, and channel recommendations remain source-scoped.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-27] lint | Wiki health check
 

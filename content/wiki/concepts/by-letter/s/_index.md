@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 5687
+wiki_total_pages: 5694
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -335,6 +335,9 @@ wiki_pages:
   - key: "SelfDisruptionDiscipline"
     title: "Self-Disruption Discipline"
     url: "/wiki/concepts/selfdisruptiondiscipline/"
+  - key: "SelfDoubtAsCreativeCheck"
+    title: "Self-Doubt as Creative Check"
+    url: "/wiki/concepts/selfdoubtascreativecheck/"
   - key: "SelfExperimentation"
     title: "Self-Experimentation"
     url: "/wiki/concepts/selfexperimentation/"
@@ -1370,6 +1373,9 @@ wiki_pages:
   - key: "SubagentWorkflow"
     title: "Subagent Workflow"
     url: "/wiki/concepts/subagentworkflow/"
+  - key: "SubconsciousCreativeIncubation"
+    title: "Subconscious Creative Incubation"
+    url: "/wiki/concepts/subconsciouscreativeincubation/"
   - key: "SubcultureLedMarketing"
     title: "Subculture Led Marketing"
     url: "/wiki/concepts/subcultureledmarketing/"

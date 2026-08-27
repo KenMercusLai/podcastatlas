@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 766
+topic_total_pages: 767
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1105,6 +1105,9 @@ topic_concepts:
   - key: "SelfConceptPlasticity"
     title: "Self-Concept Plasticity"
     url: "/wiki/concepts/selfconceptplasticity/"
+  - key: "SelfDoubtAsCreativeCheck"
+    title: "Self-Doubt as Creative Check"
+    url: "/wiki/concepts/selfdoubtascreativecheck/"
   - key: "SelfExperimentation"
     title: "Self-Experimentation"
     url: "/wiki/concepts/selfexperimentation/"

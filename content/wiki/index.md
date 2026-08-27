@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Essentials: How to Access Your Creativity | Rick Rubin](sources/essentials-how-to-access-your-creativity-rick-rubin-scim7816635332.md) — Huberman Lab Essentials episode with Rick Rubin on creativity as felt process, attention shifts, feedback boundaries, creative phases, finishing, self-doubt, and meditation.
 - [Why 70mm Film Still Feels Like the Hottest Movie Technology](sources/tech-20260827-0827-mp-tech-pod-128-tech-20260827-0827-mp-tech-pod-128.md) — Marketplace Tech episode with Miles Williams on the Alex Theatre's 70mm retrofit for The Odyssey, IMAX/70mm/35mm format differences, scarce projection expertise, and analog moviegoing as an event.
 - [How to Improve Motivation & Overcome Procrastination | Dr. Masud Husain](sources/how-to-improve-motivation-overcome-procrastination-dr-masud-husain-scim3386045656.md) — Huberman Lab episode with Masud Husain on motivation, apathy, reward-effort calculation, dopamine, attention, ADHD, self-concept, addiction, and cognitive resilience.
 - [Advice Line with Daymond John of FUBU](sources/advice-line-with-daymond-john-of-fubu-0961848f-0f5a-4fb7-932c-3a04f08bc8d4.md) — How I Built This Advice Line episode with Daymond John on founder pitch evidence, staged retail tests, niche-origin expansion, and mission-aligned B2B vendor switching.
@@ -1587,8 +1588,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Darcy (Raised Nutrition)](entities/DarcyRaisedNutrition.md) — Raised Nutrition founder-caller asking whether a niche athletic origin story limits broader wellness appeal.
 - [Cooks Who Feed](entities/CooksWhoFeed.md) — Social-enterprise kitchen-linen company advised to use low-risk B2B trials, referrals, and client-centered impact storytelling.
 - [Seema Sanghavi](entities/SeemaSanghavi.md) — Cooks Who Feed founder-caller focused on convincing B2B buyers to switch vendors.
-- [Huberman Lab](entities/HubermanLab.md) — Health and neuroscience show context for episodes on nutrition, mental health, motivation, apathy, dopamine, attention, and aging.
-- [Andrew Huberman](entities/AndrewHuberman.md) — Host framing guest discussions on nutrition, mental health, motivation, apathy, attention, and practical neuroscience.
+- [Huberman Lab](entities/HubermanLab.md) — Show context for episodes on nutrition, mental health, motivation, attention neuroscience, creativity process, feedback, and meditation.
+- [Andrew Huberman](entities/AndrewHuberman.md) — Host framing guest discussions on nutrition, mental health, motivation, attention, creativity process, and practical neuroscience.
 - [Masud Husain](entities/MasudHusain.md) — Neuroscience and neurology guest explaining motivation, apathy, dopamine, attention, selfhood, and cognitive resilience.
 - [Chris Palmer](entities/ChrisPalmer.md) — Psychiatrist grounding the episode's metabolic psychiatry, ketogenic diet, and mitochondrial mental-health claims.
 - [Russell Wilder](entities/RussellWilder.md) — Mayo Clinic physician named as the 1921 developer of the ketogenic diet for epilepsy.
@@ -8488,7 +8489,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lex Fridman](entities/LexFridman.md) — Long-form interview reference used by Han Yang through John Carmack, Rick Rubin, and Ilya Sutskever examples.
 - [Joe Rogan](entities/JoeRogan.md) — Long-form podcast reference used by Han Yang to show how private interests can develop public meaning.
 - [John Carmack](entities/JohnCarmack.md) — Engineering interview example showing how side topics can reveal values better than narrow technology-media framing.
-- [Rick Rubin](entities/RickRubin.md) — Creative interview example showing why lingering on apparently non-urgent details can reveal judgment.
+- [Rick Rubin](entities/RickRubin.md) — Music and creativity-process figure linking long-form interview detail to felt creative judgment, attention shifts, feedback boundaries, finishing, and meditation.
 - [魏小康 / Wei Xiaokang](entities/WeiXiaokang.md) — AI recruiting founder and former ByteDance/Meituan organization participant explaining business-model-shaped organization design, recruiting supply, reference checks, and AI-era small-team structure.
 - [王兴 / Wang Xing](entities/WangXing.md) — Meituan founder reference used in the Wei Xiaokang episode to frame company success as riding a larger industry wave rather than pure founder genius.
 - [Li Xiaobo / 李晓波](entities/LiXiaobo.md) — E44 conversation partner pressing Meng Yan on user interest, product friction, 本分, and investment as a life-practice question.
@@ -9530,6 +9531,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Creativity as Felt Process](concepts/CreativityAsFeltProcess.md) — Rubin's frame for art-making as attention to excitement, curiosity, enthusiasm, and other sensed responses before explanation.
+- [Creative Aperture Shift](concepts/CreativeApertureShift.md) — Creativity strategy of widening or narrowing attention when the usual perceptual frame has gone stale.
+- [Artistic Feedback Boundary](concepts/ArtisticFeedbackBoundary.md) — Distinction between using external response as information and letting it sever the creator's felt relationship to the work.
+- [Creative Phase Separation](concepts/CreativePhaseSeparation.md) — Rubin's four-mode project model separating seed collection, experimentation, crafting, and completion.
+- [Subconscious Creative Incubation](concepts/SubconsciousCreativeIncubation.md) — Focus-then-disengage rhythm where creative material can keep developing outside direct attention.
+- [Self-Doubt as Creative Check](concepts/SelfDoubtAsCreativeCheck.md) — Source-scoped claim that doubt can undermine creators or serve as a proportionate judgment check.
+- [Awareness Meditation Story Dropping](concepts/AwarenessMeditationStoryDropping.md) — Meditation frame for quieting self-talk and being with arising experience without adding explanatory stories.
 - [70mm Film Projection](concepts/SeventyMillimeterFilmProjection.md) — Large-format analog projection treated as a format, venue-infrastructure, and skilled-labor constraint.
 - [Analog Moviegoing Experience](concepts/AnalogMoviegoingExperience.md) — Event value created by physical film projection, historic venues, visible craft, and communal screening.
 - [Founder Pitch Evidence Fit](concepts/FounderPitchEvidenceFit.md) — Pitch standard where founder story, customer insight, timing, numbers, and resilience reinforce one another.

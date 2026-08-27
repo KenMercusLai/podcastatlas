@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 5687
+wiki_total_pages: 5694
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1445,6 +1445,9 @@ wiki_pages:
   - key: "CreationAsConsumption"
     title: "Creation As Consumption"
     url: "/wiki/concepts/creationasconsumption/"
+  - key: "CreativeApertureShift"
+    title: "Creative Aperture Shift"
+    url: "/wiki/concepts/creativeapertureshift/"
   - key: "CreativeChineseCuisine"
     title: "Creative Chinese Cuisine / 创意中餐"
     url: "/wiki/concepts/creativechinesecuisine/"
@@ -1457,12 +1460,18 @@ wiki_pages:
   - key: "CreativeMaterialIndustrialization"
     title: "Creative Material Industrialization"
     url: "/wiki/concepts/creativematerialindustrialization/"
+  - key: "CreativePhaseSeparation"
+    title: "Creative Phase Separation"
+    url: "/wiki/concepts/creativephaseseparation/"
   - key: "CreativeProducerMediation"
     title: "Creative Producer Mediation"
     url: "/wiki/concepts/creativeproducermediation/"
   - key: "CreativeRiskAvoidanceCulture"
     title: "Creative Risk-Avoidance Culture"
     url: "/wiki/concepts/creativeriskavoidanceculture/"
+  - key: "CreativityAsFeltProcess"
+    title: "Creativity as Felt Process"
+    url: "/wiki/concepts/creativityasfeltprocess/"
   - key: "CreatorCulture"
     title: "Creator Culture"
     url: "/wiki/concepts/creatorculture/"

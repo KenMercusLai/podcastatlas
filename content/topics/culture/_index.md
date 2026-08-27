@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2252
+topic_total_pages: 2255
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -595,6 +595,9 @@ topic_concepts:
   - key: "CrabCulturalSymbolism"
     title: "Crab Cultural Symbolism"
     url: "/wiki/concepts/crabculturalsymbolism/"
+  - key: "CreativeApertureShift"
+    title: "Creative Aperture Shift"
+    url: "/wiki/concepts/creativeapertureshift/"
   - key: "CreativeCoreRenewal"
     title: "Creative Core Renewal"
     url: "/wiki/concepts/creativecorerenewal/"
@@ -604,6 +607,9 @@ topic_concepts:
   - key: "CreativeProducerMediation"
     title: "Creative Producer Mediation"
     url: "/wiki/concepts/creativeproducermediation/"
+  - key: "CreativityAsFeltProcess"
+    title: "Creativity as Felt Process"
+    url: "/wiki/concepts/creativityasfeltprocess/"
   - key: "CreatorEvaluationPressure"
     title: "Creator Evaluation Pressure"
     url: "/wiki/concepts/creatorevaluationpressure/"
@@ -6558,6 +6564,9 @@ topic_sources:
   - key: "ep278-ai-shidai-bu-juan-zhuanye-juan-shenme-renzai-zhongliu-tebie-cehua-02-lhvsbropwclouwshe-2-fczwnwzz"
     title: "EP278 AI时代不卷专业，卷什么？丨“人在中流”特别策划02"
     url: "/wiki/sources/ep278-ai-shidai-bu-juan-zhuanye-juan-shenme-renzai-zhongliu-tebie-cehua-02-lhvsbropwclouwshe-2-fczwnwzz/"
+  - key: "essentials-how-to-access-your-creativity-rick-rubin-scim7816635332"
+    title: "Essentials: How to Access Your Creativity | Rick Rubin"
+    url: "/wiki/sources/essentials-how-to-access-your-creativity-rick-rubin-scim7816635332/"
   - key: "fault-lines-venezuelas-paltry-earthquake-response-6a44e38375e7a3e96111931b"
     title: "Fault lines: Venezuela's paltry earthquake response"
     url: "/wiki/sources/fault-lines-venezuelas-paltry-earthquake-response-6a44e38375e7a3e96111931b/"

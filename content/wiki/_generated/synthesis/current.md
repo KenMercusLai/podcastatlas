@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-27
-as_of_overview_commit: 07701c86df8dada747e159d63be0fd0eaaa56fea
-summary: "The wiki tracks how AI, markets, institutions, culture, history, health, and work become durable through evidence, operations, trust, and judgment."
-episode_count: 1569
-source_count: 1569
-paragraph_count: 299
+as_of_overview_commit: 0eeb1118b4c387939e549227fe470642538540af
+summary: "The wiki tracks how AI, markets, institutions, culture, history, health, and work become durable through evidence, operations, trust, judgment, and creative practice."
+episode_count: 1570
+source_count: 1570
+paragraph_count: 300
 topic_count: 8
 ---
 
@@ -43,7 +43,7 @@ Business value needs demand proof, distribution, payment, trust, operating fit, 
 
 ### Culture and Media
 
-Cultural sources use literature, folklore, games, film formats, device histories, platforms, and brands to examine politics, identity, evidence, agency, reception, and meaning.
+Cultural sources use literature, folklore, games, film formats, device histories, platforms, brands, and Rubin-style creative practice to examine politics, identity, evidence, agency, reception, and meaning.
 
 - [[PoliticalConditionAsHumanExperiment]] uses fiction to expose how political conditions, speed, exile, public performance, rule systems, and dependency reshape human behavior. Evidence: [[PoliticalConditionAsHumanExperiment]], [[PublicMoralPerformance]], [[SlownessAsModernityCritique]], [[AntiAuthoritarianEducation]], [[SafetyAsControl]], [[BuddhistLifeAffirmingLiterature]].
 
@@ -63,7 +63,7 @@ Historical and geopolitical cases show power moving through enforceable systems,
 
 ### Psychology and Personal Development
 
-Personal and collective judgment depends on trust, pacing, reputation, self-regulation, exposure sizing, social identity, and context-aware action.
+Personal and collective judgment depends on trust, pacing, reputation, self-regulation, exposure sizing, social identity, context-aware action, and creative attention practices.
 
 - [[AugmentedIntelligence]] and [[ep278-ai-shidai-bu-juan-zhuanye-juan-shenme-renzai-zhongliu-tebie-cehua-02-lhvsbropwclouwshe-2-fczwnwzz|EP278]] add a personal-judgment frame for AI use: [[JonathanSchaeffer]] treats LLMs as useful assistants or interns, while the AI-era education source adds [[NonAlgorithmicCapabilities]], [[HumanAgencyUnderAI]], and [[HumanConnectionUnderAI]] as safeguards against letting convenience replace verification, practice, and self-direction. Evidence: [[ep-47-the-ai-pioneer-who-decided-privacy-matters-more-than-hype]], [[ep278-ai-shidai-bu-juan-zhuanye-juan-shenme-renzai-zhongliu-tebie-cehua-02-lhvsbropwclouwshe-2-fczwnwzz]], [[AugmentedIntelligence]], [[JonathanSchaeffer]], [[HumanJudgmentUnderAI]], [[AIVerification]], [[AIHallucination]], [[NonAlgorithmicCapabilities]], [[HumanAgencyUnderAI]], [[HumanConnectionUnderAI]].
 - [[HumanAuthorshipPremium]] and [[AlgorithmAversion]] show that perceived AI authorship can reduce trust in emotionally or identity-relevant products. Evidence: [[HumanAuthorshipPremium]], [[AlgorithmAversion]].
@@ -77,7 +77,7 @@ Science, health, climate, and space claims become credible when evidence, physic
 
 ### Work, Education, and Society
 
-Work and education claims connect AI and automation to production systems, review, career context, motivation, attention limits, and grounded human judgment.
+Work and education claims connect AI and automation to production systems, review, career context, motivation, attention limits, creative-process discipline, and grounded human judgment.
 
 - AI and automation change work only when they reorganize production roles, workflows, and review responsibilities, from [[AIVideoProductionWorkflow]] and [[RollingAI]] to [[HeadlessSoftware]], [[Paperboy]], and [[HumanJudgmentUnderAI]]. Evidence: [[AIVideoProductionWorkflow]], [[JiaZhangke]], [[FilmRealityBeyondRealism]], [[LiveActionFilmUnderAI]], [[CreativeLaborAIBacklash]], [[AIPublicLikenessGeneration]], [[AITrainingCopyrightDispute]], [[AIEnergyBottleneck]], [[RollingAI]], [[HeadlessSoftware]], [[Paperboy]], [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].
 - Workplace AI readiness depends on ownership, baselines, training, and role-specific workflows: [[WorkplaceAIReadinessGap]], [[Microsoft365CopilotAdoption]], [[AIAdoptionBaselineMeasurement]], [[AIOperationsRole]], [[FrontlineAIEnablement]], and [[HumanJudgmentUnderAI]] show that license access or worker experimentation is not enough. Evidence: [[WorkplaceAIReadinessGap]], [[Microsoft365CopilotAdoption]], [[AIAdoptionBaselineMeasurement]], [[AIOperationsRole]], [[FrontlineAIEnablement]], [[HumanJudgmentUnderAI]], [[ShadowAI]], [[BusinessLedAITransformation]], [[JimSpignardo]], [[Proarc]], [[ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise]].

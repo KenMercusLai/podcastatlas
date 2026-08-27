@@ -130,8 +130,30 @@
         "Mujian",
         "Roi"
       ]
+    },
+    {
+      "global_candidate": false,
+      "id": "creative-work-depends-on-felt-attention",
+      "qualifications": [
+        "The claim is grounded in one process-oriented Huberman Lab Essentials episode and should not be treated as a formal neuroscience model of creativity.",
+        "The source observations on subconscious processing, meditation, live performance, and surgery healing remain source-scoped."
+      ],
+      "statement": "The Rubin Huberman Lab source adds a culture-and-media creativity branch: [[CreativityAsFeltProcess]], [[CreativeApertureShift]], [[ArtisticFeedbackBoundary]], [[CreativePhaseSeparation]], [[SubconsciousCreativeIncubation]], [[SelfDoubtAsCreativeCheck]], and [[AwarenessMeditationStoryDropping]] show art-making as felt attention, direct testing, protected taste, phase-specific deadlines, proportionate doubt, and story-dropping awareness rather than inspiration or discipline alone.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "essentials-how-to-access-your-creativity-rick-rubin-scim7816635332",
+        "CreativityAsFeltProcess",
+        "CreativeApertureShift",
+        "ArtisticFeedbackBoundary",
+        "CreativePhaseSeparation",
+        "SubconsciousCreativeIncubation",
+        "SelfDoubtAsCreativeCheck",
+        "AwarenessMeditationStoryDropping",
+        "RickRubin",
+        "HubermanLab"
+      ]
     }
   ],
-  "summary": "The cultural sources use literature, folklore, games, sports strategy, physical media, device histories, platform interfaces, and brands to examine politics, identity, evidence, agency, reception, and human meaning rather than treating culture only as plot or entertainment. The 70mm Marketplace Tech episode adds analog exhibition as cultural technology: old film formats can become current when material format, venue memory, scarce craft, and release-window demand reinforce one another. Existing branches keep source-bound attribution, rule-world folklore, weird fiction, AI interactive entertainment, brand meaning, and platform-shaped reading or listening distinct from pure nostalgia or marketing.",
+  "summary": "The cultural sources use literature, folklore, games, sports strategy, physical media, device histories, platform interfaces, and brands to examine politics, identity, evidence, agency, reception, and human meaning rather than treating culture only as plot or entertainment. The 70mm Marketplace Tech episode adds analog exhibition as cultural technology: old film formats can become current when material format, venue memory, scarce craft, and release-window demand reinforce one another. Existing branches keep source-bound attribution, rule-world folklore, weird fiction, AI interactive entertainment, brand meaning, and platform-shaped reading or listening distinct from pure nostalgia or marketing. The Rubin Huberman Lab episode adds creativity as felt attention and protected taste: art-making depends on direct testing, attention shifts, phase-specific completion, self-doubt as check, and awareness of invented stories rather than only output or inspiration.",
   "topic_id": "culture-and-media"
 }

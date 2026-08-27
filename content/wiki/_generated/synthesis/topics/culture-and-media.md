@@ -4,15 +4,15 @@ generated: true
 topic_id: culture-and-media
 title: "Culture and Media"
 last_updated: 2026-08-27
-as_of_overview_commit: 07701c86df8dada747e159d63be0fd0eaaa56fea
-input_digest: 69d8d0eec1a195480a4e0f5f18d81f1a84f635fdff48469e9d1e2ec292b25f63
+as_of_overview_commit: 0eeb1118b4c387939e549227fe470642538540af
+input_digest: 1c5bb102e26c8e22cbdd8ceeceb96bdb391597383dabf64a4da5fc27e0d74b54
 ---
 
 # Culture and Media
 
 ## Current State
 
-The cultural sources use literature, folklore, games, sports strategy, physical media, device histories, platform interfaces, and brands to examine politics, identity, evidence, agency, reception, and human meaning rather than treating culture only as plot or entertainment. The 70mm Marketplace Tech episode adds analog exhibition as cultural technology: old film formats can become current when material format, venue memory, scarce craft, and release-window demand reinforce one another. Existing branches keep source-bound attribution, rule-world folklore, weird fiction, AI interactive entertainment, brand meaning, and platform-shaped reading or listening distinct from pure nostalgia or marketing.
+The cultural sources use literature, folklore, games, sports strategy, physical media, device histories, platform interfaces, and brands to examine politics, identity, evidence, agency, reception, and human meaning rather than treating culture only as plot or entertainment. The 70mm Marketplace Tech episode adds analog exhibition as cultural technology: old film formats can become current when material format, venue memory, scarce craft, and release-window demand reinforce one another. Existing branches keep source-bound attribution, rule-world folklore, weird fiction, AI interactive entertainment, brand meaning, and platform-shaped reading or listening distinct from pure nostalgia or marketing. The Rubin Huberman Lab episode adds creativity as felt attention and protected taste: art-making depends on direct testing, attention shifts, phase-specific completion, self-doubt as check, and awareness of invented stories rather than only output or inspiration.
 
 ## Cross-source Findings
 
@@ -90,3 +90,14 @@ The 70mm Marketplace Tech source adds that [[AnalogMoviegoingExperience]] can ma
 
 - The claim spans AI entertainment paragraphs and should stay separate from purely technical AI capability claims.
 - Generated assets, companions, or demos do not by themselves prove durable games or social platforms.
+
+### Creative Work Depends On Felt Attention
+
+The Rubin Huberman Lab source adds a culture-and-media creativity branch: [[CreativityAsFeltProcess]], [[CreativeApertureShift]], [[ArtisticFeedbackBoundary]], [[CreativePhaseSeparation]], [[SubconsciousCreativeIncubation]], [[SelfDoubtAsCreativeCheck]], and [[AwarenessMeditationStoryDropping]] show art-making as felt attention, direct testing, protected taste, phase-specific deadlines, proportionate doubt, and story-dropping awareness rather than inspiration or discipline alone.
+
+**Evidence:** [[essentials-how-to-access-your-creativity-rick-rubin-scim7816635332]], [[CreativityAsFeltProcess]], [[CreativeApertureShift]], [[ArtisticFeedbackBoundary]], [[CreativePhaseSeparation]], [[SubconsciousCreativeIncubation]], [[SelfDoubtAsCreativeCheck]], [[AwarenessMeditationStoryDropping]], [[RickRubin]], [[HubermanLab]]
+
+**Qualifications:**
+
+- The claim is grounded in one process-oriented Huberman Lab Essentials episode and should not be treated as a formal neuroscience model of creativity.
+- The source observations on subconscious processing, meditation, live performance, and surgery healing remain source-scoped.

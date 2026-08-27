@@ -1083,9 +1083,9 @@
       "url": "/wiki/concepts/analogmoviegoingexperience/"
     },
     "AndrewHuberman": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -1100,6 +1100,13 @@
           "show": "Huberman Lab",
           "title": "How to Improve Motivation & Overcome Procrastination | Dr. Masud Husain",
           "url": "/wiki/sources/how-to-improve-motivation-overcome-procrastination-dr-masud-husain-scim3386045656/"
+        },
+        {
+          "episode_file": "SCIM7816635332 [SCIM7816635332].md",
+          "key": "essentials-how-to-access-your-creativity-rick-rubin-scim7816635332",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Access Your Creativity | Rick Rubin",
+          "url": "/wiki/sources/essentials-how-to-access-your-creativity-rick-rubin-scim7816635332/"
         }
       ],
       "updated": "2026-08-27",
@@ -1367,6 +1374,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/armedfollowerintegrationcost/"
     },
+    "ArtisticFeedbackBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7816635332 [SCIM7816635332].md",
+          "key": "essentials-how-to-access-your-creativity-rick-rubin-scim7816635332",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Access Your Creativity | Rick Rubin",
+          "url": "/wiki/sources/essentials-how-to-access-your-creativity-rick-rubin-scim7816635332/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/artisticfeedbackboundary/"
+    },
     "AspirationalEmotionalPremium": {
       "episode_count": 2,
       "show_count": 2,
@@ -1545,6 +1568,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/autonomousdrivingresponsibilityboundary/"
+    },
+    "AwarenessMeditationStoryDropping": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7816635332 [SCIM7816635332].md",
+          "key": "essentials-how-to-access-your-creativity-rick-rubin-scim7816635332",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Access Your Creativity | Rick Rubin",
+          "url": "/wiki/sources/essentials-how-to-access-your-creativity-rick-rubin-scim7816635332/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/awarenessmeditationstorydropping/"
     },
     "BaSuLateHan": {
       "episode_count": 1,
@@ -3048,6 +3087,54 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/courtlegitimacyoverpatronloyalty/"
+    },
+    "CreativeApertureShift": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7816635332 [SCIM7816635332].md",
+          "key": "essentials-how-to-access-your-creativity-rick-rubin-scim7816635332",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Access Your Creativity | Rick Rubin",
+          "url": "/wiki/sources/essentials-how-to-access-your-creativity-rick-rubin-scim7816635332/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/creativeapertureshift/"
+    },
+    "CreativePhaseSeparation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7816635332 [SCIM7816635332].md",
+          "key": "essentials-how-to-access-your-creativity-rick-rubin-scim7816635332",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Access Your Creativity | Rick Rubin",
+          "url": "/wiki/sources/essentials-how-to-access-your-creativity-rick-rubin-scim7816635332/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/creativephaseseparation/"
+    },
+    "CreativityAsFeltProcess": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7816635332 [SCIM7816635332].md",
+          "key": "essentials-how-to-access-your-creativity-rick-rubin-scim7816635332",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Access Your Creativity | Rick Rubin",
+          "url": "/wiki/sources/essentials-how-to-access-your-creativity-rick-rubin-scim7816635332/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/creativityasfeltprocess/"
     },
     "CreatorGiftingDemandManufacture": {
       "episode_count": 1,
@@ -6347,9 +6434,9 @@
       "url": "/wiki/concepts/huaweismartselectioncarmodel/"
     },
     "HubermanLab": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -6364,6 +6451,13 @@
           "show": "Huberman Lab",
           "title": "How to Improve Motivation & Overcome Procrastination | Dr. Masud Husain",
           "url": "/wiki/sources/how-to-improve-motivation-overcome-procrastination-dr-masud-husain-scim3386045656/"
+        },
+        {
+          "episode_file": "SCIM7816635332 [SCIM7816635332].md",
+          "key": "essentials-how-to-access-your-creativity-rick-rubin-scim7816635332",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Access Your Creativity | Rick Rubin",
+          "url": "/wiki/sources/essentials-how-to-access-your-creativity-rick-rubin-scim7816635332/"
         }
       ],
       "updated": "2026-08-27",
@@ -11627,6 +11721,29 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/returningarmyinterdictionrisk/"
     },
+    "RickRubin": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "汉洋：挖坑、媒介枷锁、好内容、对谈、为什么做蜉蝣天地 [59b766f5-ee1d-4040-a650-a96b7b4b70d5].md",
+          "key": "hanyang-wakeng-meijie-jiasuo-hao-neirong-duitan-weishenme-zuo-fuyou-tiandi-59b766f5-ee1d-4040-a650-a96b7b4b70d5",
+          "show": "蜉蝣天地 Meanders",
+          "title": "汉洋：为什么做《蜉蝣天地》",
+          "url": "/wiki/sources/hanyang-wakeng-meijie-jiasuo-hao-neirong-duitan-weishenme-zuo-fuyou-tiandi-59b766f5-ee1d-4040-a650-a96b7b4b70d5/"
+        },
+        {
+          "episode_file": "SCIM7816635332 [SCIM7816635332].md",
+          "key": "essentials-how-to-access-your-creativity-rick-rubin-scim7816635332",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Access Your Creativity | Rick Rubin",
+          "url": "/wiki/sources/essentials-how-to-access-your-creativity-rick-rubin-scim7816635332/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/rickrubin/"
+    },
     "RidolfiPlot": {
       "episode_count": 1,
       "show_count": 1,
@@ -12224,6 +12341,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/selfconceptplasticity/"
     },
+    "SelfDoubtAsCreativeCheck": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7816635332 [SCIM7816635332].md",
+          "key": "essentials-how-to-access-your-creativity-rick-rubin-scim7816635332",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Access Your Creativity | Rick Rubin",
+          "url": "/wiki/sources/essentials-how-to-access-your-creativity-rick-rubin-scim7816635332/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/selfdoubtascreativecheck/"
+    },
     "SeventyMillimeterFilmProjection": {
       "episode_count": 1,
       "show_count": 1,
@@ -12733,6 +12866,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/sukanglatehan/"
+    },
+    "SubconsciousCreativeIncubation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7816635332 [SCIM7816635332].md",
+          "key": "essentials-how-to-access-your-creativity-rick-rubin-scim7816635332",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Access Your Creativity | Rick Rubin",
+          "url": "/wiki/sources/essentials-how-to-access-your-creativity-rick-rubin-scim7816635332/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/subconsciouscreativeincubation/"
     },
     "SufferingBasedMoralSubjecthood": {
       "episode_count": 1,
