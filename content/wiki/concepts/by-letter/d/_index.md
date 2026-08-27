@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 5712
+wiki_total_pages: 5715
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -359,6 +359,9 @@ wiki_pages:
   - key: "DexterousManipulation"
     title: "Dexterous Manipulation"
     url: "/wiki/concepts/dexterousmanipulation/"
+  - key: "DiagnosticSafetyNetting"
+    title: "Diagnostic Safety Netting / 诊断安全网"
+    url: "/wiki/concepts/diagnosticsafetynetting/"
   - key: "DiasporaCapitalManufacturingClusters"
     title: "Diaspora Capital Manufacturing Clusters"
     url: "/wiki/concepts/diasporacapitalmanufacturingclusters/"

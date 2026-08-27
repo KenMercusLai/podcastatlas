@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-27
-as_of_overview_commit: 4e8aa85810b22a108cbf0fb34c3bec7ea2a9cb86
-summary: "The wiki tracks how AI, markets, institutions, culture, history, health, and work become durable through evidence, operations, trust, judgment, and constraints."
-episode_count: 1573
-source_count: 1573
-paragraph_count: 303
+as_of_overview_commit: 86c4b7c6bf094776dc7357eff00042f467a73316
+summary: "The wiki tracks durable AI, market, governance, cultural, health, and work claims through evidence, operations, trust, judgment, and constraints."
+episode_count: 1574
+source_count: 1574
+paragraph_count: 304
 topic_count: 8
 ---
 
@@ -22,7 +22,7 @@ topic_count: 8
 - State capacity appears as enforceable controls over appointments, territory, households, standards, symbols, and punishment, but [[PowerExitTrap|exit traps]] and backlash show that control does not automatically create social support.
 - [[UnderseaDataCables]] show contemporary geopolitics moving into physical internet routes: [[UnitedStates]] funding for [[Caribbean]] and [[CentralAmerica]] cable replacement, competition with [[China]], vendor concerns involving [[Russia]], [[CableLandingPointSecurity]], and [[CableNetworkResilience]] make cloud and financial connectivity part of strategic infrastructure rather than only telecom operations.
 - [[neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716]] adds a functional emotion-regulation branch: [[EmotionsAsFunctionalControlStates]] treats emotions as useful control states for decision and motivation, while [[EmotionalGranularity]], [[CognitiveReappraisalEarlyIntervention]], [[AutonomicStressTraining]], and [[TaskSwitchingResidue]] frame regulation as monitoring, differentiating, reframing early, shaping environments, respecting body signals, and managing transition costs rather than removing emotion.
-- [[FemaleHormoneHealthPhenotyping]] extends the health topic by treating women's hormone health as a life-course phenotype: [[SaraGottfried]] links family history, trauma, cortisol, sex hormones, thyroid, micronutrients, gut function, insulin, glucose, cycle and life-stage timing, [[PCOSCardiometabolicRisk]], [[OralContraceptiveInformedConsent]], [[PerimenopauseBrainMetabolism]], [[ContinuousGlucoseMonitoring]], and [[CoronaryArteryCalciumMidlifeScreening]] into individualized measurement rather than a universal protocol.
+- [[MissedDiagnosisRisk]] is mitigated less by maximal testing than by [[DiagnosticSafetyNetting]]: [[MedicalDiagnosticReasoning]], [[DoctorPatientCommunication]], and [[SecondOpinionStrategy]] keep first-visit uncertainty active through suspected diagnoses, unexcluded dangers, return or emergency triggers, report tracking, and qualified second opinions.
 - Across software, AI services, CPG, climate hardware, mobile hardware, robotics, cybersecurity, banking, investing, and public building, capability claims become useful only after distribution, verification, supply chains, compliance, operations, customer trust, or pricing fit are solved.
 
 ## Synthesis by Domain
@@ -70,7 +70,7 @@ Personal and collective judgment depends on emotion regulation, trust calibratio
 
 ### Science, Health, and Climate
 
-Science and health claims require evidence, clinical context, physical constraints, and follow-through. The topic now includes female hormone phenotyping, metabolic psychiatry, spine care, medical AI privacy, Wudang medicine, science policy, launch infrastructure, climate adaptation, carbon removal, insurance planning, and oncology vaccines.
+Science and health claims require evidence, clinical context, physical constraints, and follow-through. This topic now includes diagnostic safety netting for missed-diagnosis risk, female hormone phenotyping, metabolic psychiatry, spine care, medical AI privacy, Wudang medicine, science policy, launch infrastructure, climate adaptation, carbon removal, insurance planning, and oncology vaccines.
 
 - [[MetabolicPsychiatry]] adds a nutrition-and-mental-health branch: [[KetogenicDietMentalHealth]], [[CarbohydrateRestrictionMentalHealth]], [[KetogenicDietEpilepsyEvidence]], and [[MitochondrialMentalHealthModel]] make diet and ketosis plausible brain interventions, but [[PsychiatricMedicationSupervisionBoundary]] keeps severe illness and medication changes inside professional care. Evidence: [[MetabolicPsychiatry]], [[KetogenicDietMentalHealth]], [[CarbohydrateRestrictionMentalHealth]], [[KetogenicDietEpilepsyEvidence]], [[MitochondrialMentalHealthModel]], [[PsychiatricMedicationSupervisionBoundary]], [[essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786]].
 - [[FemaleHormoneHealthPhenotyping]] extends the health topic by treating women's hormone health as a life-course phenotype: [[SaraGottfried]] links family history, trauma, cortisol, sex hormones, thyroid, micronutrients, gut function, insulin, glucose, cycle and life-stage timing, [[PCOSCardiometabolicRisk]], [[OralContraceptiveInformedConsent]], [[PerimenopauseBrainMetabolism]], [[ContinuousGlucoseMonitoring]], and [[CoronaryArteryCalciumMidlifeScreening]] into individualized measurement rather than a universal protocol. Evidence: [[FemaleHormoneHealthPhenotyping]], [[SaraGottfried]], [[PCOSCardiometabolicRisk]], [[OralContraceptiveInformedConsent]], [[PerimenopauseBrainMetabolism]], [[ContinuousGlucoseMonitoring]], [[CoronaryArteryCalciumMidlifeScreening]], [[WomensHealthDiagnosticGap]], [[MenopauseClinicalSharedDecision]], [[MenopauseInformationTriage]], [[essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929]].

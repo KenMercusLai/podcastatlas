@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-27] ingest | VOL.218韩杰医生事件后四大门诊坦白局：不对立不甩锅，医患如何联手打赢防漏诊的“排雷战”？
+
+Added source page for a 这病说来话长 episode with 阿汤, 亚萌, 蒋宇亮, 银欣, and 马浩宁 on missed diagnosis risk, first-visit uncertainty, diagnostic safety netting, report tracking, low-cost safety checks, second opinions, and qualified-care boundaries. Created 阿汤, 亚萌, 蒋宇亮, 银欣, Diagnostic Safety Netting, Missed Diagnosis Risk, and Second Opinion Strategy pages; updated 这病说来话长, 马浩宁, Doctor-Patient Communication, Medical Diagnostic Reasoning, index, and overview. No settled contradiction found; the source keeps clinical uncertainty, overtesting, imaging/pathology limits, alternative medicine, and health-product claims bounded by qualified medical care.
+
 ## [2026-08-27] ingest | How to Improve Motivation & Overcome Procrastination | Dr. Masud Husain
 
 Added source page for a Huberman Lab episode with Masud Husain on motivation as reward-effort calculation, apathy as impaired action initiation, dopamine's wanting/liking and inverted-U boundaries, attention capacity, ADHD caution, self-concept plasticity, addiction, and cognitive resilience. Created Masud Husain, Motivation Reward-Effort Calculation, Apathy Action Initiation, Dopamine Inverted U, Attention Capacity Selection, Cognitive Resilience, and Self-Concept Plasticity pages; updated Huberman Lab, Andrew Huberman, Dopamine Wanting Loop, and Procrastination Self-Regulation Failure. No settled contradiction found; medication, diagnosis, stimulant, and Alzheimer-risk claims remain source-scoped.

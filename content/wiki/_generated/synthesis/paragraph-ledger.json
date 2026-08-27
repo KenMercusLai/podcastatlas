@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "bcf5da092675d5cb07b340440b2379b89742a27440551f90025103457a9495c5",
       "9bc5958f730904d72bc7aba2e5ee0d0c5cd364d33313bfe06eab996c379d1d9b",
       "c1a617b2fa199d8ee7c282e4a84aff4889def901c253e2dd2a0ecd8348e77457",
       "7525505025c7a4d624db19ad8a83c980734556add4d75c88012eca92f6824639",
@@ -305,11 +306,35 @@
       "16d531495e2a6294ae198d0b95a352e519f488fcca1dbdae1f416758d1cfa576",
       "a9fec3ceb1b343b1fafeebc9ab2903b46238a861f9aaafd9d15b1460340a08b5"
     ],
-    "paragraph_count": 303
+    "paragraph_count": 304
   },
-  "overview_commit": "4e8aa85810b22a108cbf0fb34c3bec7ea2a9cb86",
-  "overview_digest": "014b25863e8a44f57c0f48cf8a417f433379b5b0058635a7508fe16c5ac84644",
+  "overview_commit": "86c4b7c6bf094776dc7357eff00042f467a73316",
+  "overview_digest": "906dcfcb302a90274da618eb6617764f0a4f6e411534d5f677f960c48a09a4f6",
   "paragraphs": [
+    {
+      "id": "bcf5da092675d5cb07b340440b2379b89742a27440551f90025103457a9495c5",
+      "primary_topic": "science-health-and-climate",
+      "secondary_topics": [],
+      "text": "The latest addition is [[vol-218-hanjie-yisheng-shijian-hou-sida-menzhen-tanbaiju-bu-duili-bu-shuaiguo-yihuan-ruhe-lianshou-daying-fang-louzhen-de-paileizhan-lgbs8aaxguh-xzga8iuewwc7ypvm|VOL.218韩杰医生事件后四大门诊坦白局：不对立不甩锅，医患如何联手打赢防漏诊的“排雷战”？]], a [[ZheBingShuoLaiHuaChang|这病说来话长]] episode with [[Atang|阿汤]], [[YaMengDoctor|亚萌]], [[JiangYuliangDoctor|蒋宇亮]], [[YinXinDoctor|银欣]], and [[MaHaoning|马浩宁]] on first-visit uncertainty, missed diagnosis, and follow-up. It adds [[Atang]], [[YaMengDoctor]], [[JiangYuliangDoctor]], [[YinXinDoctor]], [[DiagnosticSafetyNetting]], [[MissedDiagnosisRisk]], and [[SecondOpinionStrategy]], while extending [[ZheBingShuoLaiHuaChang]], [[MaHaoning]], [[MedicalDiagnosticReasoning]], and [[DoctorPatientCommunication]]. Its core synthesis is that \"observe for now\" only works as care when paired with a safety net: suspected diagnosis, still-unexcluded dangers, return or emergency triggers, report tracking, and qualified second opinions keep medical uncertainty from becoming abandonment. No settled contradiction is recorded; the episode keeps overtesting, pathology, imaging, alternative medicine, and health-product claims bounded by clinical context.",
+      "topic_scores": {
+        "business-and-markets": 1,
+        "science-health-and-climate": 3
+      },
+      "wikilinks": [
+        "Atang",
+        "DiagnosticSafetyNetting",
+        "DoctorPatientCommunication",
+        "JiangYuliangDoctor",
+        "MaHaoning",
+        "MedicalDiagnosticReasoning",
+        "MissedDiagnosisRisk",
+        "SecondOpinionStrategy",
+        "YaMengDoctor",
+        "YinXinDoctor",
+        "ZheBingShuoLaiHuaChang",
+        "vol-218-hanjie-yisheng-shijian-hou-sida-menzhen-tanbaiju-bu-duili-bu-shuaiguo-yihuan-ruhe-lianshou-daying-fang-louzhen-de-paileizhan-lgbs8aaxguh-xzga8iuewwc7ypvm"
+      ]
+    },
     {
       "id": "9bc5958f730904d72bc7aba2e5ee0d0c5cd364d33313bfe06eab996c379d1d9b",
       "primary_topic": "history-and-geopolitics",

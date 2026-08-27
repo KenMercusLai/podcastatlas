@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 5712
+wiki_total_pages: 5715
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -260,6 +260,9 @@ wiki_pages:
   - key: "SeasonalInventoryFinancing"
     title: "Seasonal Inventory Financing"
     url: "/wiki/concepts/seasonalinventoryfinancing/"
+  - key: "SecondOpinionStrategy"
+    title: "Second Opinion Strategy / 第二意见策略"
+    url: "/wiki/concepts/secondopinionstrategy/"
   - key: "SecondRenaissance"
     title: "Second Renaissance"
     url: "/wiki/concepts/secondrenaissance/"

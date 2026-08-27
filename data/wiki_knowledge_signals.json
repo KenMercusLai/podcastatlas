@@ -1475,6 +1475,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/assisteddrivingtrustformation/"
     },
+    "Atang": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgBs8AaxGUH_xzGa8iUEwwc7ypvM [lgBs8AaxGUH_xzGa8iUEwwc7ypvM].md",
+          "key": "vol-218-hanjie-yisheng-shijian-hou-sida-menzhen-tanbaiju-bu-duili-bu-shuaiguo-yihuan-ruhe-lianshou-daying-fang-louzhen-de-paileizhan-lgbs8aaxguh-xzga8iuewwc7ypvm",
+          "show": "这病说来话长",
+          "title": "VOL.218韩杰医生事件后四大门诊坦白局：不对立不甩锅，医患如何联手打赢防漏诊的“排雷战”？",
+          "url": "/wiki/sources/vol-218-hanjie-yisheng-shijian-hou-sida-menzhen-tanbaiju-bu-duili-bu-shuaiguo-yihuan-ruhe-lianshou-daying-fang-louzhen-de-paileizhan-lgbs8aaxguh-xzga8iuewwc7ypvm/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/atang/"
+    },
     "AthletePostRetirementIdentity": {
       "episode_count": 1,
       "show_count": 1,
@@ -3753,6 +3769,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/derry/"
     },
+    "DiagnosticSafetyNetting": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgBs8AaxGUH_xzGa8iUEwwc7ypvM [lgBs8AaxGUH_xzGa8iUEwwc7ypvM].md",
+          "key": "vol-218-hanjie-yisheng-shijian-hou-sida-menzhen-tanbaiju-bu-duili-bu-shuaiguo-yihuan-ruhe-lianshou-daying-fang-louzhen-de-paileizhan-lgbs8aaxguh-xzga8iuewwc7ypvm",
+          "show": "这病说来话长",
+          "title": "VOL.218韩杰医生事件后四大门诊坦白局：不对立不甩锅，医患如何联手打赢防漏诊的“排雷战”？",
+          "url": "/wiki/sources/vol-218-hanjie-yisheng-shijian-hou-sida-menzhen-tanbaiju-bu-duili-bu-shuaiguo-yihuan-ruhe-lianshou-daying-fang-louzhen-de-paileizhan-lgbs8aaxguh-xzga8iuewwc7ypvm/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/diagnosticsafetynetting/"
+    },
     "DigitRobot": {
       "episode_count": 1,
       "show_count": 1,
@@ -3768,6 +3800,36 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/digitrobot/"
+    },
+    "DoctorPatientCommunication": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "EP274 如何找到适合自己的“更年期答案”？ [li2BP1rTITdNVc04rMIZyfg1tXfH].md",
+          "key": "ep274-ruhe-zhaodao-shihe-ziji-de-gengnianqi-daan-li2bp1rtitdnvc04rmizyfg1txfh",
+          "show": "Talk三联",
+          "title": "EP274 如何找到适合自己的“更年期答案”？",
+          "url": "/wiki/sources/ep274-ruhe-zhaodao-shihe-ziji-de-gengnianqi-daan-li2bp1rtitdnvc04rmizyfg1txfh/"
+        },
+        {
+          "episode_file": "70.医生，你在想什么：少看百度，以及吃药时别吃西柚啊 [668238394].md",
+          "key": "70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394",
+          "show": "蜜獾吃书",
+          "title": "70.医生，你在想什么：少看百度，以及吃药时别吃西柚啊",
+          "url": "/wiki/sources/70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394/"
+        },
+        {
+          "episode_file": "lgBs8AaxGUH_xzGa8iUEwwc7ypvM [lgBs8AaxGUH_xzGa8iUEwwc7ypvM].md",
+          "key": "vol-218-hanjie-yisheng-shijian-hou-sida-menzhen-tanbaiju-bu-duili-bu-shuaiguo-yihuan-ruhe-lianshou-daying-fang-louzhen-de-paileizhan-lgbs8aaxguh-xzga8iuewwc7ypvm",
+          "show": "这病说来话长",
+          "title": "VOL.218韩杰医生事件后四大门诊坦白局：不对立不甩锅，医患如何联手打赢防漏诊的“排雷战”？",
+          "url": "/wiki/sources/vol-218-hanjie-yisheng-shijian-hou-sida-menzhen-tanbaiju-bu-duili-bu-shuaiguo-yihuan-ruhe-lianshou-daying-fang-louzhen-de-paileizhan-lgbs8aaxguh-xzga8iuewwc7ypvm/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/doctorpatientcommunication/"
     },
     "DomesticBagSupplyChainUpgrade": {
       "episode_count": 1,
@@ -7633,6 +7695,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/jiaxu/"
     },
+    "JiangYuliangDoctor": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgBs8AaxGUH_xzGa8iUEwwc7ypvM [lgBs8AaxGUH_xzGa8iUEwwc7ypvM].md",
+          "key": "vol-218-hanjie-yisheng-shijian-hou-sida-menzhen-tanbaiju-bu-duili-bu-shuaiguo-yihuan-ruhe-lianshou-daying-fang-louzhen-de-paileizhan-lgbs8aaxguh-xzga8iuewwc7ypvm",
+          "show": "这病说来话长",
+          "title": "VOL.218韩杰医生事件后四大门诊坦白局：不对立不甩锅，医患如何联手打赢防漏诊的“排雷战”？",
+          "url": "/wiki/sources/vol-218-hanjie-yisheng-shijian-hou-sida-menzhen-tanbaiju-bu-duili-bu-shuaiguo-yihuan-ruhe-lianshou-daying-fang-louzhen-de-paileizhan-lgbs8aaxguh-xzga8iuewwc7ypvm/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/jiangyuliangdoctor/"
+    },
     "JidduKrishnamurti": {
       "episode_count": 1,
       "show_count": 1,
@@ -9550,9 +9628,9 @@
       "url": "/wiki/entities/lyubu/"
     },
     "MaHaoning": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lkVJQ45DUKdjpesxikWEC0Zrglmg [lkVJQ45DUKdjpesxikWEC0Zrglmg].md",
@@ -9560,6 +9638,13 @@
           "show": "这病说来话长",
           "title": "VOL.219视频播客｜当代年轻人腰突自救指南：骨科医生交底，别把你的腰当消耗品！",
           "url": "/wiki/sources/vol-219-shipin-boke-dangdai-nianqingren-yaotu-zijiu-zhinan-guke-yisheng-jiaodi-bieba-nide-yao-dang-xiaohaopin-lkvjq45dukdjpesxikwec0zrglmg/"
+        },
+        {
+          "episode_file": "lgBs8AaxGUH_xzGa8iUEwwc7ypvM [lgBs8AaxGUH_xzGa8iUEwwc7ypvM].md",
+          "key": "vol-218-hanjie-yisheng-shijian-hou-sida-menzhen-tanbaiju-bu-duili-bu-shuaiguo-yihuan-ruhe-lianshou-daying-fang-louzhen-de-paileizhan-lgbs8aaxguh-xzga8iuewwc7ypvm",
+          "show": "这病说来话长",
+          "title": "VOL.218韩杰医生事件后四大门诊坦白局：不对立不甩锅，医患如何联手打赢防漏诊的“排雷战”？",
+          "url": "/wiki/sources/vol-218-hanjie-yisheng-shijian-hou-sida-menzhen-tanbaiju-bu-duili-bu-shuaiguo-yihuan-ruhe-lianshou-daying-fang-louzhen-de-paileizhan-lgbs8aaxguh-xzga8iuewwc7ypvm/"
         }
       ],
       "updated": "2026-08-27",
@@ -9828,6 +9913,29 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/mcmurdostation/"
+    },
+    "MedicalDiagnosticReasoning": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "70.医生，你在想什么：少看百度，以及吃药时别吃西柚啊 [668238394].md",
+          "key": "70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394",
+          "show": "蜜獾吃书",
+          "title": "70.医生，你在想什么：少看百度，以及吃药时别吃西柚啊",
+          "url": "/wiki/sources/70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394/"
+        },
+        {
+          "episode_file": "lgBs8AaxGUH_xzGa8iUEwwc7ypvM [lgBs8AaxGUH_xzGa8iUEwwc7ypvM].md",
+          "key": "vol-218-hanjie-yisheng-shijian-hou-sida-menzhen-tanbaiju-bu-duili-bu-shuaiguo-yihuan-ruhe-lianshou-daying-fang-louzhen-de-paileizhan-lgbs8aaxguh-xzga8iuewwc7ypvm",
+          "show": "这病说来话长",
+          "title": "VOL.218韩杰医生事件后四大门诊坦白局：不对立不甩锅，医患如何联手打赢防漏诊的“排雷战”？",
+          "url": "/wiki/sources/vol-218-hanjie-yisheng-shijian-hou-sida-menzhen-tanbaiju-bu-duili-bu-shuaiguo-yihuan-ruhe-lianshou-daying-fang-louzhen-de-paileizhan-lgbs8aaxguh-xzga8iuewwc7ypvm/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/medicaldiagnosticreasoning/"
     },
     "MedicalDogmaTrustRepair": {
       "episode_count": 3,
@@ -10260,6 +10368,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/militaryrewardeunuchgatekeeping/"
+    },
+    "MissedDiagnosisRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgBs8AaxGUH_xzGa8iUEwwc7ypvM [lgBs8AaxGUH_xzGa8iUEwwc7ypvM].md",
+          "key": "vol-218-hanjie-yisheng-shijian-hou-sida-menzhen-tanbaiju-bu-duili-bu-shuaiguo-yihuan-ruhe-lianshou-daying-fang-louzhen-de-paileizhan-lgbs8aaxguh-xzga8iuewwc7ypvm",
+          "show": "这病说来话长",
+          "title": "VOL.218韩杰医生事件后四大门诊坦白局：不对立不甩锅，医患如何联手打赢防漏诊的“排雷战”？",
+          "url": "/wiki/sources/vol-218-hanjie-yisheng-shijian-hou-sida-menzhen-tanbaiju-bu-duili-bu-shuaiguo-yihuan-ruhe-lianshou-daying-fang-louzhen-de-paileizhan-lgbs8aaxguh-xzga8iuewwc7ypvm/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/misseddiagnosisrisk/"
     },
     "MissionAlignedVendorSwitching": {
       "episode_count": 1,
@@ -12840,6 +12964,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/scottbessent/"
+    },
+    "SecondOpinionStrategy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgBs8AaxGUH_xzGa8iUEwwc7ypvM [lgBs8AaxGUH_xzGa8iUEwwc7ypvM].md",
+          "key": "vol-218-hanjie-yisheng-shijian-hou-sida-menzhen-tanbaiju-bu-duili-bu-shuaiguo-yihuan-ruhe-lianshou-daying-fang-louzhen-de-paileizhan-lgbs8aaxguh-xzga8iuewwc7ypvm",
+          "show": "这病说来话长",
+          "title": "VOL.218韩杰医生事件后四大门诊坦白局：不对立不甩锅，医患如何联手打赢防漏诊的“排雷战”？",
+          "url": "/wiki/sources/vol-218-hanjie-yisheng-shijian-hou-sida-menzhen-tanbaiju-bu-duili-bu-shuaiguo-yihuan-ruhe-lianshou-daying-fang-louzhen-de-paileizhan-lgbs8aaxguh-xzga8iuewwc7ypvm/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/secondopinionstrategy/"
     },
     "SeemaSanghavi": {
       "episode_count": 1,
@@ -15687,6 +15827,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/xunyou/"
     },
+    "YaMengDoctor": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgBs8AaxGUH_xzGa8iUEwwc7ypvM [lgBs8AaxGUH_xzGa8iUEwwc7ypvM].md",
+          "key": "vol-218-hanjie-yisheng-shijian-hou-sida-menzhen-tanbaiju-bu-duili-bu-shuaiguo-yihuan-ruhe-lianshou-daying-fang-louzhen-de-paileizhan-lgbs8aaxguh-xzga8iuewwc7ypvm",
+          "show": "这病说来话长",
+          "title": "VOL.218韩杰医生事件后四大门诊坦白局：不对立不甩锅，医患如何联手打赢防漏诊的“排雷战”？",
+          "url": "/wiki/sources/vol-218-hanjie-yisheng-shijian-hou-sida-menzhen-tanbaiju-bu-duili-bu-shuaiguo-yihuan-ruhe-lianshou-daying-fang-louzhen-de-paileizhan-lgbs8aaxguh-xzga8iuewwc7ypvm/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/yamengdoctor/"
+    },
     "Yadea": {
       "episode_count": 1,
       "show_count": 1,
@@ -16169,6 +16325,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/yijingfortress/"
+    },
+    "YinXinDoctor": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgBs8AaxGUH_xzGa8iUEwwc7ypvM [lgBs8AaxGUH_xzGa8iUEwwc7ypvM].md",
+          "key": "vol-218-hanjie-yisheng-shijian-hou-sida-menzhen-tanbaiju-bu-duili-bu-shuaiguo-yihuan-ruhe-lianshou-daying-fang-louzhen-de-paileizhan-lgbs8aaxguh-xzga8iuewwc7ypvm",
+          "show": "这病说来话长",
+          "title": "VOL.218韩杰医生事件后四大门诊坦白局：不对立不甩锅，医患如何联手打赢防漏诊的“排雷战”？",
+          "url": "/wiki/sources/vol-218-hanjie-yisheng-shijian-hou-sida-menzhen-tanbaiju-bu-duili-bu-shuaiguo-yihuan-ruhe-lianshou-daying-fang-louzhen-de-paileizhan-lgbs8aaxguh-xzga8iuewwc7ypvm/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/yinxindoctor/"
     },
     "YinXunLateHan": {
       "episode_count": 3,
@@ -16671,9 +16843,9 @@
       "url": "/wiki/entities/zhaoyanlatehan/"
     },
     "ZheBingShuoLaiHuaChang": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "loFs520pS1eVva8naFSnRKcbvgJZ [loFs520pS1eVva8naFSnRKcbvgJZ].md",
@@ -16688,6 +16860,13 @@
           "show": "这病说来话长",
           "title": "VOL.219视频播客｜当代年轻人腰突自救指南：骨科医生交底，别把你的腰当消耗品！",
           "url": "/wiki/sources/vol-219-shipin-boke-dangdai-nianqingren-yaotu-zijiu-zhinan-guke-yisheng-jiaodi-bieba-nide-yao-dang-xiaohaopin-lkvjq45dukdjpesxikwec0zrglmg/"
+        },
+        {
+          "episode_file": "lgBs8AaxGUH_xzGa8iUEwwc7ypvM [lgBs8AaxGUH_xzGa8iUEwwc7ypvM].md",
+          "key": "vol-218-hanjie-yisheng-shijian-hou-sida-menzhen-tanbaiju-bu-duili-bu-shuaiguo-yihuan-ruhe-lianshou-daying-fang-louzhen-de-paileizhan-lgbs8aaxguh-xzga8iuewwc7ypvm",
+          "show": "这病说来话长",
+          "title": "VOL.218韩杰医生事件后四大门诊坦白局：不对立不甩锅，医患如何联手打赢防漏诊的“排雷战”？",
+          "url": "/wiki/sources/vol-218-hanjie-yisheng-shijian-hou-sida-menzhen-tanbaiju-bu-duili-bu-shuaiguo-yihuan-ruhe-lianshou-daying-fang-louzhen-de-paileizhan-lgbs8aaxguh-xzga8iuewwc7ypvm/"
         }
       ],
       "updated": "2026-08-27",

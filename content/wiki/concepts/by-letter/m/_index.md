@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 5712
+wiki_total_pages: 5715
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -599,6 +599,9 @@ wiki_pages:
   - key: "MinnanRitualNetwork"
     title: "Minnan Ritual Network / 闽南仪式网络"
     url: "/wiki/concepts/minnanritualnetwork/"
+  - key: "MissedDiagnosisRisk"
+    title: "Missed Diagnosis Risk / 漏诊风险"
+    url: "/wiki/concepts/misseddiagnosisrisk/"
   - key: "MissingMiddle"
     title: "Missing Middle"
     url: "/wiki/concepts/missingmiddle/"

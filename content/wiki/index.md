@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.218韩杰医生事件后四大门诊坦白局：不对立不甩锅，医患如何联手打赢防漏诊的“排雷战”？](sources/vol-218-hanjie-yisheng-shijian-hou-sida-menzhen-tanbaiju-bu-duili-bu-shuaiguo-yihuan-ruhe-lianshou-daying-fang-louzhen-de-paileizhan-lgbs8aaxguh-xzga8iuewwc7ypvm.md) — 这病说来话长 episode with 阿汤, 亚萌, 蒋宇亮, 银欣, and 马浩宁 on missed diagnosis risk, diagnostic safety-netting, first-visit uncertainty, report tracking, second opinions, and qualified-care boundaries.
 - [Essentials: How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried](sources/essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929.md) — Huberman Lab Essentials episode with Sara Gottfried on female hormone phenotyping, PCOS cardiometabolic risk, oral contraceptive informed consent, perimenopause brain metabolism, and coronary artery calcium screening.
 - [Neuroscience of Emotions & Tools for Improving Emotion Regulation | Dr. Ralph Adolphs](sources/neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716.md) — Huberman Lab episode with Ralph Adolphs on emotions as functional control states, regulation, amygdala fear dissociation, social inference limits, body mapping, and task switching.
 - [VOL.219视频播客｜当代年轻人腰突自救指南：骨科医生交底，别把你的腰当消耗品！](sources/vol-219-shipin-boke-dangdai-nianqingren-yaotu-zijiu-zhinan-guke-yisheng-jiaodi-bieba-nide-yao-dang-xiaohaopin-lkvjq45dukdjpesxikwec0zrglmg.md) — 这病说来话长 episode with 马浩宁 on lumbar disc herniation, imaging-versus-symptom interpretation, surgery thresholds, rehabilitation pacing, neutral lumbar position, and daily movement mechanics.
@@ -1589,8 +1590,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Antonio Damasio](entities/AntonioDamasio.md) — Decision-and-emotion reference used to show that emotion supports motivation and choice.
 - [Paul Ekman](entities/PaulEkman.md) — Facial-expression research reference whose influence is acknowledged and qualified by the Adolphs episode.
 - [Patient SM](entities/PatientSM.md) — Amygdala-lesion research case used to distinguish fear perception, external-threat fear, and internal panic.
-- [这病说来话长 / Zhe Bing Shuo Lai Hua Chang](entities/ZheBingShuoLaiHuaChang.md) — Chinese medical-literacy podcast represented by oncology and orthopedics episodes that translate specialist care while preserving clinical boundaries.
-- [马浩宁 / Ma Haoning](entities/MaHaoning.md) — Spine-surgery guest explaining lumbar disc herniation, symptom-driven care, surgery tradeoffs, rehabilitation pacing, and lumbar neutral position.
+- [这病说来话长 / Zhe Bing Shuo Lai Hua Chang](entities/ZheBingShuoLaiHuaChang.md) — Chinese medical-literacy podcast represented by oncology, orthopedics, and outpatient diagnostic-safety episodes that translate specialist care while preserving clinical boundaries.
+- [马浩宁 / Ma Haoning](entities/MaHaoning.md) — Medical guest explaining lumbar disc herniation, symptom-driven spine care, rehabilitation pacing, outpatient return thresholds, and low-cost safety checks.
+- [阿汤 / A Tang](entities/Atang.md) — Host voice in VOL.218, turning missed-diagnosis anxiety into patient-facing questions about diagnosis, unexcluded risk, return triggers, and report access.
+- [亚萌 / Ya Meng](entities/YaMengDoctor.md) — Dermatology-side guest explaining rash uncertainty, diagnostic treatment, short follow-up windows, and return conditions.
+- [蒋宇亮 / Jiang Yuliang](entities/JiangYuliangDoctor.md) — Gastroenterology-side guest explaining first-visit triage, abdominal-pain ambiguity, dangerous-disease screening, and test follow-up.
+- [银欣 / Yin Xin](entities/YinXinDoctor.md) — Imaging-side guest explaining test limits, clinical-question quality on imaging requests, and report interpretation boundaries.
 - [Alex Theatre](entities/AlexTheatre.md) — Historic Glendale movie palace used by Marketplace Tech as a case of rapid 70mm retrofit and analog exhibition revival.
 - [Miles Williams](entities/MilesWilliams.md) — Alex Theatre artistic director explaining 70mm projection, retrofit constraints, and analog moviegoing appeal.
 - [Daymond John](entities/DaymondJohn.md) — FUBU founder and Advice Line guest using story, numbers, resilience, and staged proof to evaluate early founders.
@@ -9544,6 +9549,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Diagnostic Safety Netting / 诊断安全网](concepts/DiagnosticSafetyNetting.md) — Follow-up structure for uncertain first visits, covering observation windows, return triggers, report tracking, and low-cost patient-safety checks.
+- [Missed Diagnosis Risk / 漏诊风险](concepts/MissedDiagnosisRisk.md) — Safety frame for symptom overlap, evolving disease, test limits, chronic-condition masking, and follow-up as mitigation.
+- [Second Opinion Strategy / 第二意见策略](concepts/SecondOpinionStrategy.md) — Patient practice of seeking another qualified medical view with neutral symptom presentation, records, and regular-care boundaries.
 - [Female Hormone Health Phenotyping](concepts/FemaleHormoneHealthPhenotyping.md) — Individualized women-health frame joining family history, stress, hormones, thyroid, micronutrients, gut function, insulin, glucose, symptoms, and life stage.
 - [PCOS Cardiometabolic Risk](concepts/PCOSCardiometabolicRisk.md) — Frame treating PCOS as a lifetime metabolic and cardiovascular risk signal, not only a reproductive or fertility issue.
 - [Oral Contraceptive Informed Consent](concepts/OralContraceptiveInformedConsent.md) — Risk-benefit frame for discussing oral contraceptive benefits, hormone effects, micronutrients, microbiome, SHBG, free testosterone, and sexual side effects.
@@ -14276,8 +14284,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Internet Healthcare](concepts/InternetHealthcare.md) — Umbrella branch covering hospital IT, medical search, doctor communities, appointments, consultation, drug sales, internet hospitals, and managed care.
 - [Hospital Information System](concepts/HospitalInformationSystem.md) — Hospital IT foundation required before online appointments, records, prescriptions, internet hospitals, and medical AI workflows can function.
 - [Medical Literature Search](concepts/MedicalLiteratureSearch.md) — Professional knowledge-access layer connecting PubMed, Li Tiantian, and DXY's early community formation.
-- [Doctor-Patient Communication](concepts/DoctorPatientCommunication.md) — Practical clinic-cooperation pattern around symptom description, terminology questions, treatment feedback, and records.
-- [Medical Diagnostic Reasoning](concepts/MedicalDiagnosticReasoning.md) — Clinical reasoning process that turns symptoms, history, exams, tests, and feedback into working diagnoses under uncertainty.
+- [Doctor-Patient Communication](concepts/DoctorPatientCommunication.md) — Practical clinic-cooperation pattern around symptom description, constraints, follow-up questions, report access, treatment feedback, and second opinions.
+- [Medical Diagnostic Reasoning](concepts/MedicalDiagnosticReasoning.md) — Clinical reasoning process that turns symptoms, history, exams, tests, treatment response, follow-up, and second opinions into working diagnoses under uncertainty.
 - [Medical Risk Management](concepts/MedicalRiskManagement.md) — Clinical safety frame explaining conservative advice, worst-case screening, system redundancy, and professional responsibility.
 - [Online Symptom Search Anxiety](concepts/OnlineSymptomSearchAnxiety.md) — Patient-side "Baidu syndrome" pattern where context-free symptom search amplifies health anxiety before clinical review.
 - [Medication Interaction Risk](concepts/MedicationInteractionRisk.md) — Medication-safety branch around alcohol, grapefruit, metabolism interactions, and patient disclosure.

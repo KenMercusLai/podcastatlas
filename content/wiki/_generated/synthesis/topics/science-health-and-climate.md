@@ -4,15 +4,15 @@ generated: true
 topic_id: science-health-and-climate
 title: "Science, Health, and Climate"
 last_updated: 2026-08-27
-as_of_overview_commit: 4e8aa85810b22a108cbf0fb34c3bec7ea2a9cb86
-input_digest: e7743baea9761ab9e1991e7011ef91358a51b0359e9a9e357ca338bad12fb78c
+as_of_overview_commit: 86c4b7c6bf094776dc7357eff00042f467a73316
+input_digest: acbc3ceb4f5430215e0f4c1d8b7a8145ec95d7d9f8dd892f192b71c9ce4d4635
 ---
 
 # Science, Health, and Climate
 
 ## Current State
 
-Science, health, climate, and space-engineering claims become credible when evidence, physical constraints, regulation, implementation cost, clinical context, and operational follow-through stay visible. The topic now includes female hormone health as life-course phenotyping: family history, trauma, cortisol, sex hormones, thyroid, micronutrients, gut function, insulin, glucose, PCOS, contraception, perimenopause, CGM data, and coronary artery calcium scoring are treated as individualized clinical context rather than a universal protocol. Other branches cover metabolic psychiatry, spine care, medical privacy AI, Wudang medicine and cultivation, science policy, space launch infrastructure, reusable rockets, climate adaptation and carbon removal, evidence-bound dinosaur reconstruction, insurance risk planning, and individualized cancer vaccines. Across these branches, the wiki treats promising interventions as bounded by diagnosis, verification, recurrence or failure modes, institutional trust, affordability, and quality-of-life judgment rather than by headline labels alone.
+Science, health, climate, and space-engineering claims become credible when evidence, physical constraints, regulation, implementation cost, clinical context, diagnostic follow-through, and operational closure stay visible. The topic now includes first-visit diagnostic safety netting: missed-diagnosis risk is reduced when uncertain outpatient encounters leave patients with suspected diagnoses, unexcluded dangers, return thresholds, report tracking, and qualified second-opinion paths. It also includes female hormone health as life-course phenotyping: family history, trauma, cortisol, sex hormones, thyroid, micronutrients, gut function, insulin, glucose, PCOS, contraception, perimenopause, CGM data, and coronary artery calcium scoring are treated as individualized clinical context rather than a universal protocol. Other branches cover metabolic psychiatry, spine care, medical privacy AI, Wudang medicine and cultivation, science policy, space launch infrastructure, reusable rockets, climate adaptation and carbon removal, evidence-bound dinosaur reconstruction, insurance risk planning, and individualized cancer vaccines. Across these branches, the wiki treats promising interventions and tests as bounded by diagnosis, verification, recurrence or failure modes, institutional trust, affordability, and quality-of-life judgment rather than by headline labels alone.
 
 ## Cross-source Findings
 
@@ -37,6 +37,17 @@ Science, health, climate, and space-engineering claims become credible when evid
 
 - The episode is medical education, not individualized care; testing, CGM use, hormone therapy, chronic-cardio advice, CAC timing, and oral-contraceptive choices remain clinician-contextual.
 - Several claims are source-scoped to Gottfried's interpretation or cited research, including dried urine testing preference, perimenopause brain-metabolism decline, micronutrient effects, and clitoral or sexual side-effect reversibility.
+
+### Diagnostic Uncertainty Needs Safety Netting
+
+[[MissedDiagnosisRisk]] is mitigated less by maximal testing than by [[DiagnosticSafetyNetting]]: [[MedicalDiagnosticReasoning]], [[DoctorPatientCommunication]], and [[SecondOpinionStrategy]] keep first-visit uncertainty active through suspected diagnoses, unexcluded dangers, return or emergency triggers, report tracking, and qualified second opinions.
+
+**Evidence:** [[MissedDiagnosisRisk]], [[DiagnosticSafetyNetting]], [[MedicalDiagnosticReasoning]], [[DoctorPatientCommunication]], [[SecondOpinionStrategy]], [[ZheBingShuoLaiHuaChang]], [[vol-218-hanjie-yisheng-shijian-hou-sida-menzhen-tanbaiju-bu-duili-bu-shuaiguo-yihuan-ruhe-lianshou-daying-fang-louzhen-de-paileizhan-lgbs8aaxguh-xzga8iuewwc7ypvm]]
+
+**Qualifications:**
+
+- The episode is medical education, not a malpractice standard or individualized diagnosis.
+- It distinguishes unavoidable uncertainty and test limits from poor follow-up design, and it warns against replacing qualified care with alternative treatment or health-product promises.
 
 ### Lumbar Disc Care Is Symptom And Context Driven
 

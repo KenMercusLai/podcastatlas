@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 7959
+wiki_total_pages: 7963
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1382,6 +1382,9 @@ wiki_pages:
   - key: "AfangPalace"
     title: "阿房宫 / Afang Palace"
     url: "/wiki/entities/afangpalace/"
+  - key: "Atang"
+    title: "阿汤 / A Tang"
+    url: "/wiki/entities/atang/"
   - key: "AvignonPapacy"
     title: "阿维尼翁教廷 / Avignon Papacy"
     url: "/wiki/entities/avignonpapacy/"

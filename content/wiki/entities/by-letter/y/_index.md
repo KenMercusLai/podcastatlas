@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 7959
+wiki_total_pages: 7963
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -338,6 +338,9 @@ wiki_pages:
   - key: "YunguChanshi"
     title: "云谷禅师 / Yungu Chanshi"
     url: "/wiki/entities/yunguchanshi/"
+  - key: "YaMengDoctor"
+    title: "亚萌 / Ya Meng"
+    url: "/wiki/entities/yamengdoctor/"
   - key: "YiWanFuWengHuiGui"
     title: "亿万富翁回归"
     url: "/wiki/entities/yiwanfuwenghuigui/"
@@ -734,6 +737,9 @@ wiki_pages:
   - key: "YinhuaFund"
     title: "银华基金 / Yinhua Fund"
     url: "/wiki/entities/yinhuafund/"
+  - key: "YinXinDoctor"
+    title: "银欣 / Yin Xin"
+    url: "/wiki/entities/yinxindoctor/"
   - key: "YanLe"
     title: "阎乐 / Yan Le"
     url: "/wiki/entities/yanle/"
