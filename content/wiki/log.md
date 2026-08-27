@@ -12661,6 +12661,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-28] ingest | 《资治通鉴·汉纪》870丨古代体制内，不干了没有退路
+
+Added source page for a 芮淇讲透资治通鉴 episode on Liu Kuan's humane local governance, Xun Shuang's harem-burden critique after a solar eclipse, Huangfu Gui's failed attempt to exit a frontier appointment, and Zhang Huan's recall under renewed frontier pressure. Created Hu Fang, Zhao Dian, Office Duty Exit Constraint, and Humane Local Governance pages; updated Liu Kuan, Xun Shuang, Emperor Huan, Zhang Huan, Huangfu Gui, and Untimely Extravagance. No settled contradiction found; Hanji 870 is kept as the pre-Hanji 871 setup layer, with "张宦" normalized to Zhang Huan and the opening self-reliance advice kept source-scoped.
+
 ## [2026-08-28] ingest | Essentials: Using Meditation to Focus, View Consciousness & Expand Your Mind | Dr. Sam Harris
 
 Added source page for a Huberman Lab Essentials episode with Andrew Huberman and Sam Harris on meditation, consciousness, the felt self, non-dual mindfulness, emotional loops, psychedelics, and ordinary present-moment freedom. Created Sam Harris, MDMA, Non-Dual Mindfulness, and Psychedelic Ordinary Freedom pages; updated Huberman Lab, Andrew Huberman, Impermanence And No-Self, and Awareness Meditation Story Dropping. No settled contradiction found; meditation, no-self, psychedelic, and emotion-regulation claims remain source-scoped and context-dependent.
@@ -12692,3 +12696,7 @@ Added source page for a 芮淇讲透资治通鉴 episode on the Ganling Zhou-Fan
 ## [2026-08-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-28] lint | Wiki health check
+
+Ran health, identity validation, and lint. Health scanned 15,322 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-22 with 12,882 nodes and 149,964 edges while the current lint scan covered 15,322 pages, so fragile-bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL`/provider credentials are not configured in the shell; report returned in-session and `wiki/lint-report.md` was not updated.

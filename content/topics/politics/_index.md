@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1947
+topic_total_pages: 1949
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3043,6 +3043,12 @@ topic_concepts:
   - key: "EnvoyKillingTaboo"
     title: "不斩来使 / Envoy Killing Taboo"
     url: "/wiki/concepts/envoykillingtaboo/"
+  - key: "HumaneLocalGovernance"
+    title: "仁厚地方治理 / Humane Local Governance"
+    url: "/wiki/concepts/humanelocalgovernance/"
+  - key: "OfficeDutyExitConstraint"
+    title: "任官责任退出受限 / Office Duty Exit Constraint"
+    url: "/wiki/concepts/officedutyexitconstraint/"
   - key: "DefensiveLocalGovernance"
     title: "保境安民式守成治理 / Defensive Local Governance"
     url: "/wiki/concepts/defensivelocalgovernance/"

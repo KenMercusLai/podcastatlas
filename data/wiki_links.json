@@ -22787,6 +22787,10 @@
     "title": "胡车儿 / Hu Che'er",
     "url": "/wiki/entities/hucheer/"
   },
+  "HuFangLateHan": {
+    "title": "胡方 / Hu Fang (late Han)",
+    "url": "/wiki/entities/hufanglatehan/"
+  },
   "HuFengLateHan": {
     "title": "胡封 / Hu Feng (late Han)",
     "url": "/wiki/entities/hufenglatehan/"
@@ -23210,6 +23214,10 @@
   "HumanWorldAsHell": {
     "title": "Human World As Hell / 人间如地狱",
     "url": "/wiki/concepts/humanworldashell/"
+  },
+  "HumaneLocalGovernance": {
+    "title": "仁厚地方治理 / Humane Local Governance",
+    "url": "/wiki/concepts/humanelocalgovernance/"
   },
   "HumanisticScienceCommunication": {
     "title": "Humanistic Science Communication",
@@ -35062,6 +35070,10 @@
   "OfficeBasedRebelIncorporation": {
     "title": "授官式招安 / Office-Based Rebel Incorporation",
     "url": "/wiki/concepts/officebasedrebelincorporation/"
+  },
+  "OfficeDutyExitConstraint": {
+    "title": "任官责任退出受限 / Office Duty Exit Constraint",
+    "url": "/wiki/concepts/officedutyexitconstraint/"
   },
   "OfficeDutyMartyrdom": {
     "title": "Office-Duty Martyrdom / 守官赴死",
@@ -55135,6 +55147,10 @@
     "title": "赵德昭 / Zhao Dezhao",
     "url": "/wiki/entities/zhaodezhao/"
   },
+  "ZhaoDianLateHan": {
+    "title": "赵典 / Zhao Dian (late Han)",
+    "url": "/wiki/entities/zhaodianlatehan/"
+  },
   "ZhaoDongping": {
     "title": "Zhao Dongping / 赵东平",
     "url": "/wiki/entities/zhaodongping/"
@@ -59878,6 +59894,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-870-gudai-tizhinei-buganle-meiyou-tuilu-lpwbniu9ifpt6cp4ip9czqwsh5xd": {
+    "title": "《资治通鉴·汉纪》870丨古代体制内，不干了没有退路",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-870-gudai-tizhinei-buganle-meiyou-tuilu-lpwbniu9ifpt6cp4ip9czqwsh5xd/"
   },
   "zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt": {
     "title": "《资治通鉴·汉纪》871丨惩恶扬善，为何反被诬陷入狱？",

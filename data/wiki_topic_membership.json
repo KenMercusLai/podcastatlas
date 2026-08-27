@@ -28244,6 +28244,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "HumaneLocalGovernance": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "HumanisticScienceCommunication": [
     {
       "key": "science",
@@ -40949,6 +40956,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "OfficeDutyExitConstraint": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "OfficeLinkedProfitAccounting": [

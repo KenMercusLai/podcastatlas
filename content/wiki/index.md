@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》870丨古代体制内，不干了没有退路](sources/zizhi-tongjian-hanji-870-gudai-tizhinei-buganle-meiyou-tuilu-lpwbniu9ifpt6cp4ip9czqwsh5xd.md) — 芮淇讲透资治通鉴 episode on Liu Kuan's humane governance, Xun Shuang's harem-burden critique, Huangfu Gui's failed office exit, and Zhang Huan's frontier recall under Emperor Huan.
 - [Essentials: Using Meditation to Focus, View Consciousness & Expand Your Mind | Dr. Sam Harris](sources/essentials-using-meditation-to-focus-view-consciousness-expand-your-mind-dr-sam-harris-scim7293799235.md) — Huberman Lab Essentials episode with Sam Harris on meditation, the felt self, non-dual mindfulness, emotional loops, psychedelics, and ordinary present-moment freedom.
 - [Your Top Health Questions Answered](sources/your-top-health-questions-answered-scim2882548864.md) — Huberman Lab solo Q&A on sleep, circadian rhythm, memory, smell training, fertility, perimenopause, surgery recovery, and finding passion without health-optimization burnout.
 - [VOL.216 停止“神化”前额叶：别让网络热词变成你的诊断书](sources/vol-216-tingzhi-shenhua-qianeye-bie-rang-wangluo-reci-biancheng-nide-zhenduanshu-lp0cll17cydzmh36sawfj7-rjwur.md) — 这病说来话长 episode with 阿汤 and 薛小凡 on prefrontal-cortex overattribution, dopamine and ADHD self-diagnosis boundaries, state-dependent self-control, sleep, hunger, impulse, and clinical behavior-change red flags.
@@ -1591,6 +1592,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [胡方 / Hu Fang (late Han)](entities/HuFangLateHan.md) — Bingzhou inspector who refuses to validate Huangfu Gui's attempted self-impeachment exit from frontier appointment.
+- [赵典 / Zhao Dian (late Han)](entities/ZhaoDianLateHan.md) — Taichang whose recommendation brings Xun Shuang into Emperor Huan's post-eclipse court examination field.
 - [Sam Harris](entities/SamHarris.md) — Huberman Lab guest presenting meditation as first-person inquiry into consciousness, selfing, thought identification, psychedelics, and ordinary freedom.
 - [MDMA](entities/MDMA.md) — Source-scoped psychedelic/entactogenic substance Harris names as important to his early interest in meditation and first-person inquiry.
 - [Jocko Willink](entities/JockoWillink.md) — Huberman Lab Essentials guest framing discipline, resilience, detachment, leadership, identity, and action after adversity through lived military and training experience.
@@ -1694,7 +1697,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [刘质 / Liu Zhi (Taiyuan late Han)](entities/LiuZhiTaiyuanLateHan.md) — Taiyuan administrator punished after sending Wang Yun against Zhao Jin, paralleling Cheng Jin's enforcement rebound.
 - [翟超 / Zhai Chao (late Han)](entities/ZhaiChaoLateHan.md) — Official whose appointment of Zhang Jian exposes him to eunuch retaliation.
 - [LibGen](entities/LibGen.md) — Source-scoped pirated-book repository named in the Anthropic copyright-settlement discussion.
-- [皇甫规 / Huangfu Gui (late Han)](entities/HuangfuGuiLateHan.md) — Late-Han frontier official whose Hanji 875 self-report makes punishment a Party Prohibition moral credential.
+- [皇甫规 / Huangfu Gui (late Han)](entities/HuangfuGuiLateHan.md) — Late-Han frontier official whose profile now spans failed exit from appointment and later punishment-as-moral-credential self-report.
 - [贾彪 / Jia Biao (late Han)](entities/JiaBiaoLateHan.md) — Late-Han official whose profile combines Taixue reputation leadership, no-collateral timing judgment, infanticide custom correction, and targeted Party Prohibition rescue through Dou Wu.
 - [张成 / Zhang Cheng (late Han astrologer)](entities/ZhangChengAstrologerLateHan.md) — Source-bounded astrologer whose predicted amnesty and murder case trigger Li Ying's enforcement and eunuch-backed party accusation.
 - [劳修 / Lao Xiu (late Han)](entities/LaoXiuLateHan.md) — Zhang Cheng's disciple whose eunuch-backed accusation turns Li Ying's enforcement case into the first Party Prohibition arrest order.
@@ -1828,13 +1831,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [李贤 / Li Xian (taiwei, late Han)](entities/LiXianTaiweiLateHan.md) — Ill taiwei who risks death in Hanji 901 to argue that Empress Dowager Dou should be buried with Emperor Huan; distinct from 李暹 / Li Xian.
 - [窦妙 / Empress Dowager Dou Miao](entities/EmpressDowagerDouMiao.md) — Late-Han empress dowager whose profile runs from formal empress selection and Tian Sheng's execution through child accession, seizure, confinement, later support, and disputed burial.
 - [董萌 / Dong Meng (late Han)](entities/DongMengLateHan.md) — Huangmenling who speaks for Empress Dowager Dou Miao before Cao Jie and Wang Fu recode the Dou grievance into a fatal accusation.
-- [汉桓帝 / Emperor Huan of Han](entities/EmperorHuanOfHan.md) — Late-Han emperor whose profile now spans Xiang Kai's omen-coded criticism, first Party Prohibition arrest authorization and rescue handling, coercive private power, childless death, and posthumous memory.
+- [汉桓帝 / Emperor Huan of Han](entities/EmperorHuanOfHan.md) — Late-Han emperor whose profile now spans harem-burden critique, frontier personnel dependence, omen-coded criticism, Party Prohibition, coercive private power, childless death, and posthumous memory.
 - [襄楷 / Xiang Kai (late Han)](entities/XiangKaiLateHan.md) — Late-Han remonstrant who criticizes Emperor Huan through stars, disasters, Yellow River signs, succession pressure, eunuch favor, and Buddhist-Daoist restraint language.
 - [田胜 / Tian Sheng (late Han)](entities/TianShengLateHan.md) — Emperor Huan favorite whose blocked empress elevation and post-Huan execution show the fragility of palace favor without formal protection.
 - [冯贵人 / Feng Guiren (late Han)](entities/FengGuirenLateHan.md) — Imperial consort proposed as an alternative burial figure to Empress Dowager Dou in Hanji 901, mainly as a ritual-claim contrast.
 - [The Metamorphosis / Kafka's 《变形记》](entities/TheMetamorphosisKafka.md) — Kafka work used in Hanji 901 to illustrate anxious self-importance and impatience; distinct from Ovid's Metamorphoses.
 - [刘猛 / Liu Meng (late Han)](entities/LiuMengLateHan.md) — Sili xiaowei who treats the Zhuque Gate anti-eunuch accusation as substantially true, does not pursue the anonymous speaker aggressively, and is punished after Duan Jiong takes over.
-- [张奂 / Zhang Huan (late Han)](entities/ZhangHuanLateHan.md) — Late-Han frontier and court official whose profile spans Southern Xiongnu/Wuhuan selective pacification, Eastern Qiang surrender-first advice, uninformed use in the 168 countercoup, post-coup guilt, remonstrance, and survival.
+- [张奂 / Zhang Huan (late Han)](entities/ZhangHuanLateHan.md) — Late-Han frontier and court official whose profile spans famine redeployment, frontier recall, selective pacification, Eastern Qiang policy, countercoup misuse, remonstrance, and survival.
 - [王寓 / Wang Yu (late Han)](entities/WangYuLateHan.md) — Former sili xiaowei whose refused recommendation request becomes a personal-grudge accusation against Zhang Huan; distinct from Wang Yu / 汪玉.
 - [苏谦 / Su Qian (late Han)](entities/SuQianLateHan.md) — Father of Su Buwei whose attempted complaint against Li Hao becomes the killing that launches Su Buwei's filial revenge.
 - [苏不韦 / Su Buwei (late Han)](entities/SuBuweiLateHan.md) — Late-Han avenger whose tunnel attack against Li Hao begins a revenge spiral that escalates into tomb desecration and the extermination of his household under Duan Jiong.
@@ -1849,7 +1852,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [夏育 / Xia Yu (late Han)](entities/XiaYuLateHan.md) — Late-Han frontier officer who appears in Duan Jiong's 169 Qiang campaign before becoming the offensive advocate and defeated commander in the 177 Xianbei expedition.
 - [田晏 / Tian Yan (late Han)](entities/TianYanLateHan.md) — Late-Han frontier officer who appears in Duan Jiong's 169 Qiang campaign before using Wang Fu's palace access to gain command in the failed 177 Xianbei expedition.
 - [臧旻 / Zang Min (late Han)](entities/ZangMinLateHan.md) — Han commander who leads the Yanmen route with the Southern Xiongnu chanyu in the failed 177 CE Xianbei expedition.
-- [刘宽 / Liu Kuan (late Han)](entities/LiuKuanLateHan.md) — Taiwei removed after the post-expedition solar eclipse in Hanji 909's omen-accountability sequence.
+- [刘宽 / Liu Kuan (late Han)](entities/LiuKuanLateHan.md) — Late-Han official whose profile combines humane local governance, shangshu ling appointment, and later omen-linked taiwei removal.
 - [孟郁 / Meng Yu (late Han)](entities/MengYuLateHan.md) — Official appointed taiwei after Liu Kuan's removal in the Hanji 909 eclipse-and-office churn.
 - [张颢 / Zhang Hao (late-Han taiwei)](entities/ZhangHaoTaiweiLateHan.md) — Guanghe first-year taiwei whose eunuch-linked promotion and gold-seal omen make a late-Han appointment-favor case; podcast wording 张昊 is normalized to 张颢.
 - [来艳 / Lai Yan (late Han)](entities/LaiYanLateHan.md) — Taichang promoted to sikong after Chen Dan's removal in the 178 earthquake and animal-omen office sequence.
@@ -2211,7 +2214,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [鲍信 / Bao Xin](entities/BaoXin.md) — Yanzhou actor who advises attrition against the Qingzhou Yellow Turbans, invites Cao Cao, and dies saving him.
 - [万潜 / Wan Qian (late Han)](entities/WanQianLateHan.md) — Yanzhou official who joins Bao Xin in inviting Cao Cao after Liu Dai's death.
 - [青州黄巾军 / Qingzhou Yellow Turbans](entities/QingzhouYellowTurbans.md) — Hungry late-Han armed force that attacks Yanzhou before Cao Cao defeats and later converts the surrendering population into Qingzhou Soldiers.
-- [荀爽 / Xun Shuang (late Han)](entities/XunShuangLateHan.md) — Yingchuan scholar rapidly elevated by Dong Zhuo in Hanji 949 and later used as a relocation-debate de-escalator.
+- [荀爽 / Xun Shuang (late Han)](entities/XunShuangLateHan.md) — Yingchuan scholar whose profile spans Emperor Huan-era harem critique, Dong Zhuo's coerced prestige use, and relocation-debate de-escalation.
 - [伍琼 / Wu Qiong (late Han)](entities/WuQiongLateHan.md) — Official first used in Dong Zhuo's recommendation channel and later executed after opposing the forced relocation to Chang'an.
 - [周毖 / Zhou Bi (late Han)](entities/ZhouBiLateHan.md) — Official first used in Dong Zhuo's recommendation channel and later executed with Wu Qiong after opposing the forced relocation from Luoyang.
 - [韩融 / Han Rong (late Han)](entities/HanRongLateHan.md) — Scholar-official appointed by Dong Zhuo as part of the Hanji 949 coerced talent-legitimacy field.
@@ -9575,6 +9578,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [任官责任退出受限 / Office Duty Exit Constraint](concepts/OfficeDutyExitConstraint.md) — Governance pattern where capable officials cannot easily leave or avoid office because crisis demand treats their ability as a public asset.
+- [仁厚地方治理 / Humane Local Governance](concepts/HumaneLocalGovernance.md) — Local-administration pattern where calm conduct, light punishment, and moral instruction build order without maximizing bodily coercion.
 - [Non-Dual Mindfulness](concepts/NonDualMindfulness.md) — Meditation frame where thoughts, emotions, sensations, and selfing appear in awareness without a separate observer behind experience.
 - [Psychedelic Ordinary Freedom](concepts/PsychedelicOrdinaryFreedom.md) — Psychedelic-integration frame where peak states can reveal possibilities but the lasting target is ordinary waking freedom.
 - [Sustainable Health Optimization](concepts/SustainableHealthOptimization.md) — Health-routine frame where sleep, light, exercise, nutrition, and social connection support real life without protocol perfectionism.
@@ -10555,7 +10560,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Encirclement Threat Persuasion / 包围威胁式说服](concepts/EncirclementThreatPersuasion.md) — Zhang Yi's Zhouji 54 speech pattern of naming weakness, claiming allies have shifted to Qin, mapping attack routes, and making Qin accommodation appear safest.
 - [Failure-Driven Self-Study / 失败后的自学翻身](concepts/FailureDrivenSelfStudy.md) — Pattern where failed formal preparation, intimate shame, status pressure, and discomfort drive focused self-study that still needs access and patronage.
 - [Inspirational Narrative Commercialization / 励志叙事商业化](concepts/InspirationalNarrativeCommercialization.md) — Pattern where complex historical failure-and-rise stories become packaged motivational scripts and portable idioms.
-- [时绌举赢 / Untimely Extravagance](concepts/UntimelyExtravagance.md) — Ruler-ethics pattern where visible pleasure, palace-market play, or prestige spending becomes wrong because war, disaster, or public burden makes the timing politically unfit.
+- [时绌举赢 / Untimely Extravagance](concepts/UntimelyExtravagance.md) — Ruler-ethics pattern where visible pleasure, harem burden, ritual display, palace-market play, or prestige spending becomes wrong because crisis makes the timing politically unfit.
 - [Status Order Backlash / 名分秩序反弹](concepts/StatusOrderBacklash.md) — Diplomatic-status pattern where a title elevation provokes third-party rulers by changing perceived rank.
 - [纵横家外交 / Zonghengjia Diplomacy](concepts/ZonghengjiaDiplomacy.md) — Warring States mode where persuaders use rhetoric, threat maps, audience reading, dignity appeals, and alliance design as instruments of interstate power.
 - [徐州相王 / Xuzhou Mutual Kingship](concepts/XuzhouMutualKingship.md) — Post-Maling Qi-Wei mutual recognition that converts battlefield re-ranking into face-saving title diplomacy.
