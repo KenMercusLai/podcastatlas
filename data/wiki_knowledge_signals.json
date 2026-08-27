@@ -740,6 +740,29 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/aisnowlineworkboundary/"
     },
+    "AITO": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "No.215 华为不造车，鸿蒙智行到底是什么？ [1007636843].md",
+          "key": "no-215-huawei-buzaoche-hongmeng-zhixing-daodi-shi-shenme-1007636843",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.215 华为不造车，鸿蒙智行到底是什么？",
+          "url": "/wiki/sources/no-215-huawei-buzaoche-hongmeng-zhixing-daodi-shi-shenme-1007636843/"
+        },
+        {
+          "episode_file": "EP279 当方向盘慢慢松开，我们如何与车相处？ [lq2ELBnJY6xRhixXQjs-y7erHlnv].md",
+          "key": "ep279-dang-fangxiangpan-manman-songkai-women-ruhe-yu-che-xiangchu-lq2elbnjy6xrhixxqjs-y7erhlnv",
+          "show": "Talk三联",
+          "title": "EP279 当方向盘慢慢松开，我们如何与车相处？",
+          "url": "/wiki/sources/ep279-dang-fangxiangpan-manman-songkai-women-ruhe-yu-che-xiangchu-lq2elbnjy6xrhixxqjs-y7erhlnv/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/aito/"
+    },
     "AITrainingCopyrightDispute": {
       "episode_count": 4,
       "show_count": 3,
@@ -1218,6 +1241,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/aspirationalemotionalpremium/"
     },
+    "AssistedDrivingTrustFormation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "EP279 当方向盘慢慢松开，我们如何与车相处？ [lq2ELBnJY6xRhixXQjs-y7erHlnv].md",
+          "key": "ep279-dang-fangxiangpan-manman-songkai-women-ruhe-yu-che-xiangchu-lq2elbnjy6xrhixxqjs-y7erhlnv",
+          "show": "Talk三联",
+          "title": "EP279 当方向盘慢慢松开，我们如何与车相处？",
+          "url": "/wiki/sources/ep279-dang-fangxiangpan-manman-songkai-women-ruhe-yu-che-xiangchu-lq2elbnjy6xrhixxqjs-y7erhlnv/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/assisteddrivingtrustformation/"
+    },
     "AthletePostRetirementIdentity": {
       "episode_count": 1,
       "show_count": 1,
@@ -1265,6 +1304,66 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/austriahungary/"
+    },
+    "AutonomousDrivingDataFlywheel": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "Momenta IPO后再访曹旭东：就是想做没有尽头的AI (1) [172-1].md",
+          "key": "momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1",
+          "show": "晚点聊 LateTalk",
+          "title": "Momenta IPO后再访曹旭东：就是想做没有尽头的AI",
+          "url": "/wiki/sources/momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1/"
+        },
+        {
+          "episode_file": "No.215 华为不造车，鸿蒙智行到底是什么？ [1007636843].md",
+          "key": "no-215-huawei-buzaoche-hongmeng-zhixing-daodi-shi-shenme-1007636843",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.215 华为不造车，鸿蒙智行到底是什么？",
+          "url": "/wiki/sources/no-215-huawei-buzaoche-hongmeng-zhixing-daodi-shi-shenme-1007636843/"
+        },
+        {
+          "episode_file": "EP279 当方向盘慢慢松开，我们如何与车相处？ [lq2ELBnJY6xRhixXQjs-y7erHlnv].md",
+          "key": "ep279-dang-fangxiangpan-manman-songkai-women-ruhe-yu-che-xiangchu-lq2elbnjy6xrhixxqjs-y7erhlnv",
+          "show": "Talk三联",
+          "title": "EP279 当方向盘慢慢松开，我们如何与车相处？",
+          "url": "/wiki/sources/ep279-dang-fangxiangpan-manman-songkai-women-ruhe-yu-che-xiangchu-lq2elbnjy6xrhixxqjs-y7erhlnv/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/autonomousdrivingdataflywheel/"
+    },
+    "AutonomousDrivingResponsibilityBoundary": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "acc532947b65 [acc532947b65].md",
+          "key": "acc532947b65-acc532947b65",
+          "show": "科技乱炖",
+          "title": "没有方向盘的出行，走到哪一步了？ NVIDIA × 小马智行一次聊透智能驾驶",
+          "url": "/wiki/sources/acc532947b65-acc532947b65/"
+        },
+        {
+          "episode_file": "No.215 华为不造车，鸿蒙智行到底是什么？ [1007636843].md",
+          "key": "no-215-huawei-buzaoche-hongmeng-zhixing-daodi-shi-shenme-1007636843",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.215 华为不造车，鸿蒙智行到底是什么？",
+          "url": "/wiki/sources/no-215-huawei-buzaoche-hongmeng-zhixing-daodi-shi-shenme-1007636843/"
+        },
+        {
+          "episode_file": "EP279 当方向盘慢慢松开，我们如何与车相处？ [lq2ELBnJY6xRhixXQjs-y7erHlnv].md",
+          "key": "ep279-dang-fangxiangpan-manman-songkai-women-ruhe-yu-che-xiangchu-lq2elbnjy6xrhixxqjs-y7erhlnv",
+          "show": "Talk三联",
+          "title": "EP279 当方向盘慢慢松开，我们如何与车相处？",
+          "url": "/wiki/sources/ep279-dang-fangxiangpan-manman-songkai-women-ruhe-yu-che-xiangchu-lq2elbnjy6xrhixxqjs-y7erhlnv/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/autonomousdrivingresponsibilityboundary/"
     },
     "BaSuLateHan": {
       "episode_count": 1,
@@ -4960,6 +5059,45 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/hofburgpalace/"
     },
+    "HongmengZhixing": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "No.215 华为不造车，鸿蒙智行到底是什么？ [1007636843].md",
+          "key": "no-215-huawei-buzaoche-hongmeng-zhixing-daodi-shi-shenme-1007636843",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.215 华为不造车，鸿蒙智行到底是什么？",
+          "url": "/wiki/sources/no-215-huawei-buzaoche-hongmeng-zhixing-daodi-shi-shenme-1007636843/"
+        },
+        {
+          "episode_file": "EP279 当方向盘慢慢松开，我们如何与车相处？ [lq2ELBnJY6xRhixXQjs-y7erHlnv].md",
+          "key": "ep279-dang-fangxiangpan-manman-songkai-women-ruhe-yu-che-xiangchu-lq2elbnjy6xrhixxqjs-y7erhlnv",
+          "show": "Talk三联",
+          "title": "EP279 当方向盘慢慢松开，我们如何与车相处？",
+          "url": "/wiki/sources/ep279-dang-fangxiangpan-manman-songkai-women-ruhe-yu-che-xiangchu-lq2elbnjy6xrhixxqjs-y7erhlnv/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/hongmengzhixing/"
+    },
+    "HongmengZhixingG9": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "EP279 当方向盘慢慢松开，我们如何与车相处？ [lq2ELBnJY6xRhixXQjs-y7erHlnv].md",
+          "key": "ep279-dang-fangxiangpan-manman-songkai-women-ruhe-yu-che-xiangchu-lq2elbnjy6xrhixxqjs-y7erhlnv",
+          "show": "Talk三联",
+          "title": "EP279 当方向盘慢慢松开，我们如何与车相处？",
+          "url": "/wiki/sources/ep279-dang-fangxiangpan-manman-songkai-women-ruhe-yu-che-xiangchu-lq2elbnjy6xrhixxqjs-y7erhlnv/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/hongmengzhixingg9/"
+    },
     "HouLanLateHan": {
       "episode_count": 5,
       "show_count": 1,
@@ -5157,6 +5295,29 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/huangfuguilatehan/"
+    },
+    "HuaweiSmartSelectionCarModel": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "No.215 华为不造车，鸿蒙智行到底是什么？ [1007636843].md",
+          "key": "no-215-huawei-buzaoche-hongmeng-zhixing-daodi-shi-shenme-1007636843",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.215 华为不造车，鸿蒙智行到底是什么？",
+          "url": "/wiki/sources/no-215-huawei-buzaoche-hongmeng-zhixing-daodi-shi-shenme-1007636843/"
+        },
+        {
+          "episode_file": "EP279 当方向盘慢慢松开，我们如何与车相处？ [lq2ELBnJY6xRhixXQjs-y7erHlnv].md",
+          "key": "ep279-dang-fangxiangpan-manman-songkai-women-ruhe-yu-che-xiangchu-lq2elbnjy6xrhixxqjs-y7erhlnv",
+          "show": "Talk三联",
+          "title": "EP279 当方向盘慢慢松开，我们如何与车相处？",
+          "url": "/wiki/sources/ep279-dang-fangxiangpan-manman-songkai-women-ruhe-yu-che-xiangchu-lq2elbnjy6xrhixxqjs-y7erhlnv/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/huaweismartselectioncarmodel/"
     },
     "HumanRobotSafetyCertification": {
       "episode_count": 1,
@@ -7490,6 +7651,29 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/lureenemyoutofposition/"
     },
+    "Luxeed": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "No.215 华为不造车，鸿蒙智行到底是什么？ [1007636843].md",
+          "key": "no-215-huawei-buzaoche-hongmeng-zhixing-daodi-shi-shenme-1007636843",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.215 华为不造车，鸿蒙智行到底是什么？",
+          "url": "/wiki/sources/no-215-huawei-buzaoche-hongmeng-zhixing-daodi-shi-shenme-1007636843/"
+        },
+        {
+          "episode_file": "EP279 当方向盘慢慢松开，我们如何与车相处？ [lq2ELBnJY6xRhixXQjs-y7erHlnv].md",
+          "key": "ep279-dang-fangxiangpan-manman-songkai-women-ruhe-yu-che-xiangchu-lq2elbnjy6xrhixxqjs-y7erhlnv",
+          "show": "Talk三联",
+          "title": "EP279 当方向盘慢慢松开，我们如何与车相处？",
+          "url": "/wiki/sources/ep279-dang-fangxiangpan-manman-songkai-women-ruhe-yu-che-xiangchu-lq2elbnjy6xrhixxqjs-y7erhlnv/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/luxeed/"
+    },
     "LyuBu": {
       "episode_count": 29,
       "show_count": 1,
@@ -8850,6 +9034,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/ordinarypeoplehistoricalvisibility/"
     },
+    "OutdoorVehicleLifestyleDesign": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "EP279 当方向盘慢慢松开，我们如何与车相处？ [lq2ELBnJY6xRhixXQjs-y7erHlnv].md",
+          "key": "ep279-dang-fangxiangpan-manman-songkai-women-ruhe-yu-che-xiangchu-lq2elbnjy6xrhixxqjs-y7erhlnv",
+          "show": "Talk三联",
+          "title": "EP279 当方向盘慢慢松开，我们如何与车相处？",
+          "url": "/wiki/sources/ep279-dang-fangxiangpan-manman-songkai-women-ruhe-yu-che-xiangchu-lq2elbnjy6xrhixxqjs-y7erhlnv/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/outdoorvehiclelifestyledesign/"
+    },
     "PalaceFavoriteProtectionFragility": {
       "episode_count": 1,
       "show_count": 1,
@@ -9021,6 +9221,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/partyprohibitionkinshipexpansion/"
+    },
+    "PengLeiHuawei": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "EP279 当方向盘慢慢松开，我们如何与车相处？ [lq2ELBnJY6xRhixXQjs-y7erHlnv].md",
+          "key": "ep279-dang-fangxiangpan-manman-songkai-women-ruhe-yu-che-xiangchu-lq2elbnjy6xrhixxqjs-y7erhlnv",
+          "show": "Talk三联",
+          "title": "EP279 当方向盘慢慢松开，我们如何与车相处？",
+          "url": "/wiki/sources/ep279-dang-fangxiangpan-manman-songkai-women-ruhe-yu-che-xiangchu-lq2elbnjy6xrhixxqjs-y7erhlnv/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/pengleihuawei/"
     },
     "PersonalGuardAttackSurface": {
       "episode_count": 2,
@@ -10283,6 +10499,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/smartglassesbystanderprivacy/"
     },
+    "SmartVehicleLivingSpace": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "EP279 当方向盘慢慢松开，我们如何与车相处？ [lq2ELBnJY6xRhixXQjs-y7erHlnv].md",
+          "key": "ep279-dang-fangxiangpan-manman-songkai-women-ruhe-yu-che-xiangchu-lq2elbnjy6xrhixxqjs-y7erhlnv",
+          "show": "Talk三联",
+          "title": "EP279 当方向盘慢慢松开，我们如何与车相处？",
+          "url": "/wiki/sources/ep279-dang-fangxiangpan-manman-songkai-women-ruhe-yu-che-xiangchu-lq2elbnjy6xrhixxqjs-y7erhlnv/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/smartvehiclelivingspace/"
+    },
     "SongHongEasternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -11463,6 +11695,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/unitedarabemirates/"
+    },
+    "UserFeedbackVehicleDefinition": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "EP279 当方向盘慢慢松开，我们如何与车相处？ [lq2ELBnJY6xRhixXQjs-y7erHlnv].md",
+          "key": "ep279-dang-fangxiangpan-manman-songkai-women-ruhe-yu-che-xiangchu-lq2elbnjy6xrhixxqjs-y7erhlnv",
+          "show": "Talk三联",
+          "title": "EP279 当方向盘慢慢松开，我们如何与车相处？",
+          "url": "/wiki/sources/ep279-dang-fangxiangpan-manman-songkai-women-ruhe-yu-che-xiangchu-lq2elbnjy6xrhixxqjs-y7erhlnv/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/userfeedbackvehicledefinition/"
     },
     "VernacularFemaleReligiousWriting": {
       "episode_count": 1,

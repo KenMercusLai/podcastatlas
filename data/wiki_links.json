@@ -5135,6 +5135,10 @@
     "title": "Assisted Death Concept Boundary",
     "url": "/wiki/concepts/assisteddeathconceptboundary/"
   },
+  "AssistedDrivingTrustFormation": {
+    "title": "Assisted Driving Trust Formation / 辅助驾驶信任形成",
+    "url": "/wiki/concepts/assisteddrivingtrustformation/"
+  },
   "AssistedDyingLaws": {
     "title": "Assisted Dying Laws",
     "url": "/wiki/concepts/assisteddyinglaws/"
@@ -22155,6 +22159,10 @@
     "title": "Hongmeng Zhixing / 鸿蒙智行",
     "url": "/wiki/entities/hongmengzhixing/"
   },
+  "HongmengZhixingG9": {
+    "title": "Hongmeng Zhixing G9 / 鸿蒙智行 G9",
+    "url": "/wiki/entities/hongmengzhixingg9/"
+  },
   "HongseHuojianIndexTool": {
     "title": "红色火箭 / Hongse Huojian",
     "url": "/wiki/entities/hongsehuojianindextool/"
@@ -35423,6 +35431,10 @@
     "title": "Outdoor Safety Preparation / 户外安全准备",
     "url": "/wiki/concepts/outdoorsafetypreparation/"
   },
+  "OutdoorVehicleLifestyleDesign": {
+    "title": "Outdoor Vehicle Lifestyle Design / 户外车辆生活方式设计",
+    "url": "/wiki/concepts/outdoorvehiclelifestyledesign/"
+  },
   "OutlierDrivenAngelInvesting": {
     "title": "Outlier-Driven Angel Investing",
     "url": "/wiki/concepts/outlierdrivenangelinvesting/"
@@ -36250,6 +36262,10 @@
   "PenaltyShootoutStrategy": {
     "title": "Penalty Shootout Strategy",
     "url": "/wiki/concepts/penaltyshootoutstrategy/"
+  },
+  "PengLeiHuawei": {
+    "title": "Peng Lei / 彭磊",
+    "url": "/wiki/entities/pengleihuawei/"
   },
   "PengWenjun": {
     "title": "彭文君",
@@ -43667,6 +43683,10 @@
     "title": "Smart Glasses Bystander Privacy",
     "url": "/wiki/concepts/smartglassesbystanderprivacy/"
   },
+  "SmartVehicleLivingSpace": {
+    "title": "Smart Vehicle Living Space / 智能汽车生活空间",
+    "url": "/wiki/concepts/smartvehiclelivingspace/"
+  },
   "Smartisan": {
     "title": "Smartisan",
     "url": "/wiki/entities/smartisan/"
@@ -49162,6 +49182,10 @@
   "UsefulWorkCareerCompounding": {
     "title": "Useful Work Career Compounding",
     "url": "/wiki/concepts/usefulworkcareercompounding/"
+  },
+  "UserFeedbackVehicleDefinition": {
+    "title": "User Feedback Vehicle Definition / 用户反馈驱动车辆定义",
+    "url": "/wiki/concepts/userfeedbackvehicledefinition/"
   },
   "UserGeneratedContentCopyrightRisk": {
     "title": "User-Generated Content Copyright Risk",
@@ -56394,6 +56418,10 @@
   "ep278-ai-shidai-bu-juan-zhuanye-juan-shenme-renzai-zhongliu-tebie-cehua-02-lhvsbropwclouwshe-2-fczwnwzz": {
     "title": "EP278 AI时代不卷专业，卷什么？丨“人在中流”特别策划02",
     "url": "/wiki/sources/ep278-ai-shidai-bu-juan-zhuanye-juan-shenme-renzai-zhongliu-tebie-cehua-02-lhvsbropwclouwshe-2-fczwnwzz/"
+  },
+  "ep279-dang-fangxiangpan-manman-songkai-women-ruhe-yu-che-xiangchu-lq2elbnjy6xrhixxqjs-y7erhlnv": {
+    "title": "EP279 当方向盘慢慢松开，我们如何与车相处？",
+    "url": "/wiki/sources/ep279-dang-fangxiangpan-manman-songkai-women-ruhe-yu-che-xiangchu-lq2elbnjy6xrhixxqjs-y7erhlnv/"
   },
   "ep28-bainian-jinrong-zhapian-shi-jieji-kuayue-yu-liangdang-ruyu-de-juli-ltpkaw9wxzpxlxo3mhh-0rkimgcj": {
     "title": "EP28 百年金融诈骗史：阶级跨越与锒铛入狱的距离",

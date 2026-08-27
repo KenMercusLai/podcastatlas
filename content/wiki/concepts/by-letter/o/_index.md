@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 5642
+wiki_total_pages: 5646
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -443,6 +443,9 @@ wiki_pages:
   - key: "OutdoorSafetyPreparation"
     title: "Outdoor Safety Preparation / 户外安全准备"
     url: "/wiki/concepts/outdoorsafetypreparation/"
+  - key: "OutdoorVehicleLifestyleDesign"
+    title: "Outdoor Vehicle Lifestyle Design / 户外车辆生活方式设计"
+    url: "/wiki/concepts/outdoorvehiclelifestyledesign/"
   - key: "OutlierDrivenAngelInvesting"
     title: "Outlier-Driven Angel Investing"
     url: "/wiki/concepts/outlierdrivenangelinvesting/"

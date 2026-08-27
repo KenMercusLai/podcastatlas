@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 5642
+wiki_total_pages: 5646
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1649,6 +1649,9 @@ wiki_pages:
   - key: "AssistedDeathConceptBoundary"
     title: "Assisted Death Concept Boundary"
     url: "/wiki/concepts/assisteddeathconceptboundary/"
+  - key: "AssistedDrivingTrustFormation"
+    title: "Assisted Driving Trust Formation / 辅助驾驶信任形成"
+    url: "/wiki/concepts/assisteddrivingtrustformation/"
   - key: "AssistedDyingLaws"
     title: "Assisted Dying Laws"
     url: "/wiki/concepts/assisteddyinglaws/"

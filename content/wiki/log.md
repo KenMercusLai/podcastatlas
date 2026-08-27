@@ -12162,6 +12162,10 @@ Added source page for The Rest Is History episode on Crown Prince Rudolf, Mary V
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-27] ingest | EP279 当方向盘慢慢松开，我们如何与车相处？
+
+Added source page for EP279: assisted-driving trust formation, Hongmeng Zhixing owner experience, Huawei's no-map and active-safety framing, M9/R7/G9 living-space use cases, outdoor vehicle design, oxygen/rest features, and user-feedback product definition. Created Peng Lei, Hongmeng Zhixing G9, Assisted Driving Trust Formation, Smart Vehicle Living Space, Outdoor Vehicle Lifestyle Design, and User Feedback Vehicle Definition pages; migrated Hongmeng Zhixing, AITO, Luxeed, Huawei Smart Selection Car Model, Autonomous Driving Responsibility Boundary, and Autonomous Driving Data Flywheel to synthesis-v1. No settled contradiction found; the episode is kept source-scoped as a brand-and-owner conversation rather than independent assisted-driving or off-road validation.
+
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》872丨他娶妾不成，竟杀人全家
 
 Added source page for Hanji 872: Zhang Jian's enforcement against Hou Lan, blocked memorials, Xu Xuan's killing of Li Gao's daughter, Huang Fu's execution of Xu Xuan, Emperor Huan's punishment of Zhai Chao and Huang Fu after eunuch complaint, and Chen Fan's warning that inner-court favorite power is the deeper danger. Created Zhai Chao, Xu Huang, Xu Xuan, Li Gao, Huang Fu, Liu Mao, and Eunuch Patronage Violence Shield pages; updated Chen Fan, Zhang Jian, Hou Lan, and Emperor Huan. No settled contradiction found; 皇甫 is normalized to 黄浮 and 李嵩 to 李暠 while the 166/169 chronology is kept source-scoped.
@@ -12464,6 +12468,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》873丨他如何利用天象痛骂帝王？
 
 Added source page for Hanji 873: Xiang Kai's two memorials against Emperor Huan using stars, disasters, Yellow River clarity, childlessness, eunuch favor, harsh punishment, and Buddhist-Daoist restraint as omen-coded criticism. Created Xiang Kai and Omen-Coded Remonstrance pages; updated Emperor Huan, index, overview, and log. No settled contradiction found; Liu Zhi, Chen Jin, Cai Yan, and Liu Yu remain source-scoped because this source gives limited disambiguating evidence and internal transcript variation.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-27] lint | Wiki health check
 

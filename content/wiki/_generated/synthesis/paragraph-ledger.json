@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "dc98d131ed052a652502cdaeff98d62afa8260b54c97d6b3770e26614c669e34",
       "1e3f0cf2b934b228b40cb12ac7fd7fe96511b93637dac905e00bfc60aa089ec7",
       "2df6ee81d99b0d7233861c150387a43d65848277cf46cfd4c6379caa7eda4396",
       "da39a84acb7df9827cb55e3ef76355e5fd17cb422bede060441f307e6f92aedb",
@@ -289,11 +290,42 @@
       "ed252faccaaf1dc4e8c654d3406a6a1a0fc3a6f6fe78821348d1b123c7e85a5c",
       "32b62a0e1fc3144c5e7770721fc745607afef0d0cf46a8fe94d35cab377dbbf9"
     ],
-    "paragraph_count": 287
+    "paragraph_count": 288
   },
-  "overview_commit": "4dfbe94ddb1f78093ee7ca4b20e393bbf79bb7b1",
-  "overview_digest": "1383ae693c1393166d56c109a76a49343ecbf722ee1d3c33a49f1e11ec1019c9",
+  "overview_commit": "2aa383dfb236c49eb25b137e8012b0c09150ecc1",
+  "overview_digest": "142134280f7058754ddd0352be7edafd1b966e94b1d215f87bfacd2327cdae6d",
   "paragraphs": [
+    {
+      "id": "dc98d131ed052a652502cdaeff98d62afa8260b54c97d6b3770e26614c669e34",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[ep279-dang-fangxiangpan-manman-songkai-women-ruhe-yu-che-xiangchu-lq2elbnjy6xrhixxqjs-y7erhlnv|EP279 当方向盘慢慢松开，我们如何与车相处？]], a [[TalkSanlian|Talk三联]] episode with [[PengLeiHuawei|彭磊]] and three [[HongmengZhixing|鸿蒙智行]] owners on assisted-driving trust and cars as lived spaces. It adds [[PengLeiHuawei]], [[HongmengZhixingG9]], [[AssistedDrivingTrustFormation]], [[SmartVehicleLivingSpace]], [[OutdoorVehicleLifestyleDesign]], and [[UserFeedbackVehicleDefinition]], while extending [[HongmengZhixing]], [[AITO]], [[Luxeed]], [[HuaweiSmartSelectionCarModel]], [[AutonomousDrivingResponsibilityBoundary]], and [[AutonomousDrivingDataFlywheel]]. Its core synthesis is that smart-vehicle adoption is embodied: users learn to trust assistance through concrete road and parking experiences, while the car's value expands into work, rest, family, camping, high-altitude recovery, and feedback-driven product definition. No settled contradiction is recorded; the source's owner stories, delivery figure, no-map claims, oxygen explanation, and G9 capability framing remain source-scoped brand-and-owner evidence.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "business-and-markets": 2,
+        "psychology-and-personal-development": 1,
+        "science-health-and-climate": 1,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "AITO",
+        "AssistedDrivingTrustFormation",
+        "AutonomousDrivingDataFlywheel",
+        "AutonomousDrivingResponsibilityBoundary",
+        "HongmengZhixing",
+        "HongmengZhixingG9",
+        "HuaweiSmartSelectionCarModel",
+        "Luxeed",
+        "OutdoorVehicleLifestyleDesign",
+        "PengLeiHuawei",
+        "SmartVehicleLivingSpace",
+        "TalkSanlian",
+        "UserFeedbackVehicleDefinition",
+        "ep279-dang-fangxiangpan-manman-songkai-women-ruhe-yu-che-xiangchu-lq2elbnjy6xrhixxqjs-y7erhlnv"
+      ]
+    },
     {
       "id": "1e3f0cf2b934b228b40cb12ac7fd7fe96511b93637dac905e00bfc60aa089ec7",
       "primary_topic": "history-and-geopolitics",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 7901
+wiki_total_pages: 7903
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -224,6 +224,9 @@ wiki_pages:
   - key: "Peloton"
     title: "Peloton"
     url: "/wiki/entities/peloton/"
+  - key: "PengLeiHuawei"
+    title: "Peng Lei / 彭磊"
+    url: "/wiki/entities/pengleihuawei/"
   - key: "Penglai"
     title: "Penglai / 蓬莱"
     url: "/wiki/entities/penglai/"

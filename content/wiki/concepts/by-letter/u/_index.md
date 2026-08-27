@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "u"
-wiki_total_pages: 5642
+wiki_total_pages: 5646
 wiki_pages:
   - key: "US2025ExpectationGaps"
     title: "U.S. 2025 Expectation Gaps"
@@ -179,6 +179,9 @@ wiki_pages:
   - key: "UsefulWorkCareerCompounding"
     title: "Useful Work Career Compounding"
     url: "/wiki/concepts/usefulworkcareercompounding/"
+  - key: "UserFeedbackVehicleDefinition"
+    title: "User Feedback Vehicle Definition / 用户反馈驱动车辆定义"
+    url: "/wiki/concepts/userfeedbackvehicledefinition/"
   - key: "UserGeneratedContentCopyrightRisk"
     title: "User-Generated Content Copyright Risk"
     url: "/wiki/concepts/usergeneratedcontentcopyrightrisk/"
