@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 5780
+wiki_total_pages: 5786
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -437,6 +437,9 @@ wiki_pages:
   - key: "BrainBodyEmotionMapping"
     title: "Brain-Body Emotion Mapping"
     url: "/wiki/concepts/brainbodyemotionmapping/"
+  - key: "BrainHealthNutrientSufficiency"
+    title: "Brain-Health Nutrient Sufficiency"
+    url: "/wiki/concepts/brainhealthnutrientsufficiency/"
   - key: "BrainImmuneStateCoupling"
     title: "Brain-Immune State Coupling"
     url: "/wiki/concepts/brainimmunestatecoupling/"

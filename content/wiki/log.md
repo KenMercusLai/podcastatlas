@@ -12673,6 +12673,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-28] ingest | Accelerate Learning & Increase Cognitive Capacity | Dr. Tommy Wood
+
+Added source page for a Huberman Lab episode with Tommy Wood on adult neuroplasticity, multimodal learning, flow versus clutch states, exercise-specific brain adaptation, nutrient sufficiency, dementia prevention, concussion recovery, and strongman training. Created Tommy Wood, Better Brain, BrainHQ, Maintain Your Brain Trial, POINTER Trial, Multimodal Adult Neuroplasticity, Flow-Clutch Learning Distinction, Exercise-Specific Brain Adaptation, Brain-Health Nutrient Sufficiency, Processing-Speed Training Dementia Signal, and Concussion Active Recovery pages; updated Huberman Lab, Andrew Huberman, Neuroplasticity, Desirable Difficulty, Modifiable Dementia Risk Factors, Shingles Vaccine Dementia Signal, Cognitive Resilience, overview, and index. No settled contradiction found; supplement, peptide, vaccine, exercise-programming, concussion, and dementia-prevention claims remain source-scoped and clinically bounded.
+
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》859丨古代好人为什么难当好官？
 
 Added source page for a 163-164 CE Huan-era backfill on Huangfu Gui's recommendation of Zhang Huan, Duan Jiong's restoration under Qiang pressure, Zhu Mu's anti-eunuch remonstrance, and the host's explanation of eunuchs as palace-proximity instruments of imperial control. Created Zhu Mu; updated Huangfu Gui, Zhang Huan, Duan Jiong, Emperor Huan, Palace Proximity Power, Scholar-Official Public Duty, index, and overview. No settled contradiction found; transcript forms 黄府规, 张宦, 段炯, and 朱牧 are normalized to established late-Han routes.
@@ -12812,6 +12816,10 @@ Added source page for a 163 CE Huan-era backfill on perspective-taking, disaster
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》857丨学会共赢，才是真正的赢家
 
 Added source page for a Huan-era backfill on win-win relationship framing, Huangfu Gui's frontier-pacification self-defense, Xu Huang and Zuo Guan's gift solicitation around expected military reward, Huangfu's refusal and imprisonment, Taixue/Three Excellencies petitions, and renewed Guiyang/Wuling disorder. Created Zuo Guan; updated Huangfu Gui, Xu Huang, Military Reward Eunuch Gatekeeping, overview, and index. No settled contradiction found; 黄府规 is normalized to Huangfu Gui/皇甫规, and Zhang Feng, Li Yan, Wuling Man unrest, account figures, and workplace "共赢" advice remain source-scoped.
+
+## [2026-08-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-28] lint | Wiki health check
 

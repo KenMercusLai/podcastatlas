@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 8021
+wiki_total_pages: 8026
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -77,6 +77,9 @@ wiki_pages:
   - key: "MainlandSoutheastAsia"
     title: "Mainland Southeast Asia / 中南半岛"
     url: "/wiki/entities/mainlandsoutheastasia/"
+  - key: "MaintainYourBrainTrial"
+    title: "Maintain Your Brain Trial"
+    url: "/wiki/entities/maintainyourbraintrial/"
   - key: "MaiquerGroup"
     title: "Maiquer Group / 麦趣尔"
     url: "/wiki/entities/maiquergroup/"

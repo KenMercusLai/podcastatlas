@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2525
+topic_total_pages: 2526
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -3869,6 +3869,9 @@ topic_entities:
   - key: "BradenResidencyFounder"
     title: "Braden (The Residency founder)"
     url: "/wiki/entities/bradenresidencyfounder/"
+  - key: "BrainHQ"
+    title: "BrainHQ"
+    url: "/wiki/entities/brainhq/"
   - key: "Breakneck"
     title: "Breakneck"
     url: "/wiki/entities/breakneck/"

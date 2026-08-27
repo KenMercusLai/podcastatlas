@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 5780
+wiki_total_pages: 5786
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1112,6 +1112,9 @@ wiki_pages:
   - key: "ConcreteFilledWallSystems"
     title: "Concrete-Filled Wall Systems"
     url: "/wiki/concepts/concretefilledwallsystems/"
+  - key: "ConcussionActiveRecovery"
+    title: "Concussion Active Recovery"
+    url: "/wiki/concepts/concussionactiverecovery/"
   - key: "ConfessionalInvasionConspiracy"
     title: "Confessional Invasion Conspiracy"
     url: "/wiki/concepts/confessionalinvasionconspiracy/"

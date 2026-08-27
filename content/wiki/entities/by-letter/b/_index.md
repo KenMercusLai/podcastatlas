@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 8021
+wiki_total_pages: 8026
 wiki_pages:
   - key: "BSpecials"
     title: "B Specials"
@@ -335,6 +335,9 @@ wiki_pages:
   - key: "BestBuy"
     title: "Best Buy"
     url: "/wiki/entities/bestbuy/"
+  - key: "BetterBrain"
+    title: "Better Brain"
+    url: "/wiki/entities/betterbrain/"
   - key: "BetterMarkets"
     title: "Better Markets"
     url: "/wiki/entities/bettermarkets/"
@@ -623,6 +626,9 @@ wiki_pages:
   - key: "BrainBuffs"
     title: "Brain Buffs"
     url: "/wiki/entities/brainbuffs/"
+  - key: "BrainHQ"
+    title: "BrainHQ"
+    url: "/wiki/entities/brainhq/"
   - key: "Braintree"
     title: "Braintree"
     url: "/wiki/entities/braintree/"

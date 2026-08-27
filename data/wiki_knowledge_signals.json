@@ -1244,9 +1244,9 @@
       "url": "/wiki/concepts/analogmoviegoingexperience/"
     },
     "AndrewHuberman": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 1,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -1324,6 +1324,13 @@
           "show": "Huberman Lab",
           "title": "Essentials: Using Meditation to Focus, View Consciousness & Expand Your Mind | Dr. Sam Harris",
           "url": "/wiki/sources/essentials-using-meditation-to-focus-view-consciousness-expand-your-mind-dr-sam-harris-scim7293799235/"
+        },
+        {
+          "episode_file": "SCIM4201272551 [SCIM4201272551].md",
+          "key": "accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551",
+          "show": "Huberman Lab",
+          "title": "Accelerate Learning & Increase Cognitive Capacity | Dr. Tommy Wood",
+          "url": "/wiki/sources/accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551/"
         }
       ],
       "updated": "2026-08-28",
@@ -2004,6 +2011,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/berntbornich/"
     },
+    "BetterBrain": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4201272551 [SCIM4201272551].md",
+          "key": "accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551",
+          "show": "Huberman Lab",
+          "title": "Accelerate Learning & Increase Cognitive Capacity | Dr. Tommy Wood",
+          "url": "/wiki/sources/accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/betterbrain/"
+    },
     "BloodyFriday": {
       "episode_count": 1,
       "show_count": 1,
@@ -2164,6 +2187,38 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/brainbodyemotionmapping/"
+    },
+    "BrainHQ": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4201272551 [SCIM4201272551].md",
+          "key": "accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551",
+          "show": "Huberman Lab",
+          "title": "Accelerate Learning & Increase Cognitive Capacity | Dr. Tommy Wood",
+          "url": "/wiki/sources/accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/brainhq/"
+    },
+    "BrainHealthNutrientSufficiency": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4201272551 [SCIM4201272551].md",
+          "key": "accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551",
+          "show": "Huberman Lab",
+          "title": "Accelerate Learning & Increase Cognitive Capacity | Dr. Tommy Wood",
+          "url": "/wiki/sources/accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/brainhealthnutrientsufficiency/"
     },
     "BrainImmuneStateCoupling": {
       "episode_count": 1,
@@ -3435,9 +3490,9 @@
       "url": "/wiki/concepts/cognitivereappraisalearlyintervention/"
     },
     "CognitiveResilience": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM3386045656 [SCIM3386045656].md",
@@ -3445,9 +3500,16 @@
           "show": "Huberman Lab",
           "title": "How to Improve Motivation & Overcome Procrastination | Dr. Masud Husain",
           "url": "/wiki/sources/how-to-improve-motivation-overcome-procrastination-dr-masud-husain-scim3386045656/"
+        },
+        {
+          "episode_file": "SCIM4201272551 [SCIM4201272551].md",
+          "key": "accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551",
+          "show": "Huberman Lab",
+          "title": "Accelerate Learning & Increase Cognitive Capacity | Dr. Tommy Wood",
+          "url": "/wiki/sources/accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-28",
       "url": "/wiki/concepts/cognitiveresilience/"
     },
     "CommandContinuityDamageControl": {
@@ -3495,6 +3557,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/concealedcapabilitytiming/"
+    },
+    "ConcussionActiveRecovery": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4201272551 [SCIM4201272551].md",
+          "key": "accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551",
+          "show": "Huberman Lab",
+          "title": "Accelerate Learning & Increase Cognitive Capacity | Dr. Tommy Wood",
+          "url": "/wiki/sources/accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/concussionactiverecovery/"
     },
     "ConfessionalInvasionConspiracy": {
       "episode_count": 3,
@@ -4328,6 +4406,36 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/derry/"
+    },
+    "DesirableDifficulty": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "用 AI 让我们变笨了吗？｜ S10E25 [a6b360da-07f7-4d9e-ab1b-64a7130e9254].md",
+          "key": "yong-ai-rang-women-bianbenle-ma-s10e25-a6b360da-07f7-4d9e-ab1b-64a7130e9254",
+          "show": "What's Next｜科技早知道",
+          "title": "用 AI 让我们变笨了吗？｜S10E25",
+          "url": "/wiki/sources/yong-ai-rang-women-bianbenle-ma-s10e25-a6b360da-07f7-4d9e-ab1b-64a7130e9254/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_472f558f8f9f23b50eb059d2f39795bb_29150217 [default.mp3_ywr3ahjkcgo_472f558f8f9f23b50eb059d2f39795bb_29150217].md",
+          "key": "we-almost-had-a-smartphone-in-the-90s-why-did-it-fail",
+          "show": "Planet Money",
+          "title": "We almost had a smartphone in the 90s. Why did it fail?",
+          "url": "/wiki/sources/we-almost-had-a-smartphone-in-the-90s-why-did-it-fail/"
+        },
+        {
+          "episode_file": "SCIM4201272551 [SCIM4201272551].md",
+          "key": "accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551",
+          "show": "Huberman Lab",
+          "title": "Accelerate Learning & Increase Cognitive Capacity | Dr. Tommy Wood",
+          "url": "/wiki/sources/accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/desirabledifficulty/"
     },
     "DiagnosticSafetyNetting": {
       "episode_count": 1,
@@ -5598,6 +5706,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/evolutionarymisrecognition/"
     },
+    "ExerciseSpecificBrainAdaptation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4201272551 [SCIM4201272551].md",
+          "key": "accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551",
+          "show": "Huberman Lab",
+          "title": "Accelerate Learning & Increase Cognitive Capacity | Dr. Tommy Wood",
+          "url": "/wiki/sources/accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/exercisespecificbrainadaptation/"
+    },
     "FIFAWomensWorldCup": {
       "episode_count": 1,
       "show_count": 1,
@@ -6034,6 +6158,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/findesiecleviennacrisisreading/"
+    },
+    "FlowClutchLearningDistinction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4201272551 [SCIM4201272551].md",
+          "key": "accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551",
+          "show": "Huberman Lab",
+          "title": "Accelerate Learning & Increase Cognitive Capacity | Dr. Tommy Wood",
+          "url": "/wiki/sources/accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/flowclutchlearningdistinction/"
     },
     "FoodPleasureEngineering": {
       "episode_count": 1,
@@ -7952,9 +8092,9 @@
       "url": "/wiki/concepts/huaweismartselectioncarmodel/"
     },
     "HubermanLab": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 1,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -8032,6 +8172,13 @@
           "show": "Huberman Lab",
           "title": "Essentials: Using Meditation to Focus, View Consciousness & Expand Your Mind | Dr. Sam Harris",
           "url": "/wiki/sources/essentials-using-meditation-to-focus-view-consciousness-expand-your-mind-dr-sam-harris-scim7293799235/"
+        },
+        {
+          "episode_file": "SCIM4201272551 [SCIM4201272551].md",
+          "key": "accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551",
+          "show": "Huberman Lab",
+          "title": "Accelerate Learning & Increase Cognitive Capacity | Dr. Tommy Wood",
+          "url": "/wiki/sources/accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551/"
         }
       ],
       "updated": "2026-08-28",
@@ -11457,6 +11604,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/machinelearningbiologyexperimentdesign/"
     },
+    "MaintainYourBrainTrial": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4201272551 [SCIM4201272551].md",
+          "key": "accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551",
+          "show": "Huberman Lab",
+          "title": "Accelerate Learning & Increase Cognitive Capacity | Dr. Tommy Wood",
+          "url": "/wiki/sources/accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/maintainyourbraintrial/"
+    },
     "MaoQinLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -12447,6 +12610,29 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/moderna/"
     },
+    "ModifiableDementiaRiskFactors": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Working memory： the surprising decline of dementia [6a6b0eeca585d3be78cd9d1b].md",
+          "key": "working-memory-the-surprising-decline-of-dementia-6a6b0eeca585d3be78cd9d1b",
+          "show": "Economist Podcasts",
+          "title": "Working memory: the surprising decline of dementia",
+          "url": "/wiki/sources/working-memory-the-surprising-decline-of-dementia-6a6b0eeca585d3be78cd9d1b/"
+        },
+        {
+          "episode_file": "SCIM4201272551 [SCIM4201272551].md",
+          "key": "accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551",
+          "show": "Huberman Lab",
+          "title": "Accelerate Learning & Increase Cognitive Capacity | Dr. Tommy Wood",
+          "url": "/wiki/sources/accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/modifiabledementiariskfactors/"
+    },
     "MoralDesertPoliticalOutcomeGap": {
       "episode_count": 2,
       "show_count": 1,
@@ -12547,6 +12733,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/multiteacherdistillation/"
+    },
+    "MultimodalAdultNeuroplasticity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4201272551 [SCIM4201272551].md",
+          "key": "accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551",
+          "show": "Huberman Lab",
+          "title": "Accelerate Learning & Increase Cognitive Capacity | Dr. Tommy Wood",
+          "url": "/wiki/sources/accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/multimodaladultneuroplasticity/"
     },
     "NanJiHe": {
       "episode_count": 1,
@@ -12664,6 +12866,36 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/neuromodulatorstatetoolkit/"
+    },
+    "Neuroplasticity": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "用 AI 让我们变笨了吗？｜ S10E25 [a6b360da-07f7-4d9e-ab1b-64a7130e9254].md",
+          "key": "yong-ai-rang-women-bianbenle-ma-s10e25-a6b360da-07f7-4d9e-ab1b-64a7130e9254",
+          "show": "What's Next｜科技早知道",
+          "title": "用 AI 让我们变笨了吗？｜S10E25",
+          "url": "/wiki/sources/yong-ai-rang-women-bianbenle-ma-s10e25-a6b360da-07f7-4d9e-ab1b-64a7130e9254/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Bryan Johnson： I Just Took the Most Powerful Dose of DMT in the World... Here's What It Was Like [40626165].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-bryan-johnson-i-just-took-the-most-powerful-dose-of-dmt-in-the-world-heres-what-it-was-like-40626165",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Bryan Johnson: I Just Took the Most Powerful Dose of DMT in the World... Here's What It Was Like",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-bryan-johnson-i-just-took-the-most-powerful-dose-of-dmt-in-the-world-heres-what-it-was-like-40626165/"
+        },
+        {
+          "episode_file": "SCIM4201272551 [SCIM4201272551].md",
+          "key": "accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551",
+          "show": "Huberman Lab",
+          "title": "Accelerate Learning & Increase Cognitive Capacity | Dr. Tommy Wood",
+          "url": "/wiki/sources/accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/neuroplasticity/"
     },
     "NewGoldenAgeScienceAgenda": {
       "episode_count": 2,
@@ -13333,6 +13565,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/pcoscardiometabolicrisk/"
+    },
+    "POINTERTrial": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4201272551 [SCIM4201272551].md",
+          "key": "accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551",
+          "show": "Huberman Lab",
+          "title": "Accelerate Learning & Increase Cognitive Capacity | Dr. Tommy Wood",
+          "url": "/wiki/sources/accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/pointertrial/"
     },
     "PackagedWaterPriceWar": {
       "episode_count": 1,
@@ -14095,6 +14343,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/prisonrituallegitimacyrefusal/"
+    },
+    "ProcessingSpeedTrainingDementiaSignal": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4201272551 [SCIM4201272551].md",
+          "key": "accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551",
+          "show": "Huberman Lab",
+          "title": "Accelerate Learning & Increase Cognitive Capacity | Dr. Tommy Wood",
+          "url": "/wiki/sources/accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/processingspeedtrainingdementiasignal/"
     },
     "ProcrastinationSelfRegulationFailure": {
       "episode_count": 2,
@@ -15662,6 +15926,29 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/shibilatehan/"
     },
+    "ShinglesVaccineDementiaSignal": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Working memory： the surprising decline of dementia [6a6b0eeca585d3be78cd9d1b].md",
+          "key": "working-memory-the-surprising-decline-of-dementia-6a6b0eeca585d3be78cd9d1b",
+          "show": "Economist Podcasts",
+          "title": "Working memory: the surprising decline of dementia",
+          "url": "/wiki/sources/working-memory-the-surprising-decline-of-dementia-6a6b0eeca585d3be78cd9d1b/"
+        },
+        {
+          "episode_file": "SCIM4201272551 [SCIM4201272551].md",
+          "key": "accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551",
+          "show": "Huberman Lab",
+          "title": "Accelerate Learning & Increase Cognitive Capacity | Dr. Tommy Wood",
+          "url": "/wiki/sources/accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/shinglesvaccinedementiasignal/"
+    },
     "SituationalCharacterTests": {
       "episode_count": 5,
       "show_count": 1,
@@ -17159,6 +17446,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/tokyo/"
+    },
+    "TommyWood": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4201272551 [SCIM4201272551].md",
+          "key": "accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551",
+          "show": "Huberman Lab",
+          "title": "Accelerate Learning & Increase Cognitive Capacity | Dr. Tommy Wood",
+          "url": "/wiki/sources/accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/tommywood/"
     },
     "TomorrowToday": {
       "episode_count": 1,

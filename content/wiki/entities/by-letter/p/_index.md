@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 8021
+wiki_total_pages: 8026
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -488,6 +488,9 @@ wiki_pages:
   - key: "Podwise"
     title: "Podwise"
     url: "/wiki/entities/podwise/"
+  - key: "POINTERTrial"
+    title: "POINTER Trial"
+    url: "/wiki/entities/pointertrial/"
   - key: "PokeRobotics"
     title: "Poke Robotics"
     url: "/wiki/entities/pokerobotics/"

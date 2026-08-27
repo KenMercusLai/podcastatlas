@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Accelerate Learning & Increase Cognitive Capacity | Dr. Tommy Wood](sources/accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551.md) — Huberman Lab episode with Tommy Wood on adult neuroplasticity, multimodal learning, flow versus clutch states, exercise-specific brain adaptation, nutrient sufficiency, dementia prevention, and concussion recovery.
 - [VOL.214 为什么越优秀的人，越容易在职场被PUA到怀疑自己？从《铁拳教育》聊到“铁拳职场”](sources/vol-214-weishenme-yue-youxiu-de-ren-yue-rongyi-zai-zhichang-bei-pua-dao-huaiyi-ziji-cong-tiequan-jiaoyu-liaodao-tiequan-zhichang-lmx4ewrw7kvcqpyh-q3bur35ybgz.md) — 这病说来话长 episode with 阿汤 and 南基贺 on 《铁拳教育》, workplace bullying, structural power imbalance, parental projection, psychological boundaries, evidence preservation, and nonviolent complaint/support routes.
 - [《资治通鉴·汉纪》857丨学会共赢，才是真正的赢家](sources/zizhi-tongjian-hanji-857-xuehui-gongying-cai-shi-zhenzheng-de-yingjia-lh3zx6pw-4ib7owiz8c68bv-9htn.md) — 芮淇讲透资治通鉴 episode on win-win relationship framing, Huangfu Gui's frontier-pacification self-defense, Xu Huang and Zuo Guan's gift solicitation, and eunuch-gated reward and punishment pressure.
 - [《资治通鉴·汉纪》858丨为什么劝你一定要换位思考？](sources/zizhi-tongjian-hanji-858-weishenme-quan-ni-yiding-yao-huanwei-sikao-lobr-xznqo-ctjpc-ytpstubmahl.md) — 芮淇讲透资治通鉴 episode on perspective-taking, Chen Fan's ignored hunting remonstrance, Feng Gun's eunuch-driven dismissal, and Zhou Jing/Yang Bing's accepted cleanup of eunuch-linked unqualified officeholders.
@@ -1607,6 +1608,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Tommy Wood](entities/TommyWood.md) — Huberman Lab guest explaining adult neuroplasticity, learning challenge, exercise, nutrient sufficiency, dementia prevention, concussion recovery, and strongman training.
+- [Better Brain](entities/BetterBrain.md) — Brain-health organization named as Tommy Wood's chief-science-officer context in the Huberman Lab episode.
+- [BrainHQ](entities/BrainHQ.md) — Processing-speed-oriented brain-training platform discussed in Wood's cognitive-aging and dementia-prevention branch.
+- [Maintain Your Brain Trial](entities/MaintainYourBrainTrial.md) — Australian multidomain dementia-prevention intervention combining diet, activity, behavioral therapy, and online brain training in Wood's summary.
+- [POINTER Trial](entities/POINTERTrial.md) — U.S. multidomain dementia-prevention trial combining diet, exercise, cardiovascular-risk treatment, and brain training in Wood's summary.
 - [南基贺 / Nan Jihe](entities/NanJiHe.md) — Seoul psychiatrist guest in VOL.214 explaining school authority conflict, workplace bullying, structural power imbalance, and psychological boundary protection.
 - [《铁拳教育》 / True Education](entities/TrueEducationKDrama.md) — Korean drama used in VOL.214 as a hook for school authority, parent control, youth violence, and workplace-bullying analogies.
 - [黄琼 / Huang Qiong (late Han)](entities/HuangQiongLateHan.md) — Late-Han official whose 164 CE funeral reveals Xu Zhi's selective mourning and sets up Guo Tai's character interpretation.
@@ -1661,8 +1667,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Darcy (Raised Nutrition)](entities/DarcyRaisedNutrition.md) — Raised Nutrition founder-caller asking whether a niche athletic origin story limits broader wellness appeal.
 - [Cooks Who Feed](entities/CooksWhoFeed.md) — Social-enterprise kitchen-linen company advised to use low-risk B2B trials, referrals, and client-centered impact storytelling.
 - [Seema Sanghavi](entities/SeemaSanghavi.md) — Cooks Who Feed founder-caller focused on convincing B2B buyers to switch vendors.
-- [Huberman Lab](entities/HubermanLab.md) — Show context for episodes on nutrition, mental health, motivation, attention neuroscience, creativity process, emotion science, female hormone health, AI, neuromodulator tools, immunology, leadership, health Q&A, and meditation/consciousness inquiry.
-- [Andrew Huberman](entities/AndrewHuberman.md) — Host framing guest discussions, solo Essentials episodes, and listener Q&A on nutrition, motivation, attention, emotion, AI, hormone health, immunology, leadership, health routines, and meditation/consciousness.
+- [Huberman Lab](entities/HubermanLab.md) — Show context for episodes on nutrition, mental health, motivation, attention neuroscience, creativity, emotion science, female hormone health, AI, neuromodulator tools, immunology, leadership, health Q&A, meditation, and adult learning/brain health.
+- [Andrew Huberman](entities/AndrewHuberman.md) — Host framing guest discussions, solo Essentials episodes, and listener Q&A on nutrition, motivation, attention, emotion, AI, hormone health, immunology, leadership, health routines, meditation, and adult learning.
 - [Masud Husain](entities/MasudHusain.md) — Neuroscience and neurology guest explaining motivation, apathy, dopamine, attention, selfhood, and cognitive resilience.
 - [Chris Palmer](entities/ChrisPalmer.md) — Psychiatrist grounding the episode's metabolic psychiatry, ketogenic diet, and mitochondrial mental-health claims.
 - [Russell Wilder](entities/RussellWilder.md) — Mayo Clinic physician named as the 1921 developer of the ketogenic diet for epilepsy.
@@ -9632,6 +9638,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Multimodal Adult Neuroplasticity](concepts/MultimodalAdultNeuroplasticity.md) — Adult learning frame where novel, difficult, meaningful activities combine cognition, movement, feedback, social context, and mistakes.
+- [Flow-Clutch Learning Distinction](concepts/FlowClutchLearningDistinction.md) — Learning and performance-state boundary separating effortless-feeling flow from effortful clutch states and error-rich practice.
+- [Exercise-Specific Brain Adaptation](concepts/ExerciseSpecificBrainAdaptation.md) — Brain-health exercise frame distinguishing acute arousal, aerobic/HIIT hippocampal effects, resistance-training white-matter effects, and recovery boundaries.
+- [Brain-Health Nutrient Sufficiency](concepts/BrainHealthNutrientSufficiency.md) — Nutrition and supplement frame focused on adequate energy, biomarker testing, nutrient interactions, multivitamin floor-raising, creatine evidence, and peptide caution.
+- [Processing-Speed Training Dementia Signal](concepts/ProcessingSpeedTrainingDementiaSignal.md) — Cognitive-aging signal linking processing-speed training, boosters, BrainHQ, and multidomain dementia-prevention programs while preserving transfer limits.
+- [Concussion Active Recovery](concepts/ConcussionActiveRecovery.md) — Head-injury recovery frame prioritizing medical evaluation, reduced metabolic strain, and staged return to activity below symptom-worsening thresholds.
 - [Workplace Bullying / 职场霸凌](concepts/WorkplaceBullying.md) — Repeated or structurally enabled workplace harm through humiliation, surveillance, exclusion, coercive workload, and self-worth erosion.
 - [Structural Power Imbalance / 结构性权力不平衡](concepts/StructuralPowerImbalance.md) — Institutional asymmetry where one party can impose time, evaluation, punishment, attention, or risk without equal reciprocal exposure.
 - [Psychological Boundary Protection / 心理边界保护](concepts/PsychologicalBoundaryProtection.md) — Coping and escalation practice for separating attacks from self-worth, reducing emotional payoff, preserving evidence, and seeking support.
@@ -9851,7 +9863,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Apathy Action Initiation](concepts/ApathyActionInitiation.md) — Apathy frame where desire or enjoyment may remain while voluntary initiation fails without prompting.
 - [Dopamine Inverted U](concepts/DopamineInvertedU.md) — Performance-boundary claim that dopamine or stimulant boosts may help low or medium baselines but impair high baselines.
 - [Attention Capacity Selection](concepts/AttentionCapacitySelection.md) — Attention frame for limited-capacity selection among stimuli, goals, internal thoughts, working-memory load, and distraction.
-- [Cognitive Resilience](concepts/CognitiveResilience.md) — Aging and dementia frame for preserved cognition despite Alzheimer pathology or risk factors.
+- [Cognitive Resilience](concepts/CognitiveResilience.md) — Aging and dementia frame for preserved daily function despite pathology or risk, shaped by health, engagement, and illness-prevention inputs.
 - [Self-Concept Plasticity](concepts/SelfConceptPlasticity.md) — Selfhood frame where biology, memory, attention, roles, and repeated behavior can change identity experience.
 - [Predictive World-Model Anxiety / 预测世界模型焦虑](concepts/PredictiveWorldModelAnxiety.md) — Claim that the brain's simulation capacity enables planning while replaying possible harms as present anxiety.
 - [Mentalizing Projection / 心智化投射](concepts/MentalizingProjection.md) — Social-cognition mechanism where models of other minds borrow from one's own experience, fear, and desire.
@@ -11066,7 +11078,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Internal Safety Research Exposure](concepts/InternalSafetyResearchExposure.md) — Litigation and accountability risk created when company safety documents, tests, and reviews become evidence.
 - [Cognitive Offloading / 认知卸载](concepts/CognitiveOffloading.md) — Externalizing memory or answer production to people, search tools, or AI, useful when judged actively and risky when it replaces learning practice.
 - [AI Guided Learning Guardrails / AI引导式学习护栏](concepts/AIGuidedLearningGuardrails.md) — AI tutoring design that withholds direct answers, asks learners for their reasoning, and preserves transfer-building effort.
-- [Neuroplasticity / 神经可塑性](concepts/Neuroplasticity.md) — Learning and memory frame where repeated, sufficiently challenging stimulation strengthens neural connections, supported by sleep, recovery, and movement.
+- [Neuroplasticity / 神经可塑性](concepts/Neuroplasticity.md) — Learning and memory frame where repeated challenge, retrieval, movement, sleep, pruning, and recovery reshape brain connections within safety boundaries.
 - [Demand-Side Oil Market Power](concepts/DemandSideOilMarketPower.md) — Large-consumer ability to move oil markets through imports, stockpiles, refining controls, and fuel substitution.
 - [Hate-Speech Criminalization Tradeoff](concepts/HateSpeechCriminalizationTradeoff.md) — Policy tension between punishing racist expression, protecting speech, and repairing structural inequality.
 - [Single-Product National Champion Dependence](concepts/SingleProductNationalChampionDependence.md) — Small-economy reliance on one unusually successful branded product for identity, exports, taxes, or GDP weight.
@@ -11301,9 +11313,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Vibe Training](concepts/VibeTraining.md) — Intent-driven model-training analogy to vibe coding, dependent on AI for AI and constrained by compute cost and unclear demand.
 - [New Lab Organization](concepts/NewLabOrganization.md) — Hybrid AI research-company form for risky directions such as AI for AI, world models, and AI for Science before mature product proof.
 - [Age-Adjusted Dementia Decline](concepts/AgeAdjustedDementiaDecline.md) — Distinction between rising total dementia burden and falling same-age dementia risk in rich countries.
-- [Modifiable Dementia Risk Factors](concepts/ModifiableDementiaRiskFactors.md) — Prevention frame connecting dementia risk to cardiovascular health, smoking, obesity, hearing loss, depression, education, and other practical interventions.
+- [Modifiable Dementia Risk Factors](concepts/ModifiableDementiaRiskFactors.md) — Prevention frame connecting dementia risk to cardiovascular, metabolic, sensory, education, sleep, illness, injury, activity, and public-health inputs.
 - [Cardiovascular-Brain Health Link](concepts/CardiovascularBrainHealthLink.md) — Prevention frame linking cardiovascular and metabolic risk management to dementia risk, perimenopause symptoms, and brain-health outcomes.
-- [Shingles Vaccine Dementia Signal](concepts/ShinglesVaccineDementiaSignal.md) — Natural-experiment signal that shingles vaccination may reduce later dementia risk, warranting more prevention research.
+- [Shingles Vaccine Dementia Signal](concepts/ShinglesVaccineDementiaSignal.md) — Natural-experiment and observational signal that shingles vaccination is associated with lower later dementia risk while causality remains unsettled.
 - [APOE4 Dementia Risk](concepts/APOE4DementiaRisk.md) — Genetic-risk frame showing APOE4 raises dementia risk without determining individual outcome.
 - [Amyloid Hypothesis Uncertainty](concepts/AmyloidHypothesisUncertainty.md) — Dementia mechanism caution around whether amyloid/protein tangles are cause, symptom, or part of a more complex process.
 - [Alzheimer Drug Efficacy Gap](concepts/AlzheimerDrugEfficacyGap.md) — Source's contrast between expensive Alzheimer drug development, modest cognition gains, and safety risks.
@@ -11588,7 +11600,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Build vs. Borrow Product Strategy](concepts/BuildVsBorrowProductStrategy.md) — Engineering/product discipline of deciding what must be invented and what should be assembled from existing parts.
 - [Brooks's Law](concepts/BrooksLaw.md) — Project-management warning that adding people to a late or unclear project can increase coordination cost and delay it further.
 - [Additive Bias](concepts/AdditiveBias.md) — Decision tendency to improve by adding more rather than cutting, narrowing, or stopping.
-- [Desirable Difficulty](concepts/DesirableDifficulty.md) — Constraint frame where useful limits force tradeoffs, invention, and sharper work.
+- [Desirable Difficulty](concepts/DesirableDifficulty.md) — Constraint and learning frame where calibrated difficulty preserves focus, tradeoffs, active recall, correction, and reachable adaptation.
 - [Skimpflation](concepts/Skimpflation.md) — Quality-degradation response to inflation where familiar products keep their surface identity while ingredients, service, or standards quietly weaken.
 - [Chocolate Compound](concepts/ChocolateCompound.md) — Chocolate-like coating that can use chocolate ingredients without meeting legal milk-chocolate standards.
 - [Chocolate Label Standards](concepts/ChocolateLabelStandards.md) — Food-label rules that make distinctions such as milk chocolate, chocolate candy, and peanut butter cream economically meaningful.

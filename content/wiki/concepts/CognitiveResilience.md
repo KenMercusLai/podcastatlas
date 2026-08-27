@@ -4,8 +4,9 @@ type: concept
 tags: [aging, dementia, neuroscience, prevention]
 sources:
   - how-to-improve-motivation-overcome-procrastination-dr-masud-husain-scim3386045656
+  - accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551
 knowledge_schema: synthesis-v1
-last_updated: 2026-08-27
+last_updated: 2026-08-28
 ---
 
 # Cognitive Resilience
@@ -14,14 +15,17 @@ last_updated: 2026-08-27
 Cognitive resilience is the episode's frame for preserved cognition despite brain pathology or aging risk, especially in the gap between Alzheimer pathology and clinical dementia.
 
 ## Current Synthesis
-[[how-to-improve-motivation-overcome-procrastination-dr-masud-husain-scim3386045656]] separates Alzheimer disease pathology from dementia symptoms. Some people can show amyloid plaques, tau tangles, or other pathology without clear cognitive impairment, which shifts the question from pathology alone to resilience: why some brains and lives withstand disease burden longer. The episode links possible protection to social connection, curiosity, purpose, exercise, blood-pressure and metabolic control, smoking and alcohol reduction, and low apathy, while keeping prediction and disclosure ethically difficult.
+The current evidence separates pathology, risk, and daily function. Husain's episode says Alzheimer disease pathology does not necessarily equal dementia symptoms: some people can show amyloid plaques, tau tangles, or other pathology without clear cognitive impairment. Wood's episode defines dementia as the end stage of cognitive decline where daily functioning is impaired, then asks why some decline may be delayed, prevented, or buffered by lifestyle, education, vascular health, sleep, activity, vaccination, and illness prevention.
+
+The combined synthesis is that resilience is not a single trait. It may emerge from brain reserve, cognitive engagement, cardiometabolic health, social connection, purpose, low apathy, fewer serious illness shocks, and preserved sensory or physical inputs. Prediction remains difficult because biomarkers and genetic risk can appear long before symptoms and do not determine individual outcome.
 
 ## Key Claims
-- Alzheimer pathology is not identical to clinical dementia.
+- Alzheimer pathology is not identical to clinical dementia or daily functional impairment.
 - Post-mortem evidence can show Alzheimer-like pathology in people who did not have dementia.
-- Resilience may depend on physical health, cardiometabolic risk control, social connection, curiosity, and purpose.
+- Resilience may depend on physical health, cardiometabolic risk control, sleep, social connection, curiosity, purpose, cognitive challenge, and continued activity.
 - Psychological and social factors may matter almost as much as some physical-health factors.
 - High apathy scores in healthy aging are presented as roughly doubling later Alzheimer-disease risk.
+- Serious illness and hospitalization may produce stepwise drops in cognitive function, making prevention and recovery conditions part of resilience.
 - Biomarkers can appear more than 10 or 15 years before cognitive complaints, making disclosure and prediction hard.
 
 ## Evidence
@@ -29,12 +33,15 @@ Cognitive resilience is the episode's frame for preserved cognition despite brai
 - Resilience question - [[how-to-improve-motivation-overcome-procrastination-dr-masud-husain-scim3386045656]] describes research into people who remain cognitively resilient despite pathology.
 - Protective factors - [[how-to-improve-motivation-overcome-procrastination-dr-masud-husain-scim3386045656]] names exercise, blood pressure control, avoiding diabetes, cholesterol control, limiting alcohol, not smoking, social connection, curiosity, and purpose.
 - Apathy signal - [[how-to-improve-motivation-overcome-procrastination-dr-masud-husain-scim3386045656]] says high apathy questionnaire scores in healthy aging people predict about twice the risk of developing Alzheimer disease.
+- Functional definition - [[accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551]] defines dementia as end-stage cognitive decline where daily functioning is impaired.
+- Preventive inputs - [[accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551]] links modifiable dementia risk to education, blood pressure, diabetes, sensory loss, brain trauma, LDL cholesterol, physical activity, sleep, nutrition, and vaccination signals.
+- Illness shock model - [[accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551]] says cognition often declines stepwise after major illness or hospitalization in studies such as Adult Changes in Thought and the Rush Memory and Aging Project.
 
 ## Counterevidence & Qualifications
-The episode does not prove a single causal resilience mechanism. The risk-factor list should be read as source-scoped prevention and association evidence, not a guarantee that individual dementia can be prevented. Biomarker detection also creates a counseling problem because pathology may never become symptoms.
+The evidence does not prove a single causal resilience mechanism. Risk-factor lists should be read as source-scoped prevention and association evidence, not a guarantee that individual dementia can be prevented. Biomarker detection also creates a counseling problem because pathology may never become symptoms, and Wood's prevention discussion does not replace clinical guidance.
 
 ## What Changed
-- Created a resilience concept connecting Alzheimer pathology, dementia symptoms, social purpose, health behaviors, and apathy risk.
+- Expanded the concept from pathology-symptom mismatch to include functional impairment, illness-related step changes, and broader modifiable prevention inputs.
 
 ## Related Concepts
 - [[ModifiableDementiaRiskFactors]] - broader prevention frame for cardiovascular, sensory, metabolic, and education factors.
@@ -43,3 +50,5 @@ The episode does not prove a single causal resilience mechanism. The risk-factor
 - [[APOE4DementiaRisk]] - genetic-risk boundary where risk is elevated but not deterministic.
 - [[CognitiveDeclineAdvancePlanning]] - practical planning neighbor for later-life cognitive uncertainty.
 - [[ApathyActionInitiation]] - motivational symptom that may be an early risk signal.
+- [[ShinglesVaccineDementiaSignal]] - vaccination-related prevention signal that may affect resilience pathways.
+- [[ProcessingSpeedTrainingDementiaSignal]] - cognitive-training signal adjacent to resilience and prevention.

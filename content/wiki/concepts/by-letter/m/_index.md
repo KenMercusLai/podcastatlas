@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 5780
+wiki_total_pages: 5786
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -938,6 +938,9 @@ wiki_pages:
   - key: "MultidisciplinaryHospitalCare"
     title: "Multidisciplinary Hospital Care / 医院多职种协作"
     url: "/wiki/concepts/multidisciplinaryhospitalcare/"
+  - key: "MultimodalAdultNeuroplasticity"
+    title: "Multimodal Adult Neuroplasticity"
+    url: "/wiki/concepts/multimodaladultneuroplasticity/"
   - key: "MultimodalIntelligence"
     title: "Multimodal Intelligence"
     url: "/wiki/concepts/multimodalintelligence/"

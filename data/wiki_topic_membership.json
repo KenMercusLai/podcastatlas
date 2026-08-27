@@ -9446,6 +9446,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "BetterBrain": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "BetterMarkets": [
     {
       "key": "politics",
@@ -10320,6 +10327,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "BrainHQ": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "BrainImmuneStateCoupling": [
@@ -14424,6 +14438,13 @@
     }
   ],
   "ConcreteSelfPraise": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "ConcussionActiveRecovery": [
     {
       "key": "science",
       "label": "Science",
@@ -20539,6 +20560,13 @@
       "url": "/topics/science/"
     }
   ],
+  "ExerciseSpecificBrainAdaptation": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "Existentialism": [
     {
       "key": "culture",
@@ -22043,6 +22071,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "FlowClutchLearningDistinction": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "Flux": [
@@ -39071,6 +39106,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "MultimodalAdultNeuroplasticity": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "MultimodalIntelligence": [
@@ -57600,6 +57642,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "TommyWood": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "TomorrowToday": [
     {
       "key": "technology",
@@ -65374,6 +65423,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b": [
