@@ -12744,3 +12744,11 @@ Added source page for a 165 CE Huan-era backfill on Yang Yuanqun's bribery rever
 ## [2026-08-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-28] ingest | 《资治通鉴·汉纪》865丨职场BOSS也容易被这种人背刺
+
+Added source page for a 165 CE Huan-era backfill on Yang Bing's impeachment of Hou Can and Hou Lan, the dispute over whether the Three Excellencies can impeach palace eunuchs, the temporary civil-official counterattack against eunuch privilege, and the Deng-Guo harem-rivalry deposition notice. Created Hou Can and Three Excellencies Inner-Court Jurisdiction pages; updated Yang Bing, Hou Lan, Emperor Huan, Empress Deng, Guo Guiren, Eunuch Patronage Violence Shield, index, and overview. No settled contradiction found; Hou Lan's 165 removal is kept as an earlier removal or demotion whose later access/reinstatement path remains unresolved.
+
+## [2026-08-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -4,17 +4,18 @@ type: entity
 tags: [person, late-han, empress, harem-politics]
 sources:
   - zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v
+  - zizhi-tongjian-hanji-865-zhichang-boss-ye-rongyi-bei-zhezhong-ren-beici-ljfhfevljqnx6zceakjfbw5gwfma
 last_updated: 2026-08-28
 knowledge_schema: synthesis-v1
 ---
 
 ## Overview
 
-邓皇后 / Empress Deng is the Huan-era empress in [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|Hanji 868]] whose rivalry with [[GuoGuirenHuanLateHan|郭贵人]] ends in deposition and death, before the episode turns to [[EmpressDowagerDouMiao|窦妙]] and [[TianShengLateHan|田圣 / 田胜]].
+邓皇后 / Empress Deng is the Huan-era empress whose rivalry with [[GuoGuirenHuanLateHan|郭贵人]] ends in deposition, confinement, and death. Hanji 865 adds the deposition notice and the Deng Meng / three-surname identity detail, while Hanji 868 places her case inside the broader palace sequence before [[EmpressDowagerDouMiao|窦妙]] and [[TianShengLateHan|田圣 / 田胜]].
 
 ## Current Profile
 
-The page is source-scoped to a short harem-politics notice. After the Liang empress is removed from the story, Emperor Huan favors Empress Deng, then Guo Guiren becomes her rival. The rivalry is not presented as durable political power for either woman: Deng loses title and dies depressed, while Guo's victory also fails to secure lasting affection.
+The page is source-scoped to a short harem-politics notice. After the Liang empress is removed from the story, Emperor Huan favors Empress Deng, then Guo Guiren becomes her rival. Hanji 865 presents the rivalry as mutual accusation and court struggle: Deng fails, is deposed on the second-month date preserved by the source, is confined in the baoshi, and dies in grief. The same notice says 邓万世 and 邓会 are executed, making her fall a household-punishment event rather than only a private emotional defeat.
 
 In the episode's structure, Empress Deng provides the first example in a chain where success inside palace rivalry does not equal stable security. Her case sets up the later Dou Miao and Tian Sheng contrast between title, affection, lineage, and post-patron vulnerability.
 
@@ -22,12 +23,18 @@ In the episode's structure, Empress Deng provides the first example in a chain w
 
 - Huan-era empress whose position depends on palace favor and rivalry.
 - Rival of Guo Guiren in the episode's harem sequence.
-- Deposed consort whose death is framed as emotional and political defeat.
+- Deposed consort whose death is framed as emotional, political, and confinement-related defeat.
+- Palace actor identified by the source as Deng Meng and as a woman whose surname/status shifted through court adoption and imperial favor.
+- Fall case whose relatives are punished after her deposition.
 - Source-scoped precursor to the Dou Miao and Tian Sheng formal-status conflict.
 
 ## Evidence
 
 - Harem rivalry: [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|Hanji 868]] says Emperor Huan favors Empress Deng after the Liang branch, then Guo Guiren competes with her.
+- Mutual accusation and deposition: [[zizhi-tongjian-hanji-865-zhichang-boss-ye-rongyi-bei-zhezhong-ren-beici-ljfhfevljqnx6zceakjfbw5gwfma|Hanji 865]] says Empress Deng and Guo Guiren accuse each other, after which Deng loses the struggle and is deposed.
+- Confinement and death: [[zizhi-tongjian-hanji-865-zhichang-boss-ye-rongyi-bei-zhezhong-ren-beici-ljfhfevljqnx6zceakjfbw5gwfma|Hanji 865]] says Deng is sent to the baoshi and dies in grief and anger.
+- Household punishment: [[zizhi-tongjian-hanji-865-zhichang-boss-ye-rongyi-bei-zhezhong-ren-beici-ljfhfevljqnx6zceakjfbw5gwfma|Hanji 865]] says 邓万世 and 邓会 are executed after her fall.
+- Identity detail: [[zizhi-tongjian-hanji-865-zhichang-boss-ye-rongyi-bei-zhezhong-ren-beici-ljfhfevljqnx6zceakjfbw5gwfma|Hanji 865]] identifies her with Deng Meng and preserves the host's three-surname explanation.
 - Deposition and death: [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|Hanji 868]] says Huan deposes Empress Deng and that she dies in depression.
 - Pattern role: [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|Hanji 868]] uses the Deng and Guo sequence before the Tian Sheng and Dou Miao empress-selection conflict.
 
@@ -35,11 +42,12 @@ In the episode's structure, Empress Deng provides the first example in a chain w
 
 - The page does not reconstruct Empress Deng's full lineage, office chronology, or independent factional base.
 - Hanji 868 presents her as part of Emperor Huan's harem-politics sequence, so claims about her private motives remain source-scoped.
+- Hanji 865's Deng Meng and three-surname explanation is retained as the episode's identity note, not expanded into a complete prosopography.
 
 ## What Changed
 
-- Created the page from Hanji 868's harem-rivalry sequence.
-- Added Empress Deng as an earlier Huan-era example of palace status failing to secure durable protection.
+- Added Hanji 865's deposition, baoshi confinement, death, and household-punishment details.
+- Preserved Empress Deng as an earlier Huan-era example of palace status failing to secure durable protection.
 
 ## Relationships
 

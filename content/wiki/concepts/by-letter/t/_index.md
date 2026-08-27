@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 5768
+wiki_total_pages: 5769
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -656,6 +656,9 @@ wiki_pages:
   - key: "ThreeRefusalsIntegrity"
     title: "三不沾式清廉自守 / Three-Refusals Integrity"
     url: "/wiki/concepts/threerefusalsintegrity/"
+  - key: "ThreeExcellenciesInnerCourtJurisdiction"
+    title: "三公监察内廷职权 / Three Excellencies Inner-Court Jurisdiction"
+    url: "/wiki/concepts/threeexcellenciesinnercourtjurisdiction/"
   - key: "ThreeKingdomsStruggleStrategyReading"
     title: "三国斗争策略读法 / Three Kingdoms Struggle Strategy Reading"
     url: "/wiki/concepts/threekingdomsstrugglestrategyreading/"
