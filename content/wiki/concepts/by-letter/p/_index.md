@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5654
+wiki_total_pages: 5661
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -434,6 +434,9 @@ wiki_pages:
   - key: "PhysicsOfAI"
     title: "Physics Of AI"
     url: "/wiki/concepts/physicsofai/"
+  - key: "PhysicsStagnationClaim"
+    title: "Physics Stagnation Claim"
+    url: "/wiki/concepts/physicsstagnationclaim/"
   - key: "PhysiognomyMoralAppearanceFallacy"
     title: "Physiognomy Moral Appearance Fallacy / 以貌定德谬误"
     url: "/wiki/concepts/physiognomymoralappearancefallacy/"

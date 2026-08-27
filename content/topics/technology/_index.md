@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2507
+topic_total_pages: 2509
 topic_concepts:
   - key: "AcademicAIResearchRole"
     title: "Academic AI Research Role"
@@ -3286,6 +3286,9 @@ topic_concepts:
   - key: "TransparentAIUse"
     title: "Transparent AI Use"
     url: "/wiki/concepts/transparentaiuse/"
+  - key: "TrashCanCorpusScientificAI"
+    title: "Trash Can Corpus Scientific AI"
+    url: "/wiki/concepts/trashcancorpusscientificai/"
   - key: "TravelAgentResilience"
     title: "Travel Agent Resilience"
     url: "/wiki/concepts/travelagentresilience/"
@@ -7023,6 +7026,9 @@ topic_sources:
   - key: "eric-ries-on-how-founders-quietly-lose-their-company"
     title: "Eric Ries on How Founders Quietly Lose Their Company"
     url: "/wiki/sources/eric-ries-on-how-founders-quietly-lose-their-company/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645"
+    title: "Eric Weinstein: The State of American Science, Breakthrough Coverups, and the Danger of Physics"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645/"
   - key: "even-more-maximum-pressure-sanctions-on-iran-6a8d6a9b66c4a1e81a4c86a9"
     title: "Even-more-maximum pressure: sanctions on Iran"
     url: "/wiki/sources/even-more-maximum-pressure-sanctions-on-iran-6a8d6a9b66c4a1e81a4c86a9/"

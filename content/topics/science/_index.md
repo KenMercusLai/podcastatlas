@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 748
+topic_total_pages: 753
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -505,6 +505,9 @@ topic_concepts:
   - key: "GeneticCulpabilityProblem"
     title: "Genetic Culpability Problem / 遗传归责问题"
     url: "/wiki/concepts/geneticculpabilityproblem/"
+  - key: "GeometricUnity"
+    title: "Geometric Unity"
+    url: "/wiki/concepts/geometricunity/"
   - key: "GilbertSpinozaHypothesis"
     title: "Gilbert-Spinoza Hypothesis / 吉尔伯特-斯宾诺莎假设"
     url: "/wiki/concepts/gilbertspinozahypothesis/"
@@ -886,6 +889,9 @@ topic_concepts:
   - key: "PhysicsOfAI"
     title: "Physics Of AI"
     url: "/wiki/concepts/physicsofai/"
+  - key: "PhysicsStagnationClaim"
+    title: "Physics Stagnation Claim"
+    url: "/wiki/concepts/physicsstagnationclaim/"
   - key: "PhysiognomyMoralAppearanceFallacy"
     title: "Physiognomy Moral Appearance Fallacy / 以貌定德谬误"
     url: "/wiki/concepts/physiognomymoralappearancefallacy/"
@@ -1225,6 +1231,9 @@ topic_concepts:
   - key: "TrainedIntuition"
     title: "Trained Intuition"
     url: "/wiki/concepts/trainedintuition/"
+  - key: "TrashCanCorpusScientificAI"
+    title: "Trash Can Corpus Scientific AI"
+    url: "/wiki/concepts/trashcancorpusscientificai/"
   - key: "TraumaNarrativeIntegration"
     title: "Trauma Narrative Integration / 创伤叙事整合"
     url: "/wiki/concepts/traumanarrativeintegration/"
@@ -1466,6 +1475,9 @@ topic_entities:
   - key: "ErasmusDarwin"
     title: "Erasmus Darwin / 伊拉斯默·达尔文"
     url: "/wiki/entities/erasmusdarwin/"
+  - key: "EricWeinstein"
+    title: "Eric Weinstein"
+    url: "/wiki/entities/ericweinstein/"
   - key: "ErichFromm"
     title: "Erich Fromm"
     url: "/wiki/entities/erichfromm/"
@@ -2181,6 +2193,9 @@ topic_sources:
   - key: "ep273-npc-haishi-npd-dou-bie-xiang-nazou-women-rensheng-de-yaokongqi-lqqnd-e29xvhx2mtf6uuzx13wwvf"
     title: "EP273 NPC还是NPD，都别想拿走我们人生的遥控器"
     url: "/wiki/sources/ep273-npc-haishi-npd-dou-bie-xiang-nazou-women-rensheng-de-yaokongqi-lqqnd-e29xvhx2mtf6uuzx13wwvf/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645"
+    title: "Eric Weinstein: The State of American Science, Breakthrough Coverups, and the Danger of Physics"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645/"
   - key: "fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd"
     title: "Fear-jerker: America's AI backlash"
     url: "/wiki/sources/fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd/"

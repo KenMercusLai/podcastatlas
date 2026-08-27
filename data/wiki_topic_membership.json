@@ -19939,6 +19939,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "EricWeinstein": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "ErichFromm": [
     {
       "key": "science",
@@ -23912,6 +23919,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "GeometricUnity": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "GeopoliticalCycleMacro": [
@@ -43071,6 +43085,13 @@
       "url": "/topics/science/"
     }
   ],
+  "PhysicsStagnationClaim": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "PhysiognomicInvestmentJudgment": [
     {
       "key": "politics",
@@ -57345,6 +57366,18 @@
       "url": "/topics/history/"
     }
   ],
+  "TrashCanCorpusScientificAI": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "TraumaNarrativeIntegration": [
     {
       "key": "science",
@@ -64914,6 +64947,18 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "all-in-with-chamath-jason-sacks-friedberg-flock-ceo-garrett-langley-on-controversy-surveillance-state-claims-and-privacy-vs-safety-42470485": [

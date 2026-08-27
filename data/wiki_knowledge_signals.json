@@ -1150,9 +1150,9 @@
       "url": "/wiki/entities/antarctica/"
     },
     "AnthonyFauci": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Michael Kratsios： Trump's Science Agenda, Anti-Science Claims, Fauci's Damage, DEI & China [42543770].md",
@@ -1160,9 +1160,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Michael Kratsios: Trump's Science Agenda, Anti-Science Claims, Fauci's Damage, DEI & China",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-michael-kratsios-trumps-science-agenda-anti-science-claims-faucis-damage-dei-china-42543770/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Eric Weinstein： The State of American Science, Breakthrough Coverups, and the Danger of Physics [42568645].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Eric Weinstein: The State of American Science, Breakthrough Coverups, and the Danger of Physics",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-08-27",
       "url": "/wiki/entities/anthonyfauci/"
     },
     "AntiUsurpationCoalitionPressure": {
@@ -2706,6 +2713,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/dangerousguestreleaserisk/"
     },
+    "DangerousKnowledgeSecrecy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Eric Weinstein： The State of American Science, Breakthrough Coverups, and the Danger of Physics [42568645].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Eric Weinstein: The State of American Science, Breakthrough Coverups, and the Danger of Physics",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/dangerousknowledgesecrecy/"
+    },
     "DataBrokerComplianceGap": {
       "episode_count": 1,
       "show_count": 1,
@@ -3760,6 +3783,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/enterpriseaipilotpurgatory/"
     },
+    "EricWeinstein": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Eric Weinstein： The State of American Science, Breakthrough Coverups, and the Danger of Physics [42568645].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Eric Weinstein: The State of American Science, Breakthrough Coverups, and the Danger of Physics",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/ericweinstein/"
+    },
     "EunuchPatronageViolenceShield": {
       "episode_count": 1,
       "show_count": 1,
@@ -3917,9 +3956,9 @@
       "url": "/wiki/entities/fatherlinnortheastmission/"
     },
     "FederalResearchFundingPoliticalRisk": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Rahm Emanuel： Trump's Foreign Policy, China, Europe's Decline, Immigration & DSA vs Democrats [42416310].md",
@@ -3941,9 +3980,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Michael Kratsios: Trump's Science Agenda, Anti-Science Claims, Fauci's Damage, DEI & China",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-michael-kratsios-trumps-science-agenda-anti-science-claims-faucis-damage-dei-china-42543770/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Eric Weinstein： The State of American Science, Breakthrough Coverups, and the Danger of Physics [42568645].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Eric Weinstein: The State of American Science, Breakthrough Coverups, and the Danger of Physics",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-08-27",
       "url": "/wiki/concepts/federalresearchfundingpoliticalrisk/"
     },
     "FemaleReligiousLifeSpace": {
@@ -4553,6 +4599,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/gengbaolatehan/"
+    },
+    "GeometricUnity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Eric Weinstein： The State of American Science, Breakthrough Coverups, and the Danger of Physics [42568645].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Eric Weinstein: The State of American Science, Breakthrough Coverups, and the Danger of Physics",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/geometricunity/"
     },
     "GlobalProductLocalization": {
       "episode_count": 15,
@@ -5320,6 +5382,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/heirloomimperialseal/"
+    },
+    "HighBetaScienceFunding": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Eric Weinstein： The State of American Science, Breakthrough Coverups, and the Danger of Physics [42568645].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Eric Weinstein: The State of American Science, Breakthrough Coverups, and the Danger of Physics",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/highbetasciencefunding/"
     },
     "HistoricalComplexityAgainstLabels": {
       "episode_count": 1,
@@ -6298,9 +6376,9 @@
       "url": "/wiki/concepts/isolatedretaildemandmanagement/"
     },
     "JayBhattacharya": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Supercharging a New FDA： Marty Makary on Science, Power & Patients [39750050].md",
@@ -6315,9 +6393,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Michael Kratsios: Trump's Science Agenda, Anti-Science Claims, Fauci's Damage, DEI & China",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-michael-kratsios-trumps-science-agenda-anti-science-claims-faucis-damage-dei-china-42543770/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Eric Weinstein： The State of American Science, Breakthrough Coverups, and the Danger of Physics [42568645].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Eric Weinstein: The State of American Science, Breakthrough Coverups, and the Danger of Physics",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-08-27",
       "url": "/wiki/entities/jaybhattacharya/"
     },
     "JenniferKing": {
@@ -8468,9 +8553,9 @@
       "url": "/wiki/entities/mcmurdostation/"
     },
     "MedicalDogmaTrustRepair": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Supercharging a New FDA： Marty Makary on Science, Power & Patients [39750050].md",
@@ -8485,9 +8570,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Michael Kratsios: Trump's Science Agenda, Anti-Science Claims, Fauci's Damage, DEI & China",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-michael-kratsios-trumps-science-agenda-anti-science-claims-faucis-damage-dei-china-42543770/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Eric Weinstein： The State of American Science, Breakthrough Coverups, and the Danger of Physics [42568645].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Eric Weinstein: The State of American Science, Breakthrough Coverups, and the Danger of Physics",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-08-27",
       "url": "/wiki/concepts/medicaldogmatrustrepair/"
     },
     "MengYan": {
@@ -9029,9 +9121,9 @@
       "url": "/wiki/entities/nationalinstitutesofhealth/"
     },
     "NationalScienceFoundation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Michael Kratsios： Trump's Science Agenda, Anti-Science Claims, Fauci's Damage, DEI & China [42543770].md",
@@ -9039,9 +9131,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Michael Kratsios: Trump's Science Agenda, Anti-Science Claims, Fauci's Damage, DEI & China",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-michael-kratsios-trumps-science-agenda-anti-science-claims-faucis-damage-dei-china-42543770/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Eric Weinstein： The State of American Science, Breakthrough Coverups, and the Danger of Physics [42568645].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Eric Weinstein: The State of American Science, Breakthrough Coverups, and the Danger of Physics",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-08-27",
       "url": "/wiki/entities/nationalsciencefoundation/"
     },
     "NeoRobot": {
@@ -9061,9 +9160,9 @@
       "url": "/wiki/entities/neorobot/"
     },
     "NewGoldenAgeScienceAgenda": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Michael Kratsios： Trump's Science Agenda, Anti-Science Claims, Fauci's Damage, DEI & China [42543770].md",
@@ -9071,9 +9170,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Michael Kratsios: Trump's Science Agenda, Anti-Science Claims, Fauci's Damage, DEI & China",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-michael-kratsios-trumps-science-agenda-anti-science-claims-faucis-damage-dei-china-42543770/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Eric Weinstein： The State of American Science, Breakthrough Coverups, and the Danger of Physics [42568645].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Eric Weinstein: The State of American Science, Breakthrough Coverups, and the Danger of Physics",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-08-27",
       "url": "/wiki/concepts/newgoldenagescienceagenda/"
     },
     "NewYorkMagazine": {
@@ -9336,9 +9442,9 @@
       "url": "/wiki/concepts/obliqueremonstranceselfprotection/"
     },
     "OfficeOfScienceAndTechnologyPolicy": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Michael Kratsios： Trump's Science Agenda, Anti-Science Claims, Fauci's Damage, DEI & China [42543770].md",
@@ -9346,9 +9452,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Michael Kratsios: Trump's Science Agenda, Anti-Science Claims, Fauci's Damage, DEI & China",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-michael-kratsios-trumps-science-agenda-anti-science-claims-faucis-damage-dei-china-42543770/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Eric Weinstein： The State of American Science, Breakthrough Coverups, and the Danger of Physics [42568645].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Eric Weinstein: The State of American Science, Breakthrough Coverups, and the Danger of Physics",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-08-27",
       "url": "/wiki/entities/officeofscienceandtechnologypolicy/"
     },
     "OilRevenueSanctionsLeverage": {
@@ -9876,6 +9989,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/physicalaihardtakeoff/"
     },
+    "PhysicsStagnationClaim": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Eric Weinstein： The State of American Science, Breakthrough Coverups, and the Danger of Physics [42568645].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Eric Weinstein: The State of American Science, Breakthrough Coverups, and the Danger of Physics",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/physicsstagnationclaim/"
+    },
     "PoliticalAccentPrestige": {
       "episode_count": 1,
       "show_count": 1,
@@ -10256,9 +10385,9 @@
       "url": "/wiki/concepts/researcheducationrobotplatform/"
     },
     "ResearchFundingAdditionality": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Michael Kratsios： Trump's Science Agenda, Anti-Science Claims, Fauci's Damage, DEI & China [42543770].md",
@@ -10266,15 +10395,22 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Michael Kratsios: Trump's Science Agenda, Anti-Science Claims, Fauci's Damage, DEI & China",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-michael-kratsios-trumps-science-agenda-anti-science-claims-faucis-damage-dei-china-42543770/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Eric Weinstein： The State of American Science, Breakthrough Coverups, and the Danger of Physics [42568645].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Eric Weinstein: The State of American Science, Breakthrough Coverups, and the Danger of Physics",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-08-27",
       "url": "/wiki/concepts/researchfundingadditionality/"
     },
     "ResearchInstitutionsAsStrategicCapacity": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's Generational Run, OpenAI Panics, AI Moats, Meta Loses Lawsuits [40647420].md",
@@ -10296,9 +10432,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Michael Kratsios: Trump's Science Agenda, Anti-Science Claims, Fauci's Damage, DEI & China",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-michael-kratsios-trumps-science-agenda-anti-science-claims-faucis-damage-dei-china-42543770/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Eric Weinstein： The State of American Science, Breakthrough Coverups, and the Danger of Physics [42568645].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Eric Weinstein: The State of American Science, Breakthrough Coverups, and the Danger of Physics",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-08-27",
       "url": "/wiki/concepts/researchinstitutionsasstrategiccapacity/"
     },
     "ResourceAsymmetryAttrition": {
@@ -10782,9 +10925,9 @@
       "url": "/wiki/concepts/scholarofficialpublicduty/"
     },
     "ScienceFundingPortfolioLogic": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Michael Kratsios： Trump's Science Agenda, Anti-Science Claims, Fauci's Damage, DEI & China [42543770].md",
@@ -10792,9 +10935,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Michael Kratsios: Trump's Science Agenda, Anti-Science Claims, Fauci's Damage, DEI & China",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-michael-kratsios-trumps-science-agenda-anti-science-claims-faucis-damage-dei-china-42543770/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Eric Weinstein： The State of American Science, Breakthrough Coverups, and the Danger of Physics [42568645].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Eric Weinstein: The State of American Science, Breakthrough Coverups, and the Danger of Physics",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-08-27",
       "url": "/wiki/concepts/sciencefundingportfoliologic/"
     },
     "ScienceTalentPipeline": {
@@ -10814,9 +10964,9 @@
       "url": "/wiki/concepts/sciencetalentpipeline/"
     },
     "ScienceTrustPoliticization": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Michael Kratsios： Trump's Science Agenda, Anti-Science Claims, Fauci's Damage, DEI & China [42543770].md",
@@ -10824,10 +10974,33 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Michael Kratsios: Trump's Science Agenda, Anti-Science Claims, Fauci's Damage, DEI & China",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-michael-kratsios-trumps-science-agenda-anti-science-claims-faucis-damage-dei-china-42543770/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Eric Weinstein： The State of American Science, Breakthrough Coverups, and the Danger of Physics [42568645].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Eric Weinstein: The State of American Science, Breakthrough Coverups, and the Danger of Physics",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-08-27",
       "url": "/wiki/concepts/sciencetrustpoliticization/"
+    },
+    "ScientificPrecariat": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Eric Weinstein： The State of American Science, Breakthrough Coverups, and the Danger of Physics [42568645].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Eric Weinstein: The State of American Science, Breakthrough Coverups, and the Danger of Physics",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/scientificprecariat/"
     },
     "ScottBessent": {
       "episode_count": 3,
@@ -12219,6 +12392,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/toydesignhumancreativityboundary/"
     },
+    "TrashCanCorpusScientificAI": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Eric Weinstein： The State of American Science, Breakthrough Coverups, and the Danger of Physics [42568645].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Eric Weinstein: The State of American Science, Breakthrough Coverups, and the Danger of Physics",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/trashcancorpusscientificai/"
+    },
     "TreasuryBuybackPolicy": {
       "episode_count": 2,
       "show_count": 2,
@@ -12295,10 +12484,26 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/tudorsuccessioncrisis/"
     },
-    "USChinaScienceCompetition": {
+    "UAPCompartmentalization": {
       "episode_count": 1,
       "show_count": 1,
       "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Eric Weinstein： The State of American Science, Breakthrough Coverups, and the Danger of Physics [42568645].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Eric Weinstein: The State of American Science, Breakthrough Coverups, and the Danger of Physics",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/uapcompartmentalization/"
+    },
+    "USChinaScienceCompetition": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Michael Kratsios： Trump's Science Agenda, Anti-Science Claims, Fauci's Damage, DEI & China [42543770].md",
@@ -12306,9 +12511,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Michael Kratsios: Trump's Science Agenda, Anti-Science Claims, Fauci's Damage, DEI & China",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-michael-kratsios-trumps-science-agenda-anti-science-claims-faucis-damage-dei-china-42543770/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Eric Weinstein： The State of American Science, Breakthrough Coverups, and the Danger of Physics [42568645].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Eric Weinstein: The State of American Science, Breakthrough Coverups, and the Danger of Physics",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-08-27",
       "url": "/wiki/concepts/uschinasciencecompetition/"
     },
     "UlsterDefenceAssociation": {

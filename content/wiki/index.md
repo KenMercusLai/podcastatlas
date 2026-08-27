@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Eric Weinstein: The State of American Science, Breakthrough Coverups, and the Danger of Physics](sources/all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645.md) — All-In interview with Eric Weinstein on scientific precarity, high-beta basic-science funding, physics stagnation, dangerous-knowledge secrecy, UAP compartmentalization, AI discovery, and China talent competition.
 - [外卖成为海底捞增长最快的业务，乐高表示不会用 AI 来设计产品](sources/waimai-chengwei-haidilao-zengzhang-zuikuai-de-yewu-legao-biaoshi-buhui-yong-ai-lai-sheji-chanpin-1008870590.md) — 声动早咖啡 roundup on Nongfu Spring tea growth, Haidilao delivery, coffee supply, Apple local AI hardware, Nvidia-Perplexity, Volkswagen restructuring, electric two-wheelers, Lao Pu Gold, and Lego's AI design boundary.
 - [700. The Troubles: Bloody Sunday (Part 4)](sources/700-the-troubles-bloody-sunday-part-4-glt3909829334.md) — The Rest Is History episode on Bloody Sunday, Saville and Widgery, Derry and Free Derry, Stormont's suspension, direct rule, failed IRA talks, and Bloody Friday.
 - [690. A Murderous Affair: Death at Mayerling (Part 2)](sources/690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068.md) — The Rest Is History episode on Crown Prince Rudolf, Mary Vetsera, the Mayerling deaths, Catholic burial, Habsburg suppression, and succession shock.
@@ -1567,6 +1568,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Eric Weinstein](entities/EricWeinstein.md) — Heterodox science-policy and physics critic linking scientific precarity, high-beta funding, Geometric Unity, secrecy, AI, and UAPs.
 - [Aima Technology / 爱玛](entities/AimaTechnology.md) — Traditional Chinese electric two-wheeler maker on the declining legacy side of the 2026 market split.
 - [Lego / 乐高](entities/Lego.md) — Toy company expanding across children and adult consumers while keeping AI out of independent product design.
 - [Mac Studio](entities/MacStudio.md) — Apple desktop product tied in this source to high-performance local AI workloads.
@@ -9490,6 +9492,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Scientific Precariat](concepts/ScientificPrecariat.md) — Career structure where grant dependence, peer review, HR process, and status pressure make scientists avoid dissent.
+- [High-Beta Science Funding](concepts/HighBetaScienceFunding.md) — Public-science funding logic for credible low-probability, high-upside research bets.
+- [Physics Stagnation Claim](concepts/PhysicsStagnationClaim.md) — Weinstein's source-scoped diagnosis that post-1983 theoretical physics drifted from physically grounded frontier theory.
+- [Dangerous Knowledge Secrecy](concepts/DangerousKnowledgeSecrecy.md) — Tension between open scientific inquiry and restrictions on nuclear, biological, AI, or theoretical knowledge that could enable catastrophic capability.
+- [UAP Compartmentalization](concepts/UAPCompartmentalization.md) — Claim that unidentified aerial phenomena remain unresolved because special-access secrecy and fragmented testimony block a full picture.
+- [Trash Can Corpus Scientific AI](concepts/TrashCanCorpusScientificAI.md) — Weinstein's idea that AI may mine discarded or mocked scientific ideas, bounded by research taste and verification.
+- [Geometric Unity](concepts/GeometricUnity.md) — Eric Weinstein's proposed physics framework, stored here as source-scoped rather than validated theory.
 - [Adult Toy Market Expansion](concepts/AdultToyMarketExpansion.md) — Toy-market strategy of serving adult hobby, display, fandom, and collector occasions alongside children.
 - [Automotive Overcapacity Restructuring](concepts/AutomotiveOvercapacityRestructuring.md) — Automaker restructuring problem where excess capacity, tariffs, competition, labor, and governance collide.
 - [Electric Two-Wheeler Market Divergence](concepts/ElectricTwoWheelerMarketDivergence.md) — Split between declining legacy makers and growing smart-feature challengers in Chinese electric two-wheelers.

@@ -12559,6 +12559,10 @@
     "title": "Dangerous Guest Release Risk / 放虎归山式宾客释放风险",
     "url": "/wiki/concepts/dangerousguestreleaserisk/"
   },
+  "DangerousKnowledgeSecrecy": {
+    "title": "Dangerous Knowledge Secrecy",
+    "url": "/wiki/concepts/dangerousknowledgesecrecy/"
+  },
   "DangerousVisions": {
     "title": "Dangerous Visions",
     "url": "/wiki/entities/dangerousvisions/"
@@ -15910,6 +15914,10 @@
   "EricSchmidt": {
     "title": "Eric Schmidt",
     "url": "/wiki/entities/ericschmidt/"
+  },
+  "EricWeinstein": {
+    "title": "Eric Weinstein",
+    "url": "/wiki/entities/ericweinstein/"
   },
   "EricaChung": {
     "title": "Erica Chung",
@@ -19395,6 +19403,10 @@
     "title": "Geometric Social Hierarchy",
     "url": "/wiki/concepts/geometricsocialhierarchy/"
   },
+  "GeometricUnity": {
+    "title": "Geometric Unity",
+    "url": "/wiki/concepts/geometricunity/"
+  },
   "GeopoliticalCycleMacro": {
     "title": "Geopolitical Cycle Macro",
     "url": "/wiki/concepts/geopoliticalcyclemacro/"
@@ -21818,6 +21830,10 @@
   "HighBandwidthMemory": {
     "title": "High Bandwidth Memory",
     "url": "/wiki/concepts/highbandwidthmemory/"
+  },
+  "HighBetaScienceFunding": {
+    "title": "High-Beta Science Funding",
+    "url": "/wiki/concepts/highbetasciencefunding/"
   },
   "HighCostMedicalExpenseBenefit": {
     "title": "High-Cost Medical Expense Benefit / 高额疗养制度",
@@ -36811,6 +36827,10 @@
     "title": "Physics Of AI",
     "url": "/wiki/concepts/physicsofai/"
   },
+  "PhysicsStagnationClaim": {
+    "title": "Physics Stagnation Claim",
+    "url": "/wiki/concepts/physicsstagnationclaim/"
+  },
   "PhysiognomicInvestmentJudgment": {
     "title": "看相式政治投资 / Physiognomic Investment Judgment",
     "url": "/wiki/concepts/physiognomicinvestmentjudgment/"
@@ -42062,6 +42082,10 @@
   "ScientificIdealVsAIArmsRace": {
     "title": "Scientific Ideal vs AI Arms Race",
     "url": "/wiki/concepts/scientificidealvsaiarmsrace/"
+  },
+  "ScientificPrecariat": {
+    "title": "Scientific Precariat",
+    "url": "/wiki/concepts/scientificprecariat/"
   },
   "ScientificPublicSpectacle": {
     "title": "Scientific Public Spectacle",
@@ -48247,6 +48271,10 @@
     "title": "Transport Corridor Severance / 交通线切割",
     "url": "/wiki/concepts/transportcorridorseverance/"
   },
+  "TrashCanCorpusScientificAI": {
+    "title": "Trash Can Corpus Scientific AI",
+    "url": "/wiki/concepts/trashcancorpusscientificai/"
+  },
   "TraumaNarrativeIntegration": {
     "title": "Trauma Narrative Integration / 创伤叙事整合",
     "url": "/wiki/concepts/traumanarrativeintegration/"
@@ -48658,6 +48686,10 @@
   "TyrannicideRepublicanDilemma": {
     "title": "Tyrannicide Republican Dilemma / 弑君式共和困境",
     "url": "/wiki/concepts/tyranniciderepublicandilemma/"
+  },
+  "UAPCompartmentalization": {
+    "title": "UAP Compartmentalization",
+    "url": "/wiki/concepts/uapcompartmentalization/"
   },
   "UCBerkeley": {
     "title": "UC Berkeley",
@@ -55662,6 +55694,10 @@
   "all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830": {
     "title": "Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up",
     "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830/"
+  },
+  "all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645": {
+    "title": "Eric Weinstein: The State of American Science, Breakthrough Coverups, and the Danger of Physics",
+    "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645/"
   },
   "all-in-with-chamath-jason-sacks-friedberg-flock-ceo-garrett-langley-on-controversy-surveillance-state-claims-and-privacy-vs-safety-42470485": {
     "title": "Flock CEO Garrett Langley on Controversy, \\\"Surveillance State\\\" Claims, and Privacy vs Safety",

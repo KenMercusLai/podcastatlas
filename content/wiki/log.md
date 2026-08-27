@@ -12425,6 +12425,10 @@ Added source page for Hanji 879: Emperor Huan's final harem-status split between
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-27] ingest | Eric Weinstein: The State of American Science, Breakthrough Coverups, and the Danger of Physics
+
+Added source page for the All-In Eric Weinstein interview: scientific precarity, high-beta basic-science funding, market failure in foundational research, physics stagnation claims, dangerous-knowledge secrecy, UAP compartmentalization, AI mining of discarded ideas, and China talent competition. Created Eric Weinstein, Geometric Unity, Scientific Precariat, High-Beta Science Funding, Physics Stagnation Claim, Dangerous Knowledge Secrecy, UAP Compartmentalization, and Trash Can Corpus Scientific AI pages; updated science-policy, trust, funding, NSF, OSTP, Jay Bhattacharya, and Anthony Fauci pages. No settled contradiction found; Geometric Unity, string-theory collapse, hidden advanced physics, UAP, and multi-temporal physics claims remain source-scoped.
+
 ## [2026-08-27] lint | Wiki health check
 
 Ran lint after health passed and identity validation found unique wiki identities. Deterministic checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-22 with 12,882 nodes and 149,964 edges while the current lint scan covered 15,030 pages; findings are advisory until the graph is rebuilt. Current graph checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is unset/provider-unqualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.
@@ -12504,3 +12508,7 @@ Added source page for 声动早咖啡 episode 1008870590: Nongfu Spring tea grow
 ## [2026-08-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran health, identity validation, and lint. Health scanned 15,142 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-22 with 12,882 nodes and 149,964 edges while the current lint scan covered 15,142 pages, so fragile-bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because no provider-qualified `LLM_MODEL` or common provider API key variables are configured in this shell. Report returned in-session; `wiki/lint-report.md` was not updated.

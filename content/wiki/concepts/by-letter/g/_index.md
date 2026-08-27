@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 5654
+wiki_total_pages: 5661
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -143,6 +143,9 @@ wiki_pages:
   - key: "GeometricSocialHierarchy"
     title: "Geometric Social Hierarchy"
     url: "/wiki/concepts/geometricsocialhierarchy/"
+  - key: "GeometricUnity"
+    title: "Geometric Unity"
+    url: "/wiki/concepts/geometricunity/"
   - key: "GeopoliticalCycleMacro"
     title: "Geopolitical Cycle Macro"
     url: "/wiki/concepts/geopoliticalcyclemacro/"

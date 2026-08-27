@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "u"
-wiki_total_pages: 5654
+wiki_total_pages: 5661
 wiki_pages:
   - key: "US2025ExpectationGaps"
     title: "U.S. 2025 Expectation Gaps"
@@ -47,6 +47,9 @@ wiki_pages:
   - key: "USJapanCurrencyIntervention"
     title: "U.S.-Japan Currency Intervention"
     url: "/wiki/concepts/usjapancurrencyintervention/"
+  - key: "UAPCompartmentalization"
+    title: "UAP Compartmentalization"
+    url: "/wiki/concepts/uapcompartmentalization/"
   - key: "UFOConspiracyCulture"
     title: "UFO Conspiracy Culture"
     url: "/wiki/concepts/ufoconspiracyculture/"

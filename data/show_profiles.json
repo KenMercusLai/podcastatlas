@@ -149,14 +149,14 @@
       "earliest_episode_date": "2026-01-08",
       "latest_episode_date": "2026-08-26",
       "latest_episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Eric Weinstein： The State of American Science, Breakthrough Coverups, and the Danger of Physics [42568645].md",
-      "source_note_count": 33,
-      "topic_matched_source_note_count": 29,
+      "source_note_count": 34,
+      "topic_matched_source_note_count": 30,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 21
+          "source_note_count": 22
         },
         {
           "key": "economics",
@@ -171,10 +171,10 @@
           "source_note_count": 10
         },
         {
-          "key": "culture",
-          "label": "Culture",
-          "url": "/topics/culture/",
-          "source_note_count": 3
+          "key": "science",
+          "label": "Science",
+          "url": "/topics/science/",
+          "source_note_count": 4
         }
       ],
       "entities": [
@@ -236,10 +236,10 @@
         }
       ],
       "start_here_episode_files": [
-        "All-In with Chamath, Jason, Sacks & Friedberg - Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up [42513830].md",
+        "All-In with Chamath, Jason, Sacks & Friedberg - Eric Weinstein： The State of American Science, Breakthrough Coverups, and the Danger of Physics [42568645].md",
         "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback [42442555].md",
-        "All-In with Chamath, Jason, Sacks & Friedberg - Rahm Emanuel： Trump's Foreign Policy, China, Europe's Decline, Immigration & DSA vs Democrats [42416310].md",
-        "All-In with Chamath, Jason, Sacks & Friedberg - Eric Weinstein： The State of American Science, Breakthrough Coverups, and the Danger of Physics [42568645].md"
+        "All-In with Chamath, Jason, Sacks & Friedberg - Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up [42513830].md",
+        "All-In with Chamath, Jason, Sacks & Friedberg - Michael Kratsios： Trump's Science Agenda, Anti-Science Claims, Fauci's Damage, DEI & China [42543770].md"
       ]
     },
     "Data Science With Sam": {
