@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "5d9e75d5fe35dbac54e85c72f902914ef958ac06f1aded81742a56a7cc267ea8",
       "8e3502565308f1d3e099c0f46c4e9dc00304588435348e5458f7fd8411cdd37b",
       "8fb91e9c216edff12a4fccd688e5cfb88e44cddcf553c173af3ad27c469bd426",
       "bcf5da092675d5cb07b340440b2379b89742a27440551f90025103457a9495c5",
@@ -308,11 +309,44 @@
       "16d531495e2a6294ae198d0b95a352e519f488fcca1dbdae1f416758d1cfa576",
       "a9fec3ceb1b343b1fafeebc9ab2903b46238a861f9aaafd9d15b1460340a08b5"
     ],
-    "paragraph_count": 306
+    "paragraph_count": 307
   },
-  "overview_commit": "49a2cdfe3cc5b7b0a15fb220fedcbf5911fbcafd",
-  "overview_digest": "a95d8caca335409899dbfde118e0d7ba207bd681bee8cc9f07f410f589b8f1a0",
+  "overview_commit": "63f226e71a1fa33451072b63a1c0ea495544767f",
+  "overview_digest": "c0d3ed62cee24a0972d8a9aa72e2d0b352f90ef9d04c6e8222bcd8d4546f8dd7",
   "paragraphs": [
+    {
+      "id": "5d9e75d5fe35dbac54e85c72f902914ef958ac06f1aded81742a56a7cc267ea8",
+      "primary_topic": "science-health-and-climate",
+      "secondary_topics": [
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[your-top-health-questions-answered-scim2882548864|Your Top Health Questions Answered]], a [[HubermanLab]] solo Q&A with [[AndrewHuberman]] on sleep, circadian light, memory, smell training, fertility, perimenopause, surgery recovery, and career direction. It adds [[SustainableHealthOptimization]], [[MorningLightCircadianAnchoring]], [[SelfTestingMemoryPractice]], [[OlfactoryTraining]], [[FertilityEnergyAvailability]], [[PerioperativeCircadianRecovery]], [[PassionDiscoveryThroughEngagement]], and [[ApprenticeshipBeforeOriginality]], while extending [[HubermanLab]], [[AndrewHuberman]], [[AcetylcholineFocusSupport]], [[SleepAsDailyHealthAccount]], [[MemoryConsolidationWindows]], [[PerimenopauseBrainMetabolism]], [[MenopauseClinicalSharedDecision]], and [[PassionTrapCareerAdvice]]. Its core synthesis is that practical health self-regulation works through flexible fundamentals rather than protocol perfection: morning light, sleep, exercise, nutrition, recovery, and learning routines should fit real constraints, while supplements, fertility, testosterone, hormone therapy, and surgery recovery remain source-scoped and clinically bounded. No settled contradiction is recorded; the Q&A strengthens existing sleep, menopause, learning, and career pages without replacing their medical or evidence boundaries.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "psychology-and-personal-development": 1,
+        "science-health-and-climate": 3,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "AcetylcholineFocusSupport",
+        "AndrewHuberman",
+        "ApprenticeshipBeforeOriginality",
+        "FertilityEnergyAvailability",
+        "HubermanLab",
+        "MemoryConsolidationWindows",
+        "MenopauseClinicalSharedDecision",
+        "MorningLightCircadianAnchoring",
+        "OlfactoryTraining",
+        "PassionDiscoveryThroughEngagement",
+        "PassionTrapCareerAdvice",
+        "PerimenopauseBrainMetabolism",
+        "PerioperativeCircadianRecovery",
+        "SelfTestingMemoryPractice",
+        "SleepAsDailyHealthAccount",
+        "SustainableHealthOptimization",
+        "your-top-health-questions-answered-scim2882548864"
+      ]
+    },
     {
       "id": "8e3502565308f1d3e099c0f46c4e9dc00304588435348e5458f7fd8411cdd37b",
       "primary_topic": "psychology-and-personal-development",

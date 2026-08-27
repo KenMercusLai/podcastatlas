@@ -21430,6 +21430,13 @@
       "url": "/topics/science/"
     }
   ],
+  "FertilityEnergyAvailability": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "FiatCapitalMarketDecentralization": [
     {
       "key": "economics",
@@ -38777,6 +38784,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "MorningLightCircadianAnchoring": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "Morocco": [
     {
       "key": "politics",
@@ -41078,6 +41092,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "OlfactoryTraining": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "OlgaTokarczuk": [
     {
       "key": "culture",
@@ -42981,6 +43002,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "PerioperativeCircadianRecovery": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "PermissionlessAIInnovation": [
@@ -50326,6 +50354,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "SelfTestingMemoryPractice": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "SelfWorthJudgmentRecovery": [
     {
       "key": "science",
@@ -54735,6 +54770,13 @@
     }
   ],
   "SustainableConstructionCarbonTradeoff": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "SustainableHealthOptimization": [
     {
       "key": "science",
       "label": "Science",
@@ -70219,6 +70261,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "your-top-health-questions-answered-scim2882548864": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410": [

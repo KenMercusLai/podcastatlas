@@ -12668,3 +12668,11 @@ Added source page for a 这病说来话长 episode with 阿汤 and 薛小凡 on 
 ## [2026-08-28] lint | Wiki health check
 
 Ran health, identity validation, and lint. Health scanned 15,292 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-22 with 12,882 nodes and 149,964 edges while the current lint scan covered 15,292 pages, so fragile-bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest`; report returned in-session and `wiki/lint-report.md` was not updated.
+
+## [2026-08-28] ingest | Your Top Health Questions Answered
+
+Added source page for a Huberman Lab solo Q&A with Andrew Huberman on late-night training, sleep, morning light, sustainable optimization, memory self-testing, smell training, fertility and body composition, perimenopause anxiety, surgery recovery, and passion discovery. Created Sustainable Health Optimization, Morning Light Circadian Anchoring, Self-Testing Memory Practice, Olfactory Training, Fertility Energy Availability, Perioperative Circadian Recovery, Passion Discovery Through Engagement, and Apprenticeship Before Originality pages; updated Huberman Lab, Andrew Huberman, Acetylcholine Focus Support, Sleep As Daily Health Account, Memory Consolidation Windows, Perimenopause Brain Metabolism, Menopause Clinical Shared Decision-Making, and Passion Trap Career Advice. No settled contradiction found; supplement, fertility, testosterone, hormone-therapy, surgery-recovery, and career-advice claims remain source-scoped and clinically bounded.
+
+## [2026-08-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

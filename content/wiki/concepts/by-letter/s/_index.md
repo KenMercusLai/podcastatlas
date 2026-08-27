@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 5742
+wiki_total_pages: 5750
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -365,6 +365,9 @@ wiki_pages:
   - key: "SelfSupervisedLearning"
     title: "Self-Supervised Learning"
     url: "/wiki/concepts/selfsupervisedlearning/"
+  - key: "SelfTestingMemoryPractice"
+    title: "Self-Testing Memory Practice"
+    url: "/wiki/concepts/selftestingmemorypractice/"
   - key: "SelfWorthJudgmentRecovery"
     title: "Self-Worth Judgment Recovery / 价值判断权收回"
     url: "/wiki/concepts/selfworthjudgmentrecovery/"
@@ -1550,6 +1553,9 @@ wiki_pages:
   - key: "SustainableGrowthPace"
     title: "Sustainable Growth Pace"
     url: "/wiki/concepts/sustainablegrowthpace/"
+  - key: "SustainableHealthOptimization"
+    title: "Sustainable Health Optimization"
+    url: "/wiki/concepts/sustainablehealthoptimization/"
   - key: "SustainablePackagingMarketing"
     title: "Sustainable Packaging Marketing / 可持续包装营销"
     url: "/wiki/concepts/sustainablepackagingmarketing/"

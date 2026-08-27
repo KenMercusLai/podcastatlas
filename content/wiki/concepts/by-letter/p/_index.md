@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5742
+wiki_total_pages: 5750
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -149,6 +149,9 @@ wiki_pages:
   - key: "PassionAgainstSelfControl"
     title: "Passion Against Self-Control / 激情与自我控制"
     url: "/wiki/concepts/passionagainstselfcontrol/"
+  - key: "PassionDiscoveryThroughEngagement"
+    title: "Passion Discovery Through Engagement"
+    url: "/wiki/concepts/passiondiscoverythroughengagement/"
   - key: "PassionTrapCareerAdvice"
     title: "Passion Trap Career Advice"
     url: "/wiki/concepts/passiontrapcareeradvice/"
@@ -284,6 +287,9 @@ wiki_pages:
   - key: "PeriodPoverty"
     title: "Period Poverty"
     url: "/wiki/concepts/periodpoverty/"
+  - key: "PerioperativeCircadianRecovery"
+    title: "Perioperative Circadian Recovery"
+    url: "/wiki/concepts/perioperativecircadianrecovery/"
   - key: "PermissionlessAIInnovation"
     title: "Permissionless AI Innovation"
     url: "/wiki/concepts/permissionlessaiinnovation/"

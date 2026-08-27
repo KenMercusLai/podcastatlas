@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 5742
+wiki_total_pages: 5750
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1562,6 +1562,9 @@ wiki_pages:
   - key: "AppliedAstrobiology"
     title: "Applied Astrobiology"
     url: "/wiki/concepts/appliedastrobiology/"
+  - key: "ApprenticeshipBeforeOriginality"
+    title: "Apprenticeship Before Originality"
+    url: "/wiki/concepts/apprenticeshipbeforeoriginality/"
   - key: "AppSumoLifetimeDealTradeoff"
     title: "AppSumo Lifetime Deal Tradeoff"
     url: "/wiki/concepts/appsumolifetimedealtradeoff/"

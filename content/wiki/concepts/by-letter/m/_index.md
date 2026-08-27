@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 5742
+wiki_total_pages: 5750
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -854,6 +854,9 @@ wiki_pages:
   - key: "MorningAudioRitual"
     title: "Morning Audio Ritual / 早间音频仪式"
     url: "/wiki/concepts/morningaudioritual/"
+  - key: "MorningLightCircadianAnchoring"
+    title: "Morning Light Circadian Anchoring"
+    url: "/wiki/concepts/morninglightcircadiananchoring/"
   - key: "MortalityRiskPricing"
     title: "Mortality Risk Pricing"
     url: "/wiki/concepts/mortalityriskpricing/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 5742
+wiki_total_pages: 5750
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -137,6 +137,9 @@ wiki_pages:
   - key: "OlderWorkerAIRetirement"
     title: "Older Worker AI Retirement"
     url: "/wiki/concepts/olderworkerairetirement/"
+  - key: "OlfactoryTraining"
+    title: "Olfactory Training"
+    url: "/wiki/concepts/olfactorytraining/"
   - key: "OlivineCarbonRemoval"
     title: "Olivine Carbon Removal"
     url: "/wiki/concepts/olivinecarbonremoval/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Your Top Health Questions Answered](sources/your-top-health-questions-answered-scim2882548864.md) — Huberman Lab solo Q&A on sleep, circadian rhythm, memory, smell training, fertility, perimenopause, surgery recovery, and finding passion without health-optimization burnout.
 - [VOL.216 停止“神化”前额叶：别让网络热词变成你的诊断书](sources/vol-216-tingzhi-shenhua-qianeye-bie-rang-wangluo-reci-biancheng-nide-zhenduanshu-lp0cll17cydzmh36sawfj7-rjwur.md) — 这病说来话长 episode with 阿汤 and 薛小凡 on prefrontal-cortex overattribution, dopamine and ADHD self-diagnosis boundaries, state-dependent self-control, sleep, hunger, impulse, and clinical behavior-change red flags.
 - [Essentials: How to Become Resilient, Forge Your Identity & Lead Others | Jocko Willink](sources/essentials-how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim2090153799.md) — Huberman Lab Essentials episode with Jocko Willink on discipline, resilience, leadership, identity, detachment, deliberate discomfort, and action after adversity.
 - [How Your Immune System Works & How to Improve It | Dr. Max Krummel](sources/how-your-immune-system-works-how-to-improve-it-dr-max-krummel-scim7009523546.md) — Huberman Lab episode with Max Krummel on immunity as a tunable sensor network, immune aging, T-cell education, cancer recognition, sleep repair, vaccines, brain-immune coupling, and intervention caution.
@@ -1618,8 +1619,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Darcy (Raised Nutrition)](entities/DarcyRaisedNutrition.md) — Raised Nutrition founder-caller asking whether a niche athletic origin story limits broader wellness appeal.
 - [Cooks Who Feed](entities/CooksWhoFeed.md) — Social-enterprise kitchen-linen company advised to use low-risk B2B trials, referrals, and client-centered impact storytelling.
 - [Seema Sanghavi](entities/SeemaSanghavi.md) — Cooks Who Feed founder-caller focused on convincing B2B buyers to switch vendors.
-- [Huberman Lab](entities/HubermanLab.md) — Show context for episodes on nutrition, mental health, motivation, attention neuroscience, creativity process, emotion science, female hormone health, AI, neuromodulator tools, immune-system biology, discipline, and leadership.
-- [Andrew Huberman](entities/AndrewHuberman.md) — Host framing guest discussions and solo Essentials episodes on nutrition, mental health, motivation, attention, emotion, AI, hormone health, practical neuroscience, immunology, discipline, and leadership.
+- [Huberman Lab](entities/HubermanLab.md) — Show context for episodes on nutrition, mental health, motivation, attention neuroscience, creativity process, emotion science, female hormone health, AI, neuromodulator tools, immune-system biology, discipline, leadership, and listener health Q&A.
+- [Andrew Huberman](entities/AndrewHuberman.md) — Host framing guest discussions, solo Essentials episodes, and listener Q&A on nutrition, mental health, motivation, attention, emotion, AI, hormone health, practical neuroscience, immunology, discipline, leadership, and health routines.
 - [Masud Husain](entities/MasudHusain.md) — Neuroscience and neurology guest explaining motivation, apathy, dopamine, attention, selfhood, and cognitive resilience.
 - [Chris Palmer](entities/ChrisPalmer.md) — Psychiatrist grounding the episode's metabolic psychiatry, ketogenic diet, and mitochondrial mental-health claims.
 - [Russell Wilder](entities/RussellWilder.md) — Mayo Clinic physician named as the 1921 developer of the ketogenic diet for epilepsy.
@@ -9561,6 +9562,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Sustainable Health Optimization](concepts/SustainableHealthOptimization.md) — Health-routine frame where sleep, light, exercise, nutrition, and social connection support real life without protocol perfectionism.
+- [Morning Light Circadian Anchoring](concepts/MorningLightCircadianAnchoring.md) — Practice of using ambient outdoor light soon after waking to help set circadian timing, daytime alertness, mood, and later sleep.
+- [Self-Testing Memory Practice](concepts/SelfTestingMemoryPractice.md) — Learning method where effortful recall, mistakes, correction, and later rest or sleep strengthen memory access.
+- [Olfactory Training](concepts/OlfactoryTraining.md) — Repeated attentive exposure to safe odors as a smell-training and sensory-recovery practice.
+- [Fertility Energy Availability](concepts/FertilityEnergyAvailability.md) — Fertility frame linking adequate calories, body composition, resistance training, nutrition, and hormone-intervention boundaries.
+- [Perioperative Circadian Recovery](concepts/PerioperativeCircadianRecovery.md) — Surgery preparation and recovery frame using fitness, sleep, daylight, darkness, and gradual rebuilding.
+- [Passion Discovery Through Engagement](concepts/PassionDiscoveryThroughEngagement.md) — Career-development frame where direction emerges through structure, work, input, and noticing energy or resonance.
+- [Apprenticeship Before Originality](concepts/ApprenticeshipBeforeOriginality.md) — Learning frame where competence-building usually precedes meaningful unique contribution.
 - [Discipline Over Motivation](concepts/DisciplineOverMotivation.md) — Behavioral self-command frame where needed action depends on commitment, routine, and reduced internal negotiation rather than current motivation.
 - [Operational Detachment](concepts/OperationalDetachment.md) — Decision skill of stepping back from immediate emotion or narrow attention so options, risks, and next actions become visible.
 - [Leadership Emotional Counterweight](concepts/LeadershipEmotionalCounterweight.md) — Leadership practice of staying separate enough from group emotion to counter arrogance after wins and collapse after losses.
