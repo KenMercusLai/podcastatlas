@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 5734
+wiki_total_pages: 5738
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -518,6 +518,9 @@ wiki_pages:
   - key: "DisciplinarySelfProtectionAfterHarm"
     title: "Disciplinary Self-Protection After Harm"
     url: "/wiki/concepts/disciplinaryselfprotectionafterharm/"
+  - key: "DisciplineOverMotivation"
+    title: "Discipline Over Motivation"
+    url: "/wiki/concepts/disciplineovermotivation/"
   - key: "DiscoveryModel"
     title: "Discovery Model"
     url: "/wiki/concepts/discoverymodel/"

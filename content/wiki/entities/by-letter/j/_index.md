@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 7967
+wiki_total_pages: 7968
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -461,6 +461,9 @@ wiki_pages:
   - key: "JoaoHavelange"
     title: "Joao Havelange"
     url: "/wiki/entities/joaohavelange/"
+  - key: "JockoWillink"
+    title: "Jocko Willink"
+    url: "/wiki/entities/jockowillink/"
   - key: "JodiKantor"
     title: "Jodi Kantor"
     url: "/wiki/entities/jodikantor/"

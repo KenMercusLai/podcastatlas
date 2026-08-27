@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 5734
+wiki_total_pages: 5738
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -86,6 +86,9 @@ wiki_pages:
   - key: "AchievementPressureMentalHealth"
     title: "Achievement Pressure Mental Health"
     url: "/wiki/concepts/achievementpressurementalhealth/"
+  - key: "ActionAfterAdversity"
+    title: "Action After Adversity"
+    url: "/wiki/concepts/actionafteradversity/"
   - key: "ActionAgainstAnxiety"
     title: "Action Against Anxiety"
     url: "/wiki/concepts/actionagainstanxiety/"

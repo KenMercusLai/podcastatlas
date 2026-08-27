@@ -938,6 +938,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/acetylcholinefocussupport/"
     },
+    "ActionAfterAdversity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2090153799 [SCIM2090153799].md",
+          "key": "essentials-how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim2090153799",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Become Resilient, Forge Your Identity & Lead Others | Jocko Willink",
+          "url": "/wiki/sources/essentials-how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim2090153799/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/actionafteradversity/"
+    },
     "ActionableOrganizationalValues": {
       "episode_count": 1,
       "show_count": 1,
@@ -1182,9 +1198,9 @@
       "url": "/wiki/concepts/analogmoviegoingexperience/"
     },
     "AndrewHuberman": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -1241,6 +1257,13 @@
           "show": "Huberman Lab",
           "title": "How Your Immune System Works & How to Improve It | Dr. Max Krummel",
           "url": "/wiki/sources/how-your-immune-system-works-how-to-improve-it-dr-max-krummel-scim7009523546/"
+        },
+        {
+          "episode_file": "SCIM2090153799 [SCIM2090153799].md",
+          "key": "essentials-how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim2090153799",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Become Resilient, Forge Your Identity & Lead Others | Jocko Willink",
+          "url": "/wiki/sources/essentials-how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim2090153799/"
         }
       ],
       "updated": "2026-08-27",
@@ -1699,9 +1722,9 @@
       "url": "/wiki/concepts/automotiveovercapacityrestructuring/"
     },
     "AutonomicStressTraining": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1222961716 [SCIM1222961716].md",
@@ -1709,6 +1732,13 @@
           "show": "Huberman Lab",
           "title": "Neuroscience of Emotions & Tools for Improving Emotion Regulation | Dr. Ralph Adolphs",
           "url": "/wiki/sources/neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716/"
+        },
+        {
+          "episode_file": "SCIM2090153799 [SCIM2090153799].md",
+          "key": "essentials-how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim2090153799",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Become Resilient, Forge Your Identity & Lead Others | Jocko Willink",
+          "url": "/wiki/sources/essentials-how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim2090153799/"
         }
       ],
       "updated": "2026-08-27",
@@ -4005,6 +4035,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/digitrobot/"
+    },
+    "DisciplineOverMotivation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2090153799 [SCIM2090153799].md",
+          "key": "essentials-how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim2090153799",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Become Resilient, Forge Your Identity & Lead Others | Jocko Willink",
+          "url": "/wiki/sources/essentials-how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim2090153799/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/disciplineovermotivation/"
     },
     "DoctorPatientCommunication": {
       "episode_count": 3,
@@ -7066,9 +7112,9 @@
       "url": "/wiki/concepts/huaweismartselectioncarmodel/"
     },
     "HubermanLab": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -7125,6 +7171,13 @@
           "show": "Huberman Lab",
           "title": "How Your Immune System Works & How to Improve It | Dr. Max Krummel",
           "url": "/wiki/sources/how-your-immune-system-works-how-to-improve-it-dr-max-krummel-scim7009523546/"
+        },
+        {
+          "episode_file": "SCIM2090153799 [SCIM2090153799].md",
+          "key": "essentials-how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim2090153799",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Become Resilient, Forge Your Identity & Lead Others | Jocko Willink",
+          "url": "/wiki/sources/essentials-how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim2090153799/"
         }
       ],
       "updated": "2026-08-27",
@@ -8176,6 +8229,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/jingyilatehan/"
     },
+    "JockoWillink": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2090153799 [SCIM2090153799].md",
+          "key": "essentials-how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim2090153799",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Become Resilient, Forge Your Identity & Lead Others | Jocko Willink",
+          "url": "/wiki/sources/essentials-how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim2090153799/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/jockowillink/"
+    },
     "JohannLoschek": {
       "episode_count": 1,
       "show_count": 1,
@@ -8789,6 +8858,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/leaderpersonalexposure/"
+    },
+    "LeadershipEmotionalCounterweight": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2090153799 [SCIM2090153799].md",
+          "key": "essentials-how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim2090153799",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Become Resilient, Forge Your Identity & Lead Others | Jocko Willink",
+          "url": "/wiki/sources/essentials-how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim2090153799/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/leadershipemotionalcounterweight/"
     },
     "LegitimacyIndictmentWarfare": {
       "episode_count": 2,
@@ -11721,6 +11806,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/opensourcerobotplatformstrategy/"
+    },
+    "OperationalDetachment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2090153799 [SCIM2090153799].md",
+          "key": "essentials-how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim2090153799",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Become Resilient, Forge Your Identity & Lead Others | Jocko Willink",
+          "url": "/wiki/sources/essentials-how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim2090153799/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/operationaldetachment/"
     },
     "OralContraceptiveInformedConsent": {
       "episode_count": 1,

@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "8fb91e9c216edff12a4fccd688e5cfb88e44cddcf553c173af3ad27c469bd426",
       "bcf5da092675d5cb07b340440b2379b89742a27440551f90025103457a9495c5",
       "9bc5958f730904d72bc7aba2e5ee0d0c5cd364d33313bfe06eab996c379d1d9b",
       "c1a617b2fa199d8ee7c282e4a84aff4889def901c253e2dd2a0ecd8348e77457",
@@ -306,11 +307,36 @@
       "16d531495e2a6294ae198d0b95a352e519f488fcca1dbdae1f416758d1cfa576",
       "a9fec3ceb1b343b1fafeebc9ab2903b46238a861f9aaafd9d15b1460340a08b5"
     ],
-    "paragraph_count": 304
+    "paragraph_count": 305
   },
-  "overview_commit": "c7b491c6a18bd5094552453be13395b017271744",
-  "overview_digest": "231589b2ed27d7cfd723f426ac7aaa6214d02573d6897ec9e430aefc14ae8ac2",
+  "overview_commit": "2b28dc3f2a68e3034b4af094bfd2e8668f5aef47",
+  "overview_digest": "a18a4a8c5ca83817e571367845570e67f620ee8e7e76e7a2f7235e638e731178",
   "paragraphs": [
+    {
+      "id": "8fb91e9c216edff12a4fccd688e5cfb88e44cddcf553c173af3ad27c469bd426",
+      "primary_topic": "psychology-and-personal-development",
+      "secondary_topics": [],
+      "text": "The latest addition is [[essentials-how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim2090153799|Essentials: How to Become Resilient, Forge Your Identity & Lead Others | Jocko Willink]], a [[HubermanLab]] Essentials episode with [[AndrewHuberman]] and [[JockoWillink]] on discipline, identity, leadership, resilience, detachment, and action after adversity. It adds [[JockoWillink]], [[DisciplineOverMotivation]], [[OperationalDetachment]], [[LeadershipEmotionalCounterweight]], and [[ActionAfterAdversity]], while extending [[HubermanLab]], [[AndrewHuberman]], [[AutonomicStressTraining]], [[MotivationRewardEffortCalculation]], [[EmotionRegulationToolkit]], and [[AttentionCapacitySelection]]. Its core synthesis is that self-command becomes practical when action is decoupled from current motivation, bodily discomfort is used as bounded training, leaders counterbalance group emotion, and detachment widens attention before decision. No settled contradiction is recorded; exercise, nutrition timing, battlefield, parenting, leadership, and resilience claims remain source-scoped and not medical or universal protocols.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "psychology-and-personal-development": 5,
+        "science-health-and-climate": 1
+      },
+      "wikilinks": [
+        "ActionAfterAdversity",
+        "AndrewHuberman",
+        "AttentionCapacitySelection",
+        "AutonomicStressTraining",
+        "DisciplineOverMotivation",
+        "EmotionRegulationToolkit",
+        "HubermanLab",
+        "JockoWillink",
+        "LeadershipEmotionalCounterweight",
+        "MotivationRewardEffortCalculation",
+        "OperationalDetachment",
+        "essentials-how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim2090153799"
+      ]
+    },
     {
       "id": "bcf5da092675d5cb07b340440b2379b89742a27440551f90025103457a9495c5",
       "primary_topic": "science-health-and-climate",

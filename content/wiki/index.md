@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Essentials: How to Become Resilient, Forge Your Identity & Lead Others | Jocko Willink](sources/essentials-how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim2090153799.md) — Huberman Lab Essentials episode with Jocko Willink on discipline, resilience, leadership, identity, detachment, deliberate discomfort, and action after adversity.
 - [How Your Immune System Works & How to Improve It | Dr. Max Krummel](sources/how-your-immune-system-works-how-to-improve-it-dr-max-krummel-scim7009523546.md) — Huberman Lab episode with Max Krummel on immunity as a tunable sensor network, immune aging, T-cell education, cancer recognition, sleep repair, vaccines, brain-immune coupling, and intervention caution.
 - [VOL.217停止“神化”减肥针！不挨饿、不戒碳水，这才是普通人该抄的减重作业](sources/vol-217-tingzhi-shenhua-jianfeizhen-bu-aie-bu-jie-tanshui-zhe-cai-shi-putongren-gai-chao-de-jianzhong-zuoye-llat-yskrqmro0kdjwuoegdcalu5.md) — 这病说来话长 episode with 阿汤 and 小龙 on lifestyle weight management, injection hype, carbohydrates, protein, fasting, resistance training, sleep, restaurant choices, and weight anxiety.
 - [Essentials: Control Your Brain Chemistry for Focus, Motivation & Well-Being](sources/essentials-control-your-brain-chemistry-for-focus-motivation-well-being-scim6495209379.md) — Huberman Lab Essentials episode on dopamine, epinephrine, serotonin, acetylcholine, daily timing, behavior, nutrition, supplements, and safety-bounded state tools.
@@ -1586,6 +1587,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Jocko Willink](entities/JockoWillink.md) — Huberman Lab Essentials guest framing discipline, resilience, detachment, leadership, identity, and action after adversity through lived military and training experience.
 - [Max Krummel](entities/MaxKrummel.md) — Immunologist and cancer biologist explaining immune-system tuning, T-cell education, immune aging, sleep repair, vaccines, brain-immune coupling, and intervention caution.
 - [University of California San Francisco / UCSF](entities/UniversityOfCaliforniaSanFrancisco.md) — Biomedical-research institution named as Max Krummel's academic context in the Huberman Lab immune-system episode.
 - [Sara Gottfried](entities/SaraGottfried.md) — Physician and Huberman Lab guest explaining female hormone phenotyping, PCOS risk, contraception tradeoffs, perimenopause brain metabolism, and midlife screening.
@@ -1614,8 +1616,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Darcy (Raised Nutrition)](entities/DarcyRaisedNutrition.md) — Raised Nutrition founder-caller asking whether a niche athletic origin story limits broader wellness appeal.
 - [Cooks Who Feed](entities/CooksWhoFeed.md) — Social-enterprise kitchen-linen company advised to use low-risk B2B trials, referrals, and client-centered impact storytelling.
 - [Seema Sanghavi](entities/SeemaSanghavi.md) — Cooks Who Feed founder-caller focused on convincing B2B buyers to switch vendors.
-- [Huberman Lab](entities/HubermanLab.md) — Show context for episodes on nutrition, mental health, motivation, attention neuroscience, creativity process, emotion science, female hormone health, AI, neuromodulator tools, and immune-system biology.
-- [Andrew Huberman](entities/AndrewHuberman.md) — Host framing guest discussions and solo Essentials episodes on nutrition, mental health, motivation, attention, emotion, AI, hormone health, practical neuroscience, and immunology.
+- [Huberman Lab](entities/HubermanLab.md) — Show context for episodes on nutrition, mental health, motivation, attention neuroscience, creativity process, emotion science, female hormone health, AI, neuromodulator tools, immune-system biology, discipline, and leadership.
+- [Andrew Huberman](entities/AndrewHuberman.md) — Host framing guest discussions and solo Essentials episodes on nutrition, mental health, motivation, attention, emotion, AI, hormone health, practical neuroscience, immunology, discipline, and leadership.
 - [Masud Husain](entities/MasudHusain.md) — Neuroscience and neurology guest explaining motivation, apathy, dopamine, attention, selfhood, and cognitive resilience.
 - [Chris Palmer](entities/ChrisPalmer.md) — Psychiatrist grounding the episode's metabolic psychiatry, ketogenic diet, and mitochondrial mental-health claims.
 - [Russell Wilder](entities/RussellWilder.md) — Mayo Clinic physician named as the 1921 developer of the ketogenic diet for epilepsy.
@@ -9557,6 +9559,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Discipline Over Motivation](concepts/DisciplineOverMotivation.md) — Behavioral self-command frame where needed action depends on commitment, routine, and reduced internal negotiation rather than current motivation.
+- [Operational Detachment](concepts/OperationalDetachment.md) — Decision skill of stepping back from immediate emotion or narrow attention so options, risks, and next actions become visible.
+- [Leadership Emotional Counterweight](concepts/LeadershipEmotionalCounterweight.md) — Leadership practice of staying separate enough from group emotion to counter arrogance after wins and collapse after losses.
+- [Action After Adversity](concepts/ActionAfterAdversity.md) — Resilience pattern for acknowledging loss or setback, extracting usable information, and taking a next constructive step.
 - [Immune System As Tunable Sensor Network](concepts/ImmuneSystemAsTunableSensorNetwork.md) — Systems-immunology frame treating immune cells as distributed sensors whose useful behavior depends on signal, tissue context, restraint, and tuning.
 - [T-Cell Education And Thymus Aging](concepts/TCellEducationAndThymusAging.md) — Thymus-centered frame for early T-cell self/non-self education and age-related decline in new T-cell production.
 - [Immune Aging Mosaic](concepts/ImmuneAgingMosaic.md) — Aging frame where accumulated cellular variation and reduced immune-cell production make cancer or infection signals less distinct.
@@ -9584,7 +9590,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Emotions as Functional Control States](concepts/EmotionsAsFunctionalControlStates.md) — Ralph Adolphs' frame for defining emotions by behavioral function rather than one brain region or only conscious feeling.
 - [Emotional Granularity](concepts/EmotionalGranularity.md) — Ability to differentiate one's own emotional states finely enough to support regulation.
 - [Cognitive Reappraisal Early Intervention](concepts/CognitiveReappraisalEarlyIntervention.md) — Regulation strategy of reframing or redesigning situations before attention turns emotion into rumination.
-- [Autonomic Stress Training](concepts/AutonomicStressTraining.md) — Source-scoped idea that bounded physiological stress can train later emotional reactivity.
+- [Autonomic Stress Training](concepts/AutonomicStressTraining.md) — Source-scoped idea that bounded physiological stress and deliberate discomfort can train emotional reactivity, action readiness, and resilience.
 - [Amygdala Fear Dissociation](concepts/AmygdalaFearDissociation.md) — Lesson that amygdala importance varies across fear perception, external-threat fear, and internal panic.
 - [Social Emotion Inference Limits](concepts/SocialEmotionInferenceLimits.md) — Limits of reading emotion from faces, labels, dynamic cues, text, and prediction mismatches.
 - [Brain-Body Emotion Mapping](concepts/BrainBodyEmotionMapping.md) — Attempt to connect emotional states to distributed brain activity, body signals, interoception, and felt-body concepts.

@@ -2747,6 +2747,10 @@
     "title": "Act of Abjuration",
     "url": "/wiki/entities/actofabjuration/"
   },
+  "ActionAfterAdversity": {
+    "title": "Action After Adversity",
+    "url": "/wiki/concepts/actionafteradversity/"
+  },
   "ActionAgainstAnxiety": {
     "title": "Action Against Anxiety",
     "url": "/wiki/concepts/actionagainstanxiety/"
@@ -14046,6 +14050,10 @@
   "DisciplinarySelfProtectionAfterHarm": {
     "title": "Disciplinary Self-Protection After Harm",
     "url": "/wiki/concepts/disciplinaryselfprotectionafterharm/"
+  },
+  "DisciplineOverMotivation": {
+    "title": "Discipline Over Motivation",
+    "url": "/wiki/concepts/disciplineovermotivation/"
   },
   "Discord": {
     "title": "Discord",
@@ -25827,6 +25835,10 @@
     "title": "Joao Havelange",
     "url": "/wiki/entities/joaohavelange/"
   },
+  "JockoWillink": {
+    "title": "Jocko Willink",
+    "url": "/wiki/entities/jockowillink/"
+  },
   "JodiKantor": {
     "title": "Jodi Kantor",
     "url": "/wiki/entities/jodikantor/"
@@ -27894,6 +27906,10 @@
   "LeaderPersonalExposure": {
     "title": "领导者轻身涉险 / Leader Personal Exposure",
     "url": "/wiki/concepts/leaderpersonalexposure/"
+  },
+  "LeadershipEmotionalCounterweight": {
+    "title": "Leadership Emotional Counterweight",
+    "url": "/wiki/concepts/leadershipemotionalcounterweight/"
   },
   "LeadingIncumbentDisadvantage": {
     "title": "Leading Incumbent Disadvantage",
@@ -35522,6 +35538,10 @@
   "OperationalDataCapture": {
     "title": "Operational Data Capture",
     "url": "/wiki/concepts/operationaldatacapture/"
+  },
+  "OperationalDetachment": {
+    "title": "Operational Detachment",
+    "url": "/wiki/concepts/operationaldetachment/"
   },
   "OperationalGapOwnership": {
     "title": "Operational Gap Ownership / 主动补组织短板",
@@ -57154,6 +57174,10 @@
   "essentials-how-to-access-your-creativity-rick-rubin-scim7816635332": {
     "title": "Essentials: How to Access Your Creativity | Rick Rubin",
     "url": "/wiki/sources/essentials-how-to-access-your-creativity-rick-rubin-scim7816635332/"
+  },
+  "essentials-how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim2090153799": {
+    "title": "Essentials: How to Become Resilient, Forge Your Identity & Lead Others | Jocko Willink",
+    "url": "/wiki/sources/essentials-how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim2090153799/"
   },
   "essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929": {
     "title": "Essentials: How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried",

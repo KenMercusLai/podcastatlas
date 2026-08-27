@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-27] ingest | Essentials: How to Become Resilient, Forge Your Identity & Lead Others | Jocko Willink
+
+Added source page for a Huberman Lab Essentials episode with Jocko Willink on discipline over motivation, exercise-generated energy, resilience after failure, leadership as emotional counterweight, action after adversity, identity through independence, and operational detachment. Created Jocko Willink, Discipline Over Motivation, Operational Detachment, Leadership Emotional Counterweight, and Action After Adversity pages; extended Huberman Lab, Andrew Huberman, and Autonomic Stress Training. No settled contradiction found; exercise, nutrition timing, deliberate discomfort, leadership, parenting, and resilience claims remain source-scoped and not universal protocols.
+
 ## [2026-08-27] ingest | Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li
 
 Added source page for a Huberman Lab episode with Fei-Fei Li on ImageNet, visual intelligence, AI data/compute/algorithm convergence, uncaptured human experience, human-centered augmentation, medical robot collaboration, education, creativity, robotics, and World Labs. Created Human-Centered AI Augmentation, Uncaptured Human Experience Data Limit, Medical AI Robot Collaboration Boundary, and Da Vinci Surgical System pages; migrated/updated Fei-Fei Li, ImageNet, World Labs, AI Assistant Augmentation, AI Creative Collaboration, Human-Centered AI Education, Teacher AI Augmentation, Huberman Lab, and Andrew Huberman. No settled contradiction found; medical autonomy, robotics simulation, AI creativity, education, and governance claims remain source-scoped.
@@ -12650,5 +12654,9 @@ Added source page for a 这病说来话长 episode with 阿汤 and 小龙 on wei
 Ran lint. See lint-report.md for details.
 
 ## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
