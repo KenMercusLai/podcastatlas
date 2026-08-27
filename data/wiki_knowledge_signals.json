@@ -1066,6 +1066,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/amnestyexploitationcrime/"
     },
+    "AmygdalaFearDissociation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1222961716 [SCIM1222961716].md",
+          "key": "neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716",
+          "show": "Huberman Lab",
+          "title": "Neuroscience of Emotions & Tools for Improving Emotion Regulation | Dr. Ralph Adolphs",
+          "url": "/wiki/sources/neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/amygdalafeardissociation/"
+    },
     "AnalogMoviegoingExperience": {
       "episode_count": 1,
       "show_count": 1,
@@ -1083,9 +1099,9 @@
       "url": "/wiki/concepts/analogmoviegoingexperience/"
     },
     "AndrewHuberman": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -1107,6 +1123,13 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Access Your Creativity | Rick Rubin",
           "url": "/wiki/sources/essentials-how-to-access-your-creativity-rick-rubin-scim7816635332/"
+        },
+        {
+          "episode_file": "SCIM1222961716 [SCIM1222961716].md",
+          "key": "neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716",
+          "show": "Huberman Lab",
+          "title": "Neuroscience of Emotions & Tools for Improving Emotion Regulation | Dr. Ralph Adolphs",
+          "url": "/wiki/sources/neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716/"
         }
       ],
       "updated": "2026-08-27",
@@ -1310,6 +1333,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/antiusurpationcoalitionpressure/"
     },
+    "AntonioDamasio": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1222961716 [SCIM1222961716].md",
+          "key": "neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716",
+          "show": "Huberman Lab",
+          "title": "Neuroscience of Emotions & Tools for Improving Emotion Regulation | Dr. Ralph Adolphs",
+          "url": "/wiki/sources/neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/antoniodamasio/"
+    },
     "Anybotics": {
       "episode_count": 1,
       "show_count": 1,
@@ -1508,6 +1547,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/automotiveovercapacityrestructuring/"
+    },
+    "AutonomicStressTraining": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1222961716 [SCIM1222961716].md",
+          "key": "neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716",
+          "show": "Huberman Lab",
+          "title": "Neuroscience of Emotions & Tools for Improving Emotion Regulation | Dr. Ralph Adolphs",
+          "url": "/wiki/sources/neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/autonomicstresstraining/"
     },
     "AutonomousDrivingDataFlywheel": {
       "episode_count": 3,
@@ -1771,6 +1826,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/boundarylesskindnesstrap/"
     },
+    "BrainBodyEmotionMapping": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1222961716 [SCIM1222961716].md",
+          "key": "neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716",
+          "show": "Huberman Lab",
+          "title": "Neuroscience of Emotions & Tools for Improving Emotion Regulation | Dr. Ralph Adolphs",
+          "url": "/wiki/sources/neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/brainbodyemotionmapping/"
+    },
     "BrandDoing": {
       "episode_count": 1,
       "show_count": 1,
@@ -1970,6 +2041,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/californiaprivacyprotectionagency/"
+    },
+    "Caltech": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1222961716 [SCIM1222961716].md",
+          "key": "neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716",
+          "show": "Huberman Lab",
+          "title": "Neuroscience of Emotions & Tools for Improving Emotion Regulation | Dr. Ralph Adolphs",
+          "url": "/wiki/sources/neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/caltech/"
     },
     "CampaignFinanceAccessIncentive": {
       "episode_count": 1,
@@ -2773,6 +2860,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/coercedimperialmarriage/"
     },
+    "CognitiveReappraisalEarlyIntervention": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1222961716 [SCIM1222961716].md",
+          "key": "neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716",
+          "show": "Huberman Lab",
+          "title": "Neuroscience of Emotions & Tools for Improving Emotion Regulation | Dr. Ralph Adolphs",
+          "url": "/wiki/sources/neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/cognitivereappraisalearlyintervention/"
+    },
     "CognitiveResilience": {
       "episode_count": 1,
       "show_count": 1,
@@ -3380,6 +3483,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/datateamasbusinesspartner/"
+    },
+    "DavidAnderson": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1222961716 [SCIM1222961716].md",
+          "key": "neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716",
+          "show": "Huberman Lab",
+          "title": "Neuroscience of Emotions & Tools for Improving Emotion Regulation | Dr. Ralph Adolphs",
+          "url": "/wiki/sources/neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/davidanderson/"
     },
     "DaymondJohn": {
       "episode_count": 1,
@@ -4196,6 +4315,98 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/embodiedtrainingagainstfear/"
+    },
+    "EmotionAttentionalCapture": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1222961716 [SCIM1222961716].md",
+          "key": "neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716",
+          "show": "Huberman Lab",
+          "title": "Neuroscience of Emotions & Tools for Improving Emotion Regulation | Dr. Ralph Adolphs",
+          "url": "/wiki/sources/neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/emotionattentionalcapture/"
+    },
+    "EmotionRegulationToolkit": {
+      "episode_count": 5,
+      "show_count": 3,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》901 丨急性子的人会是什么下场？ [lh1yfyJZqPTXVtnV9tAiQms9YjUd].md",
+          "key": "zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》901 丨急性子的人会是什么下场？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》161｜财运和人际关系的“量子纠缠”（2） [ltTNuxLYpCa4pAFz1MZdR3AizfCV].md",
+          "key": "zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-2-lttnuxlypca4pafz1mzdr3aizfcv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》161｜财运和人际关系的“量子纠缠”（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-2-lttnuxlypca4pafz1mzdr3aizfcv/"
+        },
+        {
+          "episode_file": "EP273 NPC还是NPD，都别想拿走我们人生的遥控器 [lqqnd-e29XVhx2mTF6uUZX13wwvF].md",
+          "key": "ep273-npc-haishi-npd-dou-bie-xiang-nazou-women-rensheng-de-yaokongqi-lqqnd-e29xvhx2mtf6uuzx13wwvf",
+          "show": "Talk三联",
+          "title": "EP273 NPC还是NPD，都别想拿走我们人生的遥控器",
+          "url": "/wiki/sources/ep273-npc-haishi-npd-dou-bie-xiang-nazou-women-rensheng-de-yaokongqi-lqqnd-e29xvhx2mtf6uuzx13wwvf/"
+        },
+        {
+          "episode_file": "EP236 唠五块钱心里话，付费的陪伴是真的吗？ [ltVuoEluOEu4-a3j3lAmHc3Buudx].md",
+          "key": "ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx",
+          "show": "Talk三联",
+          "title": "EP236 唠五块钱心里话，付费的陪伴是真的吗？",
+          "url": "/wiki/sources/ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx/"
+        },
+        {
+          "episode_file": "SCIM1222961716 [SCIM1222961716].md",
+          "key": "neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716",
+          "show": "Huberman Lab",
+          "title": "Neuroscience of Emotions & Tools for Improving Emotion Regulation | Dr. Ralph Adolphs",
+          "url": "/wiki/sources/neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/emotionregulationtoolkit/"
+    },
+    "EmotionalGranularity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1222961716 [SCIM1222961716].md",
+          "key": "neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716",
+          "show": "Huberman Lab",
+          "title": "Neuroscience of Emotions & Tools for Improving Emotion Regulation | Dr. Ralph Adolphs",
+          "url": "/wiki/sources/neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/emotionalgranularity/"
+    },
+    "EmotionsAsFunctionalControlStates": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1222961716 [SCIM1222961716].md",
+          "key": "neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716",
+          "show": "Huberman Lab",
+          "title": "Neuroscience of Emotions & Tools for Improving Emotion Regulation | Dr. Ralph Adolphs",
+          "url": "/wiki/sources/neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/emotionsasfunctionalcontrolstates/"
     },
     "EmperorHuanOfHan": {
       "episode_count": 9,
@@ -6434,9 +6645,9 @@
       "url": "/wiki/concepts/huaweismartselectioncarmodel/"
     },
     "HubermanLab": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -6458,6 +6669,13 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Access Your Creativity | Rick Rubin",
           "url": "/wiki/sources/essentials-how-to-access-your-creativity-rick-rubin-scim7816635332/"
+        },
+        {
+          "episode_file": "SCIM1222961716 [SCIM1222961716].md",
+          "key": "neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716",
+          "show": "Huberman Lab",
+          "title": "Neuroscience of Emotions & Tools for Improving Emotion Regulation | Dr. Ralph Adolphs",
+          "url": "/wiki/sources/neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716/"
         }
       ],
       "updated": "2026-08-27",
@@ -10995,6 +11213,38 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/partyprohibitionkinshipexpansion/"
     },
+    "PatientSM": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1222961716 [SCIM1222961716].md",
+          "key": "neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716",
+          "show": "Huberman Lab",
+          "title": "Neuroscience of Emotions & Tools for Improving Emotion Regulation | Dr. Ralph Adolphs",
+          "url": "/wiki/sources/neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/patientsm/"
+    },
+    "PaulEkman": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1222961716 [SCIM1222961716].md",
+          "key": "neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716",
+          "show": "Huberman Lab",
+          "title": "Neuroscience of Emotions & Tools for Improving Emotion Regulation | Dr. Ralph Adolphs",
+          "url": "/wiki/sources/neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/paulekman/"
+    },
     "PengLeiHuawei": {
       "episode_count": 1,
       "show_count": 1,
@@ -11515,6 +11765,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/raisednutrition/"
+    },
+    "RalphAdolphs": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1222961716 [SCIM1222961716].md",
+          "key": "neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716",
+          "show": "Huberman Lab",
+          "title": "Neuroscience of Emotions & Tools for Improving Emotion Regulation | Dr. Ralph Adolphs",
+          "url": "/wiki/sources/neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/ralphadolphs/"
     },
     "RayBanSmartGlasses": {
       "episode_count": 5,
@@ -12685,6 +12951,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/smartvehiclelivingspace/"
     },
+    "SocialEmotionInferenceLimits": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1222961716 [SCIM1222961716].md",
+          "key": "neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716",
+          "show": "Huberman Lab",
+          "title": "Neuroscience of Emotions & Tools for Improving Emotion Regulation | Dr. Ralph Adolphs",
+          "url": "/wiki/sources/neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/socialemotioninferencelimits/"
+    },
     "SongHongEasternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -13409,6 +13691,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/tanshihuaixianbei/"
+    },
+    "TaskSwitchingResidue": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1222961716 [SCIM1222961716].md",
+          "key": "neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716",
+          "show": "Huberman Lab",
+          "title": "Neuroscience of Emotions & Tools for Improving Emotion Regulation | Dr. Ralph Adolphs",
+          "url": "/wiki/sources/neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/taskswitchingresidue/"
     },
     "TenantScreeningEvictionBackfire": {
       "episode_count": 1,

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 7951
+wiki_total_pages: 7957
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -104,6 +104,9 @@ wiki_pages:
   - key: "PathJoy"
     title: "PathJoy"
     url: "/wiki/entities/pathjoy/"
+  - key: "PatientSM"
+    title: "Patient SM"
+    url: "/wiki/entities/patientsm/"
   - key: "Patreon"
     title: "Patreon"
     url: "/wiki/entities/patreon/"
@@ -146,6 +149,9 @@ wiki_pages:
   - key: "PaulCrutzen"
     title: "Paul Crutzen"
     url: "/wiki/entities/paulcrutzen/"
+  - key: "PaulEkman"
+    title: "Paul Ekman"
+    url: "/wiki/entities/paulekman/"
   - key: "PaulFreitag"
     title: "Paul Freitag"
     url: "/wiki/entities/paulfreitag/"

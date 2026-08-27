@@ -4171,6 +4171,10 @@
     "title": "Amy Webb",
     "url": "/wiki/entities/amywebb/"
   },
+  "AmygdalaFearDissociation": {
+    "title": "Amygdala Fear Dissociation",
+    "url": "/wiki/concepts/amygdalafeardissociation/"
+  },
   "AmyloidHypothesisUncertainty": {
     "title": "Amyloid Hypothesis Uncertainty",
     "url": "/wiki/concepts/amyloidhypothesisuncertainty/"
@@ -4698,6 +4702,10 @@
   "AntonLaGuardia": {
     "title": "Anton LaGuardia",
     "url": "/wiki/entities/antonlaguardia/"
+  },
+  "AntonioDamasio": {
+    "title": "Antonio Damasio",
+    "url": "/wiki/entities/antoniodamasio/"
   },
   "AntonioMaysJr": {
     "title": "Antonio Mays Jr.",
@@ -5506,6 +5514,10 @@
   "AutomotiveOvercapacityRestructuring": {
     "title": "Automotive Overcapacity Restructuring",
     "url": "/wiki/concepts/automotiveovercapacityrestructuring/"
+  },
+  "AutonomicStressTraining": {
+    "title": "Autonomic Stress Training",
+    "url": "/wiki/concepts/autonomicstresstraining/"
   },
   "AutonomousDrivingDataFlywheel": {
     "title": "Autonomous Driving Data Flywheel",
@@ -7287,6 +7299,10 @@
     "title": "Brahim Ghali",
     "url": "/wiki/entities/brahimghali/"
   },
+  "BrainBodyEmotionMapping": {
+    "title": "Brain-Body Emotion Mapping",
+    "url": "/wiki/concepts/brainbodyemotionmapping/"
+  },
   "BrainBuffs": {
     "title": "Brain Buffs",
     "url": "/wiki/entities/brainbuffs/"
@@ -8006,6 +8022,10 @@
   "CallumWilliams": {
     "title": "Callum Williams",
     "url": "/wiki/entities/callumwilliams/"
+  },
+  "Caltech": {
+    "title": "Caltech",
+    "url": "/wiki/entities/caltech/"
   },
   "CalvinGoddard": {
     "title": "Calvin Goddard",
@@ -10851,6 +10871,10 @@
     "title": "Cognitive Offloading / 认知卸载",
     "url": "/wiki/concepts/cognitiveoffloading/"
   },
+  "CognitiveReappraisalEarlyIntervention": {
+    "title": "Cognitive Reappraisal Early Intervention",
+    "url": "/wiki/concepts/cognitivereappraisalearlyintervention/"
+  },
   "CognitiveResilience": {
     "title": "Cognitive Resilience",
     "url": "/wiki/concepts/cognitiveresilience/"
@@ -12982,6 +13006,10 @@
   "DaveRoss": {
     "title": "Dave Ross",
     "url": "/wiki/entities/daveross/"
+  },
+  "DavidAnderson": {
+    "title": "David Anderson",
+    "url": "/wiki/entities/davidanderson/"
   },
   "DavidAutor": {
     "title": "David Autor",
@@ -15567,6 +15595,10 @@
     "title": "Emoluments Clause",
     "url": "/wiki/concepts/emolumentsclause/"
   },
+  "EmotionAttentionalCapture": {
+    "title": "Emotion Attentional Capture",
+    "url": "/wiki/concepts/emotionattentionalcapture/"
+  },
   "EmotionEconomy": {
     "title": "Emotion Economy / 情绪经济",
     "url": "/wiki/concepts/emotioneconomy/"
@@ -15599,6 +15631,10 @@
     "title": "Emotional Energy Extraction / 情绪能量掠夺",
     "url": "/wiki/concepts/emotionalenergyextraction/"
   },
+  "EmotionalGranularity": {
+    "title": "Emotional Granularity",
+    "url": "/wiki/concepts/emotionalgranularity/"
+  },
   "EmotionalInteractionModels": {
     "title": "Emotional Interaction Models",
     "url": "/wiki/concepts/emotionalinteractionmodels/"
@@ -15610,6 +15646,10 @@
   "EmotionalValueCommodification": {
     "title": "Emotional Value Commodification / 情绪价值商品化",
     "url": "/wiki/concepts/emotionalvaluecommodification/"
+  },
+  "EmotionsAsFunctionalControlStates": {
+    "title": "Emotions as Functional Control States",
+    "url": "/wiki/concepts/emotionsasfunctionalcontrolstates/"
   },
   "EmpathyAgainstComparison": {
     "title": "Empathy Against Comparison / 对抗比较的同理心",
@@ -36287,6 +36327,10 @@
     "title": "Patient Dignity In Daily Care / 日常照护中的患者尊严",
     "url": "/wiki/concepts/patientdignityindailycare/"
   },
+  "PatientSM": {
+    "title": "Patient SM",
+    "url": "/wiki/entities/patientsm/"
+  },
   "Patreon": {
     "title": "Patreon",
     "url": "/wiki/entities/patreon/"
@@ -36354,6 +36398,10 @@
   "PaulCrutzen": {
     "title": "Paul Crutzen",
     "url": "/wiki/entities/paulcrutzen/"
+  },
+  "PaulEkman": {
+    "title": "Paul Ekman",
+    "url": "/wiki/entities/paulekman/"
   },
   "PaulFreitag": {
     "title": "Paul Freitag",
@@ -39698,6 +39746,10 @@
   "RajivMotwani": {
     "title": "Rajiv Motwani",
     "url": "/wiki/entities/rajivmotwani/"
+  },
+  "RalphAdolphs": {
+    "title": "Ralph Adolphs",
+    "url": "/wiki/entities/ralphadolphs/"
   },
   "RalphGoody": {
     "title": "Ralph Goody",
@@ -44123,6 +44175,10 @@
     "title": "Social Darwinism / 社会达尔文主义",
     "url": "/wiki/concepts/socialdarwinism/"
   },
+  "SocialEmotionInferenceLimits": {
+    "title": "Social Emotion Inference Limits",
+    "url": "/wiki/concepts/socialemotioninferencelimits/"
+  },
   "SocialEngineeringFraud": {
     "title": "Social Engineering Fraud",
     "url": "/wiki/concepts/socialengineeringfraud/"
@@ -46834,6 +46890,10 @@
   "TaskAsAService": {
     "title": "Task As A Service",
     "url": "/wiki/concepts/taskasaservice/"
+  },
+  "TaskSwitchingResidue": {
+    "title": "Task Switching Residue",
+    "url": "/wiki/concepts/taskswitchingresidue/"
   },
   "TasteLabs": {
     "title": "Taste Labs",
@@ -57266,6 +57326,10 @@
   "nage-bu-chuan-xizhuang-de-chengxuyuan-chechule-guochan-caozuoxitong-ershi-nian-mishi-keji-luandun": {
     "title": "那个不穿西装的程序员，扯出了国产操作系统二十年秘史",
     "url": "/wiki/sources/nage-bu-chuan-xizhuang-de-chengxuyuan-chechule-guochan-caozuoxitong-ershi-nian-mishi-keji-luandun/"
+  },
+  "neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716": {
+    "title": "Neuroscience of Emotions & Tools for Improving Emotion Regulation | Dr. Ralph Adolphs",
+    "url": "/wiki/sources/neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716/"
   },
   "ni-you-yi-ba-nenggou-wa-chu-jinzi-de-chanzi-kending-buhui-xian-gei-bieren-yong-duitan-kaiwuji-lu-ziheng-yong-ai-faming-xin-cailiao-lvhl1-hy1gwtainujjgf8xbs4fyh": {
     "title": "“你有一把能够挖出金子的铲子，肯定不会先给别人用”｜对谈开物纪陆子恒：用AI发明新材料",

@@ -6451,6 +6451,13 @@
       "url": "/topics/science/"
     }
   ],
+  "AmygdalaFearDissociation": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "AmyloidHypothesisUncertainty": [
     {
       "key": "science",
@@ -7113,6 +7120,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "AntonioDamasio": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "Antwerp": [
@@ -8226,6 +8240,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "AutonomicStressTraining": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "AutonomousDrivingDataFlywheel": [
@@ -10273,6 +10294,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "BrainBodyEmotionMapping": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "BrainBuffs": [
     {
       "key": "culture",
@@ -11096,6 +11124,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "Caltech": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "Cambodia": [
@@ -13852,6 +13887,18 @@
       "url": "/topics/technology/"
     }
   ],
+  "CognitiveReappraisalEarlyIntervention": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "CognitiveResilience": [
     {
       "key": "science",
@@ -16431,6 +16478,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "DavidAnderson": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "DavidAutor": [
@@ -19441,6 +19495,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "EmotionAttentionalCapture": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "EmotionalContagion": [
     {
       "key": "politics",
@@ -19477,11 +19538,30 @@
       "url": "/topics/science/"
     }
   ],
+  "EmotionalGranularity": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "EmotionalInteractionModels": [
     {
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "EmotionsAsFunctionalControlStates": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "EmpathyAgainstComparison": [
@@ -42404,6 +42484,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "PatientSM": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "PatrickCollison": [
     {
       "key": "economics",
@@ -42466,6 +42553,13 @@
     }
   ],
   "PaulCrutzen": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "PaulEkman": [
     {
       "key": "science",
       "label": "Science",
@@ -46666,6 +46760,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "RalphAdolphs": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "RalphGoody": [
@@ -51719,6 +51820,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "SocialEmotionInferenceLimits": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "SocialEngineeringFraud": [
@@ -67204,6 +67312,18 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "no-201-zhongguo-gaotie-jianshi-976314772": [

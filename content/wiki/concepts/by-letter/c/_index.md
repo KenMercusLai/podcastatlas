@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 5698
+wiki_total_pages: 5707
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -881,6 +881,9 @@ wiki_pages:
   - key: "CognitiveOffloading"
     title: "Cognitive Offloading / 认知卸载"
     url: "/wiki/concepts/cognitiveoffloading/"
+  - key: "CognitiveReappraisalEarlyIntervention"
+    title: "Cognitive Reappraisal Early Intervention"
+    url: "/wiki/concepts/cognitivereappraisalearlyintervention/"
   - key: "CognitiveResilience"
     title: "Cognitive Resilience"
     url: "/wiki/concepts/cognitiveresilience/"

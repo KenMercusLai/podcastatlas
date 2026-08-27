@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Neuroscience of Emotions & Tools for Improving Emotion Regulation | Dr. Ralph Adolphs](sources/neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716.md) — Huberman Lab episode with Ralph Adolphs on emotions as functional control states, regulation, amygdala fear dissociation, social inference limits, body mapping, and task switching.
 - [VOL.219视频播客｜当代年轻人腰突自救指南：骨科医生交底，别把你的腰当消耗品！](sources/vol-219-shipin-boke-dangdai-nianqingren-yaotu-zijiu-zhinan-guke-yisheng-jiaodi-bieba-nide-yao-dang-xiaohaopin-lkvjq45dukdjpesxikwec0zrglmg.md) — 这病说来话长 episode with 马浩宁 on lumbar disc herniation, imaging-versus-symptom interpretation, surgery thresholds, rehabilitation pacing, neutral lumbar position, and daily movement mechanics.
 - [Essentials: How to Access Your Creativity | Rick Rubin](sources/essentials-how-to-access-your-creativity-rick-rubin-scim7816635332.md) — Huberman Lab Essentials episode with Rick Rubin on creativity as felt process, attention shifts, feedback boundaries, creative phases, finishing, self-doubt, and meditation.
 - [Why 70mm Film Still Feels Like the Hottest Movie Technology](sources/tech-20260827-0827-mp-tech-pod-128-tech-20260827-0827-mp-tech-pod-128.md) — Marketplace Tech episode with Miles Williams on the Alex Theatre's 70mm retrofit for The Odyssey, IMAX/70mm/35mm format differences, scarce projection expertise, and analog moviegoing as an event.
@@ -1579,6 +1580,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Ralph Adolphs](entities/RalphAdolphs.md) — Caltech neuroscientist and Huberman Lab guest explaining emotions as functional control states, social perception, and regulation.
+- [Caltech](entities/Caltech.md) — Institutional context for Ralph Adolphs' emotion-neuroscience research in the Huberman Lab episode.
+- [David Anderson](entities/DavidAnderson.md) — Collaborator reference for the functional emotion framework discussed by Ralph Adolphs.
+- [Antonio Damasio](entities/AntonioDamasio.md) — Decision-and-emotion reference used to show that emotion supports motivation and choice.
+- [Paul Ekman](entities/PaulEkman.md) — Facial-expression research reference whose influence is acknowledged and qualified by the Adolphs episode.
+- [Patient SM](entities/PatientSM.md) — Amygdala-lesion research case used to distinguish fear perception, external-threat fear, and internal panic.
 - [这病说来话长 / Zhe Bing Shuo Lai Hua Chang](entities/ZheBingShuoLaiHuaChang.md) — Chinese medical-literacy podcast represented by oncology and orthopedics episodes that translate specialist care while preserving clinical boundaries.
 - [马浩宁 / Ma Haoning](entities/MaHaoning.md) — Spine-surgery guest explaining lumbar disc herniation, symptom-driven care, surgery tradeoffs, rehabilitation pacing, and lumbar neutral position.
 - [Alex Theatre](entities/AlexTheatre.md) — Historic Glendale movie palace used by Marketplace Tech as a case of rapid 70mm retrofit and analog exhibition revival.
@@ -1591,8 +1598,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Darcy (Raised Nutrition)](entities/DarcyRaisedNutrition.md) — Raised Nutrition founder-caller asking whether a niche athletic origin story limits broader wellness appeal.
 - [Cooks Who Feed](entities/CooksWhoFeed.md) — Social-enterprise kitchen-linen company advised to use low-risk B2B trials, referrals, and client-centered impact storytelling.
 - [Seema Sanghavi](entities/SeemaSanghavi.md) — Cooks Who Feed founder-caller focused on convincing B2B buyers to switch vendors.
-- [Huberman Lab](entities/HubermanLab.md) — Show context for episodes on nutrition, mental health, motivation, attention neuroscience, creativity process, feedback, and meditation.
-- [Andrew Huberman](entities/AndrewHuberman.md) — Host framing guest discussions on nutrition, mental health, motivation, attention, creativity process, and practical neuroscience.
+- [Huberman Lab](entities/HubermanLab.md) — Show context for episodes on nutrition, mental health, motivation, attention neuroscience, creativity process, emotion science, and regulation.
+- [Andrew Huberman](entities/AndrewHuberman.md) — Host framing guest discussions on nutrition, mental health, motivation, attention, creativity, emotion science, and practical neuroscience.
 - [Masud Husain](entities/MasudHusain.md) — Neuroscience and neurology guest explaining motivation, apathy, dopamine, attention, selfhood, and cognitive resilience.
 - [Chris Palmer](entities/ChrisPalmer.md) — Psychiatrist grounding the episode's metabolic psychiatry, ketogenic diet, and mitochondrial mental-health claims.
 - [Russell Wilder](entities/RussellWilder.md) — Mayo Clinic physician named as the 1921 developer of the ketogenic diet for epilepsy.
@@ -9534,6 +9541,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Emotions as Functional Control States](concepts/EmotionsAsFunctionalControlStates.md) — Ralph Adolphs' frame for defining emotions by behavioral function rather than one brain region or only conscious feeling.
+- [Emotional Granularity](concepts/EmotionalGranularity.md) — Ability to differentiate one's own emotional states finely enough to support regulation.
+- [Cognitive Reappraisal Early Intervention](concepts/CognitiveReappraisalEarlyIntervention.md) — Regulation strategy of reframing or redesigning situations before attention turns emotion into rumination.
+- [Autonomic Stress Training](concepts/AutonomicStressTraining.md) — Source-scoped idea that bounded physiological stress can train later emotional reactivity.
+- [Amygdala Fear Dissociation](concepts/AmygdalaFearDissociation.md) — Lesson that amygdala importance varies across fear perception, external-threat fear, and internal panic.
+- [Social Emotion Inference Limits](concepts/SocialEmotionInferenceLimits.md) — Limits of reading emotion from faces, labels, dynamic cues, text, and prediction mismatches.
+- [Brain-Body Emotion Mapping](concepts/BrainBodyEmotionMapping.md) — Attempt to connect emotional states to distributed brain activity, body signals, interoception, and felt-body concepts.
+- [Emotion Attentional Capture](concepts/EmotionAttentionalCapture.md) — Functional property by which emotional states take priority over ongoing behavior and attention.
+- [Task Switching Residue](concepts/TaskSwitchingResidue.md) — Leftover cognitive and emotional state from a prior activity that raises switching costs.
 - [Lumbar Disc Herniation / 腰椎间盘突出](concepts/LumbarDiscHerniation.md) — Spine condition explained through disc morphology, nerve or dural irritation, imaging limits, symptom severity, treatment thresholds, and recurrence prevention.
 - [Lumbar Neutral Position / 腰椎中立位](concepts/LumbarNeutralPosition.md) — Movement principle of keeping the lumbar spine stable while hips and knees perform more of the motion during sitting, lifting, training, and recovery.
 - [Symptom-Driven Spine Care / 症状驱动的脊柱诊疗](concepts/SymptomDrivenSpineCare.md) — Clinical frame for matching spine imaging to pain, numbness, motor function, bowel or bladder changes, and physician examination before choosing treatment.
@@ -11627,7 +11643,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mental Health Crisis Intervention Boundary / 心理危机干预边界](concepts/MentalHealthCrisisInterventionBoundary.md) — Point where self-harm, suicide threats, or life-threatening distress exceed ordinary paid listening, friendship, or AI companionship.
 - [Tactile Comfort Consumption / 触感安慰消费](concepts/TactileComfortConsumption.md) — Plush, pet, and bodily-comfort consumption where softness, weight, warmth, and quiet presence regulate emotion.
 - [Ritual Hope Consumption / 仪式性希望消费](concepts/RitualHopeConsumption.md) — Buying rituals, symbols, objects, or practices that turn uncertainty into visible hope or participation.
-- [Emotion Regulation Toolkit / 情绪调节工具箱](concepts/EmotionRegulationToolkit.md) — Practical set of supports and body-based actions for noticing, tolerating, regulating, and seeking help around emotion.
+- [Emotion Regulation Toolkit / 情绪调节工具箱](concepts/EmotionRegulationToolkit.md) — Practical frame for noticing, delaying, differentiating, regulating, and appropriately escalating emotional states.
 - [Immediate-Relief Wellness Consumption / 即时缓解型疗愈消费](concepts/ImmediateReliefWellnessConsumption.md) — Wellness services such as sound healing or sleep-oriented scenes evaluated by quick felt relief and permission to pause.
 - [U.S.-China AI Macro Asymmetry / 中美AI宏观不对称](concepts/USChinaAIMacroAsymmetry.md) — Episode 172 frame contrasting U.S. AI capex/wealth-effect demand with China's export, advanced-manufacturing, domestic-substitution, and supply-side AI channels.
 - [AI Labor Substitution Valuation Boundary / AI劳动力替代估值边界](concepts/AILaborSubstitutionValuationBoundary.md) — Episode 172 distinction between priced coding/office substitution and uncertain broad white-collar labor replacement.

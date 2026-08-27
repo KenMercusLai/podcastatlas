@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1941
+topic_total_pages: 1945
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -268,6 +268,9 @@ topic_concepts:
   - key: "AutomaticLicensePlateReader"
     title: "Automatic License Plate Reader"
     url: "/wiki/concepts/automaticlicenseplatereader/"
+  - key: "AutonomicStressTraining"
+    title: "Autonomic Stress Training"
+    url: "/wiki/concepts/autonomicstresstraining/"
   - key: "AutonomousVehicleRegulatoryPatchwork"
     title: "Autonomous Vehicle Regulatory Patchwork"
     url: "/wiki/concepts/autonomousvehicleregulatorypatchwork/"
@@ -508,6 +511,9 @@ topic_concepts:
   - key: "CognitiveDeclineAdvancePlanning"
     title: "Cognitive Decline Advance Planning / 认知障碍提前规划"
     url: "/wiki/concepts/cognitivedeclineadvanceplanning/"
+  - key: "CognitiveReappraisalEarlyIntervention"
+    title: "Cognitive Reappraisal Early Intervention"
+    url: "/wiki/concepts/cognitivereappraisalearlyintervention/"
   - key: "ColdWarNuclearMisperception"
     title: "Cold War Nuclear Misperception / 冷战核误判"
     url: "/wiki/concepts/coldwarnuclearmisperception/"
@@ -850,6 +856,9 @@ topic_concepts:
   - key: "EmotionalDeescalationPersuasion"
     title: "Emotional De-escalation Persuasion / 情绪降温式说服"
     url: "/wiki/concepts/emotionaldeescalationpersuasion/"
+  - key: "EmotionalGranularity"
+    title: "Emotional Granularity"
+    url: "/wiki/concepts/emotionalgranularity/"
   - key: "EmployeeSeveranceAtShutdown"
     title: "Employee Severance at Shutdown"
     url: "/wiki/concepts/employeeseveranceatshutdown/"
@@ -5427,6 +5436,9 @@ topic_sources:
   - key: "missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3"
     title: "Missing Peace: Will Israel Imperil Iran Deal?"
     url: "/wiki/sources/missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3/"
+  - key: "neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716"
+    title: "Neuroscience of Emotions & Tools for Improving Emotion Regulation | Dr. Ralph Adolphs"
+    url: "/wiki/sources/neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716/"
   - key: "no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500"
     title: "No.206 检索、送药、看病：互联网医疗这些年 | 中国互联网故事22"
     url: "/wiki/sources/no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500/"

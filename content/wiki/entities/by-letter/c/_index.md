@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 7951
+wiki_total_pages: 7957
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -59,6 +59,9 @@ wiki_pages:
   - key: "CallumWilliams"
     title: "Callum Williams"
     url: "/wiki/entities/callumwilliams/"
+  - key: "Caltech"
+    title: "Caltech"
+    url: "/wiki/entities/caltech/"
   - key: "CalvinGoddard"
     title: "Calvin Goddard"
     url: "/wiki/entities/calvingoddard/"

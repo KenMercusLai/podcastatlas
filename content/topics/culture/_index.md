@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2255
+topic_total_pages: 2256
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -790,6 +790,9 @@ topic_concepts:
   - key: "EmoRevivalIdentityCulture"
     title: "Emo Revival Identity Culture"
     url: "/wiki/concepts/emorevivalidentityculture/"
+  - key: "EmotionAttentionalCapture"
+    title: "Emotion Attentional Capture"
+    url: "/wiki/concepts/emotionattentionalcapture/"
   - key: "EmotionalContagion"
     title: "Emotional Contagion / 情绪感染"
     url: "/wiki/concepts/emotionalcontagion/"

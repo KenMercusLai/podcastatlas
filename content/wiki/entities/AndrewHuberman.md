@@ -6,6 +6,7 @@ sources:
   - essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786
   - how-to-improve-motivation-overcome-procrastination-dr-masud-husain-scim3386045656
   - essentials-how-to-access-your-creativity-rick-rubin-scim7816635332
+  - neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716
 knowledge_schema: synthesis-v1
 last_updated: 2026-08-27
 ---
@@ -13,16 +14,16 @@ last_updated: 2026-08-27
 # Andrew Huberman
 
 ## Overview
-Andrew Huberman is the [[HubermanLab]] host voice in source notes on nutrition and mental health, motivation and attention neuroscience, and creativity as a practical attention process.
+Andrew Huberman is the [[HubermanLab]] host voice in source notes on nutrition and mental health, motivation and attention neuroscience, creativity process, and emotion regulation.
 
 ## Current Profile
-The current evidence shows Huberman translating guest expertise into practical questions about biology, attention, and behavior. With [[ChrisPalmer]], he frames diet and ketosis as potentially important mental-health variables while asking where ordinary nutrition advice ends and psychiatric supervision begins. With [[MasudHusain]], he presses how motivation, procrastination, effort perception, ADHD, addiction, attention, and self-concept fit into neuroscience without collapsing them into simple dopamine advice. With [[RickRubin]], he shifts into a more philosophical creativity conversation, using attention, feedback, self-doubt, and meditation as bridges between practical process and felt experience.
+The current evidence shows Huberman translating guest expertise into practical questions about biology, attention, emotion, and behavior. With [[ChrisPalmer]], he frames diet and ketosis as potentially important mental-health variables while asking where ordinary nutrition advice ends and psychiatric supervision begins. With [[MasudHusain]], he presses how motivation, procrastination, effort perception, ADHD, addiction, attention, and self-concept fit into neuroscience without collapsing them into simple dopamine advice. With [[RickRubin]], he shifts into a more philosophical creativity conversation, using attention, feedback, self-doubt, and meditation as bridges between practical process and felt experience. With [[RalphAdolphs]], he uses everyday reactivity, social reading, body states, solitude, and task switching to connect emotion science to regulation practice while preserving evidence limits.
 
 ## Key Characteristics
-- He frames everyday concerns, such as diet, motivation, procrastination, distraction, creativity, and self-talk, through guest expertise and practical mechanisms.
+- He frames everyday concerns, such as diet, motivation, procrastination, distraction, creativity, emotion, and self-talk, through guest expertise and practical mechanisms.
 - He uses guest expertise to distinguish practical tools from medical treatment boundaries.
-- He pushes for separations among similar ideas: ketosis versus general diet, apathy versus depression, perceived effort versus actual effort, and wanting versus liking.
-- He often turns mechanistic discussion toward action design, including task breakdown, planning, environmental distraction reduction, and supervised care when needed.
+- He pushes for separations among similar ideas: ketosis versus general diet, apathy versus depression, perceived effort versus actual effort, wanting versus liking, and emotion versus conscious feeling.
+- He often turns mechanistic discussion toward action design, including task breakdown, planning, environmental distraction reduction, early emotion intervention, and supervised care when needed.
 - He can also host process-oriented conversations where the evidence is philosophical and experiential rather than formal neuroscience.
 
 ## Evidence
@@ -31,21 +32,25 @@ The current evidence shows Huberman translating guest expertise into practical q
 - Motivation framing - [[how-to-improve-motivation-overcome-procrastination-dr-masud-husain-scim3386045656]] has Huberman frame drive, procrastination, apathy, pleasure, and effort as the discussion's target.
 - Experimental orientation - [[how-to-improve-motivation-overcome-procrastination-dr-masud-husain-scim3386045656]] includes Huberman proposing ways to separate perceived effort from physiological effort and asking how self-belief fits motivation.
 - Creativity framing - [[essentials-how-to-access-your-creativity-rick-rubin-scim7816635332]] has Huberman introduce creativity as difficult for neuroscience to capture, then ask Rubin about attention aperture, online feedback, happiness, self-doubt, and meditation.
+- Emotion framing - [[neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716]] has Huberman ask about watching emotions grow, attention feeding emotion, social cues over time, media capture, solitude, and task switching.
 
 ## Qualifications
-The page reflects only the current source notes. It does not make broader claims about Huberman's research background, medical credentials, or advice outside these recorded discussions. The Rubin source is especially process-oriented and should not be read as a formal neuroscience protocol.
+The page reflects only the current source notes. It does not make broader claims about Huberman's research background, medical credentials, or advice outside these recorded discussions. The Rubin source is process-oriented, and the Adolphs source includes anecdotal stress-training examples, so neither should be read as a formal universal protocol.
 
 ## What Changed
-- Expanded Huberman's profile to include a creativity-process episode where attention and meditation are discussed through Rubin's experiential frame.
+- Expanded Huberman's profile to include an emotion-neuroscience episode where regulation, social perception, body state, solitude, and task switching are discussed through Adolphs' research frame.
 
 ## Relationships
 - [[HubermanLab]] - show context for his host role.
 - [[ChrisPalmer]] - guest whose metabolic psychiatry claims he elicits.
 - [[MasudHusain]] - guest whose motivation and apathy research he elicits.
 - [[RickRubin]] - guest whose creative-process claims he elicits.
+- [[RalphAdolphs]] - guest whose emotion-neuroscience claims he elicits.
 - [[NutritionMentalHealth]] - main topic he frames for the episode.
 - [[CarbohydrateRestrictionMentalHealth]] - practical branch opened by his question about lower-glucose states.
 - [[MotivationRewardEffortCalculation]] - practical neuroscience branch opened by his motivation questions.
 - [[AttentionCapacitySelection]] - focus and distraction branch developed in the newer episode.
 - [[CreativeApertureShift]] - attention-and-creativity branch developed in the Rubin episode.
 - [[AwarenessMeditationStoryDropping]] - meditation branch discussed in the Rubin episode.
+- [[EmotionRegulationToolkit]] - practical emotion branch developed in the Adolphs episode.
+- [[SocialEmotionInferenceLimits]] - social-cue interpretation branch developed in the Adolphs episode.

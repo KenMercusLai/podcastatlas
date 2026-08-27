@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 7951
+wiki_total_pages: 7957
 wiki_pages:
   - key: "RachelReeves"
     title: "Rachel Reeves"
@@ -35,6 +35,9 @@ wiki_pages:
   - key: "RajivMotwani"
     title: "Rajiv Motwani"
     url: "/wiki/entities/rajivmotwani/"
+  - key: "RalphAdolphs"
+    title: "Ralph Adolphs"
+    url: "/wiki/entities/ralphadolphs/"
   - key: "RalphGoody"
     title: "Ralph Goody"
     url: "/wiki/entities/ralphgoody/"

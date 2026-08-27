@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "c1a617b2fa199d8ee7c282e4a84aff4889def901c253e2dd2a0ecd8348e77457",
       "7525505025c7a4d624db19ad8a83c980734556add4d75c88012eca92f6824639",
       "55ee27c69a1aaba7905e516e967f339d6d585001d2b1381833fcb575cdb365df",
       "434b9cb20e9f252a496bf6b0e41ba18f912226152bae86d7e565c86f4f2fde2d",
@@ -303,11 +304,39 @@
       "16d531495e2a6294ae198d0b95a352e519f488fcca1dbdae1f416758d1cfa576",
       "a9fec3ceb1b343b1fafeebc9ab2903b46238a861f9aaafd9d15b1460340a08b5"
     ],
-    "paragraph_count": 301
+    "paragraph_count": 302
   },
-  "overview_commit": "a6c7456143a8fd3f11a18a0c7fef5affd21e7ee6",
-  "overview_digest": "f786436957edf5f6a0617eb7f59fb0ac0f4e37fc2253c0179c00e876c2ef31e2",
+  "overview_commit": "56d7e4c30374c06d260ef920228bd7bb6d591d8a",
+  "overview_digest": "4c7a63d7383f56a7ce503679704401cf70702ac0206e5cdf92387480ac46452d",
   "paragraphs": [
+    {
+      "id": "c1a617b2fa199d8ee7c282e4a84aff4889def901c253e2dd2a0ecd8348e77457",
+      "primary_topic": "psychology-and-personal-development",
+      "secondary_topics": [],
+      "text": "The latest addition is [[neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716|Neuroscience of Emotions & Tools for Improving Emotion Regulation | Dr. Ralph Adolphs]], a [[HubermanLab]] episode with [[AndrewHuberman]] and [[RalphAdolphs]] on emotion, behavior, psychology, neuroscience, social perception, body signals, and regulation. It adds [[EmotionsAsFunctionalControlStates]], [[EmotionalGranularity]], [[CognitiveReappraisalEarlyIntervention]], [[AutonomicStressTraining]], [[AmygdalaFearDissociation]], [[SocialEmotionInferenceLimits]], [[BrainBodyEmotionMapping]], [[EmotionAttentionalCapture]], and [[TaskSwitchingResidue]], while extending [[EmotionRegulationToolkit]], [[HubermanLab]], and [[AndrewHuberman]]. Its core synthesis is that emotions are functional control states useful for decision and motivation rather than single brain regions or only conscious feelings; practical regulation therefore means monitoring, differentiating, reframing early, shaping environments, respecting body-state evidence, and managing transition costs. No settled contradiction is recorded; AI-emotion, cold-exposure, endurance, solitude, meditation, amygdala, facial-expression, and body-map claims remain source-scoped or under-tested.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "governance-and-institutions": 2,
+        "psychology-and-personal-development": 5,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AmygdalaFearDissociation",
+        "AndrewHuberman",
+        "AutonomicStressTraining",
+        "BrainBodyEmotionMapping",
+        "CognitiveReappraisalEarlyIntervention",
+        "EmotionAttentionalCapture",
+        "EmotionRegulationToolkit",
+        "EmotionalGranularity",
+        "EmotionsAsFunctionalControlStates",
+        "HubermanLab",
+        "RalphAdolphs",
+        "SocialEmotionInferenceLimits",
+        "TaskSwitchingResidue",
+        "neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716"
+      ]
+    },
     {
       "id": "7525505025c7a4d624db19ad8a83c980734556add4d75c88012eca92f6824639",
       "primary_topic": "science-health-and-climate",

@@ -12599,6 +12599,14 @@ Ran lint. See lint-report.md for details.
 
 Added source page for a 这病说来话长 episode with 马浩宁 on lumbar disc herniation, imaging-versus-symptom interpretation, clinical surgery thresholds, minimally invasive and open procedure tradeoffs, gradual rehabilitation, neutral lumbar position, fitness risks, daily hip/knee movement mechanics, massage misconceptions, and heat/cold boundaries. Created Zhe Bing Shuo Lai Hua Chang, Ma Haoning, Lumbar Disc Herniation, Lumbar Neutral Position, Symptom-Driven Spine Care, and Spine Rehabilitation Progression pages. No settled contradiction found; posture, exercise, massage, medication, surgery, and recovery claims remain source-scoped and clinically bounded.
 
+## [2026-08-27] ingest | Neuroscience of Emotions & Tools for Improving Emotion Regulation | Dr. Ralph Adolphs
+
+Added source page for a Huberman Lab episode with Ralph Adolphs on emotions as functional control states, emotion regulation, amygdala fear dissociation, social emotion inference limits, brain-body emotion mapping, attentional capture, and task switching. Created Ralph Adolphs, Caltech, David Anderson, Antonio Damasio, Paul Ekman, Patient SM, Emotions as Functional Control States, Emotional Granularity, Cognitive Reappraisal Early Intervention, Autonomic Stress Training, Amygdala Fear Dissociation, Social Emotion Inference Limits, Brain-Body Emotion Mapping, Emotion Attentional Capture, and Task Switching Residue pages; migrated Emotion Regulation Toolkit to synthesis-v1 and extended Huberman Lab and Andrew Huberman. No settled contradiction found; the episode qualifies simple fear-center, facial-expression, body-map, AI-emotion, cold-exposure, endurance, solitude, and meditation claims as source-scoped or under-tested.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
 ## [2026-08-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
