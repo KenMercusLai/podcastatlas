@@ -12660,3 +12660,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-28] ingest | VOL.216 停止“神化”前额叶：别让网络热词变成你的诊断书
+
+Added source page for a 这病说来话长 episode with 阿汤 and 薛小凡 on prefrontal-cortex overattribution, online medical vocabulary, dopamine and ADHD self-diagnosis boundaries, state-dependent self-control, sleep, hunger, impulse behavior, emotional expression, and clinical behavior-change red flags. Created Xue Xiaofan, Prefrontal Cortex Overattribution, State-Dependent Self-Control, ADHD Self-Diagnosis Boundary, and Clinical Behavior-Change Red Flags pages; extended Zhe Bing Shuo Lai Hua Chang and Atang. No settled contradiction found; brain-region, dopamine, ADHD, frontotemporal-dementia, Parkinson's-medication, and 25-year maturity claims remain source-scoped and clinically bounded.
+
+## [2026-08-28] lint | Wiki health check
+
+Ran health, identity validation, and lint. Health scanned 15,292 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-22 with 12,882 nodes and 149,964 edges while the current lint scan covered 15,292 pages, so fragile-bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest`; report returned in-session and `wiki/lint-report.md` was not updated.

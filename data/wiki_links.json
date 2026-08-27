@@ -1295,6 +1295,10 @@
     "title": "ADC Engineering Optimization",
     "url": "/wiki/concepts/adcengineeringoptimization/"
   },
+  "ADHDSelfDiagnosisBoundary": {
+    "title": "ADHD Self-Diagnosis Boundary / ADHD 自诊边界",
+    "url": "/wiki/concepts/adhdselfdiagnosisboundary/"
+  },
   "ADNOC": {
     "title": "ADNOC",
     "url": "/wiki/entities/adnoc/"
@@ -10658,6 +10662,10 @@
   "ClinicLenderMatching": {
     "title": "Clinic Lender Matching",
     "url": "/wiki/concepts/cliniclendermatching/"
+  },
+  "ClinicalBehaviorChangeRedFlags": {
+    "title": "Clinical Behavior-Change Red Flags / 行为突变就医信号",
+    "url": "/wiki/concepts/clinicalbehaviorchangeredflags/"
   },
   "ClinicalDataTrustRebuilding": {
     "title": "Clinical Data Trust Rebuilding",
@@ -38107,6 +38115,10 @@
     "title": "Prefix Caching",
     "url": "/wiki/concepts/prefixcaching/"
   },
+  "PrefrontalCortexOverattribution": {
+    "title": "Prefrontal Cortex Overattribution / 前额叶过度归因",
+    "url": "/wiki/concepts/prefrontalcortexoverattribution/"
+  },
   "PregnancySuccessionSubstitution": {
     "title": "Pregnancy Succession Substitution / 孕身继承替换",
     "url": "/wiki/concepts/pregnancysuccessionsubstitution/"
@@ -45346,6 +45358,10 @@
   "StateCyberActorThreatModel": {
     "title": "State Cyber Actor Threat Model",
     "url": "/wiki/concepts/statecyberactorthreatmodel/"
+  },
+  "StateDependentSelfControl": {
+    "title": "State-Dependent Self-Control / 状态依赖的自控",
+    "url": "/wiki/concepts/statedependentselfcontrol/"
   },
   "StateManagedProstitution": {
     "title": "State-Managed Prostitution / 国家管制女闾",
@@ -53123,6 +53139,10 @@
     "title": "薛地 / Xue",
     "url": "/wiki/entities/xuewarringstates/"
   },
+  "XueXiaofan": {
+    "title": "薛小凡 / Xue Xiaofan",
+    "url": "/wiki/entities/xuexiaofan/"
+  },
   "Xueqiu": {
     "title": "雪球 / Xueqiu",
     "url": "/wiki/entities/xueqiu/"
@@ -58958,6 +58978,10 @@
   "vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1": {
     "title": "Vol. 172 Codex 卖重置套餐，DeepSeek 峰谷调价，苹果重回 5 万亿等",
     "url": "/wiki/sources/vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1/"
+  },
+  "vol-216-tingzhi-shenhua-qianeye-bie-rang-wangluo-reci-biancheng-nide-zhenduanshu-lp0cll17cydzmh36sawfj7-rjwur": {
+    "title": "VOL.216 停止“神化”前额叶：别让网络热词变成你的诊断书",
+    "url": "/wiki/sources/vol-216-tingzhi-shenhua-qianeye-bie-rang-wangluo-reci-biancheng-nide-zhenduanshu-lp0cll17cydzmh36sawfj7-rjwur/"
   },
   "vol-217-tingzhi-shenhua-jianfeizhen-bu-aie-bu-jie-tanshui-zhe-cai-shi-putongren-gai-chao-de-jianzhong-zuoye-llat-yskrqmro0kdjwuoegdcalu5": {
     "title": "VOL.217停止“神化”减肥针！不挨饿、不戒碳水，这才是普通人该抄的减重作业",

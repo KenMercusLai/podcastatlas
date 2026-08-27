@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "8e3502565308f1d3e099c0f46c4e9dc00304588435348e5458f7fd8411cdd37b",
       "8fb91e9c216edff12a4fccd688e5cfb88e44cddcf553c173af3ad27c469bd426",
       "bcf5da092675d5cb07b340440b2379b89742a27440551f90025103457a9495c5",
       "9bc5958f730904d72bc7aba2e5ee0d0c5cd364d33313bfe06eab996c379d1d9b",
@@ -307,11 +308,45 @@
       "16d531495e2a6294ae198d0b95a352e519f488fcca1dbdae1f416758d1cfa576",
       "a9fec3ceb1b343b1fafeebc9ab2903b46238a861f9aaafd9d15b1460340a08b5"
     ],
-    "paragraph_count": 305
+    "paragraph_count": 306
   },
-  "overview_commit": "2b28dc3f2a68e3034b4af094bfd2e8668f5aef47",
-  "overview_digest": "a18a4a8c5ca83817e571367845570e67f620ee8e7e76e7a2f7235e638e731178",
+  "overview_commit": "49a2cdfe3cc5b7b0a15fb220fedcbf5911fbcafd",
+  "overview_digest": "a95d8caca335409899dbfde118e0d7ba207bd681bee8cc9f07f410f589b8f1a0",
   "paragraphs": [
+    {
+      "id": "8e3502565308f1d3e099c0f46c4e9dc00304588435348e5458f7fd8411cdd37b",
+      "primary_topic": "psychology-and-personal-development",
+      "secondary_topics": [
+        "governance-and-institutions",
+        "science-health-and-climate"
+      ],
+      "text": "The latest addition is [[vol-216-tingzhi-shenhua-qianeye-bie-rang-wangluo-reci-biancheng-nide-zhenduanshu-lp0cll17cydzmh36sawfj7-rjwur|VOL.216 停止“神化”前额叶：别让网络热词变成你的诊断书]], a [[ZheBingShuoLaiHuaChang|这病说来话长]] episode with [[Atang|阿汤]] and [[XueXiaofan|薛小凡]] on online prefrontal-cortex claims, self-control, dopamine, ADHD, sleep, hunger, and diagnosis boundaries. It adds [[XueXiaofan]], [[PrefrontalCortexOverattribution]], [[StateDependentSelfControl]], [[ADHDSelfDiagnosisBoundary]], and [[ClinicalBehaviorChangeRedFlags]], while linking [[MedicalKnowledgeBoundary]], [[MedicalRiskManagement]], [[MedicalDiagnosticReasoning]], [[NeuromodulatorStateToolkit]], [[DopamineInvertedU]], [[MotivationRewardEffortCalculation]], [[SleepAsDailyHealthAccount]], [[EmotionRegulationToolkit]], [[AttentionCapacitySelection]], and [[ProcrastinationSelfRegulationFailure]]. Its core synthesis is that the prefrontal cortex matters but should not become a universal blame object: everyday impulse, distraction, emotional lapses, and late-night consumption often depend on bodily state, environment, learned cues, and network-level brain function, while persistent or worsening behavior and cognition changes require qualified care. No settled contradiction is recorded; the source qualifies simplified brain-region, dopamine, ADHD, and 25-year-old maturity claims as source-scoped rather than diagnostic.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "psychology-and-personal-development": 3,
+        "science-health-and-climate": 2
+      },
+      "wikilinks": [
+        "ADHDSelfDiagnosisBoundary",
+        "Atang",
+        "AttentionCapacitySelection",
+        "ClinicalBehaviorChangeRedFlags",
+        "DopamineInvertedU",
+        "EmotionRegulationToolkit",
+        "MedicalDiagnosticReasoning",
+        "MedicalKnowledgeBoundary",
+        "MedicalRiskManagement",
+        "MotivationRewardEffortCalculation",
+        "NeuromodulatorStateToolkit",
+        "PrefrontalCortexOverattribution",
+        "ProcrastinationSelfRegulationFailure",
+        "SleepAsDailyHealthAccount",
+        "StateDependentSelfControl",
+        "XueXiaofan",
+        "ZheBingShuoLaiHuaChang",
+        "vol-216-tingzhi-shenhua-qianeye-bie-rang-wangluo-reci-biancheng-nide-zhenduanshu-lp0cll17cydzmh36sawfj7-rjwur"
+      ]
+    },
     {
       "id": "8fb91e9c216edff12a4fccd688e5cfb88e44cddcf553c173af3ad27c469bd426",
       "primary_topic": "psychology-and-personal-development",

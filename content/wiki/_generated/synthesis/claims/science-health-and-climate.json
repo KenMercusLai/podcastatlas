@@ -258,8 +258,32 @@
         "TumorMicroenvironment",
         "vol-220-duihua-dabainiu-under-modena-dingzhi-kangai-yimiao-li-putongren-you-duoyuan-lofs520ps1evva8nafsnrkcbvgjz"
       ]
+    },
+    {
+      "global_candidate": true,
+      "id": "neuroscience-explainers-need-network-and-clinical-boundaries",
+      "qualifications": [
+        "The episode is a clinician-facing public explainer, not personalized psychiatric, neurological, or behavioral diagnosis.",
+        "Dopamine, frontotemporal dementia, Parkinson medication, ADHD, and maturity-age examples remain source-scoped illustrations rather than standalone diagnostic rules.",
+        "The claim does not deny prefrontal-cortex involvement; it rejects treating one region as a universal causal label."
+      ],
+      "statement": "[[PrefrontalCortexOverattribution]] adds a neuroscience-literacy boundary: everyday self-control, attention, impulse, and emotion claims should be read through [[StateDependentSelfControl]], [[NeuromodulatorStateToolkit]], [[DopamineInvertedU]], [[SleepAsDailyHealthAccount]], and [[MedicalDiagnosticReasoning]] rather than as one-region failure, while [[ADHDSelfDiagnosisBoundary]] and [[ClinicalBehaviorChangeRedFlags]] keep persistent or worsening changes inside qualified care.",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "vol-216-tingzhi-shenhua-qianeye-bie-rang-wangluo-reci-biancheng-nide-zhenduanshu-lp0cll17cydzmh36sawfj7-rjwur",
+        "PrefrontalCortexOverattribution",
+        "StateDependentSelfControl",
+        "NeuromodulatorStateToolkit",
+        "DopamineInvertedU",
+        "SleepAsDailyHealthAccount",
+        "MedicalDiagnosticReasoning",
+        "ADHDSelfDiagnosisBoundary",
+        "ClinicalBehaviorChangeRedFlags",
+        "MedicalKnowledgeBoundary",
+        "MedicalRiskManagement"
+      ]
     }
   ],
-  "summary": "Science, health, climate, and space-engineering claims become credible when evidence, physical constraints, regulation, implementation cost, clinical context, diagnostic follow-through, and operational closure stay visible. The topic now includes first-visit diagnostic safety netting: missed-diagnosis risk is reduced when uncertain outpatient encounters leave patients with suspected diagnoses, unexcluded dangers, return thresholds, report tracking, and qualified second-opinion paths. It also includes female hormone health as life-course phenotyping: family history, trauma, cortisol, sex hormones, thyroid, micronutrients, gut function, insulin, glucose, PCOS, contraception, perimenopause, CGM data, and coronary artery calcium scoring are treated as individualized clinical context rather than a universal protocol. Other branches cover metabolic psychiatry, spine care, medical privacy AI, Wudang medicine and cultivation, science policy, space launch infrastructure, reusable rockets, climate adaptation and carbon removal, evidence-bound dinosaur reconstruction, insurance risk planning, and individualized cancer vaccines. Across these branches, the wiki treats promising interventions and tests as bounded by diagnosis, verification, recurrence or failure modes, institutional trust, affordability, and quality-of-life judgment rather than by headline labels alone.",
+  "summary": "VOL.216 adds a neuroscience-literacy and diagnosis-boundary branch: prefrontal cortex and dopamine language is useful only when network-level brain function, sleep, hunger, pain, alcohol, stress, environment, ADHD criteria, and red-flag clinical changes remain visible. Science, health, climate, and space-engineering claims become credible when evidence, physical constraints, regulation, implementation cost, clinical context, diagnostic follow-through, and operational closure stay visible. The topic now includes first-visit diagnostic safety netting: missed-diagnosis risk is reduced when uncertain outpatient encounters leave patients with suspected diagnoses, unexcluded dangers, return thresholds, report tracking, and qualified second-opinion paths. It also includes female hormone health as life-course phenotyping: family history, trauma, cortisol, sex hormones, thyroid, micronutrients, gut function, insulin, glucose, PCOS, contraception, perimenopause, CGM data, and coronary artery calcium scoring are treated as individualized clinical context rather than a universal protocol. Other branches cover metabolic psychiatry, spine care, medical privacy AI, Wudang medicine and cultivation, science policy, space launch infrastructure, reusable rockets, climate adaptation and carbon removal, evidence-bound dinosaur reconstruction, insurance risk planning, and individualized cancer vaccines. Across these branches, the wiki treats promising interventions and tests as bounded by diagnosis, verification, recurrence or failure modes, institutional trust, affordability, and quality-of-life judgment rather than by headline labels alone.",
   "topic_id": "science-health-and-climate"
 }

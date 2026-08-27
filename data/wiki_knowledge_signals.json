@@ -148,6 +148,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/abriefhistoryofintelligence/"
     },
+    "ADHDSelfDiagnosisBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lp0clL17CYDZMH36saWfj7-rjWUr [lp0clL17CYDZMH36saWfj7-rjWUr].md",
+          "key": "vol-216-tingzhi-shenhua-qianeye-bie-rang-wangluo-reci-biancheng-nide-zhenduanshu-lp0cll17cydzmh36sawfj7-rjwur",
+          "show": "这病说来话长",
+          "title": "VOL.216 停止“神化”前额叶：别让网络热词变成你的诊断书",
+          "url": "/wiki/sources/vol-216-tingzhi-shenhua-qianeye-bie-rang-wangluo-reci-biancheng-nide-zhenduanshu-lp0cll17cydzmh36sawfj7-rjwur/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/adhdselfdiagnosisboundary/"
+    },
     "AIAdvertisingTargeting": {
       "episode_count": 3,
       "show_count": 1,
@@ -1603,9 +1619,9 @@
       "url": "/wiki/concepts/assisteddrivingtrustformation/"
     },
     "Atang": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lgBs8AaxGUH_xzGa8iUEwwc7ypvM [lgBs8AaxGUH_xzGa8iUEwwc7ypvM].md",
@@ -1620,9 +1636,16 @@
           "show": "这病说来话长",
           "title": "VOL.217停止“神化”减肥针！不挨饿、不戒碳水，这才是普通人该抄的减重作业",
           "url": "/wiki/sources/vol-217-tingzhi-shenhua-jianfeizhen-bu-aie-bu-jie-tanshui-zhe-cai-shi-putongren-gai-chao-de-jianzhong-zuoye-llat-yskrqmro0kdjwuoegdcalu5/"
+        },
+        {
+          "episode_file": "lp0clL17CYDZMH36saWfj7-rjWUr [lp0clL17CYDZMH36saWfj7-rjWUr].md",
+          "key": "vol-216-tingzhi-shenhua-qianeye-bie-rang-wangluo-reci-biancheng-nide-zhenduanshu-lp0cll17cydzmh36sawfj7-rjwur",
+          "show": "这病说来话长",
+          "title": "VOL.216 停止“神化”前额叶：别让网络热词变成你的诊断书",
+          "url": "/wiki/sources/vol-216-tingzhi-shenhua-qianeye-bie-rang-wangluo-reci-biancheng-nide-zhenduanshu-lp0cll17cydzmh36sawfj7-rjwur/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-28",
       "url": "/wiki/entities/atang/"
     },
     "AthletePostRetirementIdentity": {
@@ -3092,6 +3115,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/cityplacepremium/"
+    },
+    "ClinicalBehaviorChangeRedFlags": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lp0clL17CYDZMH36saWfj7-rjWUr [lp0clL17CYDZMH36saWfj7-rjWUr].md",
+          "key": "vol-216-tingzhi-shenhua-qianeye-bie-rang-wangluo-reci-biancheng-nide-zhenduanshu-lp0cll17cydzmh36sawfj7-rjwur",
+          "show": "这病说来话长",
+          "title": "VOL.216 停止“神化”前额叶：别让网络热词变成你的诊断书",
+          "url": "/wiki/sources/vol-216-tingzhi-shenhua-qianeye-bie-rang-wangluo-reci-biancheng-nide-zhenduanshu-lp0cll17cydzmh36sawfj7-rjwur/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/clinicalbehaviorchangeredflags/"
     },
     "CoercedImperialMarriage": {
       "episode_count": 1,
@@ -12396,6 +12435,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/predictiveworldmodelanxiety/"
     },
+    "PrefrontalCortexOverattribution": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lp0clL17CYDZMH36saWfj7-rjWUr [lp0clL17CYDZMH36saWfj7-rjWUr].md",
+          "key": "vol-216-tingzhi-shenhua-qianeye-bie-rang-wangluo-reci-biancheng-nide-zhenduanshu-lp0cll17cydzmh36sawfj7-rjwur",
+          "show": "这病说来话长",
+          "title": "VOL.216 停止“神化”前额叶：别让网络热词变成你的诊断书",
+          "url": "/wiki/sources/vol-216-tingzhi-shenhua-qianeye-bie-rang-wangluo-reci-biancheng-nide-zhenduanshu-lp0cll17cydzmh36sawfj7-rjwur/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/prefrontalcortexoverattribution/"
+    },
     "PrestigeConstrainedPoliticalProsecution": {
       "episode_count": 2,
       "show_count": 1,
@@ -14089,6 +14144,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/stanfordinstituteforhumancenteredai/"
+    },
+    "StateDependentSelfControl": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lp0clL17CYDZMH36saWfj7-rjWUr [lp0clL17CYDZMH36saWfj7-rjWUr].md",
+          "key": "vol-216-tingzhi-shenhua-qianeye-bie-rang-wangluo-reci-biancheng-nide-zhenduanshu-lp0cll17cydzmh36sawfj7-rjwur",
+          "show": "这病说来话长",
+          "title": "VOL.216 停止“神化”前额叶：别让网络热词变成你的诊断书",
+          "url": "/wiki/sources/vol-216-tingzhi-shenhua-qianeye-bie-rang-wangluo-reci-biancheng-nide-zhenduanshu-lp0cll17cydzmh36sawfj7-rjwur/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/statedependentselfcontrol/"
     },
     "Stormont": {
       "episode_count": 4,
@@ -16548,6 +16619,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/xuzhaolatehan/"
     },
+    "XueXiaofan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lp0clL17CYDZMH36saWfj7-rjWUr [lp0clL17CYDZMH36saWfj7-rjWUr].md",
+          "key": "vol-216-tingzhi-shenhua-qianeye-bie-rang-wangluo-reci-biancheng-nide-zhenduanshu-lp0cll17cydzmh36sawfj7-rjwur",
+          "show": "这病说来话长",
+          "title": "VOL.216 停止“神化”前额叶：别让网络热词变成你的诊断书",
+          "url": "/wiki/sources/vol-216-tingzhi-shenhua-qianeye-bie-rang-wangluo-reci-biancheng-nide-zhenduanshu-lp0cll17cydzmh36sawfj7-rjwur/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/xuexiaofan/"
+    },
     "XunYou": {
       "episode_count": 5,
       "show_count": 1,
@@ -17608,9 +17695,9 @@
       "url": "/wiki/entities/zhaoyanlatehan/"
     },
     "ZheBingShuoLaiHuaChang": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "loFs520pS1eVva8naFSnRKcbvgJZ [loFs520pS1eVva8naFSnRKcbvgJZ].md",
@@ -17639,9 +17726,16 @@
           "show": "这病说来话长",
           "title": "VOL.217停止“神化”减肥针！不挨饿、不戒碳水，这才是普通人该抄的减重作业",
           "url": "/wiki/sources/vol-217-tingzhi-shenhua-jianfeizhen-bu-aie-bu-jie-tanshui-zhe-cai-shi-putongren-gai-chao-de-jianzhong-zuoye-llat-yskrqmro0kdjwuoegdcalu5/"
+        },
+        {
+          "episode_file": "lp0clL17CYDZMH36saWfj7-rjWUr [lp0clL17CYDZMH36saWfj7-rjWUr].md",
+          "key": "vol-216-tingzhi-shenhua-qianeye-bie-rang-wangluo-reci-biancheng-nide-zhenduanshu-lp0cll17cydzmh36sawfj7-rjwur",
+          "show": "这病说来话长",
+          "title": "VOL.216 停止“神化”前额叶：别让网络热词变成你的诊断书",
+          "url": "/wiki/sources/vol-216-tingzhi-shenhua-qianeye-bie-rang-wangluo-reci-biancheng-nide-zhenduanshu-lp0cll17cydzmh36sawfj7-rjwur/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-28",
       "url": "/wiki/entities/zhebingshuolaihuachang/"
     },
     "ZhengBaoLateHan": {

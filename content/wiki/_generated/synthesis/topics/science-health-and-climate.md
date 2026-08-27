@@ -3,16 +3,16 @@
 generated: true
 topic_id: science-health-and-climate
 title: "Science, Health, and Climate"
-last_updated: 2026-08-27
-as_of_overview_commit: 86c4b7c6bf094776dc7357eff00042f467a73316
-input_digest: acbc3ceb4f5430215e0f4c1d8b7a8145ec95d7d9f8dd892f192b71c9ce4d4635
+last_updated: 2026-08-28
+as_of_overview_commit: 49a2cdfe3cc5b7b0a15fb220fedcbf5911fbcafd
+input_digest: 81b3946fa5b588fbb99f3f9a0cef89642a829d82c5e6c04b2b8d9f1dec1094b5
 ---
 
 # Science, Health, and Climate
 
 ## Current State
 
-Science, health, climate, and space-engineering claims become credible when evidence, physical constraints, regulation, implementation cost, clinical context, diagnostic follow-through, and operational closure stay visible. The topic now includes first-visit diagnostic safety netting: missed-diagnosis risk is reduced when uncertain outpatient encounters leave patients with suspected diagnoses, unexcluded dangers, return thresholds, report tracking, and qualified second-opinion paths. It also includes female hormone health as life-course phenotyping: family history, trauma, cortisol, sex hormones, thyroid, micronutrients, gut function, insulin, glucose, PCOS, contraception, perimenopause, CGM data, and coronary artery calcium scoring are treated as individualized clinical context rather than a universal protocol. Other branches cover metabolic psychiatry, spine care, medical privacy AI, Wudang medicine and cultivation, science policy, space launch infrastructure, reusable rockets, climate adaptation and carbon removal, evidence-bound dinosaur reconstruction, insurance risk planning, and individualized cancer vaccines. Across these branches, the wiki treats promising interventions and tests as bounded by diagnosis, verification, recurrence or failure modes, institutional trust, affordability, and quality-of-life judgment rather than by headline labels alone.
+VOL.216 adds a neuroscience-literacy and diagnosis-boundary branch: prefrontal cortex and dopamine language is useful only when network-level brain function, sleep, hunger, pain, alcohol, stress, environment, ADHD criteria, and red-flag clinical changes remain visible. Science, health, climate, and space-engineering claims become credible when evidence, physical constraints, regulation, implementation cost, clinical context, diagnostic follow-through, and operational closure stay visible. The topic now includes first-visit diagnostic safety netting: missed-diagnosis risk is reduced when uncertain outpatient encounters leave patients with suspected diagnoses, unexcluded dangers, return thresholds, report tracking, and qualified second-opinion paths. It also includes female hormone health as life-course phenotyping: family history, trauma, cortisol, sex hormones, thyroid, micronutrients, gut function, insulin, glucose, PCOS, contraception, perimenopause, CGM data, and coronary artery calcium scoring are treated as individualized clinical context rather than a universal protocol. Other branches cover metabolic psychiatry, spine care, medical privacy AI, Wudang medicine and cultivation, science policy, space launch infrastructure, reusable rockets, climate adaptation and carbon removal, evidence-bound dinosaur reconstruction, insurance risk planning, and individualized cancer vaccines. Across these branches, the wiki treats promising interventions and tests as bounded by diagnosis, verification, recurrence or failure modes, institutional trust, affordability, and quality-of-life judgment rather than by headline labels alone.
 
 ## Cross-source Findings
 
@@ -154,3 +154,15 @@ Science-and-health policy now adds a trust-and-productivity branch: [[NewGoldenA
 
 - The episode frames the vaccine as postoperative therapeutic/adjuvant care for melanoma patients, not preventive vaccination for healthy people.
 - The claim remains bounded by cancer type, immune context, trial validation, toxicity, cost, and ordinary prevention/screening advice.
+
+### Neuroscience Explainers Need Network And Clinical Boundaries
+
+[[PrefrontalCortexOverattribution]] adds a neuroscience-literacy boundary: everyday self-control, attention, impulse, and emotion claims should be read through [[StateDependentSelfControl]], [[NeuromodulatorStateToolkit]], [[DopamineInvertedU]], [[SleepAsDailyHealthAccount]], and [[MedicalDiagnosticReasoning]] rather than as one-region failure, while [[ADHDSelfDiagnosisBoundary]] and [[ClinicalBehaviorChangeRedFlags]] keep persistent or worsening changes inside qualified care.
+
+**Evidence:** [[vol-216-tingzhi-shenhua-qianeye-bie-rang-wangluo-reci-biancheng-nide-zhenduanshu-lp0cll17cydzmh36sawfj7-rjwur]], [[PrefrontalCortexOverattribution]], [[StateDependentSelfControl]], [[NeuromodulatorStateToolkit]], [[DopamineInvertedU]], [[SleepAsDailyHealthAccount]], [[MedicalDiagnosticReasoning]], [[ADHDSelfDiagnosisBoundary]], [[ClinicalBehaviorChangeRedFlags]], [[MedicalKnowledgeBoundary]], [[MedicalRiskManagement]]
+
+**Qualifications:**
+
+- The episode is a clinician-facing public explainer, not personalized psychiatric, neurological, or behavioral diagnosis.
+- Dopamine, frontotemporal dementia, Parkinson medication, ADHD, and maturity-age examples remain source-scoped illustrations rather than standalone diagnostic rules.
+- The claim does not deny prefrontal-cortex involvement; it rejects treating one region as a universal causal label.

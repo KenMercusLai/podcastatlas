@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 5738
+wiki_total_pages: 5742
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1160,6 +1160,9 @@ wiki_pages:
   - key: "StateBackedRareEarthRebuilding"
     title: "State-Backed Rare Earth Rebuilding"
     url: "/wiki/concepts/statebackedrareearthrebuilding/"
+  - key: "StateDependentSelfControl"
+    title: "State-Dependent Self-Control / 状态依赖的自控"
+    url: "/wiki/concepts/statedependentselfcontrol/"
   - key: "StateManagedProstitution"
     title: "State-Managed Prostitution / 国家管制女闾"
     url: "/wiki/concepts/statemanagedprostitution/"

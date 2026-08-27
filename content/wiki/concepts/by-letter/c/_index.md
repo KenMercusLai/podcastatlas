@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 5738
+wiki_total_pages: 5742
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -767,6 +767,9 @@ wiki_pages:
   - key: "ClinicLenderMatching"
     title: "Clinic Lender Matching"
     url: "/wiki/concepts/cliniclendermatching/"
+  - key: "ClinicalBehaviorChangeRedFlags"
+    title: "Clinical Behavior-Change Red Flags / 行为突变就医信号"
+    url: "/wiki/concepts/clinicalbehaviorchangeredflags/"
   - key: "ClinicalDataTrustRebuilding"
     title: "Clinical Data Trust Rebuilding"
     url: "/wiki/concepts/clinicaldatatrustrebuilding/"
