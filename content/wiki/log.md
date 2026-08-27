@@ -12636,3 +12636,11 @@ Added source page for a Huberman Lab Essentials episode with Andrew Huberman on 
 ## [2026-08-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-27] ingest | VOL.217停止“神化”减肥针！不挨饿、不戒碳水，这才是普通人该抄的减重作业
+
+Added source page for a 这病说来话长 episode with 阿汤 and 小龙 on weight management as body composition, food structure, resistance training, sleep, stress, and sustainable eating rather than scale-only loss or injection worship. Created Xiaolong Weight-Management Guest and Lifestyle Weight Management pages; extended Zhe Bing Shuo Lai Hua Chang and Atang. No settled contradiction found; injection-based weight-loss technology, fasting, carbohydrate, red-meat, anxiety, and medical-escalation claims remain source-scoped and clinically bounded.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.217停止“神化”减肥针！不挨饿、不戒碳水，这才是普通人该抄的减重作业](sources/vol-217-tingzhi-shenhua-jianfeizhen-bu-aie-bu-jie-tanshui-zhe-cai-shi-putongren-gai-chao-de-jianzhong-zuoye-llat-yskrqmro0kdjwuoegdcalu5.md) — 这病说来话长 episode with 阿汤 and 小龙 on lifestyle weight management, injection hype, carbohydrates, protein, fasting, resistance training, sleep, restaurant choices, and weight anxiety.
 - [Essentials: Control Your Brain Chemistry for Focus, Motivation & Well-Being](sources/essentials-control-your-brain-chemistry-for-focus-motivation-well-being-scim6495209379.md) — Huberman Lab Essentials episode on dopamine, epinephrine, serotonin, acetylcholine, daily timing, behavior, nutrition, supplements, and safety-bounded state tools.
 - [Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li](sources/using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040.md) — Huberman Lab episode with Fei-Fei Li on ImageNet, human learning, human-centered AI augmentation, medicine, education, creativity, robotics, and World Labs.
 - [VOL.218韩杰医生事件后四大门诊坦白局：不对立不甩锅，医患如何联手打赢防漏诊的“排雷战”？](sources/vol-218-hanjie-yisheng-shijian-hou-sida-menzhen-tanbaiju-bu-duili-bu-shuaiguo-yihuan-ruhe-lianshou-daying-fang-louzhen-de-paileizhan-lgbs8aaxguh-xzga8iuewwc7ypvm.md) — 这病说来话长 episode with 阿汤, 亚萌, 蒋宇亮, 银欣, and 马浩宁 on missed diagnosis risk, diagnostic safety-netting, first-visit uncertainty, report tracking, second opinions, and qualified-care boundaries.
@@ -1593,9 +1594,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Antonio Damasio](entities/AntonioDamasio.md) — Decision-and-emotion reference used to show that emotion supports motivation and choice.
 - [Paul Ekman](entities/PaulEkman.md) — Facial-expression research reference whose influence is acknowledged and qualified by the Adolphs episode.
 - [Patient SM](entities/PatientSM.md) — Amygdala-lesion research case used to distinguish fear perception, external-threat fear, and internal panic.
-- [这病说来话长 / Zhe Bing Shuo Lai Hua Chang](entities/ZheBingShuoLaiHuaChang.md) — Chinese medical-literacy podcast represented by oncology, orthopedics, and outpatient diagnostic-safety episodes that translate specialist care while preserving clinical boundaries.
+- [这病说来话长 / Zhe Bing Shuo Lai Hua Chang](entities/ZheBingShuoLaiHuaChang.md) — Chinese medical-literacy podcast represented by oncology, orthopedics, outpatient diagnostic safety, and lifestyle weight-management episodes that preserve clinical boundaries.
 - [马浩宁 / Ma Haoning](entities/MaHaoning.md) — Medical guest explaining lumbar disc herniation, symptom-driven spine care, rehabilitation pacing, outpatient return thresholds, and low-cost safety checks.
-- [阿汤 / A Tang](entities/Atang.md) — Host voice in VOL.218, turning missed-diagnosis anxiety into patient-facing questions about diagnosis, unexcluded risk, return triggers, and report access.
+- [阿汤 / A Tang](entities/Atang.md) — Host voice in 这病说来话长 episodes, turning diagnostic uncertainty and weight-management anxiety into patient-facing questions and practical boundaries.
+- [小龙 / Xiaolong (Weight-Management Guest)](entities/XiaolongWeightManagementGuest.md) — VOL.217 guest explaining weight management through body composition, food structure, resistance training, sleep, medical boundaries, and sustainable eating contexts.
 - [亚萌 / Ya Meng](entities/YaMengDoctor.md) — Dermatology-side guest explaining rash uncertainty, diagnostic treatment, short follow-up windows, and return conditions.
 - [蒋宇亮 / Jiang Yuliang](entities/JiangYuliangDoctor.md) — Gastroenterology-side guest explaining first-visit triage, abdominal-pain ambiguity, dangerous-disease screening, and test follow-up.
 - [银欣 / Yin Xin](entities/YinXinDoctor.md) — Imaging-side guest explaining test limits, clinical-question quality on imaging requests, and report interpretation boundaries.
@@ -9552,6 +9554,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Lifestyle Weight Management / 生活方式体重管理](concepts/LifestyleWeightManagement.md) — Practical frame for managing weight through body composition, carbohydrates, protein, resistance training, sleep, flexibility, anxiety boundaries, and qualified medical care.
 - [Neuromodulator State Toolkit](concepts/NeuromodulatorStateToolkit.md) — Framework for adjusting motivation, energy, focus, relaxation, and wellbeing through dopamine, epinephrine, serotonin, acetylcholine, timing, behavior, nutrition, and safety boundaries.
 - [Dopamine Tool Timing](concepts/DopamineToolTiming.md) — Motivation-tool frame for matching sunlight, caffeine, supplements, cold exposure, baseline state, and daily timing without treating dopamine as simply more-is-better.
 - [Epinephrine Alertness Toolkit](concepts/EpinephrineAlertnessToolkit.md) — Alertness and movement-readiness frame linking locus-coeruleus arousal, exercise, caffeine, cyclic hyperventilation, cold exposure, and medical boundaries.

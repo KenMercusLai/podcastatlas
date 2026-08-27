@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 5723
+wiki_total_pages: 5724
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -287,6 +287,9 @@ wiki_pages:
   - key: "LifestyleSubsidyCreatorWork"
     title: "Lifestyle Subsidy Creator Work"
     url: "/wiki/concepts/lifestylesubsidycreatorwork/"
+  - key: "LifestyleWeightManagement"
+    title: "Lifestyle Weight Management / 生活方式体重管理"
+    url: "/wiki/concepts/lifestyleweightmanagement/"
   - key: "LifestyleDiseasePrevention"
     title: "Lifestyle-Disease Prevention / 生活习惯病预防"
     url: "/wiki/concepts/lifestylediseaseprevention/"

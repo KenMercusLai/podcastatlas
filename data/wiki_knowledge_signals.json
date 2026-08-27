@@ -1573,9 +1573,9 @@
       "url": "/wiki/concepts/assisteddrivingtrustformation/"
     },
     "Atang": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lgBs8AaxGUH_xzGa8iUEwwc7ypvM [lgBs8AaxGUH_xzGa8iUEwwc7ypvM].md",
@@ -1583,6 +1583,13 @@
           "show": "这病说来话长",
           "title": "VOL.218韩杰医生事件后四大门诊坦白局：不对立不甩锅，医患如何联手打赢防漏诊的“排雷战”？",
           "url": "/wiki/sources/vol-218-hanjie-yisheng-shijian-hou-sida-menzhen-tanbaiju-bu-duili-bu-shuaiguo-yihuan-ruhe-lianshou-daying-fang-louzhen-de-paileizhan-lgbs8aaxguh-xzga8iuewwc7ypvm/"
+        },
+        {
+          "episode_file": "llat_ySKrqmRO0KdJWUOegDCAlU5 [llat_ySKrqmRO0KdJWUOegDCAlU5].md",
+          "key": "vol-217-tingzhi-shenhua-jianfeizhen-bu-aie-bu-jie-tanshui-zhe-cai-shi-putongren-gai-chao-de-jianzhong-zuoye-llat-yskrqmro0kdjwuoegdcalu5",
+          "show": "这病说来话长",
+          "title": "VOL.217停止“神化”减肥针！不挨饿、不戒碳水，这才是普通人该抄的减重作业",
+          "url": "/wiki/sources/vol-217-tingzhi-shenhua-jianfeizhen-bu-aie-bu-jie-tanshui-zhe-cai-shi-putongren-gai-chao-de-jianzhong-zuoye-llat-yskrqmro0kdjwuoegdcalu5/"
         }
       ],
       "updated": "2026-08-27",
@@ -8896,6 +8903,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/libgen/"
     },
+    "LifestyleWeightManagement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "llat_ySKrqmRO0KdJWUOegDCAlU5 [llat_ySKrqmRO0KdJWUOegDCAlU5].md",
+          "key": "vol-217-tingzhi-shenhua-jianfeizhen-bu-aie-bu-jie-tanshui-zhe-cai-shi-putongren-gai-chao-de-jianzhong-zuoye-llat-yskrqmro0kdjwuoegdcalu5",
+          "show": "这病说来话长",
+          "title": "VOL.217停止“神化”减肥针！不挨饿、不戒碳水，这才是普通人该抄的减重作业",
+          "url": "/wiki/sources/vol-217-tingzhi-shenhua-jianfeizhen-bu-aie-bu-jie-tanshui-zhe-cai-shi-putongren-gai-chao-de-jianzhong-zuoye-llat-yskrqmro0kdjwuoegdcalu5/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/lifestyleweightmanagement/"
+    },
     "LinkedIn": {
       "episode_count": 4,
       "show_count": 3,
@@ -15982,6 +16005,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/xianyufu/"
     },
+    "XiaolongWeightManagementGuest": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "llat_ySKrqmRO0KdJWUOegDCAlU5 [llat_ySKrqmRO0KdJWUOegDCAlU5].md",
+          "key": "vol-217-tingzhi-shenhua-jianfeizhen-bu-aie-bu-jie-tanshui-zhe-cai-shi-putongren-gai-chao-de-jianzhong-zuoye-llat-yskrqmro0kdjwuoegdcalu5",
+          "show": "这病说来话长",
+          "title": "VOL.217停止“神化”减肥针！不挨饿、不戒碳水，这才是普通人该抄的减重作业",
+          "url": "/wiki/sources/vol-217-tingzhi-shenhua-jianfeizhen-bu-aie-bu-jie-tanshui-zhe-cai-shi-putongren-gai-chao-de-jianzhong-zuoye-llat-yskrqmro0kdjwuoegdcalu5/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/xiaolongweightmanagementguest/"
+    },
     "Xiaozhu": {
       "episode_count": 1,
       "show_count": 1,
@@ -17225,9 +17264,9 @@
       "url": "/wiki/entities/zhaoyanlatehan/"
     },
     "ZheBingShuoLaiHuaChang": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "loFs520pS1eVva8naFSnRKcbvgJZ [loFs520pS1eVva8naFSnRKcbvgJZ].md",
@@ -17249,6 +17288,13 @@
           "show": "这病说来话长",
           "title": "VOL.218韩杰医生事件后四大门诊坦白局：不对立不甩锅，医患如何联手打赢防漏诊的“排雷战”？",
           "url": "/wiki/sources/vol-218-hanjie-yisheng-shijian-hou-sida-menzhen-tanbaiju-bu-duili-bu-shuaiguo-yihuan-ruhe-lianshou-daying-fang-louzhen-de-paileizhan-lgbs8aaxguh-xzga8iuewwc7ypvm/"
+        },
+        {
+          "episode_file": "llat_ySKrqmRO0KdJWUOegDCAlU5 [llat_ySKrqmRO0KdJWUOegDCAlU5].md",
+          "key": "vol-217-tingzhi-shenhua-jianfeizhen-bu-aie-bu-jie-tanshui-zhe-cai-shi-putongren-gai-chao-de-jianzhong-zuoye-llat-yskrqmro0kdjwuoegdcalu5",
+          "show": "这病说来话长",
+          "title": "VOL.217停止“神化”减肥针！不挨饿、不戒碳水，这才是普通人该抄的减重作业",
+          "url": "/wiki/sources/vol-217-tingzhi-shenhua-jianfeizhen-bu-aie-bu-jie-tanshui-zhe-cai-shi-putongren-gai-chao-de-jianzhong-zuoye-llat-yskrqmro0kdjwuoegdcalu5/"
         }
       ],
       "updated": "2026-08-27",
