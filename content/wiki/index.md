@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.219视频播客｜当代年轻人腰突自救指南：骨科医生交底，别把你的腰当消耗品！](sources/vol-219-shipin-boke-dangdai-nianqingren-yaotu-zijiu-zhinan-guke-yisheng-jiaodi-bieba-nide-yao-dang-xiaohaopin-lkvjq45dukdjpesxikwec0zrglmg.md) — 这病说来话长 episode with 马浩宁 on lumbar disc herniation, imaging-versus-symptom interpretation, surgery thresholds, rehabilitation pacing, neutral lumbar position, and daily movement mechanics.
 - [Essentials: How to Access Your Creativity | Rick Rubin](sources/essentials-how-to-access-your-creativity-rick-rubin-scim7816635332.md) — Huberman Lab Essentials episode with Rick Rubin on creativity as felt process, attention shifts, feedback boundaries, creative phases, finishing, self-doubt, and meditation.
 - [Why 70mm Film Still Feels Like the Hottest Movie Technology](sources/tech-20260827-0827-mp-tech-pod-128-tech-20260827-0827-mp-tech-pod-128.md) — Marketplace Tech episode with Miles Williams on the Alex Theatre's 70mm retrofit for The Odyssey, IMAX/70mm/35mm format differences, scarce projection expertise, and analog moviegoing as an event.
 - [How to Improve Motivation & Overcome Procrastination | Dr. Masud Husain](sources/how-to-improve-motivation-overcome-procrastination-dr-masud-husain-scim3386045656.md) — Huberman Lab episode with Masud Husain on motivation, apathy, reward-effort calculation, dopamine, attention, ADHD, self-concept, addiction, and cognitive resilience.
@@ -1578,6 +1579,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [这病说来话长 / Zhe Bing Shuo Lai Hua Chang](entities/ZheBingShuoLaiHuaChang.md) — Chinese medical-literacy podcast represented by oncology and orthopedics episodes that translate specialist care while preserving clinical boundaries.
+- [马浩宁 / Ma Haoning](entities/MaHaoning.md) — Spine-surgery guest explaining lumbar disc herniation, symptom-driven care, surgery tradeoffs, rehabilitation pacing, and lumbar neutral position.
 - [Alex Theatre](entities/AlexTheatre.md) — Historic Glendale movie palace used by Marketplace Tech as a case of rapid 70mm retrofit and analog exhibition revival.
 - [Miles Williams](entities/MilesWilliams.md) — Alex Theatre artistic director explaining 70mm projection, retrofit constraints, and analog moviegoing appeal.
 - [Daymond John](entities/DaymondJohn.md) — FUBU founder and Advice Line guest using story, numbers, resilience, and staged proof to evaluate early founders.
@@ -9531,6 +9534,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Lumbar Disc Herniation / 腰椎间盘突出](concepts/LumbarDiscHerniation.md) — Spine condition explained through disc morphology, nerve or dural irritation, imaging limits, symptom severity, treatment thresholds, and recurrence prevention.
+- [Lumbar Neutral Position / 腰椎中立位](concepts/LumbarNeutralPosition.md) — Movement principle of keeping the lumbar spine stable while hips and knees perform more of the motion during sitting, lifting, training, and recovery.
+- [Symptom-Driven Spine Care / 症状驱动的脊柱诊疗](concepts/SymptomDrivenSpineCare.md) — Clinical frame for matching spine imaging to pain, numbness, motor function, bowel or bladder changes, and physician examination before choosing treatment.
+- [Spine Rehabilitation Progression / 脊柱康复循序渐进](concepts/SpineRehabilitationProgression.md) — Recovery principle that lumbar-disc surgery or conservative care should rebuild activity gradually according to healing, symptoms, baseline strength, and guidance.
 - [Creativity as Felt Process](concepts/CreativityAsFeltProcess.md) — Rubin's frame for art-making as attention to excitement, curiosity, enthusiasm, and other sensed responses before explanation.
 - [Creative Aperture Shift](concepts/CreativeApertureShift.md) — Creativity strategy of widening or narrowing attention when the usual perceptual frame has gone stale.
 - [Artistic Feedback Boundary](concepts/ArtisticFeedbackBoundary.md) — Distinction between using external response as information and letting it sever the creator's felt relationship to the work.

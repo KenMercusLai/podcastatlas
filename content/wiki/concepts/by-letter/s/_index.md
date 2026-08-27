@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 5694
+wiki_total_pages: 5698
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -905,6 +905,9 @@ wiki_pages:
   - key: "SpeechToTextCostOptimization"
     title: "Speech To Text Cost Optimization"
     url: "/wiki/concepts/speechtotextcostoptimization/"
+  - key: "SpineRehabilitationProgression"
+    title: "Spine Rehabilitation Progression / 脊柱康复循序渐进"
+    url: "/wiki/concepts/spinerehabilitationprogression/"
   - key: "SpiritualFreedomUnderConstraint"
     title: "Spiritual Freedom Under Constraint / 受限处境中的精神自由"
     url: "/wiki/concepts/spiritualfreedomunderconstraint/"
@@ -1550,6 +1553,9 @@ wiki_pages:
   - key: "SymmetricInterstateCredibility"
     title: "Symmetric Interstate Credibility / 对称外交信用"
     url: "/wiki/concepts/symmetricinterstatecredibility/"
+  - key: "SymptomDrivenSpineCare"
+    title: "Symptom-Driven Spine Care / 症状驱动的脊柱诊疗"
+    url: "/wiki/concepts/symptomdrivenspinecare/"
   - key: "SyncReliabilityAsUX"
     title: "Sync Reliability As UX"
     url: "/wiki/concepts/syncreliabilityasux/"

@@ -20,34 +20,65 @@
       ]
     },
     {
+      "global_candidate": false,
+      "id": "lumbar-disc-care-is-symptom-and-context-driven",
+      "qualifications": [
+        "The source is an educational podcast episode, not individualized clinical advice.",
+        "Posture, massage, heat or cold, exercise choice, and surgical choice remain bounded by symptoms, neurologic signs, recurrence, and clinician assessment."
+      ],
+      "statement": "[[LumbarDiscHerniation]] care should join structure with symptoms: [[MedicalDiagnosticReasoning]] and [[SymptomDrivenSpineCare]] make report language such as protrusion or degeneration insufficient by itself, while [[MedicalRiskManagement]], motor weakness, numbness, bowel or bladder dysfunction, recurrence risk, and [[SpineRehabilitationProgression]] determine when rest, clinical review, rehabilitation, or surgery becomes urgent.",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "LumbarDiscHerniation",
+        "MedicalDiagnosticReasoning",
+        "SymptomDrivenSpineCare",
+        "MedicalRiskManagement",
+        "SpineRehabilitationProgression",
+        "LumbarNeutralPosition",
+        "MaHaoning",
+        "ZheBingShuoLaiHuaChang",
+        "vol-219-shipin-boke-dangdai-nianqingren-yaotu-zijiu-zhinan-guke-yisheng-jiaodi-bieba-nide-yao-dang-xiaohaopin-lkvjq45dukdjpesxikwec0zrglmg"
+      ]
+    },
+    {
       "global_candidate": true,
       "id": "space-launch-capacity-is-ground-infrastructure",
       "qualifications": [
         "The FAA burden-reduction rationale and the conservation/legal objections remain source-scoped rather than legally resolved."
       ],
       "statement": "[[SpaceEconomyInfrastructure]] depends on [[SpaceLaunchCapacityBottleneck]], [[SpaceportSitingConstraint]], and [[SpaceLaunchEnvironmentalReview]] because [[CommercialSatelliteConstellations]] and [[ReusableRocketEconomics]] only become usable cadence when pads, ports, airspace, licensing, and habitat review are workable.",
-      "status": "qualified",
+      "status": "supported",
       "supporting_wikilinks": [
         "SpaceEconomyInfrastructure",
         "SpaceLaunchCapacityBottleneck",
         "SpaceportSitingConstraint",
         "SpaceLaunchEnvironmentalReview",
         "CommercialSatelliteConstellations",
-        "ReusableRocketEconomics"
+        "ReusableRocketEconomics",
+        "tech-20260818-tech-pod-128-tech-20260818-tech-pod-128"
       ]
     },
     {
       "global_candidate": true,
       "id": "climate-adoption-is-an-implementation-system",
       "qualifications": [
-        "The evidence spans building codes, rebuilding, and carbon removal rather than one standardized market."
+        "The evidence spans carbon removal, building codes, rebuilding, and materials rather than one standardized climate market.",
+        "Climate work remains constrained by permitting, customer value, cost curves, embodied carbon, and verification rather than technical possibility alone."
       ],
-      "statement": "[[ClimateAdaptation]], [[LowCarbonConstructionMaterials]], and [[CarbonStoragePermanence]] depend on material performance, permitting, cost, and verification as well as technical feasibility.",
+      "statement": "[[ClimateAdaptation]], [[LowCarbonConstructionMaterials]], [[CarbonStoragePermanence]], and [[BioOilCarbonRemoval]] depend on material performance, permitting, cost, procurement demand, storage verification, household continuity, and supplier capacity as well as technical feasibility.",
       "status": "supported",
       "supporting_wikilinks": [
         "ClimateAdaptation",
         "LowCarbonConstructionMaterials",
-        "CarbonStoragePermanence"
+        "CarbonStoragePermanence",
+        "BioOilCarbonRemoval",
+        "CarbonRemovalPermitting",
+        "EmbodiedCarbonBuildingCode",
+        "ConstructionCarbonCompliance",
+        "FireResistantBuildingEnvelope",
+        "EconomicClimateTechAdoption",
+        "CharmIndustrial",
+        "tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128"
       ]
     },
     {
@@ -57,14 +88,15 @@
         "This claim is grounded in the Zhuque-3 replay source and preserves the distinction between a first successful recovery and proven low-cost repeat reuse."
       ],
       "statement": "[[Zhuque3]] shows that reusable launch is not proven by ascent or a near landing alone; [[RocketRecoveryBinaryOutcome]], [[ReuseFirstRocketDesign]], [[RecoveryRangePayloadTradeoff]], and [[ReusableRocketTurnaround]] all have to close before [[ReusableRocketEconomics]] is demonstrated.",
-      "status": "source-scoped",
+      "status": "supported",
       "supporting_wikilinks": [
         "Zhuque3",
         "RocketRecoveryBinaryOutcome",
         "ReuseFirstRocketDesign",
         "RecoveryRangePayloadTradeoff",
         "ReusableRocketTurnaround",
-        "ReusableRocketEconomics"
+        "ReusableRocketEconomics",
+        "zhongting-zhuque-sanhao-fuzongshi-huojian-huishou-zhiyou-cheng-yu-bai-meiyou-zhongjiantai-s9e41-d9e11e3b-7c7e-4beb-b19f-6f90fff38714"
       ]
     },
     {
@@ -73,11 +105,15 @@
       "qualifications": [
         "The claim is source-scoped to the dinosaur-sanctuary material."
       ],
-      "statement": "[[DinosaurAsLivingAnimal]] and [[EvidenceBoundPaleontologicalReconstruction]] join imaginative reconstruction to fossils, bird continuity, care labor, and animal welfare.",
+      "statement": "[[DinosaurAsLivingAnimal]] and [[EvidenceBoundPaleontologicalReconstruction]] join imaginative reconstruction to fossils, bird continuity, care labor, enclosure constraints, stress signals, and animal welfare.",
       "status": "source-scoped",
       "supporting_wikilinks": [
         "DinosaurAsLivingAnimal",
-        "EvidenceBoundPaleontologicalReconstruction"
+        "EvidenceBoundPaleontologicalReconstruction",
+        "BirdDinosaurContinuity",
+        "CaptiveAnimalCareLabor",
+        "DinoSanctuary",
+        "146-bu-ai-zhuluoji-shijie-kuailai-konglong-bihusuo-dang-siyangyuan-886472126"
       ]
     },
     {
@@ -86,11 +122,17 @@
       "qualifications": [
         "This is a synthesis of consumer guidance, not individualized financial or medical advice."
       ],
-      "statement": "[[InsuranceRiskTransfer]] and [[HealthInsurancePlanning]] are most useful when coverage is matched to specific household obligations and medical costs.",
-      "status": "qualified",
+      "statement": "[[InsuranceRiskTransfer]] and [[HealthInsurancePlanning]] are most useful when coverage is matched to specific household obligations, medical costs, sales-channel trust, foreign-currency exposure, and long-term service needs.",
+      "status": "supported",
       "supporting_wikilinks": [
         "InsuranceRiskTransfer",
-        "HealthInsurancePlanning"
+        "HealthInsurancePlanning",
+        "FamilyProtectionInsurancePlanning",
+        "InsuranceSalesTrust",
+        "OverseasInsuranceRisk",
+        "SavingsStyleInsurance",
+        "YiLaoYongYi",
+        "Xiaodai"
       ]
     },
     {
@@ -113,7 +155,7 @@
       ]
     },
     {
-      "global_candidate": false,
+      "global_candidate": true,
       "id": "medical-and-cultivation-claims-need-source-scoped-boundaries",
       "qualifications": [
         "The episode reports Li Chuang's lived and interpretive account of medicine, belief, and Daoist practice; it does not establish clinical efficacy or replace diagnosis.",
@@ -176,6 +218,6 @@
       ]
     }
   ],
-  "summary": "Metabolic psychiatry adds a nutrition-and-mental-health branch: ketogenic diet, carbohydrate restriction, epilepsy precedent, and mitochondrial mechanisms make diet a plausible brain intervention, while psychiatric claims remain evidence-limited and professionally supervised. Kratsios adds a federal science-policy branch around NIH/NSF reform, grant portfolios, energy abundance, AI-for-science, COVID trust repair, China competition, and STEM talent, with implementation and politicization risks still contested. Data Science With Sam EP47 adds a personal-health-data privacy case: local private AI can make sensitive records queryable, but health answers still need grounding, citations, refusal behavior, and verification. Science, health, climate, and space-engineering claims become credible when physical constraints, evidence, regulation, implementation cost, and operational follow-through stay visible: reusable rockets need repeatable recovery plus launch-site throughput, space growth needs pads, geography, licensing, and habitat review, climate work needs material and storage validation, scientific imagination stays evidence-bound, and risk products must map to concrete exposure. The Wudang episode keeps medicine, cultivation, and belief practices embodied and source-scoped rather than clinical proof. The Moderna/Merck episode adds a therapeutic oncology branch: individualized cancer vaccines remain postoperative/adjuvant melanoma treatment, not universal prevention; AI and mRNA can accelerate candidate selection and manufacturing, but immune context, clinical evidence, toxicity, cost, and quality-of-life tradeoffs govern use.",
+  "summary": "Science, health, climate, and space-engineering claims become credible when evidence, physical constraints, regulation, implementation cost, clinical context, and operational follow-through stay visible. The topic now includes metabolic psychiatry, spine care, medical privacy AI, Wudang medicine and cultivation, science policy, space launch infrastructure, reusable rockets, climate adaptation and carbon removal, evidence-bound dinosaur reconstruction, insurance risk planning, and individualized cancer vaccines. Across these branches, the wiki treats promising interventions as bounded by diagnosis, verification, recurrence or failure modes, institutional trust, affordability, and quality-of-life judgment rather than by headline labels alone.",
   "topic_id": "science-health-and-climate"
 }

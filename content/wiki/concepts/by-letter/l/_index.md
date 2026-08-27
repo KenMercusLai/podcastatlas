@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 5694
+wiki_total_pages: 5698
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -638,6 +638,12 @@ wiki_pages:
   - key: "LuckAsInformationBandwidth"
     title: "Luck As Information Bandwidth"
     url: "/wiki/concepts/luckasinformationbandwidth/"
+  - key: "LumbarDiscHerniation"
+    title: "Lumbar Disc Herniation / 腰椎间盘突出"
+    url: "/wiki/concepts/lumbardischerniation/"
+  - key: "LumbarNeutralPosition"
+    title: "Lumbar Neutral Position / 腰椎中立位"
+    url: "/wiki/concepts/lumbarneutralposition/"
   - key: "LumpOfLaborFallacy"
     title: "Lump of Labor Fallacy"
     url: "/wiki/concepts/lumpoflaborfallacy/"

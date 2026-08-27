@@ -12594,3 +12594,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-27] ingest | VOL.219视频播客｜当代年轻人腰突自救指南：骨科医生交底，别把你的腰当消耗品！
+
+Added source page for a 这病说来话长 episode with 马浩宁 on lumbar disc herniation, imaging-versus-symptom interpretation, clinical surgery thresholds, minimally invasive and open procedure tradeoffs, gradual rehabilitation, neutral lumbar position, fitness risks, daily hip/knee movement mechanics, massage misconceptions, and heat/cold boundaries. Created Zhe Bing Shuo Lai Hua Chang, Ma Haoning, Lumbar Disc Herniation, Lumbar Neutral Position, Symptom-Driven Spine Care, and Spine Rehabilitation Progression pages. No settled contradiction found; posture, exercise, massage, medication, surgery, and recovery claims remain source-scoped and clinically bounded.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

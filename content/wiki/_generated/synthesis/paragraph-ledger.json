@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "7525505025c7a4d624db19ad8a83c980734556add4d75c88012eca92f6824639",
       "55ee27c69a1aaba7905e516e967f339d6d585001d2b1381833fcb575cdb365df",
       "434b9cb20e9f252a496bf6b0e41ba18f912226152bae86d7e565c86f4f2fde2d",
       "d56107734ba6139da497aa21b5553f9f70bf075a65f8e8384a7e6d65b0ea3610",
@@ -302,11 +303,32 @@
       "16d531495e2a6294ae198d0b95a352e519f488fcca1dbdae1f416758d1cfa576",
       "a9fec3ceb1b343b1fafeebc9ab2903b46238a861f9aaafd9d15b1460340a08b5"
     ],
-    "paragraph_count": 300
+    "paragraph_count": 301
   },
-  "overview_commit": "0eeb1118b4c387939e549227fe470642538540af",
-  "overview_digest": "b44b917655e53a3c742ef1984b742bee42fdfd8b927c2eded45a1d97dad555dd",
+  "overview_commit": "a6c7456143a8fd3f11a18a0c7fef5affd21e7ee6",
+  "overview_digest": "f786436957edf5f6a0617eb7f59fb0ac0f4e37fc2253c0179c00e876c2ef31e2",
   "paragraphs": [
+    {
+      "id": "7525505025c7a4d624db19ad8a83c980734556add4d75c88012eca92f6824639",
+      "primary_topic": "science-health-and-climate",
+      "secondary_topics": [],
+      "text": "The latest addition is [[vol-219-shipin-boke-dangdai-nianqingren-yaotu-zijiu-zhinan-guke-yisheng-jiaodi-bieba-nide-yao-dang-xiaohaopin-lkvjq45dukdjpesxikwec0zrglmg|VOL.219视频播客｜当代年轻人腰突自救指南：骨科医生交底，别把你的腰当消耗品！]], a [[ZheBingShuoLaiHuaChang|这病说来话长]] episode with [[MaHaoning|马浩宁]] on [[LumbarDiscHerniation|腰椎间盘突出]], spine imaging, surgery thresholds, and rehabilitation. It adds [[ZheBingShuoLaiHuaChang]], [[MaHaoning]], [[LumbarDiscHerniation]], [[SymptomDrivenSpineCare]], [[LumbarNeutralPosition]], and [[SpineRehabilitationProgression]], while linking to [[MedicalDiagnosticReasoning]], [[DoctorPatientCommunication]], and [[MedicalRiskManagement]]. Its core synthesis is that lumbar-disc care has to join structure and symptoms: report language such as protrusion or degeneration is not a standalone treatment order, while severe pain, numbness, motor weakness, bowel or bladder dysfunction, recurrence risk, and tissue-healing limits decide when rest, rehabilitation, clinical review, or surgery becomes urgent. No settled contradiction is recorded; the source keeps posture, massage, heat/cold, exercise, and surgical choices bounded by clinical context.",
+      "topic_scores": {
+        "science-health-and-climate": 1
+      },
+      "wikilinks": [
+        "DoctorPatientCommunication",
+        "LumbarDiscHerniation",
+        "LumbarNeutralPosition",
+        "MaHaoning",
+        "MedicalDiagnosticReasoning",
+        "MedicalRiskManagement",
+        "SpineRehabilitationProgression",
+        "SymptomDrivenSpineCare",
+        "ZheBingShuoLaiHuaChang",
+        "vol-219-shipin-boke-dangdai-nianqingren-yaotu-zijiu-zhinan-guke-yisheng-jiaodi-bieba-nide-yao-dang-xiaohaopin-lkvjq45dukdjpesxikwec0zrglmg"
+      ]
+    },
     {
       "id": "55ee27c69a1aaba7905e516e967f339d6d585001d2b1381833fcb575cdb365df",
       "primary_topic": "culture-and-media",

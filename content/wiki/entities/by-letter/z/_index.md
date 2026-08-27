@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 7949
+wiki_total_pages: 7951
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -1091,6 +1091,9 @@ wiki_pages:
   - key: "ZhaoGao"
     title: "赵高 / Zhao Gao"
     url: "/wiki/entities/zhaogao/"
+  - key: "ZheBingShuoLaiHuaChang"
+    title: "这病说来话长 / Zhe Bing Shuo Lai Hua Chang"
+    url: "/wiki/entities/zhebingshuolaihuachang/"
   - key: "ZhuiguangAnimation"
     title: "追光动画 / Zhuiguang Animation"
     url: "/wiki/entities/zhuiguanganimation/"

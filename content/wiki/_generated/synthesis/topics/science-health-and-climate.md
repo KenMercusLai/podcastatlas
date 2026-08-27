@@ -4,15 +4,15 @@ generated: true
 topic_id: science-health-and-climate
 title: "Science, Health, and Climate"
 last_updated: 2026-08-27
-as_of_overview_commit: 9a8be1d0407b46a54b51cc65350ea5eebc358842
-input_digest: d81f4526204e73d39c2f89ed9bca0fd495662381de54e2c8f9be03dfa3945f58
+as_of_overview_commit: a6c7456143a8fd3f11a18a0c7fef5affd21e7ee6
+input_digest: 4a48acf88f961a9110b02e38c195509db522e7c83afc534e97df1df0cc713c14
 ---
 
 # Science, Health, and Climate
 
 ## Current State
 
-Metabolic psychiatry adds a nutrition-and-mental-health branch: ketogenic diet, carbohydrate restriction, epilepsy precedent, and mitochondrial mechanisms make diet a plausible brain intervention, while psychiatric claims remain evidence-limited and professionally supervised. Kratsios adds a federal science-policy branch around NIH/NSF reform, grant portfolios, energy abundance, AI-for-science, COVID trust repair, China competition, and STEM talent, with implementation and politicization risks still contested. Data Science With Sam EP47 adds a personal-health-data privacy case: local private AI can make sensitive records queryable, but health answers still need grounding, citations, refusal behavior, and verification. Science, health, climate, and space-engineering claims become credible when physical constraints, evidence, regulation, implementation cost, and operational follow-through stay visible: reusable rockets need repeatable recovery plus launch-site throughput, space growth needs pads, geography, licensing, and habitat review, climate work needs material and storage validation, scientific imagination stays evidence-bound, and risk products must map to concrete exposure. The Wudang episode keeps medicine, cultivation, and belief practices embodied and source-scoped rather than clinical proof. The Moderna/Merck episode adds a therapeutic oncology branch: individualized cancer vaccines remain postoperative/adjuvant melanoma treatment, not universal prevention; AI and mRNA can accelerate candidate selection and manufacturing, but immune context, clinical evidence, toxicity, cost, and quality-of-life tradeoffs govern use.
+Science, health, climate, and space-engineering claims become credible when evidence, physical constraints, regulation, implementation cost, clinical context, and operational follow-through stay visible. The topic now includes metabolic psychiatry, spine care, medical privacy AI, Wudang medicine and cultivation, science policy, space launch infrastructure, reusable rockets, climate adaptation and carbon removal, evidence-bound dinosaur reconstruction, insurance risk planning, and individualized cancer vaccines. Across these branches, the wiki treats promising interventions as bounded by diagnosis, verification, recurrence or failure modes, institutional trust, affordability, and quality-of-life judgment rather than by headline labels alone.
 
 ## Cross-source Findings
 
@@ -27,11 +27,22 @@ Metabolic psychiatry adds a nutrition-and-mental-health branch: ketogenic diet, 
 - The source reports clinical cases, personal experience, epilepsy precedent, and mitochondrial mechanism rather than completed large randomized psychiatric trials.
 - Severe disorders, medication changes, and high-ketosis psychiatric interventions remain medically supervised rather than general self-care advice.
 
+### Lumbar Disc Care Is Symptom And Context Driven
+
+[[LumbarDiscHerniation]] care should join structure with symptoms: [[MedicalDiagnosticReasoning]] and [[SymptomDrivenSpineCare]] make report language such as protrusion or degeneration insufficient by itself, while [[MedicalRiskManagement]], motor weakness, numbness, bowel or bladder dysfunction, recurrence risk, and [[SpineRehabilitationProgression]] determine when rest, clinical review, rehabilitation, or surgery becomes urgent.
+
+**Evidence:** [[LumbarDiscHerniation]], [[MedicalDiagnosticReasoning]], [[SymptomDrivenSpineCare]], [[MedicalRiskManagement]], [[SpineRehabilitationProgression]], [[LumbarNeutralPosition]], [[MaHaoning]], [[ZheBingShuoLaiHuaChang]], [[vol-219-shipin-boke-dangdai-nianqingren-yaotu-zijiu-zhinan-guke-yisheng-jiaodi-bieba-nide-yao-dang-xiaohaopin-lkvjq45dukdjpesxikwec0zrglmg]]
+
+**Qualifications:**
+
+- The source is an educational podcast episode, not individualized clinical advice.
+- Posture, massage, heat or cold, exercise choice, and surgical choice remain bounded by symptoms, neurologic signs, recurrence, and clinician assessment.
+
 ### Space Launch Capacity Is Ground Infrastructure
 
 [[SpaceEconomyInfrastructure]] depends on [[SpaceLaunchCapacityBottleneck]], [[SpaceportSitingConstraint]], and [[SpaceLaunchEnvironmentalReview]] because [[CommercialSatelliteConstellations]] and [[ReusableRocketEconomics]] only become usable cadence when pads, ports, airspace, licensing, and habitat review are workable.
 
-**Evidence:** [[SpaceEconomyInfrastructure]], [[SpaceLaunchCapacityBottleneck]], [[SpaceportSitingConstraint]], [[SpaceLaunchEnvironmentalReview]], [[CommercialSatelliteConstellations]], [[ReusableRocketEconomics]]
+**Evidence:** [[SpaceEconomyInfrastructure]], [[SpaceLaunchCapacityBottleneck]], [[SpaceportSitingConstraint]], [[SpaceLaunchEnvironmentalReview]], [[CommercialSatelliteConstellations]], [[ReusableRocketEconomics]], [[tech-20260818-tech-pod-128-tech-20260818-tech-pod-128]]
 
 **Qualifications:**
 
@@ -39,19 +50,20 @@ Metabolic psychiatry adds a nutrition-and-mental-health branch: ketogenic diet, 
 
 ### Climate Adoption Is An Implementation System
 
-[[ClimateAdaptation]], [[LowCarbonConstructionMaterials]], and [[CarbonStoragePermanence]] depend on material performance, permitting, cost, and verification as well as technical feasibility.
+[[ClimateAdaptation]], [[LowCarbonConstructionMaterials]], [[CarbonStoragePermanence]], and [[BioOilCarbonRemoval]] depend on material performance, permitting, cost, procurement demand, storage verification, household continuity, and supplier capacity as well as technical feasibility.
 
-**Evidence:** [[ClimateAdaptation]], [[LowCarbonConstructionMaterials]], [[CarbonStoragePermanence]]
+**Evidence:** [[ClimateAdaptation]], [[LowCarbonConstructionMaterials]], [[CarbonStoragePermanence]], [[BioOilCarbonRemoval]], [[CarbonRemovalPermitting]], [[EmbodiedCarbonBuildingCode]], [[ConstructionCarbonCompliance]], [[FireResistantBuildingEnvelope]], [[EconomicClimateTechAdoption]], [[CharmIndustrial]], [[tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128]]
 
 **Qualifications:**
 
-- The evidence spans building codes, rebuilding, and carbon removal rather than one standardized market.
+- The evidence spans carbon removal, building codes, rebuilding, and materials rather than one standardized climate market.
+- Climate work remains constrained by permitting, customer value, cost curves, embodied carbon, and verification rather than technical possibility alone.
 
 ### Reusable Launch Needs Operational Closure
 
 [[Zhuque3]] shows that reusable launch is not proven by ascent or a near landing alone; [[RocketRecoveryBinaryOutcome]], [[ReuseFirstRocketDesign]], [[RecoveryRangePayloadTradeoff]], and [[ReusableRocketTurnaround]] all have to close before [[ReusableRocketEconomics]] is demonstrated.
 
-**Evidence:** [[Zhuque3]], [[RocketRecoveryBinaryOutcome]], [[ReuseFirstRocketDesign]], [[RecoveryRangePayloadTradeoff]], [[ReusableRocketTurnaround]], [[ReusableRocketEconomics]]
+**Evidence:** [[Zhuque3]], [[RocketRecoveryBinaryOutcome]], [[ReuseFirstRocketDesign]], [[RecoveryRangePayloadTradeoff]], [[ReusableRocketTurnaround]], [[ReusableRocketEconomics]], [[zhongting-zhuque-sanhao-fuzongshi-huojian-huishou-zhiyou-cheng-yu-bai-meiyou-zhongjiantai-s9e41-d9e11e3b-7c7e-4beb-b19f-6f90fff38714]]
 
 **Qualifications:**
 
@@ -59,9 +71,9 @@ Metabolic psychiatry adds a nutrition-and-mental-health branch: ketogenic diet, 
 
 ### Scientific Imagination Remains Evidence Bound
 
-[[DinosaurAsLivingAnimal]] and [[EvidenceBoundPaleontologicalReconstruction]] join imaginative reconstruction to fossils, bird continuity, care labor, and animal welfare.
+[[DinosaurAsLivingAnimal]] and [[EvidenceBoundPaleontologicalReconstruction]] join imaginative reconstruction to fossils, bird continuity, care labor, enclosure constraints, stress signals, and animal welfare.
 
-**Evidence:** [[DinosaurAsLivingAnimal]], [[EvidenceBoundPaleontologicalReconstruction]]
+**Evidence:** [[DinosaurAsLivingAnimal]], [[EvidenceBoundPaleontologicalReconstruction]], [[BirdDinosaurContinuity]], [[CaptiveAnimalCareLabor]], [[DinoSanctuary]], [[146-bu-ai-zhuluoji-shijie-kuailai-konglong-bihusuo-dang-siyangyuan-886472126]]
 
 **Qualifications:**
 
@@ -69,9 +81,9 @@ Metabolic psychiatry adds a nutrition-and-mental-health branch: ketogenic diet, 
 
 ### Health Products Should Map Specific Risks
 
-[[InsuranceRiskTransfer]] and [[HealthInsurancePlanning]] are most useful when coverage is matched to specific household obligations and medical costs.
+[[InsuranceRiskTransfer]] and [[HealthInsurancePlanning]] are most useful when coverage is matched to specific household obligations, medical costs, sales-channel trust, foreign-currency exposure, and long-term service needs.
 
-**Evidence:** [[InsuranceRiskTransfer]], [[HealthInsurancePlanning]]
+**Evidence:** [[InsuranceRiskTransfer]], [[HealthInsurancePlanning]], [[FamilyProtectionInsurancePlanning]], [[InsuranceSalesTrust]], [[OverseasInsuranceRisk]], [[SavingsStyleInsurance]], [[YiLaoYongYi]], [[Xiaodai]]
 
 **Qualifications:**
 
