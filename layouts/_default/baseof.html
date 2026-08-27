@@ -17,7 +17,6 @@
     <meta data-pagefind-meta="group[content]" content="{{ . }}">
   {{ end }}
   {{ with $searchContext }}<meta data-pagefind-meta="context[content]" content="{{ . }}">{{ end }}
-  {{ with $searchAliases }}<meta data-pagefind-meta="aliases[content]" data-pagefind-index-attrs="content" data-pagefind-weight="5.0" content="{{ . }}">{{ end }}
   {{ block "head_extra" . }}{{ end }}
   <style>
     :root {
@@ -571,6 +570,7 @@
   </style>
 </head>
 <body{{ if $isLegacyTag }} data-pagefind-ignore="all"{{ end }}>
+  {{ with $searchAliases }}<meta itemprop="keywords" data-pagefind-meta="aliases[content]" data-pagefind-index-attrs="content" data-pagefind-weight="5.0" content="{{ . }}">{{ end }}
   <header class="site-header" data-pagefind-ignore="all">
     <a class="site-title" href="{{ .Site.Home.RelPermalink }}">{{ .Site.Title }}</a>
     <nav class="site-nav" aria-label="Primary">

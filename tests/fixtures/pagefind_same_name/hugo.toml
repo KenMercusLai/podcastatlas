@@ -1,0 +1,5 @@
+baseURL = "https://fixture.invalid/"
+locale = "en-us"
+title = "Pagefind Same Name Fixture"
+ignoreFiles = ["wiki/concepts/AliasEvidence\\.md$"]
+disableKinds = ["home", "section", "taxonomy", "term", "rss", "sitemap", "robotsTXT", "404"]

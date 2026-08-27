@@ -1,0 +1,18 @@
+{{ $searchAliases := partial "search-aliases.html" . }}
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{{ .Title }}</title>
+  <meta data-pagefind-meta="type[content]" content="{{ .Params.search_type }}">
+  <meta data-pagefind-filter="group[content]" content="{{ .Params.search_group }}">
+  <meta data-pagefind-meta="group[content]" content="{{ .Params.search_group }}">
+</head>
+<body>
+  <main data-pagefind-body>
+    {{ with $searchAliases }}<meta itemprop="keywords" data-pagefind-meta="aliases[content]" data-pagefind-index-attrs="content" data-pagefind-weight="5.0" content="{{ . }}">{{ end }}
+    <h1>{{ .Title }}</h1>
+    {{ .Content }}
+  </main>
+</body>
+</html>

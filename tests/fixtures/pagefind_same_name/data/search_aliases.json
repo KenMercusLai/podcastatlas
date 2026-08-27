@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "entries": {
+    "wiki/entities/CanonicalIdentity.md": {
+      "aliases": [
+        {
+          "value": "Curated Needle",
+          "evidence": [
+            {
+              "path": "content/wiki/concepts/AliasEvidence.md",
+              "wikilink": "[[CanonicalIdentity|Curated Needle]]"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

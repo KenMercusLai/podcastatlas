@@ -1,17 +1,40 @@
-{{- $aliases := slice -}}
+{{- $frontMatterAliases := slice -}}
 {{- with .Params.search_aliases -}}
   {{- if reflect.IsSlice . -}}
     {{- range . -}}
       {{- $alias := strings.TrimSpace (printf "%v" .) -}}
       {{- if $alias -}}
-        {{- $aliases = $aliases | append $alias -}}
+        {{- $frontMatterAliases = $frontMatterAliases | append $alias -}}
       {{- end -}}
     {{- end -}}
   {{- else -}}
     {{- $alias := strings.TrimSpace (printf "%v" .) -}}
     {{- if $alias -}}
-      {{- $aliases = $aliases | append $alias -}}
+      {{- $frontMatterAliases = $frontMatterAliases | append $alias -}}
     {{- end -}}
   {{- end -}}
 {{- end -}}
-{{- return (delimit ($aliases | uniq) " · ") -}}
+
+{{- $registry := hugo.Data.search_aliases.entries -}}
+{{- $filePath := "" -}}
+{{- with .File -}}
+  {{- $filePath = $.File.Path -}}
+{{- end -}}
+{{- $registryAliases := slice -}}
+{{- with index $registry $filePath -}}
+  {{- range .aliases -}}
+    {{- $alias := strings.TrimSpace (printf "%v" .value) -}}
+    {{- if $alias -}}
+      {{- $registryAliases = $registryAliases | append $alias -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- range ($frontMatterAliases | uniq) -}}
+  {{- $alias := . -}}
+  {{- if not (in $registryAliases $alias) -}}
+    {{- errorf "search alias %q on %q is not backed by data/search_aliases.json" $alias $filePath -}}
+  {{- end -}}
+{{- end -}}
+
+{{- return (delimit ($registryAliases | uniq) " · ") -}}
