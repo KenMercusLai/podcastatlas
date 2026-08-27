@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 5647
+wiki_total_pages: 5654
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -395,6 +395,9 @@ wiki_pages:
   - key: "RestaurantCulturalLegibility"
     title: "Restaurant Cultural Legibility"
     url: "/wiki/concepts/restaurantculturallegibility/"
+  - key: "RestaurantDeliveryExtension"
+    title: "Restaurant Delivery Extension"
+    url: "/wiki/concepts/restaurantdeliveryextension/"
   - key: "RestaurantExperienceDesign"
     title: "Restaurant Experience Design"
     url: "/wiki/concepts/restaurantexperiencedesign/"

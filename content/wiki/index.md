@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [外卖成为海底捞增长最快的业务，乐高表示不会用 AI 来设计产品](sources/waimai-chengwei-haidilao-zengzhang-zuikuai-de-yewu-legao-biaoshi-buhui-yong-ai-lai-sheji-chanpin-1008870590.md) — 声动早咖啡 roundup on Nongfu Spring tea growth, Haidilao delivery, coffee supply, Apple local AI hardware, Nvidia-Perplexity, Volkswagen restructuring, electric two-wheelers, Lao Pu Gold, and Lego's AI design boundary.
 - [700. The Troubles: Bloody Sunday (Part 4)](sources/700-the-troubles-bloody-sunday-part-4-glt3909829334.md) — The Rest Is History episode on Bloody Sunday, Saville and Widgery, Derry and Free Derry, Stormont's suspension, direct rule, failed IRA talks, and Bloody Friday.
 - [690. A Murderous Affair: Death at Mayerling (Part 2)](sources/690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068.md) — The Rest Is History episode on Crown Prince Rudolf, Mary Vetsera, the Mayerling deaths, Catholic burial, Habsburg suppression, and succession shock.
 - [《资治通鉴·汉纪》872丨他娶妾不成，竟杀人全家](sources/zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc.md) — 芮淇讲透资治通鉴 episode on Zhang Jian's enforcement against Hou Lan, Xu Xuan's killing of Li Gao's daughter, Huang Fu's execution of Xu Xuan, and Chen Fan's warning about eunuch-protected court disorder.
@@ -1566,6 +1567,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Aima Technology / 爱玛](entities/AimaTechnology.md) — Traditional Chinese electric two-wheeler maker on the declining legacy side of the 2026 market split.
+- [Lego / 乐高](entities/Lego.md) — Toy company expanding across children and adult consumers while keeping AI out of independent product design.
+- [Mac Studio](entities/MacStudio.md) — Apple desktop product tied in this source to high-performance local AI workloads.
+- [Ninebot / 九号](entities/Ninebot.md) — Smart-feature electric two-wheeler growth case in a weakening Chinese category.
+- [Niu Technologies / 小牛](entities/NiuTechnologies.md) — Smart-feature electric two-wheeler growth case contrasted with declining legacy makers.
+- [Nongfu Spring / 农夫山泉](entities/NongfuSpring.md) — Chinese beverage company whose tea-drink growth is offsetting packaged-water pressure.
+- [Oriental Leaf / 东方树叶](entities/OrientalLeaf.md) — Nongfu Spring unsweetened-tea product line anchoring the tea-growth branch.
+- [Perplexity Computer](entities/PerplexityComputer.md) — Perplexity agent product named as a driver of reported revenue acceleration.
+- [Volkswagen Group / 大众汽车](entities/VolkswagenGroup.md) — Automaker restructuring case shaped by China competition, U.S. tariffs, overcapacity, labor, and governance.
+- [Yadea / 雅迪](entities/Yadea.md) — Traditional Chinese electric two-wheeler maker exposed to demand, standards, and material-cost pressure.
 - [Bloody Sunday](entities/BloodySunday.md) — 30 January 1972 Derry massacre treated as a moral atrocity and counterinsurgency legitimacy disaster.
 - [Bloody Friday](entities/BloodyFriday.md) — 21 July 1972 Provisional IRA bombing attack in Belfast that damaged republican support.
 - [Free Derry](entities/FreeDerry.md) — Barricaded Derry no-go area that made local authority collapse visible before Bloody Sunday.
@@ -9479,6 +9490,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Adult Toy Market Expansion](concepts/AdultToyMarketExpansion.md) — Toy-market strategy of serving adult hobby, display, fandom, and collector occasions alongside children.
+- [Automotive Overcapacity Restructuring](concepts/AutomotiveOvercapacityRestructuring.md) — Automaker restructuring problem where excess capacity, tariffs, competition, labor, and governance collide.
+- [Electric Two-Wheeler Market Divergence](concepts/ElectricTwoWheelerMarketDivergence.md) — Split between declining legacy makers and growing smart-feature challengers in Chinese electric two-wheelers.
+- [Gold Jewelry Value Perception Risk](concepts/GoldJewelryValuePerceptionRisk.md) — Risk that jewelry premiums look weak when gold-price timing and retail price increases diverge.
+- [Packaged Water Price War](concepts/PackagedWaterPriceWar.md) — Bottled-water pricing pressure that can slow growth in a mature, low-differentiation beverage category.
+- [Restaurant Delivery Extension](concepts/RestaurantDeliveryExtension.md) — Restaurant strategy of building delivery-friendly products and sites for new meal occasions.
+- [Toy Design Human Creativity Boundary](concepts/ToyDesignHumanCreativityBoundary.md) — Product-design line where AI supports standardized work while human designers retain creative judgment.
 - [Northern Ireland Direct Rule](concepts/NorthernIrelandDirectRule.md) — Crisis-governance shift where Westminster suspends Stormont and takes direct responsibility after local authority collapses.
 - [Mayerling Death Pact](concepts/MayerlingDeathPact.md) — Pattern where romantic death language, morbidity, secrecy, and status imbalance leave consent and coercion unresolved.
 - [Dynastic Scandal Suppression](concepts/DynasticScandalSuppression.md) — Pattern where a ruling house converts private catastrophe into controlled public story, ritual repair, and asymmetric erasure.

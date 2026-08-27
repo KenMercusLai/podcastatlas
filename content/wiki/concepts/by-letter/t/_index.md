@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 5647
+wiki_total_pages: 5654
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -392,6 +392,9 @@ wiki_pages:
   - key: "ToxicShockSyndromeRisk"
     title: "Toxic Shock Syndrome Risk"
     url: "/wiki/concepts/toxicshocksyndromerisk/"
+  - key: "ToyDesignHumanCreativityBoundary"
+    title: "Toy Design Human Creativity Boundary"
+    url: "/wiki/concepts/toydesignhumancreativityboundary/"
   - key: "ToyInventorLicensingPath"
     title: "Toy Inventor Licensing Path"
     url: "/wiki/concepts/toyinventorlicensingpath/"

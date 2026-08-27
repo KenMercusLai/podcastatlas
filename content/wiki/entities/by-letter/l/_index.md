@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 7909
+wiki_total_pages: 7919
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -182,6 +182,9 @@ wiki_pages:
   - key: "LegionNovel"
     title: "Legion"
     url: "/wiki/entities/legionnovel/"
+  - key: "Lego"
+    title: "Lego / 乐高"
+    url: "/wiki/entities/lego/"
   - key: "LeiJun"
     title: "Lei Jun"
     url: "/wiki/entities/leijun/"

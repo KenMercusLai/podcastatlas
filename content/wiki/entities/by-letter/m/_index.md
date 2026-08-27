@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 7909
+wiki_total_pages: 7919
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -20,6 +20,9 @@ wiki_pages:
   - key: "MacMini"
     title: "Mac Mini"
     url: "/wiki/entities/macmini/"
+  - key: "MacStudio"
+    title: "Mac Studio"
+    url: "/wiki/entities/macstudio/"
   - key: "MacBook"
     title: "MacBook"
     url: "/wiki/entities/macbook/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "o"
-wiki_total_pages: 7909
+wiki_total_pages: 7919
 wiki_pages:
   - key: "OneX"
     title: "1X"
@@ -227,6 +227,9 @@ wiki_pages:
   - key: "Orienspace"
     title: "Orienspace / 东方空间"
     url: "/wiki/entities/orienspace/"
+  - key: "OrientalLeaf"
+    title: "Oriental Leaf / 东方树叶"
+    url: "/wiki/entities/orientalleaf/"
   - key: "OrientalSelection"
     title: "Oriental Selection / 东方甄选"
     url: "/wiki/entities/orientalselection/"

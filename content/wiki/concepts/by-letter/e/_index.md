@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 5647
+wiki_total_pages: 5654
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -182,6 +182,9 @@ wiki_pages:
   - key: "ElectricTherapySpeculation"
     title: "Electric Therapy Speculation / 电疗法想象"
     url: "/wiki/concepts/electrictherapyspeculation/"
+  - key: "ElectricTwoWheelerMarketDivergence"
+    title: "Electric Two-Wheeler Market Divergence"
+    url: "/wiki/concepts/electrictwowheelermarketdivergence/"
   - key: "ElectricVehiclePriceParity"
     title: "Electric Vehicle Price Parity"
     url: "/wiki/concepts/electricvehiclepriceparity/"

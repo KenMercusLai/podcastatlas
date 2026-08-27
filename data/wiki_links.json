@@ -2995,6 +2995,10 @@
     "title": "Adult Summer Camps",
     "url": "/wiki/concepts/adultsummercamps/"
   },
+  "AdultToyMarketExpansion": {
+    "title": "Adult Toy Market Expansion",
+    "url": "/wiki/concepts/adulttoymarketexpansion/"
+  },
   "AdvanceAgainstRoyalties": {
     "title": "Advance Against Royalties",
     "url": "/wiki/concepts/advanceagainstroyalties/"
@@ -3358,6 +3362,10 @@
   "AiWawaReadingGroup": {
     "title": "爱娃娃亲子阅读小组 / Ai Wawa Reading Group",
     "url": "/wiki/entities/aiwawareadinggroup/"
+  },
+  "AimaTechnology": {
+    "title": "Aima Technology / 爱玛",
+    "url": "/wiki/entities/aimatechnology/"
   },
   "AirChina": {
     "title": "Air China / 国航",
@@ -5466,6 +5474,10 @@
   "AutomotiveMediaInfluence": {
     "title": "Automotive Media Influence / 汽车媒体影响力",
     "url": "/wiki/concepts/automotivemediainfluence/"
+  },
+  "AutomotiveOvercapacityRestructuring": {
+    "title": "Automotive Overcapacity Restructuring",
+    "url": "/wiki/concepts/automotiveovercapacityrestructuring/"
   },
   "AutonomousDrivingDataFlywheel": {
     "title": "Autonomous Driving Data Flywheel",
@@ -15235,6 +15247,10 @@
     "title": "Electric Therapy Speculation / 电疗法想象",
     "url": "/wiki/concepts/electrictherapyspeculation/"
   },
+  "ElectricTwoWheelerMarketDivergence": {
+    "title": "Electric Two-Wheeler Market Divergence",
+    "url": "/wiki/concepts/electrictwowheelermarketdivergence/"
+  },
   "ElectricVehiclePriceParity": {
     "title": "Electric Vehicle Price Parity",
     "url": "/wiki/concepts/electricvehiclepriceparity/"
@@ -19698,6 +19714,10 @@
   "GoldInvestmentProducts": {
     "title": "Gold Investment Products / 黄金投资产品",
     "url": "/wiki/concepts/goldinvestmentproducts/"
+  },
+  "GoldJewelryValuePerceptionRisk": {
+    "title": "Gold Jewelry Value Perception Risk",
+    "url": "/wiki/concepts/goldjewelryvalueperceptionrisk/"
   },
   "GoldMonetaryAnchor": {
     "title": "Gold Monetary Anchor",
@@ -27755,6 +27775,10 @@
     "title": "Legitimacy Window Seizure / 合法性窗口抢占",
     "url": "/wiki/concepts/legitimacywindowseizure/"
   },
+  "Lego": {
+    "title": "Lego / 乐高",
+    "url": "/wiki/entities/lego/"
+  },
   "LeiBoYuanShuRetainer": {
     "title": "雷波 / Lei Bo (Yuan Shu retainer)",
     "url": "/wiki/entities/leiboyuanshuretainer/"
@@ -30082,6 +30106,10 @@
   "MacMini": {
     "title": "Mac Mini",
     "url": "/wiki/entities/macmini/"
+  },
+  "MacStudio": {
+    "title": "Mac Studio",
+    "url": "/wiki/entities/macstudio/"
   },
   "MachiavellianIntelligence": {
     "title": "Machiavellian Intelligence / 马基雅维利智能",
@@ -34103,6 +34131,10 @@
     "title": "Nina Miolane",
     "url": "/wiki/entities/ninamiolane/"
   },
+  "Ninebot": {
+    "title": "Ninebot / 九号",
+    "url": "/wiki/entities/ninebot/"
+  },
   "NineteenTwentyNineSorkin": {
     "title": "1929 / 《1929》 (Andrew Ross Sorkin)",
     "url": "/wiki/entities/nineteentwentyninesorkin/"
@@ -34158,6 +34190,10 @@
   "NiuSengru": {
     "title": "牛僧儒",
     "url": "/wiki/entities/niusengru/"
+  },
+  "NiuTechnologies": {
+    "title": "Niu Technologies / 小牛",
+    "url": "/wiki/entities/niutechnologies/"
   },
   "NiuniuSukiyaki": {
     "title": "Niuniu Sukiyaki / 牛牛寿喜烧",
@@ -34278,6 +34314,10 @@
   "NonfictionPublicness": {
     "title": "Nonfiction Publicness",
     "url": "/wiki/concepts/nonfictionpublicness/"
+  },
+  "NongfuSpring": {
+    "title": "Nongfu Spring / 农夫山泉",
+    "url": "/wiki/entities/nongfuspring/"
   },
   "NongzhengQuanshu": {
     "title": "《农政全书》 / Nongzheng Quanshu",
@@ -35347,6 +35387,10 @@
     "title": "Orienspace / 东方空间",
     "url": "/wiki/entities/orienspace/"
   },
+  "OrientalLeaf": {
+    "title": "Oriental Leaf / 东方树叶",
+    "url": "/wiki/entities/orientalleaf/"
+  },
   "OrientalSelection": {
     "title": "Oriental Selection / 东方甄选",
     "url": "/wiki/entities/orientalselection/"
@@ -35626,6 +35670,10 @@
   "PacingTheFrontier": {
     "title": "Pacing the Frontier",
     "url": "/wiki/concepts/pacingthefrontier/"
+  },
+  "PackagedWaterPriceWar": {
+    "title": "Packaged Water Price War",
+    "url": "/wiki/concepts/packagedwaterpricewar/"
   },
   "PackagingAsProductExperience": {
     "title": "Packaging As Product Experience",
@@ -36386,6 +36434,10 @@
   "Perplexity": {
     "title": "Perplexity",
     "url": "/wiki/entities/perplexity/"
+  },
+  "PerplexityComputer": {
+    "title": "Perplexity Computer",
+    "url": "/wiki/entities/perplexitycomputer/"
   },
   "Perrier": {
     "title": "Perrier / 巴黎水",
@@ -40246,6 +40298,10 @@
   "RestaurantCulturalLegibility": {
     "title": "Restaurant Cultural Legibility",
     "url": "/wiki/concepts/restaurantculturallegibility/"
+  },
+  "RestaurantDeliveryExtension": {
+    "title": "Restaurant Delivery Extension",
+    "url": "/wiki/concepts/restaurantdeliveryextension/"
   },
   "RestaurantExperienceDesign": {
     "title": "Restaurant Experience Design",
@@ -48059,6 +48115,10 @@
     "title": "Toxic Shock Syndrome Risk",
     "url": "/wiki/concepts/toxicshocksyndromerisk/"
   },
+  "ToyDesignHumanCreativityBoundary": {
+    "title": "Toy Design Human Creativity Boundary",
+    "url": "/wiki/concepts/toydesignhumancreativityboundary/"
+  },
   "ToyInventorLicensingPath": {
     "title": "Toy Inventor Licensing Path",
     "url": "/wiki/concepts/toyinventorlicensingpath/"
@@ -49742,6 +49802,10 @@
   "Volcengine": {
     "title": "Volcengine / 火山引擎",
     "url": "/wiki/entities/volcengine/"
+  },
+  "VolkswagenGroup": {
+    "title": "Volkswagen Group / 大众汽车",
+    "url": "/wiki/entities/volkswagengroup/"
   },
   "VolodymyrZelensky": {
     "title": "Volodymyr Zelensky",
@@ -52666,6 +52730,10 @@
   "YaRestaurant": {
     "title": "芽 / Ya Restaurant",
     "url": "/wiki/entities/yarestaurant/"
+  },
+  "Yadea": {
+    "title": "Yadea / 雅迪",
+    "url": "/wiki/entities/yadea/"
   },
   "YagorGroup": {
     "title": "Yagor Group / 雅戈尔",
@@ -58350,6 +58418,10 @@
   "vol-271-a-di-da-si-ruhe-chudi-fantan-1007333155": {
     "title": "Vol.271 阿迪达斯如何触底反弹？",
     "url": "/wiki/sources/vol-271-a-di-da-si-ruhe-chudi-fantan-1007333155/"
+  },
+  "waimai-chengwei-haidilao-zengzhang-zuikuai-de-yewu-legao-biaoshi-buhui-yong-ai-lai-sheji-chanpin-1008870590": {
+    "title": "外卖成为海底捞增长最快的业务，乐高表示不会用 AI 来设计产品",
+    "url": "/wiki/sources/waimai-chengwei-haidilao-zengzhang-zuikuai-de-yewu-legao-biaoshi-buhui-yong-ai-lai-sheji-chanpin-1008870590/"
   },
   "wake-up-haul-an-ozempic-moment-for-the-brain-6a85798d1ad8716bb6078744": {
     "title": "Wake-up haul: an Ozempic moment for the brain",

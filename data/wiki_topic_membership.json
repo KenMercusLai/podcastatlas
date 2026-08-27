@@ -33276,6 +33276,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "Lego": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "LeiLutai": [
     {
       "key": "economics",
@@ -35446,6 +35453,13 @@
     }
   ],
   "MacMini": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "MacStudio": [
     {
       "key": "technology",
       "label": "Technology",
@@ -57128,6 +57142,13 @@
       "url": "/topics/science/"
     }
   ],
+  "ToyDesignHumanCreativityBoundary": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "ToyStory5": [
     {
       "key": "technology",
@@ -69393,6 +69414,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "waimai-chengwei-haidilao-zengzhang-zuikuai-de-yewu-legao-biaoshi-buhui-yong-ai-lai-sheji-chanpin-1008870590": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "wake-up-haul-an-ozempic-moment-for-the-brain-6a85798d1ad8716bb6078744": [

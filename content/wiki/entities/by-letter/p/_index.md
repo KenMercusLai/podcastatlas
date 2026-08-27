@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 7909
+wiki_total_pages: 7919
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -245,6 +245,9 @@ wiki_pages:
   - key: "Perplexity"
     title: "Perplexity"
     url: "/wiki/entities/perplexity/"
+  - key: "PerplexityComputer"
+    title: "Perplexity Computer"
+    url: "/wiki/entities/perplexitycomputer/"
   - key: "Perrier"
     title: "Perrier / 巴黎水"
     url: "/wiki/entities/perrier/"

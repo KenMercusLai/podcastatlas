@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "v"
-wiki_total_pages: 7909
+wiki_total_pages: 7919
 wiki_pages:
   - key: "VacheronConstantin"
     title: "Vacheron Constantin"
@@ -188,6 +188,9 @@ wiki_pages:
   - key: "Volcengine"
     title: "Volcengine / 火山引擎"
     url: "/wiki/entities/volcengine/"
+  - key: "VolkswagenGroup"
+    title: "Volkswagen Group / 大众汽车"
+    url: "/wiki/entities/volkswagengroup/"
   - key: "VolodymyrZelensky"
     title: "Volodymyr Zelensky"
     url: "/wiki/entities/volodymyrzelensky/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 5647
+wiki_total_pages: 5654
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -176,6 +176,9 @@ wiki_pages:
   - key: "AdultSummerCamps"
     title: "Adult Summer Camps"
     url: "/wiki/concepts/adultsummercamps/"
+  - key: "AdultToyMarketExpansion"
+    title: "Adult Toy Market Expansion"
+    url: "/wiki/concepts/adulttoymarketexpansion/"
   - key: "AdvanceAgainstRoyalties"
     title: "Advance Against Royalties"
     url: "/wiki/concepts/advanceagainstroyalties/"
@@ -1826,6 +1829,9 @@ wiki_pages:
   - key: "AutomotiveMediaInfluence"
     title: "Automotive Media Influence / 汽车媒体影响力"
     url: "/wiki/concepts/automotivemediainfluence/"
+  - key: "AutomotiveOvercapacityRestructuring"
+    title: "Automotive Overcapacity Restructuring"
+    url: "/wiki/concepts/automotiveovercapacityrestructuring/"
   - key: "AutonomousDrivingDataFlywheel"
     title: "Autonomous Driving Data Flywheel"
     url: "/wiki/concepts/autonomousdrivingdataflywheel/"

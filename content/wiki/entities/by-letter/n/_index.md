@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 7909
+wiki_total_pages: 7919
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -416,6 +416,9 @@ wiki_pages:
   - key: "NinaMiolane"
     title: "Nina Miolane"
     url: "/wiki/entities/ninamiolane/"
+  - key: "Ninebot"
+    title: "Ninebot / 九号"
+    url: "/wiki/entities/ninebot/"
   - key: "Ninety"
     title: "Ninety"
     url: "/wiki/entities/ninety/"
@@ -443,6 +446,9 @@ wiki_pages:
   - key: "NithyaRaman"
     title: "Nithya Raman"
     url: "/wiki/entities/nithyaraman/"
+  - key: "NiuTechnologies"
+    title: "Niu Technologies / 小牛"
+    url: "/wiki/entities/niutechnologies/"
   - key: "NiuniuSukiyaki"
     title: "Niuniu Sukiyaki / 牛牛寿喜烧"
     url: "/wiki/entities/niuniusukiyaki/"
@@ -464,6 +470,9 @@ wiki_pages:
   - key: "NombreDeDios"
     title: "Nombre de Dios"
     url: "/wiki/entities/nombrededios/"
+  - key: "NongfuSpring"
+    title: "Nongfu Spring / 农夫山泉"
+    url: "/wiki/entities/nongfuspring/"
   - key: "NooraHealth"
     title: "Noora Health"
     url: "/wiki/entities/noorahealth/"

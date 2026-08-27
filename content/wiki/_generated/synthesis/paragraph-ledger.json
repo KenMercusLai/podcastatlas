@@ -289,12 +289,13 @@
       "d9074e43b7b103fc0d0097b207bf8018227d6e146ca0eb75638118627687641c",
       "b16a38bd6e190222f7f3e6f0535803ce60ae7f3304e3477dfcdd995a15fb502f",
       "ed252faccaaf1dc4e8c654d3406a6a1a0fc3a6f6fe78821348d1b123c7e85a5c",
-      "32b62a0e1fc3144c5e7770721fc745607afef0d0cf46a8fe94d35cab377dbbf9"
+      "32b62a0e1fc3144c5e7770721fc745607afef0d0cf46a8fe94d35cab377dbbf9",
+      "396c04c09218df7c8497dea530434860e00ec38668ed4b222f6a27bb86d534e9"
     ],
-    "paragraph_count": 289
+    "paragraph_count": 290
   },
-  "overview_commit": "ad56d5984e33dd64bfc4667fb91ed6bcad4a881b",
-  "overview_digest": "458552700b6c08bfae656a81550b5962763b118feaa95f4cc4d64e13ff68366a",
+  "overview_commit": "c5b547a77fc6923c3266c89b3974c8bc3a9b2fe4",
+  "overview_digest": "0229fd24a31630d0785b764e5d50b79159b165817c51bc79e6188109c4af9615",
   "paragraphs": [
     {
       "id": "8a771097ddfd7388b548e15df7342514d4c5e1ff50b05589df78e1a5686991fe",
@@ -8931,6 +8932,50 @@
         "ValuesAsOperationalAsset",
         "WholeCompanyBranding",
         "how-modern-brands-build-loyalty-purpose-and-identity-andy-stalman-shekhar-natarajan-podcast"
+      ]
+    },
+    {
+      "id": "396c04c09218df7c8497dea530434860e00ec38668ed4b222f6a27bb86d534e9",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "ai-and-technology"
+      ],
+      "text": "The latest addition is [[waimai-chengwei-haidilao-zengzhang-zuikuai-de-yewu-legao-biaoshi-buhui-yong-ai-lai-sheji-chanpin-1008870590]], a [[ShengdongZaokafei|声动早咖啡]] business-news roundup linking consumer demand fragmentation with AI-era product boundaries. It adds [[NongfuSpring|农夫山泉]], [[OrientalLeaf|东方树叶]], [[PackagedWaterPriceWar]], [[RestaurantDeliveryExtension]], [[VolkswagenGroup|大众汽车]], [[AutomotiveOvercapacityRestructuring]], [[Yadea|雅迪]], [[AimaTechnology|爱玛]], [[Ninebot|九号]], [[NiuTechnologies|小牛]], [[ElectricTwoWheelerMarketDivergence]], [[Lego|乐高]], [[AdultToyMarketExpansion]], [[ToyDesignHumanCreativityBoundary]], [[MacStudio|Mac Studio]], and [[PerplexityComputer|Perplexity Computer]], while extending [[Haidilao|海底捞]], [[LaoPuGold|老铺黄金]], [[MacMini|Mac mini]], [[Coffee|Coffee / 咖啡]], [[CommodityPriceExposure]], [[Apple]], [[Nvidia]], [[Perplexity]], [[HumanJudgmentUnderAI]], and [[AIContentDevaluation]]. Its core synthesis is that companies under core-category or margin pressure are pursuing adjacent occasions rather than only raising volume: Nongfu Spring leans on tea drinks as water slows, Haidilao turns delivery and one-person meals into a growth branch, electric two-wheeler challengers use smart features to diverge from legacy makers, Lao Pu Gold's premium faces gold-price value perception risk, Apple hardware is tied to local agent demand, and Lego draws a public line between AI assistance and human product creativity. No settled contradiction is recorded; financial figures, product specs, financing discussions, and industry-report readings remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 3,
+        "business-and-markets": 6,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "AIContentDevaluation",
+        "AdultToyMarketExpansion",
+        "AimaTechnology",
+        "Apple",
+        "AutomotiveOvercapacityRestructuring",
+        "Coffee",
+        "CommodityPriceExposure",
+        "ElectricTwoWheelerMarketDivergence",
+        "Haidilao",
+        "HumanJudgmentUnderAI",
+        "LaoPuGold",
+        "Lego",
+        "MacMini",
+        "MacStudio",
+        "Ninebot",
+        "NiuTechnologies",
+        "NongfuSpring",
+        "Nvidia",
+        "OrientalLeaf",
+        "PackagedWaterPriceWar",
+        "Perplexity",
+        "PerplexityComputer",
+        "RestaurantDeliveryExtension",
+        "ShengdongZaokafei",
+        "ToyDesignHumanCreativityBoundary",
+        "VolkswagenGroup",
+        "Yadea",
+        "waimai-chengwei-haidilao-zengzhang-zuikuai-de-yewu-legao-biaoshi-buhui-yong-ai-lai-sheji-chanpin-1008870590"
       ]
     }
   ],

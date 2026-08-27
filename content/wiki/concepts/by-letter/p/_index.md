@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5647
+wiki_total_pages: 5654
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -17,6 +17,9 @@ wiki_pages:
   - key: "PacingTheFrontier"
     title: "Pacing the Frontier"
     url: "/wiki/concepts/pacingthefrontier/"
+  - key: "PackagedWaterPriceWar"
+    title: "Packaged Water Price War"
+    url: "/wiki/concepts/packagedwaterpricewar/"
   - key: "PackagingAsProductExperience"
     title: "Packaging As Product Experience"
     url: "/wiki/concepts/packagingasproductexperience/"

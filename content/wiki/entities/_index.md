@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 7909
+wiki_total_pages: 7919
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -311,6 +311,9 @@ wiki_pages:
   - key: "AIWeirdnessBlog"
     title: "AI Weirdness Blog"
     url: "/wiki/entities/aiweirdnessblog/"
+  - key: "AimaTechnology"
+    title: "Aima Technology / 爱玛"
+    url: "/wiki/entities/aimatechnology/"
   - key: "AirChina"
     title: "Air China / 国航"
     url: "/wiki/entities/airchina/"

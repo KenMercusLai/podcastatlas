@@ -12496,3 +12496,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-27] ingest | 外卖成为海底捞增长最快的业务，乐高表示不会用 AI 来设计产品
+
+Added source page for 声动早咖啡 episode 1008870590: Nongfu Spring tea growth versus packaged-water pressure, Haidilao delivery and one-person meal expansion, Brazil Arabica supply disruption, Apple Mac mini / Mac Studio local-AI hardware demand, Nvidia's reported Perplexity investment talks, Volkswagen restructuring resistance, divergent Chinese electric two-wheeler results, Lao Pu Gold's gold-jewelry value-perception risk, and Lego's adult-market expansion plus human-design AI boundary. Created Nongfu Spring, Oriental Leaf, Lego, Volkswagen Group, Yadea, Aima Technology, Ninebot, Niu Technologies, Mac Studio, Perplexity Computer, Packaged Water Price War, Restaurant Delivery Extension, Automotive Overcapacity Restructuring, Electric Two-Wheeler Market Divergence, Gold Jewelry Value Perception Risk, Adult Toy Market Expansion, and Toy Design Human Creativity Boundary pages; migrated Haidilao, Lao Pu Gold, and Mac Mini to synthesis-v1. No direct contradiction found; reported financial figures, product specifications, financing discussions, restructuring plans, and industry-report readings remain source-scoped.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

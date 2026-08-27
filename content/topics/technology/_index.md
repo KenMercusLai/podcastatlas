@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2503
+topic_total_pages: 2507
 topic_concepts:
   - key: "AcademicAIResearchRole"
     title: "Academic AI Research Role"
@@ -3268,6 +3268,9 @@ topic_concepts:
   - key: "TouchNet"
     title: "TouchNet"
     url: "/wiki/concepts/touchnet/"
+  - key: "ToyDesignHumanCreativityBoundary"
+    title: "Toy Design Human Creativity Boundary"
+    url: "/wiki/concepts/toydesignhumancreativityboundary/"
   - key: "TPUPodSystemOptimization"
     title: "TPU Pod System Optimization"
     url: "/wiki/concepts/tpupodsystemoptimization/"
@@ -4805,6 +4808,9 @@ topic_entities:
   - key: "LeEco"
     title: "LeEco / 乐视"
     url: "/wiki/entities/leeco/"
+  - key: "Lego"
+    title: "Lego / 乐高"
+    url: "/wiki/entities/lego/"
   - key: "LeoMirani"
     title: "Leo Mirani"
     url: "/wiki/entities/leomirani/"
@@ -4874,6 +4880,9 @@ topic_entities:
   - key: "MacMini"
     title: "Mac Mini"
     url: "/wiki/entities/macmini/"
+  - key: "MacStudio"
+    title: "Mac Studio"
+    url: "/wiki/entities/macstudio/"
   - key: "MacBook"
     title: "MacBook"
     url: "/wiki/entities/macbook/"
@@ -7404,6 +7413,9 @@ topic_sources:
   - key: "guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f"
     title: "国产 AI 算力能凭「超节点」弯道超车吗？｜WAIC 深度观察 S10E23"
     url: "/wiki/sources/guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f/"
+  - key: "waimai-chengwei-haidilao-zengzhang-zuikuai-de-yewu-legao-biaoshi-buhui-yong-ai-lai-sheji-chanpin-1008870590"
+    title: "外卖成为海底捞增长最快的业务，乐高表示不会用 AI 来设计产品"
+    url: "/wiki/sources/waimai-chengwei-haidilao-zengzhang-zuikuai-de-yewu-legao-biaoshi-buhui-yong-ai-lai-sheji-chanpin-1008870590/"
   - key: "ta-xiang-zao-yi-ge-ai-shidai-de-chaoji-youlechang-duitan-roi-mujian-chuangshiren-ceo-ltfh-on-4qqz-ardqury4g0jejec"
     title: "她想造一个 AI 时代的“超级游乐场”｜对谈 Roi：幕间创始人 / CEO"
     url: "/wiki/sources/ta-xiang-zao-yi-ge-ai-shidai-de-chaoji-youlechang-duitan-roi-mujian-chuangshiren-ceo-ltfh-on-4qqz-ardqury4g0jejec/"
