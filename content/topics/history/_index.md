@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1499
+topic_total_pages: 1501
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -61,6 +61,9 @@ topic_concepts:
   - key: "AuspiciousOmenPolitics"
     title: "Auspicious Omen Politics / 祥瑞政治"
     url: "/wiki/concepts/auspiciousomenpolitics/"
+  - key: "AustroHungarianDualMonarchy"
+    title: "Austro-Hungarian Dual Monarchy"
+    url: "/wiki/concepts/austrohungariandualmonarchy/"
   - key: "AuthorAdmirationPowerRisk"
     title: "Author Admiration Power Risk"
     url: "/wiki/concepts/authoradmirationpowerrisk/"
@@ -3678,6 +3681,9 @@ topic_sources:
   - key: "65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922"
     title: "65.龙王之怒：1931年的长江洪水"
     url: "/wiki/sources/65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922/"
+  - key: "689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702"
+    title: "689. A Murderous Affair: The Habsburgs' Greatest Scandal (Part 1)"
+    url: "/wiki/sources/689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702/"
   - key: "69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465"
     title: "69.闲聊推理文学：历史学者可不就是侦探吗！"
     url: "/wiki/sources/69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465/"

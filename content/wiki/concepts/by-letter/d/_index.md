@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 5786
+wiki_total_pages: 5788
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -758,6 +758,9 @@ wiki_pages:
   - key: "DynasticHeirLossShock"
     title: "Dynastic Heir Loss Shock"
     url: "/wiki/concepts/dynasticheirlossshock/"
+  - key: "DynasticHeirRoleEntrapment"
+    title: "Dynastic Heir Role Entrapment"
+    url: "/wiki/concepts/dynasticheirroleentrapment/"
   - key: "DynasticLegitimacyBackfire"
     title: "Dynastic Legitimacy Backfire / 王朝合法性回旋镖"
     url: "/wiki/concepts/dynasticlegitimacybackfire/"

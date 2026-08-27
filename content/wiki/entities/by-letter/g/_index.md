@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 8026
+wiki_total_pages: 8029
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -197,6 +197,9 @@ wiki_pages:
   - key: "GeorgSimmel"
     title: "Georg Simmel / 齐美尔"
     url: "/wiki/entities/georgsimmel/"
+  - key: "GeorgVonSchonerer"
+    title: "Georg von Schonerer"
+    url: "/wiki/entities/georgvonschonerer/"
   - key: "GeorgWilhelmSteller"
     title: "Georg Wilhelm Steller / 乔治·威廉·斯特勒"
     url: "/wiki/entities/georgwilhelmsteller/"

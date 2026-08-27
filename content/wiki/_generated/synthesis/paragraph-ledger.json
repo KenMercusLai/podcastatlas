@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "b7d227f34bd447800f7c15293cda81af8f70b38685399e1a4c004367452b1d39",
       "050bc1fafc1375ed4925da070d3d23985f1fb8caa98c0ad64f52caf9ea5e8aa0",
       "53d11a93791ef528a4afa44ef140df1047d140b8dc43207806b7c96e03028a60",
       "f64154c320cd179a85da343cbd9d0ef79928cafcec1ccd3c5ce3d5a1681e38ce",
@@ -315,11 +316,45 @@
       "16d531495e2a6294ae198d0b95a352e519f488fcca1dbdae1f416758d1cfa576",
       "a9fec3ceb1b343b1fafeebc9ab2903b46238a861f9aaafd9d15b1460340a08b5"
     ],
-    "paragraph_count": 313
+    "paragraph_count": 314
   },
-  "overview_commit": "ebb6408f6b08e1f91abb4966701fd6652b2d55a0",
-  "overview_digest": "63303b85a00ef90e8c1baff8f22391bffa1667ff35755e72bd243849a2b30f0d",
+  "overview_commit": "15d41ec62c5096fc16733ba0a45c58d697dbcc11",
+  "overview_digest": "a221e0bfc53ef0a0d0fcceba87b1acedcb7111c3291b00635deec6859a6f7b09",
   "paragraphs": [
+    {
+      "id": "b7d227f34bd447800f7c15293cda81af8f70b38685399e1a4c004367452b1d39",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702|689. A Murderous Affair: The Habsburgs' Greatest Scandal (Part 1)]], a [[TheRestIsHistory]] episode that backfills the prehistory for [[690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068|Part 2]] of the Mayerling sequence. It adds [[PrincessStephanieOfBelgium]], [[ElisabethMarieOfAustria]], [[GeorgVonSchonerer]], [[AustroHungarianDualMonarchy]], and [[DynasticHeirRoleEntrapment]], while extending [[CrownPrinceRudolf]], [[MaryVetsera]], [[FranzJosephI]], [[EmpressSisi]], [[AustriaHungary]], [[HabsburgDynasty]], [[CountessLarish]], [[MayerlingIncident]], [[KaiserWilhelmII]], [[Vienna]], [[TheRestIsHistory]], [[MayerlingDeathPact]], and [[FinDeSiecleViennaCrisisReading]]. Its core synthesis is that Mayerling is not only a final locked-room scandal: Rudolf's harsh dynastic formation, blocked liberal politics, failed marriage, illness, Vienna's modern-but-strained culture, the dual monarchy's nationalities pressure, and Mary's mediated access all precede the death-pact and suppression problems. No settled contradiction is recorded; psychological causation, medical claims, Mary's agency, and Habsburg-decline readings remain source-scoped.",
+      "topic_scores": {
+        "culture-and-media": 1,
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 2,
+        "science-health-and-climate": 1
+      },
+      "wikilinks": [
+        "689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702",
+        "690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068",
+        "AustriaHungary",
+        "AustroHungarianDualMonarchy",
+        "CountessLarish",
+        "CrownPrinceRudolf",
+        "DynasticHeirRoleEntrapment",
+        "ElisabethMarieOfAustria",
+        "EmpressSisi",
+        "FinDeSiecleViennaCrisisReading",
+        "FranzJosephI",
+        "GeorgVonSchonerer",
+        "HabsburgDynasty",
+        "KaiserWilhelmII",
+        "MaryVetsera",
+        "MayerlingDeathPact",
+        "MayerlingIncident",
+        "PrincessStephanieOfBelgium",
+        "TheRestIsHistory",
+        "Vienna"
+      ]
+    },
     {
       "id": "050bc1fafc1375ed4925da070d3d23985f1fb8caa98c0ad64f52caf9ea5e8aa0",
       "primary_topic": "work-education-and-society",

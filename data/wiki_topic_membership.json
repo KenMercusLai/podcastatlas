@@ -1647,6 +1647,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465": [
     {
       "key": "history",
@@ -8071,6 +8078,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "AustroHungarianDualMonarchy": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "AuteurTheory": [
@@ -18572,6 +18586,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "DynasticHeirRoleEntrapment": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "DynasticLegitimacyBackfire": [

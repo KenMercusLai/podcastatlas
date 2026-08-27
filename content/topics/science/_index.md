@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 819
+topic_total_pages: 820
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -358,6 +358,9 @@ topic_concepts:
   - key: "DunningKrugerEffect"
     title: "Dunning-Kruger Effect"
     url: "/wiki/concepts/dunningkrugereffect/"
+  - key: "DynasticHeirRoleEntrapment"
+    title: "Dynastic Heir Role Entrapment"
+    url: "/wiki/concepts/dynasticheirroleentrapment/"
   - key: "EarlyTransplantationImaginary"
     title: "Early Transplantation Imaginary / 早期移植想象"
     url: "/wiki/concepts/earlytransplantationimaginary/"

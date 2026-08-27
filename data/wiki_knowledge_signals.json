@@ -1778,9 +1778,9 @@
       "url": "/wiki/concepts/attentioncapacityselection/"
     },
     "AustriaHungary": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7203783068 [GLT7203783068].md",
@@ -1788,10 +1788,33 @@
           "show": "The Rest Is History",
           "title": "690. A Murderous Affair: Death at Mayerling (Part 2)",
           "url": "/wiki/sources/690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068/"
+        },
+        {
+          "episode_file": "GLT6194086702 [GLT6194086702].md",
+          "key": "689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702",
+          "show": "The Rest Is History",
+          "title": "689. A Murderous Affair: The Habsburgs' Greatest Scandal (Part 1)",
+          "url": "/wiki/sources/689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-28",
       "url": "/wiki/entities/austriahungary/"
+    },
+    "AustroHungarianDualMonarchy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6194086702 [GLT6194086702].md",
+          "key": "689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702",
+          "show": "The Rest Is History",
+          "title": "689. A Murderous Affair: The Habsburgs' Greatest Scandal (Part 1)",
+          "url": "/wiki/sources/689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/austrohungariandualmonarchy/"
     },
     "AutoimmuneDiseaseSubtyping": {
       "episode_count": 1,
@@ -3828,9 +3851,9 @@
       "url": "/wiki/concepts/counterinsurgencylegitimacytrap/"
     },
     "CountessLarish": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7203783068 [GLT7203783068].md",
@@ -3838,9 +3861,16 @@
           "show": "The Rest Is History",
           "title": "690. A Murderous Affair: Death at Mayerling (Part 2)",
           "url": "/wiki/sources/690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068/"
+        },
+        {
+          "episode_file": "GLT6194086702 [GLT6194086702].md",
+          "key": "689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702",
+          "show": "The Rest Is History",
+          "title": "689. A Murderous Affair: The Habsburgs' Greatest Scandal (Part 1)",
+          "url": "/wiki/sources/689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-28",
       "url": "/wiki/entities/countesslarish/"
     },
     "CountessMarieFestetics": {
@@ -4009,9 +4039,9 @@
       "url": "/wiki/concepts/crisiswithdrawalselfprotection/"
     },
     "CrownPrinceRudolf": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7203783068 [GLT7203783068].md",
@@ -4019,9 +4049,16 @@
           "show": "The Rest Is History",
           "title": "690. A Murderous Affair: Death at Mayerling (Part 2)",
           "url": "/wiki/sources/690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068/"
+        },
+        {
+          "episode_file": "GLT6194086702 [GLT6194086702].md",
+          "key": "689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702",
+          "show": "The Rest Is History",
+          "title": "689. A Murderous Affair: The Habsburgs' Greatest Scandal (Part 1)",
+          "url": "/wiki/sources/689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-28",
       "url": "/wiki/entities/crownprincerudolf/"
     },
     "CuiYanLateHan": {
@@ -4979,6 +5016,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/dynasticheirlossshock/"
     },
+    "DynasticHeirRoleEntrapment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6194086702 [GLT6194086702].md",
+          "key": "689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702",
+          "show": "The Rest Is History",
+          "title": "689. A Murderous Affair: The Habsburgs' Greatest Scandal (Part 1)",
+          "url": "/wiki/sources/689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/dynasticheirroleentrapment/"
+    },
     "DynasticScandalSuppression": {
       "episode_count": 1,
       "show_count": 1,
@@ -5049,6 +5102,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/electrictwowheelermarketdivergence/"
+    },
+    "ElisabethMarieOfAustria": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6194086702 [GLT6194086702].md",
+          "key": "689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702",
+          "show": "The Rest Is History",
+          "title": "689. A Murderous Affair: The Habsburgs' Greatest Scandal (Part 1)",
+          "url": "/wiki/sources/689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/elisabethmarieofaustria/"
     },
     "EliteEndorsementReputationMaking": {
       "episode_count": 3,
@@ -5523,9 +5592,9 @@
       "url": "/wiki/entities/empressdowagerdoumiao/"
     },
     "EmpressSisi": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7203783068 [GLT7203783068].md",
@@ -5533,9 +5602,16 @@
           "show": "The Rest Is History",
           "title": "690. A Murderous Affair: Death at Mayerling (Part 2)",
           "url": "/wiki/sources/690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068/"
+        },
+        {
+          "episode_file": "GLT6194086702 [GLT6194086702].md",
+          "key": "689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702",
+          "show": "The Rest Is History",
+          "title": "689. A Murderous Affair: The Habsburgs' Greatest Scandal (Part 1)",
+          "url": "/wiki/sources/689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-28",
       "url": "/wiki/entities/empresssisi/"
     },
     "EmptyReputationRealityGap": {
@@ -6144,9 +6220,9 @@
       "url": "/wiki/concepts/fictionashistoricalevidence/"
     },
     "FinDeSiecleViennaCrisisReading": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7203783068 [GLT7203783068].md",
@@ -6154,9 +6230,16 @@
           "show": "The Rest Is History",
           "title": "690. A Murderous Affair: Death at Mayerling (Part 2)",
           "url": "/wiki/sources/690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068/"
+        },
+        {
+          "episode_file": "GLT6194086702 [GLT6194086702].md",
+          "key": "689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702",
+          "show": "The Rest Is History",
+          "title": "689. A Murderous Affair: The Habsburgs' Greatest Scandal (Part 1)",
+          "url": "/wiki/sources/689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-28",
       "url": "/wiki/concepts/findesiecleviennacrisisreading/"
     },
     "FlowClutchLearningDistinction": {
@@ -6437,9 +6520,9 @@
       "url": "/wiki/entities/franzferdinand/"
     },
     "FranzJosephI": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7203783068 [GLT7203783068].md",
@@ -6447,9 +6530,16 @@
           "show": "The Rest Is History",
           "title": "690. A Murderous Affair: Death at Mayerling (Part 2)",
           "url": "/wiki/sources/690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068/"
+        },
+        {
+          "episode_file": "GLT6194086702 [GLT6194086702].md",
+          "key": "689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702",
+          "show": "The Rest Is History",
+          "title": "689. A Murderous Affair: The Habsburgs' Greatest Scandal (Part 1)",
+          "url": "/wiki/sources/689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-28",
       "url": "/wiki/entities/franzjosephi/"
     },
     "FraserMcIlwraith": {
@@ -6731,6 +6821,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/geometricunity/"
+    },
+    "GeorgVonSchonerer": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6194086702 [GLT6194086702].md",
+          "key": "689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702",
+          "show": "The Rest Is History",
+          "title": "689. A Murderous Affair: The Habsburgs' Greatest Scandal (Part 1)",
+          "url": "/wiki/sources/689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/georgvonschonerer/"
     },
     "GlobalProductLocalization": {
       "episode_count": 15,
@@ -7362,9 +7468,9 @@
       "url": "/wiki/entities/guoyilatehan/"
     },
     "HabsburgDynasty": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7203783068 [GLT7203783068].md",
@@ -7372,9 +7478,16 @@
           "show": "The Rest Is History",
           "title": "690. A Murderous Affair: Death at Mayerling (Part 2)",
           "url": "/wiki/sources/690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068/"
+        },
+        {
+          "episode_file": "GLT6194086702 [GLT6194086702].md",
+          "key": "689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702",
+          "show": "The Rest Is History",
+          "title": "689. A Murderous Affair: The Habsburgs' Greatest Scandal (Part 1)",
+          "url": "/wiki/sources/689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-28",
       "url": "/wiki/entities/habsburgdynasty/"
     },
     "Haidilao": {
@@ -9500,9 +9613,9 @@
       "url": "/wiki/entities/jushou/"
     },
     "KaiserWilhelmII": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7203783068 [GLT7203783068].md",
@@ -9510,9 +9623,16 @@
           "show": "The Rest Is History",
           "title": "690. A Murderous Affair: Death at Mayerling (Part 2)",
           "url": "/wiki/sources/690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068/"
+        },
+        {
+          "episode_file": "GLT6194086702 [GLT6194086702].md",
+          "key": "689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702",
+          "show": "The Rest Is History",
+          "title": "689. A Murderous Affair: The Habsburgs' Greatest Scandal (Part 1)",
+          "url": "/wiki/sources/689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-28",
       "url": "/wiki/entities/kaiserwilhelmii/"
     },
     "KarlLudwigOfAustria": {
@@ -11690,9 +11810,9 @@
       "url": "/wiki/entities/maryqueenofscots/"
     },
     "MaryVetsera": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7203783068 [GLT7203783068].md",
@@ -11700,9 +11820,16 @@
           "show": "The Rest Is History",
           "title": "690. A Murderous Affair: Death at Mayerling (Part 2)",
           "url": "/wiki/sources/690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068/"
+        },
+        {
+          "episode_file": "GLT6194086702 [GLT6194086702].md",
+          "key": "689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702",
+          "show": "The Rest Is History",
+          "title": "689. A Murderous Affair: The Habsburgs' Greatest Scandal (Part 1)",
+          "url": "/wiki/sources/689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-28",
       "url": "/wiki/entities/maryvetsera/"
     },
     "MassProducedAIIntimacy": {
@@ -11770,9 +11897,9 @@
       "url": "/wiki/entities/maxkrummel/"
     },
     "MayerlingDeathPact": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7203783068 [GLT7203783068].md",
@@ -11780,15 +11907,22 @@
           "show": "The Rest Is History",
           "title": "690. A Murderous Affair: Death at Mayerling (Part 2)",
           "url": "/wiki/sources/690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068/"
+        },
+        {
+          "episode_file": "GLT6194086702 [GLT6194086702].md",
+          "key": "689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702",
+          "show": "The Rest Is History",
+          "title": "689. A Murderous Affair: The Habsburgs' Greatest Scandal (Part 1)",
+          "url": "/wiki/sources/689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-28",
       "url": "/wiki/concepts/mayerlingdeathpact/"
     },
     "MayerlingIncident": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7203783068 [GLT7203783068].md",
@@ -11796,9 +11930,16 @@
           "show": "The Rest Is History",
           "title": "690. A Murderous Affair: Death at Mayerling (Part 2)",
           "url": "/wiki/sources/690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068/"
+        },
+        {
+          "episode_file": "GLT6194086702 [GLT6194086702].md",
+          "key": "689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702",
+          "show": "The Rest Is History",
+          "title": "689. A Murderous Affair: The Habsburgs' Greatest Scandal (Part 1)",
+          "url": "/wiki/sources/689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-28",
       "url": "/wiki/entities/mayerlingincident/"
     },
     "MayoClinic": {
@@ -14327,6 +14468,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/preventivehealthscreening/"
+    },
+    "PrincessStephanieOfBelgium": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6194086702 [GLT6194086702].md",
+          "key": "689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702",
+          "show": "The Rest Is History",
+          "title": "689. A Murderous Affair: The Habsburgs' Greatest Scandal (Part 1)",
+          "url": "/wiki/sources/689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/princessstephanieofbelgium/"
     },
     "PrisonRitualLegitimacyRefusal": {
       "episode_count": 1,
@@ -17084,9 +17241,9 @@
       "url": "/wiki/entities/teyanataylor/"
     },
     "TheRestIsHistory": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "GLT4665799025 [GLT4665799025].md",
@@ -17150,9 +17307,16 @@
           "show": "The Rest Is History",
           "title": "690. A Murderous Affair: Death at Mayerling (Part 2)",
           "url": "/wiki/sources/690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068/"
+        },
+        {
+          "episode_file": "GLT6194086702 [GLT6194086702].md",
+          "key": "689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702",
+          "show": "The Rest Is History",
+          "title": "689. A Murderous Affair: The Habsburgs' Greatest Scandal (Part 1)",
+          "url": "/wiki/sources/689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-28",
       "url": "/wiki/entities/therestishistory/"
     },
     "TheTroubles": {
@@ -18000,9 +18164,9 @@
       "url": "/wiki/concepts/vernacularfemalereligiouswriting/"
     },
     "Vienna": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 4,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "Elbows up, again： a US-Canada trade flare-up [6a8c0fa3a89d26398ee7a5db].md",
@@ -18031,9 +18195,16 @@
           "show": "The Rest Is History",
           "title": "690. A Murderous Affair: Death at Mayerling (Part 2)",
           "url": "/wiki/sources/690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068/"
+        },
+        {
+          "episode_file": "GLT6194086702 [GLT6194086702].md",
+          "key": "689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702",
+          "show": "The Rest Is History",
+          "title": "689. A Murderous Affair: The Habsburgs' Greatest Scandal (Part 1)",
+          "url": "/wiki/sources/689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-28",
       "url": "/wiki/entities/vienna/"
     },
     "ViennaSocialHousingScale": {

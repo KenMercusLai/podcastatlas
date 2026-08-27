@@ -12,7 +12,8 @@ sources:
   - 698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988
   - 697-the-troubles-murder-in-belfast-part-1-glt4877520736
   - 690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068
-last_updated: 2026-08-27
+  - 689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702
+last_updated: 2026-08-28
 knowledge_schema: synthesis-v1
 ---
 
@@ -24,14 +25,14 @@ The Rest Is History is a narrative history podcast represented in the wiki throu
 
 ## Current Profile
 
-The current wiki profile covers three show uses. The Elizabeth I versus Catholics sequence treats court security, dynastic succession, espionage, privateering, the Dutch Revolt, Mary Stuart, and the Armada path as a connected confessional-political field. The Troubles sequence treats Northern Ireland's escalation as a series of institutional, memory, policing, paramilitary, and counterinsurgency decisions rather than as timeless hatred. The Mayerling episode adds a late-Habsburg branch where romance, mental distress, Catholic burial, information suppression, and succession damage converge around [[CrownPrinceRudolf]] and [[MaryVetsera]].
+The current wiki profile covers three show uses. The Elizabeth I versus Catholics sequence treats court security, dynastic succession, espionage, privateering, the Dutch Revolt, Mary Stuart, and the Armada path as a connected confessional-political field. The Troubles sequence treats Northern Ireland's escalation as a series of institutional, memory, policing, paramilitary, and counterinsurgency decisions rather than as timeless hatred. The two-part Mayerling branch treats late-Habsburg scandal as a convergence of imperial family formation, Vienna modernity, nationalism, mental distress, clandestine romance, Catholic burial, information suppression, and succession damage around [[CrownPrinceRudolf]] and [[MaryVetsera]].
 
 ## Key Characteristics
 
 - The show is used in the wiki as a source of chronological narrative history with emphasis on decision sequences, symbolic moments, and contingency.
 - Its Elizabethan branch connects dynastic vulnerability, Catholic-Protestant conflict, intelligence work, maritime predation, and war escalation.
 - Its Northern Ireland branch connects historical memory, state design, civil rights, policing legitimacy, armed mobilization, and counterinsurgency backlash.
-- Its Mayerling branch connects intimate scandal, [[HabsburgDynasty|Habsburg]] succession, Catholic burial legitimacy, court information control, and fin-de-siecle Vienna.
+- Its Mayerling branch connects intimate scandal, [[HabsburgDynasty|Habsburg]] succession, the [[AustroHungarianDualMonarchy]], Catholic burial legitimacy, court information control, and fin-de-siecle Vienna.
 - Across branches, the sources usually resist single-cause inevitability while still showing how institutions make private acts politically consequential.
 
 ## Evidence
@@ -39,7 +40,7 @@ The current wiki profile covers three show uses. The Elizabeth I versus Catholic
 - Elizabethan security-state branch: [[691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561]], [[692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025]], [[694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087]], and [[696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496]] follow [[ElizabethI|Elizabeth I]], [[MaryQueenOfScots|Mary, Queen of Scots]], [[WilliamCecil|William Cecil / Lord Burleigh]], [[FrancisWalsingham]], priest missions, plots, trial, and execution.
 - Elizabethan maritime and Dutch-war branch: [[693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329]] and [[695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455]] connect [[FrancisDrake]], [[JohnHawkins]], the [[GoldenHind]], the [[DutchRevolt]], [[Antwerp]], [[TreatyOfNonsuch]], and [[PhilipSidney|Sir Philip Sidney]] to the same war path.
 - Northern Ireland escalation branch: [[697-the-troubles-murder-in-belfast-part-1-glt4877520736]], [[698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988]], and [[699-the-troubles-return-of-the-ira-part-3-glt9519811642]] move from partition and institutional discrimination through civil-rights confrontation, loyalist violence, British Army deployment, the [[ProvisionalIRA]], [[FallsCurfew]], and [[OperationDemetrius]].
-- Mayerling branch: [[690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068]] follows [[CrownPrinceRudolf]], [[MaryVetsera]], [[FranzJosephI]], [[EmpressSisi]], [[CountessLarish]], and the [[MayerlingIncident]] through affair, death, burial, suppression, and succession aftermath.
+- Mayerling branch: [[689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702]] and [[690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068]] follow [[CrownPrinceRudolf]], [[MaryVetsera]], [[FranzJosephI]], [[EmpressSisi]], [[CountessLarish]], and the [[MayerlingIncident]] from imperial family and Vienna prehistory through affair, death, burial, suppression, and succession aftermath.
 
 ## Qualifications
 
@@ -48,7 +49,7 @@ This page summarizes only the episodes currently ingested into the wiki. The sho
 ## What Changed
 
 - Migrated the show page to synthesis-v1 while preserving the complete prior source order.
-- Added the Mayerling/Habsburg branch as a third current wiki use of The Rest Is History.
+- Expanded the Mayerling/Habsburg branch from one aftermath episode to a two-part sequence with prehistory and aftermath.
 - Compressed the legacy source-by-source append prose into evidence grouped by branch.
 
 ## Relationships
@@ -57,4 +58,5 @@ This page summarizes only the episodes currently ingested into the wiki. The sho
 - [[TheTroubles]] - conflict branch where the show traces Northern Ireland escalation.
 - [[MayerlingIncident]] - Habsburg scandal branch added by the Mayerling episode.
 - [[HistoricalMemoryContest]] - recurring interpretive concern across Drake, Northern Ireland, and Habsburg tragedy memory.
+- [[DynasticHeirRoleEntrapment]] - new Mayerling prehistory concept grounded by the show.
 - [[DynasticHeirLossShock]] - Mayerling succession pattern newly grounded by the show.

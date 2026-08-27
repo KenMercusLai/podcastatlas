@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [689. A Murderous Affair: The Habsburgs' Greatest Scandal (Part 1)](sources/689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702.md) — The Rest Is History episode on Crown Prince Rudolf's Habsburg formation, Austria-Hungary's dual-monarchy strains, fin-de-siecle Vienna, and Mary Vetsera's first access to Rudolf.
 - [Accelerate Learning & Increase Cognitive Capacity | Dr. Tommy Wood](sources/accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551.md) — Huberman Lab episode with Tommy Wood on adult neuroplasticity, multimodal learning, flow versus clutch states, exercise-specific brain adaptation, nutrient sufficiency, dementia prevention, and concussion recovery.
 - [VOL.214 为什么越优秀的人，越容易在职场被PUA到怀疑自己？从《铁拳教育》聊到“铁拳职场”](sources/vol-214-weishenme-yue-youxiu-de-ren-yue-rongyi-zai-zhichang-bei-pua-dao-huaiyi-ziji-cong-tiequan-jiaoyu-liaodao-tiequan-zhichang-lmx4ewrw7kvcqpyh-q3bur35ybgz.md) — 这病说来话长 episode with 阿汤 and 南基贺 on 《铁拳教育》, workplace bullying, structural power imbalance, parental projection, psychological boundaries, evidence preservation, and nonviolent complaint/support routes.
 - [《资治通鉴·汉纪》857丨学会共赢，才是真正的赢家](sources/zizhi-tongjian-hanji-857-xuehui-gongying-cai-shi-zhenzheng-de-yingjia-lh3zx6pw-4ib7owiz8c68bv-9htn.md) — 芮淇讲透资治通鉴 episode on win-win relationship framing, Huangfu Gui's frontier-pacification self-defense, Xu Huang and Zuo Guan's gift solicitation, and eunuch-gated reward and punishment pressure.
@@ -1608,6 +1609,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Princess Stephanie of Belgium](entities/PrincessStephanieOfBelgium.md) — Rudolf's arranged wife, whose fearful marriage, illness context, and daughter Elisabeth Marie sharpen the Mayerling succession pressure.
+- [Elisabeth Marie of Austria](entities/ElisabethMarieOfAustria.md) — Rudolf and Stephanie's daughter, named as the later Red Archduchess and as a dynastic child who does not resolve the male-heir problem.
+- [Georg von Schonerer](entities/GeorgVonSchonerer.md) — Pan-German nationalist and extremist antisemite used as Rudolf's political counterpoint in late-Habsburg Vienna.
 - [Tommy Wood](entities/TommyWood.md) — Huberman Lab guest explaining adult neuroplasticity, learning challenge, exercise, nutrient sufficiency, dementia prevention, concussion recovery, and strongman training.
 - [Better Brain](entities/BetterBrain.md) — Brain-health organization named as Tommy Wood's chief-science-officer context in the Huberman Lab episode.
 - [BrainHQ](entities/BrainHQ.md) — Processing-speed-oriented brain-training platform discussed in Wood's cognitive-aging and dementia-prevention branch.
@@ -9638,6 +9642,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Austro-Hungarian Dual Monarchy](concepts/AustroHungarianDualMonarchy.md) — 1867 compromise preserving Habsburg rule while formalizing budget, army, tariff, minority-rights, and nationalities tensions.
+- [Dynastic Heir Role Entrapment](concepts/DynasticHeirRoleEntrapment.md) — Pattern where heir status creates symbolic burden, harsh formation, arranged marriage, blocked agency, and political frustration before succession.
 - [Multimodal Adult Neuroplasticity](concepts/MultimodalAdultNeuroplasticity.md) — Adult learning frame where novel, difficult, meaningful activities combine cognition, movement, feedback, social context, and mistakes.
 - [Flow-Clutch Learning Distinction](concepts/FlowClutchLearningDistinction.md) — Learning and performance-state boundary separating effortless-feeling flow from effortful clutch states and error-rich practice.
 - [Exercise-Specific Brain Adaptation](concepts/ExerciseSpecificBrainAdaptation.md) — Brain-health exercise frame distinguishing acute arousal, aerobic/HIIT hippocampal effects, resistance-training white-matter effects, and recovery boundaries.

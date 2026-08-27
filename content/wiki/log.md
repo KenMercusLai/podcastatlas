@@ -12828,3 +12828,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-28] ingest | 689. A Murderous Affair: The Habsburgs' Greatest Scandal (Part 1)
+
+Added source page for The Rest Is History episode on Crown Prince Rudolf's formation, Franz Joseph and Sisi's family world, the 1867 dual monarchy, fin-de-siecle Vienna, Rudolf's politics and marriage, Mary Vetsera's early pursuit, and Countess Larish's access brokerage before Mayerling. Created Princess Stephanie of Belgium, Elisabeth Marie of Austria, Georg von Schonerer, Austro-Hungarian Dual Monarchy, and Dynastic Heir Role Entrapment; updated Crown Prince Rudolf, Mary Vetsera, Franz Joseph I, Empress Sisi, Austria-Hungary, Habsburg Dynasty, Countess Larish, Mayerling Incident, Kaiser Wilhelm II, Mayerling Death Pact, Fin-de-Siecle Vienna Crisis Reading, Vienna, The Rest Is History, overview, and index. No settled contradiction found; Countess Larisch is kept on the existing CountessLarish route, and psychological, medical, agency, and decline-causation claims remain source-scoped.
+
+## [2026-08-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

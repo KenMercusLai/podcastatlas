@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 5786
+wiki_total_pages: 5788
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1772,6 +1772,9 @@ wiki_pages:
   - key: "Austerity"
     title: "Austerity"
     url: "/wiki/concepts/austerity/"
+  - key: "AustroHungarianDualMonarchy"
+    title: "Austro-Hungarian Dual Monarchy"
+    url: "/wiki/concepts/austrohungariandualmonarchy/"
   - key: "AuteurTheory"
     title: "Auteur Theory"
     url: "/wiki/concepts/auteurtheory/"
