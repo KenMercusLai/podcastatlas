@@ -13,6 +13,7 @@ sources:
   - how-your-immune-system-works-how-to-improve-it-dr-max-krummel-scim7009523546
   - essentials-how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim2090153799
   - your-top-health-questions-answered-scim2882548864
+  - essentials-using-meditation-to-focus-view-consciousness-expand-your-mind-dr-sam-harris-scim7293799235
 last_updated: 2026-08-28
 knowledge_schema: synthesis-v1
 ---
@@ -20,10 +21,10 @@ knowledge_schema: synthesis-v1
 # Andrew Huberman
 
 ## Overview
-Andrew Huberman is the [[HubermanLab]] host voice in source notes on nutrition and mental health, motivation and attention neuroscience, creativity process, emotion regulation, female hormone health, human-centered AI, neuromodulator-based self-regulation, immune-system biology, discipline-centered leadership, and broad listener Q&A.
+Andrew Huberman is the [[HubermanLab]] host voice in source notes on nutrition and mental health, motivation and attention neuroscience, creativity process, emotion regulation, female hormone health, human-centered AI, neuromodulator-based self-regulation, immune-system biology, discipline-centered leadership, broad listener Q&A, and meditation/consciousness inquiry.
 
 ## Current Profile
-The current evidence shows Huberman translating guest expertise, solo Essentials explanations, and listener questions into practical questions about biology, attention, emotion, health, behavior, technology, and leadership. With [[ChrisPalmer]], he frames nutrition and ketosis through psychiatric supervision boundaries. With [[MasudHusain]], he presses motivation and procrastination beyond simple dopamine advice. With [[RickRubin]], he treats creativity as attention, feedback, and felt process. With [[RalphAdolphs]], he connects emotion science to regulation without flattening emotions into one brain region or one tool. With [[SaraGottfried]], he frames women's hormone health through longitudinal measurement and individualized clinical decisions. With [[FeiFeiLi]], he extends that host role into AI and human agency. In the neuromodulator episode, he works without a guest to map dopamine, epinephrine, serotonin, and acetylcholine into timed tools and explicit safety boundaries. With [[MaxKrummel]], he turns immune function, vaccines, sleep, peptides, cancer, aging, and brain-body claims into mechanism questions with clear uncertainty boundaries. With [[JockoWillink]], he draws discipline, exercise, adversity, identity, detachment, and leadership into the same practical-science frame without making Willink's lived military and parenting claims universal protocols. In the Q&A episode, he applies the same style across sleep, circadian rhythm, memory, smell, fertility, menopause, surgery recovery, and passion while defining optimization as realistic support rather than protocol perfection.
+The current evidence shows Huberman translating guest expertise, solo Essentials explanations, and listener questions into practical questions about biology, attention, emotion, health, behavior, technology, leadership, and consciousness. With [[ChrisPalmer]], he frames nutrition and ketosis through psychiatric supervision boundaries. With [[MasudHusain]], he presses motivation and procrastination beyond simple dopamine advice. With [[RickRubin]], he treats creativity as attention, feedback, and felt process. With [[RalphAdolphs]], he connects emotion science to regulation without flattening emotions into one brain region or one tool. With [[SaraGottfried]], he frames women's hormone health through longitudinal measurement and individualized clinical decisions. With [[FeiFeiLi]], he extends that host role into AI and human agency. In the neuromodulator episode, he works without a guest to map dopamine, epinephrine, serotonin, and acetylcholine into timed tools and explicit safety boundaries. With [[MaxKrummel]], he turns immune function, vaccines, sleep, peptides, cancer, aging, and brain-body claims into mechanism questions with clear uncertainty boundaries. With [[JockoWillink]], he draws discipline, exercise, adversity, identity, detachment, and leadership into the same practical-science frame without making Willink's lived military and parenting claims universal protocols. In the Q&A episode, he applies the same style across sleep, circadian rhythm, memory, smell, fertility, menopause, surgery recovery, and passion while defining optimization as realistic support rather than protocol perfection. With [[SamHarris]], he uses questions about the self, flow, internal commentary, psychedelics, and emotional loops to elicit a meditation frame centered on [[NonDualMindfulness]] and ordinary freedom rather than stress reduction alone.
 
 ## Key Characteristics
 - Frames everyday concerns through guest expertise and practical mechanisms.
@@ -32,7 +33,7 @@ The current evidence shows Huberman translating guest expertise, solo Essentials
 - Turns mechanism discussion toward action design, personal measurement, supervised care, learning support, and public responsibility.
 - Bridges neuroscience questions into AI by comparing machine pattern learning with human embodiment, motivation, emotion, and agency.
 - Keeps uncertainty visible when topics involve clinical decisions, future robotics, creative work, or education policy.
-- Organizes mechanisms, lived practices, leadership frames, and listener questions into practical toolkits while warning against over-stacking, universalizing, or protocolizing interventions.
+- Organizes mechanisms, lived practices, leadership frames, listener questions, and first-person meditation claims into practical toolkits while warning against over-stacking, universalizing, or protocolizing interventions.
 
 ## Evidence
 - Nutrition framing: [[essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786]] opens with Huberman introducing nutrition, ketogenic diets, other diets, and patient stories as the episode's scope.
@@ -45,13 +46,14 @@ The current evidence shows Huberman translating guest expertise, solo Essentials
 - Immune-system framing: [[how-your-immune-system-works-how-to-improve-it-dr-max-krummel-scim7009523546]] has Huberman ask Krummel about immune function across aging, cancer, sleep, vaccines, mindset, peptides, autoimmunity, and machine learning.
 - Discipline and leadership framing: [[essentials-how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim2090153799]] has Huberman ask Willink about exercise-generated energy, discipline over motivation, adversity response, identity, detachment, leadership, parenting, and nutrition timing.
 - Listener Q&A framing: [[your-top-health-questions-answered-scim2882548864]] has Huberman answer audience questions about late workouts, morning light, sustainable optimization, memory, smell training, fertility, perimenopause, surgery recovery, and passion discovery.
+- Meditation and consciousness framing: [[essentials-using-meditation-to-focus-view-consciousness-expand-your-mind-dr-sam-harris-scim7293799235]] has Huberman ask Harris about the self, meditation components, flow, actor-observer separation, emotions, psychedelics, and present-moment fulfillment.
 
 ## Qualifications
-The page reflects only the current source notes. It does not make broader claims about Huberman's research background, medical credentials, or advice outside these recorded discussions. The Fei-Fei Li episode includes future-facing discussion of brain/body signals, robotics, creative industries, and WorldLabs that remains source-scoped. The neuromodulator and immune-system episodes include practical claims about sunlight, caffeine, cold exposure, breathing, supplements, nicotine, serotonin, vaccines, peptides, cell banking, meditation, and immune-state modulation that remain source-scoped and medically context-dependent. The Willink episode includes exercise, nutrition timing, leadership, parenting, discipline, detachment, and resilience claims that remain source-scoped lived-practice claims rather than clinical or universal rules. The Q&A episode includes supplement, fertility, testosterone, hormone-therapy, surgery-recovery, and life-advice claims that remain source-scoped and clinically bounded where relevant.
+The page reflects only the current source notes. It does not make broader claims about Huberman's research background, medical credentials, or advice outside these recorded discussions. The Fei-Fei Li episode includes future-facing discussion of brain/body signals, robotics, creative industries, and WorldLabs that remains source-scoped. The neuromodulator and immune-system episodes include practical claims about sunlight, caffeine, cold exposure, breathing, supplements, nicotine, serotonin, vaccines, peptides, cell banking, meditation, and immune-state modulation that remain source-scoped and medically context-dependent. The Willink episode includes exercise, nutrition timing, leadership, parenting, discipline, detachment, and resilience claims that remain source-scoped lived-practice claims rather than clinical or universal rules. The Q&A episode includes supplement, fertility, testosterone, hormone-therapy, surgery-recovery, and life-advice claims that remain source-scoped and clinically bounded where relevant. The Harris episode is philosophical and experiential, so no-self, psychedelic, and ordinary-freedom claims remain source-scoped rather than clinical protocols.
 
 ## What Changed
-- Integrated the solo Q&A episode into Huberman's host profile.
-- Added sustainable optimization, sleep/circadian, memory, fertility, perimenopause, recovery, and passion-discovery question handling.
+- Added Harris's meditation and consciousness episode as a first-person inquiry branch.
+- Expanded Huberman's profile to include non-dual mindfulness, thought identification, psychedelic integration, and ordinary present-moment freedom.
 
 ## Relationships
 - [[HubermanLab]] - show context for his host role.
@@ -63,6 +65,7 @@ The page reflects only the current source notes. It does not make broader claims
 - [[FeiFeiLi]] - guest whose AI and human-centered technology claims he elicits.
 - [[MaxKrummel]] - guest whose immunology and cancer-biology claims he elicits.
 - [[JockoWillink]] - guest whose discipline, resilience, detachment, and leadership claims he elicits.
+- [[SamHarris]] - guest whose meditation, consciousness, no-self, and psychedelic integration claims he elicits.
 - [[NeuromodulatorStateToolkit]] - solo Essentials framework he presents for chemical state regulation.
 - [[ImmuneSystemAsTunableSensorNetwork]] - immune-system framework explored in the Krummel interview.
 - [[ContextDependentBiomedicalInterventions]] - evidence and safety boundary reinforced in the Krummel interview.
@@ -81,3 +84,5 @@ The page reflects only the current source notes. It does not make broader claims
 - [[SelfTestingMemoryPractice]] - Q&A branch for effortful recall and correction.
 - [[FertilityEnergyAvailability]] - Q&A branch for reproductive energy and hormone boundaries.
 - [[PassionDiscoveryThroughEngagement]] - Q&A branch for career direction through input and structure.
+- [[NonDualMindfulness]] - meditation and consciousness branch from the Harris episode.
+- [[PsychedelicOrdinaryFreedom]] - psychedelic integration branch from the Harris episode.

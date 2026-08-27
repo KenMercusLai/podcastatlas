@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 5750
+wiki_total_pages: 5752
 wiki_pages:
   - key: "NamingPowerSocialChange"
     title: "Naming Power In Social Change / 社会变革中的命名权"
@@ -221,6 +221,9 @@ wiki_pages:
   - key: "NonConsensusInnovation"
     title: "Non-Consensus Innovation"
     url: "/wiki/concepts/nonconsensusinnovation/"
+  - key: "NonDualMindfulness"
+    title: "Non-Dual Mindfulness"
+    url: "/wiki/concepts/nondualmindfulness/"
   - key: "NonGAAPEarnings"
     title: "Non-GAAP Earnings"
     url: "/wiki/concepts/nongaapearnings/"

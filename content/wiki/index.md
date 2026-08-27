@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Essentials: Using Meditation to Focus, View Consciousness & Expand Your Mind | Dr. Sam Harris](sources/essentials-using-meditation-to-focus-view-consciousness-expand-your-mind-dr-sam-harris-scim7293799235.md) — Huberman Lab Essentials episode with Sam Harris on meditation, the felt self, non-dual mindfulness, emotional loops, psychedelics, and ordinary present-moment freedom.
 - [Your Top Health Questions Answered](sources/your-top-health-questions-answered-scim2882548864.md) — Huberman Lab solo Q&A on sleep, circadian rhythm, memory, smell training, fertility, perimenopause, surgery recovery, and finding passion without health-optimization burnout.
 - [VOL.216 停止“神化”前额叶：别让网络热词变成你的诊断书](sources/vol-216-tingzhi-shenhua-qianeye-bie-rang-wangluo-reci-biancheng-nide-zhenduanshu-lp0cll17cydzmh36sawfj7-rjwur.md) — 这病说来话长 episode with 阿汤 and 薛小凡 on prefrontal-cortex overattribution, dopamine and ADHD self-diagnosis boundaries, state-dependent self-control, sleep, hunger, impulse, and clinical behavior-change red flags.
 - [Essentials: How to Become Resilient, Forge Your Identity & Lead Others | Jocko Willink](sources/essentials-how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim2090153799.md) — Huberman Lab Essentials episode with Jocko Willink on discipline, resilience, leadership, identity, detachment, deliberate discomfort, and action after adversity.
@@ -1589,6 +1590,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Sam Harris](entities/SamHarris.md) — Huberman Lab guest presenting meditation as first-person inquiry into consciousness, selfing, thought identification, psychedelics, and ordinary freedom.
+- [MDMA](entities/MDMA.md) — Source-scoped psychedelic/entactogenic substance Harris names as important to his early interest in meditation and first-person inquiry.
 - [Jocko Willink](entities/JockoWillink.md) — Huberman Lab Essentials guest framing discipline, resilience, detachment, leadership, identity, and action after adversity through lived military and training experience.
 - [Max Krummel](entities/MaxKrummel.md) — Immunologist and cancer biologist explaining immune-system tuning, T-cell education, immune aging, sleep repair, vaccines, brain-immune coupling, and intervention caution.
 - [University of California San Francisco / UCSF](entities/UniversityOfCaliforniaSanFrancisco.md) — Biomedical-research institution named as Max Krummel's academic context in the Huberman Lab immune-system episode.
@@ -1619,8 +1622,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Darcy (Raised Nutrition)](entities/DarcyRaisedNutrition.md) — Raised Nutrition founder-caller asking whether a niche athletic origin story limits broader wellness appeal.
 - [Cooks Who Feed](entities/CooksWhoFeed.md) — Social-enterprise kitchen-linen company advised to use low-risk B2B trials, referrals, and client-centered impact storytelling.
 - [Seema Sanghavi](entities/SeemaSanghavi.md) — Cooks Who Feed founder-caller focused on convincing B2B buyers to switch vendors.
-- [Huberman Lab](entities/HubermanLab.md) — Show context for episodes on nutrition, mental health, motivation, attention neuroscience, creativity process, emotion science, female hormone health, AI, neuromodulator tools, immune-system biology, discipline, leadership, and listener health Q&A.
-- [Andrew Huberman](entities/AndrewHuberman.md) — Host framing guest discussions, solo Essentials episodes, and listener Q&A on nutrition, mental health, motivation, attention, emotion, AI, hormone health, practical neuroscience, immunology, discipline, leadership, and health routines.
+- [Huberman Lab](entities/HubermanLab.md) — Show context for episodes on nutrition, mental health, motivation, attention neuroscience, creativity process, emotion science, female hormone health, AI, neuromodulator tools, immunology, leadership, health Q&A, and meditation/consciousness inquiry.
+- [Andrew Huberman](entities/AndrewHuberman.md) — Host framing guest discussions, solo Essentials episodes, and listener Q&A on nutrition, motivation, attention, emotion, AI, hormone health, immunology, leadership, health routines, and meditation/consciousness.
 - [Masud Husain](entities/MasudHusain.md) — Neuroscience and neurology guest explaining motivation, apathy, dopamine, attention, selfhood, and cognitive resilience.
 - [Chris Palmer](entities/ChrisPalmer.md) — Psychiatrist grounding the episode's metabolic psychiatry, ketogenic diet, and mitochondrial mental-health claims.
 - [Russell Wilder](entities/RussellWilder.md) — Mayo Clinic physician named as the 1921 developer of the ketogenic diet for epilepsy.
@@ -9562,6 +9565,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Non-Dual Mindfulness](concepts/NonDualMindfulness.md) — Meditation frame where thoughts, emotions, sensations, and selfing appear in awareness without a separate observer behind experience.
+- [Psychedelic Ordinary Freedom](concepts/PsychedelicOrdinaryFreedom.md) — Psychedelic-integration frame where peak states can reveal possibilities but the lasting target is ordinary waking freedom.
 - [Sustainable Health Optimization](concepts/SustainableHealthOptimization.md) — Health-routine frame where sleep, light, exercise, nutrition, and social connection support real life without protocol perfectionism.
 - [Morning Light Circadian Anchoring](concepts/MorningLightCircadianAnchoring.md) — Practice of using ambient outdoor light soon after waking to help set circadian timing, daytime alertness, mood, and later sleep.
 - [Self-Testing Memory Practice](concepts/SelfTestingMemoryPractice.md) — Learning method where effortful recall, mistakes, correction, and later rest or sleep strengthen memory access.
@@ -9621,7 +9626,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Creative Phase Separation](concepts/CreativePhaseSeparation.md) — Rubin's four-mode project model separating seed collection, experimentation, crafting, and completion.
 - [Subconscious Creative Incubation](concepts/SubconsciousCreativeIncubation.md) — Focus-then-disengage rhythm where creative material can keep developing outside direct attention.
 - [Self-Doubt as Creative Check](concepts/SelfDoubtAsCreativeCheck.md) — Source-scoped claim that doubt can undermine creators or serve as a proportionate judgment check.
-- [Awareness Meditation Story Dropping](concepts/AwarenessMeditationStoryDropping.md) — Meditation frame for quieting self-talk and being with arising experience without adding explanatory stories.
+- [Awareness Meditation Story Dropping](concepts/AwarenessMeditationStoryDropping.md) — Meditation frame for noticing arising experience before self-talk, explanatory stories, or identity claims take over.
 - [70mm Film Projection](concepts/SeventyMillimeterFilmProjection.md) — Large-format analog projection treated as a format, venue-infrastructure, and skilled-labor constraint.
 - [Analog Moviegoing Experience](concepts/AnalogMoviegoingExperience.md) — Event value created by physical film projection, historic venues, visible craft, and communal screening.
 - [Founder Pitch Evidence Fit](concepts/FounderPitchEvidenceFit.md) — Pitch standard where founder story, customer insight, timing, numbers, and resilience reinforce one another.
@@ -14586,7 +14591,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Asymmetric Payoff](concepts/AsymmetricPayoff.md) — Limited-downside, large-upside payoff pattern shared by options, early Bitcoin, value investing, and some life choices.
 - [Convexity Exposure](concepts/ConvexityExposure.md) — Nonlinear payoff exposure sought in tail-risk and antifragile portfolio structures.
 - [Tail-Risk Hedging](concepts/TailRiskHedging.md) — Portfolio practice of protecting or benefiting from rare severe market states, constrained by option cost and patience.
-- [Impermanence And No-Self](concepts/ImpermanenceAndNoSelf.md) — Practice frame connecting market uncertainty to impermanence, no-self, and working on causes without controlling outcomes.
+- [Impermanence And No-Self](concepts/ImpermanenceAndNoSelf.md) — Practice frame connecting outcome non-control, non-attachment, and direct inquiry into the felt observer behind experience.
 - [No Better Life](concepts/NoBetterLife.md) — Life-design frame warning that the desire for a finally better life can become another attachment.
 - [Life Antifragility](concepts/LifeAntifragility.md) — Translation of antifragility into health, relationships, money, collaborators, public work, and bounded-upside experiments.
 - [Silent Protagonist](concepts/SilentProtagonist.md) — Systems frame for the invisible seeds, roots, incentives, language, and habits behind visible outcomes.

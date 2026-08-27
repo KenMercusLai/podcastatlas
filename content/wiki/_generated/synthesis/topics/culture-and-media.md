@@ -3,16 +3,16 @@
 generated: true
 topic_id: culture-and-media
 title: "Culture and Media"
-last_updated: 2026-08-27
-as_of_overview_commit: 0eeb1118b4c387939e549227fe470642538540af
-input_digest: 1c5bb102e26c8e22cbdd8ceeceb96bdb391597383dabf64a4da5fc27e0d74b54
+last_updated: 2026-08-28
+as_of_overview_commit: cac8a068f04d3023526abce497b4140efe84c846
+input_digest: f4c3a81f39f5675898ed489c711fe048b87533cc010370530b39521c3e09ee33
 ---
 
 # Culture and Media
 
 ## Current State
 
-The cultural sources use literature, folklore, games, sports strategy, physical media, device histories, platform interfaces, and brands to examine politics, identity, evidence, agency, reception, and human meaning rather than treating culture only as plot or entertainment. The 70mm Marketplace Tech episode adds analog exhibition as cultural technology: old film formats can become current when material format, venue memory, scarce craft, and release-window demand reinforce one another. Existing branches keep source-bound attribution, rule-world folklore, weird fiction, AI interactive entertainment, brand meaning, and platform-shaped reading or listening distinct from pure nostalgia or marketing. The Rubin Huberman Lab episode adds creativity as felt attention and protected taste: art-making depends on direct testing, attention shifts, phase-specific completion, self-doubt as check, and awareness of invented stories rather than only output or inspiration.
+The cultural sources use literature, folklore, games, sports strategy, physical media, device histories, platform interfaces, podcasts, brands, and creative practice to examine politics, identity, evidence, agency, reception, and human meaning rather than treating culture only as plot or entertainment. The 70mm Marketplace Tech episode adds analog exhibition as cultural technology: old film formats can become current when material format, venue memory, scarce craft, and release-window demand reinforce one another. Existing branches keep source-bound attribution, rule-world folklore, weird fiction, AI interactive entertainment, brand meaning, and platform-shaped reading or listening distinct from pure nostalgia or marketing. The Rubin and Harris Huberman Lab episodes extend this practice-facing branch: one frames creativity as felt attention and protected taste, while the other uses podcast conversation to translate meditation, self-talk, and psychedelic integration into ordinary self-understanding.
 
 ## Cross-source Findings
 
@@ -101,3 +101,14 @@ The Rubin Huberman Lab source adds a culture-and-media creativity branch: [[Crea
 
 - The claim is grounded in one process-oriented Huberman Lab Essentials episode and should not be treated as a formal neuroscience model of creativity.
 - The source observations on subconscious processing, meditation, live performance, and surgery healing remain source-scoped.
+
+### Podcast Conversation Can Carry Practice Philosophy
+
+The Harris [[HubermanLab]] episode shows podcast conversation carrying practice philosophy: [[SamHarris]], [[NonDualMindfulness]], [[AwarenessMeditationStoryDropping]], and [[PsychedelicOrdinaryFreedom]] turn meditation, self-talk, and altered-state integration into a cultural object for ordinary self-understanding rather than entertainment alone.
+
+**Evidence:** [[essentials-using-meditation-to-focus-view-consciousness-expand-your-mind-dr-sam-harris-scim7293799235]], [[HubermanLab]], [[SamHarris]], [[NonDualMindfulness]], [[AwarenessMeditationStoryDropping]], [[PsychedelicOrdinaryFreedom]]
+
+**Qualifications:**
+
+- The claim is grounded in one podcast episode and should not be generalized into all interview media.
+- The meditation, no-self, and psychedelic material remains philosophical, experiential, and source-scoped rather than clinical advice.

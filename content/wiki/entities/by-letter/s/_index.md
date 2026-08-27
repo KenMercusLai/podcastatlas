@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 7969
+wiki_total_pages: 7971
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -83,6 +83,9 @@ wiki_pages:
   - key: "SamBankmanFried"
     title: "Sam Bankman-Fried"
     url: "/wiki/entities/sambankmanfried/"
+  - key: "SamHarris"
+    title: "Sam Harris"
+    url: "/wiki/entities/samharris/"
   - key: "SamUys"
     title: "Sam Uys"
     url: "/wiki/entities/samuys/"

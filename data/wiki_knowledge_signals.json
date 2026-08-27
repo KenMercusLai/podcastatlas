@@ -1221,9 +1221,9 @@
       "url": "/wiki/concepts/analogmoviegoingexperience/"
     },
     "AndrewHuberman": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -1294,6 +1294,13 @@
           "show": "Huberman Lab",
           "title": "Your Top Health Questions Answered",
           "url": "/wiki/sources/your-top-health-questions-answered-scim2882548864/"
+        },
+        {
+          "episode_file": "SCIM7293799235 [SCIM7293799235].md",
+          "key": "essentials-using-meditation-to-focus-view-consciousness-expand-your-mind-dr-sam-harris-scim7293799235",
+          "show": "Huberman Lab",
+          "title": "Essentials: Using Meditation to Focus, View Consciousness & Expand Your Mind | Dr. Sam Harris",
+          "url": "/wiki/sources/essentials-using-meditation-to-focus-view-consciousness-expand-your-mind-dr-sam-harris-scim7293799235/"
         }
       ],
       "updated": "2026-08-28",
@@ -1858,9 +1865,9 @@
       "url": "/wiki/concepts/autonomousdrivingresponsibilityboundary/"
     },
     "AwarenessMeditationStoryDropping": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7816635332 [SCIM7816635332].md",
@@ -1868,9 +1875,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Access Your Creativity | Rick Rubin",
           "url": "/wiki/sources/essentials-how-to-access-your-creativity-rick-rubin-scim7816635332/"
+        },
+        {
+          "episode_file": "SCIM7293799235 [SCIM7293799235].md",
+          "key": "essentials-using-meditation-to-focus-view-consciousness-expand-your-mind-dr-sam-harris-scim7293799235",
+          "show": "Huberman Lab",
+          "title": "Essentials: Using Meditation to Focus, View Consciousness & Expand Your Mind | Dr. Sam Harris",
+          "url": "/wiki/sources/essentials-using-meditation-to-focus-view-consciousness-expand-your-mind-dr-sam-harris-scim7293799235/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-28",
       "url": "/wiki/concepts/awarenessmeditationstorydropping/"
     },
     "BaSuLateHan": {
@@ -7197,9 +7211,9 @@
       "url": "/wiki/concepts/huaweismartselectioncarmodel/"
     },
     "HubermanLab": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -7270,6 +7284,13 @@
           "show": "Huberman Lab",
           "title": "Your Top Health Questions Answered",
           "url": "/wiki/sources/your-top-health-questions-answered-scim2882548864/"
+        },
+        {
+          "episode_file": "SCIM7293799235 [SCIM7293799235].md",
+          "key": "essentials-using-meditation-to-focus-view-consciousness-expand-your-mind-dr-sam-harris-scim7293799235",
+          "show": "Huberman Lab",
+          "title": "Essentials: Using Meditation to Focus, View Consciousness & Expand Your Mind | Dr. Sam Harris",
+          "url": "/wiki/sources/essentials-using-meditation-to-focus-view-consciousness-expand-your-mind-dr-sam-harris-scim7293799235/"
         }
       ],
       "updated": "2026-08-28",
@@ -7488,6 +7509,36 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/immunesystemastunablesensornetwork/"
+    },
+    "ImpermanenceAndNoSelf": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "E43 张潇雨、孟岩对话许哲：没有更好的生活 [lrSfby01kUOuRnlY5mlkKzI-AyLS].md",
+          "key": "e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls",
+          "show": "无人知晓",
+          "title": "E43 张潇雨、孟岩对话许哲：没有更好的生活",
+          "url": "/wiki/sources/e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls/"
+        },
+        {
+          "episode_file": "日谈串台｜ 姐妹聊天会：重启人生也是我最妖娇 [616116425].md",
+          "key": "ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425",
+          "show": "蜜獾吃书",
+          "title": "日谈串台｜姐妹聊天会：重启人生也是我最妖娇",
+          "url": "/wiki/sources/ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425/"
+        },
+        {
+          "episode_file": "SCIM7293799235 [SCIM7293799235].md",
+          "key": "essentials-using-meditation-to-focus-view-consciousness-expand-your-mind-dr-sam-harris-scim7293799235",
+          "show": "Huberman Lab",
+          "title": "Essentials: Using Meditation to Focus, View Consciousness & Expand Your Mind | Dr. Sam Harris",
+          "url": "/wiki/sources/essentials-using-meditation-to-focus-view-consciousness-expand-your-mind-dr-sam-harris-scim7293799235/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/impermanenceandnoself/"
     },
     "IndividualizedCancerVaccine": {
       "episode_count": 2,
@@ -10223,6 +10274,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/lyubu/"
     },
+    "MDMA": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7293799235 [SCIM7293799235].md",
+          "key": "essentials-using-meditation-to-focus-view-consciousness-expand-your-mind-dr-sam-harris-scim7293799235",
+          "show": "Huberman Lab",
+          "title": "Essentials: Using Meditation to Focus, View Consciousness & Expand Your Mind | Dr. Sam Harris",
+          "url": "/wiki/sources/essentials-using-meditation-to-focus-view-consciousness-expand-your-mind-dr-sam-harris-scim7293799235/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/mdma/"
+    },
     "MaHaoning": {
       "episode_count": 2,
       "show_count": 1,
@@ -11608,6 +11675,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/nonalgorithmiccapabilities/"
     },
+    "NonDualMindfulness": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7293799235 [SCIM7293799235].md",
+          "key": "essentials-using-meditation-to-focus-view-consciousness-expand-your-mind-dr-sam-harris-scim7293799235",
+          "show": "Huberman Lab",
+          "title": "Essentials: Using Meditation to Focus, View Consciousness & Expand Your Mind | Dr. Sam Harris",
+          "url": "/wiki/sources/essentials-using-meditation-to-focus-view-consciousness-expand-your-mind-dr-sam-harris-scim7293799235/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/nondualmindfulness/"
+    },
     "NonMarketEnvironmentalValuation": {
       "episode_count": 1,
       "show_count": 1,
@@ -12764,6 +12847,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/provisionalira/"
     },
+    "PsychedelicOrdinaryFreedom": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7293799235 [SCIM7293799235].md",
+          "key": "essentials-using-meditation-to-focus-view-consciousness-expand-your-mind-dr-sam-harris-scim7293799235",
+          "show": "Huberman Lab",
+          "title": "Essentials: Using Meditation to Focus, View Consciousness & Expand Your Mind | Dr. Sam Harris",
+          "url": "/wiki/sources/essentials-using-meditation-to-focus-view-consciousness-expand-your-mind-dr-sam-harris-scim7293799235/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/psychedelicordinaryfreedom/"
+    },
     "PsychiatricMedicationSupervisionBoundary": {
       "episode_count": 1,
       "show_count": 1,
@@ -13578,6 +13677,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/saltrevenueagriculturalrecovery/"
+    },
+    "SamHarris": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7293799235 [SCIM7293799235].md",
+          "key": "essentials-using-meditation-to-focus-view-consciousness-expand-your-mind-dr-sam-harris-scim7293799235",
+          "show": "Huberman Lab",
+          "title": "Essentials: Using Meditation to Focus, View Consciousness & Expand Your Mind | Dr. Sam Harris",
+          "url": "/wiki/sources/essentials-using-meditation-to-focus-view-consciousness-expand-your-mind-dr-sam-harris-scim7293799235/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/samharris/"
     },
     "Sanguozhi": {
       "episode_count": 2,

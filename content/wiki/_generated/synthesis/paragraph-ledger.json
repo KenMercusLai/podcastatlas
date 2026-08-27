@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "37dc5c44dc770be4386b069c0352d319d32d0298431a5c9624b92543b351d5cc",
       "5d9e75d5fe35dbac54e85c72f902914ef958ac06f1aded81742a56a7cc267ea8",
       "8e3502565308f1d3e099c0f46c4e9dc00304588435348e5458f7fd8411cdd37b",
       "8fb91e9c216edff12a4fccd688e5cfb88e44cddcf553c173af3ad27c469bd426",
@@ -309,11 +310,40 @@
       "16d531495e2a6294ae198d0b95a352e519f488fcca1dbdae1f416758d1cfa576",
       "a9fec3ceb1b343b1fafeebc9ab2903b46238a861f9aaafd9d15b1460340a08b5"
     ],
-    "paragraph_count": 307
+    "paragraph_count": 308
   },
-  "overview_commit": "63f226e71a1fa33451072b63a1c0ea495544767f",
-  "overview_digest": "c0d3ed62cee24a0972d8a9aa72e2d0b352f90ef9d04c6e8222bcd8d4546f8dd7",
+  "overview_commit": "cac8a068f04d3023526abce497b4140efe84c846",
+  "overview_digest": "f6f80dfd327226625373fa2105d282d0f333d417453f56afe008d89b1029f1a2",
   "paragraphs": [
+    {
+      "id": "37dc5c44dc770be4386b069c0352d319d32d0298431a5c9624b92543b351d5cc",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "culture-and-media",
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[essentials-using-meditation-to-focus-view-consciousness-expand-your-mind-dr-sam-harris-scim7293799235|Essentials: Using Meditation to Focus, View Consciousness & Expand Your Mind | Dr. Sam Harris]], a [[HubermanLab]] Essentials episode with [[AndrewHuberman]] and [[SamHarris]] on meditation, consciousness, the felt self, non-dual mindfulness, emotional loops, psychedelics, and ordinary freedom. It adds [[SamHarris]], [[MDMA]], [[NonDualMindfulness]], and [[PsychedelicOrdinaryFreedom]], while extending [[HubermanLab]], [[AndrewHuberman]], [[ImpermanenceAndNoSelf]], [[AwarenessMeditationStoryDropping]], [[TotalAttentionPractice]], [[EmotionRegulationToolkit]], [[RuminationVsReflection]], and [[NoBetterLife]]. Its core synthesis is that meditation is not only stress reduction or concentration: Harris frames the apparent observer as another appearance in awareness, treats thoughts and emotions as workable when seen clearly, and subordinates psychedelic peak states to freedom available in ordinary waking life. No settled contradiction is recorded; the source's meditation, no-self, psychedelic, and emotion-regulation claims remain philosophical, experiential, and context bounded.",
+      "topic_scores": {
+        "culture-and-media": 1,
+        "governance-and-institutions": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "AndrewHuberman",
+        "AwarenessMeditationStoryDropping",
+        "EmotionRegulationToolkit",
+        "HubermanLab",
+        "ImpermanenceAndNoSelf",
+        "MDMA",
+        "NoBetterLife",
+        "NonDualMindfulness",
+        "PsychedelicOrdinaryFreedom",
+        "RuminationVsReflection",
+        "SamHarris",
+        "TotalAttentionPractice",
+        "essentials-using-meditation-to-focus-view-consciousness-expand-your-mind-dr-sam-harris-scim7293799235"
+      ]
+    },
     {
       "id": "5d9e75d5fe35dbac54e85c72f902914ef958ac06f1aded81742a56a7cc267ea8",
       "primary_topic": "science-health-and-climate",
