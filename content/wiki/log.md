@@ -12684,3 +12684,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-28] lint | Wiki health check
 
 Ran health, identity validation, and lint. Health scanned 15,306 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-22 with 12,882 nodes and 149,964 edges while the current lint scan covered 15,306 pages, so fragile-bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because the model/provider and API credentials were not configured in the shell; report returned in-session and `wiki/lint-report.md` was not updated.
+
+## [2026-08-28] ingest | 《资治通鉴·汉纪》871丨惩恶扬善，为何反被诬陷入狱？
+
+Added source page for a 芮淇讲透资治通鉴 episode on the Ganling Zhou-Fang rivalry, Fan Pang and Cen Zhi as entrusted commandery aides, Taixue public opinion, and Cheng Jin/Liu Zhi's punishment after acting against protected offenders. Created Zhou Fu, Fang Zhi, Zong Zi, Cheng Jin, Cen Zhi, Zhang Fan of Wan, Zhang Mu, Zhao Jin, Liu Zhi of Taiyuan, and Qingyi Reputation Pressure pages; extended Fan Pang, Jia Biao, Guo Tai, Hou Lan, Eunuch Patronage Violence Shield, and Party Network Treason Framing. No settled contradiction found; Hanji 871 is kept as the immediate setup layer before Hanji 873-874's remonstrance and prison-death aftermath.
+
+## [2026-08-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

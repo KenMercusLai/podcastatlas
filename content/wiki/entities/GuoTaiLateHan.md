@@ -5,23 +5,27 @@ tags: [person, scholar, late-han, china]
 sources:
   - zizhi-tongjian-hanji-931-rensheng-jiannan-chu-bianshi-xiuxin-shi-lpzmvxop8lmlwvxhoojzj5ok9qd6
   - zizhi-tongjian-hanji-894-yi-chang-taowang-yinfa-de-da-tusha-lhulp9hqu07uayyfl3eg-xwrtkeu
-last_updated: 2026-08-27
+  - zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt
+last_updated: 2026-08-28
 knowledge_schema: synthesis-v1
 ---
 
-# 郭泰 / Guo Tai (late Han)
-
 ## Overview
 
-Guo Tai is a late-Han scholar and talent judge whose wiki profile now spans two source roles: a party-prohibition survivor in 169 CE and a reputation witness for [[WangYunLateHan|王允]] before Wang Yun's later anti-[[DongZhuo|董卓]] role.
+Guo Tai is a late-Han scholar, reputation leader, and talent judge whose wiki profile now spans three source roles: Taixue public-opinion leader before the Party Prohibition sequence, guarded survivor and teacher after the 169 CE crackdown, and reputation witness for [[WangYunLateHan|王允]] before Wang Yun's later anti-[[DongZhuo|董卓]] role.
 
 ## Current Profile
 
-The current evidence presents Guo Tai as a scholar whose reputation rests on judgment and restraint. [[zizhi-tongjian-hanji-894-yi-chang-taowang-yinfa-de-da-tusha-lhulp9hqu07uayyfl3eg-xwrtkeu|Hanji 894]] says he grieves the deaths of party figures but survives because he does not make fierce political speeches; after seeing the Eastern Han order as exhausted, he closes his door and teaches students. [[zizhi-tongjian-hanji-931-rensheng-jiannan-chu-bianshi-xiuxin-shi-lpzmvxop8lmlwvxhoojzj5ok9qd6|Hanji 931]] uses him later as the evaluator whose praise helps establish Wang Yun's early moral and political reputation.
+The current evidence presents Guo Tai as a scholar whose reputation rests on judgment, public influence, and restraint. Hanji 871 places him with [[JiaBiaoLateHan|贾彪]] at the head of a large Taixue student-scholarly field. Their mutual praise with [[LiYingLateHan|李膺]], [[ChenFanLateHan|陈蕃]], and [[WangChangLateHan|王畅]] helps make public evaluation strong enough that officials fear criticism and seek approval. This makes Guo Tai a direct case of [[QingyiReputationPressure|清议声誉压力]] before the later source sequence turns that reputation field dangerous.
+
+Hanji 894 gives the survival and withdrawal layer. Guo Tai grieves the deaths of party figures but avoids fierce political speech, so eunuch-side retaliation does not strike him directly. After reading the Eastern Han order as exhausted, he closes his door and teaches students.
+
+Hanji 931 uses him later as the evaluator whose praise helps establish Wang Yun's early moral and political reputation. Across these source roles, Guo Tai is not merely famous; he is a person whose judgment gives others reputation while his own restraint helps him survive when public reputation becomes targetable.
 
 ## Key Characteristics
 
-- Late-Han scholar whose public reputation is tied to judging people.
+- Late-Han scholar whose public reputation is tied to judging and certifying people.
+- Taixue reputation leader whose public praise-and-blame field pressures officials.
 - Party-prohibition survivor whose guarded speech prevents eunuch-side retaliation.
 - Grieving witness to the destruction of名士 during the 169 CE crackdown.
 - Teacher who withdraws into instruction after reading the dynasty's crisis as beyond his repair.
@@ -29,20 +33,25 @@ The current evidence presents Guo Tai as a scholar whose reputation rests on jud
 
 ## Evidence
 
+- Taixue leadership: [[zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt|Hanji 871]] says Guo Tai and Jia Biao are leading figures among the Taixue student-scholarly field.
+- Public evaluation pressure: [[zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt|Hanji 871]] says the reputation field around Guo Tai, Jia Biao, Li Ying, Chen Fan, and Wang Chang makes officials fear criticism and seek approval.
 - Party-prohibition survival: [[zizhi-tongjian-hanji-894-yi-chang-taowang-yinfa-de-da-tusha-lhulp9hqu07uayyfl3eg-xwrtkeu|Hanji 894]] says Guo Tai survives the party-prohibition disaster because he avoids fierce and deep political discussion.
 - Grief and withdrawal: [[zizhi-tongjian-hanji-894-yi-chang-taowang-yinfa-de-da-tusha-lhulp9hqu07uayyfl3eg-xwrtkeu|Hanji 894]] presents him as mourning the deaths of famous scholars, judging the Eastern Han order near exhaustion, closing his door, teaching thousands, and dying at forty-two.
 - Talent recognition: [[zizhi-tongjian-hanji-931-rensheng-jiannan-chu-bianshi-xiuxin-shi-lpzmvxop8lmlwvxhoojzj5ok9qd6|Hanji 931]] says Guo Tai praises Wang Yun as having the capacity to assist a ruler.
 
 ## Qualifications
 
-This page is not a complete biography. Hanji 894 and Hanji 931 use Guo Tai for specific functions: one as a restrained survivor and teacher during party prohibition, the other as a reputation witness for Wang Yun. The page keeps both without claiming that restraint equals indifference to political suffering.
+This page is not a complete biography. Hanji 871, Hanji 894, and Hanji 931 use Guo Tai for specific functions: reputation leader, restrained survivor and teacher, and reputation witness for Wang Yun. The page keeps public influence and later restraint together without claiming that restraint equals indifference to political suffering.
 
 ## What Changed
 
-- Hanji 894 migrates the page from a narrow Wang Yun reputation note into a synthesis-v1 profile covering party-prohibition grief, survival, and withdrawal.
+- The current profile now starts with Guo Tai's Taixue reputation leadership before the 169 CE survival scene.
+- Guo Tai's later guarded withdrawal now contrasts with his earlier role in a public-opinion field that pressured officials.
 
 ## Relationships
 
+- [[JiaBiaoLateHan|贾彪]] - fellow Taixue reputation leader in Hanji 871.
+- [[QingyiReputationPressure|清议声誉压力]] - concept grounded partly in Guo Tai's public praise-and-blame role.
 - [[WangYunLateHan|王允]] - official whose early ability Guo Tai is used to certify.
 - [[YuanHongLateHan|袁闳]] - fellow named survivor of the party-prohibition disaster in Hanji 894.
 - [[ZhangJianLateHan|张俭]] - contrast case whose reputation draws him into dangerous flight and shelter.

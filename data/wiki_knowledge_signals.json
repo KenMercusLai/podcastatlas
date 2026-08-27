@@ -2722,6 +2722,29 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/catholicburiallegitimacy/"
     },
+    "CenZhiLateHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》871丨惩恶扬善，为何反被诬陷入狱？ [lujKihgVH-CAfKh9Bfak6_VTTPwT].md",
+          "key": "zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》871丨惩恶扬善，为何反被诬陷入狱？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》874丨震惊：母子相残，天理难容！ [lpR3eGlbnWBVe1ClrTTApw6K5zdq].md",
+          "key": "zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》874丨震惊：母子相残，天理难容！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/cenzhilatehan/"
+    },
     "ChangXiLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -2929,6 +2952,36 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/chenshilatehan/"
+    },
+    "ChengJinLateHan": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》871丨惩恶扬善，为何反被诬陷入狱？ [lujKihgVH-CAfKh9Bfak6_VTTPwT].md",
+          "key": "zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》871丨惩恶扬善，为何反被诬陷入狱？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》873丨他如何利用天象痛骂帝王？ [lqEbKOdcbCrSVYf80qWxNobYDbHc].md",
+          "key": "zizhi-tongjian-hanji-873-ta-ruhe-liyong-tianxiang-tongma-diwang-lqebkodcbcrsvyf80qwxnobydbhc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》873丨他如何利用天象痛骂帝王？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-873-ta-ruhe-liyong-tianxiang-tongma-diwang-lqebkodcbcrsvyf80qwxnobydbhc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》874丨震惊：母子相残，天理难容！ [lpR3eGlbnWBVe1ClrTTApw6K5zdq].md",
+          "key": "zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》874丨震惊：母子相残，天理难容！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/chengjinlatehan/"
     },
     "ChengYu": {
       "episode_count": 7,
@@ -5135,9 +5188,9 @@
       "url": "/wiki/entities/ericweinstein/"
     },
     "EunuchPatronageViolenceShield": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》872丨他娶妾不成，竟杀人全家 [ltBEGc7GBET2_HLhwhtevVltGNlC].md",
@@ -5145,9 +5198,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》872丨他娶妾不成，竟杀人全家",
           "url": "/wiki/sources/zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》871丨惩恶扬善，为何反被诬陷入狱？ [lujKihgVH-CAfKh9Bfak6_VTTPwT].md",
+          "key": "zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》871丨惩恶扬善，为何反被诬陷入狱？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-28",
       "url": "/wiki/concepts/eunuchpatronageviolenceshield/"
     },
     "EvolutionaryMisrecognition": {
@@ -5199,9 +5259,9 @@
       "url": "/wiki/entities/fubu/"
     },
     "FanPangLateHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》893丨荣誉榜如何变成死亡名单？ [lmxzQoaUf79-swWNK_0CEVAv0GQ_].md",
@@ -5237,9 +5297,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》874丨震惊：母子相残，天理难容！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》871丨惩恶扬善，为何反被诬陷入狱？ [lujKihgVH-CAfKh9Bfak6_VTTPwT].md",
+          "key": "zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》871丨惩恶扬善，为何反被诬陷入狱？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-28",
       "url": "/wiki/entities/fanpanglatehan/"
     },
     "FanPangMotherLateHan": {
@@ -5273,6 +5340,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/fanqinlatehan/"
+    },
+    "FangZhiLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》871丨惩恶扬善，为何反被诬陷入狱？ [lujKihgVH-CAfKh9Bfak6_VTTPwT].md",
+          "key": "zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》871丨惩恶扬善，为何反被诬陷入狱？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/fangzhilatehan/"
     },
     "FatherGaoNortheastMission": {
       "episode_count": 1,
@@ -6541,9 +6624,9 @@
       "url": "/wiki/entities/guoning/"
     },
     "GuoTaiLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》931丨人生艰难处，便是修心时 [lpZMvxOp8lmlwvXHoOJZj5ok9Qd6].md",
@@ -6558,9 +6641,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》894丨一场逃亡引发的大屠杀",
           "url": "/wiki/sources/zizhi-tongjian-hanji-894-yi-chang-taowang-yinfa-de-da-tusha-lhulp9hqu07uayyfl3eg-xwrtkeu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》871丨惩恶扬善，为何反被诬陷入狱？ [lujKihgVH-CAfKh9Bfak6_VTTPwT].md",
+          "key": "zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》871丨惩恶扬善，为何反被诬陷入狱？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-28",
       "url": "/wiki/entities/guotailatehan/"
     },
     "GuoTu": {
@@ -6990,9 +7080,9 @@
       "url": "/wiki/concepts/hotelretailflywheel/"
     },
     "HouLanLateHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》900丨职场权术都不动，该怎样生存 [lmhJwOsY4EsWyHfpPDGHfsMfycQr].md",
@@ -7028,9 +7118,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》872丨他娶妾不成，竟杀人全家",
           "url": "/wiki/sources/zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》871丨惩恶扬善，为何反被诬陷入狱？ [lujKihgVH-CAfKh9Bfak6_VTTPwT].md",
+          "key": "zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》871丨惩恶扬善，为何反被诬陷入狱？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-28",
       "url": "/wiki/entities/houlanlatehan/"
     },
     "HousingSupplyOverRentControl": {
@@ -8172,9 +8269,9 @@
       "url": "/wiki/entities/jenniferking/"
     },
     "JiaBiaoLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》876丨职场总碰壁？说明你没有找对关系 [lrJoB_a07t29hDR0iOgrmcSjr7QP].md",
@@ -8189,9 +8286,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》874丨震惊：母子相残，天理难容！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》871丨惩恶扬善，为何反被诬陷入狱？ [lujKihgVH-CAfKh9Bfak6_VTTPwT].md",
+          "key": "zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》871丨惩恶扬善，为何反被诬陷入狱？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-28",
       "url": "/wiki/entities/jiabiaolatehan/"
     },
     "JiaXu": {
@@ -9618,6 +9722,36 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/liuyuastrologerlatehan/"
+    },
+    "LiuZhiTaiyuanLateHan": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》871丨惩恶扬善，为何反被诬陷入狱？ [lujKihgVH-CAfKh9Bfak6_VTTPwT].md",
+          "key": "zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》871丨惩恶扬善，为何反被诬陷入狱？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》873丨他如何利用天象痛骂帝王？ [lqEbKOdcbCrSVYf80qWxNobYDbHc].md",
+          "key": "zizhi-tongjian-hanji-873-ta-ruhe-liyong-tianxiang-tongma-diwang-lqebkodcbcrsvyf80qwxnobydbhc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》873丨他如何利用天象痛骂帝王？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-873-ta-ruhe-liyong-tianxiang-tongma-diwang-lqebkodcbcrsvyf80qwxnobydbhc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》874丨震惊：母子相残，天理难容！ [lpR3eGlbnWBVe1ClrTTApw6K5zdq].md",
+          "key": "zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》874丨震惊：母子相残，天理难容！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/liuzhitaiyuanlatehan/"
     },
     "LiyangYellowRiverLateHan": {
       "episode_count": 1,
@@ -12292,9 +12426,9 @@
       "url": "/wiki/concepts/parkingcostinternalization/"
     },
     "PartyNetworkTreasonFraming": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》893丨荣誉榜如何变成死亡名单？ [lmxzQoaUf79-swWNK_0CEVAv0GQ_].md",
@@ -12309,9 +12443,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》874丨震惊：母子相残，天理难容！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》871丨惩恶扬善，为何反被诬陷入狱？ [lujKihgVH-CAfKh9Bfak6_VTTPwT].md",
+          "key": "zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》871丨惩恶扬善，为何反被诬陷入狱？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-28",
       "url": "/wiki/concepts/partynetworktreasonframing/"
     },
     "PartyProhibitionKinshipExpansion": {
@@ -12926,6 +13067,43 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/qihoo360/"
+    },
+    "QingyiReputationPressure": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》871丨惩恶扬善，为何反被诬陷入狱？ [lujKihgVH-CAfKh9Bfak6_VTTPwT].md",
+          "key": "zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》871丨惩恶扬善，为何反被诬陷入狱？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》874丨震惊：母子相残，天理难容！ [lpR3eGlbnWBVe1ClrTTApw6K5zdq].md",
+          "key": "zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》874丨震惊：母子相残，天理难容！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》892丨修止语，古人有什么捷径？ [lnObbkp6mJ4xyB9jEuqSiUQogcT-].md",
+          "key": "zizhi-tongjian-hanji-892-xiu-zhiyu-guren-youshenme-jiejing-lnobbkp6mj4xyb9jeuqsiuqogct",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》892丨修止语，古人有什么捷径？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-892-xiu-zhiyu-guren-youshenme-jiejing-lnobbkp6mj4xyb9jeuqsiuqogct/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》893丨荣誉榜如何变成死亡名单？ [lmxzQoaUf79-swWNK_0CEVAv0GQ_].md",
+          "key": "zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》893丨荣誉榜如何变成死亡名单？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/qingyireputationpressure/"
     },
     "Qiuzhen": {
       "episode_count": 1,
@@ -17836,6 +18014,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/zhangchengastrologerlatehan/"
     },
+    "ZhangFanWanLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》871丨惩恶扬善，为何反被诬陷入狱？ [lujKihgVH-CAfKh9Bfak6_VTTPwT].md",
+          "key": "zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》871丨惩恶扬善，为何反被诬陷入狱？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/zhangfanwanlatehan/"
+    },
     "ZhangHuanLateHan": {
       "episode_count": 7,
       "show_count": 1,
@@ -17947,6 +18141,29 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/zhangkaiduanjiongofficer/"
     },
+    "ZhangMuLateHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》871丨惩恶扬善，为何反被诬陷入狱？ [lujKihgVH-CAfKh9Bfak6_VTTPwT].md",
+          "key": "zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》871丨惩恶扬善，为何反被诬陷入狱？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》874丨震惊：母子相残，天理难容！ [lpR3eGlbnWBVe1ClrTTApw6K5zdq].md",
+          "key": "zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》874丨震惊：母子相残，天理难容！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/zhangmulatehan/"
+    },
     "ZhangXiu": {
       "episode_count": 6,
       "show_count": 1,
@@ -18020,6 +18237,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/zhangzhaolatehan/"
+    },
+    "ZhaoJinLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》871丨惩恶扬善，为何反被诬陷入狱？ [lujKihgVH-CAfKh9Bfak6_VTTPwT].md",
+          "key": "zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》871丨惩恶扬善，为何反被诬陷入狱？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/zhaojinlatehan/"
     },
     "ZhaoLina": {
       "episode_count": 1,
@@ -18175,6 +18408,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/zhongjilatehan/"
     },
+    "ZhouFuLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》871丨惩恶扬善，为何反被诬陷入狱？ [lujKihgVH-CAfKh9Bfak6_VTTPwT].md",
+          "key": "zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》871丨惩恶扬善，为何反被诬陷入狱？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/zhoufulatehan/"
+    },
     "ZhouHongyi": {
       "episode_count": 1,
       "show_count": 1,
@@ -18326,6 +18575,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/zhuzhenlatehan/"
+    },
+    "ZongZiLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》871丨惩恶扬善，为何反被诬陷入狱？ [lujKihgVH-CAfKh9Bfak6_VTTPwT].md",
+          "key": "zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》871丨惩恶扬善，为何反被诬陷入狱？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/zongzilatehan/"
     }
   },
   "version": 1

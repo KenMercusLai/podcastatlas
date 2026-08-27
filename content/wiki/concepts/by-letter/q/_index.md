@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "q"
-wiki_total_pages: 5752
+wiki_total_pages: 5753
 wiki_pages:
   - key: "QDIIAllocation"
     title: "QDII Allocation"
@@ -44,6 +44,9 @@ wiki_pages:
   - key: "QingbaiPorcelain"
     title: "Qingbai Porcelain / 青白瓷"
     url: "/wiki/concepts/qingbaiporcelain/"
+  - key: "QingyiReputationPressure"
+    title: "Qingyi Reputation Pressure / 清议声誉压力"
+    url: "/wiki/concepts/qingyireputationpressure/"
   - key: "QiqiaoRitualPractice"
     title: "Qiqiao Ritual Practice"
     url: "/wiki/concepts/qiqiaoritualpractice/"

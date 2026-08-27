@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 7971
+wiki_total_pages: 7980
 wiki_pages:
   - key: "FortyThreeTalks"
     title: "43talks"
@@ -662,6 +662,9 @@ wiki_pages:
   - key: "Feiqiu"
     title: "废丘 / Feiqiu"
     url: "/wiki/entities/feiqiu/"
+  - key: "FangZhiLateHan"
+    title: "房植 / Fang Zhi (late Han)"
+    url: "/wiki/entities/fangzhilatehan/"
   - key: "FuSu"
     title: "扶苏 / Fu Su"
     url: "/wiki/entities/fusu/"

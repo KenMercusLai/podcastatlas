@@ -30,6 +30,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [外卖成为海底捞增长最快的业务，乐高表示不会用 AI 来设计产品](sources/waimai-chengwei-haidilao-zengzhang-zuikuai-de-yewu-legao-biaoshi-buhui-yong-ai-lai-sheji-chanpin-1008870590.md) — 声动早咖啡 roundup on Nongfu Spring tea growth, Haidilao delivery, coffee supply, Apple local AI hardware, Nvidia-Perplexity, Volkswagen restructuring, electric two-wheelers, Lao Pu Gold, and Lego's AI design boundary.
 - [700. The Troubles: Bloody Sunday (Part 4)](sources/700-the-troubles-bloody-sunday-part-4-glt3909829334.md) — The Rest Is History episode on Bloody Sunday, Saville and Widgery, Derry and Free Derry, Stormont's suspension, direct rule, failed IRA talks, and Bloody Friday.
 - [690. A Murderous Affair: Death at Mayerling (Part 2)](sources/690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068.md) — The Rest Is History episode on Crown Prince Rudolf, Mary Vetsera, the Mayerling deaths, Catholic burial, Habsburg suppression, and succession shock.
+- [《资治通鉴·汉纪》871丨惩恶扬善，为何反被诬陷入狱？](sources/zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt.md) — 芮淇讲透资治通鉴 episode on the Ganling Zhou-Fang rivalry, Fan Pang and Cen Zhi as entrusted commandery aides, Taixue public opinion, and Cheng Jin/Liu Zhi's punishment after acting against protected offenders.
 - [《资治通鉴·汉纪》872丨他娶妾不成，竟杀人全家](sources/zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc.md) — 芮淇讲透资治通鉴 episode on Zhang Jian's enforcement against Hou Lan, Xu Xuan's killing of Li Gao's daughter, Huang Fu's execution of Xu Xuan, and Chen Fan's warning about eunuch-protected court disorder.
 - [《资治通鉴·汉纪》873丨他如何利用天象痛骂帝王？](sources/zizhi-tongjian-hanji-873-ta-ruhe-liyong-tianxiang-tongma-diwang-lqebkodcbcrsvyf80qwxnobydbhc.md) — 芮淇讲透资治通鉴 episode on Xiang Kai's omen-coded remonstrance against Emperor Huan, using stars, disasters, Yellow River clarity, childlessness, eunuch favor, harsh punishment, and Buddhist-Daoist restraint.
 - [The Fight Over Open Source AI, Anthropic's $1.5B Payout, NYC Socialists: Evictions = Violence?](sources/all-in-with-chamath-jason-sacks-friedberg-the-fight-over-open-source-ai-anthropics-15b-payout-nyc-socialists-evictions-violence-42209480.md) — All-In episode on Kimi K3 and open-source AI ban risk, Anthropic's copyright settlement, AI capex at Google/Tesla/SpaceX, and New York tenant-screening, eviction, and rent-control politics.
@@ -1682,10 +1683,19 @@ This file is maintained by the LLM. Updated on every ingest.
 - [刘茂 / Liu Mao (late Han)](entities/LiuMaoLateHan.md) — Official who initially joins Chen Fan's defense of punished enforcement officials, then retreats under pressure.
 - [徐璜 / Xu Huang (late Han eunuch)](entities/XuHuangLateHan.md) — Eunuch uncle whose complaint channel shields Xu Xuan and exposes Huang Fu.
 - [徐宣 / Xu Xuan (late Han magistrate)](entities/XuXuanLateHan.md) — Xiapi magistrate whose failed concubine demand escalates into household killing.
+- [周福 / Zhou Fu (late Han)](entities/ZhouFuLateHan.md) — Ganling teacher-official whose promotion after teaching Emperor Huan becomes one pole of an early party-line rivalry.
+- [房植 / Fang Zhi (late Han)](entities/FangZhiLateHan.md) — Ganling official whose reputation for standards becomes the rival pole to Zhou Fu's imperial-teacher advancement.
+- [宗资 / Zong Zi (late Han)](entities/ZongZiLateHan.md) — Runan administrator whose reliance on Fan Pang shows delegated moral enforcement resisting eunuch-backed patronage.
+- [成瑨 / Cheng Jin (late Han)](entities/ChengJinLateHan.md) — Nanyang administrator whose punishment of Zhang Fan rebounds into eunuch-backed imprisonment and later prison death.
+- [岑晊 / Cen Zhi (late Han)](entities/CenZhiLateHan.md) — Nanyang功曹 whose action against Zhang Fan creates both local cleanup and later fugitive liability.
+- [张汎 / Zhang Fan (Wan late Han)](entities/ZhangFanWanLateHan.md) — Wan merchant whose harem-linked palace access makes his execution a eunuch-retaliation trigger.
+- [张牧 / Zhang Mu (late Han)](entities/ZhangMuLateHan.md) — Nanyang enforcement official who joins Cen Zhi in urging Cheng Jin to arrest Zhang Fan.
+- [赵津 / Zhao Jin (late Han)](entities/ZhaoJinLateHan.md) — Small yellow-gate eunuch whose Taiyuan abuses lead Liu Zhi and Wang Yun to arrest and kill him after an amnesty.
+- [刘质 / Liu Zhi (Taiyuan late Han)](entities/LiuZhiTaiyuanLateHan.md) — Taiyuan administrator punished after sending Wang Yun against Zhao Jin, paralleling Cheng Jin's enforcement rebound.
 - [翟超 / Zhai Chao (late Han)](entities/ZhaiChaoLateHan.md) — Official whose appointment of Zhang Jian exposes him to eunuch retaliation.
 - [LibGen](entities/LibGen.md) — Source-scoped pirated-book repository named in the Anthropic copyright-settlement discussion.
 - [皇甫规 / Huangfu Gui (late Han)](entities/HuangfuGuiLateHan.md) — Late-Han frontier official whose Hanji 875 self-report makes punishment a Party Prohibition moral credential.
-- [贾彪 / Jia Biao (late Han)](entities/JiaBiaoLateHan.md) — Late-Han official whose profile now combines no-collateral timing judgment, infanticide custom correction, and targeted Party Prohibition rescue through Dou Wu.
+- [贾彪 / Jia Biao (late Han)](entities/JiaBiaoLateHan.md) — Late-Han official whose profile combines Taixue reputation leadership, no-collateral timing judgment, infanticide custom correction, and targeted Party Prohibition rescue through Dou Wu.
 - [张成 / Zhang Cheng (late Han astrologer)](entities/ZhangChengAstrologerLateHan.md) — Source-bounded astrologer whose predicted amnesty and murder case trigger Li Ying's enforcement and eunuch-backed party accusation.
 - [劳修 / Lao Xiu (late Han)](entities/LaoXiuLateHan.md) — Zhang Cheng's disciple whose eunuch-backed accusation turns Li Ying's enforcement case into the first Party Prohibition arrest order.
 - [霍谞 / Huo Xu (late Han)](entities/HuoXuLateHan.md) — Fan Pang's life-saving benefactor whose current wiki role centers on tacit gratitude rather than public repayment display.
@@ -1717,7 +1727,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Yuval Noah Harari](entities/YuvalNoahHarari.md) — Historian and philosopher using an information-network lens to warn that AI governance must reject inevitability and preserve human agency.
 - [Nexus (Yuval Noah Harari book)](entities/NexusHarariBook.md) — Harari book framed in The Intelligence interview as a history of information networks from the Stone Age to AI.
 - [李膺 / Li Ying (late Han)](entities/LiYingLateHan.md) — Late-Han party-prohibition figure whose profile now runs from Zhang Cheng enforcement and first arrest expansion through reputation, rescue, reform restoration, prison death, and student liability.
-- [范滂 / Fan Pang (late Han)](entities/FanPangLateHan.md) — Late-Han party-prohibition figure whose profile now runs from prison ritual refusal and moral defense through amnesty-with-registry, restrained gratitude, honor-list exposure, and voluntary imprisonment.
+- [范滂 / Fan Pang (late Han)](entities/FanPangLateHan.md) — Late-Han party-prohibition figure whose profile now runs from Runan delegated清裁 through prison ritual refusal, moral defense, exclusion, reputation exposure, and voluntary imprisonment.
 - [东羌 / Eastern Qiang (late Han)](entities/DongqiangLateHan.md) — Frontier group whose evidence spans Hanji 881's Fengyishan campaign horizon, Hanji 883's surrender-versus-suppression policy dispute, Hanji 891's tactical campaign, and Hanji 892's anti-extermination critique.
 - [冯翊山之战 / Fengyishan Battle (late Han)](entities/FengyishanBattleLateHan.md) — 168 CE frontier battle where Duan Jiong defeats Xianling Qiang forces before receiving interim reward, military funding, and anti-Qiang title recognition.
 - [范滂母 / Fan Pang's mother](entities/FanPangMotherLateHan.md) — Family elder whose farewell to Fan Pang frames moral fame and long life as incompatible under the party-prohibition disaster.
@@ -1814,7 +1824,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [疏勒 / Shule Kingdom](entities/ShuleKingdom.md) — Western Regions kingdom whose successful resistance to Meng Tuo exposes office without matching command capacity.
 - [汉明帝 / Emperor Ming of Han](entities/EmperorMingOfHan.md) — Eastern Han emperor used by Hanji 899 as the filial precedent behind Guangwu Yuanling tomb-sacrifice practice.
 - [胡广 / Hu Guang (late Han)](entities/HuGuangLateHan.md) — Late-Han senior official whose six-reign service, institutional knowledge, mildness, and non-offense make Hanji 900's moderation-based survival case.
-- [侯览 / Hou Lan (late Han)](entities/HouLanLateHan.md) — Late-Han eunuch whose accusation sends Zhang Jian into flight in Hanji 894 before his later Hanji 900 office removal and suicide show palace protection failing.
+- [侯览 / Hou Lan (late Han)](entities/HouLanLateHan.md) — Late-Han eunuch whose complaint channel punishes Cheng Jin and Liu Zhi before his Zhang Jian retaliation chain and later office-removal suicide.
 - [李贤 / Li Xian (taiwei, late Han)](entities/LiXianTaiweiLateHan.md) — Ill taiwei who risks death in Hanji 901 to argue that Empress Dowager Dou should be buried with Emperor Huan; distinct from 李暹 / Li Xian.
 - [窦妙 / Empress Dowager Dou Miao](entities/EmpressDowagerDouMiao.md) — Late-Han empress dowager whose profile runs from formal empress selection and Tian Sheng's execution through child accession, seizure, confinement, later support, and disputed burial.
 - [董萌 / Dong Meng (late Han)](entities/DongMengLateHan.md) — Huangmenling who speaks for Empress Dowager Dou Miao before Cao Jie and Wang Fu recode the Dou grievance into a fatal accusation.
@@ -2215,7 +2225,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [王宏 / Wang Hong (late Han)](entities/WangHongLateHan.md) — Official who sees Li-Guo's summons as a trap and proposes using outside troops before being pulled down by Song Yi's compliance.
 - [赵戬 / Zhao Jian (late Han)](entities/ZhaoJianLateHan.md) — Former Wang Yun subordinate who risks collecting and burying Wang Yun's body after the Chang'an executions.
 - [杨赐 / Yang Ci (late Han)](entities/YangCiLateHan.md) — Senior late-Han official whose profile now includes 169 CE oblique snake-omen remonstrance, later omen/garden/Yellow-Turban warnings, and Wang Yun's rescue.
-- [郭泰 / Guo Tai (late Han)](entities/GuoTaiLateHan.md) — Late-Han scholar who survives the 169 CE party-prohibition disaster through guarded speech, withdraws into teaching, and later serves as a reputation witness for Wang Yun.
+- [郭泰 / Guo Tai (late Han)](entities/GuoTaiLateHan.md) — Late-Han scholar whose profile spans Taixue public-opinion leadership, guarded party-prohibition survival, withdrawal into teaching, and reputation witness for Wang Yun.
 - [王允 / Wang Yun (late Han)](entities/WangYunLateHan.md) — Late-Han official who takes public credit after Dong Zhuo's killing, clarifying Shi Sunrui's hidden-merit survival case.
 - [皇甫嵩 / Huangfu Song (late Han)](entities/HuangfuSongLateHan.md) — Late-Han official whose Dong Zhuo fear-question cliffhanger, proposed troop-reassurance role, and later dismissal mark survival speech and captured-court appointment/removal power.
 - [牛辅 / Niu Fu (late Han)](entities/NiuFuLateHan.md) — Dong Zhuo son-in-law whose victory over Li Su is followed by camp panic, flight, and death.
@@ -9666,7 +9676,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Catholic Burial Legitimacy](concepts/CatholicBurialLegitimacy.md) — Problem of making a politically important death eligible for Catholic rites when suicide threatens burial legitimacy.
 - [Dynastic Heir Loss Shock](concepts/DynasticHeirLossShock.md) — Succession disruption created when a ruling house abruptly loses the expected direct heir.
 - [Fin-de-Siecle Vienna Crisis Reading](concepts/FinDeSiecleViennaCrisisReading.md) — Interpretation of Mayerling through late nineteenth-century Viennese culture, inner-life language, and Habsburg decline.
-- [Eunuch Patronage Violence Shield / 宦官庇护下的地方暴行](concepts/EunuchPatronageViolenceShield.md) — Pattern where eunuch access shields local violence and turns enforcement against the officials who act.
+- [Eunuch Patronage Violence Shield / 宦官庇护下的地方暴行](concepts/EunuchPatronageViolenceShield.md) — Pattern where eunuch access or complaint channels shield local violence and turn enforcement against the officials who act.
 - [Open Source AI Ban Risk](concepts/OpenSourceAIBanRisk.md) — Risk that model-provenance or national-security concerns become broad restrictions on open-weight AI models.
 - [Token Tax On AI](concepts/TokenTaxOnAI.md) — Enterprise cost penalty created when policy pushes buyers away from cheaper open models and toward closed APIs.
 - [AI Output Training Symmetry](concepts/AIOutputTrainingSymmetry.md) — Consistency problem between AI labs' fair-use claims for human works and objections to competitors training on model outputs.
@@ -9706,8 +9716,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Military AI Oversight Compression](concepts/MilitaryAIOversightCompression.md) — Failure mode where wartime AI speed turns human review into rapid approval of machine recommendations.
 - [AI Empire Sovereignty Risk](concepts/AIEmpireSovereigntyRisk.md) — Sovereignty risk from dependence on foreign-controlled AI systems embedded in information, infrastructure, and decisions.
 - [Political Accent Prestige](concepts/PoliticalAccentPrestige.md) — How accent, class, and regional speech shape who sounds authoritative or credible in British politics.
+- [Qingyi Reputation Pressure / 清议声誉压力](concepts/QingyiReputationPressure.md) — Late-Han scholar-student praise-and-blame mechanism that disciplines officials while making reputation networks targetable.
 - [Reputation List as Persecution Target / 名望榜单迫害目标化](concepts/ReputationListPersecutionTarget.md) — Pattern where public honor categories and reputation lists become target lists when hostile power treats moral reputation as factional danger.
-- [Party Network Treason Framing / 朋党网络谋反化](concepts/PartyNetworkTreasonFraming.md) — Pattern where recommendation, teaching, and reputation networks are explained to a ruler as disorder, rebellion, or throne-security threats.
+- [Party Network Treason Framing / 朋党网络谋反化](concepts/PartyNetworkTreasonFraming.md) — Pattern where follower, recommendation, teaching, and reputation networks are explained to a ruler as disorder, rebellion, or throne-security threats.
 - [Guide Robot Dogs](concepts/GuideRobotDogs.md) — Assistive legged robots for visually impaired users, combining navigation, memory, route explanation, haptics, and owner-specific command safety.
 - [Mobility-First Embodied AI](concepts/MobilityFirstEmbodiedAI.md) — Robotics strategy that starts with reliable movement through real spaces before broad humanoid manipulation.
 - [Robot Navigation Infrastructure](concepts/RobotNavigationInfrastructure.md) — Map, visual navigation, passability, indoor-memory, and feedback systems that let robots move through real environments.

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1946
+topic_total_pages: 1947
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -2299,6 +2299,9 @@ topic_concepts:
   - key: "QinFrontierBufferManagement"
     title: "Qin Frontier Buffer Management / 秦国后方边患管理"
     url: "/wiki/concepts/qinfrontierbuffermanagement/"
+  - key: "QingyiReputationPressure"
+    title: "Qingyi Reputation Pressure / 清议声誉压力"
+    url: "/wiki/concepts/qingyireputationpressure/"
   - key: "QuasiRoyalQinHegemony"
     title: "Quasi-Royal Qin Hegemony / 准天子式秦霸权"
     url: "/wiki/concepts/quasiroyalqinhegemony/"

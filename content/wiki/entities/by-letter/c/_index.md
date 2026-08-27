@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 7971
+wiki_total_pages: 7980
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -1283,6 +1283,9 @@ wiki_pages:
   - key: "CenShen"
     title: "岑参 / Cen Shen"
     url: "/wiki/entities/censhen/"
+  - key: "CenZhiLateHan"
+    title: "岑晊 / Cen Zhi (late Han)"
+    url: "/wiki/entities/cenzhilatehan/"
   - key: "CuiJian"
     title: "崔健 / Cui Jian"
     url: "/wiki/entities/cuijian/"
@@ -1301,6 +1304,9 @@ wiki_pages:
   - key: "ChangzhouIndustrialVocationalTechnicalCollege"
     title: "常州工业职业技术学院 / Changzhou Industrial Vocational Technical College"
     url: "/wiki/entities/changzhouindustrialvocationaltechnicalcollege/"
+  - key: "ChengJinLateHan"
+    title: "成瑨 / Cheng Jin (late Han)"
+    url: "/wiki/entities/chengjinlatehan/"
   - key: "Chenggao"
     title: "成皋 / Chenggao"
     url: "/wiki/entities/chenggao/"
