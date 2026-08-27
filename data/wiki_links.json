@@ -22927,6 +22927,10 @@
     "title": "胡适",
     "url": "/wiki/entities/hushi/"
   },
+  "HuShuangLateHan": {
+    "title": "胡爽 / Hu Shuang (late Han)",
+    "url": "/wiki/entities/hushuanglatehan/"
+  },
   "HuTengLateHan": {
     "title": "胡腾 / Hu Teng (late Han)",
     "url": "/wiki/entities/hutenglatehan/"
@@ -28591,6 +28595,10 @@
     "title": "李肃 / Li Su (late Han)",
     "url": "/wiki/entities/lisulatehan/"
   },
+  "LiSuNanCommanderyLateHan": {
+    "title": "李肃 / Li Su (Nan Commandery, late Han)",
+    "url": "/wiki/entities/lisunancommanderylatehan/"
+  },
   "LiTaitaiLihun": {
     "title": "李太太（《离婚》） / Mrs. Li",
     "url": "/wiki/entities/litaitailihun/"
@@ -29226,6 +29234,10 @@
   "LiuDong": {
     "title": "刘东",
     "url": "/wiki/entities/liudong/"
+  },
+  "LiuDuLateHan": {
+    "title": "刘度 / Liu Du (late Han)",
+    "url": "/wiki/entities/liudulatehan/"
   },
   "LiuFanLateHan": {
     "title": "刘范 / Liu Fan (late Han)",
@@ -30542,6 +30554,10 @@
   "MaHaoning": {
     "title": "马浩宁 / Ma Haoning",
     "url": "/wiki/entities/mahaoning/"
+  },
+  "MaMuLateHan": {
+    "title": "马睦 / Ma Mu (late Han)",
+    "url": "/wiki/entities/mamulatehan/"
   },
   "MaRidiLateHan": {
     "title": "马日磾 / Ma Ridi (late Han)",
@@ -60250,6 +60266,10 @@
   "zizhi-tongjian-hanji-852-dang-meinv-ruyun-shi-fu-haishi-huo-luml30ytbc-awpvk-7-23ehzbqpx": {
     "title": "《资治通鉴·汉纪》852丨当美女如云，是福还是 “祸”？",
     "url": "/wiki/sources/zizhi-tongjian-hanji-852-dang-meinv-ruyun-shi-fu-haishi-huo-luml30ytbc-awpvk-7-23ehzbqpx/"
+  },
+  "zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks": {
+    "title": "《资治通鉴·汉纪》856丨历史告诉你：人若心乱，阵脚自乱",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks/"
   },
   "zizhi-tongjian-hanji-857-xuehui-gongying-cai-shi-zhenzheng-de-yingjia-lh3zx6pw-4ib7owiz8c68bv-9htn": {
     "title": "《资治通鉴·汉纪》857丨学会共赢，才是真正的赢家",

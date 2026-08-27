@@ -4892,9 +4892,9 @@
       "url": "/wiki/entities/dumilatehan/"
     },
     "DuShangLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》867丨无辜被泼脏水？他选择霸气回击 [lqEnvOy7X8iC-Qn3_bf93QJ8tjVk].md",
@@ -4909,6 +4909,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》863丨一把火烧出的“战斗力”",
           "url": "/wiki/sources/zizhi-tongjian-hanji-863-yi-ba-huo-shaochu-de-zhandouli-ljpfmj8pphunruioce64ywjk7yhb/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》856丨历史告诉你：人若心乱，阵脚自乱 [lo7m_9MZ_PvsTxTFGAvRne4bsZKS].md",
+          "key": "zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》856丨历史告诉你：人若心乱，阵脚自乱",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks/"
         }
       ],
       "updated": "2026-08-28",
@@ -6160,9 +6167,9 @@
       "url": "/wiki/entities/fengchanlatehan/"
     },
     "FengGunLateHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》866丨真正活明白的人，懂得“三不沾” [lhhMmyjfo6MkF-qS6BhHZu8HHLN6].md",
@@ -6184,6 +6191,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》858丨为什么劝你一定要换位思考？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-858-weishenme-quan-ni-yiding-yao-huanwei-sikao-lobr-xznqo-ctjpc-ytpstubmahl/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》856丨历史告诉你：人若心乱，阵脚自乱 [lo7m_9MZ_PvsTxTFGAvRne4bsZKS].md",
+          "key": "zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》856丨历史告诉你：人若心乱，阵脚自乱",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks/"
         }
       ],
       "updated": "2026-08-28",
@@ -8029,6 +8043,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/hulanlatehan/"
     },
+    "HuShuangLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》856丨历史告诉你：人若心乱，阵脚自乱 [lo7m_9MZ_PvsTxTFGAvRne4bsZKS].md",
+          "key": "zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》856丨历史告诉你：人若心乱，阵脚自乱",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/hushuanglatehan/"
+    },
     "HuTengLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -8198,9 +8228,9 @@
       "url": "/wiki/entities/huangzu/"
     },
     "HuangfuGuiLateHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》875丨离大谱！为何他以入狱为荣？ [lgfFkjk_0Yu_EhFsW59AnoyCH_lD].md",
@@ -8229,6 +8259,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》857丨学会共赢，才是真正的赢家",
           "url": "/wiki/sources/zizhi-tongjian-hanji-857-xuehui-gongying-cai-shi-zhenzheng-de-yingjia-lh3zx6pw-4ib7owiz8c68bv-9htn/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》856丨历史告诉你：人若心乱，阵脚自乱 [lo7m_9MZ_PvsTxTFGAvRne4bsZKS].md",
+          "key": "zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》856丨历史告诉你：人若心乱，阵脚自乱",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks/"
         }
       ],
       "updated": "2026-08-28",
@@ -10366,6 +10403,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/lijihistorian/"
     },
+    "LiSuNanCommanderyLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》856丨历史告诉你：人若心乱，阵脚自乱 [lo7m_9MZ_PvsTxTFGAvRne4bsZKS].md",
+          "key": "zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》856丨历史告诉你：人若心乱，阵脚自乱",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/lisunancommanderylatehan/"
+    },
     "LiTongLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -10700,6 +10753,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/liudaisikongzhangshi/"
+    },
+    "LiuDuLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》856丨历史告诉你：人若心乱，阵脚自乱 [lo7m_9MZ_PvsTxTFGAvRne4bsZKS].md",
+          "key": "zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》856丨历史告诉你：人若心乱，阵脚自乱",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/liudulatehan/"
     },
     "LiuKuanLateHan": {
       "episode_count": 3,
@@ -11693,6 +11762,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/mahaoning/"
+    },
+    "MaMuLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》856丨历史告诉你：人若心乱，阵脚自乱 [lo7m_9MZ_PvsTxTFGAvRne4bsZKS].md",
+          "key": "zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》856丨历史告诉你：人若心乱，阵脚自乱",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/mamulatehan/"
     },
     "MaRidiLateHan": {
       "episode_count": 5,
@@ -15423,9 +15508,9 @@
       "url": "/wiki/entities/romanceofthethreekingdoms/"
     },
     "RootCausePacification": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》922丨如何在凡尘中修炼情商？ [lsXIqNEYyEOd6AeeQxuhs517PN1X].md",
@@ -15461,6 +15546,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》866丨真正活明白的人，懂得“三不沾”",
           "url": "/wiki/sources/zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》856丨历史告诉你：人若心乱，阵脚自乱 [lo7m_9MZ_PvsTxTFGAvRne4bsZKS].md",
+          "key": "zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》856丨历史告诉你：人若心乱，阵脚自乱",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks/"
         }
       ],
       "updated": "2026-08-28",
@@ -16613,9 +16705,9 @@
       "url": "/wiki/concepts/strategicdefectorincorporation/"
     },
     "StrategicEmotionConcealment": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》900丨职场权术都不动，该怎样生存 [lmhJwOsY4EsWyHfpPDGHfsMfycQr].md",
@@ -16637,9 +16729,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》886丨身处职场，做个城府很深的人",
           "url": "/wiki/sources/zizhi-tongjian-hanji-886-shenchu-zhichang-zuoge-chengfu-henshen-de-ren-lo6dgcdbshjgto-qsfcouwjersdi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》856丨历史告诉你：人若心乱，阵脚自乱 [lo7m_9MZ_PvsTxTFGAvRne4bsZKS].md",
+          "key": "zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》856丨历史告诉你：人若心乱，阵脚自乱",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-28",
       "url": "/wiki/concepts/strategicemotionconcealment/"
     },
     "StructuralPowerImbalance": {
@@ -20128,9 +20227,9 @@
       "url": "/wiki/entities/yinxunlatehan/"
     },
     "YingFengLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》869丨李膺为何被称为天下第一楷模？ [llTCKCiOE1n9V91Yy4C9VvWmZ4mo].md",
@@ -20145,6 +20244,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》868丨赢了也是输家？东汉后宫争艳记",
           "url": "/wiki/sources/zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》856丨历史告诉你：人若心乱，阵脚自乱 [lo7m_9MZ_PvsTxTFGAvRne4bsZKS].md",
+          "key": "zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》856丨历史告诉你：人若心乱，阵脚自乱",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks/"
         }
       ],
       "updated": "2026-08-28",

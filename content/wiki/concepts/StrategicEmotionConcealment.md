@@ -6,7 +6,8 @@ sources:
   - zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr
   - zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b
   - zizhi-tongjian-hanji-886-shenchu-zhichang-zuoge-chengfu-henshen-de-ren-lo6dgcdbshjgto-qsfcouwjersdi
-last_updated: 2026-08-27
+  - zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks
+last_updated: 2026-08-28
 knowledge_schema: synthesis-v1
 ---
 
@@ -20,18 +21,24 @@ The current synthesis treats emotion concealment as a political and organization
 
 [[zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr|Hanji 900]] makes anger the office-survival example: visible rage narrows judgment and lets opponents read the actor's state. [[zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b|Hanji 902]] makes the discipline more explicit through The Godfather's family/outside-people contrast and through late-Han cases where open correction is dangerous, measured submission can preserve life, and long revenge can organize concealed emotion into harm.
 
-The concept therefore sits between ordinary [[EmotionRegulationToolkit|emotion regulation]], [[PoliticalSurvivalFirst|survival-first politics]], and [[ConcealedCapabilityTiming|concealed capability timing]]. It is useful when visible feeling would expose intent or timing, but it is not inherently virtuous: the same self-command can preserve agency or intensify retaliation.
+The command setting makes fear visible as organizational behavior. [[zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks|Hanji 856]] shows [[MaMuLateHan|马睦]], [[LiuDuLateHan|刘度]], and [[LiSuNanCommanderyLateHan|李肃]] turning pressure into flight and, in Li Su's case, violence against corrective advice. [[HuangfuGuiLateHan|皇甫规]] and [[FengGunLateHan|冯绲]] supply the contrast: one restores morale in a diseased camp, while the other anticipates accusation, asks for financial monitoring, and credits [[YingFengLateHan|应奉]] after victory.
+
+The concept therefore sits between ordinary [[EmotionRegulationToolkit|emotion regulation]], [[PoliticalSurvivalFirst|survival-first politics]], and [[ConcealedCapabilityTiming|concealed capability timing]]. It is useful when visible feeling would expose intent, timing, duty collapse, or command vulnerability, but it is not inherently virtuous: the same self-command can preserve agency or intensify retaliation.
 
 ## Key Claims
 
 - Concealing emotion is strategic when visible feeling would expose intention, weakness, timing, or leverage.
 - The concept does not demand inner blankness; it separates internal feeling from externally controlled action.
 - Anger is especially risky in political or workplace conflict because it can narrow judgment and advertise the actor's state.
+- In command settings, fear becomes strategically dangerous when it turns into visible flight, refusal of advice, or loss of morale.
 - Restraint can preserve future agency, as in survival and withdrawal cases where open dignity would create greater danger.
 - The same discipline can also intensify revenge when emotion is hidden, organized, and later released through planning.
 
 ## Evidence
 
+- Command panic and flight: [[zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks|Hanji 856]] says Ma Mu, Liu Du, and Li Su flee under southern rebellion pressure, making fear visible as organizational retreat.
+- Violent refusal of correction: [[zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks|Hanji 856]] says Li Su kills Hu Shuang when Hu tries to stop his flight, showing panic moving from self-protection into attack on corrective advice.
+- Stabilizing counterexamples: [[zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks|Hanji 856]] contrasts those failures with Huangfu Gui restoring morale in an epidemic-hit army and Feng Gun managing campaign accusation risk before victory.
 - Feeling-action separation: [[zizhi-tongjian-hanji-886-shenchu-zhichang-zuoge-chengfu-henshen-de-ren-lo6dgcdbshjgto-qsfcouwjersdi|Hanji 886]] states that emotion may lose control but behavior cannot, and links that distinction to "城府" in high-risk political and workplace settings.
 - Anger as exposure: [[zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr|Hanji 900]] says visible anger lowers judgment, exposes one's state, and helps stronger opponents steer the situation.
 - Strategic rather than passive restraint: [[zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr|Hanji 900]] links emotion control to reading timing, interests, and advance-or-retreat choices rather than to permanent yielding.
@@ -40,13 +47,13 @@ The concept therefore sits between ordinary [[EmotionRegulationToolkit|emotion r
 
 ## Counterevidence & Qualifications
 
-The concept should not be turned into a universal rule against expression. In lower-stakes relationships, visible emotion can communicate boundaries, grief, care, or injustice. The late-Han sources apply the discipline to dangerous hierarchy, court politics, and hostile organizational settings where visible feeling can become actionable information for stronger actors.
+The concept should not be turned into a universal rule against expression. In lower-stakes relationships, visible emotion can communicate boundaries, grief, care, or injustice. The late-Han sources apply the discipline to dangerous hierarchy, court politics, military command, and hostile organizational settings where visible feeling can become actionable information for stronger actors or a direct cause of command collapse.
 
 ## What Changed
 
-- The page has been migrated to `synthesis-v1`.
-- The synthesis now explicitly separates internal emotion from external behavior through the Hanji 886 "城府" framing.
-- The page now treats anger control, survival restraint, and concealed revenge as different outcomes of the same discipline.
+- Added Hanji 856 as a command-panic case where fear becomes flight, violence against advice, or restored morale depending on the actor.
+- Extended the synthesis from anger, survival, and revenge into military-organizational self-command.
+- Kept the page's warning that concealment is strategic but not inherently virtuous.
 
 ## Related Concepts
 

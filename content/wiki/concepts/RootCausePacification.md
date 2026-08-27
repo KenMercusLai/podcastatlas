@@ -8,6 +8,7 @@ sources:
   - zizhi-tongjian-hanji-892-xiu-zhiyu-guren-youshenme-jiejing-lnobbkp6mj4xyb9jeuqsiuqogct
   - zizhi-tongjian-hanji-883-laoban-yao-fansi-ruhe-bimian-gaoguan-neihong-lph-fycnqas6hztjq1jbsisvylid
   - zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6
+  - zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks
 last_updated: 2026-08-28
 knowledge_schema: synthesis-v1
 ---
@@ -18,7 +19,9 @@ Root-cause pacification / 查因安抚式治理 is the governance pattern where 
 
 ## Current Synthesis
 
-The current evidence treats rebellion as a governance signal, not only a security event. The earliest current layer is Liu Yu's Huan-era warning that eunuch privilege, palace spending, mansion construction, harsh labor, judicial bribery, and popular desperation can become banditry and revolt if the ruler treats symptoms as isolated disturbances. Hanji 922 explains the Bandun Man revolt through illegal taxes, blocked complaints, and local abuse before repair through amnesty and a clean administrator. Hanji 927 generalizes the same logic through Jia Cong's Jiaozhi appointment: investigate causes, reduce burdens, recall refugees, punish violent leaders, and install capable local officials.
+The current evidence treats rebellion as a governance signal, not only a security event. [[zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks|Hanji 856]] adds the earliest operational layer: [[HuangfuGuiLateHan|皇甫规]] stabilizes his own army, then impeaches frontier officials tied to extraction, killing surrenderers, and incompetence before wider Qiang surrender follows. Liu Yu's Huan-era warning supplies the court-level layer, connecting eunuch privilege, palace spending, mansion construction, harsh labor, judicial bribery, and popular desperation to banditry and revolt if the ruler treats symptoms as isolated disturbances.
+
+Hanji 922 explains the Bandun Man revolt through illegal taxes, blocked complaints, and local abuse before repair through amnesty and a clean administrator. Hanji 927 generalizes the same logic through Jia Cong's Jiaozhi appointment: investigate causes, reduce burdens, recall refugees, punish violent leaders, and install capable local officials.
 
 Hanji 883 and Hanji 892 extend the pattern into the Eastern Qiang case from opposite sides of the campaign. Hanji 883 records the policy dispute before later pacification: [[ZhangHuanLateHan|张奂]] favors surrender and peace because residual Qiang groups are hard to eliminate, while [[DuanJiongLateHan|段熲]] argues for hard suppression and rejects inward resettlement. Hanji 892 gives the ethical and causal qualification after Duan's victory: [[SimaGuang|司马光]] and the host reject treating Qiang people as inherently killable enemies and connect rebellion to long-running commandery exploitation. The concept therefore allows force, but only when force is bounded by diagnosis and repair rather than by treating frontier populations as permanent weeds to uproot.
 
@@ -26,14 +29,16 @@ Hanji 883 and Hanji 892 extend the pattern into the Eastern Qiang case from oppo
 
 - Rebellion diagnosis starts by asking what local conditions made disorder socially rational.
 - Illegal extraction, harsh treatment, judicial corruption, palace waste, and blocked complaint channels convert ordinary subjects or frontier peoples into rebels.
+- Personnel accountability can itself be pacification when abusive or incompetent officials are part of the reason people refuse trust.
 - Durable pacification requires administrative repair: clean officials, burden relief, reassurance, refugee recall, and sometimes resettlement.
 - Force can be part of repair, but it should be targeted at violent leadership or immediate military danger rather than generalized revenge.
-- Court-level consumption and legal bribery belong inside rebellion diagnosis because they create the desperation that local force later confronts.
 - Hanji 883 adds that surrender policy itself needs diagnosis: conciliation can reduce killing, but unintegrated surrender may also create provisioning, settlement, or rebound risks.
 - Hanji 892 adds an ethical boundary: military success does not erase the ruler's duty to treat non-Han peoples as life-valuing humans.
 
 ## Evidence
 
+- Qiang-front personnel repair: [[zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks|Hanji 856]] says Huangfu Gui impeaches frontier officials tied to corruption, killing surrenderers, and incompetence, after which wider Qiang submission and road reopening follow.
+- Internal stabilization before pacification: [[zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks|Hanji 856]] says Huangfu Gui first reassures an isolated, epidemic-hit army, showing that the governing side's morale and credibility must be repaired before surrender policy can work.
 - Court-level cause chain: [[zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6|Hanji 866]] has Liu Yu connect eunuch enfeoffment, palace women, fiscal waste, mansion construction, harsh labor, and judicial bribery to public distress.
 - Rebellion-warning logic: [[zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6|Hanji 866]] says grievances can become banditry and wider disorder when the ruler ignores small disturbances.
 - Bandun Man diagnosis: [[zizhi-tongjian-hanji-922-ruhe-zai-fanchen-zhong-xiulian-qingshang-lsxiqneyyeod6aeeqxuhs517pn1x|Hanji 922]] says Chen Bao attributes the Bandun Man revolt to illegal taxes, forced household sales, ignored complaints, and blocked routes to the capital.
@@ -45,10 +50,11 @@ Hanji 883 and Hanji 892 extend the pattern into the Eastern Qiang case from oppo
 
 ## Counterevidence & Qualifications
 
-Root-cause pacification does not claim that every rebellion can be solved without coercion. The current sources include military defeat, execution of violent leaders, forced settlement, and suspicion that surrender can be temporary. The concept's boundary is that coercion should follow diagnosis and repair needs; it should not become an excuse for extraction, blanket extermination, judicial sale, or denial that abused populations have intelligible grievances.
+Root-cause pacification does not claim that every rebellion can be solved without coercion. The current sources include military defeat, execution of violent leaders, forced settlement, and suspicion that surrender can be temporary. Hanji 856 also should not be read as proving that personnel repair alone caused every Qiang surrender. The concept's boundary is that coercion should follow diagnosis and repair needs; it should not become an excuse for extraction, blanket extermination, judicial sale, or denial that abused populations have intelligible grievances.
 
 ## What Changed
 
+- Added Hanji 856 as an earlier operational case where Huangfu Gui pairs military stabilization with frontier-official impeachment.
 - The concept now reaches upward to court-level consumption, judicial bribery, and eunuch privilege as causes of local disorder.
 - Liu Yu's memorial supplies an early warning layer before the Bandun, Jiaozhi, and Eastern Qiang repair cases.
 - Surrender-and-resettlement judgment, anti-extermination ethics, and administrative repair remain part of the bounded synthesis.
@@ -56,6 +62,7 @@ Root-cause pacification does not claim that every rebellion can be solved withou
 ## Related Concepts
 
 - [[PeopleBasedPoliticalSecurity|民心型政治安全]] - broader security frame in which popular support and reduced resentment become practical state capacity.
+- [[HuangfuGuiLateHan|皇甫规]] - operational Qiang-front case where personnel repair and surrender policy are tied together.
 - [[LiuYuAstrologerLateHan|刘瑜]] - remonstrant whose memorial links palace-level corruption to popular distress and rebellion risk.
 - [[OccupationPacificationStrategy|占领区怀柔治理]] - adjacent pacification pattern for newly occupied or enemy territory.
 - [[YizhouPacificationByLeniency|益州宽惠安抚]] - narrower Liu Yan case of lenient settlement.

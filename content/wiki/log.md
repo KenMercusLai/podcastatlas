@@ -12677,6 +12677,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-28] ingest | 《资治通鉴·汉纪》856丨历史告诉你：人若心乱，阵脚自乱
+
+Added source page for 芮淇讲透资治通鉴 episode on Huangfu Gui's 162 CE Qiang-front morale repair and official impeachment, the southern Jingzhou command-collapse chain from Ma Mu and Liu Du to Li Su's killing of Hu Shuang, Feng Gun's self-protected campaign command, and Ying Feng's credited support. Created Ma Mu, Liu Du, Li Su (Nan Commandery), and Hu Shuang; updated Huangfu Gui, Feng Gun, Ying Feng, Du Shang, Root-Cause Pacification, Strategic Emotion Concealment, overview, and index. No settled contradiction found; transcript forms are normalized against the received Zizhi Tongjian sequence and the Nan Commandery Li Su is kept distinct from the later Lü Bu/Niu Fu Li Su.
+
 ## [2026-08-28] ingest | Accelerate Learning & Increase Cognitive Capacity | Dr. Tommy Wood
 
 Added source page for a Huberman Lab episode with Tommy Wood on adult neuroplasticity, multimodal learning, flow versus clutch states, exercise-specific brain adaptation, nutrient sufficiency, dementia prevention, concussion recovery, and strongman training. Created Tommy Wood, Better Brain, BrainHQ, Maintain Your Brain Trial, POINTER Trial, Multimodal Adult Neuroplasticity, Flow-Clutch Learning Distinction, Exercise-Specific Brain Adaptation, Brain-Health Nutrient Sufficiency, Processing-Speed Training Dementia Signal, and Concussion Active Recovery pages; updated Huberman Lab, Andrew Huberman, Neuroplasticity, Desirable Difficulty, Modifiable Dementia Risk Factors, Shingles Vaccine Dementia Signal, Cognitive Resilience, overview, and index. No settled contradiction found; supplement, peptide, vaccine, exercise-programming, concussion, and dementia-prevention claims remain source-scoped and clinically bounded.
@@ -12836,6 +12840,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-28] ingest | 689. A Murderous Affair: The Habsburgs' Greatest Scandal (Part 1)
 
 Added source page for The Rest Is History episode on Crown Prince Rudolf's formation, Franz Joseph and Sisi's family world, the 1867 dual monarchy, fin-de-siecle Vienna, Rudolf's politics and marriage, Mary Vetsera's early pursuit, and Countess Larish's access brokerage before Mayerling. Created Princess Stephanie of Belgium, Elisabeth Marie of Austria, Georg von Schonerer, Austro-Hungarian Dual Monarchy, and Dynastic Heir Role Entrapment; updated Crown Prince Rudolf, Mary Vetsera, Franz Joseph I, Empress Sisi, Austria-Hungary, Habsburg Dynasty, Countess Larish, Mayerling Incident, Kaiser Wilhelm II, Mayerling Death Pact, Fin-de-Siecle Vienna Crisis Reading, Vienna, The Rest Is History, overview, and index. No settled contradiction found; Countess Larisch is kept on the existing CountessLarish route, and psychological, medical, agency, and decline-causation claims remain source-scoped.
+
+## [2026-08-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-28] lint | Wiki health check
 

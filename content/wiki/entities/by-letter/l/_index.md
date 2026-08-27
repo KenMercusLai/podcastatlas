@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 8031
+wiki_total_pages: 8035
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -824,6 +824,9 @@ wiki_pages:
   - key: "LiuDaiSikongZhangshi"
     title: "刘岱 / Liu Dai (Sikong changshi)"
     url: "/wiki/entities/liudaisikongzhangshi/"
+  - key: "LiuDuLateHan"
+    title: "刘度 / Liu Du (late Han)"
+    url: "/wiki/entities/liudulatehan/"
   - key: "LiuYanDongCommandery"
     title: "刘延 / Liu Yan (Dong Commandery)"
     url: "/wiki/entities/liuyandongcommandery/"
@@ -1211,6 +1214,9 @@ wiki_pages:
   - key: "LiSuLateHan"
     title: "李肃 / Li Su (late Han)"
     url: "/wiki/entities/lisulatehan/"
+  - key: "LiSuNanCommanderyLateHan"
+    title: "李肃 / Li Su (Nan Commandery, late Han)"
+    url: "/wiki/entities/lisunancommanderylatehan/"
   - key: "LiYingLateHan"
     title: "李膺 / Li Ying (late Han)"
     url: "/wiki/entities/liyinglatehan/"
