@@ -117,6 +117,9 @@
     await customElements.whenDefined("pagefind-input");
     const manager = window.PagefindComponents.getInstanceManager();
     const instance = manager.getInstance("default");
+    instance.pagefindOptions.ranking = {
+      metaWeights: { aliases: 10.0 },
+    };
     const buttons = [...document.querySelectorAll("[data-search-group]")];
 
     const selectGroup = (group) => {

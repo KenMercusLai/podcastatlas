@@ -1,0 +1,203 @@
+{
+  "version": 1,
+  "queries": [
+    {
+      "id": "zh-show-mianji",
+      "query": "面基",
+      "locale": "zh",
+      "kind": "canonical",
+      "filters": {"group": "Shows"},
+      "expected_url": "/shows/面基/",
+      "expected_type": "Show",
+      "expected_group": "Shows",
+      "max_rank": 5
+    },
+    {
+      "id": "en-entity-openai",
+      "query": "OpenAI",
+      "locale": "en",
+      "kind": "canonical",
+      "filters": {"group": "People & Organizations"},
+      "expected_url": "/wiki/entities/openai/",
+      "expected_type": "Entity",
+      "expected_group": "People & Organizations",
+      "max_rank": 5
+    },
+    {
+      "id": "mixed-entity-qin-shi-huang",
+      "query": "Qin Shi Huang 秦始皇",
+      "locale": "mixed",
+      "kind": "canonical",
+      "filters": {"group": "People & Organizations"},
+      "expected_url": "/wiki/entities/qinshihuang/",
+      "expected_type": "Entity",
+      "expected_group": "People & Organizations",
+      "max_rank": 5
+    },
+    {
+      "id": "alias-fda",
+      "query": "FDA",
+      "locale": "en",
+      "kind": "alias",
+      "filters": {"group": "People & Organizations"},
+      "expected_url": "/wiki/entities/foodanddrugadministration/",
+      "expected_type": "Entity",
+      "expected_group": "People & Organizations",
+      "max_rank": 5
+    },
+    {
+      "id": "alias-aws",
+      "query": "AWS",
+      "locale": "en",
+      "kind": "alias",
+      "filters": {"group": "People & Organizations"},
+      "expected_url": "/wiki/entities/amazonwebservices/",
+      "expected_type": "Entity",
+      "expected_group": "People & Organizations",
+      "max_rank": 5
+    },
+    {
+      "id": "alias-nfl",
+      "query": "NFL",
+      "locale": "en",
+      "kind": "alias",
+      "filters": {"group": "People & Organizations"},
+      "expected_url": "/wiki/entities/nationalfootballleague/",
+      "expected_type": "Entity",
+      "expected_group": "People & Organizations",
+      "max_rank": 5
+    },
+    {
+      "id": "alias-nba",
+      "query": "NBA",
+      "locale": "en",
+      "kind": "alias",
+      "filters": {"group": "People & Organizations"},
+      "expected_url": "/wiki/entities/nationalbasketballassociation/",
+      "expected_type": "Entity",
+      "expected_group": "People & Organizations",
+      "max_rank": 5
+    },
+    {
+      "id": "alias-cftc",
+      "query": "CFTC",
+      "locale": "en",
+      "kind": "alias",
+      "filters": {"group": "People & Organizations"},
+      "expected_url": "/wiki/entities/commodityfuturestradingcommission/",
+      "expected_type": "Entity",
+      "expected_group": "People & Organizations",
+      "max_rank": 5
+    },
+    {
+      "id": "alias-gongsun-zan-zh",
+      "query": "公孙瓒",
+      "locale": "zh",
+      "kind": "alias",
+      "filters": {"group": "People & Organizations"},
+      "expected_url": "/wiki/entities/gongsunzan/",
+      "expected_type": "Entity",
+      "expected_group": "People & Organizations",
+      "max_rank": 5
+    },
+    {
+      "id": "alias-ying-si-title",
+      "query": "秦惠文王",
+      "locale": "zh",
+      "kind": "alias",
+      "filters": {"group": "People & Organizations"},
+      "expected_url": "/wiki/entities/yingsi/",
+      "expected_type": "Entity",
+      "expected_group": "People & Organizations",
+      "max_rank": 5
+    },
+    {
+      "id": "alias-liang-hui-wang",
+      "query": "魏惠王",
+      "locale": "zh",
+      "kind": "alias",
+      "filters": {"group": "People & Organizations"},
+      "expected_url": "/wiki/entities/lianghuiwang/",
+      "expected_type": "Entity",
+      "expected_group": "People & Organizations",
+      "max_rank": 5
+    },
+    {
+      "id": "alias-qin-shi-huang-personal-name",
+      "query": "嬴政",
+      "locale": "zh",
+      "kind": "alias",
+      "filters": {"group": "People & Organizations"},
+      "expected_url": "/wiki/entities/qinshihuang/",
+      "expected_type": "Entity",
+      "expected_group": "People & Organizations",
+      "max_rank": 5
+    },
+    {
+      "id": "alias-shang-yang-personal-name",
+      "query": "公孙鞅",
+      "locale": "zh",
+      "kind": "alias",
+      "filters": {"group": "People & Organizations"},
+      "expected_url": "/wiki/entities/shangyang/",
+      "expected_type": "Entity",
+      "expected_group": "People & Organizations",
+      "max_rank": 5
+    },
+    {
+      "id": "alias-kuai-che-alternate-name",
+      "query": "蒯通",
+      "locale": "zh",
+      "kind": "alias",
+      "filters": {"group": "People & Organizations"},
+      "expected_url": "/wiki/entities/kuaiche/",
+      "expected_type": "Entity",
+      "expected_group": "People & Organizations",
+      "max_rank": 5
+    },
+    {
+      "id": "alias-zhao-kuangyin-title",
+      "query": "宋太祖",
+      "locale": "zh",
+      "kind": "alias",
+      "filters": {"group": "People & Organizations"},
+      "expected_url": "/wiki/entities/zhaokuangyin/",
+      "expected_type": "Entity",
+      "expected_group": "People & Organizations",
+      "max_rank": 5
+    },
+    {
+      "id": "en-concept-fda-review-modernization",
+      "query": "FDA Review Modernization",
+      "locale": "en",
+      "kind": "canonical",
+      "filters": {"group": "Concepts & Topics"},
+      "expected_url": "/wiki/concepts/fdareviewmodernization/",
+      "expected_type": "Concept",
+      "expected_group": "Concepts & Topics",
+      "max_rank": 5
+    },
+    {
+      "id": "en-episode-fda",
+      "query": "Supercharging a New FDA Marty Makary",
+      "locale": "en",
+      "kind": "canonical",
+      "filters": {"group": "Episodes"},
+      "expected_url": "/episodes/all-in-with-chamath-jason-sacks--friedberg---supercharging-a-new-fda-marty-makary-on-science-power--patients-39750050/",
+      "expected_type": "Episode",
+      "expected_group": "Episodes",
+      "max_rank": 5
+    },
+    {
+      "id": "en-source-note-fda",
+      "query": "Supercharging a New FDA Marty Makary",
+      "locale": "en",
+      "kind": "canonical",
+      "filters": {"group": "Source Notes"},
+      "expected_url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-supercharging-a-new-fda-marty-makary-on-science-power-patients-39750050/",
+      "expected_type": "Source Note",
+      "expected_group": "Source Notes",
+      "max_rank": 5
+    }
+  ]
+}

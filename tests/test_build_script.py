@@ -41,6 +41,14 @@ class BuildScriptTest(unittest.TestCase):
         self.assertNotIn("--glob", pagefind_args)
         self.assertNotIn("--exclude-selectors", pagefind_args)
 
+    def test_validates_search_aliases_before_hugo_indexes_them(self):
+        build_script = (ROOT / "build.sh").read_text()
+        validator = "python3 scripts/validate-search-aliases.py"
+        hugo = 'hugo build --gc --minify --cleanDestinationDir "$@"'
+
+        self.assertIn(validator, build_script)
+        self.assertLess(build_script.index(validator), build_script.index(hugo))
+
 
 if __name__ == "__main__":
     unittest.main()

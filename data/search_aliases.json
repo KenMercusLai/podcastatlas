@@ -1,0 +1,161 @@
+{
+  "version": 1,
+  "entries": {
+    "wiki/entities/AmazonWebServices.md": {
+      "aliases": [
+        {
+          "value": "AWS",
+          "evidence": [
+            {
+              "path": "content/wiki/concepts/AIComputeContinuity.md",
+              "wikilink": "[[AmazonWebServices|AWS]]"
+            }
+          ]
+        }
+      ]
+    },
+    "wiki/entities/CommodityFuturesTradingCommission.md": {
+      "aliases": [
+        {
+          "value": "CFTC",
+          "evidence": [
+            {
+              "path": "content/wiki/concepts/PredictionMarketEthics.md",
+              "wikilink": "[[CommodityFuturesTradingCommission|CFTC]]"
+            }
+          ]
+        }
+      ]
+    },
+    "wiki/entities/FoodAndDrugAdministration.md": {
+      "aliases": [
+        {
+          "value": "FDA",
+          "evidence": [
+            {
+              "path": "content/wiki/concepts/FallopianTubeAccessDiagnostics.md",
+              "wikilink": "[[FoodAndDrugAdministration|FDA]]"
+            }
+          ]
+        }
+      ]
+    },
+    "wiki/entities/GongsunZan.md": {
+      "aliases": [
+        {
+          "value": "公孙瓒",
+          "evidence": [
+            {
+              "path": "content/wiki/concepts/FrontierAuxiliarySupplyFailure.md",
+              "wikilink": "[[GongsunZan|公孙瓒]]"
+            }
+          ]
+        }
+      ]
+    },
+    "wiki/entities/KuaiChe.md": {
+      "aliases": [
+        {
+          "value": "蒯彻 / 蒯通",
+          "evidence": [
+            {
+              "path": "content/wiki/concepts/CommandAuthorityRecapture.md",
+              "wikilink": "[[KuaiChe|蒯彻 / 蒯通]]"
+            }
+          ]
+        }
+      ]
+    },
+    "wiki/entities/LiangHuiWang.md": {
+      "aliases": [
+        {
+          "value": "魏惠王",
+          "evidence": [
+            {
+              "path": "content/wiki/concepts/LuWineHandanWarCascade.md",
+              "wikilink": "[[LiangHuiWang|魏惠王]]"
+            }
+          ]
+        }
+      ]
+    },
+    "wiki/entities/NationalBasketballAssociation.md": {
+      "aliases": [
+        {
+          "value": "NBA",
+          "evidence": [
+            {
+              "path": "content/wiki/concepts/PredictionMarketEthics.md",
+              "wikilink": "[[NationalBasketballAssociation|NBA]]"
+            }
+          ]
+        }
+      ]
+    },
+    "wiki/entities/NationalFootballLeague.md": {
+      "aliases": [
+        {
+          "value": "NFL",
+          "evidence": [
+            {
+              "path": "content/wiki/concepts/LeagueFirstOperatingModel.md",
+              "wikilink": "[[NationalFootballLeague|NFL]]"
+            }
+          ]
+        }
+      ]
+    },
+    "wiki/entities/QinShiHuang.md": {
+      "aliases": [
+        {
+          "value": "嬴政 / 秦始皇",
+          "evidence": [
+            {
+              "path": "content/wiki/concepts/WeakStateAssassinationStrategy.md",
+              "wikilink": "[[QinShiHuang|嬴政 / 秦始皇]]"
+            }
+          ]
+        }
+      ]
+    },
+    "wiki/entities/ShangYang.md": {
+      "aliases": [
+        {
+          "value": "公孙鞅 / 商鞅",
+          "evidence": [
+            {
+              "path": "content/wiki/concepts/LegalistRulerTechnique.md",
+              "wikilink": "[[ShangYang|公孙鞅 / 商鞅]]"
+            }
+          ]
+        }
+      ]
+    },
+    "wiki/entities/YingSi.md": {
+      "aliases": [
+        {
+          "value": "秦惠文王",
+          "evidence": [
+            {
+              "path": "content/wiki/concepts/GraceDebtLoyaltyPressure.md",
+              "wikilink": "[[YingSi|秦惠文王]]"
+            }
+          ]
+        }
+      ]
+    },
+    "wiki/entities/ZhaoKuangyin.md": {
+      "aliases": [
+        {
+          "value": "赵匡胤 / 宋太祖",
+          "evidence": [
+            {
+              "path": "content/wiki/concepts/SongSuccessionLegitimacyCrisis.md",
+              "wikilink": "[[ZhaoKuangyin|赵匡胤 / 宋太祖]]"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -117,6 +117,10 @@ main() {
   echo "Preparing On This Day routes..."
   python3 scripts/prepare-on-this-day.py
 
+  # Validate curated Pagefind aliases against canonical wiki evidence
+  echo "Validating search aliases..."
+  python3 scripts/validate-search-aliases.py
+
   # Build the project
   echo "Building the project..."
   hugo build --gc --minify --cleanDestinationDir "$@"
@@ -124,6 +128,14 @@ main() {
   # Build the full-site search index after Hugo has produced every HTML page
   echo "Building the Pagefind search index..."
   ./node_modules/.bin/pagefind --site public
+
+  # Exercise the generated index with the fixed multilingual query contract
+  echo "Verifying Pagefind query quality..."
+  node scripts/verify-pagefind-queries.mjs public tests/fixtures/pagefind_queries.json
+
+  # Prove same-name Concept and Entity results remain distinct and filterable
+  echo "Verifying Pagefind same-name behavior..."
+  bash scripts/verify-pagefind-same-name.sh
 }
 
 main "$@"

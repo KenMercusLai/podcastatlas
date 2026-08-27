@@ -40,6 +40,8 @@ class SearchLayoutTest(unittest.TestCase):
         self.assertIn("<pagefind-results hide-sub-results>", rendered)
         self.assertNotIn("<pagefind-searchbox", rendered)
         self.assertIn('data-pagefind-ignore="all"', rendered)
+        self.assertIn("instance.pagefindOptions.ranking", rendered)
+        self.assertIn("metaWeights: { aliases: 10.0 }", rendered)
 
     def test_search_page_has_fixed_user_facing_groups_and_custom_result_context(self):
         layout = ROOT / "layouts" / "search" / "list.html"
@@ -92,7 +94,11 @@ class SearchLayoutTest(unittest.TestCase):
         self.assertIn('data-pagefind-meta="context[content]"', layout)
         self.assertIn('data-pagefind-meta="aliases[content]"', layout)
         self.assertIn('data-pagefind-index-attrs="content"', layout)
-
+        self.assertIn('itemprop="keywords"', layout)
+        self.assertGreater(
+            layout.index('data-pagefind-meta="aliases[content]"'),
+            layout.index("<body"),
+        )
         classifier = type_partial.read_text()
         self.assertIn('.Section "episodes"', classifier)
         self.assertIn(".Params.type", classifier)
@@ -113,6 +119,12 @@ class SearchLayoutTest(unittest.TestCase):
 
         aliases = aliases_partial.read_text()
         self.assertIn(".Params.search_aliases", aliases)
+        self.assertIn("hugo.Data.search_aliases.entries", aliases)
+        self.assertIn("errorf", aliases)
+        self.assertIn("in $registryAliases $alias", aliases)
+        self.assertNotIn(".Site.Data", aliases)
+        self.assertIn(".File.Path", aliases)
+        self.assertIn(".value", aliases)
         self.assertNotIn(".Params.aliases", aliases)
 
 

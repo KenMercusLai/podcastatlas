@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "queries": [
+    {
+      "id": "same-name-unfiltered",
+      "query": "Shared Identity",
+      "locale": "en",
+      "kind": "same-name",
+      "expected_url": "/wiki/concepts/shared-identity/",
+      "expected_type": "Concept",
+      "expected_group": "Concepts & Topics",
+      "max_rank": 2,
+      "also_expected_results": [
+        {
+          "url": "/wiki/entities/shared-identity/",
+          "type": "Entity",
+          "group": "People & Organizations"
+        }
+      ]
+    },
+    {
+      "id": "same-name-concept-filter",
+      "query": "Shared Identity",
+      "locale": "en",
+      "kind": "same-name",
+      "filters": {"group": "Concepts & Topics"},
+      "expected_url": "/wiki/concepts/shared-identity/",
+      "expected_type": "Concept",
+      "expected_group": "Concepts & Topics",
+      "max_rank": 1
+    },
+    {
+      "id": "same-name-entity-filter",
+      "query": "Shared Identity",
+      "locale": "en",
+      "kind": "same-name",
+      "filters": {"group": "People & Organizations"},
+      "expected_url": "/wiki/entities/shared-identity/",
+      "expected_type": "Entity",
+      "expected_group": "People & Organizations",
+      "max_rank": 1
+    },
+    {
+      "id": "registry-only-alias",
+      "query": "Curated Needle",
+      "locale": "en",
+      "kind": "registry-alias",
+      "filters": {"group": "People & Organizations"},
+      "expected_url": "/wiki/entities/canonical-identity/",
+      "expected_type": "Entity",
+      "expected_group": "People & Organizations",
+      "max_rank": 1
+    }
+  ]
+}
