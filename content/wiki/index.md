@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.214 为什么越优秀的人，越容易在职场被PUA到怀疑自己？从《铁拳教育》聊到“铁拳职场”](sources/vol-214-weishenme-yue-youxiu-de-ren-yue-rongyi-zai-zhichang-bei-pua-dao-huaiyi-ziji-cong-tiequan-jiaoyu-liaodao-tiequan-zhichang-lmx4ewrw7kvcqpyh-q3bur35ybgz.md) — 这病说来话长 episode with 阿汤 and 南基贺 on 《铁拳教育》, workplace bullying, structural power imbalance, parental projection, psychological boundaries, evidence preservation, and nonviolent complaint/support routes.
 - [《资治通鉴·汉纪》857丨学会共赢，才是真正的赢家](sources/zizhi-tongjian-hanji-857-xuehui-gongying-cai-shi-zhenzheng-de-yingjia-lh3zx6pw-4ib7owiz8c68bv-9htn.md) — 芮淇讲透资治通鉴 episode on win-win relationship framing, Huangfu Gui's frontier-pacification self-defense, Xu Huang and Zuo Guan's gift solicitation, and eunuch-gated reward and punishment pressure.
 - [《资治通鉴·汉纪》858丨为什么劝你一定要换位思考？](sources/zizhi-tongjian-hanji-858-weishenme-quan-ni-yiding-yao-huanwei-sikao-lobr-xznqo-ctjpc-ytpstubmahl.md) — 芮淇讲透资治通鉴 episode on perspective-taking, Chen Fan's ignored hunting remonstrance, Feng Gun's eunuch-driven dismissal, and Zhou Jing/Yang Bing's accepted cleanup of eunuch-linked unqualified officeholders.
 - [《资治通鉴·汉纪》859丨古代好人为什么难当好官？](sources/zizhi-tongjian-hanji-859-gudai-haoren-weishenme-nan-dang-haoguan-llkyx18ssvserxncvrtkw7xfduad.md) — 芮淇讲透资治通鉴 episode on Huangfu Gui recommending Zhang Huan, Duan Jiong's restoration under Qiang pressure, Zhu Mu's rejected anti-eunuch remonstrance, and eunuch power as ruler-side palace proximity demand.
@@ -1606,6 +1607,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [南基贺 / Nan Jihe](entities/NanJiHe.md) — Seoul psychiatrist guest in VOL.214 explaining school authority conflict, workplace bullying, structural power imbalance, and psychological boundary protection.
+- [《铁拳教育》 / True Education](entities/TrueEducationKDrama.md) — Korean drama used in VOL.214 as a hook for school authority, parent control, youth violence, and workplace-bullying analogies.
 - [黄琼 / Huang Qiong (late Han)](entities/HuangQiongLateHan.md) — Late-Han official whose 164 CE funeral reveals Xu Zhi's selective mourning and sets up Guo Tai's character interpretation.
 - [茅容 / Mao Rong (late Han)](entities/MaoRongLateHan.md) — Filial late-Han figure whose Xu Zhi exchange, rain-shelter posture, and household food allocation become evidence for Guo Tai's people judgment.
 - [黄允 / Huang Yun (late Han)](entities/HuangYunLateHan.md) — Talented but conduct-fragile Huan-era figure whose Guo Tai forecast is later qualified by marriage opportunism and public reputation collapse.
@@ -1638,9 +1641,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Antonio Damasio](entities/AntonioDamasio.md) — Decision-and-emotion reference used to show that emotion supports motivation and choice.
 - [Paul Ekman](entities/PaulEkman.md) — Facial-expression research reference whose influence is acknowledged and qualified by the Adolphs episode.
 - [Patient SM](entities/PatientSM.md) — Amygdala-lesion research case used to distinguish fear perception, external-threat fear, and internal panic.
-- [这病说来话长 / Zhe Bing Shuo Lai Hua Chang](entities/ZheBingShuoLaiHuaChang.md) — Chinese medical-literacy podcast represented by oncology, orthopedics, outpatient diagnostic safety, lifestyle weight management, sugar-control literacy, and online medical-language boundary episodes.
+- [这病说来话长 / Zhe Bing Shuo Lai Hua Chang](entities/ZheBingShuoLaiHuaChang.md) — Chinese medical-literacy podcast represented by oncology, orthopedics, outpatient diagnostic safety, lifestyle weight management, sugar-control literacy, online medical-language boundaries, and workplace psychological-boundary episodes.
 - [马浩宁 / Ma Haoning](entities/MaHaoning.md) — Medical guest explaining lumbar disc herniation, symptom-driven spine care, rehabilitation pacing, outpatient return thresholds, and low-cost safety checks.
-- [阿汤 / A Tang](entities/Atang.md) — Host voice in 这病说来话长 episodes, turning diagnostic uncertainty, weight-management anxiety, sugar-label confusion, and internet medical vocabulary into patient-facing questions and practical boundaries.
+- [阿汤 / A Tang](entities/Atang.md) — Host voice in 这病说来话长 episodes, turning diagnostic uncertainty, health anxiety, internet medical vocabulary, and workplace pressure into listener-facing questions and practical boundaries.
 - [岳宛柔 / Yue Wanrou](entities/YueWanrou.md) — VOL.215 guest explaining sugar preference, staple foods, liquid sugar, low-GI claims, labels, sweeteners, and practical sugar control.
 - [大食话 / Da Shi Hua](entities/DaShiHua.md) — Food-media label attached to Yue Wanrou in the VOL.215 sugar-control episode.
 - [薛小凡 / Xue Xiaofan](entities/XueXiaofan.md) — VOL.216 guest explaining prefrontal-cortex internet vocabulary, state-dependent self-control, ADHD self-diagnosis boundaries, and clinical behavior-change red flags.
@@ -9629,6 +9632,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Workplace Bullying / 职场霸凌](concepts/WorkplaceBullying.md) — Repeated or structurally enabled workplace harm through humiliation, surveillance, exclusion, coercive workload, and self-worth erosion.
+- [Structural Power Imbalance / 结构性权力不平衡](concepts/StructuralPowerImbalance.md) — Institutional asymmetry where one party can impose time, evaluation, punishment, attention, or risk without equal reciprocal exposure.
+- [Psychological Boundary Protection / 心理边界保护](concepts/PsychologicalBoundaryProtection.md) — Coping and escalation practice for separating attacks from self-worth, reducing emotional payoff, preserving evidence, and seeking support.
+- [Parental Projection Control / 父母投射式控制](concepts/ParentalProjectionControl.md) — Caregiving pattern where a parent treats the child, teacher, or education path as an extension of the parent's own plan or identity.
 - [空誉违实 / Empty Reputation-Reality Gap](concepts/EmptyReputationRealityGap.md) — Reputation failure pattern where public fame outruns actual conduct or ability, making recommendation, marriage, and office selection risky.
 - [父母期望羞耻化 / Parental Expectation Shame](concepts/ParentalExpectationShame.md) — Parenting pattern where excessive expectation converts present traits into imagined future failure and makes children hide their real state through shame.
 - [战利品损失动员 / Spoils-Loss Mobilization](concepts/SpoilsLossMobilization.md) — Coercive military motivation tactic where lost captured goods are redirected into renewed desire to fight for enemy wealth.
@@ -11663,7 +11670,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Not Working Ambivalence / 不上班的复杂性](concepts/NotWorkingAmbivalence.md) — EP257 frame for not working as relief, drift, recovery, freelance work, failed re-entry, and family negotiation rather than simple freedom.
 - [Freelance Market Exposure / 自由职业市场暴露](concepts/FreelanceMarketExposure.md) — Risk shift where leaving an organization increases control while exposing the individual to clients, cash flow, payment, reputation, and self-management burdens.
 - [Resume Gap Stigma / 简历空白污名](concepts/ResumeGapStigma.md) — Hiring suspicion attached to visible time away from employment, including health treatment, burnout recovery, exploration, and failed re-entry.
-- [Work Self-Worth Boundary / 工作与自我价值边界](concepts/WorkSelfWorthBoundary.md) — Practice of separating work outcomes, boss/customer judgment, and project failure from personal worth.
+- [Work Self-Worth Boundary / 工作与自我价值边界](concepts/WorkSelfWorthBoundary.md) — Practice of separating work outcomes, boss/customer judgment, AI-era usefulness, bullying pressure, and project failure from personal worth.
 - [Free Will / 自由意志](concepts/FreeWill.md) — Meaningful agency under causal, biological, social, and AI-era constraints.
 - [Causal Determinism / 因果决定论](concepts/CausalDeterminism.md) — Free-will challenge that action may be traceable through prior physical, biological, and social causes.
 - [Laplace's Demon / 拉普拉斯妖](concepts/LaplacesDemon.md) — Predictability thought experiment used in EP256 to pressure naive free-will intuitions.
@@ -12143,7 +12150,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Surgical Outcome Metric Distortion](concepts/SurgicalOutcomeMetricDistortion.md) — Incentive problem where crude mortality statistics can discourage surgeons from accepting the sickest or rarest cases.
 - [Urban-Edge Nature / 城市边缘自然](concepts/UrbanEdgeNature.md) — Mixed city/suburb/village habitat where animals, residents, infrastructure, waste, safety, and informal human behavior shape one lived ecology.
 - [Community Firefly Protection / 社区萤火虫保护](concepts/CommunityFireflyProtection.md) — Small-scale urban conservation where darkness, path lights, resident cooperation, and night observation decide whether local fireflies can persist.
-- [Psychological Abuse Recognition / 精神虐待识别](concepts/PsychologicalAbuseRecognition.md) — Naming intimidation, verbal terror, shame, and reality distortion as abuse even without visible injury.
+- [Psychological Abuse Recognition / 精神虐待识别](concepts/PsychologicalAbuseRecognition.md) — Naming intimidation, humiliation, shame, reality distortion, and coercive workplace or relationship pressure as harm even without visible injury.
 - [Why-Not-Leave Victim Blaming / “为什么不离开”受害者责难](concepts/WhyNotLeaveVictimBlaming.md) — Critique of treating delayed exit from abuse as the victim's failure rather than a control, fear, shame, and resource problem.
 - [Social Media Abuse Mask / 社交媒体虐待遮蔽](concepts/SocialMediaAbuseMask.md) — Curated online peace or courage making private abuse and pain harder to see.
 - [Love Rescue Trap / 以爱拯救陷阱](concepts/LoveRescueTrap.md) — Pattern where love, forgiveness, or endurance becomes a self-erasing attempt to save a harmful partner.
@@ -15393,7 +15400,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Voice Interaction](concepts/VoiceInteraction.md) — AI interaction mode based on speech and interactive audio experiences.
 - [Workplace Hidden Rules](concepts/WorkplaceHiddenRules.md) — Implicit communication, etiquette, and relationship norms learned inside organizations, from intern etiquette to boss-facing execution.
 - [Workplace Pacing](concepts/WorkplacePacing.md) — Managing work intensity, recovery time, output visibility, and role risk so productivity stays sustainable instead of merely continuous.
-- [Workplace Relationship Boundaries](concepts/WorkplaceRelationshipBoundaries.md) — Practical separation between coworkers, friends, bosses, allies, and private-life relationships.
+- [Workplace Relationship Boundaries](concepts/WorkplaceRelationshipBoundaries.md) — Practical separation between coworkers, friends, bosses, allies, private-life relationships, and coercive workplace power relationships.
 - [World Action Models](concepts/WorldActionModels.md) — Intermediate robot/world-model route using video-rich action-conditioned modeling, treated as useful but incomplete without causality.
 - [World Models](concepts/WorldModels.md) — Models of physical or conceptual environments linked to embodied AI, scene/state tracking, causality, learning examples, and limits of language-only prediction.
 - [Xiaohongshu Creator Monetization](concepts/XiaohongshuCreatorMonetization.md) — Platform-specific creator income model combining brand collaboration, barter, affiliate links, stores, and local services.

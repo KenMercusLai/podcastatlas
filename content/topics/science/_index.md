@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 808
+topic_total_pages: 812
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -931,6 +931,9 @@ topic_concepts:
   - key: "PalynologyAsEvidence"
     title: "Palynology As Evidence"
     url: "/wiki/concepts/palynologyasevidence/"
+  - key: "ParentalProjectionControl"
+    title: "Parental Projection Control / 父母投射式控制"
+    url: "/wiki/concepts/parentalprojectioncontrol/"
   - key: "Parentification"
     title: "Parentification / 亲职化"
     url: "/wiki/concepts/parentification/"
@@ -1024,6 +1027,9 @@ topic_concepts:
   - key: "PsychologicalAbuseRecognition"
     title: "Psychological Abuse Recognition / 精神虐待识别"
     url: "/wiki/concepts/psychologicalabuserecognition/"
+  - key: "PsychologicalBoundaryProtection"
+    title: "Psychological Boundary Protection / 心理边界保护"
+    url: "/wiki/concepts/psychologicalboundaryprotection/"
   - key: "PsychologicalFlexibilityForDissent"
     title: "Psychological Flexibility For Dissent / 不服从中的心理灵活性"
     url: "/wiki/concepts/psychologicalflexibilityfordissent/"
@@ -2117,6 +2123,9 @@ topic_entities:
   - key: "LiuBinyan"
     title: "刘彬晏 / Liu Binyan"
     url: "/wiki/entities/liubinyan/"
+  - key: "NanJiHe"
+    title: "南基贺 / Nan Jihe"
+    url: "/wiki/entities/nanjihe/"
   - key: "GeologicalResearchInstitute"
     title: "地质研究所 / 地质调查所"
     url: "/wiki/entities/geologicalresearchinstitute/"
@@ -2406,6 +2415,9 @@ topic_sources:
   - key: "using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040"
     title: "Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li"
     url: "/wiki/sources/using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040/"
+  - key: "vol-214-weishenme-yue-youxiu-de-ren-yue-rongyi-zai-zhichang-bei-pua-dao-huaiyi-ziji-cong-tiequan-jiaoyu-liaodao-tiequan-zhichang-lmx4ewrw7kvcqpyh-q3bur35ybgz"
+    title: "VOL.214 为什么越优秀的人，越容易在职场被PUA到怀疑自己？从《铁拳教育》聊到“铁拳职场”"
+    url: "/wiki/sources/vol-214-weishenme-yue-youxiu-de-ren-yue-rongyi-zai-zhichang-bei-pua-dao-huaiyi-ziji-cong-tiequan-jiaoyu-liaodao-tiequan-zhichang-lmx4ewrw7kvcqpyh-q3bur35ybgz/"
   - key: "vol-216-tingzhi-shenhua-qianeye-bie-rang-wangluo-reci-biancheng-nide-zhenduanshu-lp0cll17cydzmh36sawfj7-rjwur"
     title: "VOL.216 停止“神化”前额叶：别让网络热词变成你的诊断书"
     url: "/wiki/sources/vol-216-tingzhi-shenhua-qianeye-bie-rang-wangluo-reci-biancheng-nide-zhenduanshu-lp0cll17cydzmh36sawfj7-rjwur/"

@@ -1679,9 +1679,9 @@
       "url": "/wiki/concepts/assisteddrivingtrustformation/"
     },
     "Atang": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "lgBs8AaxGUH_xzGa8iUEwwc7ypvM [lgBs8AaxGUH_xzGa8iUEwwc7ypvM].md",
@@ -1710,6 +1710,13 @@
           "show": "这病说来话长",
           "title": "VOL.215 低GI蜂蜜、零蔗糖、抗糖丸…？这届控糖人到底踩了多少坑？ft.「大食话」",
           "url": "/wiki/sources/vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z/"
+        },
+        {
+          "episode_file": "lmx4EWrW7KvcqpyH_Q3BUR35ybGZ [lmx4EWrW7KvcqpyH_Q3BUR35ybGZ].md",
+          "key": "vol-214-weishenme-yue-youxiu-de-ren-yue-rongyi-zai-zhichang-bei-pua-dao-huaiyi-ziji-cong-tiequan-jiaoyu-liaodao-tiequan-zhichang-lmx4ewrw7kvcqpyh-q3bur35ybgz",
+          "show": "这病说来话长",
+          "title": "VOL.214 为什么越优秀的人，越容易在职场被PUA到怀疑自己？从《铁拳教育》聊到“铁拳职场”",
+          "url": "/wiki/sources/vol-214-weishenme-yue-youxiu-de-ren-yue-rongyi-zai-zhichang-bei-pua-dao-huaiyi-ziji-cong-tiequan-jiaoyu-liaodao-tiequan-zhichang-lmx4ewrw7kvcqpyh-q3bur35ybgz/"
         }
       ],
       "updated": "2026-08-28",
@@ -12541,6 +12548,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/multiteacherdistillation/"
     },
+    "NanJiHe": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmx4EWrW7KvcqpyH_Q3BUR35ybGZ [lmx4EWrW7KvcqpyH_Q3BUR35ybGZ].md",
+          "key": "vol-214-weishenme-yue-youxiu-de-ren-yue-rongyi-zai-zhichang-bei-pua-dao-huaiyi-ziji-cong-tiequan-jiaoyu-liaodao-tiequan-zhichang-lmx4ewrw7kvcqpyh-q3bur35ybgz",
+          "show": "这病说来话长",
+          "title": "VOL.214 为什么越优秀的人，越容易在职场被PUA到怀疑自己？从《铁拳教育》聊到“铁拳职场”",
+          "url": "/wiki/sources/vol-214-weishenme-yue-youxiu-de-ren-yue-rongyi-zai-zhichang-bei-pua-dao-huaiyi-ziji-cong-tiequan-jiaoyu-liaodao-tiequan-zhichang-lmx4ewrw7kvcqpyh-q3bur35ybgz/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/nanjihe/"
+    },
     "NatalieStokel": {
       "episode_count": 1,
       "show_count": 1,
@@ -13460,6 +13483,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/parentalexpectationshame/"
     },
+    "ParentalProjectionControl": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmx4EWrW7KvcqpyH_Q3BUR35ybGZ [lmx4EWrW7KvcqpyH_Q3BUR35ybGZ].md",
+          "key": "vol-214-weishenme-yue-youxiu-de-ren-yue-rongyi-zai-zhichang-bei-pua-dao-huaiyi-ziji-cong-tiequan-jiaoyu-liaodao-tiequan-zhichang-lmx4ewrw7kvcqpyh-q3bur35ybgz",
+          "show": "这病说来话长",
+          "title": "VOL.214 为什么越优秀的人，越容易在职场被PUA到怀疑自己？从《铁拳教育》聊到“铁拳职场”",
+          "url": "/wiki/sources/vol-214-weishenme-yue-youxiu-de-ren-yue-rongyi-zai-zhichang-bei-pua-dao-huaiyi-ziji-cong-tiequan-jiaoyu-liaodao-tiequan-zhichang-lmx4ewrw7kvcqpyh-q3bur35ybgz/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/parentalprojectioncontrol/"
+    },
     "ParentalRepairAfterHarm": {
       "episode_count": 1,
       "show_count": 1,
@@ -14134,6 +14173,52 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/psychiatricmedicationsupervisionboundary/"
+    },
+    "PsychologicalAbuseRecognition": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "EP273 NPC还是NPD，都别想拿走我们人生的遥控器 [lqqnd-e29XVhx2mTF6uUZX13wwvF].md",
+          "key": "ep273-npc-haishi-npd-dou-bie-xiang-nazou-women-rensheng-de-yaokongqi-lqqnd-e29xvhx2mtf6uuzx13wwvf",
+          "show": "Talk三联",
+          "title": "EP273 NPC还是NPD，都别想拿走我们人生的遥控器",
+          "url": "/wiki/sources/ep273-npc-haishi-npd-dou-bie-xiang-nazou-women-rensheng-de-yaokongqi-lqqnd-e29xvhx2mtf6uuzx13wwvf/"
+        },
+        {
+          "episode_file": "84.冰路狂花：好姑娘，你只是忘了勇敢 [699443676].md",
+          "key": "84-binglu-kuanghua-hao-guniang-ni-zhishi-wangle-yonggan-699443676",
+          "show": "蜜獾吃书",
+          "title": "84.冰路狂花：好姑娘，你只是忘了勇敢",
+          "url": "/wiki/sources/84-binglu-kuanghua-hao-guniang-ni-zhishi-wangle-yonggan-699443676/"
+        },
+        {
+          "episode_file": "lmx4EWrW7KvcqpyH_Q3BUR35ybGZ [lmx4EWrW7KvcqpyH_Q3BUR35ybGZ].md",
+          "key": "vol-214-weishenme-yue-youxiu-de-ren-yue-rongyi-zai-zhichang-bei-pua-dao-huaiyi-ziji-cong-tiequan-jiaoyu-liaodao-tiequan-zhichang-lmx4ewrw7kvcqpyh-q3bur35ybgz",
+          "show": "这病说来话长",
+          "title": "VOL.214 为什么越优秀的人，越容易在职场被PUA到怀疑自己？从《铁拳教育》聊到“铁拳职场”",
+          "url": "/wiki/sources/vol-214-weishenme-yue-youxiu-de-ren-yue-rongyi-zai-zhichang-bei-pua-dao-huaiyi-ziji-cong-tiequan-jiaoyu-liaodao-tiequan-zhichang-lmx4ewrw7kvcqpyh-q3bur35ybgz/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/psychologicalabuserecognition/"
+    },
+    "PsychologicalBoundaryProtection": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmx4EWrW7KvcqpyH_Q3BUR35ybGZ [lmx4EWrW7KvcqpyH_Q3BUR35ybGZ].md",
+          "key": "vol-214-weishenme-yue-youxiu-de-ren-yue-rongyi-zai-zhichang-bei-pua-dao-huaiyi-ziji-cong-tiequan-jiaoyu-liaodao-tiequan-zhichang-lmx4ewrw7kvcqpyh-q3bur35ybgz",
+          "show": "这病说来话长",
+          "title": "VOL.214 为什么越优秀的人，越容易在职场被PUA到怀疑自己？从《铁拳教育》聊到“铁拳职场”",
+          "url": "/wiki/sources/vol-214-weishenme-yue-youxiu-de-ren-yue-rongyi-zai-zhichang-bei-pua-dao-huaiyi-ziji-cong-tiequan-jiaoyu-liaodao-tiequan-zhichang-lmx4ewrw7kvcqpyh-q3bur35ybgz/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/psychologicalboundaryprotection/"
     },
     "PunishmentAsMoralCredential": {
       "episode_count": 1,
@@ -16044,6 +16129,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/strategicemotionconcealment/"
     },
+    "StructuralPowerImbalance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmx4EWrW7KvcqpyH_Q3BUR35ybGZ [lmx4EWrW7KvcqpyH_Q3BUR35ybGZ].md",
+          "key": "vol-214-weishenme-yue-youxiu-de-ren-yue-rongyi-zai-zhichang-bei-pua-dao-huaiyi-ziji-cong-tiequan-jiaoyu-liaodao-tiequan-zhichang-lmx4ewrw7kvcqpyh-q3bur35ybgz",
+          "show": "这病说来话长",
+          "title": "VOL.214 为什么越优秀的人，越容易在职场被PUA到怀疑自己？从《铁拳教育》聊到“铁拳职场”",
+          "url": "/wiki/sources/vol-214-weishenme-yue-youxiu-de-ren-yue-rongyi-zai-zhichang-bei-pua-dao-huaiyi-ziji-cong-tiequan-jiaoyu-liaodao-tiequan-zhichang-lmx4ewrw7kvcqpyh-q3bur35ybgz/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/structuralpowerimbalance/"
+    },
     "SuKangLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -17185,6 +17286,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/treasurybuybackpolicy/"
     },
+    "TrueEducationKDrama": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmx4EWrW7KvcqpyH_Q3BUR35ybGZ [lmx4EWrW7KvcqpyH_Q3BUR35ybGZ].md",
+          "key": "vol-214-weishenme-yue-youxiu-de-ren-yue-rongyi-zai-zhichang-bei-pua-dao-huaiyi-ziji-cong-tiequan-jiaoyu-liaodao-tiequan-zhichang-lmx4ewrw7kvcqpyh-q3bur35ybgz",
+          "show": "这病说来话长",
+          "title": "VOL.214 为什么越优秀的人，越容易在职场被PUA到怀疑自己？从《铁拳教育》聊到“铁拳职场”",
+          "url": "/wiki/sources/vol-214-weishenme-yue-youxiu-de-ren-yue-rongyi-zai-zhichang-bei-pua-dao-huaiyi-ziji-cong-tiequan-jiaoyu-liaodao-tiequan-zhichang-lmx4ewrw7kvcqpyh-q3bur35ybgz/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/trueeducationkdrama/"
+    },
     "TrustBasedCommonsGovernance": {
       "episode_count": 1,
       "show_count": 1,
@@ -18183,6 +18300,110 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/womenshealthdiagnosticgap/"
+    },
+    "WorkSelfWorthBoundary": {
+      "episode_count": 5,
+      "show_count": 3,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "EP275 Token 通胀时代，谁还能“不可替代”？丨“人在中流”特别策划01 [lgNagVELl4JyVv7EejrCgNO2Xjsr].md",
+          "key": "ep275-token-tongzhang-shidai-shui-hai-neng-bu-ke-tidai-renzai-zhongliu-tebie-cehua-01-lgnagvell4jyvv7eejrcgno2xjsr",
+          "show": "Talk三联",
+          "title": "EP275 Token 通胀时代，谁还能“不可替代”？丨“人在中流”特别策划01",
+          "url": "/wiki/sources/ep275-token-tongzhang-shidai-shui-hai-neng-bu-ke-tidai-renzai-zhongliu-tebie-cehua-01-lgnagvell4jyvv7eejrcgno2xjsr/"
+        },
+        {
+          "episode_file": "EP265 当“请3休13”冲上热搜，我们如何给人生放一个长假？ [lsLocZLnKMcrRfpN9Coh8RrQO_WB].md",
+          "key": "ep265-dang-qing3xiu13-chongshang-resou-women-ruhe-gei-rensheng-fang-yige-changjia-lsloczlnkmcrrfpn9coh8rrqo-wb",
+          "show": "Talk三联",
+          "title": "EP265 当“请3休13”冲上热搜，我们如何给人生放一个长假？",
+          "url": "/wiki/sources/ep265-dang-qing3xiu13-chongshang-resou-women-ruhe-gei-rensheng-fang-yige-changjia-lsloczlnkmcrrfpn9coh8rrqo-wb/"
+        },
+        {
+          "episode_file": "EP257 不上班：一场逃离与寻找的复杂冒险 [li-wFlyd48dmXvgeRsPHXFP_gNNG].md",
+          "key": "ep257-bu-shangban-yi-chang-taoli-yu-xunzhao-de-fuza-maoxian-li-wflyd48dmxvgersphxfp-gnng",
+          "show": "Talk三联",
+          "title": "EP257 不上班：一场逃离与寻找的复杂冒险",
+          "url": "/wiki/sources/ep257-bu-shangban-yi-chang-taoli-yu-xunzhao-de-fuza-maoxian-li-wflyd48dmxvgersphxfp-gnng/"
+        },
+        {
+          "episode_file": "如此打工 30 年：流水线上的面孔与时间 [lodsUKTWtcFXnhmzWUM5IeSbZbmE].md",
+          "key": "ruci-dagong-30-nian-liushuixian-shang-de-miankong-yu-shijian-lodsuktwtcfxnhmzwum5iesbzbme",
+          "show": "面基",
+          "title": "如此打工 30 年：流水线上的面孔与时间",
+          "url": "/wiki/sources/ruci-dagong-30-nian-liushuixian-shang-de-miankong-yu-shijian-lodsuktwtcfxnhmzwum5iesbzbme/"
+        },
+        {
+          "episode_file": "lmx4EWrW7KvcqpyH_Q3BUR35ybGZ [lmx4EWrW7KvcqpyH_Q3BUR35ybGZ].md",
+          "key": "vol-214-weishenme-yue-youxiu-de-ren-yue-rongyi-zai-zhichang-bei-pua-dao-huaiyi-ziji-cong-tiequan-jiaoyu-liaodao-tiequan-zhichang-lmx4ewrw7kvcqpyh-q3bur35ybgz",
+          "show": "这病说来话长",
+          "title": "VOL.214 为什么越优秀的人，越容易在职场被PUA到怀疑自己？从《铁拳教育》聊到“铁拳职场”",
+          "url": "/wiki/sources/vol-214-weishenme-yue-youxiu-de-ren-yue-rongyi-zai-zhichang-bei-pua-dao-huaiyi-ziji-cong-tiequan-jiaoyu-liaodao-tiequan-zhichang-lmx4ewrw7kvcqpyh-q3bur35ybgz/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/workselfworthboundary/"
+    },
+    "WorkplaceBullying": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmx4EWrW7KvcqpyH_Q3BUR35ybGZ [lmx4EWrW7KvcqpyH_Q3BUR35ybGZ].md",
+          "key": "vol-214-weishenme-yue-youxiu-de-ren-yue-rongyi-zai-zhichang-bei-pua-dao-huaiyi-ziji-cong-tiequan-jiaoyu-liaodao-tiequan-zhichang-lmx4ewrw7kvcqpyh-q3bur35ybgz",
+          "show": "这病说来话长",
+          "title": "VOL.214 为什么越优秀的人，越容易在职场被PUA到怀疑自己？从《铁拳教育》聊到“铁拳职场”",
+          "url": "/wiki/sources/vol-214-weishenme-yue-youxiu-de-ren-yue-rongyi-zai-zhichang-bei-pua-dao-huaiyi-ziji-cong-tiequan-jiaoyu-liaodao-tiequan-zhichang-lmx4ewrw7kvcqpyh-q3bur35ybgz/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/workplacebullying/"
+    },
+    "WorkplaceRelationshipBoundaries": {
+      "episode_count": 5,
+      "show_count": 5,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "EP26 想做人上之人，却困在《城中之城》 [lgbVd08kGkO5OnekGVnu4aOVFz6t].md",
+          "key": "ep26-xiang-zuo-ren-shang-zhi-ren-que-kun-zai-cheng-zhong-zhi-cheng-lgbvd08kgko5onekgvnu4aovfz6t",
+          "show": "一劳永逸",
+          "title": "EP26 想做人上之人，却困在《城中之城》",
+          "url": "/wiki/sources/ep26-xiang-zuo-ren-shang-zhi-ren-que-kun-zai-cheng-zhong-zhi-cheng-lgbvd08kgko5onekgvnu4aovfz6t/"
+        },
+        {
+          "episode_file": "《大厂小民》：我们必须克制对系统与上岸的期待 [lps_6oqp9lJyFW6WPfkUTCks6DGF].md",
+          "key": "da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf",
+          "show": "面基",
+          "title": "《大厂小民》：我们必须克制对系统与上岸的期待",
+          "url": "/wiki/sources/da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf/"
+        },
+        {
+          "episode_file": "SocialRadarsSeason1-TracyYoung-Final-1 [SocialRadarsSeason1-TracyYoung-Final-1].md",
+          "key": "socialradarsseason1-tracyyoung-final-1",
+          "show": "The Social Radars",
+          "title": "Tracy Young on PlanGrid, TigerEye, and Building a Company Deliberately",
+          "url": "/wiki/sources/socialradarsseason1-tracyyoung-final-1/"
+        },
+        {
+          "episode_file": "sp.02 我有自己的宇宙：如何在混沌中做个清醒的行动派 [748593778].md",
+          "key": "sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778",
+          "show": "蜜獾吃书",
+          "title": "sp.02 我有自己的宇宙：如何在混沌中做个清醒的行动派",
+          "url": "/wiki/sources/sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778/"
+        },
+        {
+          "episode_file": "lmx4EWrW7KvcqpyH_Q3BUR35ybGZ [lmx4EWrW7KvcqpyH_Q3BUR35ybGZ].md",
+          "key": "vol-214-weishenme-yue-youxiu-de-ren-yue-rongyi-zai-zhichang-bei-pua-dao-huaiyi-ziji-cong-tiequan-jiaoyu-liaodao-tiequan-zhichang-lmx4ewrw7kvcqpyh-q3bur35ybgz",
+          "show": "这病说来话长",
+          "title": "VOL.214 为什么越优秀的人，越容易在职场被PUA到怀疑自己？从《铁拳教育》聊到“铁拳职场”",
+          "url": "/wiki/sources/vol-214-weishenme-yue-youxiu-de-ren-yue-rongyi-zai-zhichang-bei-pua-dao-huaiyi-ziji-cong-tiequan-jiaoyu-liaodao-tiequan-zhichang-lmx4ewrw7kvcqpyh-q3bur35ybgz/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/workplacerelationshipboundaries/"
     },
     "WorldLabs": {
       "episode_count": 2,
@@ -20022,9 +20243,9 @@
       "url": "/wiki/entities/zhaoyanlatehan/"
     },
     "ZheBingShuoLaiHuaChang": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "loFs520pS1eVva8naFSnRKcbvgJZ [loFs520pS1eVva8naFSnRKcbvgJZ].md",
@@ -20067,6 +20288,13 @@
           "show": "这病说来话长",
           "title": "VOL.215 低GI蜂蜜、零蔗糖、抗糖丸…？这届控糖人到底踩了多少坑？ft.「大食话」",
           "url": "/wiki/sources/vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z/"
+        },
+        {
+          "episode_file": "lmx4EWrW7KvcqpyH_Q3BUR35ybGZ [lmx4EWrW7KvcqpyH_Q3BUR35ybGZ].md",
+          "key": "vol-214-weishenme-yue-youxiu-de-ren-yue-rongyi-zai-zhichang-bei-pua-dao-huaiyi-ziji-cong-tiequan-jiaoyu-liaodao-tiequan-zhichang-lmx4ewrw7kvcqpyh-q3bur35ybgz",
+          "show": "这病说来话长",
+          "title": "VOL.214 为什么越优秀的人，越容易在职场被PUA到怀疑自己？从《铁拳教育》聊到“铁拳职场”",
+          "url": "/wiki/sources/vol-214-weishenme-yue-youxiu-de-ren-yue-rongyi-zai-zhichang-bei-pua-dao-huaiyi-ziji-cong-tiequan-jiaoyu-liaodao-tiequan-zhichang-lmx4ewrw7kvcqpyh-q3bur35ybgz/"
         }
       ],
       "updated": "2026-08-28",

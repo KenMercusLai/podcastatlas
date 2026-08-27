@@ -12733,6 +12733,10 @@ Ran health, identity validation, and lint. Health scanned 15,357 wiki pages with
 
 Ran health, identity validation, and lint. Health scanned 15,322 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-22 with 12,882 nodes and 149,964 edges while the current lint scan covered 15,322 pages, so fragile-bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL`/provider credentials are not configured in the shell; report returned in-session and `wiki/lint-report.md` was not updated.
 
+## [2026-08-28] ingest | VOL.214 为什么越优秀的人，越容易在职场被PUA到怀疑自己？从《铁拳教育》聊到“铁拳职场”
+
+Added source page for a 这病说来话长 episode with 阿汤 and Seoul psychiatrist 南基贺 using 《铁拳教育》/《真教育》 to discuss parent projection, authority imbalance, school violence, workplace bullying, PUA, overwork, humiliation, evidence preservation, complaint routes, and psychological boundary protection. Created Nan Jihe, True Education, Workplace Bullying, Structural Power Imbalance, Psychological Boundary Protection, and Parental Projection Control pages; updated Zhe Bing Shuo Lai Hua Chang, Atang, Work Self-Worth Boundary, Psychological Abuse Recognition, Workplace Relationship Boundaries, overview, and index. No settled contradiction found; Korean complaint mechanisms, drama scenes, and coping techniques remain source-scoped rather than legal or clinical advice.
+
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》869丨李膺为何被称为天下第一楷模？
 
 Added source page for a 芮淇讲透资治通鉴 episode on Chen Fan's failed pardon petition, Ying Feng's state-capacity memorial, Li Ying's restoration as Sili xiaowei, Zhang Shuo's execution despite Zhang Rang's protection, and the "登龙门" reputation field. Created Ying Feng and Zhang Shuo pages; updated Chen Fan, Li Ying, Emperor Huan, Qingyi Reputation Pressure, and Eunuch Patronage Violence Shield. No settled contradiction found; 程帆 is normalized to Chen Fan, while Chen Su, Feng Gun, Liu You, Han Anguo, Zhang Chang, and Shao Zhengmao remain source-scoped.
@@ -12808,6 +12812,10 @@ Added source page for a 163 CE Huan-era backfill on perspective-taking, disaster
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》857丨学会共赢，才是真正的赢家
 
 Added source page for a Huan-era backfill on win-win relationship framing, Huangfu Gui's frontier-pacification self-defense, Xu Huang and Zuo Guan's gift solicitation around expected military reward, Huangfu's refusal and imprisonment, Taixue/Three Excellencies petitions, and renewed Guiyang/Wuling disorder. Created Zuo Guan; updated Huangfu Gui, Xu Huang, Military Reward Eunuch Gatekeeping, overview, and index. No settled contradiction found; 黄府规 is normalized to Huangfu Gui/皇甫规, and Zhang Feng, Li Yan, Wuling Man unrest, account figures, and workplace "共赢" advice remain source-scoped.
+
+## [2026-08-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-28] lint | Wiki health check
 

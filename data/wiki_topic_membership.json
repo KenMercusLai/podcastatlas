@@ -39401,6 +39401,13 @@
       "url": "/topics/history/"
     }
   ],
+  "NanJiHe": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "NancyPelosi": [
     {
       "key": "politics",
@@ -42455,6 +42462,18 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "ParentalProjectionControl": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "Parentification": [
@@ -45636,6 +45655,13 @@
     }
   ],
   "PsychologicalAbuseRecognition": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "PsychologicalBoundaryProtection": [
     {
       "key": "science",
       "label": "Science",
@@ -54224,6 +54250,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "StructuralPowerImbalance": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "StructureOverPrediction": [
     {
       "key": "economics",
@@ -58127,6 +58160,13 @@
     }
   ],
   "TroupeDisciplineAsIdentityFormation": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "TrueEducationKDrama": [
     {
       "key": "culture",
       "label": "Culture",
@@ -70070,6 +70110,18 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "vol-214-weishenme-yue-youxiu-de-ren-yue-rongyi-zai-zhichang-bei-pua-dao-huaiyi-ziji-cong-tiequan-jiaoyu-liaodao-tiequan-zhichang-lmx4ewrw7kvcqpyh-q3bur35ybgz": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "vol-216-tingzhi-shenhua-qianeye-bie-rang-wangluo-reci-biancheng-nide-zhenduanshu-lp0cll17cydzmh36sawfj7-rjwur": [

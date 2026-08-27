@@ -33839,6 +33839,10 @@
     "title": "南郡 / Nan Commandery",
     "url": "/wiki/entities/nancommandery/"
   },
+  "NanJiHe": {
+    "title": "南基贺 / Nan Jihe",
+    "url": "/wiki/entities/nanjihe/"
+  },
   "NancyPelosi": {
     "title": "Nancy Pelosi",
     "url": "/wiki/entities/nancypelosi/"
@@ -36459,6 +36463,10 @@
     "title": "Parental Judgment Outsourcing",
     "url": "/wiki/concepts/parentaljudgmentoutsourcing/"
   },
+  "ParentalProjectionControl": {
+    "title": "Parental Projection Control / 父母投射式控制",
+    "url": "/wiki/concepts/parentalprojectioncontrol/"
+  },
   "ParentalRepairAfterHarm": {
     "title": "Parental Repair After Harm / 父母伤害后的修复",
     "url": "/wiki/concepts/parentalrepairafterharm/"
@@ -39022,6 +39030,10 @@
   "PsychologicalAbuseRecognition": {
     "title": "Psychological Abuse Recognition / 精神虐待识别",
     "url": "/wiki/concepts/psychologicalabuserecognition/"
+  },
+  "PsychologicalBoundaryProtection": {
+    "title": "Psychological Boundary Protection / 心理边界保护",
+    "url": "/wiki/concepts/psychologicalboundaryprotection/"
   },
   "PsychologicalFlexibilityForDissent": {
     "title": "Psychological Flexibility For Dissent / 不服从中的心理灵活性",
@@ -46079,6 +46091,10 @@
     "title": "Structural Health Monitoring",
     "url": "/wiki/concepts/structuralhealthmonitoring/"
   },
+  "StructuralPowerImbalance": {
+    "title": "Structural Power Imbalance / 结构性权力不平衡",
+    "url": "/wiki/concepts/structuralpowerimbalance/"
+  },
   "StructureOverPrediction": {
     "title": "Structure Over Prediction / 结构优先于预测",
     "url": "/wiki/concepts/structureoverprediction/"
@@ -49139,6 +49155,10 @@
     "title": "Troupe Discipline As Identity Formation",
     "url": "/wiki/concepts/troupedisciplineasidentityformation/"
   },
+  "TrueEducationKDrama": {
+    "title": "《铁拳教育》 / True Education",
+    "url": "/wiki/entities/trueeducationkdrama/"
+  },
   "TruePrincessAmbiguity": {
     "title": "True Princess Ambiguity / 真公主暧昧",
     "url": "/wiki/concepts/trueprincessambiguity/"
@@ -52194,6 +52214,10 @@
   "WorkplaceBehaviorTrainingData": {
     "title": "Workplace Behavior Training Data",
     "url": "/wiki/concepts/workplacebehaviortrainingdata/"
+  },
+  "WorkplaceBullying": {
+    "title": "Workplace Bullying / 职场霸凌",
+    "url": "/wiki/concepts/workplacebullying/"
   },
   "WorkplaceCommunicationRisk": {
     "title": "Workplace Communication Risk",
@@ -59318,6 +59342,10 @@
   "vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1": {
     "title": "Vol. 172 Codex 卖重置套餐，DeepSeek 峰谷调价，苹果重回 5 万亿等",
     "url": "/wiki/sources/vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1/"
+  },
+  "vol-214-weishenme-yue-youxiu-de-ren-yue-rongyi-zai-zhichang-bei-pua-dao-huaiyi-ziji-cong-tiequan-jiaoyu-liaodao-tiequan-zhichang-lmx4ewrw7kvcqpyh-q3bur35ybgz": {
+    "title": "VOL.214 为什么越优秀的人，越容易在职场被PUA到怀疑自己？从《铁拳教育》聊到“铁拳职场”",
+    "url": "/wiki/sources/vol-214-weishenme-yue-youxiu-de-ren-yue-rongyi-zai-zhichang-bei-pua-dao-huaiyi-ziji-cong-tiequan-jiaoyu-liaodao-tiequan-zhichang-lmx4ewrw7kvcqpyh-q3bur35ybgz/"
   },
   "vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z": {
     "title": "VOL.215 低GI蜂蜜、零蔗糖、抗糖丸…？这届控糖人到底踩了多少坑？ft.「大食话」",

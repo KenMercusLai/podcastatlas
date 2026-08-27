@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 5776
+wiki_total_pages: 5780
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -317,6 +317,9 @@ wiki_pages:
   - key: "WorkplaceBehaviorTrainingData"
     title: "Workplace Behavior Training Data"
     url: "/wiki/concepts/workplacebehaviortrainingdata/"
+  - key: "WorkplaceBullying"
+    title: "Workplace Bullying / 职场霸凌"
+    url: "/wiki/concepts/workplacebullying/"
   - key: "WorkplaceCommunicationRisk"
     title: "Workplace Communication Risk"
     url: "/wiki/concepts/workplacecommunicationrisk/"

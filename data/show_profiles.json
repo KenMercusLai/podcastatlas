@@ -2757,9 +2757,15 @@
       "earliest_episode_date": "2026-07-13",
       "latest_episode_date": "2026-08-26",
       "latest_episode_file": "loFs520pS1eVva8naFSnRKcbvgJZ [loFs520pS1eVva8naFSnRKcbvgJZ].md",
-      "source_note_count": 6,
-      "topic_matched_source_note_count": 2,
+      "source_note_count": 7,
+      "topic_matched_source_note_count": 3,
       "topics": [
+        {
+          "key": "science",
+          "label": "Science",
+          "url": "/topics/science/",
+          "source_note_count": 2
+        },
         {
           "key": "technology",
           "label": "Technology",
@@ -2767,9 +2773,9 @@
           "source_note_count": 1
         },
         {
-          "key": "science",
-          "label": "Science",
-          "url": "/topics/science/",
+          "key": "culture",
+          "label": "Culture",
+          "url": "/topics/culture/",
           "source_note_count": 1
         }
       ],
@@ -2779,7 +2785,7 @@
           "title": "阿汤 / A Tang",
           "url": "/wiki/entities/atang/",
           "kind": "person",
-          "episode_count": 4
+          "episode_count": 5
         },
         {
           "key": "MaHaoning",
@@ -2790,10 +2796,10 @@
         }
       ],
       "start_here_episode_files": [
-        "loFs520pS1eVva8naFSnRKcbvgJZ [loFs520pS1eVva8naFSnRKcbvgJZ].md",
         "lp0clL17CYDZMH36saWfj7-rjWUr [lp0clL17CYDZMH36saWfj7-rjWUr].md",
-        "lkVJQ45DUKdjpesxikWEC0Zrglmg [lkVJQ45DUKdjpesxikWEC0Zrglmg].md",
-        "lgBs8AaxGUH_xzGa8iUEwwc7ypvM [lgBs8AaxGUH_xzGa8iUEwwc7ypvM].md"
+        "loFs520pS1eVva8naFSnRKcbvgJZ [loFs520pS1eVva8naFSnRKcbvgJZ].md",
+        "lmx4EWrW7KvcqpyH_Q3BUR35ybGZ [lmx4EWrW7KvcqpyH_Q3BUR35ybGZ].md",
+        "lkVJQ45DUKdjpesxikWEC0Zrglmg [lkVJQ45DUKdjpesxikWEC0Zrglmg].md"
       ]
     },
     "面基": {

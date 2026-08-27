@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 5776
+wiki_total_pages: 5780
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1382,6 +1382,9 @@ wiki_pages:
   - key: "StructuralHealthMonitoring"
     title: "Structural Health Monitoring"
     url: "/wiki/concepts/structuralhealthmonitoring/"
+  - key: "StructuralPowerImbalance"
+    title: "Structural Power Imbalance / 结构性权力不平衡"
+    url: "/wiki/concepts/structuralpowerimbalance/"
   - key: "StructureOverPrediction"
     title: "Structure Over Prediction / 结构优先于预测"
     url: "/wiki/concepts/structureoverprediction/"

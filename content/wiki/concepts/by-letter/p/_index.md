@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5776
+wiki_total_pages: 5780
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -101,6 +101,9 @@ wiki_pages:
   - key: "ParentalJudgmentOutsourcing"
     title: "Parental Judgment Outsourcing"
     url: "/wiki/concepts/parentaljudgmentoutsourcing/"
+  - key: "ParentalProjectionControl"
+    title: "Parental Projection Control / 父母投射式控制"
+    url: "/wiki/concepts/parentalprojectioncontrol/"
   - key: "ParentalRepairAfterHarm"
     title: "Parental Repair After Harm / 父母伤害后的修复"
     url: "/wiki/concepts/parentalrepairafterharm/"
@@ -1334,6 +1337,9 @@ wiki_pages:
   - key: "PsychologicalAbuseRecognition"
     title: "Psychological Abuse Recognition / 精神虐待识别"
     url: "/wiki/concepts/psychologicalabuserecognition/"
+  - key: "PsychologicalBoundaryProtection"
+    title: "Psychological Boundary Protection / 心理边界保护"
+    url: "/wiki/concepts/psychologicalboundaryprotection/"
   - key: "PsychologicalFlexibilityForDissent"
     title: "Psychological Flexibility For Dissent / 不服从中的心理灵活性"
     url: "/wiki/concepts/psychologicalflexibilityfordissent/"

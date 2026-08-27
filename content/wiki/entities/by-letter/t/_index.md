@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 8019
+wiki_total_pages: 8021
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -977,6 +977,9 @@ wiki_pages:
   - key: "TheGoldenBough"
     title: "《金枝》 / The Golden Bough"
     url: "/wiki/entities/thegoldenbough/"
+  - key: "TrueEducationKDrama"
+    title: "《铁拳教育》 / True Education"
+    url: "/wiki/entities/trueeducationkdrama/"
   - key: "TheSpyAndTheTraitor"
     title: "《间谍与叛徒》 / The Spy and the Traitor"
     url: "/wiki/entities/thespyandthetraitor/"

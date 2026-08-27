@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2258
+topic_total_pages: 2262
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1516,6 +1516,9 @@ topic_concepts:
   - key: "ParentalEmbodiedModeling"
     title: "Parental Embodied Modeling / 身教型家庭教育"
     url: "/wiki/concepts/parentalembodiedmodeling/"
+  - key: "ParentalProjectionControl"
+    title: "Parental Projection Control / 父母投射式控制"
+    url: "/wiki/concepts/parentalprojectioncontrol/"
   - key: "ParticipationDataMoat"
     title: "Participation Data Moat / 参赛数据护城河"
     url: "/wiki/concepts/participationdatamoat/"
@@ -2038,6 +2041,9 @@ topic_concepts:
   - key: "StreamingPlatformBundling"
     title: "Streaming Platform Bundling"
     url: "/wiki/concepts/streamingplatformbundling/"
+  - key: "StructuralPowerImbalance"
+    title: "Structural Power Imbalance / 结构性权力不平衡"
+    url: "/wiki/concepts/structuralpowerimbalance/"
   - key: "SubcultureMainstreamingDilution"
     title: "Subculture Mainstreaming Dilution"
     url: "/wiki/concepts/subculturemainstreamingdilution/"
@@ -5246,6 +5252,9 @@ topic_entities:
   - key: "JinPingMei"
     title: "《金瓶梅》 / Jin Ping Mei"
     url: "/wiki/entities/jinpingmei/"
+  - key: "TrueEducationKDrama"
+    title: "《铁拳教育》 / True Education"
+    url: "/wiki/entities/trueeducationkdrama/"
   - key: "ChangdehaokanNengDangFanChiMa"
     title: "《长得好看能当饭吃吗》"
     url: "/wiki/entities/changdehaokannengdangfanchima/"
@@ -6690,6 +6699,9 @@ topic_sources:
   - key: "vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1"
     title: "Vol. 169 高考只是个开始，Don’t Waste Your Life"
     url: "/wiki/sources/vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1/"
+  - key: "vol-214-weishenme-yue-youxiu-de-ren-yue-rongyi-zai-zhichang-bei-pua-dao-huaiyi-ziji-cong-tiequan-jiaoyu-liaodao-tiequan-zhichang-lmx4ewrw7kvcqpyh-q3bur35ybgz"
+    title: "VOL.214 为什么越优秀的人，越容易在职场被PUA到怀疑自己？从《铁拳教育》聊到“铁拳职场”"
+    url: "/wiki/sources/vol-214-weishenme-yue-youxiu-de-ren-yue-rongyi-zai-zhichang-bei-pua-dao-huaiyi-ziji-cong-tiequan-jiaoyu-liaodao-tiequan-zhichang-lmx4ewrw7kvcqpyh-q3bur35ybgz/"
   - key: "vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191"
     title: "Vol.262 去西班牙买足球俱乐部，一场荒诞的商业冒险"
     url: "/wiki/sources/vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191/"

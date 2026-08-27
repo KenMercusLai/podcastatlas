@@ -1,27 +1,27 @@
 {
   "content_date": "2026-08-28",
   "corpus": {
-    "episode_count": 1598,
-    "source_count": 1598
+    "episode_count": 1599,
+    "source_count": 1599
   },
   "generated": true,
   "global": {
-    "candidate_digest": "9a0eab4b299d69a66bed3217bc67a005b45e9950f6dd702d4d2746adef127066",
-    "compacted_at": "2026-08-27T21:31:51.724238Z",
+    "candidate_digest": "8c7e0a3919af0e726482e14a2f2e3efe52aace2769605478b354f7c36d353e2c",
+    "compacted_at": "2026-08-27T21:55:07.586919Z",
     "content_date": "2026-08-28",
     "corpus": {
-      "episode_count": 1598,
-      "source_count": 1598
+      "episode_count": 1599,
+      "source_count": 1599
     },
-    "output_digest": "99707877264600a24f1411cef23d21f7d4022f991cfc0e4aad471a52d708c744",
-    "overview_commit": "09388838dac9faf07e9afbc7b255d125f4c1798c",
-    "overview_digest": "1cd14b5452751de08b4881cdb78183f6898db11aef5fcf588b01d81c0bc4fab7",
+    "output_digest": "0f2f3ee821162acdc63582e3a32768fb997a7619b9f11d9570941c86c47bdeeb",
+    "overview_commit": "af5f7975241e321638de1b9067bdb2935affbbd3",
+    "overview_digest": "a846ddbb2f5543326ede2d5585ed7897689d22fe3ca4e5a39f1d1018190bf0de",
     "pending_ingests": 0,
     "pending_topics": []
   },
-  "overview_commit": "09388838dac9faf07e9afbc7b255d125f4c1798c",
-  "overview_digest": "1cd14b5452751de08b4881cdb78183f6898db11aef5fcf588b01d81c0bc4fab7",
-  "paragraph_count": 312,
+  "overview_commit": "af5f7975241e321638de1b9067bdb2935affbbd3",
+  "overview_digest": "a846ddbb2f5543326ede2d5585ed7897689d22fe3ca4e5a39f1d1018190bf0de",
+  "paragraph_count": 313,
   "schema_version": 1,
   "topics": {
     "ai-and-technology": {
@@ -55,9 +55,9 @@
       "title": "History and Geopolitics"
     },
     "psychology-and-personal-development": {
-      "claim_digest": "a69d17cc1af5e7e8de2839a8be802961e4907d6bbc1e00d560dbdddcc5163532",
-      "input_digest": "4f4b60f882ccafb6d4cf895a19fa5d25320c0ab98cc0f92f2923edd38101d16d",
-      "output_digest": "7803f9632b6bfcac585893914ccafc7e488209f41a959ed4931ec71fa98b2e80",
+      "claim_digest": "e0a866c26047a279e9c790987f1746222cd3ad6f8baac72433c52f3c63a297dd",
+      "input_digest": "06a7ac46dc466d0e4806cbf303242ca59ad81bf3970c75f33263f678b94ff9a3",
+      "output_digest": "af9b80798e78d73bf5e4549d4b7d910dafccc8899328cf17c6d5703eed0a7e4d",
       "title": "Psychology and Personal Development"
     },
     "science-health-and-climate": {
@@ -67,9 +67,9 @@
       "title": "Science, Health, and Climate"
     },
     "work-education-and-society": {
-      "claim_digest": "fbffb7477feba2b5a0f39387d56b280674eae833296bdf868c1d1ceae6449527",
-      "input_digest": "6c4d3cb331f9dfd50d2675a8e716b295cc832c552f8704d99f19d591e1d9b0d5",
-      "output_digest": "177a7f6f9989ee6de8b35e36bc96cd7801aa7cc7815f57656446d74e700bbdea",
+      "claim_digest": "122810f24aac4b3b95728b9e61443ca57c3f9df64f8aaf0b0d498edcfc8259fc",
+      "input_digest": "08763d49ba41c8847f1c78e43a044a13dd78fb5fb3100673324faac9ef3e537c",
+      "output_digest": "c20302d41b681ff2dcb804ca95254628359bc5573e8d4c860385bf0e18186054",
       "title": "Work, Education, and Society"
     }
   }
