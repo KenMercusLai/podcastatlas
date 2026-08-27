@@ -2,19 +2,47 @@
 title: "Provisional IRA"
 type: entity
 tags: [organization, paramilitary, republicanism, ireland, northern-ireland]
-sources: [699-the-troubles-return-of-the-ira-part-3-glt9519811642]
-last_updated: 2026-08-26
+sources:
+  - 699-the-troubles-return-of-the-ira-part-3-glt9519811642
+  - 700-the-troubles-bloody-sunday-part-4-glt3909829334
+last_updated: 2026-08-27
+knowledge_schema: synthesis-v1
 ---
 
 # Provisional IRA
 
-The Provisional IRA appears in [[699-the-troubles-return-of-the-ira-part-3-glt9519811642]] as the republican paramilitary organization formed after a December 1969 split from the older [[IrishRepublicanArmy|IRA]] leadership, followed by a similar split in [[SinnFein]]. The episode rejects a purely defensive origin story, stressing that many founders were long-standing IRA men committed to armed struggle for a united Ireland.
+## Overview
+The Provisional IRA is the republican paramilitary organization that emerges from the 1969 split in the [[IrishRepublicanArmy|IRA]] and becomes the central armed beneficiary of British legitimacy failures in the 1970-1972 source sequence.
 
-The source tracks how the Provisionals gained legitimacy and capacity in 1970-1971. [[ShortStrand]] made them look like defenders of Catholic districts, the [[FallsCurfew]] and later [[OperationDemetrius]] strengthened their recruitment narrative, and weapons or money flowed through Irish-state relief channels involving [[CharlesHaughey]] and [[NeilBlaney]] as well as Irish-American fundraising through [[NORAID]].
+## Current Profile
+The current profile is not purely defensive. Part 3 stresses that many founders were long-standing armed-struggle republicans, even though [[ShortStrand]], the [[FallsCurfew]], and [[OperationDemetrius]] let the Provisionals present themselves as Catholic defenders. Part 4 then shows their post-[[BloodySunday]] surge: recruits, money, and guns flow toward them, and [[GerryAdams]] later identifies Bloody Sunday as the single British action that drove the most young nationalists into the movement. The same episode qualifies that momentum through failed 1972 talks and [[BloodyFriday]], where Provisional violence damages moderate nationalist and American support.
 
-The episode also places the Provisionals inside escalating violence: [[BillyReid]] killed [[RobertCurtis]], later attacks hit soldiers and Protestant targets, and sectarian bombing became part of an [[AtrocityRetaliationCycle]] with loyalist groups such as the [[UlsterVolunteerForce|UVF]] and [[UlsterDefenceAssociation]].
+## Key Characteristics
+- Armed republican organization formed after the split from the Official IRA/Sinn Fein stream.
+- Combines defensive credibility in Catholic districts with a deeper armed-struggle strategy.
+- Benefits from British policy failures and state violence through recruitment and fundraising.
+- Treats negotiation in 1972 from a perceived position of strength, with demands the British side rejects.
+- Damages its own legitimacy through civilian-harming escalation such as [[BloodyFriday]].
+- Central participant in the [[AtrocityRetaliationCycle]] and [[ParamilitarySpoilerViolence]] branches.
 
-## Connections
-- [[IrishRepublicanArmy|IRA]], [[OfficialIRA]], [[SinnFein]], [[GerryAdams]], [[CharlesHaughey]], [[NeilBlaney]], and [[NORAID]] - republican split and support network.
-- [[ShortStrand]], [[FallsCurfew]], [[OperationDemetrius]], [[InternmentWithoutTrial]], and [[CounterinsurgencyLegitimacyTrap]] - credibility and recruitment sequence.
-- [[UlsterVolunteerForce|UVF]], [[UlsterDefenceAssociation]], [[RobertCurtis]], and [[AtrocityRetaliationCycle]] - violence context.
+## Evidence
+- Organizational origin: [[699-the-troubles-return-of-the-ira-part-3-glt9519811642]] ties the Provisionals to the December 1969 IRA split and stresses long-standing armed-struggle figures in the founding generation.
+- Defensive credibility: [[699-the-troubles-return-of-the-ira-part-3-glt9519811642]] says Short Strand, Falls Curfew, internment, and Irish-American fundraising helped the Provisionals gain capacity and legitimacy.
+- Bloody Sunday recruitment: [[700-the-troubles-bloody-sunday-part-4-glt3909829334]] says Bloody Sunday drove recruits, money, and guns toward the Provisionals and cites Adams on its recruitment effect.
+- Talks and backfire: [[700-the-troubles-bloody-sunday-part-4-glt3909829334]] covers the June-July 1972 ceasefire, London talks with Whitelaw, rejected withdrawal demands, and Bloody Friday's damage to support.
+
+## Qualifications
+The sources reject a simple defender-only story and a simple terrorism-only story. The Provisionals could look protective to threatened Catholic communities after state failures, while also pursuing armed escalation that killed civilians and undercut political sympathy.
+
+## What Changed
+- Added Bloody Sunday as the organization's major recruitment accelerator.
+- Added the 1972 ceasefire and London talks as evidence of strategic overconfidence and political distance.
+- Added Bloody Friday as the clearest current example of Provisional escalation backfiring.
+
+## Relationships
+- [[OfficialIRA]] - organizational counterpart after the republican split.
+- [[SinnFein]] - political branch linked to the same split and later settlement disputes.
+- [[GerryAdams]] - republican figure used by the sources to connect membership dispute, recruitment memory, and later politics.
+- [[BloodySunday]] - state atrocity that strengthens Provisional recruitment.
+- [[BloodyFriday]] - Provisional attack that damages support.
+- [[CounterinsurgencyLegitimacyTrap]] - mechanism through which British actions aid Provisional recruitment.

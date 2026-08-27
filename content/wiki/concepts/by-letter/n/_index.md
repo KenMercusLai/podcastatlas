@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 5646
+wiki_total_pages: 5647
 wiki_pages:
   - key: "NamingPowerSocialChange"
     title: "Naming Power In Social Change / 社会变革中的命名权"
@@ -281,6 +281,9 @@ wiki_pages:
   - key: "NorthernIrelandCivilRightsMovement"
     title: "Northern Ireland Civil Rights Movement"
     url: "/wiki/concepts/northernirelandcivilrightsmovement/"
+  - key: "NorthernIrelandDirectRule"
+    title: "Northern Ireland Direct Rule"
+    url: "/wiki/concepts/northernirelanddirectrule/"
   - key: "NotWorkingAmbivalence"
     title: "Not Working Ambivalence / 不上班的复杂性"
     url: "/wiki/concepts/notworkingambivalence/"

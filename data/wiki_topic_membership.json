@@ -1736,6 +1736,13 @@
       "url": "/topics/science/"
     }
   ],
+  "700-the-troubles-bloody-sunday-part-4-glt3909829334": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52": [
     {
       "key": "technology",
@@ -40288,6 +40295,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "NorthernIrelandDirectRule": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "NorthernSong": [
     {
       "key": "politics",
@@ -49185,6 +49199,13 @@
       "label": "Economics",
       "url": "/topics/economics/"
     },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "SavilleInquiry": [
     {
       "key": "politics",
       "label": "Politics",
@@ -60592,6 +60613,13 @@
       "url": "/topics/science/"
     }
   ],
+  "WidgeryInquiry": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "WildeStrangeStories": [
     {
       "key": "culture",
@@ -60740,6 +60768,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "WillieWhitelaw": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "WillyHeidinger": [

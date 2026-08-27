@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1936
+topic_total_pages: 1940
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -1744,6 +1744,9 @@ topic_concepts:
   - key: "NorthernIrelandCivilRightsMovement"
     title: "Northern Ireland Civil Rights Movement"
     url: "/wiki/concepts/northernirelandcivilrightsmovement/"
+  - key: "NorthernIrelandDirectRule"
+    title: "Northern Ireland Direct Rule"
+    url: "/wiki/concepts/northernirelanddirectrule/"
   - key: "NuclearSafetyPropaganda"
     title: "Nuclear Safety Propaganda"
     url: "/wiki/concepts/nuclearsafetypropaganda/"
@@ -4580,6 +4583,9 @@ topic_entities:
   - key: "SaudiPublicInvestmentFund"
     title: "Saudi Public Investment Fund"
     url: "/wiki/entities/saudipublicinvestmentfund/"
+  - key: "SavilleInquiry"
+    title: "Saville Inquiry"
+    url: "/wiki/entities/savilleinquiry/"
   - key: "SayyidQutb"
     title: "Sayyid Qutb / Sayed Qutb"
     url: "/wiki/entities/sayyidqutb/"
@@ -4868,6 +4874,9 @@ topic_entities:
   - key: "WesternSahara"
     title: "Western Sahara"
     url: "/wiki/entities/westernsahara/"
+  - key: "WidgeryInquiry"
+    title: "Widgery Inquiry"
+    url: "/wiki/entities/widgeryinquiry/"
   - key: "WillHurd"
     title: "Will Hurd"
     url: "/wiki/entities/willhurd/"
@@ -4886,6 +4895,9 @@ topic_entities:
   - key: "WilliamPeterBlatty"
     title: "William Peter Blatty"
     url: "/wiki/entities/williampeterblatty/"
+  - key: "WillieWhitelaw"
+    title: "Willie Whitelaw"
+    url: "/wiki/entities/williewhitelaw/"
   - key: "WilsonSonsini"
     title: "Wilson Sonsini"
     url: "/wiki/entities/wilsonsonsini/"

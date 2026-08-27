@@ -817,14 +817,14 @@
       "earliest_episode_date": "2020-11-02",
       "latest_episode_date": "2026-08-26",
       "latest_episode_file": "GLT3909829334 [GLT3909829334].md",
-      "source_note_count": 10,
-      "topic_matched_source_note_count": 10,
+      "source_note_count": 11,
+      "topic_matched_source_note_count": 11,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 10
+          "source_note_count": 11
         }
       ],
       "entities": [
@@ -857,6 +857,13 @@
           "episode_count": 4
         },
         {
+          "key": "Stormont",
+          "title": "Stormont",
+          "url": "/wiki/entities/stormont/",
+          "kind": "organization",
+          "episode_count": 4
+        },
+        {
           "key": "WilliamCecil",
           "title": "William Cecil / Lord Burleigh",
           "url": "/wiki/entities/williamcecil/",
@@ -864,30 +871,23 @@
           "episode_count": 4
         },
         {
+          "key": "BritishArmy",
+          "title": "British Army",
+          "url": "/wiki/entities/britisharmy/",
+          "kind": "organization",
+          "episode_count": 3
+        },
+        {
           "key": "FrancisDrake",
           "title": "Francis Drake",
           "url": "/wiki/entities/francisdrake/",
           "kind": "person",
           "episode_count": 3
-        },
-        {
-          "key": "IanPaisley",
-          "title": "Ian Paisley",
-          "url": "/wiki/entities/ianpaisley/",
-          "kind": "person",
-          "episode_count": 3
-        },
-        {
-          "key": "IrishRepublicanArmy",
-          "title": "Irish Republican Army",
-          "url": "/wiki/entities/irishrepublicanarmy/",
-          "kind": "organization",
-          "episode_count": 3
         }
       ],
       "start_here_episode_files": [
-        "GLT9519811642 [GLT9519811642].md",
         "GLT3909829334 [GLT3909829334].md",
+        "GLT9519811642 [GLT9519811642].md",
         "GLT2308408988 [GLT2308408988].md",
         "GLT4877520736 [GLT4877520736].md"
       ]

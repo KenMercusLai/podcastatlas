@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [700. The Troubles: Bloody Sunday (Part 4)](sources/700-the-troubles-bloody-sunday-part-4-glt3909829334.md) — The Rest Is History episode on Bloody Sunday, Saville and Widgery, Derry and Free Derry, Stormont's suspension, direct rule, failed IRA talks, and Bloody Friday.
 - [690. A Murderous Affair: Death at Mayerling (Part 2)](sources/690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068.md) — The Rest Is History episode on Crown Prince Rudolf, Mary Vetsera, the Mayerling deaths, Catholic burial, Habsburg suppression, and succession shock.
 - [《资治通鉴·汉纪》872丨他娶妾不成，竟杀人全家](sources/zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc.md) — 芮淇讲透资治通鉴 episode on Zhang Jian's enforcement against Hou Lan, Xu Xuan's killing of Li Gao's daughter, Huang Fu's execution of Xu Xuan, and Chen Fan's warning about eunuch-protected court disorder.
 - [《资治通鉴·汉纪》873丨他如何利用天象痛骂帝王？](sources/zizhi-tongjian-hanji-873-ta-ruhe-liyong-tianxiang-tongma-diwang-lqebkodcbcrsvyf80qwxnobydbhc.md) — 芮淇讲透资治通鉴 episode on Xiang Kai's omen-coded remonstrance against Emperor Huan, using stars, disasters, Yellow River clarity, childlessness, eunuch favor, harsh punishment, and Buddhist-Daoist restraint.
@@ -1565,6 +1566,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Bloody Sunday](entities/BloodySunday.md) — 30 January 1972 Derry massacre treated as a moral atrocity and counterinsurgency legitimacy disaster.
+- [Bloody Friday](entities/BloodyFriday.md) — 21 July 1972 Provisional IRA bombing attack in Belfast that damaged republican support.
+- [Free Derry](entities/FreeDerry.md) — Barricaded Derry no-go area that made local authority collapse visible before Bloody Sunday.
+- [Willie Whitelaw](entities/WillieWhitelaw.md) — British secretary of state sent to Belfast after Stormont's suspension and tied to the failed 1972 IRA talks.
+- [Saville Inquiry](entities/SavilleInquiry.md) — Later official Bloody Sunday inquiry whose findings enabled Cameron's apology and overturned the soldiers' protective account.
+- [Widgery Inquiry](entities/WidgeryInquiry.md) — Early Bloody Sunday inquiry remembered in this wiki as the contested official account later displaced by Saville.
 - [Crown Prince Rudolf](entities/CrownPrinceRudolf.md) — Habsburg heir whose affair with Mary Vetsera ends at Mayerling and creates burial, suppression, and succession crises.
 - [Mary Vetsera](entities/MaryVetsera.md) — Seventeen-year-old baroness whose letters, death with Rudolf, and official erasure anchor the Mayerling scandal.
 - [Franz Joseph I](entities/FranzJosephI.md) — Habsburg emperor managing Rudolf's death through Catholic burial, public suppression, grief, and succession repair.
@@ -9472,6 +9479,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Northern Ireland Direct Rule](concepts/NorthernIrelandDirectRule.md) — Crisis-governance shift where Westminster suspends Stormont and takes direct responsibility after local authority collapses.
 - [Mayerling Death Pact](concepts/MayerlingDeathPact.md) — Pattern where romantic death language, morbidity, secrecy, and status imbalance leave consent and coercion unresolved.
 - [Dynastic Scandal Suppression](concepts/DynasticScandalSuppression.md) — Pattern where a ruling house converts private catastrophe into controlled public story, ritual repair, and asymmetric erasure.
 - [Catholic Burial Legitimacy](concepts/CatholicBurialLegitimacy.md) — Problem of making a politically important death eligible for Catholic rites when suicide threatens burial legitimacy.

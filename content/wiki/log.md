@@ -12309,6 +12309,10 @@ Ran health, identity validation, and lint. Health scanned 14,961 wiki pages with
 
 Added source page for the Data Science With Sam interview with Elan of Paradox Machines on why AI projects fail when data ownership, governance, modeling, production reliability, and business alignment are missing. Created Paradox Machines, Elan, Infinity Venture Studio, Tableau, Data Foundation-First AI Strategy, Mid-Market Data Talent Gap, Data Team as Business Partner, and Data Sovereignty; migrated AI Data Readiness and Enterprise AI Pilot Purgatory to synthesis-v1. No settled contradiction found; Paradox Machines' scale, customer claims, and market positioning remain source-scoped founder statements.
 
+## [2026-08-27] ingest | 700. The Troubles: Bloody Sunday (Part 4)
+
+Added source page for The Rest Is History episode on Bloody Sunday, Saville versus Widgery, Derry and Free Derry, the Parachute Regiment operation, Stormont's suspension, Willie Whitelaw's direct-rule brief, failed IRA talks, loyalist mobilization, and Bloody Friday. Created Bloody Sunday, Bloody Friday, Free Derry, Willie Whitelaw, Saville Inquiry, Widgery Inquiry, and Northern Ireland Direct Rule; migrated and updated The Troubles, Northern Ireland, Stormont, British Army, Provisional IRA, Ulster Defence Association, Derry, Bogside, Edward Heath, Brian Faulkner, and Counterinsurgency Legitimacy Trap to synthesis-v1. No settled contradiction found; the episode qualifies the earlier 1969 British Army protector moment as temporary rather than false.
+
 ## [2026-08-27] lint | Wiki health check
 
 Ran health, identity validation, and lint. Health scanned 14,970 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-22 with 12,882 nodes and 149,964 edges while the current lint scan covered 14,970 pages, so fragile-bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` was not provider-qualified. Report returned in-session; `wiki/lint-report.md` was not updated.
@@ -12468,6 +12472,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》873丨他如何利用天象痛骂帝王？
 
 Added source page for Hanji 873: Xiang Kai's two memorials against Emperor Huan using stars, disasters, Yellow River clarity, childlessness, eunuch favor, harsh punishment, and Buddhist-Daoist restraint as omen-coded criticism. Created Xiang Kai and Omen-Coded Remonstrance pages; updated Emperor Huan, index, overview, and log. No settled contradiction found; Liu Zhi, Chen Jin, Cai Yan, and Liu Yu remain source-scoped because this source gives limited disambiguating evidence and internal transcript variation.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-27] lint | Wiki health check
 

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 7903
+wiki_total_pages: 7909
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -197,6 +197,9 @@ wiki_pages:
   - key: "SavannahPollock"
     title: "Savannah Pollock"
     url: "/wiki/entities/savannahpollock/"
+  - key: "SavilleInquiry"
+    title: "Saville Inquiry"
+    url: "/wiki/entities/savilleinquiry/"
   - key: "SawGerrera"
     title: "Saw Gerrera"
     url: "/wiki/entities/sawgerrera/"

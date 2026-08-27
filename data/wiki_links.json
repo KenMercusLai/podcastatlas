@@ -1107,6 +1107,10 @@
     "title": "70.医生，你在想什么：少看百度，以及吃药时别吃西柚啊",
     "url": "/wiki/sources/70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394/"
   },
+  "700-the-troubles-bloody-sunday-part-4-glt3909829334": {
+    "title": "700. The Troubles: Bloody Sunday (Part 4)",
+    "url": "/wiki/sources/700-the-troubles-bloody-sunday-part-4-glt3909829334/"
+  },
   "7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52": {
     "title": "7000 亿美元砸向 AI：这是下一代互联网，还是泡沫重演？ | S10E12",
     "url": "/wiki/sources/7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52/"
@@ -6866,6 +6870,14 @@
   "BloodstainPatternAnalysis": {
     "title": "Bloodstain Pattern Analysis",
     "url": "/wiki/concepts/bloodstainpatternanalysis/"
+  },
+  "BloodyFriday": {
+    "title": "Bloody Friday",
+    "url": "/wiki/entities/bloodyfriday/"
+  },
+  "BloodySunday": {
+    "title": "Bloody Sunday",
+    "url": "/wiki/entities/bloodysunday/"
   },
   "Bloomberg": {
     "title": "Bloomberg",
@@ -18354,6 +18366,10 @@
   "FreeCashFlowIndexing": {
     "title": "Free Cash Flow Indexing",
     "url": "/wiki/concepts/freecashflowindexing/"
+  },
+  "FreeDerry": {
+    "title": "Free Derry",
+    "url": "/wiki/entities/freederry/"
   },
   "FreeLovePracticeGap": {
     "title": "Free Love Practice Gap / 自由恋爱实践落差",
@@ -34347,6 +34363,10 @@
     "title": "Northern Ireland Civil Rights Movement",
     "url": "/wiki/concepts/northernirelandcivilrightsmovement/"
   },
+  "NorthernIrelandDirectRule": {
+    "title": "Northern Ireland Direct Rule",
+    "url": "/wiki/concepts/northernirelanddirectrule/"
+  },
   "NorthernRising": {
     "title": "Northern Rising",
     "url": "/wiki/entities/northernrising/"
@@ -41834,6 +41854,10 @@
   "SavannahPollock": {
     "title": "Savannah Pollock",
     "url": "/wiki/entities/savannahpollock/"
+  },
+  "SavilleInquiry": {
+    "title": "Saville Inquiry",
+    "url": "/wiki/entities/savilleinquiry/"
   },
   "SavingsStyleInsurance": {
     "title": "Savings-Style Insurance",
@@ -51007,6 +51031,10 @@
     "title": "Wi-Fi Master Key / Wi-Fi 万能钥匙",
     "url": "/wiki/entities/wifimasterkey/"
   },
+  "WidgeryInquiry": {
+    "title": "Widgery Inquiry",
+    "url": "/wiki/entities/widgeryinquiry/"
+  },
   "WildAnimalRescueResponsibility": {
     "title": "Wild-Animal Rescue Responsibility",
     "url": "/wiki/concepts/wildanimalrescueresponsibility/"
@@ -51142,6 +51170,10 @@
   "WilliamSomersetMaugham": {
     "title": "William Somerset Maugham / 毛姆",
     "url": "/wiki/entities/williamsomersetmaugham/"
+  },
+  "WillieWhitelaw": {
+    "title": "Willie Whitelaw",
+    "url": "/wiki/entities/williewhitelaw/"
   },
   "WillyHeidinger": {
     "title": "Willy Heidinger / 海丁格尔",

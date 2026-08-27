@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 7903
+wiki_total_pages: 7909
 wiki_pages:
   - key: "BSpecials"
     title: "B Specials"
@@ -452,6 +452,12 @@ wiki_pages:
   - key: "Blancpain"
     title: "Blancpain"
     url: "/wiki/entities/blancpain/"
+  - key: "BloodyFriday"
+    title: "Bloody Friday"
+    url: "/wiki/entities/bloodyfriday/"
+  - key: "BloodySunday"
+    title: "Bloody Sunday"
+    url: "/wiki/entities/bloodysunday/"
   - key: "Bloomberg"
     title: "Bloomberg"
     url: "/wiki/entities/bloomberg/"

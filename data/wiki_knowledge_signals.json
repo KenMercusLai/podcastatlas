@@ -1397,6 +1397,61 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/berntbornich/"
     },
+    "BloodyFriday": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3909829334 [GLT3909829334].md",
+          "key": "700-the-troubles-bloody-sunday-part-4-glt3909829334",
+          "show": "The Rest Is History",
+          "title": "700. The Troubles: Bloody Sunday (Part 4)",
+          "url": "/wiki/sources/700-the-troubles-bloody-sunday-part-4-glt3909829334/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/bloodyfriday/"
+    },
+    "BloodySunday": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3909829334 [GLT3909829334].md",
+          "key": "700-the-troubles-bloody-sunday-part-4-glt3909829334",
+          "show": "The Rest Is History",
+          "title": "700. The Troubles: Bloody Sunday (Part 4)",
+          "url": "/wiki/sources/700-the-troubles-bloody-sunday-part-4-glt3909829334/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/bloodysunday/"
+    },
+    "Bogside": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "GLT2308408988 [GLT2308408988].md",
+          "key": "698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988",
+          "show": "The Rest Is History",
+          "title": "698. The Troubles: The Brink of Civil War (Part 2)",
+          "url": "/wiki/sources/698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988/"
+        },
+        {
+          "episode_file": "GLT3909829334 [GLT3909829334].md",
+          "key": "700-the-troubles-bloody-sunday-part-4-glt3909829334",
+          "show": "The Rest Is History",
+          "title": "700. The Troubles: Bloody Sunday (Part 4)",
+          "url": "/wiki/sources/700-the-troubles-bloody-sunday-part-4-glt3909829334/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/bogside/"
+    },
     "BostonDynamics": {
       "episode_count": 5,
       "show_count": 5,
@@ -1511,6 +1566,59 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/brandvalueprotection/"
+    },
+    "BrianFaulkner": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "GLT9519811642 [GLT9519811642].md",
+          "key": "699-the-troubles-return-of-the-ira-part-3-glt9519811642",
+          "show": "The Rest Is History",
+          "title": "699. The Troubles: Return of the IRA (Part 3)",
+          "url": "/wiki/sources/699-the-troubles-return-of-the-ira-part-3-glt9519811642/"
+        },
+        {
+          "episode_file": "GLT3909829334 [GLT3909829334].md",
+          "key": "700-the-troubles-bloody-sunday-part-4-glt3909829334",
+          "show": "The Rest Is History",
+          "title": "700. The Troubles: Bloody Sunday (Part 4)",
+          "url": "/wiki/sources/700-the-troubles-bloody-sunday-part-4-glt3909829334/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/brianfaulkner/"
+    },
+    "BritishArmy": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "GLT9519811642 [GLT9519811642].md",
+          "key": "699-the-troubles-return-of-the-ira-part-3-glt9519811642",
+          "show": "The Rest Is History",
+          "title": "699. The Troubles: Return of the IRA (Part 3)",
+          "url": "/wiki/sources/699-the-troubles-return-of-the-ira-part-3-glt9519811642/"
+        },
+        {
+          "episode_file": "GLT2308408988 [GLT2308408988].md",
+          "key": "698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988",
+          "show": "The Rest Is History",
+          "title": "698. The Troubles: The Brink of Civil War (Part 2)",
+          "url": "/wiki/sources/698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988/"
+        },
+        {
+          "episode_file": "GLT3909829334 [GLT3909829334].md",
+          "key": "700-the-troubles-bloody-sunday-part-4-glt3909829334",
+          "show": "The Rest Is History",
+          "title": "700. The Troubles: Bloody Sunday (Part 4)",
+          "url": "/wiki/sources/700-the-troubles-bloody-sunday-part-4-glt3909829334/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/britisharmy/"
     },
     "BudgetedFrontierSuppression": {
       "episode_count": 5,
@@ -2346,6 +2454,29 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/controllablechildaccession/"
     },
+    "CounterinsurgencyLegitimacyTrap": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "GLT9519811642 [GLT9519811642].md",
+          "key": "699-the-troubles-return-of-the-ira-part-3-glt9519811642",
+          "show": "The Rest Is History",
+          "title": "699. The Troubles: Return of the IRA (Part 3)",
+          "url": "/wiki/sources/699-the-troubles-return-of-the-ira-part-3-glt9519811642/"
+        },
+        {
+          "episode_file": "GLT3909829334 [GLT3909829334].md",
+          "key": "700-the-troubles-bloody-sunday-part-4-glt3909829334",
+          "show": "The Rest Is History",
+          "title": "700. The Troubles: Bloody Sunday (Part 4)",
+          "url": "/wiki/sources/700-the-troubles-bloody-sunday-part-4-glt3909829334/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/counterinsurgencylegitimacytrap/"
+    },
     "CountessLarish": {
       "episode_count": 1,
       "show_count": 1,
@@ -2728,6 +2859,36 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/dengjilatehan/"
+    },
+    "Derry": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "GLT2308408988 [GLT2308408988].md",
+          "key": "698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988",
+          "show": "The Rest Is History",
+          "title": "698. The Troubles: The Brink of Civil War (Part 2)",
+          "url": "/wiki/sources/698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988/"
+        },
+        {
+          "episode_file": "GLT4877520736 [GLT4877520736].md",
+          "key": "697-the-troubles-murder-in-belfast-part-1-glt4877520736",
+          "show": "The Rest Is History",
+          "title": "697. The Troubles: Murder in Belfast (Part 1)",
+          "url": "/wiki/sources/697-the-troubles-murder-in-belfast-part-1-glt4877520736/"
+        },
+        {
+          "episode_file": "GLT3909829334 [GLT3909829334].md",
+          "key": "700-the-troubles-bloody-sunday-part-4-glt3909829334",
+          "show": "The Rest Is History",
+          "title": "700. The Troubles: Bloody Sunday (Part 4)",
+          "url": "/wiki/sources/700-the-troubles-bloody-sunday-part-4-glt3909829334/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/derry/"
     },
     "DigitRobot": {
       "episode_count": 1,
@@ -3141,6 +3302,29 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/dynasticscandalsuppression/"
+    },
+    "EdwardHeath": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "GLT9519811642 [GLT9519811642].md",
+          "key": "699-the-troubles-return-of-the-ira-part-3-glt9519811642",
+          "show": "The Rest Is History",
+          "title": "699. The Troubles: Return of the IRA (Part 3)",
+          "url": "/wiki/sources/699-the-troubles-return-of-the-ira-part-3-glt9519811642/"
+        },
+        {
+          "episode_file": "GLT3909829334 [GLT3909829334].md",
+          "key": "700-the-troubles-bloody-sunday-part-4-glt3909829334",
+          "show": "The Rest Is History",
+          "title": "700. The Troubles: Bloody Sunday (Part 4)",
+          "url": "/wiki/sources/700-the-troubles-bloody-sunday-part-4-glt3909829334/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/edwardheath/"
     },
     "ElanParadoxMachines": {
       "episode_count": 1,
@@ -4096,6 +4280,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/frasermcilwraith/"
+    },
+    "FreeDerry": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3909829334 [GLT3909829334].md",
+          "key": "700-the-troubles-bloody-sunday-part-4-glt3909829334",
+          "show": "The Rest Is History",
+          "title": "700. The Troubles: Bloody Sunday (Part 4)",
+          "url": "/wiki/sources/700-the-troubles-bloody-sunday-part-4-glt3909829334/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/freederry/"
     },
     "FugitiveShelterCollateralRisk": {
       "episode_count": 2,
@@ -8798,6 +8998,59 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/northeastmodernitytestsite/"
     },
+    "NorthernIreland": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "GLT9519811642 [GLT9519811642].md",
+          "key": "699-the-troubles-return-of-the-ira-part-3-glt9519811642",
+          "show": "The Rest Is History",
+          "title": "699. The Troubles: Return of the IRA (Part 3)",
+          "url": "/wiki/sources/699-the-troubles-return-of-the-ira-part-3-glt9519811642/"
+        },
+        {
+          "episode_file": "GLT2308408988 [GLT2308408988].md",
+          "key": "698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988",
+          "show": "The Rest Is History",
+          "title": "698. The Troubles: The Brink of Civil War (Part 2)",
+          "url": "/wiki/sources/698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988/"
+        },
+        {
+          "episode_file": "GLT4877520736 [GLT4877520736].md",
+          "key": "697-the-troubles-murder-in-belfast-part-1-glt4877520736",
+          "show": "The Rest Is History",
+          "title": "697. The Troubles: Murder in Belfast (Part 1)",
+          "url": "/wiki/sources/697-the-troubles-murder-in-belfast-part-1-glt4877520736/"
+        },
+        {
+          "episode_file": "GLT3909829334 [GLT3909829334].md",
+          "key": "700-the-troubles-bloody-sunday-part-4-glt3909829334",
+          "show": "The Rest Is History",
+          "title": "700. The Troubles: Bloody Sunday (Part 4)",
+          "url": "/wiki/sources/700-the-troubles-bloody-sunday-part-4-glt3909829334/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/northernireland/"
+    },
+    "NorthernIrelandDirectRule": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3909829334 [GLT3909829334].md",
+          "key": "700-the-troubles-bloody-sunday-part-4-glt3909829334",
+          "show": "The Rest Is History",
+          "title": "700. The Troubles: Bloody Sunday (Part 4)",
+          "url": "/wiki/sources/700-the-troubles-bloody-sunday-part-4-glt3909829334/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/northernirelanddirectrule/"
+    },
     "NorthernRising": {
       "episode_count": 1,
       "show_count": 1,
@@ -9469,6 +9722,29 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/prisonrituallegitimacyrefusal/"
+    },
+    "ProvisionalIRA": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "GLT9519811642 [GLT9519811642].md",
+          "key": "699-the-troubles-return-of-the-ira-part-3-glt9519811642",
+          "show": "The Rest Is History",
+          "title": "699. The Troubles: Return of the IRA (Part 3)",
+          "url": "/wiki/sources/699-the-troubles-return-of-the-ira-part-3-glt9519811642/"
+        },
+        {
+          "episode_file": "GLT3909829334 [GLT3909829334].md",
+          "key": "700-the-troubles-bloody-sunday-part-4-glt3909829334",
+          "show": "The Rest Is History",
+          "title": "700. The Troubles: Bloody Sunday (Part 4)",
+          "url": "/wiki/sources/700-the-troubles-bloody-sunday-part-4-glt3909829334/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/provisionalira/"
     },
     "PunishmentAsMoralCredential": {
       "episode_count": 1,
@@ -10159,6 +10435,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/santaizicatholicvillage/"
     },
+    "SavilleInquiry": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3909829334 [GLT3909829334].md",
+          "key": "700-the-troubles-bloody-sunday-part-4-glt3909829334",
+          "show": "The Rest Is History",
+          "title": "700. The Troubles: Bloody Sunday (Part 4)",
+          "url": "/wiki/sources/700-the-troubles-bloody-sunday-part-4-glt3909829334/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/savilleinquiry/"
+    },
     "ScholarOfficialPublicDuty": {
       "episode_count": 3,
       "show_count": 2,
@@ -10631,6 +10923,43 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/stanfordinstituteforhumancenteredai/"
+    },
+    "Stormont": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "GLT9519811642 [GLT9519811642].md",
+          "key": "699-the-troubles-return-of-the-ira-part-3-glt9519811642",
+          "show": "The Rest Is History",
+          "title": "699. The Troubles: Return of the IRA (Part 3)",
+          "url": "/wiki/sources/699-the-troubles-return-of-the-ira-part-3-glt9519811642/"
+        },
+        {
+          "episode_file": "GLT2308408988 [GLT2308408988].md",
+          "key": "698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988",
+          "show": "The Rest Is History",
+          "title": "698. The Troubles: The Brink of Civil War (Part 2)",
+          "url": "/wiki/sources/698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988/"
+        },
+        {
+          "episode_file": "GLT4877520736 [GLT4877520736].md",
+          "key": "697-the-troubles-murder-in-belfast-part-1-glt4877520736",
+          "show": "The Rest Is History",
+          "title": "697. The Troubles: Murder in Belfast (Part 1)",
+          "url": "/wiki/sources/697-the-troubles-murder-in-belfast-part-1-glt4877520736/"
+        },
+        {
+          "episode_file": "GLT3909829334 [GLT3909829334].md",
+          "key": "700-the-troubles-bloody-sunday-part-4-glt3909829334",
+          "show": "The Rest Is History",
+          "title": "700. The Troubles: Bloody Sunday (Part 4)",
+          "url": "/wiki/sources/700-the-troubles-bloody-sunday-part-4-glt3909829334/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/stormont/"
     },
     "StrategicDefectorIncorporation": {
       "episode_count": 3,
@@ -11273,6 +11602,43 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/therestishistory/"
     },
+    "TheTroubles": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "GLT9519811642 [GLT9519811642].md",
+          "key": "699-the-troubles-return-of-the-ira-part-3-glt9519811642",
+          "show": "The Rest Is History",
+          "title": "699. The Troubles: Return of the IRA (Part 3)",
+          "url": "/wiki/sources/699-the-troubles-return-of-the-ira-part-3-glt9519811642/"
+        },
+        {
+          "episode_file": "GLT2308408988 [GLT2308408988].md",
+          "key": "698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988",
+          "show": "The Rest Is History",
+          "title": "698. The Troubles: The Brink of Civil War (Part 2)",
+          "url": "/wiki/sources/698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988/"
+        },
+        {
+          "episode_file": "GLT4877520736 [GLT4877520736].md",
+          "key": "697-the-troubles-murder-in-belfast-part-1-glt4877520736",
+          "show": "The Rest Is History",
+          "title": "697. The Troubles: Murder in Belfast (Part 1)",
+          "url": "/wiki/sources/697-the-troubles-murder-in-belfast-part-1-glt4877520736/"
+        },
+        {
+          "episode_file": "GLT3909829334 [GLT3909829334].md",
+          "key": "700-the-troubles-bloody-sunday-part-4-glt3909829334",
+          "show": "The Rest Is History",
+          "title": "700. The Troubles: Bloody Sunday (Part 4)",
+          "url": "/wiki/sources/700-the-troubles-bloody-sunday-part-4-glt3909829334/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/thetroubles/"
+    },
     "ThomasHowardDukeOfNorfolk": {
       "episode_count": 1,
       "show_count": 1,
@@ -11628,6 +11994,29 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/uschinasciencecompetition/"
+    },
+    "UlsterDefenceAssociation": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "GLT9519811642 [GLT9519811642].md",
+          "key": "699-the-troubles-return-of-the-ira-part-3-glt9519811642",
+          "show": "The Rest Is History",
+          "title": "699. The Troubles: Return of the IRA (Part 3)",
+          "url": "/wiki/sources/699-the-troubles-return-of-the-ira-part-3-glt9519811642/"
+        },
+        {
+          "episode_file": "GLT3909829334 [GLT3909829334].md",
+          "key": "700-the-troubles-bloody-sunday-part-4-glt3909829334",
+          "show": "The Rest Is History",
+          "title": "700. The Troubles: Bloody Sunday (Part 4)",
+          "url": "/wiki/sources/700-the-troubles-bloody-sunday-part-4-glt3909829334/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/ulsterdefenceassociation/"
     },
     "UnearnedRewardRefusal": {
       "episode_count": 1,
@@ -12133,6 +12522,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/wholecompanybranding/"
     },
+    "WidgeryInquiry": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3909829334 [GLT3909829334].md",
+          "key": "700-the-troubles-bloody-sunday-part-4-glt3909829334",
+          "show": "The Rest Is History",
+          "title": "700. The Troubles: Bloody Sunday (Part 4)",
+          "url": "/wiki/sources/700-the-troubles-bloody-sunday-part-4-glt3909829334/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/widgeryinquiry/"
+    },
     "WilliamCecil": {
       "episode_count": 4,
       "show_count": 1,
@@ -12169,6 +12574,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/williamcecil/"
+    },
+    "WillieWhitelaw": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3909829334 [GLT3909829334].md",
+          "key": "700-the-troubles-bloody-sunday-part-4-glt3909829334",
+          "show": "The Rest Is History",
+          "title": "700. The Troubles: Bloody Sunday (Part 4)",
+          "url": "/wiki/sources/700-the-troubles-bloody-sunday-part-4-glt3909829334/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/williewhitelaw/"
     },
     "WomensFootballVisibility": {
       "episode_count": 1,

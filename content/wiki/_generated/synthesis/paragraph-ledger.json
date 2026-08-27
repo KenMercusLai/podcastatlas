@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "8a771097ddfd7388b548e15df7342514d4c5e1ff50b05589df78e1a5686991fe",
       "dc98d131ed052a652502cdaeff98d62afa8260b54c97d6b3770e26614c669e34",
       "1e3f0cf2b934b228b40cb12ac7fd7fe96511b93637dac905e00bfc60aa089ec7",
       "2df6ee81d99b0d7233861c150387a43d65848277cf46cfd4c6379caa7eda4396",
@@ -290,11 +291,48 @@
       "ed252faccaaf1dc4e8c654d3406a6a1a0fc3a6f6fe78821348d1b123c7e85a5c",
       "32b62a0e1fc3144c5e7770721fc745607afef0d0cf46a8fe94d35cab377dbbf9"
     ],
-    "paragraph_count": 288
+    "paragraph_count": 289
   },
-  "overview_commit": "2aa383dfb236c49eb25b137e8012b0c09150ecc1",
-  "overview_digest": "142134280f7058754ddd0352be7edafd1b966e94b1d215f87bfacd2327cdae6d",
+  "overview_commit": "ad56d5984e33dd64bfc4667fb91ed6bcad4a881b",
+  "overview_digest": "458552700b6c08bfae656a81550b5962763b118feaa95f4cc4d64e13ff68366a",
   "paragraphs": [
+    {
+      "id": "8a771097ddfd7388b548e15df7342514d4c5e1ff50b05589df78e1a5686991fe",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics",
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[700-the-troubles-bloody-sunday-part-4-glt3909829334|700. The Troubles: Bloody Sunday (Part 4)]], a [[TheRestIsHistory]] episode extending the [[TheTroubles]] sequence from post-[[InternmentWithoutTrial|internment]] collapse into [[BloodySunday]], [[NorthernIrelandDirectRule]], failed 1972 IRA talks, and [[BloodyFriday]]. It adds [[BloodySunday]], [[BloodyFriday]], [[FreeDerry]], [[WillieWhitelaw]], [[SavilleInquiry]], [[WidgeryInquiry]], and [[NorthernIrelandDirectRule]], while extending [[NorthernIreland]], [[Derry]], [[Bogside]], [[Stormont]], [[BritishArmy]], [[ProvisionalIRA]], [[UlsterDefenceAssociation]], [[EdwardHeath]], [[BrianFaulkner]], and [[CounterinsurgencyLegitimacyTrap]]. Its core synthesis is that Bloody Sunday was both morally indefensible and strategically disastrous: a force meant to restore authority killed unarmed civilians, shattered Catholic trust, strengthened Provisional IRA recruitment, and helped push Stormont into suspension, while Bloody Friday later showed that republican escalation could also damage its own legitimacy. No settled contradiction is recorded; the episode qualifies the 1969 British Army protector moment as temporary rather than false.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "700-the-troubles-bloody-sunday-part-4-glt3909829334",
+        "BloodyFriday",
+        "BloodySunday",
+        "Bogside",
+        "BrianFaulkner",
+        "BritishArmy",
+        "CounterinsurgencyLegitimacyTrap",
+        "Derry",
+        "EdwardHeath",
+        "FreeDerry",
+        "InternmentWithoutTrial",
+        "NorthernIreland",
+        "NorthernIrelandDirectRule",
+        "ProvisionalIRA",
+        "SavilleInquiry",
+        "Stormont",
+        "TheRestIsHistory",
+        "TheTroubles",
+        "UlsterDefenceAssociation",
+        "WidgeryInquiry",
+        "WillieWhitelaw"
+      ]
+    },
     {
       "id": "dc98d131ed052a652502cdaeff98d62afa8260b54c97d6b3770e26614c669e34",
       "primary_topic": "business-and-markets",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 7903
+wiki_total_pages: 7909
 wiki_pages:
   - key: "FortyThreeTalks"
     title: "43talks"
@@ -455,6 +455,9 @@ wiki_pages:
   - key: "FreddieMac"
     title: "Freddie Mac"
     url: "/wiki/entities/freddiemac/"
+  - key: "FreeDerry"
+    title: "Free Derry"
+    url: "/wiki/entities/freederry/"
   - key: "FreePresbyterianChurchOfUlster"
     title: "Free Presbyterian Church of Ulster"
     url: "/wiki/entities/freepresbyterianchurchofulster/"
