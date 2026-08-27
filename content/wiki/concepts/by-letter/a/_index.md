@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 5724
+wiki_total_pages: 5734
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1820,6 +1820,9 @@ wiki_pages:
   - key: "AutocraticSuccession"
     title: "Autocratic Succession"
     url: "/wiki/concepts/autocraticsuccession/"
+  - key: "AutoimmuneDiseaseSubtyping"
+    title: "Autoimmune Disease Subtyping"
+    url: "/wiki/concepts/autoimmunediseasesubtyping/"
   - key: "AutomatedLifeDelegation"
     title: "Automated Life Delegation"
     url: "/wiki/concepts/automatedlifedelegation/"

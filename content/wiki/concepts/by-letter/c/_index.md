@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 5724
+wiki_total_pages: 5734
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1280,6 +1280,9 @@ wiki_pages:
   - key: "ContextFlywheel"
     title: "Context Flywheel"
     url: "/wiki/concepts/contextflywheel/"
+  - key: "ContextDependentBiomedicalInterventions"
+    title: "Context-Dependent Biomedical Interventions"
+    url: "/wiki/concepts/contextdependentbiomedicalinterventions/"
   - key: "ContingentAgreement"
     title: "Contingent Agreement / 权变协议"
     url: "/wiki/concepts/contingentagreement/"

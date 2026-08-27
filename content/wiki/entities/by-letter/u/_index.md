@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "u"
-wiki_total_pages: 7965
+wiki_total_pages: 7967
 wiki_pages:
   - key: "UDropInn"
     title: "U Drop Inn"
@@ -200,6 +200,9 @@ wiki_pages:
   - key: "UniversityOfAlberta"
     title: "University of Alberta"
     url: "/wiki/entities/universityofalberta/"
+  - key: "UniversityOfCaliforniaSanFrancisco"
+    title: "University of California San Francisco"
+    url: "/wiki/entities/universityofcaliforniasanfrancisco/"
   - key: "UniversityOfCambridge"
     title: "University of Cambridge"
     url: "/wiki/entities/universityofcambridge/"

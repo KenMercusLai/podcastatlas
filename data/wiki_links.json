@@ -5475,6 +5475,10 @@
     "title": "Autodesk",
     "url": "/wiki/entities/autodesk/"
   },
+  "AutoimmuneDiseaseSubtyping": {
+    "title": "Autoimmune Disease Subtyping",
+    "url": "/wiki/concepts/autoimmunediseasesubtyping/"
+  },
   "AutomatedBallStrikeChallengeSystem": {
     "title": "Automated Ball Strike Challenge System",
     "url": "/wiki/entities/automatedballstrikechallengesystem/"
@@ -6126,6 +6130,10 @@
   "BasicEconomyCopycatStrategy": {
     "title": "Basic Economy Copycat Strategy",
     "url": "/wiki/concepts/basiceconomycopycatstrategy/"
+  },
+  "BasicResearchBreakthroughLatency": {
+    "title": "Basic Research Breakthrough Latency",
+    "url": "/wiki/concepts/basicresearchbreakthroughlatency/"
   },
   "Bastet": {
     "title": "Bastet / 巴斯特",
@@ -7314,6 +7322,10 @@
   "BrainBuffs": {
     "title": "Brain Buffs",
     "url": "/wiki/entities/brainbuffs/"
+  },
+  "BrainImmuneStateCoupling": {
+    "title": "Brain-Immune State Coupling",
+    "url": "/wiki/concepts/brainimmunestatecoupling/"
   },
   "Braintree": {
     "title": "Braintree",
@@ -11538,6 +11550,10 @@
   "ContextDecay": {
     "title": "Context Decay",
     "url": "/wiki/concepts/contextdecay/"
+  },
+  "ContextDependentBiomedicalInterventions": {
+    "title": "Context-Dependent Biomedical Interventions",
+    "url": "/wiki/concepts/contextdependentbiomedicalinterventions/"
   },
   "ContextEngineering": {
     "title": "Context Engineering",
@@ -23435,6 +23451,14 @@
     "title": "Immortality Quest Politics / 求仙政治",
     "url": "/wiki/concepts/immortalityquestpolitics/"
   },
+  "ImmuneAgingMosaic": {
+    "title": "Immune Aging Mosaic",
+    "url": "/wiki/concepts/immuneagingmosaic/"
+  },
+  "ImmuneSystemAsTunableSensorNetwork": {
+    "title": "Immune System As Tunable Sensor Network",
+    "url": "/wiki/concepts/immunesystemastunablesensornetwork/"
+  },
   "ImpactCareerChoice": {
     "title": "Impact Career Choice",
     "url": "/wiki/concepts/impactcareerchoice/"
@@ -30371,6 +30395,10 @@
     "title": "Machine Gambling Addiction",
     "url": "/wiki/concepts/machinegamblingaddiction/"
   },
+  "MachineLearningBiologyExperimentDesign": {
+    "title": "Machine Learning Biology Experiment Design",
+    "url": "/wiki/concepts/machinelearningbiologyexperimentdesign/"
+  },
   "MachineLearningEngineering": {
     "title": "Machine Learning Engineering",
     "url": "/wiki/concepts/machinelearningengineering/"
@@ -31402,6 +31430,10 @@
   "MaxDemian": {
     "title": "Max Demian / 德米安",
     "url": "/wiki/entities/maxdemian/"
+  },
+  "MaxKrummel": {
+    "title": "Max Krummel",
+    "url": "/wiki/entities/maxkrummel/"
   },
   "MaxTegmark": {
     "title": "Max Tegmark",
@@ -42355,6 +42387,10 @@
     "title": "Science Communication Disadvantage",
     "url": "/wiki/concepts/sciencecommunicationdisadvantage/"
   },
+  "ScienceCommunicationTrustRepair": {
+    "title": "Science Communication Trust Repair",
+    "url": "/wiki/concepts/sciencecommunicationtrustrepair/"
+  },
   "ScienceEducationAsCivicLiteracy": {
     "title": "Science Education As Civic Literacy / 作为公民素养的科学教育",
     "url": "/wiki/concepts/scienceeducationascivicliteracy/"
@@ -44066,6 +44102,10 @@
   "SleepDurationUShape": {
     "title": "Sleep Duration U-Shape",
     "url": "/wiki/concepts/sleepdurationushape/"
+  },
+  "SleepImmuneRepair": {
+    "title": "Sleep Immune Repair",
+    "url": "/wiki/concepts/sleepimmunerepair/"
   },
   "SleepWellPortfolioTest": {
     "title": "Sleep-Well Portfolio Test / 睡眠理论",
@@ -46474,6 +46514,10 @@
   "TBPN": {
     "title": "TBPN",
     "url": "/wiki/entities/tbpn/"
+  },
+  "TCellEducationAndThymusAging": {
+    "title": "T-Cell Education And Thymus Aging",
+    "url": "/wiki/concepts/tcelleducationandthymusaging/"
   },
   "TCellEngagers": {
     "title": "T-Cell Engagers",
@@ -49542,6 +49586,10 @@
   "UniversityOfAlberta": {
     "title": "University of Alberta",
     "url": "/wiki/entities/universityofalberta/"
+  },
+  "UniversityOfCaliforniaSanFrancisco": {
+    "title": "University of California San Francisco",
+    "url": "/wiki/entities/universityofcaliforniasanfrancisco/"
   },
   "UniversityOfCambridge": {
     "title": "University of Cambridge",
@@ -57254,6 +57302,10 @@
   "how-we-got-free-agents-in-baseball": {
     "title": "How we got free agents in baseball",
     "url": "/wiki/sources/how-we-got-free-agents-in-baseball/"
+  },
+  "how-your-immune-system-works-how-to-improve-it-dr-max-krummel-scim7009523546": {
+    "title": "How Your Immune System Works & How to Improve It | Dr. Max Krummel",
+    "url": "/wiki/sources/how-your-immune-system-works-how-to-improve-it-dr-max-krummel-scim7009523546/"
   },
   "huawei-de-tao-dinglv-shi-chuangxin-haishi-xuetou-bonus-e471f937-616b-4f49-a7ae-49137d32dbe5": {
     "title": "华为的「韬定律」，是创新还是噱头？｜ Bonus",

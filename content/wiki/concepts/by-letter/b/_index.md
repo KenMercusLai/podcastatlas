@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 5724
+wiki_total_pages: 5734
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -101,6 +101,9 @@ wiki_pages:
   - key: "BasicEconomyCopycatStrategy"
     title: "Basic Economy Copycat Strategy"
     url: "/wiki/concepts/basiceconomycopycatstrategy/"
+  - key: "BasicResearchBreakthroughLatency"
+    title: "Basic Research Breakthrough Latency"
+    url: "/wiki/concepts/basicresearchbreakthroughlatency/"
   - key: "BatchEquityPool"
     title: "Batch Equity Pool"
     url: "/wiki/concepts/batchequitypool/"
@@ -434,6 +437,9 @@ wiki_pages:
   - key: "BrainBodyEmotionMapping"
     title: "Brain-Body Emotion Mapping"
     url: "/wiki/concepts/brainbodyemotionmapping/"
+  - key: "BrainImmuneStateCoupling"
+    title: "Brain-Immune State Coupling"
+    url: "/wiki/concepts/brainimmunestatecoupling/"
   - key: "BrandDoing"
     title: "Brand Doing"
     url: "/wiki/concepts/branddoing/"

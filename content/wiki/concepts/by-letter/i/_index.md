@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 5724
+wiki_total_pages: 5734
 wiki_pages:
   - key: "ICEWorkforceExpansion"
     title: "ICE Workforce Expansion"
@@ -62,6 +62,12 @@ wiki_pages:
   - key: "ImmortalityQuestPolitics"
     title: "Immortality Quest Politics / 求仙政治"
     url: "/wiki/concepts/immortalityquestpolitics/"
+  - key: "ImmuneAgingMosaic"
+    title: "Immune Aging Mosaic"
+    url: "/wiki/concepts/immuneagingmosaic/"
+  - key: "ImmuneSystemAsTunableSensorNetwork"
+    title: "Immune System As Tunable Sensor Network"
+    url: "/wiki/concepts/immunesystemastunablesensornetwork/"
   - key: "ImpactCareerChoice"
     title: "Impact Career Choice"
     url: "/wiki/concepts/impactcareerchoice/"

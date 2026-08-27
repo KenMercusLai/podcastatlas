@@ -12182,6 +12182,10 @@ Added source page for The Rest Is History episode on Crown Prince Rudolf, Mary V
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-27] ingest | How Your Immune System Works & How to Improve It | Dr. Max Krummel
+
+Added source page for a Huberman Lab episode with Max Krummel on immunity as a tunable sensor network, T-cell education, thymus aging, immune aging, cancer recognition, sleep-linked immune repair, brain-immune state coupling, vaccine trust, autoimmune heterogeneity, machine learning in biology, and basic-research payoff latency. Created Max Krummel, University of California San Francisco, Immune System As Tunable Sensor Network, T-Cell Education And Thymus Aging, Immune Aging Mosaic, Sleep Immune Repair, Brain-Immune State Coupling, Autoimmune Disease Subtyping, Context-Dependent Biomedical Interventions, Machine Learning Biology Experiment Design, Basic Research Breakthrough Latency, and Science Communication Trust Repair pages; extended Huberman Lab, Andrew Huberman, Cancer Immune Recognition Problem, Cancer Vaccine Platform, and Vaccine Schedule Trust Rebuilding. No settled contradiction found; vaccine, peptide, cell-banking, mindset, meditation, machine-learning, and autoimmune-treatment claims remain source-scoped and medically bounded.
+
 ## [2026-08-27] ingest | Essentials: How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried
 
 Added source page for a Huberman Lab Essentials episode with Sara Gottfried on female hormone health across life stages, hormone and micronutrient baselines, PCOS cardiometabolic risk, CGMs and insulin, oral contraceptive benefits and side effects, perimenopause brain metabolism, and coronary artery calcium screening. Created Sara Gottfried, Lisa Mosconi, Female Hormone Health Phenotyping, PCOS Cardiometabolic Risk, Oral Contraceptive Informed Consent, Perimenopause Brain Metabolism, and Coronary Artery Calcium Midlife Screening pages; migrated Women's Health Diagnostic Gap, Menopause Clinical Shared Decision-Making, Menopause Information Triage, Continuous Glucose Monitoring, and Cardiovascular-Brain Health Link to synthesis-v1; updated Huberman Lab, Andrew Huberman, index, and overview. No settled contradiction found; oral contraceptive, testing, hormone-therapy, chronic-cardio, CGM, and coronary-calcium claims remain source-scoped and clinically individualized.
@@ -12640,6 +12644,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-27] ingest | VOL.217停止“神化”减肥针！不挨饿、不戒碳水，这才是普通人该抄的减重作业
 
 Added source page for a 这病说来话长 episode with 阿汤 and 小龙 on weight management as body composition, food structure, resistance training, sleep, stress, and sustainable eating rather than scale-only loss or injection worship. Created Xiaolong Weight-Management Guest and Lifestyle Weight Management pages; extended Zhe Bing Shuo Lai Hua Chang and Atang. No settled contradiction found; injection-based weight-loss technology, fasting, carbohydrate, red-meat, anxiety, and medical-escalation claims remain source-scoped and clinically bounded.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-27] lint | Wiki health check
 

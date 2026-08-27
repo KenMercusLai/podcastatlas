@@ -8876,6 +8876,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "BasicResearchBreakthroughLatency": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "BatchEquityPool": [
     {
       "key": "economics",
@@ -10313,6 +10320,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "BrainImmuneStateCoupling": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "Braintree": [
@@ -14793,6 +14807,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "ContextDependentBiomedicalInterventions": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "ContextFlywheel": [
@@ -28624,6 +28645,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "ImmuneSystemAsTunableSensorNetwork": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "ImpeachmentBook": [
     {
       "key": "politics",
@@ -35704,6 +35732,13 @@
     }
   ],
   "MachineGamblingAddiction": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "MachineLearningBiologyExperimentDesign": [
     {
       "key": "science",
       "label": "Science",
@@ -49674,6 +49709,13 @@
       "url": "/topics/science/"
     }
   ],
+  "ScienceCommunicationTrustRepair": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "ScienceEducationAsCivicLiteracy": [
     {
       "key": "technology",
@@ -51726,6 +51768,13 @@
     }
   ],
   "SleepDurationUShape": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "SleepImmuneRepair": [
     {
       "key": "science",
       "label": "Science",
@@ -58862,6 +58911,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "UniversityOfCaliforniaSanFrancisco": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "UniversityOfIllinoisUrbanaChampaign": [
@@ -67132,6 +67188,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "how-your-immune-system-works-how-to-improve-it-dr-max-krummel-scim7009523546": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "huawei-de-tao-dinglv-shi-chuangxin-haishi-xuetou-bonus-e471f937-616b-4f49-a7ae-49137d32dbe5": [

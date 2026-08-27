@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 5724
+wiki_total_pages: 5734
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -158,6 +158,9 @@ wiki_pages:
   - key: "ScienceCommunicationDisadvantage"
     title: "Science Communication Disadvantage"
     url: "/wiki/concepts/sciencecommunicationdisadvantage/"
+  - key: "ScienceCommunicationTrustRepair"
+    title: "Science Communication Trust Repair"
+    url: "/wiki/concepts/sciencecommunicationtrustrepair/"
   - key: "ScienceEducationAsCivicLiteracy"
     title: "Science Education As Civic Literacy / 作为公民素养的科学教育"
     url: "/wiki/concepts/scienceeducationascivicliteracy/"
@@ -629,6 +632,9 @@ wiki_pages:
   - key: "SleepDurationUShape"
     title: "Sleep Duration U-Shape"
     url: "/wiki/concepts/sleepdurationushape/"
+  - key: "SleepImmuneRepair"
+    title: "Sleep Immune Repair"
+    url: "/wiki/concepts/sleepimmunerepair/"
   - key: "SleepWellPortfolioTest"
     title: "Sleep-Well Portfolio Test / 睡眠理论"
     url: "/wiki/concepts/sleepwellportfoliotest/"

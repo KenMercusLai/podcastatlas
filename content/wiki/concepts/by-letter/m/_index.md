@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 5724
+wiki_total_pages: 5734
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -26,6 +26,9 @@ wiki_pages:
   - key: "MachineGamblingAddiction"
     title: "Machine Gambling Addiction"
     url: "/wiki/concepts/machinegamblingaddiction/"
+  - key: "MachineLearningBiologyExperimentDesign"
+    title: "Machine Learning Biology Experiment Design"
+    url: "/wiki/concepts/machinelearningbiologyexperimentdesign/"
   - key: "MachineLearningEngineering"
     title: "Machine Learning Engineering"
     url: "/wiki/concepts/machinelearningengineering/"

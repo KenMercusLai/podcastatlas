@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 5724
+wiki_total_pages: 5734
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -14,6 +14,9 @@ wiki_pages:
   - key: "ThreeDPrintedProsthetics"
     title: "3D-Printed Prosthetics"
     url: "/wiki/concepts/threedprintedprosthetics/"
+  - key: "TCellEducationAndThymusAging"
+    title: "T-Cell Education And Thymus Aging"
+    url: "/wiki/concepts/tcelleducationandthymusaging/"
   - key: "TCellEngagers"
     title: "T-Cell Engagers"
     url: "/wiki/concepts/tcellengagers/"

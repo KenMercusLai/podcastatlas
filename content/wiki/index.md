@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How Your Immune System Works & How to Improve It | Dr. Max Krummel](sources/how-your-immune-system-works-how-to-improve-it-dr-max-krummel-scim7009523546.md) — Huberman Lab episode with Max Krummel on immunity as a tunable sensor network, immune aging, T-cell education, cancer recognition, sleep repair, vaccines, brain-immune coupling, and intervention caution.
 - [VOL.217停止“神化”减肥针！不挨饿、不戒碳水，这才是普通人该抄的减重作业](sources/vol-217-tingzhi-shenhua-jianfeizhen-bu-aie-bu-jie-tanshui-zhe-cai-shi-putongren-gai-chao-de-jianzhong-zuoye-llat-yskrqmro0kdjwuoegdcalu5.md) — 这病说来话长 episode with 阿汤 and 小龙 on lifestyle weight management, injection hype, carbohydrates, protein, fasting, resistance training, sleep, restaurant choices, and weight anxiety.
 - [Essentials: Control Your Brain Chemistry for Focus, Motivation & Well-Being](sources/essentials-control-your-brain-chemistry-for-focus-motivation-well-being-scim6495209379.md) — Huberman Lab Essentials episode on dopamine, epinephrine, serotonin, acetylcholine, daily timing, behavior, nutrition, supplements, and safety-bounded state tools.
 - [Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li](sources/using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040.md) — Huberman Lab episode with Fei-Fei Li on ImageNet, human learning, human-centered AI augmentation, medicine, education, creativity, robotics, and World Labs.
@@ -1585,6 +1586,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Max Krummel](entities/MaxKrummel.md) — Immunologist and cancer biologist explaining immune-system tuning, T-cell education, immune aging, sleep repair, vaccines, brain-immune coupling, and intervention caution.
+- [University of California San Francisco / UCSF](entities/UniversityOfCaliforniaSanFrancisco.md) — Biomedical-research institution named as Max Krummel's academic context in the Huberman Lab immune-system episode.
 - [Sara Gottfried](entities/SaraGottfried.md) — Physician and Huberman Lab guest explaining female hormone phenotyping, PCOS risk, contraception tradeoffs, perimenopause brain metabolism, and midlife screening.
 - [Lisa Mosconi](entities/LisaMosconi.md) — Researcher cited in the Gottfried episode for menopause-transition brain metabolism work.
 - [Ralph Adolphs](entities/RalphAdolphs.md) — Caltech neuroscientist and Huberman Lab guest explaining emotions as functional control states, social perception, and regulation.
@@ -1611,8 +1614,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Darcy (Raised Nutrition)](entities/DarcyRaisedNutrition.md) — Raised Nutrition founder-caller asking whether a niche athletic origin story limits broader wellness appeal.
 - [Cooks Who Feed](entities/CooksWhoFeed.md) — Social-enterprise kitchen-linen company advised to use low-risk B2B trials, referrals, and client-centered impact storytelling.
 - [Seema Sanghavi](entities/SeemaSanghavi.md) — Cooks Who Feed founder-caller focused on convincing B2B buyers to switch vendors.
-- [Huberman Lab](entities/HubermanLab.md) — Show context for episodes on nutrition, mental health, motivation, attention neuroscience, creativity process, emotion science, female hormone health, AI, and neuromodulator tools.
-- [Andrew Huberman](entities/AndrewHuberman.md) — Host framing guest discussions and solo Essentials episodes on nutrition, mental health, motivation, attention, emotion, AI, hormone health, and practical neuroscience.
+- [Huberman Lab](entities/HubermanLab.md) — Show context for episodes on nutrition, mental health, motivation, attention neuroscience, creativity process, emotion science, female hormone health, AI, neuromodulator tools, and immune-system biology.
+- [Andrew Huberman](entities/AndrewHuberman.md) — Host framing guest discussions and solo Essentials episodes on nutrition, mental health, motivation, attention, emotion, AI, hormone health, practical neuroscience, and immunology.
 - [Masud Husain](entities/MasudHusain.md) — Neuroscience and neurology guest explaining motivation, apathy, dopamine, attention, selfhood, and cognitive resilience.
 - [Chris Palmer](entities/ChrisPalmer.md) — Psychiatrist grounding the episode's metabolic psychiatry, ketogenic diet, and mitochondrial mental-health claims.
 - [Russell Wilder](entities/RussellWilder.md) — Mayo Clinic physician named as the 1921 developer of the ketogenic diet for epilepsy.
@@ -9554,6 +9557,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Immune System As Tunable Sensor Network](concepts/ImmuneSystemAsTunableSensorNetwork.md) — Systems-immunology frame treating immune cells as distributed sensors whose useful behavior depends on signal, tissue context, restraint, and tuning.
+- [T-Cell Education And Thymus Aging](concepts/TCellEducationAndThymusAging.md) — Thymus-centered frame for early T-cell self/non-self education and age-related decline in new T-cell production.
+- [Immune Aging Mosaic](concepts/ImmuneAgingMosaic.md) — Aging frame where accumulated cellular variation and reduced immune-cell production make cancer or infection signals less distinct.
+- [Sleep Immune Repair](concepts/SleepImmuneRepair.md) — Sleep-immunity frame linking night immune-cell redistribution, bone marrow, neutrophil tissue work, cleanup, repair, and illness vulnerability.
+- [Brain-Immune State Coupling](concepts/BrainImmuneStateCoupling.md) — Brain-body immunology frame where neural states can be coupled to immune states, with strong caution around human translation.
+- [Autoimmune Disease Subtyping](concepts/AutoimmuneDiseaseSubtyping.md) — Precision-immunology frame treating autoimmune labels as heterogeneous immune configurations with variable treatment response.
+- [Context-Dependent Biomedical Interventions](concepts/ContextDependentBiomedicalInterventions.md) — Evidence and risk frame for peptides, cell interventions, tissue banking, mindset, and immune modulation across dose, timing, location, and patient context.
+- [Machine Learning Biology Experiment Design](concepts/MachineLearningBiologyExperimentDesign.md) — AI-for-biology frame where machine learning models cell relationships and intervention sequences but still requires biological validation.
+- [Basic Research Breakthrough Latency](concepts/BasicResearchBreakthroughLatency.md) — Science-policy frame for long delays between curiosity-driven research and later biomedical breakthroughs.
+- [Science Communication Trust Repair](concepts/ScienceCommunicationTrustRepair.md) — Public-science frame for rebuilding trust by explaining uncertainty, failure, evidence, harm, and incentives in accessible human terms.
 - [Lifestyle Weight Management / 生活方式体重管理](concepts/LifestyleWeightManagement.md) — Practical frame for managing weight through body composition, carbohydrates, protein, resistance training, sleep, flexibility, anxiety boundaries, and qualified medical care.
 - [Neuromodulator State Toolkit](concepts/NeuromodulatorStateToolkit.md) — Framework for adjusting motivation, energy, focus, relaxation, and wellbeing through dopamine, epinephrine, serotonin, acetylcholine, timing, behavior, nutrition, and safety boundaries.
 - [Dopamine Tool Timing](concepts/DopamineToolTiming.md) — Motivation-tool frame for matching sunlight, caffeine, supplements, cold exposure, baseline state, and daily timing without treating dopamine as simply more-is-better.
@@ -10659,7 +10672,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Plausible Mechanism Pathway](concepts/PlausibleMechanismPathway.md) — Flexible evidence route for bespoke cell and gene therapies where randomized trials may be impractical but mechanism, manufacturing, and monitoring still matter.
 - [Medical Dogma Trust Repair](concepts/MedicalDogmaTrustRepair.md) — Public-health trust frame where institutions rebuild credibility by updating guidance, admitting uncertainty, and separating evidence strength from authority or anti-science labeling.
 - [Science Trust Politicization](concepts/ScienceTrustPoliticization.md) — Pattern where scientific authority loses credibility when dissent, grant criteria, or climate/COVID messaging appear politically coded.
-- [Vaccine Schedule Trust Rebuilding](concepts/VaccineScheduleTrustRebuilding.md) — Makary's source-scoped strategy of distinguishing core vaccine priorities and answering parent risk questions without abandoning CDC recommendations.
+- [Vaccine Schedule Trust Rebuilding](concepts/VaccineScheduleTrustRebuilding.md) — Public-health trust frame for preserving vaccine uptake while making schedule priority, timing, combination, adverse-experience, and evidence questions discussable.
 - [Root-Cause Public Health Research](concepts/RootCausePublicHealthResearch.md) — Research-priority frame around food, school lunches, microbiome, sleep, environment, inflammation, and chronic-disease causes.
 - [Consumer Health AI Governance](concepts/ConsumerHealthAIGovernance.md) — FDA boundary between consumer health information tools and AI or wearable systems that claim medical-grade intervention or measurement.
 - [AI Creative Collaboration](concepts/AICreativeCollaboration.md) — Use of AI for drafts, media, variations, and video shots while human creators keep intention, taste, editing, and authorship.
@@ -13112,7 +13125,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Degree As Trust Credential](concepts/DegreeAsTrustCredential.md) — E236 claim that degrees can remain social trust and evaluation signals even when AI weakens routine knowledge-proof value.
 - [AI University Assessment Reform](concepts/AIUniversityAssessmentReform.md) — E236 assessment shift from policing whether AI appeared to testing process, judgment, verification, and AI-enabled problem solving.
 - [CAR-T Cell Therapy](concepts/CARTCellTherapy.md) — E235 concept for engineering T cells to recognize cancer antigens and attack cancer cells as a live-cell immune therapy.
-- [Cancer Immune Recognition Problem](concepts/CancerImmuneRecognitionProblem.md) — Oncology frame that cancer treatment must make malignant self cells visible enough for immune attack without unsafe normal-tissue harm.
+- [Cancer Immune Recognition Problem](concepts/CancerImmuneRecognitionProblem.md) — Oncology-immunology frame where altered self cells, slow tumor change, tissue context, and aging noise make immune recognition difficult.
 - [Ex Vivo CAR-T Manufacturing](concepts/ExVivoCARTManufacturing.md) — Traditional patient-specific CAR-T route involving cell extraction, external engineering, expansion, quality control, logistics, and reinfusion.
 - [In Vivo CAR-T](concepts/InVivoCART.md) — E235 route that moves CAR-T generation into the patient through injectable gene-delivery tools, trading manufacturing gains for specificity and dose-control challenges.
 - [Allogeneic CAR-T](concepts/AllogeneicCART.md) — Off-the-shelf donor-cell CAR-T route discussed in E235 as a cost/time workaround limited by rejection and persistence issues.
@@ -13823,7 +13836,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Multi-Perspective Murder Narration](concepts/MultiPerspectiveMurderNarration.md) — Narrative method in which many voices, images, colors, objects, and the murderer make viewpoint part of the mystery.
 - [Secular Happiness Against Ideology](concepts/SecularHappinessAgainstIdeology.md) — Literary frame for ordinary safety, marriage, children, and worldly happiness persisting inside grand art and identity conflicts.
 - [Life Sciences Workflow Software](concepts/LifeSciencesWorkflowSoftware.md) — Scientific-workflow software category for experiment design, data capture, analysis, and collaboration across university, biotech, and pharma work.
-- [Cancer Vaccine Platform](concepts/CancerVaccinePlatform.md) — Vaccine-immunotherapy strategy that trains cancer recognition, now separating target-defined platforms from individualized mRNA cancer vaccines.
+- [Cancer Vaccine Platform](concepts/CancerVaccinePlatform.md) — Vaccine-immunotherapy strategy that trains cancer recognition while preserving tumor-type, patient-context, trial-evidence, trust, and access boundaries.
 - [Individualized Cancer Vaccine](concepts/IndividualizedCancerVaccine.md) — Patient-specific mRNA immunotherapy workflow using tumor information to reduce postoperative recurrence risk while preserving validation, cost, and cancer-type limits.
 - [KRAS Oncology Target](concepts/KRASOncologyTarget.md) — Mutation-target strategy used by Adventris as a cross-cancer entry point for cancer-vaccine development.
 - [Biotech Founder Control](concepts/BiotechFounderControl.md) — Governance pattern where SAFEs, board composition, and founder authority protect science-heavy clinical decisions from investor pressure.
