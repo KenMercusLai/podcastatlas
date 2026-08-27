@@ -30,6 +30,10 @@ cleanup() {
 # Register the cleanup trap
 trap cleanup EXIT SIGINT SIGTERM
 
+now_ms() {
+  python3 -c 'import time; print(time.monotonic_ns() // 1_000_000)'
+}
+
 main() {
   # Export the build time zone
   export TZ
@@ -101,6 +105,8 @@ main() {
     npm ci
   fi
 
+  pipeline_started_ms=$(now_ms)
+
   # Derive the current synthesis, daily update history, and open questions
   echo "Preparing overview projections..."
   python3 scripts/prepare-overview-projections.py
@@ -123,11 +129,15 @@ main() {
 
   # Build the project
   echo "Building the project..."
+  hugo_started_ms=$(now_ms)
   hugo build --gc --minify --cleanDestinationDir "$@"
+  hugo_ms=$(( $(now_ms) - hugo_started_ms ))
 
   # Build the full-site search index after Hugo has produced every HTML page
   echo "Building the Pagefind search index..."
+  pagefind_started_ms=$(now_ms)
   ./node_modules/.bin/pagefind --site public
+  pagefind_ms=$(( $(now_ms) - pagefind_started_ms ))
 
   # Exercise the generated index with the fixed multilingual query contract
   echo "Verifying Pagefind query quality..."
@@ -136,6 +146,21 @@ main() {
   # Prove same-name Concept and Entity results remain distinct and filterable
   echo "Verifying Pagefind same-name behavior..."
   bash scripts/verify-pagefind-same-name.sh
+
+  # Record reproducible size, throughput, quality, and query-latency metrics.
+  echo "Benchmarking Pagefind quality and performance..."
+  benchmark_report="${SEARCH_BENCHMARK_REPORT:-.artifacts/search-benchmark.json}"
+  prebenchmark_ms=$(( $(now_ms) - pipeline_started_ms ))
+  node scripts/benchmark-pagefind.mjs \
+    public \
+    tests/fixtures/pagefind_queries.json \
+    tests/fixtures/pagefind_benchmark_thresholds.json \
+    --hugo-ms "${hugo_ms}" \
+    --pagefind-ms "${pagefind_ms}" \
+    --prebenchmark-ms "${prebenchmark_ms}" \
+    --cold-rounds 3 \
+    --warm-rounds 5 \
+    --report "${benchmark_report}"
 }
 
 main "$@"

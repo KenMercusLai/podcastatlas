@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "minimums": {
+    "page_count": 18000,
+    "pages_per_second": 75,
+    "recall_at_5": 1.0,
+    "mrr": 0.95
+  },
+  "maximums": {
+    "index_bytes": 100000000,
+    "hugo_ms": 120000,
+    "pagefind_ms": 90000,
+    "end_to_end_ms": 240000,
+    "cold_query_p50_ms": 500,
+    "cold_query_p95_ms": 1000,
+    "warm_query_p50_ms": 100,
+    "warm_query_p95_ms": 250
+  }
+}

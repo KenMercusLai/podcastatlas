@@ -47,6 +47,18 @@ jobs:
           chmod a+x build.sh
           ./build.sh "${build_args[@]}"
 
+      - name: Publish search benchmark summary
+        if: always()
+        run: |
+          if [[ -f .artifacts/search-benchmark.json ]]; then
+            {
+              echo "## Pagefind search benchmark"
+              echo '```json'
+              cat .artifacts/search-benchmark.json
+              echo '```'
+            } >> "${GITHUB_STEP_SUMMARY}"
+          fi
+
       - name: Validate generated site
         run: python3 scripts/verify-pages-output.py public
 
