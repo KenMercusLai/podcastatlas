@@ -12269,8 +12269,6 @@ Ran lint. See lint-report.md for details.
 
 
 
-
-
 ## [2026-08-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -12626,6 +12624,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-27] lint | Wiki health check
 
 Ran health, identity validation, and lint. Health scanned 15,245 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-22 with 12,882 nodes and 149,964 edges while the current lint scan covered 15,245 pages, so fragile-bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest`; report returned in-session and `wiki/lint-report.md` was not updated.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-27] ingest | Essentials: Control Your Brain Chemistry for Focus, Motivation & Well-Being
+
+Added source page for a Huberman Lab Essentials episode with Andrew Huberman on dopamine, epinephrine, serotonin, acetylcholine, daily neuromodulator phases, behavior, nutrition, supplements, and prescription/safety boundaries. Created Neuromodulator State Toolkit, Dopamine Tool Timing, Epinephrine Alertness Toolkit, Acetylcholine Focus Support, and Serotonin Social Wellbeing Tools pages; extended Huberman Lab and Andrew Huberman. No settled contradiction found; supplement, prescription, cold-exposure, breathing, nicotine, and serotonin claims remain source-scoped and medically bounded.
 
 ## [2026-08-27] lint | Wiki health check
 

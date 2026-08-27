@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Essentials: Control Your Brain Chemistry for Focus, Motivation & Well-Being](sources/essentials-control-your-brain-chemistry-for-focus-motivation-well-being-scim6495209379.md) — Huberman Lab Essentials episode on dopamine, epinephrine, serotonin, acetylcholine, daily timing, behavior, nutrition, supplements, and safety-bounded state tools.
 - [Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li](sources/using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040.md) — Huberman Lab episode with Fei-Fei Li on ImageNet, human learning, human-centered AI augmentation, medicine, education, creativity, robotics, and World Labs.
 - [VOL.218韩杰医生事件后四大门诊坦白局：不对立不甩锅，医患如何联手打赢防漏诊的“排雷战”？](sources/vol-218-hanjie-yisheng-shijian-hou-sida-menzhen-tanbaiju-bu-duili-bu-shuaiguo-yihuan-ruhe-lianshou-daying-fang-louzhen-de-paileizhan-lgbs8aaxguh-xzga8iuewwc7ypvm.md) — 这病说来话长 episode with 阿汤, 亚萌, 蒋宇亮, 银欣, and 马浩宁 on missed diagnosis risk, diagnostic safety-netting, first-visit uncertainty, report tracking, second opinions, and qualified-care boundaries.
 - [Essentials: How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried](sources/essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929.md) — Huberman Lab Essentials episode with Sara Gottfried on female hormone phenotyping, PCOS cardiometabolic risk, oral contraceptive informed consent, perimenopause brain metabolism, and coronary artery calcium screening.
@@ -1608,8 +1609,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Darcy (Raised Nutrition)](entities/DarcyRaisedNutrition.md) — Raised Nutrition founder-caller asking whether a niche athletic origin story limits broader wellness appeal.
 - [Cooks Who Feed](entities/CooksWhoFeed.md) — Social-enterprise kitchen-linen company advised to use low-risk B2B trials, referrals, and client-centered impact storytelling.
 - [Seema Sanghavi](entities/SeemaSanghavi.md) — Cooks Who Feed founder-caller focused on convincing B2B buyers to switch vendors.
-- [Huberman Lab](entities/HubermanLab.md) — Show context for episodes on nutrition, mental health, motivation, attention neuroscience, creativity process, emotion science, regulation, and female hormone health.
-- [Andrew Huberman](entities/AndrewHuberman.md) — Host framing guest discussions on nutrition, mental health, motivation, attention, creativity, emotion science, female hormone health, and practical neuroscience.
+- [Huberman Lab](entities/HubermanLab.md) — Show context for episodes on nutrition, mental health, motivation, attention neuroscience, creativity process, emotion science, female hormone health, AI, and neuromodulator tools.
+- [Andrew Huberman](entities/AndrewHuberman.md) — Host framing guest discussions and solo Essentials episodes on nutrition, mental health, motivation, attention, emotion, AI, hormone health, and practical neuroscience.
 - [Masud Husain](entities/MasudHusain.md) — Neuroscience and neurology guest explaining motivation, apathy, dopamine, attention, selfhood, and cognitive resilience.
 - [Chris Palmer](entities/ChrisPalmer.md) — Psychiatrist grounding the episode's metabolic psychiatry, ketogenic diet, and mitochondrial mental-health claims.
 - [Russell Wilder](entities/RussellWilder.md) — Mayo Clinic physician named as the 1921 developer of the ketogenic diet for epilepsy.
@@ -9551,6 +9552,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Neuromodulator State Toolkit](concepts/NeuromodulatorStateToolkit.md) — Framework for adjusting motivation, energy, focus, relaxation, and wellbeing through dopamine, epinephrine, serotonin, acetylcholine, timing, behavior, nutrition, and safety boundaries.
+- [Dopamine Tool Timing](concepts/DopamineToolTiming.md) — Motivation-tool frame for matching sunlight, caffeine, supplements, cold exposure, baseline state, and daily timing without treating dopamine as simply more-is-better.
+- [Epinephrine Alertness Toolkit](concepts/EpinephrineAlertnessToolkit.md) — Alertness and movement-readiness frame linking locus-coeruleus arousal, exercise, caffeine, cyclic hyperventilation, cold exposure, and medical boundaries.
+- [Acetylcholine Focus Support](concepts/AcetylcholineFocusSupport.md) — Focus and learning frame connecting activity-dependent attention, choline foods, nicotine cautions, alpha GPC, and huperzine.
+- [Serotonin Social Wellbeing Tools](concepts/SerotoninSocialWellbeingTools.md) — Wellbeing frame connecting relaxation, physical contact, gratitude, tryptophan, myoinositol, and serotonin safety limits.
 - [Diagnostic Safety Netting / 诊断安全网](concepts/DiagnosticSafetyNetting.md) — Follow-up structure for uncertain first visits, covering observation windows, return triggers, report tracking, and low-cost patient-safety checks.
 - [Missed Diagnosis Risk / 漏诊风险](concepts/MissedDiagnosisRisk.md) — Safety frame for symptom overlap, evolving disease, test limits, chronic-condition masking, and follow-up as mitigation.
 - [Second Opinion Strategy / 第二意见策略](concepts/SecondOpinionStrategy.md) — Patient practice of seeking another qualified medical view with neutral symptom presentation, records, and regular-care boundaries.

@@ -922,6 +922,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/accusationquotarefusal/"
     },
+    "AcetylcholineFocusSupport": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6495209379 [SCIM6495209379].md",
+          "key": "essentials-control-your-brain-chemistry-for-focus-motivation-well-being-scim6495209379",
+          "show": "Huberman Lab",
+          "title": "Essentials: Control Your Brain Chemistry for Focus, Motivation & Well-Being",
+          "url": "/wiki/sources/essentials-control-your-brain-chemistry-for-focus-motivation-well-being-scim6495209379/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/acetylcholinefocussupport/"
+    },
     "ActionableOrganizationalValues": {
       "episode_count": 1,
       "show_count": 1,
@@ -1166,9 +1182,9 @@
       "url": "/wiki/concepts/analogmoviegoingexperience/"
     },
     "AndrewHuberman": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -1211,6 +1227,13 @@
           "show": "Huberman Lab",
           "title": "Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li",
           "url": "/wiki/sources/using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040/"
+        },
+        {
+          "episode_file": "SCIM6495209379 [SCIM6495209379].md",
+          "key": "essentials-control-your-brain-chemistry-for-focus-motivation-well-being-scim6495209379",
+          "show": "Huberman Lab",
+          "title": "Essentials: Control Your Brain Chemistry for Focus, Motivation & Well-Being",
+          "url": "/wiki/sources/essentials-control-your-brain-chemistry-for-focus-motivation-well-being-scim6495209379/"
         }
       ],
       "updated": "2026-08-27",
@@ -3997,6 +4020,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/dopamineinvertedu/"
     },
+    "DopamineToolTiming": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6495209379 [SCIM6495209379].md",
+          "key": "essentials-control-your-brain-chemistry-for-focus-motivation-well-being-scim6495209379",
+          "show": "Huberman Lab",
+          "title": "Essentials: Control Your Brain Chemistry for Focus, Motivation & Well-Being",
+          "url": "/wiki/sources/essentials-control-your-brain-chemistry-for-focus-motivation-well-being-scim6495209379/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/dopaminetooltiming/"
+    },
     "DopamineWantingLoop": {
       "episode_count": 2,
       "show_count": 2,
@@ -4841,6 +4880,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/enterpriseaipilotpurgatory/"
+    },
+    "EpinephrineAlertnessToolkit": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6495209379 [SCIM6495209379].md",
+          "key": "essentials-control-your-brain-chemistry-for-focus-motivation-well-being-scim6495209379",
+          "show": "Huberman Lab",
+          "title": "Essentials: Control Your Brain Chemistry for Focus, Motivation & Well-Being",
+          "url": "/wiki/sources/essentials-control-your-brain-chemistry-for-focus-motivation-well-being-scim6495209379/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/epinephrinealertnesstoolkit/"
     },
     "EricWeinstein": {
       "episode_count": 1,
@@ -6919,9 +6974,9 @@
       "url": "/wiki/concepts/huaweismartselectioncarmodel/"
     },
     "HubermanLab": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -6964,6 +7019,13 @@
           "show": "Huberman Lab",
           "title": "Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li",
           "url": "/wiki/sources/using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040/"
+        },
+        {
+          "episode_file": "SCIM6495209379 [SCIM6495209379].md",
+          "key": "essentials-control-your-brain-chemistry-for-focus-motivation-well-being-scim6495209379",
+          "show": "Huberman Lab",
+          "title": "Essentials: Control Your Brain Chemistry for Focus, Motivation & Well-Being",
+          "url": "/wiki/sources/essentials-control-your-brain-chemistry-for-focus-motivation-well-being-scim6495209379/"
         }
       ],
       "updated": "2026-08-27",
@@ -10972,6 +11034,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/neorobot/"
     },
+    "NeuromodulatorStateToolkit": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6495209379 [SCIM6495209379].md",
+          "key": "essentials-control-your-brain-chemistry-for-focus-motivation-well-being-scim6495209379",
+          "show": "Huberman Lab",
+          "title": "Essentials: Control Your Brain Chemistry for Focus, Motivation & Well-Being",
+          "url": "/wiki/sources/essentials-control-your-brain-chemistry-for-focus-motivation-well-being-scim6495209379/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/neuromodulatorstatetoolkit/"
+    },
     "NewGoldenAgeScienceAgenda": {
       "episode_count": 2,
       "show_count": 1,
@@ -13254,6 +13332,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/selfdoubtascreativecheck/"
+    },
+    "SerotoninSocialWellbeingTools": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6495209379 [SCIM6495209379].md",
+          "key": "essentials-control-your-brain-chemistry-for-focus-motivation-well-being-scim6495209379",
+          "show": "Huberman Lab",
+          "title": "Essentials: Control Your Brain Chemistry for Focus, Motivation & Well-Being",
+          "url": "/wiki/sources/essentials-control-your-brain-chemistry-for-focus-motivation-well-being-scim6495209379/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/serotoninsocialwellbeingtools/"
     },
     "SeventyMillimeterFilmProjection": {
       "episode_count": 1,

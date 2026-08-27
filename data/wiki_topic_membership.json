@@ -4772,6 +4772,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "AcetylcholineFocusSupport": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "AchievementPressureMentalHealth": [
     {
       "key": "culture",
@@ -18119,6 +18126,13 @@
       "url": "/topics/science/"
     }
   ],
+  "DopamineToolTiming": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "DopamineWantingLoop": [
     {
       "key": "science",
@@ -19953,6 +19967,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "EpinephrineAlertnessToolkit": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "EpistemologicalWarfare": [
@@ -39809,6 +39830,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "NeuromodulatorStateToolkit": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "Neuroplasticity": [
     {
       "key": "science",
@@ -50397,6 +50425,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "SerotoninSocialWellbeingTools": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "ServiceAsSoftware": [
@@ -66863,6 +66898,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "essentials-control-your-brain-chemistry-for-focus-motivation-well-being-scim6495209379": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786": [

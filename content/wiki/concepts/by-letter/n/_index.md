@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 5718
+wiki_total_pages: 5723
 wiki_pages:
   - key: "NamingPowerSocialChange"
     title: "Naming Power In Social Change / 社会变革中的命名权"
@@ -116,6 +116,9 @@ wiki_pages:
   - key: "NeuralProcessingUnits"
     title: "Neural Processing Units"
     url: "/wiki/concepts/neuralprocessingunits/"
+  - key: "NeuromodulatorStateToolkit"
+    title: "Neuromodulator State Toolkit"
+    url: "/wiki/concepts/neuromodulatorstatetoolkit/"
   - key: "Neuroplasticity"
     title: "Neuroplasticity / 神经可塑性"
     url: "/wiki/concepts/neuroplasticity/"

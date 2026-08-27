@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 5718
+wiki_total_pages: 5723
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -641,6 +641,9 @@ wiki_pages:
   - key: "DopamineInvertedU"
     title: "Dopamine Inverted U"
     url: "/wiki/concepts/dopamineinvertedu/"
+  - key: "DopamineToolTiming"
+    title: "Dopamine Tool Timing"
+    url: "/wiki/concepts/dopaminetooltiming/"
   - key: "DopamineWantingLoop"
     title: "Dopamine Wanting Loop / 多巴胺渴爱循环"
     url: "/wiki/concepts/dopaminewantingloop/"

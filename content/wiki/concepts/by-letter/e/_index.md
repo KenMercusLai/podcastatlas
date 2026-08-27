@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 5718
+wiki_total_pages: 5723
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -485,6 +485,9 @@ wiki_pages:
   - key: "EpicModernAfterlife"
     title: "Epic Modern Afterlife"
     url: "/wiki/concepts/epicmodernafterlife/"
+  - key: "EpinephrineAlertnessToolkit"
+    title: "Epinephrine Alertness Toolkit"
+    url: "/wiki/concepts/epinephrinealertnesstoolkit/"
   - key: "EpistemologicalWarfare"
     title: "Epistemological Warfare"
     url: "/wiki/concepts/epistemologicalwarfare/"

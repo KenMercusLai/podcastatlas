@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 5718
+wiki_total_pages: 5723
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -80,6 +80,9 @@ wiki_pages:
   - key: "AccusationQuotaRefusal"
     title: "Accusation Quota Refusal / 诬陷指标拒绝"
     url: "/wiki/concepts/accusationquotarefusal/"
+  - key: "AcetylcholineFocusSupport"
+    title: "Acetylcholine Focus Support"
+    url: "/wiki/concepts/acetylcholinefocussupport/"
   - key: "AchievementPressureMentalHealth"
     title: "Achievement Pressure Mental Health"
     url: "/wiki/concepts/achievementpressurementalhealth/"
