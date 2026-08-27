@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-27] ingest | How to Improve Motivation & Overcome Procrastination | Dr. Masud Husain
+
+Added source page for a Huberman Lab episode with Masud Husain on motivation as reward-effort calculation, apathy as impaired action initiation, dopamine's wanting/liking and inverted-U boundaries, attention capacity, ADHD caution, self-concept plasticity, addiction, and cognitive resilience. Created Masud Husain, Motivation Reward-Effort Calculation, Apathy Action Initiation, Dopamine Inverted U, Attention Capacity Selection, Cognitive Resilience, and Self-Concept Plasticity pages; updated Huberman Lab, Andrew Huberman, Dopamine Wanting Loop, and Procrastination Self-Regulation Failure. No settled contradiction found; medication, diagnosis, stimulant, and Alzheimer-risk claims remain source-scoped.
+
 ## [2026-08-27] ingest | Essentials: Diet & Nutrition for Mental Health | Dr. Chris Palmer
 
 Added source page for a Huberman Lab Essentials episode with Chris Palmer on nutrition, ketogenic diets, epilepsy history, mitochondria, and metabolic psychiatry. Created Huberman Lab, Andrew Huberman, Chris Palmer, Russell Wilder, Mayo Clinic, Nutrition and Mental Health, Metabolic Psychiatry, Ketogenic Diet and Mental Health, Ketogenic Diet Epilepsy Evidence, Mitochondrial Mental Health Model, Psychiatric Medication Supervision Boundary, and Carbohydrate Restriction and Mental Health pages. No settled contradiction found; the source keeps psychiatric ketogenic claims promising but developing, with severe disorders and medication changes bounded by professional supervision.
@@ -12566,6 +12570,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-27] ingest | Advice Line with Daymond John of FUBU
 
 Added source page for the How I Built This Advice Line episode with Daymond John advising Sabor a Mexico Salsas, Raised Nutrition, and Cooks Who Feed. Created Daymond John, FUBU, Sabor a Mexico Salsas, Christopher Navarro, Raised Nutrition, Darcy (Raised Nutrition), Cooks Who Feed, Seema Sanghavi, Founder Pitch Evidence Fit, Small Retailer Channel Test, Niche Origin Story Expansion, and Mission-Aligned Vendor Switching pages; updated index and overview. No settled contradiction found; sales figures, meal counts, client examples, and channel recommendations remain source-scoped.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-27] lint | Wiki health check
 

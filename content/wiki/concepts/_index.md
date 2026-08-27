@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 5679
+wiki_total_pages: 5685
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1493,6 +1493,9 @@ wiki_pages:
   - key: "AntitrustChill"
     title: "Antitrust Chill"
     url: "/wiki/concepts/antitrustchill/"
+  - key: "ApathyActionInitiation"
+    title: "Apathy Action Initiation"
+    url: "/wiki/concepts/apathyactioninitiation/"
   - key: "APIProductDesign"
     title: "API Product Design"
     url: "/wiki/concepts/apiproductdesign/"
@@ -1706,6 +1709,9 @@ wiki_pages:
   - key: "AttentionAsWeather"
     title: "Attention As Weather"
     url: "/wiki/concepts/attentionasweather/"
+  - key: "AttentionCapacitySelection"
+    title: "Attention Capacity Selection"
+    url: "/wiki/concepts/attentioncapacityselection/"
   - key: "AttentionFragmentation"
     title: "Attention Fragmentation / 注意力碎片化"
     url: "/wiki/concepts/attentionfragmentation/"

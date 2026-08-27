@@ -4739,6 +4739,10 @@
     "title": "青柳碧人 / Aoyagi Aito",
     "url": "/wiki/entities/aoyagiaito/"
   },
+  "ApathyActionInitiation": {
+    "title": "Apathy Action Initiation",
+    "url": "/wiki/concepts/apathyactioninitiation/"
+  },
   "ApexDigital": {
     "title": "APEX Digital",
     "url": "/wiki/entities/apexdigital/"
@@ -5266,6 +5270,10 @@
   "AttentionAsWeather": {
     "title": "Attention As Weather",
     "url": "/wiki/concepts/attentionasweather/"
+  },
+  "AttentionCapacitySelection": {
+    "title": "Attention Capacity Selection",
+    "url": "/wiki/concepts/attentioncapacityselection/"
   },
   "AttentionFragmentation": {
     "title": "Attention Fragmentation / 注意力碎片化",
@@ -10827,6 +10835,10 @@
     "title": "Cognitive Offloading / 认知卸载",
     "url": "/wiki/concepts/cognitiveoffloading/"
   },
+  "CognitiveResilience": {
+    "title": "Cognitive Resilience",
+    "url": "/wiki/concepts/cognitiveresilience/"
+  },
   "CognitiveSurrender": {
     "title": "Cognitive Surrender",
     "url": "/wiki/concepts/cognitivesurrender/"
@@ -14342,6 +14354,10 @@
   "DoorDash": {
     "title": "DoorDash",
     "url": "/wiki/entities/doordash/"
+  },
+  "DopamineInvertedU": {
+    "title": "Dopamine Inverted U",
+    "url": "/wiki/concepts/dopamineinvertedu/"
   },
   "DopamineWantingLoop": {
     "title": "Dopamine Wanting Loop / 多巴胺渴爱循环",
@@ -31099,6 +31115,10 @@
     "title": "Mastercard",
     "url": "/wiki/entities/mastercard/"
   },
+  "MasudHusain": {
+    "title": "Masud Husain",
+    "url": "/wiki/entities/masudhusain/"
+  },
   "MaterialHistoryNarrative": {
     "title": "Material History Narrative",
     "url": "/wiki/concepts/materialhistorynarrative/"
@@ -33066,6 +33086,10 @@
   "MotivationCrowdingOut": {
     "title": "Motivation Crowding Out / 动机挤出",
     "url": "/wiki/concepts/motivationcrowdingout/"
+  },
+  "MotivationRewardEffortCalculation": {
+    "title": "Motivation Reward-Effort Calculation",
+    "url": "/wiki/concepts/motivationrewardeffortcalculation/"
   },
   "MotiveBasedTalentEvaluation": {
     "title": "Motive-Based Talent Evaluation / 动机导向的才干评价",
@@ -42494,6 +42518,10 @@
   "SelectiveMotionSmoothing": {
     "title": "Selective Motion Smoothing",
     "url": "/wiki/concepts/selectivemotionsmoothing/"
+  },
+  "SelfConceptPlasticity": {
+    "title": "Self-Concept Plasticity",
+    "url": "/wiki/concepts/selfconceptplasticity/"
   },
   "SelfDefeatingResourceDrainStrategy": {
     "title": "Self-Defeating Resource-Drain Strategy / 疲敌反强敌",
@@ -56970,6 +56998,10 @@
   "how-to-get-what-greenland-has-with-permission": {
     "title": "How to get what Greenland has, with permission",
     "url": "/wiki/sources/how-to-get-what-greenland-has-with-permission/"
+  },
+  "how-to-improve-motivation-overcome-procrastination-dr-masud-husain-scim3386045656": {
+    "title": "How to Improve Motivation & Overcome Procrastination | Dr. Masud Husain",
+    "url": "/wiki/sources/how-to-improve-motivation-overcome-procrastination-dr-masud-husain-scim3386045656/"
   },
   "how-to-make-a-book-into-a-bestseller": {
     "title": "How to make a BOOK into a bestseller",

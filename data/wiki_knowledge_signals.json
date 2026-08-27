@@ -1051,9 +1051,9 @@
       "url": "/wiki/concepts/amnestyexploitationcrime/"
     },
     "AndrewHuberman": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -1061,6 +1061,13 @@
           "show": "Huberman Lab",
           "title": "Essentials: Diet & Nutrition for Mental Health | Dr. Chris Palmer",
           "url": "/wiki/sources/essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786/"
+        },
+        {
+          "episode_file": "SCIM3386045656 [SCIM3386045656].md",
+          "key": "how-to-improve-motivation-overcome-procrastination-dr-masud-husain-scim3386045656",
+          "show": "Huberman Lab",
+          "title": "How to Improve Motivation & Overcome Procrastination | Dr. Masud Husain",
+          "url": "/wiki/sources/how-to-improve-motivation-overcome-procrastination-dr-masud-husain-scim3386045656/"
         }
       ],
       "updated": "2026-08-27",
@@ -1296,6 +1303,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/anzhonglatehan/"
     },
+    "ApathyActionInitiation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3386045656 [SCIM3386045656].md",
+          "key": "how-to-improve-motivation-overcome-procrastination-dr-masud-husain-scim3386045656",
+          "show": "Huberman Lab",
+          "title": "How to Improve Motivation & Overcome Procrastination | Dr. Masud Husain",
+          "url": "/wiki/sources/how-to-improve-motivation-overcome-procrastination-dr-masud-husain-scim3386045656/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/apathyactioninitiation/"
+    },
     "ArmedFollowerIntegrationCost": {
       "episode_count": 1,
       "show_count": 1,
@@ -1382,6 +1405,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/atlasrobot/"
+    },
+    "AttentionCapacitySelection": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3386045656 [SCIM3386045656].md",
+          "key": "how-to-improve-motivation-overcome-procrastination-dr-masud-husain-scim3386045656",
+          "show": "Huberman Lab",
+          "title": "How to Improve Motivation & Overcome Procrastination | Dr. Masud Husain",
+          "url": "/wiki/sources/how-to-improve-motivation-overcome-procrastination-dr-masud-husain-scim3386045656/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/attentioncapacityselection/"
     },
     "AustriaHungary": {
       "episode_count": 1,
@@ -2663,6 +2702,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/coercedimperialmarriage/"
     },
+    "CognitiveResilience": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3386045656 [SCIM3386045656].md",
+          "key": "how-to-improve-motivation-overcome-procrastination-dr-masud-husain-scim3386045656",
+          "show": "Huberman Lab",
+          "title": "How to Improve Motivation & Overcome Procrastination | Dr. Masud Husain",
+          "url": "/wiki/sources/how-to-improve-motivation-overcome-procrastination-dr-masud-husain-scim3386045656/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/cognitiveresilience/"
+    },
     "CommandContinuityDamageControl": {
       "episode_count": 2,
       "show_count": 1,
@@ -3467,10 +3522,26 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/dongqianglatehan/"
     },
-    "DopamineWantingLoop": {
+    "DopamineInvertedU": {
       "episode_count": 1,
       "show_count": 1,
       "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3386045656 [SCIM3386045656].md",
+          "key": "how-to-improve-motivation-overcome-procrastination-dr-masud-husain-scim3386045656",
+          "show": "Huberman Lab",
+          "title": "How to Improve Motivation & Overcome Procrastination | Dr. Masud Husain",
+          "url": "/wiki/sources/how-to-improve-motivation-overcome-procrastination-dr-masud-husain-scim3386045656/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/dopamineinvertedu/"
+    },
+    "DopamineWantingLoop": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "E46 我们从未看见彼此 [lmLikSaiWXAKmjBn_p2VoaaOENXH].md",
@@ -3478,9 +3549,16 @@
           "show": "无人知晓",
           "title": "E46 我们从未看见彼此",
           "url": "/wiki/sources/e46-women-congwei-kanjian-bici-lmliksaiwxakmjbn-p2voaaoenxh/"
+        },
+        {
+          "episode_file": "SCIM3386045656 [SCIM3386045656].md",
+          "key": "how-to-improve-motivation-overcome-procrastination-dr-masud-husain-scim3386045656",
+          "show": "Huberman Lab",
+          "title": "How to Improve Motivation & Overcome Procrastination | Dr. Masud Husain",
+          "url": "/wiki/sources/how-to-improve-motivation-overcome-procrastination-dr-masud-husain-scim3386045656/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-08-27",
       "url": "/wiki/concepts/dopaminewantingloop/"
     },
     "DouWuLateHan": {
@@ -6237,9 +6315,9 @@
       "url": "/wiki/concepts/huaweismartselectioncarmodel/"
     },
     "HubermanLab": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -6247,6 +6325,13 @@
           "show": "Huberman Lab",
           "title": "Essentials: Diet & Nutrition for Mental Health | Dr. Chris Palmer",
           "url": "/wiki/sources/essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786/"
+        },
+        {
+          "episode_file": "SCIM3386045656 [SCIM3386045656].md",
+          "key": "how-to-improve-motivation-overcome-procrastination-dr-masud-husain-scim3386045656",
+          "show": "Huberman Lab",
+          "title": "How to Improve Motivation & Overcome Procrastination | Dr. Masud Husain",
+          "url": "/wiki/sources/how-to-improve-motivation-overcome-procrastination-dr-masud-husain-scim3386045656/"
         }
       ],
       "updated": "2026-08-27",
@@ -9148,6 +9233,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/massproducedaiintimacy/"
     },
+    "MasudHusain": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3386045656 [SCIM3386045656].md",
+          "key": "how-to-improve-motivation-overcome-procrastination-dr-masud-husain-scim3386045656",
+          "show": "Huberman Lab",
+          "title": "How to Improve Motivation & Overcome Procrastination | Dr. Masud Husain",
+          "url": "/wiki/sources/how-to-improve-motivation-overcome-procrastination-dr-masud-husain-scim3386045656/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/masudhusain/"
+    },
     "MaxBennett": {
       "episode_count": 1,
       "show_count": 1,
@@ -9834,6 +9935,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/moraldesertpoliticaloutcomegap/"
+    },
+    "MotivationRewardEffortCalculation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3386045656 [SCIM3386045656].md",
+          "key": "how-to-improve-motivation-overcome-procrastination-dr-masud-husain-scim3386045656",
+          "show": "Huberman Lab",
+          "title": "How to Improve Motivation & Overcome Procrastination | Dr. Masud Husain",
+          "url": "/wiki/sources/how-to-improve-motivation-overcome-procrastination-dr-masud-husain-scim3386045656/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/motivationrewardeffortcalculation/"
     },
     "MultiTeacherDistillation": {
       "episode_count": 2,
@@ -11012,6 +11129,29 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/prisonrituallegitimacyrefusal/"
     },
+    "ProcrastinationSelfRegulationFailure": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Wake-up haul： an Ozempic moment for the brain [6a85798d1ad8716bb6078744].md",
+          "key": "wake-up-haul-an-ozempic-moment-for-the-brain-6a85798d1ad8716bb6078744",
+          "show": "Economist Podcasts",
+          "title": "Wake-up haul: an Ozempic moment for the brain",
+          "url": "/wiki/sources/wake-up-haul-an-ozempic-moment-for-the-brain-6a85798d1ad8716bb6078744/"
+        },
+        {
+          "episode_file": "SCIM3386045656 [SCIM3386045656].md",
+          "key": "how-to-improve-motivation-overcome-procrastination-dr-masud-husain-scim3386045656",
+          "show": "Huberman Lab",
+          "title": "How to Improve Motivation & Overcome Procrastination | Dr. Masud Husain",
+          "url": "/wiki/sources/how-to-improve-motivation-overcome-procrastination-dr-masud-husain-scim3386045656/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/procrastinationselfregulationfailure/"
+    },
     "ProvisionalIRA": {
       "episode_count": 2,
       "show_count": 1,
@@ -12019,6 +12159,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/seemasanghavi/"
+    },
+    "SelfConceptPlasticity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3386045656 [SCIM3386045656].md",
+          "key": "how-to-improve-motivation-overcome-procrastination-dr-masud-husain-scim3386045656",
+          "show": "Huberman Lab",
+          "title": "How to Improve Motivation & Overcome Procrastination | Dr. Masud Husain",
+          "url": "/wiki/sources/how-to-improve-motivation-overcome-procrastination-dr-masud-husain-scim3386045656/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/selfconceptplasticity/"
     },
     "ShanBingLateHan": {
       "episode_count": 2,

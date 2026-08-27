@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 7946
+wiki_total_pages: 7947
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -392,6 +392,9 @@ wiki_pages:
   - key: "Mastercard"
     title: "Mastercard"
     url: "/wiki/entities/mastercard/"
+  - key: "MasudHusain"
+    title: "Masud Husain"
+    url: "/wiki/entities/masudhusain/"
   - key: "MathieuFavasse"
     title: "Mathieu Favasse"
     url: "/wiki/entities/mathieufavasse/"

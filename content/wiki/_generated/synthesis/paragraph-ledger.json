@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "d56107734ba6139da497aa21b5553f9f70bf075a65f8e8384a7e6d65b0ea3610",
       "11ed9373f4a2e830124b00d733415b16da01a3debf8df811edd060b9b8535ba4",
       "8a771097ddfd7388b548e15df7342514d4c5e1ff50b05589df78e1a5686991fe",
       "dc98d131ed052a652502cdaeff98d62afa8260b54c97d6b3770e26614c669e34",
@@ -299,11 +300,42 @@
       "16d531495e2a6294ae198d0b95a352e519f488fcca1dbdae1f416758d1cfa576",
       "a9fec3ceb1b343b1fafeebc9ab2903b46238a861f9aaafd9d15b1460340a08b5"
     ],
-    "paragraph_count": 297
+    "paragraph_count": 298
   },
-  "overview_commit": "a93b8be48aad5c746bc047bf5df81cf9cb717d2b",
-  "overview_digest": "c738a389a1e46cfead4d489b52e29711068f4f714a17a91767394a82b4710c6b",
+  "overview_commit": "90468b99aaf8a39cac0c445f1d3db2180cbac796",
+  "overview_digest": "f0300b8f8a5e20b95e51c7e1cddffeb44343c0ae2fd198161bf2bc3a211de9a0",
   "paragraphs": [
+    {
+      "id": "d56107734ba6139da497aa21b5553f9f70bf075a65f8e8384a7e6d65b0ea3610",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [],
+      "text": "The latest addition is [[how-to-improve-motivation-overcome-procrastination-dr-masud-husain-scim3386045656|How to Improve Motivation & Overcome Procrastination | Dr. Masud Husain]], a [[HubermanLab]] episode with [[AndrewHuberman]] and [[MasudHusain]] on motivation, apathy, dopamine, attention, selfhood, addiction, ADHD, and aging. It adds [[MasudHusain]], [[MotivationRewardEffortCalculation]], [[ApathyActionInitiation]], [[DopamineInvertedU]], [[AttentionCapacitySelection]], [[CognitiveResilience]], and [[SelfConceptPlasticity]], while extending [[HubermanLab]], [[AndrewHuberman]], [[DopamineWantingLoop]], [[ProcrastinationSelfRegulationFailure]], [[ModifiableDementiaRiskFactors]], [[AgeAdjustedDementiaDecline]], [[AlzheimerDrugEfficacyGap]], [[AttentionFragmentation]], [[MindBodyUnion]], and [[ImpermanenceAndNoSelf]]. Its core synthesis is that motivation is not a character label or a dopamine slogan: reward, effort, prior learning, attention, task design, social meaning, and basal-ganglia/frontal action circuitry all shape whether wanting becomes action. No settled contradiction is recorded; medication response, ADHD diagnosis, stimulant performance, attention training, and Alzheimer-risk claims remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "AgeAdjustedDementiaDecline",
+        "AlzheimerDrugEfficacyGap",
+        "AndrewHuberman",
+        "ApathyActionInitiation",
+        "AttentionCapacitySelection",
+        "AttentionFragmentation",
+        "CognitiveResilience",
+        "DopamineInvertedU",
+        "DopamineWantingLoop",
+        "HubermanLab",
+        "ImpermanenceAndNoSelf",
+        "MasudHusain",
+        "MindBodyUnion",
+        "ModifiableDementiaRiskFactors",
+        "MotivationRewardEffortCalculation",
+        "ProcrastinationSelfRegulationFailure",
+        "SelfConceptPlasticity",
+        "how-to-improve-motivation-overcome-procrastination-dr-masud-husain-scim3386045656"
+      ]
+    },
     {
       "id": "11ed9373f4a2e830124b00d733415b16da01a3debf8df811edd060b9b8535ba4",
       "primary_topic": "science-health-and-climate",

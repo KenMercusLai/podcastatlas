@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to Improve Motivation & Overcome Procrastination | Dr. Masud Husain](sources/how-to-improve-motivation-overcome-procrastination-dr-masud-husain-scim3386045656.md) — Huberman Lab episode with Masud Husain on motivation, apathy, reward-effort calculation, dopamine, attention, ADHD, self-concept, addiction, and cognitive resilience.
 - [Advice Line with Daymond John of FUBU](sources/advice-line-with-daymond-john-of-fubu-0961848f-0f5a-4fb7-932c-3a04f08bc8d4.md) — How I Built This Advice Line episode with Daymond John on founder pitch evidence, staged retail tests, niche-origin expansion, and mission-aligned B2B vendor switching.
 - [Essentials: Diet & Nutrition for Mental Health | Dr. Chris Palmer](sources/essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786.md) — Huberman Lab Essentials episode with Chris Palmer on nutrition, ketogenic diets, epilepsy history, mitochondria, metabolic psychiatry, and supervised psychiatric medication boundaries.
 - [No.216 ⚔️ 「十步杀一人」：红衣大炮周鸿祎的三十年全面战争史 | 中国互联网故事 27](sources/no-216-shi-bu-sha-yi-ren-hongyi-dapao-zhouhongyi-de-sanshinian-quanmian-zhanzhengshi-zhongguo-hulianwang-gushi-27-1008693437.md) — Banlatte episode on Zhou Hongyi, 3721, Yahoo China, Qihoo 360, free antivirus, 3Q, search wars, mobile distribution, enterprise security, investing, and founder-media identity.
@@ -1583,8 +1584,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Darcy (Raised Nutrition)](entities/DarcyRaisedNutrition.md) — Raised Nutrition founder-caller asking whether a niche athletic origin story limits broader wellness appeal.
 - [Cooks Who Feed](entities/CooksWhoFeed.md) — Social-enterprise kitchen-linen company advised to use low-risk B2B trials, referrals, and client-centered impact storytelling.
 - [Seema Sanghavi](entities/SeemaSanghavi.md) — Cooks Who Feed founder-caller focused on convincing B2B buyers to switch vendors.
-- [Huberman Lab](entities/HubermanLab.md) — Health and neuroscience show context for the Essentials episode on nutrition, ketosis, and mental health.
-- [Andrew Huberman](entities/AndrewHuberman.md) — Host framing the nutrition and mental health discussion with Chris Palmer.
+- [Huberman Lab](entities/HubermanLab.md) — Health and neuroscience show context for episodes on nutrition, mental health, motivation, apathy, dopamine, attention, and aging.
+- [Andrew Huberman](entities/AndrewHuberman.md) — Host framing guest discussions on nutrition, mental health, motivation, apathy, attention, and practical neuroscience.
+- [Masud Husain](entities/MasudHusain.md) — Neuroscience and neurology guest explaining motivation, apathy, dopamine, attention, selfhood, and cognitive resilience.
 - [Chris Palmer](entities/ChrisPalmer.md) — Psychiatrist grounding the episode's metabolic psychiatry, ketogenic diet, and mitochondrial mental-health claims.
 - [Russell Wilder](entities/RussellWilder.md) — Mayo Clinic physician named as the 1921 developer of the ketogenic diet for epilepsy.
 - [Mayo Clinic](entities/MayoClinic.md) — Medical institution used as the historical origin context for ketogenic diet epilepsy treatment.
@@ -9650,7 +9652,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI Expression Baseline / AI 表达基线](concepts/AIExpressionBaseline.md) — E46 frame for AI raising the floor of ordinary expression and making sincere, experience-grounded human deviation more valuable.
 - [Interpersonal Image Projection / 人际意象投射](concepts/InterpersonalImageProjection.md) — Pattern where another person is seen through memory, fear, desire, labels, and disowned parts of the self.
 - [Evolutionary Misrecognition / 进化式误认](concepts/EvolutionaryMisrecognition.md) — E46 synthesis that survival-oriented cognition helps organisms live while making direct seeing structurally difficult.
-- [Dopamine Wanting Loop / 多巴胺渴爱循环](concepts/DopamineWantingLoop.md) — E46's reinforcement-learning and Buddhist-craving frame for wanting without lasting satisfaction.
+- [Dopamine Wanting Loop / 多巴胺渴爱循环](concepts/DopamineWantingLoop.md) — Frame for dopamine-modulated wanting, pursuit, learning, action, and the separation between wanting and liking.
+- [Motivation Reward-Effort Calculation](concepts/MotivationRewardEffortCalculation.md) — Neuroscience frame for motivated action as expected reward weighed against effort, activation barriers, prior learning, and feedback.
+- [Apathy Action Initiation](concepts/ApathyActionInitiation.md) — Apathy frame where desire or enjoyment may remain while voluntary initiation fails without prompting.
+- [Dopamine Inverted U](concepts/DopamineInvertedU.md) — Performance-boundary claim that dopamine or stimulant boosts may help low or medium baselines but impair high baselines.
+- [Attention Capacity Selection](concepts/AttentionCapacitySelection.md) — Attention frame for limited-capacity selection among stimuli, goals, internal thoughts, working-memory load, and distraction.
+- [Cognitive Resilience](concepts/CognitiveResilience.md) — Aging and dementia frame for preserved cognition despite Alzheimer pathology or risk factors.
+- [Self-Concept Plasticity](concepts/SelfConceptPlasticity.md) — Selfhood frame where biology, memory, attention, roles, and repeated behavior can change identity experience.
 - [Predictive World-Model Anxiety / 预测世界模型焦虑](concepts/PredictiveWorldModelAnxiety.md) — Claim that the brain's simulation capacity enables planning while replaying possible harms as present anxiety.
 - [Mentalizing Projection / 心智化投射](concepts/MentalizingProjection.md) — Social-cognition mechanism where models of other minds borrow from one's own experience, fear, and desire.
 - [Language Compression Labeling / 语言压缩与标签化](concepts/LanguageCompressionLabeling.md) — E46 concept for language as both civilization infrastructure and a compressor that can freeze people into labels.
@@ -9887,7 +9895,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Orexin Agonists](concepts/OrexinAgonists.md) — Drug-category frame for medicines mimicking orexin, with narcolepsy as the grounded first use case and broader uses still uncertain.
 - [Narcolepsy Wake-Sleep Boundary](concepts/NarcolepsyWakeSleepBoundary.md) — Source framing of narcolepsy as a blurred boundary between sleeping and waking linked to orexin biology.
 - [Japanese Startup Exit Constraint](concepts/JapaneseStartupExitConstraint.md) — Japan startup-system problem combining limited late-stage venture capital, low founder status, and premature IPO pressure.
-- [Procrastination Self-Regulation Failure](concepts/ProcrastinationSelfRegulationFailure.md) — Research framing of procrastination as a self-control and executive-function problem with income and health links.
+- [Procrastination Self-Regulation Failure](concepts/ProcrastinationSelfRegulationFailure.md) — Research framing of procrastination as self-regulation failure shaped by health risk, distraction, attention, and reward-effort barriers.
 - [Mental Contrasting With Implementation Intentions](concepts/MentalContrastingImplementationIntentions.md) — Behavioral intervention that pairs a goal with its obstacle and a specific response tactic.
 - [Exercise Self-Mastery For Procrastination](concepts/ExerciseSelfMasteryForProcrastination.md) — Procrastination intervention frame where exercise may build mastery over discomfort and unpleasant tasks.
 - [Water System Cyber Resilience](concepts/WaterSystemCyberResilience.md) — Ability of water utilities to keep services safe and running after cyber incidents despite fragmented local ownership, weak standards, staffing gaps, and operational-technology exposure.

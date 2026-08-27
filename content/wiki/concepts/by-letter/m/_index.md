@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 5679
+wiki_total_pages: 5685
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -884,6 +884,9 @@ wiki_pages:
   - key: "MotivationCrowdingOut"
     title: "Motivation Crowding Out / 动机挤出"
     url: "/wiki/concepts/motivationcrowdingout/"
+  - key: "MotivationRewardEffortCalculation"
+    title: "Motivation Reward-Effort Calculation"
+    url: "/wiki/concepts/motivationrewardeffortcalculation/"
   - key: "MotiveBasedTalentEvaluation"
     title: "Motive-Based Talent Evaluation / 动机导向的才干评价"
     url: "/wiki/concepts/motivebasedtalentevaluation/"

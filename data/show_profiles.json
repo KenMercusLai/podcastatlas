@@ -451,17 +451,25 @@
       "earliest_episode_date": "2020-12-21",
       "latest_episode_date": "2026-08-27",
       "latest_episode_file": "SCIM2465421786 [SCIM2465421786].md",
-      "source_note_count": 1,
-      "topic_matched_source_note_count": 1,
+      "source_note_count": 2,
+      "topic_matched_source_note_count": 2,
       "topics": [
         {
           "key": "science",
           "label": "Science",
           "url": "/topics/science/",
-          "source_note_count": 1
+          "source_note_count": 2
         }
       ],
-      "entities": [],
+      "entities": [
+        {
+          "key": "AndrewHuberman",
+          "title": "Andrew Huberman",
+          "url": "/wiki/entities/andrewhuberman/",
+          "kind": "person",
+          "episode_count": 2
+        }
+      ],
       "start_here_episode_files": [
         "SCIM2465421786 [SCIM2465421786].md",
         "SCIM3386045656 [SCIM3386045656].md",

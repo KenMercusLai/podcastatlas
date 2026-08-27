@@ -7150,6 +7150,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "ApathyActionInitiation": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "ApexDigital": [
     {
       "key": "economics",
@@ -13831,6 +13838,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "CognitiveResilience": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "CognitiveSurrender": [
     {
       "key": "technology",
@@ -18007,6 +18021,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "DopamineInvertedU": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "DopamineWantingLoop": [
@@ -36399,6 +36420,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "MasudHusain": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "MaterialHistoryNarrative": [
     {
       "key": "history",
@@ -38646,6 +38674,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "MotivationRewardEffortCalculation": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "MotiveBasedTalentEvaluation": [
@@ -49927,6 +49962,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "SelfConceptPlasticity": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "SelfDefeatingResourceDrainStrategy": [
@@ -66799,6 +66841,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "how-to-improve-motivation-overcome-procrastination-dr-masud-husain-scim3386045656": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "how-to-make-a-book-into-a-bestseller": [
