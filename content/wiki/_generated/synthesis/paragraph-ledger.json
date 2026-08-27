@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "a96643fb16b7b04c1e9a3d123beeb3edf2da24fa3f58d37b314cf90bc3c21933",
       "f6d0ff32b347209c33dd974c50ea67a6ebeb6f0dc21bc1f5943b691b692ce946",
       "37dc5c44dc770be4386b069c0352d319d32d0298431a5c9624b92543b351d5cc",
       "5d9e75d5fe35dbac54e85c72f902914ef958ac06f1aded81742a56a7cc267ea8",
@@ -311,11 +312,38 @@
       "16d531495e2a6294ae198d0b95a352e519f488fcca1dbdae1f416758d1cfa576",
       "a9fec3ceb1b343b1fafeebc9ab2903b46238a861f9aaafd9d15b1460340a08b5"
     ],
-    "paragraph_count": 309
+    "paragraph_count": 310
   },
-  "overview_commit": "ac6c09f3bcbb3fcdc685a68c9c0b8137d68bbfde",
-  "overview_digest": "534bf8eb7049b1d737cc1ca99364984ee5b52b11d5c82b3187fcd0095f31401e",
+  "overview_commit": "29f4c64077aa71800cac03e385998a7f2ad351b8",
+  "overview_digest": "0fad1b712dbbfe08699982fce0190327f012db36f59c40717887e2a908f36f74",
   "paragraphs": [
+    {
+      "id": "a96643fb16b7b04c1e9a3d123beeb3edf2da24fa3f58d37b314cf90bc3c21933",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq|《资治通鉴·汉纪》862丨他因一句话休妻，最终身败名裂]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 164 CE reputation and local-governance layer before [[zizhi-tongjian-hanji-863-yi-ba-huo-shaochu-de-zhandouli-ljpfmj8pphunruioce64ywjk7yhb|Hanji 863]]. It adds [[HuangYunLateHan|黄允]], [[JinWenjingLateHan|晋文经]], [[FuRongLateHan|符融]], [[QiuXiangLateHan|仇香]], [[ChenYuanLateHan|陈元]], [[WangHuanLateHan|王奂]], and [[EmptyReputationRealityGap|空誉违实]], while extending [[GuoTaiLateHan|郭泰]], [[ParentalExpectationShame|父母期望羞耻化]], and [[HumaneLocalGovernance|仁厚地方治理]]. Its core synthesis is that reputation and education both need grounded evidence: Huang Yun and Jin Wenjing show how fame can outrun conduct and distort appointment judgment, while Qiu Xiang shows local moral teaching repairing a family complaint without punitive escalation. No settled contradiction is recorded; transcript forms such as 袁伟, 金文金, 芙蓉, 仇湘, and 王焕 are normalized to received late-Han names.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "ChenYuanLateHan",
+        "EmptyReputationRealityGap",
+        "FuRongLateHan",
+        "GuoTaiLateHan",
+        "HuangYunLateHan",
+        "HumaneLocalGovernance",
+        "JinWenjingLateHan",
+        "ParentalExpectationShame",
+        "QiuXiangLateHan",
+        "RuiqiJiangtouZizhiTongjian",
+        "WangHuanLateHan",
+        "zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq",
+        "zizhi-tongjian-hanji-863-yi-ba-huo-shaochu-de-zhandouli-ljpfmj8pphunruioce64ywjk7yhb"
+      ]
+    },
     {
       "id": "f6d0ff32b347209c33dd974c50ea67a6ebeb6f0dc21bc1f5943b691b692ce946",
       "primary_topic": "science-health-and-climate",

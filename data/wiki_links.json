@@ -9439,6 +9439,10 @@
     "title": "陈瑀 / Chen Yu (Wu commandery)",
     "url": "/wiki/entities/chenyuwucommandery/"
   },
+  "ChenYuanLateHan": {
+    "title": "陈元 / Chen Yuan (late Han)",
+    "url": "/wiki/entities/chenyuanlatehan/"
+  },
   "ChenZhePeter": {
     "title": "Chen Zhe Peter",
     "url": "/wiki/entities/chenzhepeter/"
@@ -15835,6 +15839,10 @@
     "title": "宋皇后 / Empress Song (late Han)",
     "url": "/wiki/entities/empresssonglatehan/"
   },
+  "EmptyReputationRealityGap": {
+    "title": "空誉违实 / Empty Reputation-Reality Gap",
+    "url": "/wiki/concepts/emptyreputationrealitygap/"
+  },
   "EncirclementReleaseCalculus": {
     "title": "Encirclement Release Calculus / 围困开口式风险权衡",
     "url": "/wiki/concepts/encirclementreleasecalculus/"
@@ -18842,6 +18850,10 @@
   "FuGan": {
     "title": "傅干 / Fu Gan",
     "url": "/wiki/entities/fugan/"
+  },
+  "FuRongLateHan": {
+    "title": "符融 / Fu Rong (late Han)",
+    "url": "/wiki/entities/furonglatehan/"
   },
   "FuShouEmpress": {
     "title": "伏皇后 / Empress Fu Shou",
@@ -22983,6 +22995,10 @@
     "title": "黄英 / Huang Ying",
     "url": "/wiki/entities/huangying/"
   },
+  "HuangYunLateHan": {
+    "title": "黄允 / Huang Yun (late Han)",
+    "url": "/wiki/entities/huangyunlatehan/"
+  },
   "HuangYunwu": {
     "title": "黄云武 / Huang Yunwu",
     "url": "/wiki/entities/huangyunwu/"
@@ -25730,6 +25746,10 @@
   "JinWenGong": {
     "title": "晋文公",
     "url": "/wiki/entities/jinwengong/"
+  },
+  "JinWenjingLateHan": {
+    "title": "晋文经 / Jin Wenjing (late Han)",
+    "url": "/wiki/entities/jinwenjinglatehan/"
   },
   "JinXiHanGeneral": {
     "title": "靳歙 / Jin Xi (Han general)",
@@ -39723,6 +39743,10 @@
     "title": "丘力居 / Qiu Liju (late Han)",
     "url": "/wiki/entities/qiulijulatehan/"
   },
+  "QiuXiangLateHan": {
+    "title": "仇香 / Qiu Xiang (late Han)",
+    "url": "/wiki/entities/qiuxianglatehan/"
+  },
   "QiushiBaike": {
     "title": "糗事百科 / Qiushi Baike",
     "url": "/wiki/entities/qiushibaike/"
@@ -50779,6 +50803,10 @@
     "title": "王洪杰 / Wang Hongjie",
     "url": "/wiki/entities/wanghongjie/"
   },
+  "WangHuanLateHan": {
+    "title": "王奂 / Wang Huan (late Han)",
+    "url": "/wiki/entities/wanghuanlatehan/"
+  },
   "WangHuang": {
     "title": "王黄 / Wang Huang",
     "url": "/wiki/entities/wanghuang/"
@@ -60058,6 +60086,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq": {
+    "title": "《资治通鉴·汉纪》862丨他因一句话休妻，最终身败名裂",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq/"
   },
   "zizhi-tongjian-hanji-863-yi-ba-huo-shaochu-de-zhandouli-ljpfmj8pphunruioce64ywjk7yhb": {
     "title": "《资治通鉴·汉纪》863丨一把火烧出的“战斗力”",

@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-28
-as_of_overview_commit: 56049fa52f8554d078c9b9c82f8f64b2214069bf
-summary: "Implementation remains central: capability and health claims need workflows, evidence, institutions, judgment, and bounded practice across domains."
-episode_count: 1588
-source_count: 1588
-paragraph_count: 309
+as_of_overview_commit: 29f4c64077aa71800cac03e385998a7f2ad351b8
+summary: "Implementation remains central: claims across AI, markets, governance, health, history, and work need workflows, institutions, evidence, judgment, and bounded practice."
+episode_count: 1593
+source_count: 1593
+paragraph_count: 310
 topic_count: 8
 ---
 
@@ -70,14 +70,14 @@ Psychology emphasizes state-aware self-command: emotion regulation, discipline, 
 
 ### Science, Health, and Climate
 
-Science and health claims now include sugar-control literacy alongside diagnosis, hormones, metabolic psychiatry, spine care, privacy AI, Wudang medicine, science policy, space infrastructure, reusable rockets, climate adaptation, insurance planning, and cancer vaccines; each branch remains bounded by evidence, physical constraints, clinical context, cost, and verification.
+Science and health claims include sugar-control literacy alongside diagnosis, hormones, metabolic psychiatry, spine care, privacy AI, Wudang medicine, science policy, space infrastructure, reusable rockets, climate adaptation, insurance planning, and cancer vaccines; each branch remains bounded by evidence, physical constraints, clinical context, cost, and verification.
 
 - [[PracticalSugarControl]] adds a nutrition-literacy branch: [[AddedFreeSugarDistinction]], [[LiquidSugarRisk]], [[LowGIMarketingTrap]], [[NutritionLabelSugarTraps]], [[SweetenerUncertainty]], [[GlycationSkinAnxiety]], and [[FoodPleasureEngineering]] make sugar control a question of food structure, beverage format, label interpretation, and clinical boundaries rather than blanket avoidance of sweetness or staple foods. Evidence: [[vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z]], [[PracticalSugarControl]], [[AddedFreeSugarDistinction]], [[LiquidSugarRisk]], [[LowGIMarketingTrap]], [[NutritionLabelSugarTraps]], [[SweetenerUncertainty]], [[GlycationSkinAnxiety]], [[FoodPleasureEngineering]], [[LifestyleWeightManagement]], [[MedicalRiskManagement]], [[LifestyleDiseasePrevention]], [[ZheBingShuoLaiHuaChang]], [[Atang]], [[YueWanrou]], [[DaShiHua]].
 - [[SustainableHealthOptimization]] adds a flexible-fundamentals branch: [[MorningLightCircadianAnchoring]], [[SleepAsDailyHealthAccount]], [[SelfTestingMemoryPractice]], [[OlfactoryTraining]], [[FertilityEnergyAvailability]], [[PerimenopauseBrainMetabolism]], [[MenopauseClinicalSharedDecision]], [[AcetylcholineFocusSupport]], and [[PerioperativeCircadianRecovery]] are useful only when fitted to real constraints and clinical context rather than protocol perfection. Evidence: [[SustainableHealthOptimization]], [[MorningLightCircadianAnchoring]], [[SleepAsDailyHealthAccount]], [[SelfTestingMemoryPractice]], [[OlfactoryTraining]], [[FertilityEnergyAvailability]], [[PerimenopauseBrainMetabolism]], [[MenopauseClinicalSharedDecision]], [[AcetylcholineFocusSupport]], [[PerioperativeCircadianRecovery]], [[your-top-health-questions-answered-scim2882548864]].
 
 ### Work, Education, and Society
 
-Work and education emphasize implementation through foundations, practice, trust, verification, boundaries, institutions, and constraint-aware judgment across AI-era learning, careers, creator work, hardware, finance, service work, and historical social-order cases.
+Work and education emphasize implementation through foundations, practice, trust, verification, boundaries, institutions, and constraint-aware judgment. Hanji 862 adds that reputation, selection, and teaching require evidence against actual conduct and repair, not public name alone.
 
 - AI and automation change work only when they reorganize production roles, workflows, and review responsibilities, from [[AIVideoProductionWorkflow]] and [[RollingAI]] to [[HeadlessSoftware]], [[Paperboy]], and [[HumanJudgmentUnderAI]]. Evidence: [[AIVideoProductionWorkflow]], [[JiaZhangke]], [[FilmRealityBeyondRealism]], [[LiveActionFilmUnderAI]], [[CreativeLaborAIBacklash]], [[AIPublicLikenessGeneration]], [[AITrainingCopyrightDispute]], [[AIEnergyBottleneck]], [[RollingAI]], [[HeadlessSoftware]], [[Paperboy]], [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].
 - Workplace AI readiness depends on ownership, baselines, training, and role-specific workflows: [[WorkplaceAIReadinessGap]], [[Microsoft365CopilotAdoption]], [[AIAdoptionBaselineMeasurement]], [[AIOperationsRole]], [[FrontlineAIEnablement]], and [[HumanJudgmentUnderAI]] show that license access or worker experimentation is not enough. Evidence: [[WorkplaceAIReadinessGap]], [[Microsoft365CopilotAdoption]], [[AIAdoptionBaselineMeasurement]], [[AIOperationsRole]], [[FrontlineAIEnablement]], [[HumanJudgmentUnderAI]], [[ShadowAI]], [[BusinessLedAITransformation]], [[JimSpignardo]], [[Proarc]], [[ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise]].

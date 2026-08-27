@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》862丨他因一句话休妻，最终身败名裂](sources/zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq.md) — 芮淇讲透资治通鉴 episode on Huang Yun's talent-reputation collapse, Jin Wenjing's fatal accommodation, Fu Rong's correction of status-filtered judgment, Qiu Xiang's non-punitive correction of Chen Yuan, and Wang Huan's rough but useful enforcement profile.
 - [《资治通鉴·汉纪》863丨一把火烧出的“战斗力”](sources/zizhi-tongjian-hanji-863-yi-ba-huo-shaochu-de-zhandouli-ljpfmj8pphunruioce64ywjk7yhb.md) — 芮淇讲透资治通鉴 episode on Du Shang burning captured spoils to remobilize troops against Bu Yang and Pan Hong, Huan's southern-tour retinue discipline, Yang Bing's appointment warning, and Kou Rong's jealousy prelude before Hanji 864.
 - [《资治通鉴·汉纪》864丨名臣之后为何惨死于帝王之手？](sources/zizhi-tongjian-hanji-864-mingchen-zhihou-weihe-cansi-yu-diwang-zhishou-lqwexx6nchx10roxsrvh8c0ktkfq.md) — 芮淇讲透资治通鉴 episode on Kou Rong's failed petition and execution, Shi Bi's law-first proposal for Liu Kui, and the Hou Can corruption notice before Hanji 865.
 - [《资治通鉴·汉纪》865丨职场BOSS也容易被这种人背刺](sources/zizhi-tongjian-hanji-865-zhichang-boss-ye-rongyi-bei-zhezhong-ren-beici-ljfhfevljqnx6zceakjfbw5gwfma.md) — 芮淇讲透资治通鉴 episode on Yang Bing's impeachment of Hou Can and Hou Lan, the Three Excellencies' jurisdiction over palace eunuchs, a temporary civil-official counterattack on eunuch privilege, and the Deng-Guo harem-rivalry deposition notice.
@@ -1600,6 +1601,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [黄允 / Huang Yun (late Han)](entities/HuangYunLateHan.md) — Talented but conduct-fragile Huan-era figure whose divorce of Xiahou Lingnü, attempted appointment, and suicide expose the risk of reputation outrunning reality.
+- [晋文经 / Jin Wenjing (late Han)](entities/JinWenjingLateHan.md) — Huang Yun's scandal-linked adviser, executed after accommodating divorce pressure instead of using friendship to remonstrate.
+- [符融 / Fu Rong (late Han)](entities/FuRongLateHan.md) — Late-Han evaluator who identifies Wang Huan's real administrative ability despite rough outer conduct.
+- [仇香 / Qiu Xiang (late Han)](entities/QiuXiangLateHan.md) — Local official whose non-punitive correction of Chen Yuan becomes a humane-governance exemplar recognized by Guo Tai.
+- [陈元 / Chen Yuan (late Han)](entities/ChenYuanLateHan.md) — Kaocheng youth whose mother's complaint becomes a case of teaching-based filial repair under Qiu Xiang.
+- [王奂 / Wang Huan (late Han)](entities/WangHuanLateHan.md) — Luoyang market official whose strict enforcement, hidden ability, and later promotion are recognized by Fu Rong.
 - [卜阳 / Bu Yang (late Han)](entities/BuYangLateHan.md) — Guiyang bandit leader whose mountain refuge and accumulated wealth become Du Shang's 164 CE campaign target.
 - [潘鸿 / Pan Hong (late Han)](entities/PanHongLateHan.md) — Guiyang bandit leader paired with Bu Yang in Du Shang's burned-spoils remobilization case.
 - [寇荣 / Kou Rong (late Han)](entities/KouRongLateHan.md) — Huan-era meritorious-family official whose imperial marriage ties, eunuch resentment, blocked petition, and offensive historical analogies end in execution.
@@ -2255,7 +2262,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [王宏 / Wang Hong (late Han)](entities/WangHongLateHan.md) — Official who sees Li-Guo's summons as a trap and proposes using outside troops before being pulled down by Song Yi's compliance.
 - [赵戬 / Zhao Jian (late Han)](entities/ZhaoJianLateHan.md) — Former Wang Yun subordinate who risks collecting and burying Wang Yun's body after the Chang'an executions.
 - [杨赐 / Yang Ci (late Han)](entities/YangCiLateHan.md) — Senior late-Han official whose profile now includes 169 CE oblique snake-omen remonstrance, later omen/garden/Yellow-Turban warnings, and Wang Yun's rescue.
-- [郭泰 / Guo Tai (late Han)](entities/GuoTaiLateHan.md) — Late-Han scholar whose profile spans Taixue public-opinion leadership, guarded party-prohibition survival, withdrawal into teaching, and reputation witness for Wang Yun.
+- [郭泰 / Guo Tai (late Han)](entities/GuoTaiLateHan.md) — Late-Han scholar whose profile spans Huang Yun warning, Qiu Xiang recognition, Taixue public-opinion leadership, guarded party-prohibition survival, and reputation witness for Wang Yun.
 - [王允 / Wang Yun (late Han)](entities/WangYunLateHan.md) — Late-Han official who takes public credit after Dong Zhuo's killing, clarifying Shi Sunrui's hidden-merit survival case.
 - [皇甫嵩 / Huangfu Song (late Han)](entities/HuangfuSongLateHan.md) — Late-Han official whose Dong Zhuo fear-question cliffhanger, proposed troop-reassurance role, and later dismissal mark survival speech and captured-court appointment/removal power.
 - [牛辅 / Niu Fu (late Han)](entities/NiuFuLateHan.md) — Dong Zhuo son-in-law whose victory over Li Su is followed by camp panic, flight, and death.
@@ -9607,14 +9614,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
-- [父母期望羞耻化 / Parental Expectation Shame](concepts/ParentalExpectationShame.md) — Parenting pattern where excessive expectation makes children hide their real state through shame rather than feel safely seen.
+- [空誉违实 / Empty Reputation-Reality Gap](concepts/EmptyReputationRealityGap.md) — Reputation failure pattern where public fame outruns actual conduct or ability, making recommendation, marriage, and office selection risky.
+- [父母期望羞耻化 / Parental Expectation Shame](concepts/ParentalExpectationShame.md) — Parenting pattern where excessive expectation converts present traits into imagined future failure and makes children hide their real state through shame.
 - [战利品损失动员 / Spoils-Loss Mobilization](concepts/SpoilsLossMobilization.md) — Coercive military motivation tactic where lost captured goods are redirected into renewed desire to fight for enemy wealth.
 - [巡幸随从纪律 / Imperial Retinue Discipline](concepts/ImperialRetinueDiscipline.md) — Administrative problem of containing local burden, favor-seeking, and appointment disorder around an emperor's traveling entourage.
 - [Imperial Petition Offense Risk / 申冤上书冒犯风险](concepts/ImperialPetitionOffenseRisk.md) — Petition failure pattern where a self-defense memorial becomes punishable because its proof sounds like accusation against the ruler.
 - [Legal Judgment Before Imperial Grace / 先法度后恩宥](concepts/LegalJudgmentBeforeImperialGrace.md) — Procedural pattern where officials establish law first, then leave room for sovereign clemency after judgment.
 - [三不沾式清廉自守 / Three-Refusals Integrity](concepts/ThreeRefusalsIntegrity.md) — Public-office integrity discipline built around refusing wine, sexual entanglement, and money as capture channels.
 - [任官责任退出受限 / Office Duty Exit Constraint](concepts/OfficeDutyExitConstraint.md) — Governance pattern where capable officials cannot easily leave or avoid office because crisis demand treats their ability as a public asset.
-- [仁厚地方治理 / Humane Local Governance](concepts/HumaneLocalGovernance.md) — Local-administration pattern where calm conduct, light punishment, moral instruction, and redirected coercive capacity build order without maximizing fear.
+- [仁厚地方治理 / Humane Local Governance](concepts/HumaneLocalGovernance.md) — Local-administration pattern where diagnosis, calm conduct, light punishment, and moral instruction build order without making coercion the first instrument.
 - [按亩征税 / Per-Mu Land Taxation](concepts/PerMuLandTaxation.md) — Huan-era fiscal-policy marker for the first source-described order to tax landholders by the mu.
 - [政策制度记载压缩 / Chronicle Policy Compression](concepts/ChroniclePolicyCompression.md) — Historiographical pattern where a chronicle records a major institutional decision tersely while leaving mechanism and consequence underdescribed.
 - [Non-Dual Mindfulness](concepts/NonDualMindfulness.md) — Meditation frame where thoughts, emotions, sensations, and selfing appear in awareness without a separate observer behind experience.

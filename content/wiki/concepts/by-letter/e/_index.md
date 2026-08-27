@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 5774
+wiki_total_pages: 5775
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -770,6 +770,9 @@ wiki_pages:
   - key: "EarlyEunuchTerminologyMisreading"
     title: "早期宦官词义误读 / Early Eunuch Terminology Misreading"
     url: "/wiki/concepts/earlyeunuchterminologymisreading/"
+  - key: "EmptyReputationRealityGap"
+    title: "空誉违实 / Empty Reputation-Reality Gap"
+    url: "/wiki/concepts/emptyreputationrealitygap/"
   - key: "EconomicCulturalCenterSouthwardShift"
     title: "经济文化中心南移 / Economic-Cultural Center Southward Shift"
     url: "/wiki/concepts/economicculturalcentersouthwardshift/"

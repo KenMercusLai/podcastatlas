@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1956
+topic_total_pages: 1957
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3193,6 +3193,9 @@ topic_concepts:
   - key: "PhysiognomicInvestmentJudgment"
     title: "看相式政治投资 / Physiognomic Investment Judgment"
     url: "/wiki/concepts/physiognomicinvestmentjudgment/"
+  - key: "EmptyReputationRealityGap"
+    title: "空誉违实 / Empty Reputation-Reality Gap"
+    url: "/wiki/concepts/emptyreputationrealitygap/"
   - key: "SuoYinReading"
     title: "索隐式阅读 / Suo Yin Reading"
     url: "/wiki/concepts/suoyinreading/"

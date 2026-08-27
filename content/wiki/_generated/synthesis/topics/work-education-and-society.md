@@ -4,15 +4,15 @@ generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
 last_updated: 2026-08-28
-as_of_overview_commit: 63f226e71a1fa33451072b63a1c0ea495544767f
-input_digest: 05c93567e8ad1dff6dba3029a6b8ece0c7087faa3b9f1e63dd9045d01b07aa13
+as_of_overview_commit: 29f4c64077aa71800cac03e385998a7f2ad351b8
+input_digest: 6c4d3cb331f9dfd50d2675a8e716b295cc832c552f8704d99f19d591e1d9b0d5
 ---
 
 # Work, Education, and Society
 
 ## Current State
 
-The Huberman Lab Q&A adds a bounded formation branch: passion, originality, and memory practice are treated as engagement, apprenticeship, self-testing, and correction rather than passive introspection. Work, education, and society material emphasizes implementation over capability claims: AI, software, creative production, physical products, research, creator work, finance, public building, and institutional roles all depend on workflow ownership, distribution, verification, trust, supply chains, labor constraints, and human judgment. The AI-era education branch now combines major-choice uncertainty, teenage AI research access, AI tutoring, historical fieldwork, oral history, source judgment, and shortcut risk; durable formation comes from foundations, real-world contact, upstream questions, review, and human grounding. Workplace material covers internships, upward management, transfers, task pacing with AI, finance and banking boundaries, cabin service, communication precision, creator monetization, lifestyle cost discipline, and cohort scarring in Japan. Hardware and spatial work branches cover smart vehicles, smart glasses, embodied AI companions, AI entertainment platforms, and AI cinema, each bounded by privacy, social fit, labor rights, production systems, and user responsibility. Historical late-Han branches use status, reward refusal, reputation lists, official selection, frontier command, crisis opportunity, coercive feedback, grain, labor, family safety, patronage, and fortress collapse as source-scoped social-order cases rather than direct workplace rules. The Wudang, Antarctica, social housing, parking, consortio, climate hard-tech, carbon-removal, and dinosaur-care paragraphs extend the topic into constraint accounting: retreat, living conditions, environmental value, care work, and market adoption become real through institutions, chores, material costs, responsibility, and everyday constraints rather than ideals alone. Women health appears here as communication and shared-decision context, keeping contraception, PCOS, perimenopause, and midlife screening tied to consent language, evidence triage, symptom legitimacy, and clinician-patient interpretation.
+Hanji 862 adds a late-Han reputation, selection, and teaching branch: talent, public name, friendship, official judgment, and local education become useful only when checked against conduct, evidence, and repair. The Huberman Lab Q&A adds a bounded formation branch: passion, originality, and memory practice are treated as engagement, apprenticeship, self-testing, and correction rather than passive introspection. Work, education, and society material emphasizes implementation over capability claims: AI, software, creative production, physical products, research, creator work, finance, public building, and institutional roles all depend on workflow ownership, distribution, verification, trust, supply chains, labor constraints, and human judgment. The AI-era education branch now combines major-choice uncertainty, teenage AI research access, AI tutoring, historical fieldwork, oral history, source judgment, and shortcut risk; durable formation comes from foundations, real-world contact, upstream questions, review, and human grounding. Workplace material covers internships, upward management, transfers, task pacing with AI, finance and banking boundaries, cabin service, communication precision, creator monetization, lifestyle cost discipline, and cohort scarring in Japan. Hardware and spatial work branches cover smart vehicles, smart glasses, embodied AI companions, AI entertainment platforms, and AI cinema, each bounded by privacy, social fit, labor rights, production systems, and user responsibility. Historical late-Han branches use status, reward refusal, reputation lists, official selection, frontier command, crisis opportunity, coercive feedback, grain, labor, family safety, patronage, and fortress collapse as source-scoped social-order cases rather than direct workplace rules. The Wudang, Antarctica, social housing, parking, consortio, climate hard-tech, carbon-removal, and dinosaur-care paragraphs extend the topic into constraint accounting: retreat, living conditions, environmental value, care work, and market adoption become real through institutions, chores, material costs, responsibility, and everyday constraints rather than ideals alone. Women health appears here as communication and shared-decision context, keeping contraception, PCOS, perimenopause, and midlife screening tied to consent language, evidence triage, symptom legitimacy, and clinician-patient interpretation.
 
 ## Cross-source Findings
 
@@ -155,14 +155,14 @@ Career progress and workplace pacing are framed as context practice rather than 
 
 ### Elite Evaluation Can Certify Or Block Advancement
 
-Elite evaluation systems can become social infrastructure for advancement: [[EliteEndorsementReputationMaking]] shows [[CaoCao]] using [[HeYongLateHan]], [[QiaoXuanLateHan]], and [[XuShao]] to convert an ambiguous background through [[CaoTengLateHan]] and [[CaoSong]] into public reputation, while [[StatusFilteredTalentMisrecognition]] shows the same kind of judgment pressure can also block talent.
+Elite evaluation systems can become social infrastructure for advancement, but Hanji 862 narrows the test from fame to evidenced conduct: [[GuoTaiLateHan]] warns [[HuangYunLateHan]] through [[EmptyReputationRealityGap]], [[JinWenjingLateHan]] shows friendship failing when it accommodates rather than corrects, and [[FuRongLateHan]] recognizes [[WangHuanLateHan]] despite rough presentation; later [[EliteEndorsementReputationMaking]] shows [[CaoCao]] converting an ambiguous background through senior appraisal, while [[StatusFilteredTalentMisrecognition]] shows judgment pressure can still block talent.
 
-**Evidence:** [[zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc]], [[EliteEndorsementReputationMaking]], [[CaoCao]], [[HeYongLateHan]], [[QiaoXuanLateHan]], [[XuShao]], [[CaoTengLateHan]], [[CaoSong]], [[JianShuoLateHan]], [[LuoyangLateHan]], [[MoralReputationPoliticalCapital]], [[StatusFilteredTalentMisrecognition]]
+**Evidence:** [[zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq]], [[GuoTaiLateHan]], [[HuangYunLateHan]], [[EmptyReputationRealityGap]], [[JinWenjingLateHan]], [[FuRongLateHan]], [[WangHuanLateHan]], [[zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc]], [[EliteEndorsementReputationMaking]], [[CaoCao]], [[HeYongLateHan]], [[QiaoXuanLateHan]], [[XuShao]], [[CaoTengLateHan]], [[CaoSong]], [[JianShuoLateHan]], [[LuoyangLateHan]], [[MoralReputationPoliticalCapital]], [[StatusFilteredTalentMisrecognition]]
 
 **Qualifications:**
 
-- Hanji 926 is a late-Han political reputation case, so Cao Cao's psychology, family education, and the Cao Shen genealogy issue remain source-scoped rather than general social rules.
-- The same evaluator infrastructure can certify or constrain: Xu Shao's judgment helps Cao Cao become legible, while later fear of Xu Shao's opinion contributes to Liu Yao's underuse of Taishi Ci.
+- Hanji 862 and Hanji 926 are late-Han political reputation cases, so their friendship, family-education, and genealogy details remain source-scoped rather than general social rules.
+- The same evaluator infrastructure can certify, qualify, or constrain: Guo Tai warns Huang Yun, Fu Rong corrects dismissal of Wang Huan, Xu Shao helps Cao Cao become legible, and later fear of Xu Shao's opinion contributes to Liu Yao's underuse of Taishi Ci.
 
 ### Creator And Lifestyle Work Requires Niche Economics
 
@@ -198,13 +198,14 @@ Hanji 909-910 add a late-Han work-and-society prelude: [[CaiYong]]'s warning, [[
 
 ### Education And Care Require Struggle And Responsibility
 
-Learning and care-centered work are valuable when they preserve responsibility and reasoning, from [[SelfDirectedLearning]] and [[LearningExperienceDesign]] to [[CaptiveAnimalCareLabor]] and [[DinosaurAsLivingAnimal]].
+Learning and care-centered work are valuable when they preserve responsibility, reasoning, and repair: [[QiuXiangLateHan]] and [[HumaneLocalGovernance]] show teaching-based correction of [[ChenYuanLateHan]], [[ParentalExpectationShame]] warns against expectation becoming shame, and [[SelfDirectedLearning]], [[LearningExperienceDesign]], [[CaptiveAnimalCareLabor]], and [[DinosaurAsLivingAnimal]] keep care grounded in effort, evidence, and concrete needs.
 
-**Evidence:** [[SelfDirectedLearning]], [[LearningExperienceDesign]], [[AIShortcutRisk]], [[AIAsTutor]], [[AIUsePacing]], [[AILiteracyAgainstWorship]], [[DinoSanctuary]], [[CaptiveAnimalCareLabor]], [[DinosaurAsLivingAnimal]], [[EvidenceBoundPaleontologicalReconstruction]], [[BirdDinosaurContinuity]]
+**Evidence:** [[zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq]], [[QiuXiangLateHan]], [[ChenYuanLateHan]], [[HumaneLocalGovernance]], [[ParentalExpectationShame]], [[SelfDirectedLearning]], [[LearningExperienceDesign]], [[AIShortcutRisk]], [[AIAsTutor]], [[AIUsePacing]], [[AILiteracyAgainstWorship]], [[DinoSanctuary]], [[CaptiveAnimalCareLabor]], [[DinosaurAsLivingAnimal]], [[EvidenceBoundPaleontologicalReconstruction]], [[BirdDinosaurContinuity]]
 
 **Qualifications:**
 
-- AI help and fictional wonder can lower access barriers, but shortcuts or spectacle can bypass the reasoning, evidence, dirty work, and care obligations the sources value.
+- AI help, parental expectation, official instruction, and fictional wonder can lower access barriers or guide conduct, but shortcuts, shame pressure, punishment-first response, or spectacle can bypass the reasoning, evidence, dirty work, and care obligations the sources value.
+- The Hanji 862 family and local-governance examples are source-scoped historical and parenting commentary, not clinical advice or a universal educational method.
 
 ### Ai Entertainment Needs Systems Not Assets
 

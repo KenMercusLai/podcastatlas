@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 8003
+wiki_total_pages: 8009
 wiki_pages:
   - key: "FortyThreeTalks"
     title: "43talks"
@@ -713,6 +713,9 @@ wiki_pages:
   - key: "FuzaiAIToy"
     title: "福仔 / Fuzai AI Toy"
     url: "/wiki/entities/fuzaiaitoy/"
+  - key: "FuRongLateHan"
+    title: "符融 / Fu Rong (late Han)"
+    url: "/wiki/entities/furonglatehan/"
   - key: "FanQinLateHan"
     title: "繁钦 / Fan Qin (late Han)"
     url: "/wiki/entities/fanqinlatehan/"

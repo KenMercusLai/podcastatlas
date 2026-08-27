@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 8003
+wiki_total_pages: 8009
 wiki_pages:
   - key: "RachelReeves"
     title: "Rachel Reeves"
