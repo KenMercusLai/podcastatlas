@@ -1,0 +1,14 @@
+{{- $type := lower (partial "search-type.html" .) -}}
+{{- $group := "" -}}
+{{- if in (slice "concept" "topic") $type -}}
+  {{- $group = "Concepts & Topics" -}}
+{{- else if eq $type "entity" -}}
+  {{- $group = "People & Organizations" -}}
+{{- else if eq $type "episode" -}}
+  {{- $group = "Episodes" -}}
+{{- else if eq $type "show" -}}
+  {{- $group = "Shows" -}}
+{{- else if eq $type "source note" -}}
+  {{- $group = "Source Notes" -}}
+{{- end -}}
+{{- return $group -}}

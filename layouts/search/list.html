@@ -1,17 +1,76 @@
 {{ define "head_extra" }}
   <link rel="stylesheet" href="{{ "pagefind/pagefind-component-ui.css" | relURL }}">
   <style>
+    .search-type-filters {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin: 18px 0 10px;
+    }
+
+    .search-type-filter {
+      appearance: none;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      padding: 7px 13px;
+      background: var(--panel);
+      color: var(--fg);
+      font: inherit;
+      font-size: 0.9rem;
+      line-height: 1.25;
+      cursor: pointer;
+    }
+
+    .search-type-filter:hover,
+    .search-type-filter:focus-visible {
+      border-color: var(--link);
+      color: var(--link);
+    }
+
+    .search-type-filter[aria-pressed="true"] {
+      border-color: var(--link);
+      background: var(--link);
+      color: var(--panel);
+      font-weight: 650;
+    }
+
     .search-results-layout {
-      display: grid;
-      grid-template-columns: minmax(180px, 0.3fr) minmax(0, 1fr);
-      gap: 24px;
-      align-items: start;
-      margin-top: 24px;
+      margin-top: 18px;
+    }
+
+    .search-result-kicker {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: baseline;
+      gap: 6px 10px;
+      margin: 0 0 5px;
+      color: var(--muted);
+      font-size: 0.84rem;
+      line-height: 1.4;
+    }
+
+    .search-result-type {
+      color: var(--fg);
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.045em;
+    }
+
+    .search-result-context::before {
+      content: "·";
+      margin-right: 10px;
     }
 
     @media (max-width: 640px) {
-      .search-results-layout {
-        grid-template-columns: 1fr;
+      .search-type-filters {
+        flex-wrap: nowrap;
+        overflow-x: auto;
+        padding-bottom: 6px;
+        scrollbar-width: thin;
+      }
+
+      .search-type-filter {
+        flex: 0 0 auto;
       }
     }
   </style>
@@ -21,23 +80,70 @@
   <h1>{{ .Title }}</h1>
   <p class="lede">Search every published page in Podcast Atlas.</p>
   <div data-pagefind-ignore="all">
-    <pagefind-config
-      bundle-path="{{ "pagefind/" | relURL }}"
-    ></pagefind-config>
+    <pagefind-config bundle-path="{{ "pagefind/" | relURL }}"></pagefind-config>
     <pagefind-input></pagefind-input>
+    <nav class="search-type-filters" aria-label="Filter search results by type">
+      <button class="search-type-filter" type="button" data-search-group="" aria-pressed="true">All</button>
+      <button class="search-type-filter" type="button" data-search-group="Concepts &amp; Topics" aria-pressed="false">Concepts &amp; Topics</button>
+      <button class="search-type-filter" type="button" data-search-group="People &amp; Organizations" aria-pressed="false">People &amp; Organizations</button>
+      <button class="search-type-filter" type="button" data-search-group="Episodes" aria-pressed="false">Episodes</button>
+      <button class="search-type-filter" type="button" data-search-group="Shows" aria-pressed="false">Shows</button>
+      <button class="search-type-filter" type="button" data-search-group="Source Notes" aria-pressed="false">Source Notes</button>
+    </nav>
     <pagefind-summary></pagefind-summary>
     <div class="search-results-layout">
-      <pagefind-filter-pane></pagefind-filter-pane>
-      <pagefind-results></pagefind-results>
+      <pagefind-results hide-sub-results>
+        <script type="text/pagefind-template">
+          <li class="pf-result">
+            <div class="pf-result-card">
+              <div class="pf-result-content">
+                <p class="search-result-kicker">
+                  <span class="search-result-type">{{ printf "{{ meta.type }}" }}</span>
+                  {{ printf "{{#if meta.context}}" }}<span class="search-result-context">{{ printf "{{ meta.context }}" }}</span>{{ printf "{{/if}}" }}
+                </p>
+                <p class="pf-result-title">
+                  <a class="pf-result-link" href="{{ printf "{{ meta.url | default(url) | safeUrl }}" }}">{{ printf "{{ meta.title }}" }}</a>
+                </p>
+                {{ printf "{{#if excerpt}}" }}<p class="pf-result-excerpt">{{ printf "{{+ excerpt +}}" }}</p>{{ printf "{{/if}}" }}
+              </div>
+            </div>
+          </li>
+        </script>
+      </pagefind-results>
     </div>
   </div>
   <script type="module" src="{{ "pagefind/pagefind-component-ui.js" | relURL }}"></script>
   <script type="module">
+    await customElements.whenDefined("pagefind-input");
+    const manager = window.PagefindComponents.getInstanceManager();
+    const instance = manager.getInstance("default");
+    const buttons = [...document.querySelectorAll("[data-search-group]")];
+
+    const selectGroup = (group) => {
+      for (const button of buttons) {
+        button.setAttribute(
+          "aria-pressed",
+          String(button.dataset.searchGroup === group),
+        );
+      }
+    };
+
+    for (const button of buttons) {
+      button.addEventListener("click", () => {
+        const group = button.dataset.searchGroup || "";
+        selectGroup(group);
+        instance.triggerFilter("group", group ? [group] : []);
+      });
+    }
+
+    instance.on("search", (_term, filters) => {
+      selectGroup(filters?.group?.[0] || "");
+    });
+
     const query = (new URLSearchParams(window.location.search).get("q") || "")
       .trim()
       .slice(0, 200);
     if (query) {
-      await customElements.whenDefined("pagefind-input");
       await new Promise(requestAnimationFrame);
       const component = document.querySelector("pagefind-input");
       const input = component?.inputEl || component?.querySelector("input");

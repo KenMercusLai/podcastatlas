@@ -8,8 +8,16 @@
   {{ if $isLegacyTag }}<meta name="robots" content="noindex, follow">{{ end }}
   {{ partial "seo.html" . }}
   {{ $searchType := partial "search-type.html" . }}
-  <meta data-pagefind-filter="type[content]" content="{{ $searchType }}">
+  {{ $searchGroup := partial "search-group.html" . }}
+  {{ $searchContext := partial "search-context.html" . }}
+  {{ $searchAliases := partial "search-aliases.html" . }}
   <meta data-pagefind-meta="type[content]" content="{{ $searchType }}">
+  {{ with $searchGroup }}
+    <meta data-pagefind-filter="group[content]" content="{{ . }}">
+    <meta data-pagefind-meta="group[content]" content="{{ . }}">
+  {{ end }}
+  {{ with $searchContext }}<meta data-pagefind-meta="context[content]" content="{{ . }}">{{ end }}
+  {{ with $searchAliases }}<meta data-pagefind-meta="aliases[content]" data-pagefind-index-attrs="content" data-pagefind-weight="5.0" content="{{ . }}">{{ end }}
   {{ block "head_extra" . }}{{ end }}
   <style>
     :root {
