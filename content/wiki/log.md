@@ -12804,3 +12804,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》858丨为什么劝你一定要换位思考？
 
 Added source page for a 163 CE Huan-era backfill on perspective-taking, disaster and rebellion pressure, Feng Gun's eunuch-driven dismissal, Chen Fan's ignored hunting remonstrance, and Zhou Jing/Yang Bing's accepted cleanup of eunuch-linked and unqualified officeholders. Updated Emperor Huan, Chen Fan, Feng Gun, Zhou Jing, Yang Bing, Hierarchy-Aware Advice Framing, Three Excellencies Inner-Court Jurisdiction, overview, and index. No settled contradiction found; transcript 冯滚 is normalized to Feng Gun/冯绲, while 许栩, 陈举, 周荣, Yang Liang, and site names remain source-scoped.
+
+## [2026-08-28] ingest | 《资治通鉴·汉纪》857丨学会共赢，才是真正的赢家
+
+Added source page for a Huan-era backfill on win-win relationship framing, Huangfu Gui's frontier-pacification self-defense, Xu Huang and Zuo Guan's gift solicitation around expected military reward, Huangfu's refusal and imprisonment, Taixue/Three Excellencies petitions, and renewed Guiyang/Wuling disorder. Created Zuo Guan; updated Huangfu Gui, Xu Huang, Military Reward Eunuch Gatekeeping, overview, and index. No settled contradiction found; 黄府规 is normalized to Huangfu Gui/皇甫规, and Zhang Feng, Li Yan, Wuling Man unrest, account figures, and workplace "共赢" advice remain source-scoped.
+
+## [2026-08-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

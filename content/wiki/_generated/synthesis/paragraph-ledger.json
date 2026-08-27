@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "53d11a93791ef528a4afa44ef140df1047d140b8dc43207806b7c96e03028a60",
       "f64154c320cd179a85da343cbd9d0ef79928cafcec1ccd3c5ce3d5a1681e38ce",
       "a96643fb16b7b04c1e9a3d123beeb3edf2da24fa3f58d37b314cf90bc3c21933",
       "f6d0ff32b347209c33dd974c50ea67a6ebeb6f0dc21bc1f5943b691b692ce946",
@@ -313,11 +314,39 @@
       "16d531495e2a6294ae198d0b95a352e519f488fcca1dbdae1f416758d1cfa576",
       "a9fec3ceb1b343b1fafeebc9ab2903b46238a861f9aaafd9d15b1460340a08b5"
     ],
-    "paragraph_count": 311
+    "paragraph_count": 312
   },
-  "overview_commit": "d773aa74c01e653c5f47d9f7b8ee2fbe6334eb04",
-  "overview_digest": "087d34029663ef516923cc5bce188eb670db015d920f129fb8df4ce4098d1bd3",
+  "overview_commit": "09388838dac9faf07e9afbc7b255d125f4c1798c",
+  "overview_digest": "1cd14b5452751de08b4881cdb78183f6898db11aef5fcf588b01d81c0bc4fab7",
   "paragraphs": [
+    {
+      "id": "53d11a93791ef528a4afa44ef140df1047d140b8dc43207806b7c96e03028a60",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-857-xuehui-gongying-cai-shi-zhenzheng-de-yingjia-lh3zx6pw-4ib7owiz8c68bv-9htn|《资治通鉴·汉纪》857丨学会共赢，才是真正的赢家]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the Huan-era [[HuangfuGuiLateHan|皇甫规]] accusation and reward-gatekeeping layer before [[zizhi-tongjian-hanji-858-weishenme-quan-ni-yiding-yao-huanwei-sikao-lobr-xznqo-ctjpc-ytpstubmahl|Hanji 858]] and [[zizhi-tongjian-hanji-859-gudai-haoren-weishenme-nan-dang-haoguan-llkyx18ssvserxncvrtkw7xfduad|Hanji 859]]. It adds [[ZuoGuanLateHan|左悺]], while extending [[HuangfuGuiLateHan|皇甫规]], [[XuHuangLateHan|徐璜]], [[EmperorHuanOfHan|汉桓帝]], [[FengGunLateHan|冯绲]], [[GuiyangCommanderyLateHan|桂阳郡]], [[MilitaryRewardEunuchGatekeeping|宦官门槛下的军功赏罚]], [[MeritBasedRewardPunishment|因功赏罚]], [[PalaceAccessMonopoly|宫廷接触垄断]], [[CourtFeedbackCollapse|君臣反馈失灵]], and [[GoodIntentionsPoliticalLimits]]. Its core synthesis is that late-Han merit and ordinary relationships both require reading the actual interest structure: Huangfu can defend the fiscal logic of frontier pacification, but Xu Huang and Zuo Guan can still make expected reward contingent on gift/apology channels and turn refusal into renewed slander. No settled contradiction is recorded; account figures, Zhang Feng, Li Yan, Wuling Man unrest, and the workplace \"共赢\" advice remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 2,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "CourtFeedbackCollapse",
+        "EmperorHuanOfHan",
+        "FengGunLateHan",
+        "GoodIntentionsPoliticalLimits",
+        "GuiyangCommanderyLateHan",
+        "HuangfuGuiLateHan",
+        "MeritBasedRewardPunishment",
+        "MilitaryRewardEunuchGatekeeping",
+        "PalaceAccessMonopoly",
+        "RuiqiJiangtouZizhiTongjian",
+        "XuHuangLateHan",
+        "ZuoGuanLateHan",
+        "zizhi-tongjian-hanji-857-xuehui-gongying-cai-shi-zhenzheng-de-yingjia-lh3zx6pw-4ib7owiz8c68bv-9htn",
+        "zizhi-tongjian-hanji-858-weishenme-quan-ni-yiding-yao-huanwei-sikao-lobr-xznqo-ctjpc-ytpstubmahl",
+        "zizhi-tongjian-hanji-859-gudai-haoren-weishenme-nan-dang-haoguan-llkyx18ssvserxncvrtkw7xfduad"
+      ]
+    },
     {
       "id": "f64154c320cd179a85da343cbd9d0ef79928cafcec1ccd3c5ce3d5a1681e38ce",
       "primary_topic": "ai-and-technology",

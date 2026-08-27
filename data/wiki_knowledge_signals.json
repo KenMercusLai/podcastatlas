@@ -7885,9 +7885,9 @@
       "url": "/wiki/entities/huangzu/"
     },
     "HuangfuGuiLateHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》875丨离大谱！为何他以入狱为荣？ [lgfFkjk_0Yu_EhFsW59AnoyCH_lD].md",
@@ -7909,6 +7909,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》859丨古代好人为什么难当好官？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-859-gudai-haoren-weishenme-nan-dang-haoguan-llkyx18ssvserxncvrtkw7xfduad/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》857丨学会共赢，才是真正的赢家 [lh3zx6Pw_4iB7oWIZ8C68Bv_9hTN].md",
+          "key": "zizhi-tongjian-hanji-857-xuehui-gongying-cai-shi-zhenzheng-de-yingjia-lh3zx6pw-4ib7owiz8c68bv-9htn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》857丨学会共赢，才是真正的赢家",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-857-xuehui-gongying-cai-shi-zhenzheng-de-yingjia-lh3zx6pw-4ib7owiz8c68bv-9htn/"
         }
       ],
       "updated": "2026-08-28",
@@ -12181,9 +12188,9 @@
       "url": "/wiki/concepts/militaryaioversightcompression/"
     },
     "MilitaryRewardEunuchGatekeeping": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》878丨不受约束的权力，害人不浅 [lvEvnahCxShGBz5zYqBAF36PA7Nk].md",
@@ -12191,9 +12198,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》878丨不受约束的权力，害人不浅",
           "url": "/wiki/sources/zizhi-tongjian-hanji-878-bu-shou-yueshu-de-quanli-hairen-buqian-lvevnahcxshgbz5zyqbaf36pa7nk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》857丨学会共赢，才是真正的赢家 [lh3zx6Pw_4iB7oWIZ8C68Bv_9hTN].md",
+          "key": "zizhi-tongjian-hanji-857-xuehui-gongying-cai-shi-zhenzheng-de-yingjia-lh3zx6pw-4ib7owiz8c68bv-9htn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》857丨学会共赢，才是真正的赢家",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-857-xuehui-gongying-cai-shi-zhenzheng-de-yingjia-lh3zx6pw-4ib7owiz8c68bv-9htn/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-28",
       "url": "/wiki/concepts/militaryrewardeunuchgatekeeping/"
     },
     "MissedDiagnosisRisk": {
@@ -18536,9 +18550,9 @@
       "url": "/wiki/entities/xugonglatehan/"
     },
     "XuHuangLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》872丨他娶妾不成，竟杀人全家 [ltBEGc7GBET2_HLhwhtevVltGNlC].md",
@@ -18546,9 +18560,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》872丨他娶妾不成，竟杀人全家",
           "url": "/wiki/sources/zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》857丨学会共赢，才是真正的赢家 [lh3zx6Pw_4iB7oWIZ8C68Bv_9hTN].md",
+          "key": "zizhi-tongjian-hanji-857-xuehui-gongying-cai-shi-zhenzheng-de-yingjia-lh3zx6pw-4ib7owiz8c68bv-9htn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》857丨学会共赢，才是真正的赢家",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-857-xuehui-gongying-cai-shi-zhenzheng-de-yingjia-lh3zx6pw-4ib7owiz8c68bv-9htn/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-28",
       "url": "/wiki/entities/xuhuanglatehan/"
     },
     "XuQiuGuanglingLateHan": {
@@ -20351,6 +20372,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/zongzilatehan/"
+    },
+    "ZuoGuanLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》857丨学会共赢，才是真正的赢家 [lh3zx6Pw_4iB7oWIZ8C68Bv_9hTN].md",
+          "key": "zizhi-tongjian-hanji-857-xuehui-gongying-cai-shi-zhenzheng-de-yingjia-lh3zx6pw-4ib7owiz8c68bv-9htn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》857丨学会共赢，才是真正的赢家",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-857-xuehui-gongying-cai-shi-zhenzheng-de-yingjia-lh3zx6pw-4ib7owiz8c68bv-9htn/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/zuoguanlatehan/"
     },
     "ZuoYuanLateHan": {
       "episode_count": 1,

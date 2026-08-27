@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》857丨学会共赢，才是真正的赢家](sources/zizhi-tongjian-hanji-857-xuehui-gongying-cai-shi-zhenzheng-de-yingjia-lh3zx6pw-4ib7owiz8c68bv-9htn.md) — 芮淇讲透资治通鉴 episode on win-win relationship framing, Huangfu Gui's frontier-pacification self-defense, Xu Huang and Zuo Guan's gift solicitation, and eunuch-gated reward and punishment pressure.
 - [《资治通鉴·汉纪》858丨为什么劝你一定要换位思考？](sources/zizhi-tongjian-hanji-858-weishenme-quan-ni-yiding-yao-huanwei-sikao-lobr-xznqo-ctjpc-ytpstubmahl.md) — 芮淇讲透资治通鉴 episode on perspective-taking, Chen Fan's ignored hunting remonstrance, Feng Gun's eunuch-driven dismissal, and Zhou Jing/Yang Bing's accepted cleanup of eunuch-linked unqualified officeholders.
 - [《资治通鉴·汉纪》859丨古代好人为什么难当好官？](sources/zizhi-tongjian-hanji-859-gudai-haoren-weishenme-nan-dang-haoguan-llkyx18ssvserxncvrtkw7xfduad.md) — 芮淇讲透资治通鉴 episode on Huangfu Gui recommending Zhang Huan, Duan Jiong's restoration under Qiang pressure, Zhu Mu's rejected anti-eunuch remonstrance, and eunuch power as ruler-side palace proximity demand.
 - [《资治通鉴·汉纪》860丨惊为天人！东汉郭泰有多神？](sources/zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv.md) — 芮淇讲透资治通鉴 episode on Guo Tai's public emergence through Huang Qiong's funeral, Xu Zhi's selective speech, Fu Rong's introduction to Li Ying, Luoyang fame, and Mao Rong's filial virtue.
@@ -1715,7 +1716,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [黄浮 / Huang Fu (Donghai chancellor)](entities/HuangFuDonghaiLateHan.md) — East Sea official who executes Xu Xuan and is punished after eunuch complaint.
 - [李暠 / Li Gao (Runan administrator)](entities/LiGaoRunanLateHan.md) — Former Runan administrator whose daughter is killed in the Xu Xuan case.
 - [刘茂 / Liu Mao (late Han)](entities/LiuMaoLateHan.md) — Huan-era official whose bounded roles now include a Taichang-to-sikong appointment notice and later contrast as Chen Fan's co-remonstrant who retreats under pressure.
-- [徐璜 / Xu Huang (late Han eunuch)](entities/XuHuangLateHan.md) — Eunuch uncle whose complaint channel shields Xu Xuan and exposes Huang Fu.
+- [徐璜 / Xu Huang (late Han eunuch)](entities/XuHuangLateHan.md) — Late-Han eunuch whose bounded roles now include reward-channel pressure on Huangfu Gui and kinship complaint shielding Xu Xuan.
+- [左悺 / Zuo Guan (late Han eunuch)](entities/ZuoGuanLateHan.md) — Late-Han eunuch paired with Xu Huang in gift-solicitation pressure around Huangfu Gui's military reward.
 - [徐宣 / Xu Xuan (late Han magistrate)](entities/XuXuanLateHan.md) — Xiapi magistrate whose failed concubine demand escalates into household killing.
 - [周福 / Zhou Fu (late Han)](entities/ZhouFuLateHan.md) — Ganling teacher-official whose promotion after teaching Emperor Huan becomes one pole of an early party-line rivalry.
 - [房植 / Fang Zhi (late Han)](entities/FangZhiLateHan.md) — Ganling official whose reputation for standards becomes the rival pole to Zhou Fu's imperial-teacher advancement.
@@ -1728,7 +1730,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [刘质 / Liu Zhi (Taiyuan late Han)](entities/LiuZhiTaiyuanLateHan.md) — Taiyuan administrator punished after sending Wang Yun against Zhao Jin, paralleling Cheng Jin's enforcement rebound.
 - [翟超 / Zhai Chao (late Han)](entities/ZhaiChaoLateHan.md) — Official whose appointment of Zhang Jian exposes him to eunuch retaliation.
 - [LibGen](entities/LibGen.md) — Source-scoped pirated-book repository named in the Anthropic copyright-settlement discussion.
-- [皇甫规 / Huangfu Gui (late Han)](entities/HuangfuGuiLateHan.md) — Late-Han frontier official whose profile now begins with talent-centered recommendation of Zhang Huan before failed office exit and Party Prohibition shame.
+- [皇甫规 / Huangfu Gui (late Han)](entities/HuangfuGuiLateHan.md) — Late-Han frontier official whose profile now includes accusation self-defense and eunuch-gated reward pressure before Zhang Huan recommendation, failed office exit, and Party Prohibition shame.
 - [贾彪 / Jia Biao (late Han)](entities/JiaBiaoLateHan.md) — Late-Han official whose profile combines Taixue reputation leadership, no-collateral timing judgment, infanticide custom correction, and targeted Party Prohibition rescue through Dou Wu.
 - [张成 / Zhang Cheng (late Han astrologer)](entities/ZhangChengAstrologerLateHan.md) — Source-bounded astrologer whose predicted amnesty and murder case trigger Li Ying's enforcement and eunuch-backed party accusation.
 - [劳修 / Lao Xiu (late Han)](entities/LaoXiuLateHan.md) — Zhang Cheng's disciple whose eunuch-backed accusation turns Li Ying's enforcement case into the first Party Prohibition arrest order.
@@ -9763,7 +9765,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Registry-Based Political Exclusion / 登记造册式政治禁锢](concepts/RegistryBasedPoliticalExclusion.md) — Pattern where amnesty coexists with durable administrative blacklisting and office exclusion.
 - [Accusation Quota Refusal / 诬陷指标拒绝](concepts/AccusationQuotaRefusal.md) — Official-integrity pattern where an administrator refuses to manufacture named offenders merely because a campaign expects cases.
 - [Coerced Imperial Marriage / 强制赐婚](concepts/CoercedImperialMarriage.md) — Pattern where imperial marriage interest becomes coercive command pressure, grounded in Emperor Huan's fatal pressure on Yang Qiao and qualified by Liu Xiu's restraint toward Song Hong.
-- [Military Reward Eunuch Gatekeeping / 宦官门槛下的军功赏罚](concepts/MilitaryRewardEunuchGatekeeping.md) — Late-Han pattern where frontier merit is reduced or reformatted because eunuch-side access shapes the reward channel.
+- [Military Reward Eunuch Gatekeeping / 宦官门槛下的军功赏罚](concepts/MilitaryRewardEunuchGatekeeping.md) — Late-Han pattern where frontier merit is solicited, reduced, or reformatted because eunuch-side access shapes the reward channel.
 - [Local Auspicious Omen Fabrication / 地方祥瑞造作](concepts/LocalAuspiciousOmenFabrication.md) — Pattern where local reporting channels turn rumor, joke, or anomaly into an auspicious-omen report for upward political value.
 - [Controllable Child Accession / 可控幼主继位](concepts/ControllableChildAccession.md) — Hanji 879 succession pattern where a legitimate young ruler is attractive to powerholders because age makes behind-the-throne control easier.
 - [Palace Favorite Protection Fragility / 宫廷宠幸保护脆弱性](concepts/PalaceFavoriteProtectionFragility.md) — Huan harem pattern where favor, formal title, and institutional protection split, leaving palace victories fragile before and after the patron's death.
