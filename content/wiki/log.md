@@ -12162,6 +12162,10 @@ Added source page for The Rest Is History episode on Crown Prince Rudolf, Mary V
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-27] ingest | 《资治通鉴·汉纪》1044丨关羽千里走单骑，需感谢曹操不杀恩情？
+
+Added source page for Hanji 1044: Yuan Shao's anger after Yan Liang, Ju Shou's rejected Yanjin/Guandu caution and command loss, Cao Cao and Xun You's baggage-bait victory over Wen Chou, Guan Yu's reward-sealing departure toward Liu Bei, Yan Rou and Xianyu Fu's move toward Cao, and Chen Deng's Jiangdong rear-pressure setup. Created Yanjin Battle page; updated Guan Yu, Yan Liang, Wen Chou, Ju Shou, Xun You, Yan Rou, Xianyu Fu, Guandu Campaign, Captive Submission with Residual Loyalty, index, and overview. No settled contradiction found; Romance "千里走单骑" and "过五关斩六将" details are kept as source-tradition embellishment.
+
 ## [2026-08-27] ingest | EP279 当方向盘慢慢松开，我们如何与车相处？
 
 Added source page for EP279: assisted-driving trust formation, Hongmeng Zhixing owner experience, Huawei's no-map and active-safety framing, M9/R7/G9 living-space use cases, outdoor vehicle design, oxygen/rest features, and user-feedback product definition. Created Peng Lei, Hongmeng Zhixing G9, Assisted Driving Trust Formation, Smart Vehicle Living Space, Outdoor Vehicle Lifestyle Design, and User Feedback Vehicle Definition pages; migrated Hongmeng Zhixing, AITO, Luxeed, Huawei Smart Selection Car Model, Autonomous Driving Responsibility Boundary, and Autonomous Driving Data Flywheel to synthesis-v1. No settled contradiction found; the episode is kept source-scoped as a brand-and-owner conversation rather than independent assisted-driving or off-road validation.
@@ -12516,6 +12520,10 @@ Ran health, identity validation, and lint. Health scanned 15,142 wiki pages with
 ## [2026-08-27] ingest | Vol.272 2026年了，怎么还有人要做中国版Airbnb？
 
 Added source page for a 商业就是这样 episode with 谭丁 on 一间次卧, China's spare-bedroom sharing opportunity, housing cash-flow pressure, low-price local lodging, female guest safety, payment custody, host verification, brand-product barter, AI/RAG search, and one-person company operations. Created Tan Ding, 一间次卧, Tujia, Xiaozhu, China Home-Sharing Supply Motivation, Bedroom Homestay Platform Trust, and Non-Standard Lodging Search pages; migrated Hotel Retail Flywheel to synthesis-v1 and extended it from chain-hotel bedding retail into broader lodging-room product trial. No settled contradiction found; macro statistics, platform metrics, host/guest percentages, and regulatory observations are kept source-scoped to the episode.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-27] lint | Wiki health check
 

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 7924
+wiki_total_pages: 7925
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -437,6 +437,9 @@ wiki_pages:
   - key: "YingShaoLateHan"
     title: "应劭 / Ying Shao (Late Han)"
     url: "/wiki/entities/yingshaolatehan/"
+  - key: "YanjinBattleLateHan"
+    title: "延津之战 / Yanjin Battle (late Han)"
+    url: "/wiki/entities/yanjinbattlelatehan/"
   - key: "YangzhouLateHan"
     title: "扬州 / Yangzhou (late Han province)"
     url: "/wiki/entities/yangzhoulatehan/"

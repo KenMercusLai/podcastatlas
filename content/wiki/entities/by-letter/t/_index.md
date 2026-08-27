@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 7924
+wiki_total_pages: 7925
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"

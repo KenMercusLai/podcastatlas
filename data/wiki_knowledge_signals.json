@@ -1939,9 +1939,9 @@
       "url": "/wiki/entities/caperni/"
     },
     "CaptiveSubmissionResidualLoyalty": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1041丨揭秘历史上真实的“关羽降曹” [luiSP0NdK1lFRC87BYYGn6r8mYhx].md",
@@ -1949,6 +1949,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1041丨揭秘历史上真实的“关羽降曹”",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1041-jiemi-lishishang-zhenshi-de-guanyu-jiangcao-luisp0ndk1lfrc87byygn6r8myhx/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1044丨关羽千里走单骑，需感谢曹操不杀恩情？ [lpptLNc-E4zu4LcJR49bqUxDW0pM].md",
+          "key": "zizhi-tongjian-hanji-1044-guanyu-qianli-zou-danqi-xu-ganxie-caocao-busha-enqing-lpptlnc-e4zu4lcjr49bquxdw0pm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1044丨关羽千里走单骑，需感谢曹操不杀恩情？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1044-guanyu-qianli-zou-danqi-xu-ganxie-caocao-busha-enqing-lpptlnc-e4zu4lcjr49bquxdw0pm/"
         }
       ],
       "updated": "2026-08-27",
@@ -4980,9 +4987,9 @@
       "url": "/wiki/entities/guanjinglatehan/"
     },
     "GuanYu": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》955丨关羽斩华雄其实是伪历史？？？ [lnDkrj_fNePye8IU-ifgyh-VZySF].md",
@@ -5004,15 +5011,22 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1041丨揭秘历史上真实的“关羽降曹”",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1041-jiemi-lishishang-zhenshi-de-guanyu-jiangcao-luisp0ndk1lfrc87byygn6r8myhx/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1044丨关羽千里走单骑，需感谢曹操不杀恩情？ [lpptLNc-E4zu4LcJR49bqUxDW0pM].md",
+          "key": "zizhi-tongjian-hanji-1044-guanyu-qianli-zou-danqi-xu-ganxie-caocao-busha-enqing-lpptlnc-e4zu4lcjr49bquxdw0pm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1044丨关羽千里走单骑，需感谢曹操不杀恩情？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1044-guanyu-qianli-zou-danqi-xu-ganxie-caocao-busha-enqing-lpptlnc-e4zu4lcjr49bquxdw0pm/"
         }
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/guanyu/"
     },
     "GuanduCampaign": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1026丨揭秘三国第一猛将吕布的落幕 [lhjf_aguJuIgLqCHUMtFf3tfTxg1].md",
@@ -5055,6 +5069,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1042丨聪明还是顽固？田丰因顶撞袁绍入狱",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1042-congming-haishi-wangu-tianfeng-yin-dingzhuang-yuanshao-ruyu-lk5x6if2rouarmgichtynzhl3cgs/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1044丨关羽千里走单骑，需感谢曹操不杀恩情？ [lpptLNc-E4zu4LcJR49bqUxDW0pM].md",
+          "key": "zizhi-tongjian-hanji-1044-guanyu-qianli-zou-danqi-xu-ganxie-caocao-busha-enqing-lpptlnc-e4zu4lcjr49bquxdw0pm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1044丨关羽千里走单骑，需感谢曹操不杀恩情？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1044-guanyu-qianli-zou-danqi-xu-ganxie-caocao-busha-enqing-lpptlnc-e4zu4lcjr49bquxdw0pm/"
         }
       ],
       "updated": "2026-08-27",
@@ -6742,9 +6763,9 @@
       "url": "/wiki/entities/joshspencer/"
     },
     "JuShou": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》976丨三国谋士大盘点，谁是你心中的神？ [ljGPbosQ-9XIoWpgaEyossmgSt6x].md",
@@ -6780,6 +6801,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1033丨割据军阀袁术，最终吐血而亡？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1033-geju-junfa-yuanshu-zuizhong-tuxue-er-wang-lt0ibs-en0oeoqkkcxl8sevjng4/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1044丨关羽千里走单骑，需感谢曹操不杀恩情？ [lpptLNc-E4zu4LcJR49bqUxDW0pM].md",
+          "key": "zizhi-tongjian-hanji-1044-guanyu-qianli-zou-danqi-xu-ganxie-caocao-busha-enqing-lpptlnc-e4zu4lcjr49bquxdw0pm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1044丨关羽千里走单骑，需感谢曹操不杀恩情？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1044-guanyu-qianli-zou-danqi-xu-ganxie-caocao-busha-enqing-lpptlnc-e4zu4lcjr49bquxdw0pm/"
         }
       ],
       "updated": "2026-08-27",
@@ -13106,9 +13134,9 @@
       "url": "/wiki/entities/weizhonglatehan/"
     },
     "WenChouLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1034丨袁绍的败局，只因不肯听沮授的话？ [loG-Wy2ZVPdJOPbdyexb0IJQmph4].md",
@@ -13116,6 +13144,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1034丨袁绍的败局，只因不肯听沮授的话？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1034-yuanshao-de-baiju-zhi-yin-buken-ting-jushou-de-hua-log-wy2zvpdjopbdyexb0ijqmph4/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1044丨关羽千里走单骑，需感谢曹操不杀恩情？ [lpptLNc-E4zu4LcJR49bqUxDW0pM].md",
+          "key": "zizhi-tongjian-hanji-1044-guanyu-qianli-zou-danqi-xu-ganxie-caocao-busha-enqing-lpptlnc-e4zu4lcjr49bquxdw0pm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1044丨关羽千里走单骑，需感谢曹操不杀恩情？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1044-guanyu-qianli-zou-danqi-xu-ganxie-caocao-busha-enqing-lpptlnc-e4zu4lcjr49bquxdw0pm/"
         }
       ],
       "updated": "2026-08-27",
@@ -13464,9 +13499,9 @@
       "url": "/wiki/entities/xianlingqiang/"
     },
     "XianyuFu": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》998丨白马将军公孙瓒：从三千白马到困守孤城 [lp-1L2GvBsBFnyZNUTDGhxwwvqNA].md",
@@ -13481,6 +13516,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1032丨对待叛徒，曹操为何仁慈？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1032-duidai-pantu-caocao-weihe-renci-lmrr3c2f2dayectlwndt4p-katuy/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1044丨关羽千里走单骑，需感谢曹操不杀恩情？ [lpptLNc-E4zu4LcJR49bqUxDW0pM].md",
+          "key": "zizhi-tongjian-hanji-1044-guanyu-qianli-zou-danqi-xu-ganxie-caocao-busha-enqing-lpptlnc-e4zu4lcjr49bquxdw0pm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1044丨关羽千里走单骑，需感谢曹操不杀恩情？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1044-guanyu-qianli-zou-danqi-xu-ganxie-caocao-busha-enqing-lpptlnc-e4zu4lcjr49bquxdw0pm/"
         }
       ],
       "updated": "2026-08-27",
@@ -13670,9 +13712,9 @@
       "url": "/wiki/entities/xuzhaolatehan/"
     },
     "XunYou": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1025丨败于曹操，吕布错在禁酒令？ [ljJT1t2mK77si6re_-WEW_hPl8qZ].md",
@@ -13701,6 +13743,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1022丨乱世三国，三位名士的生存抉择",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1022-luanshi-sanguo-sanwei-mingshi-de-shengcun-jueze-lgmbekomxwiu7hjnpxkxggyhvwaf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1044丨关羽千里走单骑，需感谢曹操不杀恩情？ [lpptLNc-E4zu4LcJR49bqUxDW0pM].md",
+          "key": "zizhi-tongjian-hanji-1044-guanyu-qianli-zou-danqi-xu-ganxie-caocao-busha-enqing-lpptlnc-e4zu4lcjr49bquxdw0pm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1044丨关羽千里走单骑，需感谢曹操不杀恩情？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1044-guanyu-qianli-zou-danqi-xu-ganxie-caocao-busha-enqing-lpptlnc-e4zu4lcjr49bquxdw0pm/"
         }
       ],
       "updated": "2026-08-27",
@@ -13753,9 +13802,9 @@
       "url": "/wiki/entities/yanbaihu/"
     },
     "YanLiangLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1034丨袁绍的败局，只因不肯听沮授的话？ [loG-Wy2ZVPdJOPbdyexb0IJQmph4].md",
@@ -13763,15 +13812,22 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1034丨袁绍的败局，只因不肯听沮授的话？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1034-yuanshao-de-baiju-zhi-yin-buken-ting-jushou-de-hua-log-wy2zvpdjopbdyexb0ijqmph4/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1044丨关羽千里走单骑，需感谢曹操不杀恩情？ [lpptLNc-E4zu4LcJR49bqUxDW0pM].md",
+          "key": "zizhi-tongjian-hanji-1044-guanyu-qianli-zou-danqi-xu-ganxie-caocao-busha-enqing-lpptlnc-e4zu4lcjr49bquxdw0pm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1044丨关羽千里走单骑，需感谢曹操不杀恩情？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1044-guanyu-qianli-zou-danqi-xu-ganxie-caocao-busha-enqing-lpptlnc-e4zu4lcjr49bquxdw0pm/"
         }
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/yanlianglatehan/"
     },
     "YanRou": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》998丨白马将军公孙瓒：从三千白马到困守孤城 [lp-1L2GvBsBFnyZNUTDGhxwwvqNA].md",
@@ -13786,6 +13842,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1032丨对待叛徒，曹操为何仁慈？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1032-duidai-pantu-caocao-weihe-renci-lmrr3c2f2dayectlwndt4p-katuy/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1044丨关羽千里走单骑，需感谢曹操不杀恩情？ [lpptLNc-E4zu4LcJR49bqUxDW0pM].md",
+          "key": "zizhi-tongjian-hanji-1044-guanyu-qianli-zou-danqi-xu-ganxie-caocao-busha-enqing-lpptlnc-e4zu4lcjr49bquxdw0pm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1044丨关羽千里走单骑，需感谢曹操不杀恩情？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1044-guanyu-qianli-zou-danqi-xu-ganxie-caocao-busha-enqing-lpptlnc-e4zu4lcjr49bquxdw0pm/"
         }
       ],
       "updated": "2026-08-27",
@@ -14073,6 +14136,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/yangqiaolatehan/"
+    },
+    "YanjinBattleLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1044丨关羽千里走单骑，需感谢曹操不杀恩情？ [lpptLNc-E4zu4LcJR49bqUxDW0pM].md",
+          "key": "zizhi-tongjian-hanji-1044-guanyu-qianli-zou-danqi-xu-ganxie-caocao-busha-enqing-lpptlnc-e4zu4lcjr49bquxdw0pm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1044丨关羽千里走单骑，需感谢曹操不杀恩情？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1044-guanyu-qianli-zou-danqi-xu-ganxie-caocao-busha-enqing-lpptlnc-e4zu4lcjr49bquxdw0pm/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/yanjinbattlelatehan/"
     },
     "YidaiZhao": {
       "episode_count": 1,

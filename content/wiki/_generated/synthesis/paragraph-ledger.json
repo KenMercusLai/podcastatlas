@@ -38,6 +38,7 @@
       "547548604597cb96f8ee207d1a3ccc73e53ead93e2136757534d418981e69e17",
       "237e0a22896baa80bde259f9797e8f892e663ee3a1b8e599e442eeaff14ad836",
       "1a6a1bd8a35ae9c05383975a3a76da51ac306f5fface6750ff0ef9cc07bec634",
+      "ff78c9f2220236d36d46d2628afea2c1b7aa1b34c61cc3083bb7516a2ce432f6",
       "02aca0cdc3e5a8775e4f935539adfd86ed7ad52997d7c90ca4cf477989391fb1",
       "b59592e9dee1b2eee5a578c1941f5cafbbdd73787a357e7b849bb4a18af13d90",
       "c1fcb3861b584fe6e941c87932da97413c4884d0dceb790e661f42a218f310c0",
@@ -293,10 +294,10 @@
       "396c04c09218df7c8497dea530434860e00ec38668ed4b222f6a27bb86d534e9",
       "3362304333dfcee314476fce4ed5623c60aa152f17b8b0db64ce82de7271a34a"
     ],
-    "paragraph_count": 291
+    "paragraph_count": 292
   },
-  "overview_commit": "2c6153a74ce28014c96d70d8bdeba7aa3ca05452",
-  "overview_digest": "599963349d9e64f1186f1e9462a4022fdcf52f464c77bcd6c62c7d378a912002",
+  "overview_commit": "aaf33a9454627896f9686f84e0c97870ec7ebe75",
+  "overview_digest": "2904041025af9edb6d8297d4076e9db32795db7f51ebf901bfa755c27f185b6a",
   "paragraphs": [
     {
       "id": "8a771097ddfd7388b548e15df7342514d4c5e1ff50b05589df78e1a5686991fe",
@@ -1459,6 +1460,36 @@
         "YuanShao",
         "YuanTan",
         "zizhi-tongjian-hanji-1042-congming-haishi-wangu-tianfeng-yin-dingzhuang-yuanshao-ruyu-lk5x6if2rouarmgichtynzhl3cgs"
+      ]
+    },
+    {
+      "id": "ff78c9f2220236d36d46d2628afea2c1b7aa1b34c61cc3083bb7516a2ce432f6",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1044-guanyu-qianli-zou-danqi-xu-ganxie-caocao-busha-enqing-lpptlnc-e4zu4lcjr49bquxdw0pm|《资治通鉴·汉纪》1044丨关羽千里走单骑，需感谢曹操不杀恩情？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continuing the immediate pre-[[GuanduCampaign|官渡之战]] sequence after Hanji 1042. It adds [[YanjinBattleLateHan|延津之战]], while extending [[GuanYu|关羽]], [[YanLiangLateHan|颜良]], [[WenChouLateHan|文丑]], [[JuShou|沮授]], [[XunYou|荀攸]], [[YanRou|阎柔]], [[XianyuFu|鲜于辅]], [[YuanShao|袁绍]], [[CaoCao|曹操]], [[LiuBei|刘备]], [[CaptiveSubmissionResidualLoyalty|被俘归顺与旧主忠义]], [[LureEnemyOutOfPosition|诱敌离位]], [[AngerDrivenWarDecision|因怒兴师]], and [[XingshiqingStrategicAssessment|行势情战略评估]]. Its core synthesis is that Yuan Shao's anger and command weakening turn Yan Liang's death into another exposure, while Cao Cao and Xun You convert baggage, patience, and enemy dispersal into the Yanjin victory over Wen Chou. Guan Yu's exit confirms the repayment-and-departure form of captive loyalty: after killing Yan Liang he seals Cao Cao's rewards, leaves a letter, and returns toward Liu Bei while Cao refuses pursuit. No settled contradiction is recorded; Romance details such as \"千里走单骑\" and \"过五关斩六将\" remain source-tradition embellishments.",
+      "topic_scores": {
+        "history-and-geopolitics": 3,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "AngerDrivenWarDecision",
+        "CaoCao",
+        "CaptiveSubmissionResidualLoyalty",
+        "GuanYu",
+        "GuanduCampaign",
+        "JuShou",
+        "LiuBei",
+        "LureEnemyOutOfPosition",
+        "RuiqiJiangtouZizhiTongjian",
+        "WenChouLateHan",
+        "XianyuFu",
+        "XingshiqingStrategicAssessment",
+        "XunYou",
+        "YanLiangLateHan",
+        "YanRou",
+        "YanjinBattleLateHan",
+        "YuanShao",
+        "zizhi-tongjian-hanji-1044-guanyu-qianli-zou-danqi-xu-ganxie-caocao-busha-enqing-lpptlnc-e4zu4lcjr49bquxdw0pm"
       ]
     },
     {
