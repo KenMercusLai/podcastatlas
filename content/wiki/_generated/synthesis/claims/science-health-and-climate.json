@@ -133,8 +133,30 @@
         "GenesisMission",
         "MedicalDogmaTrustRepair"
       ]
+    },
+    {
+      "global_candidate": true,
+      "id": "individualized-cancer-vaccines-are-therapeutic-and-context-bound",
+      "qualifications": [
+        "The episode frames the vaccine as postoperative therapeutic/adjuvant care for melanoma patients, not preventive vaccination for healthy people.",
+        "The claim remains bounded by cancer type, immune context, trial validation, toxicity, cost, and ordinary prevention/screening advice."
+      ],
+      "statement": "[[IndividualizedCancerVaccine]] adds a therapeutic oncology branch: [[CancerVaccinePlatform]], [[CancerImmuneRecognitionProblem]], and [[TumorMicroenvironment]] make [[Moderna]]/[[Merck]]'s melanoma mRNA vaccine case a postoperative immune-recognition intervention, while [[AIClinicalValidationInDrugDiscovery]] may shorten patient-specific selection and manufacturing without replacing clinical validation, adverse-effect management, affordability, [[PreventiveHealthScreening]], or quality-of-life judgment.",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "AIClinicalValidationInDrugDiscovery",
+        "CancerImmuneRecognitionProblem",
+        "CancerVaccinePlatform",
+        "DabaNiuTeacher",
+        "IndividualizedCancerVaccine",
+        "Merck",
+        "Moderna",
+        "PreventiveHealthScreening",
+        "TumorMicroenvironment",
+        "vol-220-duihua-dabainiu-under-modena-dingzhi-kangai-yimiao-li-putongren-you-duoyuan-lofs520ps1evva8nafsnrkcbvgjz"
+      ]
     }
   ],
-  "summary": "Kratsios adds a federal science-policy branch: the New Golden Age agenda frames NIH/NSF reform, grant portfolios, energy abundance, AI-for-science, COVID trust repair, China competition, and STEM talent as a productivity problem, while implementation and politicization risks remain contested. Data Science With Sam EP47 adds a personal-health-data privacy case: local private AI can make sensitive records queryable without sending files or questions to public services, but health answers still need grounding, citations, refusal behavior, and verification. Science, health, climate, and space-engineering claims become credible when physical constraints, evidence, regulation, implementation cost, and operational follow-through stay visible: reusable rockets need repeatable recovery plus launch-site throughput, space growth needs pads, geography, licensing, and habitat review, climate work needs material and storage validation, scientific imagination stays evidence-bound, and risk products must map to concrete exposure. The Wudang episode adds a source-scoped medicine-and-cultivation qualifier: Chinese-medicine, nourishing-life, and belief practices are treated as embodied exploratory systems that may offer support under uncertainty, but they do not erase diagnosis, evidence limits, or ordinary bodily constraints.",
+  "summary": "Kratsios adds a federal science-policy branch: the New Golden Age agenda frames NIH/NSF reform, grant portfolios, energy abundance, AI-for-science, COVID trust repair, China competition, and STEM talent as a productivity problem, while implementation and politicization risks remain contested. Data Science With Sam EP47 adds a personal-health-data privacy case: local private AI can make sensitive records queryable without sending files or questions to public services, but health answers still need grounding, citations, refusal behavior, and verification. Science, health, climate, and space-engineering claims become credible when physical constraints, evidence, regulation, implementation cost, and operational follow-through stay visible: reusable rockets need repeatable recovery plus launch-site throughput, space growth needs pads, geography, licensing, and habitat review, climate work needs material and storage validation, scientific imagination stays evidence-bound, and risk products must map to concrete exposure. The Wudang episode adds a source-scoped medicine-and-cultivation qualifier: Chinese-medicine, nourishing-life, and belief practices are treated as embodied exploratory systems that may offer support under uncertainty, but they do not erase diagnosis, evidence limits, or ordinary bodily constraints. The Moderna/Merck episode adds a therapeutic oncology branch: individualized cancer vaccines remain postoperative/adjuvant melanoma treatment, not universal prevention; AI and mRNA can accelerate candidate selection and manufacturing, but immune context, clinical evidence, toxicity, cost, and quality-of-life tradeoffs govern use.",
   "topic_id": "science-health-and-climate"
 }

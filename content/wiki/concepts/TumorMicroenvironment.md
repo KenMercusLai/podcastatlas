@@ -2,23 +2,46 @@
 title: "Tumor Microenvironment"
 type: concept
 tags: [oncology, immunology, biotech]
-sources: [e235-20-nian-nei-car-t-zhiyu-aizheng-yu-liucheng-boshi-liaoliao-aizheng-zhiliao-de-diceng-zhexue-90f96f60-25be-45ac-b832-56776a23d534]
-last_updated: 2026-07-23
+sources:
+  - e235-20-nian-nei-car-t-zhiyu-aizheng-yu-liucheng-boshi-liaoliao-aizheng-zhiliao-de-diceng-zhexue-90f96f60-25be-45ac-b832-56776a23d534
+  - vol-220-duihua-dabainiu-under-modena-dingzhi-kangai-yimiao-li-putongren-you-duoyuan-lofs520ps1evva8nafsnrkcbvgjz
+last_updated: 2026-08-27
+knowledge_schema: synthesis-v1
 ---
 
 # Tumor Microenvironment
 
-Tumor microenvironment is the source's name for the local immune-suppressive setting inside solid tumors in [[e235-20-nian-nei-car-t-zhiyu-aizheng-yu-liucheng-boshi-liaoliao-aizheng-zhiliao-de-diceng-zhexue-90f96f60-25be-45ac-b832-56776a23d534]]. [[LiuCheng|刘诚]] says blood circulation lacks the same level of suppressive environment, which helps explain why [[CARTCellTherapy|CAR-T]] has worked better in blood cancers than in solid tumors.
+## Definition
+The tumor microenvironment is the local tissue and immune context around a tumor that can either permit immune attack or suppress it.
 
-The episode presents the tumor microenvironment as unfriendly to immune cells. It can include immunosuppressive factors, regulatory T cells, and myeloid-derived suppressor cells, all of which can weaken or stop immune attack. For CAR-T, this means that even when engineered cells recognize a tumor antigen and enter the tumor, they may not remain functional long enough to clear the cancer.
+## Current Synthesis
+The wiki first used tumor microenvironment to explain why [[CARTCellTherapy|CAR-T]] struggles more in solid tumors than in blood cancers. In [[e235-20-nian-nei-car-t-zhiyu-aizheng-yu-liucheng-boshi-liaoliao-aizheng-zhiliao-de-diceng-zhexue-90f96f60-25be-45ac-b832-56776a23d534]], [[LiuCheng|刘诚]] describes solid tumors as local environments where immune cells may have trouble entering, surviving, or remaining active because of suppressive factors and cell populations.
+
+[[vol-220-duihua-dabainiu-under-modena-dingzhi-kangai-yimiao-li-putongren-you-duoyuan-lofs520ps1evva8nafsnrkcbvgjz]] extends the same idea to cancer vaccines through hot and cold tumor language. A vaccine can improve recognition by telling the immune system what to look for, but if a tumor is cold, poorly infiltrated, or surrounded by a hostile immune environment, recognition may not produce enough killing. This makes melanoma a more plausible early setting because the episode treats it as relatively sensitive to immunotherapy.
 
 ## Key Claims
-- The tumor microenvironment can suppress immune-cell activity after engineered cells enter solid tumors.
-- Reducing or bypassing local immune suppression is a major research direction in cancer treatment.
-- The concept explains why [[SolidTumorCARTConstraints]] are broader than antigen selection or cell dose alone.
+- Tumor microenvironment determines whether immune recognition can become effective tumor killing.
+- Solid tumors can suppress or exclude immune cells even when a target antigen or recognition signal exists.
+- Hot versus cold tumor framing captures differences in immune-cell infiltration and immunotherapy responsiveness.
+- The concept applies beyond CAR-T to cancer vaccines and other immunotherapy combinations.
+- Melanoma's relative immunotherapy sensitivity makes it a more plausible first setting than less immune-responsive tumors.
 
-## Connections
-- [[SolidTumorCARTConstraints]] - main CAR-T context where the tumor microenvironment matters.
-- [[CARTCellTherapy]] and [[InVivoCART]] - therapies whose effectiveness depends on local immune function.
-- [[CancerImmuneRecognitionProblem]] - recognition must be paired with durable immune activity.
-- [[EurekaTherapeutics]] - company context for solid-tumor CAR-T work in the source.
+## Evidence
+- CAR-T barrier: [[e235-20-nian-nei-car-t-zhiyu-aizheng-yu-liucheng-boshi-liaoliao-aizheng-zhiliao-de-diceng-zhexue-90f96f60-25be-45ac-b832-56776a23d534]] explains solid-tumor CAR-T difficulty through infiltration, persistence, and local immune suppression.
+- Vaccine boundary: [[vol-220-duihua-dabainiu-under-modena-dingzhi-kangai-yimiao-li-putongren-you-duoyuan-lofs520ps1evva8nafsnrkcbvgjz]] says cancer vaccines provide recognition information, while tumor killing still depends on immune-cell presence and function around the tumor.
+- Cancer-type selection: [[vol-220-duihua-dabainiu-under-modena-dingzhi-kangai-yimiao-li-putongren-you-duoyuan-lofs520ps1evva8nafsnrkcbvgjz]] uses melanoma's immunotherapy sensitivity to explain why a vaccine signal there does not immediately generalize to all cancers.
+
+## Counterevidence & Qualifications
+The page does not claim every solid tumor is uniformly cold or that microenvironment is the only barrier. Antigen choice, immune exhaustion, prior treatment, toxicity, delivery, tumor burden, and trial design also shape outcomes.
+
+## What Changed
+- Migrated the page to the synthesis-first schema.
+- Added hot/cold tumor language from the melanoma-vaccine episode.
+- Extended the concept from CAR-T constraints into cancer-vaccine interpretation.
+
+## Related Concepts
+- [[SolidTumorCARTConstraints]] - CAR-T-specific barrier where tumor microenvironment is a central cause.
+- [[CARTCellTherapy]] - therapy whose cells must enter and function in the local tumor context.
+- [[CancerVaccinePlatform]] - vaccine route limited by whether recognition can become immune action.
+- [[IndividualizedCancerVaccine]] - patient-specific vaccine workflow whose efficacy depends partly on tumor immune context.
+- [[CancerImmuneRecognitionProblem]] - recognition problem that tumor microenvironment can either enable or frustrate.

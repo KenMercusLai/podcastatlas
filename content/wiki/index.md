@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.220对话大白牛/Under：莫德纳“定制抗癌疫苗”，离普通人有多远？](sources/vol-220-duihua-dabainiu-under-modena-dingzhi-kangai-yimiao-li-putongren-you-duoyuan-lofs520ps1evva8nafsnrkcbvgjz.md) — 这病说来话长 episode with 大白牛/Under on Moderna/Merck's individualized melanoma mRNA vaccine, therapeutic/adjuvant use, immune-recognition limits, AI-assisted feature extraction, cost, validation, and screening.
 - [Vol.272 2026年了，怎么还有人要做中国版Airbnb？](sources/vol-272-2026-nian-le-zenme-hai-you-ren-yao-zuo-zhongguo-ban-airbnb-1008880863.md) — 商业就是这样 episode with 谭丁 on 一间次卧, Chinese spare-bedroom sharing, housing cash-flow pressure, low-price local lodging, trust/fulfillment, brand placement, AI/RAG search, and one-person company operations.
 - [Eric Weinstein: The State of American Science, Breakthrough Coverups, and the Danger of Physics](sources/all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645.md) — All-In interview with Eric Weinstein on scientific precarity, high-beta basic-science funding, physics stagnation, dangerous-knowledge secrecy, UAP compartmentalization, AI discovery, and China talent competition.
 - [外卖成为海底捞增长最快的业务，乐高表示不会用 AI 来设计产品](sources/waimai-chengwei-haidilao-zengzhang-zuikuai-de-yewu-legao-biaoshi-buhui-yong-ai-lai-sheji-chanpin-1008870590.md) — 声动早咖啡 roundup on Nongfu Spring tea growth, Haidilao delivery, coffee supply, Apple local AI hardware, Nvidia-Perplexity, Volkswagen restructuring, electric two-wheelers, Lao Pu Gold, and Lego's AI design boundary.
@@ -3977,7 +3978,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [美团浣熊食堂 / Meituan Huanxiong Shitang](entities/MeituanHuanxiongShitang.md) — Meituan platform-led canteen-like foodservice space discussed as a successor pressure on older food courts.
 - [城市集市 / City Mart](entities/CityMart.md) — Shanghai scene-led food-market operator contrasted with the older 大食代 model.
 - [食通天 Skyland Food Court](entities/SkylandFoodCourt.md) — Newer food-court operator used as a high-end-mall successor path to the older Food Republic model.
-- [Moderna](entities/Moderna.md) — Biotech company named with Merck in the personalized mRNA cancer-vaccine update.
+- [Moderna](entities/Moderna.md) — mRNA biotech company represented by the Moderna/Merck personalized melanoma-vaccine case.
 - [Kling AI / 可灵 AI](entities/KlingAI.md) — Kuaishou AI video product used as a revenue-growth and model-cost pressure example.
 - [Volcengine / 火山引擎](entities/Volcengine.md) — ByteDance cloud and AI-services layer connecting Doubao into Tesla China's in-car system.
 - [卓瑞 / Zhuo Rui](entities/ZhuoRui.md) — NVIDIA autonomous-driving, robotics, and smart-city product speaker explaining the automotive AI platform stack.
@@ -5061,7 +5062,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Daiichi Sankyo / 第一三共](entities/DaiichiSankyo.md) — Japanese pharma company cited in vol.120 as evidence that Japan retained globally meaningful drug-industry capacity after pricing and generic-drug reform.
 - [Takeda Pharmaceutical / 武田制药](entities/TakedaPharmaceutical.md) — Japanese pharma company cited in vol.120 as part of the industry outcome of Japan's post-crisis drug-pricing and quality reforms.
 - [知青小酒馆 / Zhiqing Xiaojiuguan](entities/ZhiqingXiaojiuguan.md) — Crossover partner in vol.118, where single aging is treated as life-system planning rather than only retirement finance.
-- [大白牛老师 / Daba Niu Teacher](entities/DabaNiuTeacher.md) — Clinical-development guest in episode 130, grounding the role map in doctors, patients, trials, and development execution.
+- [大白牛老师 / Daba Niu Teacher](entities/DabaNiuTeacher.md) — Clinical-development and oncology explainer linking drug-development roles to patient-level treatment tradeoffs and individualized cancer-vaccine limits.
 - [小P老师 / Xiao P Teacher](entities/XiaoPTeacher.md) — Biotech early-research guest in vol.117, grounding the episode's sober 2025 view of PD-1, CAR-T, ADC, AI drug, and cross-border biotech transactions.
 - [SanSheng Pharma / 三生制药](entities/SanShengPharma.md) — Chinese pharma company used by episode 156 as a headline 2025 innovation-drug BD case through its Pfizer deal.
 - [Akeso / 康方生物](entities/Akeso.md) — Chinese biotech company used by vol.117 as the central PD-1/VEGF bispecific and China asset-repricing example.
@@ -5070,7 +5071,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hengrui Pharma / 恒瑞医药](entities/HengruiPharma.md) — Chinese pharma company tied in vol.117 to license-out arbitrage and reverse NewCo transaction design.
 - [GSK / 葛兰素史克](entities/GSK.md) — Multinational pharma partner for Hengrui in episode 156's China innovation-drug BD map.
 - [Gilead Sciences / 吉利德](entities/GileadSciences.md) — Pharma company split in vol.117 between long-acting HIV prevention strength and oncology investment setbacks.
-- [Merck / 默沙东](entities/Merck.md) — Pharma company used by vol.117 to explain Keytruda-linked patent-cliff anxiety and defensive China-asset BD.
+- [Merck / 默沙东](entities/Merck.md) — Pharma company represented by Keytruda-linked patent-cliff pressure, China BD validation, and the Moderna personalized melanoma-vaccine branch.
 - [Keytruda / K药](entities/Keytruda.md) — Merck PD-1 blockbuster used by vol.117 as the comparator for PD-1 saturation, PD-1/VEGF data, and patent-cliff pressure.
 - [AstraZeneca / 阿斯利康](entities/AstraZeneca.md) — Multinational pharma example in vol.117's China biotech asset-buying pattern.
 - [Bristol Myers Squibb / BMS](entities/BristolMyersSquibb.md) — Earlier PD-1 mover used by vol.117 to show how clinical-development execution can overtake first entry.
@@ -11869,7 +11870,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [First-In-Class Drug Discovery Role Split](concepts/FirstInClassDrugDiscoveryRoleSplit.md) — Role split where small companies or academia often originate molecules while large pharma frequently owns or launches them.
 - [Biotech Capital Cycle](concepts/BiotechCapitalCycle.md) — Financing cycle linking VC, public markets, MNC cash flow, BD, licensing, and exits in innovation-drug development.
 - [Unmet Medical Need Demand Pull](concepts/UnmetMedicalNeedDemandPull.md) — Patient, physician, hospital, and disease-burden demand layer behind innovation-drug development.
-- [AI Clinical Validation In Drug Discovery](concepts/AIClinicalValidationInDrugDiscovery.md) — Vol.117 check on AI drug narratives: molecular design and target selection still have to survive clinical data.
+- [AI Clinical Validation In Drug Discovery](concepts/AIClinicalValidationInDrugDiscovery.md) — Boundary that AI can accelerate molecular or patient-specific design, but clinical outcomes still validate drug-discovery claims.
 - [In Vivo mRNA CAR-T](concepts/InVivoMRNACART.md) — Vol.117 route using mRNA-LNP delivery to generate CAR-T-like cells inside the body, with short persistence as a key tradeoff.
 - [Finite-Game Biotech Competition](concepts/FiniteGameBiotechCompetition.md) — Vol.117 shift from pure breakthrough expectation toward clinical, manufacturing, pricing, BD, and engineering differentiation.
 - [China Policy Easing Pivot](concepts/ChinaPolicyEasingPivot.md) — 2024-2025 China policy-turn frame moving from July disappointment to September/December easing confirmation, with RMB still constraining monetary room.
@@ -13002,12 +13003,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Degree As Trust Credential](concepts/DegreeAsTrustCredential.md) — E236 claim that degrees can remain social trust and evaluation signals even when AI weakens routine knowledge-proof value.
 - [AI University Assessment Reform](concepts/AIUniversityAssessmentReform.md) — E236 assessment shift from policing whether AI appeared to testing process, judgment, verification, and AI-enabled problem solving.
 - [CAR-T Cell Therapy](concepts/CARTCellTherapy.md) — E235 concept for engineering T cells to recognize cancer antigens and attack cancer cells as a live-cell immune therapy.
-- [Cancer Immune Recognition Problem](concepts/CancerImmuneRecognitionProblem.md) — E235 oncology frame that cancer is hard because malignant cells are self cells, so therapy must distinguish cancer from normal tissue.
+- [Cancer Immune Recognition Problem](concepts/CancerImmuneRecognitionProblem.md) — Oncology frame that cancer treatment must make malignant self cells visible enough for immune attack without unsafe normal-tissue harm.
 - [Ex Vivo CAR-T Manufacturing](concepts/ExVivoCARTManufacturing.md) — Traditional patient-specific CAR-T route involving cell extraction, external engineering, expansion, quality control, logistics, and reinfusion.
 - [In Vivo CAR-T](concepts/InVivoCART.md) — E235 route that moves CAR-T generation into the patient through injectable gene-delivery tools, trading manufacturing gains for specificity and dose-control challenges.
 - [Allogeneic CAR-T](concepts/AllogeneicCART.md) — Off-the-shelf donor-cell CAR-T route discussed in E235 as a cost/time workaround limited by rejection and persistence issues.
 - [Solid Tumor CAR-T Constraints](concepts/SolidTumorCARTConstraints.md) — E235 concept for why CAR-T struggles in solid tumors: infiltration, cell-count mismatch, persistence, and local immune suppression.
-- [Tumor Microenvironment](concepts/TumorMicroenvironment.md) — E235 concept for the suppressive local environment inside solid tumors that can weaken engineered immune cells.
+- [Tumor Microenvironment](concepts/TumorMicroenvironment.md) — Local immune context around tumors that shapes whether CAR-T or cancer-vaccine recognition can become tumor killing.
 - [Cytokine Release Syndrome](concepts/CytokineReleaseSyndrome.md) — CAR-T safety bottleneck in E235 where excessive immune activation creates dangerous inflammatory response.
 - [China Cell Therapy Regulatory Dual Track](concepts/ChinaCellTherapyRegulatoryDualTrack.md) — E235 frame for China's hospital technology-management, IIT, CDE drug-review, and commercialization boundary in cell therapy.
 - [AI Dubbing](concepts/AIDubbing.md) — E234 concept for AI voice reproduction versus context-sensitive human dubbing performance, including pauses, stress, imperfection, and scene judgment.
@@ -13713,7 +13714,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Multi-Perspective Murder Narration](concepts/MultiPerspectiveMurderNarration.md) — Narrative method in which many voices, images, colors, objects, and the murderer make viewpoint part of the mystery.
 - [Secular Happiness Against Ideology](concepts/SecularHappinessAgainstIdeology.md) — Literary frame for ordinary safety, marriage, children, and worldly happiness persisting inside grand art and identity conflicts.
 - [Life Sciences Workflow Software](concepts/LifeSciencesWorkflowSoftware.md) — Scientific-workflow software category for experiment design, data capture, analysis, and collaboration across university, biotech, and pharma work.
-- [Cancer Vaccine Platform](concepts/CancerVaccinePlatform.md) — Biotech strategy where vaccines are used to help the immune system recognize cancer cells, with Adventris starting from KRAS and localized pancreatic cancer.
+- [Cancer Vaccine Platform](concepts/CancerVaccinePlatform.md) — Vaccine-immunotherapy strategy that trains cancer recognition, now separating target-defined platforms from individualized mRNA cancer vaccines.
+- [Individualized Cancer Vaccine](concepts/IndividualizedCancerVaccine.md) — Patient-specific mRNA immunotherapy workflow using tumor information to reduce postoperative recurrence risk while preserving validation, cost, and cancer-type limits.
 - [KRAS Oncology Target](concepts/KRASOncologyTarget.md) — Mutation-target strategy used by Adventris as a cross-cancer entry point for cancer-vaccine development.
 - [Biotech Founder Control](concepts/BiotechFounderControl.md) — Governance pattern where SAFEs, board composition, and founder authority protect science-heavy clinical decisions from investor pressure.
 - [AI Collective Alignment](concepts/AICollectiveAlignment.md) — Emmett Shear's alignment frame where an agent understands itself, understands other agents, and recognizes when it belongs to a shared "we."
@@ -14191,7 +14193,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Medical Risk Management](concepts/MedicalRiskManagement.md) — Clinical safety frame explaining conservative advice, worst-case screening, system redundancy, and professional responsibility.
 - [Online Symptom Search Anxiety](concepts/OnlineSymptomSearchAnxiety.md) — Patient-side "Baidu syndrome" pattern where context-free symptom search amplifies health anxiety before clinical review.
 - [Medication Interaction Risk](concepts/MedicationInteractionRisk.md) — Medication-safety branch around alcohol, grapefruit, metabolism interactions, and patient disclosure.
-- [Preventive Health Screening](concepts/PreventiveHealthScreening.md) — Checkup and screening frame for detecting risk before symptoms, while preserving limits of self-exam and sponsor-linked insurance claims.
+- [Preventive Health Screening](concepts/PreventiveHealthScreening.md) — Checkup and early-detection frame linking personal screening, health-system follow-up, and the limits of relying on advanced treatment later.
 - [Online Appointment Registration](concepts/OnlineAppointmentRegistration.md) — Healthcare platform category where online booking reduces queueing friction but remains dependent on hospital supply and policy.
 - [Online Medical Consultation](concepts/OnlineMedicalConsultation.md) — Light-consultation category with real user value but hard pricing, quality, and downstream-medical-value capture.
 - [Pharmaceutical Ecommerce](concepts/PharmaceuticalEcommerce.md) — Online pharmacy and medicine-retail branch that proved more standardizable than diagnosis.

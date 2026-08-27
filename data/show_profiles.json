@@ -2724,9 +2724,16 @@
       "earliest_episode_date": "2026-08-04",
       "latest_episode_date": "2026-08-26",
       "latest_episode_file": "loFs520pS1eVva8naFSnRKcbvgJZ [loFs520pS1eVva8naFSnRKcbvgJZ].md",
-      "source_note_count": 0,
-      "topic_matched_source_note_count": 0,
-      "topics": [],
+      "source_note_count": 1,
+      "topic_matched_source_note_count": 1,
+      "topics": [
+        {
+          "key": "technology",
+          "label": "Technology",
+          "url": "/topics/technology/",
+          "source_note_count": 1
+        }
+      ],
       "entities": [],
       "start_here_episode_files": [
         "loFs520pS1eVva8naFSnRKcbvgJZ [loFs520pS1eVva8naFSnRKcbvgJZ].md",
