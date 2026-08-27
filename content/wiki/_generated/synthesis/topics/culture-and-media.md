@@ -3,38 +3,38 @@
 generated: true
 topic_id: culture-and-media
 title: "Culture and Media"
-last_updated: 2026-08-26
-as_of_overview_commit: 4b35054f03dc48c7ce9bd7a17814ce872937b75c
-input_digest: 04563d6082020c5dc89feb12e894dbd74d89a107ab1933f58acb03be05eee9d8
+last_updated: 2026-08-27
+as_of_overview_commit: 07701c86df8dada747e159d63be0fd0eaaa56fea
+input_digest: 69d8d0eec1a195480a4e0f5f18d81f1a84f635fdff48469e9d1e2ec292b25f63
 ---
 
 # Culture and Media
 
 ## Current State
 
-The cultural sources use literature, folklore, games, and media forms as tools for examining politics, identity, evidence, agency, and reception rather than treating works only as plots or entertainment objects. Hanji 955 adds that a famous fictionalized scene can preserve durable memory while still requiring source-bound attribution when used as historical evidence. The Andy Stalman episode extends this with brand as cultural meaning: product, story, place, sensory memory, and repeated organizational behavior shape identity without making brand evidence equivalent to literary or historical evidence.
+The cultural sources use literature, folklore, games, sports strategy, physical media, device histories, platform interfaces, and brands to examine politics, identity, evidence, agency, reception, and human meaning rather than treating culture only as plot or entertainment. The 70mm Marketplace Tech episode adds analog exhibition as cultural technology: old film formats can become current when material format, venue memory, scarce craft, and release-window demand reinforce one another. Existing branches keep source-bound attribution, rule-world folklore, weird fiction, AI interactive entertainment, brand meaning, and platform-shaped reading or listening distinct from pure nostalgia or marketing.
 
 ## Cross-source Findings
 
 ### Literature Functions As Human Experiment
 
-[[PoliticalConditionAsHumanExperiment]] uses fiction to expose how political conditions, speed, exile, and public performance reshape human behavior.
+[[PoliticalConditionAsHumanExperiment]] uses fiction to expose how political conditions, speed, exile, public performance, rule systems, and dependency reshape human behavior.
 
-**Evidence:** [[PoliticalConditionAsHumanExperiment]], [[PublicMoralPerformance]], [[SlownessAsModernityCritique]]
+**Evidence:** [[PoliticalConditionAsHumanExperiment]], [[PublicMoralPerformance]], [[SlownessAsModernityCritique]], [[AntiAuthoritarianEducation]], [[SafetyAsControl]], [[BuddhistLifeAffirmingLiterature]]
 
 **Qualifications:**
 
-- The claim is grounded mainly in the current Kundera branch.
+- The claim is grounded mainly in the current Kundera branch, with adjacent support from children's satire and modern Japanese fiction.
 
 ### Folklore Can Become Rule Bound Inquiry
 
-[[EvidenceBoundFolkloreInquiry]] and [[SettingBasedMystery]] show how inherited motifs can support source criticism or fair-play puzzle design.
+[[EvidenceBoundFolkloreInquiry]], [[SettingBasedMystery]], [[FolkTaleMysteryRewriting]], and [[HolmesPasticheTradition]] show how inherited motifs can support source criticism, fair-play puzzle design, or literary voice experiments.
 
-**Evidence:** [[EvidenceBoundFolkloreInquiry]], [[SettingBasedMystery]], [[FolkTaleMysteryRewriting]]
+**Evidence:** [[EvidenceBoundFolkloreInquiry]], [[SettingBasedMystery]], [[FolkTaleMysteryRewriting]], [[HolmesPasticheTradition]], [[DualManuscriptNarration]], [[OrientalistMysteryMisdirection]]
 
 **Qualifications:**
 
-- These are distinct uses of folklore and should not be collapsed into one genre rule.
+- These are distinct uses of folklore, mystery, and pastiche and should not be collapsed into one genre rule.
 
 ### Speculative Fiction Challenges Human Centrality
 
@@ -68,3 +68,25 @@ Hanji 955 adds a Three Kingdoms boundary case for [[FictionAsHistoricalEvidence]
 
 - The claim is grounded in a business interview rather than a cultural-history source, so it connects brand to identity without reducing literature, folklore, games, or media to marketing.
 - The brand rankings and economic figures remain source-scoped and are not required for the cultural identity claim.
+
+### Analog Exhibition Turns Format Into Cultural Event
+
+The 70mm Marketplace Tech source adds that [[AnalogMoviegoingExperience]] can make an old medium feel current when [[SeventyMillimeterFilmProjection]], [[AlexTheatre]], [[IMAX]], [[TheOdyssey]], and [[VideoStoreCulture]] connect format scarcity, venue memory, visible craft, and release-window demand.
+
+**Evidence:** [[tech-20260827-0827-mp-tech-pod-128-tech-20260827-0827-mp-tech-pod-128]], [[AnalogMoviegoingExperience]], [[SeventyMillimeterFilmProjection]], [[AlexTheatre]], [[IMAX]], [[TheOdyssey]], [[VideoStoreCulture]], [[AnalogMediaPreservation]], [[PhysicalVideoMediaRevival]]
+
+**Qualifications:**
+
+- The claim is source-scoped to one Marketplace Tech episode and one theater case.
+- The source's revenue ranking, Gen Z analog-interest claims, and apprenticeship signals should not be generalized without more evidence.
+
+### Interactive Media Needs Designed Systems
+
+[[AIInteractiveEntertainment]], [[AIInteractiveContentPlatforms]], and [[AISimulationContent]] become cultural systems only when rules, state, agency, creator roles, distribution, revenue sharing, and retention are designed around the generated material.
+
+**Evidence:** [[AIInteractiveEntertainment]], [[AIInteractiveContentPlatforms]], [[AISimulationContent]], [[AIGameIndustrialization]], [[AINPCSocialInfrastructure]], [[DesignedAgencyInGames]], [[CreationAsConsumption]], [[Mujian]], [[Roi]]
+
+**Qualifications:**
+
+- The claim spans AI entertainment paragraphs and should stay separate from purely technical AI capability claims.
+- Generated assets, companions, or demos do not by themselves prove durable games or social platforms.

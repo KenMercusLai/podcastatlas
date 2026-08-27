@@ -5,8 +5,11 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2518
+topic_total_pages: 2519
 topic_concepts:
+  - key: "SeventyMillimeterFilmProjection"
+    title: "70mm Film Projection"
+    url: "/wiki/concepts/seventymillimeterfilmprojection/"
   - key: "AcademicAIResearchRole"
     title: "Academic AI Research Role"
     url: "/wiki/concepts/academicairesearchrole/"

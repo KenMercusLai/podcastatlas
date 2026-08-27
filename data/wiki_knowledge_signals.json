@@ -1002,6 +1002,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/aimatechnology/"
     },
+    "AlexTheatre": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260827_0827_MP_TECH_pod_128 [tech_20260827_0827_MP_TECH_pod_128].md",
+          "key": "tech-20260827-0827-mp-tech-pod-128-tech-20260827-0827-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Why 70mm Film Still Feels Like the Hottest Movie Technology",
+          "url": "/wiki/sources/tech-20260827-0827-mp-tech-pod-128-tech-20260827-0827-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/alextheatre/"
+    },
     "AlgorithmicTrustMigration": {
       "episode_count": 1,
       "show_count": 1,
@@ -1049,6 +1065,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/amnestyexploitationcrime/"
+    },
+    "AnalogMoviegoingExperience": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260827_0827_MP_TECH_pod_128 [tech_20260827_0827_MP_TECH_pod_128].md",
+          "key": "tech-20260827-0827-mp-tech-pod-128-tech-20260827-0827-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Why 70mm Film Still Feels Like the Hottest Movie Technology",
+          "url": "/wiki/sources/tech-20260827-0827-mp-tech-pod-128-tech-20260827-0827-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/analogmoviegoingexperience/"
     },
     "AndrewHuberman": {
       "episode_count": 2,
@@ -9667,6 +9699,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/midmarketdatatalentgap/"
     },
+    "MilesWilliams": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260827_0827_MP_TECH_pod_128 [tech_20260827_0827_MP_TECH_pod_128].md",
+          "key": "tech-20260827-0827-mp-tech-pod-128-tech-20260827-0827-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Why 70mm Film Still Feels Like the Hottest Movie Technology",
+          "url": "/wiki/sources/tech-20260827-0827-mp-tech-pod-128-tech-20260827-0827-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/mileswilliams/"
+    },
     "MilitaryAIOversightCompression": {
       "episode_count": 1,
       "show_count": 1,
@@ -12175,6 +12223,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/selfconceptplasticity/"
+    },
+    "SeventyMillimeterFilmProjection": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260827_0827_MP_TECH_pod_128 [tech_20260827_0827_MP_TECH_pod_128].md",
+          "key": "tech-20260827-0827-mp-tech-pod-128-tech-20260827-0827-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Why 70mm Film Still Feels Like the Hottest Movie Technology",
+          "url": "/wiki/sources/tech-20260827-0827-mp-tech-pod-128-tech-20260827-0827-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/seventymillimeterfilmprojection/"
     },
     "ShanBingLateHan": {
       "episode_count": 2,

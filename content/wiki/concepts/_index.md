@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 5685
+wiki_total_pages: 5687
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1364,6 +1364,9 @@ wiki_pages:
   - key: "AnalogMediaPreservation"
     title: "Analog Media Preservation"
     url: "/wiki/concepts/analogmediapreservation/"
+  - key: "AnalogMoviegoingExperience"
+    title: "Analog Moviegoing Experience"
+    url: "/wiki/concepts/analogmoviegoingexperience/"
   - key: "AnalyticalSaaSCompression"
     title: "Analytical SaaS Compression"
     url: "/wiki/concepts/analyticalsaascompression/"

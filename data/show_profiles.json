@@ -538,8 +538,8 @@
       "earliest_episode_date": "2025-12-08",
       "latest_episode_date": "2026-08-27",
       "latest_episode_file": "tech_20260827_0827_MP_TECH_pod_128 [tech_20260827_0827_MP_TECH_pod_128].md",
-      "source_note_count": 133,
-      "topic_matched_source_note_count": 104,
+      "source_note_count": 134,
+      "topic_matched_source_note_count": 105,
       "topics": [
         {
           "key": "technology",
@@ -557,7 +557,7 @@
           "key": "culture",
           "label": "Culture",
           "url": "/topics/culture/",
-          "source_note_count": 14
+          "source_note_count": 15
         },
         {
           "key": "science",
@@ -627,7 +627,7 @@
       "start_here_episode_files": [
         "tech_20260826_0826_MP_TECH_pod_128 [tech_20260826_0826_MP_TECH_pod_128].md",
         "tech_20260820_TECH_pod_128 [tech_20260820_TECH_pod_128].md",
-        "tech_20260817_TECH_pod_128 [tech_20260817_TECH_pod_128].md",
+        "tech_20260827_0827_MP_TECH_pod_128 [tech_20260827_0827_MP_TECH_pod_128].md",
         "tech_20260818_TECH_pod_128 [tech_20260818_TECH_pod_128].md"
       ]
     },

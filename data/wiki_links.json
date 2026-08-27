@@ -3607,6 +3607,10 @@
     "title": "Alex Rosenberg",
     "url": "/wiki/entities/alexrosenberg/"
   },
+  "AlexTheatre": {
+    "title": "Alex Theatre",
+    "url": "/wiki/entities/alextheatre/"
+  },
   "AlexZhu": {
     "title": "Alex Zhu",
     "url": "/wiki/entities/alexzhu/"
@@ -4190,6 +4194,10 @@
   "AnalogMediaPreservation": {
     "title": "Analog Media Preservation",
     "url": "/wiki/concepts/analogmediapreservation/"
+  },
+  "AnalogMoviegoingExperience": {
+    "title": "Analog Moviegoing Experience",
+    "url": "/wiki/concepts/analogmoviegoingexperience/"
   },
   "AnalyticalSaaSCompression": {
     "title": "Analytical SaaS Compression",
@@ -32263,6 +32271,10 @@
     "title": "Milan Kundera / 米兰·昆德拉",
     "url": "/wiki/entities/milankundera/"
   },
+  "MilesWilliams": {
+    "title": "Miles Williams",
+    "url": "/wiki/entities/mileswilliams/"
+  },
   "MilestoneCommercialization": {
     "title": "Milestone Commercialization",
     "url": "/wiki/concepts/milestonecommercialization/"
@@ -42770,6 +42782,10 @@
   "SeventhGeneration": {
     "title": "Seventh Generation",
     "url": "/wiki/entities/seventhgeneration/"
+  },
+  "SeventyMillimeterFilmProjection": {
+    "title": "70mm Film Projection",
+    "url": "/wiki/concepts/seventymillimeterfilmprojection/"
   },
   "SeverinBorenstein": {
     "title": "Severin Borenstein",
@@ -58138,6 +58154,10 @@
   "tech-20260826-0826-mp-tech-pod-128-tech-20260826-0826-mp-tech-pod-128": {
     "title": "Can Meta Finally Make Smart Glasses Cool?",
     "url": "/wiki/sources/tech-20260826-0826-mp-tech-pod-128-tech-20260826-0826-mp-tech-pod-128/"
+  },
+  "tech-20260827-0827-mp-tech-pod-128-tech-20260827-0827-mp-tech-pod-128": {
+    "title": "Why 70mm Film Still Feels Like the Hottest Movie Technology",
+    "url": "/wiki/sources/tech-20260827-0827-mp-tech-pod-128-tech-20260827-0827-mp-tech-pod-128/"
   },
   "tengxun-ali-zijie-zhengduo-dagongren-hulianwang-dachang-weihe-jiti-jiama-ai-bangong-1008598460": {
     "title": "腾讯、阿里、字节争夺打工人，互联网大厂为何集体加码 AI 办公？",

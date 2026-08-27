@@ -4,28 +4,34 @@
       "global_candidate": true,
       "id": "literature-functions-as-human-experiment",
       "qualifications": [
-        "The claim is grounded mainly in the current Kundera branch."
+        "The claim is grounded mainly in the current Kundera branch, with adjacent support from children's satire and modern Japanese fiction."
       ],
-      "statement": "[[PoliticalConditionAsHumanExperiment]] uses fiction to expose how political conditions, speed, exile, and public performance reshape human behavior.",
+      "statement": "[[PoliticalConditionAsHumanExperiment]] uses fiction to expose how political conditions, speed, exile, public performance, rule systems, and dependency reshape human behavior.",
       "status": "supported",
       "supporting_wikilinks": [
         "PoliticalConditionAsHumanExperiment",
         "PublicMoralPerformance",
-        "SlownessAsModernityCritique"
+        "SlownessAsModernityCritique",
+        "AntiAuthoritarianEducation",
+        "SafetyAsControl",
+        "BuddhistLifeAffirmingLiterature"
       ]
     },
     {
       "global_candidate": false,
       "id": "folklore-can-become-rule-bound-inquiry",
       "qualifications": [
-        "These are distinct uses of folklore and should not be collapsed into one genre rule."
+        "These are distinct uses of folklore, mystery, and pastiche and should not be collapsed into one genre rule."
       ],
-      "statement": "[[EvidenceBoundFolkloreInquiry]] and [[SettingBasedMystery]] show how inherited motifs can support source criticism or fair-play puzzle design.",
+      "statement": "[[EvidenceBoundFolkloreInquiry]], [[SettingBasedMystery]], [[FolkTaleMysteryRewriting]], and [[HolmesPasticheTradition]] show how inherited motifs can support source criticism, fair-play puzzle design, or literary voice experiments.",
       "status": "supported",
       "supporting_wikilinks": [
         "EvidenceBoundFolkloreInquiry",
         "SettingBasedMystery",
-        "FolkTaleMysteryRewriting"
+        "FolkTaleMysteryRewriting",
+        "HolmesPasticheTradition",
+        "DualManuscriptNarration",
+        "OrientalistMysteryMisdirection"
       ]
     },
     {
@@ -82,8 +88,50 @@
         "TomorrowToday",
         "ConsumerBrandMoat"
       ]
+    },
+    {
+      "global_candidate": false,
+      "id": "analog-exhibition-turns-format-into-cultural-event",
+      "qualifications": [
+        "The claim is source-scoped to one Marketplace Tech episode and one theater case.",
+        "The source's revenue ranking, Gen Z analog-interest claims, and apprenticeship signals should not be generalized without more evidence."
+      ],
+      "statement": "The 70mm Marketplace Tech source adds that [[AnalogMoviegoingExperience]] can make an old medium feel current when [[SeventyMillimeterFilmProjection]], [[AlexTheatre]], [[IMAX]], [[TheOdyssey]], and [[VideoStoreCulture]] connect format scarcity, venue memory, visible craft, and release-window demand.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "tech-20260827-0827-mp-tech-pod-128-tech-20260827-0827-mp-tech-pod-128",
+        "AnalogMoviegoingExperience",
+        "SeventyMillimeterFilmProjection",
+        "AlexTheatre",
+        "IMAX",
+        "TheOdyssey",
+        "VideoStoreCulture",
+        "AnalogMediaPreservation",
+        "PhysicalVideoMediaRevival"
+      ]
+    },
+    {
+      "global_candidate": false,
+      "id": "interactive-media-needs-designed-systems",
+      "qualifications": [
+        "The claim spans AI entertainment paragraphs and should stay separate from purely technical AI capability claims.",
+        "Generated assets, companions, or demos do not by themselves prove durable games or social platforms."
+      ],
+      "statement": "[[AIInteractiveEntertainment]], [[AIInteractiveContentPlatforms]], and [[AISimulationContent]] become cultural systems only when rules, state, agency, creator roles, distribution, revenue sharing, and retention are designed around the generated material.",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "AIInteractiveEntertainment",
+        "AIInteractiveContentPlatforms",
+        "AISimulationContent",
+        "AIGameIndustrialization",
+        "AINPCSocialInfrastructure",
+        "DesignedAgencyInGames",
+        "CreationAsConsumption",
+        "Mujian",
+        "Roi"
+      ]
     }
   ],
-  "summary": "The cultural sources use literature, folklore, games, and media forms as tools for examining politics, identity, evidence, agency, and reception rather than treating works only as plots or entertainment objects. Hanji 955 adds that a famous fictionalized scene can preserve durable memory while still requiring source-bound attribution when used as historical evidence. The Andy Stalman episode extends this with brand as cultural meaning: product, story, place, sensory memory, and repeated organizational behavior shape identity without making brand evidence equivalent to literary or historical evidence.",
+  "summary": "The cultural sources use literature, folklore, games, sports strategy, physical media, device histories, platform interfaces, and brands to examine politics, identity, evidence, agency, reception, and human meaning rather than treating culture only as plot or entertainment. The 70mm Marketplace Tech episode adds analog exhibition as cultural technology: old film formats can become current when material format, venue memory, scarce craft, and release-window demand reinforce one another. Existing branches keep source-bound attribution, rule-world folklore, weird fiction, AI interactive entertainment, brand meaning, and platform-shaped reading or listening distinct from pure nostalgia or marketing.",
   "topic_id": "culture-and-media"
 }

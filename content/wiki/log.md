@@ -12174,6 +12174,10 @@ Added source page for The Rest Is History episode on Crown Prince Rudolf, Mary V
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-27] ingest | Why 70mm Film Still Feels Like the Hottest Movie Technology
+
+Added source page for the Marketplace Tech episode with Miles Williams on the Alex Theatre's 70mm retrofit for The Odyssey, IMAX 70mm versus standard 70mm and 35mm format differences, scarce legacy projection expertise, and analog moviegoing as a hard-to-reproduce event. Created Alex Theatre, Miles Williams, 70mm Film Projection, and Analog Moviegoing Experience pages. No direct contradiction found; revenue ranking, Gen Z analog-interest claims, and apprenticeship signals remain source-scoped.
+
 ## [2026-08-27] ingest | VOL.220对话大白牛/Under：莫德纳“定制抗癌疫苗”，离普通人有多远？
 
 Added source page for 这病说来话长 episode on Moderna/Merck's individualized melanoma mRNA cancer vaccine. Created Individualized Cancer Vaccine; migrated and updated Daba Niu Teacher, Moderna, Merck, Cancer Vaccine Platform, Cancer Immune Recognition Problem, Tumor Microenvironment, Preventive Health Screening, and AI Clinical Validation In Drug Discovery to synthesis-v1. No settled contradiction found; the episode qualifies headline "anticancer vaccine" optimism by keeping the therapy postoperative, therapeutic, melanoma-centered, clinically validated, costly, and patient-selection dependent rather than a universal preventive cancer shot.
@@ -12570,6 +12574,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-27] ingest | Advice Line with Daymond John of FUBU
 
 Added source page for the How I Built This Advice Line episode with Daymond John advising Sabor a Mexico Salsas, Raised Nutrition, and Cooks Who Feed. Created Daymond John, FUBU, Sabor a Mexico Salsas, Christopher Navarro, Raised Nutrition, Darcy (Raised Nutrition), Cooks Who Feed, Seema Sanghavi, Founder Pitch Evidence Fit, Small Retailer Channel Test, Niche Origin Story Expansion, and Mission-Aligned Vendor Switching pages; updated index and overview. No settled contradiction found; sales figures, meal counts, client examples, and channel recommendations remain source-scoped.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-27] lint | Wiki health check
 

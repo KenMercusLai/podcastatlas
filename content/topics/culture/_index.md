@@ -5,8 +5,11 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2247
+topic_total_pages: 2252
 topic_concepts:
+  - key: "SeventyMillimeterFilmProjection"
+    title: "70mm Film Projection"
+    url: "/wiki/concepts/seventymillimeterfilmprojection/"
   - key: "AbraxasWholeGodSymbolism"
     title: "Abraxas Whole-God Symbolism / 阿布拉克萨斯完整神象征"
     url: "/wiki/concepts/abraxaswholegodsymbolism/"
@@ -220,6 +223,9 @@ topic_concepts:
   - key: "AnalogMediaPreservation"
     title: "Analog Media Preservation"
     url: "/wiki/concepts/analogmediapreservation/"
+  - key: "AnalogMoviegoingExperience"
+    title: "Analog Moviegoing Experience"
+    url: "/wiki/concepts/analogmoviegoingexperience/"
   - key: "AnimalMoralProjection"
     title: "Animal Moral Projection"
     url: "/wiki/concepts/animalmoralprojection/"
@@ -2459,6 +2465,9 @@ topic_entities:
   - key: "AlexMaiassi"
     title: "Alex Maiassi"
     url: "/wiki/entities/alexmaiassi/"
+  - key: "AlexTheatre"
+    title: "Alex Theatre"
+    url: "/wiki/entities/alextheatre/"
   - key: "AlexanderPushkin"
     title: "Alexander Pushkin / 普希金"
     url: "/wiki/entities/alexanderpushkin/"
@@ -3542,6 +3551,9 @@ topic_entities:
   - key: "MilanKundera"
     title: "Milan Kundera / 米兰·昆德拉"
     url: "/wiki/entities/milankundera/"
+  - key: "MilesWilliams"
+    title: "Miles Williams"
+    url: "/wiki/entities/mileswilliams/"
   - key: "MinoanCivilization"
     title: "Minoan Civilization"
     url: "/wiki/entities/minoancivilization/"
@@ -6678,6 +6690,9 @@ topic_sources:
   - key: "tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128"
     title: "What do students lose when they rely on AI for homework?"
     url: "/wiki/sources/tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128/"
+  - key: "tech-20260827-0827-mp-tech-pod-128-tech-20260827-0827-mp-tech-pod-128"
+    title: "Why 70mm Film Still Feels Like the Hottest Movie Technology"
+    url: "/wiki/sources/tech-20260827-0827-mp-tech-pod-128-tech-20260827-0827-mp-tech-pod-128/"
   - key: "working-memory-the-surprising-decline-of-dementia-6a6b0eeca585d3be78cd9d1b"
     title: "Working memory: the surprising decline of dementia"
     url: "/wiki/sources/working-memory-the-surprising-decline-of-dementia-6a6b0eeca585d3be78cd9d1b/"

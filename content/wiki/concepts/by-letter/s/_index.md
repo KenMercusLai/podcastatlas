@@ -6,11 +6,14 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 5685
+wiki_total_pages: 5687
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
     url: "/wiki/concepts/sixtyfortyportfolio/"
+  - key: "SeventyMillimeterFilmProjection"
+    title: "70mm Film Projection"
+    url: "/wiki/concepts/seventymillimeterfilmprojection/"
   - key: "SmithStoryWorlds"
     title: "Clark Ashton Smith Story Worlds"
     url: "/wiki/concepts/smithstoryworlds/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Why 70mm Film Still Feels Like the Hottest Movie Technology](sources/tech-20260827-0827-mp-tech-pod-128-tech-20260827-0827-mp-tech-pod-128.md) — Marketplace Tech episode with Miles Williams on the Alex Theatre's 70mm retrofit for The Odyssey, IMAX/70mm/35mm format differences, scarce projection expertise, and analog moviegoing as an event.
 - [How to Improve Motivation & Overcome Procrastination | Dr. Masud Husain](sources/how-to-improve-motivation-overcome-procrastination-dr-masud-husain-scim3386045656.md) — Huberman Lab episode with Masud Husain on motivation, apathy, reward-effort calculation, dopamine, attention, ADHD, self-concept, addiction, and cognitive resilience.
 - [Advice Line with Daymond John of FUBU](sources/advice-line-with-daymond-john-of-fubu-0961848f-0f5a-4fb7-932c-3a04f08bc8d4.md) — How I Built This Advice Line episode with Daymond John on founder pitch evidence, staged retail tests, niche-origin expansion, and mission-aligned B2B vendor switching.
 - [Essentials: Diet & Nutrition for Mental Health | Dr. Chris Palmer](sources/essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786.md) — Huberman Lab Essentials episode with Chris Palmer on nutrition, ketogenic diets, epilepsy history, mitochondria, metabolic psychiatry, and supervised psychiatric medication boundaries.
@@ -1576,6 +1577,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Alex Theatre](entities/AlexTheatre.md) — Historic Glendale movie palace used by Marketplace Tech as a case of rapid 70mm retrofit and analog exhibition revival.
+- [Miles Williams](entities/MilesWilliams.md) — Alex Theatre artistic director explaining 70mm projection, retrofit constraints, and analog moviegoing appeal.
 - [Daymond John](entities/DaymondJohn.md) — FUBU founder and Advice Line guest using story, numbers, resilience, and staged proof to evaluate early founders.
 - [FUBU](entities/FUBU.md) — Daymond John's consumer brand used as operating context for small-store story transfer and retail proof.
 - [Sabor a Mexico Salsas](entities/SaborAMexicoSalsas.md) — Chicago family salsa brand advised to test small retailers before larger grocery expansion.
@@ -9527,6 +9530,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [70mm Film Projection](concepts/SeventyMillimeterFilmProjection.md) — Large-format analog projection treated as a format, venue-infrastructure, and skilled-labor constraint.
+- [Analog Moviegoing Experience](concepts/AnalogMoviegoingExperience.md) — Event value created by physical film projection, historic venues, visible craft, and communal screening.
 - [Founder Pitch Evidence Fit](concepts/FounderPitchEvidenceFit.md) — Pitch standard where founder story, customer insight, timing, numbers, and resilience reinforce one another.
 - [Small Retailer Channel Test](concepts/SmallRetailerChannelTest.md) — Limited local-store pilot used to test shelf behavior, story transfer, sampling, and replenishment before larger retail.
 - [Niche Origin Story Expansion](concepts/NicheOriginStoryExpansion.md) — Positioning move that keeps the first community origin while broadening the promise for adjacent customers.
