@@ -1050,6 +1050,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/amnestyexploitationcrime/"
     },
+    "AndrewHuberman": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2465421786 [SCIM2465421786].md",
+          "key": "essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786",
+          "show": "Huberman Lab",
+          "title": "Essentials: Diet & Nutrition for Mental Health | Dr. Chris Palmer",
+          "url": "/wiki/sources/essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/andrewhuberman/"
+    },
     "AndyBurnham": {
       "episode_count": 7,
       "show_count": 1,
@@ -2106,6 +2122,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/capuchincrypt/"
     },
+    "CarbohydrateRestrictionMentalHealth": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2465421786 [SCIM2465421786].md",
+          "key": "essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786",
+          "show": "Huberman Lab",
+          "title": "Essentials: Diet & Nutrition for Mental Health | Dr. Chris Palmer",
+          "url": "/wiki/sources/essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/carbohydraterestrictionmentalhealth/"
+    },
     "CareerCognitionEducation": {
       "episode_count": 2,
       "show_count": 1,
@@ -2566,6 +2598,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/chinesestylefde/"
+    },
+    "ChrisPalmer": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2465421786 [SCIM2465421786].md",
+          "key": "essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786",
+          "show": "Huberman Lab",
+          "title": "Essentials: Diet & Nutrition for Mental Health | Dr. Chris Palmer",
+          "url": "/wiki/sources/essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/chrispalmer/"
     },
     "CityPlacePremium": {
       "episode_count": 1,
@@ -6092,6 +6140,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/huaweismartselectioncarmodel/"
     },
+    "HubermanLab": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2465421786 [SCIM2465421786].md",
+          "key": "essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786",
+          "show": "Huberman Lab",
+          "title": "Essentials: Diet & Nutrition for Mental Health | Dr. Chris Palmer",
+          "url": "/wiki/sources/essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/hubermanlab/"
+    },
     "HumanRobotSafetyCertification": {
       "episode_count": 1,
       "show_count": 1,
@@ -7199,6 +7263,38 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/kencato/"
+    },
+    "KetogenicDietEpilepsyEvidence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2465421786 [SCIM2465421786].md",
+          "key": "essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786",
+          "show": "Huberman Lab",
+          "title": "Essentials: Diet & Nutrition for Mental Health | Dr. Chris Palmer",
+          "url": "/wiki/sources/essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/ketogenicdietepilepsyevidence/"
+    },
+    "KetogenicDietMentalHealth": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2465421786 [SCIM2465421786].md",
+          "key": "essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786",
+          "show": "Huberman Lab",
+          "title": "Essentials: Diet & Nutrition for Mental Health | Dr. Chris Palmer",
+          "url": "/wiki/sources/essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/ketogenicdietmentalhealth/"
     },
     "KimiDeltaAttention": {
       "episode_count": 2,
@@ -9004,6 +9100,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/mayerlingincident/"
     },
+    "MayoClinic": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2465421786 [SCIM2465421786].md",
+          "key": "essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786",
+          "show": "Huberman Lab",
+          "title": "Essentials: Diet & Nutrition for Mental Health | Dr. Chris Palmer",
+          "url": "/wiki/sources/essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/mayoclinic/"
+    },
     "McMurdoStation": {
       "episode_count": 1,
       "show_count": 1,
@@ -9153,6 +9265,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/merck/"
+    },
+    "MetabolicPsychiatry": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2465421786 [SCIM2465421786].md",
+          "key": "essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786",
+          "show": "Huberman Lab",
+          "title": "Essentials: Diet & Nutrition for Mental Health | Dr. Chris Palmer",
+          "url": "/wiki/sources/essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/metabolicpsychiatry/"
     },
     "Mianji": {
       "episode_count": 19,
@@ -9412,6 +9540,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/missionarymapknowledgeproduction/"
+    },
+    "MitochondrialMentalHealthModel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2465421786 [SCIM2465421786].md",
+          "key": "essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786",
+          "show": "Huberman Lab",
+          "title": "Essentials: Diet & Nutrition for Mental Health | Dr. Chris Palmer",
+          "url": "/wiki/sources/essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/mitochondrialmentalhealthmodel/"
     },
     "MitziKaspar": {
       "episode_count": 1,
@@ -9952,6 +10096,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/northernrising/"
+    },
+    "NutritionMentalHealth": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2465421786 [SCIM2465421786].md",
+          "key": "essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786",
+          "show": "Huberman Lab",
+          "title": "Essentials: Diet & Nutrition for Mental Health | Dr. Chris Palmer",
+          "url": "/wiki/sources/essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/nutritionmentalhealth/"
     },
     "Oakley": {
       "episode_count": 1,
@@ -10747,6 +10907,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/provisionalira/"
     },
+    "PsychiatricMedicationSupervisionBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2465421786 [SCIM2465421786].md",
+          "key": "essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786",
+          "show": "Huberman Lab",
+          "title": "Essentials: Diet & Nutrition for Mental Health | Dr. Chris Palmer",
+          "url": "/wiki/sources/essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/psychiatricmedicationsupervisionboundary/"
+    },
     "PunishmentAsMoralCredential": {
       "episode_count": 1,
       "show_count": 1,
@@ -11442,6 +11618,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/runancommanderylatehan/"
+    },
+    "RussellWilder": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2465421786 [SCIM2465421786].md",
+          "key": "essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786",
+          "show": "Huberman Lab",
+          "title": "Essentials: Diet & Nutrition for Mental Health | Dr. Chris Palmer",
+          "url": "/wiki/sources/essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/russellwilder/"
     },
     "SaltRevenueAgriculturalRecovery": {
       "episode_count": 1,

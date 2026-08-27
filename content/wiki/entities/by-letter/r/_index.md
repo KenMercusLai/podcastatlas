@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 7933
+wiki_total_pages: 7938
 wiki_pages:
   - key: "RachelReeves"
     title: "Rachel Reeves"
@@ -620,6 +620,9 @@ wiki_pages:
   - key: "RupertMurdoch"
     title: "Rupert Murdoch"
     url: "/wiki/entities/rupertmurdoch/"
+  - key: "RussellWilder"
+    title: "Russell Wilder"
+    url: "/wiki/entities/russellwilder/"
   - key: "Russia"
     title: "Russia"
     url: "/wiki/entities/russia/"

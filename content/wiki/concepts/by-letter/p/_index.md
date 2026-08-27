@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5668
+wiki_total_pages: 5675
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1301,6 +1301,9 @@ wiki_pages:
   - key: "PsychedelicLongevityHypothesis"
     title: "Psychedelic Longevity Hypothesis"
     url: "/wiki/concepts/psychedeliclongevityhypothesis/"
+  - key: "PsychiatricMedicationSupervisionBoundary"
+    title: "Psychiatric Medication Supervision Boundary"
+    url: "/wiki/concepts/psychiatricmedicationsupervisionboundary/"
   - key: "PsychicVampirePersonality"
     title: "Psychic Vampire Personality / 精神吸血鬼人格"
     url: "/wiki/concepts/psychicvampirepersonality/"

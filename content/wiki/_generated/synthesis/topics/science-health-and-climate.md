@@ -4,17 +4,28 @@ generated: true
 topic_id: science-health-and-climate
 title: "Science, Health, and Climate"
 last_updated: 2026-08-27
-as_of_overview_commit: 8386ee6f55025292f872bd92239aff32529d15f1
-input_digest: bb520390a5bd89679f4c8bbcdc6decf136c609cef30abd02982699a3417e78db
+as_of_overview_commit: 9a8be1d0407b46a54b51cc65350ea5eebc358842
+input_digest: d81f4526204e73d39c2f89ed9bca0fd495662381de54e2c8f9be03dfa3945f58
 ---
 
 # Science, Health, and Climate
 
 ## Current State
 
-Kratsios adds a federal science-policy branch: the New Golden Age agenda frames NIH/NSF reform, grant portfolios, energy abundance, AI-for-science, COVID trust repair, China competition, and STEM talent as a productivity problem, while implementation and politicization risks remain contested. Data Science With Sam EP47 adds a personal-health-data privacy case: local private AI can make sensitive records queryable without sending files or questions to public services, but health answers still need grounding, citations, refusal behavior, and verification. Science, health, climate, and space-engineering claims become credible when physical constraints, evidence, regulation, implementation cost, and operational follow-through stay visible: reusable rockets need repeatable recovery plus launch-site throughput, space growth needs pads, geography, licensing, and habitat review, climate work needs material and storage validation, scientific imagination stays evidence-bound, and risk products must map to concrete exposure. The Wudang episode adds a source-scoped medicine-and-cultivation qualifier: Chinese-medicine, nourishing-life, and belief practices are treated as embodied exploratory systems that may offer support under uncertainty, but they do not erase diagnosis, evidence limits, or ordinary bodily constraints. The Moderna/Merck episode adds a therapeutic oncology branch: individualized cancer vaccines remain postoperative/adjuvant melanoma treatment, not universal prevention; AI and mRNA can accelerate candidate selection and manufacturing, but immune context, clinical evidence, toxicity, cost, and quality-of-life tradeoffs govern use.
+Metabolic psychiatry adds a nutrition-and-mental-health branch: ketogenic diet, carbohydrate restriction, epilepsy precedent, and mitochondrial mechanisms make diet a plausible brain intervention, while psychiatric claims remain evidence-limited and professionally supervised. Kratsios adds a federal science-policy branch around NIH/NSF reform, grant portfolios, energy abundance, AI-for-science, COVID trust repair, China competition, and STEM talent, with implementation and politicization risks still contested. Data Science With Sam EP47 adds a personal-health-data privacy case: local private AI can make sensitive records queryable, but health answers still need grounding, citations, refusal behavior, and verification. Science, health, climate, and space-engineering claims become credible when physical constraints, evidence, regulation, implementation cost, and operational follow-through stay visible: reusable rockets need repeatable recovery plus launch-site throughput, space growth needs pads, geography, licensing, and habitat review, climate work needs material and storage validation, scientific imagination stays evidence-bound, and risk products must map to concrete exposure. The Wudang episode keeps medicine, cultivation, and belief practices embodied and source-scoped rather than clinical proof. The Moderna/Merck episode adds a therapeutic oncology branch: individualized cancer vaccines remain postoperative/adjuvant melanoma treatment, not universal prevention; AI and mRNA can accelerate candidate selection and manufacturing, but immune context, clinical evidence, toxicity, cost, and quality-of-life tradeoffs govern use.
 
 ## Cross-source Findings
+
+### Metabolic Psychiatry Needs Evidence And Supervision
+
+[[MetabolicPsychiatry]] adds a nutrition-and-mental-health branch: [[KetogenicDietMentalHealth]], [[CarbohydrateRestrictionMentalHealth]], [[KetogenicDietEpilepsyEvidence]], and [[MitochondrialMentalHealthModel]] make diet and ketosis plausible brain interventions, but [[PsychiatricMedicationSupervisionBoundary]] keeps severe illness and medication changes inside professional care.
+
+**Evidence:** [[MetabolicPsychiatry]], [[KetogenicDietMentalHealth]], [[CarbohydrateRestrictionMentalHealth]], [[KetogenicDietEpilepsyEvidence]], [[MitochondrialMentalHealthModel]], [[PsychiatricMedicationSupervisionBoundary]], [[essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786]]
+
+**Qualifications:**
+
+- The source reports clinical cases, personal experience, epilepsy precedent, and mitochondrial mechanism rather than completed large randomized psychiatric trials.
+- Severe disorders, medication changes, and high-ketosis psychiatric interventions remain medically supervised rather than general self-care advice.
 
 ### Space Launch Capacity Is Ground Infrastructure
 

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 7933
+wiki_total_pages: 7938
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -503,6 +503,9 @@ wiki_pages:
   - key: "MayerlingIncident"
     title: "Mayerling Incident"
     url: "/wiki/entities/mayerlingincident/"
+  - key: "MayoClinic"
+    title: "Mayo Clinic"
+    url: "/wiki/entities/mayoclinic/"
   - key: "McDonalds"
     title: "McDonald's"
     url: "/wiki/entities/mcdonalds/"

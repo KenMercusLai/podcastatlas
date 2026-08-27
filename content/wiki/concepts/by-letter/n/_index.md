@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 5668
+wiki_total_pages: 5675
 wiki_pages:
   - key: "NamingPowerSocialChange"
     title: "Naming Power In Social Change / 社会变革中的命名权"
@@ -305,6 +305,9 @@ wiki_pages:
   - key: "NudifyAppEcosystem"
     title: "Nudify App Ecosystem"
     url: "/wiki/concepts/nudifyappecosystem/"
+  - key: "NutritionMentalHealth"
+    title: "Nutrition and Mental Health"
+    url: "/wiki/concepts/nutritionmentalhealth/"
   - key: "NortheastModernityTestSite"
     title: "东北现代性试验场 / Northeast Modernity Test Site"
     url: "/wiki/concepts/northeastmodernitytestsite/"

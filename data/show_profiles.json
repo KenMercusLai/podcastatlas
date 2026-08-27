@@ -451,9 +451,16 @@
       "earliest_episode_date": "2020-12-21",
       "latest_episode_date": "2026-08-27",
       "latest_episode_file": "SCIM2465421786 [SCIM2465421786].md",
-      "source_note_count": 0,
-      "topic_matched_source_note_count": 0,
-      "topics": [],
+      "source_note_count": 1,
+      "topic_matched_source_note_count": 1,
+      "topics": [
+        {
+          "key": "science",
+          "label": "Science",
+          "url": "/topics/science/",
+          "source_note_count": 1
+        }
+      ],
       "entities": [],
       "start_here_episode_files": [
         "SCIM2465421786 [SCIM2465421786].md",

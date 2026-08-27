@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-27
-as_of_overview_commit: 3dd475ebc63dbb03251386d844b6df46201cfd8e
-summary: "Durable value depends on operational proof, trust boundaries, human judgment, institutions, validation, and platform conflict as AI, markets, science, and geopolitics shift."
-episode_count: 1565
-source_count: 1565
-paragraph_count: 295
+as_of_overview_commit: 9a8be1d0407b46a54b51cc65350ea5eebc358842
+summary: "Durable value depends on operational proof, trust boundaries, human judgment, institutions, validation, and supervision as AI, markets, health, science, and geopolitics shift."
+episode_count: 1566
+source_count: 1566
+paragraph_count: 296
 topic_count: 8
 ---
 
@@ -22,8 +22,8 @@ topic_count: 8
 - State capacity appears as enforceable controls over appointments, territory, households, standards, symbols, and punishment, but [[PowerExitTrap|exit traps]] and backlash show that control does not automatically create social support.
 - [[AIEmpireSovereigntyRisk]] extends the history-and-geopolitics topic into AI-era dependence: [[AlgorithmicTrustMigration]], [[ModelSovereignty]], and [[SovereignAIModels]] show how foreign-controlled AI systems can become cognitive and institutional infrastructure without formal conquest.
 - [[PositionSizing]], [[KellyCriterion]], and [[AveragingDown]] frame confidence as an exposure-management problem rather than permission to make an unlimited bet.
+- [[MetabolicPsychiatry]] adds a nutrition-and-mental-health branch: [[KetogenicDietMentalHealth]], [[CarbohydrateRestrictionMentalHealth]], [[KetogenicDietEpilepsyEvidence]], and [[MitochondrialMentalHealthModel]] make diet and ketosis plausible brain interventions, but [[PsychiatricMedicationSupervisionBoundary]] keeps severe illness and medication changes inside professional care.
 - [[IndividualizedCancerVaccine]] adds a therapeutic oncology branch: [[CancerVaccinePlatform]], [[CancerImmuneRecognitionProblem]], and [[TumorMicroenvironment]] make [[Moderna]]/[[Merck]]'s melanoma mRNA vaccine case a postoperative immune-recognition intervention, while [[AIClinicalValidationInDrugDiscovery]] may shorten patient-specific selection and manufacturing without replacing clinical validation, adverse-effect management, affordability, [[PreventiveHealthScreening]], or quality-of-life judgment.
-- Across software, AI services, CPG, climate hardware, mobile hardware, robotics, cybersecurity, banking, investing, and public building, capability claims become useful only after distribution, verification, supply chains, compliance, operations, customer trust, or pricing fit are solved.
 
 ## Synthesis by Domain
 
@@ -36,7 +36,7 @@ AI value depends on workflow integration, data readiness, verification, permissi
 
 ### Business and Markets
 
-Business value turns on demand proof, distribution, payment, trust, operating fit, timing, regulated validation, and platform-entry control; the Zhou/Qihoo branch adds China internet conflict as a trust-and-distribution case.
+Business value turns on demand proof, distribution, payment, trust, operating fit, timing, regulated validation, and platform-entry control across consumer, enterprise, AI, and China internet cases.
 
 - [[the-continent-nobody-owns-everyone-benefits-from-summer-school]] adds that market value can be created or protected by institutional design outside ordinary ownership: [[NonMarketEnvironmentalValuation]] makes [[Antarctica]] and [[SouthernOcean]] climate services visible, [[ParkingCostInternalization]] prices [[Tokyo]] street storage, [[ViennaSocialHousingScale]] uses nonprofit and public supply to affect rents, and [[ConsortioGroupFinancing]] formalizes mutual purchasing finance in [[Brazil]]. Evidence: [[the-continent-nobody-owns-everyone-benefits-from-summer-school]], [[NonMarketEnvironmentalValuation]], [[Antarctica]], [[SouthernOcean]], [[AntarcticClimateServices]], [[ParkingCostInternalization]], [[Tokyo]], [[ViennaSocialHousingScale]], [[Vienna]], [[ConsortioGroupFinancing]], [[Brazil]], [[ExternalityInternalization]], [[HousingAffordabilitySupplyMechanics]].
 - [[CustomerPull]], [[ProductLedWillingnessToPay]], and [[PreProductSelling]] become durable only when distribution, buyer-commitment, payment proof, and operating gates such as [[CPGDistribution]], [[RetailLineReview]], [[PlanogramGatekeeping]], [[RetailPricePointProductScoping]], [[MassRetailProductionDeadline]], [[EnterprisePOCDiscipline]], [[EnterpriseCustomerAsMarket]], [[AIOfficeAgent]], and [[RobotRepurchaseDemand]] can repeatedly deliver value after initial attention. Evidence: [[CustomerPull]], [[ProductLedWillingnessToPay]], [[PreProductSelling]], [[CPGDistribution]], [[RetailLineReview]], [[PlanogramGatekeeping]], [[RetailPricePointProductScoping]], [[MassRetailProductionDeadline]], [[EnterprisePOCDiscipline]], [[EnterpriseCustomerAsMarket]], [[Templafy]], [[RobotRepurchaseDemand]], [[AIOfficeAgent]], [[AICommercializationPressure]], [[AIConsumerGrowthMetrics]], [[AIInferenceCostStructure]], [[DingTalk]], [[Feishu]], [[TencentWorkBuddy]], [[DoubaoWork]], [[tengxun-ali-zijie-zhengduo-dagongren-hulianwang-dachang-weihe-jiti-jiama-ai-bangong-1008598460]], [[ep-46-fix-the-foundation-first-why-your-data-strategy-is-failing-before-the-ai-gets-involved]], [[MidMarketDataTalentGap]], [[ParadoxMachines]].
@@ -56,7 +56,7 @@ Governance value depends on enforceable boundaries, implementation capacity, leg
 
 ### History and Geopolitics
 
-Historical and geopolitical cases show power moving through enforceable systems, alliances, infrastructure, title legitimacy, technology ecosystems, sovereignty risks, platform-era business history, and source-scoped timing.
+Historical and geopolitical cases show power moving through enforceable systems, alliances, infrastructure, title legitimacy, technology ecosystems, sovereignty risks, and source-scoped timing.
 
 - [[UnderseaDataCables]] show contemporary geopolitics moving into physical internet routes: [[UnitedStates]] funding for [[Caribbean]] and [[CentralAmerica]] cable replacement, competition with [[China]], vendor concerns involving [[Russia]], [[CableLandingPointSecurity]], and [[CableNetworkResilience]] make cloud and financial connectivity part of strategic infrastructure rather than only telecom operations. Evidence: [[UnderseaDataCables]], [[UnitedStates]], [[Caribbean]], [[CentralAmerica]], [[China]], [[Russia]], [[CableLandingPointSecurity]], [[CableNetworkResilience]], [[TrustedNetworkGeopolitics]], [[DigitalInfrastructureWarRisk]], [[RegionalNetworkTopologyRisk]], [[AsymmetricInfrastructureAttack]], [[MarketplaceTech]], [[ErinMurphy]], [[tech-20260820-tech-pod-128-tech-20260820-tech-pod-128]].
 - The Hanji 992, 1002, and 1015-1016 branch makes late-Han title order a strategic condition: [[EmperorXianOfHan]]'s ruined Anyi and Chang'an context keeps [[MingqiLegitimacy]] symbolically active but materially thin, [[JuShou]] sees [[LegitimacyWindowSeizure]] for [[YuanShao]] before [[GuoTu]] and [[ChunyuQiong]] help Yuan Shao miss it, [[SunCe]] treats [[YuanShu]]'s planned imperial title as a [[MoralizedWarPretext]] and exits, [[XunYu]] turns the emperor's recognition into [[LegitimacyWindowSeizure]] for [[CaoCao]], Yuan Shu's later Shouchun claim outruns [[TitleRealityRestraint]] and creates [[AntiUsurpationCoalitionPressure]], and [[ChenGui]] blocks [[MarriageAllianceWarExposure]] around [[LyuBu]] and [[Xuzhou]]. Evidence: [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz]], [[EmperorXianOfHan]], [[ChangAnHanCapital]], [[GuanzhongRegion]], [[MingqiLegitimacy]], [[JuShou]], [[LegitimacyWindowSeizure]], [[YuanShao]], [[GuoTu]], [[ChunyuQiong]], [[WartimeAgriculturalLaborCollapse]], [[FamineEntitlementFailure]], [[SunCe]], [[YuanShu]], [[MoralizedWarPretext]], [[XunYu]], [[CaoCao]], [[TitleRealityRestraint]], [[AntiUsurpationCoalitionPressure]], [[ChenGui]], [[MarriageAllianceWarExposure]], [[LyuBu]], [[Xuzhou]], [[XingshiqingStrategicAssessment]], [[GuoJia]], [[ZhongYao]].
@@ -70,10 +70,10 @@ Personal and collective judgment depends on trust, pacing, reputation, self-regu
 
 ### Science, Health, and Climate
 
-Science, health, climate, and space claims become credible when evidence, physical constraints, regulation, implementation cost, validation, and operational follow-through stay visible.
+Science, health, climate, and space claims become credible when evidence, physical constraints, regulation, validation, supervision, and operational follow-through stay visible.
 
+- [[MetabolicPsychiatry]] adds a nutrition-and-mental-health branch: [[KetogenicDietMentalHealth]], [[CarbohydrateRestrictionMentalHealth]], [[KetogenicDietEpilepsyEvidence]], and [[MitochondrialMentalHealthModel]] make diet and ketosis plausible brain interventions, but [[PsychiatricMedicationSupervisionBoundary]] keeps severe illness and medication changes inside professional care. Evidence: [[MetabolicPsychiatry]], [[KetogenicDietMentalHealth]], [[CarbohydrateRestrictionMentalHealth]], [[KetogenicDietEpilepsyEvidence]], [[MitochondrialMentalHealthModel]], [[PsychiatricMedicationSupervisionBoundary]], [[essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786]].
 - [[SpaceEconomyInfrastructure]] depends on [[SpaceLaunchCapacityBottleneck]], [[SpaceportSitingConstraint]], and [[SpaceLaunchEnvironmentalReview]] because [[CommercialSatelliteConstellations]] and [[ReusableRocketEconomics]] only become usable cadence when pads, ports, airspace, licensing, and habitat review are workable. Evidence: [[SpaceEconomyInfrastructure]], [[SpaceLaunchCapacityBottleneck]], [[SpaceportSitingConstraint]], [[SpaceLaunchEnvironmentalReview]], [[CommercialSatelliteConstellations]], [[ReusableRocketEconomics]].
-- [[ClimateAdaptation]], [[LowCarbonConstructionMaterials]], and [[CarbonStoragePermanence]] depend on material performance, permitting, cost, and verification as well as technical feasibility. Evidence: [[ClimateAdaptation]], [[LowCarbonConstructionMaterials]], [[CarbonStoragePermanence]].
 
 ### Work, Education, and Society
 

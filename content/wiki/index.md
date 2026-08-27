@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Essentials: Diet & Nutrition for Mental Health | Dr. Chris Palmer](sources/essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786.md) — Huberman Lab Essentials episode with Chris Palmer on nutrition, ketogenic diets, epilepsy history, mitochondria, metabolic psychiatry, and supervised psychiatric medication boundaries.
 - [No.216 ⚔️ 「十步杀一人」：红衣大炮周鸿祎的三十年全面战争史 | 中国互联网故事 27](sources/no-216-shi-bu-sha-yi-ren-hongyi-dapao-zhouhongyi-de-sanshinian-quanmian-zhanzhengshi-zhongguo-hulianwang-gushi-27-1008693437.md) — Banlatte episode on Zhou Hongyi, 3721, Yahoo China, Qihoo 360, free antivirus, 3Q, search wars, mobile distribution, enterprise security, investing, and founder-media identity.
 - [VOL.220对话大白牛/Under：莫德纳“定制抗癌疫苗”，离普通人有多远？](sources/vol-220-duihua-dabainiu-under-modena-dingzhi-kangai-yimiao-li-putongren-you-duoyuan-lofs520ps1evva8nafsnrkcbvgjz.md) — 这病说来话长 episode with 大白牛/Under on Moderna/Merck's individualized melanoma mRNA vaccine, therapeutic/adjuvant use, immune-recognition limits, AI-assisted feature extraction, cost, validation, and screening.
 - [Vol.272 2026年了，怎么还有人要做中国版Airbnb？](sources/vol-272-2026-nian-le-zenme-hai-you-ren-yao-zuo-zhongguo-ban-airbnb-1008880863.md) — 商业就是这样 episode with 谭丁 on 一间次卧, Chinese spare-bedroom sharing, housing cash-flow pressure, low-price local lodging, trust/fulfillment, brand placement, AI/RAG search, and one-person company operations.
@@ -1573,6 +1574,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Huberman Lab](entities/HubermanLab.md) — Health and neuroscience show context for the Essentials episode on nutrition, ketosis, and mental health.
+- [Andrew Huberman](entities/AndrewHuberman.md) — Host framing the nutrition and mental health discussion with Chris Palmer.
+- [Chris Palmer](entities/ChrisPalmer.md) — Psychiatrist grounding the episode's metabolic psychiatry, ketogenic diet, and mitochondrial mental-health claims.
+- [Russell Wilder](entities/RussellWilder.md) — Mayo Clinic physician named as the 1921 developer of the ketogenic diet for epilepsy.
+- [Mayo Clinic](entities/MayoClinic.md) — Medical institution used as the historical origin context for ketogenic diet epilepsy treatment.
 - [周鸿祎 / Zhou Hongyi](entities/ZhouHongyi.md) — Founder figure connecting 3721, Yahoo China, Qihoo 360, free security, 3Q, search, investing, and founder-media identity.
 - [Qihoo 360 / 奇虎 360](entities/Qihoo360.md) — Chinese security and internet company built around free security software, browser traffic, search, mobile distribution, and big-security repositioning.
 - [3721](entities/3721.md) — Chinese-keyword access product/company that became both an early web-entry innovation and a browser-plugin controversy.
@@ -9510,6 +9516,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Nutrition and Mental Health](concepts/NutritionMentalHealth.md) — Clinical frame treating diet, glucose, insulin, ketosis, and metabolism as possible mental-health variables.
+- [Metabolic Psychiatry](concepts/MetabolicPsychiatry.md) — Framework connecting psychiatric symptoms to metabolism, nutrition, mitochondrial function, inflammation, hormones, and stress response.
+- [Ketogenic Diet and Mental Health](concepts/KetogenicDietMentalHealth.md) — Source-scoped psychiatric intervention branch where ketosis is treated as clinically relevant but safety- and evidence-bounded.
+- [Ketogenic Diet Epilepsy Evidence](concepts/KetogenicDietEpilepsyEvidence.md) — Historical neurological evidence base for ketogenic diet as a brain treatment.
+- [Mitochondrial Mental Health Model](concepts/MitochondrialMentalHealthModel.md) — Palmer's mechanism model linking mitochondria to neurotransmitters, hormones, stress, inflammation, and psychiatric symptoms.
+- [Psychiatric Medication Supervision Boundary](concepts/PsychiatricMedicationSupervisionBoundary.md) — Safety boundary requiring professional supervision for psychiatric medication changes and severe mental illness interventions.
+- [Carbohydrate Restriction and Mental Health](concepts/CarbohydrateRestrictionMentalHealth.md) — Lower-intensity dietary branch around reducing sweets, processed foods, glucose, and insulin without full ketosis.
 - [Chinese Internet Entry-Point Competition / 中文互联网入口竞争](concepts/ChineseInternetEntryPointCompetition.md) — Recurring fight to control user access through keywords, plugins, browsers, navigation pages, search defaults, security tools, mobile assistants, and app stores.
 - [Free Security Software Strategy / 免费安全软件策略](concepts/FreeSecuritySoftwareStrategy.md) — Using free antivirus, cleanup, browser, and system-protection tools to build user trust, distribution, and traffic power.
 - [Chinese Internet Platform Wars / 中文互联网平台战争](concepts/ChineseInternetPlatformWars.md) — High-intensity platform conflict using client software, defaults, public accusation, lawsuits, media pressure, and user lock-in.

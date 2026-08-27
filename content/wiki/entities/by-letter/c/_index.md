@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 7933
+wiki_total_pages: 7938
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -626,6 +626,9 @@ wiki_pages:
   - key: "ChrisKane"
     title: "Chris Kane"
     url: "/wiki/entities/chriskane/"
+  - key: "ChrisPalmer"
+    title: "Chris Palmer"
+    url: "/wiki/entities/chrispalmer/"
   - key: "ChrisQuinn"
     title: "Chris Quinn"
     url: "/wiki/entities/chrisquinn/"

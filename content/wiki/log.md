@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-27] ingest | Essentials: Diet & Nutrition for Mental Health | Dr. Chris Palmer
+
+Added source page for a Huberman Lab Essentials episode with Chris Palmer on nutrition, ketogenic diets, epilepsy history, mitochondria, and metabolic psychiatry. Created Huberman Lab, Andrew Huberman, Chris Palmer, Russell Wilder, Mayo Clinic, Nutrition and Mental Health, Metabolic Psychiatry, Ketogenic Diet and Mental Health, Ketogenic Diet Epilepsy Evidence, Mitochondrial Mental Health Model, Psychiatric Medication Supervision Boundary, and Carbohydrate Restriction and Mental Health pages. No settled contradiction found; the source keeps psychiatric ketogenic claims promising but developing, with severe disorders and medication changes bounded by professional supervision.
+
 ## [2026-08-27] ingest | No.216 ⚔️ 「十步杀一人」：红衣大炮周鸿祎的三十年全面战争史 | 中国互联网故事 27
 
 Added source page for Banlatte episode 216: Zhou Hongyi's arc from early computing, student ventures, 3721, Yahoo China, Qihoo 360, free antivirus, 3Q, search wars, mobile distribution, enterprise security, investing, and founder-media identity. Created Zhou Hongyi, Qihoo 360, 3721, Yahoo China, Qi Xiangdong, 3Q War, Chinese Internet Entry-Point Competition, Free Security Software Strategy, and Chinese Internet Platform Wars pages. No settled contradiction found; legal outcomes, market-share figures, finance data, investment amounts, and 2025-2026 operating claims remain source-scoped.
@@ -12532,6 +12536,10 @@ Ran health, identity validation, and lint. Health scanned 15,142 wiki pages with
 ## [2026-08-27] ingest | Vol.272 2026年了，怎么还有人要做中国版Airbnb？
 
 Added source page for a 商业就是这样 episode with 谭丁 on 一间次卧, China's spare-bedroom sharing opportunity, housing cash-flow pressure, low-price local lodging, female guest safety, payment custody, host verification, brand-product barter, AI/RAG search, and one-person company operations. Created Tan Ding, 一间次卧, Tujia, Xiaozhu, China Home-Sharing Supply Motivation, Bedroom Homestay Platform Trust, and Non-Standard Lodging Search pages; migrated Hotel Retail Flywheel to synthesis-v1 and extended it from chain-hotel bedding retail into broader lodging-room product trial. No settled contradiction found; macro statistics, platform metrics, host/guest percentages, and regulatory observations are kept source-scoped to the episode.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-27] lint | Wiki health check
 

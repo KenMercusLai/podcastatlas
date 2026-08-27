@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "11ed9373f4a2e830124b00d733415b16da01a3debf8df811edd060b9b8535ba4",
       "8a771097ddfd7388b548e15df7342514d4c5e1ff50b05589df78e1a5686991fe",
       "dc98d131ed052a652502cdaeff98d62afa8260b54c97d6b3770e26614c669e34",
       "1e3f0cf2b934b228b40cb12ac7fd7fe96511b93637dac905e00bfc60aa089ec7",
@@ -297,11 +298,41 @@
       "6bd28c470f6e9c123dc24d79e82dbcfb73e9f49f777bfd2b02744df233e9e914",
       "16d531495e2a6294ae198d0b95a352e519f488fcca1dbdae1f416758d1cfa576"
     ],
-    "paragraph_count": 295
+    "paragraph_count": 296
   },
-  "overview_commit": "3dd475ebc63dbb03251386d844b6df46201cfd8e",
-  "overview_digest": "c48a3b17a87ed3a96c8733aa941d109a0cd69ca4f4c4075c6965dacb26c2e99c",
+  "overview_commit": "9a8be1d0407b46a54b51cc65350ea5eebc358842",
+  "overview_digest": "56023c0317360aece6e1329d620a8c7a944972860cf83dd457e88a882906c683",
   "paragraphs": [
+    {
+      "id": "11ed9373f4a2e830124b00d733415b16da01a3debf8df811edd060b9b8535ba4",
+      "primary_topic": "science-health-and-climate",
+      "secondary_topics": [],
+      "text": "The latest addition is [[essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786|Essentials: Diet & Nutrition for Mental Health | Dr. Chris Palmer]], a [[HubermanLab]] Essentials episode with [[AndrewHuberman]] and [[ChrisPalmer]] on nutrition, ketogenic diets, epilepsy history, and metabolic psychiatry. It adds [[HubermanLab]], [[AndrewHuberman]], [[ChrisPalmer]], [[RussellWilder]], [[MayoClinic]], [[NutritionMentalHealth]], [[MetabolicPsychiatry]], [[KetogenicDietMentalHealth]], [[KetogenicDietEpilepsyEvidence]], [[MitochondrialMentalHealthModel]], [[PsychiatricMedicationSupervisionBoundary]], and [[CarbohydrateRestrictionMentalHealth]], while linking to [[MedicalRiskManagement]], [[MitochondrialTherapy]], and [[DietaryConstraintProductInsight]]. Its core synthesis is that nutrition can be a clinically meaningful psychiatric variable, especially when ketogenic interventions reach ketosis, but the psychiatric evidence remains source-scoped and safety-bounded: serious disorders, medication changes, and high ketone targets require professional supervision, and the mitochondrial mechanism is a unifying hypothesis rather than settled proof. No settled contradiction is recorded; the source distinguishes century-old epilepsy use from still-developing mental-health trials.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "business-and-markets": 1,
+        "history-and-geopolitics": 1,
+        "science-health-and-climate": 2
+      },
+      "wikilinks": [
+        "AndrewHuberman",
+        "CarbohydrateRestrictionMentalHealth",
+        "ChrisPalmer",
+        "DietaryConstraintProductInsight",
+        "HubermanLab",
+        "KetogenicDietEpilepsyEvidence",
+        "KetogenicDietMentalHealth",
+        "MayoClinic",
+        "MedicalRiskManagement",
+        "MetabolicPsychiatry",
+        "MitochondrialMentalHealthModel",
+        "MitochondrialTherapy",
+        "NutritionMentalHealth",
+        "PsychiatricMedicationSupervisionBoundary",
+        "RussellWilder",
+        "essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786"
+      ]
+    },
     {
       "id": "8a771097ddfd7388b548e15df7342514d4c5e1ff50b05589df78e1a5686991fe",
       "primary_topic": "governance-and-institutions",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 5668
+wiki_total_pages: 5675
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -143,6 +143,9 @@ wiki_pages:
   - key: "CARTCellTherapy"
     title: "CAR-T Cell Therapy"
     url: "/wiki/concepts/cartcelltherapy/"
+  - key: "CarbohydrateRestrictionMentalHealth"
+    title: "Carbohydrate Restriction and Mental Health"
+    url: "/wiki/concepts/carbohydraterestrictionmentalhealth/"
   - key: "CarbonPlateRacingShoes"
     title: "Carbon Plate Racing Shoes"
     url: "/wiki/concepts/carbonplateracingshoes/"

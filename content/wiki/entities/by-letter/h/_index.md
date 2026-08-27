@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 7933
+wiki_total_pages: 7938
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -566,6 +566,9 @@ wiki_pages:
   - key: "Hubei"
     title: "Hubei / 湖北"
     url: "/wiki/entities/hubei/"
+  - key: "HubermanLab"
+    title: "Huberman Lab"
+    url: "/wiki/entities/hubermanlab/"
   - key: "HuggingFace"
     title: "Hugging Face"
     url: "/wiki/entities/huggingface/"

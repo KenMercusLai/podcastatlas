@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 5668
+wiki_total_pages: 5675
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -488,6 +488,9 @@ wiki_pages:
   - key: "MetaModelTrainingCurvePrediction"
     title: "Meta-Model Training Curve Prediction"
     url: "/wiki/concepts/metamodeltrainingcurveprediction/"
+  - key: "MetabolicPsychiatry"
+    title: "Metabolic Psychiatry"
+    url: "/wiki/concepts/metabolicpsychiatry/"
   - key: "MethodicDoubt"
     title: "Methodic Doubt"
     url: "/wiki/concepts/methodicdoubt/"
@@ -620,6 +623,9 @@ wiki_pages:
   - key: "MistrustTriggeredMissionLaunch"
     title: "Mistrust-Triggered Mission Launch / 疑忌触发式出发"
     url: "/wiki/concepts/mistrusttriggeredmissionlaunch/"
+  - key: "MitochondrialMentalHealthModel"
+    title: "Mitochondrial Mental Health Model"
+    url: "/wiki/concepts/mitochondrialmentalhealthmodel/"
   - key: "MitochondrialTherapy"
     title: "Mitochondrial Therapy"
     url: "/wiki/concepts/mitochondrialtherapy/"
