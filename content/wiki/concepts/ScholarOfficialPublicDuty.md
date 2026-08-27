@@ -1,59 +1,60 @@
 ---
 title: "Scholar-Official Public Duty / 士大夫公共责任"
 type: concept
-tags: [governance, literature, china, song-dynasty, late-han, ethics]
+tags: [scholar-officials, public-duty, governance, intellectual-life]
 sources:
   - 105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645
   - 19-huangye-shang-de-dashi-wo-bei-yu-luanshi-qiu-yanjiu-ben-wei-niliu-zhi-wangju-565412437
   - zizhi-tongjian-hanji-875-li-dapu-weihe-ta-yi-ruyu-wei-rong-lgffkjk-0yu-ehfsw59anoych-ld
-last_updated: 2026-08-27
+  - zizhi-tongjian-hanji-859-gudai-haoren-weishenme-nan-dang-haoguan-llkyx18ssvserxncvrtkw7xfduad
+last_updated: 2026-08-28
 knowledge_schema: synthesis-v1
 ---
 
 ## Definition
 
-Scholar-official public duty is the obligation to turn learning, office, writing, reputation, or elite judgment into public service: practical care, institutional work, talent recommendation, correction of wrongdoing, and responsibility to people beyond private self-cultivation.
+Scholar-Official Public Duty is the ethic that literate, institutionally trained elites should use learning, judgment, and office to serve public order, even when doing so costs status, comfort, safety, or private advantage.
 
 ## Current Synthesis
 
-The concept now spans late Han, Song local governance, and modern scholarship under crisis. Hanji 875 gives the earliest political-ethics layer through [[DuMiLateHan|杜密]]. Du Mi criticizes Liu Sheng's closed-door self-protection because a士人 with judgment should recommend worthy people and expose those who violate the right way. In this form, public duty is not just clean withdrawal; it is the willingness to use reputation and access to improve the personnel and moral field.
+The concept now spans literary life, modern scholarship, and late-Han office behavior. Su Shi represents public duty as cultivated temperament and administrative care: talent is not private display alone but a capacity to respond to public need with resilience and humane judgment. The Huangye source turns the same pattern toward modern intellectual work, where research under crisis resists both retreat and opportunism.
 
-The Su Shi source gives the local-governance layer. [[SuShi|苏轼]] is not valuable only because he writes poems, makes jokes, eats well, or survives exile. He is valuable because literary brilliance coexists with concrete concern for ordinary people: tax burdens, damaging policy implementation, flood response, water work, public health, bridges, burial work, education, and presence in neglected places.
+The late-Han material sharpens the political cost. In Hanji 859, [[HuangfuGuiLateHan|皇甫规]] recommends [[ZhangHuanLateHan|张奂]] for a higher frontier command and accepts a lower role because public military need outranks his title. [[ZhuMuLateHan|朱穆]] expresses the same duty through remonstrance, arguing that close-attendant offices should be staffed by upright, institutionally literate people rather than eunuchs. The first action succeeds because it solves an urgent frontier problem; the second fails because it attacks [[PalaceProximityPower|palace proximity power]] that the ruler wants to keep.
 
-The Huangye source gives a modern academic layer. [[HuShi|胡适]], [[DingWenjiang|丁文江]], [[FuSinian|傅斯年]], and 翁文灏 show the dilemma of scholars who want to preserve research but are pulled toward diplomacy, administration, public criticism, or government service under national crisis. Across these layers, public duty is not anti-intellectual; it asks whether intellect remains answerable to public need.
+Hanji 875 adds the punishment layer: honorable士人 can treat persecution as moral evidence when the regime criminalizes upright association. The resulting synthesis is not naive. Public duty can recommend better talent, remonstrate against harmful institutions, govern humanely, and endure punishment, but it does not guarantee effectiveness when the power structure benefits from the very disorder being criticized.
 
 ## Key Claims
 
-- Learning and reputation carry public obligations when they can help identify talent, correct wrongdoing, or reduce harm.
-- Practical governance counts as intellectual duty when it delivers water, food, medicine, records, bridges, relief, education, or local repair.
-- Public intellectual courage is tested by whether writing and speech remain answerable to vulnerable people.
-- Institution building and research preservation can be public duty under national crisis, even when they consume private scholarly life.
-- Closed-door purity is insufficient when office, judgment, or reputation could be used to recommend worthy people and expose corrupt conduct.
+- Public duty converts learning and judgment into service rather than treating cultivation as private distinction.
+- A scholar-official may fulfill duty by recommending a more capable person even when that lowers personal status.
+- Remonstrance is a duty practice when institutional drift harms public order.
+- The ethic carries risk because upright advice may threaten the ruler's private access, favorites, or control mechanisms.
+- Persecution can become moral credential when punishment marks refusal to abandon public responsibility.
+- Public duty is strongest when paired with political diagnosis; moral clarity alone may not move a hostile institution.
 
 ## Evidence
 
-- Recommendation and correction: [[zizhi-tongjian-hanji-875-li-dapu-weihe-ta-yi-ruyu-wei-rong-lgffkjk-0yu-ehfsw59anoych-ld|Hanji 875]] says Du Mi criticizes Liu Sheng for not recommending good people or exposing evil, framing self-protective silence as public failure.
-- Talent recognition: [[zizhi-tongjian-hanji-875-li-dapu-weihe-ta-yi-ruyu-wei-rong-lgffkjk-0yu-ehfsw59anoych-ld|Hanji 875]] says Du Mi recognizes Zheng Xuan and routes him toward Taixue study, making personnel discernment part of duty.
-- Local service as duty: [[105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645]] ties Su Shi's literary value to tax memorials, flood response in [[Xuzhou|徐州]], water and public-health work in [[Hangzhou|杭州]], bridge and burial work in [[Huizhou|惠州]], and education or presence in [[Danzhou|儋州]].
-- Writing answerable to people: [[105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645]] presents Su Shi's talent as morally important because it remains connected to ordinary people's material conditions.
-- Modern institutional duty: [[19-huangye-shang-de-dashi-wo-bei-yu-luanshi-qiu-yanjiu-ben-wei-niliu-zhi-wangju-565412437]] shows Hu Shi, Ding Wenjiang, Fu Sinian, and 翁文灏 pulled toward public criticism, diplomacy, administration, and institution preservation under national crisis.
-- Research-life cost: [[19-huangye-shang-de-dashi-wo-bei-yu-luanshi-qiu-yanjiu-ben-wei-niliu-zhi-wangju-565412437]] treats modern scholars' public duty as protective of institutions but also costly to their own research lives.
+- Literary-administrative temperament: [[105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645|Su Dongpo source]] frames Su Shi's learning and temperament as resources for public service rather than merely personal brilliance.
+- Research under crisis: [[19-huangye-shang-de-dashi-wo-bei-yu-luanshi-qiu-yanjiu-ben-wei-niliu-zhi-wangju-565412437|Huangye source]] presents scholarship during disorder as a disciplined refusal of intellectual retreat.
+- Talent above title: [[zizhi-tongjian-hanji-859-gudai-haoren-weishenme-nan-dang-haoguan-llkyx18ssvserxncvrtkw7xfduad|Hanji 859]] shows Huangfu Gui recommending Zhang Huan as the better frontier commander and accepting a subordinate role.
+- Institutional remonstrance: [[zizhi-tongjian-hanji-859-gudai-haoren-weishenme-nan-dang-haoguan-llkyx18ssvserxncvrtkw7xfduad|Hanji 859]] shows Zhu Mu arguing that close-attendant offices should return to virtuous and institutionally knowledgeable staffing.
+- Punishment as credential: [[zizhi-tongjian-hanji-875-li-dapu-weihe-ta-yi-ruyu-wei-rong-lgffkjk-0yu-ehfsw59anoych-ld|Hanji 875]] shows Huangfu Gui treating exemption from Party Prohibition as shame because it separates him from punished upright officials.
 
 ## Counterevidence & Qualifications
 
-Public duty does not mean every scholar must seek office or expose themselves in every crisis. Withdrawal can be justified when action would only pass danger to helpers, when the actor lacks leverage, or when survival preserves future work. Hanji 875's Du Mi critique is aimed at a specific posture of admired isolation that neither recommends good people nor exposes wrongdoing; it should not flatten all quiet scholarship into cowardice.
+Public duty is an ethic, not a reliable mechanism of institutional success. Hanji 859 is especially important because it contains both a successful public-duty act and a failed one: Huangfu Gui's recommendation works under frontier pressure, while Zhu Mu's anti-eunuch correction fails when it threatens ruler-side palace access. The concept should not collapse all literati action into virtue; it tracks cases where the source frames learning, office, recommendation, or remonstrance as obligation to public order.
 
 ## What Changed
 
-- Migrated the page to synthesis-v1 without reordering the existing source inventory.
-- Hanji 875 extends the concept into late-Han recommendation, talent recognition, and anti-self-protection ethics.
-- The current synthesis now distinguishes public duty from both private literary brilliance and closed-door purity.
+- Added the Hanji 859 distinction between public-duty recommendation that succeeds and public-duty remonstrance that fails.
+- Connected scholar-official duty to palace proximity power, showing why correct institutional advice can miss the ruler's private incentive.
+- Integrated Huangfu Gui's recommendation of Zhang Huan with his later Party Prohibition shame as a continuous duty profile.
 
 ## Related Concepts
 
-- [[LocalGovernanceAsCare|地方治理作为照护]] - practical-service companion concept for Su Shi's water, medicine, bridge, burial, and education work.
-- [[PublicDutyOverPrivateGrievance|对事不对人式公义]] - related duty frame where public role overrides private resentment.
-- [[IntellectualResponsibilityUnderAuthoritarianism]] - related frame for how intellect can become complicity unless tied to truth and action.
-- [[CrisisWithdrawalSelfProtection|危局抽身自保]] - limiting contrast where withdrawal can be responsible when action lacks leverage or spreads danger.
-- [[TalentAsStateTreasure|以贤臣为宝]] - ruler-evaluation frame that treats capable people as public assets.
-- [[PunishmentAsMoralCredential|受罚作为名节凭据]] - neighboring late-Han pattern where public responsibility and reputation make punishment morally legible.
+- [[PunishmentAsMoralCredential|受罚作为道德凭证]] - late-Han moral logic where persecution can mark fidelity to public responsibility.
+- [[PalaceProximityPower|宫廷近身权力]] - opposing ruler-side structure that makes some public-duty remonstrance politically unacceptable.
+- [[CourtFeedbackCollapse|君臣反馈失灵]] - failure mode when public advice cannot travel through or survive the ruler's access system.
+- [[CareerExitFriction|Career Exit Friction]] - office-duty limit where public obligation can trap an official in unwanted service.
+- [[IntellectualResponsibilityUnderAuthoritarianism|威权环境下的知识分子责任]] - modern-facing parallel for scholarship as obligation under crisis.
+- [[HumaneLocalGovernance|仁厚地方治理]] - administrative expression of public duty through humane local rule.

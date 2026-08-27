@@ -1,51 +1,54 @@
 ---
 title: "宫廷近身权力 / Palace Proximity Power"
 type: concept
-tags: [late-han, court-politics, eunuch-politics, palace-access, informal-power]
+tags: [late-han, palace-politics, power, proximity]
 sources:
   - zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys
-last_updated: 2026-08-27
+  - zizhi-tongjian-hanji-859-gudai-haoren-weishenme-nan-dang-haoguan-llkyx18ssvserxncvrtkw7xfduad
+last_updated: 2026-08-28
 knowledge_schema: synthesis-v1
 ---
 
 ## Definition
 
-宫廷近身权力 / Palace Proximity Power is informal political leverage produced by routine physical, emotional, and service access to a ruler, dowager, or palace decision-maker before formal office, seals, or written commands are visibly controlled.
+Palace Proximity Power is the political leverage created when people physically close to the ruler or regent turn daily access, household service, emotional dependence, and control of contact into influence before formal authority is visible.
 
 ## Current Synthesis
 
-The concept is created from [[zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys|Hanji 884]], which treats wet nurses, female palace staff, and eunuchs as a shared access field around [[EmpressDowagerDouMiao|窦妙 / 窦皇太后]]. The source's core point is not that intimacy automatically equals office; it is that repeated attendance, pleasing behavior, and trusted service can shape what a formal authority sees, tolerates, delays, or authorizes.
+The concept now has both a ruler-demand side and an access-execution side. Hanji 859 explains why eunuchs can be attractive to an emperor: they are palace household servants, physically near the ruler, often lack independent elite bases, can satisfy private desires, and are easier to treat as controllable instruments. In that frame, eunuch intervention is not only a staffing mistake; it expresses something the ruler wants from near-body power.
 
-This concept sits before the later mechanics of gate, seal, tally, and edict control. Hanji 884 shows why [[CaoJieLateHan|曹节]] and [[WangFuLateHan|王甫]] are difficult to remove even before Hanji 886's palace seizure: they already operate in a near-body environment where Dou Miao experiences them as familiar, useful, and institutionally normal.
+Hanji 884 shows how that proximity operates once a young or dependent ruler is inside the palace. Wet nurses, attendants, and eunuchs around Dou Miao and Emperor Ling convert access into political leverage before outsiders can see a formal chain of command. Together, the sources make proximity a structural power channel: it begins as daily service and access control, then becomes agenda filtering, appointment influence, and retaliation capacity.
 
 ## Key Claims
 
-- Near-body palace access can become political leverage before it appears as formal command authority.
-- Wet nurses, female palace staff, and eunuchs can form an influence environment by combining service, emotional proximity, and repeated attendance.
-- The mechanism works by shaping judgment and hesitation, not only by issuing orders.
-- A reform faction that ignores this access layer may underestimate why nominally weaker palace actors remain hard to remove.
-- Selective punishment of visible offenders can leave the broader proximity structure intact.
+- Near-body service becomes political power when it controls who can speak to the ruler and when.
+- Eunuch power can express ruler-side demand for private service, loyalty, and controllability, not just court decay.
+- Palace proximity is strongest when the ruler is young, isolated, dependent, indulgent, or shielded from regular official feedback.
+- Formal office may lag behind actual leverage because household access creates influence before public institutions register it.
+- Moral remonstrance against palace insiders fails when it attacks a channel the ruler personally finds useful.
+- Proximity power often links to feedback collapse, because close attendants can filter criticism and punish officials who threaten them.
 
 ## Evidence
 
-- Access-before-office mechanism: [[zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys|Hanji 884]] says Zhao Rao, female shangshu, Cao Jie, and Wang Fu remain around Dou Miao, please her, and receive repeated edicts, titles, or appointments.
-- Judgment and hesitation: [[zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys|Hanji 884]] frames wet-nurse and eunuch proximity as a way to erode the judgment of the emperor and dowager rather than only as an office-holding problem.
-- Target-selection pressure: [[zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys|Hanji 884]] has Chen Fan and Dou Wu identify Cao Jie and Wang Fu as urgent removal targets while Dou Miao allows only selective punishment of Guan Ba and Su Kang.
-- Institution-left-intact qualification: [[zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys|Hanji 884]] says Dou Miao rejects eliminating all eunuchs because the palace has always relied on them, preserving the access environment behind the first arrests.
+- Ruler-side demand: [[zizhi-tongjian-hanji-859-gudai-haoren-weishenme-nan-dang-haoguan-llkyx18ssvserxncvrtkw7xfduad|Hanji 859]] frames eunuchs as close household servants who satisfy the emperor's private and control needs while lacking an independent political base.
+- Failed anti-eunuch correction: [[zizhi-tongjian-hanji-859-gudai-haoren-weishenme-nan-dang-haoguan-llkyx18ssvserxncvrtkw7xfduad|Hanji 859]] uses Zhu Mu's rejected remonstrance to show that accurate institutional critique can fail when it asks the ruler to give up a useful access structure.
+- Young-ruler access channel: [[zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys|Hanji 884]] shows wet nurses, attendants, and eunuchs near Dou Miao and Emperor Ling turning daily access into political leverage.
+- Formal-informal gap: [[zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys|Hanji 884]] makes palace proximity visible before a stable public office structure explains the actual distribution of power.
 
 ## Counterevidence & Qualifications
 
-Hanji 884 is a podcast-summary source and does not identify every female palace attendant or reconstruct every edict and appointment. The concept therefore names a mechanism of informal leverage rather than asserting that every actor near Dou Miao held equal power or shared one coordinated plan.
+This concept does not imply that every close attendant automatically dominates policy or that formal institutions are irrelevant. Hanji 859 also shows frontier appointments moving through practical state need, and later Huan-era pages show bounded correction sometimes succeeding. The claim is narrower: repeated physical access and household dependence create a power channel that moral or bureaucratic analysis can underestimate.
 
 ## What Changed
 
-- The source creates a distinct pre-seizure access concept for wet nurses, attendants, and eunuchs before later gate, seal, and edict control.
-- The Dou Miao decision window is now framed as a proximity-power problem as well as an anti-eunuch policy dispute.
+- Added the Hanji 859 ruler-demand side: eunuchs serve private desire, loyalty, and controllability needs, not only accidental court decay.
+- Recast Hanji 884 as the access-execution side of a broader concept that begins with near-body service and becomes political leverage.
 
 ## Related Concepts
 
-- [[PalaceAccessMonopoly|宫廷接触垄断]] - downstream institutional version where access to the ruler becomes a repeatable political choke point.
-- [[InnerCourtAccessBrokerageRisk|内廷通道中介风险]] - adjacent risk where intermediaries convert private palace access into public appointment or coercion.
-- [[ShangshuTaiImperialAccess|尚书台皇权接触]] - document-channel counterpart to near-body attendance and service proximity.
-- [[ZeroSumConflictHesitationRisk|死斗局优柔寡断风险]] - timing risk intensified when the target side remains close enough to respond.
-- [[CourtFeedbackCollapse|君臣反馈失灵]] - ruler-information failure that can follow when near-palace actors shape what authority hears and feels.
+- [[PalaceAccessMonopoly|宫廷接触垄断]] - downstream form where proximity hardens into control over who reaches the ruler.
+- [[CourtFeedbackCollapse|君臣反馈失灵]] - consequence when close attendants filter or punish corrective advice.
+- [[EunuchPatronageViolenceShield|宦官庇护下的地方暴行]] - late-Han field where palace protection can become public enforcement failure.
+- [[ScholarOfficialPublicDuty|士大夫公共责任]] - opposing public-duty ethic that can misread ruler-side demand for private access.
+- [[QueenMotherRegency|太后临朝]] - regency context that can increase reliance on intermediaries inside the palace.
+- [[PowerStructureTargeting|权力结构定向求援]] - tactical response when formal channels fail and actors must reach actual access holders.

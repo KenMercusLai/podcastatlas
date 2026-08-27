@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2259
+topic_total_pages: 2258
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1777,9 +1777,6 @@ topic_concepts:
   - key: "ScaleReversalSatire"
     title: "Scale Reversal Satire"
     url: "/wiki/concepts/scalereversalsatire/"
-  - key: "ScholarOfficialPublicDuty"
-    title: "Scholar-Official Public Duty / 士大夫公共责任"
-    url: "/wiki/concepts/scholarofficialpublicduty/"
   - key: "SchoolEnterpriseCooperation"
     title: "School-Enterprise Cooperation / 校企合作"
     url: "/wiki/concepts/schoolenterprisecooperation/"

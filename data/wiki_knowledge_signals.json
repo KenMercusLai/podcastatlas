@@ -4719,9 +4719,9 @@
       "url": "/wiki/entities/duxilatehan/"
     },
     "DuanJiongLateHan": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 1,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》897丨职场必读！什么才叫领导力？ [lvRRMkSykaZLSb7W8aBbdmNqfzQQ].md",
@@ -4806,6 +4806,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》867丨无辜被泼脏水？他选择霸气回击",
           "url": "/wiki/sources/zizhi-tongjian-hanji-867-wugu-bei-po-zangshui-ta-xuanze-baqi-huiji-lqenvoy7x8ic-qn3-bf93qj8tjvk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》859丨古代好人为什么难当好官？ [llkyx18ssVsErxNCvRTkW7XfdUad].md",
+          "key": "zizhi-tongjian-hanji-859-gudai-haoren-weishenme-nan-dang-haoguan-llkyx18ssvserxncvrtkw7xfduad",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》859丨古代好人为什么难当好官？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-859-gudai-haoren-weishenme-nan-dang-haoguan-llkyx18ssvserxncvrtkw7xfduad/"
         }
       ],
       "updated": "2026-08-28",
@@ -5178,9 +5185,9 @@
       "url": "/wiki/concepts/emotionsasfunctionalcontrolstates/"
     },
     "EmperorHuanOfHan": {
-      "episode_count": 13,
+      "episode_count": 14,
       "show_count": 1,
-      "source_note_count": 13,
+      "source_note_count": 14,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》901 丨急性子的人会是什么下场？ [lh1yfyJZqPTXVtnV9tAiQms9YjUd].md",
@@ -5272,6 +5279,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》865丨职场BOSS也容易被这种人背刺",
           "url": "/wiki/sources/zizhi-tongjian-hanji-865-zhichang-boss-ye-rongyi-bei-zhezhong-ren-beici-ljfhfevljqnx6zceakjfbw5gwfma/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》859丨古代好人为什么难当好官？ [llkyx18ssVsErxNCvRTkW7XfdUad].md",
+          "key": "zizhi-tongjian-hanji-859-gudai-haoren-weishenme-nan-dang-haoguan-llkyx18ssvserxncvrtkw7xfduad",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》859丨古代好人为什么难当好官？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-859-gudai-haoren-weishenme-nan-dang-haoguan-llkyx18ssvserxncvrtkw7xfduad/"
         }
       ],
       "updated": "2026-08-28",
@@ -7843,9 +7857,9 @@
       "url": "/wiki/entities/huangzu/"
     },
     "HuangfuGuiLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》875丨离大谱！为何他以入狱为荣？ [lgfFkjk_0Yu_EhFsW59AnoyCH_lD].md",
@@ -7860,6 +7874,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》870丨古代体制内，不干了没有退路",
           "url": "/wiki/sources/zizhi-tongjian-hanji-870-gudai-tizhinei-buganle-meiyou-tuilu-lpwbniu9ifpt6cp4ip9czqwsh5xd/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》859丨古代好人为什么难当好官？ [llkyx18ssVsErxNCvRTkW7XfdUad].md",
+          "key": "zizhi-tongjian-hanji-859-gudai-haoren-weishenme-nan-dang-haoguan-llkyx18ssvserxncvrtkw7xfduad",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》859丨古代好人为什么难当好官？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-859-gudai-haoren-weishenme-nan-dang-haoguan-llkyx18ssvserxncvrtkw7xfduad/"
         }
       ],
       "updated": "2026-08-28",
@@ -13288,9 +13309,9 @@
       "url": "/wiki/concepts/palacefavoriteprotectionfragility/"
     },
     "PalaceProximityPower": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》884丨职场除奸，要对谁先开刀？ [lvtC3uQLsO242olKyin3fvz5A7YS].md",
@@ -13298,9 +13319,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》884丨职场除奸，要对谁先开刀？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》859丨古代好人为什么难当好官？ [llkyx18ssVsErxNCvRTkW7XfdUad].md",
+          "key": "zizhi-tongjian-hanji-859-gudai-haoren-weishenme-nan-dang-haoguan-llkyx18ssvserxncvrtkw7xfduad",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》859丨古代好人为什么难当好官？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-859-gudai-haoren-weishenme-nan-dang-haoguan-llkyx18ssvserxncvrtkw7xfduad/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-28",
       "url": "/wiki/concepts/palaceproximitypower/"
     },
     "PanHongLateHan": {
@@ -15019,9 +15047,9 @@
       "url": "/wiki/entities/savilleinquiry/"
     },
     "ScholarOfficialPublicDuty": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "105.苏东坡：一腔豪迈之气，一肚皮不合时宜 [741072645].md",
@@ -15043,9 +15071,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》875丨离大谱！为何他以入狱为荣？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-875-li-dapu-weihe-ta-yi-ruyu-wei-rong-lgffkjk-0yu-ehfsw59anoych-ld/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》859丨古代好人为什么难当好官？ [llkyx18ssVsErxNCvRTkW7XfdUad].md",
+          "key": "zizhi-tongjian-hanji-859-gudai-haoren-weishenme-nan-dang-haoguan-llkyx18ssvserxncvrtkw7xfduad",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》859丨古代好人为什么难当好官？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-859-gudai-haoren-weishenme-nan-dang-haoguan-llkyx18ssvserxncvrtkw7xfduad/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-28",
       "url": "/wiki/concepts/scholarofficialpublicduty/"
     },
     "ScienceCommunicationTrustRepair": {
@@ -19583,9 +19618,9 @@
       "url": "/wiki/entities/zhangfanwanlatehan/"
     },
     "ZhangHuanLateHan": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》902丨控制情绪是人生必修课 [ljYNYlVdLSDTjF4ES9jmIlAV863b].md",
@@ -19642,6 +19677,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》870丨古代体制内，不干了没有退路",
           "url": "/wiki/sources/zizhi-tongjian-hanji-870-gudai-tizhinei-buganle-meiyou-tuilu-lpwbniu9ifpt6cp4ip9czqwsh5xd/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》859丨古代好人为什么难当好官？ [llkyx18ssVsErxNCvRTkW7XfdUad].md",
+          "key": "zizhi-tongjian-hanji-859-gudai-haoren-weishenme-nan-dang-haoguan-llkyx18ssvserxncvrtkw7xfduad",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》859丨古代好人为什么难当好官？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-859-gudai-haoren-weishenme-nan-dang-haoguan-llkyx18ssvserxncvrtkw7xfduad/"
         }
       ],
       "updated": "2026-08-28",
@@ -20182,6 +20224,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/zhulinglatehan/"
+    },
+    "ZhuMuLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》859丨古代好人为什么难当好官？ [llkyx18ssVsErxNCvRTkW7XfdUad].md",
+          "key": "zizhi-tongjian-hanji-859-gudai-haoren-weishenme-nan-dang-haoguan-llkyx18ssvserxncvrtkw7xfduad",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》859丨古代好人为什么难当好官？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-859-gudai-haoren-weishenme-nan-dang-haoguan-llkyx18ssvserxncvrtkw7xfduad/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/zhumulatehan/"
     },
     "ZhuYuLateHan": {
       "episode_count": 3,
