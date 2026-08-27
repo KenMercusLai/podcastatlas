@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1494
+topic_total_pages: 1497
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -154,9 +154,6 @@ topic_concepts:
   - key: "CollateralPunishmentAndGuiltByAssociation"
     title: "Collateral Punishment And Guilt By Association"
     url: "/wiki/concepts/collateralpunishmentandguiltbyassociation/"
-  - key: "CommandContinuityDamageControl"
-    title: "Command Continuity Damage Control / 统帅连续性危机处置"
-    url: "/wiki/concepts/commandcontinuitydamagecontrol/"
   - key: "CommandSynchronizationFailure"
     title: "Command Synchronization Failure / 军令同步失灵"
     url: "/wiki/concepts/commandsynchronizationfailure/"
@@ -313,6 +310,9 @@ topic_concepts:
   - key: "FiefSecurityIllusion"
     title: "Fief Security Illusion / 封地筑城安全幻觉"
     url: "/wiki/concepts/fiefsecurityillusion/"
+  - key: "FinDeSiecleViennaCrisisReading"
+    title: "Fin-de-Siecle Vienna Crisis Reading"
+    url: "/wiki/concepts/findesiecleviennacrisisreading/"
   - key: "FireOxNightRaid"
     title: "Fire-Ox Night Raid / 火牛阵夜袭"
     url: "/wiki/concepts/fireoxnightraid/"
@@ -649,6 +649,9 @@ topic_concepts:
   - key: "OfficialHistoryLegitimacyRepair"
     title: "Official History Legitimacy Repair"
     url: "/wiki/concepts/officialhistorylegitimacyrepair/"
+  - key: "OmenCodedRemonstrance"
+    title: "Omen-Coded Remonstrance / 天象灾异包装式进谏"
+    url: "/wiki/concepts/omencodedremonstrance/"
   - key: "OstarbeiterForcedLabor"
     title: "Ostarbeiter Forced Labor / 东方劳工强制劳动"
     url: "/wiki/concepts/ostarbeiterforcedlabor/"
@@ -1339,6 +1342,9 @@ topic_concepts:
   - key: "CommandAuthorityRecapture"
     title: "统帅权再收束 / Command Authority Recapture"
     url: "/wiki/concepts/commandauthorityrecapture/"
+  - key: "CommandContinuityDamageControl"
+    title: "统帅连续性危机处置 / Command Continuity Damage Control"
+    url: "/wiki/concepts/commandcontinuitydamagecontrol/"
   - key: "BackwaterBattle"
     title: "背水一战 / Backwater Battle"
     url: "/wiki/concepts/backwaterbattle/"
@@ -3672,6 +3678,9 @@ topic_sources:
   - key: "69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465"
     title: "69.闲聊推理文学：历史学者可不就是侦探吗！"
     url: "/wiki/sources/69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465/"
+  - key: "690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068"
+    title: "690. A Murderous Affair: Death at Mayerling (Part 2)"
+    url: "/wiki/sources/690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068/"
   - key: "691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561"
     title: "691. Elizabeth I vs The Catholics: The Queen's Spymaster (Part 1)"
     url: "/wiki/sources/691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561/"

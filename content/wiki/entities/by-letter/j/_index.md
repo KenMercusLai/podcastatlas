@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 7856
+wiki_total_pages: 7901
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -494,6 +494,9 @@ wiki_pages:
   - key: "JohannJakobBachofen"
     title: "Johann Jakob Bachofen"
     url: "/wiki/entities/johannjakobbachofen/"
+  - key: "JohannLoschek"
+    title: "Johann Loschek"
+    url: "/wiki/entities/johannloschek/"
   - key: "JohnBogle"
     title: "John Bogle"
     url: "/wiki/entities/johnbogle/"
@@ -668,6 +671,12 @@ wiki_pages:
   - key: "JoseArmas"
     title: "Jose Armas"
     url: "/wiki/entities/josearmas/"
+  - key: "JosefBratfisch"
+    title: "Josef Bratfisch"
+    url: "/wiki/entities/josefbratfisch/"
+  - key: "JosefHoyos"
+    title: "Josef Hoyos"
+    url: "/wiki/entities/josefhoyos/"
   - key: "JosephAoun"
     title: "Joseph Aoun"
     url: "/wiki/entities/josephaoun/"
@@ -1097,6 +1106,9 @@ wiki_pages:
   - key: "JiaFamilyHousehold"
     title: "贾府 / Jia Family Household"
     url: "/wiki/entities/jiafamilyhousehold/"
+  - key: "JiaBiaoLateHan"
+    title: "贾彪 / Jia Biao (late Han)"
+    url: "/wiki/entities/jiabiaolatehan/"
   - key: "JiaZhangke"
     title: "贾樟柯 / Jia Zhangke"
     url: "/wiki/entities/jiazhangke/"

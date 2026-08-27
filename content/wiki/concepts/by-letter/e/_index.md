@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 5612
+wiki_total_pages: 5642
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -530,6 +530,9 @@ wiki_pages:
   - key: "EugenicGovernance"
     title: "Eugenic Governance / 优生学治理"
     url: "/wiki/concepts/eugenicgovernance/"
+  - key: "EunuchPatronageViolenceShield"
+    title: "Eunuch Patronage Violence Shield / 宦官庇护下的地方暴行"
+    url: "/wiki/concepts/eunuchpatronageviolenceshield/"
   - key: "EuropeanAIIndustrialConstraints"
     title: "European AI Industrial Constraints"
     url: "/wiki/concepts/europeanaiindustrialconstraints/"

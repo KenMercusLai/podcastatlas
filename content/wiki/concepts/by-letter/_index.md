@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 5612
+wiki_total_pages: 5642
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -77,6 +77,9 @@ wiki_pages:
   - key: "AccretiveTextFormation"
     title: "Accretive Text Formation"
     url: "/wiki/concepts/accretivetextformation/"
+  - key: "AccusationQuotaRefusal"
+    title: "Accusation Quota Refusal / 诬陷指标拒绝"
+    url: "/wiki/concepts/accusationquotarefusal/"
   - key: "AchievementPressureMentalHealth"
     title: "Achievement Pressure Mental Health"
     url: "/wiki/concepts/achievementpressurementalhealth/"
@@ -899,6 +902,9 @@ wiki_pages:
   - key: "AIOtomeGames"
     title: "AI Otome Games"
     url: "/wiki/concepts/aiotomegames/"
+  - key: "AIOutputTrainingSymmetry"
+    title: "AI Output Training Symmetry"
+    url: "/wiki/concepts/aioutputtrainingsymmetry/"
   - key: "AIParentingAdvice"
     title: "AI Parenting Advice"
     url: "/wiki/concepts/aiparentingadvice/"
@@ -1343,6 +1349,9 @@ wiki_pages:
   - key: "AmericanSportsCapitalInEuropeanFootball"
     title: "American Sports Capital In European Football"
     url: "/wiki/concepts/americansportscapitalineuropeanfootball/"
+  - key: "AmnestyExploitationCrime"
+    title: "Amnesty Exploitation Crime / 大赦预期犯罪"
+    url: "/wiki/concepts/amnestyexploitationcrime/"
   - key: "AMVPromptFramework"
     title: "AMV Prompt Framework"
     url: "/wiki/concepts/amvpromptframework/"

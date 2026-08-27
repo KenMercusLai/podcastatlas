@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 7856
+wiki_total_pages: 7901
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1448,6 +1448,9 @@ wiki_pages:
   - key: "ShiZimiaoLateHan"
     title: "史子眇 / Shi Zimiao (late Han)"
     url: "/wiki/entities/shizimiaolatehan/"
+  - key: "ShiBiLateHan"
+    title: "史弼 / Shi Bi (late Han)"
+    url: "/wiki/entities/shibilatehan/"
   - key: "ShiXiangyun"
     title: "史湘云 / Shi Xiangyun"
     url: "/wiki/entities/shixiangyun/"
@@ -1538,6 +1541,9 @@ wiki_pages:
   - key: "SunCe"
     title: "孙策 / Sun Ce"
     url: "/wiki/entities/sunce/"
+  - key: "SunCeAssassination"
+    title: "孙策遇刺 / Sun Ce Assassination"
+    url: "/wiki/entities/sunceassassination/"
   - key: "SunYiLateHan"
     title: "孙翊 / Sun Yi (late Han)"
     url: "/wiki/entities/sunyilatehan/"
@@ -1592,6 +1598,9 @@ wiki_pages:
   - key: "SongJunYan"
     title: "宋康王 / 宋君偃 / King Kang of Song"
     url: "/wiki/entities/songjunyan/"
+  - key: "SongHongEasternHan"
+    title: "宋弘 / Song Hong (Eastern Han)"
+    url: "/wiki/entities/songhongeasternhan/"
   - key: "SongDaogong"
     title: "宋悼公 / Duke Dao of Song"
     url: "/wiki/entities/songdaogong/"

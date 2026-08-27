@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 5612
+wiki_total_pages: 5642
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -464,6 +464,9 @@ wiki_pages:
   - key: "HousingStigmaDiscount"
     title: "Housing Stigma Discount"
     url: "/wiki/concepts/housingstigmadiscount/"
+  - key: "HousingSupplyOverRentControl"
+    title: "Housing Supply Over Rent Control"
+    url: "/wiki/concepts/housingsupplyoverrentcontrol/"
   - key: "HousingWealthAffordabilityTension"
     title: "Housing Wealth Affordability Tension"
     url: "/wiki/concepts/housingwealthaffordabilitytension/"

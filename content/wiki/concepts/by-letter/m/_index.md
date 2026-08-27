@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 5612
+wiki_total_pages: 5642
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -272,6 +272,9 @@ wiki_pages:
   - key: "MausoleumSecrecyKilling"
     title: "Mausoleum Secrecy Killing / 陵墓保密杀戮"
     url: "/wiki/concepts/mausoleumsecrecykilling/"
+  - key: "MayerlingDeathPact"
+    title: "Mayerling Death Pact"
+    url: "/wiki/concepts/mayerlingdeathpact/"
   - key: "MeaningAsEvolvedFunction"
     title: "Meaning As Evolved Function / 意义作为进化功能"
     url: "/wiki/concepts/meaningasevolvedfunction/"
@@ -560,6 +563,9 @@ wiki_pages:
   - key: "MilitaryPrestigeThreatPurge"
     title: "Military Prestige Threat Purge / 军功声望威胁清洗"
     url: "/wiki/concepts/militaryprestigethreatpurge/"
+  - key: "MilitaryRewardEunuchGatekeeping"
+    title: "Military Reward Eunuch Gatekeeping / 宦官门槛下的军功赏罚"
+    url: "/wiki/concepts/militaryrewardeunuchgatekeeping/"
   - key: "MilitaryCivilianIntegration"
     title: "Military-Civil Integration / 军政一体"
     url: "/wiki/concepts/militarycivilianintegration/"

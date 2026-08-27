@@ -2,42 +2,72 @@
 title: "卢植 / Lu Zhi (late Han)"
 type: entity
 tags: [person, late-han, official, scholar, china]
-sources: [zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79, zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g, zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o, zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5, zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk]
-last_updated: 2026-08-26
+sources:
+  - zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79
+  - zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g
+  - zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o
+  - zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl
+  - zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5
+  - zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk
+  - zizhi-tongjian-hanji-882-fengguang-taisheng-zhuding-bude-haosi-lphagu5ljuxxjwx-uvnbs229wjii
+last_updated: 2026-08-27
+knowledge_schema: synthesis-v1
 ---
 
-# 卢植 / Lu Zhi (late Han)
+## Overview
 
-[[zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79|Hanji 907]] adds Lu Zhi's teacher role before his 178 institutional memorial and 184 Yellow Turban command. The source says [[GongsunZan|公孙瓒]] and the young [[LiuBei|刘备]] both study under him in 176 CE, making Lu Zhi an early scholar-network node before he becomes a repeated remonstrance and crisis-boundary figure.
+卢植 / Lu Zhi (late Han) is a scholar-official, teacher, commander, and repeated remonstrance figure whose page now begins before his Yellow Turban and Dong Zhuo crisis branches. [[zizhi-tongjian-hanji-882-fengguang-taisheng-zhuding-bude-haosi-lphagu5ljuxxjwx-uvnbs229wjii|Hanji 882]] presents him as an early moral adviser to [[DouWuLateHan|窦武]], warning that accession reward detached from personal merit can turn public prestige into future danger.
 
-[[zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g|Hanji 913]] adds Lu Zhi's 178 CE institutional memorial before his later Yellow Turban command and Dong Zhuo remonstrance branches. He argues that most imprisoned party figures are innocent, [[EmpressSongLateHan|宋皇后]]'s family should receive burial, governors and inspectors need stable terms, and appointments should follow responsible standards rather than private lobbying. [[EmperorLingOfHan|汉灵帝]] ignores the memorial, making Lu Zhi an early witness for [[LocalOfficialTenureStability|地方官任期稳定]] and [[CourtFeedbackCollapse|君臣反馈失灵]].
+## Current Profile
 
-[[zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o|Hanji 928]] backfills Lu Zhi's 184 CE [[YellowTurbansLateHan|Yellow Turban]] command before his later 189 CE court-remonstrance branch. As north zhonglang general, he defeats [[ZhangJiaoLateHan|张角]]'s force, surrounds Guangzong, and appears close to a major victory.
+Lu Zhi's current profile is built around disciplined judgment under pressure. Hanji 882 gives the earliest branch: before Dou Wu's failed anti-eunuch crisis, Lu Zhi tells him that choosing [[EmperorLingOfHan|汉灵帝]] as successor was based on genealogy and public recommendation, not Dou's sole achievement, so Dou should decline excessive title reward and preserve humility. The same episode supports Lu Zhi's authority by presenting him as a strict scholar trained under Ma Rong, unmoved by distractions, later withdrawn from official summons, and eventually a teacher of young [[LiuBei|刘备]].
 
-The same source explains why this success does not protect him. [[EmperorLingOfHan|汉灵帝]] sends [[ZuoFengLateHan|左丰]] to inspect the camp because Lu Zhi holds a large force; Lu Zhi refuses his subordinates' suggestion to send a gift, and Zuo Feng returns with a report that recodes siege preparation as idle resting. Lu Zhi is then recalled to [[LuoyangLateHan|洛阳]] in a prison cart, making his early branch a case of [[InspectionGiftGatekeeping|巡查送礼关口]] and [[PalaceAccessMonopoly|宫廷接触垄断]] before [[DongZhuo|董卓]] replaces him.
+That early warning anticipates Lu Zhi's later pattern. In 178 CE he submits an institutional memorial on Party Prohibition prisoners, Song-family burial, official tenure, and appointment standards, but Emperor Ling ignores it. In 184 CE he commands against the [[YellowTurbansLateHan|Yellow Turbans]] and approaches victory at Guangzong, yet refuses inspection bribery and is recalled after [[ZuoFengLateHan|左丰]] reframes siege preparation as idleness.
 
-[[zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl|Hanji 945]] adds Lu Zhi's warning before the palace violence of Hanji 946. As a respected senior scholar-official, he tells [[HeJin|何进]] that [[DongZhuo|董卓]]'s entry into the capital will certainly produce disorder, but He Jin continues the summons.
+The final crisis branches show the same boundary role under more dangerous court coercion. Lu Zhi warns [[HeJin|何进]] that inviting [[DongZhuo|董卓]] into the capital will create disorder, forces [[DuanGuiLateHan|段珪]] to release [[EmpressDowagerHe|何太后]] during the palace flight, and later openly rejects Dong Zhuo's coerced deposition proposal against [[LiuBianHongnongWang|刘辩 / 弘农王]]. His reputation protects him from execution, but not from removal and withdrawal.
 
-This makes Lu Zhi one of the source's early boundary figures for [[ExternalTroopInvitationRisk|外兵入京升级风险]]. Before he later rebukes [[DuanGuiLateHan|段珪]] and resists Dong Zhuo's deposition proposal, he is already trying to stop the move that gives Dong Zhuo a path into the court field.
+## Key Characteristics
 
-[[zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5|Hanji 946]] adds Lu Zhi's first crisis intervention before his Hanji 948 remonstrance against [[DongZhuo|董卓]]. During the palace flight, Lu Zhi sees [[DuanGuiLateHan|段珪]] taking [[EmpressDowagerHe|何太后]] along a gallery, rebukes him from below, and forces the release of the dowager.
+- Lu Zhi is a moral and institutional warning figure before he becomes a military and deposition-crisis actor.
+- His advice to Dou Wu treats reward legitimacy as a safety issue: title and status become dangerous when they exceed visible merit.
+- His scholar profile emphasizes discipline, refusal of distraction, and teaching authority rather than mere literary status.
+- His institutional memorials diagnose broken appointment, tenure, burial, and Party Prohibition handling, but imperial feedback fails.
+- His Yellow Turban command shows operational competence paired with vulnerability to inspection-channel slander.
+- His late crisis actions repeatedly defend court boundaries against coercive actors who control access or armed force.
 
-The source makes Lu Zhi a repeated boundary figure in late-Han court coercion. In Hanji 946 he interrupts eunuch control over the queen mother; in Hanji 948 he challenges Dong Zhuo's attempt to convert armed pressure into deposition procedure.
+## Evidence
 
-卢植 / Lu Zhi (late Han) enters the wiki through [[zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk|Hanji 948]] as the senior official who openly resists [[DongZhuo|董卓]]'s proposed deposition of [[LiuBianHongnongWang|刘辩 / 弘农王]]. He argues that the precedents Dong Zhuo invokes do not fit: earlier deposed rulers had serious faults, while Liu Bian is young and has not committed a comparable offense.
+- Accession reward warning: [[zizhi-tongjian-hanji-882-fengguang-taisheng-zhuding-bude-haosi-lphagu5ljuxxjwx-uvnbs229wjii|Hanji 882]] says Lu Zhi tells Dou Wu not to treat Emperor Ling's genealogy-based succession as his own exceptional merit and urges him to decline excessive rewards.
+- Scholar discipline and teaching authority: [[zizhi-tongjian-hanji-882-fengguang-taisheng-zhuding-bude-haosi-lphagu5ljuxxjwx-uvnbs229wjii|Hanji 882]] presents Lu Zhi as a disciplined student under Ma Rong, later reclusive teacher, and future instructor of young Liu Bei; [[zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79|Hanji 907]] independently places [[GongsunZan|公孙瓒]] and Liu Bei under Lu Zhi's instruction in 176 CE.
+- Institutional remonstrance: [[zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g|Hanji 913]] says Lu Zhi memorializes on innocent Party Prohibition prisoners, Empress Song's family burial, stable terms for governors and inspectors, and appointment standards against private lobbying.
+- Command and inspection vulnerability: [[zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o|Hanji 928]] says Lu Zhi defeats Zhang Jiao's force and surrounds Guangzong, but refuses to gift Zuo Feng and is recalled in a prison cart after Zuo Feng's report.
+- Warning against external troop invitation: [[zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl|Hanji 945]] says Lu Zhi warns He Jin that Dong Zhuo's entry into the capital will certainly produce disorder.
+- Palace-flight intervention: [[zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5|Hanji 946]] says Lu Zhi rebukes Duan Gui from below a gallery and forces the release of Empress Dowager He.
+- Deposition remonstrance: [[zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk|Hanji 948]] says Lu Zhi rejects Dong Zhuo's deposition precedents because Liu Bian is young and lacks comparable faults, after which Dong Zhuo removes him rather than executing him because his reputation is too high.
 
-The episode makes Lu Zhi the clearest remonstrance figure inside the forced replacement scene. Dong Zhuo wants to kill him, but [[CaiYong|蔡邕]] and others warn that Lu Zhi's reputation is high enough that killing him would frighten the realm and deepen opposition. Dong Zhuo therefore removes him from office instead, after which Lu Zhi withdraws to Shanggu and later briefly responds to [[YuanShao|袁绍]] before dying.
+## Qualifications
 
-This page is disambiguated from [[LuZhi|吕雉 / Lu Zhi]]. Its role is source-scoped to the late-Han Dong Zhuo branch.
+- Hanji 882's portrait of Lu Zhi's early discipline is a podcast-summary characterization, not a complete biography.
+- The page treats Lu Zhi's reward warning, institutional memorials, military command, and crisis remonstrance as one profile of disciplined boundary setting, but each branch occurs in a different court context.
+- This page is disambiguated from [[LuZhi|吕雉 / Lu Zhi]]; its role is source-scoped to the late-Han scholar-official.
 
-## Connections
-- [[zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79|Hanji 907]], [[GongsunZan|公孙瓒]], and [[LiuBei|刘备]] - early teacher-student branch.
-- [[zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g|Hanji 913]], [[EmperorLingOfHan|汉灵帝]], [[EmpressSongLateHan|宋皇后]], [[LocalOfficialTenureStability|地方官任期稳定]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - ignored institutional memorial on party prisoners, burial, tenure, and appointment standards.
-- [[zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o|Hanji 928]], [[ZhangJiaoLateHan|张角]], [[ZuoFengLateHan|左丰]], [[EmperorLingOfHan|汉灵帝]], and [[InspectionGiftGatekeeping|巡查送礼关口]] - Guangzong siege, inspection report, and recall before Dong Zhuo's replacement command.
-- [[zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl|Hanji 945]], [[HeJin|何进]], [[DongZhuo|董卓]], and [[ExternalTroopInvitationRisk|外兵入京升级风险]] - warning that Dong Zhuo's entry will create disorder.
-- [[zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5|Hanji 946]], [[DuanGuiLateHan|段珪]], [[EmpressDowagerHe|何太后]], and [[PalaceCoupViolenceCascade|宫廷政变暴力级联]] - gallery rebuke and release of the dowager during the palace flight.
-- [[DongZhuo|董卓]] - powerholder whose coerced deposition Lu Zhi contests.
-- [[LiuBianHongnongWang|刘辩 / 弘农王]] and [[EmperorXianOfHan|汉献帝]] - deposed ruler and replacement ruler in the scene.
-- [[CaiYong|蔡邕]] - official whose warning helps save Lu Zhi's life.
-- [[YuanShao|袁绍]] - later figure who invites Lu Zhi out according to the episode.
-- [[CoercedImperialReplacement|胁迫式废立]] and [[DefensiveSpeechUnderTyranny|暴政下的防御性言说]] - concepts sharpened by his remonstrance and survival.
+## What Changed
+
+- Added Hanji 882 as Lu Zhi's earliest current branch, before his 176 teacher role, 178 memorial, 184 command, and 189 remonstrance scenes.
+- Reframed Lu Zhi's core profile around status-boundary judgment: his warning to Dou Wu treats excessive reward as both moral and political danger.
+- Converted the page from episodic notes with a Connections section into the structured entity schema.
+
+## Relationships
+
+- [[DouWuLateHan|窦武]] - accession-reward recipient whom Lu Zhi warns against excessive honors.
+- [[EmperorLingOfHan|汉灵帝]] - successor whose enthronement creates Dou Wu's reward and later ignores Lu Zhi's memorial.
+- [[LiuBei|刘备]] - later student who makes Lu Zhi an early scholar-network node.
+- [[GongsunZan|公孙瓒]] - fellow student branch under Lu Zhi.
+- [[YellowTurbansLateHan|黄巾]] - military crisis where Lu Zhi's command and inspection vulnerability become visible.
+- [[ZuoFengLateHan|左丰]] - inspection-channel actor whose report reverses Lu Zhi's battlefield success.
+- [[HeJin|何进]] - powerholder whom Lu Zhi warns against summoning Dong Zhuo.
+- [[DongZhuo|董卓]] - coercive actor whose capital entry and deposition proposal Lu Zhi resists.
+- [[DuanGuiLateHan|段珪]] - palace-flight eunuch whom Lu Zhi rebukes into releasing Empress Dowager He.
+- [[CoercedImperialReplacement|胁迫式废立]] - late crisis concept sharpened by Lu Zhi's deposition remonstrance.
+- [[MeritBasedRewardPunishment|因功赏罚]] - reward-legitimacy concept sharpened by Lu Zhi's warning to Dou Wu.
+- [[UnearnedRewardRefusal|非道所得不居]] - adjacent concept for refusing status not grounded in rightful merit.

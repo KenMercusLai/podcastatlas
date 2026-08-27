@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "u"
-wiki_total_pages: 5612
+wiki_total_pages: 5642
 wiki_pages:
   - key: "US2025ExpectationGaps"
     title: "U.S. 2025 Expectation Gaps"
@@ -80,6 +80,9 @@ wiki_pages:
   - key: "UnderworldBureaucracy"
     title: "Underworld Bureaucracy"
     url: "/wiki/concepts/underworldbureaucracy/"
+  - key: "UnearnedRewardRefusal"
+    title: "Unearned Reward Refusal / 非道所得不居"
+    url: "/wiki/concepts/unearnedrewardrefusal/"
   - key: "UnemployedMutualAid"
     title: "Unemployed Mutual Aid / 失业者互助"
     url: "/wiki/concepts/unemployedmutualaid/"

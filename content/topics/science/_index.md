@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 746
+topic_total_pages: 748
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -436,6 +436,9 @@ topic_concepts:
   - key: "FermatsPrincipleOfLeastTime"
     title: "Fermat's Principle of Least Time"
     url: "/wiki/concepts/fermatsprincipleofleasttime/"
+  - key: "FinDeSiecleViennaCrisisReading"
+    title: "Fin-de-Siecle Vienna Crisis Reading"
+    url: "/wiki/concepts/findesiecleviennacrisisreading/"
   - key: "FinancialNihilism"
     title: "Financial Nihilism / 金融虚无主义"
     url: "/wiki/concepts/financialnihilism/"
@@ -685,6 +688,9 @@ topic_concepts:
   - key: "MathematicalTheoryOfIntelligence"
     title: "Mathematical Theory Of Intelligence"
     url: "/wiki/concepts/mathematicaltheoryofintelligence/"
+  - key: "MayerlingDeathPact"
+    title: "Mayerling Death Pact"
+    url: "/wiki/concepts/mayerlingdeathpact/"
   - key: "MeaningAsEvolvedFunction"
     title: "Meaning As Evolved Function / 意义作为进化功能"
     url: "/wiki/concepts/meaningasevolvedfunction/"

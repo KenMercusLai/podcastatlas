@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 5612
+wiki_total_pages: 5642
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -740,9 +740,15 @@ wiki_pages:
   - key: "DynamicPricingFairness"
     title: "Dynamic Pricing Fairness"
     url: "/wiki/concepts/dynamicpricingfairness/"
+  - key: "DynasticHeirLossShock"
+    title: "Dynastic Heir Loss Shock"
+    url: "/wiki/concepts/dynasticheirlossshock/"
   - key: "DynasticLegitimacyBackfire"
     title: "Dynastic Legitimacy Backfire / 王朝合法性回旋镖"
     url: "/wiki/concepts/dynasticlegitimacybackfire/"
+  - key: "DynasticScandalSuppression"
+    title: "Dynastic Scandal Suppression"
+    url: "/wiki/concepts/dynasticscandalsuppression/"
   - key: "DignityProtectingDeduction"
     title: "体面保护式推理 / Dignity-Protecting Deduction"
     url: "/wiki/concepts/dignityprotectingdeduction/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 7856
+wiki_total_pages: 7901
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -548,6 +548,9 @@ wiki_pages:
   - key: "ZhangYiLateHan"
     title: "张懿 / Zhang Yi (late Han)"
     url: "/wiki/entities/zhangyilatehan/"
+  - key: "ZhangChengAstrologerLateHan"
+    title: "张成 / Zhang Cheng (late Han astrologer)"
+    url: "/wiki/entities/zhangchengastrologerlatehan/"
   - key: "ZhangChengLateHan"
     title: "张承 / Zhang Cheng (late Han)"
     url: "/wiki/entities/zhangchenglatehan/"
@@ -570,7 +573,7 @@ wiki_pages:
     title: "张春 / Zhang Chun (Western Han rebel)"
     url: "/wiki/entities/zhangchunwesternhan/"
   - key: "ZhangZhaoLateHan"
-    title: "张昭 / Zhang Zhao (Late Han)"
+    title: "张昭 / Zhang Zhao (late Han)"
     url: "/wiki/entities/zhangzhaolatehan/"
   - key: "ZhangManchengLateHan"
     title: "张曼成 / Zhang Mancheng (late Han)"
@@ -863,6 +866,9 @@ wiki_pages:
   - key: "ZhiZaoLaoYe"
     title: "纸造 / 老爷"
     url: "/wiki/entities/zhizaolaoye/"
+  - key: "ZhaiChaoLateHan"
+    title: "翟超 / Zhai Chao (late Han)"
+    url: "/wiki/entities/zhaichaolatehan/"
   - key: "Zhiyanzhai"
     title: "脂砚斋 / Zhiyanzhai"
     url: "/wiki/entities/zhiyanzhai/"

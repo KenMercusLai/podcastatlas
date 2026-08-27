@@ -149,14 +149,14 @@
       "earliest_episode_date": "2026-01-08",
       "latest_episode_date": "2026-08-26",
       "latest_episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Eric Weinstein： The State of American Science, Breakthrough Coverups, and the Danger of Physics [42568645].md",
-      "source_note_count": 32,
-      "topic_matched_source_note_count": 28,
+      "source_note_count": 33,
+      "topic_matched_source_note_count": 29,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 20
+          "source_note_count": 21
         },
         {
           "key": "economics",
@@ -817,14 +817,14 @@
       "earliest_episode_date": "2020-11-02",
       "latest_episode_date": "2026-08-26",
       "latest_episode_file": "GLT3909829334 [GLT3909829334].md",
-      "source_note_count": 9,
-      "topic_matched_source_note_count": 9,
+      "source_note_count": 10,
+      "topic_matched_source_note_count": 10,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 9
+          "source_note_count": 10
         }
       ],
       "entities": [
@@ -2387,8 +2387,8 @@
       "earliest_episode_date": "2025-12-07",
       "latest_episode_date": "2026-08-26",
       "latest_episode_file": "《资治通鉴·汉纪》1045丨他是江东霸业的开创者，可惜死的太窝囊 [lgjJDmcfw1QKUBA2xBLgVVlFPy9d].md",
-      "source_note_count": 462,
-      "topic_matched_source_note_count": 258,
+      "source_note_count": 477,
+      "topic_matched_source_note_count": 260,
       "topics": [
         {
           "key": "history",
@@ -2400,7 +2400,7 @@
           "key": "politics",
           "label": "Politics",
           "url": "/topics/politics/",
-          "source_note_count": 74
+          "source_note_count": 76
         },
         {
           "key": "economics",

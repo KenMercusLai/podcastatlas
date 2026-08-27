@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 1866
+topic_total_pages: 1867
 topic_concepts:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -2566,6 +2566,9 @@ topic_concepts:
   - key: "TokenMaxxing"
     title: "Token Maxxing"
     url: "/wiki/concepts/tokenmaxxing/"
+  - key: "TokenTaxOnAI"
+    title: "Token Tax On AI"
+    url: "/wiki/concepts/tokentaxonai/"
   - key: "TokugawaForeignTradeAmbivalence"
     title: "Tokugawa Foreign-Trade Ambivalence"
     url: "/wiki/concepts/tokugawaforeigntradeambivalence/"

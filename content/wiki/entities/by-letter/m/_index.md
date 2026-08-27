@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 7856
+wiki_total_pages: 7901
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -356,6 +356,9 @@ wiki_pages:
   - key: "MaryShelley"
     title: "Mary Shelley / 玛丽·雪莱"
     url: "/wiki/entities/maryshelley/"
+  - key: "MaryVetsera"
+    title: "Mary Vetsera"
+    url: "/wiki/entities/maryvetsera/"
   - key: "MaryWollstonecraft"
     title: "Mary Wollstonecraft / 玛丽·沃斯通克拉夫特"
     url: "/wiki/entities/marywollstonecraft/"
@@ -494,6 +497,9 @@ wiki_pages:
   - key: "MayaraFelix"
     title: "Mayara Felix"
     url: "/wiki/entities/mayarafelix/"
+  - key: "MayerlingIncident"
+    title: "Mayerling Incident"
+    url: "/wiki/entities/mayerlingincident/"
   - key: "McDonalds"
     title: "McDonald's"
     url: "/wiki/entities/mcdonalds/"
@@ -890,6 +896,9 @@ wiki_pages:
   - key: "MitsuiAndCo"
     title: "Mitsui & Co. / 三井物产"
     url: "/wiki/entities/mitsuiandco/"
+  - key: "MitziKaspar"
+    title: "Mitzi Kaspar"
+    url: "/wiki/entities/mitzikaspar/"
   - key: "MIUI"
     title: "MIUI"
     url: "/wiki/entities/miui/"

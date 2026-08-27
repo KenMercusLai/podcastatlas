@@ -708,6 +708,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/aioffshoringlaborresilience/"
     },
+    "AIOutputTrainingSymmetry": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The Fight Over Open Source AI, Anthropic's $1.5B Payout, NYC Socialists： Evictions = Violence？ [42209480].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-fight-over-open-source-ai-anthropics-15b-payout-nyc-socialists-evictions-violence-42209480",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The Fight Over Open Source AI, Anthropic's $1.5B Payout, NYC Socialists: Evictions = Violence?",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-fight-over-open-source-ai-anthropics-15b-payout-nyc-socialists-evictions-violence-42209480/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/aioutputtrainingsymmetry/"
+    },
     "AISnowlineWorkBoundary": {
       "episode_count": 1,
       "show_count": 1,
@@ -723,6 +739,59 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/aisnowlineworkboundary/"
+    },
+    "AITrainingCopyrightDispute": {
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Chip Stocks Crash, $20B Fund Margin Called, Frontier Labs： SLOW DOWN AI, Mamdani's Grocery Stores [42282790].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-chip-stocks-crash-20b-fund-margin-called-frontier-labs-slow-down-ai-mamdanis-grocery-stores-42282790",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Chip Stocks Crash, $20B Fund Margin Called, Frontier Labs: SLOW DOWN AI, Mamdani's Grocery Stores",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-chip-stocks-crash-20b-fund-margin-called-frontier-labs-slow-down-ai-mamdanis-grocery-stores-42282790/"
+        },
+        {
+          "episode_file": "EP277 对话贾樟柯（下）：我没有背叛真实世界，我只是在寻找电影的新可能 [lqprBTGi7PKCh3hJ3wXa1Q8WoVox].md",
+          "key": "ep277-duihua-jiazhangke-xia-wo-meiyou-beipan-zhenshi-shijie-wo-zhishi-zai-xunzhao-dianying-de-xin-keneng-lqprbtgi7pkch3hj3wxa1q8wovox",
+          "show": "Talk三联",
+          "title": "EP277 对话贾樟柯（下）：我没有背叛真实世界，我只是在寻找电影的新可能",
+          "url": "/wiki/sources/ep277-duihua-jiazhangke-xia-wo-meiyou-beipan-zhenshi-shijie-wo-zhishi-zai-xunzhao-dianying-de-xin-keneng-lqprbtgi7pkch3hj3wxa1q8wovox/"
+        },
+        {
+          "episode_file": "tech_20260817_TECH_pod_128 [tech_20260817_TECH_pod_128].md",
+          "key": "tech-20260817-tech-pod-128-tech-20260817-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Can an AI music company make nice with human artists?",
+          "url": "/wiki/sources/tech-20260817-tech-pod-128-tech-20260817-tech-pod-128/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The Fight Over Open Source AI, Anthropic's $1.5B Payout, NYC Socialists： Evictions = Violence？ [42209480].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-fight-over-open-source-ai-anthropics-15b-payout-nyc-socialists-evictions-violence-42209480",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The Fight Over Open Source AI, Anthropic's $1.5B Payout, NYC Socialists: Evictions = Violence?",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-fight-over-open-source-ai-anthropics-15b-payout-nyc-socialists-evictions-violence-42209480/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/aitrainingcopyrightdispute/"
+    },
+    "AccusationQuotaRefusal": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》877丨他为何冷落救命恩人？ [loOFS4ruGl-Q8kUNfB-Jpj5mGVhi].md",
+          "key": "zizhi-tongjian-hanji-877-ta-weihe-lengluo-jiuming-enren-loofs4rugl-q8kunfb-jpj5mgvhi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》877丨他为何冷落救命恩人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-877-ta-weihe-lengluo-jiuming-enren-loofs4rugl-q8kunfb-jpj5mgvhi/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/accusationquotarefusal/"
     },
     "ActionableOrganizationalValues": {
       "episode_count": 1,
@@ -778,9 +847,9 @@
       "url": "/wiki/concepts/adversitysilencediscipline/"
     },
     "AdviceFramingUnderHierarchy": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1034丨袁绍的败局，只因不肯听沮授的话？ [loG-Wy2ZVPdJOPbdyexb0IJQmph4].md",
@@ -795,6 +864,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1033丨割据军阀袁术，最终吐血而亡？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1033-geju-junfa-yuanshu-zuizhong-tuxue-er-wang-lt0ibs-en0oeoqkkcxl8sevjng4/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1042丨聪明还是顽固？田丰因顶撞袁绍入狱 [lk5x6If2rouarmGiChtynzHl3cgS].md",
+          "key": "zizhi-tongjian-hanji-1042-congming-haishi-wangu-tianfeng-yin-dingzhuang-yuanshao-ruyu-lk5x6if2rouarmgichtynzhl3cgs",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1042丨聪明还是顽固？田丰因顶撞袁绍入狱",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1042-congming-haishi-wangu-tianfeng-yin-dingzhuang-yuanshao-ruyu-lk5x6if2rouarmgichtynzhl3cgs/"
         }
       ],
       "updated": "2026-08-27",
@@ -863,6 +939,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/amandamcmaster/"
+    },
+    "AmnestyExploitationCrime": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》874丨震惊：母子相残，天理难容！ [lpR3eGlbnWBVe1ClrTTApw6K5zdq].md",
+          "key": "zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》874丨震惊：母子相残，天理难容！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/amnestyexploitationcrime/"
     },
     "AndyBurnham": {
       "episode_count": 7,
@@ -1158,6 +1250,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/atlasrobot/"
     },
+    "AustriaHungary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7203783068 [GLT7203783068].md",
+          "key": "690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068",
+          "show": "The Rest Is History",
+          "title": "690. A Murderous Affair: Death at Mayerling (Part 2)",
+          "url": "/wiki/sources/690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/austriahungary/"
+    },
     "BaSuLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -1234,6 +1342,29 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/bostondynamics/"
     },
+    "BoundarylessKindnessTrap": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》919丨想活得好？先踢开善良的自己 [lrqxfZIR4BQXt0v3cCvfEf8FaaDE].md",
+          "key": "zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》919丨想活得好？先踢开善良的自己",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》883丨老板要反思：如何避免高官内讧？ [lph-fycNqAs6hZtjQ1jbSiSVyliD].md",
+          "key": "zizhi-tongjian-hanji-883-laoban-yao-fansi-ruhe-bimian-gaoguan-neihong-lph-fycnqas6hztjq1jbsisvylid",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》883丨老板要反思：如何避免高官内讧？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-883-laoban-yao-fansi-ruhe-bimian-gaoguan-neihong-lph-fycnqas6hztjq1jbsisvylid/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/boundarylesskindnesstrap/"
+    },
     "BrandDoing": {
       "episode_count": 1,
       "show_count": 1,
@@ -1281,6 +1412,50 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/brandvalueprotection/"
+    },
+    "BudgetedFrontierSuppression": {
+      "episode_count": 5,
+      "show_count": 1,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》880丨为何职场老油条热衷于称病？ [lnZFGWGhrXrPLtsMB8gOdap_NyZw].md",
+          "key": "zizhi-tongjian-hanji-880-weihe-zhichang-laoyoutiao-rezhong-yu-chengbing-lnzfgwghrxrpltsmb8godap-nyzw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》880丨为何职场老油条热衷于称病？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-880-weihe-zhichang-laoyoutiao-rezhong-yu-chengbing-lnzfgwghrxrpltsmb8godap-nyzw/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》881丨是谁在发战争横财？ [lipglSlIJnBP0CuqFpPS88q5wit6].md",
+          "key": "zizhi-tongjian-hanji-881-shi-shui-zai-fa-zhanzheng-hengcai-lipglslijnbp0cuqfpps88q5wit6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》881丨是谁在发战争横财？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-881-shi-shui-zai-fa-zhanzheng-hengcai-lipglslijnbp0cuqfpps88q5wit6/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》883丨老板要反思：如何避免高官内讧？ [lph-fycNqAs6hZtjQ1jbSiSVyliD].md",
+          "key": "zizhi-tongjian-hanji-883-laoban-yao-fansi-ruhe-bimian-gaoguan-neihong-lph-fycnqas6hztjq1jbsisvylid",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》883丨老板要反思：如何避免高官内讧？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-883-laoban-yao-fansi-ruhe-bimian-gaoguan-neihong-lph-fycnqas6hztjq1jbsisvylid/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》891丨高段位的母亲，是家的定海神针 [lmqKzsNhTIWc9wZcee869Kuu57M5].md",
+          "key": "zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》891丨高段位的母亲，是家的定海神针",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》892丨修止语，古人有什么捷径？ [lnObbkp6mJ4xyB9jEuqSiUQogcT-].md",
+          "key": "zizhi-tongjian-hanji-892-xiu-zhiyu-guren-youshenme-jiejing-lnobbkp6mj4xyb9jeuqsiuqogct",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》892丨修止语，古人有什么捷径？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-892-xiu-zhiyu-guren-youshenme-jiejing-lnobbkp6mj4xyb9jeuqsiuqogct/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/budgetedfrontiersuppression/"
     },
     "CaixinMedia": {
       "episode_count": 1,
@@ -1336,6 +1511,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/californiaprivacyprotectionagency/"
+    },
+    "CampaignFinanceAccessIncentive": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》881丨是谁在发战争横财？ [lipglSlIJnBP0CuqFpPS88q5wit6].md",
+          "key": "zizhi-tongjian-hanji-881-shi-shui-zai-fa-zhanzheng-hengcai-lipglslijnbp0cuqfpps88q5wit6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》881丨是谁在发战争横财？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-881-shi-shui-zai-fa-zhanzheng-hengcai-lipglslijnbp0cuqfpps88q5wit6/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/campaignfinanceaccessincentive/"
     },
     "CaoJieLateHan": {
       "episode_count": 13,
@@ -1469,6 +1660,38 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/caperni/"
     },
+    "CaptiveSubmissionResidualLoyalty": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1041丨揭秘历史上真实的“关羽降曹” [luiSP0NdK1lFRC87BYYGn6r8mYhx].md",
+          "key": "zizhi-tongjian-hanji-1041-jiemi-lishishang-zhenshi-de-guanyu-jiangcao-luisp0ndk1lfrc87byygn6r8myhx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1041丨揭秘历史上真实的“关羽降曹”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1041-jiemi-lishishang-zhenshi-de-guanyu-jiangcao-luisp0ndk1lfrc87byygn6r8myhx/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/captivesubmissionresidualloyalty/"
+    },
+    "CapuchinCrypt": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7203783068 [GLT7203783068].md",
+          "key": "690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068",
+          "show": "The Rest Is History",
+          "title": "690. A Murderous Affair: Death at Mayerling (Part 2)",
+          "url": "/wiki/sources/690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/capuchincrypt/"
+    },
     "CareerCognitionEducation": {
       "episode_count": 2,
       "show_count": 1,
@@ -1492,6 +1715,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/careercognitioneducation/"
     },
+    "CarmeliteConventMayerling": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7203783068 [GLT7203783068].md",
+          "key": "690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068",
+          "show": "The Rest Is History",
+          "title": "690. A Murderous Affair: Death at Mayerling (Part 2)",
+          "url": "/wiki/sources/690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/carmeliteconventmayerling/"
+    },
     "CarrieBatten": {
       "episode_count": 1,
       "show_count": 1,
@@ -1507,6 +1746,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/carriebatten/"
+    },
+    "CatholicBurialLegitimacy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7203783068 [GLT7203783068].md",
+          "key": "690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068",
+          "show": "The Rest Is History",
+          "title": "690. A Murderous Affair: Death at Mayerling (Part 2)",
+          "url": "/wiki/sources/690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/catholicburiallegitimacy/"
     },
     "ChangXiLateHan": {
       "episode_count": 1,
@@ -1541,9 +1796,9 @@
       "url": "/wiki/entities/chezhoulatehan/"
     },
     "ChenFanLateHan": {
-      "episode_count": 7,
+      "episode_count": 12,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》901 丨急性子的人会是什么下场？ [lh1yfyJZqPTXVtnV9tAiQms9YjUd].md",
@@ -1593,6 +1848,41 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》884丨职场除奸，要对谁先开刀？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》882丨风光太盛，注定不得好死？ [lpHAGU5ljuXxjWx_UvNBS229Wjii].md",
+          "key": "zizhi-tongjian-hanji-882-fengguang-taisheng-zhuding-bude-haosi-lphagu5ljuxxjwx-uvnbs229wjii",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》882丨风光太盛，注定不得好死？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-882-fengguang-taisheng-zhuding-bude-haosi-lphagu5ljuxxjwx-uvnbs229wjii/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》880丨为何职场老油条热衷于称病？ [lnZFGWGhrXrPLtsMB8gOdap_NyZw].md",
+          "key": "zizhi-tongjian-hanji-880-weihe-zhichang-laoyoutiao-rezhong-yu-chengbing-lnzfgwghrxrpltsmb8godap-nyzw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》880丨为何职场老油条热衷于称病？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-880-weihe-zhichang-laoyoutiao-rezhong-yu-chengbing-lnzfgwghrxrpltsmb8godap-nyzw/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》876丨职场总碰壁？说明你没有找对关系 [lrJoB_a07t29hDR0iOgrmcSjr7QP].md",
+          "key": "zizhi-tongjian-hanji-876-zhichang-zong-pengbi-shuoming-ni-meiyou-zhaodui-guanxi-lrjob-a07t29hdr0iogrmcsjr7qp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》876丨职场总碰壁？说明你没有找对关系",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-876-zhichang-zong-pengbi-shuoming-ni-meiyou-zhaodui-guanxi-lrjob-a07t29hdr0iogrmcsjr7qp/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》874丨震惊：母子相残，天理难容！ [lpR3eGlbnWBVe1ClrTTApw6K5zdq].md",
+          "key": "zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》874丨震惊：母子相残，天理难容！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》872丨他娶妾不成，竟杀人全家 [ltBEGc7GBET2_HLhwhtevVltGNlC].md",
+          "key": "zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》872丨他娶妾不成，竟杀人全家",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc/"
         }
       ],
       "updated": "2026-08-27",
@@ -1615,9 +1905,9 @@
       "url": "/wiki/entities/chenjianyuanshuretainer/"
     },
     "ChenShiLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》938丨历史的警醒！软弱只会带来屈辱 [lnlNrkETgFbADHFJbZDJjtrMQFsH].md",
@@ -1632,9 +1922,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》896丨假如乱世降临，你该如何自保？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-896-jiaru-luanshi-jianglin-ni-gai-ruhe-zibao-lsuvt-ksp-gfggc9riqqovjswkg/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》874丨震惊：母子相残，天理难容！ [lpR3eGlbnWBVe1ClrTTApw6K5zdq].md",
+          "key": "zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》874丨震惊：母子相残，天理难容！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-08-27",
       "url": "/wiki/entities/chenshilatehan/"
     },
     "ChinaWomensNationalFootballTeam": {
@@ -1728,6 +2025,45 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/cityplacepremium/"
+    },
+    "CoercedImperialMarriage": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》878丨不受约束的权力，害人不浅 [lvEvnahCxShGBz5zYqBAF36PA7Nk].md",
+          "key": "zizhi-tongjian-hanji-878-bu-shou-yueshu-de-quanli-hairen-buqian-lvevnahcxshgbz5zyqbaf36pa7nk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》878丨不受约束的权力，害人不浅",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-878-bu-shou-yueshu-de-quanli-hairen-buqian-lvevnahcxshgbz5zyqbaf36pa7nk/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/coercedimperialmarriage/"
+    },
+    "CommandContinuityDamageControl": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》164-1｜刘邦隔墙嘲讽 气得项羽射箭偷袭 [lhs6miq2aA3AvnnY_pRxTVKfxGvY].md",
+          "key": "zizhi-tongjian-hanji-164-1-liubang-geqiang-chaofeng-qi-de-xiangyu-shejian-touxi-lhs6miq2aa3avnny-prxtvkfxgvy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》164-1｜刘邦隔墙嘲讽 气得项羽射箭偷袭",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-164-1-liubang-geqiang-chaofeng-qi-de-xiangyu-shejian-touxi-lhs6miq2aa3avnny-prxtvkfxgvy/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1045丨他是江东霸业的开创者，可惜死的太窝囊 [lgjJDmcfw1QKUBA2xBLgVVlFPy9d].md",
+          "key": "zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1045丨他是江东霸业的开创者，可惜死的太窝囊",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/commandcontinuitydamagecontrol/"
     },
     "ConcealedCapabilityTiming": {
       "episode_count": 2,
@@ -1895,6 +2231,54 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/consumerdatadeletion/"
     },
+    "ControllableChildAccession": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》879丨死在女人身上的昏庸男人 [lqz5_Mpi0WAA_xmUHJHwkAECjJRC].md",
+          "key": "zizhi-tongjian-hanji-879-si-zai-nvren-shenshang-de-hunyong-nanren-lqz5-mpi0waa-xmuhjhwkaecjjrc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》879丨死在女人身上的昏庸男人",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-879-si-zai-nvren-shenshang-de-hunyong-nanren-lqz5-mpi0waa-xmuhjhwkaecjjrc/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/controllablechildaccession/"
+    },
+    "CountessLarish": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7203783068 [GLT7203783068].md",
+          "key": "690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068",
+          "show": "The Rest Is History",
+          "title": "690. A Murderous Affair: Death at Mayerling (Part 2)",
+          "url": "/wiki/sources/690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/countesslarish/"
+    },
+    "CountessMarieFestetics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7203783068 [GLT7203783068].md",
+          "key": "690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068",
+          "show": "The Rest Is History",
+          "title": "690. A Murderous Affair: Death at Mayerling (Part 2)",
+          "url": "/wiki/sources/690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/countessmariefestetics/"
+    },
     "CourtLegitimacyOverPatronLoyalty": {
       "episode_count": 2,
       "show_count": 1,
@@ -1950,6 +2334,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/crisiscomposurecoverstory/"
     },
+    "CrisisDutyContinuity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》880丨为何职场老油条热衷于称病？ [lnZFGWGhrXrPLtsMB8gOdap_NyZw].md",
+          "key": "zizhi-tongjian-hanji-880-weihe-zhichang-laoyoutiao-rezhong-yu-chengbing-lnzfgwghrxrpltsmb8godap-nyzw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》880丨为何职场老油条热衷于称病？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-880-weihe-zhichang-laoyoutiao-rezhong-yu-chengbing-lnzfgwghrxrpltsmb8godap-nyzw/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/crisisdutycontinuity/"
+    },
     "CrisisWithdrawalSelfProtection": {
       "episode_count": 3,
       "show_count": 1,
@@ -1979,6 +2379,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/crisiswithdrawalselfprotection/"
+    },
+    "CrownPrinceRudolf": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7203783068 [GLT7203783068].md",
+          "key": "690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068",
+          "show": "The Rest Is History",
+          "title": "690. A Murderous Affair: Death at Mayerling (Part 2)",
+          "url": "/wiki/sources/690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/crownprincerudolf/"
     },
     "CuiYanLateHan": {
       "episode_count": 1,
@@ -2247,9 +2663,9 @@
       "url": "/wiki/concepts/domesticbagsupplychainupgrade/"
     },
     "DongqiangLateHan": {
-      "episode_count": 2,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》892丨修止语，古人有什么捷径？ [lnObbkp6mJ4xyB9jEuqSiUQogcT-].md",
@@ -2264,6 +2680,27 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》891丨高段位的母亲，是家的定海神针",
           "url": "/wiki/sources/zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》883丨老板要反思：如何避免高官内讧？ [lph-fycNqAs6hZtjQ1jbSiSVyliD].md",
+          "key": "zizhi-tongjian-hanji-883-laoban-yao-fansi-ruhe-bimian-gaoguan-neihong-lph-fycnqas6hztjq1jbsisvylid",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》883丨老板要反思：如何避免高官内讧？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-883-laoban-yao-fansi-ruhe-bimian-gaoguan-neihong-lph-fycnqas6hztjq1jbsisvylid/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》881丨是谁在发战争横财？ [lipglSlIJnBP0CuqFpPS88q5wit6].md",
+          "key": "zizhi-tongjian-hanji-881-shi-shui-zai-fa-zhanzheng-hengcai-lipglslijnbp0cuqfpps88q5wit6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》881丨是谁在发战争横财？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-881-shi-shui-zai-fa-zhanzheng-hengcai-lipglslijnbp0cuqfpps88q5wit6/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》880丨为何职场老油条热衷于称病？ [lnZFGWGhrXrPLtsMB8gOdap_NyZw].md",
+          "key": "zizhi-tongjian-hanji-880-weihe-zhichang-laoyoutiao-rezhong-yu-chengbing-lnzfgwghrxrpltsmb8godap-nyzw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》880丨为何职场老油条热衷于称病？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-880-weihe-zhichang-laoyoutiao-rezhong-yu-chengbing-lnzfgwghrxrpltsmb8godap-nyzw/"
         }
       ],
       "updated": "2026-08-27",
@@ -2286,9 +2723,9 @@
       "url": "/wiki/concepts/dopaminewantingloop/"
     },
     "DouWuLateHan": {
-      "episode_count": 8,
+      "episode_count": 12,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》898丨认贼作父？可怜之人能有多荒唐？ [lgFUp6tYV85zHvnMZf6XleSMBlCj].md",
@@ -2345,6 +2782,34 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》884丨职场除奸，要对谁先开刀？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》882丨风光太盛，注定不得好死？ [lpHAGU5ljuXxjWx_UvNBS229Wjii].md",
+          "key": "zizhi-tongjian-hanji-882-fengguang-taisheng-zhuding-bude-haosi-lphagu5ljuxxjwx-uvnbs229wjii",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》882丨风光太盛，注定不得好死？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-882-fengguang-taisheng-zhuding-bude-haosi-lphagu5ljuxxjwx-uvnbs229wjii/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》879丨死在女人身上的昏庸男人 [lqz5_Mpi0WAA_xmUHJHwkAECjJRC].md",
+          "key": "zizhi-tongjian-hanji-879-si-zai-nvren-shenshang-de-hunyong-nanren-lqz5-mpi0waa-xmuhjhwkaecjjrc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》879丨死在女人身上的昏庸男人",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-879-si-zai-nvren-shenshang-de-hunyong-nanren-lqz5-mpi0waa-xmuhjhwkaecjjrc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》876丨职场总碰壁？说明你没有找对关系 [lrJoB_a07t29hDR0iOgrmcSjr7QP].md",
+          "key": "zizhi-tongjian-hanji-876-zhichang-zong-pengbi-shuoming-ni-meiyou-zhaodui-guanxi-lrjob-a07t29hdr0iogrmcsjr7qp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》876丨职场总碰壁？说明你没有找对关系",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-876-zhichang-zong-pengbi-shuoming-ni-meiyou-zhaodui-guanxi-lrjob-a07t29hdr0iogrmcsjr7qp/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》875丨离大谱！为何他以入狱为荣？ [lgfFkjk_0Yu_EhFsW59AnoyCH_lD].md",
+          "key": "zizhi-tongjian-hanji-875-li-dapu-weihe-ta-yi-ruyu-wei-rong-lgffkjk-0yu-ehfsw59anoych-ld",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》875丨离大谱！为何他以入狱为荣？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-875-li-dapu-weihe-ta-yi-ruyu-wei-rong-lgffkjk-0yu-ehfsw59anoych-ld/"
         }
       ],
       "updated": "2026-08-27",
@@ -2399,9 +2864,9 @@
       "url": "/wiki/entities/dugenlatehan/"
     },
     "DuMiLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》884丨职场除奸，要对谁先开刀？ [lvtC3uQLsO242olKyin3fvz5A7YS].md",
@@ -2416,6 +2881,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》893丨荣誉榜如何变成死亡名单？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》875丨离大谱！为何他以入狱为荣？ [lgfFkjk_0Yu_EhFsW59AnoyCH_lD].md",
+          "key": "zizhi-tongjian-hanji-875-li-dapu-weihe-ta-yi-ruyu-wei-rong-lgffkjk-0yu-ehfsw59anoych-ld",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》875丨离大谱！为何他以入狱为荣？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-875-li-dapu-weihe-ta-yi-ruyu-wei-rong-lgffkjk-0yu-ehfsw59anoych-ld/"
         }
       ],
       "updated": "2026-08-27",
@@ -2438,9 +2910,9 @@
       "url": "/wiki/entities/duxilatehan/"
     },
     "DuanJiongLateHan": {
-      "episode_count": 8,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》897丨职场必读！什么才叫领导力？ [lvRRMkSykaZLSb7W8aBbdmNqfzQQ].md",
@@ -2497,6 +2969,27 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》891丨高段位的母亲，是家的定海神针",
           "url": "/wiki/sources/zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》883丨老板要反思：如何避免高官内讧？ [lph-fycNqAs6hZtjQ1jbSiSVyliD].md",
+          "key": "zizhi-tongjian-hanji-883-laoban-yao-fansi-ruhe-bimian-gaoguan-neihong-lph-fycnqas6hztjq1jbsisvylid",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》883丨老板要反思：如何避免高官内讧？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-883-laoban-yao-fansi-ruhe-bimian-gaoguan-neihong-lph-fycnqas6hztjq1jbsisvylid/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》881丨是谁在发战争横财？ [lipglSlIJnBP0CuqFpPS88q5wit6].md",
+          "key": "zizhi-tongjian-hanji-881-shi-shui-zai-fa-zhanzheng-hengcai-lipglslijnbp0cuqfpps88q5wit6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》881丨是谁在发战争横财？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-881-shi-shui-zai-fa-zhanzheng-hengcai-lipglslijnbp0cuqfpps88q5wit6/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》880丨为何职场老油条热衷于称病？ [lnZFGWGhrXrPLtsMB8gOdap_NyZw].md",
+          "key": "zizhi-tongjian-hanji-880-weihe-zhichang-laoyoutiao-rezhong-yu-chengbing-lnzfgwghrxrpltsmb8godap-nyzw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》880丨为何职场老油条热衷于称病？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-880-weihe-zhichang-laoyoutiao-rezhong-yu-chengbing-lnzfgwghrxrpltsmb8godap-nyzw/"
         }
       ],
       "updated": "2026-08-27",
@@ -2517,6 +3010,38 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/dulldirtydangerousrobotics/"
+    },
+    "DynasticHeirLossShock": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7203783068 [GLT7203783068].md",
+          "key": "690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068",
+          "show": "The Rest Is History",
+          "title": "690. A Murderous Affair: Death at Mayerling (Part 2)",
+          "url": "/wiki/sources/690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/dynasticheirlossshock/"
+    },
+    "DynasticScandalSuppression": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7203783068 [GLT7203783068].md",
+          "key": "690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068",
+          "show": "The Rest Is History",
+          "title": "690. A Murderous Affair: Death at Mayerling (Part 2)",
+          "url": "/wiki/sources/690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/dynasticscandalsuppression/"
     },
     "ElanParadoxMachines": {
       "episode_count": 1,
@@ -2675,10 +3200,82 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/embodiedtrainingagainstfear/"
     },
-    "EmpressDowagerDouMiao": {
-      "episode_count": 7,
+    "EmperorHuanOfHan": {
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 9,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》901 丨急性子的人会是什么下场？ [lh1yfyJZqPTXVtnV9tAiQms9YjUd].md",
+          "key": "zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》901 丨急性子的人会是什么下场？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》914丨信任的人，为何总伤你最深？ [lvwit_RZrKScn5A3h6wblNTxpPsO].md",
+          "key": "zizhi-tongjian-hanji-914-xinren-de-ren-weihe-zong-shang-ni-zui-shen-lvwit-rzrkscn5a3h6wblntxppso",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》914丨信任的人，为何总伤你最深？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-914-xinren-de-ren-weihe-zong-shang-ni-zui-shen-lvwit-rzrkscn5a3h6wblntxppso/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》929丨对事不对人，你信了吗？ [lgaXJ0jzoPddmt3C5hiBNExqLhB3].md",
+          "key": "zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》929丨对事不对人，你信了吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》879丨死在女人身上的昏庸男人 [lqz5_Mpi0WAA_xmUHJHwkAECjJRC].md",
+          "key": "zizhi-tongjian-hanji-879-si-zai-nvren-shenshang-de-hunyong-nanren-lqz5-mpi0waa-xmuhjhwkaecjjrc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》879丨死在女人身上的昏庸男人",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-879-si-zai-nvren-shenshang-de-hunyong-nanren-lqz5-mpi0waa-xmuhjhwkaecjjrc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》878丨不受约束的权力，害人不浅 [lvEvnahCxShGBz5zYqBAF36PA7Nk].md",
+          "key": "zizhi-tongjian-hanji-878-bu-shou-yueshu-de-quanli-hairen-buqian-lvevnahcxshgbz5zyqbaf36pa7nk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》878丨不受约束的权力，害人不浅",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-878-bu-shou-yueshu-de-quanli-hairen-buqian-lvevnahcxshgbz5zyqbaf36pa7nk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》876丨职场总碰壁？说明你没有找对关系 [lrJoB_a07t29hDR0iOgrmcSjr7QP].md",
+          "key": "zizhi-tongjian-hanji-876-zhichang-zong-pengbi-shuoming-ni-meiyou-zhaodui-guanxi-lrjob-a07t29hdr0iogrmcsjr7qp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》876丨职场总碰壁？说明你没有找对关系",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-876-zhichang-zong-pengbi-shuoming-ni-meiyou-zhaodui-guanxi-lrjob-a07t29hdr0iogrmcsjr7qp/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》874丨震惊：母子相残，天理难容！ [lpR3eGlbnWBVe1ClrTTApw6K5zdq].md",
+          "key": "zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》874丨震惊：母子相残，天理难容！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》873丨他如何利用天象痛骂帝王？ [lqEbKOdcbCrSVYf80qWxNobYDbHc].md",
+          "key": "zizhi-tongjian-hanji-873-ta-ruhe-liyong-tianxiang-tongma-diwang-lqebkodcbcrsvyf80qwxnobydbhc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》873丨他如何利用天象痛骂帝王？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-873-ta-ruhe-liyong-tianxiang-tongma-diwang-lqebkodcbcrsvyf80qwxnobydbhc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》872丨他娶妾不成，竟杀人全家 [ltBEGc7GBET2_HLhwhtevVltGNlC].md",
+          "key": "zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》872丨他娶妾不成，竟杀人全家",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/emperorhuanofhan/"
+    },
+    "EmpressDowagerDouMiao": {
+      "episode_count": 8,
+      "show_count": 1,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》898丨认贼作父？可怜之人能有多荒唐？ [lgFUp6tYV85zHvnMZf6XleSMBlCj].md",
@@ -2728,10 +3325,33 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》884丨职场除奸，要对谁先开刀？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》879丨死在女人身上的昏庸男人 [lqz5_Mpi0WAA_xmUHJHwkAECjJRC].md",
+          "key": "zizhi-tongjian-hanji-879-si-zai-nvren-shenshang-de-hunyong-nanren-lqz5-mpi0waa-xmuhjhwkaecjjrc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》879丨死在女人身上的昏庸男人",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-879-si-zai-nvren-shenshang-de-hunyong-nanren-lqz5-mpi0waa-xmuhjhwkaecjjrc/"
         }
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/empressdowagerdoumiao/"
+    },
+    "EmpressSisi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7203783068 [GLT7203783068].md",
+          "key": "690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068",
+          "show": "The Rest Is History",
+          "title": "690. A Murderous Affair: Death at Mayerling (Part 2)",
+          "url": "/wiki/sources/690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/empresssisi/"
     },
     "EnergyAbundanceClimateStrategy": {
       "episode_count": 1,
@@ -2793,6 +3413,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/enterpriseaipilotpurgatory/"
     },
+    "EunuchPatronageViolenceShield": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》872丨他娶妾不成，竟杀人全家 [ltBEGc7GBET2_HLhwhtevVltGNlC].md",
+          "key": "zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》872丨他娶妾不成，竟杀人全家",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/eunuchpatronageviolenceshield/"
+    },
     "EvolutionaryMisrecognition": {
       "episode_count": 1,
       "show_count": 1,
@@ -2826,9 +3462,9 @@
       "url": "/wiki/entities/fifawomensworldcup/"
     },
     "FanPangLateHan": {
-      "episode_count": 2,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》893丨荣誉榜如何变成死亡名单？ [lmxzQoaUf79-swWNK_0CEVAv0GQ_].md",
@@ -2843,6 +3479,27 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》892丨修止语，古人有什么捷径？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-892-xiu-zhiyu-guren-youshenme-jiejing-lnobbkp6mj4xyb9jeuqsiuqogct/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》877丨他为何冷落救命恩人？ [loOFS4ruGl-Q8kUNfB-Jpj5mGVhi].md",
+          "key": "zizhi-tongjian-hanji-877-ta-weihe-lengluo-jiuming-enren-loofs4rugl-q8kunfb-jpj5mgvhi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》877丨他为何冷落救命恩人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-877-ta-weihe-lengluo-jiuming-enren-loofs4rugl-q8kunfb-jpj5mgvhi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》876丨职场总碰壁？说明你没有找对关系 [lrJoB_a07t29hDR0iOgrmcSjr7QP].md",
+          "key": "zizhi-tongjian-hanji-876-zhichang-zong-pengbi-shuoming-ni-meiyou-zhaodui-guanxi-lrjob-a07t29hdr0iogrmcsjr7qp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》876丨职场总碰壁？说明你没有找对关系",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-876-zhichang-zong-pengbi-shuoming-ni-meiyou-zhaodui-guanxi-lrjob-a07t29hdr0iogrmcsjr7qp/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》874丨震惊：母子相残，天理难容！ [lpR3eGlbnWBVe1ClrTTApw6K5zdq].md",
+          "key": "zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》874丨震惊：母子相残，天理难容！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq/"
         }
       ],
       "updated": "2026-08-27",
@@ -2997,6 +3654,89 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/fengchanlatehan/"
     },
+    "FengyishanBattleLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》881丨是谁在发战争横财？ [lipglSlIJnBP0CuqFpPS88q5wit6].md",
+          "key": "zizhi-tongjian-hanji-881-shi-shui-zai-fa-zhanzheng-hengcai-lipglslijnbp0cuqfpps88q5wit6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》881丨是谁在发战争横财？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-881-shi-shui-zai-fa-zhanzheng-hengcai-lipglslijnbp0cuqfpps88q5wit6/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/fengyishanbattlelatehan/"
+    },
+    "FictionAsHistoricalEvidence": {
+      "episode_count": 6,
+      "show_count": 3,
+      "source_note_count": 6,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》923 plus丨乱世风云起：芮淇揭秘史上最真实的三国 [lj0ic_BhaWQuT5zbUTBzD0orxjoe].md",
+          "key": "zizhi-tongjian-hanji-923-plus-luanshi-fengyun-qi-ruiqi-jiemi-shishang-zui-zhenshi-de-sanguo-lj0ic-bhawqut5zbutbzd0orxjoe",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》923 plus丨乱世风云起：芮淇揭秘史上最真实的三国",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-923-plus-luanshi-fengyun-qi-ruiqi-jiemi-shishang-zui-zhenshi-de-sanguo-lj0ic-bhawqut5zbutbzd0orxjoe/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》955丨关羽斩华雄其实是伪历史？？？ [lnDkrj_fNePye8IU-ifgyh-VZySF].md",
+          "key": "zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》955丨关羽斩华雄其实是伪历史？？？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf/"
+        },
+        {
+          "episode_file": "28.聊斋志异：不为君王唱赞歌，偏向苍生说鬼话 [587843930].md",
+          "key": "28-liaozhai-zhiyi-buwei-junwang-chang-zange-pianxiang-cangsheng-shuo-guihua-587843930",
+          "show": "蜜獾吃书",
+          "title": "28.聊斋志异：不为君王唱赞歌，偏向苍生说鬼话",
+          "url": "/wiki/sources/28-liaozhai-zhiyi-buwei-junwang-chang-zange-pianxiang-cangsheng-shuo-guihua-587843930/"
+        },
+        {
+          "episode_file": "番外 15： 半拿铁讲金瓶梅啦，而且还是绿色的 [991508433].md",
+          "key": "fanwai-15-banlatte-jiang-jinpingmei-la-erqie-haishi-luse-de-991508433",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "番外 15：半拿铁讲《金瓶梅》啦，而且还是绿色的",
+          "url": "/wiki/sources/fanwai-15-banlatte-jiang-jinpingmei-la-erqie-haishi-luse-de-991508433/"
+        },
+        {
+          "episode_file": "148. 王氏之死：断井颓垣上的历史妆镜 [892588934].md",
+          "key": "148-wangshi-zhisi-duanjing-tuiyuan-shang-de-lishi-zhuangjing-892588934",
+          "show": "蜜獾吃书",
+          "title": "148. 王氏之死：断井颓垣上的历史妆镜",
+          "url": "/wiki/sources/148-wangshi-zhisi-duanjing-tuiyuan-shang-de-lishi-zhuangjing-892588934/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1041丨揭秘历史上真实的“关羽降曹” [luiSP0NdK1lFRC87BYYGn6r8mYhx].md",
+          "key": "zizhi-tongjian-hanji-1041-jiemi-lishishang-zhenshi-de-guanyu-jiangcao-luisp0ndk1lfrc87byygn6r8myhx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1041丨揭秘历史上真实的“关羽降曹”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1041-jiemi-lishishang-zhenshi-de-guanyu-jiangcao-luisp0ndk1lfrc87byygn6r8myhx/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/fictionashistoricalevidence/"
+    },
+    "FinDeSiecleViennaCrisisReading": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7203783068 [GLT7203783068].md",
+          "key": "690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068",
+          "show": "The Rest Is History",
+          "title": "690. A Murderous Affair: Death at Mayerling (Part 2)",
+          "url": "/wiki/sources/690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/findesiecleviennacrisisreading/"
+    },
     "ForceBackedSurrenderPersuasion": {
       "episode_count": 1,
       "show_count": 1,
@@ -3012,6 +3752,43 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/forcebackedsurrenderpersuasion/"
+    },
+    "FortifiedAttritionPatience": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮 [liMAFqSkGbLRweTeSTyH39w_hZM4].md",
+          "key": "zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》942丨越优秀的人活得越累，合理吗？ [lkwlRcgnT-kxXC2qqZ6z6WKG7e5z].md",
+          "key": "zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》942丨越优秀的人活得越累，合理吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》118-1｜王翦率六十万大军 对战项燕！好戏开场了！ [lsf2puiNwg0M3BgYi25Znof7AZnu].md",
+          "key": "zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》118-1｜王翦率六十万大军 对战项燕！好戏开场了！",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1042丨聪明还是顽固？田丰因顶撞袁绍入狱 [lk5x6If2rouarmGiChtynzHl3cgS].md",
+          "key": "zizhi-tongjian-hanji-1042-congming-haishi-wangu-tianfeng-yin-dingzhuang-yuanshao-ruyu-lk5x6if2rouarmgichtynzhl3cgs",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1042丨聪明还是顽固？田丰因顶撞袁绍入狱",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1042-congming-haishi-wangu-tianfeng-yin-dingzhuang-yuanshao-ruyu-lk5x6if2rouarmgichtynzhl3cgs/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/fortifiedattritionpatience/"
     },
     "FortressSecurityIllusion": {
       "episode_count": 4,
@@ -3172,6 +3949,38 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/franciswalsingham/"
+    },
+    "FranzFerdinand": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7203783068 [GLT7203783068].md",
+          "key": "690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068",
+          "show": "The Rest Is History",
+          "title": "690. A Murderous Affair: Death at Mayerling (Part 2)",
+          "url": "/wiki/sources/690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/franzferdinand/"
+    },
+    "FranzJosephI": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7203783068 [GLT7203783068].md",
+          "key": "690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068",
+          "show": "The Rest Is History",
+          "title": "690. A Murderous Affair: Death at Mayerling (Part 2)",
+          "url": "/wiki/sources/690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/franzjosephi/"
     },
     "FraserMcIlwraith": {
       "episode_count": 1,
@@ -3697,10 +4506,40 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/guanjinglatehan/"
     },
-    "GuanduCampaign": {
-      "episode_count": 5,
+    "GuanYu": {
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》955丨关羽斩华雄其实是伪历史？？？ [lnDkrj_fNePye8IU-ifgyh-VZySF].md",
+          "key": "zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》955丨关羽斩华雄其实是伪历史？？？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1013丨典韦之死，竟是曹操好色害了他？ [lhe6jrPJP3cfbdhvJTdIeziJfnOH].md",
+          "key": "zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1013丨典韦之死，竟是曹操好色害了他？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1041丨揭秘历史上真实的“关羽降曹” [luiSP0NdK1lFRC87BYYGn6r8mYhx].md",
+          "key": "zizhi-tongjian-hanji-1041-jiemi-lishishang-zhenshi-de-guanyu-jiangcao-luisp0ndk1lfrc87byygn6r8myhx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1041丨揭秘历史上真实的“关羽降曹”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1041-jiemi-lishishang-zhenshi-de-guanyu-jiangcao-luisp0ndk1lfrc87byygn6r8myhx/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/guanyu/"
+    },
+    "GuanduCampaign": {
+      "episode_count": 6,
+      "show_count": 1,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1026丨揭秘三国第一猛将吕布的落幕 [lhjf_aguJuIgLqCHUMtFf3tfTxg1].md",
@@ -3736,6 +4575,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1032丨对待叛徒，曹操为何仁慈？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1032-duidai-pantu-caocao-weihe-renci-lmrr3c2f2dayectlwndt4p-katuy/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1042丨聪明还是顽固？田丰因顶撞袁绍入狱 [lk5x6If2rouarmGiChtynzHl3cgS].md",
+          "key": "zizhi-tongjian-hanji-1042-congming-haishi-wangu-tianfeng-yin-dingzhuang-yuanshao-ruyu-lk5x6if2rouarmgichtynzhl3cgs",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1042丨聪明还是顽固？田丰因顶撞袁绍入狱",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1042-congming-haishi-wangu-tianfeng-yin-dingzhuang-yuanshao-ruyu-lk5x6if2rouarmgichtynzhl3cgs/"
         }
       ],
       "updated": "2026-08-27",
@@ -3855,6 +4701,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/guoyilatehan/"
+    },
+    "HabsburgDynasty": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7203783068 [GLT7203783068].md",
+          "key": "690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068",
+          "show": "The Rest Is History",
+          "title": "690. A Murderous Affair: Death at Mayerling (Part 2)",
+          "url": "/wiki/sources/690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/habsburgdynasty/"
     },
     "HanSongLateHan": {
       "episode_count": 2,
@@ -3997,6 +4859,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/heyonglatehan/"
     },
+    "HeiligenkreuzAbbey": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7203783068 [GLT7203783068].md",
+          "key": "690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068",
+          "show": "The Rest Is History",
+          "title": "690. A Murderous Affair: Death at Mayerling (Part 2)",
+          "url": "/wiki/sources/690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/heiligenkreuzabbey/"
+    },
     "HeirloomImperialSeal": {
       "episode_count": 4,
       "show_count": 1,
@@ -4066,10 +4944,26 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/historicalquestionconsciousness/"
     },
-    "HouLanLateHan": {
-      "episode_count": 4,
+    "HofburgPalace": {
+      "episode_count": 1,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7203783068 [GLT7203783068].md",
+          "key": "690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068",
+          "show": "The Rest Is History",
+          "title": "690. A Murderous Affair: Death at Mayerling (Part 2)",
+          "url": "/wiki/sources/690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/hofburgpalace/"
+    },
+    "HouLanLateHan": {
+      "episode_count": 5,
+      "show_count": 1,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》900丨职场权术都不动，该怎样生存 [lmhJwOsY4EsWyHfpPDGHfsMfycQr].md",
@@ -4098,10 +4992,33 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》885丨生死关头，他请假休息？！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-885-shengsi-guantou-ta-qingjia-xiuxi-luydnh9oqdyyfpbeztooi2e7lvca/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》872丨他娶妾不成，竟杀人全家 [ltBEGc7GBET2_HLhwhtevVltGNlC].md",
+          "key": "zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》872丨他娶妾不成，竟杀人全家",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc/"
         }
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/houlanlatehan/"
+    },
+    "HousingSupplyOverRentControl": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The Fight Over Open Source AI, Anthropic's $1.5B Payout, NYC Socialists： Evictions = Violence？ [42209480].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-fight-over-open-source-ai-anthropics-15b-payout-nyc-socialists-evictions-violence-42209480",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The Fight Over Open Source AI, Anthropic's $1.5B Payout, NYC Socialists: Evictions = Violence?",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-fight-over-open-source-ai-anthropics-15b-payout-nyc-socialists-evictions-violence-42209480/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/housingsupplyoverrentcontrol/"
     },
     "HuTengLateHan": {
       "episode_count": 1,
@@ -4163,6 +5080,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/huaxin/"
     },
+    "HuangFuDonghaiLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》872丨他娶妾不成，竟杀人全家 [ltBEGc7GBET2_HLhwhtevVltGNlC].md",
+          "key": "zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》872丨他娶妾不成，竟杀人全家",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/huangfudonghailatehan/"
+    },
     "HuangYiRobotics": {
       "episode_count": 1,
       "show_count": 1,
@@ -4208,6 +5141,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/huangzu/"
+    },
+    "HuangfuGuiLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》875丨离大谱！为何他以入狱为荣？ [lgfFkjk_0Yu_EhFsW59AnoyCH_lD].md",
+          "key": "zizhi-tongjian-hanji-875-li-dapu-weihe-ta-yi-ruyu-wei-rong-lgffkjk-0yu-ehfsw59anoych-ld",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》875丨离大谱！为何他以入狱为荣？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-875-li-dapu-weihe-ta-yi-ruyu-wei-rong-lgffkjk-0yu-ehfsw59anoych-ld/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/huangfuguilatehan/"
     },
     "HumanRobotSafetyCertification": {
       "episode_count": 1,
@@ -4283,6 +5232,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/humanoidrobotcommercialization/"
     },
+    "HuoXuLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》877丨他为何冷落救命恩人？ [loOFS4ruGl-Q8kUNfB-Jpj5mGVhi].md",
+          "key": "zizhi-tongjian-hanji-877-ta-weihe-lengluo-jiuming-enren-loofs4rugl-q8kunfb-jpj5mgvhi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》877丨他为何冷落救命恩人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-877-ta-weihe-lengluo-jiuming-enren-loofs4rugl-q8kunfb-jpj5mgvhi/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/huoxulatehan/"
+    },
     "HuyangLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -4321,6 +5286,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/industrialinspectionrobotics/"
+    },
+    "InfanticideCustomCorrection": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》874丨震惊：母子相残，天理难容！ [lpR3eGlbnWBVe1ClrTTApw6K5zdq].md",
+          "key": "zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》874丨震惊：母子相残，天理难容！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/infanticidecustomcorrection/"
     },
     "InfinityVentureStudio": {
       "episode_count": 1,
@@ -4884,6 +5865,29 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/jenniferking/"
     },
+    "JiaBiaoLateHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》876丨职场总碰壁？说明你没有找对关系 [lrJoB_a07t29hDR0iOgrmcSjr7QP].md",
+          "key": "zizhi-tongjian-hanji-876-zhichang-zong-pengbi-shuoming-ni-meiyou-zhaodui-guanxi-lrjob-a07t29hdr0iogrmcsjr7qp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》876丨职场总碰壁？说明你没有找对关系",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-876-zhichang-zong-pengbi-shuoming-ni-meiyou-zhaodui-guanxi-lrjob-a07t29hdr0iogrmcsjr7qp/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》874丨震惊：母子相残，天理难容！ [lpR3eGlbnWBVe1ClrTTApw6K5zdq].md",
+          "key": "zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》874丨震惊：母子相残，天理难容！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/jiabiaolatehan/"
+    },
     "JiaXu": {
       "episode_count": 13,
       "show_count": 1,
@@ -5046,6 +6050,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/jingyilatehan/"
     },
+    "JohannLoschek": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7203783068 [GLT7203783068].md",
+          "key": "690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068",
+          "show": "The Rest Is History",
+          "title": "690. A Murderous Affair: Death at Mayerling (Part 2)",
+          "url": "/wiki/sources/690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/johannloschek/"
+    },
     "JonathanHurst": {
       "episode_count": 1,
       "show_count": 1,
@@ -5061,6 +6081,38 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/jonathanhurst/"
+    },
+    "JosefBratfisch": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7203783068 [GLT7203783068].md",
+          "key": "690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068",
+          "show": "The Rest Is History",
+          "title": "690. A Murderous Affair: Death at Mayerling (Part 2)",
+          "url": "/wiki/sources/690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/josefbratfisch/"
+    },
+    "JosefHoyos": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7203783068 [GLT7203783068].md",
+          "key": "690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068",
+          "show": "The Rest Is History",
+          "title": "690. A Murderous Affair: Death at Mayerling (Part 2)",
+          "url": "/wiki/sources/690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/josefhoyos/"
     },
     "JoshSpencer": {
       "episode_count": 1,
@@ -5122,6 +6174,38 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/jushou/"
     },
+    "KaiserWilhelmII": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7203783068 [GLT7203783068].md",
+          "key": "690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068",
+          "show": "The Rest Is History",
+          "title": "690. A Murderous Affair: Death at Mayerling (Part 2)",
+          "url": "/wiki/sources/690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/kaiserwilhelmii/"
+    },
+    "KarlLudwigOfAustria": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7203783068 [GLT7203783068].md",
+          "key": "690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068",
+          "show": "The Rest Is History",
+          "title": "690. A Murderous Affair: Death at Mayerling (Part 2)",
+          "url": "/wiki/sources/690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/karlludwigofaustria/"
+    },
     "KenCato": {
       "episode_count": 1,
       "show_count": 1,
@@ -5162,9 +6246,9 @@
       "url": "/wiki/concepts/kimideltaattention/"
     },
     "KimiK3": {
-      "episode_count": 9,
-      "show_count": 7,
-      "source_note_count": 9,
+      "episode_count": 10,
+      "show_count": 8,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "蒸馏风暴：一场无人公开谈论的技术竞赛 (1) [179-1].md",
@@ -5228,9 +6312,16 @@
           "show": "张小珺Jùn｜商业访谈录",
           "title": "152. 领读Kimi K3技术报告：从架构创新聊起，注意力美学、多教师蒸馏和开源MoE",
           "url": "/wiki/sources/152-lingdu-kimi-k3-jishu-baogao-cong-jiagou-chuangxin-liaoqi-zhuyili-meixue-duojiaoshi-zhengliu-he-kaiyuan-moe-lrvngxoafcz7vzh8hywulkwnb6n6/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The Fight Over Open Source AI, Anthropic's $1.5B Payout, NYC Socialists： Evictions = Violence？ [42209480].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-fight-over-open-source-ai-anthropics-15b-payout-nyc-socialists-evictions-violence-42209480",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The Fight Over Open Source AI, Anthropic's $1.5B Payout, NYC Socialists: Evictions = Violence?",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-fight-over-open-source-ai-anthropics-15b-payout-nyc-socialists-evictions-violence-42209480/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-08-27",
       "url": "/wiki/entities/kimik3/"
     },
     "KongBaoLateHan": {
@@ -5410,6 +6501,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/languagecompressionlabeling/"
     },
+    "LaoXiuLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》874丨震惊：母子相残，天理难容！ [lpR3eGlbnWBVe1ClrTTApw6K5zdq].md",
+          "key": "zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》874丨震惊：母子相残，天理难容！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/laoxiulatehan/"
+    },
     "LastMileRobotDelivery": {
       "episode_count": 1,
       "show_count": 1,
@@ -5457,6 +6564,36 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/latentrivalrecognition/"
+    },
+    "LeaderPersonalExposure": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1004丨曹操迎奉汉献帝，是谁的主意？ [lrRGA-flmX5aJnhU1c42x7kOoE94].md",
+          "key": "zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1004丨曹操迎奉汉献帝，是谁的主意？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1005丨孙策注定早逝，是性格决定命运？ [lpQnerE2cWcrngggyEzd-BsQAHx4].md",
+          "key": "zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1005丨孙策注定早逝，是性格决定命运？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1045丨他是江东霸业的开创者，可惜死的太窝囊 [lgjJDmcfw1QKUBA2xBLgVVlFPy9d].md",
+          "key": "zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1045丨他是江东霸业的开创者，可惜死的太窝囊",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/leaderpersonalexposure/"
     },
     "LeiBoYuanShuRetainer": {
       "episode_count": 1,
@@ -5534,6 +6671,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/lidulatehan/"
     },
+    "LiGaoRunanLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》872丨他娶妾不成，竟杀人全家 [ltBEGc7GBET2_HLhwhtevVltGNlC].md",
+          "key": "zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》872丨他娶妾不成，竟杀人全家",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/ligaorunanlatehan/"
+    },
     "LiJiHistorian": {
       "episode_count": 1,
       "show_count": 1,
@@ -5551,9 +6704,9 @@
       "url": "/wiki/entities/lijihistorian/"
     },
     "LiTongLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1022丨乱世三国，三位名士的生存抉择 [lgMBekoMxwiU7HjnPXKXGGyhvwaF].md",
@@ -5561,15 +6714,22 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1022丨乱世三国，三位名士的生存抉择",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1022-luanshi-sanguo-sanwei-mingshi-de-shengcun-jueze-lgmbekomxwiu7hjnpxkxggyhvwaf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1045丨他是江东霸业的开创者，可惜死的太窝囊 [lgjJDmcfw1QKUBA2xBLgVVlFPy9d].md",
+          "key": "zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1045丨他是江东霸业的开创者，可惜死的太窝囊",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d/"
         }
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/litonglatehan/"
     },
     "LiYingLateHan": {
-      "episode_count": 3,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》893丨荣誉榜如何变成死亡名单？ [lmxzQoaUf79-swWNK_0CEVAv0GQ_].md",
@@ -5591,10 +6751,47 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》884丨职场除奸，要对谁先开刀？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》876丨职场总碰壁？说明你没有找对关系 [lrJoB_a07t29hDR0iOgrmcSjr7QP].md",
+          "key": "zizhi-tongjian-hanji-876-zhichang-zong-pengbi-shuoming-ni-meiyou-zhaodui-guanxi-lrjob-a07t29hdr0iogrmcsjr7qp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》876丨职场总碰壁？说明你没有找对关系",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-876-zhichang-zong-pengbi-shuoming-ni-meiyou-zhaodui-guanxi-lrjob-a07t29hdr0iogrmcsjr7qp/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》875丨离大谱！为何他以入狱为荣？ [lgfFkjk_0Yu_EhFsW59AnoyCH_lD].md",
+          "key": "zizhi-tongjian-hanji-875-li-dapu-weihe-ta-yi-ruyu-wei-rong-lgffkjk-0yu-ehfsw59anoych-ld",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》875丨离大谱！为何他以入狱为荣？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-875-li-dapu-weihe-ta-yi-ruyu-wei-rong-lgffkjk-0yu-ehfsw59anoych-ld/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》874丨震惊：母子相残，天理难容！ [lpR3eGlbnWBVe1ClrTTApw6K5zdq].md",
+          "key": "zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》874丨震惊：母子相残，天理难容！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq/"
         }
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/liyinglatehan/"
+    },
+    "LibGen": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The Fight Over Open Source AI, Anthropic's $1.5B Payout, NYC Socialists： Evictions = Violence？ [42209480].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-fight-over-open-source-ai-anthropics-15b-payout-nyc-socialists-evictions-violence-42209480",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The Fight Over Open Source AI, Anthropic's $1.5B Payout, NYC Socialists: Evictions = Violence?",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-fight-over-open-source-ai-anthropics-15b-payout-nyc-socialists-evictions-violence-42209480/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/libgen/"
     },
     "LinkedIn": {
       "episode_count": 4,
@@ -5765,6 +6962,38 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/liudaisikongzhangshi/"
     },
+    "LiuMaoLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》872丨他娶妾不成，竟杀人全家 [ltBEGc7GBET2_HLhwhtevVltGNlC].md",
+          "key": "zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》872丨他娶妾不成，竟杀人全家",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/liumaolatehan/"
+    },
+    "LiuPiRunanLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1045丨他是江东霸业的开创者，可惜死的太窝囊 [lgjJDmcfw1QKUBA2xBLgVVlFPy9d].md",
+          "key": "zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1045丨他是江东霸业的开创者，可惜死的太窝囊",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/liupirunanlatehan/"
+    },
     "LiuXianLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -5912,6 +7141,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/lizwalters/"
     },
+    "LocalAuspiciousOmenFabrication": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》878丨不受约束的权力，害人不浅 [lvEvnahCxShGBz5zYqBAF36PA7Nk].md",
+          "key": "zizhi-tongjian-hanji-878-bu-shou-yueshu-de-quanli-hairen-buqian-lvevnahcxshgbz5zyqbaf36pa7nk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》878丨不受约束的权力，害人不浅",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-878-bu-shou-yueshu-de-quanli-hairen-buqian-lvevnahcxshgbz5zyqbaf36pa7nk/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/localauspiciousomenfabrication/"
+    },
     "LongTermAchievementDiscipline": {
       "episode_count": 3,
       "show_count": 1,
@@ -6029,6 +7274,80 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/loyaltycollateraldilemma/"
+    },
+    "LuZhiLateHan": {
+      "episode_count": 7,
+      "show_count": 1,
+      "source_note_count": 7,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》907丨所有的病都是你的心病 [ltQzyOHCauDUWuaNlvqPH9L81d79].md",
+          "key": "zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》907丨所有的病都是你的心病",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》913丨看懂“塞翁失马”，悟透人生福祸 [lkFbrwTGsJmA85BZugqONZK3Hy4g].md",
+          "key": "zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》913丨看懂“塞翁失马”，悟透人生福祸",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》928丨职场不可明说：送对礼，办事更顺利 [lgup21LsA-U1yKAIyaBCko2vHP0O].md",
+          "key": "zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》928丨职场不可明说：送对礼，办事更顺利",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》945丨执念太深的人，只会越来越痛苦 [lm6xaiy2pcquNKE04yZ_qWWxsXxL].md",
+          "key": "zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》945丨执念太深的人，只会越来越痛苦",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》946丨职场斗争时优柔寡断，有多致命？ [lpyyweAaJonZG7KxuhWm9Z7AE7P5].md",
+          "key": "zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》946丨职场斗争时优柔寡断，有多致命？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》948丨董卓废帝：权臣如何改变皇权游戏？ [ltEKG1a_5b5U37AeeKjM3DM2m6kK].md",
+          "key": "zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》948丨董卓废帝：权臣如何改变皇权游戏？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》882丨风光太盛，注定不得好死？ [lpHAGU5ljuXxjWx_UvNBS229Wjii].md",
+          "key": "zizhi-tongjian-hanji-882-fengguang-taisheng-zhuding-bude-haosi-lphagu5ljuxxjwx-uvnbs229wjii",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》882丨风光太盛，注定不得好死？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-882-fengguang-taisheng-zhuding-bude-haosi-lphagu5ljuxxjwx-uvnbs229wjii/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/luzhilatehan/"
+    },
+    "LuigiLucheni": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7203783068 [GLT7203783068].md",
+          "key": "690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068",
+          "show": "The Rest Is History",
+          "title": "690. A Murderous Affair: Death at Mayerling (Part 2)",
+          "url": "/wiki/sources/690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/luigilucheni/"
     },
     "LujiangCommandery": {
       "episode_count": 2,
@@ -6480,6 +7799,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/maryqueenofscots/"
     },
+    "MaryVetsera": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7203783068 [GLT7203783068].md",
+          "key": "690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068",
+          "show": "The Rest Is History",
+          "title": "690. A Murderous Affair: Death at Mayerling (Part 2)",
+          "url": "/wiki/sources/690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/maryvetsera/"
+    },
     "MassProducedAIIntimacy": {
       "episode_count": 1,
       "show_count": 1,
@@ -6511,6 +7846,38 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/maxbennett/"
+    },
+    "MayerlingDeathPact": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7203783068 [GLT7203783068].md",
+          "key": "690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068",
+          "show": "The Rest Is History",
+          "title": "690. A Murderous Affair: Death at Mayerling (Part 2)",
+          "url": "/wiki/sources/690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/mayerlingdeathpact/"
+    },
+    "MayerlingIncident": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7203783068 [GLT7203783068].md",
+          "key": "690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068",
+          "show": "The Rest Is History",
+          "title": "690. A Murderous Affair: Death at Mayerling (Part 2)",
+          "url": "/wiki/sources/690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/mayerlingincident/"
     },
     "McMurdoStation": {
       "episode_count": 1,
@@ -6822,6 +8189,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/militaryaioversightcompression/"
     },
+    "MilitaryRewardEunuchGatekeeping": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》878丨不受约束的权力，害人不浅 [lvEvnahCxShGBz5zYqBAF36PA7Nk].md",
+          "key": "zizhi-tongjian-hanji-878-bu-shou-yueshu-de-quanli-hairen-buqian-lvevnahcxshgbz5zyqbaf36pa7nk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》878丨不受约束的权力，害人不浅",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-878-bu-shou-yueshu-de-quanli-hairen-buqian-lvevnahcxshgbz5zyqbaf36pa7nk/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/militaryrewardeunuchgatekeeping/"
+    },
     "MissionaryFieldworkInfrastructure": {
       "episode_count": 2,
       "show_count": 2,
@@ -6860,6 +8243,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/missionarymapknowledgeproduction/"
+    },
+    "MitziKaspar": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7203783068 [GLT7203783068].md",
+          "key": "690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068",
+          "show": "The Rest Is History",
+          "title": "690. A Murderous Affair: Death at Mayerling (Part 2)",
+          "url": "/wiki/sources/690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/mitzikaspar/"
     },
     "MobilityFirstEmbodiedAI": {
       "episode_count": 1,
@@ -7302,6 +8701,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/oilrevenuesanctionsleverage/"
     },
+    "OmenCodedRemonstrance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》873丨他如何利用天象痛骂帝王？ [lqEbKOdcbCrSVYf80qWxNobYDbHc].md",
+          "key": "zizhi-tongjian-hanji-873-ta-ruhe-liyong-tianxiang-tongma-diwang-lqebkodcbcrsvyf80qwxnobydbhc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》873丨他如何利用天象痛骂帝王？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-873-ta-ruhe-liyong-tianxiang-tongma-diwang-lqebkodcbcrsvyf80qwxnobydbhc/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/omencodedremonstrance/"
+    },
     "OnPolicyDistillation": {
       "episode_count": 2,
       "show_count": 2,
@@ -7340,6 +8755,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/onex/"
+    },
+    "OpenSourceAIBanRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The Fight Over Open Source AI, Anthropic's $1.5B Payout, NYC Socialists： Evictions = Violence？ [42209480].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-fight-over-open-source-ai-anthropics-15b-payout-nyc-socialists-evictions-violence-42209480",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The Fight Over Open Source AI, Anthropic's $1.5B Payout, NYC Socialists: Evictions = Violence?",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-fight-over-open-source-ai-anthropics-15b-payout-nyc-socialists-evictions-violence-42209480/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/opensourceaibanrisk/"
     },
     "OpenSourceCommunityCommercialization": {
       "episode_count": 3,
@@ -7418,6 +8849,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/ordinarypeoplehistoricalvisibility/"
+    },
+    "PalaceFavoriteProtectionFragility": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》879丨死在女人身上的昏庸男人 [lqz5_Mpi0WAA_xmUHJHwkAECjJRC].md",
+          "key": "zizhi-tongjian-hanji-879-si-zai-nvren-shenshang-de-hunyong-nanren-lqz5-mpi0waa-xmuhjhwkaecjjrc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》879丨死在女人身上的昏庸男人",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-879-si-zai-nvren-shenshang-de-hunyong-nanren-lqz5-mpi0waa-xmuhjhwkaecjjrc/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/palacefavoriteprotectionfragility/"
     },
     "PalaceProximityPower": {
       "episode_count": 1,
@@ -7516,9 +8963,9 @@
       "url": "/wiki/concepts/parkingcostinternalization/"
     },
     "PartyNetworkTreasonFraming": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》893丨荣誉榜如何变成死亡名单？ [lmxzQoaUf79-swWNK_0CEVAv0GQ_].md",
@@ -7526,6 +8973,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》893丨荣誉榜如何变成死亡名单？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》874丨震惊：母子相残，天理难容！ [lpR3eGlbnWBVe1ClrTTApw6K5zdq].md",
+          "key": "zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》874丨震惊：母子相残，天理难容！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq/"
         }
       ],
       "updated": "2026-08-27",
@@ -7606,6 +9060,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/peterfankhauser/"
+    },
+    "PhilipOfCoburg": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7203783068 [GLT7203783068].md",
+          "key": "690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068",
+          "show": "The Rest Is History",
+          "title": "690. A Murderous Affair: Death at Mayerling (Part 2)",
+          "url": "/wiki/sources/690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/philipofcoburg/"
     },
     "Philippines": {
       "episode_count": 3,
@@ -7706,6 +9176,29 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/postsuccessarrogance/"
     },
+    "PowerStructureTargeting": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》876丨职场总碰壁？说明你没有找对关系 [lrJoB_a07t29hDR0iOgrmcSjr7QP].md",
+          "key": "zizhi-tongjian-hanji-876-zhichang-zong-pengbi-shuoming-ni-meiyou-zhaodui-guanxi-lrjob-a07t29hdr0iogrmcsjr7qp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》876丨职场总碰壁？说明你没有找对关系",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-876-zhichang-zong-pengbi-shuoming-ni-meiyou-zhaodui-guanxi-lrjob-a07t29hdr0iogrmcsjr7qp/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》874丨震惊：母子相残，天理难容！ [lpR3eGlbnWBVe1ClrTTApw6K5zdq].md",
+          "key": "zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》874丨震惊：母子相残，天理难容！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/powerstructuretargeting/"
+    },
     "PredictiveWorldModelAnxiety": {
       "episode_count": 1,
       "show_count": 1,
@@ -7744,6 +9237,38 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/prestigeconstrainedpoliticalprosecution/"
+    },
+    "PrisonRitualLegitimacyRefusal": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》874丨震惊：母子相残，天理难容！ [lpR3eGlbnWBVe1ClrTTApw6K5zdq].md",
+          "key": "zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》874丨震惊：母子相残，天理难容！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/prisonrituallegitimacyrefusal/"
+    },
+    "PunishmentAsMoralCredential": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》875丨离大谱！为何他以入狱为荣？ [lgfFkjk_0Yu_EhFsW59AnoyCH_lD].md",
+          "key": "zizhi-tongjian-hanji-875-li-dapu-weihe-ta-yi-ruyu-wei-rong-lgffkjk-0yu-ehfsw59anoych-ld",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》875丨离大谱！为何他以入狱为荣？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-875-li-dapu-weihe-ta-yi-ruyu-wei-rong-lgffkjk-0yu-ehfsw59anoych-ld/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/punishmentasmoralcredential/"
     },
     "Qiuzhen": {
       "episode_count": 1,
@@ -7859,6 +9384,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/raybansmartglasses/"
+    },
+    "RegistryBasedPoliticalExclusion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》877丨他为何冷落救命恩人？ [loOFS4ruGl-Q8kUNfB-Jpj5mGVhi].md",
+          "key": "zizhi-tongjian-hanji-877-ta-weihe-lengluo-jiuming-enren-loofs4rugl-q8kunfb-jpj5mgvhi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》877丨他为何冷落救命恩人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-877-ta-weihe-lengluo-jiuming-enren-loofs4rugl-q8kunfb-jpj5mgvhi/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/registrybasedpoliticalexclusion/"
     },
     "RegnansInExcelsis": {
       "episode_count": 1,
@@ -7984,6 +9525,29 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/researchinstitutionsasstrategiccapacity/"
     },
+    "ResourceAsymmetryAttrition": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》964丨别骄傲！别骄傲！别骄傲！ [lo2_eDzFFU0v9iXoabC06rX_OqoQ].md",
+          "key": "zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》964丨别骄傲！别骄傲！别骄傲！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1042丨聪明还是顽固？田丰因顶撞袁绍入狱 [lk5x6If2rouarmGiChtynzHl3cgS].md",
+          "key": "zizhi-tongjian-hanji-1042-congming-haishi-wangu-tianfeng-yin-dingzhuang-yuanshao-ruyu-lk5x6if2rouarmgichtynzhl3cgs",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1042丨聪明还是顽固？田丰因顶撞袁绍入狱",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1042-congming-haishi-wangu-tianfeng-yin-dingzhuang-yuanshao-ruyu-lk5x6if2rouarmgichtynzhl3cgs/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/resourceasymmetryattrition/"
+    },
     "ReturningArmyInterdictionRisk": {
       "episode_count": 1,
       "show_count": 1,
@@ -8015,6 +9579,36 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/ridolfiplot/"
+    },
+    "RighteousnessOverProfit": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·周纪》26丨孟子来了！ [ln4twWp2frMR_xpUMu0RQG_2GPyn].md",
+          "key": "zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》26丨孟子来了！",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn/"
+        },
+        {
+          "episode_file": "30.孟子：战国愤青的赤子之心 [592494138].md",
+          "key": "30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138",
+          "show": "蜜獾吃书",
+          "title": "30.孟子：战国愤青的赤子之心",
+          "url": "/wiki/sources/30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》882丨风光太盛，注定不得好死？ [lpHAGU5ljuXxjWx_UvNBS229Wjii].md",
+          "key": "zizhi-tongjian-hanji-882-fengguang-taisheng-zhuding-bude-haosi-lphagu5ljuxxjwx-uvnbs229wjii",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》882丨风光太盛，注定不得好死？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-882-fengguang-taisheng-zhuding-bude-haosi-lphagu5ljuxxjwx-uvnbs229wjii/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/righteousnessoverprofit/"
     },
     "RobertoRidolfi": {
       "episode_count": 1,
@@ -8158,10 +9752,47 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/robotteleoperationandremotetakeover/"
     },
-    "RootCausePacification": {
-      "episode_count": 3,
+    "RomanceOfTheThreeKingdoms": {
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》923 plus丨乱世风云起：芮淇揭秘史上最真实的三国 [lj0ic_BhaWQuT5zbUTBzD0orxjoe].md",
+          "key": "zizhi-tongjian-hanji-923-plus-luanshi-fengyun-qi-ruiqi-jiemi-shishang-zui-zhenshi-de-sanguo-lj0ic-bhawqut5zbutbzd0orxjoe",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》923 plus丨乱世风云起：芮淇揭秘史上最真实的三国",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-923-plus-luanshi-fengyun-qi-ruiqi-jiemi-shishang-zui-zhenshi-de-sanguo-lj0ic-bhawqut5zbutbzd0orxjoe/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》955丨关羽斩华雄其实是伪历史？？？ [lnDkrj_fNePye8IU-ifgyh-VZySF].md",
+          "key": "zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》955丨关羽斩华雄其实是伪历史？？？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》961丨内黄之战：曹操初露锋芒 [ljdLt6kIU8tg0Qws_jlYEJ_YhGXr].md",
+          "key": "zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》961丨内黄之战：曹操初露锋芒",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1041丨揭秘历史上真实的“关羽降曹” [luiSP0NdK1lFRC87BYYGn6r8mYhx].md",
+          "key": "zizhi-tongjian-hanji-1041-jiemi-lishishang-zhenshi-de-guanyu-jiangcao-luisp0ndk1lfrc87byygn6r8myhx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1041丨揭秘历史上真实的“关羽降曹”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1041-jiemi-lishishang-zhenshi-de-guanyu-jiangcao-luisp0ndk1lfrc87byygn6r8myhx/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/romanceofthethreekingdoms/"
+    },
+    "RootCausePacification": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》922丨如何在凡尘中修炼情商？ [lsXIqNEYyEOd6AeeQxuhs517PN1X].md",
@@ -8183,6 +9814,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》892丨修止语，古人有什么捷径？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-892-xiu-zhiyu-guren-youshenme-jiejing-lnobbkp6mj4xyb9jeuqsiuqogct/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》883丨老板要反思：如何避免高官内讧？ [lph-fycNqAs6hZtjQ1jbSiSVyliD].md",
+          "key": "zizhi-tongjian-hanji-883-laoban-yao-fansi-ruhe-bimian-gaoguan-neihong-lph-fycnqas6hztjq1jbsisvylid",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》883丨老板要反思：如何避免高官内讧？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-883-laoban-yao-fansi-ruhe-bimian-gaoguan-neihong-lph-fycnqas6hztjq1jbsisvylid/"
         }
       ],
       "updated": "2026-08-27",
@@ -8234,6 +9872,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/ruleoverkinshippower/"
     },
+    "RunanCommanderyLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1045丨他是江东霸业的开创者，可惜死的太窝囊 [lgjJDmcfw1QKUBA2xBLgVVlFPy9d].md",
+          "key": "zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1045丨他是江东霸业的开创者，可惜死的太窝囊",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/runancommanderylatehan/"
+    },
     "SaltRevenueAgriculturalRecovery": {
       "episode_count": 1,
       "show_count": 1,
@@ -8250,6 +9904,29 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/saltrevenueagriculturalrecovery/"
     },
+    "Sanguozhi": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》971丨乱世迷云：谁杀了曹操老爹 [ljh3HdhssIGMv78BuEo_HpRfQwKU].md",
+          "key": "zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》971丨乱世迷云：谁杀了曹操老爹",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1041丨揭秘历史上真实的“关羽降曹” [luiSP0NdK1lFRC87BYYGn6r8mYhx].md",
+          "key": "zizhi-tongjian-hanji-1041-jiemi-lishishang-zhenshi-de-guanyu-jiangcao-luisp0ndk1lfrc87byygn6r8myhx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1041丨揭秘历史上真实的“关羽降曹”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1041-jiemi-lishishang-zhenshi-de-guanyu-jiangcao-luisp0ndk1lfrc87byygn6r8myhx/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/sanguozhi/"
+    },
     "SantaiZiCatholicVillage": {
       "episode_count": 1,
       "show_count": 1,
@@ -8265,6 +9942,36 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/santaizicatholicvillage/"
+    },
+    "ScholarOfficialPublicDuty": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "105.苏东坡：一腔豪迈之气，一肚皮不合时宜 [741072645].md",
+          "key": "105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645",
+          "show": "蜜獾吃书",
+          "title": "105.苏东坡：一腔豪迈之气，一肚皮不合时宜",
+          "url": "/wiki/sources/105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645/"
+        },
+        {
+          "episode_file": "19.荒野上的大师：“我辈于乱世求研究，本为逆流之妄举” [565412437].md",
+          "key": "19-huangye-shang-de-dashi-wo-bei-yu-luanshi-qiu-yanjiu-ben-wei-niliu-zhi-wangju-565412437",
+          "show": "蜜獾吃书",
+          "title": "19.荒野上的大师：“我辈于乱世求研究，本为逆流之妄举”",
+          "url": "/wiki/sources/19-huangye-shang-de-dashi-wo-bei-yu-luanshi-qiu-yanjiu-ben-wei-niliu-zhi-wangju-565412437/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》875丨离大谱！为何他以入狱为荣？ [lgfFkjk_0Yu_EhFsW59AnoyCH_lD].md",
+          "key": "zizhi-tongjian-hanji-875-li-dapu-weihe-ta-yi-ruyu-wei-rong-lgffkjk-0yu-ehfsw59anoych-ld",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》875丨离大谱！为何他以入狱为荣？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-875-li-dapu-weihe-ta-yi-ruyu-wei-rong-lgffkjk-0yu-ehfsw59anoych-ld/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/scholarofficialpublicduty/"
     },
     "ScienceFundingPortfolioLogic": {
       "episode_count": 1,
@@ -8530,6 +10237,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/shequanlatehan/"
     },
+    "ShiBiLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》877丨他为何冷落救命恩人？ [loOFS4ruGl-Q8kUNfB-Jpj5mGVhi].md",
+          "key": "zizhi-tongjian-hanji-877-ta-weihe-lengluo-jiuming-enren-loofs4rugl-q8kunfb-jpj5mgvhi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》877丨他为何冷落救命恩人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-877-ta-weihe-lengluo-jiuming-enren-loofs4rugl-q8kunfb-jpj5mgvhi/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/shibilatehan/"
+    },
     "SmartGlassesBystanderPrivacy": {
       "episode_count": 3,
       "show_count": 2,
@@ -8559,6 +10282,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/smartglassesbystanderprivacy/"
+    },
+    "SongHongEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》878丨不受约束的权力，害人不浅 [lvEvnahCxShGBz5zYqBAF36PA7Nk].md",
+          "key": "zizhi-tongjian-hanji-878-bu-shou-yueshu-de-quanli-hairen-buqian-lvevnahcxshgbz5zyqbaf36pa7nk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》878丨不受约束的权力，害人不浅",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-878-bu-shou-yueshu-de-quanli-hairen-buqian-lvevnahcxshgbz5zyqbaf36pa7nk/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/songhongeasternhan/"
     },
     "SouthernOcean": {
       "episode_count": 1,
@@ -8777,9 +10516,9 @@
       "url": "/wiki/entities/sunbenlatehan/"
     },
     "SunCe": {
-      "episode_count": 18,
+      "episode_count": 19,
       "show_count": 1,
-      "source_note_count": 18,
+      "source_note_count": 19,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1028丨小霸王孙策立威，称霸江东！ [lgur-3FmpR55wy3AjI--0Rm38Y7X].md",
@@ -8906,10 +10645,33 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1038丨三十六计之调虎离山：孙策智取皖城",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1038-sanshiliu-ji-zhi-diaohu-lishan-sunce-zhiqu-wancheng-lhomk8hfdidl61degwbqtj2xkj9z/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1045丨他是江东霸业的开创者，可惜死的太窝囊 [lgjJDmcfw1QKUBA2xBLgVVlFPy9d].md",
+          "key": "zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1045丨他是江东霸业的开创者，可惜死的太窝囊",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-08-27",
       "url": "/wiki/entities/sunce/"
+    },
+    "SunCeAssassination": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1045丨他是江东霸业的开创者，可惜死的太窝囊 [lgjJDmcfw1QKUBA2xBLgVVlFPy9d].md",
+          "key": "zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1045丨他是江东霸业的开创者，可惜死的太窝囊",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/sunceassassination/"
     },
     "SunFuLateHan": {
       "episode_count": 1,
@@ -8926,6 +10688,36 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/sunfulatehan/"
+    },
+    "SunQuan": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1028丨小霸王孙策立威，称霸江东！ [lgur-3FmpR55wy3AjI--0Rm38Y7X].md",
+          "key": "zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1028丨小霸王孙策立威，称霸江东！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》982丨扒一扒刘备入徐背后的利益之争 [ljAjdC95XTyLHkn5TeEFz26Yyyz1].md",
+          "key": "zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》982丨扒一扒刘备入徐背后的利益之争",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1045丨他是江东霸业的开创者，可惜死的太窝囊 [lgjJDmcfw1QKUBA2xBLgVVlFPy9d].md",
+          "key": "zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1045丨他是江东霸业的开创者，可惜死的太窝囊",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/sunquan/"
     },
     "SunShengEasternJin": {
       "episode_count": 1,
@@ -9014,6 +10806,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/tableau/"
     },
+    "TacitGratitudeRestraint": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》877丨他为何冷落救命恩人？ [loOFS4ruGl-Q8kUNfB-Jpj5mGVhi].md",
+          "key": "zizhi-tongjian-hanji-877-ta-weihe-lengluo-jiuming-enren-loofs4rugl-q8kunfb-jpj5mgvhi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》877丨他为何冷落救命恩人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-877-ta-weihe-lengluo-jiuming-enren-loofs4rugl-q8kunfb-jpj5mgvhi/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/tacitgratituderestraint/"
+    },
     "TadunLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -9062,6 +10870,59 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/tangwenbin/"
     },
+    "TanshihuaiXianbei": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》909丨2025如何养成一身贵气？ [lomnDMpHR_YBUnJbBbbn9EBAFcsj].md",
+          "key": "zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》909丨2025如何养成一身贵气？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》910丨社会生存，我劝你多点城府 [lp2fvuYb8AMPzoEYR7Znztnr0fgK].md",
+          "key": "zizhi-tongjian-hanji-910-shehui-shengcun-wo-quan-ni-duodian-chengfu-lp2fvuyb8ampzoeyr7znztnr0fgk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》910丨社会生存，我劝你多点城府",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-910-shehui-shengcun-wo-quan-ni-duodian-chengfu-lp2fvuyb8ampzoeyr7znztnr0fgk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》920丨明悟这个道理，才能赚大钱 [lqMAbg3bpYz6Ct2V4ArX-IUn57Ws].md",
+          "key": "zizhi-tongjian-hanji-920-mingwu-zhege-daoli-caineng-zhuan-daqian-lqmabg3bpyz6ct2v4arx-iun57ws",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》920丨明悟这个道理，才能赚大钱",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-920-mingwu-zhege-daoli-caineng-zhuan-daqian-lqmabg3bpyz6ct2v4arx-iun57ws/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》875丨离大谱！为何他以入狱为荣？ [lgfFkjk_0Yu_EhFsW59AnoyCH_lD].md",
+          "key": "zizhi-tongjian-hanji-875-li-dapu-weihe-ta-yi-ruyu-wei-rong-lgffkjk-0yu-ehfsw59anoych-ld",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》875丨离大谱！为何他以入狱为荣？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-875-li-dapu-weihe-ta-yi-ruyu-wei-rong-lgffkjk-0yu-ehfsw59anoych-ld/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/tanshihuaixianbei/"
+    },
+    "TenantScreeningEvictionBackfire": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The Fight Over Open Source AI, Anthropic's $1.5B Payout, NYC Socialists： Evictions = Violence？ [42209480].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-fight-over-open-source-ai-anthropics-15b-payout-nyc-socialists-evictions-violence-42209480",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The Fight Over Open Source AI, Anthropic's $1.5B Payout, NYC Socialists: Evictions = Violence?",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-fight-over-open-source-ai-anthropics-15b-payout-nyc-socialists-evictions-violence-42209480/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/tenantscreeningevictionbackfire/"
+    },
     "TencentWorkBuddy": {
       "episode_count": 3,
       "show_count": 3,
@@ -9108,6 +10969,78 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/teyanataylor/"
     },
+    "TheRestIsHistory": {
+      "episode_count": 9,
+      "show_count": 1,
+      "source_note_count": 9,
+      "sources": [
+        {
+          "episode_file": "GLT4665799025 [GLT4665799025].md",
+          "key": "692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025",
+          "show": "The Rest Is History",
+          "title": "692. Elizabeth I vs The Catholics: A Massacre in Paris (Part 2)",
+          "url": "/wiki/sources/692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025/"
+        },
+        {
+          "episode_file": "GLT9519811642 [GLT9519811642].md",
+          "key": "699-the-troubles-return-of-the-ira-part-3-glt9519811642",
+          "show": "The Rest Is History",
+          "title": "699. The Troubles: Return of the IRA (Part 3)",
+          "url": "/wiki/sources/699-the-troubles-return-of-the-ira-part-3-glt9519811642/"
+        },
+        {
+          "episode_file": "GLT5069845329 [GLT5069845329].md",
+          "key": "693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329",
+          "show": "The Rest Is History",
+          "title": "693. Elizabeth I vs The Catholics: England's Greatest Hero (Part 3)",
+          "url": "/wiki/sources/693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329/"
+        },
+        {
+          "episode_file": "GLT1627515087 [GLT1627515087].md",
+          "key": "694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087",
+          "show": "The Rest Is History",
+          "title": "694. Elizabeth I vs The Catholics: A Treacherous Conspiracy (Part 4)",
+          "url": "/wiki/sources/694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087/"
+        },
+        {
+          "episode_file": "GLT5637968455 [GLT5637968455].md",
+          "key": "695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455",
+          "show": "The Rest Is History",
+          "title": "695. Elizabeth I vs The Catholics: The Shadow War (Part 5)",
+          "url": "/wiki/sources/695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455/"
+        },
+        {
+          "episode_file": "GLT2334035496 [GLT2334035496].md",
+          "key": "696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496",
+          "show": "The Rest Is History",
+          "title": "696. Elizabeth I vs The Catholics: Killing the Queen of Scots (Part 6)",
+          "url": "/wiki/sources/696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496/"
+        },
+        {
+          "episode_file": "GLT2308408988 [GLT2308408988].md",
+          "key": "698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988",
+          "show": "The Rest Is History",
+          "title": "698. The Troubles: The Brink of Civil War (Part 2)",
+          "url": "/wiki/sources/698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988/"
+        },
+        {
+          "episode_file": "GLT4877520736 [GLT4877520736].md",
+          "key": "697-the-troubles-murder-in-belfast-part-1-glt4877520736",
+          "show": "The Rest Is History",
+          "title": "697. The Troubles: Murder in Belfast (Part 1)",
+          "url": "/wiki/sources/697-the-troubles-murder-in-belfast-part-1-glt4877520736/"
+        },
+        {
+          "episode_file": "GLT7203783068 [GLT7203783068].md",
+          "key": "690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068",
+          "show": "The Rest Is History",
+          "title": "690. A Murderous Affair: Death at Mayerling (Part 2)",
+          "url": "/wiki/sources/690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/therestishistory/"
+    },
     "ThomasHowardDukeOfNorfolk": {
       "episode_count": 1,
       "show_count": 1,
@@ -9125,9 +11058,9 @@
       "url": "/wiki/entities/thomashowarddukeofnorfolk/"
     },
     "TianFengLateHan": {
-      "episode_count": 3,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》975丨兖州之乱：荀彧如何帮曹操守大本营？ [ln0Hh4jroKkWTqSmXMqHdJzCOSdr].md",
@@ -9149,6 +11082,20 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1023丨揭秘曹操与张绣的兵法博弈",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1023-jiemi-caocao-yu-zhangxiu-de-bingfa-boyi-lphbnmfdu0x5w7zjra7k0o8cyel4/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1041丨揭秘历史上真实的“关羽降曹” [luiSP0NdK1lFRC87BYYGn6r8mYhx].md",
+          "key": "zizhi-tongjian-hanji-1041-jiemi-lishishang-zhenshi-de-guanyu-jiangcao-luisp0ndk1lfrc87byygn6r8myhx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1041丨揭秘历史上真实的“关羽降曹”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1041-jiemi-lishishang-zhenshi-de-guanyu-jiangcao-luisp0ndk1lfrc87byygn6r8myhx/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1042丨聪明还是顽固？田丰因顶撞袁绍入狱 [lk5x6If2rouarmGiChtynzHl3cgS].md",
+          "key": "zizhi-tongjian-hanji-1042-congming-haishi-wangu-tianfeng-yin-dingzhuang-yuanshao-ruyu-lk5x6if2rouarmgichtynzhl3cgs",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1042丨聪明还是顽固？田丰因顶撞袁绍入狱",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1042-congming-haishi-wangu-tianfeng-yin-dingzhuang-yuanshao-ruyu-lk5x6if2rouarmgichtynzhl3cgs/"
         }
       ],
       "updated": "2026-08-27",
@@ -9183,6 +11130,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/tiankailatehan/"
+    },
+    "TianShengLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》879丨死在女人身上的昏庸男人 [lqz5_Mpi0WAA_xmUHJHwkAECjJRC].md",
+          "key": "zizhi-tongjian-hanji-879-si-zai-nvren-shenshang-de-hunyong-nanren-lqz5-mpi0waa-xmuhjhwkaecjjrc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》879丨死在女人身上的昏庸男人",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-879-si-zai-nvren-shenshang-de-hunyong-nanren-lqz5-mpi0waa-xmuhjhwkaecjjrc/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/tianshenglatehan/"
     },
     "TianYanLateHan": {
       "episode_count": 2,
@@ -9238,6 +11201,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/timurban/"
+    },
+    "TokenTaxOnAI": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The Fight Over Open Source AI, Anthropic's $1.5B Payout, NYC Socialists： Evictions = Violence？ [42209480].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-fight-over-open-source-ai-anthropics-15b-payout-nyc-socialists-evictions-violence-42209480",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The Fight Over Open Source AI, Anthropic's $1.5B Payout, NYC Socialists: Evictions = Violence?",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-fight-over-open-source-ai-anthropics-15b-payout-nyc-socialists-evictions-violence-42209480/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/tokentaxonai/"
     },
     "Tokyo": {
       "episode_count": 1,
@@ -9418,6 +11397,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/uschinasciencecompetition/"
     },
+    "UnearnedRewardRefusal": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》882丨风光太盛，注定不得好死？ [lpHAGU5ljuXxjWx_UvNBS229Wjii].md",
+          "key": "zizhi-tongjian-hanji-882-fengguang-taisheng-zhuding-bude-haosi-lphagu5ljuxxjwx-uvnbs229wjii",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》882丨风光太盛，注定不得好死？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-882-fengguang-taisheng-zhuding-bude-haosi-lphagu5ljuxxjwx-uvnbs229wjii/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/unearnedrewardrefusal/"
+    },
     "UnitedArabEmirates": {
       "episode_count": 6,
       "show_count": 3,
@@ -9486,9 +11481,9 @@
       "url": "/wiki/concepts/vernacularfemalereligiouswriting/"
     },
     "Vienna": {
-      "episode_count": 3,
-      "show_count": 3,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "Elbows up, again： a US-Canada trade flare-up [6a8c0fa3a89d26398ee7a5db].md",
@@ -9510,9 +11505,16 @@
           "show": "Planet Money",
           "title": "The continent nobody owns & everyone benefits from (Summer School)",
           "url": "/wiki/sources/the-continent-nobody-owns-everyone-benefits-from-summer-school/"
+        },
+        {
+          "episode_file": "GLT7203783068 [GLT7203783068].md",
+          "key": "690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068",
+          "show": "The Rest Is History",
+          "title": "690. A Murderous Affair: Death at Mayerling (Part 2)",
+          "url": "/wiki/sources/690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-08-27",
       "url": "/wiki/entities/vienna/"
     },
     "ViennaSocialHousingScale": {
@@ -9580,9 +11582,9 @@
       "url": "/wiki/entities/wangfudongchengplot/"
     },
     "WangFuLateHan": {
-      "episode_count": 14,
+      "episode_count": 15,
       "show_count": 1,
-      "source_note_count": 14,
+      "source_note_count": 15,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》900丨职场权术都不动，该怎样生存 [lmhJwOsY4EsWyHfpPDGHfsMfycQr].md",
@@ -9681,6 +11683,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》884丨职场除奸，要对谁先开刀？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》876丨职场总碰壁？说明你没有找对关系 [lrJoB_a07t29hDR0iOgrmcSjr7QP].md",
+          "key": "zizhi-tongjian-hanji-876-zhichang-zong-pengbi-shuoming-ni-meiyou-zhaodui-guanxi-lrjob-a07t29hdr0iogrmcsjr7qp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》876丨职场总碰壁？说明你没有找对关系",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-876-zhichang-zong-pengbi-shuoming-ni-meiyou-zhaodui-guanxi-lrjob-a07t29hdr0iogrmcsjr7qp/"
         }
       ],
       "updated": "2026-08-27",
@@ -9929,6 +11938,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/womensfootballvisibility/"
     },
+    "WuCommanderyLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1045丨他是江东霸业的开创者，可惜死的太窝囊 [lgjJDmcfw1QKUBA2xBLgVVlFPy9d].md",
+          "key": "zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1045丨他是江东霸业的开创者，可惜死的太窝囊",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/wucommanderylatehan/"
+    },
     "WuDaoLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -10076,6 +12101,52 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/xiayulatehan/"
     },
+    "XiangKaiLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》873丨他如何利用天象痛骂帝王？ [lqEbKOdcbCrSVYf80qWxNobYDbHc].md",
+          "key": "zizhi-tongjian-hanji-873-ta-ruhe-liyong-tianxiang-tongma-diwang-lqebkodcbcrsvyf80qwxnobydbhc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》873丨他如何利用天象痛骂帝王？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-873-ta-ruhe-liyong-tianxiang-tongma-diwang-lqebkodcbcrsvyf80qwxnobydbhc/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/xiangkailatehan/"
+    },
+    "XianlingQiang": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》929丨对事不对人，你信了吗？ [lgaXJ0jzoPddmt3C5hiBNExqLhB3].md",
+          "key": "zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》929丨对事不对人，你信了吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》930丨如何破除贪心和不甘心？ [lkYYsH5jbgXwJq8AyrFaR4GsJDcd].md",
+          "key": "zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》930丨如何破除贪心和不甘心？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》881丨是谁在发战争横财？ [lipglSlIJnBP0CuqFpPS88q5wit6].md",
+          "key": "zizhi-tongjian-hanji-881-shi-shui-zai-fa-zhanzheng-hengcai-lipglslijnbp0cuqfpps88q5wit6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》881丨是谁在发战争横财？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-881-shi-shui-zai-fa-zhanzheng-hengcai-lipglslijnbp0cuqfpps88q5wit6/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/xianlingqiang/"
+    },
     "XianyuFu": {
       "episode_count": 2,
       "show_count": 1,
@@ -10154,6 +12225,38 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/xuchu/"
     },
+    "XuGongLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1045丨他是江东霸业的开创者，可惜死的太窝囊 [lgjJDmcfw1QKUBA2xBLgVVlFPy9d].md",
+          "key": "zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1045丨他是江东霸业的开创者，可惜死的太窝囊",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/xugonglatehan/"
+    },
+    "XuHuangLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》872丨他娶妾不成，竟杀人全家 [ltBEGc7GBET2_HLhwhtevVltGNlC].md",
+          "key": "zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》872丨他娶妾不成，竟杀人全家",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/xuhuanglatehan/"
+    },
     "XuQiuGuanglingLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -10185,6 +12288,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/xutalatehan/"
+    },
+    "XuXuanLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》872丨他娶妾不成，竟杀人全家 [ltBEGc7GBET2_HLhwhtevVltGNlC].md",
+          "key": "zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》872丨他娶妾不成，竟杀人全家",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/xuxuanlatehan/"
     },
     "XuXunLateHan": {
       "episode_count": 1,
@@ -10591,6 +12710,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/yangfulatehan/"
     },
+    "YangQiaoLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》878丨不受约束的权力，害人不浅 [lvEvnahCxShGBz5zYqBAF36PA7Nk].md",
+          "key": "zizhi-tongjian-hanji-878-bu-shou-yueshu-de-quanli-hairen-buqian-lvevnahcxshgbz5zyqbaf36pa7nk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》878丨不受约束的权力，害人不浅",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-878-bu-shou-yueshu-de-quanli-hairen-buqian-lvevnahcxshgbz5zyqbaf36pa7nk/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/yangqiaolatehan/"
+    },
     "YidaiZhao": {
       "episode_count": 1,
       "show_count": 1,
@@ -10865,10 +13000,42 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/zerosumconflicthesitationrisk/"
     },
-    "ZhangHuanLateHan": {
-      "episode_count": 4,
+    "ZhaiChaoLateHan": {
+      "episode_count": 1,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》872丨他娶妾不成，竟杀人全家 [ltBEGc7GBET2_HLhwhtevVltGNlC].md",
+          "key": "zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》872丨他娶妾不成，竟杀人全家",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/zhaichaolatehan/"
+    },
+    "ZhangChengAstrologerLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》874丨震惊：母子相残，天理难容！ [lpR3eGlbnWBVe1ClrTTApw6K5zdq].md",
+          "key": "zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》874丨震惊：母子相残，天理难容！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/zhangchengastrologerlatehan/"
+    },
+    "ZhangHuanLateHan": {
+      "episode_count": 7,
+      "show_count": 1,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》902丨控制情绪是人生必修课 [ljYNYlVdLSDTjF4ES9jmIlAV863b].md",
@@ -10897,15 +13064,36 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》887丨当猪队长碰上猪队友，结果太惨！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-887-dang-zhuduizhang-pengshang-zhuduiyou-jieguo-taican-lvyh9a-kvsdqaokmylgg139bvhfk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》883丨老板要反思：如何避免高官内讧？ [lph-fycNqAs6hZtjQ1jbSiSVyliD].md",
+          "key": "zizhi-tongjian-hanji-883-laoban-yao-fansi-ruhe-bimian-gaoguan-neihong-lph-fycnqas6hztjq1jbsisvylid",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》883丨老板要反思：如何避免高官内讧？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-883-laoban-yao-fansi-ruhe-bimian-gaoguan-neihong-lph-fycnqas6hztjq1jbsisvylid/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》878丨不受约束的权力，害人不浅 [lvEvnahCxShGBz5zYqBAF36PA7Nk].md",
+          "key": "zizhi-tongjian-hanji-878-bu-shou-yueshu-de-quanli-hairen-buqian-lvevnahcxshgbz5zyqbaf36pa7nk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》878丨不受约束的权力，害人不浅",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-878-bu-shou-yueshu-de-quanli-hairen-buqian-lvevnahcxshgbz5zyqbaf36pa7nk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》875丨离大谱！为何他以入狱为荣？ [lgfFkjk_0Yu_EhFsW59AnoyCH_lD].md",
+          "key": "zizhi-tongjian-hanji-875-li-dapu-weihe-ta-yi-ruyu-wei-rong-lgffkjk-0yu-ehfsw59anoych-ld",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》875丨离大谱！为何他以入狱为荣？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-875-li-dapu-weihe-ta-yi-ruyu-wei-rong-lgffkjk-0yu-ehfsw59anoych-ld/"
         }
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/zhanghuanlatehan/"
     },
     "ZhangJianLateHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》895丨血腥屠刀下的骨肉情深 [llsPLYYRjXhqkPi2AiuQZUlgm6w3].md",
@@ -10927,6 +13115,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》893丨荣誉榜如何变成死亡名单？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》872丨他娶妾不成，竟杀人全家 [ltBEGc7GBET2_HLhwhtevVltGNlC].md",
+          "key": "zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》872丨他娶妾不成，竟杀人全家",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc/"
         }
       ],
       "updated": "2026-08-27",
@@ -10998,6 +13193,29 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/zhangxiu/"
+    },
+    "ZhangZhaoLateHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》994丨跟着‌东吴重臣吕范，学习职场智慧 [lgQP2vQmh1mSS96gcwmFLP_cCPFU].md",
+          "key": "zizhi-tongjian-hanji-994-genzhe-dongwu-zhongchen-lvfan-xuexi-zhichang-zhihui-lgqp2vqmh1mss96gcwmflp-ccpfu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》994丨跟着东吴重臣吕范，学习职场智慧",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-994-genzhe-dongwu-zhongchen-lvfan-xuexi-zhichang-zhihui-lgqp2vqmh1mss96gcwmflp-ccpfu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1045丨他是江东霸业的开创者，可惜死的太窝囊 [lgjJDmcfw1QKUBA2xBLgVVlFPy9d].md",
+          "key": "zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1045丨他是江东霸业的开创者，可惜死的太窝囊",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/zhangzhaolatehan/"
     },
     "ZhaoLina": {
       "episode_count": 1,
@@ -11110,9 +13328,9 @@
       "url": "/wiki/entities/zhongjilatehan/"
     },
     "ZhouYuLateHan": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》905丨富贵如何险中求？ [lklXX5nqUka2MTblLXIvk0a7B-fu].md",
@@ -11155,9 +13373,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1038丨三十六计之调虎离山：孙策智取皖城",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1038-sanshiliu-ji-zhi-diaohu-lishan-sunce-zhiqu-wancheng-lhomk8hfdidl61degwbqtj2xkj9z/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1045丨他是江东霸业的开创者，可惜死的太窝囊 [lgjJDmcfw1QKUBA2xBLgVVlFPy9d].md",
+          "key": "zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1045丨他是江东霸业的开创者，可惜死的太窝囊",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-08-27",
       "url": "/wiki/entities/zhouyulatehan/"
     },
     "ZhuBiLateHan": {

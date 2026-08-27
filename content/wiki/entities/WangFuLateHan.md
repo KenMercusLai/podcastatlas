@@ -17,35 +17,40 @@ sources:
   - zizhi-tongjian-hanji-886-shenchu-zhichang-zuoge-chengfu-henshen-de-ren-lo6dgcdbshjgto-qsfcouwjersdi
   - zizhi-tongjian-hanji-885-shengsi-guantou-ta-qingjia-xiuxi-luydnh9oqdyyfpbeztooi2e7lvca
   - zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys
+  - zizhi-tongjian-hanji-876-zhichang-zong-pengbi-shuoming-ni-meiyou-zhaodui-guanxi-lrjob-a07t29hdr0iogrmcsjr7qp
 last_updated: 2026-08-27
 knowledge_schema: synthesis-v1
 ---
 
 ## Overview
 
-王甫 / Wang Fu (late Han) is a late-Han eunuch powerholder whose profile now begins with the palace-proximity prelude to the 168 CE seizure sequence before the defeat of [[DouWuLateHan|窦武]] and [[ChenFanLateHan|陈蕃]]. [[zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys|Hanji 884]] first places Wang Fu near [[EmpressDowagerDouMiao|窦妙 / 窦皇太后]] through the [[ZhaoRaoLateHan|赵饶]] and female-attendant environment, then makes him one of Chen Fan's urgent removal targets. [[zizhi-tongjian-hanji-885-shengsi-guantou-ta-qingjia-xiuxi-luydnh9oqdyyfpbeztooi2e7lvca|Hanji 885]] names Wang Fu in the danger field after [[ZhengSaLateHan|郑飒 / 郑萨]]'s interrogation links him with [[CaoJieLateHan|曹节]]. [[zizhi-tongjian-hanji-886-shenchu-zhichang-zuoge-chengfu-henshen-de-ren-lo6dgcdbshjgto-qsfcouwjersdi|Hanji 886]] then shows Wang Fu acting through Huangmenling authority, prison access, guards, and seal seizure; [[zizhi-tongjian-hanji-887-dang-zhuduizhang-pengshang-zhuduiyou-jieguo-taican-lvyh9a-kvsdqaokmylgg139bvhfk|Hanji 887]] shows him turning accusation and reward language against Dou's troops.
+王甫 / Wang Fu (late Han) is a late-Han eunuch powerholder whose profile now begins with an earlier prison-interrogation layer before the 168 CE palace seizure sequence. [[zizhi-tongjian-hanji-876-zhichang-zong-pengbi-shuoming-ni-meiyou-zhaodui-guanxi-lrjob-a07t29hdr0iogrmcsjr7qp|Hanji 876]] shows [[EmperorHuanOfHan|汉桓帝]] sending Wang Fu to interrogate the first Party Prohibition prisoners; Wang asks [[FanPangLateHan|范滂]] why the prisoners mutually praise one another as a party, then is moved enough by Fan's moral answer to remove heavy restraints from [[LiYingLateHan|李膺]] and the others. Hanji 884-887 then place Wang Fu near [[EmpressDowagerDouMiao|窦妙 / 窦皇太后]], name him as a target of [[ChenFanLateHan|陈蕃]] and [[DouWuLateHan|窦武]], and show him using prison access, guards, seal seizure, accusation language, and reward promises to defeat the anti-eunuch side.
 
 ## Current Profile
 
-Wang Fu's current profile is a sequence of accusation power, access brokerage, and violent reversal. In Hanji 884, he is already close to Dou Miao's palace environment and named by Chen Fan as a target whose removal should not be delayed. The first selective punishment reaches [[GuanBaLateHan|管霸]] and [[SuKangLateHan|苏康]] instead, leaving Wang Fu in the unresolved target field. In Hanji 885, he becomes a named threat in Zheng Sa's confession, which prompts [[YinXunLateHan|尹勋]] and [[ShanBingLateHan|山冰]] to ask Dou Miao for authority to arrest him and Cao Jie. In the Hanji 886 coup prelude, he receives authority from the eunuch-controlled edict channel, goes to Beisi prison, acts against Yin Xun and Shan Bing, releases Zheng Sa, returns with guards, seizes Dou Miao, and takes the jade seal and ribbons. That action gives concrete force to the source's argument that legitimacy symbols and palace custody decide the field before Dou Wu's outside rally.
+Wang Fu's current profile is a sequence of interrogation discretion, accusation power, access brokerage, and violent reversal. Hanji 876 gives the first bounded layer. He acts as imperial interrogator in the party-prisoner case and initially frames the prisoners' mutual praise as "party" behavior. Fan Pang's answer reframes the relation as moral association rather than conspiracy, and Wang Fu's response briefly relaxes physical coercion. This is an important qualification: Wang Fu can be moved by an individual argument in 167, but that local softening does not cancel his later palace-repression profile.
 
-Hanji 887 then shows Wang Fu as the public voice of the eunuch side: he recodes Dou Wu's action as rebellion, has Chen Fan seized, and uses shouted accusation to shift soldiers away from Dou. The later burial conflict shows the same defensive memory problem in ritual form, as Wang Fu and [[CaoJieLateHan|曹节]] oppose Dou Miao's full status because that status would revive the old Dou/Chen injustice.
+In Hanji 884, he is already close to Dou Miao's palace environment and named by Chen Fan as a target whose removal should not be delayed. The first selective punishment reaches [[GuanBaLateHan|管霸]] and [[SuKangLateHan|苏康]] instead, leaving Wang Fu in the unresolved target field. In Hanji 885, he becomes a named threat in [[ZhengSaLateHan|郑飒 / 郑萨]]'s confession, which prompts [[YinXunLateHan|尹勋]] and [[ShanBingLateHan|山冰]] to ask Dou Miao for authority to arrest him and [[CaoJieLateHan|曹节]]. In the Hanji 886 coup prelude, he receives authority from the eunuch-controlled edict channel, goes to Beisi prison, acts against Yin Xun and Shan Bing, releases Zheng Sa, returns with guards, seizes Dou Miao, and takes the jade seal and ribbons. That action gives concrete force to the source's argument that legitimacy symbols and palace custody decide the field before Dou Wu's outside rally.
+
+Hanji 887 then shows Wang Fu as the public voice of the eunuch side: he recodes Dou Wu's action as rebellion, has Chen Fan seized, and uses shouted accusation to shift soldiers away from Dou. The later burial conflict shows the same defensive memory problem in ritual form, as Wang Fu and Cao Jie oppose Dou Miao's full status because that status would revive the old Dou/Chen injustice.
 
 The later sources broaden the pattern. Wang Fu is named in anonymous accusation, uses palace access to broker and then destroy [[LiuKuiBohaiKing|刘亏]], helps push the failed Xianbei expedition through [[TianYanLateHan|田晏]], turns palace rivalry into [[EmpressSongLateHan|宋皇后]]'s wugu accusation, and reaches a family-network power peak before [[YangQiuLateHan|阳球]] destroys him. His corpse then becomes a political signal that Cao Jie uses to regroup the eunuch side.
 
 ## Key Characteristics
 
-- Wang Fu is a direct countercoup actor whose prison, guard, and seal actions help remove Dou Wu's original legitimacy field.
+- Wang Fu is an imperial interrogator whose Hanji 876 party question briefly opens into sympathy and restraint-removal.
+- He is later a direct countercoup actor whose prison, guard, and seal actions help remove Dou Wu's original legitimacy field.
 - Before that counteraction, he is already an urgent removal target and then a named figure in the interrogation evidence that Dou Wu's side uses to seek arrests.
 - His speech and arrest power help turn Chen Fan and Dou Wu from reformers into alleged rebels.
 - He repeatedly converts access into accusation, whether against Chen Fan, Dou Miao's memory, Liu Kui, or Empress Song.
 - His brokerage power is transactional and dangerous: favor can become coercion once a promised payment or expected alignment fails.
-- His political reach extends beyond palace rivalry into military appointment and frontier policy through Tian Yan's Xianbei command.
 - His fall shows that eunuch powerholders can be destroyed individually while the broader eunuch channel survives and regroups.
 
 ## Evidence
 
-- Palace-proximity target field: [[zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys|Hanji 884]] says Wang Fu and Cao Jie are close to Zhao Rao and female attendants around Dou Miao, receive favor, and become Chen Fan's urgent removal targets.
+- First Party Prohibition interrogation: [[zizhi-tongjian-hanji-876-zhichang-zong-pengbi-shuoming-ni-meiyou-zhaodui-guanxi-lrjob-a07t29hdr0iogrmcsjr7qp|Hanji 876]] says Emperor Huan sends Wang Fu to interrogate Fan Pang and the other prisoners about party ties and mutual praise.
+- Local softening: [[zizhi-tongjian-hanji-876-zhichang-zong-pengbi-shuoming-ni-meiyou-zhaodui-guanxi-lrjob-a07t29hdr0iogrmcsjr7qp|Hanji 876]] says Wang Fu is moved by Fan Pang's good-and-evil answer and orders officials to remove heavy restraints from Li Ying and the others.
+- Palace-proximity target field: [[zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys|Hanji 884]] says Wang Fu and Cao Jie are close to [[ZhaoRaoLateHan|赵饶]] and female attendants around Dou Miao, receive favor, and become Chen Fan's urgent removal targets.
 - Pre-coup accusation target: [[zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys|Hanji 884]] leaves Wang Fu unresolved after Guan Ba and Su Kang are punished, while [[zizhi-tongjian-hanji-885-shengsi-guantou-ta-qingjia-xiuxi-luydnh9oqdyyfpbeztooi2e7lvca|Hanji 885]] says Zheng Sa's interrogation names Wang Fu with Cao Jie, after which Yin Xun and Shan Bing submit a memorial requesting their arrest.
 - Prison, guard, and seal action: [[zizhi-tongjian-hanji-886-shenchu-zhichang-zuoge-chengfu-henshen-de-ren-lo6dgcdbshjgto-qsfcouwjersdi|Hanji 886]] says Wang Fu receives Huangmenling authority, goes to Beisi prison, acts against Yin Xun and Shan Bing, releases Zheng Sa, returns with guards, seizes Dou Miao, and takes the jade seal and ribbons.
 - Countercoup voice and arrest: [[zizhi-tongjian-hanji-887-dang-zhuduizhang-pengshang-zhuduiyou-jieguo-taican-lvyh9a-kvsdqaokmylgg139bvhfk|Hanji 887]] says Wang Fu rebuts Chen Fan, orders him seized, and uses shouted rebellion accusations plus reward promises to turn Dou Wu's troops.
@@ -57,22 +62,25 @@ The later sources broaden the pattern. Wang Fu is named in anonymous accusation,
 
 ## Qualifications
 
+- Hanji 876 adds a real but narrow softening scene; it should not be flattened into a general humane profile because Hanji 886-887 and later sources still show Wang Fu as a repressive eunuch powerholder.
 - Hanji 886 and Hanji 887 make Wang Fu's seizure, palace speech, and troop-shifting roles vivid, but the sources still summarize the coup rather than reconstructing every command order.
 - The page treats Wang Fu as a recurring pattern of accusation power, not as the only cause of every late-Han palace failure.
 - Some transcript forms render 王甫 as 王府; the wiki keeps the existing canonical Wang Fu route where the sequence and role match.
 
 ## What Changed
 
-- The profile now starts with Wang Fu's near-palace access and target status before his 168 CE prison, guard, and seal-seizure action.
-- His role in Dou Miao's decision field is now separated from the later confession, prison, and battlefield phases.
-- Wang Fu's role in legitimacy control is now explicit, not only his later brokerage, wugu, and prosecution record.
+- Hanji 876 adds Wang Fu's earlier imperial-interrogator role before the 168 CE countercoup material.
+- The profile now preserves an early moment of being moved by Fan Pang without treating it as a contradiction of later eunuch-side repression.
+- Wang Fu's relation to Party Prohibition now starts with party-definition interrogation before expanding into accusation, seizure, brokerage, wugu, and fall.
 
 ## Relationships
 
+- [[FanPangLateHan|范滂]] - prisoner whose moral defense moves Wang Fu in Hanji 876.
+- [[LiYingLateHan|李膺]] - party prisoner whose restraints are removed after Wang Fu softens.
 - [[CaoJieLateHan|曹节]] - paired eunuch powerholder in palace control, anti-Dou memory, burial resistance, and post-Wang regrouping.
 - [[ZhuYuLateHan|朱瑀]] - fellow eunuch-side actor whose oath precedes Wang Fu's prison and guard action.
-- [[DouWuLateHan|窦武]] - anti-eunuch opponent whom Wang Fu helps strip of legitimacy and recode as a rebel.
-- [[ChenFanLateHan|陈蕃]] - palace opponent whom Wang Fu orders seized before Chen's death.
+- [[DouWuLateHan|窦武]] - early memorialist in the party-prisoner case and later anti-eunuch opponent whom Wang Fu helps strip of legitimacy.
+- [[ChenFanLateHan|陈蕃]] - palace opponent whose removal first frightens party rescuers and whom Wang Fu later orders seized.
 - [[EmpressDowagerDouMiao|窦妙 / 窦皇太后]] - dowager whose seizure and later status threaten Wang Fu's factional memory.
 - [[ZhaoRaoLateHan|赵饶]] - wet-nurse access actor in the palace environment where Wang Fu is already influential.
 - [[GuanBaLateHan|管霸]] and [[SuKangLateHan|苏康]] - first punished eunuch targets whose execution leaves Wang Fu unresolved.

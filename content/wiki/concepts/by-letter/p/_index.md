@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5612
+wiki_total_pages: 5642
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -53,6 +53,9 @@ wiki_pages:
   - key: "PalaceCoupViolenceCascade"
     title: "Palace Coup Violence Cascade / 宫廷政变暴力级联"
     url: "/wiki/concepts/palacecoupviolencecascade/"
+  - key: "PalaceFavoriteProtectionFragility"
+    title: "Palace Favorite Protection Fragility / 宫廷宠幸保护脆弱性"
+    url: "/wiki/concepts/palacefavoriteprotectionfragility/"
   - key: "PalaceScandalPowerConsolidation"
     title: "Palace Scandal Power Consolidation / 宫廷丑闻式收权"
     url: "/wiki/concepts/palacescandalpowerconsolidation/"
@@ -848,6 +851,9 @@ wiki_pages:
   - key: "PowerBasedAllianceRepricing"
     title: "Power-Based Alliance Repricing / 实力重估式阵营转向"
     url: "/wiki/concepts/powerbasedalliancerepricing/"
+  - key: "PowerStructureTargeting"
+    title: "Power-Structure Targeting / 权力结构定向求援"
+    url: "/wiki/concepts/powerstructuretargeting/"
   - key: "PowerViolenceDistinction"
     title: "Power-Violence Distinction / 权力与暴力区分"
     url: "/wiki/concepts/powerviolencedistinction/"
@@ -1001,6 +1007,9 @@ wiki_pages:
   - key: "PrintingSignatureConstraint"
     title: "Printing Signature Constraint"
     url: "/wiki/concepts/printingsignatureconstraint/"
+  - key: "PrisonRitualLegitimacyRefusal"
+    title: "Prison Ritual Legitimacy Refusal / 冤狱仪式合法性拒绝"
+    url: "/wiki/concepts/prisonrituallegitimacyrefusal/"
   - key: "PrisonersDilemma"
     title: "Prisoner's Dilemma / 囚徒困境"
     url: "/wiki/concepts/prisonersdilemma/"
@@ -1460,6 +1469,9 @@ wiki_pages:
   - key: "PartyProhibitionKinshipNarrowing"
     title: "党锢亲属牵连缩限 / Party Prohibition Kinship Narrowing"
     url: "/wiki/concepts/partyprohibitionkinshipnarrowing/"
+  - key: "PunishmentAsMoralCredential"
+    title: "受罚作为名节凭据 / Punishment as Moral Credential"
+    url: "/wiki/concepts/punishmentasmoralcredential/"
   - key: "PalaceMarketTheater"
     title: "宫市游乐式权力错位 / Palace Market Theater"
     url: "/wiki/concepts/palacemarkettheater/"

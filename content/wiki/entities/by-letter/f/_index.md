@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 7856
+wiki_total_pages: 7901
 wiki_pages:
   - key: "FortyThreeTalks"
     title: "43talks"
@@ -428,6 +428,12 @@ wiki_pages:
   - key: "FranzBoas"
     title: "Franz Boas / 博尔斯"
     url: "/wiki/entities/franzboas/"
+  - key: "FranzFerdinand"
+    title: "Franz Ferdinand"
+    url: "/wiki/entities/franzferdinand/"
+  - key: "FranzJosephI"
+    title: "Franz Joseph I"
+    url: "/wiki/entities/franzjosephi/"
   - key: "FranzKromer"
     title: "Franz Kromer / 弗朗兹·克罗默"
     url: "/wiki/entities/franzkromer/"
@@ -617,6 +623,9 @@ wiki_pages:
   - key: "FengChanLateHan"
     title: "冯禅 / Feng Chan (late Han)"
     url: "/wiki/entities/fengchanlatehan/"
+  - key: "FengyishanBattleLateHan"
+    title: "冯翊山之战 / Fengyishan Battle (late Han)"
+    url: "/wiki/entities/fengyishanbattlelatehan/"
   - key: "FengGuirenLateHan"
     title: "冯贵人 / Feng Guiren (late Han)"
     url: "/wiki/entities/fengguirenlatehan/"

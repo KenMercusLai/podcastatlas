@@ -12154,9 +12154,37 @@ Added source page for the All-In Kratsios interview on the New Golden Age scienc
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-27] ingest | 690. A Murderous Affair: Death at Mayerling (Part 2)
+
+Added source page for The Rest Is History episode on Crown Prince Rudolf, Mary Vetsera, the January 1889 Mayerling deaths, Catholic burial pressure, Habsburg suppression of Mary's role, and the succession shock that moves the line toward Karl Ludwig and Franz Ferdinand. Created Rudolf, Mary Vetsera, Franz Joseph I, Empress Sisi, Countess Larish, Mitzi Kaspar, Mayerling Incident, Austria-Hungary, Habsburg Dynasty, burial/site/supporting-actor pages, and the Mayerling Death Pact, Dynastic Scandal Suppression, Catholic Burial Legitimacy, Dynastic Heir Loss Shock, and Fin-de-Siecle Vienna Crisis Reading concepts; migrated The Rest Is History to synthesis-v1 and updated Vienna. No settled contradiction found; "Meiling," "Bratfish," and "Lucchini" are normalized to Mayerling, Bratfisch, and Lucheni while agency, reincarnation, and conspiracy claims remain source-scoped.
+
 ## [2026-08-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-27] ingest | 《资治通鉴·汉纪》872丨他娶妾不成，竟杀人全家
+
+Added source page for Hanji 872: Zhang Jian's enforcement against Hou Lan, blocked memorials, Xu Xuan's killing of Li Gao's daughter, Huang Fu's execution of Xu Xuan, Emperor Huan's punishment of Zhai Chao and Huang Fu after eunuch complaint, and Chen Fan's warning that inner-court favorite power is the deeper danger. Created Zhai Chao, Xu Huang, Xu Xuan, Li Gao, Huang Fu, Liu Mao, and Eunuch Patronage Violence Shield pages; updated Chen Fan, Zhang Jian, Hou Lan, and Emperor Huan. No settled contradiction found; 皇甫 is normalized to 黄浮 and 李嵩 to 李暠 while the 166/169 chronology is kept source-scoped.
+
+## [2026-08-27] ingest | 《资治通鉴·汉纪》874丨震惊：母子相残，天理难容！
+
+Added source page for Hanji 874: Jia Biao's no-collateral timing judgment and infanticide custom correction, Zhang Cheng's amnesty-gaming murder, Li Ying's execution of Zhang Cheng father and son, the eunuch-backed Lao Xiu accusation that triggers first Party Prohibition arrests, Chen Fan's refusal to sign vague arrest orders, and Chen Shi / Fan Pang prison conduct. Created Zhang Cheng (late Han astrologer), Lao Xiu, Infanticide Custom Correction, Amnesty Exploitation Crime, and Prison Ritual Legitimacy Refusal pages; updated Jia Biao, Li Ying, Fan Pang, Chen Shi, Chen Fan, Emperor Huan, Power-Structure Targeting, and Party Network Treason Framing. No settled contradiction found; transcript variants are normalized to Jia Biao, Li Ying, Chen Shi, Fan Pang, Gao Yao, and Chen Fan while minor names remain source-scoped.
+
+## [2026-08-27] ingest | 《资治通鉴·汉纪》876丨职场总碰壁？说明你没有找对关系
+
+Added source page for Hanji 876: the 167 CE pre-amnesty Party Prohibition rescue path, Jia Biao's targeted approach to Dou Wu, Dou Wu's memorial against eunuch influence and false accusation, Fan Pang's prison defense, Wang Fu's local softening, and the solar-eclipse pretext for pardon. Created Jia Biao and Power-Structure Targeting pages; updated Dou Wu, Wang Fu, Chen Fan, Fan Pang, Li Ying, Emperor Huan, index, overview, and log. No settled contradiction found; the unnamed second intercessor and frontier notices remain source-scoped.
+
+## [2026-08-27] ingest | 《资治通鉴·汉纪》880丨为何职场老油条热衷于称病？
+
+Added source page for Hanji 880: the 168 CE interregnum after Emperor Huan's death, Chen Fan's "事亡如存" rebuke of shangshu illness avoidance, Liu Hong's accession as Emperor Ling, and Duan Jiong's budgeted hard-suppression memorial for the Eastern Qiang. Created Crisis Duty Continuity and Budgeted Frontier Suppression; updated Chen Fan, Duan Jiong, and Eastern Qiang. No settled contradiction found; the illness-avoidance and campaign-budget claims are kept source-scoped.
+
+## [2026-08-27] ingest | 《资治通鉴·汉纪》882丨风光太盛，注定不得好死？
+
+Added source page for Hanji 882: the 168 CE accession-reward stage before the Dou Wu / Chen Fan anti-eunuch crisis, Lu Zhi's warning against excessive reward, Chen Fan's refusal of Dou Miao's favor-based marquisate, and the Analects wealth/rank frame behind rightful acceptance. Updated Dou Wu, Chen Fan, Lu Zhi, Righteousness Over Profit, and added Unearned Reward Refusal. No settled contradiction found; transcript variants such as 曹洁 and 段炯 are normalized to canonical late-Han routes, while Dou Ji, Dou Shao, Dou Jing, and Ma Rong remain source-scoped.
+
+## [2026-08-27] ingest | 《资治通鉴·汉纪》1042丨聪明还是顽固？田丰因顶撞袁绍入狱
+
+Added source page for Hanji 1042: Liu Bei's flight to Yuan Shao, Tian Feng's concrete pre-Guandu hold-and-harass strategy, Yuan Shao's rejection and imprisonment of Tian Feng, and the Yuan camp fragmentation diagnosis. Updated Tian Feng, Guandu Campaign, Advice Framing Under Hierarchy, Resource-Asymmetry Attrition, and Fortified Attrition Patience. No settled contradiction found; the host's claim that Tian Feng's plan would have favored Yuan Shao remains source-scoped counterfactual judgment.
 
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》886丨身处职场，做个城府很深的人
 
@@ -12191,9 +12219,7 @@ Added source page for Hanji 1034: Yuan Shao's pre-Guandu council, Ju Shou's rest
 
 Ran lint. See lint-report.md for details.
 
-## [2026-08-27] lint | Wiki health check
 
-Ran lint. See lint-report.md for details.
 
 ## [2026-08-27] lint | Wiki health check
 
@@ -12262,6 +12288,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-27] lint | Wiki health check
 
 Ran health, identity validation, and lint. Health scanned 14,959 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-22 with 12,882 nodes and 149,964 edges while the current lint scan covered 14,959 pages, so fragile-bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` and common provider API key variables are unset in this shell; a bounded in-session review of the script sample found no direct contradictions or stale summaries and flagged depth/schema drift in sampled legacy concept pages, especially `wiki/concepts/ExportPorcelainCustomization.md` and `wiki/concepts/FinancialPowerAndStateCapacity.md`, which lack `## Key Claims`. Report returned in-session; `wiki/lint-report.md` was not updated.
+
+## [2026-08-27] ingest | 《资治通鉴·汉纪》1041丨揭秘历史上真实的“关羽降曹”
+
+Added source page for Hanji 1041: Cao Cao's pre-Guandu attack on Liu Bei, Guo Jia's timing support, Tian Feng's missed Xudu attack advice, Yuan Shao's failure to act, and the source-critical correction of Guan Yu's captured service under Cao Cao versus the Romance "关公约三事" story. Created Captive Submission with Residual Loyalty; migrated/updated Guan Yu, Romance of the Three Kingdoms, Sanguozhi, Fiction As Historical Evidence, and Tian Feng. No settled contradiction found; the Romance correction is treated as a source-tradition boundary and the host's "贵人" value-exchange lesson remains source-scoped.
 
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》892丨修止语，古人有什么捷径？
 
@@ -12338,6 +12368,110 @@ Ran health, identity validation, and lint. Health passed across 15,002 wiki page
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》884丨职场除奸，要对谁先开刀？
 
 Added source page for Hanji 884: the 168 CE opening decision window before the Dou Wu / Chen Fan anti-eunuch crisis, including Dou Miao's reform patronage, palace proximity power around Zhao Rao, Cao Jie, and Wang Fu, Chen Fan's first removal advice, and the selective executions of Guan Ba and Su Kang. Created Guan Ba, Su Kang, Zhao Rao, Du Mi, and Palace Proximity Power pages; updated Dou Wu, Chen Fan, Empress Dowager Dou Miao, Cao Jie, Wang Fu, Yin Xun, Liu Yu, and Li Ying. No settled contradiction found; transcript variants are normalized to canonical late-Han routes.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-27] ingest | 《资治通鉴·汉纪》1045丨他是江东霸业的开创者，可惜死的太窝囊
+
+Added source page for Hanji 1045: Sun Ce's fatal hunting ambush by Xu Gong retainers, the deathbed seal handoff to Sun Quan, Zhang Zhao and Zhou Yu's stabilization of Jiangdong, and Li Tong's refusal of Yuan Shao's Runan recruitment. Created Sun Ce Assassination, Xu Gong, Wu Commandery, Runan Commandery, and Liu Pi pages; updated Sun Ce, Sun Quan, Zhang Zhao, Zhou Yu, Li Tong, Leader Personal Exposure, and Command Continuity Damage Control. No settled contradiction found; 刘璧 is normalized source-scoped to 刘辟 / Liu Pi, and the host's character-fate reading remains an interpretation rather than a complete causal biography.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-27] ingest | 《资治通鉴·汉纪》883丨老板要反思：如何避免高官内讧？
+
+Added source page for Hanji 883: boundaryless kindness and measured strength, the 168 CE Eastern Qiang policy dispute between Duan Jiong and Zhang Huan, surrender versus hard suppression, Duan's anti-resettlement argument, and the host's force-plus-conciliation frontier-governance qualification. Updated Duan Jiong, Zhang Huan, Eastern Qiang, Root-Cause Pacification, and Boundaryless Kindness Trap. No settled contradiction found; 张焕 and 段炯 are normalized to canonical late-Han routes.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-27] ingest | 《资治通鉴·汉纪》881丨是谁在发战争横财？
+
+Added source page for Hanji 881: Duan Jiong's Fengyishan victory over the Xianling Qiang, Dou Miao's interim reward and Zhongcangfu military funding, Huangfu Gui / Zhang Huan conciliation contrast, and the source's war-finance access diagnosis around eunuch influence. Created Fengyishan Battle and Campaign Finance Access Incentive pages; migrated Xianling Qiang to synthesis-v1; updated Duan Jiong and Eastern Qiang. No settled contradiction found; the war-profiteering claim is kept as an incentive/access diagnosis rather than proof of named recipients or extracted sums.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-27] ingest | 《资治通鉴·汉纪》879丨死在女人身上的昏庸男人
+
+Added source page for Hanji 879: Emperor Huan's final harem-status split between Tian Sheng and Dou Miao, Huan's childless death, Dou Miao's execution of Tian Sheng, and Dou Wu's role in selecting the twelve-year-old Liu Hong as successor. Created Tian Sheng, Palace Favorite Protection Fragility, and Controllable Child Accession pages; migrated Emperor Huan to synthesis-v1; updated Dou Miao and Dou Wu. No settled contradiction found; Liu Hong is normalized to Emperor Ling, and Liu Kai / Liu Chang lineage names remain source-scoped because existing routes point to unrelated modern people.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint after health passed and identity validation found unique wiki identities. Deterministic checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-22 with 12,882 nodes and 149,964 edges while the current lint scan covered 15,030 pages; findings are advisory until the graph is rebuilt. Current graph checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is unset/provider-unqualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-27] ingest | 《资治通鉴·汉纪》878丨不受约束的权力，害人不浅
+
+Added source page for Hanji 878: Emperor Huan's forced marriage pressure on Yang Qiao and contrast with Liu Xiu / Song Hong, the Ba Commandery yellow-dragon auspicious-reporting case, Zhang Huan's 167 CE suppression of Xianling Qiang with eunuch-distorted reward, and Dong Zhuo's first langzhong appointment. Created Yang Qiao, Song Hong, Coerced Imperial Marriage, Military Reward Eunuch Gatekeeping, and Local Auspicious Omen Fabrication pages; updated Emperor Huan and Zhang Huan. No settled contradiction found; 张宦 and 先临羌 are normalized/source-scoped to established late-Han routes.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-27] ingest | 《资治通鉴·汉纪》877丨他为何冷落救命恩人？
+
+Added source page for Hanji 877: the 167 CE Party Prohibition amnesty, permanent office-exclusion registry, Fan Pang's restrained visit to Huo Xu, his later low-visibility retreat in Runan, and Shi Bi's refusal to fabricate Pingyuan party names under Qingzhou pressure. Created Huo Xu, Shi Bi, Tacit Gratitude Restraint, Registry-Based Political Exclusion, and Accusation Quota Refusal pages; updated Fan Pang, index, overview, and log. No settled contradiction found; transcript variants are normalized to Fan Pang, Huo Xu, Shi Bi, and Runan.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-27] ingest | The Fight Over Open Source AI, Anthropic's $1.5B Payout, NYC Socialists: Evictions = Violence?
+
+Added source page for All-In E282: Kimi K3 and open-source AI ban risk, Anthropic's copyright settlement and fair-use/output-training tension, Google/Tesla/SpaceX AI capex, and New York tenant-screening, eviction, rent-control, and housing-supply politics. Created Open Source AI Ban Risk, Token Tax On AI, AI Output Training Symmetry, Tenant Screening Eviction Backfire, Housing Supply Over Rent Control, and LibGen pages; migrated AI Training Copyright Dispute to synthesis-v1; updated Kimi K3. No settled contradiction found, but SpaceX IPO/trading figures conflict with earlier All-In source-scoped claims and are preserved as episode-attributed.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-27] ingest | 《资治通鉴·汉纪》875丨离大谱！为何他以入狱为荣？
+
+Added source page for Hanji 875: the 166 CE first Party Prohibition reputation field, Huangfu Gui's shame at not being arrested, Du Mi's talent-recognition and public-duty critique, Dou Wu's clean-office profile, Zhang Huan's selective pacification of Southern Xiongnu and Wuhuan submitters, and Tanshihuai's rejected Han recognition. Created Huangfu Gui and Punishment as Moral Credential pages; migrated Tanshihuai and Scholar-Official Public Duty to synthesis-v1; updated Du Mi, Li Ying, Dou Wu, Zhang Huan, index, overview, and log. No settled contradiction found; transcript variants are normalized to Huangfu Gui, Li Ying, Zheng Xuan, Zhang Huan, Wuhuan, and Tanshihuai.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-27] ingest | 《资治通鉴·汉纪》873丨他如何利用天象痛骂帝王？
+
+Added source page for Hanji 873: Xiang Kai's two memorials against Emperor Huan using stars, disasters, Yellow River clarity, childlessness, eunuch favor, harsh punishment, and Buddhist-Daoist restraint as omen-coded criticism. Created Xiang Kai and Omen-Coded Remonstrance pages; updated Emperor Huan, index, overview, and log. No settled contradiction found; Liu Zhi, Chen Jin, Cai Yan, and Liu Yu remain source-scoped because this source gives limited disambiguating evidence and internal transcript variation.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-27] lint | Wiki health check
 

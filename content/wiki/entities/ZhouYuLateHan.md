@@ -9,17 +9,18 @@ sources:
   - zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz
   - zizhi-tongjian-hanji-994-genzhe-dongwu-zhongchen-lvfan-xuexi-zhichang-zhihui-lgqp2vqmh1mss96gcwmflp-ccpfu
   - zizhi-tongjian-hanji-1038-sanshiliu-ji-zhi-diaohu-lishan-sunce-zhiqu-wancheng-lhomk8hfdidl61degwbqtj2xkj9z
-last_updated: 2026-08-26
+  - zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d
+last_updated: 2026-08-27
 knowledge_schema: synthesis-v1
 ---
 
 # 周瑜 / Zhou Yu
 
 ## Overview
-周瑜 / Zhou Yu is [[SunCe|孙策]]'s early ally whose wiki profile now runs from birth marker and family-trust channel to material Jiangdong support and active command in the Lujiang campaign.
+周瑜 / Zhou Yu is [[SunCe|孙策]]'s early ally whose wiki profile now runs from birth marker and family-trust channel to material Jiangdong support, active command in the Lujiang campaign, and military stabilization after Sun Ce's death.
 
 ## Current Profile
-The current synthesis presents Zhou Yu as an elite local ally who turns personal friendship into state-building capacity. He begins as a chronological bridge, becomes a family-alliance host and material supporter for Sun Ce, rejects [[YuanShu|袁术]]'s failing orbit, receives office under Sun Ce, and in Hanji 1038 appears beside Sun Ce in the capture of [[WanChengLujiang|皖城]].
+The current synthesis presents Zhou Yu as an elite local ally who turns personal friendship into state-building capacity. He begins as a chronological bridge, becomes a family-alliance host and material supporter for Sun Ce, rejects [[YuanShu|袁术]]'s failing orbit, receives office under Sun Ce, appears beside Sun Ce in the capture of [[WanChengLujiang|皖城]], and then remains with [[SunQuan|孙权]] as central guard in the post-assassination transition.
 
 ## Key Characteristics
 - Serves as a chronological bridge from the Sun Jian generation into the later Sun-Ce Jiangdong branch.
@@ -27,6 +28,7 @@ The current synthesis presents Zhou Yu as an elite local ally who turns personal
 - Supplies troops, boats, grain, funds, and [[DanyangCommandery|丹阳郡]] access for Sun Ce's launch.
 - Rejects Yuan Shu's camp and attaches more formally to Sun Ce as Yuan Shu's imperial project fails.
 - Participates in the Wan City operation, making earlier support visible as active campaign command.
+- Returns from Baqiu with troops after Sun Ce's death and remains in Wu Commandery as a military stabilizer for Sun Quan.
 - Requires title-history caution because later Wu title language can be projected backward incorrectly.
 
 ## Evidence
@@ -35,20 +37,26 @@ The current synthesis presents Zhou Yu as an elite local ally who turns personal
 - Material launch support: [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz|Hanji 992]] says Zhou Yu brings two thousand troops, fifty boats, funds, grain, and Danyang access through [[ZhouShangLateHan|周尚]].
 - Formal alignment: [[zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x|Hanji 1028]] has Zhou Yu and [[LuSu|鲁肃]] judge Yuan Shu hopeless and cross the Yangtze toward Sun Ce.
 - Wan City command: [[zizhi-tongjian-hanji-1038-sanshiliu-ji-zhi-diaohu-lishan-sunce-zhiqu-wancheng-lhomk8hfdidl61degwbqtj2xkj9z|Hanji 1038]] shows Sun Ce and Zhou Yu attacking Wan City after Liu Xun leaves Lujiang.
+- Succession stabilization: [[zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d|Hanji 1045]] has Zhou Yu return from Baqiu with troops, mourn Sun Ce, remain in Wu Commandery as central guard, and co-manage affairs with Zhang Zhao.
 - Title caution: [[zizhi-tongjian-hanji-994-genzhe-dongwu-zhongchen-lvfan-xuexi-zhichang-zhihui-lgqp2vqmh1mss96gcwmflp-ccpfu|Hanji 994]] warns that [[LuFan|吕范]]'s early `都督` role and Zhou Yu's later reputation should not be conflated with a later `大都督` office.
 
 ## Qualifications
-This page remains bounded to early Sun-Ce material, institutional title caution, and the Lujiang campaign. It is not yet a full synthesis of Zhou Yu's later Red Cliffs or Eastern Wu career.
+This page remains bounded to early Sun-Ce material, institutional title caution, the Lujiang campaign, and the immediate Sun Quan succession. It is not yet a full synthesis of Zhou Yu's later Red Cliffs or Eastern Wu career.
 
 ## What Changed
+- Added Hanji 1045, extending Zhou Yu from Sun Ce's ally and commander into a post-assassination stabilizer for Sun Quan.
 - Added Hanji 1038 as the Wan City campaign-command layer.
 - Migrated the page from chronological append notes to synthesis-v1.
 
 ## Relationships
 - [[SunCe|孙策]] - ally whose Jiangdong rise Zhou Yu materially supports and later campaigns beside.
+- [[SunQuan|孙权]] - successor whose early transition Zhou Yu helps stabilize.
+- [[ZhangZhaoLateHan|张昭]] - civil counterpart in the post-Sun Ce transition.
+- [[WuCommanderyLateHan|吴郡]] - place where Zhou Yu remains as central guard after Sun Ce's death.
 - [[LadyWuSunJian|吴夫人]] - Sun-family matriarch whose respectful reception marks the family-alliance channel.
 - [[ZhouShangLateHan|周尚]] - uncle whose Danyang position helps convert Zhou Yu's network into logistical support.
 - [[YuanShu|袁术]] - failing patronage orbit Zhou Yu rejects.
 - [[LuSu|鲁肃]] - parallel figure who also leaves Yuan Shu for Sun Ce.
 - [[WanChengLujiang|皖城]] - campaign target Zhou Yu helps Sun Ce capture.
 - [[LuFan|吕范]] - office-title comparator used to avoid retrojecting later Wu titles.
+- [[CommandContinuityDamageControl|统帅连续性危机处置]] - crisis pattern Zhou Yu supports through armed presence and officeholding.

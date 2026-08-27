@@ -1,6 +1,14 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "1e3f0cf2b934b228b40cb12ac7fd7fe96511b93637dac905e00bfc60aa089ec7",
+      "2df6ee81d99b0d7233861c150387a43d65848277cf46cfd4c6379caa7eda4396",
+      "da39a84acb7df9827cb55e3ef76355e5fd17cb422bede060441f307e6f92aedb",
+      "21af349e2fabf3463235e8ee0bcdc952ea5077d17ac8e5818bd5bf4a5eafdd56",
+      "1e2ba709bdba3024dfa3901af5c41b5854e25c28100494f6592ff04c541f2883",
+      "3243c26853b4022ea3fd430696c5b4addccd300394839277733635190370d9bd",
+      "6ea3cb0cc73814b1e2b140530711f1d0e70b123cc4024f9a3181d51eccd0ff7e",
+      "af9d56be9c99e9c05ee530afa0337a644d946db2a8ec4a0aeff91b1120616430",
       "59cf16f1cca072ba4e0c3bb0937d8f8b6318da539042eaab86579b0b54e1398c",
       "7f63a5468bf59272fa3a6ed648448ea6002fb09d3c5bb53ed2819f03f76908e5",
       "af8e2a6837f0f62b6f60a5863290b6bfbe580b2a3f833a4c9b6b5c602c6f2887",
@@ -26,6 +34,8 @@
       "baa8563117c87f0fa06054d580b6c7c44c5428f74779f71a669eeb99a2f47d20",
       "8d6f3161ce308c5fa1672e99fa6cd5e9c59199d70f119267c31b3d0481772e20",
       "547548604597cb96f8ee207d1a3ccc73e53ead93e2136757534d418981e69e17",
+      "237e0a22896baa80bde259f9797e8f892e663ee3a1b8e599e442eeaff14ad836",
+      "1a6a1bd8a35ae9c05383975a3a76da51ac306f5fface6750ff0ef9cc07bec634",
       "02aca0cdc3e5a8775e4f935539adfd86ed7ad52997d7c90ca4cf477989391fb1",
       "b59592e9dee1b2eee5a578c1941f5cafbbdd73787a357e7b849bb4a18af13d90",
       "c1fcb3861b584fe6e941c87932da97413c4884d0dceb790e661f42a218f310c0",
@@ -272,18 +282,257 @@
       "0fba5d11c8de7efacd2b63af5f1939d94c6dbb1d7bafc6ac1ade1274bd388278",
       "d2ebb1f66c4d89d070f9f574affe60d1700fea687fbf72d6a87ccf19244070a0",
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
-      "182e970dd82ce4e9f37420e52f42ff6e2a5ab47e2531f7be4bdacd6ee621352e",
+      "eda4a11baff29342ccc0f5d333b49b8ad4a98b8c84834df752f00b91ee44caa1",
       "071eae42bb31ffd3cdf9394ad0e35360fa8e9247b719381e1b3cf89c03873025",
       "d9074e43b7b103fc0d0097b207bf8018227d6e146ca0eb75638118627687641c",
       "b16a38bd6e190222f7f3e6f0535803ce60ae7f3304e3477dfcdd995a15fb502f",
       "ed252faccaaf1dc4e8c654d3406a6a1a0fc3a6f6fe78821348d1b123c7e85a5c",
       "32b62a0e1fc3144c5e7770721fc745607afef0d0cf46a8fe94d35cab377dbbf9"
     ],
-    "paragraph_count": 277
+    "paragraph_count": 287
   },
-  "overview_commit": "8092e7424d745897c337a7741df46d5f46e06d2e",
-  "overview_digest": "fce362c224dcf3eda3c14fe62759008c47f08056178a478aa0b1952e84085df0",
+  "overview_commit": "4dfbe94ddb1f78093ee7ca4b20e393bbf79bb7b1",
+  "overview_digest": "1383ae693c1393166d56c109a76a49343ecbf722ee1d3c33a49f1e11ec1019c9",
   "paragraphs": [
+    {
+      "id": "1e3f0cf2b934b228b40cb12ac7fd7fe96511b93637dac905e00bfc60aa089ec7",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068|690. A Murderous Affair: Death at Mayerling (Part 2)]], a [[TheRestIsHistory]] episode on [[CrownPrinceRudolf]], [[MaryVetsera]], and the [[MayerlingIncident]] in 1889 [[AustriaHungary]]. It adds [[CrownPrinceRudolf]], [[MaryVetsera]], [[FranzJosephI]], [[EmpressSisi]], [[CountessLarish]], [[MitziKaspar]], [[CountessMarieFestetics]], [[JosefBratfisch]], [[JosefHoyos]], [[PhilipOfCoburg]], [[JohannLoschek]], [[MayerlingIncident]], [[AustriaHungary]], [[HabsburgDynasty]], [[KarlLudwigOfAustria]], [[FranzFerdinand]], [[LuigiLucheni]], [[HofburgPalace]], [[HeiligenkreuzAbbey]], [[CapuchinCrypt]], [[CarmeliteConventMayerling]], [[KaiserWilhelmII]], [[MayerlingDeathPact]], [[DynasticScandalSuppression]], [[CatholicBurialLegitimacy]], [[DynasticHeirLossShock]], and [[FinDeSiecleViennaCrisisReading]], while extending [[TheRestIsHistory]] and [[Vienna]]. Its core synthesis is that Mayerling turns private catastrophe into a dynastic systems problem: romantic death-pact language leaves agency unresolved, Catholic burial requires managed religious classification, Mary is asymmetrically suppressed, and Rudolf's death redirects the Habsburg succession. No settled contradiction is recorded; the source's Meiling, Bratfish, and Lucchini transcript forms are normalized to Mayerling, Bratfisch, and Lucheni.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 2
+      },
+      "wikilinks": [
+        "690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068",
+        "AustriaHungary",
+        "CapuchinCrypt",
+        "CarmeliteConventMayerling",
+        "CatholicBurialLegitimacy",
+        "CountessLarish",
+        "CountessMarieFestetics",
+        "CrownPrinceRudolf",
+        "DynasticHeirLossShock",
+        "DynasticScandalSuppression",
+        "EmpressSisi",
+        "FinDeSiecleViennaCrisisReading",
+        "FranzFerdinand",
+        "FranzJosephI",
+        "HabsburgDynasty",
+        "HeiligenkreuzAbbey",
+        "HofburgPalace",
+        "JohannLoschek",
+        "JosefBratfisch",
+        "JosefHoyos",
+        "KaiserWilhelmII",
+        "KarlLudwigOfAustria",
+        "LuigiLucheni",
+        "MaryVetsera",
+        "MayerlingDeathPact",
+        "MayerlingIncident",
+        "MitziKaspar",
+        "PhilipOfCoburg",
+        "TheRestIsHistory",
+        "Vienna"
+      ]
+    },
+    {
+      "id": "2df6ee81d99b0d7233861c150387a43d65848277cf46cfd4c6379caa7eda4396",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|《资治通鉴·汉纪》872丨他娶妾不成，竟杀人全家]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 166 CE Huan-era enforcement and eunuch-retaliation field before [[zizhi-tongjian-hanji-873-ta-ruhe-liyong-tianxiang-tongma-diwang-lqebkodcbcrsvyf80qwxnobydbhc|Hanji 873]]. It adds [[ZhaiChaoLateHan|翟超]], [[XuHuangLateHan|徐璜]], [[XuXuanLateHan|徐宣]], [[LiGaoRunanLateHan|李暠]], [[HuangFuDonghaiLateHan|黄浮]], [[LiuMaoLateHan|刘茂]], and [[EunuchPatronageViolenceShield|宦官庇护下的地方暴行]], while extending [[ZhangJianLateHan|张俭]], [[HouLanLateHan|侯览]], [[ChenFanLateHan|陈蕃]], [[EmperorHuanOfHan|汉桓帝]], [[PalaceAccessMonopoly|宫廷接触垄断]], and [[CourtFeedbackCollapse|君臣反馈失灵]]. Its core synthesis is that late-Han local enforcement can be inverted by palace access: Zhang Jian's reports against Hou Lan are intercepted, Huang Fu's execution of Xu Xuan becomes punishable after eunuch complaint, and Chen Fan names inner-court favorite power and blocked忠言 as the deeper institutional disease. No settled contradiction is recorded; 皇甫/李嵩 transcript forms are normalized to 黄浮/李暠, and the source's 166 frame is kept distinct from Hanji 893-895's 169 Zhang Jian flight sequence.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "ChenFanLateHan",
+        "CourtFeedbackCollapse",
+        "EmperorHuanOfHan",
+        "EunuchPatronageViolenceShield",
+        "HouLanLateHan",
+        "HuangFuDonghaiLateHan",
+        "LiGaoRunanLateHan",
+        "LiuMaoLateHan",
+        "PalaceAccessMonopoly",
+        "RuiqiJiangtouZizhiTongjian",
+        "XuHuangLateHan",
+        "XuXuanLateHan",
+        "ZhaiChaoLateHan",
+        "ZhangJianLateHan",
+        "zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc",
+        "zizhi-tongjian-hanji-873-ta-ruhe-liyong-tianxiang-tongma-diwang-lqebkodcbcrsvyf80qwxnobydbhc"
+      ]
+    },
+    {
+      "id": "da39a84acb7df9827cb55e3ef76355e5fd17cb422bede060441f307e6f92aedb",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-873-ta-ruhe-liyong-tianxiang-tongma-diwang-lqebkodcbcrsvyf80qwxnobydbhc|《资治通鉴·汉纪》873丨他如何利用天象痛骂帝王？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling 166 CE immediately before [[zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq|Hanji 874]] and the first Party Prohibition trigger. It adds [[XiangKaiLateHan|襄楷]] and [[OmenCodedRemonstrance|天象灾异包装式进谏]], while extending [[EmperorHuanOfHan|汉桓帝]], [[CelestialOmenPoliticalResponsibility|天象政治责任]], [[NaturalDisasterPoliticalOmen|自然灾害政治征兆]], [[ChineseAstrologicalPolitics|中国星占政治]], [[CourtFeedbackCollapse|君臣反馈失灵]], [[PalaceAccessMonopoly|宫廷接触垄断]], [[Laozi|老子]], and [[ShakyamuniBuddha|释迦牟尼佛]]. Its core synthesis is that Xiang Kai makes omen language a political speech technology: planets, mansions, cold, hail, Yellow River clarity, childlessness, and Huan's Buddhist-Daoist ritual interests all become evidence for criticizing eunuch favor, harsh punishment, wrongful killing, and imperial desire. No settled contradiction is recorded; minor official and rescuer names remain source-scoped, and Huan's \"first Buddhist emperor\" claim remains episode-attributed.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "CelestialOmenPoliticalResponsibility",
+        "ChineseAstrologicalPolitics",
+        "CourtFeedbackCollapse",
+        "EmperorHuanOfHan",
+        "Laozi",
+        "NaturalDisasterPoliticalOmen",
+        "OmenCodedRemonstrance",
+        "PalaceAccessMonopoly",
+        "RuiqiJiangtouZizhiTongjian",
+        "ShakyamuniBuddha",
+        "XiangKaiLateHan",
+        "zizhi-tongjian-hanji-873-ta-ruhe-liyong-tianxiang-tongma-diwang-lqebkodcbcrsvyf80qwxnobydbhc",
+        "zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq"
+      ]
+    },
+    {
+      "id": "21af349e2fabf3463235e8ee0bcdc952ea5077d17ac8e5818bd5bf4a5eafdd56",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq|《资治通鉴·汉纪》874丨震惊：母子相残，天理难容！]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 166 CE first Party Prohibition trigger before [[zizhi-tongjian-hanji-875-li-dapu-weihe-ta-yi-ruyu-wei-rong-lgffkjk-0yu-ehfsw59anoych-ld|Hanji 875]], [[zizhi-tongjian-hanji-876-zhichang-zong-pengbi-shuoming-ni-meiyou-zhaodui-guanxi-lrjob-a07t29hdr0iogrmcsjr7qp|Hanji 876]], and [[zizhi-tongjian-hanji-877-ta-weihe-lengluo-jiuming-enren-loofs4rugl-q8kunfb-jpj5mgvhi|Hanji 877]]. It adds [[ZhangChengAstrologerLateHan|张成]], [[LaoXiuLateHan|劳修]], [[InfanticideCustomCorrection|杀婴风俗纠偏]], [[AmnestyExploitationCrime|大赦预期犯罪]], and [[PrisonRitualLegitimacyRefusal|冤狱仪式合法性拒绝]], while extending [[JiaBiaoLateHan|贾彪]], [[LiYingLateHan|李膺]], [[FanPangLateHan|范滂]], [[ChenShiLateHan|陈寔]], [[ChenFanLateHan|陈蕃]], [[EmperorHuanOfHan|汉桓帝]], [[PowerStructureTargeting|权力结构定向求援]], and [[PartyNetworkTreasonFraming|朋党网络谋反化]]. Its core synthesis is that the first Party Prohibition begins as a chain from local moral order and legal abuse into court accusation: Jia Biao distinguishes action from collateral harm, Li Ying refuses to let an anticipated amnesty protect calculated murder, and eunuch-backed accusation recodes士人 association as disorder before Chen Fan, Chen Shi, and Fan Pang answer through procedural resistance and prison responsibility. No settled contradiction is recorded; minor rescue and fugitive names remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "AmnestyExploitationCrime",
+        "ChenFanLateHan",
+        "ChenShiLateHan",
+        "EmperorHuanOfHan",
+        "FanPangLateHan",
+        "InfanticideCustomCorrection",
+        "JiaBiaoLateHan",
+        "LaoXiuLateHan",
+        "LiYingLateHan",
+        "PartyNetworkTreasonFraming",
+        "PowerStructureTargeting",
+        "PrisonRitualLegitimacyRefusal",
+        "RuiqiJiangtouZizhiTongjian",
+        "ZhangChengAstrologerLateHan",
+        "zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq",
+        "zizhi-tongjian-hanji-875-li-dapu-weihe-ta-yi-ruyu-wei-rong-lgffkjk-0yu-ehfsw59anoych-ld",
+        "zizhi-tongjian-hanji-876-zhichang-zong-pengbi-shuoming-ni-meiyou-zhaodui-guanxi-lrjob-a07t29hdr0iogrmcsjr7qp",
+        "zizhi-tongjian-hanji-877-ta-weihe-lengluo-jiuming-enren-loofs4rugl-q8kunfb-jpj5mgvhi"
+      ]
+    },
+    {
+      "id": "1e2ba709bdba3024dfa3901af5c41b5854e25c28100494f6592ff04c541f2883",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-880-weihe-zhichang-laoyoutiao-rezhong-yu-chengbing-lnzfgwghrxrpltsmb8godap-nyzw|《资治通鉴·汉纪》880丨为何职场老油条热衷于称病？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 168 CE interregnum before [[zizhi-tongjian-hanji-881-shi-shui-zai-fa-zhanzheng-hengcai-lipglslijnbp0cuqfpps88q5wit6|Hanji 881]] and the Hanji 882-887 Dou Wu / Chen Fan crisis chain. It adds [[CrisisDutyContinuity|危局职守连续性]] and [[BudgetedFrontierSuppression|预算化边疆清剿]], while extending [[ChenFanLateHan|陈蕃]], [[DuanJiongLateHan|段熲]], [[DongqiangLateHan|东羌]], [[XianlingQiang|先零羌]], [[ZhangHuanLateHan|张奂]], [[EmperorHuanOfHan|汉桓帝]], [[EmperorLingOfHan|汉灵帝]], [[DouWuLateHan|窦武]], [[EmpressDowagerDouMiao|窦妙 / 窦皇太后]], [[HuGuangLateHan|胡广]], [[BureaucraticRiskAvoidance|bureaucratic risk avoidance]], [[WarCostTempoDiscipline|战争成本与速决纪律]], [[RootCausePacification|查因安抚式治理]], and [[XingshiqingStrategicAssessment|行势情战略评估]]. Its core synthesis is that succession uncertainty exposes two kinds of continuity risk: court officials use illness claims to avoid dangerous responsibility until Chen Fan restores duty through \"事亡如存,\" while Duan Jiong tries to carry frontier policy across the transition by turning exterminatory Eastern Qiang strategy into a budgeted force-time-cost proposal. No settled contradiction is recorded; official illness and campaign cost claims remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 2,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "BudgetedFrontierSuppression",
+        "BureaucraticRiskAvoidance",
+        "ChenFanLateHan",
+        "CrisisDutyContinuity",
+        "DongqiangLateHan",
+        "DouWuLateHan",
+        "DuanJiongLateHan",
+        "EmperorHuanOfHan",
+        "EmperorLingOfHan",
+        "EmpressDowagerDouMiao",
+        "HuGuangLateHan",
+        "RootCausePacification",
+        "RuiqiJiangtouZizhiTongjian",
+        "WarCostTempoDiscipline",
+        "XianlingQiang",
+        "XingshiqingStrategicAssessment",
+        "ZhangHuanLateHan",
+        "zizhi-tongjian-hanji-880-weihe-zhichang-laoyoutiao-rezhong-yu-chengbing-lnzfgwghrxrpltsmb8godap-nyzw",
+        "zizhi-tongjian-hanji-881-shi-shui-zai-fa-zhanzheng-hengcai-lipglslijnbp0cuqfpps88q5wit6"
+      ]
+    },
+    {
+      "id": "3243c26853b4022ea3fd430696c5b4addccd300394839277733635190370d9bd",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-881-shi-shui-zai-fa-zhanzheng-hengcai-lipglslijnbp0cuqfpps88q5wit6|《资治通鉴·汉纪》881丨是谁在发战争横财？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the immediate pre-Hanji 882 Qiang-campaign and court-finance layer. It adds [[FengyishanBattleLateHan|冯翊山之战]] and [[CampaignFinanceAccessIncentive|军费通道利益驱动]], while extending [[DuanJiongLateHan|段熲]], [[XianlingQiang|先零羌]], [[DongqiangLateHan|东羌]], [[EmpressDowagerDouMiao|窦妙]], [[EmperorLingOfHan|汉灵帝]], [[PalaceAccessMonopoly|宫廷接触垄断]], and [[WarCostTempoDiscipline|战争成本与速决纪律]]. Its core synthesis is that Duan Jiong's hard-line victory at Fengyishan becomes intelligible as both military capacity and access-biased funding: a costly frontier campaign creates resource flows that eunuch-adjacent actors can influence, so the annihilation route receives smoother approval than conciliation. No settled contradiction is recorded; the source preserves the war-profiteering claim as an incentive/access diagnosis rather than proof of specific officials extracting identified sums.",
+      "topic_scores": {
+        "business-and-markets": 1,
+        "history-and-geopolitics": 4,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "CampaignFinanceAccessIncentive",
+        "DongqiangLateHan",
+        "DuanJiongLateHan",
+        "EmperorLingOfHan",
+        "EmpressDowagerDouMiao",
+        "FengyishanBattleLateHan",
+        "PalaceAccessMonopoly",
+        "RuiqiJiangtouZizhiTongjian",
+        "WarCostTempoDiscipline",
+        "XianlingQiang",
+        "zizhi-tongjian-hanji-881-shi-shui-zai-fa-zhanzheng-hengcai-lipglslijnbp0cuqfpps88q5wit6"
+      ]
+    },
+    {
+      "id": "6ea3cb0cc73814b1e2b140530711f1d0e70b123cc4024f9a3181d51eccd0ff7e",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics",
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-882-fengguang-taisheng-zhuding-bude-haosi-lphagu5ljuxxjwx-uvnbs229wjii|《资治通鉴·汉纪》882丨风光太盛，注定不得好死？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 168 CE accession-reward stage before [[zizhi-tongjian-hanji-883-laoban-yao-fansi-ruhe-bimian-gaoguan-neihong-lph-fycnqas6hztjq1jbsisvylid|Hanji 883]] and the Hanji 884-887 [[DouWuLateHan|窦武]] / [[ChenFanLateHan|陈蕃]] anti-eunuch crisis. It adds [[UnearnedRewardRefusal|非道所得不居]] and updates Dou Wu, Chen Fan, [[LuZhiLateHan|卢植]], and [[RighteousnessOverProfit|义利之辨]], while connecting the reward issue to [[EmpressDowagerDouMiao|窦妙 / 窦皇太后]], [[CaoJieLateHan|曹节]], [[Analects|《论语》]], [[MeritBasedRewardPunishment|因功赏罚]], [[MingqiLegitimacy|名器合法性]], and the [[DuanJiongLateHan|段熲]] frontier continuation. Its core synthesis is that overexposed reward and rightful refusal are early warning signals before the failed coup: Lu Zhi reads Dou Wu's accession honors as dangerous merit inflation, while Chen Fan treats an improperly grounded marquisate as a dignity and title-legitimacy problem. No settled contradiction is recorded; Ma Rong and Dou-family title details remain source-scoped, and the Duan Jiong notice is treated as setup for Hanji 883 rather than a conflicting campaign account.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "Analects",
+        "CaoJieLateHan",
+        "ChenFanLateHan",
+        "DouWuLateHan",
+        "DuanJiongLateHan",
+        "EmpressDowagerDouMiao",
+        "LuZhiLateHan",
+        "MeritBasedRewardPunishment",
+        "MingqiLegitimacy",
+        "RighteousnessOverProfit",
+        "RuiqiJiangtouZizhiTongjian",
+        "UnearnedRewardRefusal",
+        "zizhi-tongjian-hanji-882-fengguang-taisheng-zhuding-bude-haosi-lphagu5ljuxxjwx-uvnbs229wjii",
+        "zizhi-tongjian-hanji-883-laoban-yao-fansi-ruhe-bimian-gaoguan-neihong-lph-fycnqas6hztjq1jbsisvylid"
+      ]
+    },
+    {
+      "id": "af9d56be9c99e9c05ee530afa0337a644d946db2a8ec4a0aeff91b1120616430",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-883-laoban-yao-fansi-ruhe-bimian-gaoguan-neihong-lph-fycnqas6hztjq1jbsisvylid|《资治通鉴·汉纪》883丨老板要反思：如何避免高官内讧？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 168 CE [[DongqiangLateHan|东羌]] policy dispute before the Hanji 891-892 campaign and critique. It extends [[DuanJiongLateHan|段熲]], [[ZhangHuanLateHan|张奂]], [[BoundarylessKindnessTrap|无边界善良陷阱]], and [[RootCausePacification|查因安抚式治理]], while linking the case to [[PeopleBasedPoliticalSecurity|民心型政治安全]], [[DeceptiveSurrenderLull|诈降麻痹]], and [[WarCostTempoDiscipline|战争成本与速决纪律]]. Its core synthesis is that both personal conduct and frontier governance need bounded strength: kindness without boundaries invites exploitation, but Duan's force-only Qiang policy is qualified by Zhang Huan's surrender argument and the host's preference for coercive capacity joined to real pacification. No settled contradiction is recorded; 张焕 and 段炯 are normalized to canonical late-Han routes, while Zhao Chongguo, Ma Yuan, Deng Xun, and residual-place names remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 3,
+        "history-and-geopolitics": 2,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "BoundarylessKindnessTrap",
+        "DeceptiveSurrenderLull",
+        "DongqiangLateHan",
+        "DuanJiongLateHan",
+        "PeopleBasedPoliticalSecurity",
+        "RootCausePacification",
+        "RuiqiJiangtouZizhiTongjian",
+        "WarCostTempoDiscipline",
+        "ZhangHuanLateHan",
+        "zizhi-tongjian-hanji-883-laoban-yao-fansi-ruhe-bimian-gaoguan-neihong-lph-fycnqas6hztjq1jbsisvylid"
+      ]
+    },
     {
       "id": "59cf16f1cca072ba4e0c3bb0937d8f8b6318da539042eaab86579b0b54e1398c",
       "primary_topic": "history-and-geopolitics",
@@ -1080,6 +1329,64 @@
         "ZhongJiLateHan",
         "ZhuLingLateHan",
         "zizhi-tongjian-hanji-1040-luanshi-yingxiong-caocao-weihe-dudu-kanhao-liubei-lrazzwo4bjspvwmnkx5hoar1iq3x"
+      ]
+    },
+    {
+      "id": "237e0a22896baa80bde259f9797e8f892e663ee3a1b8e599e442eeaff14ad836",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1041-jiemi-lishishang-zhenshi-de-guanyu-jiangcao-luisp0ndk1lfrc87byygn6r8myhx|《资治通鉴·汉纪》1041丨揭秘历史上真实的“关羽降曹”]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continuing the immediate pre-[[GuanduCampaign|官渡之战]] field after Hanji 1040. It adds [[CaptiveSubmissionResidualLoyalty|被俘归顺与旧主忠义]], while extending [[GuanYu|关羽]], [[TianFengLateHan|田丰]], [[RomanceOfTheThreeKingdoms|《三国演义》]], [[Sanguozhi|《三国志》]], [[FictionAsHistoricalEvidence]], [[CaoCao|曹操]], [[LiuBei|刘备]], [[YuanShao|袁绍]], [[GuoJia|郭嘉]], [[ZhangLiao|张辽]], and [[Xudu|许都]]. Its core synthesis is that Cao Cao's pre-Guandu choice to attack Liu Bei is threat sequencing, while Yuan Shao's failure to use Tian Feng's Xudu attack window confirms the adviser-conversion weakness already visible in the Guandu branch. The Guan Yu half separates historical-source claims from Romance memory: \"关公约三事\" is treated as literary loyalty repair, whereas the source-grounded account presents capture, generous treatment, repayment obligation, and residual loyalty to Liu Bei. No settled contradiction is recorded; the Romance correction is a source-tradition boundary, and the host's \"贵人\" value-exchange lesson remains source-scoped.",
+      "topic_scores": {
+        "culture-and-media": 1,
+        "history-and-geopolitics": 2
+      },
+      "wikilinks": [
+        "CaoCao",
+        "CaptiveSubmissionResidualLoyalty",
+        "FictionAsHistoricalEvidence",
+        "GuanYu",
+        "GuanduCampaign",
+        "GuoJia",
+        "LiuBei",
+        "RomanceOfTheThreeKingdoms",
+        "RuiqiJiangtouZizhiTongjian",
+        "Sanguozhi",
+        "TianFengLateHan",
+        "Xudu",
+        "YuanShao",
+        "ZhangLiao",
+        "zizhi-tongjian-hanji-1041-jiemi-lishishang-zhenshi-de-guanyu-jiangcao-luisp0ndk1lfrc87byygn6r8myhx"
+      ]
+    },
+    {
+      "id": "1a6a1bd8a35ae9c05383975a3a76da51ac306f5fface6750ff0ef9cc07bec634",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1042-congming-haishi-wangu-tianfeng-yin-dingzhuang-yuanshao-ruyu-lk5x6if2rouarmgichtynzhl3cgs|《资治通鉴·汉纪》1042丨聪明还是顽固？田丰因顶撞袁绍入狱]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continuing the immediate pre-[[GuanduCampaign|官渡之战]] sequence after Hanji 1041. It extends [[TianFengLateHan|田丰]], [[YuanShao|袁绍]], [[LiuBei|刘备]], [[YuanTan|袁谭]], [[CaoCao|曹操]], [[Xudu|许都]], [[FortifiedAttritionPatience|坚壁耗敌式耐心]], [[ResourceAsymmetryAttrition|资源不对称消耗战]], [[AdviceFramingUnderHierarchy|等级场景中的进言包装]], [[CourtFeedbackCollapse|君臣反馈失灵]], [[AdviserStateArchitecture|谋士政权架构]], [[PostSuccessArrogance|得势后的骄傲]], and [[XingshiqingStrategicAssessment|行势情战略评估]]. Its core synthesis is that Tian Feng's post-Liu-Bei plan gives Yuan Shao a concrete attritional alternative: hold defensible ground, farm, build arms, court outside allies, and harass Cao Cao's southern Yellow River zone instead of gambling on one battle. Yuan Shao's decision to imprison Tian Feng turns adviser failure from ignored warning into punitive feedback collapse under arrogance and pre-battle morale anxiety. No settled contradiction is recorded; the claim that Tian Feng's strategy would have tilted victory toward Yuan remains source-scoped counterfactual judgment.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 2,
+        "psychology-and-personal-development": 2
+      },
+      "wikilinks": [
+        "AdviceFramingUnderHierarchy",
+        "AdviserStateArchitecture",
+        "CaoCao",
+        "CourtFeedbackCollapse",
+        "FortifiedAttritionPatience",
+        "GuanduCampaign",
+        "LiuBei",
+        "PostSuccessArrogance",
+        "ResourceAsymmetryAttrition",
+        "RuiqiJiangtouZizhiTongjian",
+        "TianFengLateHan",
+        "XingshiqingStrategicAssessment",
+        "Xudu",
+        "YuanShao",
+        "YuanTan",
+        "zizhi-tongjian-hanji-1042-congming-haishi-wangu-tianfeng-yin-dingzhuang-yuanshao-ruyu-lk5x6if2rouarmgichtynzhl3cgs"
       ]
     },
     {
@@ -8352,27 +8659,24 @@
       ]
     },
     {
-      "id": "182e970dd82ce4e9f37420e52f42ff6e2a5ab47e2531f7be4bdacd6ee621352e",
+      "id": "eda4a11baff29342ccc0f5d333b49b8ad4a98b8c84834df752f00b91ee44caa1",
       "primary_topic": "governance-and-institutions",
-      "secondary_topics": [
-        "history-and-geopolitics",
-        "work-education-and-society"
-      ],
-      "text": "[[zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq|Hanji 893]] moves the late-Han party-prohibition synthesis to the reputation-list prelude of 169 CE. [[ReputationListPersecutionTarget|名望榜单迫害目标化]] shows that a士人 honor list can become an arrest list when [[CaoJieLateHan|曹节]] translates mutual praise and recommendation into [[PartyNetworkTreasonFraming|朋党网络谋反化]] for the young [[EmperorLingOfHan|汉灵帝]]. [[LiYingLateHan|李膺]] and [[FanPangLateHan|范滂]] choose prison and death-facing名节, [[JingYiLateHan|景毅]] self-reports into liability, and [[PartyProhibitionKinshipExpansion|党锢亲属牵连扩大]] gains an earlier stage where student and subordinate ties become punishable exposure before the later Zhang Jian shelter chain.",
+      "secondary_topics": [],
+      "text": "[[zizhi-tongjian-hanji-877-ta-weihe-lengluo-jiuming-enren-loofs4rugl-q8kunfb-jpj5mgvhi|Hanji 877]] now moves the late-Han party-prohibition synthesis back to 167 CE. [[RegistryBasedPoliticalExclusion|登记造册式政治禁锢]] shows that amnesty can release named party figures while preserving lifelong office exclusion; [[FanPangLateHan|范滂]] and [[HuoXuLateHan|霍谞]] add [[TacitGratitudeRestraint|心照不宣式感恩克制]] as a non-display response to rescue under danger; and [[ShiBiLateHan|史弼]] adds [[AccusationQuotaRefusal|诬陷指标拒绝]] by refusing to invent Pingyuan party names under reporting pressure. [[zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq|Hanji 893]] then moves the same branch to the reputation-list prelude of 169 CE, where [[ReputationListPersecutionTarget|名望榜单迫害目标化]] and [[PartyNetworkTreasonFraming|朋党网络谋反化]] turn public moral reputation into arrestable threat and later network liability.",
       "topic_scores": {
-        "governance-and-institutions": 1,
-        "history-and-geopolitics": 1,
-        "work-education-and-society": 1
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1
       },
       "wikilinks": [
-        "CaoJieLateHan",
-        "EmperorLingOfHan",
+        "AccusationQuotaRefusal",
         "FanPangLateHan",
-        "JingYiLateHan",
-        "LiYingLateHan",
+        "HuoXuLateHan",
         "PartyNetworkTreasonFraming",
-        "PartyProhibitionKinshipExpansion",
+        "RegistryBasedPoliticalExclusion",
         "ReputationListPersecutionTarget",
+        "ShiBiLateHan",
+        "TacitGratitudeRestraint",
+        "zizhi-tongjian-hanji-877-ta-weihe-lengluo-jiuming-enren-loofs4rugl-q8kunfb-jpj5mgvhi",
         "zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq"
       ]
     },

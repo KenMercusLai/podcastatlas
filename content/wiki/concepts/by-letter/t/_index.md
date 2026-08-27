@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 5612
+wiki_total_pages: 5642
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -20,6 +20,9 @@ wiki_pages:
   - key: "TShapedAITalent"
     title: "T-Shaped AI Talent / AI时代T型人才"
     url: "/wiki/concepts/tshapedaitalent/"
+  - key: "TacitGratitudeRestraint"
+    title: "Tacit Gratitude Restraint / 心照不宣式感恩克制"
+    url: "/wiki/concepts/tacitgratituderestraint/"
   - key: "TacitManagementKnowledge"
     title: "Tacit Management Knowledge / 默会知识"
     url: "/wiki/concepts/tacitmanagementknowledge/"
@@ -215,6 +218,9 @@ wiki_pages:
   - key: "TenVictoriesTenDefeats"
     title: "Ten Victories and Ten Defeats / 十胜十败论"
     url: "/wiki/concepts/tenvictoriestendefeats/"
+  - key: "TenantScreeningEvictionBackfire"
+    title: "Tenant Screening Eviction Backfire"
+    url: "/wiki/concepts/tenantscreeningevictionbackfire/"
   - key: "TenderOfferMediaCampaign"
     title: "Tender Offer Media Campaign / 收购要约媒体战"
     url: "/wiki/concepts/tenderoffermediacampaign/"
@@ -335,6 +341,9 @@ wiki_pages:
   - key: "TokenPerWatt"
     title: "Token per Watt"
     url: "/wiki/concepts/tokenperwatt/"
+  - key: "TokenTaxOnAI"
+    title: "Token Tax On AI"
+    url: "/wiki/concepts/tokentaxonai/"
   - key: "TokenDrivenSoftware"
     title: "Token-Driven Software"
     url: "/wiki/concepts/tokendrivensoftware/"

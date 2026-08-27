@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2499
+topic_total_pages: 2503
 topic_concepts:
   - key: "AcademicAIResearchRole"
     title: "Academic AI Research Role"
@@ -580,6 +580,9 @@ topic_concepts:
   - key: "AIOtomeGames"
     title: "AI Otome Games"
     url: "/wiki/concepts/aiotomegames/"
+  - key: "AIOutputTrainingSymmetry"
+    title: "AI Output Training Symmetry"
+    url: "/wiki/concepts/aioutputtrainingsymmetry/"
   - key: "AIParentingAdvice"
     title: "AI Parenting Advice"
     url: "/wiki/concepts/aiparentingadvice/"
@@ -2488,6 +2491,9 @@ topic_concepts:
   - key: "OpenModelSafetyGovernance"
     title: "Open Model Safety Governance"
     url: "/wiki/concepts/openmodelsafetygovernance/"
+  - key: "OpenSourceAIBanRisk"
+    title: "Open Source AI Ban Risk"
+    url: "/wiki/concepts/opensourceaibanrisk/"
   - key: "OpenSourceAIInfrastructure"
     title: "Open Source AI Infrastructure"
     url: "/wiki/concepts/opensourceaiinfrastructure/"
@@ -3247,6 +3253,9 @@ topic_concepts:
   - key: "TokenPerWatt"
     title: "Token per Watt"
     url: "/wiki/concepts/tokenperwatt/"
+  - key: "TokenTaxOnAI"
+    title: "Token Tax On AI"
+    url: "/wiki/concepts/tokentaxonai/"
   - key: "TokenDrivenSoftware"
     title: "Token-Driven Software"
     url: "/wiki/concepts/tokendrivensoftware/"
@@ -7212,6 +7221,9 @@ topic_sources:
   - key: "tech-20260318-0318-mp-tech-pod-128-tech-20260318-0318-mp-tech-pod-128"
     title: "The ethics of using AI to immortalize the dead"
     url: "/wiki/sources/tech-20260318-0318-mp-tech-pod-128-tech-20260318-0318-mp-tech-pod-128/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-the-fight-over-open-source-ai-anthropics-15b-payout-nyc-socialists-evictions-violence-42209480"
+    title: "The Fight Over Open Source AI, Anthropic's $1.5B Payout, NYC Socialists: Evictions = Violence?"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-fight-over-open-source-ai-anthropics-15b-payout-nyc-socialists-evictions-violence-42209480/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920"
     title: "The Future of Everything: What CEOs of Circle, CrowdStrike & More See Coming in 2026"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920/"

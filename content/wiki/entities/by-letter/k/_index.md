@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 7856
+wiki_total_pages: 7901
 wiki_pages:
   - key: "KunyangBattle"
     title: "Battle of Kunyang / 昆阳之战"
@@ -38,6 +38,9 @@ wiki_pages:
   - key: "Kaipai"
     title: "Kaipai / 开拍"
     url: "/wiki/entities/kaipai/"
+  - key: "KaiserWilhelmII"
+    title: "Kaiser Wilhelm II"
+    url: "/wiki/entities/kaiserwilhelmii/"
   - key: "Kaiwuji"
     title: "Kaiwuji"
     url: "/wiki/entities/kaiwuji/"
@@ -89,6 +92,9 @@ wiki_pages:
   - key: "KarlJaspers"
     title: "Karl Jaspers / 卡尔·亚斯贝尔斯"
     url: "/wiki/entities/karljaspers/"
+  - key: "KarlLudwigOfAustria"
+    title: "Karl Ludwig of Austria"
+    url: "/wiki/entities/karlludwigofaustria/"
   - key: "KarlMarx"
     title: "Karl Marx / 马克思"
     url: "/wiki/entities/karlmarx/"

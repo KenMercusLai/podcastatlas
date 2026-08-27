@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 5612
+wiki_total_pages: 5642
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -500,6 +500,9 @@ wiki_pages:
   - key: "BudgetAirlineCostSqueeze"
     title: "Budget Airline Cost Squeeze"
     url: "/wiki/concepts/budgetairlinecostsqueeze/"
+  - key: "BudgetedFrontierSuppression"
+    title: "Budgeted Frontier Suppression / 预算化边疆清剿"
+    url: "/wiki/concepts/budgetedfrontiersuppression/"
   - key: "BuffetBudgetLockIn"
     title: "Buffet Budget Lock-In / 自助餐预算锁定"
     url: "/wiki/concepts/buffetbudgetlockin/"

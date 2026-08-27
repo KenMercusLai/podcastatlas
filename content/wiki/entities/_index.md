@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 7856
+wiki_total_pages: 7901
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1181,6 +1181,9 @@ wiki_pages:
   - key: "Austria"
     title: "Austria"
     url: "/wiki/entities/austria/"
+  - key: "AustriaHungary"
+    title: "Austria-Hungary"
+    url: "/wiki/entities/austriahungary/"
   - key: "Autodesk"
     title: "Autodesk"
     url: "/wiki/entities/autodesk/"

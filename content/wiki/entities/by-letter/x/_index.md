@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 7856
+wiki_total_pages: 7901
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -284,6 +284,9 @@ wiki_pages:
   - key: "XuFengLateHan"
     title: "徐奉 / Xu Feng (late Han)"
     url: "/wiki/entities/xufenglatehan/"
+  - key: "XuXuanLateHan"
+    title: "徐宣 / Xu Xuan (late Han magistrate)"
+    url: "/wiki/entities/xuxuanlatehan/"
   - key: "Xuzhou"
     title: "徐州 / Xuzhou"
     url: "/wiki/entities/xuzhou/"
@@ -308,6 +311,9 @@ wiki_pages:
   - key: "XuXiyuan"
     title: "徐熙元"
     url: "/wiki/entities/xuxiyuan/"
+  - key: "XuHuangLateHan"
+    title: "徐璜 / Xu Huang (late Han eunuch)"
+    url: "/wiki/entities/xuhuanglatehan/"
   - key: "XuQiuGuanglingLateHan"
     title: "徐秋 / Xu Qiu (Guangling late Han)"
     url: "/wiki/entities/xuqiuguanglinglatehan/"
@@ -317,6 +323,9 @@ wiki_pages:
   - key: "XuRongLateHan"
     title: "徐荣 / Xu Rong (late Han)"
     url: "/wiki/entities/xuronglatehan/"
+  - key: "XuGongLateHan"
+    title: "徐贡 / Xu Gong (late Han)"
+    url: "/wiki/entities/xugonglatehan/"
   - key: "XuYiBilibili"
     title: "徐逸 / Xu Yi"
     url: "/wiki/entities/xuyibilibili/"
@@ -422,6 +431,9 @@ wiki_pages:
   - key: "XiangchengQin"
     title: "襄城 / Xiangcheng (Qin)"
     url: "/wiki/entities/xiangchengqin/"
+  - key: "XiangKaiLateHan"
+    title: "襄楷 / Xiang Kai (late Han)"
+    url: "/wiki/entities/xiangkailatehan/"
   - key: "XiangyangLateHan"
     title: "襄阳 / Xiangyang (late Han)"
     url: "/wiki/entities/xiangyanglatehan/"

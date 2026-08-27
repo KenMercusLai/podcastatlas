@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 5612
+wiki_total_pages: 5642
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -323,6 +323,9 @@ wiki_pages:
   - key: "FIMARepoBackstop"
     title: "FIMA Repo Backstop"
     url: "/wiki/concepts/fimarepobackstop/"
+  - key: "FinDeSiecleViennaCrisisReading"
+    title: "Fin-de-Siecle Vienna Crisis Reading"
+    url: "/wiki/concepts/findesiecleviennacrisisreading/"
   - key: "FinanceCareerPortability"
     title: "Finance Career Portability"
     url: "/wiki/concepts/financecareerportability/"

@@ -1659,6 +1659,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561": [
     {
       "key": "history",
@@ -3733,6 +3740,18 @@
       "url": "/topics/technology/"
     }
   ],
+  "AIOutputTrainingSymmetry": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "AIPCMemoryDemand": [
     {
       "key": "technology",
@@ -4730,6 +4749,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "AccusationQuotaRefusal": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "Acer": [
@@ -6374,6 +6400,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "AmnestyExploitationCrime": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "Amplitude": [
@@ -10525,6 +10558,13 @@
     }
   ],
   "BuddhistMiraclePolitics": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "BudgetedFrontierSuppression": [
     {
       "key": "politics",
       "label": "Politics",
@@ -15235,6 +15275,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "CrisisDutyContinuity": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "CrisisForcedVerticalIntegration": [
@@ -19988,6 +20035,13 @@
       "url": "/topics/science/"
     }
   ],
+  "EunuchPatronageViolenceShield": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "Euripides": [
     {
       "key": "culture",
@@ -21314,6 +21368,23 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "FinDeSiecleViennaCrisisReading": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "FinaleDesserts": [
@@ -28678,6 +28749,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "InfanticideCustomCorrection": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "InfectiousDiseasePublicLiteracy": [
     {
       "key": "science",
@@ -30384,6 +30462,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "JiaBiaoLateHan": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "JiaFamilyHousehold": [
@@ -36434,6 +36519,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "MayerlingDeathPact": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "McDonaldsNetherlands": [
     {
       "key": "technology",
@@ -40691,6 +40783,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "OmenCodedRemonstrance": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "OmenLaunderedPurge": [
     {
       "key": "politics",
@@ -40915,6 +41014,18 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "OpenSourceAIBanRisk": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "OpenSourceAIDemocratization": [
@@ -44441,6 +44552,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "PrisonRitualLegitimacyRefusal": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "PrivacyUnderPublicGaze": [
     {
       "key": "politics",
@@ -46893,6 +47011,13 @@
       "label": "Technology",
       "url": "/topics/technology/"
     },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "RegistryBasedPoliticalExclusion": [
     {
       "key": "politics",
       "label": "Politics",
@@ -55315,6 +55440,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "TenantScreeningEvictionBackfire": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "Tencent": [
     {
       "key": "technology",
@@ -56747,6 +56879,18 @@
       "url": "/topics/technology/"
     }
   ],
+  "TokenTaxOnAI": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "TokugawaForeignTradeAmbivalence": [
     {
       "key": "economics",
@@ -58074,6 +58218,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "UnearnedRewardRefusal": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "UnifiedRobotModels": [
@@ -63267,6 +63418,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "ZhangChengAstrologerLateHan": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "ZhangChou": [
     {
       "key": "history",
@@ -64833,6 +64991,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "all-in-with-chamath-jason-sacks-friedberg-the-fight-over-open-source-ai-anthropics-15b-payout-nyc-socialists-evictions-violence-42209480": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920": [
@@ -69912,6 +70077,20 @@
     }
   ],
   "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "zizhi-tongjian-hanji-883-laoban-yao-fansi-ruhe-bimian-gaoguan-neihong-lph-fycnqas6hztjq1jbsisvylid": [
     {
       "key": "politics",
       "label": "Politics",

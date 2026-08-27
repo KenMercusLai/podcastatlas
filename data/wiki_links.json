@@ -1063,6 +1063,10 @@
     "title": "69.闲聊推理文学：历史学者可不就是侦探吗！",
     "url": "/wiki/sources/69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465/"
   },
+  "690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068": {
+    "title": "690. A Murderous Affair: Death at Mayerling (Part 2)",
+    "url": "/wiki/sources/690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068/"
+  },
   "691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561": {
     "title": "691. Elizabeth I vs The Catholics: The Queen's Spymaster (Part 1)",
     "url": "/wiki/sources/691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561/"
@@ -2087,6 +2091,10 @@
     "title": "AI Otome Games",
     "url": "/wiki/concepts/aiotomegames/"
   },
+  "AIOutputTrainingSymmetry": {
+    "title": "AI Output Training Symmetry",
+    "url": "/wiki/concepts/aioutputtrainingsymmetry/"
+  },
   "AIPCMemoryDemand": {
     "title": "AI PC Memory Demand",
     "url": "/wiki/concepts/aipcmemorydemand/"
@@ -2694,6 +2702,10 @@
   "AccretiveTextFormation": {
     "title": "Accretive Text Formation",
     "url": "/wiki/concepts/accretivetextformation/"
+  },
+  "AccusationQuotaRefusal": {
+    "title": "Accusation Quota Refusal / 诬陷指标拒绝",
+    "url": "/wiki/concepts/accusationquotarefusal/"
   },
   "Acer": {
     "title": "Acer",
@@ -4103,6 +4115,10 @@
     "title": "Amjad Masad",
     "url": "/wiki/entities/amjadmasad/"
   },
+  "AmnestyExploitationCrime": {
+    "title": "Amnesty Exploitation Crime / 大赦预期犯罪",
+    "url": "/wiki/concepts/amnestyexploitationcrime/"
+  },
   "AmnestyInternational": {
     "title": "Amnesty International",
     "url": "/wiki/entities/amnestyinternational/"
@@ -5306,6 +5322,10 @@
   "Austria": {
     "title": "Austria",
     "url": "/wiki/entities/austria/"
+  },
+  "AustriaHungary": {
+    "title": "Austria-Hungary",
+    "url": "/wiki/entities/austriahungary/"
   },
   "AuteurTheory": {
     "title": "Auteur Theory",
@@ -7455,6 +7475,10 @@
     "title": "Budget Airline Cost Squeeze",
     "url": "/wiki/concepts/budgetairlinecostsqueeze/"
   },
+  "BudgetedFrontierSuppression": {
+    "title": "Budgeted Frontier Suppression / 预算化边疆清剿",
+    "url": "/wiki/concepts/budgetedfrontiersuppression/"
+  },
   "Budokan": {
     "title": "Budokan",
     "url": "/wiki/entities/budokan/"
@@ -7943,6 +7967,10 @@
     "title": "Camp Social",
     "url": "/wiki/entities/campsocial/"
   },
+  "CampaignFinanceAccessIncentive": {
+    "title": "军费通道利益驱动 / Campaign Finance Access Incentive",
+    "url": "/wiki/concepts/campaignfinanceaccessincentive/"
+  },
   "CampbellLaw": {
     "title": "Campbell's Law",
     "url": "/wiki/concepts/campbelllaw/"
@@ -8223,6 +8251,10 @@
     "title": "Captive Animal Care Labor / 圈养动物照护劳动",
     "url": "/wiki/concepts/captiveanimalcarelabor/"
   },
+  "CaptiveSubmissionResidualLoyalty": {
+    "title": "Captive Submission with Residual Loyalty / 被俘归顺与旧主忠义",
+    "url": "/wiki/concepts/captivesubmissionresidualloyalty/"
+  },
   "CaptiveWhaleSanctuary": {
     "title": "Captive Whale Sanctuary",
     "url": "/wiki/concepts/captivewhalesanctuary/"
@@ -8234,6 +8266,10 @@
   "CapturedRulerLegitimacyContainment": {
     "title": "Captured Ruler Legitimacy Containment / 生俘亡君的合法性钳制",
     "url": "/wiki/concepts/capturedrulerlegitimacycontainment/"
+  },
+  "CapuchinCrypt": {
+    "title": "Capuchin Crypt",
+    "url": "/wiki/entities/capuchincrypt/"
   },
   "CarAffordabilityStress": {
     "title": "Car Affordability Stress",
@@ -8386,6 +8422,10 @@
   "CarlyleGroup": {
     "title": "Carlyle Group / 凯雷资本",
     "url": "/wiki/entities/carlylegroup/"
+  },
+  "CarmeliteConventMayerling": {
+    "title": "Carmelite Convent at Mayerling",
+    "url": "/wiki/entities/carmeliteconventmayerling/"
   },
   "CarmichaelsBookstore": {
     "title": "Carmichael's Bookstore",
@@ -8546,6 +8586,10 @@
   "CatherineNixie": {
     "title": "Catherine Nixie",
     "url": "/wiki/entities/catherinenixie/"
+  },
+  "CatholicBurialLegitimacy": {
+    "title": "Catholic Burial Legitimacy",
+    "url": "/wiki/concepts/catholicburiallegitimacy/"
   },
   "CatholicChurch": {
     "title": "Catholic Church",
@@ -10635,6 +10679,10 @@
     "title": "Coerced Denunciation",
     "url": "/wiki/concepts/coerceddenunciation/"
   },
+  "CoercedImperialMarriage": {
+    "title": "Coerced Imperial Marriage / 强制赐婚",
+    "url": "/wiki/concepts/coercedimperialmarriage/"
+  },
   "CoercedImperialReplacement": {
     "title": "Coerced Imperial Replacement / 胁迫式废立",
     "url": "/wiki/concepts/coercedimperialreplacement/"
@@ -10844,7 +10892,7 @@
     "url": "/wiki/concepts/commandauthorityrecapture/"
   },
   "CommandContinuityDamageControl": {
-    "title": "Command Continuity Damage Control / 统帅连续性危机处置",
+    "title": "统帅连续性危机处置 / Command Continuity Damage Control",
     "url": "/wiki/concepts/commandcontinuitydamagecontrol/"
   },
   "CommandDisciplineAuthority": {
@@ -11407,6 +11455,10 @@
     "title": "Control-Preserving Incentives",
     "url": "/wiki/concepts/controlpreservingincentives/"
   },
+  "ControllableChildAccession": {
+    "title": "Controllable Child Accession / 可控幼主继位",
+    "url": "/wiki/concepts/controllablechildaccession/"
+  },
   "ControllableLifeAnchors": {
     "title": "Controllable Life Anchors",
     "url": "/wiki/concepts/controllablelifeanchors/"
@@ -11619,6 +11671,14 @@
     "title": "Countertransference Boundary Risk",
     "url": "/wiki/concepts/countertransferenceboundaryrisk/"
   },
+  "CountessLarish": {
+    "title": "Countess Larish",
+    "url": "/wiki/entities/countesslarish/"
+  },
+  "CountessMarieFestetics": {
+    "title": "Countess Marie Festetics",
+    "url": "/wiki/entities/countessmariefestetics/"
+  },
   "CountyPlatformLabor": {
     "title": "County Platform Labor / 县域平台劳动",
     "url": "/wiki/concepts/countyplatformlabor/"
@@ -11827,6 +11887,10 @@
     "title": "Crisis Deception Survival / 临危欺敌求生",
     "url": "/wiki/concepts/crisisdeceptionsurvival/"
   },
+  "CrisisDutyContinuity": {
+    "title": "Crisis Duty Continuity / 危局职守连续性",
+    "url": "/wiki/concepts/crisisdutycontinuity/"
+  },
   "CrisisFirstMilitaryDiscipline": {
     "title": "Crisis-First Military Discipline / 临危先务军纪",
     "url": "/wiki/concepts/crisisfirstmilitarydiscipline/"
@@ -11974,6 +12038,10 @@
   "CrownPrinceCommandRisk": {
     "title": "Crown-Prince Command Risk / 太子挂帅风险",
     "url": "/wiki/concepts/crownprincecommandrisk/"
+  },
+  "CrownPrinceRudolf": {
+    "title": "Crown Prince Rudolf",
+    "url": "/wiki/entities/crownprincerudolf/"
   },
   "CrueltyUsedWell": {
     "title": "Cruelty Used Well",
@@ -14599,9 +14667,17 @@
     "title": "Dynamic Pricing Fairness",
     "url": "/wiki/concepts/dynamicpricingfairness/"
   },
+  "DynasticHeirLossShock": {
+    "title": "Dynastic Heir Loss Shock",
+    "url": "/wiki/concepts/dynasticheirlossshock/"
+  },
   "DynasticLegitimacyBackfire": {
     "title": "Dynastic Legitimacy Backfire / 王朝合法性回旋镖",
     "url": "/wiki/concepts/dynasticlegitimacybackfire/"
+  },
+  "DynasticScandalSuppression": {
+    "title": "Dynastic Scandal Suppression",
+    "url": "/wiki/concepts/dynasticscandalsuppression/"
   },
   "EAB": {
     "title": "EAB",
@@ -15487,6 +15563,10 @@
     "title": "何太后 / Empress Dowager He",
     "url": "/wiki/entities/empressdowagerhe/"
   },
+  "EmpressSisi": {
+    "title": "Empress Sisi",
+    "url": "/wiki/entities/empresssisi/"
+  },
   "EmpressSongLateHan": {
     "title": "宋皇后 / Empress Song (late Han)",
     "url": "/wiki/entities/empresssonglatehan/"
@@ -15890,6 +15970,10 @@
   "EulogyGame": {
     "title": "Eulogy",
     "url": "/wiki/entities/eulogygame/"
+  },
+  "EunuchPatronageViolenceShield": {
+    "title": "Eunuch Patronage Violence Shield / 宦官庇护下的地方暴行",
+    "url": "/wiki/concepts/eunuchpatronageviolenceshield/"
   },
   "EurekaTherapeutics": {
     "title": "Eureka Therapeutics",
@@ -17019,6 +17103,10 @@
     "title": "丰业娱乐 / Fengye Entertainment",
     "url": "/wiki/entities/fengyeentertainment/"
   },
+  "FengyishanBattleLateHan": {
+    "title": "冯翊山之战 / Fengyishan Battle (late Han)",
+    "url": "/wiki/entities/fengyishanbattlelatehan/"
+  },
   "Fengze": {
     "title": "逢泽 / Fengze",
     "url": "/wiki/entities/fengze/"
@@ -17198,6 +17286,10 @@
   "Filterworld": {
     "title": "Filterworld",
     "url": "/wiki/entities/filterworld/"
+  },
+  "FinDeSiecleViennaCrisisReading": {
+    "title": "Fin-de-Siecle Vienna Crisis Reading",
+    "url": "/wiki/concepts/findesiecleviennacrisisreading/"
   },
   "FinaleDesserts": {
     "title": "Finale Desserts",
@@ -18218,6 +18310,14 @@
   "FranzBoas": {
     "title": "Franz Boas / 博尔斯",
     "url": "/wiki/entities/franzboas/"
+  },
+  "FranzFerdinand": {
+    "title": "Franz Ferdinand",
+    "url": "/wiki/entities/franzferdinand/"
+  },
+  "FranzJosephI": {
+    "title": "Franz Joseph I",
+    "url": "/wiki/entities/franzjosephi/"
   },
   "FranzKromer": {
     "title": "Franz Kromer / 弗朗兹·克罗默",
@@ -20623,6 +20723,10 @@
     "title": "Habit Positive Feedback / 习惯正反馈",
     "url": "/wiki/concepts/habitpositivefeedback/"
   },
+  "HabsburgDynasty": {
+    "title": "Habsburg Dynasty",
+    "url": "/wiki/entities/habsburgdynasty/"
+  },
   "HackerHouseStartupInfrastructure": {
     "title": "Hacker House Startup Infrastructure",
     "url": "/wiki/concepts/hackerhousestartupinfrastructure/"
@@ -21375,6 +21479,10 @@
     "title": "Heidi Lewis",
     "url": "/wiki/entities/heidilewis/"
   },
+  "HeiligenkreuzAbbey": {
+    "title": "Heiligenkreuz Abbey",
+    "url": "/wiki/entities/heiligenkreuzabbey/"
+  },
   "Heimai": {
     "title": "黑麦 / Heimai",
     "url": "/wiki/entities/heimai/"
@@ -21867,6 +21975,10 @@
     "title": "Hockey Ninja",
     "url": "/wiki/entities/hockeyninja/"
   },
+  "HofburgPalace": {
+    "title": "Hofburg Palace",
+    "url": "/wiki/entities/hofburgpalace/"
+  },
   "HoldenCaulfield": {
     "title": "Holden Caulfield / 霍尔顿",
     "url": "/wiki/entities/holdencaulfield/"
@@ -22315,6 +22427,10 @@
     "title": "Housing Stigma Discount",
     "url": "/wiki/concepts/housingstigmadiscount/"
   },
+  "HousingSupplyOverRentControl": {
+    "title": "Housing Supply Over Rent Control",
+    "url": "/wiki/concepts/housingsupplyoverrentcontrol/"
+  },
   "HousingWealthAffordabilityTension": {
     "title": "Housing Wealth Affordability Tension",
     "url": "/wiki/concepts/housingwealthaffordabilitytension/"
@@ -22483,6 +22599,10 @@
     "title": "黄巢 / Huang Chao",
     "url": "/wiki/entities/huangchao/"
   },
+  "HuangFuDonghaiLateHan": {
+    "title": "黄浮 / Huang Fu (Donghai chancellor)",
+    "url": "/wiki/entities/huangfudonghailatehan/"
+  },
   "HuangGai": {
     "title": "黄盖 / Huang Gai",
     "url": "/wiki/entities/huanggai/"
@@ -22550,6 +22670,10 @@
   "Huangdi": {
     "title": "黄帝 / Huangdi",
     "url": "/wiki/entities/huangdi/"
+  },
+  "HuangfuGuiLateHan": {
+    "title": "皇甫规 / Huangfu Gui (late Han)",
+    "url": "/wiki/entities/huangfuguilatehan/"
   },
   "HuangfuLiLateHan": {
     "title": "皇甫郦 / Huangfu Li (late Han)",
@@ -22818,6 +22942,10 @@
   "HunSen": {
     "title": "Hun Sen",
     "url": "/wiki/entities/hunsen/"
+  },
+  "HuoXuLateHan": {
+    "title": "霍谞 / Huo Xu (late Han)",
+    "url": "/wiki/entities/huoxulatehan/"
   },
   "Hupu": {
     "title": "虎扑 / Hupu",
@@ -23382,6 +23510,10 @@
   "InfantFormulaRegulatoryMoat": {
     "title": "Infant Formula Regulatory Moat",
     "url": "/wiki/concepts/infantformularegulatorymoat/"
+  },
+  "InfanticideCustomCorrection": {
+    "title": "Infanticide Custom Correction / 杀婴风俗纠偏",
+    "url": "/wiki/concepts/infanticidecustomcorrection/"
   },
   "InfectiousDiseasePublicLiteracy": {
     "title": "Infectious Disease Public Literacy",
@@ -24911,6 +25043,10 @@
     "title": "贾宝玉 / Jia Baoyu",
     "url": "/wiki/entities/jiabaoyu/"
   },
+  "JiaBiaoLateHan": {
+    "title": "贾彪 / Jia Biao (late Han)",
+    "url": "/wiki/entities/jiabiaolatehan/"
+  },
   "JiaCongLateHan": {
     "title": "贾从 / Jia Cong (late Han)",
     "url": "/wiki/entities/jiaconglatehan/"
@@ -25459,6 +25595,10 @@
     "title": "Johann Jakob Bachofen",
     "url": "/wiki/entities/johannjakobbachofen/"
   },
+  "JohannLoschek": {
+    "title": "Johann Loschek",
+    "url": "/wiki/entities/johannloschek/"
+  },
   "JohnBogle": {
     "title": "John Bogle",
     "url": "/wiki/entities/johnbogle/"
@@ -25710,6 +25850,14 @@
   "JoseArmas": {
     "title": "Jose Armas",
     "url": "/wiki/entities/josearmas/"
+  },
+  "JosefBratfisch": {
+    "title": "Josef Bratfisch",
+    "url": "/wiki/entities/josefbratfisch/"
+  },
+  "JosefHoyos": {
+    "title": "Josef Hoyos",
+    "url": "/wiki/entities/josefhoyos/"
   },
   "JoseiEiseiYouhinNoShakaishi": {
     "title": "《女性卫生用品的社会史》",
@@ -26087,6 +26235,10 @@
     "title": "Kaipai / 开拍",
     "url": "/wiki/entities/kaipai/"
   },
+  "KaiserWilhelmII": {
+    "title": "Kaiser Wilhelm II",
+    "url": "/wiki/entities/kaiserwilhelmii/"
+  },
   "Kaiwuji": {
     "title": "Kaiwuji",
     "url": "/wiki/entities/kaiwuji/"
@@ -26190,6 +26342,10 @@
   "KarlJaspers": {
     "title": "Karl Jaspers / 卡尔·亚斯贝尔斯",
     "url": "/wiki/entities/karljaspers/"
+  },
+  "KarlLudwigOfAustria": {
+    "title": "Karl Ludwig of Austria",
+    "url": "/wiki/entities/karlludwigofaustria/"
   },
   "KarlMarx": {
     "title": "Karl Marx / 马克思",
@@ -27163,6 +27319,10 @@
     "title": "Lao She Satirical Humanism",
     "url": "/wiki/concepts/laoshesatiricalhumanism/"
   },
+  "LaoXiuLateHan": {
+    "title": "劳修 / Lao Xiu (late Han)",
+    "url": "/wiki/entities/laoxiulatehan/"
+  },
   "Laos": {
     "title": "Laos / 老挝",
     "url": "/wiki/entities/laos/"
@@ -27444,7 +27604,7 @@
     "url": "/wiki/entities/leyi/"
   },
   "LeaderPersonalExposure": {
-    "title": "Leader Personal Exposure / 领导者轻身涉险",
+    "title": "领导者轻身涉险 / Leader Personal Exposure",
     "url": "/wiki/concepts/leaderpersonalexposure/"
   },
   "LeadingIncumbentDisadvantage": {
@@ -27778,6 +27938,10 @@
   "LiFuWarringStates": {
     "title": "栗腹 / Li Fu (Warring States)",
     "url": "/wiki/entities/lifuwarringstates/"
+  },
+  "LiGaoRunanLateHan": {
+    "title": "李暠 / Li Gao (Runan administrator)",
+    "url": "/wiki/entities/ligaorunanlatehan/"
   },
   "LiGuLateHan": {
     "title": "李固 / Li Gu (late Han)",
@@ -28154,6 +28318,10 @@
   "LiaozhaiZhiyi": {
     "title": "《聊斋志异》",
     "url": "/wiki/entities/liaozhaizhiyi/"
+  },
+  "LibGen": {
+    "title": "LibGen",
+    "url": "/wiki/entities/libgen/"
   },
   "LibTV": {
     "title": "Lib TV",
@@ -28615,6 +28783,10 @@
     "title": "刘良佑 / Liu Liangyou",
     "url": "/wiki/entities/liuliangyou/"
   },
+  "LiuMaoLateHan": {
+    "title": "刘茂 / Liu Mao (late Han)",
+    "url": "/wiki/entities/liumaolatehan/"
+  },
   "LiuMengLateHan": {
     "title": "刘猛 / Liu Meng (late Han)",
     "url": "/wiki/entities/liumenglatehan/"
@@ -28626,6 +28798,10 @@
   "LiuNaLateHan": {
     "title": "刘纳 / Liu Na (late Han)",
     "url": "/wiki/entities/liunalatehan/"
+  },
+  "LiuPiRunanLateHan": {
+    "title": "刘辟 / Liu Pi (Runan late Han)",
+    "url": "/wiki/entities/liupirunanlatehan/"
   },
   "LiuQing": {
     "title": "刘擎 / Liu Qing",
@@ -28858,6 +29034,10 @@
   "LocalAlcoholPairing": {
     "title": "Local Alcohol Pairing / 地方酒饮餐配",
     "url": "/wiki/concepts/localalcoholpairing/"
+  },
+  "LocalAuspiciousOmenFabrication": {
+    "title": "Local Auspicious Omen Fabrication / 地方祥瑞造作",
+    "url": "/wiki/concepts/localauspiciousomenfabrication/"
   },
   "LocalBatteryIndustrialClusters": {
     "title": "Local Battery Industrial Clusters",
@@ -29574,6 +29754,10 @@
   "LuigiGalvani": {
     "title": "Luigi Galvani / 路易吉·伽伐尼",
     "url": "/wiki/entities/luigigalvani/"
+  },
+  "LuigiLucheni": {
+    "title": "Luigi Lucheni",
+    "url": "/wiki/entities/luigilucheni/"
   },
   "LujiangCommandery": {
     "title": "庐江郡 / Lujiang Commandery",
@@ -30707,6 +30891,10 @@
     "title": "Mary Shelley / 玛丽·雪莱",
     "url": "/wiki/entities/maryshelley/"
   },
+  "MaryVetsera": {
+    "title": "Mary Vetsera",
+    "url": "/wiki/entities/maryvetsera/"
+  },
   "MaryWollstonecraft": {
     "title": "Mary Wollstonecraft / 玛丽·沃斯通克拉夫特",
     "url": "/wiki/entities/marywollstonecraft/"
@@ -30946,6 +31134,14 @@
   "MayaraFelix": {
     "title": "Mayara Felix",
     "url": "/wiki/entities/mayarafelix/"
+  },
+  "MayerlingDeathPact": {
+    "title": "Mayerling Death Pact",
+    "url": "/wiki/concepts/mayerlingdeathpact/"
+  },
+  "MayerlingIncident": {
+    "title": "Mayerling Incident",
+    "url": "/wiki/entities/mayerlingincident/"
   },
   "Mayi": {
     "title": "马邑 / Mayi",
@@ -31935,6 +32131,10 @@
     "title": "Military Prestige Threat Purge / 军功声望威胁清洗",
     "url": "/wiki/concepts/militaryprestigethreatpurge/"
   },
+  "MilitaryRewardEunuchGatekeeping": {
+    "title": "Military Reward Eunuch Gatekeeping / 宦官门槛下的军功赏罚",
+    "url": "/wiki/concepts/militaryrewardeunuchgatekeeping/"
+  },
   "MilkBar": {
     "title": "Milk Bar",
     "url": "/wiki/entities/milkbar/"
@@ -32170,6 +32370,10 @@
   "MitsumiElectric": {
     "title": "三美电机",
     "url": "/wiki/entities/mitsumielectric/"
+  },
+  "MitziKaspar": {
+    "title": "Mitzi Kaspar",
+    "url": "/wiki/entities/mitzikaspar/"
   },
   "MiuLiu": {
     "title": "谬刘 / Miu Liu",
@@ -34611,6 +34815,10 @@
     "title": "Omega",
     "url": "/wiki/entities/omega/"
   },
+  "OmenCodedRemonstrance": {
+    "title": "Omen-Coded Remonstrance / 天象灾异包装式进谏",
+    "url": "/wiki/concepts/omencodedremonstrance/"
+  },
   "OmenCountermeasureMobility": {
     "title": "Omen Countermeasure Mobility / 游徙避命",
     "url": "/wiki/concepts/omencountermeasuremobility/"
@@ -34830,6 +35038,10 @@
   "OpenSharedMythos": {
     "title": "Open Shared Mythos",
     "url": "/wiki/concepts/opensharedmythos/"
+  },
+  "OpenSourceAIBanRisk": {
+    "title": "Open Source AI Ban Risk",
+    "url": "/wiki/concepts/opensourceaibanrisk/"
   },
   "OpenSourceAIDemocratization": {
     "title": "Open-Source AI Democratization",
@@ -35450,6 +35662,10 @@
   "PalaceCoupViolenceCascade": {
     "title": "Palace Coup Violence Cascade / 宫廷政变暴力级联",
     "url": "/wiki/concepts/palacecoupviolencecascade/"
+  },
+  "PalaceFavoriteProtectionFragility": {
+    "title": "Palace Favorite Protection Fragility / 宫廷宠幸保护脆弱性",
+    "url": "/wiki/concepts/palacefavoriteprotectionfragility/"
   },
   "PalaceMarketTheater": {
     "title": "宫市游乐式权力错位 / Palace Market Theater",
@@ -36411,6 +36627,10 @@
     "title": "Philip II of Spain",
     "url": "/wiki/entities/philipii/"
   },
+  "PhilipOfCoburg": {
+    "title": "Philip of Coburg",
+    "url": "/wiki/entities/philipofcoburg/"
+  },
   "PhilipSidney": {
     "title": "Sir Philip Sidney",
     "url": "/wiki/entities/philipsidney/"
@@ -37323,6 +37543,10 @@
     "title": "Power Myth Deflation / 权力神话拆解",
     "url": "/wiki/concepts/powermythdeflation/"
   },
+  "PowerStructureTargeting": {
+    "title": "Power-Structure Targeting / 权力结构定向求援",
+    "url": "/wiki/concepts/powerstructuretargeting/"
+  },
   "PowerUserDiscovery": {
     "title": "Power User Discovery",
     "url": "/wiki/concepts/poweruserdiscovery/"
@@ -37618,6 +37842,10 @@
   "Pripyat": {
     "title": "Pripyat",
     "url": "/wiki/entities/pripyat/"
+  },
+  "PrisonRitualLegitimacyRefusal": {
+    "title": "Prison Ritual Legitimacy Refusal / 冤狱仪式合法性拒绝",
+    "url": "/wiki/concepts/prisonrituallegitimacyrefusal/"
   },
   "PrisonersDilemma": {
     "title": "Prisoner's Dilemma / 囚徒困境",
@@ -38330,6 +38558,10 @@
   "PunchedCardAdministration": {
     "title": "Punched Card Administration / 打孔卡行政",
     "url": "/wiki/concepts/punchedcardadministration/"
+  },
+  "PunishmentAsMoralCredential": {
+    "title": "受罚作为名节凭据 / Punishment as Moral Credential",
+    "url": "/wiki/concepts/punishmentasmoralcredential/"
   },
   "PunishmentTheoryTradeoff": {
     "title": "Punishment Theory Tradeoff",
@@ -39630,6 +39862,10 @@
   "RegionalNetworkTopologyRisk": {
     "title": "Regional Network Topology Risk",
     "url": "/wiki/concepts/regionalnetworktopologyrisk/"
+  },
+  "RegistryBasedPoliticalExclusion": {
+    "title": "Registry-Based Political Exclusion / 登记造册式政治禁锢",
+    "url": "/wiki/concepts/registrybasedpoliticalexclusion/"
   },
   "RegnansInExcelsis": {
     "title": "Regnans in Excelsis",
@@ -40986,6 +41222,10 @@
   "RumorErosionOfTrust": {
     "title": "Rumor Erosion of Trust / 谣言侵蚀信任",
     "url": "/wiki/concepts/rumorerosionoftrust/"
+  },
+  "RunanCommanderyLateHan": {
+    "title": "汝南郡 / Runan Commandery (late Han)",
+    "url": "/wiki/entities/runancommanderylatehan/"
   },
   "RunningShoeTechnology": {
     "title": "Running Shoe Technology",
@@ -42703,6 +42943,10 @@
     "title": "市被 / Shi Bei",
     "url": "/wiki/entities/shibei/"
   },
+  "ShiBiLateHan": {
+    "title": "史弼 / Shi Bi (late Han)",
+    "url": "/wiki/entities/shibilatehan/"
+  },
   "ShiCongbin": {
     "title": "Shi Congbin / 施从斌",
     "url": "/wiki/entities/shicongbin/"
@@ -43738,6 +43982,10 @@
   "SongFoundingLegitimacyPerformance": {
     "title": "宋初建国合法性表演 / Song Founding Legitimacy Performance",
     "url": "/wiki/concepts/songfoundinglegitimacyperformance/"
+  },
+  "SongHongEasternHan": {
+    "title": "宋弘 / Song Hong (Eastern Han)",
+    "url": "/wiki/entities/songhongeasternhan/"
   },
   "SongJunYan": {
     "title": "宋康王 / 宋君偃 / King Kang of Song",
@@ -45331,6 +45579,10 @@
     "title": "孙策 / Sun Ce",
     "url": "/wiki/entities/sunce/"
   },
+  "SunCeAssassination": {
+    "title": "孙策遇刺 / Sun Ce Assassination",
+    "url": "/wiki/entities/sunceassassination/"
+  },
   "SunChoe": {
     "title": "Sun Choe",
     "url": "/wiki/entities/sunchoe/"
@@ -45782,6 +46034,10 @@
   "Tableau": {
     "title": "Tableau",
     "url": "/wiki/entities/tableau/"
+  },
+  "TacitGratitudeRestraint": {
+    "title": "Tacit Gratitude Restraint / 心照不宣式感恩克制",
+    "url": "/wiki/concepts/tacitgratituderestraint/"
   },
   "TacitManagementKnowledge": {
     "title": "Tacit Management Knowledge / 默会知识",
@@ -46462,6 +46718,10 @@
   "TenVictoriesTenDefeats": {
     "title": "Ten Victories and Ten Defeats / 十胜十败论",
     "url": "/wiki/concepts/tenvictoriestendefeats/"
+  },
+  "TenantScreeningEvictionBackfire": {
+    "title": "Tenant Screening Eviction Backfire",
+    "url": "/wiki/concepts/tenantscreeningevictionbackfire/"
   },
   "Tencent": {
     "title": "Tencent",
@@ -47283,6 +47543,10 @@
     "title": "田荣 / Tian Rong",
     "url": "/wiki/entities/tianrong/"
   },
+  "TianShengLateHan": {
+    "title": "田胜 / Tian Sheng (late Han)",
+    "url": "/wiki/entities/tianshenglatehan/"
+  },
   "TianShi": {
     "title": "田巿 / Tian Shi",
     "url": "/wiki/entities/tianshi/"
@@ -47494,6 +47758,10 @@
   "TokenPerWatt": {
     "title": "Token per Watt",
     "url": "/wiki/concepts/tokenperwatt/"
+  },
+  "TokenTaxOnAI": {
+    "title": "Token Tax On AI",
+    "url": "/wiki/concepts/tokentaxonai/"
   },
   "TokugawaForeignTradeAmbivalence": {
     "title": "Tokugawa Foreign-Trade Ambivalence",
@@ -48586,6 +48854,10 @@
   "UnderworldBureaucracy": {
     "title": "Underworld Bureaucracy",
     "url": "/wiki/concepts/underworldbureaucracy/"
+  },
+  "UnearnedRewardRefusal": {
+    "title": "Unearned Reward Refusal / 非道所得不居",
+    "url": "/wiki/concepts/unearnedrewardrefusal/"
   },
   "UnemployedMutualAid": {
     "title": "Unemployed Mutual Aid / 失业者互助",
@@ -51155,6 +51427,10 @@
     "title": "吴承恩",
     "url": "/wiki/entities/wuchengen/"
   },
+  "WuCommanderyLateHan": {
+    "title": "吴郡 / Wu Commandery (late Han)",
+    "url": "/wiki/entities/wucommanderylatehan/"
+  },
   "WuDalang": {
     "title": "武大郎 / Wu Dalang",
     "url": "/wiki/entities/wudalang/"
@@ -51590,6 +51866,10 @@
   "XiangJun": {
     "title": "湘君 / Xiangjun",
     "url": "/wiki/entities/xiangjun/"
+  },
+  "XiangKaiLateHan": {
+    "title": "襄楷 / Xiang Kai (late Han)",
+    "url": "/wiki/entities/xiangkailatehan/"
   },
   "XiangLiang": {
     "title": "项梁 / Xiang Liang",
@@ -52035,6 +52315,10 @@
     "title": "徐夫人 / Xu Furen",
     "url": "/wiki/entities/xufuren/"
   },
+  "XuGongLateHan": {
+    "title": "徐贡 / Xu Gong (late Han)",
+    "url": "/wiki/entities/xugonglatehan/"
+  },
   "XuGuangqi": {
     "title": "徐光启 / Xu Guangqi",
     "url": "/wiki/entities/xuguangqi/"
@@ -52046,6 +52330,10 @@
   "XuHouguang": {
     "title": "Xu Houguang / 徐厚广",
     "url": "/wiki/entities/xuhouguang/"
+  },
+  "XuHuangLateHan": {
+    "title": "徐璜 / Xu Huang (late Han eunuch)",
+    "url": "/wiki/entities/xuhuanglatehan/"
   },
   "XuHuazhe": {
     "title": "Xu Huazhe",
@@ -52134,6 +52422,10 @@
   "XuXuanGuaiLu": {
     "title": "《续玄怪录》",
     "url": "/wiki/entities/xuxuanguailu/"
+  },
+  "XuXuanLateHan": {
+    "title": "徐宣 / Xu Xuan (late Han magistrate)",
+    "url": "/wiki/entities/xuxuanlatehan/"
   },
   "XuXunLateHan": {
     "title": "许训 / Xu Xun (late Han)",
@@ -52530,6 +52822,10 @@
   "YangQiLateHan": {
     "title": "杨琦 / Yang Qi (late Han)",
     "url": "/wiki/entities/yangqilatehan/"
+  },
+  "YangQiaoLateHan": {
+    "title": "杨桥 / Yang Qiao (late Han)",
+    "url": "/wiki/entities/yangqiaolatehan/"
   },
   "YangQiuLateHan": {
     "title": "阳球 / Yang Qiu (late Han)",
@@ -53591,6 +53887,10 @@
     "title": "Zeying",
     "url": "/wiki/entities/zeying/"
   },
+  "ZhaiChaoLateHan": {
+    "title": "翟超 / Zhai Chao (late Han)",
+    "url": "/wiki/entities/zhaichaolatehan/"
+  },
   "ZhaitaiGaozhu": {
     "title": "债台高筑 / Zhaitai Gaozhu",
     "url": "/wiki/concepts/zhaitaigaozhu/"
@@ -53630,6 +53930,10 @@
   "ZhangChaoLateHan": {
     "title": "张超 / Zhang Chao (Late Han)",
     "url": "/wiki/entities/zhangchaolatehan/"
+  },
+  "ZhangChengAstrologerLateHan": {
+    "title": "张成 / Zhang Cheng (late Han astrologer)",
+    "url": "/wiki/entities/zhangchengastrologerlatehan/"
   },
   "ZhangChengLateHan": {
     "title": "张承 / Zhang Cheng (late Han)",
@@ -53984,7 +54288,7 @@
     "url": "/wiki/entities/zhangzhanglatehan/"
   },
   "ZhangZhaoLateHan": {
-    "title": "张昭 / Zhang Zhao (Late Han)",
+    "title": "张昭 / Zhang Zhao (late Han)",
     "url": "/wiki/entities/zhangzhaolatehan/"
   },
   "ZhangZhihao": {
@@ -55302,6 +55606,10 @@
   "all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680": {
     "title": "The $1/Hour Worker: Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs",
     "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680/"
+  },
+  "all-in-with-chamath-jason-sacks-friedberg-the-fight-over-open-source-ai-anthropics-15b-payout-nyc-socialists-evictions-violence-42209480": {
+    "title": "The Fight Over Open Source AI, Anthropic's $1.5B Payout, NYC Socialists: Evictions = Violence?",
+    "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-fight-over-open-source-ai-anthropics-15b-payout-nyc-socialists-evictions-violence-42209480/"
   },
   "all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920": {
     "title": "The Future of Everything: What CEOs of Circle, CrowdStrike & More See Coming in 2026",
@@ -58347,6 +58655,18 @@
     "title": "《资治通鉴·汉纪》1040丨乱世英雄，曹操为何独独看好刘备？",
     "url": "/wiki/sources/zizhi-tongjian-hanji-1040-luanshi-yingxiong-caocao-weihe-dudu-kanhao-liubei-lrazzwo4bjspvwmnkx5hoar1iq3x/"
   },
+  "zizhi-tongjian-hanji-1041-jiemi-lishishang-zhenshi-de-guanyu-jiangcao-luisp0ndk1lfrc87byygn6r8myhx": {
+    "title": "《资治通鉴·汉纪》1041丨揭秘历史上真实的“关羽降曹”",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-1041-jiemi-lishishang-zhenshi-de-guanyu-jiangcao-luisp0ndk1lfrc87byygn6r8myhx/"
+  },
+  "zizhi-tongjian-hanji-1042-congming-haishi-wangu-tianfeng-yin-dingzhuang-yuanshao-ruyu-lk5x6if2rouarmgichtynzhl3cgs": {
+    "title": "《资治通鉴·汉纪》1042丨聪明还是顽固？田丰因顶撞袁绍入狱",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-1042-congming-haishi-wangu-tianfeng-yin-dingzhuang-yuanshao-ruyu-lk5x6if2rouarmgichtynzhl3cgs/"
+  },
+  "zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d": {
+    "title": "《资治通鉴·汉纪》1045丨他是江东霸业的开创者，可惜死的太窝囊",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d/"
+  },
   "zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo": {
     "title": "《资治通鉴·汉纪》139｜“他”再次影响“汉朝”",
     "url": "/wiki/sources/zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo/"
@@ -58694,6 +59014,54 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc": {
+    "title": "《资治通鉴·汉纪》872丨他娶妾不成，竟杀人全家",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc/"
+  },
+  "zizhi-tongjian-hanji-873-ta-ruhe-liyong-tianxiang-tongma-diwang-lqebkodcbcrsvyf80qwxnobydbhc": {
+    "title": "《资治通鉴·汉纪》873丨他如何利用天象痛骂帝王？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-873-ta-ruhe-liyong-tianxiang-tongma-diwang-lqebkodcbcrsvyf80qwxnobydbhc/"
+  },
+  "zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq": {
+    "title": "《资治通鉴·汉纪》874丨震惊：母子相残，天理难容！",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq/"
+  },
+  "zizhi-tongjian-hanji-875-li-dapu-weihe-ta-yi-ruyu-wei-rong-lgffkjk-0yu-ehfsw59anoych-ld": {
+    "title": "《资治通鉴·汉纪》875丨离大谱！为何他以入狱为荣？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-875-li-dapu-weihe-ta-yi-ruyu-wei-rong-lgffkjk-0yu-ehfsw59anoych-ld/"
+  },
+  "zizhi-tongjian-hanji-876-zhichang-zong-pengbi-shuoming-ni-meiyou-zhaodui-guanxi-lrjob-a07t29hdr0iogrmcsjr7qp": {
+    "title": "《资治通鉴·汉纪》876丨职场总碰壁？说明你没有找对关系",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-876-zhichang-zong-pengbi-shuoming-ni-meiyou-zhaodui-guanxi-lrjob-a07t29hdr0iogrmcsjr7qp/"
+  },
+  "zizhi-tongjian-hanji-877-ta-weihe-lengluo-jiuming-enren-loofs4rugl-q8kunfb-jpj5mgvhi": {
+    "title": "《资治通鉴·汉纪》877丨他为何冷落救命恩人？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-877-ta-weihe-lengluo-jiuming-enren-loofs4rugl-q8kunfb-jpj5mgvhi/"
+  },
+  "zizhi-tongjian-hanji-878-bu-shou-yueshu-de-quanli-hairen-buqian-lvevnahcxshgbz5zyqbaf36pa7nk": {
+    "title": "《资治通鉴·汉纪》878丨不受约束的权力，害人不浅",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-878-bu-shou-yueshu-de-quanli-hairen-buqian-lvevnahcxshgbz5zyqbaf36pa7nk/"
+  },
+  "zizhi-tongjian-hanji-879-si-zai-nvren-shenshang-de-hunyong-nanren-lqz5-mpi0waa-xmuhjhwkaecjjrc": {
+    "title": "《资治通鉴·汉纪》879丨死在女人身上的昏庸男人",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-879-si-zai-nvren-shenshang-de-hunyong-nanren-lqz5-mpi0waa-xmuhjhwkaecjjrc/"
+  },
+  "zizhi-tongjian-hanji-880-weihe-zhichang-laoyoutiao-rezhong-yu-chengbing-lnzfgwghrxrpltsmb8godap-nyzw": {
+    "title": "《资治通鉴·汉纪》880丨为何职场老油条热衷于称病？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-880-weihe-zhichang-laoyoutiao-rezhong-yu-chengbing-lnzfgwghrxrpltsmb8godap-nyzw/"
+  },
+  "zizhi-tongjian-hanji-881-shi-shui-zai-fa-zhanzheng-hengcai-lipglslijnbp0cuqfpps88q5wit6": {
+    "title": "《资治通鉴·汉纪》881丨是谁在发战争横财？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-881-shi-shui-zai-fa-zhanzheng-hengcai-lipglslijnbp0cuqfpps88q5wit6/"
+  },
+  "zizhi-tongjian-hanji-882-fengguang-taisheng-zhuding-bude-haosi-lphagu5ljuxxjwx-uvnbs229wjii": {
+    "title": "《资治通鉴·汉纪》882丨风光太盛，注定不得好死？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-882-fengguang-taisheng-zhuding-bude-haosi-lphagu5ljuxxjwx-uvnbs229wjii/"
+  },
+  "zizhi-tongjian-hanji-883-laoban-yao-fansi-ruhe-bimian-gaoguan-neihong-lph-fycnqas6hztjq1jbsisvylid": {
+    "title": "《资治通鉴·汉纪》883丨老板要反思：如何避免高官内讧？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-883-laoban-yao-fansi-ruhe-bimian-gaoguan-neihong-lph-fycnqas6hztjq1jbsisvylid/"
   },
   "zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys": {
     "title": "《资治通鉴·汉纪》884丨职场除奸，要对谁先开刀？",

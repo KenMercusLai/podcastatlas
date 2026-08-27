@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 5612
+wiki_total_pages: 5642
 wiki_pages:
   - key: "ICEWorkforceExpansion"
     title: "ICE Workforce Expansion"
@@ -242,6 +242,9 @@ wiki_pages:
   - key: "InfantFormulaRegulatoryMoat"
     title: "Infant Formula Regulatory Moat"
     url: "/wiki/concepts/infantformularegulatorymoat/"
+  - key: "InfanticideCustomCorrection"
+    title: "Infanticide Custom Correction / 杀婴风俗纠偏"
+    url: "/wiki/concepts/infanticidecustomcorrection/"
   - key: "InfectiousDiseasePublicLiteracy"
     title: "Infectious Disease Public Literacy"
     url: "/wiki/concepts/infectiousdiseasepublicliteracy/"

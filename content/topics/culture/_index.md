@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2246
+topic_total_pages: 2247
 topic_concepts:
   - key: "AbraxasWholeGodSymbolism"
     title: "Abraxas Whole-God Symbolism / 阿布拉克萨斯完整神象征"
@@ -877,6 +877,9 @@ topic_concepts:
   - key: "FilterBubble"
     title: "Filter Bubble / 过滤气泡"
     url: "/wiki/concepts/filterbubble/"
+  - key: "FinDeSiecleViennaCrisisReading"
+    title: "Fin-de-Siecle Vienna Crisis Reading"
+    url: "/wiki/concepts/findesiecleviennacrisisreading/"
   - key: "FirstDraftThinking"
     title: "First Draft Thinking"
     url: "/wiki/concepts/firstdraftthinking/"

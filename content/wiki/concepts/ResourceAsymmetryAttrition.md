@@ -2,27 +2,43 @@
 title: "Resource-Asymmetry Attrition / 资源不对称消耗战"
 type: concept
 tags: [strategy, military, logistics, late-han, yanzhou]
-sources: [zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq]
-last_updated: 2026-08-25
+sources:
+  - zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq
+  - zizhi-tongjian-hanji-1042-congming-haishi-wangu-tianfeng-yin-dingzhuang-yuanshao-ruyu-lk5x6if2rouarmgichtynzhl3cgs
+knowledge_schema: synthesis-v1
+last_updated: 2026-08-27
 ---
 
 # Resource-Asymmetry Attrition / 资源不对称消耗战
 
-Resource-asymmetry attrition / 资源不对称消耗战 is the strategy pattern [[zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq|Hanji 964]] draws from [[BaoXin|鲍信]]'s warning to [[LiuDaiLateHan|刘岱]]. When the opposing force is hungry, mobile, and living by plunder, meeting it in the field can waste regular troops against desperation. Bao Xin's alternative is to force the enemy's logistics problem to mature: close gates, reinforce defenses, wait, and attack stragglers.
+## Definition
+Resource-asymmetry attrition / 资源不对称消耗战 is a strategy pattern in which one side avoids the opponent's strongest immediate mode of combat and instead uses time, supply, terrain, harassment, and morale pressure to make the opponent's limiting resource decide the contest.
 
-The source treats this as more than passivity. The weaker-looking defensive posture uses the enemy's resource condition as the active weapon. Liu Dai's refusal shows the failure mode: identity, face, and short internal food supply can make a leader choose the dramatic sortie over a slower plan that fits the material balance.
+## Current Synthesis
+The concept currently has two late-Han versions. In Hanji 964, [[BaoXin|鲍信]] warns [[LiuDaiLateHan|刘岱]] that hungry [[QingzhouYellowTurbans|青州黄巾军]] are dangerous in direct contact because desperation supplies immediate energy. His alternative is to close gates, strengthen defenses, wait for food pressure to mature, and then strike weaker pieces.
 
-The concept also prepares the later [[QingzhouSoldiers|青州兵]] branch. Once [[CaoCao|曹操]] survives the early fight and eventually wears down the [[QingzhouYellowTurbans|青州黄巾军]], the defeated force can be converted through [[DefeatedPopulationConversion|降众资源化]] rather than only destroyed.
+Hanji 1042 supplies the stronger-power version before [[GuanduCampaign|官渡之战]]. [[TianFengLateHan|田丰]] does not advise [[YuanShao|袁绍]] to hide from [[CaoCao|曹操]]; he advises turning Yuan's larger base into a pressure system by holding defensible ground, farming, preparing militarily, and sending elite cavalry to harass Cao's southern Yellow River zone. The shared pattern is not passivity but making the material balance work over time.
 
 ## Key Claims
+- Attrition is strongest when it targets the resource the opponent cannot cheaply replenish: food, rest, morale, movement capacity, or local support.
+- Defensive waiting can be active strategy when it changes the opponent's conditions faster than one's own.
+- The same pattern can serve weaker defenders against desperate raiders or stronger powers against smaller but more capable rivals.
+- Direct battle can be a failure of resource analysis when face, impatience, or status pressure makes the slower material route feel intolerable.
+- Attrition remains conditional: if one's own supply, cohesion, or command patience is weak, waiting can decay into passivity rather than pressure.
 
-- Desperate, food-short armed groups can be more dangerous in direct contact than their formal equipment or status suggests.
-- Attrition works when it attacks the opponent's limiting resource instead of their strongest immediate energy.
-- Defensive waiting can be an active strategy if it changes the enemy's supply and morale conditions.
-- The tactic requires discipline because it looks less heroic than open battle.
+## Evidence
+- Hungry-raider case: [[zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq|Hanji 964]] has Bao Xin advise Liu Dai to avoid meeting the Qingzhou Yellow Turbans directly and instead let their food shortage become decisive.
+- Stronger-base harassment case: [[zizhi-tongjian-hanji-1042-congming-haishi-wangu-tianfeng-yin-dingzhuang-yuanshao-ruyu-lk5x6if2rouarmgichtynzhl3cgs|Hanji 1042]] has Tian Feng advise Yuan Shao to use defensive terrain, agriculture, preparation, and cavalry raids so Cao Cao is forced to move back and forth under cumulative pressure.
 
-## Connections
+## Counterevidence & Qualifications
+Resource asymmetry does not guarantee victory. Hanji 1042 keeps Tian Feng's plan as a source-scoped counterfactual because the battle outcome is not proved by the plan alone. Hanji 964 also shows that leaders may face their own food or status constraints; a materially sensible plan still needs discipline, time, and political acceptance.
 
-- [[BaoXin|鲍信]], [[LiuDaiLateHan|刘岱]], [[QingzhouYellowTurbans|青州黄巾军]], and [[YanzhouLateHan|兖州]] - source case.
-- [[CaoCao|曹操]], [[QingzhouSoldiers|青州兵]], and [[DefeatedPopulationConversion|降众资源化]] - downstream conversion branch.
-- [[WarCostTempoDiscipline|战争成本与速决纪律]], [[RootBasePriority|根本根据地优先]], and [[XingshiqingStrategicAssessment|行势情战略评估]] - adjacent strategy frames.
+## What Changed
+- Migrated the page to `synthesis-v1` and added Tian Feng's pre-Guandu version where a stronger side tries to exhaust a smaller but more capable rival.
+
+## Related Concepts
+- [[FortifiedAttritionPatience|坚壁耗敌式耐心]] - neighboring patience pattern that uses fortification and time as strategic resources.
+- [[WarCostTempoDiscipline|战争成本与速决纪律]] - broader cost frame for deciding whether speed or delay best preserves capacity.
+- [[XingshiqingStrategicAssessment|行势情战略评估]] - assessment frame for checking whether the current balance makes attrition viable.
+- [[DefeatedPopulationConversion|降众资源化]] - downstream option when attrition ends with surrender rather than annihilation.
+- [[RootBasePriority|根本根据地优先]] - resource-base discipline that makes prolonged pressure sustainable.

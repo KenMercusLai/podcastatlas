@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 5612
+wiki_total_pages: 5642
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -212,6 +212,9 @@ wiki_pages:
   - key: "RegionalNetworkTopologyRisk"
     title: "Regional Network Topology Risk"
     url: "/wiki/concepts/regionalnetworktopologyrisk/"
+  - key: "RegistryBasedPoliticalExclusion"
+    title: "Registry-Based Political Exclusion / 登记造册式政治禁锢"
+    url: "/wiki/concepts/registrybasedpoliticalexclusion/"
   - key: "RegretIntegration"
     title: "Regret Integration"
     url: "/wiki/concepts/regretintegration/"

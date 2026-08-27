@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 5612
+wiki_total_pages: 5642
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -143,6 +143,9 @@ wiki_pages:
   - key: "OmenCountermeasureMobility"
     title: "Omen Countermeasure Mobility / 游徙避命"
     url: "/wiki/concepts/omencountermeasuremobility/"
+  - key: "OmenCodedRemonstrance"
+    title: "Omen-Coded Remonstrance / 天象灾异包装式进谏"
+    url: "/wiki/concepts/omencodedremonstrance/"
   - key: "OmenLaunderedPurge"
     title: "Omen-Laundered Purge / 天象包装式清洗"
     url: "/wiki/concepts/omenlaunderedpurge/"
@@ -236,6 +239,9 @@ wiki_pages:
   - key: "OpenSharedMythos"
     title: "Open Shared Mythos"
     url: "/wiki/concepts/opensharedmythos/"
+  - key: "OpenSourceAIBanRisk"
+    title: "Open Source AI Ban Risk"
+    url: "/wiki/concepts/opensourceaibanrisk/"
   - key: "OpenSourceAIInfrastructure"
     title: "Open Source AI Infrastructure"
     url: "/wiki/concepts/opensourceaiinfrastructure/"
