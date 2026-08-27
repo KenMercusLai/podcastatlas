@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 8009
+wiki_total_pages: 8015
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1595,6 +1595,9 @@ wiki_pages:
   - key: "SongDianLateHan"
     title: "宋典 / Song Dian (late Han)"
     url: "/wiki/entities/songdianlatehan/"
+  - key: "SongChongLateHan"
+    title: "宋冲 / Song Chong (late Han)"
+    url: "/wiki/entities/songchonglatehan/"
   - key: "SongLiu"
     title: "宋刘 / Song Liu"
     url: "/wiki/entities/songliu/"

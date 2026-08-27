@@ -7025,9 +7025,9 @@
       "url": "/wiki/entities/guoning/"
     },
     "GuoTaiLateHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》931丨人生艰难处，便是修心时 [lpZMvxOp8lmlwvXHoOJZj5ok9Qd6].md",
@@ -7056,6 +7056,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》862丨他因一句话休妻，最终身败名裂",
           "url": "/wiki/sources/zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》861丨什么样的人堪称老师楷模？ [lu0KadsC9aEtZiP9CEdyV01WndrH].md",
+          "key": "zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》861丨什么样的人堪称老师楷模？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh/"
         }
       ],
       "updated": "2026-08-28",
@@ -7723,9 +7730,9 @@
       "url": "/wiki/entities/huangyirobotics/"
     },
     "HuangYunLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》862丨他因一句话休妻，最终身败名裂 [lrvKLAI847FVlP1l28coOfzGBsYq].md",
@@ -7733,6 +7740,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》862丨他因一句话休妻，最终身败名裂",
           "url": "/wiki/sources/zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》861丨什么样的人堪称老师楷模？ [lu0KadsC9aEtZiP9CEdyV01WndrH].md",
+          "key": "zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》861丨什么样的人堪称老师楷模？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh/"
         }
       ],
       "updated": "2026-08-28",
@@ -11609,6 +11623,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/memoryconsolidationwindows/"
     },
+    "MengMinLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》861丨什么样的人堪称老师楷模？ [lu0KadsC9aEtZiP9CEdyV01WndrH].md",
+          "key": "zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》861丨什么样的人堪称老师楷模？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/mengminlatehan/"
+    },
     "MengYan": {
       "episode_count": 6,
       "show_count": 2,
@@ -12286,6 +12316,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/moraldesertpoliticaloutcomegap/"
+    },
+    "MoralMentorshipTalentCultivation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》861丨什么样的人堪称老师楷模？ [lu0KadsC9aEtZiP9CEdyV01WndrH].md",
+          "key": "zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》861丨什么样的人堪称老师楷模？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/moralmentorshiptalentcultivation/"
     },
     "MorningLightCircadianAnchoring": {
       "episode_count": 1,
@@ -15296,9 +15342,9 @@
       "url": "/wiki/entities/shenyuefde/"
     },
     "ShentuPanLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》949丨历史上的董卓到底多残暴？ [lk6IdoGWMC54Nk1Sdfc5wOnYVGbB].md",
@@ -15313,9 +15359,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》896丨假如乱世降临，你该如何自保？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-896-jiaru-luanshi-jianglin-ni-gai-ruhe-zibao-lsuvt-ksp-gfggc9riqqovjswkg/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》861丨什么样的人堪称老师楷模？ [lu0KadsC9aEtZiP9CEdyV01WndrH].md",
+          "key": "zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》861丨什么样的人堪称老师楷模？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-08-28",
       "url": "/wiki/entities/shentupanlatehan/"
     },
     "ShequanLateHan": {
@@ -15356,6 +15409,43 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/shibilatehan/"
+    },
+    "SituationalCharacterTests": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1029丨国士无双太史慈：一诺千金义当先 [lvCkWLHZ5g_oApPy89THYE9oyrTo].md",
+          "key": "zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1029丨国士无双太史慈：一诺千金义当先",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》06丨魏文侯选谁当宰相呢（1） [lk-6eJGMjhvuKQgTLZ2LOwU8QX_V].md",
+          "key": "zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》06丨魏文侯选谁当宰相呢（1）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》965丨帮过别人的忙，为什么要少提？ [ltJd_cv59hNM_n8aR9jXdOGP9Q0Q].md",
+          "key": "zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》965丨帮过别人的忙，为什么要少提？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》861丨什么样的人堪称老师楷模？ [lu0KadsC9aEtZiP9CEdyV01WndrH].md",
+          "key": "zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》861丨什么样的人堪称老师楷模？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/situationalcharactertests/"
     },
     "SleepAsDailyHealthAccount": {
       "episode_count": 6,
@@ -15501,6 +15591,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/socialemotioninferencelimits/"
+    },
+    "SongChongLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》861丨什么样的人堪称老师楷模？ [lu0KadsC9aEtZiP9CEdyV01WndrH].md",
+          "key": "zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》861丨什么样的人堪称老师楷模？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/songchonglatehan/"
     },
     "SongHongEasternHan": {
       "episode_count": 1,
@@ -17686,6 +17792,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/weitenglatehan/"
     },
+    "WeiZhaoLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》861丨什么样的人堪称老师楷模？ [lu0KadsC9aEtZiP9CEdyV01WndrH].md",
+          "key": "zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》861丨什么样的人堪称老师楷模？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/weizhaolatehan/"
+    },
     "WeiZhongLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -18341,6 +18463,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/xuzhaolatehan/"
+    },
+    "XuZhiLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》861丨什么样的人堪称老师楷模？ [lu0KadsC9aEtZiP9CEdyV01WndrH].md",
+          "key": "zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》861丨什么样的人堪称老师楷模？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/xuzhilatehan/"
     },
     "XueXiaofan": {
       "episode_count": 1,
@@ -19061,6 +19199,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/youthfootballpublicaccess/"
+    },
+    "YuChengLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》861丨什么样的人堪称老师楷模？ [lu0KadsC9aEtZiP9CEdyV01WndrH].md",
+          "key": "zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》861丨什么样的人堪称老师楷模？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/yuchenglatehan/"
     },
     "YuFan": {
       "episode_count": 3,
@@ -19986,6 +20140,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/zongzilatehan/"
+    },
+    "ZuoYuanLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》861丨什么样的人堪称老师楷模？ [lu0KadsC9aEtZiP9CEdyV01WndrH].md",
+          "key": "zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》861丨什么样的人堪称老师楷模？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/zuoyuanlatehan/"
     }
   },
   "version": 1

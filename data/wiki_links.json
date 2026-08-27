@@ -32015,6 +32015,10 @@
     "title": "蒙嘉 / Meng Jia",
     "url": "/wiki/entities/mengjia/"
   },
+  "MengMinLateHan": {
+    "title": "孟敏 / Meng Min (late Han)",
+    "url": "/wiki/entities/mengminlatehan/"
+  },
   "MengPo": {
     "title": "孟婆",
     "url": "/wiki/entities/mengpo/"
@@ -33290,6 +33294,10 @@
   "MoralHazardContagionTradeoff": {
     "title": "Moral Hazard Contagion Tradeoff",
     "url": "/wiki/concepts/moralhazardcontagiontradeoff/"
+  },
+  "MoralMentorshipTalentCultivation": {
+    "title": "Moral Mentorship as Talent Cultivation / 人师型人才成全",
+    "url": "/wiki/concepts/moralmentorshiptalentcultivation/"
   },
   "MoralReputationPoliticalCapital": {
     "title": "Moral Reputation as Political Capital / 道德名望政治资本",
@@ -44723,6 +44731,10 @@
     "title": "Sondre Solstad",
     "url": "/wiki/entities/sondresolstad/"
   },
+  "SongChongLateHan": {
+    "title": "宋冲 / Song Chong (late Han)",
+    "url": "/wiki/entities/songchonglatehan/"
+  },
   "SongDaogong": {
     "title": "宋悼公 / Duke Dao of Song",
     "url": "/wiki/entities/songdaogong/"
@@ -51503,6 +51515,10 @@
     "title": "魏则西事件",
     "url": "/wiki/concepts/weizexiincident/"
   },
+  "WeiZhaoLateHan": {
+    "title": "魏昭 / Wei Zhao (late Han)",
+    "url": "/wiki/entities/weizhaolatehan/"
+  },
   "WeiZhaowang": {
     "title": "魏昭王 / King Zhao of Wei",
     "url": "/wiki/entities/weizhaowang/"
@@ -53319,6 +53335,10 @@
     "title": "Xu Zhe / 许哲",
     "url": "/wiki/entities/xuzhe/"
   },
+  "XuZhiLateHan": {
+    "title": "徐稚 / Xu Zhi (late Han)",
+    "url": "/wiki/entities/xuzhilatehan/"
+  },
   "XuZhongJin": {
     "title": "许众 / Xu Zhong (Jin commentator)",
     "url": "/wiki/entities/xuzhongjin/"
@@ -54378,6 +54398,10 @@
   "YouzhouLateHan": {
     "title": "幽州 / Youzhou (Late Han)",
     "url": "/wiki/entities/youzhoulatehan/"
+  },
+  "YuChengLateHan": {
+    "title": "庾乘 / Yu Cheng (late Han)",
+    "url": "/wiki/entities/yuchenglatehan/"
   },
   "YuChengdong": {
     "title": "Yu Chengdong",
@@ -56314,6 +56338,10 @@
   "ZuoShuang": {
     "title": "左爽 / Zuo Shuang",
     "url": "/wiki/entities/zuoshuang/"
+  },
+  "ZuoYuanLateHan": {
+    "title": "左原 / Zuo Yuan (late Han)",
+    "url": "/wiki/entities/zuoyuanlatehan/"
   },
   "ZuoZhuan": {
     "title": "《左传》 / Zuo Zhuan",
@@ -60086,6 +60114,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh": {
+    "title": "《资治通鉴·汉纪》861丨什么样的人堪称老师楷模？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh/"
   },
   "zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq": {
     "title": "《资治通鉴·汉纪》862丨他因一句话休妻，最终身败名裂",

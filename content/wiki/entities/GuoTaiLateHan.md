@@ -1,70 +1,76 @@
 ---
 title: "郭泰 / Guo Tai (late Han)"
 type: entity
-tags: [person, scholar, late-han, china]
+tags: [person, scholar, teacher, late-han, china]
 sources:
   - zizhi-tongjian-hanji-931-rensheng-jiannan-chu-bianshi-xiuxin-shi-lpzmvxop8lmlwvxhoojzj5ok9qd6
   - zizhi-tongjian-hanji-894-yi-chang-taowang-yinfa-de-da-tusha-lhulp9hqu07uayyfl3eg-xwrtkeu
   - zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt
   - zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq
+  - zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh
 last_updated: 2026-08-28
 knowledge_schema: synthesis-v1
 ---
 
 ## Overview
 
-Guo Tai is a late-Han scholar, reputation leader, and talent judge whose wiki profile now spans four source roles: 164 CE evaluator of [[HuangYunLateHan|黄允]] and reverent recognizer of [[QiuXiangLateHan|仇香]], Taixue public-opinion leader before the Party Prohibition sequence, guarded survivor and teacher after the 169 CE crackdown, and reputation witness for [[WangYunLateHan|王允]] before Wang Yun's later anti-[[DongZhuo|董卓]] role.
+Guo Tai is a late-Han scholar, teacher, reputation leader, and talent judge whose wiki profile now begins with active 164 CE mentorship before moving into Taixue public opinion, guarded party-prohibition survival, and later reputation certification. The current evidence presents him as a "人师" figure: he recognizes hidden capacity, tests and corrects conduct, refuses office when he reads the dynasty as unsalvageable, yet continues forming students and talent.
 
 ## Current Profile
 
-The current evidence presents Guo Tai as a scholar whose reputation rests on judgment, public influence, and restraint. Hanji 862 supplies the earliest layer currently attached to him: Guo Tai admires Huang Yun's talent but warns that his conduct will not sustain reputation, then treats Qiu Xiang's quiet family-level correction as worthy of deep respect. His judgment is therefore evidence-sensitive rather than status-flattering; he notices the gap between fame and reality and can rank moral effect above official visibility.
+Hanji 861 gives Guo Tai's fullest teacher portrait. He sees [[MengMinLateHan|孟敏]]'s decisiveness in a broken-vessel scene, notices low-status figures such as [[ShentuPanLateHan|申屠蟠]] and [[YuChengLateHan|庾乘]], accepts [[WeiZhaoLateHan|魏昭]]'s search for a teacher of conduct, and redirects [[ZuoYuanLateHan|左原]] after an offense. The same episode keeps his public boundary visible: [[SongChongLateHan|宋冲]] urges him to enter office, but Guo Tai refuses because he thinks the order is too far gone; [[XuZhiLateHan|徐稚]] later warns him against overextension, and Guo Tai accepts the warning as instruction.
 
-Hanji 871 places him with [[JiaBiaoLateHan|贾彪]] at the head of a large Taixue student-scholarly field. Their mutual praise with [[LiYingLateHan|李膺]], [[ChenFanLateHan|陈蕃]], and [[WangChangShumaoLateHan|王畅]] helps make public evaluation strong enough that officials fear criticism and seek approval. This makes Guo Tai a direct case of [[QingyiReputationPressure|清议声誉压力]] before the later source sequence turns that reputation field dangerous.
+Hanji 862 shows that Guo Tai's people judgment is discerning but not magic. He recognizes [[HuangYunLateHan|黄允]]'s talent while warning that reputation after forty will require strict self-correction, and he treats [[QiuXiangLateHan|仇香]]'s quiet family-level correction as worthy of reverence. Guo Tai's authority therefore rests on qualified judgment: he can see promise, notice hidden virtue, and still understand that later conduct may confirm or destroy reputation.
 
-Hanji 894 gives the survival and withdrawal layer. Guo Tai grieves the deaths of party figures but avoids fierce political speech, so eunuch-side retaliation does not strike him directly. After reading the Eastern Han order as exhausted, he closes his door and teaches students.
+Hanji 871 places Guo Tai with [[JiaBiaoLateHan|贾彪]] at the head of a large Taixue student-scholarly field. Their praise-and-blame network helps make public evaluation strong enough that officials fear criticism and seek approval. This makes Guo Tai a case of [[QingyiReputationPressure|清议声誉压力]], where personal moral judgment becomes public force.
 
-Hanji 931 uses him later as the evaluator whose praise helps establish Wang Yun's early moral and political reputation. Across these source roles, Guo Tai is not merely famous; he is a person whose judgment can certify, qualify, or redirect others' reputation while his own restraint helps him survive when public reputation becomes targetable.
+Hanji 894 gives the survival and withdrawal layer. Guo Tai grieves the deaths of party figures but avoids fierce political speech, so eunuch-side retaliation does not strike him directly. After reading the Eastern Han order as exhausted, he closes his door and teaches students. Hanji 931 then uses him as the evaluator whose praise helps establish [[WangYunLateHan|王允]]'s early moral and political reputation.
 
 ## Key Characteristics
 
-- Late-Han scholar whose public reputation is tied to judging and certifying people.
-- Talent evaluator who can praise ability while warning about conduct needed to sustain fame.
+- Teacher of conduct who forms people through recognition, testing, correction, and encouragement.
+- Talent evaluator who can notice capacity in ordinary, poor, or low-status settings.
+- Moral corrector who treats fault as serious but not always final.
+- Reputation judge whose praise is conditional on later self-correction and proven conduct.
 - Recognizer of quiet moral authority, shown by reverence for Qiu Xiang's household-level transformation.
 - Taixue reputation leader whose public praise-and-blame field pressures officials.
-- Party-prohibition survivor whose guarded speech prevents eunuch-side retaliation.
-- Grieving witness to the destruction of名士 during the 169 CE crackdown.
-- Teacher who withdraws into instruction after reading the dynasty's crisis as beyond his repair.
+- Party-prohibition survivor who combines guarded speech, grief, withdrawal, and teaching.
 
 ## Evidence
 
-- Talent warning: [[zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq|Hanji 862]] has Guo Tai tell Huang Yun that his talent is sufficient but his personal conduct will not preserve his reputation.
+- Teacher of conduct: [[zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh|Hanji 861]] has Wei Zhao seek Guo Tai as a "人师" and presents Guo Tai's mentorship through recognition, testing, and correction rather than text instruction alone.
+- Low-status talent recognition: [[zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh|Hanji 861]] says Guo Tai recognizes Meng Min, Shentu Pan, Yu Cheng, and other humble figures before status has made them obvious.
+- Corrective trust: [[zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh|Hanji 861]] presents Guo Tai comforting and admonishing Zuo Yuan, then later preventing a revenge plan by the force of remembered trust.
+- Conditional reputation judgment: [[zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh|Hanji 861]] and [[zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq|Hanji 862]] together show Guo Tai praising Huang Yun's talent while warning that later self-correction will decide whether fame endures.
 - Moral recognition: [[zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq|Hanji 862]] says Guo Tai thanks Qiu Xiang and treats him with reverence after Qiu Xiang transforms Chen Yuan through instruction rather than punishment.
-- Taixue leadership: [[zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt|Hanji 871]] says Guo Tai and Jia Biao are leading figures among the Taixue student-scholarly field.
-- Public evaluation pressure: [[zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt|Hanji 871]] says the reputation field around Guo Tai, Jia Biao, Li Ying, Chen Fan, and Wang Chang makes officials fear criticism and seek approval.
-- Party-prohibition survival: [[zizhi-tongjian-hanji-894-yi-chang-taowang-yinfa-de-da-tusha-lhulp9hqu07uayyfl3eg-xwrtkeu|Hanji 894]] says Guo Tai survives the party-prohibition disaster because he avoids fierce and deep political discussion.
-- Grief and withdrawal: [[zizhi-tongjian-hanji-894-yi-chang-taowang-yinfa-de-da-tusha-lhulp9hqu07uayyfl3eg-xwrtkeu|Hanji 894]] presents him as mourning the deaths of famous scholars, judging the Eastern Han order near exhaustion, closing his door, teaching thousands, and dying at forty-two.
-- Talent recognition: [[zizhi-tongjian-hanji-931-rensheng-jiannan-chu-bianshi-xiuxin-shi-lpzmvxop8lmlwvxhoojzj5ok9qd6|Hanji 931]] says Guo Tai praises Wang Yun as having the capacity to assist a ruler.
+- Taixue leadership: [[zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt|Hanji 871]] says Guo Tai and Jia Biao are leading figures among the Taixue student-scholarly field and that officials fear this public criticism.
+- Party-prohibition survival and teaching: [[zizhi-tongjian-hanji-894-yi-chang-taowang-yinfa-de-da-tusha-lhulp9hqu07uayyfl3eg-xwrtkeu|Hanji 894]] says Guo Tai survives because he avoids fierce political discussion, mourns the destruction of famous scholars, closes his door, teaches thousands, and dies at forty-two.
+- Talent certification: [[zizhi-tongjian-hanji-931-rensheng-jiannan-chu-bianshi-xiuxin-shi-lpzmvxop8lmlwvxhoojzj5ok9qd6|Hanji 931]] says Guo Tai praises Wang Yun as having the capacity to assist a ruler.
 
 ## Qualifications
 
-This page is not a complete biography. The source notes use Guo Tai for specific functions: evaluator of Huang Yun and Qiu Xiang, reputation leader, restrained survivor and teacher, and reputation witness for Wang Yun. The page keeps public influence and later restraint together without claiming that restraint equals indifference to political suffering.
+This page is not a complete biography. The sources use Guo Tai for specific functions: moral mentor, evaluator of Huang Yun and Qiu Xiang, Taixue reputation leader, restrained survivor and teacher, and reputation witness for Wang Yun. Hanji 861 also warns against flattening him into a flawless talent oracle, because Huang Yun's case remains conditional and later unstable.
 
 ## What Changed
 
-- Hanji 862 adds Guo Tai's earlier warning to Huang Yun and his reverence for Qiu Xiang's local moral transformation.
-- The current profile now starts with Guo Tai's Taixue reputation leadership before the 169 CE survival scene.
-- Guo Tai's later guarded withdrawal now contrasts with his earlier role in a public-opinion field that pressured officials.
+- Guo Tai's profile now begins with 164 CE active mentorship before the later Taixue and party-prohibition layers.
+- The current judgment distinguishes "teacher of conduct" from ordinary text instruction through Wei Zhao, Meng Min, and Zuo Yuan.
+- The Huang Yun thread is now treated as conditional talent recognition rather than simple praise.
+- Guo Tai's refusal of office is tied to continued teaching and to Xu Zhi's caution about the limits of individual repair.
 
 ## Relationships
 
-- [[HuangYunLateHan|黄允]] - talented but conduct-fragile figure whom Guo Tai evaluates.
+- [[MoralMentorshipTalentCultivation|人师型人才成全]] - concept grounded primarily in Guo Tai's Hanji 861 conduct.
+- [[MengMinLateHan|孟敏]] - ordinary-life decisiveness case whom Guo Tai encourages.
+- [[WeiZhaoLateHan|魏昭]] - student whose search for a "人师" Guo Tai tests.
+- [[ZuoYuanLateHan|左原]] - offender whom Guo Tai redirects through corrective trust.
+- [[ShentuPanLateHan|申屠蟠]] - low-status figure and later reclusive scholar recognized by Guo Tai.
+- [[YuChengLateHan|庾乘]] - gatekeeper recognized as latent talent by Guo Tai.
+- [[SongChongLateHan|宋冲]] - admirer whose office urging clarifies Guo Tai's refusal.
+- [[XuZhiLateHan|徐稚]] - cautioning correspondent whose warning Guo Tai accepts.
+- [[HuangYunLateHan|黄允]] - talented but conduct-fragile figure whom Guo Tai evaluates conditionally.
 - [[QiuXiangLateHan|仇香]] - quiet local moral actor whom Guo Tai treats with reverence.
 - [[JiaBiaoLateHan|贾彪]] - fellow Taixue reputation leader in Hanji 871.
-- [[QingyiReputationPressure|清议声誉压力]] - concept grounded partly in Guo Tai's public praise-and-blame role.
+- [[QingyiReputationPressure|清议声誉压力]] - public praise-and-blame field partly grounded in Guo Tai.
 - [[WangYunLateHan|王允]] - official whose early ability Guo Tai is used to certify.
-- [[YuanHongLateHan|袁闳]] - fellow named survivor of the party-prohibition disaster in Hanji 894.
-- [[ZhangJianLateHan|张俭]] - contrast case whose reputation draws him into dangerous flight and shelter.
-- [[MoralReputationPoliticalCapital|道德名望政治资本]] - concept supported by Guo Tai's reputation judgments.
-- [[EmptyReputationRealityGap|空誉违实]] - reputation-risk concept illustrated by Guo Tai's warning about Huang Yun.
-- [[CrisisWithdrawalSelfProtection|危局抽身自保]] - adjacent survival pattern for guarded speech and closed-door teaching.
-- [[PartyProhibitionKinshipExpansion|党锢亲属牵连扩大]] - repression setting in which Guo Tai's restraint matters.
+- [[CrisisWithdrawalSelfProtection|危局抽身自保]] - survival and limit-recognition pattern for guarded speech and teaching.

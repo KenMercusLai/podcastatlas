@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 8009
+wiki_total_pages: 8015
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -1238,6 +1238,9 @@ wiki_pages:
   - key: "Mengchangjun"
     title: "孟尝君 / Tian Wen"
     url: "/wiki/entities/mengchangjun/"
+  - key: "MengMinLateHan"
+    title: "孟敏 / Meng Min (late Han)"
+    url: "/wiki/entities/mengminlatehan/"
   - key: "MengHaoran"
     title: "孟浩然 / Meng Haoran"
     url: "/wiki/entities/menghaoran/"

@@ -12669,6 +12669,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-28] ingest | 《资治通鉴·汉纪》861丨什么样的人堪称老师楷模？
+
+Added source page for a 164 CE Guo Tai mentorship episode on Meng Min's broken-vessel decisiveness, Shentu Pan and Yu Cheng as low-status recognition cases, Wei Zhao's "人师" request and porridge test, Zuo Yuan's correction after offense, Guo Tai's refusal of office, Xu Zhi's warning, and Huang Yun's conditional talent forecast. Created Meng Min, Yu Cheng, Wei Zhao, Zuo Yuan, Song Chong, Xu Zhi, and Moral Mentorship as Talent Cultivation pages; updated Guo Tai, Huang Yun, Shentu Pan, Situational Character Tests, index, and overview. No settled contradiction found; source transcript forms are normalized to received late-Han names.
+
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》863丨一把火烧出的“战斗力”
 
 Added source page for a 164 CE Huan-era backfill on Du Shang burning captured spoils to remobilize troops against Bu Yang and Pan Hong, Emperor Huan's southern-tour retinue burden, Hu Teng's Jingzhou discipline proposal, Yang Bing's warning against casual 郎 appointments, and Kou Rong's jealousy prelude before Hanji 864. Created Bu Yang, Pan Hong, Parental Expectation Shame, Spoils-Loss Mobilization, and Imperial Retinue Discipline pages; updated Du Shang, Yang Bing, Kou Rong, Hu Teng, and index. No settled contradiction found; 杜尚 is normalized to the existing 度尚 route, and the parenting opening remains source-scoped.
@@ -12760,6 +12764,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》865丨职场BOSS也容易被这种人背刺
 
 Added source page for a 165 CE Huan-era backfill on Yang Bing's impeachment of Hou Can and Hou Lan, the dispute over whether the Three Excellencies can impeach palace eunuchs, the temporary civil-official counterattack against eunuch privilege, and the Deng-Guo harem-rivalry deposition notice. Created Hou Can and Three Excellencies Inner-Court Jurisdiction pages; updated Yang Bing, Hou Lan, Emperor Huan, Empress Deng, Guo Guiren, Eunuch Patronage Violence Shield, index, and overview. No settled contradiction found; Hou Lan's 165 removal is kept as an earlier removal or demotion whose later access/reinstatement path remains unresolved.
+
+## [2026-08-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-28] lint | Wiki health check
 

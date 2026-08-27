@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》861丨什么样的人堪称老师楷模？](sources/zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh.md) — 芮淇讲透资治通鉴 episode on Guo Tai as a teacher-model who recognizes Meng Min, Shentu Pan, and Yu Cheng, tests Wei Zhao, redirects Zuo Yuan, refuses office, and accepts Xu Zhi's caution.
 - [《资治通鉴·汉纪》862丨他因一句话休妻，最终身败名裂](sources/zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq.md) — 芮淇讲透资治通鉴 episode on Huang Yun's talent-reputation collapse, Jin Wenjing's fatal accommodation, Fu Rong's correction of status-filtered judgment, Qiu Xiang's non-punitive correction of Chen Yuan, and Wang Huan's rough but useful enforcement profile.
 - [《资治通鉴·汉纪》863丨一把火烧出的“战斗力”](sources/zizhi-tongjian-hanji-863-yi-ba-huo-shaochu-de-zhandouli-ljpfmj8pphunruioce64ywjk7yhb.md) — 芮淇讲透资治通鉴 episode on Du Shang burning captured spoils to remobilize troops against Bu Yang and Pan Hong, Huan's southern-tour retinue discipline, Yang Bing's appointment warning, and Kou Rong's jealousy prelude before Hanji 864.
 - [《资治通鉴·汉纪》864丨名臣之后为何惨死于帝王之手？](sources/zizhi-tongjian-hanji-864-mingchen-zhihou-weihe-cansi-yu-diwang-zhishou-lqwexx6nchx10roxsrvh8c0ktkfq.md) — 芮淇讲透资治通鉴 episode on Kou Rong's failed petition and execution, Shi Bi's law-first proposal for Liu Kui, and the Hou Can corruption notice before Hanji 865.
@@ -1601,7 +1602,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
-- [黄允 / Huang Yun (late Han)](entities/HuangYunLateHan.md) — Talented but conduct-fragile Huan-era figure whose divorce of Xiahou Lingnü, attempted appointment, and suicide expose the risk of reputation outrunning reality.
+- [黄允 / Huang Yun (late Han)](entities/HuangYunLateHan.md) — Talented but conduct-fragile Huan-era figure whose Guo Tai forecast is later qualified by marriage opportunism and public reputation collapse.
 - [晋文经 / Jin Wenjing (late Han)](entities/JinWenjingLateHan.md) — Huang Yun's scandal-linked adviser, executed after accommodating divorce pressure instead of using friendship to remonstrate.
 - [符融 / Fu Rong (late Han)](entities/FuRongLateHan.md) — Late-Han evaluator who identifies Wang Huan's real administrative ability despite rough outer conduct.
 - [仇香 / Qiu Xiang (late Han)](entities/QiuXiangLateHan.md) — Local official whose non-punitive correction of Chen Yuan becomes a humane-governance exemplar recognized by Guo Tai.
@@ -2252,7 +2253,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [伍琼 / Wu Qiong (late Han)](entities/WuQiongLateHan.md) — Official first used in Dong Zhuo's recommendation channel and later executed after opposing the forced relocation to Chang'an.
 - [周毖 / Zhou Bi (late Han)](entities/ZhouBiLateHan.md) — Official first used in Dong Zhuo's recommendation channel and later executed with Wu Qiong after opposing the forced relocation from Luoyang.
 - [韩融 / Han Rong (late Han)](entities/HanRongLateHan.md) — Scholar-official appointed by Dong Zhuo as part of the Hanji 949 coerced talent-legitimacy field.
-- [申屠蟠 / Shentu Pan (late Han)](entities/ShentuPanLateHan.md) — Late-Han scholar whose early party-crisis withdrawal and later refusal of Dong Zhuo's summons make reclusion both moral stance and survival judgment.
+- [申屠蟠 / Shentu Pan (late Han)](entities/ShentuPanLateHan.md) — Late-Han scholar whose early low-status recognition, party-crisis withdrawal, and later refusal of Dong Zhuo's summons make reclusion both moral stance and survival judgment.
 - [葛勋 / Ge Xun (late Han)](entities/GeXunLateHan.md) — Official who discusses Huangfu Song's anti-Dong-Zhuo opening and later defuses Dong Zhuo's threat against Zhu Jun.
 - [梁衍 / Liang Yan (late Han)](entities/LiangYanLateHan.md) — Huangfu Song adviser who proposes escorting Emperor Xian and attacking Dong Zhuo under imperial authority.
 - [黄琬 / Huang Wan (late Han)](entities/HuangWanLateHan.md) — Anti-Dong-Zhuo court official executed after Li Jue and Guo Si take Chang'an in Hanji 966.
@@ -2262,7 +2263,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [王宏 / Wang Hong (late Han)](entities/WangHongLateHan.md) — Official who sees Li-Guo's summons as a trap and proposes using outside troops before being pulled down by Song Yi's compliance.
 - [赵戬 / Zhao Jian (late Han)](entities/ZhaoJianLateHan.md) — Former Wang Yun subordinate who risks collecting and burying Wang Yun's body after the Chang'an executions.
 - [杨赐 / Yang Ci (late Han)](entities/YangCiLateHan.md) — Senior late-Han official whose profile now includes 169 CE oblique snake-omen remonstrance, later omen/garden/Yellow-Turban warnings, and Wang Yun's rescue.
-- [郭泰 / Guo Tai (late Han)](entities/GuoTaiLateHan.md) — Late-Han scholar whose profile spans Huang Yun warning, Qiu Xiang recognition, Taixue public-opinion leadership, guarded party-prohibition survival, and reputation witness for Wang Yun.
+- [郭泰 / Guo Tai (late Han)](entities/GuoTaiLateHan.md) — Late-Han scholar and teacher whose profile spans mentorship, talent recognition, Qiu Xiang reverence, Taixue public opinion, guarded survival, and reputation certification.
+- [孟敏 / Meng Min (late Han)](entities/MengMinLateHan.md) — Broken-vessel decisiveness case whom Guo Tai recognizes and encourages toward study.
+- [庾乘 / Yu Cheng (late Han)](entities/YuChengLateHan.md) — Low-status county gatekeeper whom Guo Tai recognizes as latent talent.
+- [魏昭 / Wei Zhao (late Han)](entities/WeiZhaoLateHan.md) — Student figure who seeks Guo Tai as a teacher of conduct and passes the repeated porridge rebuke test.
+- [左原 / Zuo Yuan (late Han)](entities/ZuoYuanLateHan.md) — Expelled student whose resentment and revenge risk are redirected by Guo Tai's corrective trust.
+- [宋冲 / Song Chong (late Han)](entities/SongChongLateHan.md) — Admirer whose office urging clarifies Guo Tai's refusal to serve under a failing order.
+- [徐稚 / Xu Zhi (late Han)](entities/XuZhiLateHan.md) — Scholar whose falling-tree warning Guo Tai receives as teacherly counsel.
 - [王允 / Wang Yun (late Han)](entities/WangYunLateHan.md) — Late-Han official who takes public credit after Dong Zhuo's killing, clarifying Shi Sunrui's hidden-merit survival case.
 - [皇甫嵩 / Huangfu Song (late Han)](entities/HuangfuSongLateHan.md) — Late-Han official whose Dong Zhuo fear-question cliffhanger, proposed troop-reassurance role, and later dismissal mark survival speech and captured-court appointment/removal power.
 - [牛辅 / Niu Fu (late Han)](entities/NiuFuLateHan.md) — Dong Zhuo son-in-law whose victory over Li Su is followed by camp panic, flight, and death.
@@ -9623,6 +9630,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [三不沾式清廉自守 / Three-Refusals Integrity](concepts/ThreeRefusalsIntegrity.md) — Public-office integrity discipline built around refusing wine, sexual entanglement, and money as capture channels.
 - [任官责任退出受限 / Office Duty Exit Constraint](concepts/OfficeDutyExitConstraint.md) — Governance pattern where capable officials cannot easily leave or avoid office because crisis demand treats their ability as a public asset.
 - [仁厚地方治理 / Humane Local Governance](concepts/HumaneLocalGovernance.md) — Local-administration pattern where diagnosis, calm conduct, light punishment, and moral instruction build order without making coercion the first instrument.
+- [Moral Mentorship as Talent Cultivation / 人师型人才成全](concepts/MoralMentorshipTalentCultivation.md) — Teacher model where recognition, character testing, corrective trust, and self-limitation form people rather than only transmit knowledge.
 - [按亩征税 / Per-Mu Land Taxation](concepts/PerMuLandTaxation.md) — Huan-era fiscal-policy marker for the first source-described order to tax landholders by the mu.
 - [政策制度记载压缩 / Chronicle Policy Compression](concepts/ChroniclePolicyCompression.md) — Historiographical pattern where a chronicle records a major institutional decision tersely while leaving mechanism and consequence underdescribed.
 - [Non-Dual Mindfulness](concepts/NonDualMindfulness.md) — Meditation frame where thoughts, emotions, sensations, and selfing appear in awareness without a separate observer behind experience.
@@ -10648,7 +10656,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Political Parable Weaponization / 寓言式政治挑拨](concepts/PoliticalParableWeaponization.md) — Court-rhetoric pattern where a true-sounding lesson is used to attack a rival.
 - [Chancellor-Centered Governance / 宰相中心治理](concepts/ChancellorCenteredGovernance.md) — Historiographical frame for treating chancellor notices, including Qin's first left/right chancellors, as crucial state-operation evidence.
 - [Eastern-Western Zhou Split / 东周西周分裂](concepts/EasternWesternZhouSplit.md) — Political-fragmentation frame distinguishing the small East/West Zhou polities from broad dynasty-period labels.
-- [Situational Character Tests / 五观识人法](concepts/SituationalCharacterTests.md) — Li Ke's five-condition framework for judging people by relationships, referrals, and refusals under pressure.
+- [Situational Character Tests / 五观识人法](concepts/SituationalCharacterTests.md) — Framework for judging character through behavior under changing conditions, including office, wealth, loss, pressure, delegation, and correction.
 - [Talent Referral Quality / 荐才层级质量](concepts/TalentReferralQuality.md) — Chancellor-selection lesson that the level and effect of referred talent matter more than referral count alone.
 - [Private Access Talent Channel / 私人进身通道](concepts/PrivateAccessTalentChannel.md) — Court personnel mechanism where open recruitment still depends on favored intermediaries who make outsider talent actionable.
 - [Qi Wei Wang Chronology Dispute / 齐威王编年争议](concepts/QiChronologyDispute.md) — Source-critical case arguing Qi Wei Wang's received annalistic placement is probably too early.

@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2257
+topic_total_pages: 2259
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1360,6 +1360,9 @@ topic_concepts:
   - key: "ModernPrometheusReading"
     title: "Modern Prometheus Reading / 现代普罗米修斯读法"
     url: "/wiki/concepts/modernprometheusreading/"
+  - key: "MoralMentorshipTalentCultivation"
+    title: "Moral Mentorship as Talent Cultivation / 人师型人才成全"
+    url: "/wiki/concepts/moralmentorshiptalentcultivation/"
   - key: "MoralSuspensionInArtReading"
     title: "Moral Suspension In Art Reading"
     url: "/wiki/concepts/moralsuspensioninartreading/"
@@ -6720,6 +6723,9 @@ topic_sources:
   - key: "zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx"
     title: "《资治通鉴·周纪》92丨历史上第一位著名舔狗是谁？（2）"
     url: "/wiki/sources/zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx/"
+  - key: "zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh"
+    title: "《资治通鉴·汉纪》861丨什么样的人堪称老师楷模？"
+    url: "/wiki/sources/zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh/"
   - key: "zizhi-tongjian-hanji-911-gudai-gongwuyuan-ye-neng-bao-fenpei-ls3pxu9xlpuulsdailx8tcoylv9e"
     title: "《资治通鉴·汉纪》911丨古代公务员也能包分配？"
     url: "/wiki/sources/zizhi-tongjian-hanji-911-gudai-gongwuyuan-ye-neng-bao-fenpei-ls3pxu9xlpuulsdailx8tcoylv9e/"
