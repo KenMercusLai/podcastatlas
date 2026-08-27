@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1955
+topic_total_pages: 1956
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3118,6 +3118,9 @@ topic_concepts:
   - key: "SecretMemorialPoliticalIntelligence"
     title: "密折政治情报 / Secret Memorial Political Intelligence"
     url: "/wiki/concepts/secretmemorialpoliticalintelligence/"
+  - key: "ImperialRetinueDiscipline"
+    title: "巡幸随从纪律 / Imperial Retinue Discipline"
+    url: "/wiki/concepts/imperialretinuediscipline/"
   - key: "InstrumentalizedReligiousPower"
     title: "工具化宗教权力 / Instrumentalized Religious Power"
     url: "/wiki/concepts/instrumentalizedreligiouspower/"

@@ -7551,6 +7551,10 @@
     "title": "《不成问题的问题》",
     "url": "/wiki/entities/buchengwentidewenti/"
   },
+  "BuYangLateHan": {
+    "title": "卜阳 / Bu Yang (late Han)",
+    "url": "/wiki/entities/buyanglatehan/"
+  },
   "BubbleFinancingStructure": {
     "title": "Bubble Financing Structure",
     "url": "/wiki/concepts/bubblefinancingstructure/"
@@ -23635,6 +23639,10 @@
     "title": "Imperial Public Rebuttal / 皇帝公开辩驳",
     "url": "/wiki/concepts/imperialpublicrebuttal/"
   },
+  "ImperialRetinueDiscipline": {
+    "title": "巡幸随从纪律 / Imperial Retinue Discipline",
+    "url": "/wiki/concepts/imperialretinuediscipline/"
+  },
   "ImperialRitualDistance": {
     "title": "君臣礼制距离 / Imperial Ritual Distance",
     "url": "/wiki/concepts/imperialritualdistance/"
@@ -36287,6 +36295,10 @@
     "title": "Pan Am",
     "url": "/wiki/entities/panam/"
   },
+  "PanHongLateHan": {
+    "title": "潘鸿 / Pan Hong (late Han)",
+    "url": "/wiki/entities/panhonglatehan/"
+  },
   "PanJinlian": {
     "title": "潘金莲 / Pan Jinlian",
     "url": "/wiki/entities/panjinlian/"
@@ -36402,6 +36414,10 @@
   "ParentalEmbodiedModeling": {
     "title": "Parental Embodied Modeling / 身教型家庭教育",
     "url": "/wiki/concepts/parentalembodiedmodeling/"
+  },
+  "ParentalExpectationShame": {
+    "title": "父母期望羞耻化 / Parental Expectation Shame",
+    "url": "/wiki/concepts/parentalexpectationshame/"
   },
   "ParentalJudgmentOutsourcing": {
     "title": "Parental Judgment Outsourcing",
@@ -45058,6 +45074,10 @@
   "SplitGlobalization": {
     "title": "Split Globalization / 分裂的全球化",
     "url": "/wiki/concepts/splitglobalization/"
+  },
+  "SpoilsLossMobilization": {
+    "title": "战利品损失动员 / Spoils-Loss Mobilization",
+    "url": "/wiki/concepts/spoilslossmobilization/"
   },
   "SpontaneousGenerationLifeOrigin": {
     "title": "Spontaneous Generation As Life-Origin Frame / 自然发生论作为生命起源框架",
@@ -60038,6 +60058,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-863-yi-ba-huo-shaochu-de-zhandouli-ljpfmj8pphunruioce64ywjk7yhb": {
+    "title": "《资治通鉴·汉纪》863丨一把火烧出的“战斗力”",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-863-yi-ba-huo-shaochu-de-zhandouli-ljpfmj8pphunruioce64ywjk7yhb/"
   },
   "zizhi-tongjian-hanji-864-mingchen-zhihou-weihe-cansi-yu-diwang-zhishou-lqwexx6nchx10roxsrvh8c0ktkfq": {
     "title": "《资治通鉴·汉纪》864丨名臣之后为何惨死于帝王之手？",

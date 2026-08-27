@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 5771
+wiki_total_pages: 5774
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1652,6 +1652,9 @@ wiki_pages:
   - key: "StrategicFrontierAbandonment"
     title: "弃边失屏 / Strategic Frontier Abandonment"
     url: "/wiki/concepts/strategicfrontierabandonment/"
+  - key: "SpoilsLossMobilization"
+    title: "战利品损失动员 / Spoils-Loss Mobilization"
+    url: "/wiki/concepts/spoilslossmobilization/"
   - key: "SchoolAreaMemoryEcology"
     title: "放学后记忆生态 / School-Area Memory Ecology"
     url: "/wiki/concepts/schoolareamemoryecology/"

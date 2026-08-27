@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 8001
+wiki_total_pages: 8003
 wiki_pages:
   - key: "BSpecials"
     title: "B Specials"
@@ -848,6 +848,9 @@ wiki_pages:
   - key: "BoJing"
     title: "博靖 / Bo Jing"
     url: "/wiki/entities/bojing/"
+  - key: "BuYangLateHan"
+    title: "卜阳 / Bu Yang (late Han)"
+    url: "/wiki/entities/buyanglatehan/"
   - key: "BianHe"
     title: "卞和 / Bian He"
     url: "/wiki/entities/bianhe/"

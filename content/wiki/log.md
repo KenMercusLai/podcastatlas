@@ -12665,6 +12665,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-28] ingest | 《资治通鉴·汉纪》863丨一把火烧出的“战斗力”
+
+Added source page for a 164 CE Huan-era backfill on Du Shang burning captured spoils to remobilize troops against Bu Yang and Pan Hong, Emperor Huan's southern-tour retinue burden, Hu Teng's Jingzhou discipline proposal, Yang Bing's warning against casual 郎 appointments, and Kou Rong's jealousy prelude before Hanji 864. Created Bu Yang, Pan Hong, Parental Expectation Shame, Spoils-Loss Mobilization, and Imperial Retinue Discipline pages; updated Du Shang, Yang Bing, Kou Rong, Hu Teng, and index. No settled contradiction found; 杜尚 is normalized to the existing 度尚 route, and the parenting opening remains source-scoped.
+
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》867丨无辜被泼脏水？他选择霸气回击
 
 Added source page for the 165 CE late-Han backfill: Chen Qiu's Lingling defense against Zhu Gai and Hu Lan, Du Shang's false report against Zhang Pan, Zhang Pan's refusal to accept amnesty without exoneration, Duan Jiong's Western Qiang victory and title, and Chen Fan's Taiwei appointment and office-yield request. Created Du Shang, Zhang Pan, Zhu Gai, Hu Lan, Pardon Without Exoneration, and Merit-Shielded Accountability; updated Chen Qiu, Duan Jiong, Chen Fan, overview, and index. No settled contradiction found; transcript variants are normalized to existing late-Han routes.
@@ -12752,6 +12756,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》865丨职场BOSS也容易被这种人背刺
 
 Added source page for a 165 CE Huan-era backfill on Yang Bing's impeachment of Hou Can and Hou Lan, the dispute over whether the Three Excellencies can impeach palace eunuchs, the temporary civil-official counterattack against eunuch privilege, and the Deng-Guo harem-rivalry deposition notice. Created Hou Can and Three Excellencies Inner-Court Jurisdiction pages; updated Yang Bing, Hou Lan, Emperor Huan, Empress Deng, Guo Guiren, Eunuch Patronage Violence Shield, index, and overview. No settled contradiction found; Hou Lan's 165 removal is kept as an earlier removal or demotion whose later access/reinstatement path remains unresolved.
+
+## [2026-08-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-28] lint | Wiki health check
 

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5771
+wiki_total_pages: 5774
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1535,6 +1535,9 @@ wiki_pages:
   - key: "PalaceCoupUnderPolicingPretext"
     title: "治安名义政变 / Palace Coup Under Policing Pretext"
     url: "/wiki/concepts/palacecoupunderpolicingpretext/"
+  - key: "ParentalExpectationShame"
+    title: "父母期望羞耻化 / Parental Expectation Shame"
+    url: "/wiki/concepts/parentalexpectationshame/"
   - key: "PhysiognomicInvestmentJudgment"
     title: "看相式政治投资 / Physiognomic Investment Judgment"
     url: "/wiki/concepts/physiognomicinvestmentjudgment/"
