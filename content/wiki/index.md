@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Essentials: How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried](sources/essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929.md) — Huberman Lab Essentials episode with Sara Gottfried on female hormone phenotyping, PCOS cardiometabolic risk, oral contraceptive informed consent, perimenopause brain metabolism, and coronary artery calcium screening.
 - [Neuroscience of Emotions & Tools for Improving Emotion Regulation | Dr. Ralph Adolphs](sources/neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716.md) — Huberman Lab episode with Ralph Adolphs on emotions as functional control states, regulation, amygdala fear dissociation, social inference limits, body mapping, and task switching.
 - [VOL.219视频播客｜当代年轻人腰突自救指南：骨科医生交底，别把你的腰当消耗品！](sources/vol-219-shipin-boke-dangdai-nianqingren-yaotu-zijiu-zhinan-guke-yisheng-jiaodi-bieba-nide-yao-dang-xiaohaopin-lkvjq45dukdjpesxikwec0zrglmg.md) — 这病说来话长 episode with 马浩宁 on lumbar disc herniation, imaging-versus-symptom interpretation, surgery thresholds, rehabilitation pacing, neutral lumbar position, and daily movement mechanics.
 - [Essentials: How to Access Your Creativity | Rick Rubin](sources/essentials-how-to-access-your-creativity-rick-rubin-scim7816635332.md) — Huberman Lab Essentials episode with Rick Rubin on creativity as felt process, attention shifts, feedback boundaries, creative phases, finishing, self-doubt, and meditation.
@@ -1580,6 +1581,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Sara Gottfried](entities/SaraGottfried.md) — Physician and Huberman Lab guest explaining female hormone phenotyping, PCOS risk, contraception tradeoffs, perimenopause brain metabolism, and midlife screening.
+- [Lisa Mosconi](entities/LisaMosconi.md) — Researcher cited in the Gottfried episode for menopause-transition brain metabolism work.
 - [Ralph Adolphs](entities/RalphAdolphs.md) — Caltech neuroscientist and Huberman Lab guest explaining emotions as functional control states, social perception, and regulation.
 - [Caltech](entities/Caltech.md) — Institutional context for Ralph Adolphs' emotion-neuroscience research in the Huberman Lab episode.
 - [David Anderson](entities/DavidAnderson.md) — Collaborator reference for the functional emotion framework discussed by Ralph Adolphs.
@@ -1598,8 +1601,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Darcy (Raised Nutrition)](entities/DarcyRaisedNutrition.md) — Raised Nutrition founder-caller asking whether a niche athletic origin story limits broader wellness appeal.
 - [Cooks Who Feed](entities/CooksWhoFeed.md) — Social-enterprise kitchen-linen company advised to use low-risk B2B trials, referrals, and client-centered impact storytelling.
 - [Seema Sanghavi](entities/SeemaSanghavi.md) — Cooks Who Feed founder-caller focused on convincing B2B buyers to switch vendors.
-- [Huberman Lab](entities/HubermanLab.md) — Show context for episodes on nutrition, mental health, motivation, attention neuroscience, creativity process, emotion science, and regulation.
-- [Andrew Huberman](entities/AndrewHuberman.md) — Host framing guest discussions on nutrition, mental health, motivation, attention, creativity, emotion science, and practical neuroscience.
+- [Huberman Lab](entities/HubermanLab.md) — Show context for episodes on nutrition, mental health, motivation, attention neuroscience, creativity process, emotion science, regulation, and female hormone health.
+- [Andrew Huberman](entities/AndrewHuberman.md) — Host framing guest discussions on nutrition, mental health, motivation, attention, creativity, emotion science, female hormone health, and practical neuroscience.
 - [Masud Husain](entities/MasudHusain.md) — Neuroscience and neurology guest explaining motivation, apathy, dopamine, attention, selfhood, and cognitive resilience.
 - [Chris Palmer](entities/ChrisPalmer.md) — Psychiatrist grounding the episode's metabolic psychiatry, ketogenic diet, and mitochondrial mental-health claims.
 - [Russell Wilder](entities/RussellWilder.md) — Mayo Clinic physician named as the 1921 developer of the ketogenic diet for epilepsy.
@@ -9541,6 +9544,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Female Hormone Health Phenotyping](concepts/FemaleHormoneHealthPhenotyping.md) — Individualized women-health frame joining family history, stress, hormones, thyroid, micronutrients, gut function, insulin, glucose, symptoms, and life stage.
+- [PCOS Cardiometabolic Risk](concepts/PCOSCardiometabolicRisk.md) — Frame treating PCOS as a lifetime metabolic and cardiovascular risk signal, not only a reproductive or fertility issue.
+- [Oral Contraceptive Informed Consent](concepts/OralContraceptiveInformedConsent.md) — Risk-benefit frame for discussing oral contraceptive benefits, hormone effects, micronutrients, microbiome, SHBG, free testosterone, and sexual side effects.
+- [Perimenopause Brain Metabolism](concepts/PerimenopauseBrainMetabolism.md) — Source-scoped claim linking estrogen decline through perimenopause to brain-energy changes, brain fog, hot flashes, night sweats, and cardiometabolic risk.
+- [Coronary Artery Calcium Midlife Screening](concepts/CoronaryArteryCalciumMidlifeScreening.md) — Women-health prevention frame for using CAC score around midlife to stratify cardiometabolic risk.
 - [Emotions as Functional Control States](concepts/EmotionsAsFunctionalControlStates.md) — Ralph Adolphs' frame for defining emotions by behavioral function rather than one brain region or only conscious feeling.
 - [Emotional Granularity](concepts/EmotionalGranularity.md) — Ability to differentiate one's own emotional states finely enough to support regulation.
 - [Cognitive Reappraisal Early Intervention](concepts/CognitiveReappraisalEarlyIntervention.md) — Regulation strategy of reframing or redesigning situations before attention turns emotion into rumination.
@@ -10843,8 +10851,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Store-Within-Store Foodservice / 餐饮店中店](concepts/StoreWithinStoreFoodservice.md) — Restaurant-chain format that tests new categories inside existing kitchens, labor, rent, and traffic flows.
 - [Morning Audio Ritual / 早间音频仪式](concepts/MorningAudioRitual.md) — Use of short, repeatable listening to help move from waking into the workday through information, mood, wakefulness, and planning.
 - [Short-Form Business-Tech Audio / 短时长商业科技音频](concepts/ShortFormBusinessTechAudio.md) — Compressed business-and-technology news format designed for narrow morning listening windows and fixed release cadence.
-- [Menopause Clinical Shared Decision-Making / 更年期临床共同决策](concepts/MenopauseClinicalSharedDecision.md) — Menopause-care frame where patients prepare symptoms, priorities, constraints, and goals for risk-benefit discussion with clinicians.
-- [Menopause Information Triage / 更年期信息辨别](concepts/MenopauseInformationTriage.md) — Health-literacy practice for filtering menopause books, social-media claims, products, and treatment messages against evidence and clinical context.
+- [Menopause Clinical Shared Decision-Making / 更年期临床共同决策](concepts/MenopauseClinicalSharedDecision.md) — Menopause-care frame where patients bring symptoms, priorities, constraints, biomarkers, and midlife risk questions into clinician-guided decisions.
+- [Menopause Information Triage / 更年期信息辨别](concepts/MenopauseInformationTriage.md) — Health-literacy practice for filtering menopause, hormone, contraception, testing, product, and treatment claims against evidence and clinical context.
 - [Menopause Life Reconstruction / 更年期生活重构](concepts/MenopauseLifeReconstruction.md) — Frame where menopause becomes a coordinated life transition across medicine, habits, family, work, aging, and self-priority.
 - [Menopause Family Support / 更年期家庭支持](concepts/MenopauseFamilySupport.md) — Relationship and household-support frame for naming needs, redistributing labor, and treating menopause as more than a private symptom burden.
 - [Male Menopause Visibility / 男性更年期可见性](concepts/MaleMenopauseVisibility.md) — Male midlife-health frame that names gradual symptoms while resisting testosterone and virility marketing shortcuts.
@@ -11141,7 +11149,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [New Lab Organization](concepts/NewLabOrganization.md) — Hybrid AI research-company form for risky directions such as AI for AI, world models, and AI for Science before mature product proof.
 - [Age-Adjusted Dementia Decline](concepts/AgeAdjustedDementiaDecline.md) — Distinction between rising total dementia burden and falling same-age dementia risk in rich countries.
 - [Modifiable Dementia Risk Factors](concepts/ModifiableDementiaRiskFactors.md) — Prevention frame connecting dementia risk to cardiovascular health, smoking, obesity, hearing loss, depression, education, and other practical interventions.
-- [Cardiovascular-Brain Health Link](concepts/CardiovascularBrainHealthLink.md) — Finnish public-health pattern linking heart-disease prevention to lower dementia risk.
+- [Cardiovascular-Brain Health Link](concepts/CardiovascularBrainHealthLink.md) — Prevention frame linking cardiovascular and metabolic risk management to dementia risk, perimenopause symptoms, and brain-health outcomes.
 - [Shingles Vaccine Dementia Signal](concepts/ShinglesVaccineDementiaSignal.md) — Natural-experiment signal that shingles vaccination may reduce later dementia risk, warranting more prevention research.
 - [APOE4 Dementia Risk](concepts/APOE4DementiaRisk.md) — Genetic-risk frame showing APOE4 raises dementia risk without determining individual outcome.
 - [Amyloid Hypothesis Uncertainty](concepts/AmyloidHypothesisUncertainty.md) — Dementia mechanism caution around whether amyloid/protein tangles are cause, symptom, or part of a more complex process.
@@ -13047,7 +13055,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Crisis-Forced Vertical Integration](concepts/CrisisForcedVerticalIntegration.md) — Pattern where supplier withdrawal forces a hard-tech startup to own a critical subsystem it previously hoped to outsource.
 - [Hard-Tech Customer Intent Proof](concepts/HardTechCustomerIntentProof.md) — Use of credible customer commitments, public support, or operational willingness as traction evidence before hard-tech revenue exists.
 - [Recursive Expert Recruiting](concepts/RecursiveExpertRecruiting.md) — Recruiting method of asking each expert for the best next experts until a founder maps a difficult technical field and builds a credible team.
-- [Women's Health Diagnostic Gap](concepts/WomensHealthDiagnosticGap.md) — Pattern where reproductive-health problems have symptoms and clinical concern but lack safe, validated, and well-funded diagnostic pathways.
+- [Women's Health Diagnostic Gap](concepts/WomensHealthDiagnosticGap.md) — Pattern where reproductive and hormone-health symptoms or clinical concern lack safe, validated, well-funded, and well-communicated diagnostic pathways.
 - [Ovarian Cancer Diagnostics](concepts/OvarianCancerDiagnostics.md) — Diagnostic problem from Surbhi Sarna's episode around safely detecting ovarian cancer when blood tests, biopsy, and late presentation leave gaps.
 - [Fallopian Tube Access Diagnostics](concepts/FallopianTubeAccessDiagnostics.md) — nVision Medical thesis that ovarian-cancer detection may improve by reaching the fallopian tube without surgery and collecting relevant cells.
 - [Physician-Led Medical Device Design](concepts/PhysicianLedMedicalDeviceDesign.md) — Medical-device discovery pattern where physician workflow, ergonomics, and safety feedback become product requirements before the device is locked.
@@ -14532,7 +14540,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI Literacy Against Worship](concepts/AILiteracyAgainstWorship.md) — Public AI education frame focused on limits, incentives, attention, language, labor context, and agency before tool training.
 - [Personal Health Data](concepts/PersonalHealthData.md) — Longitudinal health records, reports, wearable signals, and context treated as a durable AI-era personal asset.
 - [AI Health Management](concepts/AIHealthManagement.md) — Doctor-supervised use of AI to read long-term personal data, flag trends, review patient AI outputs, and support prevention without replacing diagnosis or treatment.
-- [Continuous Glucose Monitoring](concepts/ContinuousGlucoseMonitoring.md) — CGM device/data category used to read glucose curves and risk trends rather than isolated diagnostic points.
+- [Continuous Glucose Monitoring](concepts/ContinuousGlucoseMonitoring.md) — CGM device/data category used to read glucose curves, meal responses, PCOS risk context, and metabolic trends rather than isolated diagnostic points.
 - [Distribution-Out Personal Strategy](concepts/DistributionOutPersonalStrategy.md) — AI-era education and career strategy of building distinctive capability outside standardized statistical-center tasks.
 - [Model As Operating System](concepts/ModelAsOperatingSystem.md) — Thesis that frontier models may become platform infrastructure for agents, applications, work, research, and ecosystem control.
 - [AGI Three Acts](concepts/AGIThreeActs.md) — Route map from chatbots to coding agents to automated AI researchers, treating coding as the second act of AGI.

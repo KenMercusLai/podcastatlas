@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "9bc5958f730904d72bc7aba2e5ee0d0c5cd364d33313bfe06eab996c379d1d9b",
       "c1a617b2fa199d8ee7c282e4a84aff4889def901c253e2dd2a0ecd8348e77457",
       "7525505025c7a4d624db19ad8a83c980734556add4d75c88012eca92f6824639",
       "55ee27c69a1aaba7905e516e967f339d6d585001d2b1381833fcb575cdb365df",
@@ -304,11 +305,43 @@
       "16d531495e2a6294ae198d0b95a352e519f488fcca1dbdae1f416758d1cfa576",
       "a9fec3ceb1b343b1fafeebc9ab2903b46238a861f9aaafd9d15b1460340a08b5"
     ],
-    "paragraph_count": 302
+    "paragraph_count": 303
   },
-  "overview_commit": "56d7e4c30374c06d260ef920228bd7bb6d591d8a",
-  "overview_digest": "4c7a63d7383f56a7ce503679704401cf70702ac0206e5cdf92387480ac46452d",
+  "overview_commit": "4e8aa85810b22a108cbf0fb34c3bec7ea2a9cb86",
+  "overview_digest": "014b25863e8a44f57c0f48cf8a417f433379b5b0058635a7508fe16c5ac84644",
   "paragraphs": [
+    {
+      "id": "9bc5958f730904d72bc7aba2e5ee0d0c5cd364d33313bfe06eab996c379d1d9b",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [
+        "science-health-and-climate",
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929|Essentials: How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried]], a [[HubermanLab]] Essentials episode with [[AndrewHuberman]] and [[SaraGottfried]] on female hormone health across adolescence, reproductive adulthood, contraception, PCOS, perimenopause, and midlife cardiometabolic risk. It adds [[SaraGottfried]], [[LisaMosconi]], [[FemaleHormoneHealthPhenotyping]], [[PCOSCardiometabolicRisk]], [[OralContraceptiveInformedConsent]], [[PerimenopauseBrainMetabolism]], and [[CoronaryArteryCalciumMidlifeScreening]], while extending [[HubermanLab]], [[AndrewHuberman]], [[WomensHealthDiagnosticGap]], [[MenopauseClinicalSharedDecision]], [[MenopauseInformationTriage]], [[ContinuousGlucoseMonitoring]], and [[CardiovascularBrainHealthLink]]. Its core synthesis is that women's hormone health is best read as a life-course phenotype shaped by family history, trauma, stress physiology, sex hormones, thyroid, gut function, micronutrients, insulin, glucose, symptoms, and reproductive history rather than a single protocol. No settled contradiction is recorded; oral contraceptive, testing, chronic-cardio, hormone-therapy, CGM, and coronary-calcium claims remain source-scoped and clinically individualized.",
+      "topic_scores": {
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1,
+        "science-health-and-climate": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AndrewHuberman",
+        "CardiovascularBrainHealthLink",
+        "ContinuousGlucoseMonitoring",
+        "CoronaryArteryCalciumMidlifeScreening",
+        "FemaleHormoneHealthPhenotyping",
+        "HubermanLab",
+        "LisaMosconi",
+        "MenopauseClinicalSharedDecision",
+        "MenopauseInformationTriage",
+        "OralContraceptiveInformedConsent",
+        "PCOSCardiometabolicRisk",
+        "PerimenopauseBrainMetabolism",
+        "SaraGottfried",
+        "WomensHealthDiagnosticGap",
+        "essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929"
+      ]
+    },
     {
       "id": "c1a617b2fa199d8ee7c282e4a84aff4889def901c253e2dd2a0ecd8348e77457",
       "primary_topic": "psychology-and-personal-development",

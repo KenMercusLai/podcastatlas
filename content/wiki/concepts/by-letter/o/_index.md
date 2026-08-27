@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 5707
+wiki_total_pages: 5712
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -344,6 +344,9 @@ wiki_pages:
   - key: "OracleBoneDivination"
     title: "Oracle-Bone Divination / 甲骨占卜"
     url: "/wiki/concepts/oraclebonedivination/"
+  - key: "OralContraceptiveInformedConsent"
+    title: "Oral Contraceptive Informed Consent"
+    url: "/wiki/concepts/oralcontraceptiveinformedconsent/"
   - key: "OralEpicRepetition"
     title: "Oral Epic Repetition"
     url: "/wiki/concepts/oralepicrepetition/"

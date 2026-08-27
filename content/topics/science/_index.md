@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 780
+topic_total_pages: 783
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1658,6 +1658,9 @@ topic_entities:
   - key: "LeonFestinger"
     title: "Leon Festinger / 利昂·费斯廷格"
     url: "/wiki/entities/leonfestinger/"
+  - key: "LisaMosconi"
+    title: "Lisa Mosconi"
+    url: "/wiki/entities/lisamosconi/"
   - key: "LongNow"
     title: "Long Now"
     url: "/wiki/entities/longnow/"
@@ -1823,6 +1826,9 @@ topic_entities:
   - key: "SadiaPekkanen"
     title: "Sadia Pekkanen"
     url: "/wiki/entities/sadiapekkanen/"
+  - key: "SaraGottfried"
+    title: "Sara Gottfried"
+    url: "/wiki/entities/saragottfried/"
   - key: "SarahWu"
     title: "Sarah Wu"
     url: "/wiki/entities/sarahwu/"
@@ -2271,6 +2277,9 @@ topic_sources:
   - key: "essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786"
     title: "Essentials: Diet & Nutrition for Mental Health | Dr. Chris Palmer"
     url: "/wiki/sources/essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786/"
+  - key: "essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929"
+    title: "Essentials: How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried"
+    url: "/wiki/sources/essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929/"
   - key: "fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd"
     title: "Fear-jerker: America's AI backlash"
     url: "/wiki/sources/fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd/"

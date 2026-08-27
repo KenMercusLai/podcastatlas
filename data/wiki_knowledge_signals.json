@@ -1099,9 +1099,9 @@
       "url": "/wiki/concepts/analogmoviegoingexperience/"
     },
     "AndrewHuberman": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -1130,6 +1130,13 @@
           "show": "Huberman Lab",
           "title": "Neuroscience of Emotions & Tools for Improving Emotion Regulation | Dr. Ralph Adolphs",
           "url": "/wiki/sources/neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716/"
+        },
+        {
+          "episode_file": "SCIM5131677929 [SCIM5131677929].md",
+          "key": "essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried",
+          "url": "/wiki/sources/essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929/"
         }
       ],
       "updated": "2026-08-27",
@@ -2335,6 +2342,29 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/carbohydraterestrictionmentalhealth/"
     },
+    "CardiovascularBrainHealthLink": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Working memory： the surprising decline of dementia [6a6b0eeca585d3be78cd9d1b].md",
+          "key": "working-memory-the-surprising-decline-of-dementia-6a6b0eeca585d3be78cd9d1b",
+          "show": "Economist Podcasts",
+          "title": "Working memory: the surprising decline of dementia",
+          "url": "/wiki/sources/working-memory-the-surprising-decline-of-dementia-6a6b0eeca585d3be78cd9d1b/"
+        },
+        {
+          "episode_file": "SCIM5131677929 [SCIM5131677929].md",
+          "key": "essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried",
+          "url": "/wiki/sources/essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/cardiovascularbrainhealthlink/"
+    },
     "CareerCognitionEducation": {
       "episode_count": 2,
       "show_count": 1,
@@ -3081,6 +3111,29 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/consumerdatadeletion/"
     },
+    "ContinuousGlucoseMonitoring": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "把身体数据存起来，可能是普通人最划算的 AI 投资 ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [把身体数据存起来，可能是普通人最划算的-ai-投资-1].md",
+          "key": "ba-shenti-shuju-cunqilai-keneng-shi-putongren-zui-huasuan-de-ai-touzi-1",
+          "show": "科技乱炖",
+          "title": "把身体数据存起来，可能是普通人最划算的 AI 投资",
+          "url": "/wiki/sources/ba-shenti-shuju-cunqilai-keneng-shi-putongren-zui-huasuan-de-ai-touzi-1/"
+        },
+        {
+          "episode_file": "SCIM5131677929 [SCIM5131677929].md",
+          "key": "essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried",
+          "url": "/wiki/sources/essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/continuousglucosemonitoring/"
+    },
     "ControllableChildAccession": {
       "episode_count": 1,
       "show_count": 1,
@@ -3112,6 +3165,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/cookswhofeed/"
+    },
+    "CoronaryArteryCalciumMidlifeScreening": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5131677929 [SCIM5131677929].md",
+          "key": "essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried",
+          "url": "/wiki/sources/essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/coronaryarterycalciummidlifescreening/"
     },
     "CounterinsurgencyLegitimacyTrap": {
       "episode_count": 2,
@@ -4845,6 +4914,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/federalresearchfundingpoliticalrisk/"
+    },
+    "FemaleHormoneHealthPhenotyping": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5131677929 [SCIM5131677929].md",
+          "key": "essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried",
+          "url": "/wiki/sources/essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/femalehormonehealthphenotyping/"
     },
     "FemaleReligiousLifeSpace": {
       "episode_count": 1,
@@ -6645,9 +6730,9 @@
       "url": "/wiki/concepts/huaweismartselectioncarmodel/"
     },
     "HubermanLab": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -6676,6 +6761,13 @@
           "show": "Huberman Lab",
           "title": "Neuroscience of Emotions & Tools for Improving Emotion Regulation | Dr. Ralph Adolphs",
           "url": "/wiki/sources/neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716/"
+        },
+        {
+          "episode_file": "SCIM5131677929 [SCIM5131677929].md",
+          "key": "essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried",
+          "url": "/wiki/sources/essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929/"
         }
       ],
       "updated": "2026-08-27",
@@ -8491,6 +8583,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/linkedin/"
     },
+    "LisaMosconi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5131677929 [SCIM5131677929].md",
+          "key": "essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried",
+          "url": "/wiki/sources/essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/lisamosconi/"
+    },
     "LiuBiao": {
       "episode_count": 13,
       "show_count": 1,
@@ -9802,6 +9910,52 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/mengyan/"
     },
+    "MenopauseClinicalSharedDecision": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "EP274 如何找到适合自己的“更年期答案”？ [li2BP1rTITdNVc04rMIZyfg1tXfH].md",
+          "key": "ep274-ruhe-zhaodao-shihe-ziji-de-gengnianqi-daan-li2bp1rtitdnvc04rmizyfg1txfh",
+          "show": "Talk三联",
+          "title": "EP274 如何找到适合自己的“更年期答案”？",
+          "url": "/wiki/sources/ep274-ruhe-zhaodao-shihe-ziji-de-gengnianqi-daan-li2bp1rtitdnvc04rmizyfg1txfh/"
+        },
+        {
+          "episode_file": "SCIM5131677929 [SCIM5131677929].md",
+          "key": "essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried",
+          "url": "/wiki/sources/essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/menopauseclinicalshareddecision/"
+    },
+    "MenopauseInformationTriage": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "EP274 如何找到适合自己的“更年期答案”？ [li2BP1rTITdNVc04rMIZyfg1tXfH].md",
+          "key": "ep274-ruhe-zhaodao-shihe-ziji-de-gengnianqi-daan-li2bp1rtitdnvc04rmizyfg1txfh",
+          "show": "Talk三联",
+          "title": "EP274 如何找到适合自己的“更年期答案”？",
+          "url": "/wiki/sources/ep274-ruhe-zhaodao-shihe-ziji-de-gengnianqi-daan-li2bp1rtitdnvc04rmizyfg1txfh/"
+        },
+        {
+          "episode_file": "SCIM5131677929 [SCIM5131677929].md",
+          "key": "essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried",
+          "url": "/wiki/sources/essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/menopauseinformationtriage/"
+    },
     "MentalizingProjection": {
       "episode_count": 1,
       "show_count": 1,
@@ -10961,6 +11115,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/opensourcerobotplatformstrategy/"
     },
+    "OralContraceptiveInformedConsent": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5131677929 [SCIM5131677929].md",
+          "key": "essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried",
+          "url": "/wiki/sources/essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/oralcontraceptiveinformedconsent/"
+    },
     "OralHistoryMemoryAnalysis": {
       "episode_count": 1,
       "show_count": 1,
@@ -11024,6 +11194,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/outdoorvehiclelifestyledesign/"
+    },
+    "PCOSCardiometabolicRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5131677929 [SCIM5131677929].md",
+          "key": "essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried",
+          "url": "/wiki/sources/essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/pcoscardiometabolicrisk/"
     },
     "PackagedWaterPriceWar": {
       "episode_count": 1,
@@ -11260,6 +11446,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/pengleihuawei/"
+    },
+    "PerimenopauseBrainMetabolism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5131677929 [SCIM5131677929].md",
+          "key": "essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried",
+          "url": "/wiki/sources/essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/perimenopausebrainmetabolism/"
     },
     "PerplexityComputer": {
       "episode_count": 1,
@@ -12468,6 +12670,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/santaizicatholicvillage/"
+    },
+    "SaraGottfried": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5131677929 [SCIM5131677929].md",
+          "key": "essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried",
+          "url": "/wiki/sources/essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/saragottfried/"
     },
     "SavilleInquiry": {
       "episode_count": 1,
@@ -14979,6 +15197,29 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/womensfootballvisibility/"
+    },
+    "WomensHealthDiagnosticGap": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "TSR-S4-SurbhiSarna-v3 [TSR-S4-SurbhiSarna-v3].md",
+          "key": "tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3",
+          "show": "The Social Radars",
+          "title": "Surbhi Sarna, Founder of nVision Medical",
+          "url": "/wiki/sources/tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3/"
+        },
+        {
+          "episode_file": "SCIM5131677929 [SCIM5131677929].md",
+          "key": "essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried",
+          "url": "/wiki/sources/essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/womenshealthdiagnosticgap/"
     },
     "WuCommanderyLateHan": {
       "episode_count": 1,

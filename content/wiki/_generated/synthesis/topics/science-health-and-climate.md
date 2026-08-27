@@ -4,15 +4,15 @@ generated: true
 topic_id: science-health-and-climate
 title: "Science, Health, and Climate"
 last_updated: 2026-08-27
-as_of_overview_commit: a6c7456143a8fd3f11a18a0c7fef5affd21e7ee6
-input_digest: 4a48acf88f961a9110b02e38c195509db522e7c83afc534e97df1df0cc713c14
+as_of_overview_commit: 4e8aa85810b22a108cbf0fb34c3bec7ea2a9cb86
+input_digest: e7743baea9761ab9e1991e7011ef91358a51b0359e9a9e357ca338bad12fb78c
 ---
 
 # Science, Health, and Climate
 
 ## Current State
 
-Science, health, climate, and space-engineering claims become credible when evidence, physical constraints, regulation, implementation cost, clinical context, and operational follow-through stay visible. The topic now includes metabolic psychiatry, spine care, medical privacy AI, Wudang medicine and cultivation, science policy, space launch infrastructure, reusable rockets, climate adaptation and carbon removal, evidence-bound dinosaur reconstruction, insurance risk planning, and individualized cancer vaccines. Across these branches, the wiki treats promising interventions as bounded by diagnosis, verification, recurrence or failure modes, institutional trust, affordability, and quality-of-life judgment rather than by headline labels alone.
+Science, health, climate, and space-engineering claims become credible when evidence, physical constraints, regulation, implementation cost, clinical context, and operational follow-through stay visible. The topic now includes female hormone health as life-course phenotyping: family history, trauma, cortisol, sex hormones, thyroid, micronutrients, gut function, insulin, glucose, PCOS, contraception, perimenopause, CGM data, and coronary artery calcium scoring are treated as individualized clinical context rather than a universal protocol. Other branches cover metabolic psychiatry, spine care, medical privacy AI, Wudang medicine and cultivation, science policy, space launch infrastructure, reusable rockets, climate adaptation and carbon removal, evidence-bound dinosaur reconstruction, insurance risk planning, and individualized cancer vaccines. Across these branches, the wiki treats promising interventions as bounded by diagnosis, verification, recurrence or failure modes, institutional trust, affordability, and quality-of-life judgment rather than by headline labels alone.
 
 ## Cross-source Findings
 
@@ -26,6 +26,17 @@ Science, health, climate, and space-engineering claims become credible when evid
 
 - The source reports clinical cases, personal experience, epilepsy precedent, and mitochondrial mechanism rather than completed large randomized psychiatric trials.
 - Severe disorders, medication changes, and high-ketosis psychiatric interventions remain medically supervised rather than general self-care advice.
+
+### Female Hormone Health Needs Life Course Phenotyping
+
+[[FemaleHormoneHealthPhenotyping]] extends the health topic by treating women's hormone health as a life-course phenotype: [[SaraGottfried]] links family history, trauma, cortisol, sex hormones, thyroid, micronutrients, gut function, insulin, glucose, cycle and life-stage timing, [[PCOSCardiometabolicRisk]], [[OralContraceptiveInformedConsent]], [[PerimenopauseBrainMetabolism]], [[ContinuousGlucoseMonitoring]], and [[CoronaryArteryCalciumMidlifeScreening]] into individualized measurement rather than a universal protocol.
+
+**Evidence:** [[FemaleHormoneHealthPhenotyping]], [[SaraGottfried]], [[PCOSCardiometabolicRisk]], [[OralContraceptiveInformedConsent]], [[PerimenopauseBrainMetabolism]], [[ContinuousGlucoseMonitoring]], [[CoronaryArteryCalciumMidlifeScreening]], [[WomensHealthDiagnosticGap]], [[MenopauseClinicalSharedDecision]], [[MenopauseInformationTriage]], [[essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929]]
+
+**Qualifications:**
+
+- The episode is medical education, not individualized care; testing, CGM use, hormone therapy, chronic-cardio advice, CAC timing, and oral-contraceptive choices remain clinician-contextual.
+- Several claims are source-scoped to Gottfried's interpretation or cited research, including dried urine testing preference, perimenopause brain-metabolism decline, micronutrient effects, and clitoral or sexual side-effect reversibility.
 
 ### Lumbar Disc Care Is Symptom And Context Driven
 

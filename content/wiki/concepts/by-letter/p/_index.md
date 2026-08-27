@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5707
+wiki_total_pages: 5712
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -218,6 +218,9 @@ wiki_pages:
   - key: "PayrollInfrastructureTrust"
     title: "Payroll Infrastructure Trust"
     url: "/wiki/concepts/payrollinfrastructuretrust/"
+  - key: "PCOSCardiometabolicRisk"
+    title: "PCOS Cardiometabolic Risk"
+    url: "/wiki/concepts/pcoscardiometabolicrisk/"
   - key: "PD1MarketSaturation"
     title: "PD-1 Market Saturation"
     url: "/wiki/concepts/pd1marketsaturation/"
@@ -275,6 +278,9 @@ wiki_pages:
   - key: "PerformativeEnforcementAccountability"
     title: "Performative Enforcement Accountability"
     url: "/wiki/concepts/performativeenforcementaccountability/"
+  - key: "PerimenopauseBrainMetabolism"
+    title: "Perimenopause Brain Metabolism"
+    url: "/wiki/concepts/perimenopausebrainmetabolism/"
   - key: "PeriodPoverty"
     title: "Period Poverty"
     url: "/wiki/concepts/periodpoverty/"

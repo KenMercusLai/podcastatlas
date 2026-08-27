@@ -12174,6 +12174,10 @@ Added source page for The Rest Is History episode on Crown Prince Rudolf, Mary V
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-27] ingest | Essentials: How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried
+
+Added source page for a Huberman Lab Essentials episode with Sara Gottfried on female hormone health across life stages, hormone and micronutrient baselines, PCOS cardiometabolic risk, CGMs and insulin, oral contraceptive benefits and side effects, perimenopause brain metabolism, and coronary artery calcium screening. Created Sara Gottfried, Lisa Mosconi, Female Hormone Health Phenotyping, PCOS Cardiometabolic Risk, Oral Contraceptive Informed Consent, Perimenopause Brain Metabolism, and Coronary Artery Calcium Midlife Screening pages; migrated Women's Health Diagnostic Gap, Menopause Clinical Shared Decision-Making, Menopause Information Triage, Continuous Glucose Monitoring, and Cardiovascular-Brain Health Link to synthesis-v1; updated Huberman Lab, Andrew Huberman, index, and overview. No settled contradiction found; oral contraceptive, testing, hormone-therapy, chronic-cardio, CGM, and coronary-calcium claims remain source-scoped and clinically individualized.
+
 ## [2026-08-27] ingest | Essentials: How to Access Your Creativity | Rick Rubin
 
 Added source page for a Huberman Lab Essentials episode with Rick Rubin on creativity as felt process, attention aperture shifts, external feedback boundaries, creative phase separation, focus-and-disengagement, self-doubt, and meditation. Created Creativity as Felt Process, Creative Aperture Shift, Artistic Feedback Boundary, Creative Phase Separation, Subconscious Creative Incubation, Self-Doubt as Creative Check, and Awareness Meditation Story Dropping pages; migrated Rick Rubin to synthesis-v1 and extended Huberman Lab and Andrew Huberman. No settled contradiction found; creativity-process, subconscious-work, meditation, live-performance, and surgery-healing claims remain source-scoped.
@@ -12610,3 +12614,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran health, identity validation, and lint. Health scanned 15,245 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-22 with 12,882 nodes and 149,964 edges while the current lint scan covered 15,245 pages, so fragile-bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest`; report returned in-session and `wiki/lint-report.md` was not updated.

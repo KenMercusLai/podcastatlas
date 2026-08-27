@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 7957
+wiki_total_pages: 7959
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -149,6 +149,9 @@ wiki_pages:
   - key: "SapnaMaheshwari"
     title: "Sapna Maheshwari"
     url: "/wiki/entities/sapnamaheshwari/"
+  - key: "SaraGottfried"
+    title: "Sara Gottfried"
+    url: "/wiki/entities/saragottfried/"
   - key: "SarahBRogers"
     title: "Sarah B. Rogers"
     url: "/wiki/entities/sarahbrogers/"

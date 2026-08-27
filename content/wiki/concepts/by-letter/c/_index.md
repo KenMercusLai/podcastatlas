@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 5707
+wiki_total_pages: 5712
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1355,6 +1355,9 @@ wiki_pages:
   - key: "CoreTribePositioning"
     title: "Core Tribe Positioning"
     url: "/wiki/concepts/coretribepositioning/"
+  - key: "CoronaryArteryCalciumMidlifeScreening"
+    title: "Coronary Artery Calcium Midlife Screening"
+    url: "/wiki/concepts/coronaryarterycalciummidlifescreening/"
   - key: "CorporateComplicityWithAuthoritarianism"
     title: "Corporate Complicity With Authoritarianism / 企业对威权的共谋"
     url: "/wiki/concepts/corporatecomplicitywithauthoritarianism/"

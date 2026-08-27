@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 7957
+wiki_total_pages: 7959
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -365,6 +365,9 @@ wiki_pages:
   - key: "LisaKSolomon"
     title: "Lisa K. Solomon"
     url: "/wiki/entities/lisaksolomon/"
+  - key: "LisaMosconi"
+    title: "Lisa Mosconi"
+    url: "/wiki/entities/lisamosconi/"
   - key: "Lithuania"
     title: "Lithuania"
     url: "/wiki/entities/lithuania/"
