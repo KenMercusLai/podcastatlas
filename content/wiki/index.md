@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》860丨惊为天人！东汉郭泰有多神？](sources/zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv.md) — 芮淇讲透资治通鉴 episode on Guo Tai's public emergence through Huang Qiong's funeral, Xu Zhi's selective speech, Fu Rong's introduction to Li Ying, Luoyang fame, and Mao Rong's filial virtue.
 - [《资治通鉴·汉纪》861丨什么样的人堪称老师楷模？](sources/zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh.md) — 芮淇讲透资治通鉴 episode on Guo Tai as a teacher-model who recognizes Meng Min, Shentu Pan, and Yu Cheng, tests Wei Zhao, redirects Zuo Yuan, refuses office, and accepts Xu Zhi's caution.
 - [《资治通鉴·汉纪》862丨他因一句话休妻，最终身败名裂](sources/zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq.md) — 芮淇讲透资治通鉴 episode on Huang Yun's talent-reputation collapse, Jin Wenjing's fatal accommodation, Fu Rong's correction of status-filtered judgment, Qiu Xiang's non-punitive correction of Chen Yuan, and Wang Huan's rough but useful enforcement profile.
 - [《资治通鉴·汉纪》863丨一把火烧出的“战斗力”](sources/zizhi-tongjian-hanji-863-yi-ba-huo-shaochu-de-zhandouli-ljpfmj8pphunruioce64ywjk7yhb.md) — 芮淇讲透资治通鉴 episode on Du Shang burning captured spoils to remobilize troops against Bu Yang and Pan Hong, Huan's southern-tour retinue discipline, Yang Bing's appointment warning, and Kou Rong's jealousy prelude before Hanji 864.
@@ -1602,9 +1603,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [黄琼 / Huang Qiong (late Han)](entities/HuangQiongLateHan.md) — Late-Han official whose 164 CE funeral reveals Xu Zhi's selective mourning and sets up Guo Tai's character interpretation.
+- [茅容 / Mao Rong (late Han)](entities/MaoRongLateHan.md) — Filial late-Han figure whose Xu Zhi exchange, rain-shelter posture, and household food allocation become evidence for Guo Tai's people judgment.
 - [黄允 / Huang Yun (late Han)](entities/HuangYunLateHan.md) — Talented but conduct-fragile Huan-era figure whose Guo Tai forecast is later qualified by marriage opportunism and public reputation collapse.
 - [晋文经 / Jin Wenjing (late Han)](entities/JinWenjingLateHan.md) — Huang Yun's scandal-linked adviser, executed after accommodating divorce pressure instead of using friendship to remonstrate.
-- [符融 / Fu Rong (late Han)](entities/FuRongLateHan.md) — Late-Han evaluator who identifies Wang Huan's real administrative ability despite rough outer conduct.
+- [符融 / Fu Rong (late Han)](entities/FuRongLateHan.md) — Late-Han reputation intermediary who introduces Guo Tai to Li Ying and later warns Li Ying about Huang Yun and Jin Wenjing's empty fame.
 - [仇香 / Qiu Xiang (late Han)](entities/QiuXiangLateHan.md) — Local official whose non-punitive correction of Chen Yuan becomes a humane-governance exemplar recognized by Guo Tai.
 - [陈元 / Chen Yuan (late Han)](entities/ChenYuanLateHan.md) — Kaocheng youth whose mother's complaint becomes a case of teaching-based filial repair under Qiu Xiang.
 - [王奂 / Wang Huan (late Han)](entities/WangHuanLateHan.md) — Luoyang market official whose strict enforcement, hidden ability, and later promotion are recognized by Fu Rong.
@@ -1755,7 +1758,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tableau](entities/Tableau.md) — Analytics/dashboard product named as part of the mid-market data stack cost barrier.
 - [Yuval Noah Harari](entities/YuvalNoahHarari.md) — Historian and philosopher using an information-network lens to warn that AI governance must reject inevitability and preserve human agency.
 - [Nexus (Yuval Noah Harari book)](entities/NexusHarariBook.md) — Harari book framed in The Intelligence interview as a history of information networks from the Stone Age to AI.
-- [李膺 / Li Ying (late Han)](entities/LiYingLateHan.md) — Late-Han scholar-official whose profile now runs from Yang Yuanqun's bribery reversal through restoration, high-risk enforcement, Party Prohibition, reform return, and prison death.
+- [李膺 / Li Ying (late Han)](entities/LiYingLateHan.md) — Late-Han scholar-official whose profile now runs from Guo Tai recognition through Yang Yuanqun's bribery reversal, restoration, high-risk enforcement, Party Prohibition, reform return, and prison death.
 - [应奉 / Ying Feng (late Han)](entities/YingFengLateHan.md) — Late-Han official whose memorials block Tian Sheng's empress elevation on status grounds and persuade Emperor Huan to pardon Li Ying through state-capacity framing.
 - [范滂 / Fan Pang (late Han)](entities/FanPangLateHan.md) — Late-Han party-prohibition figure whose profile now runs from Runan delegated清裁 through prison ritual refusal, moral defense, exclusion, reputation exposure, and voluntary imprisonment.
 - [东羌 / Eastern Qiang (late Han)](entities/DongqiangLateHan.md) — Frontier group whose evidence spans Hanji 881's Fengyishan campaign horizon, Hanji 883's surrender-versus-suppression policy dispute, Hanji 891's tactical campaign, and Hanji 892's anti-extermination critique.
@@ -2263,13 +2266,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [王宏 / Wang Hong (late Han)](entities/WangHongLateHan.md) — Official who sees Li-Guo's summons as a trap and proposes using outside troops before being pulled down by Song Yi's compliance.
 - [赵戬 / Zhao Jian (late Han)](entities/ZhaoJianLateHan.md) — Former Wang Yun subordinate who risks collecting and burying Wang Yun's body after the Chang'an executions.
 - [杨赐 / Yang Ci (late Han)](entities/YangCiLateHan.md) — Senior late-Han official whose profile now includes 169 CE oblique snake-omen remonstrance, later omen/garden/Yellow-Turban warnings, and Wang Yun's rescue.
-- [郭泰 / Guo Tai (late Han)](entities/GuoTaiLateHan.md) — Late-Han scholar and teacher whose profile spans mentorship, talent recognition, Qiu Xiang reverence, Taixue public opinion, guarded survival, and reputation certification.
+- [郭泰 / Guo Tai (late Han)](entities/GuoTaiLateHan.md) — Late-Han scholar and teacher whose profile spans public recognition, selective-speech interpretation, mentorship, talent recognition, Taixue public opinion, guarded survival, and reputation certification.
 - [孟敏 / Meng Min (late Han)](entities/MengMinLateHan.md) — Broken-vessel decisiveness case whom Guo Tai recognizes and encourages toward study.
 - [庾乘 / Yu Cheng (late Han)](entities/YuChengLateHan.md) — Low-status county gatekeeper whom Guo Tai recognizes as latent talent.
 - [魏昭 / Wei Zhao (late Han)](entities/WeiZhaoLateHan.md) — Student figure who seeks Guo Tai as a teacher of conduct and passes the repeated porridge rebuke test.
 - [左原 / Zuo Yuan (late Han)](entities/ZuoYuanLateHan.md) — Expelled student whose resentment and revenge risk are redirected by Guo Tai's corrective trust.
 - [宋冲 / Song Chong (late Han)](entities/SongChongLateHan.md) — Admirer whose office urging clarifies Guo Tai's refusal to serve under a failing order.
-- [徐稚 / Xu Zhi (late Han)](entities/XuZhiLateHan.md) — Scholar whose falling-tree warning Guo Tai receives as teacherly counsel.
+- [徐稚 / Xu Zhi (late Han)](entities/XuZhiLateHan.md) — Scholar whose anonymous mourning, selective speech, and falling-tree warning define restraint, audience judgment, and scale counsel.
 - [王允 / Wang Yun (late Han)](entities/WangYunLateHan.md) — Late-Han official who takes public credit after Dong Zhuo's killing, clarifying Shi Sunrui's hidden-merit survival case.
 - [皇甫嵩 / Huangfu Song (late Han)](entities/HuangfuSongLateHan.md) — Late-Han official whose Dong Zhuo fear-question cliffhanger, proposed troop-reassurance role, and later dismissal mark survival speech and captured-court appointment/removal power.
 - [牛辅 / Niu Fu (late Han)](entities/NiuFuLateHan.md) — Dong Zhuo son-in-law whose victory over Li Su is followed by camp panic, flight, and death.
@@ -9630,7 +9633,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [三不沾式清廉自守 / Three-Refusals Integrity](concepts/ThreeRefusalsIntegrity.md) — Public-office integrity discipline built around refusing wine, sexual entanglement, and money as capture channels.
 - [任官责任退出受限 / Office Duty Exit Constraint](concepts/OfficeDutyExitConstraint.md) — Governance pattern where capable officials cannot easily leave or avoid office because crisis demand treats their ability as a public asset.
 - [仁厚地方治理 / Humane Local Governance](concepts/HumaneLocalGovernance.md) — Local-administration pattern where diagnosis, calm conduct, light punishment, and moral instruction build order without making coercion the first instrument.
-- [Moral Mentorship as Talent Cultivation / 人师型人才成全](concepts/MoralMentorshipTalentCultivation.md) — Teacher model where recognition, character testing, corrective trust, and self-limitation form people rather than only transmit knowledge.
+- [Moral Mentorship as Talent Cultivation / 人师型人才成全](concepts/MoralMentorshipTalentCultivation.md) — Teacher model where ordinary conduct reading, recognition, character testing, corrective trust, encouragement, and self-limitation form people rather than only transmit knowledge.
 - [按亩征税 / Per-Mu Land Taxation](concepts/PerMuLandTaxation.md) — Huan-era fiscal-policy marker for the first source-described order to tax landholders by the mu.
 - [政策制度记载压缩 / Chronicle Policy Compression](concepts/ChroniclePolicyCompression.md) — Historiographical pattern where a chronicle records a major institutional decision tersely while leaving mechanism and consequence underdescribed.
 - [Non-Dual Mindfulness](concepts/NonDualMindfulness.md) — Meditation frame where thoughts, emotions, sensations, and selfing appear in awareness without a separate observer behind experience.
@@ -9927,7 +9930,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Deterministic AI Verification](concepts/DeterministicAIVerification.md) — Verification pattern for bounded systems, contrasted in EP47 with probabilistic LLM output.
 - [Augmented Intelligence](concepts/AugmentedIntelligence.md) — Human-supervised AI framing where models extend capability but users still verify and own important outcomes.
 - [AI Query Privacy Risk](concepts/AIQueryPrivacyRisk.md) — Risk that prompts, search terms, interaction logs, or retrieval traces reveal sensitive personal or professional information.
-- [名士背书式造势 / Elite-Endorsement Reputation Making](concepts/EliteEndorsementReputationMaking.md) — Hanji 926 pattern where elite evaluators, memorable labels, and counter-signaling turn reputation into political entry capital.
+- [名士背书式造势 / Elite-Endorsement Reputation Making](concepts/EliteEndorsementReputationMaking.md) — Late-Han mechanism where Fu Rong/Li Ying-style introduction or Cao Cao-style appraisal chains make ability socially legible through elite recognition.
 - [查因安抚式治理 / Root-Cause Pacification](concepts/RootCausePacification.md) — Governance pattern where officials diagnose court-level and local causes of rebellion, then combine relief, personnel repair, surrender policy, resettlement judgment, and targeted coercion.
 - [商人定气功夫 / Merchant Composure Discipline](concepts/MerchantComposureDiscipline.md) — Source-scoped Hanji 927 business frame around credibility, detachment, calm judgment, and decisive action.
 - [巡查送礼关口 / Inspection Gift Gatekeeping](concepts/InspectionGiftGatekeeping.md) — Hanji 928 pattern where an inspector with ruler access can turn gift refusal and a slanted report into command-changing political risk.
@@ -10656,7 +10659,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Political Parable Weaponization / 寓言式政治挑拨](concepts/PoliticalParableWeaponization.md) — Court-rhetoric pattern where a true-sounding lesson is used to attack a rival.
 - [Chancellor-Centered Governance / 宰相中心治理](concepts/ChancellorCenteredGovernance.md) — Historiographical frame for treating chancellor notices, including Qin's first left/right chancellors, as crucial state-operation evidence.
 - [Eastern-Western Zhou Split / 东周西周分裂](concepts/EasternWesternZhouSplit.md) — Political-fragmentation frame distinguishing the small East/West Zhou polities from broad dynasty-period labels.
-- [Situational Character Tests / 五观识人法](concepts/SituationalCharacterTests.md) — Framework for judging character through behavior under changing conditions, including office, wealth, loss, pressure, delegation, and correction.
+- [Situational Character Tests / 五观识人法](concepts/SituationalCharacterTests.md) — Framework for judging character through behavior under changing conditions, including office, wealth, loss, pressure, selective speech, etiquette, delegation, and correction.
 - [Talent Referral Quality / 荐才层级质量](concepts/TalentReferralQuality.md) — Chancellor-selection lesson that the level and effect of referred talent matter more than referral count alone.
 - [Private Access Talent Channel / 私人进身通道](concepts/PrivateAccessTalentChannel.md) — Court personnel mechanism where open recruitment still depends on favored intermediaries who make outsider talent actionable.
 - [Qi Wei Wang Chronology Dispute / 齐威王编年争议](concepts/QiChronologyDispute.md) — Source-critical case arguing Qi Wei Wang's received annalistic placement is probably too early.

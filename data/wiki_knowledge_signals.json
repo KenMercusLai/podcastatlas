@@ -4914,6 +4914,36 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/electrictwowheelermarketdivergence/"
     },
+    "EliteEndorsementReputationMaking": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》904丨觉照内观：获得心灵大自由的秘诀 [lopN_oKbzr4LJvqmgzCsb7qAv0n2].md",
+          "key": "zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》904丨觉照内观：获得心灵大自由的秘诀",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》926丨真正的强者，都懂得“造势” [lssMABZoKU4uE28irdmfn0-d_0DC].md",
+          "key": "zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》926丨真正的强者，都懂得“造势”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》860丨惊为天人！东汉郭泰有多神？ [ltiHXtkDP08EemcVHhxNPUBYKRUV].md",
+          "key": "zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》860丨惊为天人！东汉郭泰有多神？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/eliteendorsementreputationmaking/"
+    },
     "ElizabethI": {
       "episode_count": 6,
       "show_count": 1,
@@ -6282,9 +6312,9 @@
       "url": "/wiki/concepts/freesecuritysoftwarestrategy/"
     },
     "FuRongLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》862丨他因一句话休妻，最终身败名裂 [lrvKLAI847FVlP1l28coOfzGBsYq].md",
@@ -6292,6 +6322,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》862丨他因一句话休妻，最终身败名裂",
           "url": "/wiki/sources/zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》860丨惊为天人！东汉郭泰有多神？ [ltiHXtkDP08EemcVHhxNPUBYKRUV].md",
+          "key": "zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》860丨惊为天人！东汉郭泰有多神？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv/"
         }
       ],
       "updated": "2026-08-28",
@@ -7025,9 +7062,9 @@
       "url": "/wiki/entities/guoning/"
     },
     "GuoTaiLateHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》931丨人生艰难处，便是修心时 [lpZMvxOp8lmlwvXHoOJZj5ok9Qd6].md",
@@ -7063,6 +7100,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》861丨什么样的人堪称老师楷模？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》860丨惊为天人！东汉郭泰有多神？ [ltiHXtkDP08EemcVHhxNPUBYKRUV].md",
+          "key": "zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》860丨惊为天人！东汉郭泰有多神？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv/"
         }
       ],
       "updated": "2026-08-28",
@@ -7712,6 +7756,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/huangfudonghailatehan/"
+    },
+    "HuangQiongLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》860丨惊为天人！东汉郭泰有多神？ [ltiHXtkDP08EemcVHhxNPUBYKRUV].md",
+          "key": "zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》860丨惊为天人！东汉郭泰有多神？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/huangqionglatehan/"
     },
     "HuangYiRobotics": {
       "episode_count": 1,
@@ -9931,9 +9991,9 @@
       "url": "/wiki/entities/litonglatehan/"
     },
     "LiYingLateHan": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》893丨荣誉榜如何变成死亡名单？ [lmxzQoaUf79-swWNK_0CEVAv0GQ_].md",
@@ -9990,6 +10050,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》866丨真正活明白的人，懂得“三不沾”",
           "url": "/wiki/sources/zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》860丨惊为天人！东汉郭泰有多神？ [ltiHXtkDP08EemcVHhxNPUBYKRUV].md",
+          "key": "zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》860丨惊为天人！东汉郭泰有多神？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv/"
         }
       ],
       "updated": "2026-08-28",
@@ -11343,6 +11410,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/maoqinlatehan/"
     },
+    "MaoRongLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》860丨惊为天人！东汉郭泰有多神？ [ltiHXtkDP08EemcVHhxNPUBYKRUV].md",
+          "key": "zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》860丨惊为天人！东汉郭泰有多神？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/maoronglatehan/"
+    },
     "MaryQueenOfScots": {
       "episode_count": 4,
       "show_count": 1,
@@ -12318,9 +12401,9 @@
       "url": "/wiki/concepts/moraldesertpoliticaloutcomegap/"
     },
     "MoralMentorshipTalentCultivation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》861丨什么样的人堪称老师楷模？ [lu0KadsC9aEtZiP9CEdyV01WndrH].md",
@@ -12328,6 +12411,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》861丨什么样的人堪称老师楷模？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》860丨惊为天人！东汉郭泰有多神？ [ltiHXtkDP08EemcVHhxNPUBYKRUV].md",
+          "key": "zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》860丨惊为天人！东汉郭泰有多神？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv/"
         }
       ],
       "updated": "2026-08-28",
@@ -15411,9 +15501,9 @@
       "url": "/wiki/entities/shibilatehan/"
     },
     "SituationalCharacterTests": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1029丨国士无双太史慈：一诺千金义当先 [lvCkWLHZ5g_oApPy89THYE9oyrTo].md",
@@ -15442,6 +15532,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》861丨什么样的人堪称老师楷模？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》860丨惊为天人！东汉郭泰有多神？ [ltiHXtkDP08EemcVHhxNPUBYKRUV].md",
+          "key": "zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》860丨惊为天人！东汉郭泰有多神？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv/"
         }
       ],
       "updated": "2026-08-28",
@@ -18465,9 +18562,9 @@
       "url": "/wiki/entities/xuzhaolatehan/"
     },
     "XuZhiLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》861丨什么样的人堪称老师楷模？ [lu0KadsC9aEtZiP9CEdyV01WndrH].md",
@@ -18475,6 +18572,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》861丨什么样的人堪称老师楷模？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》860丨惊为天人！东汉郭泰有多神？ [ltiHXtkDP08EemcVHhxNPUBYKRUV].md",
+          "key": "zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》860丨惊为天人！东汉郭泰有多神？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv/"
         }
       ],
       "updated": "2026-08-28",
