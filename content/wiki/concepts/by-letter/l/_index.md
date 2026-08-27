@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 5755
+wiki_total_pages: 5767
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -317,6 +317,9 @@ wiki_pages:
   - key: "LinguisticRelativity"
     title: "Linguistic Relativity"
     url: "/wiki/concepts/linguisticrelativity/"
+  - key: "LiquidSugarRisk"
+    title: "Liquid Sugar Risk / 液体糖风险"
+    url: "/wiki/concepts/liquidsugarrisk/"
   - key: "LiquidationPreferenceStack"
     title: "Liquidation Preference Stack"
     url: "/wiki/concepts/liquidationpreferencestack/"
@@ -608,6 +611,9 @@ wiki_pages:
   - key: "LowFrequencyLowValueProduct"
     title: "Low-Frequency Low-Value Product"
     url: "/wiki/concepts/lowfrequencylowvalueproduct/"
+  - key: "LowGIMarketingTrap"
+    title: "Low-GI Marketing Trap / 低GI营销陷阱"
+    url: "/wiki/concepts/lowgimarketingtrap/"
   - key: "LowLatencyInferenceChip"
     title: "Low-Latency Inference Chip"
     url: "/wiki/concepts/lowlatencyinferencechip/"

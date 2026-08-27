@@ -6,6 +6,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.215 低GI蜂蜜、零蔗糖、抗糖丸…？这届控糖人到底踩了多少坑？ft.「大食话」](sources/vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z.md) — 这病说来话长 episode with 阿汤 and 岳宛柔 on practical sugar control, liquid sugar, added and free sugars, low-GI honey, zero-sucrose labels, sweeteners, glycation anxiety, and staple-food structure.
+- [《资治通鉴·汉纪》867丨无辜被泼脏水？他选择霸气回击](sources/zizhi-tongjian-hanji-867-wugu-bei-po-zangshui-ta-xuanze-baqi-huiji-lqenvoy7x8ic-qn3-bf93qj8tjvk.md) — 芮淇讲透资治通鉴 episode on Chen Qiu's Lingling defense, Du Shang's false report against Zhang Pan, Zhang Pan's refusal to accept amnesty without exoneration, Duan Jiong's Western Qiang victory, and Chen Fan's Taiwei appointment.
+- [《资治通鉴·汉纪》868丨赢了也是输家？东汉后宫争艳记](sources/zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v.md) — 芮淇讲透资治通鉴 episode on Wang Chang's Nanyang governance reversal, per-mu land taxation, chronicle policy compression, Liu Mao's sikong appointment, and Emperor Huan's harem sequence from Empress Deng and Guo Guiren through Tian Sheng and Dou Miao.
 - [《资治通鉴·汉纪》869丨李膺为何被称为天下第一楷模？](sources/zizhi-tongjian-hanji-869-liying-weihe-bei-chengwei-tianxia-diyi-kaimo-lltckcioe1n9v91yy4c9vvwmz4mo.md) — 芮淇讲透资治通鉴 episode on Chen Fan's failed pardon petition, Ying Feng's state-capacity memorial, Li Ying's restoration, Zhang Shuo's execution despite Zhang Rang's protection, and the "登龙门" reputation field.
 - [《资治通鉴·汉纪》870丨古代体制内，不干了没有退路](sources/zizhi-tongjian-hanji-870-gudai-tizhinei-buganle-meiyou-tuilu-lpwbniu9ifpt6cp4ip9czqwsh5xd.md) — 芮淇讲透资治通鉴 episode on Liu Kuan's humane governance, Xun Shuang's harem-burden critique, Huangfu Gui's failed office exit, and Zhang Huan's frontier recall under Emperor Huan.
 - [Essentials: Using Meditation to Focus, View Consciousness & Expand Your Mind | Dr. Sam Harris](sources/essentials-using-meditation-to-focus-view-consciousness-expand-your-mind-dr-sam-harris-scim7293799235.md) — Huberman Lab Essentials episode with Sam Harris on meditation, the felt self, non-dual mindfulness, emotional loops, psychedelics, and ordinary present-moment freedom.
@@ -1609,9 +1612,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Antonio Damasio](entities/AntonioDamasio.md) — Decision-and-emotion reference used to show that emotion supports motivation and choice.
 - [Paul Ekman](entities/PaulEkman.md) — Facial-expression research reference whose influence is acknowledged and qualified by the Adolphs episode.
 - [Patient SM](entities/PatientSM.md) — Amygdala-lesion research case used to distinguish fear perception, external-threat fear, and internal panic.
-- [这病说来话长 / Zhe Bing Shuo Lai Hua Chang](entities/ZheBingShuoLaiHuaChang.md) — Chinese medical-literacy podcast represented by oncology, orthopedics, outpatient diagnostic safety, lifestyle weight management, and online medical-language boundary episodes.
+- [这病说来话长 / Zhe Bing Shuo Lai Hua Chang](entities/ZheBingShuoLaiHuaChang.md) — Chinese medical-literacy podcast represented by oncology, orthopedics, outpatient diagnostic safety, lifestyle weight management, sugar-control literacy, and online medical-language boundary episodes.
 - [马浩宁 / Ma Haoning](entities/MaHaoning.md) — Medical guest explaining lumbar disc herniation, symptom-driven spine care, rehabilitation pacing, outpatient return thresholds, and low-cost safety checks.
-- [阿汤 / A Tang](entities/Atang.md) — Host voice in 这病说来话长 episodes, turning diagnostic uncertainty, weight-management anxiety, and internet medical vocabulary into patient-facing questions and practical boundaries.
+- [阿汤 / A Tang](entities/Atang.md) — Host voice in 这病说来话长 episodes, turning diagnostic uncertainty, weight-management anxiety, sugar-label confusion, and internet medical vocabulary into patient-facing questions and practical boundaries.
+- [岳宛柔 / Yue Wanrou](entities/YueWanrou.md) — VOL.215 guest explaining sugar preference, staple foods, liquid sugar, low-GI claims, labels, sweeteners, and practical sugar control.
+- [大食话 / Da Shi Hua](entities/DaShiHua.md) — Food-media label attached to Yue Wanrou in the VOL.215 sugar-control episode.
 - [薛小凡 / Xue Xiaofan](entities/XueXiaofan.md) — VOL.216 guest explaining prefrontal-cortex internet vocabulary, state-dependent self-control, ADHD self-diagnosis boundaries, and clinical behavior-change red flags.
 - [小龙 / Xiaolong (Weight-Management Guest)](entities/XiaolongWeightManagementGuest.md) — VOL.217 guest explaining weight management through body composition, food structure, resistance training, sleep, medical boundaries, and sustainable eating contexts.
 - [亚萌 / Ya Meng](entities/YaMengDoctor.md) — Dermatology-side guest explaining rash uncertainty, diagnostic treatment, short follow-up windows, and return conditions.
@@ -1684,7 +1689,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kaiser Wilhelm II](entities/KaiserWilhelmII.md) — German monarch used by the episode as part of Rudolf's late political dread.
 - [黄浮 / Huang Fu (Donghai chancellor)](entities/HuangFuDonghaiLateHan.md) — East Sea official who executes Xu Xuan and is punished after eunuch complaint.
 - [李暠 / Li Gao (Runan administrator)](entities/LiGaoRunanLateHan.md) — Former Runan administrator whose daughter is killed in the Xu Xuan case.
-- [刘茂 / Liu Mao (late Han)](entities/LiuMaoLateHan.md) — Official who initially joins Chen Fan's defense of punished enforcement officials, then retreats under pressure.
+- [刘茂 / Liu Mao (late Han)](entities/LiuMaoLateHan.md) — Huan-era official whose bounded roles now include a Taichang-to-sikong appointment notice and later contrast as Chen Fan's co-remonstrant who retreats under pressure.
 - [徐璜 / Xu Huang (late Han eunuch)](entities/XuHuangLateHan.md) — Eunuch uncle whose complaint channel shields Xu Xuan and exposes Huang Fu.
 - [徐宣 / Xu Xuan (late Han magistrate)](entities/XuXuanLateHan.md) — Xiapi magistrate whose failed concubine demand escalates into household killing.
 - [周福 / Zhou Fu (late Han)](entities/ZhouFuLateHan.md) — Ganling teacher-official whose promotion after teaching Emperor Huan becomes one pole of an early party-line rivalry.
@@ -1731,7 +1736,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Yuval Noah Harari](entities/YuvalNoahHarari.md) — Historian and philosopher using an information-network lens to warn that AI governance must reject inevitability and preserve human agency.
 - [Nexus (Yuval Noah Harari book)](entities/NexusHarariBook.md) — Harari book framed in The Intelligence interview as a history of information networks from the Stone Age to AI.
 - [李膺 / Li Ying (late Han)](entities/LiYingLateHan.md) — Late-Han scholar-official whose profile now runs from Ying Feng-backed restoration and Zhang Shuo enforcement through Party Prohibition imprisonment, reform restoration, prison death, and student liability.
-- [应奉 / Ying Feng (late Han)](entities/YingFengLateHan.md) — Late-Han official whose state-capacity memorial persuades Emperor Huan to pardon Li Ying and other punished officials.
+- [应奉 / Ying Feng (late Han)](entities/YingFengLateHan.md) — Late-Han official whose memorials block Tian Sheng's empress elevation on status grounds and persuade Emperor Huan to pardon Li Ying through state-capacity framing.
 - [范滂 / Fan Pang (late Han)](entities/FanPangLateHan.md) — Late-Han party-prohibition figure whose profile now runs from Runan delegated清裁 through prison ritual refusal, moral defense, exclusion, reputation exposure, and voluntary imprisonment.
 - [东羌 / Eastern Qiang (late Han)](entities/DongqiangLateHan.md) — Frontier group whose evidence spans Hanji 881's Fengyishan campaign horizon, Hanji 883's surrender-versus-suppression policy dispute, Hanji 891's tactical campaign, and Hanji 892's anti-extermination critique.
 - [冯翊山之战 / Fengyishan Battle (late Han)](entities/FengyishanBattleLateHan.md) — 168 CE frontier battle where Duan Jiong defeats Xianling Qiang forces before receiving interim reward, military funding, and anti-Qiang title recognition.
@@ -1831,11 +1836,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [胡广 / Hu Guang (late Han)](entities/HuGuangLateHan.md) — Late-Han senior official whose six-reign service, institutional knowledge, mildness, and non-offense make Hanji 900's moderation-based survival case.
 - [侯览 / Hou Lan (late Han)](entities/HouLanLateHan.md) — Late-Han eunuch whose complaint channel punishes Cheng Jin and Liu Zhi before his Zhang Jian retaliation chain and later office-removal suicide.
 - [李贤 / Li Xian (taiwei, late Han)](entities/LiXianTaiweiLateHan.md) — Ill taiwei who risks death in Hanji 901 to argue that Empress Dowager Dou should be buried with Emperor Huan; distinct from 李暹 / Li Xian.
-- [窦妙 / Empress Dowager Dou Miao](entities/EmpressDowagerDouMiao.md) — Late-Han empress dowager whose profile runs from formal empress selection and Tian Sheng's execution through child accession, seizure, confinement, later support, and disputed burial.
+- [邓皇后 / Empress Deng (Huan-era)](entities/EmpressDengHuanLateHan.md) — Emperor Huan empress whose rivalry with Guo Guiren ends in deposition and death before the later Tian Sheng and Dou Miao branch.
+- [郭贵人 / Guo Guiren (Huan-era)](entities/GuoGuirenHuanLateHan.md) — Emperor Huan consort who outlasts Empress Deng but loses favor, showing palace victory without stable protection.
+- [窦妙 / Empress Dowager Dou Miao](entities/EmpressDowagerDouMiao.md) — Late-Han empress dowager whose profile runs from formal selection over Tian Sheng through child accession, seizure, confinement, later support, and disputed burial.
 - [董萌 / Dong Meng (late Han)](entities/DongMengLateHan.md) — Huangmenling who speaks for Empress Dowager Dou Miao before Cao Jie and Wang Fu recode the Dou grievance into a fatal accusation.
-- [汉桓帝 / Emperor Huan of Han](entities/EmperorHuanOfHan.md) — Late-Han emperor whose profile now spans Li Ying's pardon and Zhang Shuo ruling, harem-burden critique, frontier personnel dependence, omen-coded criticism, Party Prohibition, coercive private power, childless death, and posthumous memory.
+- [汉桓帝 / Emperor Huan of Han](entities/EmperorHuanOfHan.md) — Late-Han emperor whose profile now spans 165 CE governance, taxation, harem-status decisions, Li Ying's pardon and Zhang Shuo ruling, frontier personnel dependence, omen-coded criticism, Party Prohibition, coercive private power, childless death, and posthumous memory.
 - [襄楷 / Xiang Kai (late Han)](entities/XiangKaiLateHan.md) — Late-Han remonstrant who criticizes Emperor Huan through stars, disasters, Yellow River signs, succession pressure, eunuch favor, and Buddhist-Daoist restraint language.
-- [田胜 / Tian Sheng (late Han)](entities/TianShengLateHan.md) — Emperor Huan favorite whose blocked empress elevation and post-Huan execution show the fragility of palace favor without formal protection.
+- [田胜 / Tian Sheng (late Han)](entities/TianShengLateHan.md) — Emperor Huan favorite whose blocked empress elevation, name variant 田圣, and post-Huan execution show the fragility of palace favor without formal protection.
 - [冯贵人 / Feng Guiren (late Han)](entities/FengGuirenLateHan.md) — Imperial consort proposed as an alternative burial figure to Empress Dowager Dou in Hanji 901, mainly as a ritual-claim contrast.
 - [The Metamorphosis / Kafka's 《变形记》](entities/TheMetamorphosisKafka.md) — Kafka work used in Hanji 901 to illustrate anxious self-importance and impatience; distinct from Ovid's Metamorphoses.
 - [刘猛 / Liu Meng (late Han)](entities/LiuMengLateHan.md) — Sili xiaowei who treats the Zhuque Gate anti-eunuch accusation as substantially true, does not pursue the anonymous speaker aggressively, and is punished after Duan Jiong takes over.
@@ -1869,13 +1876,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [沈忠 / Shen Zhong (late Han)](entities/ShenZhongLateHan.md) — Liangguo langzhong whose death-pledged memorial against Zhu Yu and eunuch corruption is shelved under Emperor Ling.
 - [于贵人 / Yu Guiren (late Han)](entities/YuGuirenLateHan.md) — Former imperial consort remembered as Xianling Guiren whose funeral route triggers Cao Jie's eunuch regrouping scene.
 - [何海 / He Hai (late Han)](entities/HeHaiLateHan.md) — Shanglu county official whose petition narrows party-prohibition collateral punishment for more distant kin.
-- [段熲 / Duan Jiong (late Han)](entities/DuanJiongLateHan.md) — Veteran frontier commander whose profile spans Fengyishan tactical success, hard-line anti-Qiang policy, campaign finance and reward, ethical critique, shared-hardship leadership, coercive crackdowns, and anti-Wang Fu prosecution.
+- [段熲 / Duan Jiong (late Han)](entities/DuanJiongLateHan.md) — Veteran frontier commander whose profile now begins with Western Qiang victory before Fengyishan tactical success, hard-line anti-Qiang policy, campaign finance and reward, ethical critique, shared-hardship leadership, coercive crackdowns, and anti-Wang Fu prosecution.
+- [度尚 / Du Shang (late Han)](entities/DuShangLateHan.md) — 165 CE commander who suppresses Zhu Gai and Hu Lan but falsely shifts blame onto Zhang Pan before being spared for merit.
 - [张脩 / Zhang Xiu (Protector of Xiongnu)](entities/ZhangXiuProtectorOfXiongnu.md) — Han frontier official who kills Huzheng without authorization and installs Qiangqu as Southern Xiongnu chanyu; distinct from Zhang Xiu of Wancheng and Zhang Xiu of Five Pecks.
 - [呼征 / Huzheng Chanyu](entities/HuzhengChanyu.md) — Southern Xiongnu chanyu who first succeeds his father in 178 CE, then is killed by Zhang Xiu before Qiangqu's installation.
 - [朱瑀 / Zhu Yu (late Han)](entities/ZhuYuLateHan.md) — Late-Han eunuch actor whose profile now begins with his 168 emergency oath against Dou Wu before later accusation, Cao Jie recovery, title-privilege criticism, and Yang Qiu target-field references.
 - [刘郃 / Liu He (late-Han situ)](entities/LiuHeSituLateHan.md) — Late-Han situ and imperial-clan figure whose anti-Cao Jie plot collapses after household leakage; distinct from Liu Yu's son Liu He.
 - [刘鯈 / Liu Tiao (late Han)](entities/LiuTiaoLateHan.md) — Liu He's brother whose death under Dou Wu is invoked to press Liu He into anti-eunuch action.
-- [陈球 / Chen Qiu (late Han)](entities/ChenQiuLateHan.md) — Yongle shaofu who urges Liu He to act against Cao Jie in the failed 179 CE plot.
+- [陈球 / Chen Qiu (late Han)](entities/ChenQiuLateHan.md) — Late-Han official whose profile now begins with Lingling defense before Dou Miao burial advocacy, Taiwei office marker, and the failed anti-Cao Jie plot.
+- [张磐 / Zhang Pan (late Han)](entities/ZhangPanLateHan.md) — Jiaozhi inspector who refuses release under amnesty until Du Shang's false accusation is confronted and his innocence is cleared.
 - [刘纳 / Liu Na (late Han)](entities/LiuNaLateHan.md) — Shangshu who frames senior-office inaction as uselessness during the failed anti-Cao Jie plot.
 - [阳球 / Yang Qiu (late Han)](entities/YangQiuLateHan.md) — Late-Han shangshu ling and anti-eunuch official who first memorializes against Hongdu Menxue, then overreaches after destroying Wang Fu's network.
 - [程璜 / Cheng Huang (late Han)](entities/ChengHuangLateHan.md) — Eunuch intermediary who carries the leaked anti-Cao Jie plot to Cao Jie.
@@ -1884,6 +1893,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [杨璇 / Yang Xuan (late Han)](entities/YangXuanLateHan.md) — Lingling administrator who uses lime/fire-horse and crossbow wagons to defeat Cangwu-Guiyang bandits before a blood-letter appeal overturns Zhao Kai's false accusation.
 - [赵凯 / Zhao Kai (late Han)](entities/ZhaoKaiLateHan.md) — Jingzhou inspector whose false accusation against Yang Xuan turns a local victory into prison-cart danger before the blood-letter appeal reverses the case.
 - [苍梧郡 / Cangwu Commandery (late Han)](entities/CangwuCommanderyLateHan.md) — Southern commandery whose bandits join Guiyang bandits in the Yang Xuan-Lingling suppression branch.
+- [朱丐 / Zhu Gai (late Han)](entities/ZhuGaiLateHan.md) — Jingzhou soldier-rebel whose alliance with Hu Lan attacks Guiyang and Lingling before Du Shang's suppression.
+- [胡兰 / Hu Lan (late Han)](entities/HuLanLateHan.md) — Guiyang bandit leader whose rebellion with Zhu Gai and later Cangwu remnants trigger the Zhang Pan false-accusation case.
 - [HYROX](entities/HYROX.md) — Fitness-racing event brand whose moat comes from official status, standardized results, participant data, authorization, and event execution rather than proprietary exercise rules.
 - [HYROX World GmbH](entities/HYROXWorldGmbH.md) — Company page for the HYROX trademark and official commercial system behind the event brand.
 - [Ironman / 铁人三项](entities/IronmanTriathlon.md) — Endurance event-brand comparison used to explain how existing sports can be bundled into an official race identity.
@@ -2102,8 +2113,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [何太后 / Empress Dowager He](entities/EmpressDowagerHe.md) — He-family queen-mother whose eunuch debt and palace dependence block He Jin's purge before Dong Zhuo later removes and poisons her.
 - [何苗 / He Miao (late Han)](entities/HeMiaoLateHan.md) — He-family figure tied to eunuch benefits before He Jin's failure and later killed, with his corpse publicly mutilated after the deposition.
 - [武阳君 / Wuyang Jun](entities/WuyangJun.md) — He-family elder and eunuch-benefit channel who helps block He Jin's purge before being killed in Dong Zhuo's post-deposition terror.
-- [陈蕃 / Chen Fan (late Han)](entities/ChenFanLateHan.md) — Late-Han anti-eunuch official whose branch now begins with a failed pardon petition before enforcement-inversion defense, Party Prohibition procedure, Emperor Huan-era removal, interregnum duty, title refusal, fatal palace intervention, and later memory.
-- [窦武 / Dou Wu (late Han)](entities/DouWuLateHan.md) — Late-Han outer-relative and anti-eunuch official whose profile now runs from Hanji 875 clean-office credibility through Party Prohibition intercession, controllable-child accession, failed anti-eunuch command, purge, and memory.
+- [陈蕃 / Chen Fan (late Han)](entities/ChenFanLateHan.md) — Late-Han anti-eunuch official whose branch now begins with 165 CE Taiwei appointment and office-yield request before formal-status objection, failed pardon petition, enforcement-inversion defense, Party Prohibition procedure, removal, duty, title refusal, palace intervention, and later memory.
+- [窦武 / Dou Wu (late Han)](entities/DouWuLateHan.md) — Late-Han outer-relative and anti-eunuch official whose profile now runs from Dou Miao-linked family elevation and Hanji 875 clean-office credibility through Party Prohibition intercession, controllable-child accession, failed anti-eunuch command, purge, and memory.
 - [刘辩 / Liu Bian (Hongnong Wang)](entities/LiuBianHongnongWang.md) — Deposed late-Han emperor and Hongnong Wang poisoned by Li Ru under Dong Zhuo's command in Hanji 950.
 - [李儒 / Li Ru (late Han)](entities/LiRuLateHan.md) — Dong Zhuo-side official who carries out the poisoning of Liu Bian in Hanji 950.
 - [郑泰 / Zheng Tai (late Han)](entities/ZhengTaiLateHan.md) — Court official whose advice restrains Dong Zhuo from immediate mass attack and diagnoses the anti-Dong-Zhuo coalition's weak cohesion.
@@ -2735,6 +2746,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [朱儁 / Zhu Jun (late Han)](entities/ZhuJunLateHan.md) — Late-Han official whose career now spans 181 Jiaozhi suppression, Yellow Turban campaigns, anti-Dong-Zhuo posture, and later death after Guo Si's ministerial hostage-taking.
 - [赵温 / Zhao Wen (late Han)](entities/ZhaoWenLateHan.md) — Situ who writes a dangerous remonstrance to Li Jue after Li Jue refuses imperial mediation and tries to move Emperor Xian.
 - [皇甫郦 / Huangfu Li (late Han)](entities/HuangfuLiLateHan.md) — Envoy whose direct warning to Li Jue turns mediation into near-fatal remonstrance in Hanji 986.
+- [王畅 / Wang Chang (Shumao, late Han)](entities/WangChangShumaoLateHan.md) — Late-Han official whose profile spans Nanyang governance reversal, Taixue reputation as 王叔茂, sikong office notice, and later high-office recommendation politics.
+- [张厂 / Zhang Chang (Nanyang, late Han)](entities/ZhangChangNanyangLateHan.md) — Nanyang gongcao whose advice turns Wang Chang away from harsh powerful-household punishment toward humane governance.
 - [王昌 / Wang Chang (late Han)](entities/WangChangLateHan.md) — Huben warrior sent to pursue Huangfu Li who spares him after recognizing his loyalty and uprightness.
 - [薛兰 / Xue Lan (late Han)](entities/XueLanLateHan.md) — Lü Bu-side commander killed by Cao Cao at Juye before the Yanzhou recovery branch continues.
 - [李封 / Li Feng (late Han)](entities/LiFengLateHan.md) — Lü Bu-side commander killed with Xue Lan, triggering Lü Bu's rescue move and Cao Cao's ambush.
@@ -9582,7 +9595,9 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Concepts
 - [任官责任退出受限 / Office Duty Exit Constraint](concepts/OfficeDutyExitConstraint.md) — Governance pattern where capable officials cannot easily leave or avoid office because crisis demand treats their ability as a public asset.
-- [仁厚地方治理 / Humane Local Governance](concepts/HumaneLocalGovernance.md) — Local-administration pattern where calm conduct, light punishment, and moral instruction build order without maximizing bodily coercion.
+- [仁厚地方治理 / Humane Local Governance](concepts/HumaneLocalGovernance.md) — Local-administration pattern where calm conduct, light punishment, moral instruction, and redirected coercive capacity build order without maximizing fear.
+- [按亩征税 / Per-Mu Land Taxation](concepts/PerMuLandTaxation.md) — Huan-era fiscal-policy marker for the first source-described order to tax landholders by the mu.
+- [政策制度记载压缩 / Chronicle Policy Compression](concepts/ChroniclePolicyCompression.md) — Historiographical pattern where a chronicle records a major institutional decision tersely while leaving mechanism and consequence underdescribed.
 - [Non-Dual Mindfulness](concepts/NonDualMindfulness.md) — Meditation frame where thoughts, emotions, sensations, and selfing appear in awareness without a separate observer behind experience.
 - [Psychedelic Ordinary Freedom](concepts/PsychedelicOrdinaryFreedom.md) — Psychedelic-integration frame where peak states can reveal possibilities but the lasting target is ordinary waking freedom.
 - [Sustainable Health Optimization](concepts/SustainableHealthOptimization.md) — Health-routine frame where sleep, light, exercise, nutrition, and social connection support real life without protocol perfectionism.
@@ -9611,7 +9626,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [State-Dependent Self-Control / 状态依赖的自控](concepts/StateDependentSelfControl.md) — Self-regulation frame where tiredness, hunger, pain, alcohol, stress, circadian disruption, and context can temporarily shift judgment and impulse control.
 - [ADHD Self-Diagnosis Boundary / ADHD 自诊边界](concepts/ADHDSelfDiagnosisBoundary.md) — Diagnostic caution separating adult distraction or impulse from ADHD assessment that needs developmental history, impairment context, and qualified evaluation.
 - [Clinical Behavior-Change Red Flags / 行为突变就医信号](concepts/ClinicalBehaviorChangeRedFlags.md) — Medical-escalation frame for persistent, worsening, or baseline-breaking behavior and cognition changes.
-- [Lifestyle Weight Management / 生活方式体重管理](concepts/LifestyleWeightManagement.md) — Practical frame for managing weight through body composition, carbohydrates, protein, resistance training, sleep, flexibility, anxiety boundaries, and qualified medical care.
+- [Lifestyle Weight Management / 生活方式体重管理](concepts/LifestyleWeightManagement.md) — Practical frame for managing weight and metabolic habits through body composition, food structure, sugar control, protein, resistance training, sleep, flexibility, anxiety boundaries, and qualified medical care.
+- [Practical Sugar Control / 快乐控糖](concepts/PracticalSugarControl.md) — Public nutrition frame for reducing liquid and unconscious sugar while preserving staple foods, label literacy, and occasional sweet enjoyment.
+- [Food Pleasure Engineering / 食品愉悦工程](concepts/FoodPleasureEngineering.md) — Product and food-environment frame for sugar, fat, aroma, texture, and processing making repeated intake easier.
+- [Added and Free Sugar Distinction / 添加糖与游离糖区分](concepts/AddedFreeSugarDistinction.md) — Public nutrition distinction covering added sugars plus free sugars in honey, syrup, juice, and concentrated juice.
+- [Liquid Sugar Risk / 液体糖风险](concepts/LiquidSugarRisk.md) — Beverage-format risk where juice, sweet drinks, milk tea, flavored coffee, and sweetened dairy can deliver sugar quickly and repeatedly.
+- [Low-GI Marketing Trap / 低GI营销陷阱](concepts/LowGIMarketingTrap.md) — Warning that glycemic-index claims can hide total sugar load, fructose metabolism, serving size, and certification context.
+- [Nutrition Label Sugar Traps / 营养标签糖陷阱](concepts/NutritionLabelSugarTraps.md) — Consumer label-literacy frame for zero-sucrose, natural, sour-drink, hidden-sugar, carbohydrate-panel, and threshold claims.
+- [Sweetener Uncertainty / 代糖不确定性](concepts/SweetenerUncertainty.md) — Cautious frame for judging sugar substitutes by compound, dose, population, history, and health context.
+- [Glycation Skin Anxiety / 糖化皮肤焦虑](concepts/GlycationSkinAnxiety.md) — Boundary around real glycation and AGE concepts being turned into beauty panic or anti-sugar supplement shortcuts.
 - [Neuromodulator State Toolkit](concepts/NeuromodulatorStateToolkit.md) — Framework for adjusting motivation, energy, focus, relaxation, and wellbeing through dopamine, epinephrine, serotonin, acetylcholine, timing, behavior, nutrition, and safety boundaries.
 - [Dopamine Tool Timing](concepts/DopamineToolTiming.md) — Motivation-tool frame for matching sunlight, caffeine, supplements, cold exposure, baseline state, and daily timing without treating dopamine as simply more-is-better.
 - [Epinephrine Alertness Toolkit](concepts/EpinephrineAlertnessToolkit.md) — Alertness and movement-readiness frame linking locus-coeruleus arousal, exercise, caffeine, cyclic hyperventilation, cold exposure, and medical boundaries.
@@ -9702,7 +9725,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Military Reward Eunuch Gatekeeping / 宦官门槛下的军功赏罚](concepts/MilitaryRewardEunuchGatekeeping.md) — Late-Han pattern where frontier merit is reduced or reformatted because eunuch-side access shapes the reward channel.
 - [Local Auspicious Omen Fabrication / 地方祥瑞造作](concepts/LocalAuspiciousOmenFabrication.md) — Pattern where local reporting channels turn rumor, joke, or anomaly into an auspicious-omen report for upward political value.
 - [Controllable Child Accession / 可控幼主继位](concepts/ControllableChildAccession.md) — Hanji 879 succession pattern where a legitimate young ruler is attractive to powerholders because age makes behind-the-throne control easier.
-- [Palace Favorite Protection Fragility / 宫廷宠幸保护脆弱性](concepts/PalaceFavoriteProtectionFragility.md) — Hanji 879 pattern where ruler affection fails to protect a palace favorite after the patron dies if favor never becomes durable formal status.
+- [Palace Favorite Protection Fragility / 宫廷宠幸保护脆弱性](concepts/PalaceFavoriteProtectionFragility.md) — Huan harem pattern where favor, formal title, and institutional protection split, leaving palace victories fragile before and after the patron's death.
 - [Crisis Duty Continuity / 危局职守连续性](concepts/CrisisDutyContinuity.md) — Hanji 880 pattern where public duty continues through succession uncertainty rather than yielding to illness-based risk avoidance.
 - [Budgeted Frontier Suppression / 预算化边疆清剿](concepts/BudgetedFrontierSuppression.md) — Duan Jiong's Eastern Qiang strategy frame turning hard suppression into a court-legible plan with troops, terrain, duration, cost, and qualifications.
 - [军费通道利益驱动 / Campaign Finance Access Incentive](concepts/CampaignFinanceAccessIncentive.md) — Pattern where costly military campaigns create funding, reward, and approval channels that palace-access actors have reason to influence.
@@ -10586,6 +10609,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Audience-Versus-Meeting Diplomacy / 朝会之别](concepts/AudienceVsMeetingDiplomacy.md) — Diplomatic wording distinction where "会于京师" signals a lords' meeting at the Zhou capital without full royal audience.
 - [Zhou Hegemon Recognition / 周室霸权承认](concepts/ZhouHegemonRecognition.md) — Zhou court recognition of Qin Xiao Gong as senior lord or hegemon among the vassals.
 - [Merit-Based Reward and Punishment / 因功赏罚](concepts/MeritBasedRewardPunishment.md) — Han Zhaohou and Shen Buhai governance rule that offices and even small rewards must follow visible merit rather than private favor or ruler mood.
+- [Merit-Shielded Accountability / 因功免责](concepts/MeritShieldedAccountability.md) — Governance pattern where an official's proven misconduct is softened because prior service and continuing usefulness protect him from normal sanction.
 - [Household Separation Law / 分居令](concepts/HouseholdSeparationLaw.md) — Shang Yang second-reform rule extending Qin state order into household room-sharing and gender/in-law separation.
 - [Qin Administrative Standardization / 秦国行政标准化](concepts/QinAdministrativeStandardization.md) — Shang Yang second-reform package consolidating counties, land boundaries, land allocation, and measurement standards.
 - [Encircling Wei to Rescue Zhao / 围魏救赵](concepts/EncirclingWeiToRescueZhao.md) — Strategy of relieving an ally by threatening what the aggressor must save instead of fighting at the obvious pressure point.
@@ -13726,6 +13750,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Filial Revenge Public Sympathy](concepts/FilialRevengePublicSympathy.md) — How daughterly revenge for a humiliated father became a morally compelling public narrative.
 - [Judicial Independence And Public Opinion](concepts/JudicialIndependencePublicOpinion.md) — Legal-professional anxiety that sympathy, media pressure, and party-state power would weaken courts.
 - [Pardon As State Power](concepts/PardonAsStatePower.md) — Executive clemency as public-emotion management, sovereign assertion, and targeted repair of political trust after dangerous punishment.
+- [Pardon Without Exoneration / 赦免不等于昭雪](concepts/PardonWithoutExoneration.md) — Legal-reputation gap where amnesty releases a person from punishment but does not prove innocence or remove implied guilt.
 - [Gendered Nationalist Heroism](concepts/GenderedNationalistHeroism.md) — Recasting Shi Jianqiao from filial daughter into modern woman, revenge heroine, and patriotic mobilization symbol.
 - [Dimensional Allegory](concepts/DimensionalAllegory.md) — Literary use of geometric dimensions to make cognition, authority, theology, and social order visible.
 - [Geometric Social Hierarchy](concepts/GeometricSocialHierarchy.md) — Flatland frame where shape encodes gender, class, danger, status recognition, and social control.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 5755
+wiki_total_pages: 5767
 wiki_pages:
   - key: "NamingPowerSocialChange"
     title: "Naming Power In Social Change / 社会变革中的命名权"
@@ -317,6 +317,9 @@ wiki_pages:
   - key: "NutritionMentalHealth"
     title: "Nutrition and Mental Health"
     url: "/wiki/concepts/nutritionmentalhealth/"
+  - key: "NutritionLabelSugarTraps"
+    title: "Nutrition Label Sugar Traps / 营养标签糖陷阱"
+    url: "/wiki/concepts/nutritionlabelsugartraps/"
   - key: "NortheastModernityTestSite"
     title: "东北现代性试验场 / Northeast Modernity Test Site"
     url: "/wiki/concepts/northeastmodernitytestsite/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 5755
+wiki_total_pages: 5767
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -200,6 +200,9 @@ wiki_pages:
   - key: "GLP1Agonists"
     title: "GLP-1 Agonists"
     url: "/wiki/concepts/glp1agonists/"
+  - key: "GlycationSkinAnxiety"
+    title: "Glycation Skin Anxiety / 糖化皮肤焦虑"
+    url: "/wiki/concepts/glycationskinanxiety/"
   - key: "Gnosticism"
     title: "Gnosticism / 诺斯替主义"
     url: "/wiki/concepts/gnosticism/"

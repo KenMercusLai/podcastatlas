@@ -16,7 +16,7 @@ Guo Tai is a late-Han scholar, reputation leader, and talent judge whose wiki pr
 
 ## Current Profile
 
-The current evidence presents Guo Tai as a scholar whose reputation rests on judgment, public influence, and restraint. Hanji 871 places him with [[JiaBiaoLateHan|贾彪]] at the head of a large Taixue student-scholarly field. Their mutual praise with [[LiYingLateHan|李膺]], [[ChenFanLateHan|陈蕃]], and [[WangChangLateHan|王畅]] helps make public evaluation strong enough that officials fear criticism and seek approval. This makes Guo Tai a direct case of [[QingyiReputationPressure|清议声誉压力]] before the later source sequence turns that reputation field dangerous.
+The current evidence presents Guo Tai as a scholar whose reputation rests on judgment, public influence, and restraint. Hanji 871 places him with [[JiaBiaoLateHan|贾彪]] at the head of a large Taixue student-scholarly field. Their mutual praise with [[LiYingLateHan|李膺]], [[ChenFanLateHan|陈蕃]], and [[WangChangShumaoLateHan|王畅]] helps make public evaluation strong enough that officials fear criticism and seek approval. This makes Guo Tai a direct case of [[QingyiReputationPressure|清议声誉压力]] before the later source sequence turns that reputation field dangerous.
 
 Hanji 894 gives the survival and withdrawal layer. Guo Tai grieves the deaths of party figures but avoids fierce political speech, so eunuch-side retaliation does not strike him directly. After reading the Eastern Han order as exhausted, he closes his door and teaches students.
 

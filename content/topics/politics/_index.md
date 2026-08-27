@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1949
+topic_total_pages: 1953
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -1666,6 +1666,9 @@ topic_concepts:
   - key: "MeritBasedRewardPunishment"
     title: "Merit-Based Reward and Punishment / 因功赏罚"
     url: "/wiki/concepts/meritbasedrewardpunishment/"
+  - key: "MeritShieldedAccountability"
+    title: "Merit-Shielded Accountability / 因功免责"
+    url: "/wiki/concepts/meritshieldedaccountability/"
   - key: "MigrationWeaponization"
     title: "Migration Weaponization"
     url: "/wiki/concepts/migrationweaponization/"
@@ -1864,6 +1867,9 @@ topic_concepts:
   - key: "PardonAsStatePower"
     title: "Pardon As State Power"
     url: "/wiki/concepts/pardonasstatepower/"
+  - key: "PardonWithoutExoneration"
+    title: "Pardon Without Exoneration / 赦免不等于昭雪"
+    url: "/wiki/concepts/pardonwithoutexoneration/"
   - key: "ParentalDefenseConflict"
     title: "Parental Defense Conflict / 父母辩护冲突"
     url: "/wiki/concepts/parentaldefenseconflict/"
@@ -3124,9 +3130,15 @@ topic_concepts:
   - key: "ConfiscationAndFemaleFate"
     title: "抄家籍没与女性命运 / Confiscation And Female Fate"
     url: "/wiki/concepts/confiscationandfemalefate/"
+  - key: "PerMuLandTaxation"
+    title: "按亩征税 / Per-Mu Land Taxation"
+    url: "/wiki/concepts/permulandtaxation/"
   - key: "ChuaimoTechnique"
     title: "揣摩 / Chuaimo Technique"
     url: "/wiki/concepts/chuaimotechnique/"
+  - key: "ChroniclePolicyCompression"
+    title: "政策制度记载压缩 / Chronicle Policy Compression"
+    url: "/wiki/concepts/chroniclepolicycompression/"
   - key: "DisasterReliefCorruption"
     title: "救灾物资贪腐 / Disaster Relief Corruption"
     url: "/wiki/concepts/disasterreliefcorruption/"

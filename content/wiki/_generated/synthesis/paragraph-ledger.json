@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "f6d0ff32b347209c33dd974c50ea67a6ebeb6f0dc21bc1f5943b691b692ce946",
       "37dc5c44dc770be4386b069c0352d319d32d0298431a5c9624b92543b351d5cc",
       "5d9e75d5fe35dbac54e85c72f902914ef958ac06f1aded81742a56a7cc267ea8",
       "8e3502565308f1d3e099c0f46c4e9dc00304588435348e5458f7fd8411cdd37b",
@@ -310,11 +311,38 @@
       "16d531495e2a6294ae198d0b95a352e519f488fcca1dbdae1f416758d1cfa576",
       "a9fec3ceb1b343b1fafeebc9ab2903b46238a861f9aaafd9d15b1460340a08b5"
     ],
-    "paragraph_count": 308
+    "paragraph_count": 309
   },
-  "overview_commit": "ecf6ba05194d75fbb4f876a4e70bbad6c0707ce7",
-  "overview_digest": "2d91dc9062a679684cf99b25b18de99e95115e971368b0d9e111f42875542583",
+  "overview_commit": "56049fa52f8554d078c9b9c82f8f64b2214069bf",
+  "overview_digest": "144db073b2c5d4b180ccb9408d840ff78e95a0d937863dfbd5952bc7fe313aed",
   "paragraphs": [
+    {
+      "id": "f6d0ff32b347209c33dd974c50ea67a6ebeb6f0dc21bc1f5943b691b692ce946",
+      "primary_topic": "science-health-and-climate",
+      "secondary_topics": [],
+      "text": "The latest addition is [[vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z|VOL.215 低GI蜂蜜、零蔗糖、抗糖丸…？这届控糖人到底踩了多少坑？ft.「大食话」]], a [[ZheBingShuoLaiHuaChang|这病说来话长]] episode with [[Atang|阿汤]] and [[YueWanrou|岳宛柔]] from [[DaShiHua|大食话]] on sugar-control literacy. It adds [[PracticalSugarControl]], [[FoodPleasureEngineering]], [[AddedFreeSugarDistinction]], [[LiquidSugarRisk]], [[LowGIMarketingTrap]], [[NutritionLabelSugarTraps]], [[SweetenerUncertainty]], and [[GlycationSkinAnxiety]], while extending [[LifestyleWeightManagement]], [[MedicalRiskManagement]], and [[LifestyleDiseasePrevention]]. Its core synthesis is that sugar control should reduce high-risk forms and misleading claims rather than demonize all sweetness or staple foods: liquid sugar, juice, hidden sugar, zero-sucrose labels, low-GI honey, sweeteners, and anti-sugar pills all need context around food structure, total intake, frequency, and qualified care. No settled contradiction is recorded; the episode keeps diabetes, fatty liver, metabolic disease, dermatology, and supplement claims source-scoped rather than individualized medical advice.",
+      "topic_scores": {
+        "science-health-and-climate": 1
+      },
+      "wikilinks": [
+        "AddedFreeSugarDistinction",
+        "Atang",
+        "DaShiHua",
+        "FoodPleasureEngineering",
+        "GlycationSkinAnxiety",
+        "LifestyleDiseasePrevention",
+        "LifestyleWeightManagement",
+        "LiquidSugarRisk",
+        "LowGIMarketingTrap",
+        "MedicalRiskManagement",
+        "NutritionLabelSugarTraps",
+        "PracticalSugarControl",
+        "SweetenerUncertainty",
+        "YueWanrou",
+        "ZheBingShuoLaiHuaChang",
+        "vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z"
+      ]
+    },
     {
       "id": "37dc5c44dc770be4386b069c0352d319d32d0298431a5c9624b92543b351d5cc",
       "primary_topic": "governance-and-institutions",

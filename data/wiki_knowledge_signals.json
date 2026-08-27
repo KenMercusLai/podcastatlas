@@ -993,6 +993,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/actionableorganizationalvalues/"
     },
+    "AddedFreeSugarDistinction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ltb5LYaycaXOIJiKTBO4pXne2A5Z [ltb5LYaycaXOIJiKTBO4pXne2A5Z].md",
+          "key": "vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z",
+          "show": "这病说来话长",
+          "title": "VOL.215 低GI蜂蜜、零蔗糖、抗糖丸…？这届控糖人到底踩了多少坑？ft.「大食话」",
+          "url": "/wiki/sources/vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/addedfreesugardistinction/"
+    },
     "AdultToyMarketExpansion": {
       "episode_count": 1,
       "show_count": 1,
@@ -1656,9 +1672,9 @@
       "url": "/wiki/concepts/assisteddrivingtrustformation/"
     },
     "Atang": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lgBs8AaxGUH_xzGa8iUEwwc7ypvM [lgBs8AaxGUH_xzGa8iUEwwc7ypvM].md",
@@ -1680,6 +1696,13 @@
           "show": "这病说来话长",
           "title": "VOL.216 停止“神化”前额叶：别让网络热词变成你的诊断书",
           "url": "/wiki/sources/vol-216-tingzhi-shenhua-qianeye-bie-rang-wangluo-reci-biancheng-nide-zhenduanshu-lp0cll17cydzmh36sawfj7-rjwur/"
+        },
+        {
+          "episode_file": "ltb5LYaycaXOIJiKTBO4pXne2A5Z [ltb5LYaycaXOIJiKTBO4pXne2A5Z].md",
+          "key": "vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z",
+          "show": "这病说来话长",
+          "title": "VOL.215 低GI蜂蜜、零蔗糖、抗糖丸…？这届控糖人到底踩了多少坑？ft.「大食话」",
+          "url": "/wiki/sources/vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z/"
         }
       ],
       "updated": "2026-08-28",
@@ -2778,9 +2801,9 @@
       "url": "/wiki/entities/chezhoulatehan/"
     },
     "ChenFanLateHan": {
-      "episode_count": 13,
+      "episode_count": 15,
       "show_count": 1,
-      "source_note_count": 13,
+      "source_note_count": 15,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》901 丨急性子的人会是什么下场？ [lh1yfyJZqPTXVtnV9tAiQms9YjUd].md",
@@ -2872,6 +2895,20 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》869丨李膺为何被称为天下第一楷模？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-869-liying-weihe-bei-chengwei-tianxia-diyi-kaimo-lltckcioe1n9v91yy4c9vvwmz4mo/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》868丨赢了也是输家？东汉后宫争艳记 [lmMJGx23NLKeQr3MkzLIiJ-zWe2v].md",
+          "key": "zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》868丨赢了也是输家？东汉后宫争艳记",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》867丨无辜被泼脏水？他选择霸气回击 [lqEnvOy7X8iC-Qn3_bf93QJ8tjVk].md",
+          "key": "zizhi-tongjian-hanji-867-wugu-bei-po-zangshui-ta-xuanze-baqi-huiji-lqenvoy7x8ic-qn3-bf93qj8tjvk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》867丨无辜被泼脏水？他选择霸气回击",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-867-wugu-bei-po-zangshui-ta-xuanze-baqi-huiji-lqenvoy7x8ic-qn3-bf93qj8tjvk/"
         }
       ],
       "updated": "2026-08-28",
@@ -2929,6 +2966,43 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/chenlinlatehan/"
+    },
+    "ChenQiuLateHan": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》901 丨急性子的人会是什么下场？ [lh1yfyJZqPTXVtnV9tAiQms9YjUd].md",
+          "key": "zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》901 丨急性子的人会是什么下场？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》913丨看懂“塞翁失马”，悟透人生福祸 [lkFbrwTGsJmA85BZugqONZK3Hy4g].md",
+          "key": "zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》913丨看懂“塞翁失马”，悟透人生福祸",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》918丨事情不顺利时，为什么要闭嘴？ [lh-tBOhgO96qw8bJqu3x1Yp6CZV5].md",
+          "key": "zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》918丨事情不顺利时，为什么要闭嘴？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》867丨无辜被泼脏水？他选择霸气回击 [lqEnvOy7X8iC-Qn3_bf93QJ8tjVk].md",
+          "key": "zizhi-tongjian-hanji-867-wugu-bei-po-zangshui-ta-xuanze-baqi-huiji-lqenvoy7x8ic-qn3-bf93qj8tjvk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》867丨无辜被泼脏水？他选择霸气回击",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-867-wugu-bei-po-zangshui-ta-xuanze-baqi-huiji-lqenvoy7x8ic-qn3-bf93qj8tjvk/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/chenqiulatehan/"
     },
     "ChenShiLateHan": {
       "episode_count": 3,
@@ -3203,6 +3277,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/christophernavarro/"
+    },
+    "ChroniclePolicyCompression": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》868丨赢了也是输家？东汉后宫争艳记 [lmMJGx23NLKeQr3MkzLIiJ-zWe2v].md",
+          "key": "zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》868丨赢了也是输家？东汉后宫争艳记",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/chroniclepolicycompression/"
     },
     "CityPlacePremium": {
       "episode_count": 1,
@@ -3796,6 +3886,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/cuiyanlatehan/"
     },
+    "DaShiHua": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ltb5LYaycaXOIJiKTBO4pXne2A5Z [ltb5LYaycaXOIJiKTBO4pXne2A5Z].md",
+          "key": "vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z",
+          "show": "这病说来话长",
+          "title": "VOL.215 低GI蜂蜜、零蔗糖、抗糖丸…？这届控糖人到底踩了多少坑？ft.「大食话」",
+          "url": "/wiki/sources/vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/dashihua/"
+    },
     "DaVinciSurgicalSystem": {
       "episode_count": 1,
       "show_count": 1,
@@ -4341,9 +4447,9 @@
       "url": "/wiki/concepts/dopaminewantingloop/"
     },
     "DouWuLateHan": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 1,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》898丨认贼作父？可怜之人能有多荒唐？ [lgFUp6tYV85zHvnMZf6XleSMBlCj].md",
@@ -4428,9 +4534,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》875丨离大谱！为何他以入狱为荣？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-875-li-dapu-weihe-ta-yi-ruyu-wei-rong-lgffkjk-0yu-ehfsw59anoych-ld/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》868丨赢了也是输家？东汉后宫争艳记 [lmMJGx23NLKeQr3MkzLIiJ-zWe2v].md",
+          "key": "zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》868丨赢了也是输家？东汉后宫争艳记",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-28",
       "url": "/wiki/entities/douwulatehan/"
     },
     "DoubaoWork": {
@@ -4511,6 +4624,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/dumilatehan/"
     },
+    "DuShangLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》867丨无辜被泼脏水？他选择霸气回击 [lqEnvOy7X8iC-Qn3_bf93QJ8tjVk].md",
+          "key": "zizhi-tongjian-hanji-867-wugu-bei-po-zangshui-ta-xuanze-baqi-huiji-lqenvoy7x8ic-qn3-bf93qj8tjvk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》867丨无辜被泼脏水？他选择霸气回击",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-867-wugu-bei-po-zangshui-ta-xuanze-baqi-huiji-lqenvoy7x8ic-qn3-bf93qj8tjvk/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/dushanglatehan/"
+    },
     "DuXiLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -4528,9 +4657,9 @@
       "url": "/wiki/entities/duxilatehan/"
     },
     "DuanJiongLateHan": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 1,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》897丨职场必读！什么才叫领导力？ [lvRRMkSykaZLSb7W8aBbdmNqfzQQ].md",
@@ -4608,9 +4737,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》880丨为何职场老油条热衷于称病？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-880-weihe-zhichang-laoyoutiao-rezhong-yu-chengbing-lnzfgwghrxrpltsmb8godap-nyzw/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》867丨无辜被泼脏水？他选择霸气回击 [lqEnvOy7X8iC-Qn3_bf93QJ8tjVk].md",
+          "key": "zizhi-tongjian-hanji-867-wugu-bei-po-zangshui-ta-xuanze-baqi-huiji-lqenvoy7x8ic-qn3-bf93qj8tjvk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》867丨无辜被泼脏水？他选择霸气回击",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-867-wugu-bei-po-zangshui-ta-xuanze-baqi-huiji-lqenvoy7x8ic-qn3-bf93qj8tjvk/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-28",
       "url": "/wiki/entities/duanjionglatehan/"
     },
     "DullDirtyDangerousRobotics": {
@@ -4950,9 +5086,9 @@
       "url": "/wiki/concepts/emotionsasfunctionalcontrolstates/"
     },
     "EmperorHuanOfHan": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 1,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》901 丨急性子的人会是什么下场？ [lh1yfyJZqPTXVtnV9tAiQms9YjUd].md",
@@ -5030,15 +5166,38 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》869丨李膺为何被称为天下第一楷模？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-869-liying-weihe-bei-chengwei-tianxia-diyi-kaimo-lltckcioe1n9v91yy4c9vvwmz4mo/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》868丨赢了也是输家？东汉后宫争艳记 [lmMJGx23NLKeQr3MkzLIiJ-zWe2v].md",
+          "key": "zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》868丨赢了也是输家？东汉后宫争艳记",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v/"
         }
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/emperorhuanofhan/"
     },
-    "EmpressDowagerDouMiao": {
-      "episode_count": 8,
+    "EmpressDengHuanLateHan": {
+      "episode_count": 1,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》868丨赢了也是输家？东汉后宫争艳记 [lmMJGx23NLKeQr3MkzLIiJ-zWe2v].md",
+          "key": "zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》868丨赢了也是输家？东汉后宫争艳记",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/empressdenghuanlatehan/"
+    },
+    "EmpressDowagerDouMiao": {
+      "episode_count": 9,
+      "show_count": 1,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》898丨认贼作父？可怜之人能有多荒唐？ [lgFUp6tYV85zHvnMZf6XleSMBlCj].md",
@@ -5095,9 +5254,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》879丨死在女人身上的昏庸男人",
           "url": "/wiki/sources/zizhi-tongjian-hanji-879-si-zai-nvren-shenshang-de-hunyong-nanren-lqz5-mpi0waa-xmuhjhwkaecjjrc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》868丨赢了也是输家？东汉后宫争艳记 [lmMJGx23NLKeQr3MkzLIiJ-zWe2v].md",
+          "key": "zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》868丨赢了也是输家？东汉后宫争艳记",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-28",
       "url": "/wiki/entities/empressdowagerdoumiao/"
     },
     "EmpressSisi": {
@@ -5660,6 +5826,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/findesiecleviennacrisisreading/"
+    },
+    "FoodPleasureEngineering": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ltb5LYaycaXOIJiKTBO4pXne2A5Z [ltb5LYaycaXOIJiKTBO4pXne2A5Z].md",
+          "key": "vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z",
+          "show": "这病说来话长",
+          "title": "VOL.215 低GI蜂蜜、零蔗糖、抗糖丸…？这届控糖人到底踩了多少坑？ft.「大食话」",
+          "url": "/wiki/sources/vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/foodpleasureengineering/"
     },
     "ForceBackedSurrenderPersuasion": {
       "episode_count": 1,
@@ -6293,6 +6475,22 @@
       "updated": "2026-08-24",
       "url": "/wiki/concepts/globalproductlocalization/"
     },
+    "GlycationSkinAnxiety": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ltb5LYaycaXOIJiKTBO4pXne2A5Z [ltb5LYaycaXOIJiKTBO4pXne2A5Z].md",
+          "key": "vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z",
+          "show": "这病说来话长",
+          "title": "VOL.215 低GI蜂蜜、零蔗糖、抗糖丸…？这届控糖人到底踩了多少坑？ft.「大食话」",
+          "url": "/wiki/sources/vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/glycationskinanxiety/"
+    },
     "GoalkeeperEmbodiedJudgment": {
       "episode_count": 1,
       "show_count": 1,
@@ -6634,6 +6832,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/guiderobotdogs/"
+    },
+    "GuoGuirenHuanLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》868丨赢了也是输家？东汉后宫争艳记 [lmMJGx23NLKeQr3MkzLIiJ-zWe2v].md",
+          "key": "zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》868丨赢了也是输家？东汉后宫争艳记",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/guoguirenhuanlatehan/"
     },
     "GuoNing": {
       "episode_count": 1,
@@ -7190,6 +7404,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/hufanglatehan/"
     },
+    "HuLanLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》867丨无辜被泼脏水？他选择霸气回击 [lqEnvOy7X8iC-Qn3_bf93QJ8tjVk].md",
+          "key": "zizhi-tongjian-hanji-867-wugu-bei-po-zangshui-ta-xuanze-baqi-huiji-lqenvoy7x8ic-qn3-bf93qj8tjvk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》867丨无辜被泼脏水？他选择霸气回击",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-867-wugu-bei-po-zangshui-ta-xuanze-baqi-huiji-lqenvoy7x8ic-qn3-bf93qj8tjvk/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/hulanlatehan/"
+    },
     "HuTengLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -7507,9 +7737,9 @@
       "url": "/wiki/concepts/humanrobotsafetycertification/"
     },
     "HumaneLocalGovernance": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》870丨古代体制内，不干了没有退路 [lpWBNiU9IFPT6Cp4ip9cZqwSh5XD].md",
@@ -7517,6 +7747,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》870丨古代体制内，不干了没有退路",
           "url": "/wiki/sources/zizhi-tongjian-hanji-870-gudai-tizhinei-buganle-meiyou-tuilu-lpwbniu9ifpt6cp4ip9czqwsh5xd/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》868丨赢了也是输家？东汉后宫争艳记 [lmMJGx23NLKeQr3MkzLIiJ-zWe2v].md",
+          "key": "zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》868丨赢了也是输家？东汉后宫争艳记",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v/"
         }
       ],
       "updated": "2026-08-28",
@@ -9434,9 +9671,9 @@
       "url": "/wiki/entities/libgen/"
     },
     "LifestyleWeightManagement": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "llat_ySKrqmRO0KdJWUOegDCAlU5 [llat_ySKrqmRO0KdJWUOegDCAlU5].md",
@@ -9444,9 +9681,16 @@
           "show": "这病说来话长",
           "title": "VOL.217停止“神化”减肥针！不挨饿、不戒碳水，这才是普通人该抄的减重作业",
           "url": "/wiki/sources/vol-217-tingzhi-shenhua-jianfeizhen-bu-aie-bu-jie-tanshui-zhe-cai-shi-putongren-gai-chao-de-jianzhong-zuoye-llat-yskrqmro0kdjwuoegdcalu5/"
+        },
+        {
+          "episode_file": "ltb5LYaycaXOIJiKTBO4pXne2A5Z [ltb5LYaycaXOIJiKTBO4pXne2A5Z].md",
+          "key": "vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z",
+          "show": "这病说来话长",
+          "title": "VOL.215 低GI蜂蜜、零蔗糖、抗糖丸…？这届控糖人到底踩了多少坑？ft.「大食话」",
+          "url": "/wiki/sources/vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-28",
       "url": "/wiki/concepts/lifestyleweightmanagement/"
     },
     "LinkedIn": {
@@ -9485,6 +9729,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/linkedin/"
+    },
+    "LiquidSugarRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ltb5LYaycaXOIJiKTBO4pXne2A5Z [ltb5LYaycaXOIJiKTBO4pXne2A5Z].md",
+          "key": "vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z",
+          "show": "这病说来话长",
+          "title": "VOL.215 低GI蜂蜜、零蔗糖、抗糖丸…？这届控糖人到底踩了多少坑？ft.「大食话」",
+          "url": "/wiki/sources/vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/liquidsugarrisk/"
     },
     "LisaMosconi": {
       "episode_count": 1,
@@ -9665,9 +9925,9 @@
       "url": "/wiki/entities/liukuanlatehan/"
     },
     "LiuMaoLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》872丨他娶妾不成，竟杀人全家 [ltBEGc7GBET2_HLhwhtevVltGNlC].md",
@@ -9675,9 +9935,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》872丨他娶妾不成，竟杀人全家",
           "url": "/wiki/sources/zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》868丨赢了也是输家？东汉后宫争艳记 [lmMJGx23NLKeQr3MkzLIiJ-zWe2v].md",
+          "key": "zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》868丨赢了也是输家？东汉后宫争艳记",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-28",
       "url": "/wiki/entities/liumaolatehan/"
     },
     "LiuPiRunanLateHan": {
@@ -9964,6 +10231,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/lowcountries/"
+    },
+    "LowGIMarketingTrap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ltb5LYaycaXOIJiKTBO4pXne2A5Z [ltb5LYaycaXOIJiKTBO4pXne2A5Z].md",
+          "key": "vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z",
+          "show": "这病说来话长",
+          "title": "VOL.215 低GI蜂蜜、零蔗糖、抗糖丸…？这届控糖人到底踩了多少坑？ft.「大食话」",
+          "url": "/wiki/sources/vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/lowgimarketingtrap/"
     },
     "LoyaltyCollateralDilemma": {
       "episode_count": 7,
@@ -11103,6 +11386,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/merck/"
     },
+    "MeritShieldedAccountability": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》867丨无辜被泼脏水？他选择霸气回击 [lqEnvOy7X8iC-Qn3_bf93QJ8tjVk].md",
+          "key": "zizhi-tongjian-hanji-867-wugu-bei-po-zangshui-ta-xuanze-baqi-huiji-lqenvoy7x8ic-qn3-bf93qj8tjvk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》867丨无辜被泼脏水？他选择霸气回击",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-867-wugu-bei-po-zangshui-ta-xuanze-baqi-huiji-lqenvoy7x8ic-qn3-bf93qj8tjvk/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/meritshieldedaccountability/"
+    },
     "MetabolicPsychiatry": {
       "episode_count": 1,
       "show_count": 1,
@@ -12062,6 +12361,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/northernrising/"
     },
+    "NutritionLabelSugarTraps": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ltb5LYaycaXOIJiKTBO4pXne2A5Z [ltb5LYaycaXOIJiKTBO4pXne2A5Z].md",
+          "key": "vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z",
+          "show": "这病说来话长",
+          "title": "VOL.215 低GI蜂蜜、零蔗糖、抗糖丸…？这届控糖人到底踩了多少坑？ft.「大食话」",
+          "url": "/wiki/sources/vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/nutritionlabelsugartraps/"
+    },
     "NutritionMentalHealth": {
       "episode_count": 1,
       "show_count": 1,
@@ -12434,9 +12749,9 @@
       "url": "/wiki/concepts/packagedwaterpricewar/"
     },
     "PalaceFavoriteProtectionFragility": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》879丨死在女人身上的昏庸男人 [lqz5_Mpi0WAA_xmUHJHwkAECjJRC].md",
@@ -12444,9 +12759,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》879丨死在女人身上的昏庸男人",
           "url": "/wiki/sources/zizhi-tongjian-hanji-879-si-zai-nvren-shenshang-de-hunyong-nanren-lqz5-mpi0waa-xmuhjhwkaecjjrc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》868丨赢了也是输家？东汉后宫争艳记 [lmMJGx23NLKeQr3MkzLIiJ-zWe2v].md",
+          "key": "zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》868丨赢了也是输家？东汉后宫争艳记",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-28",
       "url": "/wiki/concepts/palacefavoriteprotectionfragility/"
     },
     "PalaceProximityPower": {
@@ -12480,6 +12802,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/paradoxmachines/"
+    },
+    "PardonWithoutExoneration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》867丨无辜被泼脏水？他选择霸气回击 [lqEnvOy7X8iC-Qn3_bf93QJ8tjVk].md",
+          "key": "zizhi-tongjian-hanji-867-wugu-bei-po-zangshui-ta-xuanze-baqi-huiji-lqenvoy7x8ic-qn3-bf93qj8tjvk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》867丨无辜被泼脏水？他选择霸气回击",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-867-wugu-bei-po-zangshui-ta-xuanze-baqi-huiji-lqenvoy7x8ic-qn3-bf93qj8tjvk/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/pardonwithoutexoneration/"
     },
     "ParentalEmbodiedModeling": {
       "episode_count": 1,
@@ -12698,6 +13036,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/pengleihuawei/"
+    },
+    "PerMuLandTaxation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》868丨赢了也是输家？东汉后宫争艳记 [lmMJGx23NLKeQr3MkzLIiJ-zWe2v].md",
+          "key": "zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》868丨赢了也是输家？东汉后宫争艳记",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/permulandtaxation/"
     },
     "PerimenopauseBrainMetabolism": {
       "episode_count": 2,
@@ -12946,6 +13300,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/powerstructuretargeting/"
+    },
+    "PracticalSugarControl": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ltb5LYaycaXOIJiKTBO4pXne2A5Z [ltb5LYaycaXOIJiKTBO4pXne2A5Z].md",
+          "key": "vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z",
+          "show": "这病说来话长",
+          "title": "VOL.215 低GI蜂蜜、零蔗糖、抗糖丸…？这届控糖人到底踩了多少坑？ft.「大食话」",
+          "url": "/wiki/sources/vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/practicalsugarcontrol/"
     },
     "PredictiveWorldModelAnxiety": {
       "episode_count": 1,
@@ -15291,6 +15661,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/sustainablehealthoptimization/"
     },
+    "SweetenerUncertainty": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ltb5LYaycaXOIJiKTBO4pXne2A5Z [ltb5LYaycaXOIJiKTBO4pXne2A5Z].md",
+          "key": "vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z",
+          "show": "这病说来话长",
+          "title": "VOL.215 低GI蜂蜜、零蔗糖、抗糖丸…？这届控糖人到底踩了多少坑？ft.「大食话」",
+          "url": "/wiki/sources/vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/sweeteneruncertainty/"
+    },
     "SymptomDrivenSpineCare": {
       "episode_count": 1,
       "show_count": 1,
@@ -15773,9 +16159,9 @@
       "url": "/wiki/entities/tiankailatehan/"
     },
     "TianShengLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》879丨死在女人身上的昏庸男人 [lqz5_Mpi0WAA_xmUHJHwkAECjJRC].md",
@@ -15783,9 +16169,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》879丨死在女人身上的昏庸男人",
           "url": "/wiki/sources/zizhi-tongjian-hanji-879-si-zai-nvren-shenshang-de-hunyong-nanren-lqz5-mpi0waa-xmuhjhwkaecjjrc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》868丨赢了也是输家？东汉后宫争艳记 [lmMJGx23NLKeQr3MkzLIiJ-zWe2v].md",
+          "key": "zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》868丨赢了也是输家？东汉后宫争艳记",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-28",
       "url": "/wiki/entities/tianshenglatehan/"
     },
     "TianYanLateHan": {
@@ -16495,6 +16888,43 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/wanchenglujiang/"
+    },
+    "WangChangShumaoLateHan": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》868丨赢了也是输家？东汉后宫争艳记 [lmMJGx23NLKeQr3MkzLIiJ-zWe2v].md",
+          "key": "zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》868丨赢了也是输家？东汉后宫争艳记",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》871丨惩恶扬善，为何反被诬陷入狱？ [lujKihgVH-CAfKh9Bfak6_VTTPwT].md",
+          "key": "zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》871丨惩恶扬善，为何反被诬陷入狱？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》883丨老板要反思：如何避免高官内讧？ [lph-fycNqAs6hZtjQ1jbSiSVyliD].md",
+          "key": "zizhi-tongjian-hanji-883-laoban-yao-fansi-ruhe-bimian-gaoguan-neihong-lph-fycnqas6hztjq1jbsisvylid",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》883丨老板要反思：如何避免高官内讧？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-883-laoban-yao-fansi-ruhe-bimian-gaoguan-neihong-lph-fycnqas6hztjq1jbsisvylid/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》890丨想当官先学对付“小人” [ltNVH6QU-MR8flSDLXF_E6rKNpIS].md",
+          "key": "zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》890丨想当官先学对付“小人”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/wangchangshumaolatehan/"
     },
     "WangFuDongChengPlot": {
       "episode_count": 1,
@@ -17238,7 +17668,7 @@
           "url": "/wiki/sources/zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-28",
       "url": "/wiki/entities/xiebilatehan/"
     },
     "XiziRanLateHan": {
@@ -18028,9 +18458,9 @@
       "url": "/wiki/entities/yinxunlatehan/"
     },
     "YingFengLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》869丨李膺为何被称为天下第一楷模？ [llTCKCiOE1n9V91Yy4C9VvWmZ4mo].md",
@@ -18038,6 +18468,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》869丨李膺为何被称为天下第一楷模？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-869-liying-weihe-bei-chengwei-tianxia-diyi-kaimo-lltckcioe1n9v91yy4c9vvwmz4mo/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》868丨赢了也是输家？东汉后宫争艳记 [lmMJGx23NLKeQr3MkzLIiJ-zWe2v].md",
+          "key": "zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》868丨赢了也是输家？东汉后宫争艳记",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v/"
         }
       ],
       "updated": "2026-08-28",
@@ -18127,6 +18564,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/yuanyinlatehan/"
+    },
+    "YueWanrou": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ltb5LYaycaXOIJiKTBO4pXne2A5Z [ltb5LYaycaXOIJiKTBO4pXne2A5Z].md",
+          "key": "vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z",
+          "show": "这病说来话长",
+          "title": "VOL.215 低GI蜂蜜、零蔗糖、抗糖丸…？这届控糖人到底踩了多少坑？ft.「大食话」",
+          "url": "/wiki/sources/vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/yuewanrou/"
     },
     "YuvalNoahHarari": {
       "episode_count": 1,
@@ -18256,6 +18709,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/zhaichaolatehan/"
+    },
+    "ZhangChangNanyangLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》868丨赢了也是输家？东汉后宫争艳记 [lmMJGx23NLKeQr3MkzLIiJ-zWe2v].md",
+          "key": "zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》868丨赢了也是输家？东汉后宫争艳记",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/zhangchangnanyanglatehan/"
     },
     "ZhangChengAstrologerLateHan": {
       "episode_count": 1,
@@ -18429,6 +18898,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/zhangmulatehan/"
+    },
+    "ZhangPanLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》867丨无辜被泼脏水？他选择霸气回击 [lqEnvOy7X8iC-Qn3_bf93QJ8tjVk].md",
+          "key": "zizhi-tongjian-hanji-867-wugu-bei-po-zangshui-ta-xuanze-baqi-huiji-lqenvoy7x8ic-qn3-bf93qj8tjvk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》867丨无辜被泼脏水？他选择霸气回击",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-867-wugu-bei-po-zangshui-ta-xuanze-baqi-huiji-lqenvoy7x8ic-qn3-bf93qj8tjvk/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/zhangpanlatehan/"
     },
     "ZhangShuoLateHan": {
       "episode_count": 1,
@@ -18608,9 +19093,9 @@
       "url": "/wiki/entities/zhaoyanlatehan/"
     },
     "ZheBingShuoLaiHuaChang": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "loFs520pS1eVva8naFSnRKcbvgJZ [loFs520pS1eVva8naFSnRKcbvgJZ].md",
@@ -18646,6 +19131,13 @@
           "show": "这病说来话长",
           "title": "VOL.216 停止“神化”前额叶：别让网络热词变成你的诊断书",
           "url": "/wiki/sources/vol-216-tingzhi-shenhua-qianeye-bie-rang-wangluo-reci-biancheng-nide-zhenduanshu-lp0cll17cydzmh36sawfj7-rjwur/"
+        },
+        {
+          "episode_file": "ltb5LYaycaXOIJiKTBO4pXne2A5Z [ltb5LYaycaXOIJiKTBO4pXne2A5Z].md",
+          "key": "vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z",
+          "show": "这病说来话长",
+          "title": "VOL.215 低GI蜂蜜、零蔗糖、抗糖丸…？这届控糖人到底踩了多少坑？ft.「大食话」",
+          "url": "/wiki/sources/vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z/"
         }
       ],
       "updated": "2026-08-28",
@@ -18811,6 +19303,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/zhubilatehan/"
+    },
+    "ZhuGaiLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》867丨无辜被泼脏水？他选择霸气回击 [lqEnvOy7X8iC-Qn3_bf93QJ8tjVk].md",
+          "key": "zizhi-tongjian-hanji-867-wugu-bei-po-zangshui-ta-xuanze-baqi-huiji-lqenvoy7x8ic-qn3-bf93qj8tjvk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》867丨无辜被泼脏水？他选择霸气回击",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-867-wugu-bei-po-zangshui-ta-xuanze-baqi-huiji-lqenvoy7x8ic-qn3-bf93qj8tjvk/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/zhugailatehan/"
     },
     "ZhuLingLateHan": {
       "episode_count": 1,

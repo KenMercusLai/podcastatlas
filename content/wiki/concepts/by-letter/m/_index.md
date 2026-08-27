@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 5755
+wiki_total_pages: 5767
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -485,6 +485,9 @@ wiki_pages:
   - key: "MeritBasedRewardPunishment"
     title: "Merit-Based Reward and Punishment / 因功赏罚"
     url: "/wiki/concepts/meritbasedrewardpunishment/"
+  - key: "MeritShieldedAccountability"
+    title: "Merit-Shielded Accountability / 因功免责"
+    url: "/wiki/concepts/meritshieldedaccountability/"
   - key: "MeritocraticArrogance"
     title: "Meritocratic Arrogance / 绩优主义傲慢"
     url: "/wiki/concepts/meritocraticarrogance/"

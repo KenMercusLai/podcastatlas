@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1498
+topic_total_pages: 1499
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1306,6 +1306,9 @@ topic_concepts:
   - key: "ChuaimoTechnique"
     title: "揣摩 / Chuaimo Technique"
     url: "/wiki/concepts/chuaimotechnique/"
+  - key: "ChroniclePolicyCompression"
+    title: "政策制度记载压缩 / Chronicle Policy Compression"
+    url: "/wiki/concepts/chroniclepolicycompression/"
   - key: "HostileTerritoryRoyalContainment"
     title: "敌意封国安置 / Hostile-Territory Royal Containment"
     url: "/wiki/concepts/hostileterritoryroyalcontainment/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 5755
+wiki_total_pages: 5767
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1805,6 +1805,9 @@ wiki_pages:
   - key: "ComicMaskSurvival"
     title: "搞笑面具式生存 / Comic Mask Survival"
     url: "/wiki/concepts/comicmasksurvival/"
+  - key: "ChroniclePolicyCompression"
+    title: "政策制度记载压缩 / Chronicle Policy Compression"
+    url: "/wiki/concepts/chroniclepolicycompression/"
   - key: "ChunDianArgot"
     title: "春点 / Chun Dian Argot"
     url: "/wiki/concepts/chundianargot/"

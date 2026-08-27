@@ -14,17 +14,18 @@ sources:
   - zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc
   - zizhi-tongjian-hanji-870-gudai-tizhinei-buganle-meiyou-tuilu-lpwbniu9ifpt6cp4ip9czqwsh5xd
   - zizhi-tongjian-hanji-869-liying-weihe-bei-chengwei-tianxia-diyi-kaimo-lltckcioe1n9v91yy4c9vvwmz4mo
+  - zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v
 last_updated: 2026-08-28
 knowledge_schema: synthesis-v1
 ---
 
 ## Overview
 
-汉桓帝 / Emperor Huan of Han is currently a late-Han emperor whose wiki profile begins with a 165 CE court that can still be moved by state-security reasoning and visible law-enforcement precedent. [[zizhi-tongjian-hanji-869-liying-weihe-bei-chengwei-tianxia-diyi-kaimo-lltckcioe1n9v91yy4c9vvwmz4mo|Hanji 869]] shows him pardoning [[LiYingLateHan|李膺]] after [[YingFengLateHan|应奉]] reframes the case around loyal officials and frontier risk, then backing Li Ying when [[ZhangRangLateHan|张让]] complains about [[ZhangShuoLateHan|张硕]]'s execution. Hanji 870-879 develop the same reign into harem burden, ritual display, disaster interpretation, frontier dependence, eunuch-protected enforcement reversal, Party Prohibition, coercive private power, childless death, and succession crisis.
+汉桓帝 / Emperor Huan of Han is currently a late-Han emperor whose wiki profile begins with a 165 CE court where local governance correction, land-tax policy, disaster notices, office appointment, and harem selection sit side by side. [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|Hanji 868]] places [[WangChangShumaoLateHan|王畅]]'s Nanyang governance reversal, the first per-mu land-tax instruction, a Luoyang earthquake, [[LiuMaoLateHan|刘茂]]'s sikong appointment, and the [[TianShengLateHan|田圣 / 田胜]] versus [[EmpressDowagerDouMiao|窦妙]] empress decision in his reign. [[zizhi-tongjian-hanji-869-liying-weihe-bei-chengwei-tianxia-diyi-kaimo-lltckcioe1n9v91yy4c9vvwmz4mo|Hanji 869]] then shows him pardoning [[LiYingLateHan|李膺]] after [[YingFengLateHan|应奉]] reframes the case around loyal officials and frontier risk, then backing Li Ying when [[ZhangRangLateHan|张让]] complains about [[ZhangShuoLateHan|张硕]]'s execution. Hanji 870-879 develop the same reign into harem burden, ritual display, disaster interpretation, frontier dependence, eunuch-protected enforcement reversal, Party Prohibition, coercive private power, childless death, and succession crisis.
 
 ## Current Profile
 
-Huan's current profile is not a full reign biography. Hanji 869 supplies the earliest current layer and complicates a simple "eunuch capture" reading. A tearful petition by the taiwei named in the source as Cheng Fan fails, but Ying Feng persuades Huan by arguing that useful officials are the court's vital support and that unstable borders make their retention practical. After Li Ying is restored, Zhang Rang complains that Li Ying executed his brother Zhang Shuo without prior approval. Huan accepts Li Ying's legal and precedent-based defense and tells Zhang Rang that Zhang Shuo's crimes brought the result on himself.
+Huan's current profile is not a full reign biography. Hanji 868 now supplies the earliest current layer: Nanyang local discipline is corrected through Wang Chang's change of method, the court issues a terse per-mu land-tax order, Luoyang suffers an earthquake, Liu Mao enters the sikong office, and Huan's harem decisions show private affection losing to formal status in the empress choice. Hanji 869 then complicates a simple "eunuch capture" reading. A tearful petition by the taiwei named in the source as Cheng Fan fails, but Ying Feng persuades Huan by arguing that useful officials are the court's vital support and that unstable borders make their retention practical. After Li Ying is restored, Zhang Rang complains that Li Ying executed his brother Zhang Shuo without prior approval. Huan accepts Li Ying's legal and precedent-based defense and tells Zhang Rang that Zhang Shuo's crimes brought the result on himself.
 
 Hanji 870 shows another mixed court: Huan summons [[LiuKuanLateHan|刘宽]] after a humane local-governance record, asks officials to recommend filial people after a solar eclipse, receives [[XunShuangLateHan|荀爽]]'s criticism of palace women and commoner burden without punishing him, and reuses [[ZhangHuanLateHan|张奂]] when frontier crisis exposes the cost of moving him away. At the same time, the episode places Huan's Buddhist-Laozi ritual display and harem scale inside the same field of omen politics and public burden that Hanji 873 later turns into [[XiangKaiLateHan|襄楷]]'s sharper criticism.
 
@@ -36,7 +37,7 @@ Hanji 878 shows private desire taking a coercive outward form: Huan's admiration
 
 ## Key Characteristics
 
-- Ruler whose 165 CE decisions can be moved by state-capacity framing and legal precedent in Li Ying's favor.
+- Ruler whose 165 CE field includes local-governance correction, compressed fiscal policy, disaster and office notices, and harem status overriding private affection.
 - Ruler whose court can solicit omen-era moral candidates and tolerate Xun Shuang's harem critique without turning that tolerance into durable reform.
 - Ruler whose harem scale, palace ritual, and Buddhist-Laozi display become available as evidence in later moral and omen criticism.
 - Ruler dependent on capable officials such as Li Ying, Zhang Huan, Huangfu Gui, and Liu Kuan while still presiding over office churn and frontier stress.
@@ -46,6 +47,8 @@ Hanji 878 shows private desire taking a coercive outward form: Huan's admiration
 
 ## Evidence
 
+- 165 governance and fiscal notices: [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|Hanji 868]] places Wang Chang's Nanyang governance reversal, the per-mu land-tax order, the Luoyang earthquake, and Liu Mao's sikong appointment inside Huan's reign.
+- Harem status decision: [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|Hanji 868]] says Huan favors Tian Sheng and wants her as empress, but Ying Feng and Chen Fan object on status grounds and Dou Miao receives the title.
 - Pardon through state-capacity framing: [[zizhi-tongjian-hanji-869-liying-weihe-bei-chengwei-tianxia-diyi-kaimo-lltckcioe1n9v91yy4c9vvwmz4mo|Hanji 869]] says Ying Feng's memorial persuades Huan to remove punishment from Li Ying and other officials by tying loyal talent to court safety and frontier instability.
 - Enforcement backed against eunuch complaint: [[zizhi-tongjian-hanji-869-liying-weihe-bei-chengwei-tianxia-diyi-kaimo-lltckcioe1n9v91yy4c9vvwmz4mo|Hanji 869]] says Huan hears Zhang Rang's complaint over Zhang Shuo's execution but accepts Li Ying's defense and says the Sili xiaowei did not err.
 - Humane-official appointment: [[zizhi-tongjian-hanji-870-gudai-tizhinei-buganle-meiyou-tuilu-lpwbniu9ifpt6cp4ip9czqwsh5xd|Hanji 870]] says Huan's court summons Liu Kuan as shangshu ling after Liu's lenient and educative commandery governance.
@@ -69,17 +72,20 @@ Hanji 878 shows private desire taking a coercive outward form: Huan's admiration
 
 ## Qualifications
 
-Hanji 869 gives a bounded 165 CE pardon and Zhang Shuo enforcement layer, not a full reversal of later Huan-era eunuch influence. The current judgment is mixed: Huan can be moved when a memorial connects personnel to state safety and can uphold Li Ying in one eunuch-family case, yet later Hanji 872 and Hanji 874 show him accepting eunuch complaint or party-framing against enforcement officials and士人. Xun Shuang's harem numbers, religious ritual details, and the source's interpretation of palace burden remain episode-scoped. Hanji 879's claim that Huan's body was ruined by harem indulgence is preserved as the episode's moral and causal interpretation, not a medical account.
+Hanji 868 and Hanji 869 give bounded 165 CE layers, not full reversals of later Huan-era eunuch influence. The current judgment is mixed: Huan can be associated with local correction, new fiscal instruction, and personnel arguments when they are framed usefully, yet later Hanji 872 and Hanji 874 show him accepting eunuch complaint or party-framing against enforcement officials and士人. Xun Shuang's harem numbers, religious ritual details, and the source's interpretation of palace burden remain episode-scoped. Hanji 868 and Hanji 879's claims about harem desire, affection, and physical decline are preserved as source moral and causal interpretations, not medical accounts.
 
 ## What Changed
 
-- Hanji 869 adds the earliest current Huan profile layer: Ying Feng's successful pardon memorial and Huan's acceptance of Li Ying's Zhang Shuo defense.
+- Hanji 868 adds the earliest current Huan layer: Wang Chang's Nanyang correction, the per-mu tax notice, Liu Mao's sikong appointment, and the Tian Sheng versus Dou Miao empress-selection decision.
+- Hanji 869 adds the Li Ying layer: Ying Feng's successful pardon memorial and Huan's acceptance of Li Ying's Zhang Shuo defense.
 - The profile now separates one successful enforcement-backed ruling from later Huan decisions where eunuch complaint and party framing prevail.
 - Li Ying and Zhang Shuo are added to Huan's pre-Hanji 870 court field before the harem-burden and Party Prohibition branches.
 - The private-power, final-harem, childless-succession, and posthumous-memory branches remain intact.
 
 ## Relationships
 
+- [[WangChangShumaoLateHan|王畅]] - Nanyang administrator whose governance reversal is recorded under Huan in Hanji 868.
+- [[PerMuLandTaxation|按亩征税]] and [[ChroniclePolicyCompression|政策制度记载压缩]] - fiscal-policy notice and historiographical compression tied to Huan's 165 CE court field.
 - [[YingFengLateHan|应奉]] - official whose memorial moves Huan through state-security and personnel-need framing.
 - [[LiYingLateHan|李膺]] - official Huan pardons and later backs against Zhang Rang's complaint.
 - [[ZhangShuoLateHan|张硕]] - Zhang Rang's brother whose execution Huan treats as deserved after Li Ying's defense.
@@ -109,7 +115,8 @@ Hanji 869 gives a bounded 165 CE pardon and Zhang Shuo enforcement layer, not a 
 - [[YangQiaoLateHan|杨桥]] - recommended talent whose refusal of Huan's princess-marriage pressure ends in death.
 - [[CoercedImperialMarriage|强制赐婚]] - concept grounded in Huan turning private favor into coercive marriage pressure.
 - [[SongHongEasternHan|宋弘]] and [[LiuXiu|刘秀 / 光武帝]] - comparison pair used to show how ruler restraint differs from Huan's pressure.
-- [[TianShengLateHan|田胜]] - favorite whose blocked elevation and death expose the fragility of personal favor.
+- [[TianShengLateHan|田圣 / 田胜]] - favorite whose blocked elevation and death expose the fragility of personal favor.
+- [[EmpressDengHuanLateHan|邓皇后]] and [[GuoGuirenHuanLateHan|郭贵人]] - earlier harem rivals whose instability prefigures the Tian Sheng and Dou Miao branch.
 - [[EmpressDowagerDouMiao|窦妙 / 窦皇太后]] - empress, dowager, and later burial-status claimant beside Huan.
 - [[EmperorLingOfHan|汉灵帝]] - successor selected after Huan dies without a son and later ruler who compares himself with Huan.
 - [[FengGuirenLateHan|冯贵人]] - rival burial figure used against Dou Miao in the later status dispute.

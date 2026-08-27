@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 5755
+wiki_total_pages: 5767
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -506,6 +506,9 @@ wiki_pages:
   - key: "FoodInflation"
     title: "Food Inflation"
     url: "/wiki/concepts/foodinflation/"
+  - key: "FoodPleasureEngineering"
+    title: "Food Pleasure Engineering / 食品愉悦工程"
+    url: "/wiki/concepts/foodpleasureengineering/"
   - key: "FoodSafetyLitigationDiscovery"
     title: "Food Safety Litigation Discovery"
     url: "/wiki/concepts/foodsafetylitigationdiscovery/"

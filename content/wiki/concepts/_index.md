@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 5755
+wiki_total_pages: 5767
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -146,6 +146,9 @@ wiki_pages:
   - key: "ADCEngineeringOptimization"
     title: "ADC Engineering Optimization"
     url: "/wiki/concepts/adcengineeringoptimization/"
+  - key: "AddedFreeSugarDistinction"
+    title: "Added and Free Sugar Distinction / 添加糖与游离糖区分"
+    url: "/wiki/concepts/addedfreesugardistinction/"
   - key: "AddictiveInteractionDesign"
     title: "Addictive Interaction Design"
     url: "/wiki/concepts/addictiveinteractiondesign/"

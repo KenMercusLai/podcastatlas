@@ -7,7 +7,7 @@ date: 2026-07-25
 source_file: "/home/ken/repos/podcastatlas/content/episodes/《资治通鉴·汉纪》883丨老板要反思：如何避免高官内讧？ [lph-fycNqAs6hZtjQ1jbSiSVyliD].md"
 source_url: "https://www.xiaoyuzhoufm.com/episode/6a649a2da3fec224d5a32929"
 duration: "674"
-last_updated: 2026-08-27
+last_updated: 2026-08-28
 ---
 
 # 《资治通鉴·汉纪》883丨老板要反思：如何避免高官内讧？
@@ -27,7 +27,7 @@ The historical section backfills the 168 CE [[DongqiangLateHan|东羌]] policy d
 - Duan frames repeated Qiang rebellion as a long historical frontier threat and presents hard suppression as the path to lasting order.
 - Duan rejects large-scale inward resettlement of surrendered Qiang, invoking earlier Zhao Chongguo and Ma Yuan precedents as evidence that settlement can produce future trouble.
 - The host's evaluation qualifies Duan's hard line: repeated suppress-and-surrender cycles show that force alone cannot solve the root problem, so durable pacification needs both coercive capacity and genuine submission.
-- The closing office notice removes [[WangChangLateHan|王畅]] as sikong and appoints [[LiuChongLateHanMinister|刘宠]] as sikong before the next episode's wet-nurse power topic.
+- The closing office notice removes [[WangChangShumaoLateHan|王畅]] as sikong and appoints [[LiuChongLateHanMinister|刘宠]] as sikong before the next episode's wet-nurse power topic.
 
 ## Key Quotes
 

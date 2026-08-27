@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 7984
+wiki_total_pages: 7994
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -503,6 +503,9 @@ wiki_pages:
   - key: "ZhangXunYuanShu"
     title: "张勋 / Zhang Xun (Yuan Shu general)"
     url: "/wiki/entities/zhangxunyuanshu/"
+  - key: "ZhangChangNanyangLateHan"
+    title: "张厂 / Zhang Chang (Nanyang, late Han)"
+    url: "/wiki/entities/zhangchangnanyanglatehan/"
   - key: "ZhangZiLateHan"
     title: "张咨 / Zhang Zi (late Han)"
     url: "/wiki/entities/zhangzilatehan/"
@@ -650,6 +653,9 @@ wiki_pages:
   - key: "ZhangShuoLateHan"
     title: "张硕 / Zhang Shuo (late Han)"
     url: "/wiki/entities/zhangshuolatehan/"
+  - key: "ZhangPanLateHan"
+    title: "张磐 / Zhang Pan (late Han)"
+    url: "/wiki/entities/zhangpanlatehan/"
   - key: "ZhangZhupo"
     title: "张竹坡 / Zhang Zhupo"
     url: "/wiki/entities/zhangzhupo/"
@@ -767,6 +773,9 @@ wiki_pages:
   - key: "ZengJing"
     title: "曾静 / Zeng Jing"
     url: "/wiki/entities/zengjing/"
+  - key: "ZhuGaiLateHan"
+    title: "朱丐 / Zhu Gai (late Han)"
+    url: "/wiki/entities/zhugailatehan/"
   - key: "ZhuHaiWeiRetainer"
     title: "朱亥 / Zhu Hai"
     url: "/wiki/entities/zhuhaiweiretainer/"

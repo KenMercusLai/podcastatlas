@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 7984
+wiki_total_pages: 7994
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -848,12 +848,18 @@ wiki_pages:
   - key: "Daxiong"
     title: "大雄"
     url: "/wiki/entities/daxiong/"
+  - key: "DaShiHua"
+    title: "大食话 / Da Shi Hua"
+    url: "/wiki/entities/dashihua/"
   - key: "DazaiOsamu"
     title: "太宰治 / Osamu Dazai"
     url: "/wiki/entities/dazaiosamu/"
   - key: "DingtaoBattleLateHan"
     title: "定陶之战 (195 CE) / Dingtao Battle (Late Han)"
     url: "/wiki/entities/dingtaobattlelatehan/"
+  - key: "DuShangLateHan"
+    title: "度尚 / Du Shang (late Han)"
+    url: "/wiki/entities/dushanglatehan/"
   - key: "DanglikouLateHan"
     title: "当利口 / Danglikou (late Han)"
     url: "/wiki/entities/danglikoulatehan/"

@@ -2420,7 +2420,7 @@
       "earliest_episode_date": "2025-12-07",
       "latest_episode_date": "2026-08-26",
       "latest_episode_file": "《资治通鉴·汉纪》1045丨他是江东霸业的开创者，可惜死的太窝囊 [lgjJDmcfw1QKUBA2xBLgVVlFPy9d].md",
-      "source_note_count": 482,
+      "source_note_count": 484,
       "topic_matched_source_note_count": 260,
       "topics": [
         {
@@ -2757,7 +2757,7 @@
       "earliest_episode_date": "2026-07-13",
       "latest_episode_date": "2026-08-26",
       "latest_episode_file": "loFs520pS1eVva8naFSnRKcbvgJZ [loFs520pS1eVva8naFSnRKcbvgJZ].md",
-      "source_note_count": 5,
+      "source_note_count": 6,
       "topic_matched_source_note_count": 2,
       "topics": [
         {
@@ -2779,7 +2779,7 @@
           "title": "阿汤 / A Tang",
           "url": "/wiki/entities/atang/",
           "kind": "person",
-          "episode_count": 3
+          "episode_count": 4
         },
         {
           "key": "MaHaoning",

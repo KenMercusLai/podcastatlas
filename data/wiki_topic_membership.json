@@ -13124,6 +13124,18 @@
       "url": "/topics/history/"
     }
   ],
+  "ChroniclePolicyCompression": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "ChronicleSourceGaps": [
     {
       "key": "history",
@@ -37428,6 +37440,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "MeritShieldedAccountability": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "MeritocraticArrogance": [
     {
       "key": "culture",
@@ -42375,6 +42394,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "PardonWithoutExoneration": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "ParentalDefenseConflict": [
     {
       "key": "politics",
@@ -42981,6 +43007,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "PerMuLandTaxation": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "PercyShelley": [

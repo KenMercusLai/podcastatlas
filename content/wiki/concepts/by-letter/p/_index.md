@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5755
+wiki_total_pages: 5767
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -89,6 +89,9 @@ wiki_pages:
   - key: "PardonAsStatePower"
     title: "Pardon As State Power"
     url: "/wiki/concepts/pardonasstatepower/"
+  - key: "PardonWithoutExoneration"
+    title: "Pardon Without Exoneration / 赦免不等于昭雪"
+    url: "/wiki/concepts/pardonwithoutexoneration/"
   - key: "ParentalDefenseConflict"
     title: "Parental Defense Conflict / 父母辩护冲突"
     url: "/wiki/concepts/parentaldefenseconflict/"
@@ -875,6 +878,9 @@ wiki_pages:
   - key: "PowerViolenceDistinction"
     title: "Power-Violence Distinction / 权力与暴力区分"
     url: "/wiki/concepts/powerviolencedistinction/"
+  - key: "PracticalSugarControl"
+    title: "Practical Sugar Control / 快乐控糖"
+    url: "/wiki/concepts/practicalsugarcontrol/"
   - key: "PragmaticImmigrationCompromise"
     title: "Pragmatic Immigration Compromise"
     url: "/wiki/concepts/pragmaticimmigrationcompromise/"
@@ -1517,6 +1523,9 @@ wiki_pages:
   - key: "PointingDeerAsHorse"
     title: "指鹿为马 / Pointing Deer As Horse"
     url: "/wiki/concepts/pointingdeerashorse/"
+  - key: "PerMuLandTaxation"
+    title: "按亩征税 / Per-Mu Land Taxation"
+    url: "/wiki/concepts/permulandtaxation/"
   - key: "PuzzleSnackMystery"
     title: "推理薯片 / Puzzle-Snack Mystery"
     url: "/wiki/concepts/puzzlesnackmystery/"

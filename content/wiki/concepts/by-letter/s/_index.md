@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 5755
+wiki_total_pages: 5767
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1565,6 +1565,9 @@ wiki_pages:
   - key: "SwanMaidenMotif"
     title: "Swan Maiden Motif"
     url: "/wiki/concepts/swanmaidenmotif/"
+  - key: "SweetenerUncertainty"
+    title: "Sweetener Uncertainty / 代糖不确定性"
+    url: "/wiki/concepts/sweeteneruncertainty/"
   - key: "SwingProducerRole"
     title: "Swing Producer Role"
     url: "/wiki/concepts/swingproducerrole/"

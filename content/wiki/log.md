@@ -12661,6 +12661,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-28] ingest | 《资治通鉴·汉纪》867丨无辜被泼脏水？他选择霸气回击
+
+Added source page for the 165 CE late-Han backfill: Chen Qiu's Lingling defense against Zhu Gai and Hu Lan, Du Shang's false report against Zhang Pan, Zhang Pan's refusal to accept amnesty without exoneration, Duan Jiong's Western Qiang victory and title, and Chen Fan's Taiwei appointment and office-yield request. Created Du Shang, Zhang Pan, Zhu Gai, Hu Lan, Pardon Without Exoneration, and Merit-Shielded Accountability; updated Chen Qiu, Duan Jiong, Chen Fan, overview, and index. No settled contradiction found; transcript variants are normalized to existing late-Han routes.
+
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》870丨古代体制内，不干了没有退路
 
 Added source page for a 芮淇讲透资治通鉴 episode on Liu Kuan's humane local governance, Xun Shuang's harem-burden critique after a solar eclipse, Huangfu Gui's failed attempt to exit a frontier appointment, and Zhang Huan's recall under renewed frontier pressure. Created Hu Fang, Zhao Dian, Office Duty Exit Constraint, and Humane Local Governance pages; updated Liu Kuan, Xun Shuang, Emperor Huan, Zhang Huan, Huangfu Gui, and Untimely Extravagance. No settled contradiction found; Hanji 870 is kept as the pre-Hanji 871 setup layer, with "张宦" normalized to Zhang Huan and the opening self-reliance advice kept source-scoped.
@@ -12708,3 +12712,23 @@ Added source page for a 芮淇讲透资治通鉴 episode on Chen Fan's failed pa
 ## [2026-08-28] lint | Wiki health check
 
 Ran health, identity validation, and lint. Health scanned 15,325 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-22 with 12,882 nodes and 149,964 edges while the current lint scan covered 15,325 pages, so fragile-bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` is not provider-qualified for LiteLLM; report returned in-session and `wiki/lint-report.md` was not updated.
+
+## [2026-08-28] ingest | 《资治通鉴·汉纪》868丨赢了也是输家？东汉后宫争艳记
+
+Added source page for Hanji 868: Wang Chang's Nanyang governance reversal after Zhang Chang's advice, the per-mu land-tax notice and chronicle-policy compression issue, Luoyang earthquake and Liu Mao appointment context, and Emperor Huan's harem sequence from Empress Deng and Guo Guiren through Tian Sheng, Dou Miao, and Dou Wu's rise. Created Wang Chang (Shumao), Zhang Chang (Nanyang), Empress Deng, Guo Guiren, Per-Mu Land Taxation, and Chronicle Policy Compression pages; updated Emperor Huan, Dou Miao, Dou Wu, Tian Sheng, Ying Feng, Chen Fan, Liu Mao, Humane Local Governance, and Palace Favorite Protection Fragility. No settled contradiction found; 王畅 is disambiguated from 王昌, 田圣 is normalized to the existing Tian Sheng route, and the tax/disaster notices remain source-scoped.
+
+## [2026-08-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-28] ingest | VOL.215 低GI蜂蜜、零蔗糖、抗糖丸…？这届控糖人到底踩了多少坑？ft.「大食话」
+
+Added source page for a 这病说来话长 episode with 阿汤 and 岳宛柔 on sugar-control literacy, liquid sugar, staple-food structure, added and free sugars, low-GI honey, zero-sucrose labels, hidden sugars, sweeteners, glycation anxiety, and anti-sugar supplements. Created Yue Wanrou, Da Shi Hua, Practical Sugar Control, Food Pleasure Engineering, Added and Free Sugar Distinction, Liquid Sugar Risk, Low-GI Marketing Trap, Nutrition Label Sugar Traps, Sweetener Uncertainty, and Glycation Skin Anxiety pages; extended Zhe Bing Shuo Lai Hua Chang, Atang, and Lifestyle Weight Management. No settled contradiction found; diabetes, fatty liver, dermatology, metabolic disease, supplement, and sweetener claims remain source-scoped and clinically bounded.
+
+## [2026-08-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

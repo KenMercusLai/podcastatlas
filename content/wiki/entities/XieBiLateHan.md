@@ -4,7 +4,7 @@ type: entity
 tags: [person, late-han, official, remonstrance]
 sources:
   - zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis
-last_updated: 2026-08-27
+last_updated: 2026-08-28
 knowledge_schema: synthesis-v1
 ---
 
@@ -14,7 +14,7 @@ knowledge_schema: synthesis-v1
 
 ## Current Profile
 
-Xie Bi's source role is to show the high cost of direct remonstrance when a court faction can retaliate. He begins from ritual and filial arguments for better treatment of Empress Dowager Dou, but then widens the critique to unrewarded generals, favored palace dependents, [[ChenFanLateHan|陈蕃]]'s death, corrupted high office, and the need to recall [[WangChangLateHan|王畅]] and [[LiYingLateHan|李膺]].
+Xie Bi's source role is to show the high cost of direct remonstrance when a court faction can retaliate. He begins from ritual and filial arguments for better treatment of Empress Dowager Dou, but then widens the critique to unrewarded generals, favored palace dependents, [[ChenFanLateHan|陈蕃]]'s death, corrupted high office, and the need to recall [[WangChangShumaoLateHan|王畅]] and [[LiYingLateHan|李膺]].
 
 The episode contrasts him with [[YangCiLateHan|杨赐]]. Xie Bi keeps the moral and institutional target visible, and the result is demotion, resignation, arrest by [[CaoShaoLateHan|曹绍]], torture, and death in prison. He therefore becomes a compact source case for the boundary between righteous directness and survivable correction.
 
@@ -42,6 +42,7 @@ The episode contrasts him with [[YangCiLateHan|杨赐]]. Xie Bi keeps the moral 
 - Created the page from Hanji 890's contrast between direct and indirect remonstrance.
 - Added Xie Bi as the source's lethal direct-remonstrance counterexample to Yang Ci's survivable omen answer.
 - Recorded the transcript normalization from "谢毕" to the canonical late-Han 谢弼 route.
+- Retargeted the 王畅 recall reference to the disambiguated Wang Chang (Shumao) route, separate from 王昌.
 
 ## Relationships
 

@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-28
-as_of_overview_commit: cac8a068f04d3023526abce497b4140efe84c846
-summary: "Implementation remains central: capability claims need workflows, evidence, institutions, judgment, and bounded practice across AI, markets, governance, health, work, and culture."
-episode_count: 1582
-source_count: 1582
-paragraph_count: 308
+as_of_overview_commit: 56049fa52f8554d078c9b9c82f8f64b2214069bf
+summary: "Implementation remains central: capability and health claims need workflows, evidence, institutions, judgment, and bounded practice across domains."
+episode_count: 1588
+source_count: 1588
+paragraph_count: 309
 topic_count: 8
 ---
 
@@ -22,7 +22,7 @@ topic_count: 8
 - State capacity appears as enforceable controls over appointments, territory, households, standards, symbols, and punishment, but [[PowerExitTrap|exit traps]] and backlash show that control does not automatically create social support.
 - [[ShangYangReforms]] and [[QinAdministrativeStandardization]] connect military power to enforceable household, territorial, measurement, and reward systems, while [[PeopleBasedPoliticalSecurity]] shows why such systems still needed social and political acceptance.
 - [[essentials-how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim2090153799]] adds a discipline-centered self-command branch: [[DisciplineOverMotivation]] decouples needed action from current motivation, [[AutonomicStressTraining]] treats bodily discomfort as bounded practice, [[OperationalDetachment]] widens attention before decisions, and [[LeadershipEmotionalCounterweight]] with [[ActionAfterAdversity]] frame leadership and resilience as action after emotion rather than emotion-free control.
-- [[SustainableHealthOptimization]] adds a flexible-fundamentals branch: [[MorningLightCircadianAnchoring]], [[SleepAsDailyHealthAccount]], [[SelfTestingMemoryPractice]], [[OlfactoryTraining]], [[FertilityEnergyAvailability]], [[PerimenopauseBrainMetabolism]], [[MenopauseClinicalSharedDecision]], [[AcetylcholineFocusSupport]], and [[PerioperativeCircadianRecovery]] are useful only when fitted to real constraints and clinical context rather than protocol perfection.
+- [[PracticalSugarControl]] adds a nutrition-literacy branch: [[AddedFreeSugarDistinction]], [[LiquidSugarRisk]], [[LowGIMarketingTrap]], [[NutritionLabelSugarTraps]], [[SweetenerUncertainty]], [[GlycationSkinAnxiety]], and [[FoodPleasureEngineering]] make sugar control a question of food structure, beverage format, label interpretation, and clinical boundaries rather than blanket avoidance of sweetness or staple foods.
 - Across software, AI services, CPG, climate hardware, mobile hardware, robotics, cybersecurity, banking, investing, and public building, capability claims become useful only after distribution, verification, supply chains, compliance, operations, customer trust, or pricing fit are solved.
 
 ## Synthesis by Domain
@@ -70,10 +70,10 @@ Psychology emphasizes state-aware self-command: emotion regulation, discipline, 
 
 ### Science, Health, and Climate
 
-Science, health, and climate claims become credible when evidence, physical constraints, regulation, clinical context, diagnostic follow-through, affordability, and operational closure stay visible.
+Science and health claims now include sugar-control literacy alongside diagnosis, hormones, metabolic psychiatry, spine care, privacy AI, Wudang medicine, science policy, space infrastructure, reusable rockets, climate adaptation, insurance planning, and cancer vaccines; each branch remains bounded by evidence, physical constraints, clinical context, cost, and verification.
 
+- [[PracticalSugarControl]] adds a nutrition-literacy branch: [[AddedFreeSugarDistinction]], [[LiquidSugarRisk]], [[LowGIMarketingTrap]], [[NutritionLabelSugarTraps]], [[SweetenerUncertainty]], [[GlycationSkinAnxiety]], and [[FoodPleasureEngineering]] make sugar control a question of food structure, beverage format, label interpretation, and clinical boundaries rather than blanket avoidance of sweetness or staple foods. Evidence: [[vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z]], [[PracticalSugarControl]], [[AddedFreeSugarDistinction]], [[LiquidSugarRisk]], [[LowGIMarketingTrap]], [[NutritionLabelSugarTraps]], [[SweetenerUncertainty]], [[GlycationSkinAnxiety]], [[FoodPleasureEngineering]], [[LifestyleWeightManagement]], [[MedicalRiskManagement]], [[LifestyleDiseasePrevention]], [[ZheBingShuoLaiHuaChang]], [[Atang]], [[YueWanrou]], [[DaShiHua]].
 - [[SustainableHealthOptimization]] adds a flexible-fundamentals branch: [[MorningLightCircadianAnchoring]], [[SleepAsDailyHealthAccount]], [[SelfTestingMemoryPractice]], [[OlfactoryTraining]], [[FertilityEnergyAvailability]], [[PerimenopauseBrainMetabolism]], [[MenopauseClinicalSharedDecision]], [[AcetylcholineFocusSupport]], and [[PerioperativeCircadianRecovery]] are useful only when fitted to real constraints and clinical context rather than protocol perfection. Evidence: [[SustainableHealthOptimization]], [[MorningLightCircadianAnchoring]], [[SleepAsDailyHealthAccount]], [[SelfTestingMemoryPractice]], [[OlfactoryTraining]], [[FertilityEnergyAvailability]], [[PerimenopauseBrainMetabolism]], [[MenopauseClinicalSharedDecision]], [[AcetylcholineFocusSupport]], [[PerioperativeCircadianRecovery]], [[your-top-health-questions-answered-scim2882548864]].
-- [[MetabolicPsychiatry]] adds a nutrition-and-mental-health branch: [[KetogenicDietMentalHealth]], [[CarbohydrateRestrictionMentalHealth]], [[KetogenicDietEpilepsyEvidence]], and [[MitochondrialMentalHealthModel]] make diet and ketosis plausible brain interventions, but [[PsychiatricMedicationSupervisionBoundary]] keeps severe illness and medication changes inside professional care. Evidence: [[MetabolicPsychiatry]], [[KetogenicDietMentalHealth]], [[CarbohydrateRestrictionMentalHealth]], [[KetogenicDietEpilepsyEvidence]], [[MitochondrialMentalHealthModel]], [[PsychiatricMedicationSupervisionBoundary]], [[essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786]].
 
 ### Work, Education, and Society
 

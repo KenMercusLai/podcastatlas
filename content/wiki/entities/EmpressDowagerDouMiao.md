@@ -11,17 +11,18 @@ sources:
   - zizhi-tongjian-hanji-885-shengsi-guantou-ta-qingjia-xiuxi-luydnh9oqdyyfpbeztooi2e7lvca
   - zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys
   - zizhi-tongjian-hanji-879-si-zai-nvren-shenshang-de-hunyong-nanren-lqz5-mpi0waa-xmuhjhwkaecjjrc
-last_updated: 2026-08-27
+  - zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v
+last_updated: 2026-08-28
 knowledge_schema: synthesis-v1
 ---
 
 ## Overview
 
-窦妙 / Empress Dowager Dou Miao is a late-Han empress dowager whose profile now begins before the anti-eunuch crisis. [[zizhi-tongjian-hanji-879-si-zai-nvren-shenshang-de-hunyong-nanren-lqz5-mpi0waa-xmuhjhwkaecjjrc|Hanji 879]] shows her becoming [[EmperorHuanOfHan|汉桓帝]]'s empress because formal family status defeats [[TianShengLateHan|田胜]]'s personal favor; after Huan dies childless, Dou Miao becomes dowager, executes Tian Sheng, and joins the accession settlement around the twelve-year-old [[EmperorLingOfHan|汉灵帝]]. Later Hanji 884-887 show that the same formal authority cannot guarantee palace control: Dou Miao hesitates over eunuch removal, is physically seized, loses seals, and is confined after [[DouWuLateHan|窦武]] and [[ChenFanLateHan|陈蕃]] fail. Hanji 898-901 then show living support, death, funeral mistreatment, and the successful but narrow repair of her burial status.
+窦妙 / Empress Dowager Dou Miao is a late-Han empress dowager whose profile now begins before the anti-eunuch crisis. [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|Hanji 868]] shows her entering the palace, becoming guiren, receiving eunuch and official support, and becoming [[EmperorHuanOfHan|汉桓帝]]'s empress over the favored [[TianShengLateHan|田圣 / 田胜]] because formal background beats private affection. [[zizhi-tongjian-hanji-879-si-zai-nvren-shenshang-de-hunyong-nanren-lqz5-mpi0waa-xmuhjhwkaecjjrc|Hanji 879]] then shows that after Huan dies childless, Dou Miao becomes dowager, executes Tian Sheng, and joins the accession settlement around the twelve-year-old [[EmperorLingOfHan|汉灵帝]]. Later Hanji 884-887 show that the same formal authority cannot guarantee palace control: Dou Miao hesitates over eunuch removal, is physically seized, loses seals, and is confined after [[DouWuLateHan|窦武]] and [[ChenFanLateHan|陈蕃]] fail. Hanji 898-901 then show living support, death, funeral mistreatment, and the successful but narrow repair of her burial status.
 
 ## Current Profile
 
-Dou Miao's current profile is a case of formal status that is real but operationally fragile. Hanji 879 gives her the rank foundation: she becomes empress over Tian Sheng because rank, lineage, and acceptable background matter in ways personal favor does not. As empress dowager, she can immediately use public authority against Tian Sheng and can preside over the Liu Hong succession choice. That authority makes her powerful at the transition, but it also places her inside the later temptation to use a young ruler as a governable political center.
+Dou Miao's current profile is a case of formal status that is real but operationally fragile. Hanji 868 gives the selection foundation: she is politically acceptable enough to be elevated over Tian Sheng, but the episode stresses that winning the title does not win Huan's affection. Hanji 879 then gives the post-Huan authority layer: as empress dowager, she can immediately use public authority against Tian Sheng and can preside over the Liu Hong succession choice. That authority makes her powerful at the transition, but it also places her inside the later temptation to use a young ruler as a governable political center.
 
 The anti-eunuch sources show the limit of that position. Hanji 884 and Hanji 885 present her as a reform patron and consent bottleneck: she empowers Dou Wu and Chen Fan, but palace attendants, wet-nurse access, Cao Jie, and Wang Fu remain close enough that she authorizes only selective punishment and delays the wider purge. Hanji 886 and Hanji 887 then show dowager authority becoming physically captured once the eunuch side controls the emperor, gates, edicts, seals, and guards.
 
@@ -29,7 +30,7 @@ The later memory layer keeps her status contested rather than erased. Emperor Li
 
 ## Key Characteristics
 
-- Dou Miao's authority begins from formal empress status, not from Huan's personal affection.
+- Dou Miao's authority begins from formal empress status and family acceptability, not from Huan's personal affection.
 - Her first dowager actions show real power: she removes Tian Sheng and helps settle the successor.
 - The same accession settlement exposes a control temptation around a young Liu-clan heir.
 - Her pre-coup hesitation begins as a limited-purge compromise while palace proximity remains intact.
@@ -39,6 +40,7 @@ The later memory layer keeps her status contested rather than erased. Emperor Li
 
 ## Evidence
 
+- Empress-selection foundation: [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|Hanji 868]] says Dou Miao enters the palace, becomes guiren, receives eunuch and official support, and is made empress over Tian Sheng even though Huan continues to prefer Tian.
 - Formal rank and first dowager power: [[zizhi-tongjian-hanji-879-si-zai-nvren-shenshang-de-hunyong-nanren-lqz5-mpi0waa-xmuhjhwkaecjjrc|Hanji 879]] says Dou Miao becomes empress because Tian Sheng's low origin blocks her, then becomes empress dowager after Huan's death and executes Tian Sheng.
 - Accession settlement: [[zizhi-tongjian-hanji-879-si-zai-nvren-shenshang-de-hunyong-nanren-lqz5-mpi0waa-xmuhjhwkaecjjrc|Hanji 879]] says Dou Wu reports the Liu Hong choice to Dou Miao and settles the matter in the palace after Huan dies without a son.
 - Reform patronage and limited purge: [[zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys|Hanji 884]] says Dou Miao entrusts government to Dou Wu and Chen Fan but first authorizes only the punishment of Guan Ba and Su Kang.
@@ -51,12 +53,13 @@ The later memory layer keeps her status contested rather than erased. Emperor Li
 
 ## Qualifications
 
-- Hanji 879's jealousy and revenge reading around Tian Sheng is source-scoped; the page records the political effect of Dou Miao's order without claiming complete access to her private motives.
+- Hanji 868 and Hanji 879's jealousy, affection, and revenge readings around Tian Sheng are source-scoped; the page records the political effect of Dou Miao's title and order without claiming complete access to private motives.
 - Hanji 884-887's claims that Dou Miao hesitated, misread, or failed to control the situation are podcast interpretations of her political judgment, not full reconstructions of every palace channel.
 - Her accession authority, seizure, confinement, living support, funeral treatment, and burial status belong to related but distinct stages and should not be compressed into one simple rise-or-fall story.
 
 ## What Changed
 
+- Hanji 868 adds Dou Miao's 165 CE selection layer: she wins the formal empress title over Tian Sheng but not Huan's affection.
 - The profile now begins with Dou Miao's selection as empress and first dowager actions, before Hanji 884's anti-eunuch opening.
 - Dou Miao's formal status is now contrasted with Tian Sheng's fragile personal favor.
 - The accession settlement is now part of her profile, including the source-scoped control incentive around the young Liu Hong.
@@ -66,6 +69,7 @@ The later memory layer keeps her status contested rather than erased. Emperor Li
 
 - [[EmperorHuanOfHan|汉桓帝]] - husband and posthumous burial counterpart whose childless death gives Dou Miao dowager power.
 - [[TianShengLateHan|田胜]] - Huan favorite whose execution shows Dou Miao's immediate post-Huan authority and the fragility of palace favor.
+- [[YingFengLateHan|应奉]] and [[ChenFanLateHan|陈蕃]] - officials whose formal-status objections help block Tian Sheng and clear the way for Dou Miao's title.
 - [[DouWuLateHan|窦武]] - family powerholder whose accession role, reward exposure, and failed anti-eunuch action determine Dou Miao's later seizure, confinement, and memory.
 - [[ChenFanLateHan|陈蕃]] - paired anti-eunuch grievance revived through her burial-status dispute.
 - [[EmperorLingOfHan|汉灵帝]] - young successor whose custody, accession memory, and final approval shape her treatment.

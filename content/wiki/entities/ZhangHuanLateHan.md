@@ -25,7 +25,7 @@ Zhang Huan's profile is defined by useful capacity under bad political condition
 
 Hanji 878 gives a frontier-success and reward-gatekeeping layer. Zhang defeats [[XianlingQiang|先零羌]] forces attacking Sanfu, but the expected marquisate is reduced because he refuses to flatter eunuchs. He refuses the reduced reward and asks instead to move his household registration to Hongnong. Hanji 883 then shows his policy side: as Protector of the Xiongnu, he urges the court to accept surrender and peace from remaining [[DongqiangLateHan|东羌]] groups because elimination is difficult and [[DuanJiongLateHan|段熲]]'s hard line risks overreach.
 
-Hanji 887 places Zhang in the military reversal that destroys Dou Wu. He returns to Luoyang without full information, the eunuch side uses forged imperial authority and Zhou Jing's temporary command, and Zhang moves with the remaining Five Camps troops into the confrontation. Hanji 889 and Hanji 890 show the repair attempt after that compromised use: Zhang refuses the title, asks for burial and relief around [[DouWuLateHan|窦武]], [[ChenFanLateHan|陈蕃]], and [[EmpressDowagerDouMiao|窦妙 / 窦皇太后]], and joins [[LiuMengLateHan|刘猛]] in recommending [[WangChangLateHan|王畅]] and [[LiYingLateHan|李膺]]. Hanji 902 shows a later and harsher risk environment, where Zhang survives by lowering his posture, withdrawing from office, teaching, and writing.
+Hanji 887 places Zhang in the military reversal that destroys Dou Wu. He returns to Luoyang without full information, the eunuch side uses forged imperial authority and Zhou Jing's temporary command, and Zhang moves with the remaining Five Camps troops into the confrontation. Hanji 889 and Hanji 890 show the repair attempt after that compromised use: Zhang refuses the title, asks for burial and relief around [[DouWuLateHan|窦武]], [[ChenFanLateHan|陈蕃]], and [[EmpressDowagerDouMiao|窦妙 / 窦皇太后]], and joins [[LiuMengLateHan|刘猛]] in recommending [[WangChangShumaoLateHan|王畅]] and [[LiYingLateHan|李膺]]. Hanji 902 shows a later and harsher risk environment, where Zhang survives by lowering his posture, withdrawing from office, teaching, and writing.
 
 ## Key Characteristics
 
@@ -83,6 +83,6 @@ Hanji 887 places Zhang in the military reversal that destroys Dou Wu. He returns
 - [[DongqiangLateHan|东羌]] - frontier population whose surrender or suppression is disputed in Hanji 883.
 - [[DouWuLateHan|窦武]], [[ChenFanLateHan|陈蕃]], and [[EmpressDowagerDouMiao|窦妙 / 窦皇太后]] - grievance field Zhang Huan later tries to repair.
 - [[CaoJieLateHan|曹节]] and [[WangFuLateHan|王甫]] - eunuch-side field that uses the coup's information gap and later resists repair.
-- [[WangChangLateHan|王畅]], [[LiYingLateHan|李膺]], and [[LiuMengLateHan|刘猛]] - officials tied to Zhang's later recommendation politics.
+- [[WangChangShumaoLateHan|王畅]], [[LiYingLateHan|李膺]], and [[LiuMengLateHan|刘猛]] - officials tied to Zhang's later recommendation politics.
 - [[PoliticalSurvivalFirst|安全第一政治生存]] - concept that explains his humbled letter and withdrawal.
 - [[CourtFeedbackCollapse|君臣反馈失灵]] - broader late-Han setting where correction becomes liability.

@@ -15,17 +15,18 @@ sources:
   - zizhi-tongjian-hanji-879-si-zai-nvren-shenshang-de-hunyong-nanren-lqz5-mpi0waa-xmuhjhwkaecjjrc
   - zizhi-tongjian-hanji-876-zhichang-zong-pengbi-shuoming-ni-meiyou-zhaodui-guanxi-lrjob-a07t29hdr0iogrmcsjr7qp
   - zizhi-tongjian-hanji-875-li-dapu-weihe-ta-yi-ruyu-wei-rong-lgffkjk-0yu-ehfsw59anoych-ld
-last_updated: 2026-08-27
+  - zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v
+last_updated: 2026-08-28
 knowledge_schema: synthesis-v1
 ---
 
 ## Overview
 
-窦武 / Dou Wu (late Han) is a late-Han outer-relative and anti-eunuch official whose profile now starts before his Hanji 876 intercession for Party Prohibition prisoners. Hanji 875 presents him as a newly appointed Chengmen Xiaowei who recruits noted people, refuses bribery, keeps his household austere, and distributes palace gifts to Taixue students or commoners. Hanji 876 then shows him as the high-leverage intercessor for imprisoned Party Prohibition figures under [[EmperorHuanOfHan|汉桓帝]], while Hanji 879-887 trace his accession power, anti-eunuch reform opening, delay, leaked plan, countercoup defeat, and death. Later sources preserve his memory as accession supporter, eunuch grievance target, and eventually a rehabilitated victim used by [[DongZhuo|董卓]].
+窦武 / Dou Wu (late Han) is a late-Han outer-relative and anti-eunuch official whose profile now starts with family elevation after [[EmpressDowagerDouMiao|窦妙]]'s 165 CE empress selection. [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|Hanji 868]] says he is elevated as Tejin and Huaili Hou and then appointed Chengmen Xiaowei after Dou Miao becomes empress. Hanji 875 then presents him as a newly appointed Chengmen Xiaowei who recruits noted people, refuses bribery, keeps his household austere, and distributes palace gifts to Taixue students or commoners. Hanji 876 shows him as the high-leverage intercessor for imprisoned Party Prohibition figures under [[EmperorHuanOfHan|汉桓帝]], while Hanji 879-887 trace his accession power, anti-eunuch reform opening, delay, leaked plan, countercoup defeat, and death. Later sources preserve his memory as accession supporter, eunuch grievance target, and eventually a rehabilitated victim used by [[DongZhuo|董卓]].
 
 ## Current Profile
 
-Dou Wu's current profile separates credibility, leverage, reward, and command. Hanji 875 supplies the credibility layer. Before the rescue memorial, Dou is already visible as [[EmpressDowagerDouMiao|窦妙]]'s father and as an unusually clean outer-relative figure: he recruits reputable people, rejects bribes, restrains household consumption, and distributes emperor/empress gifts outward rather than converting them into private luxury. This helps explain why he can become a plausible channel for士人 rescue without implying that moral standing equals operational skill.
+Dou Wu's current profile separates family elevation, credibility, leverage, reward, and command. Hanji 868 supplies the family-access layer: Dou Miao's selection makes her father a titled and high-status court actor before the later rescue and reform scenes. Hanji 875 then supplies the credibility layer. Before the rescue memorial, Dou is already visible as [[EmpressDowagerDouMiao|窦妙]]'s father and as an unusually clean outer-relative figure: he recruits reputable people, rejects bribes, restrains household consumption, and distributes emperor/empress gifts outward rather than converting them into private luxury. This helps explain why he can become a plausible channel for士人 rescue without implying that moral standing equals operational skill.
 
 Hanji 876 supplies the leverage layer. After Chen Fan is removed and the court becomes afraid to plead for [[LiYingLateHan|李膺]], [[FanPangLateHan|范滂]], and other imprisoned士人, [[JiaBiaoLateHan|贾彪]] identifies Dou Wu as the person who can carry the rescue argument into the decision field. Dou Wu's memorial attacks eunuch favor, invokes Qin Ershi and Zhao Gao as a warning, defends the party prisoners as accused without evidence, argues that worthy people are the real auspicious sign, then claims illness and returns his seals. In this branch, Dou Wu converts relationship access and clean reputation into risk-bearing public argument.
 
@@ -37,7 +38,7 @@ The later memory layer explains why Dou Wu remains politically useful after deat
 
 ## Key Characteristics
 
-- Clean outer-relative official whose early austerity and gift distribution create scholar-facing credibility.
+- Family-elevated outer-relative whose first current layer is Dou Miao's empress selection and the Tejin, Huaili Hou, and Chengmen Xiaowei offices that follow.
 - High-leverage intercessor whose family access makes him useful before open reform power exists.
 - Hanji 876 memorialist who turns Party Prohibition rescue into risk-bearing anti-eunuch criticism and virtue politics.
 - Accession powerholder tempted by the controllability of a young emperor.
@@ -47,6 +48,7 @@ The later memory layer explains why Dou Wu remains politically useful after deat
 
 ## Evidence
 
+- Family elevation: [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|Hanji 868]] says Dou Wu is promoted after Dou Miao becomes empress, receiving Tejin and Huaili Hou status before Chengmen Xiaowei office.
 - Clean-office credibility: [[zizhi-tongjian-hanji-875-li-dapu-weihe-ta-yi-ruyu-wei-rong-lgffkjk-0yu-ehfsw59anoych-ld|Hanji 875]] says Dou Wu is appointed Chengmen Xiaowei, recruits many noted people, rejects bribery, keeps his wife's clothing and food at subsistence level, and distributes palace gifts to Taixue students or commoners.
 - Early intercession access: [[zizhi-tongjian-hanji-876-zhichang-zong-pengbi-shuoming-ni-meiyou-zhaodui-guanxi-lrjob-a07t29hdr0iogrmcsjr7qp|Hanji 876]] says Jia Biao visits Dou Wu because Dou is Empress Dou's father and Emperor Huan's father-in-law, making him a better channel than ordinary pleading.
 - Party-prisoner defense: [[zizhi-tongjian-hanji-876-zhichang-zong-pengbi-shuoming-ni-meiyou-zhaodui-guanxi-lrjob-a07t29hdr0iogrmcsjr7qp|Hanji 876]] says Dou Wu memorializes against eunuch influence, cites the Qin Ershi / Zhao Gao warning, and argues that Li Ying and the others have been accused without proof.
@@ -62,13 +64,14 @@ The later memory layer explains why Dou Wu remains politically useful after deat
 
 ## Qualifications
 
-- Hanji 875 and Hanji 876 show Dou Wu's clean standing, effective access, and moral courage, but they do not imply that access later becomes command capacity; Hanji 884-887 still show his failure to secure tempo, secrecy, and palace control.
+- Hanji 868 explains Dou Wu's initial rise through outer-relative status, while Hanji 875 and Hanji 876 show clean standing, effective access, and moral courage. None of those layers imply that access later becomes command capacity; Hanji 884-887 still show his failure to secure tempo, secrecy, and palace control.
 - Hanji 879's claim that Dou Wu wanted Liu Hong because he was controllable is treated as the source's motive reading; the page does not deny that Liu Hong also had a legitimate Liu-clan genealogy.
 - Hanji 886 and Hanji 887 give podcast-summary versions of the coup, so the claim that secrecy and hesitation were decisive remains source-scoped rather than a complete reconstruction of every palace and military channel.
 - The page preserves Dou Wu's later moral grievance without treating every later appeal to his memory as sincere repair; Dong Zhuo's rehabilitation branch is explicitly coercive legitimacy packaging.
 
 ## What Changed
 
+- Hanji 868 adds Dou Wu's family-elevation layer after Dou Miao's empress selection.
 - Hanji 875 adds an earlier clean-office and Taixue/commoner-facing distribution layer before the Hanji 876 intercession.
 - The current profile now distinguishes moral credibility and access from later command execution capacity.
 - Hanji 876 remains the main bridge between Party Prohibition rescue, anti-eunuch criticism, and auspiciousness-as-virtue politics.
@@ -76,6 +79,7 @@ The later memory layer explains why Dou Wu remains politically useful after deat
 ## Relationships
 
 - [[Taixue|太学]] - student institution that receives Dou Wu's distributed palace gifts in Hanji 875.
+- [[EmpressDowagerDouMiao|窦妙 / 窦皇太后]] - daughter whose empress title begins Dou Wu's family-elevation and later dowager-power branch.
 - [[JiaBiaoLateHan|贾彪]] - rescuer who identifies Dou Wu as the high-leverage intercession channel in Hanji 876.
 - [[PowerStructureTargeting|权力结构定向求援]] - strategy exemplified by Jia Biao's decision to reach Dou Wu.
 - [[EmperorHuanOfHan|汉桓帝]] - ruler whose first Party Prohibition prisoner case Dou Wu tries to move through memorial pressure.
@@ -83,7 +87,6 @@ The later memory layer explains why Dou Wu remains politically useful after deat
 - [[EmperorLingOfHan|汉灵帝]] - young successor whose accession gives Dou Wu influence, reward, and later memory.
 - [[ControllableChildAccession|可控幼主继位]] - concept grounded in Dou Wu and Dou Miao's selection of Liu Hong.
 - [[LuZhiLateHan|卢植]] - scholar-official whose accession-reward warning defines Dou's earliest prestige-risk branch.
-- [[EmpressDowagerDouMiao|窦妙 / 窦皇太后]] - family and dowager-status branch through which Dou's power and memory remain politically active.
 - [[ChenFanLateHan|陈蕃]] - anti-eunuch ally whose palace intervention fails after Dou's window closes.
 - [[CaoJieLateHan|曹节]] - opposing eunuch powerholder tied to palace seizure and later anti-Dou grievance.
 - [[WangFuLateHan|王甫]] - opposing eunuch actor who first softens in the prison interrogation but later helps recode Dou's side as rebellion.
