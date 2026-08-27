@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "u"
-wiki_total_pages: 5715
+wiki_total_pages: 5718
 wiki_pages:
   - key: "US2025ExpectationGaps"
     title: "U.S. 2025 Expectation Gaps"
@@ -68,6 +68,9 @@ wiki_pages:
   - key: "UltraLowCostCarrierModel"
     title: "Ultra-Low-Cost Carrier Model"
     url: "/wiki/concepts/ultralowcostcarriermodel/"
+  - key: "UncapturedHumanExperienceDataLimit"
+    title: "Uncaptured Human Experience Data Limit"
+    url: "/wiki/concepts/uncapturedhumanexperiencedatalimit/"
   - key: "UncertainEraOptionality"
     title: "Uncertain-Era Optionality / 乱纪元选择权"
     url: "/wiki/concepts/uncertaineraoptionality/"

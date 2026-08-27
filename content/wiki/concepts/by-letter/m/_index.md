@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 5715
+wiki_total_pages: 5718
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -311,6 +311,9 @@ wiki_pages:
   - key: "MedicalAIMarketingRisk"
     title: "Medical AI Marketing Risk"
     url: "/wiki/concepts/medicalaimarketingrisk/"
+  - key: "MedicalAIRobotCollaborationBoundary"
+    title: "Medical AI Robot Collaboration Boundary"
+    url: "/wiki/concepts/medicalairobotcollaborationboundary/"
   - key: "MedicalAIWorkflowIntegration"
     title: "Medical AI Workflow Integration"
     url: "/wiki/concepts/medicalaiworkflowintegration/"

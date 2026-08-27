@@ -15958,6 +15958,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "DaVinciSurgicalSystem": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "Dafeixin": [
     {
       "key": "science",
@@ -27909,6 +27916,11 @@
   ],
   "HubermanLab": [
     {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
@@ -28025,6 +28037,18 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "HumanCenteredAIAugmentation": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "HumanCenteredAIEducation": [
@@ -36868,6 +36892,13 @@
     }
   ],
   "MedicalAIMarketingRisk": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "MedicalAIRobotCollaborationBoundary": [
     {
       "key": "technology",
       "label": "Technology",
@@ -58564,6 +58595,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "UncapturedHumanExperienceDataLimit": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "UncertainEraOptionality": [
     {
       "key": "economics",
@@ -69521,6 +69559,23 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "vanguard-1": [

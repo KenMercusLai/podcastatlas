@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-27] ingest | Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li
+
+Added source page for a Huberman Lab episode with Fei-Fei Li on ImageNet, visual intelligence, AI data/compute/algorithm convergence, uncaptured human experience, human-centered augmentation, medical robot collaboration, education, creativity, robotics, and World Labs. Created Human-Centered AI Augmentation, Uncaptured Human Experience Data Limit, Medical AI Robot Collaboration Boundary, and Da Vinci Surgical System pages; migrated/updated Fei-Fei Li, ImageNet, World Labs, AI Assistant Augmentation, AI Creative Collaboration, Human-Centered AI Education, Teacher AI Augmentation, Huberman Lab, and Andrew Huberman. No settled contradiction found; medical autonomy, robotics simulation, AI creativity, education, and governance claims remain source-scoped.
+
 ## [2026-08-27] ingest | VOL.218韩杰医生事件后四大门诊坦白局：不对立不甩锅，医患如何联手打赢防漏诊的“排雷战”？
 
 Added source page for a 这病说来话长 episode with 阿汤, 亚萌, 蒋宇亮, 银欣, and 马浩宁 on missed diagnosis risk, first-visit uncertainty, diagnostic safety netting, report tracking, low-cost safety checks, second opinions, and qualified-care boundaries. Created 阿汤, 亚萌, 蒋宇亮, 银欣, Diagnostic Safety Netting, Missed Diagnosis Risk, and Second Opinion Strategy pages; updated 这病说来话长, 马浩宁, Doctor-Patient Communication, Medical Diagnostic Reasoning, index, and overview. No settled contradiction found; the source keeps clinical uncertainty, overtesting, imaging/pathology limits, alternative medicine, and health-product claims bounded by qualified medical care.
@@ -12622,3 +12626,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-27] lint | Wiki health check
 
 Ran health, identity validation, and lint. Health scanned 15,245 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-22 with 12,882 nodes and 149,964 edges while the current lint scan covered 15,245 pages, so fragile-bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest`; report returned in-session and `wiki/lint-report.md` was not updated.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

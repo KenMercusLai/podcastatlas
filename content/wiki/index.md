@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li](sources/using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040.md) — Huberman Lab episode with Fei-Fei Li on ImageNet, human learning, human-centered AI augmentation, medicine, education, creativity, robotics, and World Labs.
 - [VOL.218韩杰医生事件后四大门诊坦白局：不对立不甩锅，医患如何联手打赢防漏诊的“排雷战”？](sources/vol-218-hanjie-yisheng-shijian-hou-sida-menzhen-tanbaiju-bu-duili-bu-shuaiguo-yihuan-ruhe-lianshou-daying-fang-louzhen-de-paileizhan-lgbs8aaxguh-xzga8iuewwc7ypvm.md) — 这病说来话长 episode with 阿汤, 亚萌, 蒋宇亮, 银欣, and 马浩宁 on missed diagnosis risk, diagnostic safety-netting, first-visit uncertainty, report tracking, second opinions, and qualified-care boundaries.
 - [Essentials: How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried](sources/essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929.md) — Huberman Lab Essentials episode with Sara Gottfried on female hormone phenotyping, PCOS cardiometabolic risk, oral contraceptive informed consent, perimenopause brain metabolism, and coronary artery calcium screening.
 - [Neuroscience of Emotions & Tools for Improving Emotion Regulation | Dr. Ralph Adolphs](sources/neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716.md) — Huberman Lab episode with Ralph Adolphs on emotions as functional control states, regulation, amygdala fear dissociation, social inference limits, body mapping, and task switching.
@@ -1587,6 +1588,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ralph Adolphs](entities/RalphAdolphs.md) — Caltech neuroscientist and Huberman Lab guest explaining emotions as functional control states, social perception, and regulation.
 - [Caltech](entities/Caltech.md) — Institutional context for Ralph Adolphs' emotion-neuroscience research in the Huberman Lab episode.
 - [David Anderson](entities/DavidAnderson.md) — Collaborator reference for the functional emotion framework discussed by Ralph Adolphs.
+- [Da Vinci Surgical System](entities/DaVinciSurgicalSystem.md) — Surgical robotics example from the Fei-Fei Li episode, used to ground human-controlled medical robot collaboration.
 - [Antonio Damasio](entities/AntonioDamasio.md) — Decision-and-emotion reference used to show that emotion supports motivation and choice.
 - [Paul Ekman](entities/PaulEkman.md) — Facial-expression research reference whose influence is acknowledged and qualified by the Adolphs episode.
 - [Patient SM](entities/PatientSM.md) — Amygdala-lesion research case used to distinguish fear perception, external-threat fear, and internal panic.
@@ -2564,7 +2566,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Wang Xingxing / 王兴兴](entities/WangXingxing.md) — Unitree founder figure cited in S10E26 on incomplete humanoid robot product-market fit.
 - [Honda / 本田](entities/Honda.md) — Automotive and robotics company used in S10E26 as an early humanoid-form argument for human-built spaces.
 - [DARPA](entities/DARPA.md) — U.S. research agency used in S10E26 as a demand-shaping reference for quadruped robotics.
-- [World Labs](entities/WorldLabs.md) — Fei-Fei Li associated company used in S10E26 to discuss simulated-world data for robots.
+- [World Labs](entities/WorldLabs.md) — Fei-Fei Li associated company focused on spatial and physical intelligence, generated worlds, creators, robotics simulation, and real-world transfer questions.
 - [Newton Physics Engine](entities/NewtonPhysicsEngine.md) — Open physics-engine project named in S10E26 as a simulation branch involving Nvidia, Google DeepMind, and Disney.
 - [Alok Jha](entities/AlokJha.md) — The Intelligence science voice mapping AI consciousness through phenomenal/access consciousness, chatbot projection, workspace theory, functionalism, and organoid computing.
 - [Blake Lemoine](entities/BlakeLemoine.md) — Google engineer used by The Intelligence as a modern case of chatbot mind projection rather than proof of machine consciousness.
@@ -8970,12 +8972,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AMI Labs](entities/AMILabs.md) — World-model startup described as a reverse-OpenAI organization built around real-world partners, predictive representations, and decentralized data loops.
 - [Yann LeCun](entities/YannLeCun.md) — AI researcher and AMI collaborator associated in the source with JEPA, NYU institution building, and world-model direction.
 - [Ilya Sutskever](entities/IlyaSutskever.md) — AI researcher used in the source as the route Xie twice declined in favor of FAIR/NYU/AMI world-model work.
-- [Fei-Fei Li](entities/FeiFeiLi.md) — AI researcher whose ImageNet problem-definition work is treated by Xie as a model for field-shaping research.
+- [Fei-Fei Li](entities/FeiFeiLi.md) — AI researcher connecting ImageNet problem definition, visual intelligence, World Labs, and human-centered AI augmentation.
 - [Kaiming He](entities/KaimingHe.md) — AI researcher whose FAIR collaboration with Xie anchors the source's lessons on ResNeXt, self-supervision, strong baselines, and research taste.
 - [FAIR](entities/FAIR.md) — Meta research-lab context where Xie worked on representation learning, ResNeXt, self-supervision, and diffusion-transformer research.
 - [NYU](entities/NYU.md) — University context for Xie's world-model work, AI data-center policy, and E236's AI-native student learning and credential discussion.
 - [UCSD](entities/UCSD.md) — University context for Xie's PhD path and Huang Biwei's earlier institutional background.
-- [ImageNet](entities/ImageNet.md) — Computer-vision dataset and benchmark used as the source's example of problem definition enabling scalable progress.
+- [ImageNet](entities/ImageNet.md) — Computer-vision dataset and benchmark used to explain problem definition, large-scale visual data, and the 2012 deep-learning inflection.
 - [Seedance](entities/Seedance.md) — ByteDance video model discussed as evidence that AI video is moving from mockups toward production-like media.
 - [GLM5](entities/GLM5.md) — Zhipu AI model used in the Keji Luandun source's hands-on AI coding and product-prototype examples.
 - [热乎乱炖](entities/RehuLuandun.md) — AI-assisted Keji Luandun news aggregation and host-style commentary project built from prior transcript voice patterns.
@@ -10651,7 +10653,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Vaccine Schedule Trust Rebuilding](concepts/VaccineScheduleTrustRebuilding.md) — Makary's source-scoped strategy of distinguishing core vaccine priorities and answering parent risk questions without abandoning CDC recommendations.
 - [Root-Cause Public Health Research](concepts/RootCausePublicHealthResearch.md) — Research-priority frame around food, school lunches, microbiome, sleep, environment, inflammation, and chronic-disease causes.
 - [Consumer Health AI Governance](concepts/ConsumerHealthAIGovernance.md) — FDA boundary between consumer health information tools and AI or wearable systems that claim medical-grade intervention or measurement.
-- [AI Creative Collaboration](concepts/AICreativeCollaboration.md) — Everyday use of AI as a partner for speeches, images, lyrics, songs, and other creative artifacts while humans keep editing and judgment.
+- [AI Creative Collaboration](concepts/AICreativeCollaboration.md) — Use of AI for drafts, media, variations, and video shots while human creators keep intention, taste, editing, and authorship.
 - [AI First-Draft Generation](concepts/AIFirstDraftGeneration.md) — Workflow where AI creates a starting draft that a human then verifies, edits, personalizes, and owns.
 - [AI Professional Data Security](concepts/AIProfessionalDataSecurity.md) — Workplace boundary around what employer, client, competitor, or proprietary context may be entered into AI tools.
 - [AI Assisted Light Coding](concepts/AIAssistedLightCoding.md) — Non-specialist use of AI-generated snippets and small automations, bounded by local context, testing, and responsibility.
@@ -10721,7 +10723,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Athlete Data Privacy Governance](concepts/AthleteDataPrivacyGovernance.md) — Privacy, ownership, release, security, and labor rules around event, tracking, wearable, and performance data tied to athletes.
 - [Football Event and Tracking Data](concepts/FootballEventTrackingData.md) — Structured and semi-structured football data from event feeds, tracking systems, video, computer vision, and synchronization work.
 - [Sports Predictive Modeling](concepts/SportsPredictiveModeling.md) — Machine-learning and statistical modeling of sports outcomes, player actions, match events, betting variables, and tactical probabilities.
-- [Teacher AI Augmentation](concepts/TeacherAIAugmentation.md) — Classroom workflow frame where AI supports lesson planning, differentiation, and explanations while teachers keep judgment and relationships central.
+- [Teacher AI Augmentation](concepts/TeacherAIAugmentation.md) — Classroom workflow frame where AI supports planning, differentiation, explanations, and teacher capacity while educators keep judgment and relationships central.
 - [Teacher AI Literacy](concepts/TeacherAILiteracy.md) — Baseline AI understanding teachers need to use, explain, limit, and evaluate tools such as ChatGPT across subjects.
 - [AI Academic Integrity](concepts/AIAcademicIntegrity.md) — School assessment and authorship problem created when AI can generate essays, math explanations, and exam answers quickly.
 - [K-12 Computer Science Access](concepts/K12ComputerScienceAccess.md) — Early computing, typing, coding, AI-literacy, cybersecurity, and data-analysis access as student opportunity infrastructure.
@@ -11073,6 +11075,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [SMT Solver](concepts/SMTSolver.md) — Formal-methods solver concept connecting Sheng Ying's Stanford verification work to later AI infrastructure rigor.
 - [New York Salad-Bowl Multiculturalism / 纽约沙拉式多元](concepts/NewYorkSaladBowlMulticulturalism.md) — New York city-diversity frame where groups coexist in one place without fully melting into one identity.
 - [Uncertain-Era Optionality / 乱纪元选择权](concepts/UncertainEraOptionality.md) — David Weng's answer to unpredictable macro conditions: preserve asset, mobility, skill, and life choices rather than relying on forecasts.
+- [Uncaptured Human Experience Data Limit](concepts/UncapturedHumanExperienceDataLimit.md) — AI data boundary where private thought, embodied state, emotion, intuition, or lived experience remains unavailable unless captured as usable signals.
 - [Split Globalization / 分裂的全球化](concepts/SplitGlobalization.md) — Distinction between retreating production globalization and accelerating cultural circulation through social media, algorithms, and AI.
 - [Base Currency Thinking / 本币思维](concepts/BaseCurrencyThinking.md) — Household FX discipline that starts from where future spending and liabilities sit before treating currencies as investments.
 - [Cycle Worldview / 周期世界观](concepts/CycleWorldview.md) — Investment and life worldview that treats everything as cyclical, supporting diversification while needing present-tense anchors against nihilism.
@@ -11242,7 +11245,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Convertible Bond Double-Low Strategy / 可转债双低策略](concepts/ConvertibleBondDoubleLowStrategy.md) — Low-price and low-conversion-premium convertible-bond screen that remains dependent on credit floor, market regime, and exit discipline.
 - [Government AI Pace-Setting](concepts/GovernmentAIPaceSetting.md) — Proposal for governments to help control or set frontier AI development tempo when voluntary lab safety systems look insufficient.
 - [Streaming Platform Bundling](concepts/StreamingPlatformBundling.md) — Streaming-distribution pattern where a content library becomes watchable inside a larger platform subscription rather than only through a separate app.
-- [Human-Centered AI Education](concepts/HumanCenteredAIEducation.md) — AI education frame that treats ethics, privacy, bias, agency, and domain collaboration as core curriculum rather than add-ons.
+- [Human-Centered AI Augmentation](concepts/HumanCenteredAIAugmentation.md) — Fei-Fei Li's agency-preserving frame for AI as a tool that supports human dignity, learning, creativity, medicine, science, and public participation.
+- [Human-Centered AI Education](concepts/HumanCenteredAIEducation.md) — AI education frame that treats student agency, teacher support, ethics, privacy, bias, and domain collaboration as core curriculum rather than add-ons.
 - [Behavioral Signal Processing](concepts/BehavioralSignalProcessing.md) — AI-supported analysis of speech, vocalization, bodily signals, emotion, context, and identity, with clinical promise and privacy/bias risks.
 - [Academic AI Research Role](concepts/AcademicAIResearchRole.md) — University role in AI centered on novelty, literature currency, early PhD practice, long-range questions, interdisciplinary research, and human-scaled labs alongside industry compute.
 - [Project-Driven AI Curriculum](concepts/ProjectDrivenAICurriculum.md) — Curriculum model using projects and fast-refresh electives to keep AI teaching current while preserving student judgment and ethics.
@@ -13875,7 +13879,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Private Actuarialism](concepts/PrivateActuarialism.md) — Modern pressure to treat life as personal risk, cost, return, and optimization management, making machine-gambling agency suspension attractive.
 - [Near-Miss Design](concepts/NearMissDesign.md) — Presentation of a losing outcome as almost a win, encouraging continued play without necessarily changing final odds.
 - [Intermittent Reinforcement](concepts/IntermittentReinforcement.md) — Variable reward pattern where uncertain payoff drives repeated behavior more strongly than predictable reward.
-- [AI Assistant Augmentation](concepts/AIAssistantAugmentation.md) — Practical frame that treats AI as an assistant for narrow, inspectable tasks while humans retain intent, expertise, and review.
+- [AI Assistant Augmentation](concepts/AIAssistantAugmentation.md) — Practical frame that treats AI as an assistant for tasks, learning, creativity, and decisions while humans retain intent, expertise, agency, and review.
 - [Ambient AI Interface](concepts/AmbientAIInterface.md) — Interface shift where AI moves beyond a standalone chatbot into devices, apps, services, microphones, and operating systems.
 - [Expertise-Amplified AI Use](concepts/ExpertiseAmplifiedAIUse.md) — Claim that experts may benefit most from AI because they know what to ask, what quality looks like, and how to catch errors.
 - [Mundane AI Use Cases](concepts/MundaneAIUseCases.md) — Everyday AI adoption pattern focused on summarizing, dictating, scheduling, and document discussion rather than spectacular demos.
@@ -14287,6 +14291,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Doctor-Patient Communication](concepts/DoctorPatientCommunication.md) — Practical clinic-cooperation pattern around symptom description, constraints, follow-up questions, report access, treatment feedback, and second opinions.
 - [Medical Diagnostic Reasoning](concepts/MedicalDiagnosticReasoning.md) — Clinical reasoning process that turns symptoms, history, exams, tests, treatment response, follow-up, and second opinions into working diagnoses under uncertainty.
 - [Medical Risk Management](concepts/MedicalRiskManagement.md) — Clinical safety frame explaining conservative advice, worst-case screening, system redundancy, and professional responsibility.
+- [Medical AI Robot Collaboration Boundary](concepts/MedicalAIRobotCollaborationBoundary.md) — Safety principle that medical AI and robots should augment clinicians rather than replace them when anatomy, data, and responsibility remain unresolved.
 - [Online Symptom Search Anxiety](concepts/OnlineSymptomSearchAnxiety.md) — Patient-side "Baidu syndrome" pattern where context-free symptom search amplifies health anxiety before clinical review.
 - [Medication Interaction Risk](concepts/MedicationInteractionRisk.md) — Medication-safety branch around alcohol, grapefruit, metabolism interactions, and patient disclosure.
 - [Preventive Health Screening](concepts/PreventiveHealthScreening.md) — Checkup and early-detection frame linking personal screening, health-system follow-up, and the limits of relying on advanced treatment later.

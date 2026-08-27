@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 783
+topic_total_pages: 784
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -2337,6 +2337,9 @@ topic_sources:
   - key: "tech-20260713-tech-pod-128-tech-20260713-tech-pod-128"
     title: "The high cost of vacuuming carbon from the sky"
     url: "/wiki/sources/tech-20260713-tech-pod-128-tech-20260713-tech-pod-128/"
+  - key: "using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040"
+    title: "Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li"
+    url: "/wiki/sources/using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040/"
   - key: "wake-up-haul-an-ozempic-moment-for-the-brain-6a85798d1ad8716bb6078744"
     title: "Wake-up haul: an Ozempic moment for the brain"
     url: "/wiki/sources/wake-up-haul-an-ozempic-moment-for-the-brain-6a85798d1ad8716bb6078744/"

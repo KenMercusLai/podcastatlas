@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1945
+topic_total_pages: 1946
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -1264,6 +1264,9 @@ topic_concepts:
   - key: "HumanAuthorizedAutonomousWeapons"
     title: "Human-Authorized Autonomous Weapons"
     url: "/wiki/concepts/humanauthorizedautonomousweapons/"
+  - key: "HumanCenteredAIAugmentation"
+    title: "Human-Centered AI Augmentation"
+    url: "/wiki/concepts/humancenteredaiaugmentation/"
   - key: "HumanInTheLoopLegalAI"
     title: "Human-In-The-Loop Legal AI"
     url: "/wiki/concepts/humaninthelooplegalai/"

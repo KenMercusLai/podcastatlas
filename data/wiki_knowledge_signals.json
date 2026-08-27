@@ -231,6 +231,50 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/aiasbrandmirror/"
     },
+    "AIAssistantAugmentation": {
+      "episode_count": 5,
+      "show_count": 3,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "BD321FADF98CA4618FFBA3661B038738~8584427_2026-08-10-215527-8787-0-0-10.128 [BD321FADF98CA4618FFBA3661B038738~8584427_2026-08-10-215527-8787-0-0-10.128.mp3？cdn_id=99&uuid=3c5eaff1-ea54-0c27-e9dc-018f1cbcdbe4&wuuid=6a8389b3].md",
+          "key": "ep-17-ais-impact-on-creativity-a-consumers-perspective",
+          "show": "Data Science With Sam",
+          "title": "EP 17: AI's Impact on Creativity: A Consumer's Perspective",
+          "url": "/wiki/sources/ep-17-ais-impact-on-creativity-a-consumers-perspective/"
+        },
+        {
+          "episode_file": "tech_20260413_0413_MP_TECH_pod_128 [tech_20260413_0413_MP_TECH_pod_128].md",
+          "key": "tech-20260413-0413-mp-tech-pod-128-tech-20260413-0413-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Is \\\"made by humans\\\" the new premium label?",
+          "url": "/wiki/sources/tech-20260413-0413-mp-tech-pod-128-tech-20260413-0413-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260107_0107_MP_TECH_pod_128 [tech_20260107_0107_MP_TECH_pod_128].md",
+          "key": "tech-20260107-0107-mp-tech-pod-128-tech-20260107-0107-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Farming in the digital age",
+          "url": "/wiki/sources/tech-20260107-0107-mp-tech-pod-128-tech-20260107-0107-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260202_0202_MP_TECH_pod_128 [tech_20260202_0202_MP_TECH_pod_128].md",
+          "key": "tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Making the most of AI, without the hype",
+          "url": "/wiki/sources/tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "SCIM5701398040 [SCIM5701398040].md",
+          "key": "using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040",
+          "show": "Huberman Lab",
+          "title": "Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li",
+          "url": "/wiki/sources/using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/aiassistantaugmentation/"
+    },
     "AIClinicalValidationInDrugDiscovery": {
       "episode_count": 2,
       "show_count": 2,
@@ -514,6 +558,29 @@
       ],
       "updated": "2026-08-24",
       "url": "/wiki/concepts/aicommercializationpressure/"
+    },
+    "AICreativeCollaboration": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "BD321FADF98CA4618FFBA3661B038738~8584427_2026-08-10-215527-8787-0-0-10.128 [BD321FADF98CA4618FFBA3661B038738~8584427_2026-08-10-215527-8787-0-0-10.128.mp3？cdn_id=99&uuid=3c5eaff1-ea54-0c27-e9dc-018f1cbcdbe4&wuuid=6a8389b3].md",
+          "key": "ep-17-ais-impact-on-creativity-a-consumers-perspective",
+          "show": "Data Science With Sam",
+          "title": "EP 17: AI's Impact on Creativity: A Consumer's Perspective",
+          "url": "/wiki/sources/ep-17-ais-impact-on-creativity-a-consumers-perspective/"
+        },
+        {
+          "episode_file": "SCIM5701398040 [SCIM5701398040].md",
+          "key": "using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040",
+          "show": "Huberman Lab",
+          "title": "Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li",
+          "url": "/wiki/sources/using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/aicreativecollaboration/"
     },
     "AIDataBrokerDemand": {
       "episode_count": 1,
@@ -1099,9 +1166,9 @@
       "url": "/wiki/concepts/analogmoviegoingexperience/"
     },
     "AndrewHuberman": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -1137,6 +1204,13 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried",
           "url": "/wiki/sources/essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929/"
+        },
+        {
+          "episode_file": "SCIM5701398040 [SCIM5701398040].md",
+          "key": "using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040",
+          "show": "Huberman Lab",
+          "title": "Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li",
+          "url": "/wiki/sources/using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040/"
         }
       ],
       "updated": "2026-08-27",
@@ -3434,6 +3508,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/cuiyanlatehan/"
     },
+    "DaVinciSurgicalSystem": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5701398040 [SCIM5701398040].md",
+          "key": "using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040",
+          "show": "Huberman Lab",
+          "title": "Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li",
+          "url": "/wiki/sources/using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/davincisurgicalsystem/"
+    },
     "DabaNiuTeacher": {
       "episode_count": 2,
       "show_count": 2,
@@ -4976,6 +5066,43 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/federalresearchfundingpoliticalrisk/"
+    },
+    "FeiFeiLi": {
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "宇树上市暴涨，但人形机器人的钱到底从哪里赚？｜S10E26 [4a50d4a3-a6ff-4c89-b754-367b73ce924b].md",
+          "key": "yushu-shangshi-baozhang-dan-renxing-jiqiren-de-qian-daodi-cong-nali-zhuan-s10e26-4a50d4a3-a6ff-4c89-b754-367b73ce924b",
+          "show": "What's Next｜科技早知道",
+          "title": "宇树上市暴涨，但人形机器人的钱到底从哪里赚？｜S10E26",
+          "url": "/wiki/sources/yushu-shangshi-baozhang-dan-renxing-jiqiren-de-qian-daodi-cong-nali-zhuan-s10e26-4a50d4a3-a6ff-4c89-b754-367b73ce924b/"
+        },
+        {
+          "episode_file": "tech_20251215_1215_MP_TECH_pod_128 [tech_20251215_1215_MP_TECH_pod_128].md",
+          "key": "tech-20251215-1215-mp-tech-pod-128-tech-20251215-1215-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "A case for AI models that understand, not just predict, the way the world works",
+          "url": "/wiki/sources/tech-20251215-1215-mp-tech-pod-128-tech-20251215-1215-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "133. 对谢赛宁的7小时马拉松访谈：世界模型、逃出硅谷、AMI Labs、两次拒绝Ilya、杨立昆、李飞飞和42 [lqXBPXddXfukbdlAP-NDrFNp-2wn].md",
+          "key": "133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "133. 对谢赛宁的7小时马拉松访谈：世界模型、逃出硅谷、AMI Labs、两次拒绝Ilya、杨立昆、李飞飞和42",
+          "url": "/wiki/sources/133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42/"
+        },
+        {
+          "episode_file": "SCIM5701398040 [SCIM5701398040].md",
+          "key": "using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040",
+          "show": "Huberman Lab",
+          "title": "Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li",
+          "url": "/wiki/sources/using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/feifeili/"
     },
     "FemaleHormoneHealthPhenotyping": {
       "episode_count": 1,
@@ -6792,9 +6919,9 @@
       "url": "/wiki/concepts/huaweismartselectioncarmodel/"
     },
     "HubermanLab": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -6830,10 +6957,63 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried",
           "url": "/wiki/sources/essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929/"
+        },
+        {
+          "episode_file": "SCIM5701398040 [SCIM5701398040].md",
+          "key": "using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040",
+          "show": "Huberman Lab",
+          "title": "Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li",
+          "url": "/wiki/sources/using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040/"
         }
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/hubermanlab/"
+    },
+    "HumanCenteredAIAugmentation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5701398040 [SCIM5701398040].md",
+          "key": "using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040",
+          "show": "Huberman Lab",
+          "title": "Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li",
+          "url": "/wiki/sources/using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/humancenteredaiaugmentation/"
+    },
+    "HumanCenteredAIEducation": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "2D9F56B455380537845C7BFE321174F4~8584437_2026-08-10-210237-8787-0-0-10.128 [2D9F56B455380537845C7BFE321174F4~8584437_2026-08-10-210237-8787-0-0-10.128.mp3？cdn_id=99&uuid=3c5eaff1-ea54-0c27-e9dc-018f1cbcdbe4&wuuid=6a8384b0].md",
+          "key": "ep-9-chatgpt-and-education-systems",
+          "show": "Data Science With Sam",
+          "title": "EP 9: ChatGPT and Education Systems",
+          "url": "/wiki/sources/ep-9-chatgpt-and-education-systems/"
+        },
+        {
+          "episode_file": "tech_20260730_0730_MP_TECH_pod_128 [tech_20260730_0730_MP_TECH_pod_128].md",
+          "key": "tech-20260730-0730-mp-tech-pod-128-tech-20260730-0730-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Centering humans in AI education might be key to innovation and research",
+          "url": "/wiki/sources/tech-20260730-0730-mp-tech-pod-128-tech-20260730-0730-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "SCIM5701398040 [SCIM5701398040].md",
+          "key": "using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040",
+          "show": "Huberman Lab",
+          "title": "Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li",
+          "url": "/wiki/sources/using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/humancenteredaieducation/"
     },
     "HumanRobotSafetyCertification": {
       "episode_count": 1,
@@ -6940,6 +7120,36 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/huyanglatehan/"
+    },
+    "ImageNet": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "133. 对谢赛宁的7小时马拉松访谈：世界模型、逃出硅谷、AMI Labs、两次拒绝Ilya、杨立昆、李飞飞和42 [lqXBPXddXfukbdlAP-NDrFNp-2wn].md",
+          "key": "133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "133. 对谢赛宁的7小时马拉松访谈：世界模型、逃出硅谷、AMI Labs、两次拒绝Ilya、杨立昆、李飞飞和42",
+          "url": "/wiki/sources/133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42/"
+        },
+        {
+          "episode_file": "134. 【数据的综述】和谢晨聊，新时代的石油、历史、版图、数据金字塔、定价与Recipe [lkInPy65_ZR4cQmK23rmHJ_hhLVQ].md",
+          "key": "134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "134. 【数据的综述】和谢晨聊，新时代的石油、历史、版图、数据金字塔、定价与Recipe",
+          "url": "/wiki/sources/134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe/"
+        },
+        {
+          "episode_file": "SCIM5701398040 [SCIM5701398040].md",
+          "key": "using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040",
+          "show": "Huberman Lab",
+          "title": "Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li",
+          "url": "/wiki/sources/using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/imagenet/"
     },
     "IndividualizedCancerVaccine": {
       "episode_count": 2,
@@ -9913,6 +10123,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/mcmurdostation/"
+    },
+    "MedicalAIRobotCollaborationBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5701398040 [SCIM5701398040].md",
+          "key": "using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040",
+          "show": "Huberman Lab",
+          "title": "Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li",
+          "url": "/wiki/sources/using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/medicalairobotcollaborationboundary/"
     },
     "MedicalDiagnosticReasoning": {
       "episode_count": 2,
@@ -14066,6 +14292,29 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/taskswitchingresidue/"
     },
+    "TeacherAIAugmentation": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "2D9F56B455380537845C7BFE321174F4~8584437_2026-08-10-210237-8787-0-0-10.128 [2D9F56B455380537845C7BFE321174F4~8584437_2026-08-10-210237-8787-0-0-10.128.mp3？cdn_id=99&uuid=3c5eaff1-ea54-0c27-e9dc-018f1cbcdbe4&wuuid=6a8384b0].md",
+          "key": "ep-9-chatgpt-and-education-systems",
+          "show": "Data Science With Sam",
+          "title": "EP 9: ChatGPT and Education Systems",
+          "url": "/wiki/sources/ep-9-chatgpt-and-education-systems/"
+        },
+        {
+          "episode_file": "SCIM5701398040 [SCIM5701398040].md",
+          "key": "using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040",
+          "show": "Huberman Lab",
+          "title": "Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li",
+          "url": "/wiki/sources/using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/teacheraiaugmentation/"
+    },
     "TenantScreeningEvictionBackfire": {
       "episode_count": 1,
       "show_count": 1,
@@ -14726,6 +14975,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/ulsterdefenceassociation/"
     },
+    "UncapturedHumanExperienceDataLimit": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5701398040 [SCIM5701398040].md",
+          "key": "using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040",
+          "show": "Huberman Lab",
+          "title": "Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li",
+          "url": "/wiki/sources/using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/concepts/uncapturedhumanexperiencedatalimit/"
+    },
     "UnearnedRewardRefusal": {
       "episode_count": 1,
       "show_count": 1,
@@ -15360,6 +15625,29 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/womenshealthdiagnosticgap/"
+    },
+    "WorldLabs": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "宇树上市暴涨，但人形机器人的钱到底从哪里赚？｜S10E26 [4a50d4a3-a6ff-4c89-b754-367b73ce924b].md",
+          "key": "yushu-shangshi-baozhang-dan-renxing-jiqiren-de-qian-daodi-cong-nali-zhuan-s10e26-4a50d4a3-a6ff-4c89-b754-367b73ce924b",
+          "show": "What's Next｜科技早知道",
+          "title": "宇树上市暴涨，但人形机器人的钱到底从哪里赚？｜S10E26",
+          "url": "/wiki/sources/yushu-shangshi-baozhang-dan-renxing-jiqiren-de-qian-daodi-cong-nali-zhuan-s10e26-4a50d4a3-a6ff-4c89-b754-367b73ce924b/"
+        },
+        {
+          "episode_file": "SCIM5701398040 [SCIM5701398040].md",
+          "key": "using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040",
+          "show": "Huberman Lab",
+          "title": "Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li",
+          "url": "/wiki/sources/using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040/"
+        }
+      ],
+      "updated": "2026-08-27",
+      "url": "/wiki/entities/worldlabs/"
     },
     "WuCommanderyLateHan": {
       "episode_count": 1,

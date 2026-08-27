@@ -12519,6 +12519,10 @@
     "title": "呆萝卜 / Da Luobo",
     "url": "/wiki/entities/daluobo/"
   },
+  "DaVinciSurgicalSystem": {
+    "title": "Da Vinci Surgical System",
+    "url": "/wiki/entities/davincisurgicalsystem/"
+  },
   "DabaNiuTeacher": {
     "title": "大白牛老师 / Daba Niu Teacher",
     "url": "/wiki/entities/dabaniuteacher/"
@@ -23067,6 +23071,10 @@
     "title": "Human Capital Inflation Hedge",
     "url": "/wiki/concepts/humancapitalinflationhedge/"
   },
+  "HumanCenteredAIAugmentation": {
+    "title": "Human-Centered AI Augmentation",
+    "url": "/wiki/concepts/humancenteredaiaugmentation/"
+  },
   "HumanCenteredAIEducation": {
     "title": "Human-Centered AI Education",
     "url": "/wiki/concepts/humancenteredaieducation/"
@@ -31526,6 +31534,10 @@
   "MedicalAIMarketingRisk": {
     "title": "Medical AI Marketing Risk",
     "url": "/wiki/concepts/medicalaimarketingrisk/"
+  },
+  "MedicalAIRobotCollaborationBoundary": {
+    "title": "Medical AI Robot Collaboration Boundary",
+    "url": "/wiki/concepts/medicalairobotcollaborationboundary/"
   },
   "MedicalAIWorkflowIntegration": {
     "title": "Medical AI Workflow Integration",
@@ -49319,6 +49331,10 @@
     "title": "边疆将领擅断干预 / Unauthorized Frontier Command Intervention",
     "url": "/wiki/concepts/unauthorizedfrontiercommandintervention/"
   },
+  "UncapturedHumanExperienceDataLimit": {
+    "title": "Uncaptured Human Experience Data Limit",
+    "url": "/wiki/concepts/uncapturedhumanexperiencedatalimit/"
+  },
   "UncertainEraOptionality": {
     "title": "Uncertain-Era Optionality / 乱纪元选择权",
     "url": "/wiki/concepts/uncertaineraoptionality/"
@@ -58670,6 +58686,10 @@
   "using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds": {
     "title": "Using AI chatbots for mental health support poses serious risks for teens, report finds",
     "url": "/wiki/sources/using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds/"
+  },
+  "using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040": {
+    "title": "Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li",
+    "url": "/wiki/sources/using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040/"
   },
   "vanguard-1": {
     "title": "Vanguard",
