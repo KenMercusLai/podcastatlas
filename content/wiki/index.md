@@ -64,6 +64,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》1040丨乱世英雄，曹操为何独独看好刘备？](sources/zizhi-tongjian-hanji-1040-luanshi-yingxiong-caocao-weihe-dudu-kanhao-liubei-lrazzwo4bjspvwmnkx5hoar1iq3x.md) — 芮淇讲透资治通鉴 episode on Cao Cao's "天下英雄" judgment of Liu Bei, the Dong Cheng/Yidai Zhao plot, Liu Bei's chopsticks-and-thunder composure, Cao Cao releasing Liu Bei to intercept Yuan Shu, and Liu Bei killing Che Zhou to regain Xuzhou before Guandu.
 - [《资治通鉴·汉纪》1041丨揭秘历史上真实的“关羽降曹”](sources/zizhi-tongjian-hanji-1041-jiemi-lishishang-zhenshi-de-guanyu-jiangcao-luisp0ndk1lfrc87byygn6r8myhx.md) — 芮淇讲透资治通鉴 episode on Cao Cao attacking Liu Bei before Guandu, Tian Feng's missed Xudu attack window, and the source-critical correction of Guan Yu's captured service under Cao Cao versus the Romance "关公约三事" story.
 - [《资治通鉴·汉纪》1042丨聪明还是顽固？田丰因顶撞袁绍入狱](sources/zizhi-tongjian-hanji-1042-congming-haishi-wangu-tianfeng-yin-dingzhuang-yuanshao-ruyu-lk5x6if2rouarmgichtynzhl3cgs.md) — 芮淇讲透资治通鉴 episode on Liu Bei reaching Yuan Shao before Guandu, Tian Feng's rejected hold-and-harass attrition plan, Yuan Shao imprisoning him for hard remonstrance, and the Yuan camp fragmentation diagnosis.
+- [《资治通鉴·汉纪》1043丨袁绍痛骂曹操，竟治好了他的偏头疼？](sources/zizhi-tongjian-hanji-1043-yuanshao-tongma-caocao-jing-zhihaole-tade-piantouteng-ltibjj6xizsrynpgr9oyf-q3ydna.md) — 芮淇讲透资治通鉴 episode on Chen Lin's anti-Cao proclamation, Ju Shou's pre-campaign fatalism, Cheng Yu's low-force Juancheng defense, Cao Cao's White Horse feint, and Guan Yu killing Yan Liang to lift the siege.
 - [《资治通鉴·汉纪》1044丨关羽千里走单骑，需感谢曹操不杀恩情？](sources/zizhi-tongjian-hanji-1044-guanyu-qianli-zou-danqi-xu-ganxie-caocao-busha-enqing-lpptlnc-e4zu4lcjr49bquxdw0pm.md) — 芮淇讲透资治通鉴 episode on Yuan Shao's angry Yellow River crossing after Yan Liang, Ju Shou's stripped command, Cao Cao and Xun You's Yanjin baiting defeat of Wen Chou, Guan Yu sealing Cao's rewards and leaving for Liu Bei, and Yan Rou/Xianyu Fu moving toward Cao.
 - [《资治通鉴·汉纪》1045丨他是江东霸业的开创者，可惜死的太窝囊](sources/zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d.md) — 芮淇讲透资治通鉴 episode on Sun Ce's fatal hunting exposure, the Xu Gong retainer ambush, the deathbed handoff to Sun Quan, Zhang Zhao and Zhou Yu stabilizing Jiangdong, and Li Tong rejecting Yuan Shao in the Runan branch.
 - [腾讯、阿里、字节争夺打工人，互联网大厂为何集体加码 AI 办公？](sources/tengxun-ali-zijie-zhengduo-dagongren-hulianwang-dachang-weihe-jiti-jiama-ai-bangong-1008598460.md) — 声动早咖啡 episode on Tencent, Alibaba, and ByteDance shifting from consumer AI chatbots toward AI office products because agents, coding proof, token costs, enterprise context, and payment uncertainty make office workflows the new AI battleground.
@@ -1832,11 +1833,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [沙摩柯 / Sha Moke](entities/ShaMoke.md) — Wuxi Man leader Liu Biao tries to draw in as a reactive support channel.
 - [王夫之 / Wang Fuzhi](entities/WangFuzhi.md) — Later commentator cited by Hanji 1027 to sharpen the negative judgment of Liu Biao's Jingzhou strategy.
 - [庞统 / Pang Tong](entities/PangTong.md) — Jingzhou talent used source-scopedly as a later consequence of Liu Biao's weak correction/talent channel.
-- [官渡之战 / Guandu Campaign](entities/GuanduCampaign.md) — Cao Cao-Yuan Shao confrontation whose setup spans eastern settlement, Jingzhou constraint, Yuan's flawed war council, Tian Feng's rejected attritional alternative, White Horse/Yanjin preliminary shocks, Cao's early deployments, Zhang Xiu's renewed submission, and Guanzhong rear governance.
+- [官渡之战 / Guandu Campaign](entities/GuanduCampaign.md) — Cao Cao-Yuan Shao confrontation whose setup spans eastern settlement, Jingzhou constraint, Yuan's flawed war council, Tian Feng's rejected attritional alternative, White Horse relief, Yanjin preliminary shock, Cao's deployments, Zhang Xiu's submission, and Guanzhong rear governance.
+- [白马之围 / White Horse Relief (late Han)](entities/BaimaReliefLateHan.md) — Pre-Guandu relief action where Cao Cao uses a Yellow River rear-threat feint to divide Yuan Shao's force before Guan Yu kills Yan Liang.
 - [延津之战 / Yanjin Battle (late Han)](entities/YanjinBattleLateHan.md) — Pre-Guandu encounter where Cao Cao and Xun You use exposed baggage and delayed cavalry timing to defeat Wen Chou's larger Yuan-side force.
 - [黎阳 / Liyang (Yellow River, late Han)](entities/LiyangYellowRiverLateHan.md) — Yellow River forward point where Cao Cao briefly deploys before returning to Xudu and placing troops at Guandu.
 - [臧霸 / Zang Ba (late Han)](entities/ZangBaLateHan.md) — Cao-side commander sent with elite troops to Qingzhou to secure the eastern front before Guandu.
-- [颜良 / Yan Liang (late Han)](entities/YanLiangLateHan.md) — Yuan Shao general discounted by Xun Yu as brave but capturable and later killed by Guan Yu, triggering Yuan Shao's angry Yellow River pursuit before Yanjin.
+- [颜良 / Yan Liang (late Han)](entities/YanLiangLateHan.md) — Yuan Shao general discounted by Xun Yu as brave but capturable, warned against by Ju Shou for independent command, and killed by Guan Yu at White Horse.
 - [文丑 / Wen Chou (late Han)](entities/WenChouLateHan.md) — Yuan Shao general paired with Yan Liang in the pre-Guandu debate and killed at Yanjin after Cao Cao and Xun You bait Yuan cavalry into disorder.
 - [杨阜 / Yang Fu (late Han)](entities/YangFuLateHan.md) — Liangzhou/Guanzhong official whose pre-Guandu assessment favors Cao Cao over Yuan Shao on decisiveness, law, army strength, and talent use.
 - [魏觊 / Wei Ji (late Han)](entities/WeiJiLateHan.md) — Hedong official whose Guanzhong plan uses salt revenue, farming tools, oxen, and Sili Xiaowei presence to settle refugees and limit local generals before Guandu.
@@ -2215,7 +2217,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [濮阳田氏 / Puyang Tian Clan](entities/PuyangTianClan.md) — Local household channel whose false inside-support signal draws Cao Cao into the Puyang trap.
 - [李进 / Li Jin (late Han)](entities/LiJinLateHan.md) — Local Yanzhou figure who defeats Lü Bu at Chengshi after the Puyang attrition phase.
 - [乘氏县 / Chengshi County (Late Han)](entities/ChengshiCountyLateHan.md) — County where Li Jin defeats Lü Bu after the Puyang withdrawal.
-- [程昱 / Cheng Yu](entities/ChengYu.md) — Cao Cao adviser in the Hanji 976 adviser-platform reading, Hanji 978/979 Yanzhou base defense, and Hanji 981 Yuan Shao dependency refusal.
+- [程昱 / Cheng Yu](entities/ChengYu.md) — Cao Cao adviser whose profile spans adviser-platform synthesis, Yanzhou base defense, Yuan Shao dependency refusal, and low-force Juancheng defense before Guandu.
 - [并州 / Bingzhou (Late Han)](entities/BingzhouLateHan.md) — Northern late-Han province first marked here by Hanji 898's Xianbei attack and later by Zhang Yi's killing under Tuge Hu pressure.
 - [董扶 / Dong Fu (late Han)](entities/DongFuLateHan.md) — Shizhong whose Yizhou prophecy redirects Liu Yan's provincial destination choice.
 - [张懿 / Zhang Yi (late Han)](entities/ZhangYiLateHan.md) — Bingzhou inspector killed by the Tuge Hu in Hanji 939.
@@ -2223,6 +2225,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [羌渠 / Qiangqu Chanyu](entities/QiangquChanyu.md) — Southern Xiongnu chanyu installed after Zhang Xiu kills Huzheng, then later killed after Han requisition pressure triggers revolt.
 - [醯落 / Xiluo (Southern Xiongnu)](entities/XiluoSouthernXiongnu.md) — Right-division rebel actor who joins the Tuge Hu, kills Qiangqu, and opens Yufuluo's succession.
 - [郭大 / Guo Da (late Han)](entities/GuoDaLateHan.md) — Baibo leader named in Hanji 939's Yellow Turban remnant resurgence.
+- [刘延 / Liu Yan (Dong Commandery)](entities/LiuYanDongCommandery.md) — Dong Commandery administrator attacked by Yan Liang at White Horse and rescued by Cao Cao before Guandu.
 - [刘焉 / Liu Yan (late Han)](entities/LiuYanLateHan.md) — Yi Province powerholder whose failed Guanzhong intervention and death set up Liu Zhang's succession.
 - [刘璋 / Liu Zhang](entities/LiuZhang.md) — Liu Yan's successor in Yi Province, framed by Hanji 981 through local integration failure and Gan Ning's exit.
 - [益州 / Yizhou (Late Han)](entities/YizhouLateHan.md) — Late-Han province where Liu Yan's Dongzhou troops and local elites create an inherited cleavage for Liu Zhang.
@@ -2269,7 +2272,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [神亭岭之战 / Shentingling Battle](entities/ShentinglingBattle.md) — Late-Han encounter where Taishi Ci scouts with one rider and fights Sun Ce despite Sun Ce's stronger retinue.
 - [韩当 / Han Dang](entities/HanDang.md) — Veteran rider named among Sun Ce's thirteen followers at Shentingling in Hanji 993.
 - [黄盖 / Huang Gai](entities/HuangGai.md) — Veteran rider named with Han Dang in Sun Ce's Shentingling retinue.
-- [沮授 / Ju Shou](entities/JuShou.md) — Yuan Shao adviser whose emperor-welcome and pre-Guandu recovery plans make him a case of correct counsel not converted into action.
+- [沮授 / Ju Shou](entities/JuShou.md) — Yuan Shao adviser whose emperor-welcome, pre-Guandu recovery, Yan Liang commander-fit, and Yellow River crossing warnings make him a case of correct counsel not converted into action.
 - [许攸 / Xu You (late Han)](entities/XuYouLateHan.md) — Yuan Shao adviser named in Hanji 976 as part of the underconverted Hebei adviser group with Ju Shou and Tian Feng.
 - [甘宁 / Gan Ning](entities/GanNing.md) — Liu Biao-side military talent invoked by Hanji 993 as a comparator for distrusted or underused ability.
 - [吕范 / Lu Fan](entities/LuFan.md) — Sun Ce follower who volunteers for low-status military-discipline work in Hanji 994, making him a case of operational gap ownership.
@@ -2300,7 +2303,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [臧洪 / Zang Hong](entities/ZangHong.md) — Late-Han official whose 996-997 branch ties old-superior loyalty to failed rescue, East Commandery starvation, final refusal, and emotion-driven political rigidity.
 - [张超 / Zhang Chao (Late Han)](entities/ZhangChaoLateHan.md) — Zang Hong's old Guangling superior, trapped at Yongqiu by Cao Cao, whose death and family destruction become the moral grievance behind Hanji 996-997.
 - [张邈 / Zhang Miao (Late Han)](entities/ZhangMiaoLateHan.md) — Cao Cao's trusted friend turned Yanzhou betrayer, later remembered through Zhang Chao and Zang Hong's failed-rescue grievance.
-- [陈琳 / Chen Lin (Late Han)](entities/ChenLinLateHan.md) — Late-Han adviser and writer who warns He Jin against outside-troop escalation in Hanji 944 and later writes Yuan Shao's persuasion letter to Zang Hong.
+- [陈琳 / Chen Lin (Late Han)](entities/ChenLinLateHan.md) — Late-Han adviser and writer who warns He Jin against outside-troop escalation, writes Yuan Shao's Zang Hong persuasion letter, and composes the anti-Cao proclamation before Guandu.
 - [朱治 / Zhu Zhi (Late Han)](entities/ZhuZhiLateHan.md) — Danyang officer in Hanji 996 whose move into Wu shows Jiangdong local authority fragmenting.
 - [严白虎 / Yan Baihu](entities/YanBaihu.md) — Wu-region local strongman who functions as refuge, secondary threat, and defeated remnant in Sun Ce's Jiangdong consolidation.
 - [雍丘 / Yongqiu (Late Han)](entities/YongqiuLateHan.md) — Siege setting where Zhang Chao falls to Cao Cao, triggering Zang Hong's break with Yuan Shao.
@@ -2585,7 +2588,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [黄祖 / Huang Zu](entities/HuangZu.md) — Jiangxia official in Liu Biao's orbit, endpoint of the Mi Heng borrowed-knife chain and later defeated by Sun Ce after aiding Liu Xun.
 - [蒯越 / Kuai Yue](entities/KuaiYue.md) — Jingzhou elite figure normalized from "款越/款月", used in Hanji 1010 for Liu Biao's consolidation and Hanji 1011 for the offended circle around 祢衡.
 - [蔡瑁 / Cai Mao](entities/CaiMao.md) — Jingzhou elite figure normalized from "蔡茂", used in Hanji 1010 for Liu Biao's consolidation and Hanji 1011 for the local pressure before 祢衡's transfer to Huang Zu.
-- [关羽 / Guan Yu](entities/GuanYu.md) — Liu Bei-aligned general whose Romance memory is corrected through source boundaries, while Hanji 1041-1044 frame his Cao-camp period as captive service, Yan Liang repayment, gift sealing, and return toward Liu Bei.
+- [关羽 / Guan Yu](entities/GuanYu.md) — Liu Bei-aligned general whose Romance memory is source-bounded, while Hanji 1041-1044 frame his Cao-camp period as captive service, White Horse repayment, gift sealing, and return toward Liu Bei.
 - [杜夫人 / Lady Du (Cao Cao)](entities/LadyDuCaoCao.md) — Qin Yilu's wife and Qin Lang's mother, taken by Cao Cao after Guan Yu requests her following Xiapi.
 - [秦宜禄 / Qin Yilu](entities/QinYilu.md) — Lü Bu subordinate whose absence and Yuan Shu detention leave Lady Du and Qin Lang exposed at Xiapi.
 - [秦朗 / Qin Lang](entities/QinLang.md) — Son of Qin Yilu and Lady Du, brought into the Cao household branch after Cao Cao takes Lady Du.
@@ -9603,7 +9606,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Institutional Policy Pluralism](concepts/InstitutionalPolicyPluralism.md) — Comparative-economics frame where shared principles are implemented through different local institutions.
 - [Force-Backed Surrender Persuasion / 武力背书式劝降](concepts/ForceBackedSurrenderPersuasion.md) — Hanji 1039 pattern where respectful persuasion, material asymmetry, precedent, and a deadline make surrender the least damaging option under military pressure.
 - [Surrender as Civilian-Protection Tradeoff / 献城保民权衡](concepts/SurrenderAsCivilianProtectionTradeoff.md) — Ethical-political frame for judging surrender against civilian harm from unwinnable resistance rather than only against loyalist ideals.
-- [Captive Submission with Residual Loyalty / 被俘归顺与旧主忠义](concepts/CaptiveSubmissionResidualLoyalty.md) — Hanji 1041-1044 pattern where captured service under a new power coexists with stated prior loyalty, repayment-before-departure ethics, and gift-sealing exit.
+- [Captive Submission with Residual Loyalty / 被俘归顺与旧主忠义](concepts/CaptiveSubmissionResidualLoyalty.md) — Hanji 1041-1044 pattern where captured service under a new power coexists with stated prior loyalty, White Horse repayment merit, and gift-sealing exit.
 - [Latent Rival Recognition / 潜在强敌识别](concepts/LatentRivalRecognition.md) — Strategy pattern of reading future threat in a currently weak but resilient actor, created from Cao Cao's judgment of Liu Bei.
 - [Crisis Composure Cover Story / 临场定力与借势遮掩](concepts/CrisisComposureCoverStory.md) — Self-protection pattern where a visible fear response is quickly explained through a plausible scene cue.
 - [Dangerous Guest Release Risk / 放虎归山式宾客释放风险](concepts/DangerousGuestReleaseRisk.md) — Failure mode where a sheltered high-potential actor is released with enough autonomy to rebuild independent power.
@@ -9992,7 +9995,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Conceded Kingship Stabilization / 让封真王式稳局](concepts/ConcededKingshipStabilization.md) — Liu Bang's forced title concession to Han Xin, granting real Qi kingship to preserve alignment when denial would expose weakness.
 - [Tripartite Balance Strategy / 三分天下式制衡](concepts/TripartiteBalanceStrategy.md) — Wu She and Kuai Che's Hanji 165 proposal that Han Xin preserve Qi, Zhao, and Yan as a third pole between Liu Bang and Xiang Yu for self-protection.
 - [统帅连续性危机处置 / Command Continuity Damage Control](concepts/CommandContinuityDamageControl.md) — pattern where injury or death of a commander is prevented from becoming command collapse by visible continuity and trusted proxy or successor action.
-- [Legitimacy Indictment Warfare / 正当性控诉战](concepts/LegitimacyIndictmentWarfare.md) — Hanji 164-1 pattern where Liu Bang refuses Xiang Yu's duel frame by publicly recasting the opponent as a covenant-breaking illegitimate ruler.
+- [Legitimacy Indictment Warfare / 正当性控诉战](concepts/LegitimacyIndictmentWarfare.md) — Pattern where spoken or written accusations recast a rival as a public wrongdoer, from Liu Bang's anti-Xiang Yu speech to Chen Lin's anti-Cao proclamation.
 - [Command Synchronization Failure / 军令同步失灵](concepts/CommandSynchronizationFailure.md) — breakdown where diplomacy and military command keep executing incompatible mandates after conditions change, making Li Shiqi's Qi success fatal.
 - [Substitutional Escape Sacrifice / 代身突围牺牲](concepts/SubstitutionalEscapeSacrifice.md) — Hanji 162-1 pattern where a retainer impersonates the ruler to draw enemy attention, save the leader, and accept lethal consequence.
 - [Heart-Field Ethics / 心田处世伦理](concepts/HeartFieldEthics.md) — Hanji 161 part 4 relationship frame where timely help, crisis support, accumulated good conduct, and cultivated heart-field shape fortune and human relations.
@@ -10422,7 +10425,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Encircling Wei to Rescue Zhao / 围魏救赵](concepts/EncirclingWeiToRescueZhao.md) — Strategy of relieving an ally by threatening what the aggressor must save instead of fighting at the obvious pressure point.
 - [Lu Wine Handan War Cascade / 鲁酒薄而邯郸围](concepts/LuWineHandanWarCascade.md) — Diplomatic-causal chain where a tribute insult, honor conflict, and strategic distraction widen into Wei's siege of Handan.
 - [Tian Ji Horse Racing / 田忌赛马](concepts/TianJiHorseRacing.md) — Resource-allocation pattern where one planned loss creates two decisive wins across the larger contest.
-- [Lure Enemy Out of Position / 诱敌离位](concepts/LureEnemyOutOfPosition.md) — Tactic of drawing an enemy out of a safe formation, position, route, or base through bait, false weakness, incentives, exposed targets, or false escape.
+- [Lure Enemy Out of Position / 诱敌离位](concepts/LureEnemyOutOfPosition.md) — Tactic of drawing an enemy out of a safe formation, position, route, base, or force distribution through bait, false weakness, incentives, exposed targets, false escape, or diversion.
 - [Treason Accusation Trap / 谋反指控陷阱](concepts/TreasonAccusationTrap.md) — Court-politics pattern where a planted suspicious event turns a rival's prestige into operational treason suspicion.
 - [Political Parable Weaponization / 寓言式政治挑拨](concepts/PoliticalParableWeaponization.md) — Court-rhetoric pattern where a true-sounding lesson is used to attack a rival.
 - [Chancellor-Centered Governance / 宰相中心治理](concepts/ChancellorCenteredGovernance.md) — Historiographical frame for treating chancellor notices, including Qin's first left/right chancellors, as crucial state-operation evidence.

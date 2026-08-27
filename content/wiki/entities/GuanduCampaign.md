@@ -10,6 +10,7 @@ sources:
   - zizhi-tongjian-hanji-1032-duidai-pantu-caocao-weihe-renci-lmrr3c2f2dayectlwndt4p-katuy
   - zizhi-tongjian-hanji-1042-congming-haishi-wangu-tianfeng-yin-dingzhuang-yuanshao-ruyu-lk5x6if2rouarmgichtynzhl3cgs
   - zizhi-tongjian-hanji-1044-guanyu-qianli-zou-danqi-xu-ganxie-caocao-busha-enqing-lpptlnc-e4zu4lcjr49bquxdw0pm
+  - zizhi-tongjian-hanji-1043-yuanshao-tongma-caocao-jing-zhihaole-tade-piantouteng-ltibjj6xizsrynpgr9oyf-q3ydna
 knowledge_schema: synthesis-v1
 last_updated: 2026-08-27
 ---
@@ -17,23 +18,25 @@ last_updated: 2026-08-27
 # 官渡之战 / Guandu Campaign
 
 ## Overview
-官渡之战 / Guandu Campaign is currently represented in the wiki as a [[CaoCao|曹操]]-[[YuanShao|袁绍]] confrontation whose preconditions and first preliminary shocks are clearer than the final battle narrative. The available sources map Cao Cao's eastern settlement after Lü Bu, southern constraint against [[LiuBiao|刘表]], Yuan Shao's northern-rear settlement after [[GongsunZan|公孙瓒]], Cao's [[ShequanLateHan|射犬]] operation, Yuan Shao's flawed war-council process, Cao-side analysis of Yuan's organization, forward deployment through [[LiyangYellowRiverLateHan|黎阳]], Zhang Xiu's renewed submission, Yang Fu's Cao/Yuan comparison, Wei Ji's Guanzhong rear-governance plan, and the White Horse-to-[[YanjinBattleLateHan|延津]] losses of [[YanLiangLateHan|颜良]] and [[WenChouLateHan|文丑]].
+官渡之战 / Guandu Campaign is currently represented in the wiki as a [[CaoCao|曹操]]-[[YuanShao|袁绍]] confrontation whose preconditions and first preliminary shocks are clearer than the final battle narrative. The available sources map Cao Cao's eastern settlement after Lü Bu, southern constraint against [[LiuBiao|刘表]], Yuan Shao's northern-rear settlement after [[GongsunZan|公孙瓒]], Cao's [[ShequanLateHan|射犬]] operation, Yuan Shao's flawed war-council process, Cao-side analysis of Yuan's organization, forward deployment through [[LiyangYellowRiverLateHan|黎阳]], Zhang Xiu's renewed submission, Yang Fu's Cao/Yuan comparison, Wei Ji's Guanzhong rear-governance plan, the [[BaimaReliefLateHan|White Horse relief]], and the later [[YanjinBattleLateHan|Yanjin]] loss of [[WenChouLateHan|文丑]].
 
 ## Current Profile
 The campaign's current synthesis is that Guandu is prepared before it is fought. Cao Cao's position improves through territorial consolidation, selective incorporation of defeated and defected forces, pressure on potential Yuan Shao allies, practical attention to grain and population control, and conversion of analysis into deployment. Yuan Shao remains the larger northern rival and emerges from Gongsun Zan's fall with Qing, You, Bing, and Ji advantages, but he still needs Wuhuan and Youzhou rear settlement.
 
-Hanji 1042 adds the campaign-choice hinge after Cao Cao's strike against Liu Bei. Once Liu Bei reaches Yuan Shao and Cao Cao returns to Guandu, [[TianFengLateHan|田丰]] advises Yuan Shao to convert scale into time: hold difficult terrain, cultivate people and agriculture, prepare arms, connect with other heroes, and send cavalry raids south of the Yellow River. Yuan Shao's rejection and imprisonment of Tian Feng make the campaign setup a contrast between attritional patience and status-driven decisive battle. The sources increasingly frame Cao Cao's advantage as organizational: decisive command, talent use, adviser compatibility, disciplined law, and capacity to turn surrender, salt revenue, refugees, and field placement into usable military and logistical strength.
+After Cao Cao's strike against Liu Bei, the campaign-choice hinge is Yuan Shao's refusal to turn scale into time. [[TianFengLateHan|田丰]] advises defensible ground, agriculture, arms preparation, alliances, and cavalry harassment south of the Yellow River; Yuan Shao imprisons him instead. [[JuShou|沮授]] presses a related recovery-and-harassment line and then reads the actual mobilization as dangerous because Cao controls the emperor, Yuan's troops are tired from the Gongsun Zan war, and Yuan's command culture is proud and indulgent.
 
-Hanji 1044 adds the immediate battlefield cost of that decision environment. After Yan Liang is killed by [[GuanYu|关羽]], Yuan Shao pursues south in anger, rejects [[JuShou|沮授]]'s advice to hold the crossing and test Guandu, and strips Ju Shou's command. Cao Cao and [[XunYou|荀攸]] then use exposed baggage and delayed cavalry timing at Yanjin to defeat Wen Chou's larger force, making the campaign's opening less a simple clash of numbers than a contest over emotion, cohesion, and usable command.
+White Horse now supplies the missing bridge between rejected counsel and the Yanjin aftermath. Yuan Shao sends [[YanLiangLateHan|颜良]] against [[LiuYanDongCommandery|刘延]] despite Ju Shou's warning that Yan Liang is not fit for independent command. Cao Cao first protects [[JuanchengLateHan|鄄城]] through [[ChengYu|程昱]]'s low-force psychological defense, then relieves White Horse by feigning a Yellow River crossing and rear attack, dividing Yuan's force westward, and striking quickly with [[ZhangLiao|张辽]] and [[GuanYu|关羽]] as vanguard. Guan Yu's killing of Yan Liang lifts the siege and gives his captive-service arc concrete repayment merit.
+
+The following Yanjin source turns White Horse's shock into Yuan-side emotional and command damage. Yuan Shao pursues south in anger, rejects Ju Shou's advice to hold the crossing and probe Guandu, strips Ju Shou's command, and then loses Wen Chou when Cao Cao and [[XunYou|荀攸]] use exposed baggage and delayed cavalry timing. The opening remains a contest over emotion, cohesion, and usable command rather than a simple clash of numbers.
 
 ## Key Characteristics
 - Strategic horizon for Cao Cao's transition from regional survival to direct contest with Yuan Shao.
-- Multi-front preparation problem involving Xuzhou/Qingzhou, Jingzhou, Zhang Xiu's Nanyang force, Guanzhong, the Yellow River line, Youzhou-Wuhuan rear security, and Guandu.
+- Multi-front preparation problem involving Xuzhou/Qingzhou, Jingzhou, Zhang Xiu's Nanyang force, Guanzhong, the Yellow River line, Youzhou-Wuhuan rear security, White Horse, Yanjin, and Guandu.
 - Northern rear and border-contact problem after Gongsun Zan's fall, where Yuan Shao's Wuhuan settlement and Cao Cao's Shequan operation make the confrontation more immediate.
 - Adviser-system contrast in which Yuan Shao has capable names but Cao Cao and Xun Yu produce clearer shared judgment.
 - Defector-incorporation arena where former enemies can become manpower, legitimacy signals, and rear-security assets.
-- Logistics-and-governance problem in which refugee settlement, agriculture, salt revenue, grain supply, and postwar exhaustion matter before battlefield contact.
-- Decision threshold where Yuan Shao rejects attritional patience and then suffers preliminary White Horse/Yanjin shocks, while Cao secures Qingzhou through Zang Ba, places Yu Jin on the Yellow River bank, returns to Xudu, and arrays troops at Guandu.
+- Logistics-and-governance problem in which refugee settlement, agriculture, salt revenue, grain supply, fatigue, and postwar recovery matter before battlefield contact.
+- Decision threshold where Yuan Shao rejects attritional patience, ignores commander-fit warnings, and suffers White Horse/Yanjin preliminary shocks while Cao converts psychology, mobility, and adviser timing into field advantage.
 
 ## Evidence
 - Eastern settlement: [[zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1|Hanji 1026]] links the fall of Lü Bu, the incorporation of Zhang Liao and local-force actors, and Qingzhou/Yuan Tan pressure to Cao Cao's pre-Guandu capacity.
@@ -44,29 +47,34 @@ Hanji 1044 adds the immediate battlefield cost of that decision environment. Aft
 - Zhang Xiu incorporation: [[zizhi-tongjian-hanji-1035-zhansha-caocao-qinzi-he-aijiang-ta-jing-zaidu-guijiang-caocao-lh10wwkwcqw5hnap3bodw6oxpt7v|Hanji 1035]] presents Zhang Xiu's renewed submission as both the removal of a potential spoiler and the gain of a strong force before Guandu.
 - Guanzhong rear base: [[zizhi-tongjian-hanji-1035-zhansha-caocao-qinzi-he-aijiang-ta-jing-zaidu-guijiang-caocao-lh10wwkwcqw5hnap3bodw6oxpt7v|Hanji 1035]] connects Yang Fu's Cao/Yuan comparison and Wei Ji's salt-funded agricultural recovery to rear order and grain support.
 - Rejected attritional alternative: [[zizhi-tongjian-hanji-1042-congming-haishi-wangu-tianfeng-yin-dingzhuang-yuanshao-ruyu-lk5x6if2rouarmgichtynzhl3cgs|Hanji 1042]] places Tian Feng's hold-defend-farm-harass plan after Liu Bei reaches Yuan Shao and before Yuan commits to a higher-stakes contest with Cao Cao.
-- Preliminary battle shocks: [[zizhi-tongjian-hanji-1044-guanyu-qianli-zou-danqi-xu-ganxie-caocao-busha-enqing-lpptlnc-e4zu4lcjr49bquxdw0pm|Hanji 1044]] links Yan Liang's death, Ju Shou's rejected Yellow River caution, and Cao Cao and Xun You's Yanjin baiting victory over Wen Chou.
+- White Horse bridge: [[zizhi-tongjian-hanji-1043-yuanshao-tongma-caocao-jing-zhihaole-tade-piantouteng-ltibjj6xizsrynpgr9oyf-q3ydna|Hanji 1043]] links Chen Lin's anti-Cao proclamation, Ju Shou's pre-departure disaster judgment, Cheng Yu's low-force Juancheng defense, Yuan's dispatch of Yan Liang against Liu Yan, Cao's diversionary relief maneuver, and Guan Yu's killing of Yan Liang.
+- Yanjin aftermath: [[zizhi-tongjian-hanji-1044-guanyu-qianli-zou-danqi-xu-ganxie-caocao-busha-enqing-lpptlnc-e4zu4lcjr49bquxdw0pm|Hanji 1044]] links Yuan Shao's anger after Yan Liang's death, Ju Shou's rejected Yellow River caution, and Cao Cao and Xun You's Yanjin baiting victory over Wen Chou.
 
 ## Qualifications
-The decisive Guandu showdown itself has not yet been narrated by the current bounded sources, so this page should distinguish preliminary White Horse/Yanjin actions from the main battle. Cao Cao and Xun Yu's assessment of Yuan Shao is source-bounded and should not be treated as a complete neutral audit. Hanji 1034 qualifies the simple "Yuan ignored Ju Shou" explanation by making advice framing and factional meeting dynamics part of the causal field. Hanji 1042's claim that Tian Feng's plan could have tilted victory toward Yuan Shao remains a source-scoped counterfactual. Hanji 1032's transcript phrase "称帝后的袁绍" is kept source-scoped because adjacent sources treat Yuan Shu, not Yuan Shao, as the self-declared emperor.
+The decisive Guandu showdown itself has not yet been narrated by the current bounded sources, so this page should distinguish preliminary White Horse/Yanjin actions from the main battle. Cao Cao and Xun Yu's assessment of Yuan Shao is source-bounded and should not be treated as a complete neutral audit. Hanji 1034 qualifies the simple "Yuan ignored Ju Shou" explanation by making advice framing and factional meeting dynamics part of the causal field. Hanji 1042's claim that Tian Feng's plan could have tilted victory toward Yuan Shao remains a source-scoped counterfactual. Hanji 1043 clarifies that the actual White Horse relief and Yan Liang's death precede Hanji 1044's angry-pursuit and Yanjin sequence. Hanji 1032's transcript phrase "称帝后的袁绍" is kept source-scoped because adjacent sources treat Yuan Shu, not Yuan Shao, as the self-declared emperor.
 
 ## What Changed
-- Added Hanji 1042's post-Liu-Bei Yuan-camp decision hinge: Tian Feng's attritional plan is rejected and punished before the campaign fully opens.
-- Added Hanji 1032 as the missing bridge between Gongsun Zan's fall and the later Yuan Shu / Yuan Shao pre-Guandu episodes.
-- Added Yuan Shao's Wuhuan-Youzhou rear settlement as a campaign precondition.
-- Reframed the pre-battle Yuan-side failure from ignored counsel alone into a choice against attritional patience and toward decisive-battle risk.
-- Added Hanji 1044's preliminary White Horse/Yanjin shock sequence: Yan Liang killed, Ju Shou further sidelined, and Wen Chou defeated through baiting.
+- Added Hanji 1043 as the missing White Horse bridge between Tian Feng's imprisonment in Hanji 1042 and the Yanjin aftermath in Hanji 1044.
+- Reframed the preliminary shock sequence as White Horse relief first, then Yuan Shao's angry crossing pressure and Yanjin.
+- Added Cheng Yu's low-force Juancheng defense and Ju Shou's pre-departure fatalism to the campaign's pre-battle decision field.
+- Clarified Guan Yu's Yan Liang kill as the White Horse event that supplies repayment merit before his later departure.
 
 ## Relationships
-- [[CaoCao|曹操]] - contender whose pre-campaign preparation grows through settlement, incorporation, assessment, deployment, and rear governance.
+- [[CaoCao|曹操]] - contender whose pre-campaign preparation grows through settlement, incorporation, assessment, deployment, psychological reading, and rear governance.
 - [[YuanShao|袁绍]] - northern rival whose scale is contrasted with Cao Cao's decisiveness, adviser use, and organization.
+- [[BaimaReliefLateHan|白马之围]] - preliminary relief action where Cao Cao divides Yuan Shao's force and Guan Yu kills Yan Liang.
+- [[YanjinBattleLateHan|延津之战]] - preliminary encounter where Cao Cao and Xun You defeat Wen Chou after Yuan cavalry lose cohesion around baggage.
 - [[GongsunZan|公孙瓒]] - defeated northern rival whose fall opens Yuan Shao's rear-settlement problem before Guandu.
 - [[TadunLateHan|蹋顿]], [[YanRou|阎柔]], [[TianYuLateHan|田豫]], and [[XianyuFu|鲜于辅]] - Youzhou and Wuhuan actors through whom the post-Gongsun-Zan settlement is shown.
 - [[ShequanLateHan|射犬]], [[SuiGuLateHan|眭固]], and [[WeiZhongLateHan|魏种]] - Cao-side north-bank operation and talent-clemency branch before direct Cao-Yuan contact.
-- [[JuShou|沮授]] - Yuan adviser whose rejected recovery-and-harassment plan becomes a pre-Guandu warning.
+- [[JuShou|沮授]] - Yuan adviser whose rejected recovery-and-harassment plan, fatalism, Yan Liang warning, and later crossing warning become pre-Guandu diagnostics.
 - [[TianFengLateHan|田丰]] - Yuan adviser whose rejected hold-and-harass plan sharpens the campaign's attrition-versus-decisive-battle contrast.
-- [[GuoTu|郭图]] and [[ShenPeiLateHan|审配]] - Yuan advisers whose flattering pro-war line shows factional decision distortion.
-- [[YanjinBattleLateHan|延津之战]] - preliminary encounter where Cao Cao and Xun You defeat Wen Chou after Yuan cavalry lose cohesion around baggage.
+- [[ChenLinLateHan|陈琳]] - Yuan-side writer whose anti-Cao proclamation turns legitimacy and reputation into campaign terrain.
+- [[ChengYu|程昱]] - Cao-side adviser whose Juancheng defense shows opponent psychology as pre-battle protection.
 - [[YanLiangLateHan|颜良]] and [[WenChouLateHan|文丑]] - Yuan generals whose deaths turn earlier Cao-side assessment into pre-Guandu morale damage.
+- [[GuanYu|关羽]] - Cao-side vanguard whose killing of Yan Liang resolves White Horse and repays Cao's treatment.
+- [[LiuYanDongCommandery|刘延]] - Dong Commandery administrator whose White Horse position becomes the relief target.
+- [[GuoTu|郭图]] and [[ShenPeiLateHan|审配]] - Yuan advisers whose flattering pro-war line shows factional decision distortion.
 - [[XunYou|荀攸]] - Cao-side strategist whose bait-timing judgment shapes the Yanjin encounter.
 - [[ZangBaLateHan|臧霸]], [[QingzhouLateHan|青州]], [[YuJin|于禁]], [[LiyangYellowRiverLateHan|黎阳]], and [[Xudu|许都]] - deployment chain before Cao settles at Guandu.
 - [[ZhangXiu|张绣]] - former enemy whose renewed submission removes a rear threat and adds force before Guandu.
@@ -74,4 +82,6 @@ The decisive Guandu showdown itself has not yet been narrated by the current bou
 - [[GuanzhongRegion|关中]] - western rear zone whose refugee and salt policy affects Cao-side capacity.
 - [[StrategicDefectorIncorporation|纳叛安抚式整合]] - settlement concept that explains how former enemies become useful before the campaign.
 - [[FortifiedAttritionPatience|坚壁耗敌式耐心]] and [[ResourceAsymmetryAttrition|资源不对称消耗战]] - strategic alternatives that Tian Feng proposes before Yuan Shao chooses a riskier battle path.
-- [[XingshiqingStrategicAssessment|行势情战略评估]] - assessment concept visible in Cao/Xun analysis, Yang Fu's Cao/Yuan comparison, and Jia Xu's patron choice.
+- [[LureEnemyOutOfPosition|诱敌离位]] - tactical concept visible in the White Horse feint and Yanjin baiting sequence.
+- [[LegitimacyIndictmentWarfare|正当性控诉战]] - rhetoric concept visible in Chen Lin's campaign proclamation against Cao Cao.
+- [[XingshiqingStrategicAssessment|行势情战略评估]] - assessment concept visible in Cao/Xun analysis, Ju Shou's fatalism, Yang Fu's Cao/Yuan comparison, and Jia Xu's patron choice.

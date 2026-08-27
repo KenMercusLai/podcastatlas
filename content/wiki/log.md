@@ -12162,6 +12162,10 @@ Added source page for The Rest Is History episode on Crown Prince Rudolf, Mary V
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-27] ingest | 《资治通鉴·汉纪》1043丨袁绍痛骂曹操，竟治好了他的偏头疼？
+
+Added source page for Hanji 1043: Chen Lin's anti-Cao proclamation, Ju Shou's pre-campaign defeat forecast and warning against Yan Liang's independent command, Cheng Yu's low-force Juancheng defense, Cao Cao's White Horse feint, and Guan Yu killing Yan Liang to lift the siege. Created White Horse Relief and Liu Yan (Dong Commandery); migrated Chen Lin, Cheng Yu, and Legitimacy Indictment Warfare to synthesis-v1; updated Guandu Campaign, Yan Liang, Guan Yu, Ju Shou, Lure Enemy Out of Position, and Captive Submission with Residual Loyalty. No settled contradiction found; this ingest clarifies that Yan Liang dies in Hanji 1043 while Hanji 1044 covers the angry-pursuit, Yanjin, Wen Chou, and Guan Yu departure aftermath.
+
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》1044丨关羽千里走单骑，需感谢曹操不杀恩情？
 
 Added source page for Hanji 1044: Yuan Shao's anger after Yan Liang, Ju Shou's rejected Yanjin/Guandu caution and command loss, Cao Cao and Xun You's baggage-bait victory over Wen Chou, Guan Yu's reward-sealing departure toward Liu Bei, Yan Rou and Xianyu Fu's move toward Cao, and Chen Deng's Jiangdong rear-pressure setup. Created Yanjin Battle page; updated Guan Yu, Yan Liang, Wen Chou, Ju Shou, Xun You, Yan Rou, Xianyu Fu, Guandu Campaign, Captive Submission with Residual Loyalty, index, and overview. No settled contradiction found; Romance "千里走单骑" and "过五关斩六将" details are kept as source-tradition embellishment.
@@ -12520,6 +12524,10 @@ Ran health, identity validation, and lint. Health scanned 15,142 wiki pages with
 ## [2026-08-27] ingest | Vol.272 2026年了，怎么还有人要做中国版Airbnb？
 
 Added source page for a 商业就是这样 episode with 谭丁 on 一间次卧, China's spare-bedroom sharing opportunity, housing cash-flow pressure, low-price local lodging, female guest safety, payment custody, host verification, brand-product barter, AI/RAG search, and one-person company operations. Created Tan Ding, 一间次卧, Tujia, Xiaozhu, China Home-Sharing Supply Motivation, Bedroom Homestay Platform Trust, and Non-Standard Lodging Search pages; migrated Hotel Retail Flywheel to synthesis-v1 and extended it from chain-hotel bedding retail into broader lodging-room product trial. No settled contradiction found; macro statistics, platform metrics, host/guest percentages, and regulatory observations are kept source-scoped to the episode.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-27] lint | Wiki health check
 

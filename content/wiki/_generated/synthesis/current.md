@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-27
-as_of_overview_commit: aaf33a9454627896f9686f84e0c97870ec7ebe75
-summary: "Durable value depends on operational proof, trust boundaries, human judgment, and source-scoped capacity as AI, markets, institutions, science, and conflicts shift."
-episode_count: 1562
-source_count: 1562
-paragraph_count: 292
+as_of_overview_commit: 30d97fd2a9cce10f8a42a198e7d202a132769664
+summary: "Durable value depends on operational proof, trust boundaries, human judgment, enforceable institutions, and source-scoped timing as AI, markets, science, and conflicts shift."
+episode_count: 1563
+source_count: 1563
+paragraph_count: 293
 topic_count: 8
 ---
 
@@ -49,21 +49,21 @@ Cultural sources treat literature, folklore, games, media, and brand as evidence
 
 ### Governance and Institutions
 
-Governance value depends on enforceable boundaries, implementation capacity, legitimacy, and accountability, from AI and privacy rules to Northern Ireland and late-Han state failure.
+Governance value depends on enforceable boundaries, implementation capacity, legitimacy, accountability, and command translation; Hanji 1043 adds a pre-Guandu contrast between Yuan legitimacy rhetoric plus failed advice absorption and Cao-side executable situation reading.
 
 - The California data-broker branch shows that privacy rights depend on compliance workflows: [[CaliforniaDeleteAct]], [[DeleteRequestAndOptOutPlatform]], [[ConsumerDataDeletion]], [[DataBrokerComplianceGap]], and [[CaliforniaPrivacyProtectionAgency]] connect centralized deletion, broker registration, reporting duties, request friction, agency capacity, and private-lawsuit proposals into one implementation problem. Evidence: [[CaliforniaDeleteAct]], [[DeleteRequestAndOptOutPlatform]], [[ConsumerDataDeletion]], [[DataBrokerComplianceGap]], [[CaliforniaPrivacyProtectionAgency]], [[tech-20260825-mp-tech-pod-128-tech-20260825-mp-tech-pod-128]].
 - The early-Han sequence shows victory turning into governance only through family order, capital choice, exit management, reward ranking, ritual hierarchy, frontier containment, [[HanXiongnuHeqinPolicy|heqin]] diplomacy, vassal rollback, investigation-triggered rebellion risk, and finally the failure of personal trust in [[LuWan|Lu Wan]]'s Yan kingship. Evidence: [[LiuBang]], [[StrategicCapitalRelocation]], [[LiAsPoliticalOrder]], [[BaidengEncirclement]], [[HanXiongnuHeqinPolicy]], [[DifferentSurnameKingSuspicion]], [[HuainanKingdomEarlyHan]], [[InvestigationDrivenRebellionEscalation]], [[LuWan]], [[YanState]].
 
 ### History and Geopolitics
 
-Historical and geopolitical cases show power moving through enforceable systems, alliances, infrastructure, title legitimacy, technology ecosystems, legitimacy shocks, and source-scoped battlefield timing.
+Historical and geopolitical cases show power moving through enforceable systems, alliances, infrastructure, title legitimacy, technology ecosystems, legitimacy shocks, and source-scoped battlefield timing; Hanji 1043 now clarifies the White Horse bridge before Hanji 1044 Yanjin.
 
 - [[UnderseaDataCables]] show contemporary geopolitics moving into physical internet routes: [[UnitedStates]] funding for [[Caribbean]] and [[CentralAmerica]] cable replacement, competition with [[China]], vendor concerns involving [[Russia]], [[CableLandingPointSecurity]], and [[CableNetworkResilience]] make cloud and financial connectivity part of strategic infrastructure rather than only telecom operations. Evidence: [[UnderseaDataCables]], [[UnitedStates]], [[Caribbean]], [[CentralAmerica]], [[China]], [[Russia]], [[CableLandingPointSecurity]], [[CableNetworkResilience]], [[TrustedNetworkGeopolitics]], [[DigitalInfrastructureWarRisk]], [[RegionalNetworkTopologyRisk]], [[AsymmetricInfrastructureAttack]], [[MarketplaceTech]], [[ErinMurphy]], [[tech-20260820-tech-pod-128-tech-20260820-tech-pod-128]].
 - The Hanji 992, 1002, and 1015-1016 branch makes late-Han title order a strategic condition: [[EmperorXianOfHan]]'s ruined Anyi and Chang'an context keeps [[MingqiLegitimacy]] symbolically active but materially thin, [[JuShou]] sees [[LegitimacyWindowSeizure]] for [[YuanShao]] before [[GuoTu]] and [[ChunyuQiong]] help Yuan Shao miss it, [[SunCe]] treats [[YuanShu]]'s planned imperial title as a [[MoralizedWarPretext]] and exits, [[XunYu]] turns the emperor's recognition into [[LegitimacyWindowSeizure]] for [[CaoCao]], Yuan Shu's later Shouchun claim outruns [[TitleRealityRestraint]] and creates [[AntiUsurpationCoalitionPressure]], and [[ChenGui]] blocks [[MarriageAllianceWarExposure]] around [[LyuBu]] and [[Xuzhou]]. Evidence: [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz]], [[EmperorXianOfHan]], [[ChangAnHanCapital]], [[GuanzhongRegion]], [[MingqiLegitimacy]], [[JuShou]], [[LegitimacyWindowSeizure]], [[YuanShao]], [[GuoTu]], [[ChunyuQiong]], [[WartimeAgriculturalLaborCollapse]], [[FamineEntitlementFailure]], [[SunCe]], [[YuanShu]], [[MoralizedWarPretext]], [[XunYu]], [[CaoCao]], [[TitleRealityRestraint]], [[AntiUsurpationCoalitionPressure]], [[ChenGui]], [[MarriageAllianceWarExposure]], [[LyuBu]], [[Xuzhou]], [[XingshiqingStrategicAssessment]], [[GuoJia]], [[ZhongYao]].
 
 ### Psychology and Personal Development
 
-Personal-development sources frame agency as disciplined attention, sized risk, authorship trust, self-command, and acceptable trust boundaries under AI, institutions, conflict, and stranger-in-home transactions.
+Personal-development sources frame agency as disciplined attention, sized risk, authorship trust, self-command, acceptable trust boundaries, and opponent-state calibration; Hanji 1043 adds a source-scoped Guandu judgment case.
 
 - [[AugmentedIntelligence]] and [[ep278-ai-shidai-bu-juan-zhuanye-juan-shenme-renzai-zhongliu-tebie-cehua-02-lhvsbropwclouwshe-2-fczwnwzz|EP278]] add a personal-judgment frame for AI use: [[JonathanSchaeffer]] treats LLMs as useful assistants or interns, while the AI-era education source adds [[NonAlgorithmicCapabilities]], [[HumanAgencyUnderAI]], and [[HumanConnectionUnderAI]] as safeguards against letting convenience replace verification, practice, and self-direction. Evidence: [[ep-47-the-ai-pioneer-who-decided-privacy-matters-more-than-hype]], [[ep278-ai-shidai-bu-juan-zhuanye-juan-shenme-renzai-zhongliu-tebie-cehua-02-lhvsbropwclouwshe-2-fczwnwzz]], [[AugmentedIntelligence]], [[JonathanSchaeffer]], [[HumanJudgmentUnderAI]], [[AIVerification]], [[AIHallucination]], [[NonAlgorithmicCapabilities]], [[HumanAgencyUnderAI]], [[HumanConnectionUnderAI]].
 - [[HumanAuthorshipPremium]] and [[AlgorithmAversion]] show that perceived AI authorship can reduce trust in emotionally or identity-relevant products. Evidence: [[HumanAuthorshipPremium]], [[AlgorithmAversion]].

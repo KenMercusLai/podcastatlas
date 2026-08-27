@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 7925
+wiki_total_pages: 7927
 wiki_pages:
   - key: "BSpecials"
     title: "B Specials"
@@ -926,6 +926,9 @@ wiki_pages:
   - key: "BaimaYicong"
     title: "白马义从 / Baima Yicong"
     url: "/wiki/entities/baimayicong/"
+  - key: "BaimaReliefLateHan"
+    title: "白马之围 / White Horse Relief (late Han)"
+    url: "/wiki/entities/baimarelieflatehan/"
   - key: "BaiduYoua"
     title: "百度有啊 / Baidu Youa"
     url: "/wiki/entities/baiduyoua/"

@@ -5799,6 +5799,10 @@
     "title": "Baillie College / 贝利学院",
     "url": "/wiki/entities/bailliecollege/"
   },
+  "BaimaReliefLateHan": {
+    "title": "白马之围 / White Horse Relief (late Han)",
+    "url": "/wiki/entities/baimarelieflatehan/"
+  },
   "BaimaYicong": {
     "title": "白马义从 / Baima Yicong",
     "url": "/wiki/entities/baimayicong/"
@@ -28930,6 +28934,10 @@
   "LiuXunLateHan": {
     "title": "刘勋 / Liu Xun (late Han)",
     "url": "/wiki/entities/liuxunlatehan/"
+  },
+  "LiuYanDongCommandery": {
+    "title": "刘延 / Liu Yan (Dong Commandery)",
+    "url": "/wiki/entities/liuyandongcommandery/"
   },
   "LiuYanLateHan": {
     "title": "刘焉 / Liu Yan (late Han)",
@@ -58866,6 +58874,10 @@
   "zizhi-tongjian-hanji-1042-congming-haishi-wangu-tianfeng-yin-dingzhuang-yuanshao-ruyu-lk5x6if2rouarmgichtynzhl3cgs": {
     "title": "《资治通鉴·汉纪》1042丨聪明还是顽固？田丰因顶撞袁绍入狱",
     "url": "/wiki/sources/zizhi-tongjian-hanji-1042-congming-haishi-wangu-tianfeng-yin-dingzhuang-yuanshao-ruyu-lk5x6if2rouarmgichtynzhl3cgs/"
+  },
+  "zizhi-tongjian-hanji-1043-yuanshao-tongma-caocao-jing-zhihaole-tade-piantouteng-ltibjj6xizsrynpgr9oyf-q3ydna": {
+    "title": "《资治通鉴·汉纪》1043丨袁绍痛骂曹操，竟治好了他的偏头疼？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-1043-yuanshao-tongma-caocao-jing-zhihaole-tade-piantouteng-ltibjj6xizsrynpgr9oyf-q3ydna/"
   },
   "zizhi-tongjian-hanji-1044-guanyu-qianli-zou-danqi-xu-ganxie-caocao-busha-enqing-lpptlnc-e4zu4lcjr49bquxdw0pm": {
     "title": "《资治通鉴·汉纪》1044丨关羽千里走单骑，需感谢曹操不杀恩情？",
