@@ -13276,3 +13276,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-29] ingest | 《资治通鉴·汉纪》820丨职场警示！小心领导让你背黑锅
+
+Ingested the 芮淇讲透资治通鉴 episode on 139-140 CE Emperor Shun, Liang Shang's legal and appointment restraint, the Southern Xiongnu revolt, Chen Gui's unauthorized chanyu coercion, Ma Xu's fortified surrender policy, and the Ma Xian warning setup. Created the source note plus Ma Xu, Xiuli, Wusi, Che Niu, and Zhang Dan pages; updated Emperor Shun, Liang Shang, Liang Buyi, Ma Xian, Liang Bing, Chen Gui, Southern Xiongnu, Blame-Absorbing Responsibility, Unauthorized Frontier Command Intervention, Frontier Command Collapse, Fortified Attrition Patience, index, and overview. No settled contradiction found; transcript forms 马旭, 梁炳, 武司, 陈圭, 张耽, and 修立 were normalized cautiously to 马续, 梁并, 句龙王吾斯, 陈龟, 张躭, and 休利.
+
+## [2026-08-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

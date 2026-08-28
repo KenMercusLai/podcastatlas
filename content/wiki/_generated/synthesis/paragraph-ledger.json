@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "aeafe2c01101db5fbb079b8132df791554abcdca958fc5a5707cf9a3c1ece869",
       "61202b9a66271c2d68d2f82f74a4627d6b494c5125926dd5365093ad1ef34b60",
       "ba4b6e07bbc858f1190ceb97b96c4010a664e743420b13749fad4f031bf94171",
       "c321ac52ef2edf748cf684bd1bd8dd6992019c95a79af8c9c795f0aaecffc5e8",
@@ -355,11 +356,44 @@
       "082a8129ce267d83fa695011e4d1d9ec611a2911fab24932213544b548f520cf",
       "6dd2244cfd82de8e2076d8e2587203e47d3343702b97f83715d88073f28b3401"
     ],
-    "paragraph_count": 353
+    "paragraph_count": 354
   },
-  "overview_commit": "3ce1cbfb4d6a701682ef38d6fbd19390e1a8afcd",
-  "overview_digest": "20a4abece2e3fdb545318618b8ce1a3551187bb6a3b15f0dea9e0584d82b2027",
+  "overview_commit": "9c67efd6581c65adfc6054b7765ea1ffe7050951",
+  "overview_digest": "a9afafa186edd03c3bc977a0abbfb715f1e6a0a9dd8a68b579449fdf6320e615",
   "paragraphs": [
+    {
+      "id": "aeafe2c01101db5fbb079b8132df791554abcdca958fc5a5707cf9a3c1ece869",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap|《资治通鉴·汉纪》820丨职场警示！小心领导让你背黑锅]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 139-140 CE [[EmperorShunOfHan|汉顺帝]] layer before [[zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh|Hanji 821]]. It adds [[MaXuLateHan|马续]], [[XiuliChanyu|休利]], [[WusiSouthernXiongnu|吾斯]], [[CheNiuChanyu|车纽]], and [[ZhangDanProtectorOfXiongnu|张躭]], while extending [[LiangShangLateHan|梁商]], [[LiangBuyiLateHan|梁不疑]], [[MaXianLateHan|马贤]], [[LiangBingLateHan|梁并]], [[ChenGuiDuliaoGeneralLateHan|陈龟]], [[SouthernXiongnu|南匈奴]], [[BlameAbsorbingResponsibility|揽过式责任承担]], [[UnauthorizedFrontierCommandIntervention|边疆将领擅断干预]], [[FrontierCommandCollapse|边郡军政崩盘]], and [[FortifiedAttritionPatience|坚壁耗敌式耐心]]. Its core synthesis is that responsibility can stabilize or destroy depending on authority and risk boundaries: Liang Shang narrows false-accusation punishment and advocates defensive surrender, while Chen Gui's unauthorized coercion of a non-plotting chanyu turns command discretion into a legal and frontier-legitimacy failure before Ma Xian's later delayed Qiang command. No settled contradiction is recorded; transcript forms 马旭, 梁炳, 武司, 陈圭, 张耽, and 修立 are normalized cautiously to 马续, 梁并, 句龙王吾斯, 陈龟, 张躭, and 休利.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "BlameAbsorbingResponsibility",
+        "CheNiuChanyu",
+        "ChenGuiDuliaoGeneralLateHan",
+        "EmperorShunOfHan",
+        "FortifiedAttritionPatience",
+        "FrontierCommandCollapse",
+        "LiangBingLateHan",
+        "LiangBuyiLateHan",
+        "LiangShangLateHan",
+        "MaXianLateHan",
+        "MaXuLateHan",
+        "RuiqiJiangtouZizhiTongjian",
+        "SouthernXiongnu",
+        "UnauthorizedFrontierCommandIntervention",
+        "WusiSouthernXiongnu",
+        "XiuliChanyu",
+        "ZhangDanProtectorOfXiongnu",
+        "zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap",
+        "zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh"
+      ]
+    },
     {
       "id": "61202b9a66271c2d68d2f82f74a4627d6b494c5125926dd5365093ad1ef34b60",
       "primary_topic": "culture-and-media",

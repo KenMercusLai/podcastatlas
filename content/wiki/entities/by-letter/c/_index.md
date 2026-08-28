@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 8226
+wiki_total_pages: 8231
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -1580,6 +1580,9 @@ wiki_pages:
   - key: "CheshiHouKingdomLateHan"
     title: "车师后王国 / Later Cheshi Kingdom (late Han)"
     url: "/wiki/entities/cheshihoukingdomlatehan/"
+  - key: "CheNiuChanyu"
+    title: "车纽 / Che Niu Chanyu"
+    url: "/wiki/entities/cheniuchanyu/"
   - key: "CheZhouLateHan"
     title: "车胄 / Che Zhou (late Han)"
     url: "/wiki/entities/chezhoulatehan/"

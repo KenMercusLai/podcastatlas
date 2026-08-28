@@ -3096,9 +3096,9 @@
       "url": "/wiki/concepts/bipolarmaniahypomaniaspectrum/"
     },
     "BlameAbsorbingResponsibility": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》832丨为领导背锅，他是傻还是智？ [lmFpUIXmI4odrf6LU31RF6_66-lq].md",
@@ -3106,9 +3106,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》832丨为领导背锅，他是傻还是智？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》820丨职场警示！小心领导让你背黑锅 [lqKejieIiHMUpFiFuk8sxP3oAdAP].md",
+          "key": "zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》820丨职场警示！小心领导让你背黑锅",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-29",
       "url": "/wiki/concepts/blameabsorbingresponsibility/"
     },
     "BlockInc": {
@@ -4322,6 +4329,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/changguangcommanderylatehan/"
     },
+    "CheNiuChanyu": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》820丨职场警示！小心领导让你背黑锅 [lqKejieIiHMUpFiFuk8sxP3oAdAP].md",
+          "key": "zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》820丨职场警示！小心领导让你背黑锅",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/cheniuchanyu/"
+    },
     "CheZhouLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -4504,9 +4527,9 @@
       "url": "/wiki/entities/chenfanlatehan/"
     },
     "ChenGuiDuliaoGeneralLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》844丨如何立于不败之地？ [lsP49uW8AtYIUFrf_ryO_9CtOs5Z].md",
@@ -4521,9 +4544,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》843丨古代农民贫困的根源是什么？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-843-gudai-nongmin-pinkun-de-genyuan-shi-shenme-lutep8yyzanhlb4ao6sope-8edvy/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》820丨职场警示！小心领导让你背黑锅 [lqKejieIiHMUpFiFuk8sxP3oAdAP].md",
+          "key": "zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》820丨职场警示！小心领导让你背黑锅",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-29",
       "url": "/wiki/entities/chenguiduliaogenerallatehan/"
     },
     "ChenJianYuanShuRetainer": {
@@ -8107,9 +8137,9 @@
       "url": "/wiki/entities/emperorhuanofhan/"
     },
     "EmperorShunOfHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》822丨豺狼当道，他将矛头直指皇帝岳父？ [lqHpMAYVd3p07BYR_zOIv-jyhdv_].md",
@@ -8131,6 +8161,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》821丨不懂老板心思还想晋升？没门！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》820丨职场警示！小心领导让你背黑锅 [lqKejieIiHMUpFiFuk8sxP3oAdAP].md",
+          "key": "zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》820丨职场警示！小心领导让你背黑锅",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap/"
         }
       ],
       "updated": "2026-08-29",
@@ -9353,9 +9390,9 @@
       "url": "/wiki/concepts/forcebackedsurrenderpersuasion/"
     },
     "FortifiedAttritionPatience": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮 [liMAFqSkGbLRweTeSTyH39w_hZM4].md",
@@ -9384,9 +9421,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1042丨聪明还是顽固？田丰因顶撞袁绍入狱",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1042-congming-haishi-wangu-tianfeng-yin-dingzhuang-yuanshao-ruyu-lk5x6if2rouarmgichtynzhl3cgs/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》820丨职场警示！小心领导让你背黑锅 [lqKejieIiHMUpFiFuk8sxP3oAdAP].md",
+          "key": "zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》820丨职场警示！小心领导让你背黑锅",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-29",
       "url": "/wiki/concepts/fortifiedattritionpatience/"
     },
     "FortressSecurityIllusion": {
@@ -9653,9 +9697,9 @@
       "url": "/wiki/concepts/freesecuritysoftwarestrategy/"
     },
     "FrontierCommandCollapse": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》937丨战神之死，好人总是多灾多难？ [lp7PRzsMAg9oOKq7eOiSvSmnm5Aw].md",
@@ -9670,6 +9714,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》821丨不懂老板心思还想晋升？没门！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》820丨职场警示！小心领导让你背黑锅 [lqKejieIiHMUpFiFuk8sxP3oAdAP].md",
+          "key": "zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》820丨职场警示！小心领导让你背黑锅",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap/"
         }
       ],
       "updated": "2026-08-29",
@@ -15144,9 +15195,9 @@
       "url": "/wiki/entities/liyunlatehan/"
     },
     "LiangBingLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》826丨乱世的罪与恶，背后是贪婪的人性 [ljK0Q4ZQ4zy6l9rvoO_PiPDcSiJV].md",
@@ -15154,15 +15205,22 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》826丨乱世的罪与恶，背后是贪婪的人性",
           "url": "/wiki/sources/zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》820丨职场警示！小心领导让你背黑锅 [lqKejieIiHMUpFiFuk8sxP3oAdAP].md",
+          "key": "zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》820丨职场警示！小心领导让你背黑锅",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap/"
         }
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/liangbinglatehan/"
     },
     "LiangBuyiLateHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》836丨兄弟反目背后：儒者和奸臣的交锋 [lq9wJN5C8Mwt-OnRtSlUm4Fw53EQ].md",
@@ -15184,6 +15242,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》821丨不懂老板心思还想晋升？没门！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》820丨职场警示！小心领导让你背黑锅 [lqKejieIiHMUpFiFuk8sxP3oAdAP].md",
+          "key": "zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》820丨职场警示！小心领导让你背黑锅",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap/"
         }
       ],
       "updated": "2026-08-29",
@@ -15332,9 +15397,9 @@
       "url": "/wiki/entities/liangjilatehan/"
     },
     "LiangShangLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》821丨不懂老板心思还想晋升？没门！ [lmJXR8fDXGW-ColRLinmuJba74fh].md",
@@ -15342,6 +15407,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》821丨不懂老板心思还想晋升？没门！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》820丨职场警示！小心领导让你背黑锅 [lqKejieIiHMUpFiFuk8sxP3oAdAP].md",
+          "key": "zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》820丨职场警示！小心领导让你背黑锅",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap/"
         }
       ],
       "updated": "2026-08-29",
@@ -16961,9 +17033,9 @@
       "url": "/wiki/entities/maronglatehan/"
     },
     "MaXianLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》821丨不懂老板心思还想晋升？没门！ [lmJXR8fDXGW-ColRLinmuJba74fh].md",
@@ -16971,10 +17043,33 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》821丨不懂老板心思还想晋升？没门！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》820丨职场警示！小心领导让你背黑锅 [lqKejieIiHMUpFiFuk8sxP3oAdAP].md",
+          "key": "zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》820丨职场警示！小心领导让你背黑锅",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap/"
         }
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/maxianlatehan/"
+    },
+    "MaXuLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》820丨职场警示！小心领导让你背黑锅 [lqKejieIiHMUpFiFuk8sxP3oAdAP].md",
+          "key": "zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》820丨职场警示！小心领导让你背黑锅",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/maxulatehan/"
     },
     "MacMini": {
       "episode_count": 2,
@@ -23499,9 +23594,9 @@
       "url": "/wiki/entities/southernocean/"
     },
     "SouthernXiongnu": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》903丨为什么劝你冤冤相报何时了？ [loKpt93MUc8kasvN44VgsjKI8boM].md",
@@ -23572,9 +23667,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》844丨如何立于不败之地？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-844-ruhe-liyu-bubaizhidi-lsp49uw8atyiufrf-ryo-9ctos5z/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》820丨职场警示！小心领导让你背黑锅 [lqKejieIiHMUpFiFuk8sxP3oAdAP].md",
+          "key": "zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》820丨职场警示！小心领导让你背黑锅",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-29",
       "url": "/wiki/entities/southernxiongnu/"
     },
     "SpineRehabilitationProgression": {
@@ -25907,6 +26009,29 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/ulsterdefenceassociation/"
     },
+    "UnauthorizedFrontierCommandIntervention": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》917丨如何迅速找到升职加薪的破局点？ [lk2zT5C3ONvUi9A4PPBowsHY66Tg].md",
+          "key": "zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》917丨如何迅速找到升职加薪的破局点？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》820丨职场警示！小心领导让你背黑锅 [lqKejieIiHMUpFiFuk8sxP3oAdAP].md",
+          "key": "zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》820丨职场警示！小心领导让你背黑锅",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/unauthorizedfrontiercommandintervention/"
+    },
     "UnboundedEliteRewardDemand": {
       "episode_count": 1,
       "show_count": 1,
@@ -27600,6 +27725,29 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/wurenzhixiao/"
     },
+    "WusiSouthernXiongnu": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》824丨为什么我们要学“守拙” [lpsSY8lTyKugDpvmgrzWcPF6-9V9].md",
+          "key": "zizhi-tongjian-hanji-824-weishenme-women-yao-xue-shouzhuo-lpssy8ltykugdpvmgrzwcpf6-9v9",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》824丨为什么我们要学“守拙”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-824-weishenme-women-yao-xue-shouzhuo-lpssy8ltykugdpvmgrzwcpf6-9v9/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》820丨职场警示！小心领导让你背黑锅 [lqKejieIiHMUpFiFuk8sxP3oAdAP].md",
+          "key": "zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》820丨职场警示！小心领导让你背黑锅",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/wusisouthernxiongnu/"
+    },
     "WuyinLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -27954,6 +28102,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/xiongnu/"
+    },
+    "XiuliChanyu": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》820丨职场警示！小心领导让你背黑锅 [lqKejieIiHMUpFiFuk8sxP3oAdAP].md",
+          "key": "zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》820丨职场警示！小心领导让你背黑锅",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/xiulichanyu/"
     },
     "XiziRanLateHan": {
       "episode_count": 1,
@@ -29469,6 +29633,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/zhangchengastrologerlatehan/"
+    },
+    "ZhangDanProtectorOfXiongnu": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》820丨职场警示！小心领导让你背黑锅 [lqKejieIiHMUpFiFuk8sxP3oAdAP].md",
+          "key": "zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》820丨职场警示！小心领导让你背黑锅",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/zhangdanprotectorofxiongnu/"
     },
     "ZhangFanWanLateHan": {
       "episode_count": 1,

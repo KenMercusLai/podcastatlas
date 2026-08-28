@@ -2,53 +2,61 @@
 title: "梁商 / Liang Shang (late Han)"
 type: entity
 knowledge_schema: synthesis-v1
-tags: [person, late-han, liang-family, outer-relatives, court-politics]
+tags: [person, late-han, liang-family, outer-relatives, court-politics, frontier]
 sources:
   - zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh
+  - zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap
 last_updated: 2026-08-29
 ---
 
 ## Overview
 
-梁商 / Liang Shang is a Liang-family grandee whose current wiki profile is bounded to the 141 CE transition before [[LiangJiLateHan|梁冀]]'s later dominance. Hanji 821 presents him as opposing [[MaXianLateHan|马贤]]'s appointment, recommending [[ZhouJuLateHan|周举]], asking for frugal burial, and then becoming the deceased predecessor whose office handoff lets Liang Ji become Grand General.
+梁商 / Liang Shang is a Liang-family grandee whose current wiki profile now spans 139-141 CE. Hanji 820 shows him narrowing legal punishment, restraining a premature appointment for [[LiangBuyiLateHan|Liang Buyi]], and designing a patient Southern Xiongnu surrender strategy; Hanji 821 shows him opposing [[MaXianLateHan|Ma Xian]] before death and becoming the predecessor whose office handoff opens the way for [[LiangJiLateHan|Liang Ji]].
 
 ## Current Profile
 
-[[zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh|Hanji 821]] shows Liang Shang first as a court actor who does not control every Shun-era decision. He opposes Emperor Shun's use of Ma Xian against the Western Qiang, but Shun overrules that objection and Ma Xian later dies in defeat.
+Hanji 820 makes Liang Shang more than a transition figure. In the Zhang Kui accusation case, he argues that punishment should stay with direct plotters rather than expand through association against Cao Teng, Meng Ben, or himself. [[EmperorShunOfHan|Emperor Shun]] accepts that narrowing. When Shun tries to appoint the young Liang Buyi as Step-Barracks Colonel, Liang Shang declines on fitness grounds, and Shun shifts the appointment into attendant and carriage-command posts.
 
-His death scene supplies the episode's Liang-family succession layer. Liang Shang asks his sons for a frugal burial, but the court still grants lavish funerary gifts and honors. That mismatch between restraint request and public honor helps introduce the Liang family's status position before Liang Ji's later profile expands.
+The same source makes Liang Shang the strategic voice in the 140 CE [[SouthernXiongnu|Southern Xiongnu]] crisis. After [[ChenGuiDuliaoGeneralLateHan|Chen Gui]]'s unauthorized coercion worsens chanyu legitimacy and surrender prospects, Liang Shang argues that [[MaXuLateHan|Ma Xu]] should fortify, reassure, advertise rewards, set deadlines, and avoid small wins that would ruin the larger design. Shun accepts the plan, and more than 13,000 people under the Right Wise King's camp submit.
 
-Liang Shang also recommends Zhou Ju before death. Shun accepts the recommendation and appoints Zhou Ju as remonstrance adviser, so Liang Shang's final profile is not only family succession; it also includes one personnel recommendation that adds an admonitory voice to the court.
+Hanji 821 then supplies Liang Shang's closing layer. He warns against using Ma Xian against the Western Qiang, but Shun overrules him. Before death, Liang Shang asks for a frugal burial and recommends [[ZhouJuLateHan|Zhou Ju]]; the court grants lavish honors anyway, and Liang Ji succeeds him as Grand General.
 
 ## Key Characteristics
 
-- Liang-family predecessor whose death opens the formal path for Liang Ji's Grand General appointment.
-- Court actor who opposes Ma Xian's Qiang-frontier appointment but is overruled.
-- Elite figure whose frugal burial instruction is overridden by lavish state honors.
-- Recommender of Zhou Ju, linking Liang-family transition to remonstrance staffing.
-- Source-bounded early node in the later outer-relative power sequence.
+- High Liang-family actor whose judgment is repeatedly framed as restraint rather than raw kinship extraction.
+- Legal-narrowing adviser who limits punishment in a false-accusation case.
+- Father who resists a premature military office for Liang Buyi despite family advantage.
+- Frontier strategist who prefers fortified surrender management over visible small victories.
+- Appointment-quality judge whose warning against Ma Xian is ignored.
+- Deceased predecessor whose status enables Liang Ji's Grand General succession.
 
 ## Evidence
 
+- Legal restraint: [[zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap|Hanji 820]] says Liang Shang persuades Shun to narrow the Zhang Kui case to direct participants.
+- Family appointment restraint: [[zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap|Hanji 820]] says Liang Shang declines Liang Buyi's Step-Barracks Colonel appointment because Liang Buyi is too young.
+- Southern Xiongnu strategy: [[zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap|Hanji 820]] has Liang Shang recommend deep ditches, high walls, rewards, deadlines, grace, trust, and refusal of small wins.
 - Opposition to Ma Xian: [[zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh|Hanji 821]] says Liang Shang objects to Shun's choice of Ma Xian.
 - Death and burial request: [[zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh|Hanji 821]] says Liang Shang asks for simple burial while the court gives lavish funeral honors.
-- Office succession: [[zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh|Hanji 821]] says Liang Ji becomes Grand General after Liang Shang's death.
-- Personnel recommendation: [[zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh|Hanji 821]] says Liang Shang recommends Zhou Ju and Shun appoints him as remonstrance adviser.
+- Office succession and Zhou Ju: [[zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh|Hanji 821]] says Liang Ji becomes Grand General after Liang Shang's death and that Shun accepts Liang Shang's recommendation of Zhou Ju.
 
 ## Qualifications
 
-This page is bounded to Hanji 821 and should not be treated as a full Liang Shang biography. The source does not reconstruct his full career, family tree, previous offices, or detailed relationship with every Liang-family actor. The page therefore treats him mainly as the transition figure between Shun-era court decisions and Liang Ji's later office power.
+This page is bounded to Hanji 821 and Hanji 820, not a full Liang Shang biography. The current profile emphasizes the episodes where his advice is visible; it does not prove that all Liang-family influence under Shun was restrained or beneficial. Hanji 821 also shows that even Liang Shang's correct warning could be overruled.
 
 ## What Changed
 
-- Created Liang Shang as the 141 CE Liang-family predecessor and transition node from Hanji 821.
-- Connected his death, burial, and recommendation of Zhou Ju to the first explicit Liang Ji office-succession layer.
+- Added Hanji 820, expanding Liang Shang from a 141 CE transition node into a 139-140 CE legal, family-appointment, and frontier-strategy actor.
+- Reframed his significance around restraint under power: narrowing cases, declining premature office, and avoiding small military wins.
+- Kept Hanji 821's death, burial, Zhou Ju recommendation, and Liang Ji succession as the closing layer.
 
 ## Relationships
 
-- [[EmperorShunOfHan|汉顺帝]] - ruler who overrules Liang Shang on Ma Xian and later acts on his Zhou Ju recommendation.
-- [[MaXianLateHan|马贤]] - commander whose appointment Liang Shang opposes.
-- [[LiangJiLateHan|梁冀]] - son and successor as Grand General in the source's Liang-family office transition.
-- [[LiangBuyiLateHan|梁不疑]] - Liang-family son appointed Henan Yin in the same transition field.
-- [[ZhouJuLateHan|周举]] - official whom Liang Shang recommends before death.
-- [[OuterRelativeCourtPower|外戚专权与清算]] - broader pattern that begins here as family status and office succession before later coercion.
+- [[EmperorShunOfHan|Emperor Shun]] - accepts some of Liang Shang's advice while overruling him on Ma Xian.
+- [[LiangBuyiLateHan|Liang Buyi]] - son whose premature appointment Liang Shang restrains.
+- [[LiangJiLateHan|Liang Ji]] - son and successor as Grand General in the Liang-family office transition.
+- [[MaXuLateHan|Ma Xu]] - commander through whom Liang Shang's Southern Xiongnu strategy is implemented.
+- [[MaXianLateHan|Ma Xian]] - commander whose appointment Liang Shang opposes.
+- [[SouthernXiongnu|Southern Xiongnu]] - frontier crisis in which Liang Shang's strategy works through surrender management.
+- [[ZhouJuLateHan|Zhou Ju]] - official whom Liang Shang recommends before death.
+- [[FortifiedAttritionPatience|Fortified attrition patience]] - concept embodied by Liang Shang's deep-ditch, high-wall, surrender-focused advice.
+- [[OuterRelativeCourtPower|Outer-relative court power]] - broader pattern that Liang Shang precedes before Liang Ji's later coercive dominance.

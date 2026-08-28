@@ -9371,6 +9371,10 @@
     "title": "《车墩墩野事记》",
     "url": "/wiki/entities/chedundunyeshiji/"
   },
+  "CheNiuChanyu": {
+    "title": "车纽 / Che Niu Chanyu",
+    "url": "/wiki/entities/cheniuchanyu/"
+  },
   "CheZhouLateHan": {
     "title": "车胄 / Che Zhou (late Han)",
     "url": "/wiki/entities/chezhoulatehan/"
@@ -31174,6 +31178,10 @@
   "MaXiangLateHan": {
     "title": "马相 / Ma Xiang (late Han)",
     "url": "/wiki/entities/maxianglatehan/"
+  },
+  "MaXuLateHan": {
+    "title": "马续 / Ma Xu (late Han)",
+    "url": "/wiki/entities/maxulatehan/"
   },
   "MaYuLateHan": {
     "title": "马宇 / Ma Yu (late Han)",
@@ -53715,6 +53723,10 @@
     "title": "巫山神女 / Wushan Goddess",
     "url": "/wiki/entities/wushangoddess/"
   },
+  "WusiSouthernXiongnu": {
+    "title": "句龙王吾斯 / Wusi (Southern Xiongnu)",
+    "url": "/wiki/entities/wusisouthernxiongnu/"
+  },
   "WusuiWarringStates": {
     "title": "武遂 / Wusui (Warring States)",
     "url": "/wiki/entities/wusuiwarringstates/"
@@ -54318,6 +54330,10 @@
   "XiuLife": {
     "title": "Xiu Life / 秀生活",
     "url": "/wiki/entities/xiulife/"
+  },
+  "XiuliChanyu": {
+    "title": "休利 / Xiuli Chanyu",
+    "url": "/wiki/entities/xiulichanyu/"
   },
   "Xiuwu": {
     "title": "修武 / Xiuwu",
@@ -56138,6 +56154,10 @@
   "ZhangDageLihun": {
     "title": "张大哥（《离婚》） / Zhang Dage",
     "url": "/wiki/entities/zhangdagelihun/"
+  },
+  "ZhangDanProtectorOfXiongnu": {
+    "title": "张躭 / Zhang Dan (Protector of Xiongnu)",
+    "url": "/wiki/entities/zhangdanprotectorofxiongnu/"
   },
   "ZhangEr": {
     "title": "张耳 / Zhang Er",
@@ -61494,6 +61514,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap": {
+    "title": "《资治通鉴·汉纪》820丨职场警示！小心领导让你背黑锅",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap/"
   },
   "zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh": {
     "title": "《资治通鉴·汉纪》821丨不懂老板心思还想晋升？没门！",
