@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 5821
+wiki_total_pages: 5824
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -317,6 +317,9 @@ wiki_pages:
   - key: "RepresentationLearning"
     title: "Representation Learning"
     url: "/wiki/concepts/representationlearning/"
+  - key: "ReproductiveAttritionStrategy"
+    title: "Reproductive Attrition Strategy / 繁衍打击战略"
+    url: "/wiki/concepts/reproductiveattritionstrategy/"
   - key: "RepublicanChinaBankingSystem"
     title: "Republican China Banking System"
     url: "/wiki/concepts/republicanchinabankingsystem/"

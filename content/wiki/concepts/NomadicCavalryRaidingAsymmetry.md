@@ -2,41 +2,62 @@
 title: "Nomadic Cavalry Raiding Asymmetry / 游牧骑兵劫掠不对称"
 type: concept
 tags: [frontier, warfare, cavalry, nomadic, logistics]
-sources: [zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1, zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym, zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on, zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh]
-last_updated: 2026-08-23
+sources:
+  - zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1
+  - zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym
+  - zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on
+  - zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh
+  - zizhi-tongjian-hanji-841-juebu-shouruan-jiemi-zhanzheng-de-canku-zhenxiang-losza81gissyijywwe0vxadw5ia0
+last_updated: 2026-08-28
+knowledge_schema: synthesis-v1
 ---
 
-# Nomadic Cavalry Raiding Asymmetry / 游牧骑兵劫掠不对称
+## Definition
 
-Nomadic cavalry raiding asymmetry / 游牧骑兵劫掠不对称 is the strategic imbalance [[zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh]] uses to explain why [[LiMu|李牧]] does not simply chase [[Xiongnu|匈奴]] into the steppe. The raiding side can move fast, fight when conditions are favorable, and withdraw when they are not; the agrarian border state must protect fixed people, fields, livestock, and stores.
+Nomadic cavalry raiding asymmetry / 游牧骑兵劫掠不对称 is the strategic imbalance in which mobile raiders can choose contact, timing, and withdrawal while an agrarian border state must protect fixed people, fields, livestock, and stores.
 
-The asymmetry is economic as much as tactical. The source says northern pastoral life is exposed to weather and scarcity, so raiding supplements survival resources. For the defending state, however, deep pursuit of mobile cavalry requires far more manpower, horse supply, grain, and fiscal capacity than holding fortified lines and waiting for the raiders to approach.
+## Current Synthesis
 
-The episode's comparison with [[HanWudi|汉武帝]] makes the resource point explicit. Han Wudi's later offensive Xiongnu campaigns are treated as a "rich war" made possible by decades of Han recovery and accumulation; post-[[ChangpingBattle|长平之战]] Zhao is too depleted for that style. Li Mu's answer is therefore not to match mobility across the steppe, but to make Xiongnu mobility commit too deeply near Zhao's prepared force.
+The concept begins with [[LiMu|李牧]] and [[Xiongnu|匈奴]] in [[zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh|Qinji 105]]. Li Mu does not simply chase raiders into the steppe because the raiding side can move fast, fight under favorable conditions, and withdraw when the defender has paid the cost of mobilization. His answer is to shelter people, livestock, and supplies, deny profitable contact, and lure the Xiongnu main force near prepared Zhao strength.
 
-[[zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on|Hanji 177]] brings the asymmetry into early [[WesternHanDynasty|西汉]]. [[LiuBang|刘邦]] commands a large, infantry-heavy force in severe winter after [[HanWangXin|韩王信]]'s surrender, while [[MaoDunChanyu|冒顿单于]] can avoid fixed battle, display weakness, and use cavalry mobility to choose the encirclement point at [[BaidengEncirclement|白登]]. The episode therefore shows why chasing mobile Xiongnu forces before the Han state has a mature cavalry/logistics base can turn apparent strength into exposure.
+The early Han evidence shows that numbers do not erase the asymmetry. In [[zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on|Hanji 177]], [[LiuBang|刘邦]] commands a large, infantry-heavy force in severe winter, while [[MaoDunChanyu|冒顿单于]] can avoid fixed battle, stage weakness, and choose the encirclement point at [[BaidengEncirclement|白登]]. Hanji 178-179 then turn the lesson into policy: after direct pursuit proves costly, the court seeks heqin as a lower-cost restraint, while still admitting that marriage, gifts, and envoys do not eliminate raids.
 
-[[zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym|Hanji 178]] adds the policy consequence. The same Xiongnu mobility that traps Liu Bang does not require Modu to occupy Han territory or govern the Han realm; after opening one side of the encirclement, the frontier problem shifts toward [[HanXiongnuHeqinPolicy|汉匈和亲政策]]. The asymmetry therefore produces not only tactical defeat but also a diplomatic search for lower-cost restraint after direct pursuit proves dangerous.
-
-[[zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1|Hanji 179]] makes that lower-cost restraint more concrete and more limited. [[LouJing|刘敬 / 楼敬]] advises against renewed attack because the world has just settled and soldiers and commoners are exhausted, so heqin becomes a way to manage the asymmetry without matching Xiongnu cavalry in the field. The same source adds that heqin does not fully stop raids, so the asymmetry is softened rather than solved.
+Hanji 841 adds the production calendar behind the asymmetry. Autumn raids make sense because the Han agricultural side has harvested grain, the Xiongnu side needs winter stores, and horses are especially strong after summer pasture. The same seasonal logic helps explain why [[HanWudi|汉武帝]]'s later spring attacks are framed as unusually destructive: they aim at pregnancy and livestock breeding as well as fighters.
 
 ## Key Claims
+
 - Mobile raiders can impose repeated cost without needing to hold territory.
 - Border defenders face a protection problem, not only a battle problem: farms, herds, and civilians are fixed assets.
 - Chasing mobile cavalry is expensive and may be strategically impossible for a weakened state.
 - Walls, fortresses, withdrawal discipline, and baited counterattack are different answers to the same raiding asymmetry.
-- Later imperial offensive campaigns against Xiongnu require a resource base that late Warring States Zhao does not have in this source's account.
-- Hanji 177 adds that early Han's large army can still be operationally inferior if winter, infantry speed, and false intelligence let Xiongnu cavalry choose the decisive contact.
-- Hanji 178 adds that early Han's answer to cavalry asymmetry can shift from pursuit to heqin once battlefield exposure reveals the cost of direct coercion.
-- Hanji 179 adds the policy's limitation: marriage, gifts, and envoys can buy restraint, but they do not abolish the raiding asymmetry.
+- Direct pursuit can force a policy pivot toward lower-cost restraint when the agrarian state lacks a mature cavalry and logistics base.
+- Seasonal production cycles make autumn raids and spring counterattacks strategically intelligible.
+- Later imperial offensive campaigns against Xiongnu require a resource base that late Warring States Zhao and early Han do not yet have in these source accounts.
 
-## Connections
-- [[zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1|Hanji 179]], [[LouJing|刘敬 / 楼敬]], [[LuYuanPrincess|鲁元公主]], and [[HanWudi|汉武帝]] - concrete heqin response and later military turn.
-- [[zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym|Hanji 178]], [[Xiongnu|匈奴]], [[BaidengEncirclement|白登之围]], and [[HanXiongnuHeqinPolicy|汉匈和亲政策]] - policy pivot after direct pursuit exposes early Han's cavalry/logistics weakness.
-- [[zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on|Hanji 177]], [[LiuBang|刘邦]], [[MaoDunChanyu|冒顿单于]], [[BaidengEncirclement|白登之围]], and [[LureEnemyOutOfPosition|诱敌离位]] - early Han pursuit punished by Xiongnu mobility and staged weakness.
-- [[Xiongnu|匈奴]] and [[LiMu|李牧]] - source opponent and commander.
-- [[ZhaoState|赵国]] and [[HanWudi|汉武帝]] - constrained Warring States defender and later imperial contrast.
-- [[FrontierDefensivePatience|边境防御耐心]] - Li Mu's low-cost answer to the asymmetry.
-- [[WarringStatesNorthernGreatWalls|战国北境长城]] - defensive-infrastructure response.
-- [[HufuQishe|胡服骑射]] and [[WarringStatesMilitaryTransformation|战国军事形态转变]] - wider Zhao and Warring States adaptation to mobile frontier warfare.
-- [[WarCostTempoDiscipline|战争成本与速决纪律]] - resource-cost frame.
+## Evidence
+
+- Defensive answer to mobile raids: [[zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh|Qinji 105]] says Li Mu shelters people and herds, refuses bad contact, and later lures Xiongnu into a prepared encirclement.
+- Early Han exposure: [[zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on|Hanji 177]] shows Liu Bang's large army becoming vulnerable when winter, infantry speed, and Xiongnu false weakness let Modu choose the battlefield.
+- Policy pivot after Baideng: [[zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym|Hanji 178]] and [[zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1|Hanji 179]] connect the failed coercive answer to [[HanXiongnuHeqinPolicy|汉匈和亲政策]] while preserving the policy's limits.
+- Seasonal resource cycle: [[zizhi-tongjian-hanji-841-juebu-shouruan-jiemi-zhanzheng-de-canku-zhenxiang-losza81gissyijywwe0vxadw5ia0|Hanji 841]] explains autumn raids through harvest grain, winter need, and horse condition, then contrasts Han Wudi's spring attacks as a different form of seasonal pressure.
+
+## Counterevidence & Qualifications
+
+The concept is an analytic frame drawn from source notes, not a universal description of every nomadic or agrarian society. Heqin can soften the asymmetry but does not remove it; Li Mu's defensive patience and Han Wudi's expensive offensives are opposite answers available under very different resource conditions. Hanji 841's reproductive-attrition claim belongs to its own source-scoped reading of Han Wudi's spring campaigns.
+
+## What Changed
+
+- Migrated the legacy page into the synthesis-v1 concept schema.
+- Added Hanji 841's seasonal explanation for autumn Xiongnu raids.
+- Connected raiding asymmetry to spring reproductive and livestock pressure without making that the whole concept.
+- Preserved the Li Mu, Baideng, and heqin evidence order before appending the new source slug.
+
+## Related Concepts
+
+- [[SeasonalWarLogistics|战争季节后勤]] - supplies the harvest, winter-store, horse-condition, and breeding-calendar layer behind the asymmetry.
+- [[WarCostTempoDiscipline|战争成本与速决纪律]] - explains why pursuit and deep campaigns depend on grain, horses, and fiscal depth.
+- [[FrontierDefensivePatience|边境防御耐心]] - defensive answer that denies raiders profitable contact until conditions favor the defender.
+- [[LureEnemyOutOfPosition|诱敌离位]] - tactical pattern Li Mu and Modu evidence from opposite sides of mobility control.
+- [[HanXiongnuHeqinPolicy|汉匈和亲政策]] - lower-cost policy response after direct pursuit exposes the asymmetry.
+- [[ReproductiveAttritionStrategy|繁衍打击战略]] - harsher seasonal countermeasure aimed at future population and herd capacity.
+- [[WarringStatesNorthernGreatWalls|战国北境长城]] - defensive infrastructure response to mobile frontier pressure.

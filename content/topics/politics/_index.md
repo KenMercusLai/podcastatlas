@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1974
+topic_total_pages: 1975
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -1162,6 +1162,9 @@ topic_concepts:
   - key: "GeopoliticalCycleMacro"
     title: "Geopolitical Cycle Macro"
     url: "/wiki/concepts/geopoliticalcyclemacro/"
+  - key: "GiftRefusalAsAuthority"
+    title: "Gift Refusal As Authority / 拒礼立威"
+    url: "/wiki/concepts/giftrefusalasauthority/"
   - key: "GlassSteagallAct"
     title: "Glass-Steagall Act / 格拉斯-斯蒂格尔法案"
     url: "/wiki/concepts/glasssteagallact/"

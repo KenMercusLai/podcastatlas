@@ -13024,3 +13024,11 @@ Ingested Hanji 842 as the 156 CE Huan-era layer. Created the source note, Han Sh
 ## [2026-08-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-28] ingest | 《资治通鉴·汉纪》841丨绝不手软！揭秘战争的残酷真相
+
+Ingested Hanji 841 as the 155 CE frontier-war layer before Hanji 842. Created the source note, Seasonal War Logistics, Reproductive Attrition Strategy, and Gift Refusal As Authority pages; updated Zhang Huan, Han Wudi, Xiongnu, Nomadic Cavalry Raiding Asymmetry, index, and overview. No settled contradiction found; the Han Wudi reproductive-attrition interpretation remains source-scoped, and 黄腐归, 张焕, 段九, and 梁州三民 were normalized to 皇甫规, 张奂, 段熲, and the Liangzhou "三明" label.
+
+## [2026-08-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -8211,6 +8211,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/georgvonschonerer/"
     },
+    "GiftRefusalAsAuthority": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》841丨绝不手软！揭秘战争的残酷真相 [loSzA81gisSYIjywWE0VXaDW5ia0].md",
+          "key": "zizhi-tongjian-hanji-841-juebu-shouruan-jiemi-zhanzheng-de-canku-zhenxiang-losza81gissyijywwe0vxadw5ia0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》841丨绝不手软！揭秘战争的残酷真相",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-841-juebu-shouruan-jiemi-zhanzheng-de-canku-zhenxiang-losza81gissyijywwe0vxadw5ia0/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/giftrefusalasauthority/"
+    },
     "GlobalProductLocalization": {
       "episode_count": 15,
       "show_count": 9,
@@ -8998,6 +9014,64 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/hansonglatehan/"
+    },
+    "HanWudi": {
+      "episode_count": 7,
+      "show_count": 2,
+      "source_note_count": 7,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮 [liMAFqSkGbLRweTeSTyH39w_hZM4].md",
+          "key": "zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》179｜历史上“和亲”怎么来的 [lsLks-OVBoMneORnk4J-q6-ns0X1].md",
+          "key": "zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》179｜历史上“和亲”怎么来的",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》178｜冒顿为何要放过刘邦 这才是真相（2） [lolUh53iYrZo4uCf3TTzMN3_otKV].md",
+          "key": "zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》178｜冒顿为何要放过刘邦 这才是真相（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》150 PLUS｜再也不见2022，请多关照2023 [FjHgTQaC9R_1RPjh6oubMSpqYwUe].md",
+          "key": "zizhi-tongjian-hanji-150-plus-zaiye-bujian-2022-qing-duo-guanzhao-2023-fjhgtqac9r-1rpjh6oubmspqywue",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》150 PLUS｜再也不见2022，请多关照2023",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-150-plus-zaiye-bujian-2022-qing-duo-guanzhao-2023-fjhgtqac9r-1rpjh6oubmspqywue/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》105｜战争花样赵国李牧最会耍 [ljTQDg46a8o13ZZSjV-P_FPOL5Oh].md",
+          "key": "zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》105｜战争花样赵国李牧最会耍",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh/"
+        },
+        {
+          "episode_file": "87.过年最适合聊玄学！探讨神仙方术发展史（未完待续） [704051997].md",
+          "key": "87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997",
+          "show": "蜜獾吃书",
+          "title": "87.过年最适合聊玄学！探讨神仙方术发展史（未完待续）",
+          "url": "/wiki/sources/87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》841丨绝不手软！揭秘战争的残酷真相 [loSzA81gisSYIjywWE0VXaDW5ia0].md",
+          "key": "zizhi-tongjian-hanji-841-juebu-shouruan-jiemi-zhanzheng-de-canku-zhenxiang-losza81gissyijywwe0vxadw5ia0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》841丨绝不手软！揭秘战争的残酷真相",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-841-juebu-shouruan-jiemi-zhanzheng-de-canku-zhenxiang-losza81gissyijywwe0vxadw5ia0/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/hanwudi/"
     },
     "HanXianLateHan": {
       "episode_count": 7,
@@ -15398,6 +15472,50 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/nopositionencoding/"
     },
+    "NomadicCavalryRaidingAsymmetry": {
+      "episode_count": 5,
+      "show_count": 1,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》179｜历史上“和亲”怎么来的 [lsLks-OVBoMneORnk4J-q6-ns0X1].md",
+          "key": "zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》179｜历史上“和亲”怎么来的",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》178｜冒顿为何要放过刘邦 这才是真相（1） [lumsZkBR-kLNLODXMxdF-n8p5Wym].md",
+          "key": "zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》178｜冒顿为何要放过刘邦 这才是真相（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》177｜被困白登山 刘邦命悬一线 [ljDmXF6beJ8Ju0GmVM9cp48GY0ON].md",
+          "key": "zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》177｜被困白登山 刘邦命悬一线",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》105｜战争花样赵国李牧最会耍 [ljTQDg46a8o13ZZSjV-P_FPOL5Oh].md",
+          "key": "zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》105｜战争花样赵国李牧最会耍",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》841丨绝不手软！揭秘战争的残酷真相 [loSzA81gisSYIjywWE0VXaDW5ia0].md",
+          "key": "zizhi-tongjian-hanji-841-juebu-shouruan-jiemi-zhanzheng-de-canku-zhenxiang-losza81gissyijywwe0vxadw5ia0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》841丨绝不手软！揭秘战争的残酷真相",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-841-juebu-shouruan-jiemi-zhanzheng-de-canku-zhenxiang-losza81gissyijywwe0vxadw5ia0/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/nomadiccavalryraidingasymmetry/"
+    },
     "NonAlgorithmicCapabilities": {
       "episode_count": 2,
       "show_count": 1,
@@ -17468,6 +17586,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/renfanglatehan/"
     },
+    "ReproductiveAttritionStrategy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》841丨绝不手软！揭秘战争的残酷真相 [loSzA81gisSYIjywWE0VXaDW5ia0].md",
+          "key": "zizhi-tongjian-hanji-841-juebu-shouruan-jiemi-zhanzheng-de-canku-zhenxiang-losza81gissyijywwe0vxadw5ia0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》841丨绝不手软！揭秘战争的残酷真相",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-841-juebu-shouruan-jiemi-zhanzheng-de-canku-zhenxiang-losza81gissyijywwe0vxadw5ia0/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/reproductiveattritionstrategy/"
+    },
     "ReputationListPersecutionTarget": {
       "episode_count": 2,
       "show_count": 1,
@@ -18379,6 +18513,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/scottbessent/"
+    },
+    "SeasonalWarLogistics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》841丨绝不手软！揭秘战争的残酷真相 [loSzA81gisSYIjywWE0VXaDW5ia0].md",
+          "key": "zizhi-tongjian-hanji-841-juebu-shouruan-jiemi-zhanzheng-de-canku-zhenxiang-losza81gissyijywwe0vxadw5ia0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》841丨绝不手软！揭秘战争的残酷真相",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-841-juebu-shouruan-jiemi-zhanzheng-de-canku-zhenxiang-losza81gissyijywwe0vxadw5ia0/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/seasonalwarlogistics/"
     },
     "SecondOpinionStrategy": {
       "episode_count": 1,
@@ -22606,6 +22756,120 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/xiebilatehan/"
     },
+    "Xiongnu": {
+      "episode_count": 15,
+      "show_count": 1,
+      "source_note_count": 15,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮 [liMAFqSkGbLRweTeSTyH39w_hZM4].md",
+          "key": "zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》998丨白马将军公孙瓒：从三千白马到困守孤城 [lp-1L2GvBsBFnyZNUTDGhxwwvqNA].md",
+          "key": "zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》998丨白马将军公孙瓒：从三千白马到困守孤城",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴 [ljaqjcu5W9JMfB-4hCO5pS1irVWR].md",
+          "key": "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》180｜西汉第一硬汉贯高的故事（1） [li5U-DMsMB1Lp4NY3rk02Kaiyu4K].md",
+          "key": "zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》180｜西汉第一硬汉贯高的故事（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》179｜历史上“和亲”怎么来的 [lsLks-OVBoMneORnk4J-q6-ns0X1].md",
+          "key": "zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》179｜历史上“和亲”怎么来的",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》178｜冒顿为何要放过刘邦 这才是真相（1） [lumsZkBR-kLNLODXMxdF-n8p5Wym].md",
+          "key": "zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》178｜冒顿为何要放过刘邦 这才是真相（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》177｜被困白登山 刘邦命悬一线 [ljDmXF6beJ8Ju0GmVM9cp48GY0ON].md",
+          "key": "zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》177｜被困白登山 刘邦命悬一线",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》175｜必看刘邦的皇家礼仪课 [loS9hsomNdNhyQpXAFSTGYQuomZF].md",
+          "key": "zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》175｜必看刘邦的皇家礼仪课",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（4） [lhHPrrKJCUZijGnDi2uuAzAaleRn].md",
+          "key": "zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（4）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》126｜秦始皇死因之谜（2） [ln15p5qb7Lc20GOni1IbcPmN3wca].md",
+          "key": "zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-2-ln15p5qb7lc20goni1ibcpmn3wca",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》126｜秦始皇死因之谜（2）",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-2-ln15p5qb7lc20goni1ibcpmn3wca/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》123-2｜古代时期的“倒插门”到底有多危险 [lgCkNwuBWM3uZqmzgbgDLXLVcwxy].md",
+          "key": "zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》123-2｜古代时期的“倒插门”到底有多危险",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》123-1｜神之预言：“亡秦者胡”竟是指…？ [lg7M3vFdBCWEb4jOXe4jVhXjX6y8].md",
+          "key": "zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》123-1｜神之预言：“亡秦者胡”竟是指…？",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》114-2｜燕国刺杀秦始皇为何会选荆轲 [lsEwJrmguP1yANF8IPN_i0YkqWJx].md",
+          "key": "zizhi-tongjian-qinji-114-2-yanguo-cisha-qinshihuang-weihe-hui-xuan-jingke-lsewjrmgup1yanf8ipn-i0ykqwjx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》114-2｜燕国刺杀秦始皇为何会选荆轲",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-114-2-yanguo-cisha-qinshihuang-weihe-hui-xuan-jingke-lsewjrmgup1yanf8ipn-i0ykqwjx/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》105｜战争花样赵国李牧最会耍 [ljTQDg46a8o13ZZSjV-P_FPOL5Oh].md",
+          "key": "zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》105｜战争花样赵国李牧最会耍",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》841丨绝不手软！揭秘战争的残酷真相 [loSzA81gisSYIjywWE0VXaDW5ia0].md",
+          "key": "zizhi-tongjian-hanji-841-juebu-shouruan-jiemi-zhanzheng-de-canku-zhenxiang-losza81gissyijywwe0vxadw5ia0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》841丨绝不手软！揭秘战争的残酷真相",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-841-juebu-shouruan-jiemi-zhanzheng-de-canku-zhenxiang-losza81gissyijywwe0vxadw5ia0/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/xiongnu/"
+    },
     "XiziRanLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -24023,9 +24287,9 @@
       "url": "/wiki/entities/zhanghelatehan/"
     },
     "ZhangHuanLateHan": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》902丨控制情绪是人生必修课 [ljYNYlVdLSDTjF4ES9jmIlAV863b].md",
@@ -24096,6 +24360,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》844丨如何立于不败之地？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-844-ruhe-liyu-bubaizhidi-lsp49uw8atyiufrf-ryo-9ctos5z/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》841丨绝不手软！揭秘战争的残酷真相 [loSzA81gisSYIjywWE0VXaDW5ia0].md",
+          "key": "zizhi-tongjian-hanji-841-juebu-shouruan-jiemi-zhanzheng-de-canku-zhenxiang-losza81gissyijywwe0vxadw5ia0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》841丨绝不手软！揭秘战争的残酷真相",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-841-juebu-shouruan-jiemi-zhanzheng-de-canku-zhenxiang-losza81gissyijywwe0vxadw5ia0/"
         }
       ],
       "updated": "2026-08-28",

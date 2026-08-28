@@ -1,65 +1,80 @@
 ---
 title: "匈奴 / Xiongnu"
 type: entity
-tags: [people, frontier, nomadic, steppe, pre-qin, warring-states, military]
-sources: [zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4, zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna, zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr, zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k, zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1, zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym, zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on, zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern, zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-2-ln15p5qb7lc20goni1ibcpmn3wca, zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy, zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8, zizhi-tongjian-qinji-114-2-yanguo-cisha-qinshihuang-weihe-hui-xuan-jingke-lsewjrmgup1yanf8ipn-i0ykqwjx, zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh]
-last_updated: 2026-08-25
+tags: [people, frontier, nomadic, steppe, pre-qin, warring-states, military, logistics]
+sources:
+  - zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4
+  - zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna
+  - zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr
+  - zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k
+  - zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1
+  - zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym
+  - zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on
+  - zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf
+  - zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern
+  - zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-2-ln15p5qb7lc20goni1ibcpmn3wca
+  - zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy
+  - zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8
+  - zizhi-tongjian-qinji-114-2-yanguo-cisha-qinshihuang-weihe-hui-xuan-jingke-lsewjrmgup1yanf8ipn-i0ykqwjx
+  - zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh
+  - zizhi-tongjian-hanji-841-juebu-shouruan-jiemi-zhanzheng-de-canku-zhenxiang-losza81gissyijywwe0vxadw5ia0
+last_updated: 2026-08-28
+knowledge_schema: synthesis-v1
 ---
 
-# 匈奴 / Xiongnu
+## Overview
 
-[[zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4|Hanji 925]] adds Xiongnu as the northern strategic pressure in [[GongsunHong|公孙弘]]'s advice to [[HanWudi|汉武帝]]. The episode's point is not Xiongnu tactics directly, but the policy-priority problem: the court cannot fight Xiongnu and pursue southwest development with equal attention at the same time.
+匈奴 / Xiongnu is a northern nomadic frontier power whose current wiki profile runs from Warring States anti-raiding problems through Qin wall campaigns, early Western Han crisis, heqin accommodation, Han Wudi-era war, and a later Southern Xiongnu succession notice. The newest layer adds a seasonal-logistics explanation for autumn raiding and a source-scoped account of Han Wudi's spring pressure on Xiongnu reproduction.
 
-This makes Xiongnu part of [[StrategicCompromiseAsAgency|策略性妥协保全机会]] in a Western Han court setting. A major frontier threat becomes the reason Gongsun Hong frames compromise as focus rather than disobedience.
+## Current Profile
 
-匈奴 / Xiongnu enters the wiki through [[zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh]] as the northern nomadic opponent in [[LiMu|李牧]]'s frontier command story. The episode frames Xiongnu warfare through mobility, horse archery, opportunistic raiding, and the ability to choose when to fight or withdraw.
+The earliest Xiongnu branch is a Warring States and Qin frontier problem. [[zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh|Qinji 105]] frames Xiongnu warfare through mobility, horse archery, opportunistic raiding, and the ability to choose contact; [[LiMu|李牧]] answers by denying profitable raids, sheltering people and livestock, and baiting a final overextension. Qinji 114-2 treats Xiongnu as a possible anti-Qin diplomatic partner for Yan, while Qinji 123-1, Qinji 123-2, and Qinji 126 show Qin reading "Hu" as northern danger, sending [[MengTian|蒙恬]] north, linking walls, and relocating households near the frontier.
 
-The source explains raiding through ecology and survival pressure. Northern pasture life is presented as weather-exposed and materially fragile, so raids against farming regions supplement resources. This is why the Xiongnu problem is not a single conventional invasion: repeated fast raids can disrupt border farming and herding even when no city falls.
+The early Han branch turns Xiongnu into a dynastic security crisis. Hanji 175 describes [[MaoDunChanyu|冒顿单于]]'s consolidation after Qin collapse and the pressure on [[HanWangXin|韩王信]] at [[Mayi|马邑]]. Hanji 177-178 show Modu using cavalry mobility, staged weakness, winter conditions, and encirclement risk to trap [[LiuBang|刘邦]] at [[BaidengEncirclement|白登]], then accepting release calculus rather than permanent occupation. Hanji 179 and Hanji 180 make Xiongnu the counterpart for [[HanXiongnuHeqinPolicy|汉匈和亲政策]], a lower-cost but incomplete restraint system.
 
-In the episode, Li Mu first denies the Xiongnu profitable contact by withdrawing people, livestock, and supplies into fortifications. After years of this, Xiongnu forces treat him as timid, which becomes the perception Li Mu exploits. When he finally exposes pasture and feigns retreat, the chanyu commits the main force and is pulled into Zhao's prepared encirclement.
+Hanji 841 adds a production-calendar profile. Xiongnu autumn raids are explained by the combination of Han harvest stores, winter food needs, and strong autumn horses. The same episode says Han Wudi's spring attacks were especially cruel because they forced flight during pregnancy and livestock breeding season, converting frontier war into pressure on future population and herd capacity.
 
-The episode also places Xiongnu rise in a longer frontier sequence. Earlier northern and western groups are fragmented under separate chiefs or rulers; the source says Xiongnu strength grows especially by the late Warring States and later becomes the target of larger imperial campaigns under [[HanWudi|汉武帝]].
+Later evidence broadens the role without replacing the earlier profile. Hanji 925 uses Xiongnu as the northern strategic pressure in [[GongsunHong|公孙弘]]'s advice to Han Wudi, where frontier war competes with southwest development for attention. Hanji 191 presents Xiongnu as refuge, diplomatic channel, and evidentiary source in the [[LuWan|卢绾]] crisis. Hanji 998 adds a much later [[SouthernXiongnu|Southern Xiongnu]] succession notice after [[YufuluoChanyu|于扶罗]] dies and [[HuchuquanChanyu|呼厨泉]] succeeds.
 
-[[zizhi-tongjian-qinji-114-2-yanguo-cisha-qinshihuang-weihe-hui-xuan-jingke-lsewjrmgup1yanf8ipn-i0ykqwjx]] adds Xiongnu as a diplomatic option rather than a battlefield opponent. [[JuWu|居武]] advises [[YanTaiziDan|燕太子丹]] to rebuild an anti-Qin coalition and seek Xiongnu support, then later suggests sending [[FanWuji|樊无忌]] into Xiongnu territory to reduce Yan's direct exposure to Qin.
+## Key Characteristics
 
-[[zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8]] makes Xiongnu the immediate Qin interpretation of "亡秦者胡." [[LuSheng|卢生]]'s warning leads [[QinShiHuang|嬴政 / 秦始皇]] to read "胡" as the northern frontier enemy and to send [[MengTian|蒙恬]] north with 300,000 troops. The episode flags that this was not only a superstitious reaction, because the frontier problem already had strategic weight, but leaves the fuller necessity argument for the next discussion.
+- Mobile raiding power that can choose contact, withdraw, and make agrarian defenders protect fixed people, livestock, fields, and stores.
+- Seasonal frontier actor whose autumn raids are tied to harvest availability, winter provisioning, and horse condition.
+- Strategic pressure that pushes Qin into northern campaigns, walls, and household relocation.
+- Early Han military threat that exposes the danger of direct pursuit before Han cavalry and logistics mature.
+- Diplomatic counterpart for heqin after Baideng makes direct coercion too costly.
+- Target of Han Wudi's later resource-rich and source-scoped reproductive-attrition campaigns.
+- Broad frontier channel that can function as refuge, evidence source, and later Southern Xiongnu polity.
 
-[[zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy]] gives the follow-through. The source says Meng Tian defeats Xiongnu, recovers the Hetao region, establishes forty-four counties, and links older northern defensive works into the Qin long-wall system before sitting at [[Shangjun|上郡]] for extended frontier pressure. Xiongnu therefore becomes part of [[PostUnificationWarInertia|统一后战争惯性]] as well as prophecy-triggered policy: Qin's war machine needs frontier targets after the six states have become internal territory.
+## Evidence
 
-[[zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-2-ln15p5qb7lc20goni1ibcpmn3wca]] adds a settlement-pressure note. After the "祖龙死" omen and "游徙吉" divination, Qin Shi Huang moves thirty thousand households toward the northern frontier, which the episode describes as adjoining Xiongnu territory. Xiongnu therefore remains the border condition that makes omen-driven relocation also legible as [[QinFrontierBufferManagement|frontier management]].
+- Mobility and anti-raiding response: [[zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh|Qinji 105]] places Xiongnu opposite [[LiMu|李牧]] and explains why defensive patience, fortifications, bait, and encirclement answer mobile cavalry raids.
+- Qin-era strategic pressure: [[zizhi-tongjian-qinji-114-2-yanguo-cisha-qinshihuang-weihe-hui-xuan-jingke-lsewjrmgup1yanf8ipn-i0ykqwjx|Qinji 114-2]], [[zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8|Qinji 123-1]], [[zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy|Qinji 123-2]], and [[zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-2-ln15p5qb7lc20goni1ibcpmn3wca|Qinji 126 part 2]] show Xiongnu as diplomatic option, prophecy-triggered enemy, campaign target, wall-system counterpart, and settlement-pressure frontier.
+- Early Han crisis and heqin: [[zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf|Hanji 175]], [[zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on|Hanji 177]], [[zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym|Hanji 178]], [[zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1|Hanji 179]], and [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k|Hanji 180]] trace Modu's consolidation, Baideng, release calculus, and the marriage-gift policy response.
+- Seasonal and reproductive pressure: [[zizhi-tongjian-hanji-841-juebu-shouruan-jiemi-zhanzheng-de-canku-zhenxiang-losza81gissyijywwe0vxadw5ia0|Hanji 841]] explains autumn raids through harvest and horse condition and interprets Han Wudi's spring attacks as pressure on Xiongnu pregnancy and livestock reproduction.
+- Court-priority and refuge functions: [[zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4|Hanji 925]] makes Xiongnu the northern priority in Gongsun Hong's compromise; [[zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr|Hanji 191]] makes Xiongnu a refuge and covert channel in the Lu Wan crisis.
+- Later Southern Xiongnu branch: [[zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna|Hanji 998]] records Yufuluo's death, Huchuquan's succession, and Southern Xiongnu stationing at Pingyang.
 
-[[zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf|Hanji 175]] fills the transition from Qin-era frontier pressure to early Han crisis. After Qin's collapse, the episode says Xiongnu return south across the Yellow River, while [[MaoDunChanyu|冒顿单于]]'s seizure of power and destruction of [[Donghu|东胡]] make the steppe threat more unified. Xiongnu pressure then reaches [[HanWangXin|韩王信]] at [[Mayi|马邑]], whose surrender opens the route toward Taiyuan and [[Jinyang|晋阳]] before the later Baideng crisis.
+## Qualifications
 
-[[zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on|Hanji 177]] makes that crisis operational. Xiongnu forces first use Han Wang Xin's surrender and escaped Han troops to widen the northern pressure, then let Liu Bang's envoys see apparent weakness. The episode's key tactical claim is that Modu stops trying to hold cities or win fixed positional battles against Han crossbows and instead uses cavalry mobility, false weakness, and winter conditions to pull Liu Bang toward the [[BaidengEncirclement|白登之围]].
+This page compresses source-scoped podcast notes across centuries and does not distinguish every Xiongnu subgroup unless a separate canonical page exists. Hanji 841's reproductive-attrition account is the host's reading of Han Wudi's spring attacks; it should be treated as one interpretive layer, not as a complete explanation of Xiongnu-Han warfare. The late Southern Xiongnu notice in Hanji 998 belongs to a much later polity branch and should not be flattened into the Modu-era profile.
 
-[[zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym|Hanji 178]] adds the release and aftermath. Xiongnu power has enough advantage to trap Liu Bang for seven days, but Modu's decision to open the siege reflects [[EncirclementReleaseCalculus|围困开口式风险权衡]] rather than simple mercy: allied forces do not appear, Han reinforcements approach, and permanent rule over Han territory is treated as costly. The episode also makes Xiongnu the counterpart for [[HanXiongnuHeqinPolicy|汉匈和亲政策]], the marriage-based accommodation Liu Jing proposes after direct war fails.
+## What Changed
 
-[[zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1|Hanji 179]] turns that accommodation into a concrete but blocked plan. Xiongnu remain the enabling force behind Han Wang Xin and Zhao Li's pressure, while Liu Jing argues that the Han court should answer the structural frontier problem by sending a real princess, annual goods, and envoys. The episode also states the limitation: heqin can ease tension but does not eliminate Xiongnu raiding, and later [[HanWudi|汉武帝]] abandons the long accommodation phase for war.
+- Migrated the legacy page into the synthesis-v1 entity schema.
+- Added seasonal autumn raiding as part of the Xiongnu profile.
+- Added Han Wudi's spring reproductive and livestock pressure as a source-scoped Xiongnu war layer.
+- Preserved the older Qin, early Han, heqin, refuge, and Southern Xiongnu branches while compressing repeated append prose.
 
-[[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k|Hanji 180]] records the first implemented version of that accommodation after Lu Zhi's blockage: Liu Bang sends a woman named as legitimate elder princess to [[MaoDunChanyu|冒顿单于]] and sends Liu Jing as escort. The same episode then uses Liu Jing's report that Xiongnu-linked groups can raid quickly toward Guanzhong to justify [[GuanzhongEliteRelocation|关中豪强迁徙]].
+## Relationships
 
-[[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern|Hanji 150 part 4]] moves Xiongnu from the Qin and Warring States frontier background into a direct early Han crisis. In the source's account, [[MaoDunChanyu|冒顿单于]] surrounds [[LiuBang|刘邦]] at the [[BaidengEncirclement|白登之围]], and [[ChenPing|陈平]] resolves the dead end by acting through the chanyu's favored woman rather than by defeating the Xiongnu army in open battle.
-
-[[zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr|Hanji 191]] adds Xiongnu as refuge, diplomatic channel, and evidentiary source in the [[LuWan|卢绾]] crisis. [[ZangYan|臧衍]]'s Xiongnu exile lets him reframe [[ChenXi|陈豨]]'s survival as a buffer for Yan, [[ZhangShengWesternHan|张胜]] remains secretly connected to Xiongnu while serving Lu Wan, and later Xiongnu surrenderers reveal enough of that arrangement for [[LiuBang|刘邦]] to treat Lu Wan as a rebel.
-
-[[zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna|Hanji 998]] adds a much later late-Han annalistic note through the [[SouthernXiongnu|南匈奴]]. The source says [[YufuluoChanyu|于扶罗]] dies, his younger brother [[HuchuquanChanyu|呼厨泉]] succeeds as chanyu, and the Southern Xiongnu are stationed at Pingyang.
-
-## Connections
-- [[zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4|Hanji 925]], [[GongsunHong|公孙弘]], [[HanWudi|汉武帝]], and [[StrategicCompromiseAsAgency|策略性妥协保全机会]] - frontier-priority pressure in the compromise example.
-- [[zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna|Hanji 998]], [[SouthernXiongnu|南匈奴]], [[YufuluoChanyu|于扶罗]], and [[HuchuquanChanyu|呼厨泉]] - late-Han succession notice.
-- [[zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr|Hanji 191]], [[LuWan|卢绾]], [[ZangYan|臧衍]], [[ZhangShengWesternHan|张胜]], [[ChenXi|陈豨]], and [[YanState|燕国]] - Xiongnu as exile refuge, covert channel, and later source of incriminating surrender testimony.
-- [[LiMu|李牧]] and [[ZhaoState|赵国]] - commander and state in the source's main frontier case.
-- [[NomadicCavalryRaidingAsymmetry|游牧骑兵劫掠不对称]] - concept extracted from the source's account of mobile raiding.
-- [[FrontierDefensivePatience|边境防御耐心]] and [[LureEnemyOutOfPosition|诱敌离位]] - Zhao's response to Xiongnu mobility.
-- [[WarringStatesNorthernGreatWalls|战国北境长城]] - defensive-infrastructure frame in the episode.
-- [[HanWudi|汉武帝]] - later imperial comparison point.
-- [[JuWu|居武]], [[YanTaiziDan|燕太子丹]], [[YanState|燕国]], and [[FanWuji|樊无忌]] - Qinji 114-2 coalition-support and fugitive-removal proposal.
-- [[zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8|Qinji 123-1]], [[QinShiHuang|嬴政 / 秦始皇]], [[LuSheng|卢生]], [[MengTian|蒙恬]], and [[ProphecyTriggeredPolicy|预言触发政策]] - Qin's immediate reading of "胡" as northern frontier danger.
-- [[zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy|Qinji 123-2]], [[Shangjun|上郡]], [[WarringStatesNorthernGreatWalls|战国北境长城]], and [[PostUnificationWarInertia|统一后战争惯性]] - Qin follow-through campaign, county creation, wall integration, and frontier-war outlet.
-- [[zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-2-ln15p5qb7lc20goni1ibcpmn3wca|Qinji 126 part 2]], [[OmenCountermeasureMobility|游徙避命]], and [[QinFrontierBufferManagement|秦国后方边患管理]] - northern household relocation near the Xiongnu frontier.
-- [[zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf|Hanji 175]], [[MaoDunChanyu|冒顿单于]], [[Donghu|东胡]], [[HanWangXin|韩王信]], and [[Mayi|马邑]] - Modu's consolidation and the immediate early Han frontier crisis.
-- [[zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on|Hanji 177]], [[LiuBang|刘邦]], [[LouJing|刘敬 / 楼敬]], [[BaidengEncirclement|白登之围]], [[BattlefieldInformationControl|战场信息控制]], and [[NomadicCavalryRaidingAsymmetry|游牧骑兵劫掠不对称]] - false-weakness reconnaissance trap and cavalry encirclement.
-- [[zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym|Hanji 178]], [[YanzhiXiongnuConsort|阏氏]], [[EncirclementReleaseCalculus|围困开口式风险权衡]], and [[HanXiongnuHeqinPolicy|汉匈和亲政策]] - Baideng release and post-crisis marriage-policy proposal.
-- [[zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1|Hanji 179]], [[LouJing|刘敬 / 楼敬]], [[LuYuanPrincess|鲁元公主]], and [[HanWudi|汉武帝]] - concrete heqin design, household blockage, and later war turn.
-- [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k|Hanji 180]], [[HanXiongnuHeqinPolicy|汉匈和亲政策]], [[GuanzhongRegion|关中]], and [[GuanzhongEliteRelocation|关中豪强迁徙]] - substitute heqin implementation and Guanzhong relocation response to raid exposure.
-- [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern|Hanji 150 part 4]], [[MaoDunChanyu|冒顿单于]], [[BaidengEncirclement|白登之围]], [[LiuBang|刘邦]], and [[ChenPing|陈平]] - early Han encirclement crisis and indirect stratagem.
+- [[NomadicCavalryRaidingAsymmetry|游牧骑兵劫掠不对称]] - strategic imbalance that explains repeated raids and the danger of direct pursuit.
+- [[SeasonalWarLogistics|战争季节后勤]] - production-calendar frame added by the autumn-raid and spring-attack explanation.
+- [[ReproductiveAttritionStrategy|繁衍打击战略]] - source-scoped Han Wudi pressure on Xiongnu future population and herds.
+- [[HanWudi|汉武帝]] - Western Han ruler whose war turn and spring campaigns reshape the Xiongnu policy field.
+- [[HanXiongnuHeqinPolicy|汉匈和亲政策]] - accommodation strategy built after Baideng and limited by continuing raids.
+- [[MaoDunChanyu|冒顿单于]] - consolidating ruler who creates the early Han crisis and Baideng trap.
+- [[LiMu|李牧]] - Zhao commander whose defensive patience defines the anti-raiding contrast.
+- [[QinFrontierBufferManagement|秦国后方边患管理]] - Qin frontier settlement and military-management frame connected to Xiongnu pressure.
+- [[SouthernXiongnu|南匈奴]] - later polity branch represented by late-Han succession and stationing notices.
+- [[WarCostTempoDiscipline|战争成本与速决纪律]] - logistics-cost frame that explains why campaigns are constrained by food, horses, and state capacity.

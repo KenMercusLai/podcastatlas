@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 5821
+wiki_total_pages: 5824
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -263,6 +263,9 @@ wiki_pages:
   - key: "SeasonalInventoryFinancing"
     title: "Seasonal Inventory Financing"
     url: "/wiki/concepts/seasonalinventoryfinancing/"
+  - key: "SeasonalWarLogistics"
+    title: "Seasonal War Logistics / 战争季节后勤"
+    url: "/wiki/concepts/seasonalwarlogistics/"
   - key: "SecondOpinionStrategy"
     title: "Second Opinion Strategy / 第二意见策略"
     url: "/wiki/concepts/secondopinionstrategy/"

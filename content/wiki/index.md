@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》841丨绝不手软！揭秘战争的残酷真相](sources/zizhi-tongjian-hanji-841-juebu-shouruan-jiemi-zhanzheng-de-canku-zhenxiang-losza81gissyijywwe0vxadw5ia0.md) — 芮淇讲透资治通鉴 episode on Xiongnu autumn raids, Han Wudi's spring anti-Xiongnu strategy, war as logistics and reproduction pressure, and Zhang Huan's refusal of Qiang gifts.
 - [《资治通鉴·汉纪》842丨什么是好官？他为百姓敢拼命！](sources/zizhi-tongjian-hanji-842-shenme-shi-haoguan-ta-wei-baixing-gan-pinming-lj2okcbcvcmrfqrj3d-k1ylqdi2si.md) — 芮淇讲透资治通鉴 episode on Han Shao's risk-bearing granary relief, Tanshihuai's early Xianbei organization, Li Ying's frontier reputation, Duan Jiong's false-recall ambush, and the 156 CE crisis field.
 - [《资治通鉴·汉纪》843丨古代农民贫困的根源是什么？](sources/zizhi-tongjian-hanji-843-gudai-nongmin-pinkun-de-genyuan-shi-shenme-lutep8yyzanhlb4ao6sope-8edvy.md) — 芮淇讲透资治通鉴 episode on Liu Tao's rejection of a coinage explanation for peasant poverty, Zhu Da's extraction-driven local rebellion, Chen Shou's fatal eclipse accusation against Liang Ji, and Chen Gui's 158 CE frontier-administration and tax-remission program.
 - [《资治通鉴·汉纪》844丨如何立于不败之地？](sources/zizhi-tongjian-hanji-844-ruhe-liyu-bubaizhidi-lsp49uw8atyiufrf-ryo-9ctos5z.md) — 芮淇讲透资治通鉴 episode on Zhang Huan calming frontier troops, splitting Wuhuan from Southern Xiongnu/Tuge opponents, Emperor Huan's Che'er legitimacy decision, Chen Gui's anti-Liang death, and Zhong Hao's trust-based Duliao governance.
@@ -1963,7 +1964,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [冯贵人 / Feng Guiren (late Han)](entities/FengGuirenLateHan.md) — Imperial consort proposed as an alternative burial figure to Empress Dowager Dou in Hanji 901, mainly as a ritual-claim contrast.
 - [The Metamorphosis / Kafka's 《变形记》](entities/TheMetamorphosisKafka.md) — Kafka work used in Hanji 901 to illustrate anxious self-importance and impatience; distinct from Ovid's Metamorphoses.
 - [刘猛 / Liu Meng (late Han)](entities/LiuMengLateHan.md) — Sili xiaowei who treats the Zhuque Gate anti-eunuch accusation as substantially true, does not pursue the anonymous speaker aggressively, and is punished after Duan Jiong takes over.
-- [张奂 / Zhang Huan (late Han)](entities/ZhangHuanLateHan.md) — Late-Han frontier and court official whose profile now begins with 158 CE crisis composure and Wuhuan-Xiongnu fracture before later rehabilitation, remonstrance, and survival.
+- [张奂 / Zhang Huan (late Han)](entities/ZhangHuanLateHan.md) — Late-Han frontier and court official whose profile now begins with 155 CE Qiang gift refusal before 158 CE crisis composure, Wuhuan-Xiongnu fracture, rehabilitation, remonstrance, and survival.
 - [种暠 / Zhong Hao (late Han)](entities/ZhongHaoLateHan.md) — Late-Han Duliao general who follows Chen Gui and stabilizes the frontier through trust-building, prisoner release, and selective punishment.
 - [王寓 / Wang Yu (late Han)](entities/WangYuLateHan.md) — Former sili xiaowei whose refused recommendation request becomes a personal-grudge accusation against Zhang Huan; distinct from Wang Yu / 汪玉.
 - [苏谦 / Su Qian (late Han)](entities/SuQianLateHan.md) — Father of Su Buwei whose attempted complaint against Li Hao becomes the killing that launches Su Buwei's filial revenge.
@@ -3392,7 +3393,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Los Angeles Metro](entities/LosAngelesMetro.md) — Transit agency used in Pratt's argument that safety and fare enforcement must precede ridership and expansion ambitions.
 - [Peter Chernin](entities/PeterChernin.md) — Media-industry figure Pratt cites to narrow what a Los Angeles mayor can do for independent production.
 - [李牧 / Li Mu](entities/LiMu.md) — Zhao general whose frontier patience, anti-Qin resistance, and later family afterlife extend through Li Zuoche's Jingxing advice.
-- [匈奴 / Xiongnu](entities/Xiongnu.md) — Northern nomadic frontier power whose arc runs from Li Mu's raiding problem through Modu's consolidation to early Western Han crisis.
+- [匈奴 / Xiongnu](entities/Xiongnu.md) — Northern nomadic frontier power whose arc now runs from Li Mu's raiding problem through Modu and early Han heqin to Han Wudi-era seasonal and reproductive warfare pressure.
 - [王翦 / Wang Jian (Qin)](entities/WangJianQin.md) — Qin general whose arc now runs from Zhao campaigns and Yan retaliation to property-request self-protection and fortified attrition against Chu.
 - [郑国 / Zheng Guo (Hydraulic Engineer)](entities/ZhengGuoHydraulicEngineer.md) — Han-sent hydraulic specialist whose exposed canal mission both enlarges Qin's grain base and triggers the guest-expulsion crisis.
 - [郑国渠 / Zhengguo Canal](entities/ZhengGuoCanal.md) — Qin irrigation project promoted by Zheng Guo, exposed as a Han "fatigue Qin" plan, and completed as a major Guanzhong grain-base asset.
@@ -5340,7 +5341,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小林亮一 / Kobayashi Ryoichi](entities/KobayashiRyoichi.md) — Coach who recognizes 惠子's professional potential and teaches defense after her painful second fight.
 - [和田幸子 / Wada Sachiko](entities/WadaSachiko.md) — Language/hearing-classroom teacher who gives 惠子 a low-pressure refuge during ordinary-school crisis.
 - [Qin Shi Huang / 秦始皇](entities/QinShiHuang.md) — Qin ruler whose branch connects Lao Ai aftermath, guest-expulsion reversal, Handan revenge, conquest politics, Wang Jian's Chu command, and later imperial fangshu anxieties.
-- [Emperor Wu of Han / 汉武帝](entities/HanWudi.md) — Western Han emperor whose求仙 projects and wugu panic make fangshu a fiscal, political, and succession danger in episode 87.
+- [Emperor Wu of Han / 汉武帝](entities/HanWudi.md) — Western Han emperor whose profile now includes calendar standardization, fangshu and Wugu danger, palace-exhaustion critique, and expensive anti-Xiongnu warfare including a source-scoped spring reproductive-attrition reading.
 - [Liu An / 刘安](entities/LiuAn.md) — Western Han prince whose fangshu interest appears through textual compilation, Huainanzi, technical lore, and later immortalization legend.
 - [Huainanzi / 《淮南子》](entities/Huainanzi.md) — Western Han compilation used by episode 87 to connect philosophy, astronomy, technical knowledge, alchemy, and fangshu.
 - [Zou Yan / 邹衍](entities/ZouYan.md) — Warring States thinker anchoring episode 87's yin-yang and five-phases political-theory branch.
@@ -10103,6 +10104,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [查因安抚式治理 / Root-Cause Pacification](concepts/RootCausePacification.md) — Governance pattern where officials diagnose political, personnel, and local causes of rebellion, then combine morale repair, official accountability, relief, surrender policy, resettlement judgment, and targeted coercion.
 - [商人定气功夫 / Merchant Composure Discipline](concepts/MerchantComposureDiscipline.md) — Source-scoped Hanji 927 business frame around credibility, detachment, calm judgment, and decisive action.
 - [巡查送礼关口 / Inspection Gift Gatekeeping](concepts/InspectionGiftGatekeeping.md) — Hanji 928 pattern where an inspector with ruler access can turn gift refusal and a slanted report into command-changing political risk.
+- [Gift Refusal As Authority / 拒礼立威](concepts/GiftRefusalAsAuthority.md) — Governance pattern where refusing interested gifts preserves credibility, distance, and bargaining authority.
 - [对事不对人式公义 / Public Duty Over Private Grievance](concepts/PublicDutyOverPrivateGrievance.md) — Hanji 929 ethical frame where Gai Xun keeps private dislike and injury from deciding public law, office duty, and military rescue.
 - [可交换能力 / Exchangeable Capability](concepts/ExchangeableCapability.md) — Hanji 930 personal-development frame where relationships and patrons become useful only when backed by real skill, value, and judgment.
 - [征发信号价格垄断 / Procurement Signal Price Cornering](concepts/ProcurementSignalPriceCornering.md) — Hanji 920 pattern where state horse-procurement demand is captured by local strongmen who monopolize supply and inflate prices.
@@ -10370,6 +10372,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [诸侯王羞辱触发谋刺 / Vassal Humiliation Conspiracy](concepts/VassalHumiliationConspiracy.md) — Pattern where insult to a dependent king makes ministers radicalize into private assassination planning.
 - [Encirclement Release Calculus / 围困开口式风险权衡](concepts/EncirclementReleaseCalculus.md) — Hanji 178 pattern where the side holding an encirclement opens a passage because allied uncertainty, reinforcements, occupation cost, and limited aims make total destruction risky.
 - [Han-Xiongnu Heqin Policy / 汉匈和亲政策](concepts/HanXiongnuHeqinPolicy.md) — Liu Jing's post-Baideng proposal to use ruling-house marriage as frontier restraint after direct war against Xiongnu proves costly.
+- [Seasonal War Logistics / 战争季节后勤](concepts/SeasonalWarLogistics.md) — Strategy frame for how harvests, winter stores, horse condition, and reproduction calendars shape campaign timing.
+- [Reproductive Attrition Strategy / 繁衍打击战略](concepts/ReproductiveAttritionStrategy.md) — Source-scoped war strategy frame for attacking a rival's future population and livestock capacity rather than only current fighters.
 - [绝对服从式指挥训练 / Absolute Command Obedience](concepts/AbsoluteCommandObedience.md) — Hanji 175 pattern where Modu's whistling-arrow drills turn lethal signal-following into command reliability.
 - [仇敌受封安众 / Hostile Recipient Reward Signal](concepts/HostileRecipientRewardSignal.md) — Hanji 174 part 2 reward-credibility pattern where enfeoffing a hated claimant reassures the wider merit-holder group.
 - [建国功臣排序 / Founding Merit Hierarchy](concepts/FoundingMeritHierarchy.md) — Hanji 174 frame for ranking unlike founding contributions, especially Xiao He's rear organization above frontline pursuit.
@@ -10590,7 +10594,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Guest Expulsion Order / 逐客令](concepts/GuestExpulsionOrder.md) — Qin policy crisis where security fear and royal-clan office politics recast foreign guest officials as expulsion targets before Li Si's memorial forces reversal.
 - [Mouse Philosophy / 老鼠哲学](concepts/MousePhilosophy.md) — Li Si's source-scoped environment-and-opportunity lesson drawn from toilet mice and granary mice.
 - [Frontier Defensive Patience / 边境防御耐心](concepts/FrontierDefensivePatience.md) — Li Mu's pattern of refusing repeated raids, preserving frontier capacity, and waiting to turn enemy overconfidence into decisive battle.
-- [Nomadic Cavalry Raiding Asymmetry / 游牧骑兵劫掠不对称](concepts/NomadicCavalryRaidingAsymmetry.md) — Strategic imbalance where mobile raiders can choose contact while agrarian defenders must protect fixed people, herds, and stores.
+- [Nomadic Cavalry Raiding Asymmetry / 游牧骑兵劫掠不对称](concepts/NomadicCavalryRaidingAsymmetry.md) — Strategic imbalance where mobile raiders can choose contact and season while agrarian defenders must protect fixed people, herds, fields, and stores.
 - [Warring States Northern Great Walls / 战国北境长城](concepts/WarringStatesNorthernGreatWalls.md) — Qin, Zhao, and Yan northern defensive wall frame linked to mobile frontier raiding and later Qin Shi Huang wall integration.
 - [Self-Defeating Resource-Drain Strategy / 疲敌反强敌](concepts/SelfDefeatingResourceDrainStrategy.md) — Strategy where an attempted burden on an enemy becomes durable infrastructure or capacity, while its exposed motive can still create political backlash.
 - [State Survival vs Kinship and Ministerial Duty / 国存亡与父子君臣义冲突](concepts/StateSurvivalKinshipDutyConflict.md) — Ethical conflict where family, local lordship, military command, and state survival all have claims but cannot all be satisfied.

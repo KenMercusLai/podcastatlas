@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "98660419dd5889b2f6eef0e116644c7d1150f8de9520769228ec15dd4ecd1a72",
       "efb1e9eb4c37ecbb685b6eaa9f184c5ba5a6728d7347651a2bb366a1a65d5b54",
       "c3fb1a3a4e1a94d58e4b2805c29c0240cebf7caa55687894bbdd60d21f91db3e",
       "b45f623d7ac4d58f277199d282bb593706f3ed34dcd1726ef63883b3bfd936d1",
@@ -331,11 +332,36 @@
       "ffc63951f0c9ebb1bdb0d92982d5f65f57bbe4a7f7a359f38dcd33423bb288c2",
       "41cadfb91ef6894bc7d9cd5c4e55012480b0225b71a6a027d18e9565e8357c0c"
     ],
-    "paragraph_count": 329
+    "paragraph_count": 330
   },
-  "overview_commit": "870bbff5eb6409fe1034d42a5b7b825f8b1a837c",
-  "overview_digest": "928a1e55811c96270698259f5165c7392955ef866197abd1603de4d6dd7c4c54",
+  "overview_commit": "be5bc92d9c269f3c865d3eaf6c7aa256ee3e3ed1",
+  "overview_digest": "280692b0731eaa77b6fe550e2c96c341e9068d0845017609e37f90c6dcd53149",
   "paragraphs": [
+    {
+      "id": "98660419dd5889b2f6eef0e116644c7d1150f8de9520769228ec15dd4ecd1a72",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-841-juebu-shouruan-jiemi-zhanzheng-de-canku-zhenxiang-losza81gissyijywwe0vxadw5ia0|《资治通鉴·汉纪》841丨绝不手软！揭秘战争的残酷真相]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 155 CE frontier-war layer immediately before [[zizhi-tongjian-hanji-842-shenme-shi-haoguan-ta-wei-baixing-gan-pinming-lj2okcbcvcmrfqrj3d-k1ylqdi2si|Hanji 842]]. It adds [[SeasonalWarLogistics|战争季节后勤]], [[ReproductiveAttritionStrategy|繁衍打击战略]], and [[GiftRefusalAsAuthority|拒礼立威]], while extending [[Xiongnu|匈奴]], [[HanWudi|汉武帝]], [[ZhangHuanLateHan|张奂]], [[NomadicCavalryRaidingAsymmetry|游牧骑兵劫掠不对称]], [[WarCostTempoDiscipline|战争成本与速决纪律]], and [[WarGenderedCivilianHarm|战争中的性别化平民伤害]]. Its core synthesis is that frontier war has to be read through production calendars as well as courage: Xiongnu autumn raids follow harvest grain, winter need, and strong horses, while Han Wudi's spring attacks are presented as a brutal source-scoped strike on pregnancy, childbearing continuity, and livestock reproduction. The Zhang Huan branch adds the cleaner political mirror: refusing Qiang gifts preserves public authority and negotiating distance by leaving small private gains untaken. No settled contradiction is recorded; the Han Wudi reproductive-attrition reading and the Liangzhou \"三明\" transcript normalizations remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 2,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "GiftRefusalAsAuthority",
+        "HanWudi",
+        "NomadicCavalryRaidingAsymmetry",
+        "ReproductiveAttritionStrategy",
+        "RuiqiJiangtouZizhiTongjian",
+        "SeasonalWarLogistics",
+        "WarCostTempoDiscipline",
+        "WarGenderedCivilianHarm",
+        "Xiongnu",
+        "ZhangHuanLateHan",
+        "zizhi-tongjian-hanji-841-juebu-shouruan-jiemi-zhanzheng-de-canku-zhenxiang-losza81gissyijywwe0vxadw5ia0",
+        "zizhi-tongjian-hanji-842-shenme-shi-haoguan-ta-wei-baixing-gan-pinming-lj2okcbcvcmrfqrj3d-k1ylqdi2si"
+      ]
+    },
     {
       "id": "efb1e9eb4c37ecbb685b6eaa9f184c5ba5a6728d7347651a2bb366a1a65d5b54",
       "primary_topic": "governance-and-institutions",
