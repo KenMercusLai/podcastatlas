@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 5799
+wiki_total_pages: 5802
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -701,6 +701,9 @@ wiki_pages:
   - key: "TangmuYi"
     title: "汤沐邑 / Tangmu Yi"
     url: "/wiki/concepts/tangmuyi/"
+  - key: "TaxationStabilityTradeoff"
+    title: "税赋与地方稳定权衡 / Taxation-Stability Tradeoff"
+    url: "/wiki/concepts/taxationstabilitytradeoff/"
   - key: "TruthfulTemperamentInRedChamber"
     title: "红楼之真 / Truthful Temperament In Red Chamber"
     url: "/wiki/concepts/truthfultemperamentinredchamber/"

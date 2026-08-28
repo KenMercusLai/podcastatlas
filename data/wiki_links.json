@@ -8995,6 +8995,10 @@
     "title": "厂二代GoGoGo",
     "url": "/wiki/entities/changerdaigogogo/"
   },
+  "ChangguangCommanderyLateHan": {
+    "title": "长广郡 / Changguang Commandery (late Han)",
+    "url": "/wiki/entities/changguangcommanderylatehan/"
+  },
   "ChangjiangBusinessSchool": {
     "title": "长江商学院 / Cheung Kong Graduate School of Business",
     "url": "/wiki/entities/changjiangbusinessschool/"
@@ -34567,6 +34571,10 @@
     "title": "New Zealand / 新西兰",
     "url": "/wiki/entities/newzealand/"
   },
+  "NewlyAttachedRegionLeniency": {
+    "title": "新附地区宽缓治理 / Newly Attached Region Leniency",
+    "url": "/wiki/concepts/newlyattachedregionleniency/"
+  },
   "NewsCorp": {
     "title": "News Corp",
     "url": "/wiki/entities/newscorp/"
@@ -47535,6 +47543,10 @@
     "title": "Tax Treaty Arbitrage",
     "url": "/wiki/concepts/taxtreatyarbitrage/"
   },
+  "TaxationStabilityTradeoff": {
+    "title": "税赋与地方稳定权衡 / Taxation-Stability Tradeoff",
+    "url": "/wiki/concepts/taxationstabilitytradeoff/"
+  },
   "TaxiDriver": {
     "title": "Taxi Driver",
     "url": "/wiki/entities/taxidriver/"
@@ -51439,6 +51451,10 @@
     "title": "Wartime Leadership Accountability",
     "url": "/wiki/concepts/wartimeleadershipaccountability/"
   },
+  "WartimeTextileFiscalResource": {
+    "title": "战时绵绢财政资源 / Wartime Textile Fiscal Resource",
+    "url": "/wiki/concepts/wartimetextilefiscalresource/"
+  },
   "WashingtonPost": {
     "title": "Washington Post",
     "url": "/wiki/entities/washingtonpost/"
@@ -53882,6 +53898,10 @@
   "YanZhongzi": {
     "title": "严仲子 / Yan Zhongzi",
     "url": "/wiki/entities/yanzhongzi/"
+  },
+  "YangAnLateHan": {
+    "title": "阳安 / Yang'an (late Han)",
+    "url": "/wiki/entities/yanganlatehan/"
   },
   "YangBiao": {
     "title": "杨彪 / Yang Biao",
@@ -60022,6 +60042,10 @@
   "zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d": {
     "title": "《资治通鉴·汉纪》1045丨他是江东霸业的开创者，可惜死的太窝囊",
     "url": "/wiki/sources/zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d/"
+  },
+  "zizhi-tongjian-hanji-1046-ta-ping-shenme-bei-chengzuo-sanguo-yincang-zui-shen-de-niuren-limiqxjqzbk4fttl8d6rviqwwe3b": {
+    "title": "《资治通鉴·汉纪》1046丨他凭什么被称作“三国隐藏最深的牛人”？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-1046-ta-ping-shenme-bei-chengzuo-sanguo-yincang-zui-shen-de-niuren-limiqxjqzbk4fttl8d6rviqwwe3b/"
   },
   "zizhi-tongjian-hanji-1050-cong-caocao-fenxin-xuexi-baogui-de-lingdao-zhihui-lsqg-qaxozjpaxyukrvxbtf-mcse": {
     "title": "《资治通鉴·汉纪》1050丨从曹操焚信学习宝贵的领导智慧",

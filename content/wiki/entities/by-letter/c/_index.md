@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 8050
+wiki_total_pages: 8052
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -1577,6 +1577,9 @@ wiki_pages:
   - key: "ChangpingguanBattleLateHan"
     title: "长平观之战 / Changpingguan Battle (late Han)"
     url: "/wiki/entities/changpingguanbattlelatehan/"
+  - key: "ChangguangCommanderyLateHan"
+    title: "长广郡 / Changguang Commandery (late Han)"
+    url: "/wiki/entities/changguangcommanderylatehan/"
   - key: "ChangjiangBusinessSchool"
     title: "长江商学院 / Cheung Kong Graduate School of Business"
     url: "/wiki/entities/changjiangbusinessschool/"

@@ -318,12 +318,13 @@
       "6bd28c470f6e9c123dc24d79e82dbcfb73e9f49f777bfd2b02744df233e9e914",
       "16d531495e2a6294ae198d0b95a352e519f488fcca1dbdae1f416758d1cfa576",
       "a9fec3ceb1b343b1fafeebc9ab2903b46238a861f9aaafd9d15b1460340a08b5",
-      "80ebfc1ef682d46f5ad0ddee6b5400db9cc377226e9bae3529738d33d47cad41"
+      "80ebfc1ef682d46f5ad0ddee6b5400db9cc377226e9bae3529738d33d47cad41",
+      "ffc63951f0c9ebb1bdb0d92982d5f65f57bbe4a7f7a359f38dcd33423bb288c2"
     ],
-    "paragraph_count": 318
+    "paragraph_count": 319
   },
-  "overview_commit": "30ea6f27ce76c8e44e5752da54a9b44de8fc5394",
-  "overview_digest": "21bcfe483275187dfc2ad46fda714cdf79ce2de50fd4642647a9e57891e7ea6e",
+  "overview_commit": "a0a6788078ed33a82e310114fa0aef053cf87c03",
+  "overview_digest": "1f849a8ae45467d69efefb65afde87c329590dd4547589d7d5217ff2b6d9770f",
   "paragraphs": [
     {
       "id": "b7d227f34bd447800f7c15293cda81af8f70b38685399e1a4c004367452b1d39",
@@ -9857,6 +9858,36 @@
         "TheSaaSPodcast",
         "Uplane",
         "selling-before-building-1m-arr-in-six-months"
+      ]
+    },
+    {
+      "id": "ffc63951f0c9ebb1bdb0d92982d5f65f57bbe4a7f7a359f38dcd33423bb288c2",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1046-ta-ping-shenme-bei-chengzuo-sanguo-yincang-zui-shen-de-niuren-limiqxjqzbk4fttl8d6rviqwwe3b|《资治通鉴·汉纪》1046丨他凭什么被称作“三国隐藏最深的牛人”？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode extending the 200 CE pre-[[GuanduCampaign|官渡之战]] governance branch through [[ZhaoYanLateHan|赵俨]], [[LiTongLateHan|李通]], [[YangAnLateHan|阳安]], [[HeKui|何夔]], and [[ChangguangCommanderyLateHan|长广郡]]. It adds [[TaxationStabilityTradeoff|税赋与地方稳定权衡]], [[WartimeTextileFiscalResource|战时绵绢财政资源]], and [[NewlyAttachedRegionLeniency|新附地区宽缓治理]], while extending [[RuleOverKinshipPower|法度压过亲缘特权]], [[PeopleBasedPoliticalSecurity|民心型政治安全]], and [[WarCostTempoDiscipline|战争成本与速决纪律]]. Its core synthesis is that Cao-side capacity depends on distinguishing valuable extraction from destabilizing extraction: cotton-silk is money-like, portable, and militarily useful, but Zhao Yan still warns that forcing Yang'an households to send it during nearby rebellions could damage local attachment, so Xun Yu's channel and Cao Cao's return order convert restraint into control; He Kui then generalizes the same logic into light-tax, flexible-law treatment for newly attached remote regions. No settled contradiction is recorded; the source title is broad while the internal content centers Zhao Yan, and the local \"Xu Gong\" reference is kept separate from [[XuGongLateHan|孙策-era徐贡]].",
+      "topic_scores": {
+        "governance-and-institutions": 4,
+        "history-and-geopolitics": 2,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "ChangguangCommanderyLateHan",
+        "GuanduCampaign",
+        "HeKui",
+        "LiTongLateHan",
+        "NewlyAttachedRegionLeniency",
+        "PeopleBasedPoliticalSecurity",
+        "RuiqiJiangtouZizhiTongjian",
+        "RuleOverKinshipPower",
+        "TaxationStabilityTradeoff",
+        "WarCostTempoDiscipline",
+        "WartimeTextileFiscalResource",
+        "XuGongLateHan",
+        "YangAnLateHan",
+        "ZhaoYanLateHan",
+        "zizhi-tongjian-hanji-1046-ta-ping-shenme-bei-chengzuo-sanguo-yincang-zui-shen-de-niuren-limiqxjqzbk4fttl8d6rviqwwe3b"
       ]
     }
   ],

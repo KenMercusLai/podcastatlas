@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 8050
+wiki_total_pages: 8052
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -779,6 +779,9 @@ wiki_pages:
   - key: "YangrenBattleLateHan"
     title: "阳人之战 / Yangren Battle (late Han)"
     url: "/wiki/entities/yangrenbattlelatehan/"
+  - key: "YangAnLateHan"
+    title: "阳安 / Yang'an (late Han)"
+    url: "/wiki/entities/yanganlatehan/"
   - key: "YangjinWarringStates"
     title: "阳晋 / Yangjin (Warring States)"
     url: "/wiki/entities/yangjinwarringstates/"

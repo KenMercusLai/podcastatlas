@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 5799
+wiki_total_pages: 5802
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -407,6 +407,9 @@ wiki_pages:
   - key: "WarringStatesFourLords"
     title: "战国四公子 / Warring States Four Lords"
     url: "/wiki/concepts/warringstatesfourlords/"
+  - key: "WartimeTextileFiscalResource"
+    title: "战时绵绢财政资源 / Wartime Textile Fiscal Resource"
+    url: "/wiki/concepts/wartimetextilefiscalresource/"
   - key: "WangmenTouzhi"
     title: "望门投止 / Wangmen Touzhi"
     url: "/wiki/concepts/wangmentouzhi/"
