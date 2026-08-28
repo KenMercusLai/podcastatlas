@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 8092
+wiki_total_pages: 8094
 wiki_pages:
   - key: "BSpecials"
     title: "B Specials"
@@ -953,6 +953,9 @@ wiki_pages:
   - key: "BailiXi"
     title: "百里奚 / Baili Xi"
     url: "/wiki/entities/bailixi/"
+  - key: "BingZunLateHan"
+    title: "秉尊 / Bing Zun (late Han)"
+    url: "/wiki/entities/bingzunlatehan/"
   - key: "BaoJi"
     title: "薄姬 / Lady Bo"
     url: "/wiki/entities/baoji/"

@@ -12685,6 +12685,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-28] ingest | 《资治通鉴·汉纪》847丨女人变得好命，从懂得这俩字开始
+
+Ingested Hanji 847 as the 159 CE household, harem-placement, Xuan-trigger, and secret anti-Liang oath layer before Hanji 848. Created source note, Xuan, Bing Zun, and Relationship Selection Agency pages; updated Emperor Huan, Liang Ji, Sun Shou, Empress Deng, Tang Heng, Shan Chao, Five Marquises, Palace Proximity Power, Palace Coup Symbol Control, and Outer-Relative Court Power.
+
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》849丨苏轼自幼读的《范滂传》，究竟说的谁？
 
 Added source page for a 芮淇讲透资治通鉴 episode on Fan Pang's 159 CE Qingzhao-envoy anti-corruption profile, Huang Qiong's recruitment, Chen Fan's five-recluse recommendation, and Xu Zhi, Jiang Gong, Yuan Hong, Wei Zhu, and Li Tan's refusal to serve under a distrusted court. Created Jiang Gong, Wei Zhu, Li Tan (late Han), and Principled Office Refusal; updated Fan Pang, Huang Qiong, Xu Zhi, Yuan Hong, overview, and index. No settled contradiction found; the Su Shi title hook is not developed in the supplied episode body, and Li Tan is disambiguated from Warring States 李谈/李同.
@@ -12964,6 +12968,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》848丨瞬间垮台！我为何说他死有余辜？
 
 Ingested Hanji 848 as the 159 CE anti-Liang coup layer. Created source note, Ju Yuan, Sun Shou, Palace Coup Symbol Control, and Outer-Relative Court Power pages; updated Liang Ji, Emperor Huan, Five Marquises, named eunuch members, Empress Deng, Huang Qiong, Palace Proximity Power, and Boundaryless Kindness Trap.
+
+## [2026-08-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-28] lint | Wiki health check
 

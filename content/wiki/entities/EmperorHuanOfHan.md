@@ -23,17 +23,20 @@ sources:
   - zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7
   - zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun
   - zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0
+  - zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx
 last_updated: 2026-08-28
 knowledge_schema: synthesis-v1
 ---
 
 ## Overview
 
-汉桓帝 / Emperor Huan of Han is a late-Han emperor whose current wiki profile now begins in 159 CE with a sharp coup-and-aftermath paradox. [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|Hanji 848]] shows him decisively destroying [[LiangJiLateHan|梁冀]] through palace access, seals, tallies, guards, and confiscation. Yet [[zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7|Hanji 850]] and [[zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun|Hanji 851]] show the freed court failing to recover a trustworthy feedback or enforcement system: [[LiYunLateHan|李云]] and [[DuZhongLateHan|杜仲]] die after direct remonstrance is criminalized, [[HuangQiongLateHan|黄琼]]'s warning is ignored, and the [[ShanChaoLateHan|单超]] family corruption case punishes [[YangBingLateHan|杨秉]] and [[FifthZhongLateHan|第五种]] rather than the protected offender. Later sources show Huan can accept bounded, practical, or precedent-backed correction, but he preserves palace access structures, favorite power, harem disorder, and party-arrest mechanisms that make durable reform fail.
+汉桓帝 / Emperor Huan of Han is a late-Han emperor whose current wiki profile now begins in 159 CE with a two-step anti-Liang turn. [[zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx|Hanji 847]] shows him still constrained by [[LiangJiLateHan|梁冀]], responding to [[XuanDengMotherLateHan|Xuan]] after Liang's failed assassination attempt, and secretly selecting palace insiders for an anti-Liang oath. [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|Hanji 848]] then shows him decisively destroying Liang through palace access, seals, tallies, guards, and confiscation. Yet [[zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7|Hanji 850]] and [[zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun|Hanji 851]] show the freed court failing to recover a trustworthy feedback or enforcement system: [[LiYunLateHan|李云]] and [[DuZhongLateHan|杜仲]] die after direct remonstrance is criminalized, [[HuangQiongLateHan|黄琼]]'s warning is ignored, and the [[ShanChaoLateHan|单超]] family corruption case punishes [[YangBingLateHan|杨秉]] and [[FifthZhongLateHan|第五种]] rather than the protected offender. Later sources show Huan can accept bounded, practical, or precedent-backed correction, but he preserves palace access structures, favorite power, harem disorder, and party-arrest mechanisms that make durable reform fail.
 
 ## Current Profile
 
-The earliest current layer is Huan's successful anti-Liang coup. In Hanji 848, Liang Ji's assassination of Deng Meng's mother pushes Huan into secret action with five eunuchs. Huan's side arrests Liang's palace monitor, convenes the shangshu channel, guards the palace offices, seizes imperial tallies and seals, sends [[JuYuanLateHan|具瑗]] and Zhang Biao to surround Liang's mansion, and removes Liang's general-in-chief seal. Liang and [[SunShouLateHan|孙寿]] die the same day. Huan then liquidates the Liang-Sun network, sells Liang property into the treasury, halves the year's land tax, distributes gardens to commoners, restores Deng Meng's Deng surname, and rewards the five eunuchs as the [[FiveMarquisesHuanEra|Five Marquises]].
+The earliest current layer is Huan's secret anti-Liang recruitment. In Hanji 847, Xuan reaches the palace after Liang Ji's attempt to kill her, giving Huan a direct household-triggered crisis around Deng Meng. Huan privately consults [[TangHengLateHan|唐衡]], asks which close attendants resent the Liang family, and brings [[ShanChaoLateHan|单超]], [[ZuoGuanLateHan|左悺]], [[XuHuangLateHan|徐璜]], [[JuYuanLateHan|具瑗]], and Tang Heng into an oath-bound conspiracy. The oath scene, including Huan's blood drawn from Shan Chao's arm, frames Huan as frightened but willing to commit when palace insiders make action possible.
+
+Hanji 848 supplies the execution layer. The source note compresses the Xuan trigger as Liang Ji having Deng Meng's mother killed, then shows Huan's side arresting Liang's palace monitor, convening the shangshu channel, guarding palace offices, seizing imperial tallies and seals, sending Ju Yuan and Zhang Biao to surround Liang's mansion, and removing Liang's general-in-chief seal. Liang and [[SunShouLateHan|孙寿]] die the same day. Huan then liquidates the Liang-Sun network, sells Liang property into the treasury, halves the year's land tax, distributes gardens to commoners, restores Deng Meng's Deng surname, and rewards the five eunuchs as the [[FiveMarquisesHuanEra|Five Marquises]].
 
 The immediate post-coup layer is release from Liang without stable self-restraint. In Hanji 850, [[WeiHuanLateHan|魏桓]] refuses office because palace women, imperial horses, and powerful-family corruption look unreformable. Huan rewards Deng and eunuch-favorite networks, accepts [[HouLanLateHan|侯览]]'s claimed merit and gift channel, and grants the Five Marquises large rewards. When Li Yun questions whether the emperor hears truth, Huan arrests him; Du Zhong chooses shared-fate solidarity; intercessors are rebuked or punished; and Li Yun plus Du Zhong die in prison.
 
@@ -51,7 +54,7 @@ Huan's private sphere becomes public damage. [[zizhi-tongjian-hanji-878-bu-shou-
 
 ## Key Characteristics
 
-- Anti-Liang ruler whose 159 CE palace coup removes an outer-relative bloc but then produces overreward, lethal remonstrance punishment, ignored senior warning, and protected-family enforcement reversal.
+- Anti-Liang ruler whose 159 CE turn moves from Xuan's assassination-trigger branch and secret eunuch oath into palace coup execution, public settlement, overreward, lethal remonstrance punishment, ignored senior warning, and protected-family enforcement reversal.
 - Mixed correction recipient who can accept bounded harem, personnel, legal, or state-capacity arguments while refusing deeper palace-access reform.
 - Ruler dependent on scarce frontier and court talent, capable of using practical personnel solutions when crisis is obvious.
 - Ruler whose eunuch reliance is framed as a palace-control structure, not merely a personnel mistake.
@@ -61,6 +64,7 @@ Huan's private sphere becomes public damage. [[zizhi-tongjian-hanji-878-bu-shou-
 
 ## Evidence
 
+- 159 CE secret recruitment: [[zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx|Hanji 847]] says Huan shelters the crisis after Xuan survives Liang Ji's failed assassination attempt, asks Tang Heng which close attendants oppose the Liang family, gathers Shan Chao, Zuo Guan, Xu Huang, Ju Yuan, and Tang Heng, and binds them through a blood oath.
 - 159 CE anti-Liang coup: [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|Hanji 848]] says Huan acts after Liang Ji has Deng Meng's mother killed, arrests Liang's monitor, controls palace offices, seals, tallies, and troops, removes Liang's general-in-chief seal, and forces Liang plus Sun Shou into same-day suicide.
 - 159 CE purge settlement: [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|Hanji 848]] says Huan executes or removes Liang-Sun relatives and dependent officials, sells Liang property, remits half the year's national land tax, distributes seized gardens, adjusts Liang/Deng status symbols, and rewards the five eunuchs as county marquises.
 - 159 CE outsider refusal and direct-remonstrance punishment: [[zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7|Hanji 850]] says Wei Huan refuses Huan's summons and that Li Yun plus Du Zhong die after criticizing post-Liang rewards and closed feedback.
@@ -76,17 +80,20 @@ Huan's private sphere becomes public damage. [[zizhi-tongjian-hanji-878-bu-shou-
 
 ## Qualifications
 
-The page remains bounded to the listed podcast source notes, not a full reign biography. Hanji 848 clarifies that Huan has real capacity for decisive command when palace access, symbols, and armed force are aligned under his will. Hanji 851 strengthens the later feedback-collapse and enforcement-reversal picture, but it also clarifies chronology: Yang Bing's punishment precedes his later restoration and successful anti-Hou Lan case, and Shan Chao's sickbed activity precedes his Hanji 853 death and burial. The current judgment is mixed rather than absolute: Huan can remove an overmighty outer-relative, create public benefit, and be moved by practical, legal, and state-capacity arguments, but those wins do not undo the palace, favorite, harem, and accusation structures that repeatedly defeat public correction.
+The page remains bounded to the listed podcast source notes, not a full reign biography. Hanji 847 and Hanji 848 preserve a trigger tension: Hanji 847 narrates Xuan surviving a failed assassination attempt and reaching Huan, while the Hanji 848 source note compresses or reports the trigger as her being killed. The current page treats Hanji 847 as the fuller pre-coup setup until a later source resolves the wording. Hanji 848 clarifies that Huan has real capacity for decisive command when palace access, symbols, and armed force are aligned under his will. Hanji 851 strengthens the later feedback-collapse and enforcement-reversal picture, but it also clarifies chronology: Yang Bing's punishment precedes his later restoration and successful anti-Hou Lan case, and Shan Chao's sickbed activity precedes his Hanji 853 death and burial. The current judgment is mixed rather than absolute: Huan can remove an overmighty outer-relative, create public benefit, and be moved by practical, legal, and state-capacity arguments, but those wins do not undo the palace, favorite, harem, and accusation structures that repeatedly defeat public correction.
 
 ## What Changed
 
-- Hanji 848 moves the earliest Huan profile back to the 159 CE anti-Liang coup, before the Hanji 850-853 post-coup aftermath.
-- The post-Liang paradox now starts with genuine command success and public benefit, then turns into eunuch reward, remonstrance punishment, and feedback collapse.
-- Empress Deng and the Five Marquises now have a clearer founding context inside Huan's removal of Liang Ji.
+- Hanji 847 moves the earliest Huan profile back to the Xuan-triggered secret recruitment and anti-Liang oath before the visible coup.
+- Hanji 848 remains the execution and settlement layer, but its Xuan-trigger wording is now qualified against Hanji 847's fuller survival account.
+- The post-Liang paradox starts with genuine command success and public benefit, then turns into eunuch reward, remonstrance punishment, and feedback collapse.
+- Empress Deng, Xuan, Bing Zun, and the Five Marquises now have a clearer founding context inside Huan's removal of Liang Ji.
 - Hanji 851's Yang Bing and Shan Chao branches remain later evidence of how the new eunuch-favorite order undercuts reform.
 
 ## Relationships
 
+- [[XuanDengMotherLateHan|萱]], [[BingZunLateHan|秉尊]], and [[EmpressDengHuanLateHan|邓皇后]] - natal-household crisis and favorite-family danger that push Huan into anti-Liang action.
+- [[TangHengLateHan|唐衡]], [[ShanChaoLateHan|单超]], and [[FiveMarquisesHuanEra|桓帝五侯]] - secret palace-ally selection, oath politics, and later reward group under Huan.
 - [[LiangJiLateHan|梁冀]], [[SunShouLateHan|孙寿]], and [[OuterRelativeCourtPower|外戚专权与清算]] - coup target, household collapse, and outer-relative network purge under Huan.
 - [[JuYuanLateHan|具瑗]], [[PalaceCoupSymbolControl|宫廷政变中的符印与门户控制]], and [[FiveMarquisesHuanEra|桓帝五侯]] - palace executor, coup mechanism, and reward group created by Huan's victory.
 - [[HuangQiongLateHan|黄琼]] - senior minister whose ignored memorial diagnoses Huan's post-Liang court inversion.

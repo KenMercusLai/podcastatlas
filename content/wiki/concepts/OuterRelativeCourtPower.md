@@ -4,23 +4,27 @@ type: concept
 tags: [late-han, court-politics, kinship-power, purge, outer-relatives]
 sources:
   - zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0
+  - zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx
 last_updated: 2026-08-28
 knowledge_schema: synthesis-v1
 ---
 
 ## Definition
 
-Outer-Relative Court Power and Purge is the pattern where a ruler's in-law or consort-family network accumulates court, local, and household leverage until removal requires not only punishing the leading figure but also liquidating relatives, offices, guests, property, titles, and symbolic traces.
+Outer-Relative Court Power and Purge is the pattern where a ruler's in-law or consort-family network accumulates court, local, household, harem-placement, and kinship-identity leverage until removal requires not only punishing the leading figure but also liquidating relatives, offices, guests, property, titles, and symbolic traces.
 
 ## Current Synthesis
 
-Hanji 848 makes [[LiangJiLateHan|梁冀]] the late-Han case for overgrown outer-relative power. The episode does not treat Liang as a lone bad official; it shows a family and attachment network around him. Once [[EmperorHuanOfHan|汉桓帝]] decides to strike, the purge reaches Liang's wife [[SunShouLateHan|孙寿]], Liang and Sun relatives, senior officials who had depended on Liang, former clerks and guests, confiscated property, occupied gardens, and the former Liang empress's tomb status.
+Hanji 847 adds the pre-purge mechanism for overgrown outer-relative power. [[LiangJiLateHan|Liang Ji]]'s position is not only an office hierarchy; it is also a household and harem strategy. [[SunShouLateHan|Sun Shou]] controls the household, sends [[EmpressDengHuanLateHan|Deng Meng]] into the palace, and helps create a channel through which Liang tries to convert imperial favor into Liang-family identity by adoption or surname change. When [[BingZunLateHan|Bing Zun]] resists and [[XuanDengMotherLateHan|Xuan]] becomes a target, the household strategy turns into a political crisis.
+
+Hanji 848 then makes Liang the late-Han case for purge after outer-relative overreach. The episode does not treat Liang as a lone bad official; it shows a family and attachment network around him. Once [[EmperorHuanOfHan|Emperor Huan]] decides to strike, the purge reaches Liang's wife Sun Shou, Liang and Sun relatives, senior officials who had depended on Liang, former clerks and guests, confiscated property, occupied gardens, and the former Liang empress's tomb status.
 
 The concept therefore distinguishes removal from repair. Destroying an outer-relative bloc can reopen authority for the ruler and produce visible public benefit, but the same operation may also create a new reward dependency. In Hanji 848, the Liang order ends, yet the eunuch conspirators become the [[FiveMarquisesHuanEra|桓帝五侯]], setting up the later post-Liang eunuch-favorite problem.
 
 ## Key Claims
 
 - Outer-relative power becomes dangerous when family, office, guests, property, and palace status reinforce each other.
+- Harem placement and surname or adoption strategy can turn a favorite's body and natal family into outer-relative assets.
 - Removing the leading figure alone is not enough if the broader network can preserve offices, wealth, or symbolic legitimacy.
 - A purge can produce real public benefit through confiscation, tax remission, and redistributed land while still being politically violent.
 - Symbolic cleanup, such as tomb demotion or surname restoration, is part of power removal because kinship legitimacy is partly ceremonial.
@@ -28,6 +32,8 @@ The concept therefore distinguishes removal from repair. Destroying an outer-rel
 
 ## Evidence
 
+- Household and harem strategy: [[zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx|Hanji 847]] says Sun Shou helps send Deng Meng into Huan's palace and Liang Ji tries to make Deng Meng part of the Liang family identity.
+- Coercive family absorption: [[zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx|Hanji 847]] says Bing Zun warns Xuan against Liang's plan, after which Liang kills Bing Zun and tries to kill Xuan.
 - Trigger and target: [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|Hanji 848]] says Liang Ji's assassination of Deng Meng's mother triggers Huan's plan to remove him.
 - Household collapse: [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|Hanji 848]] says Liang and Sun Shou die on the same day after the mansion is surrounded and Liang's seal is taken.
 - Family and office liquidation: [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|Hanji 848]] says Liang-Sun relatives, senior officials, old clerks, and guests are arrested, executed, removed, or dismissed.
@@ -37,17 +43,19 @@ The concept therefore distinguishes removal from repair. Destroying an outer-rel
 
 ## Counterevidence & Qualifications
 
-This concept is grounded in one late-Han source note and should not be treated as a universal theory of every consort-family regime. The episode's moral judgment against Liang Ji is clear, but the page keeps separate the facts of network liquidation, the public benefits of confiscation, and the later risk that eunuch rewards become a replacement problem.
+This concept is grounded in late-Han source notes and should not be treated as a universal theory of every consort-family regime. Hanji 847 and Hanji 848 differ in how the Xuan trigger is stated: Hanji 847 narrates a failed assassination attempt and Xuan's survival, while Hanji 848 compresses or reports her as killed. The episode's moral judgment against Liang Ji is clear, but the page keeps separate the facts of household coercion, network liquidation, the public benefits of confiscation, and the later risk that eunuch rewards become a replacement problem.
 
 ## What Changed
 
-- Created the concept from Hanji 848's Liang-Sun purge, property confiscation, symbolic cleanup, and Five Marquises replacement-risk evidence.
+- Hanji 847 adds the household, harem-placement, adoption or surname strategy, and natal-family intimidation mechanism before purge.
+- Hanji 848 remains the Liang-Sun purge, property confiscation, symbolic cleanup, and Five Marquises replacement-risk evidence.
 
 ## Related Concepts
 
 - [[ForeignRelativeCourtPolitics|楚系外戚政治]] - Warring States kin-power analogue focused on Qin's Chu-linked maternal relatives.
 - [[QueenMotherRegency|太后摄政]] - adjacent pattern where palace or maternal authority governs through family position.
 - [[PalaceCoupSymbolControl|宫廷政变中的符印与门户控制]] - mechanism Huan uses to destroy Liang's outer-relative bloc.
+- [[PalaceFavoriteProtectionFragility|宫廷宠幸保护脆弱性]] - harem-favor vulnerability visible in Deng Meng's natal-family exposure before protection hardens.
 - [[CollateralPunishmentAndGuiltByAssociation|牵连与连坐]] - punishment logic visible when relatives and attached networks are swept into the purge.
 - [[FiveMarquisesHuanEra|桓帝五侯]] - replacement reward group created after the outer-relative purge succeeds.
 - [[MingqiLegitimacy|名器合法性]] - title-and-symbol order behind seal removal, tomb demotion, and surname restoration.

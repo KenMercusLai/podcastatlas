@@ -2204,6 +2204,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/betterbrain/"
     },
+    "BingZunLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》847丨女人变得好命，从懂得这俩字开始 [lrLoV43jtZ0VQ_o_5m8R2cQO0etX].md",
+          "key": "zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》847丨女人变得好命，从懂得这俩字开始",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/bingzunlatehan/"
+    },
     "BioNTech": {
       "episode_count": 1,
       "show_count": 1,
@@ -6009,9 +6025,9 @@
       "url": "/wiki/concepts/emotionsasfunctionalcontrolstates/"
     },
     "EmperorHuanOfHan": {
-      "episode_count": 20,
+      "episode_count": 21,
       "show_count": 1,
-      "source_note_count": 20,
+      "source_note_count": 21,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》901 丨急性子的人会是什么下场？ [lh1yfyJZqPTXVtnV9tAiQms9YjUd].md",
@@ -6152,15 +6168,22 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》848丨瞬间垮台！我为何说他死有余辜？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》847丨女人变得好命，从懂得这俩字开始 [lrLoV43jtZ0VQ_o_5m8R2cQO0etX].md",
+          "key": "zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》847丨女人变得好命，从懂得这俩字开始",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx/"
         }
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/emperorhuanofhan/"
     },
     "EmpressDengHuanLateHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》868丨赢了也是输家？东汉后宫争艳记 [lmMJGx23NLKeQr3MkzLIiJ-zWe2v].md",
@@ -6182,6 +6205,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》848丨瞬间垮台！我为何说他死有余辜？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》847丨女人变得好命，从懂得这俩字开始 [lrLoV43jtZ0VQ_o_5m8R2cQO0etX].md",
+          "key": "zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》847丨女人变得好命，从懂得这俩字开始",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx/"
         }
       ],
       "updated": "2026-08-28",
@@ -7001,9 +7031,9 @@
       "url": "/wiki/entities/fiveguys/"
     },
     "FiveMarquisesHuanEra": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿” [lvSA2pby8IyfEvfooBoBpIK52MiJ].md",
@@ -7025,6 +7055,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》848丨瞬间垮台！我为何说他死有余辜？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》847丨女人变得好命，从懂得这俩字开始 [lrLoV43jtZ0VQ_o_5m8R2cQO0etX].md",
+          "key": "zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》847丨女人变得好命，从懂得这俩字开始",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx/"
         }
       ],
       "updated": "2026-08-28",
@@ -11676,9 +11713,9 @@
       "url": "/wiki/entities/liyunlatehan/"
     },
     "LiangJiLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿” [lvSA2pby8IyfEvfooBoBpIK52MiJ].md",
@@ -11693,6 +11730,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》848丨瞬间垮台！我为何说他死有余辜？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》847丨女人变得好命，从懂得这俩字开始 [lrLoV43jtZ0VQ_o_5m8R2cQO0etX].md",
+          "key": "zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》847丨女人变得好命，从懂得这俩字开始",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx/"
         }
       ],
       "updated": "2026-08-28",
@@ -15175,9 +15219,9 @@
       "url": "/wiki/concepts/outdoorvehiclelifestyledesign/"
     },
     "OuterRelativeCourtPower": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》848丨瞬间垮台！我为何说他死有余辜？ [lgqVgMxlwga2fKnmtxPj3Ya9chk0].md",
@@ -15185,6 +15229,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》848丨瞬间垮台！我为何说他死有余辜？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》847丨女人变得好命，从懂得这俩字开始 [lrLoV43jtZ0VQ_o_5m8R2cQO0etX].md",
+          "key": "zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》847丨女人变得好命，从懂得这俩字开始",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx/"
         }
       ],
       "updated": "2026-08-28",
@@ -15239,9 +15290,9 @@
       "url": "/wiki/concepts/packagedwaterpricewar/"
     },
     "PalaceCoupSymbolControl": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》848丨瞬间垮台！我为何说他死有余辜？ [lgqVgMxlwga2fKnmtxPj3Ya9chk0].md",
@@ -15249,6 +15300,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》848丨瞬间垮台！我为何说他死有余辜？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》847丨女人变得好命，从懂得这俩字开始 [lrLoV43jtZ0VQ_o_5m8R2cQO0etX].md",
+          "key": "zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》847丨女人变得好命，从懂得这俩字开始",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx/"
         }
       ],
       "updated": "2026-08-28",
@@ -15278,9 +15336,9 @@
       "url": "/wiki/concepts/palacefavoriteprotectionfragility/"
     },
     "PalaceProximityPower": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》884丨职场除奸，要对谁先开刀？ [lvtC3uQLsO242olKyin3fvz5A7YS].md",
@@ -15302,6 +15360,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》848丨瞬间垮台！我为何说他死有余辜？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》847丨女人变得好命，从懂得这俩字开始 [lrLoV43jtZ0VQ_o_5m8R2cQO0etX].md",
+          "key": "zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》847丨女人变得好命，从懂得这俩字开始",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx/"
         }
       ],
       "updated": "2026-08-28",
@@ -16576,6 +16641,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/rejectedcounseldefectioncascade/"
     },
+    "RelationshipSelectionAgency": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》847丨女人变得好命，从懂得这俩字开始 [lrLoV43jtZ0VQ_o_5m8R2cQO0etX].md",
+          "key": "zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》847丨女人变得好命，从懂得这俩字开始",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/relationshipselectionagency/"
+    },
     "RenFangLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -17601,9 +17682,9 @@
       "url": "/wiki/entities/shanbinglatehan/"
     },
     "ShanChaoLateHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿” [lvSA2pby8IyfEvfooBoBpIK52MiJ].md",
@@ -17632,6 +17713,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》848丨瞬间垮台！我为何说他死有余辜？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》847丨女人变得好命，从懂得这俩字开始 [lrLoV43jtZ0VQ_o_5m8R2cQO0etX].md",
+          "key": "zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》847丨女人变得好命，从懂得这俩字开始",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx/"
         }
       ],
       "updated": "2026-08-28",
@@ -18796,9 +18884,9 @@
       "url": "/wiki/entities/sunshengeasternjin/"
     },
     "SunShouLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》848丨瞬间垮台！我为何说他死有余辜？ [lgqVgMxlwga2fKnmtxPj3Ya9chk0].md",
@@ -18806,6 +18894,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》848丨瞬间垮台！我为何说他死有余辜？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》847丨女人变得好命，从懂得这俩字开始 [lrLoV43jtZ0VQ_o_5m8R2cQO0etX].md",
+          "key": "zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》847丨女人变得好命，从懂得这俩字开始",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx/"
         }
       ],
       "updated": "2026-08-28",
@@ -19050,9 +19145,9 @@
       "url": "/wiki/entities/tansitong/"
     },
     "TangHengLateHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》904丨觉照内观：获得心灵大自由的秘诀 [lopN_oKbzr4LJvqmgzCsb7qAv0n2].md",
@@ -19074,6 +19169,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》848丨瞬间垮台！我为何说他死有余辜？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》847丨女人变得好命，从懂得这俩字开始 [lrLoV43jtZ0VQ_o_5m8R2cQO0etX].md",
+          "key": "zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》847丨女人变得好命，从懂得这俩字开始",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx/"
         }
       ],
       "updated": "2026-08-28",
@@ -21697,6 +21799,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/xuzhilatehan/"
+    },
+    "XuanDengMotherLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》847丨女人变得好命，从懂得这俩字开始 [lrLoV43jtZ0VQ_o_5m8R2cQO0etX].md",
+          "key": "zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》847丨女人变得好命，从懂得这俩字开始",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/xuandengmotherlatehan/"
     },
     "XueXiaofan": {
       "episode_count": 1,

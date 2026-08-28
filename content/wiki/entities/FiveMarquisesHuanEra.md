@@ -6,17 +6,20 @@ sources:
   - zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij
   - zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7
   - zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0
+  - zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx
 last_updated: 2026-08-28
 knowledge_schema: synthesis-v1
 ---
 
 ## Overview
 
-桓帝五侯 / Five Marquises of Emperor Huan's reign is the Huan-era eunuch reward group created from the 159 CE coup against [[LiangJiLateHan|梁冀]]. [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|Hanji 848]] now supplies the founding action and membership: [[ShanChaoLateHan|单超]], [[XuHuangLateHan|徐璜]], [[JuYuanLateHan|具瑗]], [[ZuoGuanLateHan|左悺]], and [[TangHengLateHan|唐衡]]. [[zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7|Hanji 850]] shows the reward scale becoming a remonstrance target, and [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]] shows later arrogance and local predation around the group.
+桓帝五侯 / Five Marquises of Emperor Huan's reign is the Huan-era eunuch group that first appears as a secret anti-[[LiangJiLateHan|Liang Ji]] oath and then becomes a reward bloc after the 159 CE coup. [[zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx|Hanji 847]] supplies the pre-founding recruitment through [[TangHengLateHan|Tang Heng]] and the oath involving [[ShanChaoLateHan|Shan Chao]], [[XuHuangLateHan|Xu Huang]], [[JuYuanLateHan|Ju Yuan]], [[ZuoGuanLateHan|Zuo Guan]], and Tang Heng. [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|Hanji 848]] supplies the founding action and membership rewards. [[zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7|Hanji 850]] shows the reward scale becoming a remonstrance target, and [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]] shows later arrogance and local predation around the group.
 
 ## Current Profile
 
-Hanji 848 supplies the founding sequence. Huan plots against Liang Ji with five eunuchs, then the palace operation succeeds through access control, seal-and-tally control, armed encirclement, and confiscation of Liang's general-in-chief seal. The five eunuchs are then enfeoffed as county marquises. Shan Chao receives 20,000 households; Xu Huang, Ju Yuan, Zuo Guan, and Tang Heng each receive 10,000 households. Zuo Guan and Tang Heng are also promoted to zhongchangshi.
+Hanji 847 supplies the pre-founding sequence. After the Xuan crisis, [[EmperorHuanOfHan|Emperor Huan]] privately asks Tang Heng which close attendants resent the Liang family. Tang identifies Shan Chao, Zuo Guan, Xu Huang, and Ju Yuan, and Huan then brings the five men into a secret oath. The group is therefore not only a post-coup reward category; it begins as a risk-sharing palace coalition formed under Liang surveillance.
+
+Hanji 848 supplies the founding reward sequence. Huan plots against Liang Ji with five eunuchs, then the palace operation succeeds through access control, seal-and-tally control, armed encirclement, and confiscation of Liang's general-in-chief seal. The five eunuchs are then enfeoffed as county marquises. Shan Chao receives 20,000 households; Xu Huang, Ju Yuan, Zuo Guan, and Tang Heng each receive 10,000 households. Zuo Guan and Tang Heng are also promoted to zhongchangshi.
 
 Hanji 850 shows how quickly the settlement becomes controversial. After Huan kills Liang Ji, the reward structure expands toward the Empress Deng family and eunuch-favorite network. Shan Chao is again visible as the largest recipient, and [[LiYunLateHan|李云]] argues that the rewards exceed ordinary court scale and risk alienating frontier troops who fought without comparable recognition.
 
@@ -24,7 +27,7 @@ Hanji 853 then shows the group ecology after its prestige has matured. Shan Chao
 
 ## Key Characteristics
 
-- Huan-era eunuch reward group created by the successful anti-Liang coup.
+- Huan-era eunuch coalition that begins as a secret anti-Liang oath and becomes a reward group after the successful coup.
 - Named founding group of Shan Chao, Xu Huang, Ju Yuan, Zuo Guan, and Tang Heng.
 - Reward bloc whose large enfeoffments become a target of Li Yun's open remonstrance.
 - Court-favored group whose mortality and honor are later linked to intensified indulgence.
@@ -33,6 +36,7 @@ Hanji 853 then shows the group ecology after its prestige has matured. Shan Chao
 
 ## Evidence
 
+- Secret recruitment and oath: [[zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx|Hanji 847]] says Huan first consults Tang Heng, receives the names Shan Chao, Zuo Guan, Xu Huang, and Ju Yuan, and binds the five close attendants through a blood oath against Liang Ji.
 - Founding membership: [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|Hanji 848]] names Shan Chao, Xu Huang, Ju Yuan, Zuo Guan, and Tang Heng as the five eunuchs rewarded as county marquises after Liang Ji's fall.
 - Coup contribution: [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|Hanji 848]] says Huan plots with five eunuchs and then moves through palace control, guards, and seal seizure against Liang Ji.
 - Reward scale: [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|Hanji 848]] says Shan Chao receives 20,000 households while the other four receive 10,000 each.
@@ -45,22 +49,23 @@ Hanji 853 then shows the group ecology after its prestige has matured. Shan Chao
 
 ## Qualifications
 
-The bounded evidence now gives a founding membership list, reward scale, remonstrance critique, burial-honor layer, and local-predation layer. It still does not reconstruct later biographies of every marquis. Hou Lan and Duan Gui appear in the same eunuch-favorite ecology, but this page does not assume they are members of the Five Marquises unless a source says so.
+The bounded evidence now gives a secret-oath layer, founding membership list, reward scale, remonstrance critique, burial-honor layer, and local-predation layer. It still does not reconstruct later biographies of every marquis. Hanji 847 transcript variants are normalized to the same five established routes used by Hanji 848. Hou Lan and Duan Gui appear in the same eunuch-favorite ecology, but this page does not assume they are members of the Five Marquises unless a source says so.
 
 ## What Changed
 
-- Hanji 848 adds the founding coup role, named membership list, household grants, and Zuo Guan/Tang Heng promotion detail.
+- Hanji 847 adds the pre-founding recruitment, Tang Heng's first-confidant role, and the oath scene before the coup.
+- Hanji 848 remains the founding coup role, named membership list, household grants, and Zuo Guan/Tang Heng promotion detail.
 - Added Hanji 850 as the founding reward layer before the Hanji 853 death, arrogance, and local-predation evidence.
 - Reframed Li Yun's memorial as an early critique of the group's reward scale and political cost.
 - Replaced the old membership caveat with a narrower biography caveat now that Hanji 848 gives the five names.
 
 ## Relationships
 
-- [[ShanChaoLateHan|单超]] - named marquis whose large reward and later lavish burial anchor both evidence layers.
+- [[TangHengLateHan|唐衡]] - first confidant who identifies the other anti-Liang palace insiders for Huan.
+- [[ShanChaoLateHan|单超]] - oath participant and named marquis whose large reward and later lavish burial anchor multiple evidence layers.
 - [[XuHuangLateHan|徐璜]] - named founding marquis who later appears in reward-gatekeeping and kinship-protection evidence.
 - [[JuYuanLateHan|具瑗]] - named founding marquis whose coup role is concentrated in Hanji 848.
 - [[ZuoGuanLateHan|左悺]] - named marquis whose brother Zuo Sheng creates Zhao Qi's office-shame branch.
-- [[TangHengLateHan|唐衡]] - named marquis whose brother Tang Xuan becomes Zhao Qi's persecutor.
 - [[LiYunLateHan|李云]] - remonstrant who criticizes the group's reward scale after Liang Ji's fall.
 - [[ZuoShengLateHan|左胜]] - family-linked local superior who makes Zhao Qi resign.
 - [[TangXuanLateHan|唐玹]] - family-linked Jingzhao official whose retaliation destroys Zhao Qi's household.

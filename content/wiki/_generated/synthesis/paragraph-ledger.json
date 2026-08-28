@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "0d43e161d018fc8d8ffa2d14763f23ed7c9ce12aabfc833f3a7225da8e67fa43",
       "1a835a7f2e41759d288edaf800052c632a059d72844054f9df462eab42289bca",
       "320242c9eea04a979200c9a9385b1f2f6e7fe8e6f79105288342e2949eada089",
       "017b81fbb9c9fa7892ac971f5956bc964404afdac15893b5b3d32932ff0e786d",
@@ -327,11 +328,44 @@
       "ffc63951f0c9ebb1bdb0d92982d5f65f57bbe4a7f7a359f38dcd33423bb288c2",
       "41cadfb91ef6894bc7d9cd5c4e55012480b0225b71a6a027d18e9565e8357c0c"
     ],
-    "paragraph_count": 325
+    "paragraph_count": 326
   },
-  "overview_commit": "eb139211fd665360e2bcf7b1355b7ba44d831d7b",
-  "overview_digest": "ec8e3c6c119d40da6c03392738f06248e0e4671e9ee8a56041a23b862bbed222",
+  "overview_commit": "fa103c6ca4c16efb2403959e2a56ab37d0223b9c",
+  "overview_digest": "fc8cdc02ecebb2474a1427f1f6d9e621b1a6d35ff8278ca1cf7485e7ec080b72",
   "paragraphs": [
+    {
+      "id": "0d43e161d018fc8d8ffa2d14763f23ed7c9ce12aabfc833f3a7225da8e67fa43",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics",
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx|《资治通鉴·汉纪》847丨女人变得好命，从懂得这俩字开始]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 159 CE household, harem, and secret-recruitment prelude immediately before [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|Hanji 848]]. It adds [[XuanDengMotherLateHan|萱]], [[BingZunLateHan|秉尊]], and [[RelationshipSelectionAgency|择人与环境选择]], while extending [[LiangJiLateHan|梁冀]], [[SunShouLateHan|孙寿]], [[EmpressDengHuanLateHan|邓皇后]], [[EmperorHuanOfHan|汉桓帝]], [[TangHengLateHan|唐衡]], [[ShanChaoLateHan|单超]], [[FiveMarquisesHuanEra|桓帝五侯]], [[OuterRelativeCourtPower|外戚专权与清算]], [[PalaceProximityPower|宫廷近身权力]], and [[PalaceCoupSymbolControl|宫廷政变中的符印与门户控制]]. Its core synthesis is that the anti-Liang coup starts before visible seal-and-guard control: Sun Shou turns household power and harem placement into a Liang-family strategy, Liang's adoption pressure and attack on Xuan's household create the trigger, and Huan survives Liang's surveillance by choosing palace insiders and binding them through a secret oath. Hanji 847 creates an apparent trigger tension with Hanji 848 because Xuan survives the assassination attempt here while the Hanji 848 source note reports or compresses her as killed.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "BingZunLateHan",
+        "EmperorHuanOfHan",
+        "EmpressDengHuanLateHan",
+        "FiveMarquisesHuanEra",
+        "LiangJiLateHan",
+        "OuterRelativeCourtPower",
+        "PalaceCoupSymbolControl",
+        "PalaceProximityPower",
+        "RelationshipSelectionAgency",
+        "RuiqiJiangtouZizhiTongjian",
+        "ShanChaoLateHan",
+        "SunShouLateHan",
+        "TangHengLateHan",
+        "XuanDengMotherLateHan",
+        "zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx",
+        "zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0"
+      ]
+    },
     {
       "id": "1a835a7f2e41759d288edaf800052c632a059d72844054f9df462eab42289bca",
       "primary_topic": "governance-and-institutions",
