@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 8098
+wiki_total_pages: 8105
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -959,6 +959,9 @@ wiki_pages:
   - key: "HuFangLateHan"
     title: "胡方 / Hu Fang (late Han)"
     url: "/wiki/entities/hufanglatehan/"
+  - key: "HuWuTaiyuanLateHan"
+    title: "胡武 / Hu Wu (Taiyuan, late Han)"
+    url: "/wiki/entities/huwutaiyuanlatehan/"
   - key: "HuWuZhangChu"
     title: "胡武 / Hu Wu (Zhang Chu)"
     url: "/wiki/entities/huwuzhangchu/"
@@ -998,6 +1001,12 @@ wiki_pages:
   - key: "HandanShangLateHan"
     title: "邯郸商 / Handan Shang (late Han)"
     url: "/wiki/entities/handanshanglatehan/"
+  - key: "HaoJieTaiyuanLateHan"
+    title: "郝杰 / Hao Jie (Taiyuan, late Han)"
+    url: "/wiki/entities/haojietaiyuanlatehan/"
+  - key: "HaoMengDongjunLateHan"
+    title: "郝猛 / Hao Meng (Dong Commandery, late Han)"
+    url: "/wiki/entities/haomengdongjunlatehan/"
   - key: "HaoMeng"
     title: "郝萌 / Hao Meng"
     url: "/wiki/entities/haomeng/"

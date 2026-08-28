@@ -12411,6 +12411,10 @@
     "title": "崔烈 / Cui Lie (late Han)",
     "url": "/wiki/entities/cuilielatehan/"
   },
+  "CuiQiLateHan": {
+    "title": "崔琦 / Cui Qi (late Han)",
+    "url": "/wiki/entities/cuiqilatehan/"
+  },
   "CuiYanLateHan": {
     "title": "崔琰 / Cui Yan (late Han)",
     "url": "/wiki/entities/cuiyanlatehan/"
@@ -19775,6 +19779,10 @@
     "title": "耿鄙 / Geng Bi (late Han)",
     "url": "/wiki/entities/gengbilatehan/"
   },
+  "GengChengLinruHouLateHan": {
+    "title": "耿承 / Geng Cheng (Linru marquis, late Han)",
+    "url": "/wiki/entities/gengchenglinruhoulatehan/"
+  },
   "GengWuLateHan": {
     "title": "耿武 / Geng Wu (late Han)",
     "url": "/wiki/entities/gengwulatehan/"
@@ -21643,9 +21651,17 @@
     "title": "Hanzi Transdialectal Function",
     "url": "/wiki/concepts/hanzitransdialectalfunction/"
   },
+  "HaoJieTaiyuanLateHan": {
+    "title": "郝杰 / Hao Jie (Taiyuan, late Han)",
+    "url": "/wiki/entities/haojietaiyuanlatehan/"
+  },
   "HaoMeng": {
     "title": "郝萌 / Hao Meng",
     "url": "/wiki/entities/haomeng/"
+  },
+  "HaoMengDongjunLateHan": {
+    "title": "郝猛 / Hao Meng (Dong Commandery, late Han)",
+    "url": "/wiki/entities/haomengdongjunlatehan/"
   },
   "Haoda": {
     "title": "豪大",
@@ -23054,6 +23070,10 @@
   "HuWencaiLateHan": {
     "title": "胡文才 / Hu Wencai (late Han)",
     "url": "/wiki/entities/huwencailatehan/"
+  },
+  "HuWuTaiyuanLateHan": {
+    "title": "胡武 / Hu Wu (Taiyuan, late Han)",
+    "url": "/wiki/entities/huwutaiyuanlatehan/"
   },
   "HuWuZhangChu": {
     "title": "胡武 / Hu Wu (Zhang Chu)",
@@ -36296,7 +36316,7 @@
     "url": "/wiki/concepts/outdoorvehiclelifestyledesign/"
   },
   "OuterRelativeCourtPower": {
-    "title": "外戚专权与清算 / Outer-Relative Court Power and Purge",
+    "title": "外戚专权与清算 / Outer-Relative Court Power",
     "url": "/wiki/concepts/outerrelativecourtpower/"
   },
   "OutlierDrivenAngelInvesting": {
@@ -41358,6 +41378,10 @@
   "RetainerRiskConversion": {
     "title": "Retainer Risk Conversion / 门客风险转化",
     "url": "/wiki/concepts/retainerriskconversion/"
+  },
+  "RetaliatoryPoliticalTerror": {
+    "title": "报复性政治恐怖 / Retaliatory Political Terror",
+    "url": "/wiki/concepts/retaliatorypoliticalterror/"
   },
   "RetirementCashFlowSecurity": {
     "title": "Retirement Cash-Flow Security",
@@ -52855,6 +52879,10 @@
     "title": "武涉 / Wu She",
     "url": "/wiki/entities/wushe/"
   },
+  "WuShuWanMagistrateLateHan": {
+    "title": "吴树 / Wu Shu (Wan magistrate, late Han)",
+    "url": "/wiki/entities/wushuwanmagistratelatehan/"
+  },
   "WuShubin": {
     "title": "吴淑彬 / Wu Shubin",
     "url": "/wiki/entities/wushubin/"
@@ -55026,6 +55054,10 @@
   "YuanZhang": {
     "title": "袁掌 / Yuan Zhang",
     "url": "/wiki/entities/yuanzhang/"
+  },
+  "YuanZhuRemonstrantLateHan": {
+    "title": "袁著 / Yuan Zhu (late Han remonstrant)",
+    "url": "/wiki/entities/yuanzhuremonstrantlatehan/"
   },
   "Yuanbao": {
     "title": "Yuanbao",
@@ -60654,6 +60686,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-846-bahu-jiangjun-bingshan-yijiao-de-fanzui-jilu-lv7fbvoqr1nureqgvwiwixjyk4pq": {
+    "title": "《资治通鉴·汉纪》846丨“跋扈将军”冰山一角的犯罪记录",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-846-bahu-jiangjun-bingshan-yijiao-de-fanzui-jilu-lv7fbvoqr1nureqgvwiwixjyk4pq/"
   },
   "zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx": {
     "title": "《资治通鉴·汉纪》847丨女人变得好命，从懂得这俩字开始",

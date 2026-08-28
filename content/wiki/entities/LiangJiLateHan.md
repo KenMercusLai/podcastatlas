@@ -1,76 +1,66 @@
 ---
 title: "梁冀 / Liang Ji (late Han)"
 type: entity
-tags: [person, late-han, liang-clan, court-politics, political-persecution]
+knowledge_schema: synthesis-v1
+tags: [han, eastern-han, liang-family, outer-relatives, court-politics, coup, political-terror]
 sources:
   - zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij
   - zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0
   - zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx
+  - zizhi-tongjian-hanji-846-bahu-jiangjun-bingshan-yijiao-de-fanzui-jilu-lv7fbvoqr1nureqgvwiwixjyk4pq
 last_updated: 2026-08-28
-knowledge_schema: synthesis-v1
 ---
 
 ## Overview
-
-梁冀 / Liang Ji is the late-Han outer-relative power holder whose bounded profile now has a household prelude, a coup defeat, and a later memory layer. [[zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx|Hanji 847]] shows Liang power operating through [[SunShouLateHan|Sun Shou]], harem placement, attempted adoption or surname absorption, and violence against Deng Meng's natal household. [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|Hanji 848]] then shows [[EmperorHuanOfHan|Emperor Huan]] destroying Liang's household, family network, property base, and symbolic status. [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]] preserves the earlier [[LiGuLateHan|Li Gu]] disaster and the residual danger of speaking about Liang after his death.
+梁冀 is the late-Eastern-Han outer-relative powerholder whose dominance spans criminal intimidation, household politics, palace succession, and eventual coup defeat. The page currently treats him as a system node: his clan, household, retainers, and offices turn private grievance into public administration until [[EmperorHuanOfHan|Emperor Huan]] moves through a closed palace channel.
 
 ## Current Profile
+[[zizhi-tongjian-hanji-846-bahu-jiangjun-bingshan-yijiao-de-fanzui-jilu-lv7fbvoqr1nureqgvwiwixjyk4pq|Hanji 846]] backfills the crime-record layer behind the later coup. Liang's household is described as having seven marquises, three empresses, six guiren, two generals-in-chief, and dozens of senior officeholders; this office saturation is paired with palace surveillance, first pick of tribute goods, and protection for predatory retainers. In that setting, refusals, legal enforcement, omitted courtesy, warning letters, and resistance over burial property become lethal offenses against [[WuShuWanMagistrateLateHan|吴树]], [[HaoMengDongjunLateHan|郝猛]], [[YuanZhuRemonstrantLateHan|袁著]], [[HuWuTaiyuanLateHan|胡武]], [[HaoJieTaiyuanLateHan|郝杰]], [[GengChengLinruHouLateHan|耿承]], and [[CuiQiLateHan|崔琦]].
 
-The earliest bounded role is Liang Ji as a lethal court-power adversary. Hanji 853 uses him as the structural danger behind Li Gu's fall: Li Gu anticipates household catastrophe after offending Liang Ji and sends his sons away; the subsequent arrests and prison deaths make Liang Ji's power the condition against which [[LiWenjiLateHan|李文姬]] and [[WangChengLiGuStudent|王成]] act.
+[[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]] places Liang in the earlier struggle over [[LiGuLateHan|李固]], where he repeatedly escalates from policy defeat to imprisonment and execution once Li Gu threatens outer-relative control of succession and imperial legitimacy. This makes Liang more than a corrupt noble: he is a court operator who treats upright ministers as structural threats.
 
-Hanji 847 adds the household and harem mechanism before the collapse. Liang dominates the court but fears Sun Shou inside the household. Sun Shou discovers and punishes his outside mistress, then appears as a style-setting and harem-channel actor who helps send Deng Meng toward Emperor Huan. Liang tries to make Deng Meng part of the Liang identity through adoption or surname change, but [[BingZunLateHan|Bing Zun]] warns [[XuanDengMotherLateHan|Xuan]] not to accept the plan. Liang kills Bing Zun and moves against Xuan, turning household absorption into the immediate crisis that gives Huan a reason to conspire.
+[[zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx|Hanji 847]] turns that public power inward, showing the Liang household as a political machine whose own sexual jealousy and kinship coercion destabilize the imperial center. [[SunShouLateHan|Sun Shou]] and [[EmpressDengHuanLateHan|Empress Deng Huan]] help create the household crisis that gives [[EmperorHuanOfHan|Emperor Huan]] both motive and room to prepare a strike.
 
-Hanji 848 supplies the collapse itself. The source note compresses the Xuan trigger as Liang having Deng Meng's mother assassinated, then shows Liang sending Zhang Yun into the palace to monitor [[ShanChaoLateHan|单超]] and the other suspected eunuchs. The move fails when [[JuYuanLateHan|具瑗]] arrests Zhang Yun, Huan controls the shangshu channel and imperial tallies, and armed guards surround Liang's mansion with Sili xiaowei Zhang Biao. Liang's general-in-chief seal is removed, and Liang plus Sun Shou die by suicide on the same day.
-
-The purge then turns Liang from a personal enemy into a whole-network target. Huan arrests and executes Liang and Sun relatives, removes senior officials who had depended on Liang, dismisses hundreds of Liang's old clerks and guests, sells Liang property into the treasury, halves the year's national land tax, distributes occupied gardens to commoners, and downgrades the former Liang empress's tomb identity. Hanji 853 uses this death as an incomplete release valve: [[LiXieLateHan|李燮]] can disclose his identity and return home only after Liang Ji is killed, yet Li Wenji still warns him not to criticize the Liang family because the political meaning of the earlier purge can still touch Huan.
+[[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|Hanji 848]] then records the terminal phase: Emperor Huan secretly aligns with eunuch officials, seals palace communications, seizes symbols of command, coerces Liang into suicide, and abolishes the wider Liang office network. Liang's fall becomes the hinge that moves late-Han court politics from outer-relative dominance to eunuch-centered power.
 
 ## Key Characteristics
-
-- Late-Han outer-relative power holder whose conflict with Li Gu creates a family-extermination danger.
-- Household and harem strategist whose power runs through Sun Shou, Deng Meng, adoption or surname absorption, and natal-family intimidation.
-- Coup target whose own palace-monitoring move fails once Huan controls inner-palace access and symbols of command.
-- Household collapse case in which Liang and Sun Shou die after the general-in-chief seal is removed.
-- Network-purge target whose relatives, allies, clerks, guests, property, gardens, and symbolic status are liquidated.
-- Political reference point that Li Wenji still treats as dangerous after death.
-- Bridge from Liang-clan dominance to the Huan-era eunuch-marquis reward field.
+- Outer-relative powerholder whose clan saturation in marquisates, harem ranks, military command, and senior offices makes household status inseparable from state administration.
+- Retaliatory-terror actor who converts refusal, warning, lawful enforcement, omission of courtesy, and property resistance into poisoning, beatings, executions, and family liability.
+- Court operator who escalates factional contest over succession into ministerial imprisonment and execution, especially against [[LiGuLateHan|Li Gu]].
+- Household ruler whose private kinship and sexual politics spill into imperial succession and motivate [[EmperorHuanOfHan|Emperor Huan]].
+- Coup target whose defeat requires secrecy, palace communication control, command-symbol seizure, and rapid liquidation of clan offices.
+- Late-Han memory figure associated with the shift from outer-relative domination to eunuch ascendancy.
 
 ## Evidence
-
-- Li-family danger: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]] says Li Gu offends Liang Ji, anticipates disaster, and sends his sons away.
-- Prison outcome: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]] says Li Gu and the elder sons die in prison while Li Xie survives in hiding.
-- Household and harem channel: [[zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx|Hanji 847]] says Liang fears Sun Shou at home, relies on a palace-favor route through Deng Meng, and tries to make Deng Meng part of the Liang family identity.
-- Natal-family violence: [[zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx|Hanji 847]] says Liang kills Bing Zun after his warning to Xuan and then tries to kill Xuan, producing the crisis that reaches Huan.
-- Coup trigger and monitoring failure: [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|Hanji 848]] says Liang has Deng Meng's mother killed, sends Zhang Yun into the palace to monitor the eunuchs, and loses that inside line when Ju Yuan arrests Zhang Yun.
-- Symbol and force defeat: [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|Hanji 848]] says Huan controls shangshu, palace guard, seals, tallies, and troops before Liang's mansion is surrounded and his general-in-chief seal is taken.
-- Household end: [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|Hanji 848]] says Liang and Sun Shou die by suicide on the day the coup reaches his mansion.
-- Network liquidation: [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|Hanji 848]] says Liang-Sun relatives, dependent senior officials, former clerks, and guests are executed, removed, or dismissed.
-- Property and symbolic cleanup: [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|Hanji 848]] says Liang property is sold, tax is remitted, gardens are distributed, and the former Liang empress's tomb status is demoted.
-- Return window: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]] says Li Xie dares to disclose his identity and return only after Liang Ji is killed.
-- Residual caution: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]] says Li Wenji warns Li Xie not to criticize the Liang clan because doing so can still implicate the emperor and invite danger.
+- Family and office saturation: [[zizhi-tongjian-hanji-846-bahu-jiangjun-bingshan-yijiao-de-fanzui-jilu-lv7fbvoqr1nureqgvwiwixjyk4pq|Hanji 846]] describes the Liang clan's dense mix of marquisates, imperial consorts, generals-in-chief, and senior officeholders as the scale behind Liang's public impunity.
+- Palace and resource control: [[zizhi-tongjian-hanji-846-bahu-jiangjun-bingshan-yijiao-de-fanzui-jilu-lv7fbvoqr1nureqgvwiwixjyk4pq|Hanji 846]] presents eunuch-spy surveillance and first selection of tribute goods as everyday signs that Liang's household can outrank ordinary court procedure.
+- Retainer, official, and remonstrant retaliation: [[zizhi-tongjian-hanji-846-bahu-jiangjun-bingshan-yijiao-de-fanzui-jilu-lv7fbvoqr1nureqgvwiwixjyk4pq|Hanji 846]] links [[WuShuWanMagistrateLateHan|吴树]], [[HaoMengDongjunLateHan|郝猛]], [[YuanZhuRemonstrantLateHan|袁著]], and [[CuiQiLateHan|崔琦]] to a pattern in which administrative resistance or criticism becomes a capital danger.
+- Family and property coercion: [[zizhi-tongjian-hanji-846-bahu-jiangjun-bingshan-yijiao-de-fanzui-jilu-lv7fbvoqr1nureqgvwiwixjyk4pq|Hanji 846]] treats [[HuWuTaiyuanLateHan|胡武]], [[HaoJieTaiyuanLateHan|郝杰]], and [[GengChengLinruHouLateHan|耿承]] as cases where old grievance or property refusal expands into household extermination or self-sacrifice.
+- Succession and upright-minister conflict: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]] shows Liang using confinement and execution to neutralize [[LiGuLateHan|Li Gu]] after succession politics threatens Liang-family control.
+- Household crisis and coup motive: [[zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx|Hanji 847]] makes [[SunShouLateHan|Sun Shou]] and [[EmpressDengHuanLateHan|Empress Deng Huan]] central to the domestic escalation that opens the anti-Liang opportunity.
+- Terminal liquidation: [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|Hanji 848]] records the palace coup, Liang's suicide, and the removal of many Liang-family officeholders.
 
 ## Qualifications
-
-Hanji 847 supplies the household, harem, and natal-family prelude; Hanji 848 supplies the fall and purge; Hanji 853 supplies the later memory and Li-family survival angle. Hanji 847 says Xuan survives Liang's assassination attempt, while the Hanji 848 source note compresses or reports the trigger as her being killed. The page treats that as a source tension rather than a settled contradiction. The raw notes write 梁继; this page normalizes the route to 梁冀 because the Li Gu and Huan-era chronology match the received late-Han sequence.
+The numeric portrait of Liang clan saturation and the victim chain are currently source-scoped to [[zizhi-tongjian-hanji-846-bahu-jiangjun-bingshan-yijiao-de-fanzui-jilu-lv7fbvoqr1nureqgvwiwixjyk4pq|Hanji 846]] and should not be generalized beyond that episode without additional source support. The existing sequence tension remains: [[zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx|Hanji 847]] makes Xuan survive a failed assassination attempt and trigger Emperor Huan's anti-Liang timing, while [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|Hanji 848]] compresses the lead-up by treating Xuan as killed before the plan begins. Hanji 846 stops before that point.
 
 ## What Changed
-
-- Hanji 847 adds Liang's household, harem-placement, adoption or surname strategy, and failed-Xuan-assassination prelude.
-- Hanji 848 backfills Liang Ji's 159 CE overthrow, suicide, family purge, property confiscation, and symbolic erasure.
-- The profile now treats Liang as an outer-relative network-power case, not only as Li Gu's background adversary.
-- Hanji 853's Li Xie return window is now placed after the full purge while preserving Li Wenji's residual-caution warning.
+- Hanji 846 adds the direct crime-record layer behind Liang's later fall: family-office saturation, palace surveillance, tribute preemption, retainer shielding, and repeated retaliation.
+- Hanji 847 reframes Liang's fall as emerging from household and harem politics, not only impersonal factional struggle.
+- Hanji 848 makes the anti-Liang move a controlled palace coup whose success depends on communications, command tokens, and rapid office purge.
+- Hanji 853 adds the earlier Li Gu succession struggle as evidence that Liang's coercive pattern predates the 159 CE household crisis.
 
 ## Relationships
-
-- [[LiGuLateHan|李固]] - official whose conflict with Liang Ji triggers the family disaster.
-- [[LiXieLateHan|李燮]] - surviving son whose return becomes possible only after Liang Ji's death.
-- [[SunShouLateHan|孙寿]] - wife who controls Liang at home, channels Deng Meng into palace favor, and dies with Liang after the coup.
-- [[EmpressDengHuanLateHan|邓皇后]] - favorite whom Liang tries to absorb through adoption or surname strategy.
-- [[XuanDengMotherLateHan|萱]] - Deng Meng's mother and failed assassination target whose survival triggers Huan's action.
-- [[BingZunLateHan|秉尊]] - warning voice whom Liang kills after resistance to the adoption plan.
-- [[JuYuanLateHan|具瑗]] - eunuch executor who arrests Liang's monitor and helps surround Liang's mansion.
-- [[LiWenjiLateHan|李文姬]] - household strategist who understands Liang-clan criticism remains dangerous.
-- [[EmperorHuanOfHan|汉桓帝]] - ruler who destroys Liang's network but later remains sensitive to its political memory.
-- [[FiveMarquisesHuanEra|桓帝五侯]] - eunuch-reward group created from the actors who help remove Liang Ji.
-- [[OuterRelativeCourtPower|外戚专权与清算]] - concept grounded by Liang's family, office, property, and symbolic liquidation.
-- [[PalaceCoupSymbolControl|宫廷政变中的符印与门户控制]] - mechanism by which Huan makes Liang's formal power unusable.
-- [[MingqiLegitimacy|名器合法性]] - broader title-and-access context behind Li Gu's remembered succession conflict.
+- [[EmperorHuanOfHan]] - imperial counterparty whose silence, delay, and secret coup respond to Liang's pervasive power.
+- [[SunShouLateHan]] - household partner whose jealousy and factional action deepen Liang-family exposure.
+- [[EmpressDengHuanLateHan]] - harem casualty whose removal helps transform household conflict into imperial retaliation.
+- [[LiGuLateHan]] - upright minister whom Liang treats as a succession and legitimacy threat.
+- [[WuShuWanMagistrateLateHan]] - local official killed after enforcing law against Liang's protected guests.
+- [[HaoMengDongjunLateHan]] - appointee killed after failing to perform expected deference to Liang.
+- [[YuanZhuRemonstrantLateHan]] - young remonstrant hunted and killed after urging Liang to reduce power.
+- [[HuWuTaiyuanLateHan]] - Taiyuan associate whose household is destroyed after Liang revives an old recommendation grievance.
+- [[HaoJieTaiyuanLateHan]] - Taiyuan associate who sacrifices himself at Liang's gate to avert family destruction.
+- [[GengChengLinruHouLateHan]] - marquis killed with relatives after resisting Liang's demand for burial goods.
+- [[CuiQiLateHan]] - writer pursued and killed after admonitory essays and direct criticism.
+- [[OuterRelativeCourtPower]] - broader institutional pattern in which marital kinship becomes control over offices, palace access, and succession.
+- [[RetaliatoryPoliticalTerror]] - coercive method Liang uses to make correction and refusal personally dangerous.
+- [[PalaceCoupSymbolControl]] - operational logic used to defeat Liang after ordinary correction channels fail.

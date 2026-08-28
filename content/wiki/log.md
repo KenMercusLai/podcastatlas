@@ -12773,6 +12773,7 @@ Added source page for a Huberman Lab solo Q&A with Andrew Huberman on late-night
 
 Ran lint. See lint-report.md for details.
 
+
 ## [2026-08-28] lint | Wiki health check
 
 Ran health, identity validation, and lint. Health scanned 15,306 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-22 with 12,882 nodes and 149,964 edges while the current lint scan covered 15,306 pages, so fragile-bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because the model/provider and API credentials were not configured in the shell; report returned in-session and `wiki/lint-report.md` was not updated.
@@ -12979,6 +12980,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-28] ingest | Can the AI Industry Regulate Itself? Stripe Wants PayPal, China Catches Up, NY Bans Datacenters
 
 Ingested the July 18 All-In episode on AI self-regulation, Stripe/PayPal payments consolidation, AI privacy, data-center moratorium politics, China competition, and AlphaFold-enabled aging science. Created source note, FINRA, Block Inc., Advent International, Revel Pharma, Alternative Payment Stack Consolidation, and Extracellular Aging Enzyme Therapy pages; updated AI Industry Self-Regulation, AI Regulatory Capture Risk, Hyperscale Data Center Moratorium, Data Center Onsite Power, AI Professional Data Security, Private Equity AI Transformation, Enterprise AI ROI Audit, AI Protein Design, AlphaFold, Demis Hassabis, Stripe, PayPal, index, and overview.
+
+## [2026-08-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-28] ingest | 《资治通鉴·汉纪》846丨“跋扈将军”冰山一角的犯罪记录
+
+Ingested Hanji 846 as the pre-coup Liang Ji crime-record layer. Created the source note, Wu Shu, Hao Meng (Dong Commandery), Yuan Zhu, Hu Wu (Taiyuan), Hao Jie, Geng Cheng, Cui Qi, and Retaliatory Political Terror pages; updated Liang Ji, Outer-Relative Court Power, index, and overview. No settled contradiction found; the source does not resolve the existing Hanji 847-848 Xuan trigger tension and disambiguates 郝猛 from 郝萌 and Taiyuan 胡武 from Zhang Chu 胡武.
 
 ## [2026-08-28] lint | Wiki health check
 

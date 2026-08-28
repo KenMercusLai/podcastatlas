@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 5816
+wiki_total_pages: 5817
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -504,7 +504,7 @@ wiki_pages:
     title: "口述记忆分析 / Oral History Memory Analysis"
     url: "/wiki/concepts/oralhistorymemoryanalysis/"
   - key: "OuterRelativeCourtPower"
-    title: "外戚专权与清算 / Outer-Relative Court Power and Purge"
+    title: "外戚专权与清算 / Outer-Relative Court Power"
     url: "/wiki/concepts/outerrelativecourtpower/"
   - key: "OfficialLearningMonopoly"
     title: "学在王官式知识垄断 / Official Learning Monopoly"

@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "c3fb1a3a4e1a94d58e4b2805c29c0240cebf7caa55687894bbdd60d21f91db3e",
       "b45f623d7ac4d58f277199d282bb593706f3ed34dcd1726ef63883b3bfd936d1",
       "0d43e161d018fc8d8ffa2d14763f23ed7c9ce12aabfc833f3a7225da8e67fa43",
       "1a835a7f2e41759d288edaf800052c632a059d72844054f9df462eab42289bca",
@@ -329,11 +330,45 @@
       "ffc63951f0c9ebb1bdb0d92982d5f65f57bbe4a7f7a359f38dcd33423bb288c2",
       "41cadfb91ef6894bc7d9cd5c4e55012480b0225b71a6a027d18e9565e8357c0c"
     ],
-    "paragraph_count": 327
+    "paragraph_count": 328
   },
-  "overview_commit": "3440f1aa201a32638e04f131475cdb74a1a66710",
-  "overview_digest": "1e649168497f000d40c2e3d5dec201d518bca4f1f135f76acd1d26d2f10ff323",
+  "overview_commit": "e1eec4f61e87ec96f99a630cf946f4b679978fc4",
+  "overview_digest": "3492d5b247731a4035d66967f7f4ec6bb880b52f23fb15107fb20aed633441a5",
   "paragraphs": [
+    {
+      "id": "c3fb1a3a4e1a94d58e4b2805c29c0240cebf7caa55687894bbdd60d21f91db3e",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-846-bahu-jiangjun-bingshan-yijiao-de-fanzui-jilu-lv7fbvoqr1nureqgvwiwixjyk4pq|《资治通鉴·汉纪》846丨“跋扈将军”冰山一角的犯罪记录]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the Liang Ji crime-record layer immediately before [[zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx|Hanji 847]] and [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|Hanji 848]]. It adds [[WuShuWanMagistrateLateHan|吴树]], [[HaoMengDongjunLateHan|郝猛]], [[YuanZhuRemonstrantLateHan|袁著]], [[HuWuTaiyuanLateHan|胡武]], [[HaoJieTaiyuanLateHan|郝杰]], [[GengChengLinruHouLateHan|耿承]], [[CuiQiLateHan|崔琦]], and [[RetaliatoryPoliticalTerror|报复性政治恐怖]], while extending [[LiangJiLateHan|梁冀]], [[EmperorHuanOfHan|汉桓帝]], [[SunShouLateHan|孙寿]], [[EmpressDengHuanLateHan|邓皇后]], [[OuterRelativeCourtPower|外戚专权与清算]], [[CourtFeedbackCollapse|君臣反馈失灵]], and [[CollateralPunishmentAndGuiltByAssociation|牵连与连坐]]. Its core synthesis is that Liang's \"跋扈\" is a system rather than a label: clan offices, palace surveillance, tribute capture, protected retainers, poisoned or executed officials, hunted remonstrants, and family killings make ordinary correction unsafe and explain why Huan's anti-Liang move first appears as silent delay before secret palace action. No settled contradiction is recorded; the episode stops before the Xuan-trigger tension preserved between Hanji 847 and Hanji 848, and keeps 郝猛 distinct from [[HaoMeng|郝萌]] and this 胡武 distinct from [[HuWuZhangChu|张楚胡武]].",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "CollateralPunishmentAndGuiltByAssociation",
+        "CourtFeedbackCollapse",
+        "CuiQiLateHan",
+        "EmperorHuanOfHan",
+        "EmpressDengHuanLateHan",
+        "GengChengLinruHouLateHan",
+        "HaoJieTaiyuanLateHan",
+        "HaoMeng",
+        "HaoMengDongjunLateHan",
+        "HuWuTaiyuanLateHan",
+        "HuWuZhangChu",
+        "LiangJiLateHan",
+        "OuterRelativeCourtPower",
+        "RetaliatoryPoliticalTerror",
+        "RuiqiJiangtouZizhiTongjian",
+        "SunShouLateHan",
+        "WuShuWanMagistrateLateHan",
+        "YuanZhuRemonstrantLateHan",
+        "zizhi-tongjian-hanji-846-bahu-jiangjun-bingshan-yijiao-de-fanzui-jilu-lv7fbvoqr1nureqgvwiwixjyk4pq",
+        "zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx",
+        "zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0"
+      ]
+    },
     {
       "id": "b45f623d7ac4d58f277199d282bb593706f3ed34dcd1726ef63883b3bfd936d1",
       "primary_topic": "governance-and-institutions",
