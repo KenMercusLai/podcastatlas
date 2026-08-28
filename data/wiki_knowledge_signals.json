@@ -6678,9 +6678,9 @@
       "url": "/wiki/concepts/emotionsasfunctionalcontrolstates/"
     },
     "EmperorHuanOfHan": {
-      "episode_count": 24,
+      "episode_count": 25,
       "show_count": 1,
-      "source_note_count": 24,
+      "source_note_count": 25,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》901 丨急性子的人会是什么下场？ [lh1yfyJZqPTXVtnV9tAiQms9YjUd].md",
@@ -6849,6 +6849,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》838丨贪婪的诱惑，让他狂飙在作死的路上",
           "url": "/wiki/sources/zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》836丨兄弟反目背后：儒者和奸臣的交锋 [lq9wJN5C8Mwt-OnRtSlUm4Fw53EQ].md",
+          "key": "zizhi-tongjian-hanji-836-xiongdi-fanmu-beihou-ruzhe-he-jianchen-de-jiaofeng-lq9wjn5c8mwt-onrtslum4fw53eq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》836丨兄弟反目背后：儒者和奸臣的交锋",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-836-xiongdi-fanmu-beihou-ruzhe-he-jianchen-de-jiaofeng-lq9wjn5c8mwt-onrtslum4fw53eq/"
         }
       ],
       "updated": "2026-08-28",
@@ -12926,10 +12933,26 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/liyunlatehan/"
     },
-    "LiangJiLateHan": {
-      "episode_count": 7,
+    "LiangBuyiLateHan": {
+      "episode_count": 1,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》836丨兄弟反目背后：儒者和奸臣的交锋 [lq9wJN5C8Mwt-OnRtSlUm4Fw53EQ].md",
+          "key": "zizhi-tongjian-hanji-836-xiongdi-fanmu-beihou-ruzhe-he-jianchen-de-jiaofeng-lq9wjn5c8mwt-onrtslum4fw53eq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》836丨兄弟反目背后：儒者和奸臣的交锋",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-836-xiongdi-fanmu-beihou-ruzhe-he-jianchen-de-jiaofeng-lq9wjn5c8mwt-onrtslum4fw53eq/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/liangbuyilatehan/"
+    },
+    "LiangJiLateHan": {
+      "episode_count": 8,
+      "show_count": 1,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿” [lvSA2pby8IyfEvfooBoBpIK52MiJ].md",
@@ -12979,6 +13002,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》838丨贪婪的诱惑，让他狂飙在作死的路上",
           "url": "/wiki/sources/zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》836丨兄弟反目背后：儒者和奸臣的交锋 [lq9wJN5C8Mwt-OnRtSlUm4Fw53EQ].md",
+          "key": "zizhi-tongjian-hanji-836-xiongdi-fanmu-beihou-ruzhe-he-jianchen-de-jiaofeng-lq9wjn5c8mwt-onrtslum4fw53eq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》836丨兄弟反目背后：儒者和奸臣的交锋",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-836-xiongdi-fanmu-beihou-ruzhe-he-jianchen-de-jiaofeng-lq9wjn5c8mwt-onrtslum4fw53eq/"
         }
       ],
       "updated": "2026-08-28",
@@ -14389,6 +14419,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/maridilatehan/"
+    },
+    "MaRongLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》836丨兄弟反目背后：儒者和奸臣的交锋 [lq9wJN5C8Mwt-OnRtSlUm4Fw53EQ].md",
+          "key": "zizhi-tongjian-hanji-836-xiongdi-fanmu-beihou-ruzhe-he-jianchen-de-jiaofeng-lq9wjn5c8mwt-onrtslum4fw53eq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》836丨兄弟反目背后：儒者和奸臣的交锋",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-836-xiongdi-fanmu-beihou-ruzhe-he-jianchen-de-jiaofeng-lq9wjn5c8mwt-onrtslum4fw53eq/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/maronglatehan/"
     },
     "MacMini": {
       "episode_count": 2,
@@ -16389,9 +16435,9 @@
       "url": "/wiki/concepts/olfactorytraining/"
     },
     "OmenCodedRemonstrance": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》873丨他如何利用天象痛骂帝王？ [lqEbKOdcbCrSVYf80qWxNobYDbHc].md",
@@ -16399,9 +16445,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》873丨他如何利用天象痛骂帝王？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-873-ta-ruhe-liyong-tianxiang-tongma-diwang-lqebkodcbcrsvyf80qwxnobydbhc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》836丨兄弟反目背后：儒者和奸臣的交锋 [lq9wJN5C8Mwt-OnRtSlUm4Fw53EQ].md",
+          "key": "zizhi-tongjian-hanji-836-xiongdi-fanmu-beihou-ruzhe-he-jianchen-de-jiaofeng-lq9wjn5c8mwt-onrtslum4fw53eq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》836丨兄弟反目背后：儒者和奸臣的交锋",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-836-xiongdi-fanmu-beihou-ruzhe-he-jianchen-de-jiaofeng-lq9wjn5c8mwt-onrtslum4fw53eq/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-28",
       "url": "/wiki/concepts/omencodedremonstrance/"
     },
     "OnPolicyDistillation": {
@@ -16602,9 +16655,9 @@
       "url": "/wiki/concepts/outdoorvehiclelifestyledesign/"
     },
     "OuterRelativeCourtPower": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》848丨瞬间垮台！我为何说他死有余辜？ [lgqVgMxlwga2fKnmtxPj3Ya9chk0].md",
@@ -16640,6 +16693,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》838丨贪婪的诱惑，让他狂飙在作死的路上",
           "url": "/wiki/sources/zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》836丨兄弟反目背后：儒者和奸臣的交锋 [lq9wJN5C8Mwt-OnRtSlUm4Fw53EQ].md",
+          "key": "zizhi-tongjian-hanji-836-xiongdi-fanmu-beihou-ruzhe-he-jianchen-de-jiaofeng-lq9wjn5c8mwt-onrtslum4fw53eq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》836丨兄弟反目背后：儒者和奸臣的交锋",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-836-xiongdi-fanmu-beihou-ruzhe-he-jianchen-de-jiaofeng-lq9wjn5c8mwt-onrtslum4fw53eq/"
         }
       ],
       "updated": "2026-08-28",
@@ -17817,6 +17877,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/punishmentasmoralcredential/"
+    },
+    "PunitiveHairRemovalHumiliation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》836丨兄弟反目背后：儒者和奸臣的交锋 [lq9wJN5C8Mwt-OnRtSlUm4Fw53EQ].md",
+          "key": "zizhi-tongjian-hanji-836-xiongdi-fanmu-beihou-ruzhe-he-jianchen-de-jiaofeng-lq9wjn5c8mwt-onrtslum4fw53eq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》836丨兄弟反目背后：儒者和奸臣的交锋",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-836-xiongdi-fanmu-beihou-ruzhe-he-jianchen-de-jiaofeng-lq9wjn5c8mwt-onrtslum4fw53eq/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/punitivehairremovalhumiliation/"
     },
     "QiXiangdong": {
       "episode_count": 1,
@@ -21561,9 +21637,9 @@
       "url": "/wiki/entities/threeqwar/"
     },
     "ThreeRefusalsIntegrity": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》866丨真正活明白的人，懂得“三不沾” [lhhMmyjfo6MkF-qS6BhHZu8HHLN6].md",
@@ -21571,6 +21647,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》866丨真正活明白的人，懂得“三不沾”",
           "url": "/wiki/sources/zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》836丨兄弟反目背后：儒者和奸臣的交锋 [lq9wJN5C8Mwt-OnRtSlUm4Fw53EQ].md",
+          "key": "zizhi-tongjian-hanji-836-xiongdi-fanmu-beihou-ruzhe-he-jianchen-de-jiaofeng-lq9wjn5c8mwt-onrtslum4fw53eq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》836丨兄弟反目背后：儒者和奸臣的交锋",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-836-xiongdi-fanmu-beihou-ruzhe-he-jianchen-de-jiaofeng-lq9wjn5c8mwt-onrtslum4fw53eq/"
         }
       ],
       "updated": "2026-08-28",
@@ -21656,6 +21739,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/tiankailatehan/"
+    },
+    "TianMingLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》836丨兄弟反目背后：儒者和奸臣的交锋 [lq9wJN5C8Mwt-OnRtSlUm4Fw53EQ].md",
+          "key": "zizhi-tongjian-hanji-836-xiongdi-fanmu-beihou-ruzhe-he-jianchen-de-jiaofeng-lq9wjn5c8mwt-onrtslum4fw53eq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》836丨兄弟反目背后：儒者和奸臣的交锋",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-836-xiongdi-fanmu-beihou-ruzhe-he-jianchen-de-jiaofeng-lq9wjn5c8mwt-onrtslum4fw53eq/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/tianminglatehan/"
     },
     "TianShengLateHan": {
       "episode_count": 2,
@@ -24391,9 +24490,9 @@
       "url": "/wiki/entities/yangbiao/"
     },
     "YangBingLateHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》866丨真正活明白的人，懂得“三不沾” [lhhMmyjfo6MkF-qS6BhHZu8HHLN6].md",
@@ -24429,6 +24528,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》851丨汉桓帝为何注定遗臭万年？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》836丨兄弟反目背后：儒者和奸臣的交锋 [lq9wJN5C8Mwt-OnRtSlUm4Fw53EQ].md",
+          "key": "zizhi-tongjian-hanji-836-xiongdi-fanmu-beihou-ruzhe-he-jianchen-de-jiaofeng-lq9wjn5c8mwt-onrtslum4fw53eq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》836丨兄弟反目背后：儒者和奸臣的交锋",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-836-xiongdi-fanmu-beihou-ruzhe-he-jianchen-de-jiaofeng-lq9wjn5c8mwt-onrtslum4fw53eq/"
         }
       ],
       "updated": "2026-08-28",

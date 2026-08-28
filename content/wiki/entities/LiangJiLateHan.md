@@ -11,14 +11,17 @@ sources:
   - zizhi-tongjian-hanji-845-cong-dangdai-hunyin-guan-liao-gudai-de-hunjian-zhidu-lr0i25twkoxm2wen7pnfbwt3qdsn
   - zizhi-tongjian-hanji-844-ruhe-liyu-bubaizhidi-lsp49uw8atyiufrf-ryo-9ctos5z
   - zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr
+  - zizhi-tongjian-hanji-836-xiongdi-fanmu-beihou-ruzhe-he-jianchen-de-jiaofeng-lq9wjn5c8mwt-onrtslum4fw53eq
 last_updated: 2026-08-28
 ---
 
 ## Overview
-梁冀 is the late-Eastern-Han outer-relative powerholder whose current profile now begins in 151 CE with overlarge reward and dissatisfaction before moving through frontier-official persecution, imperial marriage, criminal intimidation, household politics, palace succession, and eventual coup defeat. The page treats him as a system node: his clan, empress ties, household, retainers, palace privileges, and offices turn private family position into public administration until [[EmperorHuanOfHan|Emperor Huan]] moves through a closed palace channel.
+梁冀 is the late-Eastern-Han outer-relative powerholder whose current profile now begins in 151 CE with brotherly surveillance, scholar-official punishment, overlarge reward, and dissatisfaction before moving through frontier-official persecution, imperial marriage, criminal intimidation, household politics, palace succession, and eventual coup defeat. The page treats him as a system node: his clan, empress ties, household, retainers, palace privileges, and offices turn private family position into public administration until [[EmperorHuanOfHan|Emperor Huan]] moves through a closed palace channel.
 
 ## Current Profile
-[[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|Hanji 838]] supplies the earliest current Liang layer. Huan's court discusses adding rewards for Liang in 151 CE, most speakers support very heavy honors, and [[HuangQiongLateHan|黄琼]] narrows the territorial part of the proposal by pointing to Liang's existing food estate and his son's enfeoffment. The final settlement still gives Liang extraordinary etiquette, wealth, servants, vehicles, garments, residence, special seating, and recurring access to Shangshu affairs, yet Liang remains dissatisfied, making [[UnboundedEliteRewardDemand|受宠权臣的无餍封赏]] visible before the later crime-record evidence.
+[[zizhi-tongjian-hanji-836-xiongdi-fanmu-beihou-ruzhe-he-jianchen-de-jiaofeng-lq9wjn5c8mwt-onrtslum4fw53eq|Hanji 836]] now supplies the earliest current Liang layer. It presents Liang Ji's conflict with [[LiangBuyiLateHan|梁不疑]] as more than a private quarrel: Liang moves his scholar-leaning brother into Guanglu xun, places his young son Liang Yin as Henan Yin, and then keeps disguised watchers outside Liang Buyi's closed household. When [[MaRongLateHan|马融]] and [[TianMingLateHan|田明]] visit Liang Buyi on the way to office, Liang's side turns the visit into accusation, hair-removal punishment, flogging, and exile. The result is an early case where Liang's outer-relative power polices kinship contact and visibly humiliates scholar-officials.
+
+[[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|Hanji 838]] then adds the early reward layer. Huan's court discusses adding rewards for Liang in 151 CE, most speakers support very heavy honors, and [[HuangQiongLateHan|黄琼]] narrows the territorial part of the proposal by pointing to Liang's existing food estate and his son's enfeoffment. The final settlement still gives Liang extraordinary etiquette, wealth, servants, vehicles, garments, residence, special seating, and recurring access to Shangshu affairs, yet Liang remains dissatisfied, making [[UnboundedEliteRewardDemand|受宠权臣的无餍封赏]] visible before the later crime-record evidence.
 
 The next anti-Liang witness precedes the marriage and coup sequence through [[zizhi-tongjian-hanji-844-ruhe-liyu-bubaizhidi-lsp49uw8atyiufrf-ryo-9ctos5z|Hanji 844]]. [[ChenGuiDuliaoGeneralLateHan|陈龟]] has an old conflict with Liang, is accused as reputation-seeking, recalled from the frontier, and later memorializes Emperor Huan against Liang. Huan does not visibly act, and Chen dies after a hunger strike, making Liang's reach visible before the court can move against him.
 
@@ -34,14 +37,16 @@ Hanji 845 supplies the marital foundation for the Liang-family power field. [[Em
 
 ## Key Characteristics
 - Overrewarded outer-relative powerholder whose clan saturation in empress marriage, marquisates, harem ranks, palace privilege, military command, and senior offices makes household status inseparable from state administration.
-- Persecutor of frontier and court critics, visible before the later crime-record list through Chen Gui's recall, ignored memorial, and hunger-strike death.
+- Kinship-surveillance actor who treats his scholar-leaning brother's household and visitors as a political threat.
+- Persecutor of scholar, frontier, and court critics, visible before the later crime-record list through Ma Rong and Tian Ming's punishment and Chen Gui's recall, ignored memorial, and hunger-strike death.
 - Retaliatory-terror actor who converts refusal, warning, lawful enforcement, omission of courtesy, and property resistance into poisoning, beatings, executions, and family liability.
 - Court operator who escalates factional contest over succession into ministerial imprisonment and execution, especially against [[LiGuLateHan|Li Gu]].
 - Household ruler whose private kinship and sexual politics spill into imperial succession and motivate [[EmperorHuanOfHan|Emperor Huan]].
 - Coup target whose defeat requires secrecy, palace communication control, command-symbol seizure, and rapid liquidation of clan offices.
-- Late-Han memory figure associated with the shift from outer-relative domination to eunuch ascendancy.
 
 ## Evidence
+- Kinship surveillance: [[zizhi-tongjian-hanji-836-xiongdi-fanmu-beihou-ruzhe-he-jianchen-de-jiaofeng-lq9wjn5c8mwt-onrtslum4fw53eq|Hanji 836]] says Liang Ji keeps disguised watchers outside Liang Buyi's closed household even after Liang Buyi resigns from office.
+- Scholar-official humiliation: [[zizhi-tongjian-hanji-836-xiongdi-fanmu-beihou-ruzhe-he-jianchen-de-jiaofeng-lq9wjn5c8mwt-onrtslum4fw53eq|Hanji 836]] says Ma Rong and Tian Ming are accused, shaved, flogged, and exiled after visiting Liang Buyi.
 - Early reward excess: [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|Hanji 838]] says Huan's court grants Liang exceptional etiquette, wealth, servants, residence, court seating, and Shangshu access after Huang Qiong limits the proposed territorial increase.
 - Dissatisfaction and merit gap: [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|Hanji 838]] says Liang still considers the ceremony too light, while the host contrasts his reward appetite with thin public merit and the earlier killing of Emperor Zhi.
 - Early anti-Liang witness: [[zizhi-tongjian-hanji-844-ruhe-liyu-bubaizhidi-lsp49uw8atyiufrf-ryo-9ctos5z|Hanji 844]] says [[ChenGuiDuliaoGeneralLateHan|Chen Gui]] is recalled after Liang's accusation, later memorializes Emperor Huan against Liang, and dies after the ruler does not act.
@@ -55,17 +60,21 @@ Hanji 845 supplies the marital foundation for the Liang-family power field. [[Em
 - Terminal liquidation: [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|Hanji 848]] records the palace coup, Liang's suicide, and the removal of many Liang-family officeholders.
 
 ## Qualifications
-Hanji 838's reward list and greed framing are source-scoped and do not by themselves reconstruct Liang's whole 151 CE court settlement. The Chen Gui case is source-scoped to [[zizhi-tongjian-hanji-844-ruhe-liyu-bubaizhidi-lsp49uw8atyiufrf-ryo-9ctos5z|Hanji 844]] and should be treated as an early witness to Liang's danger rather than a complete account of Liang's frontier policy. The numeric portrait of Liang clan saturation and the victim chain are currently source-scoped to [[zizhi-tongjian-hanji-846-bahu-jiangjun-bingshan-yijiao-de-fanzui-jilu-lv7fbvoqr1nureqgvwiwixjyk4pq|Hanji 846]] and should not be generalized beyond that episode without additional source support. Hanji 845's negative characterization of Liang Ying and its claim that she is the first textually recorded inspected empress are also source-scoped. The existing sequence tension remains: [[zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx|Hanji 847]] makes Xuan survive a failed assassination attempt and trigger Emperor Huan's anti-Liang timing, while [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|Hanji 848]] compresses the lead-up by treating Xuan as killed before the plan begins. Hanji 846 stops before that point.
+Hanji 836's brother-surveillance and Ma Rong/Tian Ming punishment layer is source-scoped and should not be expanded into a complete reconstruction of Liang Buyi's faction or Liang Yin's office career. Hanji 838's reward list and greed framing do not by themselves reconstruct Liang's whole 151 CE court settlement. The Chen Gui case is source-scoped to [[zizhi-tongjian-hanji-844-ruhe-liyu-bubaizhidi-lsp49uw8atyiufrf-ryo-9ctos5z|Hanji 844]] and should be treated as an early witness to Liang's danger rather than a complete account of Liang's frontier policy. The numeric portrait of Liang clan saturation and the victim chain are currently source-scoped to [[zizhi-tongjian-hanji-846-bahu-jiangjun-bingshan-yijiao-de-fanzui-jilu-lv7fbvoqr1nureqgvwiwixjyk4pq|Hanji 846]] and should not be generalized beyond that episode without additional source support. Hanji 845's negative characterization of Liang Ying and its claim that she is the first textually recorded inspected empress are also source-scoped. The existing sequence tension remains: [[zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx|Hanji 847]] makes Xuan survive a failed assassination attempt and trigger Emperor Huan's anti-Liang timing, while [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|Hanji 848]] compresses the lead-up by treating Xuan as killed before the plan begins. Hanji 846 stops before that point.
 
 ## What Changed
-- Hanji 838 moves Liang's current profile back to 151 CE: heavy reward, Huang Qiong's partial restraint, and Liang's dissatisfaction precede later coercive evidence.
+- Hanji 836 moves Liang's current profile back to the brother-surveillance and scholar-official punishment layer of 151 CE.
+- Hanji 838 keeps the same year's reward layer: heavy honors, Huang Qiong's partial restraint, and Liang's dissatisfaction precede later coercive evidence.
 - Hanji 844 adds Chen Gui's recall, ignored anti-Liang memorial, and hunger-strike death as an early intimidation and feedback-collapse layer.
 - Hanji 845 and Hanji 846 add the marriage, household, family-office saturation, surveillance, tribute, retainer, and crime-record layers behind Liang's later fall.
-- Hanji 847 and Hanji 848 frame Liang's fall as emerging from household crisis and executable only through a controlled palace coup.
-- Hanji 853 adds the earlier Li Gu succession struggle as evidence that Liang's coercive pattern predates the 159 CE household crisis.
+- Hanji 847, Hanji 848, and Hanji 853 frame Liang's fall and earlier Li Gu conflict as household crisis, succession struggle, and controlled palace-coup liquidation.
 
 ## Relationships
 - [[EmperorHuanOfHan]] - imperial counterparty whose silence, delay, and secret coup respond to Liang's pervasive power.
+- [[LiangBuyiLateHan|梁不疑]] - brother whose household Liang monitors and whose visitors become punishment targets.
+- [[MaRongLateHan|马融]] - scholar-official punished after visiting Liang Buyi.
+- [[TianMingLateHan|田明]] - official exiled and killed in the same retaliation branch.
+- [[PunitiveHairRemovalHumiliation|髡刑式身份羞辱]] - punishment mechanism Liang uses against scholar-official dignity in Hanji 836.
 - [[HuangQiongLateHan|黄琼]] - senior minister who narrows the 151 CE reward proposal without removing Liang's privileged position.
 - [[UnboundedEliteRewardDemand|受宠权臣的无餍封赏]] - concept grounded in Liang's dissatisfaction after extraordinary reward.
 - [[ChenGuiDuliaoGeneralLateHan|陈龟]] - frontier official and critic whose recall and death expose Liang's pre-coup coercive reach.
