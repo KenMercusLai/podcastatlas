@@ -2,30 +2,56 @@
 title: "刘陶 / 刘桃 (late Han)"
 type: entity
 tags: [person, late-han, official, remonstrance, eunuchs]
-sources: [zizhi-tongjian-hanji-923-chengnianrende-dingji-henjin-guzi-lide-juejue-lifzh-gohpqnmdznnfv72tndqf8h, zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4, zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw]
-last_updated: 2026-08-26
+sources:
+  - zizhi-tongjian-hanji-923-chengnianrende-dingji-henjin-guzi-lide-juejue-lifzh-gohpqnmdznnfv72tndqf8h
+  - zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4
+  - zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw
+  - zizhi-tongjian-hanji-843-gudai-nongmin-pinkun-de-genyuan-shi-shenme-lutep8yyzanhlb4ao6sope-8edvy
+last_updated: 2026-08-28
+knowledge_schema: synthesis-v1
 ---
 
-# 刘陶 / 刘桃 (late Han)
+## Overview
 
-[[zizhi-tongjian-hanji-923-chengnianrende-dingji-henjin-guzi-lide-juejue-lifzh-gohpqnmdznnfv72tndqf8h|Hanji 923]] adds Liu Tao's earlier Yellow Turban warning before his later fatal remonstrance branch. The episode says he recalls [[YangCiLateHan|杨赐]]'s warning, reports that [[ZhangJiaoLateHan|张角]]'s followers are linking secretly, and warns that people have even reached [[LuoyangLateHan|洛阳]] to gather information.
+刘陶 / 刘桃 is a late-Han remonstrant whose current wiki profile now starts in the [[Taixue|太学]] field under [[EmperorHuanOfHan|汉桓帝]] and ends in the eunuch-filtered prison case under [[EmperorLingOfHan|汉灵帝]]. [[zizhi-tongjian-hanji-843-gudai-nongmin-pinkun-de-genyuan-shi-shenme-lutep8yyzanhlb4ao6sope-8edvy|Hanji 843]] shows him rejecting a coinage explanation for peasant poverty; [[zizhi-tongjian-hanji-923-chengnianrende-dingji-henjin-guzi-lide-juejue-lifzh-gohpqnmdznnfv72tndqf8h|Hanji 923]], [[zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4|Hanji 925]], and [[zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw|Hanji 935]] later show him warning about Yellow Turban and western rebellion pressure, being vindicated too late, and dying after crisis reporting is recoded as suspicious knowledge.
 
-The source makes Liu Tao's earlier role a case of urgent reporting without ruler conversion. He recommends a public edict, rewards for arresting Zhang Jiao, and accountability for officials who conceal the problem, but [[EmperorLingOfHan|汉灵帝]] does not act on the warning as a crisis measure.
+## Current Profile
 
-[[zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4|Hanji 925]] backfills Liu Tao before the fatal remonstrance branch in Hanji 935. The episode says older memorials by Liu Tao and [[YangCiLateHan|杨赐]] about [[ZhangJiaoLateHan|张角]] and the [[YellowTurbansLateHan|Yellow Turbans]] are rediscovered after the uprising confirms their warnings; Liu Tao is then enfeoffed as Zhongling village marquis.
+Liu Tao's profile is a repeated-warning arc rather than a stable office biography. In the Huan-era layer, he says commoners need grain, clothing, reduced extraction, and recovery time more urgently than heavier coinage. In the Ling-era layer, he and [[YangCiLateHan|杨赐]] warn that [[ZhangJiaoLateHan|张角]]'s followers are secretly linking toward [[LuoyangLateHan|洛阳]]; after the [[YellowTurbansLateHan|Yellow Turbans]] erupt, the court belatedly rewards their accuracy. Hanji 935 then makes the pattern fatal: Liu Tao warns that western rebels under [[BianZhangLateHan|边章]] and [[HanSui|韩遂]] now threaten the state, but the [[TenAttendantsLateHan|十常侍]] turn his knowledge into evidence against him and he dies in prison.
 
-This branch gives Liu Tao an earlier recognition-before-death layer. The court can reward accurate warning after events prove it, but that delayed recognition does not fix the [[CourtFeedbackCollapse|君臣反馈失灵]] that later makes his direct speech lethal.
+## Key Characteristics
 
-刘陶 / 刘桃 enters through [[zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw|Hanji 935]] as the late-Han remonstrant who warns [[EmperorLingOfHan|汉灵帝]] that the state has moved from [[ZhangJiaoLateHan|张角]]'s disorder into western rebellion under [[BianZhangLateHan|边章]] and [[HanSui|韩遂]]. The episode treats his memorial as military warning and political accusation at the same time: frontier danger is used to expose the court corruption surrounding the eunuchs.
+- Liu Tao tests policy diagnosis against household subsistence: food and clothing outrank coin design when people are hungry, unclothed, and over-extracted.
+- He treats unrest as a root-cause problem, linking poverty, disease, frontier pressure, hidden organization, and official concealment before force alone can solve it.
+- His warnings sometimes reach the throne, but ruler conversion is unstable: Hanji 843 shows acceptance, Hanji 923 shows non-action, and Hanji 935 shows punitive reinterpretation.
+- His delayed vindication after the Yellow Turban outbreak shows the court can recognize accurate warning only after events make denial impossible.
+- His prison death turns direct crisis reporting into a case of [[CourtFeedbackCollapse|君臣反馈失灵]] and [[PalaceAccessMonopoly|宫廷接触垄断]] under eunuch-controlled interpretation.
 
-The eunuch side converts Liu Tao's warning into suspicion. By asking how he knows unreported affairs and implying contact with rebels, they make the warning itself incriminating. Emperor Ling then orders Liu Tao jailed in the eunuch-controlled north prison, where Liu Tao denounces the court's killing of loyal ministers and dies by self-suffocation in the episode's account.
+## Evidence
 
-His page is source-scoped because this wiki has only ingested this one branch of his career. In this source, Liu Tao matters less as a full official biography than as a case where [[CourtFeedbackCollapse|君臣反馈失灵]] and [[PalaceAccessMonopoly|宫廷接触垄断]] turn direct remonstrance into a lethal accusation channel.
+- Poverty diagnosis before currency reform: [[zizhi-tongjian-hanji-843-gudai-nongmin-pinkun-de-genyuan-shi-shenme-lutep8yyzanhlb4ao6sope-8edvy|Hanji 843]] says Liu Tao rejects a proposal to cast larger coins because people lack food and clothing after locust damage, official seizure, requisition, and plunder.
+- Recovery-through-rest advice: [[zizhi-tongjian-hanji-843-gudai-nongmin-pinkun-de-genyuan-shi-shenme-lutep8yyzanhlb4ao6sope-8edvy|Hanji 843]] says Liu Tao urges the court to stop repeated extraction and let households regain capacity.
+- Pre-uprising warning: [[zizhi-tongjian-hanji-923-chengnianrende-dingji-henjin-guzi-lide-juejue-lifzh-gohpqnmdznnfv72tndqf8h|Hanji 923]] says Liu Tao repeats Yang Ci's warning about Zhang Jiao's organized followers, secret links, and capital-side information gathering.
+- Belated recognition: [[zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4|Hanji 925]] says Liu Tao and Yang Ci's earlier memorials are rediscovered after the uprising confirms them and Liu Tao is enfeoffed as Zhongling village marquis.
+- Fatal warning conversion: [[zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw|Hanji 935]] says Liu Tao's western-rebellion warning is reframed by eunuchs as pessimism, secret knowledge, and possible rebel contact before imprisonment and self-suffocation.
 
-## Connections
-- [[zizhi-tongjian-hanji-923-chengnianrende-dingji-henjin-guzi-lide-juejue-lifzh-gohpqnmdznnfv72tndqf8h|Hanji 923]], [[YangCiLateHan|杨赐]], [[ZhangJiaoLateHan|张角]], [[LuoyangLateHan|洛阳]], and [[EmperorLingOfHan|汉灵帝]] - pre-uprising warning and proposed public arrest policy.
-- [[zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4|Hanji 925]], [[YangCiLateHan|杨赐]], [[ZhangJiaoLateHan|张角]], [[YellowTurbansLateHan|黄巾军]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - earlier memorial-vindication branch.
-- [[zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw|Hanji 935]] - source episode.
-- [[EmperorLingOfHan|汉灵帝]] and [[TenAttendantsLateHan|十常侍]] - ruler and palace faction around the accusation.
-- [[ZhangJiaoLateHan|张角]], [[BianZhangLateHan|边章]], and [[HanSui|韩遂]] - crisis sequence named in Liu Tao's warning.
-- [[CourtFeedbackCollapse|君臣反馈失灵]], [[PalaceAccessMonopoly|宫廷接触垄断]], and [[DeathDefyingRemonstrance|赴死式直谏]] - concept frames sharpened by the episode.
+## Qualifications
+
+The wiki preserves both 刘陶 and 刘桃 because the ingested source notes use variant forms for the same remonstrant route. The profile is still bounded to four podcast source notes rather than a full official biography. Hanji 843's accepted anti-coinage advice, Hanji 923's ignored warning, Hanji 925's delayed reward, and Hanji 935's fatal accusation belong to different ruler-side contexts and should be read as a sequence, not as a contradiction.
+
+## What Changed
+
+- Added the earlier Huan-era Taixue poverty and currency-remonstrance layer.
+- Migrated the page to the synthesis-v1 entity schema.
+- Reframed Liu Tao as a repeated-warning figure whose counsel moves from accepted, to ignored, to belatedly vindicated, to lethal.
+
+## Relationships
+
+- [[AgrarianLivelihoodBeforeCurrencyReform|农本民生优先于币制调整]] - Hanji 843 case where Liu Tao rejects a monetary technical fix in favor of subsistence recovery.
+- [[EmperorHuanOfHan|汉桓帝]] - ruler whose court accepts Liu Tao's anti-large-coin advice in the 157-158 CE source layer.
+- [[Taixue|太学]] - institutional setting for Liu Tao's Huan-era remonstrance.
+- [[YangCiLateHan|杨赐]] - paired early-warning figure in the Yellow Turban prelude and delayed-vindication branch.
+- [[ZhangJiaoLateHan|张角]] and [[YellowTurbansLateHan|黄巾军]] - organized movement whose hidden expansion Liu Tao warns about before the outbreak.
+- [[BianZhangLateHan|边章]] and [[HanSui|韩遂]] - western rebellion actors named in Liu Tao's final crisis warning.
+- [[EmperorLingOfHan|汉灵帝]] and [[TenAttendantsLateHan|十常侍]] - ruler and palace faction that convert Liu Tao's later warning into accusation.
+- [[CourtFeedbackCollapse|君臣反馈失灵]], [[PalaceAccessMonopoly|宫廷接触垄断]], and [[DeathDefyingRemonstrance|赴死式直谏]] - concept frames for the lethal end of Liu Tao's warning arc.

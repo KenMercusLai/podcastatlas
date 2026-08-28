@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-28] ingest | 《资治通鉴·汉纪》843丨古代农民贫困的根源是什么？
+
+Added source page for Hanji 843: Liu Tao's Taixue memorial rejecting coin-weight reform as a solution to peasant poverty, Zhu Da's corruption-triggered rebellion, Chen Shou/Taishi ling's fatal eclipse accusation against Liang Ji, and Chen Gui's 158 CE frontier cleanup, official replacement, and Bingzhou/Liangzhou remission program. Created Zhu Da, Chen Shou (Taishi ling), and Agrarian Livelihood Before Currency Reform pages; updated Liu Tao, Chen Gui, Retaliatory Political Terror, overview, and index. No settled contradiction found; the source backfills the 157-158 CE Huan-era layer before Hanji 844 and keeps the Taishi-ling Chen Shou distinct from the Three Kingdoms historian.
+
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》851丨汉桓帝为何注定遗臭万年？
 
 Added source page for Ruiqi's Hanji 851 episode on Huang Qiong's ignored illness memorial, Shan Chao's continued elevation, Shan Kuang's corruption and witness-suppression attempt, Yang Bing's failed confrontation request, Fifth Zhong's exile, and Sun Bin's rescue. Created Fifth Zhong, Shan Kuang, Wei Yu, Ren Fang, Dong Yuan, and disambiguated Sun Bin retainer pages; updated Emperor Huan, Huang Qiong, Shan Chao, Yang Bing, Shusun Wuji, Eunuch Patronage Violence Shield, overview, and index. No settled contradiction found; the episode backfills the 159 CE bridge before Hanji 852-853 and qualifies later Yang Bing anti-corruption successes as restorations after earlier punishment.
@@ -13008,3 +13012,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-28] lint | Wiki health check
 
 Ran health, identity validation, and lint. Health scanned 15,551 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-28 with 15,429 nodes while the current lint scan covered 15,551 pages, so bridge findings may be incomplete until the graph is rebuilt; current graph checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest` and no provider key variables are present in the environment. Report returned in-session; `wiki/lint-report.md` was not updated.
+
+## [2026-08-28] lint | Wiki health check
+
+Ran health, identity validation, and lint. Health scanned 15,555 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-28 with 15,429 nodes and 180,855 edges while the current lint scan covered 15,555 pages, so bridge findings may be incomplete until the graph is rebuilt; current graph checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest` and no provider key variables are present in the environment; a bounded in-session review of the script sample plus orphan and fragile-bridge endpoints found no direct contradictions, with source-breadth gaps on several older source-scoped concept pages. Report returned in-session; `wiki/lint-report.md` was not updated.

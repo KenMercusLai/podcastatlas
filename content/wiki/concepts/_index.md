@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 5818
+wiki_total_pages: 5819
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1928,6 +1928,9 @@ wiki_pages:
   - key: "AppointmentQualityAsStateCapacity"
     title: "任官适任性国家能力 / Appointment Quality as State Capacity"
     url: "/wiki/concepts/appointmentqualityasstatecapacity/"
+  - key: "AgrarianLivelihoodBeforeCurrencyReform"
+    title: "农本民生优先于币制调整 / Agrarian Livelihood Before Currency Reform"
+    url: "/wiki/concepts/agrarianlivelihoodbeforecurrencyreform/"
   - key: "AppointedGovernorSecessionRisk"
     title: "受任地方长官割据风险 / Appointed Governor Secession Risk"
     url: "/wiki/concepts/appointedgovernorsecessionrisk/"

@@ -1260,6 +1260,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/agilityrobotics/"
     },
+    "AgrarianLivelihoodBeforeCurrencyReform": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》843丨古代农民贫困的根源是什么？ [lutep8YYzANhLB4AO6SopE_8eDVY].md",
+          "key": "zizhi-tongjian-hanji-843-gudai-nongmin-pinkun-de-genyuan-shi-shenme-lutep8yyzanhlb4ao6sope-8edvy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》843丨古代农民贫困的根源是什么？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-843-gudai-nongmin-pinkun-de-genyuan-shi-shenme-lutep8yyzanhlb4ao6sope-8edvy/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/agrarianlivelihoodbeforecurrencyreform/"
+    },
     "AiboShengwu": {
       "episode_count": 1,
       "show_count": 1,
@@ -3624,9 +3640,9 @@
       "url": "/wiki/entities/chenfanlatehan/"
     },
     "ChenGuiDuliaoGeneralLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》844丨如何立于不败之地？ [lsP49uW8AtYIUFrf_ryO_9CtOs5Z].md",
@@ -3634,6 +3650,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》844丨如何立于不败之地？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-844-ruhe-liyu-bubaizhidi-lsp49uw8atyiufrf-ryo-9ctos5z/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》843丨古代农民贫困的根源是什么？ [lutep8YYzANhLB4AO6SopE_8eDVY].md",
+          "key": "zizhi-tongjian-hanji-843-gudai-nongmin-pinkun-de-genyuan-shi-shenme-lutep8yyzanhlb4ao6sope-8edvy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》843丨古代农民贫困的根源是什么？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-843-gudai-nongmin-pinkun-de-genyuan-shi-shenme-lutep8yyzanhlb4ao6sope-8edvy/"
         }
       ],
       "updated": "2026-08-28",
@@ -3758,6 +3781,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/chenshilatehan/"
+    },
+    "ChenShouTaishiLingLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》843丨古代农民贫困的根源是什么？ [lutep8YYzANhLB4AO6SopE_8eDVY].md",
+          "key": "zizhi-tongjian-hanji-843-gudai-nongmin-pinkun-de-genyuan-shi-shenme-lutep8yyzanhlb4ao6sope-8edvy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》843丨古代农民贫困的根源是什么？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-843-gudai-nongmin-pinkun-de-genyuan-shi-shenme-lutep8yyzanhlb4ao6sope-8edvy/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/chenshoutaishilinglatehan/"
     },
     "ChenYuanLateHan": {
       "episode_count": 1,
@@ -12700,6 +12739,43 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/liupirunanlatehan/"
     },
+    "LiuTaoLateHan": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》923丨成年人的顶级狠劲：骨子里的决绝 [liFZh-GohPqNmdzNnfV72tNDQf8H].md",
+          "key": "zizhi-tongjian-hanji-923-chengnianrende-dingji-henjin-guzi-lide-juejue-lifzh-gohpqnmdznnfv72tndqf8h",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》923丨成年人的顶级狠劲：骨子里的决绝",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-923-chengnianrende-dingji-henjin-guzi-lide-juejue-lifzh-gohpqnmdznnfv72tndqf8h/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮 [liMAFqSkGbLRweTeSTyH39w_hZM4].md",
+          "key": "zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》935丨人活一口气，难成的是自己 [lmy8tyRTTV_gJvKe7Sdi6dx_OOpW].md",
+          "key": "zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》935丨人活一口气，难成的是自己",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》843丨古代农民贫困的根源是什么？ [lutep8YYzANhLB4AO6SopE_8eDVY].md",
+          "key": "zizhi-tongjian-hanji-843-gudai-nongmin-pinkun-de-genyuan-shi-shenme-lutep8yyzanhlb4ao6sope-8edvy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》843丨古代农民贫困的根源是什么？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-843-gudai-nongmin-pinkun-de-genyuan-shi-shenme-lutep8yyzanhlb4ao6sope-8edvy/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/liutaolatehan/"
+    },
     "LiuXianLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -17503,9 +17579,9 @@
       "url": "/wiki/concepts/restaurantdeliveryextension/"
     },
     "RetaliatoryPoliticalTerror": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》846丨“跋扈将军”冰山一角的犯罪记录 [lv7fbvoQr1NurEQGVwIwiXJYK4pq].md",
@@ -17513,6 +17589,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》846丨“跋扈将军”冰山一角的犯罪记录",
           "url": "/wiki/sources/zizhi-tongjian-hanji-846-bahu-jiangjun-bingshan-yijiao-de-fanzui-jilu-lv7fbvoqr1nureqgvwiwixjyk4pq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》843丨古代农民贫困的根源是什么？ [lutep8YYzANhLB4AO6SopE_8eDVY].md",
+          "key": "zizhi-tongjian-hanji-843-gudai-nongmin-pinkun-de-genyuan-shi-shenme-lutep8yyzanhlb4ao6sope-8edvy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》843丨古代农民贫困的根源是什么？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-843-gudai-nongmin-pinkun-de-genyuan-shi-shenme-lutep8yyzanhlb4ao6sope-8edvy/"
         }
       ],
       "updated": "2026-08-28",
@@ -24482,6 +24565,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/zhubilatehan/"
+    },
+    "ZhuDaLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》843丨古代农民贫困的根源是什么？ [lutep8YYzANhLB4AO6SopE_8eDVY].md",
+          "key": "zizhi-tongjian-hanji-843-gudai-nongmin-pinkun-de-genyuan-shi-shenme-lutep8yyzanhlb4ao6sope-8edvy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》843丨古代农民贫困的根源是什么？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-843-gudai-nongmin-pinkun-de-genyuan-shi-shenme-lutep8yyzanhlb4ao6sope-8edvy/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/zhudalatehan/"
     },
     "ZhuGaiLateHan": {
       "episode_count": 2,

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 5818
+wiki_total_pages: 5819
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
