@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 8090
+wiki_total_pages: 8092
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -905,6 +905,9 @@ wiki_pages:
   - key: "JDHealth"
     title: "京东健康"
     url: "/wiki/entities/jdhealth/"
+  - key: "JuYuanLateHan"
+    title: "具瑗 / Ju Yuan (late Han eunuch)"
+    url: "/wiki/entities/juyuanlatehan/"
   - key: "JizhouLateHan"
     title: "冀州 / Jizhou (late Han)"
     url: "/wiki/entities/jizhoulatehan/"

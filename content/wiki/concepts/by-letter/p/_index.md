@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5811
+wiki_total_pages: 5813
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1523,6 +1523,9 @@ wiki_pages:
   - key: "PalaceMarketTheater"
     title: "宫市游乐式权力错位 / Palace Market Theater"
     url: "/wiki/concepts/palacemarkettheater/"
+  - key: "PalaceCoupSymbolControl"
+    title: "宫廷政变中的符印与门户控制 / Palace Coup Symbol Control"
+    url: "/wiki/concepts/palacecoupsymbolcontrol/"
   - key: "PalaceProximityPower"
     title: "宫廷近身权力 / Palace Proximity Power"
     url: "/wiki/concepts/palaceproximitypower/"

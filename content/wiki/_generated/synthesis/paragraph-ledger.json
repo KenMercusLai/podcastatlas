@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "1a835a7f2e41759d288edaf800052c632a059d72844054f9df462eab42289bca",
       "320242c9eea04a979200c9a9385b1f2f6e7fe8e6f79105288342e2949eada089",
       "017b81fbb9c9fa7892ac971f5956bc964404afdac15893b5b3d32932ff0e786d",
       "ae1d37ee8809736dac7fd7e1a14c070e392abacaee133c141aea0f1d3f8f7802",
@@ -326,11 +327,42 @@
       "ffc63951f0c9ebb1bdb0d92982d5f65f57bbe4a7f7a359f38dcd33423bb288c2",
       "41cadfb91ef6894bc7d9cd5c4e55012480b0225b71a6a027d18e9565e8357c0c"
     ],
-    "paragraph_count": 324
+    "paragraph_count": 325
   },
-  "overview_commit": "649b6277e7877c08e550ff1efa89b963191e38f3",
-  "overview_digest": "dbd25de0c8472604a7fdf3fa65cef6c91486306216d463cb931baf39ca43740b",
+  "overview_commit": "eb139211fd665360e2bcf7b1355b7ba44d831d7b",
+  "overview_digest": "ec8e3c6c119d40da6c03392738f06248e0e4671e9ee8a56041a23b862bbed222",
   "paragraphs": [
+    {
+      "id": "1a835a7f2e41759d288edaf800052c632a059d72844054f9df462eab42289bca",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|《资治通鉴·汉纪》848丨瞬间垮台！我为何说他死有余辜？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 159 CE coup that precedes the existing Hanji 849-853 post-Liang sequence. It adds [[JuYuanLateHan|具瑗]], [[SunShouLateHan|孙寿]], [[PalaceCoupSymbolControl|宫廷政变中的符印与门户控制]], and [[OuterRelativeCourtPower|外戚专权与清算]], while extending [[EmperorHuanOfHan|汉桓帝]], [[LiangJiLateHan|梁冀]], [[FiveMarquisesHuanEra|桓帝五侯]], [[ShanChaoLateHan|单超]], [[XuHuangLateHan|徐璜]], [[ZuoGuanLateHan|左悺]], [[TangHengLateHan|唐衡]], [[EmpressDengHuanLateHan|邓皇后]], [[HuangQiongLateHan|黄琼]], [[PalaceProximityPower|宫廷近身权力]], and [[BoundarylessKindnessTrap|无边界善良陷阱]]. Its core synthesis is that Huan can remove an overmighty outer-relative through a tightly sequenced palace coup, confiscation, tax relief, and symbolic cleanup, but the victory also creates the Five Marquises reward bloc that later sources treat as a new eunuch-favorite problem. No settled contradiction is recorded; transcript forms such as 梁继, 巨爱, 徐皇, 左贯, 唐恒, and 黄穹 are normalized to the established late-Han routes.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "BoundarylessKindnessTrap",
+        "EmperorHuanOfHan",
+        "EmpressDengHuanLateHan",
+        "FiveMarquisesHuanEra",
+        "HuangQiongLateHan",
+        "JuYuanLateHan",
+        "LiangJiLateHan",
+        "OuterRelativeCourtPower",
+        "PalaceCoupSymbolControl",
+        "PalaceProximityPower",
+        "RuiqiJiangtouZizhiTongjian",
+        "ShanChaoLateHan",
+        "SunShouLateHan",
+        "TangHengLateHan",
+        "XuHuangLateHan",
+        "ZuoGuanLateHan",
+        "zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0"
+      ]
+    },
     {
       "id": "320242c9eea04a979200c9a9385b1f2f6e7fe8e6f79105288342e2949eada089",
       "primary_topic": "history-and-geopolitics",

@@ -12960,3 +12960,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-28] ingest | 《资治通鉴·汉纪》848丨瞬间垮台！我为何说他死有余辜？
+
+Ingested Hanji 848 as the 159 CE anti-Liang coup layer. Created source note, Ju Yuan, Sun Shou, Palace Coup Symbol Control, and Outer-Relative Court Power pages; updated Liang Ji, Emperor Huan, Five Marquises, named eunuch members, Empress Deng, Huang Qiong, Palace Proximity Power, and Boundaryless Kindness Trap.
+
+## [2026-08-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
