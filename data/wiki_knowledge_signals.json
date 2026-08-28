@@ -1337,6 +1337,36 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/adulttoymarketexpansion/"
     },
+    "AdvancedAgricultureInnovation": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "tech_20260107_0107_MP_TECH_pod_128 [tech_20260107_0107_MP_TECH_pod_128].md",
+          "key": "tech-20260107-0107-mp-tech-pod-128-tech-20260107-0107-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Farming in the digital age",
+          "url": "/wiki/sources/tech-20260107-0107-mp-tech-pod-128-tech-20260107-0107-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b53d1604763c611df9511b4fedb13a7f_29123050 [default.mp3_ywr3ahjkcgo_b53d1604763c611df9511b4fedb13a7f_29123050].md",
+          "key": "the-giant-factory-town-that-might-be-a-giant-mistake",
+          "show": "Planet Money",
+          "title": "The giant factory town that might be a giant mistake",
+          "url": "/wiki/sources/the-giant-factory-town-that-might-be-a-giant-mistake/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_7e3d82eb044a5613cf31506fc7ae1597_35485644 [default.mp3_ywr3ahjkcgo_7e3d82eb044a5613cf31506fc7ae1597_35485644].md",
+          "key": "branded-fruit-how-produce-got-honeycrisp-ified",
+          "show": "Planet Money",
+          "title": "Branded fruit: How produce got \\\"Honeycrisp-ified\\\"",
+          "url": "/wiki/sources/branded-fruit-how-produce-got-honeycrisp-ified/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/advancedagricultureinnovation/"
+    },
     "AdventInternational": {
       "episode_count": 1,
       "show_count": 1,
@@ -1522,6 +1552,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/aimatechnology/"
+    },
+    "AlanCastel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5781519002 [SCIM5781519002].md",
+          "key": "how-to-improve-your-memory-cognitive-function-at-any-age-dr-alan-castel-scim5781519002",
+          "show": "Huberman Lab",
+          "title": "How to Improve Your Memory & Cognitive Function at Any Age | Dr. Alan Castel",
+          "url": "/wiki/sources/how-to-improve-your-memory-cognitive-function-at-any-age-dr-alan-castel-scim5781519002/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/alancastel/"
     },
     "Alberta": {
       "episode_count": 2,
@@ -2423,9 +2469,9 @@
       "url": "/wiki/concepts/assisteddrivingtrustformation/"
     },
     "Atang": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "lgBs8AaxGUH_xzGa8iUEwwc7ypvM [lgBs8AaxGUH_xzGa8iUEwwc7ypvM].md",
@@ -2468,6 +2514,13 @@
           "show": "这病说来话长",
           "title": "VOL.213 蚊子为什么偏爱咬你？皮肤科医生拆穿“驱蚊”智商税｜附快速止痒选药指南",
           "url": "/wiki/sources/vol-213-wenzi-weishenme-pianai-yao-ni-pifuke-yisheng-chaichuan-quwen-zhishangshui-fu-kuaisu-zhiyang-xuanyao-zhinan-lifkugb27d79ut30lwfmu5vojegec/"
+        },
+        {
+          "episode_file": "lqtWr4m-9nPye9GIib1_OM-TYlMY [lqtWr4m-9nPye9GIib1_OM-TYlMY].md",
+          "key": "vol-212-pingshi-jiuzuo-zhoumo-wanming-yundong-yundong-yixueke-yisheng-gei-dagongrende-fang-lian-fei-zhinan-lqtwr4m-9npye9giib1-om-tylmy",
+          "show": "这病说来话长",
+          "title": "VOL.212 平时久坐 周末玩命运动？运动医学科医生给打工人的「防练废」指南",
+          "url": "/wiki/sources/vol-212-pingshi-jiuzuo-zhoumo-wanming-yundong-yundong-yixueke-yisheng-gei-dagongrende-fang-lian-fei-zhinan-lqtwr4m-9npye9giib1-om-tylmy/"
         }
       ],
       "updated": "2026-08-29",
@@ -3381,6 +3434,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/brandvalueprotection/"
+    },
+    "BrandedProduceDifferentiation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_7e3d82eb044a5613cf31506fc7ae1597_35485644 [default.mp3_ywr3ahjkcgo_7e3d82eb044a5613cf31506fc7ae1597_35485644].md",
+          "key": "branded-fruit-how-produce-got-honeycrisp-ified",
+          "show": "Planet Money",
+          "title": "Branded fruit: How produce got \\\"Honeycrisp-ified\\\"",
+          "url": "/wiki/sources/branded-fruit-how-produce-got-honeycrisp-ified/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/brandedproducedifferentiation/"
     },
     "BrianFaulkner": {
       "episode_count": 2,
@@ -4993,6 +5062,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/coercedimperialmarriage/"
     },
+    "CognitiveAging": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5781519002 [SCIM5781519002].md",
+          "key": "how-to-improve-your-memory-cognitive-function-at-any-age-dr-alan-castel-scim5781519002",
+          "show": "Huberman Lab",
+          "title": "How to Improve Your Memory & Cognitive Function at Any Age | Dr. Alan Castel",
+          "url": "/wiki/sources/how-to-improve-your-memory-cognitive-function-at-any-age-dr-alan-castel-scim5781519002/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/cognitiveaging/"
+    },
     "CognitiveReappraisalEarlyIntervention": {
       "episode_count": 1,
       "show_count": 1,
@@ -5010,9 +5095,9 @@
       "url": "/wiki/concepts/cognitivereappraisalearlyintervention/"
     },
     "CognitiveResilience": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM3386045656 [SCIM3386045656].md",
@@ -5027,9 +5112,16 @@
           "show": "Huberman Lab",
           "title": "Accelerate Learning & Increase Cognitive Capacity | Dr. Tommy Wood",
           "url": "/wiki/sources/accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551/"
+        },
+        {
+          "episode_file": "SCIM5781519002 [SCIM5781519002].md",
+          "key": "how-to-improve-your-memory-cognitive-function-at-any-age-dr-alan-castel-scim5781519002",
+          "show": "Huberman Lab",
+          "title": "How to Improve Your Memory & Cognitive Function at Any Age | Dr. Alan Castel",
+          "url": "/wiki/sources/how-to-improve-your-memory-cognitive-function-at-any-age-dr-alan-castel-scim5781519002/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-29",
       "url": "/wiki/concepts/cognitiveresilience/"
     },
     "CommandContinuityDamageControl": {
@@ -5054,6 +5146,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/commandcontinuitydamagecontrol/"
+    },
+    "CommodityTrapEscape": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_7e3d82eb044a5613cf31506fc7ae1597_35485644 [default.mp3_ywr3ahjkcgo_7e3d82eb044a5613cf31506fc7ae1597_35485644].md",
+          "key": "branded-fruit-how-produce-got-honeycrisp-ified",
+          "show": "Planet Money",
+          "title": "Branded fruit: How produce got \\\"Honeycrisp-ified\\\"",
+          "url": "/wiki/sources/branded-fruit-how-produce-got-honeycrisp-ified/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/commoditytrapescape/"
     },
     "ConcealedCapabilityTiming": {
       "episode_count": 2,
@@ -5392,6 +5500,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/correctiveadvicenonconversion/"
+    },
+    "CosmicCrisp": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_7e3d82eb044a5613cf31506fc7ae1597_35485644 [default.mp3_ywr3ahjkcgo_7e3d82eb044a5613cf31506fc7ae1597_35485644].md",
+          "key": "branded-fruit-how-produce-got-honeycrisp-ified",
+          "show": "Planet Money",
+          "title": "Branded fruit: How produce got \\\"Honeycrisp-ified\\\"",
+          "url": "/wiki/sources/branded-fruit-how-produce-got-honeycrisp-ified/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/cosmiccrisp/"
     },
     "CounselExitAfterNonresponse": {
       "episode_count": 1,
@@ -5777,6 +5901,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/dabaniuteacher/"
+    },
+    "DanPashman": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_7e3d82eb044a5613cf31506fc7ae1597_35485644 [default.mp3_ywr3ahjkcgo_7e3d82eb044a5613cf31506fc7ae1597_35485644].md",
+          "key": "branded-fruit-how-produce-got-honeycrisp-ified",
+          "show": "Planet Money",
+          "title": "Branded fruit: How produce got \\\"Honeycrisp-ified\\\"",
+          "url": "/wiki/sources/branded-fruit-how-produce-got-honeycrisp-ified/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/danpashman/"
     },
     "DangerousGuestReleaseRisk": {
       "episode_count": 1,
@@ -6419,9 +6559,9 @@
       "url": "/wiki/entities/derry/"
     },
     "DesirableDifficulty": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "用 AI 让我们变笨了吗？｜ S10E25 [a6b360da-07f7-4d9e-ab1b-64a7130e9254].md",
@@ -6443,9 +6583,16 @@
           "show": "Huberman Lab",
           "title": "Accelerate Learning & Increase Cognitive Capacity | Dr. Tommy Wood",
           "url": "/wiki/sources/accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551/"
+        },
+        {
+          "episode_file": "SCIM5781519002 [SCIM5781519002].md",
+          "key": "how-to-improve-your-memory-cognitive-function-at-any-age-dr-alan-castel-scim5781519002",
+          "show": "Huberman Lab",
+          "title": "How to Improve Your Memory & Cognitive Function at Any Age | Dr. Alan Castel",
+          "url": "/wiki/sources/how-to-improve-your-memory-cognitive-function-at-any-age-dr-alan-castel-scim5781519002/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-29",
       "url": "/wiki/concepts/desirabledifficulty/"
     },
     "DeterministicDataAgentValidation": {
@@ -8429,6 +8576,38 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/evolutionarymisrecognition/"
+    },
+    "ExerciseAssistiveGearBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lqtWr4m-9nPye9GIib1_OM-TYlMY [lqtWr4m-9nPye9GIib1_OM-TYlMY].md",
+          "key": "vol-212-pingshi-jiuzuo-zhoumo-wanming-yundong-yundong-yixueke-yisheng-gei-dagongrende-fang-lian-fei-zhinan-lqtwr4m-9npye9giib1-om-tylmy",
+          "show": "这病说来话长",
+          "title": "VOL.212 平时久坐 周末玩命运动？运动医学科医生给打工人的「防练废」指南",
+          "url": "/wiki/sources/vol-212-pingshi-jiuzuo-zhoumo-wanming-yundong-yundong-yixueke-yisheng-gei-dagongrende-fang-lian-fei-zhinan-lqtwr4m-9npye9giib1-om-tylmy/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/exerciseassistivegearboundary/"
+    },
+    "ExerciseLoadManagement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lqtWr4m-9nPye9GIib1_OM-TYlMY [lqtWr4m-9nPye9GIib1_OM-TYlMY].md",
+          "key": "vol-212-pingshi-jiuzuo-zhoumo-wanming-yundong-yundong-yixueke-yisheng-gei-dagongrende-fang-lian-fei-zhinan-lqtwr4m-9npye9giib1-om-tylmy",
+          "show": "这病说来话长",
+          "title": "VOL.212 平时久坐 周末玩命运动？运动医学科医生给打工人的「防练废」指南",
+          "url": "/wiki/sources/vol-212-pingshi-jiuzuo-zhoumo-wanming-yundong-yundong-yixueke-yisheng-gei-dagongrende-fang-lian-fei-zhinan-lqtwr4m-9npye9giib1-om-tylmy/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/exerciseloadmanagement/"
     },
     "ExerciseSpecificBrainAdaptation": {
       "episode_count": 1,
@@ -10492,6 +10671,29 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/guoyilatehan/"
     },
+    "HYROX": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "商业小样47 ｜ “健身做题家”的新欢HYROX，到底有什么护城河？ [1008179335].md",
+          "key": "shangye-xiaoyang-47-jianshen-zuotijia-de-xinhuan-hyrox-daodi-you-shenme-huchenghe-1008179335",
+          "show": "商业就是这样",
+          "title": "商业小样47 | “健身做题家”的新欢HYROX，到底有什么护城河？",
+          "url": "/wiki/sources/shangye-xiaoyang-47-jianshen-zuotijia-de-xinhuan-hyrox-daodi-you-shenme-huchenghe-1008179335/"
+        },
+        {
+          "episode_file": "lqtWr4m-9nPye9GIib1_OM-TYlMY [lqtWr4m-9nPye9GIib1_OM-TYlMY].md",
+          "key": "vol-212-pingshi-jiuzuo-zhoumo-wanming-yundong-yundong-yixueke-yisheng-gei-dagongrende-fang-lian-fei-zhinan-lqtwr4m-9npye9giib1-om-tylmy",
+          "show": "这病说来话长",
+          "title": "VOL.212 平时久坐 周末玩命运动？运动医学科医生给打工人的「防练废」指南",
+          "url": "/wiki/sources/vol-212-pingshi-jiuzuo-zhoumo-wanming-yundong-yundong-yixueke-yisheng-gei-dagongrende-fang-lian-fei-zhinan-lqtwr4m-9npye9giib1-om-tylmy/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/hyrox/"
+    },
     "HabsburgDynasty": {
       "episode_count": 2,
       "show_count": 1,
@@ -11030,6 +11232,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/homerichospitalitytest/"
+    },
+    "Honeycrisp": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_7e3d82eb044a5613cf31506fc7ae1597_35485644 [default.mp3_ywr3ahjkcgo_7e3d82eb044a5613cf31506fc7ae1597_35485644].md",
+          "key": "branded-fruit-how-produce-got-honeycrisp-ified",
+          "show": "Planet Money",
+          "title": "Branded fruit: How produce got \\\"Honeycrisp-ified\\\"",
+          "url": "/wiki/sources/branded-fruit-how-produce-got-honeycrisp-ified/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/honeycrisp/"
     },
     "HongmengZhixing": {
       "episode_count": 2,
@@ -11844,9 +12062,9 @@
       "url": "/wiki/concepts/humanrobotsafetycertification/"
     },
     "HumaneLocalGovernance": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》870丨古代体制内，不干了没有退路 [lpWBNiU9IFPT6Cp4ip9cZqwSh5XD].md",
@@ -11903,6 +12121,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》822丨豺狼当道，他将矛头直指皇帝岳父？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》823丨兵不血刃收贼寇，他如何做到的？ [luAI1F0NHb_DDaJlI99dW4bXJ9M2].md",
+          "key": "zizhi-tongjian-hanji-823-bingbuxueren-shou-zeikou-ta-ruhe-zuodao-de-luai1f0nhb-ddajli99dw4bxj9m2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》823丨兵不血刃收贼寇，他如何做到的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-823-bingbuxueren-shou-zeikou-ta-ruhe-zuodao-de-luai1f0nhb-ddajli99dw4bxj9m2/"
         }
       ],
       "updated": "2026-08-29",
@@ -13397,6 +13622,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/johncade/"
+    },
+    "JointSymptomEscalation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lqtWr4m-9nPye9GIib1_OM-TYlMY [lqtWr4m-9nPye9GIib1_OM-TYlMY].md",
+          "key": "vol-212-pingshi-jiuzuo-zhoumo-wanming-yundong-yundong-yixueke-yisheng-gei-dagongrende-fang-lian-fei-zhinan-lqtwr4m-9npye9giib1-om-tylmy",
+          "show": "这病说来话长",
+          "title": "VOL.212 平时久坐 周末玩命运动？运动医学科医生给打工人的「防练废」指南",
+          "url": "/wiki/sources/vol-212-pingshi-jiuzuo-zhoumo-wanming-yundong-yundong-yixueke-yisheng-gei-dagongrende-fang-lian-fei-zhinan-lqtwr4m-9npye9giib1-om-tylmy/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/jointsymptomescalation/"
     },
     "JonathanHurst": {
       "episode_count": 1,
@@ -15643,6 +15884,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/liuzhitaiyuanlatehan/"
     },
+    "LiuZimingSportsMedicine": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lqtWr4m-9nPye9GIib1_OM-TYlMY [lqtWr4m-9nPye9GIib1_OM-TYlMY].md",
+          "key": "vol-212-pingshi-jiuzuo-zhoumo-wanming-yundong-yundong-yixueke-yisheng-gei-dagongrende-fang-lian-fei-zhinan-lqtwr4m-9npye9giib1-om-tylmy",
+          "show": "这病说来话长",
+          "title": "VOL.212 平时久坐 周末玩命运动？运动医学科医生给打工人的「防练废」指南",
+          "url": "/wiki/sources/vol-212-pingshi-jiuzuo-zhoumo-wanming-yundong-yundong-yixueke-yisheng-gei-dagongrende-fang-lian-fei-zhinan-lqtwr4m-9npye9giib1-om-tylmy/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/liuzimingsportsmedicine/"
+    },
     "LiyangYellowRiverLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -16925,6 +17182,36 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/memoryconsolidationwindows/"
     },
+    "MemoryContaminationRisk": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "123.人性实验：当心你自己！ [779479569].md",
+          "key": "123-renxing-shiyan-dangxin-ni-ziji-779479569",
+          "show": "蜜獾吃书",
+          "title": "123.人性实验：当心你自己！",
+          "url": "/wiki/sources/123-renxing-shiyan-dangxin-ni-ziji-779479569/"
+        },
+        {
+          "episode_file": "185.魔鬼出没的世界：关于阴谋论（UFO,外星人绑架案,麦田圈,X档案,揭秘日... [996181368].md",
+          "key": "185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368",
+          "show": "蜜獾吃书",
+          "title": "185.魔鬼出没的世界：关于阴谋论、UFO与科学精神",
+          "url": "/wiki/sources/185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368/"
+        },
+        {
+          "episode_file": "SCIM5781519002 [SCIM5781519002].md",
+          "key": "how-to-improve-your-memory-cognitive-function-at-any-age-dr-alan-castel-scim5781519002",
+          "show": "Huberman Lab",
+          "title": "How to Improve Your Memory & Cognitive Function at Any Age | Dr. Alan Castel",
+          "url": "/wiki/sources/how-to-improve-your-memory-cognitive-function-at-any-age-dr-alan-castel-scim5781519002/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/memorycontaminationrisk/"
+    },
     "MengMinLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -17331,6 +17618,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/midmarketdatatalentgap/"
+    },
+    "MiguelGomez": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_7e3d82eb044a5613cf31506fc7ae1597_35485644 [default.mp3_ywr3ahjkcgo_7e3d82eb044a5613cf31506fc7ae1597_35485644].md",
+          "key": "branded-fruit-how-produce-got-honeycrisp-ified",
+          "show": "Planet Money",
+          "title": "Branded fruit: How produce got \\\"Honeycrisp-ified\\\"",
+          "url": "/wiki/sources/branded-fruit-how-produce-got-honeycrisp-ified/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/miguelgomez/"
     },
     "MilesWilliams": {
       "episode_count": 1,
@@ -19319,6 +19622,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/paypal/"
     },
+    "PekingUniversityThirdHospital": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lqtWr4m-9nPye9GIib1_OM-TYlMY [lqtWr4m-9nPye9GIib1_OM-TYlMY].md",
+          "key": "vol-212-pingshi-jiuzuo-zhoumo-wanming-yundong-yundong-yixueke-yisheng-gei-dagongrende-fang-lian-fei-zhinan-lqtwr4m-9npye9giib1-om-tylmy",
+          "show": "这病说来话长",
+          "title": "VOL.212 平时久坐 周末玩命运动？运动医学科医生给打工人的「防练废」指南",
+          "url": "/wiki/sources/vol-212-pingshi-jiuzuo-zhoumo-wanming-yundong-yundong-yixueke-yisheng-gei-dagongrende-fang-lian-fei-zhinan-lqtwr4m-9npye9giib1-om-tylmy/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/pekinguniversitythirdhospital/"
+    },
     "Penelope": {
       "episode_count": 1,
       "show_count": 1,
@@ -19461,6 +19780,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/personalguardattacksurface/"
     },
+    "PeteNitzsche": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_7e3d82eb044a5613cf31506fc7ae1597_35485644 [default.mp3_ywr3ahjkcgo_7e3d82eb044a5613cf31506fc7ae1597_35485644].md",
+          "key": "branded-fruit-how-produce-got-honeycrisp-ified",
+          "show": "Planet Money",
+          "title": "Branded fruit: How produce got \\\"Honeycrisp-ified\\\"",
+          "url": "/wiki/sources/branded-fruit-how-produce-got-honeycrisp-ified/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/petenitzsche/"
+    },
     "PeterFankhauser": {
       "episode_count": 1,
       "show_count": 1,
@@ -19570,6 +19905,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/physicsstagnationclaim/"
+    },
+    "PlantVarietyIntellectualProperty": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_7e3d82eb044a5613cf31506fc7ae1597_35485644 [default.mp3_ywr3ahjkcgo_7e3d82eb044a5613cf31506fc7ae1597_35485644].md",
+          "key": "branded-fruit-how-produce-got-honeycrisp-ified",
+          "show": "Planet Money",
+          "title": "Branded fruit: How produce got \\\"Honeycrisp-ified\\\"",
+          "url": "/wiki/sources/branded-fruit-how-produce-got-honeycrisp-ified/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/plantvarietyintellectualproperty/"
     },
     "PlatformAgeEstimation": {
       "episode_count": 3,
@@ -19996,6 +20347,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/productionvibecoding/"
     },
+    "ProspectiveMemory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5781519002 [SCIM5781519002].md",
+          "key": "how-to-improve-your-memory-cognitive-function-at-any-age-dr-alan-castel-scim5781519002",
+          "show": "Huberman Lab",
+          "title": "How to Improve Your Memory & Cognitive Function at Any Age | Dr. Alan Castel",
+          "url": "/wiki/sources/how-to-improve-your-memory-cognitive-function-at-any-age-dr-alan-castel-scim5781519002/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/prospectivememory/"
+    },
     "ProvisionalIRA": {
       "episode_count": 2,
       "show_count": 1,
@@ -20119,6 +20486,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/psychologicalboundaryprotection/"
+    },
+    "PublicAgriculturalResearchCommercialization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_7e3d82eb044a5613cf31506fc7ae1597_35485644 [default.mp3_ywr3ahjkcgo_7e3d82eb044a5613cf31506fc7ae1597_35485644].md",
+          "key": "branded-fruit-how-produce-got-honeycrisp-ified",
+          "show": "Planet Money",
+          "title": "Branded fruit: How produce got \\\"Honeycrisp-ified\\\"",
+          "url": "/wiki/sources/branded-fruit-how-produce-got-honeycrisp-ified/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/publicagriculturalresearchcommercialization/"
     },
     "PublicCorpseHumiliation": {
       "episode_count": 3,
@@ -20592,6 +20975,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/recognitionbackedfrontierdiplomacy/"
     },
+    "ReconstructiveMemory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5781519002 [SCIM5781519002].md",
+          "key": "how-to-improve-your-memory-cognitive-function-at-any-age-dr-alan-castel-scim5781519002",
+          "show": "Huberman Lab",
+          "title": "How to Improve Your Memory & Cognitive Function at Any Age | Dr. Alan Castel",
+          "url": "/wiki/sources/how-to-improve-your-memory-cognitive-function-at-any-age-dr-alan-castel-scim5781519002/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/reconstructivememory/"
+    },
     "RecurrenceFreeSurvivalEndpoint": {
       "episode_count": 1,
       "show_count": 1,
@@ -20694,6 +21093,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/renfanglatehan/"
+    },
+    "RenJunLuoyangLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》823丨兵不血刃收贼寇，他如何做到的？ [luAI1F0NHb_DDaJlI99dW4bXJ9M2].md",
+          "key": "zizhi-tongjian-hanji-823-bingbuxueren-shou-zeikou-ta-ruhe-zuodao-de-luai1f0nhb-ddajli99dw4bxj9m2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》823丨兵不血刃收贼寇，他如何做到的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-823-bingbuxueren-shou-zeikou-ta-ruhe-zuodao-de-luai1f0nhb-ddajli99dw4bxj9m2/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/renjunluoyanglatehan/"
     },
     "ReproductiveAttritionStrategy": {
       "episode_count": 1,
@@ -21229,9 +21644,9 @@
       "url": "/wiki/entities/romanceofthethreekingdoms/"
     },
     "RootCausePacification": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》922丨如何在凡尘中修炼情商？ [lsXIqNEYyEOd6AeeQxuhs517PN1X].md",
@@ -21288,6 +21703,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》822丨豺狼当道，他将矛头直指皇帝岳父？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》823丨兵不血刃收贼寇，他如何做到的？ [luAI1F0NHb_DDaJlI99dW4bXJ9M2].md",
+          "key": "zizhi-tongjian-hanji-823-bingbuxueren-shou-zeikou-ta-ruhe-zuodao-de-luai1f0nhb-ddajli99dw4bxj9m2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》823丨兵不血刃收贼寇，他如何做到的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-823-bingbuxueren-shou-zeikou-ta-ruhe-zuodao-de-luai1f0nhb-ddajli99dw4bxj9m2/"
         }
       ],
       "updated": "2026-08-29",
@@ -21386,6 +21808,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/russellwilder/"
+    },
+    "RutgersUniversity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_7e3d82eb044a5613cf31506fc7ae1597_35485644 [default.mp3_ywr3ahjkcgo_7e3d82eb044a5613cf31506fc7ae1597_35485644].md",
+          "key": "branded-fruit-how-produce-got-honeycrisp-ified",
+          "show": "Planet Money",
+          "title": "Branded fruit: How produce got \\\"Honeycrisp-ified\\\"",
+          "url": "/wiki/sources/branded-fruit-how-produce-got-honeycrisp-ified/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/rutgersuniversity/"
     },
     "SaborAMexicoSalsas": {
       "episode_count": 1,
@@ -21521,6 +21959,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/savilleinquiry/"
+    },
+    "ScarletSunrise": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_7e3d82eb044a5613cf31506fc7ae1597_35485644 [default.mp3_ywr3ahjkcgo_7e3d82eb044a5613cf31506fc7ae1597_35485644].md",
+          "key": "branded-fruit-how-produce-got-honeycrisp-ified",
+          "show": "Planet Money",
+          "title": "Branded fruit: How produce got \\\"Honeycrisp-ified\\\"",
+          "url": "/wiki/sources/branded-fruit-how-produce-got-honeycrisp-ified/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/scarletsunrise/"
     },
     "ScholarOfficialPublicDuty": {
       "episode_count": 4,
@@ -21787,9 +22241,9 @@
       "url": "/wiki/concepts/selfprotectiveaccessionchoice/"
     },
     "SelfTestingMemoryPractice": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM2882548864 [SCIM2882548864].md",
@@ -21797,9 +22251,16 @@
           "show": "Huberman Lab",
           "title": "Your Top Health Questions Answered",
           "url": "/wiki/sources/your-top-health-questions-answered-scim2882548864/"
+        },
+        {
+          "episode_file": "SCIM5781519002 [SCIM5781519002].md",
+          "key": "how-to-improve-your-memory-cognitive-function-at-any-age-dr-alan-castel-scim5781519002",
+          "show": "Huberman Lab",
+          "title": "How to Improve Your Memory & Cognitive Function at Any Age | Dr. Alan Castel",
+          "url": "/wiki/sources/how-to-improve-your-memory-cognitive-function-at-any-age-dr-alan-castel-scim5781519002/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-29",
       "url": "/wiki/concepts/selftestingmemorypractice/"
     },
     "SerotoninSocialWellbeingTools": {
@@ -23013,6 +23474,38 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/strategicemotionconcealment/"
     },
+    "StrengthTrainingJointProtection": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lqtWr4m-9nPye9GIib1_OM-TYlMY [lqtWr4m-9nPye9GIib1_OM-TYlMY].md",
+          "key": "vol-212-pingshi-jiuzuo-zhoumo-wanming-yundong-yundong-yixueke-yisheng-gei-dagongrende-fang-lian-fei-zhinan-lqtwr4m-9npye9giib1-om-tylmy",
+          "show": "这病说来话长",
+          "title": "VOL.212 平时久坐 周末玩命运动？运动医学科医生给打工人的「防练废」指南",
+          "url": "/wiki/sources/vol-212-pingshi-jiuzuo-zhoumo-wanming-yundong-yundong-yixueke-yisheng-gei-dagongrende-fang-lian-fei-zhinan-lqtwr4m-9npye9giib1-om-tylmy/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/strengthtrainingjointprotection/"
+    },
+    "StretchingMobilitySafety": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lqtWr4m-9nPye9GIib1_OM-TYlMY [lqtWr4m-9nPye9GIib1_OM-TYlMY].md",
+          "key": "vol-212-pingshi-jiuzuo-zhoumo-wanming-yundong-yundong-yixueke-yisheng-gei-dagongrende-fang-lian-fei-zhinan-lqtwr4m-9npye9giib1-om-tylmy",
+          "show": "这病说来话长",
+          "title": "VOL.212 平时久坐 周末玩命运动？运动医学科医生给打工人的「防练废」指南",
+          "url": "/wiki/sources/vol-212-pingshi-jiuzuo-zhoumo-wanming-yundong-yundong-yixueke-yisheng-gei-dagongrende-fang-lian-fei-zhinan-lqtwr4m-9npye9giib1-om-tylmy/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/stretchingmobilitysafety/"
+    },
     "Stripe": {
       "episode_count": 6,
       "show_count": 4,
@@ -23103,6 +23596,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/sukanglatehan/"
     },
+    "SuZhangLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》823丨兵不血刃收贼寇，他如何做到的？ [luAI1F0NHb_DDaJlI99dW4bXJ9M2].md",
+          "key": "zizhi-tongjian-hanji-823-bingbuxueren-shou-zeikou-ta-ruhe-zuodao-de-luai1f0nhb-ddajli99dw4bxj9m2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》823丨兵不血刃收贼寇，他如何做到的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-823-bingbuxueren-shou-zeikou-ta-ruhe-zuodao-de-luai1f0nhb-ddajli99dw4bxj9m2/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/suzhanglatehan/"
+    },
     "SubconsciousCreativeIncubation": {
       "episode_count": 1,
       "show_count": 1,
@@ -23118,6 +23627,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/subconsciouscreativeincubation/"
+    },
+    "SuccessfulAging": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5781519002 [SCIM5781519002].md",
+          "key": "how-to-improve-your-memory-cognitive-function-at-any-age-dr-alan-castel-scim5781519002",
+          "show": "Huberman Lab",
+          "title": "How to Improve Your Memory & Cognitive Function at Any Age | Dr. Alan Castel",
+          "url": "/wiki/sources/how-to-improve-your-memory-cognitive-function-at-any-age-dr-alan-castel-scim5781519002/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/successfulaging/"
     },
     "SufferingBasedMoralSubjecthood": {
       "episode_count": 1,
@@ -24599,6 +25124,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/tokyo/"
     },
+    "TomOrton": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_7e3d82eb044a5613cf31506fc7ae1597_35485644 [default.mp3_ywr3ahjkcgo_7e3d82eb044a5613cf31506fc7ae1597_35485644].md",
+          "key": "branded-fruit-how-produce-got-honeycrisp-ified",
+          "show": "Planet Money",
+          "title": "Branded fruit: How produce got \\\"Honeycrisp-ified\\\"",
+          "url": "/wiki/sources/branded-fruit-how-produce-got-honeycrisp-ified/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/tomorton/"
+    },
     "TommyWood": {
       "episode_count": 1,
       "show_count": 1,
@@ -25064,6 +25605,45 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/universityofcaliforniasanfrancisco/"
+    },
+    "UniversityOfMinnesota": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "It’s not easy being Green： Zack Polanski [6a82d1a0ff328abd84724cf0].md",
+          "key": "its-not-easy-being-green-zack-polanski-6a82d1a0ff328abd84724cf0",
+          "show": "Economist Podcasts",
+          "title": "It’s not easy being Green: Zack Polanski",
+          "url": "/wiki/sources/its-not-easy-being-green-zack-polanski-6a82d1a0ff328abd84724cf0/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_7e3d82eb044a5613cf31506fc7ae1597_35485644 [default.mp3_ywr3ahjkcgo_7e3d82eb044a5613cf31506fc7ae1597_35485644].md",
+          "key": "branded-fruit-how-produce-got-honeycrisp-ified",
+          "show": "Planet Money",
+          "title": "Branded fruit: How produce got \\\"Honeycrisp-ified\\\"",
+          "url": "/wiki/sources/branded-fruit-how-produce-got-honeycrisp-ified/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/universityofminnesota/"
+    },
+    "UniversityOfWashington": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_7e3d82eb044a5613cf31506fc7ae1597_35485644 [default.mp3_ywr3ahjkcgo_7e3d82eb044a5613cf31506fc7ae1597_35485644].md",
+          "key": "branded-fruit-how-produce-got-honeycrisp-ified",
+          "show": "Planet Money",
+          "title": "Branded fruit: How produce got \\\"Honeycrisp-ified\\\"",
+          "url": "/wiki/sources/branded-fruit-how-produce-got-honeycrisp-ified/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/universityofwashington/"
     },
     "UntimelyExtravagance": {
       "episode_count": 11,
@@ -26439,9 +27019,9 @@
       "url": "/wiki/entities/wushuwanmagistratelatehan/"
     },
     "WuYouLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》830丨东汉李固：我虽死犹荣！ [lt__j7n9gOTIW_nEgQXOJoAcf6Ji].md",
@@ -26449,6 +27029,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》830丨东汉李固：我虽死犹荣！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》823丨兵不血刃收贼寇，他如何做到的？ [luAI1F0NHb_DDaJlI99dW4bXJ9M2].md",
+          "key": "zizhi-tongjian-hanji-823-bingbuxueren-shou-zeikou-ta-ruhe-zuodao-de-luai1f0nhb-ddajli99dw4bxj9m2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》823丨兵不血刃收贼寇，他如何做到的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-823-bingbuxueren-shou-zeikou-ta-ruhe-zuodao-de-luai1f0nhb-ddajli99dw4bxj9m2/"
         }
       ],
       "updated": "2026-08-29",
@@ -28484,9 +29071,9 @@
       "url": "/wiki/entities/zhangfanwanlatehan/"
     },
     "ZhangGangLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》822丨豺狼当道，他将矛头直指皇帝岳父？ [lqHpMAYVd3p07BYR_zOIv-jyhdv_].md",
@@ -28501,6 +29088,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》825丨历史告诉你：当你没用时，人性最自私",
           "url": "/wiki/sources/zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》823丨兵不血刃收贼寇，他如何做到的？ [luAI1F0NHb_DDaJlI99dW4bXJ9M2].md",
+          "key": "zizhi-tongjian-hanji-823-bingbuxueren-shou-zeikou-ta-ruhe-zuodao-de-luai1f0nhb-ddajli99dw4bxj9m2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》823丨兵不血刃收贼寇，他如何做到的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-823-bingbuxueren-shou-zeikou-ta-ruhe-zuodao-de-luai1f0nhb-ddajli99dw4bxj9m2/"
         }
       ],
       "updated": "2026-08-29",
@@ -28791,9 +29385,9 @@
       "url": "/wiki/entities/zhangxiu/"
     },
     "ZhangYingGuanglingLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》825丨历史告诉你：当你没用时，人性最自私 [luV-8z9AXuejnFhLKgsUxEE3uKED].md",
@@ -28801,6 +29395,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》825丨历史告诉你：当你没用时，人性最自私",
           "url": "/wiki/sources/zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》823丨兵不血刃收贼寇，他如何做到的？ [luAI1F0NHb_DDaJlI99dW4bXJ9M2].md",
+          "key": "zizhi-tongjian-hanji-823-bingbuxueren-shou-zeikou-ta-ruhe-zuodao-de-luai1f0nhb-ddajli99dw4bxj9m2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》823丨兵不血刃收贼寇，他如何做到的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-823-bingbuxueren-shou-zeikou-ta-ruhe-zuodao-de-luai1f0nhb-ddajli99dw4bxj9m2/"
         }
       ],
       "updated": "2026-08-29",
@@ -29009,9 +29610,9 @@
       "url": "/wiki/entities/zhaoyanlatehan/"
     },
     "ZheBingShuoLaiHuaChang": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "loFs520pS1eVva8naFSnRKcbvgJZ [loFs520pS1eVva8naFSnRKcbvgJZ].md",
@@ -29068,6 +29669,13 @@
           "show": "这病说来话长",
           "title": "VOL.213 蚊子为什么偏爱咬你？皮肤科医生拆穿“驱蚊”智商税｜附快速止痒选药指南",
           "url": "/wiki/sources/vol-213-wenzi-weishenme-pianai-yao-ni-pifuke-yisheng-chaichuan-quwen-zhishangshui-fu-kuaisu-zhiyang-xuanyao-zhinan-lifkugb27d79ut30lwfmu5vojegec/"
+        },
+        {
+          "episode_file": "lqtWr4m-9nPye9GIib1_OM-TYlMY [lqtWr4m-9nPye9GIib1_OM-TYlMY].md",
+          "key": "vol-212-pingshi-jiuzuo-zhoumo-wanming-yundong-yundong-yixueke-yisheng-gei-dagongrende-fang-lian-fei-zhinan-lqtwr4m-9npye9giib1-om-tylmy",
+          "show": "这病说来话长",
+          "title": "VOL.212 平时久坐 周末玩命运动？运动医学科医生给打工人的「防练废」指南",
+          "url": "/wiki/sources/vol-212-pingshi-jiuzuo-zhoumo-wanming-yundong-yundong-yixueke-yisheng-gei-dagongrende-fang-lian-fei-zhinan-lqtwr4m-9npye9giib1-om-tylmy/"
         }
       ],
       "updated": "2026-08-29",

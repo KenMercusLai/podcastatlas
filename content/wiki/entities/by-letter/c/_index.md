@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 8198
+wiki_total_pages: 8212
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -1013,6 +1013,9 @@ wiki_pages:
   - key: "CortecGroup"
     title: "Cortec Group"
     url: "/wiki/entities/cortecgroup/"
+  - key: "CosmicCrisp"
+    title: "Cosmic Crisp"
+    url: "/wiki/entities/cosmiccrisp/"
   - key: "COSMOPlat"
     title: "COSMOPlat / 卡奥斯"
     url: "/wiki/entities/cosmoplat/"

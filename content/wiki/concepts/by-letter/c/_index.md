@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 5870
+wiki_total_pages: 5883
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -872,6 +872,9 @@ wiki_pages:
   - key: "CognitionAsFortuneRoot"
     title: "Cognition As Fortune Root / 认知通达决定福禄"
     url: "/wiki/concepts/cognitionasfortuneroot/"
+  - key: "CognitiveAging"
+    title: "Cognitive Aging"
+    url: "/wiki/concepts/cognitiveaging/"
   - key: "CognitiveDebt"
     title: "Cognitive Debt / 认知负债"
     url: "/wiki/concepts/cognitivedebt/"
@@ -983,6 +986,9 @@ wiki_pages:
   - key: "CommodityTimeHorizonFramework"
     title: "Commodity Time-Horizon Framework"
     url: "/wiki/concepts/commoditytimehorizonframework/"
+  - key: "CommodityTrapEscape"
+    title: "Commodity Trap Escape"
+    url: "/wiki/concepts/commoditytrapescape/"
   - key: "CommonEnemyAlliance"
     title: "Common-Enemy Alliance / 共同敌人联盟"
     url: "/wiki/concepts/commonenemyalliance/"

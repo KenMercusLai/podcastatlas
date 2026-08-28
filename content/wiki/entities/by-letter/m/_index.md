@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 8198
+wiki_total_pages: 8212
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -800,6 +800,9 @@ wiki_pages:
   - key: "Midjourney"
     title: "Midjourney"
     url: "/wiki/entities/midjourney/"
+  - key: "MiguelGomez"
+    title: "Miguel Gomez"
+    url: "/wiki/entities/miguelgomez/"
   - key: "MiguelTinkerSalas"
     title: "Miguel Tinker Salas"
     url: "/wiki/entities/migueltinkersalas/"

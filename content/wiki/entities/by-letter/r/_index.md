@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 8198
+wiki_total_pages: 8212
 wiki_pages:
   - key: "RachelReeves"
     title: "Rachel Reeves"
@@ -644,6 +644,9 @@ wiki_pages:
   - key: "RussoChineseBank"
     title: "Russo-Chinese Bank"
     url: "/wiki/entities/russochinesebank/"
+  - key: "RutgersUniversity"
+    title: "Rutgers University"
+    url: "/wiki/entities/rutgersuniversity/"
   - key: "RuthBenedict"
     title: "Ruth Benedict / 本尼狄克特"
     url: "/wiki/entities/ruthbenedict/"
@@ -707,6 +710,9 @@ wiki_pages:
   - key: "RenJun"
     title: "任峻 / Ren Jun"
     url: "/wiki/entities/renjun/"
+  - key: "RenJunLuoyangLateHan"
+    title: "任峻 / Ren Jun (Luoyang, late Han)"
+    url: "/wiki/entities/renjunluoyanglatehan/"
   - key: "RenShiQinMerchant"
     title: "任氏 / Ren Family (Qin-Han merchant)"
     url: "/wiki/entities/renshiqinmerchant/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 5870
+wiki_total_pages: 5883
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1376,6 +1376,12 @@ wiki_pages:
   - key: "StreetJianghuSociety"
     title: "Street Jianghu Society"
     url: "/wiki/concepts/streetjianghusociety/"
+  - key: "StrengthTrainingJointProtection"
+    title: "Strength Training for Joint Protection / 保护关节的力量训练"
+    url: "/wiki/concepts/strengthtrainingjointprotection/"
+  - key: "StretchingMobilitySafety"
+    title: "Stretching and Mobility Safety / 拉伸与灵活性安全"
+    url: "/wiki/concepts/stretchingmobilitysafety/"
   - key: "StrikeThreatAsBATNA"
     title: "Strike Threat as BATNA"
     url: "/wiki/concepts/strikethreatasbatna/"
@@ -1466,6 +1472,9 @@ wiki_pages:
   - key: "SuburbanDeliveryStrategy"
     title: "Suburban Delivery Strategy"
     url: "/wiki/concepts/suburbandeliverystrategy/"
+  - key: "SuccessfulAging"
+    title: "Successful Aging"
+    url: "/wiki/concepts/successfulaging/"
   - key: "SuccessionAsContinuousEntrepreneurship"
     title: "Succession as Continuous Entrepreneurship / 接班即持续创业"
     url: "/wiki/concepts/successionascontinuousentrepreneurship/"

@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 1873
+topic_total_pages: 1875
 topic_concepts:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -397,6 +397,9 @@ topic_concepts:
   - key: "BoundedSpeculativeOptionality"
     title: "Bounded Speculative Optionality / 有边界的彩票仓位"
     url: "/wiki/concepts/boundedspeculativeoptionality/"
+  - key: "BrandedProduceDifferentiation"
+    title: "Branded Produce Differentiation"
+    url: "/wiki/concepts/brandedproducedifferentiation/"
   - key: "BrexitEconomicFriction"
     title: "Brexit Economic Friction"
     url: "/wiki/concepts/brexiteconomicfriction/"
@@ -562,6 +565,9 @@ topic_concepts:
   - key: "CommodityTimeHorizonFramework"
     title: "Commodity Time-Horizon Framework"
     url: "/wiki/concepts/commoditytimehorizonframework/"
+  - key: "CommodityTrapEscape"
+    title: "Commodity Trap Escape"
+    url: "/wiki/concepts/commoditytrapescape/"
   - key: "CommunityEmbeddedBusiness"
     title: "Community-Embedded Business"
     url: "/wiki/concepts/communityembeddedbusiness/"

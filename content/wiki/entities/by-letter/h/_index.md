@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 8198
+wiki_total_pages: 8212
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -443,6 +443,9 @@ wiki_pages:
   - key: "HoneyBespokeStationery"
     title: "Honey Bespoke Stationery"
     url: "/wiki/entities/honeybespokestationery/"
+  - key: "Honeycrisp"
+    title: "Honeycrisp"
+    url: "/wiki/entities/honeycrisp/"
   - key: "HongKong"
     title: "Hong Kong / 香港"
     url: "/wiki/entities/hongkong/"

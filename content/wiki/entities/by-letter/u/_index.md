@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "u"
-wiki_total_pages: 8198
+wiki_total_pages: 8212
 wiki_pages:
   - key: "UDropInn"
     title: "U Drop Inn"
@@ -245,6 +245,9 @@ wiki_pages:
   - key: "UniversityOfVirginia"
     title: "University of Virginia"
     url: "/wiki/entities/universityofvirginia/"
+  - key: "UniversityOfWashington"
+    title: "University of Washington"
+    url: "/wiki/entities/universityofwashington/"
   - key: "UNTUCKit"
     title: "UNTUCKit"
     url: "/wiki/entities/untuckit/"

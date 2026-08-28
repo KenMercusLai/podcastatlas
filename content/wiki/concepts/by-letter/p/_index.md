@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5870
+wiki_total_pages: 5883
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -491,6 +491,9 @@ wiki_pages:
   - key: "PlantAcousticSignaling"
     title: "Plant Acoustic Signaling"
     url: "/wiki/concepts/plantacousticsignaling/"
+  - key: "PlantVarietyIntellectualProperty"
+    title: "Plant Variety Intellectual Property"
+    url: "/wiki/concepts/plantvarietyintellectualproperty/"
   - key: "PlasmaTVPreference"
     title: "Plasma TV Preference"
     url: "/wiki/concepts/plasmatvpreference/"
@@ -1289,6 +1292,9 @@ wiki_pages:
   - key: "ProprietaryAIInterconnectFragmentation"
     title: "Proprietary AI Interconnect Fragmentation"
     url: "/wiki/concepts/proprietaryaiinterconnectfragmentation/"
+  - key: "ProspectiveMemory"
+    title: "Prospective Memory"
+    url: "/wiki/concepts/prospectivememory/"
   - key: "ProstheticFittingConstraint"
     title: "Prosthetic Fitting Constraint"
     url: "/wiki/concepts/prostheticfittingconstraint/"
@@ -1364,6 +1370,9 @@ wiki_pages:
   - key: "PsychometricSocialSorting"
     title: "Psychometric Social Sorting / 心理测量式社会分层"
     url: "/wiki/concepts/psychometricsocialsorting/"
+  - key: "PublicAgriculturalResearchCommercialization"
+    title: "Public Agricultural Research Commercialization"
+    url: "/wiki/concepts/publicagriculturalresearchcommercialization/"
   - key: "PublicArgumentForBystanders"
     title: "Public Argument For Bystanders / 给第三方看的争论"
     url: "/wiki/concepts/publicargumentforbystanders/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 8198
+wiki_total_pages: 8212
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -230,6 +230,9 @@ wiki_pages:
   - key: "ScaleAI"
     title: "Scale AI"
     url: "/wiki/entities/scaleai/"
+  - key: "ScarletSunrise"
+    title: "Scarlet Sunrise"
+    url: "/wiki/entities/scarletsunrise/"
   - key: "SchengenArea"
     title: "Schengen Area / 申根区"
     url: "/wiki/entities/schengenarea/"
@@ -1889,6 +1892,9 @@ wiki_pages:
   - key: "SuQin"
     title: "苏秦 / Su Qin"
     url: "/wiki/entities/suqin/"
+  - key: "SuZhangLateHan"
+    title: "苏章 / Su Zhang (late Han)"
+    url: "/wiki/entities/suzhanglatehan/"
   - key: "SuQianLateHan"
     title: "苏谦 / Su Qian (late Han)"
     url: "/wiki/entities/suqianlatehan/"

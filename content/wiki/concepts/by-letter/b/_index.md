@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 5870
+wiki_total_pages: 5883
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -473,6 +473,9 @@ wiki_pages:
   - key: "BrandControlledAuthentication"
     title: "Brand-Controlled Authentication"
     url: "/wiki/concepts/brandcontrolledauthentication/"
+  - key: "BrandedProduceDifferentiation"
+    title: "Branded Produce Differentiation"
+    url: "/wiki/concepts/brandedproducedifferentiation/"
   - key: "Brexit"
     title: "Brexit"
     url: "/wiki/concepts/brexit/"

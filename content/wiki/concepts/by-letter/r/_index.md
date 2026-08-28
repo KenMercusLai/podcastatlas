@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 5870
+wiki_total_pages: 5883
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -146,6 +146,9 @@ wiki_pages:
   - key: "RecommendationSystemProductization"
     title: "Recommendation System Productization"
     url: "/wiki/concepts/recommendationsystemproductization/"
+  - key: "ReconstructiveMemory"
+    title: "Reconstructive Memory"
+    url: "/wiki/concepts/reconstructivememory/"
   - key: "RecordAndReplay"
     title: "Record and Replay"
     url: "/wiki/concepts/recordandreplay/"

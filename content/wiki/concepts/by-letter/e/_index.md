@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 5870
+wiki_total_pages: 5883
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -677,6 +677,12 @@ wiki_pages:
   - key: "ExecutorCharacterAdviceRisk"
     title: "Executor Character Advice Risk"
     url: "/wiki/concepts/executorcharacteradvicerisk/"
+  - key: "ExerciseAssistiveGearBoundary"
+    title: "Exercise Assistive Gear Boundary / 运动护具辅助边界"
+    url: "/wiki/concepts/exerciseassistivegearboundary/"
+  - key: "ExerciseLoadManagement"
+    title: "Exercise Load Management / 运动负荷管理"
+    url: "/wiki/concepts/exerciseloadmanagement/"
   - key: "ExerciseSelfMasteryForProcrastination"
     title: "Exercise Self-Mastery For Procrastination"
     url: "/wiki/concepts/exerciseselfmasteryforprocrastination/"

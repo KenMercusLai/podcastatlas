@@ -5579,6 +5579,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "AlanCastel": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "AlanGreenspan": [
     {
       "key": "economics",
@@ -10477,6 +10484,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "BrandedProduceDifferentiation": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "BrandonKatz": [
     {
       "key": "culture",
@@ -14036,6 +14050,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "CognitiveAging": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "CognitiveDebt": [
     {
       "key": "technology",
@@ -14337,6 +14358,13 @@
     }
   ],
   "CommodityTimeHorizonFramework": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
+  "CommodityTrapEscape": [
     {
       "key": "economics",
       "label": "Economics",
@@ -20818,6 +20846,20 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "ExerciseAssistiveGearBoundary": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "ExerciseLoadManagement": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "ExerciseSelfMasteryForProcrastination": [
@@ -31911,6 +31953,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "JointSymptomEscalation": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "JollofIndex": [
@@ -44289,6 +44338,13 @@
       "url": "/topics/science/"
     }
   ],
+  "PlantVarietyIntellectualProperty": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "PlatformAffordance": [
     {
       "key": "culture",
@@ -47846,6 +47902,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "ReconstructiveMemory": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "RecordedMeetingAnalysis": [
@@ -54822,6 +54885,20 @@
       "url": "/topics/technology/"
     }
   ],
+  "StrengthTrainingJointProtection": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "StretchingMobilitySafety": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "StridingAI": [
     {
       "key": "technology",
@@ -55080,6 +55157,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "SuccessfulAging": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "SuccessionAsContinuousEntrepreneurship": [
@@ -68152,6 +68236,13 @@
     }
   ],
   "how-to-improve-motivation-overcome-procrastination-dr-masud-husain-scim3386045656": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "how-to-improve-your-memory-cognitive-function-at-any-age-dr-alan-castel-scim5781519002": [
     {
       "key": "science",
       "label": "Science",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 8198
+wiki_total_pages: 8212
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -233,6 +233,9 @@ wiki_pages:
   - key: "PekingUniversity"
     title: "Peking University / 北京大学"
     url: "/wiki/entities/pekinguniversity/"
+  - key: "PekingUniversityThirdHospital"
+    title: "Peking University Third Hospital / 北医三院"
+    url: "/wiki/entities/pekinguniversitythirdhospital/"
   - key: "Peloton"
     title: "Peloton"
     url: "/wiki/entities/peloton/"
@@ -284,6 +287,9 @@ wiki_pages:
   - key: "PeteKoomen"
     title: "Pete Koomen"
     url: "/wiki/entities/petekoomen/"
+  - key: "PeteNitzsche"
+    title: "Pete Nitzsche"
+    url: "/wiki/entities/petenitzsche/"
   - key: "PeteRozelle"
     title: "Pete Rozelle"
     url: "/wiki/entities/peterozelle/"

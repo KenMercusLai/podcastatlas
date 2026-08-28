@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "j"
-wiki_total_pages: 5870
+wiki_total_pages: 5883
 wiki_pages:
   - key: "JankyMVP"
     title: "Janky MVP"
@@ -170,6 +170,9 @@ wiki_pages:
   - key: "JointEmbeddingPredictiveArchitecture"
     title: "Joint Embedding Predictive Architecture"
     url: "/wiki/concepts/jointembeddingpredictivearchitecture/"
+  - key: "JointSymptomEscalation"
+    title: "Joint Symptom Escalation / 关节症状升级边界"
+    url: "/wiki/concepts/jointsymptomescalation/"
   - key: "JollofIndex"
     title: "Jollof Index"
     url: "/wiki/concepts/jollofindex/"

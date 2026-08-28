@@ -6,6 +6,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Branded fruit: How produce got "Honeycrisp-ified"](sources/branded-fruit-how-produce-got-honeycrisp-ified.md) - Planet Money episode on Scarlet Sunrise, Honeycrisp, plant-variety IP, university produce commercialization, and the race to differentiate fresh produce.
+- [《资治通鉴·汉纪》823丨兵不血刃收贼寇，他如何做到的？](sources/zizhi-tongjian-hanji-823-bingbuxueren-shou-zeikou-ta-ruhe-zuodao-de-luai1f0nhb-ddajli99dw4bxj9m2.md) — 芮淇讲透资治通鉴 episode on Zhang Gang's Guangling pacification of Zhang Ying, grievance-aware surrender negotiation, post-surrender housing/land/office settlement, Ren Jun's Luoyang administration, Su Zhang's public-law impartiality, and Wu You's humane handling of Sun Xing.
 - [《资治通鉴·汉纪》824丨为什么我们要学“守拙”](sources/zizhi-tongjian-hanji-824-weishenme-women-yao-xue-shouzhuo-lpssy8ltykugdpvmgrzwcpf6-9v9.md) — 芮淇讲透资治通鉴 episode on 143-144 CE Emperor Shun's final year, Zhao Chong's Qiang-front death, Huang Qiong's xiaolian criteria expansion, Zhong Hao's sword-backed credential check for Crown Prince Liu Bing, Emperor Chong's accession, Huangfu Gui's anti-eunuch policy answer, and spreading Yang-Xu/Jiujiang/Rinan unrest.
 - [《资治通鉴·汉纪》825丨历史告诉你：当你没用时，人性最自私](sources/zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked.md) — 芮淇讲透资治通鉴 episode on the 145 CE Emperor Chong succession crisis, Li Gu's rejection of concealed death, Liu Suan's rejected candidacy, Liu Zuan's child accession as Emperor Zhi, restrained burial, court cleanup, anonymous slander, and Zhang Ying's renewed Guangling revolt.
 - [《资治通鉴·汉纪》826丨乱世的罪与恶，背后是贪婪的人性](sources/zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv.md) — 芮淇讲透资治通鉴 episode on 145 CE Western Qiang military-finance corruption, Liang Bing's trust-based surrender policy, Teng Fu and Feng Gun's Xu-Yang anti-bandit campaign, Zhong Hao's gold-snake bribery report, and Liang Ji's retaliation channels.
@@ -43,8 +45,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [咖啡豆｜美式汉堡炸鸡扎堆来华，快餐品牌为什么又盯上中国市场？](sources/kafeidou-meishi-hanbao-zhaji-zhadui-laihua-kuaican-pinpai-weishenme-you-dingshang-zhongguo-shichang-1009244406.md) — 声动早咖啡 coffee-bean episode on Five Guys queues, U.S. fast-food brands' China expansion, local franchise partners, mall first-store traffic, and premium fast-food repeat-purchase risk.
 - [Selling Before Building: $1M ARR in Six Months](sources/selling-before-building-1m-arr-in-six-months.md) — The SaaS Podcast episode with Julius Kurfgen on Uplane, selling before building, one-week demo sprints, managed-service AI marketing automation, performance-linked ad-spend pricing, and atomic content guardrails.
 - [689. A Murderous Affair: The Habsburgs' Greatest Scandal (Part 1)](sources/689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702.md) — The Rest Is History episode on Crown Prince Rudolf's Habsburg formation, Austria-Hungary's dual-monarchy strains, fin-de-siecle Vienna, and Mary Vetsera's first access to Rudolf.
+- [How to Improve Your Memory & Cognitive Function at Any Age | Dr. Alan Castel](sources/how-to-improve-your-memory-cognitive-function-at-any-age-dr-alan-castel-scim5781519002.md) — Huberman Lab episode with Alan Castel on reconstructive memory, active retrieval, desirable difficulty, eyewitness contamination, prospective memory, cognitive aging, and successful aging.
 - [Essentials: The Science & Treatment of Bipolar Disorder](sources/essentials-the-science-treatment-of-bipolar-disorder-scim8821948371.md) — Huberman Lab Essentials episode on bipolar I and II, mania, hypomania, lithium, interoception, therapy, ECT, lifestyle supports, supplements, and creativity correlation.
 - [Accelerate Learning & Increase Cognitive Capacity | Dr. Tommy Wood](sources/accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551.md) — Huberman Lab episode with Tommy Wood on adult neuroplasticity, multimodal learning, flow versus clutch states, exercise-specific brain adaptation, nutrient sufficiency, dementia prevention, and concussion recovery.
+- [VOL.212 平时久坐 周末玩命运动？运动医学科医生给打工人的「防练废」指南](sources/vol-212-pingshi-jiuzuo-zhoumo-wanming-yundong-yundong-yixueke-yisheng-gei-dagongrende-fang-lian-fei-zhinan-lqtwr4m-9npye9giib1-om-tylmy.md) — 这病说来话长 episode with 阿汤 and 北医三院 sports-medicine doctors on safe exercise, progressive load, joint-protective strength, running, cycling, tennis, HYROX, braces, stretching, joint popping, and warning signs.
 - [VOL.213 蚊子为什么偏爱咬你？皮肤科医生拆穿“驱蚊”智商税｜附快速止痒选药指南](sources/vol-213-wenzi-weishenme-pianai-yao-ni-pifuke-yisheng-chaichuan-quwen-zhishangshui-fu-kuaisu-zhiyang-xuanyao-zhinan-lifkugb27d79ut30lwfmu5vojegec.md) — 这病说来话长 episode with 阿汤, 亚萌, 尹老师, and 吴老师 on mosquito prevention, repellent ingredients, insect-bite dermatitis, anti-itch aftercare, tick/chigger escalation, and household standing-water control.
 - [VOL.214 为什么越优秀的人，越容易在职场被PUA到怀疑自己？从《铁拳教育》聊到“铁拳职场”](sources/vol-214-weishenme-yue-youxiu-de-ren-yue-rongyi-zai-zhichang-bei-pua-dao-huaiyi-ziji-cong-tiequan-jiaoyu-liaodao-tiequan-zhichang-lmx4ewrw7kvcqpyh-q3bur35ybgz.md) — 这病说来话长 episode with 阿汤 and 南基贺 on 《铁拳教育》, workplace bullying, structural power imbalance, parental projection, psychological boundaries, evidence preservation, and nonviolent complaint/support routes.
 - [《资治通鉴·汉纪》849丨苏轼自幼读的《范滂传》，究竟说的谁？](sources/zizhi-tongjian-hanji-849-sushi-ziyou-du-de-fanpangzhuan-jiujing-shuo-de-shui-ltquglqzvezeyp0mqxwgwnlp12lf.md) — 芮淇讲透资治通鉴 episode on Fan Pang's 159 CE Qingzhao-envoy cleanup, Huang Qiong's recruitment, Chen Fan's five-recluse recommendation, and Xu Zhi, Jiang Gong, Yuan Hong, Wei Zhu, and Li Tan's principled refusals to serve.
@@ -1659,10 +1663,19 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Rutgers University](entities/RutgersUniversity.md) - Public research university whose Scarlet Sunrise tomato case links agricultural breeding, IP handoff, and produce branding.
+- [Scarlet Sunrise](entities/ScarletSunrise.md) - Rutgers bicolor grape tomato used by Planet Money to explain branded produce and protected crop varieties.
+- [Pete Nitzsche](entities/PeteNitzsche.md) - Rutgers farm and extension figure who co-developed Scarlet Sunrise and foregrounds farmer profitability and crop management.
+- [Tom Orton](entities/TomOrton.md) - Retired Rutgers agriculture professor and co-breeder of Scarlet Sunrise.
+- [Dan Pashman](entities/DanPashman.md) - Food-podcast host whose grape-tomato skepticism and tasting role ground the Scarlet Sunrise proof point.
+- [Miguel Gomez](entities/MiguelGomez.md) - Cornell specialty-crop economist explaining the race for differentiation and search-cost limits in produce.
+- [Honeycrisp](entities/Honeycrisp.md) - University of Minnesota apple variety that became the breakout economic model for premium produce.
+- [Cosmic Crisp](entities/CosmicCrisp.md) - University of Washington apple variety used as a later high-revenue example of protected produce commercialization.
+- [University of Washington](entities/UniversityOfWashington.md) - Public university cited through Cosmic Crisp as an agricultural variety commercialization actor.
 - [赵冲 / Zhao Chong (late Han)](entities/ZhaoChongLateHan.md) — Qiang-front officer whose 143-144 CE victories weaken the Shaodang Qiang before he dies pursuing defecting surrendered Hu and rebel Qiang.
 - [高梵 / Gao Fan (late Han)](entities/GaoFanLateHan.md) — Palace eunuch envoy whose attempt to fetch Crown Prince Liu Bing without edict credentials is blocked by Zhong Hao until authorization is produced.
 - [汉冲帝 / Emperor Chong of Han](entities/EmperorChongOfHan.md) — Child Eastern Han emperor whose 144 CE crown-prince credential crisis and 145 CE death frame the Liang Na, Li Gu, Liu Suan, and Liu Zuan succession sequence.
-- [张婴 / Zhang Ying (Guangling, late Han)](entities/ZhangYingGuanglingLateHan.md) — Guangling rebel who rises again after Zhang Gang's death, showing how pacification can depend on credible local authority.
+- [张婴 / Zhang Ying (Guangling, late Han)](entities/ZhangYingGuanglingLateHan.md) — Guangling rebel whose surrender to Zhang Gang and later posthumous renewed revolt show both the force and fragility of trusted pacification.
 - [梁并 / Liang Bing (late Han)](entities/LiangBingLateHan.md) — Left Fengyi whose trust-based surrender policy pacifies the Western Qiang aftermath after corrupt campaign finance hollows out military force.
 - [赵序 / Zhao Xu (late Han)](entities/ZhaoXuLateHan.md) — Zhonglang jiang assigned to assist Feng Gun in the 145 CE Xu-Yang campaign and later executed for fearfulness and inflated kill reporting.
 - [刘君世 / Liu Junshi (late Han)](entities/LiuJunshiLateHan.md) — Yongchang administrator whose gold patterned snake gift to Liang Ji becomes the corruption report that angers Liang against Zhong Hao.
@@ -1671,7 +1684,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [华孟 / Hua Meng (late Han)](entities/HuaMengLateHan.md) — Liyang rebel who claims Black Emperor status, attacks Jiujiang, kills administrator Yang Cen, and is defeated by Teng Fu.
 - [谢安 / Xie An (Xiapi, late Han)](entities/XieAnXiapiLateHan.md) — Xiapi local actor who leads kin and associates to ambush Xu Feng and receives the Pingxiang marquisate.
 - [徐凤 / Xu Feng (bandit, late Han)](entities/XuFengBanditLateHan.md) — Xu-Yang bandit leader who escapes Teng Fu's campaign, burns Dongcheng, and is killed by Xie An of Xiapi.
-- [张纲 / Zhang Gang (late Han)](entities/ZhangGangLateHan.md) — Late-Han inspector who buries his carriage wheel in Luoyang and directly impeaches Liang Ji and Liang Buyi rather than pursuing lesser officials.
+- [张纲 / Zhang Gang (late Han)](entities/ZhangGangLateHan.md) — Late-Han inspector and Guangling administrator whose profile joins buried-wheel anti-Liang impeachment with grievance-aware pacification and settlement of Zhang Ying.
+- [任峻 / Ren Jun (Luoyang, late Han)](entities/RenJunLuoyangLateHan.md) — Luoyang令 whose staffing and deterrence profile is kept distinct from the later Cao Cao屯田 official of the same name.
 - [汉顺帝 / Emperor Shun of Han](entities/EmperorShunOfHan.md) — Eastern Han ruler whose 141-144 CE profile combines selective appointment repair, frontier pressure, disaster signals, palace-access vulnerability, and a child succession.
 - [Legora](entities/Legora.md) - Legal AI company profiled by All-In around legal data, agent orchestration, trust, compliance, and billable-hour disruption.
 - [Cooley](entities/Cooley.md) - Law-firm example of startup-founder legal-service productization through firm materials, precedent, and workflows.
@@ -1745,6 +1759,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Elisabeth Marie of Austria](entities/ElisabethMarieOfAustria.md) — Rudolf and Stephanie's daughter, named as the later Red Archduchess and as a dynastic child who does not resolve the male-heir problem.
 - [Georg von Schonerer](entities/GeorgVonSchonerer.md) — Pan-German nationalist and extremist antisemite used as Rudolf's political counterpoint in late-Habsburg Vienna.
 - [Tommy Wood](entities/TommyWood.md) — Huberman Lab guest explaining adult neuroplasticity, learning challenge, exercise, nutrient sufficiency, dementia prevention, concussion recovery, and strongman training.
+- [Alan Castel](entities/AlanCastel.md) — Huberman Lab guest explaining reconstructive memory, retrieval practice, eyewitness error, prospective memory, and cognitive aging.
 - [Better Brain](entities/BetterBrain.md) — Brain-health organization named as Tommy Wood's chief-science-officer context in the Huberman Lab episode.
 - [BrainHQ](entities/BrainHQ.md) — Processing-speed-oriented brain-training platform discussed in Wood's cognitive-aging and dementia-prevention branch.
 - [Maintain Your Brain Trial](entities/MaintainYourBrainTrial.md) — Australian multidomain dementia-prevention intervention combining diet, activity, behavioral therapy, and online brain training in Wood's summary.
@@ -1786,9 +1801,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Antonio Damasio](entities/AntonioDamasio.md) — Decision-and-emotion reference used to show that emotion supports motivation and choice.
 - [Paul Ekman](entities/PaulEkman.md) — Facial-expression research reference whose influence is acknowledged and qualified by the Adolphs episode.
 - [Patient SM](entities/PatientSM.md) — Amygdala-lesion research case used to distinguish fear perception, external-threat fear, and internal panic.
-- [这病说来话长 / Zhe Bing Shuo Lai Hua Chang](entities/ZheBingShuoLaiHuaChang.md) — Chinese medical-literacy podcast represented by oncology, orthopedics, outpatient diagnostic safety, insect-bite dermatology, lifestyle weight management, sugar-control literacy, online medical-language boundaries, and workplace psychological-boundary episodes.
+- [这病说来话长 / Zhe Bing Shuo Lai Hua Chang](entities/ZheBingShuoLaiHuaChang.md) — Chinese medical-literacy podcast represented by oncology, orthopedics, outpatient diagnostic safety, insect-bite dermatology, sports medicine, lifestyle weight management, sugar-control literacy, online medical-language boundaries, and workplace psychological-boundary episodes.
+- [刘子明 / Liu Ziming (sports medicine doctor)](entities/LiuZimingSportsMedicine.md) — Source-scoped 北医三院 sports-medicine doctor explaining safe exercise, lower-limb joint protection, progressive training, support-device boundaries, and symptom escalation.
+- [Peking University Third Hospital / 北医三院](entities/PekingUniversityThirdHospital.md) — Source-scoped institutional context for VOL.212's sports-medicine doctors explaining safe exercise and injury prevention.
 - [马浩宁 / Ma Haoning](entities/MaHaoning.md) — Medical guest explaining lumbar disc herniation, symptom-driven spine care, rehabilitation pacing, outpatient return thresholds, and low-cost safety checks.
-- [阿汤 / A Tang](entities/Atang.md) — Host voice in 这病说来话长 episodes, turning diagnostic uncertainty, health anxiety, insect-bite prevention, internet medical vocabulary, and workplace pressure into listener-facing questions and practical boundaries.
+- [阿汤 / A Tang](entities/Atang.md) — Host voice in 这病说来话长 episodes, turning diagnostic uncertainty, health anxiety, exercise safety, insect-bite prevention, internet medical vocabulary, and workplace pressure into listener-facing questions and practical boundaries.
 - [尹老师 / Yin Laoshi (Zhe Bing speaker)](entities/YinLaoshiZheBing.md) — Source-scoped VOL.213 speaker grounding mosquito-repellent choice in active ingredients, concentration, application, reapplication, and household prevention.
 - [吴老师 / Wu Laoshi (Zhe Bing speaker)](entities/WuLaoshiZheBing.md) — Source-scoped VOL.213 speaker grounding severe insect-reaction examples, rove-beetle dermatitis, chigger/eschar concerns, and bite-related escalation.
 - [岳宛柔 / Yue Wanrou](entities/YueWanrou.md) — VOL.215 guest explaining sugar preference, staple foods, liquid sugar, low-GI claims, labels, sweeteners, and practical sugar control.
@@ -2104,7 +2121,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [苍梧郡 / Cangwu Commandery (late Han)](entities/CangwuCommanderyLateHan.md) — Southern commandery whose bandits join Guiyang bandits in the Yang Xuan-Lingling suppression branch.
 - [朱丐 / Zhu Gai (late Han)](entities/ZhuGaiLateHan.md) — Jingzhou soldier-rebel whose alliance with Hu Lan attacks Guiyang and Lingling before Du Shang's suppression.
 - [胡兰 / Hu Lan (late Han)](entities/HuLanLateHan.md) — Guiyang bandit leader whose rebellion with Zhu Gai and later Cangwu remnants trigger the Zhang Pan false-accusation case.
-- [HYROX](entities/HYROX.md) — Fitness-racing event brand whose moat comes from official status, standardized results, participant data, authorization, and event execution rather than proprietary exercise rules.
+- [HYROX](entities/HYROX.md) — Fitness-racing event brand whose moat comes from official status, standardized results, participant data, authorization, and event execution, with a sports-medicine risk layer around fatigue and movement quality.
 - [HYROX World GmbH](entities/HYROXWorldGmbH.md) — Company page for the HYROX trademark and official commercial system behind the event brand.
 - [Ironman / 铁人三项](entities/IronmanTriathlon.md) — Endurance event-brand comparison used to explain how existing sports can be bundled into an official race identity.
 - [盈方 / Infront Sports & Media](entities/InfrontSportsMedia.md) — Sports-marketing and event-network company named as part of HYROX's operating support and Wanda-linked context.
@@ -2226,7 +2243,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [李燮 / Li Xie (late Han)](entities/LiXieLateHan.md) — Li Gu's hidden surviving son and later yilang punished before being vindicated for opposing Liu Xu's restoration.
 - [李固 / Li Gu (late Han)](entities/LiGuLateHan.md) — Late-Han upright minister whose danger begins at Emperor Zhi's poisoned deathbed before Liu Suan recommendation, resistance to Liu Zhi's accession, removal, prison death, defiant mourning, family survival, and contested-accession memory.
 - [杜乔 / Du Qiao (late Han)](entities/DuQiaoLateHan.md) — Late-Han official whose Liu Suan recommendation and 146 CE accession resistance precede ignored reward-and-appointment remonstrance, refusal of Liang Ji requests, prison death, and Yang Kuang's body-guarding defiance.
-- [吴祐 / Wu You (late Han)](entities/WuYouLateHan.md) — Henei official who publicly defends Li Gu and makes the renewed Liang Ji accusation accountable.
+- [苏章 / Su Zhang (late Han)](entities/SuZhangLateHan.md) — Jizhou inspector who separates private friendship from public law when prosecuting a corrupt old friend.
+- [吴祐 / Wu You (late Han)](entities/WuYouLateHan.md) — Late-Han official whose profile joins Jiaodong humane/simple governance with later public defense of Li Gu under Liang Ji.
 - [王调 / Wang Tiao (Li Gu student)](entities/WangTiaoLiGuStudent.md) — Li Gu student whose prison petition helps force Li Gu's temporary release during Liang Ji's accusation campaign.
 - [赵成 / Zhao Cheng (Li Gu petitioner)](entities/ZhaoChengLiGuPetitioner.md) — Henei petitioner whose mass appeal for Li Gu shows public reputation pressure outside the central court.
 - [郭亮 / Guo Liang (Li Gu student)](entities/GuoLiangLiGuStudent.md) — Li Gu student who mourns at Li Gu's displayed body despite Liang Ji's ban and later withdraws from office.
@@ -4163,7 +4181,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Green Party of England and Wales](entities/GreenPartyOfEnglandAndWales.md) — British Green Party branch framed through Zack Polanski as shifting from environmental identity toward eco-populist economic grievance.
 - [Andrew Miller](entities/AndrewMiller.md) — The Intelligence reporter whose Zack Polanski profile links biography, performance, controversy, and anti-centrist voter movement.
 - [Kate Adamalla](entities/KateAdamalla.md) — University of Minnesota lab leader credited in the source with creating synthetic spud cells.
-- [University of Minnesota](entities/UniversityOfMinnesota.md) — Institution attached to Kate Adamalla's synthetic-cell lab in the episode.
+- [University of Minnesota](entities/UniversityOfMinnesota.md) — Public university attached to both Kate Adamalla's synthetic-cell lab and Honeycrisp's agricultural commercialization model.
 - [ABTA](entities/ABTA.md) — British travel-industry association cited as evidence that many UK travellers still book through human agents.
 - [American Society of Travel Advisers](entities/AmericanSocietyOfTravelAdvisers.md) — U.S. travel-adviser association cited for membership growth despite AI planning tools.
 - [Fora](entities/Fora.md) — AI-powered travel-agency platform framed as adviser infrastructure rather than a simple replacement for human agents.
@@ -9861,6 +9879,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Branded Produce Differentiation](concepts/BrandedProduceDifferentiation.md) - Fresh-produce market shift where names, protected varieties, visual traits, flavor, and packaging reduce commodity interchangeability.
+- [Plant Variety Intellectual Property](concepts/PlantVarietyIntellectualProperty.md) - Legal and institutional route for crop breeders and universities to capture value from new varieties.
+- [Public Agricultural Research Commercialization](concepts/PublicAgriculturalResearchCommercialization.md) - University research path that turns public breeding work into licensed, branded, and farmer-facing crop products.
+- [Commodity Trap Escape](concepts/CommodityTrapEscape.md) - Strategy of escaping interchangeable price competition through differentiation, quality, branding, or protected supply.
 - [守拙式临事决断 / Shouzhuo Decisive Restraint](concepts/ShouzhuoDecisiveRestraint.md) — Pattern where restrained, non-showy conduct preserves judgment until a high-risk moment requires a firm boundary and verifiable authority.
 - [Anonymous Slander Retaliation / 匿名诬告式报复](concepts/AnonymousSlanderRetaliation.md) — Pattern where injured interests use anonymous accusation to recode cleanup or correction as private factional ambition.
 - [军费贪腐与战力空转 / Military Finance Corruption](concepts/MilitaryFinanceCorruption.md) — Pattern where campaign funds, rations, pay, and bribes become private extraction, leaving soldiers destroyed while coercive capacity hollows out.
@@ -9930,7 +9952,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [三不沾式清廉自守 / Three-Refusals Integrity](concepts/ThreeRefusalsIntegrity.md) — Public-office integrity discipline built around refusing wine, sexual entanglement, money, and opportunistic gifts under scarcity as capture channels.
 - [任官责任退出受限 / Office Duty Exit Constraint](concepts/OfficeDutyExitConstraint.md) — Governance pattern where capable officials cannot easily leave or avoid office because crisis demand treats their ability as a public asset.
 - [任官适任性国家能力 / Appointment Quality as State Capacity](concepts/AppointmentQualityAsStateCapacity.md) — Governance pattern where office works only when personnel fit survives pressure, patronage, crisis demands, and accountability risk.
-- [仁厚地方治理 / Humane Local Governance](concepts/HumaneLocalGovernance.md) — Local-administration pattern where burden reduction, dispute mediation, restraint, diagnosis, calm conduct, open complaint access, and moral instruction build order before coercion.
+- [仁厚地方治理 / Humane Local Governance](concepts/HumaneLocalGovernance.md) — Local-administration pattern where burden reduction, dispute mediation, restraint, diagnosis, settlement follow-through, open complaint access, and motive-sensitive mercy build order before coercion.
 - [Moral Mentorship as Talent Cultivation / 人师型人才成全](concepts/MoralMentorshipTalentCultivation.md) — Teacher model where ordinary conduct reading, recognition, character testing, corrective trust, encouragement, and self-limitation form people rather than only transmit knowledge.
 - [按亩征税 / Per-Mu Land Taxation](concepts/PerMuLandTaxation.md) — Huan-era fiscal-policy marker for the first source-described order to tax landholders by the mu.
 - [战时绵绢财政资源 / Wartime Textile Fiscal Resource](concepts/WartimeTextileFiscalResource.md) — Hanji 1046 frame for cotton-silk as money-like, portable, reward, diplomatic, and military supply under wartime fiscal stress.
@@ -9941,7 +9963,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Psychedelic Ordinary Freedom](concepts/PsychedelicOrdinaryFreedom.md) — Psychedelic-integration frame where peak states can reveal possibilities but the lasting target is ordinary waking freedom.
 - [Sustainable Health Optimization](concepts/SustainableHealthOptimization.md) — Health-routine frame where sleep, light, exercise, nutrition, and social connection support real life without protocol perfectionism.
 - [Morning Light Circadian Anchoring](concepts/MorningLightCircadianAnchoring.md) — Practice of using ambient outdoor light soon after waking to help set circadian timing, daytime alertness, mood, and later sleep.
-- [Self-Testing Memory Practice](concepts/SelfTestingMemoryPractice.md) — Learning method where effortful recall, mistakes, correction, and later rest or sleep strengthen memory access.
+- [Self-Testing Memory Practice](concepts/SelfTestingMemoryPractice.md) — Learning method where effortful recall, active noticing, mistakes, correction, and later rest or sleep strengthen memory access.
+- [Reconstructive Memory](concepts/ReconstructiveMemory.md) — Memory model where recall rebuilds past experience from traces, context, schemas, attention, and later information rather than replaying a perfect record.
+- [Prospective Memory](concepts/ProspectiveMemory.md) — Future-action memory problem where intentions must survive distraction, routine, stress, and changed context.
+- [Cognitive Aging](concepts/CognitiveAging.md) — Uneven change in memory, attention, learning, judgment, emotion, purpose, and daily function across later life.
+- [Successful Aging](concepts/SuccessfulAging.md) — Practical aging frame built around attitude, adaptation, balance, connection, purpose, movement, and meaningful challenge.
 - [Olfactory Training](concepts/OlfactoryTraining.md) — Repeated attentive exposure to safe odors as a smell-training and sensory-recovery practice.
 - [Fertility Energy Availability](concepts/FertilityEnergyAvailability.md) — Fertility frame linking adequate calories, body composition, resistance training, nutrition, and hormone-intervention boundaries.
 - [Perioperative Circadian Recovery](concepts/PerioperativeCircadianRecovery.md) — Surgery preparation and recovery frame using fitness, sleep, daylight, darkness, and gradual rebuilding.
@@ -10154,7 +10180,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Apathy Action Initiation](concepts/ApathyActionInitiation.md) — Apathy frame where desire or enjoyment may remain while voluntary initiation fails without prompting.
 - [Dopamine Inverted U](concepts/DopamineInvertedU.md) — Performance-boundary claim that dopamine or stimulant boosts may help low or medium baselines but impair high baselines.
 - [Attention Capacity Selection](concepts/AttentionCapacitySelection.md) — Attention frame for limited-capacity selection among stimuli, goals, internal thoughts, working-memory load, and distraction.
-- [Cognitive Resilience](concepts/CognitiveResilience.md) — Aging and dementia frame for preserved daily function despite pathology or risk, shaped by health, engagement, and illness-prevention inputs.
+- [Cognitive Resilience](concepts/CognitiveResilience.md) — Aging and dementia frame for preserved daily function despite pathology or risk, shaped by health, engagement, purpose, connection, and illness-prevention inputs.
 - [Self-Concept Plasticity](concepts/SelfConceptPlasticity.md) — Selfhood frame where biology, memory, attention, roles, and repeated behavior can change identity experience.
 - [Predictive World-Model Anxiety / 预测世界模型焦虑](concepts/PredictiveWorldModelAnxiety.md) — Claim that the brain's simulation capacity enables planning while replaying possible harms as present anxiety.
 - [Mentalizing Projection / 心智化投射](concepts/MentalizingProjection.md) — Social-cognition mechanism where models of other minds borrow from one's own experience, fear, and desire.
@@ -10250,7 +10276,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Augmented Intelligence](concepts/AugmentedIntelligence.md) — Human-supervised AI framing where models extend capability but users still verify and own important outcomes.
 - [AI Query Privacy Risk](concepts/AIQueryPrivacyRisk.md) — Risk that prompts, search terms, interaction logs, or retrieval traces reveal sensitive personal or professional information.
 - [名士背书式造势 / Elite-Endorsement Reputation Making](concepts/EliteEndorsementReputationMaking.md) — Late-Han mechanism where Fu Rong/Li Ying-style introduction or Cao Cao-style appraisal chains make ability socially legible through elite recognition.
-- [查因安抚式治理 / Root-Cause Pacification](concepts/RootCausePacification.md) — Governance pattern where officials diagnose political, personnel, and local causes of rebellion, then combine morale repair, official accountability, relief, surrender policy, resettlement judgment, and targeted coercion.
+- [查因安抚式治理 / Root-Cause Pacification](concepts/RootCausePacification.md) — Governance pattern where officials diagnose rebellion causes, then combine grievance recognition, clean administration, credible pardon, livelihood/status settlement, and targeted coercion.
 - [商人定气功夫 / Merchant Composure Discipline](concepts/MerchantComposureDiscipline.md) — Source-scoped Hanji 927 business frame around credibility, detachment, calm judgment, and decisive action.
 - [巡查送礼关口 / Inspection Gift Gatekeeping](concepts/InspectionGiftGatekeeping.md) — Hanji 928 pattern where an inspector with ruler access can turn gift refusal and a slanted report into command-changing political risk.
 - [Gift Refusal As Authority / 拒礼立威](concepts/GiftRefusalAsAuthority.md) — Governance pattern where refusing interested gifts preserves clean distance, public trust, and bargaining authority, grounded in Zhang Huan's 155 CE Qiang case.
@@ -11901,7 +11927,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Build vs. Borrow Product Strategy](concepts/BuildVsBorrowProductStrategy.md) — Engineering/product discipline of deciding what must be invented and what should be assembled from existing parts.
 - [Brooks's Law](concepts/BrooksLaw.md) — Project-management warning that adding people to a late or unclear project can increase coordination cost and delay it further.
 - [Additive Bias](concepts/AdditiveBias.md) — Decision tendency to improve by adding more rather than cutting, narrowing, or stopping.
-- [Desirable Difficulty](concepts/DesirableDifficulty.md) — Constraint and learning frame where calibrated difficulty preserves focus, tradeoffs, active recall, correction, and reachable adaptation.
+- [Desirable Difficulty](concepts/DesirableDifficulty.md) — Constraint and learning frame where calibrated difficulty preserves focus, tradeoffs, active recall, correction, feedback, and reachable adaptation.
 - [Skimpflation](concepts/Skimpflation.md) — Quality-degradation response to inflation where familiar products keep their surface identity while ingredients, service, or standards quietly weaken.
 - [Chocolate Compound](concepts/ChocolateCompound.md) — Chocolate-like coating that can use chocolate ingredients without meeting legal milk-chocolate standards.
 - [Chocolate Label Standards](concepts/ChocolateLabelStandards.md) — Food-label rules that make distinctions such as milk chocolate, chocolate candy, and peanut butter cream economically meaningful.
@@ -13662,7 +13688,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Industrial Subsidy Dependence](concepts/IndustrialSubsidyDependence.md) — Fragility created when an industrial hub remains viable only because public incentives keep firms there.
 - [Protected Domestic-Market Industrialization](concepts/ProtectedDomesticMarketIndustrialization.md) — Industrial path where sheltered home-market factories grow without enough pressure to become globally competitive.
 - [Premature Deindustrialization](concepts/PrematureDeindustrialization.md) — Pattern where countries lose manufacturing's employment and growth role before reaching high-income status.
-- [Advanced Agriculture Innovation](concepts/AdvancedAgricultureInnovation.md) — Agriculture-as-high-knowledge-sector frame spanning crop adaptation, productivity research, farm digitization, and AI-supported field operations.
+- [Advanced Agriculture Innovation](concepts/AdvancedAgricultureInnovation.md) — Agriculture-as-high-knowledge-sector frame spanning crop adaptation, plant breeding, productivity research, farm digitization, and AI-supported field operations.
 - [Localized Innovation Advantage](concepts/LocalizedInnovationAdvantage.md) — Strategy of escaping middle-income stagnation through local resources, constraints, markets, and knowledge rather than copied factory ladders.
 - [Biodegradable Amazon Plastics](concepts/BiodegradableAmazonPlastics.md) — Tutiplast example of turning Amazon plant waste into material-science innovation rooted in local inputs.
 - [Paid Vacation As Labor Right](concepts/PaidVacationAsLaborRight.md) — Legal paid-time-off baseline contrasted with the U.S. system of employer-dependent vacation access.
@@ -14010,7 +14036,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Garage Dragon Test](concepts/GarageDragonTest.md) — Sagan-derived test for whether an unfalsifiable claim makes any detectable difference.
 - [Occam's Razor](concepts/OccamsRazor.md) — Anti-conspiracy reasoning tool that resists unnecessary hidden agents and explanations after observations are checked.
 - [Evidence Over Testimony](concepts/EvidenceOverTestimony.md) — Episode 185 rule of thumb for weighting physical evidence above sincere but fallible human testimony in extraordinary claims.
-- [Memory Contamination Risk](concepts/MemoryContaminationRisk.md) — Risk that suggestion, hypnosis, fear, or cultural templates can alter remembered experience.
+- [Memory Contamination Risk](concepts/MemoryContaminationRisk.md) — Risk that labels, suggestion, hypnosis, fear, lineup identification, or cultural templates can alter remembered experience.
 - [Alien Abduction Narrative](concepts/AlienAbductionNarrative.md) — Modern alien-taking stories read as descendants of older demon, witchcraft, sexual-fear, and reproduction-anxiety narratives.
 - [Crop Circle Debunking](concepts/CropCircleDebunking.md) — Case showing why factual correction can fail socially even after confession and demonstration.
 - [Pseudoscience Fraud Vulnerability](concepts/PseudoscienceFraudVulnerability.md) — Emotional and social conditions that let false healing, qigong, miracle, and paranormal claims persuade people.
@@ -14749,6 +14775,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Doctor-Patient Communication](concepts/DoctorPatientCommunication.md) — Practical clinic-cooperation pattern around symptom description, constraints, follow-up questions, report access, treatment feedback, and second opinions.
 - [Medical Diagnostic Reasoning](concepts/MedicalDiagnosticReasoning.md) — Clinical reasoning process that turns symptoms, history, exams, tests, treatment response, follow-up, and second opinions into working diagnoses under uncertainty.
 - [Medical Risk Management](concepts/MedicalRiskManagement.md) — Clinical safety frame explaining conservative advice, worst-case screening, system redundancy, and professional responsibility.
+- [Exercise Load Management / 运动负荷管理](concepts/ExerciseLoadManagement.md) — Sports-medicine frame for matching training frequency, volume, intensity, progression, recovery, and technique to current capacity.
+- [Strength Training for Joint Protection / 保护关节的力量训练](concepts/StrengthTrainingJointProtection.md) — Muscle-capacity frame for stabilizing joints, improving lower-limb tracking, preserving function, and reducing preventable pain or injury risk.
+- [Exercise Assistive Gear Boundary / 运动护具辅助边界](concepts/ExerciseAssistiveGearBoundary.md) — Boundary for using braces, supports, kinesiology tape, or rehabilitation devices as temporary aids rather than substitutes for strength, technique, or assessment.
+- [Stretching and Mobility Safety / 拉伸与灵活性安全](concepts/StretchingMobilitySafety.md) — Targeted mobility and stretching frame that supports recovery and movement while preserving warning signs and avoiding forced injury.
+- [Joint Symptom Escalation / 关节症状升级边界](concepts/JointSymptomEscalation.md) — Boundary separating painless joint sounds and ordinary soreness from pain, swelling, locking, catching, or acute injury events that should interrupt exercise.
 - [Mosquito Bite Prevention](concepts/MosquitoBitePrevention.md) — Public-health prevention frame for choosing effective repellents, applying and reapplying them correctly, reducing standing water, and using physical barriers.
 - [Insect Bite Aftercare](concepts/InsectBiteAftercare.md) — Dermatology self-care and escalation frame for washing, cooling, anti-itch treatment, medication boundaries, and higher-risk bite presentations.
 - [Insect Bite Dermatitis](concepts/InsectBiteDermatitis.md) — Dermatology frame distinguishing mosquito, midge, caterpillar, rove-beetle, mite, tick, and chigger skin reactions.

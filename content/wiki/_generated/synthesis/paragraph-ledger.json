@@ -1,6 +1,8 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "ba4b6e07bbc858f1190ceb97b96c4010a664e743420b13749fad4f031bf94171",
+      "c321ac52ef2edf748cf684bd1bd8dd6992019c95a79af8c9c795f0aaecffc5e8",
       "e433733c468b2f627a77f3183baa077dca5130e3e98690479669fd2811587756",
       "d4b354158358a7d81ae6b27d3526bcfa170568de59e77b4df39602f70dd7bd7e",
       "87238dd158df612bbcc136fa54dccb214e7b1329d7e5181231d50ea2a55e9e21",
@@ -348,13 +350,72 @@
       "d589a53c87e197a55033f79a64a0ec3a258b8cbc050ee0e70dcc6388df48a243",
       "d1f646e5bf1b4d8ffacc0ab20b061981669bb0224547423965eb90e6e064e966",
       "b7fe88c4a3ea92e3484da7ba393768450cea0ebc036e6acdec39ec881741cf34",
-      "082a8129ce267d83fa695011e4d1d9ec611a2911fab24932213544b548f520cf"
+      "feea2d50d210e6102662cda44c927b2f7b25d4a9c1910663ab0bf085b4a54550",
+      "082a8129ce267d83fa695011e4d1d9ec611a2911fab24932213544b548f520cf",
+      "6dd2244cfd82de8e2076d8e2587203e47d3343702b97f83715d88073f28b3401"
     ],
-    "paragraph_count": 348
+    "paragraph_count": 352
   },
-  "overview_commit": "79a40553ff5495cfb3699a989e531cd09e8efebb",
-  "overview_digest": "f225a3737eef75d02842f91f6207e7383eb1e202b4b980e0ceaecb5e35e3895e",
+  "overview_commit": "5bde19bc47ed09ceda19463d0eb804f709603159",
+  "overview_digest": "ed45ccc7d87d8d5b6d03740982252e971d5c75f08185db7ee564fe5e78be7a35",
   "paragraphs": [
+    {
+      "id": "ba4b6e07bbc858f1190ceb97b96c4010a664e743420b13749fad4f031bf94171",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "The latest addition is [[branded-fruit-how-produce-got-honeycrisp-ified|Branded fruit: How produce got \"Honeycrisp-ified\"]], a [[PlanetMoney]] episode on branded premium produce using [[ScarletSunrise|Scarlet Sunrise]] as the Rutgers tomato case. It adds [[RutgersUniversity|Rutgers University]], [[ScarletSunrise]], [[PeteNitzsche]], [[TomOrton]], [[DanPashman]], [[MiguelGomez]], [[Honeycrisp]], [[CosmicCrisp]], [[UniversityOfWashington|University of Washington]], [[BrandedProduceDifferentiation]], [[PlantVarietyIntellectualProperty]], [[PublicAgriculturalResearchCommercialization]], and [[CommodityTrapEscape]], while extending [[UniversityOfMinnesota|University of Minnesota]] and [[AdvancedAgricultureInnovation]]. Its core synthesis is that fresh produce is becoming a legally protected, branded, and product-designed market rather than only a commodity aisle: plant IP law and university commercialization let new varieties capture value, growers use distinct flavor and appearance to escape price competition, and consumers help pull the system toward premium produce even as apple saturation, search costs, seed access, and expensive production keep the model bounded. No settled contradiction is recorded; the Scarlet Sunrise taste result, Honeycrisp/Cosmic Crisp revenue examples, market-saturation view, and compact-plant labor-savings estimate remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "business-and-markets": 2,
+        "governance-and-institutions": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AdvancedAgricultureInnovation",
+        "BrandedProduceDifferentiation",
+        "CommodityTrapEscape",
+        "CosmicCrisp",
+        "DanPashman",
+        "Honeycrisp",
+        "MiguelGomez",
+        "PeteNitzsche",
+        "PlanetMoney",
+        "PlantVarietyIntellectualProperty",
+        "PublicAgriculturalResearchCommercialization",
+        "RutgersUniversity",
+        "ScarletSunrise",
+        "TomOrton",
+        "UniversityOfMinnesota",
+        "UniversityOfWashington",
+        "branded-fruit-how-produce-got-honeycrisp-ified"
+      ]
+    },
+    {
+      "id": "c321ac52ef2edf748cf684bd1bd8dd6992019c95a79af8c9c795f0aaecffc5e8",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-823-bingbuxueren-shou-zeikou-ta-ruhe-zuodao-de-luai1f0nhb-ddajli99dw4bxj9m2|《资治通鉴·汉纪》823丨兵不血刃收贼寇，他如何做到的？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 142 CE [[EmperorShunOfHan|汉顺帝]] local-governance layer between [[zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv|Hanji 822]] and [[zizhi-tongjian-hanji-824-weishenme-women-yao-xue-shouzhuo-lpssy8ltykugdpvmgrzwcpf6-9v9|Hanji 824]]. It adds [[RenJunLuoyangLateHan|任峻]] and [[SuZhangLateHan|苏章]], while extending [[ZhangGangLateHan|张纲]], [[ZhangYingGuanglingLateHan|张婴]], [[WuYouLateHan|吴祐]], [[GuanglingCommandery|广陵郡]], [[RootCausePacification|查因安抚式治理]], and [[HumaneLocalGovernance|仁厚地方治理]]. Its core synthesis is that successful pacification is not only persuasive speech: Zhang Gang converts official-abuse grievance into surrender by combining personal trust, pardon, threatened state force, and concrete housing, land, and office pathways, while Ren Jun, Su Zhang, and Wu You show stricter staffing, public-law impartiality, and humane mercy as adjacent local-official modes. No settled contradiction is recorded; transcript forms 张刚, 张英, 广邻, 梁继, 任郡, 济州刺史, 吴佑, and 孙杏 are normalized to 张纲, 张婴, 广陵, 梁冀, 任峻, 冀州刺史, 吴祐, and 孙性.",
+      "topic_scores": {
+        "governance-and-institutions": 3,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "EmperorShunOfHan",
+        "GuanglingCommandery",
+        "HumaneLocalGovernance",
+        "RenJunLuoyangLateHan",
+        "RootCausePacification",
+        "RuiqiJiangtouZizhiTongjian",
+        "SuZhangLateHan",
+        "WuYouLateHan",
+        "ZhangGangLateHan",
+        "ZhangYingGuanglingLateHan",
+        "zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv",
+        "zizhi-tongjian-hanji-823-bingbuxueren-shou-zeikou-ta-ruhe-zuodao-de-luai1f0nhb-ddajli99dw4bxj9m2",
+        "zizhi-tongjian-hanji-824-weishenme-women-yao-xue-shouzhuo-lpssy8ltykugdpvmgrzwcpf6-9v9"
+      ]
+    },
     {
       "id": "e433733c468b2f627a77f3183baa077dca5130e3e98690479669fd2811587756",
       "primary_topic": "governance-and-institutions",
@@ -10785,6 +10846,30 @@
       ]
     },
     {
+      "id": "feea2d50d210e6102662cda44c927b2f7b25d4a9c1910663ab0bf085b4a54550",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [],
+      "text": "The latest addition is [[vol-212-pingshi-jiuzuo-zhoumo-wanming-yundong-yundong-yixueke-yisheng-gei-dagongrende-fang-lian-fei-zhinan-lqtwr4m-9npye9giib1-om-tylmy|VOL.212 平时久坐 周末玩命运动？运动医学科医生给打工人的「防练废」指南]], a [[ZheBingShuoLaiHuaChang|这病说来话长]] episode with [[Atang|阿汤]] and sports-medicine doctors from [[PekingUniversityThirdHospital|北医三院]], including [[LiuZimingSportsMedicine|刘子明]], on safe exercise for sedentary workers and weekend athletes. It adds [[ExerciseLoadManagement]], [[StrengthTrainingJointProtection]], [[ExerciseAssistiveGearBoundary]], [[StretchingMobilitySafety]], [[JointSymptomEscalation]], [[LiuZimingSportsMedicine]], and [[PekingUniversityThirdHospital]], while extending [[Atang]], [[ZheBingShuoLaiHuaChang]], and [[HYROX]]. Its core synthesis is that exercise becomes protective only when load, muscle capacity, technique, recovery, and warning signs stay aligned: running, cycling, tennis, swimming, gym work, and HYROX each need gradual progression, while braces, tape, exoskeletons, and stretching remain aids rather than substitutes for strength or clinical judgment. No settled contradiction is recorded; training structure, pain diagnosis, support-device use, and injury treatment remain source-scoped public education rather than individualized rehabilitation advice.",
+      "topic_scores": {
+        "psychology-and-personal-development": 1,
+        "science-health-and-climate": 1,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "Atang",
+        "ExerciseAssistiveGearBoundary",
+        "ExerciseLoadManagement",
+        "HYROX",
+        "JointSymptomEscalation",
+        "LiuZimingSportsMedicine",
+        "PekingUniversityThirdHospital",
+        "StrengthTrainingJointProtection",
+        "StretchingMobilitySafety",
+        "ZheBingShuoLaiHuaChang",
+        "vol-212-pingshi-jiuzuo-zhoumo-wanming-yundong-yundong-yixueke-yisheng-gei-dagongrende-fang-lian-fei-zhinan-lqtwr4m-9npye9giib1-om-tylmy"
+      ]
+    },
+    {
       "id": "082a8129ce267d83fa695011e4d1d9ec611a2911fab24932213544b548f520cf",
       "primary_topic": "business-and-markets",
       "secondary_topics": [
@@ -10813,6 +10898,29 @@
         "YinLaoshiZheBing",
         "ZheBingShuoLaiHuaChang",
         "vol-213-wenzi-weishenme-pianai-yao-ni-pifuke-yisheng-chaichuan-quwen-zhishangshui-fu-kuaisu-zhiyang-xuanyao-zhinan-lifkugb27d79ut30lwfmu5vojegec"
+      ]
+    },
+    {
+      "id": "6dd2244cfd82de8e2076d8e2587203e47d3343702b97f83715d88073f28b3401",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [],
+      "text": "The latest addition is [[how-to-improve-your-memory-cognitive-function-at-any-age-dr-alan-castel-scim5781519002|How to Improve Your Memory & Cognitive Function at Any Age | Dr. Alan Castel]], a [[HubermanLab]] episode with [[AndrewHuberman]] and [[AlanCastel]] on memory, learning, and later-life cognition. It adds [[AlanCastel]], [[ReconstructiveMemory]], [[ProspectiveMemory]], [[CognitiveAging]], and [[SuccessfulAging]], while extending [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[MemoryContaminationRisk]], and [[CognitiveResilience]]. Its core synthesis is that memory is selective and reconstructive: passive exposure is weaker than active noticing, recall attempts, errors, curiosity, and corrective feedback; future-action memory needs cues and rehearsal; eyewitness confidence can be contaminated; and aging mixes real memory risks with selectivity, resilience, purpose, balance, connection, and wisdom. No settled contradiction is recorded; the raw title/body name-spelling tension between Castel and Castell is preserved as source-scoped.",
+      "topic_scores": {
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AlanCastel",
+        "AndrewHuberman",
+        "CognitiveAging",
+        "CognitiveResilience",
+        "DesirableDifficulty",
+        "HubermanLab",
+        "MemoryContaminationRisk",
+        "ProspectiveMemory",
+        "ReconstructiveMemory",
+        "SelfTestingMemoryPractice",
+        "SuccessfulAging",
+        "how-to-improve-your-memory-cognitive-function-at-any-age-dr-alan-castel-scim5781519002"
       ]
     }
   ],

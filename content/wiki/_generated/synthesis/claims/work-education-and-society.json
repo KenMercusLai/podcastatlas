@@ -1,900 +1,96 @@
 {
   "claims": [
     {
-      "global_candidate": false,
-      "id": "late-han-145-succession-office-cleanup-risk",
+      "global_candidate": true,
+      "id": "active-learning-requires-effort-feedback-and-selection",
       "qualifications": [
-        "This claim uses Hanji 825 as a bounded premodern work-and-social-order case, not a modern workplace analogy.",
-        "The succession motive is source-scoped: the paragraph supports the contrast between Li Gu's older-ruler advice and the choice of a child emperor, but does not fully prove Liang Ji and Liang Na's private reasoning.",
-        "Zhang Ying's renewed Guangling revolt is used only as a local-authority aftereffect because the full rebel career remains source-scoped."
+        "The sources are mostly podcast syntheses and practical education examples, so they establish a recurring wiki pattern rather than one universal pedagogy."
       ],
-      "statement": "In [[zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked|Hanji 825]], office judgment under succession crisis becomes social risk: [[LiGuLateHan]] rejects [[ImperialDeathConcealment]], favors older [[LiuSuanLateHan]] over child [[EmperorZhiOfHan]], and turns [[EmperorChongOfHan]]'s burial plus cleanup into public-order work, while [[ControllableChildAccession]] and [[AnonymousSlanderRetaliation]] show how powerholders and displaced officials can recode correction as control or private ambition under [[LiangJiLateHan]] and [[EmpressDowagerLiangNaLateHan]]. The [[ZhangGangLateHan]] / [[ZhangYingGuanglingLateHan]] aftereffect also shows local pacification depending on credibility that does not automatically survive the officeholder.",
-      "status": "source-scoped",
+      "statement": "Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough.",
+      "status": "supported",
       "supporting_wikilinks": [
-        "zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked",
-        "EmperorChongOfHan",
-        "LiGuLateHan",
-        "ImperialDeathConcealment",
-        "LiuSuanLateHan",
-        "EmperorZhiOfHan",
-        "ControllableChildAccession",
-        "AnonymousSlanderRetaliation",
-        "LiangJiLateHan",
-        "EmpressDowagerLiangNaLateHan",
-        "ZhangGangLateHan",
-        "ZhangYingGuanglingLateHan"
-      ]
-    },
-    {
-      "global_candidate": false,
-      "id": "late-han-146-taixue-pipeline-and-succession-role-risk",
-      "qualifications": [
-        "This work-and-education claim uses Hanji 827 as a bounded premodern institutional case, not a modern education or career prescription.",
-        "The exact Taixue enrollment count remains source-scoped; the promoted claim is the pipeline structure and its relation to office access.",
-        "The succession material is used here as role-risk context for officials, while the fuller political mechanism belongs to the governance and history topics."
-      ],
-      "statement": "[[zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2|Hanji 827]] adds an early work-and-education branch: [[Taixue]] and Mingjing expansion make classical study an education-to-office channel before later student-petition and Hongdu competition layers. The same paragraph keeps premodern role risk visible because [[LiGuLateHan]], [[HuGuangLateHan]], and [[DuQiaoLateHan]] recommend [[LiuSuanLateHan]] after [[EmperorZhiOfHan]] dies, but [[LiangJiLateHan]]'s murder cover-up and [[CaoTengLateHan]]'s grievance make that institutional judgment politically dangerous under [[OuterRelativeCourtPower]] and [[SelfProtectiveAccessionChoice]].",
-      "status": "source-scoped",
-      "supporting_wikilinks": [
-        "zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2",
-        "Taixue",
-        "EmperorZhiOfHan",
-        "zizhi-tongjian-hanji-828-da-jiangjun-liangji-shanquan-feili-de-donghan-jianchen-llqnqijagtmdlgitulddxspncu0e",
-        "LiangJiLateHan",
-        "LiGuLateHan",
-        "DuQiaoLateHan",
-        "HuGuangLateHan",
-        "CaoTengLateHan",
-        "LiuSuanLateHan",
-        "OuterRelativeCourtPower",
-        "SelfProtectiveAccessionChoice"
-      ]
-    },
-    {
-      "global_candidate": false,
-      "id": "premodern-mourning-and-petitioning-show-role-risk",
-      "qualifications": [
-        "This is a bounded historical work-and-social-order analogy, not advice to escalate ordinary workplace or institutional conflict.",
-        "The defiance preserves reputation and burial dignity but does not save Li Gu or Du Qiao or reform Liang Ji's power structure.",
-        "Che'er and Southern Xiongnu notices in Hanji 830 are chronological frontier markers, not part of this social-role claim."
-      ],
-      "statement": "[[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|Hanji 830]] adds a premodern work-and-social-order case in which students, petitioners, defenders, and retainers turn role obligations into personal risk: [[WangTiaoLiGuStudent]], [[ZhaoChengLiGuPetitioner]], and [[WuYouLateHan]] contest Liang Ji's case before death, while [[GuoLiangLiGuStudent]], [[DongBanNanyangLateHan]], and [[YangKuangDuQiaoRetainer]] practice [[FuneraryDefianceUnderPoliticalTerror]] after [[LiGuLateHan]] and [[DuQiaoLateHan]] die, showing that social roles can preserve public meaning even when [[RetaliatoryPoliticalTerror]] controls offices and bodies.",
-      "status": "source-scoped",
-      "supporting_wikilinks": [
-        "zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji",
-        "WangTiaoLiGuStudent",
-        "ZhaoChengLiGuPetitioner",
-        "WuYouLateHan",
-        "GuoLiangLiGuStudent",
-        "DongBanNanyangLateHan",
-        "YangKuangDuQiaoRetainer",
-        "FuneraryDefianceUnderPoliticalTerror",
-        "LiGuLateHan",
-        "DuQiaoLateHan",
-        "RetaliatoryPoliticalTerror"
-      ]
-    },
-    {
-      "global_candidate": false,
-      "id": "relationship-selection-agency-shapes-social-exposure",
-      "qualifications": [
-        "This claim is source-scoped to Hanji 847 and should not be read as deterministic self-help advice.",
-        "The historical branch includes coercion, assassination risk, harem dependence, and imperial surveillance, so agency is bounded by structure.",
-        "The episode title frames the lesson around women becoming better fated; the claim narrows that frame to relationship and environment selection."
-      ],
-      "statement": "[[zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx|Hanji 847]] adds [[RelationshipSelectionAgency]] as a work-and-social-order frame: choices of partner, friend, boss, social circle, and environment matter because proximity shapes habits and access, while the [[SunShouLateHan]], [[EmpressDengHuanLateHan]], [[XuanDengMotherLateHan]], [[BingZunLateHan]], [[TangHengLateHan]], and [[FiveMarquisesHuanEra]] branch shows relational channels can protect, expose, or coerce actors rather than simply express personal preference.",
-      "status": "source-scoped",
-      "supporting_wikilinks": [
-        "zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx",
-        "RelationshipSelectionAgency",
-        "SunShouLateHan",
-        "EmpressDengHuanLateHan",
-        "XuanDengMotherLateHan",
-        "BingZunLateHan",
-        "TangHengLateHan",
-        "FiveMarquisesHuanEra",
-        "EmperorHuanOfHan",
-        "PalaceProximityPower",
-        "OuterRelativeCourtPower"
-      ]
-    },
-    {
-      "global_candidate": false,
-      "id": "premodern-role-capacity-and-network-liability",
-      "qualifications": [
-        "This claim is a bounded historical work-and-social-order analogy, not a modern workplace prescription.",
-        "The source-scoped social relevance is role capacity and relation liability under coercive politics, not advice to escalate ordinary conflict.",
-        "The claim uses only the overview paragraph staged for this topic; finer-grained coup details remain in the source and canonical entity/concept pages."
-      ],
-      "statement": "[[zizhi-tongjian-hanji-887-dang-zhuduizhang-pengshang-zhuduiyou-jieguo-taican-lvyh9a-kvsdqaokmylgg139bvhfk|Hanji 887]] adds a premodern work-and-social-order case: formal office and reform intent do not become usable capacity unless the actor controls information, timing, and role execution, while [[PartyProhibitionKinshipExpansion]] shows student, follower, old-subordinate, family, and recommendation ties becoming liability after the failed [[DouWuLateHan]] / [[ChenFanLateHan]] coup.",
-      "status": "source-scoped",
-      "supporting_wikilinks": [
-        "zizhi-tongjian-hanji-887-dang-zhuduizhang-pengshang-zhuduiyou-jieguo-taican-lvyh9a-kvsdqaokmylgg139bvhfk",
-        "DouWuLateHan",
-        "ChenFanLateHan",
-        "CaoJieLateHan",
-        "WangFuLateHan",
-        "ZhangHuanLateHan",
-        "LethalPlanLeakageRisk",
-        "ZeroSumConflictHesitationRisk",
-        "PartyProhibitionKinshipExpansion"
-      ]
-    },
-    {
-      "global_candidate": false,
-      "id": "premodern-reputation-can-become-institutional-liability",
-      "qualifications": [
-        "This claim is source-scoped to Hanji 882 and Hanji 893 and should not be generalized into a universal rule about reputation or professional networks.",
-        "Its work-and-society relevance is status and reputation as social infrastructure under coercive institutions, not a modern workplace prescription.",
-        "Hanji 882's reward-refusal logic and Hanji 893's persecution-list logic are related through exposure, but one concerns acceptance before collapse while the other concerns network punishment after public fame."
-      ],
-      "statement": "[[zizhi-tongjian-hanji-882-fengguang-taisheng-zhuding-bude-haosi-lphagu5ljuxxjwx-uvnbs229wjii|Hanji 882]] and [[zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq|Hanji 893]] add premodern work-and-social-order cases in which reputation and status stop being simple career capital: [[LuZhiLateHan]] reads [[DouWuLateHan]]'s overlarge accession honors as dangerous exposure, [[ChenFanLateHan]]'s refusal of favor-based rank makes [[UnearnedRewardRefusal]] and [[RighteousnessOverProfit]] social-status discipline, and Hanji 893 shows [[ReputationListPersecutionTarget]] plus [[PartyNetworkTreasonFraming]] converting recommendation networks into liability under [[CaoJieLateHan]] and [[EmperorLingOfHan]].",
-      "status": "source-scoped",
-      "supporting_wikilinks": [
-        "CaoJieLateHan",
-        "ChenFanLateHan",
-        "DouWuLateHan",
-        "EmperorLingOfHan",
-        "LuZhiLateHan",
-        "PartyProhibitionKinshipExpansion",
-        "RighteousnessOverProfit",
-        "UnearnedRewardRefusal",
-        "zizhi-tongjian-hanji-882-fengguang-taisheng-zhuding-bude-haosi-lphagu5ljuxxjwx-uvnbs229wjii"
-      ]
-    },
-    {
-      "global_candidate": false,
-      "id": "social-systems-turn-scarcity-and-support-into-living-conditions",
-      "qualifications": [
-        "The McMurdo retail material comes from a single store-management anecdote and should be kept as an isolated-settlement case.",
-        "The parking, housing, and consortio examples are brief listener comparisons, so they support an institutional pattern rather than settled comparative welfare rankings."
-      ],
-      "statement": "The Summer School finale adds a social-conditions branch: [[McMurdoStation]] and [[IsolatedRetailDemandManagement]] show work life in an isolated scientific settlement depends on services, novelty, and recreation, while [[Tokyo]] parking rules, [[ViennaSocialHousingScale]], and [[ConsortioGroupFinancing]] show how transport, housing, and household finance institutions shape everyday options beyond individual effort.",
-      "status": "qualified",
-      "supporting_wikilinks": [
-        "the-continent-nobody-owns-everyone-benefits-from-summer-school",
-        "McMurdoStation",
-        "IsolatedRetailDemandManagement",
-        "LizWalters",
-        "Tokyo",
-        "ParkingCostInternalization",
-        "Vienna",
-        "ViennaSocialHousingScale",
-        "Brazil",
-        "ConsortioGroupFinancing",
-        "InstitutionalPolicyPluralism"
-      ]
-    },
-    {
-      "global_candidate": false,
-      "id": "late-han-formal-entry-routes-depend-on-access-and-appraisal",
-      "qualifications": [
-        "This claim is source-scoped to Hanji 904 and treats Cao Cao's first career step as a premodern work-and-status case, not a universal career rule.",
-        "It preserves the source's distinction between formal Xiaolian/langguan entry and the family, reputation, and appointment channels that made that entry actionable.",
-        "The episode's meditation and body-energy teaching remains source-scoped and is not treated as a workplace method or medical claim."
-      ],
-      "statement": "[[zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2|Hanji 904]] adds a premodern work-and-status case before [[zizhi-tongjian-hanji-905-fugui-ruhe-xianzhong-qiu-lklxx5nquka2mtbllxivk0a7b-fu|Hanji 905]]: [[CaoCao]]'s formal Xiaolian/langguan entry depends on [[CaoTengLateHan]] and [[CaoSong]] family access, [[QiaoXuanLateHan]] and [[XuShao]] reputation certification through [[EliteEndorsementReputationMaking]], and [[SimaFangLateHan]]'s appointment judgment, so [[OfficialSelectionChannelCompetition]] and [[PrivateAccessTalentChannel]] appear before the later Hongdu and reputation branches.",
-      "status": "source-scoped",
-      "supporting_wikilinks": [
-        "zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2",
-        "zizhi-tongjian-hanji-905-fugui-ruhe-xianzhong-qiu-lklxx5nquka2mtbllxivk0a7b-fu",
-        "CaoCao",
-        "CaoTengLateHan",
-        "CaoSong",
-        "QiaoXuanLateHan",
-        "XuShao",
-        "EliteEndorsementReputationMaking",
-        "SimaFangLateHan",
-        "OfficialSelectionChannelCompetition",
-        "PrivateAccessTalentChannel"
-      ]
-    },
-    {
-      "global_candidate": false,
-      "id": "late-han-kinship-shelter-and-office-exposure",
-      "qualifications": [
-        "This claim is source-scoped to Hanji 853 and treats family concealment, student loyalty, local office, and patronage retaliation as a premodern social-order case, not a modern workplace prescription.",
-        "The episode normalizes several ASR names and leaves minor Li sons, Zhao Boying, and Qiang/place details source-scoped.",
-        "The same source also belongs to governance and history, but this topic uses only its role, shelter, household-safety, and local-office exposure layer."
-      ],
-      "statement": "[[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]] adds a premodern work-and-social-order case in which office, kinship, and shelter carry survival risk: [[LiXieLateHan]] survives through [[LiWenjiLateHan]] and [[WangChengLiGuStudent]]'s concealed support after [[LiGuLateHan]]'s disaster, while [[TengYanLateHan]] is dismissed after punishing [[HouLanLateHan]] and [[DuanGuiLateHan]]'s violent dependents, and [[ZhaoQiLateHan]] escapes [[TangXuanLateHan]] through [[SunSongLateHan]]'s hidden shelter.",
-      "status": "source-scoped",
-      "supporting_wikilinks": [
-        "zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij",
-        "LiWenjiLateHan",
-        "WangChengLiGuStudent",
-        "LiXieLateHan",
-        "LiGuLateHan",
-        "TengYanLateHan",
-        "HouLanLateHan",
-        "DuanGuiLateHan",
-        "ZhaoQiLateHan",
-        "TangXuanLateHan",
-        "SunSongLateHan",
-        "EunuchPatronageViolenceShield",
-        "FugitiveShelterCollateralRisk"
+        "SelfTestingMemoryPractice",
+        "DesirableDifficulty",
+        "SelfDirectedLearning",
+        "LearningExperienceDesign"
       ]
     },
     {
       "global_candidate": true,
-      "id": "production-change-tests-human-judgment",
+      "id": "tools-need-context-verification-and-human-judgment",
       "qualifications": [
-        "EP277 treats AI cinema as a possible production-method rupture but leaves its mature aesthetics, rights regime, labor settlement, and energy costs unresolved."
+        "The specific risks differ across coding, education, enterprise deployment, markets, robotics, creator work, and physical retail, so the claim should stay at the implementation-pattern level."
       ],
-      "statement": "AI and automation change work only when they reorganize production roles, workflows, and review responsibilities, from [[AIVideoProductionWorkflow]] and [[RollingAI]] to [[HeadlessSoftware]], [[Paperboy]], and [[HumanJudgmentUnderAI]].",
-      "status": "qualified",
+      "statement": "AI and product/work sources repeatedly show that capability becomes useful only when embedded in [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]], workflows, distribution, and customer or classroom context.",
+      "status": "supported",
       "supporting_wikilinks": [
-        "AIVideoProductionWorkflow",
-        "JiaZhangke",
-        "FilmRealityBeyondRealism",
-        "LiveActionFilmUnderAI",
-        "CreativeLaborAIBacklash",
-        "AIPublicLikenessGeneration",
-        "AITrainingCopyrightDispute",
-        "AIEnergyBottleneck",
-        "RollingAI",
-        "HeadlessSoftware",
-        "Paperboy",
         "HumanJudgmentUnderAI",
         "AIEngineeringThinking",
         "AICodingVerification"
       ]
     },
     {
-      "global_candidate": true,
-      "id": "workplace-ai-readiness-needs-ownership-and-baselines",
+      "global_candidate": false,
+      "id": "workplace-outcomes-depend-on-boundaries-and-evidence",
       "qualifications": [
-        "EP48 grounds this claim in enterprise Microsoft 365 Copilot adoption, so the 90-day rollout details should remain source-scoped.",
-        "The claim treats shadow AI as a workplace readiness signal only when organizations can also manage data, permission, and policy risk."
+        "Some examples are drama-mediated, advice-show, or source-scoped workplace commentary rather than formal labor-law or clinical guidance."
       ],
-      "statement": "Workplace AI readiness depends on ownership, baselines, training, and role-specific workflows: [[WorkplaceAIReadinessGap]], [[Microsoft365CopilotAdoption]], [[AIAdoptionBaselineMeasurement]], [[AIOperationsRole]], [[FrontlineAIEnablement]], and [[HumanJudgmentUnderAI]] show that license access or worker experimentation is not enough.",
+      "statement": "Workplace sources frame career outcomes around boundaries, evidence, communication, pacing, and institutional roles through [[WorkplaceBullying]], [[PsychologicalBoundaryProtection]], [[BankDueDiligence]], [[BankInternalAudit]], and [[WorkplaceRelationshipBoundaries]].",
       "status": "supported",
       "supporting_wikilinks": [
-        "WorkplaceAIReadinessGap",
-        "Microsoft365CopilotAdoption",
-        "AIAdoptionBaselineMeasurement",
-        "AIOperationsRole",
-        "FrontlineAIEnablement",
-        "HumanJudgmentUnderAI",
-        "ShadowAI",
-        "BusinessLedAITransformation",
-        "JimSpignardo",
-        "Proarc",
-        "ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise"
-      ]
-    },
-    {
-      "global_candidate": true,
-      "id": "implementation-beats-capability-claims",
-      "qualifications": [
-        "The specific implementation bottleneck differs by domain: it may be sales, retail shelves, permits, supply chains, audit evidence, hidden variables, customer deployment, pricing models, or market structure.",
-        "Outcome-based AI pricing is most grounded when buyers can compare task output, transaction value, or labor cost rather than simply count seats."
-      ],
-      "statement": "Across software, AI services, CPG, climate hardware, mobile hardware, robotics, cybersecurity, banking, investing, and public building, capability claims become useful only after distribution, verification, supply chains, compliance, operations, customer trust, or pricing fit are solved.",
-      "status": "supported",
-      "supporting_wikilinks": [
-        "ProductLedWillingnessToPay",
-        "OpenSourceWedge",
-        "SalesAsLearnableSkill",
-        "PurposeDrivenBusiness",
-        "MissionDrivenCustomerEducation",
-        "SustainableGrowthPace",
-        "CPGDistribution",
-        "ChinaHandsetSupplyChain",
-        "AdvancedMarketCommitment",
-        "BankDueDiligence",
-        "AetherAI",
-        "ThreatLocker",
-        "JimSimons",
-        "BuildingPublic",
-        "OutcomeBasedAIPricing",
-        "ServiceAsSoftware",
-        "AIBPORollUp"
-      ]
-    },
-    {
-      "global_candidate": true,
-      "id": "career-entry-and-advancement-need-context-practice",
-      "qualifications": [
-        "Internships and transfers are most useful when tied to explicit stage goals, direction filtering, and managed communication rather than prestige alone.",
-        "EP58 treats bounded task pacing and AI-assisted presentation room as useful only when real delivery, role constraints, and judgment remain owned by the worker.",
-        "Japan's employment ice age details remain source-scoped to the 2026-08-24 The Intelligence episode and should not be generalized to every recession cohort without additional sources."
-      ],
-      "statement": "Career progress and workplace pacing are framed as context practice rather than credential magic, and the Japan branch adds that entry timing itself can become structural scarring: [[InternshipAsCareerExploration]], [[WorkplaceHiddenRules]], [[UpwardManagement]], [[PromotionExpectationManagement]], and [[InternalTransferStrategy]] cover individual navigation, while [[EmploymentIceAgeGeneration]], [[EntryCohortLaborMarketScarring]], [[JapaneseLostDecades]], and [[RetirementSecurityTradeoff]] show how a bad cohort launch can keep reshaping wages, housing, pensions, and household formation.",
-      "status": "qualified",
-      "supporting_wikilinks": [
-        "InternshipAsCareerExploration",
-        "GraduationAnxiety",
-        "WorkplaceHiddenRules",
-        "DirtyWork",
-        "BigCompanyHalo",
-        "UpwardManagement",
-        "PromotionExpectationManagement",
-        "InternalTransferStrategy",
-        "YiLaoYongYi",
-        "DeepSeek",
-        "elbows-up-again-a-us-canada-trade-flare-up-6a8c0fa3a89d26398ee7a5db",
-        "Japan",
-        "EmploymentIceAgeGeneration",
-        "EntryCohortLaborMarketScarring",
-        "JapaneseLostDecades",
-        "RetirementSecurityTradeoff",
-        "TorigoeAtsushi"
-      ]
-    },
-    {
-      "global_candidate": false,
-      "id": "motivation-work-initiation-depends-on-reward-effort-and-attention",
-      "qualifications": [
-        "This claim is source-scoped to a Huberman Lab neuroscience interview and should not be treated as diagnosis, medication advice, or a universal productivity protocol.",
-        "The topic assignment is driven by the work-initiation and procrastination layer; the same source also has science-health and psychology relevance outside this dirty topic."
-      ],
-      "statement": "[[how-to-improve-motivation-overcome-procrastination-dr-masud-husain-scim3386045656|The Huberman Lab motivation episode]] adds a work-and-self-regulation branch: [[MotivationRewardEffortCalculation]] shows that starting and sustaining work depend on expected reward, perceived effort, prior learning, feedback, planning, and social meaning, while [[ApathyActionInitiation]], [[AttentionCapacitySelection]], and [[DopamineInvertedU]] keep procrastination, distraction, and stimulant shortcuts bounded by clinical and attention-performance qualifications.",
-      "status": "source-scoped",
-      "supporting_wikilinks": [
-        "how-to-improve-motivation-overcome-procrastination-dr-masud-husain-scim3386045656",
-        "MotivationRewardEffortCalculation",
-        "ApathyActionInitiation",
-        "AttentionCapacitySelection",
-        "DopamineInvertedU"
-      ]
-    },
-    {
-      "global_candidate": false,
-      "id": "career-direction-needs-engagement-and-apprenticeship",
-      "qualifications": [
-        "The Q&A gives career and learning guidance rather than a universal career prescription.",
-        "The same source includes clinical and health claims that remain in the science-health topic with medical boundaries.",
-        "Passion, originality, and memory practice are framed as built through input, correction, and competence rather than discovered by introspection alone."
-      ],
-      "statement": "[[PassionDiscoveryThroughEngagement]] and [[ApprenticeshipBeforeOriginality]] add a career-formation branch: direction and originality emerge from repeated input, work structure, exposure, and competence-building, while [[SelfTestingMemoryPractice]] and [[MemoryConsolidationWindows]] connect durable learning to effortful recall, correction, and later consolidation.",
-      "status": "qualified",
-      "supporting_wikilinks": [
-        "PassionDiscoveryThroughEngagement",
-        "ApprenticeshipBeforeOriginality",
-        "PassionTrapCareerAdvice",
-        "SelfTestingMemoryPractice",
-        "MemoryConsolidationWindows",
-        "HubermanLab",
-        "AndrewHuberman",
-        "your-top-health-questions-answered-scim2882548864"
-      ]
-    },
-    {
-      "global_candidate": true,
-      "id": "ai-era-education-needs-foundations-and-real-world-judgment",
-      "qualifications": [
-        "EP278 is a source-scoped education and career conversation, so the snowline metaphor should be treated as a heuristic rather than a settled labor-market forecast.",
-        "The source does not replace major selection with anti-specialization; it asks students to combine disciplinary foundations, occupational cognition, practice, and AI use.",
-        "The Li Ji material enters this work-and-education topic through historical question formation, oral-history method, source judgment, and AI-era judgment rather than through job-placement evidence."
-      ],
-      "statement": "[[ep278-ai-shidai-bu-juan-zhuanye-juan-shenme-renzai-zhongliu-tebie-cehua-02-lhvsbropwclouwshe-2-fczwnwzz|EP278]] and [[100-nian-qian-dongbei-nvhai-xie-gei-bali-de-xin-duitan-lishixuezhe-liji-putongren-ruhe-chuanguo-da-lishi-3d36f181-94ad-4883-8db3-5f040b5ed45b]] together extend AI-era formation: [[AIEraMajorChoice]], [[CareerCognitionEducation]], and [[AISnowlineWorkBoundary]] show that safe-major labels are insufficient when standardized junior tasks can be compressed, while [[NonAlgorithmicCapabilities]], [[FieldworkAsKnowledgeMethod]], [[InterviewAsEmbodiedReporting]], [[HistoricalQuestionConsciousness]], [[OralHistoryMemoryAnalysis]], and [[HistoricalComplexityAgainstLabels]] preserve foundations, real-world contact, upstream questions, listening, source judgment, trust, and verification as durable [[HumanJudgmentUnderAI]].",
-      "status": "qualified",
-      "supporting_wikilinks": [
-        "ep278-ai-shidai-bu-juan-zhuanye-juan-shenme-renzai-zhongliu-tebie-cehua-02-lhvsbropwclouwshe-2-fczwnwzz",
-        "AIEraMajorChoice",
-        "CareerCognitionEducation",
-        "AISnowlineWorkBoundary",
-        "NonAlgorithmicCapabilities",
-        "CollegeMajorChoice",
-        "EntryLevelAICareerLadderRisk",
-        "AIAsTutor",
-        "AIShortcutRisk",
-        "HumanJudgmentUnderAI",
-        "HumanAgencyUnderAI",
-        "HumanConnectionUnderAI",
-        "FieldworkAsKnowledgeMethod",
-        "InterviewAsEmbodiedReporting",
-        "100-nian-qian-dongbei-nvhai-xie-gei-bali-de-xin-duitan-lishixuezhe-liji-putongren-ruhe-chuanguo-da-lishi-3d36f181-94ad-4883-8db3-5f040b5ed45b",
-        "FuyouTiandi",
-        "LiJiHistorian",
-        "OrdinaryPeopleHistoricalVisibility",
-        "HistoricalQuestionConsciousness",
-        "OralHistoryMemoryAnalysis",
-        "HistoricalComplexityAgainstLabels",
-        "MissionaryMapKnowledgeProduction",
-        "VernacularFemaleReligiousWriting"
-      ]
-    },
-    {
-      "global_candidate": true,
-      "id": "ai-native-research-expands-access-but-needs-grounding",
-      "qualifications": [
-        "The teenage research path is grounded in one interview source, so transcript-level paper details and future AI timelines remain source-scoped.",
-        "Lower access barriers do not resolve compute cost, peer community, emotional dependence, career-meaning anxiety, or the need to keep life anchored in relationships and ordinary happiness."
-      ],
-      "statement": "[[AINativeYouthResearch]] shows that public courses, videos, chatbots, small-model experiments, and review workflows can let a student such as [[SuTinghao]] reach [[InternationalConferenceOnMachineLearning|ICML]]-adjacent work, but the same path needs [[ResearchTaste]], [[AIUsePacing]], and human grounding.",
-      "status": "qualified",
-      "supporting_wikilinks": [
-        "151-17sui-bei-2026-nian-icml-shoulu-lunwen-de-xiao-shaonian-wo-bet-kaixin-kaixin-kaixin-lgs-qedm2hdrxrfkgnsphg4i5h5u",
-        "SuTinghao",
-        "InternationalConferenceOnMachineLearning",
-        "GermanSwissInternationalSchool",
-        "AndrewNg",
-        "AndrejKarpathy",
-        "AINativeYouthResearch",
-        "AttentionProjectionResiduals",
-        "AIExistentialMeaningAnxiety",
-        "ChatGPT",
-        "OpenAI",
-        "TransformerArchitecture",
-        "AttentionResidues",
-        "ResearchTaste",
-        "AIResearchFeedbackCompression",
-        "SelfDirectedLearning",
-        "AIDefaultLearningEnvironment",
-        "AIJobSecurityAnxiety",
-        "AIFatalisticAcceleration",
-        "AGINarrative",
-        "AICompanionAttentionRisk",
-        "TeenChatbotMentalHealthRisk",
-        "HumanConnectionUnderAI",
-        "HumanAgencyUnderAI",
-        "AIUsePacing",
-        "AIForFun"
-      ]
-    },
-    {
-      "global_candidate": false,
-      "id": "elite-evaluation-can-certify-or-block-advancement",
-      "qualifications": [
-        "Hanji 862 and Hanji 926 are late-Han political reputation cases, so their friendship, family-education, and genealogy details remain source-scoped rather than general social rules.",
-        "The same evaluator infrastructure can certify, qualify, or constrain: Guo Tai warns Huang Yun, Fu Rong corrects dismissal of Wang Huan, Xu Shao helps Cao Cao become legible, and later fear of Xu Shao's opinion contributes to Liu Yao's underuse of Taishi Ci."
-      ],
-      "statement": "Elite evaluation systems can become social infrastructure for advancement, but Hanji 862 narrows the test from fame to evidenced conduct: [[GuoTaiLateHan]] warns [[HuangYunLateHan]] through [[EmptyReputationRealityGap]], [[JinWenjingLateHan]] shows friendship failing when it accommodates rather than corrects, and [[FuRongLateHan]] recognizes [[WangHuanLateHan]] despite rough presentation; later [[EliteEndorsementReputationMaking]] shows [[CaoCao]] converting an ambiguous background through senior appraisal, while [[StatusFilteredTalentMisrecognition]] shows judgment pressure can still block talent.",
-      "status": "source-scoped",
-      "supporting_wikilinks": [
-        "zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq",
-        "GuoTaiLateHan",
-        "HuangYunLateHan",
-        "EmptyReputationRealityGap",
-        "JinWenjingLateHan",
-        "FuRongLateHan",
-        "WangHuanLateHan",
-        "zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc",
-        "EliteEndorsementReputationMaking",
-        "CaoCao",
-        "HeYongLateHan",
-        "QiaoXuanLateHan",
-        "XuShao",
-        "CaoTengLateHan",
-        "CaoSong",
-        "JianShuoLateHan",
-        "LuoyangLateHan",
-        "MoralReputationPoliticalCapital",
-        "StatusFilteredTalentMisrecognition"
-      ]
-    },
-    {
-      "global_candidate": false,
-      "id": "creator-and-lifestyle-work-requires-niche-economics",
-      "qualifications": [
-        "The sources frame modest self-media income as local merchant fit, platform compliance, workload, and cost discipline rather than a general replacement for employment."
-      ],
-      "statement": "Creator work and lifestyle autonomy depend on niche economics and bounded costs: [[XiaohongshuCreatorMonetization]], [[LifestyleSubsidyCreatorWork]], and [[FinancialFreedomVsLifestyleFreedom]] matter more than follower-count optimism, while [[MiddleClassConsumptionPressure]] and [[LifestyleCostRationalization]] reset what income is meant to support.",
-      "status": "supported",
-      "supporting_wikilinks": [
-        "XiaohongshuCreatorMonetization",
-        "LocalLifestyleStoreReviews",
-        "LifestyleSubsidyCreatorWork",
-        "FinancialFreedomVsLifestyleFreedom",
-        "MiddleClassConsumptionPressure",
-        "LifestyleCostRationalization",
-        "Zhuzhu"
-      ]
-    },
-    {
-      "global_candidate": false,
-      "id": "institutional-work-relies-on-boundaries",
-      "qualifications": [
-        "Drama and informal stories can introduce these settings, but the recurring advice is to separate duties, relationships, client interests, safety rules, asymmetrical power, and self-protection.",
-        "VOL.214 keeps anti-bullying responses source-scoped: evidence preservation and complaint routes are not universal legal advice."
-      ],
-      "statement": "Professional settings such as finance, banking, cabin service, office communication, school conflict, and workplace bullying depend on explicit boundaries: [[FinancialCareerRisk]], [[FinancialEmployeeMisconductControls]], [[BankInternalAudit]], [[CabinCrewWork]], [[AviationSafetyRules]], [[CommunicationBoundarySetting]], [[WorkplaceRelationshipBoundaries]], and [[vol-214-weishenme-yue-youxiu-de-ren-yue-rongyi-zai-zhichang-bei-pua-dao-huaiyi-ziji-cong-tiequan-jiaoyu-liaodao-tiequan-zhichang-lmx4ewrw7kvcqpyh-q3bur35ybgz|VOL.214]] show competence must protect clients, safety, communication clarity, and worker self-worth under [[StructuralPowerImbalance]].",
-      "status": "supported",
-      "supporting_wikilinks": [
-        "FinancialCareerRisk",
-        "ThirdPartyWealthPlatformRisk",
-        "FinancialEmployeeMisconductControls",
-        "IndependentInvestmentConsulting",
-        "FinanceCareerPortability",
-        "BankInternalAudit",
-        "BankDueDiligence",
-        "CabinCrewWork",
-        "AviationSafetyRules",
-        "PassengerComplaintHandling",
-        "CommunicationBoundarySetting",
-        "SocialSignalInterpretation",
-        "WorkplaceCommunicationRisk",
-        "LanguagePrecision",
-        "WorkplaceRelationshipBoundaries",
-        "CityInTheCity",
-        "vol-214-weishenme-yue-youxiu-de-ren-yue-rongyi-zai-zhichang-bei-pua-dao-huaiyi-ziji-cong-tiequan-jiaoyu-liaodao-tiequan-zhichang-lmx4ewrw7kvcqpyh-q3bur35ybgz",
-        "TrueEducationKDrama",
         "WorkplaceBullying",
-        "StructuralPowerImbalance",
         "PsychologicalBoundaryProtection",
-        "ParentalProjectionControl",
-        "WorkSelfWorthBoundary",
-        "PsychologicalAbuseRecognition",
-        "NanJiHe"
+        "BankDueDiligence",
+        "BankInternalAudit",
+        "WorkplaceRelationshipBoundaries"
+      ]
+    },
+    {
+      "global_candidate": true,
+      "id": "social-capacity-is-built-through-relationships-and-routines",
+      "qualifications": [
+        "Individual attitude and routine design cannot substitute for health, money, housing, care access, disability support, or local infrastructure."
+      ],
+      "statement": "Society and aging sources present capability as social and environmental: [[SuccessfulAging]], [[CognitiveAging]], [[CognitiveResilience]], and [[SustainableHealthOptimization]] depend on connection, balance, routines, service access, and adaptive health practices.",
+      "status": "supported",
+      "supporting_wikilinks": [
+        "SuccessfulAging",
+        "CognitiveAging",
+        "CognitiveResilience",
+        "SustainableHealthOptimization"
       ]
     },
     {
       "global_candidate": false,
-      "id": "late-han-frontier-decision-and-education-channel-prelude",
+      "id": "institutions-can-turn-education-and-reputation-into-capacity-or-risk",
       "qualifications": [
-        "The claim is limited to the late-Han synthesis paragraph in the work/education input; the broader guarded-disclosure advice remains source-scoped on the source and concept pages.",
-        "Hanji 909 enters this topic through the late-Han synthesis paragraph as a decision-and-command case, not through the episode's broader personal-cultivation opening.",
-        "Hongdu Menxue is treated here as an appointment-channel conflict, not as a full institutional reform equivalent to later examination systems."
+        "The late-Han cases are historical analogies, not direct prescriptions for modern education or workplace institutions."
       ],
-      "statement": "Hanji 909-910 add a late-Han work-and-society prelude: [[CaiYong]]'s warning, [[WangFuLateHan]]'s sponsorship of [[TianYanLateHan]], and the defeat of [[XiaYuLateHan]] and [[ZangMinLateHan]] by [[TanshihuaiXianbei]] show [[OverextendedFrontierExpedition]] and [[CourtFeedbackCollapse]] as command-selection and institutional-judgment failures, while [[EmperorLingOfHan]] uses [[HongduMenxue]] against [[Taixue]] as [[OfficialSelectionChannelCompetition]] and [[ZhaoBaoLateHan]] shows family vulnerability becoming [[LoyaltyCollateralDilemma]] under [[Xianbei]] pressure.",
-      "status": "source-scoped",
+      "statement": "Historical and modern institution sources show education, reputation, and office channels as double-edged: [[Taixue]], [[OfficialSelectionChannelCompetition]], [[EmptyReputationRealityGap]], and [[CourtFeedbackCollapse]] can build public capacity or expose capable people to capture and retaliation.",
+      "status": "qualified",
       "supporting_wikilinks": [
-        "zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj",
-        "zizhi-tongjian-hanji-910-shehui-shengcun-wo-quan-ni-duodian-chengfu-lp2fvuyb8ampzoeyr7znztnr0fgk",
-        "CaiYong",
-        "WangFuLateHan",
-        "TianYanLateHan",
-        "XiaYuLateHan",
-        "ZangMinLateHan",
-        "TanshihuaiXianbei",
-        "OverextendedFrontierExpedition",
-        "CourtFeedbackCollapse",
-        "EmperorLingOfHan",
-        "HongduMenxue",
         "Taixue",
         "OfficialSelectionChannelCompetition",
-        "ZhaoBaoLateHan",
-        "LoyaltyCollateralDilemma",
-        "Xianbei"
+        "EmptyReputationRealityGap",
+        "CourtFeedbackCollapse"
       ]
     },
     {
       "global_candidate": false,
-      "id": "education-and-care-require-struggle-and-responsibility",
+      "id": "work-and-life-pacing-protects-agency-under-pressure",
       "qualifications": [
-        "AI help, parental expectation, official instruction, and fictional wonder can lower access barriers or guide conduct, but shortcuts, shame pressure, punishment-first response, or spectacle can bypass the reasoning, evidence, dirty work, and care obligations the sources value.",
-        "The Hanji 862 family and local-governance examples are source-scoped historical and parenting commentary, not clinical advice or a universal educational method."
+        "The pacing examples span health Q&A, finance-worker consumption, and workplace commentary, so the synthesis should not collapse them into a single productivity rule."
       ],
-      "statement": "Learning and care-centered work are valuable when they preserve responsibility, reasoning, and repair: [[QiuXiangLateHan]] and [[HumaneLocalGovernance]] show teaching-based correction of [[ChenYuanLateHan]], [[ParentalExpectationShame]] warns against expectation becoming shame, and [[SelfDirectedLearning]], [[LearningExperienceDesign]], [[CaptiveAnimalCareLabor]], and [[DinosaurAsLivingAnimal]] keep care grounded in effort, evidence, and concrete needs.",
-      "status": "qualified",
-      "supporting_wikilinks": [
-        "zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq",
-        "QiuXiangLateHan",
-        "ChenYuanLateHan",
-        "HumaneLocalGovernance",
-        "ParentalExpectationShame",
-        "SelfDirectedLearning",
-        "LearningExperienceDesign",
-        "AIShortcutRisk",
-        "AIAsTutor",
-        "AIUsePacing",
-        "AILiteracyAgainstWorship",
-        "DinoSanctuary",
-        "CaptiveAnimalCareLabor",
-        "DinosaurAsLivingAnimal",
-        "EvidenceBoundPaleontologicalReconstruction",
-        "BirdDinosaurContinuity"
-      ]
-    },
-    {
-      "global_candidate": true,
-      "id": "ai-entertainment-needs-systems-not-assets",
-      "qualifications": [
-        "Generated assets, chat, or prototypes do not yet equal stable games or entertainment communities; the sources keep stressing tuned rules, state, agency, and a consensus-defining product."
-      ],
-      "statement": "AI entertainment becomes durable work only when generation is embedded in systems: [[AIInteractiveEntertainment]], [[AIGameIndustrialization]], [[AIInteractiveContentPlatforms]], [[AISimulationContent]], and [[AISuperCreators]] still need retention, distribution, state, rules, revenue sharing, and creator education.",
-      "status": "qualified",
-      "supporting_wikilinks": [
-        "AIInteractiveEntertainment",
-        "AIGameIndustrialization",
-        "AIInteractiveContentPlatforms",
-        "AISimulationContent",
-        "AISuperCreators",
-        "AINPCSocialInfrastructure",
-        "DesignedAgencyInGames",
-        "CreationAsConsumption",
-        "Mujian",
-        "Roi",
-        "Youju",
-        "Xiaoning",
-        "CharacterAI"
-      ]
-    },
-    {
-      "global_candidate": false,
-      "id": "embodied-ai-needs-material-social-context",
-      "qualifications": [
-        "The source distinguishes companionship from chatbot utility and task robotics; the product value depends on restrained non-human expression and household integration."
-      ],
-      "statement": "Embodied AI depends on material and social context as much as models: [[Xiaoban]], [[CompanionRobots]], [[RobotLiveliness]], [[OnDeviceFastSlowBrain]], [[EmotionalInteractionModels]], and [[FamilyWorldSimulator]] show companionship as movement, memory, refusal, privacy, charging rituals, and user interpretation.",
+      "statement": "Several sources frame sustainable performance as pacing under constraints: [[SustainableHealthOptimization]], [[MiddleClassConsumptionPressure]], [[LifestyleCostRationalization]], and bounded workplace use of [[DeepSeek]] distinguish recovery or adaptation from avoidance.",
       "status": "supported",
       "supporting_wikilinks": [
-        "Xiaoban",
-        "Shibo",
-        "YuebanDongli",
-        "EmbodiedAI",
-        "CompanionRobots",
-        "RobotLiveliness",
-        "OnDeviceFastSlowBrain",
-        "EmotionalInteractionModels",
-        "FamilyWorldSimulator"
-      ]
-    },
-    {
-      "global_candidate": false,
-      "id": "alignment-strategy-scales-from-family-to-markets",
-      "qualifications": [
-        "The historical and prediction-market materials are not the same domain; the shared claim is limited to incentives, commitment, and trust under uncertainty."
-      ],
-      "statement": "Strategic alignment appears at multiple social scales: [[ChenDeng]], [[ChenGui]], [[PoliticalSurvivalFirst]], and [[XingshiqingStrategicAssessment]] show family-level survival planning, while [[Polymarket]] and [[CitizenJournalismAccountability]] raise similar questions about incentives, public signals, and trust in prediction infrastructure.",
-      "status": "source-scoped",
-      "supporting_wikilinks": [
-        "ChenDeng",
-        "ChenGui",
-        "CaoCao",
-        "LyuBu",
-        "GuanglingCommandery",
-        "PoliticalSurvivalFirst",
-        "XingshiqingStrategicAssessment",
-        "QingYuQuJiu",
-        "Polymarket",
-        "CitizenJournalismAccountability"
-      ]
-    },
-    {
-      "global_candidate": false,
-      "id": "material-supply-and-labor-shape-social-order",
-      "qualifications": [
-        "The Hanji 986 organizational-feedback reading is source-scoped to Li Jue's camp and Cao Cao's Yanzhou/Xuzhou decision frame, not a general management model.",
-        "The Hanji 999 episode frames agricultural-labor collapse and grain leverage as conditions behind alliance behavior rather than as complete economic history."
-      ],
-      "statement": "[[zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd]] and [[zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu]] add premodern work-and-society cases: Hanji 986 shows remonstrance and organizational feedback failing under coercive command around [[LiJueLateHan]], [[ZhaoWenLateHan]], [[HuangfuLiLateHan]], and [[WangChangLateHan]], while [[CaoCao]]'s [[YanzhouLateHan]] recovery and [[RootBasePriority]] turn [[Xuzhou]] expansion into a base-security question; Hanji 999 shows [[WartimeAgriculturalLaborCollapse]], [[GrainLeverageAllianceBetrayal]], and [[InterestStructuredAllianceFragility]] making authority and alliance depend on grain, labor, protection, and family safety for [[EmperorXianOfHan]], [[LiuBei]], and Xuzhou.",
-      "status": "source-scoped",
-      "supporting_wikilinks": [
-        "zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd",
-        "zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu",
-        "LiJueLateHan",
-        "ZhaoWenLateHan",
-        "HuangfuLiLateHan",
-        "WangChangLateHan",
-        "CaoCao",
-        "YanzhouLateHan",
-        "RootBasePriority",
-        "Xuzhou",
-        "WartimeAgriculturalLaborCollapse",
-        "GrainLeverageAllianceBetrayal",
-        "InterestStructuredAllianceFragility",
-        "EmperorXianOfHan",
-        "LiuBei",
-        "LyuBu",
-        "YuanShu",
-        "MiZhu"
-      ]
-    },
-    {
-      "global_candidate": true,
-      "id": "ai-abundance-creates-contested-labor-outcomes",
-      "qualifications": [
-        "The 2026 prediction source records contradictory investor assumptions rather than resolved outcomes; it is valuable as a map of tensions, not as settled accuracy."
-      ],
-      "statement": "The AI labor outlook remains unsettled: [[EntryLevelAICareerLadderRisk]] and [[SoftwareMaintenanceRevenueCompression]] point toward compressed work paths, while the same [[AllIn]] prediction map leaves open whether AI expands knowledge-work demand and public information infrastructure through tools such as [[Polymarket]].",
-      "status": "contested",
-      "supporting_wikilinks": [
-        "EntryLevelAICareerLadderRisk",
-        "SoftwareMaintenanceRevenueCompression",
-        "AllIn",
-        "AIBacklashPolitics",
-        "AIIPOValuation",
-        "JevonsParadoxInAI",
-        "Polymarket",
-        "CitizenJournalismAccountability"
-      ]
-    },
-    {
-      "global_candidate": true,
-      "id": "exit-and-retreat-need-constraint-accounting",
-      "qualifications": [
-        "The claim is grounded in one 面基 episode and Li Chuang's book-centered account, so it should not be generalized to all Daoist practice or all quitting decisions.",
-        "The source reframes retreat and freedom as constraint-aware practice, not as a recommendation to leave work or seek medical or spiritual certainty on Wudang Mountain."
-      ],
-      "statement": "The Wudang source turns quit-work fantasy into constraint accounting: [[CizhiShangShan]], [[DaoistTempleEverydayLabor]], [[RetreatRomanceDeflation]], [[WorkRoleDecentering]], [[CircularLinearTimeTension]], and [[XiaoyaoAsNonDependence]] show that freedom is built through ordinary labor, time practice, fieldnotes, and reduced dependence on external scoring rather than escape from the human world.",
-      "status": "qualified",
-      "supporting_wikilinks": [
-        "shan-shang-shan-xia-jie-renjian-wushi-xiaoyao-ji-shenxian-lhjiguq74flhatdxnbrnzhjg-acp",
-        "CizhiShangShan",
-        "LiChuang",
-        "WudangMountain",
-        "DaoistTempleEverydayLabor",
-        "FieldnoteToPublicWriting",
-        "RetreatRomanceDeflation",
-        "WorkRoleDecentering",
-        "CircularLinearTimeTension",
-        "XiaoyaoAsNonDependence",
-        "FinancialFreedomVsLifestyleFreedom"
-      ]
-    },
-    {
-      "global_candidate": false,
-      "id": "late-han-crisis-can-make-capability-legible",
-      "qualifications": [
-        "This claim uses Hanji 905 as a bounded premodern work-and-status case, not as a universal career rule.",
-        "The Sun-family omen story and Danyang-name uncertainty remain source-scoped and are not promoted into independent evidence."
-      ],
-      "statement": "[[zizhi-tongjian-hanji-905-fugui-ruhe-xianzhong-qiu-lklxx5nquka2mtbllxivk0a7b-fu|Hanji 905]] adds a work-and-social-order prelude before the later education-channel claims: [[SunJianLateHan]]'s locally recruited force in the [[XuShengLateHan]] suppression shows [[CrisisOpportunityConversion]] by making nerve and capability publicly legible as career capital, while [[CaiYong]], [[EmperorLingOfHan]], [[XipingStoneClassics]], and [[Taixue]] show the education side of legibility through public classical-text standardization.",
-      "status": "source-scoped",
-      "supporting_wikilinks": [
-        "zizhi-tongjian-hanji-905-fugui-ruhe-xianzhong-qiu-lklxx5nquka2mtbllxivk0a7b-fu",
-        "SunJianLateHan",
-        "XuShengLateHan",
-        "CrisisOpportunityConversion",
-        "CaiYong",
-        "EmperorLingOfHan",
-        "XipingStoneClassics",
-        "Taixue"
-      ]
-    },
-    {
-      "global_candidate": false,
-      "id": "self-knowledge-frame-remains-source-scoped-in-historical-leadership",
-      "qualifications": [
-        "This claim does not promote the episode's psychological vocabulary into a diagnosis of Gongsun Zan or a settled social-science finding.",
-        "The work-and-society relevance is limited to feedback, confidence, and shared-risk analogies drawn from a historical leadership narrative.",
-        "The concrete historical evidence remains the Yijing siege and command-trust collapse rather than the opening self-help frame."
-      ],
-      "statement": "[[zizhi-tongjian-hanji-1031-gongsunzan-zhisi-cong-bianjiang-zhanshen-dao-kunshou-zifen-lmqoechccfwmfpmbdx8-tjmnm3jz|Hanji 1031]] adds a source-scoped self-knowledge and workplace analogy around [[GongsunZan]]: the episode invokes [[DunningKrugerEffect]], [[CapabilityGapSelfDiagnosis]], and [[RationalHumility]], but the durable cross-topic use is cautionary rather than diagnostic, because capability claims and confidence become socially costly when a leader stops testing them against advisers, subordinates, and changing conditions at [[YijingFortress]].",
-      "status": "source-scoped",
-      "supporting_wikilinks": [
-        "zizhi-tongjian-hanji-1031-gongsunzan-zhisi-cong-bianjiang-zhanshen-dao-kunshou-zifen-lmqoechccfwmfpmbdx8-tjmnm3jz",
-        "GongsunZan",
-        "DunningKrugerEffect",
-        "CapabilityGapSelfDiagnosis",
-        "RationalHumility",
-        "YijingFortress",
-        "GuanJingLateHan",
-        "RescueReciprocityCommandTrust",
-        "FortressSecurityIllusion"
-      ]
-    },
-    {
-      "global_candidate": false,
-      "id": "creator-facing-ai-hardware-needs-social-fit",
-      "qualifications": [
-        "The source is about consumer smart glasses and creator/lifestyle use cases, not a general workplace productivity study.",
-        "Creator seeding is treated as an adoption tactic, not evidence of sustainable creator labor economics or broad organic demand."
-      ],
-      "statement": "The smart-glasses branch treats creator and lifestyle work as a social-fit problem: [[WearableAIAssistant]] and [[RayBanSmartGlasses]] can help hands-free travel, cooking, gardening, and creator capture, but [[SmartGlassesBystanderPrivacy]], [[ConsentBasedRecording]], [[ConsumerCameraSurveillance]], and [[GenderedAIMarketing]] show adoption depending on bystander comfort and who is imagined as the user.",
-      "status": "qualified",
-      "supporting_wikilinks": [
-        "tech-20260826-0826-mp-tech-pod-128-tech-20260826-0826-mp-tech-pod-128",
-        "MarketplaceTech",
-        "Meta",
-        "RayBanSmartGlasses",
-        "WearableAIAssistant",
-        "SmartGlassesBystanderPrivacy",
-        "ConsentBasedRecording",
-        "ConsumerCameraSurveillance",
-        "GenderedAIMarketing",
-        "CreatorGiftingDemandManufacture"
-      ]
-    },
-    {
-      "global_candidate": false,
-      "id": "premodern-patronage-and-labor-capacity-need-useful-roles",
-      "qualifications": [
-        "This claim keeps the source's upward-networking opening as analogy rather than direct historical evidence.",
-        "The refugee-labor branch is bounded to Wei Ji's Guanzhong proposal and does not prove the long-term settlement outcome."
-      ],
-      "statement": "Hanji 1035 contributes a source-scoped work-and-social-order analogy: durable roles are framed as useful, low-risk value, while the historical branch shows usefulness operating through patronage and labor capacity as [[JiaXu]] makes [[ZhangXiu]] valuable to [[CaoCao]] before [[GuanduCampaign]] and [[WeiJiLateHan]]'s [[SaltRevenueAgriculturalRecovery]] converts returning people in [[GuanzhongRegion]] from private military manpower risk into farming households.",
-      "status": "source-scoped",
-      "supporting_wikilinks": [
-        "zizhi-tongjian-hanji-1035-zhansha-caocao-qinzi-he-aijiang-ta-jing-zaidu-guijiang-caocao-lh10wwkwcqw5hnap3bodw6oxpt7v",
-        "JiaXu",
-        "ZhangXiu",
-        "CaoCao",
-        "GuanduCampaign",
-        "WeiJiLateHan",
-        "SaltRevenueAgriculturalRecovery",
-        "GuanzhongRegion",
-        "StrategicDefectorIncorporation",
-        "WartimeAgriculturalLaborCollapse",
-        "YangFuLateHan"
-      ]
-    },
-    {
-      "global_candidate": false,
-      "id": "premodern-crisis-counsel-and-internal-pressure-shape-capacity",
-      "qualifications": [
-        "This is a bounded historical analogy about role capacity, counsel, and internal pressure, not a modern workplace prescription.",
-        "The family-law trigger remains source-scoped; the claim is about the organizational consequence rather than proven private motive.",
-        "Hanji 1048 stops before the Wuchao raid result, so outcome claims remain tied to the Guandu/Wuchao history branch."
-      ],
-      "statement": "[[zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju|Hanji 1048]] adds a premodern work-and-social-order case: [[CrisisPersistenceCounsel]] keeps the Guandu side from abandoning [[GuanduCampaign]] under supply pressure, while [[RejectedCounselDefectionCascade]] shows rejected advice plus family arrest turning [[XuYouLateHan]] into an enemy intelligence source. The convoy roles around [[HanMengLateHan]], [[XuHuangCaoGeneral]], [[ShiHuanLateHan]], and [[JiangQiLateHan]] keep the analogy grounded in logistics and role execution rather than generic advice.",
-      "status": "source-scoped",
-      "supporting_wikilinks": [
-        "zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju",
-        "CrisisPersistenceCounsel",
-        "RejectedCounselDefectionCascade",
-        "GuanduCampaign",
-        "WuchaoRaidLateHan",
-        "XuYouLateHan",
-        "ShenPeiLateHan",
-        "HanMengLateHan",
-        "XuHuangCaoGeneral",
-        "ShiHuanLateHan",
-        "JiangQiLateHan",
-        "JuShou",
-        "SupplyDepotDecisiveStrike",
-        "XuHuangLateHan"
-      ]
-    },
-    {
-      "global_candidate": false,
-      "id": "smart-vehicle-cabins-blur-mobility-work-and-rest",
-      "qualifications": [
-        "The cabin-use evidence comes from named owners and a brand representative, so it should not be generalized to all drivers or vehicle categories.",
-        "The assisted-driving material describes cautious delegation under responsibility boundaries rather than an exit from human judgment."
-      ],
-      "statement": "[[ep279-dang-fangxiangpan-manman-songkai-women-ruhe-yu-che-xiangchu-lq2elbnjy6xrhixxqjs-y7erhlnv|EP279]] adds a work-and-society branch in which [[SmartVehicleLivingSpace]] makes the car a meeting, rest, parent-child, and outdoor coordination space, while [[AssistedDrivingTrustFormation]] and [[AutonomousDrivingResponsibilityBoundary]] keep the user role active as drivers learn to delegate cautiously.",
-      "status": "source-scoped",
-      "supporting_wikilinks": [
-        "ep279-dang-fangxiangpan-manman-songkai-women-ruhe-yu-che-xiangchu-lq2elbnjy6xrhixxqjs-y7erhlnv",
-        "SmartVehicleLivingSpace",
-        "AssistedDrivingTrustFormation",
-        "AutonomousDrivingResponsibilityBoundary",
-        "OutdoorVehicleLifestyleDesign",
-        "UserFeedbackVehicleDefinition",
-        "HongmengZhixing",
-        "AITO",
-        "Luxeed",
-        "HongmengZhixingG9"
-      ]
-    },
-    {
-      "global_candidate": false,
-      "id": "creative-work-needs-phase-discipline-and-feedback-boundaries",
-      "qualifications": [
-        "The claim is a creative-process heuristic from one episode, not a universal project-management method.",
-        "Rubin warns that a previously successful routine may not be best for the next work."
-      ],
-      "statement": "The Rubin Huberman Lab source adds a creative-work branch: [[CreativePhaseSeparation]], [[ArtisticFeedbackBoundary]], [[SubconsciousCreativeIncubation]], and [[CreativityAsFeltProcess]] show that creative output depends on separating seed, experiment, craft, and completion phases, using feedback as information, protecting taste, and alternating total focus with release.",
-      "status": "source-scoped",
-      "supporting_wikilinks": [
-        "essentials-how-to-access-your-creativity-rick-rubin-scim7816635332",
-        "CreativePhaseSeparation",
-        "ArtisticFeedbackBoundary",
-        "SubconsciousCreativeIncubation",
-        "CreativityAsFeltProcess",
-        "RestorativeCreativePacing",
-        "FocusedDiffuseThinkingBalance",
-        "HubermanLab",
-        "AndrewHuberman",
-        "RickRubin"
-      ]
-    },
-    {
-      "global_candidate": false,
-      "id": "womens-health-decisions-need-informed-shared-context",
-      "qualifications": [
-        "The supporting material is source-scoped to the Gottfried episode plus existing menopause and diagnostic-gap pages; it should not be generalized into treatment advice.",
-        "The work-and-society relevance is communication, consent, literacy, and institutional gap recognition rather than workplace accommodation."
-      ],
-      "statement": "Women's health now appears as a social decision and communication problem as well as clinical measurement: [[WomensHealthDiagnosticGap]], [[MenopauseInformationTriage]], [[MenopauseClinicalSharedDecision]], [[OralContraceptiveInformedConsent]], and [[FemaleHormoneHealthPhenotyping]] show that patients and clinicians need clearer evidence, risk-benefit language, life-stage context, and symptom legitimacy around contraception, PCOS, perimenopause, and midlife screening.",
-      "status": "qualified",
-      "supporting_wikilinks": [
-        "WomensHealthDiagnosticGap",
-        "MenopauseInformationTriage",
-        "MenopauseClinicalSharedDecision",
-        "OralContraceptiveInformedConsent",
-        "FemaleHormoneHealthPhenotyping",
-        "PCOSCardiometabolicRisk",
-        "PerimenopauseBrainMetabolism",
-        "CoronaryArteryCalciumMidlifeScreening",
-        "essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929"
+        "SustainableHealthOptimization",
+        "MiddleClassConsumptionPressure",
+        "LifestyleCostRationalization",
+        "DeepSeek"
       ]
     }
   ],
-  "summary": "Hanji 827 adds an early Taixue work-and-education branch: Mingjing recommendation, official-family entry, study, examination, and office placement make classical learning an appointment pipeline before later student-petition and Hongdu-channel competition. The same source keeps role exposure visible as Li Gu, Hu Guang, and Du Qiao's succession judgment becomes dangerous under Liang Ji and Cao Teng. Hanji 830 adds a premodern role-risk branch: students, petitioners, legal defenders, and retainers accept danger around Li Gu and Du Qiao, so social roles preserve reputation even when office power controls punishment and bodies. Hanji 847 adds a relationship-selection branch: partner, friend, boss, social-circle, and environment choices shape exposure and access, while the late-Han household and palace channel shows relational selection can protect, expose, or coerce rather than guarantee control. Hanji 853 adds a source-scoped late-Han role-and-safety case: concealed kinship, student loyalty, favorite-power complaint channels, and family retaliation show household survival, shelter, and local office depending on political exposure as much as personal capacity. Hanji 862 adds a late-Han reputation, selection, and teaching branch: talent, public name, friendship, official judgment, and local education become useful only when checked against conduct, evidence, and repair. The Huberman Lab Q&A adds a bounded formation branch: passion, originality, and memory practice are treated as engagement, apprenticeship, self-testing, and correction rather than passive introspection. Work, education, and society material emphasizes implementation over capability claims: AI, software, creative production, physical products, research, creator work, finance, public building, and institutional roles all depend on workflow ownership, distribution, verification, trust, supply chains, labor constraints, and human judgment. The AI-era education branch now combines major-choice uncertainty, teenage AI research access, AI tutoring, historical fieldwork, oral history, source judgment, and shortcut risk; durable formation comes from foundations, real-world contact, upstream questions, review, and human grounding. Workplace material covers internships, upward management, transfers, task pacing with AI, finance and banking boundaries, cabin service, communication precision, creator monetization, lifestyle cost discipline, cohort scarring in Japan, and VOL.214's bullying branch, where school violence analogies, parent-teacher pressure, asymmetrical power, self-worth separation, evidence preservation, and institutional complaint channels define the boundary problem. Hardware and spatial work branches cover smart vehicles, smart glasses, embodied AI companions, AI entertainment platforms, and AI cinema, each bounded by privacy, social fit, labor rights, production systems, and user responsibility. Historical late-Han branches use status, reward refusal, reputation lists, official selection, frontier command, crisis opportunity, coercive feedback, grain, labor, family safety, patronage, shelter, and fortress collapse as source-scoped social-order cases rather than direct workplace rules. The Wudang, Antarctica, social housing, parking, consortio, climate hard-tech, carbon-removal, and dinosaur-care paragraphs extend the topic into constraint accounting: retreat, living conditions, environmental value, care work, and market adoption become real through institutions, chores, material costs, responsibility, and everyday constraints rather than ideals alone. Women health appears here as communication and shared-decision context, keeping contraception, PCOS, perimenopause, and midlife screening tied to consent language, evidence triage, symptom legitimacy, and clinician-patient interpretation. Hanji 1048 adds another source-scoped late-Han social-order case: crisis counsel, logistics roles, family safety, and rejected advice affect organizational survival, but remain historical analogies rather than direct workplace rules.",
+  "summary": "Work, education, and society sources converge on a practical pattern: durable capability comes from bounded institutions, active learning, realistic workplace judgment, and human feedback loops. AI and other tools can compress work, but the useful sources keep returning to self-directed effort, context, verification, social trust, pacing, health, and environments that let people act under real constraints.",
   "topic_id": "work-education-and-society"
 }
