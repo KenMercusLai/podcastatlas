@@ -2,6 +2,31 @@
   "claims": [
     {
       "global_candidate": false,
+      "id": "late-han-145-succession-office-cleanup-risk",
+      "qualifications": [
+        "This claim uses Hanji 825 as a bounded premodern work-and-social-order case, not a modern workplace analogy.",
+        "The succession motive is source-scoped: the paragraph supports the contrast between Li Gu's older-ruler advice and the choice of a child emperor, but does not fully prove Liang Ji and Liang Na's private reasoning.",
+        "Zhang Ying's renewed Guangling revolt is used only as a local-authority aftereffect because the full rebel career remains source-scoped."
+      ],
+      "statement": "In [[zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked|Hanji 825]], office judgment under succession crisis becomes social risk: [[LiGuLateHan]] rejects [[ImperialDeathConcealment]], favors older [[LiuSuanLateHan]] over child [[EmperorZhiOfHan]], and turns [[EmperorChongOfHan]]'s burial plus cleanup into public-order work, while [[ControllableChildAccession]] and [[AnonymousSlanderRetaliation]] show how powerholders and displaced officials can recode correction as control or private ambition under [[LiangJiLateHan]] and [[EmpressDowagerLiangNaLateHan]]. The [[ZhangGangLateHan]] / [[ZhangYingGuanglingLateHan]] aftereffect also shows local pacification depending on credibility that does not automatically survive the officeholder.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked",
+        "EmperorChongOfHan",
+        "LiGuLateHan",
+        "ImperialDeathConcealment",
+        "LiuSuanLateHan",
+        "EmperorZhiOfHan",
+        "ControllableChildAccession",
+        "AnonymousSlanderRetaliation",
+        "LiangJiLateHan",
+        "EmpressDowagerLiangNaLateHan",
+        "ZhangGangLateHan",
+        "ZhangYingGuanglingLateHan"
+      ]
+    },
+    {
+      "global_candidate": false,
       "id": "late-han-146-taixue-pipeline-and-succession-role-risk",
       "qualifications": [
         "This work-and-education claim uses Hanji 827 as a bounded premodern institutional case, not a modern education or career prescription.",

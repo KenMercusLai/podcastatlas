@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "d4b354158358a7d81ae6b27d3526bcfa170568de59e77b4df39602f70dd7bd7e",
       "87238dd158df612bbcc136fa54dccb214e7b1329d7e5181231d50ea2a55e9e21",
       "1d2a90e8e7cf9f976bb20e7e21455a73c6de591a5e71cabba8246b865d628e0b",
       "255bdb14726d1bdf71b3b416f890df3b985e38853cfb8965f9583d6369d452a0",
@@ -348,11 +349,38 @@
       "b7fe88c4a3ea92e3484da7ba393768450cea0ebc036e6acdec39ec881741cf34",
       "082a8129ce267d83fa695011e4d1d9ec611a2911fab24932213544b548f520cf"
     ],
-    "paragraph_count": 346
+    "paragraph_count": 347
   },
-  "overview_commit": "ac30f7686cfb47282b29ef42cb3c802c2cc73ae1",
-  "overview_digest": "bee1b208dd76e3f07547f0fb3e74366eed0e071c299fd63e8369bc8849e9e0a2",
+  "overview_commit": "0a9508597d7688079499406ca302047972280751",
+  "overview_digest": "5e2fa5315f24b8128477cde5fd3c501ebc1b3435796ebbbba9bc4a0c9156cd64",
   "paragraphs": [
+    {
+      "id": "d4b354158358a7d81ae6b27d3526bcfa170568de59e77b4df39602f70dd7bd7e",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked|《资治通鉴·汉纪》825丨历史告诉你：当你没用时，人性最自私]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 145 CE [[EmperorChongOfHan|汉冲帝]] succession crisis immediately before [[zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv|Hanji 826]] and [[zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2|Hanji 827]]. It adds [[EmperorChongOfHan|汉冲帝]], [[ZhangYingGuanglingLateHan|张婴]], and [[AnonymousSlanderRetaliation|匿名诬告式报复]], while extending [[LiGuLateHan|李固]], [[LiangJiLateHan|梁冀]], [[EmpressDowagerLiangNaLateHan|梁妠]], [[EmperorZhiOfHan|汉质帝]], [[LiuSuanLateHan|刘蒜]], [[ZhangGangLateHan|张纲]], [[ImperialDeathConcealment|秘不发丧式过渡控制]], and [[ControllableChildAccession|可控幼主继位]]. Its core synthesis is that the first 145 CE succession crisis already shows the competing logics that later harden into Liang-family domination: Li Gu converts emperor death and burial into public order, ritual, and cost restraint; Liang Ji and Liang Na choose the easier child candidate over the respected Liu Suan; and displaced officials turn Li Gu's cleanup into anonymous slander. No settled contradiction is recorded; Liu Zuan's detailed lineage, the anonymous letters' exact wording, and Zhang Ying's full rebel career remain source-scoped.",
+      "topic_scores": {
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "AnonymousSlanderRetaliation",
+        "ControllableChildAccession",
+        "EmperorChongOfHan",
+        "EmperorZhiOfHan",
+        "EmpressDowagerLiangNaLateHan",
+        "ImperialDeathConcealment",
+        "LiGuLateHan",
+        "LiangJiLateHan",
+        "LiuSuanLateHan",
+        "RuiqiJiangtouZizhiTongjian",
+        "ZhangGangLateHan",
+        "ZhangYingGuanglingLateHan",
+        "zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked",
+        "zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv",
+        "zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2"
+      ]
+    },
     {
       "id": "87238dd158df612bbcc136fa54dccb214e7b1329d7e5181231d50ea2a55e9e21",
       "primary_topic": "history-and-geopolitics",

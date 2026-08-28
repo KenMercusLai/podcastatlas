@@ -2085,6 +2085,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/anitaramaswamy/"
     },
+    "AnonymousSlanderRetaliation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》825丨历史告诉你：当你没用时，人性最自私 [luV-8z9AXuejnFhLKgsUxEE3uKED].md",
+          "key": "zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》825丨历史告诉你：当你没用时，人性最自私",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/anonymousslanderretaliation/"
+    },
     "AntarcticClimateServices": {
       "episode_count": 1,
       "show_count": 1,
@@ -5277,9 +5293,9 @@
       "url": "/wiki/concepts/continuousglucosemonitoring/"
     },
     "ControllableChildAccession": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》879丨死在女人身上的昏庸男人 [lqz5_Mpi0WAA_xmUHJHwkAECjJRC].md",
@@ -5287,9 +5303,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》879丨死在女人身上的昏庸男人",
           "url": "/wiki/sources/zizhi-tongjian-hanji-879-si-zai-nvren-shenshang-de-hunyong-nanren-lqz5-mpi0waa-xmuhjhwkaecjjrc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》825丨历史告诉你：当你没用时，人性最自私 [luV-8z9AXuejnFhLKgsUxEE3uKED].md",
+          "key": "zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》825丨历史告诉你：当你没用时，人性最自私",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-29",
       "url": "/wiki/concepts/controllablechildaccession/"
     },
     "CooksWhoFeed": {
@@ -7662,6 +7685,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/emotionsasfunctionalcontrolstates/"
     },
+    "EmperorChongOfHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》825丨历史告诉你：当你没用时，人性最自私 [luV-8z9AXuejnFhLKgsUxEE3uKED].md",
+          "key": "zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》825丨历史告诉你：当你没用时，人性最自私",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/emperorchongofhan/"
+    },
     "EmperorHuanOfHan": {
       "episode_count": 27,
       "show_count": 1,
@@ -7877,9 +7916,9 @@
       "url": "/wiki/entities/emperorshunofhan/"
     },
     "EmperorZhiOfHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》835丨东汉第一权臣，为何要跪他？ [lpwezt_z-2QLoITWD3T4GyxZNQbo].md",
@@ -7901,6 +7940,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》827丨一句话引发的帝王之死",
           "url": "/wiki/sources/zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》825丨历史告诉你：当你没用时，人性最自私 [luV-8z9AXuejnFhLKgsUxEE3uKED].md",
+          "key": "zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》825丨历史告诉你：当你没用时，人性最自私",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked/"
         }
       ],
       "updated": "2026-08-29",
@@ -8016,9 +8062,9 @@
       "url": "/wiki/entities/empressdowagerdoumiao/"
     },
     "EmpressDowagerLiangNaLateHan": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》832丨为领导背锅，他是傻还是智？ [lmFpUIXmI4odrf6LU31RF6_66-lq].md",
@@ -8061,6 +8107,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》826丨乱世的罪与恶，背后是贪婪的人性",
           "url": "/wiki/sources/zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》825丨历史告诉你：当你没用时，人性最自私 [luV-8z9AXuejnFhLKgsUxEE3uKED].md",
+          "key": "zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》825丨历史告诉你：当你没用时，人性最自私",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked/"
         }
       ],
       "updated": "2026-08-29",
@@ -12007,6 +12060,36 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/immunesystemastunablesensornetwork/"
     },
+    "ImperialDeathConcealment": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·秦纪》127-3｜海外回归一批竹简 揭开胡亥立帝之谜！ [ljA0PaNKCx4uGTYLbXXqKwuAvdnW].md",
+          "key": "zizhi-tongjian-qinji-127-3-haiwai-huigui-yipi-zhujian-jiekai-huhai-lidi-zhi-mi-lja0pankcx4ugtylbxxqkwuavdnw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》127-3｜海外回归一批竹简 揭开胡亥立帝之谜！",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-127-3-haiwai-huigui-yipi-zhujian-jiekai-huhai-lidi-zhi-mi-lja0pankcx4ugtylbxxqkwuavdnw/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》127-2｜李斯为啥不帮英明的扶苏 [lq-VNy5DUWWzFUbPeiJR21oAZXbg].md",
+          "key": "zizhi-tongjian-qinji-127-2-lisi-weisha-bu-bang-yingming-de-fusu-lq-vny5duwwzfubpeijr21oazxbg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》127-2｜李斯为啥不帮英明的扶苏",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-127-2-lisi-weisha-bu-bang-yingming-de-fusu-lq-vny5duwwzfubpeijr21oazxbg/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》825丨历史告诉你：当你没用时，人性最自私 [luV-8z9AXuejnFhLKgsUxEE3uKED].md",
+          "key": "zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》825丨历史告诉你：当你没用时，人性最自私",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/imperialdeathconcealment/"
+    },
     "ImperialMarriageInspection": {
       "episode_count": 1,
       "show_count": 1,
@@ -14315,9 +14398,9 @@
       "url": "/wiki/entities/ligaorunanlatehan/"
     },
     "LiGuLateHan": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》929丨对事不对人，你信了吗？ [lgaXJ0jzoPddmt3C5hiBNExqLhB3].md",
@@ -14374,6 +14457,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》826丨乱世的罪与恶，背后是贪婪的人性",
           "url": "/wiki/sources/zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》825丨历史告诉你：当你没用时，人性最自私 [luV-8z9AXuejnFhLKgsUxEE3uKED].md",
+          "key": "zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》825丨历史告诉你：当你没用时，人性最自私",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked/"
         }
       ],
       "updated": "2026-08-29",
@@ -14631,9 +14721,9 @@
       "url": "/wiki/entities/liangbuyilatehan/"
     },
     "LiangJiLateHan": {
-      "episode_count": 17,
+      "episode_count": 18,
       "show_count": 1,
-      "source_note_count": 17,
+      "source_note_count": 18,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿” [lvSA2pby8IyfEvfooBoBpIK52MiJ].md",
@@ -14753,6 +14843,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》826丨乱世的罪与恶，背后是贪婪的人性",
           "url": "/wiki/sources/zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》825丨历史告诉你：当你没用时，人性最自私 [luV-8z9AXuejnFhLKgsUxEE3uKED].md",
+          "key": "zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》825丨历史告诉你：当你没用时，人性最自私",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked/"
         }
       ],
       "updated": "2026-08-29",
@@ -15192,9 +15289,9 @@
       "url": "/wiki/entities/liupirunanlatehan/"
     },
     "LiuSuanLateHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》929丨对事不对人，你信了吗？ [lgaXJ0jzoPddmt3C5hiBNExqLhB3].md",
@@ -15223,6 +15320,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》827丨一句话引发的帝王之死",
           "url": "/wiki/sources/zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》825丨历史告诉你：当你没用时，人性最自私 [luV-8z9AXuejnFhLKgsUxEE3uKED].md",
+          "key": "zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》825丨历史告诉你：当你没用时，人性最自私",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked/"
         }
       ],
       "updated": "2026-08-29",
@@ -28320,9 +28424,9 @@
       "url": "/wiki/entities/zhangfanwanlatehan/"
     },
     "ZhangGangLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》822丨豺狼当道，他将矛头直指皇帝岳父？ [lqHpMAYVd3p07BYR_zOIv-jyhdv_].md",
@@ -28330,6 +28434,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》822丨豺狼当道，他将矛头直指皇帝岳父？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》825丨历史告诉你：当你没用时，人性最自私 [luV-8z9AXuejnFhLKgsUxEE3uKED].md",
+          "key": "zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》825丨历史告诉你：当你没用时，人性最自私",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked/"
         }
       ],
       "updated": "2026-08-29",
@@ -28618,6 +28729,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/zhangxiu/"
+    },
+    "ZhangYingGuanglingLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》825丨历史告诉你：当你没用时，人性最自私 [luV-8z9AXuejnFhLKgsUxEE3uKED].md",
+          "key": "zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》825丨历史告诉你：当你没用时，人性最自私",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/zhangyingguanglinglatehan/"
     },
     "ZhangZhaoLateHan": {
       "episode_count": 2,

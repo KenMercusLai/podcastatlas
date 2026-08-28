@@ -4631,6 +4631,10 @@
     "title": "Anonymous Remonstrance Suppression / 匿名进谏压制",
     "url": "/wiki/concepts/anonymousremonstrancesuppression/"
   },
+  "AnonymousSlanderRetaliation": {
+    "title": "Anonymous Slander Retaliation / 匿名诬告式报复",
+    "url": "/wiki/concepts/anonymousslanderretaliation/"
+  },
   "AnonymousVisitorIdentification": {
     "title": "Anonymous Visitor Identification",
     "url": "/wiki/concepts/anonymousvisitoridentification/"
@@ -16034,6 +16038,10 @@
   "EmpathyCircleExpansion": {
     "title": "Empathy Circle Expansion",
     "url": "/wiki/concepts/empathycircleexpansion/"
+  },
+  "EmperorChongOfHan": {
+    "title": "汉冲帝 / Emperor Chong of Han",
+    "url": "/wiki/entities/emperorchongofhan/"
   },
   "EmperorHuanOfHan": {
     "title": "汉桓帝 / Emperor Huan of Han",
@@ -56279,6 +56287,10 @@
     "title": "Zhang Yiming",
     "url": "/wiki/entities/zhangyiming/"
   },
+  "ZhangYingGuanglingLateHan": {
+    "title": "张婴 / Zhang Ying (Guangling, late Han)",
+    "url": "/wiki/entities/zhangyingguanglinglatehan/"
+  },
   "ZhangYingLateHan": {
     "title": "张英 / Zhang Ying (late Han)",
     "url": "/wiki/entities/zhangyinglatehan/"
@@ -61282,6 +61294,10 @@
   "zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv": {
     "title": "《资治通鉴·汉纪》822丨豺狼当道，他将矛头直指皇帝岳父？",
     "url": "/wiki/sources/zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv/"
+  },
+  "zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked": {
+    "title": "《资治通鉴·汉纪》825丨历史告诉你：当你没用时，人性最自私",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked/"
   },
   "zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv": {
     "title": "《资治通鉴·汉纪》826丨乱世的罪与恶，背后是贪婪的人性",

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》825丨历史告诉你：当你没用时，人性最自私](sources/zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked.md) — 芮淇讲透资治通鉴 episode on the 145 CE Emperor Chong succession crisis, Li Gu's rejection of concealed death, Liu Suan's rejected candidacy, Liu Zuan's child accession as Emperor Zhi, restrained burial, court cleanup, anonymous slander, and Zhang Ying's renewed Guangling revolt.
 - [《资治通鉴·汉纪》826丨乱世的罪与恶，背后是贪婪的人性](sources/zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv.md) — 芮淇讲透资治通鉴 episode on 145 CE Western Qiang military-finance corruption, Liang Bing's trust-based surrender policy, Teng Fu and Feng Gun's Xu-Yang anti-bandit campaign, Zhong Hao's gold-snake bribery report, and Liang Ji's retaliation channels.
 - [《资治通鉴·汉纪》822丨豺狼当道，他将矛头直指皇帝岳父？](sources/zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv.md) — 芮淇讲透资治通鉴 episode on 141-142 CE Li Gu's Jingzhou and Taishan pacification, Nanyang corruption impeachment under Liang Ji pressure, Zhang Gang's buried-wheel accusation against Liang Ji and Liang Buyi, and Emperor Shun's constrained review.
 - [The Trillion-Dollar Industries AI Is Disrupting: Voice, Law & the End of the Billable Hour](sources/all-in-with-chamath-jason-sacks-friedberg-the-trillion-dollar-industries-ai-is-disrupting-voice-law-the-end-of-the-billable-hour-42064555.md) - All-In episode with ElevenLabs and Legora on enterprise voice agents, voice identity and licensing, legal AI, legal data completeness, junior-lawyer agent orchestration, and billable-hour pressure.
@@ -1657,6 +1658,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [汉冲帝 / Emperor Chong of Han](entities/EmperorChongOfHan.md) — Child Eastern Han emperor whose 145 CE death opens the Liang Na, Li Gu, Liu Suan, and Liu Zuan succession crisis.
+- [张婴 / Zhang Ying (Guangling, late Han)](entities/ZhangYingGuanglingLateHan.md) — Guangling rebel who rises again after Zhang Gang's death, showing how pacification can depend on credible local authority.
 - [梁并 / Liang Bing (late Han)](entities/LiangBingLateHan.md) — Left Fengyi whose trust-based surrender policy pacifies the Western Qiang aftermath after corrupt campaign finance hollows out military force.
 - [赵序 / Zhao Xu (late Han)](entities/ZhaoXuLateHan.md) — Zhonglang jiang assigned to assist Feng Gun in the 145 CE Xu-Yang campaign and later executed for fearfulness and inflated kill reporting.
 - [刘君世 / Liu Junshi (late Han)](entities/LiuJunshiLateHan.md) — Yongchang administrator whose gold patterned snake gift to Liang Ji becomes the corruption report that angers Liang against Zhong Hao.
@@ -9855,6 +9858,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Anonymous Slander Retaliation / 匿名诬告式报复](concepts/AnonymousSlanderRetaliation.md) — Pattern where injured interests use anonymous accusation to recode cleanup or correction as private factional ambition.
 - [军费贪腐与战力空转 / Military Finance Corruption](concepts/MilitaryFinanceCorruption.md) — Pattern where campaign funds, rations, pay, and bribes become private extraction, leaving soldiers destroyed while coercive capacity hollows out.
 - [赏募动员式平乱 / Bounty-Mobilized Pacification](concepts/BountyMobilizedPacification.md) — Pattern where credible commanders use rewards, titles, and local participation to convert anti-bandit service into visible merit.
 - [Voice Agent Infrastructure](concepts/VoiceAgentInfrastructure.md) - Production stack for reliable, integrated, interruptible AI voice agents with model orchestration, identity, moderation, and escalation controls.
