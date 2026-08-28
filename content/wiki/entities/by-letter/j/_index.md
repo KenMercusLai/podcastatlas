@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 8087
+wiki_total_pages: 8090
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -932,6 +932,9 @@ wiki_pages:
   - key: "JunWangHou"
     title: "君王后 / Jun Wang Hou"
     url: "/wiki/entities/junwanghou/"
+  - key: "JiangGongLateHan"
+    title: "姜公 / Jiang Gong (late Han)"
+    url: "/wiki/entities/jianggonglatehan/"
   - key: "JiangTaigong"
     title: "姜太公 / 姜子牙 / Jiang Taigong"
     url: "/wiki/entities/jiangtaigong/"

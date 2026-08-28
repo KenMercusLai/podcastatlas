@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "320242c9eea04a979200c9a9385b1f2f6e7fe8e6f79105288342e2949eada089",
       "017b81fbb9c9fa7892ac971f5956bc964404afdac15893b5b3d32932ff0e786d",
       "ae1d37ee8809736dac7fd7e1a14c070e392abacaee133c141aea0f1d3f8f7802",
       "b43ba7cb4ae5ef2982410a18110a3db1dabe28f25af98cd941fa6bd84437bc88",
@@ -325,11 +326,37 @@
       "ffc63951f0c9ebb1bdb0d92982d5f65f57bbe4a7f7a359f38dcd33423bb288c2",
       "41cadfb91ef6894bc7d9cd5c4e55012480b0225b71a6a027d18e9565e8357c0c"
     ],
-    "paragraph_count": 323
+    "paragraph_count": 324
   },
-  "overview_commit": "97d1eb65418b6ad334948ee5625df881244a61e1",
-  "overview_digest": "7873a23a11fda46a31d4a49e61b8f63134e7aee7bff60ba20ae5d1c38474307a",
+  "overview_commit": "649b6277e7877c08e550ff1efa89b963191e38f3",
+  "overview_digest": "dbd25de0c8472604a7fdf3fa65cef6c91486306216d463cb931baf39ca43740b",
   "paragraphs": [
+    {
+      "id": "320242c9eea04a979200c9a9385b1f2f6e7fe8e6f79105288342e2949eada089",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-849-sushi-ziyou-du-de-fanpangzhuan-jiujing-shuo-de-shui-ltquglqzvezeyp0mqxwgwnlp12lf|《资治通鉴·汉纪》849丨苏轼自幼读的《范滂传》，究竟说的谁？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 159 CE Huan-era moral-reputation field immediately before [[zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7|Hanji 850]]. It adds [[JiangGongLateHan|姜公]], [[WeiZhuLateHan|韦著]], [[LiTanLateHan|李昙]], and [[PrincipledOfficeRefusal|原则性拒仕]], while extending [[FanPangLateHan|范滂]], [[HuangQiongLateHan|黄琼]], [[XuZhiLateHan|徐稚]], [[YuanHongLateHan|袁闳]], [[ChenFanLateHan|陈蕃]], [[EmperorHuanOfHan|汉桓帝]], [[MenciusText|《孟子》]], and [[XunziText|《荀子》]]. Its core synthesis is that late-Han moral authority already splits into two disciplined paths before Party Prohibition: Fan Pang accepts office and treats corrupt-official impeachment as loyal cleanup, while Chen Fan's five recommended recluses refuse Huan's polite gifts because court service has lost credibility. No settled contradiction is recorded; the Su Shi title hook is not developed in the episode body and remains title-scoped.",
+      "topic_scores": {
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "ChenFanLateHan",
+        "EmperorHuanOfHan",
+        "FanPangLateHan",
+        "HuangQiongLateHan",
+        "JiangGongLateHan",
+        "LiTanLateHan",
+        "MenciusText",
+        "PrincipledOfficeRefusal",
+        "RuiqiJiangtouZizhiTongjian",
+        "WeiZhuLateHan",
+        "XuZhiLateHan",
+        "XunziText",
+        "YuanHongLateHan",
+        "zizhi-tongjian-hanji-849-sushi-ziyou-du-de-fanpangzhuan-jiujing-shuo-de-shui-ltquglqzvezeyp0mqxwgwnlp12lf",
+        "zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7"
+      ]
+    },
     {
       "id": "017b81fbb9c9fa7892ac971f5956bc964404afdac15893b5b3d32932ff0e786d",
       "primary_topic": "work-education-and-society",

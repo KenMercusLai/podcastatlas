@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1969
+topic_total_pages: 1970
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -2176,6 +2176,9 @@ topic_concepts:
   - key: "PrincipledDisobedience"
     title: "Principled Disobedience / 原则性不服从"
     url: "/wiki/concepts/principleddisobedience/"
+  - key: "PrincipledOfficeRefusal"
+    title: "Principled Office Refusal / 原则性拒仕"
+    url: "/wiki/concepts/principledofficerefusal/"
   - key: "PrisonRitualLegitimacyRefusal"
     title: "Prison Ritual Legitimacy Refusal / 冤狱仪式合法性拒绝"
     url: "/wiki/concepts/prisonrituallegitimacyrefusal/"

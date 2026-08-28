@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 8087
+wiki_total_pages: 8090
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -1160,6 +1160,9 @@ wiki_pages:
   - key: "LiHaoLateHan"
     title: "李昊 / Li Hao (late Han)"
     url: "/wiki/entities/lihaolatehan/"
+  - key: "LiTanLateHan"
+    title: "李昙 / Li Tan (late Han)"
+    url: "/wiki/entities/litanlatehan/"
   - key: "LiGaoRunanLateHan"
     title: "李暠 / Li Gao (Runan administrator)"
     url: "/wiki/entities/ligaorunanlatehan/"

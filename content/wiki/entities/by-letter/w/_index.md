@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 8087
+wiki_total_pages: 8090
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -1046,6 +1046,9 @@ wiki_pages:
   - key: "WenrenXiLateHan"
     title: "闻人袭 / Wenren Xi (late Han)"
     url: "/wiki/entities/wenrenxilatehan/"
+  - key: "WeiZhuLateHan"
+    title: "韦著 / Wei Zhu (late Han)"
+    url: "/wiki/entities/weizhulatehan/"
   - key: "WeiZiLateHan"
     title: "魏兹 / Wei Zi (late Han)"
     url: "/wiki/entities/weizilatehan/"

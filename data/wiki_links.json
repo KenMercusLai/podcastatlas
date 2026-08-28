@@ -25675,6 +25675,10 @@
     "title": "Jiang Chun / 江春",
     "url": "/wiki/entities/jiangchun/"
   },
+  "JiangGongLateHan": {
+    "title": "姜公 / Jiang Gong (late Han)",
+    "url": "/wiki/entities/jianggonglatehan/"
+  },
   "JiangHuCongTan": {
     "title": "《江湖丛谈》 / Jianghu Congtan",
     "url": "/wiki/entities/jianghucongtan/"
@@ -28718,6 +28722,10 @@
   "LiTan": {
     "title": "李谈 / Li Tan",
     "url": "/wiki/entities/litan/"
+  },
+  "LiTanLateHan": {
+    "title": "李昙 / Li Tan (late Han)",
+    "url": "/wiki/entities/litanlatehan/"
   },
   "LiTiantian": {
     "title": "李天天",
@@ -38754,6 +38762,10 @@
   "PrincipledDisobedience": {
     "title": "Principled Disobedience / 原则性不服从",
     "url": "/wiki/concepts/principleddisobedience/"
+  },
+  "PrincipledOfficeRefusal": {
+    "title": "Principled Office Refusal / 原则性拒仕",
+    "url": "/wiki/concepts/principledofficerefusal/"
   },
   "PrinciplesOfPhilosophy": {
     "title": "Principles of Philosophy / 《哲学原理》",
@@ -51915,6 +51927,10 @@
     "title": "魏种 / Wei Zhong (Late Han)",
     "url": "/wiki/entities/weizhonglatehan/"
   },
+  "WeiZhuLateHan": {
+    "title": "韦著 / Wei Zhu (late Han)",
+    "url": "/wiki/entities/weizhulatehan/"
+  },
   "WeiZiLateHan": {
     "title": "魏兹 / Wei Zi (late Han)",
     "url": "/wiki/entities/weizilatehan/"
@@ -60582,6 +60598,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-849-sushi-ziyou-du-de-fanpangzhuan-jiujing-shuo-de-shui-ltquglqzvezeyp0mqxwgwnlp12lf": {
+    "title": "《资治通鉴·汉纪》849丨苏轼自幼读的《范滂传》，究竟说的谁？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-849-sushi-ziyou-du-de-fanpangzhuan-jiujing-shuo-de-shui-ltquglqzvezeyp0mqxwgwnlp12lf/"
   },
   "zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7": {
     "title": "《资治通鉴·汉纪》850丨桓帝为何执意杀忠臣？",

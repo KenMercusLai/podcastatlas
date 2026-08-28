@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5810
+wiki_total_pages: 5811
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1037,6 +1037,9 @@ wiki_pages:
   - key: "PrincipledDisobedience"
     title: "Principled Disobedience / 原则性不服从"
     url: "/wiki/concepts/principleddisobedience/"
+  - key: "PrincipledOfficeRefusal"
+    title: "Principled Office Refusal / 原则性拒仕"
+    url: "/wiki/concepts/principledofficerefusal/"
   - key: "PrintingSignatureConstraint"
     title: "Printing Signature Constraint"
     url: "/wiki/concepts/printingsignatureconstraint/"

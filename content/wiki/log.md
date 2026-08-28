@@ -12685,6 +12685,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-28] ingest | 《资治通鉴·汉纪》849丨苏轼自幼读的《范滂传》，究竟说的谁？
+
+Added source page for a 芮淇讲透资治通鉴 episode on Fan Pang's 159 CE Qingzhao-envoy anti-corruption profile, Huang Qiong's recruitment, Chen Fan's five-recluse recommendation, and Xu Zhi, Jiang Gong, Yuan Hong, Wei Zhu, and Li Tan's refusal to serve under a distrusted court. Created Jiang Gong, Wei Zhu, Li Tan (late Han), and Principled Office Refusal; updated Fan Pang, Huang Qiong, Xu Zhi, Yuan Hong, overview, and index. No settled contradiction found; the Su Shi title hook is not developed in the supplied episode body, and Li Tan is disambiguated from Warring States 李谈/李同.
+
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》850丨桓帝为何执意杀忠臣？
 
 Added source page for a 159 CE Huan-era backfill on Wei Huan's refusal to serve, Emperor Huan's post-Liang rewards to Deng/eunuch-favorite networks, Li Yun's open memorial, Du Zhong's shared-fate solidarity, Chen Fan's failed clemency plea, and Guan Ba's failed mitigation attempt. Created Wei Huan, Li Yun, Du Zhong, and Direct Remonstrance Criminalization; updated Emperor Huan, Chen Fan, Five Marquises of Emperor Huan's reign, Shan Chao, Hou Lan, Guan Ba, overview, and index. No settled contradiction found; 侯兰 is normalized to Hou Lan/侯览, while Yang Ding, Mu Mao, Shangguan Zi, Liu Pu, Deng Xiang, Deng Kang, Deng Bing, and exact food-revenue figures remain source-scoped.
@@ -12912,6 +12916,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-28] ingest | Big shot: does a cancer vaccine work?
 
 Added source page for The Intelligence episode on Steve Young's personalized mRNA melanoma-vaccine trial, Canada's oil-sands boom, Trans Mountain capacity, and Dolly Parton's cultural legacy. Created Steve Young (Melanoma Trial Patient), Sarah Larniuk, Cenovus Energy, Canadian Natural Resources Limited, Trans Mountain Expansion, Major Projects Office (Canada), Dolly Parton, Canadian Oil Sands Boom, Cross-Coalition Cultural Icon, and Artist Rights Control pages; updated individualized cancer vaccine, cancer vaccine platform, cancer immune recognition, Moderna, Merck, Canada, Alberta, Mark Carney, American Cultural Exports, overview, and index. No settled contradiction found; the episode qualifies earlier cancer-vaccine optimism by keeping survival, side effects, dropout, cost, access, and tumor-type transferability unresolved.
+
+## [2026-08-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-28] lint | Wiki health check
 

@@ -6492,9 +6492,9 @@
       "url": "/wiki/entities/fubu/"
     },
     "FanPangLateHan": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》893丨荣誉榜如何变成死亡名单？ [lmxzQoaUf79-swWNK_0CEVAv0GQ_].md",
@@ -6537,6 +6537,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》871丨惩恶扬善，为何反被诬陷入狱？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》849丨苏轼自幼读的《范滂传》，究竟说的谁？ [ltqUgLqZVEZEyp0mQxWgWNLp12lF].md",
+          "key": "zizhi-tongjian-hanji-849-sushi-ziyou-du-de-fanpangzhuan-jiujing-shuo-de-shui-ltquglqzvezeyp0mqxwgwnlp12lf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》849丨苏轼自幼读的《范滂传》，究竟说的谁？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-849-sushi-ziyou-du-de-fanpangzhuan-jiujing-shuo-de-shui-ltquglqzvezeyp0mqxwgwnlp12lf/"
         }
       ],
       "updated": "2026-08-28",
@@ -8972,9 +8979,9 @@
       "url": "/wiki/entities/huangfudonghailatehan/"
     },
     "HuangQiongLateHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》860丨惊为天人！东汉郭泰有多神？ [ltiHXtkDP08EemcVHhxNPUBYKRUV].md",
@@ -8996,6 +9003,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》851丨汉桓帝为何注定遗臭万年？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》849丨苏轼自幼读的《范滂传》，究竟说的谁？ [ltqUgLqZVEZEyp0mQxWgWNLp12lF].md",
+          "key": "zizhi-tongjian-hanji-849-sushi-ziyou-du-de-fanpangzhuan-jiujing-shuo-de-shui-ltquglqzvezeyp0mqxwgwnlp12lf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》849丨苏轼自幼读的《范滂传》，究竟说的谁？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-849-sushi-ziyou-du-de-fanpangzhuan-jiujing-shuo-de-shui-ltquglqzvezeyp0mqxwgwnlp12lf/"
         }
       ],
       "updated": "2026-08-28",
@@ -10387,6 +10401,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/jiaxu/"
     },
+    "JiangGongLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》849丨苏轼自幼读的《范滂传》，究竟说的谁？ [ltqUgLqZVEZEyp0mQxWgWNLp12lF].md",
+          "key": "zizhi-tongjian-hanji-849-sushi-ziyou-du-de-fanpangzhuan-jiujing-shuo-de-shui-ltquglqzvezeyp0mqxwgwnlp12lf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》849丨苏轼自幼读的《范滂传》，究竟说的谁？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-849-sushi-ziyou-du-de-fanpangzhuan-jiujing-shuo-de-shui-ltquglqzvezeyp0mqxwgwnlp12lf/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/jianggonglatehan/"
+    },
     "JiangQiLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -11420,6 +11450,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/lisunancommanderylatehan/"
+    },
+    "LiTanLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》849丨苏轼自幼读的《范滂传》，究竟说的谁？ [ltqUgLqZVEZEyp0mQxWgWNLp12lF].md",
+          "key": "zizhi-tongjian-hanji-849-sushi-ziyou-du-de-fanpangzhuan-jiujing-shuo-de-shui-ltquglqzvezeyp0mqxwgwnlp12lf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》849丨苏轼自幼读的《范滂传》，究竟说的谁？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-849-sushi-ziyou-du-de-fanpangzhuan-jiujing-shuo-de-shui-ltquglqzvezeyp0mqxwgwnlp12lf/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/litanlatehan/"
     },
     "LiTongLateHan": {
       "episode_count": 3,
@@ -15911,6 +15957,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/princessstephanieofbelgium/"
+    },
+    "PrincipledOfficeRefusal": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》849丨苏轼自幼读的《范滂传》，究竟说的谁？ [ltqUgLqZVEZEyp0mQxWgWNLp12lF].md",
+          "key": "zizhi-tongjian-hanji-849-sushi-ziyou-du-de-fanpangzhuan-jiujing-shuo-de-shui-ltquglqzvezeyp0mqxwgwnlp12lf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》849丨苏轼自幼读的《范滂传》，究竟说的谁？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-849-sushi-ziyou-du-de-fanpangzhuan-jiujing-shuo-de-shui-ltquglqzvezeyp0mqxwgwnlp12lf/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/principledofficerefusal/"
     },
     "PrisonRitualLegitimacyRefusal": {
       "episode_count": 1,
@@ -20590,6 +20652,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/weizhonglatehan/"
     },
+    "WeiZhuLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》849丨苏轼自幼读的《范滂传》，究竟说的谁？ [ltqUgLqZVEZEyp0mQxWgWNLp12lF].md",
+          "key": "zizhi-tongjian-hanji-849-sushi-ziyou-du-de-fanpangzhuan-jiujing-shuo-de-shui-ltquglqzvezeyp0mqxwgwnlp12lf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》849丨苏轼自幼读的《范滂传》，究竟说的谁？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-849-sushi-ziyou-du-de-fanpangzhuan-jiujing-shuo-de-shui-ltquglqzvezeyp0mqxwgwnlp12lf/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/weizhulatehan/"
+    },
     "WenChouLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -21457,9 +21535,9 @@
       "url": "/wiki/entities/xuzhaolatehan/"
     },
     "XuZhiLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》861丨什么样的人堪称老师楷模？ [lu0KadsC9aEtZiP9CEdyV01WndrH].md",
@@ -21474,6 +21552,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》860丨惊为天人！东汉郭泰有多神？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》849丨苏轼自幼读的《范滂传》，究竟说的谁？ [ltqUgLqZVEZEyp0mQxWgWNLp12lF].md",
+          "key": "zizhi-tongjian-hanji-849-sushi-ziyou-du-de-fanpangzhuan-jiujing-shuo-de-shui-ltquglqzvezeyp0mqxwgwnlp12lf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》849丨苏轼自幼读的《范滂传》，究竟说的谁？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-849-sushi-ziyou-du-de-fanpangzhuan-jiujing-shuo-de-shui-ltquglqzvezeyp0mqxwgwnlp12lf/"
         }
       ],
       "updated": "2026-08-28",
@@ -22329,9 +22414,9 @@
       "url": "/wiki/entities/yuanhongchenliulatehan/"
     },
     "YuanHongLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》896丨假如乱世降临，你该如何自保？ [lsUvt_KSP_gfGGC9RIqQOVJSWkG_].md",
@@ -22339,9 +22424,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》896丨假如乱世降临，你该如何自保？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-896-jiaru-luanshi-jianglin-ni-gai-ruhe-zibao-lsuvt-ksp-gfggc9riqqovjswkg/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》849丨苏轼自幼读的《范滂传》，究竟说的谁？ [ltqUgLqZVEZEyp0mQxWgWNLp12lF].md",
+          "key": "zizhi-tongjian-hanji-849-sushi-ziyou-du-de-fanpangzhuan-jiujing-shuo-de-shui-ltquglqzvezeyp0mqxwgwnlp12lf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》849丨苏轼自幼读的《范滂传》，究竟说的谁？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-849-sushi-ziyou-du-de-fanpangzhuan-jiujing-shuo-de-shui-ltquglqzvezeyp0mqxwgwnlp12lf/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-08-28",
       "url": "/wiki/entities/yuanhonglatehan/"
     },
     "YuanYinLateHan": {
