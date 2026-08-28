@@ -12681,6 +12681,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-28] ingest | 《资治通鉴·汉纪》1048丨许攸叛袁献计：官渡战局的惊天变数
+
+Added source page for the missing pre-Wuchao Guandu hinge: Cao Cao's supply crisis, Xun Yu's hold-fast counsel, Xun You's Han Meng convoy strike, Ju Shou's ignored protection warning, Xu You's rejected Xudu raid proposal, and Shen Pei's family-arrest trigger for Xu You's defection. Created Han Meng, Xu Huang (Cao general), Shi Huan, Jiang Qi, Crisis Persistence Counsel, and Rejected Counsel Defection Cascade; updated Guandu Campaign, Wuchao Raid, Xu You, Ju Shou, Shen Pei, Chunyu Qiong, Xun You, Supply Depot Decisive Strike, overview, and index. No settled contradiction found; 徐晃 is disambiguated from the existing 徐璜 eunuch page, and Hanji 1048 stops at the Wuchao night-march launch that Hanji 1049 resolves.
+
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》1046丨他凭什么被称作“三国隐藏最深的牛人”？
 
 Added source page for a Jian'an 5 / 200 CE late-Han governance episode on Zhao Yan, Li Tong, Yang'an cotton-silk collection, Xun Yu's escalation channel, Cao Cao returning the levy, and He Kui's light-tax flexible-law advice for newly attached remote regions. Created Yang'an, Changguang Commandery, Taxation-Stability Tradeoff, Wartime Textile Fiscal Resource, and Newly Attached Region Leniency; updated Zhao Yan, Li Tong, He Kui, overview, and index. No settled contradiction found; the source title is broad while the internal content centers Zhao Yan, and the local "Xu Gong" reference is not merged with Sun Ce's Xu Gong page.
@@ -12884,6 +12888,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-28] ingest | Big shot: does a cancer vaccine work?
 
 Added source page for The Intelligence episode on Steve Young's personalized mRNA melanoma-vaccine trial, Canada's oil-sands boom, Trans Mountain capacity, and Dolly Parton's cultural legacy. Created Steve Young (Melanoma Trial Patient), Sarah Larniuk, Cenovus Energy, Canadian Natural Resources Limited, Trans Mountain Expansion, Major Projects Office (Canada), Dolly Parton, Canadian Oil Sands Boom, Cross-Coalition Cultural Icon, and Artist Rights Control pages; updated individualized cancer vaccine, cancer vaccine platform, cancer immune recognition, Moderna, Merck, Canada, Alberta, Mark Carney, American Cultural Exports, overview, and index. No settled contradiction found; the episode qualifies earlier cancer-vaccine optimism by keeping survival, side effects, dropout, cost, access, and tumor-type transferability unresolved.
+
+## [2026-08-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-28] lint | Wiki health check
 

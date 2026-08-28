@@ -9,6 +9,7 @@ sources:
   - zizhi-tongjian-hanji-1022-luanshi-sanguo-sanwei-mingshi-de-shengcun-jueze-lgmbekomxwiu7hjnpxkxggyhvwaf
   - zizhi-tongjian-hanji-1044-guanyu-qianli-zou-danqi-xu-ganxie-caocao-busha-enqing-lpptlnc-e4zu4lcjr49bquxdw0pm
   - zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m
+  - zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju
 last_updated: 2026-08-28
 knowledge_schema: synthesis-v1
 ---
@@ -23,13 +24,15 @@ The current profile begins after [[CaoCao|曹操]] settles the court at [[Xudu|�
 
 The campaign cases make his timing judgment concrete. Hanji 1022 has him advise Cao Cao not to rush [[ZhangXiu|张绣]] because Zhang Xiu depends on [[LiuBiao|刘表]]'s grain and could perhaps be recruited or weakened by waiting; Cao ignores him. Hanji 1025 has Xun You and Guo Jia argue the opposite tempo at Xiapi: press [[LyuBu|吕布]] before morale and [[ChenGongLateHan|陈宫]]'s planning recover. Hanji 1044 then gives a pre-Guandu field case: at [[YanjinBattleLateHan|延津之战]], Xun You reads exposed baggage as deliberate bait and tells Cao's camp not to abandon the lure too soon.
 
+Hanji 1048 adds a logistics-target case inside the [[GuanduCampaign|官渡 Campaign]]. With Cao's own supplies nearly exhausted, Xun You judges [[HanMengLateHan|韩猛]] brave but careless and recommends striking Yuan Shao's convoy movement; Cao sends [[XuHuangCaoGeneral|徐晃]] and [[ShiHuanLateHan|史涣]], who defeat Han Meng and burn the baggage.
+
 Hanji 1049 extends Xun You from timing advice into surrender interpretation. After the [[WuchaoRaidLateHan|Wuchao Raid]], [[ZhangHeLateHan|Zhang He]] and [[GaoLanLateHan|Gao Lan]] come over from Yuan Shao's camp, and [[CaoHong|Cao Hong]] initially doubts them. Xun You argues that Zhang He is credible because his correct Wuchao advice was rejected and [[GuoTu|Guo Tu]]'s slander made continued service dangerous.
 
 ## Key Characteristics
 - Keeps intelligence controlled and less publicly exposed than more dramatic advisers.
 - Enters Cao Cao's adviser field through Xun Yu's recommendation after the Xudu court position becomes legible.
 - Reads timing as conditional: delay against Zhang Xiu when enemy alliance incentives favor waiting, but press Lü Bu when enemy morale and planning are fragile.
-- Recognizes baiting windows where apparent vulnerability can be held until the enemy loses formation.
+- Recognizes exploitable timing and target vulnerabilities, from Yanjin bait to Han Meng's careless convoy command.
 - Screens enemy surrender by reading whether the defection has a credible internal-camp cause.
 - Protects advice through secrecy, discipline, and low-profile conduct rather than status display.
 - Complements Guo Jia by supplying caution and tempo discipline alongside bolder strategic judgment.
@@ -40,12 +43,14 @@ Hanji 1049 extends Xun You from timing advice into surrender interpretation. Aft
 - Delay advice: [[zizhi-tongjian-hanji-1022-luanshi-sanguo-sanwei-mingshi-de-shengcun-jueze-lgmbekomxwiu7hjnpxkxggyhvwaf|Hanji 1022]] has Xun You warn that attacking Zhang Xiu immediately may strengthen Zhang's reliance on Liu Biao.
 - Pressing advice: [[zizhi-tongjian-hanji-1025-bai-yu-caocao-lvbu-cuo-zai-jinjiuling-ljjt1t2mk77si6re-wew-hpl8qz|Hanji 1025]] has Xun You and Guo Jia advise continued pressure at Xiapi because Lü Bu's morale is weakening and Chen Gong has not settled a response.
 - Bait timing: [[zizhi-tongjian-hanji-1044-guanyu-qianli-zou-danqi-xu-ganxie-caocao-busha-enqing-lpptlnc-e4zu4lcjr49bquxdw0pm|Hanji 1044]] has Xun You identify Cao Cao's exposed baggage at Yanjin as a lure and prevent premature retreat before the counterattack.
+- Supply-target selection: [[zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju|Hanji 1048]] has Xun You judge Han Meng brave but careless and recommend attacking Yuan Shao's convoy, after which Cao sends Xu Huang and Shi Huan to burn the baggage.
 - Surrender screening: [[zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m|Hanji 1049]] has Xun You tell Cao Hong that Zhang He's surrender is credible because Yuan Shao rejected his Wuchao advice and Guo Tu's slander left him exposed.
 
 ## Qualifications
 The transcript forms "徐悠" and "巡邮" are normalized cautiously to 荀攸 / Xun You because the surrounding adviser and campaign sequences match him. Hanji 1022 records advice that Cao Cao rejects, so it shows Xun You's judgment entering the camp's debate rather than controlling the final decision.
 
 ## What Changed
+- Added Hanji 1048's convoy-strike case, where Xun You identifies Han Meng as a careless logistics target before Wuchao.
 - Added Hanji 1049's surrender-screening case after the Wuchao Raid.
 - Extended Xun You from timing and bait recognition into interpreting whether enemy commanders can be safely received.
 - Connected Xun You to Zhang He and Gao Lan's Guandu defection.
@@ -59,6 +64,9 @@ The transcript forms "徐悠" and "巡邮" are normalized cautiously to 荀攸 /
 - [[LyuBu|吕布]] - Xiapi enemy whose weakened morale supports Xun You's press-the-siege advice.
 - [[ChenGongLateHan|陈宫]] - Lü Bu adviser whose unsettled response timing matters in Hanji 1025.
 - [[YanjinBattleLateHan|延津之战]] - field case where Xun You recognizes and preserves a baiting opportunity.
+- [[HanMengLateHan|韩猛]] - Yuan convoy commander whose careless profile gives Xun You a logistics target in Hanji 1048.
+- [[XuHuangCaoGeneral|徐晃]] - Cao-side general sent to execute Xun You's convoy-strike recommendation.
+- [[ShiHuanLateHan|史涣]] - Cao-side officer paired with Xu Huang in the Han Meng convoy strike.
 - [[WuchaoRaidLateHan|乌巢夜袭]] - campaign crisis after which Xun You evaluates the credibility of Zhang He's surrender.
 - [[ZhangHeLateHan|张郃]] and [[GaoLanLateHan|高览]] - surrenderers whose acceptance is supported by Xun You's reading of Yuan-camp dynamics.
 - [[CaoHong|曹洪]] - Cao-side commander whose hesitation Xun You answers in Hanji 1049.

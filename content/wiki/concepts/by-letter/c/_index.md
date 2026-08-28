@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 5803
+wiki_total_pages: 5805
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1559,6 +1559,9 @@ wiki_pages:
   - key: "CrisisOpportunityConversion"
     title: "Crisis Opportunity Conversion / 危机机会转化"
     url: "/wiki/concepts/crisisopportunityconversion/"
+  - key: "CrisisPersistenceCounsel"
+    title: "Crisis Persistence Counsel / 危局坚守进言"
+    url: "/wiki/concepts/crisispersistencecounsel/"
   - key: "CrisisStakeholderLeadership"
     title: "Crisis Stakeholder Leadership"
     url: "/wiki/concepts/crisisstakeholderleadership/"

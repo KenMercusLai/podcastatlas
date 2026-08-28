@@ -12167,6 +12167,10 @@
     "title": "Crisis Opportunity Conversion / 危机机会转化",
     "url": "/wiki/concepts/crisisopportunityconversion/"
   },
+  "CrisisPersistenceCounsel": {
+    "title": "Crisis Persistence Counsel / 危局坚守进言",
+    "url": "/wiki/concepts/crisispersistencecounsel/"
+  },
   "CrisisStakeholderLeadership": {
     "title": "Crisis Stakeholder Leadership",
     "url": "/wiki/concepts/crisisstakeholderleadership/"
@@ -21375,6 +21379,10 @@
     "title": "满汉合法性政治 / Han-Manchu Legitimacy Politics",
     "url": "/wiki/concepts/hanmanchulegitimacypolitics/"
   },
+  "HanMengLateHan": {
+    "title": "韩猛 / Han Meng (late Han)",
+    "url": "/wiki/entities/hanmenglatehan/"
+  },
   "HanNanyangWarringStates": {
     "title": "韩国南阳 / Han Nanyang (Warring States)",
     "url": "/wiki/entities/hannanyangwarringstates/"
@@ -25630,6 +25638,10 @@
   "JiangHuaan": {
     "title": "蒋华安 / Jiang Huaan",
     "url": "/wiki/entities/jianghuaan/"
+  },
+  "JiangQiLateHan": {
+    "title": "蒋奇 / Jiang Qi (late Han)",
+    "url": "/wiki/entities/jiangqilatehan/"
   },
   "JiangQiming": {
     "title": "蒋奇明 / Jiang Qiming",
@@ -40799,6 +40811,10 @@
     "title": "Reinforcement Learning AGI Path",
     "url": "/wiki/concepts/reinforcementlearningagipath/"
   },
+  "RejectedCounselDefectionCascade": {
+    "title": "Rejected Counsel Defection Cascade / 进言拒绝叛逃级联",
+    "url": "/wiki/concepts/rejectedcounseldefectioncascade/"
+  },
   "RelationalFateNetwork": {
     "title": "Relational Fate Network / 关系命运网络",
     "url": "/wiki/concepts/relationalfatenetwork/"
@@ -43902,6 +43918,10 @@
   "ShiCongbin": {
     "title": "Shi Congbin / 施从斌",
     "url": "/wiki/entities/shicongbin/"
+  },
+  "ShiHuanLateHan": {
+    "title": "史涣 / Shi Huan (late Han)",
+    "url": "/wiki/entities/shihuanlatehan/"
   },
   "ShiJianqiao": {
     "title": "Shi Jianqiao / 施剑翘",
@@ -53471,6 +53491,10 @@
     "title": "Xu Houguang / 徐厚广",
     "url": "/wiki/entities/xuhouguang/"
   },
+  "XuHuangCaoGeneral": {
+    "title": "徐晃 / Xu Huang (Cao general)",
+    "url": "/wiki/entities/xuhuangcaogeneral/"
+  },
   "XuHuangLateHan": {
     "title": "徐璜 / Xu Huang (late Han eunuch)",
     "url": "/wiki/entities/xuhuanglatehan/"
@@ -60062,6 +60086,10 @@
   "zizhi-tongjian-hanji-1046-ta-ping-shenme-bei-chengzuo-sanguo-yincang-zui-shen-de-niuren-limiqxjqzbk4fttl8d6rviqwwe3b": {
     "title": "《资治通鉴·汉纪》1046丨他凭什么被称作“三国隐藏最深的牛人”？",
     "url": "/wiki/sources/zizhi-tongjian-hanji-1046-ta-ping-shenme-bei-chengzuo-sanguo-yincang-zui-shen-de-niuren-limiqxjqzbk4fttl8d6rviqwwe3b/"
+  },
+  "zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju": {
+    "title": "《资治通鉴·汉纪》1048丨许攸叛袁献计：官渡战局的惊天变数",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju/"
   },
   "zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m": {
     "title": "《资治通鉴·汉纪》1049丨官渡之战结局揭幕，曹操终于以弱胜强",

@@ -319,12 +319,13 @@
       "16d531495e2a6294ae198d0b95a352e519f488fcca1dbdae1f416758d1cfa576",
       "a9fec3ceb1b343b1fafeebc9ab2903b46238a861f9aaafd9d15b1460340a08b5",
       "80ebfc1ef682d46f5ad0ddee6b5400db9cc377226e9bae3529738d33d47cad41",
-      "ffc63951f0c9ebb1bdb0d92982d5f65f57bbe4a7f7a359f38dcd33423bb288c2"
+      "ffc63951f0c9ebb1bdb0d92982d5f65f57bbe4a7f7a359f38dcd33423bb288c2",
+      "41cadfb91ef6894bc7d9cd5c4e55012480b0225b71a6a027d18e9565e8357c0c"
     ],
-    "paragraph_count": 319
+    "paragraph_count": 320
   },
-  "overview_commit": "98bafb35479f2f160690926774031e6d69e56523",
-  "overview_digest": "01e2ae5b9488de159952f7cda1666da94dc303b783850d4adc22ad24dbc77a93",
+  "overview_commit": "97838369a8f2c6e22943746c9a044cae65315542",
+  "overview_digest": "8e153fa24b8e107459f90d703a9fab3d2b4eac0b8d578f1899d7feacfea732b7",
   "paragraphs": [
     {
       "id": "b7d227f34bd447800f7c15293cda81af8f70b38685399e1a4c004367452b1d39",
@@ -9888,6 +9889,37 @@
         "YangAnLateHan",
         "ZhaoYanLateHan",
         "zizhi-tongjian-hanji-1046-ta-ping-shenme-bei-chengzuo-sanguo-yincang-zui-shen-de-niuren-limiqxjqzbk4fttl8d6rviqwwe3b"
+      ]
+    },
+    {
+      "id": "41cadfb91ef6894bc7d9cd5c4e55012480b0225b71a6a027d18e9565e8357c0c",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju|《资治通鉴·汉纪》1048丨许攸叛袁献计：官渡战局的惊天变数]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode filling the missing pre-[[WuchaoRaidLateHan|乌巢夜袭]] hinge in [[GuanduCampaign|官渡之战]]. It adds [[HanMengLateHan|韩猛]], [[XuHuangCaoGeneral|徐晃]], [[ShiHuanLateHan|史涣]], [[JiangQiLateHan|蒋奇]], [[CrisisPersistenceCounsel|危局坚守进言]], and [[RejectedCounselDefectionCascade|进言拒绝叛逃级联]], while extending [[XuYouLateHan|许攸]], [[JuShou|沮授]], [[ShenPeiLateHan|审配]], [[ChunyuQiong|淳于琼]], [[XunYou|荀攸]], [[SupplyDepotDecisiveStrike|粮草命门打击]], and Guandu itself. Its core synthesis is that Wuchao becomes possible before it burns: Cao Cao stays in the fight only after Xun Yu reframes retreat as strategic concession, Xun You starts attacking Yuan supply movement, Yuan Shao ignores Ju Shou's convoy-protection warning and Xu You's Xudu raid proposal, and Shen Pei's family arrest turns Xu You into Cao's source for the Gushi-Wuchao target. No settled contradiction is recorded; 徐晃 is disambiguated from [[XuHuangLateHan|徐璜]], and Hanji 1048 stops at the night-march launch that Hanji 1049 resolves.",
+      "topic_scores": {
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "ChunyuQiong",
+        "CrisisPersistenceCounsel",
+        "GuanduCampaign",
+        "HanMengLateHan",
+        "JiangQiLateHan",
+        "JuShou",
+        "RejectedCounselDefectionCascade",
+        "RuiqiJiangtouZizhiTongjian",
+        "ShenPeiLateHan",
+        "ShiHuanLateHan",
+        "SupplyDepotDecisiveStrike",
+        "WuchaoRaidLateHan",
+        "XuHuangCaoGeneral",
+        "XuHuangLateHan",
+        "XuYouLateHan",
+        "XunYou",
+        "zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju"
       ]
     }
   ],

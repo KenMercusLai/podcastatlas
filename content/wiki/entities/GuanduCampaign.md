@@ -13,6 +13,7 @@ sources:
   - zizhi-tongjian-hanji-1043-yuanshao-tongma-caocao-jing-zhihaole-tade-piantouteng-ltibjj6xizsrynpgr9oyf-q3ydna
   - zizhi-tongjian-hanji-1050-cong-caocao-fenxin-xuexi-baogui-de-lingdao-zhihui-lsqg-qaxozjpaxyukrvxbtf-mcse
   - zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m
+  - zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju
 knowledge_schema: synthesis-v1
 last_updated: 2026-08-28
 ---
@@ -20,7 +21,7 @@ last_updated: 2026-08-28
 # 官渡之战 / Guandu Campaign
 
 ## Overview
-官渡之战 / Guandu Campaign is represented in the wiki as a [[CaoCao|曹操]]-[[YuanShao|袁绍]] confrontation whose outcome turns on preparation, command judgment, logistics, defector intelligence, and post-victory stabilization rather than numbers alone. The available sources map Cao Cao's eastern settlement after Lü Bu, southern constraint against [[LiuBiao|刘表]], Yuan Shao's northern-rear settlement after [[GongsunZan|公孙瓒]], Cao's [[ShequanLateHan|射犬]] operation, Yuan Shao's flawed war-council process, Cao-side analysis of Yuan's organization, forward deployment through [[LiyangYellowRiverLateHan|黎阳]], Zhang Xiu's renewed submission, Yang Fu's Cao/Yuan comparison, Wei Ji's Guanzhong rear-governance plan, the [[BaimaReliefLateHan|White Horse relief]], the later [[YanjinBattleLateHan|Yanjin]] loss of [[WenChouLateHan|文丑]], the decisive [[WuchaoRaidLateHan|Wuchao Raid]], and the post-victory contrast between Cao Cao's letter-burning amnesty and Yuan Shao's killing of [[TianFengLateHan|田丰]].
+官渡之战 / Guandu Campaign is represented in the wiki as a [[CaoCao|曹操]]-[[YuanShao|袁绍]] confrontation whose outcome turns on preparation, command judgment, logistics, defector intelligence, and post-victory stabilization rather than numbers alone. The available sources map Cao Cao's eastern settlement after Lü Bu, southern constraint against [[LiuBiao|刘表]], Yuan Shao's northern-rear settlement after [[GongsunZan|公孙瓒]], Cao's [[ShequanLateHan|射犬]] operation, Yuan Shao's flawed war-council process, Cao-side analysis of Yuan's organization, forward deployment through [[LiyangYellowRiverLateHan|黎阳]], Zhang Xiu's renewed submission, Yang Fu's Cao/Yuan comparison, Wei Ji's Guanzhong rear-governance plan, the [[BaimaReliefLateHan|White Horse relief]], the later [[YanjinBattleLateHan|Yanjin]] loss of [[WenChouLateHan|文丑]], the pre-Wuchao supply crisis and Xu You defection, the decisive [[WuchaoRaidLateHan|Wuchao Raid]], and the post-victory contrast between Cao Cao's letter-burning amnesty and Yuan Shao's killing of [[TianFengLateHan|田丰]].
 
 ## Current Profile
 The campaign's current synthesis is that Guandu is prepared before it is fought. Cao Cao's position improves through territorial consolidation, selective incorporation of defeated and defected forces, pressure on potential Yuan Shao allies, practical attention to grain and population control, and conversion of analysis into deployment. Yuan Shao remains the larger northern rival and emerges from Gongsun Zan's fall with Qing, You, Bing, and Ji advantages, but he still needs Wuhuan and Youzhou rear settlement.
@@ -31,7 +32,9 @@ White Horse supplies the bridge between rejected counsel and the Yanjin aftermat
 
 The following Yanjin source turns White Horse's shock into Yuan-side emotional and command damage. Yuan Shao pursues south in anger, rejects Ju Shou's advice to hold the crossing and probe Guandu, strips Ju Shou's command, and then loses Wen Chou when Cao Cao and [[XunYou|荀攸]] use exposed baggage and delayed cavalry timing. The opening remains a contest over emotion, cohesion, and usable command rather than a simple clash of numbers.
 
-Hanji 1049 now supplies the decisive mechanics. Cao Cao's own supplies are nearly exhausted, yet he trusts [[XuYouLateHan|许攸]]'s Wuchao intelligence enough to lead a night raid behind Yuan lines. Yuan Shao sends only a light rescue force to Wuchao while committing heavier force against Cao's camp, despite [[ZhangHeLateHan|张郃]] warning that the depot must be saved. Cao refuses to split his small force when reinforcements approach, burns the grain, captures and executes [[ChunyuQiong|淳于琼]], and turns the supply loss into morale collapse.
+Hanji 1048 supplies the missing pre-Wuchao hinge. Cao Cao's own supplies are nearly exhausted and he considers retreating to Xudu, but Xun Yu argues that Guandu has become the decisive line and that the first side to yield position will lose. Xun You then turns the supply contest outward by identifying [[HanMengLateHan|韩猛]] as a brave but careless convoy commander; Cao sends [[XuHuangCaoGeneral|徐晃]] and [[ShiHuanLateHan|史涣]] to defeat Han Meng and burn the baggage. On the Yuan side, Ju Shou warns that [[ChunyuQiong|淳于琼]]'s later grain movement needs outer protection under [[JiangQiLateHan|蒋奇]], but Yuan Shao does not adopt it. Xu You's proposed light night raid on Xudu is also rejected, and [[ShenPeiLateHan|审配]]'s arrest of Xu You's family at Ye helps turn him into Cao's source for the vulnerable Gushi-Wuchao supply zone.
+
+Hanji 1049 completes the decisive mechanics. Cao Cao trusts Xu You's Wuchao intelligence enough to lead a night raid behind Yuan lines. Yuan Shao sends only a light rescue force to Wuchao while committing heavier force against Cao's camp, despite [[ZhangHeLateHan|张郃]] warning that the depot must be saved. Cao refuses to split his small force when reinforcements approach, burns the grain, captures and executes Chunyu Qiong, and turns the supply loss into morale collapse.
 
 The same source turns Wuchao into a command-system collapse. [[GuoTu|郭图]] protects himself by slandering Zhang He after the failed Cao-camp attack, Zhang He and [[GaoLanLateHan|高览]] surrender to Cao after burning their equipment, and Xun You helps [[CaoHong|曹洪]] read the surrender as credible because Zhang He's correct advice had been rejected. Yuan Shao flees across the Yellow River with [[YuanTan|袁谭]], while [[JuShou|沮授]] is captured, respected, and then killed after repeated attempts to return to Yuan.
 
@@ -43,8 +46,8 @@ The campaign's aftermath layer is a contrast in post-decision stabilization. Cao
 - Northern rear and border-contact problem after Gongsun Zan's fall, where Yuan Shao's Wuhuan settlement and Cao Cao's Shequan operation make the confrontation more immediate.
 - Adviser-system contrast in which Yuan Shao has capable names but Cao Cao and Xun Yu produce clearer shared judgment.
 - Defector-incorporation and insider-pacification arena where former enemies, captured servants, and wavering insiders can be turned into manpower, legitimacy signals, or post-victory stability.
-- Logistics-and-governance problem in which refugee settlement, agriculture, salt revenue, grain supply, fatigue, and postwar recovery matter before battlefield contact.
-- Decision threshold where Yuan Shao rejects attritional patience, ignores commander-fit and logistics warnings, misallocates the Wuchao response, and punishes correct advice after defeat while Cao converts psychology, mobility, adviser timing, supply-depot attack, defector acceptance, and amnesty into field advantage.
+- Logistics-and-governance problem in which refugee settlement, agriculture, salt revenue, grain supply, fatigue, convoy vulnerability, and postwar recovery matter before and during battlefield contact.
+- Decision threshold where Yuan Shao rejects attritional patience, ignores commander-fit and logistics-protection warnings, rejects Xudu raid advice, lets camp pressure produce defector intelligence, misallocates the Wuchao response, and punishes correct advice after defeat while Cao converts psychology, mobility, adviser timing, supply-depot attack, defector acceptance, and amnesty into field advantage.
 
 ## Evidence
 - Eastern settlement: [[zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1|Hanji 1026]] links the fall of Lü Bu, the incorporation of Zhang Liao and local-force actors, and Qingzhou/Yuan Tan pressure to Cao Cao's pre-Guandu capacity.
@@ -57,20 +60,20 @@ The campaign's aftermath layer is a contrast in post-decision stabilization. Cao
 - Rejected attritional alternative: [[zizhi-tongjian-hanji-1042-congming-haishi-wangu-tianfeng-yin-dingzhuang-yuanshao-ruyu-lk5x6if2rouarmgichtynzhl3cgs|Hanji 1042]] places Tian Feng's hold-defend-farm-harass plan after Liu Bei reaches Yuan Shao and before Yuan commits to a higher-stakes contest with Cao Cao.
 - White Horse bridge: [[zizhi-tongjian-hanji-1043-yuanshao-tongma-caocao-jing-zhihaole-tade-piantouteng-ltibjj6xizsrynpgr9oyf-q3ydna|Hanji 1043]] links Chen Lin's anti-Cao proclamation, Ju Shou's pre-departure disaster judgment, Cheng Yu's low-force Juancheng defense, Yuan's dispatch of Yan Liang against Liu Yan, Cao's diversionary relief maneuver, and Guan Yu's killing of Yan Liang.
 - Yanjin aftermath: [[zizhi-tongjian-hanji-1044-guanyu-qianli-zou-danqi-xu-ganxie-caocao-busha-enqing-lpptlnc-e4zu4lcjr49bquxdw0pm|Hanji 1044]] links Yuan Shao's anger after Yan Liang's death, Ju Shou's rejected Yellow River caution, and Cao Cao and Xun You's Yanjin baiting victory over Wen Chou.
+- Pre-Wuchao supply and defection hinge: [[zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju|Hanji 1048]] links Xun Yu's hold-fast counsel, Xun You's Han Meng convoy strike, Ju Shou's Jiang Qi protection warning, Xu You's rejected Xudu raid proposal, Shen Pei's family arrest, and Xu You's disclosure of the Gushi-Wuchao target.
 - Wuchao decisive strike: [[zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m|Hanji 1049]] links Xu You's intelligence, Cao Cao's depleted supplies, the night raid against Wuchao, Cao's refusal to divide force, and the burning of Yuan Shao's grain depot.
 - Yuan command collapse: [[zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m|Hanji 1049]] contrasts Zhang He's Wuchao-rescue advice with Guo Tu's attack-Cao-camp line, then follows Chunyu Qiong's execution, Zhang He and Gao Lan's surrender, Yuan Shao's flight, Cao's mass killing of remaining troops, and Ju Shou's captured-loyalist ending.
 - Post-victory internal stabilization: [[zizhi-tongjian-hanji-1050-cong-caocao-fenxin-xuexi-baogui-de-lingdao-zhihui-lsqg-qaxozjpaxyukrvxbtf-mcse|Hanji 1050]] shows Cao Cao burning letters from his own officials and generals to Yuan Shao, making amnesty and fear-reduction part of the campaign's aftermath.
 - Yuan post-defeat feedback failure: [[zizhi-tongjian-hanji-1050-cong-caocao-fenxin-xuexi-baogui-de-lingdao-zhihui-lsqg-qaxozjpaxyukrvxbtf-mcse|Hanji 1050]] extends Tian Feng's imprisonment into execution after Feng Ji's slander and adds the captured-sons suspicion around Shen Pei.
 
 ## Qualifications
-Hanji 1049 supplies the decisive Wuchao mechanics, but the page still treats casualty figures, mutilation details, and the "system war" interpretation as source-scoped. Cao Cao and Xun Yu's assessment of Yuan Shao is source-bounded and should not be treated as a complete neutral audit. Hanji 1034 qualifies the simple "Yuan ignored Ju Shou" explanation by making advice framing and factional meeting dynamics part of the causal field. Hanji 1042's claim that Tian Feng's plan could have tilted victory toward Yuan Shao remains a source-scoped counterfactual. Hanji 1043 clarifies that the actual White Horse relief and Yan Liang's death precede Hanji 1044's angry-pursuit and Yanjin sequence. Hanji 1050's Liu Xiu, Liu Bang, and modern leadership comparisons are interpretive frames rather than additional Guandu chronology. Hanji 1032's transcript phrase "称帝后的袁绍" is kept source-scoped because adjacent sources treat Yuan Shu, not Yuan Shao, as the self-declared emperor.
+Hanji 1048 stops at Cao Cao's disguised night-march launch; Hanji 1049 supplies the burning, Yuan-side response failure, and collapse sequence. Casualty figures, mutilation details, and the "system war" interpretation remain source-scoped. Cao Cao and Xun Yu's assessment of Yuan Shao is source-bounded and should not be treated as a complete neutral audit. Hanji 1034 qualifies the simple "Yuan ignored Ju Shou" explanation by making advice framing and factional meeting dynamics part of the causal field, while Hanji 1048 adds a later logistics-protection warning and a rejected Xudu raid proposal. Hanji 1042's claim that Tian Feng's plan could have tilted victory toward Yuan Shao remains a source-scoped counterfactual. Hanji 1043 clarifies that the actual White Horse relief and Yan Liang's death precede Hanji 1044's angry-pursuit and Yanjin sequence. Hanji 1050's Liu Xiu, Liu Bang, and modern leadership comparisons are interpretive frames rather than additional Guandu chronology. Hanji 1032's transcript phrase "称帝后的袁绍" is kept source-scoped because adjacent sources treat Yuan Shu, not Yuan Shao, as the self-declared emperor. 徐晃 is disambiguated here as [[XuHuangCaoGeneral|徐晃]] the Cao-side general, distinct from [[XuHuangLateHan|徐璜]] the eunuch.
 
 ## What Changed
-- Added Hanji 1049 as the bounded source for the Wuchao decisive-battle mechanics.
-- Revised the campaign profile from "preliminary shocks plus aftermath" into a preparation-through-Wuchao-through-aftermath arc.
-- Added Xu You's intelligence, Cao Cao's all-in supply-depot strike, and Yuan Shao's wrong force allocation.
-- Added Zhang He and Gao Lan's surrender as a post-Wuchao command-collapse mechanism.
-- Added Chunyu Qiong's execution, Ju Shou's captured-loyalist ending, and Cao's mass killing of remaining troops as source-scoped aftermath claims.
+- Added Hanji 1048 as the bounded source for the pre-Wuchao supply crisis and night-march launch.
+- Added Xun Yu's hold-fast counsel and Xun You's Han Meng convoy-strike recommendation to the Guandu logistics sequence.
+- Added Ju Shou's Jiang Qi protection warning, Xu You's rejected Xudu raid proposal, and Shen Pei's family-arrest trigger for Xu You's defection.
+- Reframed Wuchao's opening as an adviser-system and logistics-protection failure before the depot is burned in Hanji 1049.
 
 ## Relationships
 - [[CaoCao|曹操]] - contender whose pre-campaign preparation grows through settlement, incorporation, assessment, deployment, psychological reading, rear governance, and post-victory amnesty.
@@ -79,7 +82,11 @@ Hanji 1049 supplies the decisive Wuchao mechanics, but the page still treats cas
 - [[YanjinBattleLateHan|延津之战]] - preliminary encounter where Cao Cao and Xun You defeat Wen Chou after Yuan cavalry lose cohesion around baggage.
 - [[WuchaoRaidLateHan|乌巢夜袭]] - decisive logistics strike where Cao Cao burns Yuan Shao's grain depot and forces campaign collapse.
 - [[SupplyDepotDecisiveStrike|粮草命门打击]] - concept introduced by Wuchao's material and psychological effect.
+- [[CrisisPersistenceCounsel|危局坚守进言]] - advice pattern visible when Xun Yu persuades Cao Cao not to retreat from Guandu under supply pressure.
+- [[RejectedCounselDefectionCascade|进言拒绝叛逃级联]] - failure pattern visible when Yuan Shao rejects Xu You's Xudu raid proposal and camp pressure turns Xu You into Cao's source.
 - [[XuYouLateHan|许攸]] - defector-intelligence source whose Wuchao information makes the decisive raid possible.
+- [[HanMengLateHan|韩猛]], [[XuHuangCaoGeneral|徐晃]], and [[ShiHuanLateHan|史涣]] - convoy-strike chain that shows Cao's side attacking Yuan supply movement before Wuchao.
+- [[JiangQiLateHan|蒋奇]] - proposed protector in Ju Shou's unadopted warning about Chunyu Qiong's grain convoy.
 - [[ChunyuQiong|淳于琼]] - Yuan commander whose Wuchao defeat and execution mark the depot's fall.
 - [[ZhangHeLateHan|张郃]] and [[GaoLanLateHan|高览]] - Yuan generals whose surrender after Wuchao turns battlefield loss into command rupture.
 - [[GongsunZan|公孙瓒]] - defeated northern rival whose fall opens Yuan Shao's rear-settlement problem before Guandu.
@@ -88,14 +95,14 @@ Hanji 1049 supplies the decisive Wuchao mechanics, but the page still treats cas
 - [[JuShou|沮授]] - Yuan adviser whose rejected recovery-and-harassment plan, fatalism, Yan Liang warning, and later crossing warning become pre-Guandu diagnostics.
 - [[TianFengLateHan|田丰]] - Yuan adviser whose rejected hold-and-harass plan and post-defeat execution sharpen the attrition-versus-decisive-battle and advice-punishment contrasts.
 - [[FengJiLateHan|逢纪]] - Yuan adviser whose post-defeat slander of Tian Feng and defense of Shen Pei show how camp politics shapes Yuan's aftermath.
-- [[ShenPeiLateHan|审配]] - Yuan adviser-administrator whose captured sons trigger post-Guandu suspicion inside Yuan's camp.
+- [[ShenPeiLateHan|审配]] - Yuan adviser-administrator whose arrest of Xu You's family helps trigger the Wuchao-intelligence defection and whose captured sons later trigger post-Guandu suspicion.
 - [[ChenLinLateHan|陈琳]] - Yuan-side writer whose anti-Cao proclamation turns legitimacy and reputation into campaign terrain.
 - [[ChengYu|程昱]] - Cao-side adviser whose Juancheng defense shows opponent psychology as pre-battle protection.
 - [[YanLiangLateHan|颜良]] and [[WenChouLateHan|文丑]] - Yuan generals whose deaths turn earlier Cao-side assessment into pre-Guandu morale damage.
 - [[GuanYu|关羽]] - Cao-side vanguard whose killing of Yan Liang resolves White Horse and repays Cao's treatment.
 - [[LiuYanDongCommandery|刘延]] - Dong Commandery administrator whose White Horse position becomes the relief target.
 - [[GuoTu|郭图]] and [[XinPingLateHan|辛评]] - Yuan-camp figures linked to factional judgment, command-weakening pressure, and later suspicion around Shen Pei.
-- [[XunYou|荀攸]] - Cao-side strategist whose bait-timing judgment shapes Yanjin and whose surrender screening helps receive Zhang He after Wuchao.
+- [[XunYou|荀攸]] - Cao-side strategist whose bait-timing judgment shapes Yanjin, whose Han Meng assessment targets Yuan supply movement, and whose surrender screening helps receive Zhang He after Wuchao.
 - [[ZangBaLateHan|臧霸]], [[QingzhouLateHan|青州]], [[YuJin|于禁]], [[LiyangYellowRiverLateHan|黎阳]], and [[Xudu|许都]] - deployment chain before Cao settles at Guandu.
 - [[ZhangXiu|张绣]] - former enemy whose renewed submission removes a rear threat and adds force before Guandu.
 - [[LiuBiao|刘表]] - southern actor whose potential support for Yuan Shao makes Jingzhou alignment strategically relevant.

@@ -680,6 +680,33 @@
     },
     {
       "global_candidate": false,
+      "id": "premodern-crisis-counsel-and-internal-pressure-shape-capacity",
+      "qualifications": [
+        "This is a bounded historical analogy about role capacity, counsel, and internal pressure, not a modern workplace prescription.",
+        "The family-law trigger remains source-scoped; the claim is about the organizational consequence rather than proven private motive.",
+        "Hanji 1048 stops before the Wuchao raid result, so outcome claims remain tied to the Guandu/Wuchao history branch."
+      ],
+      "statement": "[[zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju|Hanji 1048]] adds a premodern work-and-social-order case: [[CrisisPersistenceCounsel]] keeps the Guandu side from abandoning [[GuanduCampaign]] under supply pressure, while [[RejectedCounselDefectionCascade]] shows rejected advice plus family arrest turning [[XuYouLateHan]] into an enemy intelligence source. The convoy roles around [[HanMengLateHan]], [[XuHuangCaoGeneral]], [[ShiHuanLateHan]], and [[JiangQiLateHan]] keep the analogy grounded in logistics and role execution rather than generic advice.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju",
+        "CrisisPersistenceCounsel",
+        "RejectedCounselDefectionCascade",
+        "GuanduCampaign",
+        "WuchaoRaidLateHan",
+        "XuYouLateHan",
+        "ShenPeiLateHan",
+        "HanMengLateHan",
+        "XuHuangCaoGeneral",
+        "ShiHuanLateHan",
+        "JiangQiLateHan",
+        "JuShou",
+        "SupplyDepotDecisiveStrike",
+        "XuHuangLateHan"
+      ]
+    },
+    {
+      "global_candidate": false,
       "id": "smart-vehicle-cabins-blur-mobility-work-and-rest",
       "qualifications": [
         "The cabin-use evidence comes from named owners and a brand representative, so it should not be generalized to all drivers or vehicle categories.",
@@ -744,6 +771,6 @@
       ]
     }
   ],
-  "summary": "Hanji 862 adds a late-Han reputation, selection, and teaching branch: talent, public name, friendship, official judgment, and local education become useful only when checked against conduct, evidence, and repair. The Huberman Lab Q&A adds a bounded formation branch: passion, originality, and memory practice are treated as engagement, apprenticeship, self-testing, and correction rather than passive introspection. Work, education, and society material emphasizes implementation over capability claims: AI, software, creative production, physical products, research, creator work, finance, public building, and institutional roles all depend on workflow ownership, distribution, verification, trust, supply chains, labor constraints, and human judgment. The AI-era education branch now combines major-choice uncertainty, teenage AI research access, AI tutoring, historical fieldwork, oral history, source judgment, and shortcut risk; durable formation comes from foundations, real-world contact, upstream questions, review, and human grounding. Workplace material covers internships, upward management, transfers, task pacing with AI, finance and banking boundaries, cabin service, communication precision, creator monetization, lifestyle cost discipline, cohort scarring in Japan, and VOL.214's bullying branch, where school violence analogies, parent-teacher pressure, asymmetrical power, self-worth separation, evidence preservation, and institutional complaint channels define the boundary problem. Hardware and spatial work branches cover smart vehicles, smart glasses, embodied AI companions, AI entertainment platforms, and AI cinema, each bounded by privacy, social fit, labor rights, production systems, and user responsibility. Historical late-Han branches use status, reward refusal, reputation lists, official selection, frontier command, crisis opportunity, coercive feedback, grain, labor, family safety, patronage, and fortress collapse as source-scoped social-order cases rather than direct workplace rules. The Wudang, Antarctica, social housing, parking, consortio, climate hard-tech, carbon-removal, and dinosaur-care paragraphs extend the topic into constraint accounting: retreat, living conditions, environmental value, care work, and market adoption become real through institutions, chores, material costs, responsibility, and everyday constraints rather than ideals alone. Women health appears here as communication and shared-decision context, keeping contraception, PCOS, perimenopause, and midlife screening tied to consent language, evidence triage, symptom legitimacy, and clinician-patient interpretation.",
+  "summary": "Hanji 862 adds a late-Han reputation, selection, and teaching branch: talent, public name, friendship, official judgment, and local education become useful only when checked against conduct, evidence, and repair. The Huberman Lab Q&A adds a bounded formation branch: passion, originality, and memory practice are treated as engagement, apprenticeship, self-testing, and correction rather than passive introspection. Work, education, and society material emphasizes implementation over capability claims: AI, software, creative production, physical products, research, creator work, finance, public building, and institutional roles all depend on workflow ownership, distribution, verification, trust, supply chains, labor constraints, and human judgment. The AI-era education branch now combines major-choice uncertainty, teenage AI research access, AI tutoring, historical fieldwork, oral history, source judgment, and shortcut risk; durable formation comes from foundations, real-world contact, upstream questions, review, and human grounding. Workplace material covers internships, upward management, transfers, task pacing with AI, finance and banking boundaries, cabin service, communication precision, creator monetization, lifestyle cost discipline, cohort scarring in Japan, and VOL.214's bullying branch, where school violence analogies, parent-teacher pressure, asymmetrical power, self-worth separation, evidence preservation, and institutional complaint channels define the boundary problem. Hardware and spatial work branches cover smart vehicles, smart glasses, embodied AI companions, AI entertainment platforms, and AI cinema, each bounded by privacy, social fit, labor rights, production systems, and user responsibility. Historical late-Han branches use status, reward refusal, reputation lists, official selection, frontier command, crisis opportunity, coercive feedback, grain, labor, family safety, patronage, and fortress collapse as source-scoped social-order cases rather than direct workplace rules. The Wudang, Antarctica, social housing, parking, consortio, climate hard-tech, carbon-removal, and dinosaur-care paragraphs extend the topic into constraint accounting: retreat, living conditions, environmental value, care work, and market adoption become real through institutions, chores, material costs, responsibility, and everyday constraints rather than ideals alone. Women health appears here as communication and shared-decision context, keeping contraception, PCOS, perimenopause, and midlife screening tied to consent language, evidence triage, symptom legitimacy, and clinician-patient interpretation. Hanji 1048 adds another source-scoped late-Han social-order case: crisis counsel, logistics roles, family safety, and rejected advice affect organizational survival, but remain historical analogies rather than direct workplace rules.",
   "topic_id": "work-education-and-society"
 }

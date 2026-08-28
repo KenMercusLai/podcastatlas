@@ -3730,9 +3730,9 @@
       "url": "/wiki/concepts/chroniclepolicycompression/"
     },
     "ChunyuQiong": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》992丨乱世有多可怕？揭秘长安的血色梦魇 [ltuxzRb-1X5y2CTwo4DrGgxn5sTZ].md",
@@ -3747,6 +3747,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1049丨官渡之战结局揭幕，曹操终于以弱胜强",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1048丨许攸叛袁献计：官渡战局的惊天变数 [lt3SeWXvTPYtrufREx8b0s0p0hJu].md",
+          "key": "zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1048丨许攸叛袁献计：官渡战局的惊天变数",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju/"
         }
       ],
       "updated": "2026-08-28",
@@ -4327,6 +4334,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/crisisdutycontinuity/"
+    },
+    "CrisisPersistenceCounsel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1048丨许攸叛袁献计：官渡战局的惊天变数 [lt3SeWXvTPYtrufREx8b0s0p0hJu].md",
+          "key": "zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1048丨许攸叛袁献计：官渡战局的惊天变数",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/crisispersistencecounsel/"
     },
     "CrisisWithdrawalSelfProtection": {
       "episode_count": 3,
@@ -7727,9 +7750,9 @@
       "url": "/wiki/entities/guanyu/"
     },
     "GuanduCampaign": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1026丨揭秘三国第一猛将吕布的落幕 [lhjf_aguJuIgLqCHUMtFf3tfTxg1].md",
@@ -7800,6 +7823,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1049丨官渡之战结局揭幕，曹操终于以弱胜强",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1048丨许攸叛袁献计：官渡战局的惊天变数 [lt3SeWXvTPYtrufREx8b0s0p0hJu].md",
+          "key": "zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1048丨许攸叛袁献计：官渡战局的惊天变数",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju/"
         }
       ],
       "updated": "2026-08-28",
@@ -8030,6 +8060,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/haidilao/"
+    },
+    "HanMengLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1048丨许攸叛袁献计：官渡战局的惊天变数 [lt3SeWXvTPYtrufREx8b0s0p0hJu].md",
+          "key": "zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1048丨许攸叛袁献计：官渡战局的惊天变数",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/hanmenglatehan/"
     },
     "HanSongLateHan": {
       "episode_count": 2,
@@ -9944,6 +9990,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/jiaxu/"
     },
+    "JiangQiLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1048丨许攸叛袁献计：官渡战局的惊天变数 [lt3SeWXvTPYtrufREx8b0s0p0hJu].md",
+          "key": "zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1048丨许攸叛袁献计：官渡战局的惊天变数",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/jiangqilatehan/"
+    },
     "JiangYuliangDoctor": {
       "episode_count": 1,
       "show_count": 1,
@@ -10135,9 +10197,9 @@
       "url": "/wiki/entities/joshspencer/"
     },
     "JuShou": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》976丨三国谋士大盘点，谁是你心中的神？ [ljGPbosQ-9XIoWpgaEyossmgSt6x].md",
@@ -10194,6 +10256,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1049丨官渡之战结局揭幕，曹操终于以弱胜强",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1048丨许攸叛袁献计：官渡战局的惊天变数 [lt3SeWXvTPYtrufREx8b0s0p0hJu].md",
+          "key": "zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1048丨许攸叛袁献计：官渡战局的惊天变数",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju/"
         }
       ],
       "updated": "2026-08-28",
@@ -15735,6 +15804,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/regnansinexcelsis/"
     },
+    "RejectedCounselDefectionCascade": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1048丨许攸叛袁献计：官渡战局的惊天变数 [lt3SeWXvTPYtrufREx8b0s0p0hJu].md",
+          "key": "zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1048丨许攸叛袁献计：官渡战局的惊天变数",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/rejectedcounseldefectioncascade/"
+    },
     "ReputationListPersecutionTarget": {
       "episode_count": 2,
       "show_count": 1,
@@ -16815,9 +16900,9 @@
       "url": "/wiki/entities/shekharnatarajan/"
     },
     "ShenPeiLateHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》957丨他曾雄霸一方，为何懦弱到在厕所自尽？ [lnKHah144822mC4AA9bNeZKLGvOO].md",
@@ -16846,6 +16931,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1050丨从曹操焚信学习宝贵的领导智慧",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1050-cong-caocao-fenxin-xuexi-baogui-de-lingdao-zhihui-lsqg-qaxozjpaxyukrvxbtf-mcse/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1048丨许攸叛袁献计：官渡战局的惊天变数 [lt3SeWXvTPYtrufREx8b0s0p0hJu].md",
+          "key": "zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1048丨许攸叛袁献计：官渡战局的惊天变数",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju/"
         }
       ],
       "updated": "2026-08-28",
@@ -16935,6 +17027,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/shibilatehan/"
+    },
+    "ShiHuanLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1048丨许攸叛袁献计：官渡战局的惊天变数 [lt3SeWXvTPYtrufREx8b0s0p0hJu].md",
+          "key": "zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1048丨许攸叛袁献计：官渡战局的惊天变数",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/shihuanlatehan/"
     },
     "ShinglesVaccineDementiaSignal": {
       "episode_count": 2,
@@ -17817,9 +17925,9 @@
       "url": "/wiki/entities/sunyutao/"
     },
     "SupplyDepotDecisiveStrike": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1049丨官渡之战结局揭幕，曹操终于以弱胜强 [lvTuTWyhrIx4RhiyPa9DKNZ3DA1M].md",
@@ -17827,6 +17935,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1049丨官渡之战结局揭幕，曹操终于以弱胜强",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1048丨许攸叛袁献计：官渡战局的惊天变数 [lt3SeWXvTPYtrufREx8b0s0p0hJu].md",
+          "key": "zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1048丨许攸叛袁献计：官渡战局的惊天变数",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju/"
         }
       ],
       "updated": "2026-08-28",
@@ -20015,9 +20130,9 @@
       "url": "/wiki/entities/wuzilanlatehan/"
     },
     "WuchaoRaidLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1049丨官渡之战结局揭幕，曹操终于以弱胜强 [lvTuTWyhrIx4RhiyPa9DKNZ3DA1M].md",
@@ -20025,6 +20140,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1049丨官渡之战结局揭幕，曹操终于以弱胜强",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1048丨许攸叛袁献计：官渡战局的惊天变数 [lt3SeWXvTPYtrufREx8b0s0p0hJu].md",
+          "key": "zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1048丨许攸叛袁献计：官渡战局的惊天变数",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju/"
         }
       ],
       "updated": "2026-08-28",
@@ -20308,6 +20430,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/xugonglatehan/"
     },
+    "XuHuangCaoGeneral": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1048丨许攸叛袁献计：官渡战局的惊天变数 [lt3SeWXvTPYtrufREx8b0s0p0hJu].md",
+          "key": "zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1048丨许攸叛袁献计：官渡战局的惊天变数",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/xuhuangcaogeneral/"
+    },
     "XuHuangLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -20396,9 +20534,9 @@
       "url": "/wiki/entities/xuxunlatehan/"
     },
     "XuYouLateHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》941丨身处官场，他竟想干翻皇帝 [liU-FqIz9pI7U6ClTrn-cJmjz__r].md",
@@ -20420,6 +20558,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1049丨官渡之战结局揭幕，曹操终于以弱胜强",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1048丨许攸叛袁献计：官渡战局的惊天变数 [lt3SeWXvTPYtrufREx8b0s0p0hJu].md",
+          "key": "zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1048丨许攸叛袁献计：官渡战局的惊天变数",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju/"
         }
       ],
       "updated": "2026-08-28",
@@ -20511,9 +20656,9 @@
       "url": "/wiki/entities/xunshuanglatehan/"
     },
     "XunYou": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1025丨败于曹操，吕布错在禁酒令？ [ljJT1t2mK77si6re_-WEW_hPl8qZ].md",
@@ -20556,6 +20701,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1049丨官渡之战结局揭幕，曹操终于以弱胜强",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1048丨许攸叛袁献计：官渡战局的惊天变数 [lt3SeWXvTPYtrufREx8b0s0p0hJu].md",
+          "key": "zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1048丨许攸叛袁献计：官渡战局的惊天变数",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju/"
         }
       ],
       "updated": "2026-08-28",
