@@ -1535,6 +1535,29 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/analogmoviegoingexperience/"
     },
+    "AncientGreekHonorCommunity": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "EP269 从“漫威宇宙”到《奥德赛》：为何总要翻拍英雄史诗？ [ltKLOTheqpuP6oaMYflFzpXTIPsW].md",
+          "key": "ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw",
+          "show": "Talk三联",
+          "title": "EP269 从“漫威宇宙”到《奥德赛》：为何总要翻拍英雄史诗？",
+          "url": "/wiki/sources/ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw/"
+        },
+        {
+          "episode_file": "GLT2882541084 [GLT2882541084].md",
+          "key": "688-the-odyssey-return-of-the-king-part-2-glt2882541084",
+          "show": "The Rest Is History",
+          "title": "688. The Odyssey: Return of the King (Part 2)",
+          "url": "/wiki/sources/688-the-odyssey-return-of-the-king-part-2-glt2882541084/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/ancientgreekhonorcommunity/"
+    },
     "AndrewHuberman": {
       "episode_count": 13,
       "show_count": 1,
@@ -2066,6 +2089,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/atang/"
+    },
+    "Athena": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2882541084 [GLT2882541084].md",
+          "key": "688-the-odyssey-return-of-the-king-part-2-glt2882541084",
+          "show": "The Rest Is History",
+          "title": "688. The Odyssey: Return of the King (Part 2)",
+          "url": "/wiki/sources/688-the-odyssey-return-of-the-king-part-2-glt2882541084/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/athena/"
     },
     "AthletePostRetirementIdentity": {
       "episode_count": 1,
@@ -3014,6 +3053,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/caltech/"
+    },
+    "Calypso": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2882541084 [GLT2882541084].md",
+          "key": "688-the-odyssey-return-of-the-king-part-2-glt2882541084",
+          "show": "The Rest Is History",
+          "title": "688. The Odyssey: Return of the King (Part 2)",
+          "url": "/wiki/sources/688-the-odyssey-return-of-the-king-part-2-glt2882541084/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/calypso/"
     },
     "CampaignFinanceAccessIncentive": {
       "episode_count": 1,
@@ -7092,6 +7147,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/ericweinstein/"
     },
+    "Eumaeus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2882541084 [GLT2882541084].md",
+          "key": "688-the-odyssey-return-of-the-king-part-2-glt2882541084",
+          "show": "The Rest Is History",
+          "title": "688. The Odyssey: Return of the King (Part 2)",
+          "url": "/wiki/sources/688-the-odyssey-return-of-the-king-part-2-glt2882541084/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/eumaeus/"
+    },
     "EunuchPatronageViolenceShield": {
       "episode_count": 7,
       "show_count": 1,
@@ -9581,6 +9652,38 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/hofburgpalace/"
     },
+    "HomericHomecomingRecognition": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2882541084 [GLT2882541084].md",
+          "key": "688-the-odyssey-return-of-the-king-part-2-glt2882541084",
+          "show": "The Rest Is History",
+          "title": "688. The Odyssey: Return of the King (Part 2)",
+          "url": "/wiki/sources/688-the-odyssey-return-of-the-king-part-2-glt2882541084/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/homerichomecomingrecognition/"
+    },
+    "HomericHospitalityTest": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2882541084 [GLT2882541084].md",
+          "key": "688-the-odyssey-return-of-the-king-part-2-glt2882541084",
+          "show": "The Rest Is History",
+          "title": "688. The Odyssey: Return of the King (Part 2)",
+          "url": "/wiki/sources/688-the-odyssey-return-of-the-king-part-2-glt2882541084/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/homerichospitalitytest/"
+    },
     "HongmengZhixing": {
       "episode_count": 2,
       "show_count": 2,
@@ -11260,6 +11363,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/isolatedretaildemandmanagement/"
+    },
+    "Ithaca": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2882541084 [GLT2882541084].md",
+          "key": "688-the-odyssey-return-of-the-king-part-2-glt2882541084",
+          "show": "The Rest Is History",
+          "title": "688. The Odyssey: Return of the King (Part 2)",
+          "url": "/wiki/sources/688-the-odyssey-return-of-the-king-part-2-glt2882541084/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/ithaca/"
     },
     "JayBhattacharya": {
       "episode_count": 3,
@@ -16161,6 +16280,36 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/obliqueremonstranceselfprotection/"
     },
+    "Odysseus": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "EP269 从“漫威宇宙”到《奥德赛》：为何总要翻拍英雄史诗？ [ltKLOTheqpuP6oaMYflFzpXTIPsW].md",
+          "key": "ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw",
+          "show": "Talk三联",
+          "title": "EP269 从“漫威宇宙”到《奥德赛》：为何总要翻拍英雄史诗？",
+          "url": "/wiki/sources/ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw/"
+        },
+        {
+          "episode_file": "In it to bin it： Nigel Farage v Count Binface [6a58abcdc152a357db17c20e].md",
+          "key": "in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e",
+          "show": "Economist Podcasts",
+          "title": "In it to bin it: Nigel Farage v Count Binface",
+          "url": "/wiki/sources/in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e/"
+        },
+        {
+          "episode_file": "GLT2882541084 [GLT2882541084].md",
+          "key": "688-the-odyssey-return-of-the-king-part-2-glt2882541084",
+          "show": "The Rest Is History",
+          "title": "688. The Odyssey: Return of the King (Part 2)",
+          "url": "/wiki/sources/688-the-odyssey-return-of-the-king-part-2-glt2882541084/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/odysseus/"
+    },
     "OfficeDutyExitConstraint": {
       "episode_count": 1,
       "show_count": 1,
@@ -16946,6 +17095,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/paypal/"
     },
+    "Penelope": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2882541084 [GLT2882541084].md",
+          "key": "688-the-odyssey-return-of-the-king-part-2-glt2882541084",
+          "show": "The Rest Is History",
+          "title": "688. The Odyssey: Return of the King (Part 2)",
+          "url": "/wiki/sources/688-the-odyssey-return-of-the-king-part-2-glt2882541084/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/penelope/"
+    },
     "PengLeiHuawei": {
       "episode_count": 1,
       "show_count": 1,
@@ -17087,6 +17252,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/peterfankhauser/"
+    },
+    "Phaeacians": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2882541084 [GLT2882541084].md",
+          "key": "688-the-odyssey-return-of-the-king-part-2-glt2882541084",
+          "show": "The Rest Is History",
+          "title": "688. The Odyssey: Return of the King (Part 2)",
+          "url": "/wiki/sources/688-the-odyssey-return-of-the-king-part-2-glt2882541084/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/phaeacians/"
     },
     "PhilipOfCoburg": {
       "episode_count": 1,
@@ -20269,6 +20450,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/sufferingbasedmoralsubjecthood/"
     },
+    "SuitorsOfPenelope": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2882541084 [GLT2882541084].md",
+          "key": "688-the-odyssey-return-of-the-king-part-2-glt2882541084",
+          "show": "The Rest Is History",
+          "title": "688. The Odyssey: Return of the King (Part 2)",
+          "url": "/wiki/sources/688-the-odyssey-return-of-the-king-part-2-glt2882541084/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/suitorsofpenelope/"
+    },
     "SunBenLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -21017,6 +21214,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/teacheraiaugmentation/"
     },
+    "Telemachus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2882541084 [GLT2882541084].md",
+          "key": "688-the-odyssey-return-of-the-king-part-2-glt2882541084",
+          "show": "The Rest Is History",
+          "title": "688. The Odyssey: Return of the King (Part 2)",
+          "url": "/wiki/sources/688-the-odyssey-return-of-the-king-part-2-glt2882541084/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/telemachus/"
+    },
     "TenantScreeningEvictionBackfire": {
       "episode_count": 1,
       "show_count": 1,
@@ -21111,10 +21324,68 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/teyanataylor/"
     },
+    "TheOdyssey": {
+      "episode_count": 7,
+      "show_count": 5,
+      "source_note_count": 7,
+      "sources": [
+        {
+          "episode_file": "Elbows up, again： a US-Canada trade flare-up [6a8c0fa3a89d26398ee7a5db].md",
+          "key": "elbows-up-again-a-us-canada-trade-flare-up-6a8c0fa3a89d26398ee7a5db",
+          "show": "Economist Podcasts",
+          "title": "Elbows up, again: a US-Canada trade flare-up",
+          "url": "/wiki/sources/elbows-up-again-a-us-canada-trade-flare-up-6a8c0fa3a89d26398ee7a5db/"
+        },
+        {
+          "episode_file": "《奥德赛》把爆米花装进特洛伊木马，好莱坞大片为何扎堆定制爆米花桶？ [1004599628].md",
+          "key": "aodesai-ba-baomihua-zhuangjin-teluoyi-muma-haolaiwu-dapian-weihe-zhadui-dingzhi-baomihuatong-1004599628",
+          "show": "声动早咖啡",
+          "title": "《奥德赛》把爆米花装进特洛伊木马，好莱坞大片为何扎堆定制爆米花桶？",
+          "url": "/wiki/sources/aodesai-ba-baomihua-zhuangjin-teluoyi-muma-haolaiwu-dapian-weihe-zhadui-dingzhi-baomihuatong-1004599628/"
+        },
+        {
+          "episode_file": "EP265 当“请3休13”冲上热搜，我们如何给人生放一个长假？ [lsLocZLnKMcrRfpN9Coh8RrQO_WB].md",
+          "key": "ep265-dang-qing3xiu13-chongshang-resou-women-ruhe-gei-rensheng-fang-yige-changjia-lsloczlnkmcrrfpn9coh8rrqo-wb",
+          "show": "Talk三联",
+          "title": "EP265 当“请3休13”冲上热搜，我们如何给人生放一个长假？",
+          "url": "/wiki/sources/ep265-dang-qing3xiu13-chongshang-resou-women-ruhe-gei-rensheng-fang-yige-changjia-lsloczlnkmcrrfpn9coh8rrqo-wb/"
+        },
+        {
+          "episode_file": "EP269 从“漫威宇宙”到《奥德赛》：为何总要翻拍英雄史诗？ [ltKLOTheqpuP6oaMYflFzpXTIPsW].md",
+          "key": "ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw",
+          "show": "Talk三联",
+          "title": "EP269 从“漫威宇宙”到《奥德赛》：为何总要翻拍英雄史诗？",
+          "url": "/wiki/sources/ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw/"
+        },
+        {
+          "episode_file": "96.荷马史诗：在假装永生的时代，我们重读死亡（伊利亚特篇） [725317514].md",
+          "key": "96-hema-shishi-zai-jiazhuang-yongsheng-de-shidai-women-zhongdu-siwang-yiliyate-pian-725317514",
+          "show": "蜜獾吃书",
+          "title": "96.荷马史诗：在假装永生的时代，我们重读死亡（伊利亚特篇）",
+          "url": "/wiki/sources/96-hema-shishi-zai-jiazhuang-yongsheng-de-shidai-women-zhongdu-siwang-yiliyate-pian-725317514/"
+        },
+        {
+          "episode_file": "In it to bin it： Nigel Farage v Count Binface [6a58abcdc152a357db17c20e].md",
+          "key": "in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e",
+          "show": "Economist Podcasts",
+          "title": "In it to bin it: Nigel Farage v Count Binface",
+          "url": "/wiki/sources/in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e/"
+        },
+        {
+          "episode_file": "GLT2882541084 [GLT2882541084].md",
+          "key": "688-the-odyssey-return-of-the-king-part-2-glt2882541084",
+          "show": "The Rest Is History",
+          "title": "688. The Odyssey: Return of the King (Part 2)",
+          "url": "/wiki/sources/688-the-odyssey-return-of-the-king-part-2-glt2882541084/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/theodyssey/"
+    },
     "TheRestIsHistory": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "GLT4665799025 [GLT4665799025].md",
@@ -21185,6 +21456,13 @@
           "show": "The Rest Is History",
           "title": "689. A Murderous Affair: The Habsburgs' Greatest Scandal (Part 1)",
           "url": "/wiki/sources/689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702/"
+        },
+        {
+          "episode_file": "GLT2882541084 [GLT2882541084].md",
+          "key": "688-the-odyssey-return-of-the-king-part-2-glt2882541084",
+          "show": "The Rest Is History",
+          "title": "688. The Odyssey: Return of the King (Part 2)",
+          "url": "/wiki/sources/688-the-odyssey-return-of-the-king-part-2-glt2882541084/"
         }
       ],
       "updated": "2026-08-28",

@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "1d7b38e986ea1249524e8c436e5aff2777b3145a891953394c9c15443b7b57c3",
       "f52125eea27ebc3fff165a4536d009297d2066b965df8af495fc6a939880ccb2",
       "73af98baffbfe5bedbe45e3725bfb07d63f6d1c18bcc1540c47e213110e77e5d",
       "98660419dd5889b2f6eef0e116644c7d1150f8de9520769228ec15dd4ecd1a72",
@@ -335,11 +336,38 @@
       "41cadfb91ef6894bc7d9cd5c4e55012480b0225b71a6a027d18e9565e8357c0c",
       "d589a53c87e197a55033f79a64a0ec3a258b8cbc050ee0e70dcc6388df48a243"
     ],
-    "paragraph_count": 333
+    "paragraph_count": 334
   },
-  "overview_commit": "5a0e3672ad8e37cfa03083cb6ee0d550fb9b83de",
-  "overview_digest": "c7777440ee303ae1affcdeeb5c4af7caeb82731e99495ab18f7c4812d2135b5e",
+  "overview_commit": "37206a5e51ccb40df500bfd5f0fb67f1715467a4",
+  "overview_digest": "09a16e0cf8db1c314d9db5025026d282277a0d7f1ac0b762c05a0a74289d450f",
   "paragraphs": [
+    {
+      "id": "1d7b38e986ea1249524e8c436e5aff2777b3145a891953394c9c15443b7b57c3",
+      "primary_topic": "culture-and-media",
+      "secondary_topics": [],
+      "text": "The latest addition is [[688-the-odyssey-return-of-the-king-part-2-glt2882541084|688. The Odyssey: Return of the King (Part 2)]], a [[TheRestIsHistory]] podcast literature episode retelling the story of the second half of [[TheOdyssey]] from [[Calypso]] and the [[Phaeacians]] to [[Ithaca]], [[Penelope]]'s marriage-bed test, and [[Odysseus]]' violent recovery of the household. It adds [[Athena]], [[Penelope]], [[Telemachus]], [[Calypso]], [[Ithaca]], [[Phaeacians]], [[Eumaeus]], [[SuitorsOfPenelope]], [[HomericHomecomingRecognition]], and [[HomericHospitalityTest]], while extending [[Odysseus]], [[AncientGreekHonorCommunity]], and [[TheRestIsHistory]]. Its core culture, literature, and story synthesis is that homecoming in the Odyssey is not simple arrival but recognized restoration: divine aid, disguise, hospitality, bodily signs, bow skill, servant loyalty, and marital memory produce return, while the slaughtered suitors, hanged maids, and mutilated Melanthius keep the ending morally difficult. No settled contradiction is recorded; the source deepens existing adaptation, merchandise, and metaphorical Odyssey pages without replacing them.",
+      "topic_scores": {
+        "culture-and-media": 4,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "688-the-odyssey-return-of-the-king-part-2-glt2882541084",
+        "AncientGreekHonorCommunity",
+        "Athena",
+        "Calypso",
+        "Eumaeus",
+        "HomericHomecomingRecognition",
+        "HomericHospitalityTest",
+        "Ithaca",
+        "Odysseus",
+        "Penelope",
+        "Phaeacians",
+        "SuitorsOfPenelope",
+        "Telemachus",
+        "TheOdyssey",
+        "TheRestIsHistory"
+      ]
+    },
     {
       "id": "f52125eea27ebc3fff165a4536d009297d2066b965df8af495fc6a939880ccb2",
       "primary_topic": "governance-and-institutions",

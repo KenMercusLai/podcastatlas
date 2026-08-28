@@ -1647,6 +1647,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "688-the-odyssey-return-of-the-king-part-2-glt2882541084": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702": [
     {
       "key": "history",
@@ -20402,6 +20409,13 @@
       "url": "/topics/science/"
     }
   ],
+  "Eumaeus": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "EunuchPatronageViolenceShield": [
     {
       "key": "politics",
@@ -27368,6 +27382,20 @@
       "url": "/topics/culture/"
     }
   ],
+  "HomericHomecomingRecognition": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "HomericHospitalityTest": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "HomericMortalityReading": [
     {
       "key": "culture",
@@ -30378,6 +30406,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "Ithaca": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "IvoParashkevov": [
@@ -43245,6 +43280,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "Penelope": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "PengXinyu": [
     {
       "key": "technology",
@@ -43617,6 +43659,13 @@
     }
   ],
   "PetrCech": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "Phaeacians": [
     {
       "key": "culture",
       "label": "Culture",
@@ -54830,6 +54879,13 @@
       "url": "/topics/history/"
     }
   ],
+  "SuitorsOfPenelope": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "SukhothaiKingdom": [
     {
       "key": "history",
@@ -56345,6 +56401,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "Telemachus": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "TenKingdomsRelationshipTypes": [

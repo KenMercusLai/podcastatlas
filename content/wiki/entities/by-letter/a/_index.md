@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 8128
+wiki_total_pages: 8136
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1142,6 +1142,9 @@ wiki_pages:
   - key: "ATT"
     title: "AT&T"
     url: "/wiki/entities/att/"
+  - key: "Athena"
+    title: "Athena"
+    url: "/wiki/entities/athena/"
   - key: "AtheneHolding"
     title: "Athene Holding / 雅典娜保险"
     url: "/wiki/entities/atheneholding/"

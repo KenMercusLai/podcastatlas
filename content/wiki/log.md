@@ -12693,6 +12693,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-28] ingest | 688. The Odyssey: Return of the King (Part 2)
+
+Ingested The Rest Is History episode 688 as a close Odyssey homecoming retelling. Created the source note, Athena, Penelope, Telemachus, Calypso, Ithaca, Phaeacians, Eumaeus, Suitors of Penelope, Homeric Homecoming Recognition, and Homeric Hospitality Test pages; updated The Odyssey, Odysseus, Ancient Greek Honor Community, The Rest Is History, index, and overview. No settled contradiction found; the source deepens the Odyssey branch from adaptation, merchandise, and metaphor into a direct account of disguise, recognition, hospitality, revenge, and morally disturbing household restoration.
+
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》837丨为人处世，为何不能心慈手软？
 
 Ingested Hanji 837 as the 151 CE Cui Shi Zhenglun and strict-lenient governance layer before Hanji 838. Created the source note, Cui Shi, Zhenglun (Cui Shi), and Situational Strict-Lenient Governance pages; updated Boundaryless Kindness Trap, index, and overview. No settled contradiction found; 崔石 was normalized to 崔寔, Rencheng Liu Chong remains source-scoped, and the Huang Qiong-Liang Ji notice is treated as the Hanji 838 preview.
@@ -13069,6 +13073,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-28] ingest | Essentials: The Science & Treatment of Bipolar Disorder
 
 Ingested the Huberman Lab Essentials episode on bipolar disorder as a serious psychiatric condition. Created the source note, John Cade, Bipolar Disorder, Bipolar Mania-Hypomania Spectrum, Lithium Bipolar Treatment, Bipolar Interoception Decline, Integrated Bipolar Care, ECT Bipolar Depression Boundary, and Bipolar Creativity Correlation pages; updated Huberman Lab, Andrew Huberman, Psychiatric Medication Supervision Boundary, index, and overview. No settled contradiction found; the source strengthens existing medical-supervision boundaries and keeps lifestyle, supplement, ECT, and creativity claims source-scoped.
+
+## [2026-08-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-28] lint | Wiki health check
 

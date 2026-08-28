@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [688. The Odyssey: Return of the King (Part 2)](sources/688-the-odyssey-return-of-the-king-part-2-glt2882541084.md) — The Rest Is History episode retelling Odysseus' return from Calypso and the Phaeacians to Ithaca, Penelope's bed test, and the violent restoration of his household.
 - [《资治通鉴·汉纪》837丨为人处世，为何不能心慈手软？](sources/zizhi-tongjian-hanji-837-weiren-chushi-weihe-buneng-xinci-shouruan-luznyzqldwdrbkfm7ce-1huuxm7b.md) — 芮淇讲透资治通鉴 episode on 151 CE Cui Shi, Zhenglun, strict-lenient governance, value-exchange boundaries, and Sima Guang's qualification of harsh-policy advice.
 - [《资治通鉴·汉纪》838丨贪婪的诱惑，让他狂飙在作死的路上](sources/zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr.md) — 芮淇讲透资治通鉴 episode on 151 CE Liang Ji reward excess, Huang Qiong's partial restraint, and Wang Jing's failed Jumi-Khotan intervention in the Western Regions.
 - [《资治通鉴·汉纪》839丨你能做到问心无愧吗？](sources/zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua.md) — 芮淇讲透资治通鉴 episode on 153 CE Jizhou disaster response, Zhu Mu's enforcement against Zhao Zhong's father's burial privilege, Liu Tao and Taixue petitioning, Ying Feng's Wuling surrender, and Cheshi Aluoduo's restoration.
@@ -7319,6 +7320,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Odyssey](entities/TheOdyssey.md) — Homeric epic discussed through Nolan's film and the difficulty of adapting ancient moral strangeness.
 - [Homer](entities/Homer.md) — Ancient epic poet invoked by the source as the tradition behind The Odyssey and its later remakings.
 - [Odysseus](entities/Odysseus.md) — Odyssey hero whose modernization in Nolan's film anchors the source's adaptation critique.
+- [Athena](entities/Athena.md) — Divine strategist in the Odyssey homecoming branch, enabling release, disguise, recognition, and revenge.
+- [Penelope](entities/Penelope.md) — Odysseus' wife whose delay tactics, bow contest, and marriage-bed test complete the recognition sequence.
+- [Telemachus](entities/Telemachus.md) — Odysseus' son whose Athena-guided maturation and weapon-removal role support the household restoration.
+- [Calypso](entities/Calypso.md) — Island figure whose offer of immortality sharpens Odysseus' choice of mortal homecoming.
+- [Ithaca](entities/Ithaca.md) — Odysseus' home island and household-political setting where arrival must become recognized return.
+- [Phaeacians](entities/Phaeacians.md) — Idealized host society whose court and ships return Odysseus to Ithaca.
+- [Eumaeus](entities/Eumaeus.md) — Loyal swineherd who shelters the disguised Odysseus and helps the revenge plan.
+- [Suitors of Penelope](entities/SuitorsOfPenelope.md) — Collective antagonist consuming Odysseus' household and violating the guest-host order.
 - [Catherine Nixie](entities/CatherineNixie.md) — Critic/interpreter in the source's segment on Nolan, Homer, and modern classical adaptation.
 - [《头发》 / Hair](entities/HairBook.md) — Kurt Stenn book used by episode 93 to connect hair biology, social history, medicine, grooming, politics, and forensic evidence.
 - [Kurt Stenn / 库尔特·斯坦](entities/KurtStenn.md) — Hair researcher and author whose book grounds the episode's biology-to-culture account of hair.
@@ -13049,6 +13058,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Oral Epic Repetition](concepts/OralEpicRepetition.md) — Cross-epic poetics frame from EP269 for repetition as memory, breath, chorus, and emotional accumulation.
 - [Epic Hero Human Limits](concepts/EpicHeroHumanLimits.md) — EP269 frame for reading heroic greatness through mortality, grief, sleep, failed immortality, homecoming, and finite responsibility.
 - [Ancient Greek Honor Community](concepts/AncientGreekHonorCommunity.md) — Homeric social frame from EP269 where gifts, spoils, hospitality, household order, and recognition define heroic status.
+- [Homeric Homecoming Recognition](concepts/HomericHomecomingRecognition.md) — Odyssey pattern where return becomes complete only through staged proofs by place, kin, servants, body, bow, and marriage bed.
+- [Homeric Hospitality Test](concepts/HomericHospitalityTest.md) — Odyssey guest-host pattern contrasting Phaeacian and Eumaeus hospitality with the suitors' household violation.
 - [Northern Courage / 北方的勇气](concepts/NorthernCourage.md) — Tolkien-linked EP269 concept for acting fully even when fate or defeat is already known.
 - [Mythic Environmental Imagination](concepts/MythicEnvironmentalImagination.md) — EP269 frame for reading myth through natural force, scarcity, ecology, human limits, and renewal after collapse.
 - [Dinosaur As Living Animal / 恐龙作为活着的动物](concepts/DinosaurAsLivingAnimal.md) — Frame for treating dinosaurs as animals with fear, illness, attachment, aging, and individual differences rather than only monster spectacle.

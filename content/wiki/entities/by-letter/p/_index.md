@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 8128
+wiki_total_pages: 8136
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -230,6 +230,9 @@ wiki_pages:
   - key: "Peloton"
     title: "Peloton"
     url: "/wiki/entities/peloton/"
+  - key: "Penelope"
+    title: "Penelope"
+    url: "/wiki/entities/penelope/"
   - key: "PengLeiHuawei"
     title: "Peng Lei / 彭磊"
     url: "/wiki/entities/pengleihuawei/"
@@ -350,6 +353,9 @@ wiki_pages:
   - key: "PGP"
     title: "PGP"
     url: "/wiki/entities/pgp/"
+  - key: "Phaeacians"
+    title: "Phaeacians"
+    url: "/wiki/entities/phaeacians/"
   - key: "PhiSilica"
     title: "Phi Silica"
     url: "/wiki/entities/phisilica/"

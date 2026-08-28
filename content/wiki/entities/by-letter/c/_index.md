@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 8128
+wiki_total_pages: 8136
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -65,6 +65,9 @@ wiki_pages:
   - key: "CalvinGoddard"
     title: "Calvin Goddard"
     url: "/wiki/entities/calvingoddard/"
+  - key: "Calypso"
+    title: "Calypso"
+    url: "/wiki/entities/calypso/"
   - key: "Cambodia"
     title: "Cambodia / 柬埔寨"
     url: "/wiki/entities/cambodia/"

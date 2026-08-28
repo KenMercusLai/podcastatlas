@@ -1063,6 +1063,10 @@
     "title": "68.疯狂实验史：哎！这该死的求知欲…",
     "url": "/wiki/sources/68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549/"
   },
+  "688-the-odyssey-return-of-the-king-part-2-glt2882541084": {
+    "title": "688. The Odyssey: Return of the King (Part 2)",
+    "url": "/wiki/sources/688-the-odyssey-return-of-the-king-part-2-glt2882541084/"
+  },
   "689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702": {
     "title": "689. A Murderous Affair: The Habsburgs' Greatest Scandal (Part 1)",
     "url": "/wiki/sources/689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702/"
@@ -5283,6 +5287,10 @@
     "title": "阿汤 / A Tang",
     "url": "/wiki/entities/atang/"
   },
+  "Athena": {
+    "title": "Athena",
+    "url": "/wiki/entities/athena/"
+  },
   "AtheneHolding": {
     "title": "Athene Holding / 雅典娜保险",
     "url": "/wiki/entities/atheneholding/"
@@ -8154,6 +8162,10 @@
   "CalvinGoddard": {
     "title": "Calvin Goddard",
     "url": "/wiki/entities/calvingoddard/"
+  },
+  "Calypso": {
+    "title": "Calypso",
+    "url": "/wiki/entities/calypso/"
   },
   "Cambodia": {
     "title": "Cambodia / 柬埔寨",
@@ -16439,6 +16451,10 @@
     "title": "Eulogy",
     "url": "/wiki/entities/eulogygame/"
   },
+  "Eumaeus": {
+    "title": "Eumaeus",
+    "url": "/wiki/entities/eumaeus/"
+  },
   "EunuchPatronageViolenceShield": {
     "title": "Eunuch Patronage Violence Shield / 宦官庇护下的地方暴行",
     "url": "/wiki/concepts/eunuchpatronageviolenceshield/"
@@ -22631,6 +22647,14 @@
     "title": "Homeric Adaptation Modernization",
     "url": "/wiki/concepts/homericadaptationmodernization/"
   },
+  "HomericHomecomingRecognition": {
+    "title": "Homeric Homecoming Recognition",
+    "url": "/wiki/concepts/homerichomecomingrecognition/"
+  },
+  "HomericHospitalityTest": {
+    "title": "Homeric Hospitality Test",
+    "url": "/wiki/concepts/homerichospitalitytest/"
+  },
   "HomericMortalityReading": {
     "title": "Homeric Mortality Reading",
     "url": "/wiki/concepts/homericmortalityreading/"
@@ -24998,6 +25022,10 @@
   "ItamarBenGvir": {
     "title": "Itamar Ben-Gvir",
     "url": "/wiki/entities/itamarbengvir/"
+  },
+  "Ithaca": {
+    "title": "Ithaca",
+    "url": "/wiki/entities/ithaca/"
   },
   "ItoHiromi": {
     "title": "伊藤比吕美 / Itō Hiromi",
@@ -37295,6 +37323,10 @@
     "title": "Penalty Shootout Strategy",
     "url": "/wiki/concepts/penaltyshootoutstrategy/"
   },
+  "Penelope": {
+    "title": "Penelope",
+    "url": "/wiki/entities/penelope/"
+  },
   "PengLeiHuawei": {
     "title": "Peng Lei / 彭磊",
     "url": "/wiki/entities/pengleihuawei/"
@@ -37654,6 +37686,10 @@
   "Pfizer": {
     "title": "Pfizer / 辉瑞",
     "url": "/wiki/entities/pfizer/"
+  },
+  "Phaeacians": {
+    "title": "Phaeacians",
+    "url": "/wiki/entities/phaeacians/"
   },
   "PharmaceuticalEcommerce": {
     "title": "Pharmaceutical Ecommerce",
@@ -46859,6 +46895,10 @@
     "title": "睢水 / Sui River",
     "url": "/wiki/entities/suiriver/"
   },
+  "SuitorsOfPenelope": {
+    "title": "Suitors of Penelope",
+    "url": "/wiki/entities/suitorsofpenelope/"
+  },
   "SukhothaiKingdom": {
     "title": "Sukhothai Kingdom / 苏可泰王朝",
     "url": "/wiki/entities/sukhothaikingdom/"
@@ -48046,6 +48086,10 @@
   "TelecomItalia": {
     "title": "Telecom Italia",
     "url": "/wiki/entities/telecomitalia/"
+  },
+  "Telemachus": {
+    "title": "Telemachus",
+    "url": "/wiki/entities/telemachus/"
   },
   "TelosCrisis": {
     "title": "Telos Crisis / 目的危机",

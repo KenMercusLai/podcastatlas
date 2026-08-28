@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 8128
+wiki_total_pages: 8136
 wiki_pages:
   - key: "ILibertine"
     title: "I, Libertine"
@@ -284,6 +284,9 @@ wiki_pages:
   - key: "ItamarBenGvir"
     title: "Itamar Ben-Gvir"
     url: "/wiki/entities/itamarbengvir/"
+  - key: "Ithaca"
+    title: "Ithaca"
+    url: "/wiki/entities/ithaca/"
   - key: "Itochu"
     title: "Itochu / 伊藤忠商事"
     url: "/wiki/entities/itochu/"

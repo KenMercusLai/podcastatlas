@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-28
-as_of_overview_commit: 5a0e3672ad8e37cfa03083cb6ee0d550fb9b83de
-summary: "Across 1,631 sources, useful claims survive when workflow fit, demand proof, evidence, diagnosis, governance, human judgment, and implementation constraints stay visible."
-episode_count: 1631
-source_count: 1631
-paragraph_count: 333
+as_of_overview_commit: 37206a5e51ccb40df500bfd5f0fb67f1715467a4
+summary: "Across the corpus, useful claims survive when workflow fit, demand proof, evidence, diagnosis, governance, cultural interpretation, and implementation constraints stay visible."
+episode_count: 1632
+source_count: 1632
+paragraph_count: 334
 topic_count: 8
 ---
 
@@ -29,7 +29,7 @@ topic_count: 8
 
 ### AI and Technology
 
-AI value is strongest when models are embedded in workflows, interfaces, permissions, verification loops, product economics, and user evidence rather than isolated generation.
+AI value is strongest when models are embedded in workflows, interfaces, permissions, verification loops, product economics, physical grounding, and user evidence rather than isolated generation.
 
 - AI creates durable value when model capability is embedded in real workflows through [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AIOfficeAgent]], [[AgentFacingInterfaces]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AgentHarness]], and [[TokenEfficientAgentWorkflow]] rather than left as isolated chat or generation. Evidence: [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AgentFacingInterfaces]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AgentHarness]], [[TokenEfficientAgentWorkflow]], [[ModelRoutingCostControl]], [[LocalAgentExecution]], [[MultiAgentCollaboration]], [[AgentNativeSoftware]], [[OpenClaw]], [[HermesAgent]], [[SlockAI]], [[HeadlessSoftware]], [[Paperboy]], [[AIOperationsRole]], [[AgentOptimizedCLI]], [[RoutineAgentAutomation]], [[AIOfficeAgent]], [[ClaudeCode]], [[DingTalk]], [[Feishu]], [[TencentWorkBuddy]], [[DoubaoWork]], [[tengxun-ali-zijie-zhengduo-dagongren-hulianwang-dachang-weihe-jiti-jiama-ai-bangong-1008598460]].
 - The agent branch now points to a token-efficient operating discipline: [[TokenEfficientAgentWorkflow]], [[ModelRoutingCostControl]], [[LocalAgentExecution]], [[MultiAgentCollaboration]], [[PersistentAgentMemory]], [[AISkills]], and [[AgentHarness]] allocate expensive frontier calls, local models, deterministic tools, skills, memory, review, and human attention by task value, uncertainty, risk, latency, and verification cost. Evidence: [[TokenEfficientAgentWorkflow]], [[TokenMaxxing]], [[ModelRoutingCostControl]], [[LocalAgentExecution]], [[MultiAgentCollaboration]], [[PersistentAgentMemory]], [[AISkills]], [[AgentHarness]], [[AIInferenceCostStructure]], [[DeepSeek]], [[Fable5]], [[GLM52]], [[OpenClaw]], [[HermesAgent]], [[SlockAI]], [[DB9]], [[Dongxu]], [[ZhangHongjiang]], [[e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817]].
@@ -43,7 +43,7 @@ Business value depends on payment proof, distribution, operational delivery, tru
 
 ### Culture and Media
 
-Culture and media sources use fiction, games, sports, brands, devices, platforms, and creative practice to test evidence, identity, politics, reception, and agency.
+Culture and media sources use fiction, classical epic, games, sports, brands, devices, platforms, physical media, and creative practice to test evidence, identity, politics, reception, attention, and agency.
 
 - [[PoliticalConditionAsHumanExperiment]] uses fiction to expose how political conditions, speed, exile, public performance, rule systems, and dependency reshape human behavior. Evidence: [[PoliticalConditionAsHumanExperiment]], [[PublicMoralPerformance]], [[SlownessAsModernityCritique]], [[AntiAuthoritarianEducation]], [[SafetyAsControl]], [[BuddhistLifeAffirmingLiterature]].
 

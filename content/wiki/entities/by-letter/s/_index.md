@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 8128
+wiki_total_pages: 8136
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1190,6 +1190,9 @@ wiki_pages:
   - key: "Sugon"
     title: "Sugon / 中科曙光"
     url: "/wiki/entities/sugon/"
+  - key: "SuitorsOfPenelope"
+    title: "Suitors of Penelope"
+    url: "/wiki/entities/suitorsofpenelope/"
   - key: "SukhothaiKingdom"
     title: "Sukhothai Kingdom / 苏可泰王朝"
     url: "/wiki/entities/sukhothaikingdom/"
