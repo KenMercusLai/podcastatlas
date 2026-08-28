@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1976
+topic_total_pages: 1981
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3118,6 +3118,9 @@ topic_concepts:
   - key: "GrassrootsOfficialNetwork"
     title: "基层官吏网络政治资本 / Grassroots Official Network"
     url: "/wiki/concepts/grassrootsofficialnetwork/"
+  - key: "TaixueCollectivePetition"
+    title: "太学集体请命 / Taixue Collective Petition"
+    url: "/wiki/concepts/taixuecollectivepetition/"
   - key: "SongFactionalPolitics"
     title: "宋代党争 / Song Factional Politics"
     url: "/wiki/concepts/songfactionalpolitics/"
@@ -3133,6 +3136,9 @@ topic_concepts:
   - key: "SecretMemorialPoliticalIntelligence"
     title: "密折政治情报 / Secret Memorial Political Intelligence"
     url: "/wiki/concepts/secretmemorialpoliticalintelligence/"
+  - key: "ConscienceThroughDuty"
+    title: "尽责问心无愧 / Conscience Through Duty"
+    url: "/wiki/concepts/consciencethroughduty/"
   - key: "ImperialRetinueDiscipline"
     title: "巡幸随从纪律 / Imperial Retinue Discipline"
     url: "/wiki/concepts/imperialretinuediscipline/"
@@ -5075,6 +5081,9 @@ topic_entities:
   - key: "GongsunQing"
     title: "公孙庆 / Gongsun Qing"
     url: "/wiki/entities/gongsunqing/"
+  - key: "JizhouLateHan"
+    title: "冀州 / Jizhou (late Han)"
+    url: "/wiki/entities/jizhoulatehan/"
   - key: "LiuYiSanlian"
     title: "刘仪 / Liu Yi"
     url: "/wiki/entities/liuyisanlian/"
@@ -5243,6 +5252,9 @@ topic_entities:
   - key: "ChangguangCommanderyLateHan"
     title: "长广郡 / Changguang Commandery (late Han)"
     url: "/wiki/entities/changguangcommanderylatehan/"
+  - key: "YanXiangCheshiLateHan"
+    title: "阎祥 / Yan Xiang (Cheshi, late Han)"
+    url: "/wiki/entities/yanxiangcheshilatehan/"
   - key: "EzhiWarringStates"
     title: "阏氏 / Ezhi (Warring States)"
     url: "/wiki/entities/ezhiwarringstates/"
@@ -5871,6 +5883,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh"
     title: "《资治通鉴·汉纪》185｜一张利嘴，收复中国万里疆土"
     url: "/wiki/sources/zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh/"
+  - key: "zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua"
+    title: "《资治通鉴·汉纪》839丨你能做到问心无愧吗？"
+    url: "/wiki/sources/zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua/"
   - key: "zizhi-tongjian-hanji-840-yanguang-changyuan-de-ren-you-duo-lihai-lvzfg8zbp0nugjg0iybgukz-cxgv"
     title: "《资治通鉴·汉纪》840丨眼光长远的人有多厉害？"
     url: "/wiki/sources/zizhi-tongjian-hanji-840-yanguang-changyuan-de-ren-you-duo-lihai-lvzfg8zbp0nugjg0iybgukz-cxgv/"

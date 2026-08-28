@@ -3999,6 +3999,10 @@
     "title": "Altos Computer",
     "url": "/wiki/entities/altoscomputer/"
   },
+  "AluoduoCheshiLateHan": {
+    "title": "阿罗多 / Aluoduo (Cheshi, late Han)",
+    "url": "/wiki/entities/aluoduocheshilatehan/"
+  },
   "AlzheimerDrugEfficacyGap": {
     "title": "Alzheimer Drug Efficacy Gap",
     "url": "/wiki/concepts/alzheimerdrugefficacygap/"
@@ -9643,6 +9647,10 @@
     "title": "Chery / 奇瑞",
     "url": "/wiki/entities/chery/"
   },
+  "CheshiHouKingdomLateHan": {
+    "title": "车师后王国 / Later Cheshi Kingdom (late Han)",
+    "url": "/wiki/entities/cheshihoukingdomlatehan/"
+  },
   "CheshireCat": {
     "title": "Cheshire Cat / 柴郡猫",
     "url": "/wiki/entities/cheshirecat/"
@@ -11490,6 +11498,10 @@
   "ConscienceOverFaction": {
     "title": "Conscience Over Faction / 良知高于党派",
     "url": "/wiki/concepts/conscienceoverfaction/"
+  },
+  "ConscienceThroughDuty": {
+    "title": "尽责问心无愧 / Conscience Through Duty",
+    "url": "/wiki/concepts/consciencethroughduty/"
   },
   "ConsciousnessMeasurement": {
     "title": "Consciousness Measurement",
@@ -19158,6 +19170,10 @@
   "FundraisingScenarioModeling": {
     "title": "Fundraising Scenario Modeling",
     "url": "/wiki/concepts/fundraisingscenariomodeling/"
+  },
+  "FuneraryPrivilegeAbuse": {
+    "title": "丧葬名分僭越 / Funerary Privilege Abuse",
+    "url": "/wiki/concepts/funeraryprivilegeabuse/"
   },
   "FushuCity": {
     "title": "负黍 / Fushu",
@@ -47403,6 +47419,10 @@
     "title": "太学 / Taixue",
     "url": "/wiki/concepts/taixue/"
   },
+  "TaixueCollectivePetition": {
+    "title": "太学集体请命 / Taixue Collective Petition",
+    "url": "/wiki/concepts/taixuecollectivepetition/"
+  },
   "Taiyi": {
     "title": "太一 / Taiyi",
     "url": "/wiki/entities/taiyi/"
@@ -53067,6 +53087,10 @@
     "title": "乌江亭长 / Wujiang Pavilion Chief",
     "url": "/wiki/entities/wujiangpavilionchief/"
   },
+  "WulingManLateHan": {
+    "title": "武陵蛮 / Wuling Man (late Han)",
+    "url": "/wiki/entities/wulingmanlatehan/"
+  },
   "WumingXianjing": {
     "title": "《污名陷阱》",
     "url": "/wiki/entities/wumingxianjing/"
@@ -54178,6 +54202,10 @@
   "YanXiGong": {
     "title": "燕僖公 / Duke Xi of Yan",
     "url": "/wiki/entities/yanxigong/"
+  },
+  "YanXiangCheshiLateHan": {
+    "title": "阎祥 / Yan Xiang (Cheshi, late Han)",
+    "url": "/wiki/entities/yanxiangcheshilatehan/"
   },
   "YanXiangLateHan": {
     "title": "阎象 / Yan Xiang (late Han)",
@@ -60750,6 +60778,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua": {
+    "title": "《资治通鉴·汉纪》839丨你能做到问心无愧吗？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua/"
   },
   "zizhi-tongjian-hanji-840-yanguang-changyuan-de-ren-you-duo-lihai-lvzfg8zbp0nugjg0iybgukz-cxgv": {
     "title": "《资治通鉴·汉纪》840丨眼光长远的人有多厉害？",

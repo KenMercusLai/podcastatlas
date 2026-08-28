@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 5824
+wiki_total_pages: 5827
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -692,6 +692,9 @@ wiki_pages:
   - key: "Taixue"
     title: "太学 / Taixue"
     url: "/wiki/concepts/taixue/"
+  - key: "TaixueCollectivePetition"
+    title: "太学集体请命 / Taixue Collective Petition"
+    url: "/wiki/concepts/taixuecollectivepetition/"
   - key: "TerminalHezongFailure"
     title: "末次合纵失败 / Terminal Hezong Failure"
     url: "/wiki/concepts/terminalhezongfailure/"

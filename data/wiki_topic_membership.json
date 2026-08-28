@@ -14626,6 +14626,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "ConscienceThroughDuty": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "ConsciousnessMeasurement": [
     {
       "key": "technology",
@@ -31494,6 +31501,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "JizhouLateHan": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "JoannaStern": [
@@ -55518,6 +55532,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "TaixueCollectivePetition": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "TaiyuanWarringStates": [
     {
       "key": "history",
@@ -63331,6 +63352,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "YanXiangCheshiLateHan": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "YanYiwang": [
@@ -71246,6 +71274,13 @@
     }
   ],
   "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua": [
     {
       "key": "politics",
       "label": "Politics",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 5824
+wiki_total_pages: 5827
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1805,6 +1805,9 @@ wiki_pages:
   - key: "CommandSealTrustRupture"
     title: "将印信任破裂 / Command-Seal Trust Rupture"
     url: "/wiki/concepts/commandsealtrustrupture/"
+  - key: "ConscienceThroughDuty"
+    title: "尽责问心无愧 / Conscience Through Duty"
+    url: "/wiki/concepts/consciencethroughduty/"
   - key: "ClothCladAngerPersuasion"
     title: "布衣之怒 / Cloth-Clad Anger Persuasion"
     url: "/wiki/concepts/clothcladangerpersuasion/"

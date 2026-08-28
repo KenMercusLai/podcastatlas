@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 5824
+wiki_total_pages: 5827
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1001,6 +1001,9 @@ wiki_pages:
   - key: "FuturesRollCost"
     title: "Futures Roll Cost / 期货展期损耗"
     url: "/wiki/concepts/futuresrollcost/"
+  - key: "FuneraryPrivilegeAbuse"
+    title: "丧葬名分僭越 / Funerary Privilege Abuse"
+    url: "/wiki/concepts/funeraryprivilegeabuse/"
   - key: "FiveDynastiesTenKingdomsConceptFormation"
     title: "五代十国概念形成 / Five Dynasties Ten Kingdoms Concept Formation"
     url: "/wiki/concepts/fivedynastiestenkingdomsconceptformation/"

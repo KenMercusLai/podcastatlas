@@ -1,35 +1,62 @@
 ---
 title: "太学 / Taixue"
 type: concept
-tags: [education, institutions, china, officials]
-sources: [zizhi-tongjian-hanji-905-fugui-ruhe-xianzhong-qiu-lklxx5nquka2mtbllxivk0a7b-fu, zizhi-tongjian-hanji-908-nijing-chu-qiangzhe-xialu-chu-yongzhe-gudu-chu-zhizhe-lqih1dradhzi0mipxsaiedd52dlj, zizhi-tongjian-hanji-910-shehui-shengcun-wo-quan-ni-duodian-chengfu-lp2fvuyb8ampzoeyr7znztnr0fgk, zizhi-tongjian-hanji-911-gudai-gongwuyuan-ye-neng-bao-fenpei-ls3pxu9xlpuulsdailx8tcoylv9e]
-last_updated: 2026-08-26
+tags: [education, institutions, china, officials, late-han]
+sources:
+  - zizhi-tongjian-hanji-905-fugui-ruhe-xianzhong-qiu-lklxx5nquka2mtbllxivk0a7b-fu
+  - zizhi-tongjian-hanji-908-nijing-chu-qiangzhe-xialu-chu-yongzhe-gudu-chu-zhizhe-lqih1dradhzi0mipxsaiedd52dlj
+  - zizhi-tongjian-hanji-910-shehui-shengcun-wo-quan-ni-duodian-chengfu-lp2fvuyb8ampzoeyr7znztnr0fgk
+  - zizhi-tongjian-hanji-911-gudai-gongwuyuan-ye-neng-bao-fenpei-ls3pxu9xlpuulsdailx8tcoylv9e
+  - zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua
+last_updated: 2026-08-28
+knowledge_schema: synthesis-v1
 ---
 
-# 太学 / Taixue
+## Definition
 
-[[zizhi-tongjian-hanji-905-fugui-ruhe-xianzhong-qiu-lklxx5nquka2mtbllxivk0a7b-fu|Hanji 905]] backfills Taixue before the Hongdu channel dispute. The [[XipingStoneClassics|熹平石经]] are erected outside Taixue, making the school not only an education-to-office field but also a public site where official classical text can be checked, copied, and treated as standard.
+太学 / Taixue is the imperial classical-learning institution and late-Han scholar-student field that can function as education, ritual site, official-selection pathway, textual standardization site, and public-opinion actor.
 
-[[zizhi-tongjian-hanji-908-nijing-chu-qiangzhe-xialu-chu-yongzhe-gudu-chu-zhizhe-lqih1dradhzi0mipxsaiedd52dlj|Hanji 908]] adds an earlier ritual-education layer before the Hongdu conflict. [[CaiYong|蔡邕]] tells [[EmperorLingOfHan|汉灵帝]] that the court has neglected the Taixue elder-honoring ceremony alongside seasonal and ancestral rites, and Ling partially accepts the criticism by attending Taixue again. This makes Taixue part of [[LiAsPoliticalOrder|礼制政治秩序]] before it becomes the incumbent selection channel later challenged by [[HongduMenxue|鸿都门学]].
+## Current Synthesis
 
-[[zizhi-tongjian-hanji-910-shehui-shengcun-wo-quan-ni-duodian-chengfu-lp2fvuyb8ampzoeyr7znztnr0fgk|Hanji 910]] introduces 太学 / Taixue as the established official-learning field whose social power matters because great clans and士人 networks can use it alongside察举 recommendation. In the host's source-scoped reading, [[HongduMenxue|鸿都门学]] matters because [[EmperorLingOfHan|汉灵帝]] may be building a counterchannel against that incumbent selection order.
+Hanji 839 now supplies the earliest current Taixue layer. When [[ZhuMuLateHan|朱穆]] is punished after enforcing ritual law against [[ZhaoZhongLateHan|赵忠]]'s family, [[LiuTaoLateHan|刘陶 / 刘桃]] leads thousands of Taixue students to petition at the palace gate. Taixue is therefore not only a school; it can become a collective pressure channel when official enforcement is reversed.
 
-[[zizhi-tongjian-hanji-911-gudai-gongwuyuan-ye-neng-bao-fenpei-ls3pxu9xlpuulsdailx8tcoylv9e|Hanji 911]] then details Taixue as the established classical-learning route against which Hongdu is compared. In the episode's summary, Taixue students study the Confucian classics and normally expect a slower official path, beginning from lower posts before moving upward.
+The later Ling-era sources broaden the institution. Hanji 905 makes Taixue a public site of classical text standardization through the [[XipingStoneClassics|熹平石经]]. Hanji 908 treats Taixue ritual as part of [[LiAsPoliticalOrder|礼制政治秩序]], because [[CaiYong|蔡邕]] says the emperor's attendance at elder-honoring rites matters for role order. Hanji 910 and Hanji 911 then make Taixue the incumbent classical education-to-office field whose students and associated士人 resent [[HongduMenxue|鸿都门学]] because Hongdu creates a faster, ruler-favored appointment channel.
 
-The page's immediate wiki role is relational. Taixue is the incumbent status and education channel whose students resent Hongdu graduates' quicker access to office, making the episode a case of [[OfficialSelectionChannelCompetition|选官通道竞争]] rather than merely a school-history note.
+The current synthesis is mixed. Taixue can defend public law and classical authority, but it can also become a status field defending access to office. Its political role changes with context: petitioning, textual standard-setting, ritual order, and selection-channel competition are related but not identical functions.
 
 ## Key Claims
-- Hanji 905 adds Taixue as the public site of official classical text standardization through the Xiping Stone Classics.
-- Hanji 910 adds that Taixue is not only a school but an incumbent status and appointment field connected to great-clan influence.
-- Taixue functions in this source as the established classical education-to-office route.
-- The conflict with Hongdu comes from appointment consequences, not only curriculum difference.
-- Taixue student resentment shows how credential paths can become defended status interests.
 
-## Connections
-- [[zizhi-tongjian-hanji-905-fugui-ruhe-xianzhong-qiu-lklxx5nquka2mtbllxivk0a7b-fu|Hanji 905]], [[XipingStoneClassics|熹平石经]], [[CaiYong|蔡邕]], and [[EmperorLingOfHan|汉灵帝]] - official Five Classics standardization at Taixue.
-- [[zizhi-tongjian-hanji-908-nijing-chu-qiangzhe-xialu-chu-yongzhe-gudu-chu-zhizhe-lqih1dradhzi0mipxsaiedd52dlj|Hanji 908]], [[CaiYong|蔡邕]], [[EmperorLingOfHan|汉灵帝]], and [[LiAsPoliticalOrder|礼制政治秩序]] - Taixue ceremony as part of restored imperial rites before the later Hongdu selection dispute.
-- [[zizhi-tongjian-hanji-910-shehui-shengcun-wo-quan-ni-duodian-chengfu-lp2fvuyb8ampzoeyr7znztnr0fgk|Hanji 910]], [[EmperorLingOfHan|汉灵帝]], and [[HongduMenxue|鸿都门学]] - Taixue as the incumbent channel that Hongdu is read as countering.
-- [[zizhi-tongjian-hanji-911-gudai-gongwuyuan-ye-neng-bao-fenpei-ls3pxu9xlpuulsdailx8tcoylv9e|Hanji 911]] - source episode.
-- [[HongduMenxue|鸿都门学]] - rival late-Han literary and artistic channel.
-- [[OfficialSelectionChannelCompetition|选官通道竞争]] - concept clarified by the Hongdu-Taixue conflict.
-- [[ScholarOfficialPublicDuty|士大夫公共责任]] and [[ImperialExaminationOpportunityEquality|科举与机会平等]] - adjacent official-learning and selection-order frames.
+- Taixue students can act collectively as a palace-facing public feedback force.
+- The institution is a classical-learning route, but its political value exceeds classroom instruction.
+- Public classical text standardization makes Taixue a site where official knowledge can be checked.
+- Ritual attendance at Taixue is treated as part of imperial role order, not merely education ceremony.
+- Hongdu conflict shows Taixue as an incumbent status and appointment channel with defended interests.
+- Taixue's public-law role and its status-interest role should be kept distinct.
+
+## Evidence
+
+- Collective petition role: [[zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua|Hanji 839]] says Liu Tao leads thousands of Taixue students to defend Zhu Mu at the palace gate.
+- Text standardization role: [[zizhi-tongjian-hanji-905-fugui-ruhe-xianzhong-qiu-lklxx5nquka2mtbllxivk0a7b-fu|Hanji 905]] says the Xiping Stone Classics are erected outside Taixue so students and copyists can compare classical texts against an official standard.
+- Ritual-order role: [[zizhi-tongjian-hanji-908-nijing-chu-qiangzhe-xialu-chu-yongzhe-gudu-chu-zhizhe-lqih1dradhzi0mipxsaiedd52dlj|Hanji 908]] says Cai Yong criticizes neglect of the Taixue elder-honoring ceremony and Emperor Ling partially accepts by attending Taixue again.
+- Incumbent selection-field role: [[zizhi-tongjian-hanji-910-shehui-shengcun-wo-quan-ni-duodian-chengfu-lp2fvuyb8ampzoeyr7znztnr0fgk|Hanji 910]] says Taixue and great-clan networks form an established official-learning field that Hongdu may counter.
+- Hongdu conflict role: [[zizhi-tongjian-hanji-911-gudai-gongwuyuan-ye-neng-bao-fenpei-ls3pxu9xlpuulsdailx8tcoylv9e|Hanji 911]] says Taixue students and士大夫 oppose Hongdu because rapid office access turns curriculum difference into appointment competition.
+
+## Counterevidence & Qualifications
+
+Taixue should not be flattened into one political function. Hanji 839's student petition defends law and a punished official, while Hanji 910-911's Hongdu conflict also involves status and appointment scarcity. A successful pardon in Hanji 839 does not prove that Taixue can force systemic reform; later qingyi and Party Prohibition material shows that scholar-student reputation pressure can itself become politically targetable.
+
+## What Changed
+
+- Migrated the page to synthesis-v1.
+- Added Hanji 839 as the earliest current evidence for Taixue as collective petition and public-law feedback.
+- Reframed Taixue as a multi-function institution: petition actor, text-standard site, ritual site, and appointment channel.
+
+## Related Concepts
+
+- [[TaixueCollectivePetition|太学集体请命]] - narrower petition-pressure mechanism grounded in Hanji 839.
+- [[XipingStoneClassics|熹平石经]] - textual-standardization project located at Taixue.
+- [[LiAsPoliticalOrder|礼制政治秩序]] - ritual role that gives Taixue ceremony political meaning.
+- [[HongduMenxue|鸿都门学]] - rival court-sponsored channel that pressures Taixue's status field.
+- [[OfficialSelectionChannelCompetition|选官通道竞争]] - appointment-conflict concept sharpened by Hongdu versus Taixue.
+- [[ScholarOfficialPublicDuty|士大夫公共责任]] - ethical frame behind Taixue students' defense of Zhu Mu.
+- [[QingyiReputationPressure|清议声誉压力]] - later scholar-student opinion field related to Taixue public action.

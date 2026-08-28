@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 8114
+wiki_total_pages: 8118
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -815,6 +815,9 @@ wiki_pages:
   - key: "WuyangJun"
     title: "武阳君 / Wuyang Jun"
     url: "/wiki/entities/wuyangjun/"
+  - key: "WulingManLateHan"
+    title: "武陵蛮 / Wuling Man (late Han)"
+    url: "/wiki/entities/wulingmanlatehan/"
   - key: "WoteShoes"
     title: "沃特鞋企 / Wote Shoes"
     url: "/wiki/entities/woteshoes/"

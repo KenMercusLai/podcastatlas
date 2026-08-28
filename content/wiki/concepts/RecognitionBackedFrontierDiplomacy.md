@@ -1,34 +1,64 @@
 ---
 title: "Recognition-Backed Frontier Diplomacy / 册封威慑式边疆外交"
 type: concept
-tags: [diplomacy, frontier, statecraft, western-han, legitimacy]
-sources: [zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr, zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh, zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i]
-last_updated: 2026-08-23
+tags: [diplomacy, frontier, statecraft, western-han, late-han, legitimacy]
+sources:
+  - zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr
+  - zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh
+  - zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i
+  - zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua
+last_updated: 2026-08-28
+knowledge_schema: synthesis-v1
 ---
 
-# Recognition-Backed Frontier Diplomacy / 册封威慑式边疆外交
+## Definition
 
-Recognition-backed frontier diplomacy / 册封威慑式边疆外交 is the early Western Han pattern opened in [[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i|Hanji 184]] and completed in [[zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh|Hanji 185]]. [[LiuBang|刘邦]] recognizes [[ZhaoTuo|赵佗]] as [[Nanyue|南越]] king and sends [[LuJia|陆贾]] with seal and tally, but the title is not simply a concession. It is a way to make submission cheaper and more dignified than resistance.
+Recognition-backed frontier diplomacy / 册封威慑式边疆外交 is the statecraft pattern where a central power uses formal title recognition, envoy negotiation, credible coercive alternatives, and face-saving hierarchy to make a frontier ruler's submission cheaper than continued resistance or outside alignment.
 
-The mechanism has three parts. First, recognition gives the frontier ruler a face-saving status inside the Han order. Second, envoy rhetoric narrows the ruler's self-understanding: Lu Jia reminds Zhao Tuo that his family, ancestral graves, and cultural origin remain tied to the Central Plains. Third, credible force remains in the background: Han has defeated [[XiangYu|项羽]], can punish Zhao's family, and can send an army south if recognition is rejected.
+## Current Synthesis
 
-This differs from ordinary military conquest because the political relationship is built before the army moves. It also differs from pure appeasement because the recognized ruler is asked to face north, accept Han title, and obey Han constraints. The episode's result is therefore not the disappearance of [[Nanyue|南越]] as a local power, but its temporary placement inside a hierarchy [[ZhaoTuo|赵佗]] can accept without publicly surrendering his dignity.
+The early Western Han Nanyue sources define the core mechanism. [[LiuBang|刘邦]] recognizes [[ZhaoTuo|赵佗]] as [[Nanyue|南越]] king and sends [[LuJia|陆贾]] with seal and tally. The title is not simple appeasement: it gives Zhao a dignified position inside the Han order while Lu Jia uses kinship, Central Plains origin, Han victory, possible family punishment, and possible army movement to make submission rational.
 
-The concept overlaps with [[VictoryDeterrenceDiplomacy|胜势威慑外交]], because Han victory makes Lu Jia's warning credible. It is narrower, however, because it requires a formal title-recognition package and a frontier or outside polity whose incorporation is cheaper through status than through immediate occupation.
+Hanji 185 completes that mission by showing Zhao Tuo submit without losing local kingship or self-regard. He accepts Han hierarchy while preserving enough dignity to joke about how he might have compared with Liu Bang if he had remained in the Central Plains. Hanji 191 then adds a boundary condition: title-making can be nominal or diplomatic, not always a direct administrative rollback of frontier control.
 
-[[zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr|Hanji 191]] adds a boundary condition rather than a new completed mission. The episode's South Sea king note suggests that after recognizing [[ZhaoTuo|赵佗]], the Han court could still issue titles that nominally carved space out of [[Nanyue|南越]]; the host treats this as likely more diplomatic or virtual than an immediate administrative rollback of [[NanhaiCommandery|南海郡]].
+Hanji 839 extends the concept from first incorporation to post-rebellion restoration. In [[CheshiHouKingdomLateHan|车师后王国]], [[AluoduoCheshiLateHan|阿罗多]] rebels, harms Han屯田 forces, flees to the [[Xiongnu|北匈奴]], returns, and still has local support. [[YanXiangCheshiLateHan|阎祥]] restores him after surrender because excluding him may invite Northern Xiongnu intervention. Recognition here does not reward rebellion as virtue; it contains a worse frontier cascade by converting Aluoduo's remaining local legitimacy into a Han-recognized settlement.
 
 ## Key Claims
-- Hanji 191 adds that recognition settlements may coexist with nominal title-making that does not necessarily change effective frontier control.
-- Formal recognition can function as pressure when backed by recent military victory and a credible threat of punishment.
-- Envoy rhetoric matters because it turns a distant ruler's identity, kinship, and honor into reasons to accept hierarchy.
-- The recognized ruler is not necessarily absorbed administratively; the point is to make him submit to the central order without forcing a costly campaign.
-- The tactic is strongest when both sides need a dignified settlement: the center avoids war, and the frontier ruler keeps local kingship under a superior title.
-- Hanji 185 shows the mechanism's ambivalence: Zhao Tuo submits to Han law and title, but his joking comparison with Liu Bang preserves self-confidence rather than full ideological conversion.
 
-## Connections
-- [[zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr|Hanji 191]], [[ZhaoTuo|赵佗]], [[Nanyue|南越]], [[NanhaiCommandery|南海郡]], and [[LiuBang|刘邦]] - South Sea king title as a possible nominal boundary condition after recognition.
-- [[zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh|Hanji 185]], [[LuJia|陆贾]], [[ZhaoTuo|赵佗]], [[Nanyue|南越]], and [[LiuBang|刘邦]] - completed source case.
-- [[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i|Hanji 184]] - setup source where Liu Bang recognizes Zhao Tuo and sends Lu Jia.
-- [[RenXiao|任嚣]], [[NanhaiCommandery|南海郡]], [[GuilinCommandery|桂林郡]], and [[XiangCommandery|象郡]] - southern commandery base that makes the frontier polity large enough to require this approach.
-- [[VictoryDeterrenceDiplomacy|胜势威慑外交]], [[PoliticalSurrenderCascade|招降示范级联]], and [[BattlefieldVictoryToFoundingOrder|战场胜利到建国秩序]] - adjacent diplomatic and founding-order concepts.
+- Formal recognition can function as pressure when backed by credible force, family leverage, or outside-threat management.
+- The recognized ruler is not necessarily absorbed administratively; the goal is submitted hierarchy without immediate costly occupation.
+- Envoy rhetoric matters because it turns identity, kinship, honor, fear, and advantage into reasons to accept recognition.
+- Recognition settlements preserve local dignity enough that submission can be chosen without total public humiliation.
+- Title-making can be more diplomatic than administrative when effective local control remains uncertain.
+- A rebel frontier king may be restored when replacement would push local support toward an outside power.
+- The concept is narrower than general concession because it requires a title-recognition package and a frontier or outside polity.
+
+## Evidence
+
+- Initial recognition package: [[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i|Hanji 184]] says Liu Bang recognizes Zhao Tuo as Nanyue king and sends Lu Jia with seal and tally rather than immediately attacking the south.
+- Completed Nanyue submission: [[zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh|Hanji 185]] says Lu Jia combines identity pressure, Han victory, family risk, and formal recognition to secure Zhao Tuo's submission.
+- Dignity-preserving hierarchy: [[zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh|Hanji 185]] says Zhao Tuo accepts Han law and title while preserving self-regard through comparison with Liu Bang and Han ministers.
+- Nominal boundary condition: [[zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr|Hanji 191]] says a South Sea kingship note after Zhao Tuo may be more diplomatic or virtual than immediate administrative control.
+- Cheshi restoration variant: [[zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua|Hanji 839]] says Yan Xiang restores Aluoduo as Cheshi Hou king after surrender to avoid wider Northern Xiongnu involvement.
+- Local-support constraint: [[zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua|Hanji 839]] says Aluoduo returns and still has support inside his kingdom, making simple replacement by the hostage prince Beijun less stabilizing.
+
+## Counterevidence & Qualifications
+
+Recognition is not proof of moral approval or full control. Zhao Tuo remains locally powerful after submission, and Hanji 191 warns that title-making may be nominal. Hanji 839 is even sharper: Aluoduo has harmed Han forces, so restoration is a risk calculation aimed at preventing Northern Xiongnu leverage. The concept should not be used for any concession; it applies when formal recognition organizes a frontier ruler's status inside a hierarchy and makes submission preferable to resistance, exile, or outside alignment.
+
+## What Changed
+
+- Migrated the page to synthesis-v1.
+- Added Hanji 839's Cheshi case as a post-rebellion restoration variant.
+- Broadened the concept from early Western Han Nanyue incorporation to frontier stabilization after a dependent ruler defects and returns.
+
+## Related Concepts
+
+- [[VictoryDeterrenceDiplomacy|胜势威慑外交]] - broader coercive background that makes recognition persuasive.
+- [[StrategicConcessionDiplomacy|欲擒故纵式让利外交]] - adjacent pattern where concession creates reciprocal pressure, but without necessarily using formal title recognition.
+- [[SmallStateBufferDiplomacy|小国缓冲外交]] - related frontier logic when a smaller polity's alignment shapes larger security.
+- [[HostageDiplomacyRupture|质子外交破裂]] - contrast and supplement because hostage prince Beijun is available but not chosen as the stabilizing solution.
+- [[FrontierVassalContainment|边境迁封式牵制]] - adjacent use of frontier status to manage risk through placement rather than direct removal.
+- [[CheshiHouKingdomLateHan|车师后王国]] - late-Han polity that extends the concept through restoration after rebellion.
+- [[AluoduoCheshiLateHan|阿罗多]] - rebel king whose remaining local support makes recognition useful.
+- [[YanXiangCheshiLateHan|阎祥]] - official who executes the restoration settlement.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 8114
+wiki_total_pages: 8118
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1394,6 +1394,9 @@ wiki_pages:
   - key: "AvignonPapacy"
     title: "阿维尼翁教廷 / Avignon Papacy"
     url: "/wiki/entities/avignonpapacy/"
+  - key: "AluoduoCheshiLateHan"
+    title: "阿罗多 / Aluoduo (Cheshi, late Han)"
+    url: "/wiki/entities/aluoduocheshilatehan/"
   - key: "Amon"
     title: "阿蒙 / Amon"
     url: "/wiki/entities/amon/"

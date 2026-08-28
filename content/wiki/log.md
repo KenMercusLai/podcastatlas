@@ -12689,6 +12689,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-28] ingest | 《资治通鉴·汉纪》839丨你能做到问心无愧吗？
+
+Ingested Hanji 839 as the 153 CE Huan-era backfill. Created the source note plus Aluoduo, Later Cheshi Kingdom, Yan Xiang (Cheshi), Wuling Man, Conscience Through Duty, Taixue Collective Petition, and Funerary Privilege Abuse pages; updated Zhu Mu, Liu Tao, Ying Feng, Jizhou, Taixue, Recognition-Backed Frontier Diplomacy, and index. No settled contradiction found; 济州 is normalized to 冀州, 朱牧 to 朱穆, 刘桃 to 刘陶 / 刘桃, and 阎祥 is disambiguated from the existing 阎象 page.
+
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》845丨从当代婚姻观聊古代的婚检制度
 
 Ingested Hanji 845 as the 159 CE pre-coup Liang Ying and imperial marriage-inspection layer. Created the source note, Empress Liang Ying, and Imperial Marriage Inspection pages; updated Emperor Huan, Liang Ji, Outer-Relative Court Power, Relationship Selection Agency, index, and overview. No settled contradiction found; the modern survey and "first recorded inspected empress" claim are source-scoped.
@@ -13036,6 +13040,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》840丨眼光长远的人有多厉害？
 
 Ingested Hanji 840 as the 154-155 CE Huan-era backfill. Created the source note; updated Zhang Huan, Liu Tao, Eastern Qiang, Gift Refusal As Authority, Coalition Fracture Exploitation, index, and overview. No settled contradiction found; 张焕/张宦 is normalized to 张奂 and 刘桃 to the existing 刘陶 / 刘桃 route.
+
+## [2026-08-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-28] lint | Wiki health check
 
