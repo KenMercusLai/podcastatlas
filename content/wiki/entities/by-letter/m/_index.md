@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 8223
+wiki_total_pages: 8226
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -1487,6 +1487,9 @@ wiki_pages:
   - key: "MaRongLateHan"
     title: "马融 / Ma Rong (late Han)"
     url: "/wiki/entities/maronglatehan/"
+  - key: "MaXianLateHan"
+    title: "马贤 / Ma Xian (late Han)"
+    url: "/wiki/entities/maxianlatehan/"
   - key: "Mayi"
     title: "马邑 / Mayi"
     url: "/wiki/entities/mayi/"

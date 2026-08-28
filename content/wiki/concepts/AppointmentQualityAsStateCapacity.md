@@ -6,7 +6,8 @@ sources:
   - zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um
   - zizhi-tongjian-hanji-842-shenme-shi-haoguan-ta-wei-baixing-gan-pinming-lj2okcbcvcmrfqrj3d-k1ylqdi2si
   - zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq
-last_updated: 2026-08-28
+  - zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh
+last_updated: 2026-08-29
 knowledge_schema: synthesis-v1
 ---
 
@@ -16,7 +17,9 @@ knowledge_schema: synthesis-v1
 
 ## Current Synthesis
 
-The concept now has three Huan-era layers. Hanji 832 supplies a negative appointment-pressure case: [[HouLanLateHan|侯览]]'s request pushes [[GaoLunLateHan|高伦]] toward an unsuitable appointment, and [[ChenShiLateHan|陈寔]] has to absorb visible responsibility after judging the candidate unfit. Appointment quality therefore fails not only because rulers choose badly, but because palace-linked requests can make local officials treat fitness as politically secondary.
+The concept now spans one Shun-era warning case and three Huan-era layers. [[zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh|Hanji 821]] supplies the negative command-appointment case: [[EmperorShunOfHan|汉顺帝]] insists on [[MaXianLateHan|马贤]] despite [[LiangShangLateHan|梁商]]'s objection, ignores [[MaRongLateHan|马融]] and [[HuangfuGuiLateHan|皇甫规]] before Ma Xian's defeat, and then rejects Huangfu Gui's request for selected troops after the failure.
+
+Hanji 832 supplies a negative appointment-pressure case: [[HouLanLateHan|侯览]]'s request pushes [[GaoLunLateHan|高伦]] toward an unsuitable appointment, and [[ChenShiLateHan|陈寔]] has to absorb visible responsibility after judging the candidate unfit. Appointment quality therefore fails not only because rulers choose badly, but because palace-linked requests can make local officials treat fitness as politically secondary.
 
 Hanji 842 shows appointment quality in a 156 CE crisis field: Li Ying's reputation makes Qiang and Hu groups submit and return captives after he is appointed Duliao general; Han Shao's appointment to Ying county turns a rebellion-struck county into a refugee shelter; and Duan Jiong's military talent defeats Xianbei and eastern rebels even though his forged-order tactic creates legal liability. The source therefore treats fit as role-specific, not generically "good people in office."
 
@@ -38,6 +41,9 @@ The concept is not simply meritocracy as a slogan. It includes task fit, politic
 
 - Patronage pressure against fit: [[zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq|Hanji 832]] says Hou Lan pressures Gao Lun into recommending or appointing a person whom Chen Shi considers unsuitable.
 - Local responsibility after bad appointment pressure: [[zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq|Hanji 832]] says Chen Shi absorbs visible responsibility for the appointment paperwork rather than pretending the personnel fit problem is real.
+- Commander mismatch: [[zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh|Hanji 821]] says Shun chooses Ma Xian against objection and Ma Xian's delayed command ends in defeat and death.
+- Ignored corrective warning: [[zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh|Hanji 821]] records Ma Rong and Huangfu Gui warning that Ma Xian's Qiang command will fail before the court changes course.
+- Rejected alternative fit: [[zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh|Hanji 821]] says Huangfu Gui proposes a selected 5,000-soldier force coordinated with Zhao Chong, but Shun refuses.
 - Reputation fit in frontier crisis: [[zizhi-tongjian-hanji-842-shenme-shi-haoguan-ta-wei-baixing-gan-pinming-lj2okcbcvcmrfqrj3d-k1ylqdi2si|Hanji 842]] says Li Ying's appointment as Duliao general causes Qiang and Hu groups to submit and return captives.
 - Relief fit in local crisis: [[zizhi-tongjian-hanji-842-shenme-shi-haoguan-ta-wei-baixing-gan-pinming-lj2okcbcvcmrfqrj3d-k1ylqdi2si|Hanji 842]] says Han Shao's appointment to Ying county deters thieves and leads to granary relief for displaced households.
 - Tactical fit with accountability risk: [[zizhi-tongjian-hanji-842-shenme-shi-haoguan-ta-wei-baixing-gan-pinming-lj2okcbcvcmrfqrj3d-k1ylqdi2si|Hanji 842]] says Duan Jiong defeats Xianbei through a false-recall ambush, receives a reduced sentence for forged edict use, and is later reappointed for another military crisis.
@@ -50,10 +56,11 @@ The concept is not simply meritocracy as a slogan. It includes task fit, politic
 
 ## Counterevidence & Qualifications
 
-The concept still rests on a small Huan-era source set and should not be treated as a complete theory of state capacity. Hanji 832 gives a pressure case but not the later performance record of the unfit appointee. Hanji 842 and Hanji 854 both include disasters, rebellions, and frontier pressure whose causes cannot be reduced to appointments alone. Duan Jiong also qualifies the pattern: the right military person may solve an urgent problem while creating legal or moral costs that the state must still judge.
+The concept still rests on a small late-Han source set and should not be treated as a complete theory of state capacity. Hanji 821 gives a vivid failed-commander case, but Qiang unrest also reflects frontier corruption, finance, hunger, and administrative violence. Hanji 832 gives a pressure case but not the later performance record of the unfit appointee. Hanji 842 and Hanji 854 both include disasters, rebellions, and frontier pressure whose causes cannot be reduced to appointments alone. Duan Jiong also qualifies the pattern: the right military person may solve an urgent problem while creating legal or moral costs that the state must still judge.
 
 ## What Changed
 
+- Hanji 821 adds a Shun-era negative command-appointment layer through Ma Xian, Ma Rong, Huangfu Gui, and Zhao Chong.
 - Hanji 832 adds a negative appointment-pressure branch through Hou Lan, Gao Lun, and Chen Shi.
 - Hanji 842 adds an earlier 156 CE appointment-fit layer through Li Ying, Han Shao, and Duan Jiong.
 - Expanded the concept beyond Hanji 854's explicit personnel lesson to include patronage distortion, reputation deterrence, risk-bearing relief, and tactical/legal ambiguity.
@@ -74,3 +81,4 @@ The concept still rests on a small Huan-era source set and should not be treated
 - [[MeritBasedRewardPunishment|因功赏罚]] - appointment fit depends on linking status and office to real contribution.
 - [[CourtOfficeCapture|朝廷开府任官失序]] - captured appointment channels are the structural opposite of appointment quality.
 - [[PersonDependentGovernanceFragility|人亡政息式治理脆弱性]] - appointment quality helps only when the system can reproduce good selection beyond individual cases.
+- [[FrontierCommandCollapse|边郡军政崩盘]] - command collapse is the frontier consequence when appointment fit, warning, and campaign tempo fail together.

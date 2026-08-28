@@ -2359,9 +2359,9 @@
       "url": "/wiki/concepts/apathyactioninitiation/"
     },
     "AppointmentQualityAsStateCapacity": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》854丨历史告诉你：选官用官很重要！ [lhiN-IwK6y1XR8VvzdmnJch3s2uM].md",
@@ -2383,9 +2383,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》832丨为领导背锅，他是傻还是智？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》821丨不懂老板心思还想晋升？没门！ [lmJXR8fDXGW-ColRLinmuJba74fh].md",
+          "key": "zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》821丨不懂老板心思还想晋升？没门！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-29",
       "url": "/wiki/concepts/appointmentqualityasstatecapacity/"
     },
     "ApprenticeshipBeforeOriginality": {
@@ -8100,9 +8107,9 @@
       "url": "/wiki/entities/emperorhuanofhan/"
     },
     "EmperorShunOfHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》822丨豺狼当道，他将矛头直指皇帝岳父？ [lqHpMAYVd3p07BYR_zOIv-jyhdv_].md",
@@ -8117,6 +8124,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》824丨为什么我们要学“守拙”",
           "url": "/wiki/sources/zizhi-tongjian-hanji-824-weishenme-women-yao-xue-shouzhuo-lpssy8ltykugdpvmgrzwcpf6-9v9/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》821丨不懂老板心思还想晋升？没门！ [lmJXR8fDXGW-ColRLinmuJba74fh].md",
+          "key": "zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》821丨不懂老板心思还想晋升？没门！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh/"
         }
       ],
       "updated": "2026-08-29",
@@ -9637,6 +9651,29 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/freesecuritysoftwarestrategy/"
+    },
+    "FrontierCommandCollapse": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》937丨战神之死，好人总是多灾多难？ [lp7PRzsMAg9oOKq7eOiSvSmnm5Aw].md",
+          "key": "zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》937丨战神之死，好人总是多灾多难？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》821丨不懂老板心思还想晋升？没门！ [lmJXR8fDXGW-ColRLinmuJba74fh].md",
+          "key": "zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》821丨不懂老板心思还想晋升？没门！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/frontiercommandcollapse/"
     },
     "FuRongLateHan": {
       "episode_count": 2,
@@ -11890,9 +11927,9 @@
       "url": "/wiki/entities/huangzu/"
     },
     "HuangfuGuiLateHan": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》875丨离大谱！为何他以入狱为荣？ [lgfFkjk_0Yu_EhFsW59AnoyCH_lD].md",
@@ -11949,6 +11986,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》824丨为什么我们要学“守拙”",
           "url": "/wiki/sources/zizhi-tongjian-hanji-824-weishenme-women-yao-xue-shouzhuo-lpssy8ltykugdpvmgrzwcpf6-9v9/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》821丨不懂老板心思还想晋升？没门！ [lmJXR8fDXGW-ColRLinmuJba74fh].md",
+          "key": "zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》821丨不懂老板心思还想晋升？没门！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh/"
         }
       ],
       "updated": "2026-08-29",
@@ -15116,9 +15160,9 @@
       "url": "/wiki/entities/liangbinglatehan/"
     },
     "LiangBuyiLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》836丨兄弟反目背后：儒者和奸臣的交锋 [lq9wJN5C8Mwt-OnRtSlUm4Fw53EQ].md",
@@ -15133,15 +15177,22 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》822丨豺狼当道，他将矛头直指皇帝岳父？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》821丨不懂老板心思还想晋升？没门！ [lmJXR8fDXGW-ColRLinmuJba74fh].md",
+          "key": "zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》821丨不懂老板心思还想晋升？没门！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh/"
         }
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/liangbuyilatehan/"
     },
     "LiangJiLateHan": {
-      "episode_count": 18,
+      "episode_count": 19,
       "show_count": 1,
-      "source_note_count": 18,
+      "source_note_count": 19,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿” [lvSA2pby8IyfEvfooBoBpIK52MiJ].md",
@@ -15268,10 +15319,33 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》825丨历史告诉你：当你没用时，人性最自私",
           "url": "/wiki/sources/zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》821丨不懂老板心思还想晋升？没门！ [lmJXR8fDXGW-ColRLinmuJba74fh].md",
+          "key": "zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》821丨不懂老板心思还想晋升？没门！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh/"
         }
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/liangjilatehan/"
+    },
+    "LiangShangLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》821丨不懂老板心思还想晋升？没门！ [lmJXR8fDXGW-ColRLinmuJba74fh].md",
+          "key": "zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》821丨不懂老板心思还想晋升？没门！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/liangshanglatehan/"
     },
     "LibGen": {
       "episode_count": 1,
@@ -16864,9 +16938,9 @@
       "url": "/wiki/entities/maridilatehan/"
     },
     "MaRongLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》836丨兄弟反目背后：儒者和奸臣的交锋 [lq9wJN5C8Mwt-OnRtSlUm4Fw53EQ].md",
@@ -16874,10 +16948,33 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》836丨兄弟反目背后：儒者和奸臣的交锋",
           "url": "/wiki/sources/zizhi-tongjian-hanji-836-xiongdi-fanmu-beihou-ruzhe-he-jianchen-de-jiaofeng-lq9wjn5c8mwt-onrtslum4fw53eq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》821丨不懂老板心思还想晋升？没门！ [lmJXR8fDXGW-ColRLinmuJba74fh].md",
+          "key": "zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》821丨不懂老板心思还想晋升？没门！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-29",
       "url": "/wiki/entities/maronglatehan/"
+    },
+    "MaXianLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》821丨不懂老板心思还想晋升？没门！ [lmJXR8fDXGW-ColRLinmuJba74fh].md",
+          "key": "zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》821丨不懂老板心思还想晋升？没门！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/maxianlatehan/"
     },
     "MacMini": {
       "episode_count": 2,
@@ -19206,9 +19303,9 @@
       "url": "/wiki/concepts/outdoorvehiclelifestyledesign/"
     },
     "OuterRelativeCourtPower": {
-      "episode_count": 15,
+      "episode_count": 16,
       "show_count": 1,
-      "source_note_count": 15,
+      "source_note_count": 16,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》848丨瞬间垮台！我为何说他死有余辜？ [lgqVgMxlwga2fKnmtxPj3Ya9chk0].md",
@@ -19314,6 +19411,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》822丨豺狼当道，他将矛头直指皇帝岳父？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》821丨不懂老板心思还想晋升？没门！ [lmJXR8fDXGW-ColRLinmuJba74fh].md",
+          "key": "zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》821丨不懂老板心思还想晋升？没门！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh/"
         }
       ],
       "updated": "2026-08-29",
@@ -20557,6 +20661,29 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/productionvibecoding/"
+    },
+    "PromotionPositionFit": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》917丨如何迅速找到升职加薪的破局点？ [lk2zT5C3ONvUi9A4PPBowsHY66Tg].md",
+          "key": "zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》917丨如何迅速找到升职加薪的破局点？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》821丨不懂老板心思还想晋升？没门！ [lmJXR8fDXGW-ColRLinmuJba74fh].md",
+          "key": "zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》821丨不懂老板心思还想晋升？没门！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/promotionpositionfit/"
     },
     "ProspectiveMemory": {
       "episode_count": 1,
@@ -29736,9 +29863,9 @@
       "url": "/wiki/entities/zhaochengligupetitioner/"
     },
     "ZhaoChongLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》824丨为什么我们要学“守拙” [lpsSY8lTyKugDpvmgrzWcPF6-9V9].md",
@@ -29746,6 +29873,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》824丨为什么我们要学“守拙”",
           "url": "/wiki/sources/zizhi-tongjian-hanji-824-weishenme-women-yao-xue-shouzhuo-lpssy8ltykugdpvmgrzwcpf6-9v9/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》821丨不懂老板心思还想晋升？没门！ [lmJXR8fDXGW-ColRLinmuJba74fh].md",
+          "key": "zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》821丨不懂老板心思还想晋升？没门！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh/"
         }
       ],
       "updated": "2026-08-29",
@@ -30164,6 +30298,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/zhoujinglatehan/"
+    },
+    "ZhouJuLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》821丨不懂老板心思还想晋升？没门！ [lmJXR8fDXGW-ColRLinmuJba74fh].md",
+          "key": "zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》821丨不懂老板心思还想晋升？没门！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/zhoujulatehan/"
     },
     "ZhouYuLateHan": {
       "episode_count": 7,

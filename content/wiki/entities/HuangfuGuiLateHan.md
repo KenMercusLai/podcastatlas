@@ -12,6 +12,7 @@ sources:
   - zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1
   - zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um
   - zizhi-tongjian-hanji-824-weishenme-women-yao-xue-shouzhuo-lpssy8ltykugdpvmgrzwcpf6-9v9
+  - zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh
 last_updated: 2026-08-29
 ---
 
@@ -19,11 +20,13 @@ last_updated: 2026-08-29
 
 ## Overview
 
-Huangfu Gui is a late Han official whose synthesized profile now begins with a 144 CE court-policy answer against eunuch corruption and Liang-family excess before moving into the later Taishan, Qiang-frontier, and Party Prohibition layers. Across the sources, he is not merely a frontier specialist; he is an official whose blunt diagnosis of institutional decay repeatedly creates both administrative value and political exposure.
+Huangfu Gui is a late Han official whose synthesized profile now begins with a 141 CE warning that [[MaXianLateHan|Ma Xian]] will fail against the Qiang, followed by a root-cause memorial on frontier corruption, soldier exhaustion, and wasted campaign finance. Later sources move him through a 144 CE court-policy answer against eunuch corruption and Liang-family excess, then into Taishan, Qiang-frontier, and Party Prohibition layers. Across the sources, he is not merely a frontier specialist; he is an official whose blunt diagnosis of institutional decay repeatedly creates both administrative value and political exposure.
 
 ## Current Profile
 
-The earliest source-bounded layer places Huangfu Gui in a worthy-and-upright policy examination after [[EmperorShunOfHan|Emperor Shun]]'s death. He argues that near attendants, bribery, office-selling, and elite extraction have driven people toward revolt "as if returning home," and he urges removal of bad常侍 plus restraint by [[LiangJiLateHan|Liang Ji]] and [[LiangBuyiLateHan|Liang Buyi]]. Liang Ji retaliates by downgrading the answer, appointing him low, then dismissing him and letting local officials harass him for more than ten years.
+The earliest source-bounded layer now places Huangfu Gui in the 141 CE Western Qiang crisis. [[zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh|Hanji 821]] has him warn that Ma Xian will lose; after Ma Xian's defeat, Huangfu Gui memorializes that corrupt frontier governors, wasted campaign funds, cruel officials, hungry soldiers, and unreliable incentives have produced the revolt. He asks for 5,000 selected troops to attack in coordination with [[ZhaoChongLateHan|Zhao Chong]], but [[EmperorShunOfHan|Emperor Shun]] rejects the proposal.
+
+The next layer places Huangfu Gui in a worthy-and-upright policy examination after Shun's death. He argues that near attendants, bribery, office-selling, and elite extraction have driven people toward revolt "as if returning home," and he urges removal of bad常侍 plus restraint by [[LiangJiLateHan|Liang Ji]] and [[LiangBuyiLateHan|Liang Buyi]]. Liang Ji retaliates by downgrading the answer, appointing him low, then dismissing him and letting local officials harass him for more than ten years.
 
 The later sources move Huangfu Gui from suppressed remonstrant into field commander and politically vulnerable upright official. In Taishan and Qiang-front contexts, he diagnoses disorder as a consequence of corrupt governors, misused troops, and broken incentives rather than treating rebels as isolated military targets.
 
@@ -31,16 +34,19 @@ After successful frontier service, Huangfu Gui still refuses to buy promotion, a
 
 ## Key Characteristics
 
-- Court remonstrant who names eunuch corruption, office-selling, and Liang-family excess as roots of disorder.
+- Early Qiang-frontier warning voice whose prediction of Ma Xian's defeat is ignored.
+- Court remonstrant who names frontier corruption, eunuch corruption, office-selling, and Liang-family excess as roots of disorder.
 - Frontier diagnostician who links rebellion to corrupt local administration and misaligned policy.
 - Commander who treats pacification as institutional repair rather than battlefield victory alone.
 - High-integrity official who accepts formal reward but rejects bribery and transactional promotion.
 - Politically exposed actor whose blunt counsel repeatedly creates retaliation risk.
 - Party Prohibition figure whose household vulnerability becomes part of his political profile.
-- Source-normalization case where transcript variants such as 黄甫规, 黄福贵, and 黄府规 are linked to received Tongjian 皇甫规 when the narrative context supports it.
 
 ## Evidence
 
+- Early Ma Xian warning - [[zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh|Hanji 821]] says Huangfu Gui predicts Ma Xian's defeat before the court changes course.
+- Frontier root-cause memorial - [[zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh|Hanji 821]] has Huangfu Gui blame corrupt officials, wasted campaign money, violent administration, hungry soldiers, and bad incentives for Qiang revolt.
+- Rejected repair proposal - [[zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh|Hanji 821]] says Huangfu Gui requests 5,000 selected troops to act with Zhao Chong, but Shun refuses.
 - Early anti-corruption remonstrance - [[zizhi-tongjian-hanji-824-weishenme-women-yao-xue-shouzhuo-lpssy8ltykugdpvmgrzwcpf6-9v9|Hanji 824]] records Huangfu Gui blaming near attendants, bribery, office-selling, and elite predation for popular disorder.
 - Warning to Liang power - [[zizhi-tongjian-hanji-824-weishenme-women-yao-xue-shouzhuo-lpssy8ltykugdpvmgrzwcpf6-9v9|Hanji 824]] has Huangfu Gui urge Liang Ji and Liang Buyi to restrain themselves using a boat-and-water metaphor.
 - Retaliation and suppression - [[zizhi-tongjian-hanji-824-weishenme-women-yao-xue-shouzhuo-lpssy8ltykugdpvmgrzwcpf6-9v9|Hanji 824]] says Liang Ji downgrades his answer, gives him a minor post, dismisses him, and lets local harassment keep him inactive for more than ten years.
@@ -51,11 +57,12 @@ After successful frontier service, Huangfu Gui still refuses to buy promotion, a
 
 ## Qualifications
 
-The page remains a synthesis of episodic source notes, not a full biography. The 144 policy-answer layer shows Huangfu Gui's court critique before his later frontier prominence, but it should not be used to infer uninterrupted public office; the same source says retaliation kept him inactive for more than ten years. Existing transcript variants are normalized only where the office, chronology, and surrounding events match Huangfu Gui.
+The page remains a synthesis of episodic source notes, not a full biography. Hanji 821 establishes an earlier Qiang-frontier warning and policy-request layer, but it does not reconstruct Huangfu Gui's entire pre-144 career. The 144 policy-answer layer shows Huangfu Gui's court critique before his later frontier prominence, but it should not be used to infer uninterrupted public office; the same source says retaliation kept him inactive for more than ten years. Existing transcript variants are normalized only where the office, chronology, and surrounding events match Huangfu Gui.
 
 ## What Changed
 
-- Added Hanji 824 as the earliest source-bounded Huangfu Gui layer.
+- Added Hanji 821 as the first source-bounded Huangfu Gui layer: warning against Ma Xian, root-cause Qiang diagnosis, and rejected selected-troop proposal.
+- Repositioned Hanji 824 as the next court-policy layer after the earlier 141 frontier warning.
 - Reframed his later frontier career as continuous with an earlier anti-eunuch and anti-outer-relative institutional critique.
 - Added Liang Ji retaliation and long suppression to explain why Huangfu Gui's later career reappears after a gap.
 - Preserved the existing source inventory and appended Hanji 824.

@@ -13141,6 +13141,10 @@ Ingested the Marketplace Tech episode on Meta's proposed teen-safety settlement,
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-29] ingest | 《资治通鉴·汉纪》821丨不懂老板心思还想晋升？没门！
+
+Ingested the 芮淇讲透资治通鉴 episode on 141 CE Emperor Shun's Ma Xian command failure, ignored Ma Rong and Huangfu Gui warnings, Zhao Chong's partial repair, Liang Shang's death, Zhou Ju's recommendation, and Liang Ji's Grand General appointment. Created the source note, Ma Xian, Liang Shang, and Zhou Ju pages; updated Emperor Shun, Zhao Chong, Ma Rong, Liang Buyi, Huangfu Gui, Liang Ji, Promotion Position Fit, Frontier Command Collapse, Appointment Quality as State Capacity, Outer-Relative Court Power, index, and overview. No settled contradiction found; transcript variants and minor Qiang/geography/person-name details remain source-scoped.
+
 ## [2026-08-29] ingest | 687. The Odyssey: Hero of the Trojan Horse (Part 1)
 
 Ingested The Rest Is History episode 687 as the first-half Odyssey voyage retelling. Created the source note, Trojan Horse, Polyphemus, Aeolus, Laestrygonians, Circe, Tiresias, Sirens, Scylla and Charybdis, Helios, Poseidon, Lotus Eaters, Homeric Nostos, Homeric Fantasy Geography, and Odyssean Leadership Trust Failure pages; updated The Odyssey, Odysseus, Calypso, The Rest Is History, Homeric Hospitality Test, Ancient Greek Honor Community, Epic Hero Human Limits, index, and overview. No settled contradiction found; the source qualifies Odysseus' heroic cunning by showing pride, crew mistrust, appetite, sleep, divine warning, and fantasy-geography danger repeatedly obstructing homecoming.
@@ -13260,6 +13264,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-29] ingest | How to Improve Your Memory & Cognitive Function at Any Age | Dr. Alan Castel
 
 Ingested the Huberman Lab episode with Alan Castel on reconstructive memory, active retrieval, desirable difficulty, eyewitness contamination, prospective memory, cognitive aging, and successful aging. Created the source note, Alan Castel, Reconstructive Memory, Prospective Memory, Cognitive Aging, and Successful Aging pages; updated Self-Testing Memory Practice, Desirable Difficulty, Memory Contamination Risk, Cognitive Resilience, index, and overview. No settled contradiction found; the raw source's Castel/Castell spelling tension, dementia/pathology examples, walking/balance claims, AI self-testing, and older-adult fraud discussion remain source-scoped.
+
+## [2026-08-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-29] lint | Wiki health check
 
