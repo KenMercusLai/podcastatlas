@@ -8,6 +8,7 @@ sources:
   - zizhi-tongjian-hanji-869-liying-weihe-bei-chengwei-tianxia-diyi-kaimo-lltckcioe1n9v91yy4c9vvwmz4mo
   - zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6
   - zizhi-tongjian-hanji-865-zhichang-boss-ye-rongyi-bei-zhezhong-ren-beici-ljfhfevljqnx6zceakjfbw5gwfma
+  - zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij
 last_updated: 2026-08-28
 knowledge_schema: synthesis-v1
 ---
@@ -18,7 +19,9 @@ Eunuch patronage violence shield / 宦官庇护下的地方暴行 is the late-Ha
 
 ## Current Synthesis
 
-The current synthesis now starts with a successful breach before the later successful reversal branches. In Hanji 865, [[HouCanLateHan|侯参]] relies on [[HouLanLateHan|侯览]]'s power while serving as Yizhou inspector, but [[YangBingLateHan|杨秉]] turns the corruption case into a precedent-backed impeachment of Hou Lan. [[EmperorHuanOfHan|汉桓帝]] removes Hou Lan after Yang Bing's side defeats the claim that palace eunuchs sit outside Three Excellencies oversight. This shows that the shield can be pierced when concrete evidence, senior office, and jurisdictional precedent align.
+The current synthesis now starts with a 160 CE reversal before the later breach and countercase layers. In Hanji 853, [[HouLanLateHan|侯览]] and [[DuanGuiLateHan|段珪]] have servants and guests who rob travelers near Jibei; [[TengYanLateHan|滕延]] executes dozens of them, but the protected side complains to [[EmperorHuanOfHan|汉桓帝]] and Teng Yan is dismissed. This makes the shield visible at the servant-and-retainer level before the later named-official cases.
+
+Hanji 865 then supplies a successful breach. [[HouCanLateHan|侯参]] relies on Hou Lan's power while serving as Yizhou inspector, but [[YangBingLateHan|杨秉]] turns the corruption case into a precedent-backed impeachment of Hou Lan. Huan removes Hou Lan after Yang Bing's side defeats the claim that palace eunuchs sit outside Three Excellencies oversight. This shows that the shield can be pierced when concrete evidence, senior office, and jurisdictional precedent align.
 
 Hanji 866 then shows the shield working in more familiar reversal form. In 165 CE, [[YangYuanqunLateHan|羊元群]] turns a corruption investigation against [[LiYingLateHan|李膺]] by bribing eunuchs, while [[LiuYouLateHan|刘祐]] is punished after trying to confiscate underpriced holdings acquired by [[SuKangLateHan|苏康]] and [[GuanBaLateHan|管霸]]. [[FengGunLateHan|冯绲]] supplies the legal-custody parallel: a protected relative's prison death becomes accusation against the official rather than ordinary review.
 
@@ -32,7 +35,7 @@ The concept is not just "corrupt official commits crime." Its distinctive mechan
 
 ## Key Claims
 
-- Local violence and corrupt acquisition become harder to punish when the offender, target, or surviving complainant can reach the palace.
+- Local violence and corrupt acquisition become harder to punish when the offender, patron, retainer, or surviving complainant can reach the palace.
 - The shield works through both physical shelter and privileged complaint channels.
 - The shield can protect property extraction as well as kinship violence.
 - The shield is not automatic; enforcement can survive if the ruler accepts the legal framing before the eunuch grievance controls interpretation.
@@ -42,6 +45,8 @@ The concept is not just "corrupt official commits crime." Its distinctive mechan
 
 ## Evidence
 
+- Servant-and-retainer reversal: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]] says Hou Lan and Duan Gui's servants and guests rob travelers near Jibei and Teng Yan executes dozens of them.
+- Complaint against enforcement: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]] says Hou Lan and Duan Gui complain to Emperor Huan, after which Teng Yan is sent to Luoyang and dismissed.
 - Precedent-backed breach: [[zizhi-tongjian-hanji-865-zhichang-boss-ye-rongyi-bei-zhezhong-ren-beici-ljfhfevljqnx6zceakjfbw5gwfma|Hanji 865]] says Yang Bing's impeachment of Hou Can becomes a successful pressure case against Hou Lan after the Three Excellencies' authority to impeach palace eunuchs is defended.
 - Concrete evidence against protection: [[zizhi-tongjian-hanji-865-zhichang-boss-ye-rongyi-bei-zhezhong-ren-beici-ljfhfevljqnx6zceakjfbw5gwfma|Hanji 865]] says Hou Can's corruption, suicide, and seized wealth make the household danger legible enough to force Hou Lan's removal.
 - Corruption-bribery reversal: [[zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6|Hanji 866]] says Yang Yuanqun's eunuch bribery makes Li Ying, the appointed investigator, become the punished party.
@@ -59,18 +64,19 @@ The concept is not just "corrupt official commits crime." Its distinctive mechan
 
 ## Counterevidence & Qualifications
 
-Hanji 865 and Hanji 869 are built-in qualifications. In Hanji 865, Yang Bing pierces the shield through a senior-minister jurisdiction argument; in Hanji 869, Zhang Shuo has eunuch-family shelter and Zhang Rang's complaint reaches the ruler, but Li Ying's enforcement still stands. The concept therefore tracks a risk mechanism, not an iron law. It remains grounded in the Hanji 865-872 source window and should not be generalized to every eunuch relationship or every late-Han local crime. The later Zhang Jian and Hou Lan pages cover 169 CE accusation and flight under Emperor Ling; this concept tracks the enforcement-inversion mechanism, not a complete chronology of every subsequent party-prohibition consequence.
+Hanji 865 and Hanji 869 are built-in qualifications. In Hanji 865, Yang Bing pierces the shield through a senior-minister jurisdiction argument; in Hanji 869, Zhang Shuo has eunuch-family shelter and Zhang Rang's complaint reaches the ruler, but Li Ying's enforcement still stands. The concept therefore tracks a risk mechanism, not an iron law. It remains grounded in the Hanji 853-872 source window and should not be generalized to every eunuch relationship or every late-Han local crime. The later Zhang Jian and Hou Lan pages cover 169 CE accusation and flight under Emperor Ling; this concept tracks the enforcement-inversion mechanism, not a complete chronology of every subsequent party-prohibition consequence.
 
 ## What Changed
 
-- Hanji 865 adds a successful breach of eunuch protection through Yang Bing's Hou Can and Hou Lan impeachment.
-- The concept now distinguishes shield risk from inevitability: concrete evidence and senior-minister jurisdiction can temporarily overcome palace protection.
-- The existing Yang Yuanqun, Liu You, Su Kang, Guan Ba, and Feng Gun evidence still supplies the successful reversal pattern.
+- Hanji 853 adds an earlier 160 CE servant-and-retainer reversal through Hou Lan, Duan Gui, and Teng Yan.
+- Hanji 865 remains the successful breach of eunuch protection through Yang Bing's Hou Can and Hou Lan impeachment.
+- The concept now distinguishes shield risk from inevitability while widening the protected actor set from officeholders to servants and guests.
 
 ## Related Concepts
 
 - [[PalaceAccessMonopoly|宫廷接触垄断]] - access structure that lets eunuch grievance or document interception shape what the ruler sees.
 - [[ThreeExcellenciesInnerCourtJurisdiction|三公监察内廷职权]] - jurisdictional counter-mechanism that can pierce the shield in a bounded case.
+- [[TengYanLateHan|滕延]] - early local official whose enforcement against protected retainers is reversed.
 - [[CourtFeedbackCollapse|君臣反馈失灵]] - feedback failure that turns valid enforcement and remonstrance into danger for the speaker.
 - [[PartyNetworkTreasonFraming|朋党网络谋反化]] - later hostile framing pattern that turns association into court danger after this enforcement prelude.
 - [[QingyiReputationPressure|清议声誉压力]] - informal public judgment field that pressures officials before protected complaint channels punish enforcers.

@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-28
-as_of_overview_commit: 3cc212e075d4c0e483709f796ce45734234ede67
-summary: "Podcast Atlas maps capability through one test: institutions, incentives, evidence, trust, and judgment must hold before value or power becomes durable."
-episode_count: 1612
-source_count: 1612
-paragraph_count: 322
+as_of_overview_commit: cfcc78508264b80bf2537c76834fcd494fb48afa
+summary: "Podcast Atlas tests capability through implementation: institutions, incentives, evidence, trust, exposure, and judgment decide durable value or power."
+episode_count: 1614
+source_count: 1614
+paragraph_count: 323
 topic_count: 8
 ---
 
@@ -77,7 +77,7 @@ Science, health, and climate claims need evidence boundaries, clinical context, 
 
 ### Work, Education, and Society
 
-Work and education shift through foundations, practice, ownership, verification, role design, human judgment, and institutional context; capability claims only matter when implemented.
+Work and education shift through foundations, practice, ownership, verification, role design, human judgment, institutional context, and exposure; capability claims only matter when implemented.
 
 - AI and automation change work only when they reorganize production roles, workflows, and review responsibilities, from [[AIVideoProductionWorkflow]] and [[RollingAI]] to [[HeadlessSoftware]], [[Paperboy]], and [[HumanJudgmentUnderAI]]. Evidence: [[AIVideoProductionWorkflow]], [[JiaZhangke]], [[FilmRealityBeyondRealism]], [[LiveActionFilmUnderAI]], [[CreativeLaborAIBacklash]], [[AIPublicLikenessGeneration]], [[AITrainingCopyrightDispute]], [[AIEnergyBottleneck]], [[RollingAI]], [[HeadlessSoftware]], [[Paperboy]], [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].
 - Workplace AI readiness depends on ownership, baselines, training, and role-specific workflows: [[WorkplaceAIReadinessGap]], [[Microsoft365CopilotAdoption]], [[AIAdoptionBaselineMeasurement]], [[AIOperationsRole]], [[FrontlineAIEnablement]], and [[HumanJudgmentUnderAI]] show that license access or worker experimentation is not enough. Evidence: [[WorkplaceAIReadinessGap]], [[Microsoft365CopilotAdoption]], [[AIAdoptionBaselineMeasurement]], [[AIOperationsRole]], [[FrontlineAIEnablement]], [[HumanJudgmentUnderAI]], [[ShadowAI]], [[BusinessLedAITransformation]], [[JimSpignardo]], [[Proarc]], [[ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise]].

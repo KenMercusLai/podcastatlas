@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 8069
+wiki_total_pages: 8078
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1448,6 +1448,9 @@ wiki_pages:
   - key: "ShifenXiyin"
     title: "十分吸引 / Shifen Xiyin"
     url: "/wiki/entities/shifenxiyin/"
+  - key: "ShanChaoLateHan"
+    title: "单超 / Shan Chao (late Han eunuch)"
+    url: "/wiki/entities/shanchaolatehan/"
   - key: "SouthernXiongnu"
     title: "南匈奴 / Southern Xiongnu"
     url: "/wiki/entities/southernxiongnu/"
@@ -1556,6 +1559,9 @@ wiki_pages:
   - key: "SunXiaLateHan"
     title: "孙夏 / Sun Xia (late Han)"
     url: "/wiki/entities/sunxialatehan/"
+  - key: "SunSongLateHan"
+    title: "孙嵩 / Sun Song (late Han)"
+    url: "/wiki/entities/sunsonglatehan/"
   - key: "SunZhonghuai"
     title: "孙忠怀 / Sun Zhonghuai"
     url: "/wiki/entities/sunzhonghuai/"

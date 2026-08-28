@@ -17919,6 +17919,10 @@
     "title": "500 Startups",
     "url": "/wiki/entities/fivehundredstartups/"
   },
+  "FiveMarquisesHuanEra": {
+    "title": "桓帝五侯 / Five Marquises of Emperor Huan's reign",
+    "url": "/wiki/entities/fivemarquiseshuanera/"
+  },
   "FiveTechniques": {
     "title": "Five Techniques",
     "url": "/wiki/concepts/fivetechniques/"
@@ -28719,6 +28723,10 @@
     "title": "李文侯 / Li Wenhou (late Han)",
     "url": "/wiki/entities/liwenhoulatehan/"
   },
+  "LiWenjiLateHan": {
+    "title": "李文姬 / Li Wenji (late Han)",
+    "url": "/wiki/entities/liwenjilatehan/"
+  },
   "LiWuya": {
     "title": "李乌鸦",
     "url": "/wiki/entities/liwuya/"
@@ -28830,6 +28838,10 @@
   "LiangHuiWang": {
     "title": "梁惠王 / King Hui of Liang",
     "url": "/wiki/entities/lianghuiwang/"
+  },
+  "LiangJiLateHan": {
+    "title": "梁冀 / Liang Ji (late Han)",
+    "url": "/wiki/entities/liangjilatehan/"
   },
   "LiangJianzhang": {
     "title": "Liang Jianzhang",
@@ -43559,6 +43571,10 @@
     "title": "山冰 / Shan Bing (late Han)",
     "url": "/wiki/entities/shanbinglatehan/"
   },
+  "ShanChaoLateHan": {
+    "title": "单超 / Shan Chao (late Han eunuch)",
+    "url": "/wiki/entities/shanchaolatehan/"
+  },
   "ShanHeGuRen": {
     "title": "《山河故人》 / Mountains May Depart",
     "url": "/wiki/entities/shanheguren/"
@@ -46691,6 +46707,10 @@
     "title": "孙胜 / Sun Sheng (Eastern Jin)",
     "url": "/wiki/entities/sunshengeasternjin/"
   },
+  "SunSongLateHan": {
+    "title": "孙嵩 / Sun Song (late Han)",
+    "url": "/wiki/entities/sunsonglatehan/"
+  },
   "SunWukong": {
     "title": "孙悟空",
     "url": "/wiki/entities/sunwukong/"
@@ -47419,6 +47439,10 @@
     "title": "汤晓鸥 / Tang Xiao'ou",
     "url": "/wiki/entities/tangxiaoou/"
   },
+  "TangXuanLateHan": {
+    "title": "唐玹 / Tang Xuan (late Han)",
+    "url": "/wiki/entities/tangxuanlatehan/"
+  },
   "TangYing": {
     "title": "Tang Ying / 唐英",
     "url": "/wiki/entities/tangying/"
@@ -47870,6 +47894,10 @@
   "TengState": {
     "title": "滕国 / Teng State",
     "url": "/wiki/entities/tengstate/"
+  },
+  "TengYanLateHan": {
+    "title": "滕延 / Teng Yan (late Han)",
+    "url": "/wiki/entities/tengyanlatehan/"
   },
   "Tennessee": {
     "title": "Tennessee",
@@ -51058,6 +51086,10 @@
   "WangChaoyun": {
     "title": "王朝云 / Wang Chaoyun",
     "url": "/wiki/entities/wangchaoyun/"
+  },
+  "WangChengLiGuStudent": {
+    "title": "王成 / Wang Cheng (Li Gu student)",
+    "url": "/wiki/entities/wangchengligustudent/"
   },
   "WangChuo": {
     "title": "王绰 / Wang Chuo",
@@ -56687,6 +56719,10 @@
     "title": "左悺 / Zuo Guan (late Han eunuch)",
     "url": "/wiki/entities/zuoguanlatehan/"
   },
+  "ZuoShengLateHan": {
+    "title": "左胜 / Zuo Sheng (late Han)",
+    "url": "/wiki/entities/zuoshenglatehan/"
+  },
   "ZuoShuang": {
     "title": "左爽 / Zuo Shuang",
     "url": "/wiki/entities/zuoshuang/"
@@ -60510,6 +60546,10 @@
   "zizhi-tongjian-hanji-852-dang-meinv-ruyun-shi-fu-haishi-huo-luml30ytbc-awpvk-7-23ehzbqpx": {
     "title": "《资治通鉴·汉纪》852丨当美女如云，是福还是 “祸”？",
     "url": "/wiki/sources/zizhi-tongjian-hanji-852-dang-meinv-ruyun-shi-fu-haishi-huo-luml30ytbc-awpvk-7-23ehzbqpx/"
+  },
+  "zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij": {
+    "title": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿”",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij/"
   },
   "zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um": {
     "title": "《资治通鉴·汉纪》854丨历史告诉你：选官用官很重要！",

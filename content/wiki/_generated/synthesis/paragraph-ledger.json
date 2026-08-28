@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "017b81fbb9c9fa7892ac971f5956bc964404afdac15893b5b3d32932ff0e786d",
       "ae1d37ee8809736dac7fd7e1a14c070e392abacaee133c141aea0f1d3f8f7802",
       "b43ba7cb4ae5ef2982410a18110a3db1dabe28f25af98cd941fa6bd84437bc88",
       "b7d227f34bd447800f7c15293cda81af8f70b38685399e1a4c004367452b1d39",
@@ -324,11 +325,47 @@
       "ffc63951f0c9ebb1bdb0d92982d5f65f57bbe4a7f7a359f38dcd33423bb288c2",
       "41cadfb91ef6894bc7d9cd5c4e55012480b0225b71a6a027d18e9565e8357c0c"
     ],
-    "paragraph_count": 322
+    "paragraph_count": 323
   },
-  "overview_commit": "2ba4612c6f1041dff66e15c21c1d03a3683b8fbf",
-  "overview_digest": "dad6d912b335c7f8b89e75ace3b828c045dcdd05a5536d3c7cfb27dddd714af9",
+  "overview_commit": "cfcc78508264b80bf2537c76834fcd494fb48afa",
+  "overview_digest": "8d4fa2f06020c27ecd4d36b2462b51ad5591cd5b5e6908edfe26b3f58d024000",
   "paragraphs": [
+    {
+      "id": "017b81fbb9c9fa7892ac971f5956bc964404afdac15893b5b3d32932ff0e786d",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿”]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 160 CE [[EmperorHuanOfHan|汉桓帝]] layer between [[zizhi-tongjian-hanji-852-dang-meinv-ruyun-shi-fu-haishi-huo-luml30ytbc-awpvk-7-23ehzbqpx|Hanji 852]] and [[zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um|Hanji 854]]. It adds [[LiWenjiLateHan|李文姬]], [[WangChengLiGuStudent|王成]], [[LiangJiLateHan|梁冀]], [[FiveMarquisesHuanEra|桓帝五侯]], [[ShanChaoLateHan|单超]], [[ZuoShengLateHan|左胜]], [[TengYanLateHan|滕延]], [[TangXuanLateHan|唐玹]], and [[SunSongLateHan|孙嵩]], while extending [[LiGuLateHan|李固]], [[LiXieLateHan|李燮]], [[EmperorHuanOfHan|汉桓帝]], [[HouLanLateHan|侯览]], [[DuanGuiLateHan|段珪]], [[ZhaoQiLateHan|赵岐]], [[ZuoGuanLateHan|左悺]], [[TangHengLateHan|唐衡]], [[EunuchPatronageViolenceShield|宦官庇护下的地方暴行]], and [[FugitiveShelterCollateralRisk|收留逃亡者的牵连风险]]. Its core synthesis is that 160 CE pairs limited post-Liang repair with continuing favorite-power damage: Huan searches for Li Gu's descendants and Li Xie survives through concealed kinship and student loyalty, but eunuch-marquis reward, protected servants, complaint-channel reversal, and Tang-family retaliation still push local officials into dismissal, death, flight, and hidden shelter. No settled contradiction is recorded; the episode normalizes several ASR names while keeping minor Li sons, Zhao Boying, and Qiang/place details source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "DuanGuiLateHan",
+        "EmperorHuanOfHan",
+        "EunuchPatronageViolenceShield",
+        "FiveMarquisesHuanEra",
+        "FugitiveShelterCollateralRisk",
+        "HouLanLateHan",
+        "LiGuLateHan",
+        "LiWenjiLateHan",
+        "LiXieLateHan",
+        "LiangJiLateHan",
+        "RuiqiJiangtouZizhiTongjian",
+        "ShanChaoLateHan",
+        "SunSongLateHan",
+        "TangHengLateHan",
+        "TangXuanLateHan",
+        "TengYanLateHan",
+        "WangChengLiGuStudent",
+        "ZhaoQiLateHan",
+        "ZuoGuanLateHan",
+        "ZuoShengLateHan",
+        "zizhi-tongjian-hanji-852-dang-meinv-ruyun-shi-fu-haishi-huo-luml30ytbc-awpvk-7-23ehzbqpx",
+        "zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij",
+        "zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um"
+      ]
+    },
     {
       "id": "ae1d37ee8809736dac7fd7e1a14c070e392abacaee133c141aea0f1d3f8f7802",
       "primary_topic": "governance-and-institutions",

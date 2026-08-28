@@ -14,6 +14,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Accelerate Learning & Increase Cognitive Capacity | Dr. Tommy Wood](sources/accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551.md) — Huberman Lab episode with Tommy Wood on adult neuroplasticity, multimodal learning, flow versus clutch states, exercise-specific brain adaptation, nutrient sufficiency, dementia prevention, and concussion recovery.
 - [VOL.214 为什么越优秀的人，越容易在职场被PUA到怀疑自己？从《铁拳教育》聊到“铁拳职场”](sources/vol-214-weishenme-yue-youxiu-de-ren-yue-rongyi-zai-zhichang-bei-pua-dao-huaiyi-ziji-cong-tiequan-jiaoyu-liaodao-tiequan-zhichang-lmx4ewrw7kvcqpyh-q3bur35ybgz.md) — 这病说来话长 episode with 阿汤 and 南基贺 on 《铁拳教育》, workplace bullying, structural power imbalance, parental projection, psychological boundaries, evidence preservation, and nonviolent complaint/support routes.
 - [《资治通鉴·汉纪》852丨当美女如云，是福还是 “祸”？](sources/zizhi-tongjian-hanji-852-dang-meinv-ruyun-shi-fu-haishi-huo-luml30ytbc-awpvk-7-23ehzbqpx.md) — 芮淇讲透资治通鉴 episode on Emperor Huan's 159 CE post-Liang favor rewards, Chen Fan's harem-cost remonstrance, Yuan Hong's middle-ruler critique, Deng Wanshi's palace intimacy, and withdrawal after ignored omen-coded counsel.
+- [《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿”](sources/zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij.md) — 芮淇讲透资治通鉴 episode on Li Gu's family disaster, Li Wenji and Wang Cheng hiding Li Xie, Shan Chao's burial and the Five Marquises' indulgence, Hou Lan/Duan Gui's protected retainers, Teng Yan's dismissal, and Zhao Qi's flight and shelter.
 - [《资治通鉴·汉纪》854丨历史告诉你：选官用官很重要！](sources/zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um.md) — 芮淇讲透资治通鉴 episode on 160-161 CE appointment quality, Duan Jiong's Qiang pursuit, Xia Fang and Huangfu Gui's pacification work, Liu Ju's Yongqiu mediation, disasters, and rank-sale finance.
 - [《资治通鉴·汉纪》855丨你有多无情，就有多强大](sources/zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1.md) — 芮淇讲透资治通鉴 episode on boundary-strength framing, Liu Chong's Kuaiji governance, Guo Hong's obstruction of Duan Jiong, Hu Hong's failed Qiang command, and Huangfu Gui's root-cause frontier diagnosis before Hanji 856.
 - [《资治通鉴·汉纪》856丨历史告诉你：人若心乱，阵脚自乱](sources/zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks.md) — 芮淇讲透资治通鉴 episode on Huangfu Gui's 162 CE Qiang pacification, southern Jingzhou command collapse, Li Su's killing of Hu Shuang, and Feng Gun's campaign with Ying Feng.
@@ -1756,7 +1757,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [李暠 / Li Gao (Runan administrator)](entities/LiGaoRunanLateHan.md) — Former Runan administrator whose daughter is killed in the Xu Xuan case.
 - [刘茂 / Liu Mao (late Han)](entities/LiuMaoLateHan.md) — Huan-era official whose bounded roles now include a Taichang-to-sikong appointment notice and later contrast as Chen Fan's co-remonstrant who retreats under pressure.
 - [徐璜 / Xu Huang (late Han eunuch)](entities/XuHuangLateHan.md) — Late-Han eunuch whose bounded roles now include reward-channel pressure on Huangfu Gui and kinship complaint shielding Xu Xuan.
-- [左悺 / Zuo Guan (late Han eunuch)](entities/ZuoGuanLateHan.md) — Late-Han eunuch paired with Xu Huang in gift-solicitation pressure around Huangfu Gui's military reward.
+- [左悺 / Zuo Guan (late Han eunuch)](entities/ZuoGuanLateHan.md) — Huan-era eunuch marquis whose bounded roles include Zuo Sheng's local-office pressure on Zhao Qi and reward-gatekeeping around Huangfu Gui.
+- [桓帝五侯 / Five Marquises of Emperor Huan's reign](entities/FiveMarquisesHuanEra.md) — Huan-era eunuch-reward group whose status connects Shan Chao's lavish burial, remaining-marquis indulgence, local predation, and eunuch-family office pressure.
+- [单超 / Shan Chao (late Han eunuch)](entities/ShanChaoLateHan.md) — Huan-era eunuch marquis whose lavish imperial burial frames the remaining Five Marquises' intensified indulgence.
+- [左胜 / Zuo Sheng (late Han)](entities/ZuoShengLateHan.md) — Zuo Guan's brother and Hedong superior whose office causes Zhao Qi to resign rather than serve under him.
 - [徐宣 / Xu Xuan (late Han magistrate)](entities/XuXuanLateHan.md) — Xiapi magistrate whose failed concubine demand escalates into household killing.
 - [周福 / Zhou Fu (late Han)](entities/ZhouFuLateHan.md) — Ganling teacher-official whose promotion after teaching Emperor Huan becomes one pole of an early party-line rivalry.
 - [房植 / Fang Zhi (late Han)](entities/FangZhiLateHan.md) — Ganling official whose reputation for standards becomes the rival pole to Zhou Fu's imperial-teacher advancement.
@@ -1909,7 +1913,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [疏勒 / Shule Kingdom](entities/ShuleKingdom.md) — Western Regions kingdom whose successful resistance to Meng Tuo exposes office without matching command capacity.
 - [汉明帝 / Emperor Ming of Han](entities/EmperorMingOfHan.md) — Eastern Han emperor used by Hanji 899 as the filial precedent behind Guangwu Yuanling tomb-sacrifice practice.
 - [胡广 / Hu Guang (late Han)](entities/HuGuangLateHan.md) — Late-Han senior official whose six-reign service, institutional knowledge, mildness, and non-offense make Hanji 900's moderation-based survival case.
-- [侯览 / Hou Lan (late Han)](entities/HouLanLateHan.md) — Late-Han eunuch whose complaint channel punishes Cheng Jin and Liu Zhi before his Zhang Jian retaliation chain and later office-removal suicide.
+- [侯览 / Hou Lan (late Han)](entities/HouLanLateHan.md) — Late-Han eunuch whose profile now starts with a 160 CE protected-servant and Teng Yan reversal before later impeachment, Zhang Jian retaliation, and office-removal suicide.
+- [滕延 / Teng Yan (late Han)](entities/TengYanLateHan.md) — Jibei official dismissed after executing violent servants and guests tied to Hou Lan and Duan Gui.
 - [侯参 / Hou Can (late Han)](entities/HouCanLateHan.md) — Yizhou inspector whose corruption notice and suicide become Yang Bing's pressure case against Hou Lan.
 - [李贤 / Li Xian (taiwei, late Han)](entities/LiXianTaiweiLateHan.md) — Ill taiwei who risks death in Hanji 901 to argue that Empress Dowager Dou should be buried with Emperor Huan; distinct from 李暹 / Li Xian.
 - [邓皇后 / Empress Deng (Huan-era)](entities/EmpressDengHuanLateHan.md) — Emperor Huan empress whose rivalry with Guo Guiren ends in deposition and death before the later Tian Sheng and Dou Miao branch.
@@ -1917,7 +1922,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [郭贵人 / Guo Guiren (Huan-era)](entities/GuoGuirenHuanLateHan.md) — Emperor Huan consort who outlasts Empress Deng but loses favor, showing palace victory without stable protection.
 - [窦妙 / Empress Dowager Dou Miao](entities/EmpressDowagerDouMiao.md) — Late-Han empress dowager whose profile runs from formal selection over Tian Sheng through child accession, seizure, confinement, later support, and disputed burial.
 - [董萌 / Dong Meng (late Han)](entities/DongMengLateHan.md) — Huangmenling who speaks for Empress Dowager Dou Miao before Cao Jie and Wang Fu recode the Dou grievance into a fatal accusation.
-- [汉桓帝 / Emperor Huan of Han](entities/EmperorHuanOfHan.md) — Late-Han emperor whose profile now begins with 159 CE post-Liang favor rewards, harem burden, partial correction, and Yuan Hong's companion-choice warning before later feedback failures, harem coercion, childless death, and posthumous memory.
+- [汉桓帝 / Emperor Huan of Han](entities/EmperorHuanOfHan.md) — Late-Han emperor whose profile now begins with 159-160 CE post-Liang favor rewards, limited Li Gu repair, eunuch-marquis honor, enforcement reversal, and later feedback failures.
 - [朱穆 / Zhu Mu (late Han)](entities/ZhuMuLateHan.md) — Huan-era shangshu whose anti-eunuch remonstrance argues for restoring non-eunuch attendant offices before palace retaliation shows the limits of righteous advice.
 - [襄楷 / Xiang Kai (late Han)](entities/XiangKaiLateHan.md) — Late-Han remonstrant who criticizes Emperor Huan through stars, disasters, Yellow River signs, succession pressure, eunuch favor, and Buddhist-Daoist restraint language.
 - [田胜 / Tian Sheng (late Han)](entities/TianShengLateHan.md) — Emperor Huan favorite whose blocked empress elevation, name variant 田圣, and post-Huan execution show the fragility of palace favor without formal protection.
@@ -2080,7 +2085,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [桥玄 / Qiao Xuan (late Han)](entities/QiaoXuanLateHan.md) — Senior late-Han official whose endorsement and Xu Shao referral help Cao Cao convert elite recognition into reputation.
 - [曹腾 / Cao Teng (late Han)](entities/CaoTengLateHan.md) — Eunuch adoptive grandfather in Cao Cao's family background, anchoring the label Cao Cao tries to offset through anti-eunuch signaling.
 - [司马防 / Sima Fang (late Han)](entities/SimaFangLateHan.md) — Late-Han official who recommends nineteen-year-old Cao Cao for Luoyang north commandant after the Qiao Xuan/Xu Shao reputation step.
-- [唐衡 / Tang Heng (late Han)](entities/TangHengLateHan.md) — Eunuch whose family network explains Tang Zhen's sikong appointment and links late-Han office access to eunuch-linked marriage and patronage.
+- [唐衡 / Tang Heng (late Han)](entities/TangHengLateHan.md) — Huan-era eunuch marquis whose network spans Tang Xuan's retaliation against Zhao Qi, Tang Zhen's sikong appointment, and Xun Yu marriage linkage.
+- [唐玹 / Tang Xuan (late Han)](entities/TangXuanLateHan.md) — Tang Heng's brother and Jingzhao official whose private hostility destroys Zhao Qi's family and drives Zhao Qi into hiding.
 - [唐珍 / Tang Zhen (late Han)](entities/TangZhenLateHan.md) — Tang Heng's younger brother, appointed sikong in Hanji 904 amid disaster-driven senior-office churn.
 - [贾从 / Jia Cong (late Han)](entities/JiaCongLateHan.md) — Late-Han official who pacifies Jiaozhi by investigating extraction, relieving burdens, reassuring displaced people, and appointing clean local officials.
 - [交趾郡 / Jiaozhi Commandery](entities/JiaozhiCommandery.md) — Southern commandery in today's northern Vietnam/Red River region, source case for the 181 Wuhu Man/Liang Long rebellion, Zhu Jun's rapid suppression, and later Jia Cong root-cause pacification.
@@ -2090,8 +2096,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张梁 / Zhang Liang (Yellow Turban)](entities/ZhangLiangYellowTurban.md) — Yellow Turban leader killed by Huangfu Song at Guangzong in Hanji 929, disambiguated from Zhang Liang the early-Han strategist.
 - [张宝 / Zhang Bao (Yellow Turban)](entities/ZhangBaoYellowTurban.md) — Zhang Jiao's brother killed by Huangfu Song at Quyang in Hanji 929, disambiguated from Zhang Bao / 张苞 in the Li-Guo branch.
 - [刘续 / Liu Xu (Anping Wang)](entities/LiuXuAnpingPrince.md) — Anping prince whose restoration Li Xie opposed before Liu Xu was executed and the state abolished.
-- [李燮 / Li Xie (late Han)](entities/LiXieLateHan.md) — Yilang punished for opposing Liu Xu's restoration and later vindicated after Liu Xu's execution.
-- [李固 / Li Gu (late Han)](entities/LiGuLateHan.md) — Li Xie's father, remembered for opposing Emperor Huan's accession and preferring Liu Suan.
+- [李燮 / Li Xie (late Han)](entities/LiXieLateHan.md) — Li Gu's hidden surviving son and later yilang punished before being vindicated for opposing Liu Xu's restoration.
+- [李固 / Li Gu (late Han)](entities/LiGuLateHan.md) — Late-Han official whose family disaster and contested-accession memory shape Li Xie's survival and later judgment.
+- [李文姬 / Li Wenji (late Han)](entities/LiWenjiLateHan.md) — Li Gu's daughter and Li Xie's sister who hides Li Xie, entrusts him to Wang Cheng, and teaches post-return restraint.
+- [王成 / Wang Cheng (Li Gu student)](entities/WangChengLiGuStudent.md) — Li Gu's student who carries Li Xie into Xuzhou, manages a hidden identity, and receives Li Xie's later ritual repayment.
+- [梁冀 / Liang Ji (late Han)](entities/LiangJiLateHan.md) — Powerful late-Han figure whose conflict with Li Gu creates the Li-family disaster and whose fall opens Li Xie's return window.
 - [刘蒜 / Liu Suan (late Han)](entities/LiuSuanLateHan.md) — Imperial-clan alternative invoked in Li Gu's earlier succession stance.
 - [苏正和 / Su Zhenghe (late Han)](entities/SuZhengheLateHan.md) — Liangzhou official whose anti-corruption report Gai Xun protects despite personal dislike.
 - [梁鹄 / Liang Hu (late Han)](entities/LiangHuLateHan.md) — Hongdu-associated calligrapher admired in later tradition by Cao Cao and later Liangzhou inspector whom Gai Xun stops from killing Su Zhenghe.
@@ -2183,7 +2192,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [十常侍 / Ten Attendants (late Han)](entities/TenAttendantsLateHan.md) — Late-Han eunuch faction whose protected palace access, He-family ties, counter-killing, and later destruction drive the Hanji 944-946 collapse.
 - [张让 / Zhang Rang (late Han)](entities/ZhangRangLateHan.md) — Eunuch favorite whom Hanji 898 places inside Emperor Ling's "father" language before later palace-finance extraction, anti-Huangfu Song slander, palace counterattack, forged orders, and flight.
 - [张硕 / Zhang Shuo (late Han)](entities/ZhangShuoLateHan.md) — Zhang Rang's brother and Yewang magistrate whose execution by Li Ying becomes an early eunuch-protection countercase.
-- [段珪 / Duan Gui (late Han)](entities/DuanGuiLateHan.md) — Eunuch faction figure, transcript variant 段规, who helps trap He Jin, seize the dowager and imperial boys, and flee toward Xiaopingjin.
+- [段珪 / Duan Gui (late Han)](entities/DuanGuiLateHan.md) — Late-Han eunuch whose profile now links 160 CE protected-retainer complaint power with the later 189 CE palace-crisis flight.
 - [渠穆 / Qu Mu (late Han)](entities/QuMuLateHan.md) — Zhang Rang-side follower who kills He Jin inside the palace in Hanji 946.
 - [吴匡 / Wu Kuang (late Han)](entities/WuKuangLateHan.md) — He Jin-side military actor who leads retaliation after He Jin's death and kills He Miao with Dong Min.
 - [张璋 / Zhang Zhang (late Han)](entities/ZhangZhangLateHan.md) — He Jin-side actor who joins Wu Kuang and Yuan Shu in the palace gate assault after He Jin's killing.
@@ -2850,7 +2859,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [王昌 / Wang Chang (late Han)](entities/WangChangLateHan.md) — Huben warrior sent to pursue Huangfu Li who spares him after recognizing his loyalty and uprightness.
 - [薛兰 / Xue Lan (late Han)](entities/XueLanLateHan.md) — Lü Bu-side commander killed by Cao Cao at Juye before the Yanzhou recovery branch continues.
 - [李封 / Li Feng (late Han)](entities/LiFengLateHan.md) — Lü Bu-side commander killed with Xue Lan, triggering Lü Bu's rescue move and Cao Cao's ambush.
-- [赵岐 / Zhao Qi (late Han)](entities/ZhaoQiLateHan.md) — Official who persuades Liu Biao to send troops, supplies, and grain for Emperor Xian's Luoyang return.
+- [赵岐 / Zhao Qi (late Han)](entities/ZhaoQiLateHan.md) — Late-Han survivor of Tang Xuan's family-destruction retaliation who later mediates Qingzhou and persuades Liu Biao to support Emperor Xian's court.
+- [孙嵩 / Sun Song (late Han)](entities/SunSongLateHan.md) — Anqiu shelterer who recognizes and hides the disguised Zhao Qi after Tang Xuan's retaliation.
 - [何仪 / He Yi (late Han)](entities/HeYiLateHan.md) — Runan-Yingchuan Yellow Turban remnant leader defeated by Cao Cao before joining Yuan Shu.
 - [陶谦 / Tao Qian (late Han)](entities/TaoQianLateHan.md) — Former Xuzhou governor whose role spans the contested Cao Song killing, Cao Cao's revenge campaign, the Liu Bei handoff, and old subordinate Cao Bao.
 - [曹豹 / Cao Bao (late Han)](entities/CaoBaoLateHan.md) — Former Tao Qian subordinate killed by Zhang Fei at Xiapi, triggering disorder that lets Lü Bu enter.
@@ -9843,7 +9853,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Catholic Burial Legitimacy](concepts/CatholicBurialLegitimacy.md) — Problem of making a politically important death eligible for Catholic rites when suicide threatens burial legitimacy.
 - [Dynastic Heir Loss Shock](concepts/DynasticHeirLossShock.md) — Succession disruption created when a ruling house abruptly loses the expected direct heir.
 - [Fin-de-Siecle Vienna Crisis Reading](concepts/FinDeSiecleViennaCrisisReading.md) — Interpretation of Mayerling through late nineteenth-century Viennese culture, inner-life language, and Habsburg decline.
-- [Eunuch Patronage Violence Shield / 宦官庇护下的地方暴行](concepts/EunuchPatronageViolenceShield.md) — Pattern where eunuch access or complaint channels shield corruption, property extraction, or local violence and can turn enforcement against enforcers.
+- [Eunuch Patronage Violence Shield / 宦官庇护下的地方暴行](concepts/EunuchPatronageViolenceShield.md) — Pattern where eunuch access or complaint channels shield corruption, property extraction, servants, guests, or local violence and can turn enforcement against enforcers.
 - [Open Source AI Ban Risk](concepts/OpenSourceAIBanRisk.md) — Risk that model-provenance or national-security concerns become broad restrictions on open-weight AI models.
 - [Token Tax On AI](concepts/TokenTaxOnAI.md) — Enterprise cost penalty created when policy pushes buyers away from cheaper open models and toward closed APIs.
 - [AI Output Training Symmetry](concepts/AIOutputTrainingSymmetry.md) — Consistency problem between AI labs' fair-use claims for human works and objections to competitors training on model outputs.
@@ -10368,7 +10378,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Moral Slander Reframing / 道德诬陷焦点转移](concepts/MoralSlanderReframing.md) — Hanji 154 pattern in which Chen Ping and Wei Wuzhi answer a private moral smear by returning Liu Bang to evidence, role, and useful talent.
 - [Political Survival First / 安全第一政治生存](concepts/PoliticalSurvivalFirst.md) — Frame for treating self-preservation, leader exposure, host-risk reading, factional non-prosecution, staged alignment, alliance blocking, adviser exit, and timing as political disciplines.
 - [Crisis Withdrawal Self-Protection / 危局抽身自保](concepts/CrisisWithdrawalSelfProtection.md) — Late-Han pattern where actors preserve life and moral autonomy by lowering exposure, guarded speech, withdrawal, or avoiding contacts who would become collateral targets.
-- [Fugitive Shelter Collateral Risk / 收留逃亡者的牵连风险](concepts/FugitiveShelterCollateralRisk.md) — Zhang Jian pattern where sheltering a politically pursued person transfers danger to hosts, kin, friends, local officials, and helpers.
+- [Fugitive Shelter Collateral Risk / 收留逃亡者的牵连风险](concepts/FugitiveShelterCollateralRisk.md) — Pattern where hiding a politically pursued person can save them but transfer danger to hosts, kin, friends, local officials, and helpers.
 - [望门投止 / Wangmen Touzhi](concepts/WangmenTouzhi.md) — Idiom-memory branch from Zhang Jian's flight, preserving desperate refuge-seeking while exposing the route-level and host-side collateral risk.
 - [Lü Bu Factional Balance / 吕布集团派系平衡](concepts/LyuBuFactionalBalance.md) — Late-Han command pattern whose Yanzhou gentry channel begins in the anti-Cao coalition and later constrains Lü Bu after Hao Meng's revolt.
 - [Second-in-Command Role Fit / 二把手角色适配](concepts/SecondInCommandRoleFit.md) — Liu Bang and Chen Ping frame for using high-ability covert operators heavily while bounding their independent authority.

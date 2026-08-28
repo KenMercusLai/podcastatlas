@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 8069
+wiki_total_pages: 8078
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1049,6 +1049,9 @@ wiki_pages:
   - key: "TangTao"
     title: "唐涛 / 唐唐 / Tang Tao"
     url: "/wiki/entities/tangtao/"
+  - key: "TangXuanLateHan"
+    title: "唐玹 / Tang Xuan (late Han)"
+    url: "/wiki/entities/tangxuanlatehan/"
   - key: "TangZhenLateHan"
     title: "唐珍 / Tang Zhen (late Han)"
     url: "/wiki/entities/tangzhenlatehan/"
@@ -1145,6 +1148,9 @@ wiki_pages:
   - key: "TengState"
     title: "滕国 / Teng State"
     url: "/wiki/entities/tengstate/"
+  - key: "TengYanLateHan"
+    title: "滕延 / Teng Yan (late Han)"
+    url: "/wiki/entities/tengyanlatehan/"
   - key: "TeteFei"
     title: "特特飞"
     url: "/wiki/entities/tetefei/"

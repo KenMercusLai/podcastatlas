@@ -2,18 +2,53 @@
 title: "唐衡 / Tang Heng (late Han)"
 type: entity
 tags: [person, eunuch, late-han, appointments, family-network]
-sources: [zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2]
-last_updated: 2026-08-26
+sources:
+  - zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2
+  - zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij
+last_updated: 2026-08-28
+knowledge_schema: synthesis-v1
 ---
 
-# 唐衡 / Tang Heng (late Han)
+## Overview
 
-唐衡 / Tang Heng enters the wiki through [[zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2|Hanji 904]] as a eunuch whose family network helps explain [[TangZhenLateHan|唐珍]]'s appointment as sikong in 173 CE. The episode says Tang Heng was one of the eunuch figures rewarded after the Liang Ji crisis, then uses his relationship to Tang Zhen to show how palace-connected kinship could shape high office.
+唐衡 / Tang Heng is a Huan-era eunuch marquis whose wiki profile now spans an early family-retaliation branch in [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]] and a later office-and-marriage network branch in [[zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2|Hanji 904]]. He matters less as a solo biography than as evidence that eunuch reward can radiate through brothers, appointments, and elite kinship.
 
-The source also notes that Tang Heng's daughter married [[XunYu|荀彧]], so the page keeps him as a late-Han network node rather than only an isolated eunuch name. Its core value is institutional: Tang Heng helps connect eunuch proximity, family linkage, marriage ties, and office access.
+## Current Profile
 
-## Connections
-- [[zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2|Hanji 904]] - source episode.
-- [[TangZhenLateHan|唐珍]] - younger brother whose sikong appointment the source explains through Tang Heng's network.
-- [[XunYu|荀彧]] - later figure linked by the source through marriage to Tang Heng's daughter.
-- [[CourtOfficeCapture|朝廷开府任官失序]] and [[PrivateAccessTalentChannel|私人进身通道]] - concept frames for eunuch-family access.
+Hanji 853 places Tang Heng in the post-[[LiangJiLateHan|梁冀]] [[FiveMarquisesHuanEra|Five Marquises]] field. The source names [[TangXuanLateHan|唐玹]] as Tang Heng's brother and says Tang Xuan, serving as Jingzhao official, destroys [[ZhaoQiLateHan|赵岐]]'s family through hostile accusation after old enmity. Tang Heng's significance in that branch is family power: the brother's office violence is intelligible because it sits near eunuch-marquis status.
+
+Hanji 904 extends the same network logic into court office and elite marriage. The episode identifies [[TangZhenLateHan|唐珍]] as Tang Heng's younger brother and uses that relationship to explain Tang Zhen's sikong appointment. It also records that Tang Heng's daughter married [[XunYu|荀彧]], keeping Tang Heng as a late-Han network node across eunuch proximity, high office, and gentry marriage.
+
+## Key Characteristics
+
+- Huan-era eunuch marquis connected to the post-Liang reward field.
+- Family-power node whose brother Tang Xuan uses office to destroy Zhao Qi's household.
+- Patronage reference used to explain Tang Zhen's later sikong appointment.
+- Marriage-network node through Tang Heng's daughter and Xun Yu.
+- Evidence that eunuch proximity could shape both official access and elite kinship ties.
+
+## Evidence
+
+- Five Marquises context: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]] places Tang Heng in the Huan-era marquis field after Shan Chao's death and the remaining marquises' indulgence.
+- Brother's retaliation: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]] says Tang Xuan is Tang Heng's brother and destroys Zhao Qi's family and relatives through official accusation.
+- High-office access: [[zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2|Hanji 904]] says Tang Zhen's sikong appointment is explained through his younger-brother relationship to Tang Heng.
+- Marriage network: [[zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2|Hanji 904]] says Tang Heng's daughter married Xun Yu.
+
+## Qualifications
+
+This page preserves Tang Heng's two source-note layers without reconstructing his complete career. Hanji 853's Tang Xuan branch is an early family-network and private-retaliation case, while Hanji 904's Tang Zhen and Xun Yu branch is a later office and marriage case. The source spellings 唐恒 and 唐玄 are normalized to Tang Heng / 唐衡 and Tang Xuan / 唐玹 where the surrounding late-Han sequence supports the route.
+
+## What Changed
+
+- The profile now includes the 160 CE family-retaliation layer around Tang Xuan and Zhao Qi.
+- Tang Heng's network role now spans marquis reward, brotherly office violence, high-office appointment, and marriage linkage.
+
+## Relationships
+
+- [[TangXuanLateHan|唐玹]] - brother whose retaliation against Zhao Qi exposes Tang-family power.
+- [[ZhaoQiLateHan|赵岐]] - target whose family is destroyed by Tang Xuan.
+- [[TangZhenLateHan|唐珍]] - younger brother whose sikong appointment is explained through Tang Heng's network.
+- [[XunYu|荀彧]] - later elite linked by marriage to Tang Heng's daughter.
+- [[FiveMarquisesHuanEra|桓帝五侯]] - Huan-era eunuch reward group in which Tang Heng appears.
+- [[PrivateAccessTalentChannel|私人进身通道]] - concept illustrated by kinship-based office access.
+- [[CourtOfficeCapture|朝廷开府任官失序]] - broader office-distortion frame around Tang Zhen's appointment.

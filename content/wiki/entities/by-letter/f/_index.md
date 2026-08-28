@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 8069
+wiki_total_pages: 8078
 wiki_pages:
   - key: "FortyThreeTalks"
     title: "43talks"
@@ -677,6 +677,9 @@ wiki_pages:
   - key: "FengyanFengyu"
     title: "枫言枫语"
     url: "/wiki/entities/fengyanfengyu/"
+  - key: "FiveMarquisesHuanEra"
+    title: "桓帝五侯 / Five Marquises of Emperor Huan's reign"
+    url: "/wiki/entities/fivemarquiseshuanera/"
   - key: "FanYiru"
     title: "樊一如 / Fan Yiru"
     url: "/wiki/entities/fanyiru/"

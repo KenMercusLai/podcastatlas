@@ -19,17 +19,20 @@ sources:
   - zizhi-tongjian-hanji-859-gudai-haoren-weishenme-nan-dang-haoguan-llkyx18ssvserxncvrtkw7xfduad
   - zizhi-tongjian-hanji-858-weishenme-quan-ni-yiding-yao-huanwei-sikao-lobr-xznqo-ctjpc-ytpstubmahl
   - zizhi-tongjian-hanji-852-dang-meinv-ruyun-shi-fu-haishi-huo-luml30ytbc-awpvk-7-23ehzbqpx
+  - zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij
 last_updated: 2026-08-28
 knowledge_schema: synthesis-v1
 ---
 
 ## Overview
 
-汉桓帝 / Emperor Huan of Han is a late-Han emperor whose current wiki profile now begins in 159 CE after the Liang-clan threat is cleared: [[ChenFanLateHan|陈蕃]] criticizes favor-based rewards and harem cost, while [[YuanHongChenliuLateHan|袁闳]] calls Huan a middle-grade ruler who can be led toward good or disorder by those near him. The later 163-167 CE layers show the same mixed ruler: he can accept bounded, precedent-backed correction and practical personnel arguments, but he preserves palace access structures, favorite power, harem disorder, and party-arrest mechanisms that make durable reform fail.
+汉桓帝 / Emperor Huan of Han is a late-Han emperor whose current wiki profile now begins in 159 CE after the Liang-clan threat is cleared: [[ChenFanLateHan|陈蕃]] criticizes favor-based rewards and harem cost, while [[YuanHongChenliuLateHan|袁闳]] calls Huan a middle-grade ruler who can be led toward good or disorder by those near him. The 160 CE layer complicates that picture: Huan searches for [[LiGuLateHan|李固]]'s descendants, yet also honors eunuch marquis [[ShanChaoLateHan|单超]] lavishly and reverses [[TengYanLateHan|滕延]]'s enforcement against protected retainers. The later 163-167 CE layers show the same mixed ruler: he can accept bounded, precedent-backed correction and practical personnel arguments, but he preserves palace access structures, favorite power, harem disorder, and party-arrest mechanisms that make durable reform fail.
 
 ## Current Profile
 
 The earliest current layer is post-Liang release without stable self-restraint. [[zizhi-tongjian-hanji-852-dang-meinv-ruyun-shi-fu-haishi-huo-luml30ytbc-awpvk-7-23ehzbqpx|Hanji 852]] presents Huan after the 159 CE Liang-family purge as granting irregular honors, favoring old companion [[DengWanshiLateHan|邓万世]], and maintaining thousands of palace women. Chen Fan's memorial attacks the institutional and fiscal damage: marquisate and food revenue should follow great merit, while harem scale drains clothing, food, cosmetics, and service resources. Huan releases more than five hundred palace women but still grants the core rewards, making this a partial correction rather than a durable change. Yuan Hong's later direct and omen-coded criticism reinforces the profile: Huan can hear blunt advice and promote the speaker, but he gives no answer when Yuan uses a strange-star memorial to criticize Deng Wanshi's excessive access and palace gambling intimacy.
+
+Hanji 853 inserts the 160 CE post-Liang repair and relapse layer. Huan's amnesty and search for Li Gu's descendants show limited posthumous repair after a family disaster tied to [[LiangJiLateHan|梁冀]]. The same source then presents Huan granting Shan Chao exceptional burial honors and allowing the remaining [[FiveMarquisesHuanEra|Five Marquises]] field to spill into local predation. When Hou Lan and Duan Gui's servants and guests are punished by Teng Yan, Huan receives the protected side's complaint and dismisses the local enforcer.
 
 The next layer is a court under disaster, rebellion, and feedback pressure. [[zizhi-tongjian-hanji-858-weishenme-quan-ni-yiding-yao-huanwei-sikao-lobr-xznqo-ctjpc-ytpstubmahl|Hanji 858]] places Huan over imperial-site fires, [[Xianbei|鲜卑]] pressure, Guiyang and Wuling unrest, and [[FengGunLateHan|冯绲]]'s dismissal after eunuch enemies use renewed disorder against him. In the same setting, Chen Fan warns Huan that hunting draws labor from rain-soaked agricultural work while fields, finance, stores, war, and displaced people are already strained; Huan gives no reply. The same source then shows Huan accepting [[ZhouJingLateHan|周景]] and [[YangBingLateHan|杨秉]]'s more executable request to review eunuch kin, guests, and unqualified officeholders through named administrative and military channels.
 
@@ -43,7 +46,7 @@ Huan's private sphere becomes public damage. Hanji 878 presents his admiration f
 
 ## Key Characteristics
 
-- Post-Liang ruler whose 159 CE freedom from outer-relative pressure becomes favor-based reward, harem burden, and private-friend access.
+- Post-Liang ruler whose 159-160 CE freedom from outer-relative pressure produces both limited repair gestures and renewed favorite reward.
 - Mixed correction recipient who releases palace women and accepts some precedent-backed, legal, or state-capacity arguments in bounded cases while keeping key private-favor rewards.
 - Ruler dependent on scarce frontier and court talent, capable of accepting practical personnel solutions when crisis is obvious.
 - Ruler whose eunuch reliance is framed as a useful palace-control structure, not merely a personnel error.
@@ -55,6 +58,8 @@ Huan's private sphere becomes public damage. Hanji 878 presents his admiration f
 
 - 159 CE private desire and partial correction: [[zizhi-tongjian-hanji-852-dang-meinv-ruyun-shi-fu-haishi-huo-luml30ytbc-awpvk-7-23ehzbqpx|Hanji 852]] says Chen Fan criticizes favor-based rewards and harem expense; Huan releases more than five hundred palace women but still grants key rewards to Deng Wanshi and the Huang-family title holder.
 - 159 CE companion-choice warning: [[zizhi-tongjian-hanji-852-dang-meinv-ruyun-shi-fu-haishi-huo-luml30ytbc-awpvk-7-23ehzbqpx|Hanji 852]] says Yuan Hong first calls Huan a middle-grade ruler and is promoted, then later receives no answer after using an anomalous star to criticize Deng Wanshi's excessive intimacy.
+- 160 CE posthumous repair: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]] says Huan issues an amnesty and orders a search for Li Gu's descendants after the Li-family disaster.
+- 160 CE eunuch favor and enforcement reversal: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]] says Huan grants Shan Chao lavish burial honors and later dismisses Teng Yan after Hou Lan and Duan Gui complain about punishment of their servants and guests.
 - 163 CE advice contrast: [[zizhi-tongjian-hanji-858-weishenme-quan-ni-yiding-yao-huanwei-sikao-lobr-xznqo-ctjpc-ytpstubmahl|Hanji 858]] places fires, Xianbei pressure, Guiyang and Wuling unrest, Feng Gun's dismissal, Chen Fan's unanswered hunting remonstrance, and Zhou Jing and Yang Bing's accepted personnel-review request in the same Huan-era field.
 - Frontier personnel and eunuch limit: [[zizhi-tongjian-hanji-859-gudai-haoren-weishenme-nan-dang-haoguan-llkyx18ssvserxncvrtkw7xfduad|Hanji 859]] places Huan over Huangfu Gui's recommendation of Zhang Huan, Duan Jiong's restoration under Qiang pressure, and Zhu Mu's rejected anti-eunuch remonstrance.
 - Eunuch-family correction: [[zizhi-tongjian-hanji-865-zhichang-boss-ye-rongyi-bei-zhezhong-ren-beici-ljfhfevljqnx6zceakjfbw5gwfma|Hanji 865]] says Huan removes Hou Lan after Yang Bing's impeachment of Hou Can expands into a jurisdiction-backed argument against keeping Hou Lan near the ruler.
@@ -71,18 +76,21 @@ Huan's private sphere becomes public damage. Hanji 878 presents his admiration f
 
 ## Qualifications
 
-The page remains bounded to the listed podcast source notes, not a full reign biography. Hanji 852 is treated as the earliest current layer of Huan's feedback and private-desire pattern, not proof that every later failure derives from one 159 CE decision. Its partial correction matters: releasing palace women shows some responsiveness, while keeping the reward decisions and ignoring Yuan Hong's later memorial shows the deeper favorite-access structure survives. Hanji 858 is treated as a later layer of the same mixed pattern; the accepted cleanup remains bounded and coexists with later eunuch complaint and party-framing failures. Hanji 859's analysis of eunuch usefulness is preserved as source interpretation of ruler-side demand, while later pages show concrete episodes where Huan both resists and accepts eunuch-linked pressure. The current judgment is mixed: Huan is movable by practical, legal, and precedent-based arguments, but those wins do not undo the private palace and feedback structures that repeatedly defeat public correction.
+The page remains bounded to the listed podcast source notes, not a full reign biography. Hanji 852 is treated as the earliest current layer of Huan's feedback and private-desire pattern, not proof that every later failure derives from one 159 CE decision. Hanji 853 qualifies the post-Liang picture by pairing a Li Gu descendant-search gesture with eunuch-marquis honor and a protected-retainer enforcement reversal. Hanji 858 is treated as a later layer of the same mixed pattern; the accepted cleanup remains bounded and coexists with later eunuch complaint and party-framing failures. Hanji 859's analysis of eunuch usefulness is preserved as source interpretation of ruler-side demand, while later pages show concrete episodes where Huan both resists and accepts eunuch-linked pressure. The current judgment is mixed: Huan is movable by practical, legal, and precedent-based arguments, but those wins do not undo the private palace and feedback structures that repeatedly defeat public correction.
 
 ## What Changed
 
-- Added Hanji 852 as the earliest bounded Huan layer: 159 CE post-Liang favor rewards, harem expense, partial palace-woman release, Yuan Hong's middle-ruler diagnosis, and ignored omen memorial.
-- Reframed Huan's earliest profile around private desire, companion access, and partial correction before Hanji 858's disaster-pressure and personnel-review contrast.
-- Kept the later 165-167 correction, feedback-failure, harem, childless-death, and posthumous-memory branches intact.
+- Hanji 853 now adds the 160 CE Li Gu descendant-search, Shan Chao burial, Five Marquises, and Teng Yan enforcement-reversal layer.
+- The earliest Huan profile now distinguishes limited posthumous repair from renewed favorite reward and complaint-driven local punishment.
+- The later 165-167 correction, feedback-failure, harem, childless-death, and posthumous-memory branches remain intact.
 
 ## Relationships
 
 - [[DengWanshiLateHan|邓万世]] - favored old companion whose reward and palace intimacy expose Huan's private-favor risk.
 - [[YuanHongChenliuLateHan|袁闳]] - remonstrant who diagnoses Huan's mixed rule and withdraws after an unanswered sealed memorial.
+- [[LiGuLateHan|李固]], [[LiXieLateHan|李燮]], and [[LiWenjiLateHan|李文姬]] - family-disaster and descendant-search branch that gives Huan a limited repair gesture.
+- [[FiveMarquisesHuanEra|桓帝五侯]] and [[ShanChaoLateHan|单超]] - eunuch-reward and burial-honor branch in Huan's 160 CE court.
+- [[HouLanLateHan|侯览]], [[DuanGuiLateHan|段珪]], and [[TengYanLateHan|滕延]] - protected-retainer enforcement reversal in Huan's 160 CE field.
 - [[ImperialPrivateDesireGovernanceRisk|帝王私欲治理风险]] - concept grounded by Huan's harem cost, non-merit reward, and companion-choice problem.
 - [[CounselExitAfterNonresponse|进言不纳后的抽身]] - withdrawal pattern triggered by Huan's nonresponse to Yuan Hong's warning.
 - [[FengGunLateHan|冯绲]] - official whose dismissal shows eunuch accusation power in Huan's 163 court.

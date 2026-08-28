@@ -12681,6 +12681,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-28] ingest | 《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿”
+
+Added source page for a 160 CE Huan-era backfill on Li Gu's family disaster, Li Wenji and Wang Cheng preserving Li Xie through concealment, Shan Chao's lavish burial and the Five Marquises' indulgence, Hou Lan and Duan Gui's protected retainers and Teng Yan's dismissal, and Zhao Qi's flight and shelter by Sun Song. Created Li Wenji, Wang Cheng, Liang Ji, Five Marquises of Emperor Huan's reign, Shan Chao, Zuo Sheng, Teng Yan, Tang Xuan, and Sun Song; updated Li Gu, Li Xie, Tang Heng, Duan Gui, Zhao Qi, Zuo Guan, Hou Lan, Emperor Huan, Eunuch Patronage Violence Shield, Fugitive Shelter Collateral Risk, overview, and index. No settled contradiction found; 李谢, 梁继, 侯瀾, 段归, 赵齐, 左冠, 唐玄, 孙松, and 段九 are normalized to existing or new canonical routes, while the elder Li sons, Zhao Boying, and minor Qiang/place names remain source-scoped.
+
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》855丨你有多无情，就有多强大
 
 Added source page for a 160-161 CE Huan-era backfill on boundary-strength framing, Liu Chong's Kuaiji governance, Guo Hong's obstruction and blame-shifting against Duan Jiong, Hu Hong's failed Qiang command, and Huangfu Gui's root-cause frontier diagnosis before Hanji 856. Created Guo Hong, Hu Hong, and Shendi Qiang; updated Liu Chong, Huangfu Gui, Duan Jiong, Xianling Qiang, Root-Cause Pacification, Humane Local Governance, Boundaryless Kindness Trap, overview, index, and generated synthesis. No settled contradiction found; 段颎 is normalized to 段熲, "梁州" is handled through the Liangzhou route, and the opening boundary lesson remains source-scoped.
@@ -12900,6 +12904,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-28] ingest | Big shot: does a cancer vaccine work?
 
 Added source page for The Intelligence episode on Steve Young's personalized mRNA melanoma-vaccine trial, Canada's oil-sands boom, Trans Mountain capacity, and Dolly Parton's cultural legacy. Created Steve Young (Melanoma Trial Patient), Sarah Larniuk, Cenovus Energy, Canadian Natural Resources Limited, Trans Mountain Expansion, Major Projects Office (Canada), Dolly Parton, Canadian Oil Sands Boom, Cross-Coalition Cultural Icon, and Artist Rights Control pages; updated individualized cancer vaccine, cancer vaccine platform, cancer immune recognition, Moderna, Merck, Canada, Alberta, Mark Carney, American Cultural Exports, overview, and index. No settled contradiction found; the episode qualifies earlier cancer-vaccine optimism by keeping survival, side effects, dropout, cost, access, and tumor-type transferability unresolved.
+
+## [2026-08-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-28] lint | Wiki health check
 

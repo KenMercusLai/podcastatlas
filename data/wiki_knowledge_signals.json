@@ -5397,6 +5397,29 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/duxilatehan/"
     },
+    "DuanGuiLateHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》946丨职场斗争时优柔寡断，有多致命？ [lpyyweAaJonZG7KxuhWm9Z7AE7P5].md",
+          "key": "zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》946丨职场斗争时优柔寡断，有多致命？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿” [lvSA2pby8IyfEvfooBoBpIK52MiJ].md",
+          "key": "zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/duanguilatehan/"
+    },
     "DuanJiongLateHan": {
       "episode_count": 15,
       "show_count": 1,
@@ -5910,9 +5933,9 @@
       "url": "/wiki/concepts/emotionsasfunctionalcontrolstates/"
     },
     "EmperorHuanOfHan": {
-      "episode_count": 16,
+      "episode_count": 17,
       "show_count": 1,
-      "source_note_count": 16,
+      "source_note_count": 17,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》901 丨急性子的人会是什么下场？ [lh1yfyJZqPTXVtnV9tAiQms9YjUd].md",
@@ -6025,6 +6048,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》852丨当美女如云，是福还是 “祸”？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-852-dang-meinv-ruyun-shi-fu-haishi-huo-luml30ytbc-awpvk-7-23ehzbqpx/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿” [lvSA2pby8IyfEvfooBoBpIK52MiJ].md",
+          "key": "zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij/"
         }
       ],
       "updated": "2026-08-28",
@@ -6257,9 +6287,9 @@
       "url": "/wiki/entities/ericweinstein/"
     },
     "EunuchPatronageViolenceShield": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》872丨他娶妾不成，竟杀人全家 [ltBEGc7GBET2_HLhwhtevVltGNlC].md",
@@ -6295,6 +6325,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》865丨职场BOSS也容易被这种人背刺",
           "url": "/wiki/sources/zizhi-tongjian-hanji-865-zhichang-boss-ye-rongyi-bei-zhezhong-ren-beici-ljfhfevljqnx6zceakjfbw5gwfma/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿” [lvSA2pby8IyfEvfooBoBpIK52MiJ].md",
+          "key": "zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij/"
         }
       ],
       "updated": "2026-08-28",
@@ -6829,6 +6866,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/fiveguys/"
     },
+    "FiveMarquisesHuanEra": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿” [lvSA2pby8IyfEvfooBoBpIK52MiJ].md",
+          "key": "zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/fivemarquiseshuanera/"
+    },
     "FlowClutchLearningDistinction": {
       "episode_count": 1,
       "show_count": 1,
@@ -7201,9 +7254,9 @@
       "url": "/wiki/entities/furonglatehan/"
     },
     "FugitiveShelterCollateralRisk": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》895丨血腥屠刀下的骨肉情深 [llsPLYYRjXhqkPi2AiuQZUlgm6w3].md",
@@ -7218,9 +7271,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》894丨一场逃亡引发的大屠杀",
           "url": "/wiki/sources/zizhi-tongjian-hanji-894-yi-chang-taowang-yinfa-de-da-tusha-lhulp9hqu07uayyfl3eg-xwrtkeu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿” [lvSA2pby8IyfEvfooBoBpIK52MiJ].md",
+          "key": "zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-28",
       "url": "/wiki/concepts/fugitivesheltercollateralrisk/"
     },
     "FuyouTiandi": {
@@ -8550,9 +8610,9 @@
       "url": "/wiki/entities/houcanlatehan/"
     },
     "HouLanLateHan": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》900丨职场权术都不动，该怎样生存 [lmhJwOsY4EsWyHfpPDGHfsMfycQr].md",
@@ -8602,6 +8662,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》865丨职场BOSS也容易被这种人背刺",
           "url": "/wiki/sources/zizhi-tongjian-hanji-865-zhichang-boss-ye-rongyi-bei-zhezhong-ren-beici-ljfhfevljqnx6zceakjfbw5gwfma/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿” [lvSA2pby8IyfEvfooBoBpIK52MiJ].md",
+          "key": "zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij/"
         }
       ],
       "updated": "2026-08-28",
@@ -11165,6 +11232,29 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/ligaorunanlatehan/"
     },
+    "LiGuLateHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》929丨对事不对人，你信了吗？ [lgaXJ0jzoPddmt3C5hiBNExqLhB3].md",
+          "key": "zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》929丨对事不对人，你信了吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿” [lvSA2pby8IyfEvfooBoBpIK52MiJ].md",
+          "key": "zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/ligulatehan/"
+    },
     "LiJiHistorian": {
       "episode_count": 1,
       "show_count": 1,
@@ -11226,6 +11316,45 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/litonglatehan/"
+    },
+    "LiWenjiLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿” [lvSA2pby8IyfEvfooBoBpIK52MiJ].md",
+          "key": "zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/liwenjilatehan/"
+    },
+    "LiXieLateHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》929丨对事不对人，你信了吗？ [lgaXJ0jzoPddmt3C5hiBNExqLhB3].md",
+          "key": "zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》929丨对事不对人，你信了吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿” [lvSA2pby8IyfEvfooBoBpIK52MiJ].md",
+          "key": "zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/lixielatehan/"
     },
     "LiYingLateHan": {
       "episode_count": 9,
@@ -11298,6 +11427,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/liyinglatehan/"
+    },
+    "LiangJiLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿” [lvSA2pby8IyfEvfooBoBpIK52MiJ].md",
+          "key": "zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/liangjilatehan/"
     },
     "LibGen": {
       "episode_count": 1,
@@ -17130,6 +17275,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/shanbinglatehan/"
     },
+    "ShanChaoLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿” [lvSA2pby8IyfEvfooBoBpIK52MiJ].md",
+          "key": "zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/shanchaolatehan/"
+    },
     "ShangXiaBanchang": {
       "episode_count": 1,
       "show_count": 1,
@@ -18249,6 +18410,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/sunshengeasternjin/"
     },
+    "SunSongLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿” [lvSA2pby8IyfEvfooBoBpIK52MiJ].md",
+          "key": "zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/sunsonglatehan/"
+    },
     "SunYutao": {
       "episode_count": 1,
       "show_count": 1,
@@ -18471,6 +18648,29 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/tansitong/"
     },
+    "TangHengLateHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》904丨觉照内观：获得心灵大自由的秘诀 [lopN_oKbzr4LJvqmgzCsb7qAv0n2].md",
+          "key": "zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》904丨觉照内观：获得心灵大自由的秘诀",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿” [lvSA2pby8IyfEvfooBoBpIK52MiJ].md",
+          "key": "zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/tanghenglatehan/"
+    },
     "TangWenbin": {
       "episode_count": 1,
       "show_count": 1,
@@ -18486,6 +18686,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/tangwenbin/"
+    },
+    "TangXuanLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿” [lvSA2pby8IyfEvfooBoBpIK52MiJ].md",
+          "key": "zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/tangxuanlatehan/"
     },
     "TanshihuaiXianbei": {
       "episode_count": 4,
@@ -18624,6 +18840,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/tencentworkbuddy/"
+    },
+    "TengYanLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿” [lvSA2pby8IyfEvfooBoBpIK52MiJ].md",
+          "key": "zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/tengyanlatehan/"
     },
     "TexasChicken": {
       "episode_count": 1,
@@ -19786,6 +20018,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/wangchangshumaolatehan/"
+    },
+    "WangChengLiGuStudent": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿” [lvSA2pby8IyfEvfooBoBpIK52MiJ].md",
+          "key": "zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/wangchengligustudent/"
     },
     "WangFuDongChengPlot": {
       "episode_count": 1,
@@ -22372,6 +22620,43 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/zhaolina/"
     },
+    "ZhaoQiLateHan": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》969丨袁氏兄弟内斗，谁能捡漏？ [lsgj6sewO35jPSGFm_kOIvIJtr6r].md",
+          "key": "zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》969丨袁氏兄弟内斗，谁能捡漏？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》982丨扒一扒刘备入徐背后的利益之争 [ljAjdC95XTyLHkn5TeEFz26Yyyz1].md",
+          "key": "zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》982丨扒一扒刘备入徐背后的利益之争",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》999丨三国乱世，人性有多么脆弱？ [li8Tz30Elca7BnIpEI6DfQDxMMEu].md",
+          "key": "zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》999丨三国乱世，人性有多么脆弱？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿” [lvSA2pby8IyfEvfooBoBpIK52MiJ].md",
+          "key": "zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/zhaoqilatehan/"
+    },
     "ZhaoRaoLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -22785,9 +23070,9 @@
       "url": "/wiki/entities/zongzilatehan/"
     },
     "ZuoGuanLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》857丨学会共赢，才是真正的赢家 [lh3zx6Pw_4iB7oWIZ8C68Bv_9hTN].md",
@@ -22795,10 +23080,33 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》857丨学会共赢，才是真正的赢家",
           "url": "/wiki/sources/zizhi-tongjian-hanji-857-xuehui-gongying-cai-shi-zhenzheng-de-yingjia-lh3zx6pw-4ib7owiz8c68bv-9htn/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿” [lvSA2pby8IyfEvfooBoBpIK52MiJ].md",
+          "key": "zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij/"
         }
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/zuoguanlatehan/"
+    },
+    "ZuoShengLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿” [lvSA2pby8IyfEvfooBoBpIK52MiJ].md",
+          "key": "zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/zuoshenglatehan/"
     },
     "ZuoYuanLateHan": {
       "episode_count": 1,
