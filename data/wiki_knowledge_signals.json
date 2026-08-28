@@ -6320,9 +6320,9 @@
       "url": "/wiki/concepts/emotionsasfunctionalcontrolstates/"
     },
     "EmperorHuanOfHan": {
-      "episode_count": 21,
+      "episode_count": 22,
       "show_count": 1,
-      "source_note_count": 21,
+      "source_note_count": 22,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》901 丨急性子的人会是什么下场？ [lh1yfyJZqPTXVtnV9tAiQms9YjUd].md",
@@ -6470,6 +6470,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》847丨女人变得好命，从懂得这俩字开始",
           "url": "/wiki/sources/zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》845丨从当代婚姻观聊古代的婚检制度 [lr0I25tWKoXm2wEN7pnFbwT3qDsN].md",
+          "key": "zizhi-tongjian-hanji-845-cong-dangdai-hunyin-guan-liao-gudai-de-hunjian-zhidu-lr0i25twkoxm2wen7pnfbwt3qdsn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》845丨从当代婚姻观聊古代的婚检制度",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-845-cong-dangdai-hunyin-guan-liao-gudai-de-hunjian-zhidu-lr0i25twkoxm2wen7pnfbwt3qdsn/"
         }
       ],
       "updated": "2026-08-28",
@@ -6583,6 +6590,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/empressdowagerdoumiao/"
+    },
+    "EmpressLiangYingLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》845丨从当代婚姻观聊古代的婚检制度 [lr0I25tWKoXm2wEN7pnFbwT3qDsN].md",
+          "key": "zizhi-tongjian-hanji-845-cong-dangdai-hunyin-guan-liao-gudai-de-hunjian-zhidu-lr0i25twkoxm2wen7pnfbwt3qdsn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》845丨从当代婚姻观聊古代的婚检制度",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-845-cong-dangdai-hunyin-guan-liao-gudai-de-hunjian-zhidu-lr0i25twkoxm2wen7pnfbwt3qdsn/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/empressliangyinglatehan/"
     },
     "EmpressSisi": {
       "episode_count": 2,
@@ -10046,6 +10069,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/immunesystemastunablesensornetwork/"
     },
+    "ImperialMarriageInspection": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》845丨从当代婚姻观聊古代的婚检制度 [lr0I25tWKoXm2wEN7pnFbwT3qDsN].md",
+          "key": "zizhi-tongjian-hanji-845-cong-dangdai-hunyin-guan-liao-gudai-de-hunjian-zhidu-lr0i25twkoxm2wen7pnfbwt3qdsn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》845丨从当代婚姻观聊古代的婚检制度",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-845-cong-dangdai-hunyin-guan-liao-gudai-de-hunjian-zhidu-lr0i25twkoxm2wen7pnfbwt3qdsn/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/imperialmarriageinspection/"
+    },
     "ImperialPetitionOffenseRisk": {
       "episode_count": 1,
       "show_count": 1,
@@ -12171,9 +12210,9 @@
       "url": "/wiki/entities/liyunlatehan/"
     },
     "LiangJiLateHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿” [lvSA2pby8IyfEvfooBoBpIK52MiJ].md",
@@ -12202,6 +12241,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》846丨“跋扈将军”冰山一角的犯罪记录",
           "url": "/wiki/sources/zizhi-tongjian-hanji-846-bahu-jiangjun-bingshan-yijiao-de-fanzui-jilu-lv7fbvoqr1nureqgvwiwixjyk4pq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》845丨从当代婚姻观聊古代的婚检制度 [lr0I25tWKoXm2wEN7pnFbwT3qDsN].md",
+          "key": "zizhi-tongjian-hanji-845-cong-dangdai-hunyin-guan-liao-gudai-de-hunjian-zhidu-lr0i25twkoxm2wen7pnfbwt3qdsn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》845丨从当代婚姻观聊古代的婚检制度",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-845-cong-dangdai-hunyin-guan-liao-gudai-de-hunjian-zhidu-lr0i25twkoxm2wen7pnfbwt3qdsn/"
         }
       ],
       "updated": "2026-08-28",
@@ -15684,9 +15730,9 @@
       "url": "/wiki/concepts/outdoorvehiclelifestyledesign/"
     },
     "OuterRelativeCourtPower": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》848丨瞬间垮台！我为何说他死有余辜？ [lgqVgMxlwga2fKnmtxPj3Ya9chk0].md",
@@ -15708,6 +15754,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》846丨“跋扈将军”冰山一角的犯罪记录",
           "url": "/wiki/sources/zizhi-tongjian-hanji-846-bahu-jiangjun-bingshan-yijiao-de-fanzui-jilu-lv7fbvoqr1nureqgvwiwixjyk4pq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》845丨从当代婚姻观聊古代的婚检制度 [lr0I25tWKoXm2wEN7pnFbwT3qDsN].md",
+          "key": "zizhi-tongjian-hanji-845-cong-dangdai-hunyin-guan-liao-gudai-de-hunjian-zhidu-lr0i25twkoxm2wen7pnfbwt3qdsn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》845丨从当代婚姻观聊古代的婚检制度",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-845-cong-dangdai-hunyin-guan-liao-gudai-de-hunjian-zhidu-lr0i25twkoxm2wen7pnfbwt3qdsn/"
         }
       ],
       "updated": "2026-08-28",
@@ -17181,9 +17234,9 @@
       "url": "/wiki/concepts/rejectedcounseldefectioncascade/"
     },
     "RelationshipSelectionAgency": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》847丨女人变得好命，从懂得这俩字开始 [lrLoV43jtZ0VQ_o_5m8R2cQO0etX].md",
@@ -17191,6 +17244,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》847丨女人变得好命，从懂得这俩字开始",
           "url": "/wiki/sources/zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》845丨从当代婚姻观聊古代的婚检制度 [lr0I25tWKoXm2wEN7pnFbwT3qDsN].md",
+          "key": "zizhi-tongjian-hanji-845-cong-dangdai-hunyin-guan-liao-gudai-de-hunjian-zhidu-lr0i25twkoxm2wen7pnfbwt3qdsn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》845丨从当代婚姻观聊古代的婚检制度",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-845-cong-dangdai-hunyin-guan-liao-gudai-de-hunjian-zhidu-lr0i25twkoxm2wen7pnfbwt3qdsn/"
         }
       ],
       "updated": "2026-08-28",

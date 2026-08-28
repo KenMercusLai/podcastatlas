@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 5817
+wiki_total_pages: 5818
 wiki_pages:
   - key: "ICEWorkforceExpansion"
     title: "ICE Workforce Expansion"
@@ -110,6 +110,9 @@ wiki_pages:
   - key: "ImperialLocalGodConflict"
     title: "Imperial Local-God Conflict / 皇权与地方神冲突"
     url: "/wiki/concepts/imperiallocalgodconflict/"
+  - key: "ImperialMarriageInspection"
+    title: "Imperial Marriage Inspection / 皇室婚前身体检视"
+    url: "/wiki/concepts/imperialmarriageinspection/"
   - key: "ImperialPetitionOffenseRisk"
     title: "Imperial Petition Offense Risk / 申冤上书冒犯风险"
     url: "/wiki/concepts/imperialpetitionoffenserisk/"

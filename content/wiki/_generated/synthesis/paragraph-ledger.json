@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "efb1e9eb4c37ecbb685b6eaa9f184c5ba5a6728d7347651a2bb366a1a65d5b54",
       "c3fb1a3a4e1a94d58e4b2805c29c0240cebf7caa55687894bbdd60d21f91db3e",
       "b45f623d7ac4d58f277199d282bb593706f3ed34dcd1726ef63883b3bfd936d1",
       "0d43e161d018fc8d8ffa2d14763f23ed7c9ce12aabfc833f3a7225da8e67fa43",
@@ -330,11 +331,38 @@
       "ffc63951f0c9ebb1bdb0d92982d5f65f57bbe4a7f7a359f38dcd33423bb288c2",
       "41cadfb91ef6894bc7d9cd5c4e55012480b0225b71a6a027d18e9565e8357c0c"
     ],
-    "paragraph_count": 328
+    "paragraph_count": 329
   },
-  "overview_commit": "e1eec4f61e87ec96f99a630cf946f4b679978fc4",
-  "overview_digest": "3492d5b247731a4035d66967f7f4ec6bb880b52f23fb15107fb20aed633441a5",
+  "overview_commit": "0a870b24809bc73fe479fca878d6ef10fe84fc9e",
+  "overview_digest": "222590a38ef4ee81640a3916dd585c10d1f5c73d593f95ea4fa7a76010667ce2",
   "paragraphs": [
+    {
+      "id": "efb1e9eb4c37ecbb685b6eaa9f184c5ba5a6728d7347651a2bb366a1a65d5b54",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-845-cong-dangdai-hunyin-guan-liao-gudai-de-hunjian-zhidu-lr0i25twkoxm2wen7pnfbwt3qdsn|《资治通鉴·汉纪》845丨从当代婚姻观聊古代的婚检制度]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 159 CE pre-coup marriage layer before [[zizhi-tongjian-hanji-846-bahu-jiangjun-bingshan-yijiao-de-fanzui-jilu-lv7fbvoqr1nureqgvwiwixjyk4pq|Hanji 846]], [[zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx|Hanji 847]], and [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|Hanji 848]]. It adds [[EmpressLiangYingLateHan|梁盈]] and [[ImperialMarriageInspection|皇室婚前身体检视]], while extending [[EmperorHuanOfHan|汉桓帝]], [[LiangJiLateHan|梁冀]], [[OuterRelativeCourtPower|外戚专权与清算]], [[RelationshipSelectionAgency|择人与环境选择]], [[PalaceFavoriteProtectionFragility|宫廷宠幸保护脆弱性]], and [[ImperialPrivateDesireGovernanceRisk|帝王私欲治理风险]]. Its core synthesis is that Liang-family power is already embedded in Huan's marriage before the visible crime and coup layers: an inspected, family-backed empress cannot produce affection, heirs, or stable household order, so Liang Ying's death becomes part of the political opening before Huan moves against Liang Ji. No settled contradiction is recorded; the modern marriage survey and the claim about Liang Ying as the first textually recorded inspected empress remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 3,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "EmperorHuanOfHan",
+        "EmpressLiangYingLateHan",
+        "ImperialMarriageInspection",
+        "ImperialPrivateDesireGovernanceRisk",
+        "LiangJiLateHan",
+        "OuterRelativeCourtPower",
+        "PalaceFavoriteProtectionFragility",
+        "RelationshipSelectionAgency",
+        "RuiqiJiangtouZizhiTongjian",
+        "zizhi-tongjian-hanji-845-cong-dangdai-hunyin-guan-liao-gudai-de-hunjian-zhidu-lr0i25twkoxm2wen7pnfbwt3qdsn",
+        "zizhi-tongjian-hanji-846-bahu-jiangjun-bingshan-yijiao-de-fanzui-jilu-lv7fbvoqr1nureqgvwiwixjyk4pq",
+        "zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx",
+        "zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0"
+      ]
+    },
     {
       "id": "c3fb1a3a4e1a94d58e4b2805c29c0240cebf7caa55687894bbdd60d21f91db3e",
       "primary_topic": "governance-and-institutions",
