@@ -25,6 +25,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》833丨贪官能有多离谱？看完大跌眼镜！](sources/zizhi-tongjian-hanji-833-tanguan-neng-you-duo-lipu-kanwan-dadieyanjing-lqudlijjyqmcro-wsmrvwkodgt72.md) — 芮淇讲透资治通鉴 episode on 150 CE Liang Ji's honor expansion, Sun Shou's titled revenue, Qin Gong's household access brokerage, private estate coercion, rabbit-park deaths, and Sun Fen's confiscation case.
 - [《资治通鉴·汉纪》834丨历史告诉你：小人为何长戚戚？](sources/zizhi-tongjian-hanji-834-lishi-gaosu-ni-xiaoren-weihe-chang-qiqi-lj8z2vfu6lpggumcakwejoi6z9hc.md) — 芮淇讲透资治通鉴 episode on 150-151 CE Zhu Mu's warnings to Liang Ji, Chen Fan and Yan Du's enforcement against Liang-linked envoys/retainers, and Zhang Ling's previewed court sword-removal scene.
 - [《资治通鉴·汉纪》835丨东汉第一权臣，为何要跪他？](sources/zizhi-tongjian-hanji-835-donghan-diyi-quanchen-weihe-yao-gui-ta-lpwezt-z-2qloitwd3t4gyxznqbo.md) — 芮淇讲透资治通鉴 episode on 151 CE Zhang Ling's public sword-removal enforcement against Liang Ji, Emperor Huan's lighter salary penalty, Emperor Zhi's earlier "跋扈将军" death trigger, and retreat examples from Fan Li and Zhang Liang.
+- [687. The Odyssey: Hero of the Trojan Horse (Part 1)](sources/687-the-odyssey-hero-of-the-trojan-horse-part-1-glt2393125423.md) — The Rest Is History episode retelling Odysseus' first-half voyage through Troy's aftermath, Polyphemus, Circe, the underworld, Scylla and Charybdis, Helios' cattle, and Calypso.
 - [688. The Odyssey: Return of the King (Part 2)](sources/688-the-odyssey-return-of-the-king-part-2-glt2882541084.md) — The Rest Is History episode retelling Odysseus' return from Calypso and the Phaeacians to Ithaca, Penelope's bed test, and the violent restoration of his household.
 - [《资治通鉴·汉纪》836丨兄弟反目背后：儒者和奸臣的交锋](sources/zizhi-tongjian-hanji-836-xiongdi-fanmu-beihou-ruzhe-he-jianchen-de-jiaofeng-lq9wjn5c8mwt-onrtslum4fw53eq.md) — 芮淇讲透资治通鉴 episode on 151 CE Liang Ji's surveillance of Liang Buyi, Ma Rong and Tian Ming's humiliating punishment, Emperor Huan's private outing, and Yang Bing's disaster-remonstrance and integrity profile.
 - [《资治通鉴·汉纪》837丨为人处世，为何不能心慈手软？](sources/zizhi-tongjian-hanji-837-weiren-chushi-weihe-buneng-xinci-shouruan-luznyzqldwdrbkfm7ce-1huuxm7b.md) — 芮淇讲透资治通鉴 episode on 151 CE Cui Shi, Zhenglun, strict-lenient governance, value-exchange boundaries, and Sima Guang's qualification of harsh-policy advice.
@@ -2783,7 +2784,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sydney](entities/Sydney.md) — Australian city used as the source's beach/outdoor lifestyle and drone lifeguard case.
 - [CyberCab](entities/CyberCab.md) — Tesla dedicated robotaxi vehicle in the source's Austin rollout discussion.
 - [Gansu / 甘肃](entities/Gansu.md) — Landing setting for LandSpace's Zhuque-3 Yao-2 first-stage recovery in the source.
-- [The Rest Is History](entities/TheRestIsHistory.md) — History podcast anchoring selected Elizabethan, Troubles, and Mayerling/Habsburg narrative-history branches.
+- [The Rest Is History](entities/TheRestIsHistory.md) — History podcast anchoring selected Elizabethan, Troubles, Mayerling/Habsburg, and two-part Odyssey narrative branches.
 - [The Troubles](entities/TheTroubles.md) — Northern Ireland conflict branch framed through partition, institutional discrimination, loyalist violence, civil-rights protest, and street-war escalation.
 - [Northern Ireland](entities/NorthernIreland.md) — UK region where partition, Catholic grievances, unionist fear, policing legitimacy, and Westminster intervention converge in the sources.
 - [Edward Carson](entities/EdwardCarson.md) — Unionist leader whose 1912 covenant and volunteers supply an armed-precedent memory in the Part 1 source.
@@ -7416,13 +7417,24 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kemi Badenoch](entities/KemiBadenoch.md) — Conservative Party figure tied by the source to a modest Conservative revival during Reform UK pressure.
 - [Eutelsat](entities/Eutelsat.md) — Satellite company named as part of the mixed connectivity future for African internet access.
 - [Christopher Nolan](entities/ChristopherNolan.md) — Director whose Odyssey adaptation is used by the source to examine modernized classical storytelling.
-- [The Odyssey](entities/TheOdyssey.md) — Homeric epic discussed through Nolan's film and the difficulty of adapting ancient moral strangeness.
+- [The Odyssey](entities/TheOdyssey.md) — Homeric epic represented through first-half wandering, second-half homecoming, adaptation debate, metaphor, and commercial afterlife.
 - [Homer](entities/Homer.md) — Ancient epic poet invoked by the source as the tradition behind The Odyssey and its later remakings.
-- [Odysseus](entities/Odysseus.md) — Odyssey hero whose modernization in Nolan's film anchors the source's adaptation critique.
+- [Trojan Horse](entities/TrojanHorse.md) — Stratagem credited to Odysseus that brings Troy down before the Odyssey's return voyage begins.
+- [Odysseus](entities/Odysseus.md) — Odyssey hero whose cunning, pride, crew losses, and desire for mortal homecoming structure the ingested retellings.
+- [Polyphemus](entities/Polyphemus.md) — Cyclops whose cannibal anti-hospitality and curse turn Odysseus' successful escape into delayed suffering.
+- [Aeolus](entities/Aeolus.md) — Wind-god host whose bag of winds nearly returns Odysseus home before crew mistrust reverses the voyage.
+- [Laestrygonians](entities/Laestrygonians.md) — Giant cannibal people whose perfect harbor destroys eleven of Odysseus' twelve ships.
+- [Circe](entities/Circe.md) — Enchantress whose island transforms the crew, delays the voyage, and sends Odysseus toward Tiresias.
+- [Tiresias](entities/Tiresias.md) — Dead prophet whose underworld warning makes Helios' cattle the voyage's fatal taboo.
+- [Sirens](entities/Sirens.md) — Singing death-lure survived through wax, mast-binding, and precommitted restraint.
+- [Scylla and Charybdis](entities/ScyllaAndCharybdis.md) — Paired sea hazards forcing Odysseus to accept limited loss over whole-ship destruction.
+- [Helios](entities/Helios.md) — Sun god whose sacred cattle trigger Zeus' punishment after the crew violates repeated warnings.
+- [Poseidon](entities/Poseidon.md) — Sea god invoked by Polyphemus to curse Odysseus with delayed, lonely, troubled return.
+- [Lotus Eaters](entities/LotusEaters.md) — Odyssey people whose lotus threatens homecoming by erasing the desire to return.
 - [Athena](entities/Athena.md) — Divine strategist in the Odyssey homecoming branch, enabling release, disguise, recognition, and revenge.
 - [Penelope](entities/Penelope.md) — Odysseus' wife whose delay tactics, bow contest, and marriage-bed test complete the recognition sequence.
 - [Telemachus](entities/Telemachus.md) — Odysseus' son whose Athena-guided maturation and weapon-removal role support the household restoration.
-- [Calypso](entities/Calypso.md) — Island figure whose offer of immortality sharpens Odysseus' choice of mortal homecoming.
+- [Calypso](entities/Calypso.md) — Island figure who receives shipwrecked Odysseus, holds him outside home, and later offers immortality against mortal return.
 - [Ithaca](entities/Ithaca.md) — Odysseus' home island and household-political setting where arrival must become recognized return.
 - [Phaeacians](entities/Phaeacians.md) — Idealized host society whose court and ships return Odysseus to Ithaca.
 - [Eumaeus](entities/Eumaeus.md) — Loyal swineherd who shelters the disguised Odysseus and helps the revenge plan.
@@ -13190,10 +13202,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ragnarok / 诸神的黄昏](concepts/Ragnarok.md) — Norse end-time and renewal pattern in EP269 where known doom sharpens courage and modern ecological/fantasy reinterpretation.
 - [Epic Modern Afterlife](concepts/EpicModernAfterlife.md) — EP269 pattern where ancient epics return through films, games, fantasy, superhero franchises, phrases, and reading culture.
 - [Oral Epic Repetition](concepts/OralEpicRepetition.md) — Cross-epic poetics frame from EP269 for repetition as memory, breath, chorus, and emotional accumulation.
-- [Epic Hero Human Limits](concepts/EpicHeroHumanLimits.md) — EP269 frame for reading heroic greatness through mortality, grief, sleep, failed immortality, homecoming, and finite responsibility.
-- [Ancient Greek Honor Community](concepts/AncientGreekHonorCommunity.md) — Homeric social frame from EP269 where gifts, spoils, hospitality, household order, and recognition define heroic status.
+- [Epic Hero Human Limits](concepts/EpicHeroHumanLimits.md) — Cross-epic frame for reading heroic greatness through mortality, grief, sleep, failed immortality, homecoming, and failed command.
+- [Ancient Greek Honor Community](concepts/AncientGreekHonorCommunity.md) — Homeric social frame where gifts, spoils, hospitality, household order, naming, and recognition define heroic status.
+- [Homeric Nostos](concepts/HomericNostos.md) — Odyssey homecoming drive tested by forgetfulness, appetite, pleasure, delay, hunger, and divine hostility.
 - [Homeric Homecoming Recognition](concepts/HomericHomecomingRecognition.md) — Odyssey pattern where return becomes complete only through staged proofs by place, kin, servants, body, bow, and marriage bed.
-- [Homeric Hospitality Test](concepts/HomericHospitalityTest.md) — Odyssey guest-host pattern contrasting Phaeacian and Eumaeus hospitality with the suitors' household violation.
+- [Homeric Hospitality Test](concepts/HomericHospitalityTest.md) — Odyssey guest-host pattern spanning Polyphemus' anti-hospitality, Aeolus' failed aid, Phaeacian welcome, Eumaeus' loyalty, and suitor violation.
+- [Homeric Fantasy Geography](concepts/HomericFantasyGeography.md) — Odyssey reading frame for mythic islands and sea hazards as seafaring, colonial, and cultural-boundary anxieties.
+- [Odyssean Leadership Trust Failure](concepts/OdysseanLeadershipTrustFailure.md) — Pattern where Odysseus sees or solves danger but cannot consistently secure crew trust, restraint, or discipline.
 - [Northern Courage / 北方的勇气](concepts/NorthernCourage.md) — Tolkien-linked EP269 concept for acting fully even when fate or defeat is already known.
 - [Mythic Environmental Imagination](concepts/MythicEnvironmentalImagination.md) — EP269 frame for reading myth through natural force, scarcity, ecology, human limits, and renewal after collapse.
 - [Dinosaur As Living Animal / 恐龙作为活着的动物](concepts/DinosaurAsLivingAnimal.md) — Frame for treating dinosaurs as animals with fear, illness, attachment, aging, and individual differences rather than only monster spectacle.

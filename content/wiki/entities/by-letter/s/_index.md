@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 8212
+wiki_total_pages: 8223
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -260,6 +260,9 @@ wiki_pages:
   - key: "ScuderiaFerrari"
     title: "Scuderia Ferrari"
     url: "/wiki/entities/scuderiaferrari/"
+  - key: "ScyllaAndCharybdis"
+    title: "Scylla and Charybdis"
+    url: "/wiki/entities/scyllaandcharybdis/"
   - key: "SeaLifeTrust"
     title: "Sea Life Trust"
     url: "/wiki/entities/sealifetrust/"
@@ -686,6 +689,9 @@ wiki_pages:
   - key: "Sinocism"
     title: "Sinocism"
     url: "/wiki/entities/sinocism/"
+  - key: "Sirens"
+    title: "Sirens"
+    url: "/wiki/entities/sirens/"
   - key: "Siri"
     title: "Siri"
     url: "/wiki/entities/siri/"

@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-29
-as_of_overview_commit: 5bde19bc47ed09ceda19463d0eb804f709603159
+as_of_overview_commit: 27a8fecf4496900abee1ce1fb002b12489ece4cc
 summary: "Durable value emerges when capabilities meet workflows, institutions, markets, bodies, culture, learning, and evidence under real constraints."
-episode_count: 1655
-source_count: 1655
-paragraph_count: 352
+episode_count: 1656
+source_count: 1656
+paragraph_count: 353
 topic_count: 8
 ---
 
@@ -43,7 +43,7 @@ Business sources separate attention from durable value: demand needs payment pro
 
 ### Culture and Media
 
-Culture and media sources treat stories, platforms, celebrity, fandom, and public memory as systems that shape attention, trust, identity, and legitimacy rather than just content.
+Culture and media sources treat literature, epic, folklore, brands, games, platforms, physical media, and creative practice as systems that shape attention, identity, evidence, agency, legitimacy, and human meaning. The Odyssey branch now joins tested wandering to recognition-based homecoming rather than treating return as arrival alone.
 
 - [[PoliticalConditionAsHumanExperiment]] uses fiction to expose how political conditions, speed, exile, public performance, rule systems, and dependency reshape human behavior. Evidence: [[PoliticalConditionAsHumanExperiment]], [[PublicMoralPerformance]], [[SlownessAsModernityCritique]], [[AntiAuthoritarianEducation]], [[SafetyAsControl]], [[BuddhistLifeAffirmingLiterature]].
 

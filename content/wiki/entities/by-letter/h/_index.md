@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 8212
+wiki_total_pages: 8223
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -257,6 +257,9 @@ wiki_pages:
   - key: "HelionPolaris"
     title: "Helion Polaris"
     url: "/wiki/entities/helionpolaris/"
+  - key: "Helios"
+    title: "Helios"
+    url: "/wiki/entities/helios/"
   - key: "HelloKitty"
     title: "Hello Kitty"
     url: "/wiki/entities/hellokitty/"

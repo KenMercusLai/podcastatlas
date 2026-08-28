@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 8212
+wiki_total_pages: 8223
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -518,6 +518,9 @@ wiki_pages:
   - key: "Polymarket"
     title: "Polymarket"
     url: "/wiki/entities/polymarket/"
+  - key: "Polyphemus"
+    title: "Polyphemus"
+    url: "/wiki/entities/polyphemus/"
   - key: "Pompey"
     title: "Pompey / 庞培"
     url: "/wiki/entities/pompey/"
@@ -560,6 +563,9 @@ wiki_pages:
   - key: "Portugal"
     title: "Portugal"
     url: "/wiki/entities/portugal/"
+  - key: "Poseidon"
+    title: "Poseidon"
+    url: "/wiki/entities/poseidon/"
   - key: "PosiTouch"
     title: "PosiTouch"
     url: "/wiki/entities/positouch/"

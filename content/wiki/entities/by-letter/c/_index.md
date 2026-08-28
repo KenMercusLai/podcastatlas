@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 8212
+wiki_total_pages: 8223
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -743,6 +743,9 @@ wiki_pages:
   - key: "CindyMcCaffrey"
     title: "Cindy McCaffrey"
     url: "/wiki/entities/cindymccaffrey/"
+  - key: "Circe"
+    title: "Circe"
+    url: "/wiki/entities/circe/"
   - key: "Circle"
     title: "Circle"
     url: "/wiki/entities/circle/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 8212
+wiki_total_pages: 8223
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -548,6 +548,9 @@ wiki_pages:
   - key: "Tipsy"
     title: "Tipsy"
     url: "/wiki/entities/tipsy/"
+  - key: "Tiresias"
+    title: "Tiresias"
+    url: "/wiki/entities/tiresias/"
   - key: "TlatelolcoMassacre"
     title: "Tlatelolco Massacre / 三文化广场枪击"
     url: "/wiki/entities/tlatelolcomassacre/"
@@ -761,6 +764,9 @@ wiki_pages:
   - key: "TrofimLysenko"
     title: "Trofim Lysenko / 李森科"
     url: "/wiki/entities/trofimlysenko/"
+  - key: "TrojanHorse"
+    title: "Trojan Horse"
+    url: "/wiki/entities/trojanhorse/"
   - key: "TrumpMediaAndTechnologyGroup"
     title: "Trump Media And Technology Group"
     url: "/wiki/entities/trumpmediaandtechnologygroup/"

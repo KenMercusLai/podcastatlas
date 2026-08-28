@@ -3,16 +3,16 @@
 generated: true
 topic_id: culture-and-media
 title: "Culture and Media"
-last_updated: 2026-08-28
-as_of_overview_commit: 37206a5e51ccb40df500bfd5f0fb67f1715467a4
-input_digest: 82bd8884ca972788f62e8d073799ef98b8af258f53199e3a438b60a2fe3a826b
+last_updated: 2026-08-29
+as_of_overview_commit: 27a8fecf4496900abee1ce1fb002b12489ece4cc
+input_digest: 23c9d3d4dda61bbed065eea9b404bf071fee7bd5f4f0d201c877223426e1c180
 ---
 
 # Culture and Media
 
 ## Current State
 
-The cultural sources use literature, folklore, games, sports strategy, physical media, device histories, platform interfaces, podcasts, brands, creative practice, and classical epic to examine politics, identity, evidence, agency, reception, attention, and human meaning rather than treating culture only as plot or entertainment. The Odyssey retelling adds a close classical branch in which return depends on recognition, hospitality tests, domestic legitimacy, divine strategy, and morally disturbing revenge, while the 70mm Marketplace Tech source treats analog exhibition as a cultural technology. Other branches keep source-bound attribution, rule-world folklore, weird fiction, AI interactive entertainment, platform-shaped reading and listening, mobile-device culture, translation interfaces, brand meaning, and practice philosophy distinct from nostalgia, marketing, or pure technical capability.
+The cultural sources use literature, folklore, games, sports strategy, physical media, device histories, platform interfaces, podcasts, brands, creative practice, and classical epic to examine politics, identity, evidence, agency, reception, attention, and human meaning rather than treating culture only as plot or entertainment. The Odyssey branch now pairs first-half wandering with second-half homecoming: [[HomericNostos]] gives the voyage pressure, while [[HomericFantasyGeography]], [[HomericHospitalityTest]], [[OdysseanLeadershipTrustFailure]], and [[HomericHomecomingRecognition]] make return a sequence of tested appetite, xenia, warning, crew trust, recognition, domestic legitimacy, divine strategy, and morally disturbing revenge. Other branches keep source-bound attribution, rule-world folklore, weird fiction, AI interactive entertainment, platform-shaped reading and listening, mobile-device culture, translation interfaces, brand meaning, and practice philosophy distinct from nostalgia, marketing, or pure technical capability.
 
 ## Cross-source Findings
 
@@ -26,16 +26,17 @@ The cultural sources use literature, folklore, games, sports strategy, physical 
 
 - The claim is grounded mainly in the current Kundera branch, with adjacent support from children's satire and modern Japanese fiction.
 
-### Classical Epic Return Depends On Recognition
+### Classical Epic Return Depends On Tested Nostos
 
-The Odyssey branch shows that [[HomericHomecomingRecognition]] and [[HomericHospitalityTest]] make [[TheOdyssey]] a story of restored social order: [[Odysseus]] returns through disguise, loyal recognition, xenia tests, divine strategy, and violent household revenge rather than arrival alone.
+The Odyssey branch now shows [[TheOdyssey]] as tested [[HomericNostos]]: [[Odysseus]] moves from the [[TrojanHorse]], [[HomericFantasyGeography]], [[HomericHospitalityTest]], and [[OdysseanLeadershipTrustFailure]] through shipwreck and [[Calypso]] toward [[HomericHomecomingRecognition]], where disguise, loyal recognition, xenia tests, divine strategy, and violent household revenge restore social order rather than simple arrival.
 
-**Evidence:** [[688-the-odyssey-return-of-the-king-part-2-glt2882541084]], [[TheOdyssey]], [[Odysseus]], [[HomericHomecomingRecognition]], [[HomericHospitalityTest]], [[Athena]], [[Penelope]], [[Telemachus]], [[Eumaeus]], [[Ithaca]], [[SuitorsOfPenelope]]
+**Evidence:** [[687-the-odyssey-hero-of-the-trojan-horse-part-1-glt2393125423]], [[688-the-odyssey-return-of-the-king-part-2-glt2882541084]], [[TheOdyssey]], [[Odysseus]], [[HomericNostos]], [[HomericFantasyGeography]], [[HomericHospitalityTest]], [[OdysseanLeadershipTrustFailure]], [[TrojanHorse]], [[Polyphemus]], [[Aeolus]], [[Circe]], [[Tiresias]], [[Sirens]], [[ScyllaAndCharybdis]], [[Helios]], [[Calypso]], [[HomericHomecomingRecognition]], [[Athena]], [[Penelope]], [[Telemachus]], [[Eumaeus]], [[Ithaca]], [[SuitorsOfPenelope]]
 
 **Qualifications:**
 
-- This claim is grounded in one Rest Is History close retelling of the Odyssey's homecoming sequence.
-- The episode treats the revenge and servant punishments as narratively central but morally disturbing, so restored order should not be read as uncomplicated justice.
+- This claim is grounded in two Rest Is History close retellings of the Odyssey rather than the whole reception history of Homeric epic.
+- The first-half source emphasizes fantasy geography, appetite, hostile hospitality, prophecy, and broken crew trust; the second-half source emphasizes recognition, household legitimacy, and revenge.
+- The episodes treat Odysseus' restored order as narratively central but morally difficult, so return should not be read as uncomplicated triumph.
 
 ### Folklore Can Become Rule Bound Inquiry
 

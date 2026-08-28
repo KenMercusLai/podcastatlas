@@ -19,19 +19,33 @@
     },
     {
       "global_candidate": false,
-      "id": "classical-epic-return-depends-on-recognition",
+      "id": "classical-epic-return-depends-on-tested-nostos",
       "qualifications": [
-        "This claim is grounded in one Rest Is History close retelling of the Odyssey's homecoming sequence.",
-        "The episode treats the revenge and servant punishments as narratively central but morally disturbing, so restored order should not be read as uncomplicated justice."
+        "This claim is grounded in two Rest Is History close retellings of the Odyssey rather than the whole reception history of Homeric epic.",
+        "The first-half source emphasizes fantasy geography, appetite, hostile hospitality, prophecy, and broken crew trust; the second-half source emphasizes recognition, household legitimacy, and revenge.",
+        "The episodes treat Odysseus' restored order as narratively central but morally difficult, so return should not be read as uncomplicated triumph."
       ],
-      "statement": "The Odyssey branch shows that [[HomericHomecomingRecognition]] and [[HomericHospitalityTest]] make [[TheOdyssey]] a story of restored social order: [[Odysseus]] returns through disguise, loyal recognition, xenia tests, divine strategy, and violent household revenge rather than arrival alone.",
+      "statement": "The Odyssey branch now shows [[TheOdyssey]] as tested [[HomericNostos]]: [[Odysseus]] moves from the [[TrojanHorse]], [[HomericFantasyGeography]], [[HomericHospitalityTest]], and [[OdysseanLeadershipTrustFailure]] through shipwreck and [[Calypso]] toward [[HomericHomecomingRecognition]], where disguise, loyal recognition, xenia tests, divine strategy, and violent household revenge restore social order rather than simple arrival.",
       "status": "source-scoped",
       "supporting_wikilinks": [
+        "687-the-odyssey-hero-of-the-trojan-horse-part-1-glt2393125423",
         "688-the-odyssey-return-of-the-king-part-2-glt2882541084",
         "TheOdyssey",
         "Odysseus",
-        "HomericHomecomingRecognition",
+        "HomericNostos",
+        "HomericFantasyGeography",
         "HomericHospitalityTest",
+        "OdysseanLeadershipTrustFailure",
+        "TrojanHorse",
+        "Polyphemus",
+        "Aeolus",
+        "Circe",
+        "Tiresias",
+        "Sirens",
+        "ScyllaAndCharybdis",
+        "Helios",
+        "Calypso",
+        "HomericHomecomingRecognition",
         "Athena",
         "Penelope",
         "Telemachus",
@@ -195,6 +209,6 @@
       ]
     }
   ],
-  "summary": "The cultural sources use literature, folklore, games, sports strategy, physical media, device histories, platform interfaces, podcasts, brands, creative practice, and classical epic to examine politics, identity, evidence, agency, reception, attention, and human meaning rather than treating culture only as plot or entertainment. The Odyssey retelling adds a close classical branch in which return depends on recognition, hospitality tests, domestic legitimacy, divine strategy, and morally disturbing revenge, while the 70mm Marketplace Tech source treats analog exhibition as a cultural technology. Other branches keep source-bound attribution, rule-world folklore, weird fiction, AI interactive entertainment, platform-shaped reading and listening, mobile-device culture, translation interfaces, brand meaning, and practice philosophy distinct from nostalgia, marketing, or pure technical capability.",
+  "summary": "The cultural sources use literature, folklore, games, sports strategy, physical media, device histories, platform interfaces, podcasts, brands, creative practice, and classical epic to examine politics, identity, evidence, agency, reception, attention, and human meaning rather than treating culture only as plot or entertainment. The Odyssey branch now pairs first-half wandering with second-half homecoming: [[HomericNostos]] gives the voyage pressure, while [[HomericFantasyGeography]], [[HomericHospitalityTest]], [[OdysseanLeadershipTrustFailure]], and [[HomericHomecomingRecognition]] make return a sequence of tested appetite, xenia, warning, crew trust, recognition, domestic legitimacy, divine strategy, and morally disturbing revenge. Other branches keep source-bound attribution, rule-world folklore, weird fiction, AI interactive entertainment, platform-shaped reading and listening, mobile-device culture, translation interfaces, brand meaning, and practice philosophy distinct from nostalgia, marketing, or pure technical capability.",
   "topic_id": "culture-and-media"
 }

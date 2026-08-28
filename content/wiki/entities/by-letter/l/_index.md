@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 8212
+wiki_total_pages: 8223
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -29,6 +29,9 @@ wiki_pages:
   - key: "LaelBrainard"
     title: "Lael Brainard"
     url: "/wiki/entities/laelbrainard/"
+  - key: "Laestrygonians"
+    title: "Laestrygonians"
+    url: "/wiki/entities/laestrygonians/"
   - key: "LaiXinlu"
     title: "Lai Xinlu"
     url: "/wiki/entities/laixinlu/"
@@ -539,6 +542,9 @@ wiki_pages:
   - key: "LottePotteryWorkshop"
     title: "Lotte Pottery Workshop / 乐天陶社"
     url: "/wiki/entities/lottepotteryworkshop/"
+  - key: "LotusEaters"
+    title: "Lotus Eaters"
+    url: "/wiki/entities/lotuseaters/"
   - key: "LotusRacing"
     title: "Lotus Racing"
     url: "/wiki/entities/lotusracing/"

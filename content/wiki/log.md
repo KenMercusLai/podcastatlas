@@ -13141,6 +13141,10 @@ Ingested the Marketplace Tech episode on Meta's proposed teen-safety settlement,
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-29] ingest | 687. The Odyssey: Hero of the Trojan Horse (Part 1)
+
+Ingested The Rest Is History episode 687 as the first-half Odyssey voyage retelling. Created the source note, Trojan Horse, Polyphemus, Aeolus, Laestrygonians, Circe, Tiresias, Sirens, Scylla and Charybdis, Helios, Poseidon, Lotus Eaters, Homeric Nostos, Homeric Fantasy Geography, and Odyssean Leadership Trust Failure pages; updated The Odyssey, Odysseus, Calypso, The Rest Is History, Homeric Hospitality Test, Ancient Greek Honor Community, Epic Hero Human Limits, index, and overview. No settled contradiction found; the source qualifies Odysseus' heroic cunning by showing pride, crew mistrust, appetite, sleep, divine warning, and fantasy-geography danger repeatedly obstructing homecoming.
+
 ## [2026-08-29] ingest | Branded fruit: How produce got "Honeycrisp-ified"
 
 Ingested the Planet Money episode on the honeycrispification of produce, using Rutgers' Scarlet Sunrise grape tomato to explain branded fresh produce, plant-variety IP, public-university commercialization, commodity-trap escape, consumer search costs, and compact crop-labor economics. Created the source note, Rutgers University, Scarlet Sunrise, Pete Nitzsche, Tom Orton, Dan Pashman, Miguel Gomez, Honeycrisp, Cosmic Crisp, University of Washington, Branded Produce Differentiation, Plant Variety Intellectual Property, Public Agricultural Research Commercialization, and Commodity Trap Escape pages; updated University of Minnesota, Advanced Agriculture Innovation, index, overview, and downstream synthesis artifacts. No settled contradiction found; taste-test verdicts, university revenue examples, market-saturation judgment, and compact-plant savings remain source-scoped.
@@ -13256,6 +13260,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-29] ingest | How to Improve Your Memory & Cognitive Function at Any Age | Dr. Alan Castel
 
 Ingested the Huberman Lab episode with Alan Castel on reconstructive memory, active retrieval, desirable difficulty, eyewitness contamination, prospective memory, cognitive aging, and successful aging. Created the source note, Alan Castel, Reconstructive Memory, Prospective Memory, Cognitive Aging, and Successful Aging pages; updated Self-Testing Memory Practice, Desirable Difficulty, Memory Contamination Risk, Cognitive Resilience, index, and overview. No settled contradiction found; the raw source's Castel/Castell spelling tension, dementia/pathology examples, walking/balance claims, AI self-testing, and older-adult fraud discussion remain source-scoped.
+
+## [2026-08-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-29] lint | Wiki health check
 

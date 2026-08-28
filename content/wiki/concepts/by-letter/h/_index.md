@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 5883
+wiki_total_pages: 5886
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -320,6 +320,9 @@ wiki_pages:
   - key: "HomericAdaptationModernization"
     title: "Homeric Adaptation Modernization"
     url: "/wiki/concepts/homericadaptationmodernization/"
+  - key: "HomericFantasyGeography"
+    title: "Homeric Fantasy Geography"
+    url: "/wiki/concepts/homericfantasygeography/"
   - key: "HomericHomecomingRecognition"
     title: "Homeric Homecoming Recognition"
     url: "/wiki/concepts/homerichomecomingrecognition/"
@@ -329,6 +332,9 @@ wiki_pages:
   - key: "HomericMortalityReading"
     title: "Homeric Mortality Reading"
     url: "/wiki/concepts/homericmortalityreading/"
+  - key: "HomericNostos"
+    title: "Homeric Nostos"
+    url: "/wiki/concepts/homericnostos/"
   - key: "HomestayDifferentiation"
     title: "Homestay Differentiation"
     url: "/wiki/concepts/homestaydifferentiation/"

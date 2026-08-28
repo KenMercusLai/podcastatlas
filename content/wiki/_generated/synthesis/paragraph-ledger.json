@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "61202b9a66271c2d68d2f82f74a4627d6b494c5125926dd5365093ad1ef34b60",
       "ba4b6e07bbc858f1190ceb97b96c4010a664e743420b13749fad4f031bf94171",
       "c321ac52ef2edf748cf684bd1bd8dd6992019c95a79af8c9c795f0aaecffc5e8",
       "e433733c468b2f627a77f3183baa077dca5130e3e98690479669fd2811587756",
@@ -354,11 +355,46 @@
       "082a8129ce267d83fa695011e4d1d9ec611a2911fab24932213544b548f520cf",
       "6dd2244cfd82de8e2076d8e2587203e47d3343702b97f83715d88073f28b3401"
     ],
-    "paragraph_count": 352
+    "paragraph_count": 353
   },
-  "overview_commit": "5bde19bc47ed09ceda19463d0eb804f709603159",
-  "overview_digest": "ed45ccc7d87d8d5b6d03740982252e971d5c75f08185db7ee564fe5e78be7a35",
+  "overview_commit": "27a8fecf4496900abee1ce1fb002b12489ece4cc",
+  "overview_digest": "585d9d51c02c9c7722069002dd0e1a6e678ee7fef675d492da616263e4fdb107",
   "paragraphs": [
+    {
+      "id": "61202b9a66271c2d68d2f82f74a4627d6b494c5125926dd5365093ad1ef34b60",
+      "primary_topic": "culture-and-media",
+      "secondary_topics": [],
+      "text": "The latest addition is [[687-the-odyssey-hero-of-the-trojan-horse-part-1-glt2393125423|687. The Odyssey: Hero of the Trojan Horse (Part 1)]], a [[TheRestIsHistory]] episode retelling the first half of [[TheOdyssey]] from the [[TrojanHorse]] and Troy's aftermath through [[LotusEaters]], [[Polyphemus]], [[Aeolus]], [[Laestrygonians]], [[Circe]], [[Tiresias]], [[Sirens]], [[ScyllaAndCharybdis]], [[Helios]]' cattle, and [[Calypso]]. It adds [[TrojanHorse]], [[Polyphemus]], [[Aeolus]], [[Laestrygonians]], [[Circe]], [[Tiresias]], [[Sirens]], [[ScyllaAndCharybdis]], [[Helios]], [[Poseidon]], [[LotusEaters]], [[HomericNostos]], [[HomericFantasyGeography]], and [[OdysseanLeadershipTrustFailure]], while extending [[Odysseus]], [[TheOdyssey]], [[HomericHospitalityTest]], [[EpicHeroHumanLimits]], [[AncientGreekHonorCommunity]], [[Calypso]], and [[TheRestIsHistory]]. Its core culture and literature synthesis is that the Odyssey's wandering is not aimless adventure: nostos gives the voyage a fixed pressure, while appetite, intoxication, forgetfulness, hostile hospitality, enchantment, divine warning, impossible sea hazards, and broken crew trust repeatedly test whether home can remain more powerful than delay or survival alone. No settled contradiction is recorded; the source deepens the existing homecoming-recognition branch by adding the first-half sequence of cunning, pride, loss, and fantasy geography before Odysseus reaches Ithaca.",
+      "topic_scores": {
+        "culture-and-media": 2,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "687-the-odyssey-hero-of-the-trojan-horse-part-1-glt2393125423",
+        "Aeolus",
+        "AncientGreekHonorCommunity",
+        "Calypso",
+        "Circe",
+        "EpicHeroHumanLimits",
+        "Helios",
+        "HomericFantasyGeography",
+        "HomericHospitalityTest",
+        "HomericNostos",
+        "Laestrygonians",
+        "LotusEaters",
+        "OdysseanLeadershipTrustFailure",
+        "Odysseus",
+        "Polyphemus",
+        "Poseidon",
+        "ScyllaAndCharybdis",
+        "Sirens",
+        "TheOdyssey",
+        "TheRestIsHistory",
+        "Tiresias",
+        "TrojanHorse"
+      ]
+    },
     {
       "id": "ba4b6e07bbc858f1190ceb97b96c4010a664e743420b13749fad4f031bf94171",
       "primary_topic": "business-and-markets",

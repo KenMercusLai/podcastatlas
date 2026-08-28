@@ -1647,6 +1647,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "687-the-odyssey-hero-of-the-trojan-horse-part-1-glt2393125423": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "688-the-odyssey-return-of-the-king-part-2-glt2882541084": [
     {
       "key": "culture",
@@ -27563,6 +27570,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "HomericFantasyGeography": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "HomericHomecomingRecognition": [
     {
       "key": "culture",
@@ -27578,6 +27592,13 @@
     }
   ],
   "HomericMortalityReading": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "HomericNostos": [
     {
       "key": "culture",
       "label": "Culture",
@@ -41541,6 +41562,13 @@
     }
   ],
   "Odin": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "OdysseanLeadershipTrustFailure": [
     {
       "key": "culture",
       "label": "Culture",

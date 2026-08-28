@@ -1457,6 +1457,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/adviceframingunderhierarchy/"
     },
+    "Aeolus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2393125423 [GLT2393125423].md",
+          "key": "687-the-odyssey-hero-of-the-trojan-horse-part-1-glt2393125423",
+          "show": "The Rest Is History",
+          "title": "687. The Odyssey: Hero of the Trojan Horse (Part 1)",
+          "url": "/wiki/sources/687-the-odyssey-hero-of-the-trojan-horse-part-1-glt2393125423/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/aeolus/"
+    },
     "AeropuertosArgentina2000": {
       "episode_count": 1,
       "show_count": 1,
@@ -1861,9 +1877,9 @@
       "url": "/wiki/concepts/analogmoviegoingexperience/"
     },
     "AncientGreekHonorCommunity": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "EP269 从“漫威宇宙”到《奥德赛》：为何总要翻拍英雄史诗？ [ltKLOTheqpuP6oaMYflFzpXTIPsW].md",
@@ -1878,9 +1894,16 @@
           "show": "The Rest Is History",
           "title": "688. The Odyssey: Return of the King (Part 2)",
           "url": "/wiki/sources/688-the-odyssey-return-of-the-king-part-2-glt2882541084/"
+        },
+        {
+          "episode_file": "GLT2393125423 [GLT2393125423].md",
+          "key": "687-the-odyssey-hero-of-the-trojan-horse-part-1-glt2393125423",
+          "show": "The Rest Is History",
+          "title": "687. The Odyssey: Hero of the Trojan Horse (Part 1)",
+          "url": "/wiki/sources/687-the-odyssey-hero-of-the-trojan-horse-part-1-glt2393125423/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-29",
       "url": "/wiki/concepts/ancientgreekhonorcommunity/"
     },
     "AndrewHuberman": {
@@ -3659,9 +3682,9 @@
       "url": "/wiki/entities/caltech/"
     },
     "Calypso": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2882541084 [GLT2882541084].md",
@@ -3669,9 +3692,16 @@
           "show": "The Rest Is History",
           "title": "688. The Odyssey: Return of the King (Part 2)",
           "url": "/wiki/sources/688-the-odyssey-return-of-the-king-part-2-glt2882541084/"
+        },
+        {
+          "episode_file": "GLT2393125423 [GLT2393125423].md",
+          "key": "687-the-odyssey-hero-of-the-trojan-horse-part-1-glt2393125423",
+          "show": "The Rest Is History",
+          "title": "687. The Odyssey: Hero of the Trojan Horse (Part 1)",
+          "url": "/wiki/sources/687-the-odyssey-hero-of-the-trojan-horse-part-1-glt2393125423/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-29",
       "url": "/wiki/entities/calypso/"
     },
     "CampaignFinanceAccessIncentive": {
@@ -4983,6 +5013,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/chunyuqiong/"
+    },
+    "Circe": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2393125423 [GLT2393125423].md",
+          "key": "687-the-odyssey-hero-of-the-trojan-horse-part-1-glt2393125423",
+          "show": "The Rest Is History",
+          "title": "687. The Odyssey: Hero of the Trojan Horse (Part 1)",
+          "url": "/wiki/sources/687-the-odyssey-hero-of-the-trojan-horse-part-1-glt2393125423/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/circe/"
     },
     "CityPlacePremium": {
       "episode_count": 1,
@@ -8455,6 +8501,29 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/environmentalprotectionagency/"
     },
+    "EpicHeroHumanLimits": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "EP269 从“漫威宇宙”到《奥德赛》：为何总要翻拍英雄史诗？ [ltKLOTheqpuP6oaMYflFzpXTIPsW].md",
+          "key": "ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw",
+          "show": "Talk三联",
+          "title": "EP269 从“漫威宇宙”到《奥德赛》：为何总要翻拍英雄史诗？",
+          "url": "/wiki/sources/ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw/"
+        },
+        {
+          "episode_file": "GLT2393125423 [GLT2393125423].md",
+          "key": "687-the-odyssey-hero-of-the-trojan-horse-part-1-glt2393125423",
+          "show": "The Rest Is History",
+          "title": "687. The Odyssey: Hero of the Trojan Horse (Part 1)",
+          "url": "/wiki/sources/687-the-odyssey-hero-of-the-trojan-horse-part-1-glt2393125423/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/epicherohumanlimits/"
+    },
     "EpinephrineAlertnessToolkit": {
       "episode_count": 1,
       "show_count": 1,
@@ -11086,6 +11155,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/heirloomimperialseal/"
     },
+    "Helios": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2393125423 [GLT2393125423].md",
+          "key": "687-the-odyssey-hero-of-the-trojan-horse-part-1-glt2393125423",
+          "show": "The Rest Is History",
+          "title": "687. The Odyssey: Hero of the Trojan Horse (Part 1)",
+          "url": "/wiki/sources/687-the-odyssey-hero-of-the-trojan-horse-part-1-glt2393125423/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/helios/"
+    },
     "HighBetaScienceFunding": {
       "episode_count": 1,
       "show_count": 1,
@@ -11201,6 +11286,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/hofburgpalace/"
     },
+    "HomericFantasyGeography": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2393125423 [GLT2393125423].md",
+          "key": "687-the-odyssey-hero-of-the-trojan-horse-part-1-glt2393125423",
+          "show": "The Rest Is History",
+          "title": "687. The Odyssey: Hero of the Trojan Horse (Part 1)",
+          "url": "/wiki/sources/687-the-odyssey-hero-of-the-trojan-horse-part-1-glt2393125423/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/homericfantasygeography/"
+    },
     "HomericHomecomingRecognition": {
       "episode_count": 1,
       "show_count": 1,
@@ -11218,9 +11319,9 @@
       "url": "/wiki/concepts/homerichomecomingrecognition/"
     },
     "HomericHospitalityTest": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2882541084 [GLT2882541084].md",
@@ -11228,10 +11329,33 @@
           "show": "The Rest Is History",
           "title": "688. The Odyssey: Return of the King (Part 2)",
           "url": "/wiki/sources/688-the-odyssey-return-of-the-king-part-2-glt2882541084/"
+        },
+        {
+          "episode_file": "GLT2393125423 [GLT2393125423].md",
+          "key": "687-the-odyssey-hero-of-the-trojan-horse-part-1-glt2393125423",
+          "show": "The Rest Is History",
+          "title": "687. The Odyssey: Hero of the Trojan Horse (Part 1)",
+          "url": "/wiki/sources/687-the-odyssey-hero-of-the-trojan-horse-part-1-glt2393125423/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-29",
       "url": "/wiki/concepts/homerichospitalitytest/"
+    },
+    "HomericNostos": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2393125423 [GLT2393125423].md",
+          "key": "687-the-odyssey-hero-of-the-trojan-horse-part-1-glt2393125423",
+          "show": "The Rest Is History",
+          "title": "687. The Odyssey: Hero of the Trojan Horse (Part 1)",
+          "url": "/wiki/sources/687-the-odyssey-hero-of-the-trojan-horse-part-1-glt2393125423/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/homericnostos/"
     },
     "Honeycrisp": {
       "episode_count": 1,
@@ -14244,6 +14368,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/ladywusunjian/"
     },
+    "Laestrygonians": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2393125423 [GLT2393125423].md",
+          "key": "687-the-odyssey-hero-of-the-trojan-horse-part-1-glt2393125423",
+          "show": "The Rest Is History",
+          "title": "687. The Odyssey: Hero of the Trojan Horse (Part 1)",
+          "url": "/wiki/sources/687-the-odyssey-hero-of-the-trojan-horse-part-1-glt2393125423/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/laestrygonians/"
+    },
     "LaneGreen": {
       "episode_count": 1,
       "show_count": 1,
@@ -15977,6 +16117,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/longtermachievementdiscipline/"
+    },
+    "LotusEaters": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2393125423 [GLT2393125423].md",
+          "key": "687-the-odyssey-hero-of-the-trojan-horse-part-1-glt2393125423",
+          "show": "The Rest Is History",
+          "title": "687. The Odyssey: Hero of the Trojan Horse (Part 1)",
+          "url": "/wiki/sources/687-the-odyssey-hero-of-the-trojan-horse-part-1-glt2393125423/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/lotuseaters/"
     },
     "Lovable": {
       "episode_count": 4,
@@ -18698,10 +18854,26 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/obliqueremonstranceselfprotection/"
     },
+    "OdysseanLeadershipTrustFailure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2393125423 [GLT2393125423].md",
+          "key": "687-the-odyssey-hero-of-the-trojan-horse-part-1-glt2393125423",
+          "show": "The Rest Is History",
+          "title": "687. The Odyssey: Hero of the Trojan Horse (Part 1)",
+          "url": "/wiki/sources/687-the-odyssey-hero-of-the-trojan-horse-part-1-glt2393125423/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/odysseanleadershiptrustfailure/"
+    },
     "Odysseus": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "EP269 从“漫威宇宙”到《奥德赛》：为何总要翻拍英雄史诗？ [ltKLOTheqpuP6oaMYflFzpXTIPsW].md",
@@ -18723,9 +18895,16 @@
           "show": "The Rest Is History",
           "title": "688. The Odyssey: Return of the King (Part 2)",
           "url": "/wiki/sources/688-the-odyssey-return-of-the-king-part-2-glt2882541084/"
+        },
+        {
+          "episode_file": "GLT2393125423 [GLT2393125423].md",
+          "key": "687-the-odyssey-hero-of-the-trojan-horse-part-1-glt2393125423",
+          "show": "The Rest Is History",
+          "title": "687. The Odyssey: Hero of the Trojan Horse (Part 1)",
+          "url": "/wiki/sources/687-the-odyssey-hero-of-the-trojan-horse-part-1-glt2393125423/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-29",
       "url": "/wiki/entities/odysseus/"
     },
     "OfficeDutyExitConstraint": {
@@ -19968,6 +20147,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/politicalaccentprestige/"
     },
+    "Polyphemus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2393125423 [GLT2393125423].md",
+          "key": "687-the-odyssey-hero-of-the-trojan-horse-part-1-glt2393125423",
+          "show": "The Rest Is History",
+          "title": "687. The Odyssey: Hero of the Trojan Horse (Part 1)",
+          "url": "/wiki/sources/687-the-odyssey-hero-of-the-trojan-horse-part-1-glt2393125423/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/polyphemus/"
+    },
     "Poolside": {
       "episode_count": 1,
       "show_count": 1,
@@ -19999,6 +20194,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/popeyes/"
+    },
+    "Poseidon": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2393125423 [GLT2393125423].md",
+          "key": "687-the-odyssey-hero-of-the-trojan-horse-part-1-glt2393125423",
+          "show": "The Rest Is History",
+          "title": "687. The Odyssey: Hero of the Trojan Horse (Part 1)",
+          "url": "/wiki/sources/687-the-odyssey-hero-of-the-trojan-horse-part-1-glt2393125423/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/poseidon/"
     },
     "PostSuccessArrogance": {
       "episode_count": 4,
@@ -22137,6 +22348,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/scottbessent/"
     },
+    "ScyllaAndCharybdis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2393125423 [GLT2393125423].md",
+          "key": "687-the-odyssey-hero-of-the-trojan-horse-part-1-glt2393125423",
+          "show": "The Rest Is History",
+          "title": "687. The Odyssey: Hero of the Trojan Horse (Part 1)",
+          "url": "/wiki/sources/687-the-odyssey-hero-of-the-trojan-horse-part-1-glt2393125423/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/scyllaandcharybdis/"
+    },
     "SeasonalWarLogistics": {
       "episode_count": 1,
       "show_count": 1,
@@ -22772,6 +22999,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/silentsqlfailure/"
+    },
+    "Sirens": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2393125423 [GLT2393125423].md",
+          "key": "687-the-odyssey-hero-of-the-trojan-horse-part-1-glt2393125423",
+          "show": "The Rest Is History",
+          "title": "687. The Odyssey: Hero of the Trojan Horse (Part 1)",
+          "url": "/wiki/sources/687-the-odyssey-hero-of-the-trojan-horse-part-1-glt2393125423/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/sirens/"
     },
     "SituationalCharacterTests": {
       "episode_count": 5,
@@ -24643,9 +24886,9 @@
       "url": "/wiki/entities/teyanataylor/"
     },
     "TheOdyssey": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 5,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "Elbows up, again： a US-Canada trade flare-up [6a8c0fa3a89d26398ee7a5db].md",
@@ -24695,15 +24938,22 @@
           "show": "The Rest Is History",
           "title": "688. The Odyssey: Return of the King (Part 2)",
           "url": "/wiki/sources/688-the-odyssey-return-of-the-king-part-2-glt2882541084/"
+        },
+        {
+          "episode_file": "GLT2393125423 [GLT2393125423].md",
+          "key": "687-the-odyssey-hero-of-the-trojan-horse-part-1-glt2393125423",
+          "show": "The Rest Is History",
+          "title": "687. The Odyssey: Hero of the Trojan Horse (Part 1)",
+          "url": "/wiki/sources/687-the-odyssey-hero-of-the-trojan-horse-part-1-glt2393125423/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-29",
       "url": "/wiki/entities/theodyssey/"
     },
     "TheRestIsHistory": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 1,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "GLT4665799025 [GLT4665799025].md",
@@ -24781,9 +25031,16 @@
           "show": "The Rest Is History",
           "title": "688. The Odyssey: Return of the King (Part 2)",
           "url": "/wiki/sources/688-the-odyssey-return-of-the-king-part-2-glt2882541084/"
+        },
+        {
+          "episode_file": "GLT2393125423 [GLT2393125423].md",
+          "key": "687-the-odyssey-hero-of-the-trojan-horse-part-1-glt2393125423",
+          "show": "The Rest Is History",
+          "title": "687. The Odyssey: Hero of the Trojan Horse (Part 1)",
+          "url": "/wiki/sources/687-the-odyssey-hero-of-the-trojan-horse-part-1-glt2393125423/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-29",
       "url": "/wiki/entities/therestishistory/"
     },
     "TheTroubles": {
@@ -25092,6 +25349,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/timurban/"
     },
+    "Tiresias": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2393125423 [GLT2393125423].md",
+          "key": "687-the-odyssey-hero-of-the-trojan-horse-part-1-glt2393125423",
+          "show": "The Rest Is History",
+          "title": "687. The Odyssey: Hero of the Trojan Horse (Part 1)",
+          "url": "/wiki/sources/687-the-odyssey-hero-of-the-trojan-horse-part-1-glt2393125423/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/tiresias/"
+    },
     "TokenTaxOnAI": {
       "episode_count": 1,
       "show_count": 1,
@@ -25297,6 +25570,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/treasurybuybackpolicy/"
+    },
+    "TrojanHorse": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2393125423 [GLT2393125423].md",
+          "key": "687-the-odyssey-hero-of-the-trojan-horse-part-1-glt2393125423",
+          "show": "The Rest Is History",
+          "title": "687. The Odyssey: Hero of the Trojan Horse (Part 1)",
+          "url": "/wiki/sources/687-the-odyssey-hero-of-the-trojan-horse-part-1-glt2393125423/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/trojanhorse/"
     },
     "TrueEducationKDrama": {
       "episode_count": 1,

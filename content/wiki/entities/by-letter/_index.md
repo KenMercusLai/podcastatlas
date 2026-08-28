@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 8212
+wiki_total_pages: 8223
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -254,6 +254,9 @@ wiki_pages:
   - key: "Aegler"
     title: "Aegler"
     url: "/wiki/entities/aegler/"
+  - key: "Aeolus"
+    title: "Aeolus"
+    url: "/wiki/entities/aeolus/"
   - key: "AeroFS"
     title: "AeroFS"
     url: "/wiki/entities/aerofs/"

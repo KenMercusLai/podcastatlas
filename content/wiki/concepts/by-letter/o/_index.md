@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 5883
+wiki_total_pages: 5886
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -65,6 +65,9 @@ wiki_pages:
   - key: "OddsDrivenStartupNarrative"
     title: "Odds-Driven Startup Narrative / 优化赔率"
     url: "/wiki/concepts/oddsdrivenstartupnarrative/"
+  - key: "OdysseanLeadershipTrustFailure"
+    title: "Odyssean Leadership Trust Failure"
+    url: "/wiki/concepts/odysseanleadershiptrustfailure/"
   - key: "OffPremiseRestaurantCommerce"
     title: "Off-Premise Restaurant Commerce"
     url: "/wiki/concepts/offpremiserestaurantcommerce/"

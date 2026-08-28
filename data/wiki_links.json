@@ -1063,6 +1063,10 @@
     "title": "68.疯狂实验史：哎！这该死的求知欲…",
     "url": "/wiki/sources/68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549/"
   },
+  "687-the-odyssey-hero-of-the-trojan-horse-part-1-glt2393125423": {
+    "title": "687. The Odyssey: Hero of the Trojan Horse (Part 1)",
+    "url": "/wiki/sources/687-the-odyssey-hero-of-the-trojan-horse-part-1-glt2393125423/"
+  },
   "688-the-odyssey-return-of-the-king-part-2-glt2882541084": {
     "title": "688. The Odyssey: Return of the King (Part 2)",
     "url": "/wiki/sources/688-the-odyssey-return-of-the-king-part-2-glt2882541084/"
@@ -3094,6 +3098,10 @@
   "Aegler": {
     "title": "Aegler",
     "url": "/wiki/entities/aegler/"
+  },
+  "Aeolus": {
+    "title": "Aeolus",
+    "url": "/wiki/entities/aeolus/"
   },
   "AeroFS": {
     "title": "AeroFS",
@@ -10582,6 +10590,10 @@
   "CircadianRhythmExperimentation": {
     "title": "Circadian Rhythm Experimentation",
     "url": "/wiki/concepts/circadianrhythmexperimentation/"
+  },
+  "Circe": {
+    "title": "Circe",
+    "url": "/wiki/entities/circe/"
   },
   "Circle": {
     "title": "Circle",
@@ -22295,6 +22307,10 @@
     "title": "Helion Polaris",
     "url": "/wiki/entities/helionpolaris/"
   },
+  "Helios": {
+    "title": "Helios",
+    "url": "/wiki/entities/helios/"
+  },
   "Helium3": {
     "title": "Helium-3",
     "url": "/wiki/concepts/helium3/"
@@ -22807,6 +22823,10 @@
     "title": "Homeric Adaptation Modernization",
     "url": "/wiki/concepts/homericadaptationmodernization/"
   },
+  "HomericFantasyGeography": {
+    "title": "Homeric Fantasy Geography",
+    "url": "/wiki/concepts/homericfantasygeography/"
+  },
   "HomericHomecomingRecognition": {
     "title": "Homeric Homecoming Recognition",
     "url": "/wiki/concepts/homerichomecomingrecognition/"
@@ -22818,6 +22838,10 @@
   "HomericMortalityReading": {
     "title": "Homeric Mortality Reading",
     "url": "/wiki/concepts/homericmortalityreading/"
+  },
+  "HomericNostos": {
+    "title": "Homeric Nostos",
+    "url": "/wiki/concepts/homericnostos/"
   },
   "HomestayDifferentiation": {
     "title": "Homestay Differentiation",
@@ -28103,6 +28127,10 @@
     "title": "Lael Brainard",
     "url": "/wiki/entities/laelbrainard/"
   },
+  "Laestrygonians": {
+    "title": "Laestrygonians",
+    "url": "/wiki/entities/laestrygonians/"
+  },
   "LaiJingping": {
     "title": "赖靖平 / Lai Jingping",
     "url": "/wiki/entities/laijingping/"
@@ -30462,6 +30490,10 @@
   "LotteryGamblingPlatformFraud": {
     "title": "Lottery Gambling Platform Fraud",
     "url": "/wiki/concepts/lotterygamblingplatformfraud/"
+  },
+  "LotusEaters": {
+    "title": "Lotus Eaters",
+    "url": "/wiki/entities/lotuseaters/"
   },
   "LotusRacing": {
     "title": "Lotus Racing",
@@ -35839,6 +35871,10 @@
     "title": "Odin / 奥丁",
     "url": "/wiki/entities/odin/"
   },
+  "OdysseanLeadershipTrustFailure": {
+    "title": "Odyssean Leadership Trust Failure",
+    "url": "/wiki/concepts/odysseanleadershiptrustfailure/"
+  },
   "Odysseus": {
     "title": "Odysseus",
     "url": "/wiki/entities/odysseus/"
@@ -38679,6 +38715,10 @@
     "title": "Polymarket",
     "url": "/wiki/entities/polymarket/"
   },
+  "Polyphemus": {
+    "title": "Polyphemus",
+    "url": "/wiki/entities/polyphemus/"
+  },
   "Pompey": {
     "title": "Pompey / 庞培",
     "url": "/wiki/entities/pompey/"
@@ -38770,6 +38810,10 @@
   "Portugal": {
     "title": "Portugal",
     "url": "/wiki/entities/portugal/"
+  },
+  "Poseidon": {
+    "title": "Poseidon",
+    "url": "/wiki/entities/poseidon/"
   },
   "PosiTouch": {
     "title": "PosiTouch",
@@ -43615,6 +43659,10 @@
     "title": "Scurvy Nutrition Insight",
     "url": "/wiki/concepts/scurvynutritioninsight/"
   },
+  "ScyllaAndCharybdis": {
+    "title": "Scylla and Charybdis",
+    "url": "/wiki/entities/scyllaandcharybdis/"
+  },
   "SeaLifeTrust": {
     "title": "Sea Life Trust",
     "url": "/wiki/entities/sealifetrust/"
@@ -45130,6 +45178,10 @@
   "Sinocism": {
     "title": "Sinocism",
     "url": "/wiki/entities/sinocism/"
+  },
+  "Sirens": {
+    "title": "Sirens",
+    "url": "/wiki/entities/sirens/"
   },
   "Siri": {
     "title": "Siri",
@@ -49515,6 +49567,10 @@
     "title": "Tipsy",
     "url": "/wiki/entities/tipsy/"
   },
+  "Tiresias": {
+    "title": "Tiresias",
+    "url": "/wiki/entities/tiresias/"
+  },
   "TitForTatCooperation": {
     "title": "Tit-For-Tat Cooperation / 一报还一报合作",
     "url": "/wiki/concepts/titfortatcooperation/"
@@ -50134,6 +50190,10 @@
   "TrofimLysenko": {
     "title": "Trofim Lysenko / 李森科",
     "url": "/wiki/entities/trofimlysenko/"
+  },
+  "TrojanHorse": {
+    "title": "Trojan Horse",
+    "url": "/wiki/entities/trojanhorse/"
   },
   "TroupeDisciplineAsIdentityFormation": {
     "title": "Troupe Discipline As Identity Formation",
