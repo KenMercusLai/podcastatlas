@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 8179
+wiki_total_pages: 8184
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -254,6 +254,9 @@ wiki_pages:
   - key: "WesternSahara"
     title: "Western Sahara"
     url: "/wiki/entities/westernsahara/"
+  - key: "Westlaw"
+    title: "Westlaw"
+    url: "/wiki/entities/westlaw/"
   - key: "WestsideFederationForSeniorAndSupportiveHousing"
     title: "Westside Federation for Senior and Supportive Housing"
     url: "/wiki/entities/westsidefederationforseniorandsupportivehousing/"

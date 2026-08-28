@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1989
+topic_total_pages: 1992
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -1528,12 +1528,18 @@ topic_concepts:
   - key: "LeanVersusCleanBubblePolicy"
     title: "Lean Versus Clean Bubble Policy"
     url: "/wiki/concepts/leanversuscleanbubblepolicy/"
+  - key: "LegalAgentOrchestration"
+    title: "Legal Agent Orchestration"
+    url: "/wiki/concepts/legalagentorchestration/"
   - key: "LegalAIHallucination"
     title: "Legal AI Hallucination"
     url: "/wiki/concepts/legalaihallucination/"
   - key: "LegalAIVerificationAuditability"
     title: "Legal AI Verification And Auditability"
     url: "/wiki/concepts/legalaiverificationauditability/"
+  - key: "LegalDataCompleteness"
+    title: "Legal Data Completeness"
+    url: "/wiki/concepts/legaldatacompleteness/"
   - key: "LegalInterestIndividualReduction"
     title: "Legal Interest Individual Reduction"
     url: "/wiki/concepts/legalinterestindividualreduction/"
@@ -1543,6 +1549,9 @@ topic_concepts:
   - key: "LegalParadoxThinking"
     title: "Legal Paradox Thinking"
     url: "/wiki/concepts/legalparadoxthinking/"
+  - key: "LegalServicesAIEconomics"
+    title: "Legal Services AI Economics"
+    url: "/wiki/concepts/legalservicesaieconomics/"
   - key: "LegalTruthEvidenceGap"
     title: "Legal Truth-Evidence Gap / 法律真相与证据差距"
     url: "/wiki/concepts/legaltruthevidencegap/"

@@ -164,6 +164,36 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/adhdselfdiagnosisboundary/"
     },
+    "AIAccessToJustice": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "tech_20260805_0805_MP_TECH_pod_128 [tech_20260805_0805_MP_TECH_pod_128].md",
+          "key": "tech-20260805-0805-mp-tech-pod-128-tech-20260805-0805-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI-driven law could be an answer to accessible legal help",
+          "url": "/wiki/sources/tech-20260805-0805-mp-tech-pod-128-tech-20260805-0805-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "Under strAIn： breaking the British state [6a799563523b3dfcd83c7271].md",
+          "key": "under-strain-breaking-the-british-state-6a799563523b3dfcd83c7271",
+          "show": "Economist Podcasts",
+          "title": "Under strAIn: breaking the British state",
+          "url": "/wiki/sources/under-strain-breaking-the-british-state-6a799563523b3dfcd83c7271/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The Trillion-Dollar Industries AI Is Disrupting： Voice, Law & the End of the Billable Hour [42064555].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-trillion-dollar-industries-ai-is-disrupting-voice-law-the-end-of-the-billable-hour-42064555",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The Trillion-Dollar Industries AI Is Disrupting: Voice, Law & the End of the Billable Hour",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-trillion-dollar-industries-ai-is-disrupting-voice-law-the-end-of-the-billable-hour-42064555/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/aiaccesstojustice/"
+    },
     "AIAdvertisingTargeting": {
       "episode_count": 3,
       "show_count": 1,
@@ -937,6 +967,29 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/ailegalpersonhoodrisk/"
     },
+    "AIModelOrchestration": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Microsoft CEO Satya Nadella on AI’s Business Revolution： What Happens to SaaS, OpenAI, and Microsoft？ ｜ LIVE from Davos [39818140].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Microsoft CEO Satya Nadella on AI's Business Revolution: What Happens to SaaS, OpenAI, and Microsoft? | LIVE from Davos",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The Trillion-Dollar Industries AI Is Disrupting： Voice, Law & the End of the Billable Hour [42064555].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-trillion-dollar-industries-ai-is-disrupting-voice-law-the-end-of-the-billable-hour-42064555",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The Trillion-Dollar Industries AI Is Disrupting: Voice, Law & the End of the Billable Hour",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-trillion-dollar-industries-ai-is-disrupting-voice-law-the-end-of-the-billable-hour-42064555/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/aimodelorchestration/"
+    },
     "AIOfficeAgent": {
       "episode_count": 2,
       "show_count": 2,
@@ -1150,6 +1203,36 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/aitrainingcopyrightdispute/"
+    },
+    "AIVoiceCloningRights": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "番外 14： 跟李诞聊聊播客、创作、AI 与中年 [972693552].md",
+          "key": "fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "番外 14：跟李诞聊聊播客、创作、AI 与中年",
+          "url": "/wiki/sources/fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552/"
+        },
+        {
+          "episode_file": "E234｜未来实拍电影还存在吗？与导演陆川聊聊AI给影视人的恐惧与自由 [b2be7093-3366-4ee2-8a7a-625f06206ae5].md",
+          "key": "e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5",
+          "show": "硅谷101",
+          "title": "E234｜未来实拍电影还存在吗？与导演陆川聊聊AI给影视人的恐惧与自由",
+          "url": "/wiki/sources/e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The Trillion-Dollar Industries AI Is Disrupting： Voice, Law & the End of the Billable Hour [42064555].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-trillion-dollar-industries-ai-is-disrupting-voice-law-the-end-of-the-billable-hour-42064555",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The Trillion-Dollar Industries AI Is Disrupting: Voice, Law & the End of the Billable Hour",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-trillion-dollar-industries-ai-is-disrupting-voice-law-the-end-of-the-billable-hour-42064555/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/aivoicecloningrights/"
     },
     "AccusationQuotaRefusal": {
       "episode_count": 1,
@@ -5172,6 +5255,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/cookswhofeed/"
     },
+    "Cooley": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The Trillion-Dollar Industries AI Is Disrupting： Voice, Law & the End of the Billable Hour [42064555].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-trillion-dollar-industries-ai-is-disrupting-voice-law-the-end-of-the-billable-hour-42064555",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The Trillion-Dollar Industries AI Is Disrupting: Voice, Law & the End of the Billable Hour",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-trillion-dollar-industries-ai-is-disrupting-voice-law-the-end-of-the-billable-hour-42064555/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/cooley/"
+    },
     "CoronaryArteryCalciumMidlifeScreening": {
       "episode_count": 1,
       "show_count": 1,
@@ -7193,6 +7292,29 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/electrictwowheelermarketdivergence/"
+    },
+    "ElevenLabs": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source？, Trump Accounts [42041390].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source?, Trump Accounts",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The Trillion-Dollar Industries AI Is Disrupting： Voice, Law & the End of the Billable Hour [42064555].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-trillion-dollar-industries-ai-is-disrupting-voice-law-the-end-of-the-billable-hour-42064555",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The Trillion-Dollar Industries AI Is Disrupting: Voice, Law & the End of the Billable Hour",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-trillion-dollar-industries-ai-is-disrupting-voice-law-the-end-of-the-billable-hour-42064555/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/elevenlabs/"
     },
     "ElisabethMarieOfAustria": {
       "episode_count": 1,
@@ -11449,6 +11571,36 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/humancenteredaieducation/"
     },
+    "HumanInTheLoopLegalAI": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "tech_20260805_0805_MP_TECH_pod_128 [tech_20260805_0805_MP_TECH_pod_128].md",
+          "key": "tech-20260805-0805-mp-tech-pod-128-tech-20260805-0805-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI-driven law could be an answer to accessible legal help",
+          "url": "/wiki/sources/tech-20260805-0805-mp-tech-pod-128-tech-20260805-0805-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "Continental rift： NATO’s tense summit [6a4cc6b0c4772b27e88e898e].md",
+          "key": "continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e",
+          "show": "Economist Podcasts",
+          "title": "Continental Rift: NATO's Tense Summit",
+          "url": "/wiki/sources/continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The Trillion-Dollar Industries AI Is Disrupting： Voice, Law & the End of the Billable Hour [42064555].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-trillion-dollar-industries-ai-is-disrupting-voice-law-the-end-of-the-billable-hour-42064555",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The Trillion-Dollar Industries AI Is Disrupting: Voice, Law & the End of the Billable Hour",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-trillion-dollar-industries-ai-is-disrupting-voice-law-the-end-of-the-billable-hour-42064555/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/humaninthelooplegalai/"
+    },
     "HumanRobotSafetyCertification": {
       "episode_count": 1,
       "show_count": 1,
@@ -13404,6 +13556,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/kimik3/"
     },
+    "KirklandEllis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The Trillion-Dollar Industries AI Is Disrupting： Voice, Law & the End of the Billable Hour [42064555].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-trillion-dollar-industries-ai-is-disrupting-voice-law-the-end-of-the-billable-hour-42064555",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The Trillion-Dollar Industries AI Is Disrupting: Voice, Law & the End of the Billable Hour",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-trillion-dollar-industries-ai-is-disrupting-voice-law-the-end-of-the-billable-hour-42064555/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/kirklandellis/"
+    },
     "KongBaoLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -13753,6 +13921,61 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/leadershipemotionalcounterweight/"
     },
+    "LegalAIVerificationAuditability": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "tech_20260805_0805_MP_TECH_pod_128 [tech_20260805_0805_MP_TECH_pod_128].md",
+          "key": "tech-20260805-0805-mp-tech-pod-128-tech-20260805-0805-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI-driven law could be an answer to accessible legal help",
+          "url": "/wiki/sources/tech-20260805-0805-mp-tech-pod-128-tech-20260805-0805-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The Trillion-Dollar Industries AI Is Disrupting： Voice, Law & the End of the Billable Hour [42064555].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-trillion-dollar-industries-ai-is-disrupting-voice-law-the-end-of-the-billable-hour-42064555",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The Trillion-Dollar Industries AI Is Disrupting: Voice, Law & the End of the Billable Hour",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-trillion-dollar-industries-ai-is-disrupting-voice-law-the-end-of-the-billable-hour-42064555/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/legalaiverificationauditability/"
+    },
+    "LegalAgentOrchestration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The Trillion-Dollar Industries AI Is Disrupting： Voice, Law & the End of the Billable Hour [42064555].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-trillion-dollar-industries-ai-is-disrupting-voice-law-the-end-of-the-billable-hour-42064555",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The Trillion-Dollar Industries AI Is Disrupting: Voice, Law & the End of the Billable Hour",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-trillion-dollar-industries-ai-is-disrupting-voice-law-the-end-of-the-billable-hour-42064555/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/legalagentorchestration/"
+    },
+    "LegalDataCompleteness": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The Trillion-Dollar Industries AI Is Disrupting： Voice, Law & the End of the Billable Hour [42064555].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-trillion-dollar-industries-ai-is-disrupting-voice-law-the-end-of-the-billable-hour-42064555",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The Trillion-Dollar Industries AI Is Disrupting: Voice, Law & the End of the Billable Hour",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-trillion-dollar-industries-ai-is-disrupting-voice-law-the-end-of-the-billable-hour-42064555/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/legaldatacompleteness/"
+    },
     "LegalJudgmentBeforeImperialGrace": {
       "episode_count": 1,
       "show_count": 1,
@@ -13768,6 +13991,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/legaljudgmentbeforeimperialgrace/"
+    },
+    "LegalServicesAIEconomics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The Trillion-Dollar Industries AI Is Disrupting： Voice, Law & the End of the Billable Hour [42064555].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-trillion-dollar-industries-ai-is-disrupting-voice-law-the-end-of-the-billable-hour-42064555",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The Trillion-Dollar Industries AI Is Disrupting: Voice, Law & the End of the Billable Hour",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-trillion-dollar-industries-ai-is-disrupting-voice-law-the-end-of-the-billable-hour-42064555/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/legalservicesaieconomics/"
     },
     "LegitimacyIndictmentWarfare": {
       "episode_count": 2,
@@ -13807,6 +14046,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/lego/"
+    },
+    "Legora": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The Trillion-Dollar Industries AI Is Disrupting： Voice, Law & the End of the Billable Hour [42064555].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-trillion-dollar-industries-ai-is-disrupting-voice-law-the-end-of-the-billable-hour-42064555",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The Trillion-Dollar Industries AI Is Disrupting: Voice, Law & the End of the Billable Hour",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-trillion-dollar-industries-ai-is-disrupting-voice-law-the-end-of-the-billable-hour-42064555/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/legora/"
     },
     "LeiBoYuanShuRetainer": {
       "episode_count": 1,
@@ -13867,6 +14122,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/lethalplanleakagerisk/"
+    },
+    "LexisNexis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The Trillion-Dollar Industries AI Is Disrupting： Voice, Law & the End of the Billable Hour [42064555].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-trillion-dollar-industries-ai-is-disrupting-voice-law-the-end-of-the-billable-hour-42064555",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The Trillion-Dollar Industries AI Is Disrupting: Voice, Law & the End of the Billable Hour",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-trillion-dollar-industries-ai-is-disrupting-voice-law-the-end-of-the-billable-hour-42064555/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/lexisnexis/"
     },
     "LiDuLateHan": {
       "episode_count": 1,
@@ -14308,6 +14579,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/libgen/"
+    },
+    "LicensedSyntheticVoiceMarketplace": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The Trillion-Dollar Industries AI Is Disrupting： Voice, Law & the End of the Billable Hour [42064555].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-trillion-dollar-industries-ai-is-disrupting-voice-law-the-end-of-the-billable-hour-42064555",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The Trillion-Dollar Industries AI Is Disrupting: Voice, Law & the End of the Billable Hour",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-trillion-dollar-industries-ai-is-disrupting-voice-law-the-end-of-the-billable-hour-42064555/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/licensedsyntheticvoicemarketplace/"
     },
     "LifestyleWeightManagement": {
       "episode_count": 2,
@@ -24765,6 +25052,94 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/vishnupadmanabhan/"
     },
+    "VoiceAgentInfrastructure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The Trillion-Dollar Industries AI Is Disrupting： Voice, Law & the End of the Billable Hour [42064555].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-trillion-dollar-industries-ai-is-disrupting-voice-law-the-end-of-the-billable-hour-42064555",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The Trillion-Dollar Industries AI Is Disrupting: Voice, Law & the End of the Billable Hour",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-trillion-dollar-industries-ai-is-disrupting-voice-law-the-end-of-the-billable-hour-42064555/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/voiceagentinfrastructure/"
+    },
+    "VoiceInteraction": {
+      "episode_count": 9,
+      "show_count": 5,
+      "source_note_count": 9,
+      "sources": [
+        {
+          "episode_file": "tech_20260107_0107_MP_TECH_pod_128 [tech_20260107_0107_MP_TECH_pod_128].md",
+          "key": "tech-20260107-0107-mp-tech-pod-128-tech-20260107-0107-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Farming in the digital age",
+          "url": "/wiki/sources/tech-20260107-0107-mp-tech-pod-128-tech-20260107-0107-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20251225_1225_MP_TECH_pod_128 [tech_20251225_1225_MP_TECH_pod_128].md",
+          "key": "tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "The year in AI wearables",
+          "url": "/wiki/sources/tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260202_0202_MP_TECH_pod_128 [tech_20260202_0202_MP_TECH_pod_128].md",
+          "key": "tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Making the most of AI, without the hype",
+          "url": "/wiki/sources/tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "【AI季报 26Q2】从 coding 到 RSI，强者愈强的未来？ (1) [171-1].md",
+          "key": "ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1",
+          "show": "晚点聊 LateTalk",
+          "title": "171: 【AI季报 26Q2】从 coding 到 RSI，强者愈强的未来？",
+          "url": "/wiki/sources/ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1/"
+        },
+        {
+          "episode_file": "高手怎么用 AI？普通人怎么学 AI？投资人如何投 AI？｜对谈课代表立正 [ljQYo4tz0o2-pmSl-Mjx6UmsuzsC].md",
+          "key": "gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc",
+          "show": "十字路口Crossing",
+          "title": "高手怎么用 AI？普通人怎么学 AI？投资人如何投 AI？｜对谈课代表立正",
+          "url": "/wiki/sources/gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc/"
+        },
+        {
+          "episode_file": "我遇到了第一个真正想买的陪伴机器人！｜对话世博：越伴动力创始人【公路播客】 [lryDeLIzm0-hbk68u5CqE3TI-epB].md",
+          "key": "wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb",
+          "show": "十字路口Crossing",
+          "title": "我遇到了第一个真正想买的陪伴机器人！｜对话世博：越伴动力创始人【公路播客】",
+          "url": "/wiki/sources/wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb/"
+        },
+        {
+          "episode_file": "把7位黑客松选手请进播客｜冠军、怪才和48小时不眠的野心家 [lhOzhSuQbw8Csa5tj5tqC7saQreX].md",
+          "key": "ba-7-wei-heikesong-xuanshou-qing-jin-boke-guanjun-guai-cai-he-48-xiaoshi-bumian-de-yexinjia-lhozhsuqbw8csa5tj5tqc7saqrex",
+          "show": "十字路口Crossing",
+          "title": "把7位黑客松选手请进播客｜冠军、怪才和48小时不眠的野心家",
+          "url": "/wiki/sources/ba-7-wei-heikesong-xuanshou-qing-jin-boke-guanjun-guai-cai-he-48-xiaoshi-bumian-de-yexinjia-lhozhsuqbw8csa5tj5tqc7saqrex/"
+        },
+        {
+          "episode_file": "编程的内燃机时代 ｜ 内核恐慌 #71 (1) [71-1].md",
+          "key": "biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1",
+          "show": "内核恐慌",
+          "title": "71. 编程的内燃机时代",
+          "url": "/wiki/sources/biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The Trillion-Dollar Industries AI Is Disrupting： Voice, Law & the End of the Billable Hour [42064555].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-trillion-dollar-industries-ai-is-disrupting-voice-law-the-end-of-the-billable-hour-42064555",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The Trillion-Dollar Industries AI Is Disrupting: Voice, Law & the End of the Billable Hour",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-trillion-dollar-industries-ai-is-disrupting-voice-law-the-end-of-the-billable-hour-42064555/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/voiceinteraction/"
+    },
     "VolkswagenGroup": {
       "episode_count": 1,
       "show_count": 1,
@@ -25288,6 +25663,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/wenrenxilatehan/"
+    },
+    "Westlaw": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The Trillion-Dollar Industries AI Is Disrupting： Voice, Law & the End of the Billable Hour [42064555].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-trillion-dollar-industries-ai-is-disrupting-voice-law-the-end-of-the-billable-hour-42064555",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The Trillion-Dollar Industries AI Is Disrupting: Voice, Law & the End of the Billable Hour",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-trillion-dollar-industries-ai-is-disrupting-voice-law-the-end-of-the-billable-hour-42064555/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/westlaw/"
     },
     "WhatIsOurProblem": {
       "episode_count": 1,

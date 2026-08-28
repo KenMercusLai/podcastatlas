@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 8179
+wiki_total_pages: 8184
 wiki_pages:
   - key: "KunyangBattle"
     title: "Battle of Kunyang / 昆阳之战"
@@ -314,6 +314,9 @@ wiki_pages:
   - key: "KirkTanner"
     title: "Kirk Tanner"
     url: "/wiki/entities/kirktanner/"
+  - key: "KirklandEllis"
+    title: "Kirkland Ellis"
+    url: "/wiki/entities/kirklandellis/"
   - key: "KirklandSignature"
     title: "Kirkland Signature"
     url: "/wiki/entities/kirklandsignature/"

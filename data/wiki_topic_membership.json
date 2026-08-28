@@ -15115,6 +15115,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "Cooley": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "CoolingAsPublicHealth": [
     {
       "key": "science",
@@ -33877,6 +33884,30 @@
       "url": "/topics/politics/"
     }
   ],
+  "LegalAgentOrchestration": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "LegalDataCompleteness": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "LegalInterestIndividualReduction": [
     {
       "key": "politics",
@@ -33908,6 +33939,18 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "LegalServicesAIEconomics": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "LegalTruthEvidenceGap": [
@@ -33966,6 +34009,13 @@
     }
   ],
   "Lego": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "Legora": [
     {
       "key": "technology",
       "label": "Technology",
@@ -34134,6 +34184,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "LexisNexis": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "LiAsPoliticalOrder": [
@@ -34519,6 +34576,13 @@
     }
   ],
   "Liblib": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "LicensedSyntheticVoiceMarketplace": [
     {
       "key": "technology",
       "label": "Technology",
@@ -60484,6 +60548,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "VoiceAgentInfrastructure": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "VoicesFromChernobyl": [
     {
       "key": "culture",
@@ -61720,6 +61791,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "Westlaw": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "WetStateHumanAgency": [
@@ -66399,6 +66477,13 @@
     }
   ],
   "all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "all-in-with-chamath-jason-sacks-friedberg-the-trillion-dollar-industries-ai-is-disrupting-voice-law-the-end-of-the-billable-hour-42064555": [
     {
       "key": "technology",
       "label": "Technology",

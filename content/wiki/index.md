@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Trillion-Dollar Industries AI Is Disrupting: Voice, Law & the End of the Billable Hour](sources/all-in-with-chamath-jason-sacks-friedberg-the-trillion-dollar-industries-ai-is-disrupting-voice-law-the-end-of-the-billable-hour-42064555.md) - All-In episode with ElevenLabs and Legora on enterprise voice agents, voice identity and licensing, legal AI, legal data completeness, junior-lawyer agent orchestration, and billable-hour pressure.
 - [《资治通鉴·汉纪》827丨一句话引发的帝王之死](sources/zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2.md) — 芮淇讲透资治通鉴 episode on 146 CE Taixue expansion, Emperor Zhi's "跋扈将军" remark, Liang Ji's poisoning and deathbed water obstruction, Li Gu's exposure risk, the first Liu Suan recommendation, and Cao Teng's personal objection.
 - [EP 45: Why AI Agents Break in Production: The Missing Harness in Your Data Stack](sources/ep-45-why-ai-agents-break-in-production-the-missing-harness-in-your-data-stack.md) - Data Science With Sam episode with Pradmesh Patil on why production data agents need harnesses for schema and lineage context, deterministic SQL validation, cost and permission governance, and context compaction.
 - [Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding](sources/all-in-with-chamath-jason-sacks-friedberg-former-intel-ceo-on-what-went-wrong-whats-next-lovable-ceo-on-the-real-promise-of-vibe-coding-42106400.md) - All-In episode with Pat Gelsinger and Anton Osika on Intel's missed manufacturing/platform turns, Lovable's production vibe-coding platform, AI energy constraints, and speculative orbital compute.
@@ -1654,6 +1655,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Legora](entities/Legora.md) - Legal AI company profiled by All-In around legal data, agent orchestration, trust, compliance, and billable-hour disruption.
+- [Cooley](entities/Cooley.md) - Law-firm example of startup-founder legal-service productization through firm materials, precedent, and workflows.
+- [Kirkland Ellis](entities/KirklandEllis.md) - Large law-firm economics example used in All-In's discussion of AI pressure on billable hours and junior-lawyer work.
+- [LexisNexis](entities/LexisNexis.md) - Legacy legal-research incumbent used as a data-completeness benchmark in the legal AI discussion.
+- [Westlaw](entities/Westlaw.md) - Legacy legal-research incumbent paired with LexisNexis in the legal AI data-completeness discussion.
 - [Pradmesh Patil](entities/PradmeshPatil.md) - Altimate AI co-founder/CEO describing agentic data engineering harnesses, deterministic validation, and data-agent governance.
 - [Altimate AI](entities/AltimateAI.md) - Company/source context behind Altimate Code, described as building agentic AI for data engineering.
 - [Altimate Code](entities/AltimateCode.md) - Open-source data-agent harness discussed as a context, validation, governance, and benchmark-performance example.
@@ -9837,6 +9843,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Voice Agent Infrastructure](concepts/VoiceAgentInfrastructure.md) - Production stack for reliable, integrated, interruptible AI voice agents with model orchestration, identity, moderation, and escalation controls.
+- [Licensed Synthetic Voice Marketplace](concepts/LicensedSyntheticVoiceMarketplace.md) - Consent-based market where authenticated voice owners license synthetic voices and receive compensation under usage and provenance controls.
+- [Legal Services AI Economics](concepts/LegalServicesAIEconomics.md) - Market and pricing shift where AI compresses legal research, diligence, document review, and billable-hour labor.
+- [Legal Agent Orchestration](concepts/LegalAgentOrchestration.md) - Lawyer-supervised agent workflow pattern for legal research, diligence, document review, drafting, extraction, and strategy.
+- [Legal Data Completeness](concepts/LegalDataCompleteness.md) - Requirement that legal AI systems cover relevant law, precedent, jurisdictional updates, firm knowledge, client documents, and matter evidence.
 - [Agentic Data Engineering Harness](concepts/AgenticDataEngineeringHarness.md) - Domain-specific harness that supplies data agents with schemas, lineage, tools, governance, validation, and execution infrastructure.
 - [Silent SQL Failure](concepts/SilentSQLFailure.md) - Failure mode where AI-generated SQL compiles and runs but answers the wrong question through hallucinated tables, bad joins, or incomplete context.
 - [Deterministic Data Agent Validation](concepts/DeterministicDataAgentValidation.md) - Practice of checking data-agent outputs with deterministic validators and ground-truth context instead of relying only on LLM reasoning.

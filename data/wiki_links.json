@@ -11867,6 +11867,10 @@
     "title": "Cooks Who Feed",
     "url": "/wiki/entities/cookswhofeed/"
   },
+  "Cooley": {
+    "title": "Cooley",
+    "url": "/wiki/entities/cooley/"
+  },
   "CoolingAsPublicHealth": {
     "title": "Cooling As Public Health",
     "url": "/wiki/concepts/coolingaspublichealth/"
@@ -27579,6 +27583,10 @@
     "title": "Kirk Tanner",
     "url": "/wiki/entities/kirktanner/"
   },
+  "KirklandEllis": {
+    "title": "Kirkland Ellis",
+    "url": "/wiki/entities/kirklandellis/"
+  },
   "KirklandSignature": {
     "title": "Kirkland Signature",
     "url": "/wiki/entities/kirklandsignature/"
@@ -28567,6 +28575,14 @@
     "title": "Legal AI Verification And Auditability",
     "url": "/wiki/concepts/legalaiverificationauditability/"
   },
+  "LegalAgentOrchestration": {
+    "title": "Legal Agent Orchestration",
+    "url": "/wiki/concepts/legalagentorchestration/"
+  },
+  "LegalDataCompleteness": {
+    "title": "Legal Data Completeness",
+    "url": "/wiki/concepts/legaldatacompleteness/"
+  },
   "LegalInterestIndividualReduction": {
     "title": "Legal Interest Individual Reduction",
     "url": "/wiki/concepts/legalinterestindividualreduction/"
@@ -28582,6 +28598,10 @@
   "LegalRiskAcquirerFit": {
     "title": "Legal Risk Acquirer Fit",
     "url": "/wiki/concepts/legalriskacquirerfit/"
+  },
+  "LegalServicesAIEconomics": {
+    "title": "Legal Services AI Economics",
+    "url": "/wiki/concepts/legalservicesaieconomics/"
   },
   "LegalTruthEvidenceGap": {
     "title": "Legal Truth-Evidence Gap / 法律真相与证据差距",
@@ -28626,6 +28646,10 @@
   "Lego": {
     "title": "Lego / 乐高",
     "url": "/wiki/entities/lego/"
+  },
+  "Legora": {
+    "title": "Legora",
+    "url": "/wiki/entities/legora/"
   },
   "LeiBoYuanShuRetainer": {
     "title": "雷波 / Lei Bo (Yuan Shu retainer)",
@@ -28770,6 +28794,10 @@
   "LexFridman": {
     "title": "Lex Fridman",
     "url": "/wiki/entities/lexfridman/"
+  },
+  "LexisNexis": {
+    "title": "LexisNexis",
+    "url": "/wiki/entities/lexisnexis/"
   },
   "LiAsPoliticalOrder": {
     "title": "Li As Political Order / 礼制政治秩序",
@@ -29278,6 +29306,10 @@
   "LicensedProductRiskAllocation": {
     "title": "Licensed Product Risk Allocation",
     "url": "/wiki/concepts/licensedproductriskallocation/"
+  },
+  "LicensedSyntheticVoiceMarketplace": {
+    "title": "Licensed Synthetic Voice Marketplace",
+    "url": "/wiki/concepts/licensedsyntheticvoicemarketplace/"
   },
   "LidiyaSheCameFromMariupol": {
     "title": "莉蒂娅 / Lidiya",
@@ -51383,6 +51415,10 @@
     "title": "Vocational Education / 职业教育",
     "url": "/wiki/concepts/vocationaleducation/"
   },
+  "VoiceAgentInfrastructure": {
+    "title": "Voice Agent Infrastructure",
+    "url": "/wiki/concepts/voiceagentinfrastructure/"
+  },
   "VoiceInteraction": {
     "title": "Voice Interaction",
     "url": "/wiki/concepts/voiceinteraction/"
@@ -52562,6 +52598,10 @@
   "WesternZhouPolity": {
     "title": "西周国 / Western Zhou Polity",
     "url": "/wiki/entities/westernzhoupolity/"
+  },
+  "Westlaw": {
+    "title": "Westlaw",
+    "url": "/wiki/entities/westlaw/"
   },
   "WestsideFederationForSeniorAndSupportiveHousing": {
     "title": "Westside Federation for Senior and Supportive Housing",
@@ -57634,6 +57674,10 @@
   "all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920": {
     "title": "The Future of Everything: What CEOs of Circle, CrowdStrike & More See Coming in 2026",
     "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920/"
+  },
+  "all-in-with-chamath-jason-sacks-friedberg-the-trillion-dollar-industries-ai-is-disrupting-voice-law-the-end-of-the-billable-hour-42064555": {
+    "title": "The Trillion-Dollar Industries AI Is Disrupting: Voice, Law & the End of the Billable Hour",
+    "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-trillion-dollar-industries-ai-is-disrupting-voice-law-the-end-of-the-billable-hour-42064555/"
   },
   "all-in-with-chamath-jason-sacks-friedberg-under-secretary-of-state-sarah-b-rogers-on-dismantling-the-censorship-industrial-complex-39828360": {
     "title": "Under Secretary of State Sarah B. Rogers on dismantling the Censorship Industrial Complex",

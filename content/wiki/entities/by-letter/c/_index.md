@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 8179
+wiki_total_pages: 8184
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -986,6 +986,9 @@ wiki_pages:
   - key: "CooksWhoFeed"
     title: "Cooks Who Feed"
     url: "/wiki/entities/cookswhofeed/"
+  - key: "Cooley"
+    title: "Cooley"
+    url: "/wiki/entities/cooley/"
   - key: "Coolpad"
     title: "Coolpad"
     url: "/wiki/entities/coolpad/"

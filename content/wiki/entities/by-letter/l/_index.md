@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 8179
+wiki_total_pages: 8184
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -185,6 +185,9 @@ wiki_pages:
   - key: "Lego"
     title: "Lego / 乐高"
     url: "/wiki/entities/lego/"
+  - key: "Legora"
+    title: "Legora"
+    url: "/wiki/entities/legora/"
   - key: "LeiJun"
     title: "Lei Jun"
     url: "/wiki/entities/leijun/"
@@ -254,6 +257,9 @@ wiki_pages:
   - key: "LexFridman"
     title: "Lex Fridman"
     url: "/wiki/entities/lexfridman/"
+  - key: "LexisNexis"
+    title: "LexisNexis"
+    url: "/wiki/entities/lexisnexis/"
   - key: "LiAuto"
     title: "Li Auto / 理想汽车"
     url: "/wiki/entities/liauto/"

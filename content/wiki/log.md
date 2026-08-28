@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-29] ingest | The Trillion-Dollar Industries AI Is Disrupting: Voice, Law & the End of the Billable Hour
+
+Ingested the All-In episode on ElevenLabs' enterprise voice-agent stack, voice identity and licensed voice marketplaces, Legora's legal AI platform, legal data completeness, junior-lawyer agent orchestration, and billable-hour pressure. Created the source note, Legora, Cooley, Kirkland Ellis, LexisNexis, Westlaw, Voice Agent Infrastructure, Licensed Synthetic Voice Marketplace, Legal Services AI Economics, Legal Agent Orchestration, and Legal Data Completeness pages; updated ElevenLabs, Voice Interaction, AI Voice Cloning Rights, AI Model Orchestration, Human-In-The-Loop Legal AI, Legal AI Verification and Auditability, AI Access To Justice, index, and overview. No settled contradiction found; revenue, market-size, growth, transaction-speed, data-coverage, accuracy, deployment, and payout claims remain source-scoped.
+
 ## [2026-08-29] ingest | 《资治通鉴·汉纪》827丨一句话引发的帝王之死
 
 Added source page for Hanji 827: Taixue/Mingjing expansion, Emperor Zhi calling Liang Ji "跋扈将军", Liang Ji's poisoning and water obstruction, Li Gu's deathbed witness/grief, and the first Liu Suan succession recommendation with Cao Teng's objection. Updated Emperor Zhi, Liang Ji, Li Gu, Du Qiao, Hu Guang, Cao Teng, Liu Suan, Taixue, Self-Protective Accession Choice, Outer-Relative Court Power, index, and overview. No settled contradiction found; Zhao Jie, Liu Hong reclassification, sea-water disaster, exact Taixue count, and the opening moral frame remain source-scoped.

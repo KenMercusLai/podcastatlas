@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "v"
-wiki_total_pages: 5861
+wiki_total_pages: 5866
 wiki_pages:
   - key: "VacationShame"
     title: "Vacation Shame / 休假羞耻感"
@@ -194,6 +194,9 @@ wiki_pages:
   - key: "VocationalEducation"
     title: "Vocational Education / 职业教育"
     url: "/wiki/concepts/vocationaleducation/"
+  - key: "VoiceAgentInfrastructure"
+    title: "Voice Agent Infrastructure"
+    url: "/wiki/concepts/voiceagentinfrastructure/"
   - key: "VoiceInteraction"
     title: "Voice Interaction"
     url: "/wiki/concepts/voiceinteraction/"
