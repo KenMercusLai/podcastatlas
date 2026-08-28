@@ -2269,9 +2269,9 @@
       "url": "/wiki/concepts/assisteddrivingtrustformation/"
     },
     "Atang": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "lgBs8AaxGUH_xzGa8iUEwwc7ypvM [lgBs8AaxGUH_xzGa8iUEwwc7ypvM].md",
@@ -2307,9 +2307,16 @@
           "show": "这病说来话长",
           "title": "VOL.214 为什么越优秀的人，越容易在职场被PUA到怀疑自己？从《铁拳教育》聊到“铁拳职场”",
           "url": "/wiki/sources/vol-214-weishenme-yue-youxiu-de-ren-yue-rongyi-zai-zhichang-bei-pua-dao-huaiyi-ziji-cong-tiequan-jiaoyu-liaodao-tiequan-zhichang-lmx4ewrw7kvcqpyh-q3bur35ybgz/"
+        },
+        {
+          "episode_file": "lifKugB27D79Ut30LWFMU5voJeGC [lifKugB27D79Ut30LWFMU5voJeGC].md",
+          "key": "vol-213-wenzi-weishenme-pianai-yao-ni-pifuke-yisheng-chaichuan-quwen-zhishangshui-fu-kuaisu-zhiyang-xuanyao-zhinan-lifkugb27d79ut30lwfmu5vojegec",
+          "show": "这病说来话长",
+          "title": "VOL.213 蚊子为什么偏爱咬你？皮肤科医生拆穿“驱蚊”智商税｜附快速止痒选药指南",
+          "url": "/wiki/sources/vol-213-wenzi-weishenme-pianai-yao-ni-pifuke-yisheng-chaichuan-quwen-zhishangshui-fu-kuaisu-zhiyang-xuanyao-zhinan-lifkugb27d79ut30lwfmu5vojegec/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-29",
       "url": "/wiki/entities/atang/"
     },
     "Athena": {
@@ -11536,6 +11543,38 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/infinityventurestudio/"
     },
+    "InsectBiteAftercare": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lifKugB27D79Ut30LWFMU5voJeGC [lifKugB27D79Ut30LWFMU5voJeGC].md",
+          "key": "vol-213-wenzi-weishenme-pianai-yao-ni-pifuke-yisheng-chaichuan-quwen-zhishangshui-fu-kuaisu-zhiyang-xuanyao-zhinan-lifkugb27d79ut30lwfmu5vojegec",
+          "show": "这病说来话长",
+          "title": "VOL.213 蚊子为什么偏爱咬你？皮肤科医生拆穿“驱蚊”智商税｜附快速止痒选药指南",
+          "url": "/wiki/sources/vol-213-wenzi-weishenme-pianai-yao-ni-pifuke-yisheng-chaichuan-quwen-zhishangshui-fu-kuaisu-zhiyang-xuanyao-zhinan-lifkugb27d79ut30lwfmu5vojegec/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/insectbiteaftercare/"
+    },
+    "InsectBiteDermatitis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lifKugB27D79Ut30LWFMU5voJeGC [lifKugB27D79Ut30LWFMU5voJeGC].md",
+          "key": "vol-213-wenzi-weishenme-pianai-yao-ni-pifuke-yisheng-chaichuan-quwen-zhishangshui-fu-kuaisu-zhiyang-xuanyao-zhinan-lifkugb27d79ut30lwfmu5vojegec",
+          "show": "这病说来话长",
+          "title": "VOL.213 蚊子为什么偏爱咬你？皮肤科医生拆穿“驱蚊”智商税｜附快速止痒选药指南",
+          "url": "/wiki/sources/vol-213-wenzi-weishenme-pianai-yao-ni-pifuke-yisheng-chaichuan-quwen-zhishangshui-fu-kuaisu-zhiyang-xuanyao-zhinan-lifkugb27d79ut30lwfmu5vojegec/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/insectbitedermatitis/"
+    },
     "InstitutionalPolicyPluralism": {
       "episode_count": 1,
       "show_count": 1,
@@ -16535,6 +16574,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/morninglightcircadiananchoring/"
+    },
+    "MosquitoBitePrevention": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lifKugB27D79Ut30LWFMU5voJeGC [lifKugB27D79Ut30LWFMU5voJeGC].md",
+          "key": "vol-213-wenzi-weishenme-pianai-yao-ni-pifuke-yisheng-chaichuan-quwen-zhishangshui-fu-kuaisu-zhiyang-xuanyao-zhinan-lifkugb27d79ut30lwfmu5vojegec",
+          "show": "这病说来话长",
+          "title": "VOL.213 蚊子为什么偏爱咬你？皮肤科医生拆穿“驱蚊”智商税｜附快速止痒选药指南",
+          "url": "/wiki/sources/vol-213-wenzi-weishenme-pianai-yao-ni-pifuke-yisheng-chaichuan-quwen-zhishangshui-fu-kuaisu-zhiyang-xuanyao-zhinan-lifkugb27d79ut30lwfmu5vojegec/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/mosquitobiteprevention/"
     },
     "MotivationRewardEffortCalculation": {
       "episode_count": 1,
@@ -23754,6 +23809,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/vaccinescheduletrustrebuilding/"
     },
+    "VectorBorneInfectionEscalation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lifKugB27D79Ut30LWFMU5voJeGC [lifKugB27D79Ut30LWFMU5voJeGC].md",
+          "key": "vol-213-wenzi-weishenme-pianai-yao-ni-pifuke-yisheng-chaichuan-quwen-zhishangshui-fu-kuaisu-zhiyang-xuanyao-zhinan-lifkugb27d79ut30lwfmu5vojegec",
+          "show": "这病说来话长",
+          "title": "VOL.213 蚊子为什么偏爱咬你？皮肤科医生拆穿“驱蚊”智商税｜附快速止痒选药指南",
+          "url": "/wiki/sources/vol-213-wenzi-weishenme-pianai-yao-ni-pifuke-yisheng-chaichuan-quwen-zhishangshui-fu-kuaisu-zhiyang-xuanyao-zhinan-lifkugb27d79ut30lwfmu5vojegec/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/vectorborneinfectionescalation/"
+    },
     "VernacularFemaleReligiousWriting": {
       "episode_count": 1,
       "show_count": 1,
@@ -24818,6 +24889,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/wulaoshisanlianeditor/"
     },
+    "WuLaoshiZheBing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lifKugB27D79Ut30LWFMU5voJeGC [lifKugB27D79Ut30LWFMU5voJeGC].md",
+          "key": "vol-213-wenzi-weishenme-pianai-yao-ni-pifuke-yisheng-chaichuan-quwen-zhishangshui-fu-kuaisu-zhiyang-xuanyao-zhinan-lifkugb27d79ut30lwfmu5vojegec",
+          "show": "这病说来话长",
+          "title": "VOL.213 蚊子为什么偏爱咬你？皮肤科医生拆穿“驱蚊”智商税｜附快速止痒选药指南",
+          "url": "/wiki/sources/vol-213-wenzi-weishenme-pianai-yao-ni-pifuke-yisheng-chaichuan-quwen-zhishangshui-fu-kuaisu-zhiyang-xuanyao-zhinan-lifkugb27d79ut30lwfmu5vojegec/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/wulaoshizhebing/"
+    },
     "WuShuWanMagistrateLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -25685,9 +25772,9 @@
       "url": "/wiki/entities/xunyou/"
     },
     "YaMengDoctor": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lgBs8AaxGUH_xzGa8iUEwwc7ypvM [lgBs8AaxGUH_xzGa8iUEwwc7ypvM].md",
@@ -25695,9 +25782,16 @@
           "show": "这病说来话长",
           "title": "VOL.218韩杰医生事件后四大门诊坦白局：不对立不甩锅，医患如何联手打赢防漏诊的“排雷战”？",
           "url": "/wiki/sources/vol-218-hanjie-yisheng-shijian-hou-sida-menzhen-tanbaiju-bu-duili-bu-shuaiguo-yihuan-ruhe-lianshou-daying-fang-louzhen-de-paileizhan-lgbs8aaxguh-xzga8iuewwc7ypvm/"
+        },
+        {
+          "episode_file": "lifKugB27D79Ut30LWFMU5voJeGC [lifKugB27D79Ut30LWFMU5voJeGC].md",
+          "key": "vol-213-wenzi-weishenme-pianai-yao-ni-pifuke-yisheng-chaichuan-quwen-zhishangshui-fu-kuaisu-zhiyang-xuanyao-zhinan-lifkugb27d79ut30lwfmu5vojegec",
+          "show": "这病说来话长",
+          "title": "VOL.213 蚊子为什么偏爱咬你？皮肤科医生拆穿“驱蚊”智商税｜附快速止痒选药指南",
+          "url": "/wiki/sources/vol-213-wenzi-weishenme-pianai-yao-ni-pifuke-yisheng-chaichuan-quwen-zhishangshui-fu-kuaisu-zhiyang-xuanyao-zhinan-lifkugb27d79ut30lwfmu5vojegec/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-29",
       "url": "/wiki/entities/yamengdoctor/"
     },
     "Yadea": {
@@ -26297,6 +26391,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/yijingfortress/"
+    },
+    "YinLaoshiZheBing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lifKugB27D79Ut30LWFMU5voJeGC [lifKugB27D79Ut30LWFMU5voJeGC].md",
+          "key": "vol-213-wenzi-weishenme-pianai-yao-ni-pifuke-yisheng-chaichuan-quwen-zhishangshui-fu-kuaisu-zhiyang-xuanyao-zhinan-lifkugb27d79ut30lwfmu5vojegec",
+          "show": "这病说来话长",
+          "title": "VOL.213 蚊子为什么偏爱咬你？皮肤科医生拆穿“驱蚊”智商税｜附快速止痒选药指南",
+          "url": "/wiki/sources/vol-213-wenzi-weishenme-pianai-yao-ni-pifuke-yisheng-chaichuan-quwen-zhishangshui-fu-kuaisu-zhiyang-xuanyao-zhinan-lifkugb27d79ut30lwfmu5vojegec/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/yinlaoshizhebing/"
     },
     "YinXinDoctor": {
       "episode_count": 1,
@@ -27192,9 +27302,9 @@
       "url": "/wiki/entities/zhaoyanlatehan/"
     },
     "ZheBingShuoLaiHuaChang": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "loFs520pS1eVva8naFSnRKcbvgJZ [loFs520pS1eVva8naFSnRKcbvgJZ].md",
@@ -27244,9 +27354,16 @@
           "show": "这病说来话长",
           "title": "VOL.214 为什么越优秀的人，越容易在职场被PUA到怀疑自己？从《铁拳教育》聊到“铁拳职场”",
           "url": "/wiki/sources/vol-214-weishenme-yue-youxiu-de-ren-yue-rongyi-zai-zhichang-bei-pua-dao-huaiyi-ziji-cong-tiequan-jiaoyu-liaodao-tiequan-zhichang-lmx4ewrw7kvcqpyh-q3bur35ybgz/"
+        },
+        {
+          "episode_file": "lifKugB27D79Ut30LWFMU5voJeGC [lifKugB27D79Ut30LWFMU5voJeGC].md",
+          "key": "vol-213-wenzi-weishenme-pianai-yao-ni-pifuke-yisheng-chaichuan-quwen-zhishangshui-fu-kuaisu-zhiyang-xuanyao-zhinan-lifkugb27d79ut30lwfmu5vojegec",
+          "show": "这病说来话长",
+          "title": "VOL.213 蚊子为什么偏爱咬你？皮肤科医生拆穿“驱蚊”智商税｜附快速止痒选药指南",
+          "url": "/wiki/sources/vol-213-wenzi-weishenme-pianai-yao-ni-pifuke-yisheng-chaichuan-quwen-zhishangshui-fu-kuaisu-zhiyang-xuanyao-zhinan-lifkugb27d79ut30lwfmu5vojegec/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-29",
       "url": "/wiki/entities/zhebingshuolaihuachang/"
     },
     "ZhengBaoLateHan": {

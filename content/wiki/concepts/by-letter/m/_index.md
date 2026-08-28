@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 5848
+wiki_total_pages: 5852
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -878,6 +878,9 @@ wiki_pages:
   - key: "MOSFET"
     title: "MOSFET / MOS Transistor"
     url: "/wiki/concepts/mosfet/"
+  - key: "MosquitoBitePrevention"
+    title: "Mosquito Bite Prevention"
+    url: "/wiki/concepts/mosquitobiteprevention/"
   - key: "MostFavoredNationDrugPricing"
     title: "Most-Favored-Nation Drug Pricing"
     url: "/wiki/concepts/mostfavorednationdrugpricing/"

@@ -3,16 +3,16 @@
 generated: true
 topic_id: science-health-and-climate
 title: "Science, Health, and Climate"
-last_updated: 2026-08-28
-as_of_overview_commit: 5a0e3672ad8e37cfa03083cb6ee0d550fb9b83de
-input_digest: 9c956d9133d3a182fdd9cf05674b048065c44efe3deb9ea54a102717c4f008e3
+last_updated: 2026-08-29
+as_of_overview_commit: 5268dd1690b2b126adeac4c0e9bea2a6110d9e66
+input_digest: 7ad67cef7af594b1e2eae7ee29011c55c2549e2a7b0a6e15d6d4af9f022a57dc
 ---
 
 # Science, Health, and Climate
 
 ## Current State
 
-VOL.215 adds a sugar-control literacy branch: liquid sugar, juice, hidden sugar, zero-sucrose labels, low-GI honey, sweeteners, anti-sugar supplements, staple foods, and food pleasure engineering need food-structure and clinical context rather than blanket sweetness avoidance. The Huberman Q&A adds flexible health self-regulation to the science-and-health map: morning light, sleep, exercise, nutrition, memory practice, olfactory training, recovery, and sustainable routines matter most when fitted to real constraints rather than protocol perfection, while supplements, testosterone, fertility, hormone therapy, and surgery recovery remain clinically bounded. The bipolar-disorder episode adds a psychiatric-risk branch: diagnosis, mania/hypomania distinctions, lithium monitoring, ECT boundaries, psychotherapy, sleep and nutrition supports, and creativity claims all stay inside medical-risk management rather than self-directed optimization. VOL.216 adds a neuroscience-literacy and diagnosis-boundary branch: prefrontal cortex and dopamine language is useful only when network-level brain function, sleep, hunger, pain, alcohol, stress, environment, ADHD criteria, and red-flag clinical changes remain visible. Science, health, climate, and space-engineering claims become credible when evidence, physical constraints, regulation, implementation cost, clinical context, diagnostic follow-through, and operational closure stay visible. The topic includes first-visit diagnostic safety netting, female hormone health as life-course phenotyping, metabolic psychiatry, spine care, medical privacy AI, Wudang medicine and cultivation, science policy, space launch infrastructure, reusable rockets, climate adaptation and carbon removal, evidence-bound dinosaur reconstruction, insurance risk planning, and individualized cancer vaccines. Across these branches, the wiki treats promising interventions and tests as bounded by diagnosis, verification, recurrence or failure modes, institutional trust, affordability, and quality-of-life judgment rather than by headline labels alone.
+VOL.215 adds a sugar-control literacy branch: fruit, sweetened drinks, carbohydrate staples, hypoglycemia risk, medication choice, and lifestyle adherence only become medically meaningful when tied to glycemic load, monitoring, comorbidities, and individualized plans. VOL.213 adds an insect-bite literacy branch: mosquito repellents depend on effective ingredients, coverage, and reapplication; ordinary bite swelling is usually allergic/inflammatory; antihistamines and steroids have safety boundaries; and tick or chigger fever/eschar exposure shifts care to clinicians. The topic also includes first-visit diagnostic safety netting, female hormone health across menstruation, PCOS, menopause, pregnancy, and transgender care, plus individualized cancer vaccines. Across these strands, recurring claims emphasize mechanism, measurement, escalation thresholds, and longitudinal adherence over headline labels alone.
 
 ## Cross-source Findings
 
@@ -202,3 +202,15 @@ Science-and-health policy now adds a trust-and-productivity branch: [[NewGoldenA
 - The episode is a clinician-facing public explainer, not personalized psychiatric, neurological, or behavioral diagnosis.
 - Dopamine, frontotemporal dementia, Parkinson medication, ADHD, and maturity-age examples remain source-scoped illustrations rather than standalone diagnostic rules.
 - The claim does not deny prefrontal-cortex involvement; it rejects treating one region as a universal causal label.
+
+### Insect Bite Care Needs Prevention Mechanism And Escalation
+
+[[MosquitoBitePrevention]], [[InsectBiteAftercare]], [[InsectBiteDermatitis]], and [[VectorBorneInfectionEscalation]] add a bite-care branch: effective repellent ingredients, correct application, ordinary allergy/inflammation, medication sedation/steroid boundaries, and tick or chigger fever/eschar red flags keep mosquito care separated from vector-borne infection escalation.
+
+**Evidence:** [[vol-213-wenzi-weishenme-pianai-yao-ni-pifuke-yisheng-chaichuan-quwen-zhishangshui-fu-kuaisu-zhiyang-xuanyao-zhinan-lifkugb27d79ut30lwfmu5vojegec]], [[MosquitoBitePrevention]], [[InsectBiteAftercare]], [[InsectBiteDermatitis]], [[VectorBorneInfectionEscalation]], [[YaMengDoctor]], [[MedicalRiskManagement]], [[MedicalDiagnosticReasoning]]
+
+**Qualifications:**
+
+- This is public dermatology and infection-risk education, not individualized product, pediatric, pregnancy, tick-removal, antibiotic, or medication advice.
+- Concentration-duration examples, severe reaction thresholds, and vector examples remain source-scoped.
+- The episode reassures against mosquito HIV/HBV transmission while warning that higher-risk arthropod exposures and systemic symptoms need medical care.

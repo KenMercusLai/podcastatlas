@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 8161
+wiki_total_pages: 8163
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -692,6 +692,9 @@ wiki_pages:
   - key: "WuLaoshiSanlianEditor"
     title: "吴老师 / Wu Laoshi (Sanlian editor)"
     url: "/wiki/entities/wulaoshisanlianeditor/"
+  - key: "WuLaoshiZheBing"
+    title: "吴老师 / Wu Laoshi (Zhe Bing speaker)"
+    url: "/wiki/entities/wulaoshizhebing/"
   - key: "WuChenChangshaKing"
     title: "吴臣 / Wu Chen (Changsha king)"
     url: "/wiki/entities/wuchenchangshaking/"

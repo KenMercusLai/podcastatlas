@@ -13129,6 +13129,10 @@ Ingested the Marketplace Tech episode on Meta's proposed teen-safety settlement,
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-29] ingest | VOL.213 蚊子为什么偏爱咬你？皮肤科医生拆穿“驱蚊”智商税｜附快速止痒选药指南
+
+Ingested the 这病说来话长 episode on mosquito prevention, repellent-product evidence, insect-bite dermatitis, anti-itch aftercare, antihistamine and steroid boundaries, tick/chigger infection escalation, and household standing-water control. Created the source note, 尹老师, 吴老师, Mosquito Bite Prevention, Insect Bite Aftercare, Insect Bite Dermatitis, and Vector-Borne Infection Escalation pages; updated 这病说来话长, 阿汤, 亚萌, index, and overview. No settled contradiction found; repellent concentration/duration claims, severe-case details, medication choices, Lyme/rickettsial examples, and product comparisons remain source-scoped public education rather than individualized dermatology or infection advice.
+
 ## [2026-08-29] ingest | Bots on the ground: China leads humanoid race
 
 Ingested The Intelligence episode on China's humanoid robotics data race, Meta's teen social-media settlement, and Shakespeare and Company. Created the source note, Alice Fullwood, Alexandra Suich Bass, Shakespeare and Company, Sylvia Whitman, George Whitman, Sylvia Beach, Hubei Humanoid Innovation Center, Tiangong Ultra, Beijing, Paris, Robot Training Centers, and Egocentric Robot Data pages; updated Don Weinland, JD.com, Humanoid Robot Commercialization, Real Robot Data Strategy, Social Media Product Liability, Platform Age Estimation, Bookstore Serendipity, index, and overview. Source-level tensions were recorded on exact Meta settlement totals and France's social-media age-ban status.
@@ -13140,6 +13144,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-29] ingest | Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding
 
 Ingested the All-In episode on Pat Gelsinger's Intel postmortem, Anton Osika's Lovable production vibe-coding claims, AI energy and token-economics constraints, CHIPS Act resilience, and speculative orbital compute. Created the source note, Pat Gelsinger, Anton Osika, Technical Leadership For Technology Companies, and Production Vibe Coding pages; updated Intel, Lovable, CHIPS Act, Vibe Coding, Data Center Power Bottleneck, index, and overview. No settled contradiction found; retrospective Intel figures, Lovable usage/revenue/savings claims, CHIPS Act production-share claims, Taiwan energy-reserve timing, and orbital-compute feasibility remain source-scoped.
+
+## [2026-08-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-29] lint | Wiki health check
 

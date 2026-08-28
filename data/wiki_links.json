@@ -24407,6 +24407,14 @@
     "title": "Inovance Technology / 汇川技术",
     "url": "/wiki/entities/inovancetechnology/"
   },
+  "InsectBiteAftercare": {
+    "title": "Insect Bite Aftercare",
+    "url": "/wiki/concepts/insectbiteaftercare/"
+  },
+  "InsectBiteDermatitis": {
+    "title": "Insect Bite Dermatitis",
+    "url": "/wiki/concepts/insectbitedermatitis/"
+  },
   "InsiderDissentStrategy": {
     "title": "Insider Dissent Strategy / 局内人异议策略",
     "url": "/wiki/concepts/insiderdissentstrategy/"
@@ -33842,6 +33850,10 @@
   "MortgageBackedSecuritiesRatePolicy": {
     "title": "Mortgage-Backed Securities Rate Policy",
     "url": "/wiki/concepts/mortgagebackedsecuritiesratepolicy/"
+  },
+  "MosquitoBitePrevention": {
+    "title": "Mosquito Bite Prevention",
+    "url": "/wiki/concepts/mosquitobiteprevention/"
   },
   "MossamDataScienceWithSam": {
     "title": "Mossam (Data Science With Sam)",
@@ -50911,6 +50923,10 @@
     "title": "诸侯王羞辱触发谋刺 / Vassal Humiliation Conspiracy",
     "url": "/wiki/concepts/vassalhumiliationconspiracy/"
   },
+  "VectorBorneInfectionEscalation": {
+    "title": "Vector-Borne Infection Escalation",
+    "url": "/wiki/concepts/vectorborneinfectionescalation/"
+  },
   "VectorModelEngineering": {
     "title": "Vector Model Engineering",
     "url": "/wiki/concepts/vectormodelengineering/"
@@ -53151,6 +53167,10 @@
     "title": "吴老师 / Wu Laoshi (Sanlian editor)",
     "url": "/wiki/entities/wulaoshisanlianeditor/"
   },
+  "WuLaoshiZheBing": {
+    "title": "吴老师 / Wu Laoshi (Zhe Bing speaker)",
+    "url": "/wiki/entities/wulaoshizhebing/"
+  },
   "WuLiande": {
     "title": "Wu Liande / 伍连德",
     "url": "/wiki/entities/wuliande/"
@@ -54870,6 +54890,10 @@
   "YinJie": {
     "title": "殷姐",
     "url": "/wiki/entities/yinjie/"
+  },
+  "YinLaoshiZheBing": {
+    "title": "尹老师 / Yin Laoshi (Zhe Bing speaker)",
+    "url": "/wiki/entities/yinlaoshizhebing/"
   },
   "YinLiLateHan": {
     "title": "尹礼 / Yin Li (late Han)",
@@ -60222,6 +60246,10 @@
   "vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1": {
     "title": "Vol. 172 Codex 卖重置套餐，DeepSeek 峰谷调价，苹果重回 5 万亿等",
     "url": "/wiki/sources/vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1/"
+  },
+  "vol-213-wenzi-weishenme-pianai-yao-ni-pifuke-yisheng-chaichuan-quwen-zhishangshui-fu-kuaisu-zhiyang-xuanyao-zhinan-lifkugb27d79ut30lwfmu5vojegec": {
+    "title": "VOL.213 蚊子为什么偏爱咬你？皮肤科医生拆穿“驱蚊”智商税｜附快速止痒选药指南",
+    "url": "/wiki/sources/vol-213-wenzi-weishenme-pianai-yao-ni-pifuke-yisheng-chaichuan-quwen-zhishangshui-fu-kuaisu-zhiyang-xuanyao-zhinan-lifkugb27d79ut30lwfmu5vojegec/"
   },
   "vol-214-weishenme-yue-youxiu-de-ren-yue-rongyi-zai-zhichang-bei-pua-dao-huaiyi-ziji-cong-tiequan-jiaoyu-liaodao-tiequan-zhichang-lmx4ewrw7kvcqpyh-q3bur35ybgz": {
     "title": "VOL.214 为什么越优秀的人，越容易在职场被PUA到怀疑自己？从《铁拳教育》聊到“铁拳职场”",

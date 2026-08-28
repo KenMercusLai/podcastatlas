@@ -339,12 +339,13 @@
       "41cadfb91ef6894bc7d9cd5c4e55012480b0225b71a6a027d18e9565e8357c0c",
       "d589a53c87e197a55033f79a64a0ec3a258b8cbc050ee0e70dcc6388df48a243",
       "d1f646e5bf1b4d8ffacc0ab20b061981669bb0224547423965eb90e6e064e966",
-      "b7fe88c4a3ea92e3484da7ba393768450cea0ebc036e6acdec39ec881741cf34"
+      "b7fe88c4a3ea92e3484da7ba393768450cea0ebc036e6acdec39ec881741cf34",
+      "082a8129ce267d83fa695011e4d1d9ec611a2911fab24932213544b548f520cf"
     ],
-    "paragraph_count": 339
+    "paragraph_count": 340
   },
-  "overview_commit": "bf653f3b15a286d8519dc2e4b38228bc66a6ca86",
-  "overview_digest": "3cefd1dc1148e08715e9afeb11291178546df3902569e8387f76dd3d8b639c72",
+  "overview_commit": "5268dd1690b2b126adeac4c0e9bea2a6110d9e66",
+  "overview_digest": "a08c96a61893b0ae97d57ac5ed1cd5cba3ee71e5e404036d2551ddda9903b512",
   "paragraphs": [
     {
       "id": "173cffd82684364e6afbfd09781ea6e0ff2f8dcebc676e8b4728d1bd8798d8d1",
@@ -10518,6 +10519,37 @@
         "ProductionVibeCoding",
         "TechnicalLeadershipForTechnologyCompanies",
         "VibeCoding"
+      ]
+    },
+    {
+      "id": "082a8129ce267d83fa695011e4d1d9ec611a2911fab24932213544b548f520cf",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "history-and-geopolitics",
+        "science-health-and-climate"
+      ],
+      "text": "The latest addition is [[vol-213-wenzi-weishenme-pianai-yao-ni-pifuke-yisheng-chaichuan-quwen-zhishangshui-fu-kuaisu-zhiyang-xuanyao-zhinan-lifkugb27d79ut30lwfmu5vojegec|VOL.213 蚊子为什么偏爱咬你？皮肤科医生拆穿“驱蚊”智商税｜附快速止痒选药指南]], a [[ZheBingShuoLaiHuaChang|这病说来话长]] episode with [[Atang|阿汤]], [[YaMengDoctor|亚萌]], [[YinLaoshiZheBing|尹老师]], and [[WuLaoshiZheBing|吴老师]] on summer mosquito and insect-bite literacy. It adds [[MosquitoBitePrevention]], [[InsectBiteAftercare]], [[InsectBiteDermatitis]], [[VectorBorneInfectionEscalation]], [[YinLaoshiZheBing]], and [[WuLaoshiZheBing]], while extending [[Atang]], [[YaMengDoctor]], [[ZheBingShuoLaiHuaChang]], [[AllergyAsImmuneResponse]], [[MedicalRiskManagement]], [[MedicalDiagnosticReasoning]], and [[DoctorPatientCommunication]]. Its core synthesis is that bite care works only when prevention, mechanism, and escalation stay separate: repellents need effective ingredients and correct use; ordinary itchy bumps are usually allergic or inflammatory; sedating antihistamines and steroids have boundaries; and ticks, chiggers, fever, eschar, or wild-exposure history move the problem toward qualified care. No settled contradiction is recorded; concentration-duration claims, product comparisons, severe-case details, and vector-borne disease examples remain source-scoped public education rather than individualized dermatology advice.",
+      "topic_scores": {
+        "business-and-markets": 1,
+        "history-and-geopolitics": 1,
+        "science-health-and-climate": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AllergyAsImmuneResponse",
+        "Atang",
+        "DoctorPatientCommunication",
+        "InsectBiteAftercare",
+        "InsectBiteDermatitis",
+        "MedicalDiagnosticReasoning",
+        "MedicalRiskManagement",
+        "MosquitoBitePrevention",
+        "VectorBorneInfectionEscalation",
+        "WuLaoshiZheBing",
+        "YaMengDoctor",
+        "YinLaoshiZheBing",
+        "ZheBingShuoLaiHuaChang",
+        "vol-213-wenzi-weishenme-pianai-yao-ni-pifuke-yisheng-chaichuan-quwen-zhishangshui-fu-kuaisu-zhiyang-xuanyao-zhinan-lifkugb27d79ut30lwfmu5vojegec"
       ]
     }
   ],

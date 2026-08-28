@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 5848
+wiki_total_pages: 5852
 wiki_pages:
   - key: "ICEWorkforceExpansion"
     title: "ICE Workforce Expansion"
@@ -335,6 +335,12 @@ wiki_pages:
   - key: "InnovativeDrugCommercialInsuranceCatalog"
     title: "Innovative Drug Commercial Insurance Catalog"
     url: "/wiki/concepts/innovativedrugcommercialinsurancecatalog/"
+  - key: "InsectBiteAftercare"
+    title: "Insect Bite Aftercare"
+    url: "/wiki/concepts/insectbiteaftercare/"
+  - key: "InsectBiteDermatitis"
+    title: "Insect Bite Dermatitis"
+    url: "/wiki/concepts/insectbitedermatitis/"
   - key: "InsiderDissentStrategy"
     title: "Insider Dissent Strategy / 局内人异议策略"
     url: "/wiki/concepts/insiderdissentstrategy/"
