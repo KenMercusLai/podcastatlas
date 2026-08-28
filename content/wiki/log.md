@@ -13032,3 +13032,11 @@ Ingested Hanji 841 as the 155 CE frontier-war layer before Hanji 842. Created th
 ## [2026-08-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-28] ingest | 《资治通鉴·汉纪》840丨眼光长远的人有多厉害？
+
+Ingested Hanji 840 as the 154-155 CE Huan-era backfill. Created the source note; updated Zhang Huan, Liu Tao, Eastern Qiang, Gift Refusal As Authority, Coalition Fracture Exploitation, index, and overview. No settled contradiction found; 张焕/张宦 is normalized to 张奂 and 刘桃 to the existing 刘陶 / 刘桃 route.
+
+## [2026-08-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

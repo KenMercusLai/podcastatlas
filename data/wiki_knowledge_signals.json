@@ -4174,9 +4174,9 @@
       "url": "/wiki/concepts/clinicalbehaviorchangeredflags/"
     },
     "CoalitionFractureExploitation": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·周纪》67丨战国“灭霸”白起的军事才能究竟如何 [ljw0lLToWxd4qZ75V-wcNlKwQSkv].md",
@@ -4191,6 +4191,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》844丨如何立于不败之地？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-844-ruhe-liyu-bubaizhidi-lsp49uw8atyiufrf-ryo-9ctos5z/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》840丨眼光长远的人有多厉害？ [lvzfg8Zbp0nugjg0IyBgUKZ-cXGV].md",
+          "key": "zizhi-tongjian-hanji-840-yanguang-changyuan-de-ren-you-duo-lihai-lvzfg8zbp0nugjg0iybgukz-cxgv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》840丨眼光长远的人有多厉害？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-840-yanguang-changyuan-de-ren-you-duo-lihai-lvzfg8zbp0nugjg0iybgukz-cxgv/"
         }
       ],
       "updated": "2026-08-28",
@@ -5554,9 +5561,9 @@
       "url": "/wiki/entities/dongyuanlatehan/"
     },
     "DongqiangLateHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》892丨修止语，古人有什么捷径？ [lnObbkp6mJ4xyB9jEuqSiUQogcT-].md",
@@ -5592,9 +5599,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》880丨为何职场老油条热衷于称病？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-880-weihe-zhichang-laoyoutiao-rezhong-yu-chengbing-lnzfgwghrxrpltsmb8godap-nyzw/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》840丨眼光长远的人有多厉害？ [lvzfg8Zbp0nugjg0IyBgUKZ-cXGV].md",
+          "key": "zizhi-tongjian-hanji-840-yanguang-changyuan-de-ren-you-duo-lihai-lvzfg8zbp0nugjg0iybgukz-cxgv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》840丨眼光长远的人有多厉害？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-840-yanguang-changyuan-de-ren-you-duo-lihai-lvzfg8zbp0nugjg0iybgukz-cxgv/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-28",
       "url": "/wiki/entities/dongqianglatehan/"
     },
     "DopamineInvertedU": {
@@ -8212,9 +8226,9 @@
       "url": "/wiki/entities/georgvonschonerer/"
     },
     "GiftRefusalAsAuthority": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》841丨绝不手软！揭秘战争的残酷真相 [loSzA81gisSYIjywWE0VXaDW5ia0].md",
@@ -8222,6 +8236,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》841丨绝不手软！揭秘战争的残酷真相",
           "url": "/wiki/sources/zizhi-tongjian-hanji-841-juebu-shouruan-jiemi-zhanzheng-de-canku-zhenxiang-losza81gissyijywwe0vxadw5ia0/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》840丨眼光长远的人有多厉害？ [lvzfg8Zbp0nugjg0IyBgUKZ-cXGV].md",
+          "key": "zizhi-tongjian-hanji-840-yanguang-changyuan-de-ren-you-duo-lihai-lvzfg8zbp0nugjg0iybgukz-cxgv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》840丨眼光长远的人有多厉害？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-840-yanguang-changyuan-de-ren-you-duo-lihai-lvzfg8zbp0nugjg0iybgukz-cxgv/"
         }
       ],
       "updated": "2026-08-28",
@@ -12865,9 +12886,9 @@
       "url": "/wiki/entities/liupirunanlatehan/"
     },
     "LiuTaoLateHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》923丨成年人的顶级狠劲：骨子里的决绝 [liFZh-GohPqNmdzNnfV72tNDQf8H].md",
@@ -12896,6 +12917,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》843丨古代农民贫困的根源是什么？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-843-gudai-nongmin-pinkun-de-genyuan-shi-shenme-lutep8yyzanhlb4ao6sope-8edvy/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》840丨眼光长远的人有多厉害？ [lvzfg8Zbp0nugjg0IyBgUKZ-cXGV].md",
+          "key": "zizhi-tongjian-hanji-840-yanguang-changyuan-de-ren-you-duo-lihai-lvzfg8zbp0nugjg0iybgukz-cxgv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》840丨眼光长远的人有多厉害？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-840-yanguang-changyuan-de-ren-you-duo-lihai-lvzfg8zbp0nugjg0iybgukz-cxgv/"
         }
       ],
       "updated": "2026-08-28",
@@ -24287,9 +24315,9 @@
       "url": "/wiki/entities/zhanghelatehan/"
     },
     "ZhangHuanLateHan": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 1,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》902丨控制情绪是人生必修课 [ljYNYlVdLSDTjF4ES9jmIlAV863b].md",
@@ -24367,6 +24395,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》841丨绝不手软！揭秘战争的残酷真相",
           "url": "/wiki/sources/zizhi-tongjian-hanji-841-juebu-shouruan-jiemi-zhanzheng-de-canku-zhenxiang-losza81gissyijywwe0vxadw5ia0/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》840丨眼光长远的人有多厉害？ [lvzfg8Zbp0nugjg0IyBgUKZ-cXGV].md",
+          "key": "zizhi-tongjian-hanji-840-yanguang-changyuan-de-ren-you-duo-lihai-lvzfg8zbp0nugjg0iybgukz-cxgv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》840丨眼光长远的人有多厉害？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-840-yanguang-changyuan-de-ren-you-duo-lihai-lvzfg8zbp0nugjg0iybgukz-cxgv/"
         }
       ],
       "updated": "2026-08-28",

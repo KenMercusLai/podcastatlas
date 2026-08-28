@@ -14,17 +14,20 @@ sources:
   - zizhi-tongjian-hanji-859-gudai-haoren-weishenme-nan-dang-haoguan-llkyx18ssvserxncvrtkw7xfduad
   - zizhi-tongjian-hanji-844-ruhe-liyu-bubaizhidi-lsp49uw8atyiufrf-ryo-9ctos5z
   - zizhi-tongjian-hanji-841-juebu-shouruan-jiemi-zhanzheng-de-canku-zhenxiang-losza81gissyijywwe0vxadw5ia0
+  - zizhi-tongjian-hanji-840-yanguang-changyuan-de-ren-you-duo-lihai-lvzfg8zbp0nugjg0iybgukz-cxgv
 last_updated: 2026-08-28
 knowledge_schema: synthesis-v1
 ---
 
 ## Overview
 
-张奂 / Zhang Huan is a late-Han frontier and court official whose current wiki profile now begins with 155 CE Qiang gift refusal before the 158 CE frontier crisis under [[EmperorHuanOfHan|汉桓帝]]. Later layers make him a commander who combines visible composure, alliance fracture, pacification, selective force, court remonstrance, and survival inside unstable imperial politics.
+张奂 / Zhang Huan is a late-Han frontier and court official whose current wiki profile now begins with the fuller 155 CE Southern Xiongnu-Eastern Qiang crisis in [[zizhi-tongjian-hanji-840-yanguang-changyuan-de-ren-you-duo-lihai-lvzfg8zbp0nugjg0iybgukz-cxgv|Hanji 840]]. Later layers make him a commander who combines low-resource action, visible composure, alliance fracture, pacification, gift refusal, court remonstrance, and survival inside unstable imperial politics.
 
 ## Current Profile
 
-Zhang Huan's earliest current layer is the 155 CE frontier material in [[zizhi-tongjian-hanji-841-juebu-shouruan-jiemi-zhanzheng-de-canku-zhenxiang-losza81gissyijywwe0vxadw5ia0|Hanji 841]]. The episode places him among the later [[LiangzhouLateHan|Liangzhou]] frontier cohort with [[HuangfuGuiLateHan|皇甫规]] and [[DuanJiongLateHan|段熲]], then focuses on his refusal of gifts from Qiang leaders while he is fighting them. The host reads that refusal as both moral cleanliness and strategic distance: Zhang does not take a small private profit because he is preserving a larger public and career position.
+Zhang Huan's earliest current layer is now the fuller 155 CE frontier material in Hanji 840. When [[SouthernXiongnu|南匈奴]] rebels attack Meiji and [[DongqiangLateHan|东羌]] groups respond, Zhang arrives as Anding subordinate-state commandant with only 200 soldiers. He first stabilizes key frontier points and recruits troops, then sends Wang Wei to persuade Eastern Qiang groups away from the Xiongnu alignment. The episode makes his first profile both military and political: scarce force becomes usable because he cuts an enemy coalition, wins Qiang cooperation, and then refuses gifts from Qiang leaders after victory.
+
+[[zizhi-tongjian-hanji-841-juebu-shouruan-jiemi-zhanzheng-de-canku-zhenxiang-losza81gissyijywwe0vxadw5ia0|Hanji 841]] then recalls the same gift-refusal branch through the host's maxim that someone who does not seek small profit must have a larger plan. Together the two notes place Zhang among the later [[LiangzhouLateHan|Liangzhou]] frontier cohort with [[HuangfuGuiLateHan|皇甫规]] and [[DuanJiongLateHan|段熲]], and read his refusal as both moral cleanliness and strategic distance: Zhang avoids private obligation so command, negotiation, and public trust remain usable.
 
 The 158 CE Northern Corps command in [[zizhi-tongjian-hanji-844-ruhe-liyu-bubaizhidi-lsp49uw8atyiufrf-ryo-9ctos5z|Hanji 844]] then gives Zhang a fully operational profile. When the Southern Xiongnu and Wuhuan pressure the frontier and Zhang's troops panic, he publicly remains calm, lectures classics in camp, and lets his composure stabilize the soldiers before acting. His campaign turns on secret diplomacy with [[Wuhuan|乌桓]], which fractures the Wuhuan-[[SouthernXiongnu|南匈奴]] alignment and forces the Xiongnu side to submit.
 
@@ -36,17 +39,19 @@ His court-politics profile is mixed but resilient. In Hanji 887-890, he becomes 
 
 ## Key Characteristics
 
+- Turns a 200-soldier appointment into frontier leverage by stabilizing key points, recruiting, separating hostile allies, and rebuilding Qiang-side trust.
 - Refuses opponent-side gifts so command, negotiation, and reputation are not entangled by private benefit.
 - Crisis-composed frontier commander whose visible calm steadies troops before tactical action.
 - Uses alliance fracture by turning Wuhuan away from the Southern Xiongnu and Tuge side before striking.
 - Reads post-victory governing risk, even when Emperor Huan rejects his proposal to replace [[CheerChanyu|车儿]].
 - Rehabilitated frontier talent whose later return to office depends on Huangfu Gui's repeated defense.
 - Uses a mix of coercion and settlement in Qiang and border policy instead of default extermination.
-- Operates in both field command and court crisis, where tactical success can become political vulnerability.
 
 ## Evidence
 
-- Gift refusal and strategic distance: [[zizhi-tongjian-hanji-841-juebu-shouruan-jiemi-zhanzheng-de-canku-zhenxiang-losza81gissyijywwe0vxadw5ia0|Hanji 841]] says Zhang Huan refuses gifts from Qiang leaders while fighting them, and interprets this as refusing small profit to preserve larger authority.
+- 155 CE low-resource frontier response: [[zizhi-tongjian-hanji-840-yanguang-changyuan-de-ren-you-duo-lihai-lvzfg8zbp0nugjg0iybgukz-cxgv|Hanji 840]] says Zhang Huan reaches the crisis with only 200 soldiers, stabilizes key points, recruits troops, persuades Eastern Qiang groups away from the Southern Xiongnu alignment, and defeats the Xiongnu side with Qiang chiefs.
+- Gift refusal and strategic distance: [[zizhi-tongjian-hanji-840-yanguang-changyuan-de-ren-you-duo-lihai-lvzfg8zbp0nugjg0iybgukz-cxgv|Hanji 840]] says Zhang refuses 20 horses and eight pairs of gold earrings from Qiang leaders after victory, while [[zizhi-tongjian-hanji-841-juebu-shouruan-jiemi-zhanzheng-de-canku-zhenxiang-losza81gissyijywwe0vxadw5ia0|Hanji 841]] interprets the refusal as rejecting small profit to preserve larger authority.
+- Qiang trust repair: [[zizhi-tongjian-hanji-840-yanguang-changyuan-de-ren-you-duo-lihai-lvzfg8zbp0nugjg0iybgukz-cxgv|Hanji 840]] contrasts Zhang's clean refusal with eight corrupt predecessors and says his orders and teaching then move smoothly among Eastern Qiang groups.
 - 158 CE crisis composure: [[zizhi-tongjian-hanji-844-ruhe-liyu-bubaizhidi-lsp49uw8atyiufrf-ryo-9ctos5z|Hanji 844]] says Zhang Huan remains visibly composed and lectures classics while troops panic, making command calm part of the operational solution.
 - Wuhuan-Xiongnu fracture: [[zizhi-tongjian-hanji-844-ruhe-liyu-bubaizhidi-lsp49uw8atyiufrf-ryo-9ctos5z|Hanji 844]] says Zhang secretly sends envoys to Wuhuan, reaches reconciliation, uses Wuhuan forces against the Xiongnu side, and induces Southern Xiongnu submission.
 - Che'er dispute: [[zizhi-tongjian-hanji-844-ruhe-liyu-bubaizhidi-lsp49uw8atyiufrf-ryo-9ctos5z|Hanji 844]] says Zhang wants to detain [[CheerChanyu|Che'er]] and install the Left Guli King, but Emperor Huan restores Che'er on hereditary and submission-management grounds.
@@ -60,15 +65,15 @@ His court-politics profile is mixed but resilient. In Hanji 887-890, he becomes 
 
 ## Qualifications
 
-The page remains bounded to the listed podcast source notes and does not reconstruct Zhang Huan's full biography outside them. Hanji 841's 张焕 transcript form, Hanji 844's 张焕 form, and Hanji 859's 张宦 form are normalized to 张奂 because the frontier command sequences and Huangfu Gui/Duan Jiong context match the established route. Hanji 841's gift-refusal interpretation explains Zhang's posture in one narrated Qiang setting; it does not prove that every later pacification choice was disinterested. Hanji 844's Che'er replacement debate is treated as Zhang's frontier judgment, not as proof that Emperor Huan's contrary legitimacy decision failed.
+The page remains bounded to the listed podcast source notes and does not reconstruct Zhang Huan's full biography outside them. Hanji 840's 张焕/张宦 transcript uncertainty, Hanji 841's 张焕 form, Hanji 844's 张焕 form, and Hanji 859's 张宦 form are normalized to 张奂 because the frontier command sequences and Huangfu Gui/Duan Jiong context match the established route. The gift-refusal interpretation explains Zhang's posture in one narrated Qiang setting; it does not prove that every later pacification choice was disinterested. Hanji 844's Che'er replacement debate is treated as Zhang's frontier judgment, not as proof that Emperor Huan's contrary legitimacy decision failed.
 
 ## What Changed
 
-- Added the 155 CE Qiang gift-refusal layer before Zhang's 158 CE command-composure evidence.
-- Reframed Zhang's early profile as clean-distance authority before battlefield and diplomatic competence.
-- Connected Zhang's refusal of immediate benefit to later credibility in negotiation, pacification, and court risk.
+- Added Hanji 840 as the fuller 155 CE Qiang-Xiongnu crisis layer before Hanji 841's gift-refusal recap.
+- Reframed Zhang's early profile as low-resource command, coalition fracture, and clean-distance authority.
+- Connected Zhang's refusal of immediate benefit to Qiang trust repair, not only to personal integrity.
 - Preserved the 158 CE Wuhuan-Xiongnu fracture and 163 CE Huangfu Gui recommendation as later phases.
-- Updated name-normalization notes for Hanji 841, Hanji 844, and Hanji 859 transcript variants.
+- Updated name-normalization notes for Hanji 840, Hanji 841, Hanji 844, and Hanji 859 transcript variants.
 
 ## Relationships
 
