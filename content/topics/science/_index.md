@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 828
+topic_total_pages: 829
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1408,6 +1408,9 @@ topic_concepts:
   - key: "ZhongyongSelf"
     title: "Zhongyong Self"
     url: "/wiki/concepts/zhongyongself/"
+  - key: "ShouzhuoDecisiveRestraint"
+    title: "守拙式临事决断 / Shouzhuo Decisive Restraint"
+    url: "/wiki/concepts/shouzhuodecisiverestraint/"
   - key: "ComicMaskSurvival"
     title: "搞笑面具式生存 / Comic Mask Survival"
     url: "/wiki/concepts/comicmasksurvival/"

@@ -28263,13 +28263,6 @@
       "url": "/topics/history/"
     }
   ],
-  "HuangfuGuiLateHan": [
-    {
-      "key": "politics",
-      "label": "Politics",
-      "url": "/topics/politics/"
-    }
-  ],
   "Huangji": [
     {
       "key": "history",
@@ -52022,6 +52015,18 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "ShouzhuoDecisiveRestraint": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "ShroudedJobAttributes": [

@@ -1,40 +1,52 @@
 ---
 title: "夏方 / Xia Fang (late Han)"
 type: entity
-tags: [person, late-han, local-government, jiaozhi, pacification, china]
+knowledge_schema: synthesis-v1
+tags: [person, late-han, jiaozhi, rinan, pacification, southern-frontier]
 sources:
   - zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um
-last_updated: 2026-08-28
-knowledge_schema: synthesis-v1
+  - zizhi-tongjian-hanji-824-weishenme-women-yao-xue-shouzhuo-lpssy8ltykugdpvmgrzwcpf6-9v9
+last_updated: 2026-08-29
 ---
+
+# 夏方 / Xia Fang (late Han)
+
 ## Overview
-夏方 / Xia Fang is a late-Han official introduced in Hanji 854 as the Guiyang administrator appointed Jiaozhi inspector during southern unrest. His profile is source-thin but important: the episode uses him as a clear appointment-quality case where a trusted local official is moved into the right crisis field and induces mass surrender.
+
+Xia Fang is a late Han southern-frontier official whose current wiki profile rests on two source-bounded Rinan pacification notices. Both layers emphasize induced surrender rather than large-scale battlefield coercion, but the exact office sequence remains source-scoped.
 
 ## Current Profile
-[[zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um|Hanji 854]] places Xia Fang amid a southern disorder chain: Changsha Man rebels at Yiyang, Lingling Man attacks Changsha, and Jiuzhen remnants occupy Rinan. The court appoints Xia Fang from Guiyang to Jiaozhi inspector, and by winter more than twenty thousand Rinan bandits surrender. The source frames this as a personnel-fit success rather than a detailed military narrative.
+
+In the 144 CE layer, Rinan Man revolt during the broader unrest at the end of [[EmperorShunOfHan|Emperor Shun]]'s reign. As Jiaozhi inspector, Xia Fang induces the rebels to surrender, giving the court one stabilizing southern-frontier outcome amid Yang-Xu, Jiujiang, and Rinan disorder.
+
+In the later Hanji 854 layer, the court appoints Xia Fang from Guiyang administrator to Jiaozhi inspector during renewed southern unrest, and the Rinan population again surrenders in large numbers. The repeated association with Rinan surrender makes Xia Fang a useful case for pacification through inducement.
 
 ## Key Characteristics
-- Crisis appointee moved from Guiyang administration into the Jiaozhi inspector role.
-- Pacification figure whose authority appears to rest on reputation and trust as much as force.
-- Southern-order case that parallels Huangfu Gui's Taishan pacification and Duan Jiong's frontier campaign.
-- Source-bounded official whose current evidence is significant but limited to one episode.
+
+- Southern-frontier official associated with Jiaozhi and Rinan pacification.
+- Uses inducement and surrender management rather than being remembered for annihilating rebels.
+- Appears during moments when the Han court faces simultaneous regional disorder.
+- Source-bounded actor whose office chronology should be handled cautiously.
 
 ## Evidence
-- Appointment setting: [[zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um|Hanji 854]] introduces Xia Fang after unrest in Changsha, Lingling, Jiuzhen, and Rinan creates a southern governance crisis.
-- Personnel movement: [[zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um|Hanji 854]] has Emperor Huan appoint Xia Fang, then Guiyang administrator, as Jiaozhi inspector.
-- Pacification result: [[zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um|Hanji 854]] credits Xia Fang's威惠 with the surrender of more than twenty thousand Rinan bandits in winter.
+
+- 144 Rinan surrender - [[zizhi-tongjian-hanji-824-weishenme-women-yao-xue-shouzhuo-lpssy8ltykugdpvmgrzwcpf6-9v9|Hanji 824]] records Rinan Man revolt and Xia Fang, as Jiaozhi inspector, inducing surrender.
+- Later southern appointment - [[zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um|Hanji 854]] records the court appointing Xia Fang from Guiyang administrator to Jiaozhi inspector during another southern crisis.
+- Repeated non-annihilation pattern - [[zizhi-tongjian-hanji-824-weishenme-women-yao-xue-shouzhuo-lpssy8ltykugdpvmgrzwcpf6-9v9|Hanji 824]] and [[zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um|Hanji 854]] both center Xia Fang's value on inducing surrender.
 
 ## Qualifications
-The page has one source note and does not yet distinguish how much Xia Fang's success came from personal reputation, administrative concessions, military pressure, or local conditions. The strongest current claim is that the episode presents him as a correct appointment in a southern disorder field.
+
+The two notes are not enough to reconstruct Xia Fang's full career or exact tenure sequence. The 144 source already calls him Jiaozhi inspector, while the later source has him appointed from Guiyang administrator to Jiaozhi inspector; this should remain a source-scoped chronology question rather than a settled contradiction until more evidence is ingested.
 
 ## What Changed
-- Created the page from Hanji 854.
-- Established Xia Fang as a new appointment-quality and southern-pacification case.
+
+- Added the 144 CE Rinan Man surrender layer from Hanji 824.
+- Reframed Xia Fang around repeated surrender inducement across two source notes.
+- Preserved the existing source inventory and appended Hanji 824.
 
 ## Relationships
-- [[GuiyangCommanderyLateHan|桂阳郡]] - office base from which Xia Fang is appointed Jiaozhi inspector.
-- [[JiaozhiCommandery|交趾郡]] - inspection region associated with Xia Fang's southern pacification role.
-- [[ChangshaCommanderyLateHan|长沙郡]] - nearby unrest setting in the source's southern crisis chain.
-- [[LinglingCommanderyLateHan|零陵郡]] - nearby unrest setting in the source's southern crisis chain.
-- [[RootCausePacification|查因安抚式治理]] - neighboring governance logic for pacification through credible authority and diagnosis.
-- [[AppointmentQualityAsStateCapacity|任官适任性国家能力]] - concept that frames Xia Fang as the right appointment for a local crisis.
+
+- [[JiaozhiCommandery|Jiaozhi Commandery]] - Xia Fang's inspector role operates through the Jiaozhi administrative region.
+- [[WuhuManJiaozhi|Wuhu Man in Jiaozhi]] - Xia Fang's Rinan surrender layers belong to the broader southern non-Han unrest field.
+- [[RootCausePacification]] - Xia Fang's pattern aligns with pacification through inducement and settlement rather than force alone.
+- [[EmperorShunOfHan|Emperor Shun of Han]] - the 144 Rinan surrender belongs to Shun's final-year unrest.

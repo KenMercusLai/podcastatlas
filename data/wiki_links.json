@@ -19615,6 +19615,10 @@
     "title": "高尔基 / Gao Erji",
     "url": "/wiki/entities/gaoerji/"
   },
+  "GaoFanLateHan": {
+    "title": "高梵 / Gao Fan (late Han)",
+    "url": "/wiki/entities/gaofanlatehan/"
+  },
   "GaoGanLateHan": {
     "title": "高干 / Gao Gan (late Han)",
     "url": "/wiki/entities/gaoganlatehan/"
@@ -44723,6 +44727,10 @@
     "title": "寿春 / Shouchun (Warring States)",
     "url": "/wiki/entities/shouchunwarringstates/"
   },
+  "ShouzhuoDecisiveRestraint": {
+    "title": "守拙式临事决断 / Shouzhuo Decisive Restraint",
+    "url": "/wiki/concepts/shouzhuodecisiverestraint/"
+  },
   "ShroudedJobAttributes": {
     "title": "Shrouded Job Attributes",
     "url": "/wiki/concepts/shroudedjobattributes/"
@@ -56395,6 +56403,10 @@
     "title": "Zhao Chenyang / 赵晨阳",
     "url": "/wiki/entities/zhaochenyang/"
   },
+  "ZhaoChongLateHan": {
+    "title": "赵冲 / Zhao Chong (late Han)",
+    "url": "/wiki/entities/zhaochonglatehan/"
+  },
   "ZhaoCiLateHan": {
     "title": "赵慈 / Zhao Ci (late Han)",
     "url": "/wiki/entities/zhaocilatehan/"
@@ -61294,6 +61306,10 @@
   "zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv": {
     "title": "《资治通鉴·汉纪》822丨豺狼当道，他将矛头直指皇帝岳父？",
     "url": "/wiki/sources/zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv/"
+  },
+  "zizhi-tongjian-hanji-824-weishenme-women-yao-xue-shouzhuo-lpssy8ltykugdpvmgrzwcpf6-9v9": {
+    "title": "《资治通鉴·汉纪》824丨为什么我们要学“守拙”",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-824-weishenme-women-yao-xue-shouzhuo-lpssy8ltykugdpvmgrzwcpf6-9v9/"
   },
   "zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked": {
     "title": "《资治通鉴·汉纪》825丨历史告诉你：当你没用时，人性最自私",

@@ -2,52 +2,59 @@
 title: "汉顺帝 / Emperor Shun of Han"
 type: entity
 knowledge_schema: synthesis-v1
-tags: [person, emperor, eastern-han, late-han, court-politics]
+tags: [person, emperor, eastern-han, late-han, succession, court-politics]
 sources:
   - zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv
+  - zizhi-tongjian-hanji-824-weishenme-women-yao-xue-shouzhuo-lpssy8ltykugdpvmgrzwcpf6-9v9
 last_updated: 2026-08-29
 ---
 
+# 汉顺帝 / Emperor Shun of Han
+
 ## Overview
 
-汉顺帝 / Emperor Shun of Han enters the wiki through Hanji 822 as the Eastern Han ruler whose court can still send inspectors, recognize capable local officials, and reopen blocked corruption cases, but cannot immediately punish [[LiangJiLateHan|梁冀]] after [[ZhangGangLateHan|张纲]] directly impeaches him. The source makes Shun's reign an early warning layer before later Liang-family domination under [[EmperorZhiOfHan|汉质帝]] and [[EmperorHuanOfHan|汉桓帝]].
+Emperor Shun of Han appears in this wiki as a late Eastern Han ruler whose reign is marked by the court's recurring tension between appointment repair, frontier pressure, eunuch and outer-relative influence, and fragile succession. The current synthesis spans a 141-142 CE personnel-and-court layer and a 143-144 CE final-year layer ending in the accession of the child emperor Liu Bing.
 
 ## Current Profile
 
-[[zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv|Hanji 822]] frames Emperor Shun through two governance channels. First, after [[LiGuLateHan|李固]] pacifies Jingzhou and later Taishan, Du Qiao reports that Li Gu's Taishan performance is the best in the realm, and Shun summons Li Gu to Luoyang as jiangzuo dajiang.
+In the 141-142 CE layer, Shun's court contains competing signs of responsiveness and dysfunction. He rewards Zuo Xiong's appointment-quality reforms, accepts some correction, removes the powerful eunuch Zhang Kui when evidence accumulates, and yet also shields relatives, evades structural criticism, and presides over a court where reform pressure is redirected toward scapegoats.
 
-Second, after a 142 CE amnesty and inspection mission, Shun receives Zhang Gang's direct impeachment of Liang Ji and [[LiangBuyiLateHan|梁不疑]]. The source says he knows the charges are right and adequately evidenced, but harem favor for the Liang family and the spread of Liang allies make immediate punishment impossible.
-
-Shun's profile in this bounded source is therefore not simple passivity. He can commission inspection, accept reports, and eventually reopen cases after Chong Hao, Wu Xiong, and Li Gu press for review, but the court's protected kinship network slows conversion of true accusation into law.
+In the 143-144 CE final-year layer, the court continues to make selective repairs: [[HuangQiongLateHan|Huang Qiong]] broadens xiaolian criteria, frontier officers fight the Qiang, and Shun appoints Liu Bing as crown prince. At the same time, repeated earthquakes, spreading banditry, tomb insecurity, and [[ZhongHaoLateHan|Zhong Hao]]'s need to block an undocumented crown-prince transfer show that state capacity remains brittle at the moment of succession.
 
 ## Key Characteristics
 
-- Ruler whose local-administration channel can identify and promote capable officials such as Li Gu.
-- Ruler whose inspection system can surface corruption but is vulnerable to outer-relative and eunuch protection networks.
-- Political center that recognizes Zhang Gang's anti-Liang accusation without immediately being able to punish the target.
-- Early Eastern Han ruler whose reign shows Liang-family power before the later Emperor Zhi and Emperor Huan crises.
+- Responsiveness to personnel reform when criticism can be framed as appointment-quality repair.
+- Tendency to protect close relatives and favored palace actors until pressure becomes hard to ignore.
+- Reign marked by disasters and unrest that the source tradition treats as political warning signs.
+- Final-year ruler who secures a crown-prince designation but leaves a two-year-old successor.
+- Court center where eunuch, outer-relative, and ministerial authority overlap uneasily.
+- Transitional figure connecting the Zhi, Shun, Chong, and Zhi-emperor succession sequence.
 
 ## Evidence
 
-- Li Gu recognition: [[zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv|Hanji 822]] says Du Qiao praises Li Gu's Taishan performance and Shun summons Li Gu to Luoyang.
-- Inspection mission: [[zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv|Hanji 822]] says Shun sends eight inspectors to praise good officials and investigate corrupt ones.
-- Anti-Liang limit: [[zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv|Hanji 822]] says Shun knows Zhang Gang's charges against Liang Ji and Liang Buyi are true but cannot immediately punish them.
-- Renewed review: [[zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv|Hanji 822]] says blocked inspector accusations are later handed back for review after further named pressure.
+- Reform responsiveness and limits - [[zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv|Hanji 822]] records Shun rewarding Zuo Xiong's reforms while also using selective correction and relative protection.
+- Court accountability under pressure - [[zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv|Hanji 822]] follows the Zhang Kui case from exposure through execution, showing eunuch punishment only after accusation, investigation, and wider pressure align.
+- Final-year selection repair - [[zizhi-tongjian-hanji-824-weishenme-women-yao-xue-shouzhuo-lpssy8ltykugdpvmgrzwcpf6-9v9|Hanji 824]] records Huang Qiong's proposal to broaden xiaolian selection beyond儒学 and文吏 into孝悌 and capable governance, with Shun accepting the change.
+- Succession setup and vulnerability - [[zizhi-tongjian-hanji-824-weishenme-women-yao-xue-shouzhuo-lpssy8ltykugdpvmgrzwcpf6-9v9|Hanji 824]] records Liu Bing's crown-prince designation, Zhong Hao's appointment over the crown-prince household, Shun's death, and Liu Bing's accession at age two.
+- Disaster and unrest backdrop - [[zizhi-tongjian-hanji-824-weishenme-women-yao-xue-shouzhuo-lpssy8ltykugdpvmgrzwcpf6-9v9|Hanji 824]] pairs Liangzhou earthquakes, capital and northern earthquakes, Yang-Xu banditry, Rinan revolt, and Xianling robbery with the end of Shun's reign.
 
 ## Qualifications
 
-This page is bounded to Hanji 822 and should not be read as a complete biography of Emperor Shun's reign. It records only the local-governance, inspection, Liang-family, and case-review material visible in this source.
+This page is a synthesis of two source notes, not a full reign history. It does not yet cover every major policy, consort-family intervention, or regional crisis of Shun's reign. Hanji 824 also shows functioning decisions inside a brittle system, so the current profile should avoid flattening Shun into either reformer or failed ruler alone.
 
 ## What Changed
 
-- Created Emperor Shun as the ruler whose 141-142 CE court forms the earlier setting for Li Gu's local governance and Zhang Gang's anti-Liang impeachment.
+- Added the 143-144 CE final-year layer from Hanji 824.
+- Connected Shun's succession setup to Liu Bing's crown-prince appointment and child accession.
+- Added Huang Qiong's xiaolian criteria reform as a late-reign personnel repair.
+- Added disaster, frontier, bandit, and tomb-security evidence to the reign profile.
 
 ## Relationships
 
-- [[LiGuLateHan|李固]] - capable official whom Shun summons after Du Qiao reports his Taishan performance.
-- [[ZhangGangLateHan|张纲]] - inspector whose direct impeachment exposes Shun's limited ability to punish protected outer relatives.
-- [[LiangJiLateHan|梁冀]] - powerful outer relative whose network constrains Shun's legal response.
-- [[LiangBuyiLateHan|梁不疑]] - Liang-family figure co-impeached by Zhang Gang under Shun.
-- [[DuQiaoLateHan|杜乔]] - inspector whose praise of Li Gu affects Shun's appointment decision.
-- [[OuterRelativeCourtPower|外戚专权与清算]] - broader pattern that makes Shun's recognized accusation difficult to convert into punishment.
-- [[CourtFeedbackCollapse|君臣反馈失灵]] - adjacent failure mode where true information reaches the ruler but does not immediately become repair.
+- [[EmperorChongOfHan|Emperor Chong of Han]] - Shun designates Liu Bing crown prince and is succeeded by him in 144.
+- [[ZhongHaoLateHan|Zhong Hao]] - Shun appoints Zhong Hao to the crown-prince household, creating the office basis for Zhong Hao's later credential refusal.
+- [[HuangQiongLateHan|Huang Qiong]] - Huang Qiong's selection reform is accepted under Shun.
+- [[ZhaoChongLateHan|Zhao Chong]] - Zhao Chong's Qiang campaigns occur in Shun's final years.
+- [[EmpressDowagerLiangNaLateHan|Liang Na]] - Shun's empress becomes empress dowager and regent after his death.
+- [[CourtFeedbackCollapse]] - Shun's reign supplies repeated evidence of correction attempts constrained by palace and family power.
+- [[AppointmentQualityAsStateCapacity|Appointment Quality as State Capacity]] - Shun's court is a recurring setting for debates over whether personnel selection can repair governance.

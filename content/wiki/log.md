@@ -13141,6 +13141,10 @@ Ingested the Marketplace Tech episode on Meta's proposed teen-safety settlement,
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-29] ingest | 《资治通鉴·汉纪》824丨为什么我们要学“守拙”
+
+Ingested the 芮淇讲透资治通鉴 episode on 143-144 CE Emperor Shun's final year, Zhao Chong's Qiang-front campaigns and death, Huang Qiong's xiaolian criteria expansion, Zhong Hao's credential refusal during Crown Prince Liu Bing's palace transfer, Emperor Chong's accession, Huangfu Gui's anti-eunuch and anti-Liang policy answer, Xia Fang's Rinan surrender, and spreading Yang-Xu/Jiujiang/Rinan unrest. Created the source note, Zhao Chong, Gao Fan, and Shouzhuo Decisive Restraint pages; updated Zhong Hao, Emperor Shun, Emperor Chong, Huangfu Gui, Xia Fang, index, and overview. No settled contradiction found; transcript forms such as 赵充, 张共, 沟龙王武司, 崇浩, 高泛, 黄甫规, 范荣, and 健康元年 are normalized to received Tongjian forms where supported.
+
 ## [2026-08-29] ingest | 《资治通鉴·汉纪》825丨历史告诉你：当你没用时，人性最自私
 
 Ingested the 芮淇讲透资治通鉴 episode on the 145 CE Emperor Chong succession crisis, Li Gu's rejection of concealed death, Liu Suan's rejected candidacy, Liu Zuan's child accession as Emperor Zhi, restrained burial and court cleanup, the anonymous slander campaign against Li Gu, and Zhang Ying's renewed Guangling revolt after Zhang Gang's death. Created the source note, Emperor Chong, Zhang Ying (Guangling), and Anonymous Slander Retaliation pages; updated Li Gu, Liang Ji, Empress Dowager Liang Na, Liu Suan, Emperor Zhi, Zhang Gang, Imperial Death Concealment, Controllable Child Accession, index, overview, and downstream synthesis. No settled contradiction found; Liu Zuan's detailed lineage, the anonymous letters' exact wording, and Zhang Ying's full rebel career remain source-scoped, with 张婴 kept distinct from 张英.
@@ -13200,6 +13204,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-29] ingest | 《资治通鉴·汉纪》828丨大将军梁冀：擅权废立的东汉奸臣
 
 Ingested the 芮淇讲透资治通鉴 episode on the 146 CE succession after Emperor Zhi's death, Cao Teng's self-protective advice to Liang Ji, Liu Zhi's accession as Emperor Huan under Liang Na's continued regency, Li Gu and Du Qiao's resistance, Zhu Mu's rejected staffing and emperor-education warning, Huan's ancestral honors, and Teng Fu's eunuch-driven dismissal. Created the source note, Teng Fu, and Self-Protective Accession Choice pages; updated Cao Teng, Hu Guang, Emperor Zhi, Liu Suan, Du Qiao, Li Gu, Empress Dowager Liang Na, Zhu Mu, Liang Ji, Emperor Huan, Outer-Relative Court Power, Corrective Advice Nonconversion, index, and downstream synthesis inputs. No settled contradiction found; minor offices and ritual details remain source-scoped, and Teng Fu is kept distinct from Teng Yan.
+
+## [2026-08-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-29] lint | Wiki health check
 

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 8196
+wiki_total_pages: 8198
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -1049,6 +1049,9 @@ wiki_pages:
   - key: "GaoRouLateHan"
     title: "高柔 / Gao Rou (Late Han)"
     url: "/wiki/entities/gaoroulatehan/"
+  - key: "GaoFanLateHan"
+    title: "高梵 / Gao Fan (late Han)"
+    url: "/wiki/entities/gaofanlatehan/"
   - key: "GaoYangNorthernQi"
     title: "高洋 / Northern Qi Emperor Wenxuan"
     url: "/wiki/entities/gaoyangnorthernqi/"

@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "e433733c468b2f627a77f3183baa077dca5130e3e98690479669fd2811587756",
       "d4b354158358a7d81ae6b27d3526bcfa170568de59e77b4df39602f70dd7bd7e",
       "87238dd158df612bbcc136fa54dccb214e7b1329d7e5181231d50ea2a55e9e21",
       "1d2a90e8e7cf9f976bb20e7e21455a73c6de591a5e71cabba8246b865d628e0b",
@@ -349,11 +350,46 @@
       "b7fe88c4a3ea92e3484da7ba393768450cea0ebc036e6acdec39ec881741cf34",
       "082a8129ce267d83fa695011e4d1d9ec611a2911fab24932213544b548f520cf"
     ],
-    "paragraph_count": 347
+    "paragraph_count": 348
   },
-  "overview_commit": "0a9508597d7688079499406ca302047972280751",
-  "overview_digest": "5e2fa5315f24b8128477cde5fd3c501ebc1b3435796ebbbba9bc4a0c9156cd64",
+  "overview_commit": "79a40553ff5495cfb3699a989e531cd09e8efebb",
+  "overview_digest": "f225a3737eef75d02842f91f6207e7383eb1e202b4b980e0ceaecb5e35e3895e",
   "paragraphs": [
+    {
+      "id": "e433733c468b2f627a77f3183baa077dca5130e3e98690479669fd2811587756",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-824-weishenme-women-yao-xue-shouzhuo-lpssy8ltykugdpvmgrzwcpf6-9v9|《资治通鉴·汉纪》824丨为什么我们要学“守拙”]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 143-144 CE [[EmperorShunOfHan|汉顺帝]] close immediately before [[zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked|Hanji 825]]. It adds [[ZhaoChongLateHan|赵冲]], [[GaoFanLateHan|高梵]], and [[ShouzhuoDecisiveRestraint|守拙式临事决断]], while extending [[ZhongHaoLateHan|种暠]], [[EmperorChongOfHan|汉冲帝]], [[HuangfuGuiLateHan|皇甫规]], [[XiaFangLateHan|夏方]], [[EmperorShunOfHan|汉顺帝]], [[HuangQiongLateHan|黄琼]], [[DuQiaoLateHan|杜乔]], [[FengGunLateHan|冯绲]], [[SouthernXiongnu|南匈奴]], [[Wuhuan|乌桓]], [[JiujiangCommandery|九江郡]], [[YangzhouLateHan|扬州]], [[Xuzhou|徐州]], [[AppointmentQualityAsStateCapacity|任官适任性国家能力]], [[CourtFeedbackCollapse|君臣反馈失灵]], and [[OuterRelativeCourtPower|外戚专权与清算]]. Its core synthesis is that Shun's final year makes late-Han fragility visible before the 145 succession crisis: frontier victories and selection-rule repair coexist with earthquakes, tomb robbery, bandit spread, and a palace authorization scare, while Zhong Hao's \"守拙\" is not passivity but credential-checking judgment under irreversible crown-prince risk. No settled contradiction is recorded; transcript forms such as 赵充, 张共, 沟龙王武司, 崇浩, 高泛, 黄甫规, 范荣, and 健康元年 are normalized to received forms 赵冲, 张贡, 句龙吾斯, 种暠, 高梵, 皇甫规, 范容, and 建康元年.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "AppointmentQualityAsStateCapacity",
+        "CourtFeedbackCollapse",
+        "DuQiaoLateHan",
+        "EmperorChongOfHan",
+        "EmperorShunOfHan",
+        "FengGunLateHan",
+        "GaoFanLateHan",
+        "HuangQiongLateHan",
+        "HuangfuGuiLateHan",
+        "JiujiangCommandery",
+        "OuterRelativeCourtPower",
+        "RuiqiJiangtouZizhiTongjian",
+        "ShouzhuoDecisiveRestraint",
+        "SouthernXiongnu",
+        "Wuhuan",
+        "XiaFangLateHan",
+        "Xuzhou",
+        "YangzhouLateHan",
+        "ZhaoChongLateHan",
+        "ZhongHaoLateHan",
+        "zizhi-tongjian-hanji-824-weishenme-women-yao-xue-shouzhuo-lpssy8ltykugdpvmgrzwcpf6-9v9",
+        "zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked"
+      ]
+    },
     {
       "id": "d4b354158358a7d81ae6b27d3526bcfa170568de59e77b4df39602f70dd7bd7e",
       "primary_topic": "work-education-and-society",
