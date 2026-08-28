@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2262
+topic_total_pages: 2266
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -277,6 +277,9 @@ topic_concepts:
   - key: "ArtistDiscoveryFragmentation"
     title: "Artist Discovery Fragmentation"
     url: "/wiki/concepts/artistdiscoveryfragmentation/"
+  - key: "ArtistRightsControl"
+    title: "Artist Rights Control"
+    url: "/wiki/concepts/artistrightscontrol/"
   - key: "ArtisticAchievementMoralAccountability"
     title: "Artistic Achievement Moral Accountability"
     url: "/wiki/concepts/artisticachievementmoralaccountability/"
@@ -631,6 +634,9 @@ topic_concepts:
   - key: "CropCircleDebunking"
     title: "Crop Circle Debunking"
     url: "/wiki/concepts/cropcircledebunking/"
+  - key: "CrossCoalitionCulturalIcon"
+    title: "Cross-Coalition Cultural Icon"
+    url: "/wiki/concepts/crosscoalitionculturalicon/"
   - key: "CrossCulturalAssistedDeathEthics"
     title: "Cross-Cultural Assisted Death Ethics"
     url: "/wiki/concepts/crossculturalassisteddeathethics/"
@@ -2897,6 +2903,9 @@ topic_entities:
   - key: "Disneyland"
     title: "Disneyland"
     url: "/wiki/entities/disneyland/"
+  - key: "DollyParton"
+    title: "Dolly Parton"
+    url: "/wiki/entities/dollyparton/"
   - key: "DominiqueBaker"
     title: "Dominique Baker"
     url: "/wiki/entities/dominiquebaker/"
@@ -6477,6 +6486,9 @@ topic_sources:
   - key: "tech-20260408-0408-mp-tech-pod-128-tech-20260408-0408-mp-tech-pod-128"
     title: "Are humans losing the ability to think for themselves?"
     url: "/wiki/sources/tech-20260408-0408-mp-tech-pod-128-tech-20260408-0408-mp-tech-pod-128/"
+  - key: "big-shot-does-a-cancer-vaccine-work-6a9001f40c15e359f9cb103c"
+    title: "Big shot: does a cancer vaccine work?"
+    url: "/wiki/sources/big-shot-does-a-cancer-vaccine-work-6a9001f40c15e359f9cb103c/"
   - key: "bookstore-economics"
     title: "BOOKstore Economics"
     url: "/wiki/sources/bookstore-economics/"

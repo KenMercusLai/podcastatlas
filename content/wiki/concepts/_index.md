@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 5795
+wiki_total_pages: 5798
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1625,6 +1625,9 @@ wiki_pages:
   - key: "ArtistDiscoveryFragmentation"
     title: "Artist Discovery Fragmentation"
     url: "/wiki/concepts/artistdiscoveryfragmentation/"
+  - key: "ArtistRightsControl"
+    title: "Artist Rights Control"
+    url: "/wiki/concepts/artistrightscontrol/"
   - key: "ArtisticAchievementMoralAccountability"
     title: "Artistic Achievement Moral Accountability"
     url: "/wiki/concepts/artisticachievementmoralaccountability/"

@@ -12868,3 +12868,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-28] ingest | Big shot: does a cancer vaccine work?
+
+Added source page for The Intelligence episode on Steve Young's personalized mRNA melanoma-vaccine trial, Canada's oil-sands boom, Trans Mountain capacity, and Dolly Parton's cultural legacy. Created Steve Young (Melanoma Trial Patient), Sarah Larniuk, Cenovus Energy, Canadian Natural Resources Limited, Trans Mountain Expansion, Major Projects Office (Canada), Dolly Parton, Canadian Oil Sands Boom, Cross-Coalition Cultural Icon, and Artist Rights Control pages; updated individualized cancer vaccine, cancer vaccine platform, cancer immune recognition, Moderna, Merck, Canada, Alberta, Mark Carney, American Cultural Exports, overview, and index. No settled contradiction found; the episode qualifies earlier cancer-vaccine optimism by keeping survival, side effects, dropout, cost, access, and tumor-type transferability unresolved.
+
+## [2026-08-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

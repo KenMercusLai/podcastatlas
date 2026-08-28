@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 8043
+wiki_total_pages: 8050
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -521,6 +521,9 @@ wiki_pages:
   - key: "DollarGeneral"
     title: "Dollar General"
     url: "/wiki/entities/dollargeneral/"
+  - key: "DollyParton"
+    title: "Dolly Parton"
+    url: "/wiki/entities/dollyparton/"
   - key: "DominicWindhamGiddens"
     title: "Dominic Windham-Giddens"
     url: "/wiki/entities/dominicwindhamgiddens/"

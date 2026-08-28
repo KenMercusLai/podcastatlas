@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Big shot: does a cancer vaccine work?](sources/big-shot-does-a-cancer-vaccine-work-6a9001f40c15e359f9cb103c.md) — The Intelligence episode on Steve Young's personalized mRNA melanoma-vaccine trial, Canada's oil-sands boom, Trans Mountain capacity, and Dolly Parton's cross-coalition cultural legacy.
 - [咖啡豆｜美式汉堡炸鸡扎堆来华，快餐品牌为什么又盯上中国市场？](sources/kafeidou-meishi-hanbao-zhaji-zhadui-laihua-kuaican-pinpai-weishenme-you-dingshang-zhongguo-shichang-1009244406.md) — 声动早咖啡 coffee-bean episode on Five Guys queues, U.S. fast-food brands' China expansion, local franchise partners, mall first-store traffic, and premium fast-food repeat-purchase risk.
 - [Selling Before Building: $1M ARR in Six Months](sources/selling-before-building-1m-arr-in-six-months.md) — The SaaS Podcast episode with Julius Kurfgen on Uplane, selling before building, one-week demo sprints, managed-service AI marketing automation, performance-linked ad-spend pricing, and atomic content guardrails.
 - [689. A Murderous Affair: The Habsburgs' Greatest Scandal (Part 1)](sources/689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702.md) — The Rest Is History episode on Crown Prince Rudolf's Habsburg formation, Austria-Hungary's dual-monarchy strains, fin-de-siecle Vienna, and Mary Vetsera's first access to Rudolf.
@@ -1613,6 +1614,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Steve Young (Melanoma Trial Patient)](entities/SteveYoungMelanomaPatient.md) — Hertfordshire musician and melanoma patient whose personalized mRNA-vaccine trial illustrates tumor sequencing, mRNA mapping, and ongoing seven-year monitoring.
+- [Dolly Parton](entities/DollyParton.md) — American songwriter, performer, business actor, philanthropist, and cross-coalition cultural figure in The Intelligence remembrance.
+- [Sarah Larniuk](entities/SarahLarniuk.md) — The Intelligence source voice explaining Canada's oil-sands boom through prices, pipeline capacity, trade uncertainty, and producer profits.
+- [Cenovus Energy](entities/CenovusEnergy.md) — Canadian oil producer used as an earnings signal for the oil-sands boom.
+- [Canadian Natural Resources Limited](entities/CanadianNaturalResourcesLimited.md) — Canadian oil producer used as a record adjusted-profit signal in the oil-sands boom segment.
+- [Trans Mountain Expansion](entities/TransMountainExpansion.md) — Canadian pipeline-capacity project whose 2024 opening is tied to oil-sands export optionality and infrastructure politics.
+- [Major Projects Office (Canada)](entities/MajorProjectsOfficeCanada.md) — Mark Carney-linked infrastructure approval office presented as a response to trade unpredictability and energy-independence goals.
 - [Uplane](entities/Uplane.md) — AI marketing automation company using sell-first validation, managed service delivery, performance-linked pricing, and brand-safe campaign guardrails.
 - [Julius Kurfgen](entities/JuliusKurfgen.md) — Uplane co-founder whose SaaS Podcast interview anchors sell-first demo sprints, managed-service AI marketing automation, and atomic content guardrails.
 - [Deutsche Bahn](entities/DeutscheBahn.md) — Enterprise customer case in Uplane's source, showing slow ad-formatting automation as a wedge into compliance, purchasing, and cross-team marketing adoption.
@@ -1990,11 +1998,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [孙翊 / Sun Yi (late Han)](entities/SunYiLateHan.md) — Sun-family son named in Hanji 982 and added by Hanji 1028 to Cao Cao's hostage-like court-service leverage over Sun Ce.
 - [关静 / Guan Jing (Late Han)](entities/GuanJingLateHan.md) — Gongsun Zan adviser whose Yijing warning and final loyalist death expose command trust after the fortress falls.
 - [公孙旭 / Gongsun Xu (Late Han)](entities/GongsunXuLateHan.md) — Gongsun Zan's son sent for Black Mountain help and later tied to the failed fire-signal relief plan at Yijing.
-- [Mark Carney](entities/MarkCarney.md) — Canadian prime minister in The Intelligence source on renewed U.S.-Canada tariff talks and diversification constraints.
+- [Mark Carney](entities/MarkCarney.md) — Canadian prime minister tied to U.S. tariff response, trade diversification constraints, energy independence, and the Major Projects Office.
 - [Hal Hodson](entities/HalHodson.md) — The Intelligence correspondent explaining Canada's tariff dilemma, provincial exposure, and investment-stability trap.
 - [Torigoe Atsushi](entities/TorigoeAtsushi.md) — Japanese employment-ice-age worker used as a concrete case of entry-cohort labor-market scarring.
 - [Jeremy Black](entities/JeremyBlack.md) — Military historian whose totemic/utilitarian siege distinction anchors The Intelligence siege segment.
-- [Alberta](entities/Alberta.md) — Canadian province whose oil leverage and low tariff exposure complicate federal retaliation against U.S. tariffs.
+- [Alberta](entities/Alberta.md) — Canadian province whose oil leverage, low tariff exposure, and oil-sands concentration complicate federal trade and infrastructure politics.
 - [Quebec](entities/Quebec.md) — Canadian province where tariff exposure and French-language protection politics complicate U.S.-Canada trade talks.
 - [李闯 / Li Chuang](entities/LiChuang.md) — Writer and 面基 guest connecting anthropology, Wudang volunteer life, fieldnotes, Chinese-medicine study, and freedom under ordinary constraints.
 - [《辞职上山》](entities/CizhiShangShan.md) — Li Chuang book used by the 面基 episode to demystify quitting, Wudang life, Daoist practice, and mountain retreat as escape.
@@ -4135,7 +4143,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [美团浣熊食堂 / Meituan Huanxiong Shitang](entities/MeituanHuanxiongShitang.md) — Meituan platform-led canteen-like foodservice space discussed as a successor pressure on older food courts.
 - [城市集市 / City Mart](entities/CityMart.md) — Shanghai scene-led food-market operator contrasted with the older 大食代 model.
 - [食通天 Skyland Food Court](entities/SkylandFoodCourt.md) — Newer food-court operator used as a high-end-mall successor path to the older Food Republic model.
-- [Moderna](entities/Moderna.md) — mRNA biotech company represented by the Moderna/Merck personalized melanoma-vaccine case.
+- [Moderna](entities/Moderna.md) — mRNA biotech company represented by the Moderna/Merck personalized melanoma-vaccine case and Steve Young patient-trial workflow.
 - [Kling AI / 可灵 AI](entities/KlingAI.md) — Kuaishou AI video product used as a revenue-growth and model-cost pressure example.
 - [Volcengine / 火山引擎](entities/Volcengine.md) — ByteDance cloud and AI-services layer connecting Doubao into Tesla China's in-car system.
 - [卓瑞 / Zhuo Rui](entities/ZhuoRui.md) — NVIDIA autonomous-driving, robotics, and smart-city product speaker explaining the automotive AI platform stack.
@@ -6126,7 +6134,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sphere Abacus](entities/SphereAbacus.md) — Distribution participant whose advance helped finance Heated Rivalry.
 - [Tim Fontaine](entities/TimFontaine.md) — Indigenous Canadian writer behind The King Is Dead, a future project discussed by Heated Rivalry's creators.
 - [The King Is Dead](entities/TheKingIsDead.md) — Tim Fontaine project in development with Crave and cited as part of the creators' post-Heated Rivalry slate.
-- [Canada](entities/Canada.md) — National production context for the episode's Canadian television financing, tax-credit, and distribution model.
+- [Canada](entities/Canada.md) — Country profile linking U.S. trade dependence, provincial energy politics, Indigenous housing, television financing, travel, wildfire risk, and oil-sands infrastructure.
 - [Abel Brodeur](entities/AbelBrodeur.md) — University of Ottawa economist organizing replication work through the Institute for Replication and the Replication Games.
 - [Institute For Replication](entities/InstituteForReplication.md) — Organization Brodeur created to coordinate replication outreach, author responses, and academic auditing.
 - [Replication Games](entities/ReplicationGames.md) — Hackathon-style research-auditing events where teams reproduce papers and test robustness.
@@ -9660,6 +9668,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Canadian Oil Sands Boom](concepts/CanadianOilSandsBoom.md) — Conjuncture where Alberta oil-sands producers benefit from high global prices, new pipeline capacity, tariff exemptions, and Canadian energy-independence politics.
+- [Cross-Coalition Cultural Icon](concepts/CrossCoalitionCulturalIcon.md) — Public figure pattern where work, persona, restraint, and usefulness sustain admiration across groups that usually disagree.
+- [Artist Rights Control](concepts/ArtistRightsControl.md) — Creative-business practice of preserving ownership and licensing leverage so short-term exposure does not strip long-term value.
 - [Discovery-Led Demo Sprint](concepts/DiscoveryLedDemoSprint.md) — Sales-first validation tactic that turns a discovery call into a near-term, customer-specific working demo.
 - [Managed-Service Automation Layer](concepts/ManagedServiceAutomationLayer.md) — Hybrid SaaS delivery model where human operators use and supervise automation while the product and customer self-serve path mature.
 - [Atomic Content Guardrails](concepts/AtomicContentGuardrails.md) — AI marketing control pattern where generated campaigns are assembled from approved brand, product, compliance, creative, and data components.
@@ -14000,7 +14011,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Multi-Perspective Murder Narration](concepts/MultiPerspectiveMurderNarration.md) — Narrative method in which many voices, images, colors, objects, and the murderer make viewpoint part of the mystery.
 - [Secular Happiness Against Ideology](concepts/SecularHappinessAgainstIdeology.md) — Literary frame for ordinary safety, marriage, children, and worldly happiness persisting inside grand art and identity conflicts.
 - [Life Sciences Workflow Software](concepts/LifeSciencesWorkflowSoftware.md) — Scientific-workflow software category for experiment design, data capture, analysis, and collaboration across university, biotech, and pharma work.
-- [Cancer Vaccine Platform](concepts/CancerVaccinePlatform.md) — Vaccine-immunotherapy strategy that trains cancer recognition while preserving tumor-type, patient-context, trial-evidence, trust, and access boundaries.
+- [Cancer Vaccine Platform](concepts/CancerVaccinePlatform.md) — Vaccine-immunotherapy strategy that trains cancer recognition while preserving tumor-type, patient-context, survival-evidence, toxicity, trust, and access boundaries.
 - [Individualized Cancer Vaccine](concepts/IndividualizedCancerVaccine.md) — Patient-specific mRNA immunotherapy workflow using tumor information to reduce postoperative recurrence risk while preserving validation, cost, and cancer-type limits.
 - [KRAS Oncology Target](concepts/KRASOncologyTarget.md) — Mutation-target strategy used by Adventris as a cross-cancer entry point for cancer-vaccine development.
 - [Biotech Founder Control](concepts/BiotechFounderControl.md) — Governance pattern where SAFEs, board composition, and founder authority protect science-heavy clinical decisions from investor pressure.
@@ -14652,7 +14663,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Historical Memory Contest](concepts/HistoricalMemoryContest.md) — Struggle over whether slavery, racial terror, and other painful history are confronted or sanitized through schools, museums, and official narrative.
 - [Immigration Backlash Cycle](concepts/ImmigrationBacklashCycle.md) — Recurring immigration-politics pattern of openness, anxiety, restriction, and reopening, with U.S. history and a British post-Brexit variant.
 - [Assimilation Capacity](concepts/AssimilationCapacity.md) — Society's ability to integrate newcomers through work, culture, community, and national belonging.
-- [American Cultural Exports](concepts/AmericanCulturalExports.md) — U.S. global influence through culture shaped by absorption of outside influences, marketing, media distribution, and popular forms.
+- [American Cultural Exports](concepts/AmericanCulturalExports.md) — U.S. cultural power through absorption, marketing, media distribution, artist rights, and public figures such as Dolly Parton.
 - [Auto Research](concepts/AutoResearch.md) — AI research-automation loop where models read papers, form hypotheses, write code, run experiments, and analyze results before full RSI.
 - [Enterprise Owned Models](concepts/EnterpriseOwnedModels.md) — Enterprise route of owning or post-training domain models when data, benchmarks, cost, or access constraints make frontier-only use unattractive.
 - [Record and Replay](concepts/RecordAndReplay.md) — Computer-use pattern where human GUI workflows are recorded into repeatable agent skills.

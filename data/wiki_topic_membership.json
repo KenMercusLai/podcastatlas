@@ -7624,6 +7624,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "ArtistRightsControl": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "ArtisticAchievementMoralAccountability": [
     {
       "key": "culture",
@@ -11248,9 +11260,31 @@
   ],
   "Canada": [
     {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "CanadianOilSandsBoom": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "CanadianTelevisionFinancing": [
@@ -15608,6 +15642,18 @@
       "url": "/topics/economics/"
     }
   ],
+  "CrossCoalitionCulturalIcon": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "CrossCulturalAssistedDeathEthics": [
     {
       "key": "politics",
@@ -17947,6 +17993,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "DollyParton": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "DomainExpertAlignment": [
@@ -36029,6 +36082,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "MajorProjectsOfficeCanada": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "MajoritarianLegalUniformity": [
     {
       "key": "politics",
@@ -36426,6 +36486,11 @@
     }
   ],
   "MarkCarney": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
     {
       "key": "economics",
       "label": "Economics",
@@ -57972,6 +58037,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "TransMountainExpansion": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "TranscendenceAgainstHumanFeeling": [
     {
       "key": "culture",
@@ -65956,6 +66028,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "big-shot-does-a-cancer-vaccine-work-6a9001f40c15e359f9cb103c": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "bombs-and-bombshells-zelensky-under-pressure-6a86d3561ad8716bb64646f0": [

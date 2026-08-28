@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 8043
+wiki_total_pages: 8050
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -173,6 +173,9 @@ wiki_pages:
   - key: "SarahLaFleur"
     title: "Sarah LaFleur"
     url: "/wiki/entities/sarahlafleur/"
+  - key: "SarahLarniuk"
+    title: "Sarah Larniuk"
+    url: "/wiki/entities/sarahlarniuk/"
   - key: "SarahPinsker"
     title: "Sarah Pinsker / 莎拉·平斯克"
     url: "/wiki/entities/sarahpinsker/"
@@ -1103,6 +1106,9 @@ wiki_pages:
   - key: "SteveShaw"
     title: "Steve Shaw"
     url: "/wiki/entities/steveshaw/"
+  - key: "SteveYoungMelanomaPatient"
+    title: "Steve Young (Melanoma Trial Patient)"
+    url: "/wiki/entities/steveyoungmelanomapatient/"
   - key: "StevenPinker"
     title: "Steven Pinker"
     url: "/wiki/entities/stevenpinker/"

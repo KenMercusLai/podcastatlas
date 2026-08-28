@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 5795
+wiki_total_pages: 5798
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -62,6 +62,9 @@ wiki_pages:
   - key: "CampusSpeechRegulation"
     title: "Campus Speech Regulation"
     url: "/wiki/concepts/campusspeechregulation/"
+  - key: "CanadianOilSandsBoom"
+    title: "Canadian Oil Sands Boom"
+    url: "/wiki/concepts/canadianoilsandsboom/"
   - key: "CanadianTelevisionFinancing"
     title: "Canadian Television Financing"
     url: "/wiki/concepts/canadiantelevisionfinancing/"
@@ -1601,6 +1604,9 @@ wiki_pages:
   - key: "CrossClassSocialCapital"
     title: "Cross-Class Social Capital"
     url: "/wiki/concepts/crossclasssocialcapital/"
+  - key: "CrossCoalitionCulturalIcon"
+    title: "Cross-Coalition Cultural Icon"
+    url: "/wiki/concepts/crosscoalitionculturalicon/"
   - key: "CrossCulturalAssistedDeathEthics"
     title: "Cross-Cultural Assisted Death Ethics"
     url: "/wiki/concepts/crossculturalassisteddeathethics/"

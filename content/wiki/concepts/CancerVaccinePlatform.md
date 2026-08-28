@@ -9,7 +9,8 @@ sources:
   - e235-20-nian-nei-car-t-zhiyu-aizheng-yu-liucheng-boshi-liaoliao-aizheng-zhiliao-de-diceng-zhexue-90f96f60-25be-45ac-b832-56776a23d534
   - vol-220-duihua-dabainiu-under-modena-dingzhi-kangai-yimiao-li-putongren-you-duoyuan-lofs520ps1evva8nafsnrkcbvgjz
   - how-your-immune-system-works-how-to-improve-it-dr-max-krummel-scim7009523546
-last_updated: 2026-08-27
+  - big-shot-does-a-cancer-vaccine-work-6a9001f40c15e359f9cb103c
+last_updated: 2026-08-28
 knowledge_schema: synthesis-v1
 ---
 
@@ -23,7 +24,7 @@ The wiki's current synthesis treats cancer vaccines as an immune-recognition str
 
 Target choice and patient selection remain central. The Adventris branch uses [[KRASOncologyTarget]] as a cross-cancer target and begins with localized pancreatic cancer while preserving a longer prevention ambition. [[156-shengwu-yiyao-de-2026-dang-shichang-bu-zai-wei-bd-zaodong-zhongguo-yaoqi-de-xingchen-dahai-cai-ganggang-zhankai-lil-ugrzq8uvzviq3f8i-wm9ilup]] supplies the difficulty side: pathogen vaccines often target comparatively stable antigens, while tumor mutations can be highly individualized.
 
-The Moderna/Merck branch now makes the individualized route concrete. [[kafeidou-chuantong-meishi-guangchang-jielian-bidian-dashidaimen-yudao-naxie-fazhan-zuai-1007530222]] records the short report of a personalized mRNA melanoma-vaccine signal, while [[vol-220-duihua-dabainiu-under-modena-dingzhi-kangai-yimiao-li-putongren-you-duoyuan-lofs520ps1evva8nafsnrkcbvgjz]] explains the clinical logic: after melanoma surgery, patient-specific tumor information may help the immune system recognize residual disease, but the approach remains bounded by melanoma's immunotherapy sensitivity, manufacturing cost, clinical validation, and patient risk-benefit decisions.
+The Moderna/Merck branch now makes the individualized route concrete. [[kafeidou-chuantong-meishi-guangchang-jielian-bidian-dashidaimen-yudao-naxie-fazhan-zuai-1007530222]] records the short report of a personalized mRNA melanoma-vaccine signal, while [[vol-220-duihua-dabainiu-under-modena-dingzhi-kangai-yimiao-li-putongren-you-duoyuan-lofs520ps1evva8nafsnrkcbvgjz]] explains the clinical logic: after melanoma surgery, patient-specific tumor information may help the immune system recognize residual disease, but the approach remains bounded by melanoma's immunotherapy sensitivity, manufacturing cost, clinical validation, and patient risk-benefit decisions. The English-language patient version runs through [[SteveYoungMelanomaPatient]] and emphasizes neoantigens, older single-target failures, checkpoint-inhibitor context, AI target selection, mRNA manufacturing in weeks, and unresolved overall-survival evidence ([[big-shot-does-a-cancer-vaccine-work-6a9001f40c15e359f9cb103c]]).
 
 The Krummel source contributes an immunologist's framing around why cancer patients may be especially receptive to vaccines: tumor-specific peptides can train immune responses against cancer, but the result still depends on recognition, immune-cell function, patient context, and trust in evidence. This supports the platform's recognition logic while reinforcing that vaccine language can be misunderstood when communication skips indication, timing, and limits.
 
@@ -34,22 +35,23 @@ The Krummel source contributes an immunologist's framing around why cancer patie
 - Cancer-type fit and immune-system context matter because immune sensitivity, tumor heterogeneity, patient immune function, and local immune context affect whether recognition can become tumor killing.
 - Manufacturing and logistics are part of the platform thesis when every patient may need a different product.
 - AI can help select or model tumor features, but clinical evidence still decides whether the vaccine improves outcomes.
-- The wiki should keep founder claims, market-news updates, immunology explanations, and clinical-explainer claims source-scoped until trial design, endpoints, and approval status are established by stronger sources.
+- The wiki should keep founder claims, market-news updates, immunology explanations, patient stories, and clinical-explainer claims source-scoped until trial design, endpoints, and approval status are established by stronger sources.
 
 ## Evidence
 - Immune-recognition rationale: [[tsr-ycoffsite-jenherbach-v1-audio-tsr-ycoffsite-jenherbach-v1-audio]] and [[e235-20-nian-nei-car-t-zhiyu-aizheng-yu-liucheng-boshi-liaoliao-aizheng-zhiliao-de-diceng-zhexue-90f96f60-25be-45ac-b832-56776a23d534]] both frame cancer treatment as making malignant self cells recognizable to the immune system.
 - Target and heterogeneity constraints: [[tsr-ycoffsite-jenherbach-v1-audio-tsr-ycoffsite-jenherbach-v1-audio]] uses KRAS as a target-defined strategy, while [[156-shengwu-yiyao-de-2026-dang-shichang-bu-zai-wei-bd-zaodong-zhongguo-yaoqi-de-xingchen-dahai-cai-ganggang-zhankai-lil-ugrzq8uvzviq3f8i-wm9ilup]] stresses that tumor mutations are less stable and more individualized than many pathogen antigens.
 - Individualized mRNA case: [[kafeidou-chuantong-meishi-guangchang-jielian-bidian-dashidaimen-yudao-naxie-fazhan-zuai-1007530222]] and [[vol-220-duihua-dabainiu-under-modena-dingzhi-kangai-yimiao-li-putongren-you-duoyuan-lofs520ps1evva8nafsnrkcbvgjz]] ground the Moderna/Merck melanoma branch in patient-specific tumor analysis and mRNA manufacturing.
-- Clinical and access limits: [[vol-220-duihua-dabainiu-under-modena-dingzhi-kangai-yimiao-li-putongren-you-duoyuan-lofs520ps1evva8nafsnrkcbvgjz]] ties the promise to postoperative adjuvant use, melanoma's immune sensitivity, PD-1 context, cost, adverse effects, and family burden.
+- Older failure modes and new enablers: [[big-shot-does-a-cancer-vaccine-work-6a9001f40c15e359f9cb103c]] says earlier attempts could target the wrong protein, target only one evolvable protein, or be blocked by tumor immune suppression, while checkpoint inhibitors, AI-selected neoantigens, and mRNA speed make the approach more plausible now.
+- Clinical and access limits: [[vol-220-duihua-dabainiu-under-modena-dingzhi-kangai-yimiao-li-putongren-you-duoyuan-lofs520ps1evva8nafsnrkcbvgjz]] and [[big-shot-does-a-cancer-vaccine-work-6a9001f40c15e359f9cb103c]] tie the promise to postoperative adjuvant use, melanoma's immune sensitivity, checkpoint-inhibitor context, overall-survival uncertainty, side effects, dropout rates, cost, and family burden.
 - Immunology and trust boundary: [[how-your-immune-system-works-how-to-improve-it-dr-max-krummel-scim7009523546]] explains tumor-specific peptide vaccination as immune training while keeping timing, evidence, and public trust questions explicit.
 
 ## Counterevidence & Qualifications
-The existing corpus does not prove that cancer vaccines are broadly effective across cancers or ready for ordinary preventive use. The Adventris evidence is a founder interview, the coffee-bean update lacks detailed trial data in the episode, the melanoma explainer is still a podcast interpretation rather than a clinical guideline, and the Krummel source is an immunology explanation rather than a trial report. Tumor heterogeneity, cold tumor microenvironments, immune exhaustion, toxicity, cost, trust, and manufacturing time all remain material boundaries.
+The existing corpus does not prove that cancer vaccines are broadly effective across cancers or ready for ordinary preventive use. The Adventris evidence is a founder interview, the coffee-bean update lacks detailed trial data in the episode, the melanoma explainers are podcast interpretations rather than clinical guidelines, and the Krummel source is an immunology explanation rather than a trial report. Tumor heterogeneity, cold tumor microenvironments, immune exhaustion, toxicity, cost, trust, manufacturing time, and access all remain material boundaries.
 
 ## What Changed
-- Added Krummel's tumor-specific peptide and vaccine-trust framing to the existing cancer-vaccine synthesis.
-- Strengthened the distinction between immune-training logic and proof of broad clinical effectiveness.
-- Made patient immune context and communication clarity part of the platform boundary.
+- Added the English-language Steve Young melanoma-trial case to the existing Moderna/Merck branch.
+- Added older vaccine-failure modes and the current enabler stack of checkpoint inhibitors, AI target selection, and fast mRNA manufacturing.
+- Strengthened the overall-survival, side-effect, dropout, cost, and access boundaries.
 
 ## Related Concepts
 - [[IndividualizedCancerVaccine]] - patient-specific mRNA subtype now separated from the umbrella platform.

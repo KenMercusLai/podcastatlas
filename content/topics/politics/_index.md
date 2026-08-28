@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1959
+topic_total_pages: 1960
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -640,6 +640,9 @@ topic_concepts:
   - key: "CrossBorderPlatformSpeechRegulation"
     title: "Cross-Border Platform Speech Regulation"
     url: "/wiki/concepts/crossborderplatformspeechregulation/"
+  - key: "CrossCoalitionCulturalIcon"
+    title: "Cross-Coalition Cultural Icon"
+    url: "/wiki/concepts/crosscoalitionculturalicon/"
   - key: "CrossCulturalAssistedDeathEthics"
     title: "Cross-Cultural Assisted Death Ethics"
     url: "/wiki/concepts/crossculturalassisteddeathethics/"

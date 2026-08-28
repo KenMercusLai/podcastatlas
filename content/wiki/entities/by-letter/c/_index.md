@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 8043
+wiki_total_pages: 8050
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -89,6 +89,9 @@ wiki_pages:
   - key: "Canada"
     title: "Canada"
     url: "/wiki/entities/canada/"
+  - key: "CanadianNaturalResourcesLimited"
+    title: "Canadian Natural Resources Limited"
+    url: "/wiki/entities/canadiannaturalresourceslimited/"
   - key: "CaneDogCoffee"
     title: "Cane Dog Coffee"
     url: "/wiki/entities/canedogcoffee/"
@@ -284,6 +287,9 @@ wiki_pages:
   - key: "CelsiusHoldings"
     title: "Celsius Holdings"
     url: "/wiki/entities/celsiusholdings/"
+  - key: "CenovusEnergy"
+    title: "Cenovus Energy"
+    url: "/wiki/entities/cenovusenergy/"
   - key: "CenterForNewAmericanSecurity"
     title: "Center for a New American Security"
     url: "/wiki/entities/centerfornewamericansecurity/"

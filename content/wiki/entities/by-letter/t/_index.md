@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 8043
+wiki_total_pages: 8050
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -716,6 +716,9 @@ wiki_pages:
   - key: "TracyYoung"
     title: "Tracy Young"
     url: "/wiki/entities/tracyyoung/"
+  - key: "TransMountainExpansion"
+    title: "Trans Mountain Expansion"
+    url: "/wiki/entities/transmountainexpansion/"
   - key: "TravisBickle"
     title: "Travis Bickle"
     url: "/wiki/entities/travisbickle/"

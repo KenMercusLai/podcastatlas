@@ -5115,6 +5115,10 @@
     "title": "Artist Discovery Fragmentation",
     "url": "/wiki/concepts/artistdiscoveryfragmentation/"
   },
+  "ArtistRightsControl": {
+    "title": "Artist Rights Control",
+    "url": "/wiki/concepts/artistrightscontrol/"
+  },
   "ArtisticAchievementMoralAccountability": {
     "title": "Artistic Achievement Moral Accountability",
     "url": "/wiki/concepts/artisticachievementmoralaccountability/"
@@ -8151,6 +8155,14 @@
     "title": "Canada",
     "url": "/wiki/entities/canada/"
   },
+  "CanadianNaturalResourcesLimited": {
+    "title": "Canadian Natural Resources Limited",
+    "url": "/wiki/entities/canadiannaturalresourceslimited/"
+  },
+  "CanadianOilSandsBoom": {
+    "title": "Canadian Oil Sands Boom",
+    "url": "/wiki/concepts/canadianoilsandsboom/"
+  },
   "CanadianTelevisionFinancing": {
     "title": "Canadian Television Financing",
     "url": "/wiki/concepts/canadiantelevisionfinancing/"
@@ -8818,6 +8830,10 @@
   "CenZhiLateHan": {
     "title": "岑晊 / Cen Zhi (late Han)",
     "url": "/wiki/entities/cenzhilatehan/"
+  },
+  "CenovusEnergy": {
+    "title": "Cenovus Energy",
+    "url": "/wiki/entities/cenovusenergy/"
   },
   "CensorshipIndustrialComplex": {
     "title": "Censorship Industrial Complex",
@@ -12211,6 +12227,10 @@
     "title": "Cross-Class Social Capital",
     "url": "/wiki/concepts/crossclasssocialcapital/"
   },
+  "CrossCoalitionCulturalIcon": {
+    "title": "Cross-Coalition Cultural Icon",
+    "url": "/wiki/concepts/crosscoalitionculturalicon/"
+  },
   "CrossCulturalAssistedDeathEthics": {
     "title": "Cross-Cultural Assisted Death Ethics",
     "url": "/wiki/concepts/crossculturalassisteddeathethics/"
@@ -14278,6 +14298,10 @@
   "DollarizedStabilization": {
     "title": "Dollarized Stabilization",
     "url": "/wiki/concepts/dollarizedstabilization/"
+  },
+  "DollyParton": {
+    "title": "Dolly Parton",
+    "url": "/wiki/entities/dollyparton/"
   },
   "DomainExpertAlignment": {
     "title": "Domain Expert Alignment",
@@ -30795,6 +30819,10 @@
     "title": "Major League Soccer",
     "url": "/wiki/entities/majorleaguesoccer/"
   },
+  "MajorProjectsOfficeCanada": {
+    "title": "Major Projects Office (Canada)",
+    "url": "/wiki/entities/majorprojectsofficecanada/"
+  },
   "MajoritarianLegalUniformity": {
     "title": "Majoritarian Legal Uniformity",
     "url": "/wiki/concepts/majoritarianlegaluniformity/"
@@ -42623,6 +42651,10 @@
     "title": "Sarah LaFleur",
     "url": "/wiki/entities/sarahlafleur/"
   },
+  "SarahLarniuk": {
+    "title": "Sarah Larniuk",
+    "url": "/wiki/entities/sarahlarniuk/"
+  },
   "SarahPinsker": {
     "title": "Sarah Pinsker / 莎拉·平斯克",
     "url": "/wiki/entities/sarahpinsker/"
@@ -45955,6 +45987,10 @@
     "title": "Steve Shaw",
     "url": "/wiki/entities/steveshaw/"
   },
+  "SteveYoungMelanomaPatient": {
+    "title": "Steve Young (Melanoma Trial Patient)",
+    "url": "/wiki/entities/steveyoungmelanomapatient/"
+  },
   "StevenPinker": {
     "title": "Steven Pinker",
     "url": "/wiki/entities/stevenpinker/"
@@ -49098,6 +49134,10 @@
   "TrainingComputeAllocation": {
     "title": "Training Compute Allocation",
     "url": "/wiki/concepts/trainingcomputeallocation/"
+  },
+  "TransMountainExpansion": {
+    "title": "Trans Mountain Expansion",
+    "url": "/wiki/entities/transmountainexpansion/"
   },
   "TranscendenceAgainstHumanFeeling": {
     "title": "Transcendence Against Human Feeling",
@@ -56886,6 +56926,10 @@
   "big-lettuce-meets-small-intestine": {
     "title": "Big Lettuce meets Small Intestine",
     "url": "/wiki/sources/big-lettuce-meets-small-intestine/"
+  },
+  "big-shot-does-a-cancer-vaccine-work-6a9001f40c15e359f9cb103c": {
+    "title": "Big shot: does a cancer vaccine work?",
+    "url": "/wiki/sources/big-shot-does-a-cancer-vaccine-work-6a9001f40c15e359f9cb103c/"
   },
   "board-games-3-whats-in-a-name": {
     "title": "BOARD GAMES 3: What's in a name?",

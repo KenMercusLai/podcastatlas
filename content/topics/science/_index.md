@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 820
+topic_total_pages: 821
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1526,6 +1526,9 @@ topic_entities:
   - key: "Caltech"
     title: "Caltech"
     url: "/wiki/entities/caltech/"
+  - key: "Canada"
+    title: "Canada"
+    url: "/wiki/entities/canada/"
   - key: "CapeCanaveral"
     title: "Cape Canaveral"
     url: "/wiki/entities/capecanaveral/"

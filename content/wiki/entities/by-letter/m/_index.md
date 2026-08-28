@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 8043
+wiki_total_pages: 8050
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -95,6 +95,9 @@ wiki_pages:
   - key: "MajorLeagueSoccer"
     title: "Major League Soccer"
     url: "/wiki/entities/majorleaguesoccer/"
+  - key: "MajorProjectsOfficeCanada"
+    title: "Major Projects Office (Canada)"
+    url: "/wiki/entities/majorprojectsofficecanada/"
   - key: "MakeMyTrip"
     title: "MakeMyTrip"
     url: "/wiki/entities/makemytrip/"

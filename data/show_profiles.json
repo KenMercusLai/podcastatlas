@@ -296,8 +296,8 @@
       "earliest_episode_date": "2026-02-09",
       "latest_episode_date": "2026-08-27",
       "latest_episode_file": "Big shot： does a cancer vaccine work？ [6a9001f40c15e359f9cb103c].md",
-      "source_note_count": 60,
-      "topic_matched_source_note_count": 57,
+      "source_note_count": 61,
+      "topic_matched_source_note_count": 58,
       "topics": [
         {
           "key": "politics",
@@ -315,7 +315,7 @@
           "key": "culture",
           "label": "Culture",
           "url": "/topics/culture/",
-          "source_note_count": 18
+          "source_note_count": 19
         },
         {
           "key": "economics",
@@ -385,7 +385,7 @@
       "start_here_episode_files": [
         "Even-more-maximum pressure： sanctions on Iran [6a8d6a9b66c4a1e81a4c86a9].md",
         "Slip the surly bonds？ Scott Bessent goes on a yield trip [6a8eb9200c15e359f9599e1a].md",
-        "I, robot？ AI and consciousness [6a880840b0d5e24ea40c7015].md",
+        "Big shot： does a cancer vaccine work？ [6a9001f40c15e359f9cb103c].md",
         "Elbows up, again： a US-Canada trade flare-up [6a8c0fa3a89d26398ee7a5db].md"
       ]
     },

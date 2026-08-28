@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2529
+topic_total_pages: 2533
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1021,6 +1021,9 @@ topic_concepts:
   - key: "CalculationIntegrityAttack"
     title: "Calculation Integrity Attack"
     url: "/wiki/concepts/calculationintegrityattack/"
+  - key: "CanadianOilSandsBoom"
+    title: "Canadian Oil Sands Boom"
+    url: "/wiki/concepts/canadianoilsandsboom/"
   - key: "CandidateIdentityFraud"
     title: "Candidate Identity Fraud"
     url: "/wiki/concepts/candidateidentityfraud/"
@@ -4928,6 +4931,9 @@ topic_entities:
   - key: "MajorLeagueBaseball"
     title: "Major League Baseball"
     url: "/wiki/entities/majorleaguebaseball/"
+  - key: "MajorProjectsOfficeCanada"
+    title: "Major Projects Office (Canada)"
+    url: "/wiki/entities/majorprojectsofficecanada/"
   - key: "ManiSkill"
     title: "ManiSkill"
     url: "/wiki/entities/maniskill/"
@@ -4949,6 +4955,9 @@ topic_entities:
   - key: "MarkAndreessen"
     title: "Mark Andreessen"
     url: "/wiki/entities/markandreessen/"
+  - key: "MarkCarney"
+    title: "Mark Carney"
+    url: "/wiki/entities/markcarney/"
   - key: "MarkGraham"
     title: "Mark Graham"
     url: "/wiki/entities/markgraham/"
@@ -5906,6 +5915,9 @@ topic_entities:
   - key: "TQQQ"
     title: "TQQQ"
     url: "/wiki/entities/tqqq/"
+  - key: "TransMountainExpansion"
+    title: "Trans Mountain Expansion"
+    url: "/wiki/entities/transmountainexpansion/"
   - key: "TrevorBlackwell"
     title: "Trevor Blackwell"
     url: "/wiki/entities/trevorblackwell/"

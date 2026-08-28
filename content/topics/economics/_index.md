@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 1868
+topic_total_pages: 1871
 topic_concepts:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -220,6 +220,9 @@ topic_concepts:
   - key: "APIProductDesign"
     title: "API Product Design"
     url: "/wiki/concepts/apiproductdesign/"
+  - key: "ArtistRightsControl"
+    title: "Artist Rights Control"
+    url: "/wiki/concepts/artistrightscontrol/"
   - key: "AssetAllocation"
     title: "Asset Allocation"
     url: "/wiki/concepts/assetallocation/"
@@ -436,6 +439,9 @@ topic_concepts:
   - key: "BuySideInvestmentAdvisory"
     title: "Buy-Side Investment Advisory / 买方投资顾问"
     url: "/wiki/concepts/buysideinvestmentadvisory/"
+  - key: "CanadianOilSandsBoom"
+    title: "Canadian Oil Sands Boom"
+    url: "/wiki/concepts/canadianoilsandsboom/"
   - key: "CapTableLiteracy"
     title: "Cap Table Literacy"
     url: "/wiki/concepts/captableliteracy/"
@@ -3089,6 +3095,9 @@ topic_entities:
   - key: "CallumWilliams"
     title: "Callum Williams"
     url: "/wiki/entities/callumwilliams/"
+  - key: "Canada"
+    title: "Canada"
+    url: "/wiki/entities/canada/"
   - key: "Caribbean"
     title: "Caribbean"
     url: "/wiki/entities/caribbean/"
