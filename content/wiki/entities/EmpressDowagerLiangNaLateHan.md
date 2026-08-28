@@ -1,69 +1,63 @@
 ---
 title: "梁妠 / Empress Dowager Liang Na (late Han)"
 type: entity
+knowledge_schema: synthesis-v1
 tags: [person, late-han, empress-dowager, outer-relative-power, liang-family]
 sources:
   - zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq
   - zizhi-tongjian-hanji-833-tanguan-neng-you-duo-lipu-kanwan-dadieyanjing-lqudlijjyqmcro-wsmrvwkodgt72
   - zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji
   - zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq
+  - zizhi-tongjian-hanji-828-da-jiangjun-liangji-shanquan-feili-de-donghan-jianchen-llqnqijagtmdlgitulddxspncu0e
 last_updated: 2026-08-29
-knowledge_schema: synthesis-v1
 ---
 
 ## Overview
-
-梁妠 / Empress Dowager Liang Na is the late-Han dowager whose current profile now includes the 147 CE succession decision that moves [[LiuKuiBohaiKing|刘亏]] into the [[BohaiKingdomLateHan|渤海王国]], limited restraint inside the 147-148 CE [[LiangJiLateHan|梁冀]] persecution of [[LiGuLateHan|李固]] and [[DuQiaoLateHan|杜乔]], and the later return-of-power transition to [[EmperorHuanOfHan|汉桓帝]]. The page treats her as a Liang-family authority figure who can still issue placement, protective, release, and pardoning orders, but who cannot convert those interventions into durable control over Liang Ji.
+梁妠 / Empress Dowager Liang Na is the late-Han dowager whose authority formalizes [[EmperorHuanOfHan]]'s accession and then only partly restrains [[LiangJiLateHan]]'s later terror. Her current profile starts in 146 CE: she had summoned Liu Zhi for a planned Liang marriage alliance, sends Liang Ji to receive him after [[EmperorZhiOfHan]]'s death, continues regency because Huan is not yet capped, and removes [[LiGuLateHan]] after Liang Ji's anger over the succession dispute.
 
 ## Current Profile
+[[zizhi-tongjian-hanji-828-da-jiangjun-liangji-shanquan-feili-de-donghan-jianchen-llqnqijagtmdlgitulddxspncu0e|Hanji 828]] supplies the earliest current layer. Liang Na's earlier plan to marry her younger sister to Liu Zhi brings him toward Luoyang before Emperor Zhi's death. After [[CaoTengLateHan]] persuades Liang Ji to favor Liu Zhi, Liang Na's authority formalizes the outcome: Liang Ji is sent with staff, tally, and princely carriage to receive Liu Zhi into the South Palace, and Liang Na continues hearing government because the new emperor is fifteen and not yet adult by ritual marker.
 
-Hanji 829 supplies the earliest current authority layer. After Liu Hong dies without a son, Liang Na appoints Huan's younger brother Liu Kui as Bohai king and Liu Hong's successor. The same source says Li Gu's preference for Liu Suan had touched Liang Na and Liang-family interests, placing her inside the accession and succession conflict before the later Li Gu-Du Qiao persecution.
+The same source shows Liang Na acting through the Liang-family power channel against Li Gu. After Li Gu continues resisting Liu Zhi's accession, Liang Ji grows angry and has Liang Na remove him from the taiwei office.
 
-Hanji 830 adds the earlier bounded-action layer. Liang Na initially refuses to let Liang Ji arrest Du Qiao, later orders Li Gu released after student and public petitions, and after Li Gu and Du Qiao die she pardons [[GuoLiangLiGuStudent|郭亮]], [[DongBanNanyangLateHan|董班]], and [[YangKuangDuQiaoRetainer|杨匡]] while permitting the bodies to return home for burial. These acts mark real authority, but they do not prevent Liang Ji's renewed accusation or the prison deaths.
+The 147 CE royal-placement layer comes from [[zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq|Hanji 829]]: after Liu Hong dies without a son, Liang Na appoints Huan's younger brother Liu Kui as Bohai king and Liu Hong's successor. [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|Hanji 830]] then shows bounded restraint: she initially refuses Du Qiao's arrest, orders Li Gu released after petitions, pardons mourners, and permits return burial, but she does not stop Liang Ji's renewed accusation or the prison deaths.
 
-Hanji 832 then supplies the transition layer. Liang Na issues an edict returning political authority to Emperor Huan and no longer exercises imperial power. Her death follows immediately in the episode's narrative, and the host frames it as the moment when the Liang outer-relative clan loses its central protector.
-
-Hanji 833 shows the downstream field after her exit. Emperor Huan increases Liang Ji's food-estate base and grants [[SunShouLateHan|孙寿]] high-status, revenue-bearing honors, while Liang and Sun Shou move into the household-power and private-extraction evidence that defines the post-dowager Liang sequence.
+[[zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq|Hanji 832]] supplies the transition layer: Liang Na returns governing authority to Huan and dies soon after. [[zizhi-tongjian-hanji-833-tanguan-neng-you-duo-lipu-kanwan-dadieyanjing-lqudlijjyqmcro-wsmrvwkodgt72|Hanji 833]] shows the downstream field after her exit, with Liang Ji and [[SunShouLateHan]] receiving expanded honors while the Liang household-power sequence continues.
 
 ## Key Characteristics
-
-- Late-Han empress dowager who retains enough authority in 147-148 CE to assign a royal succession, delay arrests, release accused officials, pardon mourners, and permit burial.
-- Liang-family authority figure whose interventions limit selected outcomes but do not stop Liang Ji's terror.
-- Regent-to-imperial-rule hinge who later returns governing authority to Emperor Huan.
-- Family anchor whose death changes the political security of Liang Ji and related outer relatives.
-- Chronological bridge from Li Gu and Du Qiao's persecution to Hanji 833's Liang Ji and Sun Shou honor expansion.
+- Dowager whose marriage planning accidentally positions Liu Zhi as a ready succession option in 146 CE.
+- Regent whose authority formalizes Liu Zhi's accession and continues because Huan is still ritually underage.
+- Liang-family authority figure who removes Li Gu after his resistance to Liang Ji's succession plan.
+- Later dowager who can assign royal succession, delay arrests, release accused officials, pardon mourners, and permit burial.
+- Powerholder with real bounded authority but no durable control over Liang Ji's terror.
+- Regent-to-imperial-rule hinge whose return of authority and death alter the Liang family's protection environment.
 
 ## Evidence
-
+- Liu Zhi proximity and accession role: [[zizhi-tongjian-hanji-828-da-jiangjun-liangji-shanquan-feili-de-donghan-jianchen-llqnqijagtmdlgitulddxspncu0e|Hanji 828]] says Liang Na had summoned Liu Zhi for a planned marriage to her younger sister, then sends Liang Ji to receive him into the South Palace.
+- Continuing regency: [[zizhi-tongjian-hanji-828-da-jiangjun-liangji-shanquan-feili-de-donghan-jianchen-llqnqijagtmdlgitulddxspncu0e|Hanji 828]] says Huan is fifteen and not yet capped, so Liang Na continues hearing government.
+- Li Gu removal: [[zizhi-tongjian-hanji-828-da-jiangjun-liangji-shanquan-feili-de-donghan-jianchen-llqnqijagtmdlgitulddxspncu0e|Hanji 828]] says Liang Ji has Liang Na remove Li Gu after Li Gu continues opposing the accession choice.
 - Bohai succession: [[zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq|Hanji 829]] says Liang Na appoints Huan's younger brother Liu Kui as Bohai king after Liu Hong dies without a son.
-- Accession-interest context: [[zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq|Hanji 829]] says Li Gu's preference for Liu Suan touched Liang Na and Liang-family interests.
-- Initial restraint and release order: [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|Hanji 830]] says Liang Na refuses the immediate arrest of Du Qiao and later orders Li Gu released after petitions.
+- Initial restraint and release order: [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|Hanji 830]] says Liang Na refuses Du Qiao's immediate arrest and later orders Li Gu released after petitions.
 - Pardon and burial permission: [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|Hanji 830]] says Liang Na pardons the mourners and permits Li Gu and Du Qiao's bodies to be returned home.
-- Limit of intervention: [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|Hanji 830]] also shows Liang Ji reasserting the accusation and achieving Li Gu and Du Qiao's prison deaths despite her earlier restraint.
-- Return of authority: [[zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq|Hanji 832]] says Liang Na returns governing power to Emperor Huan and no longer exercises the emperor's authority.
-- Death and family exposure: [[zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq|Hanji 832]] frames her death as removing the Liang clan's central support.
-- Downstream honor expansion: [[zizhi-tongjian-hanji-833-tanguan-neng-you-duo-lipu-kanwan-dadieyanjing-lqudlijjyqmcro-wsmrvwkodgt72|Hanji 833]] says the post-dowager field includes Emperor Huan increasing Liang Ji's food-estate base and granting Sun Shou a revenue-bearing title.
+- Return of authority and death: [[zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq|Hanji 832]] says Liang Na returns governing power to Huan and soon dies, removing the Liang clan's central support.
+- Downstream honor expansion: [[zizhi-tongjian-hanji-833-tanguan-neng-you-duo-lipu-kanwan-dadieyanjing-lqudlijjyqmcro-wsmrvwkodgt72|Hanji 833]] says the post-dowager field includes Huan increasing Liang Ji's food-estate base and granting Sun Shou a revenue-bearing title.
 
 ## Qualifications
-
-The current source set does not provide Liang Na's full reign, personal policy program, or independent relationship with all Liang relatives. Hanji 829 shows succession-placement authority and identifies Liang Na's interest in the earlier accession dispute, but it does not reconstruct her full reasoning. Hanji 830 shows protective and pardoning authority, but it also shows that her orders do not amount to durable control over Liang Ji. Hanji 832 and Hanji 833 define her mainly through transition effects: returning power, dying, and leaving the Liang family exposed but still materially rewarded.
+The current source set does not provide Liang Na's full reign, personal policy program, or independent relationship with all Liang relatives. Hanji 828 shows her formal role in accession and removal actions but does not prove her full private reasoning. Hanji 830 shows protective and pardoning authority, but it also shows that her orders do not amount to durable control over Liang Ji. Hanji 832 and Hanji 833 define her mainly through transition effects: returning power, dying, and leaving the Liang family exposed but still materially rewarded.
 
 ## What Changed
-
-- Added Hanji 829 as Liang Na's Bohai succession and Liu Suan accession-interest layer.
-- Added Hanji 830 as Liang Na's limited-intervention layer in the Li Gu and Du Qiao persecution sequence.
-- Reframed her return of power and death as later transition points after an earlier record of bounded authority and failed restraint.
+- Added Hanji 828 as Liang Na's direct 146 CE accession, continuing-regency, and Li Gu removal layer.
+- Reframed later Bohai succession and Li Gu-Du Qiao interventions as bounded authority after an earlier formal accession role.
+- Preserved her return of power and death as later transition points in the Liang-family sequence.
 
 ## Relationships
-
-- [[LiangJiLateHan|梁冀]] - Liang-family powerholder whom Liang Na can temporarily check but not durably restrain.
-- [[LiuKuiBohaiKing|刘亏]] and [[BohaiKingdomLateHan|渤海王国]] - royal successor and fief assigned through Liang Na's 147 CE decision.
-- [[LiuSuanLateHan|刘蒜]] - alternative imperial-clan candidate whose support touches Liang Na's accession interests.
-- [[LiGuLateHan|李固]] - accused minister whom Liang Na releases after petitions but cannot save from renewed imprisonment and death.
-- [[DuQiaoLateHan|杜乔]] - accused minister whose immediate arrest Liang Na initially blocks and whose burial she later permits.
-- [[GuoLiangLiGuStudent|郭亮]] - mourner pardoned by Liang Na after defying Liang Ji's ban.
-- [[DongBanNanyangLateHan|董班]] - second Li Gu mourner pardoned by Liang Na.
-- [[YangKuangDuQiaoRetainer|杨匡]] - Du Qiao retainer pardoned after guarding and recovering the body.
-- [[EmperorHuanOfHan|汉桓帝]] - emperor who receives returned governing authority after Liang Na's edict.
-- [[SunShouLateHan|孙寿]] - Liang Ji's spouse whose honor expansion appears in the downstream post-dowager field.
-- [[OuterRelativeCourtPower|外戚专权与清算]] - broader concept for Liang-family power before and after the dowager transition.
+- [[LiangJiLateHan]] - Liang-family powerholder whom Liang Na empowers, temporarily checks, but cannot durably restrain.
+- [[EmperorHuanOfHan]] - Liu Zhi, the ruler whose accession and continued regency Liang Na formalizes.
+- [[EmperorZhiOfHan]] - predecessor whose death opens the succession crisis.
+- [[CaoTengLateHan]] - eunuch adviser whose succession argument Liang Ji carries into Liang Na's authority channel.
+- [[LiGuLateHan]] - objecting minister whom Liang Na removes and later temporarily releases.
+- [[DuQiaoLateHan]] - objecting minister whose immediate arrest Liang Na initially blocks and whose burial she later permits.
+- [[LiuSuanLateHan]] - alternative imperial-clan candidate whose support touches Liang-family accession interests.
+- [[LiuKuiBohaiKing]] and [[BohaiKingdomLateHan]] - royal successor and fief assigned through Liang Na's 147 CE decision.
+- [[SunShouLateHan]] - Liang Ji's spouse whose honor expansion appears in the downstream post-dowager field.
+- [[OuterRelativeCourtPower]] - broader concept for Liang-family power before and after the dowager transition.

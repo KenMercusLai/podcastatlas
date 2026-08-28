@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 5860
+wiki_total_pages: 5861
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1697,6 +1697,9 @@ wiki_pages:
   - key: "StrategicDefectorIncorporation"
     title: "纳叛安抚式整合 / Strategic Defector Incorporation"
     url: "/wiki/concepts/strategicdefectorincorporation/"
+  - key: "SelfProtectiveAccessionChoice"
+    title: "自保式继位选择 / Self-Protective Accession Choice"
+    url: "/wiki/concepts/selfprotectiveaccessionchoice/"
   - key: "SettingBasedMystery"
     title: "设定系推理 / Setting-Based Mystery"
     url: "/wiki/concepts/settingbasedmystery/"

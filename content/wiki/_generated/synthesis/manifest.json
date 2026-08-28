@@ -1,8 +1,8 @@
 {
   "content_date": "2026-08-29",
   "corpus": {
-    "episode_count": 1644,
-    "source_count": 1644
+    "episode_count": 1645,
+    "source_count": 1645
   },
   "generated": true,
   "global": {
@@ -21,7 +21,7 @@
       "governance-and-institutions"
     ]
   },
-  "overview_commit": "ca4a370d5bfd30310bbe1676610bd35c47faceaf",
+  "overview_commit": "2e99b4260e28f49184e1a571c2faddc55f23e6fa",
   "overview_digest": "3bc683997ce1253d22e706ade44cb28e20a116760dcac06bd1efc40859b198c0",
   "paragraph_count": 343,
   "schema_version": 1,

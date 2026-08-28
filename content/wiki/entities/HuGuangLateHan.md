@@ -1,23 +1,51 @@
 ---
 title: "胡广 / Hu Guang (late Han)"
 type: entity
+knowledge_schema: synthesis-v1
 tags: [person, late-han, official, court-politics, china]
-sources: [zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr]
-last_updated: 2026-08-26
+sources:
+  - zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr
+  - zizhi-tongjian-hanji-828-da-jiangjun-liangji-shanquan-feili-de-donghan-jianchen-llqnqijagtmdlgitulddxspncu0e
+last_updated: 2026-08-29
 ---
 
-# 胡广 / Hu Guang (late Han)
+## Overview
+胡广 / Hu Guang is a long-serving late-Han senior official whose current profile now includes both early accommodation under [[LiangJiLateHan]]'s 146 CE succession pressure and later institutional survival into old age. The combined evidence makes him a case of bureaucratic usefulness and office preservation with an unresolved moral cost.
 
-胡广 / Hu Guang enters the wiki through [[zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr|Hanji 900]] as the 82-year-old taifu whose death in 172 CE becomes the episode's main office-survival case. The source presents him as a senior figure who served six emperors, held the highest court offices, and was repeatedly recalled after dismissal.
+## Current Profile
+[[zizhi-tongjian-hanji-828-da-jiangjun-liangji-shanquan-feili-de-donghan-jianchen-llqnqijagtmdlgitulddxspncu0e|Hanji 828]] places Hu Guang in the accession meeting after [[EmperorZhiOfHan]]'s death. When Liang Ji pressures the Three Excellencies and Nine Ministers to accept Liu Zhi, Hu Guang and Zhao Jie submit; Hu Guang is then made taiwei and, with Zhao Jie and Liang Ji, supervises Shangshu affairs.
 
-The episode does not treat Hu Guang as merely lucky or empty. His value comes from court knowledge, precedent memory, statutes, personnel recommendation, and relationship continuity; officials consult him because he knows how the institution works. This makes him a late-Han case of [[ModerationAsPoliticalSurvival|中庸圆滑政治生存]] rather than a simple caricature of timidity.
+The same source also shows the darker side of procedural seniority. Teng Fu should have been rewarded for anti-bandit merit, but after eunuchs resent his refusal to associate with powerholders, Hu Guang impeaches him and Teng Fu is dismissed.
 
-The moral judgment remains mixed. Hu Guang's mildness, caution, and refusal to offend help him survive, but the same traits make later critics say he preserved rank and salary without enough upright remonstrance. His page therefore sits near [[PoliticalSurvivalFirst|安全第一政治生存]], [[StrategicEmotionConcealment|情绪不外露的战略纪律]], and [[WorldlyPoliticalCultivation|入世政治修行]]: preserved agency can be politically useful while still damaging moral legibility.
+[[zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr|Hanji 900]] later presents Hu Guang at age eighty-two as a taifu who served six emperors, held high offices, and was repeatedly recalled after dismissal. His value lies in institutional memory, precedent, statutes, personnel recommendation, and relationship continuity, but critics see the same caution as rank-preserving insufficient remonstrance.
 
-## Connections
+## Key Characteristics
+- Senior official who survives regime changes by preserving institutional usefulness.
+- Court technician whose knowledge of precedent and personnel gives him durable value.
+- Accommodationist in moments of coercive power, including Liang Ji's 146 succession meeting.
+- Procedural actor whose impeachment of Teng Fu formalizes pressure against an upright merit claimant.
+- Morally mixed figure: administratively competent and politically durable, but vulnerable to criticism for insufficient upright resistance.
 
-- [[zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr|Hanji 900]] - source episode.
-- [[EmperorLingOfHan|汉灵帝]] - ruler at the time of Hu Guang's death and funeral honors.
-- [[ChenFanLateHan|陈蕃]] - named as a former subordinate who later stood beside Hu Guang in high office.
-- [[ModerationAsPoliticalSurvival|中庸圆滑政治生存]] - concept grounded by Hu Guang's long court survival.
-- [[PoliticalSurvivalFirst|安全第一政治生存]], [[StrategicEmotionConcealment|情绪不外露的战略纪律]], and [[WorldlyPoliticalCultivation|入世政治修行]] - adjacent survival and participation frames.
+## Evidence
+- Succession compliance: [[zizhi-tongjian-hanji-828-da-jiangjun-liangji-shanquan-feili-de-donghan-jianchen-llqnqijagtmdlgitulddxspncu0e|Hanji 828]] says Hu Guang submits to Liang Ji's preferred accession outcome while Li Gu and Du Qiao continue resisting.
+- High office after accession: [[zizhi-tongjian-hanji-828-da-jiangjun-liangji-shanquan-feili-de-donghan-jianchen-llqnqijagtmdlgitulddxspncu0e|Hanji 828]] says Hu Guang becomes taiwei and helps oversee Shangshu affairs with Zhao Jie and Liang Ji.
+- Teng Fu impeachment: [[zizhi-tongjian-hanji-828-da-jiangjun-liangji-shanquan-feili-de-donghan-jianchen-llqnqijagtmdlgitulddxspncu0e|Hanji 828]] reports Hu Guang's impeachment leading to Teng Fu's dismissal despite Teng Fu's merit.
+- Long-service profile: [[zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr|Hanji 900]] says Hu Guang served six emperors and returned repeatedly after dismissal.
+- Moral ambiguity: [[zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr|Hanji 900]] treats Hu Guang's mildness and caution as both the basis of survival and the reason later critics fault his lack of upright remonstrance.
+
+## Qualifications
+The current evidence does not prove Hu Guang's private motives in the succession meeting or Teng Fu impeachment. It establishes how the episodes are presented in the podcast sources: as accommodation under Liang Ji's pressure, as procedural participation in a hostile removal, and as part of a broader survival profile.
+
+## What Changed
+- Migrated Hu Guang to the synthesis-v1 entity schema.
+- Added the 146 CE succession-meeting and Teng Fu impeachment layers.
+- Reframed his later survival as continuous with earlier accommodation rather than as an isolated old-age profile.
+
+## Relationships
+- [[LiangJiLateHan]] - coercive powerholder whose preferred succession Hu Guang accepts.
+- [[EmperorHuanOfHan]] - ruler installed in the accession outcome Hu Guang submits to.
+- [[TengFuLateHan]] - official whose dismissal follows Hu Guang's impeachment.
+- [[LiGuLateHan]] and [[DuQiaoLateHan]] - contrast figures who continue resisting Liang Ji's succession choice.
+- [[ModerationAsPoliticalSurvival]] - Hu Guang's long career exemplifies the survival benefits and moral costs of caution.
+- [[PoliticalSurvivalFirst]] - related survival frame for preserving office under dangerous power.
+- [[OuterRelativeCourtPower]] - Liang Ji's power environment shapes Hu Guang's early accommodation.

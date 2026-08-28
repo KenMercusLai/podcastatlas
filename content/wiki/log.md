@@ -13176,3 +13176,11 @@ Ingested the 芮淇讲透资治通鉴 episode on 147 CE Emperor Huan's accession
 ## [2026-08-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-29] ingest | 《资治通鉴·汉纪》828丨大将军梁冀：擅权废立的东汉奸臣
+
+Ingested the 芮淇讲透资治通鉴 episode on the 146 CE succession after Emperor Zhi's death, Cao Teng's self-protective advice to Liang Ji, Liu Zhi's accession as Emperor Huan under Liang Na's continued regency, Li Gu and Du Qiao's resistance, Zhu Mu's rejected staffing and emperor-education warning, Huan's ancestral honors, and Teng Fu's eunuch-driven dismissal. Created the source note, Teng Fu, and Self-Protective Accession Choice pages; updated Cao Teng, Hu Guang, Emperor Zhi, Liu Suan, Du Qiao, Li Gu, Empress Dowager Liang Na, Zhu Mu, Liang Ji, Emperor Huan, Outer-Relative Court Power, Corrective Advice Nonconversion, index, and downstream synthesis inputs. No settled contradiction found; minor offices and ritual details remain source-scoped, and Teng Fu is kept distinct from Teng Yan.
+
+## [2026-08-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

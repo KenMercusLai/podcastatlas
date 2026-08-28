@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 8178
+wiki_total_pages: 8179
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1157,6 +1157,9 @@ wiki_pages:
   - key: "TengYanLateHan"
     title: "滕延 / Teng Yan (late Han)"
     url: "/wiki/entities/tengyanlatehan/"
+  - key: "TengFuLateHan"
+    title: "滕抚 / Teng Fu (late Han)"
+    url: "/wiki/entities/tengfulatehan/"
   - key: "TeteFei"
     title: "特特飞"
     url: "/wiki/entities/tetefei/"
