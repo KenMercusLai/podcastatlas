@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 5840
+wiki_total_pages: 5841
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1811,6 +1811,9 @@ wiki_pages:
   - key: "ClothCladAngerPersuasion"
     title: "布衣之怒 / Cloth-Clad Anger Persuasion"
     url: "/wiki/concepts/clothcladangerpersuasion/"
+  - key: "CorrectiveAdviceNonconversion"
+    title: "忠告不转化 / Corrective Advice Nonconversion"
+    url: "/wiki/concepts/correctiveadvicenonconversion/"
   - key: "ConfiscationAndFemaleFate"
     title: "抄家籍没与女性命运 / Confiscation And Female Fate"
     url: "/wiki/concepts/confiscationandfemalefate/"
