@@ -13120,3 +13120,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-28] lint | Wiki health check
 
 Ran health, identity validation, and lint. Health scanned 15,628 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-28 with 15,429 nodes and 180,855 edges while the current lint scan covered 15,628 pages, so bridge findings may be incomplete until the graph is rebuilt; current graph checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` and common provider API key variables are unset in this shell. Report returned in-session; `wiki/lint-report.md` was not updated.
+
+## [2026-08-28] ingest | Meta's landmark social media settlement
+
+Ingested the Marketplace Tech episode on Meta's proposed teen-safety settlement, Nvidia earnings/customer-financing and custom-chip pressure, and EPA data-center air-permit participation. Created the source note, Environmental Protection Agency, Poolside, and Data Center Air Permit Participation pages; updated Anita Ramaswamy, Social Media Product Liability, AI Circular Infrastructure Financing, AI Chip Specialization, Data Center Community Consent, index, and overview. No settled contradiction found; the Meta settlement still needs judicial approval, Nvidia's circular-financing denial remains a qualification, and EPA permitting effects remain source-scoped because emissions standards and state-level notice choices are disputed.
+
+## [2026-08-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

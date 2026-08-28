@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 8147
+wiki_total_pages: 8149
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -515,6 +515,9 @@ wiki_pages:
   - key: "PonyAI"
     title: "Pony.ai"
     url: "/wiki/entities/ponyai/"
+  - key: "Poolside"
+    title: "Poolside"
+    url: "/wiki/entities/poolside/"
   - key: "PopMart"
     title: "Pop Mart / 泡泡玛特"
     url: "/wiki/entities/popmart/"

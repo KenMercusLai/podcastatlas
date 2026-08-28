@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2536
+topic_total_pages: 2539
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1300,6 +1300,9 @@ topic_concepts:
   - key: "DataAsEducation"
     title: "Data As Education"
     url: "/wiki/concepts/dataaseducation/"
+  - key: "DataCenterAirPermitParticipation"
+    title: "Data Center Air Permit Participation"
+    url: "/wiki/concepts/datacenterairpermitparticipation/"
   - key: "DataCenterBacklash"
     title: "Data Center Backlash"
     url: "/wiki/concepts/datacenterbacklash/"
@@ -5387,6 +5390,9 @@ topic_entities:
   - key: "PokeRobotics"
     title: "Poke Robotics"
     url: "/wiki/entities/pokerobotics/"
+  - key: "Poolside"
+    title: "Poolside"
+    url: "/wiki/entities/poolside/"
   - key: "PriyaRathod"
     title: "Priya Rathod"
     url: "/wiki/entities/priyarathod/"
@@ -7200,6 +7206,9 @@ topic_sources:
   - key: "tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128"
     title: "Meta's big bet on superintelligence"
     url: "/wiki/sources/tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128/"
+  - key: "tech-20260828-0828-mp-tech-pod-128-tech-20260828-0828-mp-tech-pod-128"
+    title: "Meta's landmark social media settlement"
+    url: "/wiki/sources/tech-20260828-0828-mp-tech-pod-128-tech-20260828-0828-mp-tech-pod-128/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140"
     title: "Microsoft CEO Satya Nadella on AI's Business Revolution: What Happens to SaaS, OpenAI, and Microsoft? | LIVE from Davos"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140/"

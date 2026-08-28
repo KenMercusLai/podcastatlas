@@ -13091,6 +13091,10 @@
     "title": "Data Broker Loophole",
     "url": "/wiki/concepts/databrokerloophole/"
   },
+  "DataCenterAirPermitParticipation": {
+    "title": "Data Center Air Permit Participation",
+    "url": "/wiki/concepts/datacenterairpermitparticipation/"
+  },
   "DataCenterBacklash": {
     "title": "Data Center Backlash",
     "url": "/wiki/concepts/datacenterbacklash/"
@@ -16250,6 +16254,10 @@
   "EnvironmentOverWillpower": {
     "title": "Environment Over Willpower",
     "url": "/wiki/concepts/environmentoverwillpower/"
+  },
+  "EnvironmentalProtectionAgency": {
+    "title": "Environmental Protection Agency",
+    "url": "/wiki/entities/environmentalprotectionagency/"
   },
   "EnvironmentalRepairSocialCost": {
     "title": "Environmental Repair Social Cost",
@@ -38451,6 +38459,10 @@
     "title": "Ponzi Scheme",
     "url": "/wiki/concepts/ponzischeme/"
   },
+  "Poolside": {
+    "title": "Poolside",
+    "url": "/wiki/entities/poolside/"
+  },
   "PopMart": {
     "title": "Pop Mart / 泡泡玛特",
     "url": "/wiki/entities/popmart/"
@@ -59638,6 +59650,10 @@
   "tech-20260827-0827-mp-tech-pod-128-tech-20260827-0827-mp-tech-pod-128": {
     "title": "Why 70mm Film Still Feels Like the Hottest Movie Technology",
     "url": "/wiki/sources/tech-20260827-0827-mp-tech-pod-128-tech-20260827-0827-mp-tech-pod-128/"
+  },
+  "tech-20260828-0828-mp-tech-pod-128-tech-20260828-0828-mp-tech-pod-128": {
+    "title": "Meta's landmark social media settlement",
+    "url": "/wiki/sources/tech-20260828-0828-mp-tech-pod-128-tech-20260828-0828-mp-tech-pod-128/"
   },
   "tengxun-ali-zijie-zhengduo-dagongren-hulianwang-dachang-weihe-jiti-jiama-ai-bangong-1008598460": {
     "title": "腾讯、阿里、字节争夺打工人，互联网大厂为何集体加码 AI 办公？",

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1986
+topic_total_pages: 1988
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -667,6 +667,9 @@ topic_concepts:
   - key: "DataBrokerLoophole"
     title: "Data Broker Loophole"
     url: "/wiki/concepts/databrokerloophole/"
+  - key: "DataCenterAirPermitParticipation"
+    title: "Data Center Air Permit Participation"
+    url: "/wiki/concepts/datacenterairpermitparticipation/"
   - key: "DataCenterCommunityConsent"
     title: "Data Center Community Consent"
     url: "/wiki/concepts/datacentercommunityconsent/"
@@ -3728,6 +3731,9 @@ topic_entities:
   - key: "HanPingdi"
     title: "Emperor Ping of Han / 汉平帝"
     url: "/wiki/entities/hanpingdi/"
+  - key: "EnvironmentalProtectionAgency"
+    title: "Environmental Protection Agency"
+    url: "/wiki/entities/environmentalprotectionagency/"
   - key: "EnvironmentalWorkingGroup"
     title: "Environmental Working Group"
     url: "/wiki/entities/environmentalworkinggroup/"

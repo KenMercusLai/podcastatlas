@@ -16424,6 +16424,23 @@
       "url": "/topics/politics/"
     }
   ],
+  "DataCenterAirPermitParticipation": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "DataCenterBacklash": [
     {
       "key": "technology",
@@ -20093,6 +20110,18 @@
     }
   ],
   "EnvironmentOverWillpower": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "EnvironmentalProtectionAgency": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
     {
       "key": "science",
       "label": "Science",
@@ -44674,6 +44703,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "Poolside": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "PopularNPDDiscourse": [
@@ -69653,6 +69689,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "tech-20260828-0828-mp-tech-pod-128-tech-20260828-0828-mp-tech-pod-128": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "tengxun-ali-zijie-zhengduo-dagongren-hulianwang-dachang-weihe-jiti-jiama-ai-bangong-1008598460": [

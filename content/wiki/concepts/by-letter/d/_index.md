@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 5843
+wiki_total_pages: 5844
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -56,6 +56,9 @@ wiki_pages:
   - key: "DataBrokerLoophole"
     title: "Data Broker Loophole"
     url: "/wiki/concepts/databrokerloophole/"
+  - key: "DataCenterAirPermitParticipation"
+    title: "Data Center Air Permit Participation"
+    url: "/wiki/concepts/datacenterairpermitparticipation/"
   - key: "DataCenterBacklash"
     title: "Data Center Backlash"
     url: "/wiki/concepts/datacenterbacklash/"

@@ -291,6 +291,115 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/aiassistantaugmentation/"
     },
+    "AIChipSpecialization": {
+      "episode_count": 8,
+      "show_count": 6,
+      "source_note_count": 8,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Open Source Wins, AGI Is Here, and Scorsese’s AI Toolkit with CEOs of Cerebras & Black Forest Labs [42029880].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs-42029880",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Open Source Wins, AGI Is Here, and Scorsese's AI Toolkit with CEOs of Cerebras & Black Forest Labs",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs-42029880/"
+        },
+        {
+          "episode_file": "148. 对游凯超3小时访谈：开源Infra、和模型Co-design 、“如果vLLM失败，我们会后悔一辈子” [lg-fhgPMq4r-8L_-5_YRimxgkIms].md",
+          "key": "148-dui-you-kaichao-3-xiaoshi-fangtan-kaiyuan-infra-he-moxing-co-design-ruguo-vllm-shibai-women-hui-houhui-yibeizi-lg-fhgpmq4r-8l-5-yrimxgkims",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "148. 对游凯超3小时访谈：开源Infra、和模型Co-design 、“如果vLLM失败，我们会后悔一辈子”",
+          "url": "/wiki/sources/148-dui-you-kaichao-3-xiaoshi-fangtan-kaiyuan-infra-he-moxing-co-design-ruguo-vllm-shibai-women-hui-houhui-yibeizi-lg-fhgpmq4r-8l-5-yrimxgkims/"
+        },
+        {
+          "episode_file": "快一点！再快一点！快到世界能实时生成｜和生数科技张金涛聊：Vidu S1、推理加速、实时交互视频 [lsB53BqRjojiaDNLQ2QE4StA_B13].md",
+          "key": "kuai-yidian-zai-kuai-yidian-kuai-dao-shijie-neng-shishi-shengcheng-he-shengshu-keji-zhang-jintao-liao-vidu-s1-tuili-jiasu-shishi-jiaohu-shipin-lsb53bqrjojiadnlq2qe4sta-b13",
+          "show": "十字路口Crossing",
+          "title": "快一点！再快一点！快到世界能实时生成｜和生数科技张金涛聊：Vidu S1、推理加速、实时交互视频",
+          "url": "/wiki/sources/kuai-yidian-zai-kuai-yidian-kuai-dao-shijie-neng-shishi-shengcheng-he-shengshu-keji-zhang-jintao-liao-vidu-s1-tuili-jiasu-shishi-jiaohu-shipin-lsb53bqrjojiadnlq2qe4sta-b13/"
+        },
+        {
+          "episode_file": "E230｜1万亿收入预期背后：英伟达的巅峰与软肋 [d97446f1-d6e3-4894-89d1-dca0a362b10b].md",
+          "key": "e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b",
+          "show": "硅谷101",
+          "title": "E230｜1万亿收入预期背后：英伟达的巅峰与软肋",
+          "url": "/wiki/sources/e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b/"
+        },
+        {
+          "episode_file": "tech_20260210_0210_MP_TECH_pod_128 [tech_20260210_0210_MP_TECH_pod_128].md",
+          "key": "tech-20260210-0210-mp-tech-pod-128-tech-20260210-0210-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "TPU? GPU? What's the difference between these two chips used for AI?",
+          "url": "/wiki/sources/tech-20260210-0210-mp-tech-pod-128-tech-20260210-0210-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "EP270 一枚芯片的漫长征途：我们离“算力自由”还有多远？ [lm7lXLMCnjWNAWTQ_9TYpc_fNRci].md",
+          "key": "ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci",
+          "show": "Talk三联",
+          "title": "EP270 一枚芯片的漫长征途：我们离“算力自由”还有多远？",
+          "url": "/wiki/sources/ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci/"
+        },
+        {
+          "episode_file": "E228｜谷歌TPU能撼动英伟达吗？前TPU工程师首次揭秘 [fd17090c-0d72-4c0d-aa3e-9b00bc062149].md",
+          "key": "e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149",
+          "show": "硅谷101",
+          "title": "E228｜谷歌TPU能撼动英伟达吗？前TPU工程师首次揭秘",
+          "url": "/wiki/sources/e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149/"
+        },
+        {
+          "episode_file": "tech_20260828_0828_MP_TECH_pod_128 [tech_20260828_0828_MP_TECH_pod_128].md",
+          "key": "tech-20260828-0828-mp-tech-pod-128-tech-20260828-0828-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Meta's landmark social media settlement",
+          "url": "/wiki/sources/tech-20260828-0828-mp-tech-pod-128-tech-20260828-0828-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/aichipspecialization/"
+    },
+    "AICircularInfrastructureFinancing": {
+      "episode_count": 5,
+      "show_count": 5,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback [42442555].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555/"
+        },
+        {
+          "episode_file": "算力狂想曲，我在AI工厂的奇遇 [loRiJULLTfhTTSPka22jNN4qJf_I].md",
+          "key": "suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i",
+          "show": "一劳永逸",
+          "title": "算力狂想曲，我在AI工厂的奇遇",
+          "url": "/wiki/sources/suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i/"
+        },
+        {
+          "episode_file": "170.《1929》的泡沫之夏：三个代表人物，和他们在当下周期的影子 [lo7uv7Umozr0JrqFjZyhDBzicX1j].md",
+          "key": "170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j",
+          "show": "起朱楼宴宾客",
+          "title": "170.《1929》的泡沫之夏：三个代表人物，和他们在当下周期的影子",
+          "url": "/wiki/sources/170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j/"
+        },
+        {
+          "episode_file": "7000 亿美元砸向 AI：这是下一代互联网，还是泡沫重演？｜ S10E12 [7af0955b-e3b5-4b40-9ccf-90ec061bbf52].md",
+          "key": "7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52",
+          "show": "What's Next｜科技早知道",
+          "title": "7000 亿美元砸向 AI：这是下一代互联网，还是泡沫重演？ | S10E12",
+          "url": "/wiki/sources/7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52/"
+        },
+        {
+          "episode_file": "tech_20260828_0828_MP_TECH_pod_128 [tech_20260828_0828_MP_TECH_pod_128].md",
+          "key": "tech-20260828-0828-mp-tech-pod-128-tech-20260828-0828-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Meta's landmark social media settlement",
+          "url": "/wiki/sources/tech-20260828-0828-mp-tech-pod-128-tech-20260828-0828-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/aicircularinfrastructurefinancing/"
+    },
     "AIClinicalValidationInDrugDiscovery": {
       "episode_count": 3,
       "show_count": 3,
@@ -1747,6 +1856,64 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/angelicintelligence/"
+    },
+    "AnitaRamaswamy": {
+      "episode_count": 7,
+      "show_count": 1,
+      "source_note_count": 7,
+      "sources": [
+        {
+          "episode_file": "tech_20260731_0731_MP_TECH_pod_128 [tech_20260731_0731_MP_TECH_pod_128].md",
+          "key": "tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Meta and Microsoft report different AI earnings",
+          "url": "/wiki/sources/tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260424_0424_MP_TECH_pod_128 [tech_20260424_0424_MP_TECH_pod_128].md",
+          "key": "tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Apple's new CEO, Meta's latest AI play, and Roblox's safety updates",
+          "url": "/wiki/sources/tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260320_0320_MP_TECH_pod_128 [tech_20260320_0320_MP_TECH_pod_128].md",
+          "key": "tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Gecko's $71M contract with U.S. Navy, BuzzFeed doubts its business viability, and Amazon offers faster delivery",
+          "url": "/wiki/sources/tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260220_0220_MP_TECH_pod_128 [tech_20260220_0220_MP_TECH_pod_128].md",
+          "key": "tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Google to make links more prominent, Palantir moves to Florida and Ring reportedly had plans to use Search Party for more than finding lost dogs",
+          "url": "/wiki/sources/tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20251219_1219_MP_TECH_pod_128 [tech_20251219_1219_MP_TECH_pod_128].md",
+          "key": "tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Micron''s big earnings, Oracle''s data center woes and \"slop\" is Merriam-Webster''s word of the year",
+          "url": "/wiki/sources/tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260116_0116_MP_TECH_pod_128 [tech_20260116_0116_MP_TECH_pod_128].md",
+          "key": "tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - New chip exports for China, Microsoft to pay electricity for AI data centers, and Gemini will power Apple's AI",
+          "url": "/wiki/sources/tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260828_0828_MP_TECH_pod_128 [tech_20260828_0828_MP_TECH_pod_128].md",
+          "key": "tech-20260828-0828-mp-tech-pod-128-tech-20260828-0828-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Meta's landmark social media settlement",
+          "url": "/wiki/sources/tech-20260828-0828-mp-tech-pod-128-tech-20260828-0828-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/anitaramaswamy/"
     },
     "AntarcticClimateServices": {
       "episode_count": 1,
@@ -5249,6 +5416,59 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/databrokercompliancegap/"
     },
+    "DataCenterAirPermitParticipation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260828_0828_MP_TECH_pod_128 [tech_20260828_0828_MP_TECH_pod_128].md",
+          "key": "tech-20260828-0828-mp-tech-pod-128-tech-20260828-0828-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Meta's landmark social media settlement",
+          "url": "/wiki/sources/tech-20260828-0828-mp-tech-pod-128-tech-20260828-0828-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/datacenterairpermitparticipation/"
+    },
+    "DataCenterCommunityConsent": {
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "146.美国经济这么差，美股还能继续涨吗 ｜ 串台《美轮美换》 [lrShkXgoFPrEl_E-7lKIqU_eN8GU].md",
+          "key": "146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu",
+          "show": "起朱楼宴宾客",
+          "title": "146.美国经济这么差，美股还能继续涨吗 | 串台《美轮美换》",
+          "url": "/wiki/sources/146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu/"
+        },
+        {
+          "episode_file": "tech_20260423_MP_TECH_pod_128 [tech_20260423_MP_TECH_pod_128].md",
+          "key": "tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Anti-AI data center sentiment is becoming a political issue",
+          "url": "/wiki/sources/tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260123_0123_MP_TECH_pod_128 [tech_20260123_0123_MP_TECH_pod_128].md",
+          "key": "tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - SpaceX eyes an IPO, community members want legal commitments from Micron, and YouTube to ditch AI slop",
+          "url": "/wiki/sources/tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260828_0828_MP_TECH_pod_128 [tech_20260828_0828_MP_TECH_pod_128].md",
+          "key": "tech-20260828-0828-mp-tech-pod-128-tech-20260828-0828-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Meta's landmark social media settlement",
+          "url": "/wiki/sources/tech-20260828-0828-mp-tech-pod-128-tech-20260828-0828-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/datacentercommunityconsent/"
+    },
     "DataCenterOnsitePower": {
       "episode_count": 6,
       "show_count": 3,
@@ -7213,6 +7433,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/enterpriseairoiaudit/"
+    },
+    "EnvironmentalProtectionAgency": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260828_0828_MP_TECH_pod_128 [tech_20260828_0828_MP_TECH_pod_128].md",
+          "key": "tech-20260828-0828-mp-tech-pod-128-tech-20260828-0828-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Meta's landmark social media settlement",
+          "url": "/wiki/sources/tech-20260828-0828-mp-tech-pod-128-tech-20260828-0828-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/environmentalprotectionagency/"
     },
     "EpinephrineAlertnessToolkit": {
       "episode_count": 1,
@@ -17631,6 +17867,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/politicalaccentprestige/"
     },
+    "Poolside": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260828_0828_MP_TECH_pod_128 [tech_20260828_0828_MP_TECH_pod_128].md",
+          "key": "tech-20260828-0828-mp-tech-pod-128-tech-20260828-0828-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Meta's landmark social media settlement",
+          "url": "/wiki/sources/tech-20260828-0828-mp-tech-pod-128-tech-20260828-0828-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/poolside/"
+    },
     "Popeyes": {
       "episode_count": 1,
       "show_count": 1,
@@ -20256,6 +20508,85 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/socialemotioninferencelimits/"
+    },
+    "SocialMediaProductLiability": {
+      "episode_count": 10,
+      "show_count": 2,
+      "source_note_count": 10,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's Generational Run, OpenAI Panics, AI Moats, Meta Loses Lawsuits [40647420].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Anthropic's Generational Run, OpenAI Panics, AI Moats, Meta Loses Lawsuits",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420/"
+        },
+        {
+          "episode_file": "tech_20260812_0812_MP_TECH_pod_128 [tech_20260812_0812_MP_TECH_pod_128].md",
+          "key": "tech-20260812-0812-mp-tech-pod-128-tech-20260812-0812-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "TikTok excluded millions from crucial safety guardrails",
+          "url": "/wiki/sources/tech-20260812-0812-mp-tech-pod-128-tech-20260812-0812-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260109_0109_MP_TECH_pod_128 [tech_20260109_0109_MP_TECH_pod_128].md",
+          "key": "tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - New year, new state AI laws, new showdown with Trump admin.",
+          "url": "/wiki/sources/tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260424_0424_MP_TECH_pod_128 [tech_20260424_0424_MP_TECH_pod_128].md",
+          "key": "tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Apple's new CEO, Meta's latest AI play, and Roblox's safety updates",
+          "url": "/wiki/sources/tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260406_0406_MP_TECH_pod_128 [tech_20260406_0406_MP_TECH_pod_128].md",
+          "key": "tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Would banning teens from social media violate their First Amendment rights?",
+          "url": "/wiki/sources/tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260401_0401_MP_TECH_pod_128 [tech_20260401_0401_MP_TECH_pod_128].md",
+          "key": "tech-20260401-0401-mp-tech-pod-128-tech-20260401-0401-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Meta and Youtube held liable for their addictive products",
+          "url": "/wiki/sources/tech-20260401-0401-mp-tech-pod-128-tech-20260401-0401-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260205_0205_MP_TECH_pod_128 [tech_20260205_0205_MP_TECH_pod_128].md",
+          "key": "tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Is social media addictive? And are social media companies liable?",
+          "url": "/wiki/sources/tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260716_0716_MP_TECH_pod_128 [tech_20260716_0716_MP_TECH_pod_128].md",
+          "key": "tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Why state AGs are taking Meta to court",
+          "url": "/wiki/sources/tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260327_0327_MP_TECH_pod_128 [tech_20260327_0327_MP_TECH_pod_128].md",
+          "key": "tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Meta, YouTube's social media addiction case, a new AI literacy course, and Kalshi's prediction market self-regulation",
+          "url": "/wiki/sources/tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260828_0828_MP_TECH_pod_128 [tech_20260828_0828_MP_TECH_pod_128].md",
+          "key": "tech-20260828-0828-mp-tech-pod-128-tech-20260828-0828-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Meta's landmark social media settlement",
+          "url": "/wiki/sources/tech-20260828-0828-mp-tech-pod-128-tech-20260828-0828-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/socialmediaproductliability/"
     },
     "SongChongLateHan": {
       "episode_count": 1,

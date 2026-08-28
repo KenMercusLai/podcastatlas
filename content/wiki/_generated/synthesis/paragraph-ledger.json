@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "173cffd82684364e6afbfd09781ea6e0ff2f8dcebc676e8b4728d1bd8798d8d1",
       "e2cd5dc2bdaf589319b990e389554ba320adcd3e78932eb2f3f6826ba5da3001",
       "d988a106d1d07b68982103121727cd14b2e7e32e200c83c49a9ebe77d99f8b64",
       "1d7b38e986ea1249524e8c436e5aff2777b3145a891953394c9c15443b7b57c3",
@@ -338,11 +339,54 @@
       "41cadfb91ef6894bc7d9cd5c4e55012480b0225b71a6a027d18e9565e8357c0c",
       "d589a53c87e197a55033f79a64a0ec3a258b8cbc050ee0e70dcc6388df48a243"
     ],
-    "paragraph_count": 336
+    "paragraph_count": 337
   },
-  "overview_commit": "8973c87d4f73403395f59d46e206c25130818cf7",
-  "overview_digest": "dd3fda37567542b3ea2f71b630f7bec6d53c56b3ae308604c5adace7c20bd8b1",
+  "overview_commit": "ae1818540422e2b8fc7b5a3c5b58d000983af286",
+  "overview_digest": "e26e8b2f9e980a906fb4b76a68c4f68aa5dde78931fc3b658fbc77af48c78ecc",
   "paragraphs": [
+    {
+      "id": "173cffd82684364e6afbfd09781ea6e0ff2f8dcebc676e8b4728d1bd8798d8d1",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "ai-and-technology",
+        "governance-and-institutions"
+      ],
+      "text": "The latest addition is [[tech-20260828-0828-mp-tech-pod-128-tech-20260828-0828-mp-tech-pod-128|Meta's landmark social media settlement]], a [[MarketplaceTech]] episode with [[MeganMcCartyCorino|Megan McCarty-Carino]] and [[AnitaRamaswamy]] of [[TheInformation]] connecting platform safety, AI chip economics, and data-center permitting. It adds [[EnvironmentalProtectionAgency|Environmental Protection Agency]], [[Poolside]], and [[DataCenterAirPermitParticipation]], while extending [[SocialMediaProductLiability]], [[AICircularInfrastructureFinancing]], [[AIChipSpecialization]], [[DataCenterCommunityConsent]], [[DataCenterBacklash]], [[DataCenterOnsitePower]], [[Meta]], [[Nvidia]], [[Google]], [[Amazon]], [[OpenAI]], [[Snap]], [[TikTok]], [[YouTube]], [[Instagram]], [[Facebook]], and [[CoreWeave]]. Its core synthesis is that AI-economy constraints are converging across product design, capital-market confidence, and physical infrastructure: Meta's settlement turns youth-harm litigation into proposed default safety settings, Nvidia's earnings discussion pairs customer support and foundation-model investment with custom-chip pressure, and the EPA permit proposal shows that removing public notice/comment can shift community power even if formal emissions standards stay unchanged. No settled contradiction is recorded; settlement approval, cross-platform safeguard adoption, Nvidia's circular-financing denial, custom-chip substitution, and federal/state permitting effects remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 2,
+        "business-and-markets": 4,
+        "culture-and-media": 1,
+        "governance-and-institutions": 3,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AIChipSpecialization",
+        "AICircularInfrastructureFinancing",
+        "Amazon",
+        "AnitaRamaswamy",
+        "CoreWeave",
+        "DataCenterAirPermitParticipation",
+        "DataCenterBacklash",
+        "DataCenterCommunityConsent",
+        "DataCenterOnsitePower",
+        "EnvironmentalProtectionAgency",
+        "Facebook",
+        "Google",
+        "Instagram",
+        "MarketplaceTech",
+        "MeganMcCartyCorino",
+        "Meta",
+        "Nvidia",
+        "OpenAI",
+        "Poolside",
+        "Snap",
+        "SocialMediaProductLiability",
+        "TheInformation",
+        "TikTok",
+        "YouTube",
+        "tech-20260828-0828-mp-tech-pod-128-tech-20260828-0828-mp-tech-pod-128"
+      ]
+    },
     {
       "id": "e2cd5dc2bdaf589319b990e389554ba320adcd3e78932eb2f3f6826ba5da3001",
       "primary_topic": "governance-and-institutions",

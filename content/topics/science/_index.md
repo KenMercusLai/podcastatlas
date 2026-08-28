@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 826
+topic_total_pages: 828
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -310,6 +310,9 @@ topic_concepts:
   - key: "CrossDisciplinaryLiteratureSearch"
     title: "Cross-Disciplinary Literature Search"
     url: "/wiki/concepts/crossdisciplinaryliteraturesearch/"
+  - key: "DataCenterAirPermitParticipation"
+    title: "Data Center Air Permit Participation"
+    url: "/wiki/concepts/datacenterairpermitparticipation/"
   - key: "DeepCanvassing"
     title: "Deep Canvassing / 深度说服"
     url: "/wiki/concepts/deepcanvassing/"
@@ -1613,6 +1616,9 @@ topic_entities:
   - key: "EmmanuelMignot"
     title: "Emmanuel Mignot"
     url: "/wiki/entities/emmanuelmignot/"
+  - key: "EnvironmentalProtectionAgency"
+    title: "Environmental Protection Agency"
+    url: "/wiki/entities/environmentalprotectionagency/"
   - key: "ErasmusDarwin"
     title: "Erasmus Darwin / 伊拉斯默·达尔文"
     url: "/wiki/entities/erasmusdarwin/"

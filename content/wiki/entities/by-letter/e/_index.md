@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 8147
+wiki_total_pages: 8149
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -257,6 +257,9 @@ wiki_pages:
   - key: "EnricoMoretti"
     title: "Enrico Moretti"
     url: "/wiki/entities/enricomoretti/"
+  - key: "EnvironmentalProtectionAgency"
+    title: "Environmental Protection Agency"
+    url: "/wiki/entities/environmentalprotectionagency/"
   - key: "EnvironmentalWorkingGroup"
     title: "Environmental Working Group"
     url: "/wiki/entities/environmentalworkinggroup/"

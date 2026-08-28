@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Meta's landmark social media settlement](sources/tech-20260828-0828-mp-tech-pod-128-tech-20260828-0828-mp-tech-pod-128.md) — Marketplace Tech episode with Anita Ramaswamy on Meta's proposed teen-safety settlement, Nvidia earnings and customer-financing concerns, custom AI chips, and EPA data-center air-permit participation.
 - [《资治通鉴·汉纪》832丨为领导背锅，他是傻还是智？](sources/zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq.md) — 芮淇讲透资治通鉴 episode on Chen Shi's blame-absorbing appointment responsibility, Taiqiu open petition governance, Zhong Hao's self-protection counsel to Zhong Jin, and Liang Na's return of power and death before the Liang-family transition.
 - [《资治通鉴·汉纪》833丨贪官能有多离谱？看完大跌眼镜！](sources/zizhi-tongjian-hanji-833-tanguan-neng-you-duo-lipu-kanwan-dadieyanjing-lqudlijjyqmcro-wsmrvwkodgt72.md) — 芮淇讲透资治通鉴 episode on 150 CE Liang Ji's honor expansion, Sun Shou's titled revenue, Qin Gong's household access brokerage, private estate coercion, rabbit-park deaths, and Sun Fen's confiscation case.
 - [《资治通鉴·汉纪》834丨历史告诉你：小人为何长戚戚？](sources/zizhi-tongjian-hanji-834-lishi-gaosu-ni-xiaoren-weihe-chang-qiqi-lj8z2vfu6lpggumcakwejoi6z9hc.md) — 芮淇讲透资治通鉴 episode on 150-151 CE Zhu Mu's warnings to Liang Ji, Chen Fan and Yan Du's enforcement against Liang-linked envoys/retainers, and Zhang Ling's previewed court sword-removal scene.
@@ -1645,6 +1646,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Environmental Protection Agency](entities/EnvironmentalProtectionAgency.md) — U.S. environmental regulator whose source-described air-permit proposal makes public notice and comment a data-center governance issue.
+- [Poolside](entities/Poolside.md) — AI model maker named as an Nvidia investment example in Marketplace Tech's discussion of Nvidia expanding beyond chips.
 - [高伦 / Gao Lun (late Han)](entities/GaoLunLateHan.md) — Local superior pressured by Hou Lan's appointment request and later public witness to Chen Shi's blame-absorbing responsibility.
 - [钟瑾 / Zhong Jin (late Han)](entities/ZhongJinLateHan.md) — Zhong Hao's younger kin and Li Ying reputation peer whose modest ambiguity anchors Hanji 832's self-protection branch.
 - [梁妠 / Empress Dowager Liang Na (late Han)](entities/EmpressDowagerLiangNaLateHan.md) — Huan-era dowager whose return of power and death mark the Liang clan's transition before Liang Ji and Sun Shou's post-dowager expansion.
@@ -8441,7 +8444,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Yahoo](entities/Yahoo.md) — Acquirer of Viaweb and desired early Google distribution partner behind the founders' interest in Sequoia.
 - [Yahoo Store](entities/YahooStore.md) — Post-acquisition Viaweb product context for Blackwell's small-merchant self-serve advertising prototype.
 - [Hassan Benchikran](entities/HassanBenchikran.md) — San Diego pulmonary and critical/intensive care physician arguing that patients will use AI health answers and should be encouraged to bring them into appointments for contextual review.
-- [Anita Ramaswamy](entities/AnitaRamaswamy.md) — The Information columnist explaining Micron's AI memory demand, Oracle data-center debt risk, and AI slop in the Marketplace Tech Bytes episode.
+- [Anita Ramaswamy](entities/AnitaRamaswamy.md) — The Information columnist and Marketplace Tech guest connecting AI markets, infrastructure, product trust, platform safety, and data-center permitting.
 - [The Information](entities/TheInformation.md) — Technology business publication affiliation for Anita Ramaswamy in the Marketplace Tech AI market roundup.
 - [Micron Technology](entities/MicronTechnology.md) — Memory supplier used to explain high-bandwidth memory demand and consumer-storage pressure from AI data-center growth.
 - [SK Hynix](entities/SKHynix.md) — Memory supplier peer named alongside Micron and Samsung in the AI memory demand cycle.
@@ -9796,6 +9799,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Data Center Air Permit Participation](concepts/DataCenterAirPermitParticipation.md) — Procedural frame for whether data-center air-pollution permits include public notice and comment even when emissions standards stay unchanged.
 - [揽过式责任承担 / Blame-Absorbing Responsibility](concepts/BlameAbsorbingResponsibility.md) — Responsibility pattern where a credible actor voluntarily takes visible fault to protect another person and stabilize a dangerous power situation.
 - [审慎含混式自保 / Prudent Ambiguity Self-Protection](concepts/PrudentAmbiguitySelfProtection.md) — Survival pattern where a person avoids sharp public moral sorting when a hostile political environment makes blunt judgment dangerous.
 - [忠告不转化 / Corrective Advice Nonconversion](concepts/CorrectiveAdviceNonconversion.md) — Pattern where accurate, concrete advice reaches a powerholder but fails to become self-restraint, forcing later higher-cost correction.
@@ -12577,7 +12581,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Domain Know-How Moat](concepts/DomainKnowHowMoat.md) — AI-era expertise moat built from cross-chain engineering knowledge, interface understanding, process quirks, communication, and judgment.
 - [AI Capex Return Window](concepts/AICapexReturnWindow.md) — One-to-three-year public-market test for whether AI infrastructure spending becomes visible revenue, cost reduction, or strategic control.
 - [AI Revenue Legibility](concepts/AIRevenueLegibility.md) — Bright-line/dark-line framework for whether investors can observe AI's contribution in reported business lines.
-- [AI Circular Infrastructure Financing](concepts/AICircularInfrastructureFinancing.md) — AI infrastructure loop where investments, compute leases, and GPU orders reinforce one another before independent third-party demand is fully proven.
+- [AI Circular Infrastructure Financing](concepts/AICircularInfrastructureFinancing.md) — Diagnostic frame for supplier investment, compute leases, GPU orders, and customer support before independent third-party AI demand is fully proven.
 - [China-U.S. AI Valuation Asymmetry](concepts/ChinaUSAIValuationAsymmetry.md) — Market frame where U.S. investors tend to believe AI capex first while Chinese large-internet investors first question governance, spending, and return discipline.
 - [Hacker House Startup Infrastructure](concepts/HackerHouseStartupInfrastructure.md) — Live-work founder spaces becoming part of startup selection, community, fundraising, and early value capture.
 - [Equity Hacker House Model](concepts/EquityHackerHouseModel.md) — Hacker-house model where housing, food, community, and investor access are exchanged for startup equity.
@@ -12828,7 +12832,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Age Verification Compliance Industry](concepts/AgeVerificationComplianceIndustry.md) — Contractor and tooling market for ID scans, face matching, age estimation, and related age-gate compliance work.
 - [Behavioral Age Inference](concepts/BehavioralAgeInference.md) — Use of follows, searches, watched videos, and other activity signals to estimate whether a user is a child or an adult.
 - [Age Verification Patchwork](concepts/AgeVerificationPatchwork.md) — Fragmented state and international age-assurance rules that make platform access and compliance depend on location.
-- [Data Center Community Consent](concepts/DataCenterCommunityConsent.md) — Governance problem of whether communities have enough time, information, and leverage to negotiate acceptable data-center development.
+- [Data Center Community Consent](concepts/DataCenterCommunityConsent.md) — Governance problem of whether communities have enough time, information, public-process rights, and leverage to negotiate acceptable data-center development.
 - [Path To Profitability](concepts/PathToProfitability.md) — Investor-facing claim that current losses can become durable profits through credible cost structure, spending discipline, and business-model payoff.
 - [Activist Investor Pressure](concepts/ActivistInvestorPressure.md) — Public shareholder campaign pattern using letters, websites, and media attention to force company strategy and cost questions into the open.
 - [Public Web Archiving](concepts/PublicWebArchiving.md) — Public-interest preservation of web-page snapshots for accountability, memory, research, and journalism.
@@ -14266,7 +14270,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [SOC 2 Audit](concepts/SOC2Audit.md) — Evidence-based software-company trust audit covering security, IT, access, policy, infrastructure, and people-process controls.
 - [Manual Compliance MVP](concepts/ManualComplianceMVP.md) — Startup validation pattern where founders deliver a manual compliance artifact, such as a SOC 2 gap spreadsheet, before building software.
 - [Annual Upfront SaaS Cash Flow](concepts/AnnualUpfrontSaaSCashFlow.md) — SaaS payment-timing pattern where annual prepayment funds early operations and extends runway when customer urgency is real.
-- [Social Media Product Liability](concepts/SocialMediaProductLiability.md) — Legal frame treating addictive or harmful social-platform features as product-design choices rather than only speech or hosting.
+- [Social Media Product Liability](concepts/SocialMediaProductLiability.md) — Legal frame treating harmful social-platform features, defaults, safeguards, and recommendation systems as product-design choices rather than only speech or hosting.
 - [AI Worker Literacy](concepts/AIWorkerLiteracy.md) — Worker-facing AI readiness frame that gives basic tool fluency while leaving displacement, safeguards, and productivity-gain distribution unresolved.
 - [Prediction Market Self-Regulation](concepts/PredictionMarketSelfRegulation.md) — Platform-led guardrail strategy for blocking prohibited traders or insider-informed event-market activity before external rules arrive.
 - [Structural Health Monitoring](concepts/StructuralHealthMonitoring.md) — Sensor and data layer for tracking how critical structure members perform, grounded by the Key Bridge rebuild.
@@ -14368,7 +14372,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Space Resource Extraction](concepts/SpaceResourceExtraction.md) — Commercial-use distinction where extracted space resources may be owned even though celestial territory cannot be claimed.
 - [Lunar Nuclear Power](concepts/LunarNuclearPower.md) — Stable-energy constraint for sustained lunar bases, research stations, and commercial activity.
 - [Helium-3](concepts/Helium3.md) — Possible lunar resource mentioned as a speculative input to safer nuclear-energy systems.
-- [AI Chip Specialization](concepts/AIChipSpecialization.md) — Tradeoff where AI chips tuned for narrower workloads can improve speed and power use while losing general-purpose flexibility.
+- [AI Chip Specialization](concepts/AIChipSpecialization.md) — Tradeoff where custom AI chips can improve speed, power, bargaining leverage, or supply continuity while losing general-purpose flexibility.
 - [Neural Processing Units](concepts/NeuralProcessingUnits.md) — Device-side AI accelerators that bring specialized model execution into PCs, phones, cars, robots, and industrial equipment.
 - [Smartphone Survey Penalty](concepts/SmartphoneSurveyPenalty.md) — Device-linked drop in survey knowledge-question performance when respondents answer on phones rather than desktops, laptops, or tablets.
 - [Survey Mode Effects](concepts/SurveyModeEffects.md) — Measurement shifts caused by how respondents answer a survey, including device type, fatigue, effort, and mobile response rates.
