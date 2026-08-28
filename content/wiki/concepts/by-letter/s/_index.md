@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 5852
+wiki_total_pages: 5859
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -569,6 +569,9 @@ wiki_pages:
   - key: "SilentProtagonist"
     title: "Silent Protagonist"
     url: "/wiki/concepts/silentprotagonist/"
+  - key: "SilentSQLFailure"
+    title: "Silent SQL Failure"
+    url: "/wiki/concepts/silentsqlfailure/"
   - key: "SiliconCarbonGovernance"
     title: "Silicon Carbon Governance"
     url: "/wiki/concepts/siliconcarbongovernance/"

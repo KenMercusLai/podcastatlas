@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 8163
+wiki_total_pages: 8167
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -572,6 +572,9 @@ wiki_pages:
   - key: "PPSports"
     title: "PP体育 / PP Sports"
     url: "/wiki/entities/ppsports/"
+  - key: "PradmeshPatil"
+    title: "Pradmesh Patil"
+    url: "/wiki/entities/pradmeshpatil/"
   - key: "Prague"
     title: "Prague / 布拉格"
     url: "/wiki/entities/prague/"

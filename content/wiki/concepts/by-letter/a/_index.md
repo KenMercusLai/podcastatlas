@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 5852
+wiki_total_pages: 5859
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -362,6 +362,9 @@ wiki_pages:
   - key: "AgenticCommerce"
     title: "Agentic Commerce"
     url: "/wiki/concepts/agenticcommerce/"
+  - key: "AgenticDataEngineeringHarness"
+    title: "Agentic Data Engineering Harness"
+    url: "/wiki/concepts/agenticdataengineeringharness/"
   - key: "AgenticEconomy"
     title: "Agentic Economy"
     url: "/wiki/concepts/agenticeconomy/"

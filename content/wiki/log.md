@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-29] ingest | EP 45: Why AI Agents Break in Production: The Missing Harness in Your Data Stack
+
+Ingested the Data Science With Sam episode with Pradmesh Patil on agentic data engineering harnesses, executable-but-wrong SQL, deterministic validation, context compaction, data-agent governance, Altimate Code, and data-engineer role shifts. Created the source note, Pradmesh Patil, Altimate AI, Altimate Code, Snowflake Cortex Analyst, Agentic Data Engineering Harness, Silent SQL Failure, Deterministic Data Agent Validation, Data Agent Governance, Data Agent Context Compaction, Data Engineer Agent Supervision, and Data Agent Benchmarks pages; updated AI Data Readiness, index, and overview. No settled contradiction found; error-rate, benchmark, download, and cost figures remain source-scoped.
+
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》832丨为领导背锅，他是傻还是智？
 
 Ingested Hanji 832 as the 148-150 CE Huan-era backfill before Hanji 833. Created the source note, Gao Lun, Zhong Jin, Liang Na, Blame-Absorbing Responsibility, and Prudent Ambiguity Self-Protection pages; updated Chen Shi, Hou Lan, Zhong Hao, Xun Shu, Yingchuan Four Magistrates, Humane Local Governance, Appointment Quality as State Capacity, and index. No settled contradiction found; 陈石/侯澜/钟谨/李英 are normalized to 陈寔/侯览/钟瑾/李膺, and 配国相 is treated as 沛相.
@@ -13144,6 +13148,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-29] ingest | Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding
 
 Ingested the All-In episode on Pat Gelsinger's Intel postmortem, Anton Osika's Lovable production vibe-coding claims, AI energy and token-economics constraints, CHIPS Act resilience, and speculative orbital compute. Created the source note, Pat Gelsinger, Anton Osika, Technical Leadership For Technology Companies, and Production Vibe Coding pages; updated Intel, Lovable, CHIPS Act, Vibe Coding, Data Center Power Bottleneck, index, and overview. No settled contradiction found; retrospective Intel figures, Lovable usage/revenue/savings claims, CHIPS Act production-share claims, Taiwan energy-reserve timing, and orbital-compute feasibility remain source-scoped.
+
+## [2026-08-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-29] lint | Wiki health check
 

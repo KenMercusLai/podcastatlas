@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 8163
+wiki_total_pages: 8167
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -614,6 +614,12 @@ wiki_pages:
   - key: "AlternativeForGermany"
     title: "Alternative for Germany"
     url: "/wiki/entities/alternativeforgermany/"
+  - key: "AltimateAI"
+    title: "Altimate AI"
+    url: "/wiki/entities/altimateai/"
+  - key: "AltimateCode"
+    title: "Altimate Code"
+    url: "/wiki/entities/altimatecode/"
   - key: "AltimeterCapital"
     title: "Altimeter Capital"
     url: "/wiki/entities/altimetercapital/"

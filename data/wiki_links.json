@@ -3347,6 +3347,10 @@
     "title": "Agentic Commerce",
     "url": "/wiki/concepts/agenticcommerce/"
   },
+  "AgenticDataEngineeringHarness": {
+    "title": "Agentic Data Engineering Harness",
+    "url": "/wiki/concepts/agenticdataengineeringharness/"
+  },
   "AgenticEconomy": {
     "title": "Agentic Economy",
     "url": "/wiki/concepts/agenticeconomy/"
@@ -4002,6 +4006,14 @@
   "AlternativeSovereignLegitimacyTrap": {
     "title": "Alternative Sovereign Legitimacy Trap / 另立君主合法性陷阱",
     "url": "/wiki/concepts/alternativesovereignlegitimacytrap/"
+  },
+  "AltimateAI": {
+    "title": "Altimate AI",
+    "url": "/wiki/entities/altimateai/"
+  },
+  "AltimateCode": {
+    "title": "Altimate Code",
+    "url": "/wiki/entities/altimatecode/"
   },
   "AltimeterCapital": {
     "title": "Altimeter Capital",
@@ -13091,6 +13103,18 @@
     "title": "Dashengkui / 大盛魁",
     "url": "/wiki/entities/dashengkui/"
   },
+  "DataAgentBenchmarks": {
+    "title": "Data Agent Benchmarks",
+    "url": "/wiki/concepts/dataagentbenchmarks/"
+  },
+  "DataAgentContextCompaction": {
+    "title": "Data Agent Context Compaction",
+    "url": "/wiki/concepts/dataagentcontextcompaction/"
+  },
+  "DataAgentGovernance": {
+    "title": "Data Agent Governance",
+    "url": "/wiki/concepts/dataagentgovernance/"
+  },
   "DataAsEducation": {
     "title": "Data As Education",
     "url": "/wiki/concepts/dataaseducation/"
@@ -13178,6 +13202,10 @@
   "DataEngineLearningLoop": {
     "title": "Data Engine Learning Loop",
     "url": "/wiki/concepts/dataenginelearningloop/"
+  },
+  "DataEngineerAgentSupervision": {
+    "title": "Data Engineer Agent Supervision",
+    "url": "/wiki/concepts/dataengineeragentsupervision/"
   },
   "DataEngineeringDemand": {
     "title": "Data Engineering Demand",
@@ -13842,6 +13870,10 @@
   "DeterministicAuditData": {
     "title": "Deterministic Audit Data",
     "url": "/wiki/concepts/deterministicauditdata/"
+  },
+  "DeterministicDataAgentValidation": {
+    "title": "Deterministic Data Agent Validation",
+    "url": "/wiki/concepts/deterministicdataagentvalidation/"
   },
   "Detroit": {
     "title": "Detroit",
@@ -38763,6 +38795,10 @@
     "title": "Practical Sugar Control / 快乐控糖",
     "url": "/wiki/concepts/practicalsugarcontrol/"
   },
+  "PradmeshPatil": {
+    "title": "Pradmesh Patil",
+    "url": "/wiki/entities/pradmeshpatil/"
+  },
   "PragmaticImmigrationCompromise": {
     "title": "Pragmatic Immigration Compromise",
     "url": "/wiki/concepts/pragmaticimmigrationcompromise/"
@@ -44743,6 +44779,10 @@
     "title": "Silent Push",
     "url": "/wiki/entities/silentpush/"
   },
+  "SilentSQLFailure": {
+    "title": "Silent SQL Failure",
+    "url": "/wiki/concepts/silentsqlfailure/"
+  },
   "SiliconCarbonGovernance": {
     "title": "Silicon Carbon Governance",
     "url": "/wiki/concepts/siliconcarbongovernance/"
@@ -45182,6 +45222,10 @@
   "Snowflake": {
     "title": "Snowflake",
     "url": "/wiki/entities/snowflake/"
+  },
+  "SnowflakeCortexAnalyst": {
+    "title": "Snowflake Cortex Analyst",
+    "url": "/wiki/entities/snowflakecortexanalyst/"
   },
   "SnugSafety": {
     "title": "Snug Safety",
@@ -58054,6 +58098,10 @@
   "ep-4-a-i-talk-with-a-rocket-scientist-from-nasa": {
     "title": "EP 4: A.I. talk with a Rocket Scientist from NASA",
     "url": "/wiki/sources/ep-4-a-i-talk-with-a-rocket-scientist-from-nasa/"
+  },
+  "ep-45-why-ai-agents-break-in-production-the-missing-harness-in-your-data-stack": {
+    "title": "EP 45: Why AI Agents Break in Production: The Missing Harness in Your Data Stack",
+    "url": "/wiki/sources/ep-45-why-ai-agents-break-in-production-the-missing-harness-in-your-data-stack/"
   },
   "ep-46-fix-the-foundation-first-why-your-data-strategy-is-failing-before-the-ai-gets-involved": {
     "title": "EP 46: Fix the Foundation First: Why Your Data Strategy Is Failing Before the AI Gets Involved",

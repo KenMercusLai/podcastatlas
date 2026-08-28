@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "56a591054efe610a925b78a90df527e58307f12dbcb061b6286ce35feebd0ffa",
       "173cffd82684364e6afbfd09781ea6e0ff2f8dcebc676e8b4728d1bd8798d8d1",
       "e2cd5dc2bdaf589319b990e389554ba320adcd3e78932eb2f3f6826ba5da3001",
       "d988a106d1d07b68982103121727cd14b2e7e32e200c83c49a9ebe77d99f8b64",
@@ -342,11 +343,46 @@
       "b7fe88c4a3ea92e3484da7ba393768450cea0ebc036e6acdec39ec881741cf34",
       "082a8129ce267d83fa695011e4d1d9ec611a2911fab24932213544b548f520cf"
     ],
-    "paragraph_count": 340
+    "paragraph_count": 341
   },
-  "overview_commit": "5268dd1690b2b126adeac4c0e9bea2a6110d9e66",
-  "overview_digest": "a08c96a61893b0ae97d57ac5ed1cd5cba3ee71e5e404036d2551ddda9903b512",
+  "overview_commit": "de00079d2932d813df2587356e09656c5efacdbd",
+  "overview_digest": "93177ee39a9fd45ce8073712599140067555e8c1e79dba6cde35f44520139c14",
   "paragraphs": [
+    {
+      "id": "56a591054efe610a925b78a90df527e58307f12dbcb061b6286ce35feebd0ffa",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [],
+      "text": "The latest addition is [[ep-45-why-ai-agents-break-in-production-the-missing-harness-in-your-data-stack]], a [[DataScienceWithSam]] episode with [[PradmeshPatil|Pradmesh Patil]] of [[AltimateAI|Altimate AI]] on [[AgenticDataEngineeringHarness]], [[SilentSQLFailure]], [[DeterministicDataAgentValidation]], [[DataAgentGovernance]], [[DataAgentContextCompaction]], [[DataEngineerAgentSupervision]], and [[DataAgentBenchmarks]]. It adds [[PradmeshPatil]], [[AltimateAI]], [[AltimateCode]], [[SnowflakeCortexAnalyst]], [[AgenticDataEngineeringHarness]], [[SilentSQLFailure]], [[DeterministicDataAgentValidation]], [[DataAgentGovernance]], [[DataAgentContextCompaction]], [[DataEngineerAgentSupervision]], and [[DataAgentBenchmarks]], while extending [[AIDataReadiness]], [[AgentHarness]], [[EnterpriseAgentGovernance]], [[AgentReliabilityVerification]], [[AIVerification]], [[DataEngineeringForDataScience]], [[ModelContextProtocol]], [[Snowflake]], and [[UCBerkeley]]. Its core synthesis is that production data agents fail at the semantic and governance layer before they fail at syntax: SQL that compiles can still hallucinate tables or silently join wrong, so data-agent harnesses need schema and lineage context, deterministic validators, permission and cost guardrails, and compaction rules that preserve data meaning. No settled contradiction is recorded; benchmark, download, error-rate, and cost figures remain source-scoped to the episode.",
+      "topic_scores": {
+        "ai-and-technology": 4,
+        "governance-and-institutions": 1,
+        "science-health-and-climate": 1
+      },
+      "wikilinks": [
+        "AIDataReadiness",
+        "AIVerification",
+        "AgentHarness",
+        "AgentReliabilityVerification",
+        "AgenticDataEngineeringHarness",
+        "AltimateAI",
+        "AltimateCode",
+        "DataAgentBenchmarks",
+        "DataAgentContextCompaction",
+        "DataAgentGovernance",
+        "DataEngineerAgentSupervision",
+        "DataEngineeringForDataScience",
+        "DataScienceWithSam",
+        "DeterministicDataAgentValidation",
+        "EnterpriseAgentGovernance",
+        "ModelContextProtocol",
+        "PradmeshPatil",
+        "SilentSQLFailure",
+        "Snowflake",
+        "SnowflakeCortexAnalyst",
+        "UCBerkeley",
+        "ep-45-why-ai-agents-break-in-production-the-missing-harness-in-your-data-stack"
+      ]
+    },
     {
       "id": "173cffd82684364e6afbfd09781ea6e0ff2f8dcebc676e8b4728d1bd8798d8d1",
       "primary_topic": "business-and-markets",

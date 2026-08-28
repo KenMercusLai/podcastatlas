@@ -5445,6 +5445,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "AgenticDataEngineeringHarness": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AgenticEconomy": [
     {
       "key": "technology",
@@ -6187,6 +6194,20 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "AltimateAI": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "AltimateCode": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "AltimeterCapital": [
@@ -16426,6 +16447,32 @@
       "url": "/topics/technology/"
     }
   ],
+  "DataAgentBenchmarks": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "DataAgentContextCompaction": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "DataAgentGovernance": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "DataAsEducation": [
     {
       "key": "technology",
@@ -16586,6 +16633,13 @@
     }
   ],
   "DataEngineLearningLoop": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "DataEngineerAgentSupervision": [
     {
       "key": "technology",
       "label": "Technology",
@@ -17398,6 +17452,13 @@
     }
   ],
   "DeterministicAuditData": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "DeterministicDataAgentValidation": [
     {
       "key": "technology",
       "label": "Technology",
@@ -45073,6 +45134,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "PradmeshPatil": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "PragmaticImmigrationCompromise": [
     {
       "key": "politics",
@@ -52077,6 +52145,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "SilentSQLFailure": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "SiliconCarbonGovernance": [
     {
       "key": "technology",
@@ -52513,6 +52588,13 @@
     }
   ],
   "Snowflake": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "SnowflakeCortexAnalyst": [
     {
       "key": "technology",
       "label": "Technology",
@@ -67165,6 +67247,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "ep-45-why-ai-agents-break-in-production-the-missing-harness-in-your-data-stack": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "ep-46-fix-the-foundation-first-why-your-data-strategy-is-failing-before-the-ai-gets-involved": [

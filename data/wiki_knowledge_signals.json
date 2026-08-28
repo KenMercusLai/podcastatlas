@@ -731,9 +731,9 @@
       "url": "/wiki/concepts/aidatabrokerdemand/"
     },
     "AIDataReadiness": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "9389C8D8129058D299C60A4A7A643C6~8605835_2026-08-20-232235-8787-0-0-1.128 [9389C8D8129058D299C60A4A7A643C6~8605835_2026-08-20-232235-8787-0-0-1.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a87a9bc].md",
@@ -762,9 +762,16 @@
           "show": "Data Science With Sam",
           "title": "EP 46: Fix the Foundation First: Why Your Data Strategy Is Failing Before the AI Gets Involved",
           "url": "/wiki/sources/ep-46-fix-the-foundation-first-why-your-data-strategy-is-failing-before-the-ai-gets-involved/"
+        },
+        {
+          "episode_file": "D05B471446F1BB7AFE1E7B3E896EA3C~8584397_2026-08-10-213237-8787-0-0-10.128 [D05B471446F1BB7AFE1E7B3E896EA3C~8584397_2026-08-10-213237-8787-0-0-10.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a83aea8].md",
+          "key": "ep-45-why-ai-agents-break-in-production-the-missing-harness-in-your-data-stack",
+          "show": "Data Science With Sam",
+          "title": "EP 45: Why AI Agents Break in Production: The Missing Harness in Your Data Stack",
+          "url": "/wiki/sources/ep-45-why-ai-agents-break-in-production-the-missing-harness-in-your-data-stack/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-29",
       "url": "/wiki/concepts/aidatareadiness/"
     },
     "AIEmpireSovereigntyRisk": {
@@ -1353,6 +1360,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/aeropuertosargentina2000/"
     },
+    "AgenticDataEngineeringHarness": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "D05B471446F1BB7AFE1E7B3E896EA3C~8584397_2026-08-10-213237-8787-0-0-10.128 [D05B471446F1BB7AFE1E7B3E896EA3C~8584397_2026-08-10-213237-8787-0-0-10.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a83aea8].md",
+          "key": "ep-45-why-ai-agents-break-in-production-the-missing-harness-in-your-data-stack",
+          "show": "Data Science With Sam",
+          "title": "EP 45: Why AI Agents Break in Production: The Missing Harness in Your Data Stack",
+          "url": "/wiki/sources/ep-45-why-ai-agents-break-in-production-the-missing-harness-in-your-data-stack/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/agenticdataengineeringharness/"
+    },
     "AgilityRobotics": {
       "episode_count": 1,
       "show_count": 1,
@@ -1556,6 +1579,38 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/alternativepaymentstackconsolidation/"
+    },
+    "AltimateAI": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "D05B471446F1BB7AFE1E7B3E896EA3C~8584397_2026-08-10-213237-8787-0-0-10.128 [D05B471446F1BB7AFE1E7B3E896EA3C~8584397_2026-08-10-213237-8787-0-0-10.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a83aea8].md",
+          "key": "ep-45-why-ai-agents-break-in-production-the-missing-harness-in-your-data-stack",
+          "show": "Data Science With Sam",
+          "title": "EP 45: Why AI Agents Break in Production: The Missing Harness in Your Data Stack",
+          "url": "/wiki/sources/ep-45-why-ai-agents-break-in-production-the-missing-harness-in-your-data-stack/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/altimateai/"
+    },
+    "AltimateCode": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "D05B471446F1BB7AFE1E7B3E896EA3C~8584397_2026-08-10-213237-8787-0-0-10.128 [D05B471446F1BB7AFE1E7B3E896EA3C~8584397_2026-08-10-213237-8787-0-0-10.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a83aea8].md",
+          "key": "ep-45-why-ai-agents-break-in-production-the-missing-harness-in-your-data-stack",
+          "show": "Data Science With Sam",
+          "title": "EP 45: Why AI Agents Break in Production: The Missing Harness in Your Data Stack",
+          "url": "/wiki/sources/ep-45-why-ai-agents-break-in-production-the-missing-harness-in-your-data-stack/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/altimatecode/"
     },
     "AluoduoCheshiLateHan": {
       "episode_count": 1,
@@ -5531,6 +5586,54 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/darcyraisednutrition/"
     },
+    "DataAgentBenchmarks": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "D05B471446F1BB7AFE1E7B3E896EA3C~8584397_2026-08-10-213237-8787-0-0-10.128 [D05B471446F1BB7AFE1E7B3E896EA3C~8584397_2026-08-10-213237-8787-0-0-10.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a83aea8].md",
+          "key": "ep-45-why-ai-agents-break-in-production-the-missing-harness-in-your-data-stack",
+          "show": "Data Science With Sam",
+          "title": "EP 45: Why AI Agents Break in Production: The Missing Harness in Your Data Stack",
+          "url": "/wiki/sources/ep-45-why-ai-agents-break-in-production-the-missing-harness-in-your-data-stack/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/dataagentbenchmarks/"
+    },
+    "DataAgentContextCompaction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "D05B471446F1BB7AFE1E7B3E896EA3C~8584397_2026-08-10-213237-8787-0-0-10.128 [D05B471446F1BB7AFE1E7B3E896EA3C~8584397_2026-08-10-213237-8787-0-0-10.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a83aea8].md",
+          "key": "ep-45-why-ai-agents-break-in-production-the-missing-harness-in-your-data-stack",
+          "show": "Data Science With Sam",
+          "title": "EP 45: Why AI Agents Break in Production: The Missing Harness in Your Data Stack",
+          "url": "/wiki/sources/ep-45-why-ai-agents-break-in-production-the-missing-harness-in-your-data-stack/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/dataagentcontextcompaction/"
+    },
+    "DataAgentGovernance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "D05B471446F1BB7AFE1E7B3E896EA3C~8584397_2026-08-10-213237-8787-0-0-10.128 [D05B471446F1BB7AFE1E7B3E896EA3C~8584397_2026-08-10-213237-8787-0-0-10.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a83aea8].md",
+          "key": "ep-45-why-ai-agents-break-in-production-the-missing-harness-in-your-data-stack",
+          "show": "Data Science With Sam",
+          "title": "EP 45: Why AI Agents Break in Production: The Missing Harness in Your Data Stack",
+          "url": "/wiki/sources/ep-45-why-ai-agents-break-in-production-the-missing-harness-in-your-data-stack/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/dataagentgovernance/"
+    },
     "DataBrokerComplianceGap": {
       "episode_count": 1,
       "show_count": 1,
@@ -5750,6 +5853,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/datacenterpowerbottleneck/"
+    },
+    "DataEngineerAgentSupervision": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "D05B471446F1BB7AFE1E7B3E896EA3C~8584397_2026-08-10-213237-8787-0-0-10.128 [D05B471446F1BB7AFE1E7B3E896EA3C~8584397_2026-08-10-213237-8787-0-0-10.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a83aea8].md",
+          "key": "ep-45-why-ai-agents-break-in-production-the-missing-harness-in-your-data-stack",
+          "show": "Data Science With Sam",
+          "title": "EP 45: Why AI Agents Break in Production: The Missing Harness in Your Data Stack",
+          "url": "/wiki/sources/ep-45-why-ai-agents-break-in-production-the-missing-harness-in-your-data-stack/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/dataengineeragentsupervision/"
     },
     "DataFoundationFirstAIStrategy": {
       "episode_count": 1,
@@ -6088,6 +6207,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/desirabledifficulty/"
+    },
+    "DeterministicDataAgentValidation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "D05B471446F1BB7AFE1E7B3E896EA3C~8584397_2026-08-10-213237-8787-0-0-10.128 [D05B471446F1BB7AFE1E7B3E896EA3C~8584397_2026-08-10-213237-8787-0-0-10.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a83aea8].md",
+          "key": "ep-45-why-ai-agents-break-in-production-the-missing-harness-in-your-data-stack",
+          "show": "Data Science With Sam",
+          "title": "EP 45: Why AI Agents Break in Production: The Missing Harness in Your Data Stack",
+          "url": "/wiki/sources/ep-45-why-ai-agents-break-in-production-the-missing-harness-in-your-data-stack/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/deterministicdataagentvalidation/"
     },
     "DeutscheBahn": {
       "episode_count": 1,
@@ -18535,6 +18670,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/practicalsugarcontrol/"
     },
+    "PradmeshPatil": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "D05B471446F1BB7AFE1E7B3E896EA3C~8584397_2026-08-10-213237-8787-0-0-10.128 [D05B471446F1BB7AFE1E7B3E896EA3C~8584397_2026-08-10-213237-8787-0-0-10.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a83aea8].md",
+          "key": "ep-45-why-ai-agents-break-in-production-the-missing-harness-in-your-data-stack",
+          "show": "Data Science With Sam",
+          "title": "EP 45: Why AI Agents Break in Production: The Missing Harness in Your Data Stack",
+          "url": "/wiki/sources/ep-45-why-ai-agents-break-in-production-the-missing-harness-in-your-data-stack/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/pradmeshpatil/"
+    },
     "PredictiveWorldModelAnxiety": {
       "episode_count": 1,
       "show_count": 1,
@@ -20968,6 +21119,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/shusunwujilatehan/"
     },
+    "SilentSQLFailure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "D05B471446F1BB7AFE1E7B3E896EA3C~8584397_2026-08-10-213237-8787-0-0-10.128 [D05B471446F1BB7AFE1E7B3E896EA3C~8584397_2026-08-10-213237-8787-0-0-10.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a83aea8].md",
+          "key": "ep-45-why-ai-agents-break-in-production-the-missing-harness-in-your-data-stack",
+          "show": "Data Science With Sam",
+          "title": "EP 45: Why AI Agents Break in Production: The Missing Harness in Your Data Stack",
+          "url": "/wiki/sources/ep-45-why-ai-agents-break-in-production-the-missing-harness-in-your-data-stack/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/silentsqlfailure/"
+    },
     "SituationalCharacterTests": {
       "episode_count": 5,
       "show_count": 1,
@@ -21156,6 +21323,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/smartvehiclelivingspace/"
+    },
+    "SnowflakeCortexAnalyst": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "D05B471446F1BB7AFE1E7B3E896EA3C~8584397_2026-08-10-213237-8787-0-0-10.128 [D05B471446F1BB7AFE1E7B3E896EA3C~8584397_2026-08-10-213237-8787-0-0-10.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a83aea8].md",
+          "key": "ep-45-why-ai-agents-break-in-production-the-missing-harness-in-your-data-stack",
+          "show": "Data Science With Sam",
+          "title": "EP 45: Why AI Agents Break in Production: The Missing Harness in Your Data Stack",
+          "url": "/wiki/sources/ep-45-why-ai-agents-break-in-production-the-missing-harness-in-your-data-stack/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/snowflakecortexanalyst/"
     },
     "SocialEmotionInferenceLimits": {
       "episode_count": 1,

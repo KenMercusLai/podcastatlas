@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 8163
+wiki_total_pages: 8167
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -758,6 +758,9 @@ wiki_pages:
   - key: "Snowflake"
     title: "Snowflake"
     url: "/wiki/entities/snowflake/"
+  - key: "SnowflakeCortexAnalyst"
+    title: "Snowflake Cortex Analyst"
+    url: "/wiki/entities/snowflakecortexanalyst/"
   - key: "SnugSafety"
     title: "Snug Safety"
     url: "/wiki/entities/snugsafety/"

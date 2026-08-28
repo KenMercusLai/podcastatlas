@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP 45: Why AI Agents Break in Production: The Missing Harness in Your Data Stack](sources/ep-45-why-ai-agents-break-in-production-the-missing-harness-in-your-data-stack.md) - Data Science With Sam episode with Pradmesh Patil on why production data agents need harnesses for schema and lineage context, deterministic SQL validation, cost and permission governance, and context compaction.
 - [Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding](sources/all-in-with-chamath-jason-sacks-friedberg-former-intel-ceo-on-what-went-wrong-whats-next-lovable-ceo-on-the-real-promise-of-vibe-coding-42106400.md) - All-In episode with Pat Gelsinger and Anton Osika on Intel's missed manufacturing/platform turns, Lovable's production vibe-coding platform, AI energy constraints, and speculative orbital compute.
 - [Bots on the ground: China leads humanoid race](sources/bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf.md) — The Intelligence episode on China's humanoid robot data race, Meta's teen-safety settlement, and Shakespeare and Company as a bookshop-mythology case.
 - [Meta's landmark social media settlement](sources/tech-20260828-0828-mp-tech-pod-128-tech-20260828-0828-mp-tech-pod-128.md) — Marketplace Tech episode with Anita Ramaswamy on Meta's proposed teen-safety settlement, Nvidia earnings and customer-financing concerns, custom AI chips, and EPA data-center air-permit participation.
@@ -1649,6 +1650,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Pradmesh Patil](entities/PradmeshPatil.md) - Altimate AI co-founder/CEO describing agentic data engineering harnesses, deterministic validation, and data-agent governance.
+- [Altimate AI](entities/AltimateAI.md) - Company/source context behind Altimate Code, described as building agentic AI for data engineering.
+- [Altimate Code](entities/AltimateCode.md) - Open-source data-agent harness discussed as a context, validation, governance, and benchmark-performance example.
+- [Snowflake Cortex Analyst](entities/SnowflakeCortexAnalyst.md) - Snowflake AI analytics product used in EP45 as an example of executable but semantically wrong generated SQL.
 - [Pat Gelsinger](entities/PatGelsinger.md) - Former Intel CEO used by All-In to diagnose Intel's technical-leadership, capital-allocation, foundry, and AI-infrastructure lessons.
 - [Anton Osika](entities/AntonOsika.md) - Lovable CEO/founder discussed through production vibe coding, model routing, security, hosting, and AI-assisted business building.
 - [Beijing](entities/Beijing.md) — City context for the World Humanoid Robot Games and China's public humanoid robotics spectacle.
@@ -9816,6 +9821,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Agentic Data Engineering Harness](concepts/AgenticDataEngineeringHarness.md) - Domain-specific harness that supplies data agents with schemas, lineage, tools, governance, validation, and execution infrastructure.
+- [Silent SQL Failure](concepts/SilentSQLFailure.md) - Failure mode where AI-generated SQL compiles and runs but answers the wrong question through hallucinated tables, bad joins, or incomplete context.
+- [Deterministic Data Agent Validation](concepts/DeterministicDataAgentValidation.md) - Practice of checking data-agent outputs with deterministic validators and ground-truth context instead of relying only on LLM reasoning.
+- [Data Agent Governance](concepts/DataAgentGovernance.md) - Permission, PII, cost, and cross-tool control layer for agents operating in enterprise data environments.
+- [Data Agent Context Compaction](concepts/DataAgentContextCompaction.md) - Domain-specific context management that preserves schema, lineage, and data meaning across long-running agent tasks.
+- [Data Engineer Agent Supervision](concepts/DataEngineerAgentSupervision.md) - Role shift where data engineers direct, validate, and scale agent-produced SQL, dbt, dashboards, and data workflows.
+- [Data Agent Benchmarks](concepts/DataAgentBenchmarks.md) - Evaluation frame for comparing harness-and-model systems on agentic data engineering tasks.
 - [Technical Leadership For Technology Companies](concepts/TechnicalLeadershipForTechnologyCompanies.md) - Claim that deep technical judgment must shape long-horizon platform, manufacturing, and ecosystem bets in technology companies.
 - [Production Vibe Coding](concepts/ProductionVibeCoding.md) - Crossing point where AI-assisted coding moves from demos into hosted, secure, integrated products and business workflows.
 - [Robot Training Centers](concepts/RobotTrainingCenters.md) — Staged physical facilities that organize robots, humans, sensors, and repeatable tasks into real-world robot-data infrastructure.
