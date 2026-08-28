@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 5887
+wiki_total_pages: 5888
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"

@@ -14,14 +14,17 @@ sources:
   - zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv
   - zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked
   - zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff
+  - zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr
 last_updated: 2026-08-29
 ---
 
 ## Overview
-李固 / Li Gu is a late-Han upright official whose current profile now begins with a 138 CE southern-frontier strategy case. Hanji 819 shows him rejecting a 40,000-soldier Jiaozhi expedition and replacing it with fit appointments, temporary Rinan retrenchment, rewards, and surrender policy. Hanji 822 then shows him pacifying thieves in [[Jingzhou|荆州]] and [[Taishan|泰山]] through pardon, credibility, reduced force, and anti-corruption resolve even when [[LiangJiLateHan|梁冀]] protects corrupt officials. Later notes carry him through Emperor Chong's death, failed-service clemency, [[EmperorZhiOfHan|汉质帝]]'s poisoned deathbed, resistance to Liu Zhi's accession, prison death, defiant mourning, family survival, and contested-accession memory.
+李固 / Li Gu is a late-Han upright official whose current profile now begins with a 136 CE court-protection case before his 138 CE southern-frontier strategy. Hanji 818 shows him rescuing [[WangGongTaiweiLateHan|王龚]] by writing to [[LiangShangLateHan|梁商]], who then persuades [[EmperorShunOfHan|汉顺帝]] to cancel a eunuch-backed inquiry. Hanji 819 shows Li Gu rejecting a 40,000-soldier Jiaozhi expedition and replacing it with fit appointments, temporary Rinan retrenchment, rewards, and surrender policy. Hanji 822 then shows him pacifying thieves in [[Jingzhou|荆州]] and [[Taishan|泰山]] through pardon, credibility, reduced force, and anti-corruption resolve even when [[LiangJiLateHan|梁冀]] protects corrupt officials. Later notes carry him through Emperor Chong's death, failed-service clemency, [[EmperorZhiOfHan|汉质帝]]'s poisoned deathbed, resistance to Liu Zhi's accession, prison death, defiant mourning, family survival, and contested-accession memory.
 
 ## Current Profile
-[[zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff|Hanji 819]] supplies the earliest current layer. During the 138 CE [[JiaozhiCommandery|交趾郡]] crisis, Li Gu opposes the court majority's plan to send a major general and 40,000 troops from Jingzhou, Yangzhou, and Yuzhou. He argues that local unrest, repeated conscription, despair at distant deployment, southern disease, long travel, food cost, and follow-up levies would deepen the crisis before solving it.
+[[zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr|Hanji 818]] supplies the earliest current layer. After Wang Gong's anti-eunuch memorial draws accusation from eunuch-linked clients, Li Gu writes urgently to Liang Shang. He argues that a Three Excellency should not be humiliated by being hauled before judicial offices unless the case is grave enough, and Liang Shang's presentation to Shun gets the inquiry canceled. This adds a court-network protection role before Li Gu's later frontier and succession profile.
+
+[[zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff|Hanji 819]] supplies the next layer. During the 138 CE [[JiaozhiCommandery|交趾郡]] crisis, Li Gu opposes the court majority's plan to send a major general and 40,000 troops from Jingzhou, Yangzhou, and Yuzhou. He argues that local unrest, repeated conscription, despair at distant deployment, southern disease, long travel, food cost, and follow-up levies would deepen the crisis before solving it.
 
 Li Gu then supplies a full alternative rather than a bare objection. He proposes choosing brave, wise, humane officials, temporarily relocating Rinan officials and civilians north when the position lacks troops and grain, using money and cloth to split hostile groups, and rewarding those who undermine or kill rebel leaders. He recommends [[ZhangQiaoLateHan|张乔]] and [[ZhuLiangLateHan|祝良]]; [[EmperorShunOfHan|汉顺帝]] accepts the plan, Zhang Qiao reassures rebels into surrender, and Zhu Liang enters the Jiuzhen rebel camp alone by carriage and wins over tens of thousands.
 
@@ -44,15 +47,17 @@ The same source makes Li Gu's public meaning outlive the sentence. Liang Ji disp
 [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]] supplies the family-survival branch. Li Gu anticipates household catastrophe and sends his sons away; his elder sons are captured and die in prison, while [[LiWenjiLateHan|李文姬]] preserves [[LiXieLateHan|李燮]] through concealment and [[WangChengLiGuStudent|王成]]'s protection. [[zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3|Hanji 929]] preserves the later saying that the father would not establish an emperor and the son would not establish a king.
 
 ## Key Characteristics
+- Court ally who protects Wang Gong by converting a eunuch-backed accusation into a procedural-status defense routed through Liang Shang.
 - Strategic problem-solver whose Jiaozhi memorial replaces an overlarge expedition with fitted appointments, retrenchment, rewards, and surrender policy.
 - Local governor whose Jingzhou and Taishan pacification combines pardon, credibility, selective force, and public trust.
 - Court and institutional-risk official whose Nanyang impeachment resists Liang Ji's protection, whose Emperor Chong memorial rejects concealed death, and whose Zhong Hao memorial resists execution for failed service.
 - Upright minister summoned during Emperor Zhi's poisoned deathbed and made dangerous by grief, questioning, and exposure risk.
 - Liu Suan succession supporter whose judgment threatens Liang-family and eunuch interests.
 - Taiwei removed after direct resistance to Liang Ji's preferred accession outcome.
-- Public figure whose students, petitioners, defenders, mourners, and surviving family make Liang Ji's accusation politically contested.
 
 ## Evidence
+- Wang Gong rescue argument: [[zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr|Hanji 818]] says Li Gu writes to Liang Shang after Wang Gong is accused by eunuch-linked clients.
+- Court protection outcome: [[zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr|Hanji 818]] says Liang Shang presents Li Gu's point to Shun and Shun cancels Wang Gong's inquiry.
 - Jiaozhi cost diagnosis: [[zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff|Hanji 819]] says Li Gu rejects 40,000 troops because unrest, repeated levies, distant deployment, disease, exhaustion, and food cost would magnify the crisis.
 - Alternative strategy: [[zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff|Hanji 819]] says Li Gu proposes fit local officials, temporary Rinan relocation, money and cloth rewards, enemy division, and heavy rewards for killing rebel leaders.
 - Appointment outcome: [[zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff|Hanji 819]] says Shun appoints Zhang Qiao and Zhu Liang, after which Zhang Qiao secures surrender and Zhu Liang wins over tens of thousands in Jiuzhen.
@@ -75,17 +80,20 @@ The same source makes Li Gu's public meaning outlive the sentence. Liang Ji disp
 - Family survival and memory: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]] says Li Wenji and Wang Cheng preserve Li Xie; [[zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3|Hanji 929]] recalls Li Gu as the official who would not establish the later Emperor Huan.
 
 ## Qualifications
-This page remains bounded to the listed podcast source notes, not a full biography of Li Gu's career. Hanji 819 gives the Jiaozhi strategy, appointment, reward, and temporary-retrenchment layer under Emperor Shun; Hanji 822 gives the Jingzhou and Taishan local-governance and anti-corruption layer; Hanji 825 gives the Emperor Chong death-announcement, Liu Suan recommendation, burial-restraint, cleanup, and anonymous-slander layer; Hanji 826 gives the failed-service clemency and Liang Ji resentment layer; Hanji 827 gives the poisoned-deathbed and initial post-Zhi Liu Suan recommendation layer; Hanji 828 gives the direct Huan accession debate and office-removal layer; Hanji 829 shows the resentment and accusation afterlife; Hanji 830 is treated as the final persecution layer; Hanji 853 gives the family-disaster branch; Hanji 929 gives later memory through Li Xie. Xia Mi, Gao Ci, Chong Hao, Wu Xiong, Ma Rong's drafting role, Luan Ba, the Xia Gate亭长, Zhong Hao and Ying Cheng's exact legal charge, Liang He, Feng Zhi, and exact-letter wording remain source-scoped until more sources warrant expansion.
+This page remains bounded to the listed podcast source notes, not a full biography of Li Gu's career. Hanji 818 gives the Wang Gong court-protection layer under Emperor Shun; Hanji 819 gives the Jiaozhi strategy, appointment, reward, and temporary-retrenchment layer; Hanji 822 gives the Jingzhou and Taishan local-governance and anti-corruption layer; Hanji 825 gives the Emperor Chong death-announcement, Liu Suan recommendation, burial-restraint, cleanup, and anonymous-slander layer; Hanji 826 gives the failed-service clemency and Liang Ji resentment layer; Hanji 827 gives the poisoned-deathbed and initial post-Zhi Liu Suan recommendation layer; Hanji 828 gives the direct Huan accession debate and office-removal layer; Hanji 829 shows the resentment and accusation afterlife; Hanji 830 is treated as the final persecution layer; Hanji 853 gives the family-disaster branch; Hanji 929 gives later memory through Li Xie. Xia Mi, Gao Ci, Chong Hao, Wu Xiong, Ma Rong's drafting role, Luan Ba, the Xia Gate亭长, Zhong Hao and Ying Cheng's exact legal charge, Liang He, Feng Zhi, Wang Gong's memorial wording, and exact-letter wording remain source-scoped until more sources warrant expansion.
 
 ## What Changed
-- Added Hanji 819 as Li Gu's earliest current layer: the Jiaozhi cost diagnosis, two-person appointment solution, temporary Rinan retrenchment, and reward-backed pacification plan.
-- Reframed Hanji 822 as the next local-governance layer rather than the beginning of his practical problem-solving profile.
+- Added Hanji 818 as Li Gu's earliest current layer: the Wang Gong rescue through Liang Shang and the procedural-status defense against a eunuch-backed inquiry.
+- Reframed Hanji 819 as the next frontier-strategy layer rather than the beginning of the profile.
 - Connected Li Gu's later resistance to a preexisting profile of strategic cost discipline, fitted appointments, credibility, bounded force, and public death announcement.
 - Preserved Hanji 825 through Hanji 830 as the Emperor Chong, Zhi, and Huan-era succession and persecution sequence.
 - Preserved the family-survival and later-memory layers from Hanji 853 and Hanji 929.
 
 ## Relationships
 - [[EmperorShunOfHan]] - earlier ruler who summons Li Gu after his Taishan performance is praised.
+- [[WangGongTaiweiLateHan|王龚]] - senior official whose inquiry Li Gu helps cancel.
+- [[LiangShangLateHan|梁商]] - intermediary Li Gu uses to turn Wang Gong's defense into a ruler-facing argument.
+- [[CourtAllyProtectionNetwork|朝廷盟友保护网络]] - concept illustrated by Li Gu's protective intervention.
 - [[JiaozhiCommandery|交趾郡]] - southern-frontier crisis field where Li Gu's cost and appointment diagnosis succeeds.
 - [[ZhangQiaoLateHan|张乔]] and [[ZhuLiangLateHan|祝良]] - appointees Li Gu recommends as the alternative to a mass expedition.
 - [[TemporaryFrontierRetrenchment|临时边防收缩]] - Rinan tactic in Li Gu's Jiaozhi plan.

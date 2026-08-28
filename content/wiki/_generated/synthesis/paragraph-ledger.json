@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "599ea23868826f8534bf0a9b5aac7529f431ca3e0bea38f0b6d8e0b8f827b865",
       "747c424e2c650902c1cc320496d834bff2055dd907b5167f993b9e737c38aad5",
       "aeafe2c01101db5fbb079b8132df791554abcdca958fc5a5707cf9a3c1ece869",
       "61202b9a66271c2d68d2f82f74a4627d6b494c5125926dd5365093ad1ef34b60",
@@ -357,11 +358,38 @@
       "082a8129ce267d83fa695011e4d1d9ec611a2911fab24932213544b548f520cf",
       "6dd2244cfd82de8e2076d8e2587203e47d3343702b97f83715d88073f28b3401"
     ],
-    "paragraph_count": 355
+    "paragraph_count": 356
   },
-  "overview_commit": "eda6ae3ede9decd31dddb17414c0c0fa7a29fa9b",
-  "overview_digest": "4379b9e9c2299cf29cf7b396b493643dde4c51311d2f76b2e18738822aeaf7b9",
+  "overview_commit": "5b19bbcdc33ce7569a5e792f5c71d7941fd2be94",
+  "overview_digest": "d19974f74bb9a85ae1d04b9853ec41cb29436da2c7f184247f2049cdb65cc13a",
   "paragraphs": [
+    {
+      "id": "599ea23868826f8534bf0a9b5aac7529f431ca3e0bea38f0b6d8e0b8f827b865",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr|《资治通鉴·汉纪》818丨官场为什么要多交友？能救命！]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 136-137 CE [[EmperorShunOfHan|汉顺帝]] layer before [[zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff|Hanji 819]]. It adds [[WangGongTaiweiLateHan|王龚]], [[YuXuEasternHan|虞诩]], [[FaZhenEasternHan|法真]], [[ZhangFangEunuchLateHan|张防]], [[LiJinWulingLateHan|李进]], and [[CourtAllyProtectionNetwork|朝廷盟友保护网络]], while extending [[LiGuLateHan|李固]], [[LiangShangLateHan|梁商]], [[EmperorShunOfHan|汉顺帝]], [[LiangJiLateHan|梁冀]], [[WulingManLateHan|武陵蛮]], [[TaxationStabilityTradeoff|税赋与地方稳定权衡]], and [[FrontierConscriptionBackfire|边疆征发反噬]]. Its core synthesis is that Shun-era danger is already visible before the 138 Jiaozhi solution: Wang Gong survives a eunuch-backed accusation only because Li Gu and Liang Shang form a fast court-protection channel, Liang Ji's Henan Yin branch already shows informer murder and manipulated punishment, Yu Xu's rejected Wuling tax warning becomes revolt, and Xianglin conscription turns a rescue operation into a second crisis. No settled contradiction is recorded; transcript forms such as 王公, 梁毅, 于许, 法贞, 张坊, and 屈联 are normalized cautiously or kept source-scoped, with Wang Gong and Li Jin disambiguated from existing same-name pages.",
+      "topic_scores": {
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "CourtAllyProtectionNetwork",
+        "EmperorShunOfHan",
+        "FaZhenEasternHan",
+        "FrontierConscriptionBackfire",
+        "LiGuLateHan",
+        "LiJinWulingLateHan",
+        "LiangJiLateHan",
+        "LiangShangLateHan",
+        "RuiqiJiangtouZizhiTongjian",
+        "TaxationStabilityTradeoff",
+        "WangGongTaiweiLateHan",
+        "WulingManLateHan",
+        "YuXuEasternHan",
+        "ZhangFangEunuchLateHan",
+        "zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr",
+        "zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff"
+      ]
+    },
     {
       "id": "747c424e2c650902c1cc320496d834bff2055dd907b5167f993b9e737c38aad5",
       "primary_topic": "governance-and-institutions",

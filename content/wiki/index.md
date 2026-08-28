@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [Branded fruit: How produce got "Honeycrisp-ified"](sources/branded-fruit-how-produce-got-honeycrisp-ified.md) - Planet Money episode on Scarlet Sunrise, Honeycrisp, plant-variety IP, university produce commercialization, and the race to differentiate fresh produce.
+- [《资治通鉴·汉纪》818丨官场为什么要多交友？能救命！](sources/zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr.md) — 芮淇讲透资治通鉴 episode on 136-137 CE Emperor Shun, Wang Gong's rescue through Li Gu and Liang Shang, Liang Ji's early informer murder, Yu Xu's rejected Wuling tax warning, Wuling and Xianglin frontier crises, Fa Zhen's refusal to serve, and Zhang Fang impeachment risk.
 - [《资治通鉴·汉纪》819丨2人功比4万人，他的权谋令人拍案叫绝！](sources/zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff.md) — 芮淇讲透资治通鉴 episode on 138 CE Li Gu rejecting a 40,000-soldier Jiaozhi expedition, recommending Zhang Qiao and Zhu Liang, using temporary Rinan retrenchment and reward-backed surrender strategy, and Zhou Ju's recommendation-accountability dispute with Zuo Xiong.
 - [《资治通鉴·汉纪》820丨职场警示！小心领导让你背黑锅](sources/zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap.md) — 芮淇讲透资治通鉴 episode on 139-140 CE Emperor Shun, Liang Shang's legal and appointment restraint, the Southern Xiongnu revolt, Chen Gui's unauthorized chanyu coercion, Ma Xu's fortified surrender policy, and the Ma Xian warning setup.
 - [《资治通鉴·汉纪》821丨不懂老板心思还想晋升？没门！](sources/zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh.md) — 芮淇讲透资治通鉴 episode on 141 CE Emperor Shun's Ma Xian command failure, ignored Ma Rong and Huangfu Gui warnings, Zhao Chong's partial repair, Liang Shang's death, and Liang Ji's Grand General appointment.
@@ -1676,9 +1677,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Honeycrisp](entities/Honeycrisp.md) - University of Minnesota apple variety that became the breakout economic model for premium produce.
 - [Cosmic Crisp](entities/CosmicCrisp.md) - University of Washington apple variety used as a later high-revenue example of protected produce commercialization.
 - [University of Washington](entities/UniversityOfWashington.md) - Public university cited through Cosmic Crisp as an agricultural variety commercialization actor.
+- [王龚 / Wang Gong (Taiwei, late Han)](entities/WangGongTaiweiLateHan.md) — Shun-era taiwei whose anti-eunuch accusation is canceled after Li Gu and Liang Shang intervene.
+- [虞诩 / Yu Xu (Eastern Han)](entities/YuXuEasternHan.md) — Shangshu Ling whose rejected warning against increasing Wuling Man taxes is vindicated by revolt.
+- [法真 / Fa Zhen (Eastern Han)](entities/FaZhenEasternHan.md) — Reclusive scholar repeatedly summoned by Emperor Shun who refuses office and is praised as a teacher for later ages.
+- [张防 / Zhang Fang (eunuch, late Han)](entities/ZhangFangEunuchLateHan.md) — Eunuch powerholder whom Wang Gong considers impeaching before relatives invoke Yang Zhen's fate.
+- [李进 / Li Jin (Wuling, late Han)](entities/LiJinWulingLateHan.md) — Wuling administrator who suppresses and settles the 137 CE Wuling Man revolt with follow-up local appointments.
 - [马续 / Ma Xu (late Han)](entities/MaXuLateHan.md) — Duliao general whose 140 CE Southern Xiongnu response works through fortified defense, rewards, and surrender signaling after Liang Shang's advice.
 - [马贤 / Ma Xian (late Han)](entities/MaXianLateHan.md) — Shun-era Qiang-front commander whose profile now runs from an earlier Shaodang Qiang success to delayed command, ignored warnings, and Shegu Mountain death.
-- [梁商 / Liang Shang (late Han)](entities/LiangShangLateHan.md) — Liang-family grandee whose current profile spans narrowed legal punishment, refusal of premature office for Liang Buyi, Southern Xiongnu surrender strategy, frugal burial request, and Liang Ji succession.
+- [梁商 / Liang Shang (late Han)](entities/LiangShangLateHan.md) — Liang-family grandee whose profile spans Wang Gong's court protection, narrowed legal punishment, family appointment restraint, Southern Xiongnu surrender strategy, and Liang Ji succession.
 - [张乔 / Zhang Qiao (late Han)](entities/ZhangQiaoLateHan.md) — Jiaozhi inspector whose reassurance policy helps settle the 138 CE southern crisis after Li Gu rejects mass expedition.
 - [祝良 / Zhu Liang (late Han)](entities/ZhuLiangLateHan.md) — Jiuzhen administrator whose single-carriage entry into rebel camps validates Li Gu's two-person pacification plan.
 - [左雄 / Zuo Xiong (late Han)](entities/ZuoXiongLateHan.md) — Recommendation-channel official corrected by Zhou Ju after nominating a previously corrupt candidate.
@@ -1748,7 +1754,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [阎祥 / Yan Xiang (Cheshi, late Han)](entities/YanXiangCheshiLateHan.md) — Wuji xiaowei who restores Aluoduo as Cheshi Hou king after surrender to prevent wider Northern Xiongnu involvement.
 - [阿罗多 / Aluoduo (Cheshi, late Han)](entities/AluoduoCheshiLateHan.md) — Cheshi Hou king whose rebellion, flight, return, and negotiated restoration show recognition used to contain frontier risk.
 - [车师后王国 / Later Cheshi Kingdom (late Han)](entities/CheshiHouKingdomLateHan.md) — Western Regions dependent polity whose Aluoduo succession crisis is settled through Han restoration rather than hostage-prince replacement.
-- [武陵蛮 / Wuling Man (late Han)](entities/WulingManLateHan.md) — Southern Jingzhou frontier group whose 153 CE rebellion notice is resolved through Ying Feng's surrender recruitment.
+- [武陵蛮 / Wuling Man (late Han)](entities/WulingManLateHan.md) — Southern Jingzhou frontier population whose current evidence spans a 137 CE tax-triggered revolt and a later Ying Feng surrender branch.
 - [韩韶 / Han Shao (late Han)](entities/HanShaoLateHan.md) — Yingchuan official whose Ying county appointment, thief-deterrent reputation, and risk-bearing granary relief anchor Hanji 842's good-official theme.
 - [钟皓 / Zhong Hao (Yingchuan, late Han)](entities/ZhongHaoYingchuanLateHan.md) — Yingchuan Four Magistrates member whose profile now includes reputation parity with Xun Shu and self-protection counsel to Zhong Jin.
 - [荀淑 / Xun Shu (late Han)](entities/XunShuLateHan.md) — Yingchuan Four Magistrates member now grounded by Hanji 842's cohort label and Hanji 832's reputation comparison with Zhong Hao.
@@ -9983,6 +9989,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [按亩征税 / Per-Mu Land Taxation](concepts/PerMuLandTaxation.md) — Huan-era fiscal-policy marker for the first source-described order to tax landholders by the mu.
 - [战时绵绢财政资源 / Wartime Textile Fiscal Resource](concepts/WartimeTextileFiscalResource.md) — Hanji 1046 frame for cotton-silk as money-like, portable, reward, diplomatic, and military supply under wartime fiscal stress.
 - [税赋与地方稳定权衡 / Taxation-Stability Tradeoff](concepts/TaxationStabilityTradeoff.md) — Crisis-governance problem where urgent resource collection can signal loyalty yet destabilize the locality being integrated.
+- [朝廷盟友保护网络 / Court Ally Protection Network](concepts/CourtAllyProtectionNetwork.md) — Pattern where credible court allies with access protect an exposed official before hostile accusations harden.
 - [新附地区宽缓治理 / Newly Attached Region Leniency](concepts/NewlyAttachedRegionLeniency.md) — Transitional policy of lighter tax, flexible law, and local discretion for recently attached or remote regions.
 - [政策制度记载压缩 / Chronicle Policy Compression](concepts/ChroniclePolicyCompression.md) — Historiographical pattern where a chronicle records a major institutional decision tersely while leaving mechanism and consequence underdescribed.
 - [Non-Dual Mindfulness](concepts/NonDualMindfulness.md) — Meditation frame where thoughts, emotions, sensations, and selfing appear in awareness without a separate observer behind experience.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 8234
+wiki_total_pages: 8239
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -689,6 +689,9 @@ wiki_pages:
   - key: "YuFan"
     title: "虞翻 / Yu Fan"
     url: "/wiki/entities/yufan/"
+  - key: "YuXuEasternHan"
+    title: "虞诩 / Yu Xu (Eastern Han)"
+    url: "/wiki/entities/yuxueasternhan/"
   - key: "YidaiZhao"
     title: "衣带诏 / Clothes Belt Edict"
     url: "/wiki/entities/yidaizhao/"

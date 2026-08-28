@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 8234
+wiki_total_pages: 8239
 wiki_pages:
   - key: "FortyThreeTalks"
     title: "43talks"
@@ -707,6 +707,9 @@ wiki_pages:
   - key: "FaZheng"
     title: "法正 / Fa Zheng"
     url: "/wiki/entities/fazheng/"
+  - key: "FaZhenEasternHan"
+    title: "法真 / Fa Zhen (Eastern Han)"
+    url: "/wiki/entities/fazheneasternhan/"
   - key: "Fadior"
     title: "法迪奥 / Fadior"
     url: "/wiki/entities/fadior/"

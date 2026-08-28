@@ -9,6 +9,7 @@ sources:
   - zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh
   - zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap
   - zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff
+  - zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr
 last_updated: 2026-08-29
 ---
 
@@ -16,11 +17,13 @@ last_updated: 2026-08-29
 
 ## Overview
 
-Emperor Shun of Han appears in this wiki as a late Eastern Han ruler whose reign mixes bounded responsiveness with brittle command, palace, and succession structures. The current synthesis now spans 138-144 CE: Li Gu's successful Jiaozhi alternative in Hanji 819, legal narrowing and frontier-response choices in Hanji 820, Ma Xian's appointment failure and the Liang-family handoff in Hanji 821, 141-142 personnel accountability in Hanji 822, and the 143-144 final-year layer ending in the accession of the child emperor Liu Bing.
+Emperor Shun of Han appears in this wiki as a late Eastern Han ruler whose reign mixes bounded responsiveness with brittle command, palace, frontier, and succession structures. The current synthesis now spans 136-144 CE: Wang Gong's canceled inquiry, Yu Xu's rejected Wuling warning, Li Jin's Wuling repair, the Song E corruption case, and Fa Zhen's refusal in Hanji 818; Li Gu's successful Jiaozhi alternative in Hanji 819; legal narrowing and frontier-response choices in Hanji 820; Ma Xian's appointment failure and the Liang-family handoff in Hanji 821; 141-142 personnel accountability in Hanji 822; and the 143-144 final-year layer ending in the accession of the child emperor Liu Bing.
 
 ## Current Profile
 
-The earliest current layer comes from [[zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff|Hanji 819]]. Shun convenes senior officials over the 138 CE [[JiaozhiCommandery|交趾郡]] crisis, hears the majority proposal for a 40,000-soldier expedition, and accepts [[LiGuLateHan|李固]]'s cheaper alternative: appoint [[ZhangQiaoLateHan|张乔]] and [[ZhuLiangLateHan|祝良]], temporarily reduce the Rinan burden, and use rewards and surrender policy. The same source also shows Shun valuing Liang He's refusal to recommend people beyond his knowledge.
+The earliest current layer comes from [[zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr|Hanji 818]]. Shun appoints [[WangGongTaiweiLateHan|王龚]] taiwei, orders him to answer a eunuch-backed accusation, and then cancels the inquiry after [[LiGuLateHan|李固]] appeals through [[LiangShangLateHan|梁商]]. The same source shows Shun rejecting [[YuXuEasternHan|虞诩]]'s warning against increasing [[WulingManLateHan|武陵蛮]] tax burdens, then sending [[LiJinWulingLateHan|李进]] after the revolt erupts. It also records punishment and rent reduction after the Song E bribery case, repeated summons to [[FaZhenEasternHan|法真]], and Wang Gong's later retreat from impeaching [[ZhangFangEunuchLateHan|张防]].
+
+Hanji 819 then adds the Jiaozhi repair layer. Shun convenes senior officials over the 138 CE [[JiaozhiCommandery|交趾郡]] crisis, hears the majority proposal for a 40,000-soldier expedition, and accepts Li Gu's cheaper alternative: appoint [[ZhangQiaoLateHan|张乔]] and [[ZhuLiangLateHan|祝良]], temporarily reduce the Rinan burden, and use rewards and surrender policy. The same source also shows Shun valuing Liang He's refusal to recommend people beyond his knowledge.
 
 Hanji 820 adds the next legal and frontier layer. Shun accepts [[LiangShangLateHan|Liang Shang]]'s advice to narrow the Zhang Kui accusation case to direct plotters, adjusts [[LiangBuyiLateHan|Liang Buyi]]'s appointment after Liang Shang says the young son is not fit for Step-Barracks Colonel, and later accepts Liang Shang's advice that [[MaXuLateHan|Ma Xu]] should use fortified defense, rewards, and surrender signaling against the [[SouthernXiongnu|Southern Xiongnu]] revolt. The same layer also exposes weakness: the court first rebukes a chanyu said not to have plotted, then has to punish [[ChenGuiDuliaoGeneralLateHan|Chen Gui]] after Chen Gui's unauthorized coercion worsens the frontier legitimacy problem.
 
@@ -32,16 +35,21 @@ In the 143-144 CE final-year layer from [[zizhi-tongjian-hanji-824-weishenme-wom
 
 ## Key Characteristics
 
-- Responsive to concrete corrective advice when it can be framed as lowering cost, improving appointments, narrowing punishment, or managing surrender.
-- Weak at sustaining frontier command quality when his preferred commander or court impulse conflicts with expert warning.
+- Responsive to some concrete corrective advice, as when he cancels Wang Gong's inquiry or accepts Li Gu's Jiaozhi plan.
+- Weak at sustaining frontier command and fiscal judgment when his preferred policy or court majority conflicts with expert warning.
 - Dependent on Liang-family and palace networks whose office power grows across his final years.
 - Able to punish visible eunuch or frontier-official misconduct after damage becomes hard to ignore.
 - Willing at moments to value recommendation restraint, as in Liang He's refusal to nominate beyond his knowledge.
+- Ruler whose court can recognize corruption, as in Song E's case, while still allowing palace and kinship channels to create the problem.
 - Reign repeatedly paired with disasters, unrest, and tomb-security problems that the source tradition treats as political warning signs.
-- Final-year ruler who secures a crown-prince designation but leaves a two-year-old successor.
 
 ## Evidence
 
+- Wang Gong inquiry canceled: [[zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr|Hanji 818]] says Shun orders Wang Gong to appear after eunuch-linked accusations but cancels the inquiry after Li Gu and Liang Shang intervene.
+- Wuling warning rejected: [[zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr|Hanji 818]] says Shun ignores Yu Xu's warning that Wuling tax gains would not cover rebellion costs.
+- Wuling repair after damage: [[zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr|Hanji 818]] says Shun sends Li Jin after Wuling Man forces revolt, and Li Jin defeats and settles them.
+- Song E corruption response: [[zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr|Hanji 818]] says Shun's wet-nurse-linked corruption case leads to demotion or return of bribing marquises and a one-quarter rent reduction.
+- Reclusive summons: [[zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr|Hanji 818]] says Shun summons Fa Zhen repeatedly but cannot convert the recluse into service.
 - Jiaozhi alternative accepted: [[zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff|Hanji 819]] says Shun accepts Li Gu's argument against a 40,000-soldier southern expedition and directly appoints Zhang Qiao and Zhu Liang.
 - Low-cost pacification outcome: [[zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff|Hanji 819]] says Zhang Qiao secures surrender through reassurance and Zhu Liang wins over tens of thousands in Jiuzhen.
 - Recommendation restraint: [[zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff|Hanji 819]] says Shun later values Liang He because Liang He refuses to recommend people when he cannot judge them.
@@ -57,19 +65,24 @@ In the 143-144 CE final-year layer from [[zizhi-tongjian-hanji-824-weishenme-wom
 
 ## Qualifications
 
-This page is a synthesis of five source notes, not a full reign history. Hanji 819 and Hanji 820 add real responsiveness before the later failure pattern, so the current profile should avoid flattening Shun into either reformer or failed ruler alone. The normalized Hanji 819 and Hanji 820 names are bounded to their source notes and should be checked again if later sources give sharper evidence for the Jiaozhi, Rinan, Southern Xiongnu, or Zhang Kui accusation sequences.
+This page is a synthesis of six source notes, not a full reign history. Hanji 818, Hanji 819, and Hanji 820 add real responsiveness before the later failure pattern, so the current profile should avoid flattening Shun into either reformer or failed ruler alone. Hanji 818 also adds a failed warning case, where the court ignores Yu Xu before the Wuling revolt. The normalized Hanji 818, Hanji 819, and Hanji 820 names are bounded to their source notes and should be checked again if later sources give sharper evidence for the Wuling, Xianglin, Jiaozhi, Rinan, Southern Xiongnu, or Zhang Kui accusation sequences.
 
 ## What Changed
 
-- Added Hanji 819 as the earliest current Shun layer, covering Li Gu's Jiaozhi alternative, the Zhang Qiao and Zhu Liang appointments, temporary Rinan retrenchment, and Liang He's recommendation restraint.
-- Reframed Hanji 820 as the next legal and frontier layer rather than the start of the profile.
-- Reframed Shun's responsiveness as real but bounded by palace networks, uneven frontier judgment, and later command failure.
-- Connected the Southern Xiongnu crisis to the later Ma Xian appointment failure rather than treating Hanji 821 as an isolated start.
-- Preserved the 143-144 final-year succession and disaster layer from Hanji 824.
+- Added Hanji 818 as the earliest current Shun layer: Wang Gong's canceled inquiry, Yu Xu's rejected Wuling warning, Li Jin's repair, Song E's corruption case, and Fa Zhen's refused summons.
+- Reframed Hanji 819 as the next Jiaozhi repair layer rather than the beginning of the profile.
+- Reframed Shun's responsiveness as real but bounded by palace networks, uneven frontier judgment, fiscal misjudgment, and later command failure.
+- Preserved Hanji 820 through Hanji 824 as the legal, frontier, Liang-family, personnel-accountability, disaster, and succession sequence.
 
 ## Relationships
 
+- [[WangGongTaiweiLateHan|王龚]] - taiwei whose investigation Shun cancels after Li Gu and Liang Shang intervene.
 - [[LiGuLateHan|李固]] - adviser whose 138 CE Jiaozhi plan Shun accepts.
+- [[YuXuEasternHan|虞诩]] - adviser whose Wuling tax warning Shun rejects.
+- [[WulingManLateHan|武陵蛮]] - frontier population whose revolt follows Shun's rejected tax-stability warning.
+- [[LiJinWulingLateHan|李进]] - Wuling administrator Shun sends after the revolt.
+- [[FaZhenEasternHan|法真]] - recluse Shun summons repeatedly without success.
+- [[ZhangFangEunuchLateHan|张防]] - eunuch figure whose danger shows the limits of anti-eunuch correction under Shun.
 - [[JiaozhiCommandery|交趾郡]] - southern crisis where Shun chooses appointments over mass expedition.
 - [[ZhangQiaoLateHan|张乔]] and [[ZhuLiangLateHan|祝良]] - officials appointed under Shun after Li Gu's recommendation.
 - [[ZhouJuLateHan|周举]] and [[ZuoXiongLateHan|左雄]] - recommendation-accountability actors in Shun's talent-selection environment.

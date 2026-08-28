@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 8234
+wiki_total_pages: 8239
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -1046,6 +1046,9 @@ wiki_pages:
   - key: "WangHe"
     title: "王龁 / Wang He"
     url: "/wiki/entities/wanghe/"
+  - key: "WangGongTaiweiLateHan"
+    title: "王龚 / Wang Gong (Taiwei, late Han)"
+    url: "/wiki/entities/wanggongtaiweilatehan/"
   - key: "WanChengLujiang"
     title: "皖城 / Wan City (Lujiang)"
     url: "/wiki/entities/wanchenglujiang/"

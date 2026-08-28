@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-29] ingest | 《资治通鉴·汉纪》818丨官场为什么要多交友？能救命！
+
+Ingested the 芮淇讲透资治通鉴 episode on 136-137 CE Emperor Shun, Wang Gong's rescue through Li Gu and Liang Shang, Liang Ji's early Henan Yin violence against Lu Fang, Yu Xu's rejected Wuling tax warning, Wuling and Xianglin frontier crises, Fa Zhen's refusal to serve, and Wang Gong's abandoned Zhang Fang impeachment. Created the source note plus Wang Gong (Taiwei), Yu Xu, Fa Zhen, Zhang Fang, Li Jin (Wuling), and Court Ally Protection Network pages; updated Li Gu, Liang Shang, Emperor Shun, Liang Ji, Wuling Man, Frontier Conscription Backfire, Taxation-Stability Tradeoff, index, overview, and downstream synthesis artifacts. No settled contradiction found; transcript forms 王公, 梁毅, 于许, 法贞, 张坊, and 屈联 are normalized cautiously or kept source-scoped, with Wang Gong and Li Jin disambiguated from existing same-name pages.
+
 ## [2026-08-29] ingest | The Trillion-Dollar Industries AI Is Disrupting: Voice, Law & the End of the Billable Hour
 
 Ingested the All-In episode on ElevenLabs' enterprise voice-agent stack, voice identity and licensed voice marketplaces, Legora's legal AI platform, legal data completeness, junior-lawyer agent orchestration, and billable-hour pressure. Created the source note, Legora, Cooley, Kirkland Ellis, LexisNexis, Westlaw, Voice Agent Infrastructure, Licensed Synthetic Voice Marketplace, Legal Services AI Economics, Legal Agent Orchestration, and Legal Data Completeness pages; updated ElevenLabs, Voice Interaction, AI Voice Cloning Rights, AI Model Orchestration, Human-In-The-Loop Legal AI, Legal AI Verification and Auditability, AI Access To Justice, index, and overview. No settled contradiction found; revenue, market-size, growth, transaction-speed, data-coverage, accuracy, deployment, and payout claims remain source-scoped.
@@ -13284,6 +13288,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-29] ingest | 《资治通鉴·汉纪》820丨职场警示！小心领导让你背黑锅
 
 Ingested the 芮淇讲透资治通鉴 episode on 139-140 CE Emperor Shun, Liang Shang's legal and appointment restraint, the Southern Xiongnu revolt, Chen Gui's unauthorized chanyu coercion, Ma Xu's fortified surrender policy, and the Ma Xian warning setup. Created the source note plus Ma Xu, Xiuli, Wusi, Che Niu, and Zhang Dan pages; updated Emperor Shun, Liang Shang, Liang Buyi, Ma Xian, Liang Bing, Chen Gui, Southern Xiongnu, Blame-Absorbing Responsibility, Unauthorized Frontier Command Intervention, Frontier Command Collapse, Fortified Attrition Patience, index, and overview. No settled contradiction found; transcript forms 马旭, 梁炳, 武司, 陈圭, 张耽, and 修立 were normalized cautiously to 马续, 梁并, 句龙王吾斯, 陈龟, 张躭, and 休利.
+
+## [2026-08-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-29] lint | Wiki health check
 

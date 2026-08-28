@@ -12103,6 +12103,10 @@
     "title": "Coupon-Led Transaction Growth",
     "url": "/wiki/concepts/couponledtransactiongrowth/"
   },
+  "CourtAllyProtectionNetwork": {
+    "title": "朝廷盟友保护网络 / Court Ally Protection Network",
+    "url": "/wiki/concepts/courtallyprotectionnetwork/"
+  },
   "CourtBackchannelSurvival": {
     "title": "宫廷后门自救 / Court Backchannel Survival",
     "url": "/wiki/concepts/courtbackchannelsurvival/"
@@ -17050,6 +17054,10 @@
   "FUBU": {
     "title": "FUBU",
     "url": "/wiki/entities/fubu/"
+  },
+  "FaZhenEasternHan": {
+    "title": "法真 / Fa Zhen (Eastern Han)",
+    "url": "/wiki/entities/fazheneasternhan/"
   },
   "FaZheng": {
     "title": "法正 / Fa Zheng",
@@ -29002,6 +29010,10 @@
   "LiJinLateHan": {
     "title": "李进 / Li Jin (late Han)",
     "url": "/wiki/entities/lijinlatehan/"
+  },
+  "LiJinWulingLateHan": {
+    "title": "李进 / Li Jin (Wuling, late Han)",
+    "url": "/wiki/entities/lijinwulinglatehan/"
   },
   "LiJingSanlian": {
     "title": "李菁 / Li Jing (Sanlian)",
@@ -51911,6 +51923,10 @@
     "title": "王肱 / Wang Gong (late Han)",
     "url": "/wiki/entities/wanggonglatehan/"
   },
+  "WangGongTaiweiLateHan": {
+    "title": "王龚 / Wang Gong (Taiwei, late Han)",
+    "url": "/wiki/entities/wanggongtaiweilatehan/"
+  },
   "WangGuoLateHan": {
     "title": "王国 / Wang Guo (late Han)",
     "url": "/wiki/entities/wangguolatehan/"
@@ -55703,6 +55719,10 @@
     "title": "Yu Wenyuan",
     "url": "/wiki/entities/yuwenyuan/"
   },
+  "YuXuEasternHan": {
+    "title": "虞诩 / Yu Xu (Eastern Han)",
+    "url": "/wiki/entities/yuxueasternhan/"
+  },
   "YuYang": {
     "title": "Yu Yang",
     "url": "/wiki/entities/yuyang/"
@@ -56174,6 +56194,10 @@
   "ZhangFanWanLateHan": {
     "title": "张汎 / Zhang Fan (Wan late Han)",
     "url": "/wiki/entities/zhangfanwanlatehan/"
+  },
+  "ZhangFangEunuchLateHan": {
+    "title": "张防 / Zhang Fang (eunuch, late Han)",
+    "url": "/wiki/entities/zhangfangeunuchlatehan/"
   },
   "ZhangFei": {
     "title": "张飞 / Zhang Fei",
@@ -61530,6 +61554,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr": {
+    "title": "《资治通鉴·汉纪》818丨官场为什么要多交友？能救命！",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr/"
   },
   "zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff": {
     "title": "《资治通鉴·汉纪》819丨2人功比4万人，他的权谋令人拍案叫绝！",
