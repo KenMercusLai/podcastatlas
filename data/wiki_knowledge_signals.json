@@ -6525,6 +6525,29 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/fenggunlatehan/"
     },
+    "FengJiLateHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》957丨他曾雄霸一方，为何懦弱到在厕所自尽？ [lnKHah144822mC4AA9bNeZKLGvOO].md",
+          "key": "zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》957丨他曾雄霸一方，为何懦弱到在厕所自尽？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1050丨从曹操焚信学习宝贵的领导智慧 [lsQG-qaxOzJPaXYUKrvXBtF-MCse].md",
+          "key": "zizhi-tongjian-hanji-1050-cong-caocao-fenxin-xuexi-baogui-de-lingdao-zhihui-lsqg-qaxozjpaxyukrvxbtf-mcse",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1050丨从曹操焚信学习宝贵的领导智慧",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1050-cong-caocao-fenxin-xuexi-baogui-de-lingdao-zhihui-lsqg-qaxozjpaxyukrvxbtf-mcse/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/fengjilatehan/"
+    },
     "FengyishanBattleLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -7649,9 +7672,9 @@
       "url": "/wiki/entities/guanyu/"
     },
     "GuanduCampaign": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1026丨揭秘三国第一猛将吕布的落幕 [lhjf_aguJuIgLqCHUMtFf3tfTxg1].md",
@@ -7708,9 +7731,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1043丨袁绍痛骂曹操，竟治好了他的偏头疼？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1043-yuanshao-tongma-caocao-jing-zhihaole-tade-piantouteng-ltibjj6xizsrynpgr9oyf-q3ydna/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1050丨从曹操焚信学习宝贵的领导智慧 [lsQG-qaxOzJPaXYUKrvXBtF-MCse].md",
+          "key": "zizhi-tongjian-hanji-1050-cong-caocao-fenxin-xuexi-baogui-de-lingdao-zhihui-lsqg-qaxozjpaxyukrvxbtf-mcse",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1050丨从曹操焚信学习宝贵的领导智慧",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1050-cong-caocao-fenxin-xuexi-baogui-de-lingdao-zhihui-lsqg-qaxozjpaxyukrvxbtf-mcse/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-28",
       "url": "/wiki/entities/guanducampaign/"
     },
     "GuideRobotDogs": {
@@ -14970,6 +15000,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/postsuccessarrogance/"
     },
+    "PostVictoryAmnestySignal": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1050丨从曹操焚信学习宝贵的领导智慧 [lsQG-qaxOzJPaXYUKrvXBtF-MCse].md",
+          "key": "zizhi-tongjian-hanji-1050-cong-caocao-fenxin-xuexi-baogui-de-lingdao-zhihui-lsqg-qaxozjpaxyukrvxbtf-mcse",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1050丨从曹操焚信学习宝贵的领导智慧",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1050-cong-caocao-fenxin-xuexi-baogui-de-lingdao-zhihui-lsqg-qaxozjpaxyukrvxbtf-mcse/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/postvictoryamnestysignal/"
+    },
     "PowerStructureTargeting": {
       "episode_count": 2,
       "show_count": 1,
@@ -16647,9 +16693,9 @@
       "url": "/wiki/entities/shekharnatarajan/"
     },
     "ShenPeiLateHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》957丨他曾雄霸一方，为何懦弱到在厕所自尽？ [lnKHah144822mC4AA9bNeZKLGvOO].md",
@@ -16671,9 +16717,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1033丨割据军阀袁术，最终吐血而亡？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1033-geju-junfa-yuanshu-zuizhong-tuxue-er-wang-lt0ibs-en0oeoqkkcxl8sevjng4/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1050丨从曹操焚信学习宝贵的领导智慧 [lsQG-qaxOzJPaXYUKrvXBtF-MCse].md",
+          "key": "zizhi-tongjian-hanji-1050-cong-caocao-fenxin-xuexi-baogui-de-lingdao-zhihui-lsqg-qaxozjpaxyukrvxbtf-mcse",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1050丨从曹操焚信学习宝贵的领导智慧",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1050-cong-caocao-fenxin-xuexi-baogui-de-lingdao-zhihui-lsqg-qaxozjpaxyukrvxbtf-mcse/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-28",
       "url": "/wiki/entities/shenpeilatehan/"
     },
     "ShenYueFDE": {
@@ -18175,9 +18228,9 @@
       "url": "/wiki/concepts/threerefusalsintegrity/"
     },
     "TianFengLateHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》975丨兖州之乱：荀彧如何帮曹操守大本营？ [ln0Hh4jroKkWTqSmXMqHdJzCOSdr].md",
@@ -18213,9 +18266,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1042丨聪明还是顽固？田丰因顶撞袁绍入狱",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1042-congming-haishi-wangu-tianfeng-yin-dingzhuang-yuanshao-ruyu-lk5x6if2rouarmgichtynzhl3cgs/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1050丨从曹操焚信学习宝贵的领导智慧 [lsQG-qaxOzJPaXYUKrvXBtF-MCse].md",
+          "key": "zizhi-tongjian-hanji-1050-cong-caocao-fenxin-xuexi-baogui-de-lingdao-zhihui-lsqg-qaxozjpaxyukrvxbtf-mcse",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1050丨从曹操焚信学习宝贵的领导智慧",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1050-cong-caocao-fenxin-xuexi-baogui-de-lingdao-zhihui-lsqg-qaxozjpaxyukrvxbtf-mcse/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-28",
       "url": "/wiki/entities/tianfenglatehan/"
     },
     "TianKaiLateHan": {

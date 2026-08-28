@@ -59,6 +59,7 @@
       "1a6a1bd8a35ae9c05383975a3a76da51ac306f5fface6750ff0ef9cc07bec634",
       "9be9ac5b6fec8f386a64cf0d4a0fc3bb91791abbb9a96e7d5fb9f71bd949636b",
       "e1b409464c9126420b632aaac61d87d3339fe5d02f283795ab980994a8666a21",
+      "30e9cc95d7b4f6c1a5acda6cd26c86f3a1b8f9e6edf5cfca556c38907246c90a",
       "02aca0cdc3e5a8775e4f935539adfd86ed7ad52997d7c90ca4cf477989391fb1",
       "b59592e9dee1b2eee5a578c1941f5cafbbdd73787a357e7b849bb4a18af13d90",
       "c1fcb3861b584fe6e941c87932da97413c4884d0dceb790e661f42a218f310c0",
@@ -319,10 +320,10 @@
       "a9fec3ceb1b343b1fafeebc9ab2903b46238a861f9aaafd9d15b1460340a08b5",
       "80ebfc1ef682d46f5ad0ddee6b5400db9cc377226e9bae3529738d33d47cad41"
     ],
-    "paragraph_count": 317
+    "paragraph_count": 318
   },
-  "overview_commit": "4a0d585f17db07307f00fbe3c4530c4910d0302a",
-  "overview_digest": "308189c96fd344ce893f89e3796df7a9f4201cb0fd99424eb197b6b14b26c335",
+  "overview_commit": "30ea6f27ce76c8e44e5752da54a9b44de8fc5394",
+  "overview_digest": "21bcfe483275187dfc2ad46fda714cdf79ce2de50fd4642647a9e57891e7ea6e",
   "paragraphs": [
     {
       "id": "b7d227f34bd447800f7c15293cda81af8f70b38685399e1a4c004367452b1d39",
@@ -2101,6 +2102,36 @@
         "YanjinBattleLateHan",
         "YuanShao",
         "zizhi-tongjian-hanji-1044-guanyu-qianli-zou-danqi-xu-ganxie-caocao-busha-enqing-lpptlnc-e4zu4lcjr49bquxdw0pm"
+      ]
+    },
+    {
+      "id": "30e9cc95d7b4f6c1a5acda6cd26c86f3a1b8f9e6edf5cfca556c38907246c90a",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1050-cong-caocao-fenxin-xuexi-baogui-de-lingdao-zhihui-lsqg-qaxozjpaxyukrvxbtf-mcse|《资治通鉴·汉纪》1050丨从曹操焚信学习宝贵的领导智慧]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continuing the post-[[GuanduCampaign|官渡之战]] field after [[CaoCao|曹操]] defeats [[YuanShao|袁绍]]. It adds [[PostVictoryAmnestySignal|胜后既往不咎信号]], while extending [[GuanduCampaign|官渡之战]], [[TianFengLateHan|田丰]], [[ShenPeiLateHan|审配]], [[FengJiLateHan|逢纪]], [[LiuBang|刘邦]], [[LouJing|娄敬]], [[LiuXiu|刘秀]], [[CourtFeedbackCollapse|君臣反馈失灵]], [[AdviceFramingUnderHierarchy|等级场景中的进言包装]], [[PardonAsStatePower]], [[CorrectableLeadershipError|犯错能改的领导力]], and [[XingshiqingStrategicAssessment|行势情战略评估]]. Its core synthesis is that post-Guandu victory management becomes a ruler-quality test: Cao Cao burns insider letters to turn fear-driven wavering into renewed cohesion, while Yuan Shao regroups at Liyang but kills Tian Feng after Feng Ji's slander and nearly lets captured-family suspicion consume Shen Pei. No settled contradiction is recorded; the transcript's 庞季/庞纪 is normalized to 逢纪, 蒋义渠 is kept source-scoped, and the Liu Xiu/Liu Bang comparisons remain interpretive rather than full page rewrites.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AdviceFramingUnderHierarchy",
+        "CaoCao",
+        "CorrectableLeadershipError",
+        "CourtFeedbackCollapse",
+        "FengJiLateHan",
+        "GuanduCampaign",
+        "LiuBang",
+        "LiuXiu",
+        "LouJing",
+        "PardonAsStatePower",
+        "PostVictoryAmnestySignal",
+        "RuiqiJiangtouZizhiTongjian",
+        "ShenPeiLateHan",
+        "TianFengLateHan",
+        "XingshiqingStrategicAssessment",
+        "YuanShao",
+        "zizhi-tongjian-hanji-1050-cong-caocao-fenxin-xuexi-baogui-de-lingdao-zhihui-lsqg-qaxozjpaxyukrvxbtf-mcse"
       ]
     },
     {

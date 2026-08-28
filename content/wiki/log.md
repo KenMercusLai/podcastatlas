@@ -12677,6 +12677,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-28] ingest | 《资治通鉴·汉纪》1050丨从曹操焚信学习宝贵的领导智慧
+
+Added source page for the Hanji 1050 episode on Cao Cao burning insider letters after Guandu, Tian Feng's execution after Yuan Shao's defeat, Liu Bang's correction after Lou Jing's warning, and Shen Pei's captured-sons suspicion. Created Post-Victory Amnesty Signal; updated Guandu Campaign, Tian Feng, Shen Pei, Feng Ji, overview, and index. No settled contradiction found; transcript forms 庞季/庞纪 are normalized to 逢纪, and 蒋义渠 is kept source-scoped rather than linked to the unrelated Jiang Yi page.
+
 ## [2026-08-28] ingest | Selling Before Building: $1M ARR in Six Months
 
 Added source note for Uplane's SaaS Podcast episode. Key claims: sell before building through discovery-led demo sprints; use paid pilots instead of free validation; bridge AI marketing automation with managed service delivery; price around fixed fees plus performance-linked ad spend; constrain generated ads with atomic content guardrails.
