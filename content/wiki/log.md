@@ -12781,6 +12781,10 @@ Added source page for a 这病说来话长 episode with 阿汤 and 岳宛柔 on 
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-28] ingest | 咖啡豆｜美式汉堡炸鸡扎堆来华，快餐品牌为什么又盯上中国市场？
+
+Added source page for a 声动早咖啡 coffee-bean episode on Five Guys Beijing queues and the renewed China push by U.S. fast-food brands. Created Shake Shack, Wendy's, Popeyes, Texas Chicken / Church's Chicken, Langxing Dingsheng, and U.S. Fast-Food China Expansion pages; updated Five Guys, China Burger Expansion, Shopping-Center Restaurantization, overview, and index. No settled contradiction found; store targets, price figures, sales-pressure claims, and short AI-market claims remain source-scoped.
+
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》866丨真正活明白的人，懂得“三不沾”
 
 Added source page for a 165 CE Huan-era backfill on Yang Yuanqun's bribery reversal against Li Ying, Feng Gun and Liu You's punishment after enforcing against eunuch-linked actors, Yang Bing's clean-office "three refusals," Liu Yu's anti-eunuch/root-cause memorial, and the Zhu Gai-Hu Lan rebellion prelude. Created Yang Yuanqun, Feng Gun, Liu You, Yang Bing (late Han), Zhou Jing, and Three-Refusals Integrity pages; updated Li Ying, Liu Yu, Zhu Gai, Hu Lan, Guan Ba, Su Kang, Eunuch Patronage Violence Shield, Root-Cause Pacification, overview, and index. No settled contradiction found; transcript variants are normalized to late-Han routes.
@@ -12844,6 +12848,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-28] ingest | 689. A Murderous Affair: The Habsburgs' Greatest Scandal (Part 1)
 
 Added source page for The Rest Is History episode on Crown Prince Rudolf's formation, Franz Joseph and Sisi's family world, the 1867 dual monarchy, fin-de-siecle Vienna, Rudolf's politics and marriage, Mary Vetsera's early pursuit, and Countess Larish's access brokerage before Mayerling. Created Princess Stephanie of Belgium, Elisabeth Marie of Austria, Georg von Schonerer, Austro-Hungarian Dual Monarchy, and Dynastic Heir Role Entrapment; updated Crown Prince Rudolf, Mary Vetsera, Franz Joseph I, Empress Sisi, Austria-Hungary, Habsburg Dynasty, Countess Larish, Mayerling Incident, Kaiser Wilhelm II, Mayerling Death Pact, Fin-de-Siecle Vienna Crisis Reading, Vienna, The Rest Is History, overview, and index. No settled contradiction found; Countess Larisch is kept on the existing CountessLarish route, and psychological, medical, agency, and decline-causation claims remain source-scoped.
+
+## [2026-08-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-28] lint | Wiki health check
 

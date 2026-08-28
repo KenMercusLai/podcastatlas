@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "u"
-wiki_total_pages: 5794
+wiki_total_pages: 5795
 wiki_pages:
   - key: "US2025ExpectationGaps"
     title: "U.S. 2025 Expectation Gaps"
@@ -20,6 +20,9 @@ wiki_pages:
   - key: "USEconomicExperienceSplit"
     title: "U.S. Economic Experience Split"
     url: "/wiki/concepts/useconomicexperiencesplit/"
+  - key: "USFastFoodChinaExpansion"
+    title: "U.S. Fast-Food China Expansion / 美国快餐品牌来华扩张"
+    url: "/wiki/concepts/usfastfoodchinaexpansion/"
   - key: "USFederalismVetoPoints"
     title: "U.S. Federalism Veto Points"
     url: "/wiki/concepts/usfederalismvetopoints/"

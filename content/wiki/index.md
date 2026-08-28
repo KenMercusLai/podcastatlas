@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [咖啡豆｜美式汉堡炸鸡扎堆来华，快餐品牌为什么又盯上中国市场？](sources/kafeidou-meishi-hanbao-zhaji-zhadui-laihua-kuaican-pinpai-weishenme-you-dingshang-zhongguo-shichang-1009244406.md) — 声动早咖啡 coffee-bean episode on Five Guys queues, U.S. fast-food brands' China expansion, local franchise partners, mall first-store traffic, and premium fast-food repeat-purchase risk.
 - [Selling Before Building: $1M ARR in Six Months](sources/selling-before-building-1m-arr-in-six-months.md) — The SaaS Podcast episode with Julius Kurfgen on Uplane, selling before building, one-week demo sprints, managed-service AI marketing automation, performance-linked ad-spend pricing, and atomic content guardrails.
 - [689. A Murderous Affair: The Habsburgs' Greatest Scandal (Part 1)](sources/689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702.md) — The Rest Is History episode on Crown Prince Rudolf's Habsburg formation, Austria-Hungary's dual-monarchy strains, fin-de-siecle Vienna, and Mary Vetsera's first access to Rudolf.
 - [Accelerate Learning & Increase Cognitive Capacity | Dr. Tommy Wood](sources/accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551.md) — Huberman Lab episode with Tommy Wood on adult neuroplasticity, multimodal learning, flow versus clutch states, exercise-specific brain adaptation, nutrient sufficiency, dementia prevention, and concussion recovery.
@@ -2487,7 +2488,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [于扶罗 / Yufuluo Chanyu](entities/YufuluoChanyu.md) — Southern Xiongnu chanyu whose death is recorded at the end of Hanji 998.
 - [呼厨泉 / Huchuquan Chanyu](entities/HuchuquanChanyu.md) — Yufuluo's younger brother and Southern Xiongnu successor stationed at Pingyang.
 - [Coach / 蔻驰](entities/CoachFashionBrand.md) — Fashion brand in the source's China growth case, balancing higher average prices, less discounting, outlet use, small stores, and flagship image-building.
-- [Five Guys](entities/FiveGuys.md) — Burger chain whose Beijing opening queues make the source's China burger expansion visible.
+- [Five Guys](entities/FiveGuys.md) — Premium U.S. burger chain whose Beijing queues, fresh-prep promise, and high meal price test China burger repeat demand.
+- [Shake Shack](entities/ShakeShack.md) — Premium U.S. burger chain used as the comparator and cautionary precedent for Five Guys in China.
+- [Wendy's](entities/Wendys.md) — U.S. burger chain with a source-scoped plan for partner-led China expansion of up to 1,000 restaurants.
+- [Popeyes](entities/Popeyes.md) — U.S. fried-chicken chain in the source's renewed China fast-food expansion wave.
+- [Texas Chicken / Church's Chicken](entities/TexasChicken.md) — U.S.-origin fried-chicken brand entering China through the Texas Chicken identity and a local partner.
+- [朗行鼎盛 / Langxing Dingsheng](entities/LangxingDingsheng.md) — Local restaurant operator named as Texas Chicken's China partner and mall-launch specialist.
 - [M Stand](entities/MStand.md) — Coffee-chain-adjacent entrant used by the source to show burger expansion beyond pure burger chains.
 - [Lingxi Interactive Entertainment / 灵犀互娱](entities/LingxiInteractiveEntertainment.md) — Alibaba game unit whose reported sale grounds the episode's portfolio-focus and AI/cloud priority frame.
 - [Zhang Xue Motorcycle / 张雪机车](entities/ZhangXueMotorcycle.md) — Chinese motorcycle brand receiving reported Sequoia China investment while facing R&D, channel, and after-sales pressure.
@@ -10085,7 +10091,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Peak-Valley AI Inference Pricing](concepts/PeakValleyAIInferencePricing.md) — Demand-window pricing pattern where AI API costs vary by peak and off-peak serving load.
 - [Emotional Attachment Political Distortion / 情执政治判断失衡](concepts/EmotionalAttachmentPoliticalDistortion.md) — Pattern where affection, grief, resentment, or loyalty becomes the lens that overwhelms organization-level judgment and political survival.
 - [Fortress Security Illusion / 筑城避世安全幻觉](concepts/FortressSecurityIllusion.md) — Warlord-security failure where walls, grain, and isolation are mistaken for safety after trust, initiative, and people-support fail.
-- [China Burger Expansion / 中国汉堡开店潮](concepts/ChinaBurgerExpansion.md) — Restaurant-market pattern where foreign burger chains and adjacent Chinese restaurant brands test burgers as filling, affordable meal occasions.
+- [China Burger Expansion / 中国汉堡开店潮](concepts/ChinaBurgerExpansion.md) — Restaurant-market pattern where foreign burger chains, adjacent Chinese brands, and existing operators test burgers as meal occasions with value and premium variants.
 - [Yellow Lemon Price Cycle / 黄柠檬价格周期](concepts/YellowLemonPriceCycle.md) — Supply-demand pattern where better Anyue output, export disruption, inventory, and weaker tea-drink procurement push domestic yellow-lemon prices down.
 - [Soft-Discount Retail / 软折扣零售](concepts/SoftDiscountRetail.md) — Discount format based on close-dated, overstock, and tail-goods supply, contrasted with hard discount's structural operating efficiency.
 - [Public Safety Privacy Tradeoff](concepts/PublicSafetyPrivacyTradeoff.md) — Governance problem balancing crime-solving benefits against retention, abuse, tracking, transparency, and police-trust risks.
@@ -11082,6 +11088,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Food-Court Second Landlord / 美食广场二房东](concepts/FoodCourtSecondLandlord.md) — Model where an operator leases mall space, subdivides stalls, controls shared operations, and charges vendors through take rates and fees.
 - [Commercial Real-Estate Foodservice Gap / 商业地产餐饮空缺](concepts/CommercialRealEstateFoodserviceGap.md) — Early mall condition where weak foodservice and awkward spaces created room for food-court operators.
 - [Shopping-Center Restaurantization / 购物中心餐饮化](concepts/ShoppingCenterRestaurantization.md) — Shift where malls treat restaurants as traffic anchors and build direct leasing capability.
+- [U.S. Fast-Food China Expansion / 美国快餐品牌来华扩张](concepts/USFastFoodChinaExpansion.md) — Pattern where pressured U.S. fast-food brands use China growth, local partners, and mall first-store traffic while facing repeat-purchase risk.
 - [Mall Food-Court Decline / 商场美食广场衰落](concepts/MallFoodCourtDecline.md) — Decline of the old food-court model as chains, landlords, supermarkets, platforms, and scene-led markets change the fit.
 - [Food-Court Brand Incubation / 美食广场品牌孵化](concepts/FoodCourtBrandIncubation.md) — Pattern where food courts can trial brands but successful tenants may leave for independent stores.
 - [Supermarket Canteen / 超市食堂](concepts/SupermarketCanteen.md) — Grocery-led prepared-meal format using supply chain, store traffic, and ingredient turnover rather than pure restaurant margin.

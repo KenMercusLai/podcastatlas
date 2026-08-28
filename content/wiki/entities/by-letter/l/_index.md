@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 8038
+wiki_total_pages: 8043
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -1049,6 +1049,9 @@ wiki_pages:
   - key: "LazyBearSports"
     title: "懒熊体育 / LazyBear Sports"
     url: "/wiki/entities/lazybearsports/"
+  - key: "LangxingDingsheng"
+    title: "朗行鼎盛 / Langxing Dingsheng"
+    url: "/wiki/entities/langxingdingsheng/"
   - key: "LiShimin"
     title: "李世民 / Li Shimin"
     url: "/wiki/entities/lishimin/"

@@ -155,6 +155,7 @@
       "20d66f1b575bf4525f57794be596ff5af6b48bb1bc804aede97fbc0d0473e5c6",
       "144d6dc6453da14d1a4f2d185e1b6531611739454ab441bd8d1d3d18b8ebabc6",
       "966d38162cd10e736372a6adfda649333cf4622d848241338a7ffd066a728805",
+      "31d0fc1a74922c35d27f9c053e06daa694020e2489a821a38602ac45d11b7541",
       "961bd97a19ba6b2a7c2f61a5beccedaee0edeaf6e12833491c84ad634a6332bd",
       "94c1cfccaafcf24b83e4513c839b70794cde0174a4936e2cfdd2dc8a872b263c",
       "cfe5db0a7de5a9ad07b27b1ecc2b5a020aad0df779aba39119d08d81ce061727",
@@ -318,10 +319,10 @@
       "a9fec3ceb1b343b1fafeebc9ab2903b46238a861f9aaafd9d15b1460340a08b5",
       "80ebfc1ef682d46f5ad0ddee6b5400db9cc377226e9bae3529738d33d47cad41"
     ],
-    "paragraph_count": 316
+    "paragraph_count": 317
   },
-  "overview_commit": "7b0abf3f9e45f83dcd1885be34e800846e2eccc2",
-  "overview_digest": "658257008a4367587c002ab2004553b19e62c308fd2a2ff0dbdeda424452ff86",
+  "overview_commit": "ea616845312bc6c855cbfdd4c948b5fde9c05c26",
+  "overview_digest": "96a0266e0f459e188a3cd99d239ddda8390fa0a2b62b88d7a8a4bea80cef6114",
   "paragraphs": [
     {
       "id": "b7d227f34bd447800f7c15293cda81af8f70b38685399e1a4c004367452b1d39",
@@ -5567,6 +5568,38 @@
         "Volcengine",
         "kafeidou-chuantong-meishi-guangchang-jielian-bidian-dashidaimen-yudao-naxie-fazhan-zuai-1007530222",
         "vol-270-da-shi-dai-liu-zai-le-ta-de-shi-dai-1006063835"
+      ]
+    },
+    {
+      "id": "31d0fc1a74922c35d27f9c053e06daa694020e2489a821a38602ac45d11b7541",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "The latest addition is [[kafeidou-meishi-hanbao-zhaji-zhadui-laihua-kuaican-pinpai-weishenme-you-dingshang-zhongguo-shichang-1009244406]], a [[ShengdongZaokafei|声动早咖啡]] coffee-bean episode about [[FiveGuys]] Beijing queues and renewed U.S. fast-food expansion in China. It adds [[ShakeShack]], [[Wendys|Wendy's]], [[Popeyes]], [[TexasChicken|Texas Chicken / Church's Chicken]], [[LangxingDingsheng|朗行鼎盛]], and [[USFastFoodChinaExpansion]], while extending [[ChinaBurgerExpansion]], [[ShoppingCenterRestaurantization]], [[FastFoodDemandReset]], [[FranchiseLedConsumerChainExpansion]], [[ForeignRestaurantBrandLocalControl]], [[ZhipuAI]], [[Nvidia]], [[HuggingFace]], [[ByteDance]], and [[TokenTaxOnAI]]. Its core synthesis is that China expansion is not only brand novelty: pressured U.S. chains see growth room, local operators and franchise systems lower entry cost, and malls use restaurant first stores as event content, but queue heat must still convert into price-credible repeat visits. No settled contradiction is recorded; store plans, same-store sales, acquisition claims, and price figures remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "business-and-markets": 2,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "ByteDance",
+        "ChinaBurgerExpansion",
+        "FastFoodDemandReset",
+        "FiveGuys",
+        "ForeignRestaurantBrandLocalControl",
+        "FranchiseLedConsumerChainExpansion",
+        "HuggingFace",
+        "LangxingDingsheng",
+        "Nvidia",
+        "Popeyes",
+        "ShakeShack",
+        "ShengdongZaokafei",
+        "ShoppingCenterRestaurantization",
+        "TexasChicken",
+        "TokenTaxOnAI",
+        "USFastFoodChinaExpansion",
+        "Wendys",
+        "ZhipuAI",
+        "kafeidou-meishi-hanbao-zhaji-zhadui-laihua-kuaican-pinpai-weishenme-you-dingshang-zhongguo-shichang-1009244406"
       ]
     },
     {

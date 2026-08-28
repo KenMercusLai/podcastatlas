@@ -3336,6 +3336,29 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/chengyu/"
     },
+    "ChinaBurgerExpansion": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "中国迎来汉堡开店潮，国产黄柠檬价格回落 [1006920543].md",
+          "key": "zhongguo-yinglai-hanbao-kaidianchao-guochan-huangningmeng-jiage-huiluo-1006920543",
+          "show": "声动早咖啡",
+          "title": "中国迎来汉堡开店潮，国产黄柠檬价格回落",
+          "url": "/wiki/sources/zhongguo-yinglai-hanbao-kaidianchao-guochan-huangningmeng-jiage-huiluo-1006920543/"
+        },
+        {
+          "episode_file": "咖啡豆｜美式汉堡炸鸡扎堆来华，快餐品牌为什么又盯上中国市场？ [1009244406].md",
+          "key": "kafeidou-meishi-hanbao-zhaji-zhadui-laihua-kuaican-pinpai-weishenme-you-dingshang-zhongguo-shichang-1009244406",
+          "show": "声动早咖啡",
+          "title": "咖啡豆｜美式汉堡炸鸡扎堆来华，快餐品牌为什么又盯上中国市场？",
+          "url": "/wiki/sources/kafeidou-meishi-hanbao-zhaji-zhadui-laihua-kuaican-pinpai-weishenme-you-dingshang-zhongguo-shichang-1009244406/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/chinaburgerexpansion/"
+    },
     "ChinaHomeSharingSupplyMotivation": {
       "episode_count": 1,
       "show_count": 1,
@@ -6393,6 +6416,29 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/findesiecleviennacrisisreading/"
+    },
+    "FiveGuys": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "中国迎来汉堡开店潮，国产黄柠檬价格回落 [1006920543].md",
+          "key": "zhongguo-yinglai-hanbao-kaidianchao-guochan-huangningmeng-jiage-huiluo-1006920543",
+          "show": "声动早咖啡",
+          "title": "中国迎来汉堡开店潮，国产黄柠檬价格回落",
+          "url": "/wiki/sources/zhongguo-yinglai-hanbao-kaidianchao-guochan-huangningmeng-jiage-huiluo-1006920543/"
+        },
+        {
+          "episode_file": "咖啡豆｜美式汉堡炸鸡扎堆来华，快餐品牌为什么又盯上中国市场？ [1009244406].md",
+          "key": "kafeidou-meishi-hanbao-zhaji-zhadui-laihua-kuaican-pinpai-weishenme-you-dingshang-zhongguo-shichang-1009244406",
+          "show": "声动早咖啡",
+          "title": "咖啡豆｜美式汉堡炸鸡扎堆来华，快餐品牌为什么又盯上中国市场？",
+          "url": "/wiki/sources/kafeidou-meishi-hanbao-zhaji-zhadui-laihua-kuaican-pinpai-weishenme-you-dingshang-zhongguo-shichang-1009244406/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/fiveguys/"
     },
     "FlowClutchLearningDistinction": {
       "episode_count": 1,
@@ -10207,6 +10253,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/languagecompressionlabeling/"
+    },
+    "LangxingDingsheng": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "咖啡豆｜美式汉堡炸鸡扎堆来华，快餐品牌为什么又盯上中国市场？ [1009244406].md",
+          "key": "kafeidou-meishi-hanbao-zhaji-zhadui-laihua-kuaican-pinpai-weishenme-you-dingshang-zhongguo-shichang-1009244406",
+          "show": "声动早咖啡",
+          "title": "咖啡豆｜美式汉堡炸鸡扎堆来华，快餐品牌为什么又盯上中国市场？",
+          "url": "/wiki/sources/kafeidou-meishi-hanbao-zhaji-zhadui-laihua-kuaican-pinpai-weishenme-you-dingshang-zhongguo-shichang-1009244406/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/langxingdingsheng/"
     },
     "LaoPuGold": {
       "episode_count": 2,
@@ -14581,6 +14643,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/politicalaccentprestige/"
     },
+    "Popeyes": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "咖啡豆｜美式汉堡炸鸡扎堆来华，快餐品牌为什么又盯上中国市场？ [1009244406].md",
+          "key": "kafeidou-meishi-hanbao-zhaji-zhadui-laihua-kuaican-pinpai-weishenme-you-dingshang-zhongguo-shichang-1009244406",
+          "show": "声动早咖啡",
+          "title": "咖啡豆｜美式汉堡炸鸡扎堆来华，快餐品牌为什么又盯上中国市场？",
+          "url": "/wiki/sources/kafeidou-meishi-hanbao-zhaji-zhadui-laihua-kuaican-pinpai-weishenme-you-dingshang-zhongguo-shichang-1009244406/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/popeyes/"
+    },
     "PostSuccessArrogance": {
       "episode_count": 4,
       "show_count": 1,
@@ -16161,6 +16239,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/seventymillimeterfilmprojection/"
     },
+    "ShakeShack": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "咖啡豆｜美式汉堡炸鸡扎堆来华，快餐品牌为什么又盯上中国市场？ [1009244406].md",
+          "key": "kafeidou-meishi-hanbao-zhaji-zhadui-laihua-kuaican-pinpai-weishenme-you-dingshang-zhongguo-shichang-1009244406",
+          "show": "声动早咖啡",
+          "title": "咖啡豆｜美式汉堡炸鸡扎堆来华，快餐品牌为什么又盯上中国市场？",
+          "url": "/wiki/sources/kafeidou-meishi-hanbao-zhaji-zhadui-laihua-kuaican-pinpai-weishenme-you-dingshang-zhongguo-shichang-1009244406/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/shakeshack/"
+    },
     "ShanBingLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -16399,6 +16493,36 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/shinglesvaccinedementiasignal/"
+    },
+    "ShoppingCenterRestaurantization": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "咖啡豆｜传统美食广场接连闭店，「大食代们」遇到哪些发展阻碍？ [1007530222].md",
+          "key": "kafeidou-chuantong-meishi-guangchang-jielian-bidian-dashidaimen-yudao-naxie-fazhan-zuai-1007530222",
+          "show": "声动早咖啡",
+          "title": "咖啡豆｜传统美食广场接连闭店，「大食代们」遇到哪些发展阻碍？",
+          "url": "/wiki/sources/kafeidou-chuantong-meishi-guangchang-jielian-bidian-dashidaimen-yudao-naxie-fazhan-zuai-1007530222/"
+        },
+        {
+          "episode_file": "Vol.270 大食代留在了它的时代 [1006063835].md",
+          "key": "vol-270-da-shi-dai-liu-zai-le-ta-de-shi-dai-1006063835",
+          "show": "商业就是这样",
+          "title": "Vol.270 大食代留在了它的时代",
+          "url": "/wiki/sources/vol-270-da-shi-dai-liu-zai-le-ta-de-shi-dai-1006063835/"
+        },
+        {
+          "episode_file": "咖啡豆｜美式汉堡炸鸡扎堆来华，快餐品牌为什么又盯上中国市场？ [1009244406].md",
+          "key": "kafeidou-meishi-hanbao-zhaji-zhadui-laihua-kuaican-pinpai-weishenme-you-dingshang-zhongguo-shichang-1009244406",
+          "show": "声动早咖啡",
+          "title": "咖啡豆｜美式汉堡炸鸡扎堆来华，快餐品牌为什么又盯上中国市场？",
+          "url": "/wiki/sources/kafeidou-meishi-hanbao-zhaji-zhadui-laihua-kuaican-pinpai-weishenme-you-dingshang-zhongguo-shichang-1009244406/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/shoppingcenterrestaurantization/"
     },
     "SituationalCharacterTests": {
       "episode_count": 5,
@@ -17525,6 +17649,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/tencentworkbuddy/"
     },
+    "TexasChicken": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "咖啡豆｜美式汉堡炸鸡扎堆来华，快餐品牌为什么又盯上中国市场？ [1009244406].md",
+          "key": "kafeidou-meishi-hanbao-zhaji-zhadui-laihua-kuaican-pinpai-weishenme-you-dingshang-zhongguo-shichang-1009244406",
+          "show": "声动早咖啡",
+          "title": "咖啡豆｜美式汉堡炸鸡扎堆来华，快餐品牌为什么又盯上中国市场？",
+          "url": "/wiki/sources/kafeidou-meishi-hanbao-zhaji-zhadui-laihua-kuaican-pinpai-weishenme-you-dingshang-zhongguo-shichang-1009244406/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/texaschicken/"
+    },
     "TeyanaTaylor": {
       "episode_count": 1,
       "show_count": 1,
@@ -18200,6 +18340,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/uschinasciencecompetition/"
+    },
+    "USFastFoodChinaExpansion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "咖啡豆｜美式汉堡炸鸡扎堆来华，快餐品牌为什么又盯上中国市场？ [1009244406].md",
+          "key": "kafeidou-meishi-hanbao-zhaji-zhadui-laihua-kuaican-pinpai-weishenme-you-dingshang-zhongguo-shichang-1009244406",
+          "show": "声动早咖啡",
+          "title": "咖啡豆｜美式汉堡炸鸡扎堆来华，快餐品牌为什么又盯上中国市场？",
+          "url": "/wiki/sources/kafeidou-meishi-hanbao-zhaji-zhadui-laihua-kuaican-pinpai-weishenme-you-dingshang-zhongguo-shichang-1009244406/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/usfastfoodchinaexpansion/"
     },
     "UlsterDefenceAssociation": {
       "episode_count": 2,
@@ -18935,6 +19091,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/wenchoulatehan/"
+    },
+    "Wendys": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "咖啡豆｜美式汉堡炸鸡扎堆来华，快餐品牌为什么又盯上中国市场？ [1009244406].md",
+          "key": "kafeidou-meishi-hanbao-zhaji-zhadui-laihua-kuaican-pinpai-weishenme-you-dingshang-zhongguo-shichang-1009244406",
+          "show": "声动早咖啡",
+          "title": "咖啡豆｜美式汉堡炸鸡扎堆来华，快餐品牌为什么又盯上中国市场？",
+          "url": "/wiki/sources/kafeidou-meishi-hanbao-zhaji-zhadui-laihua-kuaican-pinpai-weishenme-you-dingshang-zhongguo-shichang-1009244406/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/wendys/"
     },
     "WenrenXiLateHan": {
       "episode_count": 1,

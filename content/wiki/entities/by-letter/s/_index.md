@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 8038
+wiki_total_pages: 8043
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -416,6 +416,9 @@ wiki_pages:
   - key: "ShaileshChitnis"
     title: "Shailesh Chitnis"
     url: "/wiki/entities/shaileshchitnis/"
+  - key: "ShakeShack"
+    title: "Shake Shack"
+    url: "/wiki/entities/shakeshack/"
   - key: "ShamrockTexas"
     title: "Shamrock, Texas"
     url: "/wiki/entities/shamrocktexas/"

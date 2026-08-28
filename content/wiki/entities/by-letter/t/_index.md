@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 8038
+wiki_total_pages: 8043
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -251,6 +251,9 @@ wiki_pages:
   - key: "TexasAMUniversity"
     title: "Texas A&M University"
     url: "/wiki/entities/texasamuniversity/"
+  - key: "TexasChicken"
+    title: "Texas Chicken / Church's Chicken"
+    url: "/wiki/entities/texaschicken/"
   - key: "TexasPublicPolicyFoundation"
     title: "Texas Public Policy Foundation"
     url: "/wiki/entities/texaspublicpolicyfoundation/"
