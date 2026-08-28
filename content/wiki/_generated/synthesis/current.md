@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-29
-as_of_overview_commit: bb76df43a9df08be52123c98b829291c63243fd4
-summary: "Current synthesis centers on implementation: agent harnesses, demand proof, governance defaults, institutional power, medical boundaries, culture, and human judgment."
-episode_count: 1643
-source_count: 1643
-paragraph_count: 342
+as_of_overview_commit: c0f03eed8fc9b9bdc6db26e28d8609f6646fb887
+summary: "Current synthesis centers on implementation: agent harnesses, demand proof, governance defaults, late-Han power, medical boundaries, culture, and human judgment."
+episode_count: 1646
+source_count: 1646
+paragraph_count: 344
 topic_count: 8
 ---
 
@@ -19,7 +19,7 @@ topic_count: 8
 - [[AgenticDataEngineeringHarness]] turns the general agent-integration problem into a production data-engineering requirement: schemas, lineage, query evidence, [[DeterministicDataAgentValidation]], [[DataAgentGovernance]], and [[DataAgentContextCompaction]] are needed because [[SilentSQLFailure]] can let generated SQL compile, run, and still mislead users.
 - [[CustomerPull]], [[ProductLedWillingnessToPay]], and [[PreProductSelling]] become durable only when distribution, buyer-commitment, payment proof, and operating gates such as [[CPGDistribution]], [[RetailLineReview]], [[PlanogramGatekeeping]], [[RetailPricePointProductScoping]], [[MassRetailProductionDeadline]], [[EnterprisePOCDiscipline]], [[EnterpriseCustomerAsMarket]], [[AIOfficeAgent]], [[RobotRepurchaseDemand]], [[RobotTrainingCenters]], [[EgocentricRobotData]], [[FounderPitchEvidenceFit]], [[SmallRetailerChannelTest]], [[NicheOriginStoryExpansion]], and [[MissionAlignedVendorSwitching]] can repeatedly deliver value after initial attention.
 - [[PoliticalConditionAsHumanExperiment]] uses fiction to expose how political conditions, speed, exile, public performance, rule systems, and dependency reshape human behavior.
-- [[tech-20260828-0828-mp-tech-pod-128-tech-20260828-0828-mp-tech-pod-128]] and [[bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf]] show AI governance moving through default product settings and permit procedure: [[Meta]] settlement terms would make youth safeguards, [[PlatformAgeEstimation]], usage caps, notification limits, blackout windows, and feed controls part of platform design, while [[EnvironmentalProtectionAgency]] data-center permitting proposals could change public notice/comment leverage even if emissions standards stay unchanged.
+- State capacity appears as enforceable controls over appointments, territory, households, standards, symbols, and punishment, but [[PowerExitTrap|exit traps]] and backlash show that control does not automatically create social support.
 - [[UnderseaDataCables]] show contemporary geopolitics moving into physical internet routes: [[UnitedStates]] funding for [[Caribbean]] and [[CentralAmerica]] cable replacement, competition with [[China]], vendor concerns involving [[Russia]], [[CableLandingPointSecurity]], and [[CableNetworkResilience]] make cloud and financial connectivity part of strategic infrastructure rather than only telecom operations.
 - [[AugmentedIntelligence]] and [[ep278-ai-shidai-bu-juan-zhuanye-juan-shenme-renzai-zhongliu-tebie-cehua-02-lhvsbropwclouwshe-2-fczwnwzz|EP278]] add a personal-judgment frame for AI use: [[JonathanSchaeffer]] treats LLMs as useful assistants or interns, while the AI-era education source adds [[NonAlgorithmicCapabilities]], [[HumanAgencyUnderAI]], and [[HumanConnectionUnderAI]] as safeguards against letting convenience replace verification, practice, and self-direction.
 - [[IndividualizedCancerVaccine]] adds a therapeutic oncology branch: [[CancerVaccinePlatform]], [[CancerImmuneRecognitionProblem]], and [[TumorMicroenvironment]] make [[Moderna]]/[[Merck]]'s melanoma mRNA vaccine case a postoperative immune-recognition intervention, while [[AIClinicalValidationInDrugDiscovery]] may shorten patient-specific selection and manufacturing without replacing clinical validation, adverse-effect management, affordability, [[PreventiveHealthScreening]], or quality-of-life judgment.
@@ -43,20 +43,20 @@ Markets reward demand proof, distribution, payment evidence, operational transla
 
 ### Culture and Media
 
-Culture and media pages use fiction, classical texts, devices, games, sport, brands, and creative practice to test agency, politics, identity, attention, and interpretation.
+Culture and media use fiction, classical texts, devices, games, sport, brands, and creative practice to test agency, politics, identity, attention, and interpretation.
 
 - [[PoliticalConditionAsHumanExperiment]] uses fiction to expose how political conditions, speed, exile, public performance, rule systems, and dependency reshape human behavior. Evidence: [[PoliticalConditionAsHumanExperiment]], [[PublicMoralPerformance]], [[SlownessAsModernityCritique]], [[AntiAuthoritarianEducation]], [[SafetyAsControl]], [[BuddhistLifeAffirmingLiterature]].
 
 ### Governance and Institutions
 
-Governance works through enforceable defaults, audits, permits, offices, privacy workflows, markets, palace channels, and responsibility boundaries; Hanji 830 adds a Liang Ji terror case where punishment and body display fail to control public meaning.
+Governance works through enforceable defaults, audits, permits, offices, privacy workflows, markets, palace channels, and responsibility boundaries; Hanji 827 adds ruler-killing and self-protective succession prehistory.
 
 - The California data-broker branch shows that privacy rights depend on compliance workflows: [[CaliforniaDeleteAct]], [[DeleteRequestAndOptOutPlatform]], [[ConsumerDataDeletion]], [[DataBrokerComplianceGap]], and [[CaliforniaPrivacyProtectionAgency]] connect centralized deletion, broker registration, reporting duties, request friction, agency capacity, and private-lawsuit proposals into one implementation problem. Evidence: [[CaliforniaDeleteAct]], [[DeleteRequestAndOptOutPlatform]], [[ConsumerDataDeletion]], [[DataBrokerComplianceGap]], [[CaliforniaPrivacyProtectionAgency]], [[tech-20260825-mp-tech-pod-128-tech-20260825-mp-tech-pod-128]].
 - The early-Han sequence shows victory turning into governance only through family order, capital choice, exit management, reward ranking, ritual hierarchy, frontier containment, [[HanXiongnuHeqinPolicy|heqin]] diplomacy, vassal rollback, investigation-triggered rebellion risk, and finally the failure of personal trust in [[LuWan|Lu Wan]]'s Yan kingship. Evidence: [[LiuBang]], [[StrategicCapitalRelocation]], [[LiAsPoliticalOrder]], [[BaidengEncirclement]], [[HanXiongnuHeqinPolicy]], [[DifferentSurnameKingSuspicion]], [[HuainanKingdomEarlyHan]], [[InvestigationDrivenRebellionEscalation]], [[LuWan]], [[YanState]].
 
 ### History and Geopolitics
 
-Historical and geopolitical claims tie power to logistics, legitimacy, elite alignment, infrastructure, state capacity, timing, and strategic technology ecosystems.
+Historical and geopolitical claims tie power to logistics, legitimacy, elite alignment, infrastructure, state capacity, timing, strategic technology, and the late-Han succession backfill.
 
 - [[UnderseaDataCables]] show contemporary geopolitics moving into physical internet routes: [[UnitedStates]] funding for [[Caribbean]] and [[CentralAmerica]] cable replacement, competition with [[China]], vendor concerns involving [[Russia]], [[CableLandingPointSecurity]], and [[CableNetworkResilience]] make cloud and financial connectivity part of strategic infrastructure rather than only telecom operations. Evidence: [[UnderseaDataCables]], [[UnitedStates]], [[Caribbean]], [[CentralAmerica]], [[China]], [[Russia]], [[CableLandingPointSecurity]], [[CableNetworkResilience]], [[TrustedNetworkGeopolitics]], [[DigitalInfrastructureWarRisk]], [[RegionalNetworkTopologyRisk]], [[AsymmetricInfrastructureAttack]], [[MarketplaceTech]], [[ErinMurphy]], [[tech-20260820-tech-pod-128-tech-20260820-tech-pod-128]].
 - The Hanji 992, 1002, and 1015-1016 branch makes late-Han title order a strategic condition: [[EmperorXianOfHan]]'s ruined Anyi and Chang'an context keeps [[MingqiLegitimacy]] symbolically active but materially thin, [[JuShou]] sees [[LegitimacyWindowSeizure]] for [[YuanShao]] before [[GuoTu]] and [[ChunyuQiong]] help Yuan Shao miss it, [[SunCe]] treats [[YuanShu]]'s planned imperial title as a [[MoralizedWarPretext]] and exits, [[XunYu]] turns the emperor's recognition into [[LegitimacyWindowSeizure]] for [[CaoCao]], Yuan Shu's later Shouchun claim outruns [[TitleRealityRestraint]] and creates [[AntiUsurpationCoalitionPressure]], and [[ChenGui]] blocks [[MarriageAllianceWarExposure]] around [[LyuBu]] and [[Xuzhou]]. Evidence: [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz]], [[EmperorXianOfHan]], [[ChangAnHanCapital]], [[GuanzhongRegion]], [[MingqiLegitimacy]], [[JuShou]], [[LegitimacyWindowSeizure]], [[YuanShao]], [[GuoTu]], [[ChunyuQiong]], [[WartimeAgriculturalLaborCollapse]], [[FamineEntitlementFailure]], [[SunCe]], [[YuanShu]], [[MoralizedWarPretext]], [[XunYu]], [[CaoCao]], [[TitleRealityRestraint]], [[AntiUsurpationCoalitionPressure]], [[ChenGui]], [[MarriageAllianceWarExposure]], [[LyuBu]], [[Xuzhou]], [[XingshiqingStrategicAssessment]], [[GuoJia]], [[ZhongYao]].
@@ -77,7 +77,7 @@ Science, health, climate, and space claims stay credible when evidence quality, 
 
 ### Work, Education, and Society
 
-Work and education claims show that capability becomes durable through ownership, baselines, workflow redesign, verification, foundations, role responsibility, and human judgment; Hanji 830 adds a role-risk case around petitioning, defense, mourning, and burial.
+Work and education claims show capability becoming durable through ownership, baselines, workflow redesign, verification, foundations, role responsibility, and human judgment; Hanji 827 adds Taixue as an education-to-office pipeline.
 
 - AI and automation change work only when they reorganize production roles, workflows, and review responsibilities, from [[AIVideoProductionWorkflow]] and [[RollingAI]] to [[HeadlessSoftware]], [[Paperboy]], and [[HumanJudgmentUnderAI]]. Evidence: [[AIVideoProductionWorkflow]], [[JiaZhangke]], [[FilmRealityBeyondRealism]], [[LiveActionFilmUnderAI]], [[CreativeLaborAIBacklash]], [[AIPublicLikenessGeneration]], [[AITrainingCopyrightDispute]], [[AIEnergyBottleneck]], [[RollingAI]], [[HeadlessSoftware]], [[Paperboy]], [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].
 - Workplace AI readiness depends on ownership, baselines, training, and role-specific workflows: [[WorkplaceAIReadinessGap]], [[Microsoft365CopilotAdoption]], [[AIAdoptionBaselineMeasurement]], [[AIOperationsRole]], [[FrontlineAIEnablement]], and [[HumanJudgmentUnderAI]] show that license access or worker experimentation is not enough. Evidence: [[WorkplaceAIReadinessGap]], [[Microsoft365CopilotAdoption]], [[AIAdoptionBaselineMeasurement]], [[AIOperationsRole]], [[FrontlineAIEnablement]], [[HumanJudgmentUnderAI]], [[ShadowAI]], [[BusinessLedAITransformation]], [[JimSpignardo]], [[Proarc]], [[ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise]].

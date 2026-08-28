@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-29] ingest | 《资治通鉴·汉纪》827丨一句话引发的帝王之死
+
+Added source page for Hanji 827: Taixue/Mingjing expansion, Emperor Zhi calling Liang Ji "跋扈将军", Liang Ji's poisoning and water obstruction, Li Gu's deathbed witness/grief, and the first Liu Suan succession recommendation with Cao Teng's objection. Updated Emperor Zhi, Liang Ji, Li Gu, Du Qiao, Hu Guang, Cao Teng, Liu Suan, Taixue, Self-Protective Accession Choice, Outer-Relative Court Power, index, and overview. No settled contradiction found; Zhao Jie, Liu Hong reclassification, sea-water disaster, exact Taixue count, and the opening moral frame remain source-scoped.
+
 ## [2026-08-29] ingest | EP 45: Why AI Agents Break in Production: The Missing Harness in Your Data Stack
 
 Ingested the Data Science With Sam episode with Pradmesh Patil on agentic data engineering harnesses, executable-but-wrong SQL, deterministic validation, context compaction, data-agent governance, Altimate Code, and data-engineer role shifts. Created the source note, Pradmesh Patil, Altimate AI, Altimate Code, Snowflake Cortex Analyst, Agentic Data Engineering Harness, Silent SQL Failure, Deterministic Data Agent Validation, Data Agent Governance, Data Agent Context Compaction, Data Engineer Agent Supervision, and Data Agent Benchmarks pages; updated AI Data Readiness, index, and overview. No settled contradiction found; error-rate, benchmark, download, and cost figures remain source-scoped.
@@ -13180,6 +13184,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-29] ingest | 《资治通鉴·汉纪》828丨大将军梁冀：擅权废立的东汉奸臣
 
 Ingested the 芮淇讲透资治通鉴 episode on the 146 CE succession after Emperor Zhi's death, Cao Teng's self-protective advice to Liang Ji, Liu Zhi's accession as Emperor Huan under Liang Na's continued regency, Li Gu and Du Qiao's resistance, Zhu Mu's rejected staffing and emperor-education warning, Huan's ancestral honors, and Teng Fu's eunuch-driven dismissal. Created the source note, Teng Fu, and Self-Protective Accession Choice pages; updated Cao Teng, Hu Guang, Emperor Zhi, Liu Suan, Du Qiao, Li Gu, Empress Dowager Liang Na, Zhu Mu, Liang Ji, Emperor Huan, Outer-Relative Court Power, Corrective Advice Nonconversion, index, and downstream synthesis inputs. No settled contradiction found; minor offices and ritual details remain source-scoped, and Teng Fu is kept distinct from Teng Yan.
+
+## [2026-08-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-29] lint | Wiki health check
 

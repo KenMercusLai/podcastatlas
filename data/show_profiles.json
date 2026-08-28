@@ -2426,8 +2426,8 @@
       "earliest_episode_date": "2025-12-07",
       "latest_episode_date": "2026-08-27",
       "latest_episode_file": "《资治通鉴·汉纪》1050丨从曹操焚信学习宝贵的领导智慧 [lsQG-qaxOzJPaXYUKrvXBtF-MCse].md",
-      "source_note_count": 526,
-      "topic_matched_source_note_count": 265,
+      "source_note_count": 527,
+      "topic_matched_source_note_count": 266,
       "topics": [
         {
           "key": "history",
@@ -2442,15 +2442,15 @@
           "source_note_count": 80
         },
         {
-          "key": "economics",
-          "label": "Economics",
-          "url": "/topics/economics/",
-          "source_note_count": 5
-        },
-        {
           "key": "culture",
           "label": "Culture",
           "url": "/topics/culture/",
+          "source_note_count": 6
+        },
+        {
+          "key": "economics",
+          "label": "Economics",
+          "url": "/topics/economics/",
           "source_note_count": 5
         }
       ],
@@ -2515,8 +2515,8 @@
       "start_here_episode_files": [
         "《资治通鉴·汉纪》963丨史上被“点天灯”的第一人，是他！ [lkPkhlpKV3Xpw-hUR4b7SH-3DRUk].md",
         "《资治通鉴·汉纪》1046丨他凭什么被称作“三国隐藏最深的牛人”？ [liMiqXjqZBK4fTtL8d6Rviqwwe3b].md",
-        "《资治通鉴·汉纪》927丨做生意的最高境界是什么？ [lnGFBjN6Xui9K_9LP-IHdQKhpBpR].md",
-        "《资治通鉴·汉纪》911丨古代公务员也能包分配？ [ls3pXu9XlPuulSDaILx8TcoYlv9e].md"
+        "《资治通鉴·汉纪》911丨古代公务员也能包分配？ [ls3pXu9XlPuulSDaILx8TcoYlv9e].md",
+        "《资治通鉴·汉纪》927丨做生意的最高境界是什么？ [lnGFBjN6Xui9K_9LP-IHdQKhpBpR].md"
       ]
     },
     "蜉蝣天地 Meanders": {

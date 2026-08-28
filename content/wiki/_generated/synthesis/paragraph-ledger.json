@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "255bdb14726d1bdf71b3b416f890df3b985e38853cfb8965f9583d6369d452a0",
       "7fa4b522d9138d8bcea60cd4524a0957bc30c7b0ba93b0328017a374f865c61f",
       "1cf3e2334ec0cb0286f2e91cfa9347f2366b8e3051a9ccb941881e6027dc5809",
       "56a591054efe610a925b78a90df527e58307f12dbcb061b6286ce35feebd0ffa",
@@ -345,11 +346,40 @@
       "b7fe88c4a3ea92e3484da7ba393768450cea0ebc036e6acdec39ec881741cf34",
       "082a8129ce267d83fa695011e4d1d9ec611a2911fab24932213544b548f520cf"
     ],
-    "paragraph_count": 343
+    "paragraph_count": 344
   },
-  "overview_commit": "2e99b4260e28f49184e1a571c2faddc55f23e6fa",
-  "overview_digest": "3bc683997ce1253d22e706ade44cb28e20a116760dcac06bd1efc40859b198c0",
+  "overview_commit": "c0f03eed8fc9b9bdc6db26e28d8609f6646fb887",
+  "overview_digest": "9900e55f7bee108e8f82304d410b726c4c2f743d269877708d8adcdd4865f894",
   "paragraphs": [
+    {
+      "id": "255bdb14726d1bdf71b3b416f890df3b985e38853cfb8965f9583d6369d452a0",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics",
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2|《资治通鉴·汉纪》827丨一句话引发的帝王之死]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling a late-Han governance, education, and political history layer: the [[Taixue|太学]] / Mingjing education-to-office expansion and the 146 CE death of [[EmperorZhiOfHan|汉质帝]] immediately before [[zizhi-tongjian-hanji-828-da-jiangjun-liangji-shanquan-feili-de-donghan-jianchen-llqnqijagtmdlgitulddxspncu0e|Hanji 828]]. It extends [[LiangJiLateHan|梁冀]], [[LiGuLateHan|李固]], [[DuQiaoLateHan|杜乔]], [[HuGuangLateHan|胡广]], [[CaoTengLateHan|曹腾]], [[LiuSuanLateHan|刘蒜]], [[OuterRelativeCourtPower|外戚专权与清算]], and [[SelfProtectiveAccessionChoice|自保式继位选择]]. Its core synthesis is that Liang-family power crosses from domination into imperial murder before the accession bargain: Emperor Zhi's public \"跋扈将军\" label prompts Liang to poison him and block water at the deathbed, Li Gu becomes an exposure risk, and the first senior-official push for Liu Suan is already vulnerable to Cao Teng's private access grievance. No settled contradiction is recorded; Zhao Jie, Liu Hong's Bohai reclassification, the sea-water disaster, exact Taixue enrollment count, and the moral-causality opening remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 3,
+        "history-and-geopolitics": 2,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "CaoTengLateHan",
+        "DuQiaoLateHan",
+        "EmperorZhiOfHan",
+        "HuGuangLateHan",
+        "LiGuLateHan",
+        "LiangJiLateHan",
+        "LiuSuanLateHan",
+        "OuterRelativeCourtPower",
+        "RuiqiJiangtouZizhiTongjian",
+        "SelfProtectiveAccessionChoice",
+        "Taixue",
+        "zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2",
+        "zizhi-tongjian-hanji-828-da-jiangjun-liangji-shanquan-feili-de-donghan-jianchen-llqnqijagtmdlgitulddxspncu0e"
+      ]
+    },
     {
       "id": "7fa4b522d9138d8bcea60cd4524a0957bc30c7b0ba93b0328017a374f865c61f",
       "primary_topic": "governance-and-institutions",

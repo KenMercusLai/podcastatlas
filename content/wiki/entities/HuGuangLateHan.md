@@ -6,14 +6,17 @@ tags: [person, late-han, official, court-politics, china]
 sources:
   - zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr
   - zizhi-tongjian-hanji-828-da-jiangjun-liangji-shanquan-feili-de-donghan-jianchen-llqnqijagtmdlgitulddxspncu0e
+  - zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2
 last_updated: 2026-08-29
 ---
 
 ## Overview
-胡广 / Hu Guang is a long-serving late-Han senior official whose current profile now includes both early accommodation under [[LiangJiLateHan]]'s 146 CE succession pressure and later institutional survival into old age. The combined evidence makes him a case of bureaucratic usefulness and office preservation with an unresolved moral cost.
+胡广 / Hu Guang is a long-serving late-Han senior official whose current profile now includes both the first Liu Suan recommendation after [[EmperorZhiOfHan]]'s death and later accommodation under [[LiangJiLateHan]]'s 146 CE succession pressure. His old-age survival profile therefore sits beside an early sequence where initial deliberative caution gives way to office-preserving compliance.
 
 ## Current Profile
-[[zizhi-tongjian-hanji-828-da-jiangjun-liangji-shanquan-feili-de-donghan-jianchen-llqnqijagtmdlgitulddxspncu0e|Hanji 828]] places Hu Guang in the accession meeting after [[EmperorZhiOfHan]]'s death. When Liang Ji pressures the Three Excellencies and Nine Ministers to accept Liu Zhi, Hu Guang and Zhao Jie submit; Hu Guang is then made taiwei and, with Zhao Jie and Liang Ji, supervises Shangshu affairs.
+[[zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2|Hanji 827]] supplies the first current layer. After Emperor Zhi's death, Hu Guang joins [[LiGuLateHan|李固]], Zhao Jie, and [[DuQiaoLateHan|杜乔]] in urging broad consultation and recommending [[LiuSuanLateHan|刘蒜]], so his earliest bounded role is not simple compliance but an initial senior-official succession judgment.
+
+[[zizhi-tongjian-hanji-828-da-jiangjun-liangji-shanquan-feili-de-donghan-jianchen-llqnqijagtmdlgitulddxspncu0e|Hanji 828]] places Hu Guang in the later accession meeting. When Liang Ji pressures the Three Excellencies and Nine Ministers to accept Liu Zhi, Hu Guang and Zhao Jie submit; Hu Guang is then made taiwei and, with Zhao Jie and Liang Ji, supervises Shangshu affairs.
 
 The same source also shows the darker side of procedural seniority. Teng Fu should have been rewarded for anti-bandit merit, but after eunuchs resent his refusal to associate with powerholders, Hu Guang impeaches him and Teng Fu is dismissed.
 
@@ -22,11 +25,12 @@ The same source also shows the darker side of procedural seniority. Teng Fu shou
 ## Key Characteristics
 - Senior official who survives regime changes by preserving institutional usefulness.
 - Court technician whose knowledge of precedent and personnel gives him durable value.
-- Accommodationist in moments of coercive power, including Liang Ji's 146 succession meeting.
+- Initial Liu Suan recommender who later accommodates Liang Ji's coercive 146 succession meeting.
 - Procedural actor whose impeachment of Teng Fu formalizes pressure against an upright merit claimant.
 - Morally mixed figure: administratively competent and politically durable, but vulnerable to criticism for insufficient upright resistance.
 
 ## Evidence
+- Initial Liu Suan recommendation: [[zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2|Hanji 827]] says Hu Guang joins Li Gu, Zhao Jie, and Du Qiao in urging broad consultation and recommending Liu Suan after Emperor Zhi's death.
 - Succession compliance: [[zizhi-tongjian-hanji-828-da-jiangjun-liangji-shanquan-feili-de-donghan-jianchen-llqnqijagtmdlgitulddxspncu0e|Hanji 828]] says Hu Guang submits to Liang Ji's preferred accession outcome while Li Gu and Du Qiao continue resisting.
 - High office after accession: [[zizhi-tongjian-hanji-828-da-jiangjun-liangji-shanquan-feili-de-donghan-jianchen-llqnqijagtmdlgitulddxspncu0e|Hanji 828]] says Hu Guang becomes taiwei and helps oversee Shangshu affairs with Zhao Jie and Liang Ji.
 - Teng Fu impeachment: [[zizhi-tongjian-hanji-828-da-jiangjun-liangji-shanquan-feili-de-donghan-jianchen-llqnqijagtmdlgitulddxspncu0e|Hanji 828]] reports Hu Guang's impeachment leading to Teng Fu's dismissal despite Teng Fu's merit.
@@ -34,15 +38,16 @@ The same source also shows the darker side of procedural seniority. Teng Fu shou
 - Moral ambiguity: [[zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr|Hanji 900]] treats Hu Guang's mildness and caution as both the basis of survival and the reason later critics fault his lack of upright remonstrance.
 
 ## Qualifications
-The current evidence does not prove Hu Guang's private motives in the succession meeting or Teng Fu impeachment. It establishes how the episodes are presented in the podcast sources: as accommodation under Liang Ji's pressure, as procedural participation in a hostile removal, and as part of a broader survival profile.
+The current evidence does not prove Hu Guang's private motives in either the initial Liu Suan recommendation, the later succession meeting, or the Teng Fu impeachment. It establishes how the episodes are presented in the podcast sources: as early participation in a deliberative recommendation, as later accommodation under Liang Ji's pressure, as procedural participation in a hostile removal, and as part of a broader survival profile.
 
 ## What Changed
-- Migrated Hu Guang to the synthesis-v1 entity schema.
-- Added the 146 CE succession-meeting and Teng Fu impeachment layers.
-- Reframed his later survival as continuous with earlier accommodation rather than as an isolated old-age profile.
+- Added Hanji 827 as Hu Guang's earliest bounded succession layer: initial Liu Suan recommendation after Emperor Zhi's death.
+- Reframed Hanji 828 as a later accommodation under pressure rather than Hu Guang's first current succession position.
+- Preserved Hanji 900's survival profile as morally continuous with, but not identical to, his 146 CE choices.
 
 ## Relationships
 - [[LiangJiLateHan]] - coercive powerholder whose preferred succession Hu Guang accepts.
+- [[EmperorZhiOfHan]] - emperor whose death opens Hu Guang's initial Liu Suan recommendation and later compliance.
 - [[EmperorHuanOfHan]] - ruler installed in the accession outcome Hu Guang submits to.
 - [[TengFuLateHan]] - official whose dismissal follows Hu Guang's impeachment.
 - [[LiGuLateHan]] and [[DuQiaoLateHan]] - contrast figures who continue resisting Liang Ji's succession choice.

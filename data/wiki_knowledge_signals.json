@@ -3785,9 +3785,9 @@
       "url": "/wiki/entities/caoshaolatehan/"
     },
     "CaoTengLateHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》904丨觉照内观：获得心灵大自由的秘诀 [lopN_oKbzr4LJvqmgzCsb7qAv0n2].md",
@@ -3809,6 +3809,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》828丨大将军梁冀：擅权废立的东汉奸臣",
           "url": "/wiki/sources/zizhi-tongjian-hanji-828-da-jiangjun-liangji-shanquan-feili-de-donghan-jianchen-llqnqijagtmdlgitulddxspncu0e/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》827丨一句话引发的帝王之死 [lnf6RZ1i2vmgsclGIejBH0qeVZc2].md",
+          "key": "zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》827丨一句话引发的帝王之死",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2/"
         }
       ],
       "updated": "2026-08-29",
@@ -6794,9 +6801,9 @@
       "url": "/wiki/entities/dumilatehan/"
     },
     "DuQiaoLateHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》830丨东汉李固：我虽死犹荣！ [lt__j7n9gOTIW_nEgQXOJoAcf6Ji].md",
@@ -6818,6 +6825,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》828丨大将军梁冀：擅权废立的东汉奸臣",
           "url": "/wiki/sources/zizhi-tongjian-hanji-828-da-jiangjun-liangji-shanquan-feili-de-donghan-jianchen-llqnqijagtmdlgitulddxspncu0e/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》827丨一句话引发的帝王之死 [lnf6RZ1i2vmgsclGIejBH0qeVZc2].md",
+          "key": "zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》827丨一句话引发的帝王之死",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2/"
         }
       ],
       "updated": "2026-08-29",
@@ -7658,9 +7672,9 @@
       "url": "/wiki/entities/emperorhuanofhan/"
     },
     "EmperorZhiOfHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》835丨东汉第一权臣，为何要跪他？ [lpwezt_z-2QLoITWD3T4GyxZNQbo].md",
@@ -7675,6 +7689,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》828丨大将军梁冀：擅权废立的东汉奸臣",
           "url": "/wiki/sources/zizhi-tongjian-hanji-828-da-jiangjun-liangji-shanquan-feili-de-donghan-jianchen-llqnqijagtmdlgitulddxspncu0e/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》827丨一句话引发的帝王之死 [lnf6RZ1i2vmgsclGIejBH0qeVZc2].md",
+          "key": "zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》827丨一句话引发的帝王之死",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2/"
         }
       ],
       "updated": "2026-08-29",
@@ -10882,9 +10903,9 @@
       "url": "/wiki/entities/hufanglatehan/"
     },
     "HuGuangLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》900丨职场权术都不动，该怎样生存 [lmhJwOsY4EsWyHfpPDGHfsMfycQr].md",
@@ -10899,6 +10920,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》828丨大将军梁冀：擅权废立的东汉奸臣",
           "url": "/wiki/sources/zizhi-tongjian-hanji-828-da-jiangjun-liangji-shanquan-feili-de-donghan-jianchen-llqnqijagtmdlgitulddxspncu0e/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》827丨一句话引发的帝王之死 [lnf6RZ1i2vmgsclGIejBH0qeVZc2].md",
+          "key": "zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》827丨一句话引发的帝王之死",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2/"
         }
       ],
       "updated": "2026-08-29",
@@ -13873,9 +13901,9 @@
       "url": "/wiki/entities/ligaorunanlatehan/"
     },
     "LiGuLateHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》929丨对事不对人，你信了吗？ [lgaXJ0jzoPddmt3C5hiBNExqLhB3].md",
@@ -13911,6 +13939,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》828丨大将军梁冀：擅权废立的东汉奸臣",
           "url": "/wiki/sources/zizhi-tongjian-hanji-828-da-jiangjun-liangji-shanquan-feili-de-donghan-jianchen-llqnqijagtmdlgitulddxspncu0e/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》827丨一句话引发的帝王之死 [lnf6RZ1i2vmgsclGIejBH0qeVZc2].md",
+          "key": "zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》827丨一句话引发的帝王之死",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2/"
         }
       ],
       "updated": "2026-08-29",
@@ -14145,9 +14180,9 @@
       "url": "/wiki/entities/liangbuyilatehan/"
     },
     "LiangJiLateHan": {
-      "episode_count": 14,
+      "episode_count": 15,
       "show_count": 1,
-      "source_note_count": 14,
+      "source_note_count": 15,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿” [lvSA2pby8IyfEvfooBoBpIK52MiJ].md",
@@ -14246,6 +14281,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》828丨大将军梁冀：擅权废立的东汉奸臣",
           "url": "/wiki/sources/zizhi-tongjian-hanji-828-da-jiangjun-liangji-shanquan-feili-de-donghan-jianchen-llqnqijagtmdlgitulddxspncu0e/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》827丨一句话引发的帝王之死 [lnf6RZ1i2vmgsclGIejBH0qeVZc2].md",
+          "key": "zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》827丨一句话引发的帝王之死",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2/"
         }
       ],
       "updated": "2026-08-29",
@@ -14653,9 +14695,9 @@
       "url": "/wiki/entities/liupirunanlatehan/"
     },
     "LiuSuanLateHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》929丨对事不对人，你信了吗？ [lgaXJ0jzoPddmt3C5hiBNExqLhB3].md",
@@ -14677,6 +14719,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》828丨大将军梁冀：擅权废立的东汉奸臣",
           "url": "/wiki/sources/zizhi-tongjian-hanji-828-da-jiangjun-liangji-shanquan-feili-de-donghan-jianchen-llqnqijagtmdlgitulddxspncu0e/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》827丨一句话引发的帝王之死 [lnf6RZ1i2vmgsclGIejBH0qeVZc2].md",
+          "key": "zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》827丨一句话引发的帝王之死",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2/"
         }
       ],
       "updated": "2026-08-29",
@@ -18021,9 +18070,9 @@
       "url": "/wiki/concepts/outdoorvehiclelifestyledesign/"
     },
     "OuterRelativeCourtPower": {
-      "episode_count": 13,
+      "episode_count": 14,
       "show_count": 1,
-      "source_note_count": 13,
+      "source_note_count": 14,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》848丨瞬间垮台！我为何说他死有余辜？ [lgqVgMxlwga2fKnmtxPj3Ya9chk0].md",
@@ -18115,6 +18164,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》828丨大将军梁冀：擅权废立的东汉奸臣",
           "url": "/wiki/sources/zizhi-tongjian-hanji-828-da-jiangjun-liangji-shanquan-feili-de-donghan-jianchen-llqnqijagtmdlgitulddxspncu0e/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》827丨一句话引发的帝王之死 [lnf6RZ1i2vmgsclGIejBH0qeVZc2].md",
+          "key": "zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》827丨一句话引发的帝王之死",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2/"
         }
       ],
       "updated": "2026-08-29",
@@ -21033,9 +21089,9 @@
       "url": "/wiki/concepts/selfdoubtascreativecheck/"
     },
     "SelfProtectiveAccessionChoice": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》828丨大将军梁冀：擅权废立的东汉奸臣 [llqnqIJAGtMdlGiTulDDXSpNCU0E].md",
@@ -21043,6 +21099,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》828丨大将军梁冀：擅权废立的东汉奸臣",
           "url": "/wiki/sources/zizhi-tongjian-hanji-828-da-jiangjun-liangji-shanquan-feili-de-donghan-jianchen-llqnqijagtmdlgitulddxspncu0e/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》827丨一句话引发的帝王之死 [lnf6RZ1i2vmgsclGIejBH0qeVZc2].md",
+          "key": "zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》827丨一句话引发的帝王之死",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2/"
         }
       ],
       "updated": "2026-08-29",
@@ -22941,9 +23004,9 @@
       "url": "/wiki/entities/tadunlatehan/"
     },
     "Taixue": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》905丨富贵如何险中求？ [lklXX5nqUka2MTblLXIvk0a7B-fu].md",
@@ -22979,9 +23042,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》839丨你能做到问心无愧吗？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》827丨一句话引发的帝王之死 [lnf6RZ1i2vmgsclGIejBH0qeVZc2].md",
+          "key": "zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》827丨一句话引发的帝王之死",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-29",
       "url": "/wiki/concepts/taixue/"
     },
     "TaixueCollectivePetition": {
