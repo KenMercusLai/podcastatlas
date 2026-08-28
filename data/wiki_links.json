@@ -5291,6 +5291,10 @@
     "title": "Atomic Capability Services",
     "url": "/wiki/concepts/atomiccapabilityservices/"
   },
+  "AtomicContentGuardrails": {
+    "title": "Atomic Content Guardrails",
+    "url": "/wiki/concepts/atomiccontentguardrails/"
+  },
   "Atoom": {
     "title": "Atoom",
     "url": "/wiki/entities/atoom/"
@@ -13691,6 +13695,10 @@
     "title": "Detroit",
     "url": "/wiki/entities/detroit/"
   },
+  "DeutscheBahn": {
+    "title": "Deutsche Bahn",
+    "url": "/wiki/entities/deutschebahn/"
+  },
   "DevOpsCALMS": {
     "title": "DevOps CALMS",
     "url": "/wiki/concepts/devopscalms/"
@@ -14138,6 +14146,10 @@
   "DiscoursesOnLivy": {
     "title": "《论李维》 / Discourses on Livy",
     "url": "/wiki/entities/discoursesonlivy/"
+  },
+  "DiscoveryLedDemoSprint": {
+    "title": "Discovery-Led Demo Sprint",
+    "url": "/wiki/concepts/discoveryleddemosprint/"
   },
   "DiscoveryLoop": {
     "title": "Discovery Loop",
@@ -26531,6 +26543,10 @@
     "title": "Julius Caesar / 《尤里乌斯·恺撒》",
     "url": "/wiki/entities/juliuscaesarplay/"
   },
+  "JuliusKurfgen": {
+    "title": "Julius Kurfgen",
+    "url": "/wiki/entities/juliuskurfgen/"
+  },
   "Julu": {
     "title": "巨鹿 / Julu",
     "url": "/wiki/entities/julu/"
@@ -30866,6 +30882,10 @@
   "ManChong": {
     "title": "满宠 / Man Chong",
     "url": "/wiki/entities/manchong/"
+  },
+  "ManagedServiceAutomationLayer": {
+    "title": "Managed-Service Automation Layer",
+    "url": "/wiki/concepts/managedserviceautomationlayer/"
   },
   "ManagementQualityAsInvestmentEdge": {
     "title": "Management Quality as Investment Edge",
@@ -37058,6 +37078,10 @@
   "PerformanceFootwearMarket": {
     "title": "Performance Footwear Market",
     "url": "/wiki/concepts/performancefootwearmarket/"
+  },
+  "PerformanceLinkedAdSpendPricing": {
+    "title": "Performance-Linked Ad Spend Pricing",
+    "url": "/wiki/concepts/performancelinkedadspendpricing/"
   },
   "PerformativeEnforcementAccountability": {
     "title": "Performative Enforcement Accountability",
@@ -50083,6 +50107,10 @@
     "title": "Unverified Territorial Promise Trap / 未验地先断交陷阱",
     "url": "/wiki/concepts/unverifiedterritorialpromisetrap/"
   },
+  "Uplane": {
+    "title": "Uplane",
+    "url": "/wiki/entities/uplane/"
+  },
   "UpwardManagement": {
     "title": "Upward Management",
     "url": "/wiki/concepts/upwardmanagement/"
@@ -58206,6 +58234,10 @@
   "sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156": {
     "title": "三联串台｜神赐给人葡萄，世界微醺了",
     "url": "/wiki/sources/sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156/"
+  },
+  "selling-before-building-1m-arr-in-six-months": {
+    "title": "Selling Before Building: $1M ARR in Six Months",
+    "url": "/wiki/sources/selling-before-building-1m-arr-in-six-months/"
   },
   "serena-lily-serena-dugan-and-lily-kanter-they-built-a-20m-brand-then-one-investor-almost-destroyed-it-31a4ddcd-1cc1-48d0-9369-fd85e8714e66": {
     "title": "Serena & Lily: Serena Dugan and Lily Kanter. They Built a $20M Brand—Then One Investor Almost Destroyed It",

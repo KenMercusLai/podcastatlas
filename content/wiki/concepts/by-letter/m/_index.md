@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 5790
+wiki_total_pages: 5794
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -98,6 +98,9 @@ wiki_pages:
   - key: "MalthusianTrap"
     title: "Malthusian Trap / 马尔萨斯陷阱"
     url: "/wiki/concepts/malthusiantrap/"
+  - key: "ManagedServiceAutomationLayer"
+    title: "Managed-Service Automation Layer"
+    url: "/wiki/concepts/managedserviceautomationlayer/"
   - key: "ManagementQualityAsInvestmentEdge"
     title: "Management Quality as Investment Edge"
     url: "/wiki/concepts/managementqualityasinvestmentedge/"

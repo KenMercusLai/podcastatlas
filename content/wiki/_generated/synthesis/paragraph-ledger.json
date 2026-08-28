@@ -315,12 +315,13 @@
       "3362304333dfcee314476fce4ed5623c60aa152f17b8b0db64ce82de7271a34a",
       "6bd28c470f6e9c123dc24d79e82dbcfb73e9f49f777bfd2b02744df233e9e914",
       "16d531495e2a6294ae198d0b95a352e519f488fcca1dbdae1f416758d1cfa576",
-      "a9fec3ceb1b343b1fafeebc9ab2903b46238a861f9aaafd9d15b1460340a08b5"
+      "a9fec3ceb1b343b1fafeebc9ab2903b46238a861f9aaafd9d15b1460340a08b5",
+      "80ebfc1ef682d46f5ad0ddee6b5400db9cc377226e9bae3529738d33d47cad41"
     ],
-    "paragraph_count": 315
+    "paragraph_count": 316
   },
-  "overview_commit": "f8176b5796fcdccac9ccc63a35ec652c315dae3f",
-  "overview_digest": "2a0c3e94771f50515ef79677879ddd691abbbd39b6aa5b30ff4567398ddd1b79",
+  "overview_commit": "7b0abf3f9e45f83dcd1885be34e800846e2eccc2",
+  "overview_digest": "658257008a4367587c002ab2004553b19e62c308fd2a2ff0dbdeda424452ff86",
   "paragraphs": [
     {
       "id": "b7d227f34bd447800f7c15293cda81af8f70b38685399e1a4c004367452b1d39",
@@ -9753,6 +9754,45 @@
         "SmallRetailerChannelTest",
         "StoryLedConsumerBranding",
         "advice-line-with-daymond-john-of-fubu-0961848f-0f5a-4fb7-932c-3a04f08bc8d4"
+      ]
+    },
+    {
+      "id": "80ebfc1ef682d46f5ad0ddee6b5400db9cc377226e9bae3529738d33d47cad41",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "business-and-markets",
+        "governance-and-institutions"
+      ],
+      "text": "The latest addition is [[selling-before-building-1m-arr-in-six-months|Selling Before Building: $1M ARR in Six Months]], a [[TheSaaSPodcast]] episode with [[OmerKhan]] and [[JuliusKurfgen]] on [[Uplane]] and the [[DeutscheBahn]] enterprise case. It adds [[DiscoveryLedDemoSprint]], [[ManagedServiceAutomationLayer]], [[AtomicContentGuardrails]], and [[PerformanceLinkedAdSpendPricing]], while extending [[AutomatedPerformanceMarketing]], [[PreProductSelling]], [[CustomerPull]], [[ProductLedWillingnessToPay]], [[ServiceProductization]], [[ServiceAsSoftware]], [[OutcomeBasedAIPricing]], [[AIMarketingDecisioning]], [[AIGovernanceAndCompliance]], [[BrandValueProtection]], and [[HumanJudgmentUnderAI]]. Its core synthesis is that AI marketing value comes from a sales-first and governed workflow: customer discovery creates a one-week demo target, paid pilots beat free interest, human operators bridge incomplete automation, spend-linked pricing aligns incentives, and approved content plus review prevent AI from becoming low-quality brand spam. No settled contradiction is recorded; Uplane's ARR, customer results, attribution model, and managed-service margins remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 4,
+        "business-and-markets": 4,
+        "culture-and-media": 1,
+        "governance-and-institutions": 2,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "AIGovernanceAndCompliance",
+        "AIMarketingDecisioning",
+        "AtomicContentGuardrails",
+        "AutomatedPerformanceMarketing",
+        "BrandValueProtection",
+        "CustomerPull",
+        "DeutscheBahn",
+        "DiscoveryLedDemoSprint",
+        "HumanJudgmentUnderAI",
+        "JuliusKurfgen",
+        "ManagedServiceAutomationLayer",
+        "OmerKhan",
+        "OutcomeBasedAIPricing",
+        "PerformanceLinkedAdSpendPricing",
+        "PreProductSelling",
+        "ProductLedWillingnessToPay",
+        "ServiceAsSoftware",
+        "ServiceProductization",
+        "TheSaaSPodcast",
+        "Uplane",
+        "selling-before-building-1m-arr-in-six-months"
       ]
     }
   ],

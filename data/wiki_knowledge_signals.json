@@ -1761,6 +1761,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/atlasrobot/"
     },
+    "AtomicContentGuardrails": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "AHARO9404248523 [AHARO9404248523].md",
+          "key": "selling-before-building-1m-arr-in-six-months",
+          "show": "The SaaS Podcast - Real Lessons on Growing Profitable SaaS",
+          "title": "Selling Before Building: $1M ARR in Six Months",
+          "url": "/wiki/sources/selling-before-building-1m-arr-in-six-months/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/atomiccontentguardrails/"
+    },
     "AttentionCapacitySelection": {
       "episode_count": 1,
       "show_count": 1,
@@ -1831,6 +1847,43 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/autoimmunediseasesubtyping/"
+    },
+    "AutomatedPerformanceMarketing": {
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "TSR-YCOffsite-KasishGupta-v1-AudioOnly [TSR-YCOffsite-KasishGupta-v1-AudioOnly].md",
+          "key": "tsr-ycoffsite-kasishgupta-v1-audioonly-tsr-ycoffsite-kasishgupta-v1-audioonly",
+          "show": "The Social Radars",
+          "title": "Founder Mode: Kashish Gupta, Founder and co-CEO of Hightouch",
+          "url": "/wiki/sources/tsr-ycoffsite-kasishgupta-v1-audioonly-tsr-ycoffsite-kasishgupta-v1-audioonly/"
+        },
+        {
+          "episode_file": "全面压制，不留空档：字节跳动如何做增长？｜字节跳动 第7集 [lqSZvMuR6JV8b9XT8rJgmWFdQtEc].md",
+          "key": "quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec",
+          "show": "乱翻书",
+          "title": "全面压制，不留空档：字节跳动如何做增长？｜字节跳动 第7集",
+          "url": "/wiki/sources/quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec/"
+        },
+        {
+          "episode_file": "EP240 “霸总甜宠”在海外：短剧出海的产业密码 [ltVXvfj5ko6DJhsjatipHdy-DzeK].md",
+          "key": "ep240-ba-zong-tian-chong-zai-haiwai-duanju-chuhai-de-chanye-mima-ltvxvfj5ko6djhsjatiphdy-dzek",
+          "show": "Talk三联",
+          "title": "EP240 “霸总甜宠”在海外：短剧出海的产业密码",
+          "url": "/wiki/sources/ep240-ba-zong-tian-chong-zai-haiwai-duanju-chuhai-de-chanye-mima-ltvxvfj5ko6djhsjatiphdy-dzek/"
+        },
+        {
+          "episode_file": "AHARO9404248523 [AHARO9404248523].md",
+          "key": "selling-before-building-1m-arr-in-six-months",
+          "show": "The SaaS Podcast - Real Lessons on Growing Profitable SaaS",
+          "title": "Selling Before Building: $1M ARR in Six Months",
+          "url": "/wiki/sources/selling-before-building-1m-arr-in-six-months/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/automatedperformancemarketing/"
     },
     "AutomotiveOvercapacityRestructuring": {
       "episode_count": 1,
@@ -4520,6 +4573,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/desirabledifficulty/"
     },
+    "DeutscheBahn": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "AHARO9404248523 [AHARO9404248523].md",
+          "key": "selling-before-building-1m-arr-in-six-months",
+          "show": "The SaaS Podcast - Real Lessons on Growing Profitable SaaS",
+          "title": "Selling Before Building: $1M ARR in Six Months",
+          "url": "/wiki/sources/selling-before-building-1m-arr-in-six-months/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/deutschebahn/"
+    },
     "DiagnosticSafetyNetting": {
       "episode_count": 1,
       "show_count": 1,
@@ -4567,6 +4636,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/disciplineovermotivation/"
+    },
+    "DiscoveryLedDemoSprint": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "AHARO9404248523 [AHARO9404248523].md",
+          "key": "selling-before-building-1m-arr-in-six-months",
+          "show": "The SaaS Podcast - Real Lessons on Growing Profitable SaaS",
+          "title": "Selling Before Building: $1M ARR in Six Months",
+          "url": "/wiki/sources/selling-before-building-1m-arr-in-six-months/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/discoveryleddemosprint/"
     },
     "DoctorPatientCommunication": {
       "episode_count": 3,
@@ -9718,6 +9803,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/jushou/"
     },
+    "JuliusKurfgen": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "AHARO9404248523 [AHARO9404248523].md",
+          "key": "selling-before-building-1m-arr-in-six-months",
+          "show": "The SaaS Podcast - Real Lessons on Growing Profitable SaaS",
+          "title": "Selling Before Building: $1M ARR in Six Months",
+          "url": "/wiki/sources/selling-before-building-1m-arr-in-six-months/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/juliuskurfgen/"
+    },
     "KaiserWilhelmII": {
       "episode_count": 2,
       "show_count": 1,
@@ -11893,6 +11994,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/maintainyourbraintrial/"
+    },
+    "ManagedServiceAutomationLayer": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "AHARO9404248523 [AHARO9404248523].md",
+          "key": "selling-before-building-1m-arr-in-six-months",
+          "show": "The SaaS Podcast - Real Lessons on Growing Profitable SaaS",
+          "title": "Selling Before Building: $1M ARR in Six Months",
+          "url": "/wiki/sources/selling-before-building-1m-arr-in-six-months/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/managedserviceautomationlayer/"
     },
     "MaoQinLateHan": {
       "episode_count": 1,
@@ -14259,6 +14376,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/permulandtaxation/"
+    },
+    "PerformanceLinkedAdSpendPricing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "AHARO9404248523 [AHARO9404248523].md",
+          "key": "selling-before-building-1m-arr-in-six-months",
+          "show": "The SaaS Podcast - Real Lessons on Growing Profitable SaaS",
+          "title": "Selling Before Building: $1M ARR in Six Months",
+          "url": "/wiki/sources/selling-before-building-1m-arr-in-six-months/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/performancelinkedadspendpricing/"
     },
     "PerimenopauseBrainMetabolism": {
       "episode_count": 2,
@@ -18275,6 +18408,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/untimelyextravagance/"
+    },
+    "Uplane": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "AHARO9404248523 [AHARO9404248523].md",
+          "key": "selling-before-building-1m-arr-in-six-months",
+          "show": "The SaaS Podcast - Real Lessons on Growing Profitable SaaS",
+          "title": "Selling Before Building: $1M ARR in Six Months",
+          "url": "/wiki/sources/selling-before-building-1m-arr-in-six-months/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/uplane/"
     },
     "UserFeedbackVehicleDefinition": {
       "episode_count": 1,

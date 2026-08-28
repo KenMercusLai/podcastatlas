@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2526
+topic_total_pages: 2528
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -913,6 +913,9 @@ topic_concepts:
   - key: "AthleteDataPrivacyGovernance"
     title: "Athlete Data Privacy Governance"
     url: "/wiki/concepts/athletedataprivacygovernance/"
+  - key: "AtomicContentGuardrails"
+    title: "Atomic Content Guardrails"
+    url: "/wiki/concepts/atomiccontentguardrails/"
   - key: "AttentionIndustrialization"
     title: "Attention Industrialization"
     url: "/wiki/concepts/attentionindustrialization/"
@@ -2221,6 +2224,9 @@ topic_concepts:
   - key: "MaliciousProxyNetworks"
     title: "Malicious Proxy Networks"
     url: "/wiki/concepts/maliciousproxynetworks/"
+  - key: "ManagedServiceAutomationLayer"
+    title: "Managed-Service Automation Layer"
+    url: "/wiki/concepts/managedserviceautomationlayer/"
   - key: "ManagerialAIFluencyGap"
     title: "Managerial AI Fluency Gap"
     url: "/wiki/concepts/managerialaifluencygap/"

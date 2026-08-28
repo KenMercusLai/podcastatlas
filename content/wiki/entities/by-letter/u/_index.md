@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "u"
-wiki_total_pages: 8035
+wiki_total_pages: 8038
 wiki_pages:
   - key: "UDropInn"
     title: "U Drop Inn"
@@ -251,6 +251,9 @@ wiki_pages:
   - key: "UPI"
     title: "UPI"
     url: "/wiki/entities/upi/"
+  - key: "Uplane"
+    title: "Uplane"
+    url: "/wiki/entities/uplane/"
   - key: "UrbanDecay"
     title: "Urban Decay"
     url: "/wiki/entities/urbandecay/"

@@ -7915,6 +7915,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "AtomicContentGuardrails": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "Atoom": [
     {
       "key": "technology",
@@ -36092,6 +36104,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "ManagedServiceAutomationLayer": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "ManagementQualityAsInvestmentEdge": [

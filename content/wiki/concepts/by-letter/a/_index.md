@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 5790
+wiki_total_pages: 5794
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1724,6 +1724,9 @@ wiki_pages:
   - key: "AtomicCapabilityServices"
     title: "Atomic Capability Services"
     url: "/wiki/concepts/atomiccapabilityservices/"
+  - key: "AtomicContentGuardrails"
+    title: "Atomic Content Guardrails"
+    url: "/wiki/concepts/atomiccontentguardrails/"
   - key: "AtrocityBackfireMobilization"
     title: "Atrocity Backfire Mobilization / 暴行反噬式动员"
     url: "/wiki/concepts/atrocitybackfiremobilization/"

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1958
+topic_total_pages: 1959
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -250,6 +250,9 @@ topic_concepts:
   - key: "AthleteDataPrivacyGovernance"
     title: "Athlete Data Privacy Governance"
     url: "/wiki/concepts/athletedataprivacygovernance/"
+  - key: "AtomicContentGuardrails"
+    title: "Atomic Content Guardrails"
+    url: "/wiki/concepts/atomiccontentguardrails/"
   - key: "AudienceVsMeetingDiplomacy"
     title: "Audience-Versus-Meeting Diplomacy / 朝会之别"
     url: "/wiki/concepts/audiencevsmeetingdiplomacy/"

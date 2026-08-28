@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 8035
+wiki_total_pages: 8038
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -413,6 +413,9 @@ wiki_pages:
   - key: "Detroit"
     title: "Detroit"
     url: "/wiki/entities/detroit/"
+  - key: "DeutscheBahn"
+    title: "Deutsche Bahn"
+    url: "/wiki/entities/deutschebahn/"
   - key: "Devin"
     title: "Devin"
     url: "/wiki/entities/devin/"

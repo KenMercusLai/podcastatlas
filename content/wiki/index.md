@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Selling Before Building: $1M ARR in Six Months](sources/selling-before-building-1m-arr-in-six-months.md) — The SaaS Podcast episode with Julius Kurfgen on Uplane, selling before building, one-week demo sprints, managed-service AI marketing automation, performance-linked ad-spend pricing, and atomic content guardrails.
 - [689. A Murderous Affair: The Habsburgs' Greatest Scandal (Part 1)](sources/689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702.md) — The Rest Is History episode on Crown Prince Rudolf's Habsburg formation, Austria-Hungary's dual-monarchy strains, fin-de-siecle Vienna, and Mary Vetsera's first access to Rudolf.
 - [Accelerate Learning & Increase Cognitive Capacity | Dr. Tommy Wood](sources/accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551.md) — Huberman Lab episode with Tommy Wood on adult neuroplasticity, multimodal learning, flow versus clutch states, exercise-specific brain adaptation, nutrient sufficiency, dementia prevention, and concussion recovery.
 - [VOL.214 为什么越优秀的人，越容易在职场被PUA到怀疑自己？从《铁拳教育》聊到“铁拳职场”](sources/vol-214-weishenme-yue-youxiu-de-ren-yue-rongyi-zai-zhichang-bei-pua-dao-huaiyi-ziji-cong-tiequan-jiaoyu-liaodao-tiequan-zhichang-lmx4ewrw7kvcqpyh-q3bur35ybgz.md) — 这病说来话长 episode with 阿汤 and 南基贺 on 《铁拳教育》, workplace bullying, structural power imbalance, parental projection, psychological boundaries, evidence preservation, and nonviolent complaint/support routes.
@@ -1611,6 +1612,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Uplane](entities/Uplane.md) — AI marketing automation company using sell-first validation, managed service delivery, performance-linked pricing, and brand-safe campaign guardrails.
+- [Julius Kurfgen](entities/JuliusKurfgen.md) — Uplane co-founder whose SaaS Podcast interview anchors sell-first demo sprints, managed-service AI marketing automation, and atomic content guardrails.
+- [Deutsche Bahn](entities/DeutscheBahn.md) — Enterprise customer case in Uplane's source, showing slow ad-formatting automation as a wedge into compliance, purchasing, and cross-team marketing adoption.
 - [Princess Stephanie of Belgium](entities/PrincessStephanieOfBelgium.md) — Rudolf's arranged wife, whose fearful marriage, illness context, and daughter Elisabeth Marie sharpen the Mayerling succession pressure.
 - [Elisabeth Marie of Austria](entities/ElisabethMarieOfAustria.md) — Rudolf and Stephanie's daughter, named as the later Red Archduchess and as a dynastic child who does not resolve the male-heir problem.
 - [Georg von Schonerer](entities/GeorgVonSchonerer.md) — Pan-German nationalist and extremist antisemite used as Rudolf's political counterpoint in late-Habsburg Vienna.
@@ -9650,6 +9654,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Discovery-Led Demo Sprint](concepts/DiscoveryLedDemoSprint.md) — Sales-first validation tactic that turns a discovery call into a near-term, customer-specific working demo.
+- [Managed-Service Automation Layer](concepts/ManagedServiceAutomationLayer.md) — Hybrid SaaS delivery model where human operators use and supervise automation while the product and customer self-serve path mature.
+- [Atomic Content Guardrails](concepts/AtomicContentGuardrails.md) — AI marketing control pattern where generated campaigns are assembled from approved brand, product, compliance, creative, and data components.
+- [Performance-Linked Ad Spend Pricing](concepts/PerformanceLinkedAdSpendPricing.md) — Marketing automation pricing pattern combining a fixed operating fee with variable fees tied to managed spend or campaign performance.
 - [帝王私欲治理风险 / Imperial Private Desire Governance Risk](concepts/ImperialPrivateDesireGovernanceRisk.md) — Pattern where a ruler's appetite, affection, companionship, or prestige desire becomes a public governance problem through resource burden, reward distortion, or access capture.
 - [进言不纳后的抽身 / Counsel Exit After Nonresponse](concepts/CounselExitAfterNonresponse.md) — Political-survival pattern where an adviser withdraws after counsel has been delivered, ignored, and made risky to repeat.
 - [Austro-Hungarian Dual Monarchy](concepts/AustroHungarianDualMonarchy.md) — 1867 compromise preserving Habsburg rule while formalizing budget, army, tariff, minority-rights, and nationalities tensions.
@@ -14649,7 +14657,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Embodied Robot Data Paradigms](concepts/EmbodiedRobotDataParadigms.md) — Shift from Aloha-style teleoperation toward UMI, egocentric video, motion capture, and dexterous-hand data.
 - [ByteDance Growth System](concepts/ByteDanceGrowthSystem.md) — Company-level growth capability combining growth BP, LTV models, automated buying, creative material, risk control, internal traffic, and localization.
 - [LTV-Based Growth Budgeting](concepts/LTVBasedGrowthBudgeting.md) — Growth budgeting method that uses long-horizon user value, Ry1/Ry2/Ry3 cost layers, and retention assumptions to justify acquisition spend.
-- [Automated Performance Marketing](concepts/AutomatedPerformanceMarketing.md) — Codifying bidding, budget, placement, campaign structure, and optimization rules into systems rather than relying only on human media buyers.
+- [Automated Performance Marketing](concepts/AutomatedPerformanceMarketing.md) — Campaign automation that links bidding, budgets, creative generation, customer-data decisioning, monitoring, and governed performance iteration.
 - [Creative Material Industrialization](concepts/CreativeMaterialIndustrialization.md) — Tagged, reviewed, recombinable, and measurable advertising creative supply chain used in large-scale performance growth.
 - [Growth Risk Control](concepts/GrowthRiskControl.md) — Control layer for fake users, unsafe material, attribution pollution, financial leakage, and compliance failures in growth systems.
 - [Red Packet Growth](concepts/RedPacketGrowth.md) — Incentive-growth pattern using tiered and delayed rewards tied to later user behavior and contribution.
