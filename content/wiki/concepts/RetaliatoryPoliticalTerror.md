@@ -5,15 +5,18 @@ tags: [political-violence, court-politics, late-han, retaliation, coercion]
 sources:
   - zizhi-tongjian-hanji-846-bahu-jiangjun-bingshan-yijiao-de-fanzui-jilu-lv7fbvoqr1nureqgvwiwixjyk4pq
   - zizhi-tongjian-hanji-843-gudai-nongmin-pinkun-de-genyuan-shi-shenme-lutep8yyzanhlb4ao6sope-8edvy
+  - zizhi-tongjian-hanji-833-tanguan-neng-you-duo-lipu-kanwan-dadieyanjing-lqudlijjyqmcro-wsmrvwkodgt72
 last_updated: 2026-08-28
 knowledge_schema: synthesis-v1
 ---
 
 ## Definition
 
-Retaliatory political terror is the pattern where a powerholder converts omen accusation, refusal, warning, omission, lawful enforcement, property resistance, or association with critics into lethal punishment, using exemplary killings and family liability to make ordinary correction or noncompliance unsafe.
+Retaliatory political terror is the pattern where a powerholder converts omen accusation, refusal, warning, omission, lawful enforcement, property resistance, partial compliance, or association with critics into lethal punishment, using fabricated accusation, prison torture, exemplary killings, confiscation, and family liability to make ordinary correction or noncompliance unsafe.
 
 ## Current Synthesis
+
+Hanji 833 supplies an earlier wealth-extortion branch to [[LiangJiLateHan|梁冀]]'s terror record. [[SunFenFufengLateHan|Sun Fen]] is targeted because he is rich; Liang turns a gift and loan request into coercive payment, treats partial compliance as offense, then uses a false claim against Sun Fen's mother, prison torture, and property seizure to destroy the household. The same source's rabbit-park deaths show Liang making private pleasure legally lethal for outsiders who do not understand his household rules.
 
 Hanji 843 adds an earlier omen-accusation branch to [[LiangJiLateHan|梁冀]]'s late-Han terror record. [[ChenShouTaishiLingLateHan|Chen Shou the Taishi ling]] blames a solar eclipse on Liang through [[XuHuangLateHan|Xu Huang]], after which Liang has the Luoyang magistrate arrest and torture him until he dies; [[EmperorHuanOfHan|Emperor Huan]] knows but does not visibly act.
 
@@ -25,13 +28,17 @@ The current synthesis treats terror as a governance mechanism. When a powerholde
 
 - Terror begins when private grievance can be converted into official accusation, execution, poisoning, or household punishment.
 - Omen or disaster-responsibility claims become dangerous when they name an overmighty actor rather than staying abstract.
-- The victim does not need to rebel; refusal, warning, omitted deference, or lawful enforcement can be enough.
+- The victim does not need to rebel; refusal, warning, omitted deference, partial compliance, or lawful enforcement can be enough.
 - Protected retainers make local office dangerous because public law collides with the powerholder's private network.
 - Family liability extends the terror beyond the named actor and forces kin-preservation calculations.
 - Corrective speech fails when warning a powerholder is treated as exposing or threatening him.
 
 ## Evidence
 
+- Coerced payment punished: [[zizhi-tongjian-hanji-833-tanguan-neng-you-duo-lipu-kanwan-dadieyanjing-lqudlijjyqmcro-wsmrvwkodgt72|Hanji 833]] says Liang Ji demands a large loan from Sun Fen, receives only part of it, and then retaliates.
+- False accusation and prison violence: [[zizhi-tongjian-hanji-833-tanguan-neng-you-duo-lipu-kanwan-dadieyanjing-lqudlijjyqmcro-wsmrvwkodgt72|Hanji 833]] says Liang falsely accuses Sun Fen's mother of being a stolen Liang-family servant, and Sun Fen plus his brother die under prison torture.
+- Confiscation outcome: [[zizhi-tongjian-hanji-833-tanguan-neng-you-duo-lipu-kanwan-dadieyanjing-lqudlijjyqmcro-wsmrvwkodgt72|Hanji 833]] says Liang seizes Sun Fen's household wealth after the prison deaths.
+- Private rule made lethal: [[zizhi-tongjian-hanji-833-tanguan-neng-you-duo-lipu-kanwan-dadieyanjing-lqudlijjyqmcro-wsmrvwkodgt72|Hanji 833]] says a mistaken killing in Liang's rabbit park leads to more than ten deaths, showing private pleasure defended through lethal state-like punishment.
 - Omen accusation punished: [[zizhi-tongjian-hanji-843-gudai-nongmin-pinkun-de-genyuan-shi-shenme-lutep8yyzanhlb4ao6sope-8edvy|Hanji 843]] says Chen Shou the Taishi ling blames a solar eclipse on Liang Ji, then is arrested, tortured, and killed after Liang hears of the report.
 - Retainer enforcement punished: [[zizhi-tongjian-hanji-846-bahu-jiangjun-bingshan-yijiao-de-fanzui-jilu-lv7fbvoqr1nureqgvwiwixjyk4pq|Hanji 846]] says Wu Shu kills harmful Liang guests after refusing protection and is later poisoned by Liang.
 - Omitted deference punished: [[zizhi-tongjian-hanji-846-bahu-jiangjun-bingshan-yijiao-de-fanzui-jilu-lv7fbvoqr1nureqgvwiwixjyk4pq|Hanji 846]] says Hao Meng is executed before taking office after he has not yet visited Liang.
@@ -42,16 +49,18 @@ The current synthesis treats terror as a governance mechanism. When a powerholde
 
 ## Counterevidence & Qualifications
 
-This concept is currently grounded in two late-Han source notes and should not be treated as a universal model of all political violence. Hanji 843 gives a compact omen-accusation case; Hanji 846 gives a concentrated victim list. Detailed counts, legal forms, and exact chronology of each case remain source-scoped. The concept also differs from lawful punishment: its diagnostic feature is retaliation for offense to an overmighty actor, not proof-based public adjudication.
+This concept is currently grounded in three late-Han source notes and should not be treated as a universal model of all political violence. Hanji 833 gives a compact wealth-extortion and private-rule case; Hanji 843 gives a compact omen-accusation case; Hanji 846 gives a concentrated victim list. Detailed counts, legal forms, property figures, and exact chronology of each case remain source-scoped. The concept also differs from lawful punishment: its diagnostic feature is retaliation for offense to an overmighty actor, not proof-based public adjudication.
 
 ## What Changed
 
+- Hanji 833 adds an earlier wealth-extortion branch through Sun Fen and a private-rule lethality branch through Liang's rabbit park.
 - Added Hanji 843 as an earlier omen-accusation branch before Hanji 846's larger Liang Ji victim chain.
 - Kept the concept focused on retaliatory coercion rather than all forms of Liang Ji misconduct.
 
 ## Related Concepts
 
 - [[OuterRelativeCourtPower|外戚专权与清算]] - structural host in which kinship, office, property, and violence reinforce Liang's power.
+- [[SunFenFufengLateHan|孙奋]] - victim case showing coerced payment, false accusation, prison death, and confiscation.
 - [[CelestialOmenPoliticalResponsibility|天象政治责任]] - omen-blame mechanism that makes Chen Shou's eclipse report politically dangerous.
 - [[OmenCodedRemonstrance|天象灾异包装式进谏]] - adjacent speech form when disaster interpretation carries criticism of court actors.
 - [[CourtFeedbackCollapse|君臣反馈失灵]] - feedback failure intensified when correction becomes lethal.

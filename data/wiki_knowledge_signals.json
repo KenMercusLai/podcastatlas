@@ -13033,9 +13033,9 @@
       "url": "/wiki/entities/liangbuyilatehan/"
     },
     "LiangJiLateHan": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿” [lvSA2pby8IyfEvfooBoBpIK52MiJ].md",
@@ -13106,6 +13106,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》834丨历史告诉你：小人为何长戚戚？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-834-lishi-gaosu-ni-xiaoren-weihe-chang-qiqi-lj8z2vfu6lpggumcakwejoi6z9hc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》833丨贪官能有多离谱？看完大跌眼镜！ [lqUdlIJJyqmCrO_WsMRvwKodgT72].md",
+          "key": "zizhi-tongjian-hanji-833-tanguan-neng-you-duo-lipu-kanwan-dadieyanjing-lqudlijjyqmcro-wsmrvwkodgt72",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》833丨贪官能有多离谱？看完大跌眼镜！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-833-tanguan-neng-you-duo-lipu-kanwan-dadieyanjing-lqudlijjyqmcro-wsmrvwkodgt72/"
         }
       ],
       "updated": "2026-08-28",
@@ -16752,9 +16759,9 @@
       "url": "/wiki/concepts/outdoorvehiclelifestyledesign/"
     },
     "OuterRelativeCourtPower": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》848丨瞬间垮台！我为何说他死有余辜？ [lgqVgMxlwga2fKnmtxPj3Ya9chk0].md",
@@ -16811,6 +16818,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》834丨历史告诉你：小人为何长戚戚？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-834-lishi-gaosu-ni-xiaoren-weihe-chang-qiqi-lj8z2vfu6lpggumcakwejoi6z9hc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》833丨贪官能有多离谱？看完大跌眼镜！ [lqUdlIJJyqmCrO_WsMRvwKodgT72].md",
+          "key": "zizhi-tongjian-hanji-833-tanguan-neng-you-duo-lipu-kanwan-dadieyanjing-lqudlijjyqmcro-wsmrvwkodgt72",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》833丨贪官能有多离谱？看完大跌眼镜！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-833-tanguan-neng-you-duo-lipu-kanwan-dadieyanjing-lqudlijjyqmcro-wsmrvwkodgt72/"
         }
       ],
       "updated": "2026-08-28",
@@ -18037,6 +18051,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/qihoo360/"
     },
+    "QinGongLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》833丨贪官能有多离谱？看完大跌眼镜！ [lqUdlIJJyqmCrO_WsMRvwKodgT72].md",
+          "key": "zizhi-tongjian-hanji-833-tanguan-neng-you-duo-lipu-kanwan-dadieyanjing-lqudlijjyqmcro-wsmrvwkodgt72",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》833丨贪官能有多离谱？看完大跌眼镜！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-833-tanguan-neng-you-duo-lipu-kanwan-dadieyanjing-lqudlijjyqmcro-wsmrvwkodgt72/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/qingonglatehan/"
+    },
     "QingyiReputationPressure": {
       "episode_count": 5,
       "show_count": 1,
@@ -18592,9 +18622,9 @@
       "url": "/wiki/concepts/restaurantdeliveryextension/"
     },
     "RetaliatoryPoliticalTerror": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》846丨“跋扈将军”冰山一角的犯罪记录 [lv7fbvoQr1NurEQGVwIwiXJYK4pq].md",
@@ -18609,6 +18639,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》843丨古代农民贫困的根源是什么？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-843-gudai-nongmin-pinkun-de-genyuan-shi-shenme-lutep8yyzanhlb4ao6sope-8edvy/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》833丨贪官能有多离谱？看完大跌眼镜！ [lqUdlIJJyqmCrO_WsMRvwKodgT72].md",
+          "key": "zizhi-tongjian-hanji-833-tanguan-neng-you-duo-lipu-kanwan-dadieyanjing-lqudlijjyqmcro-wsmrvwkodgt72",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》833丨贪官能有多离谱？看完大跌眼镜！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-833-tanguan-neng-you-duo-lipu-kanwan-dadieyanjing-lqudlijjyqmcro-wsmrvwkodgt72/"
         }
       ],
       "updated": "2026-08-28",
@@ -20850,6 +20887,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/sunceassassination/"
     },
+    "SunFenFufengLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》833丨贪官能有多离谱？看完大跌眼镜！ [lqUdlIJJyqmCrO_WsMRvwKodgT72].md",
+          "key": "zizhi-tongjian-hanji-833-tanguan-neng-you-duo-lipu-kanwan-dadieyanjing-lqudlijjyqmcro-wsmrvwkodgt72",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》833丨贪官能有多离谱？看完大跌眼镜！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-833-tanguan-neng-you-duo-lipu-kanwan-dadieyanjing-lqudlijjyqmcro-wsmrvwkodgt72/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/sunfenfufenglatehan/"
+    },
     "SunFuLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -20913,9 +20966,9 @@
       "url": "/wiki/entities/sunshengeasternjin/"
     },
     "SunShouLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》848丨瞬间垮台！我为何说他死有余辜？ [lgqVgMxlwga2fKnmtxPj3Ya9chk0].md",
@@ -20930,6 +20983,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》847丨女人变得好命，从懂得这俩字开始",
           "url": "/wiki/sources/zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》833丨贪官能有多离谱？看完大跌眼镜！ [lqUdlIJJyqmCrO_WsMRvwKodgT72].md",
+          "key": "zizhi-tongjian-hanji-833-tanguan-neng-you-duo-lipu-kanwan-dadieyanjing-lqudlijjyqmcro-wsmrvwkodgt72",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》833丨贪官能有多离谱？看完大跌眼镜！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-833-tanguan-neng-you-duo-lipu-kanwan-dadieyanjing-lqudlijjyqmcro-wsmrvwkodgt72/"
         }
       ],
       "updated": "2026-08-28",

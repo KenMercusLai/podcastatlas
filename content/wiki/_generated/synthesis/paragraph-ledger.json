@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "e2cd5dc2bdaf589319b990e389554ba320adcd3e78932eb2f3f6826ba5da3001",
       "d988a106d1d07b68982103121727cd14b2e7e32e200c83c49a9ebe77d99f8b64",
       "1d7b38e986ea1249524e8c436e5aff2777b3145a891953394c9c15443b7b57c3",
       "f52125eea27ebc3fff165a4536d009297d2066b965df8af495fc6a939880ccb2",
@@ -337,11 +338,39 @@
       "41cadfb91ef6894bc7d9cd5c4e55012480b0225b71a6a027d18e9565e8357c0c",
       "d589a53c87e197a55033f79a64a0ec3a258b8cbc050ee0e70dcc6388df48a243"
     ],
-    "paragraph_count": 335
+    "paragraph_count": 336
   },
-  "overview_commit": "46ef38068a9b6822c2f122af76c12722a9e2ffc8",
-  "overview_digest": "cc9cd76cff3ad9b500a2e6010ca062c52fa619b80ac40dcd4eae9e9e8b9ace71",
+  "overview_commit": "97f9458553170ec7b5b3d87b6ea8b0b4d0429bb5",
+  "overview_digest": "dd3fda37567542b3ea2f71b630f7bec6d53c56b3ae308604c5adace7c20bd8b1",
   "paragraphs": [
+    {
+      "id": "e2cd5dc2bdaf589319b990e389554ba320adcd3e78932eb2f3f6826ba5da3001",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-833-tanguan-neng-you-duo-lipu-kanwan-dadieyanjing-lqudlijjyqmcro-wsmrvwkodgt72|《资治通鉴·汉纪》833丨贪官能有多离谱？看完大跌眼镜！]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 150 CE Liang Ji privilege-and-extraction layer immediately before [[zizhi-tongjian-hanji-834-lishi-gaosu-ni-xiaoren-weihe-chang-qiqi-lj8z2vfu6lpggumcakwejoi6z9hc|Hanji 834]] and [[zizhi-tongjian-hanji-835-donghan-diyi-quanchen-weihe-yao-gui-ta-lpwezt-z-2qloitwd3t4gyxznqbo|Hanji 835]]. It adds [[QinGongLateHan|秦功]] and [[SunFenFufengLateHan|孙奋]], while extending [[LiangJiLateHan|梁冀]], [[SunShouLateHan|孙寿]], [[EmperorHuanOfHan|汉桓帝]], [[LuoyangLateHan|洛阳]], [[OuterRelativeCourtPower|外戚专权与清算]], [[RetaliatoryPoliticalTerror|报复性政治恐怖]], [[CollateralPunishmentAndGuiltByAssociation|牵连与连坐]], and [[UnboundedEliteRewardDemand|受宠权臣的无餍封赏]]. Its core synthesis is that Liang power is already functioning as household extraction before Zhu Mu's warning and Zhang Ling's court-law check: titled rewards and spouse revenue normalize the bloc, Qin Gong turns private access into public gatekeeping, private parks and coerced \"self-sellers\" put pleasure over ordinary lives, and Sun Fen's partial compliance still ends in false accusation, prison death, and confiscation. No settled contradiction is recorded; 梁继 is normalized to 梁冀, while 秦功 spelling, Liang dowager details, exact income and wealth figures, and rabbit-park legal wording remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 4,
+        "history-and-geopolitics": 2
+      },
+      "wikilinks": [
+        "CollateralPunishmentAndGuiltByAssociation",
+        "EmperorHuanOfHan",
+        "LiangJiLateHan",
+        "LuoyangLateHan",
+        "OuterRelativeCourtPower",
+        "QinGongLateHan",
+        "RetaliatoryPoliticalTerror",
+        "RuiqiJiangtouZizhiTongjian",
+        "SunFenFufengLateHan",
+        "SunShouLateHan",
+        "UnboundedEliteRewardDemand",
+        "zizhi-tongjian-hanji-833-tanguan-neng-you-duo-lipu-kanwan-dadieyanjing-lqudlijjyqmcro-wsmrvwkodgt72",
+        "zizhi-tongjian-hanji-834-lishi-gaosu-ni-xiaoren-weihe-chang-qiqi-lj8z2vfu6lpggumcakwejoi6z9hc",
+        "zizhi-tongjian-hanji-835-donghan-diyi-quanchen-weihe-yao-gui-ta-lpwezt-z-2qloitwd3t4gyxznqbo"
+      ]
+    },
     {
       "id": "d988a106d1d07b68982103121727cd14b2e7e32e200c83c49a9ebe77d99f8b64",
       "primary_topic": "governance-and-institutions",

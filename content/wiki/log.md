@@ -13104,3 +13104,11 @@ Ingested Hanji 834 as the 150-151 CE Liang Ji warning and proxy-enforcement back
 ## [2026-08-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-28] ingest | 《资治通鉴·汉纪》833丨贪官能有多离谱？看完大跌眼镜！
+
+Ingested Hanji 833 as the 150 CE Liang Ji privilege-and-extraction backfill. Created the source note, Qin Gong, and Sun Fen pages; updated Liang Ji, Sun Shou, Outer-Relative Court Power, Retaliatory Political Terror, index, and overview. No settled contradiction found; 梁继 is normalized to 梁冀, while 秦功 spelling, Liang dowager details, exact income and wealth figures, and rabbit-park legal wording remain source-scoped.
+
+## [2026-08-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
