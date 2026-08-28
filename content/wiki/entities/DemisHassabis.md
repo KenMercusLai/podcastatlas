@@ -2,26 +2,52 @@
 title: "Demis Hassabis"
 type: entity
 tags: [person, ai, deepmind, science]
-sources: [kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054, e226-liaoliao-deepmind-chuangshiren-hasabisi-yige-kexuejia-yu-shikong-de-ai-jingsai-7abda28b-99c6-4ebc-8c0d-37bcc77f6a73, all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555]
-last_updated: 2026-08-25
+knowledge_schema: synthesis-v1
+sources:
+  - kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054
+  - e226-liaoliao-deepmind-chuangshiren-hasabisi-yige-kexuejia-yu-shikong-de-ai-jingsai-7abda28b-99c6-4ebc-8c0d-37bcc77f6a73
+  - all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555
+  - all-in-with-chamath-jason-sacks-friedberg-can-the-ai-industry-regulate-itself-stripe-wants-paypal-china-catches-up-ny-bans-datacenters-42134305
+last_updated: 2026-08-28
 ---
 
 # Demis Hassabis
 
-[[all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555]] adds an investor-market interpretation of the later organizational note: Hassabis's reported move toward chair and chief-scientist responsibilities is discussed as a possible management-tempo signal inside [[GoogleDeepMind]], not as a change to his original scientific identity. The episode links that role shift to [[Gemini]] competition, [[JeffDean]]'s reported [[DiscoveryLoop]] move, and [[AIHyperscalerModelChannelConflict]].
+## Overview
+Demis Hassabis is a DeepMind and Google DeepMind founder-leader whom the wiki tracks as a bridge between scientific AI ambition, frontier-lab competition, and AI governance.
 
-Demis Hassabis is the central figure in [[e226-liaoliao-deepmind-chuangshiren-hasabisi-yige-kexuejia-yu-shikong-de-ai-jingsai-7abda28b-99c6-4ebc-8c0d-37bcc77f6a73]]. The [[SiliconValley101]] episode reads him as a scientist-founder whose path moved from chess prodigy and game developer to neuroscience PhD, [[DeepMind]] founder, [[AlphaGo]] and [[AlphaFold]] leader, and later CEO of [[GoogleDeepMind]].
+## Current Profile
+Across the sources, Hassabis is primarily a scientist-founder rather than a conventional commercial executive. Silicon Valley 101 frames his path from chess, games, neuroscience, DeepMind, AlphaGo, and AlphaFold into a wider ambition to understand intelligence and use AI for science. Later business-news and All-In sources add pressure around Google DeepMind leadership, Gemini competition, compute allocation, and public governance proposals.
 
-[[kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054]] adds a later organizational note: the source says Hassabis will leave daily [[GoogleDeepMind]] operations and become chair of Google DeepMind and chief scientist of Google's parent company. This extends the page's science-versus-race tension into a management question about how much of a frontier lab's product tempo remains founder-led.
+The latest source updates the profile by making Hassabis an explicit AI self-regulation actor. His proposed FINRA-modeled standards body extends the earlier science-versus-AI-race tension: the same person associated with AI-for-science optimism is now also proposing institutional controls for frontier AI release risk.
 
-The source's Hassabis is not primarily a commercial founder archetype. [[ZhouJiangong]] describes him as calm, specific, fast-thinking, and wiser than merely clever, while [[SebastianMallaby]]'s biography is used to frame his durable motive as understanding intelligence and using AI for science. That makes him a bridge between [[AIForScience]], [[ReinforcementLearningAGIPath]], and [[ScientificIdealVsAIArmsRace]].
+## Key Characteristics
+- Hassabis is consistently presented as a scientist-founder motivated by intelligence, games, neuroscience, and scientific discovery.
+- AlphaGo and AlphaFold make his profile a bridge between reinforcement-learning history and concrete AI-for-science achievement.
+- His leadership is increasingly interpreted through frontier-lab competition, Google DeepMind organizational pressure, and Gemini's race with OpenAI and Anthropic.
+- Sources preserve a tension between his scientific ideal and the strategic pressure of a fast AI race.
+- The latest source adds AI governance design through a proposed U.S.-led, FINRA-modeled standards body for frontier models.
 
-The source also preserves a character tension. Hassabis is described as someone who does not want to control people, but who strongly wants to win in chess, games, poker, and the AI race. The episode closes by asking whether a scientist who wants to do the right thing can still control a technology that becomes increasingly autonomous and strategically valuable.
+## Evidence
+- Scientist-founder claim: [[e226-liaoliao-deepmind-chuangshiren-hasabisi-yige-kexuejia-yu-shikong-de-ai-jingsai-7abda28b-99c6-4ebc-8c0d-37bcc77f6a73]] reads Hassabis through chess, games, neuroscience, DeepMind, AlphaGo, AlphaFold, and scientific ambition.
+- Organizational-transition claim: [[kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054]] reports a later Google DeepMind role shift in a short business-news segment.
+- Market-pressure claim: [[all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555]] interprets the role shift alongside Jeff Dean, DiscoveryLoop, Gemini, and Google compute priorities.
+- Governance claim: [[all-in-with-chamath-jason-sacks-friedberg-can-the-ai-industry-regulate-itself-stripe-wants-paypal-china-catches-up-ny-bans-datacenters-42134305]] adds Hassabis's AI standards-body proposal and the All-In debate over whether that form of self-regulation avoids or creates permissioning risk.
 
-## Connections
-- [[JeffDean]], [[DiscoveryLoop]], [[AIHyperscalerModelChannelConflict]], and [[FrontierModelDuopoly]] - All-In branch around Google AI organization and model-market pressure.
-- [[DeepMind]], [[GoogleDeepMind]], [[Google]], and [[Gemini]] — company and product path.
-- [[ShaneLegg]], [[MustafaSuleyman]], [[DavidSilver]], and [[JohnJumper]] — collaborators and institution-builders in the source.
-- [[AlphaGo]], [[AlphaFold]], [[AIForScience]], and [[AIProteinDesign]] — achievements used to explain his scientific route.
-- [[LarryPage]], [[MarkZuckerberg]], [[ElonMusk]], and [[ZhouKaixuan]] — acquisition and financing context.
-- [[AIAlignmentGovernance]] and [[ScientificIdealVsAIArmsRace]] — risk and control tension.
+## Qualifications
+The role-shift and standards-body discussions are source-scoped summaries from podcast sources, not official employment records or complete policy documents. Hassabis's personal motive should not be inferred beyond what these sources directly frame.
+
+## What Changed
+- Added Hassabis's proposed FINRA-modeled AI standards body.
+- Updated the profile from science-and-competition tension to include formal governance design.
+- Clarified that Hassabis now links [[AIForScience]] and [[AIIndustrySelfRegulation]] in the wiki.
+
+## Relationships
+- [[GoogleDeepMind]] - current organizational context across later sources.
+- [[DeepMind]] - institution Hassabis founded and through which his scientific AI route is described.
+- [[AlphaGo]] - game-AI milestone in the scientist-founder narrative.
+- [[AlphaFold]] - scientific-AI milestone that anchors his applied-science profile.
+- [[Gemini]] - frontier model whose competition shapes the later Google DeepMind context.
+- [[AIIndustrySelfRegulation]] - governance concept extended by his standards-body proposal.
+- [[FrontierModelReleaseGovernance]] - release-risk problem his proposed body would address.
+- [[ScientificIdealVsAIArmsRace]] - recurring tension in how sources interpret him.

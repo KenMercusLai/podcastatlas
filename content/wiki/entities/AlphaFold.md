@@ -2,24 +2,51 @@
 title: "AlphaFold"
 type: entity
 tags: [ai, biology, protein-structure]
-sources: [data-ai-and-scientific-research-a-coffee-chat, ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz, e226-liaoliao-deepmind-chuangshiren-hasabisi-yige-kexuejia-yu-shikong-de-ai-jingsai-7abda28b-99c6-4ebc-8c0d-37bcc77f6a73]
-last_updated: 2026-08-18
+knowledge_schema: synthesis-v1
+sources:
+  - data-ai-and-scientific-research-a-coffee-chat
+  - ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz
+  - e226-liaoliao-deepmind-chuangshiren-hasabisi-yige-kexuejia-yu-shikong-de-ai-jingsai-7abda28b-99c6-4ebc-8c0d-37bcc77f6a73
+  - all-in-with-chamath-jason-sacks-friedberg-can-the-ai-industry-regulate-itself-stripe-wants-paypal-china-catches-up-ny-bans-datacenters-42134305
+last_updated: 2026-08-28
 ---
 
 # AlphaFold
 
-[[e226-liaoliao-deepmind-chuangshiren-hasabisi-yige-kexuejia-yu-shikong-de-ai-jingsai-7abda28b-99c6-4ebc-8c0d-37bcc77f6a73]] adds AlphaFold as [[DemisHassabis]]' move from game AI toward scientific discovery. The [[SiliconValley101]] episode says [[DeepMind]] chose protein folding after [[AlphaGo]], moved through several neural-network approaches, and reached the source's central [[AIForScience]] proof point with [[JohnJumper]] and AlphaFold2.
+## Overview
+AlphaFold is a DeepMind and Google DeepMind protein-structure system that the wiki uses as a recurring proof point for AI's ability to accelerate parts of scientific research.
 
-AlphaFold appears in [[ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz]] as a major precedent for applying modern AI architectures to protein-structure work. [[HaotianOdin]] treats it as part of the broader technical wind behind [[AIProteinDesign]] and [[AIForScience]], while still arguing that specific architectures should remain subordinate to the scientific problem.
+## Current Profile
+AlphaFold's wiki profile is not a full technical history. It is a cross-source marker for AI-for-science credibility: Data Science With Sam uses it as a major scientific machine-learning breakthrough, Silicon Valley 101 ties it to Demis Hassabis's move from games to biology with John Jumper, Yinglingdian treats it as a precedent for protein and molecular design, and the latest All-In source extends it into an anti-aging enzyme-discovery workflow.
 
-The page's role in this wiki is source-scoped: AlphaFold is not presented here as a full technical history, but as a sign that molecular biology became a concrete domain where model breakthroughs, biological data, and validation loops could visibly compress parts of scientific work. In the source, that precedent helps make [[YinglingdianAI]]'s [[AllModalMolecularWorldModel]] bet legible.
+The current profile is therefore that AlphaFold matters most when structure prediction feeds a broader experimental loop. The new source strengthens its applied-science role, but also makes the limitation clear: structure and binding insight still need directed evolution, high-throughput testing, delivery strategy, and biological validation.
 
-[[data-ai-and-scientific-research-a-coffee-chat]] adds AlphaFold as [[SamDataScienceWithSam|Sam]]'s example of a major machine-learning breakthrough in scientific research. The source uses it less to retell DeepMind history than to ask what makes such breakthroughs possible: [[ExperimentalScienceDataQuality]], [[DomainExpertAlignment]], and [[AIVerification]] around biological data and experimental interpretation.
+## Key Characteristics
+- Protein-structure prediction is AlphaFold's core identity in the wiki, especially as a visible AI-for-science breakthrough.
+- The system anchors Demis Hassabis's scientific-founder narrative by moving DeepMind from games into biological discovery.
+- Later biology sources treat AlphaFold as a precedent rather than the whole field; molecular design also needs cross-modal reasoning and wet-lab feedback.
+- The latest source uses AlphaFold as part of an enzyme-discovery workflow aimed at CML glycation damage, not as a standalone therapy.
+- AlphaFold's durable significance is strongest when paired with experimental data quality, domain expertise, and verification.
 
-## Connections
-- [[GoogleDeepMind]] — organizational context for AlphaFold in the broader wiki.
-- [[AIProteinDesign]], [[AIDrugDiscoveryPlatform]], and [[AIForScience]] — adjacent biological AI themes.
-- [[BakerLab]], [[DavidBaker]], and [[HaotianOdin]] — protein-design branch discussed in the source.
-- [[ScientificDiscoveryAutomation]] and [[AIVerification]] — discovery and validation implications.
-- [[DemisHassabis]], [[DeepMind]], and [[JohnJumper]] — DeepMind history added by Silicon Valley 101.
-- [[DataScienceWithSam]], [[ExperimentalScienceDataQuality]], and [[HumanDrivenScientificAI]] - Coffee Chat context where AlphaFold is used as a scientific-AI proof point.
+## Evidence
+- Scientific breakthrough claim: [[data-ai-and-scientific-research-a-coffee-chat]] uses AlphaFold as Sam's example of a major machine-learning result in scientific research while emphasizing data and verification requirements.
+- Hassabis and DeepMind claim: [[e226-liaoliao-deepmind-chuangshiren-hasabisi-yige-kexuejia-yu-shikong-de-ai-jingsai-7abda28b-99c6-4ebc-8c0d-37bcc77f6a73]] places AlphaFold after AlphaGo as DeepMind's move into concrete AI-for-science value with John Jumper.
+- Protein-design precedent claim: [[ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz]] treats AlphaFold as enabling context for protein design while warning against architecture fixation.
+- Applied enzyme claim: [[all-in-with-chamath-jason-sacks-friedberg-can-the-ai-industry-regulate-itself-stripe-wants-paypal-china-catches-up-ny-bans-datacenters-42134305]] links AlphaFold to CML-binding protein search, directed evolution, and source-reported CML removal from proteins and elderly skin samples.
+
+## Qualifications
+The wiki should not treat AlphaFold as a generic solution for biology. The sources consistently keep experimental science, domain judgment, and validation in the loop. The latest enzyme case remains source-scoped and does not establish clinical effectiveness.
+
+## What Changed
+- Added AlphaFold's role in the All-In anti-aging enzyme segment.
+- Updated the profile from a structure-prediction proof point to a tool inside broader candidate-discovery and validation workflows.
+- Clarified that AlphaFold's applied value depends on downstream experiments and delivery feasibility.
+
+## Relationships
+- [[GoogleDeepMind]] - organizational home and later strategic context.
+- [[DeepMind]] - original institution behind AlphaFold's breakthrough identity.
+- [[DemisHassabis]] - founder-leader whose scientific route is partly explained through AlphaFold.
+- [[JohnJumper]] - DeepMind scientist linked to AlphaFold2 in the Silicon Valley 101 source.
+- [[AIProteinDesign]] - adjacent design field that uses AlphaFold as precedent and tool.
+- [[AIForScience]] - broader scientific-discovery category AlphaFold exemplifies.
+- [[ExtracellularAgingEnzymeTherapy]] - applied aging-science branch added by the latest source.

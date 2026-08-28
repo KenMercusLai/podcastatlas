@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Can the AI Industry Regulate Itself? Stripe Wants PayPal, China Catches Up, NY Bans Datacenters](sources/all-in-with-chamath-jason-sacks-friedberg-can-the-ai-industry-regulate-itself-stripe-wants-paypal-china-catches-up-ny-bans-datacenters-42134305.md) - All-In episode linking AI self-regulation, payments consolidation, enterprise AI privacy and token economics, data-center moratorium politics, China competition, and AlphaFold-enabled aging science.
 - [《资治通鉴·汉纪》847丨女人变得好命，从懂得这俩字开始](sources/zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx.md) — 芮淇讲透资治通鉴 episode on choice-shaped relationships, Sun Shou's household and fashion power, Deng Meng's palace entry, Bing Zun and Xuan's assassination-trigger branch, and Emperor Huan's secret anti-Liang oath with the future Five Marquises.
 - [《资治通鉴·汉纪》848丨瞬间垮台！我为何说他死有余辜？](sources/zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0.md) — 芮淇讲透资治通鉴 episode on Emperor Huan's 159 CE palace coup against Liang Ji, the Liang-Sun purge, confiscation and tax remission, Empress Deng's post-coup status, Five Marquises rewards, and Huang Qiong's cleanup window.
 - [E250｜mRNA的第二战场：对话英博，拆解Moderna人类首个肿瘤疫苗三期突破](sources/e250-mrna-de-dier-zhanchang-duihua-yingbo-chaijie-moderna-renlei-shouge-zhongliu-yimiao-sanqi-tupo-73a69583-98ee-43d6-a892-3e7c93012dd9.md) — 硅谷101 episode with Ying Bo on Moderna/Merck InterPath001, individualized mRNA cancer vaccines, postoperative melanoma RFS, neoantigen selection, CMC/QC, automation, AI, and regulatory/manufacturing limits.
@@ -1627,6 +1628,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Advent International](entities/AdventInternational.md) - Private-equity bidder in the All-In source's Stripe/PayPal/Block payment-stack consolidation discussion.
+- [Block Inc.](entities/BlockInc.md) - Payments and commerce company linked to Square, used in the All-In source as a reported PayPal-bid participant.
+- [FINRA](entities/FINRA.md) - U.S. securities self-regulatory organization used as the model for Demis Hassabis's proposed AI standards body.
+- [Revel Pharma](entities/RevelPharma.md) - Aging-focused biotech company named with Calico in AlphaFold-enabled CML-degrading enzyme work.
 - [英博博士 / Ying Bo](entities/YingBo.md) — Biotech guest and Aibo Shengwu founder explaining mRNA tumor vaccines through Moderna, CMC, automation, and AI validation.
 - [爱博生物](entities/AiboShengwu.md) — Chinese mRNA biotech company represented by Ying Bo's episode discussion of tumor-vaccine routes, automation, and computational-science infrastructure.
 - [InterPath001](entities/InterPath001.md) — Moderna/Merck phase 3 melanoma trial used by E250 to frame individualized mRNA vaccine plus PD-1 recurrence-free-survival evidence.
@@ -9725,6 +9730,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Alternative Payment Stack Consolidation](concepts/AlternativePaymentStackConsolidation.md) - AI-era payments consolidation thesis combining consumer accounts, merchant rails, stablecoins, risk systems, and point-of-sale infrastructure to challenge card networks.
+- [Extracellular Aging Enzyme Therapy](concepts/ExtracellularAgingEnzymeTherapy.md) - AI-assisted aging-therapy route using protein binding, directed evolution, and CML degradation to target glycation damage outside cells.
 - [Individualized Cancer Vaccine Manufacturing](concepts/IndividualizedCancerVaccineManufacturing.md) — Patient-specific mRNA vaccine production chain linking tissue sampling, sequencing, neoantigen selection, LNP packaging, QC, automation, and release.
 - [Neoantigen Selection Tradeoff](concepts/NeoantigenSelectionTradeoff.md) — Individualized vaccine design problem balancing target coverage, tumor escape, mRNA length, translation, manufacturing, and immune-response dilution.
 - [Recurrence-Free Survival Endpoint](concepts/RecurrenceFreeSurvivalEndpoint.md) — Oncology endpoint used by E250 to separate postoperative recurrence-delay evidence from PFS and OS claims.

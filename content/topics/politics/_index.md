@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1970
+topic_total_pages: 1972
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3752,6 +3752,9 @@ topic_entities:
   - key: "FIFA"
     title: "FIFA"
     url: "/wiki/entities/fifa/"
+  - key: "FINRA"
+    title: "FINRA"
+    url: "/wiki/entities/finra/"
   - key: "FlockSafety"
     title: "Flock Safety"
     url: "/wiki/entities/flocksafety/"
@@ -5391,6 +5394,9 @@ topic_sources:
   - key: "tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128"
     title: "Bytes: Week in Review - SpaceX's IPO, Iran threatens U.S. tech firms and California's new AI executive order"
     url: "/wiki/sources/tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-can-the-ai-industry-regulate-itself-stripe-wants-paypal-china-catches-up-ny-bans-datacenters-42134305"
+    title: "Can the AI Industry Regulate Itself? Stripe Wants PayPal, China Catches Up, NY Bans Datacenters"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-can-the-ai-industry-regulate-itself-stripe-wants-paypal-china-catches-up-ny-bans-datacenters-42134305/"
   - key: "can-the-trump-administration-make-college-cheaper"
     title: "Can the Trump administration make college cheaper?"
     url: "/wiki/sources/can-the-trump-administration-make-college-cheaper/"

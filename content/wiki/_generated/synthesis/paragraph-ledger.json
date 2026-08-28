@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "b45f623d7ac4d58f277199d282bb593706f3ed34dcd1726ef63883b3bfd936d1",
       "0d43e161d018fc8d8ffa2d14763f23ed7c9ce12aabfc833f3a7225da8e67fa43",
       "1a835a7f2e41759d288edaf800052c632a059d72844054f9df462eab42289bca",
       "320242c9eea04a979200c9a9385b1f2f6e7fe8e6f79105288342e2949eada089",
@@ -328,11 +329,46 @@
       "ffc63951f0c9ebb1bdb0d92982d5f65f57bbe4a7f7a359f38dcd33423bb288c2",
       "41cadfb91ef6894bc7d9cd5c4e55012480b0225b71a6a027d18e9565e8357c0c"
     ],
-    "paragraph_count": 326
+    "paragraph_count": 327
   },
-  "overview_commit": "fa103c6ca4c16efb2403959e2a56ab37d0223b9c",
-  "overview_digest": "fc8cdc02ecebb2474a1427f1f6d9e621b1a6d35ff8278ca1cf7485e7ec080b72",
+  "overview_commit": "3440f1aa201a32638e04f131475cdb74a1a66710",
+  "overview_digest": "1e649168497f000d40c2e3d5dec201d518bca4f1f135f76acd1d26d2f10ff323",
   "paragraphs": [
+    {
+      "id": "b45f623d7ac4d58f277199d282bb593706f3ed34dcd1726ef63883b3bfd936d1",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[all-in-with-chamath-jason-sacks-friedberg-can-the-ai-industry-regulate-itself-stripe-wants-paypal-china-catches-up-ny-bans-datacenters-42134305|Can the AI Industry Regulate Itself? Stripe Wants PayPal, China Catches Up, NY Bans Datacenters]], an [[AllIn|All-In]] episode linking AI self-regulation, payments consolidation, AI privacy, data-center politics, China competition, and AI-enabled aging science. It adds [[FINRA]], [[BlockInc|Block Inc.]], [[AdventInternational|Advent International]], [[RevelPharma|Revel Pharma]], [[AlternativePaymentStackConsolidation]], and [[ExtracellularAgingEnzymeTherapy]], while extending [[AIIndustrySelfRegulation]], [[AIRegulatoryCaptureRisk]], [[HyperscaleDataCenterMoratorium]], [[DataCenterOnsitePower]], [[AIProfessionalDataSecurity]], [[PrivateEquityAITransformation]], [[EnterpriseAIROIAudit]], [[AIProteinDesign]], [[AlphaFold]], [[DemisHassabis]], [[Stripe]], and [[PayPal]]. Its core synthesis is that AI competition is becoming a governance-and-infrastructure problem at once: voluntary technical standards may be safer than a slow approval agency only if they avoid incumbent capture, payments networks may be rebuilt around AI-era operators and stablecoin rails, enterprise AI adoption now needs data-control and spend discipline, and the same model infrastructure that creates policy anxiety can also accelerate concrete biological discovery. No settled contradiction is recorded; claims about Anthropic motives, foreign influence, New York data-center impacts, the reported PayPal bid, token prices, and CML-removal results remain source-scoped unless later sources independently verify them.",
+      "topic_scores": {
+        "ai-and-technology": 2,
+        "governance-and-institutions": 5,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1,
+        "science-health-and-climate": 1
+      },
+      "wikilinks": [
+        "AIIndustrySelfRegulation",
+        "AIProfessionalDataSecurity",
+        "AIProteinDesign",
+        "AIRegulatoryCaptureRisk",
+        "AdventInternational",
+        "AllIn",
+        "AlphaFold",
+        "AlternativePaymentStackConsolidation",
+        "BlockInc",
+        "DataCenterOnsitePower",
+        "DemisHassabis",
+        "EnterpriseAIROIAudit",
+        "ExtracellularAgingEnzymeTherapy",
+        "FINRA",
+        "HyperscaleDataCenterMoratorium",
+        "PayPal",
+        "PrivateEquityAITransformation",
+        "RevelPharma",
+        "Stripe",
+        "all-in-with-chamath-jason-sacks-friedberg-can-the-ai-industry-regulate-itself-stripe-wants-paypal-china-catches-up-ny-bans-datacenters-42134305"
+      ]
+    },
     {
       "id": "0d43e161d018fc8d8ffa2d14763f23ed7c9ce12aabfc833f3a7225da8e67fa43",
       "primary_topic": "governance-and-institutions",

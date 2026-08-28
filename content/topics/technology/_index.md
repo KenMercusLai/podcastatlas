@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2535
+topic_total_pages: 2536
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -6852,6 +6852,9 @@ topic_sources:
   - key: "tech-20260218-0218-mp-tech-pod-128-tech-20260218-0218-mp-tech-pod-128"
     title: "Can software companies survive the AI boom?"
     url: "/wiki/sources/tech-20260218-0218-mp-tech-pod-128-tech-20260218-0218-mp-tech-pod-128/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-can-the-ai-industry-regulate-itself-stripe-wants-paypal-china-catches-up-ny-bans-datacenters-42134305"
+    title: "Can the AI Industry Regulate Itself? Stripe Wants PayPal, China Catches Up, NY Bans Datacenters"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-can-the-ai-industry-regulate-itself-stripe-wants-paypal-china-catches-up-ny-bans-datacenters-42134305/"
   - key: "tech-20260730-0730-mp-tech-pod-128-tech-20260730-0730-mp-tech-pod-128"
     title: "Centering humans in AI education might be key to innovation and research"
     url: "/wiki/sources/tech-20260730-0730-mp-tech-pod-128-tech-20260730-0730-mp-tech-pod-128/"

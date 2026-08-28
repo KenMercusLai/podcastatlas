@@ -12976,3 +12976,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-08-28] ingest | Can the AI Industry Regulate Itself? Stripe Wants PayPal, China Catches Up, NY Bans Datacenters
+
+Ingested the July 18 All-In episode on AI self-regulation, Stripe/PayPal payments consolidation, AI privacy, data-center moratorium politics, China competition, and AlphaFold-enabled aging science. Created source note, FINRA, Block Inc., Advent International, Revel Pharma, Alternative Payment Stack Consolidation, and Extracellular Aging Enzyme Therapy pages; updated AI Industry Self-Regulation, AI Regulatory Capture Risk, Hyperscale Data Center Moratorium, Data Center Onsite Power, AI Professional Data Security, Private Equity AI Transformation, Enterprise AI ROI Audit, AI Protein Design, AlphaFold, Demis Hassabis, Stripe, PayPal, index, and overview.
+
+## [2026-08-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

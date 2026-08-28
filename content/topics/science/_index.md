@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 821
+topic_total_pages: 824
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -466,6 +466,9 @@ topic_concepts:
   - key: "ExternalFeedbackSelfCalibration"
     title: "External Feedback Self-Calibration"
     url: "/wiki/concepts/externalfeedbackselfcalibration/"
+  - key: "ExtracellularAgingEnzymeTherapy"
+    title: "Extracellular Aging Enzyme Therapy"
+    url: "/wiki/concepts/extracellularagingenzymetherapy/"
   - key: "ExtremeEnvironmentPhysics"
     title: "Extreme Environment Physics / 极端环境物理"
     url: "/wiki/concepts/extremeenvironmentphysics/"
@@ -1877,6 +1880,9 @@ topic_entities:
   - key: "ReneSpitz"
     title: "Rene Spitz / 史匹茨"
     url: "/wiki/entities/renespitz/"
+  - key: "RevelPharma"
+    title: "Revel Pharma"
+    url: "/wiki/entities/revelpharma/"
   - key: "RichardDawkins"
     title: "Richard Dawkins / 理查德·道金斯"
     url: "/wiki/entities/richarddawkins/"
@@ -2319,6 +2325,9 @@ topic_sources:
   - key: "tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128"
     title: "California buildings must limit \\\"embodied carbon.\\\" Here's what that means"
     url: "/wiki/sources/tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-can-the-ai-industry-regulate-itself-stripe-wants-paypal-china-catches-up-ny-bans-datacenters-42134305"
+    title: "Can the AI Industry Regulate Itself? Stripe Wants PayPal, China Catches Up, NY Bans Datacenters"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-can-the-ai-industry-regulate-itself-stripe-wants-paypal-china-catches-up-ny-bans-datacenters-42134305/"
   - key: "catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2"
     title: "Catalina Crunch: Krishna Kaliannan. From Homemade Keto Cocoa Puffs to Breakfast Aisle Breakthrough"
     url: "/wiki/sources/catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2/"

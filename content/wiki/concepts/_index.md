@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 5814
+wiki_total_pages: 5816
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1325,6 +1325,9 @@ wiki_pages:
   - key: "AlphaDecay"
     title: "Alpha Decay"
     url: "/wiki/concepts/alphadecay/"
+  - key: "AlternativePaymentStackConsolidation"
+    title: "Alternative Payment Stack Consolidation"
+    url: "/wiki/concepts/alternativepaymentstackconsolidation/"
   - key: "AlternativeSovereignLegitimacyTrap"
     title: "Alternative Sovereign Legitimacy Trap / 另立君主合法性陷阱"
     url: "/wiki/concepts/alternativesovereignlegitimacytrap/"

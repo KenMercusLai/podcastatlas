@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 8094
+wiki_total_pages: 8098
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -242,6 +242,9 @@ wiki_pages:
   - key: "AdvancedLocalExpressDesk"
     title: "Advanced Local Express Desk"
     url: "/wiki/entities/advancedlocalexpressdesk/"
+  - key: "AdventInternational"
+    title: "Advent International"
+    url: "/wiki/entities/adventinternational/"
   - key: "AdventrisPharmaceuticals"
     title: "Adventris Pharmaceuticals"
     url: "/wiki/entities/adventrispharmaceuticals/"

@@ -2,46 +2,60 @@
 title: "Data Center Onsite Power"
 type: concept
 tags: [ai, data-centers, energy, infrastructure]
-sources: [all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920, all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955, tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128, tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio, tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128]
-last_updated: 2026-08-18
+knowledge_schema: synthesis-v1
+sources:
+  - all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920
+  - all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955
+  - tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128
+  - tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio
+  - tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128
+  - all-in-with-chamath-jason-sacks-friedberg-can-the-ai-industry-regulate-itself-stripe-wants-paypal-china-catches-up-ny-bans-datacenters-42134305
+last_updated: 2026-08-28
 ---
 
 # Data Center Onsite Power
 
-[[all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920]] adds a full-stack onsite-power case through [[Crusoe]]. The source's Abilene project combines a 1.2 gigawatt substation, 350 megawatts of onsite gas generation, battery smoothing for GPU-cluster fluctuations, and future interest in hydro, geothermal, and small modular reactors.
+## Definition
+Data center onsite power is the pattern where a data-center developer generates, stores, or manages electricity at or near the facility instead of relying only on ordinary grid interconnection and utility supply.
 
-[[all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955]] adds the behind-the-meter policy version. [[DavidSacks|David Sacks]] argues that if data centers can build their own power generation, they can add net supply and spread fixed grid costs rather than simply competing with households for existing electricity.
+## Current Synthesis
+The page now synthesizes onsite power as a deployment workaround, a competitiveness policy, and an industrial constraint shift. Earlier sources show concrete forms: Crusoe's Abilene mix of substation access, onsite gas, and batteries; Caterpillar generators used as primary power; Redwood second-life batteries for off-grid supply; and Helion's speculative fusion-at-customer-site route. The latest All-In source adds the macro pressure: if U.S. electricity capacity is tight and PJM auctions signal scarcity, behind-the-meter power becomes a way for AI data centers to add net supply rather than only compete with households.
 
-Data center onsite power is the pattern where a data-center developer generates, stores, or delivers electricity at or near the facility instead of waiting for a full grid connection. [[tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128]] adds this concept through [[Caterpillar]] natural gas generators being used as primary power for some AI data centers.
-
-The concept extends [[AIEnergyBottleneck]]. Earlier wiki sources emphasize utility approvals, rate design, tax incentives, and grid upgrades. This source adds the workaround: when interconnection queues take years, developers may buy generators and fuel to move faster. That can speed deployment, but it shifts the constraint to equipment supply, fuel availability, emissions, local siting, and generator maintenance.
-
-[[tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128]] adds the storage version through [[RedwoodMaterials]] and [[SecondLifeEVBatteryStorage]]. Redwood's [[Nevada]] project uses reused EV batteries to power a data center disconnected from the grid, showing that onsite power can include storage systems as well as generation equipment.
-
-The source also changes [[DataCenterPhysicalResilience]]. Backup power equipment is not only a failover layer; in some projects it becomes the main operating power system. That makes generator capacity part of [[AIComputeContinuity]] and [[MaaSInfrastructure]], because model-serving capacity depends on whether dense facilities can keep drawing power under real deployment pressure.
-
-[[tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio]] adds a speculative clean-power extension through [[Helion]]. [[DavidKirtley]] says Helion wants future generators placed directly at data centers, factories, and manufacturing sites where power can be tailored to customer needs. Unlike the Caterpillar natural-gas case, this remains a source-described future route tied to [[CommercialFusionPower]] rather than a current workaround.
+The current judgment is that onsite power compresses grid-delay risk but does not eliminate energy politics. It moves the bottleneck from utility interconnection to turbines, batteries, fuel, emissions, maintenance, siting, and public legitimacy. Its strongest strategic role appears when projects add genuinely incremental power and avoid cost shifting.
 
 ## Key Claims
-- Onsite power can reduce dependence on slow grid interconnection queues, but it does not make electricity demand disappear.
-- Natural gas generators can win over solar or geothermal options when the highest-priority variable is speed to operation.
-- Battery storage can also become onsite power infrastructure when a data center needs fast electricity access, but it must still be charged, controlled, cooled, and maintained.
-- Generator suppliers become part of the AI infrastructure supply chain when data centers use them for primary power.
-- A data-center generator boom can crowd out traditional backup-power customers, such as hospitals, if production capacity is tight.
-- Onsite power turns the energy bottleneck into a mixed industrial, fuel, regulatory, reliability, and climate problem.
-- Fusion onsite power would still be industrial-scale infrastructure, not a residential appliance; it would require buildings, substations, safety controls, and power-market integration.
-- The All-In source adds behind-the-meter generation as a national AI competitiveness tool, but its ratepayer claim depends on projects creating net capacity instead of shifting costs or emissions elsewhere.
-- Crusoe adds that onsite power is also a financing and supply-chain problem: gas turbines, battery systems, substations, skilled labor, and long-term customer leases all shape whether a site can operate.
+- Onsite power can shorten deployment timelines when interconnection queues are too slow for AI compute demand.
+- The relevant onsite-power stack includes generation, batteries, substations, fuel logistics, controls, maintenance, and permitting, not only a generator next to a building.
+- Behind-the-meter generation can reduce ratepayer conflict only if it adds net supply and does not hide emissions or grid-upgrade costs elsewhere.
+- Natural-gas generators often win on speed, while battery storage, geothermal, hydro, nuclear, and fusion routes depend on different maturity and permitting constraints.
+- Generator and turbine suppliers become AI infrastructure actors when data centers use their equipment as primary operating power.
+- Onsite power is tied to global siting competition because energizable power can command a premium and delayed projects can move to friendlier jurisdictions.
+- The approach strengthens [[AIComputeContinuity]] when it is reliable, but weak operations can make power equipment itself the continuity risk.
 
-## Connections
-- [[Caterpillar]] - central company case in the source.
-- [[DanAckerman]] and [[DavidVictor]] - named commentators explaining demand and speed pressure.
-- [[RedwoodMaterials]], [[ColinCampbell]], and [[SecondLifeEVBatteryStorage]] - reused-battery storage route added by Marketplace Tech.
-- [[AIEnergyBottleneck]] - bottleneck that onsite power tries to bypass or compress.
-- [[AIComputeContinuity]] and [[MaaSInfrastructure]] - downstream service reliability that depends on available facility power.
-- [[DataCenterPhysicalResilience]] - generator role shifts from backup to primary operation.
-- [[PublicUtilityCommissions]] and [[DataCenterCostShifting]] - grid-regulation path that onsite power may partly route around.
-- [[AIMetabolicInfrastructure]] and [[DataCenterBacklash]] - adjacent resource, emissions, and public-permission risks.
-- [[Helion]], [[CommercialFusionPower]], and [[Nucor]] - future large-site clean-power route added by The Social Radars.
-- [[AmericanAIStackStrategy]], [[DataCenterCostShifting]], and [[DataCenterPowerBottleneck]] - behind-the-meter AI policy branch added by All-In.
-- [[Crusoe]], [[EnergyFirstNeocloud]], [[AIInfrastructureDebtFinancing]], [[SecondLifeEVBatteryStorage]], and [[RedwoodMaterials]] - energy-first neocloud branch added by the January 25 All-In episode.
+## Evidence
+- Full-stack onsite case: [[all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920]] describes Crusoe's Abilene project with a large substation, onsite gas generation, batteries, and future clean-power interest.
+- Behind-the-meter policy claim: [[all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955]] argues data centers can add net supply when they build their own power.
+- Storage route: [[tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128]] adds Redwood Materials and second-life EV batteries as an onsite/off-grid data-center power route.
+- Generator route: [[tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128]] shows Caterpillar natural-gas generators moving from backup equipment into primary power for some AI data centers.
+- Speculative clean route: [[tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio]] presents Helion's plan for generators placed directly at data centers, factories, and manufacturing sites.
+- Scarcity and siting claim: [[all-in-with-chamath-jason-sacks-friedberg-can-the-ai-industry-regulate-itself-stripe-wants-paypal-china-catches-up-ny-bans-datacenters-42134305]] links behind-the-meter power to PJM supply stress, possible long-run U.S. power shortages, and premium pricing for energizable data-center sites.
+
+## Counterevidence & Qualifications
+Onsite power can make local electricity constraints less visible without making them disappear. Gas plants still need fuel and emissions approval; batteries need charging and lifecycle management; fusion and small modular reactors remain source-described future routes rather than routine data-center options.
+
+The All-In macro power-shortage and PJM claims are source-scoped. They are useful for mapping the argument but should not be treated as a settled grid forecast without primary utility and market data.
+
+## What Changed
+- Added the July 18 All-In source's link between behind-the-meter power, PJM scarcity, and global data-center siting.
+- Updated the synthesis from a workaround catalogue to a constraint-shift model covering equipment, fuel, emissions, reliability, and politics.
+- Clarified that onsite power is most defensible when it creates incremental capacity rather than shifting public-grid costs.
+
+## Related Concepts
+- [[AIEnergyBottleneck]] - macro constraint onsite power attempts to compress.
+- [[DataCenterPowerBottleneck]] - facility-level power bottleneck that drives onsite generation and storage.
+- [[AIComputeContinuity]] - reliability outcome affected by local power architecture.
+- [[MaaSInfrastructure]] - model-serving infrastructure that depends on available energy.
+- [[DataCenterPhysicalResilience]] - backup-power layer that can become primary operating power.
+- [[DataCenterCostShifting]] - ratepayer-risk frame behind behind-the-meter arguments.
+- [[CommercialFusionPower]] - speculative future clean-power path for dense industrial loads.
+- [[EnergyFirstNeocloud]] - data-center strategy that starts from power availability.

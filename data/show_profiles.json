@@ -149,14 +149,14 @@
       "earliest_episode_date": "2026-01-08",
       "latest_episode_date": "2026-08-26",
       "latest_episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Eric Weinstein： The State of American Science, Breakthrough Coverups, and the Danger of Physics [42568645].md",
-      "source_note_count": 34,
-      "topic_matched_source_note_count": 30,
+      "source_note_count": 35,
+      "topic_matched_source_note_count": 31,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 22
+          "source_note_count": 23
         },
         {
           "key": "economics",
@@ -168,13 +168,13 @@
           "key": "politics",
           "label": "Politics",
           "url": "/topics/politics/",
-          "source_note_count": 10
+          "source_note_count": 11
         },
         {
           "key": "science",
           "label": "Science",
           "url": "/topics/science/",
-          "source_note_count": 4
+          "source_note_count": 5
         }
       ],
       "entities": [

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 8094
+wiki_total_pages: 8098
 wiki_pages:
   - key: "RachelReeves"
     title: "Rachel Reeves"
@@ -236,6 +236,9 @@ wiki_pages:
   - key: "Reuters"
     title: "Reuters"
     url: "/wiki/entities/reuters/"
+  - key: "RevelPharma"
+    title: "Revel Pharma"
+    url: "/wiki/entities/revelpharma/"
   - key: "Revid"
     title: "Revid"
     url: "/wiki/entities/revid/"

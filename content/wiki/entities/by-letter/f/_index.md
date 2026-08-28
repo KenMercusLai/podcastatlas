@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 8094
+wiki_total_pages: 8098
 wiki_pages:
   - key: "FortyThreeTalks"
     title: "43talks"
@@ -221,6 +221,9 @@ wiki_pages:
   - key: "Finland"
     title: "Finland"
     url: "/wiki/entities/finland/"
+  - key: "FINRA"
+    title: "FINRA"
+    url: "/wiki/entities/finra/"
   - key: "FINRAFoundation"
     title: "FINRA Foundation"
     url: "/wiki/entities/finrafoundation/"

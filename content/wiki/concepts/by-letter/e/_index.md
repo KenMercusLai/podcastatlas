@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 5814
+wiki_total_pages: 5816
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -746,6 +746,9 @@ wiki_pages:
   - key: "ExternalityInternalization"
     title: "Externality Internalization"
     url: "/wiki/concepts/externalityinternalization/"
+  - key: "ExtracellularAgingEnzymeTherapy"
+    title: "Extracellular Aging Enzyme Therapy"
+    url: "/wiki/concepts/extracellularagingenzymetherapy/"
   - key: "ExtractionPromiseEthics"
     title: "Extraction Promise Ethics / 撤离承诺伦理"
     url: "/wiki/concepts/extractionpromiseethics/"
