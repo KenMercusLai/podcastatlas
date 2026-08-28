@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 5866
+wiki_total_pages: 5868
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1031,6 +1031,9 @@ wiki_pages:
   - key: "MissionaryMapKnowledgeProduction"
     title: "传教士地图知识生产 / Missionary Map Knowledge Production"
     url: "/wiki/concepts/missionarymapknowledgeproduction/"
+  - key: "MilitaryFinanceCorruption"
+    title: "军费贪腐与战力空转 / Military Finance Corruption"
+    url: "/wiki/concepts/militaryfinancecorruption/"
   - key: "MinisterAsExchangeableAsset"
     title: "可交换功臣 / Minister as Exchangeable Asset"
     url: "/wiki/concepts/ministerasexchangeableasset/"

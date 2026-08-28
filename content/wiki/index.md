@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》826丨乱世的罪与恶，背后是贪婪的人性](sources/zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv.md) — 芮淇讲透资治通鉴 episode on 145 CE Western Qiang military-finance corruption, Liang Bing's trust-based surrender policy, Teng Fu and Feng Gun's Xu-Yang anti-bandit campaign, Zhong Hao's gold-snake bribery report, and Liang Ji's retaliation channels.
 - [《资治通鉴·汉纪》822丨豺狼当道，他将矛头直指皇帝岳父？](sources/zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv.md) — 芮淇讲透资治通鉴 episode on 141-142 CE Li Gu's Jingzhou and Taishan pacification, Nanyang corruption impeachment under Liang Ji pressure, Zhang Gang's buried-wheel accusation against Liang Ji and Liang Buyi, and Emperor Shun's constrained review.
 - [The Trillion-Dollar Industries AI Is Disrupting: Voice, Law & the End of the Billable Hour](sources/all-in-with-chamath-jason-sacks-friedberg-the-trillion-dollar-industries-ai-is-disrupting-voice-law-the-end-of-the-billable-hour-42064555.md) - All-In episode with ElevenLabs and Legora on enterprise voice agents, voice identity and licensing, legal AI, legal data completeness, junior-lawyer agent orchestration, and billable-hour pressure.
 - [《资治通鉴·汉纪》827丨一句话引发的帝王之死](sources/zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2.md) — 芮淇讲透资治通鉴 episode on 146 CE Taixue expansion, Emperor Zhi's "跋扈将军" remark, Liang Ji's poisoning and deathbed water obstruction, Li Gu's exposure risk, the first Liu Suan recommendation, and Cao Teng's personal objection.
@@ -1656,6 +1657,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [梁并 / Liang Bing (late Han)](entities/LiangBingLateHan.md) — Left Fengyi whose trust-based surrender policy pacifies the Western Qiang aftermath after corrupt campaign finance hollows out military force.
+- [赵序 / Zhao Xu (late Han)](entities/ZhaoXuLateHan.md) — Zhonglang jiang assigned to assist Feng Gun in the 145 CE Xu-Yang campaign and later executed for fearfulness and inflated kill reporting.
+- [刘君世 / Liu Junshi (late Han)](entities/LiuJunshiLateHan.md) — Yongchang administrator whose gold patterned snake gift to Liang Ji becomes the corruption report that angers Liang against Zhong Hao.
+- [应承 / Ying Cheng (late Han)](entities/YingChengLateHan.md) — Ba Commandery administrator arrested with Zhong Hao after the failed Fu Zhi suppression, then spared from execution by Li Gu's memorial.
+- [服直 / Fu Zhi (late Han)](entities/FuZhiLateHan.md) — Ba Commandery rebel who gathers hundreds, claims Heavenly King status, and becomes the pretext for Zhong Hao and Ying Cheng's arrest.
+- [华孟 / Hua Meng (late Han)](entities/HuaMengLateHan.md) — Liyang rebel who claims Black Emperor status, attacks Jiujiang, kills administrator Yang Cen, and is defeated by Teng Fu.
+- [谢安 / Xie An (Xiapi, late Han)](entities/XieAnXiapiLateHan.md) — Xiapi local actor who leads kin and associates to ambush Xu Feng and receives the Pingxiang marquisate.
+- [徐凤 / Xu Feng (bandit, late Han)](entities/XuFengBanditLateHan.md) — Xu-Yang bandit leader who escapes Teng Fu's campaign, burns Dongcheng, and is killed by Xie An of Xiapi.
 - [张纲 / Zhang Gang (late Han)](entities/ZhangGangLateHan.md) — Late-Han inspector who buries his carriage wheel in Luoyang and directly impeaches Liang Ji and Liang Buyi rather than pursuing lesser officials.
 - [汉顺帝 / Emperor Shun of Han](entities/EmperorShunOfHan.md) — Eastern Han ruler whose 141-142 CE court recognizes Li Gu and hears Zhang Gang's anti-Liang accusation but cannot immediately punish the Liang network.
 - [Legora](entities/Legora.md) - Legal AI company profiled by All-In around legal data, agent orchestration, trust, compliance, and billable-hour disruption.
@@ -1751,7 +1760,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [潘鸿 / Pan Hong (late Han)](entities/PanHongLateHan.md) — Guiyang bandit leader paired with Bu Yang in Du Shang's burned-spoils remobilization case.
 - [寇荣 / Kou Rong (late Han)](entities/KouRongLateHan.md) — Huan-era meritorious-family official whose imperial marriage ties, eunuch resentment, blocked petition, and offensive historical analogies end in execution.
 - [羊元群 / Yang Yuanqun (late Han)](entities/YangYuanqunLateHan.md) — Corrupt Beihai official whose eunuch bribery turns Li Ying's investigation into an enforcement-reversal case.
-- [冯绲 / Feng Gun (late Han)](entities/FengGunLateHan.md) — Late-Han official whose profile now runs from self-protected Jingzhou campaign command through eunuch-driven dismissal, later custody-case punishment, and Ying Feng pardon context.
+- [冯绲 / Feng Gun (late Han)](entities/FengGunLateHan.md) — Late-Han official whose profile now runs from 145 CE Xu-Yang anti-bandit command through self-protected Jingzhou command, eunuch-driven dismissal, later custody-case punishment, and Ying Feng pardon context.
 - [刘祐 / Liu You (late Han)](entities/LiuYouLateHan.md) — Fiscal official punished after trying to confiscate underpriced property acquisitions by Su Kang and Guan Ba.
 - [杨秉 / Yang Bing (late Han)](entities/YangBingLateHan.md) — Clean late-Han minister whose profile now starts with a 151 CE disaster-and-ritual warning against Emperor Huan's private outing before later punishment, office cleanup, appointment restraint, Hou Lan impeachment, and "three refusals" integrity.
 - [周景 / Zhou Jing (late Han)](entities/ZhouJingLateHan.md) — Sikong from the Zhou clan paired with Yang Bing in Huan-era eunuch-linked office cleanup and anti-corruption enforcement.
@@ -2019,7 +2028,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [疏勒 / Shule Kingdom](entities/ShuleKingdom.md) — Western Regions kingdom whose successful resistance to Meng Tuo exposes office without matching command capacity.
 - [汉明帝 / Emperor Ming of Han](entities/EmperorMingOfHan.md) — Eastern Han emperor used by Hanji 899 as the filial precedent behind Guangwu Yuanling tomb-sacrifice practice.
 - [胡广 / Hu Guang (late Han)](entities/HuGuangLateHan.md) — Late-Han senior official whose initial Liu Suan recommendation, later 146 CE succession accommodation, and Teng Fu impeachment precede Hanji 900's six-reign moderation-based survival case.
-- [滕抚 / Teng Fu (late Han)](entities/TengFuLateHan.md) — Upright late-Han anti-bandit official whose expected merit reward turns into dismissal after eunuch hostility and Hu Guang's impeachment.
+- [滕抚 / Teng Fu (late Han)](entities/TengFuLateHan.md) — Upright late-Han anti-bandit official whose 145 CE Xu-Yang and southeast suppression merit later turns into blocked reward and dismissal.
 - [侯览 / Hou Lan (late Han)](entities/HouLanLateHan.md) — Late-Han eunuch whose profile now starts with a 148 CE appointment-pressure branch before post-Liang rewards, protected-servant reversal, Zhang Jian retaliation, and office-removal suicide.
 - [滕延 / Teng Yan (late Han)](entities/TengYanLateHan.md) — Jibei official dismissed after executing violent servants and guests tied to Hou Lan and Duan Gui.
 - [侯参 / Hou Can (late Han)](entities/HouCanLateHan.md) — Yizhou inspector whose corruption notice and suicide become Yang Bing's pressure case against Hou Lan.
@@ -2040,7 +2049,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Metamorphosis / Kafka's 《变形记》](entities/TheMetamorphosisKafka.md) — Kafka work used in Hanji 901 to illustrate anxious self-importance and impatience; distinct from Ovid's Metamorphoses.
 - [刘猛 / Liu Meng (late Han)](entities/LiuMengLateHan.md) — Sili xiaowei who treats the Zhuque Gate anti-eunuch accusation as substantially true, does not pursue the anonymous speaker aggressively, and is punished after Duan Jiong takes over.
 - [张奂 / Zhang Huan (late Han)](entities/ZhangHuanLateHan.md) — Late-Han frontier and court official whose profile now begins with 155 CE low-resource Qiang-Xiongnu coalition fracture and gift refusal before 158 CE crisis composure, rehabilitation, remonstrance, and survival.
-- [种暠 / Zhong Hao (late Han)](entities/ZhongHaoLateHan.md) — Late-Han Duliao general who follows Chen Gui and stabilizes the frontier through trust-building, prisoner release, and selective punishment.
+- [种暠 / Zhong Hao (late Han)](entities/ZhongHaoLateHan.md) — Late-Han official whose profile runs from a Yizhou gold-snake corruption report and failed-service dismissal to later Duliao trust-building governance.
 - [王寓 / Wang Yu (late Han)](entities/WangYuLateHan.md) — Former sili xiaowei whose refused recommendation request becomes a personal-grudge accusation against Zhang Huan; distinct from Wang Yu / 汪玉.
 - [苏谦 / Su Qian (late Han)](entities/SuQianLateHan.md) — Father of Su Buwei whose attempted complaint against Li Hao becomes the killing that launches Su Buwei's filial revenge.
 - [苏不韦 / Su Buwei (late Han)](entities/SuBuweiLateHan.md) — Late-Han avenger whose tunnel attack against Li Hao begins a revenge spiral that escalates into tomb desecration and the extermination of his household under Duan Jiong.
@@ -2294,7 +2303,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [郗俭 / Xi Jian (late Han)](entities/XiJianLateHan.md) — Yizhou inspector whose extraction-heavy rule is presented as the local trigger for the Ma Xiang revolt.
 - [贾龙 / Jia Long (late Han)](entities/JiaLongLateHan.md) — Yizhou staff official who defeats Ma Xiang and welcomes Liu Yan into the province.
 - [绵竹 / Mianzhu (late Han)](entities/MianzhuLateHan.md) — Yizhou location where Ma Xiang's revolt begins and Liu Yan later moves the provincial seat.
-- [巴郡 / Ba Commandery (late Han)](entities/BaCommanderyLateHan.md) — Yizhou commandery reached during Ma Xiang and Zhao Zhi's rapid revolt.
+- [巴郡 / Ba Commandery (late Han)](entities/BaCommanderyLateHan.md) — Yizhou commandery used across Fu Zhi, Bandun Man, Five-Pecks, and Ma Xiang-Zhao Zhi unrest layers.
 - [犍为郡 / Qianwei Commandery (late Han)](entities/QianweiCommanderyLateHan.md) — Yizhou commandery paired with Ba in the episode's account of revolt spread.
 - [Airtable](entities/Airtable.md) — No-code SaaS company used by All-In as a post-ZIRP valuation reset and AI disruption case.
 - [Bending Spoons](entities/BendingSpoons.md) — Milan-based software acquirer framed as Airtable's cost-discipline and product-led-growth operator.
@@ -9846,6 +9855,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [军费贪腐与战力空转 / Military Finance Corruption](concepts/MilitaryFinanceCorruption.md) — Pattern where campaign funds, rations, pay, and bribes become private extraction, leaving soldiers destroyed while coercive capacity hollows out.
+- [赏募动员式平乱 / Bounty-Mobilized Pacification](concepts/BountyMobilizedPacification.md) — Pattern where credible commanders use rewards, titles, and local participation to convert anti-bandit service into visible merit.
 - [Voice Agent Infrastructure](concepts/VoiceAgentInfrastructure.md) - Production stack for reliable, integrated, interruptible AI voice agents with model orchestration, identity, moderation, and escalation controls.
 - [Licensed Synthetic Voice Marketplace](concepts/LicensedSyntheticVoiceMarketplace.md) - Consent-based market where authenticated voice owners license synthetic voices and receive compensation under usage and provenance controls.
 - [Legal Services AI Economics](concepts/LegalServicesAIEconomics.md) - Market and pricing shift where AI compresses legal research, diligence, document review, and billable-hour labor.

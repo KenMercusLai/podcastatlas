@@ -13141,6 +13141,10 @@ Ingested the Marketplace Tech episode on Meta's proposed teen-safety settlement,
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-29] ingest | 《资治通鉴·汉纪》826丨乱世的罪与恶，背后是贪婪的人性
+
+Ingested the 芮淇讲透资治通鉴 episode on 145 CE Western Qiang military-finance corruption, Liang Bing's trust-based surrender policy, Teng Fu and Feng Gun's Xu-Yang anti-bandit campaign, Xie An's reward-backed killing of Xu Feng, Hua Meng's Liyang-Jiujiang revolt, Zhong Hao's report of Liu Junshi's gold-snake gift, and Liang Ji's retaliation against Zhong Hao, Ying Cheng, and Du Qiao. Created the source note, Liang Bing, Zhao Xu, Liu Junshi, Ying Cheng, Fu Zhi, Hua Meng, Xie An of Xiapi, Xu Feng the bandit, Military Finance Corruption, and Bounty-Mobilized Pacification pages; updated Teng Fu, Feng Gun, Zhong Hao, Ba Commandery, Li Gu, Du Qiao, Empress Dowager Liang Na, Liang Ji, Retaliatory Political Terror, index, and overview. No settled contradiction found; ASR forms are normalized to the received Tongjian names 梁并, 滕抚, 赵序, 冯绲, 刘君世, 种暠, and 服直, while minor actors and exact campaign accounting remain source-scoped.
+
 ## [2026-08-29] ingest | 《资治通鉴·汉纪》822丨豺狼当道，他将矛头直指皇帝岳父？
 
 Ingested the 芮淇讲透资治通鉴 episode on 141-142 CE Li Gu's Jingzhou and Taishan pacification, Nanyang corruption impeachment under Liang Ji pressure, Zhang Gang's buried-wheel impeachment of Liang Ji and Liang Buyi, and Emperor Shun's constrained review of inspector accusations. Created the source note, Zhang Gang, and Emperor Shun pages; updated Li Gu, Liang Ji, Du Qiao, Liang Buyi, Humane Local Governance, Root-Cause Pacification, High-Status Law-Enforcement Signal, Outer-Relative Court Power, index, overview, and downstream synthesis. No settled contradiction found; Xia Mi, Gao Ci, Chong Hao, Wu Xiong, Wu Si, the other inspectors, and exact fifteen-count charges remain source-scoped.
@@ -13192,6 +13196,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-29] ingest | 《资治通鉴·汉纪》828丨大将军梁冀：擅权废立的东汉奸臣
 
 Ingested the 芮淇讲透资治通鉴 episode on the 146 CE succession after Emperor Zhi's death, Cao Teng's self-protective advice to Liang Ji, Liu Zhi's accession as Emperor Huan under Liang Na's continued regency, Li Gu and Du Qiao's resistance, Zhu Mu's rejected staffing and emperor-education warning, Huan's ancestral honors, and Teng Fu's eunuch-driven dismissal. Created the source note, Teng Fu, and Self-Protective Accession Choice pages; updated Cao Teng, Hu Guang, Emperor Zhi, Liu Suan, Du Qiao, Li Gu, Empress Dowager Liang Na, Zhu Mu, Liang Ji, Emperor Huan, Outer-Relative Court Power, Corrective Advice Nonconversion, index, and downstream synthesis inputs. No settled contradiction found; minor offices and ritual details remain source-scoped, and Teng Fu is kept distinct from Teng Yan.
+
+## [2026-08-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-29] lint | Wiki health check
 

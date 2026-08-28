@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 8186
+wiki_total_pages: 8194
 wiki_pages:
   - key: "FortyThreeTalks"
     title: "43talks"
@@ -674,6 +674,9 @@ wiki_pages:
   - key: "FuSu"
     title: "扶苏 / Fu Su"
     url: "/wiki/entities/fusu/"
+  - key: "FuZhiLateHan"
+    title: "服直 / Fu Zhi (late Han)"
+    url: "/wiki/entities/fuzhilatehan/"
   - key: "FatherLinNortheastMission"
     title: "林神父 / Father Lin (Northeast mission)"
     url: "/wiki/entities/fatherlinnortheastmission/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 8186
+wiki_total_pages: 8194
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -746,6 +746,9 @@ wiki_pages:
   - key: "HanguPass"
     title: "函谷关 / Hangu Pass"
     url: "/wiki/entities/hangupass/"
+  - key: "HuaMengLateHan"
+    title: "华孟 / Hua Meng (late Han)"
+    url: "/wiki/entities/huamenglatehan/"
   - key: "HuaXin"
     title: "华歆 / Hua Xin"
     url: "/wiki/entities/huaxin/"

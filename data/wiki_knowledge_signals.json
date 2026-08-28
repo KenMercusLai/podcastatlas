@@ -2751,6 +2751,43 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/awarenessmeditationstorydropping/"
     },
+    "BaCommanderyLateHan": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》922丨如何在凡尘中修炼情商？ [lsXIqNEYyEOd6AeeQxuhs517PN1X].md",
+          "key": "zizhi-tongjian-hanji-922-ruhe-zai-fanchen-zhong-xiulian-qingshang-lsxiqneyyeod6aeeqxuhs517pn1x",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》922丨如何在凡尘中修炼情商？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-922-ruhe-zai-fanchen-zhong-xiulian-qingshang-lsxiqneyyeod6aeeqxuhs517pn1x/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》929丨对事不对人，你信了吗？ [lgaXJ0jzoPddmt3C5hiBNExqLhB3].md",
+          "key": "zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》929丨对事不对人，你信了吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》940丨得民心者得天下，你信不信？ [loipF7b0P5A-yh0Rj2nJNSml8a1J].md",
+          "key": "zizhi-tongjian-hanji-940-de-minxin-zhe-de-tianxia-ni-xin-bu-xin-loipf7b0p5a-yh0rj2njnsml8a1j",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》940丨得民心者得天下，你信不信？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-940-de-minxin-zhe-de-tianxia-ni-xin-bu-xin-loipf7b0p5a-yh0rj2njnsml8a1j/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》826丨乱世的罪与恶，背后是贪婪的人性 [ljK0Q4ZQ4zy6l9rvoO_PiPDcSiJV].md",
+          "key": "zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》826丨乱世的罪与恶，背后是贪婪的人性",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/bacommanderylatehan/"
+    },
     "BaSuLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -3200,6 +3237,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/boundarylesskindnesstrap/"
+    },
+    "BountyMobilizedPacification": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》826丨乱世的罪与恶，背后是贪婪的人性 [ljK0Q4ZQ4zy6l9rvoO_PiPDcSiJV].md",
+          "key": "zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》826丨乱世的罪与恶，背后是贪婪的人性",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/bountymobilizedpacification/"
     },
     "BrainBodyEmotionMapping": {
       "episode_count": 1,
@@ -6900,9 +6953,9 @@
       "url": "/wiki/entities/dumilatehan/"
     },
     "DuQiaoLateHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》830丨东汉李固：我虽死犹荣！ [lt__j7n9gOTIW_nEgQXOJoAcf6Ji].md",
@@ -6938,6 +6991,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》822丨豺狼当道，他将矛头直指皇帝岳父？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》826丨乱世的罪与恶，背后是贪婪的人性 [ljK0Q4ZQ4zy6l9rvoO_PiPDcSiJV].md",
+          "key": "zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》826丨乱世的罪与恶，背后是贪婪的人性",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv/"
         }
       ],
       "updated": "2026-08-29",
@@ -7956,9 +8016,9 @@
       "url": "/wiki/entities/empressdowagerdoumiao/"
     },
     "EmpressDowagerLiangNaLateHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》832丨为领导背锅，他是傻还是智？ [lmFpUIXmI4odrf6LU31RF6_66-lq].md",
@@ -7994,6 +8054,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》828丨大将军梁冀：擅权废立的东汉奸臣",
           "url": "/wiki/sources/zizhi-tongjian-hanji-828-da-jiangjun-liangji-shanquan-feili-de-donghan-jianchen-llqnqijagtmdlgitulddxspncu0e/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》826丨乱世的罪与恶，背后是贪婪的人性 [ljK0Q4ZQ4zy6l9rvoO_PiPDcSiJV].md",
+          "key": "zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》826丨乱世的罪与恶，背后是贪婪的人性",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv/"
         }
       ],
       "updated": "2026-08-29",
@@ -8660,9 +8727,9 @@
       "url": "/wiki/entities/fengchanlatehan/"
     },
     "FengGunLateHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》866丨真正活明白的人，懂得“三不沾” [lhhMmyjfo6MkF-qS6BhHZu8HHLN6].md",
@@ -8691,9 +8758,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》856丨历史告诉你：人若心乱，阵脚自乱",
           "url": "/wiki/sources/zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》826丨乱世的罪与恶，背后是贪婪的人性 [ljK0Q4ZQ4zy6l9rvoO_PiPDcSiJV].md",
+          "key": "zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》826丨乱世的罪与恶，背后是贪婪的人性",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-29",
       "url": "/wiki/entities/fenggunlatehan/"
     },
     "FengJiLateHan": {
@@ -9271,6 +9345,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/furonglatehan/"
+    },
+    "FuZhiLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》826丨乱世的罪与恶，背后是贪婪的人性 [ljK0Q4ZQ4zy6l9rvoO_PiPDcSiJV].md",
+          "key": "zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》826丨乱世的罪与恶，背后是贪婪的人性",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/fuzhilatehan/"
     },
     "FugitiveShelterCollateralRisk": {
       "episode_count": 3,
@@ -11177,6 +11267,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/huwutaiyuanlatehan/"
+    },
+    "HuaMengLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》826丨乱世的罪与恶，背后是贪婪的人性 [ljK0Q4ZQ4zy6l9rvoO_PiPDcSiJV].md",
+          "key": "zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》826丨乱世的罪与恶，背后是贪婪的人性",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/huamenglatehan/"
     },
     "HuaXin": {
       "episode_count": 5,
@@ -14209,9 +14315,9 @@
       "url": "/wiki/entities/ligaorunanlatehan/"
     },
     "LiGuLateHan": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》929丨对事不对人，你信了吗？ [lgaXJ0jzoPddmt3C5hiBNExqLhB3].md",
@@ -14261,6 +14367,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》822丨豺狼当道，他将矛头直指皇帝岳父？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》826丨乱世的罪与恶，背后是贪婪的人性 [ljK0Q4ZQ4zy6l9rvoO_PiPDcSiJV].md",
+          "key": "zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》826丨乱世的罪与恶，背后是贪婪的人性",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv/"
         }
       ],
       "updated": "2026-08-29",
@@ -14478,6 +14591,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/liyunlatehan/"
     },
+    "LiangBingLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》826丨乱世的罪与恶，背后是贪婪的人性 [ljK0Q4ZQ4zy6l9rvoO_PiPDcSiJV].md",
+          "key": "zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》826丨乱世的罪与恶，背后是贪婪的人性",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/liangbinglatehan/"
+    },
     "LiangBuyiLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -14502,9 +14631,9 @@
       "url": "/wiki/entities/liangbuyilatehan/"
     },
     "LiangJiLateHan": {
-      "episode_count": 16,
+      "episode_count": 17,
       "show_count": 1,
-      "source_note_count": 16,
+      "source_note_count": 17,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿” [lvSA2pby8IyfEvfooBoBpIK52MiJ].md",
@@ -14617,6 +14746,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》822丨豺狼当道，他将矛头直指皇帝岳父？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》826丨乱世的罪与恶，背后是贪婪的人性 [ljK0Q4ZQ4zy6l9rvoO_PiPDcSiJV].md",
+          "key": "zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》826丨乱世的罪与恶，背后是贪婪的人性",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv/"
         }
       ],
       "updated": "2026-08-29",
@@ -14939,6 +15075,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/liujulatehan/"
+    },
+    "LiuJunshiLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》826丨乱世的罪与恶，背后是贪婪的人性 [ljK0Q4ZQ4zy6l9rvoO_PiPDcSiJV].md",
+          "key": "zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》826丨乱世的罪与恶，背后是贪婪的人性",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/liujunshilatehan/"
     },
     "LiuKuanLateHan": {
       "episode_count": 3,
@@ -17070,6 +17222,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/militaryaioversightcompression/"
+    },
+    "MilitaryFinanceCorruption": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》826丨乱世的罪与恶，背后是贪婪的人性 [ljK0Q4ZQ4zy6l9rvoO_PiPDcSiJV].md",
+          "key": "zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》826丨乱世的罪与恶，背后是贪婪的人性",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/militaryfinancecorruption/"
     },
     "MilitaryRewardEunuchGatekeeping": {
       "episode_count": 2,
@@ -20564,9 +20732,9 @@
       "url": "/wiki/concepts/restaurantdeliveryextension/"
     },
     "RetaliatoryPoliticalTerror": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》846丨“跋扈将军”冰山一角的犯罪记录 [lv7fbvoQr1NurEQGVwIwiXJYK4pq].md",
@@ -20595,6 +20763,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》830丨东汉李固：我虽死犹荣！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》826丨乱世的罪与恶，背后是贪婪的人性 [ljK0Q4ZQ4zy6l9rvoO_PiPDcSiJV].md",
+          "key": "zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》826丨乱世的罪与恶，背后是贪婪的人性",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv/"
         }
       ],
       "updated": "2026-08-29",
@@ -23715,9 +23890,9 @@
       "url": "/wiki/entities/tencentworkbuddy/"
     },
     "TengFuLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》828丨大将军梁冀：擅权废立的东汉奸臣 [llqnqIJAGtMdlGiTulDDXSpNCU0E].md",
@@ -23725,6 +23900,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》828丨大将军梁冀：擅权废立的东汉奸臣",
           "url": "/wiki/sources/zizhi-tongjian-hanji-828-da-jiangjun-liangji-shanquan-feili-de-donghan-jianchen-llqnqijagtmdlgitulddxspncu0e/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》826丨乱世的罪与恶，背后是贪婪的人性 [ljK0Q4ZQ4zy6l9rvoO_PiPDcSiJV].md",
+          "key": "zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》826丨乱世的罪与恶，背后是贪婪的人性",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv/"
         }
       ],
       "updated": "2026-08-29",
@@ -26444,6 +26626,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/xiaozhu/"
     },
+    "XieAnXiapiLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》826丨乱世的罪与恶，背后是贪婪的人性 [ljK0Q4ZQ4zy6l9rvoO_PiPDcSiJV].md",
+          "key": "zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》826丨乱世的罪与恶，背后是贪婪的人性",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/xieanxiapilatehan/"
+    },
     "XieBiLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -26628,6 +26826,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/xuchu/"
+    },
+    "XuFengBanditLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》826丨乱世的罪与恶，背后是贪婪的人性 [ljK0Q4ZQ4zy6l9rvoO_PiPDcSiJV].md",
+          "key": "zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》826丨乱世的罪与恶，背后是贪婪的人性",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/xufengbanditlatehan/"
     },
     "XuGongLateHan": {
       "episode_count": 1,
@@ -27696,6 +27910,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/yingbo/"
     },
+    "YingChengLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》826丨乱世的罪与恶，背后是贪婪的人性 [ljK0Q4ZQ4zy6l9rvoO_PiPDcSiJV].md",
+          "key": "zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》826丨乱世的罪与恶，背后是贪婪的人性",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/yingchenglatehan/"
+    },
     "YingFengLateHan": {
       "episode_count": 4,
       "show_count": 1,
@@ -28536,6 +28766,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/zhaoraolatehan/"
     },
+    "ZhaoXuLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》826丨乱世的罪与恶，背后是贪婪的人性 [ljK0Q4ZQ4zy6l9rvoO_PiPDcSiJV].md",
+          "key": "zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》826丨乱世的罪与恶，背后是贪婪的人性",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/zhaoxulatehan/"
+    },
     "ZhaoYanLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -28680,9 +28926,9 @@
       "url": "/wiki/entities/zhengluncuishi/"
     },
     "ZhongHaoLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》844丨如何立于不败之地？ [lsP49uW8AtYIUFrf_ryO_9CtOs5Z].md",
@@ -28690,9 +28936,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》844丨如何立于不败之地？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-844-ruhe-liyu-bubaizhidi-lsp49uw8atyiufrf-ryo-9ctos5z/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》826丨乱世的罪与恶，背后是贪婪的人性 [ljK0Q4ZQ4zy6l9rvoO_PiPDcSiJV].md",
+          "key": "zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》826丨乱世的罪与恶，背后是贪婪的人性",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-29",
       "url": "/wiki/entities/zhonghaolatehan/"
     },
     "ZhongHaoYingchuanLateHan": {

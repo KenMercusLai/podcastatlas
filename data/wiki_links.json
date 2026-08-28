@@ -7407,6 +7407,10 @@
     "title": "Bounded Speculative Optionality / 有边界的彩票仓位",
     "url": "/wiki/concepts/boundedspeculativeoptionality/"
   },
+  "BountyMobilizedPacification": {
+    "title": "赏募动员式平乱 / Bounty-Mobilized Pacification",
+    "url": "/wiki/concepts/bountymobilizedpacification/"
+  },
   "BourdieuCapitalForms": {
     "title": "Bourdieu Capital Forms / 布迪厄资本形式",
     "url": "/wiki/concepts/bourdieucapitalforms/"
@@ -19199,6 +19203,10 @@
     "title": "傅宇 / Fu Yu",
     "url": "/wiki/entities/fuyu/"
   },
+  "FuZhiLateHan": {
+    "title": "服直 / Fu Zhi (late Han)",
+    "url": "/wiki/entities/fuzhilatehan/"
+  },
   "Fuchai": {
     "title": "吴王夫差 / King Fuchai of Wu",
     "url": "/wiki/entities/fuchai/"
@@ -23290,6 +23298,10 @@
   "HuZhenLateHan": {
     "title": "胡轸 / Hu Zhen (late Han)",
     "url": "/wiki/entities/huzhenlatehan/"
+  },
+  "HuaMengLateHan": {
+    "title": "华孟 / Hua Meng (late Han)",
+    "url": "/wiki/entities/huamenglatehan/"
   },
   "HuaXin": {
     "title": "华歆 / Hua Xin",
@@ -29179,6 +29191,10 @@
     "title": "廉中 / Lian Zhong (late Han)",
     "url": "/wiki/entities/lianzhonglatehan/"
   },
+  "LiangBingLateHan": {
+    "title": "梁并 / Liang Bing (late Han)",
+    "url": "/wiki/entities/liangbinglatehan/"
+  },
   "LiangBuyiLateHan": {
     "title": "梁不疑 / Liang Buyi (late Han)",
     "url": "/wiki/entities/liangbuyilatehan/"
@@ -29742,6 +29758,10 @@
   "LiuJuLateHan": {
     "title": "刘矩 / Liu Ju (late Han)",
     "url": "/wiki/entities/liujulatehan/"
+  },
+  "LiuJunshiLateHan": {
+    "title": "刘君世 / Liu Junshi (late Han)",
+    "url": "/wiki/entities/liujunshilatehan/"
   },
   "LiuKai": {
     "title": "Liu Kai",
@@ -33194,6 +33214,10 @@
   "MilitaryCivilianIntegration": {
     "title": "Military-Civil Integration / 军政一体",
     "url": "/wiki/concepts/militarycivilianintegration/"
+  },
+  "MilitaryFinanceCorruption": {
+    "title": "军费贪腐与战力空转 / Military Finance Corruption",
+    "url": "/wiki/concepts/militaryfinancecorruption/"
   },
   "MilitaryMeritRankSystem": {
     "title": "Military Merit Rank System / 军功爵制",
@@ -53927,6 +53951,10 @@
     "title": "Xiayi Plan / 下邑画策",
     "url": "/wiki/concepts/xiayiplan/"
   },
+  "XieAnXiapiLateHan": {
+    "title": "谢安 / Xie An (Xiapi, late Han)",
+    "url": "/wiki/entities/xieanxiapilatehan/"
+  },
   "XieBiLateHan": {
     "title": "谢弼 / Xie Bi (late Han)",
     "url": "/wiki/entities/xiebilatehan/"
@@ -54138,6 +54166,10 @@
   "XuDanLateHan": {
     "title": "许耽 / Xu Dan (late Han)",
     "url": "/wiki/entities/xudanlatehan/"
+  },
+  "XuFengBanditLateHan": {
+    "title": "徐凤 / Xu Feng (bandit, late Han)",
+    "url": "/wiki/entities/xufengbanditlatehan/"
   },
   "XuFengLateHan": {
     "title": "徐奉 / Xu Feng (late Han)",
@@ -55090,6 +55122,10 @@
   "YingBu": {
     "title": "英布 / 黥布 / Ying Bu",
     "url": "/wiki/entities/yingbu/"
+  },
+  "YingChengLateHan": {
+    "title": "应承 / Ying Cheng (late Han)",
+    "url": "/wiki/entities/yingchenglatehan/"
   },
   "YingFengLateHan": {
     "title": "应奉 / Ying Feng (late Han)",
@@ -56578,6 +56614,10 @@
   "ZhaoXixu": {
     "title": "昭奚恤 / Zhao Xixu",
     "url": "/wiki/entities/zhaoxixu/"
+  },
+  "ZhaoXuLateHan": {
+    "title": "赵序 / Zhao Xu (late Han)",
+    "url": "/wiki/entities/zhaoxulatehan/"
   },
   "ZhaoYanLateHan": {
     "title": "赵俨 / Zhao Yan (late Han)",
@@ -61242,6 +61282,10 @@
   "zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv": {
     "title": "《资治通鉴·汉纪》822丨豺狼当道，他将矛头直指皇帝岳父？",
     "url": "/wiki/sources/zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv/"
+  },
+  "zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv": {
+    "title": "《资治通鉴·汉纪》826丨乱世的罪与恶，背后是贪婪的人性",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv/"
   },
   "zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2": {
     "title": "《资治通鉴·汉纪》827丨一句话引发的帝王之死",

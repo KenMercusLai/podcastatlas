@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "87238dd158df612bbcc136fa54dccb214e7b1329d7e5181231d50ea2a55e9e21",
       "1d2a90e8e7cf9f976bb20e7e21455a73c6de591a5e71cabba8246b865d628e0b",
       "255bdb14726d1bdf71b3b416f890df3b985e38853cfb8965f9583d6369d452a0",
       "7fa4b522d9138d8bcea60cd4524a0957bc30c7b0ba93b0328017a374f865c61f",
@@ -347,11 +348,47 @@
       "b7fe88c4a3ea92e3484da7ba393768450cea0ebc036e6acdec39ec881741cf34",
       "082a8129ce267d83fa695011e4d1d9ec611a2911fab24932213544b548f520cf"
     ],
-    "paragraph_count": 345
+    "paragraph_count": 346
   },
-  "overview_commit": "f0814b8df12c9ed709dd12c37ee73f120d2cb423",
-  "overview_digest": "d1d5d644ca90b2b9dd987b1dc72ef95c8c7af7feef1145fbfe405ac2773d510e",
+  "overview_commit": "ac30f7686cfb47282b29ef42cb3c802c2cc73ae1",
+  "overview_digest": "bee1b208dd76e3f07547f0fb3e74366eed0e071c299fd63e8369bc8849e9e0a2",
   "paragraphs": [
+    {
+      "id": "87238dd158df612bbcc136fa54dccb214e7b1329d7e5181231d50ea2a55e9e21",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv|《资治通鉴·汉纪》826丨乱世的罪与恶，背后是贪婪的人性]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 145 CE unrest layer between [[zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv|Hanji 822]] and [[zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2|Hanji 827]]. It adds [[LiangBingLateHan|梁并]], [[ZhaoXuLateHan|赵序]], [[LiuJunshiLateHan|刘君世]], [[YingChengLateHan|应承]], [[FuZhiLateHan|服直]], [[HuaMengLateHan|华孟]], [[XieAnXiapiLateHan|下邳谢安]], [[XuFengBanditLateHan|徐凤]], [[MilitaryFinanceCorruption|军费贪腐与战力空转]], and [[BountyMobilizedPacification|赏募动员式平乱]], while extending [[TengFuLateHan|滕抚]], [[FengGunLateHan|冯绲]], [[ZhongHaoLateHan|种暠]], [[LiGuLateHan|李固]], [[DuQiaoLateHan|杜乔]], [[EmpressDowagerLiangNaLateHan|梁妠]], [[LiangJiLateHan|梁冀]], [[BaCommanderyLateHan|巴郡]], and [[RetaliatoryPoliticalTerror|报复性政治恐怖]]. Its core synthesis is that before Emperor Zhi's poisoning and the Huan-era accession crisis, late-Han disorder already shows three linked failures: campaign money becomes private extraction, anti-bandit rewards need credible commanders and local participation to become capacity, and a corruption report can become personal revenge once Liang Ji controls retaliation channels. No settled contradiction is recorded; transcript variants are normalized against the received Tongjian passage, and minor rebel leaders plus exact campaign accounting remain source-scoped.",
+      "topic_scores": {
+        "business-and-markets": 1,
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 2
+      },
+      "wikilinks": [
+        "BaCommanderyLateHan",
+        "BountyMobilizedPacification",
+        "DuQiaoLateHan",
+        "EmpressDowagerLiangNaLateHan",
+        "FengGunLateHan",
+        "FuZhiLateHan",
+        "HuaMengLateHan",
+        "LiGuLateHan",
+        "LiangBingLateHan",
+        "LiangJiLateHan",
+        "LiuJunshiLateHan",
+        "MilitaryFinanceCorruption",
+        "RetaliatoryPoliticalTerror",
+        "RuiqiJiangtouZizhiTongjian",
+        "TengFuLateHan",
+        "XieAnXiapiLateHan",
+        "XuFengBanditLateHan",
+        "YingChengLateHan",
+        "ZhaoXuLateHan",
+        "ZhongHaoLateHan",
+        "zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv",
+        "zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv",
+        "zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2"
+      ]
+    },
     {
       "id": "1d2a90e8e7cf9f976bb20e7e21455a73c6de591a5e71cabba8246b865d628e0b",
       "primary_topic": "governance-and-institutions",
