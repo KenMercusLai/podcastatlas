@@ -13141,6 +13141,10 @@ Ingested the Marketplace Tech episode on Meta's proposed teen-safety settlement,
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-29] ingest | 《资治通鉴·汉纪》819丨2人功比4万人，他的权谋令人拍案叫绝！
+
+Ingested the 芮淇讲透资治通鉴 episode on 138 CE Li Gu rejecting a 40,000-soldier Jiaozhi expedition, recommending Zhang Qiao and Zhu Liang, using temporary Rinan retrenchment and reward-backed surrender strategy, and extending Shun-era recommendation accountability through Zhou Ju, Zuo Xiong, and Liang He. Created the source note plus Zhang Qiao, Zhu Liang, Zuo Xiong, and Temporary Frontier Retrenchment pages; updated Li Gu, Emperor Shun, Zhou Ju, Jiaozhi Commandery, Appointment Quality as State Capacity, Bounty-Mobilized Pacification, Frontier Conscription Backfire, index, and overview. No settled contradiction found; transcript forms 交治/交植, 九征, 宾州刺史, and uncertain minor actors remain normalized cautiously or source-scoped.
+
 ## [2026-08-29] ingest | 《资治通鉴·汉纪》821丨不懂老板心思还想晋升？没门！
 
 Ingested the 芮淇讲透资治通鉴 episode on 141 CE Emperor Shun's Ma Xian command failure, ignored Ma Rong and Huangfu Gui warnings, Zhao Chong's partial repair, Liang Shang's death, Zhou Ju's recommendation, and Liang Ji's Grand General appointment. Created the source note, Ma Xian, Liang Shang, and Zhou Ju pages; updated Emperor Shun, Zhao Chong, Ma Rong, Liang Buyi, Huangfu Gui, Liang Ji, Promotion Position Fit, Frontier Command Collapse, Appointment Quality as State Capacity, Outer-Relative Court Power, index, and overview. No settled contradiction found; transcript variants and minor Qiang/geography/person-name details remain source-scoped.
@@ -13280,6 +13284,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-29] ingest | 《资治通鉴·汉纪》820丨职场警示！小心领导让你背黑锅
 
 Ingested the 芮淇讲透资治通鉴 episode on 139-140 CE Emperor Shun, Liang Shang's legal and appointment restraint, the Southern Xiongnu revolt, Chen Gui's unauthorized chanyu coercion, Ma Xu's fortified surrender policy, and the Ma Xian warning setup. Created the source note plus Ma Xu, Xiuli, Wusi, Che Niu, and Zhang Dan pages; updated Emperor Shun, Liang Shang, Liang Buyi, Ma Xian, Liang Bing, Chen Gui, Southern Xiongnu, Blame-Absorbing Responsibility, Unauthorized Frontier Command Intervention, Frontier Command Collapse, Fortified Attrition Patience, index, and overview. No settled contradiction found; transcript forms 马旭, 梁炳, 武司, 陈圭, 张耽, and 修立 were normalized cautiously to 马续, 梁并, 句龙王吾斯, 陈龟, 张躭, and 休利.
+
+## [2026-08-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-29] lint | Wiki health check
 

@@ -56826,6 +56826,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "TemporaryFrontierRetrenchment": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "TenKingdomsRelationshipTypes": [
     {
       "key": "history",
@@ -71870,6 +71877,13 @@
     }
   ],
   "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff": [
     {
       "key": "politics",
       "label": "Politics",

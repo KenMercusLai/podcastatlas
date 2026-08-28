@@ -1,32 +1,51 @@
 ---
 title: "边疆征发反噬 / Frontier Conscription Backfire"
 type: concept
+knowledge_schema: synthesis-v1
 tags: [late-han, frontier, military, statecraft, rebellion]
-sources: [zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy]
-last_updated: 2026-08-25
+sources:
+  - zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy
+  - zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff
+last_updated: 2026-08-29
 ---
 
-# 边疆征发反噬 / Frontier Conscription Backfire
+## Definition
+边疆征发反噬 / Frontier Conscription Backfire is the pattern where a state tries to solve one frontier crisis by extracting troops or auxiliary service from another fragile population, thereby creating new unrest, desertion, or legitimacy collapse.
 
-[[zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy|Hanji 939]] introduces frontier conscription backfire through the [[SouthernXiongnu|南匈奴]] crisis. The Han court orders Southern Xiongnu forces to support [[LiuYuLateHan|刘虞]] against [[ZhangChunLateHan|张纯]], and [[QiangquChanyu|羌渠]] sends cavalry, but the requisition makes his own people fear that Han demands will not stop.
+## Current Synthesis
+Hanji 819 supplies the anticipatory form of the concept. During the 138 CE Jiaozhi crisis, [[LiGuLateHan|李固]] rejects the court majority's plan to send 40,000 soldiers from Jingzhou, Yangzhou, and Yuzhou because those regions already face unrest, repeated levies, disease risk, long-distance exhaustion, and heavy grain cost. The backfire is predicted before it occurs: a visible show of force could create desertion or rebellion in the recruiting base and weaken the state before reaching the southern theater.
 
-The backfire is immediate and political. [[XiluoSouthernXiongnu|醯落]] and the [[TugeHu|屠各胡]] rebel, kill Qiangqu, and install [[YufuluoChanyu|于扶罗]]. The court's attempt to solve one frontier-civil crisis by drawing on an allied frontier group therefore destabilizes that group's internal order and produces a new armed actor for later late-Han conflicts.
+Hanji 939 supplies the realized allied-frontier form. The Han court orders [[SouthernXiongnu|南匈奴]] forces to support [[LiuYuLateHan|刘虞]] against [[ZhangChunLateHan|张纯]], and [[QiangquChanyu|羌渠]] sends cavalry, but the requisition makes his own people fear that Han demands will not stop. [[XiluoSouthernXiongnu|醯落]] and the [[TugeHu|屠各胡]] rebel, kill Qiangqu, and install [[YufuluoChanyu|于扶罗]].
 
-[[zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh|Hanji 938]] supplies an adjacent but distinct Wuhuan case through [[FrontierAuxiliarySupplyFailure|边兵粮饷供应失灵]]. There the failure is not a partner succession revolt caused by requisition pressure; it is the collapse of food, pay, and command credibility after Wuhuan cavalry have already been recruited.
-
-This concept differs from ordinary military mobilization failure. It names the case where a center's extraction of frontier auxiliary forces weakens the partner's internal legitimacy and turns the partner into another crisis source.
+The concept differs from ordinary mobilization failure because it names the secondary political damage caused by recruitment itself. It also differs from [[FrontierAuxiliarySupplyFailure|边兵粮饷供应失灵]], where recruited auxiliaries fail through food, pay, and command credibility after mobilization has already occurred.
 
 ## Key Claims
 
+- Distant conscription can create rebellion or desertion in the recruiting base before it repairs the target crisis.
 - Frontier auxiliaries are not frictionless resources; requisition can shift internal legitimacy inside the allied group.
 - A campaign demand against one rebel can generate a second rebellion if the recruited group expects repeated extraction without sufficient protection or payoff.
 - The killing of [[QiangquChanyu|羌渠]] and elevation of [[YufuluoChanyu|于扶罗]] make conscription backlash a succession event, not only a refusal to serve.
-- Hanji 939 makes this an early pre-Dong-Zhuo warning: the late-Han center is still issuing orders, but its orders can multiply rather than contain disorder.
+- Li Gu's Jiaozhi objection shows that a state can avoid backfire by substituting appointments, retrenchment, rewards, and surrender policy for raw levy size.
 
-## Connections
+## Evidence
 
-- [[SouthernXiongnu|南匈奴]], [[QiangquChanyu|羌渠]], [[XiluoSouthernXiongnu|醯落]], [[TugeHu|屠各胡]], and [[YufuluoChanyu|于扶罗]] - source case's internal-revolt chain.
-- [[LiuYuLateHan|刘虞]], [[YouzhouLateHan|幽州]], and [[ZhangChunLateHan|张纯]] - campaign target and frontier province that trigger the requisition.
-- [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]] - adjacent frame for why cooperation can fail when participant incentives diverge.
-- [[FrontierAuxiliarySupplyFailure|边兵粮饷供应失灵]] - adjacent Hanji 938 case where an auxiliary force fails through logistics and resentment rather than through allied-group succession backlash.
-- [[ProvincialShepherdAutonomy|州牧集权与地方割据]] - same episode's institutional response to disorder that may shift power away from the center.
+- Predicted recruiting-base unrest: [[zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff|Hanji 819]] says Li Gu objects that Jingzhou, Yangzhou, Wuling, Nan commandery, Changsha, and Guiyang are already unstable or repeatedly levied.
+- Distance and morale: [[zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff|Hanji 819]] says sudden far deployment to Jiaozhi could make soldiers despair, desert, or rebel.
+- Disease and fiscal cost: [[zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff|Hanji 819]] says southern humidity, long travel, food consumption, and possible follow-up levies would damage state capacity.
+- Allied-frontier revolt: [[zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy|Hanji 939]] says Southern Xiongnu fear repeated Han requisitions after Qiangqu sends troops against Zhang Chun.
+- Succession backlash: [[zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy|Hanji 939]] says Xiluo and Tuge Hu rebels kill Qiangqu and install Yufuluo, turning levy pressure into internal regime change.
+
+## Counterevidence & Qualifications
+The Hanji 819 layer is a warning inside Li Gu's successful argument, not a recorded failed expedition. It therefore shows competent anticipation rather than realized backfire. Hanji 939 records realized backlash, but Southern Xiongnu unrest also reflects internal leadership and alliance incentives beyond the single requisition order.
+
+## What Changed
+- Added Hanji 819 as the anticipatory Jiaozhi case where Li Gu prevents backfire by rejecting mass distant conscription.
+- Converted the page to the synthesis-v1 concept schema while preserving Hanji 939's realized Southern Xiongnu succession-backlash case.
+
+## Related Concepts
+- [[TemporaryFrontierRetrenchment|临时边防收缩]] - one alternative to dangerous overextension in Hanji 819.
+- [[AppointmentQualityAsStateCapacity|任官适任性国家能力]] - Li Gu's replacement strategy relies on better officials instead of wider levy.
+- [[WarCostTempoDiscipline|战费节奏纪律]] - backfire risk rises when cost, distance, and campaign tempo are ignored.
+- [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]] - allied groups may defect when state demands damage their incentive structure.
+- [[FrontierAuxiliarySupplyFailure|边兵粮饷供应失灵]] - adjacent failure mode after auxiliaries are already recruited.
+- [[SouthernXiongnu|南匈奴]] - Hanji 939's realized internal-revolt case.

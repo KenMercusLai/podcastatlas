@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1993
+topic_total_pages: 1995
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3085,6 +3085,9 @@ topic_concepts:
   - key: "EnvoyKillingTaboo"
     title: "不斩来使 / Envoy Killing Taboo"
     url: "/wiki/concepts/envoykillingtaboo/"
+  - key: "TemporaryFrontierRetrenchment"
+    title: "临时边防收缩 / Temporary Frontier Retrenchment"
+    url: "/wiki/concepts/temporaryfrontierretrenchment/"
   - key: "HumaneLocalGovernance"
     title: "仁厚地方治理 / Humane Local Governance"
     url: "/wiki/concepts/humanelocalgovernance/"
@@ -5916,6 +5919,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh"
     title: "《资治通鉴·汉纪》185｜一张利嘴，收复中国万里疆土"
     url: "/wiki/sources/zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh/"
+  - key: "zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff"
+    title: "《资治通鉴·汉纪》819丨2人功比4万人，他的权谋令人拍案叫绝！"
+    url: "/wiki/sources/zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff/"
   - key: "zizhi-tongjian-hanji-837-weiren-chushi-weihe-buneng-xinci-shouruan-luznyzqldwdrbkfm7ce-1huuxm7b"
     title: "《资治通鉴·汉纪》837丨为人处世，为何不能心慈手软？"
     url: "/wiki/sources/zizhi-tongjian-hanji-837-weiren-chushi-weihe-buneng-xinci-shouruan-luznyzqldwdrbkfm7ce-1huuxm7b/"

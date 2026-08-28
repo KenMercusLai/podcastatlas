@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 5886
+wiki_total_pages: 5887
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -665,6 +665,9 @@ wiki_pages:
   - key: "ThreeKingdomsStruggleStrategyReading"
     title: "三国斗争策略读法 / Three Kingdoms Struggle Strategy Reading"
     url: "/wiki/concepts/threekingdomsstrugglestrategyreading/"
+  - key: "TemporaryFrontierRetrenchment"
+    title: "临时边防收缩 / Temporary Frontier Retrenchment"
+    url: "/wiki/concepts/temporaryfrontierretrenchment/"
   - key: "TrustAsMoralRisk"
     title: "信赖作为道德风险 / Trust As Moral Risk"
     url: "/wiki/concepts/trustasmoralrisk/"

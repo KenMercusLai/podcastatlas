@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "747c424e2c650902c1cc320496d834bff2055dd907b5167f993b9e737c38aad5",
       "aeafe2c01101db5fbb079b8132df791554abcdca958fc5a5707cf9a3c1ece869",
       "61202b9a66271c2d68d2f82f74a4627d6b494c5125926dd5365093ad1ef34b60",
       "ba4b6e07bbc858f1190ceb97b96c4010a664e743420b13749fad4f031bf94171",
@@ -356,11 +357,39 @@
       "082a8129ce267d83fa695011e4d1d9ec611a2911fab24932213544b548f520cf",
       "6dd2244cfd82de8e2076d8e2587203e47d3343702b97f83715d88073f28b3401"
     ],
-    "paragraph_count": 354
+    "paragraph_count": 355
   },
-  "overview_commit": "9c67efd6581c65adfc6054b7765ea1ffe7050951",
-  "overview_digest": "a9afafa186edd03c3bc977a0abbfb715f1e6a0a9dd8a68b579449fdf6320e615",
+  "overview_commit": "eda6ae3ede9decd31dddb17414c0c0fa7a29fa9b",
+  "overview_digest": "4379b9e9c2299cf29cf7b396b493643dde4c51311d2f76b2e18738822aeaf7b9",
   "paragraphs": [
+    {
+      "id": "747c424e2c650902c1cc320496d834bff2055dd907b5167f993b9e737c38aad5",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff|《资治通鉴·汉纪》819丨2人功比4万人，他的权谋令人拍案叫绝！]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 138 CE [[EmperorShunOfHan|汉顺帝]] southern-frontier layer before [[zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap|Hanji 820]]. It adds [[ZhangQiaoLateHan|张乔]], [[ZhuLiangLateHan|祝良]], [[ZuoXiongLateHan|左雄]], and [[TemporaryFrontierRetrenchment|临时边防收缩]], while extending [[LiGuLateHan|李固]], [[JiaozhiCommandery|交趾郡]], [[ZhouJuLateHan|周举]], [[AppointmentQualityAsStateCapacity|任官适任性国家能力]], [[FrontierConscriptionBackfire|边疆征发反噬]], and [[BountyMobilizedPacification|赏募动员式平乱]]. Its core synthesis is that Shun-era capacity can come from refusing the largest visible solution: Li Gu reads disease, distance, local unrest, food cost, and conscription backlash before replacing a 40,000-soldier expedition with fit appointments, temporary Rinan retrenchment, and reward-backed surrender strategy. No settled contradiction is recorded; Zhang Kui, Cao Teng and Meng Wen accusation details, Liang He, Feng Zhi, Na Li, and minor place-name variants remain source-scoped unless later notes require canonical expansion.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "AppointmentQualityAsStateCapacity",
+        "BountyMobilizedPacification",
+        "EmperorShunOfHan",
+        "FrontierConscriptionBackfire",
+        "JiaozhiCommandery",
+        "LiGuLateHan",
+        "RuiqiJiangtouZizhiTongjian",
+        "TemporaryFrontierRetrenchment",
+        "ZhangQiaoLateHan",
+        "ZhouJuLateHan",
+        "ZhuLiangLateHan",
+        "ZuoXiongLateHan",
+        "zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff",
+        "zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap"
+      ]
+    },
     {
       "id": "aeafe2c01101db5fbb079b8132df791554abcdca958fc5a5707cf9a3c1ece869",
       "primary_topic": "governance-and-institutions",
