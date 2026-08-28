@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》842丨什么是好官？他为百姓敢拼命！](sources/zizhi-tongjian-hanji-842-shenme-shi-haoguan-ta-wei-baixing-gan-pinming-lj2okcbcvcmrfqrj3d-k1ylqdi2si.md) — 芮淇讲透资治通鉴 episode on Han Shao's risk-bearing granary relief, Tanshihuai's early Xianbei organization, Li Ying's frontier reputation, Duan Jiong's false-recall ambush, and the 156 CE crisis field.
 - [《资治通鉴·汉纪》843丨古代农民贫困的根源是什么？](sources/zizhi-tongjian-hanji-843-gudai-nongmin-pinkun-de-genyuan-shi-shenme-lutep8yyzanhlb4ao6sope-8edvy.md) — 芮淇讲透资治通鉴 episode on Liu Tao's rejection of a coinage explanation for peasant poverty, Zhu Da's extraction-driven local rebellion, Chen Shou's fatal eclipse accusation against Liang Ji, and Chen Gui's 158 CE frontier-administration and tax-remission program.
 - [《资治通鉴·汉纪》844丨如何立于不败之地？](sources/zizhi-tongjian-hanji-844-ruhe-liyu-bubaizhidi-lsp49uw8atyiufrf-ryo-9ctos5z.md) — 芮淇讲透资治通鉴 episode on Zhang Huan calming frontier troops, splitting Wuhuan from Southern Xiongnu/Tuge opponents, Emperor Huan's Che'er legitimacy decision, Chen Gui's anti-Liang death, and Zhong Hao's trust-based Duliao governance.
 - [《资治通鉴·汉纪》845丨从当代婚姻观聊古代的婚检制度](sources/zizhi-tongjian-hanji-845-cong-dangdai-hunyin-guan-liao-gudai-de-hunjian-zhidu-lr0i25twkoxm2wen7pnfbwt3qdsn.md) — 芮淇讲透资治通鉴 episode on modern marriage choice, Liang Ying's family-backed empress status, imperial pre-marriage body inspection, childlessness, and the household prelude to Huan's anti-Liang turn.
@@ -1632,6 +1633,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [韩韶 / Han Shao (late Han)](entities/HanShaoLateHan.md) — Yingchuan official whose Ying county appointment, thief-deterrent reputation, and risk-bearing granary relief anchor Hanji 842's good-official theme.
+- [钟皓 / Zhong Hao (Yingchuan, late Han)](entities/ZhongHaoYingchuanLateHan.md) — Yingchuan Four Magistrates member kept distinct from the existing 种暠 frontier-official route.
+- [荀淑 / Xun Shu (late Han)](entities/XunShuLateHan.md) — Yingchuan Four Magistrates member currently grounded by Hanji 842's county-level virtuous-governance cohort label.
 - [Advent International](entities/AdventInternational.md) - Private-equity bidder in the All-In source's Stripe/PayPal/Block payment-stack consolidation discussion.
 - [Block Inc.](entities/BlockInc.md) - Payments and commerce company linked to Square, used in the All-In source as a reported PayPal-bid participant.
 - [FINRA](entities/FINRA.md) - U.S. securities self-regulatory organization used as the model for Demis Hassabis's proposed AI standards body.
@@ -9747,6 +9751,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [担责开仓式救民 / Risk-Bearing Relief Governance](concepts/RiskBearingReliefGovernance.md) — Crisis-administration pattern where an official opens public reserves to save people while accepting legal or career risk.
+- [颍川四长 / Yingchuan Four Magistrates](concepts/YingchuanFourMagistrates.md) — Late-Han county-magistrate reputation label for Han Shao, Zhong Hao, Xun Shu, and Chen Shi as virtuous local officials.
 - [Alternative Payment Stack Consolidation](concepts/AlternativePaymentStackConsolidation.md) - AI-era payments consolidation thesis combining consumer accounts, merchant rails, stablecoins, risk systems, and point-of-sale infrastructure to challenge card networks.
 - [Extracellular Aging Enzyme Therapy](concepts/ExtracellularAgingEnzymeTherapy.md) - AI-assisted aging-therapy route using protein binding, directed evolution, and CML degradation to target glycation damage outside cells.
 - [Individualized Cancer Vaccine Manufacturing](concepts/IndividualizedCancerVaccineManufacturing.md) — Patient-specific mRNA vaccine production chain linking tissue sampling, sequencing, neoantigen selection, LNP packaging, QC, automation, and release.

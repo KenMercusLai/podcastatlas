@@ -48510,6 +48510,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "RiskBearingReliefGovernance": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "RiskBudgetedAbsoluteReturn": [
     {
       "key": "economics",

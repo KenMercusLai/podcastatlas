@@ -21491,6 +21491,10 @@
     "title": "韩融 / Han Rong (late Han)",
     "url": "/wiki/entities/hanronglatehan/"
   },
+  "HanShaoLateHan": {
+    "title": "韩韶 / Han Shao (late Han)",
+    "url": "/wiki/entities/hanshaolatehan/"
+  },
   "HanSheng": {
     "title": "韩生 / Han Sheng",
     "url": "/wiki/entities/hansheng/"
@@ -41651,6 +41655,10 @@
     "title": "Rishengchang / 日升昌",
     "url": "/wiki/entities/rishengchang/"
   },
+  "RiskBearingReliefGovernance": {
+    "title": "担责开仓式救民 / Risk-Bearing Relief Governance",
+    "url": "/wiki/concepts/riskbearingreliefgovernance/"
+  },
   "RiskBudgetedAbsoluteReturn": {
     "title": "Risk-Budgeted Absolute Return / 风险预算绝对收益",
     "url": "/wiki/concepts/riskbudgetedabsolutereturn/"
@@ -53927,6 +53935,10 @@
     "title": "荀谌 / Xun Chen (late Han)",
     "url": "/wiki/entities/xunchenlatehan/"
   },
+  "XunShuLateHan": {
+    "title": "荀淑 / Xun Shu (late Han)",
+    "url": "/wiki/entities/xunshulatehan/"
+  },
   "XunShuangLateHan": {
     "title": "荀爽 / Xun Shuang (late Han)",
     "url": "/wiki/entities/xunshuanglatehan/"
@@ -54654,6 +54666,10 @@
   "YingchuanCommandery": {
     "title": "颍川郡 / Yingchuan Commandery",
     "url": "/wiki/entities/yingchuancommandery/"
+  },
+  "YingchuanFourMagistrates": {
+    "title": "颍川四长 / Yingchuan Four Magistrates",
+    "url": "/wiki/concepts/yingchuanfourmagistrates/"
   },
   "YingdiHaike": {
     "title": "硬地骇客",
@@ -56302,6 +56318,10 @@
   "ZhongHaoLateHan": {
     "title": "种暠 / Zhong Hao (late Han)",
     "url": "/wiki/entities/zhonghaolatehan/"
+  },
+  "ZhongHaoYingchuanLateHan": {
+    "title": "钟皓 / Zhong Hao (Yingchuan, late Han)",
+    "url": "/wiki/entities/zhonghaoyingchuanlatehan/"
   },
   "ZhongJiLateHan": {
     "title": "种辑 / Zhong Ji (late Han)",
@@ -60718,6 +60738,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-842-shenme-shi-haoguan-ta-wei-baixing-gan-pinming-lj2okcbcvcmrfqrj3d-k1ylqdi2si": {
+    "title": "《资治通鉴·汉纪》842丨什么是好官？他为百姓敢拼命！",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-842-shenme-shi-haoguan-ta-wei-baixing-gan-pinming-lj2okcbcvcmrfqrj3d-k1ylqdi2si/"
   },
   "zizhi-tongjian-hanji-843-gudai-nongmin-pinkun-de-genyuan-shi-shenme-lutep8yyzanhlb4ao6sope-8edvy": {
     "title": "《资治通鉴·汉纪》843丨古代农民贫困的根源是什么？",

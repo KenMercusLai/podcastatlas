@@ -12,19 +12,22 @@ sources:
   - zizhi-tongjian-hanji-869-liying-weihe-bei-chengwei-tianxia-diyi-kaimo-lltckcioe1n9v91yy4c9vvwmz4mo
   - zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6
   - zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv
+  - zizhi-tongjian-hanji-842-shenme-shi-haoguan-ta-wei-baixing-gan-pinming-lj2okcbcvcmrfqrj3d-k1ylqdi2si
 last_updated: 2026-08-28
 knowledge_schema: synthesis-v1
 ---
 
 ## Overview
 
-李膺 / Li Ying is a late-Han scholar-official, reputation model, and party-prohibition victim whose current wiki profile now begins with elite recognition before moving into enforcement reversal and persecution. Hanji 860 shows him praising [[GuoTaiLateHan|郭泰]] after [[FuRongLateHan|符融]]'s introduction; Hanji 866 then shows a 165 CE enforcement reversal against [[YangYuanqunLateHan|羊元群]]. Li Ying is punished after investigating eunuch-backed corruption, later restored as Sili xiaowei, executes [[ZhangShuoLateHan|张硕]], and gains "登龙门" prestige before the Party Prohibition arc. Hanji 874-876 develop the Zhang Cheng enforcement trigger, first arrest expansion, reputation field, and rescue path, while Hanji 884 and Hanji 892-893 show reform restoration followed by fatal exposure in the second party-prohibition disaster.
+李膺 / Li Ying is a late-Han scholar-official, frontier appointee, reputation model, and party-prohibition victim whose current wiki profile now begins with 156 CE frontier prestige before moving into elite recognition, enforcement reversal, restoration, high-risk law enforcement, and persecution. Hanji 842 appoints the former Wuhuan colonel as Duliao general after [[TanshihuaiXianbei|檀石槐]] attacks Yunzhong; Qiang and Hu groups hear of him, submit, and return captives. Later sources show the same public reputation becoming a prestige gate among士人 and, eventually, a target under Party Prohibition.
 
 ## Current Profile
 
-Li Ying's current evidence presents him as a public moral figure whose prestige moves through talent recognition, punished investigation, restored office, high-risk enforcement, reputation gatekeeping, prison liability, reform capital, and fatal exposure. Hanji 860 gives the recognition layer: Fu Rong brings Guo Tai to Li Ying, Li Ying says Guo Tai is unusually intelligent, refined, and difficult to match, and Guo Tai's fame spreads in Luoyang after their association. The Yellow River sendoff scene turns Li Ying and Guo Tai's relationship into visible scholar-official prestige.
+Li Ying's current evidence presents him as a public moral figure whose prestige moves through frontier deterrence, talent recognition, punished investigation, restored office, high-risk enforcement, reputation gatekeeping, prison liability, reform capital, and fatal exposure. The earliest bounded layer is Hanji 842: when Tanshihuai attacks Yunzhong in 156 CE, Emperor Huan urgently appoints Li Ying as Duliao general. The episode stresses that Li Ying's reputation itself changes frontier behavior, with Qiang and Hu groups submitting and returning captives after he arrives.
 
-The next bounded layer is not triumph but reversal: Li Ying investigates Yang Yuanqun's corruption, Yang reaches eunuch patrons through bribery, and Li Ying is sent to left-workshop labor with [[FengGunLateHan|冯绲]] and [[LiuYouLateHan|刘祐]]. The later pardon restores him only after [[YingFengLateHan|应奉]] persuades [[EmperorHuanOfHan|汉桓帝]] to treat these punished officials as state-capacity assets. Li Ying then returns as Sili xiaowei and immediately becomes a test case for whether law can reach eunuch-connected offenders.
+Hanji 860 gives the elite-recognition layer. [[FuRongLateHan|符融]] brings [[GuoTaiLateHan|郭泰]] to Li Ying, Li Ying says Guo Tai is unusually intelligent, refined, and difficult to match, and Guo Tai's fame spreads in Luoyang after their association. The Yellow River sendoff scene turns Li Ying and Guo Tai's relationship into visible scholar-official prestige.
+
+The next bounded layer is not triumph but reversal: Li Ying investigates [[YangYuanqunLateHan|羊元群]]'s corruption, Yang reaches eunuch patrons through bribery, and Li Ying is sent to left-workshop labor with [[FengGunLateHan|冯绲]] and [[LiuYouLateHan|刘祐]]. The later pardon restores him only after [[YingFengLateHan|应奉]] persuades [[EmperorHuanOfHan|汉桓帝]] to treat these punished officials as state-capacity assets. Li Ying then returns as Sili xiaowei and immediately becomes a test case for whether law can reach eunuch-connected offenders.
 
 The Zhang Shuo branch makes that reputation concrete. [[ZhangShuoLateHan|张硕]], brother of [[ZhangRangLateHan|张让]], hides in Zhang Rang's Luoyang house after abusive local conduct. Li Ying breaks into the hiding place, imprisons him, and executes him. When Zhang Rang complains to Huan, Li Ying cites the Confucius and Shao Zhengmao precedent and reframes speed as lawful severity rather than unauthorized violence. Huan accepts the defense, and palace eunuchs become visibly afraid of Li Ying. The same episode says士人 treated being received by him as "登龙门," making his personal recognition a prestige threshold.
 
@@ -36,16 +39,17 @@ Hanji 884 supplies the reform-capital layer: Li Ying, Du Mi, [[YinXunLateHan|尹
 
 ## Key Characteristics
 
-- Enforcement-reversal victim whose first current layer shows eunuch bribery turning a corruption investigation against the investigator.
+- Frontier prestige figure whose appointment as Duliao general makes Qiang and Hu groups submit and return captives.
+- Reputation gatekeeper whose praise helps Guo Tai's Luoyang fame and whose reception later creates a "登龙门" status marker among士人.
+- Enforcement-reversal victim whose corruption investigation is turned against him through eunuch bribery.
 - Pardon-and-restoration beneficiary whose return follows Ying Feng's state-capacity argument to Emperor Huan.
 - High-status law-enforcement figure who executes Zhang Rang's brother Zhang Shuo despite eunuch-family protection.
-- Reputation gatekeeper whose praise helps Guo Tai's Luoyang fame and whose reception later creates a "登龙门" status marker among士人.
-- Enforcement-trigger figure who later executes Zhang Cheng father and son despite an amnesty-gaming defense.
-- First Party Prohibition prisoner whose case expands from criminal enforcement into a士人 accusation field.
+- First Party Prohibition prisoner whose enforcement against Zhang Cheng expands into a士人 accusation field.
 - Reform-cohort and death-facing teacher figure whose later restoration ends in prison death and network punishment.
 
 ## Evidence
 
+- Frontier deterrence: [[zizhi-tongjian-hanji-842-shenme-shi-haoguan-ta-wei-baixing-gan-pinming-lj2okcbcvcmrfqrj3d-k1ylqdi2si|Hanji 842]] says Emperor Huan appoints Li Ying as Duliao general after Tanshihuai attacks Yunzhong, and Qiang and Hu groups submit and return captives after hearing of him.
 - Guo Tai recognition: [[zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv|Hanji 860]] says Fu Rong introduces Guo Tai to Li Ying and Li Ying praises Guo Tai as unusually difficult to match.
 - Public association: [[zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv|Hanji 860]] says Guo Tai's name becomes known in Luoyang and that officials and scholars watch Li Ying and Guo Tai cross the river together at the farewell.
 - Initial enforcement reversal: [[zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6|Hanji 866]] says Li Ying is ordered to investigate Yang Yuanqun's Beihai corruption but becomes the punished party after Yang bribes eunuchs.
@@ -64,18 +68,20 @@ Hanji 884 supplies the reform-capital layer: Li Ying, Du Mi, [[YinXunLateHan|尹
 
 ## Qualifications
 
-This page does not attempt a full Li Ying biography. Its current evidence starts with a 164 CE talent-recognition scene, then moves to 165 CE punishment, pardon, restored enforcement, reputation, first Party Prohibition arrest, reform restoration, and prison death. The source shows dramatic legal defense in the Zhang Shuo case, but it does not supply a complete Han legal analysis of Li Ying's execution decision. Transcript variants such as 李英 are normalized to 李膺.
+This page does not attempt a full Li Ying biography. Its current evidence now starts with a 156 CE frontier appointment, then moves to a 164 CE talent-recognition scene, 165 CE punishment, pardon, restored enforcement, reputation, first Party Prohibition arrest, reform restoration, and prison death. The source shows dramatic legal defense in the Zhang Shuo case, but it does not supply a complete Han legal analysis of Li Ying's execution decision. Transcript variants such as 李英 are normalized to 李膺.
 
 ## What Changed
 
-- The profile now begins with Li Ying's recognition of Guo Tai before the failed investigation against Yang Yuanqun and the later model-official reputation.
-- Li Ying's reputation-gatekeeping role now includes both Guo Tai's Luoyang fame and the later "登龙门" status marker.
-- Li Ying's early punishment is grouped with Feng Gun and Liu You as a shared enforcement-reversal cluster.
-- "天下第一楷模" and "登龙门" remain grounded in visible enforcement against eunuch-connected power after restoration.
+- Hanji 842 adds Li Ying's earliest current layer as a 156 CE frontier appointee whose reputation reduces conflict.
+- The profile no longer begins with Guo Tai recognition; that scene now follows an earlier frontier-prestige case.
+- Li Ying's reputation is now treated as useful for both border submission and scholar-official status formation.
 - Zhang Cheng, Party Prohibition, reform restoration, prison death, and student-liability layers remain intact.
 
 ## Relationships
 
+- [[TanshihuaiXianbei|檀石槐]] - Xianbei leader whose Yunzhong attack triggers Li Ying's 156 CE Duliao appointment.
+- [[AppointmentQualityAsStateCapacity|任官适任性国家能力]] - Li Ying's frontier appointment shows reputation as crisis-fit state capacity.
+- [[HighStatusLawEnforcementSignal|高位执法信号]] - Li Ying's public authority turns officeholding into a deterrent signal.
 - [[FuRongLateHan|符融]] - recommender who introduces Guo Tai to Li Ying.
 - [[GuoTaiLateHan|郭泰]] - scholar whose Luoyang fame is amplified by Li Ying's praise.
 - [[YingFengLateHan|应奉]] - memorialist whose state-capacity argument helps restore Li Ying.
@@ -84,7 +90,7 @@ This page does not attempt a full Li Ying biography. Its current evidence starts
 - [[LiuYouLateHan|刘祐]] - parallel punished fiscal official in the same 165 CE left-workshop cluster.
 - [[ZhangShuoLateHan|张硕]] - Zhang Rang's brother whom Li Ying captures and executes.
 - [[ZhangRangLateHan|张让]] - eunuch complainant whose brother's execution tests Li Ying's protection from court retaliation.
-- [[EmperorHuanOfHan|汉桓帝]] - ruler who pardons Li Ying and later upholds him against Zhang Rang's complaint.
+- [[EmperorHuanOfHan|汉桓帝]] - ruler who appoints Li Ying to the frontier, pardons him, and later upholds him against Zhang Rang's complaint.
 - [[QingyiReputationPressure|清议声誉压力]] - reputation field strengthened by Li Ying's "登龙门" recognition power.
 - [[EunuchPatronageViolenceShield|宦官庇护下的地方暴行]] - mechanism Li Ying partly defeats in the Zhang Shuo branch and later triggers in the Zhang Cheng branch.
 - [[ZhangChengAstrologerLateHan|张成]] - eunuch-connected astrologer whose amnesty-gaming murder case Li Ying punishes.

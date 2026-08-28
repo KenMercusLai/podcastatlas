@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 8111
+wiki_total_pages: 8114
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -1115,6 +1115,9 @@ wiki_pages:
   - key: "HanXiwang"
     title: "韩釐王 / King Xi of Han"
     url: "/wiki/entities/hanxiwang/"
+  - key: "HanShaoLateHan"
+    title: "韩韶 / Han Shao (late Han)"
+    url: "/wiki/entities/hanshaolatehan/"
   - key: "HanFuLateHan"
     title: "韩馥 / Han Fu (late Han)"
     url: "/wiki/entities/hanfulatehan/"

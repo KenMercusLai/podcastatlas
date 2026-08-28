@@ -13016,3 +13016,11 @@ Ran health, identity validation, and lint. Health scanned 15,551 wiki pages with
 ## [2026-08-28] lint | Wiki health check
 
 Ran health, identity validation, and lint. Health scanned 15,555 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-28 with 15,429 nodes and 180,855 edges while the current lint scan covered 15,555 pages, so bridge findings may be incomplete until the graph is rebuilt; current graph checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest` and no provider key variables are present in the environment; a bounded in-session review of the script sample plus orphan and fragile-bridge endpoints found no direct contradictions, with source-breadth gaps on several older source-scoped concept pages. Report returned in-session; `wiki/lint-report.md` was not updated.
+
+## [2026-08-28] ingest | 《资治通鉴·汉纪》842丨什么是好官？他为百姓敢拼命！
+
+Ingested Hanji 842 as the 156 CE Huan-era layer. Created the source note, Han Shao, Zhong Hao (Yingchuan), Xun Shu, Yingchuan Four Magistrates, and Risk-Bearing Relief Governance pages; updated Tanshihuai, Li Ying, Duan Jiong, Chen Shi, Humane Local Governance, Appointment Quality as State Capacity, index, and overview. No settled contradiction found; 谭石槐 was normalized to 檀石槐, 段炯 to 段熲, and 钟皓 was kept distinct from the existing 种暠 route.
+
+## [2026-08-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

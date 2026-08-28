@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1973
+topic_total_pages: 1974
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3154,6 +3154,9 @@ topic_concepts:
   - key: "ConfiscationAndFemaleFate"
     title: "抄家籍没与女性命运 / Confiscation And Female Fate"
     url: "/wiki/concepts/confiscationandfemalefate/"
+  - key: "RiskBearingReliefGovernance"
+    title: "担责开仓式救民 / Risk-Bearing Relief Governance"
+    url: "/wiki/concepts/riskbearingreliefgovernance/"
   - key: "PerMuLandTaxation"
     title: "按亩征税 / Per-Mu Land Taxation"
     url: "/wiki/concepts/permulandtaxation/"

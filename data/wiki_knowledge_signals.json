@@ -1859,9 +1859,9 @@
       "url": "/wiki/concepts/apathyactioninitiation/"
     },
     "AppointmentQualityAsStateCapacity": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》854丨历史告诉你：选官用官很重要！ [lhiN-IwK6y1XR8VvzdmnJch3s2uM].md",
@@ -1869,6 +1869,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》854丨历史告诉你：选官用官很重要！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》842丨什么是好官？他为百姓敢拼命！ [lj2OkCBcvCMRfqrj3d-k1YLQdI2s].md",
+          "key": "zizhi-tongjian-hanji-842-shenme-shi-haoguan-ta-wei-baixing-gan-pinming-lj2okcbcvcmrfqrj3d-k1ylqdi2si",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》842丨什么是好官？他为百姓敢拼命！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-842-shenme-shi-haoguan-ta-wei-baixing-gan-pinming-lj2okcbcvcmrfqrj3d-k1ylqdi2si/"
         }
       ],
       "updated": "2026-08-28",
@@ -3753,9 +3760,9 @@
       "url": "/wiki/entities/chenqiulatehan/"
     },
     "ChenShiLateHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》938丨历史的警醒！软弱只会带来屈辱 [lnlNrkETgFbADHFJbZDJjtrMQFsH].md",
@@ -3777,9 +3784,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》874丨震惊：母子相残，天理难容！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》842丨什么是好官？他为百姓敢拼命！ [lj2OkCBcvCMRfqrj3d-k1YLQdI2s].md",
+          "key": "zizhi-tongjian-hanji-842-shenme-shi-haoguan-ta-wei-baixing-gan-pinming-lj2okcbcvcmrfqrj3d-k1ylqdi2si",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》842丨什么是好官？他为百姓敢拼命！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-842-shenme-shi-haoguan-ta-wei-baixing-gan-pinming-lj2okcbcvcmrfqrj3d-k1ylqdi2si/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-28",
       "url": "/wiki/entities/chenshilatehan/"
     },
     "ChenShouTaishiLingLateHan": {
@@ -5902,9 +5916,9 @@
       "url": "/wiki/entities/duanguilatehan/"
     },
     "DuanJiongLateHan": {
-      "episode_count": 15,
+      "episode_count": 16,
       "show_count": 1,
-      "source_note_count": 15,
+      "source_note_count": 16,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》897丨职场必读！什么才叫领导力？ [lvRRMkSykaZLSb7W8aBbdmNqfzQQ].md",
@@ -6010,6 +6024,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》854丨历史告诉你：选官用官很重要！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》842丨什么是好官？他为百姓敢拼命！ [lj2OkCBcvCMRfqrj3d-k1YLQdI2s].md",
+          "key": "zizhi-tongjian-hanji-842-shenme-shi-haoguan-ta-wei-baixing-gan-pinming-lj2okcbcvcmrfqrj3d-k1ylqdi2si",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》842丨什么是好官？他为百姓敢拼命！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-842-shenme-shi-haoguan-ta-wei-baixing-gan-pinming-lj2okcbcvcmrfqrj3d-k1ylqdi2si/"
         }
       ],
       "updated": "2026-08-28",
@@ -8939,6 +8960,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/hanmenglatehan/"
     },
+    "HanShaoLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》842丨什么是好官？他为百姓敢拼命！ [lj2OkCBcvCMRfqrj3d-k1YLQdI2s].md",
+          "key": "zizhi-tongjian-hanji-842-shenme-shi-haoguan-ta-wei-baixing-gan-pinming-lj2okcbcvcmrfqrj3d-k1ylqdi2si",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》842丨什么是好官？他为百姓敢拼命！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-842-shenme-shi-haoguan-ta-wei-baixing-gan-pinming-lj2okcbcvcmrfqrj3d-k1ylqdi2si/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/hanshaolatehan/"
+    },
     "HanSongLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -9945,9 +9982,9 @@
       "url": "/wiki/concepts/humanrobotsafetycertification/"
     },
     "HumaneLocalGovernance": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》870丨古代体制内，不干了没有退路 [lpWBNiU9IFPT6Cp4ip9cZqwSh5XD].md",
@@ -9983,6 +10020,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》854丨历史告诉你：选官用官很重要！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》842丨什么是好官？他为百姓敢拼命！ [lj2OkCBcvCMRfqrj3d-k1YLQdI2s].md",
+          "key": "zizhi-tongjian-hanji-842-shenme-shi-haoguan-ta-wei-baixing-gan-pinming-lj2okcbcvcmrfqrj3d-k1ylqdi2si",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》842丨什么是好官？他为百姓敢拼命！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-842-shenme-shi-haoguan-ta-wei-baixing-gan-pinming-lj2okcbcvcmrfqrj3d-k1ylqdi2si/"
         }
       ],
       "updated": "2026-08-28",
@@ -12223,9 +12267,9 @@
       "url": "/wiki/entities/lixielatehan/"
     },
     "LiYingLateHan": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》893丨荣誉榜如何变成死亡名单？ [lmxzQoaUf79-swWNK_0CEVAv0GQ_].md",
@@ -12289,6 +12333,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》860丨惊为天人！东汉郭泰有多神？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》842丨什么是好官？他为百姓敢拼命！ [lj2OkCBcvCMRfqrj3d-k1YLQdI2s].md",
+          "key": "zizhi-tongjian-hanji-842-shenme-shi-haoguan-ta-wei-baixing-gan-pinming-lj2okcbcvcmrfqrj3d-k1ylqdi2si",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》842丨什么是好官？他为百姓敢拼命！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-842-shenme-shi-haoguan-ta-wei-baixing-gan-pinming-lj2okcbcvcmrfqrj3d-k1ylqdi2si/"
         }
       ],
       "updated": "2026-08-28",
@@ -17702,6 +17753,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/righteousnessoverprofit/"
     },
+    "RiskBearingReliefGovernance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》842丨什么是好官？他为百姓敢拼命！ [lj2OkCBcvCMRfqrj3d-k1YLQdI2s].md",
+          "key": "zizhi-tongjian-hanji-842-shenme-shi-haoguan-ta-wei-baixing-gan-pinming-lj2okcbcvcmrfqrj3d-k1ylqdi2si",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》842丨什么是好官？他为百姓敢拼命！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-842-shenme-shi-haoguan-ta-wei-baixing-gan-pinming-lj2okcbcvcmrfqrj3d-k1ylqdi2si/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/riskbearingreliefgovernance/"
+    },
     "RobertoRidolfi": {
       "episode_count": 1,
       "show_count": 1,
@@ -20134,9 +20201,9 @@
       "url": "/wiki/entities/tangxuanlatehan/"
     },
     "TanshihuaiXianbei": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》909丨2025如何养成一身贵气？ [lomnDMpHR_YBUnJbBbbn9EBAFcsj].md",
@@ -20165,9 +20232,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》875丨离大谱！为何他以入狱为荣？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-875-li-dapu-weihe-ta-yi-ruyu-wei-rong-lgffkjk-0yu-ehfsw59anoych-ld/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》842丨什么是好官？他为百姓敢拼命！ [lj2OkCBcvCMRfqrj3d-k1YLQdI2s].md",
+          "key": "zizhi-tongjian-hanji-842-shenme-shi-haoguan-ta-wei-baixing-gan-pinming-lj2okcbcvcmrfqrj3d-k1ylqdi2si",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》842丨什么是好官？他为百姓敢拼命！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-842-shenme-shi-haoguan-ta-wei-baixing-gan-pinming-lj2okcbcvcmrfqrj3d-k1ylqdi2si/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-28",
       "url": "/wiki/entities/tanshihuaixianbei/"
     },
     "TaskSwitchingResidue": {
@@ -22812,6 +22886,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/xuexiaofan/"
     },
+    "XunShuLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》842丨什么是好官？他为百姓敢拼命！ [lj2OkCBcvCMRfqrj3d-k1YLQdI2s].md",
+          "key": "zizhi-tongjian-hanji-842-shenme-shi-haoguan-ta-wei-baixing-gan-pinming-lj2okcbcvcmrfqrj3d-k1ylqdi2si",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》842丨什么是好官？他为百姓敢拼命！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-842-shenme-shi-haoguan-ta-wei-baixing-gan-pinming-lj2okcbcvcmrfqrj3d-k1ylqdi2si/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/xunshulatehan/"
+    },
     "XunShuangLateHan": {
       "episode_count": 3,
       "show_count": 1,
@@ -23566,6 +23656,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/yingfenglatehan/"
+    },
+    "YingchuanFourMagistrates": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》842丨什么是好官？他为百姓敢拼命！ [lj2OkCBcvCMRfqrj3d-k1YLQdI2s].md",
+          "key": "zizhi-tongjian-hanji-842-shenme-shi-haoguan-ta-wei-baixing-gan-pinming-lj2okcbcvcmrfqrj3d-k1ylqdi2si",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》842丨什么是好官？他为百姓敢拼命！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-842-shenme-shi-haoguan-ta-wei-baixing-gan-pinming-lj2okcbcvcmrfqrj3d-k1ylqdi2si/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/yingchuanfourmagistrates/"
     },
     "YouthFootballPublicAccess": {
       "episode_count": 1,
@@ -24420,6 +24526,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/zhonghaolatehan/"
+    },
+    "ZhongHaoYingchuanLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》842丨什么是好官？他为百姓敢拼命！ [lj2OkCBcvCMRfqrj3d-k1YLQdI2s].md",
+          "key": "zizhi-tongjian-hanji-842-shenme-shi-haoguan-ta-wei-baixing-gan-pinming-lj2okcbcvcmrfqrj3d-k1ylqdi2si",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》842丨什么是好官？他为百姓敢拼命！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-842-shenme-shi-haoguan-ta-wei-baixing-gan-pinming-lj2okcbcvcmrfqrj3d-k1ylqdi2si/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/zhonghaoyingchuanlatehan/"
     },
     "ZhongJiLateHan": {
       "episode_count": 1,
