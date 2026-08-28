@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-28] ingest | 《资治通鉴·汉纪》832丨为领导背锅，他是傻还是智？
+
+Ingested Hanji 832 as the 148-150 CE Huan-era backfill before Hanji 833. Created the source note, Gao Lun, Zhong Jin, Liang Na, Blame-Absorbing Responsibility, and Prudent Ambiguity Self-Protection pages; updated Chen Shi, Hou Lan, Zhong Hao, Xun Shu, Yingchuan Four Magistrates, Humane Local Governance, Appointment Quality as State Capacity, and index. No settled contradiction found; 陈石/侯澜/钟谨/李英 are normalized to 陈寔/侯览/钟瑾/李膺, and 配国相 is treated as 沛相.
+
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》838丨贪婪的诱惑，让他狂飙在作死的路上
 
 Added source page for Hanji 838: Liang Ji's 151 CE reward expansion and dissatisfaction, Huang Qiong's partial restraint, Wang Jing's rumor-driven Khotan intervention, Shubo's failed self-enthronement, and Anguo's installation. Created Wang Jing (Western Regions), Jumi Kingdom, King Chengguo, Khotan Kingdom, King Jian, Shubo (Khotan), Anguo, Rumor-Driven Frontier Intervention, and Unbounded Elite Reward Demand pages; updated Liang Ji, Huang Qiong, Emperor Huan, Outer-Relative Court Power, overview, and index. No settled contradiction found; Shubo is disambiguated from the existing AI-founder page.
@@ -13112,3 +13116,7 @@ Ingested Hanji 833 as the 150 CE Liang Ji privilege-and-extraction backfill. Cre
 ## [2026-08-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-28] lint | Wiki health check
+
+Ran health, identity validation, and lint. Health scanned 15,628 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-28 with 15,429 nodes and 180,855 edges while the current lint scan covered 15,628 pages, so bridge findings may be incomplete until the graph is rebuilt; current graph checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` and common provider API key variables are unset in this shell. Report returned in-session; `wiki/lint-report.md` was not updated.

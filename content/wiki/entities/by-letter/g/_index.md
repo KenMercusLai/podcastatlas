@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 8144
+wiki_total_pages: 8147
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -1019,6 +1019,9 @@ wiki_pages:
   - key: "GaoYiding"
     title: "高一丁 / Gao Yiding"
     url: "/wiki/entities/gaoyiding/"
+  - key: "GaoLunLateHan"
+    title: "高伦 / Gao Lun (late Han)"
+    url: "/wiki/entities/gaolunlatehan/"
   - key: "GaoXinWarringStates"
     title: "高信 / Gao Xin (Warring States)"
     url: "/wiki/entities/gaoxinwarringstates/"

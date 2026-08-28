@@ -12,17 +12,20 @@ sources:
   - zizhi-tongjian-hanji-865-zhichang-boss-ye-rongyi-bei-zhezhong-ren-beici-ljfhfevljqnx6zceakjfbw5gwfma
   - zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij
   - zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7
+  - zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq
 last_updated: 2026-08-28
 knowledge_schema: synthesis-v1
 ---
 
 ## Overview
 
-Hou Lan is a powerful late-Han eunuch whose wiki profile now starts with a 159 CE post-[[LiangJiLateHan|梁冀]] reward claim in [[zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7|Hanji 850]] and then moves into a 160 CE property-and-servant violence branch in [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]]. Later evidence shows 165 CE removal pressure from [[HouCanLateHan|侯参]]'s corruption and [[YangBingLateHan|杨秉]]'s impeachment, complaint-channel action against [[ChengJinLateHan|成瑨]] and [[LiuZhiTaiyuanLateHan|刘质]], [[ZhangJianLateHan|张俭]]'s enforcement against his abuses, [[ChenFanLateHan|陈蕃]]'s 168 CE anti-eunuch warning, a grievance-backed accusation chain against Zhang Jian in 169 CE, and a further office-removal suicide in 172 CE.
+Hou Lan is a powerful late-Han eunuch whose wiki profile now starts with a 148 CE appointment-pressure branch in [[zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq|Hanji 832]], where his request pushes [[GaoLunLateHan|高伦]] toward an unsuitable appointment and forces [[ChenShiLateHan|陈寔]] into blame-absorbing responsibility. The later profile moves through a 159 CE post-[[LiangJiLateHan|梁冀]] reward claim, a 160 CE property-and-servant violence branch, 165 CE removal pressure from [[HouCanLateHan|侯参]]'s corruption and [[YangBingLateHan|杨秉]]'s impeachment, complaint-channel action against [[ChengJinLateHan|成瑨]] and [[LiuZhiTaiyuanLateHan|刘质]], [[ZhangJianLateHan|张俭]]'s enforcement against his abuses, [[ChenFanLateHan|陈蕃]]'s 168 CE anti-eunuch warning, a grievance-backed accusation chain against Zhang Jian in 169 CE, and a further office-removal suicide in 172 CE.
 
 ## Current Profile
 
-The current evidence makes Hou Lan a two-sided example of eunuch power: he can claim rescue merit and turn local enforcement into danger for officials, yet he is also exposed when senior officials or later court alignments weaken protection. Hanji 850 supplies the earliest current layer. Hou Lan is named among figures who report or claim service against Liang Ji, receives silk and noble status, and then enters the same expanded eunuch-favorite reward ecology that [[LiYunLateHan|李云]] criticizes after Huan's coup against the Liang clan.
+The current evidence makes Hou Lan a two-sided example of eunuch power: he can distort local appointment, claim rescue merit, and turn local enforcement into danger for officials, yet he is also exposed when senior officials or later court alignments weaken protection. Hanji 832 now supplies the earliest current layer. Hou Lan's request reaches Gao Lun, Gao complies out of fear, and Chen Shi absorbs the visible responsibility after judging the appointee unsuitable. This branch shows eunuch pressure operating before the later reward and retaliation sequence.
+
+Hanji 850 supplies the next current layer. Hou Lan is named among figures who report or claim service against Liang Ji, receives silk and noble status, and then enters the same expanded eunuch-favorite reward ecology that [[LiYunLateHan|李云]] criticizes after Huan's coup against the Liang clan.
 
 Hanji 853 supplies the first local-protection layer. Hou Lan and [[DuanGuiLateHan|段珪]] hold large farmland near Jibei, their servants and guests rob travelers, and [[TengYanLateHan|滕延]] executes dozens of those protected offenders. Hou Lan and Duan Gui complain to [[EmperorHuanOfHan|汉桓帝]], after which Teng Yan is recalled to Luoyang, sent to the commandant of justice, and dismissed.
 
@@ -36,16 +39,18 @@ In [[zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoau
 
 ## Key Characteristics
 
-- Powerful late-Han eunuch first visible here through a 159 CE reward claim and a 160 CE protected-servant violence branch.
+- Powerful late-Han eunuch first visible here through a 148 CE appointment-pressure branch.
+- Eunuch patronage figure whose request distorts local appointment quality before later property and complaint-channel cases.
 - Palace-side figure whose 165 removal shows that eunuch protection can be temporarily pierced by senior-minister jurisdiction and precedent.
 - Complaint-channel operator who helps punish officials who act against protected local offenders.
 - Local-abuse figure whose own household and property practices are attacked by Zhang Jian before later retaliation.
 - Access-controlling figure who can intercept memorials before they reach the ruler.
 - Eunuch whose resentment against Zhang Jian triggers a lethal accusation and flight chain.
-- Negative figure in the party-prohibition field, where denunciation reaches beyond the accused person and later protection still proves unstable.
 
 ## Evidence
 
+- Appointment pressure: [[zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq|Hanji 832]] says Hou Lan asks Gao Lun to recommend or appoint someone, and Gao complies because Hou Lan cannot safely be offended.
+- Unfit-personnel consequence: [[zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq|Hanji 832]] says Chen Shi judges the candidate unfit and takes responsibility for the appointment paperwork.
 - Post-Liang reward claim: [[zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7|Hanji 850]] names Hou Lan in the group that reports or claims anti-Liang service and receives silk and noble recognition from Emperor Huan.
 - Reward ecology: [[zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7|Hanji 850]] places Hou Lan beside the same eunuch-favorite reward expansion that Li Yun criticizes as excessive.
 - Earliest enforcement reversal: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]] says Hou Lan and Duan Gui's servants and guests rob travelers near their Jibei-area holdings.
@@ -66,17 +71,22 @@ In [[zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoau
 
 ## Qualifications
 
-Hanji 850 now records a 159 CE reward-claim layer before the 160 CE property and protected-servant branch in Hanji 853. It does not by itself make Hou Lan a member of the Five Marquises; the page treats him as a nearby eunuch-favorite beneficiary unless a source names him inside that group. Hanji 865 records an earlier Huan-era removal or demotion after Yang Bing's impeachment, while Hanji 871-872 still show Hou Lan or his network active in the 166 CE Emperor Huan field. The wiki therefore treats Hou Lan's exact reinstatement, retained influence, or access continuity as unresolved rather than rewriting later evidence. Hanji 893 supplies resentment and Zhu Bi's accusation, and Hanji 894 shows the flight consequence in 169 CE under Emperor Ling. Hanji 885 names Hou Lan in the broad anti-eunuch target field but does not give him the operational role that Cao Jie, Wang Fu, and Zhu Yu receive in the adjacent coup pages. Hanji 900 is careful that the chronicle does not spell out the exact reporting path behind Hou Lan's final fall. Transcript 侯兰 is normalized here to the late-Han eunuch 侯览 / Hou Lan; the host's internal-faction or scapegoating interpretation remains source-scoped.
+Hanji 832 records an appointment-pressure case but does not identify the unfit appointee or prove that Hou Lan personally handled the later public explanation around Chen Shi. Hanji 850 records a 159 CE reward-claim layer before the 160 CE property and protected-servant branch in Hanji 853. It does not by itself make Hou Lan a member of the Five Marquises; the page treats him as a nearby eunuch-favorite beneficiary unless a source names him inside that group. Hanji 865 records an earlier Huan-era removal or demotion after Yang Bing's impeachment, while Hanji 871-872 still show Hou Lan or his network active in the 166 CE Emperor Huan field. The wiki therefore treats Hou Lan's exact reinstatement, retained influence, or access continuity as unresolved rather than rewriting later evidence. Hanji 893 supplies resentment and Zhu Bi's accusation, and Hanji 894 shows the flight consequence in 169 CE under Emperor Ling. Hanji 885 names Hou Lan in the broad anti-eunuch target field but does not give him the operational role that Cao Jie, Wang Fu, and Zhu Yu receive in the adjacent coup pages. Hanji 900 is careful that the chronicle does not spell out the exact reporting path behind Hou Lan's final fall. Transcript 侯澜 / 侯兰 is normalized here to the late-Han eunuch 侯览 / Hou Lan; the host's internal-faction or scapegoating interpretation remains source-scoped.
 
 ## What Changed
 
-- The current profile now starts with the 159 CE reward claim, then the 160 CE Jibei property, protected-servant robbery, and Teng Yan dismissal branch.
+- Hanji 832 adds a new earliest branch: Hou Lan's appointment-pressure request before the later reward and local-enforcement evidence.
+- The current profile now moves from appointment pressure to the 159 CE reward claim, then the 160 CE Jibei property, protected-servant robbery, and Teng Yan dismissal branch.
 - The 165 Hou Can-triggered impeachment now reads as a temporary breach after earlier reward and complaint-reversal evidence.
 - The page keeps the gap between 165 removal and later Hou Lan activity as unresolved chronology rather than a settled contradiction.
 - The later 169 CE Zhang Jian accusation still reads as retaliation after earlier enforcement conflict, not Hou Lan's first appearance.
 
 ## Relationships
 
+- [[GaoLunLateHan|高伦]] - local superior pressured by Hou Lan's appointment request in Hanji 832.
+- [[ChenShiLateHan|陈寔]] - official who absorbs visible responsibility after judging Hou Lan's preferred appointee unsuitable.
+- [[BlameAbsorbingResponsibility|揽过式责任承担]] - responsibility pattern triggered by Hou Lan's appointment pressure.
+- [[AppointmentQualityAsStateCapacity|任官适任性国家能力]] - the 148 CE branch shows eunuch pressure distorting personnel fit.
 - [[LiangJiLateHan|梁冀]] - fallen regent whose overthrow creates Hou Lan's earliest current reward claim.
 - [[LiYunLateHan|李云]] - remonstrant whose critique includes the broader reward ecology around Hou Lan and other eunuch favorites.
 - [[HouCanLateHan|侯参]] - brother whose Yizhou corruption creates the first current impeachment trigger against Hou Lan.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》832丨为领导背锅，他是傻还是智？](sources/zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq.md) — 芮淇讲透资治通鉴 episode on Chen Shi's blame-absorbing appointment responsibility, Taiqiu open petition governance, Zhong Hao's self-protection counsel to Zhong Jin, and Liang Na's return of power and death before the Liang-family transition.
 - [《资治通鉴·汉纪》833丨贪官能有多离谱？看完大跌眼镜！](sources/zizhi-tongjian-hanji-833-tanguan-neng-you-duo-lipu-kanwan-dadieyanjing-lqudlijjyqmcro-wsmrvwkodgt72.md) — 芮淇讲透资治通鉴 episode on 150 CE Liang Ji's honor expansion, Sun Shou's titled revenue, Qin Gong's household access brokerage, private estate coercion, rabbit-park deaths, and Sun Fen's confiscation case.
 - [《资治通鉴·汉纪》834丨历史告诉你：小人为何长戚戚？](sources/zizhi-tongjian-hanji-834-lishi-gaosu-ni-xiaoren-weihe-chang-qiqi-lj8z2vfu6lpggumcakwejoi6z9hc.md) — 芮淇讲透资治通鉴 episode on 150-151 CE Zhu Mu's warnings to Liang Ji, Chen Fan and Yan Du's enforcement against Liang-linked envoys/retainers, and Zhang Ling's previewed court sword-removal scene.
 - [《资治通鉴·汉纪》835丨东汉第一权臣，为何要跪他？](sources/zizhi-tongjian-hanji-835-donghan-diyi-quanchen-weihe-yao-gui-ta-lpwezt-z-2qloitwd3t4gyxznqbo.md) — 芮淇讲透资治通鉴 episode on 151 CE Zhang Ling's public sword-removal enforcement against Liang Ji, Emperor Huan's lighter salary penalty, Emperor Zhi's earlier "跋扈将军" death trigger, and retreat examples from Fan Li and Zhang Liang.
@@ -1644,6 +1645,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [高伦 / Gao Lun (late Han)](entities/GaoLunLateHan.md) — Local superior pressured by Hou Lan's appointment request and later public witness to Chen Shi's blame-absorbing responsibility.
+- [钟瑾 / Zhong Jin (late Han)](entities/ZhongJinLateHan.md) — Zhong Hao's younger kin and Li Ying reputation peer whose modest ambiguity anchors Hanji 832's self-protection branch.
+- [梁妠 / Empress Dowager Liang Na (late Han)](entities/EmpressDowagerLiangNaLateHan.md) — Huan-era dowager whose return of power and death mark the Liang clan's transition before Liang Ji and Sun Shou's post-dowager expansion.
 - [秦功 / Qin Gong (late Han)](entities/QinGongLateHan.md) — Liang-household subordinate whose office as Taicang ling and access to Sun Shou's residence show private household service becoming public gatekeeping.
 - [孙奋 / Sun Fen (Fufeng, late Han)](entities/SunFenFufengLateHan.md) — Wealthy Fufeng victim whose partial compliance with Liang Ji's coerced loan demand leads to false accusation, prison deaths, and confiscation.
 - [延笃 / Yan Du (late Han)](entities/YanDuLateHan.md) — Jingzhao administrator who kills Liang Ji's retainer during a prince-medicine emergency and shows the risk of enforcing public duty against an outer-relative proxy.
@@ -1666,8 +1670,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [车师后王国 / Later Cheshi Kingdom (late Han)](entities/CheshiHouKingdomLateHan.md) — Western Regions dependent polity whose Aluoduo succession crisis is settled through Han restoration rather than hostage-prince replacement.
 - [武陵蛮 / Wuling Man (late Han)](entities/WulingManLateHan.md) — Southern Jingzhou frontier group whose 153 CE rebellion notice is resolved through Ying Feng's surrender recruitment.
 - [韩韶 / Han Shao (late Han)](entities/HanShaoLateHan.md) — Yingchuan official whose Ying county appointment, thief-deterrent reputation, and risk-bearing granary relief anchor Hanji 842's good-official theme.
-- [钟皓 / Zhong Hao (Yingchuan, late Han)](entities/ZhongHaoYingchuanLateHan.md) — Yingchuan Four Magistrates member kept distinct from the existing 种暠 frontier-official route.
-- [荀淑 / Xun Shu (late Han)](entities/XunShuLateHan.md) — Yingchuan Four Magistrates member currently grounded by Hanji 842's county-level virtuous-governance cohort label.
+- [钟皓 / Zhong Hao (Yingchuan, late Han)](entities/ZhongHaoYingchuanLateHan.md) — Yingchuan Four Magistrates member whose profile now includes reputation parity with Xun Shu and self-protection counsel to Zhong Jin.
+- [荀淑 / Xun Shu (late Han)](entities/XunShuLateHan.md) — Yingchuan Four Magistrates member now grounded by Hanji 842's cohort label and Hanji 832's reputation comparison with Zhong Hao.
 - [Advent International](entities/AdventInternational.md) - Private-equity bidder in the All-In source's Stripe/PayPal/Block payment-stack consolidation discussion.
 - [Block Inc.](entities/BlockInc.md) - Payments and commerce company linked to Square, used in the All-In source as a reported PayPal-bid participant.
 - [FINRA](entities/FINRA.md) - U.S. securities self-regulatory organization used as the model for Demis Hassabis's proposed AI standards body.
@@ -1977,7 +1981,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [疏勒 / Shule Kingdom](entities/ShuleKingdom.md) — Western Regions kingdom whose successful resistance to Meng Tuo exposes office without matching command capacity.
 - [汉明帝 / Emperor Ming of Han](entities/EmperorMingOfHan.md) — Eastern Han emperor used by Hanji 899 as the filial precedent behind Guangwu Yuanling tomb-sacrifice practice.
 - [胡广 / Hu Guang (late Han)](entities/HuGuangLateHan.md) — Late-Han senior official whose six-reign service, institutional knowledge, mildness, and non-offense make Hanji 900's moderation-based survival case.
-- [侯览 / Hou Lan (late Han)](entities/HouLanLateHan.md) — Late-Han eunuch whose profile now starts with a 159 CE post-Liang reward claim and 160 CE protected-servant reversal before later impeachment, Zhang Jian retaliation, and office-removal suicide.
+- [侯览 / Hou Lan (late Han)](entities/HouLanLateHan.md) — Late-Han eunuch whose profile now starts with a 148 CE appointment-pressure branch before post-Liang rewards, protected-servant reversal, Zhang Jian retaliation, and office-removal suicide.
 - [滕延 / Teng Yan (late Han)](entities/TengYanLateHan.md) — Jibei official dismissed after executing violent servants and guests tied to Hou Lan and Duan Gui.
 - [侯参 / Hou Can (late Han)](entities/HouCanLateHan.md) — Yizhou inspector whose corruption notice and suicide become Yang Bing's pressure case against Hou Lan.
 - [李贤 / Li Xian (taiwei, late Han)](entities/LiXianTaiweiLateHan.md) — Ill taiwei who risks death in Hanji 901 to argue that Empress Dowager Dou should be buried with Emperor Huan; distinct from 李暹 / Li Xian.
@@ -2234,7 +2238,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [崔烈 / Cui Lie (late Han)](entities/CuiLieLateHan.md) — Late-Han official who briefly becomes taiwei after Zhang Wen's removal and is later replaced by Cao Song.
 - [丁宫 / Ding Gong (late Han)](entities/DingGongLateHan.md) — Pei commandery official appointed sikong in Hanji 938, kept distinct from the Chu-Han Ding Gong page.
 - [曲星 / Qu Xing (late Han)](entities/QuXingLateHan.md) — Changsha rebel suppressed by Sun Jian in 187 CE, giving Sun Jian an early governorship-and-marquis branch.
-- [陈寔 / Chen Shi (late Han)](entities/ChenShiLateHan.md) — Taiqiu moral authority whose voluntary Party Prohibition imprisonment, Zhang Rang protection branch, and "梁上君子" story show reputation as responsibility and survival resource.
+- [陈寔 / Chen Shi (late Han)](entities/ChenShiLateHan.md) — Taiqiu moral authority whose blame-absorbing appointment responsibility, open petition governance, Party Prohibition imprisonment, and "梁上君子" story show reputation as responsibility and survival resource.
 - [马相 / Ma Xiang (late Han)](entities/MaXiangLateHan.md) — Yizhou rebel who rises at Mianzhu, kills Xi Jian, proclaims himself Son of Heaven, and is defeated by Jia Long.
 - [赵祗 / Zhao Zhi (late Han)](entities/ZhaoZhiLateHan.md) — Co-leader with Ma Xiang in the Mianzhu Yellow Turban-banner revolt.
 - [郗俭 / Xi Jian (late Han)](entities/XiJianLateHan.md) — Yizhou inspector whose extraction-heavy rule is presented as the local trigger for the Ma Xiang revolt.
@@ -9792,6 +9796,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [揽过式责任承担 / Blame-Absorbing Responsibility](concepts/BlameAbsorbingResponsibility.md) — Responsibility pattern where a credible actor voluntarily takes visible fault to protect another person and stabilize a dangerous power situation.
+- [审慎含混式自保 / Prudent Ambiguity Self-Protection](concepts/PrudentAmbiguitySelfProtection.md) — Survival pattern where a person avoids sharp public moral sorting when a hostile political environment makes blunt judgment dangerous.
 - [忠告不转化 / Corrective Advice Nonconversion](concepts/CorrectiveAdviceNonconversion.md) — Pattern where accurate, concrete advice reaches a powerholder but fails to become self-restraint, forcing later higher-cost correction.
 - [髡刑式身份羞辱 / Punitive Hair-Removal Humiliation](concepts/PunitiveHairRemovalHumiliation.md) — Hanji 836 concept where shaving punishment attacks visible dignity, family honor, and scholar-official status rather than only the body.
 - [宽严相济的因时治理 / Situational Strict-Lenient Governance](concepts/SituationalStrictLenientGovernance.md) — Governance concept from Hanji 837 in which strict punishment and lenient moral teaching are matched to disorder or peace rather than treated as permanent absolutes.
@@ -9801,7 +9807,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [太学集体请命 / Taixue Collective Petition](concepts/TaixueCollectivePetition.md) — Late-Han feedback pattern where Taixue students collectively petition to defend a punished official and expose structural abuse.
 - [丧葬名分僭越 / Funerary Privilege Abuse](concepts/FuneraryPrivilegeAbuse.md) — Pattern where politically connected households use above-rank burial symbols to convert private power into public status.
 - [担责开仓式救民 / Risk-Bearing Relief Governance](concepts/RiskBearingReliefGovernance.md) — Crisis-administration pattern where an official opens public reserves to save people while accepting legal or career risk.
-- [颍川四长 / Yingchuan Four Magistrates](concepts/YingchuanFourMagistrates.md) — Late-Han county-magistrate reputation label for Han Shao, Zhong Hao, Xun Shu, and Chen Shi as virtuous local officials.
+- [颍川四长 / Yingchuan Four Magistrates](concepts/YingchuanFourMagistrates.md) — Late-Han county-magistrate reputation label now linking Han Shao's relief, Chen Shi's responsibility, and Zhong-Xun famous-worthy comparison.
 - [Alternative Payment Stack Consolidation](concepts/AlternativePaymentStackConsolidation.md) - AI-era payments consolidation thesis combining consumer accounts, merchant rails, stablecoins, risk systems, and point-of-sale infrastructure to challenge card networks.
 - [Extracellular Aging Enzyme Therapy](concepts/ExtracellularAgingEnzymeTherapy.md) - AI-assisted aging-therapy route using protein binding, directed evolution, and CML degradation to target glycation damage outside cells.
 - [Individualized Cancer Vaccine Manufacturing](concepts/IndividualizedCancerVaccineManufacturing.md) — Patient-specific mRNA vaccine production chain linking tissue sampling, sequencing, neoantigen selection, LNP packaging, QC, automation, and release.
@@ -9836,8 +9842,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Legal Judgment Before Imperial Grace / 先法度后恩宥](concepts/LegalJudgmentBeforeImperialGrace.md) — Procedural pattern where officials establish law first, then leave room for sovereign clemency after judgment.
 - [三不沾式清廉自守 / Three-Refusals Integrity](concepts/ThreeRefusalsIntegrity.md) — Public-office integrity discipline built around refusing wine, sexual entanglement, money, and opportunistic gifts under scarcity as capture channels.
 - [任官责任退出受限 / Office Duty Exit Constraint](concepts/OfficeDutyExitConstraint.md) — Governance pattern where capable officials cannot easily leave or avoid office because crisis demand treats their ability as a public asset.
-- [任官适任性国家能力 / Appointment Quality as State Capacity](concepts/AppointmentQualityAsStateCapacity.md) — Governance pattern where the state succeeds or fails according to whether the right person is placed in the right office for the crisis.
-- [仁厚地方治理 / Humane Local Governance](concepts/HumaneLocalGovernance.md) — Local-administration pattern where burden reduction, dispute mediation, official restraint, diagnosis, calm conduct, light punishment, and moral instruction build order without making coercion the first instrument.
+- [任官适任性国家能力 / Appointment Quality as State Capacity](concepts/AppointmentQualityAsStateCapacity.md) — Governance pattern where office works only when personnel fit survives pressure, patronage, crisis demands, and accountability risk.
+- [仁厚地方治理 / Humane Local Governance](concepts/HumaneLocalGovernance.md) — Local-administration pattern where burden reduction, dispute mediation, restraint, diagnosis, calm conduct, open complaint access, and moral instruction build order before coercion.
 - [Moral Mentorship as Talent Cultivation / 人师型人才成全](concepts/MoralMentorshipTalentCultivation.md) — Teacher model where ordinary conduct reading, recognition, character testing, corrective trust, encouragement, and self-limitation form people rather than only transmit knowledge.
 - [按亩征税 / Per-Mu Land Taxation](concepts/PerMuLandTaxation.md) — Huan-era fiscal-policy marker for the first source-described order to tax landholders by the mu.
 - [战时绵绢财政资源 / Wartime Textile Fiscal Resource](concepts/WartimeTextileFiscalResource.md) — Hanji 1046 frame for cotton-silk as money-like, portable, reward, diplomatic, and military supply under wartime fiscal stress.

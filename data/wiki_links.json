@@ -7019,6 +7019,10 @@
     "title": "Blake Scholl",
     "url": "/wiki/entities/blakescholl/"
   },
+  "BlameAbsorbingResponsibility": {
+    "title": "揽过式责任承担 / Blame-Absorbing Responsibility",
+    "url": "/wiki/concepts/blameabsorbingresponsibility/"
+  },
   "Blancpain": {
     "title": "Blancpain",
     "url": "/wiki/entities/blancpain/"
@@ -16035,6 +16039,10 @@
     "title": "何太后 / Empress Dowager He",
     "url": "/wiki/entities/empressdowagerhe/"
   },
+  "EmpressDowagerLiangNaLateHan": {
+    "title": "梁妠 / Empress Dowager Liang Na (late Han)",
+    "url": "/wiki/entities/empressdowagerliangnalatehan/"
+  },
   "EmpressLiangYingLateHan": {
     "title": "梁盈 / Empress Liang Ying (late Han)",
     "url": "/wiki/entities/empressliangyinglatehan/"
@@ -19534,6 +19542,10 @@
   "GaoLanLateHan": {
     "title": "高览 / Gao Lan (late Han)",
     "url": "/wiki/entities/gaolanlatehan/"
+  },
+  "GaoLunLateHan": {
+    "title": "高伦 / Gao Lun (late Han)",
+    "url": "/wiki/entities/gaolunlatehan/"
   },
   "GaoNing": {
     "title": "高宁 / Gao Ning",
@@ -39447,6 +39459,10 @@
     "title": "Proya / 珀莱雅",
     "url": "/wiki/entities/proya/"
   },
+  "PrudentAmbiguitySelfProtection": {
+    "title": "审慎含混式自保 / Prudent Ambiguity Self-Protection",
+    "url": "/wiki/concepts/prudentambiguityselfprotection/"
+  },
   "PrudhoeBay": {
     "title": "Prudhoe Bay / 普拉德霍湾",
     "url": "/wiki/entities/prudhoebay/"
@@ -56531,6 +56547,10 @@
     "title": "种辑 / Zhong Ji (late Han)",
     "url": "/wiki/entities/zhongjilatehan/"
   },
+  "ZhongJinLateHan": {
+    "title": "钟瑾 / Zhong Jin (late Han)",
+    "url": "/wiki/entities/zhongjinlatehan/"
+  },
   "ZhongKui": {
     "title": "钟馗",
     "url": "/wiki/entities/zhongkui/"
@@ -60946,6 +60966,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq": {
+    "title": "《资治通鉴·汉纪》832丨为领导背锅，他是傻还是智？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq/"
   },
   "zizhi-tongjian-hanji-833-tanguan-neng-you-duo-lipu-kanwan-dadieyanjing-lqudlijjyqmcro-wsmrvwkodgt72": {
     "title": "《资治通鉴·汉纪》833丨贪官能有多离谱？看完大跌眼镜！",

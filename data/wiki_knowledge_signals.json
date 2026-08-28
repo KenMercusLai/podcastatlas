@@ -1921,9 +1921,9 @@
       "url": "/wiki/concepts/apathyactioninitiation/"
     },
     "AppointmentQualityAsStateCapacity": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》854丨历史告诉你：选官用官很重要！ [lhiN-IwK6y1XR8VvzdmnJch3s2uM].md",
@@ -1938,6 +1938,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》842丨什么是好官？他为百姓敢拼命！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-842-shenme-shi-haoguan-ta-wei-baixing-gan-pinming-lj2okcbcvcmrfqrj3d-k1ylqdi2si/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》832丨为领导背锅，他是傻还是智？ [lmFpUIXmI4odrf6LU31RF6_66-lq].md",
+          "key": "zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》832丨为领导背锅，他是傻还是智？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq/"
         }
       ],
       "updated": "2026-08-28",
@@ -2575,6 +2582,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/bipolarmaniahypomaniaspectrum/"
+    },
+    "BlameAbsorbingResponsibility": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》832丨为领导背锅，他是傻还是智？ [lmFpUIXmI4odrf6LU31RF6_66-lq].md",
+          "key": "zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》832丨为领导背锅，他是傻还是智？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/blameabsorbingresponsibility/"
     },
     "BlockInc": {
       "episode_count": 1,
@@ -3932,9 +3955,9 @@
       "url": "/wiki/entities/chenqiulatehan/"
     },
     "ChenShiLateHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》938丨历史的警醒！软弱只会带来屈辱 [lnlNrkETgFbADHFJbZDJjtrMQFsH].md",
@@ -3963,6 +3986,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》842丨什么是好官？他为百姓敢拼命！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-842-shenme-shi-haoguan-ta-wei-baixing-gan-pinming-lj2okcbcvcmrfqrj3d-k1ylqdi2si/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》832丨为领导背锅，他是傻还是智？ [lmFpUIXmI4odrf6LU31RF6_66-lq].md",
+          "key": "zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》832丨为领导背锅，他是傻还是智？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq/"
         }
       ],
       "updated": "2026-08-28",
@@ -7009,6 +7039,29 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/empressdowagerdoumiao/"
     },
+    "EmpressDowagerLiangNaLateHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》832丨为领导背锅，他是傻还是智？ [lmFpUIXmI4odrf6LU31RF6_66-lq].md",
+          "key": "zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》832丨为领导背锅，他是傻还是智？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》833丨贪官能有多离谱？看完大跌眼镜！ [lqUdlIJJyqmCrO_WsMRvwKodgT72].md",
+          "key": "zizhi-tongjian-hanji-833-tanguan-neng-you-duo-lipu-kanwan-dadieyanjing-lqudlijjyqmcro-wsmrvwkodgt72",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》833丨贪官能有多离谱？看完大跌眼镜！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-833-tanguan-neng-you-duo-lipu-kanwan-dadieyanjing-lqudlijjyqmcro-wsmrvwkodgt72/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/empressdowagerliangnalatehan/"
+    },
     "EmpressLiangYingLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -8380,6 +8433,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/gaolanlatehan/"
+    },
+    "GaoLunLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》832丨为领导背锅，他是傻还是智？ [lmFpUIXmI4odrf6LU31RF6_66-lq].md",
+          "key": "zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》832丨为领导背锅，他是傻还是智？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/gaolunlatehan/"
     },
     "Gaode": {
       "episode_count": 2,
@@ -9860,9 +9929,9 @@
       "url": "/wiki/entities/houcanlatehan/"
     },
     "HouLanLateHan": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》900丨职场权术都不动，该怎样生存 [lmhJwOsY4EsWyHfpPDGHfsMfycQr].md",
@@ -9926,6 +9995,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》850丨桓帝为何执意杀忠臣？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》832丨为领导背锅，他是傻还是智？ [lmFpUIXmI4odrf6LU31RF6_66-lq].md",
+          "key": "zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》832丨为领导背锅，他是傻还是智？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq/"
         }
       ],
       "updated": "2026-08-28",
@@ -10481,9 +10557,9 @@
       "url": "/wiki/concepts/humanrobotsafetycertification/"
     },
     "HumaneLocalGovernance": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》870丨古代体制内，不干了没有退路 [lpWBNiU9IFPT6Cp4ip9cZqwSh5XD].md",
@@ -10526,6 +10602,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》842丨什么是好官？他为百姓敢拼命！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-842-shenme-shi-haoguan-ta-wei-baixing-gan-pinming-lj2okcbcvcmrfqrj3d-k1ylqdi2si/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》832丨为领导背锅，他是傻还是智？ [lmFpUIXmI4odrf6LU31RF6_66-lq].md",
+          "key": "zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》832丨为领导背锅，他是傻还是智？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq/"
         }
       ],
       "updated": "2026-08-28",
@@ -17902,6 +17985,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/provisionalira/"
     },
+    "PrudentAmbiguitySelfProtection": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》832丨为领导背锅，他是傻还是智？ [lmFpUIXmI4odrf6LU31RF6_66-lq].md",
+          "key": "zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》832丨为领导背锅，他是傻还是智？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/prudentambiguityselfprotection/"
+    },
     "PsychedelicOrdinaryFreedom": {
       "episode_count": 1,
       "show_count": 1,
@@ -24315,9 +24414,9 @@
       "url": "/wiki/entities/xuexiaofan/"
     },
     "XunShuLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》842丨什么是好官？他为百姓敢拼命！ [lj2OkCBcvCMRfqrj3d-k1YLQdI2s].md",
@@ -24325,6 +24424,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》842丨什么是好官？他为百姓敢拼命！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-842-shenme-shi-haoguan-ta-wei-baixing-gan-pinming-lj2okcbcvcmrfqrj3d-k1ylqdi2si/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》832丨为领导背锅，他是傻还是智？ [lmFpUIXmI4odrf6LU31RF6_66-lq].md",
+          "key": "zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》832丨为领导背锅，他是傻还是智？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq/"
         }
       ],
       "updated": "2026-08-28",
@@ -25132,9 +25238,9 @@
       "url": "/wiki/entities/yingfenglatehan/"
     },
     "YingchuanFourMagistrates": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》842丨什么是好官？他为百姓敢拼命！ [lj2OkCBcvCMRfqrj3d-k1YLQdI2s].md",
@@ -25142,6 +25248,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》842丨什么是好官？他为百姓敢拼命！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-842-shenme-shi-haoguan-ta-wei-baixing-gan-pinming-lj2okcbcvcmrfqrj3d-k1ylqdi2si/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》832丨为领导背锅，他是傻还是智？ [lmFpUIXmI4odrf6LU31RF6_66-lq].md",
+          "key": "zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》832丨为领导背锅，他是傻还是智？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq/"
         }
       ],
       "updated": "2026-08-28",
@@ -26048,9 +26161,9 @@
       "url": "/wiki/entities/zhonghaolatehan/"
     },
     "ZhongHaoYingchuanLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》842丨什么是好官？他为百姓敢拼命！ [lj2OkCBcvCMRfqrj3d-k1YLQdI2s].md",
@@ -26058,6 +26171,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》842丨什么是好官？他为百姓敢拼命！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-842-shenme-shi-haoguan-ta-wei-baixing-gan-pinming-lj2okcbcvcmrfqrj3d-k1ylqdi2si/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》832丨为领导背锅，他是傻还是智？ [lmFpUIXmI4odrf6LU31RF6_66-lq].md",
+          "key": "zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》832丨为领导背锅，他是傻还是智？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq/"
         }
       ],
       "updated": "2026-08-28",
@@ -26078,6 +26198,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/zhongjilatehan/"
+    },
+    "ZhongJinLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》832丨为领导背锅，他是傻还是智？ [lmFpUIXmI4odrf6LU31RF6_66-lq].md",
+          "key": "zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》832丨为领导背锅，他是傻还是智？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/zhongjinlatehan/"
     },
     "ZhouFuLateHan": {
       "episode_count": 1,

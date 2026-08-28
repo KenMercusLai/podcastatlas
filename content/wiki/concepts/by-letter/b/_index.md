@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 5841
+wiki_total_pages: 5843
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -605,6 +605,9 @@ wiki_pages:
   - key: "BattlefieldVictoryToFoundingOrder"
     title: "战场胜利到建国秩序 / Battlefield Victory To Founding Order"
     url: "/wiki/concepts/battlefieldvictorytofoundingorder/"
+  - key: "BlameAbsorbingResponsibility"
+    title: "揽过式责任承担 / Blame-Absorbing Responsibility"
+    url: "/wiki/concepts/blameabsorbingresponsibility/"
   - key: "BombUnderTableSuspense"
     title: "桌下炸弹悬念 / Bomb-Under-Table Suspense"
     url: "/wiki/concepts/bombundertablesuspense/"

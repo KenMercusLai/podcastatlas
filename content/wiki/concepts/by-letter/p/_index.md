@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5841
+wiki_total_pages: 5843
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1520,6 +1520,9 @@ wiki_pages:
   - key: "PunishmentAsMoralCredential"
     title: "受罚作为名节凭据 / Punishment as Moral Credential"
     url: "/wiki/concepts/punishmentasmoralcredential/"
+  - key: "PrudentAmbiguitySelfProtection"
+    title: "审慎含混式自保 / Prudent Ambiguity Self-Protection"
+    url: "/wiki/concepts/prudentambiguityselfprotection/"
   - key: "PalaceMarketTheater"
     title: "宫市游乐式权力错位 / Palace Market Theater"
     url: "/wiki/concepts/palacemarkettheater/"
