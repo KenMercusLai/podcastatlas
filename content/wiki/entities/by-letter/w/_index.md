@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 8081
+wiki_total_pages: 8087
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -1058,6 +1058,9 @@ wiki_pages:
   - key: "WeiState"
     title: "魏国 / Wei State"
     url: "/wiki/entities/weistate/"
+  - key: "WeiYuLateHan"
+    title: "魏宇 / Wei Yu (late Han)"
+    url: "/wiki/entities/weiyulatehan/"
   - key: "WeiAnxiWang"
     title: "魏安釐王 / King Anxi of Wei"
     url: "/wiki/entities/weianxiwang/"

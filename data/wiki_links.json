@@ -14487,6 +14487,10 @@
     "title": "董义 / 董翳 / Dong Yi (Qin)",
     "url": "/wiki/entities/dongyiqin/"
   },
+  "DongYuanLateHan": {
+    "title": "董元 / Dong Yuan (late Han)",
+    "url": "/wiki/entities/dongyuanlatehan/"
+  },
   "DongZhaoLateHan": {
     "title": "董昭 / Dong Zhao (late Han)",
     "url": "/wiki/entities/dongzhaolatehan/"
@@ -17646,6 +17650,10 @@
   "FifthDimension": {
     "title": "The Fifth Dimension / 第五维度",
     "url": "/wiki/entities/fifthdimension/"
+  },
+  "FifthZhongLateHan": {
+    "title": "第五种 / Fifth Zhong (late Han)",
+    "url": "/wiki/entities/fifthzhonglatehan/"
   },
   "FigureAI": {
     "title": "Figure AI",
@@ -40939,6 +40947,10 @@
     "title": "人单合一 / RenDanHeYi",
     "url": "/wiki/concepts/rendanheyi/"
   },
+  "RenFangLateHan": {
+    "title": "任芳 / Ren Fang (late Han)",
+    "url": "/wiki/entities/renfanglatehan/"
+  },
   "RenJun": {
     "title": "任峻 / Ren Jun",
     "url": "/wiki/entities/renjun/"
@@ -43590,6 +43602,10 @@
   "ShanHeGuRen": {
     "title": "《山河故人》 / Mountains May Depart",
     "url": "/wiki/entities/shanheguren/"
+  },
+  "ShanKuangLateHan": {
+    "title": "单匡 / Shan Kuang (late Han)",
+    "url": "/wiki/entities/shankuanglatehan/"
   },
   "Shanbin": {
     "title": "Shanbin",
@@ -46662,6 +46678,10 @@
   "SunBinBingfa": {
     "title": "《孙膑兵法》 / Sun Bin's Art of War",
     "url": "/wiki/entities/sunbinbingfa/"
+  },
+  "SunBinFifthZhongRetainerLateHan": {
+    "title": "孙斌 / Sun Bin (Fifth Zhong retainer, late Han)",
+    "url": "/wiki/entities/sunbinfifthzhongretainerlatehan/"
   },
   "SunBum": {
     "title": "Sun Bum",
@@ -51866,6 +51886,10 @@
   "WeiXuLateHan": {
     "title": "魏续 / Wei Xu (late Han)",
     "url": "/wiki/entities/weixulatehan/"
+  },
+  "WeiYuLateHan": {
+    "title": "魏宇 / Wei Yu (late Han)",
+    "url": "/wiki/entities/weiyulatehan/"
   },
   "WeiZexiIncident": {
     "title": "魏则西事件",
@@ -60562,6 +60586,10 @@
   "zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7": {
     "title": "《资治通鉴·汉纪》850丨桓帝为何执意杀忠臣？",
     "url": "/wiki/sources/zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7/"
+  },
+  "zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun": {
+    "title": "《资治通鉴·汉纪》851丨汉桓帝为何注定遗臭万年？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun/"
   },
   "zizhi-tongjian-hanji-852-dang-meinv-ruyun-shi-fu-haishi-huo-luml30ytbc-awpvk-7-23ehzbqpx": {
     "title": "《资治通鉴·汉纪》852丨当美女如云，是福还是 “祸”？",

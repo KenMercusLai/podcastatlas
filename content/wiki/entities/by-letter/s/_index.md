@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 8081
+wiki_total_pages: 8087
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1448,6 +1448,9 @@ wiki_pages:
   - key: "ShifenXiyin"
     title: "十分吸引 / Shifen Xiyin"
     url: "/wiki/entities/shifenxiyin/"
+  - key: "ShanKuangLateHan"
+    title: "单匡 / Shan Kuang (late Han)"
+    url: "/wiki/entities/shankuanglatehan/"
   - key: "ShanChaoLateHan"
     title: "单超 / Shan Chao (late Han eunuch)"
     url: "/wiki/entities/shanchaolatehan/"
@@ -1568,6 +1571,9 @@ wiki_pages:
   - key: "SunWukong"
     title: "孙悟空"
     url: "/wiki/entities/sunwukong/"
+  - key: "SunBinFifthZhongRetainerLateHan"
+    title: "孙斌 / Sun Bin (Fifth Zhong retainer, late Han)"
+    url: "/wiki/entities/sunbinfifthzhongretainerlatehan/"
   - key: "SunQuan"
     title: "孙权 / Sun Quan"
     url: "/wiki/entities/sunquan/"
