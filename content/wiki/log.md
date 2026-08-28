@@ -13168,3 +13168,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-29] ingest | 《资治通鉴·汉纪》829丨君子为什么斗不过小人？
+
+Ingested the 芮淇讲透资治通鉴 episode on 147 CE Emperor Huan's accession settlement, Du Qiao's ignored appointment-and-reward remonstrance, Liang Ji's empress-rite and shangshu recommendation conflicts, Tang Heng and Zuo Guan's slander against Li Gu and Du Qiao, and the failed Liu Suan enthronement plot ending in Xie Hao's murder. Created the source note, Liu Wen, Liu Wei, Xie Hao, and Qinghe Kingdom pages; updated Du Qiao, Li Gu, Liang Ji, Empress Dowager Liang Na, Emperor Huan, Empress Liang Ying, Liu Kui, Liu Suan, Bohai Kingdom, Tang Heng, Zuo Guan, Outer-Relative Court Power, Corrective Advice Nonconversion, Moral Desert Political Outcome Gap, index, and overview. No settled contradiction found; Hu Guang, Zhao Jie, Yuan Tang, Liu Guang, Zhao Jian, Liu Hong, and the unnamed shangshu candidate remain source-scoped, with 赵建 kept distinct from 赵戬.
+
+## [2026-08-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

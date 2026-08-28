@@ -5,7 +5,8 @@ tags: [ethics, politics, historiography, late-han]
 sources:
   - zizhi-tongjian-hanji-889-weishenme-haoren-bu-changming-huohai-yi-qiannian-lt-g7qgkcf-fhy3xccecjagwqhku
   - zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq
-last_updated: 2026-08-27
+  - zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq
+last_updated: 2026-08-29
 knowledge_schema: synthesis-v1
 ---
 
@@ -19,6 +20,8 @@ Moral desert political outcome gap / 善恶报应与政治结果错位 is the pa
 
 [[zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq|Hanji 888]] backfills the same judgment from the immediate 168 CE cleanup. [[BaSuLateHan|Ba Su]], [[ZhuZhenLateHan|Zhu Zhen]], and [[HuTengLateHan|Hu Teng]] accept lethal or household risk to preserve responsibility to the defeated side, while [[CaoJieLateHan|Cao Jie]], [[WangFuLateHan|Wang Fu]], and other eunuch-side winners receive promotion or marquisates. The concept therefore holds two claims together: courageous conduct remains morally legible, but political reward structures do not reliably track it.
 
+An earlier Huan-era case appears before the Dou Wu crisis in [[zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq|Hanji 829]]. [[DuQiaoLateHan|杜乔]] can identify appointment and reward inversion but receives no answer and becomes easier to attack, while [[XieHaoQingheLateHan|谢浩]] refuses rebel inducement and is killed by [[LiuWenQingheRebelLateHan|刘文]]. The evidence pushes the concept from post-coup aftermath into a broader late-Han pattern: moral correctness, lawful refusal, and accurate diagnosis remain meaningful but do not reliably produce safety.
+
 The concept is adjacent to [[GoodIntentionsPoliticalLimits|good-intentions political limits]] but narrower. It is not mainly about whether sincere plans work; it is about whether the world's reward-and-punishment distribution can be treated as morally reliable. Hanji 889 and Hanji 888 say it cannot, while still treating Zhang Huan's guilt, refusal of reward, Ba Su's surrender, Zhu Zhen's protection of [[ChenYiLateHan|Chen Yi]], and Hu Teng's protection of Dou Wu's grandson as morally meaningful.
 
 ## Key Claims
@@ -29,9 +32,13 @@ The concept is adjacent to [[GoodIntentionsPoliticalLimits|good-intentions polit
 - The gap creates a need for mechanism-level political analysis before drawing practical lessons from moral judgment.
 - Historical wisdom comes from asking which institutions or power relations block good outcomes, not from assuming the cosmos will settle accounts.
 - Courage under risk can be honored without pretending that the same political system will punish the victorious faction.
+- Accurate advice and loyal refusal can become danger signals when factional access or rebel coercion controls immediate outcomes.
 
 ## Evidence
 
+- Earlier Huan-era advice gap: [[zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq|Hanji 829]] shows Du Qiao accurately criticizing appointment and reward inversion while Huan gives no answer.
+- Loyal refusal under coercion: [[zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq|Hanji 829]] says Xie Hao refuses Liu Wen and Liu Wei's promised high office and is killed.
+- Structural exposure: [[zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq|Hanji 829]] says Liang-family and eunuch channels can turn Du Qiao and Li Gu's succession stance into Huan's resentment.
 - Moral opening: [[zizhi-tongjian-hanji-889-weishenme-haoren-bu-changming-huohai-yi-qiannian-lt-g7qgkcf-fhy3xccecjagwqhku|Hanji 889]] begins from the problem that good people do not necessarily receive good outcomes and bad actors do not necessarily receive bad outcomes.
 - Structural outcome: [[zizhi-tongjian-hanji-889-weishenme-haoren-bu-changming-huohai-yi-qiannian-lt-g7qgkcf-fhy3xccecjagwqhku|Hanji 889]] says the eunuch side wins the immediate post-coup struggle and leaves士大夫 morale low.
 - Moral residue: [[zizhi-tongjian-hanji-889-weishenme-haoren-bu-changming-huohai-yi-qiannian-lt-g7qgkcf-fhy3xccecjagwqhku|Hanji 889]] presents Zhang Huan as hating eunuch domination yet being used by the eunuchs, then refusing a marquisate because the reward feels morally tainted.
@@ -41,7 +48,7 @@ The concept is adjacent to [[GoodIntentionsPoliticalLimits|good-intentions polit
 
 ## Counterevidence & Qualifications
 
-- The current concept rests on two adjacent late-Han source notes and should not be generalized as a full theory of history without additional cases.
+- The current concept rests on late-Han source notes and should not be generalized as a full theory of history without additional cases.
 - The source does not deny moral responsibility or the value of upright conduct; it denies that virtue reliably controls outcomes under factional pressure.
 - The episode's source transcript is short and flags possible name or place transcription errors, so exact prosopographical details should remain tied to stronger canonical pages.
 - Hanji 888's broad claim about奸臣 outcomes is retained as a host frame rather than treated as proven quantitative evidence.
@@ -50,6 +57,7 @@ The concept is adjacent to [[GoodIntentionsPoliticalLimits|good-intentions polit
 
 - Created this concept from Hanji 889 to distinguish moral-outcome mismatch from broader good-intentions failure.
 - Added Hanji 888's immediate-cleanup evidence, shifting the concept from Zhang Huan's compromised-reward case to a wider contrast between courageous duty and rewards to the winning faction.
+- Added Hanji 829's earlier Huan-era evidence, extending the concept to Du Qiao's ignored accurate advice and Xie Hao's lethal loyal refusal.
 
 ## Related Concepts
 
@@ -57,5 +65,6 @@ The concept is adjacent to [[GoodIntentionsPoliticalLimits|good-intentions polit
 - [[MachiavellianRealism]] - related analytical posture that asks how power works before assuming virtue will prevail.
 - [[NonMoralPoliticalAnalysis]] - method for separating explanatory mechanism from moral endorsement.
 - [[CourtFeedbackCollapse]] - institutional failure mode that makes the moral-outcome gap harder to correct.
+- [[CorrectiveAdviceNonconversion]] - advice-failure mechanism that can leave morally accurate counsel politically ineffective.
 - [[PoliticalSurvivalFirst]] - practical response when moral exposure creates danger before reform can work.
 - [[MoralReputationPoliticalCapital]] - contrasting case where moral reputation can still matter as a political resource, even if it does not guarantee outcomes.

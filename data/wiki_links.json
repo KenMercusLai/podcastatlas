@@ -29771,6 +29771,14 @@
     "title": "刘鯈 / Liu Tiao (late Han)",
     "url": "/wiki/entities/liutiaolatehan/"
   },
+  "LiuWeiNanjunRebelLateHan": {
+    "title": "刘伟 / Liu Wei (Nanjun rebel, late Han)",
+    "url": "/wiki/entities/liuweinanjunrebellatehan/"
+  },
+  "LiuWenQingheRebelLateHan": {
+    "title": "刘文 / Liu Wen (Qinghe rebel, late Han)",
+    "url": "/wiki/entities/liuwenqingherebellatehan/"
+  },
   "LiuWenhuan": {
     "title": "Liu Wenhuan",
     "url": "/wiki/entities/liuwenhuan/"
@@ -40334,6 +40342,10 @@
   "QingdaoKuaima": {
     "title": "轻刀快马 / Qingdao Kuaima",
     "url": "/wiki/entities/qingdaokuaima/"
+  },
+  "QingheKingdomLateHan": {
+    "title": "清河王国 / Qinghe Kingdom (late Han)",
+    "url": "/wiki/entities/qinghekingdomlatehan/"
   },
   "QinghuaJianXinian": {
     "title": "清华简《系年》 / Qinghua Bamboo Slips Xinian",
@@ -53879,6 +53891,10 @@
     "title": "Xie Guomin / 谢国民",
     "url": "/wiki/entities/xieguomin/"
   },
+  "XieHaoQingheLateHan": {
+    "title": "谢浩 / Xie Hao (Qinghe chancellor, late Han)",
+    "url": "/wiki/entities/xiehaoqinghelatehan/"
+  },
   "XieSaining": {
     "title": "Xie Saining",
     "url": "/wiki/entities/xiesaining/"
@@ -61162,6 +61178,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq": {
+    "title": "《资治通鉴·汉纪》829丨君子为什么斗不过小人？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq/"
   },
   "zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji": {
     "title": "《资治通鉴·汉纪》830丨东汉李固：我虽死犹荣！",

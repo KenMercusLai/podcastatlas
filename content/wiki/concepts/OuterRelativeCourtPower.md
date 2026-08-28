@@ -15,16 +15,17 @@ sources:
   - zizhi-tongjian-hanji-834-lishi-gaosu-ni-xiaoren-weihe-chang-qiqi-lj8z2vfu6lpggumcakwejoi6z9hc
   - zizhi-tongjian-hanji-833-tanguan-neng-you-duo-lipu-kanwan-dadieyanjing-lqudlijjyqmcro-wsmrvwkodgt72
   - zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji
+  - zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq
 last_updated: 2026-08-29
 ---
 
 ## Definition
 
-Outer-relative court power is the late-Han pattern in which imperial in-laws convert marriage, dowager authority, harem rank, offices, retainers, estates, tribute access, reward claims, and succession control into a governing bloc. Its danger is not only private enrichment: it can criminalize upright ministers, punish social contact, suppress warnings, and try to control public memory after death, so liquidation usually requires palace secrecy and force rather than ordinary remonstrance.
+Outer-relative court power is the late-Han pattern in which imperial in-laws convert accession support, marriage, dowager authority, harem rank, offices, retainers, estates, tribute access, reward claims, and succession control into a governing bloc. Its danger is not only private enrichment: it can distort reward and appointment, criminalize upright ministers, punish social contact, suppress warnings, and try to control public memory after death, so liquidation usually requires palace secrecy and force rather than ordinary remonstrance.
 
 ## Current Synthesis
 
-Hanji 830 now adds the earliest current Liang-family coercion layer. [[LiangJiLateHan|梁冀]] can accuse [[LiGuLateHan|李固]] and [[DuQiaoLateHan|杜乔]] as conspirators, overcome temporary resistance from petitions and [[EmpressDowagerLiangNaLateHan|梁妠 / 梁太后]], and drive both men to prison death. Yet his body display and mourning ban also reveal the limit of outer-relative terror: students, friends, and retainers convert the intended warning into [[FuneraryDefianceUnderPoliticalTerror|恐怖政治下的丧葬抗命]].
+Hanji 829 and Hanji 830 now define the earliest current Liang-family coercion layer. [[zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq|Hanji 829]] shows [[LiangJiLateHan|梁冀]] receiving accession reward, treating [[DuQiaoLateHan|杜乔]]'s empress-rite and appointment refusals as disobedience, and sitting inside the succession-interest field around [[LiGuLateHan|李固]] and [[LiuSuanLateHan|刘蒜]]. [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|Hanji 830]] then shows Liang accusing Li Gu and Du Qiao as conspirators, overcoming temporary resistance from petitions and [[EmpressDowagerLiangNaLateHan|梁妠 / 梁太后]], and driving both men to prison death. Yet his body display and mourning ban also reveal the limit of outer-relative terror: students, friends, and retainers convert the intended warning into [[FuneraryDefianceUnderPoliticalTerror|恐怖政治下的丧葬抗命]].
 
 Hanji 833 and Hanji 834 show the same power ecology after Liang Na's later transition. Emperor Huan increases Liang Ji's estate base, [[SunShouLateHan|孙寿]] receives revenue-bearing honor, [[QinGongLateHan|秦功]] turns household service into office-access brokerage, and Liang estates become sites where private pleasure and property extraction take on lethal public force. [[ZhuMuLateHan|朱穆]] warns Liang to restrain extraction and appointments, while [[ChenFanLateHan|陈蕃]] and [[YanDuLateHan|延笃]] show that officials can still punish Liang-linked agents only in bounded cases.
 
@@ -34,7 +35,7 @@ Hanji 845 through Hanji 848 supply the household, harem, crime-record, and liqui
 
 ## Key Claims
 
-- Outer-relative dominance can first appear as succession manipulation and ministerial criminalization before it appears as estate extraction or formal office saturation.
+- Outer-relative dominance can first appear as accession reward, succession manipulation, and appointment pressure before it appears as estate extraction or formal office saturation.
 - Marriage, dowager authority, household access, estates, and harem rank make private kinship a public governing channel.
 - Warnings, lawful enforcement, visitor contact, omitted deference, property refusal, and mourning can all become punishable when a family bloc monopolizes political safety.
 - Formal ritual and office procedure can expose overreach, but bounded sanctions do not equal systemic control.
@@ -44,6 +45,8 @@ Hanji 845 through Hanji 848 supply the household, harem, crime-record, and liqui
 
 ## Evidence
 
+- Accession reward and procedural resistance: [[zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq|Hanji 829]] shows Huan rewarding Liang Ji and Liang relatives, while Du Qiao criticizes unmerited reward and refuses Liang Ji's empress-rite and corrupt-candidate requests.
+- Succession-interest field: [[zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq|Hanji 829]] says Li Gu's Liu Suan preference touches Liang dowager and Liang-family interests.
 - Ministerial criminalization and body politics: [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|Hanji 830]] shows Liang Ji framing Li Gu and Du Qiao, overcoming release pressure, displaying their bodies, banning mourning, and facing defiant burial loyalty.
 - Privilege-to-extraction layer: [[zizhi-tongjian-hanji-833-tanguan-neng-you-duo-lipu-kanwan-dadieyanjing-lqudlijjyqmcro-wsmrvwkodgt72|Hanji 833]] says Huan increases Liang Ji's food-estate base, grants Sun Shou high-status revenue, and leaves the Liang-Sun household with expanding public and private power.
 - Household access, estate law, and wealth seizure: [[zizhi-tongjian-hanji-833-tanguan-neng-you-duo-lipu-kanwan-dadieyanjing-lqudlijjyqmcro-wsmrvwkodgt72|Hanji 833]] says Qin Gong brokers access, private parks and villas bend law and labor, and Sun Fen's partial compliance ends in false accusation, prison deaths, and confiscation.
@@ -60,11 +63,12 @@ Hanji 845 through Hanji 848 supply the household, harem, crime-record, and liqui
 
 ## Counterevidence & Qualifications
 
-This concept is grounded mainly in the Liang-family case and should not be treated as a complete typology of all Eastern-Han outer-relative politics. Hanji 830 shows that public reputation can resist terror, but it does not show that reputation alone can protect ministers from prison death. Hanji 833-846 preserve source-scoped numbers, income figures, estate details, punishment forms, and victim lists. The episode set also keeps an existing timing tension between [[zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx|Hanji 847]], where Xuan survives a failed assassination attempt and helps catalyze the anti-Liang move, and [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|Hanji 848]], where Xuan is compressed into a death-triggered lead-up.
+This concept is grounded mainly in the Liang-family case and should not be treated as a complete typology of all Eastern-Han outer-relative politics. Hanji 829 shows reward and appointment distortion before the later terror layer, but it does not by itself reconstruct the full accession bargain. Hanji 830 shows that public reputation can resist terror, but it does not show that reputation alone can protect ministers from prison death. Hanji 833-846 preserve source-scoped numbers, income figures, estate details, punishment forms, and victim lists. The episode set also keeps an existing timing tension between [[zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx|Hanji 847]], where Xuan survives a failed assassination attempt and helps catalyze the anti-Liang move, and [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|Hanji 848]], where Xuan is compressed into a death-triggered lead-up.
 
 ## What Changed
 
-- Added Hanji 830 as the earliest current Liang-family layer, shifting the concept from privilege-and-extraction first toward ministerial criminalization, prison death, corpse display, and failed reputation control.
+- Added Hanji 829 as the earliest current Liang-family layer, shifting the concept from privilege-and-extraction first toward accession reward, succession interests, appointment pressure, and procedural resistance.
+- Kept Hanji 830 as the ministerial criminalization, prison death, corpse display, and failed reputation-control layer.
 - Refined the judgment that outer-relative power can dominate law and bodies while still failing to command public moral memory.
 
 ## Related Concepts
@@ -73,6 +77,7 @@ This concept is grounded mainly in the Liang-family case and should not be treat
 - [[PublicCorpseHumiliation|公开尸体羞辱]] - body-display tactic used to make death itself a public warning.
 - [[FuneraryDefianceUnderPoliticalTerror|恐怖政治下的丧葬抗命]] - counter-pattern where mourning and burial repair defeat the intended intimidation signal.
 - [[CorrectiveAdviceNonconversion|忠告不转化]] - advice-failure counterpart for Zhu Mu's unconverted warning to Liang Ji.
+- [[MeritBasedRewardPunishment|因功赏罚]] - reward-order counterpart exposed by Du Qiao's criticism of accession favors.
 - [[HighStatusLawEnforcementSignal|高位执法信号]] - enforcement-signal counterpart for Zhang Ling's public rebuke of Liang Ji.
 - [[PunitiveHairRemovalHumiliation|髡刑式身份羞辱]] - visible dignity attack used when outer-relative power turns social contact into a political offense.
 - [[CourtOfficeCapture|朝廷开府任官失序]] - office-order counterpart for household access brokerage and private appointment influence.

@@ -2,9 +2,41 @@
   "claims": [
     {
       "global_candidate": false,
+      "id": "late-han-147-accession-reward-nonconversion-prelude",
+      "qualifications": [
+        "This claim is source-scoped to Hanji 829 and backfills the 147 CE accession and succession field immediately before Hanji 830 rather than replacing the later Li Gu / Du Qiao imprisonment and public-mourning claim.",
+        "Du Qiao's ignored memorial and later removal show corrective-advice nonconversion and outer-relative resentment, not yet the full prison-terror mechanism visible in Hanji 830.",
+        "Hu Guang, Zhao Jie, Yuan Tang, Liu Guang, Zhao Jian, Liu Hong, and the unnamed shangshu candidate remain source-scoped; Zhao Jian is kept distinct from the existing Zhao Jian / 赵戬 route."
+      ],
+      "statement": "[[zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq|Hanji 829]] adds the 147 CE accession prelude before Hanji 830: [[EmperorHuanOfHan]]'s accession rewards [[LiangJiLateHan]] and palace-side actors while [[DuQiaoLateHan]] warns that appointments and rewards are inverted; Huan ignores the warning, [[LiangJiLateHan]] turns Du Qiao's refusal of empress-level rites for [[EmpressLiangYingLateHan]] and refusal to recommend a corrupt shangshu candidate into resentment, and [[TangHengLateHan]] with [[ZuoGuanLateHan]] recode Du Qiao and [[LiGuLateHan]]'s earlier [[LiuSuanLateHan]] succession stance as personal offense to Huan. [[EmpressDowagerLiangNaLateHan]]'s placement of [[LiuKuiBohaiKing]] in [[BohaiKingdomLateHan]] and the failed [[LiuWenQingheRebelLateHan]] / [[LiuWeiNanjunRebelLateHan]] plot around [[QingheKingdomLateHan]] and [[XieHaoQingheLateHan]] show that alternative-succession memory remains politically active and lethal.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq",
+        "EmperorHuanOfHan",
+        "LiangJiLateHan",
+        "DuQiaoLateHan",
+        "EmpressLiangYingLateHan",
+        "TangHengLateHan",
+        "ZuoGuanLateHan",
+        "LiGuLateHan",
+        "LiuSuanLateHan",
+        "EmpressDowagerLiangNaLateHan",
+        "LiuKuiBohaiKing",
+        "BohaiKingdomLateHan",
+        "LiuWenQingheRebelLateHan",
+        "LiuWeiNanjunRebelLateHan",
+        "QingheKingdomLateHan",
+        "XieHaoQingheLateHan",
+        "OuterRelativeCourtPower",
+        "CorrectiveAdviceNonconversion",
+        "MoralDesertPoliticalOutcomeGap"
+      ]
+    },
+    {
+      "global_candidate": false,
       "id": "late-han-147-ministerial-terror-tests-reputation-control",
       "qualifications": [
-        "This claim is source-scoped to Hanji 830 and backfills the 147-148 CE Li Gu and Du Qiao layer before Hanji 832-848 rather than replacing the later Liang-family reward, crime-record, and coup claims.",
+        "This claim is source-scoped to Hanji 830 and continues the 147-148 CE Li Gu and Du Qiao layer after Hanji 829, before Hanji 832-848's later Liang-family reward, crime-record, and coup claims.",
         "The source shows a reputation limit on Liang Ji's terror, not institutional protection: Li Gu and Du Qiao still die in prison.",
         "Liu Wen, Liu Wei, Ma Rong's drafting role, Luan Ba, the Xia Gate亭长, and exact final-letter wording remain source-scoped."
       ],

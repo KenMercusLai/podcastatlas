@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 8174
+wiki_total_pages: 8178
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -542,6 +542,9 @@ wiki_pages:
   - key: "XieZhiyu"
     title: "谢治宇 / Xie Zhiyu"
     url: "/wiki/entities/xiezhiyu/"
+  - key: "XieHaoQingheLateHan"
+    title: "谢浩 / Xie Hao (Qinghe chancellor, late Han)"
+    url: "/wiki/entities/xiehaoqinghelatehan/"
   - key: "XiangCommandery"
     title: "象郡 / Xiang Commandery"
     url: "/wiki/entities/xiangcommandery/"

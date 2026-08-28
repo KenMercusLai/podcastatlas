@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "7fa4b522d9138d8bcea60cd4524a0957bc30c7b0ba93b0328017a374f865c61f",
       "1cf3e2334ec0cb0286f2e91cfa9347f2366b8e3051a9ccb941881e6027dc5809",
       "56a591054efe610a925b78a90df527e58307f12dbcb061b6286ce35feebd0ffa",
       "173cffd82684364e6afbfd09781ea6e0ff2f8dcebc676e8b4728d1bd8798d8d1",
@@ -344,11 +345,45 @@
       "b7fe88c4a3ea92e3484da7ba393768450cea0ebc036e6acdec39ec881741cf34",
       "082a8129ce267d83fa695011e4d1d9ec611a2911fab24932213544b548f520cf"
     ],
-    "paragraph_count": 342
+    "paragraph_count": 343
   },
-  "overview_commit": "bb76df43a9df08be52123c98b829291c63243fd4",
-  "overview_digest": "04d961879432d7280908b78dccfb230e1f363e209e08834054b1c475406a24e4",
+  "overview_commit": "ca4a370d5bfd30310bbe1676610bd35c47faceaf",
+  "overview_digest": "3bc683997ce1253d22e706ade44cb28e20a116760dcac06bd1efc40859b198c0",
   "paragraphs": [
+    {
+      "id": "7fa4b522d9138d8bcea60cd4524a0957bc30c7b0ba93b0328017a374f865c61f",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq|《资治通鉴·汉纪》829丨君子为什么斗不过小人？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 147 CE Huan-era accession field immediately before [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|Hanji 830]]. It adds [[LiuWenQingheRebelLateHan|刘文]], [[LiuWeiNanjunRebelLateHan|刘伟]], [[XieHaoQingheLateHan|谢浩]], and [[QingheKingdomLateHan|清河王国]], while extending [[DuQiaoLateHan|杜乔]], [[LiGuLateHan|李固]], [[LiangJiLateHan|梁冀]], [[EmperorHuanOfHan|汉桓帝]], [[EmpressDowagerLiangNaLateHan|梁妠 / 梁太后]], [[EmpressLiangYingLateHan|梁盈]], [[LiuSuanLateHan|刘蒜]], [[LiuKuiBohaiKing|刘亏]], [[BohaiKingdomLateHan|渤海王国]], [[TangHengLateHan|唐衡]], [[ZuoGuanLateHan|左悺]], [[OuterRelativeCourtPower|外戚专权与清算]], [[CorrectiveAdviceNonconversion|忠告不转化]], and [[MoralDesertPoliticalOutcomeGap|善恶报应与政治结果错位]]. Its core synthesis is that Du Qiao's failure is structural: accurate advice on appointment and reward reaches the throne but does not convert, Liang Ji can turn procedural refusal into resentment, and eunuch-side access recodes Li Gu and Du Qiao's succession stance as personal offense to Huan. No settled contradiction is recorded; Hu Guang, Zhao Jie, Yuan Tang, Liu Guang, Zhao Jian, and the unnamed shangshu candidate remain source-scoped, with 赵建 kept distinct from existing [[ZhaoJianLateHan|赵戬]].",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "BohaiKingdomLateHan",
+        "CorrectiveAdviceNonconversion",
+        "DuQiaoLateHan",
+        "EmperorHuanOfHan",
+        "EmpressDowagerLiangNaLateHan",
+        "EmpressLiangYingLateHan",
+        "LiGuLateHan",
+        "LiangJiLateHan",
+        "LiuKuiBohaiKing",
+        "LiuSuanLateHan",
+        "LiuWeiNanjunRebelLateHan",
+        "LiuWenQingheRebelLateHan",
+        "MoralDesertPoliticalOutcomeGap",
+        "OuterRelativeCourtPower",
+        "QingheKingdomLateHan",
+        "RuiqiJiangtouZizhiTongjian",
+        "TangHengLateHan",
+        "XieHaoQingheLateHan",
+        "ZhaoJianLateHan",
+        "ZuoGuanLateHan",
+        "zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq",
+        "zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji"
+      ]
+    },
     {
       "id": "1cf3e2334ec0cb0286f2e91cfa9347f2366b8e3051a9ccb941881e6027dc5809",
       "primary_topic": "governance-and-institutions",

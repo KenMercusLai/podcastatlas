@@ -16,16 +16,19 @@ sources:
   - zizhi-tongjian-hanji-834-lishi-gaosu-ni-xiaoren-weihe-chang-qiqi-lj8z2vfu6lpggumcakwejoi6z9hc
   - zizhi-tongjian-hanji-833-tanguan-neng-you-duo-lipu-kanwan-dadieyanjing-lqudlijjyqmcro-wsmrvwkodgt72
   - zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji
+  - zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq
 last_updated: 2026-08-29
 ---
 
 ## Overview
 
-梁冀 / Liang Ji is the late-Eastern-Han outer-relative powerholder whose profile now begins with the 147-148 CE destruction of [[LiGuLateHan|李固]] and [[DuQiaoLateHan|杜乔]], then moves through honor expansion, private extraction, ignored warnings, court ritual breach, kinship surveillance, overlarge reward, frontier-official suppression, imperial marriage, household terror, harem crisis, and palace-coup liquidation. The current synthesis treats him as a system node: his clan, empress ties, household, retainers, palace privileges, and offices turn private family position into public administration until [[EmperorHuanOfHan|Emperor Huan]] defeats him through a closed palace channel.
+梁冀 / Liang Ji is the late-Eastern-Han outer-relative powerholder whose profile now begins with 147 CE accession reward, [[DuQiaoLateHan|杜乔]]'s refused accommodation, and the succession politics around [[LiGuLateHan|李固]] and [[LiuSuanLateHan|刘蒜]], then moves through the 147-148 CE destruction of Li Gu and Du Qiao, honor expansion, private extraction, ignored warnings, court ritual breach, kinship surveillance, overlarge reward, frontier-official suppression, imperial marriage, household terror, harem crisis, and palace-coup liquidation. The current synthesis treats him as a system node: his clan, empress ties, household, retainers, palace privileges, and offices turn private family position into public administration until [[EmperorHuanOfHan|Emperor Huan]] defeats him through a closed palace channel.
 
 ## Current Profile
 
-Hanji 830 adds the earliest current terror-and-legitimacy layer. Liang Ji frames Li Gu and Du Qiao as conspirators with Liu Wen and Liu Wei, is temporarily checked when petitions and Liang Na's order release Li Gu, then reasserts the case until both men die in prison. His public display of their bodies and ban on mourning aim to convert death into intimidation, but [[GuoLiangLiGuStudent|郭亮]], [[DongBanNanyangLateHan|董班]], and [[YangKuangDuQiaoRetainer|杨匡]] make the scene a reputation defeat for Liang instead.
+Hanji 829 supplies the earliest current reward-and-resistance layer. Huan increases Liang Ji's enfeoffment for accession support and rewards Liang relatives, while Du Qiao criticizes precisely this inversion of merit, office, and favor. Liang then clashes with Du Qiao when Du refuses expanded rites for [[EmpressLiangYingLateHan|梁盈]] and refuses to recommend a corrupt shangshu candidate. The source therefore shows Liang treating succession legitimacy, ritual limit, and appointment quality as direct threats to outer-relative command.
+
+Hanji 830 adds the first terror-and-legitimacy layer after that. Liang Ji frames Li Gu and Du Qiao as conspirators with [[LiuWenQingheRebelLateHan|刘文]] and [[LiuWeiNanjunRebelLateHan|刘伟]], is temporarily checked when petitions and [[EmpressDowagerLiangNaLateHan|梁妠 / 梁太后]]'s order release Li Gu, then reasserts the case until both men die in prison. His public display of their bodies and ban on mourning aim to convert death into intimidation, but [[GuoLiangLiGuStudent|郭亮]], [[DongBanNanyangLateHan|董班]], and [[YangKuangDuQiaoRetainer|杨匡]] make the scene a reputation defeat for Liang instead.
 
 Hanji 833 and Hanji 834 show Liang power expanding after the dowager transition. Emperor Huan increases Liang's food-estate base, [[SunShouLateHan|孙寿]] receives revenue-bearing honor, [[QinGongLateHan|秦功]] turns household service into office-access brokerage, and private estates become sites of coercion, shelter, seizure, and death-penalty danger. [[ZhuMuLateHan|朱穆]] warns Liang to reduce extraction and unfit appointments, but Liang treats the advice as insult while [[ChenFanLateHan|陈蕃]] and [[YanDuLateHan|延笃]] only achieve bounded proxy-enforcement checks.
 
@@ -37,7 +40,7 @@ Hanji 853 preserves the family-aftershock of the Li Gu struggle. It shows Liang 
 
 ## Key Characteristics
 
-- Overmighty outer-relative whose earliest current profile now includes ministerial framing, prison death, public corpse display, and mourning intimidation.
+- Overmighty outer-relative whose earliest current profile now includes accession reward, resistance to Du Qiao's institutional limits, ministerial framing, prison death, public corpse display, and mourning intimidation.
 - Household ruler whose spouse, retainers, estate, access brokers, and kinship network turn private status into public coercion.
 - Retaliatory-terror actor who punishes warning, lawful enforcement, omitted deference, property refusal, social contact, and moral criticism.
 - Court operator who treats succession legitimacy and upright ministers as structural threats to Liang-family control.
@@ -47,6 +50,9 @@ Hanji 853 preserves the family-aftershock of the Li Gu struggle. It shows Liang 
 
 ## Evidence
 
+- Accession reward and appointment conflict: [[zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq|Hanji 829]] says Huan expands Liang Ji's reward for accession merit and also rewards Liang relatives while Du Qiao criticizes unmerited reward to the Liang and eunuch field.
+- Empress-rite conflict: [[zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq|Hanji 829]] says Liang Ji wants expanded wedding ritual for Liang Ying, but Du Qiao refuses based on old institutions.
+- Recommendation conflict: [[zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq|Hanji 829]] says Liang Ji asks Du Qiao to recommend a corrupt candidate for shangshu, and Du Qiao's refusal makes Liang resent him.
 - Ministerial purge and reputation failure: [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|Hanji 830]] says Liang frames Li Gu and Du Qiao, reasserts the accusation after Li Gu's release, displays both bodies, bans mourning, and then faces defiant mourners and return burial.
 - Succession and upright-minister conflict: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]] shows Liang using confinement and execution to neutralize Li Gu after succession politics threatens Liang-family control.
 - Honor and household extraction: [[zizhi-tongjian-hanji-833-tanguan-neng-you-duo-lipu-kanwan-dadieyanjing-lqudlijjyqmcro-wsmrvwkodgt72|Hanji 833]] says Huan increases Liang's estate base, Sun Shou receives revenue, Qin Gong brokers access, private parks and villas bend law, and Sun Fen is destroyed through false accusation and confiscation.
@@ -62,11 +68,12 @@ Hanji 853 preserves the family-aftershock of the Li Gu struggle. It shows Liang 
 
 ## Qualifications
 
-This profile is a bounded synthesis of the listed podcast source notes, not a complete biography or institutional monograph. Hanji 830 backfills the 147-148 CE Li Gu and Du Qiao terror layer before the later reward, marriage, crime-record, and coup evidence; it is sequential rather than contradictory with Hanji 853's family-survival reconstruction. Hanji 833-846 preserve source-scoped numbers, property figures, legal forms, and victim details. The existing timing tension remains between [[zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx|Hanji 847]], where Xuan survives a failed assassination attempt and helps catalyze the anti-Liang move, and [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|Hanji 848]], where Xuan is compressed into a death-triggered lead-up.
+This profile is a bounded synthesis of the listed podcast source notes, not a complete biography or institutional monograph. Hanji 829 backfills the accession-reward and Du Qiao institutional-resistance layer before Hanji 830's 147-148 CE Li Gu and Du Qiao terror layer; together they are sequential rather than contradictory with Hanji 853's family-survival reconstruction. Hanji 833-846 preserve source-scoped numbers, property figures, legal forms, and victim details. The existing timing tension remains between [[zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx|Hanji 847]], where Xuan survives a failed assassination attempt and helps catalyze the anti-Liang move, and [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|Hanji 848]], where Xuan is compressed into a death-triggered lead-up.
 
 ## What Changed
 
-- Added Hanji 830 as Liang Ji's earliest current ministerial-terror layer: Li Gu and Du Qiao framing, release pressure, renewed accusation, prison deaths, body display, mourning ban, and failed reputation control.
+- Added Hanji 829 as Liang Ji's earliest current layer: accession reward, Du Qiao's reward critique, empress-rite refusal, corrupt-candidate refusal, and resentment before the Hanji 830 purge.
+- Kept Hanji 830 as Liang Ji's ministerial-terror layer: Li Gu and Du Qiao framing, release pressure, renewed accusation, prison deaths, body display, mourning ban, and failed reputation control.
 - Recentered Liang's profile around the sequence from public moral intimidation to later estate extraction, reward, household saturation, and coup liquidation.
 - Kept the prior Liang-family layers as the downstream expansion of a coercive pattern already visible before Hanji 832-848.
 
@@ -74,6 +81,7 @@ This profile is a bounded synthesis of the listed podcast source notes, not a co
 
 - [[LiGuLateHan|李固]] - upright minister whom Liang treats as a succession and legitimacy threat.
 - [[DuQiaoLateHan|杜乔]] - second senior victim in Liang's Hanji 830 ministerial purge.
+- [[LiuSuanLateHan|刘蒜]] - alternative imperial-clan candidate whose earlier support threatens Liang-family succession interests.
 - [[EmpressDowagerLiangNaLateHan|梁妠 / 梁太后]] - Liang-family dowager who temporarily checks and later pardons parts of the Li Gu-Du Qiao sequence.
 - [[WuYouLateHan|吴祐]] - legal defender who disputes Liang's accusation against Li Gu.
 - [[GuoLiangLiGuStudent|郭亮]] - mourner whose defiance exposes the limit of Liang's intimidation.

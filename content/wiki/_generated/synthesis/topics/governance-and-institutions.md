@@ -4,8 +4,8 @@ generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
 last_updated: 2026-08-29
-as_of_overview_commit: bb76df43a9df08be52123c98b829291c63243fd4
-input_digest: 099786d5c9eacc6131045dde65224bc787eb7593a866ac3d6f637c8354c44f95
+as_of_overview_commit: ca4a370d5bfd30310bbe1676610bd35c47faceaf
+input_digest: 95a39018ed26c0e6bbdb9e8987c146253d47cb53c5aef154d1ff06674c0bf70f
 ---
 
 # Governance and Institutions
@@ -16,6 +16,18 @@ Hanji 830 adds the 147-148 CE Liang Ji ministerial-terror backfill: accusation, 
 
 ## Cross-source Findings
 
+### Late Han 147 Accession Reward Nonconversion Prelude
+
+[[zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq|Hanji 829]] adds the 147 CE accession prelude before Hanji 830: [[EmperorHuanOfHan]]'s accession rewards [[LiangJiLateHan]] and palace-side actors while [[DuQiaoLateHan]] warns that appointments and rewards are inverted; Huan ignores the warning, [[LiangJiLateHan]] turns Du Qiao's refusal of empress-level rites for [[EmpressLiangYingLateHan]] and refusal to recommend a corrupt shangshu candidate into resentment, and [[TangHengLateHan]] with [[ZuoGuanLateHan]] recode Du Qiao and [[LiGuLateHan]]'s earlier [[LiuSuanLateHan]] succession stance as personal offense to Huan. [[EmpressDowagerLiangNaLateHan]]'s placement of [[LiuKuiBohaiKing]] in [[BohaiKingdomLateHan]] and the failed [[LiuWenQingheRebelLateHan]] / [[LiuWeiNanjunRebelLateHan]] plot around [[QingheKingdomLateHan]] and [[XieHaoQingheLateHan]] show that alternative-succession memory remains politically active and lethal.
+
+**Evidence:** [[zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq]], [[EmperorHuanOfHan]], [[LiangJiLateHan]], [[DuQiaoLateHan]], [[EmpressLiangYingLateHan]], [[TangHengLateHan]], [[ZuoGuanLateHan]], [[LiGuLateHan]], [[LiuSuanLateHan]], [[EmpressDowagerLiangNaLateHan]], [[LiuKuiBohaiKing]], [[BohaiKingdomLateHan]], [[LiuWenQingheRebelLateHan]], [[LiuWeiNanjunRebelLateHan]], [[QingheKingdomLateHan]], [[XieHaoQingheLateHan]], [[OuterRelativeCourtPower]], [[CorrectiveAdviceNonconversion]], [[MoralDesertPoliticalOutcomeGap]]
+
+**Qualifications:**
+
+- This claim is source-scoped to Hanji 829 and backfills the 147 CE accession and succession field immediately before Hanji 830 rather than replacing the later Li Gu / Du Qiao imprisonment and public-mourning claim.
+- Du Qiao's ignored memorial and later removal show corrective-advice nonconversion and outer-relative resentment, not yet the full prison-terror mechanism visible in Hanji 830.
+- Hu Guang, Zhao Jie, Yuan Tang, Liu Guang, Zhao Jian, Liu Hong, and the unnamed shangshu candidate remain source-scoped; Zhao Jian is kept distinct from the existing Zhao Jian / 赵戬 route.
+
 ### Late Han 147 Ministerial Terror Tests Reputation Control
 
 [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|Hanji 830]] pushes the Liang-family governance branch back to 147-148 CE: [[LiangJiLateHan]] uses accusation, renewed imprisonment, and [[PublicCorpseHumiliation]] against [[LiGuLateHan]] and [[DuQiaoLateHan]], but [[WangTiaoLiGuStudent]], [[ZhaoChengLiGuPetitioner]], [[WuYouLateHan]], [[GuoLiangLiGuStudent]], [[DongBanNanyangLateHan]], and [[YangKuangDuQiaoRetainer]] show that [[OuterRelativeCourtPower]] and [[RetaliatoryPoliticalTerror]] can kill officials without fully controlling public meaning or [[FuneraryDefianceUnderPoliticalTerror]].
@@ -24,7 +36,7 @@ Hanji 830 adds the 147-148 CE Liang Ji ministerial-terror backfill: accusation, 
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 830 and backfills the 147-148 CE Li Gu and Du Qiao layer before Hanji 832-848 rather than replacing the later Liang-family reward, crime-record, and coup claims.
+- This claim is source-scoped to Hanji 830 and continues the 147-148 CE Li Gu and Du Qiao layer after Hanji 829, before Hanji 832-848's later Liang-family reward, crime-record, and coup claims.
 - The source shows a reputation limit on Liang Ji's terror, not institutional protection: Li Gu and Du Qiao still die in prison.
 - Liu Wen, Liu Wei, Ma Rong's drafting role, Luan Ba, the Xia Gate亭长, and exact final-letter wording remain source-scoped.
 

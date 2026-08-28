@@ -2964,9 +2964,9 @@
       "url": "/wiki/entities/bogside/"
     },
     "BohaiKingdomLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》903丨为什么劝你冤冤相报何时了？ [loKpt93MUc8kasvN44VgsjKI8boM].md",
@@ -2981,9 +2981,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》864丨名臣之后为何惨死于帝王之手？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-864-mingchen-zhihou-weihe-cansi-yu-diwang-zhishou-lqwexx6nchx10roxsrvh8c0ktkfq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》829丨君子为什么斗不过小人？ [lthvNSTkFU8N9tHX1Sz6YezL4YQq].md",
+          "key": "zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》829丨君子为什么斗不过小人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-29",
       "url": "/wiki/entities/bohaikingdomlatehan/"
     },
     "BookstoreSerendipity": {
@@ -5145,9 +5152,9 @@
       "url": "/wiki/concepts/coronaryarterycalciummidlifescreening/"
     },
     "CorrectiveAdviceNonconversion": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》834丨历史告诉你：小人为何长戚戚？ [lj8Z2VfU6lpgGuMcaKWEjOi6z9Hc].md",
@@ -5155,9 +5162,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》834丨历史告诉你：小人为何长戚戚？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-834-lishi-gaosu-ni-xiaoren-weihe-chang-qiqi-lj8z2vfu6lpggumcakwejoi6z9hc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》829丨君子为什么斗不过小人？ [lthvNSTkFU8N9tHX1Sz6YezL4YQq].md",
+          "key": "zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》829丨君子为什么斗不过小人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-29",
       "url": "/wiki/concepts/correctiveadvicenonconversion/"
     },
     "CounselExitAfterNonresponse": {
@@ -6743,9 +6757,9 @@
       "url": "/wiki/entities/dumilatehan/"
     },
     "DuQiaoLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》830丨东汉李固：我虽死犹荣！ [lt__j7n9gOTIW_nEgQXOJoAcf6Ji].md",
@@ -6753,6 +6767,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》830丨东汉李固：我虽死犹荣！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》829丨君子为什么斗不过小人？ [lthvNSTkFU8N9tHX1Sz6YezL4YQq].md",
+          "key": "zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》829丨君子为什么斗不过小人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq/"
         }
       ],
       "updated": "2026-08-29",
@@ -7395,9 +7416,9 @@
       "url": "/wiki/concepts/emotionsasfunctionalcontrolstates/"
     },
     "EmperorHuanOfHan": {
-      "episode_count": 25,
+      "episode_count": 26,
       "show_count": 1,
-      "source_note_count": 25,
+      "source_note_count": 26,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》901 丨急性子的人会是什么下场？ [lh1yfyJZqPTXVtnV9tAiQms9YjUd].md",
@@ -7573,9 +7594,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》836丨兄弟反目背后：儒者和奸臣的交锋",
           "url": "/wiki/sources/zizhi-tongjian-hanji-836-xiongdi-fanmu-beihou-ruzhe-he-jianchen-de-jiaofeng-lq9wjn5c8mwt-onrtslum4fw53eq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》829丨君子为什么斗不过小人？ [lthvNSTkFU8N9tHX1Sz6YezL4YQq].md",
+          "key": "zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》829丨君子为什么斗不过小人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-29",
       "url": "/wiki/entities/emperorhuanofhan/"
     },
     "EmperorZhiOfHan": {
@@ -7704,9 +7732,9 @@
       "url": "/wiki/entities/empressdowagerdoumiao/"
     },
     "EmpressDowagerLiangNaLateHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》832丨为领导背锅，他是傻还是智？ [lmFpUIXmI4odrf6LU31RF6_66-lq].md",
@@ -7728,15 +7756,22 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》830丨东汉李固：我虽死犹荣！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》829丨君子为什么斗不过小人？ [lthvNSTkFU8N9tHX1Sz6YezL4YQq].md",
+          "key": "zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》829丨君子为什么斗不过小人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq/"
         }
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/empressdowagerliangnalatehan/"
     },
     "EmpressLiangYingLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》845丨从当代婚姻观聊古代的婚检制度 [lr0I25tWKoXm2wEN7pnFbwT3qDsN].md",
@@ -7744,9 +7779,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》845丨从当代婚姻观聊古代的婚检制度",
           "url": "/wiki/sources/zizhi-tongjian-hanji-845-cong-dangdai-hunyin-guan-liao-gudai-de-hunjian-zhidu-lr0i25twkoxm2wen7pnfbwt3qdsn/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》829丨君子为什么斗不过小人？ [lthvNSTkFU8N9tHX1Sz6YezL4YQq].md",
+          "key": "zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》829丨君子为什么斗不过小人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-29",
       "url": "/wiki/entities/empressliangyinglatehan/"
     },
     "EmpressSisi": {
@@ -13743,9 +13785,9 @@
       "url": "/wiki/entities/ligaorunanlatehan/"
     },
     "LiGuLateHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》929丨对事不对人，你信了吗？ [lgaXJ0jzoPddmt3C5hiBNExqLhB3].md",
@@ -13767,6 +13809,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》830丨东汉李固：我虽死犹荣！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》829丨君子为什么斗不过小人？ [lthvNSTkFU8N9tHX1Sz6YezL4YQq].md",
+          "key": "zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》829丨君子为什么斗不过小人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq/"
         }
       ],
       "updated": "2026-08-29",
@@ -14001,9 +14050,9 @@
       "url": "/wiki/entities/liangbuyilatehan/"
     },
     "LiangJiLateHan": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 1,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿” [lvSA2pby8IyfEvfooBoBpIK52MiJ].md",
@@ -14088,6 +14137,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》830丨东汉李固：我虽死犹荣！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》829丨君子为什么斗不过小人？ [lthvNSTkFU8N9tHX1Sz6YezL4YQq].md",
+          "key": "zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》829丨君子为什么斗不过小人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq/"
         }
       ],
       "updated": "2026-08-29",
@@ -14426,9 +14482,9 @@
       "url": "/wiki/entities/liukuanlatehan/"
     },
     "LiuKuiBohaiKing": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》903丨为什么劝你冤冤相报何时了？ [loKpt93MUc8kasvN44VgsjKI8boM].md",
@@ -14443,9 +14499,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》864丨名臣之后为何惨死于帝王之手？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-864-mingchen-zhihou-weihe-cansi-yu-diwang-zhishou-lqwexx6nchx10roxsrvh8c0ktkfq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》829丨君子为什么斗不过小人？ [lthvNSTkFU8N9tHX1Sz6YezL4YQq].md",
+          "key": "zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》829丨君子为什么斗不过小人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-29",
       "url": "/wiki/entities/liukuibohaiking/"
     },
     "LiuMaoLateHan": {
@@ -14486,6 +14549,29 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/liupirunanlatehan/"
+    },
+    "LiuSuanLateHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》929丨对事不对人，你信了吗？ [lgaXJ0jzoPddmt3C5hiBNExqLhB3].md",
+          "key": "zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》929丨对事不对人，你信了吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》829丨君子为什么斗不过小人？ [lthvNSTkFU8N9tHX1Sz6YezL4YQq].md",
+          "key": "zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》829丨君子为什么斗不过小人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/liusuanlatehan/"
     },
     "LiuTaoLateHan": {
       "episode_count": 6,
@@ -14537,6 +14623,38 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/liutaolatehan/"
+    },
+    "LiuWeiNanjunRebelLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》829丨君子为什么斗不过小人？ [lthvNSTkFU8N9tHX1Sz6YezL4YQq].md",
+          "key": "zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》829丨君子为什么斗不过小人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/liuweinanjunrebellatehan/"
+    },
+    "LiuWenQingheRebelLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》829丨君子为什么斗不过小人？ [lthvNSTkFU8N9tHX1Sz6YezL4YQq].md",
+          "key": "zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》829丨君子为什么斗不过小人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/liuwenqingherebellatehan/"
     },
     "LiuXianLateHan": {
       "episode_count": 1,
@@ -16741,9 +16859,9 @@
       "url": "/wiki/concepts/modifiabledementiariskfactors/"
     },
     "MoralDesertPoliticalOutcomeGap": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》889丨为什么好人不长命，祸害遗千年？ [lt_G7qgkCF-fHy3XcCECJaGWQHku].md",
@@ -16758,9 +16876,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》888丨乱世之中，致敬不怕死的人",
           "url": "/wiki/sources/zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》829丨君子为什么斗不过小人？ [lthvNSTkFU8N9tHX1Sz6YezL4YQq].md",
+          "key": "zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》829丨君子为什么斗不过小人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-29",
       "url": "/wiki/concepts/moraldesertpoliticaloutcomegap/"
     },
     "MoralMentorshipTalentCultivation": {
@@ -17787,9 +17912,9 @@
       "url": "/wiki/concepts/outdoorvehiclelifestyledesign/"
     },
     "OuterRelativeCourtPower": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 1,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》848丨瞬间垮台！我为何说他死有余辜？ [lgqVgMxlwga2fKnmtxPj3Ya9chk0].md",
@@ -17867,6 +17992,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》830丨东汉李固：我虽死犹荣！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》829丨君子为什么斗不过小人？ [lthvNSTkFU8N9tHX1Sz6YezL4YQq].md",
+          "key": "zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》829丨君子为什么斗不过小人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq/"
         }
       ],
       "updated": "2026-08-29",
@@ -19264,6 +19396,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/qingonglatehan/"
+    },
+    "QingheKingdomLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》829丨君子为什么斗不过小人？ [lthvNSTkFU8N9tHX1Sz6YezL4YQq].md",
+          "key": "zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》829丨君子为什么斗不过小人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/qinghekingdomlatehan/"
     },
     "QingyiReputationPressure": {
       "episode_count": 5,
@@ -22753,9 +22901,9 @@
       "url": "/wiki/entities/tansitong/"
     },
     "TangHengLateHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》904丨觉照内观：获得心灵大自由的秘诀 [lopN_oKbzr4LJvqmgzCsb7qAv0n2].md",
@@ -22784,9 +22932,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》847丨女人变得好命，从懂得这俩字开始",
           "url": "/wiki/sources/zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》829丨君子为什么斗不过小人？ [lthvNSTkFU8N9tHX1Sz6YezL4YQq].md",
+          "key": "zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》829丨君子为什么斗不过小人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-29",
       "url": "/wiki/entities/tanghenglatehan/"
     },
     "TangWenbin": {
@@ -25624,6 +25779,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/xiebilatehan/"
     },
+    "XieHaoQingheLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》829丨君子为什么斗不过小人？ [lthvNSTkFU8N9tHX1Sz6YezL4YQq].md",
+          "key": "zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》829丨君子为什么斗不过小人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/xiehaoqinghelatehan/"
+    },
     "Xiongnu": {
       "episode_count": 15,
       "show_count": 1,
@@ -28166,9 +28337,9 @@
       "url": "/wiki/entities/zongzilatehan/"
     },
     "ZuoGuanLateHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》857丨学会共赢，才是真正的赢家 [lh3zx6Pw_4iB7oWIZ8C68Bv_9hTN].md",
@@ -28190,9 +28361,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》848丨瞬间垮台！我为何说他死有余辜？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》829丨君子为什么斗不过小人？ [lthvNSTkFU8N9tHX1Sz6YezL4YQq].md",
+          "key": "zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》829丨君子为什么斗不过小人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-29",
       "url": "/wiki/entities/zuoguanlatehan/"
     },
     "ZuoShengLateHan": {
