@@ -6879,9 +6879,25 @@
     "title": "Biotech License-Out Arbitrage",
     "url": "/wiki/concepts/biotechlicenseoutarbitrage/"
   },
+  "BipolarCreativityCorrelation": {
+    "title": "Bipolar Creativity Correlation",
+    "url": "/wiki/concepts/bipolarcreativitycorrelation/"
+  },
+  "BipolarDisorder": {
+    "title": "Bipolar Disorder",
+    "url": "/wiki/concepts/bipolardisorder/"
+  },
+  "BipolarInteroceptionDecline": {
+    "title": "Bipolar Interoception Decline",
+    "url": "/wiki/concepts/bipolarinteroceptiondecline/"
+  },
   "BipolarJunctionTransistor": {
     "title": "Bipolar Junction Transistor",
     "url": "/wiki/concepts/bipolarjunctiontransistor/"
+  },
+  "BipolarManiaHypomaniaSpectrum": {
+    "title": "Bipolar Mania-Hypomania Spectrum",
+    "url": "/wiki/concepts/bipolarmaniahypomaniaspectrum/"
   },
   "BirdDinosaurContinuity": {
     "title": "Bird-Dinosaur Continuity / 鸟类-恐龙连续性",
@@ -15106,6 +15122,10 @@
   "EBird": {
     "title": "eBird",
     "url": "/wiki/entities/ebird/"
+  },
+  "ECTBipolarDepressionBoundary": {
+    "title": "ECT Bipolar Depression Boundary",
+    "url": "/wiki/concepts/ectbipolardepressionboundary/"
   },
   "EEGBrainReading": {
     "title": "EEG Brain Reading",
@@ -24459,6 +24479,10 @@
     "title": "Insurance Technology Modernization",
     "url": "/wiki/concepts/insurancetechnologymodernization/"
   },
+  "IntegratedBipolarCare": {
+    "title": "Integrated Bipolar Care",
+    "url": "/wiki/concepts/integratedbipolarcare/"
+  },
   "IntegratedCommandCapacity": {
     "title": "Integrated Command Capacity / 全维度统帅能力",
     "url": "/wiki/concepts/integratedcommandcapacity/"
@@ -26282,6 +26306,10 @@
   "JohnBoydDunlop": {
     "title": "John Boyd Dunlop / 约翰·博伊德·邓禄普",
     "url": "/wiki/entities/johnboyddunlop/"
+  },
+  "JohnCade": {
+    "title": "John Cade",
+    "url": "/wiki/entities/johncade/"
   },
   "JohnCarmack": {
     "title": "John Carmack",
@@ -29398,6 +29426,10 @@
   "LiteraryTravelAsCareerStrategy": {
     "title": "文人漫游作为仕途策略 / Literary Travel As Career Strategy",
     "url": "/wiki/concepts/literarytravelascareerstrategy/"
+  },
+  "LithiumBipolarTreatment": {
+    "title": "Lithium Bipolar Treatment",
+    "url": "/wiki/concepts/lithiumbipolartreatment/"
   },
   "LithiumIronPhosphateBatteries": {
     "title": "Lithium Iron Phosphate Batteries",
@@ -58206,6 +58238,10 @@
   "essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929": {
     "title": "Essentials: How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried",
     "url": "/wiki/sources/essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929/"
+  },
+  "essentials-the-science-treatment-of-bipolar-disorder-scim8821948371": {
+    "title": "Essentials: The Science & Treatment of Bipolar Disorder",
+    "url": "/wiki/sources/essentials-the-science-treatment-of-bipolar-disorder-scim8821948371/"
   },
   "essentials-using-meditation-to-focus-view-consciousness-expand-your-mind-dr-sam-harris-scim7293799235": {
     "title": "Essentials: Using Meditation to Focus, View Consciousness & Expand Your Mind | Dr. Sam Harris",

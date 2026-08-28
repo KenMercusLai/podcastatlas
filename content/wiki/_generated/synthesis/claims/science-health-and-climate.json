@@ -74,6 +74,35 @@
     },
     {
       "global_candidate": true,
+      "id": "bipolar-care-needs-medical-diagnosis-and-monitoring",
+      "qualifications": [
+        "The episode is public psychiatric education, not individualized diagnosis, medication, supplement, or psychotherapy advice.",
+        "Lithium, antidepressant combinations, ECT, inositol, omega-3s, sleep routines, and nutrition supports remain clinician-contextual rather than substitutes for qualified care.",
+        "The creativity association is source-scoped correlation, not proof that bipolar symptoms cause creativity or should be left untreated."
+      ],
+      "statement": "[[BipolarDisorder]] adds a psychiatric-risk branch: [[BipolarManiaHypomaniaSpectrum]], [[LithiumBipolarTreatment]], [[BipolarInteroceptionDecline]], [[IntegratedBipolarCare]], [[ECTBipolarDepressionBoundary]], and [[BipolarCreativityCorrelation]] frame bipolar disorder as a high-risk medical condition requiring diagnosis, monitoring, and integrated care rather than ordinary mood variation, self-directed supplement/lifestyle substitution, or a creativity shortcut.",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "essentials-the-science-treatment-of-bipolar-disorder-scim8821948371",
+        "BipolarDisorder",
+        "BipolarManiaHypomaniaSpectrum",
+        "LithiumBipolarTreatment",
+        "BipolarInteroceptionDecline",
+        "IntegratedBipolarCare",
+        "ECTBipolarDepressionBoundary",
+        "BipolarCreativityCorrelation",
+        "PsychiatricMedicationSupervisionBoundary",
+        "MedicalRiskManagement",
+        "SleepAsDailyHealthAccount",
+        "NutritionMentalHealth",
+        "CreativityAsFeltProcess",
+        "JohnCade",
+        "HubermanLab",
+        "AndrewHuberman"
+      ]
+    },
+    {
+      "global_candidate": true,
       "id": "female-hormone-health-needs-life-course-phenotyping",
       "qualifications": [
         "The episode is medical education, not individualized care; testing, CGM use, hormone therapy, chronic-cardio advice, CAC timing, and oral-contraceptive choices remain clinician-contextual.",
@@ -337,6 +366,6 @@
       ]
     }
   ],
-  "summary": "VOL.215 adds a sugar-control literacy branch: liquid sugar, juice, hidden sugar, zero-sucrose labels, low-GI honey, sweeteners, anti-sugar supplements, staple foods, and food pleasure engineering need food-structure and clinical context rather than blanket sweetness avoidance. The Huberman Q&A adds flexible health self-regulation to the science-and-health map: morning light, sleep, exercise, nutrition, memory practice, olfactory training, recovery, and sustainable routines matter most when fitted to real constraints rather than protocol perfection, while supplements, testosterone, fertility, hormone therapy, and surgery recovery remain clinically bounded. VOL.216 adds a neuroscience-literacy and diagnosis-boundary branch: prefrontal cortex and dopamine language is useful only when network-level brain function, sleep, hunger, pain, alcohol, stress, environment, ADHD criteria, and red-flag clinical changes remain visible. Science, health, climate, and space-engineering claims become credible when evidence, physical constraints, regulation, implementation cost, clinical context, diagnostic follow-through, and operational closure stay visible. The topic includes first-visit diagnostic safety netting, female hormone health as life-course phenotyping, metabolic psychiatry, spine care, medical privacy AI, Wudang medicine and cultivation, science policy, space launch infrastructure, reusable rockets, climate adaptation and carbon removal, evidence-bound dinosaur reconstruction, insurance risk planning, and individualized cancer vaccines. Across these branches, the wiki treats promising interventions and tests as bounded by diagnosis, verification, recurrence or failure modes, institutional trust, affordability, and quality-of-life judgment rather than by headline labels alone.",
+  "summary": "VOL.215 adds a sugar-control literacy branch: liquid sugar, juice, hidden sugar, zero-sucrose labels, low-GI honey, sweeteners, anti-sugar supplements, staple foods, and food pleasure engineering need food-structure and clinical context rather than blanket sweetness avoidance. The Huberman Q&A adds flexible health self-regulation to the science-and-health map: morning light, sleep, exercise, nutrition, memory practice, olfactory training, recovery, and sustainable routines matter most when fitted to real constraints rather than protocol perfection, while supplements, testosterone, fertility, hormone therapy, and surgery recovery remain clinically bounded. The bipolar-disorder episode adds a psychiatric-risk branch: diagnosis, mania/hypomania distinctions, lithium monitoring, ECT boundaries, psychotherapy, sleep and nutrition supports, and creativity claims all stay inside medical-risk management rather than self-directed optimization. VOL.216 adds a neuroscience-literacy and diagnosis-boundary branch: prefrontal cortex and dopamine language is useful only when network-level brain function, sleep, hunger, pain, alcohol, stress, environment, ADHD criteria, and red-flag clinical changes remain visible. Science, health, climate, and space-engineering claims become credible when evidence, physical constraints, regulation, implementation cost, clinical context, diagnostic follow-through, and operational closure stay visible. The topic includes first-visit diagnostic safety netting, female hormone health as life-course phenotyping, metabolic psychiatry, spine care, medical privacy AI, Wudang medicine and cultivation, science policy, space launch infrastructure, reusable rockets, climate adaptation and carbon removal, evidence-bound dinosaur reconstruction, insurance risk planning, and individualized cancer vaccines. Across these branches, the wiki treats promising interventions and tests as bounded by diagnosis, verification, recurrence or failure modes, institutional trust, affordability, and quality-of-life judgment rather than by headline labels alone.",
   "topic_id": "science-health-and-climate"
 }

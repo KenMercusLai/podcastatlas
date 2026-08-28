@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 5830
+wiki_total_pages: 5837
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -92,6 +92,9 @@ wiki_pages:
   - key: "EconomistTrustCrisis"
     title: "Economist Trust Crisis"
     url: "/wiki/concepts/economisttrustcrisis/"
+  - key: "ECTBipolarDepressionBoundary"
+    title: "ECT Bipolar Depression Boundary"
+    url: "/wiki/concepts/ectbipolardepressionboundary/"
   - key: "EdgeCloudAIBoundary"
     title: "Edge-Cloud AI Boundary"
     url: "/wiki/concepts/edgecloudaiboundary/"

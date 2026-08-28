@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 5830
+wiki_total_pages: 5837
 wiki_pages:
   - key: "ICEWorkforceExpansion"
     title: "ICE Workforce Expansion"
@@ -419,6 +419,9 @@ wiki_pages:
   - key: "InsuranceTechnologyModernization"
     title: "Insurance Technology Modernization"
     url: "/wiki/concepts/insurancetechnologymodernization/"
+  - key: "IntegratedBipolarCare"
+    title: "Integrated Bipolar Care"
+    url: "/wiki/concepts/integratedbipolarcare/"
   - key: "IntegratedCommandCapacity"
     title: "Integrated Command Capacity / 全维度统帅能力"
     url: "/wiki/concepts/integratedcommandcapacity/"

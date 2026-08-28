@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 5830
+wiki_total_pages: 5837
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -362,6 +362,9 @@ wiki_pages:
   - key: "LiterarySubcultureSymbolization"
     title: "Literary Subculture Symbolization"
     url: "/wiki/concepts/literarysubculturesymbolization/"
+  - key: "LithiumBipolarTreatment"
+    title: "Lithium Bipolar Treatment"
+    url: "/wiki/concepts/lithiumbipolartreatment/"
   - key: "LithiumIronPhosphateBatteries"
     title: "Lithium Iron Phosphate Batteries"
     url: "/wiki/concepts/lithiumironphosphatebatteries/"

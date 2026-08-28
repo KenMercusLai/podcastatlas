@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 824
+topic_total_pages: 826
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -160,6 +160,9 @@ topic_concepts:
   - key: "BioregionalResilience"
     title: "Bioregional Resilience"
     url: "/wiki/concepts/bioregionalresilience/"
+  - key: "BipolarInteroceptionDecline"
+    title: "Bipolar Interoception Decline"
+    url: "/wiki/concepts/bipolarinteroceptiondecline/"
   - key: "BloodBrainBarrierPrediction"
     title: "Blood-Brain Barrier Prediction"
     url: "/wiki/concepts/bloodbrainbarrierprediction/"
@@ -2388,6 +2391,9 @@ topic_sources:
   - key: "essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929"
     title: "Essentials: How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried"
     url: "/wiki/sources/essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929/"
+  - key: "essentials-the-science-treatment-of-bipolar-disorder-scim8821948371"
+    title: "Essentials: The Science & Treatment of Bipolar Disorder"
+    url: "/wiki/sources/essentials-the-science-treatment-of-bipolar-disorder-scim8821948371/"
   - key: "fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd"
     title: "Fear-jerker: America's AI backlash"
     url: "/wiki/sources/fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd/"

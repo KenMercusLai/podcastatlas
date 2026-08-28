@@ -1536,9 +1536,9 @@
       "url": "/wiki/concepts/analogmoviegoingexperience/"
     },
     "AndrewHuberman": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 1,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -1623,6 +1623,13 @@
           "show": "Huberman Lab",
           "title": "Accelerate Learning & Increase Cognitive Capacity | Dr. Tommy Wood",
           "url": "/wiki/sources/accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551/"
+        },
+        {
+          "episode_file": "SCIM8821948371 [SCIM8821948371].md",
+          "key": "essentials-the-science-treatment-of-bipolar-disorder-scim8821948371",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Science & Treatment of Bipolar Disorder",
+          "url": "/wiki/sources/essentials-the-science-treatment-of-bipolar-disorder-scim8821948371/"
         }
       ],
       "updated": "2026-08-28",
@@ -2465,6 +2472,70 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/biontech/"
+    },
+    "BipolarCreativityCorrelation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8821948371 [SCIM8821948371].md",
+          "key": "essentials-the-science-treatment-of-bipolar-disorder-scim8821948371",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Science & Treatment of Bipolar Disorder",
+          "url": "/wiki/sources/essentials-the-science-treatment-of-bipolar-disorder-scim8821948371/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/bipolarcreativitycorrelation/"
+    },
+    "BipolarDisorder": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8821948371 [SCIM8821948371].md",
+          "key": "essentials-the-science-treatment-of-bipolar-disorder-scim8821948371",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Science & Treatment of Bipolar Disorder",
+          "url": "/wiki/sources/essentials-the-science-treatment-of-bipolar-disorder-scim8821948371/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/bipolardisorder/"
+    },
+    "BipolarInteroceptionDecline": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8821948371 [SCIM8821948371].md",
+          "key": "essentials-the-science-treatment-of-bipolar-disorder-scim8821948371",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Science & Treatment of Bipolar Disorder",
+          "url": "/wiki/sources/essentials-the-science-treatment-of-bipolar-disorder-scim8821948371/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/bipolarinteroceptiondecline/"
+    },
+    "BipolarManiaHypomaniaSpectrum": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8821948371 [SCIM8821948371].md",
+          "key": "essentials-the-science-treatment-of-bipolar-disorder-scim8821948371",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Science & Treatment of Bipolar Disorder",
+          "url": "/wiki/sources/essentials-the-science-treatment-of-bipolar-disorder-scim8821948371/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/bipolarmaniahypomaniaspectrum/"
     },
     "BlockInc": {
       "episode_count": 1,
@@ -6200,6 +6271,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/dynasticscandalsuppression/"
+    },
+    "ECTBipolarDepressionBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8821948371 [SCIM8821948371].md",
+          "key": "essentials-the-science-treatment-of-bipolar-disorder-scim8821948371",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Science & Treatment of Bipolar Disorder",
+          "url": "/wiki/sources/essentials-the-science-treatment-of-bipolar-disorder-scim8821948371/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/ectbipolardepressionboundary/"
     },
     "EdwardHeath": {
       "episode_count": 2,
@@ -10039,9 +10126,9 @@
       "url": "/wiki/concepts/huaweismartselectioncarmodel/"
     },
     "HubermanLab": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 1,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -10126,6 +10213,13 @@
           "show": "Huberman Lab",
           "title": "Accelerate Learning & Increase Cognitive Capacity | Dr. Tommy Wood",
           "url": "/wiki/sources/accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551/"
+        },
+        {
+          "episode_file": "SCIM8821948371 [SCIM8821948371].md",
+          "key": "essentials-the-science-treatment-of-bipolar-disorder-scim8821948371",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Science & Treatment of Bipolar Disorder",
+          "url": "/wiki/sources/essentials-the-science-treatment-of-bipolar-disorder-scim8821948371/"
         }
       ],
       "updated": "2026-08-28",
@@ -10643,6 +10737,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/institutionalpolicypluralism/"
+    },
+    "IntegratedBipolarCare": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8821948371 [SCIM8821948371].md",
+          "key": "essentials-the-science-treatment-of-bipolar-disorder-scim8821948371",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Science & Treatment of Bipolar Disorder",
+          "url": "/wiki/sources/essentials-the-science-treatment-of-bipolar-disorder-scim8821948371/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/integratedbipolarcare/"
     },
     "InterPath001": {
       "episode_count": 1,
@@ -11528,6 +11638,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/johannloschek/"
+    },
+    "JohnCade": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8821948371 [SCIM8821948371].md",
+          "key": "essentials-the-science-treatment-of-bipolar-disorder-scim8821948371",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Science & Treatment of Bipolar Disorder",
+          "url": "/wiki/sources/essentials-the-science-treatment-of-bipolar-disorder-scim8821948371/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/johncade/"
     },
     "JonathanHurst": {
       "episode_count": 1,
@@ -12846,6 +12972,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/lisamosconi/"
+    },
+    "LithiumBipolarTreatment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8821948371 [SCIM8821948371].md",
+          "key": "essentials-the-science-treatment-of-bipolar-disorder-scim8821948371",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Science & Treatment of Bipolar Disorder",
+          "url": "/wiki/sources/essentials-the-science-treatment-of-bipolar-disorder-scim8821948371/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/lithiumbipolartreatment/"
     },
     "LiuBiao": {
       "episode_count": 13,
@@ -17411,9 +17553,9 @@
       "url": "/wiki/concepts/psychedelicordinaryfreedom/"
     },
     "PsychiatricMedicationSupervisionBoundary": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -17421,9 +17563,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Diet & Nutrition for Mental Health | Dr. Chris Palmer",
           "url": "/wiki/sources/essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786/"
+        },
+        {
+          "episode_file": "SCIM8821948371 [SCIM8821948371].md",
+          "key": "essentials-the-science-treatment-of-bipolar-disorder-scim8821948371",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Science & Treatment of Bipolar Disorder",
+          "url": "/wiki/sources/essentials-the-science-treatment-of-bipolar-disorder-scim8821948371/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-28",
       "url": "/wiki/concepts/psychiatricmedicationsupervisionboundary/"
     },
     "PsychologicalAbuseRecognition": {

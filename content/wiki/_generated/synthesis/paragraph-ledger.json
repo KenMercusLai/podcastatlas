@@ -332,12 +332,13 @@
       "a9fec3ceb1b343b1fafeebc9ab2903b46238a861f9aaafd9d15b1460340a08b5",
       "80ebfc1ef682d46f5ad0ddee6b5400db9cc377226e9bae3529738d33d47cad41",
       "ffc63951f0c9ebb1bdb0d92982d5f65f57bbe4a7f7a359f38dcd33423bb288c2",
-      "41cadfb91ef6894bc7d9cd5c4e55012480b0225b71a6a027d18e9565e8357c0c"
+      "41cadfb91ef6894bc7d9cd5c4e55012480b0225b71a6a027d18e9565e8357c0c",
+      "d589a53c87e197a55033f79a64a0ec3a258b8cbc050ee0e70dcc6388df48a243"
     ],
-    "paragraph_count": 332
+    "paragraph_count": 333
   },
-  "overview_commit": "a6abea5da3bfdc38e32a54e087a8c9d17480f0ca",
-  "overview_digest": "c7755925ab0944f62979e0be82fa021d75507492819fb8ead051b7ef59f56e49",
+  "overview_commit": "5a0e3672ad8e37cfa03083cb6ee0d550fb9b83de",
+  "overview_digest": "c7777440ee303ae1affcdeeb5c4af7caeb82731e99495ab18f7c4812d2135b5e",
   "paragraphs": [
     {
       "id": "f52125eea27ebc3fff165a4536d009297d2066b965df8af495fc6a939880ccb2",
@@ -10288,6 +10289,33 @@
         "XuYouLateHan",
         "XunYou",
         "zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju"
+      ]
+    },
+    {
+      "id": "d589a53c87e197a55033f79a64a0ec3a258b8cbc050ee0e70dcc6388df48a243",
+      "primary_topic": "science-health-and-climate",
+      "secondary_topics": [],
+      "text": "The latest addition is [[essentials-the-science-treatment-of-bipolar-disorder-scim8821948371]], a [[HubermanLab]] Essentials episode with [[AndrewHuberman]] on [[BipolarDisorder]], diagnosis, risk, biology, and treatment. It adds [[JohnCade]], [[BipolarDisorder]], [[BipolarManiaHypomaniaSpectrum]], [[LithiumBipolarTreatment]], [[BipolarInteroceptionDecline]], [[IntegratedBipolarCare]], [[ECTBipolarDepressionBoundary]], and [[BipolarCreativityCorrelation]], while extending [[PsychiatricMedicationSupervisionBoundary]], [[MedicalRiskManagement]], [[SleepAsDailyHealthAccount]], [[NutritionMentalHealth]], and [[CreativityAsFeltProcess]]. Its core synthesis is that bipolar disorder is treated as a high-risk medical condition, not ordinary mood variability or a creativity shortcut: mania and hypomania require sustained clinical patterns, lithium remains both treatment and biological clue but needs monitoring, therapy and lifestyle supports are adjuncts rather than replacements, ECT is bounded to treatment-resistant depression, and creativity associations remain correlational. No settled contradiction is recorded; the episode strengthens the wiki's existing supervision boundary for severe psychiatric illness and medication decisions.",
+      "topic_scores": {
+        "science-health-and-climate": 4
+      },
+      "wikilinks": [
+        "AndrewHuberman",
+        "BipolarCreativityCorrelation",
+        "BipolarDisorder",
+        "BipolarInteroceptionDecline",
+        "BipolarManiaHypomaniaSpectrum",
+        "CreativityAsFeltProcess",
+        "ECTBipolarDepressionBoundary",
+        "HubermanLab",
+        "IntegratedBipolarCare",
+        "JohnCade",
+        "LithiumBipolarTreatment",
+        "MedicalRiskManagement",
+        "NutritionMentalHealth",
+        "PsychiatricMedicationSupervisionBoundary",
+        "SleepAsDailyHealthAccount",
+        "essentials-the-science-treatment-of-bipolar-disorder-scim8821948371"
       ]
     }
   ],

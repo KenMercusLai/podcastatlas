@@ -4,15 +4,15 @@ generated: true
 topic_id: science-health-and-climate
 title: "Science, Health, and Climate"
 last_updated: 2026-08-28
-as_of_overview_commit: 56049fa52f8554d078c9b9c82f8f64b2214069bf
-input_digest: cbc557f02a805479c2043c03d20acb78c9724b661f56db88c52f1ea86ff41747
+as_of_overview_commit: 5a0e3672ad8e37cfa03083cb6ee0d550fb9b83de
+input_digest: 9c956d9133d3a182fdd9cf05674b048065c44efe3deb9ea54a102717c4f008e3
 ---
 
 # Science, Health, and Climate
 
 ## Current State
 
-VOL.215 adds a sugar-control literacy branch: liquid sugar, juice, hidden sugar, zero-sucrose labels, low-GI honey, sweeteners, anti-sugar supplements, staple foods, and food pleasure engineering need food-structure and clinical context rather than blanket sweetness avoidance. The Huberman Q&A adds flexible health self-regulation to the science-and-health map: morning light, sleep, exercise, nutrition, memory practice, olfactory training, recovery, and sustainable routines matter most when fitted to real constraints rather than protocol perfection, while supplements, testosterone, fertility, hormone therapy, and surgery recovery remain clinically bounded. VOL.216 adds a neuroscience-literacy and diagnosis-boundary branch: prefrontal cortex and dopamine language is useful only when network-level brain function, sleep, hunger, pain, alcohol, stress, environment, ADHD criteria, and red-flag clinical changes remain visible. Science, health, climate, and space-engineering claims become credible when evidence, physical constraints, regulation, implementation cost, clinical context, diagnostic follow-through, and operational closure stay visible. The topic includes first-visit diagnostic safety netting, female hormone health as life-course phenotyping, metabolic psychiatry, spine care, medical privacy AI, Wudang medicine and cultivation, science policy, space launch infrastructure, reusable rockets, climate adaptation and carbon removal, evidence-bound dinosaur reconstruction, insurance risk planning, and individualized cancer vaccines. Across these branches, the wiki treats promising interventions and tests as bounded by diagnosis, verification, recurrence or failure modes, institutional trust, affordability, and quality-of-life judgment rather than by headline labels alone.
+VOL.215 adds a sugar-control literacy branch: liquid sugar, juice, hidden sugar, zero-sucrose labels, low-GI honey, sweeteners, anti-sugar supplements, staple foods, and food pleasure engineering need food-structure and clinical context rather than blanket sweetness avoidance. The Huberman Q&A adds flexible health self-regulation to the science-and-health map: morning light, sleep, exercise, nutrition, memory practice, olfactory training, recovery, and sustainable routines matter most when fitted to real constraints rather than protocol perfection, while supplements, testosterone, fertility, hormone therapy, and surgery recovery remain clinically bounded. The bipolar-disorder episode adds a psychiatric-risk branch: diagnosis, mania/hypomania distinctions, lithium monitoring, ECT boundaries, psychotherapy, sleep and nutrition supports, and creativity claims all stay inside medical-risk management rather than self-directed optimization. VOL.216 adds a neuroscience-literacy and diagnosis-boundary branch: prefrontal cortex and dopamine language is useful only when network-level brain function, sleep, hunger, pain, alcohol, stress, environment, ADHD criteria, and red-flag clinical changes remain visible. Science, health, climate, and space-engineering claims become credible when evidence, physical constraints, regulation, implementation cost, clinical context, diagnostic follow-through, and operational closure stay visible. The topic includes first-visit diagnostic safety netting, female hormone health as life-course phenotyping, metabolic psychiatry, spine care, medical privacy AI, Wudang medicine and cultivation, science policy, space launch infrastructure, reusable rockets, climate adaptation and carbon removal, evidence-bound dinosaur reconstruction, insurance risk planning, and individualized cancer vaccines. Across these branches, the wiki treats promising interventions and tests as bounded by diagnosis, verification, recurrence or failure modes, institutional trust, affordability, and quality-of-life judgment rather than by headline labels alone.
 
 ## Cross-source Findings
 
@@ -50,6 +50,18 @@ VOL.215 adds a sugar-control literacy branch: liquid sugar, juice, hidden sugar,
 
 - The source reports clinical cases, personal experience, epilepsy precedent, and mitochondrial mechanism rather than completed large randomized psychiatric trials.
 - Severe disorders, medication changes, and high-ketosis psychiatric interventions remain medically supervised rather than general self-care advice.
+
+### Bipolar Care Needs Medical Diagnosis And Monitoring
+
+[[BipolarDisorder]] adds a psychiatric-risk branch: [[BipolarManiaHypomaniaSpectrum]], [[LithiumBipolarTreatment]], [[BipolarInteroceptionDecline]], [[IntegratedBipolarCare]], [[ECTBipolarDepressionBoundary]], and [[BipolarCreativityCorrelation]] frame bipolar disorder as a high-risk medical condition requiring diagnosis, monitoring, and integrated care rather than ordinary mood variation, self-directed supplement/lifestyle substitution, or a creativity shortcut.
+
+**Evidence:** [[essentials-the-science-treatment-of-bipolar-disorder-scim8821948371]], [[BipolarDisorder]], [[BipolarManiaHypomaniaSpectrum]], [[LithiumBipolarTreatment]], [[BipolarInteroceptionDecline]], [[IntegratedBipolarCare]], [[ECTBipolarDepressionBoundary]], [[BipolarCreativityCorrelation]], [[PsychiatricMedicationSupervisionBoundary]], [[MedicalRiskManagement]], [[SleepAsDailyHealthAccount]], [[NutritionMentalHealth]], [[CreativityAsFeltProcess]], [[JohnCade]], [[HubermanLab]], [[AndrewHuberman]]
+
+**Qualifications:**
+
+- The episode is public psychiatric education, not individualized diagnosis, medication, supplement, or psychotherapy advice.
+- Lithium, antidepressant combinations, ECT, inositol, omega-3s, sleep routines, and nutrition supports remain clinician-contextual rather than substitutes for qualified care.
+- The creativity association is source-scoped correlation, not proof that bipolar symptoms cause creativity or should be left untreated.
 
 ### Female Hormone Health Needs Life Course Phenotyping
 

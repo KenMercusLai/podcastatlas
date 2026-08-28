@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 5830
+wiki_total_pages: 5837
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -293,9 +293,21 @@ wiki_pages:
   - key: "BioTechToBioPharmTransition"
     title: "BioTech To BioPharm Transition"
     url: "/wiki/concepts/biotechtobiopharmtransition/"
+  - key: "BipolarCreativityCorrelation"
+    title: "Bipolar Creativity Correlation"
+    url: "/wiki/concepts/bipolarcreativitycorrelation/"
+  - key: "BipolarDisorder"
+    title: "Bipolar Disorder"
+    url: "/wiki/concepts/bipolardisorder/"
+  - key: "BipolarInteroceptionDecline"
+    title: "Bipolar Interoception Decline"
+    url: "/wiki/concepts/bipolarinteroceptiondecline/"
   - key: "BipolarJunctionTransistor"
     title: "Bipolar Junction Transistor"
     url: "/wiki/concepts/bipolarjunctiontransistor/"
+  - key: "BipolarManiaHypomaniaSpectrum"
+    title: "Bipolar Mania-Hypomania Spectrum"
+    url: "/wiki/concepts/bipolarmaniahypomaniaspectrum/"
   - key: "BirdDispersalEcology"
     title: "Bird Dispersal Ecology"
     url: "/wiki/concepts/birddispersalecology/"
