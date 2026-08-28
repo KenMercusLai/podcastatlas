@@ -8,25 +8,29 @@ sources:
   - zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar
   - zizhi-tongjian-hanji-1022-luanshi-sanguo-sanwei-mingshi-de-shengcun-jueze-lgmbekomxwiu7hjnpxkxggyhvwaf
   - zizhi-tongjian-hanji-1044-guanyu-qianli-zou-danqi-xu-ganxie-caocao-busha-enqing-lpptlnc-e4zu4lcjr49bquxdw0pm
-last_updated: 2026-08-27
+  - zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m
+last_updated: 2026-08-28
 knowledge_schema: synthesis-v1
 ---
 
 # 荀攸 / Xun You
 
 ## Overview
-荀攸 / Xun You is a Cao Cao strategist who combines hidden intelligence, low-profile survival, and timing-sensitive military advice.
+荀攸 / Xun You is a Cao Cao strategist who combines hidden intelligence, low-profile survival, timing-sensitive military advice, and careful screening of battlefield surrender.
 
 ## Current Profile
 The current profile begins after [[CaoCao|曹操]] settles the court at [[Xudu|许都]], where [[XunYu|荀彧]] recommends Xun You among Cao's adviser recruits. Hanji 1006 then contrasts him with [[GuoJia|郭嘉]]: Xun You's value lies in cautious, exacting, secret-keeping counsel, the "外愚内智" posture, and survival through controlled visibility rather than theatrical brilliance.
 
 The campaign cases make his timing judgment concrete. Hanji 1022 has him advise Cao Cao not to rush [[ZhangXiu|张绣]] because Zhang Xiu depends on [[LiuBiao|刘表]]'s grain and could perhaps be recruited or weakened by waiting; Cao ignores him. Hanji 1025 has Xun You and Guo Jia argue the opposite tempo at Xiapi: press [[LyuBu|吕布]] before morale and [[ChenGongLateHan|陈宫]]'s planning recover. Hanji 1044 then gives a pre-Guandu field case: at [[YanjinBattleLateHan|延津之战]], Xun You reads exposed baggage as deliberate bait and tells Cao's camp not to abandon the lure too soon.
 
+Hanji 1049 extends Xun You from timing advice into surrender interpretation. After the [[WuchaoRaidLateHan|Wuchao Raid]], [[ZhangHeLateHan|Zhang He]] and [[GaoLanLateHan|Gao Lan]] come over from Yuan Shao's camp, and [[CaoHong|Cao Hong]] initially doubts them. Xun You argues that Zhang He is credible because his correct Wuchao advice was rejected and [[GuoTu|Guo Tu]]'s slander made continued service dangerous.
+
 ## Key Characteristics
 - Keeps intelligence controlled and less publicly exposed than more dramatic advisers.
 - Enters Cao Cao's adviser field through Xun Yu's recommendation after the Xudu court position becomes legible.
 - Reads timing as conditional: delay against Zhang Xiu when enemy alliance incentives favor waiting, but press Lü Bu when enemy morale and planning are fragile.
 - Recognizes baiting windows where apparent vulnerability can be held until the enemy loses formation.
+- Screens enemy surrender by reading whether the defection has a credible internal-camp cause.
 - Protects advice through secrecy, discipline, and low-profile conduct rather than status display.
 - Complements Guo Jia by supplying caution and tempo discipline alongside bolder strategic judgment.
 
@@ -36,15 +40,15 @@ The campaign cases make his timing judgment concrete. Hanji 1022 has him advise 
 - Delay advice: [[zizhi-tongjian-hanji-1022-luanshi-sanguo-sanwei-mingshi-de-shengcun-jueze-lgmbekomxwiu7hjnpxkxggyhvwaf|Hanji 1022]] has Xun You warn that attacking Zhang Xiu immediately may strengthen Zhang's reliance on Liu Biao.
 - Pressing advice: [[zizhi-tongjian-hanji-1025-bai-yu-caocao-lvbu-cuo-zai-jinjiuling-ljjt1t2mk77si6re-wew-hpl8qz|Hanji 1025]] has Xun You and Guo Jia advise continued pressure at Xiapi because Lü Bu's morale is weakening and Chen Gong has not settled a response.
 - Bait timing: [[zizhi-tongjian-hanji-1044-guanyu-qianli-zou-danqi-xu-ganxie-caocao-busha-enqing-lpptlnc-e4zu4lcjr49bquxdw0pm|Hanji 1044]] has Xun You identify Cao Cao's exposed baggage at Yanjin as a lure and prevent premature retreat before the counterattack.
+- Surrender screening: [[zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m|Hanji 1049]] has Xun You tell Cao Hong that Zhang He's surrender is credible because Yuan Shao rejected his Wuchao advice and Guo Tu's slander left him exposed.
 
 ## Qualifications
 The transcript forms "徐悠" and "巡邮" are normalized cautiously to 荀攸 / Xun You because the surrounding adviser and campaign sequences match him. Hanji 1022 records advice that Cao Cao rejects, so it shows Xun You's judgment entering the camp's debate rather than controlling the final decision.
 
 ## What Changed
-- Migrated this legacy page to the synthesis-v1 entity schema.
-- Added Hanji 1022's Zhang Xiu timing advice as a fourth source.
-- Clarified that Xun You's timing discipline can recommend either waiting or pressing, depending on enemy supply, morale, and planning conditions.
-- Added Hanji 1044's Yanjin bait-recognition case.
+- Added Hanji 1049's surrender-screening case after the Wuchao Raid.
+- Extended Xun You from timing and bait recognition into interpreting whether enemy commanders can be safely received.
+- Connected Xun You to Zhang He and Gao Lan's Guandu defection.
 
 ## Relationships
 - [[CaoCao|曹操]] - ruler whose adviser system includes Xun You.
@@ -55,7 +59,11 @@ The transcript forms "徐悠" and "巡邮" are normalized cautiously to 荀攸 /
 - [[LyuBu|吕布]] - Xiapi enemy whose weakened morale supports Xun You's press-the-siege advice.
 - [[ChenGongLateHan|陈宫]] - Lü Bu adviser whose unsettled response timing matters in Hanji 1025.
 - [[YanjinBattleLateHan|延津之战]] - field case where Xun You recognizes and preserves a baiting opportunity.
+- [[WuchaoRaidLateHan|乌巢夜袭]] - campaign crisis after which Xun You evaluates the credibility of Zhang He's surrender.
+- [[ZhangHeLateHan|张郃]] and [[GaoLanLateHan|高览]] - surrenderers whose acceptance is supported by Xun You's reading of Yuan-camp dynamics.
+- [[CaoHong|曹洪]] - Cao-side commander whose hesitation Xun You answers in Hanji 1049.
 - [[LureEnemyOutOfPosition|诱敌离位]] - tactic pattern illustrated by Xun You's Yanjin advice.
+- [[StrategicDefectorIncorporation|纳叛安抚式整合]] - incorporation pattern supported by Xun You's surrender-screening judgment.
 - [[PoliticalSurvivalFirst|安全第一政治生存]] - survival frame for Xun You's low-profile public posture.
 - [[WarCostTempoDiscipline|战争成本与速决纪律]] - campaign-tempo concept exemplified by the Xiapi advice.
 - [[XingshiqingStrategicAssessment|行势情战略评估]] - broader strategic-assessment frame shared with the Guo Jia branch.

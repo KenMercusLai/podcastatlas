@@ -3729,6 +3729,29 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/chroniclepolicycompression/"
     },
+    "ChunyuQiong": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》992丨乱世有多可怕？揭秘长安的血色梦魇 [ltuxzRb-1X5y2CTwo4DrGgxn5sTZ].md",
+          "key": "zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》992丨乱世有多可怕？揭秘长安的血色梦魇",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1049丨官渡之战结局揭幕，曹操终于以弱胜强 [lvTuTWyhrIx4RhiyPa9DKNZ3DA1M].md",
+          "key": "zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1049丨官渡之战结局揭幕，曹操终于以弱胜强",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/chunyuqiong/"
+    },
     "CityPlacePremium": {
       "episode_count": 1,
       "show_count": 1,
@@ -7147,6 +7170,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/gaoerji/"
     },
+    "GaoLanLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1049丨官渡之战结局揭幕，曹操终于以弱胜强 [lvTuTWyhrIx4RhiyPa9DKNZ3DA1M].md",
+          "key": "zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1049丨官渡之战结局揭幕，曹操终于以弱胜强",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/gaolanlatehan/"
+    },
     "Gaode": {
       "episode_count": 2,
       "show_count": 2,
@@ -7688,9 +7727,9 @@
       "url": "/wiki/entities/guanyu/"
     },
     "GuanduCampaign": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1026丨揭秘三国第一猛将吕布的落幕 [lhjf_aguJuIgLqCHUMtFf3tfTxg1].md",
@@ -7754,6 +7793,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1050丨从曹操焚信学习宝贵的领导智慧",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1050-cong-caocao-fenxin-xuexi-baogui-de-lingdao-zhihui-lsqg-qaxozjpaxyukrvxbtf-mcse/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1049丨官渡之战结局揭幕，曹操终于以弱胜强 [lvTuTWyhrIx4RhiyPa9DKNZ3DA1M].md",
+          "key": "zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1049丨官渡之战结局揭幕，曹操终于以弱胜强",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m/"
         }
       ],
       "updated": "2026-08-28",
@@ -7866,9 +7912,9 @@
       "url": "/wiki/entities/guotailatehan/"
     },
     "GuoTu": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》956丨庸人和智者，究竟差距在哪里？ [lphEE8cJ_7GcMG-CyNpIPHJVaUuF].md",
@@ -7904,9 +7950,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1033丨割据军阀袁术，最终吐血而亡？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1033-geju-junfa-yuanshu-zuizhong-tuxue-er-wang-lt0ibs-en0oeoqkkcxl8sevjng4/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1049丨官渡之战结局揭幕，曹操终于以弱胜强 [lvTuTWyhrIx4RhiyPa9DKNZ3DA1M].md",
+          "key": "zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1049丨官渡之战结局揭幕，曹操终于以弱胜强",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-28",
       "url": "/wiki/entities/guotu/"
     },
     "GuoYiLateHan": {
@@ -10082,9 +10135,9 @@
       "url": "/wiki/entities/joshspencer/"
     },
     "JuShou": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》976丨三国谋士大盘点，谁是你心中的神？ [ljGPbosQ-9XIoWpgaEyossmgSt6x].md",
@@ -10134,9 +10187,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1043丨袁绍痛骂曹操，竟治好了他的偏头疼？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1043-yuanshao-tongma-caocao-jing-zhihaole-tade-piantouteng-ltibjj6xizsrynpgr9oyf-q3ydna/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1049丨官渡之战结局揭幕，曹操终于以弱胜强 [lvTuTWyhrIx4RhiyPa9DKNZ3DA1M].md",
+          "key": "zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1049丨官渡之战结局揭幕，曹操终于以弱胜强",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-28",
       "url": "/wiki/entities/jushou/"
     },
     "JuliusKurfgen": {
@@ -17353,9 +17413,9 @@
       "url": "/wiki/entities/stormont/"
     },
     "StrategicDefectorIncorporation": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1026丨揭秘三国第一猛将吕布的落幕 [lhjf_aguJuIgLqCHUMtFf3tfTxg1].md",
@@ -17377,9 +17437,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1032丨对待叛徒，曹操为何仁慈？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1032-duidai-pantu-caocao-weihe-renci-lmrr3c2f2dayectlwndt4p-katuy/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1049丨官渡之战结局揭幕，曹操终于以弱胜强 [lvTuTWyhrIx4RhiyPa9DKNZ3DA1M].md",
+          "key": "zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1049丨官渡之战结局揭幕，曹操终于以弱胜强",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-28",
       "url": "/wiki/concepts/strategicdefectorincorporation/"
     },
     "StrategicEmotionConcealment": {
@@ -17748,6 +17815,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/sunyutao/"
+    },
+    "SupplyDepotDecisiveStrike": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1049丨官渡之战结局揭幕，曹操终于以弱胜强 [lvTuTWyhrIx4RhiyPa9DKNZ3DA1M].md",
+          "key": "zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1049丨官渡之战结局揭幕，曹操终于以弱胜强",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/supplydepotdecisivestrike/"
     },
     "SurrenderAsCivilianProtectionTradeoff": {
       "episode_count": 1,
@@ -19931,6 +20014,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/wuzilanlatehan/"
     },
+    "WuchaoRaidLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1049丨官渡之战结局揭幕，曹操终于以弱胜强 [lvTuTWyhrIx4RhiyPa9DKNZ3DA1M].md",
+          "key": "zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1049丨官渡之战结局揭幕，曹操终于以弱胜强",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/wuchaoraidlatehan/"
+    },
     "WurenZhixiao": {
       "episode_count": 5,
       "show_count": 1,
@@ -20296,6 +20395,36 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/xuxunlatehan/"
     },
+    "XuYouLateHan": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》941丨身处官场，他竟想干翻皇帝 [liU-FqIz9pI7U6ClTrn-cJmjz__r].md",
+          "key": "zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》941丨身处官场，他竟想干翻皇帝",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》976丨三国谋士大盘点，谁是你心中的神？ [ljGPbosQ-9XIoWpgaEyossmgSt6x].md",
+          "key": "zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》976丨三国谋士大盘点，谁是你心中的神？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1049丨官渡之战结局揭幕，曹操终于以弱胜强 [lvTuTWyhrIx4RhiyPa9DKNZ3DA1M].md",
+          "key": "zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1049丨官渡之战结局揭幕，曹操终于以弱胜强",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/xuyoulatehan/"
+    },
     "XuZhaoLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -20382,9 +20511,9 @@
       "url": "/wiki/entities/xunshuanglatehan/"
     },
     "XunYou": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1025丨败于曹操，吕布错在禁酒令？ [ljJT1t2mK77si6re_-WEW_hPl8qZ].md",
@@ -20420,9 +20549,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1044丨关羽千里走单骑，需感谢曹操不杀恩情？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1044-guanyu-qianli-zou-danqi-xu-ganxie-caocao-busha-enqing-lpptlnc-e4zu4lcjr49bquxdw0pm/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1049丨官渡之战结局揭幕，曹操终于以弱胜强 [lvTuTWyhrIx4RhiyPa9DKNZ3DA1M].md",
+          "key": "zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1049丨官渡之战结局揭幕，曹操终于以弱胜强",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-28",
       "url": "/wiki/entities/xunyou/"
     },
     "YaMengDoctor": {
@@ -21378,6 +21514,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/zhangfanwanlatehan/"
+    },
+    "ZhangHeLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1049丨官渡之战结局揭幕，曹操终于以弱胜强 [lvTuTWyhrIx4RhiyPa9DKNZ3DA1M].md",
+          "key": "zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1049丨官渡之战结局揭幕，曹操终于以弱胜强",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/zhanghelatehan/"
     },
     "ZhangHuanLateHan": {
       "episode_count": 9,

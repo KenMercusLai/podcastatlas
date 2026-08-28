@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 5802
+wiki_total_pages: 5803
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1514,6 +1514,9 @@ wiki_pages:
   - key: "SupplyChainSovereignty"
     title: "Supply Chain Sovereignty"
     url: "/wiki/concepts/supplychainsovereignty/"
+  - key: "SupplyDepotDecisiveStrike"
+    title: "Supply Depot Decisive Strike / 粮草命门打击"
+    url: "/wiki/concepts/supplydepotdecisivestrike/"
   - key: "SupportiveHousingManagement"
     title: "Supportive Housing Management"
     url: "/wiki/concepts/supportivehousingmanagement/"
