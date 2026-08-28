@@ -14083,6 +14083,10 @@
     "title": "Direct Listing Discipline",
     "url": "/wiki/concepts/directlistingdiscipline/"
   },
+  "DirectRemonstranceCriminalization": {
+    "title": "直谏入罪 / Direct Remonstrance Criminalization",
+    "url": "/wiki/concepts/directremonstrancecriminalization/"
+  },
   "DirectTeacherEdtechPilot": {
     "title": "Direct-Teacher Edtech Pilot",
     "url": "/wiki/concepts/directteacheredtechpilot/"
@@ -14838,6 +14842,10 @@
   "DuXiLateHan": {
     "title": "杜袭 / Du Xi (late Han)",
     "url": "/wiki/entities/duxilatehan/"
+  },
+  "DuZhongLateHan": {
+    "title": "杜仲 / Du Zhong (late Han)",
+    "url": "/wiki/entities/duzhonglatehan/"
   },
   "DuZiChun": {
     "title": "《杜子春》",
@@ -28798,6 +28806,10 @@
   "LiYuanWarringStates": {
     "title": "李源 / 李元 / Li Yuan (Warring States)",
     "url": "/wiki/entities/liyuanwarringstates/"
+  },
+  "LiYunLateHan": {
+    "title": "李云 / Li Yun (late Han)",
+    "url": "/wiki/entities/liyunlatehan/"
   },
   "LiZhizao": {
     "title": "李之藻 / Li Zhizao",
@@ -51775,6 +51787,10 @@
     "title": "Wei Great Wall Anti-Qin Defense / 魏长城防秦",
     "url": "/wiki/concepts/weigreatwallantiqindefense/"
   },
+  "WeiHuanLateHan": {
+    "title": "魏桓 / Wei Huan (late Han)",
+    "url": "/wiki/entities/weihuanlatehan/"
+  },
   "WeiJiLateHan": {
     "title": "魏觊 / Wei Ji (late Han)",
     "url": "/wiki/entities/weijilatehan/"
@@ -60542,6 +60558,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7": {
+    "title": "《资治通鉴·汉纪》850丨桓帝为何执意杀忠臣？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7/"
   },
   "zizhi-tongjian-hanji-852-dang-meinv-ruyun-shi-fu-haishi-huo-luml30ytbc-awpvk-7-23ehzbqpx": {
     "title": "《资治通鉴·汉纪》852丨当美女如云，是福还是 “祸”？",

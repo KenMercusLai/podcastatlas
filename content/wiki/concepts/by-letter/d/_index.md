@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 5809
+wiki_total_pages: 5810
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -788,6 +788,9 @@ wiki_pages:
   - key: "DailyLifeMystery"
     title: "日常推理 / Daily-Life Mystery"
     url: "/wiki/concepts/dailylifemystery/"
+  - key: "DirectRemonstranceCriminalization"
+    title: "直谏入罪 / Direct Remonstrance Criminalization"
+    url: "/wiki/concepts/directremonstrancecriminalization/"
   - key: "DeathDefyingRemonstrance"
     title: "赴死式直谏 / Death-Defying Remonstrance"
     url: "/wiki/concepts/deathdefyingremonstrance/"

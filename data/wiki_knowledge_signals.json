@@ -3259,9 +3259,9 @@
       "url": "/wiki/entities/chezhoulatehan/"
     },
     "ChenFanLateHan": {
-      "episode_count": 17,
+      "episode_count": 18,
       "show_count": 1,
-      "source_note_count": 17,
+      "source_note_count": 18,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》901 丨急性子的人会是什么下场？ [lh1yfyJZqPTXVtnV9tAiQms9YjUd].md",
@@ -3381,6 +3381,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》852丨当美女如云，是福还是 “祸”？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-852-dang-meinv-ruyun-shi-fu-haishi-huo-luml30ytbc-awpvk-7-23ehzbqpx/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》850丨桓帝为何执意杀忠臣？ [loKxtCeQ7Vv_giEC6IUFWWK9FWk7].md",
+          "key": "zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》850丨桓帝为何执意杀忠臣？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7/"
         }
       ],
       "updated": "2026-08-28",
@@ -4980,6 +4987,36 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/digitrobot/"
     },
+    "DirectRemonstranceCriminalization": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》850丨桓帝为何执意杀忠臣？ [loKxtCeQ7Vv_giEC6IUFWWK9FWk7].md",
+          "key": "zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》850丨桓帝为何执意杀忠臣？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》852丨当美女如云，是福还是 “祸”？ [luml30yTbc-aWPVK-7_23eHZBQPx].md",
+          "key": "zizhi-tongjian-hanji-852-dang-meinv-ruyun-shi-fu-haishi-huo-luml30ytbc-awpvk-7-23ehzbqpx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》852丨当美女如云，是福还是 “祸”？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-852-dang-meinv-ruyun-shi-fu-haishi-huo-luml30ytbc-awpvk-7-23ehzbqpx/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》873丨他如何利用天象痛骂帝王？ [lqEbKOdcbCrSVYf80qWxNobYDbHc].md",
+          "key": "zizhi-tongjian-hanji-873-ta-ruhe-liyong-tianxiang-tongma-diwang-lqebkodcbcrsvyf80qwxnobydbhc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》873丨他如何利用天象痛骂帝王？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-873-ta-ruhe-liyong-tianxiang-tongma-diwang-lqebkodcbcrsvyf80qwxnobydbhc/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/directremonstrancecriminalization/"
+    },
     "DisciplineOverMotivation": {
       "episode_count": 1,
       "show_count": 1,
@@ -5396,6 +5433,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/duxilatehan/"
+    },
+    "DuZhongLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》850丨桓帝为何执意杀忠臣？ [loKxtCeQ7Vv_giEC6IUFWWK9FWk7].md",
+          "key": "zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》850丨桓帝为何执意杀忠臣？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/duzhonglatehan/"
     },
     "DuanGuiLateHan": {
       "episode_count": 2,
@@ -5933,9 +5986,9 @@
       "url": "/wiki/concepts/emotionsasfunctionalcontrolstates/"
     },
     "EmperorHuanOfHan": {
-      "episode_count": 17,
+      "episode_count": 18,
       "show_count": 1,
-      "source_note_count": 17,
+      "source_note_count": 18,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》901 丨急性子的人会是什么下场？ [lh1yfyJZqPTXVtnV9tAiQms9YjUd].md",
@@ -6055,6 +6108,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿”",
           "url": "/wiki/sources/zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》850丨桓帝为何执意杀忠臣？ [loKxtCeQ7Vv_giEC6IUFWWK9FWk7].md",
+          "key": "zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》850丨桓帝为何执意杀忠臣？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7/"
         }
       ],
       "updated": "2026-08-28",
@@ -6867,9 +6927,9 @@
       "url": "/wiki/entities/fiveguys/"
     },
     "FiveMarquisesHuanEra": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿” [lvSA2pby8IyfEvfooBoBpIK52MiJ].md",
@@ -6877,6 +6937,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿”",
           "url": "/wiki/sources/zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》850丨桓帝为何执意杀忠臣？ [loKxtCeQ7Vv_giEC6IUFWWK9FWk7].md",
+          "key": "zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》850丨桓帝为何执意杀忠臣？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7/"
         }
       ],
       "updated": "2026-08-28",
@@ -7810,9 +7877,9 @@
       "url": "/wiki/entities/goodfriendsfilm/"
     },
     "GuanBaLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》884丨职场除奸，要对谁先开刀？ [lvtC3uQLsO242olKyin3fvz5A7YS].md",
@@ -7827,6 +7894,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》866丨真正活明白的人，懂得“三不沾”",
           "url": "/wiki/sources/zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》850丨桓帝为何执意杀忠臣？ [loKxtCeQ7Vv_giEC6IUFWWK9FWk7].md",
+          "key": "zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》850丨桓帝为何执意杀忠臣？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7/"
         }
       ],
       "updated": "2026-08-28",
@@ -8610,9 +8684,9 @@
       "url": "/wiki/entities/houcanlatehan/"
     },
     "HouLanLateHan": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》900丨职场权术都不动，该怎样生存 [lmhJwOsY4EsWyHfpPDGHfsMfycQr].md",
@@ -8669,6 +8743,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿”",
           "url": "/wiki/sources/zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》850丨桓帝为何执意杀忠臣？ [loKxtCeQ7Vv_giEC6IUFWWK9FWk7].md",
+          "key": "zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》850丨桓帝为何执意杀忠臣？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7/"
         }
       ],
       "updated": "2026-08-28",
@@ -11427,6 +11508,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/liyinglatehan/"
+    },
+    "LiYunLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》850丨桓帝为何执意杀忠臣？ [loKxtCeQ7Vv_giEC6IUFWWK9FWk7].md",
+          "key": "zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》850丨桓帝为何执意杀忠臣？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/liyunlatehan/"
     },
     "LiangJiLateHan": {
       "episode_count": 1,
@@ -17276,9 +17373,9 @@
       "url": "/wiki/entities/shanbinglatehan/"
     },
     "ShanChaoLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿” [lvSA2pby8IyfEvfooBoBpIK52MiJ].md",
@@ -17286,6 +17383,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿”",
           "url": "/wiki/sources/zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》850丨桓帝为何执意杀忠臣？ [loKxtCeQ7Vv_giEC6IUFWWK9FWk7].md",
+          "key": "zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》850丨桓帝为何执意杀忠臣？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7/"
         }
       ],
       "updated": "2026-08-28",
@@ -20274,6 +20378,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/watersystemcyberresilience/"
+    },
+    "WeiHuanLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》850丨桓帝为何执意杀忠臣？ [loKxtCeQ7Vv_giEC6IUFWWK9FWk7].md",
+          "key": "zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》850丨桓帝为何执意杀忠臣？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/weihuanlatehan/"
     },
     "WeiJiLateHan": {
       "episode_count": 1,

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1968
+topic_total_pages: 1969
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3205,6 +3205,9 @@ topic_concepts:
   - key: "ImperialFiscalElasticity"
     title: "皇室财政弹性 / Imperial Fiscal Elasticity"
     url: "/wiki/concepts/imperialfiscalelasticity/"
+  - key: "DirectRemonstranceCriminalization"
+    title: "直谏入罪 / Direct Remonstrance Criminalization"
+    url: "/wiki/concepts/directremonstrancecriminalization/"
   - key: "PhysiognomicInvestmentJudgment"
     title: "看相式政治投资 / Physiognomic Investment Judgment"
     url: "/wiki/concepts/physiognomicinvestmentjudgment/"
