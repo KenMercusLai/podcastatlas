@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 1871
+topic_total_pages: 1870
 topic_concepts:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -2776,9 +2776,6 @@ topic_concepts:
   - key: "ImperialFiscalElasticity"
     title: "皇室财政弹性 / Imperial Fiscal Elasticity"
     url: "/wiki/concepts/imperialfiscalelasticity/"
-  - key: "RankSaleDisasterFinance"
-    title: "鬻爵赈灾融资 / Rank Sale Disaster Finance"
-    url: "/wiki/concepts/ranksaledisasterfinance/"
 topic_entities:
   - key: "1789Capital"
     title: "1789 Capital"

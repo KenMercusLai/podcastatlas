@@ -12681,6 +12681,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-28] ingest | 《资治通鉴·汉纪》855丨你有多无情，就有多强大
+
+Added source page for a 160-161 CE Huan-era backfill on boundary-strength framing, Liu Chong's Kuaiji governance, Guo Hong's obstruction and blame-shifting against Duan Jiong, Hu Hong's failed Qiang command, and Huangfu Gui's root-cause frontier diagnosis before Hanji 856. Created Guo Hong, Hu Hong, and Shendi Qiang; updated Liu Chong, Huangfu Gui, Duan Jiong, Xianling Qiang, Root-Cause Pacification, Humane Local Governance, Boundaryless Kindness Trap, overview, index, and generated synthesis. No settled contradiction found; 段颎 is normalized to 段熲, "梁州" is handled through the Liangzhou route, and the opening boundary lesson remains source-scoped.
+
 ## [2026-08-28] ingest | E250｜mRNA的第二战场：对话英博，拆解Moderna人类首个肿瘤疫苗三期突破
 
 Added source page for a 硅谷101 episode with Ying Bo on Moderna/Merck's InterPath001 individualized mRNA melanoma-vaccine phase 3 readout, postoperative RFS, neoantigen selection, CMC/QC, automation, AI, and regulatory/manufacturing limits. Created Ying Bo, 爱博生物, InterPath001, BioNTech, Individualized Cancer Vaccine Manufacturing, Neoantigen Selection Tradeoff, and Recurrence-Free Survival Endpoint; updated Moderna, Merck, Individualized Cancer Vaccine, Cancer Vaccine Platform, Cancer Immune Recognition Problem, Tumor Microenvironment, AI Clinical Validation In Drug Discovery, overview, and index. No settled contradiction found; the source qualifies earlier cancer-vaccine optimism by keeping HR/subgroup data, OS, approval, cross-tumor transfer, cost, access, and manufacturability unresolved.
@@ -12833,6 +12837,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-28] ingest | 《资治通鉴·汉纪》854丨历史告诉你：选官用官很重要！
+
+Added source page for a 160-161 CE Huan-era backfill on appointment quality, Duan Jiong's Qiang pursuit, Xia Fang's Jiaozhi appointment, Huangfu Gui's Taishan pacification, Liu Ju's Yongqiu mediation, disaster/fire pressure, and rank-sale fiscal measures. Created Xia Fang, Liu Ju, Shusun Wuji, and Appointment Quality as State Capacity; updated Duan Jiong, Huangfu Gui, Zong Zi, Huang Qiong, Liu Chong, Humane Local Governance, Rank Sale Disaster Finance, overview, and index. No settled contradiction found; transcript forms are normalized to 刘矩, 黄琼, 种暠, 虞放, 祝恬, 叔孙无忌, 宗资, and 皇甫规 where the received Tongjian passage supports it.
+
 ## [2026-08-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -12892,6 +12900,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-28] ingest | Big shot: does a cancer vaccine work?
 
 Added source page for The Intelligence episode on Steve Young's personalized mRNA melanoma-vaccine trial, Canada's oil-sands boom, Trans Mountain capacity, and Dolly Parton's cultural legacy. Created Steve Young (Melanoma Trial Patient), Sarah Larniuk, Cenovus Energy, Canadian Natural Resources Limited, Trans Mountain Expansion, Major Projects Office (Canada), Dolly Parton, Canadian Oil Sands Boom, Cross-Coalition Cultural Icon, and Artist Rights Control pages; updated individualized cancer vaccine, cancer vaccine platform, cancer immune recognition, Moderna, Merck, Canada, Alberta, Mark Carney, American Cultural Exports, overview, and index. No settled contradiction found; the episode qualifies earlier cancer-vaccine optimism by keeping survival, side effects, dropout, cost, access, and tumor-type transferability unresolved.
+
+## [2026-08-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-28] lint | Wiki health check
 

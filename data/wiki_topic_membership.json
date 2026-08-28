@@ -7339,6 +7339,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "AppointmentQualityAsStateCapacity": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "ApprenticeBoysOfDerry": [
     {
       "key": "history",
@@ -28042,6 +28049,13 @@
       "url": "/topics/history/"
     }
   ],
+  "HuangfuGuiLateHan": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "Huangji": [
     {
       "key": "history",
@@ -47240,18 +47254,6 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
-    }
-  ],
-  "RankSaleDisasterFinance": [
-    {
-      "key": "economics",
-      "label": "Economics",
-      "url": "/topics/economics/"
-    },
-    {
-      "key": "history",
-      "label": "History",
-      "url": "/topics/history/"
     }
   ],
   "RansomwareBusinessContinuity": [

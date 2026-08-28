@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "ae1d37ee8809736dac7fd7e1a14c070e392abacaee133c141aea0f1d3f8f7802",
       "b43ba7cb4ae5ef2982410a18110a3db1dabe28f25af98cd941fa6bd84437bc88",
       "b7d227f34bd447800f7c15293cda81af8f70b38685399e1a4c004367452b1d39",
       "050bc1fafc1375ed4925da070d3d23985f1fb8caa98c0ad64f52caf9ea5e8aa0",
@@ -323,11 +324,38 @@
       "ffc63951f0c9ebb1bdb0d92982d5f65f57bbe4a7f7a359f38dcd33423bb288c2",
       "41cadfb91ef6894bc7d9cd5c4e55012480b0225b71a6a027d18e9565e8357c0c"
     ],
-    "paragraph_count": 321
+    "paragraph_count": 322
   },
-  "overview_commit": "d067f6bca4654af3c2838c9ef14d602a1c4fcd60",
-  "overview_digest": "c17d32d627445ebe90f19d446d46db4dfbbc18762af01fa53fbc26de4ca30a20",
+  "overview_commit": "2ba4612c6f1041dff66e15c21c1d03a3683b8fbf",
+  "overview_digest": "dad6d912b335c7f8b89e75ace3b828c045dcdd05a5536d3c7cfb27dddd714af9",
   "paragraphs": [
+    {
+      "id": "ae1d37ee8809736dac7fd7e1a14c070e392abacaee133c141aea0f1d3f8f7802",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1|《资治通鉴·汉纪》855丨你有多无情，就有多强大]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 160-161 CE Huan-era frontier and local-governance layer before [[zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks|Hanji 856]]. It adds [[GuoHongLateHan|郭闳]], [[HuHongLateHan|胡闳]], and [[ShendiQiang|沈氐羌]], while extending [[LiuChongLateHanMinister|刘宠]], [[DuanJiongLateHan|段熲]], [[HuangfuGuiLateHan|皇甫规]], [[XianlingQiang|先零羌]], [[KuaijiCommandery|会稽郡]], [[RootCausePacification|查因安抚式治理]], [[HumaneLocalGovernance|仁厚地方治理]], and [[BoundarylessKindnessTrap|无边界善良陷阱]]. Its core synthesis is that late-Han strength is presented as bounded firmness across personal conduct and public office: Liu Chong earns popular trust by cutting exactions and refusing farewell money, Guo Hong's merit-seeking obstruction turns Duan Jiong's campaign into desertion and wrongful punishment, and Huangfu Gui argues that clean politics and law-abiding administrators matter more than hunting for fierce generals before his victory, mass surrender, and new epidemic/trapped-army crisis. No settled contradiction is recorded; the episode supplies the immediate prehistory for Hanji 856 rather than replacing it, and the opening boundary lesson remains source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 3,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "BoundarylessKindnessTrap",
+        "DuanJiongLateHan",
+        "GuoHongLateHan",
+        "HuHongLateHan",
+        "HuangfuGuiLateHan",
+        "HumaneLocalGovernance",
+        "KuaijiCommandery",
+        "LiuChongLateHanMinister",
+        "RootCausePacification",
+        "RuiqiJiangtouZizhiTongjian",
+        "ShendiQiang",
+        "XianlingQiang",
+        "zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1",
+        "zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks"
+      ]
+    },
     {
       "id": "b43ba7cb4ae5ef2982410a18110a3db1dabe28f25af98cd941fa6bd84437bc88",
       "primary_topic": "ai-and-technology",

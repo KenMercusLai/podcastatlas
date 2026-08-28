@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1501
+topic_total_pages: 1500
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1378,9 +1378,6 @@ topic_concepts:
   - key: "YinmouYangmouConversion"
     title: "阴谋阳谋转换 / Yinmou-Yangmou Conversion"
     url: "/wiki/concepts/yinmouyangmouconversion/"
-  - key: "RankSaleDisasterFinance"
-    title: "鬻爵赈灾融资 / Rank Sale Disaster Finance"
-    url: "/wiki/concepts/ranksaledisasterfinance/"
   - key: "JimingGoudaoTalentCritique"
     title: "鸡鸣狗盗式人才批评 / Jiming-Goudao Talent Critique"
     url: "/wiki/concepts/jiminggoudaotalentcritique/"

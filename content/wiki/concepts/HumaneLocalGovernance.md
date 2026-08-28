@@ -1,64 +1,50 @@
 ---
 title: "仁厚地方治理 / Humane Local Governance"
 type: concept
-tags: [governance, local-administration, late-han, ethics]
+tags: [governance, local-administration, late-han, china]
 sources:
   - zizhi-tongjian-hanji-870-gudai-tizhinei-buganle-meiyou-tuilu-lpwbniu9ifpt6cp4ip9czqwsh5xd
   - zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v
   - zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq
+  - zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1
+  - zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um
 last_updated: 2026-08-28
 knowledge_schema: synthesis-v1
 ---
-
 ## Definition
-
-Humane local governance / 仁厚地方治理 is the administrative pattern where an official relies on calm conduct, light punishment, moral instruction, and everyday trust-building rather than fear or bodily coercion as the first instrument of local order.
+仁厚地方治理 / Humane Local Governance is a local-administration pattern where officials create order through restraint, burden reduction, moral instruction, diagnosis, calm presence, and proportionate correction before relying on punishment as the first instrument.
 
 ## Current Synthesis
+The concept now has a wider late-Han range. [[zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um|Hanji 854]] adds Liu Ju's Yongqiu case: when litigants come to the county office, he brings them forward, reasons with them, teaches ritual yielding, and persuades them that anger can be endured before entering official litigation. This is humane governance at the dispute-entry point, before punishment, jail, or formal adjudication begins.
 
-The evidence now has three variants. Hanji 870 grounds the concept through [[LiuKuanLateHan|刘宽]], a commandery official whose style is deliberately mild: he does not shout at subordinates, uses a reed whip so punishment creates shame rather than bodily injury, and adapts instruction to local audiences by encouraging farming, filial piety, sibling affection, and study.
-
-Hanji 868 gives a correction-from-harshness variant through [[WangChangShumaoLateHan|王畅]] and [[ZhangChangNanyangLateHan|张厂]]. Wang Chang begins by harshly attacking powerful households in [[NanyangCommandery|南阳郡]], but Zhang Chang persuades him that fear-heavy suppression is not enough for a symbolically important imperial region. The governing center shifts toward德化, trust, and the ruler's own conduct without denying that officials still need enforcement capacity.
-
-Hanji 862 supplies the clearest non-punitive transformation case through [[QiuXiangLateHan|仇香]]. Qiu Xiang responds to [[ChenYuanLateHan|陈元]]'s mother not by treating the complaint as a punishable offense, but by diagnosing whether the son is innately bad, badly behaved, or simply untaught. He keeps Chen Yuan present, teaches filial conduct, and repairs the family relation strongly enough that [[GuoTaiLateHan|郭泰]] treats the result as worthy of reverence.
+Earlier source notes already showed adjacent versions. Liu Chong reduces burdens and turns popular gratitude into only a symbolic farewell token; Qiu Xiang corrects Chen Yuan through trust rather than punishment; Yin Qin models non-panicked office conduct; and Huangfu Gui treats official abuse as a root cause of frontier resistance. Together the synthesis is not softness. It is a capacity strategy: humane governance works when restraint reduces fear, builds legitimacy, and leaves coercion available for problems that truly require it.
 
 ## Key Claims
-
-- Humane local governance treats official temperament as part of administrative capacity.
-- It starts with diagnosis: officials distinguish bad nature, bad conduct, and insufficient teaching before choosing punishment.
-- Punishment can be designed to signal shame and correction without maximizing bodily pain.
-- Local order can be built through repeated moral instruction to families, elders, youth, and ordinary residents.
-- Leniency is not the same as non-enforcement; Liu Kuan still marks wrongdoing and Qiu Xiang still corrects conduct.
-- Non-punitive transformation can be recognized as stronger than severity when it repairs conduct and relationships.
-- The pattern depends on local trust and may not transfer unchanged to acute rebellion or frontier war.
+- Humane governance is active statecraft, not mere kindness; it reduces resistance by changing how subjects experience official power.
+- Burden reduction and low extraction create public trust that can outlast an official's tenure.
+- Moral instruction can solve small disputes before they harden into formal cases or punitive cycles.
+- Local officials gain authority when they are calm, credible, and willing to diagnose causes before using force.
+- The pattern is fragile because it depends heavily on official character and appointment fit.
+- Humane methods coexist with coercive capacity; they are most persuasive when punishment remains bounded rather than absent.
 
 ## Evidence
-
-- Diagnosis before punishment: [[zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq|Hanji 862]] has Qiu Xiang distinguish between bad nature, bad conduct, and lack of teaching before deciding how to respond to Chen Yuan.
-- Household transformation: [[zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq|Hanji 862]] presents Qiu Xiang as correcting Chen Yuan through instruction rather than punishment and producing filial repair.
-- Moral-recognition test: [[zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq|Hanji 862]] says Guo Tai treats Qiu Xiang with reverence after seeing the outcome.
-- Calm official conduct: [[zizhi-tongjian-hanji-870-gudai-tizhinei-buganle-meiyou-tuilu-lpwbniu9ifpt6cp4ip9czqwsh5xd|Hanji 870]] says Liu Kuan remains gentle and does not shout even under urgent conditions.
-- Shame-based punishment: [[zizhi-tongjian-hanji-870-gudai-tizhinei-buganle-meiyou-tuilu-lpwbniu9ifpt6cp4ip9czqwsh5xd|Hanji 870]] says Liu Kuan uses a reed whip so offenders feel shame without added bodily suffering.
-- Local teaching: [[zizhi-tongjian-hanji-870-gudai-tizhinei-buganle-meiyou-tuilu-lpwbniu9ifpt6cp4ip9czqwsh5xd|Hanji 870]] says he encourages farming among elders and filial piety, sibling affection, and study among younger people.
-- Harshness redirected: [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|Hanji 868]] says Wang Chang initially arrests and suppresses powerful Nanyang households harshly, then changes course after Zhang Chang's advice.
-- Official-example theory: [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|Hanji 868]] has Zhang Chang cite the principle that upright official conduct can transform people more durably than orders issued by a compromised ruler.
+- Dispute-entry mediation: [[zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um|Hanji 854]] gives Liu Ju's Yongqiu method of speaking directly to litigants and persuading them to settle through ritual yielding.
+- Low-extraction administration: [[zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1|Hanji 855]] uses Liu Chong's Kuaiji burden reduction and farewell-token restraint as a local trust case.
+- Non-punitive correction: [[zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq|Hanji 862]] shows Qiu Xiang repairing Chen Yuan through trust and teaching rather than immediate punishment.
+- Calm official presence: [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|Hanji 868]] adds Yin Qin as a case where non-panicked, restrained office conduct produces local stability.
+- Root-cause repair: [[zizhi-tongjian-hanji-870-gudai-tizhinei-buganle-meiyou-tuilu-lpwbniu9ifpt6cp4ip9czqwsh5xd|Hanji 870]] keeps humane governance tied to Huangfu Gui's diagnosis that official behavior can create the disorders later treated as purely military problems.
 
 ## Counterevidence & Qualifications
-
-The concept is grounded in three short source notes. It should not be used as proof that mild governance solves every disorder, and it should not be merged with frontier pacification or rebellion response without additional evidence. The stable claim is narrower: local official style can make diagnosis, punishment, and teaching part of everyday administrative legitimacy, and coercive capacity should be governed by proportionality and trust rather than display.
+Humane local governance is not a universal substitute for force. Hanji 854 itself places Liu Ju's dispute mediation beside Duan Jiong's Qiang campaign and Zong Zi's bandit suppression, showing that the method depends on problem type. The pattern also remains person-dependent: it works when officials have credibility, restraint, and enough authority to make teaching or burden reduction believable.
 
 ## What Changed
-
-- Hanji 862 adds Qiu Xiang's non-punitive correction of Chen Yuan as a diagnosis-and-transformation case.
-- Hanji 868 adds Wang Chang's Nanyang reversal as a correction-from-harshness variant of humane local governance.
-- Created the concept from Hanji 870's Liu Kuan governance portrait.
+- Added Liu Ju's Yongqiu litigation-mediation case as the concept's clearest dispute-entry example.
+- Reframed humane governance as one branch of appointment quality: it depends on matching the official's method to the local problem.
+- Clarified that humane governance coexists with military suppression in the same Hanji 854 episode.
 
 ## Related Concepts
-
-- [[QiuXiangLateHan|仇香]] - local official whose handling of Chen Yuan exemplifies non-punitive transformation.
-- [[PeopleBasedPoliticalSecurity|民心型政治安全]] - broader frame where popular trust becomes a practical safety asset.
-- [[RootCausePacification|查因安抚式治理]] - related crisis-governance pattern that asks why disorder arose before choosing force or relief.
-- [[ConfucianIdealGovernance|儒家理想治理]] - normative frame behind Zhang Chang's appeal to upright conduct and moral transformation.
-- [[MeritBasedRewardPunishment|因功赏罚]] - adjacent administrative discipline concept; humane governance still needs correct assignment of reward and penalty.
-- [[CourtFeedbackCollapse|君臣反馈失灵]] - contrasting failure mode where correction cannot travel through the political system.
-- [[ScholarOfficialPublicDuty|士大夫公共责任]] - ethical frame for officials treating office as public service rather than private advantage.
+- [[AppointmentQualityAsStateCapacity|任官适任性国家能力]] - humane governance is one mode that works only when the right official receives the right post.
+- [[RootCausePacification|查因安抚式治理]] - humane governance overlaps with diagnosis-based pacification when official abuse is the cause of disorder.
+- [[LiuJuLateHan|刘矩]] - new case of litigation prevention through instruction and ritual yielding.
+- [[LiuChongLateHanMinister|刘宠]] - burden-reduction and farewell-token exemplar of low-extraction local administration.
+- [[PersonDependentGovernanceFragility|人亡政息式治理脆弱性]] - humane governance remains fragile when institutions rely on a few unusually restrained officials.

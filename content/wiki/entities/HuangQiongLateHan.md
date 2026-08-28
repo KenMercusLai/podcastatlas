@@ -1,48 +1,46 @@
 ---
 title: "黄琼 / Huang Qiong (late Han)"
 type: entity
-tags: [person, late-han, official, scholar, china]
+tags: [person, late-han, official, reputation, china]
 sources:
   - zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv
+  - zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um
 last_updated: 2026-08-28
 knowledge_schema: synthesis-v1
 ---
-
 ## Overview
-
-黄琼 / Huang Qiong enters the wiki through Hanji 860 as the late-Han official whose 164 CE funeral reveals a reputation and relationship field around [[XuZhiLateHan|徐稚]], [[MaoRongLateHan|茅容]], and [[GuoTaiLateHan|郭泰]]. The source uses his death less as a biography than as the scene that lets Xu Zhi's selective mourning and Guo Tai's interpretive authority become visible.
+黄琼 / Huang Qiong is a late-Han high official whose bounded profile now combines two layers: 161 CE high-office churn under Emperor Huan, and a later funeral scene where Xu Zhi's selective mourning and Guo Tai's interpretation make Huang Qiong a reputation marker. The page no longer treats the funeral as his only wiki significance; Hanji 854 adds the administrative instability around his removals and reappointment.
 
 ## Current Profile
+[[zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um|Hanji 854]] places Huang Qiong in the 161 CE Three Excellencies turnover: he is removed as taiwei after palace fire, epidemic, and related administrative pressure, later appointed sikong after Yu Fang's removal, and then removed again before Liu Chong is appointed. The source does not make him the moral center of these events; it uses him as part of a stressed appointment field.
 
-Hanji 860 says Huang Qiong once taught at home and had close contact with Xu Zhi, who came to him for instruction or questioning. After Huang Qiong rose to high office and honor, Xu Zhi stopped visiting him, but Huang's death brought Xu back for an anonymous, emotionally intense mourning visit.
-
-The funeral's scale matters for Huang Qiong's wiki role. Thousands of well-known people attend, yet the crowd cannot identify the plainly dressed mourner. That uncertainty creates the question Guo Tai later answers: Xu Zhi's silence and limited conversation are not ordinary discourtesy, but the conduct of a high-minded recluse choosing when speech is useful.
+[[zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv|Hanji 860]] gives Huang Qiong a different afterlife. His funeral becomes the scene in which Xu Zhi mourns selectively and Guo Tai interprets that restraint for a wider public. In the current synthesis, Huang Qiong is therefore both an office-turnover marker and a deceased senior figure whose reputation still structures later character judgment.
 
 ## Key Characteristics
-
-- Late-Han official whose death anchors the 164 CE source scene.
-- Former teacher or scholarly contact of Xu Zhi before Huang's rise in status.
-- High-status figure whose changed position causes Xu Zhi to withdraw from regular contact.
-- Funeral focal point through which scholar reputation, mourning, and selective speech become visible.
+- High official moved through taiwei and sikong roles in a year marked by disaster pressure and administrative churn.
+- Reputation-bearing elder whose funeral is meaningful enough to attract Xu Zhi and Guo Tai's interpretive attention.
+- More important as an institutional and reputational node than as a directly narrated policy actor in the current source set.
+- Connects the Huan court's unstable personnel system to the later scholar-official world of public character reading.
 
 ## Evidence
-
-- Funeral setting: [[zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv|Hanji 860]] says Huang Qiong dies in 164 CE and that thousands of well-known people come to mourn him.
-- Earlier Xu Zhi relationship: [[zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv|Hanji 860]] says Xu Zhi had previously asked Huang Qiong questions and was close to him before Huang became powerful.
-- Status boundary: [[zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv|Hanji 860]] says Xu Zhi stopped visiting after Huang's rise but returned to mourn him after death.
-- Character-reading frame: [[zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv|Hanji 860]] uses the funeral aftermath to set up Guo Tai's explanation of Xu Zhi.
+- Taiwei removal: [[zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um|Hanji 854]] reports Huang Qiong's removal as taiwei after a cluster of fire and epidemic pressure.
+- Sikong appointment and second removal: [[zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um|Hanji 854]] later appoints Huang Qiong as sikong and then removes him before Liu Chong enters the post.
+- Funeral reputation scene: [[zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv|Hanji 860]] centers Huang Qiong through Xu Zhi's anonymous mourning.
+- Public interpretation: [[zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv|Hanji 860]] uses Guo Tai's reading of Xu Zhi at the funeral to connect Huang Qiong's death to late-Han reputation discernment.
 
 ## Qualifications
-
-This page is source-scoped and does not attempt a full biography of Huang Qiong. The current source uses him as a funeral and relationship node rather than as a developed administrator. More sources would be needed before assigning a broader political profile.
+The current page has little direct evidence about Huang Qiong's policies, factional alignments, or responsibility for the disasters around his removal. Hanji 854 records office movement, while Hanji 860 records posthumous reputation effects. ASR forms such as 黄穹 are normalized to 黄琼 in this route.
 
 ## What Changed
-
-- Created the page from Hanji 860's 164 CE funeral and Xu Zhi relationship scene.
+- Added Hanji 854's 161 CE high-office churn before the funeral-centered Hanji 860 layer.
+- Reframed Huang Qiong as an institutional node in appointment instability as well as a reputation node in later scholar-official judgment.
+- Added an explicit caution that the current source set does not yet support a strong policy judgment about Huang Qiong himself.
 
 ## Relationships
-
-- [[XuZhiLateHan|徐稚]] - earlier scholarly contact who withdraws after Huang Qiong's rise but mourns him after death.
-- [[MaoRongLateHan|茅容]] - pursuer/interlocutor in the funeral aftermath.
-- [[GuoTaiLateHan|郭泰]] - interpreter whose judgment makes the funeral scene consequential.
-- [[SituationalCharacterTests|五观识人法]] - concept extended by the funeral's selective-speech evidence.
+- [[EmperorHuanOfHan|汉桓帝]] - ruler under whom Huang Qiong's office turnover occurs.
+- [[LiuJuLateHan|刘矩]] - official appointed taiwei after Huang Qiong's removal in Hanji 854.
+- [[LiuChongLateHanMinister|刘宠]] - official appointed sikong after Huang Qiong's later removal.
+- [[GuoTaiLateHan|郭泰]] - interpreter of Xu Zhi's funeral conduct at Huang Qiong's death.
+- [[XuZhiLateHan|徐稚]] - mourner whose selective conduct gives Huang Qiong's funeral its later significance.
+- [[SituationalCharacterTests|情境识人]] - concept linked to the funeral scene as a test of discernment and audience.
+- [[AppointmentQualityAsStateCapacity|任官适任性国家能力]] - concept that frames Huang Qiong's 161 office turnover as part of a stressed personnel system.

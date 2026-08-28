@@ -1667,6 +1667,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/apathyactioninitiation/"
     },
+    "AppointmentQualityAsStateCapacity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》854丨历史告诉你：选官用官很重要！ [lhiN-IwK6y1XR8VvzdmnJch3s2uM].md",
+          "key": "zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》854丨历史告诉你：选官用官很重要！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/appointmentqualityasstatecapacity/"
+    },
     "ApprenticeshipBeforeOriginality": {
       "episode_count": 1,
       "show_count": 1,
@@ -2327,9 +2343,9 @@
       "url": "/wiki/entities/bostondynamics/"
     },
     "BoundarylessKindnessTrap": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》919丨想活得好？先踢开善良的自己 [lrqxfZIR4BQXt0v3cCvfEf8FaaDE].md",
@@ -2344,9 +2360,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》883丨老板要反思：如何避免高官内讧？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-883-laoban-yao-fansi-ruhe-bimian-gaoguan-neihong-lph-fycnqas6hztjq1jbsisvylid/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》855丨你有多无情，就有多强大 [lulBPNUfi8xFijrviUfo6biuY-h1].md",
+          "key": "zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》855丨你有多无情，就有多强大",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-28",
       "url": "/wiki/concepts/boundarylesskindnesstrap/"
     },
     "BrainBodyEmotionMapping": {
@@ -5375,9 +5398,9 @@
       "url": "/wiki/entities/duxilatehan/"
     },
     "DuanJiongLateHan": {
-      "episode_count": 13,
+      "episode_count": 15,
       "show_count": 1,
-      "source_note_count": 13,
+      "source_note_count": 15,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》897丨职场必读！什么才叫领导力？ [lvRRMkSykaZLSb7W8aBbdmNqfzQQ].md",
@@ -5469,6 +5492,20 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》859丨古代好人为什么难当好官？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-859-gudai-haoren-weishenme-nan-dang-haoguan-llkyx18ssvserxncvrtkw7xfduad/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》855丨你有多无情，就有多强大 [lulBPNUfi8xFijrviUfo6biuY-h1].md",
+          "key": "zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》855丨你有多无情，就有多强大",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》854丨历史告诉你：选官用官很重要！ [lhiN-IwK6y1XR8VvzdmnJch3s2uM].md",
+          "key": "zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》854丨历史告诉你：选官用官很重要！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um/"
         }
       ],
       "updated": "2026-08-28",
@@ -7927,6 +7964,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/guoguirenhuanlatehan/"
     },
+    "GuoHongLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》855丨你有多无情，就有多强大 [lulBPNUfi8xFijrviUfo6biuY-h1].md",
+          "key": "zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》855丨你有多无情，就有多强大",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/guohonglatehan/"
+    },
     "GuoNing": {
       "episode_count": 1,
       "show_count": 1,
@@ -8586,6 +8639,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/hufanglatehan/"
     },
+    "HuHongLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》855丨你有多无情，就有多强大 [lulBPNUfi8xFijrviUfo6biuY-h1].md",
+          "key": "zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》855丨你有多无情，就有多强大",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/huhonglatehan/"
+    },
     "HuLanLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -8709,9 +8778,9 @@
       "url": "/wiki/entities/huangfudonghailatehan/"
     },
     "HuangQiongLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》860丨惊为天人！东汉郭泰有多神？ [ltiHXtkDP08EemcVHhxNPUBYKRUV].md",
@@ -8719,6 +8788,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》860丨惊为天人！东汉郭泰有多神？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》854丨历史告诉你：选官用官很重要！ [lhiN-IwK6y1XR8VvzdmnJch3s2uM].md",
+          "key": "zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》854丨历史告诉你：选官用官很重要！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um/"
         }
       ],
       "updated": "2026-08-28",
@@ -8794,9 +8870,9 @@
       "url": "/wiki/entities/huangzu/"
     },
     "HuangfuGuiLateHan": {
-      "episode_count": 5,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》875丨离大谱！为何他以入狱为荣？ [lgfFkjk_0Yu_EhFsW59AnoyCH_lD].md",
@@ -8832,6 +8908,20 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》856丨历史告诉你：人若心乱，阵脚自乱",
           "url": "/wiki/sources/zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》855丨你有多无情，就有多强大 [lulBPNUfi8xFijrviUfo6biuY-h1].md",
+          "key": "zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》855丨你有多无情，就有多强大",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》854丨历史告诉你：选官用官很重要！ [lhiN-IwK6y1XR8VvzdmnJch3s2uM].md",
+          "key": "zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》854丨历史告诉你：选官用官很重要！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um/"
         }
       ],
       "updated": "2026-08-28",
@@ -9016,9 +9106,9 @@
       "url": "/wiki/concepts/humanrobotsafetycertification/"
     },
     "HumaneLocalGovernance": {
-      "episode_count": 3,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》870丨古代体制内，不干了没有退路 [lpWBNiU9IFPT6Cp4ip9cZqwSh5XD].md",
@@ -9040,6 +9130,20 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》862丨他因一句话休妻，最终身败名裂",
           "url": "/wiki/sources/zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》855丨你有多无情，就有多强大 [lulBPNUfi8xFijrviUfo6biuY-h1].md",
+          "key": "zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》855丨你有多无情，就有多强大",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》854丨历史告诉你：选官用官很重要！ [lhiN-IwK6y1XR8VvzdmnJch3s2uM].md",
+          "key": "zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》854丨历史告诉你：选官用官很重要！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um/"
         }
       ],
       "updated": "2026-08-28",
@@ -11404,9 +11508,9 @@
       "url": "/wiki/entities/liubiao/"
     },
     "LiuChongLateHanMinister": {
-      "episode_count": 1,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》891丨高段位的母亲，是家的定海神针 [lmqKzsNhTIWc9wZcee869Kuu57M5].md",
@@ -11414,9 +11518,23 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》891丨高段位的母亲，是家的定海神针",
           "url": "/wiki/sources/zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》855丨你有多无情，就有多强大 [lulBPNUfi8xFijrviUfo6biuY-h1].md",
+          "key": "zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》855丨你有多无情，就有多强大",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》854丨历史告诉你：选官用官很重要！ [lhiN-IwK6y1XR8VvzdmnJch3s2uM].md",
+          "key": "zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》854丨历史告诉你：选官用官很重要！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-28",
       "url": "/wiki/entities/liuchonglatehanminister/"
     },
     "LiuDaiSikongZhangshi": {
@@ -11450,6 +11568,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/liudulatehan/"
+    },
+    "LiuJuLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》854丨历史告诉你：选官用官很重要！ [lhiN-IwK6y1XR8VvzdmnJch3s2uM].md",
+          "key": "zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》854丨历史告诉你：选官用官很重要！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/liujulatehan/"
     },
     "LiuKuanLateHan": {
       "episode_count": 3,
@@ -15850,6 +15984,36 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/ralphadolphs/"
     },
+    "RankSaleDisasterFinance": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·秦纪》106｜惊人发现信陵君的非正常死亡 [lsj3KD2Tb4tQtuvhWvSdwKh-h5EL].md",
+          "key": "zizhi-tongjian-qinji-106-jingren-faxian-xinlingjun-de-feizhengchang-siwang-lsj3kd2tb4tqtuvhwvsdwkh-h5el",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》106｜惊人发现信陵君的非正常死亡",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-106-jingren-faxian-xinlingjun-de-feizhengchang-siwang-lsj3kd2tb4tqtuvhwvsdwkh-h5el/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》938丨历史的警醒！软弱只会带来屈辱 [lnlNrkETgFbADHFJbZDJjtrMQFsH].md",
+          "key": "zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》938丨历史的警醒！软弱只会带来屈辱",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》854丨历史告诉你：选官用官很重要！ [lhiN-IwK6y1XR8VvzdmnJch3s2uM].md",
+          "key": "zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》854丨历史告诉你：选官用官很重要！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/ranksaledisasterfinance/"
+    },
     "RayBanSmartGlasses": {
       "episode_count": 5,
       "show_count": 1,
@@ -16384,9 +16548,9 @@
       "url": "/wiki/entities/romanceofthethreekingdoms/"
     },
     "RootCausePacification": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》922丨如何在凡尘中修炼情商？ [lsXIqNEYyEOd6AeeQxuhs517PN1X].md",
@@ -16429,6 +16593,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》856丨历史告诉你：人若心乱，阵脚自乱",
           "url": "/wiki/sources/zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》855丨你有多无情，就有多强大 [lulBPNUfi8xFijrviUfo6biuY-h1].md",
+          "key": "zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》855丨你有多无情，就有多强大",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1/"
         }
       ],
       "updated": "2026-08-28",
@@ -17097,6 +17268,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/shenyuefde/"
     },
+    "ShendiQiang": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》855丨你有多无情，就有多强大 [lulBPNUfi8xFijrviUfo6biuY-h1].md",
+          "key": "zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》855丨你有多无情，就有多强大",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/shendiqiang/"
+    },
     "ShentuPanLateHan": {
       "episode_count": 3,
       "show_count": 1,
@@ -17234,6 +17421,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/shoppingcenterrestaurantization/"
+    },
+    "ShusunWujiLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》854丨历史告诉你：选官用官很重要！ [lhiN-IwK6y1XR8VvzdmnJch3s2uM].md",
+          "key": "zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》854丨历史告诉你：选官用官很重要！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/shusunwujilatehan/"
     },
     "SituationalCharacterTests": {
       "episode_count": 5,
@@ -20357,6 +20560,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/wuyinlatehan/"
     },
+    "XiaFangLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》854丨历史告诉你：选官用官很重要！ [lhiN-IwK6y1XR8VvzdmnJch3s2uM].md",
+          "key": "zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》854丨历史告诉你：选官用官很重要！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/xiafanglatehan/"
+    },
     "XiaFuLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -20413,9 +20632,9 @@
       "url": "/wiki/entities/xiangkailatehan/"
     },
     "XianlingQiang": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》929丨对事不对人，你信了吗？ [lgaXJ0jzoPddmt3C5hiBNExqLhB3].md",
@@ -20437,9 +20656,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》881丨是谁在发战争横财？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-881-shi-shui-zai-fa-zhanzheng-hengcai-lipglslijnbp0cuqfpps88q5wit6/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》855丨你有多无情，就有多强大 [lulBPNUfi8xFijrviUfo6biuY-h1].md",
+          "key": "zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》855丨你有多无情，就有多强大",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-28",
       "url": "/wiki/entities/xianlingqiang/"
     },
     "XianyuFu": {
@@ -22536,9 +22762,9 @@
       "url": "/wiki/entities/zhuzhenlatehan/"
     },
     "ZongZiLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》871丨惩恶扬善，为何反被诬陷入狱？ [lujKihgVH-CAfKh9Bfak6_VTTPwT].md",
@@ -22546,6 +22772,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》871丨惩恶扬善，为何反被诬陷入狱？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》854丨历史告诉你：选官用官很重要！ [lhiN-IwK6y1XR8VvzdmnJch3s2uM].md",
+          "key": "zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》854丨历史告诉你：选官用官很重要！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um/"
         }
       ],
       "updated": "2026-08-28",

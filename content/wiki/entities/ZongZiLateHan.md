@@ -1,49 +1,44 @@
 ---
 title: "宗资 / Zong Zi (late Han)"
 type: entity
-tags: [person, late-han, local-government, runan, china]
+tags: [person, late-han, local-government, runan, military, china]
 sources:
   - zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt
+  - zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um
 last_updated: 2026-08-28
 knowledge_schema: synthesis-v1
 ---
-
 ## Overview
-
-Zong Zi is the Runan administrator in Hanji 871 whose reliance on [[FanPangLateHan|范滂]] makes Fan Pang's local moral-enforcement role visible before the Party Prohibition prison arc. His page records the administrator-aide relationship and the tension between eunuch-backed recommendation and delegated清裁.
+宗资 / Zong Zi is a late-Han official whose bounded record now has two distinct roles: a zhonglangjiang sent to suppress the Taishan bandit Shusun Wuji, and a later Runan administrator who lets Fan Pang run moral enforcement against powerful local and eunuch-backed interests. The current profile therefore joins direct military suppression with delegated local administration.
 
 ## Current Profile
+In the earlier crisis role, [[zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um|Hanji 854]] places Zong Zi after Shusun Wuji attacks Taishan and kills the commandery duwei Hou Zhang: the court sends him as zhonglangjiang and he defeats the bandit force. The episode then shifts to Huangfu Gui's appointment to Taishan, so Zong's role is military suppression rather than the longer pacification phase.
 
-Zong Zi's profile is ambivalent. On one side, he entrusts Runan administration to Fan Pang as功曹 and lets Fan Pang praise good officials, correct misconduct, and clean up the local office. On the other side, he receives [[TangHengLateHan|唐衡]]'s recommendation for Fan Pang's nephew Li Song and grows angry when Fan Pang refuses to appoint him.
-
-The Zhu Ling beating scene is the crucial boundary. Zong Zi's anger falls on a subordinate, but the subordinate insists he would rather be beaten than violate Fan Pang's standards. Zong Zi then stops, which leaves him as neither a simple villain nor a fully independent reformer: his administration depends on Fan Pang's moral authority even when that authority resists patronage pressure reaching him from above.
+[[zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt|Hanji 871]] presents a different but compatible administrative layer: as Runan administrator, Zong Zi relies on Fan Pang, gives him functional room, and allows a local cleanup campaign that reaches relatives of powerful figures. Together the notes frame Zong as an official whose importance lies less in speeches than in using the right instrument for the job.
 
 ## Key Characteristics
-
-- Runan administrator who delegates practical judgment to Fan Pang.
-- Local superior whose office-cleanup capacity depends on a strong功曹.
-- Recipient of Tang Heng's recommendation for Li Song.
-- Official whose anger tests whether patronage pressure can override Fan Pang's清裁.
-- Ambivalent authority figure constrained by the very moral reputation he uses.
+- Crisis suppressor in the Taishan bandit episode, acting under central dispatch as zhonglangjiang.
+- Delegating administrator in Runan, where he enables Fan Pang's enforcement instead of smothering it.
+- Personnel user whose value comes from matching means to the problem: military force for bandit violence, trusted delegation for local corruption.
+- Public-order figure whose evidence is thin but functionally significant in two different settings.
 
 ## Evidence
-
-- Delegation to Fan Pang: [[zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt|Hanji 871]] says Zong Zi appoints Fan Pang as功曹 and entrusts Runan affairs to him.
-- Cleanup role: [[zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt|Hanji 871]] says Fan Pang praises good conduct and corrects violations under this delegated authority.
-- Patronage pressure: [[zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt|Hanji 871]] says Tang Heng recommends Fan Pang's nephew Li Song to Zong Zi, but Fan Pang refuses to summon him into office.
-- Restraint after resistance: [[zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt|Hanji 871]] says Zong Zi stops after a subordinate declares that Fan Pang's standard cannot be violated.
+- Taishan military response: [[zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um|Hanji 854]] has Zong Zi sent against Shusun Wuji after Hou Zhang's death and credits him with defeating the bandit force.
+- Transition to pacification: [[zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um|Hanji 854]] then summons Huangfu Gui as Taishan administrator, distinguishing Zong's suppression role from later administrative repair.
+- Runan delegation: [[zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt|Hanji 871]] shows Zong Zi relying on Fan Pang to govern Runan's enforcement problem.
+- Political edge of delegation: [[zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt|Hanji 871]] ties Fan Pang's work to conflict with locally powerful families and eunuch-backed patronage, making Zong's permission consequential.
 
 ## Qualifications
-
-The source does not give Zong Zi's wider career or final political alignment. The page keeps Li Song and the beaten subordinate source-scoped rather than creating separate canonical pages for them.
+The two-source profile does not prove a continuous biography beyond the shared name and late-Han office contexts. The wiki keeps the identification in one route because the bounded evidence is compatible, but it remains open to disambiguation if a later source splits the military Zong Zi from the Runan administrator.
 
 ## What Changed
-
-- Created this bounded profile from Hanji 871's Runan commandery administration scene.
+- Added Hanji 854 as a new Taishan military-suppression layer.
+- Reframed Zong Zi from a one-scene Runan delegator into a broader personnel-use figure.
+- Added an explicit identity qualification because the source notes give roles rather than a full biography.
 
 ## Relationships
-
-- [[FanPangLateHan|范滂]] - entrusted功曹 whose standards define Zong Zi's Runan governance.
-- [[TangHengLateHan|唐衡]] - eunuch patron whose recommendation tests Zong Zi's office.
-- [[RunanCommanderyLateHan|汝南郡]] - commandery setting for Zong Zi's delegated administration.
-- [[QingyiReputationPressure|清议声誉压力]] - wider reputation environment that gives Fan Pang's standard public force.
+- [[ShusunWujiLateHan|叔孙无忌]] - bandit opponent defeated by Zong Zi in the Taishan crisis.
+- [[HuangfuGuiLateHan|皇甫规]] - official who follows Zong's suppression work with Taishan pacification.
+- [[FanPangLateHan|范滂]] - subordinate or trusted enforcement figure empowered by Zong in Runan.
+- [[RunanCommanderyLateHan|汝南郡]] - administrative setting for Zong's later delegation profile.
+- [[AppointmentQualityAsStateCapacity|任官适任性国家能力]] - concept that links Zong's suppression and delegation roles as problem-fit appointments.

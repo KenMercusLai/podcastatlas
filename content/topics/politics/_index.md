@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1966
+topic_total_pages: 1968
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3067,6 +3067,9 @@ topic_concepts:
   - key: "OfficeDutyExitConstraint"
     title: "任官责任退出受限 / Office Duty Exit Constraint"
     url: "/wiki/concepts/officedutyexitconstraint/"
+  - key: "AppointmentQualityAsStateCapacity"
+    title: "任官适任性国家能力 / Appointment Quality as State Capacity"
+    url: "/wiki/concepts/appointmentqualityasstatecapacity/"
   - key: "DefensiveLocalGovernance"
     title: "保境安民式守成治理 / Defensive Local Governance"
     url: "/wiki/concepts/defensivelocalgovernance/"
@@ -5153,6 +5156,9 @@ topic_entities:
   - key: "BaidengEncirclement"
     title: "白登之围 / Baideng Encirclement"
     url: "/wiki/entities/baidengencirclement/"
+  - key: "HuangfuGuiLateHan"
+    title: "皇甫规 / Huangfu Gui (late Han)"
+    url: "/wiki/entities/huangfuguilatehan/"
   - key: "SiliconValley101"
     title: "硅谷101"
     url: "/wiki/entities/siliconvalley101/"

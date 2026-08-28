@@ -4899,6 +4899,10 @@
     "title": "受任地方长官割据风险 / Appointed Governor Secession Risk",
     "url": "/wiki/concepts/appointedgovernorsecessionrisk/"
   },
+  "AppointmentQualityAsStateCapacity": {
+    "title": "任官适任性国家能力 / Appointment Quality as State Capacity",
+    "url": "/wiki/concepts/appointmentqualityasstatecapacity/"
+  },
   "ApprenticeBoysOfDerry": {
     "title": "Apprentice Boys of Derry",
     "url": "/wiki/entities/apprenticeboysofderry/"
@@ -20959,6 +20963,10 @@
     "title": "郭贵人 / Guo Guiren (Huan-era)",
     "url": "/wiki/entities/guoguirenhuanlatehan/"
   },
+  "GuoHongLateHan": {
+    "title": "郭闳 / Guo Hong (late Han)",
+    "url": "/wiki/entities/guohonglatehan/"
+  },
   "GuoJia": {
     "title": "郭嘉 / Guo Jia",
     "url": "/wiki/entities/guojia/"
@@ -22970,6 +22978,10 @@
   "HuGuangLateHan": {
     "title": "胡广 / Hu Guang (late Han)",
     "url": "/wiki/entities/huguanglatehan/"
+  },
+  "HuHongLateHan": {
+    "title": "胡闳 / Hu Hong (late Han)",
+    "url": "/wiki/entities/huhonglatehan/"
   },
   "HuLanLateHan": {
     "title": "胡兰 / Hu Lan (late Han)",
@@ -29354,6 +29366,10 @@
   "LiuJinbiao": {
     "title": "Liu Jinbiao / 刘金彪",
     "url": "/wiki/entities/liujinbiao/"
+  },
+  "LiuJuLateHan": {
+    "title": "刘矩 / Liu Ju (late Han)",
+    "url": "/wiki/entities/liujulatehan/"
   },
   "LiuKai": {
     "title": "Liu Kai",
@@ -43847,6 +43863,10 @@
     "title": "沈忠 / Shen Zhong (late Han)",
     "url": "/wiki/entities/shenzhonglatehan/"
   },
+  "ShendiQiang": {
+    "title": "沈氐羌 / Shendi Qiang",
+    "url": "/wiki/entities/shendiqiang/"
+  },
   "ShengYing": {
     "title": "盛颖 / Sheng Ying",
     "url": "/wiki/entities/shengying/"
@@ -44242,6 +44262,10 @@
   "ShusunTong": {
     "title": "叔孙通 / Shusun Tong",
     "url": "/wiki/entities/shusuntong/"
+  },
+  "ShusunWujiLateHan": {
+    "title": "叔孙无忌 / Shusun Wuji (late Han)",
+    "url": "/wiki/entities/shusunwujilatehan/"
   },
   "Shybird": {
     "title": "Shybird",
@@ -52975,6 +52999,10 @@
     "title": "西宋风云",
     "url": "/wiki/entities/xisongfengyun/"
   },
+  "XiaFangLateHan": {
+    "title": "夏方 / Xia Fang (late Han)",
+    "url": "/wiki/entities/xiafanglatehan/"
+  },
   "XiaFuLateHan": {
     "title": "夏馥 / Xia Fu (late Han)",
     "url": "/wiki/entities/xiafulatehan/"
@@ -60482,6 +60510,14 @@
   "zizhi-tongjian-hanji-852-dang-meinv-ruyun-shi-fu-haishi-huo-luml30ytbc-awpvk-7-23ehzbqpx": {
     "title": "《资治通鉴·汉纪》852丨当美女如云，是福还是 “祸”？",
     "url": "/wiki/sources/zizhi-tongjian-hanji-852-dang-meinv-ruyun-shi-fu-haishi-huo-luml30ytbc-awpvk-7-23ehzbqpx/"
+  },
+  "zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um": {
+    "title": "《资治通鉴·汉纪》854丨历史告诉你：选官用官很重要！",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um/"
+  },
+  "zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1": {
+    "title": "《资治通鉴·汉纪》855丨你有多无情，就有多强大",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1/"
   },
   "zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks": {
     "title": "《资治通鉴·汉纪》856丨历史告诉你：人若心乱，阵脚自乱",

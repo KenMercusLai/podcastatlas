@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 5808
+wiki_total_pages: 5809
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1922,6 +1922,9 @@ wiki_pages:
   - key: "AwarenessMeditationStoryDropping"
     title: "Awareness Meditation Story Dropping"
     url: "/wiki/concepts/awarenessmeditationstorydropping/"
+  - key: "AppointmentQualityAsStateCapacity"
+    title: "任官适任性国家能力 / Appointment Quality as State Capacity"
+    url: "/wiki/concepts/appointmentqualityasstatecapacity/"
   - key: "AppointedGovernorSecessionRisk"
     title: "受任地方长官割据风险 / Appointed Governor Secession Risk"
     url: "/wiki/concepts/appointedgovernorsecessionrisk/"

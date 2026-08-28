@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 8063
+wiki_total_pages: 8069
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1460,6 +1460,9 @@ wiki_pages:
   - key: "ShuangXuetao"
     title: "双雪涛 / Shuang Xuetao"
     url: "/wiki/entities/shuangxuetao/"
+  - key: "ShusunWujiLateHan"
+    title: "叔孙无忌 / Shusun Wuji (late Han)"
+    url: "/wiki/entities/shusunwujilatehan/"
   - key: "ShusunTong"
     title: "叔孙通 / Shusun Tong"
     url: "/wiki/entities/shusuntong/"
@@ -1736,6 +1739,9 @@ wiki_pages:
   - key: "ShenZhongLateHan"
     title: "沈忠 / Shen Zhong (late Han)"
     url: "/wiki/entities/shenzhonglatehan/"
+  - key: "ShendiQiang"
+    title: "沈氐羌 / Shendi Qiang"
+    url: "/wiki/entities/shendiqiang/"
   - key: "ShenZhenwen"
     title: "沈真文 / Shen Zhenwen"
     url: "/wiki/entities/shenzhenwen/"
