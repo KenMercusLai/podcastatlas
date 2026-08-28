@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 8125
+wiki_total_pages: 8127
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -236,6 +236,9 @@ wiki_pages:
   - key: "ZhishangCeshiBook"
     title: "《智商测试》"
     url: "/wiki/entities/zhishangceshibook/"
+  - key: "ZhenglunCuiShi"
+    title: "《正论》 / Zhenglun (Cui Shi)"
+    url: "/wiki/entities/zhengluncuishi/"
   - key: "ZhushuJinian"
     title: "《竹书纪年》 / Bamboo Annals"
     url: "/wiki/entities/zhushujinian/"

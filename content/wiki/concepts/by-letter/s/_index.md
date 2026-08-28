@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 5829
+wiki_total_pages: 5830
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1646,6 +1646,9 @@ wiki_pages:
   - key: "SongSuccessionLegitimacyCrisis"
     title: "宋初继承合法性危机 / Song Succession Legitimacy Crisis"
     url: "/wiki/concepts/songsuccessionlegitimacycrisis/"
+  - key: "SituationalStrictLenientGovernance"
+    title: "宽严相济的因时治理 / Situational Strict-Lenient Governance"
+    url: "/wiki/concepts/situationalstrictlenientgovernance/"
   - key: "SecretMemorialPoliticalIntelligence"
     title: "密折政治情报 / Secret Memorial Political Intelligence"
     url: "/wiki/concepts/secretmemorialpoliticalintelligence/"

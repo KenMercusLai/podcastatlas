@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》837丨为人处世，为何不能心慈手软？](sources/zizhi-tongjian-hanji-837-weiren-chushi-weihe-buneng-xinci-shouruan-luznyzqldwdrbkfm7ce-1huuxm7b.md) — 芮淇讲透资治通鉴 episode on 151 CE Cui Shi, Zhenglun, strict-lenient governance, value-exchange boundaries, and Sima Guang's qualification of harsh-policy advice.
 - [《资治通鉴·汉纪》838丨贪婪的诱惑，让他狂飙在作死的路上](sources/zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr.md) — 芮淇讲透资治通鉴 episode on 151 CE Liang Ji reward excess, Huang Qiong's partial restraint, and Wang Jing's failed Jumi-Khotan intervention in the Western Regions.
 - [《资治通鉴·汉纪》839丨你能做到问心无愧吗？](sources/zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua.md) — 芮淇讲透资治通鉴 episode on 153 CE Jizhou disaster response, Zhu Mu's enforcement against Zhao Zhong's father's burial privilege, Liu Tao and Taixue petitioning, Ying Feng's Wuling surrender, and Cheshi Aluoduo's restoration.
 - [《资治通鉴·汉纪》840丨眼光长远的人有多厉害？](sources/zizhi-tongjian-hanji-840-yanguang-changyuan-de-ren-you-duo-lihai-lvzfg8zbp0nugjg0iybgukz-cxgv.md) — 芮淇讲透资治通鉴 episode on 154-155 CE disasters, Liu Tao's ignored anti-eunuch remonstrance, Zhang Huan's 200-soldier frontier response, Eastern Qiang separation, and refusal of Qiang gifts.
@@ -1637,6 +1638,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [崔寔 / Cui Shi (late Han)](entities/CuiShiLateHan.md) — Late-Han writer whose Zhenglun argues for diagnosis-based strictness under disorder while Sima Guang qualifies that severity as a temporary corrective.
+- [《正论》 / Zhenglun (Cui Shi)](entities/ZhenglunCuiShi.md) — Cui Shi essay used in Hanji 837 to frame situational law, moral teaching, and strict-lenient governance under late-Han disorder.
 - [王敬 / Wang Jing (Western Regions, late Han)](entities/WangJingXiyuLateHan.md) — Han Western Regions official whose rumor-driven Khotan banquet killing triggers Shubo's retaliatory execution of him and a failed intervention chain.
 - [拘弥国 / Jumi Kingdom (late Han)](entities/JumiKingdomLateHan.md) — Western Regions kingdom used as the information corridor through which King Chengguo steers Han suspicion against Khotan.
 - [成国 / King Chengguo of Jumi](entities/JumiKingChengguoLateHan.md) — Jumi ruler whose allegations against Khotan King Jian help set up Wang Jing's failed intervention.
@@ -9766,6 +9769,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [宽严相济的因时治理 / Situational Strict-Lenient Governance](concepts/SituationalStrictLenientGovernance.md) — Governance concept from Hanji 837 in which strict punishment and lenient moral teaching are matched to disorder or peace rather than treated as permanent absolutes.
 - [Rumor-Driven Frontier Intervention / 谣言驱动的边疆干预](concepts/RumorDrivenFrontierIntervention.md) — Frontier-governance failure pattern where accusations passed through an interested intermediary trigger coercive intervention before evidence is secure.
 - [Unbounded Elite Reward Demand / 受宠权臣的无餍封赏](concepts/UnboundedEliteRewardDemand.md) — Reward-failure pattern where a favored powerholder treats extraordinary grants as insufficient because privilege has become an entitlement baseline.
 - [尽责问心无愧 / Conscience Through Duty](concepts/ConscienceThroughDuty.md) — Source-scoped ethic that judges life and office by honest self-knowledge, effort, and fulfilled responsibility under constraints.

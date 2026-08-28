@@ -7,6 +7,7 @@ sources:
   - zizhi-tongjian-hanji-883-laoban-yao-fansi-ruhe-bimian-gaoguan-neihong-lph-fycnqas6hztjq1jbsisvylid
   - zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1
   - zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0
+  - zizhi-tongjian-hanji-837-weiren-chushi-weihe-buneng-xinci-shouruan-luznyzqldwdrbkfm7ce-1huuxm7b
 last_updated: 2026-08-28
 knowledge_schema: synthesis-v1
 ---
@@ -25,15 +26,17 @@ A more concise boundary-strength formulation appears in [[zizhi-tongjian-hanji-8
 
 A short formulation from [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|Hanji 848]] reinforces the concept without introducing a new historical mechanism. After narrating [[LiangJiLateHan|梁冀]]'s fall, the host says kindness should have principles, discernment, and a bottom line because greedy people push further and malicious people exploit indiscriminate goodwill. This tightens the concept's core judgment: kindness remains valuable, but it needs a threshold for saying no and a way to identify who is actually worth helping.
 
+Hanji 837 contributes an earlier and more explicitly action-oriented version. The source says strictness toward oneself and principled standards toward others can be fair rather than selfish, and it shifts attention from guessing motives to clarifying what one wants, what pain point one can solve, and what value exchange is available. This extends the concept by making boundary strength partly a decision standard: softness becomes dangerous when it replaces clear goals, timely action, and proportional response.
+
 ## Key Claims
 
 - Kindness needs boundaries to remain a virtue rather than a mechanism of extraction.
 - A social relation without reciprocal value or protection is unstable and politically naive.
+- Boundary strength includes knowing one's goals, exchange value, and action threshold instead of staying in motive analysis or hesitation.
 - Personal self-protection is treated as the micro-level analogue of institutional feedback and accountability.
 - Boundaries are not the same as blanket hardness; strength still needs measure and regard for consequences.
 - Boundaries include refusing to carry others' emotions or join others' compulsions indiscriminately.
 - The concept warns against both unprotected softness and overcorrected aggression or performative ruthlessness.
-- Discernment matters because goodwill toward greedy or malicious actors can become permission for further extraction.
 
 ## Evidence
 
@@ -45,16 +48,19 @@ A short formulation from [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shu
 - Outward mildness with inward firmness: [[zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1|Hanji 855]] frames strength as being warm externally and settled internally, with looseness on small matters and decisiveness on major principles.
 - Principles and bottom line: [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|Hanji 848]] says kindness should have principles and bottom lines so greedy people cannot advance step by step.
 - Discernment against exploitation: [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|Hanji 848]] says kindness without discrimination gives malicious actors an opening, so goodwill should be directed toward people who deserve it.
+- Goal and exchange clarity: [[zizhi-tongjian-hanji-837-weiren-chushi-weihe-buneng-xinci-shouruan-luznyzqldwdrbkfm7ce-1huuxm7b|Hanji 837]] says strict self-standards and principled standards toward others need clarity about desired outcome, pain point, and value exchange.
+- Timely action threshold: [[zizhi-tongjian-hanji-837-weiren-chushi-weihe-buneng-xinci-shouruan-luznyzqldwdrbkfm7ce-1huuxm7b|Hanji 837]] treats excessive softness and hesitation as failures to act when a clear standard or decision is required.
 
 ## Counterevidence & Qualifications
 
-The concept is not a rejection of kindness. Its evidence comes from podcast interpretation and self-governance framing, not from clinical psychology. It should also not be used to excuse domination: Hanji 883 explicitly pairs strength with compassion and proportion, Hanji 855 distinguishes boundary strength from being cruel or ruthless, and Hanji 848 keeps the closing lesson at the level of discernment and bottom line rather than blanket suspicion. The opening lesson in Hanji 855 remains source-scoped and should not be treated as a general diagnosis of relationships outside the episode's framing.
+The concept is not a rejection of kindness. Its evidence comes from podcast interpretation and self-governance framing, not from clinical psychology. It should also not be used to excuse domination: Hanji 883 explicitly pairs strength with compassion and proportion, Hanji 855 distinguishes boundary strength from being cruel or ruthless, Hanji 848 keeps the closing lesson at the level of discernment and bottom line rather than blanket suspicion, and Hanji 837's historical half ends with [[SituationalStrictLenientGovernance|strict-lenient balance]] rather than permanent harshness. The opening lessons in Hanji 855 and Hanji 837 remain source-scoped and should not be treated as general diagnoses of relationships outside the episodes' framing.
 
 ## What Changed
 
+- Hanji 837 contributes strict self-standards, value-exchange clarity, and anti-hesitation as an earlier boundary-strength formulation.
+- Hanji 837 narrows the "not soft-hearted" lesson by tying it to strict-lenient balance rather than permanent harshness.
 - Hanji 848 adds a concise principle-bottom-line formulation and makes discernment against greedy or malicious exploitation explicit.
 - Added Hanji 855's outward-mild/inward-firm boundary-strength frame.
-- Clarified that refusing emotional burdens and others' compulsions is source-scoped self-protection, not blanket hardness.
 - Rebalanced the current synthesis so boundary strength rejects both unprotected softness and performative ruthlessness.
 
 ## Related Concepts
@@ -64,5 +70,6 @@ The concept is not a rejection of kindness. Its evidence comes from podcast inte
 - [[WorkSelfWorthBoundary]] - adjacent boundary problem in labor and self-valuation.
 - [[PsychologicalBoundaryProtection]] - adjacent self-protection frame for not absorbing others' emotional pressure.
 - [[PoliticalSurvivalFirst|安全第一政治生存]] - related realism frame that prioritizes survival before idealized moral performance.
+- [[SituationalStrictLenientGovernance|宽严相济的因时治理]] - governance-level analogue where softness and strictness are judged by circumstance and proportion.
 - [[RootCausePacification|查因安抚式治理]] - governance-level analogue where coercive capacity needs diagnostic repair rather than force alone.
 - [[OuterRelativeCourtPower|外戚专权与清算]] - historical setting whose closing moral gives the concept its latest concise formulation.

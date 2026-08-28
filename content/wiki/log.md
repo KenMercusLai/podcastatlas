@@ -12693,6 +12693,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-28] ingest | 《资治通鉴·汉纪》837丨为人处世，为何不能心慈手软？
+
+Ingested Hanji 837 as the 151 CE Cui Shi Zhenglun and strict-lenient governance layer before Hanji 838. Created the source note, Cui Shi, Zhenglun (Cui Shi), and Situational Strict-Lenient Governance pages; updated Boundaryless Kindness Trap, index, and overview. No settled contradiction found; 崔石 was normalized to 崔寔, Rencheng Liu Chong remains source-scoped, and the Huang Qiong-Liang Ji notice is treated as the Hanji 838 preview.
+
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》839丨你能做到问心无愧吗？
 
 Ingested Hanji 839 as the 153 CE Huan-era backfill. Created the source note plus Aluoduo, Later Cheshi Kingdom, Yan Xiang (Cheshi), Wuling Man, Conscience Through Duty, Taixue Collective Petition, and Funerary Privilege Abuse pages; updated Zhu Mu, Liu Tao, Ying Feng, Jizhou, Taixue, Recognition-Backed Frontier Diplomacy, and index. No settled contradiction found; 济州 is normalized to 冀州, 朱牧 to 朱穆, 刘桃 to 刘陶 / 刘桃, and 阎祥 is disambiguated from the existing 阎象 page.
@@ -13044,6 +13048,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》840丨眼光长远的人有多厉害？
 
 Ingested Hanji 840 as the 154-155 CE Huan-era backfill. Created the source note; updated Zhang Huan, Liu Tao, Eastern Qiang, Gift Refusal As Authority, Coalition Fracture Exploitation, index, and overview. No settled contradiction found; 张焕/张宦 is normalized to 张奂 and 刘桃 to the existing 刘陶 / 刘桃 route.
+
+## [2026-08-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-28] lint | Wiki health check
 

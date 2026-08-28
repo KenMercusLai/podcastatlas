@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-28
-as_of_overview_commit: 504832ac57e043c6d39b6846c7b5ea6804fea35d
-summary: "Across domains, durable value depends on grounded systems: workflow fit, demand proof, governance capacity, historical constraints, human judgment, evidence, and implementation."
-episode_count: 1629
-source_count: 1629
-paragraph_count: 331
+as_of_overview_commit: a6abea5da3bfdc38e32a54e087a8c9d17480f0ca
+summary: "Across domains, durable value depends on grounded systems: workflow fit, demand proof, diagnostic governance, historical constraints, human judgment, evidence, and implementation."
+episode_count: 1630
+source_count: 1630
+paragraph_count: 332
 topic_count: 8
 ---
 
@@ -49,7 +49,7 @@ Culture and media sources use fiction, games, sports, brands, device histories, 
 
 ### Governance and Institutions
 
-Governance depends on enforceable controls, symbols, appointments, standards, legitimacy, exits, and evidence flows; Hanji 838 adds that overreward and rumor-filtered intervention can fail before formal correction or purge.
+Governance depends on enforceable controls, symbols, appointments, standards, legitimacy, exits, evidence flows, and diagnostic fit; Hanji 837-838 add that strictness, overreward, and rumor-filtered intervention must be judged by condition and enforcement reality.
 
 - The California data-broker branch shows that privacy rights depend on compliance workflows: [[CaliforniaDeleteAct]], [[DeleteRequestAndOptOutPlatform]], [[ConsumerDataDeletion]], [[DataBrokerComplianceGap]], and [[CaliforniaPrivacyProtectionAgency]] connect centralized deletion, broker registration, reporting duties, request friction, agency capacity, and private-lawsuit proposals into one implementation problem. Evidence: [[CaliforniaDeleteAct]], [[DeleteRequestAndOptOutPlatform]], [[ConsumerDataDeletion]], [[DataBrokerComplianceGap]], [[CaliforniaPrivacyProtectionAgency]], [[tech-20260825-mp-tech-pod-128-tech-20260825-mp-tech-pod-128]].
 - The early-Han sequence shows victory turning into governance only through family order, capital choice, exit management, reward ranking, ritual hierarchy, frontier containment, [[HanXiongnuHeqinPolicy|heqin]] diplomacy, vassal rollback, investigation-triggered rebellion risk, and finally the failure of personal trust in [[LuWan|Lu Wan]]'s Yan kingship. Evidence: [[LiuBang]], [[StrategicCapitalRelocation]], [[LiAsPoliticalOrder]], [[BaidengEncirclement]], [[HanXiongnuHeqinPolicy]], [[DifferentSurnameKingSuspicion]], [[HuainanKingdomEarlyHan]], [[InvestigationDrivenRebellionEscalation]], [[LuWan]], [[YanState]].

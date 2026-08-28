@@ -2605,9 +2605,9 @@
       "url": "/wiki/entities/bostondynamics/"
     },
     "BoundarylessKindnessTrap": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》919丨想活得好？先踢开善良的自己 [lrqxfZIR4BQXt0v3cCvfEf8FaaDE].md",
@@ -2636,6 +2636,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》848丨瞬间垮台！我为何说他死有余辜？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》837丨为人处世，为何不能心慈手软？ [luZNyZqldWdRbKFM7CE_1huuxm7B].md",
+          "key": "zizhi-tongjian-hanji-837-weiren-chushi-weihe-buneng-xinci-shouruan-luznyzqldwdrbkfm7ce-1huuxm7b",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》837丨为人处世，为何不能心慈手软？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-837-weiren-chushi-weihe-buneng-xinci-shouruan-luznyzqldwdrbkfm7ce-1huuxm7b/"
         }
       ],
       "updated": "2026-08-28",
@@ -4911,6 +4918,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/cuiqilatehan/"
+    },
+    "CuiShiLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》837丨为人处世，为何不能心慈手软？ [luZNyZqldWdRbKFM7CE_1huuxm7B].md",
+          "key": "zizhi-tongjian-hanji-837-weiren-chushi-weihe-buneng-xinci-shouruan-luznyzqldwdrbkfm7ce-1huuxm7b",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》837丨为人处世，为何不能心慈手软？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-837-weiren-chushi-weihe-buneng-xinci-shouruan-luznyzqldwdrbkfm7ce-1huuxm7b/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/cuishilatehan/"
     },
     "CuiYanLateHan": {
       "episode_count": 1,
@@ -19420,6 +19443,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/situationalcharactertests/"
     },
+    "SituationalStrictLenientGovernance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》837丨为人处世，为何不能心慈手软？ [luZNyZqldWdRbKFM7CE_1huuxm7B].md",
+          "key": "zizhi-tongjian-hanji-837-weiren-chushi-weihe-buneng-xinci-shouruan-luznyzqldwdrbkfm7ce-1huuxm7b",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》837丨为人处世，为何不能心慈手软？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-837-weiren-chushi-weihe-buneng-xinci-shouruan-luznyzqldwdrbkfm7ce-1huuxm7b/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/situationalstrictlenientgovernance/"
+    },
     "SleepAsDailyHealthAccount": {
       "episode_count": 6,
       "show_count": 6,
@@ -25239,6 +25278,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/zhengsalatehan/"
+    },
+    "ZhenglunCuiShi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》837丨为人处世，为何不能心慈手软？ [luZNyZqldWdRbKFM7CE_1huuxm7B].md",
+          "key": "zizhi-tongjian-hanji-837-weiren-chushi-weihe-buneng-xinci-shouruan-luznyzqldwdrbkfm7ce-1huuxm7b",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》837丨为人处世，为何不能心慈手软？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-837-weiren-chushi-weihe-buneng-xinci-shouruan-luznyzqldwdrbkfm7ce-1huuxm7b/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/zhengluncuishi/"
     },
     "ZhongHaoLateHan": {
       "episode_count": 1,

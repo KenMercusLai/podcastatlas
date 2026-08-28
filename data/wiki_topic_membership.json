@@ -52115,6 +52115,13 @@
       "url": "/topics/history/"
     }
   ],
+  "SituationalStrictLenientGovernance": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "SixStateRestorationAntiQinStrategy": [
     {
       "key": "politics",
@@ -65088,6 +65095,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "ZhenglunCuiShi": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "ZhenglunYuShuofu": [
     {
       "key": "culture",
@@ -71288,6 +71302,13 @@
     }
   ],
   "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "zizhi-tongjian-hanji-837-weiren-chushi-weihe-buneng-xinci-shouruan-luznyzqldwdrbkfm7ce-1huuxm7b": [
     {
       "key": "politics",
       "label": "Politics",

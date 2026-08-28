@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1983
+topic_total_pages: 1986
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3136,6 +3136,9 @@ topic_concepts:
   - key: "CourtBackchannelSurvival"
     title: "宫廷后门自救 / Court Backchannel Survival"
     url: "/wiki/concepts/courtbackchannelsurvival/"
+  - key: "SituationalStrictLenientGovernance"
+    title: "宽严相济的因时治理 / Situational Strict-Lenient Governance"
+    url: "/wiki/concepts/situationalstrictlenientgovernance/"
   - key: "SecretMemorialPoliticalIntelligence"
     title: "密折政治情报 / Secret Memorial Political Intelligence"
     url: "/wiki/concepts/secretmemorialpoliticalintelligence/"
@@ -5027,6 +5030,9 @@ topic_entities:
   - key: "ImpeachmentBook"
     title: "《弹劾》 / Impeachment: A Citizen's Guide"
     url: "/wiki/entities/impeachmentbook/"
+  - key: "ZhenglunCuiShi"
+    title: "《正论》 / Zhenglun (Cui Shi)"
+    url: "/wiki/entities/zhengluncuishi/"
   - key: "MotherRight"
     title: "《母权论》 / Mother Right"
     url: "/wiki/entities/motherright/"
@@ -5889,6 +5895,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh"
     title: "《资治通鉴·汉纪》185｜一张利嘴，收复中国万里疆土"
     url: "/wiki/sources/zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh/"
+  - key: "zizhi-tongjian-hanji-837-weiren-chushi-weihe-buneng-xinci-shouruan-luznyzqldwdrbkfm7ce-1huuxm7b"
+    title: "《资治通鉴·汉纪》837丨为人处世，为何不能心慈手软？"
+    url: "/wiki/sources/zizhi-tongjian-hanji-837-weiren-chushi-weihe-buneng-xinci-shouruan-luznyzqldwdrbkfm7ce-1huuxm7b/"
   - key: "zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua"
     title: "《资治通鉴·汉纪》839丨你能做到问心无愧吗？"
     url: "/wiki/sources/zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua/"

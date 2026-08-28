@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "f52125eea27ebc3fff165a4536d009297d2066b965df8af495fc6a939880ccb2",
       "73af98baffbfe5bedbe45e3725bfb07d63f6d1c18bcc1540c47e213110e77e5d",
       "98660419dd5889b2f6eef0e116644c7d1150f8de9520769228ec15dd4ecd1a72",
       "efb1e9eb4c37ecbb685b6eaa9f184c5ba5a6728d7347651a2bb366a1a65d5b54",
@@ -333,11 +334,35 @@
       "ffc63951f0c9ebb1bdb0d92982d5f65f57bbe4a7f7a359f38dcd33423bb288c2",
       "41cadfb91ef6894bc7d9cd5c4e55012480b0225b71a6a027d18e9565e8357c0c"
     ],
-    "paragraph_count": 331
+    "paragraph_count": 332
   },
-  "overview_commit": "504832ac57e043c6d39b6846c7b5ea6804fea35d",
-  "overview_digest": "0665e121b259eae22895e5d7e313018abd2b271935224336a2c6d425c5d133df",
+  "overview_commit": "a6abea5da3bfdc38e32a54e087a8c9d17480f0ca",
+  "overview_digest": "c7755925ab0944f62979e0be82fa021d75507492819fb8ead051b7ef59f56e49",
   "paragraphs": [
+    {
+      "id": "f52125eea27ebc3fff165a4536d009297d2066b965df8af495fc6a939880ccb2",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-837-weiren-chushi-weihe-buneng-xinci-shouruan-luznyzqldwdrbkfm7ce-1huuxm7b|《资治通鉴·汉纪》837丨为人处世，为何不能心慈手软？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 151 CE Huan-era political-thought layer immediately before [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|Hanji 838]]. It adds [[CuiShiLateHan|崔寔]], [[ZhenglunCuiShi|《正论》]], and [[SituationalStrictLenientGovernance|宽严相济的因时治理]], while extending [[BoundarylessKindnessTrap|无边界善良陷阱]], [[EmperorHuanOfHan|汉桓帝]], [[LuoyangLateHan|洛阳]], [[SimaGuang|司马光]], and [[HuangQiongLateHan|黄琼]]. Its core synthesis is that \"not being soft-hearted\" is bounded by circumstance rather than promoted as permanent harshness: Cui Shi's Zhenglun treats strict law as medicine for disorder and moral teaching as nourishment for peace, while Sima Guang narrows the argument to a corrective for weak decline-era enforcement against powerful actors. No settled contradiction is recorded; 崔石 is normalized to 崔寔, the Rencheng Liu Chong death notice remains source-scoped to avoid collision with existing Liu Chong routes, and the Liang Ji/Huang Qiong notice is treated as preview for Hanji 838.",
+      "topic_scores": {
+        "governance-and-institutions": 3,
+        "history-and-geopolitics": 1,
+        "science-health-and-climate": 1
+      },
+      "wikilinks": [
+        "BoundarylessKindnessTrap",
+        "CuiShiLateHan",
+        "EmperorHuanOfHan",
+        "HuangQiongLateHan",
+        "LuoyangLateHan",
+        "RuiqiJiangtouZizhiTongjian",
+        "SimaGuang",
+        "SituationalStrictLenientGovernance",
+        "ZhenglunCuiShi",
+        "zizhi-tongjian-hanji-837-weiren-chushi-weihe-buneng-xinci-shouruan-luznyzqldwdrbkfm7ce-1huuxm7b",
+        "zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr"
+      ]
+    },
     {
       "id": "73af98baffbfe5bedbe45e3725bfb07d63f6d1c18bcc1540c47e213110e77e5d",
       "primary_topic": "governance-and-institutions",
