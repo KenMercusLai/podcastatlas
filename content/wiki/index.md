@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding](sources/all-in-with-chamath-jason-sacks-friedberg-former-intel-ceo-on-what-went-wrong-whats-next-lovable-ceo-on-the-real-promise-of-vibe-coding-42106400.md) - All-In episode with Pat Gelsinger and Anton Osika on Intel's missed manufacturing/platform turns, Lovable's production vibe-coding platform, AI energy constraints, and speculative orbital compute.
 - [Bots on the ground: China leads humanoid race](sources/bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf.md) — The Intelligence episode on China's humanoid robot data race, Meta's teen-safety settlement, and Shakespeare and Company as a bookshop-mythology case.
 - [Meta's landmark social media settlement](sources/tech-20260828-0828-mp-tech-pod-128-tech-20260828-0828-mp-tech-pod-128.md) — Marketplace Tech episode with Anita Ramaswamy on Meta's proposed teen-safety settlement, Nvidia earnings and customer-financing concerns, custom AI chips, and EPA data-center air-permit participation.
 - [《资治通鉴·汉纪》832丨为领导背锅，他是傻还是智？](sources/zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq.md) — 芮淇讲透资治通鉴 episode on Chen Shi's blame-absorbing appointment responsibility, Taiqiu open petition governance, Zhong Hao's self-protection counsel to Zhong Jin, and Liang Na's return of power and death before the Liang-family transition.
@@ -1647,6 +1648,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Pat Gelsinger](entities/PatGelsinger.md) - Former Intel CEO used by All-In to diagnose Intel's technical-leadership, capital-allocation, foundry, and AI-infrastructure lessons.
+- [Anton Osika](entities/AntonOsika.md) - Lovable CEO/founder discussed through production vibe coding, model routing, security, hosting, and AI-assisted business building.
 - [Beijing](entities/Beijing.md) — City context for the World Humanoid Robot Games and China's public humanoid robotics spectacle.
 - [Paris](entities/Paris.md) — City context for Shakespeare and Company's Left Bank location and hard-to-copy literary tourism formula.
 - [Alice Fullwood](entities/AliceFullwood.md) — The Intelligence speaker explaining Meta's teen social-media settlement, product remedies, and follow-on platform litigation incentives.
@@ -9810,6 +9813,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Technical Leadership For Technology Companies](concepts/TechnicalLeadershipForTechnologyCompanies.md) - Claim that deep technical judgment must shape long-horizon platform, manufacturing, and ecosystem bets in technology companies.
+- [Production Vibe Coding](concepts/ProductionVibeCoding.md) - Crossing point where AI-assisted coding moves from demos into hosted, secure, integrated products and business workflows.
 - [Robot Training Centers](concepts/RobotTrainingCenters.md) — Staged physical facilities that organize robots, humans, sensors, and repeatable tasks into real-world robot-data infrastructure.
 - [Egocentric Robot Data](concepts/EgocentricRobotData.md) — Human first-person sensor data collected through wearables to broaden robot training beyond costly real-machine operation.
 - [Data Center Air Permit Participation](concepts/DataCenterAirPermitParticipation.md) — Procedural frame for whether data-center air-pollution permits include public notice and comment even when emissions standards stay unchanged.

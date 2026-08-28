@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1989
+topic_total_pages: 1988
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3587,9 +3587,6 @@ topic_entities:
   - key: "China"
     title: "China"
     url: "/wiki/entities/china/"
-  - key: "CHIPSAct"
-    title: "CHIPS Act"
-    url: "/wiki/entities/chipsact/"
   - key: "ChrisBuskirk"
     title: "Chris Buskirk"
     url: "/wiki/entities/chrisbuskirk/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 5846
+wiki_total_pages: 5848
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -185,6 +185,9 @@ wiki_pages:
   - key: "TechnicalDemoRetentionGap"
     title: "Technical Demo Retention Gap"
     url: "/wiki/concepts/technicaldemoretentiongap/"
+  - key: "TechnicalLeadershipForTechnologyCompanies"
+    title: "Technical Leadership For Technology Companies"
+    url: "/wiki/concepts/technicalleadershipfortechnologycompanies/"
   - key: "TechnicalResistanceFromWithin"
     title: "Technical Resistance From Within / 体制内技术抵抗"
     url: "/wiki/concepts/technicalresistancefromwithin/"

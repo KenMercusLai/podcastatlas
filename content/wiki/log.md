@@ -13136,3 +13136,11 @@ Ingested The Intelligence episode on China's humanoid robotics data race, Meta's
 ## [2026-08-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-29] ingest | Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding
+
+Ingested the All-In episode on Pat Gelsinger's Intel postmortem, Anton Osika's Lovable production vibe-coding claims, AI energy and token-economics constraints, CHIPS Act resilience, and speculative orbital compute. Created the source note, Pat Gelsinger, Anton Osika, Technical Leadership For Technology Companies, and Production Vibe Coding pages; updated Intel, Lovable, CHIPS Act, Vibe Coding, Data Center Power Bottleneck, index, and overview. No settled contradiction found; retrospective Intel figures, Lovable usage/revenue/savings claims, CHIPS Act production-share claims, Taiwan energy-reserve timing, and orbital-compute feasibility remain source-scoped.
+
+## [2026-08-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

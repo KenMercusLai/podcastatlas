@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 1871
+topic_total_pages: 1873
 topic_concepts:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -2909,6 +2909,9 @@ topic_entities:
   - key: "AntoineHersen"
     title: "Antoine Hersen"
     url: "/wiki/entities/antoinehersen/"
+  - key: "AntonOsika"
+    title: "Anton Osika"
+    url: "/wiki/entities/antonosika/"
   - key: "Antwerp"
     title: "Antwerp"
     url: "/wiki/entities/antwerp/"
@@ -3815,6 +3818,9 @@ topic_entities:
   - key: "Looped"
     title: "Looped"
     url: "/wiki/entities/looped/"
+  - key: "Lovable"
+    title: "Lovable"
+    url: "/wiki/entities/lovable/"
   - key: "MagicJack"
     title: "Magic / 杰克"
     url: "/wiki/entities/magicjack/"

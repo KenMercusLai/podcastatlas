@@ -7157,6 +7157,18 @@
       "url": "/topics/politics/"
     }
   ],
+  "AntonOsika": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "AntonioDamasio": [
     {
       "key": "science",
@@ -10999,11 +11011,6 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
-    },
-    {
-      "key": "politics",
-      "label": "Politics",
-      "url": "/topics/politics/"
     }
   ],
   "CITICPress": [
@@ -35441,6 +35448,18 @@
       "url": "/topics/science/"
     }
   ],
+  "Lovable": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "LovePoetryModernity": [
     {
       "key": "culture",
@@ -43023,6 +43042,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "PatGelsinger": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "Patagonia": [
     {
       "key": "politics",
@@ -45750,6 +45776,13 @@
     }
   ],
   "ProductionRobotScenarioSelection": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "ProductionVibeCoding": [
     {
       "key": "technology",
       "label": "Technology",
@@ -56402,6 +56435,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "TechnicalLeadershipForTechnologyCompanies": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "TechnicalResistanceFromWithin": [
     {
       "key": "technology",
@@ -60052,6 +60092,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "VibeCoding": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "VibeLawyering": [
@@ -66127,6 +66174,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "all-in-with-chamath-jason-sacks-friedberg-former-intel-ceo-on-what-went-wrong-whats-next-lovable-ceo-on-the-real-promise-of-vibe-coding-42106400": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555": [

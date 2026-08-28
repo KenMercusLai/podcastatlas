@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5846
+wiki_total_pages: 5848
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1202,6 +1202,9 @@ wiki_pages:
   - key: "ProductionRobotScenarioSelection"
     title: "Production Robot Scenario Selection"
     url: "/wiki/concepts/productionrobotscenarioselection/"
+  - key: "ProductionVibeCoding"
+    title: "Production Vibe Coding"
+    url: "/wiki/concepts/productionvibecoding/"
   - key: "ProductiveBubbleSpillovers"
     title: "Productive Bubble Spillovers"
     url: "/wiki/concepts/productivebubblespillovers/"

@@ -338,12 +338,13 @@
       "ffc63951f0c9ebb1bdb0d92982d5f65f57bbe4a7f7a359f38dcd33423bb288c2",
       "41cadfb91ef6894bc7d9cd5c4e55012480b0225b71a6a027d18e9565e8357c0c",
       "d589a53c87e197a55033f79a64a0ec3a258b8cbc050ee0e70dcc6388df48a243",
-      "d1f646e5bf1b4d8ffacc0ab20b061981669bb0224547423965eb90e6e064e966"
+      "d1f646e5bf1b4d8ffacc0ab20b061981669bb0224547423965eb90e6e064e966",
+      "b7fe88c4a3ea92e3484da7ba393768450cea0ebc036e6acdec39ec881741cf34"
     ],
-    "paragraph_count": 338
+    "paragraph_count": 339
   },
-  "overview_commit": "32f89b5c930887200778f5d454a58d330fa6e893",
-  "overview_digest": "1158732e820030939ef990079ac1e52a8c6f9feee974e074fc81c04e49b08d16",
+  "overview_commit": "bf653f3b15a286d8519dc2e4b38228bc66a6ca86",
+  "overview_digest": "3cefd1dc1148e08715e9afeb11291178546df3902569e8387f76dd3d8b639c72",
   "paragraphs": [
     {
       "id": "173cffd82684364e6afbfd09781ea6e0ff2f8dcebc676e8b4728d1bd8798d8d1",
@@ -10490,6 +10491,33 @@
         "TheIntelligence",
         "TiangongUltra",
         "bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf"
+      ]
+    },
+    {
+      "id": "b7fe88c4a3ea92e3484da7ba393768450cea0ebc036e6acdec39ec881741cf34",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "business-and-markets",
+        "governance-and-institutions"
+      ],
+      "text": "The All-In interview with [[PatGelsinger]] and [[AntonOsika]] adds a paired infrastructure and application-layer update to the AI buildout. [[Intel]] becomes a case study in how weak [[TechnicalLeadershipForTechnologyCompanies|technical leadership]], factory underinvestment, missed EUV timing, GPU/CUDA skepticism, and late foundry adaptation can compound over semiconductor cycles, while [[CHIPSAct|CHIPS Act]] policy is judged by domestic leading-edge capacity and Taiwan continuity risk. The same episode pushes [[VibeCoding|vibe coding]] toward [[ProductionVibeCoding|production vibe coding]] through [[Lovable]]'s claims about hosted apps, payments, security scanning, model routing, and business workflows, but it preserves the recurring qualification that human product judgment, data choice, verification, and customer pull remain the bottleneck. Its AI infrastructure section also strengthens [[DataCenterPowerBottleneck|data-center power bottleneck]]: energy availability can cap overbuild, grid reliability is now a national competitiveness issue, and orbital compute remains speculative because cooling, radiation, bit flips, chip hardening, and energy beaming are unresolved.",
+      "topic_scores": {
+        "ai-and-technology": 4,
+        "business-and-markets": 4,
+        "governance-and-institutions": 2,
+        "psychology-and-personal-development": 1,
+        "science-health-and-climate": 1
+      },
+      "wikilinks": [
+        "AntonOsika",
+        "CHIPSAct",
+        "DataCenterPowerBottleneck",
+        "Intel",
+        "Lovable",
+        "PatGelsinger",
+        "ProductionVibeCoding",
+        "TechnicalLeadershipForTechnologyCompanies",
+        "VibeCoding"
       ]
     }
   ],

@@ -1,105 +1,72 @@
 ---
 title: "Vibe Coding"
 type: concept
-tags: [ai-coding, software-engineering, learning]
-sources: [vol-171-jiaru-women-you-wuxian-token-1-6682-1, moxing-nengli-yijing-goule-yao-juan-jiu-juan-infra-duitan-daiguanlan-runta-chuangshiren-lmjsnpp7d75yhqh7bovj1bv6yhbk, tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128, e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb, vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, ba-7-wei-heikesong-xuanshou-qing-jin-boke-guanjun-guai-cai-he-48-xiaoshi-bumian-de-yexinjia-lhozhsuqbw8csa5tj5tqc7saqrex, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final]
-last_updated: 2026-08-16
+tags: [ai, coding, software, product-development]
+knowledge_schema: synthesis-v1
+sources:
+  - vol-171-jiaru-women-you-wuxian-token-1-6682-1
+  - moxing-nengli-yijing-goule-yao-juan-jiu-juan-infra-duitan-daiguanlan-runta-chuangshiren-lmjsnpp7d75yhqh7bovj1bv6yhbk
+  - tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128
+  - e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb
+  - vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1
+  - ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan
+  - ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1
+  - ba-7-wei-heikesong-xuanshou-qing-jin-boke-guanjun-guai-cai-he-48-xiaoshi-bumian-de-yexinjia-lhozhsuqbw8csa5tj5tqc7saqrex
+  - vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1
+  - vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1
+  - vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1
+  - vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1
+  - biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1
+  - zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1
+  - 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm
+  - vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1
+  - opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1
+  - dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian
+  - tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final
+  - all-in-with-chamath-jason-sacks-friedberg-former-intel-ceo-on-what-went-wrong-whats-next-lovable-ceo-on-the-real-promise-of-vibe-coding-42106400
+last_updated: 2026-08-29
 ---
 
 # Vibe Coding
 
-Vibe coding is the AI-assisted practice of using coding tools such as [[Cursor]], [[ClaudeCode]], and [[GeminiCLI]] to turn intent, project context, and iterative feedback into working software. In [[ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan]], the hosts argue that its strongest value is not guaranteed speed but capability expansion: it lets non-programmers, cross-stack developers, and small teams attempt projects they previously could not approach.
+## Definition
+Vibe coding is AI-assisted software creation in which people express intent, context, examples, corrections, and acceptance criteria in natural language while model-backed tools or agents generate, modify, test, and explain code.
 
-[[tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128]] adds a visible acquisition case through [[MoteBook]]. The episode says MoteBook was entirely vibe coded before [[Meta]] acquired it, but [[JewelBurkeSolomon]] cautions that the result should not be read as a generic shortcut because the creators had deep background and knowledge in the space.
-
-[[tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final]] adds [[PaulGraham]]'s YC offsite view. Graham says vibe coding appears to be real rather than a fad because a backend-infrastructure startup had data showing that vibe-coded apps were making meaningful money. The same source adds the [[Replit]] and [[AmjadMasad]] framing: English instructions can become the source-level artifact, while generated code is closer to compiler output that should be tested and accepted rather than admired line by line.
-
-[[vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1]] adds a one-year-later practitioner snapshot. The hosts say the workflow moved from supervised [[Cursor]] interaction toward [[ClaudeCode]]-style command-line agents, YOLO execution, multiple windows, long task loops, and worktree/branch hygiene. The [[NewSpot]] case sharpens the page's boundary: AI can write nearly all implementation code for a real product, but the useful work is still plan review, architecture judgment, tests, final acceptance, debugging, and deciding what product taste should remain human.
-
-[[ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1]] adds the productization boundary through [[ShengpaiNotice]] and failed larger-project attempts. AI coding can produce useful internal tools when the workflow is already understood, but "AI can write code" is not the same as "AI can create a product" without [[AIEngineeringThinking]], architecture, tests, logs, and human correction.
-
-[[ba-7-wei-heikesong-xuanshou-qing-jin-boke-guanjun-guai-cai-he-48-xiaoshi-bumian-de-yexinjia-lhozhsuqbw8csa5tj5tqc7saqrex]] adds the live-creator version through the [[XiaohongshuHackathonPeakCompetition]]. In that setting, vibe coding expands who can participate in [[AIHackathons]], but it also raises the value of idea selection, design taste, on-site demo quality, and [[BuildingPublic]] because many teams can now make something quickly.
-
-[[vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1]] adds a builder-learning version. [[JustinYan]] says his simplified [[OpenClaw]]-like agent was built almost entirely through vibe coding, but the point was not only speed; building the system exposed [[AgentHarness]], [[AISkills]], triggers, permissions, and product architecture in a way that merely using OpenClaw did not.
-
-[[vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1]] adds a shipping-boundary version. The hosts say current models can make many desired tools quickly, but they separate a fast demo from the slower work of feedback, launch readiness, and product judgment. They also connect vibe-coded temporary apps to [[AppStore]] review risk and [[AgenticSoftware]].
-
-[[vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1]] adds the non-technical workplace version through [[ShengdongHuopo]]'s internal [[AIHackathons]]. [[XuTao]] and colleagues show that vibe coding can help media workers build small workflow tools and clarify requirements, while the episode also stresses the gap between a persuasive prototype and a stable company system that needs architecture, debugging, and [[AICodingVerification]].
-
-[[vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1]] adds a saturation version. The hosts describe using [[Codex]], [[ClaudeCode]], and [[Superpowers]] to make small tools, migrate an old game, and automate operations, while also noting that waiting, reviewing, and supervising agents can create physical strain and attention cost.
-
-[[biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1]] adds a professional-culture version through [[AIProgrammingEngineShift]]. [[WuTao]] and [[Ryo]] treat AI coding as an "engine" that may make programming less scarce and more like a common tool or hobby skill, while still requiring testing, reading, and human acceptance of AI editor output.
-
-[[zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1]] adds a workspace version. [[Ryo]] wants more simultaneous screen area because AI-assisted programming can require seeing the IDE, model conversation, generated output, and supporting context together; the source therefore links vibe coding to [[DisplayErgonomics]], not only model/tool capability.
-
-[[1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm]] adds a stricter production boundary. [[YuWenyuan]] says vibe coding is acceptable for prototypes, but production or mission-critical code still requires the developer to understand generated changes, review side effects, and provide clear specifications.
-
-[[vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1]] adds a model-jump version through [[Fable5]]. The hosts say small and medium tools can increasingly be produced in one pass, including usable UI, and that stronger planning/review behavior changes the balance between prompting, execution, and acceptance. The same source keeps the product boundary: self-use tools may be acceptable when merely usable, while public products need taste, polish, and defensibility.
-
-[[opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1]] adds the startup-boundary version. The hosts say AI coding can make an OPC-style builder move quickly from idea to artifact, but that speed does not answer what should be built, where the customer is, how to sell it, or who handles the product after launch.
-
-[[dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]] adds a personal-utility version. A parent uses AI to generate math exercises and then asks AI to build a single-page Markdown-to-Word tool for formula editing, showing how ordinary users may create short-lived tools for one need. The source keeps the boundary clear: the generated artifact still required debugging and acceptance checking, and weak domain knowledge can make wrong answers hard to catch.
-
-[[e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb]] adds the confidence-confirmation version. The host says [[PingGe]] helped him confirm that even without programming, product, or project-management background, he could use natural language and AI agents to build software-like artifacts; the deeper lesson is that coding ability begins with intention, context, and acceptance criteria, not with identifying as a programmer.
-
-[[moxing-nengli-yijing-goule-yao-juan-jiu-juan-infra-duitan-daiguanlan-runta-chuangshiren-lmjsnpp7d75yhqh7bovj1bv6yhbk]] adds the [[Runta]] internal-practice version. [[DaiGuanlan|戴冠兰]] says most implementation inside Runta is AI-assisted, while still reserving architecture, API design, module boundaries, and result responsibility for engineers. The source therefore treats vibe coding as a high-leverage workflow that raises the value of [[AIEngineeringThinking]] rather than replacing it.
-
-[[vol-171-jiaru-women-you-wuxian-token-1-6682-1]] adds the output-congestion version. The hosts describe using vibe coding across old projects, new ideas, market research, code review, one-page tools, generated demo sites, and migrations, then finding that "made" is not the same as published, read, accepted, or productized.
+## Current Synthesis
+Across the bounded sources, vibe coding is no longer just autocomplete or throwaway demo generation. It expands who can build software and shifts the human role toward specifying goals, supplying domain context, supervising agents, verifying behavior, and deciding what is worth releasing. The most durable synthesis is conditional: vibe coding becomes useful when paired with architecture, tests, security, permissions, product judgment, customer pull, and maintenance ownership. The Lovable interview adds a stronger production-platform case, showing how hosting, payments, integrations, model routing, security scanning, and business workflows can turn AI-generated apps into internal tools or revenue-producing products.
 
 ## Key Claims
-- Vibe coding can reduce some coding, search, and debugging time, but conversation, waiting, review, and repair can make total work slower on familiar complex repositories.
-- Its value is strongest when it helps users learn by building real projects rather than studying a framework in isolation.
-- Model quality matters discontinuously; in complex coding work, weaker models may fail repeatedly while stronger models make the task feasible.
-- Architecture, module boundaries, interfaces, and context size become more important because agents operate within limited and costly context.
-- Vibe coding pushes pricing pressure onto tools because heavy users consume far more tokens than simple autocomplete users.
-- Coding is strategically attractive to model companies because generated code is easier to verify through compilation, linting, tests, diffs, and runtime behavior than many other generated artifacts.
-- Its stable value is highest when users can express domain know-how, acceptance criteria, and review loops rather than only a high-level product wish.
-- Self-use tools tolerate more rough edges than products for other users; crossing that line creates responsibility for edge cases, reliability, and long-term maintenance.
-- In hackathon settings, faster implementation shifts competitive advantage toward taste, product framing, demo design, hardware integration, and public storytelling.
-- Building a small agent through vibe coding can be a learning method for understanding [[AgentNativeSoftware]] and [[AgentPermissionBoundaries]], not just a way to ship a tool faster.
-- Non-technical users may gain "programmatic thinking" by building small tools; the key shift is learning that a workflow can be decomposed, automated, and improved rather than only described to a chatbot.
-- Vibe coding is especially useful for demand clarification and demos, but production adoption still needs engineering ownership, stability work, and review.
-- Heavy agentic coding can make users more capable while still increasing review work, token usage, and the need to deliberately stop or rest.
-- Vibe coding can create app-like artifacts faster than platform review systems know how to classify, especially when apps are generated after installation.
-- Small scripts, tool discovery, and one-off utilities may be where AI coding feels most immediately like an engine, because the user can quickly test whether the generated plan works.
-- More visible context can become part of the workflow, because vibe coding often means supervising multiple streams of code, chat, documentation, and review at once.
-- Vibe coding should not become a generated-code KPI; the useful metric is whether one person plus AI can responsibly deliver more verified work.
-- Beginners may be especially exposed because they can generate code before they have enough experience to identify subtle mistakes.
-- Stronger one-shot coding shifts some work from iterative prompting toward choosing the right model, writing clearer specs, and deciding how much verification is enough.
-- Vibe coding can support a [[OnePersonCompany]], but it does not replace [[CustomerPull]], sales, service, compliance, or domain taste.
-- YOLO-style coding agents make permission boundaries part of vibe coding practice, because the agent may execute commands and touch real accounts rather than only draft code.
-- A product can be mostly AI-written without making that fact the value proposition; customers still care about the resulting utility, reliability, and taste.
-- Long agent sessions create a behavioral risk: the user can become the person reacting to AI work queues instead of deciding what deserves attention.
-- One-off utilities may be the most natural vibe-coding use case for non-programmers, but they still require enough domain judgment to decide whether the output is correct.
-- Vibe coding can be psychologically important because it confirms "I can build this," but the user still has to decide whether building it serves [[HumanAgencyUnderAI]] rather than merely AI FoMO.
-- Revenue from vibe-coded applications is a stronger maturity signal than demos alone, because it shows that generated software can satisfy real users or customers.
-- Treating English prompts as source code raises the importance of specifications, tests, acceptance criteria, and product intent.
-- A vibe-coded product can be acquisition-visible, but the source argues that domain expertise, market context, and creator judgment still matter.
-- The Runta source adds that high-percentage AI-written code is compatible with serious infrastructure work only when humans retain architecture judgment and ownership of final correctness.
-- Vol. 171 adds that abundant-token vibe coding can create more unfinished artifacts than the user can review, so the bottleneck shifts toward task choice, release judgment, and pacing rather than code generation alone.
+- Capability expansion is the stable core: vibe coding lets more people attempt software work and lets experienced builders explore more ideas, but speed gains vary by task and reviewer skill.
+- Production viability depends on engineering ownership: tests, security, architecture, data handling, permissions, deployment, and rollback matter more as generated software touches real users or accounts.
+- The human bottleneck shifts upward from syntax to product framing, domain knowledge, decomposition, context management, taste, verification, customer discovery, and distribution.
+- Agentic and high-token workflows create new operating costs, including quota pressure, model-routing choices, context loss, repeated regressions, and review burden.
+- Nontechnical and cross-functional use is strongest around bounded workflows, internal tools, hackathons, side projects, and domain-specific pain where the builder understands the problem.
+- Generated code does not by itself create a business; willingness to pay, sales, trust, support, compliance, and customer pull remain outside the model's default competence.
+- As tools gain local or platform permissions, vibe coding overlaps with agent governance because generated software and agents can act in files, browsers, accounts, and production systems.
 
-## Connections
-- [[Cursor]], [[ClaudeCode]], [[GeminiCLI]], [[Windsurf]], and [[Devin]] — tools and products in the source's AI coding market map.
-- [[MoteBook]], [[Meta]], [[BenParr]], [[MattSchlicht]], and [[AITalentCompetition]] - acquisition-visible vibe-coding case added by Marketplace Tech Bytes.
-- [[Runta]], [[DaiGuanlan]], [[AIEngineeringThinking]], and [[AgentRuntimeExecutionLayer]] — infrastructure-startup vibe-coding boundary added by the Runta source.
-- [[AICodingVerification]] — verification burden created when generated code becomes cheap.
-- [[AIAssistedSoftwareDevelopmentRisk]] — production risk if speed outruns architecture and review.
-- [[ContextEngineering]] — practice of shaping the context that makes AI coding work.
-- [[AIEngineeringThinking]] and [[ShengpaiNotice]] — productization boundary and concrete internal-tool case added by the Keji Luandun episode.
-- [[AIInferenceCostStructure]] and [[AISubscriptionEconomics]] — pricing pressure created by token-heavy coding workflows.
-- [[ModelProviderToolCompetition]] — market structure around official tools and editor startups.
-- [[AIHackathons]], [[BuildingPublic]], and [[VibeSong]] — creator-community branch where vibe coding becomes event format and distribution content.
-- [[OpenClaw]], [[JustinYan]], and [[AgentNativeSoftware]] — personal-agent build case added by the Fengyan Fengyu source.
-- [[ShengdongHuopo]], [[XuTao]], [[WangJunyu]], and [[AIHackathons]] — non-technical media-workflow and organization-use case from the Shengdong Jixi crossover.
-- [[Superpowers]], [[Codex]], [[ClaudeCode]], and [[Cloudflare]] — practical acceleration-and-chaos cases from Vol. 166.
-- [[AIProgrammingEngineShift]], [[TaskAsAService]], and [[NeiheKonghuang]] — broader labor and interface shift added by the internal-combustion-era episode.
-- [[DisplayErgonomics]] — episode-72 hardware layer around screen area, DPI, and readable review surfaces.
-- [[YuWenyuan]], [[AICodingVerification]], and [[AIEngineeringThinking]] — production-responsibility boundary added by the Bailian source.
-- [[Fable5]], [[OneShotAICoding]], [[GrillMeSkills]], and [[ModelRoutingCostControl]] — stronger-model and cost-aware workflow case added by Vol. 170.
-- [[OnePersonCompany]], [[CustomerPull]], and [[ProductLedWillingnessToPay]] — OPC source where coding speed is separated from business demand.
-- [[AgenticSoftware]], [[AppStore]], and [[AICommunicationAbility]] — Vol. 164's dynamic-app and prompt-clarity boundary.
-- [[NewSpot]], [[AgentPermissionBoundaries]], and [[AICodingVerification]] — Vol. 160's real-product, YOLO-permission, and final-test boundary.
-- [[ProbabilisticSoftware]], [[HumanJudgmentUnderAI]], and [[AICodingVerification]] — Keji Luandun's temporary-tool and context-loss boundary.
-- [[PingGe]], [[AICommunicationAbility]], [[OutputQualityGates]], and [[AIUsePacing]] — E163's non-programmer confidence and pacing boundary.
-- [[PaulGraham]], [[Replit]], and [[AmjadMasad]] — YC offsite source for the revenue signal and source-code/object-code framing.
-- [[UnlimitedTokenWorkflow]], [[AIUsePacing]], [[TokenDrivenSoftware]], and [[OutputQualityGates]] — Vol. 171's output-backlog and disposable-software branch.
+## Evidence
+- Capability expansion and natural-language programming: [[vol-171-jiaru-women-you-wuxian-token-1-6682-1]], [[vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1]], and [[tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final]] frame AI coding as a new programming mode where English-like instructions, abundant tokens, and generated code can change who builds and how fast ideas are explored.
+- Engineering controls and verification: [[moxing-nengli-yijing-goule-yao-juan-jiu-juan-infra-duitan-daiguanlan-runta-chuangshiren-lmjsnpp7d75yhqh7bovj1bv6yhbk]], [[e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb]], and [[dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]] keep tests, review, deterministic subtools, permissions, prompt injection, local files, and regression control central.
+- Product and business bottlenecks: [[ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1]], [[opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1]], and [[all-in-with-chamath-jason-sacks-friedberg-former-intel-ceo-on-what-went-wrong-whats-next-lovable-ceo-on-the-real-promise-of-vibe-coding-42106400]] argue that product choice, sales, customer pull, data, strategic experiments, and business operations remain decisive after the code is generated.
+- Nontechnical and cross-functional adoption: [[ba-7-wei-heikesong-xuanshou-qing-jin-boke-guanjun-guai-cai-he-48-xiaoshi-bumian-de-yexinjia-lhozhsuqbw8csa5tj5tqc7saqrex]], [[vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1]], and [[all-in-with-chamath-jason-sacks-friedberg-former-intel-ceo-on-what-went-wrong-whats-next-lovable-ceo-on-the-real-promise-of-vibe-coding-42106400]] show hackathon, beginner, founder, designer, and operator use cases where domain knowledge matters as much as coding knowledge.
+- Token, model, and workflow economics: [[1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm]], [[ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan]], [[vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1]], and [[vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1]] connect coding agents to token scarcity, pricing, model selection, Fable-style artifacts, and the need to route work to the right model or workflow.
+- Software-era work shift: [[vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1]], [[vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1]], [[biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1]], and [[zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1]] place vibe coding inside a broader move toward agentic software, changing programming identity, and anxiety about skill formation.
+- Production platform case: [[all-in-with-chamath-jason-sacks-friedberg-former-intel-ceo-on-what-went-wrong-whats-next-lovable-ceo-on-the-real-promise-of-vibe-coding-42106400]] adds Lovable's claims about hosted apps, payments, security scanning, model routing, open-weight and frontier models, reinforcement-learning loops, and businesses running on AI-built software.
+
+## Counterevidence & Qualifications
+Several sources warn that vibe coding can slow experienced developers when review and correction costs exceed generation speed. Beginners can ship subtle defects because they cannot recognize architecture, security, edge-case, or maintainability problems. Internal tools and self-use apps are not the same as regulated, public, or enterprise software. High-token workflows can make costs and quotas real constraints. AI-built products still need distribution, pricing, support, compliance, and trust. Local agents and platform integrations increase capability but also increase blast radius when permissions are broad or generated code is accepted without review.
+
+## What Changed
+- Migrated the page to the synthesis-v1 concept schema and compressed the legacy source-by-source accumulation into claim-grouped evidence.
+- Added Lovable's production-platform account, shifting the synthesis from demos and coding assistance toward hosted, secure, integrated, business-facing software.
+- Strengthened the qualification that generated code does not solve product judgment, customer pull, distribution, or operational ownership.
+
+## Related Concepts
+- [[AICodingVerification]] - verification is the main boundary between plausible generated code and trustworthy software.
+- [[AIEngineeringThinking]] - decomposition, context design, and review remain core human work in vibe coding.
+- [[ProductionVibeCoding]] - production subset where generated software becomes hosted, secure, integrated, and business-facing.
+- [[AgentPermissionBoundaries]] - local and platform permissions determine the blast radius of agentic coding.
+- [[ModelRoutingCostControl]] - model selection and token economics shape coding-agent quality and cost.
+- [[OnePersonCompany]] - AI coding makes solo execution cheaper but does not remove sales, compliance, or delivery work.
+- [[HumanJudgmentUnderAI]] - product taste, final responsibility, and acceptance decisions remain human-heavy.
+- [[CodingDemocratization]] - vibe coding expands software creation beyond traditional programmers.

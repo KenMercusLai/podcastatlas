@@ -2055,6 +2055,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/antiusurpationcoalitionpressure/"
     },
+    "AntonOsika": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding [42106400].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-former-intel-ceo-on-what-went-wrong-whats-next-lovable-ceo-on-the-real-promise-of-vibe-coding-42106400",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-former-intel-ceo-on-what-went-wrong-whats-next-lovable-ceo-on-the-real-promise-of-vibe-coding-42106400/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/antonosika/"
+    },
     "AntonioDamasio": {
       "episode_count": 1,
       "show_count": 1,
@@ -3257,6 +3273,29 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/budgetedfrontiersuppression/"
+    },
+    "CHIPSAct": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Howard Lutnick： How America Can Hit 6% GDP Growth in 2026 [39668255].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Howard Lutnick: How America Can Hit 6% GDP Growth in 2026",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding [42106400].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-former-intel-ceo-on-what-went-wrong-whats-next-lovable-ceo-on-the-real-promise-of-vibe-coding-42106400",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-former-intel-ceo-on-what-went-wrong-whats-next-lovable-ceo-on-the-real-promise-of-vibe-coding-42106400/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/chipsact/"
     },
     "CaixinMedia": {
       "episode_count": 1,
@@ -5604,6 +5643,106 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/datacenteronsitepower/"
+    },
+    "DataCenterPowerBottleneck": {
+      "episode_count": 13,
+      "show_count": 6,
+      "source_note_count": 13,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback [42442555].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source？, Trump Accounts [42041390].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source?, Trump Accounts",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Dan Dreyfus： America’s Critical Minerals Crisis is Here [41594225].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-dan-dreyfus-americas-critical-minerals-crisis-is-here-41594225",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Dan Dreyfus: America's Critical Minerals Crisis is Here",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-dan-dreyfus-americas-critical-minerals-crisis-is-here-41594225/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The Future of Everything： What CEOs of Circle, CrowdStrike & More See Coming in 2026 [39870920].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The Future of Everything: What CEOs of Circle, CrowdStrike & More See Coming in 2026",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Inside America’s AI Strategy： Infrastructure, Regulation, and Global Competition [39846955].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Inside America's AI Strategy: Infrastructure, Regulation, and Global Competition",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955/"
+        },
+        {
+          "episode_file": "星巴克回应「蜜雪冰城代工」等传闻，李宁否认与姆巴佩签约 [1006054195].md",
+          "key": "xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195",
+          "show": "声动早咖啡",
+          "title": "星巴克回应「蜜雪冰城代工」等传闻，李宁否认与姆巴佩签约",
+          "url": "/wiki/sources/xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195/"
+        },
+        {
+          "episode_file": "tech_20260129_0129_MP_TECH_pod_128 [tech_20260129_0129_MP_TECH_pod_128].md",
+          "key": "tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "A recycling startup joins the AI boom",
+          "url": "/wiki/sources/tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_f17904cb588113b2be001b690b20690e_20012475 [default.mp3_ywr3ahjkcgo_f17904cb588113b2be001b690b20690e_20012475].md",
+          "key": "indicators-of-2025-and-what-to-watch-in-2026",
+          "show": "Planet Money",
+          "title": "Indicators of 2025 and What to Watch in 2026",
+          "url": "/wiki/sources/indicators-of-2025-and-what-to-watch-in-2026/"
+        },
+        {
+          "episode_file": "E230｜1万亿收入预期背后：英伟达的巅峰与软肋 [d97446f1-d6e3-4894-89d1-dca0a362b10b].md",
+          "key": "e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b",
+          "show": "硅谷101",
+          "title": "E230｜1万亿收入预期背后：英伟达的巅峰与软肋",
+          "url": "/wiki/sources/e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b/"
+        },
+        {
+          "episode_file": "tech_20260116_0116_MP_TECH_pod_128 [tech_20260116_0116_MP_TECH_pod_128].md",
+          "key": "tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - New chip exports for China, Microsoft to pay electricity for AI data centers, and Gemini will power Apple's AI",
+          "url": "/wiki/sources/tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "E239｜SpaceX要让太空算力从科幻走向现实，但它划算吗？ [259291f5-2715-4dde-bcfe-b5beb4df5793].md",
+          "key": "e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793",
+          "show": "硅谷101",
+          "title": "E239｜SpaceX要让太空算力从科幻走向现实，但它划算吗？",
+          "url": "/wiki/sources/e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793/"
+        },
+        {
+          "episode_file": "国产 AI 算力能凭「超节点」弯道超车吗？ ｜ WAIC 深度观察 S10E23 [a6c6ab3e-72b2-470b-aefd-04b19679d37f].md",
+          "key": "guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f",
+          "show": "What's Next｜科技早知道",
+          "title": "国产 AI 算力能凭「超节点」弯道超车吗？｜WAIC 深度观察 S10E23",
+          "url": "/wiki/sources/guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding [42106400].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-former-intel-ceo-on-what-went-wrong-whats-next-lovable-ceo-on-the-real-promise-of-vibe-coding-42106400",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-former-intel-ceo-on-what-went-wrong-whats-next-lovable-ceo-on-the-real-promise-of-vibe-coding-42106400/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/datacenterpowerbottleneck/"
     },
     "DataFoundationFirstAIStrategy": {
       "episode_count": 1,
@@ -11429,6 +11568,57 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/integratedbipolarcare/"
     },
+    "Intel": {
+      "episode_count": 6,
+      "show_count": 5,
+      "source_note_count": 6,
+      "sources": [
+        {
+          "episode_file": "150.“中国如何跳出贫困陷阱”，现代化之路又会走向何方 [lgPVP04rnGaGkPuBtE2AC6I5JI3g].md",
+          "key": "150-zhongguo-ruhe-tiaochu-pinkun-xianjing-xiandaihua-zhi-lu-you-hui-zouxiang-hefang-lgpvp04rngagkpubte2ac6i5ji3g",
+          "show": "起朱楼宴宾客",
+          "title": "150.“中国如何跳出贫困陷阱”，现代化之路又会走向何方",
+          "url": "/wiki/sources/150-zhongguo-ruhe-tiaochu-pinkun-xianjing-xiandaihua-zhi-lu-you-hui-zouxiang-hefang-lgpvp04rngagkpubte2ac6i5ji3g/"
+        },
+        {
+          "episode_file": "E230｜1万亿收入预期背后：英伟达的巅峰与软肋 [d97446f1-d6e3-4894-89d1-dca0a362b10b].md",
+          "key": "e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b",
+          "show": "硅谷101",
+          "title": "E230｜1万亿收入预期背后：英伟达的巅峰与软肋",
+          "url": "/wiki/sources/e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b/"
+        },
+        {
+          "episode_file": "EP270 一枚芯片的漫长征途：我们离“算力自由”还有多远？ [lm7lXLMCnjWNAWTQ_9TYpc_fNRci].md",
+          "key": "ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci",
+          "show": "Talk三联",
+          "title": "EP270 一枚芯片的漫长征途：我们离“算力自由”还有多远？",
+          "url": "/wiki/sources/ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci/"
+        },
+        {
+          "episode_file": "真正改变世界的技术，为什么一开始都不被看好？｜ S10E16 [8c95b3dc-d75a-4bdd-84d4-2c06fd2d85b1].md",
+          "key": "zhenzheng-gaibian-shijie-de-jishu-weishenme-yikaishi-dou-bu-bei-kanhao-s10e16-8c95b3dc-d75a-4bdd-84d4-2c06fd2d85b1",
+          "show": "What's Next｜科技早知道",
+          "title": "真正改变世界的技术，为什么一开始都不被看好？| S10E16",
+          "url": "/wiki/sources/zhenzheng-gaibian-shijie-de-jishu-weishenme-yikaishi-dou-bu-bei-kanhao-s10e16-8c95b3dc-d75a-4bdd-84d4-2c06fd2d85b1/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Howard Lutnick： How America Can Hit 6% GDP Growth in 2026 [39668255].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Howard Lutnick: How America Can Hit 6% GDP Growth in 2026",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding [42106400].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-former-intel-ceo-on-what-went-wrong-whats-next-lovable-ceo-on-the-real-promise-of-vibe-coding-42106400",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-former-intel-ceo-on-what-went-wrong-whats-next-lovable-ceo-on-the-real-promise-of-vibe-coding-42106400/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/intel/"
+    },
     "InterPath001": {
       "episode_count": 1,
       "show_count": 1,
@@ -14350,6 +14540,43 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/longtermachievementdiscipline/"
+    },
+    "Lovable": {
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Mark Cuban on the AI Bubble： Who Actually Gets Wiped Out？ [42155640].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-mark-cuban-on-the-ai-bubble-who-actually-gets-wiped-out-42155640",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Mark Cuban on the AI Bubble: Who Actually Gets Wiped Out?",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-mark-cuban-on-the-ai-bubble-who-actually-gets-wiped-out-42155640/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source？, Trump Accounts [42041390].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source?, Trump Accounts",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390/"
+        },
+        {
+          "episode_file": "优化胜率而非赔率，把一件事做到理论上该有的样子｜对谈连续创业者 Albert [lu0VAMAaWCTwVa3qbLNsf99esAR2].md",
+          "key": "youhua-shenglv-erfei-peilv-ba-yi-jian-shi-zuodao-lilun-shang-gaiyou-de-yangzi-duitan-lianxu-chuangyezhe-albert-lu0vamaawctwva3qblnsf99esar2",
+          "show": "42章经",
+          "title": "优化胜率而非赔率，把一件事做到理论上该有的样子｜对谈连续创业者 Albert",
+          "url": "/wiki/sources/youhua-shenglv-erfei-peilv-ba-yi-jian-shi-zuodao-lilun-shang-gaiyou-de-yangzi-duitan-lianxu-chuangyezhe-albert-lu0vamaawctwva3qblnsf99esar2/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding [42106400].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-former-intel-ceo-on-what-went-wrong-whats-next-lovable-ceo-on-the-real-promise-of-vibe-coding-42106400",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-former-intel-ceo-on-what-went-wrong-whats-next-lovable-ceo-on-the-real-promise-of-vibe-coding-42106400/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/lovable/"
     },
     "LowCountries": {
       "episode_count": 3,
@@ -17753,6 +17980,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/passiontrapcareeradvice/"
     },
+    "PatGelsinger": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding [42106400].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-former-intel-ceo-on-what-went-wrong-whats-next-lovable-ceo-on-the-real-promise-of-vibe-coding-42106400",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-former-intel-ceo-on-what-went-wrong-whats-next-lovable-ceo-on-the-real-promise-of-vibe-coding-42106400/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/patgelsinger/"
+    },
     "PatientSM": {
       "episode_count": 1,
       "show_count": 1,
@@ -18459,6 +18702,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/procrastinationselfregulationfailure/"
+    },
+    "ProductionVibeCoding": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding [42106400].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-former-intel-ceo-on-what-went-wrong-whats-next-lovable-ceo-on-the-real-promise-of-vibe-coding-42106400",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-former-intel-ceo-on-what-went-wrong-whats-next-lovable-ceo-on-the-real-promise-of-vibe-coding-42106400/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/productionvibecoding/"
     },
     "ProvisionalIRA": {
       "episode_count": 2,
@@ -22280,6 +22539,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/teacheraiaugmentation/"
     },
+    "TechnicalLeadershipForTechnologyCompanies": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding [42106400].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-former-intel-ceo-on-what-went-wrong-whats-next-lovable-ceo-on-the-real-promise-of-vibe-coding-42106400",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-former-intel-ceo-on-what-went-wrong-whats-next-lovable-ceo-on-the-real-promise-of-vibe-coding-42106400/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/technicalleadershipfortechnologycompanies/"
+    },
     "Telemachus": {
       "episode_count": 1,
       "show_count": 1,
@@ -23494,6 +23769,155 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/vernacularfemalereligiouswriting/"
+    },
+    "VibeCoding": {
+      "episode_count": 20,
+      "show_count": 9,
+      "source_note_count": 20,
+      "sources": [
+        {
+          "episode_file": "Vol. 171 假如我们有无限 Token (1) [6682-1].md",
+          "key": "vol-171-jiaru-women-you-wuxian-token-1-6682-1",
+          "show": "枫言枫语",
+          "title": "Vol. 171 假如我们有无限 Token",
+          "url": "/wiki/sources/vol-171-jiaru-women-you-wuxian-token-1-6682-1/"
+        },
+        {
+          "episode_file": "「模型能力已经够了，要卷就卷 infra」｜对谈戴冠兰：Runta 创始人 [lmJsNPP7D75YHqH7boVJ1bV6YHBk].md",
+          "key": "moxing-nengli-yijing-goule-yao-juan-jiu-juan-infra-duitan-daiguanlan-runta-chuangshiren-lmjsnpp7d75yhqh7bovj1bv6yhbk",
+          "show": "十字路口Crossing",
+          "title": "「模型能力已经够了，要卷就卷 infra」｜对谈戴冠兰：Runta 创始人",
+          "url": "/wiki/sources/moxing-nengli-yijing-goule-yao-juan-jiu-juan-infra-duitan-daiguanlan-runta-chuangshiren-lmjsnpp7d75yhqh7bovj1bv6yhbk/"
+        },
+        {
+          "episode_file": "tech_20260313_0313_MP_TECH_pod_128 [tech_20260313_0313_MP_TECH_pod_128].md",
+          "key": "tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Amazon and AI, YouTube tops the media market and Meta buys an AI-only social network",
+          "url": "/wiki/sources/tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "E163.要完了？不！是要玩了！论养AI的心态与习惯 [lqeZCpNw8p6CwHjr2wcw68X4UpHB].md",
+          "key": "e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb",
+          "show": "面基",
+          "title": "E163.要完了？不！是要玩了！论养AI的心态与习惯",
+          "url": "/wiki/sources/e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb/"
+        },
+        {
+          "episode_file": "Vol. 160 一年多以后，再聊AI写代码Vibe Coding (1) [6623-1].md",
+          "key": "vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1",
+          "show": "枫言枫语",
+          "title": "Vol. 160 一年多以后，再聊AI写代码Vibe Coding",
+          "url": "/wiki/sources/vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1/"
+        },
+        {
+          "episode_file": "EP108 Vibe Coding大地震：Cursor定价争议、Windsurf收购风波，模型厂商亲儿子们又将如何进场？ [lqn_iCq1XQgK7XxxXZRPunj4fan-].md",
+          "key": "ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan",
+          "show": "硬地骇客",
+          "title": "EP108 Vibe Coding大地震：Cursor定价争议、Windsurf收购风波，模型厂商亲儿子们又将如何进场？",
+          "url": "/wiki/sources/ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan/"
+        },
+        {
+          "episode_file": "AI 会写代码了，为什么你还是做不出产品？ ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [ai-会写代码了，为什么你还是做不出产品？-1].md",
+          "key": "ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1",
+          "show": "科技乱炖",
+          "title": "AI 会写代码了，为什么你还是做不出产品？",
+          "url": "/wiki/sources/ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1/"
+        },
+        {
+          "episode_file": "把7位黑客松选手请进播客｜冠军、怪才和48小时不眠的野心家 [lhOzhSuQbw8Csa5tj5tqC7saQreX].md",
+          "key": "ba-7-wei-heikesong-xuanshou-qing-jin-boke-guanjun-guai-cai-he-48-xiaoshi-bumian-de-yexinjia-lhozhsuqbw8csa5tj5tqc7saqrex",
+          "show": "十字路口Crossing",
+          "title": "把7位黑客松选手请进播客｜冠军、怪才和48小时不眠的野心家",
+          "url": "/wiki/sources/ba-7-wei-heikesong-xuanshou-qing-jin-boke-guanjun-guai-cai-he-48-xiaoshi-bumian-de-yexinjia-lhozhsuqbw8csa5tj5tqc7saqrex/"
+        },
+        {
+          "episode_file": "Vol. 161 从开发自己的🦞OpenClaw聊起 (1) [6626-1].md",
+          "key": "vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1",
+          "show": "枫言枫语",
+          "title": "Vol. 161 从开发自己的 OpenClaw 聊起",
+          "url": "/wiki/sources/vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1/"
+        },
+        {
+          "episode_file": "Vol. 164 从苹果聊到软件未来：Agentic Software 真的要来了？ (1) [6639-1].md",
+          "key": "vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1",
+          "show": "枫言枫语",
+          "title": "Vol. 164 从苹果聊到软件未来：Agentic Software 真的要来了？",
+          "url": "/wiki/sources/vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1/"
+        },
+        {
+          "episode_file": "Vol. 165 做客声东击西：「龙虾」和 vibe coding 正如何改变我们的思维-来自小白、创业者和工程师不同视角的讨论 (1) [6642-1].md",
+          "key": "vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1",
+          "show": "枫言枫语",
+          "title": "Vol. 165 做客声东击西：「龙虾」和 vibe coding 正如何改变我们的思维",
+          "url": "/wiki/sources/vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1/"
+        },
+        {
+          "episode_file": "Vol. 166 闲聊： 从Gemini到AI的加速与混沌 (1) [6650-1].md",
+          "key": "vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1",
+          "show": "枫言枫语",
+          "title": "Vol. 166 闲聊: 从 Gemini 到 AI 的加速与混沌",
+          "url": "/wiki/sources/vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1/"
+        },
+        {
+          "episode_file": "编程的内燃机时代 ｜ 内核恐慌 #71 (1) [71-1].md",
+          "key": "biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1",
+          "show": "内核恐慌",
+          "title": "71. 编程的内燃机时代",
+          "url": "/wiki/sources/biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1/"
+        },
+        {
+          "episode_file": "中文播客活化石与真OG ｜ 内核恐慌 #72 (1) [72-1].md",
+          "key": "zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1",
+          "show": "内核恐慌",
+          "title": "72. 中文播客活化石与真OG",
+          "url": "/wiki/sources/zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1/"
+        },
+        {
+          "episode_file": "「1 亿 TOKEN 俱乐部」挤爆了，AI 的燃料不够了｜对谈于文渊：阿里云百炼技术负责人 [ltn5K9jd9E04I5MFDkDo_yCoslSm].md",
+          "key": "1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm",
+          "show": "十字路口Crossing",
+          "title": "「1 亿 Token 俱乐部」挤爆了，AI 的燃料不够了：对谈于文渊",
+          "url": "/wiki/sources/1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm/"
+        },
+        {
+          "episode_file": "Vol. 170 Fable 5 重出江湖，GPT 仍需努力 (1) [6674-1].md",
+          "key": "vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1",
+          "show": "枫言枫语",
+          "title": "Vol. 170 Fable 5 重出江湖，GPT 仍需努力",
+          "url": "/wiki/sources/vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1/"
+        },
+        {
+          "episode_file": "OPC 的真正难题，是 AI 还没学会替你把东西卖出去 ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [opc-的真正难题，是-ai-还没学会替你把东西卖出去-1].md",
+          "key": "opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1",
+          "show": "科技乱炖",
+          "title": "OPC 的真正难题，是 AI 还没学会替你把东西卖出去",
+          "url": "/wiki/sources/opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1/"
+        },
+        {
+          "episode_file": "当可靠的代码变成了偶尔发疯的OpenClaw，我们未来的工作范式变迁 ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [当可靠的代码变成了偶尔发疯的openclaw，我们未来的工-1].md",
+          "key": "dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian",
+          "show": "科技乱炖",
+          "title": "当可靠的代码变成了偶尔发疯的OpenClaw，我们未来的工作范式变迁",
+          "url": "/wiki/sources/dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian/"
+        },
+        {
+          "episode_file": "TSR-YCOffsite-PG-AudioOnly-Final [TSR-YCOffsite-PG-AudioOnly-Final].md",
+          "key": "tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final",
+          "show": "The Social Radars",
+          "title": "Founder Mode: Paul Graham, Founder, Y Combinator",
+          "url": "/wiki/sources/tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding [42106400].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-former-intel-ceo-on-what-went-wrong-whats-next-lovable-ceo-on-the-real-promise-of-vibe-coding-42106400",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-former-intel-ceo-on-what-went-wrong-whats-next-lovable-ceo-on-the-real-promise-of-vibe-coding-42106400/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/vibecoding/"
     },
     "Vienna": {
       "episode_count": 5,
