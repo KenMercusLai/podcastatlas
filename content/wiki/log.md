@@ -12681,6 +12681,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-28] ingest | E250｜mRNA的第二战场：对话英博，拆解Moderna人类首个肿瘤疫苗三期突破
+
+Added source page for a 硅谷101 episode with Ying Bo on Moderna/Merck's InterPath001 individualized mRNA melanoma-vaccine phase 3 readout, postoperative RFS, neoantigen selection, CMC/QC, automation, AI, and regulatory/manufacturing limits. Created Ying Bo, 爱博生物, InterPath001, BioNTech, Individualized Cancer Vaccine Manufacturing, Neoantigen Selection Tradeoff, and Recurrence-Free Survival Endpoint; updated Moderna, Merck, Individualized Cancer Vaccine, Cancer Vaccine Platform, Cancer Immune Recognition Problem, Tumor Microenvironment, AI Clinical Validation In Drug Discovery, overview, and index. No settled contradiction found; the source qualifies earlier cancer-vaccine optimism by keeping HR/subgroup data, OS, approval, cross-tumor transfer, cost, access, and manufacturability unresolved.
+
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》1048丨许攸叛袁献计：官渡战局的惊天变数
 
 Added source page for the missing pre-Wuchao Guandu hinge: Cao Cao's supply crisis, Xun Yu's hold-fast counsel, Xun You's Han Meng convoy strike, Ju Shou's ignored protection warning, Xu You's rejected Xudu raid proposal, and Shen Pei's family-arrest trigger for Xu You's defection. Created Han Meng, Xu Huang (Cao general), Shi Huan, Jiang Qi, Crisis Persistence Counsel, and Rejected Counsel Defection Cascade; updated Guandu Campaign, Wuchao Raid, Xu You, Ju Shou, Shen Pei, Chunyu Qiong, Xun You, Supply Depot Decisive Strike, overview, and index. No settled contradiction found; 徐晃 is disambiguated from the existing 徐璜 eunuch page, and Hanji 1048 stops at the Wuchao night-march launch that Hanji 1049 resolves.
@@ -12888,6 +12892,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-28] ingest | Big shot: does a cancer vaccine work?
 
 Added source page for The Intelligence episode on Steve Young's personalized mRNA melanoma-vaccine trial, Canada's oil-sands boom, Trans Mountain capacity, and Dolly Parton's cultural legacy. Created Steve Young (Melanoma Trial Patient), Sarah Larniuk, Cenovus Energy, Canadian Natural Resources Limited, Trans Mountain Expansion, Major Projects Office (Canada), Dolly Parton, Canadian Oil Sands Boom, Cross-Coalition Cultural Icon, and Artist Rights Control pages; updated individualized cancer vaccine, cancer vaccine platform, cancer immune recognition, Moderna, Merck, Canada, Alberta, Mark Carney, American Cultural Exports, overview, and index. No settled contradiction found; the episode qualifies earlier cancer-vaccine optimism by keeping survival, side effects, dropout, cost, access, and tumor-type transferability unresolved.
+
+## [2026-08-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-28] lint | Wiki health check
 

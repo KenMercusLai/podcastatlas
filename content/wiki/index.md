@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [E250｜mRNA的第二战场：对话英博，拆解Moderna人类首个肿瘤疫苗三期突破](sources/e250-mrna-de-dier-zhanchang-duihua-yingbo-chaijie-moderna-renlei-shouge-zhongliu-yimiao-sanqi-tupo-73a69583-98ee-43d6-a892-3e7c93012dd9.md) — 硅谷101 episode with Ying Bo on Moderna/Merck InterPath001, individualized mRNA cancer vaccines, postoperative melanoma RFS, neoantigen selection, CMC/QC, automation, AI, and regulatory/manufacturing limits.
 - [Big shot: does a cancer vaccine work?](sources/big-shot-does-a-cancer-vaccine-work-6a9001f40c15e359f9cb103c.md) — The Intelligence episode on Steve Young's personalized mRNA melanoma-vaccine trial, Canada's oil-sands boom, Trans Mountain capacity, and Dolly Parton's cross-coalition cultural legacy.
 - [咖啡豆｜美式汉堡炸鸡扎堆来华，快餐品牌为什么又盯上中国市场？](sources/kafeidou-meishi-hanbao-zhaji-zhadui-laihua-kuaican-pinpai-weishenme-you-dingshang-zhongguo-shichang-1009244406.md) — 声动早咖啡 coffee-bean episode on Five Guys queues, U.S. fast-food brands' China expansion, local franchise partners, mall first-store traffic, and premium fast-food repeat-purchase risk.
 - [Selling Before Building: $1M ARR in Six Months](sources/selling-before-building-1m-arr-in-six-months.md) — The SaaS Podcast episode with Julius Kurfgen on Uplane, selling before building, one-week demo sprints, managed-service AI marketing automation, performance-linked ad-spend pricing, and atomic content guardrails.
@@ -1618,6 +1619,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [英博博士 / Ying Bo](entities/YingBo.md) — Biotech guest and Aibo Shengwu founder explaining mRNA tumor vaccines through Moderna, CMC, automation, and AI validation.
+- [爱博生物](entities/AiboShengwu.md) — Chinese mRNA biotech company represented by Ying Bo's episode discussion of tumor-vaccine routes, automation, and computational-science infrastructure.
+- [InterPath001](entities/InterPath001.md) — Moderna/Merck phase 3 melanoma trial used by E250 to frame individualized mRNA vaccine plus PD-1 recurrence-free-survival evidence.
+- [BioNTech](entities/BioNTech.md) — mRNA oncology comparator in E250's Moderna-centered tumor-vaccine competition discussion.
 - [Steve Young (Melanoma Trial Patient)](entities/SteveYoungMelanomaPatient.md) — Hertfordshire musician and melanoma patient whose personalized mRNA-vaccine trial illustrates tumor sequencing, mRNA mapping, and ongoing seven-year monitoring.
 - [Dolly Parton](entities/DollyParton.md) — American songwriter, performer, business actor, philanthropist, and cross-coalition cultural figure in The Intelligence remembrance.
 - [Sarah Larniuk](entities/SarahLarniuk.md) — The Intelligence source voice explaining Canada's oil-sands boom through prices, pipeline capacity, trade uncertainty, and producer profits.
@@ -9681,6 +9686,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Individualized Cancer Vaccine Manufacturing](concepts/IndividualizedCancerVaccineManufacturing.md) — Patient-specific mRNA vaccine production chain linking tissue sampling, sequencing, neoantigen selection, LNP packaging, QC, automation, and release.
+- [Neoantigen Selection Tradeoff](concepts/NeoantigenSelectionTradeoff.md) — Individualized vaccine design problem balancing target coverage, tumor escape, mRNA length, translation, manufacturing, and immune-response dilution.
+- [Recurrence-Free Survival Endpoint](concepts/RecurrenceFreeSurvivalEndpoint.md) — Oncology endpoint used by E250 to separate postoperative recurrence-delay evidence from PFS and OS claims.
 - [Canadian Oil Sands Boom](concepts/CanadianOilSandsBoom.md) — Conjuncture where Alberta oil-sands producers benefit from high global prices, new pipeline capacity, tariff exemptions, and Canadian energy-independence politics.
 - [Cross-Coalition Cultural Icon](concepts/CrossCoalitionCulturalIcon.md) — Public figure pattern where work, persona, restraint, and usefulness sustain admiration across groups that usually disagree.
 - [Artist Rights Control](concepts/ArtistRightsControl.md) — Creative-business practice of preserving ownership and licensing leverage so short-term exposure does not strip long-term value.

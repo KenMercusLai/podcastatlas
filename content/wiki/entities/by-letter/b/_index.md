@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 8059
+wiki_total_pages: 8063
 wiki_pages:
   - key: "BSpecials"
     title: "B Specials"
@@ -401,6 +401,9 @@ wiki_pages:
   - key: "BillyReid"
     title: "Billy Reid"
     url: "/wiki/entities/billyreid/"
+  - key: "BioNTech"
+    title: "BioNTech"
+    url: "/wiki/entities/biontech/"
   - key: "BirdMobile"
     title: "Bird Mobile"
     url: "/wiki/entities/birdmobile/"

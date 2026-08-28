@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-28
-as_of_overview_commit: 97838369a8f2c6e22943746c9a044cae65315542
-summary: "Podcast Atlas maps AI, markets, health, history, and work through one test: capability matters only when institutions, incentives, evidence, and judgment hold."
-episode_count: 1610
-source_count: 1610
-paragraph_count: 320
+as_of_overview_commit: d067f6bca4654af3c2838c9ef14d602a1c4fcd60
+summary: "Podcast Atlas maps AI, markets, health, history, work, and science through one test: capability matters only when institutions, incentives, evidence, and judgment hold."
+episode_count: 1611
+source_count: 1611
+paragraph_count: 321
 topic_count: 8
 ---
 
@@ -29,7 +29,7 @@ topic_count: 8
 
 ### AI and Technology
 
-AI value depends on workflows, verification, permissions, economics, grounded data, physical feedback, and real deployment constraints.
+AI value depends on workflows, verification, permissions, economics, grounded data, physical feedback, biomedical validation, and real deployment constraints.
 
 - AI creates durable value when model capability is embedded in real workflows through [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AIOfficeAgent]], [[AgentFacingInterfaces]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AgentHarness]], and [[TokenEfficientAgentWorkflow]] rather than left as isolated chat or generation. Evidence: [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AgentFacingInterfaces]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AgentHarness]], [[TokenEfficientAgentWorkflow]], [[ModelRoutingCostControl]], [[LocalAgentExecution]], [[MultiAgentCollaboration]], [[AgentNativeSoftware]], [[OpenClaw]], [[HermesAgent]], [[SlockAI]], [[HeadlessSoftware]], [[Paperboy]], [[AIOperationsRole]], [[AgentOptimizedCLI]], [[RoutineAgentAutomation]], [[AIOfficeAgent]], [[ClaudeCode]], [[DingTalk]], [[Feishu]], [[TencentWorkBuddy]], [[DoubaoWork]], [[tengxun-ali-zijie-zhengduo-dagongren-hulianwang-dachang-weihe-jiti-jiama-ai-bangong-1008598460]].
 - The agent branch now points to a token-efficient operating discipline: [[TokenEfficientAgentWorkflow]], [[ModelRoutingCostControl]], [[LocalAgentExecution]], [[MultiAgentCollaboration]], [[PersistentAgentMemory]], [[AISkills]], and [[AgentHarness]] allocate expensive frontier calls, local models, deterministic tools, skills, memory, review, and human attention by task value, uncertainty, risk, latency, and verification cost. Evidence: [[TokenEfficientAgentWorkflow]], [[TokenMaxxing]], [[ModelRoutingCostControl]], [[LocalAgentExecution]], [[MultiAgentCollaboration]], [[PersistentAgentMemory]], [[AISkills]], [[AgentHarness]], [[AIInferenceCostStructure]], [[DeepSeek]], [[Fable5]], [[GLM52]], [[OpenClaw]], [[HermesAgent]], [[SlockAI]], [[DB9]], [[Dongxu]], [[ZhangHongjiang]], [[e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817]].
@@ -56,7 +56,7 @@ Governance turns legitimacy, rights, extraction, victory, and technology into du
 
 ### History and Geopolitics
 
-History and geopolitics track legitimacy, infrastructure, frontier pressure, alliances, local fiscal restraint, and state capacity as strategic conditions. The Guandu branch now adds pre-Wuchao supply exhaustion, ignored counsel, and defector intelligence before the Wuchao collapse.
+History and geopolitics track legitimacy, infrastructure, frontier pressure, alliances, local fiscal restraint, and state capacity as strategic conditions.
 
 - [[UnderseaDataCables]] show contemporary geopolitics moving into physical internet routes: [[UnitedStates]] funding for [[Caribbean]] and [[CentralAmerica]] cable replacement, competition with [[China]], vendor concerns involving [[Russia]], [[CableLandingPointSecurity]], and [[CableNetworkResilience]] make cloud and financial connectivity part of strategic infrastructure rather than only telecom operations. Evidence: [[UnderseaDataCables]], [[UnitedStates]], [[Caribbean]], [[CentralAmerica]], [[China]], [[Russia]], [[CableLandingPointSecurity]], [[CableNetworkResilience]], [[TrustedNetworkGeopolitics]], [[DigitalInfrastructureWarRisk]], [[RegionalNetworkTopologyRisk]], [[AsymmetricInfrastructureAttack]], [[MarketplaceTech]], [[ErinMurphy]], [[tech-20260820-tech-pod-128-tech-20260820-tech-pod-128]].
 - The Hanji 992, 1002, and 1015-1016 branch makes late-Han title order a strategic condition: [[EmperorXianOfHan]]'s ruined Anyi and Chang'an context keeps [[MingqiLegitimacy]] symbolically active but materially thin, [[JuShou]] sees [[LegitimacyWindowSeizure]] for [[YuanShao]] before [[GuoTu]] and [[ChunyuQiong]] help Yuan Shao miss it, [[SunCe]] treats [[YuanShu]]'s planned imperial title as a [[MoralizedWarPretext]] and exits, [[XunYu]] turns the emperor's recognition into [[LegitimacyWindowSeizure]] for [[CaoCao]], Yuan Shu's later Shouchun claim outruns [[TitleRealityRestraint]] and creates [[AntiUsurpationCoalitionPressure]], and [[ChenGui]] blocks [[MarriageAllianceWarExposure]] around [[LyuBu]] and [[Xuzhou]]. Evidence: [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz]], [[EmperorXianOfHan]], [[ChangAnHanCapital]], [[GuanzhongRegion]], [[MingqiLegitimacy]], [[JuShou]], [[LegitimacyWindowSeizure]], [[YuanShao]], [[GuoTu]], [[ChunyuQiong]], [[WartimeAgriculturalLaborCollapse]], [[FamineEntitlementFailure]], [[SunCe]], [[YuanShu]], [[MoralizedWarPretext]], [[XunYu]], [[CaoCao]], [[TitleRealityRestraint]], [[AntiUsurpationCoalitionPressure]], [[ChenGui]], [[MarriageAllianceWarExposure]], [[LyuBu]], [[Xuzhou]], [[XingshiqingStrategicAssessment]], [[GuoJia]], [[ZhongYao]].
@@ -77,7 +77,7 @@ Science, health, and climate claims need evidence boundaries, clinical context, 
 
 ### Work, Education, and Society
 
-Work and education shift through foundations, practice, ownership, verification, role design, human judgment, and institutional context. The latest late-Han analogy keeps crisis counsel and internal pressure source-scoped rather than prescriptive.
+Work and education shift through foundations, practice, ownership, verification, role design, human judgment, and institutional context.
 
 - AI and automation change work only when they reorganize production roles, workflows, and review responsibilities, from [[AIVideoProductionWorkflow]] and [[RollingAI]] to [[HeadlessSoftware]], [[Paperboy]], and [[HumanJudgmentUnderAI]]. Evidence: [[AIVideoProductionWorkflow]], [[JiaZhangke]], [[FilmRealityBeyondRealism]], [[LiveActionFilmUnderAI]], [[CreativeLaborAIBacklash]], [[AIPublicLikenessGeneration]], [[AITrainingCopyrightDispute]], [[AIEnergyBottleneck]], [[RollingAI]], [[HeadlessSoftware]], [[Paperboy]], [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].
 - Workplace AI readiness depends on ownership, baselines, training, and role-specific workflows: [[WorkplaceAIReadinessGap]], [[Microsoft365CopilotAdoption]], [[AIAdoptionBaselineMeasurement]], [[AIOperationsRole]], [[FrontlineAIEnablement]], and [[HumanJudgmentUnderAI]] show that license access or worker experimentation is not enough. Evidence: [[WorkplaceAIReadinessGap]], [[Microsoft365CopilotAdoption]], [[AIAdoptionBaselineMeasurement]], [[AIOperationsRole]], [[FrontlineAIEnablement]], [[HumanJudgmentUnderAI]], [[ShadowAI]], [[BusinessLedAITransformation]], [[JimSpignardo]], [[Proarc]], [[ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise]].

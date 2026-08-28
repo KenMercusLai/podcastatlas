@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 8059
+wiki_total_pages: 8063
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1346,6 +1346,9 @@ wiki_pages:
   - key: "Agarwood"
     title: "沉香 / Agarwood"
     url: "/wiki/entities/agarwood/"
+  - key: "AiboShengwu"
+    title: "爱博生物"
+    url: "/wiki/entities/aiboshengwu/"
   - key: "AiWawaReadingGroup"
     title: "爱娃娃亲子阅读小组 / Ai Wawa Reading Group"
     url: "/wiki/entities/aiwawareadinggroup/"

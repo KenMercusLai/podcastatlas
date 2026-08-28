@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 5805
+wiki_total_pages: 5808
 wiki_pages:
   - key: "NamingPowerSocialChange"
     title: "Naming Power In Social Change / 社会变革中的命名权"
@@ -107,6 +107,9 @@ wiki_pages:
   - key: "NeoCloud"
     title: "Neo Cloud"
     url: "/wiki/concepts/neocloud/"
+  - key: "NeoantigenSelectionTradeoff"
+    title: "Neoantigen Selection Tradeoff"
+    url: "/wiki/concepts/neoantigenselectiontradeoff/"
   - key: "NetscapePlatformEcosystem"
     title: "Netscape Platform Ecosystem"
     url: "/wiki/concepts/netscapeplatformecosystem/"

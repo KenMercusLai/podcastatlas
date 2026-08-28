@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "b43ba7cb4ae5ef2982410a18110a3db1dabe28f25af98cd941fa6bd84437bc88",
       "b7d227f34bd447800f7c15293cda81af8f70b38685399e1a4c004367452b1d39",
       "050bc1fafc1375ed4925da070d3d23985f1fb8caa98c0ad64f52caf9ea5e8aa0",
       "0fb50f68bae873e25737bf84a4763f17bc268f5cb2d1206de955036e14f1f837",
@@ -322,11 +323,38 @@
       "ffc63951f0c9ebb1bdb0d92982d5f65f57bbe4a7f7a359f38dcd33423bb288c2",
       "41cadfb91ef6894bc7d9cd5c4e55012480b0225b71a6a027d18e9565e8357c0c"
     ],
-    "paragraph_count": 320
+    "paragraph_count": 321
   },
-  "overview_commit": "97838369a8f2c6e22943746c9a044cae65315542",
-  "overview_digest": "8e153fa24b8e107459f90d703a9fab3d2b4eac0b8d578f1899d7feacfea732b7",
+  "overview_commit": "d067f6bca4654af3c2838c9ef14d602a1c4fcd60",
+  "overview_digest": "c17d32d627445ebe90f19d446d46db4dfbbc18762af01fa53fbc26de4ca30a20",
   "paragraphs": [
+    {
+      "id": "b43ba7cb4ae5ef2982410a18110a3db1dabe28f25af98cd941fa6bd84437bc88",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [],
+      "text": "The latest addition is [[e250-mrna-de-dier-zhanchang-duihua-yingbo-chaijie-moderna-renlei-shouge-zhongliu-yimiao-sanqi-tupo-73a69583-98ee-43d6-a892-3e7c93012dd9|E250｜mRNA的第二战场：对话英博，拆解Moderna人类首个肿瘤疫苗三期突破]], a [[SiliconValley101|硅谷101]] episode with [[YingBo|Ying Bo]] of [[AiboShengwu|爱博生物]] on [[Moderna]] and [[Merck]]'s [[InterPath001]] individualized mRNA melanoma-vaccine readout. It adds [[YingBo]], [[AiboShengwu]], [[InterPath001]], [[BioNTech]], [[IndividualizedCancerVaccineManufacturing]], [[NeoantigenSelectionTradeoff]], and [[RecurrenceFreeSurvivalEndpoint]], while extending [[IndividualizedCancerVaccine]], [[CancerVaccinePlatform]], [[CancerImmuneRecognitionProblem]], [[TumorMicroenvironment]], [[AIClinicalValidationInDrugDiscovery]], [[Moderna]], and [[Merck]]. Its core synthesis is that the phase 3 RFS signal is a stronger platform validation than short cancer-vaccine headlines, but the public meaning still depends on postoperative melanoma fit, PD-1 comparator benefit, undisclosed HR/subgroups, OS and approval follow-through, CMC/QC, automation, cost, and access. No settled contradiction is recorded; the episode qualifies earlier optimism by moving the topic from cancer-vaccine promise to a validation-bound manufacturing and endpoint problem.",
+      "topic_scores": {
+        "ai-and-technology": 2
+      },
+      "wikilinks": [
+        "AIClinicalValidationInDrugDiscovery",
+        "AiboShengwu",
+        "BioNTech",
+        "CancerImmuneRecognitionProblem",
+        "CancerVaccinePlatform",
+        "IndividualizedCancerVaccine",
+        "IndividualizedCancerVaccineManufacturing",
+        "InterPath001",
+        "Merck",
+        "Moderna",
+        "NeoantigenSelectionTradeoff",
+        "RecurrenceFreeSurvivalEndpoint",
+        "SiliconValley101",
+        "TumorMicroenvironment",
+        "YingBo",
+        "e250-mrna-de-dier-zhanchang-duihua-yingbo-chaijie-moderna-renlei-shouge-zhongliu-yimiao-sanqi-tupo-73a69583-98ee-43d6-a892-3e7c93012dd9"
+      ]
+    },
     {
       "id": "b7d227f34bd447800f7c15293cda81af8f70b38685399e1a4c004367452b1d39",
       "primary_topic": "history-and-geopolitics",

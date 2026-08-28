@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 5805
+wiki_total_pages: 5808
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -158,6 +158,9 @@ wiki_pages:
   - key: "RecruitingSupplyStrategy"
     title: "Recruiting Supply Strategy"
     url: "/wiki/concepts/recruitingsupplystrategy/"
+  - key: "RecurrenceFreeSurvivalEndpoint"
+    title: "Recurrence-Free Survival Endpoint"
+    url: "/wiki/concepts/recurrencefreesurvivalendpoint/"
   - key: "RecurringSupplementCommerce"
     title: "Recurring Supplement Commerce"
     url: "/wiki/concepts/recurringsupplementcommerce/"
