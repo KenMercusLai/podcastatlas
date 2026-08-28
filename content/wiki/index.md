@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Bots on the ground: China leads humanoid race](sources/bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf.md) — The Intelligence episode on China's humanoid robot data race, Meta's teen-safety settlement, and Shakespeare and Company as a bookshop-mythology case.
 - [Meta's landmark social media settlement](sources/tech-20260828-0828-mp-tech-pod-128-tech-20260828-0828-mp-tech-pod-128.md) — Marketplace Tech episode with Anita Ramaswamy on Meta's proposed teen-safety settlement, Nvidia earnings and customer-financing concerns, custom AI chips, and EPA data-center air-permit participation.
 - [《资治通鉴·汉纪》832丨为领导背锅，他是傻还是智？](sources/zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq.md) — 芮淇讲透资治通鉴 episode on Chen Shi's blame-absorbing appointment responsibility, Taiqiu open petition governance, Zhong Hao's self-protection counsel to Zhong Jin, and Liang Na's return of power and death before the Liang-family transition.
 - [《资治通鉴·汉纪》833丨贪官能有多离谱？看完大跌眼镜！](sources/zizhi-tongjian-hanji-833-tanguan-neng-you-duo-lipu-kanwan-dadieyanjing-lqudlijjyqmcro-wsmrvwkodgt72.md) — 芮淇讲透资治通鉴 episode on 150 CE Liang Ji's honor expansion, Sun Shou's titled revenue, Qin Gong's household access brokerage, private estate coercion, rabbit-park deaths, and Sun Fen's confiscation case.
@@ -1646,6 +1647,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Beijing](entities/Beijing.md) — City context for the World Humanoid Robot Games and China's public humanoid robotics spectacle.
+- [Paris](entities/Paris.md) — City context for Shakespeare and Company's Left Bank location and hard-to-copy literary tourism formula.
+- [Alice Fullwood](entities/AliceFullwood.md) — The Intelligence speaker explaining Meta's teen social-media settlement, product remedies, and follow-on platform litigation incentives.
+- [Alexandra Suich Bass](entities/AlexandraSuichBass.md) — The Intelligence speaker explaining Shakespeare and Company's mix of literary history, mystique, ritual, and offline community.
+- [Shakespeare and Company](entities/ShakespeareAndCompany.md) — Paris English-language bookshop whose appeal combines literary inheritance, visitor ritual, scarcity, merchandise, events, and location.
+- [Sylvia Whitman](entities/SylviaWhitman.md) — Current owner of Shakespeare and Company in the episode's account of the shop's history and mythology.
+- [George Whitman](entities/GeorgeWhitman.md) — Founder of the current Shakespeare and Company, originally Le Mistral, and builder of its inherited literary mythology.
+- [Sylvia Beach](entities/SylviaBeach.md) — Earlier Paris bookseller whose Shakespeare and Company supplied the name and modernist literary inheritance for the current shop.
+- [Hubei Humanoid Innovation Center](entities/HubeiHumanoidInnovationCenter.md) — Wuhan robot training center with staged service, retail, pharmacy, and factory tasks for humanoid data collection.
+- [Tiangong Ultra](entities/TiangongUltra.md) — Humanoid robot cited in the Beijing games segment as both speed signal and reliability caution.
 - [Environmental Protection Agency](entities/EnvironmentalProtectionAgency.md) — U.S. environmental regulator whose source-described air-permit proposal makes public notice and comment a data-center governance issue.
 - [Poolside](entities/Poolside.md) — AI model maker named as an Nvidia investment example in Marketplace Tech's discussion of Nvidia expanding beyond chips.
 - [高伦 / Gao Lun (late Han)](entities/GaoLunLateHan.md) — Local superior pressured by Hou Lan's appointment request and later public witness to Chen Shi's blame-absorbing responsibility.
@@ -9799,6 +9810,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Robot Training Centers](concepts/RobotTrainingCenters.md) — Staged physical facilities that organize robots, humans, sensors, and repeatable tasks into real-world robot-data infrastructure.
+- [Egocentric Robot Data](concepts/EgocentricRobotData.md) — Human first-person sensor data collected through wearables to broaden robot training beyond costly real-machine operation.
 - [Data Center Air Permit Participation](concepts/DataCenterAirPermitParticipation.md) — Procedural frame for whether data-center air-pollution permits include public notice and comment even when emissions standards stay unchanged.
 - [揽过式责任承担 / Blame-Absorbing Responsibility](concepts/BlameAbsorbingResponsibility.md) — Responsibility pattern where a credible actor voluntarily takes visible fault to protect another person and stabilize a dangerous power situation.
 - [审慎含混式自保 / Prudent Ambiguity Self-Protection](concepts/PrudentAmbiguitySelfProtection.md) — Survival pattern where a person avoids sharp public moral sorting when a hostile political environment makes blunt judgment dangerous.

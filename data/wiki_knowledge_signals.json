@@ -1456,6 +1456,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/alextheatre/"
     },
+    "AlexandraSuichBass": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Bots on the ground： China leads humanoid race [6a91564cee851f3f31239bbf].md",
+          "key": "bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf",
+          "show": "Economist Podcasts",
+          "title": "Bots on the ground: China leads humanoid race",
+          "url": "/wiki/sources/bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/alexandrasuichbass/"
+    },
     "AlgorithmicTrustMigration": {
       "episode_count": 1,
       "show_count": 1,
@@ -1471,6 +1487,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/algorithmictrustmigration/"
+    },
+    "AliceFullwood": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Bots on the ground： China leads humanoid race [6a91564cee851f3f31239bbf].md",
+          "key": "bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf",
+          "show": "Economist Podcasts",
+          "title": "Bots on the ground: China leads humanoid race",
+          "url": "/wiki/sources/bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/alicefullwood/"
     },
     "AlphaFold": {
       "episode_count": 4,
@@ -2622,6 +2654,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/bedroomhomestayplatformtrust/"
     },
+    "Beijing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Bots on the ground： China leads humanoid race [6a91564cee851f3f31239bbf].md",
+          "key": "bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf",
+          "show": "Economist Podcasts",
+          "title": "Bots on the ground: China leads humanoid race",
+          "url": "/wiki/sources/bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/beijing/"
+    },
     "BerntBornich": {
       "episode_count": 1,
       "show_count": 1,
@@ -2859,6 +2907,43 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/bohaikingdomlatehan/"
+    },
+    "BookstoreSerendipity": {
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "EP258 我们如何重拾睡前读书？ [lobyZXqK2oaoV0v51cm355U8NoiX].md",
+          "key": "ep258-women-ruhe-chongshi-shuiqian-dushu-lobyzxqk2oaov0v51cm355u8noix",
+          "show": "Talk三联",
+          "title": "EP258 我们如何重拾睡前读书？",
+          "url": "/wiki/sources/ep258-women-ruhe-chongshi-shuiqian-dushu-lobyzxqk2oaov0v51cm355u8noix/"
+        },
+        {
+          "episode_file": "tech_20260417_0417_MP_TECH_pod_128 [tech_20260417_0417_MP_TECH_pod_128].md",
+          "key": "tech-20260417-0417-mp-tech-pod-128-tech-20260417-0417-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - AI companies divided over proposed state law, Amazon buys Globalstar, and Spotify to sell physical books",
+          "url": "/wiki/sources/tech-20260417-0417-mp-tech-pod-128-tech-20260417-0417-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "134.查令十字街84号：再次原谅世界的理由 [821075226].md",
+          "key": "134-chaling-shizi-jie-84-hao-zaici-yuanliang-shijie-de-liyou-821075226",
+          "show": "蜜獾吃书",
+          "title": "134.查令十字街84号：再次原谅世界的理由",
+          "url": "/wiki/sources/134-chaling-shizi-jie-84-hao-zaici-yuanliang-shijie-de-liyou-821075226/"
+        },
+        {
+          "episode_file": "Bots on the ground： China leads humanoid race [6a91564cee851f3f31239bbf].md",
+          "key": "bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf",
+          "show": "Economist Podcasts",
+          "title": "Bots on the ground: China leads humanoid race",
+          "url": "/wiki/sources/bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/bookstoreserendipity/"
     },
     "BostonDynamics": {
       "episode_count": 5,
@@ -6030,6 +6115,29 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/domesticbagsupplychainupgrade/"
     },
+    "DonWeinland": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Omission accomplished： why the Iran-war cycle spins on [6a6c7475aa1642a30f17f1cb].md",
+          "key": "omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb",
+          "show": "Economist Podcasts",
+          "title": "Omission accomplished: why the Iran-war cycle spins on",
+          "url": "/wiki/sources/omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb/"
+        },
+        {
+          "episode_file": "Bots on the ground： China leads humanoid race [6a91564cee851f3f31239bbf].md",
+          "key": "bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf",
+          "show": "Economist Podcasts",
+          "title": "Bots on the ground: China leads humanoid race",
+          "url": "/wiki/sources/bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/donweinland/"
+    },
     "DongYuanLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -6638,6 +6746,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/edwardheath/"
+    },
+    "EgocentricRobotData": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Bots on the ground： China leads humanoid race [6a91564cee851f3f31239bbf].md",
+          "key": "bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf",
+          "show": "Economist Podcasts",
+          "title": "Bots on the ground: China leads humanoid race",
+          "url": "/wiki/sources/bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/egocentricrobotdata/"
     },
     "ElanParadoxMachines": {
       "episode_count": 1,
@@ -8844,6 +8968,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/georgvonschonerer/"
     },
+    "GeorgeWhitman": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Bots on the ground： China leads humanoid race [6a91564cee851f3f31239bbf].md",
+          "key": "bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf",
+          "show": "Economist Podcasts",
+          "title": "Bots on the ground: China leads humanoid race",
+          "url": "/wiki/sources/bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/georgewhitman/"
+    },
     "GiftRefusalAsAuthority": {
       "episode_count": 2,
       "show_count": 1,
@@ -10630,6 +10770,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/huaweismartselectioncarmodel/"
     },
+    "HubeiHumanoidInnovationCenter": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Bots on the ground： China leads humanoid race [6a91564cee851f3f31239bbf].md",
+          "key": "bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf",
+          "show": "Economist Podcasts",
+          "title": "Bots on the ground: China leads humanoid race",
+          "url": "/wiki/sources/bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/hubeihumanoidinnovationcenter/"
+    },
     "HubermanLab": {
       "episode_count": 13,
       "show_count": 1,
@@ -10851,9 +11007,9 @@
       "url": "/wiki/concepts/humanelocalgovernance/"
     },
     "HumanoidRobotCommercialization": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 7,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "宇树上市暴涨，但人形机器人的钱到底从哪里赚？｜S10E26 [4a50d4a3-a6ff-4c89-b754-367b73ce924b].md",
@@ -10903,9 +11059,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "The $1/Hour Worker: Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680/"
+        },
+        {
+          "episode_file": "Bots on the ground： China leads humanoid race [6a91564cee851f3f31239bbf].md",
+          "key": "bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf",
+          "show": "Economist Podcasts",
+          "title": "Bots on the ground: China leads humanoid race",
+          "url": "/wiki/sources/bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-08-29",
       "url": "/wiki/concepts/humanoidrobotcommercialization/"
     },
     "HuoXuLateHan": {
@@ -11788,6 +11951,43 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/ithaca/"
+    },
+    "JDCom": {
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "Vans、匡威风光不再，经典帆布鞋为什么卖不动了？ [1006742982].md",
+          "key": "vans-kuangwei-fengguang-buzai-jingdian-fanbuxie-weishenme-maibudongle-1006742982",
+          "show": "声动早咖啡",
+          "title": "Vans、匡威风光不再，经典帆布鞋为什么卖不动了？",
+          "url": "/wiki/sources/vans-kuangwei-fengguang-buzai-jingdian-fanbuxie-weishenme-maibudongle-1006742982/"
+        },
+        {
+          "episode_file": "Vol.270 大食代留在了它的时代 [1006063835].md",
+          "key": "vol-270-da-shi-dai-liu-zai-le-ta-de-shi-dai-1006063835",
+          "show": "商业就是这样",
+          "title": "Vol.270 大食代留在了它的时代",
+          "url": "/wiki/sources/vol-270-da-shi-dai-liu-zai-le-ta-de-shi-dai-1006063835/"
+        },
+        {
+          "episode_file": "No.200 ⚔️ 电商三国之群雄逐鹿：腰挂公章、持剑拒签，以及 108 种死法 [974601500].md",
+          "key": "no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.200 电商三国之群雄逐鹿：腰挂公章、持剑拒签，以及 108 种死法",
+          "url": "/wiki/sources/no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500/"
+        },
+        {
+          "episode_file": "Bots on the ground： China leads humanoid race [6a91564cee851f3f31239bbf].md",
+          "key": "bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf",
+          "show": "Economist Podcasts",
+          "title": "Bots on the ground: China leads humanoid race",
+          "url": "/wiki/sources/bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/jdcom/"
     },
     "JayBhattacharya": {
       "episode_count": 3,
@@ -17399,6 +17599,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/parentalrepairafterharm/"
     },
+    "Paris": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Bots on the ground： China leads humanoid race [6a91564cee851f3f31239bbf].md",
+          "key": "bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf",
+          "show": "Economist Podcasts",
+          "title": "Bots on the ground: China leads humanoid race",
+          "url": "/wiki/sources/bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/paris/"
+    },
     "ParisForeignMissionsSociety": {
       "episode_count": 1,
       "show_count": 1,
@@ -17850,6 +18066,36 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/physicsstagnationclaim/"
+    },
+    "PlatformAgeEstimation": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "tech_20251226_1226_MP_TECH_pod_128 [tech_20251226_1226_MP_TECH_pod_128].md",
+          "key": "tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "How online age-gating laws went mainstream this year",
+          "url": "/wiki/sources/tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260424_0424_MP_TECH_pod_128 [tech_20260424_0424_MP_TECH_pod_128].md",
+          "key": "tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Apple's new CEO, Meta's latest AI play, and Roblox's safety updates",
+          "url": "/wiki/sources/tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "Bots on the ground： China leads humanoid race [6a91564cee851f3f31239bbf].md",
+          "key": "bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf",
+          "show": "Economist Podcasts",
+          "title": "Bots on the ground: China leads humanoid race",
+          "url": "/wiki/sources/bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/platformageestimation/"
     },
     "PoliticalAccentPrestige": {
       "episode_count": 1,
@@ -18655,6 +18901,78 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/raybansmartglasses/"
     },
+    "RealRobotDataStrategy": {
+      "episode_count": 9,
+      "show_count": 5,
+      "source_note_count": 9,
+      "sources": [
+        {
+          "episode_file": "E244｜端到端vs上下分层：机器人路径之争，正在转向？ [fc9a3737-81a9-49cf-a7d6-530c77df836e].md",
+          "key": "e244-duan-dao-duan-vs-shangxia-fenceng-jiqiren-lujing-zhizheng-zhengzai-zhuanxiang-fc9a3737-81a9-49cf-a7d6-530c77df836e",
+          "show": "硅谷101",
+          "title": "E244｜端到端vs上下分层：机器人路径之争，正在转向？",
+          "url": "/wiki/sources/e244-duan-dao-duan-vs-shangxia-fenceng-jiqiren-lujing-zhizheng-zhengzai-zhuanxiang-fc9a3737-81a9-49cf-a7d6-530c77df836e/"
+        },
+        {
+          "episode_file": "从会跳舞到有感知，触觉是机器人通往智能的门票吗？｜ S10E19 [f448a656-3004-430b-a853-79d1e77dcb53].md",
+          "key": "cong-hui-tiaowu-dao-you-ganzhi-chujue-shi-jiqiren-tongwang-zhineng-de-menpiao-ma-s10e19-f448a656-3004-430b-a853-79d1e77dcb53",
+          "show": "What's Next｜科技早知道",
+          "title": "从会跳舞到有感知，触觉是机器人通往智能的门票吗？｜ S10E19",
+          "url": "/wiki/sources/cong-hui-tiaowu-dao-you-ganzhi-chujue-shi-jiqiren-tongwang-zhineng-de-menpiao-ma-s10e19-f448a656-3004-430b-a853-79d1e77dcb53/"
+        },
+        {
+          "episode_file": "【具身季报 26Q2】世界模型大风不停，和不想被贴标签的人 (1) [170-1].md",
+          "key": "jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1",
+          "show": "晚点聊 LateTalk",
+          "title": "170: 【具身季报 26Q2】世界模型大风不停，和不想被贴标签的人",
+          "url": "/wiki/sources/jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1/"
+        },
+        {
+          "episode_file": "132. 对星海图创始人高继扬的3小时访谈：鲶鱼、曾国藩、Waymo与Momenta的两面、一只狼与许华哲的离开 [lplNqS9I0z2b64zp9zF2h6EkhXjr].md",
+          "key": "132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "132. 对星海图创始人高继扬的3小时访谈：鲶鱼、曾国藩、Waymo与Momenta的两面、一只狼与许华哲的离开",
+          "url": "/wiki/sources/132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan/"
+        },
+        {
+          "episode_file": "134. 【数据的综述】和谢晨聊，新时代的石油、历史、版图、数据金字塔、定价与Recipe [lkInPy65_ZR4cQmK23rmHJ_hhLVQ].md",
+          "key": "134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "134. 【数据的综述】和谢晨聊，新时代的石油、历史、版图、数据金字塔、定价与Recipe",
+          "url": "/wiki/sources/134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe/"
+        },
+        {
+          "episode_file": "许华哲再次具身创业：不想错过最大的西瓜 (1) [166-1].md",
+          "key": "166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1",
+          "show": "晚点聊 LateTalk",
+          "title": "166: 许华哲再次具身创业：不想错过最大的西瓜",
+          "url": "/wiki/sources/166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1/"
+        },
+        {
+          "episode_file": "146. 对Physical Intelligence柯丽一鸣4小时访谈：Pi的开源模型研究，机器人的江湖、族谱与主角 [ljmazvdvAd7O5mD-Nuiompd6_1NV].md",
+          "key": "146-dui-physical-intelligence-ke-li-yiming-4-xiaoshi-fangtan-pi-de-kaiyuan-moxing-yanjiu-jiqiren-de-jianghu-zupu-yu-zhujiao-ljmazvdvad7o5md-nuiompd6-1nv",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "146. 对Physical Intelligence柯丽一鸣4小时访谈：Pi的开源模型研究，机器人的江湖、族谱与主角",
+          "url": "/wiki/sources/146-dui-physical-intelligence-ke-li-yiming-4-xiaoshi-fangtan-pi-de-kaiyuan-moxing-yanjiu-jiqiren-de-jianghu-zupu-yu-zhujiao-ljmazvdvad7o5md-nuiompd6-1nv/"
+        },
+        {
+          "episode_file": "147. 和蚂蚁灵波沈宇军聊：机器人原生基础模型、大脑和本体的关系、预训练与数据scale up、老师汤晓鸥 [luXTyuAfi_2ONiM15fW6Lpypo2GA].md",
+          "key": "147-he-mayi-lingbo-shenyujun-liao-jiqiren-yuansheng-jichu-moxing-danao-he-benti-de-guanxi-yuxunlian-yu-shuju-scale-up-laoshi-tangxiaoou-luxtyuafi-2onim15fw6lpypo2ga",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "147. 和蚂蚁灵波沈宇军聊：机器人原生基础模型、大脑和本体的关系、预训练与数据scale up、老师汤晓鸥",
+          "url": "/wiki/sources/147-he-mayi-lingbo-shenyujun-liao-jiqiren-yuansheng-jichu-moxing-danao-he-benti-de-guanxi-yuxunlian-yu-shuju-scale-up-laoshi-tangxiaoou-luxtyuafi-2onim15fw6lpypo2ga/"
+        },
+        {
+          "episode_file": "Bots on the ground： China leads humanoid race [6a91564cee851f3f31239bbf].md",
+          "key": "bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf",
+          "show": "Economist Podcasts",
+          "title": "Bots on the ground: China leads humanoid race",
+          "url": "/wiki/sources/bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/realrobotdatastrategy/"
+    },
     "RecognitionBackedFrontierDiplomacy": {
       "episode_count": 4,
       "show_count": 1,
@@ -19260,6 +19578,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/robotteleoperationandremotetakeover/"
+    },
+    "RobotTrainingCenters": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Bots on the ground： China leads humanoid race [6a91564cee851f3f31239bbf].md",
+          "key": "bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf",
+          "show": "Economist Podcasts",
+          "title": "Bots on the ground: China leads humanoid race",
+          "url": "/wiki/sources/bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/robottrainingcenters/"
     },
     "RomanceOfTheThreeKingdoms": {
       "episode_count": 4,
@@ -19890,6 +20224,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/shakeshack/"
     },
+    "ShakespeareAndCompany": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Bots on the ground： China leads humanoid race [6a91564cee851f3f31239bbf].md",
+          "key": "bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf",
+          "show": "Economist Podcasts",
+          "title": "Bots on the ground: China leads humanoid race",
+          "url": "/wiki/sources/bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/shakespeareandcompany/"
+    },
     "ShanBingLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -20510,9 +20860,9 @@
       "url": "/wiki/concepts/socialemotioninferencelimits/"
     },
     "SocialMediaProductLiability": {
-      "episode_count": 10,
-      "show_count": 2,
-      "source_note_count": 10,
+      "episode_count": 11,
+      "show_count": 3,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's Generational Run, OpenAI Panics, AI Moats, Meta Loses Lawsuits [40647420].md",
@@ -20583,9 +20933,16 @@
           "show": "Marketplace Tech",
           "title": "Meta's landmark social media settlement",
           "url": "/wiki/sources/tech-20260828-0828-mp-tech-pod-128-tech-20260828-0828-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "Bots on the ground： China leads humanoid race [6a91564cee851f3f31239bbf].md",
+          "key": "bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf",
+          "show": "Economist Podcasts",
+          "title": "Bots on the ground: China leads humanoid race",
+          "url": "/wiki/sources/bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-29",
       "url": "/wiki/concepts/socialmediaproductliability/"
     },
     "SongChongLateHan": {
@@ -21551,6 +21908,38 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/sweeteneruncertainty/"
     },
+    "SylviaBeach": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Bots on the ground： China leads humanoid race [6a91564cee851f3f31239bbf].md",
+          "key": "bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf",
+          "show": "Economist Podcasts",
+          "title": "Bots on the ground: China leads humanoid race",
+          "url": "/wiki/sources/bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/sylviabeach/"
+    },
+    "SylviaWhitman": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Bots on the ground： China leads humanoid race [6a91564cee851f3f31239bbf].md",
+          "key": "bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf",
+          "show": "Economist Podcasts",
+          "title": "Bots on the ground: China leads humanoid race",
+          "url": "/wiki/sources/bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/sylviawhitman/"
+    },
     "SymptomDrivenSpineCare": {
       "episode_count": 1,
       "show_count": 1,
@@ -22418,6 +22807,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/tianyulatehan/"
+    },
+    "TiangongUltra": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Bots on the ground： China leads humanoid race [6a91564cee851f3f31239bbf].md",
+          "key": "bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf",
+          "show": "Economist Podcasts",
+          "title": "Bots on the ground: China leads humanoid race",
+          "url": "/wiki/sources/bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/tiangongultra/"
     },
     "TimUrban": {
       "episode_count": 1,

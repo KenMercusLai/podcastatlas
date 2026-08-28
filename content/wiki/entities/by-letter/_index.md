@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 8149
+wiki_total_pages: 8159
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -479,6 +479,9 @@ wiki_pages:
   - key: "AlexandraRavello"
     title: "Alexandra Ravello"
     url: "/wiki/entities/alexandraravello/"
+  - key: "AlexandraSuichBass"
+    title: "Alexandra Suich Bass"
+    url: "/wiki/entities/alexandrasuichbass/"
   - key: "AlexandrosPanagoulis"
     title: "Alexandros Panagoulis / 亚历山德罗斯·帕纳古利斯"
     url: "/wiki/entities/alexandrospanagoulis/"
@@ -533,6 +536,9 @@ wiki_pages:
   - key: "AliceEvans"
     title: "Alice Evans"
     url: "/wiki/entities/aliceevans/"
+  - key: "AliceFullwood"
+    title: "Alice Fullwood"
+    url: "/wiki/entities/alicefullwood/"
   - key: "AliceGuyBlache"
     title: "Alice Guy-Blache / 艾丽斯·盖-布兰奇"
     url: "/wiki/entities/aliceguyblache/"

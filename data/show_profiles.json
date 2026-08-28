@@ -296,8 +296,8 @@
       "earliest_episode_date": "2026-02-09",
       "latest_episode_date": "2026-08-28",
       "latest_episode_file": "Bots on the ground： China leads humanoid race [6a91564cee851f3f31239bbf].md",
-      "source_note_count": 61,
-      "topic_matched_source_note_count": 58,
+      "source_note_count": 62,
+      "topic_matched_source_note_count": 59,
       "topics": [
         {
           "key": "politics",
@@ -309,13 +309,13 @@
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 19
+          "source_note_count": 20
         },
         {
           "key": "culture",
           "label": "Culture",
           "url": "/topics/culture/",
-          "source_note_count": 19
+          "source_note_count": 20
         },
         {
           "key": "economics",
@@ -384,9 +384,9 @@
       ],
       "start_here_episode_files": [
         "Even-more-maximum pressure： sanctions on Iran [6a8d6a9b66c4a1e81a4c86a9].md",
-        "Slip the surly bonds？ Scott Bessent goes on a yield trip [6a8eb9200c15e359f9599e1a].md",
-        "Big shot： does a cancer vaccine work？ [6a9001f40c15e359f9cb103c].md",
-        "Elbows up, again： a US-Canada trade flare-up [6a8c0fa3a89d26398ee7a5db].md"
+        "Bots on the ground： China leads humanoid race [6a91564cee851f3f31239bbf].md",
+        "Elbows up, again： a US-Canada trade flare-up [6a8c0fa3a89d26398ee7a5db].md",
+        "Big shot： does a cancer vaccine work？ [6a9001f40c15e359f9cb103c].md"
       ]
     },
     "How I Built This with Guy Raz": {

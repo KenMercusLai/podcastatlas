@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 8149
+wiki_total_pages: 8159
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -566,6 +566,9 @@ wiki_pages:
   - key: "Hubei"
     title: "Hubei / 湖北"
     url: "/wiki/entities/hubei/"
+  - key: "HubeiHumanoidInnovationCenter"
+    title: "Hubei Humanoid Innovation Center"
+    url: "/wiki/entities/hubeihumanoidinnovationcenter/"
   - key: "HubermanLab"
     title: "Huberman Lab"
     url: "/wiki/entities/hubermanlab/"

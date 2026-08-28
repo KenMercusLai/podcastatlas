@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 8149
+wiki_total_pages: 8159
 wiki_pages:
   - key: "BSpecials"
     title: "B Specials"
@@ -197,6 +197,9 @@ wiki_pages:
   - key: "BeiGene"
     title: "BeiGene / 百济神州"
     url: "/wiki/entities/beigene/"
+  - key: "Beijing"
+    title: "Beijing"
+    url: "/wiki/entities/beijing/"
   - key: "BeijingEnterprises"
     title: "Beijing Enterprises / 北京控股"
     url: "/wiki/entities/beijingenterprises/"

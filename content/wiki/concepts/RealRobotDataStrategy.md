@@ -2,49 +2,62 @@
 title: "Real Robot Data Strategy"
 type: concept
 tags: [robotics, data, models]
-sources: [e244-duan-dao-duan-vs-shangxia-fenceng-jiqiren-lujing-zhizheng-zhengzai-zhuanxiang-fc9a3737-81a9-49cf-a7d6-530c77df836e, cong-hui-tiaowu-dao-you-ganzhi-chujue-shi-jiqiren-tongwang-zhineng-de-menpiao-ma-s10e19-f448a656-3004-430b-a853-79d1e77dcb53, jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, 132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe, 166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1, 146-dui-physical-intelligence-ke-li-yiming-4-xiaoshi-fangtan-pi-de-kaiyuan-moxing-yanjiu-jiqiren-de-jianghu-zupu-yu-zhujiao-ljmazvdvad7o5md-nuiompd6-1nv, 147-he-mayi-lingbo-shenyujun-liao-jiqiren-yuansheng-jichu-moxing-danao-he-benti-de-guanxi-yuxunlian-yu-shuju-scale-up-laoshi-tangxiaoou-luxtyuafi-2onim15fw6lpypo2ga]
-last_updated: 2026-08-07
+sources:
+  - e244-duan-dao-duan-vs-shangxia-fenceng-jiqiren-lujing-zhizheng-zhengzai-zhuanxiang-fc9a3737-81a9-49cf-a7d6-530c77df836e
+  - cong-hui-tiaowu-dao-you-ganzhi-chujue-shi-jiqiren-tongwang-zhineng-de-menpiao-ma-s10e19-f448a656-3004-430b-a853-79d1e77dcb53
+  - jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1
+  - 132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan
+  - 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe
+  - 166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1
+  - 146-dui-physical-intelligence-ke-li-yiming-4-xiaoshi-fangtan-pi-de-kaiyuan-moxing-yanjiu-jiqiren-de-jianghu-zupu-yu-zhujiao-ljmazvdvad7o5md-nuiompd6-1nv
+  - 147-he-mayi-lingbo-shenyujun-liao-jiqiren-yuansheng-jichu-moxing-danao-he-benti-de-guanxi-yuxunlian-yu-shuju-scale-up-laoshi-tangxiaoou-luxtyuafi-2onim15fw6lpypo2ga
+  - bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf
+last_updated: 2026-08-29
+knowledge_schema: synthesis-v1
 ---
 
 # Real Robot Data Strategy
 
-Real robot data strategy is the approach to robot model training described by [[GaoJiyang]] in [[132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan]]. He argues that useful embodied intelligence should be trained as much as possible on target-domain data, while still experimenting with simulation, teleoperation, human-centric data, point-of-view data, third-person video, and other sources.
+## Definition
+Real robot data strategy is the discipline of collecting, selecting, cleaning, pricing, and combining physical-world data so robot models can learn actions that transfer to real robot bodies and real environments.
 
-[[134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe]] qualifies this view through [[XieChen]]. He agrees that real robot data is valuable, but argues it can be overestimated when treated as the main scalable path; in his [[EmbodiedDataPyramid]], real robot data is the top layer because it is accurate, expensive, and hard to scale.
+## Current Synthesis
+The bounded sources do not support a simple "more real data wins" rule. Real machine data remains the most grounded evidence because it includes embodiment, sensor noise, contact, failure, and control consequences, but it is expensive, scarce, body-specific, and hard to scale without deployed fleets. The practical synthesis is a recipe problem: real-machine data, teleoperation, robot-owned experience, egocentric human sensor data, first-person video, structured 3D data, tactile data, simulation, and task design have to be matched to the robot body and capability being trained.
 
-[[jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1]] adds [[EmbodiedRobotDataParadigms]] as the time-varying version of the data problem. [[ChenZhePeter]] traces shifts from Aloha-style real-robot teleoperation to UMI body-free collection, egocentric video, whole-body motion capture, and dexterous-hand data, arguing that each model-route change depends on a new way to collect relevant physical experience.
-
-[[cong-hui-tiaowu-dao-you-ganzhi-chujue-shi-jiqiren-tongwang-zhineng-de-menpiao-ma-s10e19-f448a656-3004-430b-a853-79d1e77dcb53]] adds [[EricLiZhiqiang]]'s tactile-data version. He says real machine data is best but may only be 10-20% of the recipe because collection is costly and scarce; [[YimuTechnology]] therefore combines real [[TactileSensing]] data, simulation with [[OpticalTactileSensing]], and large-scale video pretraining before aligning touch with robot actions.
-
-[[166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1]] adds [[XuHuazhe]]'s household-robot version. He expects more video data to enter robot training, says teleoperation can show progress but may not be the final data source, and argues that failure data or suboptimal data should be used selectively rather than discarded or mixed blindly.
-
-[[e244-duan-dao-duan-vs-shangxia-fenceng-jiqiren-lujing-zhizheng-zhengzai-zhuanxiang-fc9a3737-81a9-49cf-a7d6-530c77df836e]] adds [[HanZheng]]'s sharper critique of real-data scaling. He argues that robots do not yet have a Tesla-like deployed fleet, and that asking users to teleoperate household robots at massive scale is not a realistic substitute. The source therefore treats real robot data as necessary validation and adaptation data, not as the sole source of [[OpenWorldRobotManipulation]].
-
-[[146-dui-physical-intelligence-ke-li-yiming-4-xiaoshi-fangtan-pi-de-kaiyuan-moxing-yanjiu-jiqiren-de-jianghu-zupu-yu-zhujiao-ljmazvdvad7o5md-nuiompd6-1nv]] adds [[KPhysicalIntelligence|K]]'s [[RobotExperienceData]] distinction. Human teleoperation data can start a policy, but π0.6* uses robot-owned attempts, failures, and correction traces so [[RobotReinforcementLearning]] can improve task throughput on real machines.
-
-[[147-he-mayi-lingbo-shenyujun-liao-jiqiren-yuansheng-jichu-moxing-danao-he-benti-de-guanxi-yuxunlian-yu-shuju-scale-up-laoshi-tangxiaoou-luxtyuafi-2onim15fw6lpypo2ga]] adds [[ShenYujun|沈宇军]]'s [[AntLingbo|蚂蚁灵波]] version. Shen favors real-machine data for training because it contains real sensor noise, embodiment, and execution distribution, but he also says scale depends on task design, cross-body cleaning, first-person human data, and whether the resulting data is usable by [[EmbodiedNativeFoundationModels]].
+The newest source makes the scale problem concrete through China. [[RobotTrainingCenters]] can stage coffee, pharmacy, grocery, and factory tasks for human-robot pairs, while [[JDCom|JD.com / 京东]] tries to collect large volumes of [[EgocentricRobotData]] from workers and outside participants. That strengthens the case that data infrastructure may become a national and corporate asset, while preserving earlier cautions that millions of hours are valuable only if the data is usable for models and deployment.
 
 ## Key Claims
-- Traditional graphics simulation can have a large sim-to-real gap, so it should not be assumed to replace real robot operation data.
-- Data cost has to be counted together with training cost and engineer cost; low-quality data can waste the expensive parts of the stack.
-- The right "data recipe" is empirical: different data types may help, but their proportions have to be discovered through experiments.
-- Scaling real data requires entering real scenes and distributing collection devices or robots widely enough for the data to compound.
-- Robotics lacks the autonomous-driving-style installed fleet that would make passive real-world data collection cheap and broad.
-- Dexterous-hand data is especially body-specific: hand geometry, motors, degrees of freedom, and sensors can make retargeting across hardware difficult.
-- Tactile data adds force, deformation, friction, and slip signals that visual data does not contain, but it must be processed quickly enough for real-time correction.
-- [[UnifiedRobotModels]] require data selection, not only data volume, because post-training can otherwise improve fixed tasks while shrinking generalization.
-- [[RobotExperienceData]] is valuable because it binds action, failure, correction, and embodiment in the robot's own hardware rather than only in human demonstrations.
-- [[RobotDataScaleUp]] is not raw recording volume: camera placement, body configuration, task coverage, data cleaning, and model usability decide whether additional hours improve generalization.
+- Real-machine data is valuable because it captures actual embodiment, sensor noise, contact, failures, and execution distributions.
+- Real robot data is not automatically scalable; cost, robot availability, task design, body variation, and cleaning pipelines determine whether new hours improve capability.
+- Simulation and structured 3D data remain important because the physical world contains geometry, material, friction, parts, and future-state dynamics that ordinary video cannot fully capture.
+- Human-centric data, including first-person video and [[EgocentricRobotData]], can broaden scene coverage but still needs transfer into robot-body action.
+- Robot-owned experience data is distinct from human demonstration because it records the robot's own attempts, corrections, and throughput limits.
+- Tactile and dexterous-hand data are especially hardware-specific, so data recipes must account for sensors, degrees of freedom, latency, and retargeting.
+- National-scale or company-scale collection infrastructure can accelerate robotics, but it also risks confusing raw hours with grounded, model-usable physical experience.
 
-## Connections
-- [[PhysicalWorldDataFlywheel]] — larger loop that turns data into product improvement.
-- [[Xinghaitu]], [[GaoJiyang]], and [[VisionLanguageActionModels]] — source company, speaker, and model route.
-- [[CausalWorldModels]] and [[WorldModels]] — adjacent model directions where data quality and physical grounding also matter.
-- [[EmbodiedAI]] — broader field where real-world distribution shift makes data strategy central.
-- [[XieChen]], [[GuanglunIntelligence]], [[EmbodiedDataPyramid]], and [[RoboticsSimulationEvaluation]] — source and concepts that put real robot data inside a simulation-centered data loop.
-- [[EmbodiedRobotDataParadigms]], [[RobotTeleoperationAndRemoteTakeover]], [[DexterousManipulation]], and [[Generalist]] — new data-collection and body-specific-data layer from the LateTalk source.
-- [[YimuTechnology]], [[TactileSensing]], [[OpticalTactileSensing]], [[TouchNet]], and [[TactileTransformerEncoder]] — tactile real-data and model-interface layer added by the What's Next source.
-- [[PokeRobotics]], [[XuHuazhe]], [[AINativeRobotics]], [[UnifiedRobotModels]], and [[RobotActiveUseMetrics]] — household-robot data route added by episode 166.
-- [[SuduTechnology]], [[Structured3DRobotData]], [[Sim2Real]], and [[OpenWorldRobotManipulation]] — E244's critique of real-data-only scaling.
-- [[PhysicalIntelligence]], [[PhysicalIntelligencePiSeries]], [[RobotExperienceData]], and [[RobotReinforcementLearning]] — experience-data and performance-improvement route added by episode 146.
-- [[AntLingbo]], [[ShenYujun]], [[RobotDataScaleUp]], and [[EmbodiedNativeFoundationModels]] — real-machine-heavy data-scaling route added by episode 147.
+## Evidence
+- Real-data and whole-machine evidence: [[132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan]] argues that the robot body is both product and data carrier, while still treating simulation, UMI-style collection, third-person data, and human-centric data as experimental ingredients.
+- Simulation and recipe evidence: [[134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe]] places real robot data at the valuable but costly top of an embodied data pyramid and argues for simulation, evaluation, and data-recipe co-creation.
+- Structured manipulation evidence: [[e244-duan-dao-duan-vs-shangxia-fenceng-jiqiren-lujing-zhizheng-zhengzai-zhuanxiang-fc9a3737-81a9-49cf-a7d6-530c77df836e]] says robots lack a Tesla-like deployed fleet and need structured 3D data, sim-to-real work, and low-level manipulation primitives for open-world tasks.
+- Paradigm-shift evidence: [[jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1]] and [[147-he-mayi-lingbo-shenyujun-liao-jiqiren-yuansheng-jichu-moxing-danao-he-benti-de-guanxi-yuxunlian-yu-shuju-scale-up-laoshi-tangxiaoou-luxtyuafi-2onim15fw6lpypo2ga]] show data collection shifting across Aloha-style teleoperation, UMI, egocentric video, whole-body motion capture, dexterous hands, and cross-body cleaning.
+- Tactile-data evidence: [[cong-hui-tiaowu-dao-you-ganzhi-chujue-shi-jiqiren-tongwang-zhineng-de-menpiao-ma-s10e19-f448a656-3004-430b-a853-79d1e77dcb53]] argues that touch data can supply force, deformation, friction, and slip signals unavailable to vision alone, while still using simulation and video pretraining.
+- Household and experience evidence: [[166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1]] and [[146-dui-physical-intelligence-ke-li-yiming-4-xiaoshi-fangtan-pi-de-kaiyuan-moxing-yanjiu-jiqiren-de-jianghu-zupu-yu-zhujiao-ljmazvdvad7o5md-nuiompd6-1nv]] emphasize selective video data, failure data, robot-owned attempts, reinforcement learning, and throughput as data-quality tests.
+- China infrastructure evidence: [[bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf]] reports robot training centers, human-robot task stations, hourly training costs, and JD.com's plan to collect large-scale sensor-wearer movement data.
+
+## Counterevidence & Qualifications
+The sources disagree on weighting rather than on the existence of the bottleneck. Gao Jiyang and Shen Yujun lean toward real-machine grounding, Xie Chen stresses simulation and data recipes because real data is too costly to scale alone, and Han Zheng argues that structured 3D and layered manipulation may be necessary for generalization. The newest source's large-hour targets and training-center counts should not be read as proof of capability; the data still has to cover the right tasks, bodies, sensors, failures, and deployment conditions.
+
+## What Changed
+- Migrated the legacy page to the synthesis-v1 concept schema.
+- Added China's robot-training-center buildout as a concrete real-machine data infrastructure case.
+- Added JD.com's mass sensor-wearer plan as an egocentric data-scale strategy.
+- Rebalanced the synthesis away from source-by-source accumulation toward a data-recipe view.
+
+## Related Concepts
+- [[RobotDataScaleUp]] - broader scale problem behind embodied foundation models.
+- [[RobotTrainingCenters]] - staged real-machine collection infrastructure added by the newest source.
+- [[EgocentricRobotData]] - human first-person sensor data that can broaden physical-task coverage.
+- [[EmbodiedRobotDataParadigms]] - changing collection methods that make different robot-model routes possible.
+- [[RoboticsSimulationEvaluation]] - simulation and evaluation route that complements expensive real-machine collection.
+- [[RobotExperienceData]] - robot-owned attempts, failures, and corrections as a distinct data source.
+- [[PhysicalWorldDataFlywheel]] - product-deployment loop that would make real-world robot data compound.

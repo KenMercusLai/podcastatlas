@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 8149
+wiki_total_pages: 8159
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -71,6 +71,9 @@ wiki_pages:
   - key: "PareshDave"
     title: "Paresh Dave"
     url: "/wiki/entities/pareshdave/"
+  - key: "Paris"
+    title: "Paris"
+    url: "/wiki/entities/paris/"
   - key: "ParisLOreal"
     title: "Paris L'Oreal / 巴黎欧莱雅"
     url: "/wiki/entities/parisloreal/"

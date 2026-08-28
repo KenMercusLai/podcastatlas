@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 8149
+wiki_total_pages: 8159
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -491,6 +491,9 @@ wiki_pages:
   - key: "TianYuandong"
     title: "Tian Yuandong / 田渊栋"
     url: "/wiki/entities/tianyuandong/"
+  - key: "TiangongUltra"
+    title: "Tiangong Ultra"
+    url: "/wiki/entities/tiangongultra/"
   - key: "TianjieJack"
     title: "Tianjie Jack"
     url: "/wiki/entities/tianjiejack/"

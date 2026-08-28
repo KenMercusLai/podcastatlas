@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1988
+topic_total_pages: 1989
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3356,6 +3356,9 @@ topic_entities:
   - key: "AliKhamenei"
     title: "Ali Khamenei"
     url: "/wiki/entities/alikhamenei/"
+  - key: "AliceFullwood"
+    title: "Alice Fullwood"
+    url: "/wiki/entities/alicefullwood/"
   - key: "AmandaFisher"
     title: "Amanda Fisher"
     url: "/wiki/entities/amandafisher/"

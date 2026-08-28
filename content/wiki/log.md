@@ -13128,3 +13128,11 @@ Ingested the Marketplace Tech episode on Meta's proposed teen-safety settlement,
 ## [2026-08-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-29] ingest | Bots on the ground: China leads humanoid race
+
+Ingested The Intelligence episode on China's humanoid robotics data race, Meta's teen social-media settlement, and Shakespeare and Company. Created the source note, Alice Fullwood, Alexandra Suich Bass, Shakespeare and Company, Sylvia Whitman, George Whitman, Sylvia Beach, Hubei Humanoid Innovation Center, Tiangong Ultra, Beijing, Paris, Robot Training Centers, and Egocentric Robot Data pages; updated Don Weinland, JD.com, Humanoid Robot Commercialization, Real Robot Data Strategy, Social Media Product Liability, Platform Age Estimation, Bookstore Serendipity, index, and overview. Source-level tensions were recorded on exact Meta settlement totals and France's social-media age-ban status.
+
+## [2026-08-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

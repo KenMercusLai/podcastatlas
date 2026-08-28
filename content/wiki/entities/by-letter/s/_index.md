@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 8149
+wiki_total_pages: 8159
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -422,6 +422,9 @@ wiki_pages:
   - key: "ShakeShack"
     title: "Shake Shack"
     url: "/wiki/entities/shakeshack/"
+  - key: "ShakespeareAndCompany"
+    title: "Shakespeare and Company"
+    url: "/wiki/entities/shakespeareandcompany/"
   - key: "ShamrockTexas"
     title: "Shamrock, Texas"
     url: "/wiki/entities/shamrocktexas/"
@@ -1298,6 +1301,12 @@ wiki_pages:
   - key: "SydneyBrounstone"
     title: "Sydney Brounstone"
     url: "/wiki/entities/sydneybrounstone/"
+  - key: "SylviaBeach"
+    title: "Sylvia Beach"
+    url: "/wiki/entities/sylviabeach/"
+  - key: "SylviaWhitman"
+    title: "Sylvia Whitman"
+    url: "/wiki/entities/sylviawhitman/"
   - key: "Symbian"
     title: "Symbian"
     url: "/wiki/entities/symbian/"

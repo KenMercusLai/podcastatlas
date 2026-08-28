@@ -337,12 +337,13 @@
       "80ebfc1ef682d46f5ad0ddee6b5400db9cc377226e9bae3529738d33d47cad41",
       "ffc63951f0c9ebb1bdb0d92982d5f65f57bbe4a7f7a359f38dcd33423bb288c2",
       "41cadfb91ef6894bc7d9cd5c4e55012480b0225b71a6a027d18e9565e8357c0c",
-      "d589a53c87e197a55033f79a64a0ec3a258b8cbc050ee0e70dcc6388df48a243"
+      "d589a53c87e197a55033f79a64a0ec3a258b8cbc050ee0e70dcc6388df48a243",
+      "d1f646e5bf1b4d8ffacc0ab20b061981669bb0224547423965eb90e6e064e966"
     ],
-    "paragraph_count": 337
+    "paragraph_count": 338
   },
-  "overview_commit": "ae1818540422e2b8fc7b5a3c5b58d000983af286",
-  "overview_digest": "e26e8b2f9e980a906fb4b76a68c4f68aa5dde78931fc3b658fbc77af48c78ecc",
+  "overview_commit": "32f89b5c930887200778f5d454a58d330fa6e893",
+  "overview_digest": "1158732e820030939ef990079ac1e52a8c6f9feee974e074fc81c04e49b08d16",
   "paragraphs": [
     {
       "id": "173cffd82684364e6afbfd09781ea6e0ff2f8dcebc676e8b4728d1bd8798d8d1",
@@ -10446,6 +10447,49 @@
         "PsychiatricMedicationSupervisionBoundary",
         "SleepAsDailyHealthAccount",
         "essentials-the-science-treatment-of-bipolar-disorder-scim8821948371"
+      ]
+    },
+    {
+      "id": "d1f646e5bf1b4d8ffacc0ab20b061981669bb0224547423965eb90e6e064e966",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "ai-and-technology",
+        "governance-and-institutions"
+      ],
+      "text": "The latest addition is [[bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf|Bots on the ground: China leads humanoid race]], a [[TheIntelligence]] episode on [[China]]'s humanoid robot data race, [[Meta]]'s teen social-media settlement, and [[ShakespeareAndCompany]] in Paris. It adds [[AliceFullwood]], [[AlexandraSuichBass]], [[ShakespeareAndCompany]], [[SylviaWhitman]], [[GeorgeWhitman]], [[SylviaBeach]], [[HubeiHumanoidInnovationCenter]], [[TiangongUltra]], [[Beijing]], [[Paris]], [[RobotTrainingCenters]], and [[EgocentricRobotData]], while extending [[DonWeinland]], [[JDCom|JD.com / 京东]], [[HumanoidRobotCommercialization]], [[RealRobotDataStrategy]], [[SocialMediaProductLiability]], [[PlatformAgeEstimation]], and [[BookstoreSerendipity]]. Its core synthesis is that embodied AI and platform regulation are becoming infrastructure problems: China can build training centers and mobilize sensor-wearers faster than many rivals, but useful humanoids still need grounded data, cost discipline, and real tasks; Meta's settlement converts youth-harm litigation into default product restrictions; and Shakespeare and Company shows how physical retail can defend attention through place, ritual, myth, and community. Source-level tensions are preserved on exact Meta settlement totals and on France's social-media age-ban status.",
+      "topic_scores": {
+        "ai-and-technology": 2,
+        "business-and-markets": 3,
+        "culture-and-media": 1,
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AlexandraSuichBass",
+        "AliceFullwood",
+        "Beijing",
+        "BookstoreSerendipity",
+        "China",
+        "DonWeinland",
+        "EgocentricRobotData",
+        "GeorgeWhitman",
+        "HubeiHumanoidInnovationCenter",
+        "HumanoidRobotCommercialization",
+        "JDCom",
+        "Meta",
+        "Paris",
+        "PlatformAgeEstimation",
+        "RealRobotDataStrategy",
+        "RobotTrainingCenters",
+        "ShakespeareAndCompany",
+        "SocialMediaProductLiability",
+        "SylviaBeach",
+        "SylviaWhitman",
+        "TheIntelligence",
+        "TiangongUltra",
+        "bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf"
       ]
     }
   ],

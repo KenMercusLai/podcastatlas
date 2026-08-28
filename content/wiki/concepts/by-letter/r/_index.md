@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 5844
+wiki_total_pages: 5846
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -674,6 +674,9 @@ wiki_pages:
   - key: "RobotTeleoperationAndRemoteTakeover"
     title: "Robot Teleoperation and Remote Takeover"
     url: "/wiki/concepts/robotteleoperationandremotetakeover/"
+  - key: "RobotTrainingCenters"
+    title: "Robot Training Centers"
+    url: "/wiki/concepts/robottrainingcenters/"
   - key: "RobotHumanBoundary"
     title: "Robot-Human Boundary"
     url: "/wiki/concepts/robothumanboundary/"
