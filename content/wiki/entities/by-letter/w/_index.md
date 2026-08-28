@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 8167
+wiki_total_pages: 8174
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -686,6 +686,9 @@ wiki_pages:
   - key: "WuQingyuan"
     title: "吴清源"
     url: "/wiki/entities/wuqingyuan/"
+  - key: "WuYouLateHan"
+    title: "吴祐 / Wu You (late Han)"
+    url: "/wiki/entities/wuyoulatehan/"
   - key: "WuLiwei"
     title: "吴立伟 / Wu Liwei"
     url: "/wiki/entities/wuliwei/"
@@ -1013,6 +1016,9 @@ wiki_pages:
   - key: "WangZhu"
     title: "王蠋 / Wang Zhu"
     url: "/wiki/entities/wangzhu/"
+  - key: "WangTiaoLiGuStudent"
+    title: "王调 / Wang Tiao (Li Gu student)"
+    url: "/wiki/entities/wangtiaoligustudent/"
   - key: "WangBenQin"
     title: "王贲 / Wang Ben (Qin)"
     url: "/wiki/entities/wangbenqin/"

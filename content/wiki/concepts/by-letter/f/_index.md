@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 5859
+wiki_total_pages: 5860
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -989,6 +989,9 @@ wiki_pages:
   - key: "FundraisingScenarioModeling"
     title: "Fundraising Scenario Modeling"
     url: "/wiki/concepts/fundraisingscenariomodeling/"
+  - key: "FuneraryDefianceUnderPoliticalTerror"
+    title: "Funerary Defiance Under Political Terror / 恐怖政治下的丧葬抗命"
+    url: "/wiki/concepts/funerarydefianceunderpoliticalterror/"
   - key: "FusionEnergyRecovery"
     title: "Fusion Energy Recovery"
     url: "/wiki/concepts/fusionenergyrecovery/"

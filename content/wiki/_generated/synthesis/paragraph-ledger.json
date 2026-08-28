@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "1cf3e2334ec0cb0286f2e91cfa9347f2366b8e3051a9ccb941881e6027dc5809",
       "56a591054efe610a925b78a90df527e58307f12dbcb061b6286ce35feebd0ffa",
       "173cffd82684364e6afbfd09781ea6e0ff2f8dcebc676e8b4728d1bd8798d8d1",
       "e2cd5dc2bdaf589319b990e389554ba320adcd3e78932eb2f3f6826ba5da3001",
@@ -343,11 +344,44 @@
       "b7fe88c4a3ea92e3484da7ba393768450cea0ebc036e6acdec39ec881741cf34",
       "082a8129ce267d83fa695011e4d1d9ec611a2911fab24932213544b548f520cf"
     ],
-    "paragraph_count": 341
+    "paragraph_count": 342
   },
-  "overview_commit": "de00079d2932d813df2587356e09656c5efacdbd",
-  "overview_digest": "93177ee39a9fd45ce8073712599140067555e8c1e79dba6cde35f44520139c14",
+  "overview_commit": "bb76df43a9df08be52123c98b829291c63243fd4",
+  "overview_digest": "04d961879432d7280908b78dccfb230e1f363e209e08834054b1c475406a24e4",
   "paragraphs": [
+    {
+      "id": "1cf3e2334ec0cb0286f2e91cfa9347f2366b8e3051a9ccb941881e6027dc5809",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|《资治通鉴·汉纪》830丨东汉李固：我虽死犹荣！]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 147-148 CE Liang Ji persecution layer before [[zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq|Hanji 832]] and the 150-159 CE Liang-family arc. It adds [[DuQiaoLateHan|杜乔]], [[WuYouLateHan|吴祐]], [[WangTiaoLiGuStudent|王调]], [[ZhaoChengLiGuPetitioner|赵成]], [[GuoLiangLiGuStudent|郭亮]], [[DongBanNanyangLateHan|董班]], [[YangKuangDuQiaoRetainer|杨匡]], and [[FuneraryDefianceUnderPoliticalTerror|恐怖政治下的丧葬抗命]], while extending [[LiGuLateHan|李固]], [[LiangJiLateHan|梁冀]], [[EmpressDowagerLiangNaLateHan|梁妠 / 梁太后]], [[CheerChanyu|车儿]], [[OuterRelativeCourtPower|外戚专权与清算]], [[RetaliatoryPoliticalTerror|报复性政治恐怖]], and [[PublicCorpseHumiliation|公开尸体羞辱]]. Its core synthesis is that Liang Ji's terror can kill Li Gu and Du Qiao but cannot control their public meaning: petitions briefly force release, Wu You makes accusation responsibility visible, Li Gu's final letter turns death into loyal testimony, and the displayed bodies draw defiant mourning and burial recovery rather than silence. No settled contradiction is recorded; Liu Wen, Liu Wei, Ma Rong's drafting role, Luan Ba, the Xia Gate亭长, and exact final-letter wording remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "CheerChanyu",
+        "DongBanNanyangLateHan",
+        "DuQiaoLateHan",
+        "EmpressDowagerLiangNaLateHan",
+        "FuneraryDefianceUnderPoliticalTerror",
+        "GuoLiangLiGuStudent",
+        "LiGuLateHan",
+        "LiangJiLateHan",
+        "OuterRelativeCourtPower",
+        "PublicCorpseHumiliation",
+        "RetaliatoryPoliticalTerror",
+        "RuiqiJiangtouZizhiTongjian",
+        "WangTiaoLiGuStudent",
+        "WuYouLateHan",
+        "YangKuangDuQiaoRetainer",
+        "ZhaoChengLiGuPetitioner",
+        "zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji",
+        "zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq"
+      ]
+    },
     {
       "id": "56a591054efe610a925b78a90df527e58307f12dbcb061b6286ce35feebd0ffa",
       "primary_topic": "ai-and-technology",

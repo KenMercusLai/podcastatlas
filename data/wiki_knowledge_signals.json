@@ -4037,9 +4037,9 @@
       "url": "/wiki/entities/chezhoulatehan/"
     },
     "CheerChanyu": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》844丨如何立于不败之地？ [lsP49uW8AtYIUFrf_ryO_9CtOs5Z].md",
@@ -4047,9 +4047,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》844丨如何立于不败之地？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-844-ruhe-liyu-bubaizhidi-lsp49uw8atyiufrf-ryo-9ctos5z/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》830丨东汉李固：我虽死犹荣！ [lt__j7n9gOTIW_nEgQXOJoAcf6Ji].md",
+          "key": "zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》830丨东汉李固：我虽死犹荣！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-29",
       "url": "/wiki/entities/cheerchanyu/"
     },
     "ChenFanLateHan": {
@@ -6419,6 +6426,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/donweinland/"
     },
+    "DongBanNanyangLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》830丨东汉李固：我虽死犹荣！ [lt__j7n9gOTIW_nEgQXOJoAcf6Ji].md",
+          "key": "zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》830丨东汉李固：我虽死犹荣！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/dongbannanyanglatehan/"
+    },
     "DongYuanLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -6718,6 +6741,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/dumilatehan/"
+    },
+    "DuQiaoLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》830丨东汉李固：我虽死犹荣！ [lt__j7n9gOTIW_nEgQXOJoAcf6Ji].md",
+          "key": "zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》830丨东汉李固：我虽死犹荣！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/duqiaolatehan/"
     },
     "DuShangLateHan": {
       "episode_count": 3,
@@ -7665,9 +7704,9 @@
       "url": "/wiki/entities/empressdowagerdoumiao/"
     },
     "EmpressDowagerLiangNaLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》832丨为领导背锅，他是傻还是智？ [lmFpUIXmI4odrf6LU31RF6_66-lq].md",
@@ -7682,9 +7721,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》833丨贪官能有多离谱？看完大跌眼镜！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-833-tanguan-neng-you-duo-lipu-kanwan-dadieyanjing-lqudlijjyqmcro-wsmrvwkodgt72/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》830丨东汉李固：我虽死犹荣！ [lt__j7n9gOTIW_nEgQXOJoAcf6Ji].md",
+          "key": "zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》830丨东汉李固：我虽死犹荣！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-29",
       "url": "/wiki/entities/empressdowagerliangnalatehan/"
     },
     "EmpressLiangYingLateHan": {
@@ -8983,6 +9029,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/fugitivesheltercollateralrisk/"
     },
+    "FuneraryDefianceUnderPoliticalTerror": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》830丨东汉李固：我虽死犹荣！ [lt__j7n9gOTIW_nEgQXOJoAcf6Ji].md",
+          "key": "zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》830丨东汉李固：我虽死犹荣！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/funerarydefianceunderpoliticalterror/"
+    },
     "FuneraryPrivilegeAbuse": {
       "episode_count": 1,
       "show_count": 1,
@@ -9833,6 +9895,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/guohonglatehan/"
+    },
+    "GuoLiangLiGuStudent": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》830丨东汉李固：我虽死犹荣！ [lt__j7n9gOTIW_nEgQXOJoAcf6Ji].md",
+          "key": "zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》830丨东汉李固：我虽死犹荣！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/guoliangligustudent/"
     },
     "GuoNing": {
       "episode_count": 1,
@@ -13665,9 +13743,9 @@
       "url": "/wiki/entities/ligaorunanlatehan/"
     },
     "LiGuLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》929丨对事不对人，你信了吗？ [lgaXJ0jzoPddmt3C5hiBNExqLhB3].md",
@@ -13682,9 +13760,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿”",
           "url": "/wiki/sources/zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》830丨东汉李固：我虽死犹荣！ [lt__j7n9gOTIW_nEgQXOJoAcf6Ji].md",
+          "key": "zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》830丨东汉李固：我虽死犹荣！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-29",
       "url": "/wiki/entities/ligulatehan/"
     },
     "LiJiHistorian": {
@@ -13916,9 +14001,9 @@
       "url": "/wiki/entities/liangbuyilatehan/"
     },
     "LiangJiLateHan": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 1,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿” [lvSA2pby8IyfEvfooBoBpIK52MiJ].md",
@@ -13996,9 +14081,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》833丨贪官能有多离谱？看完大跌眼镜！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-833-tanguan-neng-you-duo-lipu-kanwan-dadieyanjing-lqudlijjyqmcro-wsmrvwkodgt72/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》830丨东汉李固：我虽死犹荣！ [lt__j7n9gOTIW_nEgQXOJoAcf6Ji].md",
+          "key": "zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》830丨东汉李固：我虽死犹荣！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-29",
       "url": "/wiki/entities/liangjilatehan/"
     },
     "LibGen": {
@@ -17695,9 +17787,9 @@
       "url": "/wiki/concepts/outdoorvehiclelifestyledesign/"
     },
     "OuterRelativeCourtPower": {
-      "episode_count": 9,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》848丨瞬间垮台！我为何说他死有余辜？ [lgqVgMxlwga2fKnmtxPj3Ya9chk0].md",
@@ -17726,6 +17818,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》845丨从当代婚姻观聊古代的婚检制度",
           "url": "/wiki/sources/zizhi-tongjian-hanji-845-cong-dangdai-hunyin-guan-liao-gudai-de-hunjian-zhidu-lr0i25twkoxm2wen7pnfbwt3qdsn/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》844丨如何立于不败之地？ [lsP49uW8AtYIUFrf_ryO_9CtOs5Z].md",
+          "key": "zizhi-tongjian-hanji-844-ruhe-liyu-bubaizhidi-lsp49uw8atyiufrf-ryo-9ctos5z",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》844丨如何立于不败之地？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-844-ruhe-liyu-bubaizhidi-lsp49uw8atyiufrf-ryo-9ctos5z/"
         },
         {
           "episode_file": "《资治通鉴·汉纪》838丨贪婪的诱惑，让他狂飙在作死的路上 [lrYDIlyNi6O6YzHk1_E74M6aiGWr].md",
@@ -17761,9 +17860,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》833丨贪官能有多离谱？看完大跌眼镜！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-833-tanguan-neng-you-duo-lipu-kanwan-dadieyanjing-lqudlijjyqmcro-wsmrvwkodgt72/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》830丨东汉李固：我虽死犹荣！ [lt__j7n9gOTIW_nEgQXOJoAcf6Ji].md",
+          "key": "zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》830丨东汉李固：我虽死犹荣！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-29",
       "url": "/wiki/concepts/outerrelativecourtpower/"
     },
     "PCOSCardiometabolicRisk": {
@@ -19049,6 +19155,36 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/psychologicalboundaryprotection/"
     },
+    "PublicCorpseHumiliation": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》903丨为什么劝你冤冤相报何时了？ [loKpt93MUc8kasvN44VgsjKI8boM].md",
+          "key": "zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》903丨为什么劝你冤冤相报何时了？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》963丨史上被“点天灯”的第一人，是他！ [lkPkhlpKV3Xpw-hUR4b7SH-3DRUk].md",
+          "key": "zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》963丨史上被“点天灯”的第一人，是他！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》830丨东汉李固：我虽死犹荣！ [lt__j7n9gOTIW_nEgQXOJoAcf6Ji].md",
+          "key": "zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》830丨东汉李固：我虽死犹荣！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/publiccorpsehumiliation/"
+    },
     "PunishmentAsMoralCredential": {
       "episode_count": 1,
       "show_count": 1,
@@ -19756,9 +19892,9 @@
       "url": "/wiki/concepts/restaurantdeliveryextension/"
     },
     "RetaliatoryPoliticalTerror": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》846丨“跋扈将军”冰山一角的犯罪记录 [lv7fbvoQr1NurEQGVwIwiXJYK4pq].md",
@@ -19780,9 +19916,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》833丨贪官能有多离谱？看完大跌眼镜！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-833-tanguan-neng-you-duo-lipu-kanwan-dadieyanjing-lqudlijjyqmcro-wsmrvwkodgt72/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》830丨东汉李固：我虽死犹荣！ [lt__j7n9gOTIW_nEgQXOJoAcf6Ji].md",
+          "key": "zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》830丨东汉李固：我虽死犹荣！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-29",
       "url": "/wiki/concepts/retaliatorypoliticalterror/"
     },
     "ReturningArmyInterdictionRisk": {
@@ -24496,6 +24639,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/wangjingxiyulatehan/"
     },
+    "WangTiaoLiGuStudent": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》830丨东汉李固：我虽死犹荣！ [lt__j7n9gOTIW_nEgQXOJoAcf6Ji].md",
+          "key": "zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》830丨东汉李固：我虽死犹荣！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/wangtiaoligustudent/"
+    },
     "WangZhongLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -25103,6 +25262,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/wushuwanmagistratelatehan/"
+    },
+    "WuYouLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》830丨东汉李固：我虽死犹荣！ [lt__j7n9gOTIW_nEgQXOJoAcf6Ji].md",
+          "key": "zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》830丨东汉李固：我虽死犹荣！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/wuyoulatehan/"
     },
     "WuZilanLateHan": {
       "episode_count": 1,
@@ -26465,6 +26640,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/yangfulatehan/"
     },
+    "YangKuangDuQiaoRetainer": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》830丨东汉李固：我虽死犹荣！ [lt__j7n9gOTIW_nEgQXOJoAcf6Ji].md",
+          "key": "zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》830丨东汉李固：我虽死犹荣！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/yangkuangduqiaoretainer/"
+    },
     "YangQiaoLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -27352,6 +27543,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/zhangzhaolatehan/"
+    },
+    "ZhaoChengLiGuPetitioner": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》830丨东汉李固：我虽死犹荣！ [lt__j7n9gOTIW_nEgQXOJoAcf6Ji].md",
+          "key": "zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》830丨东汉李固：我虽死犹荣！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/zhaochengligupetitioner/"
     },
     "ZhaoDianLateHan": {
       "episode_count": 1,

@@ -14571,6 +14571,10 @@
     "title": "东阿 / Dong'e (Late Han)",
     "url": "/wiki/entities/dongalatehan/"
   },
+  "DongBanNanyangLateHan": {
+    "title": "董班 / Dong Ban (Nanyang, late Han)",
+    "url": "/wiki/entities/dongbannanyanglatehan/"
+  },
   "DongChengLateHan": {
     "title": "董承 / Dong Cheng (late Han)",
     "url": "/wiki/entities/dongchenglatehan/"
@@ -14962,6 +14966,10 @@
   "DuMu": {
     "title": "杜牧 / Du Mu",
     "url": "/wiki/entities/dumu/"
+  },
+  "DuQiaoLateHan": {
+    "title": "杜乔 / Du Qiao (late Han)",
+    "url": "/wiki/entities/duqiaolatehan/"
   },
   "DuRuo": {
     "title": "杜若 / Du Ruo",
@@ -19291,6 +19299,10 @@
     "title": "Fundraising Scenario Modeling",
     "url": "/wiki/concepts/fundraisingscenariomodeling/"
   },
+  "FuneraryDefianceUnderPoliticalTerror": {
+    "title": "Funerary Defiance Under Political Terror / 恐怖政治下的丧葬抗命",
+    "url": "/wiki/concepts/funerarydefianceunderpoliticalterror/"
+  },
   "FuneraryPrivilegeAbuse": {
     "title": "丧葬名分僭越 / Funerary Privilege Abuse",
     "url": "/wiki/concepts/funeraryprivilegeabuse/"
@@ -21198,6 +21210,10 @@
   "GuoKai": {
     "title": "郭开 / Guo Kai",
     "url": "/wiki/entities/guokai/"
+  },
+  "GuoLiangLiGuStudent": {
+    "title": "郭亮 / Guo Liang (Li Gu student)",
+    "url": "/wiki/entities/guoliangligustudent/"
   },
   "GuoMeng": {
     "title": "郭蒙 / Guo Meng",
@@ -51783,6 +51799,10 @@
     "title": "Will Wang Tianfan / 汪天凡",
     "url": "/wiki/entities/wangtianfan/"
   },
+  "WangTiaoLiGuStudent": {
+    "title": "王调 / Wang Tiao (Li Gu student)",
+    "url": "/wiki/entities/wangtiaoligustudent/"
+  },
   "WangTiezhen": {
     "title": "Wang Tiezhen / 王铁镇",
     "url": "/wiki/entities/wangtiezhen/"
@@ -53287,6 +53307,10 @@
     "title": "吴欣鸿",
     "url": "/wiki/entities/wuxinhong/"
   },
+  "WuYouLateHan": {
+    "title": "吴祐 / Wu You (late Han)",
+    "url": "/wiki/entities/wuyoulatehan/"
+  },
   "WuYueSanlian": {
     "title": "伍玥 / Wu Yue (Sanlian)",
     "url": "/wiki/entities/wuyuesanlian/"
@@ -54602,6 +54626,10 @@
   "YangHuiLateHan": {
     "title": "杨晖 / Yang Hui (late Han)",
     "url": "/wiki/entities/yanghuilatehan/"
+  },
+  "YangKuangDuQiaoRetainer": {
+    "title": "杨匡 / Yang Kuang (Du Qiao retainer)",
+    "url": "/wiki/entities/yangkuangduqiaoretainer/"
   },
   "YangLingfeng": {
     "title": "Yang Lingfeng / 杨凌峰",
@@ -56226,6 +56254,10 @@
   "ZhaoCangtang": {
     "title": "赵苍唐 / Zhao Cangtang",
     "url": "/wiki/entities/zhaocangtang/"
+  },
+  "ZhaoChengLiGuPetitioner": {
+    "title": "赵成 / Zhao Cheng (Li Gu petitioner)",
+    "url": "/wiki/entities/zhaochengligupetitioner/"
   },
   "ZhaoChengQin": {
     "title": "赵成 / Zhao Cheng (Qin)",
@@ -61130,6 +61162,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji": {
+    "title": "《资治通鉴·汉纪》830丨东汉李固：我虽死犹荣！",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji/"
   },
   "zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq": {
     "title": "《资治通鉴·汉纪》832丨为领导背锅，他是傻还是智？",

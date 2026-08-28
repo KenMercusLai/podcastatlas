@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 8167
+wiki_total_pages: 8174
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -1040,6 +1040,9 @@ wiki_pages:
   - key: "ZhaoCiLateHan"
     title: "赵慈 / Zhao Ci (late Han)"
     url: "/wiki/entities/zhaocilatehan/"
+  - key: "ZhaoChengLiGuPetitioner"
+    title: "赵成 / Zhao Cheng (Li Gu petitioner)"
+    url: "/wiki/entities/zhaochengligupetitioner/"
   - key: "ZhaoChengQin"
     title: "赵成 / Zhao Cheng (Qin)"
     url: "/wiki/entities/zhaochengqin/"

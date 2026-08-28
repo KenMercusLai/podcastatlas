@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 8167
+wiki_total_pages: 8174
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -947,6 +947,9 @@ wiki_pages:
   - key: "Garuda"
     title: "迦楼罗 / 大鹏鸟 / Garuda"
     url: "/wiki/entities/garuda/"
+  - key: "GuoLiangLiGuStudent"
+    title: "郭亮 / Guo Liang (Li Gu student)"
+    url: "/wiki/entities/guoliangligustudent/"
   - key: "GuoYoulin"
     title: "郭友霖 / Guo Youlin"
     url: "/wiki/entities/guoyoulin/"

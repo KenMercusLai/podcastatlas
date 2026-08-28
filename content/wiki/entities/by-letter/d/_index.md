@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 8167
+wiki_total_pages: 8174
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -884,6 +884,9 @@ wiki_pages:
   - key: "DaiGuanlan"
     title: "戴冠兰 / Dai Guanlan"
     url: "/wiki/entities/daiguanlan/"
+  - key: "DuQiaoLateHan"
+    title: "杜乔 / Du Qiao (late Han)"
+    url: "/wiki/entities/duqiaolatehan/"
   - key: "DuZhongLateHan"
     title: "杜仲 / Du Zhong (late Han)"
     url: "/wiki/entities/duzhonglatehan/"
@@ -1001,6 +1004,9 @@ wiki_pages:
   - key: "DongZhaoLateHan"
     title: "董昭 / Dong Zhao (late Han)"
     url: "/wiki/entities/dongzhaolatehan/"
+  - key: "DongBanNanyangLateHan"
+    title: "董班 / Dong Ban (Nanyang, late Han)"
+    url: "/wiki/entities/dongbannanyanglatehan/"
   - key: "DongHuangLateHan"
     title: "董璜 / Dong Huang (late Han)"
     url: "/wiki/entities/donghuanglatehan/"
