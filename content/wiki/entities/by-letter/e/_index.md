@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 8139
+wiki_total_pages: 8141
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -494,6 +494,9 @@ wiki_pages:
   - key: "EmperorXianOfHan"
     title: "汉献帝 / Emperor Xian of Han"
     url: "/wiki/entities/emperorxianofhan/"
+  - key: "EmperorZhiOfHan"
+    title: "汉质帝 / Emperor Zhi of Han"
+    url: "/wiki/entities/emperorzhiofhan/"
   - key: "EmpressDowagerDouMiao"
     title: "窦妙 / Empress Dowager Dou Miao"
     url: "/wiki/entities/empressdowagerdoumiao/"

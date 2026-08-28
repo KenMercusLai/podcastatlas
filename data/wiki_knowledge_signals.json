@@ -6861,6 +6861,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/emperorhuanofhan/"
     },
+    "EmperorZhiOfHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》835丨东汉第一权臣，为何要跪他？ [lpwezt_z-2QLoITWD3T4GyxZNQbo].md",
+          "key": "zizhi-tongjian-hanji-835-donghan-diyi-quanchen-weihe-yao-gui-ta-lpwezt-z-2qloitwd3t4gyxznqbo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》835丨东汉第一权臣，为何要跪他？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-835-donghan-diyi-quanchen-weihe-yao-gui-ta-lpwezt-z-2qloitwd3t4gyxznqbo/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/emperorzhiofhan/"
+    },
     "EmpressDengHuanLateHan": {
       "episode_count": 4,
       "show_count": 1,
@@ -9610,6 +9626,43 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/highbetasciencefunding/"
+    },
+    "HighStatusLawEnforcementSignal": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮 [liMAFqSkGbLRweTeSTyH39w_hZM4].md",
+          "key": "zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》86丨历史上靠收租的将军竟然是他？ [lmmmfz4Ii__Hx7TrbXV2rCPKllCQ].md",
+          "key": "zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》86丨历史上靠收租的将军竟然是他？",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》13丨 公孙鞅苛刻变法惹杀身（2） [lk_D9uibhnEERfoL6z2rRLE_6yPm].md",
+          "key": "zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-2-lk-d9uibhneerfol6z2rrle-6ypm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》13丨 公孙鞅苛刻变法惹杀身（2）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-2-lk-d9uibhneerfol6z2rrle-6ypm/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》835丨东汉第一权臣，为何要跪他？ [lpwezt_z-2QLoITWD3T4GyxZNQbo].md",
+          "key": "zizhi-tongjian-hanji-835-donghan-diyi-quanchen-weihe-yao-gui-ta-lpwezt-z-2qloitwd3t4gyxznqbo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》835丨东汉第一权臣，为何要跪他？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-835-donghan-diyi-quanchen-weihe-yao-gui-ta-lpwezt-z-2qloitwd3t4gyxznqbo/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/concepts/highstatuslawenforcementsignal/"
     },
     "HistoricalComplexityAgainstLabels": {
       "episode_count": 1,
@@ -12950,9 +13003,9 @@
       "url": "/wiki/entities/liangbuyilatehan/"
     },
     "LiangJiLateHan": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿” [lvSA2pby8IyfEvfooBoBpIK52MiJ].md",
@@ -13009,6 +13062,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》836丨兄弟反目背后：儒者和奸臣的交锋",
           "url": "/wiki/sources/zizhi-tongjian-hanji-836-xiongdi-fanmu-beihou-ruzhe-he-jianchen-de-jiaofeng-lq9wjn5c8mwt-onrtslum4fw53eq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》835丨东汉第一权臣，为何要跪他？ [lpwezt_z-2QLoITWD3T4GyxZNQbo].md",
+          "key": "zizhi-tongjian-hanji-835-donghan-diyi-quanchen-weihe-yao-gui-ta-lpwezt-z-2qloitwd3t4gyxznqbo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》835丨东汉第一权臣，为何要跪他？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-835-donghan-diyi-quanchen-weihe-yao-gui-ta-lpwezt-z-2qloitwd3t4gyxznqbo/"
         }
       ],
       "updated": "2026-08-28",
@@ -16655,9 +16715,9 @@
       "url": "/wiki/concepts/outdoorvehiclelifestyledesign/"
     },
     "OuterRelativeCourtPower": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》848丨瞬间垮台！我为何说他死有余辜？ [lgqVgMxlwga2fKnmtxPj3Ya9chk0].md",
@@ -16700,6 +16760,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》836丨兄弟反目背后：儒者和奸臣的交锋",
           "url": "/wiki/sources/zizhi-tongjian-hanji-836-xiongdi-fanmu-beihou-ruzhe-he-jianchen-de-jiaofeng-lq9wjn5c8mwt-onrtslum4fw53eq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》835丨东汉第一权臣，为何要跪他？ [lpwezt_z-2QLoITWD3T4GyxZNQbo].md",
+          "key": "zizhi-tongjian-hanji-835-donghan-diyi-quanchen-weihe-yao-gui-ta-lpwezt-z-2qloitwd3t4gyxznqbo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》835丨东汉第一权臣，为何要跪他？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-835-donghan-diyi-quanchen-weihe-yao-gui-ta-lpwezt-z-2qloitwd3t4gyxznqbo/"
         }
       ],
       "updated": "2026-08-28",
@@ -25454,6 +25521,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/zhangkaiduanjiongofficer/"
+    },
+    "ZhangLingLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》835丨东汉第一权臣，为何要跪他？ [lpwezt_z-2QLoITWD3T4GyxZNQbo].md",
+          "key": "zizhi-tongjian-hanji-835-donghan-diyi-quanchen-weihe-yao-gui-ta-lpwezt-z-2qloitwd3t4gyxznqbo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》835丨东汉第一权臣，为何要跪他？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-835-donghan-diyi-quanchen-weihe-yao-gui-ta-lpwezt-z-2qloitwd3t4gyxznqbo/"
+        }
+      ],
+      "updated": "2026-08-28",
+      "url": "/wiki/entities/zhanglinglatehan/"
     },
     "ZhangMuLateHan": {
       "episode_count": 2,

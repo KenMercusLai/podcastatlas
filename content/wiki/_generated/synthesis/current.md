@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-28
-as_of_overview_commit: 37206a5e51ccb40df500bfd5f0fb67f1715467a4
-summary: "Across the corpus, useful claims survive when workflow fit, demand proof, evidence, diagnosis, governance, cultural interpretation, and implementation constraints stay visible."
-episode_count: 1632
-source_count: 1632
-paragraph_count: 334
+as_of_overview_commit: 19240251faa4005ee001cb0c0266fc94de7da761
+summary: "Across the corpus, strong claims keep workflow fit, demand proof, evidence quality, institutional constraints, cultural context, diagnosis, and implementation visible."
+episode_count: 1634
+source_count: 1634
+paragraph_count: 335
 topic_count: 8
 ---
 
@@ -49,7 +49,7 @@ Culture and media sources use fiction, classical epic, games, sports, brands, de
 
 ### Governance and Institutions
 
-Governance depends on enforceable controls, symbols, appointments, standards, legitimacy, exits, evidence flows, diagnostic fit, and condition-specific remedies.
+Governance depends on enforceable controls, ritual and symbol systems, appointments, standards, legitimacy, exits, evidence flows, diagnostic fit, and condition-specific remedies.
 
 - The California data-broker branch shows that privacy rights depend on compliance workflows: [[CaliforniaDeleteAct]], [[DeleteRequestAndOptOutPlatform]], [[ConsumerDataDeletion]], [[DataBrokerComplianceGap]], and [[CaliforniaPrivacyProtectionAgency]] connect centralized deletion, broker registration, reporting duties, request friction, agency capacity, and private-lawsuit proposals into one implementation problem. Evidence: [[CaliforniaDeleteAct]], [[DeleteRequestAndOptOutPlatform]], [[ConsumerDataDeletion]], [[DataBrokerComplianceGap]], [[CaliforniaPrivacyProtectionAgency]], [[tech-20260825-mp-tech-pod-128-tech-20260825-mp-tech-pod-128]].
 - The early-Han sequence shows victory turning into governance only through family order, capital choice, exit management, reward ranking, ritual hierarchy, frontier containment, [[HanXiongnuHeqinPolicy|heqin]] diplomacy, vassal rollback, investigation-triggered rebellion risk, and finally the failure of personal trust in [[LuWan|Lu Wan]]'s Yan kingship. Evidence: [[LiuBang]], [[StrategicCapitalRelocation]], [[LiAsPoliticalOrder]], [[BaidengEncirclement]], [[HanXiongnuHeqinPolicy]], [[DifferentSurnameKingSuspicion]], [[HuainanKingdomEarlyHan]], [[InvestigationDrivenRebellionEscalation]], [[LuWan]], [[YanState]].

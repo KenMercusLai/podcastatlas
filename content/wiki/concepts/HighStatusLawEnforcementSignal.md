@@ -1,37 +1,65 @@
 ---
 title: "High-Status Law-Enforcement Signal / 高位执法信号"
 type: concept
-tags: [statecraft, legalism, enforcement, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4, zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-2-lk-d9uibhneerfol6z2rrle-6ypm]
-last_updated: 2026-08-25
+knowledge_schema: synthesis-v1
+tags: [statecraft, legalism, enforcement, pre-qin-history, warring-states, late-han, court-politics]
+sources:
+  - zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4
+  - zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq
+  - zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-2-lk-d9uibhneerfol6z2rrle-6ypm
+  - zizhi-tongjian-hanji-835-donghan-diyi-quanchen-weihe-yao-gui-ta-lpwezt-z-2qloitwd3t4gyxznqbo
+last_updated: 2026-08-28
 ---
 
-# High-Status Law-Enforcement Signal / 高位执法信号
+## Definition
 
-[[zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4|Hanji 925]] adds a late-Han reputation version through [[CaoCao|曹操]] as [[LuoyangLateHan|Luoyang]] north commandant. When [[JianShuoLateHan|蹇硕]]'s uncle violates the night curfew, Cao Cao has him beaten with five-colored sticks, making the law visible against a powerful eunuch relative.
+High-status law-enforcement signal / 高位执法信号 is the pattern in which punishment, rebuke, or visible coercion against a socially protected actor makes a rule credible to the broader elite audience. The signal can install a new legal order, repair a reputation for impartial officeholding, or expose that a court norm still has some force even when the target is politically dangerous.
 
-The case differs from the Shang Yang and Zhao She examples because the target is not used to install a whole new legal order. It is a calibrated signal inside Cao Cao's own early status problem: the act says he is not simply protected by eunuch-family networks and is willing to enforce rules against protected insiders, connecting enforcement credibility to [[StatusConditionedRiskTaking|地位条件化行动尺度]].
+## Current Synthesis
 
-High-status law-enforcement signal / 高位执法信号 is the source's pattern for why [[ShangYang|公孙鞅 / 商鞅]] responds severely when [[YingSi|太子嬴驷]] violates the new Qin law. In [[zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-2-lk-d9uibhneerfol6z2rrle-6ypm]], the prince cannot be punished directly because he is [[QinXiaogong|秦孝公]]'s heir, so the punishment falls on his tutors. The point is to make [[QinState|秦国]]'s elite see that the new legal order does not dissolve at the palace gate.
+The concept now has four variants. In the late-Han court-audience variant, [[zizhi-tongjian-hanji-835-donghan-diyi-quanchen-weihe-yao-gui-ta-lpwezt-z-2qloitwd3t4gyxznqbo|Hanji 835]] shows [[ZhangLingLateHan|张陵]] rebuking [[LiangJiLateHan|梁冀]] for entering the palace audience with a sword, ordering guards to remove it, and memorializing an impeachment. The signal works because Liang kneels and apologizes in public, but it is bounded because [[EmperorHuanOfHan|汉桓帝]] converts Zhang's Tingwei request into a lighter salary forfeiture.
 
-This differs from equal protection under law in a modern sense. The punishment is substituted and exemplary: [[GongziQian|公子虔]] and [[GongsunJia|公孙贾]] become public signals of legal seriousness because their proximity to the prince makes the punishment politically legible. The source therefore treats credibility, hierarchy, and fear as one enforcement mechanism.
+[[zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4|Hanji 925]] gives a late-Han reputation variant through [[CaoCao|曹操]] as [[LuoyangLateHan|洛阳]] north commandant. When [[JianShuoLateHan|蹇硕]]'s uncle violates the night curfew, Cao Cao has him beaten with five-colored sticks, making the law visible against a powerful eunuch relative. The point is not a new legal order but Cao Cao's early public status: he shows that eunuch-family connections will not define his enforcement behavior.
 
-The same mechanism also carries backlash risk. A visible elite punishment can force short-term compliance, but it stores resentment in exactly the circles that matter after ruler protection disappears. In the Shang Yang branch, law becomes believable at the cost of deepening [[WarringStatesReformBacklash|战国变法反噬]].
+[[zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq|Zhouji 86]] gives a Zhao tax-administration variant through [[ZhaoShe|赵奢]]. Zhao She punishes [[Pingyuanjun|平原君]]'s household personnel for tax resistance, then persuades Pingyuanjun that law applied to his house protects [[ZhaoState|赵国]] and therefore his own fortune. Here the signal becomes stronger because the aristocrat accepts the state-security rationale.
 
-[[zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq]] adds a Zhao tax-administration version through [[ZhaoShe|赵奢]]. Unlike Shang Yang's prince-law case, the punished people are [[Pingyuanjun|平原君]]'s household personnel, and the episode emphasizes not only fear but persuasion: Zhao She makes Pingyuanjun see that visible law enforcement against his own house protects [[ZhaoState|赵国]] and therefore protects his private fortune.
+[[zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-2-lk-d9uibhneerfol6z2rrle-6ypm|Zhouji 13]] gives the reform-state variant through [[ShangYang|公孙鞅 / 商鞅]]. When [[YingSi|太子嬴驷]] violates Qin's new law, the heir cannot be punished directly, so punishment falls on [[GongziQian|公子虔]] and [[GongsunJia|公孙贾]]. The signal makes [[QinState|秦国]] elites see that the new legal order does not dissolve at the palace gate, but it also stores resentment and contributes to [[WarringStatesReformBacklash|战国变法反噬]] after ruler protection disappears.
 
 ## Key Claims
-- Hanji 925 adds that high-status enforcement can also serve an officeholder's public reputation, not only a reform state's legal credibility.
-- A new legal order needs visible enforcement against high-status insiders if elite exemption would make the law unserious.
-- When the true high-status offender cannot be punished directly, substitute punishment can still signal that the rule is real.
-- Such punishment can generate obedience quickly, but the same visibility turns injured elites into future enemies.
-- The concept belongs to [[LegalistRulerTechnique|法家君术]] because credibility is engineered as part of enforcement architecture, not treated only as moral virtue.
-- Zhao She's case adds that a high-status enforcement signal can be converted into elite buy-in when the punished aristocrat accepts the state-security rationale.
 
-## Connections
-- [[zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4|Hanji 925]], [[CaoCao|曹操]], [[JianShuoLateHan|蹇硕]], [[LuoyangLateHan|洛阳]], and [[StatusConditionedRiskTaking|地位条件化行动尺度]] - late-Han curfew enforcement against a powerful eunuch relative.
-- [[ShangYang|公孙鞅 / 商鞅]], [[YingSi|太子嬴驷]], [[GongziQian|公子虔]], and [[GongsunJia|公孙贾]] - source case.
-- [[QinXiaogong|秦孝公]] and [[QinState|秦国]] - ruler and state setting.
-- [[ShangYangReforms]], [[LegalistRulerTechnique]], and [[WarringStatesReformBacklash]] - reform logic, enforcement technique, and backlash risk.
-- [[TallPoppyGovernance]] - adjacent source analogy about striking prominent figures to discipline a wider group.
-- [[ZhaoShe|赵奢]], [[Pingyuanjun|平原君]], [[ZhaoState|赵国]], and [[EliteFiscalLawCompliance|贵族税法同遵]] - Zhouji 86 tax-law enforcement against an aristocratic household.
+- A visible enforcement act against a protected person or household can make a rule credible faster than abstract exhortation.
+- High-status signaling is not always equal treatment: it may use substitute punishment, ceremonial rebuke, or household penalties when the central offender cannot safely be punished directly.
+- The same signal can serve different systems: reform-state law, aristocratic tax compliance, personal office reputation, or court-ritual limits on an overmighty minister.
+- The signal is strongest when the elite audience accepts the public rationale, as in Zhao She's persuasion of Pingyuanjun.
+- The signal is weaker but still meaningful when the ruler reduces the sanction, as in Zhang Ling's case against Liang Ji.
+- Visible elite punishment can build short-term credibility while creating long-term backlash among the injured high-status network.
+
+## Evidence
+
+- Court-ritual enforcement: [[zizhi-tongjian-hanji-835-donghan-diyi-quanchen-weihe-yao-gui-ta-lpwezt-z-2qloitwd3t4gyxznqbo|Hanji 835]] says Zhang Ling publicly rebukes Liang Ji for wearing a sword into the palace audience and orders Huben and Yulin guards to remove it.
+- Bounded signal: [[zizhi-tongjian-hanji-835-donghan-diyi-quanchen-weihe-yao-gui-ta-lpwezt-z-2qloitwd3t4gyxznqbo|Hanji 835]] says Liang kneels and apologizes, while Emperor Huan imposes only one year's salary forfeiture rather than Zhang's requested Tingwei punishment.
+- Reputation enforcement: [[zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4|Hanji 925]] says Cao Cao beats Jian Shuo's uncle for violating Luoyang curfew, making enforcement credible against a powerful eunuch relative.
+- Elite buy-in: [[zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq|Zhouji 86]] says Zhao She punishes Pingyuanjun's household personnel and then convinces Pingyuanjun that legal compliance protects Zhao and his own estate.
+- Reform-state credibility: [[zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-2-lk-d9uibhneerfol6z2rrle-6ypm|Zhouji 13]] says Shang Yang cannot punish the Qin heir directly, so punishment falls on the heir's tutors to show that the new law reaches palace-adjacent elites.
+- Backlash risk: [[zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-2-lk-d9uibhneerfol6z2rrle-6ypm|Zhouji 13]] also links the exemplary punishment to later resentment once Shang Yang loses Qin Xiaogong's protection.
+
+## Counterevidence & Qualifications
+
+This concept does not imply modern equal protection under law. In the Shang Yang case, punishment is substituted onto tutors rather than applied directly to the heir; in the Zhang Ling case, the emperor reduces the requested penalty; in Cao Cao's case, the enforcement doubles as a reputation-building move for a young officeholder. The Zhao She branch is the cleanest administrative success because the high-status household head accepts the reason for punishment, but that does not make every elite-targeting sanction institutionally durable. The current cases also come from different eras and should be compared as a signaling pattern, not collapsed into one uniform doctrine.
+
+## What Changed
+
+- Migrated the legacy page into the synthesis-v1 concept schema.
+- Added Hanji 835 as a court-ritual variant where Zhang Ling's public check on Liang Ji works visibly but remains bounded by Emperor Huan's lighter sanction.
+- Preserved Hanji 925 as the reputation-enforcement variant through Cao Cao's punishment of Jian Shuo's uncle.
+- Preserved Zhouji 86 and Zhouji 13 as the elite buy-in and reform-state variants.
+
+## Related Concepts
+
+- [[LiAsPoliticalOrder|礼制政治秩序]] - ritual-order counterpart for Zhang Ling's ability to make sword-bearing at court actionable.
+- [[PowerEtiquetteReading|权力礼仪细读]] - interpretive counterpart for reading visible etiquette breaches as political signals.
+- [[RuleOverKinshipPower|法度压过亲缘特权]] - adjacent principle where public rule overrides private patronage or household privilege.
+- [[LegalistRulerTechnique|法家君术]] - reform-state technique most explicit in the Shang Yang branch.
+- [[EliteFiscalLawCompliance|贵族税法同遵]] - Zhao administrative version where an aristocratic household is pulled into tax-law compliance.
+- [[StatusConditionedRiskTaking|地位条件化行动尺度]] - reputation-risk counterpart in Cao Cao's late-Han enforcement case.
+- [[OuterRelativeCourtPower|外戚专权与清算]] - late-Han power context that makes Zhang Ling's action against Liang Ji both dangerous and legible.

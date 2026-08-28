@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "d988a106d1d07b68982103121727cd14b2e7e32e200c83c49a9ebe77d99f8b64",
       "1d7b38e986ea1249524e8c436e5aff2777b3145a891953394c9c15443b7b57c3",
       "f52125eea27ebc3fff165a4536d009297d2066b965df8af495fc6a939880ccb2",
       "73af98baffbfe5bedbe45e3725bfb07d63f6d1c18bcc1540c47e213110e77e5d",
@@ -336,11 +337,39 @@
       "41cadfb91ef6894bc7d9cd5c4e55012480b0225b71a6a027d18e9565e8357c0c",
       "d589a53c87e197a55033f79a64a0ec3a258b8cbc050ee0e70dcc6388df48a243"
     ],
-    "paragraph_count": 334
+    "paragraph_count": 335
   },
-  "overview_commit": "a1b296c795832c9101bcc4685d46ac12b45a2e76",
-  "overview_digest": "1a6aa7042fc35075a65586307f2f1883ae84f6405d69d157adf5b96824084a3e",
+  "overview_commit": "19240251faa4005ee001cb0c0266fc94de7da761",
+  "overview_digest": "03f7a191bdc0eba6e0e6c4b567f9b959dbed415a14dcbb58ce9864fcc6847f8d",
   "paragraphs": [
+    {
+      "id": "d988a106d1d07b68982103121727cd14b2e7e32e200c83c49a9ebe77d99f8b64",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-835-donghan-diyi-quanchen-weihe-yao-gui-ta-lpwezt-z-2qloitwd3t4gyxznqbo|《资治通鉴·汉纪》835丨东汉第一权臣，为何要跪他？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 151 CE court-audience layer immediately before [[zizhi-tongjian-hanji-836-xiongdi-fanmu-beihou-ruzhe-he-jianchen-de-jiaofeng-lq9wjn5c8mwt-onrtslum4fw53eq|Hanji 836]] and [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|Hanji 838]]. It adds [[ZhangLingLateHan|张陵]] and [[EmperorZhiOfHan|汉质帝]], while extending [[LiangJiLateHan|梁冀]], [[EmperorHuanOfHan|汉桓帝]], [[LiangBuyiLateHan|梁不疑]], [[OuterRelativeCourtPower|外戚专权与清算]], [[HighStatusLawEnforcementSignal|高位执法信号]], [[LiAsPoliticalOrder|礼制政治秩序]], [[PowerEtiquetteReading|权力礼仪细读]], [[StrategicEmotionConcealment|情绪不外露的战略纪律]], and [[PowerExitTrap|权力退场困境]]. Its core synthesis is that Liang Ji's power was vulnerable to formal ceremony before it was vulnerable to liquidation: Zhang Ling could make a sword-bearing breach public and force kneeling through guards and impeachment, but Huan's lighter salary penalty shows the check remained bounded. No settled contradiction is recorded; jealousy, Kangxi's Emperor Zhi counterfactual, and the Fan Li/Zhang Liang retreat lessons remain source-scoped interpretive frames.",
+      "topic_scores": {
+        "governance-and-institutions": 3,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "EmperorHuanOfHan",
+        "EmperorZhiOfHan",
+        "HighStatusLawEnforcementSignal",
+        "LiAsPoliticalOrder",
+        "LiangBuyiLateHan",
+        "LiangJiLateHan",
+        "OuterRelativeCourtPower",
+        "PowerEtiquetteReading",
+        "PowerExitTrap",
+        "RuiqiJiangtouZizhiTongjian",
+        "StrategicEmotionConcealment",
+        "ZhangLingLateHan",
+        "zizhi-tongjian-hanji-835-donghan-diyi-quanchen-weihe-yao-gui-ta-lpwezt-z-2qloitwd3t4gyxznqbo",
+        "zizhi-tongjian-hanji-836-xiongdi-fanmu-beihou-ruzhe-he-jianchen-de-jiaofeng-lq9wjn5c8mwt-onrtslum4fw53eq",
+        "zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr"
+      ]
+    },
     {
       "id": "1d7b38e986ea1249524e8c436e5aff2777b3145a891953394c9c15443b7b57c3",
       "primary_topic": "culture-and-media",

@@ -12801,8 +12801,6 @@ Added source page for a Huberman Lab solo Q&A with Andrew Huberman on late-night
 
 Ran lint. See lint-report.md for details.
 
-
-
 ## [2026-08-28] lint | Wiki health check
 
 Ran health, identity validation, and lint. Health scanned 15,306 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-22 with 12,882 nodes and 149,964 edges while the current lint scan covered 15,306 pages, so fragile-bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because the model/provider and API credentials were not configured in the shell; report returned in-session and `wiki/lint-report.md` was not updated.
@@ -13085,6 +13083,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-28] ingest | 《资治通鉴·汉纪》835丨东汉第一权臣，为何要跪他？
+
+Ingested Hanji 835 as a 151 CE Huan-era court-audience backfill. Created the source note, Zhang Ling, and Emperor Zhi pages; updated Liang Ji, Outer-Relative Court Power, High-Status Law-Enforcement Signal, index, and overview. No settled contradiction found; the episode's jealousy, Kangxi counterfactual, and withdrawal lessons are kept source-scoped.
 
 ## [2026-08-28] lint | Wiki health check
 
