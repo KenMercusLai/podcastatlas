@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》822丨豺狼当道，他将矛头直指皇帝岳父？](sources/zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv.md) — 芮淇讲透资治通鉴 episode on 141-142 CE Li Gu's Jingzhou and Taishan pacification, Nanyang corruption impeachment under Liang Ji pressure, Zhang Gang's buried-wheel accusation against Liang Ji and Liang Buyi, and Emperor Shun's constrained review.
 - [The Trillion-Dollar Industries AI Is Disrupting: Voice, Law & the End of the Billable Hour](sources/all-in-with-chamath-jason-sacks-friedberg-the-trillion-dollar-industries-ai-is-disrupting-voice-law-the-end-of-the-billable-hour-42064555.md) - All-In episode with ElevenLabs and Legora on enterprise voice agents, voice identity and licensing, legal AI, legal data completeness, junior-lawyer agent orchestration, and billable-hour pressure.
 - [《资治通鉴·汉纪》827丨一句话引发的帝王之死](sources/zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2.md) — 芮淇讲透资治通鉴 episode on 146 CE Taixue expansion, Emperor Zhi's "跋扈将军" remark, Liang Ji's poisoning and deathbed water obstruction, Li Gu's exposure risk, the first Liu Suan recommendation, and Cao Teng's personal objection.
 - [EP 45: Why AI Agents Break in Production: The Missing Harness in Your Data Stack](sources/ep-45-why-ai-agents-break-in-production-the-missing-harness-in-your-data-stack.md) - Data Science With Sam episode with Pradmesh Patil on why production data agents need harnesses for schema and lineage context, deterministic SQL validation, cost and permission governance, and context compaction.
@@ -1655,6 +1656,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [张纲 / Zhang Gang (late Han)](entities/ZhangGangLateHan.md) — Late-Han inspector who buries his carriage wheel in Luoyang and directly impeaches Liang Ji and Liang Buyi rather than pursuing lesser officials.
+- [汉顺帝 / Emperor Shun of Han](entities/EmperorShunOfHan.md) — Eastern Han ruler whose 141-142 CE court recognizes Li Gu and hears Zhang Gang's anti-Liang accusation but cannot immediately punish the Liang network.
 - [Legora](entities/Legora.md) - Legal AI company profiled by All-In around legal data, agent orchestration, trust, compliance, and billable-hour disruption.
 - [Cooley](entities/Cooley.md) - Law-firm example of startup-founder legal-service productization through firm materials, precedent, and workflows.
 - [Kirkland Ellis](entities/KirklandEllis.md) - Large law-firm economics example used in All-In's discussion of AI pressure on billable hours and junior-lawyer work.

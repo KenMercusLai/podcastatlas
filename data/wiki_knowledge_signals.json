@@ -6900,9 +6900,9 @@
       "url": "/wiki/entities/dumilatehan/"
     },
     "DuQiaoLateHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》830丨东汉李固：我虽死犹荣！ [lt__j7n9gOTIW_nEgQXOJoAcf6Ji].md",
@@ -6931,6 +6931,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》827丨一句话引发的帝王之死",
           "url": "/wiki/sources/zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》822丨豺狼当道，他将矛头直指皇帝岳父？ [lqHpMAYVd3p07BYR_zOIv-jyhdv_].md",
+          "key": "zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》822丨豺狼当道，他将矛头直指皇帝岳父？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv/"
         }
       ],
       "updated": "2026-08-29",
@@ -7792,6 +7799,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/emperorhuanofhan/"
+    },
+    "EmperorShunOfHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》822丨豺狼当道，他将矛头直指皇帝岳父？ [lqHpMAYVd3p07BYR_zOIv-jyhdv_].md",
+          "key": "zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》822丨豺狼当道，他将矛头直指皇帝岳父？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/emperorshunofhan/"
     },
     "EmperorZhiOfHan": {
       "episode_count": 3,
@@ -10705,9 +10728,9 @@
       "url": "/wiki/concepts/highbetasciencefunding/"
     },
     "HighStatusLawEnforcementSignal": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮 [liMAFqSkGbLRweTeSTyH39w_hZM4].md",
@@ -10743,9 +10766,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》834丨历史告诉你：小人为何长戚戚？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-834-lishi-gaosu-ni-xiaoren-weihe-chang-qiqi-lj8z2vfu6lpggumcakwejoi6z9hc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》822丨豺狼当道，他将矛头直指皇帝岳父？ [lqHpMAYVd3p07BYR_zOIv-jyhdv_].md",
+          "key": "zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》822丨豺狼当道，他将矛头直指皇帝岳父？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-29",
       "url": "/wiki/concepts/highstatuslawenforcementsignal/"
     },
     "HistoricalComplexityAgainstLabels": {
@@ -11618,9 +11648,9 @@
       "url": "/wiki/concepts/humanrobotsafetycertification/"
     },
     "HumaneLocalGovernance": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》870丨古代体制内，不干了没有退路 [lpWBNiU9IFPT6Cp4ip9cZqwSh5XD].md",
@@ -11670,9 +11700,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》832丨为领导背锅，他是傻还是智？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》822丨豺狼当道，他将矛头直指皇帝岳父？ [lqHpMAYVd3p07BYR_zOIv-jyhdv_].md",
+          "key": "zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》822丨豺狼当道，他将矛头直指皇帝岳父？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-29",
       "url": "/wiki/concepts/humanelocalgovernance/"
     },
     "HumanoidRobotCommercialization": {
@@ -14172,9 +14209,9 @@
       "url": "/wiki/entities/ligaorunanlatehan/"
     },
     "LiGuLateHan": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》929丨对事不对人，你信了吗？ [lgaXJ0jzoPddmt3C5hiBNExqLhB3].md",
@@ -14217,6 +14254,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》827丨一句话引发的帝王之死",
           "url": "/wiki/sources/zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》822丨豺狼当道，他将矛头直指皇帝岳父？ [lqHpMAYVd3p07BYR_zOIv-jyhdv_].md",
+          "key": "zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》822丨豺狼当道，他将矛头直指皇帝岳父？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv/"
         }
       ],
       "updated": "2026-08-29",
@@ -14435,9 +14479,9 @@
       "url": "/wiki/entities/liyunlatehan/"
     },
     "LiangBuyiLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》836丨兄弟反目背后：儒者和奸臣的交锋 [lq9wJN5C8Mwt-OnRtSlUm4Fw53EQ].md",
@@ -14445,15 +14489,22 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》836丨兄弟反目背后：儒者和奸臣的交锋",
           "url": "/wiki/sources/zizhi-tongjian-hanji-836-xiongdi-fanmu-beihou-ruzhe-he-jianchen-de-jiaofeng-lq9wjn5c8mwt-onrtslum4fw53eq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》822丨豺狼当道，他将矛头直指皇帝岳父？ [lqHpMAYVd3p07BYR_zOIv-jyhdv_].md",
+          "key": "zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》822丨豺狼当道，他将矛头直指皇帝岳父？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-29",
       "url": "/wiki/entities/liangbuyilatehan/"
     },
     "LiangJiLateHan": {
-      "episode_count": 15,
+      "episode_count": 16,
       "show_count": 1,
-      "source_note_count": 15,
+      "source_note_count": 16,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿” [lvSA2pby8IyfEvfooBoBpIK52MiJ].md",
@@ -14559,6 +14610,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》827丨一句话引发的帝王之死",
           "url": "/wiki/sources/zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》822丨豺狼当道，他将矛头直指皇帝岳父？ [lqHpMAYVd3p07BYR_zOIv-jyhdv_].md",
+          "key": "zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》822丨豺狼当道，他将矛头直指皇帝岳父？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv/"
         }
       ],
       "updated": "2026-08-29",
@@ -18357,9 +18415,9 @@
       "url": "/wiki/concepts/outdoorvehiclelifestyledesign/"
     },
     "OuterRelativeCourtPower": {
-      "episode_count": 14,
+      "episode_count": 15,
       "show_count": 1,
-      "source_note_count": 14,
+      "source_note_count": 15,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》848丨瞬间垮台！我为何说他死有余辜？ [lgqVgMxlwga2fKnmtxPj3Ya9chk0].md",
@@ -18458,6 +18516,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》827丨一句话引发的帝王之死",
           "url": "/wiki/sources/zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》822丨豺狼当道，他将矛头直指皇帝岳父？ [lqHpMAYVd3p07BYR_zOIv-jyhdv_].md",
+          "key": "zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》822丨豺狼当道，他将矛头直指皇帝岳父？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv/"
         }
       ],
       "updated": "2026-08-29",
@@ -20848,9 +20913,9 @@
       "url": "/wiki/entities/romanceofthethreekingdoms/"
     },
     "RootCausePacification": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》922丨如何在凡尘中修炼情商？ [lsXIqNEYyEOd6AeeQxuhs517PN1X].md",
@@ -20900,9 +20965,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》855丨你有多无情，就有多强大",
           "url": "/wiki/sources/zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》822丨豺狼当道，他将矛头直指皇帝岳父？ [lqHpMAYVd3p07BYR_zOIv-jyhdv_].md",
+          "key": "zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》822丨豺狼当道，他将矛头直指皇帝岳父？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-29",
       "url": "/wiki/concepts/rootcausepacification/"
     },
     "RoyalExecutionLegitimacy": {
@@ -28016,6 +28088,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/zhangfanwanlatehan/"
+    },
+    "ZhangGangLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》822丨豺狼当道，他将矛头直指皇帝岳父？ [lqHpMAYVd3p07BYR_zOIv-jyhdv_].md",
+          "key": "zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》822丨豺狼当道，他将矛头直指皇帝岳父？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/zhangganglatehan/"
     },
     "ZhangHeLateHan": {
       "episode_count": 1,

@@ -10,14 +10,17 @@ sources:
   - zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq
   - zizhi-tongjian-hanji-828-da-jiangjun-liangji-shanquan-feili-de-donghan-jianchen-llqnqijagtmdlgitulddxspncu0e
   - zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2
+  - zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv
 last_updated: 2026-08-29
 ---
 
 ## Overview
-李固 / Li Gu is a late-Han upright minister whose Huan-era danger now begins at [[EmperorZhiOfHan|汉质帝]]'s poisoned deathbed. Hanji 827 shows him summoned during the emperor's pain and then grieving loudly enough to worry [[LiangJiLateHan|梁冀]]; Hanji 828 and Hanji 829 continue the same danger through Li Gu's opposition to Liu Zhi's accession and preference for [[LiuSuanLateHan|刘蒜]], before later imprisonment, prison death, defiant mourning, family survival, and contested-accession memory.
+李固 / Li Gu is a late-Han upright official whose current profile now begins before the Huan-era succession crisis. Hanji 822 shows him pacifying thieves in [[Jingzhou|荆州]] and [[Taishan|泰山]] through pardon, credibility, reduced force, and anti-corruption resolve even when [[LiangJiLateHan|梁冀]] protects corrupt officials. Later source notes then carry him into [[EmperorZhiOfHan|汉质帝]]'s poisoned deathbed, resistance to Liu Zhi's accession, prison death, defiant mourning, family survival, and contested-accession memory.
 
 ## Current Profile
-[[zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2|Hanji 827]] supplies the earliest current layer. When Emperor Zhi suffers abdominal pain after eating poisoned soup cake, he asks for Li Gu and says water might keep him alive. Liang Ji blocks the request, the emperor dies, and Li Gu's grief over the body plus his rebuke of the attending medical staff make him an immediate exposure risk for Liang Ji.
+[[zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv|Hanji 822]] supplies the earliest current layer. As Jingzhou inspector, Li Gu sends officials to comfort and pardon thieves, keeps the promise when Xia Mi and more than six hundred leaders surrender bound, and restores order within about half a year. He then impeaches corrupt Nanyang officials despite their bribing Liang Ji for protection; Liang has him moved to Taishan, but Li Gu again pacifies a long-running theft crisis by dismissing most troops, keeping a small capable force, and using reputation plus grace to induce surrender.
+
+[[zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2|Hanji 827]] supplies the first Huan-era danger layer. When Emperor Zhi suffers abdominal pain after eating poisoned soup cake, he asks for Li Gu and says water might keep him alive. Liang Ji blocks the request, the emperor dies, and Li Gu's grief over the body plus his rebuke of the attending medical staff make him an immediate exposure risk for Liang Ji.
 
 [[zizhi-tongjian-hanji-828-da-jiangjun-liangji-shanquan-feili-de-donghan-jianchen-llqnqijagtmdlgitulddxspncu0e|Hanji 828]] supplies the direct accession-dispute layer. When [[CaoTengLateHan|曹腾]] persuades Liang Ji to install Liu Zhi as [[EmperorHuanOfHan|汉桓帝]], Li Gu resists alongside [[DuQiaoLateHan|杜乔]]. Even after the senior court submits to Liang Ji's pressure, Li Gu writes further to Liang Ji, warning against the chosen course. Liang Ji grows angrier and has [[EmpressDowagerLiangNaLateHan|梁妠 / 梁太后]] remove Li Gu from the taiwei office.
 
@@ -30,15 +33,18 @@ The same source makes Li Gu's public meaning outlive the sentence. Liang Ji disp
 [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]] supplies the family-survival branch. Li Gu anticipates household catastrophe and sends his sons away; his elder sons are captured and die in prison, while [[LiWenjiLateHan|李文姬]] preserves [[LiXieLateHan|李燮]] through concealment and [[WangChengLiGuStudent|王成]]'s protection. [[zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3|Hanji 929]] preserves the later saying that the father would not establish an emperor and the son would not establish a king.
 
 ## Key Characteristics
+- Local governor whose Jingzhou and Taishan pacification combines pardon, credibility, selective force, and public trust.
+- Anti-corruption official whose Nanyang impeachment resists Liang Ji's protection of bribing local administrators.
 - Upright minister summoned during Emperor Zhi's poisoned deathbed and made dangerous by grief, questioning, and exposure risk.
 - Liu Suan succession supporter whose judgment threatens Liang-family and eunuch interests.
 - Taiwei removed after direct resistance to Liang Ji's preferred accession outcome.
 - Prison-death victim whose final letter presents death as loyalty fulfilled rather than disgrace.
-- Public figure whose students, petitioners, defenders, and mourners make Liang Ji's accusation politically contested.
-- Father whose line survives through Li Wenji's concealment of Li Xie and Wang Cheng's protection.
-- Succession precedent for Li Xie's later public-order judgment against restoring Liu Xu.
+- Public figure whose students, petitioners, defenders, mourners, and surviving family make Liang Ji's accusation politically contested.
 
 ## Evidence
+- Local pacification and credibility: [[zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv|Hanji 822]] says Li Gu pardons Jingzhou thieves, keeps the surrender promise, and restores order after Xia Mi and more than six hundred leaders submit.
+- Resistance to protected corruption: [[zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv|Hanji 822]] says Li Gu intensifies the Nanyang corruption investigation even after the accused officials bribe Liang Ji for intervention.
+- Taishan method and promotion: [[zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv|Hanji 822]] says Li Gu dismisses most troops in Taishan, pacifies thieves through grace and authority, and is later summoned by Emperor Shun after Du Qiao praises his performance.
 - Deathbed witness and exposure risk: [[zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2|Hanji 827]] says Emperor Zhi asks for Li Gu while poisoned, and Liang Ji later fears Li Gu's grief and questioning because the poisoning could be exposed.
 - Initial Liu Suan recommendation: [[zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2|Hanji 827]] says Li Gu, Hu Guang, Zhao Jie, and Du Qiao urge careful consultation and recommend Liu Suan after Zhi's death.
 - Direct accession resistance: [[zizhi-tongjian-hanji-828-da-jiangjun-liangji-shanquan-feili-de-donghan-jianchen-llqnqijagtmdlgitulddxspncu0e|Hanji 828]] says Li Gu and Du Qiao continue opposing Liu Zhi's accession after most officials submit to Liang Ji.
@@ -51,17 +57,20 @@ The same source makes Li Gu's public meaning outlive the sentence. Liang Ji disp
 - Family survival and memory: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]] says Li Wenji and Wang Cheng preserve Li Xie; [[zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3|Hanji 929]] recalls Li Gu as the official who would not establish the later Emperor Huan.
 
 ## Qualifications
-This page remains bounded to the listed podcast source notes, not a full biography of Li Gu's career. Hanji 827 gives the poisoned-deathbed and initial Liu Suan recommendation layer; Hanji 828 gives the direct accession debate and office-removal layer; Hanji 829 shows the resentment and accusation afterlife; Hanji 830 is treated as the final persecution layer; Hanji 853 gives the family-disaster branch; Hanji 929 gives later memory through Li Xie. Details such as Ma Rong's drafting role, Luan Ba, the Xia Gate亭长, and exact-letter wording remain source-scoped until more sources warrant expansion.
+This page remains bounded to the listed podcast source notes, not a full biography of Li Gu's career. Hanji 822 gives the local-governance and anti-corruption layer under Emperor Shun; Hanji 827 gives the poisoned-deathbed and initial Liu Suan recommendation layer; Hanji 828 gives the direct accession debate and office-removal layer; Hanji 829 shows the resentment and accusation afterlife; Hanji 830 is treated as the final persecution layer; Hanji 853 gives the family-disaster branch; Hanji 929 gives later memory through Li Xie. Xia Mi, Gao Ci, Chong Hao, Wu Xiong, Ma Rong's drafting role, Luan Ba, the Xia Gate亭长, and exact-letter wording remain source-scoped until more sources warrant expansion.
 
 ## What Changed
-- Added Hanji 827 as Li Gu's first current Huan-era danger: summoned during Emperor Zhi's poisoning, grieving over the body, and recommending Liu Suan after the death.
-- Reframed Hanji 828 as the continuation of an already dangerous exposure and succession conflict.
-- Preserved Hanji 829's eunuch slander as a later reuse of the accession dispute rather than the first appearance of that issue.
-- Preserved the prison-death, family-survival, and later-memory layers as consequences of the same succession conflict.
+- Added Hanji 822 as Li Gu's earliest current layer: local pacification, anti-corruption resolve, and Taishan recognition under Emperor Shun.
+- Reframed Hanji 827 as the start of Li Gu's Huan-era danger, not the beginning of his current profile.
+- Connected Li Gu's later resistance to a preexisting profile of credibility, bounded force, and refusal to yield to Liang Ji's protection network.
+- Preserved the prison-death, family-survival, and later-memory layers as consequences of the later succession conflict.
 
 ## Relationships
+- [[EmperorShunOfHan]] - earlier ruler who summons Li Gu after his Taishan performance is praised.
+- [[Jingzhou]] and [[Taishan]] - local settings where Li Gu's pacification method is visible.
 - [[EmperorZhiOfHan]] - dying emperor who summons Li Gu after the poisoning.
 - [[LiangJiLateHan]] - political enemy whose poisoning, succession pressure, accusation, reaccusation, and terror define Li Gu's final crisis.
+- [[ZhangGangLateHan]] - same-source contrast who targets court corruption while Li Gu repairs local disorder.
 - [[DuQiaoLateHan]] - fellow upright minister paired with Li Gu in accession resistance, accusation, prison, and body-display sequence.
 - [[LiuSuanLateHan]] - imperial-clan alternative whose candidacy explains Li Gu's earlier succession stance.
 - [[CaoTengLateHan]] - eunuch adviser whose argument helps defeat Li Gu's preferred succession outcome.
@@ -74,3 +83,5 @@ This page remains bounded to the listed podcast source notes, not a full biograp
 - [[LiXieLateHan]] - son whose survival and later court judgment carry Li Gu's memory forward.
 - [[SelfProtectiveAccessionChoice]] - concept explaining why Li Gu's objection threatens the powerholders' accession plan.
 - [[MoralReputationPoliticalCapital]] - reputation resource that survives Liang Ji's attempt to criminalize Li Gu.
+- [[RootCausePacification]] - governance pattern Li Gu extends through surrender, pardon, and reduced confrontation.
+- [[HumaneLocalGovernance]] - local-governance concept that Li Gu extends through credibility and restraint.

@@ -19,14 +19,17 @@ sources:
   - zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq
   - zizhi-tongjian-hanji-828-da-jiangjun-liangji-shanquan-feili-de-donghan-jianchen-llqnqijagtmdlgitulddxspncu0e
   - zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2
+  - zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv
 last_updated: 2026-08-29
 ---
 
 ## Overview
-梁冀 / Liang Ji is the late-Eastern-Han outer-relative powerholder whose current profile now begins with the poisoning of [[EmperorZhiOfHan|汉质帝]] after the child emperor calls him "跋扈将军". The same 146 CE sequence then turns into succession capture: [[CaoTengLateHan|曹腾]] helps steer Liang away from [[LiuSuanLateHan|刘蒜]] toward Liu Zhi, Liang pressures the senior court into ratification, and [[LiGuLateHan|李固]] plus [[DuQiaoLateHan|杜乔]] become long-running threats. Later sources show accession reward, ministerial terror, honor expansion, private extraction, ignored warnings, court ritual breach, kinship surveillance, overlarge reward, frontier-official suppression, imperial marriage, household terror, harem crisis, and palace-coup liquidation.
+梁冀 / Liang Ji is the late-Eastern-Han outer-relative powerholder whose current profile now begins under [[EmperorShunOfHan|汉顺帝]] with protected corruption and a direct but blocked impeachment. Hanji 822 shows corrupt Nanyang officials bribing Liang for protection, Liang moving [[LiGuLateHan|李固]] away from the case, and [[ZhangGangLateHan|张纲]] accusing Liang and [[LiangBuyiLateHan|梁不疑]] while the emperor cannot immediately punish them. Later sources escalate that early protection network into the poisoning of [[EmperorZhiOfHan|汉质帝]], succession capture, ministerial terror, honor expansion, private extraction, ignored warnings, court ritual breach, kinship surveillance, overlarge reward, frontier-official suppression, imperial marriage, household terror, harem crisis, and palace-coup liquidation.
 
 ## Current Profile
-[[zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2|Hanji 827]] supplies the earliest current Liang layer. Liang is already described as domineering in court under empress-dowager kinship protection; when Emperor Zhi publicly calls him "跋扈将军", Liang treats the remark as evidence that the young ruler will become uncontrollable. He bribes an attendant to poison the emperor's soup cake, blocks the deathbed request for water, and then fears Li Gu's grief and questioning because they threaten to expose the murder.
+[[zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv|Hanji 822]] supplies the earliest current Liang layer. Liang is already powerful enough that corrupt Nanyang officials seek his protection through bribery; when Li Gu intensifies the investigation, Liang has Li Gu transferred to Taishan. The same source then shows Zhang Gang refusing a routine inspection circuit, burying his wheel in Luoyang, and directly impeaching Liang Ji and Liang Buyi on fifteen major charges. Emperor Shun knows the charges are true but cannot immediately punish them because Liang-family harem favor and court networks are too strong.
+
+[[zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2|Hanji 827]] supplies the first imperial-murder layer. Liang is already described as domineering in court under empress-dowager kinship protection; when Emperor Zhi publicly calls him "跋扈将军", Liang treats the remark as evidence that the young ruler will become uncontrollable. He bribes an attendant to poison the emperor's soup cake, blocks the deathbed request for water, and then fears Li Gu's grief and questioning because they threaten to expose the murder.
 
 [[zizhi-tongjian-hanji-828-da-jiangjun-liangji-shanquan-feili-de-donghan-jianchen-llqnqijagtmdlgitulddxspncu0e|Hanji 828]] supplies the immediate succession layer. After Emperor Zhi dies, Cao Teng warns Liang that Liu Suan's severity and clarity would threaten Liang's guests and eunuch wealth; Liang accepts the self-protective logic, pushes the Three Excellencies and Nine Ministers toward Liu Zhi, and then uses [[EmpressDowagerLiangNaLateHan|梁妠 / 梁太后]]'s authority to remove Li Gu after Li Gu continues objecting. The episode also shows Liang ignoring [[ZhuMuLateHan|朱穆]]'s early staff advice to choose upright teachers and qualified court officials for the new emperor.
 
@@ -43,15 +46,18 @@ Hanji 845 through Hanji 848 supply the household-to-coup sequence. Liang Ying's 
 [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]] preserves the family-aftershock of the Li Gu struggle. It shows Liang repeatedly escalating from policy defeat to imprisonment and execution once Li Gu threatens outer-relative control over succession and legitimacy, while Li Gu's surviving line later becomes an object of imperial repair.
 
 ## Key Characteristics
-- Overmighty outer-relative who can treat a child emperor's public criticism as a reason for murder.
+- Overmighty outer-relative whose protection network already shields corrupt officials before later imperial murder.
+- Direct impeachment target whose guilt can be recognized by the ruler without producing immediate punishment.
 - Succession operator who turns the vacancy created by that murder into a self-protective ruler-selection decision.
 - Court operator who treats succession legitimacy, upright ministers, ritual limits, and appointment quality as structural threats to Liang-family control.
 - Retaliatory-terror actor who punishes warning, lawful enforcement, omitted deference, property refusal, social contact, and moral criticism.
 - Household ruler whose spouse, retainers, estate, access brokers, and kinship network turn private status into public coercion.
-- Privilege maximizer whose extraordinary reward and etiquette do not satisfy his political appetite.
 - Coup target whose defeat requires secrecy, palace communication control, command-symbol seizure, and rapid liquidation of clan offices.
 
 ## Evidence
+- Protected Nanyang corruption: [[zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv|Hanji 822]] says corrupt Nanyang officials bribe Liang Ji for protection after Li Gu impeaches them, and Liang has Li Gu transferred to Taishan.
+- Direct but blocked impeachment: [[zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv|Hanji 822]] says Zhang Gang directly impeaches Liang Ji and Liang Buyi, while Emperor Shun knows the charges are true but cannot immediately punish them.
+- Protected network review: [[zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv|Hanji 822]] says many inspector accusations stall because the accused are Liang or eunuch relatives and associates, requiring later renewed review.
 - Child-emperor poisoning: [[zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2|Hanji 827]] says Liang bribes an attendant to poison Emperor Zhi after the child emperor calls him "跋扈将军"; [[zizhi-tongjian-hanji-835-donghan-diyi-quanchen-weihe-yao-gui-ta-lpwezt-z-2qloitwd3t4gyxznqbo|Hanji 835]] preserves the same episode as a later cautionary recall.
 - Cover-up risk and Li Gu hostility: [[zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2|Hanji 827]] says Liang blocks the emperor's request for water and later fears Li Gu's grief and questioning because the poisoning might be exposed.
 - Self-protective succession choice: [[zizhi-tongjian-hanji-828-da-jiangjun-liangji-shanquan-feili-de-donghan-jianchen-llqnqijagtmdlgitulddxspncu0e|Hanji 828]] says Cao Teng persuades Liang to prefer Liu Zhi because Liu Suan would threaten Liang's guests and eunuch fortunes.
@@ -71,15 +77,18 @@ Hanji 845 through Hanji 848 supply the household-to-coup sequence. Liang Ying's 
 - Household crisis and terminal liquidation: [[zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx|Hanji 847]] and [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|Hanji 848]] show Sun Shou and Deng Huan opening the coup opportunity, followed by palace communication control, Liang's suicide, and removal of Liang-family officeholders.
 
 ## Qualifications
-This profile is a bounded synthesis of the listed podcast source notes, not a complete biography or institutional monograph. Hanji 827 gives the direct poisoning and cover-up layer; Hanji 828 gives the accession-choice and first Li Gu removal layer; Hanji 829 and Hanji 830 follow as reward, resistance, and terror layers; Hanji 853 reconstructs family consequences. Hanji 833-846 preserve source-scoped numbers, property figures, legal forms, and victim details. The existing timing tension remains between [[zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx|Hanji 847]], where Xuan survives a failed assassination attempt and helps catalyze the anti-Liang move, and [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|Hanji 848]], where Xuan is compressed into a death-triggered lead-up.
+This profile is a bounded synthesis of the listed podcast source notes, not a complete biography or institutional monograph. Hanji 822 gives the protected-corruption, Zhang Gang impeachment, and blocked-legal-response layer under Emperor Shun; Hanji 827 gives the direct poisoning and cover-up layer; Hanji 828 gives the accession-choice and first Li Gu removal layer; Hanji 829 and Hanji 830 follow as reward, resistance, and terror layers; Hanji 853 reconstructs family consequences. Hanji 833-846 preserve source-scoped numbers, property figures, legal forms, and victim details. Xia Mi, Gao Ci, Chong Hao, Wu Xiong, and Zhang Gang's exact fifteen charges remain source-scoped. The existing timing tension remains between [[zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx|Hanji 847]], where Xuan survives a failed assassination attempt and helps catalyze the anti-Liang move, and [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|Hanji 848]], where Xuan is compressed into a death-triggered lead-up.
 
 ## What Changed
-- Added Hanji 827 as Liang Ji's earliest current layer: Emperor Zhi's public criticism, poisoning, deathbed water obstruction, and Li Gu cover-up risk.
-- Reframed Hanji 828 as the succession-capture layer after Liang has already crossed into imperial murder.
-- Kept Hanji 829 as accession reward and Du Qiao resistance, Hanji 830 as ministerial terror, and Hanji 833-848 as the later expansion and liquidation sequence.
-- Recentered Liang's profile around the movement from killing a ruler to controlling succession, offices, households, and palace symbols.
+- Added Hanji 822 as Liang Ji's earliest current layer: protected local corruption, direct Zhang Gang impeachment, and Emperor Shun's inability to punish the Liang brothers immediately.
+- Reframed Hanji 827 as the first imperial-murder layer rather than the beginning of Liang's current profile.
+- Kept Hanji 828 as succession capture after imperial murder, Hanji 829 as accession reward and Du Qiao resistance, Hanji 830 as ministerial terror, and Hanji 833-848 as the later expansion and liquidation sequence.
+- Recentered Liang's profile around a movement from protected corruption to killing a ruler, controlling succession, dominating offices and households, and losing only to palace-coup mechanics.
 
 ## Relationships
+- [[EmperorShunOfHan]] - earlier ruler who recognizes Zhang Gang's charges against Liang but cannot immediately punish him.
+- [[ZhangGangLateHan]] - direct accuser whose buried-wheel impeachment exposes Liang's protected position before the later Huan-era crisis.
+- [[LiangBuyiLateHan]] - brother and co-impeachment target whose later household becomes a surveillance site.
 - [[EmperorZhiOfHan]] - child emperor whom Liang kills after the public "跋扈将军" remark.
 - [[CaoTengLateHan]] - eunuch adviser whose self-protective succession argument Liang accepts after Zhi's death.
 - [[EmperorHuanOfHan]] - Liu Zhi, the ruler Liang installs and later fights for control over.

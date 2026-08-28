@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "1d2a90e8e7cf9f976bb20e7e21455a73c6de591a5e71cabba8246b865d628e0b",
       "255bdb14726d1bdf71b3b416f890df3b985e38853cfb8965f9583d6369d452a0",
       "7fa4b522d9138d8bcea60cd4524a0957bc30c7b0ba93b0328017a374f865c61f",
       "1cf3e2334ec0cb0286f2e91cfa9347f2366b8e3051a9ccb941881e6027dc5809",
@@ -346,11 +347,37 @@
       "b7fe88c4a3ea92e3484da7ba393768450cea0ebc036e6acdec39ec881741cf34",
       "082a8129ce267d83fa695011e4d1d9ec611a2911fab24932213544b548f520cf"
     ],
-    "paragraph_count": 344
+    "paragraph_count": 345
   },
-  "overview_commit": "fb5044dfd18007b8222896639f3bf77135581bc0",
-  "overview_digest": "4f3dd72027c3fce6c2790da58a849a065d1c35338eeefe38c322632c30c43e47",
+  "overview_commit": "f0814b8df12c9ed709dd12c37ee73f120d2cb423",
+  "overview_digest": "d1d5d644ca90b2b9dd987b1dc72ef95c8c7af7feef1145fbfe405ac2773d510e",
   "paragraphs": [
+    {
+      "id": "1d2a90e8e7cf9f976bb20e7e21455a73c6de591a5e71cabba8246b865d628e0b",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv|《资治通鉴·汉纪》822丨豺狼当道，他将矛头直指皇帝岳父？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 141-142 CE [[EmperorShunOfHan|汉顺帝]] layer before [[zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2|Hanji 827]]. It adds [[ZhangGangLateHan|张纲]] and [[EmperorShunOfHan|汉顺帝]], while extending [[LiGuLateHan|李固]], [[LiangJiLateHan|梁冀]], [[LiangBuyiLateHan|梁不疑]], [[DuQiaoLateHan|杜乔]], [[HumaneLocalGovernance|仁厚地方治理]], [[RootCausePacification|查因安抚式治理]], [[HighStatusLawEnforcementSignal|高位执法信号]], and [[OuterRelativeCourtPower|外戚专权与清算]]. Its core synthesis is that early Liang-family danger appears before imperial murder: Li Gu can still restore local order through credible pardon, reduced confrontation, and anti-corruption resolve, but corrupt officials already seek Liang Ji's protection and Zhang Gang's direct \"wolves before foxes\" impeachment cannot immediately convert into punishment. No settled contradiction is recorded; Xia Mi, Gao Ci, Chong Hao, Wu Xiong, Wu Si, the other inspectors, and exact fifteen-count charges remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 3,
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "DuQiaoLateHan",
+        "EmperorShunOfHan",
+        "HighStatusLawEnforcementSignal",
+        "HumaneLocalGovernance",
+        "LiGuLateHan",
+        "LiangBuyiLateHan",
+        "LiangJiLateHan",
+        "OuterRelativeCourtPower",
+        "RootCausePacification",
+        "RuiqiJiangtouZizhiTongjian",
+        "ZhangGangLateHan",
+        "zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv",
+        "zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2"
+      ]
+    },
     {
       "id": "255bdb14726d1bdf71b3b416f890df3b985e38853cfb8965f9583d6369d452a0",
       "primary_topic": "governance-and-institutions",
