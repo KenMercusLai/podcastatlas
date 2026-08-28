@@ -4223,6 +4223,10 @@
     "title": "An Conghui / 安聪慧",
     "url": "/wiki/entities/anconghui/"
   },
+  "AnGuoKhotanLateHan": {
+    "title": "安国 / Anguo (Khotan, late Han)",
+    "url": "/wiki/entities/anguokhotanlatehan/"
+  },
   "AnQi": {
     "title": "安琪",
     "url": "/wiki/entities/anqi/"
@@ -26755,6 +26759,14 @@
     "title": "聚美优品 / Jumei Youpin",
     "url": "/wiki/entities/jumeiyoupin/"
   },
+  "JumiKingChengguoLateHan": {
+    "title": "居弥王成国 / King Chengguo of Jumi",
+    "url": "/wiki/entities/jumikingchengguolatehan/"
+  },
+  "JumiKingdomLateHan": {
+    "title": "居弥国 / Jumi Kingdom (late Han)",
+    "url": "/wiki/entities/jumikingdomlatehan/"
+  },
   "JumillaCF": {
     "title": "胡米利亚足球俱乐部 / Jumilla CF",
     "url": "/wiki/entities/jumillacf/"
@@ -27282,6 +27294,14 @@
   "KhmerEmpire": {
     "title": "Khmer Empire / 吴哥王朝",
     "url": "/wiki/entities/khmerempire/"
+  },
+  "KhotanKingJianLateHan": {
+    "title": "于阗王建 / King Jian of Khotan",
+    "url": "/wiki/entities/khotankingjianlatehan/"
+  },
+  "KhotanKingdomLateHan": {
+    "title": "于阗国 / Khotan Kingdom (late Han)",
+    "url": "/wiki/entities/khotankingdomlatehan/"
   },
   "KhurshidAhmed": {
     "title": "Khurshid Ahmed",
@@ -42335,6 +42355,10 @@
     "title": "Rumination Vs Reflection",
     "url": "/wiki/concepts/ruminationvsreflection/"
   },
+  "RumorDrivenFrontierIntervention": {
+    "title": "谣言驱动的边疆干预 / Rumor-Driven Frontier Intervention",
+    "url": "/wiki/concepts/rumordrivenfrontierintervention/"
+  },
   "RumorErosionOfTrust": {
     "title": "Rumor Erosion of Trust / 谣言侵蚀信任",
     "url": "/wiki/concepts/rumorerosionoftrust/"
@@ -44402,6 +44426,10 @@
   "Shubo": {
     "title": "Shubo",
     "url": "/wiki/entities/shubo/"
+  },
+  "ShuboKhotanLateHan": {
+    "title": "输僰 / Shubo (Khotan, late Han)",
+    "url": "/wiki/entities/shubokhotanlatehan/"
   },
   "ShuihudiQinJian": {
     "title": "睡虎地秦简 / Shuihudi Qin Slips",
@@ -50179,6 +50207,10 @@
     "title": "边疆将领擅断干预 / Unauthorized Frontier Command Intervention",
     "url": "/wiki/concepts/unauthorizedfrontiercommandintervention/"
   },
+  "UnboundedEliteRewardDemand": {
+    "title": "受宠权臣的无餍封赏 / Unbounded Elite Reward Demand",
+    "url": "/wiki/concepts/unboundedeliterewarddemand/"
+  },
   "UncapturedHumanExperienceDataLimit": {
     "title": "Uncaptured Human Experience Data Limit",
     "url": "/wiki/concepts/uncapturedhumanexperiencedatalimit/"
@@ -51358,6 +51390,10 @@
   "WangJien": {
     "title": "王继恩 / Wang Jien",
     "url": "/wiki/entities/wangjien/"
+  },
+  "WangJingXiyuLateHan": {
+    "title": "王敬 / Wang Jing (Western Regions, late Han)",
+    "url": "/wiki/entities/wangjingxiyulatehan/"
   },
   "WangJiping": {
     "title": "Wang Jiping",
@@ -60778,6 +60814,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr": {
+    "title": "《资治通鉴·汉纪》838丨贪婪的诱惑，让他狂飙在作死的路上",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr/"
   },
   "zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua": {
     "title": "《资治通鉴·汉纪》839丨你能做到问心无愧吗？",

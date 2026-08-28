@@ -49275,6 +49275,13 @@
       "url": "/topics/science/"
     }
   ],
+  "RumorDrivenFrontierIntervention": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "RumorErosionOfTrust": [
     {
       "key": "history",
@@ -59126,6 +59133,13 @@
     }
   ],
   "UnauthorizedFrontierCommandIntervention": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "UnboundedEliteRewardDemand": [
     {
       "key": "politics",
       "label": "Politics",

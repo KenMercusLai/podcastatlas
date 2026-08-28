@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 8118
+wiki_total_pages: 8125
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -923,6 +923,9 @@ wiki_pages:
   - key: "WangChengLiGuStudent"
     title: "王成 / Wang Cheng (Li Gu student)"
     url: "/wiki/entities/wangchengligustudent/"
+  - key: "WangJingXiyuLateHan"
+    title: "王敬 / Wang Jing (Western Regions, late Han)"
+    url: "/wiki/entities/wangjingxiyulatehan/"
   - key: "WangWenfeng"
     title: "王文锋 / Wang Wenfeng"
     url: "/wiki/entities/wangwenfeng/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》838丨贪婪的诱惑，让他狂飙在作死的路上](sources/zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr.md) — 芮淇讲透资治通鉴 episode on 151 CE Liang Ji reward excess, Huang Qiong's partial restraint, and Wang Jing's failed Jumi-Khotan intervention in the Western Regions.
 - [《资治通鉴·汉纪》839丨你能做到问心无愧吗？](sources/zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua.md) — 芮淇讲透资治通鉴 episode on 153 CE Jizhou disaster response, Zhu Mu's enforcement against Zhao Zhong's father's burial privilege, Liu Tao and Taixue petitioning, Ying Feng's Wuling surrender, and Cheshi Aluoduo's restoration.
 - [《资治通鉴·汉纪》840丨眼光长远的人有多厉害？](sources/zizhi-tongjian-hanji-840-yanguang-changyuan-de-ren-you-duo-lihai-lvzfg8zbp0nugjg0iybgukz-cxgv.md) — 芮淇讲透资治通鉴 episode on 154-155 CE disasters, Liu Tao's ignored anti-eunuch remonstrance, Zhang Huan's 200-soldier frontier response, Eastern Qiang separation, and refusal of Qiang gifts.
 - [《资治通鉴·汉纪》841丨绝不手软！揭秘战争的残酷真相](sources/zizhi-tongjian-hanji-841-juebu-shouruan-jiemi-zhanzheng-de-canku-zhenxiang-losza81gissyijywwe0vxadw5ia0.md) — 芮淇讲透资治通鉴 episode on Xiongnu autumn raids, Han Wudi's spring anti-Xiongnu strategy, war as logistics and reproduction pressure, and Zhang Huan's refusal of Qiang gifts.
@@ -1636,6 +1637,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [王敬 / Wang Jing (Western Regions, late Han)](entities/WangJingXiyuLateHan.md) — Han Western Regions official whose rumor-driven Khotan banquet killing triggers Shubo's retaliatory execution of him and a failed intervention chain.
+- [拘弥国 / Jumi Kingdom (late Han)](entities/JumiKingdomLateHan.md) — Western Regions kingdom used as the information corridor through which King Chengguo steers Han suspicion against Khotan.
+- [成国 / King Chengguo of Jumi](entities/JumiKingChengguoLateHan.md) — Jumi ruler whose allegations against Khotan King Jian help set up Wang Jing's failed intervention.
+- [于阗国 / Khotan Kingdom (late Han)](entities/KhotanKingdomLateHan.md) — Western Regions kingdom destabilized by accusations, King Jian's killing, Shubo's brief self-enthronement, and Anguo's installation.
+- [建 / King Jian of Khotan](entities/KhotanKingJianLateHan.md) — Khotan ruler accused through the Jumi channel and killed at Wang Jing's banquet.
+- [输僰 / Shubo of Khotan](entities/ShuboKhotanLateHan.md) — Khotan general or noble who kills Wang Jing after Jian's death, briefly self-enthrones, and is killed by Khotan people.
+- [安国 / Anguo of Khotan](entities/AnGuoKhotanLateHan.md) — Son of Khotan King Jian installed after Shubo's failed self-enthronement.
 - [阎祥 / Yan Xiang (Cheshi, late Han)](entities/YanXiangCheshiLateHan.md) — Wuji xiaowei who restores Aluoduo as Cheshi Hou king after surrender to prevent wider Northern Xiongnu involvement.
 - [阿罗多 / Aluoduo (Cheshi, late Han)](entities/AluoduoCheshiLateHan.md) — Cheshi Hou king whose rebellion, flight, return, and negotiated restoration show recognition used to contain frontier risk.
 - [车师后王国 / Later Cheshi Kingdom (late Han)](entities/CheshiHouKingdomLateHan.md) — Western Regions dependent polity whose Aluoduo succession crisis is settled through Han restoration rather than hostage-prince replacement.
@@ -1671,7 +1679,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [POINTER Trial](entities/POINTERTrial.md) — U.S. multidomain dementia-prevention trial combining diet, exercise, cardiovascular-risk treatment, and brain training in Wood's summary.
 - [南基贺 / Nan Jihe](entities/NanJiHe.md) — Seoul psychiatrist guest in VOL.214 explaining school authority conflict, workplace bullying, structural power imbalance, and psychological boundary protection.
 - [《铁拳教育》 / True Education](entities/TrueEducationKDrama.md) — Korean drama used in VOL.214 as a hook for school authority, parent control, youth violence, and workplace-bullying analogies.
-- [黄琼 / Huang Qiong (late Han)](entities/HuangQiongLateHan.md) — Late-Han high official whose profile combines a post-Liang cleanup window, Fan Pang's 159 CE recruitment, an ignored illness memorial against Huan's court inversion, 161 CE office turnover, and later funeral reputation.
+- [黄琼 / Huang Qiong (late Han)](entities/HuangQiongLateHan.md) — Late-Han high official whose profile begins with 151 CE restraint of Liang Ji's reward expansion before post-Liang cleanup, Fan Pang's recruitment, ignored remonstrance, office turnover, and funeral reputation.
 - [姜公 / Jiang Gong (late Han)](entities/JiangGongLateHan.md) — Late-Han recluse whose brothers' robber encounter, mutual self-sacrifice, non-retaliatory conduct, and refusal of Huan's summons make family virtue a court-credibility test.
 - [韦著 / Wei Zhu (late Han)](entities/WeiZhuLateHan.md) — Late-Han recluse who teaches at home, refuses public office, and avoids current affairs as a compact refusal profile under Emperor Huan.
 - [李昙 / Li Tan (late Han)](entities/LiTanLateHan.md) — Late-Han Yingchuan recluse, distinct from Warring States Li Tan, whose severe stepmother service and office refusal link filial discipline to principled withdrawal.
@@ -1962,7 +1970,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [郭贵人 / Guo Guiren (Huan-era)](entities/GuoGuirenHuanLateHan.md) — Emperor Huan consort who outlasts Empress Deng but loses favor, showing palace victory without stable protection.
 - [窦妙 / Empress Dowager Dou Miao](entities/EmpressDowagerDouMiao.md) — Late-Han empress dowager whose profile runs from formal selection over Tian Sheng through child accession, seizure, confinement, later support, and disputed burial.
 - [董萌 / Dong Meng (late Han)](entities/DongMengLateHan.md) — Huangmenling who speaks for Empress Dowager Dou Miao before Cao Jie and Wang Fu recode the Dou grievance into a fatal accusation.
-- [汉桓帝 / Emperor Huan of Han](entities/EmperorHuanOfHan.md) — Late-Han emperor whose profile now begins with 158 CE frontier legitimacy management and Chen Gui inaction before the Liang Ying marriage layer, anti-Liang coup, and later feedback failures.
+- [汉桓帝 / Emperor Huan of Han](entities/EmperorHuanOfHan.md) — Late-Han emperor whose profile now begins with 151-152 CE Liang Ji overreward and Khotan-restraint decisions before frontier legitimacy, Liang-family marriage, anti-Liang coup, and feedback failures.
 - [梁盈 / Empress Liang Ying (late Han)](entities/EmpressLiangYingLateHan.md) — Huan's first empress, whose family-backed title, pre-marriage body inspection, childlessness, and death form the household layer before the anti-Liang coup.
 - [朱穆 / Zhu Mu (late Han)](entities/ZhuMuLateHan.md) — Huan-era official whose profile runs from Jizhou disaster cleanup and Zhao Zhong burial enforcement to later anti-eunuch access remonstrance.
 - [襄楷 / Xiang Kai (late Han)](entities/XiangKaiLateHan.md) — Late-Han remonstrant who criticizes Emperor Huan through stars, disasters, Yellow River signs, succession pressure, eunuch favor, and Buddhist-Daoist restraint language.
@@ -2144,7 +2152,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [李文姬 / Li Wenji (late Han)](entities/LiWenjiLateHan.md) — Li Gu's daughter and Li Xie's sister who hides Li Xie, entrusts him to Wang Cheng, and teaches post-return restraint.
 - [王成 / Wang Cheng (Li Gu student)](entities/WangChengLiGuStudent.md) — Li Gu's student who carries Li Xie into Xuzhou, manages a hidden identity, and receives Li Xie's later ritual repayment.
 - [陈寿 / Chen Shou (Taishi ling, late Han)](entities/ChenShouTaishiLingLateHan.md) — Huan-era Taishi ling who blames the 158 CE eclipse on Liang Ji and dies after Liang's retaliatory arrest and torture; distinct from the Three Kingdoms historian.
-- [梁冀 / Liang Ji (late Han)](entities/LiangJiLateHan.md) — Powerful late-Han outer-relative figure whose profile now begins with Chen Gui's persecution before Liang Ying's empress-marriage layer, crime-record terror, Li Gu's disaster, household crisis, and 159 CE network liquidation.
+- [梁冀 / Liang Ji (late Han)](entities/LiangJiLateHan.md) — Powerful late-Han outer-relative figure whose profile now begins with 151 CE overreward and dissatisfaction before Chen Gui's persecution, Liang Ying's marriage layer, crime-record terror, and 159 CE liquidation.
 - [陈龟 / Chen Gui (Duliao general)](entities/ChenGuiDuliaoGeneralLateHan.md) — Huan-era Duliao general whose 158 CE frontier cleanup and Bingzhou/Liangzhou relief proposal precedes his later Liang Ji conflict, ignored memorial, and hunger-strike death.
 - [吴树 / Wu Shu (Wan magistrate, late Han)](entities/WuShuWanMagistrateLateHan.md) — Wan magistrate whose refusal to shield Liang Ji's guests and later enforcement against them ends in poisoning.
 - [郝猛 / Hao Meng (Dong Commandery, late Han)](entities/HaoMengDongjunLateHan.md) — Dong Commandery appointee killed by Liang Ji after failing to perform pre-office deference.
@@ -9758,6 +9766,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Rumor-Driven Frontier Intervention / 谣言驱动的边疆干预](concepts/RumorDrivenFrontierIntervention.md) — Frontier-governance failure pattern where accusations passed through an interested intermediary trigger coercive intervention before evidence is secure.
+- [Unbounded Elite Reward Demand / 受宠权臣的无餍封赏](concepts/UnboundedEliteRewardDemand.md) — Reward-failure pattern where a favored powerholder treats extraordinary grants as insufficient because privilege has become an entitlement baseline.
 - [尽责问心无愧 / Conscience Through Duty](concepts/ConscienceThroughDuty.md) — Source-scoped ethic that judges life and office by honest self-knowledge, effort, and fulfilled responsibility under constraints.
 - [太学集体请命 / Taixue Collective Petition](concepts/TaixueCollectivePetition.md) — Late-Han feedback pattern where Taixue students collectively petition to defend a punished official and expose structural abuse.
 - [丧葬名分僭越 / Funerary Privilege Abuse](concepts/FuneraryPrivilegeAbuse.md) — Pattern where politically connected households use above-rank burial symbols to convert private power into public status.
@@ -9939,7 +9949,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [军费通道利益驱动 / Campaign Finance Access Incentive](concepts/CampaignFinanceAccessIncentive.md) — Pattern where costly military campaigns create funding, reward, and approval channels that palace-access actors have reason to influence.
 - [Palace Proximity Power / 宫廷近身权力](concepts/PalaceProximityPower.md) — Concept where near-body servants and daily palace access supply confidential recruitment, emergency command, and later political leverage before formal authority is visible.
 - [Palace Coup Symbol Control / 宫廷政变中的符印与门户控制](concepts/PalaceCoupSymbolControl.md) — Hanji 847-848 pattern where secret insider recruitment precedes the palace entry, shangshu, guard, seal, tally, and office-insignia control that makes a coup operational.
-- [Outer-Relative Court Power and Purge / 外戚专权与清算](concepts/OuterRelativeCourtPower.md) — Late-Han kinship-power pattern where empress marriage, household, harem-placement, office, retainer shielding, property, and retaliatory violence require liquidation while risking a replacement reward bloc.
+- [Outer-Relative Court Power and Purge / 外戚专权与清算](concepts/OuterRelativeCourtPower.md) — Late-Han kinship-power pattern where overreward, empress marriage, household, harem placement, office, retainer shielding, and retaliatory violence require liquidation while risking a replacement reward bloc.
 - [农本民生优先于币制调整 / Agrarian Livelihood Before Currency Reform](concepts/AgrarianLivelihoodBeforeCurrencyReform.md) — Liu Tao's Hanji 843 poverty-diagnosis pattern where food, cloth, farming damage, official extraction, and rest-for-recovery outrank coin-weight reform.
 - [报复性政治恐怖 / Retaliatory Political Terror](concepts/RetaliatoryPoliticalTerror.md) — Late-Han pattern where Liang Ji converts omen accusation, refusal, warning, omission, lawful enforcement, and property resistance into killing, torture, or household liability.
 - [Death-Facing Responsibility / 赴死式责任承担](concepts/DeathFacingResponsibility.md) — Hanji 888 pattern where actors accept lethal or household risk after political defeat through self-surrender, burial, mourning, or survivor protection.

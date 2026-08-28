@@ -10,14 +10,17 @@ sources:
   - zizhi-tongjian-hanji-846-bahu-jiangjun-bingshan-yijiao-de-fanzui-jilu-lv7fbvoqr1nureqgvwiwixjyk4pq
   - zizhi-tongjian-hanji-845-cong-dangdai-hunyin-guan-liao-gudai-de-hunjian-zhidu-lr0i25twkoxm2wen7pnfbwt3qdsn
   - zizhi-tongjian-hanji-844-ruhe-liyu-bubaizhidi-lsp49uw8atyiufrf-ryo-9ctos5z
+  - zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr
 last_updated: 2026-08-28
 ---
 
 ## Overview
-梁冀 is the late-Eastern-Han outer-relative powerholder whose dominance spans frontier-official persecution, imperial marriage, criminal intimidation, household politics, palace succession, and eventual coup defeat. The page currently treats him as a system node: his clan, empress ties, household, retainers, and offices turn private family position into public administration until [[EmperorHuanOfHan|Emperor Huan]] moves through a closed palace channel.
+梁冀 is the late-Eastern-Han outer-relative powerholder whose current profile now begins in 151 CE with overlarge reward and dissatisfaction before moving through frontier-official persecution, imperial marriage, criminal intimidation, household politics, palace succession, and eventual coup defeat. The page treats him as a system node: his clan, empress ties, household, retainers, palace privileges, and offices turn private family position into public administration until [[EmperorHuanOfHan|Emperor Huan]] moves through a closed palace channel.
 
 ## Current Profile
-An earlier anti-Liang witness now precedes the marriage and coup sequence through [[zizhi-tongjian-hanji-844-ruhe-liyu-bubaizhidi-lsp49uw8atyiufrf-ryo-9ctos5z|Hanji 844]]. [[ChenGuiDuliaoGeneralLateHan|陈龟]] has an old conflict with Liang, is accused as reputation-seeking, recalled from the frontier, and later memorializes Emperor Huan against Liang. Huan does not visibly act, and Chen dies after a hunger strike, making Liang's reach visible before the court can move against him.
+[[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|Hanji 838]] supplies the earliest current Liang layer. Huan's court discusses adding rewards for Liang in 151 CE, most speakers support very heavy honors, and [[HuangQiongLateHan|黄琼]] narrows the territorial part of the proposal by pointing to Liang's existing food estate and his son's enfeoffment. The final settlement still gives Liang extraordinary etiquette, wealth, servants, vehicles, garments, residence, special seating, and recurring access to Shangshu affairs, yet Liang remains dissatisfied, making [[UnboundedEliteRewardDemand|受宠权臣的无餍封赏]] visible before the later crime-record evidence.
+
+The next anti-Liang witness precedes the marriage and coup sequence through [[zizhi-tongjian-hanji-844-ruhe-liyu-bubaizhidi-lsp49uw8atyiufrf-ryo-9ctos5z|Hanji 844]]. [[ChenGuiDuliaoGeneralLateHan|陈龟]] has an old conflict with Liang, is accused as reputation-seeking, recalled from the frontier, and later memorializes Emperor Huan against Liang. Huan does not visibly act, and Chen dies after a hunger strike, making Liang's reach visible before the court can move against him.
 
 Hanji 845 supplies the marital foundation for the Liang-family power field. [[EmpressLiangYingLateHan|梁盈]] becomes Huan's first empress through Liang backing, undergoes [[ImperialMarriageInspection|imperial marriage inspection]] before the wedding, and then occupies a family-backed empress position that Huan dislikes but cannot freely escape while Liang Ji and the Liang dowager remain powerful. Her childlessness and death in 159 become part of the pre-coup pressure that makes Huan's later move against Liang possible.
 
@@ -30,7 +33,7 @@ Hanji 845 supplies the marital foundation for the Liang-family power field. [[Em
 [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|Hanji 848]] then records the terminal phase: Emperor Huan secretly aligns with eunuch officials, seals palace communications, seizes symbols of command, coerces Liang into suicide, and abolishes the wider Liang office network. Liang's fall becomes the hinge that moves late-Han court politics from outer-relative dominance to eunuch-centered power.
 
 ## Key Characteristics
-- Outer-relative powerholder whose clan saturation in empress marriage, marquisates, harem ranks, military command, and senior offices makes household status inseparable from state administration.
+- Overrewarded outer-relative powerholder whose clan saturation in empress marriage, marquisates, harem ranks, palace privilege, military command, and senior offices makes household status inseparable from state administration.
 - Persecutor of frontier and court critics, visible before the later crime-record list through Chen Gui's recall, ignored memorial, and hunger-strike death.
 - Retaliatory-terror actor who converts refusal, warning, lawful enforcement, omission of courtesy, and property resistance into poisoning, beatings, executions, and family liability.
 - Court operator who escalates factional contest over succession into ministerial imprisonment and execution, especially against [[LiGuLateHan|Li Gu]].
@@ -39,6 +42,8 @@ Hanji 845 supplies the marital foundation for the Liang-family power field. [[Em
 - Late-Han memory figure associated with the shift from outer-relative domination to eunuch ascendancy.
 
 ## Evidence
+- Early reward excess: [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|Hanji 838]] says Huan's court grants Liang exceptional etiquette, wealth, servants, residence, court seating, and Shangshu access after Huang Qiong limits the proposed territorial increase.
+- Dissatisfaction and merit gap: [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|Hanji 838]] says Liang still considers the ceremony too light, while the host contrasts his reward appetite with thin public merit and the earlier killing of Emperor Zhi.
 - Early anti-Liang witness: [[zizhi-tongjian-hanji-844-ruhe-liyu-bubaizhidi-lsp49uw8atyiufrf-ryo-9ctos5z|Hanji 844]] says [[ChenGuiDuliaoGeneralLateHan|Chen Gui]] is recalled after Liang's accusation, later memorializes Emperor Huan against Liang, and dies after the ruler does not act.
 - Family and office saturation: [[zizhi-tongjian-hanji-846-bahu-jiangjun-bingshan-yijiao-de-fanzui-jilu-lv7fbvoqr1nureqgvwiwixjyk4pq|Hanji 846]] describes the Liang clan's dense mix of marquisates, imperial consorts, generals-in-chief, and senior officeholders as the scale behind Liang's public impunity.
 - Palace and resource control: [[zizhi-tongjian-hanji-846-bahu-jiangjun-bingshan-yijiao-de-fanzui-jilu-lv7fbvoqr1nureqgvwiwixjyk4pq|Hanji 846]] presents eunuch-spy surveillance and first selection of tribute goods as everyday signs that Liang's household can outrank ordinary court procedure.
@@ -50,17 +55,19 @@ Hanji 845 supplies the marital foundation for the Liang-family power field. [[Em
 - Terminal liquidation: [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|Hanji 848]] records the palace coup, Liang's suicide, and the removal of many Liang-family officeholders.
 
 ## Qualifications
-The Chen Gui case is source-scoped to [[zizhi-tongjian-hanji-844-ruhe-liyu-bubaizhidi-lsp49uw8atyiufrf-ryo-9ctos5z|Hanji 844]] and should be treated as an early witness to Liang's danger rather than a complete account of Liang's frontier policy. The numeric portrait of Liang clan saturation and the victim chain are currently source-scoped to [[zizhi-tongjian-hanji-846-bahu-jiangjun-bingshan-yijiao-de-fanzui-jilu-lv7fbvoqr1nureqgvwiwixjyk4pq|Hanji 846]] and should not be generalized beyond that episode without additional source support. Hanji 845's negative characterization of Liang Ying and its claim that she is the first textually recorded inspected empress are also source-scoped. The existing sequence tension remains: [[zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx|Hanji 847]] makes Xuan survive a failed assassination attempt and trigger Emperor Huan's anti-Liang timing, while [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|Hanji 848]] compresses the lead-up by treating Xuan as killed before the plan begins. Hanji 846 stops before that point.
+Hanji 838's reward list and greed framing are source-scoped and do not by themselves reconstruct Liang's whole 151 CE court settlement. The Chen Gui case is source-scoped to [[zizhi-tongjian-hanji-844-ruhe-liyu-bubaizhidi-lsp49uw8atyiufrf-ryo-9ctos5z|Hanji 844]] and should be treated as an early witness to Liang's danger rather than a complete account of Liang's frontier policy. The numeric portrait of Liang clan saturation and the victim chain are currently source-scoped to [[zizhi-tongjian-hanji-846-bahu-jiangjun-bingshan-yijiao-de-fanzui-jilu-lv7fbvoqr1nureqgvwiwixjyk4pq|Hanji 846]] and should not be generalized beyond that episode without additional source support. Hanji 845's negative characterization of Liang Ying and its claim that she is the first textually recorded inspected empress are also source-scoped. The existing sequence tension remains: [[zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx|Hanji 847]] makes Xuan survive a failed assassination attempt and trigger Emperor Huan's anti-Liang timing, while [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|Hanji 848]] compresses the lead-up by treating Xuan as killed before the plan begins. Hanji 846 stops before that point.
 
 ## What Changed
+- Hanji 838 moves Liang's current profile back to 151 CE: heavy reward, Huang Qiong's partial restraint, and Liang's dissatisfaction precede later coercive evidence.
 - Hanji 844 adds Chen Gui's recall, ignored anti-Liang memorial, and hunger-strike death as an early intimidation and feedback-collapse layer.
-- Hanji 845 adds Liang Ying as the marital and harem-status layer of Liang power before the crime-record and coup sequence.
-- Hanji 846 adds the direct crime-record layer behind Liang's later fall: family-office saturation, palace surveillance, tribute preemption, retainer shielding, and repeated retaliation.
+- Hanji 845 and Hanji 846 add the marriage, household, family-office saturation, surveillance, tribute, retainer, and crime-record layers behind Liang's later fall.
 - Hanji 847 and Hanji 848 frame Liang's fall as emerging from household crisis and executable only through a controlled palace coup.
 - Hanji 853 adds the earlier Li Gu succession struggle as evidence that Liang's coercive pattern predates the 159 CE household crisis.
 
 ## Relationships
 - [[EmperorHuanOfHan]] - imperial counterparty whose silence, delay, and secret coup respond to Liang's pervasive power.
+- [[HuangQiongLateHan|黄琼]] - senior minister who narrows the 151 CE reward proposal without removing Liang's privileged position.
+- [[UnboundedEliteRewardDemand|受宠权臣的无餍封赏]] - concept grounded in Liang's dissatisfaction after extraordinary reward.
 - [[ChenGuiDuliaoGeneralLateHan|陈龟]] - frontier official and critic whose recall and death expose Liang's pre-coup coercive reach.
 - [[EmpressLiangYingLateHan]] - sister whose family-backed empress status places Liang power inside Huan's marriage before the coup.
 - [[SunShouLateHan]] - household partner whose jealousy and factional action deepen Liang-family exposure.

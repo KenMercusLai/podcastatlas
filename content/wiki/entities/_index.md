@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 8118
+wiki_total_pages: 8125
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1310,6 +1310,9 @@ wiki_pages:
   - key: "Anerle"
     title: "安乐"
     url: "/wiki/entities/anerle/"
+  - key: "AnGuoKhotanLateHan"
+    title: "安国 / Anguo (Khotan, late Han)"
+    url: "/wiki/entities/anguokhotanlatehan/"
   - key: "AnchengWarringStates"
     title: "安城 / Ancheng"
     url: "/wiki/entities/anchengwarringstates/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 5827
+wiki_total_pages: 5829
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -833,6 +833,9 @@ wiki_pages:
   - key: "RedChamberVersionAndSequelReading"
     title: "红楼版本与续书阅读 / Red Chamber Version And Sequel Reading"
     url: "/wiki/concepts/redchamberversionandsequelreading/"
+  - key: "RumorDrivenFrontierIntervention"
+    title: "谣言驱动的边疆干预 / Rumor-Driven Frontier Intervention"
+    url: "/wiki/concepts/rumordrivenfrontierintervention/"
   - key: "RankSaleDisasterFinance"
     title: "鬻爵赈灾融资 / Rank Sale Disaster Finance"
     url: "/wiki/concepts/ranksaledisasterfinance/"

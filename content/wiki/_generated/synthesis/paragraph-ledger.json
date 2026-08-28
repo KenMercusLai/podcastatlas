@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "73af98baffbfe5bedbe45e3725bfb07d63f6d1c18bcc1540c47e213110e77e5d",
       "98660419dd5889b2f6eef0e116644c7d1150f8de9520769228ec15dd4ecd1a72",
       "efb1e9eb4c37ecbb685b6eaa9f184c5ba5a6728d7347651a2bb366a1a65d5b54",
       "c3fb1a3a4e1a94d58e4b2805c29c0240cebf7caa55687894bbdd60d21f91db3e",
@@ -332,11 +333,42 @@
       "ffc63951f0c9ebb1bdb0d92982d5f65f57bbe4a7f7a359f38dcd33423bb288c2",
       "41cadfb91ef6894bc7d9cd5c4e55012480b0225b71a6a027d18e9565e8357c0c"
     ],
-    "paragraph_count": 330
+    "paragraph_count": 331
   },
-  "overview_commit": "51a4260b607fc9cd5f80e7d7d9e453e42c79ae96",
-  "overview_digest": "4797737a09bc026059543345f58ae9b3d5d7ca7a3c8dc8addb392049642ac843",
+  "overview_commit": "504832ac57e043c6d39b6846c7b5ea6804fea35d",
+  "overview_digest": "0665e121b259eae22895e5d7e313018abd2b271935224336a2c6d425c5d133df",
   "paragraphs": [
+    {
+      "id": "73af98baffbfe5bedbe45e3725bfb07d63f6d1c18bcc1540c47e213110e77e5d",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|《资治通鉴·汉纪》838丨贪婪的诱惑，让他狂飙在作死的路上]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 151-152 CE [[EmperorHuanOfHan|汉桓帝]] layer before [[zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua|Hanji 839]] and the later Liang collapse sequence. It adds [[WangJingXiyuLateHan|王敬]], [[JumiKingdomLateHan|拘弥国]], [[JumiKingChengguoLateHan|成国]], [[KhotanKingdomLateHan|于阗国]], [[KhotanKingJianLateHan|建]], [[ShuboKhotanLateHan|输僰]], [[AnGuoKhotanLateHan|安国]], [[RumorDrivenFrontierIntervention|谣言驱动的边疆干预]], and [[UnboundedEliteRewardDemand|受宠权臣的无餍封赏]], while extending [[LiangJiLateHan|梁冀]], [[HuangQiongLateHan|黄琼]], [[OuterRelativeCourtPower|外戚专权与清算]], and [[EmperorHuanOfHan|汉桓帝]]. Its core synthesis is that Huan's early court already shows two failure modes before the better-known 159 CE coup: Liang Ji receives extraordinary privilege yet remains dissatisfied, while Wang Jing converts accusations from the interested Jumi channel into a lethal Khotan intervention. No settled contradiction is recorded; [[ShuboKhotanLateHan|输僰]] is disambiguated from the unrelated existing [[Shubo]] page, and minor 152 CE court-disaster notices remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "AnGuoKhotanLateHan",
+        "EmperorHuanOfHan",
+        "HuangQiongLateHan",
+        "JumiKingChengguoLateHan",
+        "JumiKingdomLateHan",
+        "KhotanKingJianLateHan",
+        "KhotanKingdomLateHan",
+        "LiangJiLateHan",
+        "OuterRelativeCourtPower",
+        "RuiqiJiangtouZizhiTongjian",
+        "RumorDrivenFrontierIntervention",
+        "Shubo",
+        "ShuboKhotanLateHan",
+        "UnboundedEliteRewardDemand",
+        "WangJingXiyuLateHan",
+        "zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr",
+        "zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua"
+      ]
+    },
     {
       "id": "98660419dd5889b2f6eef0e116644c7d1150f8de9520769228ec15dd4ecd1a72",
       "primary_topic": "history-and-geopolitics",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 8118
+wiki_total_pages: 8125
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -953,6 +953,12 @@ wiki_pages:
   - key: "JuyongPass"
     title: "居庸关 / Juyong Pass"
     url: "/wiki/entities/juyongpass/"
+  - key: "JumiKingdomLateHan"
+    title: "居弥国 / Jumi Kingdom (late Han)"
+    url: "/wiki/entities/jumikingdomlatehan/"
+  - key: "JumiKingChengguoLateHan"
+    title: "居弥王成国 / King Chengguo of Jumi"
+    url: "/wiki/entities/jumikingchengguolatehan/"
   - key: "JuWu"
     title: "居武 / Ju Wu"
     url: "/wiki/entities/juwu/"

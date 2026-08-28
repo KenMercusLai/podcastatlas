@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1981
+topic_total_pages: 1983
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3100,6 +3100,9 @@ topic_concepts:
   - key: "AppointedGovernorSecessionRisk"
     title: "受任地方长官割据风险 / Appointed Governor Secession Risk"
     url: "/wiki/concepts/appointedgovernorsecessionrisk/"
+  - key: "UnboundedEliteRewardDemand"
+    title: "受宠权臣的无餍封赏 / Unbounded Elite Reward Demand"
+    url: "/wiki/concepts/unboundedeliterewarddemand/"
   - key: "MinisterAsExchangeableAsset"
     title: "可交换功臣 / Minister as Exchangeable Asset"
     url: "/wiki/concepts/ministerasexchangeableasset/"
@@ -3244,6 +3247,9 @@ topic_concepts:
   - key: "ZonghengjiaDiplomacy"
     title: "纵横家外交 / Zonghengjia Diplomacy"
     url: "/wiki/concepts/zonghengjiadiplomacy/"
+  - key: "RumorDrivenFrontierIntervention"
+    title: "谣言驱动的边疆干预 / Rumor-Driven Frontier Intervention"
+    url: "/wiki/concepts/rumordrivenfrontierintervention/"
   - key: "LowStatusRegistry"
     title: "贱籍身份 / Low-Status Registry"
     url: "/wiki/concepts/lowstatusregistry/"

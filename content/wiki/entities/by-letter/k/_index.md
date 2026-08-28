@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 8118
+wiki_total_pages: 8125
 wiki_pages:
   - key: "KunyangBattle"
     title: "Battle of Kunyang / 昆阳之战"
@@ -497,6 +497,12 @@ wiki_pages:
   - key: "KafunshoToJinrui"
     title: "《花粉症与人类》 / 花粉症と人類"
     url: "/wiki/entities/kafunshotojinrui/"
+  - key: "KhotanKingdomLateHan"
+    title: "于阗国 / Khotan Kingdom (late Han)"
+    url: "/wiki/entities/khotankingdomlatehan/"
+  - key: "KhotanKingJianLateHan"
+    title: "于阗王建 / King Jian of Khotan"
+    url: "/wiki/entities/khotankingjianlatehan/"
   - key: "KyogokuNatsuhiko"
     title: "京极夏彦 / Kyogoku Natsuhiko"
     url: "/wiki/entities/kyogokunatsuhiko/"
