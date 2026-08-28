@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 8106
+wiki_total_pages: 8109
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -1556,6 +1556,9 @@ wiki_pages:
   - key: "ChaoGe"
     title: "超哥"
     url: "/wiki/entities/chaoge/"
+  - key: "CheerChanyu"
+    title: "车儿 / Che'er Chanyu"
+    url: "/wiki/entities/cheerchanyu/"
   - key: "ChedunTown"
     title: "车墩镇 / Chedun Town"
     url: "/wiki/entities/cheduntown/"
@@ -1745,6 +1748,9 @@ wiki_pages:
   - key: "ChenBaoLateHan"
     title: "陈鲍 / Chen Bao (late Han)"
     url: "/wiki/entities/chenbaolatehan/"
+  - key: "ChenGuiDuliaoGeneralLateHan"
+    title: "陈龟 / Chen Gui (Duliao general)"
+    url: "/wiki/entities/chenguiduliaogenerallatehan/"
   - key: "ChineseUniversityOfHongKong"
     title: "香港中文大学 / Chinese University of Hong Kong"
     url: "/wiki/entities/chineseuniversityofhongkong/"

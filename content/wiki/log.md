@@ -12997,6 +12997,14 @@ Ingested Hanji 846 as the pre-coup Liang Ji crime-record layer. Created the sour
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-28] ingest | 《资治通鉴·汉纪》844丨如何立于不败之地？
+
+Ingested Hanji 844 as the 158 CE Zhang Huan frontier and Liang Ji pressure layer. Created the source note, Chen Gui (Duliao general), Zhong Hao, and Che'er Chanyu pages; updated Zhang Huan, Emperor Huan, Liang Ji, Southern Xiongnu, Wuhuan, Strategic Emotion Concealment, Coalition Fracture Exploitation, index, and overview. No settled contradiction found; ASR names were normalized to 张奂, 陈龟, 种暠, 车儿, 左谷蠡王, and 赤坑.
+
 ## [2026-08-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-28] lint | Wiki health check
+
+Ran health, identity validation, and lint. Health scanned 15,551 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-28 with 15,429 nodes while the current lint scan covered 15,551 pages, so bridge findings may be incomplete until the graph is rebuilt; current graph checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest` and no provider key variables are present in the environment. Report returned in-session; `wiki/lint-report.md` was not updated.

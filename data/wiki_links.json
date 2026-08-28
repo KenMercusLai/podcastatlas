@@ -9283,6 +9283,10 @@
     "title": "车墩镇 / Chedun Town",
     "url": "/wiki/entities/cheduntown/"
   },
+  "CheerChanyu": {
+    "title": "车儿 / Che'er Chanyu",
+    "url": "/wiki/entities/cheerchanyu/"
+  },
   "ChelanPUD": {
     "title": "Chelan PUD",
     "url": "/wiki/entities/chelanpud/"
@@ -9358,6 +9362,10 @@
   "ChenGui": {
     "title": "陈珪 / Chen Gui",
     "url": "/wiki/entities/chengui/"
+  },
+  "ChenGuiDuliaoGeneralLateHan": {
+    "title": "陈龟 / Chen Gui (Duliao general)",
+    "url": "/wiki/entities/chenguiduliaogenerallatehan/"
   },
   "ChenHe": {
     "title": "陈贺 / Chen He",
@@ -56283,6 +56291,10 @@
     "title": "Zhiyuan Robotics",
     "url": "/wiki/entities/zhiyuanrobotics/"
   },
+  "ZhongHaoLateHan": {
+    "title": "种暠 / Zhong Hao (late Han)",
+    "url": "/wiki/entities/zhonghaolatehan/"
+  },
   "ZhongJiLateHan": {
     "title": "种辑 / Zhong Ji (late Han)",
     "url": "/wiki/entities/zhongjilatehan/"
@@ -60694,6 +60706,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-844-ruhe-liyu-bubaizhidi-lsp49uw8atyiufrf-ryo-9ctos5z": {
+    "title": "《资治通鉴·汉纪》844丨如何立于不败之地？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-844-ruhe-liyu-bubaizhidi-lsp49uw8atyiufrf-ryo-9ctos5z/"
   },
   "zizhi-tongjian-hanji-845-cong-dangdai-hunyin-guan-liao-gudai-de-hunjian-zhidu-lr0i25twkoxm2wen7pnfbwt3qdsn": {
     "title": "《资治通鉴·汉纪》845丨从当代婚姻观聊古代的婚检制度",

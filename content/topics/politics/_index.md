@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1972
+topic_total_pages: 1973
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -5171,6 +5171,9 @@ topic_entities:
   - key: "SiliconValley101"
     title: "硅谷101"
     url: "/wiki/entities/siliconvalley101/"
+  - key: "ZhongHaoLateHan"
+    title: "种暠 / Zhong Hao (late Han)"
+    url: "/wiki/entities/zhonghaolatehan/"
   - key: "LuoXiang"
     title: "罗翔 / Luo Xiang"
     url: "/wiki/entities/luoxiang/"

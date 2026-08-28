@@ -7,6 +7,7 @@ sources:
   - zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b
   - zizhi-tongjian-hanji-886-shenchu-zhichang-zuoge-chengfu-henshen-de-ren-lo6dgcdbshjgto-qsfcouwjersdi
   - zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks
+  - zizhi-tongjian-hanji-844-ruhe-liyu-bubaizhidi-lsp49uw8atyiufrf-ryo-9ctos5z
 last_updated: 2026-08-28
 knowledge_schema: synthesis-v1
 ---
@@ -23,6 +24,8 @@ The current synthesis treats emotion concealment as a political and organization
 
 The command setting makes fear visible as organizational behavior. [[zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks|Hanji 856]] shows [[MaMuLateHan|马睦]], [[LiuDuLateHan|刘度]], and [[LiSuNanCommanderyLateHan|李肃]] turning pressure into flight and, in Li Su's case, violence against corrective advice. [[HuangfuGuiLateHan|皇甫规]] and [[FengGunLateHan|冯绲]] supply the contrast: one restores morale in a diseased camp, while the other anticipates accusation, asks for financial monitoring, and credits [[YingFengLateHan|应奉]] after victory.
 
+The command record gains a more theatrical but practical example in [[zizhi-tongjian-hanji-844-ruhe-liyu-bubaizhidi-lsp49uw8atyiufrf-ryo-9ctos5z|Hanji 844]]. When [[ZhangHuanLateHan|张奂]]'s troops panic under frontier pressure, his visible calm and continued lecture of classics become a morale instrument before his diplomatic and military move against the Wuhuan-Xiongnu alignment.
+
 The concept therefore sits between ordinary [[EmotionRegulationToolkit|emotion regulation]], [[PoliticalSurvivalFirst|survival-first politics]], and [[ConcealedCapabilityTiming|concealed capability timing]]. It is useful when visible feeling would expose intent, timing, duty collapse, or command vulnerability, but it is not inherently virtuous: the same self-command can preserve agency or intensify retaliation.
 
 ## Key Claims
@@ -31,6 +34,7 @@ The concept therefore sits between ordinary [[EmotionRegulationToolkit|emotion r
 - The concept does not demand inner blankness; it separates internal feeling from externally controlled action.
 - Anger is especially risky in political or workplace conflict because it can narrow judgment and advertise the actor's state.
 - In command settings, fear becomes strategically dangerous when it turns into visible flight, refusal of advice, or loss of morale.
+- A leader's visible composure can be an operational tool when subordinates are reading the leader's body and voice for permission to panic or stay.
 - Restraint can preserve future agency, as in survival and withdrawal cases where open dignity would create greater danger.
 - The same discipline can also intensify revenge when emotion is hidden, organized, and later released through planning.
 
@@ -39,6 +43,7 @@ The concept therefore sits between ordinary [[EmotionRegulationToolkit|emotion r
 - Command panic and flight: [[zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks|Hanji 856]] says Ma Mu, Liu Du, and Li Su flee under southern rebellion pressure, making fear visible as organizational retreat.
 - Violent refusal of correction: [[zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks|Hanji 856]] says Li Su kills Hu Shuang when Hu tries to stop his flight, showing panic moving from self-protection into attack on corrective advice.
 - Stabilizing counterexamples: [[zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks|Hanji 856]] contrasts those failures with Huangfu Gui restoring morale in an epidemic-hit army and Feng Gun managing campaign accusation risk before victory.
+- Visible calm as morale instrument: [[zizhi-tongjian-hanji-844-ruhe-liyu-bubaizhidi-lsp49uw8atyiufrf-ryo-9ctos5z|Hanji 844]] says Zhang Huan remains calm and lectures classics while soldiers panic, then acts after the camp steadies.
 - Feeling-action separation: [[zizhi-tongjian-hanji-886-shenchu-zhichang-zuoge-chengfu-henshen-de-ren-lo6dgcdbshjgto-qsfcouwjersdi|Hanji 886]] states that emotion may lose control but behavior cannot, and links that distinction to "城府" in high-risk political and workplace settings.
 - Anger as exposure: [[zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr|Hanji 900]] says visible anger lowers judgment, exposes one's state, and helps stronger opponents steer the situation.
 - Strategic rather than passive restraint: [[zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr|Hanji 900]] links emotion control to reading timing, interests, and advance-or-retreat choices rather than to permanent yielding.
@@ -52,6 +57,7 @@ The concept should not be turned into a universal rule against expression. In lo
 ## What Changed
 
 - Added Hanji 856 as a command-panic case where fear becomes flight, violence against advice, or restored morale depending on the actor.
+- Added Hanji 844 as a command-composure case where Zhang Huan's public calm steadies panicked troops before action.
 - Extended the synthesis from anger, survival, and revenge into military-organizational self-command.
 - Kept the page's warning that concealment is strategic but not inherently virtuous.
 
@@ -61,5 +67,7 @@ The concept should not be turned into a universal rule against expression. In lo
 - [[PoliticalSurvivalFirst|安全第一政治生存]] - survival frame in which emotion concealment protects future agency.
 - [[WorldlyPoliticalCultivation|入世政治修行]] - adjacent idea that court danger can become a discipline of timing, concealment, and action.
 - [[ConcealedCapabilityTiming|藏器待时]] - related timing concept for hiding capability until action is useful.
+- [[MilitaryMoraleThroughSharedHardship|同甘共苦式士气]] - adjacent morale concept when a commander's conduct stabilizes people under strain.
+- [[FrontierCommandCollapse|边郡军政崩盘]] - opposite failure mode when fear, personnel failure, and pressure overwhelm command order.
 - [[LethalPlanLeakageRisk|致命计划泄露风险]] - high-stakes information-control case where visible intention can become fatal.
 - [[AtrocityRetaliationCycle]] - warning that controlled emotion can still feed destructive retaliation.
