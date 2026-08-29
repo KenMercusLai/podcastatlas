@@ -11151,6 +11151,10 @@
     "title": "Coercive Capital Relocation / 强制迁都",
     "url": "/wiki/concepts/coercivecapitalrelocation/"
   },
+  "CoerciveFrontierRelocationBackfire": {
+    "title": "强迁避敌反噬 / Coercive Frontier Relocation Backfire",
+    "url": "/wiki/concepts/coercivefrontierrelocationbackfire/"
+  },
   "Coffee": {
     "title": "Coffee / 咖啡",
     "url": "/wiki/entities/coffee/"
@@ -15158,6 +15162,10 @@
   "DuGenLateHan": {
     "title": "杜根 / Du Gen (late Han)",
     "url": "/wiki/entities/dugenlatehan/"
+  },
+  "DuJigongLateHan": {
+    "title": "杜季贡 / Du Jigong (late Han)",
+    "url": "/wiki/entities/dujigonglatehan/"
   },
   "DuJiyan": {
     "title": "杜继彦",
@@ -29846,6 +29854,10 @@
   "Limitless": {
     "title": "Limitless",
     "url": "/wiki/entities/limitless/"
+  },
+  "LinChangQiang": {
+    "title": "林昌 / Lin Chang (Qiang)",
+    "url": "/wiki/entities/linchangqiang/"
   },
   "LinDaiyu": {
     "title": "林黛玉 / Lin Daiyu",
@@ -45595,6 +45607,10 @@
     "title": "司马光 / Sima Guang",
     "url": "/wiki/entities/simaguang/"
   },
+  "SimaJunLateHan": {
+    "title": "司马钧 / Sima Jun (late Han)",
+    "url": "/wiki/entities/simajunlatehan/"
+  },
   "SimaQian": {
     "title": "司马迁 / Sima Qian",
     "url": "/wiki/entities/simaqian/"
@@ -56375,6 +56391,10 @@
     "title": "Yuan Blue-and-White Porcelain / 元青花",
     "url": "/wiki/concepts/yuanblueandwhiteporcelain/"
   },
+  "YuanChangLateHan": {
+    "title": "袁敞 / Yuan Chang (late Han)",
+    "url": "/wiki/entities/yuanchanglatehan/"
+  },
   "YuanChanggeng": {
     "title": "袁长庚 / Yuan Changgeng",
     "url": "/wiki/entities/yuanchanggeng/"
@@ -56938,6 +56958,10 @@
   "ZhangJuLateHan": {
     "title": "张举 / Zhang Ju (late Han)",
     "url": "/wiki/entities/zhangjulatehan/"
+  },
+  "ZhangJunAnEraLateHan": {
+    "title": "张俊 / Zhang Jun (An-era late Han)",
+    "url": "/wiki/entities/zhangjunaneralatehan/"
   },
   "ZhangJunLateHan": {
     "title": "张钧 / Zhang Jun (late Han)",
@@ -62278,6 +62302,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi": {
+    "title": "《资治通鉴·汉纪》789丨善良没有底线，你将一文不值",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi/"
   },
   "zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk": {
     "title": "《资治通鉴·汉纪》790丨历史告诉你：如何和领导打交道？",

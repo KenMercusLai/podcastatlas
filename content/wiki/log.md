@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-30] ingest | 《资治通鉴·汉纪》789丨善良没有底线，你将一文不值
+
+Ingested the 2026-07-06 芮淇讲透资治通鉴 episode on 116-117 CE Deng-regency Qiang crisis, boundaryless kindness, northwest neglect, forced civilian relocation backfire, Du Jigong's defection, Lin Chang's succession, Sima Jun and Pang Can's Dingxi failure, Ren Shang and Deng Zun's cavalry and assassination operations, Liu Kai's three-year mourning proposal, Yuan Chang and Zhang Jun's court-secret case, Xianbei raids, and Zhang Qiao's Yizhou pacification. Created the source note plus Du Jigong, Lin Chang, Sima Jun, Yuan Chang, Zhang Jun (An-era), and Coercive Frontier Relocation Backfire pages; updated Empress Dowager Deng, Emperor An, Ren Shang, Deng Zun, Pang Can, Liu Kai, Xianling Qiang, Boundaryless Kindness Trap, Official Mourning Duty Conflict, Regency Under Compound Crisis, Strategic Frontier Abandonment, index, and overview. No settled contradiction found; Zhang俊 is kept distinct from the existing 张钧 / Zhang Jun page, and several Qiang names and place forms remain source-bounded pending corroboration.
+
 ## [2026-08-29] ingest | 《资治通鉴·汉纪》793丨历史著名女皇邓绥怎么死的？
 
 Ingested the 2026-07-07 芮淇讲透资治通鉴 episode on Empress Dowager Deng's 121 CE illness, death, and regency evaluation under disasters, frontier war, fiscal strain, and gendered pressure; Emperor An's personal-rule opening; Chen Zhong's recommendations; Du Gen and Cheng Yishi's restoration; Ma Xian's earlier Qiang-front action; and the Goguryeo notice. Created the source note plus Cheng Yishi and Regency Under Compound Crisis pages; updated Empress Dowager Deng, Emperor An, Du Gen, Chen Zhong, Ma Xian, Crisis Withdrawal Self-Protection, index, overview, and downstream synthesis artifacts. No settled contradiction found; the episode gives illness and death dates but no specific medical cause, and Liu Qing, Zuo Shi, Song Guiren, Lu Cong, Du Chong, Ren Liang, and Yin Yi remain source-scoped.
@@ -13608,6 +13612,10 @@ Ran health, identity validation, and lint. Health passed across 15,988 lint-scan
 ## [2026-08-30] ingest | 《资治通鉴·汉纪》790丨历史告诉你：如何和领导打交道？
 
 Ingested the 2026-07-06 芮淇讲透资治通鉴 episode on 118-119 CE Deng-regency crisis pressure, Ren Shang's fatal credit fight with Deng Zun, Deng Zhi's household discipline, Yang Song's Yizhou pacification, and Cao Zong/Suo Ban's Western Regions prelude. Created the source note plus `RenShangLateHan`, `DengZunLateHan`, `DengZhiLateHan`, `YangSongLateHan`, `TangTanLateHan`, `CaoZongLateHan`, `SuoBanLateHan`, and `SuperiorCreditConflictRisk`; updated `MaXianLateHan`, `ZhangQiaoLateHan`, `ShuleKingdom`, `EmpressDowagerDengLateHan`, `DengFamilyAnEraLateHan`, `RegencyUnderCompoundCrisis`, `YizhouPacificationByLeniency`, `StrategicFrontierAbandonment`, `index`, and `overview`. No settled contradiction found; Deng Zun's source spelling, Yang Song's exact character form, and minor Shule succession actors remain source-scoped.
+
+## [2026-08-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-30] lint | Wiki health check
 

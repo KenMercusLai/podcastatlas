@@ -5,50 +5,51 @@ knowledge_schema: synthesis-v1
 tags: [mourning, filial-piety, office, ritual, late-han, court-politics]
 sources:
   - zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6
-last_updated: 2026-08-29
+  - zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi
+last_updated: 2026-08-30
 ---
 
 ## Definition
 
-丁忧任职冲突 / Official Mourning Duty Conflict is the policy problem created when a court decides whether senior officials should leave office for extended parental mourning or remain in service for administrative continuity. In Hanji 797, the conflict is not merely personal loyalty versus filiality; it asks whether state order should discipline, preserve, or suppress ritual feeling.
+丁忧任职冲突 / Official Mourning Duty Conflict is the policy problem created when a court must decide whether senior officials should leave office for extended parental mourning or remain in service for administrative continuity.
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6|Hanji 797]] makes official mourning a governance test under [[EmperorAnOfHan|Emperor An]]. Shangshu Ling and others propose canceling three-year mourning for officials of 2,000 shi and above, invoking earlier Han simplification under Han Wen Di and Han Guangwu Di. The proposal treats long mourning as incompatible with high office.
+Hanji 789 now supplies the earlier pro-mourning layer. Under Deng-regency pressure and repeated high-official deaths, [[LiuKaiEasternHan|Liu Kai]] argues that senior officials should be allowed to complete three-year mourning. The court accepts the proposal, making ritual leave a recognized institutional good rather than only a private sentiment.
 
-[[ChenZhongLateHan|Chen Zhong]] answers from institutional and affective precedent. He argues that Gaozu and Xiao He established rules allowing three-year mourning and that restoring the practice supports ritual order by making elite filial conduct visible. His memorial invokes the Mencian move from honoring one's own elders to honoring others' elders, treating familial grief as the root of wider moral governance.
+Hanji 797 shows the reversal pressure. Shangshu Ling and others propose canceling three-year mourning for officials of 2,000 shi and above, invoking earlier Han simplification under Han Wen Di and Han Guangwu Di. [[ChenZhongLateHan|Chen Zhong]] answers from institutional and affective precedent, arguing that Gaozu and Xiao He allowed the practice and that visible elite filiality supports wider moral order.
 
-The result is asymmetrical. Eunuchs block Chen Zhong's memorial because it is unfavorable to them, and Emperor An cancels the mourning permission on 121-11-23. The source therefore records a defeat for ritual-affective argument inside court access politics, not a neutral administrative modernization.
+The outcome is not a neutral administrative modernization. Eunuchs block Chen Zhong's memorial because it is unfavorable to them, and [[EmperorAnOfHan|Emperor An]] cancels the mourning permission on 121-11-23. The concept therefore now has a rise-and-cancellation arc: Liu Kai's accepted ritual policy becomes vulnerable once court access and official presence pressure shift.
 
 ## Key Claims
 
-- Official mourning becomes a state-capacity question when long filial absence competes with the presence of senior officials in office.
+- Official mourning becomes a state-capacity question when long filial absence competes with the need for senior officials in office.
+- Liu Kai's accepted memorial shows that three-year mourning could be treated as a legitimate institutional practice.
 - Chen Zhong frames mourning permission as elite modeling: officials teach ritual order by visibly honoring parents.
 - The anti-mourning side uses earlier simplification precedents to make cancellation look historically legitimate.
-- Eunuch blocking makes information access part of the policy result; the emperor's decision is shaped by which argument reaches him.
-- The episode treats filial mourning as a political foundation of order, not just private emotion.
+- Eunuch blocking makes information access part of the policy result; the emperor's decision depends on which argument reaches him.
 
 ## Evidence
 
-- Policy conflict: [[zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6|Hanji 797]] says Shangshu Ling and others propose canceling three-year mourning for senior officials, citing earlier Han simplification.
-- Ritual precedent: [[zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6|Hanji 797]] says Chen Zhong invokes Gaozu and Xiao He's institutions to defend the mourning practice.
-- Moral extension: [[zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6|Hanji 797]] says Chen Zhong draws on Mencian language about honoring elders and caring for children beyond one's own family.
-- Access politics: [[zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6|Hanji 797]] says eunuchs block Chen Zhong's memorial because the argument is unfavorable to them.
-- Outcome: [[zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6|Hanji 797]] says Emperor An cancels three-year mourning for officials of 2,000 shi and above.
+- Early permission: [[zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi|Hanji 789]] says Liu Kai argues for allowing high officials to complete three-year mourning and the court accepts.
+- Crisis setting: [[zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi|Hanji 789]] places the policy amid repeated officeholder deaths and Deng-regency stress.
+- Cancellation proposal: [[zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6|Hanji 797]] says Shangshu Ling and others propose canceling three-year mourning for senior officials.
+- Ritual precedent: [[zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6|Hanji 797]] says Chen Zhong invokes Gaozu, Xiao He, and Mencian moral extension to defend the practice.
+- Access and outcome: [[zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6|Hanji 797]] says eunuchs block Chen Zhong's memorial and Emperor An cancels the permission.
 
 ## Counterevidence & Qualifications
 
-This concept is currently source-bounded to Hanji 797. The source reports the simplification argument but does not fully reconstruct the administrative costs of long official mourning, the complete legal history of Dingyou practice, or later reversals. It also cautions against treating "忠孝不能两全" as the whole issue: eunuch interest, institutional access, and public moral modeling matter as much as the abstract duty conflict.
+The sources report both the ritual defense and the administrative simplification argument, but they do not fully reconstruct the actual staffing cost of long mourning leaves. The bounded synthesis is that official mourning policy is shaped by ritual legitimacy, administrative continuity, precedent selection, and court-access control at the same time.
 
 ## What Changed
 
-- Created the concept to distinguish official mourning policy from later cases where mourning performance becomes an appointment credential.
-- Added Chen Zhong's blocked 121 CE memorial as the current anchor for court access shaping ritual policy.
+- Added Hanji 789's accepted Liu Kai proposal as the earlier pro-mourning layer.
+- Reframed Hanji 797 as a cancellation of an already restored permission, not just an abstract first debate.
 
 ## Related Concepts
 
-- [[FilialMourningAccessCredential|守陵孝行进身凭证]] - adjacent filial-mourning pattern where mourning performance becomes a channel for office access rather than a leave-from-office conflict.
-- [[RitualAffectiveOrder|礼制情感秩序]] - broader framework for treating grief, filial feeling, and ritual observance as foundations of social order.
-- [[LiAsPoliticalOrder|礼作为政治秩序]] - related concept because Chen Zhong treats li as a governing structure rather than decorative custom.
-- [[CourtFeedbackCollapse|朝廷反馈失灵]] - related failure mode because Chen Zhong's memorial is blocked before competing reasoning can reach the ruler.
-- [[PrivateFavorAppointmentErosion|私恩任官侵蚀]] - adjacent An-era pattern in which private court interests override public criteria.
+- [[FilialMourningAccessCredential]] - adjacent filial-mourning pattern where mourning performance becomes a channel for office access rather than leave from office.
+- [[RitualAffectiveOrder]] - broader framework for treating grief, filial feeling, and ritual observance as foundations of social order.
+- [[LiAsPoliticalOrder]] - related concept because Chen Zhong treats li as a governing structure rather than decorative custom.
+- [[CourtFeedbackCollapse]] - failure mode because Chen Zhong's memorial is blocked before competing reasoning can reach the ruler.
+- [[PrivateFavorAppointmentErosion]] - adjacent An-era pattern in which private court interests override public criteria.

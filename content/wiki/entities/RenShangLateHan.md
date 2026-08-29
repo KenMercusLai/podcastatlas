@@ -5,40 +5,51 @@ knowledge_schema: synthesis-v1
 tags: [late-han, military, qiang, court-politics, credit]
 sources:
   - zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk
+  - zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi
 last_updated: 2026-08-30
 ---
 
 ## Overview
-Ren Shang is a late-Han commander whose Qiang-war merit became fatal after he competed for credit with Deng Zun, a Deng-family commander closer to the regency power center.
+
+任尚 / Ren Shang is a late-Han Qiang-front commander whose real battlefield and assassination successes become politically dangerous once they cross Deng-family credit and reporting politics.
 
 ## Current Profile
-[[zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk|Hanji 790]] presents Ren Shang as militarily capable but politically exposed. He and [[MaXianLateHan|Ma Xian]] pursued the Xianling Qiang leader Langmo for more than sixty days and won at Fuping, yet Langmo escaped. When [[DengZunLateHan|Deng Zun]] later received the court-recognized reward for arranging Langmo's death, Ren Shang resented the outcome and competed for credit. The court then moved against him for inflated enemy-kill reports and large-scale embezzlement, escorted him to the capital, executed him, exposed the body, and confiscated his household property.
+
+Hanji 789 moves Ren Shang earlier than his fatal Hanji 790 credit dispute. In 116 CE he and [[DengZunLateHan|Deng Zun]] are assigned against Qiang forces during the Deng regency. Ren Shang defeats Xianling Qiang forces near Dingxi, attacks [[LinChangQiang|Lin Chang]]'s Beidi position, kills Lin Chang's wife and children, burns his residence, seizes livestock, and later sends the surrendered Qiang Yu Gui to assassinate [[DuJigongLateHan|Du Jigong]].
+
+Hanji 790 then shows the same kind of frontier success becoming fatal. Ren Shang and [[MaXianLateHan|Ma Xian]] pursue Langmo for more than sixty days and win at Fuping, but Langmo escapes. Deng Zun later receives decisive court credit for arranging Langmo's death, and Ren Shang's resentment turns a real merit record into a superior-linked credit fight. The court moves against him for inflated enemy-kill reports and large-scale embezzlement, executes him, exposes the body, and confiscates his household property.
 
 ## Key Characteristics
-- Militarily effective in the Qiang theater but unable to convert battlefield success into durable political protection.
-- Exposed by an unfinished victory: Langmo's escape left space for Deng Zun to claim decisive completion.
-- Represents [[SuperiorCreditConflictRisk|superior credit conflict risk]] because his dispute was not merely over merit, but over merit against a superior-linked actor.
-- His gift to Deng Feng widened the case into Deng-family household discipline after [[DengZhiLateHan|Deng Zhi]] punished his wife and son.
-- His punishment shows how financial and reporting accusations could attach to command-credit disputes.
+
+- Militarily effective in the Qiang theater across both direct fighting and proxy assassination.
+- Willing to target enemy households and leadership networks, not only battlefield formations.
+- Politically exposed because his successes sit beside Deng Zun's regency-family proximity.
+- Vulnerable to the gap between unfinished battlefield victory and court-recognized completion.
+- His fall shows how command reports, money, gifts, and credit claims can be bundled into a lethal case.
 
 ## Evidence
-- Military competence: [[zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk|Hanji 790]] records Ren Shang and Ma Xian attacking Qiang forces, pursuing Langmo for more than sixty days, and killing over five thousand at Fuping.
-- Incomplete victory: [[zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk|Hanji 790]] states that Langmo escaped, leaving the campaign without a clean terminal result.
-- Credit conflict: [[zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk|Hanji 790]] contrasts Deng Zun's reward with Ren Shang's resentment and subsequent effort to compete for recognition.
-- Punitive collapse: [[zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk|Hanji 790]] reports accusations of inflated kills and embezzlement of more than ten million cash, followed by execution and property confiscation.
-- Gift exposure: [[zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk|Hanji 790]] notes that Deng Feng had accepted a horse from Ren Shang, prompting Deng Zhi's public household punishment.
+
+- Early Qiang command: [[zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi|Hanji 789]] sends Ren Shang and Deng Zun against Qiang forces in 116 CE.
+- Dingxi and Beidi pressure: [[zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi|Hanji 789]] says Ren Shang defeats Xianling Qiang forces and attacks Lin Chang's household and livestock base.
+- Proxy assassination: [[zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi|Hanji 789]] says Ren Shang uses Yu Gui to kill Du Jigong.
+- Battlefield merit: [[zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk|Hanji 790]] records Ren Shang and Ma Xian pursuing Langmo for more than sixty days and killing more than five thousand at Fuping.
+- Incomplete victory: [[zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk|Hanji 790]] says Langmo escapes, leaving room for Deng Zun to gain credit for the decisive endpoint.
+- Punitive collapse: [[zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk|Hanji 790]] reports charges of inflated kills and embezzlement, followed by execution and property confiscation.
 
 ## Qualifications
-The current profile is bounded to Hanji 790. The source does not independently prove whether every accusation against Ren Shang was factually true, strategically selected, or both; the durable point is that his command record became vulnerable once credit competition crossed into Deng-family politics.
+
+The current page does not decide whether every charge against Ren Shang was factually true, politically selected, or both. The bounded synthesis is that his military competence did not protect him once success had to be adjudicated through Deng-family credit, court reporting, and financial accusation.
 
 ## What Changed
-- Created the page from Hanji 790.
-- Established Ren Shang as the main historical case behind [[SuperiorCreditConflictRisk|superior credit conflict risk]].
+
+- Added Hanji 789's 116-117 CE layer before Ren Shang's Hanji 790 Langmo-credit collapse.
+- Reframed Ren Shang as a commander whose frontier method includes household attack and proxy assassination, not only battlefield pursuit.
 
 ## Relationships
-- [[DengZunLateHan]] - Rival beneficiary of the Langmo campaign's decisive credit and reward.
-- [[MaXianLateHan]] - Military colleague in the pursuit and battle against Langmo.
-- [[DengZhiLateHan]] - Deng-family elder whose household response to Ren Shang's gift helped contain reputational risk.
-- [[DengFamilyAnEraLateHan]] - Power bloc whose proximity turned Ren Shang's credit dispute into high political danger.
-- [[XianlingQiang]] - Rebel group whose leader Langmo was Ren Shang's campaign target.
-- [[SuperiorCreditConflictRisk]] - Concept abstracted from Ren Shang's fall.
+
+- [[DengZunLateHan]] - superior-linked counterpart whose court credit makes Ren Shang's merit politically dangerous.
+- [[DuJigongLateHan]] - rebel actor whom Ren Shang eliminates through proxy assassination.
+- [[LinChangQiang]] - Qiang leader whose household and Beidi position Ren Shang attacks.
+- [[XianlingQiang]] - Qiang group Ren Shang defeats near Dingxi in Hanji 789.
+- [[SuperiorCreditConflictRisk]] - Ren Shang remains the central late-Han case of merit becoming danger through credit conflict.
+- [[RegencyUnderCompoundCrisis]] - his campaigns unfold inside the Deng regency's multi-front crisis.

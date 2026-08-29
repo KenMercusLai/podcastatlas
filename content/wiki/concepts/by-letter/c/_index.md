@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 5956
+wiki_total_pages: 5957
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1835,6 +1835,9 @@ wiki_pages:
   - key: "ClothCladAngerPersuasion"
     title: "布衣之怒 / Cloth-Clad Anger Persuasion"
     url: "/wiki/concepts/clothcladangerpersuasion/"
+  - key: "CoerciveFrontierRelocationBackfire"
+    title: "强迁避敌反噬 / Coercive Frontier Relocation Backfire"
+    url: "/wiki/concepts/coercivefrontierrelocationbackfire/"
   - key: "CorrectiveAdviceNonconversion"
     title: "忠告不转化 / Corrective Advice Nonconversion"
     url: "/wiki/concepts/correctiveadvicenonconversion/"

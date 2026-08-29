@@ -2,53 +2,53 @@
 title: "庞参 / Pang Can (late Han)"
 type: entity
 knowledge_schema: synthesis-v1
-tags: [late-han, taiwei, court-politics, household-governance]
+tags: [late-han, taiwei, court-politics, household-governance, qiang-war]
 sources:
   - zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v
-last_updated: 2026-08-29
+  - zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi
+last_updated: 2026-08-30
 ---
-
-# 庞参 / Pang Can (late Han)
 
 ## Overview
 
-Pang Can is presented in [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|Hanji 815]] as a highly reputed late-Han taiwei whose public standing cannot protect him once household failure becomes usable political evidence.
+庞参 / Pang Can now appears as a late-Han official whose profile spans an earlier Qiang-front defeat and a later taiwei household scandal. The shared pattern is that reputation and rank do not protect a public actor when execution, command, or household control fails.
 
 ## Current Profile
 
-Pang Can's profile combines moral reputation, court isolation, and domestic vulnerability. The source says that officials and common people praised his loyalty and uprightness, but slanderers repeatedly attacked him and a conflict around one of his recommended men gave the Sili xiaowei grounds to impeach him. Pang avoided the formal meeting by claiming illness, which prompted [[DuanGongchengLateHan|Duan Gongcheng]] to memorialize in his defense.
+Hanji 789 supplies the earlier military layer. During the 116 CE Qiang crisis, Pang Can is paired with [[SimaJunLateHan|Sima Jun]] in a split operation against the Qiang-side field around [[LinChangQiang|Lin Chang]] and [[DuJigongLateHan|Du Jigong]]. The episode says Du defeats Pang Can's branch, while Sima Jun's short-lived success at Dingxi also collapses.
 
-The decisive shift comes from Pang's household. His current wife fears and resents a son from Pang's former wife and throws the boy into a well, killing him. [[ZhuLiangLuoyangLateHan|Zhu Liang]], the Luoyang magistrate, uses the case to impeach Pang; [[EmperorShunOfHan|Emperor Shun]] then dismisses Pang in the seventh month under a disaster-and-epidemic frame, after previously sending palace envoys with gifts to inquire about his illness.
+Hanji 815 supplies the later high-office layer. Pang Can is a reputed taiwei praised for loyalty and uprightness, but slander and court isolation make him vulnerable. His household then supplies decisive evidence: his current wife kills a son from his former wife by throwing him into a well. [[ZhuLiangLuoyangLateHan|Zhu Liang]] uses the case to impeach Pang, and [[EmperorShunOfHan|Emperor Shun]] dismisses him under a disaster-and-epidemic frame.
 
 ## Key Characteristics
 
-- High office and reputation do not remove exposure to impeachment when household discipline collapses.
-- Public moral capital can still generate a defense channel: Duan Gongcheng cites popular praise and warns against harming loyal ministers.
-- Pang's weakness is less policy failure than a combined vulnerability of isolation, slander pressure, avoidance, and domestic scandal.
-- The case turns family governance into state-office liability because the magistrate can convert a household murder into an impeachment route.
-- His dismissal creates the transition point for [[ShiYanLateHan|Shi Yan]] to become taiwei.
+- Holds public standing across military and high-court contexts, but neither context is immune to failure.
+- Suffers an early Qiang-front defeat that contrasts with Sima Jun's brief tactical success.
+- Later becomes a taiwei whose moral reputation still cannot absorb household murder.
+- Exposes the link between private household governance and public office liability.
+- Serves as a bridge between frontier-command failure and household-misconduct impeachment.
 
 ## Evidence
 
-- Household scandal as political liability: [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|Hanji 815]] says Pang's current wife kills the son of his former wife by throwing him into a well, after which Zhu Liang impeaches him and Pang is dismissed.
-- Moral reputation and public defense: [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|Hanji 815]] has Duan Gongcheng report that common people praise Pang's loyalty and that harming loyal good people is a grave ruler error.
-- Court isolation and slander pressure: [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|Hanji 815]] frames Pang as trapped among flattering officials and repeatedly endangered by accusation.
+- Qiang-front role: [[zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi|Hanji 789]] pairs Pang Can with Sima Jun in the 116 CE split operation.
+- Defeat by Du Jigong: [[zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi|Hanji 789]] says Du defeats Pang Can's branch of the attack.
+- Reputation and defense: [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|Hanji 815]] says officials and common people praise Pang Can's loyalty and uprightness, and Duan Gongcheng memorializes in his defense.
+- Household scandal: [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|Hanji 815]] says Pang's current wife kills his son from a former wife.
+- Dismissal route: [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|Hanji 815]] says Zhu Liang impeaches Pang and Emperor Shun dismisses him.
 
 ## Qualifications
 
-The page is currently bounded to a single 133 CE episode. The source does not identify Pang's murdered son or wife by name, and it does not give Pang's full earlier career. The dismissal is presented alongside disaster and epidemic conditions, so the household scandal is political leverage inside a broader omen-and-accountability idiom rather than the only stated reason.
+The two source layers are separated by time and office context. The page does not claim that the Qiang-front defeat caused the later taiwei fall; it treats them as two bounded examples of Pang Can's public vulnerability under failed execution and failed household control.
 
 ## What Changed
 
-- Created the page because Hanji 815 makes Pang Can central rather than merely source-scoped.
-- Established the household-scandal case as evidence for [[HouseholdMisconductPoliticalLiability|家门失范政治连带]].
-- Linked Pang's dismissal to Duan Gongcheng's defense, Zhu Liang's impeachment, Emperor Shun's response, and Shi Yan's succession.
+- Added Hanji 789's 116 CE Qiang-front defeat before Pang Can's Hanji 815 taiwei scandal.
+- Reframed the page from a one-case household-liability profile into a broader public-failure profile.
 
 ## Relationships
 
-- [[EmperorShunOfHan]] - ruler who first sends comfort gifts through palace envoys and then dismisses Pang after the impeachment context changes.
-- [[DuanGongchengLateHan]] - defender who tries to convert public praise into protection for Pang.
-- [[ZhuLiangLuoyangLateHan]] - magistrate who turns Pang's household murder scandal into impeachment leverage.
-- [[ShiYanLateHan]] - successor as taiwei after Pang's dismissal.
-- [[HouseholdMisconductPoliticalLiability]] - concept exemplified by Pang's domestic scandal becoming a public-office vulnerability.
-- [[MoralReputationPoliticalCapital]] - related pattern because Pang's reputation creates a defense resource but not decisive protection.
+- [[SimaJunLateHan]] - paired commander whose simultaneous Dingxi operation also collapses.
+- [[DuJigongLateHan]] - rebel actor who defeats Pang Can's branch.
+- [[LinChangQiang]] - Qiang-side leader whose field Pang Can's operation targets.
+- [[HouseholdMisconductPoliticalLiability]] - later Pang Can case turns household murder into impeachment exposure.
+- [[EmperorShunOfHan]] - ruler who dismisses Pang Can after the household scandal.
+- [[RegencyUnderCompoundCrisis]] - the earlier Qiang-front defeat belongs to the Deng-regency crisis layer.

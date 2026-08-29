@@ -3605,9 +3605,9 @@
       "url": "/wiki/entities/bostondynamics/"
     },
     "BoundarylessKindnessTrap": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》919丨想活得好？先踢开善良的自己 [lrqxfZIR4BQXt0v3cCvfEf8FaaDE].md",
@@ -3643,9 +3643,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》837丨为人处世，为何不能心慈手软？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-837-weiren-chushi-weihe-buneng-xinci-shouruan-luznyzqldwdrbkfm7ce-1huuxm7b/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》789丨善良没有底线，你将一文不值 [ljv5HGMD0vxoA-TecKJ2ZkIgVcoi].md",
+          "key": "zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》789丨善良没有底线，你将一文不值",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-30",
       "url": "/wiki/concepts/boundarylesskindnesstrap/"
     },
     "BountyMobilizedPacification": {
@@ -5684,6 +5691,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/coercedimperialmarriage/"
     },
+    "CoerciveFrontierRelocationBackfire": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》789丨善良没有底线，你将一文不值 [ljv5HGMD0vxoA-TecKJ2ZkIgVcoi].md",
+          "key": "zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》789丨善良没有底线，你将一文不值",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/coercivefrontierrelocationbackfire/"
+    },
     "CognitiveAging": {
       "episode_count": 1,
       "show_count": 1,
@@ -7440,9 +7463,9 @@
       "url": "/wiki/entities/dengzhilatehan/"
     },
     "DengZunLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》790丨历史告诉你：如何和领导打交道？ [luLf0R1SdKOD3luZWRU0_KKrIjXK].md",
@@ -7457,6 +7480,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》794丨一代女君邓绥，去世后竟全家遭殃？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-794-yidai-nvjun-dengsui-qushi-hou-jing-quanjia-zaoyang-llmlhabdd09opca6-pr80q4mfoxi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》789丨善良没有底线，你将一文不值 [ljv5HGMD0vxoA-TecKJ2ZkIgVcoi].md",
+          "key": "zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》789丨善良没有底线，你将一文不值",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi/"
         }
       ],
       "updated": "2026-08-30",
@@ -8062,6 +8092,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/dugenlatehan/"
+    },
+    "DuJigongLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》789丨善良没有底线，你将一文不值 [ljv5HGMD0vxoA-TecKJ2ZkIgVcoi].md",
+          "key": "zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》789丨善良没有底线，你将一文不值",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/dujigonglatehan/"
     },
     "DuMiLateHan": {
       "episode_count": 3,
@@ -8820,9 +8866,9 @@
       "url": "/wiki/concepts/emotionsasfunctionalcontrolstates/"
     },
     "EmperorAnOfHan": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 1,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》802丨安帝之死！东汉王朝权力大洗牌！ [lgvNE92e0jJzJNzNZfkZ7nvZTNbj].md",
@@ -8900,9 +8946,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》792丨邓康惹怒太后：打狗为什么要看主人？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》789丨善良没有底线，你将一文不值 [ljv5HGMD0vxoA-TecKJ2ZkIgVcoi].md",
+          "key": "zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》789丨善良没有底线，你将一文不值",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-08-30",
       "url": "/wiki/entities/emperoranofhan/"
     },
     "EmperorChongOfHan": {
@@ -9371,9 +9424,9 @@
       "url": "/wiki/entities/empressdenghuanlatehan/"
     },
     "EmpressDowagerDengLateHan": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》795丨邓家灭亡后，为何举朝为他们鸣冤？ [lqVmBQrrOOKphB4beCaQbP7h_Wi1].md",
@@ -9416,6 +9469,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》790丨历史告诉你：如何和领导打交道？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》789丨善良没有底线，你将一文不值 [ljv5HGMD0vxoA-TecKJ2ZkIgVcoi].md",
+          "key": "zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》789丨善良没有底线，你将一文不值",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi/"
         }
       ],
       "updated": "2026-08-30",
@@ -17816,6 +17876,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/lifestyleweightmanagement/"
     },
+    "LinChangQiang": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》789丨善良没有底线，你将一文不值 [ljv5HGMD0vxoA-TecKJ2ZkIgVcoi].md",
+          "key": "zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》789丨善良没有底线，你将一文不值",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/linchangqiang/"
+    },
     "LinkedIn": {
       "episode_count": 4,
       "show_count": 3,
@@ -18149,9 +18225,9 @@
       "url": "/wiki/entities/liujunshilatehan/"
     },
     "LiuKaiEasternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》796丨东汉名臣VS帝王身边人，谁能赢？ [lkYzP2V_CjYsd65SyOYUldlbDB5P].md",
@@ -18159,9 +18235,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》796丨东汉名臣VS帝王身边人，谁能赢？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-796-donghan-mingchen-vs-diwang-shenbianren-shui-neng-ying-lkyzp2v-cjysd65syoyuldlbdb5p/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》789丨善良没有底线，你将一文不值 [ljv5HGMD0vxoA-TecKJ2ZkIgVcoi].md",
+          "key": "zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》789丨善良没有底线，你将一文不值",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-08-30",
       "url": "/wiki/entities/liukaieasternhan/"
     },
     "LiuKuanLateHan": {
@@ -22213,9 +22296,9 @@
       "url": "/wiki/concepts/officialdutyoverpatroncommand/"
     },
     "OfficialMourningDutyConflict": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》797丨古代忠孝真的无法两全吗？ [lrU9shBWFwwr9lLUHhd7-xjuAlL6].md",
@@ -22223,9 +22306,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》797丨古代忠孝真的无法两全吗？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》789丨善良没有底线，你将一文不值 [ljv5HGMD0vxoA-TecKJ2ZkIgVcoi].md",
+          "key": "zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》789丨善良没有底线，你将一文不值",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-08-30",
       "url": "/wiki/concepts/officialmourningdutyconflict/"
     },
     "OilRevenueSanctionsLeverage": {
@@ -22828,9 +22918,9 @@
       "url": "/wiki/entities/panhonglatehan/"
     },
     "PangCanLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》815丨可悲！古代重臣的家风之殇！ [llKHbXo_-63PJw_gK9PihnBFr94V].md",
@@ -22838,9 +22928,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》815丨可悲！古代重臣的家风之殇！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》789丨善良没有底线，你将一文不值 [ljv5HGMD0vxoA-TecKJ2ZkIgVcoi].md",
+          "key": "zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》789丨善良没有底线，你将一文不值",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-08-30",
       "url": "/wiki/entities/pangcanlatehan/"
     },
     "PangXiLateHan": {
@@ -25001,9 +25098,9 @@
       "url": "/wiki/concepts/recurrencefreesurvivalendpoint/"
     },
     "RegencyUnderCompoundCrisis": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》793丨历史著名女皇邓绥怎么死的？ [lsZFgj7waiUUsrD_DZjmV5mBRP1I].md",
@@ -25025,6 +25122,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》790丨历史告诉你：如何和领导打交道？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》789丨善良没有底线，你将一文不值 [ljv5HGMD0vxoA-TecKJ2ZkIgVcoi].md",
+          "key": "zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》789丨善良没有底线，你将一文不值",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi/"
         }
       ],
       "updated": "2026-08-30",
@@ -25134,9 +25238,9 @@
       "url": "/wiki/entities/renjunluoyanglatehan/"
     },
     "RenShangLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》790丨历史告诉你：如何和领导打交道？ [luLf0R1SdKOD3luZWRU0_KKrIjXK].md",
@@ -25144,6 +25248,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》790丨历史告诉你：如何和领导打交道？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》789丨善良没有底线，你将一文不值 [ljv5HGMD0vxoA-TecKJ2ZkIgVcoi].md",
+          "key": "zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》789丨善良没有底线，你将一文不值",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi/"
         }
       ],
       "updated": "2026-08-30",
@@ -27019,6 +27130,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/silentsqlfailure/"
     },
+    "SimaJunLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》789丨善良没有底线，你将一文不值 [ljv5HGMD0vxoA-TecKJ2ZkIgVcoi].md",
+          "key": "zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》789丨善良没有底线，你将一文不值",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/simajunlatehan/"
+    },
     "Sirens": {
       "episode_count": 1,
       "show_count": 1,
@@ -27811,9 +27938,9 @@
       "url": "/wiki/concepts/strategicemotionconcealment/"
     },
     "StrategicFrontierAbandonment": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》934丨杀一人则天下安，你杀不杀？ [ltaR8hVDKqCt8oizm3k22Z38B1v8].md",
@@ -27842,6 +27969,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》790丨历史告诉你：如何和领导打交道？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》789丨善良没有底线，你将一文不值 [ljv5HGMD0vxoA-TecKJ2ZkIgVcoi].md",
+          "key": "zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》789丨善良没有底线，你将一文不值",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi/"
         }
       ],
       "updated": "2026-08-30",
@@ -32453,9 +32587,9 @@
       "url": "/wiki/entities/xiangkailatehan/"
     },
     "XianlingQiang": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》929丨对事不对人，你信了吗？ [lgaXJ0jzoPddmt3C5hiBNExqLhB3].md",
@@ -32484,9 +32618,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》855丨你有多无情，就有多强大",
           "url": "/wiki/sources/zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》789丨善良没有底线，你将一文不值 [ljv5HGMD0vxoA-TecKJ2ZkIgVcoi].md",
+          "key": "zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》789丨善良没有底线，你将一文不值",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-30",
       "url": "/wiki/entities/xianlingqiang/"
     },
     "XianyuFu": {
@@ -34348,6 +34489,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/yuxueasternhan/"
     },
+    "YuanChangLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》789丨善良没有底线，你将一文不值 [ljv5HGMD0vxoA-TecKJ2ZkIgVcoi].md",
+          "key": "zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》789丨善良没有底线，你将一文不值",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/yuanchanglatehan/"
+    },
     "YuanHongChenliuLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -34964,6 +35121,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/zhangjianlatehan/"
+    },
+    "ZhangJunAnEraLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》789丨善良没有底线，你将一文不值 [ljv5HGMD0vxoA-TecKJ2ZkIgVcoi].md",
+          "key": "zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》789丨善良没有底线，你将一文不值",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/zhangjunaneralatehan/"
     },
     "ZhangKaiDuanJiongOfficer": {
       "episode_count": 1,
