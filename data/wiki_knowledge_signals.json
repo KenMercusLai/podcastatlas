@@ -1257,6 +1257,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/aivoicecloningrights/"
     },
+    "AbsoluteGuaranteeTrap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》791丨职场上总有人背后阴你？一招应对 [llZ74eBI88qMw_9050x2QaDdjwQN].md",
+          "key": "zizhi-tongjian-hanji-791-zhichang-shang-zong-you-ren-beihou-yin-ni-yi-zhao-yingdui-llz74ebi88qmw-9050x2qaddjwqn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》791丨职场上总有人背后阴你？一招应对",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-791-zhichang-shang-zong-you-ren-beihou-yin-ni-yi-zhao-yingdui-llz74ebi88qmw-9050x2qaddjwqn/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/absoluteguaranteetrap/"
+    },
     "AccusationQuotaRefusal": {
       "episode_count": 1,
       "show_count": 1,
@@ -3118,9 +3134,9 @@
       "url": "/wiki/entities/banshilatehan/"
     },
     "BanYongLateHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》807丨班超之子为何会含冤入狱？ [liIWGi77g2ON1z2VnWAF1_wVph2d].md",
@@ -3149,9 +3165,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》799丨东汉名臣杨震，如何拒绝走后门？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》791丨职场上总有人背后阴你？一招应对 [llZ74eBI88qMw_9050x2QaDdjwQN].md",
+          "key": "zizhi-tongjian-hanji-791-zhichang-shang-zong-you-ren-beihou-yin-ni-yi-zhao-yingdui-llz74ebi88qmw-9050x2qaddjwqn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》791丨职场上总有人背后阴你？一招应对",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-791-zhichang-shang-zong-you-ren-beihou-yin-ni-yi-zhao-yingdui-llz74ebi88qmw-9050x2qaddjwqn/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-08-30",
       "url": "/wiki/entities/banyonglatehan/"
     },
     "BasicResearchBreakthroughLatency": {
@@ -9272,9 +9295,9 @@
       "url": "/wiki/entities/empressdenghuanlatehan/"
     },
     "EmpressDowagerDengLateHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》795丨邓家灭亡后，为何举朝为他们鸣冤？ [lqVmBQrrOOKphB4beCaQbP7h_Wi1].md",
@@ -9303,9 +9326,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》792丨邓康惹怒太后：打狗为什么要看主人？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》791丨职场上总有人背后阴你？一招应对 [llZ74eBI88qMw_9050x2QaDdjwQN].md",
+          "key": "zizhi-tongjian-hanji-791-zhichang-shang-zong-you-ren-beihou-yin-ni-yi-zhao-yingdui-llz74ebi88qmw-9050x2qaddjwqn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》791丨职场上总有人背后阴你？一招应对",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-791-zhichang-shang-zong-you-ren-beihou-yin-ni-yi-zhao-yingdui-llz74ebi88qmw-9050x2qaddjwqn/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-08-30",
       "url": "/wiki/entities/empressdowagerdenglatehan/"
     },
     "EmpressDowagerDouMiao": {
@@ -27645,9 +27675,9 @@
       "url": "/wiki/concepts/strategicemotionconcealment/"
     },
     "StrategicFrontierAbandonment": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》934丨杀一人则天下安，你杀不杀？ [ltaR8hVDKqCt8oizm3k22Z38B1v8].md",
@@ -27662,9 +27692,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》799丨东汉名臣杨震，如何拒绝走后门？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》791丨职场上总有人背后阴你？一招应对 [llZ74eBI88qMw_9050x2QaDdjwQN].md",
+          "key": "zizhi-tongjian-hanji-791-zhichang-shang-zong-you-ren-beihou-yin-ni-yi-zhao-yingdui-llz74ebi88qmw-9050x2qaddjwqn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》791丨职场上总有人背后阴你？一招应对",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-791-zhichang-shang-zong-you-ren-beihou-yin-ni-yi-zhao-yingdui-llz74ebi88qmw-9050x2qaddjwqn/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-08-30",
       "url": "/wiki/concepts/strategicfrontierabandonment/"
     },
     "StrengthTrainingJointProtection": {

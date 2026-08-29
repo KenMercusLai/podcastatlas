@@ -13581,6 +13581,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-30] ingest | 《资治通鉴·汉纪》791丨职场上总有人背后阴你？一招应对
+
+Ingested the 2026-07-06 芮淇讲透资治通鉴 episode on the 120 CE Western Regions debate after Northern Xiongnu pressure, Ban Yong's rejection of both Cao Zong's costly expedition and pass-closing abandonment, his Shanshan-forward limited-retention proposal, Empress Dowager Deng's partial Dunhuang-only adoption, and his answer to the impossible frontier guarantee demand. Created the source note plus `AbsoluteGuaranteeTrap`; updated `BanYongLateHan`, `EmpressDowagerDengLateHan`, `StrategicFrontierAbandonment`, `index`, and `overview`. No settled contradiction found; Cao Zong, Suo Ban, Qiwu Can, Cui Ju, Mao Zhen, Shanshan king Youhuan, Yumen Pass, Yangguan, Shanshan, Yanqi, Qiuci, and the opening calmness advice remain source-scoped.
+
 ## [2026-08-30] ingest | VOL.211 越运动越“垮脸”？整形医生与心血管医生的「健身祛魅」指南
 
 Ingested the 2026-07-07 这病说来话长 episode with 阿汤, Ander, and 邓教授 on exercise as medical aesthetics, cardiovascular exercise risk, overtraining, sleep and caffeine recovery debt, supplement caution, sport injuries, equipment safety, and BLS/AED preparedness. Created the source note plus `AnderMedicalAesthetics`, `DengProfessorCardiology`, `ExerciseMedicalAestheticBoundary`, `CardiovascularExerciseRiskBoundary`, and `PublicExerciseEmergencyPreparedness`; updated `ExerciseLoadManagement`, `ZheBingShuoLaiHuaChang`, `Atang`, `index`, and `overview`. No settled contradiction found; sport-specific training plans, aesthetic procedures, heart-rate thresholds, supplement use, CPR/AED implementation, and injury treatment remain source-scoped public education rather than individualized medical, emergency, cardiology, dermatology, rehabilitation, or training advice.
@@ -13596,3 +13600,7 @@ Ingested the 2026-08-29 42章经 episode with Lu Yuxin on low-cost small-model p
 ## [2026-08-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-30] lint | Wiki lint
+
+Ran health, identity validation, and lint. Health passed across 15,988 lint-scanned wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-28 with 15,429 nodes and 180,855 edges while the current lint scan covered 15,988 pages, so bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest` and no common provider API key variables are present in this shell. Report returned in-session; `wiki/lint-report.md` was not updated.

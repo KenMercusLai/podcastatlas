@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 5954
+wiki_total_pages: 5955
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1958,6 +1958,9 @@ wiki_pages:
   - key: "AdviceFramingUnderHierarchy"
     title: "等级场景中的进言包装 / Hierarchy-Aware Advice Framing"
     url: "/wiki/concepts/adviceframingunderhierarchy/"
+  - key: "AbsoluteGuaranteeTrap"
+    title: "绝对保证陷阱 / Absolute Guarantee Trap"
+    url: "/wiki/concepts/absoluteguaranteetrap/"
   - key: "AbsoluteCommandObedience"
     title: "绝对服从式指挥训练 / Absolute Command Obedience"
     url: "/wiki/concepts/absolutecommandobedience/"
