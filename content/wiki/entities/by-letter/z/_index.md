@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 8354
+wiki_total_pages: 8358
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -689,6 +689,9 @@ wiki_pages:
   - key: "ZhangLu"
     title: "张璐 / Zhang Lu"
     url: "/wiki/entities/zhanglu/"
+  - key: "ZhangBailuLateHan"
+    title: "张白禄 / Zhang Bailu (late Han)"
+    url: "/wiki/entities/zhangbailulatehan/"
   - key: "ZhangHaoRemonstratorLateHan"
     title: "张皓 / Zhang Hao (late Han remonstrator)"
     url: "/wiki/entities/zhanghaoremonstratorlatehan/"
@@ -836,6 +839,9 @@ wiki_pages:
   - key: "ZengJing"
     title: "曾静 / Zeng Jing"
     url: "/wiki/entities/zengjing/"
+  - key: "ZhaogeCountyLateHan"
+    title: "朝歌县 / Zhaoge County (late Han)"
+    url: "/wiki/entities/zhaogecountylatehan/"
   - key: "ZhuGaiLateHan"
     title: "朱丐 / Zhu Gai (late Han)"
     url: "/wiki/entities/zhugailatehan/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 5962
+wiki_total_pages: 5964
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1952,6 +1952,9 @@ wiki_pages:
   - key: "AppointedGovernorSecessionRisk"
     title: "受任地方长官割据风险 / Appointed Governor Secession Risk"
     url: "/wiki/concepts/appointedgovernorsecessionrisk/"
+  - key: "AmnestyTimedPacification"
+    title: "大赦定时安抚 / Amnesty-Timed Pacification"
+    url: "/wiki/concepts/amnestytimedpacification/"
   - key: "ArmedFollowerIntegrationCost"
     title: "武装部众整合成本 / Armed Follower Integration Cost"
     url: "/wiki/concepts/armedfollowerintegrationcost/"

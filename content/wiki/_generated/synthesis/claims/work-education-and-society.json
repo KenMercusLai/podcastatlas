@@ -39,6 +39,25 @@
     },
     {
       "global_candidate": false,
+      "id": "mourning-withdrawal-turns-family-duty-into-status-management",
+      "qualifications": [
+        "This is a historical analogy from Hanji 785, not modern workplace, family, or mourning advice.",
+        "The paragraph belongs primarily to history and governance; it appears here only because family, office, reputation, and status-management language made it a secondary work/society input.",
+        "The source does not prove that Deng-family withdrawal reduced real power; fengchaoqing access keeps the restraint signal qualified."
+      ],
+      "statement": "As a secondary work-and-society input, [[zizhi-tongjian-hanji-785-donghan-dengsui-zhangkong-yuwang-caineng-xiaodao-zuihou-llfg4kjaautqlfewhplikvu3ry1u|Hanji 785]] shows that [[DengFamilyAnEraLateHan]] office exit can be status management: [[BanZhaoLateHan]] advises [[EmpressDowagerDengLateHan]] to accept [[DengZhiLateHan]] and the Deng brothers' mourning withdrawal as a non-monopoly signal, while fengchaoqing keeps family consultation available under [[RegencyUnderCompoundCrisis]].",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-785-donghan-dengsui-zhangkong-yuwang-caineng-xiaodao-zuihou-llfg4kjaautqlfewhplikvu3ry1u",
+        "DengFamilyAnEraLateHan",
+        "BanZhaoLateHan",
+        "EmpressDowagerDengLateHan",
+        "DengZhiLateHan",
+        "RegencyUnderCompoundCrisis"
+      ]
+    },
+    {
+      "global_candidate": false,
       "id": "historical-relationship-channels-shape-workable-claims",
       "qualifications": [
         "This is a historical analogy from Hanji 806, not modern workplace, education, or legal advice.",
@@ -253,6 +272,7 @@
       ]
     }
   ],
-  "summary": "Hanji 787 adds a source-scoped family-mobility and selection-channel case: Yan Chang's preparation of Yan Ji for palace entry shows private household investment trying to pass through gendered court selection, imperial favor, and regency approval before becoming public status. Hanji 792 adds a source-scoped family and career risk lesson: concentrating every path in one power channel can increase exposure, while separation may look punitive before later conditions make it protective. The Guangzhou Academy of Fine Arts fieldwork episode adds that undergraduate learning can become formative when students observe, interview, and build experience before polished expression, while still facing grades, specialization, technique, employment pressure, and uncertain long-term outcomes. The Jefferson-Hemings material adds a secondary society case: family, labor, and relationship claims need explicit attention to legal power and coercive status. Hanji access, office-boundary, succession, and reputation cases show that education, merit, dignity, and correct claims need usable channels, public witnesses, role boundaries, and hierarchy-aware handling before they become institutional action. VOL.211 and the OCD episode add source-scoped public-health education cases: mechanism and assessment language can orient action, but training, emergency response, exposure practice, and treatment planning stay clinically bounded. Work, education, and society sources converge on a practical pattern: durable capability comes from bounded institutions, active learning, realistic workplace judgment, human feedback loops, social trust, pacing, and environments that let people act under real constraints.",
+  "input_digest": "b8a5a84479ada0812e91dc3badfd3ff1bbb540a5e89218929f13c31369997975",
+  "summary": "Hanji 785 adds a source-scoped work-and-society bridge: Deng-family mourning withdrawal shows how kinship duty, public reputation, and retained access can turn office exit into status management rather than simple retirement. Hanji 787 adds a source-scoped family-mobility and selection-channel case: Yan Chang's preparation of Yan Ji for palace entry shows private household investment trying to pass through gendered court selection, imperial favor, and regency approval before becoming public status. Hanji 792 adds a source-scoped family and career risk lesson: concentrating every path in one power channel can increase exposure, while separation may look punitive before later conditions make it protective. The Guangzhou Academy of Fine Arts fieldwork episode adds that undergraduate learning can become formative when students observe, interview, and build experience before polished expression, while still facing grades, specialization, technique, employment pressure, and uncertain long-term outcomes. The Jefferson-Hemings material adds a secondary society case: family, labor, and relationship claims need explicit attention to legal power and coercive status. Hanji access, office-boundary, succession, and reputation cases show that education, merit, dignity, and correct claims need usable channels, public witnesses, role boundaries, and hierarchy-aware handling before they become institutional action. VOL.211 and the OCD episode add source-scoped public-health education cases: mechanism and assessment language can orient action, but training, emergency response, exposure practice, and treatment planning stay clinically bounded. Work, education, and society sources converge on a practical pattern: durable capability comes from bounded institutions, active learning, realistic workplace judgment, human feedback loops, social trust, pacing, and environments that let people act under real constraints.",
   "topic_id": "work-education-and-society"
 }

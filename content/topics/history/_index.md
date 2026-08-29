@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1505
+topic_total_pages: 1506
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -2861,6 +2861,9 @@ topic_entities:
   - key: "WangHe"
     title: "王龁 / Wang He"
     url: "/wiki/entities/wanghe/"
+  - key: "BanZhaoLateHan"
+    title: "班昭 / Ban Zhao (late Han)"
+    url: "/wiki/entities/banzhaolatehan/"
   - key: "GanGong"
     title: "甘公 / Gan Gong"
     url: "/wiki/entities/gangong/"

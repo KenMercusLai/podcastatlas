@@ -8752,6 +8752,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "BanZhaoLateHan": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "BanalityOfEvil": [
     {
       "key": "politics",

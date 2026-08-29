@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "e8ec221f8b1bab00861add6048a8ace82d2ff3eeb0d34dddfc004433490d55a4",
       "8b672746ce88116c31bca27d977003ad904e59166db79bc2349a038a57cbe710",
       "e4e3b8f13f26be35019adef3fced4108842417c6090816eb8705866e259ba103",
       "0d7f25fc11fbd57cab678cdf86b6c29ce3204627f14611118f78159a945a218a",
@@ -384,11 +385,38 @@
       "fa2bb49857ac26cb533ae14a4cc21fb8c9bcedab808a46832dcf8b31ade00a18",
       "4aec524162783153bd9de6fc8aaf28b4b45a60c3433caa62e6442f020af99d44"
     ],
-    "paragraph_count": 382
+    "paragraph_count": 383
   },
-  "overview_commit": "9a592468e89434abba087b5c2fc566600807b70b",
-  "overview_digest": "7c97ffa0590bd6ab3e5853dbfcb4d75ad6fb977fbedf2b7badf7af9510cad014",
+  "overview_commit": "2313e1a38b812f0906c42282e7632de546507e3d",
+  "overview_digest": "15e7686e0ba841788254953873ff9787b744346709a00273262e351de4c1f98f",
   "paragraphs": [
+    {
+      "id": "e8ec221f8b1bab00861add6048a8ace82d2ff3eeb0d34dddfc004433490d55a4",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-785-donghan-dengsui-zhangkong-yuwang-caineng-xiaodao-zuihou-llfg4kjaautqlfewhplikvu3ry1u|《资治通鉴·汉纪》785丨东汉邓绥：掌控欲望才能笑到最后]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 110-111 CE [[EmpressDowagerDengLateHan|和熹邓皇后]] / [[EmperorAnOfHan|汉安帝]] regency layer immediately before [[zizhi-tongjian-hanji-786-guren-weishenme-paichi-fanji-shuiguo-lmcwqwdxwe0ehuusfeoaqk82msm7|Hanji 786]]. It adds [[BanZhaoLateHan|班昭]], [[FaXiongLateHan|法雄]], [[ZhangBailuLateHan|张白禄]], and [[AmnestyTimedPacification|大赦定时安抚]], while extending [[DengFamilyAnEraLateHan|邓氏]], [[DengZhiLateHan|邓骘]], [[RegencyUnderCompoundCrisis|复合危机下的摄政]], and [[CoerciveFrontierRelocationBackfire|强迁避敌反噬]]. Its core synthesis is that Deng-regency restraint and control appear before the later 112-121 crisis record: Fa Xiong makes amnesty credible to avoid harder island pursuit, Ban Zhao turns Deng-family mourning into public reputation management, Deng preserves family consultation through fengchaoqing, and Qiang-frontier relocation shifts administrative safety costs onto civilians through destroyed crops, houses, granaries, hunger, displacement, and population loss. No settled contradiction is recorded; Zhang Bailu/Bolu spelling and the later Liaodong endpoint remain source-scoped across Hanji 785 and Hanji 786.",
+      "topic_scores": {
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AmnestyTimedPacification",
+        "BanZhaoLateHan",
+        "CoerciveFrontierRelocationBackfire",
+        "DengFamilyAnEraLateHan",
+        "DengZhiLateHan",
+        "EmperorAnOfHan",
+        "EmpressDowagerDengLateHan",
+        "FaXiongLateHan",
+        "RegencyUnderCompoundCrisis",
+        "RuiqiJiangtouZizhiTongjian",
+        "ZhangBailuLateHan",
+        "zizhi-tongjian-hanji-785-donghan-dengsui-zhangkong-yuwang-caineng-xiaodao-zuihou-llfg4kjaautqlfewhplikvu3ry1u",
+        "zizhi-tongjian-hanji-786-guren-weishenme-paichi-fanji-shuiguo-lmcwqwdxwe0ehuusfeoaqk82msm7"
+      ]
+    },
     {
       "id": "8b672746ce88116c31bca27d977003ad904e59166db79bc2349a038a57cbe710",
       "primary_topic": "history-and-geopolitics",

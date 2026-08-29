@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 8354
+wiki_total_pages: 8358
 wiki_pages:
   - key: "FortyThreeTalks"
     title: "43talks"
@@ -734,6 +734,9 @@ wiki_pages:
   - key: "Fadior"
     title: "法迪奥 / Fadior"
     url: "/wiki/entities/fadior/"
+  - key: "FaXiongLateHan"
+    title: "法雄 / Fa Xiong (late Han)"
+    url: "/wiki/entities/faxionglatehan/"
   - key: "FenJingyuan"
     title: "焚景源"
     url: "/wiki/entities/fenjingyuan/"

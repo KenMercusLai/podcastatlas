@@ -4243,6 +4243,10 @@
     "title": "Amnesty International",
     "url": "/wiki/entities/amnestyinternational/"
   },
+  "AmnestyTimedPacification": {
+    "title": "大赦定时安抚 / Amnesty-Timed Pacification",
+    "url": "/wiki/concepts/amnestytimedpacification/"
+  },
   "Amon": {
     "title": "阿蒙 / Amon",
     "url": "/wiki/entities/amon/"
@@ -6046,6 +6050,10 @@
   "BanYongLateHan": {
     "title": "班勇 / Ban Yong (late Han)",
     "url": "/wiki/entities/banyonglatehan/"
+  },
+  "BanZhaoLateHan": {
+    "title": "班昭 / Ban Zhao (late Han)",
+    "url": "/wiki/entities/banzhaolatehan/"
   },
   "BanalityOfEvil": {
     "title": "Banality Of Evil / 恶的平庸性",
@@ -17271,6 +17279,10 @@
     "title": "FUBU",
     "url": "/wiki/entities/fubu/"
   },
+  "FaXiongLateHan": {
+    "title": "法雄 / Fa Xiong (late Han)",
+    "url": "/wiki/entities/faxionglatehan/"
+  },
   "FaZhenEasternHan": {
     "title": "法真 / Fa Zhen (Eastern Han)",
     "url": "/wiki/entities/fazheneasternhan/"
@@ -24794,6 +24806,10 @@
   "InformationApocalypse": {
     "title": "Information Apocalypse",
     "url": "/wiki/concepts/informationapocalypse/"
+  },
+  "InformationAsymmetricPacification": {
+    "title": "信息不对称式平叛 / Information-Asymmetric Pacification",
+    "url": "/wiki/concepts/informationasymmetricpacification/"
   },
   "InformationAsymmetryInContracts": {
     "title": "Information Asymmetry In Contracts / 契约中的信息不对称",
@@ -56843,6 +56859,10 @@
     "title": "张霸 / Zhang Ba (late Han)",
     "url": "/wiki/entities/zhangbalatehan/"
   },
+  "ZhangBailuLateHan": {
+    "title": "张白禄 / Zhang Bailu (late Han)",
+    "url": "/wiki/entities/zhangbailulatehan/"
+  },
   "ZhangBaoLateHan": {
     "title": "张苞 / Zhang Bao (late Han)",
     "url": "/wiki/entities/zhangbaolatehan/"
@@ -57650,6 +57670,10 @@
   "ZhaoZhongLateHan": {
     "title": "赵忠 / Zhao Zhong (late Han)",
     "url": "/wiki/entities/zhaozhonglatehan/"
+  },
+  "ZhaogeCountyLateHan": {
+    "title": "朝歌县 / Zhaoge County (late Han)",
+    "url": "/wiki/entities/zhaogecountylatehan/"
   },
   "ZheBingShuoLaiHuaChang": {
     "title": "这病说来话长 / Zhe Bing Shuo Lai Hua Chang",
@@ -62362,6 +62386,14 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-784-donghan-diaoyu-zhifa-diyiren-yuxu-ls6zezfw2pvaytoo94igdscfwkpt": {
+    "title": "《资治通鉴·汉纪》784丨东汉“钓鱼执法”第一人：虞诩",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-784-donghan-diaoyu-zhifa-diyiren-yuxu-ls6zezfw2pvaytoo94igdscfwkpt/"
+  },
+  "zizhi-tongjian-hanji-785-donghan-dengsui-zhangkong-yuwang-caineng-xiaodao-zuihou-llfg4kjaautqlfewhplikvu3ry1u": {
+    "title": "《资治通鉴·汉纪》785丨东汉邓绥：掌控欲望才能笑到最后",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-785-donghan-dengsui-zhangkong-yuwang-caineng-xiaodao-zuihou-llfg4kjaautqlfewhplikvu3ry1u/"
   },
   "zizhi-tongjian-hanji-786-guren-weishenme-paichi-fanji-shuiguo-lmcwqwdxwe0ehuusfeoaqk82msm7": {
     "title": "《资治通鉴·汉纪》786丨古人为什么排斥反季水果？",

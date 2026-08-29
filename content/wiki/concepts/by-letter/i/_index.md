@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 5962
+wiki_total_pages: 5964
 wiki_pages:
   - key: "ICEWorkforceExpansion"
     title: "ICE Workforce Expansion"
@@ -692,6 +692,9 @@ wiki_pages:
   - key: "IvyLeagueMeritocracy"
     title: "Ivy League Meritocracy"
     url: "/wiki/concepts/ivyleaguemeritocracy/"
+  - key: "InformationAsymmetricPacification"
+    title: "信息不对称式平叛 / Information-Asymmetric Pacification"
+    url: "/wiki/concepts/informationasymmetricpacification/"
   - key: "InnerCourtAccessBrokerageRisk"
     title: "内廷通道攀附风险 / Inner-Court Access Brokerage Risk"
     url: "/wiki/concepts/innercourtaccessbrokeragerisk/"

@@ -13664,3 +13664,19 @@ Ingested the 2026-07-05 芮淇讲透资治通鉴 episode on 110-114 CE Emperor A
 ## [2026-08-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-30] ingest | 《资治通鉴·汉纪》785丨东汉邓绥：掌控欲望才能笑到最后
+
+Ingested the 2026-07-05 芮淇讲透资治通鉴 episode on 110-111 CE Deng-regency disaster pressure, Zhang Bailu's coastal rebellion, Fa Xiong's amnesty-timed pacification, Deng's constrained maternal mourning, Ban Zhao's advice on Deng-family resignation, fengchaoqing retained court access, and Qiang-frontier forced relocation costs. Created the source note plus `BanZhaoLateHan`, `FaXiongLateHan`, `ZhangBailuLateHan`, and `AmnestyTimedPacification`; updated `EmpressDowagerDengLateHan`, `DengFamilyAnEraLateHan`, `DengZhiLateHan`, `CoerciveFrontierRelocationBackfire`, `RegencyUnderCompoundCrisis`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; Zhang Bailu/Bolu spelling and the Liaodong endpoint are treated as source-scoped across Hanji 785 and Hanji 786, while minor officials, disaster notices, Buyeo, Ye-Maek, Lelang, and Xuantu remain source-scoped.
+
+## [2026-08-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-30] ingest | 《资治通鉴·汉纪》784丨东汉“钓鱼执法”第一人：虞诩
+
+Ingested the 2026-07-05 芮淇讲透资治通鉴 episode on Yu Xu's Liangzhou-retention argument, elite-hostage proposal, Zhaoge infiltrator and marked-clothing pacification, Southern Xiongnu surrender, and Xianling Qiang pressure. Created the source note plus `ZhaogeCountyLateHan` and `InformationAsymmetricPacification`; updated `YuXuEasternHan`, `DengZhiLateHan`, `PangCanLateHan`, `LiangzhouLateHan`, `StrategicFrontierAbandonment`, `RegencyUnderCompoundCrisis`, `SouthernXiongnu`, `XianlingQiang`, `index`, and `overview`. No settled contradiction found; Ning Ji, the sheep-thief infiltrators, Zheng Qin, Duan Chong, and exact county-level details remain source-scoped.
+
+## [2026-08-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
