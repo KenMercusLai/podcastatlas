@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "9e750c18ecea5b57bc7f788216676407f1d0f5829da5764f431a0759bbb02269",
       "9dba460fee1726825853ac474cc0b952fb398e9e3548a1af1470db6a1f913bdf",
       "e8ec221f8b1bab00861add6048a8ace82d2ff3eeb0d34dddfc004433490d55a4",
       "8b672746ce88116c31bca27d977003ad904e59166db79bc2349a038a57cbe710",
@@ -386,11 +387,38 @@
       "fa2bb49857ac26cb533ae14a4cc21fb8c9bcedab808a46832dcf8b31ade00a18",
       "4aec524162783153bd9de6fc8aaf28b4b45a60c3433caa62e6442f020af99d44"
     ],
-    "paragraph_count": 384
+    "paragraph_count": 385
   },
-  "overview_commit": "92d97380dff5e8cf9b8de217742a853d69d43d7c",
-  "overview_digest": "57447f68b1cab5a84b48092ab7c85f82a4bcad8f382f95d6a2f85a66e50e25d3",
+  "overview_commit": "e19b427b432abf42ec03a5bfa97e6d8059d362ca",
+  "overview_digest": "4f20b2295050790a78083f4e0b2f9f160bad6ef5eb437e8d8f925b909fd62fe9",
   "paragraphs": [
+    {
+      "id": "9e750c18ecea5b57bc7f788216676407f1d0f5829da5764f431a0759bbb02269",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-782-jiemi-donghan-qi-nvzi-jiannan-de-taihou-shengya-lgfljux9aaocptbhxvvifitrgxcy|《资治通鉴·汉纪》782丨揭秘东汉奇女子艰难的太后生涯]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 108-109 CE [[EmpressDowagerDengLateHan|和熹邓皇后]] regency layer before [[zizhi-tongjian-hanji-783-renxing-qian-guize-nide-jiazhi-jueding-yiqie-lq5qbki6crhieafbv7g5kc07unqe|Hanji 783]] and [[zizhi-tongjian-hanji-784-donghan-diaoyu-zhifa-diyiren-yuxu-ls6zezfw2pvaytoo94igdscfwkpt|Hanji 784]]. It adds [[DianlingQiang|滇零]] and [[LuGongLateHan|鲁恭]], while extending [[DengZhiLateHan|邓骘]], [[RenShangLateHan|任尚]], [[PangCanLateHan|庞参]], [[RegencyUnderCompoundCrisis|复合危机下的摄政]], [[StrategicFrontierAbandonment|弃边失屏]], [[OfficialSalaryExtractionRisk|官吏俸禄不足抽取风险]], and [[RankSaleDisasterFinance|鬻爵赈灾融资]]. Its core synthesis is that Deng's early regency was already a fiscal-war crisis: Dianling's Qiang coalition defeats Han forces, Pang Can turns grain transport and civilian exhaustion into retrenchment policy, Deng Zhi is recalled but then promoted, Luoyang famine and cannibalism expose fiscal collapse, and emergency rank sale monetizes status before the later salary-cut and Liangzhou-abandonment debates. No settled contradiction is recorded; Liang Jin, Xia Qin, Pang Jun, Dong Bing, Han Cong, succession notices, Wuhuan-Hu raids, and minor disaster notices remain source-scoped.",
+      "topic_scores": {
+        "business-and-markets": 1,
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 3
+      },
+      "wikilinks": [
+        "DengZhiLateHan",
+        "DianlingQiang",
+        "EmpressDowagerDengLateHan",
+        "LuGongLateHan",
+        "OfficialSalaryExtractionRisk",
+        "PangCanLateHan",
+        "RankSaleDisasterFinance",
+        "RegencyUnderCompoundCrisis",
+        "RenShangLateHan",
+        "RuiqiJiangtouZizhiTongjian",
+        "StrategicFrontierAbandonment",
+        "zizhi-tongjian-hanji-782-jiemi-donghan-qi-nvzi-jiannan-de-taihou-shengya-lgfljux9aaocptbhxvvifitrgxcy",
+        "zizhi-tongjian-hanji-783-renxing-qian-guize-nide-jiazhi-jueding-yiqie-lq5qbki6crhieafbv7g5kc07unqe",
+        "zizhi-tongjian-hanji-784-donghan-diaoyu-zhifa-diyiren-yuxu-ls6zezfw2pvaytoo94igdscfwkpt"
+      ]
+    },
     {
       "id": "9dba460fee1726825853ac474cc0b952fb398e9e3548a1af1470db6a1f913bdf",
       "primary_topic": "history-and-geopolitics",

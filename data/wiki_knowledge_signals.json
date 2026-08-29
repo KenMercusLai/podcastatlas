@@ -7698,9 +7698,9 @@
       "url": "/wiki/entities/dengwanshilatehan/"
     },
     "DengZhiLateHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》790丨历史告诉你：如何和领导打交道？ [luLf0R1SdKOD3luZWRU0_KKrIjXK].md",
@@ -7729,6 +7729,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》784丨东汉“钓鱼执法”第一人：虞诩",
           "url": "/wiki/sources/zizhi-tongjian-hanji-784-donghan-diaoyu-zhifa-diyiren-yuxu-ls6zezfw2pvaytoo94igdscfwkpt/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》782丨揭秘东汉奇女子艰难的太后生涯 [lgFLjuX9AAOCpTbHXVVIfItrgXcY].md",
+          "key": "zizhi-tongjian-hanji-782-jiemi-donghan-qi-nvzi-jiannan-de-taihou-shengya-lgfljux9aaocptbhxvvifitrgxcy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》782丨揭秘东汉奇女子艰难的太后生涯",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-782-jiemi-donghan-qi-nvzi-jiannan-de-taihou-shengya-lgfljux9aaocptbhxvvifitrgxcy/"
         }
       ],
       "updated": "2026-08-30",
@@ -7878,6 +7885,36 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/diagnosticsafetynetting/"
+    },
+    "DianlingQiang": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》782丨揭秘东汉奇女子艰难的太后生涯 [lgFLjuX9AAOCpTbHXVVIfItrgXcY].md",
+          "key": "zizhi-tongjian-hanji-782-jiemi-donghan-qi-nvzi-jiannan-de-taihou-shengya-lgfljux9aaocptbhxvvifitrgxcy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》782丨揭秘东汉奇女子艰难的太后生涯",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-782-jiemi-donghan-qi-nvzi-jiannan-de-taihou-shengya-lgfljux9aaocptbhxvvifitrgxcy/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》786丨古人为什么排斥反季水果？ [lmcwqWdxWe0ehuUsFEOaQk82mSm7].md",
+          "key": "zizhi-tongjian-hanji-786-guren-weishenme-paichi-fanji-shuiguo-lmcwqwdxwe0ehuusfeoaqk82msm7",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》786丨古人为什么排斥反季水果？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-786-guren-weishenme-paichi-fanji-shuiguo-lmcwqwdxwe0ehuusfeoaqk82msm7/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》789丨善良没有底线，你将一文不值 [ljv5HGMD0vxoA-TecKJ2ZkIgVcoi].md",
+          "key": "zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》789丨善良没有底线，你将一文不值",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/dianlingqiang/"
     },
     "DigitRobot": {
       "episode_count": 1,
@@ -9726,9 +9763,9 @@
       "url": "/wiki/entities/empressdenghuanlatehan/"
     },
     "EmpressDowagerDengLateHan": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 1,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》795丨邓家灭亡后，为何举朝为他们鸣冤？ [lqVmBQrrOOKphB4beCaQbP7h_Wi1].md",
@@ -9806,6 +9843,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》783丨人性潜规则：你的价值决定一切",
           "url": "/wiki/sources/zizhi-tongjian-hanji-783-renxing-qian-guize-nide-jiazhi-jueding-yiqie-lq5qbki6crhieafbv7g5kc07unqe/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》782丨揭秘东汉奇女子艰难的太后生涯 [lgFLjuX9AAOCpTbHXVVIfItrgXcY].md",
+          "key": "zizhi-tongjian-hanji-782-jiemi-donghan-qi-nvzi-jiannan-de-taihou-shengya-lgfljux9aaocptbhxvvifitrgxcy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》782丨揭秘东汉奇女子艰难的太后生涯",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-782-jiemi-donghan-qi-nvzi-jiannan-de-taihou-shengya-lgfljux9aaocptbhxvvifitrgxcy/"
         }
       ],
       "updated": "2026-08-30",
@@ -19777,6 +19821,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/loyaltycollateraldilemma/"
     },
+    "LuGongLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》782丨揭秘东汉奇女子艰难的太后生涯 [lgFLjuX9AAOCpTbHXVVIfItrgXcY].md",
+          "key": "zizhi-tongjian-hanji-782-jiemi-donghan-qi-nvzi-jiannan-de-taihou-shengya-lgfljux9aaocptbhxvvifitrgxcy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》782丨揭秘东汉奇女子艰难的太后生涯",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-782-jiemi-donghan-qi-nvzi-jiannan-de-taihou-shengya-lgfljux9aaocptbhxvvifitrgxcy/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/lugonglatehan/"
+    },
     "LuSu": {
       "episode_count": 2,
       "show_count": 1,
@@ -22928,9 +22988,9 @@
       "url": "/wiki/concepts/officialmourningdutyconflict/"
     },
     "OfficialSalaryExtractionRisk": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》783丨人性潜规则：你的价值决定一切 [lq5qBkI6CrhIEAFbV7G5kc07uNQe].md",
@@ -22938,6 +22998,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》783丨人性潜规则：你的价值决定一切",
           "url": "/wiki/sources/zizhi-tongjian-hanji-783-renxing-qian-guize-nide-jiazhi-jueding-yiqie-lq5qbki6crhieafbv7g5kc07unqe/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》782丨揭秘东汉奇女子艰难的太后生涯 [lgFLjuX9AAOCpTbHXVVIfItrgXcY].md",
+          "key": "zizhi-tongjian-hanji-782-jiemi-donghan-qi-nvzi-jiannan-de-taihou-shengya-lgfljux9aaocptbhxvvifitrgxcy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》782丨揭秘东汉奇女子艰难的太后生涯",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-782-jiemi-donghan-qi-nvzi-jiannan-de-taihou-shengya-lgfljux9aaocptbhxvvifitrgxcy/"
         }
       ],
       "updated": "2026-08-30",
@@ -23559,9 +23626,9 @@
       "url": "/wiki/entities/panhonglatehan/"
     },
     "PangCanLateHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》815丨可悲！古代重臣的家风之殇！ [llKHbXo_-63PJw_gK9PihnBFr94V].md",
@@ -23590,6 +23657,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》784丨东汉“钓鱼执法”第一人：虞诩",
           "url": "/wiki/sources/zizhi-tongjian-hanji-784-donghan-diaoyu-zhifa-diyiren-yuxu-ls6zezfw2pvaytoo94igdscfwkpt/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》782丨揭秘东汉奇女子艰难的太后生涯 [lgFLjuX9AAOCpTbHXVVIfItrgXcY].md",
+          "key": "zizhi-tongjian-hanji-782-jiemi-donghan-qi-nvzi-jiannan-de-taihou-shengya-lgfljux9aaocptbhxvvifitrgxcy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》782丨揭秘东汉奇女子艰难的太后生涯",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-782-jiemi-donghan-qi-nvzi-jiannan-de-taihou-shengya-lgfljux9aaocptbhxvvifitrgxcy/"
         }
       ],
       "updated": "2026-08-30",
@@ -25561,9 +25635,9 @@
       "url": "/wiki/entities/ralphadolphs/"
     },
     "RankSaleDisasterFinance": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》106｜惊人发现信陵君的非正常死亡 [lsj3KD2Tb4tQtuvhWvSdwKh-h5EL].md",
@@ -25585,9 +25659,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》854丨历史告诉你：选官用官很重要！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》782丨揭秘东汉奇女子艰难的太后生涯 [lgFLjuX9AAOCpTbHXVVIfItrgXcY].md",
+          "key": "zizhi-tongjian-hanji-782-jiemi-donghan-qi-nvzi-jiannan-de-taihou-shengya-lgfljux9aaocptbhxvvifitrgxcy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》782丨揭秘东汉奇女子艰难的太后生涯",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-782-jiemi-donghan-qi-nvzi-jiannan-de-taihou-shengya-lgfljux9aaocptbhxvvifitrgxcy/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-30",
       "url": "/wiki/concepts/ranksaledisasterfinance/"
     },
     "RayBanSmartGlasses": {
@@ -25799,9 +25880,9 @@
       "url": "/wiki/concepts/recurrencefreesurvivalendpoint/"
     },
     "RegencyUnderCompoundCrisis": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》793丨历史著名女皇邓绥怎么死的？ [lsZFgj7waiUUsrD_DZjmV5mBRP1I].md",
@@ -25865,6 +25946,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》783丨人性潜规则：你的价值决定一切",
           "url": "/wiki/sources/zizhi-tongjian-hanji-783-renxing-qian-guize-nide-jiazhi-jueding-yiqie-lq5qbki6crhieafbv7g5kc07unqe/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》782丨揭秘东汉奇女子艰难的太后生涯 [lgFLjuX9AAOCpTbHXVVIfItrgXcY].md",
+          "key": "zizhi-tongjian-hanji-782-jiemi-donghan-qi-nvzi-jiannan-de-taihou-shengya-lgfljux9aaocptbhxvvifitrgxcy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》782丨揭秘东汉奇女子艰难的太后生涯",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-782-jiemi-donghan-qi-nvzi-jiannan-de-taihou-shengya-lgfljux9aaocptbhxvvifitrgxcy/"
         }
       ],
       "updated": "2026-08-30",
@@ -25974,9 +26062,9 @@
       "url": "/wiki/entities/renjunluoyanglatehan/"
     },
     "RenShangLateHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》790丨历史告诉你：如何和领导打交道？ [luLf0R1SdKOD3luZWRU0_KKrIjXK].md",
@@ -25998,6 +26086,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》788丨令敌人破大防！玩战术的心真脏？！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-788-ling-diren-po-da-fang-wan-zhanshu-de-xin-zhen-zang-lvprh9s7aaagf-t2n-m3bp4icqj0/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》782丨揭秘东汉奇女子艰难的太后生涯 [lgFLjuX9AAOCpTbHXVVIfItrgXcY].md",
+          "key": "zizhi-tongjian-hanji-782-jiemi-donghan-qi-nvzi-jiannan-de-taihou-shengya-lgfljux9aaocptbhxvvifitrgxcy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》782丨揭秘东汉奇女子艰难的太后生涯",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-782-jiemi-donghan-qi-nvzi-jiannan-de-taihou-shengya-lgfljux9aaocptbhxvvifitrgxcy/"
         }
       ],
       "updated": "2026-08-30",
@@ -28704,9 +28799,9 @@
       "url": "/wiki/concepts/strategicemotionconcealment/"
     },
     "StrategicFrontierAbandonment": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》934丨杀一人则天下安，你杀不杀？ [ltaR8hVDKqCt8oizm3k22Z38B1v8].md",
@@ -28749,6 +28844,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》784丨东汉“钓鱼执法”第一人：虞诩",
           "url": "/wiki/sources/zizhi-tongjian-hanji-784-donghan-diaoyu-zhifa-diyiren-yuxu-ls6zezfw2pvaytoo94igdscfwkpt/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》782丨揭秘东汉奇女子艰难的太后生涯 [lgFLjuX9AAOCpTbHXVVIfItrgXcY].md",
+          "key": "zizhi-tongjian-hanji-782-jiemi-donghan-qi-nvzi-jiannan-de-taihou-shengya-lgfljux9aaocptbhxvvifitrgxcy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》782丨揭秘东汉奇女子艰难的太后生涯",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-782-jiemi-donghan-qi-nvzi-jiannan-de-taihou-shengya-lgfljux9aaocptbhxvvifitrgxcy/"
         }
       ],
       "updated": "2026-08-30",

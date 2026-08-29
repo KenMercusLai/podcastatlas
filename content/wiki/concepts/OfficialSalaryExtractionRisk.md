@@ -2,51 +2,50 @@
 title: "官吏俸禄不足抽取风险 / Official Salary Extraction Risk"
 type: concept
 knowledge_schema: synthesis-v1
-tags: [governance, incentives, bureaucracy, fiscal, corruption, late-han]
+tags: [governance, fiscal-policy, bureaucracy, corruption, late-han]
 sources:
   - zizhi-tongjian-hanji-783-renxing-qian-guize-nide-jiazhi-jueding-yiqie-lq5qbki6crhieafbv7g5kc07unqe
+  - zizhi-tongjian-hanji-782-jiemi-donghan-qi-nvzi-jiannan-de-taihou-shengya-lgfljux9aaocptbhxvvifitrgxcy
 last_updated: 2026-08-30
 ---
 
 ## Definition
 
-Official salary extraction risk is the governance failure in which a state cuts or underfunds ordinary official pay to relieve fiscal pressure, then creates stronger incentives for local administrators to convert public authority into private income.
+官吏俸禄不足抽取风险 / Official Salary Extraction Risk is the governance pattern where cutting official pay reduces immediate fiscal outflow but increases the incentive for officials with coercive authority to recover income through fees, bribery, favoritism, or informal local extraction.
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-783-renxing-qian-guize-nide-jiazhi-jueding-yiqie-lq5qbki6crhieafbv7g5kc07unqe|Hanji 783]] creates the current evidence base through the 110 CE salary-cut notice under [[EmpressDowagerDengLateHan|Empress Dowager Deng]]. The episode does not deny the fiscal pressure: war, disaster, famine, and mobilization costs make immediate savings tempting. Its warning is that an administrative system cannot run only on moral appeal when many local officials are trying to keep a stable livelihood.
+Hanji 782 supplies the immediate fiscal prelude. Under Empress Dowager Deng, Qiang war, military defeat, grain transport, famine, and revenue exhaustion push the court toward selling ranks or court-adjacent identities for money and grain. That same budget field makes later salary reduction intelligible: it is not just moral austerity, but a sign that normal fiscal channels are failing.
 
-The concept therefore treats compensation as state capacity. If the center reduces pay while still demanding extraction, order, recruitment, and compliance, underpaid officials may make the office pay privately through bribes, fees, coercion, or tolerance of local abuses. In that sense a visible treasury saving can reappear as hidden social cost, weaker trust, and more damaged implementation.
+Hanji 783 gives the explicit salary-cut layer. The court reduces salaries for officials by rank, and the host emphasizes the tradeoff: the state saves money quickly, but underpaid officials still hold administrative power over people who cannot easily refuse demands. The concept therefore sits between fiscal relief and corruption theory; the harm is not automatic, but the incentive gradient changes.
 
 ## Key Claims
 
-- Fiscal crisis can make salary cuts look rational at the center even when they damage implementation below.
-- Local officials are not interchangeable moral agents; many respond to livelihood risk and expected enforcement.
-- Underpaying implementers can push corruption from exception toward ordinary survival strategy.
-- Salary pressure is most dangerous when offices retain coercive power over taxes, corvee, permissions, policing, or reports.
-- The public cost may surface as bribes, arbitrary fees, harsher extraction, distorted reporting, or popular resentment rather than as a line item in the court budget.
-- The concept does not claim high salaries alone prevent corruption; it says pay, monitoring, norms, and enforcement have to be designed together.
+- Salary reduction is a fiscal tool, not just a virtue signal, when war, famine, and disaster exhaust normal revenue.
+- The risk arises because officials keep coercive and administrative authority even when formal compensation falls.
+- Pay pressure can shift public fiscal stress downward into private fees, bribery, requisitions, or favoritism.
+- Rank sale and salary cuts belong to the same emergency extraction toolkit when ordinary revenue fails.
+- The concept qualifies austerity: visible court thrift can be real while still creating harmful implementation incentives.
 
 ## Evidence
 
-- Fiscal trigger: [[zizhi-tongjian-hanji-783-renxing-qian-guize-nide-jiazhi-jueding-yiqie-lq5qbki6crhieafbv7g5kc07unqe|Hanji 783]] places the salary reduction after frontier war, disasters, famine, and court austerity measures.
-- Administrative target: [[zizhi-tongjian-hanji-783-renxing-qian-guize-nide-jiazhi-jueding-yiqie-lq5qbki6crhieafbv7g5kc07unqe|Hanji 783]] says the cuts apply across central officials and state, commandery, and county offices by rank.
-- Incentive warning: [[zizhi-tongjian-hanji-783-renxing-qian-guize-nide-jiazhi-jueding-yiqie-lq5qbki6crhieafbv7g5kc07unqe|Hanji 783]] argues that if grassroots officials cannot maintain life through pay, they will seek power monetization and the court may tolerate it.
-- Systemic cost: [[zizhi-tongjian-hanji-783-renxing-qian-guize-nide-jiazhi-jueding-yiqie-lq5qbki6crhieafbv7g5kc07unqe|Hanji 783]] frames the issue through organization design: high-level goals still depend on frontline implementation by people responding to incentives.
+- Emergency fiscal prelude: [[zizhi-tongjian-hanji-782-jiemi-donghan-qi-nvzi-jiannan-de-taihou-shengya-lgfljux9aaocptbhxvvifitrgxcy|Hanji 782]] links Qiang war, famine, grain transport stress, rank sale, and fiscal exhaustion before the explicit salary-risk discussion.
+- Explicit pay-cut mechanism: [[zizhi-tongjian-hanji-783-renxing-qian-guize-nide-jiazhi-jueding-yiqie-lq5qbki6crhieafbv7g5kc07unqe|Hanji 783]] records court salary cuts and interprets them as short-term savings that can push officials toward extraction.
+- Austerity qualification: [[zizhi-tongjian-hanji-782-jiemi-donghan-qi-nvzi-jiannan-de-taihou-shengya-lgfljux9aaocptbhxvvifitrgxcy|Hanji 782]] and [[zizhi-tongjian-hanji-783-renxing-qian-guize-nide-jiazhi-jueding-yiqie-lq5qbki6crhieafbv7g5kc07unqe|Hanji 783]] both preserve Deng-regency frugality while showing why austerity does not by itself solve official incentive design.
 
 ## Counterevidence & Qualifications
 
-This concept is source-scoped to Hanji 783's interpretation of a salary-cut notice. The source does not prove that every affected official became corrupt, nor that salary restoration alone would repair late-Han administration. The stronger claim is narrower: pay cuts during crisis may shift fiscal pressure downward into unofficial extraction unless compensation, oversight, and local burden are handled together.
+The current sources do not prove a direct measured rise in bribery after the salary cuts. The claim is incentive-based: lower pay under unchanged authority makes extraction more likely and more tempting, especially when local society is already strained by war, famine, transport demands, and tax pressure.
 
 ## What Changed
 
-- Created this concept from Hanji 783's salary-cut and power-monetization interpretation.
+- Added Hanji 782 as the fiscal prelude connecting rank sale, famine, and Qiang-war costs to the later salary-cut risk.
+- Reframed the concept as part of a broader emergency extraction toolkit rather than a standalone pay-policy warning.
 
 ## Related Concepts
 
-- [[RegencyUnderCompoundCrisis|复合危机下的摄政]] - crisis environment that makes salary cuts tempting.
-- [[FinancialPowerAndStateCapacity]] - broader frame for seeing money, taxation, and fiscal tools as political capacity.
-- [[WorkplaceIncentiveDesign]] - general incentive-design neighbor for behavior produced by pay and rules.
-- [[PrivateFavorAppointmentErosion|私恩任官侵蚀]] - adjacent corruption route when private access controls offices and salaries.
-- [[BureaucraticRiskAvoidance]] - related behavior produced when officials optimize for survival under institutional pressure.
-- [[PalaceEnvoyLocalExtraction|宫使扰民式地方抽取]] - later An-era case where official channels push costs onto local people.
+- [[RankSaleDisasterFinance]] - parallel emergency fiscal tool that monetizes status or identity when revenue fails.
+- [[RegencyUnderCompoundCrisis]] - crisis setting that makes salary cuts politically thinkable and administratively risky.
+- [[PalaceEnvoyLocalExtraction]] - later local-extraction pattern that shows how public authority can become private burden.
+- [[AppointmentQualityAsStateCapacity]] - related personnel-quality frame because compensation and selection both shape official behavior.
+- [[GiftRefusalAsAuthority]] - contrasting integrity pattern where an official refuses to monetize public relationships.

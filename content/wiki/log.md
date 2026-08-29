@@ -1652,6 +1652,10 @@ Added source page for a Keji Luandun episode on Huawei's Tau Law, 3D chip stacki
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-30] ingest | 《资治通鉴·汉纪》782丨揭秘东汉奇女子艰难的太后生涯
+
+Ingested the 2026-07-05 芮淇讲透资治通鉴 episode on 108-109 CE Empress Dowager Deng's Qiang-war, famine, and fiscal crisis, including Deng Zhi's failed campaign and later promotion, Ren Shang's Pingxiang defeat and Hanyang command, Pang Can's imprisoned retrenchment memorial, Dianling's Qiang coalition, Lu Gong's famine-era dismissal and recommendation-boundary anecdote, Luoyang famine, and emergency rank sale. Created the source note plus `DianlingQiang` and `LuGongLateHan`; updated `EmpressDowagerDengLateHan`, `DengZhiLateHan`, `RenShangLateHan`, `PangCanLateHan`, `RegencyUnderCompoundCrisis`, `StrategicFrontierAbandonment`, `OfficialSalaryExtractionRisk`, `RankSaleDisasterFinance`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; Liang Jin, Xia Qin, Pang Jun, Dong Bing, Han Cong, succession notices, Wuhuan-Hu raids, and minor disaster notices remain source-scoped.
+
 ## [2026-08-21] ingest | 《资治通鉴·秦纪》105｜战争花样赵国李牧最会耍
 
 Added source page for Qinji 105: Qin famine-year pressure on Han, Meng Ao's twelve-city campaign, Li Mu's appointment after Lian Po, Li Mu's Yan campaign, northern-frontier command against Xiongnu, long defensive patience, baited encirclement, and the source-scoped contrast with Han Wudi's later resource-rich Xiongnu campaigns. Created Li Mu, Xiongnu, Wang Jian (Qin), Frontier Defensive Patience, Nomadic Cavalry Raiding Asymmetry, and Warring States Northern Great Walls; updated Zhao, Qin, Han, Yan, Meng Ao, Zhao Daoxiang Wang, Qin Eastward Pressure, Lure Enemy Out of Position, Warring States Military Transformation, Sunzi Bingfa, and Han Wudi. No direct contradiction found; troop counts, decade-long deterrence, and the Great Wall summary are kept source-scoped.
@@ -13680,6 +13684,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-30] ingest | 《资治通鉴·汉纪》784丨东汉“钓鱼执法”第一人：虞诩
 
 Ingested the 2026-07-05 芮淇讲透资治通鉴 episode on Yu Xu's Liangzhou-retention argument, elite-hostage proposal, Zhaoge infiltrator and marked-clothing pacification, Southern Xiongnu surrender, and Xianling Qiang pressure. Created the source note plus `ZhaogeCountyLateHan` and `InformationAsymmetricPacification`; updated `YuXuEasternHan`, `DengZhiLateHan`, `PangCanLateHan`, `LiangzhouLateHan`, `StrategicFrontierAbandonment`, `RegencyUnderCompoundCrisis`, `SouthernXiongnu`, `XianlingQiang`, `index`, and `overview`. No settled contradiction found; Ning Ji, the sheep-thief infiltrators, Zheng Qin, Duan Chong, and exact county-level details remain source-scoped.
+
+## [2026-08-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-30] lint | Wiki health check
 

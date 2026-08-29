@@ -2,65 +2,61 @@
 title: "邓骘 / Deng Zhi (late Han)"
 type: entity
 knowledge_schema: synthesis-v1
-tags: [late-han, deng-family, outer-relatives, court-politics]
+tags: [person, late-han, outer-relative-power, deng-family, general-in-chief]
 sources:
   - zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk
   - zizhi-tongjian-hanji-794-yidai-nvjun-dengsui-qushi-hou-jing-quanjia-zaoyang-llmlhabdd09opca6-pr80q4mfoxi
   - zizhi-tongjian-hanji-785-donghan-dengsui-zhangkong-yuwang-caineng-xiaodao-zuihou-llfg4kjaautqlfewhplikvu3ry1u
   - zizhi-tongjian-hanji-784-donghan-diaoyu-zhifa-diyiren-yuxu-ls6zezfw2pvaytoo94igdscfwkpt
+  - zizhi-tongjian-hanji-782-jiemi-donghan-qi-nvzi-jiannan-de-taihou-shengya-lgfljux9aaocptbhxvvifitrgxcy
 last_updated: 2026-08-30
 ---
 
 ## Overview
 
-邓骘 / Deng Zhi is a senior Deng-family actor whose profile now combines an early Liangzhou abandonment dispute, retaliatory use of appointment against [[YuXuEasternHan|Yu Xu]], mourning withdrawal as legitimacy management, household discipline during [[EmpressDowagerDengLateHan|Empress Dowager Deng]]'s regency, and later vulnerability when the Deng family loses protection after her death.
+邓骘 / Deng Zhi appears as the senior Deng-family outer-relative whose profile combines early Qiang-front failure, continued regent trust, high military title, Liangzhou policy sponsorship, mourning-restraint optics, household discipline, and post-Deng purge collapse.
 
 ## Current Profile
 
-Hanji 784 now supplies Deng Zhi's earliest current layer. He accepts [[PangCanLateHan|Pang Can]]'s proposal to abandon [[LiangzhouLateHan|Liangzhou]], but Yu Xu's warning through Zhang Yu reverses the policy direction. Deng Zhi then resents Yu Xu and appoints him magistrate of [[ZhaogeCountyLateHan|Zhaoge County]], where Ning Ji's rebellion has already killed officials and looked dangerous enough to overwhelm ordinary local control. The appointment therefore shows Deng Zhi as both a frontier-policy actor and a powerholder able to expose a critic through personnel placement.
+Hanji 782 gives the earliest current layer. Deng Zhi sends Ren Shang and others against Dianling's Qiang coalition, but the campaign is defeated at Pingxiang with heavy casualties. Pang Can's memorial names the cost of continued western campaigning and leads to Deng Zhi's recall, yet Deng Zhi soon receives grand ceremonial treatment and a General-in-Chief appointment. The result is a mixed profile: he is close enough to power to survive failure, but also close enough to become a symbol of Deng-family overconcentration.
 
-Hanji 785 shows Deng Zhi and other Deng brothers asking to leave office and observe mourning after the death of Empress Dowager Deng's mother. [[BanZhaoLateHan|Ban Zhao]] advises Deng to permit the withdrawal so the court can display praise for non-monopolization of power. Deng Zhi therefore becomes an early example of Deng-family restraint as public legitimacy performance, especially because Deng later grants fengchaoqing status and keeps the brothers present at major deliberations.
+Hanji 784 shows Deng Zhi sponsoring the Liangzhou abandonment position that Yu Xu rebuts. The episode does not make Deng Zhi simply foolish; it shows him thinking from war cost and administrative exhaustion, while Yu Xu argues that Liangzhou is a shield whose loss would raise future defense costs. Hanji 785 then adds the mourning-resignation layer, where Ban Zhao advises Empress Dowager Deng to let the Deng brothers withdraw temporarily so public opinion does not read the family as monopolizing power.
 
-Hanji 790 then shows Deng Zhi managing household risk after his son Deng Feng accepts a horse from [[RenShangLateHan|Ren Shang]]. He punishes both his wife and son with hair-removal sanctions and apologizes to the court, signaling an attempt to keep Deng-family privilege from appearing openly corrupt. Hanji 794 later records his collapse under the post-Deng purge environment, where former privilege turns into lethal exposure.
+Hanji 790 and Hanji 794 complete the current arc. Deng Zhi is strict enough to punish household gift-taking when his sons accept foreign gifts, but after Deng dies he is still vulnerable to court reversal. The post-Deng purge turns his earlier concentration of title, kinship, and military responsibility into liability.
 
 ## Key Characteristics
 
-- Senior Deng-family figure operating under the political shadow of Empress Dowager Deng.
-- Accepts the Liangzhou abandonment argument before Yu Xu's counterargument reverses the policy.
-- Uses appointment power against a critic by sending Yu Xu to dangerous Zhaoge.
-- Requests mourning withdrawal with other Deng brothers, making restraint visible before later family scandal.
-- Uses household punishment and court apology to contain gift-related reputational risk.
-- Serves as a counterweight to a crude reading of Deng-family power as pure impunity.
-- Later becomes vulnerable once the regency patronage structure disappears.
+- Senior Deng-family actor whose status depends on Empress Dowager Deng's regency and outer-relative trust.
+- Military-political figure whose early Qiang-front failure does not prevent promotion to high command.
+- Cost-sensitive frontier policy sponsor who supports Liangzhou retrenchment before Yu Xu's retention rebuttal.
+- Reputation-managed kinsman whose mourning withdrawal is used to blunt claims of family monopoly.
+- Household disciplinarian whose private gift-control does not erase the public risk of Deng-family concentration.
+- Purge-vulnerable figure after Deng's death because his authority is inseparable from the fallen regency network.
 
 ## Evidence
 
-- Liangzhou abandonment and resentment: [[zizhi-tongjian-hanji-784-donghan-diaoyu-zhifa-diyiren-yuxu-ls6zezfw2pvaytoo94igdscfwkpt|Hanji 784]] records Deng Zhi supporting Pang Can's abandonment proposal and resenting Yu Xu after the plan fails.
-- Dangerous appointment: [[zizhi-tongjian-hanji-784-donghan-diaoyu-zhifa-diyiren-yuxu-ls6zezfw2pvaytoo94igdscfwkpt|Hanji 784]] says Deng Zhi appoints Yu Xu to Zhaoge during Ning Ji's rebellion.
-- Mourning withdrawal: [[zizhi-tongjian-hanji-785-donghan-dengsui-zhangkong-yuwang-caineng-xiaodao-zuihou-llfg4kjaautqlfewhplikvu3ry1u|Hanji 785]] records Deng Zhi and other Deng brothers repeatedly requesting permission to resign and mourn, Ban Zhao advising acceptance, and Empress Dowager Deng later preserving access through fengchaoqing.
-- Household discipline: [[zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk|Hanji 790]] records Deng Feng accepting Ren Shang's horse and Deng Zhi punishing his wife and son while apologizing to the court.
-- Reputational containment: [[zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk|Hanji 790]] places that punishment inside the same episode as Ren Shang's execution and Deng Zun's reward, making the gift politically sensitive.
-- Post-regency collapse: [[zizhi-tongjian-hanji-794-yidai-nvjun-dengsui-qushi-hou-jing-quanjia-zaoyang-llmlhabdd09opca6-pr80q4mfoxi|Hanji 794]] records Deng Zhi's later fatal exposure in the Deng-family purge.
+- Defeat, recall, and promotion: [[zizhi-tongjian-hanji-782-jiemi-donghan-qi-nvzi-jiannan-de-taihou-shengya-lgfljux9aaocptbhxvvifitrgxcy|Hanji 782]] records Deng Zhi's Qiang command responsibility, Ren Shang's defeat, Pang Can's critique, Deng Zhi's recall, and his later General-in-Chief appointment.
+- Liangzhou retrenchment sponsorship: [[zizhi-tongjian-hanji-784-donghan-diaoyu-zhifa-diyiren-yuxu-ls6zezfw2pvaytoo94igdscfwkpt|Hanji 784]] places Deng Zhi on the abandonment side of the Liangzhou debate that Yu Xu counters.
+- Mourning and public optics: [[zizhi-tongjian-hanji-785-donghan-dengsui-zhangkong-yuwang-caineng-xiaodao-zuihou-llfg4kjaautqlfewhplikvu3ry1u|Hanji 785]] shows Ban Zhao advising Deng to allow Deng Zhi and his brothers to resign for mourning to reduce monopoly criticism.
+- Household discipline under power: [[zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk|Hanji 790]] uses Deng Zhi's response to his sons' gift-taking as a private-discipline layer inside the Deng-family field.
+- Post-Deng vulnerability: [[zizhi-tongjian-hanji-794-yidai-nvjun-dengsui-qushi-hou-jing-quanjia-zaoyang-llmlhabdd09opca6-pr80q4mfoxi|Hanji 794]] shows the first purge wave using Deng-family authority as a target after Deng's death.
 
 ## Qualifications
 
-The current page does not treat Deng Zhi's abandonment stance, mourning withdrawal, or household discipline as proof of a single stable character type. The evidence shows a senior Deng-family actor balancing policy, resentment, reputation management, household discipline, and later exposure. His use of the Zhaoge appointment against Yu Xu should be read as source-bounded to Hanji 784 rather than as a complete personnel record.
+The sources do not support reducing Deng Zhi to either failed commander or corrupt favorite. Hanji 782 supports criticism of battlefield failure and promotion through kin proximity, while Hanji 784 shows a real fiscal-strategic argument behind retrenchment. Hanji 790 also preserves a household-discipline layer, but that discipline operates inside a broader public legitimacy problem.
 
 ## What Changed
 
-- Added Hanji 784 as Deng Zhi's earliest current layer.
-- Reframed Deng Zhi to include frontier-policy judgment and retaliatory personnel placement before mourning withdrawal and household discipline.
-- Preserved Hanji 790's household-discipline layer and Hanji 794's later purge exposure.
+- Added Hanji 782 as the earliest current layer, placing defeat, recall, and promotion before the Liangzhou debate.
+- Reframed Deng Zhi's Liangzhou retrenchment as part of a longer fiscal-war-cost problem rather than an isolated bad proposal.
+- Connected his promotion after failure to the regency's outer-relative legitimacy risk.
 
 ## Relationships
 
-- [[DengFamilyAnEraLateHan]] - senior member whose policy, household response, and later purge exposure illustrate Deng-family risk control and risk accumulation.
-- [[EmpressDowagerDengLateHan]] - regency figure whose authority frames Deng-family privilege and vulnerability.
-- [[PangCanLateHan]] - official whose Liangzhou abandonment proposal Deng Zhi accepts.
-- [[YuXuEasternHan|虞诩]] - critic whose anti-abandonment argument draws Deng Zhi's resentment.
-- [[ZhaogeCountyLateHan|朝歌县]] - dangerous county appointment Deng Zhi uses against Yu Xu.
-- [[StrategicFrontierAbandonment|弃边失屏]] - policy problem exposed by Deng Zhi's initial support for abandoning Liangzhou.
-- [[BanZhaoLateHan]] - adviser whose counsel makes Deng Zhi's mourning withdrawal politically useful.
-- [[DengZunLateHan]] - Deng-family military beneficiary in the same Qiang-war episode as the Ren Shang gift scandal.
-- [[RenShangLateHan]] - commander whose gift to Deng Feng triggered Deng Zhi's household punishment.
-- [[SuperiorCreditConflictRisk]] - related risk pattern because gifts and credit competition both exposed Ren Shang.
+- [[EmpressDowagerDengLateHan]] - sister and regent whose trust preserves Deng Zhi's authority after failure.
+- [[DengFamilyAnEraLateHan]] - kin network that supplies Deng Zhi's status and later purge exposure.
+- [[RenShangLateHan]] - subordinate commander whose early defeat occurs under Deng Zhi's campaign direction.
+- [[PangCanLateHan]] - critic whose memorial helps trigger Deng Zhi's recall from the western campaign.
+- [[DianlingQiang]] - Qiang leader whose coalition defeats Deng Zhi's campaign structure.
+- [[YuXuEasternHan]] - official whose Liangzhou retention argument defeats Deng Zhi's abandonment line.
+- [[StrategicFrontierAbandonment]] - concept that frames Deng Zhi's cost-driven Liangzhou retrenchment proposal.

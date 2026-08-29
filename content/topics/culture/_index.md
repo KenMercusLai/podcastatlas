@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2295
+topic_total_pages: 2296
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -6203,6 +6203,9 @@ topic_entities:
   - key: "WeiQianSanlian"
     title: "魏茜 / Wei Qian (Sanlian)"
     url: "/wiki/entities/weiqiansanlian/"
+  - key: "LuGongLateHan"
+    title: "鲁恭 / Lu Gong (late Han)"
+    url: "/wiki/entities/lugonglatehan/"
   - key: "YingyanShijian"
     title: "鹰眼时间"
     url: "/wiki/entities/yingyanshijian/"

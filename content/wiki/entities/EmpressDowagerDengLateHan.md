@@ -15,84 +15,70 @@ sources:
   - zizhi-tongjian-hanji-786-guren-weishenme-paichi-fanji-shuiguo-lmcwqwdxwe0ehuusfeoaqk82msm7
   - zizhi-tongjian-hanji-785-donghan-dengsui-zhangkong-yuwang-caineng-xiaodao-zuihou-llfg4kjaautqlfewhplikvu3ry1u
   - zizhi-tongjian-hanji-783-renxing-qian-guize-nide-jiazhi-jueding-yiqie-lq5qbki6crhieafbv7g5kc07unqe
+  - zizhi-tongjian-hanji-782-jiemi-donghan-qi-nvzi-jiannan-de-taihou-shengya-lgfljux9aaocptbhxvvifitrgxcy
 last_updated: 2026-08-30
 ---
 
 ## Overview
 
-和熹邓皇后 / Empress Dowager Deng appears in the current wiki as an An-era regent whose record combines disaster response, court austerity, salary reduction, amnesty-paced rebellion management, maternal mourning constraint, Deng-family reputation management, seasonal ritual restraint, capable appointments, restrained family-honor signaling, frontier and fiscal failure, Western Regions underimplementation, accepted and rejected warnings, and a posthumous memory contested by purge agents and defenders.
+和熹邓皇后 / Empress Dowager Deng appears in the current wiki as an An-era regent whose record must be judged across compound pressure: Qiang war, famine, disaster, austerity, rank and salary finance, rebellion management, seasonal ritual restraint, capable appointments, Deng-family reliance, Western Regions underimplementation, transfer risk, and contested posthumous memory.
 
 ## Current Profile
 
-Hanji 783 now supplies the earliest current layer in 109-110 CE. The regency is already under compound pressure: [[ZhangBailuLateHan|Zhang Bailu / Zhang Bolu]] attacks coastal commanderies, Southern Xiongnu, Wuhuan, and Xianbei pressure Wuyuan and Meiji, earthquakes, celestial anomalies, floods, and famine hit multiple commanderies, and the court responds with ritual austerity and salary cuts. Deng's frugality orders reduce court entertainments, exorcism-ritual staffing, and New Year display, but the same source warns through [[OfficialSalaryExtractionRisk|official salary extraction risk]] that cutting official pay can push implementation costs onto common people through local power monetization.
+Hanji 782 now supplies the earliest current layer in 108-109 CE. Deng's regency is already fiscally and militarily strained: Ren Shang is defeated by Dianling's Qiang coalition, Huangzhong grain prices and hunger deaths make logistics unbearable, Luoyang famine reaches cannibalism, and the court turns to sale of ranks and court-adjacent identities. Deng accepts Pang Can's critique enough to recall Deng Zhi and use Pang in Sanfu, but she also preserves Deng Zhi's status after failure, showing the tension between practical correction and kin reliance.
 
-Hanji 785 continues the early layer. The regency is still under compound pressure in 110-111 CE: fires, earthquakes, floods, locusts, coastal rebellion, Xianling Qiang pressure, and famine-prone forced relocation overlap with the death of Deng's mother. Deng cannot stay continuously at her mother's sickbed, then has to decide whether [[DengZhiLateHan|Deng Zhi]] and the other Deng brothers should leave office for mourning. [[BanZhaoLateHan|Ban Zhao]] advises allowing withdrawal to display praise for non-monopolization of power, and Deng later preserves family access through fengchaoqing. The same source adds [[FaXiongLateHan|Fa Xiong]]'s amnesty-timed handling of Zhang Bailu, making credible surrender and local command synchronization part of Deng-regency governance.
+Hanji 783-786 extend that opening into a broader crisis profile. Zhang Bailu's coastal rebellion, Southern Xiongnu, Wuhuan, and Xianbei pressure, floods, earthquakes, famine, and salary cuts make the regency fiscal before it becomes a fully developed frontier-policy debate. Deng's austerity is real: she reduces court entertainments and ritual display, later restrains off-season fresh-food offerings, and allows Ban Zhao's mourning-resignation advice to turn Deng-family withdrawal into reputation management. The same early layer also shows command limits: amnesty timing, coercive relocation, and frontier official abuse remain hard to control from court.
 
-Hanji 786 extends this early layer through 110-114 CE. Pirates are eventually suppressed in Donglai, Hanyang/Shanggui rebels connect to Qiang forces, disasters accumulate, [[LiuKaiEasternHan|Liu Kai]] enters sikong from taichang, and the court issues a 112 CE edict against fire-warmed and dug-sprouting off-season fresh foods for tomb, temple, and palace offerings. This adds ritual-consumption restraint and early Qiang-war cost to Deng's profile before the better-developed 116-121 CE sources.
+Hanji 788-791 move the profile into appointments and frontier implementation. Deng appoints Yu Xu to Wudu after recognizing his command talent, accepts light-cavalry advice through Ren Shang, and must manage Deng Zun's reward politics after continuing Qiang pressure. Her Western Regions decision shows partial competence and partial underimplementation: she consults Ban Yong and accepts the Dunhuang office component, but omits the forward Shanshan post that gave the plan leverage.
 
-Hanji 788 then supplies the Wudu appointment layer. Deng hears that [[YuXuEasternHan|Yu Xu]] has command talent and appoints him [[WuduCommanderyLateHan|Wudu]] taishou with only a small force, turning a capable official into the key instrument of a dangerous Qiang-front assignment. The same source shows the court accepting Yu Xu's cavalry advice through [[RenShangLateHan|Ren Shang]], then records earthquakes, Wuling Man rebellion, and office changes involving Liu Kai and [[YuanChangLateHan|Yuan Chang]]. Its family-honor branch is also important: after [[DengHongLateHan|Deng Hong]] dies, Deng refuses maximal posthumous rank and clothing in deference to his frugal habits while still granting wealth and later title continuity through his son.
-
-Hanji 789 moves the regency into the 116-117 Qiang crisis. The court sends Ren Shang and [[DengZunLateHan|Deng Zun]] against Qiang forces, implements forced civilian relocation that helps produce [[DuJigongLateHan|Du Jigong]]'s defection, manages multi-front pressure from Xianbei and Yizhou, accepts Liu Kai's three-year mourning proposal, and removes Yuan Chang after a court-secret correspondence case. This makes Deng's rule visible as both institutional repair and coercive frontier improvisation.
-
-Hanji 790 and Hanji 791 show continuing frontier and fiscal strain. Qiang war spending is treated as enormous, while Deng-family proximity shapes reward politics around Deng Zun and Ren Shang. Deng also supervises royal and Deng-family education, which looks like institution-building but can be read as power consolidation. In the Western Regions debate, she summons [[BanYongLateHan|Ban Yong]] and accepts the office-and-Dunhuang portion of his constrained-retention plan, but omits the Shanshan forward post that gave the proposal its leverage.
-
-Hanji 792 makes the transfer risk explicit through [[DengKangLateHan|Deng Kang]]. He argues that court prestige should rise and outer-relative power should be weakened. Deng refuses, punishes him, and leaves the family-power problem unresolved before her death. Hanji 793 then gives the precise death sequence while evaluating her regency through famine, flood, drought, frontier attacks, banditry, fiscal depletion, and gendered criticism alongside austerity, relief, education, ritual repair, pardons, labor and tax reduction, old palace women's release, and Jiangnan development.
-
-The posthumous layer is unstable. Hanji 794 says Deng had installed [[EmperorAnOfHan|Emperor An]], delayed returning power, and summoned collateral royal sons to Luoyang, making Pingyuan Wang Liu Yi usable in replacement rumors after she dies. Hanji 795 shows the purge partially checked when [[ZhuChongLateHan|Zhu Chong]] memorializes in defense of the Deng family, forcing limited correction while not restoring the old power structure.
+Hanji 792-795 make the political afterlife explicit. Deng Kang warns that court prestige should rise and Deng-family power should recede; Deng punishes him rather than reducing family exposure. Hanji 793 dates Deng's illness and death while balancing relief, education, ritual repair, and restraint against frontier and fiscal failures. Hanji 794-795 then show how replacement rumors, Emperor An's personal rule, Zhu Chong's coffin memorial, and partial correction turn Deng's record into a contested memory field.
 
 ## Key Characteristics
 
-- Crisis regent judged through frontier war, fiscal strain, disaster relief, salary cuts, seasonal ritual restraint, education, family honor, and transfer risk together.
-- Capable of institutional repair and selective restraint, including amnesty pacing, the fresh-food edict, mourning-policy permission, education, relief measures, ritual restoration, Yu Xu's appointment, and Deng Hong's restrained posthumous handling.
-- Vulnerable to frontier-policy failure, especially coercive relocation backfire, command synchronization failure after amnesty, and Western Regions underimplementation.
-- Governs through a powerful Deng-family field whose military rewards and education roles create both capacity and suspicion.
-- Receives internal family warning from Deng Kang but responds with punishment rather than risk reduction.
-- Dies with no specific medical cause supplied by the current sources, leaving a posthumous struggle over memory and blame.
-- Her fall exposes the difference between correcting outer-relative dominance and replacing it with new favorite-household networks.
+- Crisis regent whose rule joins war, famine, fiscal emergency, disasters, salary cuts, rank sale, local rebellion, frontier retention, and transfer risk.
+- Real austerity and relief actor whose court consumption restraint, ritual restraint, pardon use, education, and tax/labor reductions remain part of the evidence.
+- Selective institutional repairer who can recognize Yu Xu, consult Ban Yong, use Pang Can after criticism, and tolerate some direct policy advice.
+- Kin-reliant ruler whose trust in Deng Zhi and Deng-family military credit creates legitimacy exposure even when family members supply capacity.
+- Frontier-policy manager with visible limits: forced relocation backfires, amnesty needs local synchronization, Qiang war remains costly, and Western Regions repair is underimplemented.
+- Politically vulnerable after death because delayed transfer, collateral royal presence, and Deng-family concentration make replacement accusations usable.
+- Mixed legacy figure whose purge-era condemnation and later public defense both overstate parts of the record if isolated from the bounded evidence.
 
 ## Evidence
 
-- Earliest regency austerity and pressure: [[zizhi-tongjian-hanji-783-renxing-qian-guize-nide-jiazhi-jueding-yiqie-lq5qbki6crhieafbv7g5kc07unqe|Hanji 783]] combines Zhang Bailu's coastal rebellion, Southern Xiongnu-Wuhuan-Xianbei frontier pressure, earthquakes, floods, famine, ritual austerity, salary cuts, and the Liangzhou abandonment prelude under Deng's regency.
-- Mourning, amnesty, and continued pressure: [[zizhi-tongjian-hanji-785-donghan-dengsui-zhangkong-yuwang-caineng-xiaodao-zuihou-llfg4kjaautqlfewhplikvu3ry1u|Hanji 785]] combines disasters, Zhang Bailu's coastal rebellion, Fa Xiong's amnesty-timed pacification, Deng's constrained maternal mourning, Ban Zhao's advice on Deng-family resignation, fengchaoqing retained access, Xianling Qiang pressure, and destructive forced relocation.
-- Seasonal restraint and continued pressure: [[zizhi-tongjian-hanji-786-guren-weishenme-paichi-fanji-shuiguo-lmcwqwdxwe0ehuusfeoaqk82msm7|Hanji 786]] combines the 112 CE seasonal fresh-food edict with disasters, office turnover, Hanyang/Shanggui disorder, Anding Qiang operations, Donglai suppression, and Han-Qiang war cost under Deng's regency.
-- Wudu appointment and family-honor restraint: [[zizhi-tongjian-hanji-788-ling-diren-po-da-fang-wan-zhanshu-de-xin-zhen-zang-lvprh9s7aaagf-t2n-m3bp4icqj0|Hanji 788]] shows Deng appointing Yu Xu to Wudu, the court accepting his cavalry advice, office turnover under crisis, and Deng Hong's restrained posthumous settlement.
-- Early Qiang and court-pressure layer: [[zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi|Hanji 789]] combines forced relocation, Ren Shang and Deng Zun's campaigns, Liu Kai's mourning proposal, Yuan Chang's dismissal, Xianbei raids, and Yizhou unrest under Deng's regency.
-- Deng-family reward and fiscal pressure: [[zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk|Hanji 790]] shows Qiang-war cost, Deng Zun's marquisate, Ren Shang's execution, Deng-family education, and Tang Tan's refusal to present an omen under strong outer relatives.
-- Western Regions decision: [[zizhi-tongjian-hanji-791-zhichang-shang-zong-you-ren-beihou-yin-ni-yi-zhao-yingdui-llz74ebi88qmw-9050x2qaddjwqn|Hanji 791]] says Deng consults Ban Yong but implements only the weaker Dunhuang-based part of his plan.
-- Internal warning: [[zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn|Hanji 792]] records Deng Kang's warning against outer-relative overreach and Deng's punitive response.
-- Death and evaluation: [[zizhi-tongjian-hanji-793-lishi-zhuming-nvhuang-dengsui-zenme-si-de-lszfgj7waiuusrddzjmv5mbrp1i|Hanji 793]] gives Deng's illness and death sequence and balances her relief and institutional record against frontier failure and fiscal depletion.
-- Replacement-fear aftermath: [[zizhi-tongjian-hanji-794-yidai-nvjun-dengsui-qushi-hou-jing-quanjia-zaoyang-llmlhabdd09opca6-pr80q4mfoxi|Hanji 794]] shows posthumous accusations that Deng intended to replace An with Pingyuan Wang Liu Yi.
-- Public defense and limited correction: [[zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1|Hanji 795]] uses Zhu Chong's coffin memorial and An's partial retreat to show contested memory of Deng and her family.
+- Earliest compound-crisis layer: [[zizhi-tongjian-hanji-782-jiemi-donghan-qi-nvzi-jiannan-de-taihou-shengya-lgfljux9aaocptbhxvvifitrgxcy|Hanji 782]] ties Deng's regency to Ren Shang's defeat, Dianling's Qiang coalition, Pang Can's retrenchment memorial, Deng Zhi's recall and promotion, Luoyang famine, and emergency rank sale.
+- Austerity, salary pressure, and rebellion: [[zizhi-tongjian-hanji-783-renxing-qian-guize-nide-jiazhi-jueding-yiqie-lq5qbki6crhieafbv7g5kc07unqe|Hanji 783]] links Zhang Bailu's rebellion, multi-front pressure, floods, famine, ritual austerity, salary cuts, and the Liangzhou abandonment prelude.
+- Mourning, amnesty, and family legitimacy: [[zizhi-tongjian-hanji-785-donghan-dengsui-zhangkong-yuwang-caineng-xiaodao-zuihou-llfg4kjaautqlfewhplikvu3ry1u|Hanji 785]] records disasters, Fa Xiong's amnesty-timed pacification, Deng's constrained maternal mourning, Ban Zhao's advice, fengchaoqing access, and destructive forced relocation.
+- Seasonal restraint and early frontier causality: [[zizhi-tongjian-hanji-786-guren-weishenme-paichi-fanji-shuiguo-lmcwqwdxwe0ehuusfeoaqk82msm7|Hanji 786]] combines the fresh-food edict with disasters, office turnover, Hanyang/Shanggui disorder, and early Han-Qiang war cost.
+- Capable appointment and family-honor restraint: [[zizhi-tongjian-hanji-788-ling-diren-po-da-fang-wan-zhanshu-de-xin-zhen-zang-lvprh9s7aaagf-t2n-m3bp4icqj0|Hanji 788]] shows Deng appointing Yu Xu to Wudu, the court accepting cavalry advice, and Deng Hong receiving restrained posthumous treatment.
+- Qiang-war reward politics and forced relocation: [[zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi|Hanji 789]] and [[zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk|Hanji 790]] connect forced civilian relocation, Ren Shang and Deng Zun's campaigns, enormous war spending, Deng-family reward, and Ren Shang's fatal credit conflict.
+- Western Regions and internal warning: [[zizhi-tongjian-hanji-791-zhichang-shang-zong-you-ren-beihou-yin-ni-yi-zhao-yingdui-llz74ebi88qmw-9050x2qaddjwqn|Hanji 791]] shows Deng's partial adoption of Ban Yong's plan, while [[zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn|Hanji 792]] records Deng Kang's warning against outer-relative overreach and Deng's punitive response.
+- Death and contested memory: [[zizhi-tongjian-hanji-793-lishi-zhuming-nvhuang-dengsui-zenme-si-de-lszfgj7waiuusrddzjmv5mbrp1i|Hanji 793]], [[zizhi-tongjian-hanji-794-yidai-nvjun-dengsui-qushi-hou-jing-quanjia-zaoyang-llmlhabdd09opca6-pr80q4mfoxi|Hanji 794]], and [[zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1|Hanji 795]] move from Deng's death and regency evaluation to replacement accusations, purge, Zhu Chong's public defense, and partial correction.
 
 ## Qualifications
 
-The profile remains mixed. The sources do not support a simple hagiography, because salary cuts, Qiang policy, Western Regions implementation, Deng-family concentration, command synchronization failure, and delayed transfer create real damage. They also do not support reducing Deng to usurpation or family impunity, because austerity, amnesty pacing, seasonal restraint, relief, education, ritual repair, Yu Xu's military appointment, restrained Deng Hong honors, and public defense remain substantial in the bounded evidence. Hanji 783-786's Zhang Bailu/Bolu naming layer and Hanji 786's climate-stress explanation remain source-scoped until later evidence develops them.
+Deng's page should not collapse into either praise or blame. The evidence supports real austerity, capable appointments, relief, and institutional repair, but it also supports fiscal desperation, official-pay risk, frontier relocation damage, underimplemented Western Regions policy, and family-power concentration. Hanji 782 strengthens both sides: it shows Deng correcting Deng Zhi's command role after failure, yet also rewarding him afterward.
 
 ## What Changed
 
-- Added Hanji 783 as the earliest current layer, adding Zhang Bailu's first rebellion cycle, court austerity, official salary cuts, multi-front pressure, and the Liangzhou abandonment prelude.
-- Added Hanji 785's 110-111 CE disaster, Zhang Bailu rebellion, Fa Xiong amnesty-pacing, maternal mourning, Ban Zhao advice, fengchaoqing, and destructive relocation layer.
-- Reframed Deng's early profile so family-power restraint and amnesty credibility appear before the seasonal fresh-food edict, Wudu appointment, and later Qiang relocation layers.
-- Preserved Hanji 788's Wudu appointment and Deng Hong honor management as evidence of capable appointment and family restraint.
-- Preserved Hanji 789's forced-relocation backfire, Hanji 791's partial Western Regions adoption, and Hanji 792's rejected internal warning as major qualifications.
+- Added Hanji 782 as the earliest current Deng-regency layer, adding Ren Shang's defeat, Dianling's coalition, Pang Can's memorial, Luoyang famine, emergency rank sale, and Deng Zhi's recall-promotion tension.
+- Reframed Hanji 783's salary-cut layer as continuation rather than the first fiscal layer.
+- Connected Deng's austerity to [[RankSaleDisasterFinance|rank sale disaster finance]] and [[OfficialSalaryExtractionRisk|official salary extraction risk]].
+- Preserved the existing mixed judgment: real institutional repair sits beside frontier, fiscal, family-power, and transfer-risk failures.
 
 ## Relationships
 
-- [[EmperorAnOfHan]] - child ruler installed by Deng and later shaped by her delayed transfer and posthumous purge legacy.
+- [[EmperorAnOfHan]] - child ruler installed by Deng and later shaped by delayed transfer and posthumous purge politics.
+- [[DengZhiLateHan]] - brother whose failed command, recall, promotion, and later purge expose Deng-family reliance.
+- [[PangCanLateHan]] - critic-official whose retrenchment advice Deng partially accepts in the early Qiang crisis.
+- [[RenShangLateHan]] - field commander whose record begins with defeat under Deng and later turns into merit-credit danger.
+- [[DianlingQiang]] - Qiang leader whose imperial claim and coalition intensify Deng's opening frontier crisis.
+- [[LuGongLateHan]] - scholar-official dismissed during the famine-accountability layer of Deng's regency.
 - [[BanZhaoLateHan]] - adviser whose mourning-resignation counsel helps Deng manage Deng-family legitimacy.
-- [[FaXiongLateHan]] - Qingzhou inspector whose amnesty-timed pacification operates under Deng's regency.
-- [[ZhangBailuLateHan]] - coastal rebel leader whose rebellion tests Deng-regency pardon and pursuit strategy.
-- [[AmnestyTimedPacification]] - rebellion-management pattern added by Fa Xiong's advice after amnesty.
-- [[OfficialSalaryExtractionRisk|官吏俸禄不足抽取风险]] - fiscal-incentive risk exposed by the Hanji 783 salary-cut notice.
-- [[YangZhenLateHan|杨震]] - clean official introduced in the same early regency layer through Deng Zhi's staff recruitment and the Four Knows story.
-- [[YuXuEasternHan|虞诩]] - official whom Deng appoints to Wudu after recognizing his command talent.
-- [[DengHongLateHan|邓鸿]] - Deng-family figure whose death gives Deng a restrained honor-management case.
-- [[DengFamilyAnEraLateHan]] - outer-relative network whose power, reward, education, warning, restraint, and fall define Deng's risk field.
-- [[DengZunLateHan]] - Deng-family commander whose Qiang-front reward shows family proximity entering frontier credit.
-- [[RenShangLateHan]] - commander whose merit becomes dangerous against Deng-family credit politics.
-- [[DengKangLateHan]] - internal family critic whose warning Deng punishes.
-- [[RegencyUnderCompoundCrisis]] - concept for judging Deng through simultaneous crisis layers.
-- [[StrategicFrontierAbandonment]] - frontier-accounting problem visible in both Qiang and Western Regions policy.
-- [[CoerciveFrontierRelocationBackfire]] - failure mode visible in both the 111 CE forced-migration disaster and the later 116-117 CE Qiang response.
-- [[SeasonalRitualConsumptionRestraint]] - early edict branch where ritual supply is constrained by seasonal and burden logic.
-- [[FrontierOfficialAbuseRebellionSpiral]] - broader Han-Qiang causal frame introduced by Hanji 786.
+- [[YuXuEasternHan]] - official whom Deng appoints to Wudu after recognizing his command talent.
+- [[BanYongLateHan]] - Western Regions adviser whom Deng consults but only partly follows.
+- [[DengFamilyAnEraLateHan]] - outer-relative network that gives Deng capacity and legitimacy risk.
+- [[RegencyUnderCompoundCrisis]] - concept that captures Deng's simultaneous disaster, frontier, fiscal, family, and transfer pressures.
+- [[RankSaleDisasterFinance]] - fiscal pattern newly tied to Deng's 109 CE emergency sale of rank and identity.
+- [[OfficialSalaryExtractionRisk]] - fiscal-incentive risk visible when Deng-regency austerity reaches official pay.
+- [[StrategicFrontierAbandonment]] - frontier-accounting problem visible in Liangzhou and Western Regions policy.
+- [[CoerciveFrontierRelocationBackfire]] - failure mode created when protection policy destroys civilian livelihood.

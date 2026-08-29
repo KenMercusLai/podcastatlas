@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2020
+topic_total_pages: 2022
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -2389,6 +2389,9 @@ topic_concepts:
   - key: "ReformTimingTrap"
     title: "Reform Timing Trap"
     url: "/wiki/concepts/reformtimingtrap/"
+  - key: "RegencyUnderCompoundCrisis"
+    title: "Regency Under Compound Crisis / 复合危机下的摄政"
+    url: "/wiki/concepts/regencyundercompoundcrisis/"
   - key: "RegionalAdministrativeFragmentation"
     title: "Regional Administrative Fragmentation"
     url: "/wiki/concepts/regionaladministrativefragmentation/"
@@ -2719,6 +2722,9 @@ topic_concepts:
   - key: "StrategicConcessionDiplomacy"
     title: "Strategic Concession Diplomacy / 欲擒故纵式让利外交"
     url: "/wiki/concepts/strategicconcessiondiplomacy/"
+  - key: "StrategicFrontierAbandonment"
+    title: "Strategic Frontier Abandonment / 弃边失屏"
+    url: "/wiki/concepts/strategicfrontierabandonment/"
   - key: "StrategicInterventionThreshold"
     title: "Strategic Intervention Threshold"
     url: "/wiki/concepts/strategicinterventionthreshold/"

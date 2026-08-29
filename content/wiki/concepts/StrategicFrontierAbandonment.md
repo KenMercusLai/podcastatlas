@@ -1,8 +1,8 @@
 ---
-title: "弃边失屏 / Strategic Frontier Abandonment"
+title: "Strategic Frontier Abandonment / 弃边失屏"
 type: concept
 knowledge_schema: synthesis-v1
-tags: [strategy, frontier, statecraft, late-han, geography]
+tags: [frontier, strategy, late-han, governance, military]
 sources:
   - zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8
   - zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf
@@ -10,68 +10,55 @@ sources:
   - zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk
   - zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi
   - zizhi-tongjian-hanji-784-donghan-diaoyu-zhifa-diyiren-yuxu-ls6zezfw2pvaytoo94igdscfwkpt
+  - zizhi-tongjian-hanji-782-jiemi-donghan-qi-nvzi-jiannan-de-taihou-shengya-lgfljux9aaocptbhxvvifitrgxcy
 last_updated: 2026-08-30
 ---
 
 ## Definition
 
-弃边失屏 / Strategic Frontier Abandonment is the strategic mistake of treating a costly frontier, corridor, or outer buffer as removable budget pressure while ignoring its shield, depth, alliance, enemy-resource, population-protection, political-symbol, and future-defense-cost functions.
+Strategic Frontier Abandonment / 弃边失屏 is a pattern where a costly frontier, corridor, or buffer is treated as removable burden while its shield, warning, alliance, population-protection, route-control, and future-defense-cost functions are undervalued.
 
 ## Current Synthesis
 
-The earliest current source is now Hanji 784. [[PangCanLateHan|Pang Can]] and [[DengZhiLateHan|Deng Zhi]] support abandoning [[LiangzhouLateHan|Liangzhou]] to concentrate resources elsewhere, but [[YuXuEasternHan|Yu Xu]] answers that Liangzhou shields the Sanfu / [[GuanzhongRegion|Guanzhong]] region, [[ChangAnHanCapital|Chang'an]], and imperial tombs. His argument also prices local allegiance and military talent: abandoned western populations may resent the court, while Qiang and Hu enemies would gain space, initiative, and a route toward the core. His proposed remedy is retention plus control of local elites through capital offices for their sons.
+Hanji 782 adds the earliest current precursor. Pang Can's prison memorial argues from exhaustion: western campaigning, grain transport, tax pressure, forced movement, and repeated defeat are consuming the state faster than victory can restore order. His proposal to recall Deng Zhi, leave Ren Shang in charge, move Liangzhou people toward Sanfu, and reduce burdens is a relief-and-retrenchment program rather than a fully theorized abandonment doctrine.
 
-Hanji 789 adds an abandonment-by-neglect version of the same problem. The court treats the northwest as uneconomical, weakens support, shifts the military-economic center east, and then tries to manage exposed populations through forced relocation. That relocation destroys livelihood and helps create rebel manpower, making frontier retreat and population coercion part of the same strategic accounting error.
+Hanji 784 supplies the core Liangzhou debate. Deng Zhi and Pang Can support abandoning Liangzhou; Yu Xu counters that Liangzhou is a protective screen for Sanfu and the capital route. The concept's main judgment comes from that rebuttal: a frontier can look expensive on the current budget while still preventing larger future costs if surrendered.
 
-The Western Regions cases make the outer-buffer mechanism explicit. Hanji 790 says Northern Xiongnu rebuilds strength after Han loses the Western Regions connection and dominates local states as a suzerain field. Hanji 791 then frames the court debate as a false binary between Cao Zong's expensive expedition and ministers' pass-closing abandonment. [[BanYongLateHan|Ban Yong]] rejects both, arguing for constrained retention through a Shanshan forward post backed by Dunhuang.
-
-Implementation quality matters. [[EmpressDowagerDengLateHan|Empress Dowager Deng]] accepts only the deputy-commandant and Dunhuang-garrison part of Ban Yong's proposal, omitting the Shanshan post that would have reassured local states and watched the northern route. Hanji 799 later confirms the same logic when [[ZhangDangLateHan|Zhang Dang]] argues that Hexi cannot stand if the Western Regions are abandoned and [[ChenZhongLateHan|Chen Zhong]] warns that abandoned states would increase Northern Xiongnu resources and courage.
-
-The later Liangzhou source repeats the geography under different political conditions. Hanji 934 has [[CuiLieLateHan|Cui Lie]] propose abandoning Liangzhou because rebellion and taxation make it expensive, while [[FuXie|Fu Xie]] argues that Liangzhou is a western gate and route whose loss would give mounted enemies horses, space, and access back toward the core. Across the sources, the remedy is not maximal war; it is cost-aware retention, forward-position analysis, and repair of the population and alliance base that makes a frontier worth holding.
+Hanji 789-799 broaden the pattern. Forced relocation backfires when civilians are moved as defensive material rather than protected communities. Hanji 791 and Hanji 799 show Ban Yong arguing for constrained Western Regions retention instead of either maximal expedition or abandonment. Hanji 934 later repeats the pattern in another late-Han setting, confirming that frontier retrenchment must be evaluated by system effects, not only immediate expenditure.
 
 ## Key Claims
 
-- A frontier region can be expensive and still be strategically cheaper to hold or repair than to abandon.
-- Immediate tax burden, rebellion, and treasury limits are real constraints, but they do not settle the future cost of withdrawal.
-- Frontier civilians, local elites, and outer-buffer polities matter because abandonment can shift their manpower, taxes, trust, and legitimacy toward the enemy.
-- Political symbols such as imperial tombs, old capitals, and core-region approaches can be part of strategic depth, not mere prestige.
-- Token retention can fail if the court preserves an office while omitting the forward position or livelihood repair that creates leverage.
-- Frontier geography can convert a local border problem into a core-region threat when enemies inherit corridor, horses, depth, and alliance networks.
-- The concept supports graded alternatives and strategic-depth analysis rather than a blanket rule that every border must always be held.
+- Frontier abandonment becomes tempting when transport, defense, and tax costs become visible before shield benefits do.
+- Humanitarian retrenchment and strategic abandonment can overlap, so the same proposal may reduce immediate suffering while raising future exposure.
+- Yu Xu's Liangzhou argument supplies the clearest current formulation: losing a screen can move danger closer to the core.
+- Ban Yong's Western Regions plans show a middle option: constrained retention can be cheaper than full reconquest and safer than withdrawal.
+- Forced relocation is a related but distinct failure because it tries to preserve territory while sacrificing civilian livelihood.
+- The concept is not anti-retrenchment; it demands that retrenchment include route control, population protection, alliance effects, and future defense cost.
 
 ## Evidence
 
-- Early Liangzhou abandonment debate: [[zizhi-tongjian-hanji-784-donghan-diaoyu-zhifa-diyiren-yuxu-ls6zezfw2pvaytoo94igdscfwkpt|Hanji 784]] says Pang Can and Deng Zhi favor abandoning Liangzhou before Yu Xu warns that Sanfu, Chang'an, and imperial tombs would lose their western screen.
-- Population and elite-control warning: [[zizhi-tongjian-hanji-784-donghan-diaoyu-zhifa-diyiren-yuxu-ls6zezfw2pvaytoo94igdscfwkpt|Hanji 784]] says Yu Xu fears abandoned loyal populations could become resentful and proposes bringing Liangzhou elite sons into capital offices as both reward and restraint.
-- Northwest neglect and relocation: [[zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi|Hanji 789]] says court neglect of the northwest and forced relocation of civilians help drive people such as Du Jigong into Qiang forces.
-- Enemy suzerainty after cutoff: [[zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk|Hanji 790]] says Northern Xiongnu strengthens after Han loses the Western Regions connection and dominates the local states as suzerain.
-- Small re-entry attempt: [[zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk|Hanji 790]] says Cao Zong asks for renewed protection and Suo Ban enters Yiwu with a small garrison.
-- Western Regions false binary: [[zizhi-tongjian-hanji-791-zhichang-shang-zong-you-ren-beihou-yin-ni-yi-zhao-yingdui-llz74ebi88qmw-9050x2qaddjwqn|Hanji 791]] sets Cao Zong's five-thousand-soldier expedition against ministers' proposal to close the passes and abandon the region.
-- Cost-aware retention: [[zizhi-tongjian-hanji-791-zhichang-shang-zong-you-ren-beihou-yin-ni-yi-zhao-yingdui-llz74ebi88qmw-9050x2qaddjwqn|Hanji 791]] says Ban Yong rejects deep expedition but also argues that abandonment would strengthen Xiongnu.
-- Partial-adoption warning: [[zizhi-tongjian-hanji-791-zhichang-shang-zong-you-ren-beihou-yin-ni-yi-zhao-yingdui-llz74ebi88qmw-9050x2qaddjwqn|Hanji 791]] says Deng creates a Dunhuang-based office but omits Ban Yong's Shanshan forward post.
-- Western Regions-Hexi dependency: [[zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf|Hanji 799]] says Zhang Dang argues that if the Western Regions are abandoned, Hexi cannot stand alone.
-- Alignment and resource warning: [[zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf|Hanji 799]] says Chen Zhong warns that abandoned Western Regions states would attach to Northern Xiongnu and increase its resources.
-- Later Liangzhou abandonment proposal: [[zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8|Hanji 934]] says Cui Lie proposes abandoning Liangzhou because rebellion and taxation make it costly.
-- Shield and corridor argument: [[zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8|Hanji 934]] says Fu Xie answers that Liangzhou is a western gate whose loss would give hostile mounted forces horses, space, and a route toward the core.
+- Relief-driven retrenchment precursor: [[zizhi-tongjian-hanji-782-jiemi-donghan-qi-nvzi-jiannan-de-taihou-shengya-lgfljux9aaocptbhxvvifitrgxcy|Hanji 782]] records Pang Can's memorial against continued western transport and campaigning, plus the proposal to move Liangzhou people and reduce burdens.
+- Liangzhou shield argument: [[zizhi-tongjian-hanji-784-donghan-diaoyu-zhifa-diyiren-yuxu-ls6zezfw2pvaytoo94igdscfwkpt|Hanji 784]] places Deng Zhi and Pang Can's abandonment line against Yu Xu's argument that Liangzhou protects Sanfu and the inner commanderies.
+- Relocation backfire: [[zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi|Hanji 789]] shows forced civilian relocation worsening the Qiang-front crisis.
+- War-cost and command pressure: [[zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk|Hanji 790]] keeps Qiang-war spending and command-credit conflict in the same frontier-cost field.
+- Western Regions constrained retention: [[zizhi-tongjian-hanji-791-zhichang-shang-zong-you-ren-beihou-yin-ni-yi-zhao-yingdui-llz74ebi88qmw-9050x2qaddjwqn|Hanji 791]] and [[zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf|Hanji 799]] preserve Ban Yong's route-control logic and warn against simple withdrawal.
+- Later repetition: [[zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8|Hanji 934]] extends the pattern beyond the Deng-regency case, showing that the abandonment temptation recurs under late-Han stress.
 
 ## Counterevidence & Qualifications
 
-This concept should not become an automatic anti-withdrawal rule. Hanji 790 shows that small re-entry can be fragile; Hanji 791 rejects a deep expedition because Qiang war has weakened the treasury; Hanji 799 preserves limited garrisoning rather than maximal recovery; and Hanji 934 occurs in a later fiscal and rebellion context. Hanji 784 also proposes elite-hostage management, which may secure loyalty but carries its own coercive legitimacy cost. The shared claim is narrower: before abandoning a frontier, the court must price the buffer, corridor, alliance, population, local-elite, political-symbol, enemy-resource, and future-defense effects, not only immediate tax and deployment burden.
+The concept should not imply that every frontier must be held indefinitely. Hanji 782 gives a serious relief argument: some positions may be so expensive that continuing the same campaign destroys the population base the state claims to defend. The current judgment is conditional: abandonment is dangerous when decision-makers count immediate cost without pricing shield function, route leverage, civilian protection, and future reconquest expense.
 
 ## What Changed
 
-- Added Hanji 784 as the earliest current source for Liangzhou abandonment, Yu Xu's Sanfu and imperial-tomb warning, and elite-control remedy.
-- Expanded the definition to include political-symbol and local-elite effects alongside buffer, corridor, and population-protection loss.
-- Preserved Hanji 789's relocation-backfire layer and the Western Regions cost-aware middle path from Hanji 791 and Hanji 799.
-- Kept Hanji 934 as the later Liangzhou horse, corridor, and western-gate version.
+- Added Hanji 782 as an earlier relief-driven precursor to the Hanji 784 Liangzhou abandonment debate.
+- Distinguished Pang Can's humanitarian logistics argument from full strategic abandonment.
+- Connected Qiang-war fiscal exhaustion, rank-sale pressure, and frontier retention into one cost-accounting problem.
 
 ## Related Concepts
 
-- [[CoerciveFrontierRelocationBackfire]] - specific population-policy failure created when frontier retreat is implemented through coercive movement.
-- [[StrategicDepthDefense]] - complement because abandonment destroys the space that depth defense relies on.
-- [[FrontierProxyCommitmentBinding]] - adjacent mechanism because retaining outer polities often requires binding their alignment through visible commitment.
-- [[SmallStateBufferDiplomacy]] - related diplomatic layer because small states can become either buffers or enemy auxiliaries.
-- [[FrontierCommandCollapse]] - limiting condition because a frontier may still fail if command, supply, and local trust collapse.
-- [[WarCostTempoDiscipline]] - cost discipline that must be balanced against the future costs of abandonment.
-- [[FinancialPowerAndStateCapacity]] - fiscal lens that can expose real constraints without reducing frontier value to immediate budget pressure.
-- [[HexiFourCommanderiesLateHan]] - regional case where Western Regions retention is framed as a condition for Hexi security.
+- [[RegencyUnderCompoundCrisis]] - crisis setting that makes frontier abandonment tempting under fiscal and disaster pressure.
+- [[CoerciveFrontierRelocationBackfire]] - related failure mode where the state keeps the frontier but destroys civilian capacity.
+- [[FrontierCommanderyRestoration]] - later counter-pattern where restoring commanderies rebuilds shield and route control.
+- [[TuntianProximitySecurityDilemma]] - related frontier problem where settlement location changes security exposure.
+- [[WarCostTempoDiscipline]] - budgeting and timing frame that explains why prolonged war can distort frontier decisions.
+- [[RankSaleDisasterFinance]] - fiscal emergency response that appears when frontier war costs exhaust normal revenue.
