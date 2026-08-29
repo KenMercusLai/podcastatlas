@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2587
+topic_total_pages: 2588
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -6861,6 +6861,9 @@ topic_sources:
   - key: "tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128"
     title: "AI Meets the Search for a BA"
     url: "/wiki/sources/tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-ai-sovereignty-wars-palantir-nvidia-deal-scotus-birthright-ruling-newsoms-ca-budget-lie-41958585"
+    title: "AI Sovereignty Wars, Palantir-Nvidia Deal, SCOTUS Birthright Ruling, Newsom's CA Budget Lie"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-ai-sovereignty-wars-palantir-nvidia-deal-scotus-birthright-ruling-newsoms-ca-budget-lie-41958585/"
   - key: "tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128"
     title: "AI subscriptions are rapidly taking over baby nurseries"
     url: "/wiki/sources/tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128/"

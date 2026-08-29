@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [AI Sovereignty Wars, Palantir-Nvidia Deal, SCOTUS Birthright Ruling, Newsom's CA Budget Lie](sources/all-in-with-chamath-jason-sacks-friedberg-ai-sovereignty-wars-palantir-nvidia-deal-scotus-birthright-ruling-newsoms-ca-budget-lie-41958585.md) — All-In episode on AI sovereignty, Palantir-Nvidia, enterprise data/model control, AI jobs, Anthropic export controls, birthright citizenship, immigration, DSA momentum, and California fiscal fragility.
 - [《资治通鉴·汉纪》777丨比肩武则天，碾压慈禧，这个女人了不得！](sources/zizhi-tongjian-hanji-777-bi-jian-wuzetian-nianya-cixi-zhege-nvren-liaobude-lk7j4qv-sqfopzbii6rc-ivbuxs.md) — 芮淇讲透资治通鉴 episode on Emperor He's death, Emperor Shang's infant accession under Empress Dowager Deng, restrained palace-theft and Ji Cheng wugu-case verification, cautious Northern Xiongnu contact, and Wang Huan's strict but compassionate Luoyang governance.
 - [《资治通鉴·汉纪》778丨历史揭秘：权力中心的女人有什么特点？](sources/zizhi-tongjian-hanji-778-lishi-jiemi-quanli-zhongxin-de-nvren-you-shenme-tedian-lhpn8auulbgpqehsk71hzssrgagp.md) — 芮淇讲透资治通鉴 episode on Empress Dowager Deng's opening regency in 106 CE, infant Emperor Shang, Liu Hu's reserve placement, Zhang Yu and Xu Fang's staffing roles, Deng-family reliance and discipline, austerity, disaster-reporting correction, and the Qiuci/Western Regions crisis.
 - [《资治通鉴·汉纪》779丨历史告诉你：用错人竟会亡国灭家？](sources/zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6.md) — 芮淇讲透资治通鉴 episode on 106-107 CE Deng-regency education repair, Lu Gong's judicial-calendar reform, Ren Shang's failed Western Regions handoff from Ban Chao, Liang Jin's Qiuci rescue, and the court's cost-driven withdrawal.
@@ -10099,6 +10100,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Birthright Citizenship Debate](concepts/BirthrightCitizenshipDebate.md) — Constitutional and policy dispute over automatic citizenship for U.S.-born children across legal-resident, temporary-visitor, birth-tourism, and undocumented-family cases.
+- [California Fiscal Fragility](concepts/CaliforniaFiscalFragility.md) — Budget-risk pattern where headline balance depends on debt, volatile high-income revenue, taxpayer mobility, business exits, pensions, and future tax politics.
 - [Low-Cost Model Post-Training / 低成本模型后训](concepts/LowCostModelPostTraining.md) — Narrow-domain model improvement route using an existing base model, SFT, QLoRA, data pipelines, and benchmark iteration at individual or small-team scale.
 - [Data-First Post-Training / 数据优先后训](concepts/DataFirstPostTraining.md) — Operating view that target diagnosis, real traces, data audit, and failure-case iteration dominate post-training results.
 - [Supervised Fine-Tuning / SFT](concepts/SupervisedFineTuning.md) — Post-training method that uses curated examples or trajectories to move model behavior toward a target task or workflow.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 5972
+wiki_total_pages: 5974
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -41,6 +41,9 @@ wiki_pages:
   - key: "CaliforniaDeleteAct"
     title: "California Delete Act"
     url: "/wiki/concepts/californiadeleteact/"
+  - key: "CaliforniaFiscalFragility"
+    title: "California Fiscal Fragility"
+    url: "/wiki/concepts/californiafiscalfragility/"
   - key: "CaliforniaPostFireRebuildingDelay"
     title: "California Post-Fire Rebuilding Delay"
     url: "/wiki/concepts/californiapostfirerebuildingdelay/"

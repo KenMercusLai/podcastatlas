@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2026
+topic_total_pages: 2027
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -5493,6 +5493,9 @@ topic_sources:
   - key: "tech-20260720-0720-mp-tech-pod-128-tech-20260720-0720-mp-tech-pod-128"
     title: "AI firms are going back on their safety promises"
     url: "/wiki/sources/tech-20260720-0720-mp-tech-pod-128-tech-20260720-0720-mp-tech-pod-128/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-ai-sovereignty-wars-palantir-nvidia-deal-scotus-birthright-ruling-newsoms-ca-budget-lie-41958585"
+    title: "AI Sovereignty Wars, Palantir-Nvidia Deal, SCOTUS Birthright Ruling, Newsom's CA Budget Lie"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-ai-sovereignty-wars-palantir-nvidia-deal-scotus-birthright-ruling-newsoms-ca-budget-lie-41958585/"
   - key: "tech-20260805-0805-mp-tech-pod-128-tech-20260805-0805-mp-tech-pod-128"
     title: "AI-driven law could be an answer to accessible legal help"
     url: "/wiki/sources/tech-20260805-0805-mp-tech-pod-128-tech-20260805-0805-mp-tech-pod-128/"

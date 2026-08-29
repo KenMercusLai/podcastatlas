@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 5972
+wiki_total_pages: 5974
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -323,6 +323,9 @@ wiki_pages:
   - key: "BirthTabooSuccessionExclusion"
     title: "Birth Taboo Succession Exclusion / 出生日禁忌与继承排斥"
     url: "/wiki/concepts/birthtaboosuccessionexclusion/"
+  - key: "BirthrightCitizenshipDebate"
+    title: "Birthright Citizenship Debate"
+    url: "/wiki/concepts/birthrightcitizenshipdebate/"
   - key: "BitcoinSafeHavenBehavior"
     title: "Bitcoin Safe-Haven Behavior"
     url: "/wiki/concepts/bitcoinsafehavenbehavior/"

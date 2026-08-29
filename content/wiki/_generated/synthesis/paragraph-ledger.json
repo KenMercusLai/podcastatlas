@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "76439d5a84c3e146cc75ca3dd110deeb51c4dcd3e2e69896481f9ba03f15b1a2",
       "61cf6b309b514f4094b53ccabb9cd70b5b4534f498082607452b28eb9aa1614c",
       "d822934e2dd6289d02213ae61c1f806ab6bf8726110a7f7aab778addc161d620",
       "005e9bbcb5249cef48f139653d6b9cfca844f71bf23ee2268e1ceba4cdd1def9",
@@ -392,11 +393,41 @@
       "4aec524162783153bd9de6fc8aaf28b4b45a60c3433caa62e6442f020af99d44",
       "5463cac3a05898616fdcdbe4bbf0fffe113a112bf4093056579dfb7f48e3eca2"
     ],
-    "paragraph_count": 390
+    "paragraph_count": 391
   },
-  "overview_commit": "67984d50960b30a588f1962e10c3e04b93419c5f",
-  "overview_digest": "91b764c467b5581988f7bfec16c435087afbecc00892ff4aabf3b9a5ba5b6b36",
+  "overview_commit": "99b88a64ee6fd01ba5957d250e3f3cfe7082d0c8",
+  "overview_digest": "ef521519fa129980b62bdec6b75681b9d436ba13d75bd26711115e3c143ebfa6",
   "paragraphs": [
+    {
+      "id": "76439d5a84c3e146cc75ca3dd110deeb51c4dcd3e2e69896481f9ba03f15b1a2",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [],
+      "text": "The latest addition is [[all-in-with-chamath-jason-sacks-friedberg-ai-sovereignty-wars-palantir-nvidia-deal-scotus-birthright-ruling-newsoms-ca-budget-lie-41958585|AI Sovereignty Wars, Palantir-Nvidia Deal, SCOTUS Birthright Ruling, Newsom's CA Budget Lie]], an [[AllIn|All-In]] episode that turns [[ModelSovereignty]] into a full enterprise control-stack argument around [[Palantir]], [[Nvidia]], [[Anthropic]], [[OpenAI]], [[OpenSourceAIModels]], and proprietary data. It adds [[BirthrightCitizenshipDebate]] and [[CaliforniaFiscalFragility]], while extending [[DataSovereignty]], [[EnterpriseOwnedModels]], [[ModelRoutingCostControl]], [[AIExportControls]], [[AutomationDisplacementEffect]], [[PragmaticImmigrationCompromise]], [[DemocraticSocialistsOfAmerica]], and [[CaliforniaWealthTaxCapitalFlight]]. Its core synthesis is that sovereignty and fiscal legitimacy both turn on control over durable assets: governments and enterprises want compute, weights, data, and implementation knowledge in their own hands, while California budget and immigration debates expose contested boundaries around citizenship, taxpayer mobility, debt, and public obligations. No settled contradiction is recorded; the AI benchmark, jobs, Anthropic export-control, birthright, and California budget figures remain source-scoped host claims.",
+      "topic_scores": {
+        "ai-and-technology": 4,
+        "governance-and-institutions": 1
+      },
+      "wikilinks": [
+        "AIExportControls",
+        "AllIn",
+        "Anthropic",
+        "AutomationDisplacementEffect",
+        "BirthrightCitizenshipDebate",
+        "CaliforniaFiscalFragility",
+        "CaliforniaWealthTaxCapitalFlight",
+        "DataSovereignty",
+        "DemocraticSocialistsOfAmerica",
+        "EnterpriseOwnedModels",
+        "ModelRoutingCostControl",
+        "ModelSovereignty",
+        "Nvidia",
+        "OpenAI",
+        "OpenSourceAIModels",
+        "Palantir",
+        "PragmaticImmigrationCompromise",
+        "all-in-with-chamath-jason-sacks-friedberg-ai-sovereignty-wars-palantir-nvidia-deal-scotus-birthright-ruling-newsoms-ca-budget-lie-41958585"
+      ]
+    },
     {
       "id": "61cf6b309b514f4094b53ccabb9cd70b5b4534f498082607452b28eb9aa1614c",
       "primary_topic": "governance-and-institutions",

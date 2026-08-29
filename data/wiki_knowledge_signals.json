@@ -3521,6 +3521,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/bipolarmaniahypomaniaspectrum/"
     },
+    "BirthrightCitizenshipDebate": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - AI Sovereignty Wars, Palantir-Nvidia Deal, SCOTUS Birthright Ruling, Newsom’s CA Budget Lie [41958585].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-ai-sovereignty-wars-palantir-nvidia-deal-scotus-birthright-ruling-newsoms-ca-budget-lie-41958585",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "AI Sovereignty Wars, Palantir-Nvidia Deal, SCOTUS Birthright Ruling, Newsom's CA Budget Lie",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-ai-sovereignty-wars-palantir-nvidia-deal-scotus-birthright-ruling-newsoms-ca-budget-lie-41958585/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/birthrightcitizenshipdebate/"
+    },
     "BlameAbsorbingResponsibility": {
       "episode_count": 2,
       "show_count": 1,
@@ -4139,6 +4155,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/californiadeleteact/"
+    },
+    "CaliforniaFiscalFragility": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - AI Sovereignty Wars, Palantir-Nvidia Deal, SCOTUS Birthright Ruling, Newsom’s CA Budget Lie [41958585].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-ai-sovereignty-wars-palantir-nvidia-deal-scotus-birthright-ruling-newsoms-ca-budget-lie-41958585",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "AI Sovereignty Wars, Palantir-Nvidia Deal, SCOTUS Birthright Ruling, Newsom's CA Budget Lie",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-ai-sovereignty-wars-palantir-nvidia-deal-scotus-birthright-ruling-newsoms-ca-budget-lie-41958585/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/californiafiscalfragility/"
     },
     "CaliforniaPrivacyProtectionAgency": {
       "episode_count": 1,
@@ -7326,9 +7358,9 @@
       "url": "/wiki/concepts/datafoundationfirstaistrategy/"
     },
     "DataSovereignty": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "27EF88C45FEB84B417313FFFF4F07AA4~8584396_2026-08-10-213036-8787-0-0-10.128 [27EF88C45FEB84B417313FFFF4F07AA4~8584396_2026-08-10-213036-8787-0-0-10.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a83af9f].md",
@@ -7336,9 +7368,16 @@
           "show": "Data Science With Sam",
           "title": "EP 46: Fix the Foundation First: Why Your Data Strategy Is Failing Before the AI Gets Involved",
           "url": "/wiki/sources/ep-46-fix-the-foundation-first-why-your-data-strategy-is-failing-before-the-ai-gets-involved/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - AI Sovereignty Wars, Palantir-Nvidia Deal, SCOTUS Birthright Ruling, Newsom’s CA Budget Lie [41958585].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-ai-sovereignty-wars-palantir-nvidia-deal-scotus-birthright-ruling-newsoms-ca-budget-lie-41958585",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "AI Sovereignty Wars, Palantir-Nvidia Deal, SCOTUS Birthright Ruling, Newsom's CA Budget Lie",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-ai-sovereignty-wars-palantir-nvidia-deal-scotus-birthright-ruling-newsoms-ca-budget-lie-41958585/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-30",
       "url": "/wiki/concepts/datasovereignty/"
     },
     "DataTeamAsBusinessPartner": {
@@ -10416,6 +10455,36 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/enterpriseairoiaudit/"
+    },
+    "EnterpriseOwnedModels": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "【AI季报 26Q2】从 coding 到 RSI，强者愈强的未来？ (1) [171-1].md",
+          "key": "ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1",
+          "show": "晚点聊 LateTalk",
+          "title": "171: 【AI季报 26Q2】从 coding 到 RSI，强者愈强的未来？",
+          "url": "/wiki/sources/ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1/"
+        },
+        {
+          "episode_file": "174. 我们还能给算法当多久的品味老师？｜对谈亚马逊AGI查晟 [lrS0qgmr9Gy1NbDTrSvN2Lx5dxza].md",
+          "key": "174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza",
+          "show": "起朱楼宴宾客",
+          "title": "174. 我们还能给算法当多久的品味老师？｜对谈亚马逊AGI查晟",
+          "url": "/wiki/sources/174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - AI Sovereignty Wars, Palantir-Nvidia Deal, SCOTUS Birthright Ruling, Newsom’s CA Budget Lie [41958585].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-ai-sovereignty-wars-palantir-nvidia-deal-scotus-birthright-ruling-newsoms-ca-budget-lie-41958585",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "AI Sovereignty Wars, Palantir-Nvidia Deal, SCOTUS Birthright Ruling, Newsom's CA Budget Lie",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-ai-sovereignty-wars-palantir-nvidia-deal-scotus-birthright-ruling-newsoms-ca-budget-lie-41958585/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/enterpriseownedmodels/"
     },
     "EnvironmentalProtectionAgency": {
       "episode_count": 1,
@@ -22311,6 +22380,43 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/modelposttrainingbottleneck/"
+    },
+    "ModelSovereignty": {
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source？, Trump Accounts [42041390].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source?, Trump Accounts",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Open Source Wins, AGI Is Here, and Scorsese’s AI Toolkit with CEOs of Cerebras & Black Forest Labs [42029880].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs-42029880",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Open Source Wins, AGI Is Here, and Scorsese's AI Toolkit with CEOs of Cerebras & Black Forest Labs",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs-42029880/"
+        },
+        {
+          "episode_file": "E246｜何谓蒸馏？聊聊硅谷如何看中国开放模型逼近前沿 [5fd236d7-9a72-4b15-9e84-e83ceadd1b41].md",
+          "key": "e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41",
+          "show": "硅谷101",
+          "title": "E246｜何谓蒸馏？聊聊硅谷如何看中国开放模型逼近前沿",
+          "url": "/wiki/sources/e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - AI Sovereignty Wars, Palantir-Nvidia Deal, SCOTUS Birthright Ruling, Newsom’s CA Budget Lie [41958585].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-ai-sovereignty-wars-palantir-nvidia-deal-scotus-birthright-ruling-newsoms-ca-budget-lie-41958585",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "AI Sovereignty Wars, Palantir-Nvidia Deal, SCOTUS Birthright Ruling, Newsom's CA Budget Lie",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-ai-sovereignty-wars-palantir-nvidia-deal-scotus-birthright-ruling-newsoms-ca-budget-lie-41958585/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/modelsovereignty/"
     },
     "Moderna": {
       "episode_count": 5,

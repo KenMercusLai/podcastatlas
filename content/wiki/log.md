@@ -13589,6 +13589,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-30] ingest | AI Sovereignty Wars, Palantir-Nvidia Deal, SCOTUS Birthright Ruling, Newsom's CA Budget Lie
+
+Ingested the 2026-07-03 All-In episode on AI sovereignty, Palantir-Nvidia, enterprise control over compute/data/model weights, provider learning risk, AI labor-displacement debate, Anthropic export controls, Chinese open models, birthright citizenship, immigration policy, DSA momentum, and California fiscal fragility. Created the source note plus `BirthrightCitizenshipDebate` and `CaliforniaFiscalFragility`; updated `DataSovereignty`, `ModelSovereignty`, `EnterpriseOwnedModels`, `index`, and `overview`. No settled contradiction found; benchmark, jobs, export-control, constitutional, immigration-polling, California budget, debt, pension, company-exodus, and tax claims remain source-scoped host claims.
+
 ## [2026-08-30] ingest | 《资治通鉴·汉纪》780丨最多灾多难的时代：东汉
 
 Ingested the 2026-07-04 芮淇讲透资治通鉴 episode on Eastern Han disaster pressure, Ban Chao's Western Regions achievement and Deng-era withdrawal, Qiang official-abuse and conscription backlash, Zhongchang Tong's `Changyan` critique of Three Excellencies/Shangshu power mismatch, and Empress Dowager Deng's austerity orders. Created the source note plus `BanChaoEasternHan` and `ZhongchangTongLateHan`; updated `EmpressDowagerDengLateHan`, `RegencyUnderCompoundCrisis`, `StrategicFrontierAbandonment`, `FrontierOfficialAbuseRebellionSpiral`, `FrontierConscriptionBackfire`, `ThreeExcellenciesBlameWithoutAuthority`, `ShangshuTaiImperialAccess`, `index`, and `overview`. No settled contradiction found; dynasty-wide disaster counts, Ma Nu, Xu Fang, Yin Qin, Wang Fu, Cui Shi, and exact Qiang identities remain source-scoped.
@@ -13740,6 +13744,10 @@ Ran lint after health and identity checks passed. Health scanned 16,053 wiki pag
 ## [2026-08-30] ingest | EP 44: Human-Centered Credit - Building Explainable AI for Lending in an Agentic World
 
 Ingested the 2026-07-04 Data Science With Sam episode with Tamara Clay of MPWR AI on explainable AI lending, policy-bound agents for onboarding and underwriting support, deterministic decisioning, audit and bias-review controls, human-in-the-loop credit decisions, adverse-action explainability, and credit access for gig workers, creators, thin-file borrowers, fractional leaders, nomadic workers, and solo entrepreneurs. Created the source note plus `TamaraClay`, `MPWRAI`, `ExplainableAILending`, `PolicyBoundAgenticLendingSupport`, `HumanInTheLoopCreditDecisioning`, and `NontraditionalBorrowerCreditAccess`; updated `index` and `overview`. No settled contradiction found; MPWR AI's access, default-risk, and manual-work KPIs remain source-scoped founder claims pending independent validation.
+
+## [2026-08-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-30] lint | Wiki health check
 
