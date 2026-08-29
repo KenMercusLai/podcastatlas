@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》794丨一代女君邓绥，去世后竟全家遭殃？](sources/zizhi-tongjian-hanji-794-yidai-nvjun-dengsui-qushi-hou-jing-quanjia-zaoyang-llmlhabdd09opca6-pr80q4mfoxi.md) — 芮淇讲透资治通鉴 episode on 121 CE Emperor An, Chen Zhong's open-remonstrance warning, Shi Yan's appointment, Wang Sheng/Li Run/Jiang Jing's anti-Deng slander, Pingyuan Wang Liu Yi's replacement-risk role, and the first Deng-family purge wave.
 - [《资治通鉴·汉纪》795丨邓家灭亡后，为何举朝为他们鸣冤？](sources/zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1.md) — 芮淇讲透资治通鉴 episode on Emperor An's partial halt to the Deng-family purge, Zhu Chong's coffin memorial, Chen Zhong's post-Deng accusations, and the immediate rise of Geng/Song/Yan relatives, Jiang Jing, Li Run, Wang Sheng, Bo Rong, Fan Feng, and Yang Zhen's anti-favorite warning.
 - [EP280 广州美院访问记：当美术生开始做田野调查](sources/ep280-guangzhou-meiyuan-fangwenji-dang-meishusheng-kaishi-zuo-tianye-diaocha-lr4-jmpdo-oo7w8sdmcgcw-chqc9.md) — Talk三联 episode on Guangzhou Academy of Fine Arts' first-year art-fieldwork reform, student social fear, field notes, experience formation, teacher-student co-learning, and the limits imposed by grades, specialization, and employment pressure.
 - [686. Jefferson: The Betrayal of Liberty (Part 4)](sources/686-jefferson-the-betrayal-of-liberty-part-4-glt6535571769.md) — The Rest Is History episode on Thomas Jefferson's liberty language, first-party politics, presidency, Sally Hemings evidence, Monticello, slavery, and founding memory.
@@ -1714,10 +1715,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lewis and Clark Expedition](entities/LewisAndClarkExpedition.md) — Jefferson-commissioned western exploration project linking scientific inquiry and imperial ambition.
 - [Democratic-Republican Party](entities/DemocraticRepublicanParty.md) — Jefferson's founding-era party vehicle opposed to Hamiltonian Federalists.
 - [Federalist Party](entities/FederalistParty.md) — Founding-era party rival to Jefferson's Democratic-Republicans in the 1796 and 1800 contests.
-- [和熹邓皇后 / Empress Dowager Deng (late Han)](entities/EmpressDowagerDengLateHan.md) — Fallen An-era regent whose Deng household is defended by Zhu Chong after a purge criticized for missing proof and interrogation.
-- [邓氏 / Deng Family (An-era late Han)](entities/DengFamilyAnEraLateHan.md) — Former An-era outer-relative network whose purge, partial burial repair, and replacement by new favorite families anchor Hanji 795.
+- [和熹邓皇后 / Empress Dowager Deng (late Han)](entities/EmpressDowagerDengLateHan.md) — An-era regent whose delayed return of power, Liu Yi replacement suspicion, death, and household purge become Emperor An's opening legitimacy problem.
+- [邓氏 / Deng Family (An-era late Han)](entities/DengFamilyAnEraLateHan.md) — Former An-era outer-relative network whose first purge wave, later partial burial repair, and replacement by new favorite families anchor Hanji 794-795.
+- [平原王刘裔 / Liu Yi (Pingyuan Wang, late Han)](entities/LiuYiPingyuanWangLateHan.md) — Collateral royal relative treated as the alleged Deng-backed replacement claimant and kept distinct from Beixiang Hou Liu Yi.
 - [朱宠 / Zhu Chong (late Han)](entities/ZhuChongLateHan.md) — Da sinong who carries a coffin to memorial for the Deng family and forces partial correction without escaping dismissal.
-- [江京 / Jiang Jing (late Han)](entities/JiangJingLateHan.md) — Accession-service palace favorite rewarded as Duxiang Hou, Zhongchangshi, and Da Changqiu after the Deng fall.
+- [江京 / Jiang Jing (late Han)](entities/JiangJingLateHan.md) — Palace actor named in anti-Deng slander before being rewarded as Duxiang Hou, Zhongchangshi, and Da Changqiu after the Deng fall.
 - [高句丽 / Goguryeo (late Han)](entities/GoguryeoLateHan.md) — Frontier polity whose 121-122 CE Xuantu attack, royal succession, and later submission frame Chen Zhong's mourning-restraint advice.
 - [姚光 / Yao Guang (late Han)](entities/YaoGuangLateHan.md) — Xuantu administrator whose proposed attack during Goguryeo royal mourning is rejected and who is later killed by a forged edict.
 - [冯焕 / Feng Huan (late Han)](entities/FengHuanLateHan.md) — Youzhou inspector who survives the same forged-edict revenge case after his son challenges the document.
@@ -1725,20 +1727,20 @@ This file is maintained by the LLM. Updated on every ingest.
 - [伯荣 / Bo Rong (late Han)](entities/BoRongLateHan.md) — Wang Sheng's daughter whose favored household role links Liu Gui's title path to later Ganling-capital palace-mission burden under Emperor An.
 - [刘瑰 / Liu Gui (late Han)](entities/LiuGuiLateHan.md) — Bo Rong's husband and Shaoyang marquisate beneficiary whose succession path triggers Yang Zhen's title-order objection.
 - [翟瑰 / Zhai Gui (late Han)](entities/ZhaiGuiLateHan.md) — Guangling Shangshu who warns Emperor An that favorite households are pulling office, title, wealth, and authority from public court control.
-- [陈忠 / Chen Zhong (late Han)](entities/ChenZhongLateHan.md) — An-era official whose blocked mourning defense, accepted Goguryeo restraint advice, ignored domestic warnings, and accepted Western Regions advice reveal uneven access to correction.
-- [汉安帝 / Emperor An of Han](entities/EmperorAnOfHan.md) — Eastern Han ruler whose 120-125 CE sequence runs from favorite-household title and office erosion through mourning-policy cancellation, palace-channel burden, Yang Zhen's destruction, Liu Bao's deposition, and concealed tour death.
+- [陈忠 / Chen Zhong (late Han)](entities/ChenZhongLateHan.md) — An-era adviser whose open-remonstrance warning, post-Deng accusation role, blocked mourning defense, ignored domestic warnings, and accepted frontier advice reveal uneven correction.
+- [汉安帝 / Emperor An of Han](entities/EmperorAnOfHan.md) — Eastern Han ruler whose 121-125 CE sequence runs from Deng replacement fear and purge through favorite-household erosion, Yang Zhen's destruction, Liu Bao's deposition, and concealed tour death.
 - [刘恺 / Liu Kai (Eastern Han)](entities/LiuKaiEasternHan.md) — Former situ appointed taiwei whose accepted memorial limits corrupt-official punishment to the offender rather than innocent descendants.
 - [耿宝 / Geng Bao (Grand General, late Han)](entities/GengBaoGrandGeneralLateHan.md) — Emperor An relative whose appointment request to Yang Zhen precedes his later accusation of Yang, Liu Bao deposition compliance, and Yan-backed purge.
 - [樊丰 / Fan Feng (late Han eunuch)](entities/FanFengEunuchLateHan.md) — Eunuch favorite tied to Yang Zhen's 123 CE private-benefit critique, forged-edict construction, Liu Bao accusation-fabrication, concealed death, and Yan Xian's cleanup.
 - [周广 / Zhou Guang (late Han favorite)](entities/ZhouGuangLateHan.md) — Emperor An favorite criticized by Yang Zhen for solicitation and corrupt appointments before joining Fan Feng and Xie Yun in forged-edict private construction.
 - [谢恽 / Xie Yun (late Han favorite)](entities/XieYunLateHan.md) — Emperor An favorite criticized by Yang Zhen for solicitation and corrupt appointments before joining Fan Feng and Zhou Guang in forged-edict requisitions.
 - [赵腾 / Zhao Teng (late Han)](entities/ZhaoTengLateHan.md) — Blunt Emperor An-era remonstrant executed for a critical memorial despite Yang Zhen's plea for mitigation.
-- [王圣 / Wang Sheng (late Han palace actor)](entities/WangShengPalaceActorLateHan.md) — Emperor An's wet nurse whose title, Bo Rong/Liu Gui household field, mansion privilege, and later exile make her a core An-era favorite actor.
+- [王圣 / Wang Sheng (late Han palace actor)](entities/WangShengPalaceActorLateHan.md) — Emperor An's wet nurse whose anti-Deng slander, title, Bo Rong/Liu Gui household field, mansion privilege, and later exile make her a core An-era favorite actor.
 - [来历 / Lai Li (late Han)](entities/LaiLiLateHan.md) — Taipu who rebukes Geng Bao over Yang Zhen, then persists at Hongdu Gate against Liu Bao's demotion and is punished through office, fief, and family pressure.
 - [张皓 / Zhang Hao (late Han remonstrator)](entities/ZhangHaoRemonstratorLateHan.md) — Former weiwei who invokes the Han Wudi and Li Crown Prince precedent against Emperor An's plan to depose Liu Bao.
 - [桓焉 / Huan Yan (late Han)](entities/HuanYanLateHan.md) — Taichang who objects to Liu Bao's deposition and later carries Liang Shang's Grand General appointment document.
 - [北乡侯刘裔 / 刘懿 / Liu Yi (Beixiang Hou, late Han)](entities/LiuYiBeixiangHouLateHan.md) — Short-lived Yan-backed child ruler whose accession and hidden death frame Emperor Shun's restoration crisis.
-- [李润 / Li Run (late Han)](entities/LiRunLateHan.md) — Trusted Zhongchangshi whose elder brother is recommended through Geng Bao before Li Run is later coerced into Emperor Shun's restoration and exposed to cleanup suspicion.
+- [李润 / Li Run (late Han)](entities/LiRunLateHan.md) — Palace actor named in anti-Deng slander before becoming a rewarded Zhongchangshi, appointment-pressure node, coerced Shun-restoration participant, and cleanup target.
 - [冯石 / Feng Shi (Emperor An favorite)](entities/FengShiFavoriteLateHan.md) — Weiwei and Huojia Hou whose household receives Emperor An's residence, gifts, and appointments for his son and brothers.
 - [冯师 / Feng Shi (late Han)](entities/FengShiLateHan.md) — Yueqi xiaowei whose refusal to join Yan Xian's counterattack helps collapse the Yan recovery attempt.
 - [郭镇 / Guo Zhen (late Han)](entities/GuoZhenLateHan.md) — Shangshu enforcer who captures Yan Jin at Shengde Gate during Emperor Shun's restoration.
@@ -1786,7 +1788,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [宋娥 / Song E (late Han)](entities/SongELateHan.md) — Emperor Shun's wet nurse whose attempted title, palace removal, anonymous retaliation against Li Gu, and later bribery case mark the risk of palace-proximity power.
 - [文龙 / Wen Long (late Han)](entities/WenLongLateHan.md) — Guiyang administrator whose pearl tribute after Emperor Shun's anti-luxury edict becomes a source-bounded case of misread flattery.
 - [朱良 / Zhu Liang (Luoyang magistrate, late Han)](entities/ZhuLiangLuoyangLateHan.md) — Luoyang magistrate who impeaches Pang Can after Pang's household murder scandal, distinct from 祝良 in the Jiaozhi branch.
-- [施延 / Shi Yan (late Han)](entities/ShiYanLateHan.md) — Hongdu Gate remonstrant who later appears as the dahonglu appointed taiwei after Pang Can's dismissal.
+- [施延 / Shi Yan (late Han)](entities/ShiYanLateHan.md) — Worthy-and-upright appointee under Emperor An, later Hongdu Gate remonstrant and dahonglu promoted to taiwei after Pang Can's dismissal.
 - [其至鞬 / Qizhijian (Xianbei)](entities/QizhijianXianbei.md) — Xianbei leader whose death in the Hanji 815 notice is associated with fewer raids into Han interior territory.
 - [李进 / Li Jin (Wuling, late Han)](entities/LiJinWulingLateHan.md) — Wuling administrator who suppresses and settles the 137 CE Wuling Man revolt with follow-up local appointments.
 - [马续 / Ma Xu (late Han)](entities/MaXuLateHan.md) — Frontier commander whose profile now runs from a 131 CE Qiang-field proximity reversal through Qiang-front action and fortified Southern Xiongnu surrender policy.
@@ -10041,9 +10043,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Jeffersonian Liberty Contradiction](concepts/JeffersonianLibertyContradiction.md) — Problem of Jefferson articulating universal liberty while preserving a slaveholding household and estate.
 - [Coerced Consent Under Slavery](concepts/CoercedConsentUnderSlavery.md) — Frame for why an enslaved person's intimate choices under ownership cannot be read as ordinary free consent.
 - [Founding Father Reputation Revision](concepts/FoundingFatherReputationRevision.md) — Evidence-bound reassessment of revered founders when minimized harms become central.
-- [Procedureless Political Purge / 无程序政治清算](concepts/ProcedurelessPoliticalPurge.md) — Pattern where power-transfer cleanup may be politically intelligible yet illegitimate when proof, interrogation, and charge specificity are missing.
+- [Procedureless Political Purge / 无程序政治清算](concepts/ProcedurelessPoliticalPurge.md) — Pattern where power-transfer cleanup may be politically intelligible yet illegitimate when succession accusations, proof, interrogation, and proportionality are untested.
 - [Power Monopoly Backfire / 一家独大式权力反噬](concepts/PowerMonopolyBackfire.md) — Hanji 802 court-politics pattern where a winning faction destroys balance by excluding allies and threatening remaining powerholders.
-- [Heir Support Threat Perception / 储君拥戴威胁感](concepts/HeirSupportThreatPerception.md) — Succession-risk pattern where visible official support for an heir is read as a rival political center.
+- [Heir / Claimant Support Threat Perception / 储君与宗室候选人威胁感](concepts/HeirSupportThreatPerception.md) — Succession-risk pattern where support or availability around an heir or claimant is read as a rival political center.
 - [Defeated Dowager Legitimacy Management / 失势太后名分处置](concepts/DefeatedDowagerLegitimacyManagement.md) — Pattern where a winning succession camp protects its own legitimacy by ritually honoring a defeated dowager while containing her former power network.
 - [军功归属错置 / Command Credit Misattribution](concepts/CommandCreditMisattribution.md) — Failure mode where visible surrender timing and reporting assign campaign credit or blame away from the underlying plan and incentives.
 - [边疆代理承诺绑定 / Frontier Proxy Commitment Binding](concepts/FrontierProxyCommitmentBinding.md) — Frontier strategy where local kingship and irreversible action against an outside power bind a dependent polity's future alignment.

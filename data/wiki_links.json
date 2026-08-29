@@ -22492,7 +22492,7 @@
     "url": "/wiki/concepts/heirsacrificeappeasement/"
   },
   "HeirSupportThreatPerception": {
-    "title": "Heir Support Threat Perception / 储君拥戴威胁感",
+    "title": "Heir / Claimant Support Threat Perception / 储君与宗室候选人威胁感",
     "url": "/wiki/concepts/heirsupportthreatperception/"
   },
   "HeirloomCarbonTechnologies": {
@@ -30270,6 +30270,10 @@
   "LiuYiLateHan": {
     "title": "刘翊 / Liu Yi (late Han)",
     "url": "/wiki/entities/liuyilatehan/"
+  },
+  "LiuYiPingyuanWangLateHan": {
+    "title": "平原王刘裔 / Liu Yi (Pingyuan Wang, late Han)",
+    "url": "/wiki/entities/liuyipingyuanwanglatehan/"
   },
   "LiuYiSanlian": {
     "title": "刘仪 / Liu Yi",
@@ -62166,6 +62170,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-794-yidai-nvjun-dengsui-qushi-hou-jing-quanjia-zaoyang-llmlhabdd09opca6-pr80q4mfoxi": {
+    "title": "《资治通鉴·汉纪》794丨一代女君邓绥，去世后竟全家遭殃？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-794-yidai-nvjun-dengsui-qushi-hou-jing-quanjia-zaoyang-llmlhabdd09opca6-pr80q4mfoxi/"
   },
   "zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1": {
     "title": "《资治通鉴·汉纪》795丨邓家灭亡后，为何举朝为他们鸣冤？",

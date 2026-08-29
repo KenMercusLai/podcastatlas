@@ -13556,3 +13556,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-29] ingest | 《资治通鉴·汉纪》794丨一代女君邓绥，去世后竟全家遭殃？
+
+Ingested the 2026-07-07 芮淇讲透资治通鉴 episode on 121 CE Emperor An's court, Chen Zhong's open-remonstrance warning, Shi Yan's shizhong appointment, Wang Sheng/Li Run/Jiang Jing's anti-Deng slander, Pingyuan Wang Liu Yi's replacement-risk role, and the first Deng-family purge wave after Empress Dowager Deng's death. Created the source note plus `LiuYiPingyuanWangLateHan`; updated `EmpressDowagerDengLateHan`, `DengFamilyAnEraLateHan`, `EmperorAnOfHan`, `WangShengPalaceActorLateHan`, `LiRunLateHan`, `JiangJingLateHan`, `ChenZhongLateHan`, `ShiYanLateHan`, `ProcedurelessPoliticalPurge`, `HeirSupportThreatPerception`, `index`, and `overview`. No settled contradiction found; Pingyuan Wang Liu Yi is kept distinct from `LiuYiBeixiangHouLateHan`, and Cai Lun, Xue Bao, Cai Feng, Deng Kui, Deng Hong, Deng Fang, Deng Zhi, Deng Feng, Deng Zun, Deng Chang, and Deng Kang remain source-scoped.
+
+## [2026-08-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

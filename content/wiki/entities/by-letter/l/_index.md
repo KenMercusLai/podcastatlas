@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 8328
+wiki_total_pages: 8329
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -1085,6 +1085,9 @@ wiki_pages:
   - key: "LadyYinCaoCao"
     title: "尹夫人 / Lady Yin (Cao Cao)"
     url: "/wiki/entities/ladyyincaocao/"
+  - key: "LiuYiPingyuanWangLateHan"
+    title: "平原王刘裔 / Liu Yi (Pingyuan Wang, late Han)"
+    url: "/wiki/entities/liuyipingyuanwanglatehan/"
   - key: "LujiangCommandery"
     title: "庐江郡 / Lujiang Commandery"
     url: "/wiki/entities/lujiangcommandery/"
