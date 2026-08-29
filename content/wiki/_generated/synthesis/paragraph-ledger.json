@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "7289923d2b13e321867d982395f82f649614488a40794da9e3581d04c5483cb3",
       "1724cee47538c9acfc5d62468943ab82c7830b999682366ada51befd9ca79b5b",
       "750236a3432e0c98c4fa9fe78759f73d329b50598c2bfc4d91296222ee930fff",
       "599ea23868826f8534bf0a9b5aac7529f431ca3e0bea38f0b6d8e0b8f827b865",
@@ -363,11 +364,37 @@
       "c579b0c3102e48af519244d183c5c41e037740a37bf519bf5b0f4bf5ef849207",
       "56abb716e5b03c8a306adb1a6c6075e7f241a8cf33161741fecbd9f5b886bbb0"
     ],
-    "paragraph_count": 361
+    "paragraph_count": 362
   },
-  "overview_commit": "e35f3b2c408b741a0a9fd97cbab846a61e0d5735",
-  "overview_digest": "bd233c14c280a9e96e2c78ad13e22d9f5ed4e68c8b9c1458b2a318b4b9be10d8",
+  "overview_commit": "752fc8410508100adca9ff7162534f562cca0f14",
+  "overview_digest": "316d33bf2f1e3aa717855ab15312beefc45fa3f88ab0ff6c20f259aa189c26bc",
   "paragraphs": [
+    {
+      "id": "7289923d2b13e321867d982395f82f649614488a40794da9e3581d04c5483cb3",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p|《资治通鉴·汉纪》814丨当官不为民作主，不如回家卖红薯]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 133 CE [[EmperorShunOfHan|汉顺帝]] disaster-remonstrance layer immediately before [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|Hanji 815]] and [[zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc|Hanji 816]]. It adds [[PrivateFavorAppointmentErosion|私恩授官侵蚀]], [[CourtCoreRectification|朝廷核心校正式治理]], and [[BeneficialGovernanceDelivery|惠民实效治理]], while extending [[LiGuLateHan|李固]], [[EmperorShunOfHan|汉顺帝]], [[MaRongLateHan|马融]], [[OmenCodedRemonstrance|天象灾异包装式进谏]], [[AppointmentQualityAsStateCapacity|任官适任性国家能力]], [[CourtFeedbackCollapse|君臣反馈失灵]], and [[PalaceProximityPower|宫廷近身权力]]. Its core synthesis is that Shun-era correction trouble appears even before Song E's partial removal: a ground split lets Li Gu recast disaster inquiry as an appointment and court-core diagnosis, while Ma Rong warns that formal law and repeated promises matter little unless households, farming seasons, funerals, and marriage costs actually improve. No settled contradiction is recorded; the meditation advertisement/opening self-cultivation frame, minor palace-office holders, and exact staffing figures remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 4,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "AppointmentQualityAsStateCapacity",
+        "BeneficialGovernanceDelivery",
+        "CourtCoreRectification",
+        "CourtFeedbackCollapse",
+        "EmperorShunOfHan",
+        "LiGuLateHan",
+        "MaRongLateHan",
+        "OmenCodedRemonstrance",
+        "PalaceProximityPower",
+        "PrivateFavorAppointmentErosion",
+        "RuiqiJiangtouZizhiTongjian",
+        "zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p",
+        "zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v",
+        "zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc"
+      ]
+    },
     {
       "id": "1724cee47538c9acfc5d62468943ab82c7830b999682366ada51befd9ca79b5b",
       "primary_topic": "governance-and-institutions",

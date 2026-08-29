@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 5898
+wiki_total_pages: 5901
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -605,6 +605,9 @@ wiki_pages:
   - key: "ByteDanceGrowthSystem"
     title: "ByteDance Growth System"
     url: "/wiki/concepts/bytedancegrowthsystem/"
+  - key: "BeneficialGovernanceDelivery"
+    title: "善政实惠落地 / Beneficial Governance Delivery"
+    url: "/wiki/concepts/beneficialgovernancedelivery/"
   - key: "BattlefieldVictoryToFoundingOrder"
     title: "战场胜利到建国秩序 / Battlefield Victory To Founding Order"
     url: "/wiki/concepts/battlefieldvictorytofoundingorder/"

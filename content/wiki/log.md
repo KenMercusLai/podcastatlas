@@ -13145,6 +13145,10 @@ Ingested the Marketplace Tech episode on Meta's proposed teen-safety settlement,
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-29] ingest | 《资治通鉴·汉纪》814丨当官不为民作主，不如回家卖红薯
+
+Ingested the 2026-07-11 芮淇讲透资治通鉴 episode on 133 CE Emperor Shun's Xuande Hall ground split inquiry, Li Gu's critique of private-favor appointments and court-core decay, eunuch-power limits, and Ma Rong's public-welfare governance memorial. Created the source note plus `PrivateFavorAppointmentErosion`, `CourtCoreRectification`, and `BeneficialGovernanceDelivery`; updated `LiGuLateHan`, `EmperorShunOfHan`, `MaRongLateHan`, `OmenCodedRemonstrance`, `index`, and `overview`. No settled contradiction found; the meditation advertisement/opening self-cultivation frame, minor palace-office holders, and exact staffing figures remain source-scoped.
+
 ## [2026-08-29] ingest | 《资治通鉴·汉纪》815丨可悲！古代重臣的家风之殇！
 
 Ingested the 2026-07-11 芮淇讲透资治通鉴 episode on 133 CE Emperor Shun, Zhang Heng's Xiaolian and local-official critique, Li Gu's Song E removal and anonymous retaliation, Pang Can's household scandal and dismissal, and the Xianbei leader Qizhijian's death. Created the source note plus `PangCanLateHan`, `DuanGongchengLateHan`, `SongELateHan`, `ZhuLiangLuoyangLateHan`, `ShiYanLateHan`, `QizhijianXianbei`, and `HouseholdMisconductPoliticalLiability`; updated `ZhangHengLateHan`, `LiGuLateHan`, `MaRongLateHan`, `EmperorShunOfHan`, `AppointmentQualityAsStateCapacity`, `AnonymousSlanderRetaliation`, `index`, and `overview`. No settled contradiction found; Song E is promoted from prior source-scoped caution only where Hanji 815 makes her causal, Pang Can is promoted from source-scoped status because Hanji 815 makes him central, and 朱良 is disambiguated from existing 祝良.
@@ -13356,6 +13360,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-29] ingest | 《资治通鉴·汉纪》816丨想要“拿下”你的领导，其实很简单
 
 Ingested the 2026-07-11 芮淇讲透资治通鉴 episode on 134 CE Emperor Shun, Zhou Ju's drought remonstrance, Zhang Heng's earthquake and anti-tuchen memorial, Qiang-frontier appointments, and Cheshi/Northern Xiongnu pressure. Created the source note plus `ZhangHengLateHan`, `RootCauseRemonstrance`, and `ChenweiEvidentiaryCritique`; updated `EmperorShunOfHan`, `ZhouJuLateHan`, `MaXianLateHan`, `MaXuLateHan`, `CheshiHouKingdomLateHan`, `AdviceFramingUnderHierarchy`, `OmenCodedRemonstrance`, `index`, and `overview`. No settled contradiction found; 张恒 is normalized to 张衡, while 孔扶 is kept distinct from the existing Qin-era 孔鲋 page and 耿宝 is kept distinct from the existing 耿包 page.
+
+## [2026-08-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-29] lint | Wiki health check
 

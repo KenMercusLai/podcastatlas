@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 5898
+wiki_total_pages: 5901
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1841,6 +1841,9 @@ wiki_pages:
   - key: "CourtLegitimacyOverPatronLoyalty"
     title: "朝廷名义高于主君私属 / Court Legitimacy Over Patron Loyalty"
     url: "/wiki/concepts/courtlegitimacyoverpatronloyalty/"
+  - key: "CourtCoreRectification"
+    title: "朝廷心腹整顿 / Court-Core Rectification"
+    url: "/wiki/concepts/courtcorerectification/"
   - key: "CourtAllyProtectionNetwork"
     title: "朝廷盟友保护网络 / Court Ally Protection Network"
     url: "/wiki/concepts/courtallyprotectionnetwork/"

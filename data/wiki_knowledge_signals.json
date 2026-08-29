@@ -3011,6 +3011,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/beijing/"
     },
+    "BeneficialGovernanceDelivery": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》814丨当官不为民作主，不如回家卖红薯 [lqLrFPUEnzhR1tbrdD3UrTOLfW2p].md",
+          "key": "zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》814丨当官不为民作主，不如回家卖红薯",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/beneficialgovernancedelivery/"
+    },
     "BerntBornich": {
       "episode_count": 1,
       "show_count": 1,
@@ -5807,6 +5823,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/courtallyprotectionnetwork/"
     },
+    "CourtCoreRectification": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》814丨当官不为民作主，不如回家卖红薯 [lqLrFPUEnzhR1tbrdD3UrTOLfW2p].md",
+          "key": "zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》814丨当官不为民作主，不如回家卖红薯",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/courtcorerectification/"
+    },
     "CourtLegitimacyOverPatronLoyalty": {
       "episode_count": 2,
       "show_count": 1,
@@ -8298,9 +8330,9 @@
       "url": "/wiki/entities/emperorhuanofhan/"
     },
     "EmperorShunOfHan": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》822丨豺狼当道，他将矛头直指皇帝岳父？ [lqHpMAYVd3p07BYR_zOIv-jyhdv_].md",
@@ -8364,6 +8396,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》815丨可悲！古代重臣的家风之殇！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》814丨当官不为民作主，不如回家卖红薯 [lqLrFPUEnzhR1tbrdD3UrTOLfW2p].md",
+          "key": "zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》814丨当官不为民作主，不如回家卖红薯",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p/"
         }
       ],
       "updated": "2026-08-29",
@@ -15282,9 +15321,9 @@
       "url": "/wiki/entities/ligaorunanlatehan/"
     },
     "LiGuLateHan": {
-      "episode_count": 13,
+      "episode_count": 14,
       "show_count": 1,
-      "source_note_count": 13,
+      "source_note_count": 14,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》929丨对事不对人，你信了吗？ [lgaXJ0jzoPddmt3C5hiBNExqLhB3].md",
@@ -15376,6 +15415,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》815丨可悲！古代重臣的家风之殇！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》814丨当官不为民作主，不如回家卖红薯 [lqLrFPUEnzhR1tbrdD3UrTOLfW2p].md",
+          "key": "zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》814丨当官不为民作主，不如回家卖红薯",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p/"
         }
       ],
       "updated": "2026-08-29",
@@ -17600,9 +17646,9 @@
       "url": "/wiki/entities/maridilatehan/"
     },
     "MaRongLateHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》836丨兄弟反目背后：儒者和奸臣的交锋 [lq9wJN5C8Mwt-OnRtSlUm4Fw53EQ].md",
@@ -17624,6 +17670,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》815丨可悲！古代重臣的家风之殇！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》814丨当官不为民作主，不如回家卖红薯 [lqLrFPUEnzhR1tbrdD3UrTOLfW2p].md",
+          "key": "zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》814丨当官不为民作主，不如回家卖红薯",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p/"
         }
       ],
       "updated": "2026-08-29",
@@ -19812,9 +19865,9 @@
       "url": "/wiki/concepts/olfactorytraining/"
     },
     "OmenCodedRemonstrance": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》873丨他如何利用天象痛骂帝王？ [lqEbKOdcbCrSVYf80qWxNobYDbHc].md",
@@ -19836,6 +19889,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》816丨想要“拿下”你的领导，其实很简单",
           "url": "/wiki/sources/zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》814丨当官不为民作主，不如回家卖红薯 [lqLrFPUEnzhR1tbrdD3UrTOLfW2p].md",
+          "key": "zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》814丨当官不为民作主，不如回家卖红薯",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p/"
         }
       ],
       "updated": "2026-08-29",
@@ -21404,6 +21464,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/privateequityaitransformation/"
+    },
+    "PrivateFavorAppointmentErosion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》814丨当官不为民作主，不如回家卖红薯 [lqLrFPUEnzhR1tbrdD3UrTOLfW2p].md",
+          "key": "zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》814丨当官不为民作主，不如回家卖红薯",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/privatefavorappointmenterosion/"
     },
     "ProcessingSpeedTrainingDementiaSignal": {
       "episode_count": 1,

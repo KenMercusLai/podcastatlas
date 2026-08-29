@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1998
+topic_total_pages: 1999
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3139,6 +3139,9 @@ topic_concepts:
   - key: "FateReadingPoliticalRisk"
     title: "命相判断的政治风险 / Fate-Reading Political Risk"
     url: "/wiki/concepts/fatereadingpoliticalrisk/"
+  - key: "BeneficialGovernanceDelivery"
+    title: "善政实惠落地 / Beneficial Governance Delivery"
+    url: "/wiki/concepts/beneficialgovernancedelivery/"
   - key: "GrassrootsOfficialNetwork"
     title: "基层官吏网络政治资本 / Grassroots Official Network"
     url: "/wiki/concepts/grassrootsofficialnetwork/"

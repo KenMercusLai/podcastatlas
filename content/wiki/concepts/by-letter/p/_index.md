@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5898
+wiki_total_pages: 5901
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1577,6 +1577,9 @@ wiki_pages:
   - key: "PhysiognomicInvestmentJudgment"
     title: "看相式政治投资 / Physiognomic Investment Judgment"
     url: "/wiki/concepts/physiognomicinvestmentjudgment/"
+  - key: "PrivateFavorAppointmentErosion"
+    title: "私恩任官侵蚀 / Private-Favor Appointment Erosion"
+    url: "/wiki/concepts/privatefavorappointmenterosion/"
   - key: "PostVictoryAmnestySignal"
     title: "胜后既往不咎信号 / Post-Victory Amnesty Signal"
     url: "/wiki/concepts/postvictoryamnestysignal/"

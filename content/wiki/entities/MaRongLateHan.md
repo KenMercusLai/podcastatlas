@@ -7,16 +7,19 @@ sources:
   - zizhi-tongjian-hanji-836-xiongdi-fanmu-beihou-ruzhe-he-jianchen-de-jiaofeng-lq9wjn5c8mwt-onrtslum4fw53eq
   - zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh
   - zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v
+  - zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p
 last_updated: 2026-08-29
 ---
 
 ## Overview
 
-马融 / Ma Rong is a late-Han scholar-official whose current profile now begins with a 133 CE learned-adviser layer before the 141 CE Qiang-frontier warning and the 151 CE Liang-family retaliation layer. [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|Hanji 815]] pairs him with [[ZhangHengLateHan|张衡]] as a broadly learned court adviser; Hanji 821 presents him warning that [[MaXianLateHan|马贤]]'s command is wasting the chance to defeat the Qiang; Hanji 836 then shows the same learned official later punished after visiting [[LiangBuyiLateHan|梁不疑]].
+马融 / Ma Rong is a late-Han scholar-official whose current profile now begins with a 133 CE public-welfare memorial before the learned-adviser, frontier-warning, and Liang-family retaliation layers. [[zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p|Hanji 814]] presents him as Right Fufeng merit officer arguing that people need concrete good-government benefits, not more promises; Hanji 815 pairs him with [[ZhangHengLateHan|张衡]] as a broadly learned court adviser; Hanji 821 presents him warning that [[MaXianLateHan|马贤]]'s command is wasting the chance to defeat the Qiang; Hanji 836 then shows the same learned official later punished after visiting [[LiangBuyiLateHan|梁不疑]].
 
 ## Current Profile
 
-[[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|Hanji 815]] supplies the earliest current layer. In 133 CE, Ma Rong is named among the advisers whose counsel [[EmperorShunOfHan|Emperor Shun]] reviews before adopting Li Gu's proposal against palace abuse. The episode also foregrounds Ma Rong's classical learning and fine prose, and records his appointment as yilang.
+[[zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p|Hanji 814]] supplies the earliest current layer. In 133 CE, after the Xuande Hall ground split, Ma Rong is identified as Right Fufeng merit officer and submits a memorial to [[EmperorShunOfHan|Emperor Shun]]. He argues that the court already has laws, regulations, and seasonal prohibitions, while the people have repeatedly heard promises of good government without receiving real benefit. His remedies are concrete: reduce marriage and funeral burdens, protect farming time, and let people form households with spouse, children, savings, and property.
+
+[[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|Hanji 815]] supplies the learned-adviser layer. In 133 CE, Ma Rong is named among the advisers whose counsel Emperor Shun reviews before adopting Li Gu's proposal against palace abuse. The episode also foregrounds Ma Rong's classical learning and fine prose, and records his appointment as yilang.
 
 [[zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh|Hanji 821]] supplies the frontier-policy layer. In the Wudu commandery field, Ma Rong asks for 5,000 Guandong troops, argues that a quick strike could defeat the rebels, and criticizes Ma Xian for delaying while enjoying feasts, clothing, chariots, and horses. The court does not act on the warning before Ma Xian is defeated and killed.
 
@@ -28,8 +31,8 @@ The current profile therefore treats Ma Rong as a scholar-official whose adminis
 
 ## Key Characteristics
 
-- Learned adviser whose 133 CE profile begins with classical mastery, fine writing, and appointment as yilang.
-- Court adviser whose counsel is reviewed in the same correction field as Li Gu and Zhang Heng.
+- Public-welfare memorialist whose 133 CE advice measures good government by delivered household benefit.
+- Learned adviser whose 133 CE profile also includes classical mastery, fine writing, and appointment as yilang.
 - Frontier remonstrant who identifies command delay and requests troops before Ma Xian's defeat.
 - Learned late-Han儒者 whose reputation combines classical study, literary ability, and official service.
 - Official punished after visiting Liang Buyi, making social contact with a monitored household politically dangerous.
@@ -38,6 +41,9 @@ The current profile therefore treats Ma Rong as a scholar-official whose adminis
 
 ## Evidence
 
+- Good-government delivery warning: [[zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p|Hanji 814]] says Ma Rong argues that people have repeatedly heard good-government promises without receiving concrete benefit.
+- Household-level remedies: [[zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p|Hanji 814]] says Ma Rong recommends lighter marriage rites, simpler funerals and sacrifices, protected farming time, and stable family property.
+- Rule-saturation caution: [[zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p|Hanji 814]] says Ma Rong sees existing laws and seasonal prohibitions as already adequate, making implementation and relief the problem.
 - Early learned-adviser layer: [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|Hanji 815]] names Ma Rong among the advisers whose counsel Shun reviews in the Song E and Li Gu correction sequence.
 - Classical and literary profile: [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|Hanji 815]] presents Ma Rong as deeply learned in the Confucian classics, skilled in fine prose, and appointed yilang.
 - Frontier warning: [[zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh|Hanji 821]] says Ma Rong requests 5,000 Guandong troops and argues that a quick attack can defeat the Qiang rebels.
@@ -50,18 +56,21 @@ The current profile therefore treats Ma Rong as a scholar-official whose adminis
 
 ## Qualifications
 
-This page is bounded to Hanji 815, Hanji 821, and Hanji 836 and does not reconstruct Ma Rong's full intellectual lineage, teaching network, or complete bibliography. Hanji 821's transcript form 马戎 is normalized to Ma Rong because the Wudu-commandery context matches the office path preserved in Hanji 836. Hanji 836 treats Liang Ji's accusation as retaliatory, but it does not independently adjudicate every administrative detail of the corruption charge. Later wiki sources may add Ma Rong's teacher role if they supply direct evidence.
+This page is bounded to Hanji 814, Hanji 815, Hanji 821, and Hanji 836 and does not reconstruct Ma Rong's full intellectual lineage, teaching network, or complete bibliography. Hanji 814 gives a public-welfare memorial rather than an extended biography; Hanji 821's transcript form 马戎 is normalized to Ma Rong because the Wudu-commandery context matches the office path preserved in Hanji 836. Hanji 836 treats Liang Ji's accusation as retaliatory, but it does not independently adjudicate every administrative detail of the corruption charge. Later wiki sources may add Ma Rong's teacher role if they supply direct evidence.
 
 ## What Changed
 
-- Added Hanji 815 as the earliest current layer: learned adviser, classical-literary profile, and yilang appointment.
-- Reframed Hanji 821 as the later Qiang-frontier remonstrance layer rather than the beginning of the page.
+- Placed Hanji 814 before Hanji 815 as Ma Rong's earliest current layer: a public-welfare memorial on delivered good government.
+- Reframed Hanji 815 as the learned-adviser, classical-literary, and yilang appointment layer.
+- Preserved Hanji 821 as the later Qiang-frontier remonstrance layer.
 - Preserved Hanji 836 as the scholar-official retaliation, humiliation, exile, and later textual-work layer.
 
 ## Relationships
 
 - [[ZhangHengLateHan|张衡]] - paired learned adviser in Hanji 815's praise of talent and court counsel.
 - [[EmperorShunOfHan|汉顺帝]] - ruler who reviews Ma Rong's advice in the 133 CE correction sequence.
+- [[BeneficialGovernanceDelivery|善政实惠落地]] - concept grounded by Ma Rong's demand that good-government promises become visible household benefit.
+- [[LiGuLateHan|李固]] - parallel 133 CE remonstrant who uses the same disaster inquiry for central-court and appointment reform.
 - [[MaXianLateHan|马贤]] - commander whose delay and luxury Ma Rong criticizes before defeat.
 - [[HuangfuGuiLateHan|皇甫规]] - parallel warning voice whose prediction of Ma Xian's defeat is ignored.
 - [[FrontierCommandCollapse|边郡军政崩盘]] - command-failure pattern exposed by Ma Rong's ignored warning.
