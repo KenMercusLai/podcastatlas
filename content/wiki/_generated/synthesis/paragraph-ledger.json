@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "9bf460c6cf20cf0fda0151569e4bca06649f121f8e70aba8876561e8751d6cb2",
       "d6d0975d88c73cc06e30e1905981dcf71f09061d5988d627ac1ebf0bfce6b65f",
       "23275655c235e7f5ae1bb92e98235cd921b4ab2d135d4306a0671a9b84aa3ccd",
       "34acb5ea9c860fb038766002b67ed509d58847883f441c49dc243ea38dbe80de",
@@ -368,11 +369,55 @@
       "56abb716e5b03c8a306adb1a6c6075e7f241a8cf33161741fecbd9f5b886bbb0",
       "c94dbb4bb11fbc67a68689063a003f4343a0087a9f4a369adf5930530cf3dce6"
     ],
-    "paragraph_count": 366
+    "paragraph_count": 367
   },
-  "overview_commit": "371c50f3e04966894c50817df8dae28947ea4cad",
-  "overview_digest": "3c46fe3d7093439eea5b31decde622293305fb6fed79a0b31d18b85be20e419e",
+  "overview_commit": "bb8e3ffe5e7d64093208f4aedd7a89c3d11a6600",
+  "overview_digest": "36c807ee216a85e799b6a7d5f2270e4e1abaf7630fd0b8b012b8efbf8c8e33d9",
   "paragraphs": [
+    {
+      "id": "9bf460c6cf20cf0fda0151569e4bca06649f121f8e70aba8876561e8751d6cb2",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics",
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[686-jefferson-the-betrayal-of-liberty-part-4-glt6535571769|686. Jefferson: The Betrayal of Liberty (Part 4)]], a [[TheRestIsHistory]] episode closing its Founding Fathers sequence through [[ThomasJefferson|Thomas Jefferson]], [[SallyHemings|Sally Hemings]], and [[Monticello]]. It adds [[ThomasJefferson]], [[SallyHemings]], [[Monticello]], [[JamesCallender]], [[MadisonHemings]], [[AnnetteGordonReed]], [[ThomasJeffersonFoundation]], [[DeclarationOfIndependence]], [[LouisianaPurchase]], [[LewisAndClarkExpedition]], [[DemocraticRepublicanParty]], [[FederalistParty]], [[FirstPartySystem]], [[PeacefulTransferOfPower]], [[JeffersonianLibertyContradiction]], [[CoercedConsentUnderSlavery]], and [[FoundingFatherReputationRevision]], while extending [[UnitedStates]], [[UnitedStatesConstitution]], [[AmericanDemocraticResilience]], [[HistoricalMemoryContest]], [[AlexanderHamilton]], [[AaronBurr]], [[FrenchRevolution]], and [[JohnLocke]]. Its core synthesis is that Jefferson's democratic achievement and slavery cannot be separated: he genuinely articulated liberty, party government, peaceful transfer, and expansion, yet preserved Monticello, debt, family hierarchy, and a coercive relationship with Hemings through enslaved labor. No settled contradiction is recorded; Jefferson's inner motives and Hemings's reasons for returning from France remain source-scoped where the episode marks them as unrecoverable.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 2,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "686-jefferson-the-betrayal-of-liberty-part-4-glt6535571769",
+        "AaronBurr",
+        "AlexanderHamilton",
+        "AmericanDemocraticResilience",
+        "AnnetteGordonReed",
+        "CoercedConsentUnderSlavery",
+        "DeclarationOfIndependence",
+        "DemocraticRepublicanParty",
+        "FederalistParty",
+        "FirstPartySystem",
+        "FoundingFatherReputationRevision",
+        "FrenchRevolution",
+        "HistoricalMemoryContest",
+        "JamesCallender",
+        "JeffersonianLibertyContradiction",
+        "JohnLocke",
+        "LewisAndClarkExpedition",
+        "LouisianaPurchase",
+        "MadisonHemings",
+        "Monticello",
+        "PeacefulTransferOfPower",
+        "SallyHemings",
+        "TheRestIsHistory",
+        "ThomasJefferson",
+        "ThomasJeffersonFoundation",
+        "UnitedStates",
+        "UnitedStatesConstitution"
+      ]
+    },
     {
       "id": "d6d0975d88c73cc06e30e1905981dcf71f09061d5988d627ac1ebf0bfce6b65f",
       "primary_topic": "history-and-geopolitics",

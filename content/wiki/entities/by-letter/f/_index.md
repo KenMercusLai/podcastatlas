@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 8289
+wiki_total_pages: 8301
 wiki_pages:
   - key: "FortyThreeTalks"
     title: "43talks"
@@ -107,6 +107,9 @@ wiki_pages:
   - key: "FederalTradeCommission"
     title: "Federal Trade Commission"
     url: "/wiki/entities/federaltradecommission/"
+  - key: "FederalistParty"
+    title: "Federalist Party"
+    url: "/wiki/entities/federalistparty/"
   - key: "FedEx"
     title: "FedEx"
     url: "/wiki/entities/fedex/"

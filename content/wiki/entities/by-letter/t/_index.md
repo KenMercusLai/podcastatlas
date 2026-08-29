@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 8289
+wiki_total_pages: 8301
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -449,6 +449,12 @@ wiki_pages:
   - key: "ThomasJWatson"
     title: "Thomas J. Watson / 托马斯·沃森"
     url: "/wiki/entities/thomasjwatson/"
+  - key: "ThomasJefferson"
+    title: "Thomas Jefferson"
+    url: "/wiki/entities/thomasjefferson/"
+  - key: "ThomasJeffersonFoundation"
+    title: "Thomas Jefferson Foundation"
+    url: "/wiki/entities/thomasjeffersonfoundation/"
   - key: "ThomasPaine"
     title: "Thomas Paine / 托马斯·潘恩"
     url: "/wiki/entities/thomaspaine/"

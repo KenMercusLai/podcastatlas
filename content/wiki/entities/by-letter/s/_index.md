@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 8289
+wiki_total_pages: 8301
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -68,6 +68,9 @@ wiki_pages:
   - key: "SalinasValley"
     title: "Salinas Valley"
     url: "/wiki/entities/salinasvalley/"
+  - key: "SallyHemings"
+    title: "Sally Hemings"
+    url: "/wiki/entities/sallyhemings/"
   - key: "SalmaFotovat"
     title: "Salma Fotovat"
     url: "/wiki/entities/salmafotovat/"

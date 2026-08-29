@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 8289
+wiki_total_pages: 8301
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -251,6 +251,9 @@ wiki_pages:
   - key: "LeviCase"
     title: "Levi Case"
     url: "/wiki/entities/levicase/"
+  - key: "LewisAndClarkExpedition"
+    title: "Lewis and Clark Expedition"
+    url: "/wiki/entities/lewisandclarkexpedition/"
   - key: "LewisCarroll"
     title: "Lewis Carroll / 刘易斯·卡罗尔"
     url: "/wiki/entities/lewiscarroll/"
@@ -560,6 +563,9 @@ wiki_pages:
   - key: "Louisiana"
     title: "Louisiana"
     url: "/wiki/entities/louisiana/"
+  - key: "LouisianaPurchase"
+    title: "Louisiana Purchase"
+    url: "/wiki/entities/louisianapurchase/"
   - key: "Lovable"
     title: "Lovable"
     url: "/wiki/entities/lovable/"

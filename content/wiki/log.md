@@ -13153,6 +13153,10 @@ Ingested the Marketplace Tech episode on Meta's proposed teen-safety settlement,
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-29] ingest | 686. Jefferson: The Betrayal of Liberty (Part 4)
+
+Ingested the 2026-07-08 The Rest Is History episode on Thomas Jefferson's authorship of the Declaration of Independence, first-party politics, the election of 1800, the Louisiana Purchase, Sally Hemings, Monticello, slavery, and the modern reassessment of Jefferson's reputation. Created the source note plus `ThomasJefferson`, `SallyHemings`, `Monticello`, `JamesCallender`, `MadisonHemings`, `AnnetteGordonReed`, `ThomasJeffersonFoundation`, `DeclarationOfIndependence`, `LouisianaPurchase`, `LewisAndClarkExpedition`, `DemocraticRepublicanParty`, `FederalistParty`, `FirstPartySystem`, `PeacefulTransferOfPower`, `JeffersonianLibertyContradiction`, `CoercedConsentUnderSlavery`, and `FoundingFatherReputationRevision`; updated `index` and `overview`. No settled contradiction found; Jefferson's inner motives and Hemings's reasons for returning from France remain source-scoped.
+
 ## [2026-08-29] ingest | 《资治通鉴·汉纪》803丨汉顺帝如何在腥风血雨中登上皇位？
 
 Ingested the 2026-07-09 芮淇讲透资治通鉴 episode on Ban Yong's 125 CE Cheshi Hou campaign, Beixiang Hou Liu Yi's illness and concealed death, Yan Taihou's attempt to summon another successor, Sun Cheng's West Bell Tower oath and Zhangtai Gate coup, Li Run's coerced alignment, Feng Shi's noncommitment, Guo Zhen's capture of Yan Jin, and Emperor Shun's accession. Created the source note plus `LiuYiBeixiangHouLateHan`, `LiRunLateHan`, `FengShiLateHan`, and `GuoZhenLateHan`; updated `EmperorShunOfHan`, `SunChengLateHan`, `YanXianLateHan`, `EmpressDowagerYanLateHan`, `BanYongLateHan`, `CheshiHouKingdomLateHan`, `PalaceCoupSymbolControl`, `ImperialDeathConcealment`, `SuccessionLegitimacyPurge`, `index`, and `overview`. No settled contradiction found; Liu Yi is disambiguated from `LiuYiLateHan`, Wang Guo remains `WangGuoEunuchLateHan`, and minor coup, Yan-family, Western Regions, and endurance-frame details remain source-scoped.
@@ -13476,6 +13480,10 @@ Ingested the 2026-07-09 芮淇讲透资治通鉴 episode on 125 CE Emperor An's 
 ## [2026-08-29] ingest | Essentials: The Science & Treatment of Obsessive Compulsive Disorder (OCD)
 
 Ingested the 2026-07-09 Huberman Lab Essentials episode on OCD obsessions, compulsions, anxiety reinforcement, corticostriatal-thalamic circuitry, Y-BOCS assessment, exposure-response prevention, SSRIs, TMS, cannabis/CBD, mindfulness, and myo-inositol. Created the source note plus `HelenBlairSimpson`, `YaleBrownObsessiveCompulsiveScale`, `ObsessiveCompulsiveDisorder`, `OCDCompulsionReinforcementLoop`, `ExposureResponsePreventionForOCD`, and `CorticostriatalThalamicLoop`; updated `HubermanLab`, `AndrewHuberman`, `PsychiatricMedicationSupervisionBoundary`, `index`, and `overview`. No settled contradiction found; medication, cannabis/CBD, TMS, mindfulness, and supplement claims remain source-scoped and clinically bounded.
+
+## [2026-08-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-29] lint | Wiki health check
 

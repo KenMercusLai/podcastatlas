@@ -4,15 +4,15 @@ generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
 last_updated: 2026-08-29
-as_of_overview_commit: 371c50f3e04966894c50817df8dae28947ea4cad
-input_digest: 992772970ca1821f7c130b53a9dfad7b1475e6a8920bebc966dee462024ec7b4
+as_of_overview_commit: bb8e3ffe5e7d64093208f4aedd7a89c3d11a6600
+input_digest: b482692b6969f8e2b76d3c08c4ff300653457aac31847698821d118d1576cc9a
 ---
 
 # Work, Education, and Society
 
 ## Current State
 
-A Hanji 806 historical access-and-relationship case adds that correct claims need usable channels, public witnesses, and hierarchy-aware merit handling before they become institutional action. A Hanji 813 historical office-boundary example adds that role dignity, title rules, and feedback channels also shape institutional capacity. The OCD episode adds a source-scoped public-health education case: mechanism and assessment language can orient action, but exposure practice and treatment planning stay clinically bounded. Work, education, and society sources converge on a practical pattern: durable capability comes from bounded institutions, active learning, realistic workplace judgment, human feedback loops, social trust, pacing, and environments that let people act under real constraints.
+The Jefferson-Hemings material adds a secondary society case: family, labor, and relationship claims need explicit attention to legal power and coercive status. A Hanji 806 historical access-and-relationship case adds that correct claims need usable channels, public witnesses, and hierarchy-aware merit handling before they become institutional action. A Hanji 813 historical office-boundary example adds that role dignity, title rules, and feedback channels also shape institutional capacity. The OCD episode adds a source-scoped public-health education case: mechanism and assessment language can orient action, but exposure practice and treatment planning stay clinically bounded. Work, education, and society sources converge on a practical pattern: durable capability comes from bounded institutions, active learning, realistic workplace judgment, human feedback loops, social trust, pacing, and environments that let people act under real constraints.
 
 ## Cross-source Findings
 
@@ -111,3 +111,15 @@ Several sources frame sustainable performance as pacing under constraints: [[Sus
 **Qualifications:**
 
 - The pacing examples span health Q&A, finance-worker consumption, and workplace commentary, so the synthesis should not collapse them into a single productivity rule.
+
+### Jefferson Hemings Relationship Requires Power Context
+
+As a secondary work-and-society input, [[686-jefferson-the-betrayal-of-liberty-part-4-glt6535571769|Jefferson Part 4]] shows that family, labor, and relationship interpretation must account for legal power: [[SallyHemings]]'s return from France, children, and household position are framed through [[CoercedConsentUnderSlavery]], [[ThomasJefferson]], and [[Monticello]] rather than ordinary free choice.
+
+**Evidence:** [[686-jefferson-the-betrayal-of-liberty-part-4-glt6535571769]], [[SallyHemings]], [[CoercedConsentUnderSlavery]], [[ThomasJefferson]], [[Monticello]], [[MadisonHemings]], [[JeffersonianLibertyContradiction]]
+
+**Qualifications:**
+
+- The paragraph belongs primarily to governance and history; it appears here only because labor, family, and relationship language made it a secondary society input.
+- The claim is not a general theory of relationships; it is bounded to slavery, ownership, and the Jefferson-Hemings case.
+- The episode leaves Hemings's motives unresolved while treating coercive power as structurally decisive.

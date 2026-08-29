@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [686. Jefferson: The Betrayal of Liberty (Part 4)](sources/686-jefferson-the-betrayal-of-liberty-part-4-glt6535571769.md) — The Rest Is History episode on Thomas Jefferson's liberty language, first-party politics, presidency, Sally Hemings evidence, Monticello, slavery, and founding memory.
 - [Essentials: The Science & Treatment of Obsessive Compulsive Disorder (OCD)](sources/essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647.md) — Huberman Lab Essentials episode on OCD obsessions, compulsions, anxiety reinforcement, corticostriatal-thalamic circuitry, Y-BOCS assessment, exposure-response prevention, SSRIs, TMS, and clinical supervision boundaries.
 - [《资治通鉴·汉纪》802丨安帝之死！东汉王朝权力大洗牌！](sources/zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj.md) — 芮淇讲透资治通鉴 episode on the 125 CE death of Emperor An, Yan Taihou and Yan Xian's concealed-death accession of Beixiang Hou, Liu Bao's exclusion, and the Yan-family purge of Geng Bao, Fan Feng, and Wang Sheng.
 - [《资治通鉴·汉纪》803丨汉顺帝如何在腥风血雨中登上皇位？](sources/zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s.md) — 芮淇讲透资治通鉴 episode on the 125 CE concealed-death succession race after Beixiang Hou Liu Yi's death, Sun Cheng's Zhangtai Gate coup, Li Run's coerced alignment, Yan Xian's failed counterattack, Guo Zhen's arrest of Yan Jin, and Ban Yong's Cheshi Hou campaign.
@@ -1691,6 +1692,18 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Thomas Jefferson](entities/ThomasJefferson.md) — Founder and third U.S. president whose liberty language, party politics, Monticello slaveholding, and Hemings relationship define the episode's contradiction.
+- [Sally Hemings](entities/SallyHemings.md) — Enslaved Monticello woman whose relationship with Jefferson is framed through family, law, evidence, and coercive power.
+- [Monticello](entities/Monticello.md) — Jefferson's Virginia plantation and architectural project, read as both Enlightenment monument and slavery-dependent estate.
+- [James Callender](entities/JamesCallender.md) — Journalist who publicly aired the 1802 Jefferson-Hemings allegation later reassessed by evidence.
+- [Madison Hemings](entities/MadisonHemings.md) — Sally Hemings's son whose testimony preserved key family and Paris-return claims.
+- [Annette Gordon-Reed](entities/AnnetteGordonReed.md) — Historian whose archival chronology helped shift the Jefferson-Hemings consensus.
+- [Thomas Jefferson Foundation](entities/ThomasJeffersonFoundation.md) — Public-history institution cited as accepting the Jefferson-Hemings paternity consensus.
+- [Declaration of Independence](entities/DeclarationOfIndependence.md) — Founding document whose liberty language anchors Jefferson's achievement and contradiction.
+- [Louisiana Purchase](entities/LouisianaPurchase.md) — Jefferson-era territorial acquisition that combined presidential consequence with constitutional tension.
+- [Lewis and Clark Expedition](entities/LewisAndClarkExpedition.md) — Jefferson-commissioned western exploration project linking scientific inquiry and imperial ambition.
+- [Democratic-Republican Party](entities/DemocraticRepublicanParty.md) — Jefferson's founding-era party vehicle opposed to Hamiltonian Federalists.
+- [Federalist Party](entities/FederalistParty.md) — Founding-era party rival to Jefferson's Democratic-Republicans in the 1796 and 1800 contests.
 - [汉安帝 / Emperor An of Han](entities/EmperorAnOfHan.md) — Eastern Han ruler whose sudden 125 CE death on tour triggers the Yan-backed succession crisis before Emperor Shun's restoration.
 - [耿宝 / Geng Bao (Grand General, late Han)](entities/GengBaoGrandGeneralLateHan.md) — Emperor An's high-prestige Grand General relative purged after the Yan-backed Beixiang Hou accession.
 - [樊丰 / Fan Feng (late Han eunuch)](entities/FanFengEunuchLateHan.md) — Eunuch participant in An's death-concealment circle who is later executed in Yan Xian's cleanup of old power networks.
@@ -9984,6 +9997,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [First Party System](concepts/FirstPartySystem.md) — Founding-era U.S. party competition between Jeffersonian Democratic-Republicans and Federalists.
+- [Peaceful Transfer of Power](concepts/PeacefulTransferOfPower.md) — Democratic norm illustrated by the bitter but constitutional 1800 transfer from Federalists to Jefferson.
+- [Jeffersonian Liberty Contradiction](concepts/JeffersonianLibertyContradiction.md) — Problem of Jefferson articulating universal liberty while preserving a slaveholding household and estate.
+- [Coerced Consent Under Slavery](concepts/CoercedConsentUnderSlavery.md) — Frame for why an enslaved person's intimate choices under ownership cannot be read as ordinary free consent.
+- [Founding Father Reputation Revision](concepts/FoundingFatherReputationRevision.md) — Evidence-bound reassessment of revered founders when minimized harms become central.
 - [Power Monopoly Backfire / 一家独大式权力反噬](concepts/PowerMonopolyBackfire.md) — Hanji 802 court-politics pattern where a winning faction destroys balance by excluding allies and threatening remaining powerholders.
 - [Defeated Dowager Legitimacy Management / 失势太后名分处置](concepts/DefeatedDowagerLegitimacyManagement.md) — Pattern where a winning succession camp protects its own legitimacy by ritually honoring a defeated dowager while containing her former power network.
 - [军功归属错置 / Command Credit Misattribution](concepts/CommandCreditMisattribution.md) — Failure mode where visible surrender timing and reporting assign campaign credit or blame away from the underlying plan and incentives.

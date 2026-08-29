@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5924
+wiki_total_pages: 5929
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -242,6 +242,9 @@ wiki_pages:
   - key: "PeaceParleyEntrapment"
     title: "Peace-Parley Entrapment / 和谈诱捕"
     url: "/wiki/concepts/peaceparleyentrapment/"
+  - key: "PeacefulTransferOfPower"
+    title: "Peaceful Transfer of Power"
+    url: "/wiki/concepts/peacefultransferofpower/"
   - key: "PeakValleyAIInferencePricing"
     title: "Peak-Valley AI Inference Pricing"
     url: "/wiki/concepts/peakvalleyaiinferencepricing/"

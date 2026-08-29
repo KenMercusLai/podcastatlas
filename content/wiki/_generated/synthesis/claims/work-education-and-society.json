@@ -151,8 +151,28 @@
         "LifestyleCostRationalization",
         "DeepSeek"
       ]
+    },
+    {
+      "global_candidate": false,
+      "id": "jefferson-hemings-relationship-requires-power-context",
+      "qualifications": [
+        "The paragraph belongs primarily to governance and history; it appears here only because labor, family, and relationship language made it a secondary society input.",
+        "The claim is not a general theory of relationships; it is bounded to slavery, ownership, and the Jefferson-Hemings case.",
+        "The episode leaves Hemings's motives unresolved while treating coercive power as structurally decisive."
+      ],
+      "statement": "As a secondary work-and-society input, [[686-jefferson-the-betrayal-of-liberty-part-4-glt6535571769|Jefferson Part 4]] shows that family, labor, and relationship interpretation must account for legal power: [[SallyHemings]]'s return from France, children, and household position are framed through [[CoercedConsentUnderSlavery]], [[ThomasJefferson]], and [[Monticello]] rather than ordinary free choice.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "686-jefferson-the-betrayal-of-liberty-part-4-glt6535571769",
+        "SallyHemings",
+        "CoercedConsentUnderSlavery",
+        "ThomasJefferson",
+        "Monticello",
+        "MadisonHemings",
+        "JeffersonianLibertyContradiction"
+      ]
     }
   ],
-  "summary": "A Hanji 806 historical access-and-relationship case adds that correct claims need usable channels, public witnesses, and hierarchy-aware merit handling before they become institutional action. A Hanji 813 historical office-boundary example adds that role dignity, title rules, and feedback channels also shape institutional capacity. The OCD episode adds a source-scoped public-health education case: mechanism and assessment language can orient action, but exposure practice and treatment planning stay clinically bounded. Work, education, and society sources converge on a practical pattern: durable capability comes from bounded institutions, active learning, realistic workplace judgment, human feedback loops, social trust, pacing, and environments that let people act under real constraints.",
+  "summary": "The Jefferson-Hemings material adds a secondary society case: family, labor, and relationship claims need explicit attention to legal power and coercive status. A Hanji 806 historical access-and-relationship case adds that correct claims need usable channels, public witnesses, and hierarchy-aware merit handling before they become institutional action. A Hanji 813 historical office-boundary example adds that role dignity, title rules, and feedback channels also shape institutional capacity. The OCD episode adds a source-scoped public-health education case: mechanism and assessment language can orient action, but exposure practice and treatment planning stay clinically bounded. Work, education, and society sources converge on a practical pattern: durable capability comes from bounded institutions, active learning, realistic workplace judgment, human feedback loops, social trust, pacing, and environments that let people act under real constraints.",
   "topic_id": "work-education-and-society"
 }

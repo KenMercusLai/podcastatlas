@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 5924
+wiki_total_pages: 5929
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -413,6 +413,9 @@ wiki_pages:
   - key: "FirstDraftThinking"
     title: "First Draft Thinking"
     url: "/wiki/concepts/firstdraftthinking/"
+  - key: "FirstPartySystem"
+    title: "First Party System"
+    url: "/wiki/concepts/firstpartysystem/"
   - key: "FirstPrinciplesManufacturing"
     title: "First Principles Manufacturing"
     url: "/wiki/concepts/firstprinciplesmanufacturing/"
@@ -803,6 +806,9 @@ wiki_pages:
   - key: "FounderLedSoftwareGlobalization"
     title: "Founder-Led Software Globalization"
     url: "/wiki/concepts/founderledsoftwareglobalization/"
+  - key: "FoundingFatherReputationRevision"
+    title: "Founding Father Reputation Revision"
+    url: "/wiki/concepts/foundingfatherreputationrevision/"
   - key: "FourExchangeHongKongMarketFragmentation"
     title: "Four-Exchange Hong Kong Market Fragmentation / 香港四会并列市场碎片化"
     url: "/wiki/concepts/fourexchangehongkongmarketfragmentation/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 5924
+wiki_total_pages: 5929
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -836,6 +836,9 @@ wiki_pages:
   - key: "CoercedConfessionTrap"
     title: "Coerced Confession Trap / 逼供认罪陷阱"
     url: "/wiki/concepts/coercedconfessiontrap/"
+  - key: "CoercedConsentUnderSlavery"
+    title: "Coerced Consent Under Slavery"
+    url: "/wiki/concepts/coercedconsentunderslavery/"
   - key: "CoercedDenunciation"
     title: "Coerced Denunciation"
     url: "/wiki/concepts/coerceddenunciation/"

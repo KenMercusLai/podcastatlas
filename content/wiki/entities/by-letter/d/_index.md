@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 8289
+wiki_total_pages: 8301
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -311,6 +311,9 @@ wiki_pages:
   - key: "Deckers"
     title: "Deckers"
     url: "/wiki/entities/deckers/"
+  - key: "DeclarationOfIndependence"
+    title: "Declaration of Independence"
+    url: "/wiki/entities/declarationofindependence/"
   - key: "DecoBarcelos"
     title: "Deco (Barcelos piabero)"
     url: "/wiki/entities/decobarcelos/"
@@ -380,6 +383,9 @@ wiki_pages:
   - key: "DemocraticSocialistsOfAmerica"
     title: "Democratic Socialists of America"
     url: "/wiki/entities/democraticsocialistsofamerica/"
+  - key: "DemocraticRepublicanParty"
+    title: "Democratic-Republican Party"
+    url: "/wiki/entities/democraticrepublicanparty/"
   - key: "Democritus"
     title: "Democritus / 德谟克利特"
     url: "/wiki/entities/democritus/"

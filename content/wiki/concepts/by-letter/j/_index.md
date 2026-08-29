@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "j"
-wiki_total_pages: 5924
+wiki_total_pages: 5929
 wiki_pages:
   - key: "JankyMVP"
     title: "Janky MVP"
@@ -137,6 +137,9 @@ wiki_pages:
   - key: "JargonBoundaryMaking"
     title: "Jargon Boundary Making"
     url: "/wiki/concepts/jargonboundarymaking/"
+  - key: "JeffersonianLibertyContradiction"
+    title: "Jeffersonian Liberty Contradiction"
+    url: "/wiki/concepts/jeffersonianlibertycontradiction/"
   - key: "JevonsParadoxInAI"
     title: "Jevons Paradox In AI"
     url: "/wiki/concepts/jevonsparadoxinai/"

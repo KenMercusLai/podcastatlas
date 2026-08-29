@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1501
+topic_total_pages: 1504
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -334,6 +334,9 @@ topic_concepts:
   - key: "FounderNarrativeReliability"
     title: "Founder Narrative Reliability"
     url: "/wiki/concepts/foundernarrativereliability/"
+  - key: "FoundingFatherReputationRevision"
+    title: "Founding Father Reputation Revision"
+    url: "/wiki/concepts/foundingfatherreputationrevision/"
   - key: "FourSidedChuSongs"
     title: "Four-Sided Chu Songs / 四面楚歌"
     url: "/wiki/concepts/foursidedchusongs/"
@@ -1646,6 +1649,9 @@ topic_entities:
   - key: "ThomasJWatson"
     title: "Thomas J. Watson / 托马斯·沃森"
     url: "/wiki/entities/thomasjwatson/"
+  - key: "ThomasJeffersonFoundation"
+    title: "Thomas Jefferson Foundation"
+    url: "/wiki/entities/thomasjeffersonfoundation/"
   - key: "ThreateFillingStation"
     title: "Threate Filling Station"
     url: "/wiki/entities/threatefillingstation/"
@@ -3681,6 +3687,9 @@ topic_sources:
   - key: "65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922"
     title: "65.龙王之怒：1931年的长江洪水"
     url: "/wiki/sources/65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922/"
+  - key: "686-jefferson-the-betrayal-of-liberty-part-4-glt6535571769"
+    title: "686. Jefferson: The Betrayal of Liberty (Part 4)"
+    url: "/wiki/sources/686-jefferson-the-betrayal-of-liberty-part-4-glt6535571769/"
   - key: "689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702"
     title: "689. A Murderous Affair: The Habsburgs' Greatest Scandal (Part 1)"
     url: "/wiki/sources/689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702/"

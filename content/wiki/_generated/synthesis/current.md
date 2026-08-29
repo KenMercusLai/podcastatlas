@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-29
-as_of_overview_commit: 371c50f3e04966894c50817df8dae28947ea4cad
-summary: "Durable value comes from fitting capability to trusted context, evidence, workflows, institutions, supervision boundaries, and execution under real risk."
-episode_count: 1683
-source_count: 1683
-paragraph_count: 366
+as_of_overview_commit: bb8e3ffe5e7d64093208f4aedd7a89c3d11a6600
+summary: "Durable value comes from matching capability and ideals to evidence, trusted context, institutions, supervision boundaries, and execution under real constraints."
+episode_count: 1684
+source_count: 1684
+paragraph_count: 367
 topic_count: 8
 ---
 
@@ -18,11 +18,11 @@ topic_count: 8
 
 - AI creates durable value when model capability is embedded in real workflows through [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AIOfficeAgent]], [[AgentFacingInterfaces]], [[AgenticSystemOfRecordMoat]], [[PersistentCloudAgents]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AgentHarness]], [[AgenticDataEngineeringHarness]], and [[TokenEfficientAgentWorkflow]] rather than left as isolated chat or generation.
 - [[CustomerPull]], [[ProductLedWillingnessToPay]], and [[PreProductSelling]] become durable only when distribution, buyer-commitment, payment proof, and operating gates such as [[CPGDistribution]], [[RetailLineReview]], [[PlanogramGatekeeping]], [[RetailPricePointProductScoping]], [[MassRetailProductionDeadline]], [[EnterprisePOCDiscipline]], [[EnterpriseCustomerAsMarket]], [[AIOfficeAgent]], [[RobotRepurchaseDemand]], [[RobotTrainingCenters]], [[EgocentricRobotData]], [[FounderPitchEvidenceFit]], [[SmallRetailerChannelTest]], [[NicheOriginStoryExpansion]], and [[MissionAlignedVendorSwitching]] can repeatedly deliver value after initial attention.
-- Technical or creative capability becomes market value only after operational translation: [[ForwardDeployedEngineer]], [[ChineseStyleFDE]], [[BusinessLedAITransformation]], [[EnterpriseAIPilotPurgatory]], [[EnterpriseAIROIAudit]], [[AIDataReadiness]], [[DataFoundationFirstAIStrategy]], [[MidMarketDataTalentGap]], [[DataTeamAsBusinessPartner]], [[DataSovereignty]], [[ParadoxMachines]], [[RetrievalAugmentedGeneration]], [[DigitalEmployees]], [[AIEngineeringThinking]], [[AICodingVerification]], [[AIOfficeAgent]], [[AgentHarness]], [[AgentFacingInterfaces]], [[AgenticSystemOfRecordMoat]], [[AIGameIndustrialization]], [[AIForScience]], [[CausalWorldModels]], [[HumanoidRobotCommercialization]], [[RealRobotDataStrategy]], [[RobotTrainingCenters]], and [[EgocentricRobotData]] all make capability depend on workflow fit, customer authority, evidence, verification, interfaces, prepared data, ownership, senior expertise, experiments, grounded data, scene fit, or repeated use.
 - [[PoliticalConditionAsHumanExperiment]] uses fiction to expose how political conditions, speed, exile, public performance, rule systems, and dependency reshape human behavior.
-- State capacity appears as enforceable controls over appointments, territory, households, standards, symbols, and punishment, but [[PowerExitTrap|exit traps]] and backlash show that control does not automatically create social support.
+- [[686-jefferson-the-betrayal-of-liberty-part-4-glt6535571769|Jefferson Part 4]] adds a founding U.S. governance case: [[ThomasJefferson]] articulates liberty through the [[DeclarationOfIndependence]], party competition through the [[FirstPartySystem]], and democratic continuity through [[PeacefulTransferOfPower]], while [[Monticello]], [[SallyHemings]], [[JeffersonianLibertyContradiction]], and [[CoercedConsentUnderSlavery]] show that institutional ideals can coexist with slaveholding power and coercive household rule.
+- [[UnderseaDataCables]] show contemporary geopolitics moving into physical internet routes: [[UnitedStates]] funding for [[Caribbean]] and [[CentralAmerica]] cable replacement, competition with [[China]], vendor concerns involving [[Russia]], [[CableLandingPointSecurity]], and [[CableNetworkResilience]] make cloud and financial connectivity part of strategic infrastructure rather than only telecom operations.
+- [[neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716]] adds a functional emotion-regulation branch: [[EmotionsAsFunctionalControlStates]] treats emotions as useful control states for decision and motivation, while [[EmotionalGranularity]], [[CognitiveReappraisalEarlyIntervention]], [[AutonomicStressTraining]], and [[TaskSwitchingResidue]] frame regulation as monitoring, differentiating, reframing early, shaping environments, respecting body signals, and managing transition costs rather than removing emotion.
 - [[MissedDiagnosisRisk]] is mitigated less by maximal testing than by [[DiagnosticSafetyNetting]]: [[MedicalDiagnosticReasoning]], [[DoctorPatientCommunication]], and [[SecondOpinionStrategy]] keep first-visit uncertainty active through suspected diagnoses, unexcluded dangers, return or emergency triggers, report tracking, and qualified second opinions.
-- [[ObsessiveCompulsiveDisorder]] adds a psychiatric-risk branch: [[OCDCompulsionReinforcementLoop]], [[CorticostriatalThalamicLoop]], [[YaleBrownObsessiveCompulsiveScale]], and [[ExposureResponsePreventionForOCD]] frame OCD as intrusive obsessions, anxiety-linked compulsive relief, assessment, neural circuitry, and supervised exposure treatment rather than personality quirk, ordinary preference, or self-directed ritual suppression.
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough.
 
 ## Synthesis by Domain
@@ -49,14 +49,14 @@ Cultural sources use literature, media, folklore, games, and platform stories to
 
 ### Governance and Institutions
 
-Governance sources center translation from authority into enforceable order through appointments, titles, procedures, audits, symbols, local legitimacy, and bounded exits.
+Governance sources center translation from authority and ideals into enforceable order through appointments, elections, titles, procedures, audits, symbols, local legitimacy, and honest treatment of coercive power.
 
 - The California data-broker branch shows that privacy rights depend on compliance workflows: [[CaliforniaDeleteAct]], [[DeleteRequestAndOptOutPlatform]], [[ConsumerDataDeletion]], [[DataBrokerComplianceGap]], and [[CaliforniaPrivacyProtectionAgency]] connect centralized deletion, broker registration, reporting duties, request friction, agency capacity, and private-lawsuit proposals into one implementation problem. Evidence: [[CaliforniaDeleteAct]], [[DeleteRequestAndOptOutPlatform]], [[ConsumerDataDeletion]], [[DataBrokerComplianceGap]], [[CaliforniaPrivacyProtectionAgency]], [[tech-20260825-mp-tech-pod-128-tech-20260825-mp-tech-pod-128]].
 - The early-Han sequence shows victory turning into governance only through family order, capital choice, exit management, reward ranking, ritual hierarchy, frontier containment, [[HanXiongnuHeqinPolicy|heqin]] diplomacy, vassal rollback, investigation-triggered rebellion risk, and finally the failure of personal trust in [[LuWan|Lu Wan]]'s Yan kingship. Evidence: [[LiuBang]], [[StrategicCapitalRelocation]], [[LiAsPoliticalOrder]], [[BaidengEncirclement]], [[HanXiongnuHeqinPolicy]], [[DifferentSurnameKingSuspicion]], [[HuainanKingdomEarlyHan]], [[InvestigationDrivenRebellionEscalation]], [[LuWan]], [[YanState]].
 
 ### History and Geopolitics
 
-History and geopolitics sources show legitimacy, succession, alliances, logistics, palace access, merit management, infrastructure, and sovereignty lasting only when backed by credible systems and local order.
+History and geopolitics sources show legitimacy, succession, alliances, logistics, palace access, expansion, infrastructure, and sovereignty lasting only when backed by credible systems and local order.
 
 - [[UnderseaDataCables]] show contemporary geopolitics moving into physical internet routes: [[UnitedStates]] funding for [[Caribbean]] and [[CentralAmerica]] cable replacement, competition with [[China]], vendor concerns involving [[Russia]], [[CableLandingPointSecurity]], and [[CableNetworkResilience]] make cloud and financial connectivity part of strategic infrastructure rather than only telecom operations. Evidence: [[UnderseaDataCables]], [[UnitedStates]], [[Caribbean]], [[CentralAmerica]], [[China]], [[Russia]], [[CableLandingPointSecurity]], [[CableNetworkResilience]], [[TrustedNetworkGeopolitics]], [[DigitalInfrastructureWarRisk]], [[RegionalNetworkTopologyRisk]], [[AsymmetricInfrastructureAttack]], [[MarketplaceTech]], [[ErinMurphy]], [[tech-20260820-tech-pod-128-tech-20260820-tech-pod-128]].
 - The Hanji 992, 1002, and 1015-1016 branch makes late-Han title order a strategic condition: [[EmperorXianOfHan]]'s ruined Anyi and Chang'an context keeps [[MingqiLegitimacy]] symbolically active but materially thin, [[JuShou]] sees [[LegitimacyWindowSeizure]] for [[YuanShao]] before [[GuoTu]] and [[ChunyuQiong]] help Yuan Shao miss it, [[SunCe]] treats [[YuanShu]]'s planned imperial title as a [[MoralizedWarPretext]] and exits, [[XunYu]] turns the emperor's recognition into [[LegitimacyWindowSeizure]] for [[CaoCao]], Yuan Shu's later Shouchun claim outruns [[TitleRealityRestraint]] and creates [[AntiUsurpationCoalitionPressure]], and [[ChenGui]] blocks [[MarriageAllianceWarExposure]] around [[LyuBu]] and [[Xuzhou]]. Evidence: [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz]], [[EmperorXianOfHan]], [[ChangAnHanCapital]], [[GuanzhongRegion]], [[MingqiLegitimacy]], [[JuShou]], [[LegitimacyWindowSeizure]], [[YuanShao]], [[GuoTu]], [[ChunyuQiong]], [[WartimeAgriculturalLaborCollapse]], [[FamineEntitlementFailure]], [[SunCe]], [[YuanShu]], [[MoralizedWarPretext]], [[XunYu]], [[CaoCao]], [[TitleRealityRestraint]], [[AntiUsurpationCoalitionPressure]], [[ChenGui]], [[MarriageAllianceWarExposure]], [[LyuBu]], [[Xuzhou]], [[XingshiqingStrategicAssessment]], [[GuoJia]], [[ZhongYao]].
@@ -77,7 +77,7 @@ Science and health claims stay strongest when mechanism, measurement, escalation
 
 ### Work, Education, and Society
 
-Work and learning sources converge on effortful practice, context, verification, social trust, workable channels, pacing, health, public guidance boundaries, and institutions.
+Work and learning sources converge on effortful practice, context, verification, social trust, power-aware relationships, workable channels, pacing, health, public guidance boundaries, and institutions.
 
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough. Evidence: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], [[LearningExperienceDesign]].
 - AI and product/work sources repeatedly show that capability becomes useful only when embedded in [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]], workflows, distribution, and customer or classroom context. Evidence: [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].

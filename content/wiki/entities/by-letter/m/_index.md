@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 8289
+wiki_total_pages: 8301
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -44,6 +44,9 @@ wiki_pages:
   - key: "MadhyaPradesh"
     title: "Madhya Pradesh"
     url: "/wiki/entities/madhyapradesh/"
+  - key: "MadisonHemings"
+    title: "Madison Hemings"
+    url: "/wiki/entities/madisonhemings/"
   - key: "Maextro"
     title: "Maextro / 尊界"
     url: "/wiki/entities/maextro/"
@@ -1019,6 +1022,9 @@ wiki_pages:
   - key: "Montbell"
     title: "Montbell"
     url: "/wiki/entities/montbell/"
+  - key: "Monticello"
+    title: "Monticello"
+    url: "/wiki/entities/monticello/"
   - key: "Monzo"
     title: "Monzo"
     url: "/wiki/entities/monzo/"
