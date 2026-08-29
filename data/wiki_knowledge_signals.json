@@ -2421,9 +2421,9 @@
       "url": "/wiki/concepts/apathyactioninitiation/"
     },
     "AppointmentQualityAsStateCapacity": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》854丨历史告诉你：选官用官很重要！ [lhiN-IwK6y1XR8VvzdmnJch3s2uM].md",
@@ -2473,6 +2473,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》812丨古人40岁才能当官？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-812-guren-40-sui-caineng-dangguan-lordzuaqhzghyd93tpm0fql1cigv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》811丨古代皇帝竟靠抽签选皇后？ [lghFih9xcRjYRvDLB4OBDXvwhl1Y].md",
+          "key": "zizhi-tongjian-hanji-811-gudai-huangdi-jing-kao-chouqian-xuan-huanghou-lghfih9xcrjyrvdlb4obdxvwhl1y",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》811丨古代皇帝竟靠抽签选皇后？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-811-gudai-huangdi-jing-kao-chouqian-xuan-huanghou-lghfih9xcrjyrvdlb4obdxvwhl1y/"
         }
       ],
       "updated": "2026-08-29",
@@ -8392,9 +8399,9 @@
       "url": "/wiki/entities/emperorhuanofhan/"
     },
     "EmperorShunOfHan": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 1,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》822丨豺狼当道，他将矛头直指皇帝岳父？ [lqHpMAYVd3p07BYR_zOIv-jyhdv_].md",
@@ -8479,6 +8486,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》812丨古人40岁才能当官？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-812-guren-40-sui-caineng-dangguan-lordzuaqhzghyd93tpm0fql1cigv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》811丨古代皇帝竟靠抽签选皇后？ [lghFih9xcRjYRvDLB4OBDXvwhl1Y].md",
+          "key": "zizhi-tongjian-hanji-811-gudai-huangdi-jing-kao-chouqian-xuan-huanghou-lghfih9xcrjyrvdlb4obdxvwhl1y",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》811丨古代皇帝竟靠抽签选皇后？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-811-gudai-huangdi-jing-kao-chouqian-xuan-huanghou-lghfih9xcrjyrvdlb4obdxvwhl1y/"
         }
       ],
       "updated": "2026-08-29",
@@ -8631,9 +8645,9 @@
       "url": "/wiki/entities/empressdowagerdoumiao/"
     },
     "EmpressDowagerLiangNaLateHan": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》832丨为领导背锅，他是傻还是智？ [lmFpUIXmI4odrf6LU31RF6_66-lq].md",
@@ -8683,6 +8697,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》825丨历史告诉你：当你没用时，人性最自私",
           "url": "/wiki/sources/zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》811丨古代皇帝竟靠抽签选皇后？ [lghFih9xcRjYRvDLB4OBDXvwhl1Y].md",
+          "key": "zizhi-tongjian-hanji-811-gudai-huangdi-jing-kao-chouqian-xuan-huanghou-lghfih9xcrjyrvdlb4obdxvwhl1y",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》811丨古代皇帝竟靠抽签选皇后？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-811-gudai-huangdi-jing-kao-chouqian-xuan-huanghou-lghfih9xcrjyrvdlb4obdxvwhl1y/"
         }
       ],
       "updated": "2026-08-29",
@@ -8710,6 +8731,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/empressliangyinglatehan/"
+    },
+    "EmpressSelectionRitualLegitimacy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》811丨古代皇帝竟靠抽签选皇后？ [lghFih9xcRjYRvDLB4OBDXvwhl1Y].md",
+          "key": "zizhi-tongjian-hanji-811-gudai-huangdi-jing-kao-chouqian-xuan-huanghou-lghfih9xcrjyrvdlb4obdxvwhl1y",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》811丨古代皇帝竟靠抽签选皇后？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-811-gudai-huangdi-jing-kao-chouqian-xuan-huanghou-lghfih9xcrjyrvdlb4obdxvwhl1y/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/empressselectionrituallegitimacy/"
     },
     "EmpressSisi": {
       "episode_count": 2,
@@ -12077,9 +12114,9 @@
       "url": "/wiki/entities/hufanglatehan/"
     },
     "HuGuangLateHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》900丨职场权术都不动，该怎样生存 [lmhJwOsY4EsWyHfpPDGHfsMfycQr].md",
@@ -12108,6 +12145,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》812丨古人40岁才能当官？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-812-guren-40-sui-caineng-dangguan-lordzuaqhzghyd93tpm0fql1cigv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》811丨古代皇帝竟靠抽签选皇后？ [lghFih9xcRjYRvDLB4OBDXvwhl1Y].md",
+          "key": "zizhi-tongjian-hanji-811-gudai-huangdi-jing-kao-chouqian-xuan-huanghou-lghfih9xcrjyrvdlb4obdxvwhl1y",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》811丨古代皇帝竟靠抽签选皇后？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-811-gudai-huangdi-jing-kao-chouqian-xuan-huanghou-lghfih9xcrjyrvdlb4obdxvwhl1y/"
         }
       ],
       "updated": "2026-08-29",
@@ -16038,9 +16082,9 @@
       "url": "/wiki/entities/liangjilatehan/"
     },
     "LiangShangLateHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》821丨不懂老板心思还想晋升？没门！ [lmJXR8fDXGW-ColRLinmuJba74fh].md",
@@ -16076,6 +16120,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》813丨古代的高官竟也会被殴打？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》811丨古代皇帝竟靠抽签选皇后？ [lghFih9xcRjYRvDLB4OBDXvwhl1Y].md",
+          "key": "zizhi-tongjian-hanji-811-gudai-huangdi-jing-kao-chouqian-xuan-huanghou-lghfih9xcrjyrvdlb4obdxvwhl1y",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》811丨古代皇帝竟靠抽签选皇后？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-811-gudai-huangdi-jing-kao-chouqian-xuan-huanghou-lghfih9xcrjyrvdlb4obdxvwhl1y/"
         }
       ],
       "updated": "2026-08-29",
@@ -16985,6 +17036,36 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/localauspiciousomenfabrication/"
+    },
+    "LocalOfficialTenureStability": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》906丨厉害的人，为什么享受冲突？ [lvc3WEDriFdZdU_yv1QHOCl8usS2].md",
+          "key": "zizhi-tongjian-hanji-906-lihai-de-ren-weishenme-xiangshou-chongtu-lvc3wedrifdzdu-yv1qhocl8uss2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》906丨厉害的人，为什么享受冲突？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-906-lihai-de-ren-weishenme-xiangshou-chongtu-lvc3wedrifdzdu-yv1qhocl8uss2/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》913丨看懂“塞翁失马”，悟透人生福祸 [lkFbrwTGsJmA85BZugqONZK3Hy4g].md",
+          "key": "zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》913丨看懂“塞翁失马”，悟透人生福祸",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》811丨古代皇帝竟靠抽签选皇后？ [lghFih9xcRjYRvDLB4OBDXvwhl1Y].md",
+          "key": "zizhi-tongjian-hanji-811-gudai-huangdi-jing-kao-chouqian-xuan-huanghou-lghfih9xcrjyrvdlb4obdxvwhl1y",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》811丨古代皇帝竟靠抽签选皇后？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-811-gudai-huangdi-jing-kao-chouqian-xuan-huanghou-lghfih9xcrjyrvdlb4obdxvwhl1y/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/localofficialtenurestability/"
     },
     "LongTermAchievementDiscipline": {
       "episode_count": 3,
@@ -32568,9 +32649,9 @@
       "url": "/wiki/entities/zuoshenglatehan/"
     },
     "ZuoXiongLateHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》819丨2人功比4万人，他的权谋令人拍案叫绝！ [lsSLJ3Y_kRNd8h-c8x5pgSQeinff].md",
@@ -32592,6 +32673,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》812丨古人40岁才能当官？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-812-guren-40-sui-caineng-dangguan-lordzuaqhzghyd93tpm0fql1cigv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》811丨古代皇帝竟靠抽签选皇后？ [lghFih9xcRjYRvDLB4OBDXvwhl1Y].md",
+          "key": "zizhi-tongjian-hanji-811-gudai-huangdi-jing-kao-chouqian-xuan-huanghou-lghfih9xcrjyrvdlb4obdxvwhl1y",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》811丨古代皇帝竟靠抽签选皇后？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-811-gudai-huangdi-jing-kao-chouqian-xuan-huanghou-lghfih9xcrjyrvdlb4obdxvwhl1y/"
         }
       ],
       "updated": "2026-08-29",

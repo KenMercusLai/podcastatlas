@@ -9,16 +9,19 @@ sources:
   - zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr
   - zizhi-tongjian-hanji-817-kan-si-ruanruo-de-ren-shize-huode-geng-tongtou-llmgqys237de3dzb6ij-4szyetye
   - zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv
+  - zizhi-tongjian-hanji-811-gudai-huangdi-jing-kao-chouqian-xuan-huanghou-lghfih9xcrjyrvdlb4obdxvwhl1y
 last_updated: 2026-08-29
 ---
 
 ## Overview
 
-梁商 / Liang Shang is a Liang-family grandee whose current wiki profile now spans 133-141 CE. Hanji 813 supplies an early restraint layer: when [[EmperorShunOfHan|汉顺帝]] considers enfeoffing Liang Shang's son, Liang Shang repeatedly asks the ruler not to do it after [[ZuoXiongLateHan|左雄]] objects. Hanji 817 then adds his reluctant Grand General appointment, talent recruitment, and refusal to adopt [[LiGuLateHan|李固]]'s disaster-framed reform counsel. Hanji 818 shows him protecting [[WangGongTaiweiLateHan|王龚]] through Li Gu's argument; Hanji 820 shows legal narrowing, family appointment restraint, and Southern Xiongnu surrender strategy; Hanji 821 closes with his Ma Xian warning, frugal-burial request, Zhou Ju recommendation, and [[LiangJiLateHan|梁冀]] succession.
+梁商 / Liang Shang is a Liang-family grandee whose current wiki profile now spans 132-141 CE. Hanji 811 supplies his first elevation layer: after his daughter [[EmpressDowagerLiangNaLateHan|梁妠]] is made [[EmperorShunOfHan|汉顺帝]]'s empress, Liang Shang is made Tejin and then Zhijinwu. Hanji 813 supplies an early restraint layer: when Shun considers enfeoffing Liang Shang's son, Liang Shang repeatedly asks the ruler not to do it after [[ZuoXiongLateHan|左雄]] objects. Hanji 817 then adds his reluctant Grand General appointment, talent recruitment, and refusal to adopt [[LiGuLateHan|李固]]'s disaster-framed reform counsel. Hanji 818 shows him protecting [[WangGongTaiweiLateHan|王龚]] through Li Gu's argument; Hanji 820 shows legal narrowing, family appointment restraint, and Southern Xiongnu surrender strategy; Hanji 821 closes with his Ma Xian warning, frugal-burial request, Zhou Ju recommendation, and [[LiangJiLateHan|梁冀]] succession.
 
 ## Current Profile
 
-[[zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv|Hanji 813]] supplies the earliest current Liang Shang layer. Shun wants to grant a marquisate to Liang Shang's son in parallel with the wet-nurse [[SongELateHan|宋娥]] title, but Zuo Xiong argues that private favor should not become landed title. Liang Shang learns of the memorial and repeatedly submits requests declining the grant; Shun drops the Liang-family title attempt while still retaining Song E's title.
+[[zizhi-tongjian-hanji-811-gudai-huangdi-jing-kao-chouqian-xuan-huanghou-lghfih9xcrjyrvdlb4obdxvwhl1y|Hanji 811]] supplies the earliest current Liang Shang layer. He is introduced as Liang Na's father and a Shengshi marquis; after Liang Na is made empress, Shun grants him the special status of Tejin and later appoints him Zhijinwu. This makes Liang Shang's current profile begin with the institutional consequences of empress selection before the later restraint, protection, and frontier-strategy layers.
+
+[[zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv|Hanji 813]] supplies the next current Liang Shang layer. Shun wants to grant a marquisate to Liang Shang's son in parallel with the wet-nurse [[SongELateHan|宋娥]] title, but Zuo Xiong argues that private favor should not become landed title. Liang Shang learns of the memorial and repeatedly submits requests declining the grant; Shun drops the Liang-family title attempt while still retaining Song E's title.
 
 [[zizhi-tongjian-hanji-817-kan-si-ruanruo-de-ren-shize-huode-geng-tongtou-llmgqys237de3dzb6ij-4szyetye|Hanji 817]] supplies the next layer. After a drought and court instability, Shun appoints Liang Shang Grand General; Liang Shang claims illness for nearly a year until Taichang Huan Yan brings the appointment document to his house. The source describes Liang Shang as classically trained, humble, cautious, and talent-seeking, recruiting Li Gu and Yang Lun after taking office. Li Gu urges him to use disasters and anomalies to rectify court discipline, uphold the right way, and select loyal and worthy people, but Liang Shang does not adopt the advice.
 
@@ -34,7 +37,7 @@ Hanji 821 then supplies Liang Shang's closing layer. He warns against using [[Ma
 
 ## Key Characteristics
 
-- High Liang-family actor whose judgment is repeatedly framed as restraint rather than raw kinship extraction.
+- High Liang-family actor whose status first rises through his daughter's empress appointment before later restraint cases.
 - Father who refuses an early marquisate for his son after Zuo Xiong's title-boundary objection.
 - Reluctant high office-holder whose apparent softness is read as position-aware caution under Shun-era palace and outer-relative balance.
 - Protective intermediary who turns Li Gu's defense of Wang Gong into a ruler-facing procedural argument.
@@ -44,6 +47,8 @@ Hanji 821 then supplies Liang Shang's closing layer. He warns against using [[Ma
 
 ## Evidence
 
+- Empress-linked elevation: [[zizhi-tongjian-hanji-811-gudai-huangdi-jing-kao-chouqian-xuan-huanghou-lghfih9xcrjyrvdlb4obdxvwhl1y|Hanji 811]] says Liang Shang is made Tejin after Liang Na becomes empress.
+- Later palace-guard office: [[zizhi-tongjian-hanji-811-gudai-huangdi-jing-kao-chouqian-xuan-huanghou-lghfih9xcrjyrvdlb4obdxvwhl1y|Hanji 811]] says Liang Shang is then appointed Zhijinwu, deepening his court status before later Grand General layers.
 - Early family-title restraint: [[zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv|Hanji 813]] says Liang Shang repeatedly asks Shun not to enfeoff his son after Zuo Xiong objects to the title plan.
 - Partial title outcome: [[zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv|Hanji 813]] says Shun drops the Liang-family title attempt while still keeping Song E's title, making Liang Shang's branch the accepted half of the warning.
 - Reluctant appointment and talent recruitment: [[zizhi-tongjian-hanji-817-kan-si-ruanruo-de-ren-shize-huode-geng-tongtou-llmgqys237de3dzb6ij-4szyetye|Hanji 817]] says Liang Shang avoids the Grand General appointment through illness until Shun sends Huan Yan, and then recruits Li Gu and Yang Lun.
@@ -59,18 +64,21 @@ Hanji 821 then supplies Liang Shang's closing layer. He warns against using [[Ma
 
 ## Qualifications
 
-This page is bounded to Hanji 821, Hanji 820, Hanji 818, Hanji 817, and Hanji 813, not a full Liang Shang biography. Hanji 813's title-refusal branch does not prove Liang Shang was consistently anti-privilege; Hanji 817 supports a prudence reading of his non-action but does not prove his inner motive, and Hanji 821 shows that even correct advice from him could be overruled. The transcript's 梁毅 in Hanji 813 is normalized cautiously to [[LiangJiLateHan|梁冀]] through the Liang Shang son and Xiangyi-marquis context.
+This page is bounded to Hanji 821, Hanji 820, Hanji 818, Hanji 817, Hanji 813, and Hanji 811, not a full Liang Shang biography. Hanji 811 shows empress-linked elevation but does not prove Liang Shang's private role in Liang Na's selection. Hanji 813's title-refusal branch does not prove Liang Shang was consistently anti-privilege; Hanji 817 supports a prudence reading of his non-action but does not prove his inner motive, and Hanji 821 shows that even correct advice from him could be overruled. The transcript's 梁毅 in Hanji 813 is normalized cautiously to [[LiangJiLateHan|梁冀]] through the Liang Shang son and Xiangyi-marquis context.
 
 ## What Changed
 
-- Placed Hanji 813 before Hanji 817 as Liang Shang's earliest current layer: refusal of an attempted title for his son after Zuo Xiong's objection.
-- Reframed his significance around repeated restraint under family advantage: declined marquisate, reluctant high office, narrowed legal punishment, and later refusal of premature office for Liang Buyi.
+- Added Hanji 811 as Liang Shang's earliest current layer: empress-linked elevation to Tejin and then Zhijinwu after Liang Na's appointment.
+- Reframed Hanji 813 as the first restraint layer after that elevation: refusal of an attempted title for his son after Zuo Xiong's objection.
+- Reframed his significance around status gain followed by repeated restraint under family advantage.
 - Preserved Hanji 818 as the court-protection layer and Hanji 820 as the legal, family-appointment, and frontier-strategy layer.
 - Kept Hanji 821's death, burial, Zhou Ju recommendation, and Liang Ji succession as the closing layer.
 
 ## Relationships
 
 - [[EmperorShunOfHan|汉顺帝]] - accepts some of Liang Shang's advice while overruling him on Ma Xian.
+- [[EmpressDowagerLiangNaLateHan|梁妠]] - daughter whose empress appointment produces Liang Shang's first current status rise.
+- [[EmpressSelectionRitualLegitimacy|皇后册立礼法合法性]] - concept explaining the selection procedure that elevates Liang Shang's family position.
 - [[ZuoXiongLateHan|左雄]] - official whose title-boundary objection precedes Liang Shang's refusal of his son's marquisate.
 - [[SongELateHan|宋娥]] - parallel private-favor title case where Shun rejects the corrective request that succeeds for Liang Shang's son.
 - [[WangGongTaiweiLateHan|王龚]] - senior official whose inquiry is canceled after Liang Shang presents Li Gu's defense.

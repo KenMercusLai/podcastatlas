@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 5907
+wiki_total_pages: 5908
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -788,6 +788,9 @@ wiki_pages:
   - key: "EarlyEunuchTerminologyMisreading"
     title: "早期宦官词义误读 / Early Eunuch Terminology Misreading"
     url: "/wiki/concepts/earlyeunuchterminologymisreading/"
+  - key: "EmpressSelectionRitualLegitimacy"
+    title: "皇后册立礼法合法性 / Empress Selection Ritual Legitimacy"
+    url: "/wiki/concepts/empressselectionrituallegitimacy/"
   - key: "EmptyReputationRealityGap"
     title: "空誉违实 / Empty Reputation-Reality Gap"
     url: "/wiki/concepts/emptyreputationrealitygap/"

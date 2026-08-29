@@ -13396,3 +13396,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-29] ingest | 《资治通鉴·汉纪》811丨古代皇帝竟靠抽签选皇后？
+
+Ingested the 2026-07-10 芮淇讲透资治通鉴 episode on 132 CE Emperor Shun, Hu Guang and Guo Qian's objection to lottery-based empress selection, Liang Na's appointment as empress, Liang Shang's empress-linked elevation, and Zuo Xiong's local-official tenure, inspection, discipline, grassroots staffing, and Xiaolian reform setup. Created the source note plus `EmpressSelectionRitualLegitimacy`; updated `EmperorShunOfHan`, `ZuoXiongLateHan`, `HuGuangLateHan`, `EmpressDowagerLiangNaLateHan`, `LiangShangLateHan`, `AppointmentQualityAsStateCapacity`, `LocalOfficialTenureStability`, `index`, and `overview`. No settled contradiction found; Guo Qian, Geng Ye, Wulv city, Zhang He's Yangzhou uprising, and the opening relationship-advice frame remain source-scoped.
+
+## [2026-08-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

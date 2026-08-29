@@ -10,6 +10,7 @@ sources:
   - zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff
   - zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v
   - zizhi-tongjian-hanji-812-guren-40-sui-caineng-dangguan-lordzuaqhzghyd93tpm0fql1cigv
+  - zizhi-tongjian-hanji-811-gudai-huangdi-jing-kao-chouqian-xuan-huanghou-lghfih9xcrjyrvdlb4obdxvwhl1y
 last_updated: 2026-08-29
 knowledge_schema: synthesis-v1
 ---
@@ -20,9 +21,11 @@ knowledge_schema: synthesis-v1
 
 ## Current Synthesis
 
-The concept now spans four Shun-era layers and three Huan-era layers. [[zizhi-tongjian-hanji-812-guren-40-sui-caineng-dangguan-lordzuaqhzghyd93tpm0fql1cigv|Hanji 812]] supplies the earliest Shun-era criteria case: [[ZuoXiongLateHan|左雄]] turns Xiaolian recommendation into an enforceable threshold by requiring recommended candidates to be at least forty, with Confucian students expected to know classics and clerks expected to draft memorials well. The rule keeps an exceptional-talent escape hatch, but the Xu Shu case shows that an exception must be proved rather than merely invoked.
+The concept now spans five Shun-era layers and three Huan-era layers. [[zizhi-tongjian-hanji-811-gudai-huangdi-jing-kao-chouqian-xuan-huanghou-lghfih9xcrjyrvdlb4obdxvwhl1y|Hanji 811]] supplies the earliest Shun-era personnel-capacity case: [[ZuoXiongLateHan|左雄]] argues that local governance fails when commandery and county heads rotate too quickly, inspectors reward fake reputation, accused officials escape through resignation or amnesty, and low-level offices shift costs onto commoners. His remedy links appointment quality to stable tenure, truthful evaluation, final exclusion of lawless officials, and staffing of grassroots posts by clean capable candidates.
 
-The same source also gives the counterpressure. [[HuGuangLateHan|胡广]], Guo Qian, and Shi Chang warn that rigid standards can miss young or unconventional talent and should be debated through wider court consultation before old selection practice changes. Shun's refusal of that objection and Zuo's later recommender enforcement make appointment quality a balance between verifiable standards, flexible talent recognition, and accountable nomination.
+The same source also sets up the Xiaolian criteria case. Zuo proposes that candidates normally be at least forty, that Confucian students prove classic learning, that clerks prove drafting skill, and that results be checked centrally, with an exception for unusual talent. [[zizhi-tongjian-hanji-812-guren-40-sui-caineng-dangguan-lordzuaqhzghyd93tpm0fql1cigv|Hanji 812]] then supplies the enforcement controversy: the rule keeps an exceptional-talent escape hatch, but the Xu Shu case shows that an exception must be proved rather than merely invoked.
+
+Hanji 812 also gives the counterpressure. [[HuGuangLateHan|胡广]], Guo Qian, and Shi Chang warn that rigid standards can miss young or unconventional talent and should be debated through wider court consultation before old selection practice changes. Shun's refusal of that objection and Zuo's later recommender enforcement make appointment quality a balance between verifiable standards, flexible talent recognition, and accountable nomination.
 
 [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|Hanji 815]] supplies a later criteria critique: [[ZhangHengLateHan|张衡]] argues that Xiaolian selection can drift from filial conduct toward phrase-reading and memorial-writing, and he warns that mass dismissal of commandery and kingdom administrators can waste hard-won personnel capacity. Appointment quality therefore includes both entry criteria and removal standards.
 
@@ -40,16 +43,20 @@ The concept is not simply meritocracy as a slogan. It includes task fit, politic
 
 ## Key Claims
 
-- Appointment quality is a form of state capacity because eligibility thresholds, exception handling, selection, placement, and removal standards all decide whether ability reaches the right office.
+- Appointment quality is a form of state capacity because tenure, inspection, eligibility thresholds, exception handling, selection, placement, and removal standards all decide whether ability reaches the right office.
 - The right officeholder can replace larger mobilization, while the wrong appointment can destroy capacity before performance is tested.
 - Personnel failure travels downward: loose or self-interested court behavior distorts local execution and public trust.
 - Different crises require different official types, including frontier prestige figures, battlefield commanders, pacification officials, suppressors, humane mediators, reward managers, and relief officials.
 - Correct appointment is visible in outcomes such as submission, returned captives, refugee shelter, surrender, pacification, reduced litigation, and restored order.
-- The pattern is fragile when the system cannot reliably select, protect, retain, and fairly remove fitting officials.
+- The pattern is fragile when the system cannot reliably appoint, inspect, protect, retain, and fairly remove fitting officials.
 - Appointment quality can become morally complicated when status is priced, palace pressure overrides fit, or effective methods violate rules.
 
 ## Evidence
 
+- Local tenure as capacity: [[zizhi-tongjian-hanji-811-gudai-huangdi-jing-kao-chouqian-xuan-huanghou-lghfih9xcrjyrvdlb4obdxvwhl1y|Hanji 811]] says Zuo Xiong links local government failure to frequent transfers, short-term reputational display, bribery, and officials who cannot be evaluated over time.
+- Inspection truth and discipline: [[zizhi-tongjian-hanji-811-gudai-huangdi-jing-kao-chouqian-xuan-huanghou-lghfih9xcrjyrvdlb4obdxvwhl1y|Hanji 811]] says Zuo criticizes inspectors who do not report errors or investigate reality, and he proposes career exclusion for lawless officials plus frontier exile for absconders.
+- Grassroots staffing and extraction: [[zizhi-tongjian-hanji-811-gudai-huangdi-jing-kao-chouqian-xuan-huanghou-lghfih9xcrjyrvdlb4obdxvwhl1y|Hanji 811]] says underpaid local offices shift vehicle, clothing, and reception costs onto the people, so Zuo wants clean capable students appointed and taxes reduced.
+- Xiaolian threshold setup: [[zizhi-tongjian-hanji-811-gudai-huangdi-jing-kao-chouqian-xuan-huanghou-lghfih9xcrjyrvdlb4obdxvwhl1y|Hanji 811]] says Zuo proposes age, classics, drafting, central review, and exceptional-talent rules before the enforcement controversy in Hanji 812.
 - Xiaolian threshold and skill rules: [[zizhi-tongjian-hanji-812-guren-40-sui-caineng-dangguan-lordzuaqhzghyd93tpm0fql1cigv|Hanji 812]] says Zuo Xiong's reform requires recommended Xiaolian candidates to be at least forty, with classics mastery for Confucian students and memorial-writing skill for clerks.
 - Flexible-talent objection: [[zizhi-tongjian-hanji-812-guren-40-sui-caineng-dangguan-lordzuaqhzghyd93tpm0fql1cigv|Hanji 812]] says Hu Guang, Guo Qian, and Shi Chang object that historical talent often exceeds fixed age or skill categories.
 - Exception and enforcement: [[zizhi-tongjian-hanji-812-guren-40-sui-caineng-dangguan-lordzuaqhzghyd93tpm0fql1cigv|Hanji 812]] says Xu Shu's under-forty nomination fails when Zuo demands proof of exceptional ability, and false recommenders then become easier to punish.
@@ -75,19 +82,21 @@ The concept is not simply meritocracy as a slogan. It includes task fit, politic
 
 ## Counterevidence & Qualifications
 
-The concept still rests on a small late-Han source set and should not be treated as a complete theory of state capacity. Hanji 812 gives an enforcement success story, but Hu Guang's objection remains a real qualification: rigid thresholds may screen out unconventional talent if the exception mechanism becomes too narrow. Hanji 815 gives a criteria-and-removal critique, but it does not supply performance outcomes for the excluded Xiaolian candidates or dismissed officials. Hanji 819 gives a successful appointment case, but the result also depends on Li Gu's diagnosis, temporary retrenchment, reward policy, and rebel willingness to submit. Hanji 821 gives a vivid failed-commander case, but Qiang unrest also reflects frontier corruption, finance, hunger, and administrative violence. Hanji 832 gives a pressure case but not the later performance record of the unfit appointee. Hanji 842 and Hanji 854 include disasters, rebellions, and frontier pressure whose causes cannot be reduced to appointments alone. Duan Jiong also qualifies the pattern: the right military person may solve an urgent problem while creating legal or moral costs that the state must still judge.
+The concept still rests on a small late-Han source set and should not be treated as a complete theory of state capacity. Hanji 811 gives a local-official reform program but does not prove full implementation, since eunuchs immediately object that Zuo's measures cannot be carried out. Hanji 812 gives an enforcement success story, but Hu Guang's objection remains a real qualification: rigid thresholds may screen out unconventional talent if the exception mechanism becomes too narrow. Hanji 815 gives a criteria-and-removal critique, but it does not supply performance outcomes for the excluded Xiaolian candidates or dismissed officials. Hanji 819 gives a successful appointment case, but the result also depends on Li Gu's diagnosis, temporary retrenchment, reward policy, and rebel willingness to submit. Hanji 821 gives a vivid failed-commander case, but Qiang unrest also reflects frontier corruption, finance, hunger, and administrative violence. Hanji 832 gives a pressure case but not the later performance record of the unfit appointee. Hanji 842 and Hanji 854 include disasters, rebellions, and frontier pressure whose causes cannot be reduced to appointments alone. Duan Jiong also qualifies the pattern: the right military person may solve an urgent problem while creating legal or moral costs that the state must still judge.
 
 ## What Changed
 
-- Hanji 812 adds the earliest Shun-era personnel-criteria layer through Zuo Xiong's Xiaolian threshold, Hu Guang's flexibility objection, and Xu Shu's failed exception claim; Hanji 815 becomes the later Xiaolian criteria-and-removal critique.
+- Hanji 811 adds the earliest Shun-era layer: local-official tenure, inspection truth, anti-amnesty discipline, grassroots staffing, and Xiaolian setup.
+- Hanji 812 becomes the Xiaolian enforcement continuation through Hu Guang's flexibility objection and Xu Shu's failed exception claim; Hanji 815 remains the later criteria-and-removal critique.
 - Hanji 819 remains the Shun-era positive command-appointment layer through Li Gu, Zhang Qiao, Zhu Liang, Zhou Ju, Zuo Xiong, and Liang He.
 - Hanji 821 remains the negative Shun-era command-appointment layer through Ma Xian, Ma Rong, Huangfu Gui, and Zhao Chong.
-- Hanji 832 and Hanji 842 preserve appointment-pressure, reputation-deterrence, relief, and tactical-fit branches.
-- Hanji 854 remains the explicit personnel lesson and broad Huan-era application case.
+- Hanji 832, Hanji 842, and Hanji 854 preserve appointment-pressure, reputation-deterrence, relief, tactical-fit, and explicit personnel-lesson branches.
 
 ## Related Concepts
 
 - [[OfficialSelectionChannelCompetition|选官通道竞争]] - adjacent selection-field problem sharpened by Zhang Heng's Xiaolian criteria warning.
+- [[LocalOfficialTenureStability|地方官任期稳定]] - appointment quality requires officials to stay long enough for performance to be observed and rewarded.
+- [[IndependentOfficialAudit|独立考核地方官]] - evaluation quality is necessary for distinguishing real local benefit from manufactured reputation.
 - [[HumaneLocalGovernance|仁厚地方治理]] - appointment quality includes knowing when a humane local method fits the problem.
 - [[BlameAbsorbingResponsibility|揽过式责任承担]] - bad appointment pressure can create downstream responsibility-transfer cases.
 - [[RiskBearingReliefGovernance|担责开仓式救民]] - emergency relief depends on appointing a credible official who will bear risk.
