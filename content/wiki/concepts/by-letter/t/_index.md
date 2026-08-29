@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 5931
+wiki_total_pages: 5935
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -155,6 +155,9 @@ wiki_pages:
   - key: "TeacherAILiteracy"
     title: "Teacher AI Literacy"
     url: "/wiki/concepts/teacherailiteracy/"
+  - key: "TeacherStudentCoFieldLearning"
+    title: "Teacher-Student Co-Field Learning / 师生共同在场学习"
+    url: "/wiki/concepts/teacherstudentcofieldlearning/"
   - key: "TechBubbleConditions"
     title: "Tech Bubble Conditions"
     url: "/wiki/concepts/techbubbleconditions/"

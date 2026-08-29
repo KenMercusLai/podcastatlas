@@ -1,37 +1,56 @@
 ---
 title: "魏茜 / Wei Qian (Sanlian)"
 type: entity
-tags: [person, journalist, media, culture, mental-health, work, reading, science-education, magazines]
-sources: [ep272-shui-de-qingchun-li-meiyou-yi-ben-bei-chuanyue-dao-juanbian-de-zazhi-lmwyj84wfdgnlgsovkihulfailu, ep262-gaokao-guohou-zhishi-guiling-women-xuyao-zenyang-de-kexue-jiaoyu-ls8ecqcdpe9d5ioytyca3jqdf-3r, ep258-women-ruhe-chongshi-shuiqian-dushu-lobyzxqk2oaov0v51cm355u8noix, ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw, ep247-chongqi-rensheng-dang-nongcun-zhongnian-nvxing-kaishi-zuo-zhubo-loz8q4e-2azwdzuqzxaj9b4i5dwj, ep244-jizhe-yanzhong-de-hao-gongzuo-shenme-yang-lk8iz9cllzx2jou5-sw9yt2ogpyb, ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx]
-last_updated: 2026-08-08
+tags: [person, journalist, media, culture, mental-health, work, reading, science-education, magazines, art-education, fieldwork]
+sources:
+  - ep272-shui-de-qingchun-li-meiyou-yi-ben-bei-chuanyue-dao-juanbian-de-zazhi-lmwyj84wfdgnlgsovkihulfailu
+  - ep262-gaokao-guohou-zhishi-guiling-women-xuyao-zenyang-de-kexue-jiaoyu-ls8ecqcdpe9d5ioytyca3jqdf-3r
+  - ep258-women-ruhe-chongshi-shuiqian-dushu-lobyzxqk2oaov0v51cm355u8noix
+  - ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw
+  - ep247-chongqi-rensheng-dang-nongcun-zhongnian-nvxing-kaishi-zuo-zhubo-loz8q4e-2azwdzuqzxaj9b4i5dwj
+  - ep244-jizhe-yanzhong-de-hao-gongzuo-shenme-yang-lk8iz9cllzx2jou5-sw9yt2ogpyb
+  - ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx
+  - ep280-guangzhou-meiyuan-fangwenji-dang-meishusheng-kaishi-zuo-tianye-diaocha-lr4-jmpdo-oo7w8sdmcgcw-chqc9
+last_updated: 2026-08-29
+knowledge_schema: synthesis-v1
 ---
 
 # 魏茜 / Wei Qian (Sanlian)
 
-[[ep272-shui-de-qingchun-li-meiyou-yi-ben-bei-chuanyue-dao-juanbian-de-zazhi-lmwyj84wfdgnlgsovkihulfailu]] adds Wei Qian's magazine-memory and paper-afterlife role. She recalls family literary magazines, long-term 《科幻世界》 reading, social-investigation magazines, reader support for magazine editors, kiosk decline, older readers' paper access, and the possibility that subscribing to print can work as a [[PaperMagazineSubscriptionRitual|life-space ritual]].
+## Overview
+魏茜 / Wei Qian (Sanlian) is a [[SanlianLifeWeekly|三联生活周刊]] journalist and [[TalkSanlian|Talk三联]] speaker whose wiki profile spans education, reading, work, journalism, manufacturing, emotion economy, rural platform labor, and art-school fieldwork.
 
-[[ep262-gaokao-guohou-zhishi-guiling-women-xuyao-zenyang-de-kexue-jiaoyu-ls8ecqcdpe9d5ioytyca3jqdf-3r]] adds Wei Qian's science-education reporting and synthesis branch. She distinguishes ordinary scientific literacy from traditional science-subject training, uses [[BigConceptScienceTeaching|大概念]] and [[HPSScienceEducation|HPS]] to connect facts with concepts and history, and ends with a life-modeling view of [[ScienceEducationAsCivicLiteracy|science education as civic literacy]].
+## Current Profile
+Wei Qian's bounded sources show a reporter who repeatedly asks whether ordinary practices become real experience. In reading episodes, she treats magazines, bedtime reading, attention, and paper subscription as lived routines rather than content containers. In education episodes, she pushes against exam-driven knowledge, formulaic expression, and the loss of curiosity. In work, manufacturing, emotion-economy, and rural-livestreaming episodes, she keeps attention on concrete conditions: family labor, platform incentives, factory floors, emotional support, and the bodily or social cost behind visible output. EP280 extends that profile into art education by making fieldwork a way for students to recover perception, feeling, and speech.
 
-[[ep258-women-ruhe-chongshi-shuiqian-dushu-lobyzxqk2oaov0v51cm355u8noix]] adds Wei Qian's host role in a reading, sleep, and attention conversation. She frames "睡前读书" through quiet time, reading memory, physical space, the shift from rational brain to bodily sensing, and the need to bring reading back into ordinary nights rather than treating it as a solemn cultural task.
+## Key Characteristics
+- Wei Qian often reframes cultural or education topics around lived experience, body, attention, and ordinary routines.
+- Her education reporting is skeptical of knowledge that survives only as exam performance, theme language, or institutional output.
+- Her journalism profile values embodied contact, field inquiry, and interview responsibility over desk summaries or AI-generated prose.
+- She links work and social reporting to concrete conditions such as caregiving, factory floors, family obligations, platform pressure, and emotional exhaustion.
+- In EP280, she treats art-school fieldwork as a way to reopen students' perception while keeping its institutional limits visible.
 
-[[ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw]] adds Wei Qian's manufacturing and family-business reporting branch. Her [[WoteShoes|沃特鞋企]] case in [[Putian|莆田]] tracks a son returning to a troubled shoe company, learning production from the factory floor, and then testing design, IP, live-streaming, foreign trade, and [[Amazon]] sales under [[ManufacturingSalesShift|manufacturing's sales shift]].
+## Evidence
+- Reading as lived routine: [[ep272-shui-de-qingchun-li-meiyou-yi-ben-bei-chuanyue-dao-juanbian-de-zazhi-lmwyj84wfdgnlgsovkihulfailu]] and [[ep258-women-ruhe-chongshi-shuiqian-dushu-lobyzxqk2oaov0v51cm355u8noix]] show her framing magazines and bedtime reading through family shelves, paper delivery, body, quiet time, and attention.
+- Education beyond exams: [[ep262-gaokao-guohou-zhishi-guiling-women-xuyao-zenyang-de-kexue-jiaoyu-ls8ecqcdpe9d5ioytyca3jqdf-3r]] has her distinguish science literacy from school-subject training, while [[ep280-guangzhou-meiyuan-fangwenji-dang-meishusheng-kaishi-zuo-tianye-diaocha-lr4-jmpdo-oo7w8sdmcgcw-chqc9]] extends the concern into art students' need for real field experience.
+- Embodied reporting: [[ep244-jizhe-yanzhong-de-hao-gongzuo-shenme-yang-lk8iz9cllzx2jou5-sw9yt2ogpyb]] has her argue that AI cannot replace interviewing as a human reporting practice grounded in presence, judgment, and responsibility.
+- Work and family conditions: [[ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw]] and [[ep247-chongqi-rensheng-dang-nongcun-zhongnian-nvxing-kaishi-zuo-zhubo-loz8q4e-2azwdzuqzxaj9b4i5dwj]] show her attention to factory-floor learning, succession, rural women's visibility, household labor, and family approval.
+- Emotional support and limits: [[ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx]] has her frame the emotion economy through uncertainty, comfort seeking, paid care, and noncommercial support practices.
+- Art-fieldwork synthesis: [[ep280-guangzhou-meiyuan-fangwenji-dang-meishusheng-kaishi-zuo-tianye-diaocha-lr4-jmpdo-oo7w8sdmcgcw-chqc9]] has her connect student social fear, field notes, Xiang Biao's experience distinction, family return, and teacher-student co-presence into one education reform argument.
 
-[[ep247-chongqi-rensheng-dang-nongcun-zhongnian-nvxing-kaishi-zuo-zhubo-loz8q4e-2azwdzuqzxaj9b4i5dwj]] adds Wei Qian's host role in a "中女转型" discussion outside the urban career frame. Her questions keep the episode attentive to what [[RuralWomenLivestreaming|乡村女主播]] changes at the level of self-recognition, family approval, usable money, and daughters' future choices rather than treating livestreaming only as a new job category.
+## Qualifications
+The page is a source-bounded profile, not a full biography. It emphasizes the recurring public themes visible in the indexed podcast sources and should not be used to infer all of Wei Qian's reporting areas.
 
-魏茜 / Wei Qian is a [[SanlianLifeWeekly|三联生活周刊]] reporter and [[TalkSanlian|Talk三联]] guest in [[ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx]]. In this source, she frames [[EmotionEconomy|情绪经济]] as a post-pandemic response to uncertainty, anxiety, comfort seeking, and the desire to feel cared for.
+## What Changed
+- Migrated the page to synthesis-v1.
+- Added EP280's art-education, fieldwork, and experience-formation branch to her existing reading, work, science-education, and emotion-economy profile.
 
-Her contribution is strongest on the consumer and wellness side of the episode. She discusses plush toys, pets, concerts, travel, sound healing, sleep, cooking, handwork, fitness, and trusted family or friends as a spectrum that runs from paid [[ImmediateReliefWellnessConsumption|immediate relief]] to noncommercial [[EmotionRegulationToolkit|emotion-regulation tools]].
-
-[[ep244-jizhe-yanzhong-de-hao-gongzuo-shenme-yang-lk8iz9cllzx2jou5-sw9yt2ogpyb]] adds her work-and-journalism reflection role. 魏茜 frames young people's [[WorkRoleDecentering|work role decentering]], recalls being drawn into media by a fading news ideal, explains how caregiving can reduce the spare curiosity journalism requires, and argues that [[InterviewAsEmbodiedReporting|interviewing]] remains a human reporting practice that [[AIWrittenJournalism|AI-written journalism]] cannot simply replace.
-
-## Connections
-- [[SanlianLifeWeekly|三联生活周刊]] and [[TalkSanlian|Talk三联]] - media and show context.
-- [[GaoYiding]], [[WuYueSanlian|伍玥]], [[XiaJieyi|夏洁逸]], [[MagazineReadingEcology]], [[ClassroomMagazineCirculation]], [[PaperMagazineSubscriptionRitual]], and [[LocalZineRevival]] - EP272 magazine-memory branch.
-- [[GaoYiding]], [[WangYiranSanlian]], [[ScienceEducationAsCivicLiteracy]], [[BigConceptScienceTeaching]], and [[HPSScienceEducation]] - EP262 science-education branch.
-- [[LengJianguo|冷建国]], [[ZhangZhiqi|张芝琪]], [[RandomFluctuations|随机波动]], [[BedtimeReadingRitual]], [[ReadingMediumPluralism]], [[AttentionFragmentation]], and [[SleepAsResistance]] - EP258 reading, sleep, body, and attention branch.
-- [[WoteShoes]], [[Putian]], [[Fujian]], [[ManufacturingSalesShift]], [[FactorySecondGeneration]], [[SuccessionAsContinuousEntrepreneurship]], and [[GlobalProductLocalization]] - EP255 shoe-manufacturing and succession branch.
-- [[ZengXin|曾欣]], [[RuralWomenLivestreaming]], [[FamilyBasedEmotionalMotivation]], and [[CompressedModernityGenderTransition]] - EP247's rural women and midlife-transition branch.
-- [[EmotionEconomy]], [[TactileComfortConsumption]], and [[ImmediateReliefWellnessConsumption]] - main reporting and reflection themes.
-- [[EmotionRegulationToolkit]], [[RelationshipNeedDiversification]], and [[CompanionAnimalHealth]] - support practices she emphasizes near the end of the episode.
-- [[RuanJianing|阮佳宁]] - co-guest whose reporting focuses more heavily on paid listening services.
-- [[GoodWorkNewStandard]], [[WorkRoleDecentering]], [[JournalisticPublicness]], [[SocialReportingBurnout]], [[InterviewAsEmbodiedReporting]], and [[LongHorizonWorkEvaluation]] - work-and-media concepts she helps articulate in EP244.
+## Relationships
+- [[SanlianLifeWeekly|三联生活周刊]] - publication context for her journalism.
+- [[TalkSanlian|Talk三联]] - podcast context where she appears as host or guest.
+- [[UndergraduateArtFieldwork]] - EP280 method she helps interpret.
+- [[ExperienceFormingEducation]] - EP280 education-purpose frame she develops through the experience distinction.
+- [[UnlearningExamExpression]] - education bottleneck linked to her critique of formulaic expression.
+- [[InterviewAsEmbodiedReporting]] - journalism boundary she articulates against AI-only writing.
+- [[ScienceEducationAsCivicLiteracy]] - science-education branch she helps frame.
+- [[ReadingAsLifeExperience]] - reading-life branch visible across her magazine and bedtime-reading sources.

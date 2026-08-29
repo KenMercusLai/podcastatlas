@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 5931
+wiki_total_pages: 5935
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -701,6 +701,9 @@ wiki_pages:
   - key: "ExpeditionCommandFragmentation"
     title: "Expedition Command Fragmentation"
     url: "/wiki/concepts/expeditioncommandfragmentation/"
+  - key: "ExperienceFormingEducation"
+    title: "Experience-Forming Education / 生成经验的教育"
+    url: "/wiki/concepts/experienceformingeducation/"
   - key: "ExperienceLedBrand"
     title: "Experience-Led Brand"
     url: "/wiki/concepts/experienceledbrand/"

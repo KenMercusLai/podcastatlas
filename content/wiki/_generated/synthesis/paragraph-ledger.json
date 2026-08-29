@@ -369,12 +369,13 @@
       "aecaaa49da936c98684cec9f1063846b0672b74bc20fcbd62311f6a489f3c810",
       "c579b0c3102e48af519244d183c5c41e037740a37bf519bf5b0f4bf5ef849207",
       "56abb716e5b03c8a306adb1a6c6075e7f241a8cf33161741fecbd9f5b886bbb0",
-      "c94dbb4bb11fbc67a68689063a003f4343a0087a9f4a369adf5930530cf3dce6"
+      "c94dbb4bb11fbc67a68689063a003f4343a0087a9f4a369adf5930530cf3dce6",
+      "42b428cd16585fd09c60d93170bb1c95fd3df1b9a2ff7182eb0ec9f1136bfe3d"
     ],
-    "paragraph_count": 369
+    "paragraph_count": 370
   },
-  "overview_commit": "e0320822aba09606baba86be57b9e52e08072223",
-  "overview_digest": "a0da0e5b171eeee318955da259c3b3a0d1bd69f2ae1d33d69fffad29fcbd2edd",
+  "overview_commit": "ee9166649277234f8dbc0338a9bcc8b7ca42f7d9",
+  "overview_digest": "2caf61ec319b083ee0e6780b1c96efd72f98e566e8edbc227fc1d5e31e7b4f1b",
   "paragraphs": [
     {
       "id": "549888ed657f9b119f7043536a523a802cc3631a4eebfc4d2f7e307759430713",
@@ -11445,6 +11446,37 @@
         "SerotoninSocialWellbeingTools",
         "YaleBrownObsessiveCompulsiveScale",
         "essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647"
+      ]
+    },
+    {
+      "id": "42b428cd16585fd09c60d93170bb1c95fd3df1b9a2ff7182eb0ec9f1136bfe3d",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [],
+      "text": "The latest addition is [[ep280-guangzhou-meiyuan-fangwenji-dang-meishusheng-kaishi-zuo-tianye-diaocha-lr4-jmpdo-oo7w8sdmcgcw-chqc9|EP280 广州美院访问记：当美术生开始做田野调查]], a [[TalkSanlian|Talk三联]] episode on [[GuangzhouAcademyOfFineArts|广州美术学院]]'s first-year art-fieldwork reform. It adds [[GuangzhouAcademyOfFineArts|广州美术学院]], [[XiangBiao|项飙]], [[UndergraduateArtFieldwork]], [[ExperienceFormingEducation]], [[UnlearningExamExpression]], and [[TeacherStudentCoFieldLearning]], while extending [[WeiQianSanlian|魏茜]], [[QinSi|秦思]], [[GaoYiding|高一丁]], [[FieldworkAsKnowledgeMethod]], [[ObservationBeforeInference]], [[InterviewAsEmbodiedReporting]], [[ProjectBasedScienceLearning]], [[ExamDrivenScienceEducation]], and [[UniversityOpportunityDensity]]. Its core synthesis is that university learning can become formative when students encounter people, places, refusal, family memory, work routines, and community problems before turning them into polished themes or projects. No settled contradiction is recorded; the reform remains bounded by grading curves, specialization, technical training, employment pressure, and the lack of long-term outcome data.",
+      "topic_scores": {
+        "culture-and-media": 1,
+        "history-and-geopolitics": 1,
+        "science-health-and-climate": 1,
+        "work-education-and-society": 6
+      },
+      "wikilinks": [
+        "ExamDrivenScienceEducation",
+        "ExperienceFormingEducation",
+        "FieldworkAsKnowledgeMethod",
+        "GaoYiding",
+        "GuangzhouAcademyOfFineArts",
+        "InterviewAsEmbodiedReporting",
+        "ObservationBeforeInference",
+        "ProjectBasedScienceLearning",
+        "QinSi",
+        "TalkSanlian",
+        "TeacherStudentCoFieldLearning",
+        "UndergraduateArtFieldwork",
+        "UniversityOpportunityDensity",
+        "UnlearningExamExpression",
+        "WeiQianSanlian",
+        "XiangBiao",
+        "ep280-guangzhou-meiyuan-fangwenji-dang-meishusheng-kaishi-zuo-tianye-diaocha-lr4-jmpdo-oo7w8sdmcgcw-chqc9"
       ]
     }
   ],

@@ -171,8 +171,27 @@
         "MadisonHemings",
         "JeffersonianLibertyContradiction"
       ]
+    },
+    {
+      "global_candidate": false,
+      "id": "fieldwork-learning-makes-experience-before-expression",
+      "qualifications": [
+        "The claim is grounded mainly in a single Talk Sanlian source about one Guangzhou Academy of Fine Arts reform, so it should not be generalized to all undergraduate art education.",
+        "The episode keeps the reform bounded by grading curves, specialization decisions, technical training, employment pressure, and the lack of long-term outcome data."
+      ],
+      "statement": "[[ep280-guangzhou-meiyuan-fangwenji-dang-meishusheng-kaishi-zuo-tianye-diaocha-lr4-jmpdo-oo7w8sdmcgcw-chqc9|EP280]] adds that [[UndergraduateArtFieldwork]] can make education formative when students practice [[ObservationBeforeInference]], interview people outside campus, and use [[ExperienceFormingEducation]] plus [[UnlearningExamExpression]] before turning encounters into polished projects; [[TeacherStudentCoFieldLearning]] and [[GuangzhouAcademyOfFineArts]] keep the institutional reform visible.",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "ep280-guangzhou-meiyuan-fangwenji-dang-meishusheng-kaishi-zuo-tianye-diaocha-lr4-jmpdo-oo7w8sdmcgcw-chqc9",
+        "UndergraduateArtFieldwork",
+        "ObservationBeforeInference",
+        "ExperienceFormingEducation",
+        "UnlearningExamExpression",
+        "TeacherStudentCoFieldLearning",
+        "GuangzhouAcademyOfFineArts"
+      ]
     }
   ],
-  "summary": "The Jefferson-Hemings material adds a secondary society case: family, labor, and relationship claims need explicit attention to legal power and coercive status. A Hanji 806 historical access-and-relationship case adds that correct claims need usable channels, public witnesses, and hierarchy-aware merit handling before they become institutional action. A Hanji 813 historical office-boundary example adds that role dignity, title rules, and feedback channels also shape institutional capacity. The OCD episode adds a source-scoped public-health education case: mechanism and assessment language can orient action, but exposure practice and treatment planning stay clinically bounded. Work, education, and society sources converge on a practical pattern: durable capability comes from bounded institutions, active learning, realistic workplace judgment, human feedback loops, social trust, pacing, and environments that let people act under real constraints.",
+  "summary": "The Guangzhou Academy of Fine Arts fieldwork episode adds that undergraduate learning can become formative when students observe, interview, and build experience before polished expression, while still facing grades, specialization, technique, employment pressure, and uncertain long-term outcomes. The Jefferson-Hemings material adds a secondary society case: family, labor, and relationship claims need explicit attention to legal power and coercive status. Hanji access, office-boundary, succession, and reputation cases show that education, merit, dignity, and correct claims need usable channels, public witnesses, role boundaries, and hierarchy-aware handling before they become institutional action. The OCD episode adds a source-scoped public-health education case: mechanism and assessment language can orient action, but exposure practice and treatment planning stay clinically bounded. Work, education, and society sources converge on a practical pattern: durable capability comes from bounded institutions, active learning, realistic workplace judgment, human feedback loops, social trust, pacing, and environments that let people act under real constraints.",
   "topic_id": "work-education-and-society"
 }

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 8307
+wiki_total_pages: 8309
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -842,6 +842,9 @@ wiki_pages:
   - key: "Guangdong"
     title: "广东 / Guangdong"
     url: "/wiki/entities/guangdong/"
+  - key: "GuangzhouAcademyOfFineArts"
+    title: "广州美术学院 / Guangzhou Academy of Fine Arts"
+    url: "/wiki/entities/guangzhouacademyoffinearts/"
   - key: "GuangwuChuHan"
     title: "广武 / Guangwu (Chu-Han)"
     url: "/wiki/entities/guangwuchuhan/"

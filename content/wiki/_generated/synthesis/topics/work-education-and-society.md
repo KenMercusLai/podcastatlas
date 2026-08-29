@@ -4,15 +4,15 @@ generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
 last_updated: 2026-08-29
-as_of_overview_commit: bb8e3ffe5e7d64093208f4aedd7a89c3d11a6600
-input_digest: b482692b6969f8e2b76d3c08c4ff300653457aac31847698821d118d1576cc9a
+as_of_overview_commit: ee9166649277234f8dbc0338a9bcc8b7ca42f7d9
+input_digest: 9961077d73ff53e947dec7fec45f93d029763c6667feef57df45555ca2f0164c
 ---
 
 # Work, Education, and Society
 
 ## Current State
 
-The Jefferson-Hemings material adds a secondary society case: family, labor, and relationship claims need explicit attention to legal power and coercive status. A Hanji 806 historical access-and-relationship case adds that correct claims need usable channels, public witnesses, and hierarchy-aware merit handling before they become institutional action. A Hanji 813 historical office-boundary example adds that role dignity, title rules, and feedback channels also shape institutional capacity. The OCD episode adds a source-scoped public-health education case: mechanism and assessment language can orient action, but exposure practice and treatment planning stay clinically bounded. Work, education, and society sources converge on a practical pattern: durable capability comes from bounded institutions, active learning, realistic workplace judgment, human feedback loops, social trust, pacing, and environments that let people act under real constraints.
+The Guangzhou Academy of Fine Arts fieldwork episode adds that undergraduate learning can become formative when students observe, interview, and build experience before polished expression, while still facing grades, specialization, technique, employment pressure, and uncertain long-term outcomes. The Jefferson-Hemings material adds a secondary society case: family, labor, and relationship claims need explicit attention to legal power and coercive status. Hanji access, office-boundary, succession, and reputation cases show that education, merit, dignity, and correct claims need usable channels, public witnesses, role boundaries, and hierarchy-aware handling before they become institutional action. The OCD episode adds a source-scoped public-health education case: mechanism and assessment language can orient action, but exposure practice and treatment planning stay clinically bounded. Work, education, and society sources converge on a practical pattern: durable capability comes from bounded institutions, active learning, realistic workplace judgment, human feedback loops, social trust, pacing, and environments that let people act under real constraints.
 
 ## Cross-source Findings
 
@@ -123,3 +123,14 @@ As a secondary work-and-society input, [[686-jefferson-the-betrayal-of-liberty-p
 - The paragraph belongs primarily to governance and history; it appears here only because labor, family, and relationship language made it a secondary society input.
 - The claim is not a general theory of relationships; it is bounded to slavery, ownership, and the Jefferson-Hemings case.
 - The episode leaves Hemings's motives unresolved while treating coercive power as structurally decisive.
+
+### Fieldwork Learning Makes Experience Before Expression
+
+[[ep280-guangzhou-meiyuan-fangwenji-dang-meishusheng-kaishi-zuo-tianye-diaocha-lr4-jmpdo-oo7w8sdmcgcw-chqc9|EP280]] adds that [[UndergraduateArtFieldwork]] can make education formative when students practice [[ObservationBeforeInference]], interview people outside campus, and use [[ExperienceFormingEducation]] plus [[UnlearningExamExpression]] before turning encounters into polished projects; [[TeacherStudentCoFieldLearning]] and [[GuangzhouAcademyOfFineArts]] keep the institutional reform visible.
+
+**Evidence:** [[ep280-guangzhou-meiyuan-fangwenji-dang-meishusheng-kaishi-zuo-tianye-diaocha-lr4-jmpdo-oo7w8sdmcgcw-chqc9]], [[UndergraduateArtFieldwork]], [[ObservationBeforeInference]], [[ExperienceFormingEducation]], [[UnlearningExamExpression]], [[TeacherStudentCoFieldLearning]], [[GuangzhouAcademyOfFineArts]]
+
+**Qualifications:**
+
+- The claim is grounded mainly in a single Talk Sanlian source about one Guangzhou Academy of Fine Arts reform, so it should not be generalized to all undergraduate art education.
+- The episode keeps the reform bounded by grading curves, specialization decisions, technical training, employment pressure, and the lack of long-term outcome data.

@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-29
-as_of_overview_commit: e0320822aba09606baba86be57b9e52e08072223
-summary: "Durable value comes from matching capability and ideals to evidence, trusted context, institutions, supervision boundaries, legitimate authority, and execution constraints."
-episode_count: 1686
-source_count: 1686
-paragraph_count: 369
+as_of_overview_commit: ee9166649277234f8dbc0338a9bcc8b7ca42f7d9
+summary: "Durable value comes from matching capability, learning, and ideals to evidence, embodied experience, trusted context, institutions, boundaries, and execution constraints."
+episode_count: 1687
+source_count: 1687
+paragraph_count: 370
 topic_count: 8
 ---
 
@@ -56,7 +56,7 @@ Governance sources center translation from authority and ideals into enforceable
 
 ### History and Geopolitics
 
-History and geopolitics sources show legitimacy, succession, alliances, logistics, palace access, expansion, infrastructure, and sovereignty lasting only when backed by credible systems and local order; Hanji 800-801 now add the 124 CE Yang Zhen death layer and Liu Bao deposition prelude to the Shun succession crisis.
+History and geopolitics sources show legitimacy, succession, alliances, logistics, palace access, expansion, infrastructure, and sovereignty lasting only when backed by credible systems and local order.
 
 - [[UnderseaDataCables]] show contemporary geopolitics moving into physical internet routes: [[UnitedStates]] funding for [[Caribbean]] and [[CentralAmerica]] cable replacement, competition with [[China]], vendor concerns involving [[Russia]], [[CableLandingPointSecurity]], and [[CableNetworkResilience]] make cloud and financial connectivity part of strategic infrastructure rather than only telecom operations. Evidence: [[UnderseaDataCables]], [[UnitedStates]], [[Caribbean]], [[CentralAmerica]], [[China]], [[Russia]], [[CableLandingPointSecurity]], [[CableNetworkResilience]], [[TrustedNetworkGeopolitics]], [[DigitalInfrastructureWarRisk]], [[RegionalNetworkTopologyRisk]], [[AsymmetricInfrastructureAttack]], [[MarketplaceTech]], [[ErinMurphy]], [[tech-20260820-tech-pod-128-tech-20260820-tech-pod-128]].
 - The Hanji 992, 1002, and 1015-1016 branch makes late-Han title order a strategic condition: [[EmperorXianOfHan]]'s ruined Anyi and Chang'an context keeps [[MingqiLegitimacy]] symbolically active but materially thin, [[JuShou]] sees [[LegitimacyWindowSeizure]] for [[YuanShao]] before [[GuoTu]] and [[ChunyuQiong]] help Yuan Shao miss it, [[SunCe]] treats [[YuanShu]]'s planned imperial title as a [[MoralizedWarPretext]] and exits, [[XunYu]] turns the emperor's recognition into [[LegitimacyWindowSeizure]] for [[CaoCao]], Yuan Shu's later Shouchun claim outruns [[TitleRealityRestraint]] and creates [[AntiUsurpationCoalitionPressure]], and [[ChenGui]] blocks [[MarriageAllianceWarExposure]] around [[LyuBu]] and [[Xuzhou]]. Evidence: [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz]], [[EmperorXianOfHan]], [[ChangAnHanCapital]], [[GuanzhongRegion]], [[MingqiLegitimacy]], [[JuShou]], [[LegitimacyWindowSeizure]], [[YuanShao]], [[GuoTu]], [[ChunyuQiong]], [[WartimeAgriculturalLaborCollapse]], [[FamineEntitlementFailure]], [[SunCe]], [[YuanShu]], [[MoralizedWarPretext]], [[XunYu]], [[CaoCao]], [[TitleRealityRestraint]], [[AntiUsurpationCoalitionPressure]], [[ChenGui]], [[MarriageAllianceWarExposure]], [[LyuBu]], [[Xuzhou]], [[XingshiqingStrategicAssessment]], [[GuoJia]], [[ZhongYao]].
@@ -77,7 +77,7 @@ Science and health claims stay strongest when mechanism, measurement, escalation
 
 ### Work, Education, and Society
 
-Work and learning sources converge on effortful practice, context, verification, social trust, power-aware relationships, workable channels, pacing, health, public guidance boundaries, and institutions.
+Work and learning sources converge on effortful practice, embodied fieldwork, context, verification, social trust, power-aware relationships, workable channels, pacing, health, public guidance boundaries, and institutions.
 
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough. Evidence: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], [[LearningExperienceDesign]].
 - AI and product/work sources repeatedly show that capability becomes useful only when embedded in [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]], workflows, distribution, and customer or classroom context. Evidence: [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].

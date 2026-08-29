@@ -16979,6 +16979,10 @@
     "title": "Expedition Command Fragmentation",
     "url": "/wiki/concepts/expeditioncommandfragmentation/"
   },
+  "ExperienceFormingEducation": {
+    "title": "Experience-Forming Education / 生成经验的教育",
+    "url": "/wiki/concepts/experienceformingeducation/"
+  },
   "ExperienceLedBrand": {
     "title": "Experience-Led Brand",
     "url": "/wiki/concepts/experienceledbrand/"
@@ -21306,6 +21310,10 @@
   "Guangzhou": {
     "title": "Guangzhou / 广州",
     "url": "/wiki/entities/guangzhou/"
+  },
+  "GuangzhouAcademyOfFineArts": {
+    "title": "广州美术学院 / Guangzhou Academy of Fine Arts",
+    "url": "/wiki/entities/guangzhouacademyoffinearts/"
   },
   "GuantanamoBay": {
     "title": "Guantanamo Bay",
@@ -48771,6 +48779,10 @@
     "title": "Teacher AI Literacy",
     "url": "/wiki/concepts/teacherailiteracy/"
   },
+  "TeacherStudentCoFieldLearning": {
+    "title": "Teacher-Student Co-Field Learning / 师生共同在场学习",
+    "url": "/wiki/concepts/teacherstudentcofieldlearning/"
+  },
   "TeamMarketing": {
     "title": "Team Marketing",
     "url": "/wiki/entities/teammarketing/"
@@ -51151,6 +51163,10 @@
     "title": "Uncertain-Era Optionality / 乱纪元选择权",
     "url": "/wiki/concepts/uncertaineraoptionality/"
   },
+  "UndergraduateArtFieldwork": {
+    "title": "Undergraduate Art Fieldwork / 本科艺术田野",
+    "url": "/wiki/concepts/undergraduateartfieldwork/"
+  },
   "UndergroundMoneyTransferRisk": {
     "title": "Underground Money Transfer Risk",
     "url": "/wiki/concepts/undergroundmoneytransferrisk/"
@@ -51398,6 +51414,10 @@
   "UniversityOpportunityDensity": {
     "title": "University Opportunity Density",
     "url": "/wiki/concepts/universityopportunitydensity/"
+  },
+  "UnlearningExamExpression": {
+    "title": "Unlearning Exam Expression / 去除应试表达",
+    "url": "/wiki/concepts/unlearningexamexpression/"
   },
   "UnlimitedTokenWorkflow": {
     "title": "Unlimited Token Workflow",
@@ -54310,6 +54330,10 @@
   "XianchangXianchang": {
     "title": "现场！现场！ / Xianchang Xianchang",
     "url": "/wiki/entities/xianchangxianchang/"
+  },
+  "XiangBiao": {
+    "title": "项飙 / Xiang Biao",
+    "url": "/wiki/entities/xiangbiao/"
   },
   "XiangBo": {
     "title": "项伯 / Xiang Bo",
@@ -59250,6 +59274,10 @@
   "ep28-bainian-jinrong-zhapian-shi-jieji-kuayue-yu-liangdang-ruyu-de-juli-ltpkaw9wxzpxlxo3mhh-0rkimgcj": {
     "title": "EP28 百年金融诈骗史：阶级跨越与锒铛入狱的距离",
     "url": "/wiki/sources/ep28-bainian-jinrong-zhapian-shi-jieji-kuayue-yu-liangdang-ruyu-de-juli-ltpkaw9wxzpxlxo3mhh-0rkimgcj/"
+  },
+  "ep280-guangzhou-meiyuan-fangwenji-dang-meishusheng-kaishi-zuo-tianye-diaocha-lr4-jmpdo-oo7w8sdmcgcw-chqc9": {
+    "title": "EP280 广州美院访问记：当美术生开始做田野调查",
+    "url": "/wiki/sources/ep280-guangzhou-meiyuan-fangwenji-dang-meishusheng-kaishi-zuo-tianye-diaocha-lr4-jmpdo-oo7w8sdmcgcw-chqc9/"
   },
   "ep34-dang-gaoqingshang-he-fencungan-queshi-weiyou-gangtie-yizhi-chengchang-lsoyvsj7cppkk-efbxuemdldtrbu": {
     "title": "EP34 当高情商和分寸感缺失，唯有钢铁意志撑场",

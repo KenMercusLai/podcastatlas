@@ -9492,6 +9492,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/exercisespecificbrainadaptation/"
     },
+    "ExperienceFormingEducation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "EP280 广州美院访问记：当美术生开始做田野调查 [lr4_JmpdO-Oo7w8sDmcGcW_chQc9].md",
+          "key": "ep280-guangzhou-meiyuan-fangwenji-dang-meishusheng-kaishi-zuo-tianye-diaocha-lr4-jmpdo-oo7w8sdmcgcw-chqc9",
+          "show": "Talk三联",
+          "title": "EP280 广州美院访问记：当美术生开始做田野调查",
+          "url": "/wiki/sources/ep280-guangzhou-meiyuan-fangwenji-dang-meishusheng-kaishi-zuo-tianye-diaocha-lr4-jmpdo-oo7w8sdmcgcw-chqc9/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/experienceformingeducation/"
+    },
     "ExposureResponsePreventionForOCD": {
       "episode_count": 1,
       "show_count": 1,
@@ -11670,6 +11686,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/guanducampaign/"
+    },
+    "GuangzhouAcademyOfFineArts": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "EP280 广州美院访问记：当美术生开始做田野调查 [lr4_JmpdO-Oo7w8sDmcGcW_chQc9].md",
+          "key": "ep280-guangzhou-meiyuan-fangwenji-dang-meishusheng-kaishi-zuo-tianye-diaocha-lr4-jmpdo-oo7w8sdmcgcw-chqc9",
+          "show": "Talk三联",
+          "title": "EP280 广州美院访问记：当美术生开始做田野调查",
+          "url": "/wiki/sources/ep280-guangzhou-meiyuan-fangwenji-dang-meishusheng-kaishi-zuo-tianye-diaocha-lr4-jmpdo-oo7w8sdmcgcw-chqc9/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/guangzhouacademyoffinearts/"
     },
     "GuideRobotDogs": {
       "episode_count": 1,
@@ -23332,6 +23364,29 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/qingonglatehan/"
     },
+    "QinSi": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "现场！现场！ ｜ 2025年终特辑：三联女记者揭秘新闻背后的苦与光 [loz-sGgelHX166N2Me8v6d8k9A3C].md",
+          "key": "xianchang-xianchang-2025-nianzhong-teji-sanlian-nvjizhe-jiemi-xinwen-beihou-de-ku-yu-guang-loz-sggelhx166n2me8v6d8k9a3c",
+          "show": "Talk三联",
+          "title": "现场！现场！ | 2025年终特辑：三联女记者揭秘新闻背后的苦与光",
+          "url": "/wiki/sources/xianchang-xianchang-2025-nianzhong-teji-sanlian-nvjizhe-jiemi-xinwen-beihou-de-ku-yu-guang-loz-sggelhx166n2me8v6d8k9a3c/"
+        },
+        {
+          "episode_file": "EP280 广州美院访问记：当美术生开始做田野调查 [lr4_JmpdO-Oo7w8sDmcGcW_chQc9].md",
+          "key": "ep280-guangzhou-meiyuan-fangwenji-dang-meishusheng-kaishi-zuo-tianye-diaocha-lr4-jmpdo-oo7w8sdmcgcw-chqc9",
+          "show": "Talk三联",
+          "title": "EP280 广州美院访问记：当美术生开始做田野调查",
+          "url": "/wiki/sources/ep280-guangzhou-meiyuan-fangwenji-dang-meishusheng-kaishi-zuo-tianye-diaocha-lr4-jmpdo-oo7w8sdmcgcw-chqc9/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/qinsi/"
+    },
     "QingheKingdomLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -27689,6 +27744,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/teacheraiaugmentation/"
     },
+    "TeacherStudentCoFieldLearning": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "EP280 广州美院访问记：当美术生开始做田野调查 [lr4_JmpdO-Oo7w8sDmcGcW_chQc9].md",
+          "key": "ep280-guangzhou-meiyuan-fangwenji-dang-meishusheng-kaishi-zuo-tianye-diaocha-lr4-jmpdo-oo7w8sdmcgcw-chqc9",
+          "show": "Talk三联",
+          "title": "EP280 广州美院访问记：当美术生开始做田野调查",
+          "url": "/wiki/sources/ep280-guangzhou-meiyuan-fangwenji-dang-meishusheng-kaishi-zuo-tianye-diaocha-lr4-jmpdo-oo7w8sdmcgcw-chqc9/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/teacherstudentcofieldlearning/"
+    },
     "TechnicalLeadershipForTechnologyCompanies": {
       "episode_count": 1,
       "show_count": 1,
@@ -28912,6 +28983,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/uncapturedhumanexperiencedatalimit/"
     },
+    "UndergraduateArtFieldwork": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "EP280 广州美院访问记：当美术生开始做田野调查 [lr4_JmpdO-Oo7w8sDmcGcW_chQc9].md",
+          "key": "ep280-guangzhou-meiyuan-fangwenji-dang-meishusheng-kaishi-zuo-tianye-diaocha-lr4-jmpdo-oo7w8sdmcgcw-chqc9",
+          "show": "Talk三联",
+          "title": "EP280 广州美院访问记：当美术生开始做田野调查",
+          "url": "/wiki/sources/ep280-guangzhou-meiyuan-fangwenji-dang-meishusheng-kaishi-zuo-tianye-diaocha-lr4-jmpdo-oo7w8sdmcgcw-chqc9/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/undergraduateartfieldwork/"
+    },
     "UnearnedRewardRefusal": {
       "episode_count": 1,
       "show_count": 1,
@@ -29033,6 +29120,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/universityofwashington/"
+    },
+    "UnlearningExamExpression": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "EP280 广州美院访问记：当美术生开始做田野调查 [lr4_JmpdO-Oo7w8sDmcGcW_chQc9].md",
+          "key": "ep280-guangzhou-meiyuan-fangwenji-dang-meishusheng-kaishi-zuo-tianye-diaocha-lr4-jmpdo-oo7w8sdmcgcw-chqc9",
+          "show": "Talk三联",
+          "title": "EP280 广州美院访问记：当美术生开始做田野调查",
+          "url": "/wiki/sources/ep280-guangzhou-meiyuan-fangwenji-dang-meishusheng-kaishi-zuo-tianye-diaocha-lr4-jmpdo-oo7w8sdmcgcw-chqc9/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/unlearningexamexpression/"
     },
     "UntimelyExtravagance": {
       "episode_count": 11,
@@ -29989,6 +30092,71 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/weijilatehan/"
     },
+    "WeiQianSanlian": {
+      "episode_count": 8,
+      "show_count": 1,
+      "source_note_count": 8,
+      "sources": [
+        {
+          "episode_file": "EP272 谁的青春里，没有一本被传阅到卷边的杂志？ [lmWyJ84WfDGnlgsoVKihULfAIpLU].md",
+          "key": "ep272-shui-de-qingchun-li-meiyou-yi-ben-bei-chuanyue-dao-juanbian-de-zazhi-lmwyj84wfdgnlgsovkihulfailu",
+          "show": "Talk三联",
+          "title": "EP272 谁的青春里，没有一本被传阅到卷边的杂志？",
+          "url": "/wiki/sources/ep272-shui-de-qingchun-li-meiyou-yi-ben-bei-chuanyue-dao-juanbian-de-zazhi-lmwyj84wfdgnlgsovkihulfailu/"
+        },
+        {
+          "episode_file": "EP262 高考过后，知识“归零”：我们需要怎样的科学教育？ [ls8ecQcdpE9d5ioYtyCA3jqDF-3r].md",
+          "key": "ep262-gaokao-guohou-zhishi-guiling-women-xuyao-zenyang-de-kexue-jiaoyu-ls8ecqcdpe9d5ioytyca3jqdf-3r",
+          "show": "Talk三联",
+          "title": "EP262 高考过后，知识“归零”：我们需要怎样的科学教育？",
+          "url": "/wiki/sources/ep262-gaokao-guohou-zhishi-guiling-women-xuyao-zenyang-de-kexue-jiaoyu-ls8ecqcdpe9d5ioytyca3jqdf-3r/"
+        },
+        {
+          "episode_file": "EP258 我们如何重拾睡前读书？ [lobyZXqK2oaoV0v51cm355U8NoiX].md",
+          "key": "ep258-women-ruhe-chongshi-shuiqian-dushu-lobyzxqk2oaov0v51cm355u8noix",
+          "show": "Talk三联",
+          "title": "EP258 我们如何重拾睡前读书？",
+          "url": "/wiki/sources/ep258-women-ruhe-chongshi-shuiqian-dushu-lobyzxqk2oaov0v51cm355u8noix/"
+        },
+        {
+          "episode_file": "EP255 厂二代的“继承之战”：年轻人接班会重塑企业吗？ [likvzmPGwXneTPaeZxCLsX4s_HkW].md",
+          "key": "ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw",
+          "show": "Talk三联",
+          "title": "EP255 厂二代的“继承之战”：年轻人接班会重塑企业吗？",
+          "url": "/wiki/sources/ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw/"
+        },
+        {
+          "episode_file": "EP247 重启人生：当农村中年女性开始“做主播” [loZ8Q4e-2AZwdzuqZxAj9B4I5dwj].md",
+          "key": "ep247-chongqi-rensheng-dang-nongcun-zhongnian-nvxing-kaishi-zuo-zhubo-loz8q4e-2azwdzuqzxaj9b4i5dwj",
+          "show": "Talk三联",
+          "title": "EP247 重启人生：当农村中年女性开始“做主播”",
+          "url": "/wiki/sources/ep247-chongqi-rensheng-dang-nongcun-zhongnian-nvxing-kaishi-zuo-zhubo-loz8q4e-2azwdzuqzxaj9b4i5dwj/"
+        },
+        {
+          "episode_file": "EP244 记者眼中的“好工作”，什么样？ [lk8iZ9cLlZx2Jou5_sw9Yt2OgPYb].md",
+          "key": "ep244-jizhe-yanzhong-de-hao-gongzuo-shenme-yang-lk8iz9cllzx2jou5-sw9yt2ogpyb",
+          "show": "Talk三联",
+          "title": "EP244 记者眼中的“好工作”，什么样？",
+          "url": "/wiki/sources/ep244-jizhe-yanzhong-de-hao-gongzuo-shenme-yang-lk8iz9cllzx2jou5-sw9yt2ogpyb/"
+        },
+        {
+          "episode_file": "EP236 唠五块钱心里话，付费的陪伴是真的吗？ [ltVuoEluOEu4-a3j3lAmHc3Buudx].md",
+          "key": "ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx",
+          "show": "Talk三联",
+          "title": "EP236 唠五块钱心里话，付费的陪伴是真的吗？",
+          "url": "/wiki/sources/ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx/"
+        },
+        {
+          "episode_file": "EP280 广州美院访问记：当美术生开始做田野调查 [lr4_JmpdO-Oo7w8sDmcGcW_chQc9].md",
+          "key": "ep280-guangzhou-meiyuan-fangwenji-dang-meishusheng-kaishi-zuo-tianye-diaocha-lr4-jmpdo-oo7w8sdmcgcw-chqc9",
+          "show": "Talk三联",
+          "title": "EP280 广州美院访问记：当美术生开始做田野调查",
+          "url": "/wiki/sources/ep280-guangzhou-meiyuan-fangwenji-dang-meishusheng-kaishi-zuo-tianye-diaocha-lr4-jmpdo-oo7w8sdmcgcw-chqc9/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/weiqiansanlian/"
+    },
     "WeiTengLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -30829,6 +30997,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/xiahouyuan/"
+    },
+    "XiangBiao": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "EP280 广州美院访问记：当美术生开始做田野调查 [lr4_JmpdO-Oo7w8sDmcGcW_chQc9].md",
+          "key": "ep280-guangzhou-meiyuan-fangwenji-dang-meishusheng-kaishi-zuo-tianye-diaocha-lr4-jmpdo-oo7w8sdmcgcw-chqc9",
+          "show": "Talk三联",
+          "title": "EP280 广州美院访问记：当美术生开始做田野调查",
+          "url": "/wiki/sources/ep280-guangzhou-meiyuan-fangwenji-dang-meishusheng-kaishi-zuo-tianye-diaocha-lr4-jmpdo-oo7w8sdmcgcw-chqc9/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/xiangbiao/"
     },
     "XiangKaiLateHan": {
       "episode_count": 1,

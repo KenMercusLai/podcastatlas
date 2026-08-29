@@ -13149,6 +13149,10 @@ Ran health, identity validation, and lint. Health scanned 15,628 wiki pages with
 
 Ingested the Marketplace Tech episode on Meta's proposed teen-safety settlement, Nvidia earnings/customer-financing and custom-chip pressure, and EPA data-center air-permit participation. Created the source note, Environmental Protection Agency, Poolside, and Data Center Air Permit Participation pages; updated Anita Ramaswamy, Social Media Product Liability, AI Circular Infrastructure Financing, AI Chip Specialization, Data Center Community Consent, index, and overview. No settled contradiction found; the Meta settlement still needs judicial approval, Nvidia's circular-financing denial remains a qualification, and EPA permitting effects remain source-scoped because emissions standards and state-level notice choices are disputed.
 
+## [2026-08-29] ingest | EP280 广州美院访问记：当美术生开始做田野调查
+
+Ingested the 2026-08-29 Talk三联 episode on Guangzhou Academy of Fine Arts' first-year art-fieldwork reform, student social fear, field notes, experience formation, teacher-student co-learning, and the unresolved pressure of grades, specialization, and employment. Created the source note plus `GuangzhouAcademyOfFineArts`, `XiangBiao`, `UndergraduateArtFieldwork`, `ExperienceFormingEducation`, `UnlearningExamExpression`, and `TeacherStudentCoFieldLearning`; updated `WeiQianSanlian`, `QinSi`, and `index`. No direct contradiction found; the source qualifies project-based and fieldwork optimism by keeping institutional assessment and career constraints visible.
+
 ## [2026-08-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -13504,6 +13508,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-29] ingest | 《资治通鉴·汉纪》800丨杨震之死：一场奸臣对清官的剿杀
 
 Ingested the 2026-07-08 芮淇讲透资治通鉴 episode on 124 CE Yang Zhen's death, Fan Feng/Zhou Guang/Xie Yun's forged-edict private construction, Zhao Teng's execution after direct criticism, Geng Bao's accusation, Lai Li's rebuke, and Ban Yong's Western Regions submission chain. Created the source note plus `ZhouGuangLateHan`, `XieYunLateHan`, `ZhaoTengLateHan`, and `ForgedEdictPrivateExtraction`; updated `YangZhenLateHan`, `EmperorAnOfHan`, `FanFengEunuchLateHan`, `GengBaoGrandGeneralLateHan`, `LaiLiLateHan`, `BanYongLateHan`, `DirectRemonstranceCriminalization`, `OmenCodedRemonstrance`, `index`, and `overview`. No settled contradiction found; Geng Bao's dahonglu-to-Grand-General chronology, Feng Shi / 冯石, Yi Liang, and minor Western Regions actors remain source-scoped.
+
+## [2026-08-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-29] lint | Wiki health check
 

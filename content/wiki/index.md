@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP280 广州美院访问记：当美术生开始做田野调查](sources/ep280-guangzhou-meiyuan-fangwenji-dang-meishusheng-kaishi-zuo-tianye-diaocha-lr4-jmpdo-oo7w8sdmcgcw-chqc9.md) — Talk三联 episode on Guangzhou Academy of Fine Arts' first-year art-fieldwork reform, student social fear, field notes, experience formation, teacher-student co-learning, and the limits imposed by grades, specialization, and employment pressure.
 - [686. Jefferson: The Betrayal of Liberty (Part 4)](sources/686-jefferson-the-betrayal-of-liberty-part-4-glt6535571769.md) — The Rest Is History episode on Thomas Jefferson's liberty language, first-party politics, presidency, Sally Hemings evidence, Monticello, slavery, and founding memory.
 - [Essentials: The Science & Treatment of Obsessive Compulsive Disorder (OCD)](sources/essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647.md) — Huberman Lab Essentials episode on OCD obsessions, compulsions, anxiety reinforcement, corticostriatal-thalamic circuitry, Y-BOCS assessment, exposure-response prevention, SSRIs, TMS, and clinical supervision boundaries.
 - [《资治通鉴·汉纪》800丨杨震之死：一场奸臣对清官的剿杀](sources/zizhi-tongjian-hanji-800-yangzhen-zhisi-yi-chang-jianchen-dui-qingguan-de-jiaosha-lk9qcfs4xl-rjd-zpwdtsblybxa8.md) — 芮淇讲透资治通鉴 episode on 124 CE Yang Zhen's death under Emperor An, Fan Feng/Zhou Guang/Xie Yun's forged-edict private construction, Zhao Teng's execution, Geng Bao's accusation, and Ban Yong's Western Regions work.
@@ -1694,6 +1695,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [广州美术学院 / Guangzhou Academy of Fine Arts](entities/GuangzhouAcademyOfFineArts.md) — Art-school institution whose first-year undergraduate reform anchors EP280's fieldwork education case.
+- [项飙 / Xiang Biao](entities/XiangBiao.md) — Theoretical reference used in EP280 for distinguishing formative experience from passing experience.
 - [Thomas Jefferson](entities/ThomasJefferson.md) — Founder and third U.S. president whose liberty language, party politics, Monticello slaveholding, and Hemings relationship define the episode's contradiction.
 - [Sally Hemings](entities/SallyHemings.md) — Enslaved Monticello woman whose relationship with Jefferson is framed through family, law, evidence, and coercive power.
 - [Monticello](entities/Monticello.md) — Jefferson's Virginia plantation and architectural project, read as both Enlightenment monument and slavery-dependent estate.
@@ -10005,6 +10008,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Undergraduate Art Fieldwork / 本科艺术田野](concepts/UndergraduateArtFieldwork.md) — First-year art-school fieldwork model that starts from observation, conversation, notes, and ordinary social sites before artistic output.
+- [Experience-Forming Education / 生成经验的教育](concepts/ExperienceFormingEducation.md) — Higher-education frame for turning encounters into durable judgment and self-understanding rather than passing activities.
+- [Unlearning Exam Expression / 去除应试表达](concepts/UnlearningExamExpression.md) — Education failure-mode repair in which students undo theme-first, PPT-first, and exam-trained expression habits.
+- [Teacher-Student Co-Field Learning / 师生共同在场学习](concepts/TeacherStudentCoFieldLearning.md) — Pedagogical pattern where teachers and students learn together in uncertain field situations.
 - [First Party System](concepts/FirstPartySystem.md) — Founding-era U.S. party competition between Jeffersonian Democratic-Republicans and Federalists.
 - [Peaceful Transfer of Power](concepts/PeacefulTransferOfPower.md) — Democratic norm illustrated by the bitter but constitutional 1800 transfer from Federalists to Jefferson.
 - [Jeffersonian Liberty Contradiction](concepts/JeffersonianLibertyContradiction.md) — Problem of Jefferson articulating universal liberty while preserving a slaveholding household and estate.
