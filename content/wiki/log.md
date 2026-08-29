@@ -13444,3 +13444,11 @@ Ingested the 2026-07-09 芮淇讲透资治通鉴 episode on 126 CE Emperor Shun,
 ## [2026-08-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-29] ingest | 《资治通鉴·汉纪》805丨通透人性的女人，竟能预测吉凶？
+
+Ingested the 2026-07-09 芮淇讲透资治通鉴 episode on 125-126 CE Emperor Shun's restoration settlement, Yang Zhen's vindication, Yan-family purge, Yan Taihou's ritual treatment and death, Yu Xu's cleanup of Yan/eunuch networks, and early Qiang/Xianbei pressure. Created the source note plus `EmpressDowagerYanLateHan` and `DefeatedDowagerLegitimacyManagement`; updated `EmperorShunOfHan`, `YuXuEasternHan`, `ZhouJuLateHan`, `SunChengLateHan`, `YangZhenLateHan`, `MaXianLateHan`, `SuccessionLegitimacyPurge`, `index`, and `overview`. No settled contradiction found; Yan Taihou's death cause and minor names including Chen Chan, Li He, Liu Yi, Feng Shi, Liu Xi, Tao Dun, Zhu Chong, Guo Zhen, Shi Yu, and Qu Boyu remain source-scoped.
+
+## [2026-08-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

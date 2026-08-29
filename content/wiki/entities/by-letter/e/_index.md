@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 8273
+wiki_total_pages: 8274
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -524,6 +524,9 @@ wiki_pages:
   - key: "EQianqiu"
     title: "鄂千秋 / E Qianqiu"
     url: "/wiki/entities/eqianqiu/"
+  - key: "EmpressDowagerYanLateHan"
+    title: "阎太后 / Empress Dowager Yan (late Han)"
+    url: "/wiki/entities/empressdowageryanlatehan/"
   - key: "EyuBattle"
     title: "阏与 / 燕宇之战 / Battle of Eyu"
     url: "/wiki/entities/eyubattle/"

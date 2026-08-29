@@ -8,16 +8,19 @@ sources:
   - zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff
   - zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc
   - zizhi-tongjian-hanji-806-xiangyao-chengshi-zhaodui-ren-hen-guanjian-luswh-p-oyutysxue6shweqcwqxs
+  - zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew
 last_updated: 2026-08-29
 ---
 
 ## Overview
 
-周举 / Zhou Ju is a Shun-era late-Han official whose current profile combines superior-pressure remonstrance, root-cause remonstrance, hierarchy-aware advice, recommendation accountability, and omen reading. [[zizhi-tongjian-hanji-806-xiangyao-chengshi-zhaodui-ren-hen-guanjian-luswh-p-oyutysxue6shweqcwqxs|Hanji 806]] shows him pressing [[ZhuChangLateHan|朱伥]] to defend [[SunChengLateHan|孙程]]'s group despite imperial anger; Hanji 816 shows him redirecting [[EmperorShunOfHan|汉顺帝]]'s drought response from prayer toward palace and policy causes; Hanji 819 shows him impeaching [[ZuoXiongLateHan|左雄]] after Zuo recommends a previously corrupt official; Hanji 821 places him in [[LiangShangLateHan|梁商]]'s staff environment, reading an ominous banquet song before Liang Shang recommends him to Shun.
+周举 / Zhou Ju is a Shun-era late-Han official whose current profile combines classical-precedent legitimacy advice, superior-pressure remonstrance, root-cause remonstrance, hierarchy-aware advice, recommendation accountability, and omen reading. Hanji 805 shows him warning through Li He that confining [[EmpressDowagerYanLateHan|阎太后]] after the Yan purge would damage [[EmperorShunOfHan|汉顺帝]]'s authority; Hanji 806 shows him pressing [[ZhuChangLateHan|朱伥]] to defend [[SunChengLateHan|孙程]]'s group despite imperial anger; Hanji 816-821 extend the pattern through drought advice, recommendation-accountability impeachment, and ominous reading in [[LiangShangLateHan|梁商]]'s staff environment.
 
 ## Current Profile
 
-[[zizhi-tongjian-hanji-806-xiangyao-chengshi-zhaodui-ren-hen-guanjian-luswh-p-oyutysxue6shweqcwqxs|Hanji 806]] supplies Zhou Ju's earliest current layer. As a staffer under Situ Zhu Chang, Zhou Ju argues that Zhu Chang must speak for Sun Cheng and the other marquises after Shun removes their offices, relocates their fiefs, and sends them away from Luoyang. When Zhu Chang fears imperial anger, Zhou Ju presses the duty frame harder: if the contributors die in bitterness, Shun will bear the reputation of killing contributors, and Zhu Chang will have failed to speak.
+[[zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew|Hanji 805]] supplies Zhou Ju's earliest current layer. As a Situ staffer from Runan, Zhou Ju advises Li He against the court consensus to move Yan Taihou away. He cites Shun, Zheng Zhuang Gong, and Qin Shi Huang as cases where filial repair after correction became praiseworthy, then turns the allusion into a practical warning: after Yan Xian's brothers have just been executed, confining Yan Taihou before an unexpected death would make it hard for Shun to command the empire. Li He memorializes the point, and Shun visibly visits Yan Taihou at the East Palace.
+
+[[zizhi-tongjian-hanji-806-xiangyao-chengshi-zhaodui-ren-hen-guanjian-luswh-p-oyutysxue6shweqcwqxs|Hanji 806]] supplies Zhou Ju's next current layer. As a staffer under Situ Zhu Chang, Zhou Ju argues that Zhu Chang must speak for Sun Cheng and the other marquises after Shun removes their offices, relocates their fiefs, and sends them away from Luoyang. When Zhu Chang fears imperial anger, Zhou Ju presses the duty frame harder: if the contributors die in bitterness, Shun will bear the reputation of killing contributors, and Zhu Chang will have failed to speak.
 
 [[zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc|Hanji 816]] supplies Zhou Ju's next current layer. When Shun prays for rain after drought and amnesty, Zhou Ju argues that method and goal are misaligned unless the court corrects causes: palace luxury, expanded harem intake, resentment among families, unmarried men, and expensive food supply. When Shun asks who is corrupt or treacherous, Zhou Ju avoids becoming a mere name-list weapon and instead gives a criterion: repeated frank correction marks loyal officials, while flattery and echoing mark treachery.
 
@@ -29,16 +32,19 @@ The combined profile makes Zhou Ju a feedback actor in several directions. He co
 
 ## Key Characteristics
 
+- Classical-precedent adviser who turns filial stories into a concrete succession-legitimacy warning.
 - Staff-level initiator who pressures a superior to remonstrate when accession contributors are politically contained.
 - Root-cause remonstrant who ties drought anxiety to palace luxury, harem policy, and public resentment.
 - Hierarchy-aware adviser who answers Shun's request for names by giving a decision criterion instead.
 - Public-duty official willing to impeach the person who had previously recommended him.
 - Recommendation-quality critic who rejects the idea that "brave" means corruption can be ignored.
-- Omen-reading actor who interprets a banquet song as a death warning.
 - Remonstrance-office figure whose value is tied to court feedback rather than field command.
 
 ## Evidence
 
+- Yan Taihou advice: [[zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew|Hanji 805]] says Zhou Ju advises Li He to oppose separating Yan Taihou after the Yan-family purge.
+- Classical-precedent frame: [[zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew|Hanji 805]] says Zhou Ju invokes Shun, Zheng Zhuang Gong, and Qin Shi Huang as corrected filial models.
+- Legitimacy warning and outcome: [[zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew|Hanji 805]] says Zhou Ju warns that confinement followed by accident would weaken Shun's command, after which Li He memorializes and Shun visits Yan Taihou with full rites.
 - Superior-duty pressure: [[zizhi-tongjian-hanji-806-xiangyao-chengshi-zhaodui-ren-hen-guanjian-luswh-p-oyutysxue6shweqcwqxs|Hanji 806]] says Zhou Ju urges Zhu Chang to memorialize on behalf of Sun Cheng's group despite fear of Shun's anger.
 - Reputation-risk framing: [[zizhi-tongjian-hanji-806-xiangyao-chengshi-zhaodui-ren-hen-guanjian-luswh-p-oyutysxue6shweqcwqxs|Hanji 806]] says Zhou Ju warns that Shun would bear the name of killing contributors if the demoted marquises died in bitterness.
 - Memorial outcome: [[zizhi-tongjian-hanji-806-xiangyao-chengshi-zhaodui-ren-hen-guanjian-luswh-p-oyutysxue6shweqcwqxs|Hanji 806]] says Zhu Chang submits the memorial and Shun accepts the appeal.
@@ -54,18 +60,21 @@ The combined profile makes Zhou Ju a feedback actor in several directions. He co
 
 ## Qualifications
 
-This page is bounded to Hanji 806, Hanji 821, Hanji 819, and Hanji 816. It does not reconstruct Zhou Ju's full official career, later memorials, or independent evidentiary basis for the omen beyond the episodes' accounts. Hanji 806 shows Zhou Ju's behind-the-scenes pressure on Zhu Chang but does not show Zhou Ju directly memorializing Shun in that episode. Hanji 816 shows his drought counsel and loyalty criterion but does not settle how much policy Shun actually implemented. Feng Zhi's biography and the exact legal status of the prior corruption offense remain source-scoped.
+This page is bounded to Hanji 805, Hanji 806, Hanji 821, Hanji 819, and Hanji 816. It does not reconstruct Zhou Ju's full official career, later memorials, or independent evidentiary basis for the omen beyond the episodes' accounts. Hanji 805 shows Zhou Ju advising through Li He rather than directly memorializing Shun; Hanji 806 similarly shows behind-the-scenes pressure on Zhu Chang. Hanji 816 shows his drought counsel and loyalty criterion but does not settle how much policy Shun actually implemented. Feng Zhi's biography and the exact legal status of the prior corruption offense remain source-scoped.
 
 ## What Changed
 
-- Added Hanji 806 as Zhou Ju's earliest current layer: pressure on Zhu Chang to defend Sun Cheng's group despite imperial anger.
+- Added Hanji 805 as Zhou Ju's earliest current layer: advice through Li He to preserve Yan Taihou's ritual treatment after the Yan-family purge.
+- Reframed Hanji 806 as the next staff-pressure layer: pressure on Zhu Chang to defend Sun Cheng's group despite imperial anger.
 - Reframed Zhou Ju as a feedback actor across superior pressure, disaster counsel, dangerous questioning, recommendation accountability, and omen reading.
 - Preserved Hanji 819's recommendation-accountability dispute with Zuo Xiong.
 - Preserved Hanji 821's omen-reading and Liang Shang recommendation layer.
 
 ## Relationships
 
-- [[EmperorShunOfHan|汉顺帝]] - ruler whom Zhou Ju advises on drought causes and who later appoints him as remonstrance adviser.
+- [[EmperorShunOfHan|汉顺帝]] - ruler whose Yan Taihou treatment, drought response, and later remonstrance staffing are all shaped by Zhou Ju's advice.
+- [[EmpressDowagerYanLateHan|阎太后]] - defeated dowager whose treatment Zhou Ju reframes as a legitimacy problem.
+- [[DefeatedDowagerLegitimacyManagement|失势太后名分处置]] - concept directly grounded by Zhou Ju's warning against confinement.
 - [[SunChengLateHan|孙程]] - accession contributor whose group Zhou Ju urges Zhu Chang to defend.
 - [[ZhuChangLateHan|朱伥]] - Zhou Ju's superior whom he presses to memorialize under risk of imperial anger.
 - [[RootCauseRemonstrance|根源诊断式进谏]] - concept illustrated by Zhou Ju's shift from rain prayer to palace and policy causes.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 5917
+wiki_total_pages: 5918
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -233,6 +233,9 @@ wiki_pages:
   - key: "DefaultModeNetwork"
     title: "Default Mode Network"
     url: "/wiki/concepts/defaultmodenetwork/"
+  - key: "DefeatedDowagerLegitimacyManagement"
+    title: "Defeated Dowager Legitimacy Management / 失势太后名分处置"
+    url: "/wiki/concepts/defeateddowagerlegitimacymanagement/"
   - key: "DefeatedPopulationConversion"
     title: "Defeated Population Conversion / 降众资源化"
     url: "/wiki/concepts/defeatedpopulationconversion/"

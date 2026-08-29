@@ -7,16 +7,21 @@ sources:
   - zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr
   - zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc
   - zizhi-tongjian-hanji-806-xiangyao-chengshi-zhaodui-ren-hen-guanjian-luswh-p-oyutysxue6shweqcwqxs
+  - zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew
 last_updated: 2026-08-29
 ---
 
 ## Overview
 
-虞诩 / Yu Xu is a Shun-era official whose current wiki profile combines court-risk courage, personnel recommendation, and frontier-policy judgment. Hanji 806 shows him surviving [[ZhangFangEunuchLateHan|张防]]'s retaliation after refusing quiet suicide and then recommending [[ZuoXiongLateHan|左雄]]; Hanji 810 shows [[EmperorShunOfHan|汉顺帝]] accepting his Anding/Beidi/Shangjun restoration proposal; Hanji 818 shows Shun rejecting his later Wuling tax warning.
+虞诩 / Yu Xu is a Shun-era official whose current wiki profile combines purge enforcement, court-risk courage, personnel recommendation, and frontier-policy judgment. Hanji 805 shows him cleaning out Yan-connected ministers and non-restoration eunuchs after [[EmperorShunOfHan|汉顺帝]]'s restoration; Hanji 806 shows him surviving [[ZhangFangEunuchLateHan|张防]]'s retaliation after refusing quiet suicide and then recommending [[ZuoXiongLateHan|左雄]]; Hanji 810 shows Shun accepting his Anding/Beidi/Shangjun restoration proposal; Hanji 818 shows Shun rejecting his later Wuling tax warning.
 
 ## Current Profile
 
-[[zizhi-tongjian-hanji-806-xiangyao-chengshi-zhaodui-ren-hen-guanjian-luswh-p-oyutysxue6shweqcwqxs|Hanji 806]] supplies Yu Xu's earliest current layer. As Zhang Fang's bribery and power abuse go unpunished, Yu Xu repeatedly memorializes and then uses prison as a way to keep pressing the case before Shun. Zhang Fang's palace access reverses the accusation: Yu Xu is sent to left-school labor and interrogated repeatedly. Yu Xu refuses the prison officials' advice to commit suicide, arguing that public punishment at least leaves a way for right and wrong to be distinguished.
+[[zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew|Hanji 805]] supplies Yu Xu's earliest current layer. As sili xiaowei after Shun's restoration, he impeaches Feng Shi and Liu Xi for lacking official backbone, flattering power, and attaching themselves to the Yan outer relatives when the Yan family dominated court. He then turns against the eunuchs Cheng Huang, Chen Bing, Meng Sheng, and Li Run, arguing that they were not true restoration helpers but older palace actors from Emperor An's period. The host reads Yu Xu here as a useful but dangerous cleanup instrument: his cases fit Shun's succession needs and also clear rival palace actors for the nineteen marquises' side.
+
+The same source shows immediate backlash. The Three Excellencies accuse Yu Xu of violating normal law after an amnesty and of harming officials and people through broad arrests. Yu Xu answers that law is the barrier ordering custom and punishment is the bridle for people; he accuses local offices of shifting blame downward, says compliant self-preservation is being treated as virtue, and argues that the Three Excellencies attacked first because they feared his reports. Shun reads the memorial and does not punish him.
+
+[[zizhi-tongjian-hanji-806-xiangyao-chengshi-zhaodui-ren-hen-guanjian-luswh-p-oyutysxue6shweqcwqxs|Hanji 806]] supplies the next court-risk layer. As Zhang Fang's bribery and power abuse go unpunished, Yu Xu repeatedly memorializes and then uses prison as a way to keep pressing the case before Shun. Zhang Fang's palace access reverses the accusation: Yu Xu is sent to left-school labor and interrogated repeatedly. Yu Xu refuses the prison officials' advice to commit suicide, arguing that public punishment at least leaves a way for right and wrong to be distinguished.
 
 Yu Xu's survival depends on a support chain. Friends seek [[SunChengLateHan|孙程]], Yu Xu's son and more than one hundred students petition outside the palace, and [[GaoFanLateHan|高梵]] reports the public pressure to Shun. Shun banishes Zhang Fang, punishes Jia Lang and others, releases Yu Xu, and then appoints him yilang and Shangshu puye after Sun Cheng's further memorial. Yu Xu uses the restored position to recommend Zuo Xiong as a direct and loyal official, criticizing a court culture that rewards smooth self-preservation over frank public duty.
 
@@ -26,16 +31,19 @@ Yu Xu's survival depends on a support chain. Friends seek [[SunChengLateHan|孙�
 
 ## Key Characteristics
 
-- Anti-eunuch accuser who refuses to let Zhang Fang's retaliation become an unseen prison death.
-- Public-witness figure whose courage depends on keeping truth visible rather than only surviving.
+- Post-restoration purge enforcer who targets Yan-connected ministers and older non-restoration eunuchs.
+- Hard self-defender who treats law as public restraint and accuses high officials of preemptive self-protection.
+- Anti-eunuch accuser and public-witness figure who refuses to let Zhang Fang's retaliation become an unseen prison death.
 - Ally-network beneficiary whose rescue requires Sun Cheng, Gao Fan, family, and students to reopen a blocked channel.
 - Talent recommender who moves from personal rescue to naming Zuo Xiong as a loyal and direct official.
 - Frontier-policy adviser who integrates geography, settlement, and state-security costs.
-- Successful advocate for restoring Anding, Beidi, and Shangjun as a defensive and productive commandery belt.
 - Cost-based dissenter whose later Wuling warning treats short-term revenue as likely to provoke larger disorder.
 
 ## Evidence
 
+- Yan-network cleanup: [[zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew|Hanji 805]] says Yu Xu impeaches Feng Shi and Liu Xi for attaching themselves to the Yan outer relatives and flattering power during the earlier court.
+- Palace cleanup: [[zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew|Hanji 805]] says Yu Xu also impeaches Cheng Huang, Chen Bing, Meng Sheng, and Li Run as older eunuch actors rather than true Shun-restoration helpers.
+- Bureaucratic backlash and self-defense: [[zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew|Hanji 805]] says the Three Excellencies accuse Yu Xu of overreaching after amnesty, while Yu Xu defends law and punishment as public order and Shun does not punish him.
 - Anti-eunuch prosecution and retaliation: [[zizhi-tongjian-hanji-806-xiangyao-chengshi-zhaodui-ren-hen-guanjian-luswh-p-oyutysxue6shweqcwqxs|Hanji 806]] says Yu Xu repeatedly accuses Zhang Fang of bribery and power abuse, then is punished after Zhang Fang complains to Shun.
 - Refusal of quiet death: [[zizhi-tongjian-hanji-806-xiangyao-chengshi-zhaodui-ren-hen-guanjian-luswh-p-oyutysxue6shweqcwqxs|Hanji 806]] says Yu Xu refuses suicide because silent death would leave no one able to distinguish right from wrong.
 - Rescue through access chain: [[zizhi-tongjian-hanji-806-xiangyao-chengshi-zhaodui-ren-hen-guanjian-luswh-p-oyutysxue6shweqcwqxs|Hanji 806]] says friends, students, Sun Cheng, and Gao Fan help move the case back to Shun, resulting in Zhang Fang's banishment and Yu Xu's release.
@@ -48,17 +56,19 @@ Yu Xu's survival depends on a support chain. Friends seek [[SunChengLateHan|孙�
 
 ## Qualifications
 
-This page is bounded to Hanji 818, Hanji 810, and Hanji 806 and does not attempt a complete Yu Xu biography. Hanji 806 establishes a court-imprisonment and rescue layer before the later frontier-policy layers, while Hanji 810 and Hanji 818 still show that Shun can accept Yu Xu's advice in one frontier context and reject it in another. The Hanji 818 transcript writes 于许; this page preserves the durable route 虞诩 while retaining normalization caution through the source note.
+This page is bounded to Hanji 818, Hanji 810, Hanji 806, and Hanji 805 and does not attempt a complete Yu Xu biography. Hanji 805 establishes a purge-enforcement and bureaucratic-backlash layer before the court-imprisonment and rescue layer in Hanji 806, while Hanji 810 and Hanji 818 still show that Shun can accept Yu Xu's advice in one frontier context and reject it in another. The Hanji 818 transcript writes 于许; this page preserves the durable route 虞诩 while retaining normalization caution through the source note. Feng Shi, Liu Xi, Cheng Huang, Chen Bing, Meng Sheng, and Li Run remain source-scoped.
 
 ## What Changed
 
-- Added Hanji 806 as Yu Xu's earliest current layer: anti-Zhang Fang prosecution, refusal of quiet suicide, ally-backed release, and Zuo Xiong recommendation.
+- Added Hanji 805 as Yu Xu's earliest current layer: Yan-side minister impeachment, older-eunuch cleanup, Three Excellencies backlash, and hard self-defense accepted by Shun.
+- Preserved Hanji 806 as the next current layer: anti-Zhang Fang prosecution, refusal of quiet suicide, ally-backed release, and Zuo Xiong recommendation.
 - Added Hanji 810's accepted three-commandery restoration proposal, making Yu Xu both a successful frontier-restoration adviser and a later rejected tax-stability warning figure.
 - Preserved Hanji 818's Wuling tax warning as the evidence for Yu Xu's cost-based frontier reasoning.
 
 ## Relationships
 
-- [[EmperorShunOfHan|汉顺帝]] - ruler who accepts Yu Xu's commandery restoration advice and later rejects his Wuling tax warning.
+- [[EmperorShunOfHan|汉顺帝]] - ruler whose restoration cleanup Yu Xu serves, who later accepts Yu Xu's commandery restoration advice, and who rejects Yu Xu's Wuling tax warning.
+- [[SuccessionLegitimacyPurge|继位合法性清洗]] - broader pattern visible when Yu Xu's prosecutions help consolidate the Shun restoration.
 - [[ZhangFangEunuchLateHan|张防]] - eunuch powerholder whose retaliation nearly kills Yu Xu.
 - [[SunChengLateHan|孙程]] - palace-access ally whose intervention helps save Yu Xu.
 - [[GaoFanLateHan|高梵]] - palace channel whose report carries Yu Xu's family-and-student petition to Shun.

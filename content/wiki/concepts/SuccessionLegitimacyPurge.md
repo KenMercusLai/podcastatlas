@@ -1,39 +1,62 @@
 ---
 title: "Succession Legitimacy Purge / 继位合法性清洗"
 type: concept
-tags: [succession, legitimacy, purge, court-politics, qin-dynasty]
-sources: [zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt, zizhi-tongjian-qinji-128-1-buxiang-cuanwei-de-taijian-bushi-ge-hao-jianchen-lh23xj9qxvubj5rlfa9fxmddgbiu]
-last_updated: 2026-08-25
+knowledge_schema: synthesis-v1
+tags: [succession, legitimacy, purge, court-politics, qin-dynasty, late-han]
+sources:
+  - zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt
+  - zizhi-tongjian-qinji-128-1-buxiang-cuanwei-de-taijian-bushi-ge-hao-jianchen-lh23xj9qxvubj5rlfa9fxmddgbiu
+  - zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew
+last_updated: 2026-08-29
 ---
 
-# Succession Legitimacy Purge / 继位合法性清洗
+## Definition
 
-[[zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt|Hanji 943]] adds a late-Han accession-camp variant. After [[LiuBianHongnongWang|刘辩 / 弘农王]] is enthroned, the He side does not merely celebrate the succession; it eliminates the alternative support line around Liu Xie, later [[EmperorXianOfHan|汉献帝]], by killing [[JianShuoLateHan|蹇硕]] and then moving against [[EmpressDowagerDongLateHan|董太后]] and [[DongZhongLateHan|董重]].
+Succession legitimacy purge / 继位合法性清洗 is the post-accession mechanism where an insecure or contested succession produces removal, killing, demotion, or symbolic neutralization of rival kin, old ministers, witnesses, and alternative support networks so the new order appears irreversible.
 
-This case differs from the Qin Ershi pattern because the new ruler is not personally directing the purge. The mechanism runs through outer-relative and dowager power: [[HeJin|何进]] and [[EmpressDowagerHe|何太后]] remove figures whose existence makes the succession look contestable. The concept therefore broadens from ruler insecurity to victorious-camp consolidation after an unsettled accession.
+## Current Synthesis
 
-Succession legitimacy purge / 继位合法性清洗 is the post-accession mechanism [[zizhi-tongjian-qinji-128-1-buxiang-cuanwei-de-taijian-bushi-ge-hao-jianchen-lh23xj9qxvubj5rlfa9fxmddgbiu|Qinji 128-1]] draws from [[QinErshi|胡亥 / 秦二世]]'s first year. A ruler whose accession feels unsafe turns potential witnesses, rival kin, senior ministers, and old regime servants into threats that must be eliminated before he can enjoy power.
+The concept now has three source shapes. [[zizhi-tongjian-qinji-128-1-buxiang-cuanwei-de-taijian-bushi-ge-hao-jianchen-lh23xj9qxvubj5rlfa9fxmddgbiu|Qinji 128-1]] grounds the ruler-fear version: [[QinErshi|胡亥 / 秦二世]] is persuaded by [[ZhaoGao|赵高]] that pleasure must wait until rival princes, senior ministers, and witnesses to the [[ShaqiuCrisis|沙丘]] transition are destroyed or replaced.
 
-The mechanism is distinct from [[ForgedEdictSuccessionCoup|伪诏继位政变]]. A forged-edict coup explains how someone gets the throne; succession legitimacy purge explains why holding the throne immediately produces a campaign against those whose existence reminds the ruler that the succession was contested or irregular.
+The 189 CE late-Han case broadens the mechanism to winning-camp consolidation. After [[LiuBianHongnongWang|刘辩 / 弘农王]] is enthroned, the He side eliminates the rival Liu Xie support line by killing [[JianShuoLateHan|蹇硕]] and then moving against [[EmpressDowagerDongLateHan|董太后]] and [[DongZhongLateHan|董重]] in [[zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt|Hanji 943]]. The new ruler is not the sole driver; outer-relative and dowager power can run the purge.
 
-In the source case, [[ZhaoGao|赵高]] first flatters Hu Hai's desire for pleasure, then says pleasure must wait because princes and ministers may suspect the [[ShaqiuCrisis|沙丘]] transition. His recommended solution combines [[LegalistRulerTechnique|法家君术]], harsh punishment, [[CollateralPunishmentAndGuiltByAssociation|mutual implication]], and personnel replacement: destroy great ministers and royal kin, raise the low and poor, and make the court dependent on Hu Hai and Zhao Gao.
-
-The source's concrete victims show why this is more than abstract "consolidation." [[YingJianglu|嬴将闾]] cannot get a clear charge before being forced into suicide, while [[YingGao|嬴高]] chooses a death petition to avoid implicating his family. The purge therefore uses law's language while hollowing out law's evidence and procedure.
+The Shun restoration case adds a limiting condition. [[EmperorShunOfHan|汉顺帝]]'s restoration destroys the Yan outer-relative network and removes Yan-connected ministers and older palace eunuchs in [[zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew|Hanji 805]], but the court must also manage [[EmpressDowagerYanLateHan|阎太后]]'s formal status. This makes the mechanism more precise: purge can consolidate accession only if it does not visibly destroy the titles and rituals that the new ruler still needs.
 
 ## Key Claims
-- Hanji 943 adds that a succession legitimacy purge can be driven by the winning accession camp and outer relatives, not only by the enthroned ruler's personal fear.
-- A weak or suspect succession can keep producing violence after the throne has been formally obtained.
-- The ruler's insecurity makes relatives dangerous simply because they embody alternate claims.
-- A manipulative adviser can profit by making the ruler's fear look like a state-security problem.
-- Legal language can make a purge administratively legible without making it substantively lawful.
-- Collateral punishment intensifies the purge because victims may choose death to protect households.
-- Personnel replacement is part of the mechanism: killing old officials creates openings for dependent followers.
-- Pleasure-seeking and violence are linked in the source because the ruler sees purge as the condition for carefree enjoyment.
 
-## Connections
-- [[zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt|Hanji 943]], [[HeJin|何进]], [[EmpressDowagerHe|何太后]], [[EmpressDowagerDongLateHan|董太后]], [[DongZhongLateHan|董重]], [[JianShuoLateHan|蹇硕]], and [[EmperorXianOfHan|汉献帝]] - late-Han winning-camp purge of the rival Liu Xie support line.
-- [[QinErshi|胡亥 / 秦二世]], [[ZhaoGao|赵高]], [[QinShiHuang|秦始皇]], [[YingJianglu|嬴将闾]], and [[YingGao|嬴高]] - source case and victims.
-- [[ForgedEdictSuccessionCoup|伪诏继位政变]], [[EmergencySuccessionLegitimation|临终就近立储]], [[AutocraticSuccession]], and [[SuccessionNonDesignationRisk|未定继承人风险]] - succession mechanisms around the same Qin transition.
-- [[StatusAnxietyPersuasion|位阶焦虑式说服]] - adjacent persuasion pattern Zhao Gao had already used on Li Si and now redirects toward Hu Hai's fear.
-- [[LegalistRulerTechnique|法家君术]], [[CollateralPunishmentAndGuiltByAssociation|连坐式牵连惩罚]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - legal, punishment, and information-collapse infrastructure.
-- [[ZiyingQin|子婴]], [[MengTian|蒙恬]], and [[MengYiQin|蒙毅]] - earlier post-accession warning and Meng-family purge branch.
+- A weak or suspect succession can keep producing coercion after the throne has been formally obtained.
+- The mechanism can be driven by the enthroned ruler, an adviser, or the winning accession camp rather than by one actor alone.
+- Rival kin and old ministers become dangerous because their continued existence makes the succession look contestable.
+- Legal, administrative, or ritual language can make a purge legible without making it substantively just.
+- Personnel replacement is part of the purge because removing old networks opens offices for dependent followers.
+- Collateral punishment or household exposure can force victims to choose death to protect family members.
+- Hanji 805 adds that a purge may need ritual restraint: degrading a defeated dowager can damage the same legitimacy the purge is meant to secure.
+
+## Evidence
+
+- Ruler-fear purge: [[zizhi-tongjian-qinji-128-1-buxiang-cuanwei-de-taijian-bushi-ge-hao-jianchen-lh23xj9qxvubj5rlfa9fxmddgbiu|Qinji 128-1]] shows Zhao Gao telling Qin Ershi that princes and ministers may suspect the Shaqiu transition, then recommending destruction of great ministers and royal kin plus replacement with low and dependent followers.
+- Legal hollowing: [[zizhi-tongjian-qinji-128-1-buxiang-cuanwei-de-taijian-bushi-ge-hao-jianchen-lh23xj9qxvubj5rlfa9fxmddgbiu|Qinji 128-1]] shows Ying Jianglu unable to obtain a clear charge before suicide and Ying Gao using a death petition to avoid implicating his household.
+- Winning-camp purge: [[zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt|Hanji 943]] shows He Jin, Empress Dowager He, and allied ministers moving from Liu Bian's accession to killing Jian Shuo and eliminating the Dong side around Liu Xie.
+- Rival-support-line logic: [[zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt|Hanji 943]] makes Dong Taihou and Dong Zhong targets because they represent the alternate Liu Xie succession base, not just isolated personal enemies.
+- Shun restoration purge: [[zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew|Hanji 805]] says Sun Cheng's eunuch-backed coup restores Shun, the Yan outer relatives are destroyed, and Yu Xu later impeaches Yan-connected ministers and non-restoration eunuch rivals.
+- Ritual restraint: [[zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew|Hanji 805]] says Zhou Ju warns that confining Yan Taihou after the Yan brothers' execution would endanger Shun's ability to command if she died unexpectedly.
+
+## Counterevidence & Qualifications
+
+The source cases should not be flattened into one motive or one level of violence. Qin Ershi's case centers on ruler fear and Zhao Gao's manipulation; Hanji 943 centers on outer-relative and dowager camp consolidation; Hanji 805 centers on Shun's restoration cleanup plus the need to protect dowager ritual status. Hanji 805 also does not prove Yan Taihou's true cause of death, and it should not be used as evidence that every post-succession purge included hidden killing. The concept remains distinct from [[ForgedEdictSuccessionCoup|伪诏继位政变]], which explains the seizure route rather than the post-accession cleanup.
+
+## What Changed
+
+- Migrated the page into the synthesis-v1 concept schema.
+- Added Hanji 805 as a Shun-era restoration case where Yan-family destruction and Yu Xu's cleanup are constrained by Yan Taihou's remaining ritual status.
+- Reframed the concept as a family of post-accession purge mechanisms driven by ruler fear, winning-camp consolidation, or restoration cleanup.
+
+## Related Concepts
+
+- [[ForgedEdictSuccessionCoup|伪诏继位政变]] - prior mechanism explaining how a throne is seized before post-accession purge begins.
+- [[SuccessionNonDesignationRisk|未定继承人风险]] - upstream risk where failure to settle the heir creates rival support lines.
+- [[DefeatedDowagerLegitimacyManagement|失势太后名分处置]] - limiting pattern where a defeated dowager's title must be managed rather than simply crushed.
+- [[OuterRelativeCourtPower|外戚专权与清算]] - institutional field because maternal families often drive or suffer succession purges.
+- [[LegalistRulerTechnique|法家君术]] - Qin-side technique that rationalizes violent consolidation through ruler-security language.
+- [[CollateralPunishmentAndGuiltByAssociation|连坐式牵连惩罚]] - punishment mechanism that turns individual accusation into household danger.
+- [[CourtFeedbackCollapse|君臣反馈失灵]] - consequence and enabling condition when purge incentives silence correction and turn accusation into survival tactic.
