@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》807丨班超之子为何会含冤入狱？](sources/zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d.md) — 芮淇讲透资治通鉴 episode on 126-127 CE Emperor Shun, Ban Yong's Western Regions restoration, Zhang Lang's early Yanqi attack, Ban Yong's wrongful imprisonment, and Xu Jing's clean nonalignment under outer-relative power.
 - [《资治通鉴·汉纪》808丨他究竟是名家还是骗子？](sources/zizhi-tongjian-hanji-808-ta-jiujing-shi-mingjia-haishi-pianzi-lhmsw7zusdkqddk-zu27oj6hfs2m.md) — 芮淇讲透资治通鉴 episode on Fan Ying's forced summons, repeated refusal of office, Sima Guang's distinction between principled reclusion and false reputation, and ruler self-examination in talent recruitment.
 - [《资治通鉴·汉纪》809丨为什么劝你不要乱拍马屁？](sources/zizhi-tongjian-hanji-809-weishenme-quan-ni-buyao-luan-pai-mapi-lnv2l-ehkzmf2ifz3semscaqftku.md) — 芮淇讲透资治通鉴 episode on 127-129 CE Emperor Shun, Huang Qiong's summons and Shangshu competence, Li Gu's warning against reputation-only reclusion, and Wen Long's pearl tribute being returned as flattery after Shun's frugality edict.
 - [《资治通鉴·汉纪》810丨他拼个满门被斩，为何也要杀妻？](sources/zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc.md) — 芮淇讲透资治通鉴 episode on 129-131 CE Emperor Shun, Yu Xu's Anding/Beidi/Shangjun restoration, Khotan's seizure of Jumi, Ban Shi's killing of Yincheng Princess, Shen Jing's Hejian cleanup, Yiwu tuntian restoration, Taixue rebuilding, and Ma Xu's Qiang-field reversal.
@@ -1684,6 +1685,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [班勇 / Ban Yong (late Han)](entities/BanYongLateHan.md) — Eastern Han Western Regions commander whose successful Cheshi and anti-Xiongnu restoration is followed by wrongful punishment after Zhang Lang's early Yanqi attack.
+- [张郎 / Zhang Lang (late Han)](entities/ZhangLangLateHan.md) — Dunhuang administrator whose prior offense pushes him to attack Yanqi early, receive surrender, and shift apparent lateness onto Ban Yong.
+- [焉耆国 / Yanqi Kingdom (late Han)](entities/YanqiKingdomLateHan.md) — Western Regions holdout whose fear-driven surrender to Zhang Lang becomes the occasion for Ban Yong's court blame.
+- [徐敬 / Xu Jing (late Han)](entities/XuJingLateHan.md) — Runan official appointed situ under Emperor Shun after preserving a clean nonaligned record through earlier outer-relative regimes.
 - [樊英 / Fan Ying (late Han)](entities/FanYingLateHan.md) — Nanyang recluse whose repeated refusal of summons becomes a test case for reputation, genuine reclusion, and public contribution under Emperor Shun.
 - [班始 / Ban Shi (late Han)](entities/BanShiLateHan.md) — Ban-family descendant executed after killing Yincheng Princess, with punishment extending to his full siblings.
 - [阴城公主 / Princess Yincheng](entities/YinChengPrincess.md) — Shun's aunt whose marriage to Ban Shi becomes a case of princess-marriage power asymmetry and collateral punishment.
@@ -9955,6 +9960,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [军功归属错置 / Command Credit Misattribution](concepts/CommandCreditMisattribution.md) — Failure mode where visible surrender timing and reporting assign campaign credit or blame away from the underlying plan and incentives.
+- [边疆代理承诺绑定 / Frontier Proxy Commitment Binding](concepts/FrontierProxyCommitmentBinding.md) — Frontier strategy where local kingship and irreversible action against an outside power bind a dependent polity's future alignment.
+- [不依附式朝廷生存 / Nonaligned Court Survival](concepts/NonalignedCourtSurvival.md) — Political-survival pattern where avoiding dependence on dominant factions preserves later trust after those factions fall.
 - [真隐士与伪隐士辨别 / Reclusion Authenticity Assessment](concepts/ReclusionAuthenticityAssessment.md) — Judgment frame distinguishing principled withdrawal, honorable but limited virtue, and false reclusion that arbitrages reputation.
 - [求贤中的君主自省 / Talent Summons Ruler Self-Examination](concepts/TalentSummonsRulerSelfExamination.md) — Recruitment principle that a ruler should inspect virtue, order, advisers, and sincerity before coercing reluctant worthy people.
 - [边郡恢复治理 / Frontier Commandery Restoration](concepts/FrontierCommanderyRestoration.md) — Strategy of restoring abandoned frontier commanderies when geography, logistics, settlement, and defense make abandonment more dangerous than repair.

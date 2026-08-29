@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 5914
+wiki_total_pages: 5917
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1046,6 +1046,9 @@ wiki_pages:
   - key: "FrontierVassalContainment"
     title: "边境迁封式牵制 / Frontier Vassal Containment"
     url: "/wiki/concepts/frontiervassalcontainment/"
+  - key: "FrontierProxyCommitmentBinding"
+    title: "边疆代理承诺绑定 / Frontier Proxy Commitment Binding"
+    url: "/wiki/concepts/frontierproxycommitmentbinding/"
   - key: "FrontierConscriptionBackfire"
     title: "边疆征发反噬 / Frontier Conscription Backfire"
     url: "/wiki/concepts/frontierconscriptionbackfire/"

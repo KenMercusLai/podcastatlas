@@ -6019,6 +6019,10 @@
     "title": "班始 / Ban Shi (late Han)",
     "url": "/wiki/entities/banshilatehan/"
   },
+  "BanYongLateHan": {
+    "title": "班勇 / Ban Yong (late Han)",
+    "url": "/wiki/entities/banyonglatehan/"
+  },
   "BanalityOfEvil": {
     "title": "Banality Of Evil / 恶的平庸性",
     "url": "/wiki/concepts/banalityofevil/"
@@ -11310,6 +11314,10 @@
   "CommandContinuityDamageControl": {
     "title": "统帅连续性危机处置 / Command Continuity Damage Control",
     "url": "/wiki/concepts/commandcontinuitydamagecontrol/"
+  },
+  "CommandCreditMisattribution": {
+    "title": "军功归属错置 / Command Credit Misattribution",
+    "url": "/wiki/concepts/commandcreditmisattribution/"
   },
   "CommandDisciplineAuthority": {
     "title": "Command Discipline Authority / 军法威严",
@@ -19278,6 +19286,10 @@
   "FrontierModelUsePolicyConflict": {
     "title": "Frontier Model Use Policy Conflict",
     "url": "/wiki/concepts/frontiermodelusepolicyconflict/"
+  },
+  "FrontierProxyCommitmentBinding": {
+    "title": "边疆代理承诺绑定 / Frontier Proxy Commitment Binding",
+    "url": "/wiki/concepts/frontierproxycommitmentbinding/"
   },
   "FrontierTower": {
     "title": "Frontier Tower",
@@ -35650,6 +35662,10 @@
   "NonStandardLodgingSearch": {
     "title": "Non-Standard Lodging Search / 非标住宿搜索",
     "url": "/wiki/concepts/nonstandardlodgingsearch/"
+  },
+  "NonalignedCourtSurvival": {
+    "title": "不依附式朝廷生存 / Nonaligned Court Survival",
+    "url": "/wiki/concepts/nonalignedcourtsurvival/"
   },
   "NonfictionPublicness": {
     "title": "Nonfiction Publicness",
@@ -54651,6 +54667,10 @@
     "title": "Xu Jiayin",
     "url": "/wiki/entities/xujiayin/"
   },
+  "XuJingLateHan": {
+    "title": "徐敬 / Xu Jing (late Han)",
+    "url": "/wiki/entities/xujinglatehan/"
+  },
   "XuLiWarringStates": {
     "title": "许历 / Xu Li",
     "url": "/wiki/entities/xuliwarringstates/"
@@ -55306,6 +55326,10 @@
   "YannLeCun": {
     "title": "Yann LeCun",
     "url": "/wiki/entities/yannlecun/"
+  },
+  "YanqiKingdomLateHan": {
+    "title": "焉耆国 / Yanqi Kingdom (late Han)",
+    "url": "/wiki/entities/yanqikingdomlatehan/"
   },
   "YanzhiXiongnuConsort": {
     "title": "阏氏 / Yanzhi (Xiongnu Consort)",
@@ -56518,6 +56542,10 @@
   "ZhangKuo": {
     "title": "张阔 / Zhang Kuo",
     "url": "/wiki/entities/zhangkuo/"
+  },
+  "ZhangLangLateHan": {
+    "title": "张郎 / Zhang Lang (late Han)",
+    "url": "/wiki/entities/zhanglanglatehan/"
   },
   "ZhangLe": {
     "title": "Zhang Le",
@@ -61794,6 +61822,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d": {
+    "title": "《资治通鉴·汉纪》807丨班超之子为何会含冤入狱？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d/"
   },
   "zizhi-tongjian-hanji-808-ta-jiujing-shi-mingjia-haishi-pianzi-lhmsw7zusdkqddk-zu27oj6hfs2m": {
     "title": "《资治通鉴·汉纪》808丨他究竟是名家还是骗子？",

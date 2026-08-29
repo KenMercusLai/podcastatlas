@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 8267
+wiki_total_pages: 8271
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -617,6 +617,9 @@ wiki_pages:
   - key: "YouXiaoying"
     title: "游晓颖 / You Xiaoying"
     url: "/wiki/entities/youxiaoying/"
+  - key: "YanqiKingdomLateHan"
+    title: "焉耆国 / Yanqi Kingdom (late Han)"
+    url: "/wiki/entities/yanqikingdomlatehan/"
   - key: "YanXiGong"
     title: "燕僖公 / Duke Xi of Yan"
     url: "/wiki/entities/yanxigong/"

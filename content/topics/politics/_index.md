@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2004
+topic_total_pages: 2005
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3304,6 +3304,9 @@ topic_concepts:
   - key: "DeathDefyingRemonstrance"
     title: "赴死式直谏 / Death-Defying Remonstrance"
     url: "/wiki/concepts/deathdefyingremonstrance/"
+  - key: "FrontierProxyCommitmentBinding"
+    title: "边疆代理承诺绑定 / Frontier Proxy Commitment Binding"
+    url: "/wiki/concepts/frontierproxycommitmentbinding/"
   - key: "UnauthorizedFrontierCommandIntervention"
     title: "边疆将领擅断干预 / Unauthorized Frontier Command Intervention"
     url: "/wiki/concepts/unauthorizedfrontiercommandintervention/"

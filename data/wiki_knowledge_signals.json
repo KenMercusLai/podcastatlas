@@ -3048,6 +3048,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/banshilatehan/"
     },
+    "BanYongLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》807丨班超之子为何会含冤入狱？ [liIWGi77g2ON1z2VnWAF1_wVph2d].md",
+          "key": "zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》807丨班超之子为何会含冤入狱？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/banyonglatehan/"
+    },
     "BasicResearchBreakthroughLatency": {
       "episode_count": 1,
       "show_count": 1,
@@ -5041,9 +5057,9 @@
       "url": "/wiki/concepts/chenweievidentiarycritique/"
     },
     "CheshiHouKingdomLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》839丨你能做到问心无愧吗？ [lqVLsWUbf4aK5qfGZJF_OWignEua].md",
@@ -5058,6 +5074,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》816丨想要“拿下”你的领导，其实很简单",
           "url": "/wiki/sources/zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》807丨班超之子为何会含冤入狱？ [liIWGi77g2ON1z2VnWAF1_wVph2d].md",
+          "key": "zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》807丨班超之子为何会含冤入狱？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d/"
         }
       ],
       "updated": "2026-08-29",
@@ -5466,6 +5489,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/commandcontinuitydamagecontrol/"
+    },
+    "CommandCreditMisattribution": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》807丨班超之子为何会含冤入狱？ [liIWGi77g2ON1z2VnWAF1_wVph2d].md",
+          "key": "zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》807丨班超之子为何会含冤入狱？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/commandcreditmisattribution/"
     },
     "CommodityTrapEscape": {
       "episode_count": 1,
@@ -8438,9 +8477,9 @@
       "url": "/wiki/entities/emperorhuanofhan/"
     },
     "EmperorShunOfHan": {
-      "episode_count": 16,
+      "episode_count": 17,
       "show_count": 1,
-      "source_note_count": 16,
+      "source_note_count": 17,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》822丨豺狼当道，他将矛头直指皇帝岳父？ [lqHpMAYVd3p07BYR_zOIv-jyhdv_].md",
@@ -8553,6 +8592,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》808丨他究竟是名家还是骗子？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-808-ta-jiujing-shi-mingjia-haishi-pianzi-lhmsw7zusdkqddk-zu27oj6hfs2m/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》807丨班超之子为何会含冤入狱？ [liIWGi77g2ON1z2VnWAF1_wVph2d].md",
+          "key": "zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》807丨班超之子为何会含冤入狱？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d/"
         }
       ],
       "updated": "2026-08-29",
@@ -10225,6 +10271,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/frontierconscriptionbackfire/"
+    },
+    "FrontierProxyCommitmentBinding": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》807丨班超之子为何会含冤入狱？ [liIWGi77g2ON1z2VnWAF1_wVph2d].md",
+          "key": "zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》807丨班超之子为何会含冤入狱？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/frontierproxycommitmentbinding/"
     },
     "FuRongLateHan": {
       "episode_count": 2,
@@ -19976,6 +20038,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/nonstandardlodgingsearch/"
+    },
+    "NonalignedCourtSurvival": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》807丨班超之子为何会含冤入狱？ [liIWGi77g2ON1z2VnWAF1_wVph2d].md",
+          "key": "zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》807丨班超之子为何会含冤入狱？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/nonalignedcourtsurvival/"
     },
     "NongfuSpring": {
       "episode_count": 1,
@@ -30087,6 +30165,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/xuhuanglatehan/"
     },
+    "XuJingLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》807丨班超之子为何会含冤入狱？ [liIWGi77g2ON1z2VnWAF1_wVph2d].md",
+          "key": "zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》807丨班超之子为何会含冤入狱？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/xujinglatehan/"
+    },
     "XuQiuGuanglingLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -30991,6 +31085,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/yanjinbattlelatehan/"
     },
+    "YanqiKingdomLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》807丨班超之子为何会含冤入狱？ [liIWGi77g2ON1z2VnWAF1_wVph2d].md",
+          "key": "zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》807丨班超之子为何会含冤入狱？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/yanqikingdomlatehan/"
+    },
     "YidaiZhao": {
       "episode_count": 1,
       "show_count": 1,
@@ -31885,6 +31995,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/zhangkaiduanjiongofficer/"
+    },
+    "ZhangLangLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》807丨班超之子为何会含冤入狱？ [liIWGi77g2ON1z2VnWAF1_wVph2d].md",
+          "key": "zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》807丨班超之子为何会含冤入狱？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/zhanglanglatehan/"
     },
     "ZhangLiao": {
       "episode_count": 3,

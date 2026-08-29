@@ -23541,6 +23541,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "FrontierProxyCommitmentBinding": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "FrontierTower": [
     {
       "key": "economics",

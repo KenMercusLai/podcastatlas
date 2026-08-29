@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 8267
+wiki_total_pages: 8271
 wiki_pages:
   - key: "BSpecials"
     title: "B Specials"
@@ -920,6 +920,9 @@ wiki_pages:
   - key: "BohaiCommanderyLateHan"
     title: "渤海郡 / Bohai Commandery (late Han)"
     url: "/wiki/entities/bohaicommanderylatehan/"
+  - key: "BanYongLateHan"
+    title: "班勇 / Ban Yong (late Han)"
+    url: "/wiki/entities/banyonglatehan/"
   - key: "BanShiLateHan"
     title: "班始 / Ban Shi (late Han)"
     url: "/wiki/entities/banshilatehan/"

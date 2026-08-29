@@ -13425,6 +13425,14 @@ Ran lint. See lint-report.md for details.
 
 Ingested the 2026-07-10 芮淇讲透资治通鉴 episode on Fan Ying's forced summons, repeated office refusal, Sima Guang's reclusion-authenticity judgment, and ruler self-examination in talent recruitment. Created the source note plus `FanYingLateHan`, `ReclusionAuthenticityAssessment`, and `TalentSummonsRulerSelfExamination`; updated `EmperorShunOfHan`, `ScholarOfficialPublicDuty`, `index`, `overview`, and the Hanji 809 source note. No settled contradiction found; the source's Shun/Yongjian chronology and occasional Emperor An wording are preserved as source-scoped label tension, while Wang Yi and Zhang Kai remain source-scoped due name-collision risk.
 
+## [2026-08-29] ingest | 《资治通鉴·汉纪》807丨班超之子为何会含冤入狱？
+
+Ingested the 2026-07-10 芮淇讲透资治通鉴 episode on 126-127 CE Emperor Shun, border-defense repair, Ban Yong's Western Regions restoration, Zhang Lang's early Yanqi attack, Ban Yong's wrongful imprisonment, and Xu Jing's clean nonalignment under outer-relative politics. Created the source note plus `BanYongLateHan`, `ZhangLangLateHan`, `YanqiKingdomLateHan`, `XuJingLateHan`, `CommandCreditMisattribution`, `FrontierProxyCommitmentBinding`, and `NonalignedCourtSurvival`; updated `EmperorShunOfHan`, `CheshiHouKingdomLateHan`, `index`, and `overview`. No settled contradiction found; 燕齐 is normalized to Yanqi/焉耆, while minor border, office, royal-name, and court-reporting details remain source-scoped.
+
+## [2026-08-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
 ## [2026-08-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 5914
+wiki_total_pages: 5917
 wiki_pages:
   - key: "NamingPowerSocialChange"
     title: "Naming Power In Social Change / 社会变革中的命名权"
@@ -323,6 +323,9 @@ wiki_pages:
   - key: "NutritionLabelSugarTraps"
     title: "Nutrition Label Sugar Traps / 营养标签糖陷阱"
     url: "/wiki/concepts/nutritionlabelsugartraps/"
+  - key: "NonalignedCourtSurvival"
+    title: "不依附式朝廷生存 / Nonaligned Court Survival"
+    url: "/wiki/concepts/nonalignedcourtsurvival/"
   - key: "NortheastModernityTestSite"
     title: "东北现代性试验场 / Northeast Modernity Test Site"
     url: "/wiki/concepts/northeastmodernitytestsite/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 5914
+wiki_total_pages: 5917
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1799,6 +1799,9 @@ wiki_pages:
   - key: "CapitalPoetrySociality"
     title: "京城诗社交性 / Capital Poetry Sociality"
     url: "/wiki/concepts/capitalpoetrysociality/"
+  - key: "CommandCreditMisattribution"
+    title: "军功归属错置 / Command Credit Misattribution"
+    url: "/wiki/concepts/commandcreditmisattribution/"
   - key: "CampaignFinanceAccessIncentive"
     title: "军费通道利益驱动 / Campaign Finance Access Incentive"
     url: "/wiki/concepts/campaignfinanceaccessincentive/"
