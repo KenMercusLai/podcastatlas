@@ -19,14 +19,17 @@ sources:
   - zizhi-tongjian-hanji-781-yushan-cai-shi-ren-dui-ji-zui-da-de-e-luvaw93hnnxcbgfnwgsjb7x0hlqz
   - zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa
   - zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6
+  - zizhi-tongjian-hanji-778-lishi-jiemi-quanli-zhongxin-de-nvren-you-shenme-tedian-lhpn8auulbgpqehsk71hzssrgagp
 last_updated: 2026-08-30
 ---
 
 ## Overview
 
-和熹邓皇后 / Empress Dowager Deng appears in the current wiki as an An-era regent whose record must be judged across compound pressure: education repair, judicial procedure, appointment fit, inherited Eastern Han disaster frequency, Western Regions withdrawal after Ban Chao's achievement, Qiang official-abuse and conscription backlash, infant succession, coup suppression, disaster-omen pressure, refugee relief, famine, austerity, rank and salary finance, rebellion management, seasonal ritual restraint, capable appointments, Deng-family reliance, frontier underimplementation, transfer risk, and contested posthumous memory.
+和熹邓皇后 / Empress Dowager Deng appears in the current wiki as an An-era regent whose record must be judged across compound pressure: initial court staffing, succession pre-positioning, education repair, judicial procedure, appointment fit, inherited Eastern Han disaster frequency, Western Regions withdrawal after Ban Chao's achievement, Qiang official-abuse and conscription backlash, infant succession, coup suppression, disaster-reporting correction, disaster-omen pressure, refugee relief, famine, austerity, rank and salary finance, rebellion management, seasonal ritual restraint, capable appointments, Deng-family reliance and discipline, frontier underimplementation, transfer risk, and contested posthumous memory.
 
 ## Current Profile
+
+Hanji 778 moves the opening layer to Deng's first 106 CE regency arrangements. She keeps Zhang Yu close for state deliberation, appoints Xu Fang, treats [[EmperorShangOfHan|Emperor Shang]]'s infancy as a succession risk, keeps Liu Hu near the capital before installing him as [[EmperorAnOfHan|Emperor An]], and uses [[DengZhiLateHan|Deng Zhi]] and other Deng relatives while later ordering officials not to shield Deng-family crimes. The same source already shows austerity, palace-labor reduction, local disaster-reporting enforcement, Xianbei pressure, and the Western Regions branch in which [[LiangJinLateHan|Liang Jin]] helps stabilize [[QiuciKingdom|Qiuci]] before later withdrawal.
 
 Hanji 779 adds an early administrative layer that makes Deng's regency more than succession and disaster management. Deng accepts [[FanZhunLateHan|Fan Zhun]]'s call to restore scholar instruction by recommending learned men for doctor posts. She also accepts [[LuGongLateHan|Lu Gong]]'s judicial-calendar correction after he argues that summer interrogation disrupts farming and that capital cases should not be rushed by rigid deadline. The same episode shows her court confronting the Western Regions after [[RenShangLateHan|Ren Shang]] ignores [[BanChaoEasternHan|Ban Chao]]'s advice, governs harshly, triggers rebellion, and is replaced before the court recalls [[DuanXiLateHan|Duan Xi]], [[LiangJinLateHan|Liang Jin]], and the farming-garrison troops.
 
@@ -42,16 +45,17 @@ Hanji 792-795 make the political afterlife explicit. Deng Kang warns that court 
 
 ## Key Characteristics
 
-- Crisis regent whose rule joins education repair, judicial procedure, appointment fit, inherited disaster pressure, Western Regions withdrawal, Qiang backlash, infant succession, coup suppression, omen pressure, relief, war, famine, fiscal emergency, salary cuts, rank sale, frontier retention, and transfer risk.
-- Real austerity and relief actor whose court consumption restraint, ritual restraint, pardon use, education, prison review, and tax/labor reductions remain part of the evidence.
+- Crisis regent whose rule joins court staffing, succession pre-positioning, education repair, judicial procedure, appointment fit, inherited disaster pressure, Western Regions withdrawal, Qiang backlash, infant succession, coup suppression, local-reporting correction, omen pressure, relief, war, famine, fiscal emergency, salary cuts, rank sale, frontier retention, and transfer risk.
+- Real austerity and relief actor whose court consumption restraint, ritual restraint, palace-labor reduction, pardon use, education, prison review, tax/labor reductions, and local disaster verification remain part of the evidence.
 - Selective institutional repairer who can accept Fan Zhun and Lu Gong, recognize Yu Xu, consult Ban Yong, use Pang Can after criticism, and tolerate some direct policy advice.
-- Kin-reliant ruler whose trust in Deng Zhi and Deng-family military credit creates legitimacy exposure even when family members supply capacity.
+- Kin-reliant ruler whose trust in Deng Zhi, Deng-family officeholding, and Deng-family military credit creates legitimacy exposure even when she also commands officials not to shield her kin.
 - Frontier-policy manager with visible limits: Western Regions withdrawal follows Ren Shang's misfit and Ban Chao's achievement, forced relocation backfires, amnesty needs local synchronization, Qiang war remains costly, and later Western Regions repair is underimplemented.
 - Regent operating inside an authority-accountability split where inner-court channels and Shangshu access matter more than formal office titles.
 - Politically vulnerable after death because delayed transfer, collateral royal presence, and Deng-family concentration make replacement accusations usable.
 
 ## Evidence
 
+- Initial staffing, succession, austerity, and reporting correction: [[zizhi-tongjian-hanji-778-lishi-jiemi-quanli-zhongxin-de-nvren-you-shenme-tedian-lhpn8auulbgpqehsk71hzssrgagp|Hanji 778]] shows Deng keeping Zhang Yu near the palace, preparing Liu Hu as reserve successor, reducing palace expenditure and personnel burdens, ordering disaster verification and tax relief, relying on Deng kin, and forbidding officials to shield Deng-family wrongdoing.
 - Education, justice, and Western Regions appointment fit: [[zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6|Hanji 779]] shows Deng accepting Fan Zhun's education memorial and Lu Gong's judicial-calendar proposal while also presiding over Ren Shang's removal and the final Western Regions withdrawal.
 - Disaster-frontier prelude: [[zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa|Hanji 780]] ties Deng's opening environment to Eastern Han disaster frequency, Western Regions withdrawal after Ban Chao, Qiang official-abuse and conscription backlash, amnesty, Three Excellencies blame-shifting, austerity, and Zhou Zhang's warning.
 - Succession-security opening: [[zizhi-tongjian-hanji-781-yushan-cai-shi-ren-dui-ji-zui-da-de-e-luvaw93hnnxcbgfnwgsjb7x0hlqz|Hanji 781]] ties Deng's regency to Emperor Shang's infant accession and death, Liu Hu's palace preparation and accession as Emperor An, Zhou Zhang's failed coup, refugee reassurance, Fan Zhun's relief memorial, Xianbei incorporation, and disaster-omen redirection.
@@ -66,13 +70,14 @@ Hanji 792-795 make the political afterlife explicit. Deng Kang warns that court 
 
 ## Qualifications
 
-Deng's page should not collapse into either praise or blame. The evidence supports real education repair, judicial correction, austerity, capable appointments, relief, succession preparation, refugee reassurance, and institutional repair, but it also supports Western Regions withdrawal, coup suppression, transfer-speech danger, fiscal desperation, official-pay risk, frontier relocation damage, underimplemented Western Regions repair, and family-power concentration. Hanji 779 sharpens the personnel side: Deng can choose the right adviser in education and justice while still inheriting or accepting a frontier appointment failure costly enough to contribute to withdrawal.
+Deng's page should not collapse into either praise or blame. The evidence supports real court organization, education repair, judicial correction, austerity, capable appointments, relief, succession preparation, refugee reassurance, local verification, and institutional repair, but it also supports Western Regions withdrawal, coup suppression, transfer-speech danger, fiscal desperation, official-pay risk, frontier relocation damage, underimplemented Western Regions repair, and family-power concentration. Hanji 778 sharpens the opening paradox: Deng relies on Deng kin early while also requiring legal handling of their misconduct. Hanji 779 sharpens the personnel side: Deng can choose the right adviser in education and justice while still inheriting or accepting a frontier appointment failure costly enough to contribute to withdrawal.
 
 ## What Changed
 
-- Added Hanji 779's education, judicial, and Western Regions appointment-fit layer.
-- Added Fan Zhun and Lu Gong as early institutional-repair evidence beside Deng's disaster and succession work.
-- Reframed Western Regions withdrawal around Ren Shang's failed handoff from Ban Chao before the broader Hanji 780 cost frame.
+- Added Hanji 778 as the earliest 106 CE regency-opening layer.
+- Added initial court staffing, Liu Hu succession reserve, austerity, disaster-reporting enforcement, Deng-family anti-shielding, and Qiuci rescue evidence.
+- Kept Hanji 779's education, judicial, and Western Regions appointment-fit layer as the next administrative step.
+- Reframed Deng-family reliance as simultaneous capacity and legal-reputation risk from the opening of the regency.
 - Preserved the mixed judgment: real repair and capable appointment sit beside withdrawal, frontier, fiscal, family-power, and transfer-risk failures.
 
 ## Relationships
@@ -94,3 +99,4 @@ Deng's page should not collapse into either praise or blame. The evidence suppor
 - [[FrontierConscriptionBackfire]] - frontier extraction failure visible when Qiang levies meant for the Western Regions help generate panic and rebellion.
 - [[CoerciveFrontierRelocationBackfire]] - failure mode created when protection policy destroys civilian livelihood.
 - [[OuterRelativeCourtPower]] - family-power structure that makes regency capacity and legitimacy risk inseparable.
+- [[FemalePowerCenterPoliticalCapacity]] - gendered political-capacity frame drawn from Deng's calm, patient, and decisive regency-opening actions under scrutiny.

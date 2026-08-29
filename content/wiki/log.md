@@ -13615,7 +13615,7 @@ Ingested the 2026-07-07 这病说来话长 episode with 阿汤, Ander, and 邓�
 
 ## [2026-08-30] lint | Wiki health check
 
-Ran lint. See lint-report.md for details.
+Ran lint without saving a new lint-report.md. Health, identity, deterministic, and graph-aware checks completed; semantic lint was unavailable because LLM_MODEL/provider credentials were not configured.
 
 ## [2026-08-30] ingest | 一个人、两周、数百美元，如何训出登顶 Hugging Face 的模型 | 对谈研究员逯雨鑫
 
@@ -13720,3 +13720,11 @@ Ingested the 2026-07-04 芮淇讲透资治通鉴 episode on the talent-virtue di
 ## [2026-08-30] lint | Wiki health check
 
 Ran lint without saving a new lint-report.md. Deterministic and graph-aware checks completed; semantic lint was unavailable because LLM_MODEL/provider credentials were not configured.
+
+## [2026-08-30] ingest | 《资治通鉴·汉纪》778丨历史揭秘：权力中心的女人有什么特点？
+
+Ingested the 2026-07-04 芮淇讲透资治通鉴 episode on 106 CE Empress Dowager Deng's opening regency, infant Emperor Shang, Liu Hu's reserve placement, Zhang Yu and Xu Fang's staffing roles, Deng Zhi and Deng-family reliance, anti-shielding discipline, palace austerity, disaster-reporting correction, Emperor An's installation setup, and the Qiuci/Western Regions crisis. Created the source note plus `FemalePowerCenterPoliticalCapacity`; updated `EmpressDowagerDengLateHan`, `EmperorShangOfHan`, `EmperorAnOfHan`, `DengZhiLateHan`, `DengFamilyAnEraLateHan`, `LiangJinLateHan`, `DuanXiLateHan`, `RegencyUnderCompoundCrisis`, `index`, and `overview`. No settled contradiction found; Zhang Yu, Xu Fang, Geng Ji, Liu Qing, exact household figures, and minor Western Regions names remain source-scoped.
+
+## [2026-08-30] lint | Wiki health check
+
+Ran lint without saving a new lint-report.md. Health, identity, deterministic, and graph-aware checks completed; semantic lint was unavailable because LLM_MODEL/provider credentials were not configured.

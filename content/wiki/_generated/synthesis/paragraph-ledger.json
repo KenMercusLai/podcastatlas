@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "a1dbe06c87efa377dc49065884f3ef79f2466835fc9197e001b53c6faa67222b",
       "005e9bbcb5249cef48f139653d6b9cfca844f71bf23ee2268e1ceba4cdd1def9",
       "2a7b1aeee15529a29d50bef2ddb7c7e393c1e33c28212d0cd75e8c09628037b2",
       "9e750c18ecea5b57bc7f788216676407f1d0f5829da5764f431a0759bbb02269",
@@ -389,11 +390,36 @@
       "fa2bb49857ac26cb533ae14a4cc21fb8c9bcedab808a46832dcf8b31ade00a18",
       "4aec524162783153bd9de6fc8aaf28b4b45a60c3433caa62e6442f020af99d44"
     ],
-    "paragraph_count": 387
+    "paragraph_count": 388
   },
-  "overview_commit": "2f53ba0a7c5affda32f273cbac781e3a9a48e4cd",
-  "overview_digest": "7a8ab40f183c9288c7842e6e8214ed873ac3a57e72befd819eae1771a6df33c4",
+  "overview_commit": "cc53b547aa22fea6cfbb9c99b5c38766bc4086e4",
+  "overview_digest": "e6885013dbe512d9bc8185b203b43afdd7a25fd1593838052fb432a2f144bcbf",
   "paragraphs": [
+    {
+      "id": "a1dbe06c87efa377dc49065884f3ef79f2466835fc9197e001b53c6faa67222b",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-778-lishi-jiemi-quanli-zhongxin-de-nvren-you-shenme-tedian-lhpn8auulbgpqehsk71hzssrgagp|《资治通鉴·汉纪》778丨历史揭秘：权力中心的女人有什么特点？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the first 106 CE layer of [[EmpressDowagerDengLateHan|和熹邓皇后]]'s regency before [[zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6|Hanji 779]]. It adds [[FemalePowerCenterPoliticalCapacity|权力中心女性政治能力]], while extending [[EmperorShangOfHan|汉殇帝]], [[EmperorAnOfHan|汉安帝]], [[DengZhiLateHan|邓骘]], [[DengFamilyAnEraLateHan|邓氏]], [[LiangJinLateHan|梁慬]], [[DuanXiLateHan|段禧]], [[RegencyUnderCompoundCrisis|复合危机下的摄政]], and [[EmpressDowagerDengLateHan|和熹邓皇后]]. Its core synthesis is that Deng's regency begins as a test of calm political capacity under uncertainty: she staffs the court through Zhang Yu and Xu Fang, keeps Liu Hu near the capital as succession reserve, relies on Deng kin while warning against shielding them, cuts palace costs, demands more truthful disaster reporting, and faces the Qiuci/Western Regions crisis before the later Qiang, fiscal, and coup layers become dominant. No settled contradiction is recorded; Zhang Yu, Xu Fang, Geng Ji, Liu Qing, exact household figures, and some Western Regions minor names remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "DengFamilyAnEraLateHan",
+        "DengZhiLateHan",
+        "DuanXiLateHan",
+        "EmperorAnOfHan",
+        "EmperorShangOfHan",
+        "EmpressDowagerDengLateHan",
+        "FemalePowerCenterPoliticalCapacity",
+        "LiangJinLateHan",
+        "RegencyUnderCompoundCrisis",
+        "RuiqiJiangtouZizhiTongjian",
+        "zizhi-tongjian-hanji-778-lishi-jiemi-quanli-zhongxin-de-nvren-you-shenme-tedian-lhpn8auulbgpqehsk71hzssrgagp",
+        "zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6"
+      ]
+    },
     {
       "id": "005e9bbcb5249cef48f139653d6b9cfca844f71bf23ee2268e1ceba4cdd1def9",
       "primary_topic": "governance-and-institutions",

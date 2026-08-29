@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2023
+topic_total_pages: 2024
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -1006,6 +1006,9 @@ topic_concepts:
   - key: "FederalStudentLoanCaps"
     title: "Federal Student Loan Caps"
     url: "/wiki/concepts/federalstudentloancaps/"
+  - key: "FemalePowerCenterPoliticalCapacity"
+    title: "Female Power-Center Political Capacity / 权力中心女性政治能力"
+    url: "/wiki/concepts/femalepowercenterpoliticalcapacity/"
   - key: "FemaleRevengeAndPoliticalOrder"
     title: "Female Revenge And Political Order"
     url: "/wiki/concepts/femalerevengeandpoliticalorder/"

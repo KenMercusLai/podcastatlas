@@ -18,16 +18,17 @@ sources:
   - zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi
   - zizhi-tongjian-hanji-786-guren-weishenme-paichi-fanji-shuiguo-lmcwqwdxwe0ehuusfeoaqk82msm7
   - zizhi-tongjian-hanji-781-yushan-cai-shi-ren-dui-ji-zui-da-de-e-luvaw93hnnxcbgfnwgsjb7x0hlqz
+  - zizhi-tongjian-hanji-778-lishi-jiemi-quanli-zhongxin-de-nvren-you-shenme-tedian-lhpn8auulbgpqehsk71hzssrgagp
 last_updated: 2026-08-30
 ---
 
 ## Overview
 
-汉安帝 / Emperor An of Han now appears in the wiki through a 106-125 CE evidence arc: a child ruler prepared and installed by [[EmpressDowagerDengLateHan|Empress Dowager Deng]] after [[EmperorShangOfHan|Emperor Shang]]'s death; a regency-era emperor surrounded by succession, disaster, ritual restraint, and Qiang-front pressure; a personal ruler whose early restoration signals do not become durable public order; and a late ruler whose favorite-household politics, Yang Zhen's destruction, Liu Bao's deposition, and concealed death produce another succession crisis.
+汉安帝 / Emperor An of Han now appears in the wiki through a 106-125 CE evidence arc: a child claimant kept near the capital by [[EmpressDowagerDengLateHan|Empress Dowager Deng]] as succession reserve, then installed after [[EmperorShangOfHan|Emperor Shang]]'s death; a regency-era emperor surrounded by succession, disaster, ritual restraint, and Qiang-front pressure; a personal ruler whose early restoration signals do not become durable public order; and a late ruler whose favorite-household politics, Yang Zhen's destruction, Liu Bao's deposition, and concealed death produce another succession crisis.
 
 ## Current Profile
 
-Hanji 781 supplies the earliest current layer of An's reign. Deng brings Liu Hu into the palace while [[EmperorShangOfHan|Emperor Shang]] is alive because she fears the infant emperor will not survive; when Emperor Shang dies after about eight months, Deng quickly installs Liu Hu as Emperor An. That opening places An inside a prepared regency, and [[ZhouZhangLateHan|Zhou Zhang]]'s failed plan to demote him and enthrone Liu Sheng shows that his accession is contested from the start.
+Hanji 778 and Hanji 781 supply the earliest current layer of An's reign. Hanji 778 says Deng keeps Liu Hu and Geng Ji in the capital rather than sending them away, making Liu Hu a visible reserve while the infant Emperor Shang is still alive. Hanji 781 then says Deng brings Liu Hu into the palace because she fears the infant emperor will not survive; when Emperor Shang dies after about eight months, Deng quickly installs Liu Hu as Emperor An. That opening places An inside a prepared regency, and [[ZhouZhangLateHan|Zhou Zhang]]'s failed plan to demote him and enthrone Liu Sheng shows that his accession is contested from the start.
 
 Hanji 786 supplies the next current layer of An's regency-era court. The 110-114 CE field combines Zhang Bolu's Donglai pirate suppression, Hanyang/Shanggui rebellion around [[DuJigongLateHan|Du Jigong]], locusts, drought, landslide, office turnover, [[LiuKaiEasternHan|Liu Kai]]'s appointment as sikong, the 112 CE fresh-food restraint edict, and [[MaXianLateHan|Ma Xian]] plus Hou Ba attacking [[XianlingQiang|Xianling Qiang]] in [[AndingCommandery|Anding]]. The same source frames Han-Qiang war as an economic and demographic drain while keeping the climate-stress explanation source-scoped.
 
@@ -43,7 +44,7 @@ Hanji 800-802 close the arc. Fan Feng, Zhou Guang, and Xie Yun's forged-edict co
 
 ## Key Characteristics
 
-- Ruler whose current wiki evidence begins with 106 CE prepared accession under Deng after Emperor Shang's death, before later disaster, ritual, and Qiang-front pressure.
+- Ruler whose current wiki evidence begins with 106 CE reserve placement under Deng before his prepared accession after Emperor Shang's death.
 - Capable of accepting narrow legal, ritual, personnel, and frontier advice when framed in bounded terms.
 - Repeatedly unable or unwilling to discipline palace access, wet-nurse households, eunuch favorites, and forged-edict networks.
 - Uses purge to resolve Deng-family replacement fear but then permits new private-power channels to expand.
@@ -53,7 +54,7 @@ Hanji 800-802 close the arc. Fan Feng, Zhou Guang, and Xie Yun's forged-edict co
 
 ## Evidence
 
-- Accession and contestation: [[zizhi-tongjian-hanji-781-yushan-cai-shi-ren-dui-ji-zui-da-de-e-luvaw93hnnxcbgfnwgsjb7x0hlqz|Hanji 781]] says Deng prepares Liu Hu in palace before Emperor Shang dies, installs him as Emperor An after the infant ruler's death, and then faces Zhou Zhang's plot to demote An in favor of Liu Sheng.
+- Reserve placement and accession contestation: [[zizhi-tongjian-hanji-778-lishi-jiemi-quanli-zhongxin-de-nvren-you-shenme-tedian-lhpn8auulbgpqehsk71hzssrgagp|Hanji 778]] says Deng keeps Liu Hu near the capital as succession reserve, while [[zizhi-tongjian-hanji-781-yushan-cai-shi-ren-dui-ji-zui-da-de-e-luvaw93hnnxcbgfnwgsjb7x0hlqz|Hanji 781]] says she prepares Liu Hu in palace before Emperor Shang dies, installs him as Emperor An after the infant ruler's death, and then faces Zhou Zhang's plot to demote An in favor of Liu Sheng.
 - Early regency layer: [[zizhi-tongjian-hanji-786-guren-weishenme-paichi-fanji-shuiguo-lmcwqwdxwe0ehuusfeoaqk82msm7|Hanji 786]] places disasters, the 112 CE seasonal fresh-food edict, Hanyang/Shanggui rebellion, Liu Kai's sikong appointment, Anding Qiang operations, and Han-Qiang war cost inside An's early reign under Deng's regency.
 - Regency pressure before personal rule: [[zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi|Hanji 789]] places Qiang war, relocation backfire, Yuan Chang's death, and Liu Kai's mourning policy in An's regency-era court.
 - Crown-prince and Deng warning layer: [[zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn|Hanji 792]] records Liu Bao's crown-prince appointment and Deng Kang's warning before Deng dies.
@@ -70,12 +71,13 @@ Hanji 800-802 close the arc. Fan Feng, Zhou Guang, and Xie Yun's forged-edict co
 
 ## Qualifications
 
-The profile does not present An as uniformly deaf to advice. Several sources show accepted counsel on personnel, punishment, Goguryeo restraint, and Western Regions retention. Hanji 781 makes his accession a Deng-managed succession event rather than a personal choice by An, and Hanji 786 makes the 112 CE seasonal fresh-food edict a restraint notice rather than a favorite-household failure. The sharper judgment is that accepted bounded advice and ritual restraint did not overcome palace access capture, private favor, succession fear, frontier drain, and information control.
+The profile does not present An as uniformly deaf to advice. Several sources show accepted counsel on personnel, punishment, Goguryeo restraint, and Western Regions retention. Hanji 778 and Hanji 781 make his accession a Deng-managed succession event rather than a personal choice by An, and Hanji 786 makes the 112 CE seasonal fresh-food edict a restraint notice rather than a favorite-household failure. The sharper judgment is that accepted bounded advice and ritual restraint did not overcome palace access capture, private favor, succession fear, frontier drain, and information control.
 
 ## What Changed
 
-- Added Hanji 781 as the 106 CE starting layer for An's current wiki profile, covering Liu Hu's palace preparation, accession after Emperor Shang, and Zhou Zhang's failed plan to demote him.
-- Reframed An's profile as a 106-125 CE evidence arc rather than a 110-125 CE arc.
+- Added Hanji 778 as the earliest layer for Liu Hu's reserve placement near the capital before Emperor Shang's death.
+- Preserved Hanji 781 as the fuller 106 CE accession account, covering Liu Hu's palace preparation, accession after Emperor Shang, and Zhou Zhang's failed plan to demote him.
+- Reframed An's profile as a 106-125 CE evidence arc that begins before formal enthronement.
 - Preserved Hanji 786 as the next regency layer for seasonal fresh-food restraint, Hanyang/Shanggui disorder, Anding Qiang operations, and war-cost pressure.
 
 ## Relationships

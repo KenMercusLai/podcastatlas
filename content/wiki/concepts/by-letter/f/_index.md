@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 5966
+wiki_total_pages: 5967
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -236,6 +236,9 @@ wiki_pages:
   - key: "FemaleOralStorytelling"
     title: "Female Oral Storytelling / 女性口头叙事"
     url: "/wiki/concepts/femaleoralstorytelling/"
+  - key: "FemalePowerCenterPoliticalCapacity"
+    title: "Female Power-Center Political Capacity / 权力中心女性政治能力"
+    url: "/wiki/concepts/femalepowercenterpoliticalcapacity/"
   - key: "FemaleRevengeAndPoliticalOrder"
     title: "Female Revenge And Political Order"
     url: "/wiki/concepts/femalerevengeandpoliticalorder/"
