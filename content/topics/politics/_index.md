@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1997
+topic_total_pages: 1998
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3223,6 +3223,9 @@ topic_concepts:
   - key: "CupWineDisarmsGenerals"
     title: "杯酒释兵权 / Cup of Wine Disarms Generals"
     url: "/wiki/concepts/cupwinedisarmsgenerals/"
+  - key: "RootCauseRemonstrance"
+    title: "根源诊断式进谏 / Root-Cause Remonstrance"
+    url: "/wiki/concepts/rootcauseremonstrance/"
   - key: "ArmedFollowerIntegrationCost"
     title: "武装部众整合成本 / Armed Follower Integration Cost"
     url: "/wiki/concepts/armedfollowerintegrationcost/"

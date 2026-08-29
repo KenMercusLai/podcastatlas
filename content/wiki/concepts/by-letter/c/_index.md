@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 5895
+wiki_total_pages: 5897
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1859,6 +1859,9 @@ wiki_pages:
   - key: "CowardlySacrificeWitness"
     title: "胆小鬼的献祭 / Cowardly Sacrifice As Witness"
     url: "/wiki/concepts/cowardlysacrificewitness/"
+  - key: "ChenweiEvidentiaryCritique"
+    title: "谶纬证据批判 / Chenwei Evidentiary Critique"
+    url: "/wiki/concepts/chenweievidentiarycritique/"
   - key: "CounselExitAfterNonresponse"
     title: "进言不纳后的抽身 / Counsel Exit After Nonresponse"
     url: "/wiki/concepts/counselexitafternonresponse/"

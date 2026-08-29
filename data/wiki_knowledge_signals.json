@@ -1437,9 +1437,9 @@
       "url": "/wiki/concepts/adversitysilencediscipline/"
     },
     "AdviceFramingUnderHierarchy": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1034丨袁绍的败局，只因不肯听沮授的话？ [loG-Wy2ZVPdJOPbdyexb0IJQmph4].md",
@@ -1468,9 +1468,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》858丨为什么劝你一定要换位思考？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-858-weishenme-quan-ni-yiding-yao-huanwei-sikao-lobr-xznqo-ctjpc-ytpstubmahl/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》816丨想要“拿下”你的领导，其实很简单 [lva3Y4hGU7Kn1Z4jMHy6jN4-oyVC].md",
+          "key": "zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》816丨想要“拿下”你的领导，其实很简单",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-29",
       "url": "/wiki/concepts/adviceframingunderhierarchy/"
     },
     "Aeolus": {
@@ -4879,10 +4886,26 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/chengyu/"
     },
-    "CheshiHouKingdomLateHan": {
+    "ChenweiEvidentiaryCritique": {
       "episode_count": 1,
       "show_count": 1,
       "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》816丨想要“拿下”你的领导，其实很简单 [lva3Y4hGU7Kn1Z4jMHy6jN4-oyVC].md",
+          "key": "zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》816丨想要“拿下”你的领导，其实很简单",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/chenweievidentiarycritique/"
+    },
+    "CheshiHouKingdomLateHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》839丨你能做到问心无愧吗？ [lqVLsWUbf4aK5qfGZJF_OWignEua].md",
@@ -4890,9 +4913,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》839丨你能做到问心无愧吗？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》816丨想要“拿下”你的领导，其实很简单 [lva3Y4hGU7Kn1Z4jMHy6jN4-oyVC].md",
+          "key": "zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》816丨想要“拿下”你的领导，其实很简单",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-29",
       "url": "/wiki/entities/cheshihoukingdomlatehan/"
     },
     "ChinaBurgerExpansion": {
@@ -8238,9 +8268,9 @@
       "url": "/wiki/entities/emperorhuanofhan/"
     },
     "EmperorShunOfHan": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》822丨豺狼当道，他将矛头直指皇帝岳父？ [lqHpMAYVd3p07BYR_zOIv-jyhdv_].md",
@@ -8290,6 +8320,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》817丨看似软弱的人，实则活得更通透",
           "url": "/wiki/sources/zizhi-tongjian-hanji-817-kan-si-ruanruo-de-ren-shize-huode-geng-tongtou-llmgqys237de3dzb6ij-4szyetye/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》816丨想要“拿下”你的领导，其实很简单 [lva3Y4hGU7Kn1Z4jMHy6jN4-oyVC].md",
+          "key": "zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》816丨想要“拿下”你的领导，其实很简单",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc/"
         }
       ],
       "updated": "2026-08-29",
@@ -17526,9 +17563,9 @@
       "url": "/wiki/entities/maronglatehan/"
     },
     "MaXianLateHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》821丨不懂老板心思还想晋升？没门！ [lmJXR8fDXGW-ColRLinmuJba74fh].md",
@@ -17550,15 +17587,22 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》817丨看似软弱的人，实则活得更通透",
           "url": "/wiki/sources/zizhi-tongjian-hanji-817-kan-si-ruanruo-de-ren-shize-huode-geng-tongtou-llmgqys237de3dzb6ij-4szyetye/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》816丨想要“拿下”你的领导，其实很简单 [lva3Y4hGU7Kn1Z4jMHy6jN4-oyVC].md",
+          "key": "zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》816丨想要“拿下”你的领导，其实很简单",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc/"
         }
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/maxianlatehan/"
     },
     "MaXuLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》820丨职场警示！小心领导让你背黑锅 [lqKejieIiHMUpFiFuk8sxP3oAdAP].md",
@@ -17566,6 +17610,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》820丨职场警示！小心领导让你背黑锅",
           "url": "/wiki/sources/zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》816丨想要“拿下”你的领导，其实很简单 [lva3Y4hGU7Kn1Z4jMHy6jN4-oyVC].md",
+          "key": "zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》816丨想要“拿下”你的领导，其实很简单",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc/"
         }
       ],
       "updated": "2026-08-29",
@@ -19694,9 +19745,9 @@
       "url": "/wiki/concepts/olfactorytraining/"
     },
     "OmenCodedRemonstrance": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》873丨他如何利用天象痛骂帝王？ [lqEbKOdcbCrSVYf80qWxNobYDbHc].md",
@@ -19711,9 +19762,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》836丨兄弟反目背后：儒者和奸臣的交锋",
           "url": "/wiki/sources/zizhi-tongjian-hanji-836-xiongdi-fanmu-beihou-ruzhe-he-jianchen-de-jiaofeng-lq9wjn5c8mwt-onrtslum4fw53eq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》816丨想要“拿下”你的领导，其实很简单 [lva3Y4hGU7Kn1Z4jMHy6jN4-oyVC].md",
+          "key": "zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》816丨想要“拿下”你的领导，其实很简单",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-29",
       "url": "/wiki/concepts/omencodedremonstrance/"
     },
     "OnPolicyDistillation": {
@@ -22776,6 +22834,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/rootcausepacification/"
+    },
+    "RootCauseRemonstrance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》816丨想要“拿下”你的领导，其实很简单 [lva3Y4hGU7Kn1Z4jMHy6jN4-oyVC].md",
+          "key": "zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》816丨想要“拿下”你的领导，其实很简单",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/rootcauseremonstrance/"
     },
     "RoyalExecutionLegitimacy": {
       "episode_count": 2,
@@ -30654,6 +30728,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/zhanghelatehan/"
     },
+    "ZhangHengLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》816丨想要“拿下”你的领导，其实很简单 [lva3Y4hGU7Kn1Z4jMHy6jN4-oyVC].md",
+          "key": "zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》816丨想要“拿下”你的领导，其实很简单",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/zhanghenglatehan/"
+    },
     "ZhangHongLateHan": {
       "episode_count": 4,
       "show_count": 1,
@@ -31579,9 +31669,9 @@
       "url": "/wiki/entities/zhoujinglatehan/"
     },
     "ZhouJuLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》821丨不懂老板心思还想晋升？没门！ [lmJXR8fDXGW-ColRLinmuJba74fh].md",
@@ -31596,6 +31686,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》819丨2人功比4万人，他的权谋令人拍案叫绝！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》816丨想要“拿下”你的领导，其实很简单 [lva3Y4hGU7Kn1Z4jMHy6jN4-oyVC].md",
+          "key": "zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》816丨想要“拿下”你的领导，其实很简单",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc/"
         }
       ],
       "updated": "2026-08-29",

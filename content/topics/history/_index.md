@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1500
+topic_total_pages: 1501
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1360,6 +1360,9 @@ topic_concepts:
   - key: "XingshiqingStrategicAssessment"
     title: "行势情战略评估 / Xingshiqing Strategic Assessment"
     url: "/wiki/concepts/xingshiqingstrategicassessment/"
+  - key: "ChenweiEvidentiaryCritique"
+    title: "谶纬证据批判 / Chenwei Evidentiary Critique"
+    url: "/wiki/concepts/chenweievidentiarycritique/"
   - key: "FuChen"
     title: "负臣 / Corrective Disobedient Minister"
     url: "/wiki/concepts/fuchen/"

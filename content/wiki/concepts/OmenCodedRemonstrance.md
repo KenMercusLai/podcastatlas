@@ -5,17 +5,20 @@ tags: [rhetoric, omens, court-politics, chinese-history]
 sources:
   - zizhi-tongjian-hanji-873-ta-ruhe-liyong-tianxiang-tongma-diwang-lqebkodcbcrsvyf80qwxnobydbhc
   - zizhi-tongjian-hanji-836-xiongdi-fanmu-beihou-ruzhe-he-jianchen-de-jiaofeng-lq9wjn5c8mwt-onrtslum4fw53eq
-last_updated: 2026-08-28
+  - zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc
+last_updated: 2026-08-29
 knowledge_schema: synthesis-v1
 ---
 
 ## Definition
 
-Omen-coded remonstrance / 天象灾异包装式进谏 is the practice of using celestial signs, disasters, strange natural events, and sacred doctrine as a protected vocabulary for political criticism. In Hanji 836, [[YangBingLateHan|杨秉]] uses violent wind, darkness, and uprooted trees to criticize [[EmperorHuanOfHan|汉桓帝]]'s private outing; in Hanji 873, [[XiangKaiLateHan|襄楷]] uses a larger omen-and-doctrine system to accuse Huan without framing the memorial as ordinary personal attack.
+Omen-coded remonstrance / 天象灾异包装式进谏 is the practice of using celestial signs, disasters, strange natural events, and sacred doctrine as a protected vocabulary for political criticism. In Hanji 816, [[ZhouJuLateHan|周举]] uses drought to criticize [[EmperorShunOfHan|汉顺帝]]'s palace and policy choices, while [[ZhangHengLateHan|张衡]] uses earthquake and ground splitting to warn against divided authority; in Hanji 836, [[YangBingLateHan|杨秉]] uses violent wind, darkness, and uprooted trees to criticize [[EmperorHuanOfHan|汉桓帝]]'s private outing; in Hanji 873, [[XiangKaiLateHan|襄楷]] uses a larger omen-and-doctrine system to accuse Huan without framing the memorial as ordinary personal attack.
 
 ## Current Synthesis
 
 The concept sits between omen interpretation and advice under danger. [[CelestialOmenPoliticalResponsibility|天象政治责任]] and [[NaturalDisasterPoliticalOmen|自然灾害政治征兆]] make political failure legible through signs; omen-coded remonstrance turns those signs into a speaking strategy when direct accusation is risky.
+
+[[zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc|Hanji 816]] gives the concept an earlier Shun-era form. Zhou Ju does not treat drought as a prompt for prayer alone; he reads it against harem expansion, luxury consumption, resentment, and policy repair. Zhang Heng then reads earthquake and ground splitting as warnings about popular alarm and divided authority, but his later anti-tuchen argument shows that omen-coded criticism can coexist with skepticism toward unreliable prophetic texts.
 
 [[zizhi-tongjian-hanji-836-xiongdi-fanmu-beihou-ruzhe-he-jianchen-de-jiaofeng-lq9wjn5c8mwt-onrtslum4fw53eq|Hanji 836]] gives the concept a compact early form. Yang Bing does not merely say that wind and darkness are frightening; he translates the event into a concrete critique of imperial movement, ritual hierarchy, palace defense, and jade-seal security. The natural sign gives him a permissible entry point, but the target is Huan's decision to leave the palace privately for Liang Yin's household.
 
@@ -26,6 +29,7 @@ The method does not make the speaker safe or effective. In Hanji 836, Huan simpl
 ## Key Claims
 
 - Omen language can carry direct political criticism while preserving a formally acceptable cosmic-warning frame.
+- Disaster signs can redirect ineffective ritual response toward palace and policy causes.
 - Strange weather can be tied to a specific ruler action when the speaker translates it into ritual, hierarchy, and security consequences.
 - The method can combine sky signs, terrestrial disasters, hydrological anomalies, succession pressure, and moral doctrine in one argument.
 - Ambiguous signs are rhetorically usable because the speaker can read them against the surrounding political field rather than in isolation.
@@ -34,6 +38,8 @@ The method does not make the speaker safe or effective. In Hanji 836, Huan simpl
 
 ## Evidence
 
+- Drought as policy criticism: [[zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc|Hanji 816]] says Zhou Ju links Shun's drought anxiety to palace luxury, harem recruitment, public resentment, and the need to release unvisited palace women.
+- Earthquake as authority warning: [[zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc|Hanji 816]] says Zhang Heng reads earthquake and ground splitting as signs of popular fear and divided authority.
 - Immediate disaster reading: [[zizhi-tongjian-hanji-836-xiongdi-fanmu-beihou-ruzhe-he-jianchen-de-jiaofeng-lq9wjn5c8mwt-onrtslum4fw53eq|Hanji 836]] says Yang Bing reads violent wind, daytime darkness, and uprooted trees after Huan's private outing as Heaven's warning.
 - Ritual and security translation: [[zizhi-tongjian-hanji-836-xiongdi-fanmu-beihou-ruzhe-he-jianchen-de-jiaofeng-lq9wjn5c8mwt-onrtslum4fw53eq|Hanji 836]] says Yang Bing converts the event into arguments about imperial travel limits, hierarchy, ritual collapse, palace defense, and jade-seal risk.
 - Ineffective warning: [[zizhi-tongjian-hanji-836-xiongdi-fanmu-beihou-ruzhe-he-jianchen-de-jiaofeng-lq9wjn5c8mwt-onrtslum4fw53eq|Hanji 836]] says Emperor Huan does not take Yang Bing's warning seriously.
@@ -45,16 +51,20 @@ The method does not make the speaker safe or effective. In Hanji 836, Huan simpl
 
 ## Counterevidence & Qualifications
 
-The concept is grounded in the Hanji 836 Yang Bing case and the Hanji 873 Xiang Kai case, not in every Han omen memorial. It should not absorb all indirect criticism or all omen politics: [[AllusiveRemonstrance|隐语进谏]] can work through metaphor without astrology, and ordinary [[ChineseAstrologicalPolitics|中国星占政治]] can explain signs without becoming a memorial strategy. Hanji 836 proves that an omen-coded warning can be ignored; Hanji 873 proves that more elaborate coding can still lead to punishment. The Hanji 873 source also records the host's interpretation of Huan's Buddhist favor; it does not independently settle the full chronology of Buddhism in China.
+The concept is grounded in the Hanji 816 Zhou Ju and Zhang Heng cases, the Hanji 836 Yang Bing case, and the Hanji 873 Xiang Kai case, not in every Han omen memorial. It should not absorb all indirect criticism or all omen politics: [[AllusiveRemonstrance|隐语进谏]] can work through metaphor without astrology, and ordinary [[ChineseAstrologicalPolitics|中国星占政治]] can explain signs without becoming a memorial strategy. Hanji 816 also shows a boundary: Zhang Heng can use earthquake symbolism while attacking tuchen books as unreliable. Hanji 836 proves that an omen-coded warning can be ignored; Hanji 873 proves that more elaborate coding can still lead to punishment. The Hanji 873 source also records the host's interpretation of Huan's Buddhist favor; it does not independently settle the full chronology of Buddhism in China.
 
 ## What Changed
 
-- Hanji 836 backfills an earlier, compact Yang Bing example that ties disaster signs to Huan's private outing, ritual hierarchy, palace defense, and seal security.
+- Hanji 816 adds Shun-era drought and earthquake cases before the Huan-era examples.
+- The current judgment now separates omen-coded criticism from uncritical acceptance of prophetic texts through Zhang Heng's anti-tuchen memorial.
+- Hanji 836 remains the compact Yang Bing example that ties disaster signs to Huan's private outing, ritual hierarchy, palace defense, and seal security.
 - Hanji 873 remains the more elaborate Xiang Kai case involving star, disaster, river, succession, and religious criticism.
 
 ## Related Concepts
 
 - [[ImperialRitualDistance|Imperial Ritual Distance]] - ritual-order concept that Yang Bing defends through omen-coded criticism in Hanji 836.
+- [[RootCauseRemonstrance|根源诊断式进谏]] - Zhou Ju's drought counsel uses disaster language to force cause-level policy correction.
+- [[ChenweiEvidentiaryCritique|谶纬证据批判]] - Zhang Heng's case distinguishes omen-coded warning from acceptance of unreliable prophetic texts.
 - [[CelestialOmenPoliticalResponsibility|天象政治责任]] - supplies the sky-sign responsibility logic used in the memorial.
 - [[NaturalDisasterPoliticalOmen|自然灾害政治征兆]] - supplies the disaster-sign logic used for cold, hail, plague, and river anomalies.
 - [[ChineseAstrologicalPolitics|中国星占政治]] - technical star-reading field that makes the memorial legible inside court discourse.

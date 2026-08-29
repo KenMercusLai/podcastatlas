@@ -11,6 +11,7 @@ sources:
   - zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff
   - zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr
   - zizhi-tongjian-hanji-817-kan-si-ruanruo-de-ren-shize-huode-geng-tongtou-llmgqys237de3dzb6ij-4szyetye
+  - zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc
 last_updated: 2026-08-29
 ---
 
@@ -18,11 +19,13 @@ last_updated: 2026-08-29
 
 ## Overview
 
-Emperor Shun of Han appears in this wiki as a late Eastern Han ruler whose reign mixes bounded responsiveness with brittle command, palace, frontier, and succession structures. The current synthesis now spans 135-144 CE: eunuch adopted-son title inheritance, Zhang Gang's ignored protest, Liang Shang's appointment, and Li Gu's unadopted reform counsel in Hanji 817; Wang Gong's canceled inquiry, Yu Xu's rejected Wuling warning, Li Jin's Wuling repair, the Song E corruption case, and Fa Zhen's refusal in Hanji 818; Li Gu's successful Jiaozhi alternative in Hanji 819; legal narrowing and frontier-response choices in Hanji 820; Ma Xian's appointment failure and the Liang-family handoff in Hanji 821; 141-142 personnel accountability in Hanji 822; and the 143-144 final-year layer ending in the accession of the child emperor Liu Bing.
+Emperor Shun of Han appears in this wiki as a late Eastern Han ruler whose reign mixes bounded responsiveness with brittle command, palace, frontier, and succession structures. The current synthesis now spans 134-144 CE: Zhou Ju's drought remonstrance, Zhang Heng's earthquake memorial and anti-tuchen critique, early Qiang appointments, and Cheshi-Xiongnu pressure in Hanji 816; eunuch adopted-son title inheritance, Zhang Gang's ignored protest, Liang Shang's appointment, and Li Gu's unadopted reform counsel in Hanji 817; Wang Gong's canceled inquiry, Yu Xu's rejected Wuling warning, Li Jin's Wuling repair, the Song E corruption case, and Fa Zhen's refusal in Hanji 818; Li Gu's successful Jiaozhi alternative in Hanji 819; legal narrowing and frontier-response choices in Hanji 820; Ma Xian's appointment failure and the Liang-family handoff in Hanji 821; 141-142 personnel accountability in Hanji 822; and the 143-144 final-year layer ending in the accession of the child emperor Liu Bing.
 
 ## Current Profile
 
-The earliest current layer comes from [[zizhi-tongjian-hanji-817-kan-si-ruanruo-de-ren-shize-huode-geng-tongtou-llmgqys237de3dzb6ij-4szyetye|Hanji 817]]. Shun's court allows eunuchs to use adopted sons to inherit titles, a privilege the source ties to Shun's dependence on the eunuchs who helped restore him. [[ZhangGangLateHan|张纲]] memorializes against unmerited offices, salaries, and titles for petty people, but Shun does not adopt the criticism. The same layer shows Shun pushing [[LiangShangLateHan|梁商]] into the Grand General office after Liang claims illness and later presiding over a court where Li Gu's reform counsel to Liang Shang remains unadopted.
+The earliest current layer comes from [[zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc|Hanji 816]]. In 134 CE, Shun responds to drought by granting amnesty and praying for rain, then asks [[ZhouJuLateHan|周举]] for an explanation. Zhou Ju redirects him from ritual surface to palace and policy causes: luxury, expanded harem recruitment, forced separation of women from families, public resentment, and expensive food systems. Shun also asks Zhou Ju to name corrupt and treacherous officials; Zhou Ju avoids unsafe name-listing and instead gives a criterion for judgment, saying officials who repeatedly correct the throne are loyal while flatterers are treacherous. The same layer has [[ZhangHengLateHan|张衡]] use earthquake and ground-splitting signs to warn against divided authority, then criticize tuchen texts through chronology and catalog evidence.
+
+The 135-136 layer comes from [[zizhi-tongjian-hanji-817-kan-si-ruanruo-de-ren-shize-huode-geng-tongtou-llmgqys237de3dzb6ij-4szyetye|Hanji 817]]. Shun's court allows eunuchs to use adopted sons to inherit titles, a privilege the source ties to Shun's dependence on the eunuchs who helped restore him. [[ZhangGangLateHan|张纲]] memorializes against unmerited offices, salaries, and titles for petty people, but Shun does not adopt the criticism. The same layer shows Shun pushing [[LiangShangLateHan|梁商]] into the Grand General office after Liang claims illness and later presiding over a court where Li Gu's reform counsel to Liang Shang remains unadopted.
 
 [[zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr|Hanji 818]] supplies the next layer. Shun appoints [[WangGongTaiweiLateHan|王龚]] taiwei, orders him to answer a eunuch-backed accusation, and then cancels the inquiry after [[LiGuLateHan|李固]] appeals through Liang Shang. The same source shows Shun rejecting [[YuXuEasternHan|虞诩]]'s warning against increasing [[WulingManLateHan|武陵蛮]] tax burdens, then sending [[LiJinWulingLateHan|李进]] after the revolt erupts. It also records punishment and rent reduction after the Song E bribery case, repeated summons to [[FaZhenEasternHan|法真]], and Wang Gong's later retreat from impeaching [[ZhangFangEunuchLateHan|张防]].
 
@@ -38,7 +41,7 @@ In the 143-144 CE final-year layer from [[zizhi-tongjian-hanji-824-weishenme-wom
 
 ## Key Characteristics
 
-- Responsive to some concrete corrective advice, as when he cancels Wang Gong's inquiry or accepts Li Gu's Jiaozhi plan.
+- Responsive at moments to concrete corrective advice, beginning with Zhou Ju's drought counsel and continuing through Wang Gong and Jiaozhi cases.
 - Weak at sustaining frontier command and fiscal judgment when his preferred policy or court majority conflicts with expert warning.
 - Dependent on eunuch, Liang-family, and palace networks whose office power grows across his final years.
 - Able to punish visible eunuch or frontier-official misconduct after damage becomes hard to ignore.
@@ -48,6 +51,10 @@ In the 143-144 CE final-year layer from [[zizhi-tongjian-hanji-824-weishenme-wom
 
 ## Evidence
 
+- Drought remonstrance accepted as inquiry: [[zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc|Hanji 816]] says Shun asks Zhou Ju about the drought after amnesty and rain prayer, giving Zhou Ju a route to connect disaster to palace luxury and harem policy.
+- Loyalty criterion instead of names: [[zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc|Hanji 816]] says Zhou Ju answers Shun's request for corrupt names by contrasting repeated frank criticism with flattery and echoing.
+- Earthquake and tuchen warning: [[zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc|Hanji 816]] says Zhang Heng warns Shun against divided authority after earthquake signs and attacks unreliable tuchen books through textual evidence.
+- Early frontier pressure: [[zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc|Hanji 816]] records Qiang action around Liang Feng, Ma Xian's appointment, Ma Xu's later attack, and Cheshi-Northern Xiongnu fighting.
 - Eunuch privilege and ignored protest: [[zizhi-tongjian-hanji-817-kan-si-ruanruo-de-ren-shize-huode-geng-tongtou-llmgqys237de3dzb6ij-4szyetye|Hanji 817]] says Shun allows eunuch adopted sons to inherit titles and ignores Zhang Gang's criticism of unmerited grants to petty people.
 - Liang Shang appointment pressure: [[zizhi-tongjian-hanji-817-kan-si-ruanruo-de-ren-shize-huode-geng-tongtou-llmgqys237de3dzb6ij-4szyetye|Hanji 817]] says Shun sends Huan Yan with the Grand General appointment document after Liang Shang claims illness for nearly a year.
 - Disaster, frontier, and palace-fire setting: [[zizhi-tongjian-hanji-817-kan-si-ruanruo-de-ren-shize-huode-geng-tongtou-llmgqys237de3dzb6ij-4szyetye|Hanji 817]] records drought, Qiang fighting, Wuhuan attacks, an eclipse, a Luoyang earthquake, an era-name change and amnesty, and the Chengfu Hall fire.
@@ -71,18 +78,21 @@ In the 143-144 CE final-year layer from [[zizhi-tongjian-hanji-824-weishenme-wom
 
 ## Qualifications
 
-This page is a synthesis of seven source notes, not a full reign history. Hanji 817, Hanji 818, Hanji 819, and Hanji 820 add real responsiveness and palace dependence before the later failure pattern, so the current profile should avoid flattening Shun into either reformer or failed ruler alone. Hanji 817 adds an early eunuch-privilege case and an ignored Zhang Gang memorial; Hanji 818 adds a separate failed warning case, where the court ignores Yu Xu before the Wuling revolt. The normalized Hanji 817, Hanji 818, Hanji 819, and Hanji 820 names are bounded to their source notes and should be checked again if later sources give sharper evidence for the eunuch-adoption statute, Wuhuan campaign, Wuling, Xianglin, Jiaozhi, Rinan, Southern Xiongnu, or Zhang Kui accusation sequences.
+This page is a synthesis of eight source notes, not a full reign history. Hanji 816 adds the earliest current layer and shows real openness to some corrective speech before later palace, eunuch, frontier, and succession failures accumulate. Hanji 817, Hanji 818, Hanji 819, and Hanji 820 add real responsiveness and palace dependence before the later failure pattern, so the current profile should avoid flattening Shun into either reformer or failed ruler alone. Zhang Heng's tuchen critique is source-bounded to Hanji 816, and the normalized Hanji 816 through Hanji 820 names should be checked again if later sources give sharper evidence for tuchen bans, the eunuch-adoption statute, Wuhuan campaign, Wuling, Xianglin, Jiaozhi, Rinan, Southern Xiongnu, or Zhang Kui accusation sequences.
 
 ## What Changed
 
-- Added Hanji 817 as the earliest current Shun layer: eunuch adopted-son title inheritance, Zhang Gang's ignored anti-privilege memorial, Liang Shang's appointment pressure, and crisis/disaster notices.
-- Reframed Hanji 818 as the next layer: Wang Gong's canceled inquiry, Yu Xu's rejected Wuling warning, Li Jin's repair, Song E's corruption case, and Fa Zhen's refused summons.
-- Reframed Hanji 819 as the next Jiaozhi repair layer rather than the beginning of the profile.
+- Added Hanji 816 as the earliest current Shun layer: Zhou Ju's drought counsel, Zhang Heng's earthquake and anti-tuchen memorial, Qiang appointments, and Cheshi-Xiongnu pressure.
+- Reframed Hanji 817 and Hanji 818 as follow-on layers after the 134 CE feedback and frontier field.
+- Reframed Hanji 819 as the Jiaozhi repair layer rather than the beginning of the profile.
 - Reframed Shun's responsiveness as real but bounded by palace networks, uneven frontier judgment, fiscal misjudgment, and later command failure.
 - Preserved Hanji 820 through Hanji 824 as the legal, frontier, Liang-family, personnel-accountability, disaster, and succession sequence.
 
 ## Relationships
 
+- [[ZhouJuLateHan|周举]] - remonstrant whose drought counsel and loyalty criterion show Shun receiving correction before later cases.
+- [[ZhangHengLateHan|张衡]] - Taishi Ling whose earthquake and anti-tuchen memorial warns Shun about divided authority and unreliable prophetic texts.
+- [[RootCauseRemonstrance|根源诊断式进谏]] - concept illustrated when Shun's rain-prayer crisis is redirected toward palace and policy causes.
 - [[WangGongTaiweiLateHan|王龚]] - taiwei whose investigation Shun cancels after Li Gu and Liang Shang intervene.
 - [[ZhangGangLateHan|张纲]] - censor whose 135 CE anti-eunuch-privilege memorial Shun ignores before later inspection and Guangling layers.
 - [[LiGuLateHan|李固]] - adviser whose 138 CE Jiaozhi plan Shun accepts.
@@ -93,7 +103,7 @@ This page is a synthesis of seven source notes, not a full reign history. Hanji 
 - [[ZhangFangEunuchLateHan|张防]] - eunuch figure whose danger shows the limits of anti-eunuch correction under Shun.
 - [[JiaozhiCommandery|交趾郡]] - southern crisis where Shun chooses appointments over mass expedition.
 - [[ZhangQiaoLateHan|张乔]] and [[ZhuLiangLateHan|祝良]] - officials appointed under Shun after Li Gu's recommendation.
-- [[ZhouJuLateHan|周举]] and [[ZuoXiongLateHan|左雄]] - recommendation-accountability actors in Shun's talent-selection environment.
+- [[ZuoXiongLateHan|左雄]] - recommendation-accountability actor in Shun's talent-selection environment.
 - [[EmperorChongOfHan|Emperor Chong of Han]] - Shun designates Liu Bing crown prince and is succeeded by him in 144.
 - [[ZhongHaoLateHan|Zhong Hao]] - Shun appoints Zhong Hao to the crown-prince household, creating the office basis for Zhong Hao's later credential refusal.
 - [[HuangQiongLateHan|Huang Qiong]] - Huang Qiong's selection reform is accepted under Shun.
