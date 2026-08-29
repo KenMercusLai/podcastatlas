@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "32b92b1f52aa3614f04ab3f605e40705e80f0665568d25d9ffd3768d5991e64f",
       "549888ed657f9b119f7043536a523a802cc3631a4eebfc4d2f7e307759430713",
       "ade75b50b0091ff998d3e818c8e79170f4b6448365dd83d2e79a67a1683d9616",
       "9bf460c6cf20cf0fda0151569e4bca06649f121f8e70aba8876561e8751d6cb2",
@@ -372,11 +373,43 @@
       "c94dbb4bb11fbc67a68689063a003f4343a0087a9f4a369adf5930530cf3dce6",
       "42b428cd16585fd09c60d93170bb1c95fd3df1b9a2ff7182eb0ec9f1136bfe3d"
     ],
-    "paragraph_count": 370
+    "paragraph_count": 371
   },
-  "overview_commit": "db92e93a84eace91d0a457696825a2972280da5b",
-  "overview_digest": "53360dfe48eabb58d0ff742f37a802f873c47462cc415f295d78ac5bf912a867",
+  "overview_commit": "91d95b640aa64e1a8086709bea3e41a8b6cbf915",
+  "overview_digest": "683582637c204df95936c300db6ad5a68058f30d8a23538d2a4c76aa4ea1b64f",
   "paragraphs": [
+    {
+      "id": "32b92b1f52aa3614f04ab3f605e40705e80f0665568d25d9ffd3768d5991e64f",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|《资治通鉴·汉纪》798丨东汉时期的百姓有多苦？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 121 CE [[EmperorAnOfHan|汉安帝]] layer before [[zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf|Hanji 799]]. It adds [[BoRongLateHan|伯荣]], [[HuangXianLateHan|黄宪]], [[YuanLangLateHan|袁朗]], [[DaiLiangLateHan|戴良]], [[PalaceEnvoyLocalExtraction|宫使扰民式地方抽取]], [[ThreeExcellenciesBlameWithoutAuthority|三公无权背责]], and [[MoralPresenceWithoutOffice|不仕而为道德镜鉴]], while extending [[ChenZhongLateHan|陈忠]], [[EmperorAnOfHan|汉安帝]], [[WangGongTaiweiLateHan|王龚]], [[XunShuLateHan|荀淑]], [[GuoTaiLateHan|郭泰]], [[ChenFanLateHan|陈蕃]], [[Xiongnu|北匈奴]], and [[StrategicFrontierAbandonment|弃边失屏]]. Its core synthesis is that An-era suffering appears where natural disaster, frontier strain, palace travel, and institutional misalignment meet: Chen Zhong can identify both local corvee extraction and 三公/尚书权责错配, but An does not convert the warning; the Runan/Huang Xian branch then offers a contrasting moral-reputation field outside office. No settled contradiction is recorded; Ganling missions, women envoys, exact laborer/death figures, Yumen Pass, Yangguan, and the Cheshi identity in the closing teaser remain source-scoped.",
+      "topic_scores": {
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "BoRongLateHan",
+        "ChenFanLateHan",
+        "ChenZhongLateHan",
+        "DaiLiangLateHan",
+        "EmperorAnOfHan",
+        "GuoTaiLateHan",
+        "HuangXianLateHan",
+        "MoralPresenceWithoutOffice",
+        "PalaceEnvoyLocalExtraction",
+        "RuiqiJiangtouZizhiTongjian",
+        "StrategicFrontierAbandonment",
+        "ThreeExcellenciesBlameWithoutAuthority",
+        "WangGongTaiweiLateHan",
+        "Xiongnu",
+        "XunShuLateHan",
+        "YuanLangLateHan",
+        "zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5",
+        "zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf"
+      ]
+    },
     {
       "id": "549888ed657f9b119f7043536a523a802cc3631a4eebfc4d2f7e307759430713",
       "primary_topic": "history-and-geopolitics",

@@ -1,7 +1,8 @@
 ---
 title: "郭泰 / Guo Tai (late Han)"
 type: entity
-tags: [person, scholar, teacher, late-han, china]
+knowledge_schema: synthesis-v1
+tags: [person, scholar, teacher, late-han, china, reputation]
 sources:
   - zizhi-tongjian-hanji-931-rensheng-jiannan-chu-bianshi-xiuxin-shi-lpzmvxop8lmlwvxhoojzj5ok9qd6
   - zizhi-tongjian-hanji-894-yi-chang-taowang-yinfa-de-da-tusha-lhulp9hqu07uayyfl3eg-xwrtkeu
@@ -9,17 +10,19 @@ sources:
   - zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq
   - zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh
   - zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv
-last_updated: 2026-08-28
-knowledge_schema: synthesis-v1
+  - zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5
+last_updated: 2026-08-29
 ---
 
 ## Overview
 
-Guo Tai is a late-Han scholar, teacher, reputation leader, and talent judge whose wiki profile now begins with 164 CE public recognition and character interpretation before moving into mentorship, Taixue public opinion, guarded party-prohibition survival, and later reputation certification. The current evidence presents him as a "人师" figure: he reads selective speech and ordinary conduct carefully, recognizes hidden capacity, tests and corrects people, refuses office when he reads the dynasty as unsalvageable, yet continues forming students and talent.
+Guo Tai is a late-Han scholar, teacher, reputation leader, and talent judge whose wiki profile now begins with an earlier Huang Xian comparison before moving into 164 CE public recognition, character interpretation, mentorship, Taixue public opinion, guarded party-prohibition survival, and later reputation certification. The current evidence presents him as a "人师" figure: he reads selective speech and ordinary conduct carefully, recognizes hidden capacity, tests and corrects people, refuses office when he reads the dynasty as unsalvageable, yet continues forming students and talent. [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|Hanji 798]] adds that his people-judgment vocabulary can distinguish measurable clarity from unmeasurable moral depth through [[YuanLangLateHan|袁朗]] and [[HuangXianLateHan|黄宪]].
 
 ## Current Profile
 
-Hanji 860 backfills Guo Tai's first current layer. After [[HuangQiongLateHan|黄琼]]'s funeral, Guo Tai explains why [[XuZhiLateHan|徐稚]] refuses court talk with [[MaoRongLateHan|茅容]] while speaking freely about farming: the point is not stupidity or discourtesy, but selective speech and judgment of audience. The same source has [[FuRongLateHan|符融]] introduce Guo Tai to [[LiYingLateHan|李膺]], whose praise helps make Guo Tai famous in [[LuoyangLateHan|洛阳]], and then shows Guo Tai recognizing Mao Rong's virtue through rain-shelter posture and filial food allocation.
+Hanji 798 supplies the earliest current Guo Tai layer. In Runan, he visits Yuan Lang but does not stay overnight, then visits Huang Xian and stays several days. When asked why, Guo compares Yuan to a clear, measurable stream and Huang to a wide, deep, unmeasurable body of water. This makes Guo an evaluator not only of talent and conduct, but of depth that resists simple classification.
+
+Hanji 860 backfills Guo Tai's first current 164 CE layer. After [[HuangQiongLateHan|黄琼]]'s funeral, Guo Tai explains why [[XuZhiLateHan|徐稚]] refuses court talk with [[MaoRongLateHan|茅容]] while speaking freely about farming: the point is not stupidity or discourtesy, but selective speech and judgment of audience. The same source has [[FuRongLateHan|符融]] introduce Guo Tai to [[LiYingLateHan|李膺]], whose praise helps make Guo Tai famous in [[LuoyangLateHan|洛阳]], and then shows Guo Tai recognizing Mao Rong's virtue through rain-shelter posture and filial food allocation.
 
 Hanji 861 gives Guo Tai's fullest teacher portrait. He sees [[MengMinLateHan|孟敏]]'s decisiveness in a broken-vessel scene, notices low-status figures such as [[ShentuPanLateHan|申屠蟠]] and [[YuChengLateHan|庾乘]], accepts [[WeiZhaoLateHan|魏昭]]'s search for a teacher of conduct, and redirects [[ZuoYuanLateHan|左原]] after an offense. The same episode keeps his public boundary visible: [[SongChongLateHan|宋冲]] urges him to enter office, but Guo Tai refuses because he thinks the order is too far gone; Xu Zhi later warns him against overextension, and Guo Tai accepts the warning as instruction.
 
@@ -32,15 +35,16 @@ Hanji 894 gives the survival and withdrawal layer. Guo Tai grieves the deaths of
 ## Key Characteristics
 
 - Character interpreter who reads selective speech, posture, food allocation, and ordinary behavior as evidence.
+- Depth evaluator who can distinguish measurable talent from unmeasurable moral presence.
 - Teacher of conduct who forms people through recognition, testing, correction, and encouragement.
 - Talent evaluator who can notice capacity in ordinary, poor, or low-status settings.
 - Moral corrector who treats fault as serious but not always final.
-- Reputation figure whose own fame grows through Fu Rong and Li Ying while his judgments remain tied to conduct.
 - Taixue reputation leader whose public praise-and-blame field pressures officials.
 - Party-prohibition survivor who combines guarded speech, grief, withdrawal, and teaching.
 
 ## Evidence
 
+- Huang Xian depth comparison: [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|Hanji 798]] says Guo Tai contrasts Yuan Lang's clear, measurable quality with Huang Xian's unmeasurable depth after staying several days with Huang.
 - Selective-speech interpretation: [[zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv|Hanji 860]] has Guo Tai explain that Xu Zhi's refusal to discuss court affairs with Mao Rong is audience judgment rather than rudeness.
 - Elite endorsement and fame: [[zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv|Hanji 860]] says Fu Rong introduces Guo Tai to Li Ying, Li Ying praises him strongly, and Guo Tai's name becomes known in Luoyang.
 - Everyday virtue recognition: [[zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv|Hanji 860]] says Guo Tai notices Mao Rong's upright conduct in the rain and later bows after seeing Mao Rong prioritize his mother over guest display.
@@ -55,18 +59,21 @@ Hanji 894 gives the survival and withdrawal layer. Guo Tai grieves the deaths of
 
 ## Qualifications
 
-This page is not a complete biography. The sources use Guo Tai for specific functions: interpreter of selective conduct, reputation beneficiary, moral mentor, evaluator of Mao Rong, Huang Yun, and Qiu Xiang, Taixue reputation leader, restrained survivor and teacher, and reputation witness for Wang Yun. Hanji 861 and Hanji 862 warn against flattening him into a flawless talent oracle, because Huang Yun's case remains conditional and later unstable.
+This page is not a complete biography. The sources use Guo Tai for specific functions: evaluator of Huang Xian and Yuan Lang, interpreter of selective conduct, reputation beneficiary, moral mentor, evaluator of Mao Rong, Huang Yun, and Qiu Xiang, Taixue reputation leader, restrained survivor and teacher, and reputation witness for Wang Yun. Hanji 798's water comparison is treated as reputation-evaluation evidence, not as proof that Huang Xian's full doctrine or biography can be reconstructed. Hanji 861 and Hanji 862 warn against flattening Guo Tai into a flawless talent oracle, because Huang Yun's case remains conditional and later unstable.
 
 ## What Changed
 
-- Guo Tai's profile now begins with Hanji 860's public recognition and character interpretation before Hanji 861's active mentorship.
-- Mao Rong strengthens the judgment that Guo Tai reads ordinary, unperformed behavior as evidence of virtue.
-- Fu Rong and Li Ying add an endorsement layer showing that Guo Tai's authority also circulates through elite recognition.
+- Hanji 798 adds an earlier Runan comparison layer in which Guo Tai distinguishes Yuan Lang's measurable clarity from Huang Xian's unmeasurable moral depth.
+- Guo Tai's profile now begins before Hanji 860's public recognition and character interpretation.
+- Mao Rong still strengthens the judgment that Guo Tai reads ordinary, unperformed behavior as evidence of virtue.
 - The current judgment still distinguishes Guo Tai's grounded people-reading from magical or unconditional talent prophecy.
 - Guo Tai's refusal of office remains tied to continued teaching and to Xu Zhi's caution about the limits of individual repair.
 
 ## Relationships
 
+- [[HuangXianLateHan|黄宪]] - office-refusing moral figure whose depth Guo Tai compares to an unmeasurable expanse.
+- [[YuanLangLateHan|袁朗]] - respected Runan figure whom Guo Tai contrasts with Huang Xian.
+- [[MoralPresenceWithoutOffice|不仕而为道德镜鉴]] - concept clarified by Guo Tai's Huang Xian comparison.
 - [[MoralMentorshipTalentCultivation|人师型人才成全]] - concept grounded primarily in Guo Tai's Hanji 861 conduct.
 - [[HuangQiongLateHan|黄琼]] - funeral setting in which Guo Tai's interpretation of Xu Zhi becomes visible.
 - [[MaoRongLateHan|茅容]] - filial and upright figure whom Guo Tai recognizes and encourages.

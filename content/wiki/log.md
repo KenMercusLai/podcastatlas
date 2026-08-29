@@ -13157,6 +13157,10 @@ Ingested the 2026-08-29 Talk三联 episode on Guangzhou Academy of Fine Arts' fi
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-29] ingest | 《资治通鉴·汉纪》798丨东汉时期的百姓有多苦？
+
+Ingested the 2026-07-08 芮淇讲透资治通鉴 episode on 121 CE Emperor An, Chen Zhong's warnings about disaster-era palace emissary burden and Three Excellencies/Shangshu power-responsibility mismatch, Wang Gong's Runan talent field, Huang Xian's non-office moral reputation, and the Northern Xiongnu/Cheshi Hexi teaser. Created the source note plus `BoRongLateHan`, `HuangXianLateHan`, `YuanLangLateHan`, `DaiLiangLateHan`, `PalaceEnvoyLocalExtraction`, `ThreeExcellenciesBlameWithoutAuthority`, and `MoralPresenceWithoutOffice`; updated `EmperorAnOfHan`, `ChenZhongLateHan`, `WangGongTaiweiLateHan`, `XunShuLateHan`, `GuoTaiLateHan`, `ChenFanLateHan`, `index`, and `overview`. No settled contradiction found; Ganling missions, women envoys, exact local labor/death figures, Yumen Pass, Yangguan, and the Cheshi identity in the closing teaser remain source-scoped.
+
 ## [2026-08-29] ingest | 686. Jefferson: The Betrayal of Liberty (Part 4)
 
 Ingested the 2026-07-08 The Rest Is History episode on Thomas Jefferson's authorship of the Declaration of Independence, first-party politics, the election of 1800, the Louisiana Purchase, Sally Hemings, Monticello, slavery, and the modern reassessment of Jefferson's reputation. Created the source note plus `ThomasJefferson`, `SallyHemings`, `Monticello`, `JamesCallender`, `MadisonHemings`, `AnnetteGordonReed`, `ThomasJeffersonFoundation`, `DeclarationOfIndependence`, `LouisianaPurchase`, `LewisAndClarkExpedition`, `DemocraticRepublicanParty`, `FederalistParty`, `FirstPartySystem`, `PeacefulTransferOfPower`, `JeffersonianLibertyContradiction`, `CoercedConsentUnderSlavery`, and `FoundingFatherReputationRevision`; updated `index` and `overview`. No settled contradiction found; Jefferson's inner motives and Hemings's reasons for returning from France remain source-scoped.
@@ -13512,6 +13516,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-29] ingest | 《资治通鉴·汉纪》800丨杨震之死：一场奸臣对清官的剿杀
 
 Ingested the 2026-07-08 芮淇讲透资治通鉴 episode on 124 CE Yang Zhen's death, Fan Feng/Zhou Guang/Xie Yun's forged-edict private construction, Zhao Teng's execution after direct criticism, Geng Bao's accusation, Lai Li's rebuke, and Ban Yong's Western Regions submission chain. Created the source note plus `ZhouGuangLateHan`, `XieYunLateHan`, `ZhaoTengLateHan`, and `ForgedEdictPrivateExtraction`; updated `YangZhenLateHan`, `EmperorAnOfHan`, `FanFengEunuchLateHan`, `GengBaoGrandGeneralLateHan`, `LaiLiLateHan`, `BanYongLateHan`, `DirectRemonstranceCriminalization`, `OmenCodedRemonstrance`, `index`, and `overview`. No settled contradiction found; Geng Bao's dahonglu-to-Grand-General chronology, Feng Shi / 冯石, Yi Liang, and minor Western Regions actors remain source-scoped.
+
+## [2026-08-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-29] lint | Wiki health check
 

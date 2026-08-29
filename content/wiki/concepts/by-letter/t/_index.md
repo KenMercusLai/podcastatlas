@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 5935
+wiki_total_pages: 5938
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -299,6 +299,9 @@ wiki_pages:
   - key: "ThreatenedDefectionLeverage"
     title: "Threatened Defection Leverage / 投敌威胁式求援"
     url: "/wiki/concepts/threateneddefectionleverage/"
+  - key: "ThreeExcellenciesBlameWithoutAuthority"
+    title: "Three Excellencies Blame Without Authority / 三公无权背责"
+    url: "/wiki/concepts/threeexcellenciesblamewithoutauthority/"
   - key: "ThreeJinVassalRecognition"
     title: "Three Jin Vassal Recognition / 三晋受封"
     url: "/wiki/concepts/threejinvassalrecognition/"

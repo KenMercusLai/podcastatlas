@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 8313
+wiki_total_pages: 8317
 wiki_pages:
   - key: "BSpecials"
     title: "B Specials"
@@ -836,6 +836,9 @@ wiki_pages:
   - key: "Buxideng"
     title: "不熄灯 / Buxideng"
     url: "/wiki/entities/buxideng/"
+  - key: "BoRongLateHan"
+    title: "伯荣 / Bo Rong (late Han)"
+    url: "/wiki/entities/boronglatehan/"
   - key: "BeijingOrientalPlaza"
     title: "北京东方新天地 / Beijing Oriental Plaza"
     url: "/wiki/entities/beijingorientalplaza/"

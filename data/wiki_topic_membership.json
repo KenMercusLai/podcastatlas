@@ -42919,6 +42919,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "PalaceEnvoyLocalExtraction": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "PalaceMarketTheater": [
     {
       "key": "economics",
@@ -57992,6 +57999,13 @@
       "label": "History",
       "url": "/topics/history/"
     },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "ThreeExcellenciesBlameWithoutAuthority": [
     {
       "key": "politics",
       "label": "Politics",

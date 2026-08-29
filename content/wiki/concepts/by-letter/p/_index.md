@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5935
+wiki_total_pages: 5938
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -56,6 +56,9 @@ wiki_pages:
   - key: "PalaceCoupViolenceCascade"
     title: "Palace Coup Violence Cascade / 宫廷政变暴力级联"
     url: "/wiki/concepts/palacecoupviolencecascade/"
+  - key: "PalaceEnvoyLocalExtraction"
+    title: "Palace Envoy Local Extraction / 宫使扰民式地方抽取"
+    url: "/wiki/concepts/palaceenvoylocalextraction/"
   - key: "PalaceFavoriteProtectionFragility"
     title: "Palace Favorite Protection Fragility / 宫廷宠幸保护脆弱性"
     url: "/wiki/concepts/palacefavoriteprotectionfragility/"

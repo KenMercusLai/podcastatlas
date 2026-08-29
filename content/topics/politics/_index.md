@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2012
+topic_total_pages: 2014
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -1888,6 +1888,9 @@ topic_concepts:
   - key: "PalaceAccessMonopoly"
     title: "Palace Access Monopoly / 宫廷接触垄断"
     url: "/wiki/concepts/palaceaccessmonopoly/"
+  - key: "PalaceEnvoyLocalExtraction"
+    title: "Palace Envoy Local Extraction / 宫使扰民式地方抽取"
+    url: "/wiki/concepts/palaceenvoylocalextraction/"
   - key: "PalestinianQuestionInIsraeliPolitics"
     title: "Palestinian Question in Israeli Politics"
     url: "/wiki/concepts/palestinianquestioninisraelipolitics/"
@@ -2842,6 +2845,9 @@ topic_concepts:
   - key: "ThreatenedDefectionLeverage"
     title: "Threatened Defection Leverage / 投敌威胁式求援"
     url: "/wiki/concepts/threateneddefectionleverage/"
+  - key: "ThreeExcellenciesBlameWithoutAuthority"
+    title: "Three Excellencies Blame Without Authority / 三公无权背责"
+    url: "/wiki/concepts/threeexcellenciesblamewithoutauthority/"
   - key: "TitleRealityRestraint"
     title: "Title-Reality Restraint / 名实相符式名号节制"
     url: "/wiki/concepts/titlerealityrestraint/"

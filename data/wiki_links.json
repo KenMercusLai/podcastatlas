@@ -7207,6 +7207,10 @@
     "title": "薄静 / Bo Jing",
     "url": "/wiki/entities/bojingsanlianculture/"
   },
+  "BoRongLateHan": {
+    "title": "伯荣 / Bo Rong (late Han)",
+    "url": "/wiki/entities/boronglatehan/"
+  },
   "BoSo": {
     "title": "BoSo",
     "url": "/wiki/entities/boso/"
@@ -12934,6 +12938,10 @@
   "DaiKingdomEarlyHan": {
     "title": "代国 / Dai Kingdom (early Han)",
     "url": "/wiki/entities/daikingdomearlyhan/"
+  },
+  "DaiLiangLateHan": {
+    "title": "戴良 / Dai Liang (late Han)",
+    "url": "/wiki/entities/dailianglatehan/"
   },
   "DaiState": {
     "title": "代国 / Dai State",
@@ -23667,6 +23675,10 @@
     "title": "黄琬 / Huang Wan (late Han)",
     "url": "/wiki/entities/huangwanlatehan/"
   },
+  "HuangXianLateHan": {
+    "title": "黄宪 / Huang Xian (late Han)",
+    "url": "/wiki/entities/huangxianlatehan/"
+  },
   "HuangYanLateHan": {
     "title": "黄衍 / Huang Yan (late Han)",
     "url": "/wiki/entities/huangyanlatehan/"
@@ -34279,6 +34291,10 @@
     "title": "Moral Mentorship as Talent Cultivation / 人师型人才成全",
     "url": "/wiki/concepts/moralmentorshiptalentcultivation/"
   },
+  "MoralPresenceWithoutOffice": {
+    "title": "Moral Presence Without Office / 不仕而为道德镜鉴",
+    "url": "/wiki/concepts/moralpresencewithoutoffice/"
+  },
   "MoralReputationPoliticalCapital": {
     "title": "Moral Reputation as Political Capital / 道德名望政治资本",
     "url": "/wiki/concepts/moralreputationpoliticalcapital/"
@@ -37302,6 +37318,10 @@
   "PalaceCoupViolenceCascade": {
     "title": "Palace Coup Violence Cascade / 宫廷政变暴力级联",
     "url": "/wiki/concepts/palacecoupviolencecascade/"
+  },
+  "PalaceEnvoyLocalExtraction": {
+    "title": "Palace Envoy Local Extraction / 宫使扰民式地方抽取",
+    "url": "/wiki/concepts/palaceenvoylocalextraction/"
   },
   "PalaceFavoriteProtectionFragility": {
     "title": "Palace Favorite Protection Fragility / 宫廷宠幸保护脆弱性",
@@ -49643,6 +49663,10 @@
     "title": "3D-Printed Prosthetics",
     "url": "/wiki/concepts/threedprintedprosthetics/"
   },
+  "ThreeExcellenciesBlameWithoutAuthority": {
+    "title": "Three Excellencies Blame Without Authority / 三公无权背责",
+    "url": "/wiki/concepts/threeexcellenciesblamewithoutauthority/"
+  },
   "ThreeExcellenciesInnerCourtJurisdiction": {
     "title": "三公监察内廷职权 / Three Excellencies Inner-Court Jurisdiction",
     "url": "/wiki/concepts/threeexcellenciesinnercourtjurisdiction/"
@@ -56215,6 +56239,10 @@
     "title": "袁涣 / Yuan Huan (late Han)",
     "url": "/wiki/entities/yuanhuanlatehan/"
   },
+  "YuanLangLateHan": {
+    "title": "袁朗 / Yuan Lang (late Han)",
+    "url": "/wiki/entities/yuanlanglatehan/"
+  },
   "YuanLiaofan": {
     "title": "袁了凡 / Yuan Liaofan",
     "url": "/wiki/entities/yuanliaofan/"
@@ -62074,6 +62102,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5": {
+    "title": "《资治通鉴·汉纪》798丨东汉时期的百姓有多苦？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5/"
   },
   "zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf": {
     "title": "《资治通鉴·汉纪》799丨东汉名臣杨震，如何拒绝走后门？",

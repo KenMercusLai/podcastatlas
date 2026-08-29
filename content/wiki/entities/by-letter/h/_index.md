@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 8313
+wiki_total_pages: 8317
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -1169,6 +1169,9 @@ wiki_pages:
   - key: "HuangZiyiSanlian"
     title: "黄子逸 / Huang Ziyi"
     url: "/wiki/entities/huangziyisanlian/"
+  - key: "HuangXianLateHan"
+    title: "黄宪 / Huang Xian (late Han)"
+    url: "/wiki/entities/huangxianlatehan/"
   - key: "HuangZheng"
     title: "黄峥 / Huang Zheng"
     url: "/wiki/entities/huangzheng/"
