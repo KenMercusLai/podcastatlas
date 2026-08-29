@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5919
+wiki_total_pages: 5920
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -875,6 +875,9 @@ wiki_pages:
   - key: "PowerExitTrap"
     title: "Power Exit Trap / 权力退场困境"
     url: "/wiki/concepts/powerexittrap/"
+  - key: "PowerMonopolyBackfire"
+    title: "Power Monopoly Backfire / 一家独大式权力反噬"
+    url: "/wiki/concepts/powermonopolybackfire/"
   - key: "PowerMythDeflation"
     title: "Power Myth Deflation / 权力神话拆解"
     url: "/wiki/concepts/powermythdeflation/"

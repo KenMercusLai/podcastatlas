@@ -16155,6 +16155,10 @@
     "title": "Empathy Circle Expansion",
     "url": "/wiki/concepts/empathycircleexpansion/"
   },
+  "EmperorAnOfHan": {
+    "title": "汉安帝 / Emperor An of Han",
+    "url": "/wiki/entities/emperoranofhan/"
+  },
   "EmperorChongOfHan": {
     "title": "汉冲帝 / Emperor Chong of Han",
     "url": "/wiki/entities/emperorchongofhan/"
@@ -17342,6 +17346,10 @@
   "FanFangLateHan": {
     "title": "范方 / Fan Fang (Late Han)",
     "url": "/wiki/entities/fanfanglatehan/"
+  },
+  "FanFengEunuchLateHan": {
+    "title": "樊丰 / Fan Feng (late Han eunuch)",
+    "url": "/wiki/entities/fanfengeunuchlatehan/"
   },
   "FanFestivalCommercialization": {
     "title": "Fan Festival Commercialization",
@@ -20122,6 +20130,10 @@
   "GeneticCulpabilityProblem": {
     "title": "Genetic Culpability Problem / 遗传归责问题",
     "url": "/wiki/concepts/geneticculpabilityproblem/"
+  },
+  "GengBaoGrandGeneralLateHan": {
+    "title": "耿宝 / Geng Bao (Grand General, late Han)",
+    "url": "/wiki/entities/gengbaograndgenerallatehan/"
   },
   "GengBaoLateHan": {
     "title": "耿包 / Geng Bao (late Han)",
@@ -30116,7 +30128,7 @@
     "url": "/wiki/entities/liuyelatehan/"
   },
   "LiuYiBeixiangHouLateHan": {
-    "title": "北乡侯刘裔 / Liu Yi (Beixiang Hou, late Han)",
+    "title": "北乡侯刘裔 / 刘懿 / Liu Yi (Beixiang Hou, late Han)",
     "url": "/wiki/entities/liuyibeixianghoulatehan/"
   },
   "LiuYiLateHan": {
@@ -39174,6 +39186,10 @@
   "PowerExitTrap": {
     "title": "Power Exit Trap / 权力退场困境",
     "url": "/wiki/concepts/powerexittrap/"
+  },
+  "PowerMonopolyBackfire": {
+    "title": "Power Monopoly Backfire / 一家独大式权力反噬",
+    "url": "/wiki/concepts/powermonopolybackfire/"
   },
   "PowerMythDeflation": {
     "title": "Power Myth Deflation / 权力神话拆解",
@@ -52311,6 +52327,10 @@
     "title": "王瑞 / Wang Rui (late Han)",
     "url": "/wiki/entities/wangruilatehan/"
   },
+  "WangShengPalaceActorLateHan": {
+    "title": "王圣 / Wang Sheng (late Han palace actor)",
+    "url": "/wiki/entities/wangshengpalaceactorlatehan/"
+  },
   "WangShengli": {
     "title": "Wang Shengli",
     "url": "/wiki/entities/wangshengli/"
@@ -61878,6 +61898,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj": {
+    "title": "《资治通鉴·汉纪》802丨安帝之死！东汉王朝权力大洗牌！",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj/"
   },
   "zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s": {
     "title": "《资治通鉴·汉纪》803丨汉顺帝如何在腥风血雨中登上皇位？",

@@ -13468,3 +13468,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-29] ingest | 《资治通鉴·汉纪》802丨安帝之死！东汉王朝权力大洗牌！
+
+Ingested the 2026-07-09 芮淇讲透资治通鉴 episode on 125 CE Emperor An's sudden tour death, Yan Taihou and Yan Xian's concealed-death accession of Beixiang Hou, Liu Bao's exclusion, and the Yan-family purge of Geng Bao, Fan Feng, and Wang Sheng. Created the source note plus `EmperorAnOfHan`, `GengBaoGrandGeneralLateHan`, `FanFengEunuchLateHan`, `WangShengPalaceActorLateHan`, and `PowerMonopolyBackfire`; updated `EmpressDowagerYanLateHan`, `YanXianLateHan`, `LiuYiBeixiangHouLateHan`, `EmperorShunOfHan`, `ImperialDeathConcealment`, `SuccessionLegitimacyPurge`, `ControllableChildAccession`, `OuterRelativeCourtPower`, `overview`, and `index`. No settled contradiction found; Beixiang Hou's 刘懿/刘裔 name tension and minor actors including Xie Yun, Zhou Guang, Yan Jing, Yan Yao, Yan Yan, Ye County, and Jinan Xiao Wang Liu Xiang remain source-scoped.
+
+## [2026-08-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

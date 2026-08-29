@@ -5774,9 +5774,9 @@
       "url": "/wiki/concepts/continuousglucosemonitoring/"
     },
     "ControllableChildAccession": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》879丨死在女人身上的昏庸男人 [lqz5_Mpi0WAA_xmUHJHwkAECjJRC].md",
@@ -5791,6 +5791,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》825丨历史告诉你：当你没用时，人性最自私",
           "url": "/wiki/sources/zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》802丨安帝之死！东汉王朝权力大洗牌！ [lgvNE92e0jJzJNzNZfkZ7nvZTNbj].md",
+          "key": "zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》802丨安帝之死！东汉王朝权力大洗牌！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj/"
         }
       ],
       "updated": "2026-08-29",
@@ -8324,6 +8331,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/emotionsasfunctionalcontrolstates/"
     },
+    "EmperorAnOfHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》802丨安帝之死！东汉王朝权力大洗牌！ [lgvNE92e0jJzJNzNZfkZ7nvZTNbj].md",
+          "key": "zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》802丨安帝之死！东汉王朝权力大洗牌！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/emperoranofhan/"
+    },
     "EmperorChongOfHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -8546,9 +8569,9 @@
       "url": "/wiki/entities/emperorhuanofhan/"
     },
     "EmperorShunOfHan": {
-      "episode_count": 21,
+      "episode_count": 22,
       "show_count": 1,
-      "source_note_count": 21,
+      "source_note_count": 22,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》822丨豺狼当道，他将矛头直指皇帝岳父？ [lqHpMAYVd3p07BYR_zOIv-jyhdv_].md",
@@ -8696,6 +8719,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》803丨汉顺帝如何在腥风血雨中登上皇位？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》802丨安帝之死！东汉王朝权力大洗牌！ [lgvNE92e0jJzJNzNZfkZ7nvZTNbj].md",
+          "key": "zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》802丨安帝之死！东汉王朝权力大洗牌！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj/"
         }
       ],
       "updated": "2026-08-29",
@@ -8913,9 +8943,9 @@
       "url": "/wiki/entities/empressdowagerliangnalatehan/"
     },
     "EmpressDowagerYanLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》805丨通透人性的女人，竟能预测吉凶？ [ll3bZoYrKBtnVt-AQU9NqelqoneW].md",
@@ -8930,6 +8960,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》803丨汉顺帝如何在腥风血雨中登上皇位？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》802丨安帝之死！东汉王朝权力大洗牌！ [lgvNE92e0jJzJNzNZfkZ7nvZTNbj].md",
+          "key": "zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》802丨安帝之死！东汉王朝权力大洗牌！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj/"
         }
       ],
       "updated": "2026-08-29",
@@ -9398,6 +9435,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/fazheneasternhan/"
+    },
+    "FanFengEunuchLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》802丨安帝之死！东汉王朝权力大洗牌！ [lgvNE92e0jJzJNzNZfkZ7nvZTNbj].md",
+          "key": "zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》802丨安帝之死！东汉王朝权力大洗牌！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/fanfengeunuchlatehan/"
     },
     "FanPangLateHan": {
       "episode_count": 7,
@@ -10740,6 +10793,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/genesismission/"
+    },
+    "GengBaoGrandGeneralLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》802丨安帝之死！东汉王朝权力大洗牌！ [lgvNE92e0jJzJNzNZfkZ7nvZTNbj].md",
+          "key": "zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》802丨安帝之死！东汉王朝权力大洗牌！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/gengbaograndgenerallatehan/"
     },
     "GengBaoLateHan": {
       "episode_count": 1,
@@ -13346,9 +13415,9 @@
       "url": "/wiki/concepts/immunesystemastunablesensornetwork/"
     },
     "ImperialDeathConcealment": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》127-3｜海外回归一批竹简 揭开胡亥立帝之谜！ [ljA0PaNKCx4uGTYLbXXqKwuAvdnW].md",
@@ -13377,6 +13446,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》803丨汉顺帝如何在腥风血雨中登上皇位？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》802丨安帝之死！东汉王朝权力大洗牌！ [lgvNE92e0jJzJNzNZfkZ7nvZTNbj].md",
+          "key": "zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》802丨安帝之死！东汉王朝权力大洗牌！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj/"
         }
       ],
       "updated": "2026-08-29",
@@ -17246,9 +17322,9 @@
       "url": "/wiki/entities/liuyelatehan/"
     },
     "LiuYiBeixiangHouLateHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》803丨汉顺帝如何在腥风血雨中登上皇位？ [lqVnO7t_gcGXtbS3phufLR4ybe2s].md",
@@ -17277,6 +17353,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》825丨历史告诉你：当你没用时，人性最自私",
           "url": "/wiki/sources/zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》802丨安帝之死！东汉王朝权力大洗牌！ [lgvNE92e0jJzJNzNZfkZ7nvZTNbj].md",
+          "key": "zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》802丨安帝之死！东汉王朝权力大洗牌！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj/"
         }
       ],
       "updated": "2026-08-29",
@@ -20879,9 +20962,9 @@
       "url": "/wiki/concepts/outdoorvehiclelifestyledesign/"
     },
     "OuterRelativeCourtPower": {
-      "episode_count": 16,
+      "episode_count": 17,
       "show_count": 1,
-      "source_note_count": 16,
+      "source_note_count": 17,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》848丨瞬间垮台！我为何说他死有余辜？ [lgqVgMxlwga2fKnmtxPj3Ya9chk0].md",
@@ -20994,6 +21077,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》821丨不懂老板心思还想晋升？没门！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》802丨安帝之死！东汉王朝权力大洗牌！ [lgvNE92e0jJzJNzNZfkZ7nvZTNbj].md",
+          "key": "zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》802丨安帝之死！东汉王朝权力大洗牌！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj/"
         }
       ],
       "updated": "2026-08-29",
@@ -22065,6 +22155,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/postvictorythreatsequencing/"
+    },
+    "PowerMonopolyBackfire": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》802丨安帝之死！东汉王朝权力大洗牌！ [lgvNE92e0jJzJNzNZfkZ7nvZTNbj].md",
+          "key": "zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》802丨安帝之死！东汉王朝权力大洗牌！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/powermonopolybackfire/"
     },
     "PowerStructureTargeting": {
       "episode_count": 2,
@@ -26070,9 +26176,9 @@
       "url": "/wiki/concepts/successionauthorityconsolidation/"
     },
     "SuccessionLegitimacyPurge": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》943丨权势考验人性，背后藏着巨大凶险 [lg7ia5XOK-swdMHml35YV9qQQkvt].md",
@@ -26108,6 +26214,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》803丨汉顺帝如何在腥风血雨中登上皇位？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》802丨安帝之死！东汉王朝权力大洗牌！ [lgvNE92e0jJzJNzNZfkZ7nvZTNbj].md",
+          "key": "zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》802丨安帝之死！东汉王朝权力大洗牌！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj/"
         }
       ],
       "updated": "2026-08-29",
@@ -29160,6 +29273,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/wangkanglatehan/"
     },
+    "WangShengPalaceActorLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》802丨安帝之死！东汉王朝权力大洗牌！ [lgvNE92e0jJzJNzNZfkZ7nvZTNbj].md",
+          "key": "zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》802丨安帝之死！东汉王朝权力大洗牌！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/wangshengpalaceactorlatehan/"
+    },
     "WangTiaoLiGuStudent": {
       "episode_count": 1,
       "show_count": 1,
@@ -31069,9 +31198,9 @@
       "url": "/wiki/entities/yanrou/"
     },
     "YanXianLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》804丨给你“糖”的人，不一定是贵人！ [lqONgdqg-hGeTOEgPylV_oS86bUH].md",
@@ -31086,6 +31215,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》803丨汉顺帝如何在腥风血雨中登上皇位？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》802丨安帝之死！东汉王朝权力大洗牌！ [lgvNE92e0jJzJNzNZfkZ7nvZTNbj].md",
+          "key": "zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》802丨安帝之死！东汉王朝权力大洗牌！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj/"
         }
       ],
       "updated": "2026-08-29",

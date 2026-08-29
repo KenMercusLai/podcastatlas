@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 8283
+wiki_total_pages: 8287
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -884,6 +884,9 @@ wiki_pages:
   - key: "WangGuowei"
     title: "王国维"
     url: "/wiki/entities/wangguowei/"
+  - key: "WangShengPalaceActorLateHan"
+    title: "王圣 / Wang Sheng (late Han palace actor)"
+    url: "/wiki/entities/wangshengpalaceactorlatehan/"
   - key: "WangDake"
     title: "王大可"
     url: "/wiki/entities/wangdake/"
