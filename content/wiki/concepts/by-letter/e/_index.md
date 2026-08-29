@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 5945
+wiki_total_pages: 5948
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -683,6 +683,9 @@ wiki_pages:
   - key: "ExerciseLoadManagement"
     title: "Exercise Load Management / 运动负荷管理"
     url: "/wiki/concepts/exerciseloadmanagement/"
+  - key: "ExerciseMedicalAestheticBoundary"
+    title: "Exercise Medical-Aesthetic Boundary / 运动医美边界"
+    url: "/wiki/concepts/exercisemedicalaestheticboundary/"
   - key: "ExerciseSelfMasteryForProcrastination"
     title: "Exercise Self-Mastery For Procrastination"
     url: "/wiki/concepts/exerciseselfmasteryforprocrastination/"

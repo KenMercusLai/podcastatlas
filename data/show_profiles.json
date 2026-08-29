@@ -2763,7 +2763,7 @@
       "earliest_episode_date": "2025-10-08",
       "latest_episode_date": "2026-08-26",
       "latest_episode_file": "loFs520pS1eVva8naFSnRKcbvgJZ [loFs520pS1eVva8naFSnRKcbvgJZ].md",
-      "source_note_count": 9,
+      "source_note_count": 10,
       "topic_matched_source_note_count": 3,
       "topics": [
         {
@@ -2791,7 +2791,7 @@
           "title": "阿汤 / A Tang",
           "url": "/wiki/entities/atang/",
           "kind": "person",
-          "episode_count": 7
+          "episode_count": 8
         },
         {
           "key": "YaMengDoctor",

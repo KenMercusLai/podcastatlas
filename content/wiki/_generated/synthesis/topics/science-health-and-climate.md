@@ -3,16 +3,16 @@
 generated: true
 topic_id: science-health-and-climate
 title: "Science, Health, and Climate"
-last_updated: 2026-08-29
-as_of_overview_commit: 371c50f3e04966894c50817df8dae28947ea4cad
-input_digest: e162d2ea44c471b9bdd20ab0e60d93801bdfab3ff2798fc294da72d6fcbb064a
+last_updated: 2026-08-30
+as_of_overview_commit: f516098da9dbf6b43d5ccc0fd497ed3e424189b6
+input_digest: 5c89dcaefeb0db47c4afa8ffc6bbdaa4c1bf14cc03f901f9b1814a26b67baa8c
 ---
 
 # Science, Health, and Climate
 
 ## Current State
 
-The OCD episode adds a serious psychiatric-care branch: obsessions and compulsions are framed as anxiety-relief reinforcement, while Y-BOCS assessment, corticostriatal-thalamic circuitry, and exposure-response prevention keep diagnosis and treatment inside clinical boundaries. VOL.215 adds a sugar-control literacy branch, and VOL.213 adds an insect-bite literacy branch. The topic also includes first-visit diagnostic safety netting, female hormone health across menstruation, PCOS, menopause, pregnancy, and transgender care, metabolic psychiatry, bipolar care, and individualized cancer vaccines. Across these strands, recurring claims emphasize mechanism, measurement, escalation thresholds, supervision boundaries, and longitudinal adherence over headline labels alone.
+VOL.211 adds an exercise-risk branch: exercise can support health and appearance only when load, recovery, skin exposure, blood-pressure and cardiovascular context, supplement uncertainty, injury care, and emergency readiness are bounded. The OCD episode adds a serious psychiatric-care branch; VOL.215 adds sugar-control literacy; and VOL.213 adds insect-bite literacy. The topic also includes diagnostic safety netting, female hormone health across life stages, metabolic psychiatry, bipolar care, individualized cancer vaccines, space infrastructure, and climate implementation. Across these strands, recurring claims emphasize mechanism, measurement, escalation thresholds, supervision boundaries, and longitudinal adherence over headline labels alone.
 
 ## Cross-source Findings
 
@@ -39,6 +39,18 @@ The OCD episode adds a serious psychiatric-care branch: obsessions and compulsio
 - The Q&A is public health education, not individualized medical, fertility, hormone, supplement, or surgery-recovery advice.
 - Morning light, sleep, exercise, nutrition, and learning routines are framed as flexible supports rather than protocol perfection or universal rules.
 - Alpha GPC, testosterone, hormone therapy, fertility decisions, and perioperative recovery remain source-scoped and clinician-contextual where relevant.
+
+### Exercise Benefits Need Load Recovery And Risk Boundaries
+
+[[ExerciseLoadManagement]] now bridges sports medicine, medical aesthetics, and cardiovascular safety: [[ExerciseMedicalAestheticBoundary]], [[CardiovascularExerciseRiskBoundary]], and [[PublicExerciseEmergencyPreparedness]] show that exercise can support appearance and health only when load, recovery, sun exposure, heart-rate and blood-pressure context, supplement uncertainty, injury care, and emergency response are bounded.
+
+**Evidence:** [[vol-211-yue-yundong-yue-kualian-zhengxing-yisheng-yu-xinxueguan-yisheng-de-jianshen-qumei-zhinan-lsp1xlzq1iapc-qale-mzutigv0u]], [[ExerciseLoadManagement]], [[ExerciseMedicalAestheticBoundary]], [[CardiovascularExerciseRiskBoundary]], [[PublicExerciseEmergencyPreparedness]], [[MedicalRiskManagement]], [[SleepAsDailyHealthAccount]], [[SupplementLabelAccuracy]], [[DietarySupplementRegulation]], [[AnderMedicalAesthetics]], [[DengProfessorCardiology]], [[Atang]], [[ZheBingShuoLaiHuaChang]]
+
+**Qualifications:**
+
+- The episode is public medical, cardiology, dermatology, emergency-care, rehabilitation, and training education rather than individualized exercise prescription.
+- Aesthetic, heart-rate, supplement, and injury claims remain source-scoped because safe thresholds depend on skin exposure, facial-fat change, baseline blood pressure, cardiovascular history, recovery state, product uncertainty, equipment skill, and symptoms.
+- BLS, AED, and emergency-call guidance should be read as preparedness literacy, not a substitute for local emergency protocols or professional care.
 
 ### Metabolic Psychiatry Needs Evidence And Supervision
 

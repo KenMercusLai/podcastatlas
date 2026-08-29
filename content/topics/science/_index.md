@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 841
+topic_total_pages: 844
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -202,6 +202,9 @@ topic_concepts:
   - key: "CarbonStoragePermanence"
     title: "Carbon Storage Permanence"
     url: "/wiki/concepts/carbonstoragepermanence/"
+  - key: "CardiovascularExerciseRiskBoundary"
+    title: "Cardiovascular Exercise Risk Boundary / 心血管运动风险边界"
+    url: "/wiki/concepts/cardiovascularexerciseriskboundary/"
   - key: "CausalDeterminism"
     title: "Causal Determinism / 因果决定论"
     url: "/wiki/concepts/causaldeterminism/"
@@ -466,6 +469,9 @@ topic_concepts:
   - key: "ExerciseLoadManagement"
     title: "Exercise Load Management / 运动负荷管理"
     url: "/wiki/concepts/exerciseloadmanagement/"
+  - key: "ExerciseMedicalAestheticBoundary"
+    title: "Exercise Medical-Aesthetic Boundary / 运动医美边界"
+    url: "/wiki/concepts/exercisemedicalaestheticboundary/"
   - key: "ExerciseSelfMasteryForProcrastination"
     title: "Exercise Self-Mastery For Procrastination"
     url: "/wiki/concepts/exerciseselfmasteryforprocrastination/"
@@ -1078,6 +1084,9 @@ topic_concepts:
   - key: "PsychometricSocialSorting"
     title: "Psychometric Social Sorting / 心理测量式社会分层"
     url: "/wiki/concepts/psychometricsocialsorting/"
+  - key: "PublicExerciseEmergencyPreparedness"
+    title: "Public Exercise Emergency Preparedness / 公共运动急救准备"
+    url: "/wiki/concepts/publicexerciseemergencypreparedness/"
   - key: "PuerAeternus"
     title: "Puer Aeternus / 永恒少年"
     url: "/wiki/concepts/pueraeternus/"

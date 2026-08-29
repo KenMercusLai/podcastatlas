@@ -375,12 +375,13 @@
       "c579b0c3102e48af519244d183c5c41e037740a37bf519bf5b0f4bf5ef849207",
       "56abb716e5b03c8a306adb1a6c6075e7f241a8cf33161741fecbd9f5b886bbb0",
       "c94dbb4bb11fbc67a68689063a003f4343a0087a9f4a369adf5930530cf3dce6",
-      "42b428cd16585fd09c60d93170bb1c95fd3df1b9a2ff7182eb0ec9f1136bfe3d"
+      "42b428cd16585fd09c60d93170bb1c95fd3df1b9a2ff7182eb0ec9f1136bfe3d",
+      "75db7802851b00335466c237f5c73df15775e7e42e7213db8107b7ed258053a0"
     ],
-    "paragraph_count": 375
+    "paragraph_count": 376
   },
-  "overview_commit": "d24c42b1216a6ce689441f2cb993ca8d2db66852",
-  "overview_digest": "ed091e5c2ace5256e13eba207d016676feeff5e753a58cd6991e16aadfd4f9fd",
+  "overview_commit": "f516098da9dbf6b43d5ccc0fd497ed3e424189b6",
+  "overview_digest": "ac91f7600172c1deb3e93251a8f14f5ccad8c799e5485ea916cacb2c4ee4c799",
   "paragraphs": [
     {
       "id": "0d7f25fc11fbd57cab678cdf86b6c29ce3204627f14611118f78159a945a218a",
@@ -11621,6 +11622,35 @@
         "WeiQianSanlian",
         "XiangBiao",
         "ep280-guangzhou-meiyuan-fangwenji-dang-meishusheng-kaishi-zuo-tianye-diaocha-lr4-jmpdo-oo7w8sdmcgcw-chqc9"
+      ]
+    },
+    {
+      "id": "75db7802851b00335466c237f5c73df15775e7e42e7213db8107b7ed258053a0",
+      "primary_topic": "science-health-and-climate",
+      "secondary_topics": [
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[vol-211-yue-yundong-yue-kualian-zhengxing-yisheng-yu-xinxueguan-yisheng-de-jianshen-qumei-zhinan-lsp1xlzq1iapc-qale-mzutigv0u|VOL.211 越运动越“垮脸”？整形医生与心血管医生的「健身祛魅」指南]], a [[ZheBingShuoLaiHuaChang|这病说来话长]] episode with [[Atang|阿汤]], [[AnderMedicalAesthetics|Ander]], and [[DengProfessorCardiology|邓教授]] on exercise as health, appearance, and risk-management practice. It adds [[ExerciseMedicalAestheticBoundary]], [[CardiovascularExerciseRiskBoundary]], [[PublicExerciseEmergencyPreparedness]], [[AnderMedicalAesthetics]], and [[DengProfessorCardiology]], while extending [[ExerciseLoadManagement]], [[ZheBingShuoLaiHuaChang]], [[Atang]], [[MedicalRiskManagement]], [[SleepAsDailyHealthAccount]], [[LifestyleWeightManagement]], [[SupplementLabelAccuracy]], and [[DietarySupplementRegulation]]. Its core synthesis is that exercise is protective only within a recovery and risk boundary: aesthetic gains can be offset by sun exposure, facial strain, rapid weight loss, and poor sleep; heart-rate cues need blood-pressure and disease context; and sport safety includes supplement caution, equipment learning, injury care, and BLS/AED readiness. No settled contradiction is recorded; training plans, procedure choices, heart-rate thresholds, supplement use, and emergency response remain source-scoped public education rather than individualized medical, cardiology, dermatology, emergency-care, rehabilitation, or training advice.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "science-health-and-climate": 2,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "AnderMedicalAesthetics",
+        "Atang",
+        "CardiovascularExerciseRiskBoundary",
+        "DengProfessorCardiology",
+        "DietarySupplementRegulation",
+        "ExerciseLoadManagement",
+        "ExerciseMedicalAestheticBoundary",
+        "LifestyleWeightManagement",
+        "MedicalRiskManagement",
+        "PublicExerciseEmergencyPreparedness",
+        "SleepAsDailyHealthAccount",
+        "SupplementLabelAccuracy",
+        "ZheBingShuoLaiHuaChang",
+        "vol-211-yue-yundong-yue-kualian-zhengxing-yisheng-yu-xinxueguan-yisheng-de-jianshen-qumei-zhinan-lsp1xlzq1iapc-qale-mzutigv0u"
       ]
     }
   ],

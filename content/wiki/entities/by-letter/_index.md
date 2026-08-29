@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 8331
+wiki_total_pages: 8333
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -776,6 +776,9 @@ wiki_pages:
   - key: "Anaya"
     title: "Anaya / 阿那亚"
     url: "/wiki/entities/anaya/"
+  - key: "AnderMedicalAesthetics"
+    title: "Ander (medical-aesthetics guest)"
+    url: "/wiki/entities/andermedicalaesthetics/"
   - key: "AndreAbrahamian"
     title: "Andre Abrahamian"
     url: "/wiki/entities/andreabrahamian/"

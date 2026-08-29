@@ -11694,6 +11694,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "CardiovascularExerciseRiskBoundary": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "CareerAdviceSurvivorshipBias": [
     {
       "key": "culture",
@@ -20931,6 +20938,13 @@
     }
   ],
   "ExerciseLoadManagement": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "ExerciseMedicalAestheticBoundary": [
     {
       "key": "science",
       "label": "Science",
@@ -46574,6 +46588,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "PublicExerciseEmergencyPreparedness": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "PublicFigureWorkplaceAdviceSatire": [

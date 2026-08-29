@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 5945
+wiki_total_pages: 5948
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -179,6 +179,9 @@ wiki_pages:
   - key: "CarceralLaborGovernance"
     title: "Carceral Labor Governance"
     url: "/wiki/concepts/carcerallaborgovernance/"
+  - key: "CardiovascularExerciseRiskBoundary"
+    title: "Cardiovascular Exercise Risk Boundary / 心血管运动风险边界"
+    url: "/wiki/concepts/cardiovascularexerciseriskboundary/"
   - key: "CardiovascularBrainHealthLink"
     title: "Cardiovascular-Brain Health Link"
     url: "/wiki/concepts/cardiovascularbrainhealthlink/"

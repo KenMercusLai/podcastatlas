@@ -4351,6 +4351,10 @@
     "title": "Ancient Large-Army Command Limits / 古代大兵团指挥极限",
     "url": "/wiki/concepts/ancientlargearmycommandlimits/"
   },
+  "AnderMedicalAesthetics": {
+    "title": "Ander (medical-aesthetics guest)",
+    "url": "/wiki/entities/andermedicalaesthetics/"
+  },
   "AndingCommandery": {
     "title": "安定郡 / Anding Commandery",
     "url": "/wiki/entities/andingcommandery/"
@@ -8666,6 +8670,10 @@
   "CardiovascularBrainHealthLink": {
     "title": "Cardiovascular-Brain Health Link",
     "url": "/wiki/concepts/cardiovascularbrainhealthlink/"
+  },
+  "CardiovascularExerciseRiskBoundary": {
+    "title": "Cardiovascular Exercise Risk Boundary / 心血管运动风险边界",
+    "url": "/wiki/concepts/cardiovascularexerciseriskboundary/"
   },
   "CareCompanionProgram": {
     "title": "Care Companion Program",
@@ -13927,6 +13935,10 @@
     "title": "邓老板",
     "url": "/wiki/entities/denglaoban/"
   },
+  "DengProfessorCardiology": {
+    "title": "邓教授 / Professor Deng (cardiology guest)",
+    "url": "/wiki/entities/dengprofessorcardiology/"
+  },
   "DengTong": {
     "title": "邓通 / Deng Tong",
     "url": "/wiki/entities/dengtong/"
@@ -16970,6 +16982,10 @@
   "ExerciseLoadManagement": {
     "title": "Exercise Load Management / 运动负荷管理",
     "url": "/wiki/concepts/exerciseloadmanagement/"
+  },
+  "ExerciseMedicalAestheticBoundary": {
+    "title": "Exercise Medical-Aesthetic Boundary / 运动医美边界",
+    "url": "/wiki/concepts/exercisemedicalaestheticboundary/"
   },
   "ExerciseSelfMasteryForProcrastination": {
     "title": "Exercise Self-Mastery For Procrastination",
@@ -40327,6 +40343,10 @@
     "title": "Public Duty Over Private Grievance / 对事不对人式公义",
     "url": "/wiki/concepts/publicdutyoverprivategrievance/"
   },
+  "PublicExerciseEmergencyPreparedness": {
+    "title": "Public Exercise Emergency Preparedness / 公共运动急救准备",
+    "url": "/wiki/concepts/publicexerciseemergencypreparedness/"
+  },
   "PublicFigureWorkplaceAdviceSatire": {
     "title": "Public-Figure Workplace Advice Satire",
     "url": "/wiki/concepts/publicfigureworkplaceadvicesatire/"
@@ -61326,6 +61346,10 @@
   "vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1": {
     "title": "Vol. 172 Codex 卖重置套餐，DeepSeek 峰谷调价，苹果重回 5 万亿等",
     "url": "/wiki/sources/vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1/"
+  },
+  "vol-211-yue-yundong-yue-kualian-zhengxing-yisheng-yu-xinxueguan-yisheng-de-jianshen-qumei-zhinan-lsp1xlzq1iapc-qale-mzutigv0u": {
+    "title": "VOL.211 越运动越“垮脸”？整形医生与心血管医生的「健身祛魅」指南",
+    "url": "/wiki/sources/vol-211-yue-yundong-yue-kualian-zhengxing-yisheng-yu-xinxueguan-yisheng-de-jianshen-qumei-zhinan-lsp1xlzq1iapc-qale-mzutigv0u/"
   },
   "vol-212-pingshi-jiuzuo-zhoumo-wanming-yundong-yundong-yixueke-yisheng-gei-dagongrende-fang-lian-fei-zhinan-lqtwr4m-9npye9giib1-om-tylmy": {
     "title": "VOL.212 平时久坐 周末玩命运动？运动医学科医生给打工人的「防练废」指南",

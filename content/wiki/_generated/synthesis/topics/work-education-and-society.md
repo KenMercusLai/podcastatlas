@@ -3,16 +3,16 @@
 generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
-last_updated: 2026-08-29
-as_of_overview_commit: d24c42b1216a6ce689441f2cb993ca8d2db66852
-input_digest: 3eecf2d14eb3287dee298cfd6baf651b7bb5b1646857425a0bd2aa45e9212ef4
+last_updated: 2026-08-30
+as_of_overview_commit: f516098da9dbf6b43d5ccc0fd497ed3e424189b6
+input_digest: 8341d493596708413f0a1c6152c44e8f4ff1354564ed4ac988aa97b9276daeb2
 ---
 
 # Work, Education, and Society
 
 ## Current State
 
-Hanji 792 adds a source-scoped family and career risk lesson: concentrating every path in one power channel can increase exposure, while separation may look punitive before later conditions make it protective. The Guangzhou Academy of Fine Arts fieldwork episode adds that undergraduate learning can become formative when students observe, interview, and build experience before polished expression, while still facing grades, specialization, technique, employment pressure, and uncertain long-term outcomes. The Jefferson-Hemings material adds a secondary society case: family, labor, and relationship claims need explicit attention to legal power and coercive status. Hanji access, office-boundary, succession, and reputation cases show that education, merit, dignity, and correct claims need usable channels, public witnesses, role boundaries, and hierarchy-aware handling before they become institutional action. The OCD episode adds a source-scoped public-health education case: mechanism and assessment language can orient action, but exposure practice and treatment planning stay clinically bounded. Work, education, and society sources converge on a practical pattern: durable capability comes from bounded institutions, active learning, realistic workplace judgment, human feedback loops, social trust, pacing, and environments that let people act under real constraints.
+Hanji 792 adds a source-scoped family and career risk lesson: concentrating every path in one power channel can increase exposure, while separation may look punitive before later conditions make it protective. The Guangzhou Academy of Fine Arts fieldwork episode adds that undergraduate learning can become formative when students observe, interview, and build experience before polished expression, while still facing grades, specialization, technique, employment pressure, and uncertain long-term outcomes. The Jefferson-Hemings material adds a secondary society case: family, labor, and relationship claims need explicit attention to legal power and coercive status. Hanji access, office-boundary, succession, and reputation cases show that education, merit, dignity, and correct claims need usable channels, public witnesses, role boundaries, and hierarchy-aware handling before they become institutional action. VOL.211 and the OCD episode add source-scoped public-health education cases: mechanism and assessment language can orient action, but training, emergency response, exposure practice, and treatment planning stay clinically bounded. Work, education, and society sources converge on a practical pattern: durable capability comes from bounded institutions, active learning, realistic workplace judgment, human feedback loops, social trust, pacing, and environments that let people act under real constraints.
 
 ## Cross-source Findings
 
@@ -62,6 +62,18 @@ Hanji 792 adds a source-scoped family and career risk lesson: concentrating ever
 - The OCD paragraph belongs primarily to science and health; it is included here only as a public-education and guidance-boundary case.
 - The episode is not individualized diagnosis, exposure planning, medication selection, supplement advice, or treatment guidance.
 - Exposure-response prevention, prescription changes, SSRIs, cannabis/CBD, TMS, mindfulness, and myo-inositol remain clinically bounded and source-scoped.
+
+### Exercise Literacy Bounds Self Improvement Routines
+
+[[vol-211-yue-yundong-yue-kualian-zhengxing-yisheng-yu-xinxueguan-yisheng-de-jianshen-qumei-zhinan-lsp1xlzq1iapc-qale-mzutigv0u|VOL.211]] adds a public exercise-literacy case: [[Atang]], [[AnderMedicalAesthetics]], and [[DengProfessorCardiology]] turn exercise-as-appearance and after-work training into bounded [[ExerciseLoadManagement]], [[CardiovascularExerciseRiskBoundary]], [[ExerciseMedicalAestheticBoundary]], [[SleepAsDailyHealthAccount]], [[PublicExerciseEmergencyPreparedness]], and [[MedicalRiskManagement]] rather than willpower-only self-improvement.
+
+**Evidence:** [[vol-211-yue-yundong-yue-kualian-zhengxing-yisheng-yu-xinxueguan-yisheng-de-jianshen-qumei-zhinan-lsp1xlzq1iapc-qale-mzutigv0u]], [[Atang]], [[AnderMedicalAesthetics]], [[DengProfessorCardiology]], [[ExerciseLoadManagement]], [[CardiovascularExerciseRiskBoundary]], [[ExerciseMedicalAestheticBoundary]], [[SleepAsDailyHealthAccount]], [[PublicExerciseEmergencyPreparedness]], [[MedicalRiskManagement]], [[ZheBingShuoLaiHuaChang]]
+
+**Qualifications:**
+
+- VOL.211 belongs primarily to science and health; it is included here only as a work-life pacing and public-education case.
+- The episode is not individualized medical, cardiology, dermatology, supplement, rehabilitation, emergency-care, or training advice.
+- The 120, CPR, and AED material is source-scoped emergency-preparedness literacy and should not be generalized outside local protocol context.
 
 ### Active Learning Requires Effort Feedback And Selection
 

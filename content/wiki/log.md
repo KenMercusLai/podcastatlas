@@ -13580,3 +13580,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-30] ingest | VOL.211 越运动越“垮脸”？整形医生与心血管医生的「健身祛魅」指南
+
+Ingested the 2026-07-07 这病说来话长 episode with 阿汤, Ander, and 邓教授 on exercise as medical aesthetics, cardiovascular exercise risk, overtraining, sleep and caffeine recovery debt, supplement caution, sport injuries, equipment safety, and BLS/AED preparedness. Created the source note plus `AnderMedicalAesthetics`, `DengProfessorCardiology`, `ExerciseMedicalAestheticBoundary`, `CardiovascularExerciseRiskBoundary`, and `PublicExerciseEmergencyPreparedness`; updated `ExerciseLoadManagement`, `ZheBingShuoLaiHuaChang`, `Atang`, `index`, and `overview`. No settled contradiction found; sport-specific training plans, aesthetic procedures, heart-rate thresholds, supplement use, CPR/AED implementation, and injury treatment remain source-scoped public education rather than individualized medical, emergency, cardiology, dermatology, rehabilitation, or training advice.
+
+## [2026-08-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

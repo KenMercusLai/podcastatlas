@@ -55,6 +55,32 @@
     },
     {
       "global_candidate": true,
+      "id": "exercise-benefits-need-load-recovery-and-risk-boundaries",
+      "qualifications": [
+        "The episode is public medical, cardiology, dermatology, emergency-care, rehabilitation, and training education rather than individualized exercise prescription.",
+        "Aesthetic, heart-rate, supplement, and injury claims remain source-scoped because safe thresholds depend on skin exposure, facial-fat change, baseline blood pressure, cardiovascular history, recovery state, product uncertainty, equipment skill, and symptoms.",
+        "BLS, AED, and emergency-call guidance should be read as preparedness literacy, not a substitute for local emergency protocols or professional care."
+      ],
+      "statement": "[[ExerciseLoadManagement]] now bridges sports medicine, medical aesthetics, and cardiovascular safety: [[ExerciseMedicalAestheticBoundary]], [[CardiovascularExerciseRiskBoundary]], and [[PublicExerciseEmergencyPreparedness]] show that exercise can support appearance and health only when load, recovery, sun exposure, heart-rate and blood-pressure context, supplement uncertainty, injury care, and emergency response are bounded.",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "vol-211-yue-yundong-yue-kualian-zhengxing-yisheng-yu-xinxueguan-yisheng-de-jianshen-qumei-zhinan-lsp1xlzq1iapc-qale-mzutigv0u",
+        "ExerciseLoadManagement",
+        "ExerciseMedicalAestheticBoundary",
+        "CardiovascularExerciseRiskBoundary",
+        "PublicExerciseEmergencyPreparedness",
+        "MedicalRiskManagement",
+        "SleepAsDailyHealthAccount",
+        "SupplementLabelAccuracy",
+        "DietarySupplementRegulation",
+        "AnderMedicalAesthetics",
+        "DengProfessorCardiology",
+        "Atang",
+        "ZheBingShuoLaiHuaChang"
+      ]
+    },
+    {
+      "global_candidate": true,
       "id": "metabolic-psychiatry-needs-evidence-and-supervision",
       "qualifications": [
         "The source reports clinical cases, personal experience, epilepsy precedent, and mitochondrial mechanism rather than completed large randomized psychiatric trials.",
@@ -414,6 +440,6 @@
       ]
     }
   ],
-  "summary": "The OCD episode adds a serious psychiatric-care branch: obsessions and compulsions are framed as anxiety-relief reinforcement, while Y-BOCS assessment, corticostriatal-thalamic circuitry, and exposure-response prevention keep diagnosis and treatment inside clinical boundaries. VOL.215 adds a sugar-control literacy branch, and VOL.213 adds an insect-bite literacy branch. The topic also includes first-visit diagnostic safety netting, female hormone health across menstruation, PCOS, menopause, pregnancy, and transgender care, metabolic psychiatry, bipolar care, and individualized cancer vaccines. Across these strands, recurring claims emphasize mechanism, measurement, escalation thresholds, supervision boundaries, and longitudinal adherence over headline labels alone.",
+  "summary": "VOL.211 adds an exercise-risk branch: exercise can support health and appearance only when load, recovery, skin exposure, blood-pressure and cardiovascular context, supplement uncertainty, injury care, and emergency readiness are bounded. The OCD episode adds a serious psychiatric-care branch; VOL.215 adds sugar-control literacy; and VOL.213 adds insect-bite literacy. The topic also includes diagnostic safety netting, female hormone health across life stages, metabolic psychiatry, bipolar care, individualized cancer vaccines, space infrastructure, and climate implementation. Across these strands, recurring claims emphasize mechanism, measurement, escalation thresholds, supervision boundaries, and longitudinal adherence over headline labels alone.",
   "topic_id": "science-health-and-climate"
 }

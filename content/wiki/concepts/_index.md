@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 5945
+wiki_total_pages: 5948
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
