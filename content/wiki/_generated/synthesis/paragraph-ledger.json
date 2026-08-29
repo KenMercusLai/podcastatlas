@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "606822fad7e328a7e3aed82c62e9551eeec0b3dfcc67709dac3dcec510d9a9e4",
       "728ef5af93b8df7401c14f16865c994ef3fbf66483141cdcee877b43d30242b6",
       "caf5d74d2b71e37f734143a4139705b2532c3784434b5be1383381a6e120044a",
       "32b92b1f52aa3614f04ab3f605e40705e80f0665568d25d9ffd3768d5991e64f",
@@ -375,11 +376,36 @@
       "c94dbb4bb11fbc67a68689063a003f4343a0087a9f4a369adf5930530cf3dce6",
       "42b428cd16585fd09c60d93170bb1c95fd3df1b9a2ff7182eb0ec9f1136bfe3d"
     ],
-    "paragraph_count": 373
+    "paragraph_count": 374
   },
-  "overview_commit": "e8c27f98f9f69789115b351884dde47e6b4641f5",
-  "overview_digest": "658268a6ab11028a227d7bd4d5c829aeb889d86890c63fcbe46799a4eb4a4d8f",
+  "overview_commit": "f074e8f8f15a7cf8c0ba978560f18777628e87fc",
+  "overview_digest": "e82980c4d4736543e9d068f1c0881e36addc1a605913c5bd4b8ad72379c69237",
   "paragraphs": [
+    {
+      "id": "606822fad7e328a7e3aed82c62e9551eeec0b3dfcc67709dac3dcec510d9a9e4",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-793-lishi-zhuming-nvhuang-dengsui-zenme-si-de-lszfgj7waiuusrddzjmv5mbrp1i|《资治通鉴·汉纪》793丨历史著名女皇邓绥怎么死的？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 121 CE death of [[EmpressDowagerDengLateHan|和熹邓皇后]] immediately before [[zizhi-tongjian-hanji-794-yidai-nvjun-dengsui-qushi-hou-jing-quanjia-zaoyang-llmlhabdd09opca6-pr80q4mfoxi|Hanji 794]]. It adds [[ChengYishiLateHan|成翊世]] and [[RegencyUnderCompoundCrisis|复合危机下的摄政]], while extending [[EmperorAnOfHan|汉安帝]], [[DuGenLateHan|杜根]], [[ChenZhongLateHan|陈忠]], [[MaXianLateHan|马贤]], [[CrisisWithdrawalSelfProtection|危局抽身自保]], and the Deng-regency frontier and transfer-risk field. Its core synthesis is that Deng's death is dated but not medically explained: the episode says she falls ill and dies in 121 CE, then evaluates her regency as crisis governance marked by austerity, relief, and institutional repair, while still qualifying the record through Western Regions and Qiang failures. No settled contradiction is recorded; Liu Qing, Zuo Shi, Song Guiren, Lu Cong, Du Chong, Ren Liang, Yin Yi, and the exact death cause remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "ChenZhongLateHan",
+        "ChengYishiLateHan",
+        "CrisisWithdrawalSelfProtection",
+        "DuGenLateHan",
+        "EmperorAnOfHan",
+        "EmpressDowagerDengLateHan",
+        "MaXianLateHan",
+        "RegencyUnderCompoundCrisis",
+        "RuiqiJiangtouZizhiTongjian",
+        "zizhi-tongjian-hanji-793-lishi-zhuming-nvhuang-dengsui-zenme-si-de-lszfgj7waiuusrddzjmv5mbrp1i",
+        "zizhi-tongjian-hanji-794-yidai-nvjun-dengsui-qushi-hou-jing-quanjia-zaoyang-llmlhabdd09opca6-pr80q4mfoxi"
+      ]
+    },
     {
       "id": "728ef5af93b8df7401c14f16865c994ef3fbf66483141cdcee877b43d30242b6",
       "primary_topic": "history-and-geopolitics",

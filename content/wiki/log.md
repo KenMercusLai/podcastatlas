@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-29] ingest | 《资治通鉴·汉纪》793丨历史著名女皇邓绥怎么死的？
+
+Ingested the 2026-07-07 芮淇讲透资治通鉴 episode on Empress Dowager Deng's 121 CE illness, death, and regency evaluation under disasters, frontier war, fiscal strain, and gendered pressure; Emperor An's personal-rule opening; Chen Zhong's recommendations; Du Gen and Cheng Yishi's restoration; Ma Xian's earlier Qiang-front action; and the Goguryeo notice. Created the source note plus Cheng Yishi and Regency Under Compound Crisis pages; updated Empress Dowager Deng, Emperor An, Du Gen, Chen Zhong, Ma Xian, Crisis Withdrawal Self-Protection, index, overview, and downstream synthesis artifacts. No settled contradiction found; the episode gives illness and death dates but no specific medical cause, and Liu Qing, Zuo Shi, Song Guiren, Lu Cong, Du Chong, Ren Liang, and Yin Yi remain source-scoped.
+
 ## [2026-08-29] ingest | 《资治通鉴·汉纪》796丨东汉名臣VS帝王身边人，谁能赢？
 
 Ingested the 2026-07-07 芮淇讲透资治通鉴 episode on 120-121 CE Emperor An, Yang Zhen's remonstrance against Wang Sheng, Bo Rong, and Liu Gui's title succession, Zhai Gui's anti-favorite warning, Ma Xian's unstable Qiang-front handling, Liu Kai's accepted objection to descendant punishment for corrupt officials, Xianbei raids, and Feng Shi's favored household. Created the source note plus Liu Gui, Zhai Gui, Liu Kai (Eastern Han), Feng Shi (Emperor An favorite), and Punishment Personal Responsibility Limit pages; updated Emperor An, Yang Zhen, Wang Sheng, Bo Rong, Ma Xian, Private-Favor Appointment Erosion, index, and overview. No settled contradiction found; source transcript forms 薄荣, 刘归, 刘沪, 翟规, and 刘凯 are normalized to 伯荣, 刘瑰, 刘护, 翟瑰, and 刘恺, with 冯石 kept distinct from 冯师 and the modern Liu Kai kept distinct from the Eastern Han official.
@@ -13560,6 +13564,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-29] ingest | 《资治通鉴·汉纪》794丨一代女君邓绥，去世后竟全家遭殃？
 
 Ingested the 2026-07-07 芮淇讲透资治通鉴 episode on 121 CE Emperor An's court, Chen Zhong's open-remonstrance warning, Shi Yan's shizhong appointment, Wang Sheng/Li Run/Jiang Jing's anti-Deng slander, Pingyuan Wang Liu Yi's replacement-risk role, and the first Deng-family purge wave after Empress Dowager Deng's death. Created the source note plus `LiuYiPingyuanWangLateHan`; updated `EmpressDowagerDengLateHan`, `DengFamilyAnEraLateHan`, `EmperorAnOfHan`, `WangShengPalaceActorLateHan`, `LiRunLateHan`, `JiangJingLateHan`, `ChenZhongLateHan`, `ShiYanLateHan`, `ProcedurelessPoliticalPurge`, `HeirSupportThreatPerception`, `index`, and `overview`. No settled contradiction found; Pingyuan Wang Liu Yi is kept distinct from `LiuYiBeixiangHouLateHan`, and Cai Lun, Xue Bao, Cai Feng, Deng Kui, Deng Hong, Deng Fang, Deng Zhi, Deng Feng, Deng Zun, Deng Chang, and Deng Kang remain source-scoped.
+
+## [2026-08-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-29] lint | Wiki health check
 

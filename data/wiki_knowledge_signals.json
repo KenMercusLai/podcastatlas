@@ -5018,9 +5018,9 @@
       "url": "/wiki/entities/chenyuanlatehan/"
     },
     "ChenZhongLateHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》799丨东汉名臣杨震，如何拒绝走后门？ [lmUFb7Lvb_KZsvjtn6Iu-ZrpIpTf].md",
@@ -5056,6 +5056,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》794丨一代女君邓绥，去世后竟全家遭殃？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-794-yidai-nvjun-dengsui-qushi-hou-jing-quanjia-zaoyang-llmlhabdd09opca6-pr80q4mfoxi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》793丨历史著名女皇邓绥怎么死的？ [lsZFgj7waiUUsrD_DZjmV5mBRP1I].md",
+          "key": "zizhi-tongjian-hanji-793-lishi-zhuming-nvhuang-dengsui-zenme-si-de-lszfgj7waiuusrddzjmv5mbrp1i",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》793丨历史著名女皇邓绥怎么死的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-793-lishi-zhuming-nvhuang-dengsui-zenme-si-de-lszfgj7waiuusrddzjmv5mbrp1i/"
         }
       ],
       "updated": "2026-08-29",
@@ -5106,6 +5113,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/chengjinlatehan/"
+    },
+    "ChengYishiLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》793丨历史著名女皇邓绥怎么死的？ [lsZFgj7waiUUsrD_DZjmV5mBRP1I].md",
+          "key": "zizhi-tongjian-hanji-793-lishi-zhuming-nvhuang-dengsui-zenme-si-de-lszfgj7waiuusrddzjmv5mbrp1i",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》793丨历史著名女皇邓绥怎么死的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-793-lishi-zhuming-nvhuang-dengsui-zenme-si-de-lszfgj7waiuusrddzjmv5mbrp1i/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/chengyishilatehan/"
     },
     "ChengYu": {
       "episode_count": 7,
@@ -6316,9 +6339,9 @@
       "url": "/wiki/concepts/crisispersistencecounsel/"
     },
     "CrisisWithdrawalSelfProtection": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》896丨假如乱世降临，你该如何自保？ [lsUvt_KSP_gfGGC9RIqQOVJSWkG_].md",
@@ -6340,9 +6363,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》894丨一场逃亡引发的大屠杀",
           "url": "/wiki/sources/zizhi-tongjian-hanji-894-yi-chang-taowang-yinfa-de-da-tusha-lhulp9hqu07uayyfl3eg-xwrtkeu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》793丨历史著名女皇邓绥怎么死的？ [lsZFgj7waiUUsrD_DZjmV5mBRP1I].md",
+          "key": "zizhi-tongjian-hanji-793-lishi-zhuming-nvhuang-dengsui-zenme-si-de-lszfgj7waiuusrddzjmv5mbrp1i",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》793丨历史著名女皇邓绥怎么死的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-793-lishi-zhuming-nvhuang-dengsui-zenme-si-de-lszfgj7waiuusrddzjmv5mbrp1i/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-29",
       "url": "/wiki/concepts/crisiswithdrawalselfprotection/"
     },
     "CrossCoalitionCulturalIcon": {
@@ -7795,9 +7825,9 @@
       "url": "/wiki/entities/dufamilygirls/"
     },
     "DuGenLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》895丨血腥屠刀下的骨肉情深 [llsPLYYRjXhqkPi2AiuQZUlgm6w3].md",
@@ -7805,9 +7835,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》895丨血腥屠刀下的骨肉情深",
           "url": "/wiki/sources/zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》793丨历史著名女皇邓绥怎么死的？ [lsZFgj7waiUUsrD_DZjmV5mBRP1I].md",
+          "key": "zizhi-tongjian-hanji-793-lishi-zhuming-nvhuang-dengsui-zenme-si-de-lszfgj7waiuusrddzjmv5mbrp1i",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》793丨历史著名女皇邓绥怎么死的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-793-lishi-zhuming-nvhuang-dengsui-zenme-si-de-lszfgj7waiuusrddzjmv5mbrp1i/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-08-29",
       "url": "/wiki/entities/dugenlatehan/"
     },
     "DuMiLateHan": {
@@ -8567,9 +8604,9 @@
       "url": "/wiki/concepts/emotionsasfunctionalcontrolstates/"
     },
     "EmperorAnOfHan": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》802丨安帝之死！东汉王朝权力大洗牌！ [lgvNE92e0jJzJNzNZfkZ7nvZTNbj].md",
@@ -8633,6 +8670,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》794丨一代女君邓绥，去世后竟全家遭殃？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-794-yidai-nvjun-dengsui-qushi-hou-jing-quanjia-zaoyang-llmlhabdd09opca6-pr80q4mfoxi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》793丨历史著名女皇邓绥怎么死的？ [lsZFgj7waiUUsrD_DZjmV5mBRP1I].md",
+          "key": "zizhi-tongjian-hanji-793-lishi-zhuming-nvhuang-dengsui-zenme-si-de-lszfgj7waiuusrddzjmv5mbrp1i",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》793丨历史著名女皇邓绥怎么死的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-793-lishi-zhuming-nvhuang-dengsui-zenme-si-de-lszfgj7waiuusrddzjmv5mbrp1i/"
         }
       ],
       "updated": "2026-08-29",
@@ -9104,9 +9148,9 @@
       "url": "/wiki/entities/empressdenghuanlatehan/"
     },
     "EmpressDowagerDengLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》795丨邓家灭亡后，为何举朝为他们鸣冤？ [lqVmBQrrOOKphB4beCaQbP7h_Wi1].md",
@@ -9121,6 +9165,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》794丨一代女君邓绥，去世后竟全家遭殃？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-794-yidai-nvjun-dengsui-qushi-hou-jing-quanjia-zaoyang-llmlhabdd09opca6-pr80q4mfoxi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》793丨历史著名女皇邓绥怎么死的？ [lsZFgj7waiUUsrD_DZjmV5mBRP1I].md",
+          "key": "zizhi-tongjian-hanji-793-lishi-zhuming-nvhuang-dengsui-zenme-si-de-lszfgj7waiuusrddzjmv5mbrp1i",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》793丨历史著名女皇邓绥怎么死的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-793-lishi-zhuming-nvhuang-dengsui-zenme-si-de-lszfgj7waiuusrddzjmv5mbrp1i/"
         }
       ],
       "updated": "2026-08-29",
@@ -19340,9 +19391,9 @@
       "url": "/wiki/entities/maronglatehan/"
     },
     "MaXianLateHan": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》821丨不懂老板心思还想晋升？没门！ [lmJXR8fDXGW-ColRLinmuJba74fh].md",
@@ -19392,6 +19443,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》796丨东汉名臣VS帝王身边人，谁能赢？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-796-donghan-mingchen-vs-diwang-shenbianren-shui-neng-ying-lkyzp2v-cjysd65syoyuldlbdb5p/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》793丨历史著名女皇邓绥怎么死的？ [lsZFgj7waiUUsrD_DZjmV5mBRP1I].md",
+          "key": "zizhi-tongjian-hanji-793-lishi-zhuming-nvhuang-dengsui-zenme-si-de-lszfgj7waiuusrddzjmv5mbrp1i",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》793丨历史著名女皇邓绥怎么死的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-793-lishi-zhuming-nvhuang-dengsui-zenme-si-de-lszfgj7waiuusrddzjmv5mbrp1i/"
         }
       ],
       "updated": "2026-08-29",
@@ -24416,6 +24474,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/recurrencefreesurvivalendpoint/"
+    },
+    "RegencyUnderCompoundCrisis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》793丨历史著名女皇邓绥怎么死的？ [lsZFgj7waiUUsrD_DZjmV5mBRP1I].md",
+          "key": "zizhi-tongjian-hanji-793-lishi-zhuming-nvhuang-dengsui-zenme-si-de-lszfgj7waiuusrddzjmv5mbrp1i",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》793丨历史著名女皇邓绥怎么死的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-793-lishi-zhuming-nvhuang-dengsui-zenme-si-de-lszfgj7waiuusrddzjmv5mbrp1i/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/regencyundercompoundcrisis/"
     },
     "RegistryBasedPoliticalExclusion": {
       "episode_count": 1,
