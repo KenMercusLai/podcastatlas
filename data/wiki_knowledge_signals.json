@@ -4775,6 +4775,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/chenyuanlatehan/"
     },
+    "ChengJiLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1055丨他为表忠心，愿喝用自己儿子熬的肉汤？ [lmR6oWLwlJlFibuKTSyQuQtfi7-O].md",
+          "key": "zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1055丨他为表忠心，愿喝用自己儿子熬的肉汤？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/chengjilatehan/"
+    },
     "ChengJinLateHan": {
       "episode_count": 3,
       "show_count": 1,
@@ -12980,6 +12996,36 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/institutionalpolicypluralism/"
     },
+    "InstrumentalizedReligiousPower": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》923丨成年人的顶级狠劲：骨子里的决绝 [liFZh-GohPqNmdzNnfV72tNDQf8H].md",
+          "key": "zizhi-tongjian-hanji-923-chengnianrende-dingji-henjin-guzi-lide-juejue-lifzh-gohpqnmdznnfv72tndqf8h",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》923丨成年人的顶级狠劲：骨子里的决绝",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-923-chengnianrende-dingji-henjin-guzi-lide-juejue-lifzh-gohpqnmdznnfv72tndqf8h/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》995丨他嘴上慈悲，为何多次残杀恩人？ [llicuKOezcCD5IYCIn4UQ7qUn51K].md",
+          "key": "zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》995丨他嘴上慈悲，为何多次残杀恩人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1055丨他为表忠心，愿喝用自己儿子熬的肉汤？ [lmR6oWLwlJlFibuKTSyQuQtfi7-O].md",
+          "key": "zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1055丨他为表忠心，愿喝用自己儿子熬的肉汤？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/instrumentalizedreligiouspower/"
+    },
     "IntegratedBipolarCare": {
       "episode_count": 1,
       "show_count": 1,
@@ -16318,6 +16364,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/liuxunlatehan/"
     },
+    "LiuXunYizhouHeirLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1055丨他为表忠心，愿喝用自己儿子熬的肉汤？ [lmR6oWLwlJlFibuKTSyQuQtfi7-O].md",
+          "key": "zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1055丨他为表忠心，愿喝用自己儿子熬的肉汤？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/liuxunyizhouheirlatehan/"
+    },
     "LiuYanDongCommandery": {
       "episode_count": 1,
       "show_count": 1,
@@ -16409,6 +16471,36 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/liuyuastrologerlatehan/"
+    },
+    "LiuZhang": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》959丨如果你穿越到三国，该如何存活？ [lroaiHMPNRElmFcUGym9zx2H2dHQ].md",
+          "key": "zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》959丨如果你穿越到三国，该如何存活？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》981丨三国最刚谋士程昱：一句话让曹操叹服 [lhLHlRMf2GVSPwyvjkxG6Kz44FTH].md",
+          "key": "zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》981丨三国最刚谋士程昱：一句话让曹操叹服",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1055丨他为表忠心，愿喝用自己儿子熬的肉汤？ [lmR6oWLwlJlFibuKTSyQuQtfi7-O].md",
+          "key": "zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1055丨他为表忠心，愿喝用自己儿子熬的肉汤？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/liuzhang/"
     },
     "LiuZhiTaiyuanLateHan": {
       "episode_count": 3,
@@ -19415,6 +19507,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/officeofscienceandtechnologypolicy/"
     },
+    "OfficialDutyOverPatronCommand": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1055丨他为表忠心，愿喝用自己儿子熬的肉汤？ [lmR6oWLwlJlFibuKTSyQuQtfi7-O].md",
+          "key": "zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1055丨他为表忠心，愿喝用自己儿子熬的肉汤？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/officialdutyoverpatroncommand/"
+    },
     "OilRevenueSanctionsLeverage": {
       "episode_count": 2,
       "show_count": 1,
@@ -19941,6 +20049,29 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/panhonglatehan/"
+    },
+    "PangXiLateHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》981丨三国最刚谋士程昱：一句话让曹操叹服 [lhLHlRMf2GVSPwyvjkxG6Kz44FTH].md",
+          "key": "zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》981丨三国最刚谋士程昱：一句话让曹操叹服",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1055丨他为表忠心，愿喝用自己儿子熬的肉汤？ [lmR6oWLwlJlFibuKTSyQuQtfi7-O].md",
+          "key": "zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1055丨他为表忠心，愿喝用自己儿子熬的肉汤？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/pangxilatehan/"
     },
     "ParadoxMachines": {
       "episode_count": 1,
@@ -21313,6 +21444,50 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/qixiangdong/"
+    },
+    "QiaoXuanLateHan": {
+      "episode_count": 5,
+      "show_count": 1,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》897丨职场必读！什么才叫领导力？ [lvRRMkSykaZLSb7W8aBbdmNqfzQQ].md",
+          "key": "zizhi-tongjian-hanji-897-zhichang-bidu-shenme-cai-jiao-lingdaoli-lvrrmksykazlsb7w8abbdmnqfzqq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》897丨职场必读！什么才叫领导力？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-897-zhichang-bidu-shenme-cai-jiao-lingdaoli-lvrrmksykazlsb7w8abbdmnqfzqq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》904丨觉照内观：获得心灵大自由的秘诀 [lopN_oKbzr4LJvqmgzCsb7qAv0n2].md",
+          "key": "zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》904丨觉照内观：获得心灵大自由的秘诀",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》915丨世上没有真正的口误，这话对吗？ [lgXCODJxnAOZvYEgxQUrgZjI5gUs].md",
+          "key": "zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》915丨世上没有真正的口误，这话对吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》926丨真正的强者，都懂得“造势” [lssMABZoKU4uE28irdmfn0-d_0DC].md",
+          "key": "zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》926丨真正的强者，都懂得“造势”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1055丨他为表忠心，愿喝用自己儿子熬的肉汤？ [lmR6oWLwlJlFibuKTSyQuQtfi7-O].md",
+          "key": "zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1055丨他为表忠心，愿喝用自己儿子熬的肉汤？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/qiaoxuanlatehan/"
     },
     "Qihoo360": {
       "episode_count": 1,
@@ -25924,6 +26099,43 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/tiresias/"
     },
+    "TitleRealityRestraint": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1001丨为什么劝你不要犯众怒？ [loLurKCjpIE14NNCZk0Tu7iQerKe].md",
+          "key": "zizhi-tongjian-hanji-1001-weishenme-quan-ni-buyao-fanzhongnu-lolurkcjpie14nnczk0tu7iqerke",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1001丨为什么劝你不要犯众怒？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1001-weishenme-quan-ni-buyao-fanzhongnu-lolurkcjpie14nnczk0tu7iqerke/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1015丨三国乱世，为什么袁术敢称帝？ [liM0JEMKWYjCESJ2nvSr3jNdhxFK].md",
+          "key": "zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1015丨三国乱世，为什么袁术敢称帝？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》37丨苏秦：六国集团CEO的不堪情史 [Fj2kDqlaxzyY2nqTcutKTuwRq5Fo].md",
+          "key": "zizhi-tongjian-zhouji-37-suqin-liuguo-jituan-ceo-de-bukan-qingshi-fj2kdqlaxzyy2nqtcutktuwrq5fo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》37丨苏秦：六国集团CEO的不堪情史",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-37-suqin-liuguo-jituan-ceo-de-bukan-qingshi-fj2kdqlaxzyy2nqtcutktuwrq5fo/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1055丨他为表忠心，愿喝用自己儿子熬的肉汤？ [lmR6oWLwlJlFibuKTSyQuQtfi7-O].md",
+          "key": "zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1055丨他为表忠心，愿喝用自己儿子熬的肉汤？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/titlerealityrestraint/"
+    },
     "TokenTaxOnAI": {
       "episode_count": 1,
       "show_count": 1,
@@ -27983,6 +28195,43 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/wuchaoraidlatehan/"
     },
+    "WudoumiDao": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》929丨对事不对人，你信了吗？ [lgaXJ0jzoPddmt3C5hiBNExqLhB3].md",
+          "key": "zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》929丨对事不对人，你信了吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》959丨如果你穿越到三国，该如何存活？ [lroaiHMPNRElmFcUGym9zx2H2dHQ].md",
+          "key": "zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》959丨如果你穿越到三国，该如何存活？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》995丨他嘴上慈悲，为何多次残杀恩人？ [llicuKOezcCD5IYCIn4UQ7qUn51K].md",
+          "key": "zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》995丨他嘴上慈悲，为何多次残杀恩人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1055丨他为表忠心，愿喝用自己儿子熬的肉汤？ [lmR6oWLwlJlFibuKTSyQuQtfi7-O].md",
+          "key": "zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1055丨他为表忠心，愿喝用自己儿子熬的肉汤？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/wudoumidao/"
+    },
     "Wuhuan": {
       "episode_count": 5,
       "show_count": 1,
@@ -29057,6 +29306,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/yanlianglatehan/"
+    },
+    "YanPuLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1055丨他为表忠心，愿喝用自己儿子熬的肉汤？ [lmR6oWLwlJlFibuKTSyQuQtfi7-O].md",
+          "key": "zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1055丨他为表忠心，愿喝用自己儿子熬的肉汤？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/yanpulatehan/"
     },
     "YanRou": {
       "episode_count": 3,
@@ -30366,6 +30631,36 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/zhanglinglatehan/"
+    },
+    "ZhangLuFivePecks": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》959丨如果你穿越到三国，该如何存活？ [lroaiHMPNRElmFcUGym9zx2H2dHQ].md",
+          "key": "zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》959丨如果你穿越到三国，该如何存活？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》995丨他嘴上慈悲，为何多次残杀恩人？ [llicuKOezcCD5IYCIn4UQ7qUn51K].md",
+          "key": "zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》995丨他嘴上慈悲，为何多次残杀恩人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1055丨他为表忠心，愿喝用自己儿子熬的肉汤？ [lmR6oWLwlJlFibuKTSyQuQtfi7-O].md",
+          "key": "zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1055丨他为表忠心，愿喝用自己儿子熬的肉汤？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/zhanglufivepecks/"
     },
     "ZhangMuLateHan": {
       "episode_count": 2,

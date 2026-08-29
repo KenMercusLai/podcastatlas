@@ -2,30 +2,49 @@
 title: "桥玄 / Qiao Xuan (late Han)"
 type: entity
 tags: [person, late-han, official, reputation, talent, law, hostage]
-sources: [zizhi-tongjian-hanji-897-zhichang-bidu-shenme-cai-jiao-lingdaoli-lvrrmksykazlsb7w8abbdmnqfzqq, zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2, zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus, zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc]
-last_updated: 2026-08-26
+sources:
+  - zizhi-tongjian-hanji-897-zhichang-bidu-shenme-cai-jiao-lingdaoli-lvrrmksykazlsb7w8abbdmnqfzqq
+  - zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2
+  - zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus
+  - zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc
+  - zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o
+knowledge_schema: synthesis-v1
+last_updated: 2026-08-29
 ---
 
 # 桥玄 / Qiao Xuan (late Han)
 
-[[zizhi-tongjian-hanji-897-zhichang-bidu-shenme-cai-jiao-lingdaoli-lvrrmksykazlsb7w8abbdmnqfzqq|Hanji 897]] adds an earlier high-office marker before Qiao Xuan's hostage-ransom and [[CaoCao|曹操]] endorsement branches. The episode places his appointment as sikong inside the 170 CE Three Excellencies churn, making his later reputation work sit on top of a prior senior-office record.
+## Overview
+桥玄 / Qiao Xuan is a late-Han senior official whose wiki profile connects high office, severe public-order principle, elite endorsement, and remembered recognition. The current synthesis treats him as an elder whose choices convert personal authority into institutional signals: no-ransom deterrence in a hostage case, public reputation-making for [[CaoCao|曹操]], and later memorial gratitude from Cao Cao.
 
-[[zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2|Hanji 904]] gives a compressed early Cao Cao reputation route before Hanji 926 develops it. The episode has Qiao Xuan, as an older recognized figure, send nineteen-year-old [[CaoCao|曹操]] toward [[XuShao|许劭]]'s public evaluation, making Qiao's endorsement part of Cao Cao's first office path rather than only a later reputation anecdote.
+## Current Profile
+Hanji 897 places Qiao Xuan in the Three Excellencies churn as a sikong-level figure, giving his later reputation work a high-office background. Hanji 915 gives the most ethically severe branch: after his youngest son is abducted, Qiao refuses ransom and then memorializes a private-ransom ban, making family loss into a public deterrence claim.
 
-[[zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus|Hanji 915]] backfills Qiao Xuan before the [[CaoCao|曹操]] endorsement branch. The episode says his youngest son is abducted at his gate, and Qiao refuses to buy the child back even when officials hesitate to attack while the hostage is still at risk.
+Hanji 904 and Hanji 926 show Qiao Xuan as an early recognizer of Cao Cao. He sees that the realm is moving toward disorder, praises Cao Cao as an unusual talent for that age, and directs him toward [[XuShao|许劭]]'s appraisal route. Hanji 1055 closes the loop from the younger man's side: Cao Cao later sacrifices to Qiao Xuan at Qiao county, remembering the elder who had recognized him before he was broadly validated.
 
-Qiao then memorializes a ban on private ransom payments, making his own household loss a public-order signal. This creates [[HostageRansomDeterrence|劫质禁赎威慑]] in the wiki: the rule is meant to stop hostage-takers from learning that elite affection reliably produces money, but it is ethically severe because the immediate hostage can die.
+## Key Characteristics
+- Holds enough senior-office standing for later endorsement and law arguments to carry weight.
+- Uses personal loss to support a harsh anti-ransom public-order rule.
+- Converts private judgment of Cao Cao into a pathway toward public reputation.
+- Becomes an object of Cao Cao's later ritual gratitude and memory.
+- Shows how elite recognition can persist as political debt after the recognizer's death.
 
-桥玄 / Qiao Xuan (late Han) enters the wiki through [[zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc|Hanji 926]] as the senior official whose recognition helps [[CaoCao|曹操]] turn private capacity into public reputation. The source identifies him as a former taiwei-level elder and uses his praise as more powerful than ordinary youthful recognition.
+## Evidence
+- Senior-office background: [[zizhi-tongjian-hanji-897-zhichang-bidu-shenme-cai-jiao-lingdaoli-lvrrmksykazlsb7w8abbdmnqfzqq|Hanji 897]] places Qiao Xuan's sikong appointment inside 170 CE office churn.
+- Hostage and law branch: [[zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus|Hanji 915]] narrates the abduction of Qiao's youngest son, his refusal to ransom, and the later no-ransom rule.
+- Cao Cao endorsement: [[zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2|Hanji 904]] gives a compressed referral route, and [[zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc|Hanji 926]] develops Qiao Xuan's age-of-disorder recognition of Cao Cao.
+- Memorial gratitude: [[zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o|Hanji 1055]] reports Cao Cao's later tailao sacrifice to the deceased Qiao Xuan.
 
-In the episode, Qiao Xuan tells Cao Cao that the realm is heading into disorder and that a rare age-shaping talent will be needed to settle it. He then directs Cao Cao to seek [[XuShao|许劭]]'s judgment, turning his own endorsement into an access path toward the more public monthly-appraisal reputation system.
+## Qualifications
+Qiao Xuan's no-ransom branch is normatively severe and remains ethically qualified by the immediate hostage cost. The transcript form 乔玄 in Hanji 1055 is treated as a source spelling variant; the canonical wiki page remains 桥玄. The memorial sacrifice shows remembered recognition, not proof that Qiao Xuan alone created Cao Cao's reputation.
 
-## Connections
+## What Changed
+- Migrated the page to synthesis-v1 and integrated the existing office, hostage, and Cao Cao endorsement layers.
+- Added Hanji 1055's Cao Cao memorial sacrifice and explicit name-normalization caution.
 
-- [[zizhi-tongjian-hanji-897-zhichang-bidu-shenme-cai-jiao-lingdaoli-lvrrmksykazlsb7w8abbdmnqfzqq|Hanji 897]] - earlier sikong appointment in the 170 CE office-churn layer.
-- [[zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus|Hanji 915]], [[HostageRansomDeterrence|劫质禁赎威慑]], [[LiuXiu|刘秀]], and [[YinLihua|阴丽华]] - hostage-ransom precedent and late-Han no-ransom rule.
-- [[zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2|Hanji 904]] - earlier compressed Cao Cao referral route.
-- [[zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc|Hanji 926]] - source context.
-- [[CaoCao|曹操]] - younger figure Qiao Xuan recognizes as a potential disorder-era stabilizer.
-- [[XuShao|许劭]] - evaluator whom Qiao Xuan recommends Cao Cao visit.
-- [[EliteEndorsementReputationMaking|名士背书式造势]] and [[MoralReputationPoliticalCapital|道德名望政治资本]] - reputation frames extended by the endorsement.
+## Relationships
+- [[CaoCao|曹操]] - younger figure Qiao Xuan recognizes and who later honors him with sacrifice.
+- [[XuShao|许劭]] - evaluator whom Qiao Xuan directs Cao Cao toward.
+- [[HostageRansomDeterrence|劫质禁赎威慑]] - concept exemplified by Qiao Xuan's no-ransom rule.
+- [[EliteEndorsementReputationMaking|名士背书式造势]] - concept exemplified by Qiao Xuan's early recognition of Cao Cao.
+- [[MoralReputationPoliticalCapital|道德名望政治资本]] - broader frame for why Qiao Xuan's endorsement has political force.

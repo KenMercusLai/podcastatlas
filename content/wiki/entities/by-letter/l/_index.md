@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 8244
+wiki_total_pages: 8247
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -854,6 +854,9 @@ wiki_pages:
   - key: "LiuBinyan"
     title: "刘彬晏 / Liu Binyan"
     url: "/wiki/entities/liubinyan/"
+  - key: "LiuXunYizhouHeirLateHan"
+    title: "刘循 / Liu Xun (Yizhou heir)"
+    url: "/wiki/entities/liuxunyizhouheirlatehan/"
   - key: "LiuHeng"
     title: "刘恒 / Emperor Wen of Han"
     url: "/wiki/entities/liuheng/"

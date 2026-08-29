@@ -9679,6 +9679,10 @@
     "title": "程璜 / Cheng Huang (late Han)",
     "url": "/wiki/entities/chenghuanglatehan/"
   },
+  "ChengJiLateHan": {
+    "title": "程畿 / Cheng Ji (late Han)",
+    "url": "/wiki/entities/chengjilatehan/"
+  },
   "ChengJinLateHan": {
     "title": "成瑨 / Cheng Jin (late Han)",
     "url": "/wiki/entities/chengjinlatehan/"
@@ -29983,6 +29987,10 @@
     "title": "刘勋 / Liu Xun (late Han)",
     "url": "/wiki/entities/liuxunlatehan/"
   },
+  "LiuXunYizhouHeirLateHan": {
+    "title": "刘循 / Liu Xun (Yizhou heir)",
+    "url": "/wiki/entities/liuxunyizhouheirlatehan/"
+  },
   "LiuYanDongCommandery": {
     "title": "刘延 / Liu Yan (Dong Commandery)",
     "url": "/wiki/entities/liuyandongcommandery/"
@@ -35966,6 +35974,10 @@
   "OfficeSurveillancePrivacy": {
     "title": "Office Surveillance And Privacy",
     "url": "/wiki/concepts/officesurveillanceprivacy/"
+  },
+  "OfficialDutyOverPatronCommand": {
+    "title": "守职胜私命 / Official Duty Over Patron Command",
+    "url": "/wiki/concepts/officialdutyoverpatroncommand/"
   },
   "OfficialHistoryLegitimacyRepair": {
     "title": "Official History Legitimacy Repair",
@@ -54867,6 +54879,10 @@
     "title": "燕闵公 / Duke Min of Yan",
     "url": "/wiki/entities/yanmingong/"
   },
+  "YanPuLateHan": {
+    "title": "阎圃 / Yan Pu (late Han)",
+    "url": "/wiki/entities/yanpulatehan/"
+  },
   "YanRou": {
     "title": "阎柔 / Yan Rou",
     "url": "/wiki/entities/yanrou/"
@@ -61246,6 +61262,10 @@
   "zizhi-tongjian-hanji-1054-jingtan-caocao-yuanshao-liubei-de-mingyun-zhuanzhe-lmd2yjre-cwdbxky2ht5o0n4g6fk": {
     "title": "《资治通鉴·汉纪》1054丨惊叹！曹操、袁绍、刘备的命运转折",
     "url": "/wiki/sources/zizhi-tongjian-hanji-1054-jingtan-caocao-yuanshao-liubei-de-mingyun-zhuanzhe-lmd2yjre-cwdbxky2ht5o0n4g6fk/"
+  },
+  "zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o": {
+    "title": "《资治通鉴·汉纪》1055丨他为表忠心，愿喝用自己儿子熬的肉汤？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o/"
   },
   "zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo": {
     "title": "《资治通鉴·汉纪》139｜“他”再次影响“汉朝”",

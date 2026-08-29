@@ -13145,6 +13145,10 @@ Ingested the Marketplace Tech episode on Meta's proposed teen-safety settlement,
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-29] ingest | 《资治通鉴·汉纪》1055丨他为表忠心，愿喝用自己儿子熬的肉汤？
+
+Ingested the 芮淇讲透资治通鉴 episode on Cheng Ji refusing Pang Xi's self-protective mobilization, Zhang Lu's Wudoumi Dao Hanzhong order, Yan Pu's anti-kingship counsel, and Cao Cao's sacrifice to Qiao Xuan. Created the source note plus Cheng Ji, Yan Pu, Liu Xun (Yizhou heir), and Official Duty Over Patron Command pages; updated Liu Zhang, Pang Xi, Zhang Lu, Wudoumi Dao, Qiao Xuan, Title-Reality Restraint, Instrumentalized Religious Power, index, and overview. No settled contradiction found; Liu Zhang's son 刘循 is disambiguated from Lujiang 刘勋, Qiao Xuan's 乔玄 transcript form is normalized to 桥玄, and the opening merit/career frame plus Zhang Lu healing claims remain source-scoped.
+
 ## [2026-08-29] ingest | 《资治通鉴·汉纪》817丨看似软弱的人，实则活得更通透
 
 Ingested the 芮淇讲透资治通鉴 episode on 135-136 CE Emperor Shun, eunuch adopted-son title inheritance, Zhang Gang's ignored protest, Liang Shang's Grand General appointment, Li Gu's unadopted reform counsel, Ma Xian's earlier Qiang-front success, and prudent non-action under court power balance. Created the source note; updated Emperor Shun, Liang Shang, Li Gu, Zhang Gang, Ma Xian, Prudent Ambiguity Self-Protection, index, and overview. No settled contradiction found; Liang Shang's inner motive, Pang Can, Huan Yan, Yang Lun, Geng Ye, Huyan Wang, Yunzhong, Lanchi, the eunuch adopted-son statute, and exact disaster/omen dates remain source-scoped.
@@ -13320,6 +13324,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-29] ingest | 《资治通鉴·汉纪》1051丨他为何被称作是最有能力的扬州刺史？
 
 Ingested the 2026-08-28 芮淇讲透资治通鉴 episode on Liu Fu's weak-base stabilization of western Yangzhou from Hefei. Created the source note plus `LiuFuLateHan`, `HefeiLateHan`, and `WeakPositionPacification`; updated `YangzhouLateHan`, `index`, and `overview`. No settled contradiction found; the transcript's 劉富/刘富 and 李庶 spellings are preserved as source-specific identity notes while the canonical Yangzhou-inspector/Hefei branch is normalized to Liu Fu/刘馥. Synthesis refresh rendered without global compaction; `python3 -m tools.validate_publish` passed.
+
+## [2026-08-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-29] lint | Wiki health check
 

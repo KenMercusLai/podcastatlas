@@ -357,12 +357,13 @@
       "b7fe88c4a3ea92e3484da7ba393768450cea0ebc036e6acdec39ec881741cf34",
       "feea2d50d210e6102662cda44c927b2f7b25d4a9c1910663ab0bf085b4a54550",
       "082a8129ce267d83fa695011e4d1d9ec611a2911fab24932213544b548f520cf",
-      "6dd2244cfd82de8e2076d8e2587203e47d3343702b97f83715d88073f28b3401"
+      "6dd2244cfd82de8e2076d8e2587203e47d3343702b97f83715d88073f28b3401",
+      "aecaaa49da936c98684cec9f1063846b0672b74bc20fcbd62311f6a489f3c810"
     ],
-    "paragraph_count": 357
+    "paragraph_count": 358
   },
-  "overview_commit": "87c483420dbb44258f54465b8e1c47535c48677a",
-  "overview_digest": "c8a3ddf634de65b5b2cb1967aaede39feb9e61c58231e559b2a52a6dbd506b80",
+  "overview_commit": "5166e581123dc4aad1a4bcd81fae295cd7107122",
+  "overview_digest": "5db8bd6e48557876aff40d3579f21afa64eaf9f61046106fe351a2afb5527876",
   "paragraphs": [
     {
       "id": "750236a3432e0c98c4fa9fe78759f73d329b50598c2bfc4d91296222ee930fff",
@@ -11072,6 +11073,36 @@
         "SelfTestingMemoryPractice",
         "SuccessfulAging",
         "how-to-improve-your-memory-cognitive-function-at-any-age-dr-alan-castel-scim5781519002"
+      ]
+    },
+    {
+      "id": "aecaaa49da936c98684cec9f1063846b0672b74bc20fcbd62311f6a489f3c810",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o|《资治通鉴·汉纪》1055丨他为表忠心，愿喝用自己儿子熬的肉汤？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode on the 201-202 CE Yizhou, Hanzhong, and Cao Cao memory branch. It adds [[ChengJiLateHan|程畿]], [[YanPuLateHan|阎圃]], [[LiuXunYizhouHeirLateHan|刘循]], and [[OfficialDutyOverPatronCommand|守职胜私命]], while extending [[LiuZhang|刘璋]], [[PangXiLateHan|庞羲]], [[ZhangLuFivePecks|张鲁]], [[WudoumiDao|五斗米道]], [[QiaoXuanLateHan|桥玄]], [[TitleRealityRestraint|名实相符式名号节制]], and [[InstrumentalizedReligiousPower|工具化宗教权力]]. Its core synthesis is that late-Han autonomy is constrained by trust and title discipline: Pang Xi has enough local force to scare Liu Zhang but not enough legitimacy to overcome Cheng Ji's office-duty refusal, while Zhang Lu has enough Hanzhong substance that Yan Pu can treat kingship as unnecessary exposure rather than added power. No settled contradiction is recorded; Liu Zhang's son 刘循 is disambiguated from Lujiang [[LiuXunLateHan|刘勋]], Qiao Xuan's name is normalized to [[QiaoXuanLateHan|桥玄]], and the opening merit/career frame plus Zhang Lu healing claims remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 2,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "ChengJiLateHan",
+        "InstrumentalizedReligiousPower",
+        "LiuXunLateHan",
+        "LiuXunYizhouHeirLateHan",
+        "LiuZhang",
+        "OfficialDutyOverPatronCommand",
+        "PangXiLateHan",
+        "QiaoXuanLateHan",
+        "RuiqiJiangtouZizhiTongjian",
+        "TitleRealityRestraint",
+        "WudoumiDao",
+        "YanPuLateHan",
+        "ZhangLuFivePecks",
+        "zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o"
       ]
     }
   ],

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 5891
+wiki_total_pages: 5892
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -512,6 +512,9 @@ wiki_pages:
   - key: "OfficialLearningMonopoly"
     title: "学在王官式知识垄断 / Official Learning Monopoly"
     url: "/wiki/concepts/officiallearningmonopoly/"
+  - key: "OfficialDutyOverPatronCommand"
+    title: "守职胜私命 / Official Duty Over Patron Command"
+    url: "/wiki/concepts/officialdutyoverpatroncommand/"
   - key: "OfficeBasedRebelIncorporation"
     title: "授官式招安 / Office-Based Rebel Incorporation"
     url: "/wiki/concepts/officebasedrebelincorporation/"
