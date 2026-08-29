@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 8304
+wiki_total_pages: 8307
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -338,6 +338,9 @@ wiki_pages:
   - key: "ZhouYouwang"
     title: "周幽王 / King You of Zhou"
     url: "/wiki/entities/zhouyouwang/"
+  - key: "ZhouGuangLateHan"
+    title: "周广 / Zhou Guang (late Han favorite)"
+    url: "/wiki/entities/zhouguanglatehan/"
   - key: "ZhouJiangong"
     title: "周建功 / Zhou Jiangong"
     url: "/wiki/entities/zhoujiangong/"
@@ -1157,6 +1160,9 @@ wiki_pages:
   - key: "ZhaoSuhou"
     title: "赵肃侯 / Marquis Su of Zhao"
     url: "/wiki/entities/zhaosuhou/"
+  - key: "ZhaoTengLateHan"
+    title: "赵腾 / Zhao Teng (late Han remonstrant)"
+    url: "/wiki/entities/zhaotenglatehan/"
   - key: "ZhaoLiang"
     title: "赵良 / Zhao Liang"
     url: "/wiki/entities/zhaoliang/"

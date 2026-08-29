@@ -10,16 +10,19 @@ sources:
   - zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p
   - zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv
   - zizhi-tongjian-hanji-812-guren-40-sui-caineng-dangguan-lordzuaqhzghyd93tpm0fql1cigv
+  - zizhi-tongjian-hanji-800-yangzhen-zhisi-yi-chang-jianchen-dui-qingguan-de-jiaosha-lk9qcfs4xl-rjd-zpwdtsblybxa8
 last_updated: 2026-08-29
 ---
 
 ## Definition
 
-Omen-coded remonstrance / 天象灾异包装式进谏 is the practice of using celestial signs, disasters, strange natural events, and sacred doctrine as a protected vocabulary for political criticism. In Hanji 812, [[LangYiLateHan|郎顗]] uses a tomb-building fire and anomaly inquiry to criticize high-office responsibility and propose policy repair; in Hanji 813, he uses drought and unseasonable winds to criticize insincere correction and recommend worthy men. [[LiGuLateHan|李固]] later uses disaster inquiry to criticize wet-nurse title and outer-relative power. Hanji 814, Hanji 816, Hanji 836, and Hanji 873 broaden the same method through ground splits, drought, earthquakes, violent wind, astrology, and religious doctrine.
+Omen-coded remonstrance / 天象灾异包装式进谏 is the practice of using celestial signs, disasters, strange natural events, and sacred doctrine as a protected vocabulary for political criticism. In Hanji 800, [[YangZhenLateHan|杨震]] uses earthquake, absent snow, drought signs, eunuch power, and luxury construction to attack favored insiders under [[EmperorAnOfHan|汉安帝]]. In Hanji 812, [[LangYiLateHan|郎顗]] uses a tomb-building fire and anomaly inquiry to criticize high-office responsibility and propose policy repair; in Hanji 813, he uses drought and unseasonable winds to criticize insincere correction and recommend worthy men. [[LiGuLateHan|李固]] later uses disaster inquiry to criticize wet-nurse title and outer-relative power. Hanji 814, Hanji 816, Hanji 836, and Hanji 873 broaden the same method through ground splits, drought, earthquakes, violent wind, astrology, and religious doctrine.
 
 ## Current Synthesis
 
 The concept sits between omen interpretation and advice under danger. [[CelestialOmenPoliticalResponsibility|天象政治责任]] and [[NaturalDisasterPoliticalOmen|自然灾害政治征兆]] make political failure legible through signs; omen-coded remonstrance turns those signs into a speaking strategy when direct accusation is risky.
+
+[[zizhi-tongjian-hanji-800-yangzhen-zhisi-yi-chang-jianchen-dui-qingguan-de-jiaosha-lk9qcfs4xl-rjd-zpwdtsblybxa8|Hanji 800]] gives the concept an Emperor An-era high-danger case. Yang Zhen accepts responsibility as a Three Excellency for failing to harmonize yin and yang, then links the previous winter's earthquake, lack of snow, lack of spring rain, eunuch power, and nonstop construction to [[FanFengEunuchLateHan|樊丰]], [[ZhouGuangLateHan|周广]], and [[XieYunLateHan|谢恽]] using forged orders for private mansions. The disaster frame gives the memorial conventional legitimacy, but the specificity of the accusation means it does not protect him once Fan Feng's side recodes the warning as resentment.
 
 [[zizhi-tongjian-hanji-812-guren-40-sui-caineng-dangguan-lordzuaqhzghyd93tpm0fql1cigv|Hanji 812]] now gives the concept its earliest Shun-era Lang Yi form. After a fire at Emperor An's Gongling tomb buildings, [[EmperorShunOfHan|汉顺帝]] summons Lang Yi as a Beihai yin-yang specialist to explain anomalies. Lang turns that court-sanctioned omen setting into a criticism of the Three Excellencies' responsibility chain and into concrete advice: reduce labor, practice frugality, prepare frontier defenses, delay lawsuits until the proper season, and simplify accumulated laws.
 
@@ -38,7 +41,7 @@ The method does not make the speaker safe or effective. In Hanji 836, Huan simpl
 ## Key Claims
 
 - Omen language can carry direct political criticism while preserving a formally acceptable cosmic-warning frame.
-- Disaster signs and ruler-initiated inquiries can redirect ritual anxiety toward sincerity, high-office accountability, palace, policy, appointment, and institutional causes.
+- Disaster signs and ruler-initiated inquiries can redirect ritual anxiety toward sincerity, high-office accountability, palace, policy, appointment, corruption, and institutional causes.
 - Strange weather can be tied to a specific ruler action when the speaker translates it into ritual, hierarchy, and security consequences.
 - The method can combine sky signs, terrestrial disasters, hydrological anomalies, succession pressure, and moral doctrine in one argument.
 - Ambiguous signs are rhetorically usable because the speaker can read them against the surrounding political field rather than in isolation.
@@ -47,6 +50,9 @@ The method does not make the speaker safe or effective. In Hanji 836, Huan simpl
 
 ## Evidence
 
+- Earthquake and drought-sign accusation: [[zizhi-tongjian-hanji-800-yangzhen-zhisi-yi-chang-jianchen-dui-qingguan-de-jiaosha-lk9qcfs4xl-rjd-zpwdtsblybxa8|Hanji 800]] says Yang Zhen links the previous winter's earthquake, lack of snow, lack of spring rain, eunuch power, and luxury construction to Heaven's warning.
+- Concrete corruption target: [[zizhi-tongjian-hanji-800-yangzhen-zhisi-yi-chang-jianchen-dui-qingguan-de-jiaosha-lk9qcfs4xl-rjd-zpwdtsblybxa8|Hanji 800]] says Yang Zhen points from cosmic signs to favored insiders who forge orders and requisition public resources for private houses, gardens, pools, towers, and pavilions.
+- Safety limit under Emperor An: [[zizhi-tongjian-hanji-800-yangzhen-zhisi-yi-chang-jianchen-dui-qingguan-de-jiaosha-lk9qcfs4xl-rjd-zpwdtsblybxa8|Hanji 800]] says Fan Feng's side later uses a star report to slander Yang Zhen as resentful, after which he is stripped of office and sent home.
 - Tomb-building fire and summons: [[zizhi-tongjian-hanji-812-guren-40-sui-caineng-dangguan-lordzuaqhzghyd93tpm0fql1cigv|Hanji 812]] says Shun summons Lang Yi after the Gongling fire because Lang is known for yin-yang expertise.
 - High-office accountability: [[zizhi-tongjian-hanji-812-guren-40-sui-caineng-dangguan-lordzuaqhzghyd93tpm0fql1cigv|Hanji 812]] says Lang uses the anomaly inquiry to criticize the Three Excellencies for enjoying rank without bearing enough responsibility for recommendation failures.
 - Policy conversion: [[zizhi-tongjian-hanji-812-guren-40-sui-caineng-dangguan-lordzuaqhzghyd93tpm0fql1cigv|Hanji 812]] says Lang turns omen interpretation into advice on labor, frugality, frontier warning, seasonal litigation, and legal simplification.
@@ -65,12 +71,12 @@ The method does not make the speaker safe or effective. In Hanji 836, Huan simpl
 
 ## Counterevidence & Qualifications
 
-The concept is grounded in the Hanji 812 and Hanji 813 Lang Yi cases, the Hanji 813 and Hanji 814 Li Gu cases, the Hanji 816 Zhou Ju and Zhang Heng cases, the Hanji 836 Yang Bing case, and the Hanji 873 Xiang Kai case, not in every Han omen memorial. It should not absorb all indirect criticism or all omen politics: [[AllusiveRemonstrance|隐语进谏]] can work through metaphor without astrology, and ordinary [[ChineseAstrologicalPolitics|中国星占政治]] can explain signs without becoming a memorial strategy. Hanji 816 further shows that Zhang Heng can use earthquake symbolism while attacking tuchen books as unreliable. Hanji 836 proves that an omen-coded warning can be ignored; Hanji 873 proves that more elaborate coding can still lead to punishment. The Hanji 873 source also records the host's interpretation of Huan's Buddhist favor; it does not independently settle the full chronology of Buddhism in China.
+The concept is grounded in Yang Zhen's Hanji 800 memorial, the Hanji 812 and Hanji 813 Lang Yi cases, the Hanji 813 and Hanji 814 Li Gu cases, the Hanji 816 Zhou Ju and Zhang Heng cases, the Hanji 836 Yang Bing case, and the Hanji 873 Xiang Kai case, not in every Han omen memorial. It should not absorb all indirect criticism or all omen politics: [[AllusiveRemonstrance|隐语进谏]] can work through metaphor without astrology, and ordinary [[ChineseAstrologicalPolitics|中国星占政治]] can explain signs without becoming a memorial strategy. Hanji 800 shows that disaster language can sharpen rather than soften danger when it names corrupt insiders; Hanji 816 further shows that Zhang Heng can use earthquake symbolism while attacking tuchen books as unreliable. Hanji 836 proves that an omen-coded warning can be ignored; Hanji 873 proves that more elaborate coding can still lead to punishment. The Hanji 873 source also records the host's interpretation of Huan's Buddhist favor; it does not independently settle the full chronology of Buddhism in China.
 
 ## What Changed
 
-- Moved the Shun-era starting point back to Hanji 812, where Lang Yi turns the Gongling fire and anomaly inquiry into high-office accountability and policy repair.
-- Preserved Hanji 813 as the drought/wind and recommendation layer before Li Gu's disaster-policy answer.
+- Added Hanji 800 as an Emperor An-era layer where Yang Zhen uses earthquake, drought signs, and yin-yang responsibility to attack eunuch-favorite construction abuse.
+- Maintained Hanji 812 and Hanji 813 as the Shun-era Lang Yi specialist layer: Gongling fire, drought/wind reading, high-office accountability, policy repair, and recommendation.
 - Preserved Hanji 814 as the ground-split and court-core repair layer rather than the first current example.
 - Kept Hanji 816 as the drought and earthquake layer that separates omen-coded criticism from uncritical acceptance of prophetic texts through Zhang Heng's anti-tuchen memorial.
 - Kept Hanji 836 and Hanji 873 as the Huan-era ignored-warning and punished-memorial layers.
@@ -88,5 +94,8 @@ The concept is grounded in the Hanji 812 and Hanji 813 Lang Yi cases, the Hanji 
 - [[ChineseAstrologicalPolitics|中国星占政治]] - technical star-reading field that makes the memorial legible inside court discourse.
 - [[AllusiveRemonstrance|隐语进谏]] - neighboring indirect-speech strategy that uses shared codes rather than primarily omen systems.
 - [[CourtFeedbackCollapse|君臣反馈失灵]] - institutional failure that makes coded or extreme correction necessary.
+- [[DirectRemonstranceCriminalization|直谏入罪]] - punishment pattern that Hanji 800 shows can follow even omen-coded accusation.
+- [[ForgedEdictPrivateExtraction|伪诏营私]] - concrete corruption target in Yang Zhen's Hanji 800 disaster-remonstrance.
+- [[YangZhenLateHan|杨震]] - Emperor An-era speaker whose omen-coded memorial is paired with documentary anti-corruption investigation.
 - [[PalaceAccessMonopoly|宫廷接触垄断]] - eunuch-favor and access condition that the memorial attacks.
 - [[BuddhistMiraclePolitics|佛教神通政治]] - adjacent Buddhist-political concept, distinct because Hanji 873 uses doctrine as moral critique rather than miracle authority.

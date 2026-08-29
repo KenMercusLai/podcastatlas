@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 5930
+wiki_total_pages: 5931
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1016,6 +1016,9 @@ wiki_pages:
   - key: "FiveDynastiesTenKingdomsConceptFormation"
     title: "五代十国概念形成 / Five Dynasties Ten Kingdoms Concept Formation"
     url: "/wiki/concepts/fivedynastiestenkingdomsconceptformation/"
+  - key: "ForgedEdictPrivateExtraction"
+    title: "伪诏营私 / Forged Edict Private Extraction"
+    url: "/wiki/concepts/forgededictprivateextraction/"
   - key: "FenxiangMailu"
     title: "分香卖履 / Fenxiang Mailu"
     url: "/wiki/concepts/fenxiangmailu/"

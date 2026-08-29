@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "549888ed657f9b119f7043536a523a802cc3631a4eebfc4d2f7e307759430713",
       "ade75b50b0091ff998d3e818c8e79170f4b6448365dd83d2e79a67a1683d9616",
       "9bf460c6cf20cf0fda0151569e4bca06649f121f8e70aba8876561e8751d6cb2",
       "d6d0975d88c73cc06e30e1905981dcf71f09061d5988d627ac1ebf0bfce6b65f",
@@ -370,11 +371,37 @@
       "56abb716e5b03c8a306adb1a6c6075e7f241a8cf33161741fecbd9f5b886bbb0",
       "c94dbb4bb11fbc67a68689063a003f4343a0087a9f4a369adf5930530cf3dce6"
     ],
-    "paragraph_count": 368
+    "paragraph_count": 369
   },
-  "overview_commit": "18f36ffca5751a6709e6758846af7717e1ceca24",
-  "overview_digest": "5583c648006be540a70983d16f4850b08a8365c806a469312d0a0f331cd474ba",
+  "overview_commit": "e0320822aba09606baba86be57b9e52e08072223",
+  "overview_digest": "a0da0e5b171eeee318955da259c3b3a0d1bd69f2ae1d33d69fffad29fcbd2edd",
   "paragraphs": [
+    {
+      "id": "549888ed657f9b119f7043536a523a802cc3631a4eebfc4d2f7e307759430713",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-800-yangzhen-zhisi-yi-chang-jianchen-dui-qingguan-de-jiaosha-lk9qcfs4xl-rjd-zpwdtsblybxa8|《资治通鉴·汉纪》800丨杨震之死：一场奸臣对清官的剿杀]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 124 CE Emperor An court immediately before [[zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy|Hanji 801]]. It adds [[ZhouGuangLateHan|周广]], [[XieYunLateHan|谢恽]], [[ZhaoTengLateHan|赵腾]], and [[ForgedEdictPrivateExtraction|伪诏营私]], while extending [[YangZhenLateHan|杨震]], [[EmperorAnOfHan|汉安帝]], [[FanFengEunuchLateHan|樊丰]], [[GengBaoGrandGeneralLateHan|耿宝]], [[LaiLiLateHan|来历]], [[BanYongLateHan|班勇]], [[DirectRemonstranceCriminalization|直谏入罪]], and [[OmenCodedRemonstrance|天象灾异包装式进谏]]. Its core synthesis is that Emperor An's court has already collapsed as a feedback system before Liu Bao's deposition: forged orders turn public resources into favorite-private construction, Yang Zhen's disaster warning and documentary evidence are recoded as resentment, Zhao Teng's execution makes rescue speech dangerous, and Geng Bao's accusation pushes Yang toward suicide. No settled contradiction is recorded; the source refines why Emperor Shun later has to vindicate Yang Zhen, while Feng Shi / 冯石, Yi Liang, and minor Western Regions actors remain source-scoped.",
+      "topic_scores": {
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "BanYongLateHan",
+        "DirectRemonstranceCriminalization",
+        "EmperorAnOfHan",
+        "FanFengEunuchLateHan",
+        "ForgedEdictPrivateExtraction",
+        "GengBaoGrandGeneralLateHan",
+        "LaiLiLateHan",
+        "OmenCodedRemonstrance",
+        "RuiqiJiangtouZizhiTongjian",
+        "XieYunLateHan",
+        "YangZhenLateHan",
+        "ZhaoTengLateHan",
+        "ZhouGuangLateHan",
+        "zizhi-tongjian-hanji-800-yangzhen-zhisi-yi-chang-jianchen-dui-qingguan-de-jiaosha-lk9qcfs4xl-rjd-zpwdtsblybxa8",
+        "zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy"
+      ]
+    },
     {
       "id": "ade75b50b0091ff998d3e818c8e79170f4b6448365dd83d2e79a67a1683d9616",
       "primary_topic": "governance-and-institutions",

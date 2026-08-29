@@ -18703,6 +18703,10 @@
     "title": "Forge Global",
     "url": "/wiki/entities/forgeglobal/"
   },
+  "ForgedEdictPrivateExtraction": {
+    "title": "伪诏营私 / Forged Edict Private Extraction",
+    "url": "/wiki/concepts/forgededictprivateextraction/"
+  },
   "ForgedEdictSuccessionCoup": {
     "title": "Forged Edict Succession Coup / 伪诏继位政变",
     "url": "/wiki/concepts/forgededictsuccessioncoup/"
@@ -54587,6 +54591,10 @@
     "title": "Xie Xiaoqing / 谢晓清",
     "url": "/wiki/entities/xiexiaoqing/"
   },
+  "XieYunLateHan": {
+    "title": "谢恽 / Xie Yun (late Han favorite)",
+    "url": "/wiki/entities/xieyunlatehan/"
+  },
   "XieZhiyu": {
     "title": "谢治宇 / Xie Zhiyu",
     "url": "/wiki/entities/xiezhiyu/"
@@ -57239,6 +57247,10 @@
     "title": "赵涛 / Zhao Tao",
     "url": "/wiki/entities/zhaotao/"
   },
+  "ZhaoTengLateHan": {
+    "title": "赵腾 / Zhao Teng (late Han remonstrant)",
+    "url": "/wiki/entities/zhaotenglatehan/"
+  },
   "ZhaoTingmei": {
     "title": "赵廷美 / Zhao Tingmei",
     "url": "/wiki/entities/zhaotingmei/"
@@ -57618,6 +57630,10 @@
   "ZhouGong": {
     "title": "周公 / Duke of Zhou",
     "url": "/wiki/entities/zhougong/"
+  },
+  "ZhouGuangLateHan": {
+    "title": "周广 / Zhou Guang (late Han favorite)",
+    "url": "/wiki/entities/zhouguanglatehan/"
   },
   "ZhouHaoTencent": {
     "title": "Zhou Hao / 周颢",
@@ -62014,6 +62030,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-800-yangzhen-zhisi-yi-chang-jianchen-dui-qingguan-de-jiaosha-lk9qcfs4xl-rjd-zpwdtsblybxa8": {
+    "title": "《资治通鉴·汉纪》800丨杨震之死：一场奸臣对清官的剿杀",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-800-yangzhen-zhisi-yi-chang-jianchen-dui-qingguan-de-jiaosha-lk9qcfs4xl-rjd-zpwdtsblybxa8/"
   },
   "zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy": {
     "title": "《资治通鉴·汉纪》801丨汉安帝为什么狠心废太子？",
