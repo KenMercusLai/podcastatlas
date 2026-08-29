@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "750236a3432e0c98c4fa9fe78759f73d329b50598c2bfc4d91296222ee930fff",
       "599ea23868826f8534bf0a9b5aac7529f431ca3e0bea38f0b6d8e0b8f827b865",
       "747c424e2c650902c1cc320496d834bff2055dd907b5167f993b9e737c38aad5",
       "aeafe2c01101db5fbb079b8132df791554abcdca958fc5a5707cf9a3c1ece869",
@@ -358,11 +359,34 @@
       "082a8129ce267d83fa695011e4d1d9ec611a2911fab24932213544b548f520cf",
       "6dd2244cfd82de8e2076d8e2587203e47d3343702b97f83715d88073f28b3401"
     ],
-    "paragraph_count": 356
+    "paragraph_count": 357
   },
-  "overview_commit": "5b19bbcdc33ce7569a5e792f5c71d7941fd2be94",
-  "overview_digest": "d19974f74bb9a85ae1d04b9853ec41cb29436da2c7f184247f2049cdb65cc13a",
+  "overview_commit": "07a716c7f953c9ce19e431ecf634a6f52dec7cfe",
+  "overview_digest": "2908d031b5de712eb2b254b8d70efbbca40e849c6ccc710f1a94ba22f140543f",
   "paragraphs": [
+    {
+      "id": "750236a3432e0c98c4fa9fe78759f73d329b50598c2bfc4d91296222ee930fff",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-817-kan-si-ruanruo-de-ren-shize-huode-geng-tongtou-llmgqys237de3dzb6ij-4szyetye|《资治通鉴·汉纪》817丨看似软弱的人，实则活得更通透]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 135-136 CE [[EmperorShunOfHan|汉顺帝]] court before [[zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr|Hanji 818]]. It extends [[LiangShangLateHan|梁商]], [[LiGuLateHan|李固]], [[ZhangGangLateHan|张纲]], [[MaXianLateHan|马贤]], [[EmperorShunOfHan|汉顺帝]], and [[PrudentAmbiguitySelfProtection|审慎含混式自保]]. Its core synthesis is that Shun-era correction failure appears before the Wang Gong and Jiaozhi layers: eunuch adopted-son title inheritance, Zhang Gang's ignored anti-privilege memorial, and Li Gu's unadopted counsel to Liang Shang show advice reaching power without turning into structural repair, while Liang Shang's apparent softness may be prudent ambiguity under emperor, eunuch, official, and outer-relative tension. No settled contradiction is recorded; Liang Shang's inner motive, Pang Can, Huan Yan, Yang Lun, Geng Ye, Huyan Wang, and exact disaster/omen notices remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "EmperorShunOfHan",
+        "LiGuLateHan",
+        "LiangShangLateHan",
+        "MaXianLateHan",
+        "PrudentAmbiguitySelfProtection",
+        "RuiqiJiangtouZizhiTongjian",
+        "ZhangGangLateHan",
+        "zizhi-tongjian-hanji-817-kan-si-ruanruo-de-ren-shize-huode-geng-tongtou-llmgqys237de3dzb6ij-4szyetye",
+        "zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr"
+      ]
+    },
     {
       "id": "599ea23868826f8534bf0a9b5aac7529f431ca3e0bea38f0b6d8e0b8f827b865",
       "primary_topic": "history-and-geopolitics",
