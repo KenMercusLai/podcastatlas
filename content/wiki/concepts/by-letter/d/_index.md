@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 5948
+wiki_total_pages: 5954
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -158,6 +158,9 @@ wiki_pages:
   - key: "DataEnabledPersecution"
     title: "Data-Enabled Persecution / 数据化迫害"
     url: "/wiki/concepts/dataenabledpersecution/"
+  - key: "DataFirstPostTraining"
+    title: "Data-First Post-Training / 数据优先后训"
+    url: "/wiki/concepts/datafirstposttraining/"
   - key: "DataToMemoryTransformation"
     title: "Data-to-Memory Transformation"
     url: "/wiki/concepts/datatomemorytransformation/"

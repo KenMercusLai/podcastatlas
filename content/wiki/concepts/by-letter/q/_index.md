@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "q"
-wiki_total_pages: 5948
+wiki_total_pages: 5954
 wiki_pages:
   - key: "QDIIAllocation"
     title: "QDII Allocation"
@@ -56,6 +56,9 @@ wiki_pages:
   - key: "QixiFestivalLayering"
     title: "Qixi Festival Layering"
     url: "/wiki/concepts/qixifestivallayering/"
+  - key: "QLoRA"
+    title: "QLoRA"
+    url: "/wiki/concepts/qlora/"
   - key: "QualityLowPriceReasonedPremium"
     title: "Quality Low Price And Reasoned Premium / 有品质的低价与有理由的溢价"
     url: "/wiki/concepts/qualitylowpricereasonedpremium/"

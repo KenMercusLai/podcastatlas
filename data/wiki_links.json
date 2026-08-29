@@ -4971,6 +4971,10 @@
     "title": "Apple Workout Buddy",
     "url": "/wiki/entities/appleworkoutbuddy/"
   },
+  "ApplicationCompanyModelCapability": {
+    "title": "Application Company Model Capability / 应用公司模型能力",
+    "url": "/wiki/concepts/applicationcompanymodelcapability/"
+  },
   "ApplicationPerformanceMonitoring": {
     "title": "Application Performance Monitoring",
     "url": "/wiki/concepts/applicationperformancemonitoring/"
@@ -13370,6 +13374,10 @@
   "DataEngineeringForDataScience": {
     "title": "Data Engineering For Data Science",
     "url": "/wiki/concepts/dataengineeringfordatascience/"
+  },
+  "DataFirstPostTraining": {
+    "title": "Data-First Post-Training / 数据优先后训",
+    "url": "/wiki/concepts/datafirstposttraining/"
   },
   "DataFoundationFirstAIStrategy": {
     "title": "Data Foundation-First AI Strategy",
@@ -30463,6 +30471,10 @@
     "title": "Loblaw",
     "url": "/wiki/entities/loblaw/"
   },
+  "LocalAIPrivacyTradeoff": {
+    "title": "Local AI Privacy Tradeoff / 本地 AI 隐私取舍",
+    "url": "/wiki/concepts/localaiprivacytradeoff/"
+  },
   "LocalAIWorkstation": {
     "title": "Local AI Workstation",
     "url": "/wiki/concepts/localaiworkstation/"
@@ -30903,6 +30915,10 @@
     "title": "Low-Cost Experimentation",
     "url": "/wiki/concepts/lowcostexperimentation/"
   },
+  "LowCostModelPostTraining": {
+    "title": "Low-Cost Model Post-Training / 低成本模型后训",
+    "url": "/wiki/concepts/lowcostmodelposttraining/"
+  },
   "LowCostShortCycleValidation": {
     "title": "Low-Cost Short-Cycle Validation",
     "url": "/wiki/concepts/lowcostshortcyclevalidation/"
@@ -31110,6 +31126,10 @@
   "LuYuanPrincess": {
     "title": "鲁元公主 / Princess Lu Yuan",
     "url": "/wiki/entities/luyuanprincess/"
+  },
+  "LuYuxin": {
+    "title": "逯雨鑫 / 逯雨昕 / Lu Yuxin",
+    "url": "/wiki/entities/luyuxin/"
   },
   "LuZe": {
     "title": "吕泽 / Lu Ze",
@@ -40571,6 +40591,10 @@
     "title": "QDII Allocation",
     "url": "/wiki/concepts/qdiiallocation/"
   },
+  "QLoRA": {
+    "title": "QLoRA",
+    "url": "/wiki/concepts/qlora/"
+  },
   "QQ": {
     "title": "QQ",
     "url": "/wiki/entities/qq/"
@@ -48002,6 +48026,10 @@
   "SuperstarCities": {
     "title": "Superstar Cities",
     "url": "/wiki/concepts/superstarcities/"
+  },
+  "SupervisedFineTuning": {
+    "title": "Supervised Fine-Tuning / SFT",
+    "url": "/wiki/concepts/supervisedfinetuning/"
   },
   "SupplementBrandConsolidation": {
     "title": "Supplement Brand Consolidation",
@@ -61538,6 +61566,10 @@
   "yi-fen-laizi-bingchuang-shang-de-xiangguan-shudan-598284093": {
     "title": "一份来自病床上的相关书单",
     "url": "/wiki/sources/yi-fen-laizi-bingchuang-shang-de-xiangguan-shudan-598284093/"
+  },
+  "yi-ge-ren-liang-zhou-shu-bai-meiyuan-ruhe-xun-chu-dengding-hugging-face-de-moxing-duitan-yanjiuyuan-lu-yuxin-lpxxrnwdhgnsrxuyhrfrv5t1lojt": {
+    "title": "一个人、两周、数百美元，如何训出登顶 Hugging Face 的模型 | 对谈研究员逯雨鑫",
+    "url": "/wiki/sources/yi-ge-ren-liang-zhou-shu-bai-meiyuan-ruhe-xun-chu-dengding-hugging-face-de-moxing-duitan-yanjiuyuan-lu-yuxin-lpxxrnwdhgnsrxuyhrfrv5t1lojt/"
   },
   "yi-ge-zhongguo-fde-de-guanghuan-luocha-yu-jiuhuo-richang-s10e27-587619bb-62c2-485d-9f27-f0be0115a986": {
     "title": "一个中国 FDE 的光环、落差与「救火」日常｜S10E27",

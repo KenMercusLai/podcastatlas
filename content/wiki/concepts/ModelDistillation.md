@@ -1,47 +1,69 @@
 ---
 title: "Model Distillation / 模型蒸馏"
 type: concept
+knowledge_schema: synthesis-v1
 tags: [ai, machine-learning, models]
-sources: [zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1, zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805, cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi, xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1, e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41]
-last_updated: 2026-08-17
+sources:
+  - zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1
+  - zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805
+  - cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi
+  - xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1
+  - e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41
+  - yi-ge-ren-liang-zhou-shu-bai-meiyuan-ruhe-xun-chu-dengding-hugging-face-de-moxing-duitan-yanjiuyuan-lu-yuxin-lpxxrnwdhgnsrxuyhrfrv5t1lojt
+last_updated: 2026-08-30
 ---
 
 # Model Distillation / 模型蒸馏
 
-[[zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1]] adds the broadest operational map so far. The source defines distillation as using a stronger teacher model's outputs, reasoning, or behavior to train a student model, then separates classic compression from capability-seeking distillation, [[AgentTrajectoryDistillation]], terms-of-service breach, legal liability, and strategic dependence. It also says distillation is a pipeline problem: access to strong models, realistic prompts, filtering, rewriting, correction, data mixing, training skill, and [[ModelDistillationEvidence]] matter more than the "copying answers" metaphor.
+## Definition
+Model distillation is the transfer of behavior, reasoning patterns, outputs, or task trajectories from a stronger teacher model or set of models into a student model.
 
-[[zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805]] adds a governance-first refusal case through [[ByteDance]]. The source says [[ZhangYiming|Zhang Yiming]] argued that ByteDance should not rely on distillation to improve model capability because U.S.-model provenance disputes could create scrutiny for [[TikTok]] and because shortcut learning could harm team and technology development. This turns the technique into [[AIModelDistillationGovernance]], not only a model-compression or post-training method.
+## Current Synthesis
+The wiki's current view is that distillation is a standard technical family, not a misconduct label by itself. The bounded sources distinguish classic logits-style compression, generated-output fine-tuning, multi-teacher capability transfer, agent-trajectory imitation, and public accusations that a model copied a closed provider. Those are different claims with different evidence, legal, and strategic requirements.
 
-[[cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi]] adds [[MengFanqing|孟繁青]]'s stronger qualification: distillation is useful, especially when a weaker model has large learning margin, but it is not the decisive reason domestic models have become strong. The source says Chinese model progress should also be attributed to pretraining, architecture and efficiency work, data, and organization.
-
-[[xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1]] adds a post-training workflow version through [[KimiK3|Kimi K3]]. [[ZengZhiyuan]] distinguishes classic distillation, off-policy distillation, and [[OnPolicyDistillation]], then uses [[MOPDPostTraining|MOPD]] to show distillation as capability merging across domain experts and reasoning-effort levels, not only small-model compression or copying.
-
-Model distillation is the machine-learning technique discussed in [[e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41]], where a smaller or cheaper model learns behavior from a stronger teacher model. [[WangTiezhen|王铁镇]] distinguishes the classic form, where a student can learn from output probability distributions or logits, from the public accusation that a model was built by scraping another model's text outputs.
-
-The concept matters because the episode treats "distillation" as several different claims that should not be collapsed. A model can use teacher outputs legally or openly, violate an API provider's terms by mass generation, learn from already-public model outputs on the internet, or be falsely accused because its behavior resembles another model. The source argues that proving [[KimiK3|Kimi K3]]'s core capability came from a specific closed model would require evidence beyond model identity confusion or short timing narratives.
+The newest source sharpens the small-model side of the concept. For [[LuYuxin|逯雨鑫 / 逯雨昕]], teacher-generated or teacher-shaped data can help a narrow student model through [[SupervisedFineTuning|SFT]], but only when it moves the model distribution toward the intended task. The result can be a good distillation even if unrelated benchmarks fall, while capacity gap means a smaller model may not absorb the teacher's full behavior.
 
 ## Key Claims
-- Distillation is a standard technique, not inherently a misconduct category.
-- Closed APIs usually do not expose the logits needed for classic full-probability distillation.
-- Training on generated text is a weaker and broader claim than classic distillation.
-- [[DeepSeek]] is used as an example of a model family whose R1-era outputs and artifacts were described as more open to downstream distillation.
-- Distillation can improve smaller models, but the source says architecture, data engineering, RL, inference optimization, and [[ScalingEfficiency]] also have to be considered.
-- Terms-of-service violations, copying accusations, and technical distillation are different questions.
-- In agent post-training, distillation may be used to merge domain specialists into one model, but it still needs reliable teacher scoring and external supervision.
-- In environment-based [[SyntheticAgentData]], using an outside model such as [[Claude]] to explore and save traces may be called distillation, but the environment, task, verifier, and scoring system can be the harder part of the data product.
-- Distillation can be a shortcut that risks weakening a team's own insight if it becomes a substitute for understanding the main training path.
-- A company with global regulatory exposure may reject distillation even when the technique is useful, because provenance, compliance, and platform spillover risks can dominate speed.
-- Agent-era distillation can target trajectories inside executable environments, not only answers or chains of thought.
-- The source says public accusation requires stronger evidence than model identity confusion; behavior-distribution analysis, refusal patterns, code style, account traces, and traffic fingerprints are more relevant.
-- Distillation can pressure closed API business models when good-enough cheaper models solve most real tasks, but frontier labs may regain distance through stronger self-improvement, access control, or new model releases.
+- Distillation is a legitimate model-training technique, but it becomes contentious when source provenance, terms of service, or competitive model improvement are disputed.
+- Closed APIs usually do not expose the full probability distributions associated with classic distillation, so many public disputes concern generated text or behavior traces instead.
+- Good distillation is target-aligned behavior transfer, not merely collecting fluent teacher answers.
+- Agent-era distillation can include full task trajectories, tools, environments, and feedback rather than static question-answer pairs.
+- Distillation can narrow gaps for weaker or smaller models, but architecture, pretraining, data engineering, RL, inference optimization, and organization can still be decisive.
+- Stronger evidence for improper distillation requires behavior distributions, refusal patterns, code style, account traces, traffic evidence, or other provenance signals beyond self-identification errors.
+- Capacity gap and benchmark tradeoffs limit what small student models can learn from stronger teachers.
 
-## Connections
-- [[SyntheticAgentData]], [[EnvironmentBasedAgentBenchmarks]], [[RSIData]], and [[EvolventAI]] — Evolvent AI source branch where distillation overlaps with synthetic trajectory generation.
-- [[KimiK3]], [[MoonshotAI]], [[DeepSeek]], and [[OpenSourceAIModels]] - model cases in the episode.
-- [[ModelIdentityDataPollution]] - why self-identification errors are weak evidence for distillation.
-- [[ScalingEfficiency]], [[ModelPostTrainingBottleneck]], and [[AgentPostTraining]] - adjacent model-improvement mechanisms.
-- [[OpenModelSafetyGovernance]] and [[AIGovernanceAndCompliance]] - compliance and transparency layer when model-generated data is used.
-- [[OnPolicyDistillation]], [[MOPDPostTraining]], [[KimiK3]], and [[AIVerification]] - K3 post-training branch added by LateTalk episode 177.
-- [[ByteDance]], [[ZhangYiming]], [[TikTok]], and [[AIModelDistillationGovernance]] - governance-first refusal case added by 声动早咖啡.
-- [[AgentTrajectoryDistillation]], [[SyntheticAgentData]], [[EnvironmentBasedAgentBenchmarks]], and [[AgentPostTraining]] - agent-era trajectory branch added by LateTalk episode 179.
-- [[ModelDistillationEvidence]], [[ModelIdentityDataPollution]], [[Anthropic]], [[OpenAI]], [[DeepSeek]], [[KimiK3]], [[Qwen]], and [[MiniMax]] - evidence and accusation branch added by LateTalk episode 179.
+## Evidence
+### Technical and evidence boundary
+- [[e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41]] distinguishes classic distillation from public copying accusations and rejects model self-identification as enough evidence.
+- [[zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1]] expands the evidence standard to behavior-distribution analysis, refusal patterns, code style, call traces, account evidence, and anti-distillation enforcement.
+
+### Governance and organization
+- [[zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805]] records the governance-first case where [[ZhangYiming|张一鸣]] reportedly opposed distillation because U.S.-model provenance disputes could harm [[TikTok]] and weaken team development.
+- [[zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1]] adds that terms-of-service, legal, and organizational-learning risks can dominate pure technical speed.
+
+### Model-factory and agent data
+- [[xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1]] describes [[OnPolicyDistillation]] and [[MOPDPostTraining|MOPD]] as post-training mechanisms for combining domain expert models, reasoning effort levels, and teacher scoring.
+- [[cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi]] links distillation to [[SyntheticAgentData]] while stressing that environments, task design, and scoring can be harder than copying teacher answers.
+
+### Small-model target alignment
+- [[yi-ge-ren-liang-zhou-shu-bai-meiyuan-ruhe-xun-chu-dengding-hugging-face-de-moxing-duitan-yanjiuyuan-lu-yuxin-lpxxrnwdhgnsrxuyhrfrv5t1lojt]] treats [[SupervisedFineTuning|SFT]] as practical distillation when teacher outputs improve a narrow student model in the target domain, while warning that other benchmarks can drop and capacity gap can block full transfer.
+
+## Counterevidence & Qualifications
+- The sources repeatedly reject distillation as a single explanation for Chinese model progress; architecture, data, efficiency, RL, inference, and organization remain part of the causal picture.
+- A public accusation of improper distillation is not proven by timing, similarity, or a model claiming to be another model.
+- Distillation can import teacher mistakes, refusal patterns, or style artifacts if the data pipeline is weak.
+- For narrow application use, a benchmark drop outside the target may be acceptable; for general-purpose releases, the same tradeoff may be unacceptable.
+
+## What Changed
+- Migrated the page to `synthesis-v1` and compressed prior source-led material into claim groups.
+- Added the small-model practitioner view: good distillation is target alignment under capacity constraints, not universal improvement.
+- Tightened the evidence distinction between technical distillation, ToS risk, and public accusation.
+
+## Related Concepts
+- [[SupervisedFineTuning]] - method that can carry teacher behavior into a student model.
+- [[DataFirstPostTraining]] - data-quality discipline that determines whether distillation improves the target behavior.
+- [[AgentTrajectoryDistillation]] - agent-era form based on task traces rather than static answers.
+- [[SyntheticAgentData]] - data source that can overlap with distillation when a stronger model generates trajectories.
+- [[ModelPostTrainingBottleneck]] - broader bottleneck around data, evaluation, and capacity.
+- [[AIModelDistillationGovernance]] - compliance and organizational boundary around using teacher outputs.
+- [[ModelDistillationEvidence]] - evidence standard for claims that distillation occurred.

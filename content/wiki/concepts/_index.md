@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 5948
+wiki_total_pages: 5954
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1574,6 +1574,9 @@ wiki_pages:
   - key: "AppleSupplyChainResponsibility"
     title: "Apple Supply Chain Responsibility"
     url: "/wiki/concepts/applesupplychainresponsibility/"
+  - key: "ApplicationCompanyModelCapability"
+    title: "Application Company Model Capability / 应用公司模型能力"
+    url: "/wiki/concepts/applicationcompanymodelcapability/"
   - key: "ApplicationPerformanceMonitoring"
     title: "Application Performance Monitoring"
     url: "/wiki/concepts/applicationperformancemonitoring/"

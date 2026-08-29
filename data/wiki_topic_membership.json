@@ -7407,6 +7407,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "ApplicationCompanyModelCapability": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "ApplicationProfitPoolCapture": [
     {
       "key": "technology",
@@ -16750,6 +16757,13 @@
     }
   ],
   "DataEngineeringDemand": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "DataFirstPostTraining": [
     {
       "key": "technology",
       "label": "Technology",
@@ -35349,6 +35363,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "LocalAIPrivacyTradeoff": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "LocalAIWorkstation": [
     {
       "key": "technology",
@@ -35807,6 +35828,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "LowCostModelPostTraining": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "LowDataMediaAccess": [
     {
       "key": "culture",
@@ -36042,6 +36070,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "LuYuxin": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "LuZe": [
@@ -46922,6 +46957,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "QLoRA": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "Qatar": [
     {
       "key": "politics",
@@ -55653,6 +55695,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "SupervisedFineTuning": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "SupplementLabelAccuracy": [
@@ -71572,6 +71621,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "yi-ge-ren-liang-zhou-shu-bai-meiyuan-ruhe-xun-chu-dengding-hugging-face-de-moxing-duitan-yanjiuyuan-lu-yuxin-lpxxrnwdhgnsrxuyhrfrv5t1lojt": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "yi-ge-zhongguo-fde-de-guanghuan-luocha-yu-jiuhuo-richang-s10e27-587619bb-62c2-485d-9f27-f0be0115a986": [

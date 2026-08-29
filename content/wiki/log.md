@@ -13588,3 +13588,11 @@ Ingested the 2026-07-07 这病说来话长 episode with 阿汤, Ander, and 邓�
 ## [2026-08-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-30] ingest | 一个人、两周、数百美元，如何训出登顶 Hugging Face 的模型 | 对谈研究员逯雨鑫
+
+Ingested the 2026-08-29 42章经 episode with Lu Yuxin on low-cost small-model post-training, SFT, QLoRA, data audit, benchmark iteration, application-company model capability, and local AI privacy/cost tradeoffs. Created the source note plus `LuYuxin`, `LowCostModelPostTraining`, `DataFirstPostTraining`, `SupervisedFineTuning`, `QLoRA`, `ApplicationCompanyModelCapability`, and `LocalAIPrivacyTradeoff`; updated `42Zhangjing`, `ModelPostTrainingBottleneck`, `ModelDistillation`, `LocalAIWorkstation`, `LocalPrivateAI`, `index`, and `overview`. No settled contradiction found; model ranking, benchmark, cost, and local-AI adoption claims remain source-scoped, with the 逯雨鑫/雨昕 spelling variation preserved under `LuYuxin`.
+
+## [2026-08-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

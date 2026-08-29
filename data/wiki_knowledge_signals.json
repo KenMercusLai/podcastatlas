@@ -17,9 +17,9 @@
       "url": "/wiki/entities/3721/"
     },
     "42Zhangjing": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 1,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "泡沫的四个必要不充分条件 ｜ 对谈经济学者朱宁教授 [lo4XhK5fNW1DCoRwaCtTcSfJjr78].md",
@@ -104,9 +104,16 @@
           "show": "42章经",
           "title": "从蒸馏到合成数据到 RSI，模型竞争的下一个焦点是什么？｜对谈 Evolvent AI 联创孟繁青",
           "url": "/wiki/sources/cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi/"
+        },
+        {
+          "episode_file": "一个人、两周、数百美元，如何训出登顶 Hugging Face 的模型 ｜ 对谈研究员逯雨鑫 [lpXxRnwDHgNSrxuyHrfrv5t1lOjT].md",
+          "key": "yi-ge-ren-liang-zhou-shu-bai-meiyuan-ruhe-xun-chu-dengding-hugging-face-de-moxing-duitan-yanjiuyuan-lu-yuxin-lpxxrnwdhgnsrxuyhrfrv5t1lojt",
+          "show": "42章经",
+          "title": "一个人、两周、数百美元，如何训出登顶 Hugging Face 的模型 | 对谈研究员逯雨鑫",
+          "url": "/wiki/sources/yi-ge-ren-liang-zhou-shu-bai-meiyuan-ruhe-xun-chu-dengding-hugging-face-de-moxing-duitan-yanjiuyuan-lu-yuxin-lpxxrnwdhgnsrxuyhrfrv5t1lojt/"
         }
       ],
-      "updated": "2026-08-09",
+      "updated": "2026-08-30",
       "url": "/wiki/entities/42zhangjing/"
     },
     "ABOTNavigation": {
@@ -2481,6 +2488,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/apathyactioninitiation/"
+    },
+    "ApplicationCompanyModelCapability": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "一个人、两周、数百美元，如何训出登顶 Hugging Face 的模型 ｜ 对谈研究员逯雨鑫 [lpXxRnwDHgNSrxuyHrfrv5t1lOjT].md",
+          "key": "yi-ge-ren-liang-zhou-shu-bai-meiyuan-ruhe-xun-chu-dengding-hugging-face-de-moxing-duitan-yanjiuyuan-lu-yuxin-lpxxrnwdhgnsrxuyhrfrv5t1lojt",
+          "show": "42章经",
+          "title": "一个人、两周、数百美元，如何训出登顶 Hugging Face 的模型 | 对谈研究员逯雨鑫",
+          "url": "/wiki/sources/yi-ge-ren-liang-zhou-shu-bai-meiyuan-ruhe-xun-chu-dengding-hugging-face-de-moxing-duitan-yanjiuyuan-lu-yuxin-lpxxrnwdhgnsrxuyhrfrv5t1lojt/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/applicationcompanymodelcapability/"
     },
     "AppointmentQualityAsStateCapacity": {
       "episode_count": 8,
@@ -6935,6 +6958,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/dataengineeragentsupervision/"
+    },
+    "DataFirstPostTraining": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "一个人、两周、数百美元，如何训出登顶 Hugging Face 的模型 ｜ 对谈研究员逯雨鑫 [lpXxRnwDHgNSrxuyHrfrv5t1lOjT].md",
+          "key": "yi-ge-ren-liang-zhou-shu-bai-meiyuan-ruhe-xun-chu-dengding-hugging-face-de-moxing-duitan-yanjiuyuan-lu-yuxin-lpxxrnwdhgnsrxuyhrfrv5t1lojt",
+          "show": "42章经",
+          "title": "一个人、两周、数百美元，如何训出登顶 Hugging Face 的模型 | 对谈研究员逯雨鑫",
+          "url": "/wiki/sources/yi-ge-ren-liang-zhou-shu-bai-meiyuan-ruhe-xun-chu-dengding-hugging-face-de-moxing-duitan-yanjiuyuan-lu-yuxin-lpxxrnwdhgnsrxuyhrfrv5t1lojt/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/datafirstposttraining/"
     },
     "DataFoundationFirstAIStrategy": {
       "episode_count": 1,
@@ -18606,6 +18645,52 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/lizwalters/"
     },
+    "LocalAIPrivacyTradeoff": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "一个人、两周、数百美元，如何训出登顶 Hugging Face 的模型 ｜ 对谈研究员逯雨鑫 [lpXxRnwDHgNSrxuyHrfrv5t1lOjT].md",
+          "key": "yi-ge-ren-liang-zhou-shu-bai-meiyuan-ruhe-xun-chu-dengding-hugging-face-de-moxing-duitan-yanjiuyuan-lu-yuxin-lpxxrnwdhgnsrxuyhrfrv5t1lojt",
+          "show": "42章经",
+          "title": "一个人、两周、数百美元，如何训出登顶 Hugging Face 的模型 | 对谈研究员逯雨鑫",
+          "url": "/wiki/sources/yi-ge-ren-liang-zhou-shu-bai-meiyuan-ruhe-xun-chu-dengding-hugging-face-de-moxing-duitan-yanjiuyuan-lu-yuxin-lpxxrnwdhgnsrxuyhrfrv5t1lojt/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/localaiprivacytradeoff/"
+    },
+    "LocalAIWorkstation": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "F609485A348822F6AD11A4F104474DC9~8584395_2026-08-10-212835-8787-0-0-10.128 [F609485A348822F6AD11A4F104474DC9~8584395_2026-08-10-212835-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a83b0b2].md",
+          "key": "ep-47-the-ai-pioneer-who-decided-privacy-matters-more-than-hype",
+          "show": "Data Science With Sam",
+          "title": "EP 47: The AI Pioneer Who Decided Privacy Matters More Than Hype",
+          "url": "/wiki/sources/ep-47-the-ai-pioneer-who-decided-privacy-matters-more-than-hype/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Microsoft CEO Satya Nadella on AI’s Business Revolution： What Happens to SaaS, OpenAI, and Microsoft？ ｜ LIVE from Davos [39818140].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Microsoft CEO Satya Nadella on AI's Business Revolution: What Happens to SaaS, OpenAI, and Microsoft? | LIVE from Davos",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140/"
+        },
+        {
+          "episode_file": "一个人、两周、数百美元，如何训出登顶 Hugging Face 的模型 ｜ 对谈研究员逯雨鑫 [lpXxRnwDHgNSrxuyHrfrv5t1lOjT].md",
+          "key": "yi-ge-ren-liang-zhou-shu-bai-meiyuan-ruhe-xun-chu-dengding-hugging-face-de-moxing-duitan-yanjiuyuan-lu-yuxin-lpxxrnwdhgnsrxuyhrfrv5t1lojt",
+          "show": "42章经",
+          "title": "一个人、两周、数百美元，如何训出登顶 Hugging Face 的模型 | 对谈研究员逯雨鑫",
+          "url": "/wiki/sources/yi-ge-ren-liang-zhou-shu-bai-meiyuan-ruhe-xun-chu-dengding-hugging-face-de-moxing-duitan-yanjiuyuan-lu-yuxin-lpxxrnwdhgnsrxuyhrfrv5t1lojt/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/localaiworkstation/"
+    },
     "LocalAuspiciousOmenFabrication": {
       "episode_count": 1,
       "show_count": 1,
@@ -18651,6 +18736,29 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/localofficialtenurestability/"
+    },
+    "LocalPrivateAI": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "F609485A348822F6AD11A4F104474DC9~8584395_2026-08-10-212835-8787-0-0-10.128 [F609485A348822F6AD11A4F104474DC9~8584395_2026-08-10-212835-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a83b0b2].md",
+          "key": "ep-47-the-ai-pioneer-who-decided-privacy-matters-more-than-hype",
+          "show": "Data Science With Sam",
+          "title": "EP 47: The AI Pioneer Who Decided Privacy Matters More Than Hype",
+          "url": "/wiki/sources/ep-47-the-ai-pioneer-who-decided-privacy-matters-more-than-hype/"
+        },
+        {
+          "episode_file": "一个人、两周、数百美元，如何训出登顶 Hugging Face 的模型 ｜ 对谈研究员逯雨鑫 [lpXxRnwDHgNSrxuyHrfrv5t1lOjT].md",
+          "key": "yi-ge-ren-liang-zhou-shu-bai-meiyuan-ruhe-xun-chu-dengding-hugging-face-de-moxing-duitan-yanjiuyuan-lu-yuxin-lpxxrnwdhgnsrxuyhrfrv5t1lojt",
+          "show": "42章经",
+          "title": "一个人、两周、数百美元，如何训出登顶 Hugging Face 的模型 | 对谈研究员逯雨鑫",
+          "url": "/wiki/sources/yi-ge-ren-liang-zhou-shu-bai-meiyuan-ruhe-xun-chu-dengding-hugging-face-de-moxing-duitan-yanjiuyuan-lu-yuxin-lpxxrnwdhgnsrxuyhrfrv5t1lojt/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/localprivateai/"
     },
     "LongTermAchievementDiscipline": {
       "episode_count": 3,
@@ -18750,6 +18858,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/lovable/"
+    },
+    "LowCostModelPostTraining": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "一个人、两周、数百美元，如何训出登顶 Hugging Face 的模型 ｜ 对谈研究员逯雨鑫 [lpXxRnwDHgNSrxuyHrfrv5t1lOjT].md",
+          "key": "yi-ge-ren-liang-zhou-shu-bai-meiyuan-ruhe-xun-chu-dengding-hugging-face-de-moxing-duitan-yanjiuyuan-lu-yuxin-lpxxrnwdhgnsrxuyhrfrv5t1lojt",
+          "show": "42章经",
+          "title": "一个人、两周、数百美元，如何训出登顶 Hugging Face 的模型 | 对谈研究员逯雨鑫",
+          "url": "/wiki/sources/yi-ge-ren-liang-zhou-shu-bai-meiyuan-ruhe-xun-chu-dengding-hugging-face-de-moxing-duitan-yanjiuyuan-lu-yuxin-lpxxrnwdhgnsrxuyhrfrv5t1lojt/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/lowcostmodelposttraining/"
     },
     "LowCountries": {
       "episode_count": 3,
@@ -18877,6 +19001,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/lusu/"
+    },
+    "LuYuxin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "一个人、两周、数百美元，如何训出登顶 Hugging Face 的模型 ｜ 对谈研究员逯雨鑫 [lpXxRnwDHgNSrxuyHrfrv5t1lOjT].md",
+          "key": "yi-ge-ren-liang-zhou-shu-bai-meiyuan-ruhe-xun-chu-dengding-hugging-face-de-moxing-duitan-yanjiuyuan-lu-yuxin-lpxxrnwdhgnsrxuyhrfrv5t1lojt",
+          "show": "42章经",
+          "title": "一个人、两周、数百美元，如何训出登顶 Hugging Face 的模型 | 对谈研究员逯雨鑫",
+          "url": "/wiki/sources/yi-ge-ren-liang-zhou-shu-bai-meiyuan-ruhe-xun-chu-dengding-hugging-face-de-moxing-duitan-yanjiuyuan-lu-yuxin-lpxxrnwdhgnsrxuyhrfrv5t1lojt/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/luyuxin/"
     },
     "LuZhiLateHan": {
       "episode_count": 7,
@@ -20838,6 +20978,57 @@
       "updated": "2026-08-18",
       "url": "/wiki/concepts/modelcontextprotocol/"
     },
+    "ModelDistillation": {
+      "episode_count": 6,
+      "show_count": 4,
+      "source_note_count": 6,
+      "sources": [
+        {
+          "episode_file": "蒸馏风暴：一场无人公开谈论的技术竞赛 (1) [179-1].md",
+          "key": "zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1",
+          "show": "晚点聊 LateTalk",
+          "title": "179: 蒸馏风暴：一场无人公开谈论的技术竞赛",
+          "url": "/wiki/sources/zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1/"
+        },
+        {
+          "episode_file": "中国消费者带动拉夫劳伦增长，东航优化机票退改签政策 [1005631805].md",
+          "key": "zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805",
+          "show": "声动早咖啡",
+          "title": "中国消费者带动拉夫劳伦增长，东航优化机票退改签政策",
+          "url": "/wiki/sources/zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805/"
+        },
+        {
+          "episode_file": "从蒸馏到合成数据到 RSI，模型竞争的下一个焦点是什么？｜对谈 Evolvent AI 联创孟繁青 [lq1xnhp4MuC3iViDqhVd0Ul77QmI].md",
+          "key": "cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi",
+          "show": "42章经",
+          "title": "从蒸馏到合成数据到 RSI，模型竞争的下一个焦点是什么？｜对谈 Evolvent AI 联创孟繁青",
+          "url": "/wiki/sources/cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi/"
+        },
+        {
+          "episode_file": "详解Kimi K3：强到冲击Anthropic估值的模型什么样？ (1) [177-1].md",
+          "key": "xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1",
+          "show": "晚点聊 LateTalk",
+          "title": "177: 详解Kimi K3：强到冲击Anthropic估值的模型什么样？",
+          "url": "/wiki/sources/xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1/"
+        },
+        {
+          "episode_file": "E246｜何谓蒸馏？聊聊硅谷如何看中国开放模型逼近前沿 [5fd236d7-9a72-4b15-9e84-e83ceadd1b41].md",
+          "key": "e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41",
+          "show": "硅谷101",
+          "title": "E246｜何谓蒸馏？聊聊硅谷如何看中国开放模型逼近前沿",
+          "url": "/wiki/sources/e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41/"
+        },
+        {
+          "episode_file": "一个人、两周、数百美元，如何训出登顶 Hugging Face 的模型 ｜ 对谈研究员逯雨鑫 [lpXxRnwDHgNSrxuyHrfrv5t1lOjT].md",
+          "key": "yi-ge-ren-liang-zhou-shu-bai-meiyuan-ruhe-xun-chu-dengding-hugging-face-de-moxing-duitan-yanjiuyuan-lu-yuxin-lpxxrnwdhgnsrxuyhrfrv5t1lojt",
+          "show": "42章经",
+          "title": "一个人、两周、数百美元，如何训出登顶 Hugging Face 的模型 | 对谈研究员逯雨鑫",
+          "url": "/wiki/sources/yi-ge-ren-liang-zhou-shu-bai-meiyuan-ruhe-xun-chu-dengding-hugging-face-de-moxing-duitan-yanjiuyuan-lu-yuxin-lpxxrnwdhgnsrxuyhrfrv5t1lojt/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/modeldistillation/"
+    },
     "ModelInfraCoDesign": {
       "episode_count": 4,
       "show_count": 3,
@@ -20874,6 +21065,36 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/modelinfracodesign/"
+    },
+    "ModelPostTrainingBottleneck": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "从蒸馏到合成数据到 RSI，模型竞争的下一个焦点是什么？｜对谈 Evolvent AI 联创孟繁青 [lq1xnhp4MuC3iViDqhVd0Ul77QmI].md",
+          "key": "cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi",
+          "show": "42章经",
+          "title": "从蒸馏到合成数据到 RSI，模型竞争的下一个焦点是什么？｜对谈 Evolvent AI 联创孟繁青",
+          "url": "/wiki/sources/cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi/"
+        },
+        {
+          "episode_file": "vol.114.AI的2025和DeepSeek们的未来 ｜ 对谈复旦张奇教授 [lhVhnvQTVuV4Ln_cCKcpedgldolo].md",
+          "key": "vol-114-ai-de-2025-he-deepseek-men-de-weilai-duitan-fudan-zhangqi-jiaoshou-lhvhnvqtvuv4ln-cckcpedgldolo",
+          "show": "起朱楼宴宾客",
+          "title": "Vol.114 AI的2025和DeepSeek们的未来 | 对谈复旦张奇教授",
+          "url": "/wiki/sources/vol-114-ai-de-2025-he-deepseek-men-de-weilai-duitan-fudan-zhangqi-jiaoshou-lhvhnvqtvuv4ln-cckcpedgldolo/"
+        },
+        {
+          "episode_file": "一个人、两周、数百美元，如何训出登顶 Hugging Face 的模型 ｜ 对谈研究员逯雨鑫 [lpXxRnwDHgNSrxuyHrfrv5t1lOjT].md",
+          "key": "yi-ge-ren-liang-zhou-shu-bai-meiyuan-ruhe-xun-chu-dengding-hugging-face-de-moxing-duitan-yanjiuyuan-lu-yuxin-lpxxrnwdhgnsrxuyhrfrv5t1lojt",
+          "show": "42章经",
+          "title": "一个人、两周、数百美元，如何训出登顶 Hugging Face 的模型 | 对谈研究员逯雨鑫",
+          "url": "/wiki/sources/yi-ge-ren-liang-zhou-shu-bai-meiyuan-ruhe-xun-chu-dengding-hugging-face-de-moxing-duitan-yanjiuyuan-lu-yuxin-lpxxrnwdhgnsrxuyhrfrv5t1lojt/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/modelposttrainingbottleneck/"
     },
     "Moderna": {
       "episode_count": 5,
@@ -24094,6 +24315,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/punitivehairremovalhumiliation/"
+    },
+    "QLoRA": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "一个人、两周、数百美元，如何训出登顶 Hugging Face 的模型 ｜ 对谈研究员逯雨鑫 [lpXxRnwDHgNSrxuyHrfrv5t1lOjT].md",
+          "key": "yi-ge-ren-liang-zhou-shu-bai-meiyuan-ruhe-xun-chu-dengding-hugging-face-de-moxing-duitan-yanjiuyuan-lu-yuxin-lpxxrnwdhgnsrxuyhrfrv5t1lojt",
+          "show": "42章经",
+          "title": "一个人、两周、数百美元，如何训出登顶 Hugging Face 的模型 | 对谈研究员逯雨鑫",
+          "url": "/wiki/sources/yi-ge-ren-liang-zhou-shu-bai-meiyuan-ruhe-xun-chu-dengding-hugging-face-de-moxing-duitan-yanjiuyuan-lu-yuxin-lpxxrnwdhgnsrxuyhrfrv5t1lojt/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/qlora/"
     },
     "QiXiangdong": {
       "episode_count": 1,
@@ -28100,6 +28337,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/sunyutao/"
+    },
+    "SupervisedFineTuning": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "一个人、两周、数百美元，如何训出登顶 Hugging Face 的模型 ｜ 对谈研究员逯雨鑫 [lpXxRnwDHgNSrxuyHrfrv5t1lOjT].md",
+          "key": "yi-ge-ren-liang-zhou-shu-bai-meiyuan-ruhe-xun-chu-dengding-hugging-face-de-moxing-duitan-yanjiuyuan-lu-yuxin-lpxxrnwdhgnsrxuyhrfrv5t1lojt",
+          "show": "42章经",
+          "title": "一个人、两周、数百美元，如何训出登顶 Hugging Face 的模型 | 对谈研究员逯雨鑫",
+          "url": "/wiki/sources/yi-ge-ren-liang-zhou-shu-bai-meiyuan-ruhe-xun-chu-dengding-hugging-face-de-moxing-duitan-yanjiuyuan-lu-yuxin-lpxxrnwdhgnsrxuyhrfrv5t1lojt/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/supervisedfinetuning/"
     },
     "SupplyDepotDecisiveStrike": {
       "episode_count": 2,

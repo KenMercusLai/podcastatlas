@@ -16,25 +16,26 @@ sources:
   - dang-ruanjian-rongyi-bei-chuangzuo-xin-shidai-de-chanpin-chang-shenme-yang-duitan-albert-ltgalbpl0p41d33vvsbaczqrcbdi
   - ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx
   - cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi
-last_updated: 2026-08-09
+  - yi-ge-ren-liang-zhou-shu-bai-meiyuan-ruhe-xun-chu-dengding-hugging-face-de-moxing-duitan-yanjiuyuan-lu-yuxin-lpxxrnwdhgnsrxuyhrfrv5t1lojt
+last_updated: 2026-08-30
 ---
 
 # 42章经
 
 ## Overview
-42章经 is a podcast and interview context represented here by conversations on business, investing, AI products, company building, agents, and model infrastructure. Its guests include economists, technical founders, product builders, and organization operators, with [[QuKai]] also providing a mid-2026 AI industry synthesis.
+42章经 is a podcast and interview context represented here by conversations on business, investing, AI products, company building, agents, open-source infrastructure, and model post-training. Its guests include economists, technical founders, product builders, organization operators, and AI researchers, with [[QuKai]] also providing a mid-2026 AI industry synthesis.
 
 ## Current Profile
-Across the bounded source set, 42章经 functions as an operator-oriented forum for testing AI and business narratives against mechanisms and constraints. Episodes move from market valuation and open-source infrastructure to consumer applications, recruiting, multi-agent work, software creation, and model-training data. The recurring editorial pattern is not simple optimism or pessimism: technological progress is treated as real while valuation, demand, reliability, willingness to pay, organization design, and execution remain separate tests.
+Across the bounded source set, 42章经 functions as an operator-oriented forum for testing AI and business narratives against mechanisms and constraints. Episodes move from market valuation and open-source infrastructure to consumer applications, recruiting, multi-agent work, software creation, synthetic data, and low-cost model post-training. The recurring editorial pattern is not simple optimism or pessimism: technological progress is treated as real while valuation, demand, reliability, willingness to pay, data quality, organization design, and execution remain separate tests.
 
-The profile is increasingly AI-centered. A sequence of founder interviews examines how stronger models and agents change product moats, software interfaces, staffing, pricing, and collaboration, while later synthesis and technical episodes connect those company-level observations to the application-market trough and to post-training, synthetic data, and recursive self-improvement.
+The profile is increasingly AI-centered. A sequence of founder interviews examines how stronger models and agents change product moats, software interfaces, staffing, pricing, and collaboration, while later synthesis and technical episodes connect those company-level observations to the application-market trough, model-training data, and the possibility that application companies will own more domain-specific model capability.
 
 ## Key Characteristics
 - Combines investing and technology analysis by separating underlying capability from valuation, timing, and personal or company risk.
 - Uses founder and operator retrospectives to expose failed assumptions, pivots, and concrete operating constraints rather than relying only on market narratives.
-- Covers the AI stack across consumer products, application businesses, organizational systems, agent collaboration, and model-training infrastructure.
-- Repeatedly tests ambitious AI claims against user pull, payment, maintenance, evaluation, security, and human accountability.
-- Builds continuity across episodes, revisiting themes such as coding democratization, agent-native work, and application-layer pressure from multiple guests and levels of the stack.
+- Covers the AI stack across consumer products, application businesses, organizational systems, agent collaboration, open-source infrastructure, and model-training data.
+- Repeatedly tests ambitious AI claims against user pull, payment, maintenance, evaluation, security, data quality, and human accountability.
+- Builds continuity across episodes, revisiting coding democratization, agent-native work, application-layer pressure, and model capability from multiple levels of the stack.
 
 ## Evidence
 ### Technology, markets, and strategic discipline
@@ -54,20 +55,20 @@ The profile is increasingly AI-centered. A sequence of founder interviews examin
 - [[yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy]] develops [[AgentDynamics]] through a seven-person, roughly forty-agent case involving identity, shared context, task claiming, and culture.
 - [[women-shi-ruhe-dingyi-openclaw-for-teams-xin-chanpin-xingtai-de-duitan-kuse-junior-lianchuang-jian-cto-yuhao-lkp1a0todflxoyycyo3zhrap3ebv]] extends the agent thread into enterprise identity, memory, permissions, security, evaluation, and salary-like pricing through [[Junior]].
 
-### Technical frontier
+### Model training and data
 - [[cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi]] connects [[ModelDistillation]], [[SyntheticAgentData]], environment-based evaluation, and [[RSIData]] to a broader account of future model competition.
+- [[yi-ge-ren-liang-zhou-shu-bai-meiyuan-ruhe-xun-chu-dengding-hugging-face-de-moxing-duitan-yanjiuyuan-lu-yuxin-lpxxrnwdhgnsrxuyhrfrv5t1lojt]] grounds the low-cost practitioner version: one person can use [[SupervisedFineTuning|SFT]], [[QLoRA]], real traces, and benchmark iteration to improve a small model for a narrow target, while data work remains the real bottleneck.
 
 ## Qualifications
-- This profile is synthesized only from the twelve source notes listed in frontmatter; it is not a complete catalog of the show's history, hosts, ownership, audience, or distribution.
+- This profile is synthesized only from the thirteen source notes listed in frontmatter; it is not a complete catalog of the show's history, hosts, ownership, audience, or distribution.
 - Most evidence comes from interviews and therefore records guests' retrospective claims, estimates, and product theses rather than independent verification by the show or the wiki.
-- The bounded set is heavily concentrated in 2026 AI startups and agent products, with one consumer-companion episode from 2024 and limited non-AI finance coverage, so it may overstate the show's overall AI share.
-- Specific figures such as revenue mix, token spending, team size, and agent count remain source-scoped snapshots.
+- The bounded set is heavily concentrated in 2026 AI startups, agents, and model-training topics, with one consumer-companion episode from 2024 and limited non-AI finance coverage, so it may overstate the show's overall AI share.
+- Specific figures such as revenue mix, token spending, team size, agent count, model score, and training cost remain source-scoped snapshots.
 
 ## What Changed
-- The synthesis identifies a recurring method: separate technical possibility from valuation, demand, execution, and risk.
-- The agent interviews are consolidated into a progression from coding-agent action layers to multi-agent collaboration and enterprise AI employees.
-- The two Albert conversations are treated as a continuous inquiry into founder judgment, coding democratization, and software's changing product form.
-- The AI recap and RSI interview extend the profile from startup cases to market-cycle and model-infrastructure analysis.
+- Added a low-cost model post-training practitioner case to the show's existing AI-stack profile.
+- Strengthened the data-quality and evaluation thread that connects application products, agents, and model capability.
+- Clarified that the show now treats application companies as possible future holders of model capability, not only as model consumers.
 
 ## Relationships
 - [[QuKai]] - contributes the source set's show-level AI market synthesis.
@@ -76,5 +77,6 @@ The profile is increasingly AI-centered. A sequence of founder interviews examin
 - [[EVE]] and [[Clico]] - represent contrasting consumer AI product cases centered on maintained user experience.
 - [[Sheet0]], [[SlockAI|Slock.ai]], and [[Junior]] - form a progression from AI-managed work to multi-agent teams and enterprise AI employees.
 - [[Albert]] - connects founder decision discipline with coding democratization and long-tail software creation.
+- [[LuYuxin]] - anchors the individual-builder and small-model post-training case.
 - [[AIApplicationMarketTrough]] - summarizes the market context used to reassess the show's application-startup interviews.
 - [[RecursiveSelfImprovement]] and [[SyntheticAgentData]] - connect the show's product and agent coverage to model-training infrastructure.

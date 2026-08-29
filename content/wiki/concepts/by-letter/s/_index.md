@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 5948
+wiki_total_pages: 5954
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1511,6 +1511,9 @@ wiki_pages:
   - key: "SuperstarCities"
     title: "Superstar Cities"
     url: "/wiki/concepts/superstarcities/"
+  - key: "SupervisedFineTuning"
+    title: "Supervised Fine-Tuning / SFT"
+    url: "/wiki/concepts/supervisedfinetuning/"
   - key: "SupplementBrandConsolidation"
     title: "Supplement Brand Consolidation"
     url: "/wiki/concepts/supplementbrandconsolidation/"

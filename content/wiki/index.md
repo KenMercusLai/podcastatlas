@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [一个人、两周、数百美元，如何训出登顶 Hugging Face 的模型 | 对谈研究员逯雨鑫](sources/yi-ge-ren-liang-zhou-shu-bai-meiyuan-ruhe-xun-chu-dengding-hugging-face-de-moxing-duitan-yanjiuyuan-lu-yuxin-lpxxrnwdhgnsrxuyhrfrv5t1lojt.md) — 42章经 episode with Lu Yuxin on low-cost small-model post-training, data-first SFT, QLoRA, benchmark iteration, application-company model capability, and local AI privacy/cost tradeoffs.
 - [VOL.211 越运动越“垮脸”？整形医生与心血管医生的「健身祛魅」指南](sources/vol-211-yue-yundong-yue-kualian-zhengxing-yisheng-yu-xinxueguan-yisheng-de-jianshen-qumei-zhinan-lsp1xlzq1iapc-qale-mzutigv0u.md) — 这病说来话长 episode with 阿汤, Ander, and 邓教授 on exercise as medical aesthetics, cardiovascular exercise risk, overtraining, sleep/caffeine recovery debt, supplement caution, sport injuries, and BLS/AED preparedness.
 - [《资治通鉴·汉纪》792丨邓康惹怒太后：打狗为什么要看主人？](sources/zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn.md) — 芮淇讲透资治通鉴 episode on 120 CE Emperor An-era regency politics, Deng Kang's warning against Deng outer-relative overreach, Ma Xian's Qiang-front campaign cycle, Liu Bao's crown-prince appointment, and Yan Hou's early hostility.
 - [《资治通鉴·汉纪》793丨历史著名女皇邓绥怎么死的？](sources/zizhi-tongjian-hanji-793-lishi-zhuming-nvhuang-dengsui-zenme-si-de-lszfgj7waiuusrddzjmv5mbrp1i.md) — 芮淇讲透资治通鉴 episode on Empress Dowager Deng's 121 CE illness and death, compound-crisis regency record, Emperor An's personal-rule opening, Du Gen and Cheng Yishi's restoration, and Ma Xian/Goguryeo frontier pressure.
@@ -1704,6 +1705,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [逯雨鑫 / 逯雨昕 / Lu Yuxin](entities/LuYuxin.md) — AI researcher and individual-builder case for low-cost small-model post-training, data-first SFT, and local AI tradeoffs.
 - [广州美术学院 / Guangzhou Academy of Fine Arts](entities/GuangzhouAcademyOfFineArts.md) — Art-school institution whose first-year undergraduate reform anchors EP280's fieldwork education case.
 - [项飙 / Xiang Biao](entities/XiangBiao.md) — Theoretical reference used in EP280 for distinguishing formative experience from passing experience.
 - [Thomas Jefferson](entities/ThomasJefferson.md) — Founder and third U.S. president whose liberty language, party politics, Monticello slaveholding, and Hemings relationship define the episode's contradiction.
@@ -10041,6 +10043,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Low-Cost Model Post-Training / 低成本模型后训](concepts/LowCostModelPostTraining.md) — Narrow-domain model improvement route using an existing base model, SFT, QLoRA, data pipelines, and benchmark iteration at individual or small-team scale.
+- [Data-First Post-Training / 数据优先后训](concepts/DataFirstPostTraining.md) — Operating view that target diagnosis, real traces, data audit, and failure-case iteration dominate post-training results.
+- [Supervised Fine-Tuning / SFT](concepts/SupervisedFineTuning.md) — Post-training method that uses curated examples or trajectories to move model behavior toward a target task or workflow.
+- [QLoRA](concepts/QLoRA.md) — Efficient low-memory fine-tuning approach used here as a low-cost post-training enabler rather than the source of model quality by itself.
+- [Application Company Model Capability / 应用公司模型能力](concepts/ApplicationCompanyModelCapability.md) — Company-strategy pattern where application firms turn user data, evaluation, and post-training into domain-specific model capability.
+- [Local AI Privacy Tradeoff / 本地 AI 隐私取舍](concepts/LocalAIPrivacyTradeoff.md) — Choice to use local models despite weaker capability when privacy, token cost, data control, or refusal-policy independence matters more.
 - [Undergraduate Art Fieldwork / 本科艺术田野](concepts/UndergraduateArtFieldwork.md) — First-year art-school fieldwork model that starts from observation, conversation, notes, and ordinary social sites before artistic output.
 - [Experience-Forming Education / 生成经验的教育](concepts/ExperienceFormingEducation.md) — Higher-education frame for turning encounters into durable judgment and self-understanding rather than passing activities.
 - [Unlearning Exam Expression / 去除应试表达](concepts/UnlearningExamExpression.md) — Education failure-mode repair in which students undo theme-first, PPT-first, and exam-trained expression habits.

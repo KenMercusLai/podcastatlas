@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 5948
+wiki_total_pages: 5954
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -425,6 +425,9 @@ wiki_pages:
   - key: "LocalAgentExecution"
     title: "Local Agent Execution"
     url: "/wiki/concepts/localagentexecution/"
+  - key: "LocalAIPrivacyTradeoff"
+    title: "Local AI Privacy Tradeoff / 本地 AI 隐私取舍"
+    url: "/wiki/concepts/localaiprivacytradeoff/"
   - key: "LocalAIWorkstation"
     title: "Local AI Workstation"
     url: "/wiki/concepts/localaiworkstation/"
@@ -614,6 +617,9 @@ wiki_pages:
   - key: "LowCostExperimentation"
     title: "Low-Cost Experimentation"
     url: "/wiki/concepts/lowcostexperimentation/"
+  - key: "LowCostModelPostTraining"
+    title: "Low-Cost Model Post-Training / 低成本模型后训"
+    url: "/wiki/concepts/lowcostmodelposttraining/"
   - key: "LowCostShortCycleValidation"
     title: "Low-Cost Short-Cycle Validation"
     url: "/wiki/concepts/lowcostshortcyclevalidation/"

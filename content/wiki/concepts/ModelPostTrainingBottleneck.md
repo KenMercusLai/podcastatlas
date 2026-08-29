@@ -1,30 +1,61 @@
 ---
 title: "Model Post-Training Bottleneck"
 type: concept
+knowledge_schema: synthesis-v1
 tags: [ai, model-training, post-training]
-sources: [cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi, vol-114-ai-de-2025-he-deepseek-men-de-weilai-duitan-fudan-zhangqi-jiaoshou-lhvhnvqtvuv4ln-cckcpedgldolo]
-last_updated: 2026-08-09
+sources:
+  - cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi
+  - vol-114-ai-de-2025-he-deepseek-men-de-weilai-duitan-fudan-zhangqi-jiaoshou-lhvhnvqtvuv4ln-cckcpedgldolo
+  - yi-ge-ren-liang-zhou-shu-bai-meiyuan-ruhe-xun-chu-dengding-hugging-face-de-moxing-duitan-yanjiuyuan-lu-yuxin-lpxxrnwdhgnsrxuyhrfrv5t1lojt
+last_updated: 2026-08-30
 ---
 
 # Model Post-Training Bottleneck
 
-[[cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi]] adds a startup-operator view of the bottleneck. [[MengFanqing|孟繁青]] says model-lab post-training workflows can be internally service-like, but the hard part moves to high-quality data: constructing tasks, avoiding leakage, verifying difficulty, building [[EnvironmentBasedAgentBenchmarks]], and iterating until the trained model improves.
+## Definition
+Model post-training bottleneck is the constraint that useful model behavior after pretraining depends on aligned data, evaluation, expert judgment, and iteration, not merely on having a pretrained base model or running a fine-tuning job.
 
-Model post-training bottleneck is the episode's reminder that a useful large model is not finished when pretraining succeeds. In [[vol-114-ai-de-2025-he-deepseek-men-de-weilai-duitan-fudan-zhangqi-jiaoshou-lhvhnvqtvuv4ln-cckcpedgldolo]], [[ZhangQi|张奇]] argues that pretraining supplies much of a model's knowledge, but post-training decides whether that latent knowledge becomes reliable behavior for a task.
+## Current Synthesis
+Across the bounded sources, post-training is the layer where latent model capability becomes reliable behavior for a task. [[ZhangQi|张奇]] frames it as matching the base model's existing knowledge and behavior limits; [[MengFanqing|孟繁青]] frames it as a data, environment, and verification problem inside model labs; [[LuYuxin|逯雨鑫 / 逯雨昕]] makes the same bottleneck visible at individual scale, where training can be cheap but data audit and failure diagnosis consume most of the work.
 
-The bottleneck is partly data matching. Zhang says that if a model has already remembered the relevant knowledge during pretraining, a small amount of aligned training data may unlock usable answers; if not, adding supervised data later can fail or even disturb other behavior. The source therefore treats post-training as a costly, expert-heavy search process rather than a simple "add labels" phase.
+The current judgment is that post-training bottlenecks scale down as well as up. Frontier labs may have expensive tacit recipes, expert labels, RL systems, and internal services, while individuals can use [[SupervisedFineTuning|SFT]] and [[QLoRA]] for narrow improvements. In both cases, the scarce resource is not the button that starts training. It is knowing what behavior should change, whether the data really teaches that behavior, and whether evaluation catches regressions.
 
 ## Key Claims
-- Post-training must match the knowledge and behavior the base model can actually support.
-- More high-quality-looking data is not automatically better if it does not align with what the model already learned.
-- Frontier labs' advantage may include tacit formulas, evaluation know-how, expert labeling, and large-scale trial-and-error after pretraining.
-- [[DeepSeek]] can reduce the visible cost story around pretraining and inference, while the post-training layer can remain expensive and hard to copy.
-- Agent systems intensify the bottleneck because the model must learn reflection, tool use, memory, failure recovery, and environment feedback.
-- The Evolvent AI source adds that the bottleneck can become a data-market problem: model labs may buy external [[SyntheticAgentData]] or [[RSIData]] to diversify distribution and accelerate iteration.
+- Post-training must match the base model's actual knowledge, capacity, and behavior distribution.
+- Data that looks high quality can fail if it pulls the model away from the intended target or exceeds the student model's capacity.
+- The bottleneck often sits in data construction, manual audit, task design, and evaluation rather than in training runtime.
+- Agentic work makes the bottleneck harder because traces must include tools, environment feedback, failure recovery, and verification.
+- Narrow, low-cost post-training can produce real domain gains, but it does not imply general frontier-model progress.
+- Serving, latency, concurrency, and model-routing costs remain separate constraints after a post-trained model improves.
 
-## Connections
-- [[EvolventAI]], [[SyntheticAgentData]], [[RSIData]], and [[DataPricingInAI]] — external data and RSI trace market branch.
-- [[AgentPostTraining]], [[AgentRL]], and [[TrainingComputeAllocation]] — agent-specific versions of the bottleneck.
-- [[DeepSeek]], [[OpenAI]], [[MOSS]], and [[FrontierModelScaling]] — model organizations and scaling context.
-- [[InterleavedThinking]], [[LongHorizonAI]], and [[AgenticWorkflow]] — behaviors that require stronger post-training and evaluation.
-- [[ModelWorkflowFit]], [[AICodingVerification]], and [[HumanJudgmentUnderAI]] — deployment-side evidence that post-training alone is not enough.
+## Evidence
+### Data matching and latent capability
+- [[vol-114-ai-de-2025-he-deepseek-men-de-weilai-duitan-fudan-zhangqi-jiaoshou-lhvhnvqtvuv4ln-cckcpedgldolo]] argues that post-training works best when it unlocks knowledge already present in pretraining, while mismatched supervised data can fail or disturb other behavior.
+
+### Environment and verification
+- [[cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi]] treats post-training leverage as task construction, leakage avoidance, difficulty verification, environment-based benchmarks, and model-improvement checks.
+
+### Individual-scale bottleneck
+- [[yi-ge-ren-liang-zhou-shu-bai-meiyuan-ruhe-xun-chu-dengding-hugging-face-de-moxing-duitan-yanjiuyuan-lu-yuxin-lpxxrnwdhgnsrxuyhrfrv5t1lojt]] reports a few-hundred-dollar, days-to-weeks project where most time went to data review and benchmark-error iteration rather than the hours-long training runs.
+
+### Agent and data-market extension
+- [[cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi]] links the bottleneck to [[SyntheticAgentData]], [[EnvironmentBasedAgentBenchmarks]], and [[RSIData]], while [[yi-ge-ren-liang-zhou-shu-bai-meiyuan-ruhe-xun-chu-dengding-hugging-face-de-moxing-duitan-yanjiuyuan-lu-yuxin-lpxxrnwdhgnsrxuyhrfrv5t1lojt]] shows real trajectories and manual audit as the small-team analogue.
+
+## Counterevidence & Qualifications
+- The newer source qualifies the idea that post-training is always expensive: narrow improvements can be cheap when the target is specific and the builder accepts regression risk elsewhere.
+- The sources do not prove a universal data-size rule; useful data volume depends on model size, target behavior, evaluation quality, and how much relevant ability is already latent.
+- Strong benchmark movement can still be overfit or too narrow unless checked against real workflow value and regressions.
+- Post-training is not a substitute for frontier pretraining when the base model lacks the underlying knowledge or capability.
+
+## What Changed
+- Migrated the page to `synthesis-v1` and reorganized evidence by claim rather than source arrival.
+- Added the individual-builder case showing that the same bottleneck appears even when training is cheap.
+- Clarified the boundary between narrow, low-cost improvement and general frontier capability.
+
+## Related Concepts
+- [[DataFirstPostTraining]] - operational discipline for addressing this bottleneck.
+- [[LowCostModelPostTraining]] - small-team route that makes the bottleneck visible at low budget.
+- [[SupervisedFineTuning]] - common method that still depends on data and evaluation quality.
+- [[ModelDistillation]] - teacher-student transfer pattern constrained by the same data and capacity limits.
+- [[AgentPostTraining]] - harder agent-specific form involving tools, traces, and recovery behavior.
+- [[AIVerification]] - validation layer needed to detect real improvement and regressions.
