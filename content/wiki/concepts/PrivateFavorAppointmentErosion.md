@@ -8,16 +8,19 @@ sources:
   - zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv
   - zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf
   - zizhi-tongjian-hanji-796-donghan-mingchen-vs-diwang-shenbianren-shui-neng-ying-lkyzp2v-cjysd65syoyuldlbdb5p
+  - zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1
 last_updated: 2026-08-29
 ---
 
 ## Definition
 
-私恩任官侵蚀 / Private-Favor Appointment Erosion is the institutional failure in which titles, offices, salaries, and recommendation channels are used to repay intimacy, kinship, palace service, or near-attendant influence, weakening office and title as public trusts.
+私恩任官侵蚀 / Private-Favor Appointment Erosion is the institutional failure in which titles, offices, salaries, military access, and recommendation channels are used to repay intimacy, kinship, palace service, accession service, or near-attendant influence, weakening office and title as public trusts.
 
 ## Current Synthesis
 
-The earliest current Emperor An layer now shows private-favor appointment erosion as title succession, office access, household reward, and ignored remonstrance. In [[zizhi-tongjian-hanji-796-donghan-mingchen-vs-diwang-shenbianren-shui-neng-ying-lkyzp2v-cjysd65syoyuldlbdb5p|Hanji 796]], [[EmperorAnOfHan|汉安帝]] enfeoffs his wet nurse [[WangShengPalaceActorLateHan|王圣]] as Yewang Jun; Wang's daughter [[BoRongLateHan|伯荣]] becomes tied to [[LiuGuiLateHan|刘瑰]]'s marriage, shizhong office, and Shaoyang marquisate succession. [[YangZhenLateHan|杨震]] objects that Liu Gui's succession bypasses ordinary title order while Liu Wei is alive.
+[[zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1|Hanji 795]] now supplies the earliest current Emperor An layer. The fall of the [[DengFamilyAnEraLateHan|Deng family]] is supposed to remove outer-relative domination, but [[EmperorAnOfHan|Emperor An]] immediately rewards or empowers new Geng, Song, and Yan relatives, accession-service favorites [[JiangJingLateHan|Jiang Jing]] and [[LiRunLateHan|Li Run]], and palace-household actors [[WangShengPalaceActorLateHan|Wang Sheng]], [[BoRongLateHan|Bo Rong]], and [[FanFengEunuchLateHan|Fan Feng]]. [[YangZhenLateHan|Yang Zhen]] warns that Wang Sheng's nursing reward, Bo Rong's request traffic, and palace sycophancy are already corrupting public authority, but An exposes the memorial to the targets.
+
+[[zizhi-tongjian-hanji-796-donghan-mingchen-vs-diwang-shenbianren-shui-neng-ying-lkyzp2v-cjysd65syoyuldlbdb5p|Hanji 796]] then shows private-favor appointment erosion as title succession, office access, household reward, and ignored remonstrance. An enfeoffs Wang Sheng as Yewang Jun; Wang's daughter Bo Rong becomes tied to [[LiuGuiLateHan|刘瑰]]'s marriage, shizhong office, and Shaoyang marquisate succession. Yang Zhen objects that Liu Gui's succession bypasses ordinary title order while Liu Wei is alive.
 
 The same source broadens the problem through [[ZhaiGuiLateHan|翟瑰]] and [[FengShiFavoriteLateHan|冯石]]. Zhai warns that offices, titles, salary, wealth, and authority are leaving public court control for private households, using Dou and Deng outer-relative precedent plus fiscal depletion as warning evidence. Later in the same episode, An stays and feasts at Feng Shi's house for more than ten days, rewards him, and appoints Feng Shi's son and brothers. Private favor is therefore not just a request channel; it becomes a way to distribute title, office, wealth, and household advancement.
 
@@ -36,13 +39,14 @@ Together, the sources make the concept a boundary between private gratitude and 
 - Public office and public title differ from private reward because they change land, authority, salary, households, local administration, and legal order.
 - Private-favor appointment pressure can be soft and deniable, using guessed imperial intent, kinship prestige, palace trust, household intimacy, or marriage ties without a written order.
 - Personal gratitude is institutionally safer when expressed as bounded gifts rather than as titles, salaries, or governing authority.
-- Empress-kin, wet-nurse, eunuch, attendant, Shangshu-family, and favored-household channels can pressure title and appointment systems even when no explicit command is visible.
+- Post-purge replacement can reproduce the same problem it claims to solve when old family power is replaced by new kin, accession-service, eunuch, wet-nurse, and favorite-household channels.
 - Small offices and narrow title exceptions still matter because precedent weakens standards for the next favor request.
 - Appointment erosion is cumulative: one exception can become a rule-like precedent that makes later correction harder.
 - The concept is a precondition for broader [[CourtOfficeCapture|court office capture]] rather than identical with full armed or monetary capture of offices.
 
 ## Evidence
 
+- Post-Deng replacement field: [[zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1|Hanji 795]] says Geng, Song, and Yan relatives, Jiang Jing, Li Run, Wang Sheng, Bo Rong, and Fan Feng gain power after the Deng fall, while Yang Zhen warns that access and reward are leaving public authority vulnerable to private favor.
 - Early title and household pattern: [[zizhi-tongjian-hanji-796-donghan-mingchen-vs-diwang-shenbianren-shui-neng-ying-lkyzp2v-cjysd65syoyuldlbdb5p|Hanji 796]] says Wang Sheng's enfeoffment, Bo Rong's favored status, and Liu Gui's title succession prompt Yang Zhen's objection to public title order being distorted by private household ties.
 - Public-control and fiscal warning: [[zizhi-tongjian-hanji-796-donghan-mingchen-vs-diwang-shenbianren-shui-neng-ying-lkyzp2v-cjysd65syoyuldlbdb5p|Hanji 796]] says Zhai Gui warns that office, title, salary, wealth, and power are moving into private hands while treasury and people are exhausted.
 - Household reward appointments: [[zizhi-tongjian-hanji-796-donghan-mingchen-vs-diwang-shenbianren-shui-neng-ying-lkyzp2v-cjysd65syoyuldlbdb5p|Hanji 796]] says An stays at Feng Shi's house, rewards him, and appoints Feng Shi's son and brothers.
@@ -55,11 +59,12 @@ Together, the sources make the concept a boundary between private gratitude and 
 
 ## Counterevidence & Qualifications
 
-This concept should remain narrower than a general theory of corruption. Hanji 796, Hanji 799, Hanji 813, and Hanji 814 all preserve a boundary: not every private favor is equally damaging, and bounded support or gifts are less dangerous than title, salary, or office grants. Hanji 796 does not prove Liu Gui's full legal procedure or Wang Sheng's personal management of the title case; Hanji 799 does not prove that Li Run personally initiated the request for his elder brother. The claim is institutional rather than biographical: the public meaning of title and office changes when grants follow private closeness rather than merit, edict procedure, or tested fit.
+This concept should remain narrower than a general theory of corruption. Hanji 795, Hanji 796, Hanji 799, Hanji 813, and Hanji 814 all preserve a boundary: not every private favor is equally damaging, and bounded support or gifts are less dangerous than title, salary, military access, or office grants. Hanji 795 does not prove every new post-Deng appointee was individually unfit; Hanji 796 does not prove Liu Gui's full legal procedure or Wang Sheng's personal management of the title case; Hanji 799 does not prove that Li Run personally initiated the request for his elder brother. The claim is institutional rather than biographical: the public meaning of title and office changes when grants follow private closeness rather than merit, edict procedure, or tested fit.
 
 ## What Changed
 
-- Added Hanji 796 as the earliest Emperor An layer, with Wang Sheng's title, Bo Rong and Liu Gui's title-succession field, Zhai Gui's warning, and Feng Shi's household appointments.
+- Added Hanji 795 as the new earliest Emperor An layer, with post-Deng Geng/Song/Yan, Jiang Jing/Li Run, Wang Sheng/Bo Rong, and Fan Feng access as a replacement-field problem.
+- Reframed Hanji 796's Wang Sheng title, Bo Rong and Liu Gui title-succession field, Zhai Gui warning, and Feng Shi household appointments as the next expression of a pattern already visible after the Deng purge.
 - Reframed Hanji 799's appointment requests and Wang Sheng mansion as continuations of a pattern already visible before Yang Zhen's later mansion memorial.
 - Preserved Zuo Xiong's Hanji 813 title-boundary argument and Li Gu's Hanji 814 broader appointment warning.
 
@@ -70,5 +75,6 @@ This concept should remain narrower than a general theory of corruption. Hanji 7
 - [[PalaceProximityPower|宫廷近身权力]] - access mechanism that lets intimacy and household service pressure appointment outcomes.
 - [[PalaceAccessMonopoly|宫廷接触垄断]] - related access structure through which favored insiders can shape what reaches the ruler.
 - [[OuterRelativeCourtPower|外戚专权与清算]] - kinship-power structure visible in Geng Bao, Yan Xian, Dou-Deng precedent, and Liang-family title pressure.
+- [[ProcedurelessPoliticalPurge|无程序政治清算]] - upstream purge failure that creates a replacement field for new private-favor appointments.
 - [[CourtOfficeCapture|朝廷开府任官失序]] - later and broader appointment-order collapse for which private-favor appointment is an early precondition.
 - [[MingqiLegitimacy|名器合法性]] - semantic neighbor because titles and offices lose public meaning when granted as private favors.

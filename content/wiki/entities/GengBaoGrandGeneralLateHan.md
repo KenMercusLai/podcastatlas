@@ -8,14 +8,17 @@ sources:
   - zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy
   - zizhi-tongjian-hanji-800-yangzhen-zhisi-yi-chang-jianchen-dui-qingguan-de-jiaosha-lk9qcfs4xl-rjd-zpwdtsblybxa8
   - zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf
+  - zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1
 last_updated: 2026-08-29
 ---
 
 ## Overview
 
-耿宝 / Geng Bao is the high-prestige An-era relative whose profile now begins with a failed appointment request before he becomes a formal accuser in the [[YangZhenLateHan|Yang Zhen]] crisis and later dies in the Yan-backed succession purge. [[zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf|Hanji 799]] shows him asking Yang to recommend [[LiRunLateHan|李润]]'s elder brother; [[zizhi-tongjian-hanji-800-yangzhen-zhisi-yi-chang-jianchen-dui-qingguan-de-jiaosha-lk9qcfs4xl-rjd-zpwdtsblybxa8|Hanji 800]] shows him used to accuse Yang after [[FanFengEunuchLateHan|Fan Feng]]'s group has already slandered him; [[zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy|Hanji 801]] shows him complying with [[EmperorAnOfHan|Emperor An]]'s move against [[EmperorShunOfHan|Liu Bao]]; [[zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj|Hanji 802]] shows him removed when [[YanXianLateHan|Yan Xian]] monopolizes the new accession.
+耿宝 / Geng Bao is the high-prestige An-era relative whose profile now begins as an early post-Deng military-favor beneficiary before he becomes an appointment-pressure actor, a formal accuser in the [[YangZhenLateHan|Yang Zhen]] crisis, and a casualty of the Yan-backed succession purge. [[zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1|Hanji 795]] introduces him as Mouping Hou and Emperor An's maternal-side kin receiving Yulin command access after the [[DengFamilyAnEraLateHan|Deng family]] falls. Hanji 799-802 then show his appointment request, Yang accusation, Liu Bao deposition compliance, Grand General rank, and removal when [[YanXianLateHan|Yan Xian]] monopolizes the new accession.
 
 ## Current Profile
+
+[[zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1|Hanji 795]] places Geng Bao in the first post-Deng replacement field. As the brother of Emperor An's principal mother Geng Guiren and holder of the Mouping Hou title, he is appointed to supervise Yulin left-army chariot and cavalry forces. The source uses this appointment with Song and Yan-family rewards to show that removing Deng outer relatives does not end outer-relative power; it opens space for a new maternal-side network.
 
 [[zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf|Hanji 799]] places Geng Bao before the fatal Yang Zhen case as dahonglu and a close imperial relative. He asks Yang to have the Three Excellencies recruit Li Run's elder brother, saying Li Run is trusted by the emperor and that he is only guessing imperial intent. Yang answers that a genuine imperial wish should arrive as an edict. Geng becomes angry, and the source reads the request as either Li Run's request or Geng's attempt to build palace favor.
 
@@ -29,16 +32,17 @@ The same source gives Geng Bao an internal rebuke through [[LaiLiLateHan|Lai Li]
 
 ## Key Characteristics
 
-- Favored close relative of Emperor An whose status can pressure appointment channels and lend weight to accusations.
+- Favored close relative of Emperor An whose early post-Deng military access, later appointment pressure, and accusation role convert family status into public power.
 - Dahonglu who seeks a post for Li Run's elder brother before Yang Zhen refuses the request.
 - Formal accuser used by Fan Feng's side after Yang Zhen is stripped of the taiwei seal.
 - High-status An-era actor later elevated to Grand General in 124 CE.
 - Compliant senior participant in the deposition-debate environment around Liu Bao.
 - Threat to Yan Xian because military prestige and senior office complicate Yan-family monopoly.
-- Identity-disambiguation case distinct from [[GengBaoLateHan|耿包]], the later Yuan Shao-side adviser.
+- Death target whose removal shows how one outer-relative monopoly destroys another.
 
 ## Evidence
 
+- Post-Deng military access: [[zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1|Hanji 795]] identifies Geng Bao as Emperor An's maternal-side kin and says he receives Yulin left-army chariot and cavalry supervision after the Deng fall.
 - Appointment request: [[zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf|Hanji 799]] says Geng Bao asks Yang Zhen to recommend Li Run's elder brother and becomes angry after Yang refuses without an edict.
 - Yang Zhen accusation: [[zizhi-tongjian-hanji-800-yangzhen-zhisi-yi-chang-jianchen-dui-qingguan-de-jiaosha-lk9qcfs4xl-rjd-zpwdtsblybxa8|Hanji 800]] says Fan Feng's side directs Geng Bao to accuse Yang Zhen of refusing guilt and harboring resentment.
 - Lai Li rebuke: [[zizhi-tongjian-hanji-800-yangzhen-zhisi-yi-chang-jianchen-dui-qingguan-de-jiaosha-lk9qcfs4xl-rjd-zpwdtsblybxa8|Hanji 800]] says Lai Li criticizes Geng Bao for siding with corrupt actors against loyal men.
@@ -48,11 +52,12 @@ The same source gives Geng Bao an internal rebuke through [[LaiLiLateHan|Lai Li]
 
 ## Qualifications
 
-This page is bounded to Hanji 799, Hanji 800, Hanji 801, and Hanji 802. It does not reconstruct Geng Bao's full family background, formal judicial process, exact private motive in Liu Bao's demotion, or the exact charges against each accused person. Hanji 799 and Hanji 800 call him dahonglu in the Yang Zhen sequence; Hanji 801 and Hanji 802 supply the later Grand General layer. The page uses `GengBaoGrandGeneralLateHan` because the existing `GengBaoLateHan` route belongs to a different late-Han figure named 耿包.
+This page is bounded to Hanji 799, Hanji 800, Hanji 801, Hanji 802, and Hanji 795. It does not reconstruct Geng Bao's full family background, formal judicial process, exact private motive in Liu Bao's demotion, or the exact charges against each accused person. Hanji 795 supplies the maternal-relative and Yulin command layer; Hanji 799 and Hanji 800 call him dahonglu in the Yang Zhen sequence; Hanji 801 and Hanji 802 supply the later Grand General layer. The page uses `GengBaoGrandGeneralLateHan` because the existing `GengBaoLateHan` route belongs to a different late-Han figure named 耿包.
 
 ## What Changed
 
-- Added Hanji 799 as Geng Bao's appointment-request layer before his formal accusation against Yang Zhen.
+- Added Hanji 795 as Geng Bao's new earliest current layer: maternal-side kinship, Mouping Hou status, and Yulin military access after the Deng fall.
+- Preserved Hanji 799 as Geng Bao's appointment-request layer before his formal accusation against Yang Zhen.
 - Preserved Hanji 800 as Geng Bao's role in the Yang Zhen destruction sequence and Lai Li's rebuke of him.
 - Preserved Hanji 801 as Geng Bao's 124 CE elevation and compliant deposition-debate layer.
 - Preserved Hanji 802 as the Yan-backed succession purge and disambiguation layer.
@@ -60,6 +65,7 @@ This page is bounded to Hanji 799, Hanji 800, Hanji 801, and Hanji 802. It does 
 ## Relationships
 
 - [[EmperorAnOfHan|汉安帝]] - ruler under whom Geng Bao is favored, used against Yang Zhen, and elevated.
+- [[DengFamilyAnEraLateHan|邓氏]] - defeated outer-relative network whose removal opens the space in which Geng Bao rises.
 - [[YangZhenLateHan|杨震]] - loyal official who refuses Geng Bao's appointment request before Geng helps remove him.
 - [[LiRunLateHan|李润]] - trusted palace eunuch whose elder brother Geng Bao seeks to place.
 - [[LaiLiLateHan|来历]] - official who criticizes Geng Bao for injuring loyal men.

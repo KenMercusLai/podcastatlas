@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》795丨邓家灭亡后，为何举朝为他们鸣冤？](sources/zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1.md) — 芮淇讲透资治通鉴 episode on Emperor An's partial halt to the Deng-family purge, Zhu Chong's coffin memorial, Chen Zhong's post-Deng accusations, and the immediate rise of Geng/Song/Yan relatives, Jiang Jing, Li Run, Wang Sheng, Bo Rong, Fan Feng, and Yang Zhen's anti-favorite warning.
 - [EP280 广州美院访问记：当美术生开始做田野调查](sources/ep280-guangzhou-meiyuan-fangwenji-dang-meishusheng-kaishi-zuo-tianye-diaocha-lr4-jmpdo-oo7w8sdmcgcw-chqc9.md) — Talk三联 episode on Guangzhou Academy of Fine Arts' first-year art-fieldwork reform, student social fear, field notes, experience formation, teacher-student co-learning, and the limits imposed by grades, specialization, and employment pressure.
 - [686. Jefferson: The Betrayal of Liberty (Part 4)](sources/686-jefferson-the-betrayal-of-liberty-part-4-glt6535571769.md) — The Rest Is History episode on Thomas Jefferson's liberty language, first-party politics, presidency, Sally Hemings evidence, Monticello, slavery, and founding memory.
 - [Essentials: The Science & Treatment of Obsessive Compulsive Disorder (OCD)](sources/essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647.md) — Huberman Lab Essentials episode on OCD obsessions, compulsions, anxiety reinforcement, corticostriatal-thalamic circuitry, Y-BOCS assessment, exposure-response prevention, SSRIs, TMS, and clinical supervision boundaries.
@@ -1713,6 +1714,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lewis and Clark Expedition](entities/LewisAndClarkExpedition.md) — Jefferson-commissioned western exploration project linking scientific inquiry and imperial ambition.
 - [Democratic-Republican Party](entities/DemocraticRepublicanParty.md) — Jefferson's founding-era party vehicle opposed to Hamiltonian Federalists.
 - [Federalist Party](entities/FederalistParty.md) — Founding-era party rival to Jefferson's Democratic-Republicans in the 1796 and 1800 contests.
+- [和熹邓皇后 / Empress Dowager Deng (late Han)](entities/EmpressDowagerDengLateHan.md) — Fallen An-era regent whose Deng household is defended by Zhu Chong after a purge criticized for missing proof and interrogation.
+- [邓氏 / Deng Family (An-era late Han)](entities/DengFamilyAnEraLateHan.md) — Former An-era outer-relative network whose purge, partial burial repair, and replacement by new favorite families anchor Hanji 795.
+- [朱宠 / Zhu Chong (late Han)](entities/ZhuChongLateHan.md) — Da sinong who carries a coffin to memorial for the Deng family and forces partial correction without escaping dismissal.
+- [江京 / Jiang Jing (late Han)](entities/JiangJingLateHan.md) — Accession-service palace favorite rewarded as Duxiang Hou, Zhongchangshi, and Da Changqiu after the Deng fall.
 - [高句丽 / Goguryeo (late Han)](entities/GoguryeoLateHan.md) — Frontier polity whose 121-122 CE Xuantu attack, royal succession, and later submission frame Chen Zhong's mourning-restraint advice.
 - [姚光 / Yao Guang (late Han)](entities/YaoGuangLateHan.md) — Xuantu administrator whose proposed attack during Goguryeo royal mourning is rejected and who is later killed by a forged edict.
 - [冯焕 / Feng Huan (late Han)](entities/FengHuanLateHan.md) — Youzhou inspector who survives the same forged-edict revenge case after his son challenges the document.
@@ -10036,6 +10041,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Jeffersonian Liberty Contradiction](concepts/JeffersonianLibertyContradiction.md) — Problem of Jefferson articulating universal liberty while preserving a slaveholding household and estate.
 - [Coerced Consent Under Slavery](concepts/CoercedConsentUnderSlavery.md) — Frame for why an enslaved person's intimate choices under ownership cannot be read as ordinary free consent.
 - [Founding Father Reputation Revision](concepts/FoundingFatherReputationRevision.md) — Evidence-bound reassessment of revered founders when minimized harms become central.
+- [Procedureless Political Purge / 无程序政治清算](concepts/ProcedurelessPoliticalPurge.md) — Pattern where power-transfer cleanup may be politically intelligible yet illegitimate when proof, interrogation, and charge specificity are missing.
 - [Power Monopoly Backfire / 一家独大式权力反噬](concepts/PowerMonopolyBackfire.md) — Hanji 802 court-politics pattern where a winning faction destroys balance by excluding allies and threatening remaining powerholders.
 - [Heir Support Threat Perception / 储君拥戴威胁感](concepts/HeirSupportThreatPerception.md) — Succession-risk pattern where visible official support for an heir is read as a rival political center.
 - [Defeated Dowager Legitimacy Management / 失势太后名分处置](concepts/DefeatedDowagerLegitimacyManagement.md) — Pattern where a winning succession camp protects its own legitimacy by ritually honoring a defeated dowager while containing her former power network.
@@ -10053,7 +10059,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI-Assisted Writing Disclosure](concepts/AIAssistedWritingDisclosure.md) — Norm question for when public writers should disclose AI drafting, editing, or structuring help under a signed byline.
 - [Persistent Cloud Agents](concepts/PersistentCloudAgents.md) — Agent pattern where delegated work continues in cloud infrastructure after the user's local session ends.
 - [Cancer Immunotherapy Access](concepts/CancerImmunotherapyAccess.md) — Cost, patent, regulatory, right-to-try, and patient-access boundary around personalized cancer immunotherapy.
-- [私恩任官侵蚀 / Private-Favor Appointment Erosion](concepts/PrivateFavorAppointmentErosion.md) — Pattern where rulers or palace interests convert intimate favor, kinship, wet-nurse status, household proximity, marriage ties, and guessed imperial intent into public titles or offices.
+- [私恩任官侵蚀 / Private-Favor Appointment Erosion](concepts/PrivateFavorAppointmentErosion.md) — Pattern where rulers or palace interests convert post-purge replacement, intimate favor, kinship, wet-nurse status, household proximity, marriage ties, and guessed imperial intent into public titles or offices.
 - [Ministerial Dignity Protection / 九卿体面保护](concepts/MinisterialDignityProtection.md) — Shun-era institutional repair that treats beating or humiliating nine ministers as damage to public office dignity rather than ordinary discipline.
 - [Court-Core Rectification / 朝廷核心校正式治理](concepts/CourtCoreRectification.md) — Governance pattern where advisers argue that the emperor, Shangshu, central court, and palace access must be repaired before outer administration can be corrected.
 - [Beneficial Governance Delivery / 惠民实效治理](concepts/BeneficialGovernanceDelivery.md) — Governance standard that measures rule by whether people actually receive lighter burdens, stable households, protected farming time, and usable law rather than repeated promises or formal regulations alone.

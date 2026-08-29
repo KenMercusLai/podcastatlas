@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 8324
+wiki_total_pages: 8328
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -1052,6 +1052,9 @@ wiki_pages:
   - key: "DengTuzhi"
     title: "邓图直 / Deng Tuzhi"
     url: "/wiki/entities/dengtuzhi/"
+  - key: "DengFamilyAnEraLateHan"
+    title: "邓氏 / Deng Family (An-era late Han)"
+    url: "/wiki/entities/dengfamilyaneralatehan/"
   - key: "DengJiLateHan"
     title: "邓济 / Deng Ji (late Han)"
     url: "/wiki/entities/dengjilatehan/"

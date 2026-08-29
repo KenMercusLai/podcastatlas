@@ -9,16 +9,19 @@ sources:
   - zizhi-tongjian-hanji-800-yangzhen-zhisi-yi-chang-jianchen-dui-qingguan-de-jiaosha-lk9qcfs4xl-rjd-zpwdtsblybxa8
   - zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf
   - zizhi-tongjian-hanji-796-donghan-mingchen-vs-diwang-shenbianren-shui-neng-ying-lkyzp2v-cjysd65syoyuldlbdb5p
+  - zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1
 last_updated: 2026-08-29
 ---
 
 ## Overview
 
-杨震 / Yang Zhen now appears as a late-Han moral official whose conflict with [[EmperorAnOfHan|汉安帝]]'s favorites begins in the 120 CE Wang Sheng, Bo Rong, and Liu Gui title-succession field. [[zizhi-tongjian-hanji-796-donghan-mingchen-vs-diwang-shenbianren-shui-neng-ying-lkyzp2v-cjysd65syoyuldlbdb5p|Hanji 796]] supplies his early reputation and first anti-favorite title-order memorial; Hanji 799-800 then escalate from appointment refusals and Wang Sheng's mansion into forged-edict exposure, removal, and suicide. Hanji 805 records [[EmperorShunOfHan|汉顺帝]]'s vindication, while Hanji 914 shows Yang-family reputation still politically legible under [[EmperorLingOfHan|汉灵帝]].
+杨震 / Yang Zhen now appears as a late-Han moral official whose conflict with [[EmperorAnOfHan|汉安帝]]'s favorites begins immediately after the [[DengFamilyAnEraLateHan|Deng family]] purge. [[zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1|Hanji 795]] has him warn against [[WangShengPalaceActorLateHan|Wang Sheng]], [[BoRongLateHan|Bo Rong]], and the new palace-favorite access field; [[zizhi-tongjian-hanji-796-donghan-mingchen-vs-diwang-shenbianren-shui-neng-ying-lkyzp2v-cjysd65syoyuldlbdb5p|Hanji 796]] adds his early reputation and title-order memorial. Hanji 799-800 then escalate from appointment refusals and Wang Sheng's mansion into forged-edict exposure, removal, and suicide. Hanji 805 records [[EmperorShunOfHan|汉顺帝]]'s vindication, while Hanji 914 shows Yang-family reputation still politically legible under [[EmperorLingOfHan|汉灵帝]].
 
 ## Current Profile
 
-Hanji 796 supplies Yang's early profile before the wiki's previous An-era layers. The episode presents him as a classical scholar who studied intensely, gained local reputation, entered office around age fifty, remained clean in office, and was remembered through the "Four Knows" refusal of bribery. This reputation matters because it makes his later confrontation with palace favorites more than a factional quarrel.
+[[zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1|Hanji 795]] supplies Yang's first current anti-favorite layer. In the post-Deng transition, he argues that public authority requires worthy people and removal of the wicked, but that talented officials remain outside while sycophants gather near the palace. He names Wang Sheng as overrewarded for nursing Emperor An, condemns Bo Rong's request traffic and bribe transmission, and asks that Wang Sheng be sent out of the palace and Bo Rong's access be cut off. An leaks the memorial to the targets, making Yang's correction dangerous from the start.
+
+[[zizhi-tongjian-hanji-796-donghan-mingchen-vs-diwang-shenbianren-shui-neng-ying-lkyzp2v-cjysd65syoyuldlbdb5p|Hanji 796]] then supplies Yang's reputation profile before the wiki's later An-era layers. The episode presents him as a classical scholar who studied intensely, gained local reputation, entered office around age fifty, remained clean in office, and was remembered through the "Four Knows" refusal of bribery. This reputation matters because it makes his later confrontation with palace favorites more than a factional quarrel.
 
 In the same source, Yang objects to [[LiuGuiLateHan|刘瑰]]'s Shaoyang marquisate succession after Liu Gui marries [[BoRongLateHan|伯荣]], daughter of An's wet nurse [[WangShengPalaceActorLateHan|王圣]]. Yang argues that ordinary succession norms favor father-to-son or elder-brother-to-younger-brother order and that Liu Hu's younger brother Liu Wei is still alive. His objection treats favorite-linked marriage and palace proximity as a threat to public title order.
 
@@ -35,7 +38,7 @@ Yang also tries to save [[ZhaoTengLateHan|赵腾]] after Zhao's direct criticism
 ## Key Characteristics
 
 - Upright scholar-official whose moral reputation is anchored by learning, late office entry, clean service, and the Four Knows bribery refusal.
-- Early anti-favorite remonstrant who challenges Wang Sheng, Bo Rong, and Liu Gui's disruption of title succession.
+- Early anti-favorite remonstrant who challenges Wang Sheng and Bo Rong's palace access before later opposing Liu Gui's favorite-linked title succession.
 - Taiwei who treats appointment requests without edict authority as improper private access.
 - Court critic who attacks wet-nurse luxury construction, favorite solicitation, bribery, and corrupt office placement.
 - Omen-coded remonstrant who uses disaster signs and forged-order evidence against eunuch and favorite power.
@@ -44,6 +47,7 @@ Yang also tries to save [[ZhaoTengLateHan|赵腾]] after Zhao's direct criticism
 
 ## Evidence
 
+- Wet-nurse and Bo Rong access memorial: [[zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1|Hanji 795]] says Yang asks Emperor An to remove Wang Sheng from palace proximity and cut off Bo Rong's access because nursing reward, request traffic, and bribe transmission are corrupting public authority.
 - Reputation and first title-order memorial: [[zizhi-tongjian-hanji-796-donghan-mingchen-vs-diwang-shenbianren-shui-neng-ying-lkyzp2v-cjysd65syoyuldlbdb5p|Hanji 796]] presents Yang's scholarly and clean-official reputation and says he objects to Liu Gui's Bo Rong-linked succession over Liu Wei.
 - Appointment-procedure boundary: [[zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf|Hanji 799]] says Yang refuses Geng Bao's request for Li Run's elder brother and Yan Xian's request for a close person because neither has imperial instruction.
 - Wang Sheng and favorite-abuse memorial: [[zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf|Hanji 799]] says Yang criticizes Wang Sheng's mansion, Zhou Guang and Xie Yun's solicitation, bribery, and corrupt office placement, but Emperor An does not listen.
@@ -54,19 +58,19 @@ Yang also tries to save [[ZhaoTengLateHan|赵腾]] after Zhao's direct criticism
 
 ## Qualifications
 
-This page is bounded to Hanji 914, Hanji 805, Hanji 800, Hanji 799, and Hanji 796, not a complete Yang Zhen biography. Hanji 796 supplies an earlier Wang Sheng/Bo Rong/Liu Gui title-order layer and a reputation capsule; Hanji 799 supplies appointment and mansion conflicts; Hanji 800 supplies the fatal death narrative. Hanji 805's large-bird event is preserved as a source-reported omen story, not independent natural evidence. The source-scoped people around Yang's sons, students, Li Run's elder brother, Yi Liang, and Liu Wei remain unexpanded unless later evidence warrants pages.
+This page is bounded to Hanji 914, Hanji 805, Hanji 800, Hanji 799, Hanji 796, and Hanji 795, not a complete Yang Zhen biography. Hanji 795 supplies the first current Wang Sheng/Bo Rong access memorial and shows Emperor An exposing Yang's warning to the target network; Hanji 796 supplies an additional title-order layer and a reputation capsule; Hanji 799 supplies appointment and mansion conflicts; Hanji 800 supplies the fatal death narrative. Hanji 805's large-bird event is preserved as a source-reported omen story, not independent natural evidence. The source-scoped people around Yang's sons, students, Li Run's elder brother, Yi Liang, and Liu Wei remain unexpanded unless later evidence warrants pages.
 
 ## What Changed
 
-- Added Hanji 796 as Yang Zhen's earliest current layer, including reputation background and the Liu Gui title-succession objection.
-- Reframed Hanji 799's appointment refusals and Wang Sheng mansion memorial as continuations of a conflict already visible in 120 CE.
+- Added Hanji 795 as Yang Zhen's earliest current anti-favorite layer, including the Wang Sheng removal request, Bo Rong access critique, and Emperor An's leak of the memorial.
+- Reframed Hanji 796's reputation and Liu Gui title-succession objection as the next step in a conflict already visible after the Deng purge.
 - Preserved Hanji 800 as the fatal forged-edict and Zhao Teng escalation, plus Hanji 805 and Hanji 914 as repair and reputation layers.
 
 ## Relationships
 
-- [[EmperorAnOfHan|汉安帝]] - ruler who ignores Yang Zhen's 120 and 123 CE anti-favorite memorials, executes Zhao Teng, and strips Yang's taiwei seal.
-- [[WangShengPalaceActorLateHan|王圣]] - wet nurse whose title and mansion become targets of Yang's criticism.
-- [[BoRongLateHan|伯荣]] - Wang Sheng's daughter whose favored household position connects to Liu Gui's title path.
+- [[EmperorAnOfHan|汉安帝]] - ruler who leaks Yang's early anti-favorite memorial, ignores later warnings, executes Zhao Teng, and strips Yang's taiwei seal.
+- [[WangShengPalaceActorLateHan|王圣]] - wet nurse whose palace access, title, and mansion become targets of Yang's criticism.
+- [[BoRongLateHan|伯荣]] - Wang Sheng's daughter whose bribe traffic, palace access, and favored household position connect to Liu Gui's title path.
 - [[LiuGuiLateHan|刘瑰]] - title beneficiary whose succession Yang challenges.
 - [[ZhaiGuiLateHan|翟瑰]] - Shangshu whose memorial reinforces Yang's early anti-favorite warning.
 - [[GengBaoGrandGeneralLateHan|耿宝]] - high-status relative whose appointment request Yang refuses before Geng later accuses him.

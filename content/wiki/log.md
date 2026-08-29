@@ -13161,6 +13161,10 @@ Ingested the 2026-08-29 Talk三联 episode on Guangzhou Academy of Fine Arts' fi
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-29] ingest | 《资治通鉴·汉纪》795丨邓家灭亡后，为何举朝为他们鸣冤？
+
+Ingested the 2026-07-07 芮淇讲透资治通鉴 episode on Emperor An's post-Deng transition, Zhu Chong's coffin memorial for the Deng family, Chen Zhong's restored anti-Deng accusation role, Yang Zhen's early warning against Wang Sheng and Bo Rong, and the immediate rise of Geng/Song/Yan relatives plus Jiang Jing, Li Run, and Fan Feng. Created the source note plus `EmpressDowagerDengLateHan`, `DengFamilyAnEraLateHan`, `ZhuChongLateHan`, `JiangJingLateHan`, and `ProcedurelessPoliticalPurge`; updated the An-era favorite, outer-relative, and remonstrance pages. No settled contradiction found; 李闰 is normalized to the existing `LiRunLateHan` route, and the An-era Deng dowager/family pages are kept distinct from later Huan-era Deng pages.
+
 ## [2026-08-29] ingest | 《资治通鉴·汉纪》797丨古代忠孝真的无法两全吗？
 
 Ingested the 2026-07-08 芮淇讲透资治通鉴 episode on 121-122 CE Emperor An's cancellation of three-year mourning for high officials, Chen Zhong's blocked mourning memorial and accepted Goguryeo mourning-restraint advice, Yao Guang and Feng Huan's forged-edict case, Ma Xian's Shaodang Qiang victory, Xianbei raids, and disaster notices. Created the source note plus `GoguryeoLateHan`, `YaoGuangLateHan`, `FengHuanLateHan`, `OfficialMourningDutyConflict`, `MourningDiplomaticRestraint`, and `ForgedEdictLocalExecution`; updated `ChenZhongLateHan`, `EmperorAnOfHan`, `MaXianLateHan`, `index`, and `overview`. No settled contradiction found; Buyeo, Mahan, Mo, Suicheng, Xuantu, Pang Fen, Liu Shou, Liu De, Geng Kui, Geng Zhong, Manu, Hanyang, Yangling, and minor disaster notices remain source-scoped.
@@ -13524,6 +13528,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-29] ingest | 《资治通鉴·汉纪》800丨杨震之死：一场奸臣对清官的剿杀
 
 Ingested the 2026-07-08 芮淇讲透资治通鉴 episode on 124 CE Yang Zhen's death, Fan Feng/Zhou Guang/Xie Yun's forged-edict private construction, Zhao Teng's execution after direct criticism, Geng Bao's accusation, Lai Li's rebuke, and Ban Yong's Western Regions submission chain. Created the source note plus `ZhouGuangLateHan`, `XieYunLateHan`, `ZhaoTengLateHan`, and `ForgedEdictPrivateExtraction`; updated `YangZhenLateHan`, `EmperorAnOfHan`, `FanFengEunuchLateHan`, `GengBaoGrandGeneralLateHan`, `LaiLiLateHan`, `BanYongLateHan`, `DirectRemonstranceCriminalization`, `OmenCodedRemonstrance`, `index`, and `overview`. No settled contradiction found; Geng Bao's dahonglu-to-Grand-General chronology, Feng Shi / 冯石, Yi Liang, and minor Western Regions actors remain source-scoped.
+
+## [2026-08-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-29] lint | Wiki health check
 

@@ -8,16 +8,19 @@ sources:
   - zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh
   - zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew
   - zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf
+  - zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1
 last_updated: 2026-08-29
 ---
 
 ## Overview
 
-李润 / Li Run appears first as a trusted Emperor An-era Zhongchangshi whose palace favor can be traded through appointment pressure, then as a coerced gate-side participant in the Shun restoration. [[zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf|Hanji 799]] adds the earlier request for his elder brother; [[zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s|Hanji 803]] makes him the spared guard forced into the restoration coalition; [[zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh|Hanji 804]] and [[zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew|Hanji 805]] show why partial or suspect alignment matters after the coup succeeds.
+李润 / Li Run appears first as an accession-service favorite rewarded after the Deng fall, then as a trusted Emperor An-era Zhongchangshi whose palace favor can be traded through appointment pressure, and finally as a coerced gate-side participant in the Shun restoration. [[zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1|Hanji 795]] introduces his Yongxiang Hou and Zhongchangshi rise; [[zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf|Hanji 799]] adds the request for his elder brother; [[zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s|Hanji 803]] makes him the spared guard forced into the restoration coalition; Hanji 804-805 show why partial or suspect alignment matters after the coup succeeds.
 
 ## Current Profile
 
-[[zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf|Hanji 799]] places Li Run before the restoration crisis as a Zhongchangshi trusted by [[EmperorAnOfHan|Emperor An]]. [[GengBaoGrandGeneralLateHan|Geng Bao]] asks [[YangZhenLateHan|Yang Zhen]] to recommend Li Run's elder brother, presenting the request as an attempt to anticipate the emperor's will. Yang refuses because a real imperial intention should come through an edict, making Li Run's favor a pressure field rather than a valid appointment warrant.
+[[zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1|Hanji 795]] places Li Run in the immediate post-Deng reward field. Alongside [[JiangJingLateHan|Jiang Jing]], he receives a marquis title, is promoted to Zhongchangshi, and remains near [[EmperorAnOfHan|Emperor An]]. The source uses this pair to show how accession service and palace proximity convert into title and office after the [[DengFamilyAnEraLateHan|Deng family]] falls.
+
+[[zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf|Hanji 799]] places Li Run before the restoration crisis as a Zhongchangshi trusted by Emperor An. [[GengBaoGrandGeneralLateHan|Geng Bao]] asks [[YangZhenLateHan|Yang Zhen]] to recommend Li Run's elder brother, presenting the request as an attempt to anticipate the emperor's will. Yang refuses because a real imperial intention should come through an edict, making Li Run's favor a pressure field rather than a valid appointment warrant.
 
 [[zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s|Hanji 803]] then places Li Run at Zhangtai Gate with Jiang Jin, Liu An, and Chen Da when [[SunChengLateHan|孙程]] and [[WangKangLateHan|王康]] launch the restoration coup. The coup group kills the other three as [[EmpressDowagerYanLateHan|Yan Taihou]]'s loyalists, puts a blade to Li Run's neck, and demands that he join the effort to enthrone [[EmperorShunOfHan|Liu Bao / 汉顺帝]]. Li Run accepts and helps summon shangshu officials and bring the imperial carriage into the South Palace.
 
@@ -27,6 +30,7 @@ last_updated: 2026-08-29
 
 ## Key Characteristics
 
+- Accession-service favorite whose early title and Zhongchangshi rise follow the Deng family's fall.
 - Trusted Zhongchangshi whose closeness to Emperor An can be invoked in appointment pressure.
 - Gate-side palace actor whose survival depends on accepting coerced alignment with the restoration coup.
 - Operational contributor after coercion because he helps summon officials and move the imperial carriage.
@@ -36,6 +40,7 @@ last_updated: 2026-08-29
 
 ## Evidence
 
+- Post-Deng reward and access: [[zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1|Hanji 795]] says Li Run is enfeoffed, promoted to Zhongchangshi, and kept near Emperor An after helping the accession transition.
 - Appointment-pressure field: [[zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf|Hanji 799]] says Geng Bao recommends Li Run's elder brother to Yang Zhen by invoking Li Run's imperial trust, and Yang refuses without an edict.
 - Coerced alignment: [[zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s|Hanji 803]] says Sun Cheng's group threatens Li Run with a blade and requires him to support Liu Bao's enthronement.
 - Operational role: [[zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s|Hanji 803]] says Li Run and others summon shangshu officials and follow the imperial carriage into the South Palace.
@@ -44,17 +49,19 @@ last_updated: 2026-08-29
 
 ## Qualifications
 
-This page is bounded to Hanji 799, Hanji 803, Hanji 804, and Hanji 805. It does not prove Li Run's private loyalties, later punishment, full office history, or whether he personally initiated the request for his elder brother. The current profile treats him as a trusted, coerced, and politically ambiguous actor because the sources show favor pressure, forced participation, limited reward, and later suspicion.
+This page is bounded to Hanji 799, Hanji 803, Hanji 804, Hanji 805, and Hanji 795. It does not prove Li Run's private loyalties, later punishment, full office history, or whether he personally initiated the request for his elder brother. The current profile treats him as a rewarded, trusted, coerced, and politically ambiguous actor because the sources show accession-service favor, appointment pressure, forced participation, limited reward, and later suspicion. Hanji 795 uses 李闰; the wiki keeps the existing 李润 route unless later evidence requires a split.
 
 ## What Changed
 
-- Added Hanji 799 as Li Run's pre-coup trusted-eunuch and elder-brother appointment-pressure layer.
+- Added Hanji 795 as Li Run's new earliest current layer: accession-service title, Zhongchangshi promotion, and pairing with Jiang Jing after the Deng fall.
+- Preserved Hanji 799 as Li Run's pre-coup trusted-eunuch and elder-brother appointment-pressure layer.
 - Preserved Hanji 803 through Hanji 805 as the coerced restoration, limited reward, and cleanup-suspicion sequence.
 
 ## Relationships
 
 - [[GengBaoGrandGeneralLateHan|耿宝]] - high-status relative who invokes Li Run's imperial trust to recommend Li Run's elder brother.
 - [[YangZhenLateHan|杨震]] - taiwei who refuses the appointment request tied to Li Run's favor.
+- [[JiangJingLateHan|江京]] - paired accession-service favorite rewarded with title and Zhongchangshi access.
 - [[SunChengLateHan|孙程]] - coup leader whose group coerces Li Run into the restoration.
 - [[WangKangLateHan|王康]] - co-executor at Zhangtai Gate when Li Run is forced to choose.
 - [[EmperorAnOfHan|汉安帝]] - ruler whose trust gives Li Run's name appointment leverage.

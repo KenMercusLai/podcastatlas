@@ -8,14 +8,17 @@ sources:
   - zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s
   - zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj
   - zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy
+  - zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1
 last_updated: 2026-08-29
 ---
 
 ## Overview
 
-阎太后 / Empress Dowager Yan is a late-Han dowager whose current wiki profile now begins before dowager power: as Yan Hou, she helps [[FanFengEunuchLateHan|樊丰]] fabricate accusations against the crown prince [[EmperorShunOfHan|刘保]], then hides [[EmperorAnOfHan|汉安帝]]'s death on tour, returns to [[LuoyangLateHan|洛阳]], becomes empress dowager, and installs [[LiuYiBeixiangHouLateHan|北乡侯刘懿 / 刘裔]] instead of Liu Bao. Hanji 803 then shows her trying to preserve control after Liu Yi's own death, while Hanji 805 shows the restored Shun court deciding whether to humiliate, isolate, or ritually protect her defeated title.
+阎太后 / Empress Dowager Yan is a late-Han dowager whose current wiki profile now begins before dowager power and before the Liu Bao accusation chain. [[zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1|Hanji 795]] shows Yan Hou's brothers, including [[YanXianLateHan|Yan Xian]], receiving office and palace-guard access after the [[DengFamilyAnEraLateHan|Deng family]] falls. [[zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy|Hanji 801]] then has Yan Hou help [[FanFengEunuchLateHan|Fan Feng]] fabricate accusations against the crown prince [[EmperorShunOfHan|Liu Bao]], while Hanji 802-805 cover Emperor An's hidden death, Beixiang Hou's accession, Shun's restoration, and the defeated-dowager settlement.
 
 ## Current Profile
+
+[[zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1|Hanji 795]] supplies the earliest current Yan Hou layer. After the Deng purge, her brothers Yan Xian, Yan Jing, and Yan Yao receive qing/xiao-level posts and command palace guards. The episode does not yet show Yan Hou directing policy herself, but it establishes the family access that later makes Yan-family succession control possible.
 
 [[zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy|Hanji 801]] supplies Yan Hou's pre-dowager succession-intervention layer. After Wang Sheng and Fan Feng help destroy Liu Bao's wet nurse Wang Nan and kitchen supervisor Bing Ji, Fan Feng fears later retaliation because Liu Bao mourns them. Yan Hou then works with Fan Feng to fabricate evidence against Liu Bao and his palace officers, setting up Emperor An's 124 CE deposition of Liu Bao as Jiyin Wang.
 
@@ -29,16 +32,17 @@ The same source shows her first regency choice. Yan Taihou and Yan Xian install 
 
 ## Key Characteristics
 
-- Active transition controller before defeat, first using fabricated accusation against Liu Bao and later using death concealment, return timing, palace announcement, and dowager authority after Emperor An's death.
+- Yan-family access anchor before dowager power, with brothers placed in office and palace-guard command after the Deng fall.
+- Active transition controller before defeat, using fabricated accusation against Liu Bao and later death concealment, return timing, palace announcement, and dowager authority after Emperor An's death.
 - Outer-relative regent whose preferred child ruler makes Yan-family behind-the-throne control easier.
 - Public legitimacy liability because excluding Liu Bao from mourning creates sympathy for him and resentment toward her.
 - Repeat death-concealment actor after Beixiang Hou's later death, now trying to preserve succession choice inside the capital.
 - Gate-and-seal loser whose communication is cut and whose seal surrender marks restoration victory.
 - Defeated dowager whose title still matters to Shun's restored legitimacy.
-- Source-bounded death case where illness is the official account and further suspicion remains unproven.
 
 ## Evidence
 
+- Pre-dowager family access: [[zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1|Hanji 795]] says Yan Hou's brothers receive important offices and command palace guards after the Deng family's fall.
 - Pre-dowager accusation: [[zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy|Hanji 801]] says Yan Hou and Fan Feng fabricate evidence against Liu Bao and his palace officers before Emperor An deposes him.
 - Emperor An concealment: [[zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj|Hanji 802]] says Yan Hou, Yan Xian, and Fan Feng hide An's death, continue routine appearances, and return to Luoyang before public announcement.
 - Child-ruler choice: [[zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj|Hanji 802]] says Yan Taihou and Yan Xian install the young Beixiang Hou so the Yan family can hold power.
@@ -51,11 +55,12 @@ The same source shows her first regency choice. Yan Taihou and Yan Xian install 
 
 ## Qualifications
 
-This page is bounded to Hanji 801, Hanji 802, Hanji 803, and Hanji 805 and does not reconstruct Yan Taihou's earlier life, full regency, private palace conditions, or true cause of death beyond the restoration crisis. Hanji 801 supports her pre-dowager role in fabricated accusation against Liu Bao; Hanji 802 supports her first death-concealment and child-accession move after Emperor An's death; Hanji 803 supports her second concealment after Beixiang Hou's death; Hanji 805 supports Shun's later legitimacy management. The current judgment does not prove the true cause of Yan Taihou's death.
+This page is bounded to Hanji 801, Hanji 802, Hanji 803, Hanji 805, and Hanji 795 and does not reconstruct Yan Taihou's earlier life, full regency, private palace conditions, or true cause of death beyond the restoration crisis. Hanji 795 supports early Yan-family office and guard access but not yet direct policy control by Yan Hou herself. Hanji 801 supports her pre-dowager role in fabricated accusation against Liu Bao; Hanji 802 supports her first death-concealment and child-accession move after Emperor An's death; Hanji 803 supports her second concealment after Beixiang Hou's death; Hanji 805 supports Shun's later legitimacy management. The current judgment does not prove the true cause of Yan Taihou's death.
 
 ## What Changed
 
-- Added Hanji 801 as Yan Hou's pre-dowager role in the fabricated-accusation chain that removes Liu Bao from crown-prince status.
+- Added Hanji 795 as Yan Hou's earliest current layer, establishing Yan-family office and guard access after the Deng fall.
+- Preserved Hanji 801 as Yan Hou's pre-dowager role in the fabricated-accusation chain that removes Liu Bao from crown-prince status.
 - Added Hanji 802 as Yan Taihou's pre-defeat layer: Emperor An's hidden death, Liu Bao's exclusion, Beixiang Hou's accession, and first Yan-family consolidation.
 - Reframed Hanji 803 as her second concealed-death crisis after Beixiang Hou's own death.
 - Preserved Hanji 805 as the defeated-dowager ritual management and death-account layer.
@@ -63,6 +68,7 @@ This page is bounded to Hanji 801, Hanji 802, Hanji 803, and Hanji 805 and does 
 ## Relationships
 
 - [[EmperorAnOfHan|汉安帝]] - ruler whose Liu Bao deposition and later hidden tour death let Yan Hou shape two succession windows.
+- [[DengFamilyAnEraLateHan|邓氏]] - defeated outer-relative network whose fall precedes Yan-family access.
 - [[EmperorShunOfHan|汉顺帝]] - Liu Bao, first harmed by Yan Hou's accusation chain and later restored ruler whose legitimacy could be damaged by mishandling Yan Taihou after victory.
 - [[LiuYiBeixiangHouLateHan|北乡侯刘懿 / 刘裔]] - young ruler first installed by Yan Taihou and later hidden by her after death.
 - [[YanXianLateHan|阎显]] - Yan-family powerholder who executes the family monopoly strategy around her dowager authority.

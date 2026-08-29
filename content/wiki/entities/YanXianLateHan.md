@@ -8,16 +8,19 @@ sources:
   - zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s
   - zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj
   - zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf
+  - zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1
 last_updated: 2026-08-29
 ---
 
 ## Overview
 
-阎显 / Yan Xian is the Yan-family outer-relative leader whose current profile now begins with a failed appointment request before covering his rise and defeat in the 125 CE Shun restoration crisis. [[zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf|Hanji 799]] shows [[YangZhenLateHan|杨震]] refusing Yan Xian's request for a close person; [[zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj|Hanji 802]] shows him using [[EmperorAnOfHan|Emperor An]]'s hidden death to install [[LiuYiBeixiangHouLateHan|Beixiang Hou Liu Yi]] and purge old networks; [[zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s|Hanji 803]] shows his failed counterattack after Beixiang Hou dies; [[zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh|Hanji 804]] shows his execution after [[EmperorShunOfHan|Liu Bao]] is restored.
+阎显 / Yan Xian is the Yan-family outer-relative leader whose current profile now begins in the post-Deng replacement field before covering appointment pressure and the 125 CE Shun restoration crisis. [[zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1|Hanji 795]] places Yan Xian and his brothers in high offices and palace-guard command after the [[DengFamilyAnEraLateHan|Deng family]] falls; [[zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf|Hanji 799]] shows [[YangZhenLateHan|Yang Zhen]] refusing Yan Xian's request for a close person; Hanji 802-804 then show his hidden-death accession, old-network purge, failed counterattack, and execution after [[EmperorShunOfHan|Liu Bao]] is restored.
 
 ## Current Profile
 
-[[zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf|Hanji 799]] places Yan Xian before his succession-crisis role as zhijinwu. He recommends a close person to Yang Zhen after Geng Bao's similar request, and Yang also refuses him. The event makes Yan Xian part of the appointment-pressure field that turns Yang's procedural line into a cause of outer-relative resentment.
+[[zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1|Hanji 795]] places Yan Xian before his better-known succession-crisis role. As [[EmpressDowagerYanLateHan|Yan Hou]]'s brother, he and Yan Jing and Yan Yao receive qing/xiao-level offices and command palace guards after the Deng fall. The source uses this with Geng and Song-family rewards to show new outer relatives occupying the space created by Deng removal.
+
+[[zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf|Hanji 799]] then places Yan Xian before his succession-crisis role as zhijinwu. He recommends a close person to Yang Zhen after Geng Bao's similar request, and Yang also refuses him. The event makes Yan Xian part of the appointment-pressure field that turns Yang's procedural line into a cause of outer-relative resentment.
 
 [[zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj|Hanji 802]] supplies Yan Xian's power-taking layer. After Emperor An dies on tour, Yan Xian joins [[EmpressDowagerYanLateHan|Yan Hou]] and [[FanFengEunuchLateHan|Fan Feng]] in concealing the death and returning to Luoyang before officials can rally around Liu Bao. Once Yan Hou becomes dowager, Yan Xian is appointed chariot cavalry general and helps choose the young Beixiang Hou as emperor.
 
@@ -29,7 +32,7 @@ The same source shows Yan Xian's first purge. He fears [[GengBaoGrandGeneralLate
 
 ## Key Characteristics
 
-- Zhijinwu and outer-relative actor whose appointment request is refused by Yang Zhen.
+- Yan-family outer-relative whose post-Deng office and palace-guard access precede his later zhijinwu appointment request to Yang Zhen.
 - Yan-family powerholder who turns Emperor An's hidden death into a short-lived accession victory.
 - Military authority holder after Yan Hou becomes empress dowager.
 - Advocate of controllable child accession through Beixiang Hou rather than Liu Bao.
@@ -39,6 +42,7 @@ The same source shows Yan Xian's first purge. He fears [[GengBaoGrandGeneralLate
 
 ## Evidence
 
+- Post-Deng office and guard access: [[zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1|Hanji 795]] says Yan Xian and his brothers receive high offices and command palace guards after the Deng fall.
 - Appointment request: [[zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf|Hanji 799]] says Yan Xian recommends a close person to Yang Zhen and Yang does not process the request.
 - Concealed-death accession: [[zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj|Hanji 802]] says Yan Xian helps hide Emperor An's death, return to Luoyang, and install Beixiang Hou.
 - Military authority and family concentration: [[zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj|Hanji 802]] says Yan Xian becomes chariot cavalry general and later places Yan brothers in major offices.
@@ -48,11 +52,12 @@ The same source shows Yan Xian's first purge. He fears [[GengBaoGrandGeneralLate
 
 ## Qualifications
 
-This page is bounded to Hanji 799, Hanji 802, Hanji 803, and Hanji 804. It does not reconstruct Yan Xian's full prior career, the exact identity of the close person he recommended to Yang Zhen, the exact legal process against Geng Bao's group, Yan Chong's role, Yan Jin's biography, or the later mitigation of distant Yan relatives.
+This page is bounded to Hanji 799, Hanji 802, Hanji 803, Hanji 804, and Hanji 795. It does not reconstruct Yan Xian's full prior career, the exact identity of the close person he recommended to Yang Zhen, the exact legal process against Geng Bao's group, Yan Chong's role, Yan Jin's biography, or the later mitigation of distant Yan relatives. Hanji 795 establishes early Yan-family access but does not yet show Yan Xian independently controlling policy.
 
 ## What Changed
 
-- Added Hanji 799 as Yan Xian's earlier appointment-request layer before the succession crisis.
+- Added Hanji 795 as Yan Xian's new earliest current layer: Yan-family office and palace-guard access after the Deng fall.
+- Preserved Hanji 799 as Yan Xian's appointment-request layer before the succession crisis.
 - Preserved Hanji 802 as Yan Xian's rise, military appointment, child-accession, and old-network purge layer.
 - Reframed Hanji 803 as Yan Xian's failed counterattack after his earlier settlement starts collapsing.
 - Preserved Hanji 804 as the execution and Yan-family liquidation layer before later Yan Taihou legitimacy management.
@@ -61,6 +66,7 @@ This page is bounded to Hanji 799, Hanji 802, Hanji 803, and Hanji 804. It does 
 
 - [[YangZhenLateHan|杨震]] - taiwei who refuses Yan Xian's appointment request.
 - [[EmperorAnOfHan|汉安帝]] - ruler whose hidden tour death creates Yan Xian's first opening.
+- [[DengFamilyAnEraLateHan|邓氏]] - defeated outer-relative network whose fall opens space for Yan-family access.
 - [[EmpressDowagerYanLateHan|阎太后]] - Yan-family dowager whose authority Yan Xian uses in both succession crises.
 - [[LiuYiBeixiangHouLateHan|北乡侯刘懿 / 刘裔]] - child ruler installed by Yan Xian's camp.
 - [[EmperorShunOfHan|汉顺帝]] - excluded Liu Bao whose restoration is secured through Yan Xian's defeat.

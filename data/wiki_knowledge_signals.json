@@ -3372,9 +3372,9 @@
       "url": "/wiki/entities/bloodysunday/"
     },
     "BoRongLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》798丨东汉时期的百姓有多苦？ [loOlVeuMdTv4eo-OmUbFI5Z2P2R5].md",
@@ -3389,6 +3389,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》796丨东汉名臣VS帝王身边人，谁能赢？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-796-donghan-mingchen-vs-diwang-shenbianren-shui-neng-ying-lkyzp2v-cjysd65syoyuldlbdb5p/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》795丨邓家灭亡后，为何举朝为他们鸣冤？ [lqVmBQrrOOKphB4beCaQbP7h_Wi1].md",
+          "key": "zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》795丨邓家灭亡后，为何举朝为他们鸣冤？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1/"
         }
       ],
       "updated": "2026-08-29",
@@ -5011,9 +5018,9 @@
       "url": "/wiki/entities/chenyuanlatehan/"
     },
     "ChenZhongLateHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》799丨东汉名臣杨震，如何拒绝走后门？ [lmUFb7Lvb_KZsvjtn6Iu-ZrpIpTf].md",
@@ -5035,6 +5042,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》797丨古代忠孝真的无法两全吗？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》795丨邓家灭亡后，为何举朝为他们鸣冤？ [lqVmBQrrOOKphB4beCaQbP7h_Wi1].md",
+          "key": "zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》795丨邓家灭亡后，为何举朝为他们鸣冤？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1/"
         }
       ],
       "updated": "2026-08-29",
@@ -7133,6 +7147,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/democraticrepublicanparty/"
     },
+    "DengFamilyAnEraLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》795丨邓家灭亡后，为何举朝为他们鸣冤？ [lqVmBQrrOOKphB4beCaQbP7h_Wi1].md",
+          "key": "zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》795丨邓家灭亡后，为何举朝为他们鸣冤？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/dengfamilyaneralatehan/"
+    },
     "DengJiLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -8523,9 +8553,9 @@
       "url": "/wiki/concepts/emotionsasfunctionalcontrolstates/"
     },
     "EmperorAnOfHan": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》802丨安帝之死！东汉王朝权力大洗牌！ [lgvNE92e0jJzJNzNZfkZ7nvZTNbj].md",
@@ -8575,6 +8605,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》796丨东汉名臣VS帝王身边人，谁能赢？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-796-donghan-mingchen-vs-diwang-shenbianren-shui-neng-ying-lkyzp2v-cjysd65syoyuldlbdb5p/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》795丨邓家灭亡后，为何举朝为他们鸣冤？ [lqVmBQrrOOKphB4beCaQbP7h_Wi1].md",
+          "key": "zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》795丨邓家灭亡后，为何举朝为他们鸣冤？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1/"
         }
       ],
       "updated": "2026-08-29",
@@ -9045,6 +9082,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/empressdenghuanlatehan/"
     },
+    "EmpressDowagerDengLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》795丨邓家灭亡后，为何举朝为他们鸣冤？ [lqVmBQrrOOKphB4beCaQbP7h_Wi1].md",
+          "key": "zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》795丨邓家灭亡后，为何举朝为他们鸣冤？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/empressdowagerdenglatehan/"
+    },
     "EmpressDowagerDouMiao": {
       "episode_count": 9,
       "show_count": 1,
@@ -9183,9 +9236,9 @@
       "url": "/wiki/entities/empressdowagerliangnalatehan/"
     },
     "EmpressDowagerYanLateHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》805丨通透人性的女人，竟能预测吉凶？ [ll3bZoYrKBtnVt-AQU9NqelqoneW].md",
@@ -9214,6 +9267,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》801丨汉安帝为什么狠心废太子？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》795丨邓家灭亡后，为何举朝为他们鸣冤？ [lqVmBQrrOOKphB4beCaQbP7h_Wi1].md",
+          "key": "zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》795丨邓家灭亡后，为何举朝为他们鸣冤？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1/"
         }
       ],
       "updated": "2026-08-29",
@@ -9716,9 +9776,9 @@
       "url": "/wiki/entities/fazheneasternhan/"
     },
     "FanFengEunuchLateHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》802丨安帝之死！东汉王朝权力大洗牌！ [lgvNE92e0jJzJNzNZfkZ7nvZTNbj].md",
@@ -9747,6 +9807,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》799丨东汉名臣杨震，如何拒绝走后门？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》795丨邓家灭亡后，为何举朝为他们鸣冤？ [lqVmBQrrOOKphB4beCaQbP7h_Wi1].md",
+          "key": "zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》795丨邓家灭亡后，为何举朝为他们鸣冤？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1/"
         }
       ],
       "updated": "2026-08-29",
@@ -11223,9 +11290,9 @@
       "url": "/wiki/entities/genesismission/"
     },
     "GengBaoGrandGeneralLateHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》802丨安帝之死！东汉王朝权力大洗牌！ [lgvNE92e0jJzJNzNZfkZ7nvZTNbj].md",
@@ -11254,6 +11321,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》799丨东汉名臣杨震，如何拒绝走后门？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》795丨邓家灭亡后，为何举朝为他们鸣冤？ [lqVmBQrrOOKphB4beCaQbP7h_Wi1].md",
+          "key": "zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》795丨邓家灭亡后，为何举朝为他们鸣冤？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1/"
         }
       ],
       "updated": "2026-08-29",
@@ -15215,6 +15289,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/jianggonglatehan/"
     },
+    "JiangJingLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》795丨邓家灭亡后，为何举朝为他们鸣冤？ [lqVmBQrrOOKphB4beCaQbP7h_Wi1].md",
+          "key": "zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》795丨邓家灭亡后，为何举朝为他们鸣冤？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/jiangjinglatehan/"
+    },
     "JiangQiLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -16752,9 +16842,9 @@
       "url": "/wiki/entities/lijinwulinglatehan/"
     },
     "LiRunLateHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》803丨汉顺帝如何在腥风血雨中登上皇位？ [lqVnO7t_gcGXtbS3phufLR4ybe2s].md",
@@ -16783,6 +16873,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》799丨东汉名臣杨震，如何拒绝走后门？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》795丨邓家灭亡后，为何举朝为他们鸣冤？ [lqVmBQrrOOKphB4beCaQbP7h_Wi1].md",
+          "key": "zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》795丨邓家灭亡后，为何举朝为他们鸣冤？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1/"
         }
       ],
       "updated": "2026-08-29",
@@ -23315,9 +23412,9 @@
       "url": "/wiki/concepts/privateequityaitransformation/"
     },
     "PrivateFavorAppointmentErosion": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》814丨当官不为民作主，不如回家卖红薯 [lqLrFPUEnzhR1tbrdD3UrTOLfW2p].md",
@@ -23346,10 +23443,33 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》796丨东汉名臣VS帝王身边人，谁能赢？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-796-donghan-mingchen-vs-diwang-shenbianren-shui-neng-ying-lkyzp2v-cjysd65syoyuldlbdb5p/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》795丨邓家灭亡后，为何举朝为他们鸣冤？ [lqVmBQrrOOKphB4beCaQbP7h_Wi1].md",
+          "key": "zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》795丨邓家灭亡后，为何举朝为他们鸣冤？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1/"
         }
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/privatefavorappointmenterosion/"
+    },
+    "ProcedurelessPoliticalPurge": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》795丨邓家灭亡后，为何举朝为他们鸣冤？ [lqVmBQrrOOKphB4beCaQbP7h_Wi1].md",
+          "key": "zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》795丨邓家灭亡后，为何举朝为他们鸣冤？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/procedurelesspoliticalpurge/"
     },
     "ProcessingSpeedTrainingDementiaSignal": {
       "episode_count": 1,
@@ -30370,9 +30490,9 @@
       "url": "/wiki/entities/wangkanglatehan/"
     },
     "WangShengPalaceActorLateHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》802丨安帝之死！东汉王朝权力大洗牌！ [lgvNE92e0jJzJNzNZfkZ7nvZTNbj].md",
@@ -30394,6 +30514,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》796丨东汉名臣VS帝王身边人，谁能赢？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-796-donghan-mingchen-vs-diwang-shenbianren-shui-neng-ying-lkyzp2v-cjysd65syoyuldlbdb5p/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》795丨邓家灭亡后，为何举朝为他们鸣冤？ [lqVmBQrrOOKphB4beCaQbP7h_Wi1].md",
+          "key": "zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》795丨邓家灭亡后，为何举朝为他们鸣冤？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1/"
         }
       ],
       "updated": "2026-08-29",
@@ -32442,9 +32569,9 @@
       "url": "/wiki/entities/yanrou/"
     },
     "YanXianLateHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》804丨给你“糖”的人，不一定是贵人！ [lqONgdqg-hGeTOEgPylV_oS86bUH].md",
@@ -32473,6 +32600,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》799丨东汉名臣杨震，如何拒绝走后门？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》795丨邓家灭亡后，为何举朝为他们鸣冤？ [lqVmBQrrOOKphB4beCaQbP7h_Wi1].md",
+          "key": "zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》795丨邓家灭亡后，为何举朝为他们鸣冤？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1/"
         }
       ],
       "updated": "2026-08-29",
@@ -32877,9 +33011,9 @@
       "url": "/wiki/entities/yangyuanqunlatehan/"
     },
     "YangZhenLateHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》914丨信任的人，为何总伤你最深？ [lvwit_RZrKScn5A3h6wblNTxpPsO].md",
@@ -32915,6 +33049,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》796丨东汉名臣VS帝王身边人，谁能赢？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-796-donghan-mingchen-vs-diwang-shenbianren-shui-neng-ying-lkyzp2v-cjysd65syoyuldlbdb5p/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》795丨邓家灭亡后，为何举朝为他们鸣冤？ [lqVmBQrrOOKphB4beCaQbP7h_Wi1].md",
+          "key": "zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》795丨邓家灭亡后，为何举朝为他们鸣冤？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1/"
         }
       ],
       "updated": "2026-08-29",
@@ -34937,6 +35078,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/zhuchanglatehan/"
+    },
+    "ZhuChongLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》795丨邓家灭亡后，为何举朝为他们鸣冤？ [lqVmBQrrOOKphB4beCaQbP7h_Wi1].md",
+          "key": "zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》795丨邓家灭亡后，为何举朝为他们鸣冤？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/zhuchonglatehan/"
     },
     "ZhuDaLateHan": {
       "episode_count": 1,

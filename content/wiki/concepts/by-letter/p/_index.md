@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5942
+wiki_total_pages: 5943
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1160,6 +1160,9 @@ wiki_pages:
   - key: "ProceduralizedViolence"
     title: "Proceduralized Violence / 程序化暴力"
     url: "/wiki/concepts/proceduralizedviolence/"
+  - key: "ProcedurelessPoliticalPurge"
+    title: "Procedureless Political Purge / 无程序政治清算"
+    url: "/wiki/concepts/procedurelesspoliticalpurge/"
   - key: "ProcessKnowledge"
     title: "Process Knowledge / 过程知识"
     url: "/wiki/concepts/processknowledge/"

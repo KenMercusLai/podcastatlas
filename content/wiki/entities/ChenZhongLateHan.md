@@ -7,16 +7,19 @@ sources:
   - zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf
   - zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5
   - zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6
+  - zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1
 last_updated: 2026-08-29
 ---
 
 ## Overview
 
-陈忠 / Chen Zhong now enters the wiki one step earlier as an An-era court official whose advice moves across mourning policy, domestic correction, and frontier retention. [[zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6|Hanji 797]] shows him defending three-year official mourning, losing that argument after eunuch obstruction, and then persuading [[EmperorAnOfHan|汉安帝]] not to attack [[GoguryeoLateHan|Goguryeo]] during royal mourning. [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|Hanji 798]] shows him warning An about disaster-era palace-emissary burden and a Three Excellencies/Shangshu authority mismatch, but An ignores both memorials. [[zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf|Hanji 799]] then shows Chen persuading An not to abandon the Western Regions and later recommending [[ZhouXieLateHan|周燮]] and [[FengLiangLateHan|冯良]].
+陈忠 / Chen Zhong now enters the wiki from the immediate post-Deng transition rather than only from later An-era advice. [[zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1|Hanji 795]] shows him restored after the [[DengFamilyAnEraLateHan|Deng family]] falls and repeatedly accusing them, a role shaped by his father Chen Chong's earlier resistance to honoring Deng Xun. [[zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6|Hanji 797]] then shows him defending three-year official mourning, losing that argument after eunuch obstruction, and persuading [[EmperorAnOfHan|汉安帝]] not to attack [[GoguryeoLateHan|Goguryeo]] during royal mourning. Hanji 798-799 add domestic correction, Three Excellencies/Shangshu critique, Western Regions retention, and talent recommendation.
 
 ## Current Profile
 
-[[zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6|Hanji 797]] gives Chen Zhong's earliest current role. When Shangshu Ling and others propose canceling three-year mourning for senior officials, Chen defends the practice as both Han institutional precedent and public moral modeling. He invokes Gaozu and Xiao He's rules, treats filial grief as a root of wider humane order, and opposes making official duty erase ritual mourning. Eunuchs block the memorial because it is unfavorable to them, and Emperor An cancels the mourning permission for officials of 2,000 shi and above.
+[[zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1|Hanji 795]] gives Chen Zhong's earliest current role. The episode says his father Chen Chong had opposed special honors or gifts for Deng Xun, that Chen Zhong had earlier been frustrated under Deng dominance, and that after Empress Dowager Deng's fall he was restored and repeatedly impeached the Deng family. That makes Chen a complicated transition actor: he is not only a later principled adviser but also an accuser whose anti-Deng position is entangled with family memory and changed court power.
+
+[[zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6|Hanji 797]] gives Chen Zhong's next current role. When Shangshu Ling and others propose canceling three-year mourning for senior officials, Chen defends the practice as both Han institutional precedent and public moral modeling. He invokes Gaozu and Xiao He's rules, treats filial grief as a root of wider humane order, and opposes making official duty erase ritual mourning. Eunuchs block the memorial because it is unfavorable to them, and Emperor An cancels the mourning permission for officials of 2,000 shi and above.
 
 The same source then shows Chen Zhong carrying mourning logic into frontier policy. After [[GoguryeoLateHan|Goguryeo]] attacks Xuantu and its king dies, [[YaoGuangLateHan|Yao Guang]] proposes attacking during the new king's mourning period. Chen rejects the plan as unrighteous and recommends condolences, rebuke, and pardon. Emperor An accepts this advice, and Goguryeo later returns captives and livestock and submits to Xuantu.
 
@@ -34,16 +37,18 @@ The same Hanji 799 source later shows Chen Zhong as a recommender of high-reputa
 
 ## Key Characteristics
 
+- Post-Deng accuser restored after the regency family falls, with a stance shaped by his father Chen Chong's anti-Deng precedent.
 - Ritual-policy remonstrant who defends three-year official mourning as institutional precedent and moral formation.
 - Frontier restraint adviser who rejects attacking Goguryeo during royal mourning as unrighteous.
 - Court critic who diagnoses palace-proximity missions as local labor and supply burden during public crisis.
 - Institutional critic who identifies Three Excellencies blame after practical authority has moved into Shangshu channels.
 - Advice-giver whose domestic correction often fails under Emperor An even when his frontier advice can be accepted.
 - Frontier policy evaluator who rejects Western Regions abandonment as strategically self-defeating.
-- Recommender of respected scholars whose refusal exposes court-confidence limits.
 
 ## Evidence
 
+- Post-Deng restoration and accusation: [[zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1|Hanji 795]] says Chen Zhong is reappointed after the Deng fall and repeatedly impeaches the Deng family.
+- Family-memory context: [[zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1|Hanji 795]] ties Chen's stance to Chen Chong's earlier refusal to support special honors for Deng Xun and to Chen Zhong's earlier frustration under Deng power.
 - Official mourning defense: [[zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6|Hanji 797]] says Chen Zhong opposes canceling three-year mourning for senior officials and cites Han founding precedent.
 - Moral extension: [[zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6|Hanji 797]] says Chen Zhong uses Mencian language about honoring elders and caring for children beyond one's own family.
 - Blocked domestic policy: [[zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6|Hanji 797]] says eunuchs block Chen Zhong's memorial, after which Emperor An cancels high-official mourning.
@@ -59,18 +64,22 @@ The same Hanji 799 source later shows Chen Zhong as a recommender of high-reputa
 
 ## Qualifications
 
-This page is bounded to Hanji 799, Hanji 798, and Hanji 797. It does not settle Chen Zhong's full office history, family background, later career, or whether his mourning arguments, domestic memorials, and frontier advice were part of a continuous reform program. The current sources caution against flattening him into either a failed or successful adviser: the same ruler cancels official mourning after Chen's argument is blocked, ignores his later domestic institutional correction, but accepts his Goguryeo and Western Regions frontier advice.
+This page is bounded to Hanji 799, Hanji 798, Hanji 797, and Hanji 795. It does not settle Chen Zhong's full office history, complete family background, later career, or whether his anti-Deng accusations, mourning arguments, domestic memorials, and frontier advice were part of a continuous reform program. The current sources caution against flattening him into either a failed or successful adviser: he helps the post-Deng purge climate, loses some domestic correction through blocked or ignored memorials, but sees his Goguryeo and Western Regions frontier advice accepted.
 
 ## What Changed
 
-- Added Hanji 797 as Chen Zhong's earliest current layer around official mourning and Goguryeo mourning-restraint diplomacy.
-- Reframed Chen as a ritual-policy adviser whose domestic mourning defense fails through court access politics while his frontier mourning argument succeeds.
+- Added Hanji 795 as Chen Zhong's earliest current layer around post-Deng restoration, family-memory context, and repeated accusations against the Deng household.
+- Reframed Chen as both an anti-Deng transition actor and a later ritual/frontier/domestic adviser, rather than only a principled remonstrator.
+- Kept Hanji 797 as the official-mourning and Goguryeo mourning-restraint layer.
 - Preserved Hanji 798 as Chen Zhong's 121 CE domestic-remonstrance layer around palace-channel burden and authority-blame mismatch.
 - Preserved Hanji 799's anti-abandonment and talent-recommendation branches as later adviser roles.
 
 ## Relationships
 
 - [[EmperorAnOfHan|汉安帝]] - ruler who cancels high-official mourning after Chen's memorial is blocked, accepts his Goguryeo and Western Regions frontier advice, and ignores his domestic institutional warnings.
+- [[DengFamilyAnEraLateHan|邓氏]] - defeated outer-relative family against whom Chen Zhong's restored status and accusations are directed.
+- [[EmpressDowagerDengLateHan|和熹邓皇后]] - fallen regent whose household becomes the target of Chen's post-Deng accusations.
+- [[ZhuChongLateHan|朱宠]] - counter-speaker whose coffin memorial challenges the evidentiary basis of the anti-Deng purge Chen helps intensify.
 - [[OfficialMourningDutyConflict|丁忧任职冲突]] - domestic ritual-policy concept grounded by Chen Zhong's blocked defense of three-year official mourning.
 - [[GoguryeoLateHan|高句丽]] - frontier opponent toward whom Chen Zhong recommends mourning-respect diplomacy.
 - [[YaoGuangLateHan|姚光]] - Xuantu administrator whose attack proposal Chen Zhong rejects.

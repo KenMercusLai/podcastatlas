@@ -13907,6 +13907,10 @@
     "title": "Demoted Vassal Safety Signal / 降爵诸侯安全信号",
     "url": "/wiki/concepts/demotedvassalsafetysignal/"
   },
+  "DengFamilyAnEraLateHan": {
+    "title": "邓氏 / Deng Family (An-era late Han)",
+    "url": "/wiki/entities/dengfamilyaneralatehan/"
+  },
   "DengJiLateHan": {
     "title": "邓济 / Deng Ji (late Han)",
     "url": "/wiki/entities/dengjilatehan/"
@@ -16266,6 +16270,10 @@
   "EmpressDengHuanLateHan": {
     "title": "邓皇后 / Empress Deng (Huan-era)",
     "url": "/wiki/entities/empressdenghuanlatehan/"
+  },
+  "EmpressDowagerDengLateHan": {
+    "title": "和熹邓皇后 / Empress Dowager Deng (late Han)",
+    "url": "/wiki/entities/empressdowagerdenglatehan/"
   },
   "EmpressDowagerDongLateHan": {
     "title": "董太后 / Empress Dowager Dong (late Han)",
@@ -26286,6 +26294,10 @@
   "JiangHuaan": {
     "title": "蒋华安 / Jiang Huaan",
     "url": "/wiki/entities/jianghuaan/"
+  },
+  "JiangJingLateHan": {
+    "title": "江京 / Jiang Jing (late Han)",
+    "url": "/wiki/entities/jiangjinglatehan/"
   },
   "JiangQiLateHan": {
     "title": "蒋奇 / Jiang Qi (late Han)",
@@ -39834,6 +39846,10 @@
   "ProceduralizedViolence": {
     "title": "Proceduralized Violence / 程序化暴力",
     "url": "/wiki/concepts/proceduralizedviolence/"
+  },
+  "ProcedurelessPoliticalPurge": {
+    "title": "Procedureless Political Purge / 无程序政治清算",
+    "url": "/wiki/concepts/procedurelesspoliticalpurge/"
   },
   "ProcessKnowledge": {
     "title": "Process Knowledge / 过程知识",
@@ -57939,6 +57955,10 @@
     "title": "朱伥 / Zhu Chang (late Han)",
     "url": "/wiki/entities/zhuchanglatehan/"
   },
+  "ZhuChongLateHan": {
+    "title": "朱宠 / Zhu Chong (late Han)",
+    "url": "/wiki/entities/zhuchonglatehan/"
+  },
   "ZhuDaLateHan": {
     "title": "朱达 / Zhu Da (late Han)",
     "url": "/wiki/entities/zhudalatehan/"
@@ -62146,6 +62166,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1": {
+    "title": "《资治通鉴·汉纪》795丨邓家灭亡后，为何举朝为他们鸣冤？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1/"
   },
   "zizhi-tongjian-hanji-796-donghan-mingchen-vs-diwang-shenbianren-shui-neng-ying-lkyzp2v-cjysd65syoyuldlbdb5p": {
     "title": "《资治通鉴·汉纪》796丨东汉名臣VS帝王身边人，谁能赢？",
