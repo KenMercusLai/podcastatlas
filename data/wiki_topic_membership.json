@@ -15284,6 +15284,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "CorticostriatalThalamicLoop": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "CosmicHorror": [
     {
       "key": "culture",
@@ -68182,6 +68189,13 @@
     }
   ],
   "essentials-the-science-treatment-of-bipolar-disorder-scim8821948371": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647": [
     {
       "key": "science",
       "label": "Science",

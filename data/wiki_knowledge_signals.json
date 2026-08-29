@@ -1985,9 +1985,9 @@
       "url": "/wiki/entities/andingcommandery/"
     },
     "AndrewHuberman": {
-      "episode_count": 13,
+      "episode_count": 14,
       "show_count": 1,
-      "source_note_count": 13,
+      "source_note_count": 14,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -2079,9 +2079,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: The Science & Treatment of Bipolar Disorder",
           "url": "/wiki/sources/essentials-the-science-treatment-of-bipolar-disorder-scim8821948371/"
+        },
+        {
+          "episode_file": "SCIM8423515647 [SCIM8423515647].md",
+          "key": "essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Science & Treatment of Obsessive Compulsive Disorder (OCD)",
+          "url": "/wiki/sources/essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-29",
       "url": "/wiki/entities/andrewhuberman/"
     },
     "AndyBurnham": {
@@ -5881,6 +5888,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/correctiveadvicenonconversion/"
     },
+    "CorticostriatalThalamicLoop": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8423515647 [SCIM8423515647].md",
+          "key": "essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Science & Treatment of Obsessive Compulsive Disorder (OCD)",
+          "url": "/wiki/sources/essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/corticostriatalthalamicloop/"
+    },
     "CosmicCrisp": {
       "episode_count": 1,
       "show_count": 1,
@@ -9356,6 +9379,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/exercisespecificbrainadaptation/"
     },
+    "ExposureResponsePreventionForOCD": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8423515647 [SCIM8423515647].md",
+          "key": "essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Science & Treatment of Obsessive Compulsive Disorder (OCD)",
+          "url": "/wiki/sources/essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/exposureresponsepreventionforocd/"
+    },
     "ExtracellularAgingEnzymeTherapy": {
       "episode_count": 1,
       "show_count": 1,
@@ -12079,6 +12118,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/heirloomimperialseal/"
     },
+    "HelenBlairSimpson": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8423515647 [SCIM8423515647].md",
+          "key": "essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Science & Treatment of Obsessive Compulsive Disorder (OCD)",
+          "url": "/wiki/sources/essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/helenblairsimpson/"
+    },
     "Helios": {
       "episode_count": 1,
       "show_count": 1,
@@ -12962,9 +13017,9 @@
       "url": "/wiki/entities/hubeihumanoidinnovationcenter/"
     },
     "HubermanLab": {
-      "episode_count": 13,
+      "episode_count": 14,
       "show_count": 1,
-      "source_note_count": 13,
+      "source_note_count": 14,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -13056,9 +13111,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: The Science & Treatment of Bipolar Disorder",
           "url": "/wiki/sources/essentials-the-science-treatment-of-bipolar-disorder-scim8821948371/"
+        },
+        {
+          "episode_file": "SCIM8423515647 [SCIM8423515647].md",
+          "key": "essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Science & Treatment of Obsessive Compulsive Disorder (OCD)",
+          "url": "/wiki/sources/essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-29",
       "url": "/wiki/entities/hubermanlab/"
     },
     "HumanCenteredAIAugmentation": {
@@ -20534,6 +20596,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/nutritionmentalhealth/"
     },
+    "OCDCompulsionReinforcementLoop": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8423515647 [SCIM8423515647].md",
+          "key": "essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Science & Treatment of Obsessive Compulsive Disorder (OCD)",
+          "url": "/wiki/sources/essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/ocdcompulsionreinforcementloop/"
+    },
     "Oakley": {
       "episode_count": 1,
       "show_count": 1,
@@ -20565,6 +20643,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/obliqueremonstranceselfprotection/"
+    },
+    "ObsessiveCompulsiveDisorder": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8423515647 [SCIM8423515647].md",
+          "key": "essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Science & Treatment of Obsessive Compulsive Disorder (OCD)",
+          "url": "/wiki/sources/essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/obsessivecompulsivedisorder/"
     },
     "OdysseanLeadershipTrustFailure": {
       "episode_count": 1,
@@ -22607,9 +22701,9 @@
       "url": "/wiki/concepts/psychedelicordinaryfreedom/"
     },
     "PsychiatricMedicationSupervisionBoundary": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -22624,9 +22718,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: The Science & Treatment of Bipolar Disorder",
           "url": "/wiki/sources/essentials-the-science-treatment-of-bipolar-disorder-scim8821948371/"
+        },
+        {
+          "episode_file": "SCIM8423515647 [SCIM8423515647].md",
+          "key": "essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Science & Treatment of Obsessive Compulsive Disorder (OCD)",
+          "url": "/wiki/sources/essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-29",
       "url": "/wiki/concepts/psychiatricmedicationsupervisionboundary/"
     },
     "PsychologicalAbuseRecognition": {
@@ -31074,6 +31175,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/yahoochina/"
+    },
+    "YaleBrownObsessiveCompulsiveScale": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8423515647 [SCIM8423515647].md",
+          "key": "essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Science & Treatment of Obsessive Compulsive Disorder (OCD)",
+          "url": "/wiki/sources/essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/yalebrownobsessivecompulsivescale/"
     },
     "YanBaihu": {
       "episode_count": 3,

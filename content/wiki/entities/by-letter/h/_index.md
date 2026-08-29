@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 8287
+wiki_total_pages: 8289
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -242,6 +242,9 @@ wiki_pages:
   - key: "HeirloomCarbonTechnologies"
     title: "Heirloom Carbon Technologies"
     url: "/wiki/entities/heirloomcarbontechnologies/"
+  - key: "HelenBlairSimpson"
+    title: "Helen Blair Simpson"
+    url: "/wiki/entities/helenblairsimpson/"
   - key: "HelenOfTroy"
     title: "Helen of Troy"
     url: "/wiki/entities/helenoftroy/"

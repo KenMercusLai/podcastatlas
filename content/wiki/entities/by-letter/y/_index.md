@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 8287
+wiki_total_pages: 8289
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -29,6 +29,9 @@ wiki_pages:
   - key: "YairLapid"
     title: "Yair Lapid"
     url: "/wiki/entities/yairlapid/"
+  - key: "YaleBrownObsessiveCompulsiveScale"
+    title: "Yale-Brown Obsessive Compulsive Scale"
+    url: "/wiki/entities/yalebrownobsessivecompulsivescale/"
   - key: "YamajiHiromi"
     title: "Yamaji Hiromi"
     url: "/wiki/entities/yamajihiromi/"

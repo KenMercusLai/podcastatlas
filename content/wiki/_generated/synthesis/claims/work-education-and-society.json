@@ -41,6 +41,28 @@
       ]
     },
     {
+      "global_candidate": false,
+      "id": "public-health-education-needs-clinical-boundaries",
+      "qualifications": [
+        "The OCD paragraph belongs primarily to science and health; it is included here only as a public-education and guidance-boundary case.",
+        "The episode is not individualized diagnosis, exposure planning, medication selection, supplement advice, or treatment guidance.",
+        "Exposure-response prevention, prescription changes, SSRIs, cannabis/CBD, TMS, mindfulness, and myo-inositol remain clinically bounded and source-scoped."
+      ],
+      "statement": "[[ObsessiveCompulsiveDisorder]] adds a boundary-aware public-education case: [[YaleBrownObsessiveCompulsiveScale]], [[OCDCompulsionReinforcementLoop]], and [[ExposureResponsePreventionForOCD]] turn distressing behavior into assessment, mechanism, and supervised practice rather than self-labeling or casual advice, while [[PsychiatricMedicationSupervisionBoundary]] and [[MedicalRiskManagement]] keep treatment planning clinician-guided.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647",
+        "ObsessiveCompulsiveDisorder",
+        "YaleBrownObsessiveCompulsiveScale",
+        "OCDCompulsionReinforcementLoop",
+        "ExposureResponsePreventionForOCD",
+        "PsychiatricMedicationSupervisionBoundary",
+        "MedicalRiskManagement",
+        "HubermanLab",
+        "AndrewHuberman"
+      ]
+    },
+    {
       "global_candidate": true,
       "id": "active-learning-requires-effort-feedback-and-selection",
       "qualifications": [
@@ -131,6 +153,6 @@
       ]
     }
   ],
-  "summary": "A Hanji 806 historical access-and-relationship case adds that correct claims need usable channels, public witnesses, and hierarchy-aware merit handling before they become institutional action. A new Hanji 813 historical office-boundary example adds that role dignity, title rules, and feedback channels also shape institutional capacity. Work, education, and society sources converge on a practical pattern: durable capability comes from bounded institutions, active learning, realistic workplace judgment, and human feedback loops. AI and other tools can compress work, but the useful sources keep returning to self-directed effort, context, verification, social trust, pacing, health, and environments that let people act under real constraints.",
+  "summary": "A Hanji 806 historical access-and-relationship case adds that correct claims need usable channels, public witnesses, and hierarchy-aware merit handling before they become institutional action. A Hanji 813 historical office-boundary example adds that role dignity, title rules, and feedback channels also shape institutional capacity. The OCD episode adds a source-scoped public-health education case: mechanism and assessment language can orient action, but exposure practice and treatment planning stay clinically bounded. Work, education, and society sources converge on a practical pattern: durable capability comes from bounded institutions, active learning, realistic workplace judgment, human feedback loops, social trust, pacing, and environments that let people act under real constraints.",
   "topic_id": "work-education-and-society"
 }

@@ -4,15 +4,15 @@ generated: true
 topic_id: science-health-and-climate
 title: "Science, Health, and Climate"
 last_updated: 2026-08-29
-as_of_overview_commit: 5268dd1690b2b126adeac4c0e9bea2a6110d9e66
-input_digest: 7ad67cef7af594b1e2eae7ee29011c55c2549e2a7b0a6e15d6d4af9f022a57dc
+as_of_overview_commit: 371c50f3e04966894c50817df8dae28947ea4cad
+input_digest: e162d2ea44c471b9bdd20ab0e60d93801bdfab3ff2798fc294da72d6fcbb064a
 ---
 
 # Science, Health, and Climate
 
 ## Current State
 
-VOL.215 adds a sugar-control literacy branch: fruit, sweetened drinks, carbohydrate staples, hypoglycemia risk, medication choice, and lifestyle adherence only become medically meaningful when tied to glycemic load, monitoring, comorbidities, and individualized plans. VOL.213 adds an insect-bite literacy branch: mosquito repellents depend on effective ingredients, coverage, and reapplication; ordinary bite swelling is usually allergic/inflammatory; antihistamines and steroids have safety boundaries; and tick or chigger fever/eschar exposure shifts care to clinicians. The topic also includes first-visit diagnostic safety netting, female hormone health across menstruation, PCOS, menopause, pregnancy, and transgender care, plus individualized cancer vaccines. Across these strands, recurring claims emphasize mechanism, measurement, escalation thresholds, and longitudinal adherence over headline labels alone.
+The OCD episode adds a serious psychiatric-care branch: obsessions and compulsions are framed as anxiety-relief reinforcement, while Y-BOCS assessment, corticostriatal-thalamic circuitry, and exposure-response prevention keep diagnosis and treatment inside clinical boundaries. VOL.215 adds a sugar-control literacy branch, and VOL.213 adds an insect-bite literacy branch. The topic also includes first-visit diagnostic safety netting, female hormone health across menstruation, PCOS, menopause, pregnancy, and transgender care, metabolic psychiatry, bipolar care, and individualized cancer vaccines. Across these strands, recurring claims emphasize mechanism, measurement, escalation thresholds, supervision boundaries, and longitudinal adherence over headline labels alone.
 
 ## Cross-source Findings
 
@@ -62,6 +62,18 @@ VOL.215 adds a sugar-control literacy branch: fruit, sweetened drinks, carbohydr
 - The episode is public psychiatric education, not individualized diagnosis, medication, supplement, or psychotherapy advice.
 - Lithium, antidepressant combinations, ECT, inositol, omega-3s, sleep routines, and nutrition supports remain clinician-contextual rather than substitutes for qualified care.
 - The creativity association is source-scoped correlation, not proof that bipolar symptoms cause creativity or should be left untreated.
+
+### Ocd Care Needs Assessment Reinforcement And Supervised Exposure
+
+[[ObsessiveCompulsiveDisorder]] adds a psychiatric-risk branch: [[OCDCompulsionReinforcementLoop]], [[CorticostriatalThalamicLoop]], [[YaleBrownObsessiveCompulsiveScale]], and [[ExposureResponsePreventionForOCD]] frame OCD as intrusive obsessions, anxiety-linked compulsive relief, assessment, neural circuitry, and supervised exposure treatment rather than personality quirk, ordinary preference, or self-directed ritual suppression.
+
+**Evidence:** [[essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647]], [[ObsessiveCompulsiveDisorder]], [[OCDCompulsionReinforcementLoop]], [[CorticostriatalThalamicLoop]], [[YaleBrownObsessiveCompulsiveScale]], [[ExposureResponsePreventionForOCD]], [[PsychiatricMedicationSupervisionBoundary]], [[MedicalRiskManagement]], [[SerotoninSocialWellbeingTools]], [[EmotionRegulationToolkit]], [[ActionAgainstAnxiety]], [[HubermanLab]], [[AndrewHuberman]], [[HelenBlairSimpson]]
+
+**Qualifications:**
+
+- The episode is public psychiatric education, not individualized diagnosis, exposure planning, medication selection, supplement advice, or treatment guidance.
+- Exposure-response prevention is presented as deliberately anxiety-evoking and should be guided by trained licensed clinicians rather than attempted casually.
+- SSRI, cannabis/CBD, TMS, mindfulness, and myo-inositol claims remain source-scoped and clinically bounded.
 
 ### Female Hormone Health Needs Life Course Phenotyping
 

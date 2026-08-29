@@ -365,12 +365,13 @@
       "6dd2244cfd82de8e2076d8e2587203e47d3343702b97f83715d88073f28b3401",
       "aecaaa49da936c98684cec9f1063846b0672b74bc20fcbd62311f6a489f3c810",
       "c579b0c3102e48af519244d183c5c41e037740a37bf519bf5b0f4bf5ef849207",
-      "56abb716e5b03c8a306adb1a6c6075e7f241a8cf33161741fecbd9f5b886bbb0"
+      "56abb716e5b03c8a306adb1a6c6075e7f241a8cf33161741fecbd9f5b886bbb0",
+      "c94dbb4bb11fbc67a68689063a003f4343a0087a9f4a369adf5930530cf3dce6"
     ],
-    "paragraph_count": 365
+    "paragraph_count": 366
   },
-  "overview_commit": "baeb1e0a8ee4cc35c0ee9170a6326e247242605d",
-  "overview_digest": "7c7cdffe5f6a86ddfb4fc637b38e0c195336417f270b52c66cc31b7e96446455",
+  "overview_commit": "371c50f3e04966894c50817df8dae28947ea4cad",
+  "overview_digest": "3c46fe3d7093439eea5b31decde622293305fb6fed79a0b31d18b85be20e419e",
   "paragraphs": [
     {
       "id": "d6d0975d88c73cc06e30e1905981dcf71f09061d5988d627ac1ebf0bfce6b65f",
@@ -11312,6 +11313,36 @@
         "ZhangZhaoLateHan",
         "zizhi-tongjian-hanji-1052-sanguo-zhongchen-zhanghong-jing-wannong-caocao-yu-guzhang-ljc3sd7meigo37uy-1fxnkx-psqg",
         "zizhi-tongjian-hanji-1053-genzhe-sunquan-xuexi-ruhe-zhengdun-jituan-gaoguan-lq9hy25xonjzhj1sfisvauu3bwmi"
+      ]
+    },
+    {
+      "id": "c94dbb4bb11fbc67a68689063a003f4343a0087a9f4a369adf5930530cf3dce6",
+      "primary_topic": "science-health-and-climate",
+      "secondary_topics": [
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647|Essentials: The Science & Treatment of Obsessive Compulsive Disorder (OCD)]], a [[HubermanLab]] Essentials episode with [[AndrewHuberman]] on [[ObsessiveCompulsiveDisorder]], mechanisms, assessment, and treatment. It adds [[HelenBlairSimpson]], [[YaleBrownObsessiveCompulsiveScale]], [[OCDCompulsionReinforcementLoop]], [[ExposureResponsePreventionForOCD]], and [[CorticostriatalThalamicLoop]], while extending [[PsychiatricMedicationSupervisionBoundary]], [[MedicalRiskManagement]], [[SerotoninSocialWellbeingTools]], [[EmotionRegulationToolkit]], and [[ActionAgainstAnxiety]]. Its core synthesis is that OCD is a serious reinforcement disorder rather than a personality quirk: anxiety links intrusive obsessions to compulsive relief, the relief strengthens the future cycle, and exposure-response prevention works by progressively activating anxiety while blocking ritual completion under trained clinical guidance. No settled contradiction is recorded; SSRI, cannabis/CBD, TMS, mindfulness, and myo-inositol claims remain source-scoped public education rather than individualized treatment advice.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "psychology-and-personal-development": 1,
+        "science-health-and-climate": 2,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "ActionAgainstAnxiety",
+        "AndrewHuberman",
+        "CorticostriatalThalamicLoop",
+        "EmotionRegulationToolkit",
+        "ExposureResponsePreventionForOCD",
+        "HelenBlairSimpson",
+        "HubermanLab",
+        "MedicalRiskManagement",
+        "OCDCompulsionReinforcementLoop",
+        "ObsessiveCompulsiveDisorder",
+        "PsychiatricMedicationSupervisionBoundary",
+        "SerotoninSocialWellbeingTools",
+        "YaleBrownObsessiveCompulsiveScale",
+        "essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647"
       ]
     }
   ],

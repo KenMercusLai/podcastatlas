@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 5920
+wiki_total_pages: 5924
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -38,6 +38,9 @@ wiki_pages:
   - key: "ObservationBeforeInference"
     title: "Observation Before Inference"
     url: "/wiki/concepts/observationbeforeinference/"
+  - key: "ObsessiveCompulsiveDisorder"
+    title: "Obsessive-Compulsive Disorder"
+    url: "/wiki/concepts/obsessivecompulsivedisorder/"
   - key: "OccamsRazor"
     title: "Occam's Razor"
     url: "/wiki/concepts/occamsrazor/"
@@ -47,6 +50,9 @@ wiki_pages:
   - key: "OccupationPacificationStrategy"
     title: "Occupation Pacification Strategy / 占领区怀柔治理"
     url: "/wiki/concepts/occupationpacificationstrategy/"
+  - key: "OCDCompulsionReinforcementLoop"
+    title: "OCD Compulsion Reinforcement Loop"
+    url: "/wiki/concepts/ocdcompulsionreinforcementloop/"
   - key: "OceanAcidification"
     title: "Ocean Acidification"
     url: "/wiki/concepts/oceanacidification/"

@@ -103,6 +103,33 @@
     },
     {
       "global_candidate": true,
+      "id": "ocd-care-needs-assessment-reinforcement-and-supervised-exposure",
+      "qualifications": [
+        "The episode is public psychiatric education, not individualized diagnosis, exposure planning, medication selection, supplement advice, or treatment guidance.",
+        "Exposure-response prevention is presented as deliberately anxiety-evoking and should be guided by trained licensed clinicians rather than attempted casually.",
+        "SSRI, cannabis/CBD, TMS, mindfulness, and myo-inositol claims remain source-scoped and clinically bounded."
+      ],
+      "statement": "[[ObsessiveCompulsiveDisorder]] adds a psychiatric-risk branch: [[OCDCompulsionReinforcementLoop]], [[CorticostriatalThalamicLoop]], [[YaleBrownObsessiveCompulsiveScale]], and [[ExposureResponsePreventionForOCD]] frame OCD as intrusive obsessions, anxiety-linked compulsive relief, assessment, neural circuitry, and supervised exposure treatment rather than personality quirk, ordinary preference, or self-directed ritual suppression.",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647",
+        "ObsessiveCompulsiveDisorder",
+        "OCDCompulsionReinforcementLoop",
+        "CorticostriatalThalamicLoop",
+        "YaleBrownObsessiveCompulsiveScale",
+        "ExposureResponsePreventionForOCD",
+        "PsychiatricMedicationSupervisionBoundary",
+        "MedicalRiskManagement",
+        "SerotoninSocialWellbeingTools",
+        "EmotionRegulationToolkit",
+        "ActionAgainstAnxiety",
+        "HubermanLab",
+        "AndrewHuberman",
+        "HelenBlairSimpson"
+      ]
+    },
+    {
+      "global_candidate": true,
       "id": "female-hormone-health-needs-life-course-phenotyping",
       "qualifications": [
         "The episode is medical education, not individualized care; testing, CGM use, hormone therapy, chronic-cardio advice, CAC timing, and oral-contraceptive choices remain clinician-contextual.",
@@ -387,6 +414,6 @@
       ]
     }
   ],
-  "summary": "VOL.215 adds a sugar-control literacy branch: fruit, sweetened drinks, carbohydrate staples, hypoglycemia risk, medication choice, and lifestyle adherence only become medically meaningful when tied to glycemic load, monitoring, comorbidities, and individualized plans. VOL.213 adds an insect-bite literacy branch: mosquito repellents depend on effective ingredients, coverage, and reapplication; ordinary bite swelling is usually allergic/inflammatory; antihistamines and steroids have safety boundaries; and tick or chigger fever/eschar exposure shifts care to clinicians. The topic also includes first-visit diagnostic safety netting, female hormone health across menstruation, PCOS, menopause, pregnancy, and transgender care, plus individualized cancer vaccines. Across these strands, recurring claims emphasize mechanism, measurement, escalation thresholds, and longitudinal adherence over headline labels alone.",
+  "summary": "The OCD episode adds a serious psychiatric-care branch: obsessions and compulsions are framed as anxiety-relief reinforcement, while Y-BOCS assessment, corticostriatal-thalamic circuitry, and exposure-response prevention keep diagnosis and treatment inside clinical boundaries. VOL.215 adds a sugar-control literacy branch, and VOL.213 adds an insect-bite literacy branch. The topic also includes first-visit diagnostic safety netting, female hormone health across menstruation, PCOS, menopause, pregnancy, and transgender care, metabolic psychiatry, bipolar care, and individualized cancer vaccines. Across these strands, recurring claims emphasize mechanism, measurement, escalation thresholds, supervision boundaries, and longitudinal adherence over headline labels alone.",
   "topic_id": "science-health-and-climate"
 }

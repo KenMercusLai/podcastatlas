@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 5920
+wiki_total_pages: 5924
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -743,6 +743,9 @@ wiki_pages:
   - key: "ExportTaxFraudCreditCrisis"
     title: "Export Tax Fraud Credit Crisis"
     url: "/wiki/concepts/exporttaxfraudcreditcrisis/"
+  - key: "ExposureResponsePreventionForOCD"
+    title: "Exposure and Response Prevention for OCD"
+    url: "/wiki/concepts/exposureresponsepreventionforocd/"
   - key: "ExposureDosageCausality"
     title: "Exposure-Dosage Causality"
     url: "/wiki/concepts/exposuredosagecausality/"

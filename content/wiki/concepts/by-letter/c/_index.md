@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 5920
+wiki_total_pages: 5924
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1403,6 +1403,9 @@ wiki_pages:
   - key: "CorrectableLeadershipError"
     title: "Correctable Leadership Error / 犯错能改的领导力"
     url: "/wiki/concepts/correctableleadershiperror/"
+  - key: "CorticostriatalThalamicLoop"
+    title: "Corticostriatal-Thalamic Loop"
+    url: "/wiki/concepts/corticostriatalthalamicloop/"
   - key: "CosmicHorror"
     title: "Cosmic Horror"
     url: "/wiki/concepts/cosmichorror/"

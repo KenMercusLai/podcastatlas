@@ -13473,6 +13473,14 @@ Ran lint. See lint-report.md for details.
 
 Ingested the 2026-07-09 芮淇讲透资治通鉴 episode on 125 CE Emperor An's sudden tour death, Yan Taihou and Yan Xian's concealed-death accession of Beixiang Hou, Liu Bao's exclusion, and the Yan-family purge of Geng Bao, Fan Feng, and Wang Sheng. Created the source note plus `EmperorAnOfHan`, `GengBaoGrandGeneralLateHan`, `FanFengEunuchLateHan`, `WangShengPalaceActorLateHan`, and `PowerMonopolyBackfire`; updated `EmpressDowagerYanLateHan`, `YanXianLateHan`, `LiuYiBeixiangHouLateHan`, `EmperorShunOfHan`, `ImperialDeathConcealment`, `SuccessionLegitimacyPurge`, `ControllableChildAccession`, `OuterRelativeCourtPower`, `overview`, and `index`. No settled contradiction found; Beixiang Hou's 刘懿/刘裔 name tension and minor actors including Xie Yun, Zhou Guang, Yan Jing, Yan Yao, Yan Yan, Ye County, and Jinan Xiao Wang Liu Xiang remain source-scoped.
 
+## [2026-08-29] ingest | Essentials: The Science & Treatment of Obsessive Compulsive Disorder (OCD)
+
+Ingested the 2026-07-09 Huberman Lab Essentials episode on OCD obsessions, compulsions, anxiety reinforcement, corticostriatal-thalamic circuitry, Y-BOCS assessment, exposure-response prevention, SSRIs, TMS, cannabis/CBD, mindfulness, and myo-inositol. Created the source note plus `HelenBlairSimpson`, `YaleBrownObsessiveCompulsiveScale`, `ObsessiveCompulsiveDisorder`, `OCDCompulsionReinforcementLoop`, `ExposureResponsePreventionForOCD`, and `CorticostriatalThalamicLoop`; updated `HubermanLab`, `AndrewHuberman`, `PsychiatricMedicationSupervisionBoundary`, `index`, and `overview`. No settled contradiction found; medication, cannabis/CBD, TMS, mindfulness, and supplement claims remain source-scoped and clinically bounded.
+
+## [2026-08-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
 ## [2026-08-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

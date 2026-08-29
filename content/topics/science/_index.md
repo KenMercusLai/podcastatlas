@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 839
+topic_total_pages: 841
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -301,6 +301,9 @@ topic_concepts:
   - key: "CoolingAsPublicHealth"
     title: "Cooling As Public Health"
     url: "/wiki/concepts/coolingaspublichealth/"
+  - key: "CorticostriatalThalamicLoop"
+    title: "Corticostriatal-Thalamic Loop"
+    url: "/wiki/concepts/corticostriatalthalamicloop/"
   - key: "CosmopolitanChineseScholarship"
     title: "Cosmopolitan Chinese Scholarship / 世界主义的中国学术"
     url: "/wiki/concepts/cosmopolitanchinesescholarship/"
@@ -2430,6 +2433,9 @@ topic_sources:
   - key: "essentials-the-science-treatment-of-bipolar-disorder-scim8821948371"
     title: "Essentials: The Science & Treatment of Bipolar Disorder"
     url: "/wiki/sources/essentials-the-science-treatment-of-bipolar-disorder-scim8821948371/"
+  - key: "essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647"
+    title: "Essentials: The Science & Treatment of Obsessive Compulsive Disorder (OCD)"
+    url: "/wiki/sources/essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647/"
   - key: "fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd"
     title: "Fear-jerker: America's AI backlash"
     url: "/wiki/sources/fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd/"
