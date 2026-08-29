@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1996
+topic_total_pages: 1997
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3277,6 +3277,9 @@ topic_concepts:
   - key: "ZonghengjiaDiplomacy"
     title: "纵横家外交 / Zonghengjia Diplomacy"
     url: "/wiki/concepts/zonghengjiadiplomacy/"
+  - key: "SuccessionAuthorityConsolidation"
+    title: "继位权威整合 / Succession Authority Consolidation"
+    url: "/wiki/concepts/successionauthorityconsolidation/"
   - key: "RumorDrivenFrontierIntervention"
     title: "谣言驱动的边疆干预 / Rumor-Driven Frontier Intervention"
     url: "/wiki/concepts/rumordrivenfrontierintervention/"

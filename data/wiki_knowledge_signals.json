@@ -12840,6 +12840,29 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/impermanenceandnoself/"
     },
+    "ImportedTroopsLocalEliteCleavage": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》981丨三国最刚谋士程昱：一句话让曹操叹服 [lhLHlRMf2GVSPwyvjkxG6Kz44FTH].md",
+          "key": "zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》981丨三国最刚谋士程昱：一句话让曹操叹服",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1053丨跟着孙权，学习如何整顿集团高管 [lq9hy25XONjZHJ1sFIsvauu3bwMI].md",
+          "key": "zizhi-tongjian-hanji-1053-genzhe-sunquan-xuexi-ruhe-zhengdun-jituan-gaoguan-lq9hy25xonjzhj1sfisvauu3bwmi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1053丨跟着孙权，学习如何整顿集团高管",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1053-genzhe-sunquan-xuexi-ruhe-zhengdun-jituan-gaoguan-lq9hy25xonjzhj1sfisvauu3bwmi/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/importedtroopslocalelitecleavage/"
+    },
     "IndividualizedCancerVaccine": {
       "episode_count": 4,
       "show_count": 4,
@@ -15270,6 +15293,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/lijinwulinglatehan/"
     },
+    "LiShuLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1053丨跟着孙权，学习如何整顿集团高管 [lq9hy25XONjZHJ1sFIsvauu3bwMI].md",
+          "key": "zizhi-tongjian-hanji-1053-genzhe-sunquan-xuexi-ruhe-zhengdun-jituan-gaoguan-lq9hy25xonjzhj1sfisvauu3bwmi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1053丨跟着孙权，学习如何整顿集团高管",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1053-genzhe-sunquan-xuexi-ruhe-zhengdun-jituan-gaoguan-lq9hy25xonjzhj1sfisvauu3bwmi/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/lishulatehan/"
+    },
     "LiSuNanCommanderyLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -15853,9 +15892,9 @@
       "url": "/wiki/concepts/lithiumbipolartreatment/"
     },
     "LiuBiao": {
-      "episode_count": 14,
+      "episode_count": 15,
       "show_count": 1,
-      "source_note_count": 14,
+      "source_note_count": 15,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》953丨乱世之中，要不要讲究仁义？ [lrZfImgqAtJXyw9zX9rY2kIWXKON].md",
@@ -15954,6 +15993,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1054丨惊叹！曹操、袁绍、刘备的命运转折",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1054-jingtan-caocao-yuanshao-liubei-de-mingyun-zhuanzhe-lmd2yjre-cwdbxky2ht5o0n4g6fk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1053丨跟着孙权，学习如何整顿集团高管 [lq9hy25XONjZHJ1sFIsvauu3bwMI].md",
+          "key": "zizhi-tongjian-hanji-1053-genzhe-sunquan-xuexi-ruhe-zhengdun-jituan-gaoguan-lq9hy25xonjzhj1sfisvauu3bwmi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1053丨跟着孙权，学习如何整顿集团高管",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1053-genzhe-sunquan-xuexi-ruhe-zhengdun-jituan-gaoguan-lq9hy25xonjzhj1sfisvauu3bwmi/"
         }
       ],
       "updated": "2026-08-29",
@@ -16473,9 +16519,9 @@
       "url": "/wiki/entities/liuyuastrologerlatehan/"
     },
     "LiuZhang": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》959丨如果你穿越到三国，该如何存活？ [lroaiHMPNRElmFcUGym9zx2H2dHQ].md",
@@ -16497,6 +16543,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1055丨他为表忠心，愿喝用自己儿子熬的肉汤？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1053丨跟着孙权，学习如何整顿集团高管 [lq9hy25XONjZHJ1sFIsvauu3bwMI].md",
+          "key": "zizhi-tongjian-hanji-1053-genzhe-sunquan-xuexi-ruhe-zhengdun-jituan-gaoguan-lq9hy25xonjzhj1sfisvauu3bwmi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1053丨跟着孙权，学习如何整顿集团高管",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1053-genzhe-sunquan-xuexi-ruhe-zhengdun-jituan-gaoguan-lq9hy25xonjzhj1sfisvauu3bwmi/"
         }
       ],
       "updated": "2026-08-29",
@@ -16935,6 +16988,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/lumbarneutralposition/"
     },
+    "LuoTong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1053丨跟着孙权，学习如何整顿集团高管 [lq9hy25XONjZHJ1sFIsvauu3bwMI].md",
+          "key": "zizhi-tongjian-hanji-1053-genzhe-sunquan-xuexi-ruhe-zhengdun-jituan-gaoguan-lq9hy25xonjzhj1sfisvauu3bwmi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1053丨跟着孙权，学习如何整顿集团高管",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1053-genzhe-sunquan-xuexi-ruhe-zhengdun-jituan-gaoguan-lq9hy25xonjzhj1sfisvauu3bwmi/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/luotong/"
+    },
     "LuoboPaidui": {
       "episode_count": 1,
       "show_count": 1,
@@ -17271,6 +17340,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/lyubu/"
+    },
+    "LyuMeng": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1053丨跟着孙权，学习如何整顿集团高管 [lq9hy25XONjZHJ1sFIsvauu3bwMI].md",
+          "key": "zizhi-tongjian-hanji-1053-genzhe-sunquan-xuexi-ruhe-zhengdun-jituan-gaoguan-lq9hy25xonjzhj1sfisvauu3bwmi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1053丨跟着孙权，学习如何整顿集团高管",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1053-genzhe-sunquan-xuexi-ruhe-zhengdun-jituan-gaoguan-lq9hy25xonjzhj1sfisvauu3bwmi/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/lyumeng/"
     },
     "MDMA": {
       "episode_count": 1,
@@ -20051,9 +20136,9 @@
       "url": "/wiki/entities/panhonglatehan/"
     },
     "PangXiLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》981丨三国最刚谋士程昱：一句话让曹操叹服 [lhLHlRMf2GVSPwyvjkxG6Kz44FTH].md",
@@ -20068,6 +20153,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1055丨他为表忠心，愿喝用自己儿子熬的肉汤？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1053丨跟着孙权，学习如何整顿集团高管 [lq9hy25XONjZHJ1sFIsvauu3bwMI].md",
+          "key": "zizhi-tongjian-hanji-1053-genzhe-sunquan-xuexi-ruhe-zhengdun-jituan-gaoguan-lq9hy25xonjzhj1sfisvauu3bwmi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1053丨跟着孙权，学习如何整顿集团高管",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1053-genzhe-sunquan-xuexi-ruhe-zhengdun-jituan-gaoguan-lq9hy25xonjzhj1sfisvauu3bwmi/"
         }
       ],
       "updated": "2026-08-29",
@@ -24598,6 +24690,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/successfulaging/"
     },
+    "SuccessionAuthorityConsolidation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1053丨跟着孙权，学习如何整顿集团高管 [lq9hy25XONjZHJ1sFIsvauu3bwMI].md",
+          "key": "zizhi-tongjian-hanji-1053-genzhe-sunquan-xuexi-ruhe-zhengdun-jituan-gaoguan-lq9hy25xonjzhj1sfisvauu3bwmi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1053丨跟着孙权，学习如何整顿集团高管",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1053-genzhe-sunquan-xuexi-ruhe-zhengdun-jituan-gaoguan-lq9hy25xonjzhj1sfisvauu3bwmi/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/successionauthorityconsolidation/"
+    },
     "SufferingBasedMoralSubjecthood": {
       "episode_count": 1,
       "show_count": 1,
@@ -24844,9 +24952,9 @@
       "url": "/wiki/entities/sunfenfufenglatehan/"
     },
     "SunFuLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1039丨东吴第一嘴炮？且看他如何劝降华歆 [lhRE_IH73YNzfwUJO0lNXYJDguYD].md",
@@ -24854,15 +24962,22 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1039丨东吴第一嘴炮？且看他如何劝降华歆",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1053丨跟着孙权，学习如何整顿集团高管 [lq9hy25XONjZHJ1sFIsvauu3bwMI].md",
+          "key": "zizhi-tongjian-hanji-1053-genzhe-sunquan-xuexi-ruhe-zhengdun-jituan-gaoguan-lq9hy25xonjzhj1sfisvauu3bwmi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1053丨跟着孙权，学习如何整顿集团高管",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1053-genzhe-sunquan-xuexi-ruhe-zhengdun-jituan-gaoguan-lq9hy25xonjzhj1sfisvauu3bwmi/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-08-29",
       "url": "/wiki/entities/sunfulatehan/"
     },
     "SunQuan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1028丨小霸王孙策立威，称霸江东！ [lgur-3FmpR55wy3AjI--0Rm38Y7X].md",
@@ -24884,9 +24999,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1045丨他是江东霸业的开创者，可惜死的太窝囊",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1053丨跟着孙权，学习如何整顿集团高管 [lq9hy25XONjZHJ1sFIsvauu3bwMI].md",
+          "key": "zizhi-tongjian-hanji-1053-genzhe-sunquan-xuexi-ruhe-zhengdun-jituan-gaoguan-lq9hy25xonjzhj1sfisvauu3bwmi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1053丨跟着孙权，学习如何整顿集团高管",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1053-genzhe-sunquan-xuexi-ruhe-zhengdun-jituan-gaoguan-lq9hy25xonjzhj1sfisvauu3bwmi/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-29",
       "url": "/wiki/entities/sunquan/"
     },
     "SunShengEasternJin": {
@@ -30633,9 +30755,9 @@
       "url": "/wiki/entities/zhanglinglatehan/"
     },
     "ZhangLuFivePecks": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》959丨如果你穿越到三国，该如何存活？ [lroaiHMPNRElmFcUGym9zx2H2dHQ].md",
@@ -30657,6 +30779,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1055丨他为表忠心，愿喝用自己儿子熬的肉汤？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1053丨跟着孙权，学习如何整顿集团高管 [lq9hy25XONjZHJ1sFIsvauu3bwMI].md",
+          "key": "zizhi-tongjian-hanji-1053-genzhe-sunquan-xuexi-ruhe-zhengdun-jituan-gaoguan-lq9hy25xonjzhj1sfisvauu3bwmi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1053丨跟着孙权，学习如何整顿集团高管",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1053-genzhe-sunquan-xuexi-ruhe-zhengdun-jituan-gaoguan-lq9hy25xonjzhj1sfisvauu3bwmi/"
         }
       ],
       "updated": "2026-08-29",
@@ -30976,6 +31105,36 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/zhaoraolatehan/"
+    },
+    "ZhaoWeiLateHan": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》939丨东汉乱局的疯狂三国序曲 [lthMvw8iHk96Fuez9vaMlRyzCnGy].md",
+          "key": "zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》939丨东汉乱局的疯狂三国序曲",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》981丨三国最刚谋士程昱：一句话让曹操叹服 [lhLHlRMf2GVSPwyvjkxG6Kz44FTH].md",
+          "key": "zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》981丨三国最刚谋士程昱：一句话让曹操叹服",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1053丨跟着孙权，学习如何整顿集团高管 [lq9hy25XONjZHJ1sFIsvauu3bwMI].md",
+          "key": "zizhi-tongjian-hanji-1053-genzhe-sunquan-xuexi-ruhe-zhengdun-jituan-gaoguan-lq9hy25xonjzhj1sfisvauu3bwmi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1053丨跟着孙权，学习如何整顿集团高管",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1053-genzhe-sunquan-xuexi-ruhe-zhengdun-jituan-gaoguan-lq9hy25xonjzhj1sfisvauu3bwmi/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/zhaoweilatehan/"
     },
     "ZhaoXuLateHan": {
       "episode_count": 1,

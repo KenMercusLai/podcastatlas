@@ -358,12 +358,13 @@
       "feea2d50d210e6102662cda44c927b2f7b25d4a9c1910663ab0bf085b4a54550",
       "082a8129ce267d83fa695011e4d1d9ec611a2911fab24932213544b548f520cf",
       "6dd2244cfd82de8e2076d8e2587203e47d3343702b97f83715d88073f28b3401",
-      "aecaaa49da936c98684cec9f1063846b0672b74bc20fcbd62311f6a489f3c810"
+      "aecaaa49da936c98684cec9f1063846b0672b74bc20fcbd62311f6a489f3c810",
+      "c579b0c3102e48af519244d183c5c41e037740a37bf519bf5b0f4bf5ef849207"
     ],
-    "paragraph_count": 358
+    "paragraph_count": 359
   },
-  "overview_commit": "5166e581123dc4aad1a4bcd81fae295cd7107122",
-  "overview_digest": "5db8bd6e48557876aff40d3579f21afa64eaf9f61046106fe351a2afb5527876",
+  "overview_commit": "e4b5a3a0f54bb945717fa6115481248f124b6837",
+  "overview_digest": "a12febf50c1dfa5ea40fbba35f8bac03286e49c8946dca37780a273a282e2ae8",
   "paragraphs": [
     {
       "id": "750236a3432e0c98c4fa9fe78759f73d329b50598c2bfc4d91296222ee930fff",
@@ -11103,6 +11104,38 @@
         "YanPuLateHan",
         "ZhangLuFivePecks",
         "zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o"
+      ]
+    },
+    {
+      "id": "c579b0c3102e48af519244d183c5c41e037740a37bf519bf5b0f4bf5ef849207",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1053-genzhe-sunquan-xuexi-ruhe-zhengdun-jituan-gaoguan-lq9hy25xonjzhj1sfisvauu3bwmi|《资治通鉴·汉纪》1053丨跟着孙权，学习如何整顿集团高管]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode filling the missing Jian'an 5 bridge between [[zizhi-tongjian-hanji-1051-ta-weihe-bei-chengzuo-shi-zui-you-nengli-de-yangzhou-cishi-ltquwyzzq-sqibj33bpbu3qyvz2h|Hanji 1051]] and [[zizhi-tongjian-hanji-1054-jingtan-caocao-yuanshao-liubei-de-mingyun-zhuanzhe-lmd2yjre-cwdbxky2ht5o0n4g6fk|Hanji 1054]]. It adds [[LyuMeng|吕蒙]], [[LuoTong|骆统]], [[LiShuLateHan|李术]], and [[SuccessionAuthorityConsolidation|继位权威整合]], while extending [[SunQuan|孙权]], [[SunFuLateHan|孙辅]], [[LiuBiao|刘表]], [[LiuZhang|刘璋]], [[ZhangLuFivePecks|张鲁]], [[PangXiLateHan|庞羲]], [[ZhaoWeiLateHan|赵韪]], and [[ImportedTroopsLocalEliteCleavage|外来武装与本土豪族裂缝]]. Its core synthesis is that succession authority becomes real only when personnel recognition and internal discipline move together: Sun Quan promotes competent commanders and opens advice channels, then isolates Sun Fu and Li Shu before Cao Cao can become their rescue path, while the Yizhou branch shows the opposite failure as Liu Zhang cannot bind Zhang Lu, Pang Xi, Dongzhou troops, or Zhao Wei into one order. No settled contradiction is recorded; Li Shu is kept distinct from [[LiuXunLateHan|刘勋]] and [[LiuXunYizhouHeirLateHan|刘循]], and the host's modern management language remains source-scoped.",
+      "topic_scores": {
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "ImportedTroopsLocalEliteCleavage",
+        "LiShuLateHan",
+        "LiuBiao",
+        "LiuXunLateHan",
+        "LiuXunYizhouHeirLateHan",
+        "LiuZhang",
+        "LuoTong",
+        "LyuMeng",
+        "PangXiLateHan",
+        "RuiqiJiangtouZizhiTongjian",
+        "SuccessionAuthorityConsolidation",
+        "SunFuLateHan",
+        "SunQuan",
+        "ZhangLuFivePecks",
+        "ZhaoWeiLateHan",
+        "zizhi-tongjian-hanji-1051-ta-weihe-bei-chengzuo-shi-zui-you-nengli-de-yangzhou-cishi-ltquwyzzq-sqibj33bpbu3qyvz2h",
+        "zizhi-tongjian-hanji-1053-genzhe-sunquan-xuexi-ruhe-zhengdun-jituan-gaoguan-lq9hy25xonjzhj1sfisvauu3bwmi",
+        "zizhi-tongjian-hanji-1054-jingtan-caocao-yuanshao-liubei-de-mingyun-zhuanzhe-lmd2yjre-cwdbxky2ht5o0n4g6fk"
       ]
     }
   ],

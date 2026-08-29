@@ -13145,6 +13145,10 @@ Ingested the Marketplace Tech episode on Meta's proposed teen-safety settlement,
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-29] ingest | 《资治通鉴·汉纪》1053丨跟着孙权，学习如何整顿集团高管
+
+Ingested the 2026-08-28 芮淇讲透资治通鉴 episode on Sun Quan's early succession consolidation, Lyu Meng's troop-discipline promotion, Luo Tong's talent-observation advice, Sun Fu's secret appeal to Cao Cao, Li Shu's Lujiang resistance, Liu Biao's southern Jingzhou expansion and ritual overreach, and Liu Zhang's Yizhou fracture around Zhang Lu, Pang Xi, Zhao Wei, and Dongzhou troops. Created the source note plus `LyuMeng`, `LuoTong`, `LiShuLateHan`, and `SuccessionAuthorityConsolidation`; updated `SunQuan`, `SunFuLateHan`, `LiuBiao`, `LiuZhang`, `ZhangLuFivePecks`, `PangXiLateHan`, `ZhaoWeiLateHan`, `ImportedTroopsLocalEliteCleavage`, `index`, and `overview`. No settled contradiction found; Li Shu is kept distinct from Liu Xun and Li Shufu, and the host's modern management language remains source-scoped while the Li Shu campaign's civilian slaughter and relocation remain a qualification.
+
 ## [2026-08-29] ingest | 《资治通鉴·汉纪》1055丨他为表忠心，愿喝用自己儿子熬的肉汤？
 
 Ingested the 芮淇讲透资治通鉴 episode on Cheng Ji refusing Pang Xi's self-protective mobilization, Zhang Lu's Wudoumi Dao Hanzhong order, Yan Pu's anti-kingship counsel, and Cao Cao's sacrifice to Qiao Xuan. Created the source note plus Cheng Ji, Yan Pu, Liu Xun (Yizhou heir), and Official Duty Over Patron Command pages; updated Liu Zhang, Pang Xi, Zhang Lu, Wudoumi Dao, Qiao Xuan, Title-Reality Restraint, Instrumentalized Religious Power, index, and overview. No settled contradiction found; Liu Zhang's son 刘循 is disambiguated from Lujiang 刘勋, Qiao Xuan's 乔玄 transcript form is normalized to 桥玄, and the opening merit/career frame plus Zhang Lu healing claims remain source-scoped.
@@ -13324,6 +13328,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-29] ingest | 《资治通鉴·汉纪》1051丨他为何被称作是最有能力的扬州刺史？
 
 Ingested the 2026-08-28 芮淇讲透资治通鉴 episode on Liu Fu's weak-base stabilization of western Yangzhou from Hefei. Created the source note plus `LiuFuLateHan`, `HefeiLateHan`, and `WeakPositionPacification`; updated `YangzhouLateHan`, `index`, and `overview`. No settled contradiction found; the transcript's 劉富/刘富 and 李庶 spellings are preserved as source-specific identity notes while the canonical Yangzhou-inspector/Hefei branch is normalized to Liu Fu/刘馥. Synthesis refresh rendered without global compaction; `python3 -m tools.validate_publish` passed.
+
+## [2026-08-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-29] lint | Wiki health check
 

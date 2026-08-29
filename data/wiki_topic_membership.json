@@ -55201,6 +55201,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "SuccessionAuthorityConsolidation": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "SuccessionCrisisIntervention": [
     {
       "key": "history",
