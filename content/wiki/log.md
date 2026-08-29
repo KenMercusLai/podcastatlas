@@ -13153,6 +13153,10 @@ Ingested the Marketplace Tech episode on Meta's proposed teen-safety settlement,
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-29] ingest | 《资治通鉴·汉纪》803丨汉顺帝如何在腥风血雨中登上皇位？
+
+Ingested the 2026-07-09 芮淇讲透资治通鉴 episode on Ban Yong's 125 CE Cheshi Hou campaign, Beixiang Hou Liu Yi's illness and concealed death, Yan Taihou's attempt to summon another successor, Sun Cheng's West Bell Tower oath and Zhangtai Gate coup, Li Run's coerced alignment, Feng Shi's noncommitment, Guo Zhen's capture of Yan Jin, and Emperor Shun's accession. Created the source note plus `LiuYiBeixiangHouLateHan`, `LiRunLateHan`, `FengShiLateHan`, and `GuoZhenLateHan`; updated `EmperorShunOfHan`, `SunChengLateHan`, `YanXianLateHan`, `EmpressDowagerYanLateHan`, `BanYongLateHan`, `CheshiHouKingdomLateHan`, `PalaceCoupSymbolControl`, `ImperialDeathConcealment`, `SuccessionLegitimacyPurge`, `index`, and `overview`. No settled contradiction found; Liu Yi is disambiguated from `LiuYiLateHan`, Wang Guo remains `WangGuoEunuchLateHan`, and minor coup, Yan-family, Western Regions, and endurance-frame details remain source-scoped.
+
 ## [2026-08-29] ingest | Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine
 
 Ingested the 2026-08-29 All-In episode on Nvidia's reported historic quarter, Salesforce's AI-era SaaS rebound, Bessent and Druckenmiller on Treasury buybacks and U.S. debt risk, AI-assisted op-ed disclosure, persistent Grokbot agents, Meta parental controls, and Moderna/Merck personalized cancer immunotherapy. Created the source note plus `AgenticSystemOfRecordMoat`, `USFiscalDebtSpiralRisk`, `AIAssistedWritingDisclosure`, `PersistentCloudAgents`, and `CancerImmunotherapyAccess`; updated `Salesforce`, `StanleyDruckenmiller`, `Grokbot`, `ScottBessent`, `TreasuryBuybackPolicy`, `Moderna`, `CancerVaccinePlatform`, `IndividualizedCancerVaccine`, `IndividualizedCancerVaccineManufacturing`, `index`, and `overview`. No settled contradiction found; market, fiscal, authorship, Ukraine, parental-control, and biotech-cost claims remain source-scoped.
@@ -13452,6 +13456,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-29] ingest | 《资治通鉴·汉纪》805丨通透人性的女人，竟能预测吉凶？
 
 Ingested the 2026-07-09 芮淇讲透资治通鉴 episode on 125-126 CE Emperor Shun's restoration settlement, Yang Zhen's vindication, Yan-family purge, Yan Taihou's ritual treatment and death, Yu Xu's cleanup of Yan/eunuch networks, and early Qiang/Xianbei pressure. Created the source note plus `EmpressDowagerYanLateHan` and `DefeatedDowagerLegitimacyManagement`; updated `EmperorShunOfHan`, `YuXuEasternHan`, `ZhouJuLateHan`, `SunChengLateHan`, `YangZhenLateHan`, `MaXianLateHan`, `SuccessionLegitimacyPurge`, `index`, and `overview`. No settled contradiction found; Yan Taihou's death cause and minor names including Chen Chan, Li He, Liu Yi, Feng Shi, Liu Xi, Tao Dun, Zhu Chong, Guo Zhen, Shi Yu, and Qu Boyu remain source-scoped.
+
+## [2026-08-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-29] lint | Wiki health check
 

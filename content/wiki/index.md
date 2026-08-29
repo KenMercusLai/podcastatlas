@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》803丨汉顺帝如何在腥风血雨中登上皇位？](sources/zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s.md) — 芮淇讲透资治通鉴 episode on the 125 CE concealed-death succession race after Beixiang Hou Liu Yi's death, Sun Cheng's Zhangtai Gate coup, Li Run's coerced alignment, Yan Xian's failed counterattack, Guo Zhen's arrest of Yan Jin, and Ban Yong's Cheshi Hou campaign.
 - [《资治通鉴·汉纪》804丨给你“糖”的人，不一定是贵人！](sources/zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh.md) — 芮淇讲透资治通鉴 episode on the 125 CE eunuch-backed restoration of Emperor Shun, Yan Xian's defeat, Yan-family purge, Sun Cheng's nineteen-eunuch reward bloc, and the Wang Kang/Miao Guang merit-list risk.
 - [《资治通鉴·汉纪》805丨通透人性的女人，竟能预测吉凶？](sources/zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew.md) — 芮淇讲透资治通鉴 episode on 125-126 CE Emperor Shun's restoration settlement, Yang Zhen's vindication, Yan-family purge, Yan Taihou's ritual treatment and death, Yu Xu's cleanup of Yan and eunuch networks, and early Qiang/Xianbei pressure.
 - [《资治通鉴·汉纪》806丨想要成事，找对人很关键！](sources/zizhi-tongjian-hanji-806-xiangyao-chengshi-zhaodui-ren-hen-guanjian-luswh-p-oyutysxue6shweqcwqxs.md) — 芮淇讲透资治通鉴 episode on 126 CE Emperor Shun, Yu Xu's anti-Zhang Fang prosecution, Sun Cheng and Gao Fan reopening the blocked case, Yu Xu's Zuo Xiong recommendation, and Sun Cheng's restoration-merit backlash.
@@ -1688,6 +1689,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [北乡侯刘裔 / Liu Yi (Beixiang Hou, late Han)](entities/LiuYiBeixiangHouLateHan.md) — Short-lived Yan-backed ruler whose hidden death triggers Sun Cheng's restoration of Emperor Shun.
+- [李润 / Li Run (late Han)](entities/LiRunLateHan.md) — Gate-side palace actor coerced into supporting Emperor Shun's restoration and later exposed to cleanup suspicion.
+- [冯师 / Feng Shi (late Han)](entities/FengShiLateHan.md) — Yueqi xiaowei whose refusal to join Yan Xian's counterattack helps collapse the Yan recovery attempt.
+- [郭镇 / Guo Zhen (late Han)](entities/GuoZhenLateHan.md) — Shangshu enforcer who captures Yan Jin at Shengde Gate during Emperor Shun's restoration.
 - [阎太后 / Empress Dowager Yan (late Han)](entities/EmpressDowagerYanLateHan.md) — Defeated Shun-era dowager whose post-Yan-family ritual treatment tests Emperor Shun's restored legitimacy.
 - [阎显 / Yan Xian (late Han)](entities/YanXianLateHan.md) — Defeated Yan outer-relative leader whose execution helps secure Emperor Shun's 125 CE restoration.
 - [孙程 / Sun Cheng (late Han)](entities/SunChengLateHan.md) — Shun-era eunuch and top restoration merit-holder whose coup role, reward-list management, Yu Xu rescue, and later merit claims remain politically contained.

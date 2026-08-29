@@ -3049,9 +3049,9 @@
       "url": "/wiki/entities/banshilatehan/"
     },
     "BanYongLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》807丨班超之子为何会含冤入狱？ [liIWGi77g2ON1z2VnWAF1_wVph2d].md",
@@ -3059,6 +3059,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》807丨班超之子为何会含冤入狱？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》803丨汉顺帝如何在腥风血雨中登上皇位？ [lqVnO7t_gcGXtbS3phufLR4ybe2s].md",
+          "key": "zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》803丨汉顺帝如何在腥风血雨中登上皇位？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s/"
         }
       ],
       "updated": "2026-08-29",
@@ -5057,9 +5064,9 @@
       "url": "/wiki/concepts/chenweievidentiarycritique/"
     },
     "CheshiHouKingdomLateHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》839丨你能做到问心无愧吗？ [lqVLsWUbf4aK5qfGZJF_OWignEua].md",
@@ -5081,6 +5088,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》807丨班超之子为何会含冤入狱？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》803丨汉顺帝如何在腥风血雨中登上皇位？ [lqVnO7t_gcGXtbS3phufLR4ybe2s].md",
+          "key": "zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》803丨汉顺帝如何在腥风血雨中登上皇位？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s/"
         }
       ],
       "updated": "2026-08-29",
@@ -8532,9 +8546,9 @@
       "url": "/wiki/entities/emperorhuanofhan/"
     },
     "EmperorShunOfHan": {
-      "episode_count": 20,
+      "episode_count": 21,
       "show_count": 1,
-      "source_note_count": 20,
+      "source_note_count": 21,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》822丨豺狼当道，他将矛头直指皇帝岳父？ [lqHpMAYVd3p07BYR_zOIv-jyhdv_].md",
@@ -8675,6 +8689,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》804丨给你“糖”的人，不一定是贵人！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》803丨汉顺帝如何在腥风血雨中登上皇位？ [lqVnO7t_gcGXtbS3phufLR4ybe2s].md",
+          "key": "zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》803丨汉顺帝如何在腥风血雨中登上皇位？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s/"
         }
       ],
       "updated": "2026-08-29",
@@ -8892,9 +8913,9 @@
       "url": "/wiki/entities/empressdowagerliangnalatehan/"
     },
     "EmpressDowagerYanLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》805丨通透人性的女人，竟能预测吉凶？ [ll3bZoYrKBtnVt-AQU9NqelqoneW].md",
@@ -8902,6 +8923,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》805丨通透人性的女人，竟能预测吉凶？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》803丨汉顺帝如何在腥风血雨中登上皇位？ [lqVnO7t_gcGXtbS3phufLR4ybe2s].md",
+          "key": "zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》803丨汉顺帝如何在腥风血雨中登上皇位？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s/"
         }
       ],
       "updated": "2026-08-29",
@@ -9743,6 +9771,29 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/fengjilatehan/"
+    },
+    "FengShiLateHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》803丨汉顺帝如何在腥风血雨中登上皇位？ [lqVnO7t_gcGXtbS3phufLR4ybe2s].md",
+          "key": "zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》803丨汉顺帝如何在腥风血雨中登上皇位？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》805丨通透人性的女人，竟能预测吉凶？ [ll3bZoYrKBtnVt-AQU9NqelqoneW].md",
+          "key": "zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》805丨通透人性的女人，竟能预测吉凶？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/fengshilatehan/"
     },
     "FengyishanBattleLateHan": {
       "episode_count": 1,
@@ -11512,6 +11563,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/guoyilatehan/"
     },
+    "GuoZhenLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》803丨汉顺帝如何在腥风血雨中登上皇位？ [lqVnO7t_gcGXtbS3phufLR4ybe2s].md",
+          "key": "zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》803丨汉顺帝如何在腥风血雨中登上皇位？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/guozhenlatehan/"
+    },
     "HYROX": {
       "episode_count": 2,
       "show_count": 2,
@@ -13279,9 +13346,9 @@
       "url": "/wiki/concepts/immunesystemastunablesensornetwork/"
     },
     "ImperialDeathConcealment": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》127-3｜海外回归一批竹简 揭开胡亥立帝之谜！ [ljA0PaNKCx4uGTYLbXXqKwuAvdnW].md",
@@ -13303,6 +13370,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》825丨历史告诉你：当你没用时，人性最自私",
           "url": "/wiki/sources/zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》803丨汉顺帝如何在腥风血雨中登上皇位？ [lqVnO7t_gcGXtbS3phufLR4ybe2s].md",
+          "key": "zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》803丨汉顺帝如何在腥风血雨中登上皇位？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s/"
         }
       ],
       "updated": "2026-08-29",
@@ -15941,6 +16015,36 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/lijinwulinglatehan/"
     },
+    "LiRunLateHan": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》803丨汉顺帝如何在腥风血雨中登上皇位？ [lqVnO7t_gcGXtbS3phufLR4ybe2s].md",
+          "key": "zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》803丨汉顺帝如何在腥风血雨中登上皇位？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》804丨给你“糖”的人，不一定是贵人！ [lqONgdqg-hGeTOEgPylV_oS86bUH].md",
+          "key": "zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》804丨给你“糖”的人，不一定是贵人！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》805丨通透人性的女人，竟能预测吉凶？ [ll3bZoYrKBtnVt-AQU9NqelqoneW].md",
+          "key": "zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》805丨通透人性的女人，竟能预测吉凶？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/lirunlatehan/"
+    },
     "LiShuLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -17140,6 +17244,43 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/liuyelatehan/"
+    },
+    "LiuYiBeixiangHouLateHan": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》803丨汉顺帝如何在腥风血雨中登上皇位？ [lqVnO7t_gcGXtbS3phufLR4ybe2s].md",
+          "key": "zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》803丨汉顺帝如何在腥风血雨中登上皇位？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》804丨给你“糖”的人，不一定是贵人！ [lqONgdqg-hGeTOEgPylV_oS86bUH].md",
+          "key": "zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》804丨给你“糖”的人，不一定是贵人！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》805丨通透人性的女人，竟能预测吉凶？ [ll3bZoYrKBtnVt-AQU9NqelqoneW].md",
+          "key": "zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》805丨通透人性的女人，竟能预测吉凶？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》825丨历史告诉你：当你没用时，人性最自私 [luV-8z9AXuejnFhLKgsUxEE3uKED].md",
+          "key": "zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》825丨历史告诉你：当你没用时，人性最自私",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/liuyibeixianghoulatehan/"
     },
     "LiuYouLateHan": {
       "episode_count": 2,
@@ -20907,9 +21048,9 @@
       "url": "/wiki/concepts/packagedwaterpricewar/"
     },
     "PalaceCoupSymbolControl": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》848丨瞬间垮台！我为何说他死有余辜？ [lgqVgMxlwga2fKnmtxPj3Ya9chk0].md",
@@ -20931,6 +21072,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》804丨给你“糖”的人，不一定是贵人！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》803丨汉顺帝如何在腥风血雨中登上皇位？ [lqVnO7t_gcGXtbS3phufLR4ybe2s].md",
+          "key": "zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》803丨汉顺帝如何在腥风血雨中登上皇位？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s/"
         }
       ],
       "updated": "2026-08-29",
@@ -25922,9 +26070,9 @@
       "url": "/wiki/concepts/successionauthorityconsolidation/"
     },
     "SuccessionLegitimacyPurge": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》943丨权势考验人性，背后藏着巨大凶险 [lg7ia5XOK-swdMHml35YV9qQQkvt].md",
@@ -25953,6 +26101,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》804丨给你“糖”的人，不一定是贵人！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》803丨汉顺帝如何在腥风血雨中登上皇位？ [lqVnO7t_gcGXtbS3phufLR4ybe2s].md",
+          "key": "zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》803丨汉顺帝如何在腥风血雨中登上皇位？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s/"
         }
       ],
       "updated": "2026-08-29",
@@ -26188,9 +26343,9 @@
       "url": "/wiki/entities/sunceassassination/"
     },
     "SunChengLateHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》806丨想要成事，找对人很关键！ [luswh-p-OYutYSXuE6sHWEQcWQxs].md",
@@ -26212,6 +26367,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》804丨给你“糖”的人，不一定是贵人！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》803丨汉顺帝如何在腥风血雨中登上皇位？ [lqVnO7t_gcGXtbS3phufLR4ybe2s].md",
+          "key": "zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》803丨汉顺帝如何在腥风血雨中登上皇位？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s/"
         }
       ],
       "updated": "2026-08-29",
@@ -30907,9 +31069,9 @@
       "url": "/wiki/entities/yanrou/"
     },
     "YanXianLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》804丨给你“糖”的人，不一定是贵人！ [lqONgdqg-hGeTOEgPylV_oS86bUH].md",
@@ -30917,6 +31079,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》804丨给你“糖”的人，不一定是贵人！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》803丨汉顺帝如何在腥风血雨中登上皇位？ [lqVnO7t_gcGXtbS3phufLR4ybe2s].md",
+          "key": "zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》803丨汉顺帝如何在腥风血雨中登上皇位？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s/"
         }
       ],
       "updated": "2026-08-29",
