@@ -7,14 +7,17 @@ sources:
   - zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy
   - zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff
   - zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr
-last_updated: 2026-08-29
+  - zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa
+last_updated: 2026-08-30
 ---
 
 ## Definition
-边疆征发反噬 / Frontier Conscription Backfire is the pattern where a state tries to solve one frontier crisis by extracting troops or auxiliary service from another fragile population, thereby creating new unrest, desertion, or legitimacy collapse.
+边疆征发反噬 / Frontier Conscription Backfire is the pattern where a state tries to solve one frontier crisis by extracting troops or auxiliary service from another fragile or semi-submitted population, thereby creating new unrest, desertion, or legitimacy collapse.
 
 ## Current Synthesis
-Hanji 819 supplies the anticipatory form of the concept. During the 138 CE Jiaozhi crisis, [[LiGuLateHan|李固]] rejects the court majority's plan to send 40,000 soldiers from Jingzhou, Yangzhou, and Yuzhou because those regions already face unrest, repeated levies, disease risk, long-distance exhaustion, and heavy grain cost. The backfire is predicted before it occurs: a visible show of force could create desertion or rebellion in the recruiting base and weaken the state before reaching the southern theater.
+Hanji 780 supplies the earliest current realized form. The Deng court tries to send submitted Qiang cavalry westward to support the Western Regions problem, but the conscripts fear distant service and non-return. Many flee at Jiuquan; local interception, destruction of homes, and widening panic help turn a military requisition into Qiang rebellion pressure.
+
+Hanji 819 supplies the anticipatory form of the concept. During the 138 CE Jiaozhi crisis, [[LiGuLateHan|Li Gu]] rejects the court majority's plan to send 40,000 soldiers from Jingzhou, Yangzhou, and Yuzhou because those regions already face unrest, repeated levies, disease risk, long-distance exhaustion, and heavy grain cost. The backfire is predicted before it occurs: a visible show of force could create desertion or rebellion in the recruiting base and weaken the state before reaching the southern theater.
 
 Hanji 818 adds a realized southern-frontier precursor. In the Xianglin crisis, Qu Lian attacks the county office and kills officials; the Jiaozhi inspector drafts more than ten thousand men from Jiaozhi and Jiuzhen to rescue the county. The drafted soldiers fear the distant expedition, rebel against the commandery offices, and leave the state unable to keep fighting Qu Lian after local suppression absorbs the rescue force.
 
@@ -25,6 +28,7 @@ The concept differs from ordinary mobilization failure because it names the seco
 ## Key Claims
 
 - Distant conscription can create rebellion or desertion in the recruiting base before it repairs the target crisis.
+- Semi-submitted frontier groups are especially sensitive to levies when past official abuse makes state promises untrusted.
 - Frontier auxiliaries are not frictionless resources; requisition can shift internal legitimacy inside the allied group.
 - The Xianglin case shows the internal-provincial version: troops conscripted to rescue one county can turn against commandery offices before reaching the intended fight.
 - A campaign demand against one rebel can generate a second rebellion if the recruited group expects repeated extraction without sufficient protection or payoff.
@@ -33,6 +37,8 @@ The concept differs from ordinary mobilization failure because it names the seco
 
 ## Evidence
 
+- Qiang western-service panic: [[zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa|Hanji 780]] says submitted Qiang cavalry ordered westward fear non-return, flee at Jiuquan, and trigger wider unrest.
+- Local handling backfire: [[zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa|Hanji 780]] says interception and home destruction deepen panic instead of restoring service.
 - Predicted recruiting-base unrest: [[zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff|Hanji 819]] says Li Gu objects that Jingzhou, Yangzhou, Wuling, Nan commandery, Changsha, and Guiyang are already unstable or repeatedly levied.
 - Distance and morale: [[zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff|Hanji 819]] says sudden far deployment to Jiaozhi could make soldiers despair, desert, or rebel.
 - Disease and fiscal cost: [[zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff|Hanji 819]] says southern humidity, long travel, food consumption, and possible follow-up levies would damage state capacity.
@@ -43,15 +49,18 @@ The concept differs from ordinary mobilization failure because it names the seco
 - Succession backlash: [[zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy|Hanji 939]] says Xiluo and Tuge Hu rebels kill Qiangqu and install Yufuluo, turning levy pressure into internal regime change.
 
 ## Counterevidence & Qualifications
-The Hanji 819 layer is a warning inside Li Gu's successful argument, not a recorded failed expedition. It therefore shows competent anticipation rather than realized backfire. Hanji 818 records realized backlash, but the exact identities of Qu Lian, Jia Chang, Zhou Jin, and the second operation remain source-scoped. Hanji 939 records realized allied-frontier backlash, but Southern Xiongnu unrest also reflects internal leadership and alliance incentives beyond the single requisition order.
+The Hanji 819 layer is a warning inside Li Gu's successful argument, not a recorded failed expedition. It therefore shows competent anticipation rather than realized backfire. Hanji 780 and Hanji 818 record realized backlash, but named Qiang figures in Hanji 780 and the exact identities of Qu Lian, Jia Chang, Zhou Jin, and the second southern operation remain source-scoped. Hanji 939 records realized allied-frontier backlash, but Southern Xiongnu unrest also reflects internal leadership and alliance incentives beyond the single requisition order.
 
 ## What Changed
-- Added Hanji 818 as the realized Xianglin case where a rescue levy from Jiaozhi and Jiuzhen generates a second rebellion and leaves the first crisis unresolved.
+- Added Hanji 780 as the earliest current realized case, where a Qiang levy toward the Western Regions generates desertion, panic, and rebellion pressure.
+- Preserved Hanji 818 as the realized Xianglin case where a rescue levy from Jiaozhi and Jiuzhen generates a second rebellion and leaves the first crisis unresolved.
 - Preserved Hanji 819 as the anticipatory Jiaozhi case where Li Gu prevents backfire by rejecting mass distant conscription.
-- Converted the page to the synthesis-v1 concept schema while preserving Hanji 939's realized Southern Xiongnu succession-backlash case.
+- Preserved Hanji 939's realized Southern Xiongnu succession-backlash case.
 
 ## Related Concepts
 - [[JiaozhiCommandery|交趾郡]] - southern region where Hanji 818 realizes and Hanji 819 anticipates conscription backfire.
+- [[FrontierOfficialAbuseRebellionSpiral]] - adjacent Qiang-frontier mechanism where bad local handling turns levy fear into rebellion.
+- [[StrategicFrontierAbandonment]] - target-crisis frame for the Western Regions support problem that drives the Hanji 780 Qiang levy.
 - [[TemporaryFrontierRetrenchment|临时边防收缩]] - one alternative to dangerous overextension in Hanji 819.
 - [[AppointmentQualityAsStateCapacity|任官适任性国家能力]] - Li Gu's replacement strategy relies on better officials instead of wider levy.
 - [[WarCostTempoDiscipline|战费节奏纪律]] - backfire risk rises when cost, distance, and campaign tempo are ignored.

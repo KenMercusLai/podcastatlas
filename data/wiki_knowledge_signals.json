@@ -3223,6 +3223,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/baimarelieflatehan/"
     },
+    "BanChaoEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》780丨最多灾多难的时代：东汉 [lvGCuMRFJbLrOFER532EES3TDOa_].md",
+          "key": "zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》780丨最多灾多难的时代：东汉",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/banchaoeasternhan/"
+    },
     "BanShiLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -9816,9 +9832,9 @@
       "url": "/wiki/entities/empressdenghuanlatehan/"
     },
     "EmpressDowagerDengLateHan": {
-      "episode_count": 13,
+      "episode_count": 14,
       "show_count": 1,
-      "source_note_count": 13,
+      "source_note_count": 14,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》795丨邓家灭亡后，为何举朝为他们鸣冤？ [lqVmBQrrOOKphB4beCaQbP7h_Wi1].md",
@@ -9910,6 +9926,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》781丨“愚善”，才是人对己最大的恶",
           "url": "/wiki/sources/zizhi-tongjian-hanji-781-yushan-cai-shi-ren-dui-ji-zui-da-de-e-luvaw93hnnxcbgfnwgsjb7x0hlqz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》780丨最多灾多难的时代：东汉 [lvGCuMRFJbLrOFER532EES3TDOa_].md",
+          "key": "zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》780丨最多灾多难的时代：东汉",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa/"
         }
       ],
       "updated": "2026-08-30",
@@ -11857,9 +11880,9 @@
       "url": "/wiki/concepts/frontiercommanderyrestoration/"
     },
     "FrontierConscriptionBackfire": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》939丨东汉乱局的疯狂三国序曲 [lthMvw8iHk96Fuez9vaMlRyzCnGy].md",
@@ -11881,15 +11904,22 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》818丨官场为什么要多交友？能救命！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》780丨最多灾多难的时代：东汉 [lvGCuMRFJbLrOFER532EES3TDOa_].md",
+          "key": "zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》780丨最多灾多难的时代：东汉",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-08-30",
       "url": "/wiki/concepts/frontierconscriptionbackfire/"
     },
     "FrontierOfficialAbuseRebellionSpiral": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》786丨古人为什么排斥反季水果？ [lmcwqWdxWe0ehuUsFEOaQk82mSm7].md",
@@ -11897,6 +11927,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》786丨古人为什么排斥反季水果？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-786-guren-weishenme-paichi-fanji-shuiguo-lmcwqwdxwe0ehuusfeoaqk82msm7/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》780丨最多灾多难的时代：东汉 [lvGCuMRFJbLrOFER532EES3TDOa_].md",
+          "key": "zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》780丨最多灾多难的时代：东汉",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa/"
         }
       ],
       "updated": "2026-08-30",
@@ -25956,9 +25993,9 @@
       "url": "/wiki/concepts/recurrencefreesurvivalendpoint/"
     },
     "RegencyUnderCompoundCrisis": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 1,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》793丨历史著名女皇邓绥怎么死的？ [lsZFgj7waiUUsrD_DZjmV5mBRP1I].md",
@@ -26036,6 +26073,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》781丨“愚善”，才是人对己最大的恶",
           "url": "/wiki/sources/zizhi-tongjian-hanji-781-yushan-cai-shi-ren-dui-ji-zui-da-de-e-luvaw93hnnxcbgfnwgsjb7x0hlqz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》780丨最多灾多难的时代：东汉 [lvGCuMRFJbLrOFER532EES3TDOa_].md",
+          "key": "zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》780丨最多灾多难的时代：东汉",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa/"
         }
       ],
       "updated": "2026-08-30",
@@ -27644,6 +27688,29 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/shangxiabanchang/"
     },
+    "ShangshuTaiImperialAccess": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》916丨命好和运好哪个更重要？ [lmZudJq5zFkfSUKMhDeIuMESM9qu].md",
+          "key": "zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》916丨命好和运好哪个更重要？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》780丨最多灾多难的时代：东汉 [lvGCuMRFJbLrOFER532EES3TDOa_].md",
+          "key": "zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》780丨最多灾多难的时代：东汉",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/shangshutaiimperialaccess/"
+    },
     "ShanxiaYousong": {
       "episode_count": 2,
       "show_count": 2,
@@ -28882,9 +28949,9 @@
       "url": "/wiki/concepts/strategicemotionconcealment/"
     },
     "StrategicFrontierAbandonment": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》934丨杀一人则天下安，你杀不杀？ [ltaR8hVDKqCt8oizm3k22Z38B1v8].md",
@@ -28934,6 +29001,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》782丨揭秘东汉奇女子艰难的太后生涯",
           "url": "/wiki/sources/zizhi-tongjian-hanji-782-jiemi-donghan-qi-nvzi-jiannan-de-taihou-shengya-lgfljux9aaocptbhxvvifitrgxcy/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》780丨最多灾多难的时代：东汉 [lvGCuMRFJbLrOFER532EES3TDOa_].md",
+          "key": "zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》780丨最多灾多难的时代：东汉",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa/"
         }
       ],
       "updated": "2026-08-30",
@@ -30632,9 +30706,9 @@
       "url": "/wiki/entities/thomasjeffersonfoundation/"
     },
     "ThreeExcellenciesBlameWithoutAuthority": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》798丨东汉时期的百姓有多苦？ [loOlVeuMdTv4eo-OmUbFI5Z2P2R5].md",
@@ -30642,9 +30716,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》798丨东汉时期的百姓有多苦？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》780丨最多灾多难的时代：东汉 [lvGCuMRFJbLrOFER532EES3TDOa_].md",
+          "key": "zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》780丨最多灾多难的时代：东汉",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-08-30",
       "url": "/wiki/concepts/threeexcellenciesblamewithoutauthority/"
     },
     "ThreeExcellenciesInnerCourtJurisdiction": {
@@ -37009,6 +37090,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/zhongjinlatehan/"
+    },
+    "ZhongchangTongLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》780丨最多灾多难的时代：东汉 [lvGCuMRFJbLrOFER532EES3TDOa_].md",
+          "key": "zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》780丨最多灾多难的时代：东汉",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/zhongchangtonglatehan/"
     },
     "ZhouFuLateHan": {
       "episode_count": 1,
