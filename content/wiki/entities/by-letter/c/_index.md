@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 8350
+wiki_total_pages: 8351
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -341,6 +341,9 @@ wiki_pages:
   - key: "CES"
     title: "CES"
     url: "/wiki/entities/ces/"
+  - key: "CesarMillan"
+    title: "Cesar Millan"
+    url: "/wiki/entities/cesarmillan/"
   - key: "CesareBorgia"
     title: "Cesare Borgia / 凯撒·波吉亚"
     url: "/wiki/entities/cesareborgia/"

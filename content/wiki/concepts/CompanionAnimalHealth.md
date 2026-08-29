@@ -2,42 +2,56 @@
 title: "Companion Animal Health"
 type: concept
 tags: [animal-welfare, mental-health, relationships, public-health]
-sources: [ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx, 34-maomi-mishi-he-yuchun-you-keai-de-renlei-601590607, 138-qie-ke-wo-zai-haitan-shang-jiandao-yiwei-q-laoshi-842331726, 56-bansheng-shijie-popolanlan-xiao-dongwu-fengfengbubu-641299301, 39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065]
-last_updated: 2026-08-07
+sources:
+  - ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx
+  - 34-maomi-mishi-he-yuchun-you-keai-de-renlei-601590607
+  - 138-qie-ke-wo-zai-haitan-shang-jiandao-yiwei-q-laoshi-842331726
+  - 56-bansheng-shijie-popolanlan-xiao-dongwu-fengfengbubu-641299301
+  - 39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065
+  - raising-a-dog-mastering-calm-assertive-energy-cesar-millan-scim6380580289
+last_updated: 2026-08-30
+knowledge_schema: synthesis-v1
 ---
 
 # Companion Animal Health
 
-Companion animal health is the episode's frame for the way animals can become part of human physical, psychological, and social well-being. In [[56-bansheng-shijie-popolanlan-xiao-dongwu-fengfengbubu-641299301]], the hosts use [[OurSymphonyWithAnimals|《伴生》 / Our Symphony with Animals]] to argue that companion animals are not just household hobbies, burdens, or disease vectors.
+## Definition
+Companion animal health is the wiki's frame for relationships where animals and humans affect one another's physical, psychological, social, and moral well-being through attachment, routine, touch, responsibility, presence, care, and loss.
 
-The source makes the frame concrete through grief over a cat, children recovering speech around animals, people with HIV finding a reason to live through dogs, unhoused people maintaining responsibility through animal care, veterans with PTSD receiving service animals, and physiological effects such as calmer stress markers during animal contact.
+## Current Synthesis
+Across the current sources, companion animals are not just decorative pets, disease vectors, or purchasable comfort objects. They can help people communicate, regulate fear, preserve responsibility, endure grief, and feel less isolated. At the same time, the animal remains a living being with needs that do not disappear just because the relationship helps the human.
 
-[[39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065]] extends the concept through [[MarkRowlands|Mark Rowlands / 马克·罗兰兹]] and [[Brenin|布列宁]]. Here companion-animal health is not mainly clinical support; it includes training as shared freedom, bodily routine, loyalty, caregiving during illness, the risk of being hated while providing painful treatment, euthanasia judgment, burial, and memory.
-
-[[138-qie-ke-wo-zai-haitan-shang-jiandao-yiwei-q-laoshi-842331726]] adds an unusual wild-animal version through [[JuanSalvadorPenguin|Juan Salvador / 胡安·萨尔瓦多]]. The episode does not convert the penguin into a pet-care model: [[WildAnimalRescueResponsibility]] still requires attention to swimming, feeding, release, and same-species companionship. But inside [[StGeorgesSchool|St. George's School / 圣乔治学校]], the penguin's nonjudgmental presence helps students, workers, teachers, and [[MariaStGeorges|玛利亚]] talk, care, and feel seen.
-
-[[34-maomi-mishi-he-yuchun-you-keai-de-renlei-601590607]] adds a longer historical cat version through [[Cat|猫]]. The episode is not a clinical companion-animal source, but it shows that household cat attachment grows out of older practical and symbolic roles: pest control, household protection, divine or magical proximity, literary companionship, and the recurring human recognition that a nonhuman housemate can expose human vanity and loneliness.
-
-[[ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx]] adds the [[EmotionEconomy|情绪经济]] comparison. [[WeiQianSanlian|魏茜]] and [[RuanJianing|阮佳宁]] discuss cats as anchors that provide nonverbal companionship, routine, and bodily comfort, while contrasting that with [[TactileComfortConsumption|plush toys]] and AI-enhanced comfort objects.
+The strongest synthesis is reciprocal and bounded. The human may receive nonjudgmental presence, routine, courage, and emotional containment, but good care still has to ask what the animal needs as an animal: movement, species-appropriate contact, safety, food, medical care, release or captivity decisions, treatment pain, euthanasia judgment, and a humane final day. The Cesar Millan episode adds the dog-owner version of this boundary: affection is not enough when exercise, structure, calm handling, and trustworthy signals are missing.
 
 ## Key Claims
 - Health includes social and emotional safety, not only absence of disease.
-- Companion animals can offer nonjudgmental presence when human social contact is too defended, status-bound, or frightening.
-- The human benefit is often reciprocal: responsibility for an animal can help a person feel needed, organized, and still valuable.
-- Historical cat material shows that companion status often carries earlier layers of labor, protection, symbolism, and ambivalence.
-- Treating animal attachment as trivial can damage care, because people may refuse rescue, shelter, treatment, or disclosure if it means abandoning an animal they treat as family.
-- Companion care can become morally difficult when treatment, pain, euthanasia, or separation force humans to act for an animal that cannot understand the reason.
-- A wild animal can temporarily become a companion and community anchor, but that bond should not erase species-specific needs or release/captivity questions.
-- In emotion-economy contexts, pets should not be collapsed into products: they can regulate mood through presence and routine, but they remain living relationships with care obligations.
+- Companion animals can offer nonjudgmental presence when human contact is frightening, status-bound, or overloaded.
+- The human benefit is reciprocal: responsibility for an animal can help a person stay organized, needed, and connected.
+- Animal attachment affects public systems when evacuation, shelter, domestic-violence safety, therapy, or court support depends on whether animals are protected.
+- Companion care becomes ethically hard when treatment, pain, euthanasia, release, captivity, or separation force humans to act for an animal that cannot understand the reason.
+- Pets in an emotion economy should not be collapsed into comfort products, because they remain living relationships with care obligations.
+- Dog companionship improves when the human regulates their own state and serves movement, safety, and structure before using affection.
 
-## Connections
-- [[PetGriefAndCare]] - existing relationship and loss frame extended by this source.
-- [[AnimalAssistedTherapy]] - clinical version of companion-animal support.
-- [[DomesticViolencePetCoercion]] and [[PetInclusiveDisasterResponse]] - cases where animal attachment changes human safety decisions.
-- [[AnimalWelfareAsPublicHealth]] - umbrella frame.
-- [[LoyaltyBeyondContract]] - companion obligation that exceeds contract or exchange.
-- [[PresentMomentAgainstDeath]] - animal time and final-care branch added by the Brenin source.
-- [[TeenChatbotMentalHealthRisk]] - adjacent mental-health-support page; this source concerns embodied animal companionship rather than AI companionship.
-- [[JuanSalvadorPenguin|Juan Salvador / 胡安·萨尔瓦多]], [[StGeorgesSchool|St. George's School / 圣乔治学校]], [[MariaStGeorges|Maria / 玛利亚]], and [[WildAnimalRescueResponsibility]] - wild-animal school-community extension added by episode 138.
-- [[Cat|猫]] and [[CatCulturalAmbivalence]] - historical companion-animal extension added by episode 34.
-- [[EmotionEconomy]], [[TactileComfortConsumption]], [[Jellycat]], and [[EmotionRegulationToolkit]] - EP236's consumer-comfort and self-care comparison.
+## Evidence
+- Health support and communication - [[56-bansheng-shijie-popolanlan-xiao-dongwu-fengfengbubu-641299301]] treats companion animals as mental, social, and bodily support across trauma, HIV, homelessness, court testimony, and PTSD, while [[138-qie-ke-wo-zai-haitan-shang-jiandao-yiwei-q-laoshi-842331726]] shows a rescued penguin becoming a school-community listener without turning the bond into formal therapy.
+- Reciprocal responsibility and care difficulty - [[39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065]] follows illness, painful treatment, euthanasia, burial, and memory through Mark Rowlands and Brenin, while [[138-qie-ke-wo-zai-haitan-shang-jiandao-yiwei-q-laoshi-842331726]] keeps release, feeding, swimming, and same-species needs visible for a wild animal.
+- Public-system stakes - [[56-bansheng-shijie-popolanlan-xiao-dongwu-fengfengbubu-641299301]] connects companion animals to disaster evacuation, domestic-violence coercion, animal-assisted therapy, violence warning signs, and empathy norms.
+- Historical and consumer layers - [[34-maomi-mishi-he-yuchun-you-keai-de-renlei-601590607]] shows cat companionship growing out of pest control, household protection, religious symbolism, literary presence, and cultural ambivalence, while [[ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx]] contrasts living pets with plush toys, paid listening, and AI comfort.
+- Dog-care boundary - [[raising-a-dog-mastering-calm-assertive-energy-cesar-millan-scim6380580289]] has [[CesarMillan]] argue that owners should meet dogs through exercise, discipline, calm signals, safety, trust, respect, and correctly timed affection rather than projecting human guilt or fantasy onto them.
+
+## Counterevidence & Qualifications
+Animal companionship should not be romanticized as automatic healing or used to replace human support, professional care, public safety, or veterinary judgment. A wild animal's temporary companionship does not remove species-specific release, captivity, and social-contact questions. Millan's dog-energy and pack-language claims remain source-scoped practical philosophy rather than settled science. The emotion-economy sources also warn that comfort demand can produce dependency, substitution, or consumer projection if responsibility to the living animal is ignored.
+
+## What Changed
+- Migrated the page to synthesis-v1 while preserving the existing source inventory.
+- Added the Cesar Millan episode as a dog-owner branch centered on calm handling, movement, structure, and needs-before-affection care.
+- Reframed companion-animal health as reciprocal benefit constrained by species-specific obligations rather than human comfort alone.
+
+## Related Concepts
+- [[AnimalWelfareAsPublicHealth]] - public-health umbrella where animal care affects human safety, trauma, violence, and disaster systems.
+- [[AnimalAssistedTherapy]] - clinical and communication-support branch of companion-animal benefit.
+- [[PetInclusiveDisasterResponse]] - public-safety case where animal separation can worsen human evacuation harm.
+- [[DomesticViolencePetCoercion]] - abuse case where attachment to an animal becomes support and leverage.
+- [[PetGriefAndCare]] - relationship and loss neighbor for final illness, memory, and mourning.
+- [[CalmAssertiveEnergy]] - dog-owner branch that puts movement, structure, and owner self-regulation before affection.
+- [[AnimalIntelligenceModes]] - cognition neighbor explaining why dogs' social reading of humans matters for care.

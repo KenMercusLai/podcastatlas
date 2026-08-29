@@ -379,12 +379,13 @@
       "42b428cd16585fd09c60d93170bb1c95fd3df1b9a2ff7182eb0ec9f1136bfe3d",
       "75db7802851b00335466c237f5c73df15775e7e42e7213db8107b7ed258053a0",
       "1728ec139408181cbf32d64d0e7235b0b1fbc548128d242cc4265fbc114de8e7",
-      "c7333d3c02f7065204859f96df77ddef757d5567ab9c1ac2872b8e018c162577"
+      "c7333d3c02f7065204859f96df77ddef757d5567ab9c1ac2872b8e018c162577",
+      "fa2bb49857ac26cb533ae14a4cc21fb8c9bcedab808a46832dcf8b31ade00a18"
     ],
-    "paragraph_count": 379
+    "paragraph_count": 380
   },
-  "overview_commit": "1f16f51388aaea874749e1f6b53aea755e825641",
-  "overview_digest": "cfc98afd7472de82fc89c7c92cf57745555384e2535298ee66d8872f01138e23",
+  "overview_commit": "dff18d489829875a6c03ff66ae0754317ab80f09",
+  "overview_digest": "265788d2594717edee7b8bb340915772caf64b0cc81ced0e75c79a87497d17d0",
   "paragraphs": [
     {
       "id": "e4e3b8f13f26be35019adef3fced4108842417c6090816eb8705866e259ba103",
@@ -11738,6 +11739,31 @@
         "YanChangLateHan",
         "zizhi-tongjian-hanji-787-chuanqi-huanghou-yanji-shi-ruhe-yibubu-shangwei-de-lslngjnedmqgh8h5nfc-qmyahqnm",
         "zizhi-tongjian-hanji-788-ling-diren-po-da-fang-wan-zhanshu-de-xin-zhen-zang-lvprh9s7aaagf-t2n-m3bp4icqj0"
+      ]
+    },
+    {
+      "id": "fa2bb49857ac26cb533ae14a4cc21fb8c9bcedab808a46832dcf8b31ade00a18",
+      "primary_topic": "science-health-and-climate",
+      "secondary_topics": [
+        "governance-and-institutions",
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[raising-a-dog-mastering-calm-assertive-energy-cesar-millan-scim6380580289|Raising a Dog & Mastering Calm Assertive Energy | Cesar Millan]], a [[HubermanLab]] episode with [[AndrewHuberman]] and [[CesarMillan]] on dog psychology, owner state, and household rituals. It adds [[CesarMillan]] and [[CalmAssertiveEnergy]], while extending [[HubermanLab]], [[AndrewHuberman]], [[CompanionAnimalHealth]], [[AnimalIntelligenceModes]], [[EmotionRegulationToolkit]], and [[LeadershipEmotionalCounterweight]]. Its core synthesis is that dog companionship is not only human comfort: Millan frames care as calm nonverbal leadership, structured walks, greeting and feeding rituals, exercise before affection, and context-aware end-of-life support, with the human's self-regulation treated as part of the dog's welfare environment. No settled contradiction is recorded; energy, pack-position, spirituality, cold-exposure, and leadership generalizations remain source-scoped practical philosophy rather than veterinary, ethological, clinical, or universal household advice.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "psychology-and-personal-development": 2,
+        "science-health-and-climate": 3
+      },
+      "wikilinks": [
+        "AndrewHuberman",
+        "AnimalIntelligenceModes",
+        "CalmAssertiveEnergy",
+        "CesarMillan",
+        "CompanionAnimalHealth",
+        "EmotionRegulationToolkit",
+        "HubermanLab",
+        "LeadershipEmotionalCounterweight",
+        "raising-a-dog-mastering-calm-assertive-energy-cesar-millan-scim6380580289"
       ]
     }
   ],

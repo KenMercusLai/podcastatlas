@@ -4,15 +4,15 @@ generated: true
 topic_id: science-health-and-climate
 title: "Science, Health, and Climate"
 last_updated: 2026-08-30
-as_of_overview_commit: f516098da9dbf6b43d5ccc0fd497ed3e424189b6
-input_digest: 5c89dcaefeb0db47c4afa8ffc6bbdaa4c1bf14cc03f901f9b1814a26b67baa8c
+as_of_overview_commit: dff18d489829875a6c03ff66ae0754317ab80f09
+input_digest: c57b6261138a8c5363778457aace04b909c06c1f2ba17c441e915d098da4e42f
 ---
 
 # Science, Health, and Climate
 
 ## Current State
 
-VOL.211 adds an exercise-risk branch: exercise can support health and appearance only when load, recovery, skin exposure, blood-pressure and cardiovascular context, supplement uncertainty, injury care, and emergency readiness are bounded. The OCD episode adds a serious psychiatric-care branch; VOL.215 adds sugar-control literacy; and VOL.213 adds insect-bite literacy. The topic also includes diagnostic safety netting, female hormone health across life stages, metabolic psychiatry, bipolar care, individualized cancer vaccines, space infrastructure, and climate implementation. Across these strands, recurring claims emphasize mechanism, measurement, escalation thresholds, supervision boundaries, and longitudinal adherence over headline labels alone.
+VOL.211 adds an exercise-risk branch: exercise can support health and appearance only when load, recovery, skin exposure, blood-pressure and cardiovascular context, supplement uncertainty, injury care, and emergency readiness are bounded. The OCD episode adds a serious psychiatric-care branch; VOL.215 adds sugar-control literacy; and VOL.213 adds insect-bite literacy. The topic also includes diagnostic safety netting, female hormone health across life stages, metabolic psychiatry, bipolar care, individualized cancer vaccines, space infrastructure, and climate implementation. Across these strands, recurring claims emphasize mechanism, measurement, escalation thresholds, supervision boundaries, and longitudinal adherence over headline labels alone. The Cesar Millan Huberman Lab episode adds a companion-animal welfare branch: owner calm, exercise, structured rituals, and context-aware end-of-life support are treated as health-environment inputs, while veterinary, ethological, cold-exposure, and spiritual claims remain source-scoped.
 
 ## Cross-source Findings
 
@@ -238,3 +238,14 @@ Science-and-health policy now adds a trust-and-productivity branch: [[NewGoldenA
 - This is public dermatology and infection-risk education, not individualized product, pediatric, pregnancy, tick-removal, antibiotic, or medication advice.
 - Concentration-duration examples, severe reaction thresholds, and vector examples remain source-scoped.
 - The episode reassures against mosquito HIV/HBV transmission while warning that higher-risk arthropod exposures and systemic symptoms need medical care.
+
+### Companion Animal Welfare Needs Owner State And Ritual Boundaries
+
+[[CompanionAnimalHealth]] now has a dog-welfare branch from the Cesar Millan [[HubermanLab]] episode: [[CalmAssertiveEnergy]], structured walks, greeting and feeding rituals, exercise before affection, and context-aware end-of-life support are treated as health-environment inputs for dogs rather than only human comfort practices.
+
+**Evidence:** [[raising-a-dog-mastering-calm-assertive-energy-cesar-millan-scim6380580289]], [[CompanionAnimalHealth]], [[CalmAssertiveEnergy]], [[AnimalIntelligenceModes]], [[CesarMillan]], [[HubermanLab]], [[AndrewHuberman]]
+
+**Qualifications:**
+
+- The episode is a dog-behavior conversation, not veterinary, ethological, or individualized clinical guidance.
+- Energy, pack-position, spirituality, cold-exposure, and leadership generalizations remain source-scoped practical philosophy.

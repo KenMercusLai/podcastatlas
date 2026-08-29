@@ -438,8 +438,28 @@
         "MedicalRiskManagement",
         "MedicalDiagnosticReasoning"
       ]
+    },
+    {
+      "global_candidate": false,
+      "id": "companion-animal-welfare-needs-owner-state-and-ritual-boundaries",
+      "qualifications": [
+        "The episode is a dog-behavior conversation, not veterinary, ethological, or individualized clinical guidance.",
+        "Energy, pack-position, spirituality, cold-exposure, and leadership generalizations remain source-scoped practical philosophy."
+      ],
+      "statement": "[[CompanionAnimalHealth]] now has a dog-welfare branch from the Cesar Millan [[HubermanLab]] episode: [[CalmAssertiveEnergy]], structured walks, greeting and feeding rituals, exercise before affection, and context-aware end-of-life support are treated as health-environment inputs for dogs rather than only human comfort practices.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "raising-a-dog-mastering-calm-assertive-energy-cesar-millan-scim6380580289",
+        "CompanionAnimalHealth",
+        "CalmAssertiveEnergy",
+        "AnimalIntelligenceModes",
+        "CesarMillan",
+        "HubermanLab",
+        "AndrewHuberman"
+      ]
     }
   ],
-  "summary": "VOL.211 adds an exercise-risk branch: exercise can support health and appearance only when load, recovery, skin exposure, blood-pressure and cardiovascular context, supplement uncertainty, injury care, and emergency readiness are bounded. The OCD episode adds a serious psychiatric-care branch; VOL.215 adds sugar-control literacy; and VOL.213 adds insect-bite literacy. The topic also includes diagnostic safety netting, female hormone health across life stages, metabolic psychiatry, bipolar care, individualized cancer vaccines, space infrastructure, and climate implementation. Across these strands, recurring claims emphasize mechanism, measurement, escalation thresholds, supervision boundaries, and longitudinal adherence over headline labels alone.",
+  "input_digest": "c57b6261138a8c5363778457aace04b909c06c1f2ba17c441e915d098da4e42f",
+  "summary": "VOL.211 adds an exercise-risk branch: exercise can support health and appearance only when load, recovery, skin exposure, blood-pressure and cardiovascular context, supplement uncertainty, injury care, and emergency readiness are bounded. The OCD episode adds a serious psychiatric-care branch; VOL.215 adds sugar-control literacy; and VOL.213 adds insect-bite literacy. The topic also includes diagnostic safety netting, female hormone health across life stages, metabolic psychiatry, bipolar care, individualized cancer vaccines, space infrastructure, and climate implementation. Across these strands, recurring claims emphasize mechanism, measurement, escalation thresholds, supervision boundaries, and longitudinal adherence over headline labels alone. The Cesar Millan Huberman Lab episode adds a companion-animal welfare branch: owner calm, exercise, structured rituals, and context-aware end-of-life support are treated as health-environment inputs, while veterinary, ethological, cold-exposure, and spiritual claims remain source-scoped.",
   "topic_id": "science-health-and-climate"
 }

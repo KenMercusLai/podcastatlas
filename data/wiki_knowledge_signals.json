@@ -2024,9 +2024,9 @@
       "url": "/wiki/entities/andingcommandery/"
     },
     "AndrewHuberman": {
-      "episode_count": 14,
+      "episode_count": 15,
       "show_count": 1,
-      "source_note_count": 14,
+      "source_note_count": 15,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -2125,9 +2125,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: The Science & Treatment of Obsessive Compulsive Disorder (OCD)",
           "url": "/wiki/sources/essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647/"
+        },
+        {
+          "episode_file": "SCIM6380580289 [SCIM6380580289].md",
+          "key": "raising-a-dog-mastering-calm-assertive-energy-cesar-millan-scim6380580289",
+          "show": "Huberman Lab",
+          "title": "Raising a Dog & Mastering Calm Assertive Energy | Cesar Millan",
+          "url": "/wiki/sources/raising-a-dog-mastering-calm-assertive-energy-cesar-millan-scim6380580289/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-08-30",
       "url": "/wiki/entities/andrewhuberman/"
     },
     "AndyBurnham": {
@@ -2219,6 +2226,29 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/angelicintelligence/"
+    },
+    "AnimalIntelligenceModes": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "39.哲学家与狼：在朗格多克永恒的夏天 [611233065].md",
+          "key": "39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065",
+          "show": "蜜獾吃书",
+          "title": "39.哲学家与狼：在朗格多克永恒的夏天",
+          "url": "/wiki/sources/39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065/"
+        },
+        {
+          "episode_file": "SCIM6380580289 [SCIM6380580289].md",
+          "key": "raising-a-dog-mastering-calm-assertive-energy-cesar-millan-scim6380580289",
+          "show": "Huberman Lab",
+          "title": "Raising a Dog & Mastering Calm Assertive Energy | Cesar Millan",
+          "url": "/wiki/sources/raising-a-dog-mastering-calm-assertive-energy-cesar-millan-scim6380580289/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/animalintelligencemodes/"
     },
     "AnitaRamaswamy": {
       "episode_count": 7,
@@ -3997,6 +4027,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/californiaprivacyprotectionagency/"
     },
+    "CalmAssertiveEnergy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6380580289 [SCIM6380580289].md",
+          "key": "raising-a-dog-mastering-calm-assertive-energy-cesar-millan-scim6380580289",
+          "show": "Huberman Lab",
+          "title": "Raising a Dog & Mastering Calm Assertive Energy | Cesar Millan",
+          "url": "/wiki/sources/raising-a-dog-mastering-calm-assertive-energy-cesar-millan-scim6380580289/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/calmassertiveenergy/"
+    },
     "Caltech": {
       "episode_count": 1,
       "show_count": 1,
@@ -4692,6 +4738,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/cenovusenergy/"
+    },
+    "CesarMillan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6380580289 [SCIM6380580289].md",
+          "key": "raising-a-dog-mastering-calm-assertive-energy-cesar-millan-scim6380580289",
+          "show": "Huberman Lab",
+          "title": "Raising a Dog & Mastering Calm Assertive Energy | Cesar Millan",
+          "url": "/wiki/sources/raising-a-dog-mastering-calm-assertive-energy-cesar-millan-scim6380580289/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/cesarmillan/"
     },
     "ChangXiLateHan": {
       "episode_count": 2,
@@ -5839,6 +5901,57 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/commoditytrapescape/"
+    },
+    "CompanionAnimalHealth": {
+      "episode_count": 6,
+      "show_count": 3,
+      "source_note_count": 6,
+      "sources": [
+        {
+          "episode_file": "EP236 唠五块钱心里话，付费的陪伴是真的吗？ [ltVuoEluOEu4-a3j3lAmHc3Buudx].md",
+          "key": "ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx",
+          "show": "Talk三联",
+          "title": "EP236 唠五块钱心里话，付费的陪伴是真的吗？",
+          "url": "/wiki/sources/ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx/"
+        },
+        {
+          "episode_file": "34.猫咪秘史：呵，愚蠢又可爱的人类 [601590607].md",
+          "key": "34-maomi-mishi-he-yuchun-you-keai-de-renlei-601590607",
+          "show": "蜜獾吃书",
+          "title": "34.猫咪秘史：呵，愚蠢又可爱的人类",
+          "url": "/wiki/sources/34-maomi-mishi-he-yuchun-you-keai-de-renlei-601590607/"
+        },
+        {
+          "episode_file": "138.企鹅课：我在海滩上捡到一位Q老师 [842331726].md",
+          "key": "138-qie-ke-wo-zai-haitan-shang-jiandao-yiwei-q-laoshi-842331726",
+          "show": "蜜獾吃书",
+          "title": "138.企鹅课：我在海滩上捡到一位Q老师",
+          "url": "/wiki/sources/138-qie-ke-wo-zai-haitan-shang-jiandao-yiwei-q-laoshi-842331726/"
+        },
+        {
+          "episode_file": "56.伴生：世界破破烂烂，小动物缝缝补补 [641299301].md",
+          "key": "56-bansheng-shijie-popolanlan-xiao-dongwu-fengfengbubu-641299301",
+          "show": "蜜獾吃书",
+          "title": "56.伴生：世界破破烂烂，小动物缝缝补补",
+          "url": "/wiki/sources/56-bansheng-shijie-popolanlan-xiao-dongwu-fengfengbubu-641299301/"
+        },
+        {
+          "episode_file": "39.哲学家与狼：在朗格多克永恒的夏天 [611233065].md",
+          "key": "39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065",
+          "show": "蜜獾吃书",
+          "title": "39.哲学家与狼：在朗格多克永恒的夏天",
+          "url": "/wiki/sources/39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065/"
+        },
+        {
+          "episode_file": "SCIM6380580289 [SCIM6380580289].md",
+          "key": "raising-a-dog-mastering-calm-assertive-energy-cesar-millan-scim6380580289",
+          "show": "Huberman Lab",
+          "title": "Raising a Dog & Mastering Calm Assertive Energy | Cesar Millan",
+          "url": "/wiki/sources/raising-a-dog-mastering-calm-assertive-energy-cesar-millan-scim6380580289/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/companionanimalhealth/"
     },
     "ConcealedCapabilityTiming": {
       "episode_count": 2,
@@ -14130,9 +14243,9 @@
       "url": "/wiki/entities/hubeihumanoidinnovationcenter/"
     },
     "HubermanLab": {
-      "episode_count": 14,
+      "episode_count": 15,
       "show_count": 1,
-      "source_note_count": 14,
+      "source_note_count": 15,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -14231,9 +14344,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: The Science & Treatment of Obsessive Compulsive Disorder (OCD)",
           "url": "/wiki/sources/essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647/"
+        },
+        {
+          "episode_file": "SCIM6380580289 [SCIM6380580289].md",
+          "key": "raising-a-dog-mastering-calm-assertive-energy-cesar-millan-scim6380580289",
+          "show": "Huberman Lab",
+          "title": "Raising a Dog & Mastering Calm Assertive Energy | Cesar Millan",
+          "url": "/wiki/sources/raising-a-dog-mastering-calm-assertive-energy-cesar-millan-scim6380580289/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-08-30",
       "url": "/wiki/entities/hubermanlab/"
     },
     "HumanCenteredAIAugmentation": {

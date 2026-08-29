@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-30
-as_of_overview_commit: 1f16f51388aaea874749e1f6b53aea755e825641
-summary: "The wiki maps AI, markets, institutions, history, health, psychology, culture, and work as systems shaped by data, trust, execution, safety, and accountable power."
-episode_count: 1702
-source_count: 1702
-paragraph_count: 379
+as_of_overview_commit: dff18d489829875a6c03ff66ae0754317ab80f09
+summary: "The wiki maps AI, markets, institutions, history, health, psychology, culture, and work as systems shaped by data, trust, execution, safety, welfare, and accountable power."
+episode_count: 1703
+source_count: 1703
+paragraph_count: 380
 topic_count: 8
 ---
 
@@ -49,7 +49,7 @@ Culture sources treat literature, podcasts, games, sports, brands, creative prac
 
 ### Governance and Institutions
 
-Governance succeeds when authority is backed by implementation capacity, accountable access, document integrity, public legitimacy, privacy compliance, platform defaults, and clear responsibility boundaries.
+Governance succeeds when authority and responsibility become implementable through accountable access, document integrity, public legitimacy, privacy compliance, platform defaults, context-specific rituals, and clear boundaries.
 
 - The California data-broker branch shows that privacy rights depend on compliance workflows: [[CaliforniaDeleteAct]], [[DeleteRequestAndOptOutPlatform]], [[ConsumerDataDeletion]], [[DataBrokerComplianceGap]], and [[CaliforniaPrivacyProtectionAgency]] connect centralized deletion, broker registration, reporting duties, request friction, agency capacity, and private-lawsuit proposals into one implementation problem. Evidence: [[CaliforniaDeleteAct]], [[DeleteRequestAndOptOutPlatform]], [[ConsumerDataDeletion]], [[DataBrokerComplianceGap]], [[CaliforniaPrivacyProtectionAgency]], [[tech-20260825-mp-tech-pod-128-tech-20260825-mp-tech-pod-128]].
 - The early-Han sequence shows victory turning into governance only through family order, capital choice, exit management, reward ranking, ritual hierarchy, frontier containment, [[HanXiongnuHeqinPolicy|heqin]] diplomacy, vassal rollback, investigation-triggered rebellion risk, and finally the failure of personal trust in [[LuWan|Lu Wan]]'s Yan kingship. Evidence: [[LiuBang]], [[StrategicCapitalRelocation]], [[LiAsPoliticalOrder]], [[BaidengEncirclement]], [[HanXiongnuHeqinPolicy]], [[DifferentSurnameKingSuspicion]], [[HuainanKingdomEarlyHan]], [[InvestigationDrivenRebellionEscalation]], [[LuWan]], [[YanState]].
@@ -63,14 +63,14 @@ History remains dominated by late-Han state failure, frontier pressure, title le
 
 ### Psychology and Personal Development
 
-Personal-development claims center on self-command under emotion, desire, hierarchy, diagnosis language, AI convenience, trust, and creative doubt, with durable agency depending on state awareness, sized exposure, boundaries, and accountable judgment.
+Personal-development claims center on self-command under emotion, desire, hierarchy, diagnosis language, AI convenience, trust, creative doubt, and companion-animal handling, with durable agency depending on state awareness, sized exposure, boundaries, and accountable judgment.
 
 - [[neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716]] adds a functional emotion-regulation branch: [[EmotionsAsFunctionalControlStates]] treats emotions as useful control states for decision and motivation, while [[EmotionalGranularity]], [[CognitiveReappraisalEarlyIntervention]], [[AutonomicStressTraining]], and [[TaskSwitchingResidue]] frame regulation as monitoring, differentiating, reframing early, shaping environments, respecting body signals, and managing transition costs rather than removing emotion. Evidence: [[neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716]], [[EmotionsAsFunctionalControlStates]], [[EmotionalGranularity]], [[CognitiveReappraisalEarlyIntervention]], [[AutonomicStressTraining]], [[TaskSwitchingResidue]], [[EmotionRegulationToolkit]], [[BrainBodyEmotionMapping]].
 - [[essentials-how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim2090153799]] adds a discipline-centered self-command branch: [[DisciplineOverMotivation]] decouples needed action from current motivation, [[AutonomicStressTraining]] treats bodily discomfort as bounded practice, [[OperationalDetachment]] widens attention before decisions, and [[LeadershipEmotionalCounterweight]] with [[ActionAfterAdversity]] frame leadership and resilience as action after emotion rather than emotion-free control. Evidence: [[essentials-how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim2090153799]], [[JockoWillink]], [[DisciplineOverMotivation]], [[AutonomicStressTraining]], [[OperationalDetachment]], [[LeadershipEmotionalCounterweight]], [[ActionAfterAdversity]], [[EmotionRegulationToolkit]], [[MotivationRewardEffortCalculation]], [[AttentionCapacitySelection]].
 
 ### Science, Health, and Climate
 
-Health and climate claims stay bounded by mechanism, measurement, clinical thresholds, supervision, implementation, and infrastructure; exercise benefits require load, recovery, cardiovascular, injury, and emergency boundaries.
+Health and climate claims stay bounded by mechanism, measurement, clinical thresholds, supervision, implementation, infrastructure, and welfare context; exercise and companion-animal care both require load, recovery, owner state, ritual, and risk boundaries.
 
 - [[PracticalSugarControl]] adds a nutrition-literacy branch: [[AddedFreeSugarDistinction]], [[LiquidSugarRisk]], [[LowGIMarketingTrap]], [[NutritionLabelSugarTraps]], [[SweetenerUncertainty]], [[GlycationSkinAnxiety]], and [[FoodPleasureEngineering]] make sugar control a question of food structure, beverage format, label interpretation, and clinical boundaries rather than blanket avoidance of sweetness or staple foods. Evidence: [[vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z]], [[PracticalSugarControl]], [[AddedFreeSugarDistinction]], [[LiquidSugarRisk]], [[LowGIMarketingTrap]], [[NutritionLabelSugarTraps]], [[SweetenerUncertainty]], [[GlycationSkinAnxiety]], [[FoodPleasureEngineering]], [[LifestyleWeightManagement]], [[MedicalRiskManagement]], [[LifestyleDiseasePrevention]], [[ZheBingShuoLaiHuaChang]], [[Atang]], [[YueWanrou]], [[DaShiHua]].
 - [[SustainableHealthOptimization]] adds a flexible-fundamentals branch: [[MorningLightCircadianAnchoring]], [[SleepAsDailyHealthAccount]], [[SelfTestingMemoryPractice]], [[OlfactoryTraining]], [[FertilityEnergyAvailability]], [[PerimenopauseBrainMetabolism]], [[MenopauseClinicalSharedDecision]], [[AcetylcholineFocusSupport]], and [[PerioperativeCircadianRecovery]] are useful only when fitted to real constraints and clinical context rather than protocol perfection. Evidence: [[SustainableHealthOptimization]], [[MorningLightCircadianAnchoring]], [[SleepAsDailyHealthAccount]], [[SelfTestingMemoryPractice]], [[OlfactoryTraining]], [[FertilityEnergyAvailability]], [[PerimenopauseBrainMetabolism]], [[MenopauseClinicalSharedDecision]], [[AcetylcholineFocusSupport]], [[PerioperativeCircadianRecovery]], [[your-top-health-questions-answered-scim2882548864]].
