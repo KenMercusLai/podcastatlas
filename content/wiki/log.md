@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-29] ingest | 《资治通鉴·汉纪》812丨古人40岁才能当官？
+
+Ingested the 2026-07-11 芮淇讲透资治通鉴 episode on 132-133 CE Emperor Shun, Zuo Xiong's Xiaolian recommendation reform, Hu Guang/Guo Qian/Shi Chang's flexibility objection, Xu Shu's failed exceptional-talent claim, and Lang Yi's disaster-policy memorial on high-office accountability, labor relief, frontier preparation, seasonal litigation, and legal simplification. Created the source note; updated `ZuoXiongLateHan`, `LangYiLateHan`, `HuGuangLateHan`, `EmperorShunOfHan`, `AppointmentQualityAsStateCapacity`, `OmenCodedRemonstrance`, `index`, and `overview`. No settled contradiction found; 郎乙 is normalized cautiously to 郎顗, while Guo Qian, Shi Chang, Xu Shu, and the Party Prohibition preview figures remain source-scoped.
+
 ## [2026-08-29] ingest | 《资治通鉴·汉纪》818丨官场为什么要多交友？能救命！
 
 Ingested the 芮淇讲透资治通鉴 episode on 136-137 CE Emperor Shun, Wang Gong's rescue through Li Gu and Liang Shang, Liang Ji's early Henan Yin violence against Lu Fang, Yu Xu's rejected Wuling tax warning, Wuling and Xianglin frontier crises, Fa Zhen's refusal to serve, and Wang Gong's abandoned Zhang Fang impeachment. Created the source note plus Wang Gong (Taiwei), Yu Xu, Fa Zhen, Zhang Fang, Li Jin (Wuling), and Court Ally Protection Network pages; updated Li Gu, Liang Shang, Emperor Shun, Liang Ji, Wuling Man, Frontier Conscription Backfire, Taxation-Stability Tradeoff, index, overview, and downstream synthesis artifacts. No settled contradiction found; transcript forms 王公, 梁毅, 于许, 法贞, 张坊, and 屈联 are normalized cautiously or kept source-scoped, with Wang Gong and Li Jin disambiguated from existing same-name pages.
@@ -13380,6 +13384,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-29] ingest | 《资治通鉴·汉纪》813丨古代的高官竟也会被殴打？
 
 Ingested the 2026-07-11 芮淇讲透资治通鉴 episode on 133 CE Emperor Shun, Lang Yi's drought remonstrance and recommendations, Zuo Xiong's opposition to private-favor titles for Song E and Liang Ji, Liu Ju's nine-minister dignity case, and Li Gu's disaster-policy critique of wet-nurse and outer-relative power. Created the source note plus `LangYiLateHan` and `MinisterialDignityProtection`; updated `EmperorShunOfHan`, `ZuoXiongLateHan`, `SongELateHan`, `LiuJuLateHan`, `LiangShangLateHan`, `LiangJiLateHan`, `LiGuLateHan`, `PrivateFavorAppointmentErosion`, `OmenCodedRemonstrance`, `index`, and `overview`. No settled contradiction found; transcript forms 郎毅, 黄穹, 梁毅/乡义侯, and 刘巨 were normalized cautiously to 郎顗, 黄琼, 梁冀/Xiangyi, and 刘矩.
+
+## [2026-08-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-29] lint | Wiki health check
 

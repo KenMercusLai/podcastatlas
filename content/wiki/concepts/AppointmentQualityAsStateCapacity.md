@@ -9,6 +9,7 @@ sources:
   - zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh
   - zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff
   - zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v
+  - zizhi-tongjian-hanji-812-guren-40-sui-caineng-dangguan-lordzuaqhzghyd93tpm0fql1cigv
 last_updated: 2026-08-29
 knowledge_schema: synthesis-v1
 ---
@@ -19,7 +20,11 @@ knowledge_schema: synthesis-v1
 
 ## Current Synthesis
 
-The concept now spans three Shun-era layers and three Huan-era layers. [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|Hanji 815]] supplies the earliest Shun-era criteria case: [[ZhangHengLateHan|张衡]] argues that Xiaolian selection has drifted from filial conduct toward phrase-reading and memorial-writing, and he warns that mass dismissal of commandery and kingdom administrators can waste hard-won personnel capacity. Appointment quality therefore includes both entry criteria and removal standards.
+The concept now spans four Shun-era layers and three Huan-era layers. [[zizhi-tongjian-hanji-812-guren-40-sui-caineng-dangguan-lordzuaqhzghyd93tpm0fql1cigv|Hanji 812]] supplies the earliest Shun-era criteria case: [[ZuoXiongLateHan|左雄]] turns Xiaolian recommendation into an enforceable threshold by requiring recommended candidates to be at least forty, with Confucian students expected to know classics and clerks expected to draft memorials well. The rule keeps an exceptional-talent escape hatch, but the Xu Shu case shows that an exception must be proved rather than merely invoked.
+
+The same source also gives the counterpressure. [[HuGuangLateHan|胡广]], Guo Qian, and Shi Chang warn that rigid standards can miss young or unconventional talent and should be debated through wider court consultation before old selection practice changes. Shun's refusal of that objection and Zuo's later recommender enforcement make appointment quality a balance between verifiable standards, flexible talent recognition, and accountable nomination.
+
+[[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|Hanji 815]] supplies a later criteria critique: [[ZhangHengLateHan|张衡]] argues that Xiaolian selection can drift from filial conduct toward phrase-reading and memorial-writing, and he warns that mass dismissal of commandery and kingdom administrators can waste hard-won personnel capacity. Appointment quality therefore includes both entry criteria and removal standards.
 
 [[zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff|Hanji 819]] supplies the positive command-appointment case: [[LiGuLateHan|李固]] rejects a 40,000-soldier Jiaozhi expedition and persuades [[EmperorShunOfHan|汉顺帝]] to appoint [[ZhangQiaoLateHan|张乔]] and [[ZhuLiangLateHan|祝良]], whose reassurance and single-carriage surrender strategy pacify the theater. The same source adds a recommendation-quality boundary when [[ZhouJuLateHan|周举]] impeaches [[ZuoXiongLateHan|左雄]] for recommending a previously corrupt man and Liang He refuses to recommend beyond his knowledge.
 
@@ -35,7 +40,7 @@ The concept is not simply meritocracy as a slogan. It includes task fit, politic
 
 ## Key Claims
 
-- Appointment quality is a form of state capacity because criteria, selection, placement, and removal standards all decide whether ability reaches the right office.
+- Appointment quality is a form of state capacity because eligibility thresholds, exception handling, selection, placement, and removal standards all decide whether ability reaches the right office.
 - The right officeholder can replace larger mobilization, while the wrong appointment can destroy capacity before performance is tested.
 - Personnel failure travels downward: loose or self-interested court behavior distorts local execution and public trust.
 - Different crises require different official types, including frontier prestige figures, battlefield commanders, pacification officials, suppressors, humane mediators, reward managers, and relief officials.
@@ -45,6 +50,9 @@ The concept is not simply meritocracy as a slogan. It includes task fit, politic
 
 ## Evidence
 
+- Xiaolian threshold and skill rules: [[zizhi-tongjian-hanji-812-guren-40-sui-caineng-dangguan-lordzuaqhzghyd93tpm0fql1cigv|Hanji 812]] says Zuo Xiong's reform requires recommended Xiaolian candidates to be at least forty, with classics mastery for Confucian students and memorial-writing skill for clerks.
+- Flexible-talent objection: [[zizhi-tongjian-hanji-812-guren-40-sui-caineng-dangguan-lordzuaqhzghyd93tpm0fql1cigv|Hanji 812]] says Hu Guang, Guo Qian, and Shi Chang object that historical talent often exceeds fixed age or skill categories.
+- Exception and enforcement: [[zizhi-tongjian-hanji-812-guren-40-sui-caineng-dangguan-lordzuaqhzghyd93tpm0fql1cigv|Hanji 812]] says Xu Shu's under-forty nomination fails when Zuo demands proof of exceptional ability, and false recommenders then become easier to punish.
 - Criteria drift: [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|Hanji 815]] says Zhang Heng warns that Xiaolian standards emphasizing phrase-reading and memorial-writing can exclude very filial people from a channel built around filial conduct.
 - Removal-quality problem: [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|Hanji 815]] says Zhang Heng criticizes mass dismissal of local administrators because effective officials chosen through effort may be lost for minor faults.
 - Positive southern appointment: [[zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff|Hanji 819]] says Li Gu replaces the court's 40,000-soldier Jiaozhi expedition plan with the appointment of Zhang Qiao and Zhu Liang.
@@ -67,11 +75,11 @@ The concept is not simply meritocracy as a slogan. It includes task fit, politic
 
 ## Counterevidence & Qualifications
 
-The concept still rests on a small late-Han source set and should not be treated as a complete theory of state capacity. Hanji 815 gives a criteria-and-removal critique, but it does not supply performance outcomes for the excluded Xiaolian candidates or dismissed officials. Hanji 819 gives a successful appointment case, but the result also depends on Li Gu's diagnosis, temporary retrenchment, reward policy, and rebel willingness to submit. Hanji 821 gives a vivid failed-commander case, but Qiang unrest also reflects frontier corruption, finance, hunger, and administrative violence. Hanji 832 gives a pressure case but not the later performance record of the unfit appointee. Hanji 842 and Hanji 854 include disasters, rebellions, and frontier pressure whose causes cannot be reduced to appointments alone. Duan Jiong also qualifies the pattern: the right military person may solve an urgent problem while creating legal or moral costs that the state must still judge.
+The concept still rests on a small late-Han source set and should not be treated as a complete theory of state capacity. Hanji 812 gives an enforcement success story, but Hu Guang's objection remains a real qualification: rigid thresholds may screen out unconventional talent if the exception mechanism becomes too narrow. Hanji 815 gives a criteria-and-removal critique, but it does not supply performance outcomes for the excluded Xiaolian candidates or dismissed officials. Hanji 819 gives a successful appointment case, but the result also depends on Li Gu's diagnosis, temporary retrenchment, reward policy, and rebel willingness to submit. Hanji 821 gives a vivid failed-commander case, but Qiang unrest also reflects frontier corruption, finance, hunger, and administrative violence. Hanji 832 gives a pressure case but not the later performance record of the unfit appointee. Hanji 842 and Hanji 854 include disasters, rebellions, and frontier pressure whose causes cannot be reduced to appointments alone. Duan Jiong also qualifies the pattern: the right military person may solve an urgent problem while creating legal or moral costs that the state must still judge.
 
 ## What Changed
 
-- Hanji 815 adds the earliest Shun-era personnel-criteria layer through Zhang Heng's Xiaolian and local-official removal critique.
+- Hanji 812 adds the earliest Shun-era personnel-criteria layer through Zuo Xiong's Xiaolian threshold, Hu Guang's flexibility objection, and Xu Shu's failed exception claim; Hanji 815 becomes the later Xiaolian criteria-and-removal critique.
 - Hanji 819 remains the Shun-era positive command-appointment layer through Li Gu, Zhang Qiao, Zhu Liang, Zhou Ju, Zuo Xiong, and Liang He.
 - Hanji 821 remains the negative Shun-era command-appointment layer through Ma Xian, Ma Rong, Huangfu Gui, and Zhao Chong.
 - Hanji 832 and Hanji 842 preserve appointment-pressure, reputation-deterrence, relief, and tactical-fit branches.
@@ -93,7 +101,7 @@ The concept still rests on a small late-Han source set and should not be treated
 - [[MeritBasedRewardPunishment|因功赏罚]] - appointment fit depends on linking status and office to real contribution.
 - [[TemporaryFrontierRetrenchment|临时边防收缩]] - Li Gu's successful appointment plan is paired with a bounded Rinan withdrawal.
 - [[ZhangQiaoLateHan|张乔]] and [[ZhuLiangLateHan|祝良]] - paired officials who validate the positive Jiaozhi appointment case.
-- [[ZhouJuLateHan|周举]] and [[ZuoXiongLateHan|左雄]] - recommendation-accountability case that defines the selection boundary.
+- [[ZhouJuLateHan|周举]], [[ZuoXiongLateHan|左雄]], and [[HuGuangLateHan|胡广]] - recommendation-accountability and criteria-flexibility cases that define the selection boundary.
 - [[CourtOfficeCapture|朝廷开府任官失序]] - captured appointment channels are the structural opposite of appointment quality.
 - [[PersonDependentGovernanceFragility|人亡政息式治理脆弱性]] - appointment quality helps only when the system can reproduce good selection beyond individual cases.
 - [[FrontierCommandCollapse|边郡军政崩盘]] - command collapse is the frontier consequence when appointment fit, warning, and campaign tempo fail together.
