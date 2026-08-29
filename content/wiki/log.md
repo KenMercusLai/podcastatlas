@@ -13145,6 +13145,10 @@ Ingested the Marketplace Tech episode on Meta's proposed teen-safety settlement,
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-29] ingest | 《资治通鉴·汉纪》815丨可悲！古代重臣的家风之殇！
+
+Ingested the 2026-07-11 芮淇讲透资治通鉴 episode on 133 CE Emperor Shun, Zhang Heng's Xiaolian and local-official critique, Li Gu's Song E removal and anonymous retaliation, Pang Can's household scandal and dismissal, and the Xianbei leader Qizhijian's death. Created the source note plus `PangCanLateHan`, `DuanGongchengLateHan`, `SongELateHan`, `ZhuLiangLuoyangLateHan`, `ShiYanLateHan`, `QizhijianXianbei`, and `HouseholdMisconductPoliticalLiability`; updated `ZhangHengLateHan`, `LiGuLateHan`, `MaRongLateHan`, `EmperorShunOfHan`, `AppointmentQualityAsStateCapacity`, `AnonymousSlanderRetaliation`, `index`, and `overview`. No settled contradiction found; Song E is promoted from prior source-scoped caution only where Hanji 815 makes her causal, Pang Can is promoted from source-scoped status because Hanji 815 makes him central, and 朱良 is disambiguated from existing 祝良.
+
 ## [2026-08-29] ingest | 《资治通鉴·汉纪》1053丨跟着孙权，学习如何整顿集团高管
 
 Ingested the 2026-08-28 芮淇讲透资治通鉴 episode on Sun Quan's early succession consolidation, Lyu Meng's troop-discipline promotion, Luo Tong's talent-observation advice, Sun Fu's secret appeal to Cao Cao, Li Shu's Lujiang resistance, Liu Biao's southern Jingzhou expansion and ritual overreach, and Liu Zhang's Yizhou fracture around Zhang Lu, Pang Xi, Zhao Wei, and Dongzhou troops. Created the source note plus `LyuMeng`, `LuoTong`, `LiShuLateHan`, and `SuccessionAuthorityConsolidation`; updated `SunQuan`, `SunFuLateHan`, `LiuBiao`, `LiuZhang`, `ZhangLuFivePecks`, `PangXiLateHan`, `ZhaoWeiLateHan`, `ImportedTroopsLocalEliteCleavage`, `index`, and `overview`. No settled contradiction found; Li Shu is kept distinct from Liu Xun and Li Shufu, and the host's modern management language remains source-scoped while the Li Shu campaign's civilian slaughter and relocation remain a qualification.
@@ -13352,6 +13356,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-29] ingest | 《资治通鉴·汉纪》816丨想要“拿下”你的领导，其实很简单
 
 Ingested the 2026-07-11 芮淇讲透资治通鉴 episode on 134 CE Emperor Shun, Zhou Ju's drought remonstrance, Zhang Heng's earthquake and anti-tuchen memorial, Qiang-frontier appointments, and Cheshi/Northern Xiongnu pressure. Created the source note plus `ZhangHengLateHan`, `RootCauseRemonstrance`, and `ChenweiEvidentiaryCritique`; updated `EmperorShunOfHan`, `ZhouJuLateHan`, `MaXianLateHan`, `MaXuLateHan`, `CheshiHouKingdomLateHan`, `AdviceFramingUnderHierarchy`, `OmenCodedRemonstrance`, `index`, and `overview`. No settled contradiction found; 张恒 is normalized to 张衡, while 孔扶 is kept distinct from the existing Qin-era 孔鲋 page and 耿宝 is kept distinct from the existing 耿包 page.
+
+## [2026-08-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-29] lint | Wiki health check
 

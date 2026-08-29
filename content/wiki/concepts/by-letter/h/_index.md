@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 5897
+wiki_total_pages: 5898
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -452,6 +452,9 @@ wiki_pages:
   - key: "HouseholdGoldSavings"
     title: "Household Gold Savings"
     url: "/wiki/concepts/householdgoldsavings/"
+  - key: "HouseholdMisconductPoliticalLiability"
+    title: "Household Misconduct Political Liability / 家门失范政治连带"
+    url: "/wiki/concepts/householdmisconductpoliticalliability/"
   - key: "HouseholdRobotDataFlywheel"
     title: "Household Robot Data Flywheel"
     url: "/wiki/concepts/householdrobotdataflywheel/"

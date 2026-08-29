@@ -8,6 +8,7 @@ sources:
   - zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq
   - zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh
   - zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff
+  - zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v
 last_updated: 2026-08-29
 knowledge_schema: synthesis-v1
 ---
@@ -18,7 +19,9 @@ knowledge_schema: synthesis-v1
 
 ## Current Synthesis
 
-The concept now spans two Shun-era layers and three Huan-era layers. [[zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff|Hanji 819]] supplies the positive command-appointment case: [[LiGuLateHan|李固]] rejects a 40,000-soldier Jiaozhi expedition and persuades [[EmperorShunOfHan|汉顺帝]] to appoint [[ZhangQiaoLateHan|张乔]] and [[ZhuLiangLateHan|祝良]], whose reassurance and single-carriage surrender strategy pacify the theater. The same source adds a recommendation-quality boundary when [[ZhouJuLateHan|周举]] impeaches [[ZuoXiongLateHan|左雄]] for recommending a previously corrupt man and Liang He refuses to recommend beyond his knowledge.
+The concept now spans three Shun-era layers and three Huan-era layers. [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|Hanji 815]] supplies the earliest Shun-era criteria case: [[ZhangHengLateHan|张衡]] argues that Xiaolian selection has drifted from filial conduct toward phrase-reading and memorial-writing, and he warns that mass dismissal of commandery and kingdom administrators can waste hard-won personnel capacity. Appointment quality therefore includes both entry criteria and removal standards.
+
+[[zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff|Hanji 819]] supplies the positive command-appointment case: [[LiGuLateHan|李固]] rejects a 40,000-soldier Jiaozhi expedition and persuades [[EmperorShunOfHan|汉顺帝]] to appoint [[ZhangQiaoLateHan|张乔]] and [[ZhuLiangLateHan|祝良]], whose reassurance and single-carriage surrender strategy pacify the theater. The same source adds a recommendation-quality boundary when [[ZhouJuLateHan|周举]] impeaches [[ZuoXiongLateHan|左雄]] for recommending a previously corrupt man and Liang He refuses to recommend beyond his knowledge.
 
 [[zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh|Hanji 821]] supplies the negative command-appointment case: Shun insists on [[MaXianLateHan|马贤]] despite [[LiangShangLateHan|梁商]]'s objection, ignores [[MaRongLateHan|马融]] and [[HuangfuGuiLateHan|皇甫规]] before Ma Xian's defeat, and then rejects Huangfu Gui's request for selected troops after the failure.
 
@@ -32,16 +35,18 @@ The concept is not simply meritocracy as a slogan. It includes task fit, politic
 
 ## Key Claims
 
-- Appointment quality is a form of state capacity because the right officeholder can replace larger mobilization, while the wrong appointment can destroy capacity before performance is tested.
+- Appointment quality is a form of state capacity because criteria, selection, placement, and removal standards all decide whether ability reaches the right office.
+- The right officeholder can replace larger mobilization, while the wrong appointment can destroy capacity before performance is tested.
 - Personnel failure travels downward: loose or self-interested court behavior distorts local execution and public trust.
 - Different crises require different official types, including frontier prestige figures, battlefield commanders, pacification officials, suppressors, humane mediators, reward managers, and relief officials.
 - Correct appointment is visible in outcomes such as submission, returned captives, refugee shelter, surrender, pacification, reduced litigation, and restored order.
-- Fiscal sale of ranks pressures appointment legitimacy because status becomes priced rather than earned or functionally assigned.
-- The pattern is person-dependent and fragile when the system cannot reliably select, protect, and retain fitting officials.
-- Appointment quality can become morally complicated when an effective official's methods violate rules or rely on violence.
+- The pattern is fragile when the system cannot reliably select, protect, retain, and fairly remove fitting officials.
+- Appointment quality can become morally complicated when status is priced, palace pressure overrides fit, or effective methods violate rules.
 
 ## Evidence
 
+- Criteria drift: [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|Hanji 815]] says Zhang Heng warns that Xiaolian standards emphasizing phrase-reading and memorial-writing can exclude very filial people from a channel built around filial conduct.
+- Removal-quality problem: [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|Hanji 815]] says Zhang Heng criticizes mass dismissal of local administrators because effective officials chosen through effort may be lost for minor faults.
 - Positive southern appointment: [[zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff|Hanji 819]] says Li Gu replaces the court's 40,000-soldier Jiaozhi expedition plan with the appointment of Zhang Qiao and Zhu Liang.
 - Low-cost pacification outcome: [[zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff|Hanji 819]] says Zhang Qiao reassures rebels into surrender and Zhu Liang enters the rebel camp alone, inducing tens of thousands to submit.
 - Recommendation accountability: [[zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff|Hanji 819]] says Zhou Ju impeaches Zuo Xiong's corrupt recommendation, while Liang He refuses to recommend people he cannot judge.
@@ -62,18 +67,19 @@ The concept is not simply meritocracy as a slogan. It includes task fit, politic
 
 ## Counterevidence & Qualifications
 
-The concept still rests on a small late-Han source set and should not be treated as a complete theory of state capacity. Hanji 819 gives a successful appointment case, but the result also depends on Li Gu's diagnosis, temporary retrenchment, reward policy, and rebel willingness to submit. Hanji 821 gives a vivid failed-commander case, but Qiang unrest also reflects frontier corruption, finance, hunger, and administrative violence. Hanji 832 gives a pressure case but not the later performance record of the unfit appointee. Hanji 842 and Hanji 854 include disasters, rebellions, and frontier pressure whose causes cannot be reduced to appointments alone. Duan Jiong also qualifies the pattern: the right military person may solve an urgent problem while creating legal or moral costs that the state must still judge.
+The concept still rests on a small late-Han source set and should not be treated as a complete theory of state capacity. Hanji 815 gives a criteria-and-removal critique, but it does not supply performance outcomes for the excluded Xiaolian candidates or dismissed officials. Hanji 819 gives a successful appointment case, but the result also depends on Li Gu's diagnosis, temporary retrenchment, reward policy, and rebel willingness to submit. Hanji 821 gives a vivid failed-commander case, but Qiang unrest also reflects frontier corruption, finance, hunger, and administrative violence. Hanji 832 gives a pressure case but not the later performance record of the unfit appointee. Hanji 842 and Hanji 854 include disasters, rebellions, and frontier pressure whose causes cannot be reduced to appointments alone. Duan Jiong also qualifies the pattern: the right military person may solve an urgent problem while creating legal or moral costs that the state must still judge.
 
 ## What Changed
 
-- Hanji 819 adds a Shun-era positive command-appointment layer through Li Gu, Zhang Qiao, Zhu Liang, Zhou Ju, Zuo Xiong, and Liang He.
+- Hanji 815 adds the earliest Shun-era personnel-criteria layer through Zhang Heng's Xiaolian and local-official removal critique.
+- Hanji 819 remains the Shun-era positive command-appointment layer through Li Gu, Zhang Qiao, Zhu Liang, Zhou Ju, Zuo Xiong, and Liang He.
 - Hanji 821 remains the negative Shun-era command-appointment layer through Ma Xian, Ma Rong, Huangfu Gui, and Zhao Chong.
 - Hanji 832 and Hanji 842 preserve appointment-pressure, reputation-deterrence, relief, and tactical-fit branches.
 - Hanji 854 remains the explicit personnel lesson and broad Huan-era application case.
-- Clarified that appointment quality needs recommendation boundaries, protection, and accountability, not only selection of capable people.
 
 ## Related Concepts
 
+- [[OfficialSelectionChannelCompetition|选官通道竞争]] - adjacent selection-field problem sharpened by Zhang Heng's Xiaolian criteria warning.
 - [[HumaneLocalGovernance|仁厚地方治理]] - appointment quality includes knowing when a humane local method fits the problem.
 - [[BlameAbsorbingResponsibility|揽过式责任承担]] - bad appointment pressure can create downstream responsibility-transfer cases.
 - [[RiskBearingReliefGovernance|担责开仓式救民]] - emergency relief depends on appointing a credible official who will bear risk.
@@ -91,3 +97,4 @@ The concept still rests on a small late-Han source set and should not be treated
 - [[CourtOfficeCapture|朝廷开府任官失序]] - captured appointment channels are the structural opposite of appointment quality.
 - [[PersonDependentGovernanceFragility|人亡政息式治理脆弱性]] - appointment quality helps only when the system can reproduce good selection beyond individual cases.
 - [[FrontierCommandCollapse|边郡军政崩盘]] - command collapse is the frontier consequence when appointment fit, warning, and campaign tempo fail together.
+- [[HouseholdMisconductPoliticalLiability|家门失范政治连带]] - boundary case where an official's fitness can be politically overwhelmed by household scandal.

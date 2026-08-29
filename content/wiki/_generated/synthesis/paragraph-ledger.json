@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "1724cee47538c9acfc5d62468943ab82c7830b999682366ada51befd9ca79b5b",
       "750236a3432e0c98c4fa9fe78759f73d329b50598c2bfc4d91296222ee930fff",
       "599ea23868826f8534bf0a9b5aac7529f431ca3e0bea38f0b6d8e0b8f827b865",
       "747c424e2c650902c1cc320496d834bff2055dd907b5167f993b9e737c38aad5",
@@ -362,11 +363,40 @@
       "c579b0c3102e48af519244d183c5c41e037740a37bf519bf5b0f4bf5ef849207",
       "56abb716e5b03c8a306adb1a6c6075e7f241a8cf33161741fecbd9f5b886bbb0"
     ],
-    "paragraph_count": 360
+    "paragraph_count": 361
   },
-  "overview_commit": "bb8fb379cedd189396a882002b2f718d7422fe7b",
-  "overview_digest": "f622a0a8050f399c9e1b4a340d67ec8ceef1ab6cde21b9a5aea1fff8606aab84",
+  "overview_commit": "e35f3b2c408b741a0a9fd97cbab846a61e0d5735",
+  "overview_digest": "bd233c14c280a9e96e2c78ad13e22d9f5ed4e68c8b9c1458b2a318b4b9be10d8",
   "paragraphs": [
+    {
+      "id": "1724cee47538c9acfc5d62468943ab82c7830b999682366ada51befd9ca79b5b",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|《资治通鉴·汉纪》815丨可悲！古代重臣的家风之殇！]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 133 CE [[EmperorShunOfHan|汉顺帝]] layer immediately before [[zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc|Hanji 816]]. It adds [[PangCanLateHan|庞参]], [[DuanGongchengLateHan|段恭诚]], [[SongELateHan|宋娥]], [[ZhuLiangLuoyangLateHan|朱良]], [[ShiYanLateHan|施延]], [[QizhijianXianbei|其至鞬]], and [[HouseholdMisconductPoliticalLiability|家门失范政治连带]], while extending [[ZhangHengLateHan|张衡]], [[LiGuLateHan|李固]], [[MaRongLateHan|马融]], [[EmperorShunOfHan|汉顺帝]], [[AppointmentQualityAsStateCapacity|任官适任性国家能力]], and [[AnonymousSlanderRetaliation|匿名诬告式报复]]. Its core synthesis is that Shun-era responsiveness was already fragile in 133 CE: Li Gu can briefly remove the emperor's wet nurse from palace access, but anonymous retaliation and direct-edict investigation push him away; Zhang Heng treats selection criteria and mass removals as state-capacity risks; and Pang Can's public reputation cannot survive a household murder scandal converted into impeachment. No settled contradiction is recorded; 朱良 is disambiguated from [[ZhuLiangLateHan|祝良]], Song E and Pang Can are promoted from prior source-scoped caution only where Hanji 815 makes them causal, and Ma Cheng plus the host's self-cultivation frame remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 3,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "AnonymousSlanderRetaliation",
+        "AppointmentQualityAsStateCapacity",
+        "DuanGongchengLateHan",
+        "EmperorShunOfHan",
+        "HouseholdMisconductPoliticalLiability",
+        "LiGuLateHan",
+        "MaRongLateHan",
+        "PangCanLateHan",
+        "QizhijianXianbei",
+        "RuiqiJiangtouZizhiTongjian",
+        "ShiYanLateHan",
+        "SongELateHan",
+        "ZhangHengLateHan",
+        "ZhuLiangLateHan",
+        "ZhuLiangLuoyangLateHan",
+        "zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v",
+        "zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc"
+      ]
+    },
     {
       "id": "750236a3432e0c98c4fa9fe78759f73d329b50598c2bfc4d91296222ee930fff",
       "primary_topic": "governance-and-institutions",

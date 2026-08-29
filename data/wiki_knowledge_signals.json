@@ -2178,9 +2178,9 @@
       "url": "/wiki/entities/anitaramaswamy/"
     },
     "AnonymousSlanderRetaliation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》825丨历史告诉你：当你没用时，人性最自私 [luV-8z9AXuejnFhLKgsUxEE3uKED].md",
@@ -2188,6 +2188,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》825丨历史告诉你：当你没用时，人性最自私",
           "url": "/wiki/sources/zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》815丨可悲！古代重臣的家风之殇！ [llKHbXo_-63PJw_gK9PihnBFr94V].md",
+          "key": "zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》815丨可悲！古代重臣的家风之殇！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v/"
         }
       ],
       "updated": "2026-08-29",
@@ -2382,9 +2389,9 @@
       "url": "/wiki/concepts/apathyactioninitiation/"
     },
     "AppointmentQualityAsStateCapacity": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》854丨历史告诉你：选官用官很重要！ [lhiN-IwK6y1XR8VvzdmnJch3s2uM].md",
@@ -2420,6 +2427,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》819丨2人功比4万人，他的权谋令人拍案叫绝！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》815丨可悲！古代重臣的家风之殇！ [llKHbXo_-63PJw_gK9PihnBFr94V].md",
+          "key": "zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》815丨可悲！古代重臣的家风之殇！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v/"
         }
       ],
       "updated": "2026-08-29",
@@ -7449,6 +7463,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/duzhonglatehan/"
     },
+    "DuanGongchengLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》815丨可悲！古代重臣的家风之殇！ [llKHbXo_-63PJw_gK9PihnBFr94V].md",
+          "key": "zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》815丨可悲！古代重臣的家风之殇！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/duangongchenglatehan/"
+    },
     "DuanGuiLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -8268,9 +8298,9 @@
       "url": "/wiki/entities/emperorhuanofhan/"
     },
     "EmperorShunOfHan": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》822丨豺狼当道，他将矛头直指皇帝岳父？ [lqHpMAYVd3p07BYR_zOIv-jyhdv_].md",
@@ -8327,6 +8357,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》816丨想要“拿下”你的领导，其实很简单",
           "url": "/wiki/sources/zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》815丨可悲！古代重臣的家风之殇！ [llKHbXo_-63PJw_gK9PihnBFr94V].md",
+          "key": "zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》815丨可悲！古代重臣的家风之殇！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v/"
         }
       ],
       "updated": "2026-08-29",
@@ -11853,6 +11890,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/houlanlatehan/"
     },
+    "HouseholdMisconductPoliticalLiability": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》815丨可悲！古代重臣的家风之殇！ [llKHbXo_-63PJw_gK9PihnBFr94V].md",
+          "key": "zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》815丨可悲！古代重臣的家风之殇！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/householdmisconductpoliticalliability/"
+    },
     "HousingSupplyOverRentControl": {
       "episode_count": 1,
       "show_count": 1,
@@ -15229,9 +15282,9 @@
       "url": "/wiki/entities/ligaorunanlatehan/"
     },
     "LiGuLateHan": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 1,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》929丨对事不对人，你信了吗？ [lgaXJ0jzoPddmt3C5hiBNExqLhB3].md",
@@ -15316,6 +15369,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》817丨看似软弱的人，实则活得更通透",
           "url": "/wiki/sources/zizhi-tongjian-hanji-817-kan-si-ruanruo-de-ren-shize-huode-geng-tongtou-llmgqys237de3dzb6ij-4szyetye/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》815丨可悲！古代重臣的家风之殇！ [llKHbXo_-63PJw_gK9PihnBFr94V].md",
+          "key": "zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》815丨可悲！古代重臣的家风之殇！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v/"
         }
       ],
       "updated": "2026-08-29",
@@ -17540,9 +17600,9 @@
       "url": "/wiki/entities/maridilatehan/"
     },
     "MaRongLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》836丨兄弟反目背后：儒者和奸臣的交锋 [lq9wJN5C8Mwt-OnRtSlUm4Fw53EQ].md",
@@ -17557,6 +17617,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》821丨不懂老板心思还想晋升？没门！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》815丨可悲！古代重臣的家风之殇！ [llKHbXo_-63PJw_gK9PihnBFr94V].md",
+          "key": "zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》815丨可悲！古代重臣的家风之殇！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v/"
         }
       ],
       "updated": "2026-08-29",
@@ -20239,6 +20306,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/panhonglatehan/"
     },
+    "PangCanLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》815丨可悲！古代重臣的家风之殇！ [llKHbXo_-63PJw_gK9PihnBFr94V].md",
+          "key": "zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》815丨可悲！古代重臣的家风之殇！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/pangcanlatehan/"
+    },
     "PangXiLateHan": {
       "episode_count": 3,
       "show_count": 1,
@@ -21808,6 +21891,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/qiuzhen/"
+    },
+    "QizhijianXianbei": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》815丨可悲！古代重臣的家风之殇！ [llKHbXo_-63PJw_gK9PihnBFr94V].md",
+          "key": "zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》815丨可悲！古代重臣的家风之殇！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/qizhijianxianbei/"
     },
     "QuantileBalancing": {
       "episode_count": 2,
@@ -23801,6 +23900,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/shihuanlatehan/"
     },
+    "ShiYanLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》815丨可悲！古代重臣的家风之殇！ [llKHbXo_-63PJw_gK9PihnBFr94V].md",
+          "key": "zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》815丨可悲！古代重臣的家风之殇！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/shiyanlatehan/"
+    },
     "ShinglesVaccineDementiaSignal": {
       "episode_count": 2,
       "show_count": 2,
@@ -24263,6 +24378,29 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/songchonglatehan/"
+    },
+    "SongELateHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》815丨可悲！古代重臣的家风之殇！ [llKHbXo_-63PJw_gK9PihnBFr94V].md",
+          "key": "zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》815丨可悲！古代重臣的家风之殇！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》818丨官场为什么要多交友？能救命！ [liYzIuDpEzoA4L6pBSQ0wk2qDjDr].md",
+          "key": "zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》818丨官场为什么要多交友？能救命！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/songelatehan/"
     },
     "SongHongEasternHan": {
       "episode_count": 1,
@@ -30729,9 +30867,9 @@
       "url": "/wiki/entities/zhanghelatehan/"
     },
     "ZhangHengLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》816丨想要“拿下”你的领导，其实很简单 [lva3Y4hGU7Kn1Z4jMHy6jN4-oyVC].md",
@@ -30739,6 +30877,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》816丨想要“拿下”你的领导，其实很简单",
           "url": "/wiki/sources/zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》815丨可悲！古代重臣的家风之殇！ [llKHbXo_-63PJw_gK9PihnBFr94V].md",
+          "key": "zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》815丨可悲！古代重臣的家风之殇！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v/"
         }
       ],
       "updated": "2026-08-29",
@@ -31826,6 +31971,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/zhulianglatehan/"
+    },
+    "ZhuLiangLuoyangLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》815丨可悲！古代重臣的家风之殇！ [llKHbXo_-63PJw_gK9PihnBFr94V].md",
+          "key": "zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》815丨可悲！古代重臣的家风之殇！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/zhuliangluoyanglatehan/"
     },
     "ZhuLingLateHan": {
       "episode_count": 1,

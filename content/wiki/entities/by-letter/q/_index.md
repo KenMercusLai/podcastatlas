@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "q"
-wiki_total_pages: 8252
+wiki_total_pages: 8258
 wiki_pages:
   - key: "Qatar"
     title: "Qatar"
@@ -125,6 +125,9 @@ wiki_pages:
   - key: "QuanShixiong"
     title: "全师雄 / Quan Shixiong"
     url: "/wiki/entities/quanshixiong/"
+  - key: "QizhijianXianbei"
+    title: "其至鞬 / Qizhijian (Xianbei)"
+    url: "/wiki/entities/qizhijianxianbei/"
   - key: "QianTuWuLiang"
     title: "前途无量"
     url: "/wiki/entities/qiantuwuliang/"

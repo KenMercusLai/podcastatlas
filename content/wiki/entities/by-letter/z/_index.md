@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 8252
+wiki_total_pages: 8258
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -863,6 +863,9 @@ wiki_pages:
   - key: "ZhuMuLateHan"
     title: "朱穆 / Zhu Mu (late Han)"
     url: "/wiki/entities/zhumulatehan/"
+  - key: "ZhuLiangLuoyangLateHan"
+    title: "朱良 / Zhu Liang (Luoyang magistrate, late Han)"
+    url: "/wiki/entities/zhuliangluoyanglatehan/"
   - key: "ZhuYingWarringStates"
     title: "朱英 / Zhu Ying (Warring States)"
     url: "/wiki/entities/zhuyingwarringstates/"

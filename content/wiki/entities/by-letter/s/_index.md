@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 8252
+wiki_total_pages: 8258
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1664,6 +1664,9 @@ wiki_pages:
   - key: "SongState"
     title: "宋国 / Song State"
     url: "/wiki/entities/songstate/"
+  - key: "SongELateHan"
+    title: "宋娥 / Song E (late Han)"
+    url: "/wiki/entities/songelatehan/"
   - key: "SongZiwen"
     title: "宋子文"
     url: "/wiki/entities/songziwen/"
@@ -1757,6 +1760,9 @@ wiki_pages:
   - key: "StanislawLem"
     title: "斯坦尼斯拉夫·莱姆 / Stanislaw Lem"
     url: "/wiki/entities/stanislawlem/"
+  - key: "ShiYanLateHan"
+    title: "施延 / Shi Yan (late Han)"
+    url: "/wiki/entities/shiyanlatehan/"
   - key: "ShiAidong"
     title: "施爱东 / Shi Aidong"
     url: "/wiki/entities/shiaidong/"
