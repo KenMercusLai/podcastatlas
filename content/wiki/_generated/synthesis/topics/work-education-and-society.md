@@ -4,17 +4,29 @@ generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
 last_updated: 2026-08-29
-as_of_overview_commit: 5bde19bc47ed09ceda19463d0eb804f709603159
-input_digest: a324801dcff693ab86b03993d164d930d60247fe836e8d77fd331bb8e4f39ed6
+as_of_overview_commit: b557f4442ba39998737ff180b24d91b7a0ba3f3f
+input_digest: 151f3e143a2eba3309a954fd8a58cf46560dea40d9289a8c991051aed465f6ca
 ---
 
 # Work, Education, and Society
 
 ## Current State
 
-Work, education, and society sources converge on a practical pattern: durable capability comes from bounded institutions, active learning, realistic workplace judgment, and human feedback loops. AI and other tools can compress work, but the useful sources keep returning to self-directed effort, context, verification, social trust, pacing, health, and environments that let people act under real constraints.
+A new Hanji 813 historical office-boundary example adds that role dignity, title rules, and feedback channels also shape institutional capacity. Work, education, and society sources converge on a practical pattern: durable capability comes from bounded institutions, active learning, realistic workplace judgment, and human feedback loops. AI and other tools can compress work, but the useful sources keep returning to self-directed effort, context, verification, social trust, pacing, health, and environments that let people act under real constraints.
 
 ## Cross-source Findings
+
+### Historical Office Boundaries Link Role Dignity And Capacity
+
+[[zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv|Hanji 813]] adds a historical office-boundary example to the work and society topic: [[LangYiLateHan]]'s recommendation path, [[ZuoXiongLateHan]]'s title objection, and [[LiuJuLateHan]]'s beating show that durable institutional capacity depends on credible role boundaries around public title, office dignity, and feedback, not only individual competence; [[MinisterialDignityProtection]] and [[PrivateFavorAppointmentErosion]] are the institutional forms in this source.
+
+**Evidence:** [[zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv]], [[LangYiLateHan]], [[ZuoXiongLateHan]], [[LiuJuLateHan]], [[MinisterialDignityProtection]], [[PrivateFavorAppointmentErosion]]
+
+**Qualifications:**
+
+- This is a historical office-role analogy from Hanji 813, not modern workplace, education, or legal advice.
+- The claim is included in this topic only because the planner marked the paragraph as secondary work/society input through office, service, role, and dignity language.
+- It should stay source-scoped unless later sources connect office dignity or title boundaries to broader work and society patterns.
 
 ### Active Learning Requires Effort Feedback And Selection
 

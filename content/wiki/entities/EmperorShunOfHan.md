@@ -14,6 +14,7 @@ sources:
   - zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc
   - zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v
   - zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p
+  - zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv
 last_updated: 2026-08-29
 ---
 
@@ -21,11 +22,13 @@ last_updated: 2026-08-29
 
 ## Overview
 
-Emperor Shun of Han appears in this wiki as a late Eastern Han ruler whose reign mixes bounded responsiveness with brittle command, palace, frontier, and succession structures. The current synthesis now spans 133-144 CE: the Xuande Hall ground split, Li Gu's critique of private-favor appointment, court-core decay, and eunuch power, and Ma Rong's good-government delivery warning in Hanji 814; Li Gu's Song E correction and retaliation, Zhang Heng's Xiaolian and removal critique, Pang Can's dismissal, Shi Yan's appointment, and Qizhijian's Xianbei notice in Hanji 815; Zhou Ju's drought remonstrance, Zhang Heng's earthquake memorial and anti-tuchen critique, early Qiang appointments, and Cheshi-Xiongnu pressure in Hanji 816; eunuch adopted-son title inheritance, Zhang Gang's ignored protest, Liang Shang's appointment, and Li Gu's unadopted reform counsel in Hanji 817; Wang Gong's canceled inquiry, Yu Xu's rejected Wuling warning, Li Jin's Wuling repair, the Song E corruption case, and Fa Zhen's refusal in Hanji 818; Li Gu's successful Jiaozhi alternative in Hanji 819; legal narrowing and frontier-response choices in Hanji 820; Ma Xian's appointment failure and the Liang-family handoff in Hanji 821; 141-142 personnel accountability in Hanji 822; and the 143-144 final-year layer ending in the accession of the child emperor Liu Bing.
+Emperor Shun of Han appears in this wiki as a late Eastern Han ruler whose reign mixes bounded responsiveness with brittle command, palace, frontier, and succession structures. The current synthesis now spans 133-144 CE: Lang Yi's drought remonstrance, Zuo Xiong's title-boundary objections, Liu Ju's nine-minister dignity case, and Li Gu's first disaster-policy critique in Hanji 813; the Xuande Hall ground split, Li Gu's wider critique of private-favor appointment, court-core decay, and eunuch power, and Ma Rong's good-government delivery warning in Hanji 814; Li Gu's Song E correction and retaliation, Zhang Heng's Xiaolian and removal critique, Pang Can's dismissal, Shi Yan's appointment, and Qizhijian's Xianbei notice in Hanji 815; Zhou Ju's drought remonstrance, Zhang Heng's earthquake memorial and anti-tuchen critique, early Qiang appointments, and Cheshi-Xiongnu pressure in Hanji 816; eunuch adopted-son title inheritance, Zhang Gang's ignored protest, Liang Shang's appointment, and Li Gu's unadopted reform counsel in Hanji 817; Wang Gong's canceled inquiry, Yu Xu's rejected Wuling warning, Li Jin's Wuling repair, the Song E corruption case, and Fa Zhen's refusal in Hanji 818; Li Gu's successful Jiaozhi alternative in Hanji 819; legal narrowing and frontier-response choices in Hanji 820; Ma Xian's appointment failure and the Liang-family handoff in Hanji 821; 141-142 personnel accountability in Hanji 822; and the 143-144 final-year layer ending in the accession of the child emperor Liu Bing.
 
 ## Current Profile
 
-The earliest current layer comes from [[zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p|Hanji 814]]. In 133 CE, the Xuande Hall ground split alarms Shun enough that he summons senior ministers and newly arrived appointees to explain the disaster and propose repairs. [[LiGuLateHan|Li Gu]] uses the opening to criticize titles and offices granted through wet-nurse favor, Liang-kinship, and near-attendant family channels; to make Shangshu and the court the heart, source, root, and standard of outer governance; and to propose reducing eunuch and inner-court power. [[MaRongLateHan|Ma Rong]] then argues that the people have heard many promises of good government but need concrete benefits through reduced marriage and funeral burdens, protected farming time, and more secure household life.
+The earliest current layer comes from [[zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv|Hanji 813]]. In 133 CE, [[LangYiLateHan|郎顗]] uses drought and west winds to criticize insincere correction and recommends [[HuangQiongLateHan|黄琼]] and [[LiGuLateHan|李固]]. Shun appoints Lang Yi, though Lang Yi avoids service. The same layer shows Shun trying to enfeoff [[SongELateHan|宋娥]] and Liang Shang's son; [[ZuoXiongLateHan|左雄]] objects, [[LiangShangLateHan|梁商]] repeatedly declines the family title, and Shun drops the Liang title attempt while keeping Song E's. Shun also accepts Zuo's memorial after [[LiuJuLateHan|刘矩]] is beaten at Shangshu Tai, ending the beating of nine ministers, while Li Gu's disaster-policy answer criticizes Song E's title and overpowered Liang-family palace access.
+
+[[zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p|Hanji 814]] supplies the next 133 CE layer. The Xuande Hall ground split alarms Shun enough that he summons senior ministers and newly arrived appointees to explain the disaster and propose repairs. Li Gu uses the opening to criticize titles and offices granted through wet-nurse favor, Liang-kinship, and near-attendant family channels; to make Shangshu and the court the heart, source, root, and standard of outer governance; and to propose reducing eunuch and inner-court power. [[MaRongLateHan|Ma Rong]] then argues that the people have heard many promises of good government but need concrete benefits through reduced marriage and funeral burdens, protected farming time, and more secure household life.
 
 [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|Hanji 815]] supplies the partial adoption and retaliation layer. In 133 CE, Shun reviews advice from three ministers and accepts Li Gu's proposal strongly enough to send [[SongELateHan|Song E]] out of the palace and make eunuchs kneel for pardon. The correction is brief: Song E and eunuchs resent Li Gu, forge anonymous charges, and Shun orders Li Gu investigated by direct edict outside Shangshu Tai before Li Gu is cleared and sent away to county office. The same layer has [[ZhangHengLateHan|Zhang Heng]] criticize Xiaolian criteria and local-official dismissals, Ma Rong and Zhang Heng appear as learned advisers, [[PangCanLateHan|Pang Can]] move from imperial comfort to dismissal after household scandal, [[ShiYanLateHan|Shi Yan]] replace Pang as taiwei, and [[QizhijianXianbei|Qizhijian]]'s death correlate with fewer [[Xianbei|Xianbei]] raids.
 
@@ -47,8 +50,8 @@ In the 143-144 CE final-year layer from [[zizhi-tongjian-hanji-824-weishenme-wom
 
 ## Key Characteristics
 
-- Responsive at moments to concrete corrective advice, beginning with the 133 CE ground-split inquiry, Li Gu's institutional memorial, and the later Song E correction.
-- Weak at insulating correction from palace retaliation, as Li Gu's 133 CE direct-edict investigation shows.
+- Responsive at moments to concrete corrective advice, beginning with the 133 CE Lang Yi recommendation, Liang-title refusal, nine-minister dignity repair, ground-split inquiry, Li Gu memorials, and later Song E correction.
+- Uneven at enforcing private-favor boundaries, dropping the Liang-family title attempt while keeping Song E's title and later exposing Li Gu to palace retaliation.
 - Weak at sustaining frontier command and fiscal judgment when his preferred policy or court majority conflicts with expert warning.
 - Dependent on eunuch, Liang-family, and palace networks whose office power grows across his reign.
 - Able to punish visible eunuch, palace, or frontier-official misconduct after damage becomes hard to ignore.
@@ -57,6 +60,10 @@ In the 143-144 CE final-year layer from [[zizhi-tongjian-hanji-824-weishenme-wom
 
 ## Evidence
 
+- Drought remonstrance and recommendation: [[zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv|Hanji 813]] says Shun receives Lang Yi's drought memorial and the recommendations of Huang Qiong and Li Gu.
+- Private-favor title boundary: [[zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv|Hanji 813]] says Shun drops the title attempt for Liang Shang's son after Zuo Xiong's objection and Liang Shang's repeated refusal, but does not revoke Song E's title.
+- Nine-minister dignity repair: [[zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv|Hanji 813]] says Shun accepts Zuo Xiong's memorial after Liu Ju's beating and ends the beating of nine ministers.
+- Li Gu's first disaster answer: [[zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv|Hanji 813]] says Li Gu uses disasters to criticize wet-nurse title and excessive Liang-family palace power.
 - Ground-split inquiry: [[zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p|Hanji 814]] says Shun summons senior ministers and newly arrived appointees after the Xuande Hall ground split and asks them to explain the disaster and propose governance repairs.
 - Private-favor appointment warning: [[zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p|Hanji 814]] says Li Gu warns Shun against granting titles and offices to Song E, Liang relatives, attendants' children, and other palace-connected actors as private favor.
 - Court-core repair warning: [[zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p|Hanji 814]] says Li Gu treats Shangshu and the court as the heart, belly, source, root, and standard that local governance follows.
@@ -92,21 +99,24 @@ In the 143-144 CE final-year layer from [[zizhi-tongjian-hanji-824-weishenme-wom
 
 ## Qualifications
 
-This page is a synthesis of ten source notes, not a full reign history. Hanji 814 gives the earliest current layer and shows Shun creating an inquiry opening after disaster, while Li Gu and Ma Rong use that opening to diagnose appointment privilege, central-court disorder, eunuch power, and undelivered good government. Hanji 815 shows real openness to Li Gu's corrective advice, but also the quick return of palace retaliation and direct-edict channel distortion. Hanji 816 adds further openness to corrective speech before later palace, eunuch, frontier, and succession failures accumulate. Hanji 817, Hanji 818, Hanji 819, and Hanji 820 add real responsiveness and palace dependence before the later failure pattern, so the current profile should avoid flattening Shun into either reformer or failed ruler alone. Zhang Heng's tuchen critique is source-bounded to Hanji 816, Song E's 133 retaliation is source-bounded to Hanji 815, and the normalized Hanji 814 through Hanji 820 names should be checked again if later sources give sharper evidence for Wuxuan, Yang Di, tuchen bans, the eunuch-adoption statute, Wuhuan campaign, Wuling, Xianglin, Jiaozhi, Rinan, Southern Xiongnu, or Zhang Kui accusation sequences.
+This page is a synthesis of eleven source notes, not a full reign history. Hanji 813 gives the earliest current layer and shows Shun receiving drought remonstrance, accepting some boundary correction, refusing other correction, and adopting a narrow office-dignity repair. Hanji 814 continues the 133 CE disaster-inquiry sequence, while Li Gu and Ma Rong use that opening to diagnose appointment privilege, central-court disorder, eunuch power, and undelivered good government. Hanji 815 shows real openness to Li Gu's corrective advice, but also the quick return of palace retaliation and direct-edict channel distortion. Hanji 816 adds further openness to corrective speech before later palace, eunuch, frontier, and succession failures accumulate. Hanji 817, Hanji 818, Hanji 819, and Hanji 820 add real responsiveness and palace dependence before the later failure pattern, so the current profile should avoid flattening Shun into either reformer or failed ruler alone. Zhang Heng's tuchen critique is source-bounded to Hanji 816, Song E's 133 retaliation is source-bounded to Hanji 815, and the normalized Hanji 813 through Hanji 820 names should be checked again if later sources give sharper evidence for Lang Yi, Song E, the Liang title attempt, Liu Ju, Wuxuan, Yang Di, tuchen bans, the eunuch-adoption statute, Wuhuan campaign, Wuling, Xianglin, Jiaozhi, Rinan, Southern Xiongnu, or Zhang Kui accusation sequences.
 
 ## What Changed
 
-- Placed Hanji 814 before Hanji 815 as Shun's earliest current layer: ground-split inquiry, Li Gu's institutional memorial, and Ma Rong's good-government delivery warning.
+- Placed Hanji 813 before Hanji 814 as Shun's earliest current layer: Lang Yi's drought memorial, Zuo Xiong's title objections, the Liu Ju dignity repair, and Li Gu's opening disaster answer.
+- Reframed Hanji 814 as the continuation of the 133 CE disaster-inquiry sequence rather than the starting point.
 - Preserved Hanji 815 as the partial-adoption and retaliation layer: Song E removal, palace counterattack, direct-edict investigation, and county transfer.
-- Reframed Hanji 816 as the 134 CE follow-on layer: Zhou Ju's drought counsel, Zhang Heng's earthquake and anti-tuchen memorial, Qiang appointments, and Cheshi-Xiongnu pressure.
-- Kept Hanji 817 through Hanji 819 as later Shun-era eunuch privilege, reform-counsel, protection, and Jiaozhi repair layers.
+- Kept Hanji 816 as the 134 CE follow-on layer: Zhou Ju's drought counsel, Zhang Heng's earthquake and anti-tuchen memorial, Qiang appointments, and Cheshi-Xiongnu pressure.
 - Reframed Shun's responsiveness as real but bounded by palace retaliation, appointment privilege, uneven frontier judgment, fiscal misjudgment, household-scandal accountability, and later command failure.
 
 ## Relationships
 
 - [[ZhouJuLateHan|周举]] - remonstrant whose drought counsel and loyalty criterion show Shun receiving correction before later cases.
+- [[LangYiLateHan|郎顗]] - drought-remonstrance speaker whom Shun appoints after receiving recommendations for Huang Qiong and Li Gu.
 - [[ZhangHengLateHan|张衡]] - adviser whose Xiaolian, removal-quality, earthquake, and anti-tuchen warnings target Shun's personnel and authority problems.
 - [[SongELateHan|宋娥]] - wet nurse whom Shun expels from palace access before accepting a direct-edict investigation of Li Gu after her retaliation.
+- [[LiuJuLateHan|刘矩]] - high official whose beating leads Shun to accept a nine-minister dignity repair.
+- [[MinisterialDignityProtection|九卿体面保护]] - procedural repair Shun accepts after the Liu Ju case.
 - [[PrivateFavorAppointmentErosion|私恩任官侵蚀]] - Li Gu's 133 CE diagnosis of Shun's wet-nurse, Liang-kin, and near-attendant appointment problem.
 - [[CourtCoreRectification|朝廷心腹整顿]] - Li Gu's frame for why Shun must repair Shangshu, central offices, and inner-court power before local order can hold.
 - [[BeneficialGovernanceDelivery|善政实惠落地]] - Ma Rong's standard for judging Shun's promises by concrete household relief.
@@ -125,7 +135,7 @@ This page is a synthesis of ten source notes, not a full reign history. Hanji 81
 - [[ZhangFangEunuchLateHan|张防]] - eunuch figure whose danger shows the limits of anti-eunuch correction under Shun.
 - [[JiaozhiCommandery|交趾郡]] - southern crisis where Shun chooses appointments over mass expedition.
 - [[ZhangQiaoLateHan|张乔]] and [[ZhuLiangLateHan|祝良]] - officials appointed under Shun after Li Gu's recommendation.
-- [[ZuoXiongLateHan|左雄]] - recommendation-accountability actor in Shun's talent-selection environment.
+- [[ZuoXiongLateHan|左雄]] - title-boundary and office-dignity remonstrant who later appears in Shun's recommendation-accountability environment.
 - [[EmperorChongOfHan|Emperor Chong of Han]] - Shun designates Liu Bing crown prince and is succeeded by him in 144.
 - [[ZhongHaoLateHan|Zhong Hao]] - Shun appoints Zhong Hao to the crown-prince household, creating the office basis for Zhong Hao's later credential refusal.
 - [[HuangQiongLateHan|Huang Qiong]] - Huang Qiong's selection reform is accepted under Shun.

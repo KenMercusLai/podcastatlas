@@ -8330,9 +8330,9 @@
       "url": "/wiki/entities/emperorhuanofhan/"
     },
     "EmperorShunOfHan": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》822丨豺狼当道，他将矛头直指皇帝岳父？ [lqHpMAYVd3p07BYR_zOIv-jyhdv_].md",
@@ -8403,6 +8403,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》814丨当官不为民作主，不如回家卖红薯",
           "url": "/wiki/sources/zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》813丨古代的高官竟也会被殴打？ [ln_DW3xohNMpAVkPu_bdvaSViETv].md",
+          "key": "zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》813丨古代的高官竟也会被殴打？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv/"
         }
       ],
       "updated": "2026-08-29",
@@ -14905,6 +14912,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/lanegreen/"
     },
+    "LangYiLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》813丨古代的高官竟也会被殴打？ [ln_DW3xohNMpAVkPu_bdvaSViETv].md",
+          "key": "zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》813丨古代的高官竟也会被殴打？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/langyilatehan/"
+    },
     "LanguageCompressionLabeling": {
       "episode_count": 1,
       "show_count": 1,
@@ -15321,9 +15344,9 @@
       "url": "/wiki/entities/ligaorunanlatehan/"
     },
     "LiGuLateHan": {
-      "episode_count": 14,
+      "episode_count": 15,
       "show_count": 1,
-      "source_note_count": 14,
+      "source_note_count": 15,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》929丨对事不对人，你信了吗？ [lgaXJ0jzoPddmt3C5hiBNExqLhB3].md",
@@ -15422,6 +15445,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》814丨当官不为民作主，不如回家卖红薯",
           "url": "/wiki/sources/zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》813丨古代的高官竟也会被殴打？ [ln_DW3xohNMpAVkPu_bdvaSViETv].md",
+          "key": "zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》813丨古代的高官竟也会被殴打？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv/"
         }
       ],
       "updated": "2026-08-29",
@@ -15732,9 +15762,9 @@
       "url": "/wiki/entities/liangbuyilatehan/"
     },
     "LiangJiLateHan": {
-      "episode_count": 20,
+      "episode_count": 21,
       "show_count": 1,
-      "source_note_count": 20,
+      "source_note_count": 21,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》853丨揭秘汉朝版的“赵氏孤儿” [lvSA2pby8IyfEvfooBoBpIK52MiJ].md",
@@ -15875,15 +15905,22 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》818丨官场为什么要多交友？能救命！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》813丨古代的高官竟也会被殴打？ [ln_DW3xohNMpAVkPu_bdvaSViETv].md",
+          "key": "zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》813丨古代的高官竟也会被殴打？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv/"
         }
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/liangjilatehan/"
     },
     "LiangShangLateHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》821丨不懂老板心思还想晋升？没门！ [lmJXR8fDXGW-ColRLinmuJba74fh].md",
@@ -15912,6 +15949,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》817丨看似软弱的人，实则活得更通透",
           "url": "/wiki/sources/zizhi-tongjian-hanji-817-kan-si-ruanruo-de-ren-shize-huode-geng-tongtou-llmgqys237de3dzb6ij-4szyetye/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》813丨古代的高官竟也会被殴打？ [ln_DW3xohNMpAVkPu_bdvaSViETv].md",
+          "key": "zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》813丨古代的高官竟也会被殴打？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv/"
         }
       ],
       "updated": "2026-08-29",
@@ -16250,9 +16294,9 @@
       "url": "/wiki/entities/liufulatehan/"
     },
     "LiuJuLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》854丨历史告诉你：选官用官很重要！ [lhiN-IwK6y1XR8VvzdmnJch3s2uM].md",
@@ -16260,9 +16304,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》854丨历史告诉你：选官用官很重要！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》813丨古代的高官竟也会被殴打？ [ln_DW3xohNMpAVkPu_bdvaSViETv].md",
+          "key": "zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》813丨古代的高官竟也会被殴打？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-29",
       "url": "/wiki/entities/liujulatehan/"
     },
     "LiuJunshiLateHan": {
@@ -18725,6 +18776,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/militaryrewardeunuchgatekeeping/"
     },
+    "MinisterialDignityProtection": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》813丨古代的高官竟也会被殴打？ [ln_DW3xohNMpAVkPu_bdvaSViETv].md",
+          "key": "zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》813丨古代的高官竟也会被殴打？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/ministerialdignityprotection/"
+    },
     "MissedDiagnosisRisk": {
       "episode_count": 1,
       "show_count": 1,
@@ -19865,9 +19932,9 @@
       "url": "/wiki/concepts/olfactorytraining/"
     },
     "OmenCodedRemonstrance": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》873丨他如何利用天象痛骂帝王？ [lqEbKOdcbCrSVYf80qWxNobYDbHc].md",
@@ -19896,6 +19963,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》814丨当官不为民作主，不如回家卖红薯",
           "url": "/wiki/sources/zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》813丨古代的高官竟也会被殴打？ [ln_DW3xohNMpAVkPu_bdvaSViETv].md",
+          "key": "zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》813丨古代的高官竟也会被殴打？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv/"
         }
       ],
       "updated": "2026-08-29",
@@ -21466,9 +21540,9 @@
       "url": "/wiki/concepts/privateequityaitransformation/"
     },
     "PrivateFavorAppointmentErosion": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》814丨当官不为民作主，不如回家卖红薯 [lqLrFPUEnzhR1tbrdD3UrTOLfW2p].md",
@@ -21476,6 +21550,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》814丨当官不为民作主，不如回家卖红薯",
           "url": "/wiki/sources/zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》813丨古代的高官竟也会被殴打？ [ln_DW3xohNMpAVkPu_bdvaSViETv].md",
+          "key": "zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》813丨古代的高官竟也会被殴打？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv/"
         }
       ],
       "updated": "2026-08-29",
@@ -24456,9 +24537,9 @@
       "url": "/wiki/entities/songchonglatehan/"
     },
     "SongELateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》815丨可悲！古代重臣的家风之殇！ [llKHbXo_-63PJw_gK9PihnBFr94V].md",
@@ -24473,6 +24554,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》818丨官场为什么要多交友？能救命！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》813丨古代的高官竟也会被殴打？ [ln_DW3xohNMpAVkPu_bdvaSViETv].md",
+          "key": "zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》813丨古代的高官竟也会被殴打？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv/"
         }
       ],
       "updated": "2026-08-29",
@@ -32240,9 +32328,9 @@
       "url": "/wiki/entities/zuoshenglatehan/"
     },
     "ZuoXiongLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》819丨2人功比4万人，他的权谋令人拍案叫绝！ [lsSLJ3Y_kRNd8h-c8x5pgSQeinff].md",
@@ -32250,6 +32338,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》819丨2人功比4万人，他的权谋令人拍案叫绝！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》813丨古代的高官竟也会被殴打？ [ln_DW3xohNMpAVkPu_bdvaSViETv].md",
+          "key": "zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》813丨古代的高官竟也会被殴打？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv/"
         }
       ],
       "updated": "2026-08-29",

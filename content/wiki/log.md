@@ -13372,3 +13372,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-29] ingest | 《资治通鉴·汉纪》813丨古代的高官竟也会被殴打？
+
+Ingested the 2026-07-11 芮淇讲透资治通鉴 episode on 133 CE Emperor Shun, Lang Yi's drought remonstrance and recommendations, Zuo Xiong's opposition to private-favor titles for Song E and Liang Ji, Liu Ju's nine-minister dignity case, and Li Gu's disaster-policy critique of wet-nurse and outer-relative power. Created the source note plus `LangYiLateHan` and `MinisterialDignityProtection`; updated `EmperorShunOfHan`, `ZuoXiongLateHan`, `SongELateHan`, `LiuJuLateHan`, `LiangShangLateHan`, `LiangJiLateHan`, `LiGuLateHan`, `PrivateFavorAppointmentErosion`, `OmenCodedRemonstrance`, `index`, and `overview`. No settled contradiction found; transcript forms 郎毅, 黄穹, 梁毅/乡义侯, and 刘巨 were normalized cautiously to 郎顗, 黄琼, 梁冀/Xiangyi, and 刘矩.
+
+## [2026-08-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

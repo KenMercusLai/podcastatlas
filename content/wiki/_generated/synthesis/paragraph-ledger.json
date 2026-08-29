@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "34acb5ea9c860fb038766002b67ed509d58847883f441c49dc243ea38dbe80de",
       "7289923d2b13e321867d982395f82f649614488a40794da9e3581d04c5483cb3",
       "1724cee47538c9acfc5d62468943ab82c7830b999682366ada51befd9ca79b5b",
       "750236a3432e0c98c4fa9fe78759f73d329b50598c2bfc4d91296222ee930fff",
@@ -364,11 +365,42 @@
       "c579b0c3102e48af519244d183c5c41e037740a37bf519bf5b0f4bf5ef849207",
       "56abb716e5b03c8a306adb1a6c6075e7f241a8cf33161741fecbd9f5b886bbb0"
     ],
-    "paragraph_count": 362
+    "paragraph_count": 363
   },
-  "overview_commit": "752fc8410508100adca9ff7162534f562cca0f14",
-  "overview_digest": "316d33bf2f1e3aa717855ab15312beefc45fa3f88ab0ff6c20f259aa189c26bc",
+  "overview_commit": "b557f4442ba39998737ff180b24d91b7a0ba3f3f",
+  "overview_digest": "cd898c94657a4c8cf0cb85427c9b3c55ca146829af005a9876dc6360da4f84cc",
   "paragraphs": [
+    {
+      "id": "34acb5ea9c860fb038766002b67ed509d58847883f441c49dc243ea38dbe80de",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics",
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv|《资治通鉴·汉纪》813丨古代的高官竟也会被殴打？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the opening 133 CE [[EmperorShunOfHan|汉顺帝]] layer before [[zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p|Hanji 814]] and [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|Hanji 815]]. It adds [[LangYiLateHan|郎顗]] and [[MinisterialDignityProtection|九卿体面保护]], while extending [[ZuoXiongLateHan|左雄]], [[SongELateHan|宋娥]], [[LiuJuLateHan|刘矩]], [[LiGuLateHan|李固]], [[LiangShangLateHan|梁商]], [[LiangJiLateHan|梁冀]], [[PrivateFavorAppointmentErosion|私恩授官侵蚀]], and [[OmenCodedRemonstrance|天象灾异包装式进谏]]. Its core synthesis is that Shun-era repair begins as a boundary problem around private favor and official dignity: Lang Yi turns drought into frank counsel and talent recommendation, Zuo Xiong blocks a Liang-family title while failing to reverse Song E's title, Liu Ju's beating prompts a procedural dignity repair, and Li Gu broadens the same critique into wet-nurse and outer-relative power limits. No settled contradiction is recorded; transcript forms 郎毅, 黄穹, 梁毅/乡义侯, and 刘巨 are normalized cautiously to 郎顗, 黄琼, 梁冀/Xiangyi, and 刘矩.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "EmperorShunOfHan",
+        "LangYiLateHan",
+        "LiGuLateHan",
+        "LiangJiLateHan",
+        "LiangShangLateHan",
+        "LiuJuLateHan",
+        "MinisterialDignityProtection",
+        "OmenCodedRemonstrance",
+        "PrivateFavorAppointmentErosion",
+        "RuiqiJiangtouZizhiTongjian",
+        "SongELateHan",
+        "ZuoXiongLateHan",
+        "zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv",
+        "zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p",
+        "zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v"
+      ]
+    },
     {
       "id": "7289923d2b13e321867d982395f82f649614488a40794da9e3581d04c5483cb3",
       "primary_topic": "governance-and-institutions",

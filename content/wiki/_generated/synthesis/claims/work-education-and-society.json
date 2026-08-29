@@ -1,6 +1,25 @@
 {
   "claims": [
     {
+      "global_candidate": false,
+      "id": "historical-office-boundaries-link-role-dignity-and-capacity",
+      "qualifications": [
+        "This is a historical office-role analogy from Hanji 813, not modern workplace, education, or legal advice.",
+        "The claim is included in this topic only because the planner marked the paragraph as secondary work/society input through office, service, role, and dignity language.",
+        "It should stay source-scoped unless later sources connect office dignity or title boundaries to broader work and society patterns."
+      ],
+      "statement": "[[zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv|Hanji 813]] adds a historical office-boundary example to the work and society topic: [[LangYiLateHan]]'s recommendation path, [[ZuoXiongLateHan]]'s title objection, and [[LiuJuLateHan]]'s beating show that durable institutional capacity depends on credible role boundaries around public title, office dignity, and feedback, not only individual competence; [[MinisterialDignityProtection]] and [[PrivateFavorAppointmentErosion]] are the institutional forms in this source.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv",
+        "LangYiLateHan",
+        "ZuoXiongLateHan",
+        "LiuJuLateHan",
+        "MinisterialDignityProtection",
+        "PrivateFavorAppointmentErosion"
+      ]
+    },
+    {
       "global_candidate": true,
       "id": "active-learning-requires-effort-feedback-and-selection",
       "qualifications": [
@@ -91,6 +110,6 @@
       ]
     }
   ],
-  "summary": "Work, education, and society sources converge on a practical pattern: durable capability comes from bounded institutions, active learning, realistic workplace judgment, and human feedback loops. AI and other tools can compress work, but the useful sources keep returning to self-directed effort, context, verification, social trust, pacing, health, and environments that let people act under real constraints.",
+  "summary": "A new Hanji 813 historical office-boundary example adds that role dignity, title rules, and feedback channels also shape institutional capacity. Work, education, and society sources converge on a practical pattern: durable capability comes from bounded institutions, active learning, realistic workplace judgment, and human feedback loops. AI and other tools can compress work, but the useful sources keep returning to self-directed effort, context, verification, social trust, pacing, health, and environments that let people act under real constraints.",
   "topic_id": "work-education-and-society"
 }
