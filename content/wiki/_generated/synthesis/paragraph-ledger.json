@@ -1,7 +1,8 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
-      "a1dbe06c87efa377dc49065884f3ef79f2466835fc9197e001b53c6faa67222b",
+      "61cf6b309b514f4094b53ccabb9cd70b5b4534f498082607452b28eb9aa1614c",
+      "d822934e2dd6289d02213ae61c1f806ab6bf8726110a7f7aab778addc161d620",
       "005e9bbcb5249cef48f139653d6b9cfca844f71bf23ee2268e1ceba4cdd1def9",
       "2a7b1aeee15529a29d50bef2ddb7c7e393c1e33c28212d0cd75e8c09628037b2",
       "9e750c18ecea5b57bc7f788216676407f1d0f5829da5764f431a0759bbb02269",
@@ -58,7 +59,7 @@
       "0fb50f68bae873e25737bf84a4763f17bc268f5cb2d1206de955036e14f1f837",
       "53d11a93791ef528a4afa44ef140df1047d140b8dc43207806b7c96e03028a60",
       "f64154c320cd179a85da343cbd9d0ef79928cafcec1ccd3c5ce3d5a1681e38ce",
-      "a96643fb16b7b04c1e9a3d123beeb3edf2da24fa3f58d37b314cf90bc3c21933",
+      "d482a8fa2b5e3f594bfe3dc1b328bfe5e7daea949959094e7be472b36b7ddc88",
       "f6d0ff32b347209c33dd974c50ea67a6ebeb6f0dc21bc1f5943b691b692ce946",
       "37dc5c44dc770be4386b069c0352d319d32d0298431a5c9624b92543b351d5cc",
       "5d9e75d5fe35dbac54e85c72f902914ef958ac06f1aded81742a56a7cc267ea8",
@@ -390,16 +391,40 @@
       "fa2bb49857ac26cb533ae14a4cc21fb8c9bcedab808a46832dcf8b31ade00a18",
       "4aec524162783153bd9de6fc8aaf28b4b45a60c3433caa62e6442f020af99d44"
     ],
-    "paragraph_count": 388
+    "paragraph_count": 389
   },
-  "overview_commit": "cc53b547aa22fea6cfbb9c99b5c38766bc4086e4",
-  "overview_digest": "e6885013dbe512d9bc8185b203b43afdd7a25fd1593838052fb432a2f144bcbf",
+  "overview_commit": "c8f884784545fd70f854aebe7d47e554d7420ebb",
+  "overview_digest": "76e4e84d85f888597c67667d8eae4acb070f5dbd2b320453bc61d0c8a03c2b40",
   "paragraphs": [
     {
-      "id": "a1dbe06c87efa377dc49065884f3ef79f2466835fc9197e001b53c6faa67222b",
+      "id": "61cf6b309b514f4094b53ccabb9cd70b5b4534f498082607452b28eb9aa1614c",
       "primary_topic": "governance-and-institutions",
       "secondary_topics": [],
-      "text": "The latest addition is [[zizhi-tongjian-hanji-778-lishi-jiemi-quanli-zhongxin-de-nvren-you-shenme-tedian-lhpn8auulbgpqehsk71hzssrgagp|《资治通鉴·汉纪》778丨历史揭秘：权力中心的女人有什么特点？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the first 106 CE layer of [[EmpressDowagerDengLateHan|和熹邓皇后]]'s regency before [[zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6|Hanji 779]]. It adds [[FemalePowerCenterPoliticalCapacity|权力中心女性政治能力]], while extending [[EmperorShangOfHan|汉殇帝]], [[EmperorAnOfHan|汉安帝]], [[DengZhiLateHan|邓骘]], [[DengFamilyAnEraLateHan|邓氏]], [[LiangJinLateHan|梁慬]], [[DuanXiLateHan|段禧]], [[RegencyUnderCompoundCrisis|复合危机下的摄政]], and [[EmpressDowagerDengLateHan|和熹邓皇后]]. Its core synthesis is that Deng's regency begins as a test of calm political capacity under uncertainty: she staffs the court through Zhang Yu and Xu Fang, keeps Liu Hu near the capital as succession reserve, relies on Deng kin while warning against shielding them, cuts palace costs, demands more truthful disaster reporting, and faces the Qiuci/Western Regions crisis before the later Qiang, fiscal, and coup layers become dominant. No settled contradiction is recorded; Zhang Yu, Xu Fang, Geng Ji, Liu Qing, exact household figures, and some Western Regions minor names remain source-scoped.",
+      "text": "The latest addition is [[zizhi-tongjian-hanji-777-bi-jian-wuzetian-nianya-cixi-zhege-nvren-liaobude-lk7j4qv-sqfopzbii6rc-ivbuxs|《资治通鉴·汉纪》777丨比肩武则天，碾压慈禧，这个女人了不得！]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the accession threshold before [[zizhi-tongjian-hanji-778-lishi-jiemi-quanli-zhongxin-de-nvren-you-shenme-tedian-lhpn8auulbgpqehsk71hzssrgagp|Hanji 778]]. It adds [[EmperorHeOfHan|汉和帝]] and [[PalaceAccusationVerification|宫廷指控核验]], while extending [[EmpressDowagerDengLateHan|和熹邓皇后]], [[EmperorShangOfHan|汉殇帝]], [[WangHuanLateHan|王涣]], [[RegencyUnderCompoundCrisis|复合危机下的摄政]], [[FemalePowerCenterPoliticalCapacity|权力中心女性政治能力]], and [[HumaneLocalGovernance|仁厚地方治理]]. Its core synthesis is that Deng's regency begins with succession triage and verification discipline: after Emperor He dies she installs the infant Liu Long, avoids dragnet palace interrogation in a jewel theft, rechecks Ji Cheng's apparently clear wugu case, keeps Northern Xiongnu contact cautious, and recognizes Wang Huan's strict-but-compassionate Luoyang governance. No settled contradiction is recorded; Liu Sheng, Ji Cheng, Wang Shi, the Northern Xiongnu envoy/prince, and exact palace-case procedure remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 3,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "EmperorHeOfHan",
+        "EmperorShangOfHan",
+        "EmpressDowagerDengLateHan",
+        "FemalePowerCenterPoliticalCapacity",
+        "HumaneLocalGovernance",
+        "PalaceAccusationVerification",
+        "RegencyUnderCompoundCrisis",
+        "RuiqiJiangtouZizhiTongjian",
+        "WangHuanLateHan",
+        "zizhi-tongjian-hanji-777-bi-jian-wuzetian-nianya-cixi-zhege-nvren-liaobude-lk7j4qv-sqfopzbii6rc-ivbuxs",
+        "zizhi-tongjian-hanji-778-lishi-jiemi-quanli-zhongxin-de-nvren-you-shenme-tedian-lhpn8auulbgpqehsk71hzssrgagp"
+      ]
+    },
+    {
+      "id": "d822934e2dd6289d02213ae61c1f806ab6bf8726110a7f7aab778addc161d620",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-778-lishi-jiemi-quanli-zhongxin-de-nvren-you-shenme-tedian-lhpn8auulbgpqehsk71hzssrgagp|《资治通鉴·汉纪》778丨历史揭秘：权力中心的女人有什么特点？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the following 106 CE institutional layer after [[zizhi-tongjian-hanji-777-bi-jian-wuzetian-nianya-cixi-zhege-nvren-liaobude-lk7j4qv-sqfopzbii6rc-ivbuxs|Hanji 777]] and before [[zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6|Hanji 779]]. It adds [[FemalePowerCenterPoliticalCapacity|权力中心女性政治能力]], while extending [[EmperorShangOfHan|汉殇帝]], [[EmperorAnOfHan|汉安帝]], [[DengZhiLateHan|邓骘]], [[DengFamilyAnEraLateHan|邓氏]], [[LiangJinLateHan|梁慬]], [[DuanXiLateHan|段禧]], [[RegencyUnderCompoundCrisis|复合危机下的摄政]], and [[EmpressDowagerDengLateHan|和熹邓皇后]]. Its core synthesis is that Deng's regency continues as a test of calm political capacity under uncertainty: she staffs the court through Zhang Yu and Xu Fang, keeps Liu Hu near the capital as succession reserve, relies on Deng kin while warning against shielding them, cuts palace costs, demands more truthful disaster reporting, and faces the Qiuci/Western Regions crisis before the later Qiang, fiscal, and coup layers become dominant. No settled contradiction is recorded; Zhang Yu, Xu Fang, Geng Ji, Liu Qing, exact household figures, and some Western Regions minor names remain source-scoped.",
       "topic_scores": {
         "governance-and-institutions": 2,
         "history-and-geopolitics": 1,
@@ -416,6 +441,7 @@
         "LiangJinLateHan",
         "RegencyUnderCompoundCrisis",
         "RuiqiJiangtouZizhiTongjian",
+        "zizhi-tongjian-hanji-777-bi-jian-wuzetian-nianya-cixi-zhege-nvren-liaobude-lk7j4qv-sqfopzbii6rc-ivbuxs",
         "zizhi-tongjian-hanji-778-lishi-jiemi-quanli-zhongxin-de-nvren-you-shenme-tedian-lhpn8auulbgpqehsk71hzssrgagp",
         "zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6"
       ]
@@ -2095,10 +2121,10 @@
       ]
     },
     {
-      "id": "a96643fb16b7b04c1e9a3d123beeb3edf2da24fa3f58d37b314cf90bc3c21933",
+      "id": "d482a8fa2b5e3f594bfe3dc1b328bfe5e7daea949959094e7be472b36b7ddc88",
       "primary_topic": "work-education-and-society",
       "secondary_topics": [],
-      "text": "The latest addition is [[zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq|《资治通鉴·汉纪》862丨他因一句话休妻，最终身败名裂]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 164 CE reputation and local-governance layer before [[zizhi-tongjian-hanji-863-yi-ba-huo-shaochu-de-zhandouli-ljpfmj8pphunruioce64ywjk7yhb|Hanji 863]]. It adds [[HuangYunLateHan|黄允]], [[JinWenjingLateHan|晋文经]], [[FuRongLateHan|符融]], [[QiuXiangLateHan|仇香]], [[ChenYuanLateHan|陈元]], [[WangHuanLateHan|王奂]], and [[EmptyReputationRealityGap|空誉违实]], while extending [[GuoTaiLateHan|郭泰]], [[ParentalExpectationShame|父母期望羞耻化]], and [[HumaneLocalGovernance|仁厚地方治理]]. Its core synthesis is that reputation and education both need grounded evidence: Huang Yun and Jin Wenjing show how fame can outrun conduct and distort appointment judgment, while Qiu Xiang shows local moral teaching repairing a family complaint without punitive escalation. No settled contradiction is recorded; transcript forms such as 袁伟, 金文金, 芙蓉, 仇湘, and 王焕 are normalized to received late-Han names.",
+      "text": "The latest addition is [[zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq|《资治通鉴·汉纪》862丨他因一句话休妻，最终身败名裂]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 164 CE reputation and local-governance layer before [[zizhi-tongjian-hanji-863-yi-ba-huo-shaochu-de-zhandouli-ljpfmj8pphunruioce64ywjk7yhb|Hanji 863]]. It adds [[HuangYunLateHan|黄允]], [[JinWenjingLateHan|晋文经]], [[FuRongLateHan|符融]], [[QiuXiangLateHan|仇香]], [[ChenYuanLateHan|陈元]], [[WangHuanLateHan|王涣]], and [[EmptyReputationRealityGap|空誉违实]], while extending [[GuoTaiLateHan|郭泰]], [[ParentalExpectationShame|父母期望羞耻化]], and [[HumaneLocalGovernance|仁厚地方治理]]. Its core synthesis is that reputation and education both need grounded evidence: Huang Yun and Jin Wenjing show how fame can outrun conduct and distort appointment judgment, while Qiu Xiang shows local moral teaching repairing a family complaint without punitive escalation. No settled contradiction is recorded; transcript forms such as 袁伟, 金文金, 芙蓉, 仇湘, and 王焕 are normalized to received late-Han names.",
       "topic_scores": {
         "governance-and-institutions": 1,
         "history-and-geopolitics": 1,

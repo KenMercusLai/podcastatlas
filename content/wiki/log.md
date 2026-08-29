@@ -13617,6 +13617,10 @@ Ingested the 2026-07-07 这病说来话长 episode with 阿汤, Ander, and 邓�
 
 Ran lint without saving a new lint-report.md. Health, identity, deterministic, and graph-aware checks completed; semantic lint was unavailable because LLM_MODEL/provider credentials were not configured.
 
+## [2026-08-30] ingest | 《资治通鉴·汉纪》777丨比肩武则天，碾压慈禧，这个女人了不得！
+
+Ingested the 2026-07-04 芮淇讲透资治通鉴 episode on Emperor He's death, Liu Long/Emperor Shang's infant accession under Empress Dowager Deng, Deng's restrained verification of palace theft and Ji Cheng's wugu accusation, cautious Northern Xiongnu handling, and Wang Huan's Luoyang governance and posthumous public mourning. Created the source note plus `EmperorHeOfHan` and `PalaceAccusationVerification`; updated `EmpressDowagerDengLateHan`, `EmperorShangOfHan`, `WangHuanLateHan`, `HumaneLocalGovernance`, `RegencyUnderCompoundCrisis`, `FemalePowerCenterPoliticalCapacity`, `QiuXiangLateHan`, Hanji 862's source note, `index`, and `overview`. No settled contradiction found; Wang Huan's visible Chinese form was corrected from 王奂 to 王涣, while Liu Sheng, Ji Cheng, Wang Shi, and the Northern Xiongnu envoy/prince remain source-scoped.
+
 ## [2026-08-30] ingest | 一个人、两周、数百美元，如何训出登顶 Hugging Face 的模型 | 对谈研究员逯雨鑫
 
 Ingested the 2026-08-29 42章经 episode with Lu Yuxin on low-cost small-model post-training, SFT, QLoRA, data audit, benchmark iteration, application-company model capability, and local AI privacy/cost tradeoffs. Created the source note plus `LuYuxin`, `LowCostModelPostTraining`, `DataFirstPostTraining`, `SupervisedFineTuning`, `QLoRA`, `ApplicationCompanyModelCapability`, and `LocalAIPrivacyTradeoff`; updated `42Zhangjing`, `ModelPostTrainingBottleneck`, `ModelDistillation`, `LocalAIWorkstation`, `LocalPrivateAI`, `index`, and `overview`. No settled contradiction found; model ranking, benchmark, cost, and local-AI adoption claims remain source-scoped, with the 逯雨鑫/雨昕 spelling variation preserved under `LuYuxin`.
@@ -13728,3 +13732,7 @@ Ingested the 2026-07-04 芮淇讲透资治通鉴 episode on 106 CE Empress Dowag
 ## [2026-08-30] lint | Wiki health check
 
 Ran lint without saving a new lint-report.md. Health, identity, deterministic, and graph-aware checks completed; semantic lint was unavailable because LLM_MODEL/provider credentials were not configured.
+
+## [2026-08-30] lint | Wiki health check
+
+Ran lint after health and identity checks passed. Health scanned 16,053 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-28 with 15,429 nodes while the current lint scan covered 16,053 pages, so bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM and no provider model/key environment variables are configured in this session; a bounded in-session review of the script sample plus orphan and fragile-bridge endpoint pages found no direct contradictions or stale summaries, with depth/schema drift in several legacy concept pages. Report returned in-session; `wiki/lint-report.md` was not saved.

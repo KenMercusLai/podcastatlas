@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5967
+wiki_total_pages: 5968
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -53,6 +53,9 @@ wiki_pages:
   - key: "PalaceAccessMonopoly"
     title: "Palace Access Monopoly / 宫廷接触垄断"
     url: "/wiki/concepts/palaceaccessmonopoly/"
+  - key: "PalaceAccusationVerification"
+    title: "Palace Accusation Verification / 宫廷指控核验"
+    url: "/wiki/concepts/palaceaccusationverification/"
   - key: "PalaceCoupViolenceCascade"
     title: "Palace Coup Violence Cascade / 宫廷政变暴力级联"
     url: "/wiki/concepts/palacecoupviolencecascade/"

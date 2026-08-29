@@ -16303,6 +16303,10 @@
     "title": "汉冲帝 / Emperor Chong of Han",
     "url": "/wiki/entities/emperorchongofhan/"
   },
+  "EmperorHeOfHan": {
+    "title": "汉和帝 / Emperor He of Han",
+    "url": "/wiki/entities/emperorheofhan/"
+  },
   "EmperorHuanOfHan": {
     "title": "汉桓帝 / Emperor Huan of Han",
     "url": "/wiki/entities/emperorhuanofhan/"
@@ -37519,6 +37523,10 @@
     "title": "Palace Access Monopoly / 宫廷接触垄断",
     "url": "/wiki/concepts/palaceaccessmonopoly/"
   },
+  "PalaceAccusationVerification": {
+    "title": "Palace Accusation Verification / 宫廷指控核验",
+    "url": "/wiki/concepts/palaceaccusationverification/"
+  },
   "PalaceConstructionFeeExtraction": {
     "title": "修宫钱转嫁盘剥 / Palace Construction Fee Extraction",
     "url": "/wiki/concepts/palaceconstructionfeeextraction/"
@@ -52644,7 +52652,7 @@
     "url": "/wiki/entities/wanghongjie/"
   },
   "WangHuanLateHan": {
-    "title": "王奂 / Wang Huan (late Han)",
+    "title": "王涣 / Wang Huan (late Han)",
     "url": "/wiki/entities/wanghuanlatehan/"
   },
   "WangHuang": {
@@ -62442,6 +62450,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-777-bi-jian-wuzetian-nianya-cixi-zhege-nvren-liaobude-lk7j4qv-sqfopzbii6rc-ivbuxs": {
+    "title": "《资治通鉴·汉纪》777丨比肩武则天，碾压慈禧，这个女人了不得！",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-777-bi-jian-wuzetian-nianya-cixi-zhege-nvren-liaobude-lk7j4qv-sqfopzbii6rc-ivbuxs/"
   },
   "zizhi-tongjian-hanji-778-lishi-jiemi-quanli-zhongxin-de-nvren-you-shenme-tedian-lhpn8auulbgpqehsk71hzssrgagp": {
     "title": "《资治通鉴·汉纪》778丨历史揭秘：权力中心的女人有什么特点？",

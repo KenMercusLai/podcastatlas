@@ -12,7 +12,8 @@ sources:
   - zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq
   - zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv
   - zizhi-tongjian-hanji-823-bingbuxueren-shou-zeikou-ta-ruhe-zuodao-de-luai1f0nhb-ddajli99dw4bxj9m2
-last_updated: 2026-08-29
+  - zizhi-tongjian-hanji-777-bi-jian-wuzetian-nianya-cixi-zhege-nvren-liaobude-lk7j4qv-sqfopzbii6rc-ivbuxs
+last_updated: 2026-08-30
 knowledge_schema: synthesis-v1
 ---
 
@@ -23,6 +24,8 @@ knowledge_schema: synthesis-v1
 ## Current Synthesis
 
 The concept now includes high-stakes emergency relief, open complaint access, ordinary restraint, trust-backed pacification, and post-surrender livelihood repair. [[zizhi-tongjian-hanji-823-bingbuxueren-shou-zeikou-ta-ruhe-zuodao-de-luai1f0nhb-ddajli99dw4bxj9m2|Hanji 823]] adds two clarifying branches: [[ZhangGangLateHan|张纲]] converts [[ZhangYingGuanglingLateHan|张婴]]'s rebellion into surrender by acknowledging official abuse and arranging land, residence, and office pathways; [[WuYouLateHan|吴祐]] treats 孙性's private levy as a wrong act shaped by filial motive and confession, returning the clothes to the father rather than turning the case into fear.
+
+Hanji 777 adds an earlier [[WangHuanLateHan|Wang Huan]] branch that keeps severity inside the concept rather than outside it. Wang Huan's Luoyang rule is described as strict and able to detect hidden wrongdoing, but also inwardly compassionate; people accept his judgments, mourn his death, credit him with stopping transport robbery, build a shrine, and prompt [[EmpressDowagerDengLateHan|Empress Dowager Deng]] to honor his son. This extends humane governance from active mercy to trusted enforcement whose public effects are concrete.
 
 The older evidence still matters because it prevents the concept from narrowing into one dramatic negotiation. [[zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv|Hanji 822]] adds [[LiGuLateHan|李固]]'s Jingzhou and Taishan cases: Li Gu comforts and pardons thieves, keeps surrender promises, reduces broad troop pressure, and relies on credibility plus selected force. The point is humane authority with teeth, not softness.
 
@@ -38,7 +41,7 @@ Together the synthesis is not leniency as mood. Humane governance is a capacity 
 - Burden reduction and low extraction create public trust that can outlast an official's tenure.
 - Moral instruction and open complaint access can solve disputes before they harden into formal cases or leave subjects without a place to seek fairness.
 - Emergency relief can be a humane-governance act when an official accepts procedural risk to prevent immediate death.
-- Local officials gain authority when they are calm, credible, and willing to diagnose causes before using broad force.
+- Local officials gain authority when they are calm, credible, willing to diagnose causes before using broad force, and strict enough for judgments to be trusted.
 - Humane methods can include concrete livelihood and status settlement after surrender, plus motive-sensitive mercy for repentant minor officials.
 - The pattern is fragile because it depends heavily on official character, appointment fit, superior protection, and whether the settlement is institutionalized.
 
@@ -50,23 +53,26 @@ Together the synthesis is not leniency as mood. Humane governance is a capacity 
 - Emergency survival: [[zizhi-tongjian-hanji-842-shenme-shi-haoguan-ta-wei-baixing-gan-pinming-lj2okcbcvcmrfqrj3d-k1ylqdi2si|Hanji 842]] gives Han Shao's opening of county granaries for displaced hungry households despite procedural objection, while his reputation makes refugees move toward his jurisdiction and thieves avoid it.
 - Dispute-entry mediation: [[zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um|Hanji 854]] gives Liu Ju's Yongqiu method of speaking directly to litigants and persuading them to settle through ritual yielding.
 - Low-extraction administration: [[zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1|Hanji 855]] uses Liu Chong's Kuaiji burden reduction and farewell-token restraint as a local trust case.
+- Trusted strict administration and public mourning: [[zizhi-tongjian-hanji-777-bi-jian-wuzetian-nianya-cixi-zhege-nvren-liaobude-lk7j4qv-sqfopzbii6rc-ivbuxs|Hanji 777]] says Wang Huan's strict Luoyang rule is accepted because it is perceptive and compassionate, then records public mourning, shrine memory, and court recognition.
 - Non-punitive correction: [[zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq|Hanji 862]] shows Qiu Xiang repairing Chen Yuan through trust and teaching rather than immediate punishment; [[zizhi-tongjian-hanji-823-bingbuxueren-shou-zeikou-ta-ruhe-zuodao-de-luai1f0nhb-ddajli99dw4bxj9m2|Hanji 823]] similarly has Wu You correct 孙性 by reading the offense through filial motive and confession.
 - Corrected local severity: [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|Hanji 868]] adds Wang Chang as a case where harsh enforcement against powerful households is redirected toward humane governance.
 - Root-cause repair: [[zizhi-tongjian-hanji-870-gudai-tizhinei-buganle-meiyou-tuilu-lpwbniu9ifpt6cp4ip9czqwsh5xd|Hanji 870]] keeps humane governance tied to Huangfu Gui's diagnosis that official behavior can create the disorders later treated as purely military problems.
 
 ## Counterevidence & Qualifications
 
-Humane local governance is not a universal substitute for force. Hanji 822 shows Li Gu retaining a small capable force while making pardon credible, and Hanji 823 shows Zhang Gang warning Zhang Ying that refusal could bring troops from several provinces. Hanji 842 places Han Shao's relief beside Li Ying's frontier appointment and Duan Jiong's ambush, while Hanji 854 places Liu Ju's dispute mediation beside Duan's Qiang campaign and Zong Zi's bandit suppression. The pattern is also person-dependent and procedurally risky: opening granaries can be lifesaving in one urgent case but cannot be generalized without accountability, urgency, and superior review; Zhang Gang's settlement is later exposed as fragile when Zhang Ying rises again after Zhang Gang's death.
+Humane local governance is not a universal substitute for force. Hanji 822 shows Li Gu retaining a small capable force while making pardon credible, and Hanji 823 shows Zhang Gang warning Zhang Ying that refusal could bring troops from several provinces. Hanji 777 also prevents the concept from equating humane with soft, because Wang Huan is strict even when his rule is remembered as compassionate and trusted. Hanji 842 places Han Shao's relief beside Li Ying's frontier appointment and Duan Jiong's ambush, while Hanji 854 places Liu Ju's dispute mediation beside Duan's Qiang campaign and Zong Zi's bandit suppression. The pattern is also person-dependent and procedurally risky: opening granaries can be lifesaving in one urgent case but cannot be generalized without accountability, urgency, and superior review; Zhang Gang's settlement is later exposed as fragile when Zhang Ying rises again after Zhang Gang's death.
 
 ## What Changed
 
-- Added Hanji 823 as Zhang Gang's Guangling settlement and Wu You's Jiaodong mercy layer.
-- Reframed humane governance to include post-surrender livelihood/status repair and motive-sensitive correction of repentant low-level officials.
+- Added Hanji 777 as Wang Huan's strict-but-compassionate Luoyang governance and public mourning layer.
+- Reframed humane governance to include trusted enforcement and accepted judgments, not only overt mercy.
+- Preserved Hanji 823 as Zhang Gang's Guangling settlement and Wu You's Jiaodong mercy layer.
 - Preserved Hanji 822 as the Li Gu layer linking humane authority to selected coercive capacity.
 - Preserved Hanji 832's open-petition case and Hanji 842's risk-bearing granary relief as core local-governance branches.
 
 ## Related Concepts
 
+- [[WangHuanLateHan|王涣]] - strict Luoyang official whose accepted judgments and posthumous mourning extend humane governance into trusted enforcement.
 - [[RiskBearingReliefGovernance|担责开仓式救民]] - emergency grain release is the high-stakes relief branch of humane local governance.
 - [[ZhangGangLateHan|张纲]] - official whose Guangling settlement adds a rebel-surrender and livelihood-repair branch.
 - [[WuYouLateHan|吴祐]] - official whose Jiaodong handling of 孙性 adds motive-sensitive mercy to the concept.

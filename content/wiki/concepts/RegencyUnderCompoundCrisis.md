@@ -18,16 +18,19 @@ sources:
   - zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa
   - zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6
   - zizhi-tongjian-hanji-778-lishi-jiemi-quanli-zhongxin-de-nvren-you-shenme-tedian-lhpn8auulbgpqehsk71hzssrgagp
+  - zizhi-tongjian-hanji-777-bi-jian-wuzetian-nianya-cixi-zhege-nvren-liaobude-lk7j4qv-sqfopzbii6rc-ivbuxs
 last_updated: 2026-08-30
 ---
 
 ## Definition
 
-Regency Under Compound Crisis / 复合危机下的摄政 is a governance pattern where a regent is judged not by a single succession or family-power question, but by simultaneous child accession, succession reserve, court staffing, education, justice, appointment fit, coup risk, disaster frequency, information quality, omen pressure, frontier abandonment, conscription backlash, war, fiscal stress, rebellion, court legitimacy, family power, institutional accountability mismatch, and power-transfer pressure.
+Regency Under Compound Crisis / 复合危机下的摄政 is a governance pattern where a regent is judged not by a single succession or family-power question, but by simultaneous succession opacity, child accession, palace accusation verification, cautious diplomacy, succession reserve, court staffing, education, justice, appointment fit, coup risk, disaster frequency, information quality, omen pressure, frontier abandonment, conscription backlash, war, fiscal stress, rebellion, court legitimacy, family power, institutional accountability mismatch, and power-transfer pressure.
 
 ## Current Synthesis
 
-Hanji 778 now supplies the opening institutional layer of the Deng-regency picture. [[EmpressDowagerDengLateHan|Empress Dowager Deng]] has to govern for the infant [[EmperorShangOfHan|Emperor Shang]], keep [[EmperorAnOfHan|Liu Hu]] in reserve, appoint Zhang Yu and Xu Fang, rely on [[DengZhiLateHan|Deng Zhi]] and the [[DengFamilyAnEraLateHan|Deng family]], cut palace costs, demand truer disaster reporting, and handle early Western Regions breakdown. This means compound-crisis regency begins before the later war and fiscal collapse, at the point where staffing, information, succession insurance, kin reliance, and public austerity are made under acute uncertainty.
+Hanji 777 now supplies the threshold layer of the Deng-regency picture. [[EmpressDowagerDengLateHan|Empress Dowager Deng]] must act after [[EmperorHeOfHan|Emperor He]] dies, when later-born princes had been secretly raised outside the palace and the visible succession field is fragile. She chooses the infant [[EmperorShangOfHan|Liu Long / Emperor Shang]], becomes regent, checks palace theft without dragnet interrogation, rechecks Ji Cheng's apparently clear wugu accusation, keeps Northern Xiongnu contact cautious, and publicly honors [[WangHuanLateHan|Wang Huan]]'s local governance. This means compound-crisis regency begins before staffing and frontier repair, at the point where succession, legal verification, diplomacy, and public legitimacy are already joined.
+
+Hanji 778 then supplies the opening institutional layer. Deng has to govern for the infant Emperor Shang, keep [[EmperorAnOfHan|Liu Hu]] in reserve, appoint Zhang Yu and Xu Fang, rely on [[DengZhiLateHan|Deng Zhi]] and the [[DengFamilyAnEraLateHan|Deng family]], cut palace costs, demand truer disaster reporting, and handle early Western Regions breakdown. This means compound-crisis regency continues before the later war and fiscal collapse, at the point where staffing, information, succession insurance, kin reliance, and public austerity are made under acute uncertainty.
 
 Hanji 779 adds the next 106-107 CE administrative layer. [[FanZhunLateHan|Fan Zhun]] pushes scholar recruitment and imperial education repair; [[LuGongLateHan|Lu Gong]] corrects judicial timing so farming and capital-case review are not damaged by rigid procedure; and [[RenShangLateHan|Ren Shang]]'s harsh Western Regions governance shows how a wrong appointment can turn inherited frontier leverage into rebellion and withdrawal. This means the compound crisis begins not only with disaster and succession, but with whether the court can choose the right people for education, justice, and frontier offices.
 
@@ -41,16 +44,17 @@ Hanji 788-793 add the mature pressure field. Deng appoints Yu Xu to Wudu and acc
 
 ## Key Claims
 
-- Compound-crisis regency is multi-axis: child succession, succession reserve, court staffing, education, justice, appointment fit, inherited disaster pressure, information quality, coup risk, frontier abandonment, conscription backlash, war, fiscal depletion, family power, omen pressure, institutional authority mismatch, and transfer timing interact rather than appearing in sequence.
-- The earliest layer now includes staffing and information control: Zhang Yu, Xu Fang, Liu Hu, Deng Zhi, austerity, and disaster-reporting correction precede the later Fan Zhun, Lu Gong, and Ren Shang appointment-fit layer.
+- Compound-crisis regency is multi-axis: succession opacity, infant accession, palace accusation verification, cautious diplomacy, succession reserve, court staffing, education, justice, appointment fit, inherited disaster pressure, information quality, coup risk, frontier abandonment, conscription backlash, war, fiscal depletion, family power, omen pressure, institutional authority mismatch, and transfer timing interact rather than appearing in sequence.
+- The earliest layer now begins before staffing: Emperor He's death, hidden-prince succession uncertainty, Deng's infant accession decision, jewel-theft restraint, Ji Cheng wugu-case verification, and Northern Xiongnu caution precede the Zhang Yu, Xu Fang, Liu Hu, Deng Zhi, austerity, and disaster-reporting layer.
 - Succession security remains central because Deng's preparation of Liu Hu, Zhou Zhang's failed coup, and later transfer-power pressure precede the more visible fiscal and frontier layers.
 - Fiscal emergency remains central because rank sale, salary pressure, grain transport, and war logistics appear before later moral and institutional judgments.
 - Austerity and ritual restraint can signal seriousness but cannot by themselves solve revenue collapse, frontier military adaptation, or civilian relocation damage.
-- Capable appointments such as Fan Zhun, Lu Gong, Yu Xu, and selective acceptance of Pang Can or Ban Yong show real state capacity inside the crisis, not simple collapse.
+- Capable appointments and recognitions such as Wang Huan, Fan Zhun, Lu Gong, Yu Xu, and selective acceptance of Pang Can or Ban Yong show real state capacity inside the crisis, not simple collapse.
 - Kin reliance and inner-court access are double-edged: trusted actors supply capacity and succession security, but they also intensify legitimacy risk when authority, patronage, discipline, and accountability separate.
 
 ## Evidence
 
+- Accession, palace verification, cautious diplomacy, and local-official recognition: [[zizhi-tongjian-hanji-777-bi-jian-wuzetian-nianya-cixi-zhege-nvren-liaobude-lk7j4qv-sqfopzbii6rc-ivbuxs|Hanji 777]] combines Emperor He's death, hidden-prince succession opacity, Liu Long's infant accession, Deng's jewel-theft and Ji Cheng wugu-case verification, Northern Xiongnu caution, and Wang Huan's posthumous public reputation.
 - Opening staffing, succession reserve, austerity, and reporting correction: [[zizhi-tongjian-hanji-778-lishi-jiemi-quanli-zhongxin-de-nvren-you-shenme-tedian-lhpn8auulbgpqehsk71hzssrgagp|Hanji 778]] combines Emperor Shang's infant accession, Liu Hu's retention in capital, Zhang Yu and Xu Fang's appointments, Deng Zhi's high command, palace-cost cuts, local disaster-reporting correction, Deng-kin discipline, and early Western Regions breakdown.
 - Education, justice, and appointment fit: [[zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6|Hanji 779]] combines Fan Zhun's education memorial, Lu Gong's judicial-calendar correction, Ren Shang's Western Regions misfit, Liang Jin's rescue, and final withdrawal.
 - Disaster-frontier prelude: [[zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa|Hanji 780]] combines Eastern Han disaster pressure, Western Regions abandonment after Ban Chao, Qiang official-abuse and conscription backlash, amnesty, dismissals, Deng austerity, Zhou Zhang's warning, and Zhongchang Tong's institutional critique.
@@ -63,17 +67,19 @@ Hanji 788-793 add the mature pressure field. Deng appoints Yu Xu to Wudu and acc
 
 ## Counterevidence & Qualifications
 
-The concept should not become a blanket condemnation of regency. Hanji 778-793 preserve meaningful competence: court staffing, succession preparation, education repair, judicial timing reform, austerity, amnesty, disaster-reporting correction, relief, seasonal restraint, appointments, tactical adaptation, prison review, refugee reassurance, kin-discipline notices, and consultation all matter. The stronger claim is narrower: compound crisis makes each successful repair insufficient unless disaster, succession, information, fiscal, frontier, family-power, omen, authority-accountability, and transfer constraints are also managed.
+The concept should not become a blanket condemnation of regency. Hanji 777-793 preserve meaningful competence: succession triage, palace accusation verification, cautious diplomacy, court staffing, succession preparation, education repair, judicial timing reform, austerity, amnesty, disaster-reporting correction, relief, seasonal restraint, appointments, tactical adaptation, prison review, refugee reassurance, kin-discipline notices, and consultation all matter. Hanji 777 is especially positive about Deng's early judgment, but later sources still qualify the regency through frontier, fiscal, kinship, and transfer risks. The stronger claim is narrower: compound crisis makes each successful repair insufficient unless disaster, succession, information, fiscal, frontier, family-power, omen, authority-accountability, and transfer constraints are also managed.
 
 ## What Changed
 
-- Added Hanji 778 as the regency-opening layer for staffing, succession reserve, kin reliance, austerity, information correction, and early Western Regions pressure.
-- Kept Hanji 779 as the following 106-107 CE administrative and appointment-fit layer before the broader Hanji 780 disaster-frontier prelude.
-- Reframed compound crisis as beginning with staffing and information quality as well as personnel fit in education, justice, and frontier governance.
-- Added [[FemalePowerCenterPoliticalCapacity]] as the explicit gendered interpretation frame for Deng's opening-regency competence.
+- Added Hanji 777 as the accession-threshold layer: Emperor He's death, hidden-prince uncertainty, infant accession, palace accusation verification, Northern Xiongnu caution, and Wang Huan's local-governance recognition.
+- Reframed the earliest crisis layer as beginning before staffing and disaster reporting, at the junction of succession, legal verification, diplomacy, and legitimacy.
+- Added [[PalaceAccusationVerification|宫廷指控核验]] and [[HumaneLocalGovernance|仁厚地方治理]] as explicit neighbors to the regency-crisis frame.
+- Kept Hanji 778 and Hanji 779 as the following staffing, information, education, justice, and appointment-fit layers.
+- Preserved [[FemalePowerCenterPoliticalCapacity]] as the gendered interpretation frame for Deng's opening-regency competence.
 
 ## Related Concepts
 
+- [[PalaceAccusationVerification|宫廷指控核验]] - early legal-verification layer inside Deng's accession crisis.
 - [[AppointmentQualityAsStateCapacity]] - appointment fit is now explicit in the earliest regency layer.
 - [[TalentVirtueDistinction]] - personnel-judgment frame used by Hanji 779 to interpret the costs of using the wrong person.
 - [[RankSaleDisasterFinance]] - fiscal emergency tool that appears when compound crisis exhausts ordinary revenue.
@@ -82,6 +88,7 @@ The concept should not become a blanket condemnation of regency. Hanji 778-793 p
 - [[FrontierConscriptionBackfire]] - frontier levy failure that turns one external-support problem into internal rebellion pressure.
 - [[ThreeExcellenciesBlameWithoutAuthority]] - institutional accountability mismatch that compounds regency-era disaster blame.
 - [[CoerciveFrontierRelocationBackfire]] - civilian-protection failure mode created by crisis improvisation.
+- [[HumaneLocalGovernance|仁厚地方治理]] - local-official legitimacy branch visible when Deng honors Wang Huan.
 - [[DisasterOmenCrisisRedirection]] - regency-defense maneuver for converting omen attacks into administrative correction.
 - [[OuterRelativeCourtPower]] - family-power structure that makes regency capacity and legitimacy risk inseparable.
 - [[FemalePowerCenterPoliticalCapacity]] - gendered political-capacity frame that interprets Deng's early regency as calm action under uncertainty rather than an exception to governance norms.
