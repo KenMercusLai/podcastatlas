@@ -61485,6 +61485,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "WeakPositionPacification": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "WeakSignalDetection": [
     {
       "key": "science",

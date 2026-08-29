@@ -13316,3 +13316,11 @@ Ingested the 芮淇讲透资治通鉴 episode on Cao Cao's post-Guandu target se
 ## [2026-08-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-29] ingest | 《资治通鉴·汉纪》1051丨他为何被称作是最有能力的扬州刺史？
+
+Ingested the 2026-08-28 芮淇讲透资治通鉴 episode on Liu Fu's weak-base stabilization of western Yangzhou from Hefei. Created the source note plus `LiuFuLateHan`, `HefeiLateHan`, and `WeakPositionPacification`; updated `YangzhouLateHan`, `index`, and `overview`. No settled contradiction found; the transcript's 劉富/刘富 and 李庶 spellings are preserved as source-specific identity notes while the canonical Yangzhou-inspector/Hefei branch is normalized to Liu Fu/刘馥. Synthesis refresh rendered without global compaction; `python3 -m tools.validate_publish` passed.
+
+## [2026-08-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

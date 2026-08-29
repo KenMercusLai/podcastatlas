@@ -22267,6 +22267,10 @@
     "title": "Hefei Industrial Investment Model / 合肥模式",
     "url": "/wiki/concepts/hefeiindustrialinvestmentmodel/"
   },
+  "HefeiLateHan": {
+    "title": "合肥 / Hefei (late Han)",
+    "url": "/wiki/entities/hefeilatehan/"
+  },
   "HefeiMarquisLateHan": {
     "title": "合肥侯 / Hefei Marquis (late Han)",
     "url": "/wiki/entities/hefeimarquislatehan/"
@@ -29838,6 +29842,10 @@
   "LiuFeiQiKing": {
     "title": "刘肥 / Liu Fei (Qi king)",
     "url": "/wiki/entities/liufeiqiking/"
+  },
+  "LiuFuLateHan": {
+    "title": "刘馥 / Liu Fu (late Han)",
+    "url": "/wiki/entities/liufulatehan/"
   },
   "LiuHeLateHan": {
     "title": "刘和 / Liu He (Late Han)",
@@ -52491,6 +52499,10 @@
     "title": "Weak-Over-Weak Predation / 弱者向更弱者转嫁压迫",
     "url": "/wiki/concepts/weakoverweakpredation/"
   },
+  "WeakPositionPacification": {
+    "title": "弱势名分安抚 / Weak-Position Pacification",
+    "url": "/wiki/concepts/weakpositionpacification/"
+  },
   "WeakSignalDetection": {
     "title": "Weak Signal Detection / 微弱信号探测",
     "url": "/wiki/concepts/weaksignaldetection/"
@@ -61226,6 +61238,10 @@
   "zizhi-tongjian-hanji-1050-cong-caocao-fenxin-xuexi-baogui-de-lingdao-zhihui-lsqg-qaxozjpaxyukrvxbtf-mcse": {
     "title": "《资治通鉴·汉纪》1050丨从曹操焚信学习宝贵的领导智慧",
     "url": "/wiki/sources/zizhi-tongjian-hanji-1050-cong-caocao-fenxin-xuexi-baogui-de-lingdao-zhihui-lsqg-qaxozjpaxyukrvxbtf-mcse/"
+  },
+  "zizhi-tongjian-hanji-1051-ta-weihe-bei-chengzuo-shi-zui-you-nengli-de-yangzhou-cishi-ltquwyzzq-sqibj33bpbu3qyvz2h": {
+    "title": "《资治通鉴·汉纪》1051丨他为何被称作是最有能力的扬州刺史？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-1051-ta-weihe-bei-chengzuo-shi-zui-you-nengli-de-yangzhou-cishi-ltquwyzzq-sqibj33bpbu3qyvz2h/"
   },
   "zizhi-tongjian-hanji-1054-jingtan-caocao-yuanshao-liubei-de-mingyun-zhuanzhe-lmd2yjre-cwdbxky2ht5o0n4g6fk": {
     "title": "《资治通鉴·汉纪》1054丨惊叹！曹操、袁绍、刘备的命运转折",

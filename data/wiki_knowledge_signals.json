@@ -11333,6 +11333,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/heyonglatehan/"
     },
+    "HefeiLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1051丨他为何被称作是最有能力的扬州刺史？ [ltQuwYZZq-Sqibj33BpBu3qyVz2H].md",
+          "key": "zizhi-tongjian-hanji-1051-ta-weihe-bei-chengzuo-shi-zui-you-nengli-de-yangzhou-cishi-ltquwyzzq-sqibj33bpbu3qyvz2h",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1051丨他为何被称作是最有能力的扬州刺史？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1051-ta-weihe-bei-chengzuo-shi-zui-you-nengli-de-yangzhou-cishi-ltquwyzzq-sqibj33bpbu3qyvz2h/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/hefeilatehan/"
+    },
     "HeiligenkreuzAbbey": {
       "episode_count": 1,
       "show_count": 1,
@@ -15958,6 +15974,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/liudulatehan/"
+    },
+    "LiuFuLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1051丨他为何被称作是最有能力的扬州刺史？ [ltQuwYZZq-Sqibj33BpBu3qyVz2H].md",
+          "key": "zizhi-tongjian-hanji-1051-ta-weihe-bei-chengzuo-shi-zui-you-nengli-de-yangzhou-cishi-ltquwyzzq-sqibj33bpbu3qyvz2h",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1051丨他为何被称作是最有能力的扬州刺史？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1051-ta-weihe-bei-chengzuo-shi-zui-you-nengli-de-yangzhou-cishi-ltquwyzzq-sqibj33bpbu3qyvz2h/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/liufulatehan/"
     },
     "LiuJuLateHan": {
       "episode_count": 1,
@@ -27343,6 +27375,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/watersystemcyberresilience/"
     },
+    "WeakPositionPacification": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1051丨他为何被称作是最有能力的扬州刺史？ [ltQuwYZZq-Sqibj33BpBu3qyVz2H].md",
+          "key": "zizhi-tongjian-hanji-1051-ta-weihe-bei-chengzuo-shi-zui-you-nengli-de-yangzhou-cishi-ltquwyzzq-sqibj33bpbu3qyvz2h",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1051丨他为何被称作是最有能力的扬州刺史？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1051-ta-weihe-bei-chengzuo-shi-zui-you-nengli-de-yangzhou-cishi-ltquwyzzq-sqibj33bpbu3qyvz2h/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/weakpositionpacification/"
+    },
     "WeiHuanLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -29437,6 +29485,29 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/yangyuanqunlatehan/"
+    },
+    "YangzhouLateHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》969丨袁氏兄弟内斗，谁能捡漏？ [lsgj6sewO35jPSGFm_kOIvIJtr6r].md",
+          "key": "zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》969丨袁氏兄弟内斗，谁能捡漏？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1051丨他为何被称作是最有能力的扬州刺史？ [ltQuwYZZq-Sqibj33BpBu3qyVz2H].md",
+          "key": "zizhi-tongjian-hanji-1051-ta-weihe-bei-chengzuo-shi-zui-you-nengli-de-yangzhou-cishi-ltquwyzzq-sqibj33bpbu3qyvz2h",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1051丨他为何被称作是最有能力的扬州刺史？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1051-ta-weihe-bei-chengzuo-shi-zui-you-nengli-de-yangzhou-cishi-ltquwyzzq-sqibj33bpbu3qyvz2h/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/yangzhoulatehan/"
     },
     "YanjinBattleLateHan": {
       "episode_count": 1,
