@@ -13142,6 +13142,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/guanjinglatehan/"
     },
+    "GuanTongLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？ [lgqS4-A9QGf21wOEH_pPinW4Z9jg].md",
+          "key": "zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/guantonglatehan/"
+    },
     "GuanYu": {
       "episode_count": 5,
       "show_count": 1,
@@ -13343,6 +13359,71 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/guohonglatehan/"
     },
+    "GuoJia": {
+      "episode_count": 8,
+      "show_count": 1,
+      "source_note_count": 8,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1025丨败于曹操，吕布错在禁酒令？ [ljJT1t2mK77si6re_-WEW_hPl8qZ].md",
+          "key": "zizhi-tongjian-hanji-1025-bai-yu-caocao-lvbu-cuo-zai-jinjiuling-ljjt1t2mk77si6re-wew-hpl8qz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1025丨败于曹操，吕布错在禁酒令？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1025-bai-yu-caocao-lvbu-cuo-zai-jinjiuling-ljjt1t2mk77si6re-wew-hpl8qz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》976丨三国谋士大盘点，谁是你心中的神？ [ljGPbosQ-9XIoWpgaEyossmgSt6x].md",
+          "key": "zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》976丨三国谋士大盘点，谁是你心中的神？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1005丨孙策注定早逝，是性格决定命运？ [lpQnerE2cWcrngggyEzd-BsQAHx4].md",
+          "key": "zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1005丨孙策注定早逝，是性格决定命运？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1006丨郭嘉不满袁绍，为何却能归顺曹操？ [lup_p-Inz1sdlhpnAGgqjP0EAvAr].md",
+          "key": "zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1006丨郭嘉不满袁绍，为何却能归顺曹操？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1009丨刘备投奔曹操，险些狼入虎口？ [llm0DS4krKPTjdtB71hBUsnPZbDc].md",
+          "key": "zizhi-tongjian-hanji-1009-liubei-touben-caocao-xianxie-langru-hukou-llm0ds4krkptjdtb71hbusnpzbdc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1009丨刘备投奔曹操，险些狼入虎口？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1009-liubei-touben-caocao-xianxie-langru-hukou-llm0ds4krkptjdtb71hbusnpzbdc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1014丨曹操的15个老婆，都有谁？ [lv_HyVPRG73k8W8JsPXJosqWMc69].md",
+          "key": "zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1014丨曹操的15个老婆，都有谁？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1015丨三国乱世，为什么袁术敢称帝？ [liM0JEMKWYjCESJ2nvSr3jNdhxFK].md",
+          "key": "zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1015丨三国乱世，为什么袁术敢称帝？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？ [lgqS4-A9QGf21wOEH_pPinW4Z9jg].md",
+          "key": "zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/guojia/"
+    },
     "GuoLiangLiGuStudent": {
       "episode_count": 1,
       "show_count": 1,
@@ -13434,9 +13515,9 @@
       "url": "/wiki/entities/guotailatehan/"
     },
     "GuoTu": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》956丨庸人和智者，究竟差距在哪里？ [lphEE8cJ_7GcMG-CyNpIPHJVaUuF].md",
@@ -13479,9 +13560,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1049丨官渡之战结局揭幕，曹操终于以弱胜强",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？ [lgqS4-A9QGf21wOEH_pPinW4Z9jg].md",
+          "key": "zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-30",
       "url": "/wiki/entities/guotu/"
     },
     "GuoYiLateHan": {
@@ -14387,6 +14475,29 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/honorduelculture/"
+    },
+    "HostageBackedDependencyTrap": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》981丨三国最刚谋士程昱：一句话让曹操叹服 [lhLHlRMf2GVSPwyvjkxG6Kz44FTH].md",
+          "key": "zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》981丨三国最刚谋士程昱：一句话让曹操叹服",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？ [lgqS4-A9QGf21wOEH_pPinW4Z9jg].md",
+          "key": "zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/hostagebackeddependencytrap/"
     },
     "HotelRetailFlywheel": {
       "episode_count": 2,
@@ -17654,9 +17765,9 @@
       "url": "/wiki/entities/lacoste/"
     },
     "LadyWuSunJian": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》982丨扒一扒刘备入徐背后的利益之争 [ljAjdC95XTyLHkn5TeEFz26Yyyz1].md",
@@ -17678,9 +17789,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1052丨三国重臣张纮，竟玩弄曹操于股掌？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1052-sanguo-zhongchen-zhanghong-jing-wannong-caocao-yu-guzhang-ljc3sd7meigo37uy-1fxnkx-psqg/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？ [lgqS4-A9QGf21wOEH_pPinW4Z9jg].md",
+          "key": "zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-08-30",
       "url": "/wiki/entities/ladywusunjian/"
     },
     "Laestrygonians": {
@@ -19945,9 +20063,9 @@
       "url": "/wiki/entities/liuzimingsportsmedicine/"
     },
     "LiyangYellowRiverLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1034丨袁绍的败局，只因不肯听沮授的话？ [loG-Wy2ZVPdJOPbdyexb0IJQmph4].md",
@@ -19955,9 +20073,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1034丨袁绍的败局，只因不肯听沮授的话？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1034-yuanshao-de-baiju-zhi-yin-buken-ting-jushou-de-hua-log-wy2zvpdjopbdyexb0ijqmph4/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？ [lgqS4-A9QGf21wOEH_pPinW4Z9jg].md",
+          "key": "zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-30",
       "url": "/wiki/entities/liyangyellowriverlatehan/"
     },
     "LizWalters": {
@@ -25314,6 +25439,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/prefrontalcortexoverattribution/"
     },
+    "PressureReleaseInfightingStrategy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？ [lgqS4-A9QGf21wOEH_pPinW4Z9jg].md",
+          "key": "zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/pressurereleaseinfightingstrategy/"
+    },
     "PrestigeConstrainedPoliticalProsecution": {
       "episode_count": 2,
       "show_count": 1,
@@ -29742,9 +29883,9 @@
       "url": "/wiki/concepts/successfulaging/"
     },
     "SuccessionAuthorityConsolidation": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1053丨跟着孙权，学习如何整顿集团高管 [lq9hy25XONjZHJ1sFIsvauu3bwMI].md",
@@ -29759,9 +29900,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1052丨三国重臣张纮，竟玩弄曹操于股掌？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1052-sanguo-zhongchen-zhanghong-jing-wannong-caocao-yu-guzhang-ljc3sd7meigo37uy-1fxnkx-psqg/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？ [lgqS4-A9QGf21wOEH_pPinW4Z9jg].md",
+          "key": "zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-08-30",
       "url": "/wiki/concepts/successionauthorityconsolidation/"
     },
     "SuccessionLegitimacyPurge": {
@@ -29814,6 +29962,78 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/successionlegitimacypurge/"
+    },
+    "SuccessionNonDesignationRisk": {
+      "episode_count": 9,
+      "show_count": 1,
+      "source_note_count": 9,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》943丨权势考验人性，背后藏着巨大凶险 [lg7ia5XOK-swdMHml35YV9qQQkvt].md",
+          "key": "zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》943丨权势考验人性，背后藏着巨大凶险",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》127-3｜海外回归一批竹简 揭开胡亥立帝之谜！ [ljA0PaNKCx4uGTYLbXXqKwuAvdnW].md",
+          "key": "zizhi-tongjian-qinji-127-3-haiwai-huigui-yipi-zhujian-jiekai-huhai-lidi-zhi-mi-lja0pankcx4ugtylbxxqkwuavdnw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》127-3｜海外回归一批竹简 揭开胡亥立帝之谜！",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-127-3-haiwai-huigui-yipi-zhujian-jiekai-huhai-lidi-zhi-mi-lja0pankcx4ugtylbxxqkwuavdnw/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》109-2｜春申君被皇帝大舅哥全族灭门 [locmA2pLU7v_vsSSM5DR5FRC3Szw].md",
+          "key": "zizhi-tongjian-qinji-109-2-chunshenjun-bei-huangdi-dajiuge-quanzu-miemen-locma2plu7v-vsssm5dr5frc3szw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》109-2｜春申君被皇帝大舅哥全族灭门",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-109-2-chunshenjun-bei-huangdi-dajiuge-quanzu-miemen-locma2plu7v-vsssm5dr5frc3szw/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》109-1｜历史上最著名的皇帝被“绿”了 [liAWTYwJ4C9n0ZpII_Rxl7cgUzyy].md",
+          "key": "zizhi-tongjian-qinji-109-1-lishishang-zui-zhuming-de-huangdi-bei-lv-le-liawtywj4c9n0zpii-rxl7cguzyy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》109-1｜历史上最著名的皇帝被“绿”了",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-109-1-lishishang-zui-zhuming-de-huangdi-bei-lv-le-liawtywj4c9n0zpii-rxl7cguzyy/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》59丨一朝君王一朝臣 [ljQ_qkUEiX0RNzFEkzuaDIcCE1bH].md",
+          "key": "zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》59丨一朝君王一朝臣",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》04｜豫让 为智瑶复仇 [ln34tYdHa6IQwlRGmW7iUGqFgFik].md",
+          "key": "zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》04｜豫让 为智瑶复仇",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》10丨 以家族单位 有蚂蚁吃大象的精神（2） [lmnqfjmYdYgqNFec6XhZpixRALVI].md",
+          "key": "zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》10丨 以家族单位 有蚂蚁吃大象的精神（2）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》10丨 以家族单位 有蚂蚁吃大象的精神（3） [lmHJ4Le2mWu1yHhL-qmuoQKfMHjf].md",
+          "key": "zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》10丨 以家族单位 有蚂蚁吃大象的精神（3）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？ [lgqS4-A9QGf21wOEH_pPinW4Z9jg].md",
+          "key": "zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/successionnondesignationrisk/"
     },
     "SufferingBasedMoralSubjecthood": {
       "episode_count": 1,
@@ -30121,9 +30341,9 @@
       "url": "/wiki/entities/sunfulatehan/"
     },
     "SunQuan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1028丨小霸王孙策立威，称霸江东！ [lgur-3FmpR55wy3AjI--0Rm38Y7X].md",
@@ -30159,9 +30379,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1052丨三国重臣张纮，竟玩弄曹操于股掌？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1052-sanguo-zhongchen-zhanghong-jing-wannong-caocao-yu-guzhang-ljc3sd7meigo37uy-1fxnkx-psqg/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？ [lgqS4-A9QGf21wOEH_pPinW4Z9jg].md",
+          "key": "zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-08-30",
       "url": "/wiki/entities/sunquan/"
     },
     "SunShengEasternJin": {
@@ -33230,6 +33457,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/wangtiaoligustudent/"
     },
+    "WangXiuLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？ [lgqS4-A9QGf21wOEH_pPinW4Z9jg].md",
+          "key": "zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/wangxiulatehan/"
+    },
     "WangZhongLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -34546,6 +34789,45 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/xieyunlatehan/"
+    },
+    "XinPiLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？ [lgqS4-A9QGf21wOEH_pPinW4Z9jg].md",
+          "key": "zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/xinpilatehan/"
+    },
+    "XinPingLateHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》956丨庸人和智者，究竟差距在哪里？ [lphEE8cJ_7GcMG-CyNpIPHJVaUuF].md",
+          "key": "zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》956丨庸人和智者，究竟差距在哪里？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？ [lgqS4-A9QGf21wOEH_pPinW4Z9jg].md",
+          "key": "zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/xinpinglatehan/"
     },
     "XinyeLateHan": {
       "episode_count": 1,
@@ -36411,6 +36693,59 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/yuanlanglatehan/"
     },
+    "YuanShang": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？ [lgqS4-A9QGf21wOEH_pPinW4Z9jg].md",
+          "key": "zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/yuanshang/"
+    },
+    "YuanTan": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》969丨袁氏兄弟内斗，谁能捡漏？ [lsgj6sewO35jPSGFm_kOIvIJtr6r].md",
+          "key": "zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》969丨袁氏兄弟内斗，谁能捡漏？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1007丨从神童到覆亡：孔融真实面目曝光！ [lkiLjJ4yVl5fHSlRC9gcXuDXXKLT].md",
+          "key": "zizhi-tongjian-hanji-1007-cong-shentong-dao-fuwang-kongrong-zhenshi-mianmu-puguang-lkiljj4yvl5fhslrc9gcxudxxklt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1007丨从神童到覆亡：孔融真实面目曝光！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1007-cong-shentong-dao-fuwang-kongrong-zhenshi-mianmu-puguang-lkiljj4yvl5fhslrc9gcxudxxklt/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1026丨揭秘三国第一猛将吕布的落幕 [lhjf_aguJuIgLqCHUMtFf3tfTxg1].md",
+          "key": "zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1026丨揭秘三国第一猛将吕布的落幕",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？ [lgqS4-A9QGf21wOEH_pPinW4Z9jg].md",
+          "key": "zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/yuantan/"
+    },
     "YuanYinLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -37952,9 +38287,9 @@
       "url": "/wiki/entities/zhouxielatehan/"
     },
     "ZhouYuLateHan": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》905丨富贵如何险中求？ [lklXX5nqUka2MTblLXIvk0a7B-fu].md",
@@ -38004,9 +38339,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1045丨他是江东霸业的开创者，可惜死的太窝囊",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？ [lgqS4-A9QGf21wOEH_pPinW4Z9jg].md",
+          "key": "zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-30",
       "url": "/wiki/entities/zhouyulatehan/"
     },
     "ZhouZhangLateHan": {

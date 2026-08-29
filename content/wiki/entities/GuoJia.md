@@ -1,44 +1,69 @@
 ---
 title: "郭嘉 / Guo Jia"
 type: entity
+knowledge_schema: synthesis-v1
 tags: [person, late-han, strategist, china]
-sources: [zizhi-tongjian-hanji-1025-bai-yu-caocao-lvbu-cuo-zai-jinjiuling-ljjt1t2mk77si6re-wew-hpl8qz, zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x, zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4, zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar, zizhi-tongjian-hanji-1009-liubei-touben-caocao-xianxie-langru-hukou-llm0ds4krkptjdtb71hbusnpzbdc, zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk]
-last_updated: 2026-08-26
+sources:
+  - zizhi-tongjian-hanji-1025-bai-yu-caocao-lvbu-cuo-zai-jinjiuling-ljjt1t2mk77si6re-wew-hpl8qz
+  - zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x
+  - zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4
+  - zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar
+  - zizhi-tongjian-hanji-1009-liubei-touben-caocao-xianxie-langru-hukou-llm0ds4krkptjdtb71hbusnpzbdc
+  - zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69
+  - zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk
+  - zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg
+last_updated: 2026-08-30
 ---
 
 # 郭嘉 / Guo Jia
 
-[[zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x|Hanji 976]] places Guo Jia inside Cao Cao's adviser "cloud platform" before the later detailed entry and sequencing episodes. In this source, [[XunYu|荀彧]] provides the structural and legitimacy layer while Guo Jia supplies surprising or risk-tolerant strategic judgment.
+## Overview
+郭嘉 / Guo Jia is a [[CaoCao|曹操]] strategist whose wiki profile centers on bold condition-reading inside Cao Cao's adviser system. The bounded evidence now runs from his rejection of [[YuanShao|袁绍]] and entry through [[XunYu|荀彧]]'s recommendation to reputation-sensitive Liu Bei advice, Xiapi siege timing, target sequencing, and the post-Guandu pressure-release reading of the Yuan-family split.
 
-The episode uses Guo Jia less as an independent biography than as proof that [[CaoCao|曹操]]'s strength is systemic. A durable adviser system can contain different styles at once, which makes Guo Jia part of [[AdviserStateArchitecture|谋士政权架构]] as well as the later [[TalentAsStateTreasure|以贤臣为宝]] and [[XingshiqingStrategicAssessment|行势情战略评估]] branches.
+## Current Profile
+The earlier sources place Guo Jia inside [[AdviserStateArchitecture|谋士政权架构]] rather than treating him as a solitary genius. Hanji 976, Hanji 1005, and Hanji 1006 show him as an Yingchuan-linked adviser recommended by Xun Yu, dissatisfied with Yuan Shao's poor personnel use and weak priority judgment, and welcomed by Cao Cao as a fit for military-strategic counsel. Hanji 1006 also contrasts him with [[XunYou|荀攸]]: Guo Jia supplies risk-tolerant and unconventional prediction, while Xun You represents cautious secrecy.
 
-[[zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4|Hanji 1005]] previews Guo Jia's arrival in [[CaoCao|曹操]]'s adviser system through [[XunYu|荀彧]]'s recommendation. The transcript appears to render his name as "过家"; the wiki normalizes cautiously to Guo Jia because the source places him as an Yingchuan adviser whom Cao Cao joyfully receives and makes military adviser, matching the following Hanji 1006 branch.
+Hanji 1009, Hanji 1014, Hanji 1015, and Hanji 1025 define his strategic style in action. He tells Cao Cao not to kill [[LiuBei|刘备]] because talent-market reputation is worth protecting, participates with Xun Yu in the [[TenVictoriesTenDefeats|十胜十败论]] comparison against Yuan Shao, advises removing [[LyuBu|吕布]] before Yuan Shao can intervene, and at [[Xiapi|下邳]] supports continued siege pressure before Lü Bu's side can recover.
 
-[[zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar|Hanji 1006]] then develops Guo Jia's entry into Cao Cao's camp. The episode says Guo Jia spends only a short time with [[YuanShao|袁绍]] before deciding that Yuan Shao's hospitality and family prestige cannot overcome poor personnel use, weak priority judgment, and hesitation. After discussing the wider field with Cao Cao, both sides recognize a fit, and Cao Cao recommends him as 司空祭酒.
+Hanji 1058 adds a later post-[[GuanduCampaign|官渡]] application of the same style. After Cao Cao pressures the Yuan heirs around [[LiyangYellowRiverLateHan|黎阳]] and [[YeLateHan|邺城]], Guo Jia advises against rushing Ye. He reads Yuan Shao's failure to designate a clear successor, plus comparable backing for [[YuanTan|袁谭]] and [[YuanShang|袁尚]], as a fault line: external pressure will make the brothers cooperate, but relaxed pressure will let them fight. Cao Cao's withdrawal toward Xu and movement against [[LiuBiao|刘表]] therefore become an instance of [[PressureReleaseInfightingStrategy|撤压诱发内斗]].
 
-The same source contrasts Guo Jia with [[XunYou|荀攸]]. Guo Jia is the bold, risk-tolerant adviser whose value lies in unconventional prediction and strategic pressure, while Xun You represents cautious secrecy and survival. That pairing makes Guo Jia part of Cao Cao's wider talent system rather than a lone brilliant exception.
+## Key Characteristics
+- Cao adviser whose value is defined by systemic fit, not merely personal cleverness.
+- Former Yuan Shao observer who judges elite hospitality insufficient without decisive personnel use and priority discipline.
+- Bold strategist contrasted with Xun You's secrecy and caution.
+- Reputation-sensitive counselor who protects Cao Cao's broader recruitment promise when Liu Bei is vulnerable.
+- Sequencing adviser who links target choice to flank risk, enemy distraction, and timing.
+- Siege-tempo adviser who presses Cao Cao not to withdraw from Xiapi before Lü Bu's command recovers.
+- Pressure-release strategist who predicts that Yuan Tan and Yuan Shang will fracture when Cao Cao stops forcing them to cooperate.
 
-[[zizhi-tongjian-hanji-1009-liubei-touben-caocao-xianxie-langru-hukou-llm0ds4krkptjdtb71hbusnpzbdc|Hanji 1009]] later adds Guo Jia as the adviser who tells Cao Cao not to kill [[LiuBei|刘备]] after Liu Bei flees [[LyuBu|吕布]]. Guo Jia does not deny that Liu Bei may become dangerous; he argues that killing a desperate guest would make other capable people doubt Cao Cao's recruitment promise.
+## Evidence
+- Adviser-system placement: [[zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x|Hanji 976]] and [[zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4|Hanji 1005]] place Guo Jia in Cao Cao's adviser platform through Xun Yu's recommendation.
+- Rejection of Yuan Shao: [[zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar|Hanji 1006]] says Guo Jia leaves Yuan Shao after judging that Yuan's camp cannot use people or set priorities well.
+- Adviser-style contrast: [[zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar|Hanji 1006]] contrasts Guo Jia's bold prediction with Xun You's careful secrecy.
+- Reputation protection: [[zizhi-tongjian-hanji-1009-liubei-touben-caocao-xianxie-langru-hukou-llm0ds4krkptjdtb71hbusnpzbdc|Hanji 1009]] has Guo Jia advise Cao Cao not to kill Liu Bei because it would damage Cao Cao's reputation for receiving desperate heroes.
+- Leadership comparison and target order: [[zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69|Hanji 1014]] and [[zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk|Hanji 1015]] connect Guo Jia to the ten-victories frame and to the advice to eliminate Lü Bu while Yuan Shao is occupied with [[GongsunZan|公孙瓒]].
+- Xiapi pressure timing: [[zizhi-tongjian-hanji-1025-bai-yu-caocao-lvbu-cuo-zai-jinjiuling-ljjt1t2mk77si6re-wew-hpl8qz|Hanji 1025]] pairs Guo Jia with Xun You in urging Cao Cao to continue the Xiapi siege before Lü Bu and [[ChenGongLateHan|陈宫]] regain coherence.
+- Pressure-release strategy: [[zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg|Hanji 1058]] has Guo Jia predict that Yuan Tan and Yuan Shang will fight once Cao Cao relaxes pressure created by the Liyang-Ye campaign.
 
-That advice creates [[ReputationConstrainedTalentProtection|名声约束下的人才保护]]. Guo Jia treats Cao Cao's reputation for receiving heroes as a strategic asset: preserving it matters more than eliminating one possible future rival in a way that would frighten the wider talent market.
+## Qualifications
+Guo Jia's profile remains bounded to selected strategy scenes rather than a complete biography. The sources favor Cao Cao's adviser system, so praise for Guo Jia should be kept attached to the specific decisions recorded here. Hanji 1058 shows the Yuan-family split validating his diagnosis, but it does not prove that Cao Cao's withdrawal was the only cause of the conflict.
 
-[[zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk|Hanji 1015]] later develops Guo Jia as one of Cao Cao's advisers after the broader victory-and-defeat assessment. His concrete advice is sequential: because [[YuanShao|袁绍]] is busy attacking [[GongsunZan|公孙瓒]] in the north, Cao Cao should turn east and deal with Lü Bu before facing Yuan Shao.
+## What Changed
+- Migrated the page to synthesis-v1 while preserving the original source order.
+- Added Hanji 1058's post-Guandu Yuan-family analysis as Guo Jia's pressure-release strategy.
+- Connected Guo Jia's new role to Yuan Shao's non-designation, Yuan Tan-Yuan Shang rivalry, and Cao Cao's timing choice.
 
-Hanji 1014 supplies that broader assessment in the source's Zizhi Tongjian frame. Guo Jia appears with [[XunYu|荀彧]] in the [[TenVictoriesTenDefeats|十胜十败论]] answer to Cao Cao's worry about Yuan Shao, helping turn a weaker material position into a confidence-building comparison of leadership systems.
-
-The source uses Guo Jia less as a biography than as a strategic-order node. His warning is that a later Yuan Shao attack becomes much more dangerous if Lü Bu remains beside Cao Cao and can join the northern pressure. In this sense, Guo Jia's advice belongs to [[XingshiqingStrategicAssessment|行势情战略评估]]: the right target depends on timing, flank risk, and what other actors are currently unable to do.
-
-[[zizhi-tongjian-hanji-1025-bai-yu-caocao-lvbu-cuo-zai-jinjiuling-ljjt1t2mk77si6re-wew-hpl8qz|Hanji 1025]] develops that sequencing into a siege-tempo judgment at [[Xiapi|下邳]]. When [[CaoCao|曹操]] considers withdrawing, Guo Jia and [[XunYou|荀攸]] argue that [[LyuBu|吕布]]'s courage lacks strategy, morale has fallen after repeated defeats, and [[ChenGongLateHan|陈宫]] has not yet settled a plan. Guo Jia's role here is not only target selection but pressure timing: keep the siege active before the enemy command can recover.
-
-## Connections
-- [[CaoCao|曹操]] - ruler who recruits him in Hanji 1006 and receives his later advice.
-- [[zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x|Hanji 976]], [[XunYu|荀彧]], [[ChengYu|程昱]], and [[AdviserStateArchitecture|谋士政权架构]] - adviser-platform branch.
-- [[YuanShao|袁绍]] - earlier host whom Guo Jia rejects as unable to use people.
-- [[XunYou|荀攸]] - contrasting adviser style in Hanji 1006.
-- [[zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4|Hanji 1005]], [[XunYu|荀彧]], and [[Xudu|许都]] - recommendation and transcript-normalization branch.
-- [[LiuBei|刘备]], [[LyuBu|吕布]], and [[ReputationConstrainedTalentProtection|名声约束下的人才保护]] - Hanji 1009 shelter-and-reputation branch.
-- [[XunYu|荀彧]] - adviser paired with him in the Hanji 1014 comparison and agreeing with the Hanji 1015 sequencing.
-- [[TenVictoriesTenDefeats|十胜十败论]] - leadership-comparison frame attributed to him and Xun Yu in Hanji 1014.
-- [[LyuBu|吕布]], [[YuanShao|袁绍]], and [[GongsunZan|公孙瓒]] - actors whose positions define the timing problem.
-- [[XingshiqingStrategicAssessment|行势情战略评估]] - strategic frame for the episode's sequencing.
-- [[zizhi-tongjian-hanji-1025-bai-yu-caocao-lvbu-cuo-zai-jinjiuling-ljjt1t2mk77si6re-wew-hpl8qz|Hanji 1025]], [[XunYou|荀攸]], [[Xiapi|下邳]], [[ChenGongLateHan|陈宫]], and [[WarCostTempoDiscipline|战争成本与速决纪律]] - advice to press the siege before Lü Bu's side recovers.
+## Relationships
+- [[CaoCao|曹操]] - ruler who recruits Guo Jia and repeatedly receives his strategic advice.
+- [[XunYu|荀彧]] - recommender and adviser-system counterpart.
+- [[XunYou|荀攸]] - contrasting adviser style and Xiapi co-adviser.
+- [[YuanShao|袁绍]] - rejected patron and later strategic opponent whose succession failure becomes exploitable.
+- [[YuanTan|袁谭]] - Yuan heir whose rivalry with Yuan Shang validates Guo Jia's reading.
+- [[YuanShang|袁尚]] - Yuan heir whose conflict with Yuan Tan is predicted by Guo Jia.
+- [[LiuBei|刘备]] - protected guest in Guo Jia's reputation-constrained advice.
+- [[LyuBu|吕布]] - target whose removal Guo Jia prioritizes before Yuan Shao can intervene.
+- [[LiuBiao|刘表]] - southern target used in Hanji 1058 as Cao Cao relaxes pressure on the Yuan heirs.
+- [[LiyangYellowRiverLateHan|黎阳]] - campaign point before Guo Jia's pressure-release advice.
+- [[PressureReleaseInfightingStrategy|撤压诱发内斗]] - concept abstracted from Guo Jia's Hanji 1058 recommendation.
+- [[SuccessionNonDesignationRisk|未定继承人风险]] - succession fracture Guo Jia exploits in the Yuan-family case.
+- [[XingshiqingStrategicAssessment|行势情战略评估]] - broader strategic frame for Guo Jia's sequencing and pressure judgments.

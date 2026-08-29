@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5977
+wiki_total_pages: 5978
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1598,6 +1598,9 @@ wiki_pages:
   - key: "PuzzleSnackMystery"
     title: "推理薯片 / Puzzle-Snack Mystery"
     url: "/wiki/concepts/puzzlesnackmystery/"
+  - key: "PressureReleaseInfightingStrategy"
+    title: "撤压诱发内斗 / Pressure-Release Infighting Strategy"
+    url: "/wiki/concepts/pressurereleaseinfightingstrategy/"
   - key: "PeiCountyUprisingMobilization"
     title: "沛县起义动员 / Pei County Uprising Mobilization"
     url: "/wiki/concepts/peicountyuprisingmobilization/"

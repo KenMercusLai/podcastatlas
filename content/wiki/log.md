@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-30] ingest | 《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？
+
+Ingested the 2026-08-29 芮淇讲透资治通鉴 episode on Sun Quan refusing Cao Cao's hostage demand through Zhou Yu's analysis and Lady Wu's endorsement, plus Guo Jia's advice to relax pressure so the Yuan Tan-Yuan Shang split emerges after Liyang. Created the source note plus Yuan Shang, Wang Xiu, Guan Tong, Xin Pi, and Pressure-Release Infighting Strategy pages; updated Sun Quan, Zhou Yu, Lady Wu, Guo Jia, Yuan Tan, Guo Tu, Xin Ping, Liyang, Hostage-Backed Dependency Trap, Succession Authority Consolidation, Succession Non-Designation Risk, index, and overview. No settled contradiction found; the opening intimacy-psychology segment, Cao Cao mind-reading, Jia Xin, and the 刘询 rebellion notice remain source-scoped.
+
 ## [2026-08-30] ingest | 《资治通鉴·汉纪》789丨善良没有底线，你将一文不值
 
 Ingested the 2026-07-06 芮淇讲透资治通鉴 episode on 116-117 CE Deng-regency Qiang crisis, boundaryless kindness, northwest neglect, forced civilian relocation backfire, Du Jigong's defection, Lin Chang's succession, Sima Jun and Pang Can's Dingxi failure, Ren Shang and Deng Zun's cavalry and assassination operations, Liu Kai's three-year mourning proposal, Yuan Chang and Zhang Jun's court-secret case, Xianbei raids, and Zhang Qiao's Yizhou pacification. Created the source note plus Du Jigong, Lin Chang, Sima Jun, Yuan Chang, Zhang Jun (An-era), and Coercive Frontier Relocation Backfire pages; updated Empress Dowager Deng, Emperor An, Ren Shang, Deng Zun, Pang Can, Liu Kai, Xianling Qiang, Boundaryless Kindness Trap, Official Mourning Duty Conflict, Regency Under Compound Crisis, Strategic Frontier Abandonment, index, and overview. No settled contradiction found; Zhang俊 is kept distinct from the existing 张钧 / Zhang Jun page, and several Qiang names and place forms remain source-bounded pending corroboration.
@@ -13756,6 +13760,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-30] ingest | 《资治通鉴·汉纪》776丨汉史探密：蔡伦是怎样发明“造纸术”的？
 
 Ingested the 2026-07-03 芮淇讲透资治通鉴 episode on 102-105 CE Emperor He, Cai Lun's court-backed paper-making improvement, Deng's literary frugality, Xu Fang's Taixue examination reform, eclipse and southern-tour remonstrance, Tang Qiang's Lingnan fresh-fruit tribute memorial, Northern Xiongnu's covenant request, and Goguryeo's 105 CE Liaodong raid. Created the source note plus `CaiLunLateHan`, `XuFangLateHan`, `TangQiangLateHan`, `GengKuiLateHan`, `CourtDemandDrivenPapermaking`, `PerishableTributeLaborBurden`, and `ClassicalExaminationOrthodoxy`; updated `EmperorHeOfHan`, `EmpressDowagerDengLateHan`, `Taixue`, `GoguryeoLateHan`, and `index`. No settled contradiction found; Cai Lun's title-level invention framing is narrowed to improvement, presentation, and diffusion of fiber paper, while minor office changes, Northern Xiongnu envoy details, and Goguryeo king Gong remain source-scoped.
+
+## [2026-08-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-30] lint | Wiki health check
 

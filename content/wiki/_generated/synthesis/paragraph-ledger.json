@@ -382,6 +382,7 @@
       "082a8129ce267d83fa695011e4d1d9ec611a2911fab24932213544b548f520cf",
       "6dd2244cfd82de8e2076d8e2587203e47d3343702b97f83715d88073f28b3401",
       "aecaaa49da936c98684cec9f1063846b0672b74bc20fcbd62311f6a489f3c810",
+      "c6c6df1754e9d754248222dcf13f82295a54a848651f4fcbadd3aa7ff62601b0",
       "c579b0c3102e48af519244d183c5c41e037740a37bf519bf5b0f4bf5ef849207",
       "56abb716e5b03c8a306adb1a6c6075e7f241a8cf33161741fecbd9f5b886bbb0",
       "c94dbb4bb11fbc67a68689063a003f4343a0087a9f4a369adf5930530cf3dce6",
@@ -393,10 +394,10 @@
       "4aec524162783153bd9de6fc8aaf28b4b45a60c3433caa62e6442f020af99d44",
       "5463cac3a05898616fdcdbe4bbf0fffe113a112bf4093056579dfb7f48e3eca2"
     ],
-    "paragraph_count": 391
+    "paragraph_count": 392
   },
-  "overview_commit": "be7aee2dae9f56f98fc36b959b41a39abfac3e59",
-  "overview_digest": "ef521519fa129980b62bdec6b75681b9d436ba13d75bd26711115e3c143ebfa6",
+  "overview_commit": "a82497e96a5f728702ebb5bdfdeb84da243f12d2",
+  "overview_digest": "3e5a07211f2bee9d1e76077358fc5a9d4459a560722bdb3457eb6b695f773c41",
   "paragraphs": [
     {
       "id": "76439d5a84c3e146cc75ca3dd110deeb51c4dcd3e2e69896481f9ba03f15b1a2",
@@ -11798,6 +11799,40 @@
         "YanPuLateHan",
         "ZhangLuFivePecks",
         "zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o"
+      ]
+    },
+    {
+      "id": "c6c6df1754e9d754248222dcf13f82295a54a848651f4fcbadd3aa7ff62601b0",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [
+        "work-education-and-society",
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg|《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode on Jian'an 7-8 between Jiangdong succession and post-Guandu Yuan-family fragmentation. It adds [[YuanShang|袁尚]], [[WangXiuLateHan|王修]], [[GuanTongLateHan|管统]], [[XinPiLateHan|辛毗]], and [[PressureReleaseInfightingStrategy|撤压诱发内斗]], while extending [[SunQuan|孙权]], [[ZhouYuLateHan|周瑜]], [[LadyWuSunJian|吴夫人]], [[GuoJia|郭嘉]], [[YuanTan|袁谭]], [[GuoTu|郭图]], [[XinPingLateHan|辛评]], [[LiyangYellowRiverLateHan|黎阳]], [[HostageBackedDependencyTrap|家属质押式依附陷阱]], [[SuccessionAuthorityConsolidation|继位权威整合]], and [[SuccessionNonDesignationRisk|未定继承人风险]]. Its core synthesis is that autonomy and fragmentation are pressure-sensitive: Zhou Yu and Lady Wu help Sun Quan preserve Jiangdong autonomy by refusing Cao Cao's hostage-backed demand, while Guo Jia reads Yuan Shao's unsettled succession as a fault line that will reopen once Cao pressure relaxes. No settled contradiction is recorded; the intimacy-psychology opening, Cao Cao mind-reading, Jia Xin, and the 刘询 rebellion notice remain source-scoped.",
+      "topic_scores": {
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "GuanTongLateHan",
+        "GuoJia",
+        "GuoTu",
+        "HostageBackedDependencyTrap",
+        "LadyWuSunJian",
+        "LiyangYellowRiverLateHan",
+        "PressureReleaseInfightingStrategy",
+        "RuiqiJiangtouZizhiTongjian",
+        "SuccessionAuthorityConsolidation",
+        "SuccessionNonDesignationRisk",
+        "SunQuan",
+        "WangXiuLateHan",
+        "XinPiLateHan",
+        "XinPingLateHan",
+        "YuanShang",
+        "YuanTan",
+        "ZhouYuLateHan",
+        "zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg"
       ]
     },
     {

@@ -4,15 +4,15 @@ generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
 last_updated: 2026-08-30
-as_of_overview_commit: c8f884784545fd70f854aebe7d47e554d7420ebb
-input_digest: 5966c088405329f2b490482793064db1fe922a6adb6f670b42e16e83391b6e64
+as_of_overview_commit: a82497e96a5f728702ebb5bdfdeb84da243f12d2
+input_digest: 900fc1aab36b8b5f7112ab5690df0e9fb9eeab1083024b7949e4c4ed55f56ac5
 ---
 
 # Work, Education, and Society
 
 ## Current State
 
-Hanji 785 adds a source-scoped work-and-society bridge: Deng-family mourning withdrawal shows how kinship duty, public reputation, and retained access can turn office exit into status management rather than simple retirement. Hanji 787 adds a source-scoped family-mobility and selection-channel case: Yan Chang's preparation of Yan Ji for palace entry shows private household investment trying to pass through gendered court selection, imperial favor, and regency approval before becoming public status. Hanji 792 adds a source-scoped family and career risk lesson: concentrating every path in one power channel can increase exposure, while separation may look punitive before later conditions make it protective. The Guangzhou Academy of Fine Arts fieldwork episode adds that undergraduate learning can become formative when students observe, interview, and build experience before polished expression, while still facing grades, specialization, technique, employment pressure, and uncertain long-term outcomes. The Jefferson-Hemings material adds a secondary society case: family, labor, and relationship claims need explicit attention to legal power and coercive status. Hanji access, office-boundary, succession, and reputation cases show that education, merit, dignity, and correct claims need usable channels, public witnesses, role boundaries, and hierarchy-aware handling before they become institutional action. VOL.211 and the OCD episode add source-scoped public-health education cases: mechanism and assessment language can orient action, but training, emergency response, exposure practice, and treatment planning stay clinically bounded. Work, education, and society sources converge on a practical pattern: durable capability comes from bounded institutions, active learning, realistic workplace judgment, human feedback loops, social trust, pacing, and environments that let people act under real constraints.
+Hanji 785 adds a source-scoped work-and-society bridge: Deng-family mourning withdrawal shows how kinship duty, public reputation, and retained access can turn office exit into status management rather than simple retirement. Hanji 787 adds a source-scoped family-mobility and selection-channel case: Yan Chang's preparation of Yan Ji for palace entry shows private household investment trying to pass through gendered court selection, imperial favor, and regency approval before becoming public status. Hanji 792 adds a source-scoped family and career risk lesson: concentrating every path in one power channel can increase exposure, while separation may look punitive before later conditions make it protective. The Guangzhou Academy of Fine Arts fieldwork episode adds that undergraduate learning can become formative when students observe, interview, and build experience before polished expression, while still facing grades, specialization, technique, employment pressure, and uncertain long-term outcomes. The Jefferson-Hemings material adds a secondary society case: family, labor, and relationship claims need explicit attention to legal power and coercive status. Hanji access, office-boundary, succession, and reputation cases show that education, merit, dignity, and correct claims need usable channels, public witnesses, role boundaries, and hierarchy-aware handling before they become institutional action. VOL.211 and the OCD episode add source-scoped public-health education cases: mechanism and assessment language can orient action, but training, emergency response, exposure practice, and treatment planning stay clinically bounded. Work, education, and society sources converge on a practical pattern: durable capability comes from bounded institutions, active learning, realistic workplace judgment, human feedback loops, social trust, pacing, and environments that let people act under real constraints. Hanji 1058 adds a historical work-and-society analogy: new authority needs trusted adviser channels and boundaries around status offers, while ignored corrective counsel in Yuan Tan's camp shows how feedback can fail under succession grievance.
 
 ## Cross-source Findings
 
@@ -181,3 +181,15 @@ As a secondary work-and-society input, [[686-jefferson-the-betrayal-of-liberty-p
 
 - The claim is grounded mainly in a single Talk Sanlian source about one Guangzhou Academy of Fine Arts reform, so it should not be generalized to all undergraduate art education.
 - The episode keeps the reform bounded by grading curves, specialization decisions, technical training, employment pressure, and the lack of long-term outcome data.
+
+### Hanji 1058 Authority Boundaries And Corrective Counsel
+
+[[zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg|Hanji 1058]] adds a historical work-and-society analogy: [[SunQuan]] can accept court recognition only by keeping boundaries around family leverage, using [[ZhouYuLateHan]] and [[LadyWuSunJian]] as trusted adviser and household channels. In contrast, [[YuanTan]] receives corrective counsel from [[WangXiuLateHan]] and loyalty from [[GuanTongLateHan]] but still follows grievance-amplifying channels through [[GuoTu]] and [[XinPingLateHan]], showing how institutional feedback can fail under succession rivalry.
+
+**Evidence:** [[zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg]], [[SunQuan]], [[ZhouYuLateHan]], [[LadyWuSunJian]], [[HostageBackedDependencyTrap]], [[SuccessionAuthorityConsolidation]], [[YuanTan]], [[WangXiuLateHan]], [[GuanTongLateHan]], [[GuoTu]], [[XinPingLateHan]], [[YuanShang]], [[CourtFeedbackCollapse]]
+
+**Qualifications:**
+
+- This is a historical analogy and not modern workplace, legal, or organizational advice.
+- Sun Quan and Yuan Tan remain political actors inside late-Han succession pressure, so the claim should stay source-scoped.
+- The source shows feedback failure and status-boundary pressure in selected scenes rather than a full institutional theory.

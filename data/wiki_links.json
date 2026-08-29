@@ -21443,6 +21443,10 @@
     "title": "Guan Jing (Late Han)",
     "url": "/wiki/entities/guanjinglatehan/"
   },
+  "GuanTongLateHan": {
+    "title": "管统 / Guan Tong (late Han)",
+    "url": "/wiki/entities/guantonglatehan/"
+  },
   "GuanXiuChu": {
     "title": "管修 / Guan Xiu (Chu)",
     "url": "/wiki/entities/guanxiuchu/"
@@ -39799,6 +39803,10 @@
     "title": "Presidential System",
     "url": "/wiki/concepts/presidentialsystem/"
   },
+  "PressureReleaseInfightingStrategy": {
+    "title": "撤压诱发内斗 / Pressure-Release Infighting Strategy",
+    "url": "/wiki/concepts/pressurereleaseinfightingstrategy/"
+  },
   "PrestigeBasedCoalitionLeadership": {
     "title": "Prestige-Based Coalition Leadership / 名望型联盟领导",
     "url": "/wiki/concepts/prestigebasedcoalitionleadership/"
@@ -52911,6 +52919,10 @@
     "title": "Wang Xingxing / 王兴兴",
     "url": "/wiki/entities/wangxingxing/"
   },
+  "WangXiuLateHan": {
+    "title": "王修 / Wang Xiu (late Han)",
+    "url": "/wiki/entities/wangxiulatehan/"
+  },
   "WangYangming": {
     "title": "王阳明 / Wang Yangming",
     "url": "/wiki/entities/wangyangming/"
@@ -55035,6 +55047,10 @@
     "title": "Xin dynasty / 新朝",
     "url": "/wiki/entities/xindynasty/"
   },
+  "XinPiLateHan": {
+    "title": "辛毗 / Xin Pi (late Han)",
+    "url": "/wiki/entities/xinpilatehan/"
+  },
   "XinPingLateHan": {
     "title": "辛评 / Xin Ping (late Han)",
     "url": "/wiki/entities/xinpinglatehan/"
@@ -56618,6 +56634,10 @@
   "YuanMing": {
     "title": "Yuan Ming / 袁鸣",
     "url": "/wiki/entities/yuanming/"
+  },
+  "YuanShang": {
+    "title": "袁尚 / Yuan Shang",
+    "url": "/wiki/entities/yuanshang/"
   },
   "YuanShanla": {
     "title": "Yuan Shanla / 袁善辣",
@@ -62170,6 +62190,10 @@
   "zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o": {
     "title": "《资治通鉴·汉纪》1055丨他为表忠心，愿喝用自己儿子熬的肉汤？",
     "url": "/wiki/sources/zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o/"
+  },
+  "zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg": {
+    "title": "《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg/"
   },
   "zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo": {
     "title": "《资治通鉴·汉纪》139｜“他”再次影响“汉朝”",

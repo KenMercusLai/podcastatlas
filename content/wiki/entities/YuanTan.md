@@ -1,25 +1,68 @@
 ---
 title: "袁谭 / Yuan Tan"
 type: entity
+knowledge_schema: synthesis-v1
 tags: [person, late-han, warlord, yuan-family, china]
-sources: [zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r, zizhi-tongjian-hanji-1007-cong-shentong-dao-fuwang-kongrong-zhenshi-mianmu-puguang-lkiljj4yvl5fhslrc9gcxudxxklt, zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1]
-last_updated: 2026-08-26
+sources:
+  - zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r
+  - zizhi-tongjian-hanji-1007-cong-shentong-dao-fuwang-kongrong-zhenshi-mianmu-puguang-lkiljj4yvl5fhslrc9gcxudxxklt
+  - zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1
+  - zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg
+last_updated: 2026-08-30
 ---
 
 # 袁谭 / Yuan Tan
 
-[[zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r|Hanji 969]] adds Yuan Tan before the Kong Rong-Beihai source. He appears as [[YuanShao|袁绍]]'s son and Qingzhou-side appointee fighting [[TianKaiLateHan|田楷]], the [[GongsunZan|公孙瓒]]-side inspector. The episode does not yet develop Yuan Tan's character; it uses him to show how the Yuan Shao-Gongsun Zan rivalry becomes prolonged provincial suffering in [[QingzhouLateHan|青州]].
+## Overview
+袁谭 / Yuan Tan is a [[YuanShao|袁绍]] son whose wiki profile now spans Qingzhou proxy-war expansion, reputation decay after early success, pre-[[GuanduCampaign|官渡]] eastern pressure against [[CaoCao|曹操]], and the post-Yuan Shao succession conflict with [[YuanShang|袁尚]].
 
-[[zizhi-tongjian-hanji-1007-cong-shentong-dao-fuwang-kongrong-zhenshi-mianmu-puguang-lkiljj4yvl5fhslrc9gcxudxxklt|Hanji 1007]] later develops 袁谭 / Yuan Tan as the [[YuanShao|袁绍]]-side actor who attacks [[KongRong|孔融]] in [[BeihaiCommandery|北海郡]]. The source says he first holds little more than the Pingyuan area, then builds reputation by fighting Tian Kai, the Qingzhou appointee aligned with [[GongsunZan|公孙瓒]], and by taking Beihai from Kong Rong.
+## Current Profile
+Hanji 969 and Hanji 1007 introduce Yuan Tan as Yuan Shao's [[QingzhouLateHan|青州]]-side appointee. He fights [[TianKaiLateHan|田楷]], the [[GongsunZan|公孙瓒]]-aligned inspector, and later attacks [[KongRong|孔融]] in [[BeihaiCommandery|北海郡]]. Hanji 1007 says he first holds little more than the Pingyuan area but builds reputation through fighting Tian Kai and taking Beihai; the host then warns that pride, poor companions, and petty counsel damage that reputation.
 
-The episode uses Yuan Tan as a short sequel to the Kong Rong case. His early battlefield success creates visible momentum, but the host says he soon becomes proud, keeps poor company, listens to petty people, and lets indulgence damage the reputation he had just gained. In this source, Yuan Tan is therefore not developed as a full biographical actor; he is a warning that early wins can decay if self-management and adviser quality fail.
+Hanji 1026 makes Yuan Tan part of Cao Cao's pre-Guandu eastern security problem. [[ZhangBaLateHan|张霸]] and Taishan-area troops matter because they can constrain a Qingzhou-side Yuan Tan move toward Cao Cao's rear.
 
-[[zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1|Hanji 1026]] adds Yuan Tan as the Qingzhou-side pressure that gives [[ZhangBaLateHan|张霸]] strategic value to [[CaoCao|曹操]]. The source says Zhang Ba's Taishan-area troops can constrain a Yuan Tan move from [[QingzhouLateHan|青州]] toward Cao Cao's rear, making Yuan Tan part of the pre-[[GuanduCampaign|官渡]] eastern security problem.
+Hanji 1058 changes Yuan Tan from provincial pressure actor into one pole of the Yuan-family succession crisis. After Yuan Shao dies without a clear settlement, [[GuoJia|郭嘉]] predicts that Yuan Tan and Yuan Shang will cooperate only while Cao Cao pressures them. The narrative then shows Yuan Tan asking Yuan Shang for armor to pursue Cao Cao, attacking Yuan Shang after being refused, losing outside Ye, ignoring [[WangXiuLateHan|王修]]'s reconciliation warning, and eventually sending [[XinPiLateHan|辛毗]] to request Cao Cao's aid against his brother.
 
-## Connections
-- [[zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r|Hanji 969]], [[YuanShao|袁绍]], [[TianKaiLateHan|田楷]], [[GongsunZan|公孙瓒]], and [[QingzhouLateHan|青州]] - earlier Qingzhou appointment and proxy-war branch.
-- [[YuanShao|袁绍]] - Yuan family power behind Yuan Tan's Qingzhou role.
-- [[KongRong|孔融]] and [[BeihaiCommandery|北海郡]] - target and location of Yuan Tan's attack.
-- [[GongsunZan|公孙瓒]] - rival camp whose Qingzhou appointee Tian Kai is named in Yuan Tan's early rise.
-- [[zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1|Hanji 1026]], [[ZhangBaLateHan|张霸]], [[CaoCao|曹操]], and [[GuanduCampaign|官渡之战]] - Qingzhou-side pressure that makes the Taishan local-force settlement useful.
-- [[PrestigeCapacityGap|名望能力落差]] and [[XingshiqingStrategicAssessment|行势情战略评估]] - concepts linked to the source's warning about reputation, capacity, and durable judgment.
+## Key Characteristics
+- Yuan Shao son and Qingzhou-side appointee whose early rise is tied to the Yuan Shao-Gongsun Zan rivalry.
+- Builds battlefield reputation through Tian Kai and Beihai operations, then loses moral-political credibility through pride and poor adviser selection.
+- Functions before Guandu as a possible eastern-rear threat to Cao Cao.
+- Post-Yuan Shao claimant whose rivalry with Yuan Shang turns succession ambiguity into civil conflict.
+- Receives corrective loyalty from Wang Xiu and Guan Tong, showing that his camp is not simply empty of good followers.
+- Fails to convert loyal counsel into reconciliation and instead seeks Cao Cao's aid through Xin Pi.
+
+## Evidence
+- Qingzhou appointment and proxy war: [[zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r|Hanji 969]] places Yuan Tan as Yuan Shao's son and Qingzhou-side actor fighting Tian Kai.
+- Early success and reputation decay: [[zizhi-tongjian-hanji-1007-cong-shentong-dao-fuwang-kongrong-zhenshi-mianmu-puguang-lkiljj4yvl5fhslrc9gcxudxxklt|Hanji 1007]] says Yuan Tan grows from the Pingyuan area through fighting Tian Kai and taking Beihai, then becomes proud and keeps poor company.
+- Cao-side security problem: [[zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1|Hanji 1026]] uses Yuan Tan's Qingzhou pressure to explain why Zhang Ba's Taishan force settlement matters to Cao Cao.
+- Succession fault line: [[zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg|Hanji 1058]] has Guo Jia read Yuan Shao's non-designation as a condition that will make Yuan Tan and Yuan Shang fight once Cao Cao relaxes pressure.
+- Fraternal conflict: [[zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg|Hanji 1058]] narrates the armor dispute, Yuan Tan's attack on Yuan Shang, his defeat outside Ye, and later siege at Pingyuan.
+- Ignored loyal counsel: [[zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg|Hanji 1058]] has Wang Xiu urge reconciliation and Guan Tong display costly loyalty, but Yuan Tan still sends Xin Pi to seek Cao Cao's aid.
+
+## Qualifications
+Yuan Tan's page is not a full biography. The sources select him for Qingzhou proxy politics, reputation loss, Cao-side security calculations, and the later succession split. Hanji 1058 shows loyal figures still available to him, so his collapse should not be reduced to total abandonment; the stronger claim is that he cannot turn loyalty and advice into a stable settlement.
+
+## What Changed
+- Migrated the page to synthesis-v1 while preserving the original source order.
+- Added Hanji 1058's post-Yuan Shao succession conflict with Yuan Shang.
+- Added Wang Xiu, Guan Tong, and Xin Pi as distinct Yuan Tan-side evidence for ignored counsel, costly loyalty, and outside-aid dependence.
+
+## Relationships
+- [[YuanShao|袁绍]] - father and power base behind Yuan Tan's Qingzhou appointment and later succession claim.
+- [[YuanShang|袁尚]] - brother and rival after Yuan Shao's unsettled succession.
+- [[TianKaiLateHan|田楷]] - Gongsun Zan-aligned Qingzhou opponent in Yuan Tan's early rise.
+- [[GongsunZan|公孙瓒]] - rival camp whose Qingzhou appointee makes Yuan Tan's role meaningful.
+- [[KongRong|孔融]] - Beihai target whose defeat marks Yuan Tan's early expansion.
+- [[QingzhouLateHan|青州]] - provincial base and later defection-anxiety setting.
+- [[BeihaiCommandery|北海郡]] - location tied to Yuan Tan's attack on Kong Rong and Wang Xiu's arrival.
+- [[ZhangBaLateHan|张霸]] - Cao-side security asset against Yuan Tan's eastern pressure.
+- [[CaoCao|曹操]] - enemy who becomes Yuan Tan's requested outside helper after the fraternal split.
+- [[GuoJia|郭嘉]] - strategist who predicts Yuan Tan will fight Yuan Shang when pressure relaxes.
+- [[GuoTu|郭图]] - adviser who deepens Yuan Tan's resentment in Hanji 1058.
+- [[XinPingLateHan|辛评]] - adviser who helps blame Shen Pei for Yuan Tan's succession disadvantage.
+- [[WangXiuLateHan|王修]] - loyal adviser urging reconciliation with Yuan Shang.
+- [[GuanTongLateHan|管统]] - costly-loyal official in Yuan Tan's camp.
+- [[XinPiLateHan|辛毗]] - envoy sent by Yuan Tan to request Cao Cao's aid.
+- [[SuccessionNonDesignationRisk|未定继承人风险]] - concept explaining why Yuan Tan's claim becomes unstable.
+- [[PressureReleaseInfightingStrategy|撤压诱发内斗]] - strategy that exploits Yuan Tan's rivalry with Yuan Shang.
+- [[CourtFeedbackCollapse|君臣反馈失灵]] - contrast frame for Yuan Tan ignoring corrective counsel.
