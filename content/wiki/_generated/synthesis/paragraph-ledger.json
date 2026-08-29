@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "ade75b50b0091ff998d3e818c8e79170f4b6448365dd83d2e79a67a1683d9616",
       "9bf460c6cf20cf0fda0151569e4bca06649f121f8e70aba8876561e8751d6cb2",
       "d6d0975d88c73cc06e30e1905981dcf71f09061d5988d627ac1ebf0bfce6b65f",
       "23275655c235e7f5ae1bb92e98235cd921b4ab2d135d4306a0671a9b84aa3ccd",
@@ -369,11 +370,40 @@
       "56abb716e5b03c8a306adb1a6c6075e7f241a8cf33161741fecbd9f5b886bbb0",
       "c94dbb4bb11fbc67a68689063a003f4343a0087a9f4a369adf5930530cf3dce6"
     ],
-    "paragraph_count": 367
+    "paragraph_count": 368
   },
-  "overview_commit": "bb8e3ffe5e7d64093208f4aedd7a89c3d11a6600",
-  "overview_digest": "36c807ee216a85e799b6a7d5f2270e4e1abaf7630fd0b8b012b8efbf8c8e33d9",
+  "overview_commit": "18f36ffca5751a6709e6758846af7717e1ceca24",
+  "overview_digest": "5583c648006be540a70983d16f4850b08a8365c806a469312d0a0f331cd474ba",
   "paragraphs": [
+    {
+      "id": "ade75b50b0091ff998d3e818c8e79170f4b6448365dd83d2e79a67a1683d9616",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy|《资治通鉴·汉纪》801丨汉安帝为什么狠心废太子？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 124 CE [[EmperorAnOfHan|汉安帝]] deposition of [[EmperorShunOfHan|刘保]] before [[zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj|Hanji 802]]. It adds [[LaiLiLateHan|来历]], [[ZhangHaoRemonstratorLateHan|张皓]], [[HuanYanLateHan|桓焉]], and [[HeirSupportThreatPerception|储君拥戴威胁感]], while extending [[EmperorAnOfHan|汉安帝]], [[EmperorShunOfHan|汉顺帝]], [[EmpressDowagerYanLateHan|阎太后]], [[FanFengEunuchLateHan|樊丰]], [[GengBaoGrandGeneralLateHan|耿宝]], [[ShiYanLateHan|施延]], [[ZhuChangLateHan|朱伥]], and [[DirectRemonstranceCriminalization|直谏入罪]]. Its core synthesis is that Liu Bao's later exclusion begins before Emperor An's death: palace slander and Fan Feng/Yan Hou's fabricated accusations create the pretext, but official support for the ten-year-old heir makes An read the prince as a future political center, so remonstrance at Hongdu Gate is threatened and Lai Li is punished. No settled contradiction is recorded; the 王胜/王圣 rendering, Wang Nan, Bing Ji, Tuo Feng, Liu Wei, Xue Hao, Lvqiu Hong, Chen Guang, Zhao Dai, Chen Zhong, Wu'an Princess, and minor frontier/disaster notices remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "DirectRemonstranceCriminalization",
+        "EmperorAnOfHan",
+        "EmperorShunOfHan",
+        "EmpressDowagerYanLateHan",
+        "FanFengEunuchLateHan",
+        "GengBaoGrandGeneralLateHan",
+        "HeirSupportThreatPerception",
+        "HuanYanLateHan",
+        "LaiLiLateHan",
+        "RuiqiJiangtouZizhiTongjian",
+        "ShiYanLateHan",
+        "ZhangHaoRemonstratorLateHan",
+        "ZhuChangLateHan",
+        "zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy",
+        "zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj"
+      ]
+    },
     {
       "id": "9bf460c6cf20cf0fda0151569e4bca06649f121f8e70aba8876561e8751d6cb2",
       "primary_topic": "governance-and-institutions",

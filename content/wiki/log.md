@@ -13492,3 +13492,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-29] ingest | 《资治通鉴·汉纪》801丨汉安帝为什么狠心废太子？
+
+Ingested the 2026-07-08 芮淇讲透资治通鉴 episode on 124 CE Emperor An's demotion of crown prince Liu Bao, the Wang Nan and Bing Ji slander chain, Fan Feng and Yan Hou's fabricated accusations, Zhang Hao/Huan Yan/Lai Li's objections, the Hongdu Gate remonstrance, and Emperor An's threat and punishment of Lai Li. Created the source note plus `LaiLiLateHan`, `ZhangHaoRemonstratorLateHan`, `HuanYanLateHan`, and `HeirSupportThreatPerception`; updated `EmperorAnOfHan`, `EmperorShunOfHan`, `EmpressDowagerYanLateHan`, `FanFengEunuchLateHan`, `GengBaoGrandGeneralLateHan`, `ShiYanLateHan`, `ZhuChangLateHan`, `DirectRemonstranceCriminalization`, `index`, and `overview`. No settled contradiction found; 王胜/王圣 rendering, Wang Nan, Bing Ji, Tuo Feng, Liu Wei, Xue Hao, Lvqiu Hong, Chen Guang, Zhao Dai, Chen Zhong, Wu'an Princess, and minor frontier/disaster notices remain source-scoped.
+
+## [2026-08-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

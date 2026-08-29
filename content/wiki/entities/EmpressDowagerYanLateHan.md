@@ -7,16 +7,19 @@ sources:
   - zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew
   - zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s
   - zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj
+  - zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy
 last_updated: 2026-08-29
 ---
 
 ## Overview
 
-阎太后 / Empress Dowager Yan is a late-Han dowager whose current wiki profile now begins before defeat: as Yan Hou, she hides [[EmperorAnOfHan|汉安帝]]'s death on tour, returns to [[LuoyangLateHan|洛阳]], becomes empress dowager, and installs [[LiuYiBeixiangHouLateHan|北乡侯刘懿 / 刘裔]] instead of [[EmperorShunOfHan|刘保]]. Hanji 803 then shows her trying to preserve control after Liu Yi's own death, while Hanji 805 shows the restored Shun court deciding whether to humiliate, isolate, or ritually protect her defeated title.
+阎太后 / Empress Dowager Yan is a late-Han dowager whose current wiki profile now begins before dowager power: as Yan Hou, she helps [[FanFengEunuchLateHan|樊丰]] fabricate accusations against the crown prince [[EmperorShunOfHan|刘保]], then hides [[EmperorAnOfHan|汉安帝]]'s death on tour, returns to [[LuoyangLateHan|洛阳]], becomes empress dowager, and installs [[LiuYiBeixiangHouLateHan|北乡侯刘懿 / 刘裔]] instead of Liu Bao. Hanji 803 then shows her trying to preserve control after Liu Yi's own death, while Hanji 805 shows the restored Shun court deciding whether to humiliate, isolate, or ritually protect her defeated title.
 
 ## Current Profile
 
-[[zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj|Hanji 802]] supplies Yan Taihou's first succession-control layer. When Emperor An dies suddenly near Ye County, Yan Hou fears that officials in Luoyang will back the former crown prince Liu Bao. She works with [[YanXianLateHan|阎显]] and [[FanFengEunuchLateHan|樊丰]] to conceal the death, keep daily food and medicine performances going, return to the palace, announce the death from inside the capital, and take dowager authority.
+[[zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy|Hanji 801]] supplies Yan Hou's pre-dowager succession-intervention layer. After Wang Sheng and Fan Feng help destroy Liu Bao's wet nurse Wang Nan and kitchen supervisor Bing Ji, Fan Feng fears later retaliation because Liu Bao mourns them. Yan Hou then works with Fan Feng to fabricate evidence against Liu Bao and his palace officers, setting up Emperor An's 124 CE deposition of Liu Bao as Jiyin Wang.
+
+[[zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj|Hanji 802]] supplies Yan Taihou's first post-An succession-control layer. When Emperor An dies suddenly near Ye County, Yan Hou fears that officials in Luoyang will back the former crown prince Liu Bao. She works with [[YanXianLateHan|阎显]] and Fan Feng to conceal the death, keep daily food and medicine performances going, return to the palace, announce the death from inside the capital, and take dowager authority.
 
 The same source shows her first regency choice. Yan Taihou and Yan Xian install the young Beixiang Hou so the Yan family can govern behind him. She refuses Liu Bao access to An's coffin and leaves him mourning outside the hall, which gives Liu Bao public sympathy while increasing resentment toward the Yan side. The Yan family then concentrates offices and purges old An-era networks, including [[GengBaoGrandGeneralLateHan|耿宝]], Fan Feng, and [[WangShengPalaceActorLateHan|王圣]].
 
@@ -26,7 +29,7 @@ The same source shows her first regency choice. Yan Taihou and Yan Xian install 
 
 ## Key Characteristics
 
-- Active transition controller before defeat, using death concealment, return timing, palace announcement, and dowager authority after Emperor An's death.
+- Active transition controller before defeat, first using fabricated accusation against Liu Bao and later using death concealment, return timing, palace announcement, and dowager authority after Emperor An's death.
 - Outer-relative regent whose preferred child ruler makes Yan-family behind-the-throne control easier.
 - Public legitimacy liability because excluding Liu Bao from mourning creates sympathy for him and resentment toward her.
 - Repeat death-concealment actor after Beixiang Hou's later death, now trying to preserve succession choice inside the capital.
@@ -36,6 +39,7 @@ The same source shows her first regency choice. Yan Taihou and Yan Xian install 
 
 ## Evidence
 
+- Pre-dowager accusation: [[zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy|Hanji 801]] says Yan Hou and Fan Feng fabricate evidence against Liu Bao and his palace officers before Emperor An deposes him.
 - Emperor An concealment: [[zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj|Hanji 802]] says Yan Hou, Yan Xian, and Fan Feng hide An's death, continue routine appearances, and return to Luoyang before public announcement.
 - Child-ruler choice: [[zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj|Hanji 802]] says Yan Taihou and Yan Xian install the young Beixiang Hou so the Yan family can hold power.
 - Liu Bao exclusion: [[zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj|Hanji 802]] says Liu Bao is not allowed to mourn before An's coffin and cries outside for three days, moving people in Luoyang.
@@ -47,23 +51,25 @@ The same source shows her first regency choice. Yan Taihou and Yan Xian install 
 
 ## Qualifications
 
-This page is bounded to Hanji 802, Hanji 803, and Hanji 805 and does not reconstruct Yan Taihou's earlier life, full regency, private palace conditions, or true cause of death beyond the restoration crisis. Hanji 802 supports her first death-concealment and child-accession move after Emperor An's death; Hanji 803 supports her second concealment after Beixiang Hou's death; Hanji 805 supports Shun's later legitimacy management. The current judgment does not prove the true cause of Yan Taihou's death.
+This page is bounded to Hanji 801, Hanji 802, Hanji 803, and Hanji 805 and does not reconstruct Yan Taihou's earlier life, full regency, private palace conditions, or true cause of death beyond the restoration crisis. Hanji 801 supports her pre-dowager role in fabricated accusation against Liu Bao; Hanji 802 supports her first death-concealment and child-accession move after Emperor An's death; Hanji 803 supports her second concealment after Beixiang Hou's death; Hanji 805 supports Shun's later legitimacy management. The current judgment does not prove the true cause of Yan Taihou's death.
 
 ## What Changed
 
+- Added Hanji 801 as Yan Hou's pre-dowager role in the fabricated-accusation chain that removes Liu Bao from crown-prince status.
 - Added Hanji 802 as Yan Taihou's pre-defeat layer: Emperor An's hidden death, Liu Bao's exclusion, Beixiang Hou's accession, and first Yan-family consolidation.
 - Reframed Hanji 803 as her second concealed-death crisis after Beixiang Hou's own death.
 - Preserved Hanji 805 as the defeated-dowager ritual management and death-account layer.
 
 ## Relationships
 
-- [[EmperorAnOfHan|汉安帝]] - dead ruler whose hidden tour death lets Yan Taihou control the first succession window.
-- [[EmperorShunOfHan|汉顺帝]] - excluded Liu Bao, later restored ruler whose legitimacy could be damaged by mishandling Yan Taihou after victory.
+- [[EmperorAnOfHan|汉安帝]] - ruler whose Liu Bao deposition and later hidden tour death let Yan Hou shape two succession windows.
+- [[EmperorShunOfHan|汉顺帝]] - Liu Bao, first harmed by Yan Hou's accusation chain and later restored ruler whose legitimacy could be damaged by mishandling Yan Taihou after victory.
 - [[LiuYiBeixiangHouLateHan|北乡侯刘懿 / 刘裔]] - young ruler first installed by Yan Taihou and later hidden by her after death.
 - [[YanXianLateHan|阎显]] - Yan-family powerholder who executes the family monopoly strategy around her dowager authority.
-- [[FanFengEunuchLateHan|樊丰]] - initial concealment collaborator later destroyed in the Yan cleanup.
+- [[FanFengEunuchLateHan|樊丰]] - accusation and concealment collaborator later destroyed in the Yan cleanup.
 - [[GengBaoGrandGeneralLateHan|耿宝]] - old high-status powerholder purged after Yan Taihou's first accession settlement.
 - [[DefeatedDowagerLegitimacyManagement|失势太后名分处置]] - concept directly grounded by Yan Taihou's post-purge treatment.
+- [[HeirSupportThreatPerception|储君拥戴威胁感]] - pre-dowager succession-security pattern that helps explain Liu Bao's removal.
 - [[ZhouJuLateHan|周举]] - adviser whose warning redirects the court from isolation toward visible ritual respect.
 - [[SuccessionLegitimacyPurge|继位合法性清洗]] - adjacent purge mechanism around the Yan-backed accession and Shun restoration.
 - [[OuterRelativeCourtPower|外戚专权与清算]] - broader late-Han family-power field behind Yan Taihou's rise and fall.

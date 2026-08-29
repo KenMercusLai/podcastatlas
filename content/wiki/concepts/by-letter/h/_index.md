@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 5929
+wiki_total_pages: 5930
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -152,6 +152,9 @@ wiki_pages:
   - key: "HeirSacrificeAppeasement"
     title: "Heir Sacrifice Appeasement / 杀储求和式保祀"
     url: "/wiki/concepts/heirsacrificeappeasement/"
+  - key: "HeirSupportThreatPerception"
+    title: "Heir Support Threat Perception / 储君拥戴威胁感"
+    url: "/wiki/concepts/heirsupportthreatperception/"
   - key: "HelicopterParenting"
     title: "Helicopter Parenting"
     url: "/wiki/concepts/helicopterparenting/"

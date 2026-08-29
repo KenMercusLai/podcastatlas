@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 8301
+wiki_total_pages: 8304
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -677,6 +677,9 @@ wiki_pages:
   - key: "ZhangLu"
     title: "张璐 / Zhang Lu"
     url: "/wiki/entities/zhanglu/"
+  - key: "ZhangHaoRemonstratorLateHan"
+    title: "张皓 / Zhang Hao (late Han remonstrator)"
+    url: "/wiki/entities/zhanghaoremonstratorlatehan/"
   - key: "ZhangShuoLateHan"
     title: "张硕 / Zhang Shuo (late Han)"
     url: "/wiki/entities/zhangshuolatehan/"

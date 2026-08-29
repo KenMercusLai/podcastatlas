@@ -22439,6 +22439,10 @@
     "title": "Heir Sacrifice Appeasement / 杀储求和式保祀",
     "url": "/wiki/concepts/heirsacrificeappeasement/"
   },
+  "HeirSupportThreatPerception": {
+    "title": "Heir Support Threat Perception / 储君拥戴威胁感",
+    "url": "/wiki/concepts/heirsupportthreatperception/"
+  },
   "HeirloomCarbonTechnologies": {
     "title": "Heirloom Carbon Technologies",
     "url": "/wiki/entities/heirloomcarbontechnologies/"
@@ -23594,6 +23598,10 @@
   "HuanJieLateHan": {
     "title": "桓阶 / Huan Jie (late Han)",
     "url": "/wiki/entities/huanjielatehan/"
+  },
+  "HuanYanLateHan": {
+    "title": "桓焉 / Huan Yan (late Han)",
+    "url": "/wiki/entities/huanyanlatehan/"
   },
   "HuanYiQin": {
     "title": "桓齮 / Huan Yi (Qin)",
@@ -28318,6 +28326,10 @@
   "LaiJingping": {
     "title": "赖靖平 / Lai Jingping",
     "url": "/wiki/entities/laijingping/"
+  },
+  "LaiLiLateHan": {
+    "title": "来历 / Lai Li (late Han)",
+    "url": "/wiki/entities/laililatehan/"
   },
   "LaiXinlu": {
     "title": "Lai Xinlu",
@@ -56619,6 +56631,10 @@
     "title": "章邯 / Zhang Han (Qin)",
     "url": "/wiki/entities/zhanghanqin/"
   },
+  "ZhangHaoRemonstratorLateHan": {
+    "title": "张皓 / Zhang Hao (late Han remonstrator)",
+    "url": "/wiki/entities/zhanghaoremonstratorlatehan/"
+  },
   "ZhangHaoTaiweiLateHan": {
     "title": "张颢 / Zhang Hao (late-Han taiwei)",
     "url": "/wiki/entities/zhanghaotaiweilatehan/"
@@ -61998,6 +62014,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy": {
+    "title": "《资治通鉴·汉纪》801丨汉安帝为什么狠心废太子？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy/"
   },
   "zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj": {
     "title": "《资治通鉴·汉纪》802丨安帝之死！东汉王朝权力大洗牌！",

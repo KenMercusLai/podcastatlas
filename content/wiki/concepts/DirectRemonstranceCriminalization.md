@@ -6,7 +6,8 @@ sources:
   - zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7
   - zizhi-tongjian-hanji-852-dang-meinv-ruyun-shi-fu-haishi-huo-luml30ytbc-awpvk-7-23ehzbqpx
   - zizhi-tongjian-hanji-873-ta-ruhe-liyong-tianxiang-tongma-diwang-lqebkodcbcrsvyf80qwxnobydbhc
-last_updated: 2026-08-28
+  - zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy
+last_updated: 2026-08-29
 knowledge_schema: synthesis-v1
 ---
 
@@ -20,6 +21,8 @@ Hanji 850 defines the pattern through [[LiYunLateHan|李云]] and [[DuZhongLateH
 
 The pattern widens because later speech is also criminalized. Du Zhong's shared-fate memorial, [[ChenFanLateHan|陈蕃]]'s precedent-based clemency plea, other officials' petitions, and [[GuanBaLateHan|管霸]]'s final mitigation attempt all fail to reopen the advice channel. Huan's punishment of intercessors and execution of Li Yun and Du Zhong show feedback collapse becoming exemplary terror: the court learns that loyal criticism and rescue can both become offenses.
 
+An earlier, less lethal variant appears under [[EmperorAnOfHan|汉安帝]] in [[zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy|Hanji 801]]. [[LaiLiLateHan|来历]], [[HuanYanLateHan|桓焉]], [[ZhangHaoRemonstratorLateHan|张皓]], [[ShiYanLateHan|施延]], [[ZhuChangLateHan|朱伥]], and other officials defend ten-year-old [[EmperorShunOfHan|刘保]] against deposition. An's edict recodes the Hongdu Gate remonstrance as noisy hidden motive and threatens punishment; after Lai Li persists, An dismisses Lai Li and his brothers, cuts his fief revenue, and degrades and excludes his mother from palace remonstrance. The case shows that criminalization can begin with threat, office removal, and family pressure before later episodes reach prison death.
+
 ## Key Claims
 
 - Direct remonstrance becomes most dangerous when it shifts from policy correction to the ruler's self-image and hearing capacity.
@@ -27,7 +30,8 @@ The pattern widens because later speech is also criminalized. Du Zhong's shared-
 - Criminalization can widen from the original speaker to solidarity actors and clemency advocates.
 - Historical precedent and loyalty framing can fail when the ruler reads them as pressure or comparison with tyrants.
 - A mitigation strategy that reduces speech to ignorance may still fail if the ruler wants punishment to defend authority.
-- The outcome strengthens the captured court environment by teaching officials that truthful correction can end in prison death.
+- Criminalization can be nonlethal yet coercive, using edicts, dismissal, fief reduction, and family pressure to warn speakers.
+- The outcome strengthens the captured court environment by teaching officials that truthful correction can end in punishment or prison death.
 
 ## Evidence
 
@@ -36,21 +40,26 @@ The pattern widens because later speech is also criminalized. Du Zhong's shared-
 - Solidarity widening: [[zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7|Hanji 850]] says Du Zhong asks to live and die with Li Yun, after which Huan sends him into the same criminal process.
 - Failed clemency framing: [[zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7|Hanji 850]] says Chen Fan invokes Liu Bang, Emperor Cheng, Zhou Chang, Zhu Yun, and Bigan to argue against killing Li Yun, but Huan punishes intercessors.
 - Failed mitigation and final terror: [[zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7|Hanji 850]] says Guan Ba tries to minimize the case as ignorant speech, Huan rejects release, and Li Yun and Du Zhong die in prison.
+- Hongdu Gate threat: [[zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy|Hanji 801]] says Emperor An's edict accuses Lai Li and other remonstrants of hidden motives and threatens punishment if they persist.
+- Administrative and family punishment: [[zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy|Hanji 801]] says Lai Li persists after others retreat, after which An dismisses Lai Li and his brothers, reduces fief revenue, and degrades Wu'an Princess.
 
 ## Counterevidence & Qualifications
 
-The concept is grounded primarily in Hanji 850 and should not be generalized to every direct remonstrance. Nearby Huan-era episodes qualify the pattern: [[zizhi-tongjian-hanji-852-dang-meinv-ruyun-shi-fu-haishi-huo-luml30ytbc-awpvk-7-23ehzbqpx|Hanji 852]] shows partial acceptance of Chen Fan's harem-cost warning and initial tolerance of Yuan Hong's blunt middle-ruler diagnosis, while [[zizhi-tongjian-hanji-873-ta-ruhe-liyong-tianxiang-tongma-diwang-lqebkodcbcrsvyf80qwxnobydbhc|Hanji 873]] shows Xiang Kai punished but not killed. Directness is therefore a risk amplifier under certain authority, face, and faction conditions, not a sufficient cause by itself.
+The concept is grounded primarily in Hanji 850 and should not be generalized to every direct remonstrance. Nearby Huan-era episodes qualify the pattern: [[zizhi-tongjian-hanji-852-dang-meinv-ruyun-shi-fu-haishi-huo-luml30ytbc-awpvk-7-23ehzbqpx|Hanji 852]] shows partial acceptance of Chen Fan's harem-cost warning and initial tolerance of Yuan Hong's blunt middle-ruler diagnosis, while [[zizhi-tongjian-hanji-873-ta-ruhe-liyong-tianxiang-tongma-diwang-lqebkodcbcrsvyf80qwxnobydbhc|Hanji 873]] shows Xiang Kai punished but not killed. Hanji 801 broadens the evidence to administrative and family punishment rather than prison death. Directness is therefore a risk amplifier under certain authority, face, and faction conditions, not a sufficient cause by itself.
 
 ## What Changed
 
+- Added Hanji 801 as an earlier nonlethal but coercive variant: Hongdu Gate threat, Lai Li's persistence, and office/fief/family punishment.
 - Created the concept from Hanji 850's Li Yun, Du Zhong, Chen Fan, and Guan Ba sequence.
 
 ## Related Concepts
 
 - [[CourtFeedbackCollapse|君臣反馈失灵]] - broader failure mode in which truthful correction is ignored, filtered, punished, or made lethal.
+- [[HeirSupportThreatPerception|储君拥戴威胁感]] - upstream succession-security anxiety that makes defense of Liu Bao look like hidden factional pressure.
 - [[DeathDefyingRemonstrance|赴死式直谏]] - adjacent speech pattern where willingness to die becomes part of the political message.
 - [[AdviceFramingUnderHierarchy|等级场景中的进言包装]] - contrasting frame for why some accurate advice survives only when packaged with an acceptable path.
 - [[PalaceAccessMonopoly|宫廷接触垄断]] - access structure that becomes stronger when public correction is punished and inner-court actors gain confidence.
 - [[MeritBasedRewardPunishment|因功赏罚]] - title-order standard whose violation triggers Li Yun's memorial.
 - [[LiYunLateHan|李云]] - direct source case for the memorial and execution.
 - [[DuZhongLateHan|杜仲]] - solidarity source case for punishment widening.
+- [[LaiLiLateHan|来历]] - earlier direct source case where persistent remonstrance brings dismissal, fief, and family sanctions.

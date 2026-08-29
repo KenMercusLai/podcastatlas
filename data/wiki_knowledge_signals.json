@@ -7214,9 +7214,9 @@
       "url": "/wiki/entities/digitrobot/"
     },
     "DirectRemonstranceCriminalization": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》850丨桓帝为何执意杀忠臣？ [loKxtCeQ7Vv_giEC6IUFWWK9FWk7].md",
@@ -7238,9 +7238,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》873丨他如何利用天象痛骂帝王？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-873-ta-ruhe-liyong-tianxiang-tongma-diwang-lqebkodcbcrsvyf80qwxnobydbhc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》801丨汉安帝为什么狠心废太子？ [lgnHBSqNP6VdigSmQFkxiQmx2vDy].md",
+          "key": "zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》801丨汉安帝为什么狠心废太子？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-29",
       "url": "/wiki/concepts/directremonstrancecriminalization/"
     },
     "DisciplineOverMotivation": {
@@ -8419,9 +8426,9 @@
       "url": "/wiki/concepts/emotionsasfunctionalcontrolstates/"
     },
     "EmperorAnOfHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》802丨安帝之死！东汉王朝权力大洗牌！ [lgvNE92e0jJzJNzNZfkZ7nvZTNbj].md",
@@ -8429,6 +8436,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》802丨安帝之死！东汉王朝权力大洗牌！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》801丨汉安帝为什么狠心废太子？ [lgnHBSqNP6VdigSmQFkxiQmx2vDy].md",
+          "key": "zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》801丨汉安帝为什么狠心废太子？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy/"
         }
       ],
       "updated": "2026-08-29",
@@ -8656,9 +8670,9 @@
       "url": "/wiki/entities/emperorhuanofhan/"
     },
     "EmperorShunOfHan": {
-      "episode_count": 22,
+      "episode_count": 23,
       "show_count": 1,
-      "source_note_count": 22,
+      "source_note_count": 23,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》822丨豺狼当道，他将矛头直指皇帝岳父？ [lqHpMAYVd3p07BYR_zOIv-jyhdv_].md",
@@ -8813,6 +8827,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》802丨安帝之死！东汉王朝权力大洗牌！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》801丨汉安帝为什么狠心废太子？ [lgnHBSqNP6VdigSmQFkxiQmx2vDy].md",
+          "key": "zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》801丨汉安帝为什么狠心废太子？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy/"
         }
       ],
       "updated": "2026-08-29",
@@ -9030,9 +9051,9 @@
       "url": "/wiki/entities/empressdowagerliangnalatehan/"
     },
     "EmpressDowagerYanLateHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》805丨通透人性的女人，竟能预测吉凶？ [ll3bZoYrKBtnVt-AQU9NqelqoneW].md",
@@ -9054,6 +9075,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》802丨安帝之死！东汉王朝权力大洗牌！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》801丨汉安帝为什么狠心废太子？ [lgnHBSqNP6VdigSmQFkxiQmx2vDy].md",
+          "key": "zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》801丨汉安帝为什么狠心废太子？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy/"
         }
       ],
       "updated": "2026-08-29",
@@ -9540,9 +9568,9 @@
       "url": "/wiki/entities/fazheneasternhan/"
     },
     "FanFengEunuchLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》802丨安帝之死！东汉王朝权力大洗牌！ [lgvNE92e0jJzJNzNZfkZ7nvZTNbj].md",
@@ -9550,6 +9578,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》802丨安帝之死！东汉王朝权力大洗牌！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》801丨汉安帝为什么狠心废太子？ [lgnHBSqNP6VdigSmQFkxiQmx2vDy].md",
+          "key": "zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》801丨汉安帝为什么狠心废太子？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy/"
         }
       ],
       "updated": "2026-08-29",
@@ -10946,9 +10981,9 @@
       "url": "/wiki/entities/genesismission/"
     },
     "GengBaoGrandGeneralLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》802丨安帝之死！东汉王朝权力大洗牌！ [lgvNE92e0jJzJNzNZfkZ7nvZTNbj].md",
@@ -10956,6 +10991,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》802丨安帝之死！东汉王朝权力大洗牌！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》801丨汉安帝为什么狠心废太子？ [lgnHBSqNP6VdigSmQFkxiQmx2vDy].md",
+          "key": "zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》801丨汉安帝为什么狠心废太子？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy/"
         }
       ],
       "updated": "2026-08-29",
@@ -12193,6 +12235,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/heiligenkreuzabbey/"
     },
+    "HeirSupportThreatPerception": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》801丨汉安帝为什么狠心废太子？ [lgnHBSqNP6VdigSmQFkxiQmx2vDy].md",
+          "key": "zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》801丨汉安帝为什么狠心废太子？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/heirsupportthreatperception/"
+    },
     "HeirloomImperialSeal": {
       "episode_count": 4,
       "show_count": 1,
@@ -12873,6 +12931,29 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/huaxin/"
+    },
+    "HuanYanLateHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》817丨看似软弱的人，实则活得更通透 [llMGqyS237DE3Dzb6ij-4SZYeTyE].md",
+          "key": "zizhi-tongjian-hanji-817-kan-si-ruanruo-de-ren-shize-huode-geng-tongtou-llmgqys237de3dzb6ij-4szyetye",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》817丨看似软弱的人，实则活得更通透",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-817-kan-si-ruanruo-de-ren-shize-huode-geng-tongtou-llmgqys237de3dzb6ij-4szyetye/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》801丨汉安帝为什么狠心废太子？ [lgnHBSqNP6VdigSmQFkxiQmx2vDy].md",
+          "key": "zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》801丨汉安帝为什么狠心废太子？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/huanyanlatehan/"
     },
     "HuangFuDonghaiLateHan": {
       "episode_count": 1,
@@ -15689,6 +15770,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/laestrygonians/"
+    },
+    "LaiLiLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》801丨汉安帝为什么狠心废太子？ [lgnHBSqNP6VdigSmQFkxiQmx2vDy].md",
+          "key": "zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》801丨汉安帝为什么狠心废太子？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/laililatehan/"
     },
     "LaneGreen": {
       "episode_count": 1,
@@ -25393,9 +25490,9 @@
       "url": "/wiki/entities/shihuanlatehan/"
     },
     "ShiYanLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》815丨可悲！古代重臣的家风之殇！ [llKHbXo_-63PJw_gK9PihnBFr94V].md",
@@ -25403,6 +25500,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》815丨可悲！古代重臣的家风之殇！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》801丨汉安帝为什么狠心废太子？ [lgnHBSqNP6VdigSmQFkxiQmx2vDy].md",
+          "key": "zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》801丨汉安帝为什么狠心废太子？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy/"
         }
       ],
       "updated": "2026-08-29",
@@ -32786,6 +32890,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/zhangganglatehan/"
     },
+    "ZhangHaoRemonstratorLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》801丨汉安帝为什么狠心废太子？ [lgnHBSqNP6VdigSmQFkxiQmx2vDy].md",
+          "key": "zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》801丨汉安帝为什么狠心废太子？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/zhanghaoremonstratorlatehan/"
+    },
     "ZhangHeLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -33884,9 +34004,9 @@
       "url": "/wiki/entities/zhubilatehan/"
     },
     "ZhuChangLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》806丨想要成事，找对人很关键！ [luswh-p-OYutYSXuE6sHWEQcWQxs].md",
@@ -33894,6 +34014,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》806丨想要成事，找对人很关键！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-806-xiangyao-chengshi-zhaodui-ren-hen-guanjian-luswh-p-oyutysxue6shweqcwqxs/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》801丨汉安帝为什么狠心废太子？ [lgnHBSqNP6VdigSmQFkxiQmx2vDy].md",
+          "key": "zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》801丨汉安帝为什么狠心废太子？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy/"
         }
       ],
       "updated": "2026-08-29",
