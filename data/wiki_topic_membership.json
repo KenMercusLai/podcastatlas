@@ -41830,6 +41830,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "OfficialSalaryExtractionRisk": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "OfficialSelectionChannelCompetition": [
     {
       "key": "culture",

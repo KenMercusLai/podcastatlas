@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2019
+topic_total_pages: 2020
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3175,6 +3175,9 @@ topic_concepts:
   - key: "SongFoundingLegitimacyPerformance"
     title: "宋初建国合法性表演 / Song Founding Legitimacy Performance"
     url: "/wiki/concepts/songfoundinglegitimacyperformance/"
+  - key: "OfficialSalaryExtractionRisk"
+    title: "官吏俸禄不足抽取风险 / Official Salary Extraction Risk"
+    url: "/wiki/concepts/officialsalaryextractionrisk/"
   - key: "CourtBackchannelSurvival"
     title: "宫廷后门自救 / Court Backchannel Survival"
     url: "/wiki/concepts/courtbackchannelsurvival/"

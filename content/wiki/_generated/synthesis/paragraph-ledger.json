@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "9dba460fee1726825853ac474cc0b952fb398e9e3548a1af1470db6a1f913bdf",
       "e8ec221f8b1bab00861add6048a8ace82d2ff3eeb0d34dddfc004433490d55a4",
       "8b672746ce88116c31bca27d977003ad904e59166db79bc2349a038a57cbe710",
       "e4e3b8f13f26be35019adef3fced4108842417c6090816eb8705866e259ba103",
@@ -385,11 +386,40 @@
       "fa2bb49857ac26cb533ae14a4cc21fb8c9bcedab808a46832dcf8b31ade00a18",
       "4aec524162783153bd9de6fc8aaf28b4b45a60c3433caa62e6442f020af99d44"
     ],
-    "paragraph_count": 383
+    "paragraph_count": 384
   },
-  "overview_commit": "2313e1a38b812f0906c42282e7632de546507e3d",
-  "overview_digest": "15e7686e0ba841788254953873ff9787b744346709a00273262e351de4c1f98f",
+  "overview_commit": "92d97380dff5e8cf9b8de217742a853d69d43d7c",
+  "overview_digest": "57447f68b1cab5a84b48092ab7c85f82a4bcad8f382f95d6a2f85a66e50e25d3",
   "paragraphs": [
+    {
+      "id": "9dba460fee1726825853ac474cc0b952fb398e9e3548a1af1470db6a1f913bdf",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-783-renxing-qian-guize-nide-jiazhi-jueding-yiqie-lq5qbki6crhieafbv7g5kc07unqe|《资治通鉴·汉纪》783丨人性潜规则：你的价值决定一切]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 109-110 CE opening before [[zizhi-tongjian-hanji-784-donghan-diaoyu-zhifa-diyiren-yuxu-ls6zezfw2pvaytoo94igdscfwkpt|Hanji 784]] and [[zizhi-tongjian-hanji-785-donghan-dengsui-zhangkong-yuwang-caineng-xiaodao-zuihou-llfg4kjaautqlfewhplikvu3ry1u|Hanji 785]]. It adds [[WangMiLateHan|王密]] and [[OfficialSalaryExtractionRisk|官吏俸禄不足抽取风险]], while extending [[YangZhenLateHan|杨震]], [[ZhangBailuLateHan|张白禄 / 张伯禄]], [[EmpressDowagerDengLateHan|和熹邓皇后]], [[RegencyUnderCompoundCrisis|复合危机下的摄政]], [[GiftRefusalAsAuthority|拒礼立威]], [[SouthernXiongnu|南匈奴]], [[Wuhuan|乌桓]], [[Xianbei|鲜卑]], [[DengZhiLateHan|邓骘]], [[PangCanLateHan|庞参]], [[LiangzhouLateHan|凉州]], and [[StrategicFrontierAbandonment|弃边失屏]]. Its core synthesis is that the Deng-regency crisis was already fiscal and organizational before the detailed Hanji 784-786 debates: Yang's Four Knows refusal makes hidden gift obligation visible, while salary cuts show how immediate budget relief can become local extraction risk when underpaid officials still hold coercive authority. No settled contradiction is recorded; Zhang Bailu/Bolu spelling and minor frontier actors remain source-scoped.",
+      "topic_scores": {
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "DengZhiLateHan",
+        "EmpressDowagerDengLateHan",
+        "GiftRefusalAsAuthority",
+        "LiangzhouLateHan",
+        "OfficialSalaryExtractionRisk",
+        "PangCanLateHan",
+        "RegencyUnderCompoundCrisis",
+        "RuiqiJiangtouZizhiTongjian",
+        "SouthernXiongnu",
+        "StrategicFrontierAbandonment",
+        "WangMiLateHan",
+        "Wuhuan",
+        "Xianbei",
+        "YangZhenLateHan",
+        "ZhangBailuLateHan",
+        "zizhi-tongjian-hanji-783-renxing-qian-guize-nide-jiazhi-jueding-yiqie-lq5qbki6crhieafbv7g5kc07unqe",
+        "zizhi-tongjian-hanji-784-donghan-diaoyu-zhifa-diyiren-yuxu-ls6zezfw2pvaytoo94igdscfwkpt",
+        "zizhi-tongjian-hanji-785-donghan-dengsui-zhangkong-yuwang-caineng-xiaodao-zuihou-llfg4kjaautqlfewhplikvu3ry1u"
+      ]
+    },
     {
       "id": "e8ec221f8b1bab00861add6048a8ace82d2ff3eeb0d34dddfc004433490d55a4",
       "primary_topic": "history-and-geopolitics",

@@ -36435,6 +36435,10 @@
     "title": "丁忧任职冲突 / Official Mourning Duty Conflict",
     "url": "/wiki/concepts/officialmourningdutyconflict/"
   },
+  "OfficialSalaryExtractionRisk": {
+    "title": "官吏俸禄不足抽取风险 / Official Salary Extraction Risk",
+    "url": "/wiki/concepts/officialsalaryextractionrisk/"
+  },
   "OfficialSelectionChannelCompetition": {
     "title": "选官通道竞争 / Official Selection Channel Competition",
     "url": "/wiki/concepts/officialselectionchannelcompetition/"
@@ -52695,6 +52699,10 @@
     "title": "王萌 / Wang Meng (late Han)",
     "url": "/wiki/entities/wangmenglatehan/"
   },
+  "WangMiLateHan": {
+    "title": "王密 / Wang Mi (late Han)",
+    "url": "/wiki/entities/wangmilatehan/"
+  },
   "WangMian": {
     "title": "王冕",
     "url": "/wiki/entities/wangmian/"
@@ -62386,6 +62394,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-783-renxing-qian-guize-nide-jiazhi-jueding-yiqie-lq5qbki6crhieafbv7g5kc07unqe": {
+    "title": "《资治通鉴·汉纪》783丨人性潜规则：你的价值决定一切",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-783-renxing-qian-guize-nide-jiazhi-jueding-yiqie-lq5qbki6crhieafbv7g5kc07unqe/"
   },
   "zizhi-tongjian-hanji-784-donghan-diaoyu-zhifa-diyiren-yuxu-ls6zezfw2pvaytoo94igdscfwkpt": {
     "title": "《资治通鉴·汉纪》784丨东汉“钓鱼执法”第一人：虞诩",

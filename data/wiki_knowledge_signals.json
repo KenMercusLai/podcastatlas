@@ -9726,9 +9726,9 @@
       "url": "/wiki/entities/empressdenghuanlatehan/"
     },
     "EmpressDowagerDengLateHan": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》795丨邓家灭亡后，为何举朝为他们鸣冤？ [lqVmBQrrOOKphB4beCaQbP7h_Wi1].md",
@@ -9799,6 +9799,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》785丨东汉邓绥：掌控欲望才能笑到最后",
           "url": "/wiki/sources/zizhi-tongjian-hanji-785-donghan-dengsui-zhangkong-yuwang-caineng-xiaodao-zuihou-llfg4kjaautqlfewhplikvu3ry1u/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》783丨人性潜规则：你的价值决定一切 [lq5qBkI6CrhIEAFbV7G5kc07uNQe].md",
+          "key": "zizhi-tongjian-hanji-783-renxing-qian-guize-nide-jiazhi-jueding-yiqie-lq5qbki6crhieafbv7g5kc07unqe",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》783丨人性潜规则：你的价值决定一切",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-783-renxing-qian-guize-nide-jiazhi-jueding-yiqie-lq5qbki6crhieafbv7g5kc07unqe/"
         }
       ],
       "updated": "2026-08-30",
@@ -12226,9 +12233,9 @@
       "url": "/wiki/entities/georgewhitman/"
     },
     "GiftRefusalAsAuthority": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》841丨绝不手软！揭秘战争的残酷真相 [loSzA81gisSYIjywWE0VXaDW5ia0].md",
@@ -12243,9 +12250,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》840丨眼光长远的人有多厉害？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-840-yanguang-changyuan-de-ren-you-duo-lihai-lvzfg8zbp0nugjg0iybgukz-cxgv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》783丨人性潜规则：你的价值决定一切 [lq5qBkI6CrhIEAFbV7G5kc07uNQe].md",
+          "key": "zizhi-tongjian-hanji-783-renxing-qian-guize-nide-jiazhi-jueding-yiqie-lq5qbki6crhieafbv7g5kc07unqe",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》783丨人性潜规则：你的价值决定一切",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-783-renxing-qian-guize-nide-jiazhi-jueding-yiqie-lq5qbki6crhieafbv7g5kc07unqe/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-30",
       "url": "/wiki/concepts/giftrefusalasauthority/"
     },
     "GlobalProductLocalization": {
@@ -22913,6 +22927,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/officialmourningdutyconflict/"
     },
+    "OfficialSalaryExtractionRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》783丨人性潜规则：你的价值决定一切 [lq5qBkI6CrhIEAFbV7G5kc07uNQe].md",
+          "key": "zizhi-tongjian-hanji-783-renxing-qian-guize-nide-jiazhi-jueding-yiqie-lq5qbki6crhieafbv7g5kc07unqe",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》783丨人性潜规则：你的价值决定一切",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-783-renxing-qian-guize-nide-jiazhi-jueding-yiqie-lq5qbki6crhieafbv7g5kc07unqe/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/officialsalaryextractionrisk/"
+    },
     "OilRevenueSanctionsLeverage": {
       "episode_count": 2,
       "show_count": 1,
@@ -25769,9 +25799,9 @@
       "url": "/wiki/concepts/recurrencefreesurvivalendpoint/"
     },
     "RegencyUnderCompoundCrisis": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》793丨历史著名女皇邓绥怎么死的？ [lsZFgj7waiUUsrD_DZjmV5mBRP1I].md",
@@ -25828,6 +25858,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》784丨东汉“钓鱼执法”第一人：虞诩",
           "url": "/wiki/sources/zizhi-tongjian-hanji-784-donghan-diaoyu-zhifa-diyiren-yuxu-ls6zezfw2pvaytoo94igdscfwkpt/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》783丨人性潜规则：你的价值决定一切 [lq5qBkI6CrhIEAFbV7G5kc07uNQe].md",
+          "key": "zizhi-tongjian-hanji-783-renxing-qian-guize-nide-jiazhi-jueding-yiqie-lq5qbki6crhieafbv7g5kc07unqe",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》783丨人性潜规则：你的价值决定一切",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-783-renxing-qian-guize-nide-jiazhi-jueding-yiqie-lq5qbki6crhieafbv7g5kc07unqe/"
         }
       ],
       "updated": "2026-08-30",
@@ -32182,6 +32219,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/wangkanglatehan/"
     },
+    "WangMiLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》783丨人性潜规则：你的价值决定一切 [lq5qBkI6CrhIEAFbV7G5kc07uNQe].md",
+          "key": "zizhi-tongjian-hanji-783-renxing-qian-guize-nide-jiazhi-jueding-yiqie-lq5qbki6crhieafbv7g5kc07unqe",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》783丨人性潜规则：你的价值决定一切",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-783-renxing-qian-guize-nide-jiazhi-jueding-yiqie-lq5qbki6crhieafbv7g5kc07unqe/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/wangmilatehan/"
+    },
     "WangShengPalaceActorLateHan": {
       "episode_count": 5,
       "show_count": 1,
@@ -34803,9 +34856,9 @@
       "url": "/wiki/entities/yangyuanqunlatehan/"
     },
     "YangZhenLateHan": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》914丨信任的人，为何总伤你最深？ [lvwit_RZrKScn5A3h6wblNTxpPsO].md",
@@ -34848,9 +34901,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》795丨邓家灭亡后，为何举朝为他们鸣冤？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》783丨人性潜规则：你的价值决定一切 [lq5qBkI6CrhIEAFbV7G5kc07uNQe].md",
+          "key": "zizhi-tongjian-hanji-783-renxing-qian-guize-nide-jiazhi-jueding-yiqie-lq5qbki6crhieafbv7g5kc07unqe",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》783丨人性潜规则：你的价值决定一切",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-783-renxing-qian-guize-nide-jiazhi-jueding-yiqie-lq5qbki6crhieafbv7g5kc07unqe/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-08-30",
       "url": "/wiki/entities/yangzhenlatehan/"
     },
     "YangzhouLateHan": {
@@ -35587,9 +35647,9 @@
       "url": "/wiki/entities/zhaiguilatehan/"
     },
     "ZhangBailuLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》785丨东汉邓绥：掌控欲望才能笑到最后 [llFg4KJAAUTQlFEWhpLikvU3Ry1U].md",
@@ -35604,6 +35664,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》786丨古人为什么排斥反季水果？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-786-guren-weishenme-paichi-fanji-shuiguo-lmcwqwdxwe0ehuusfeoaqk82msm7/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》783丨人性潜规则：你的价值决定一切 [lq5qBkI6CrhIEAFbV7G5kc07uNQe].md",
+          "key": "zizhi-tongjian-hanji-783-renxing-qian-guize-nide-jiazhi-jueding-yiqie-lq5qbki6crhieafbv7g5kc07unqe",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》783丨人性潜规则：你的价值决定一切",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-783-renxing-qian-guize-nide-jiazhi-jueding-yiqie-lq5qbki6crhieafbv7g5kc07unqe/"
         }
       ],
       "updated": "2026-08-30",

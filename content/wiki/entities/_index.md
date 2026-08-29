@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 8358
+wiki_total_pages: 8359
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
