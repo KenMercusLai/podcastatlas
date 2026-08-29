@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 8351
+wiki_total_pages: 8354
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -89,6 +89,9 @@ wiki_pages:
   - key: "HamiltonHelmer"
     title: "Hamilton Helmer"
     url: "/wiki/entities/hamiltonhelmer/"
+  - key: "HamiltonBurrDuel"
+    title: "Hamilton-Burr Duel"
+    url: "/wiki/entities/hamiltonburrduel/"
   - key: "HamishClayton"
     title: "Hamish Clayton"
     url: "/wiki/entities/hamishclayton/"

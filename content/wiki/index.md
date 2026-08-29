@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [685. Hamilton: Duel to the Death (Part 3)](sources/685-hamilton-duel-to-the-death-part-3-glt9231431046.md) — The Rest Is History episode on Alexander Hamilton, Aaron Burr, the 1800 election deadlock, honor culture, the Weehawken duel, Hamilton's death, and Burr's ruined reputation.
 - [Raising a Dog & Mastering Calm Assertive Energy | Cesar Millan](sources/raising-a-dog-mastering-calm-assertive-energy-cesar-millan-scim6380580289.md) — Huberman Lab episode with Cesar Millan on dog psychology, owner energy, structured walks, greeting rituals, exercise before affection, puppy selection, barking, end-of-life care, and human self-regulation.
 - [《资治通鉴·汉纪》787丨传奇皇后阎姬是如何一步步上位的？](sources/zizhi-tongjian-hanji-787-chuanqi-huanghou-yanji-shi-ruhe-yibubu-shangwei-de-lslngjnedmqgh8h5nfc-qmyahqnm.md) — 芮淇讲透资治通鉴 episode on Yan Chang's preparation of Yan Ji for palace selection, her 114-115 CE rise to empress under Emperor An and Empress Dowager Deng, Eastern Han great-family marriage barriers, Liu Bao's birth-mother danger, and Pang Can/Sima Jun's Qiang-front campaign failure.
 - [《资治通鉴·汉纪》788丨令敌人破大防！玩战术的心真脏？！](sources/zizhi-tongjian-hanji-788-ling-diren-po-da-fang-wan-zhanshu-de-xin-zhen-zang-lvprh9s7aaagf-t2n-m3bp4icqj0.md) — 芮淇讲透资治通鉴 episode on Yu Xu's Wudu appointment, light-cavalry advice, increasing-stoves deception, Chiting defense, Deng Hong's restrained posthumous handling, and Deng-regency disaster and office pressure.
@@ -1711,6 +1712,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Hamilton-Burr Duel](entities/HamiltonBurrDuel.md) — July 11, 1804 Weehawken duel where Aaron Burr fatally wounded Alexander Hamilton after party rivalry and honor pressure escalated.
+- [Eliza Hamilton](entities/ElizaHamilton.md) — Hamilton's wife, addressee of his farewell letter, and posthumous memory keeper after the duel.
+- [Philip Hamilton](entities/PhilipHamilton.md) — Hamilton's son whose fatal 1801 duel foreshadows and burdens Hamilton's own 1804 duel.
 - [逯雨鑫 / 逯雨昕 / Lu Yuxin](entities/LuYuxin.md) — AI researcher and individual-builder case for low-cost small-model post-training, data-first SFT, and local AI tradeoffs.
 - [广州美术学院 / Guangzhou Academy of Fine Arts](entities/GuangzhouAcademyOfFineArts.md) — Art-school institution whose first-year undergraduate reform anchors EP280's fieldwork education case.
 - [项飙 / Xiang Biao](entities/XiangBiao.md) — Theoretical reference used in EP280 for distinguishing formative experience from passing experience.
@@ -1724,8 +1728,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Declaration of Independence](entities/DeclarationOfIndependence.md) — Founding document whose liberty language anchors Jefferson's achievement and contradiction.
 - [Louisiana Purchase](entities/LouisianaPurchase.md) — Jefferson-era territorial acquisition that combined presidential consequence with constitutional tension.
 - [Lewis and Clark Expedition](entities/LewisAndClarkExpedition.md) — Jefferson-commissioned western exploration project linking scientific inquiry and imperial ambition.
-- [Democratic-Republican Party](entities/DemocraticRepublicanParty.md) — Jefferson's founding-era party vehicle opposed to Hamiltonian Federalists.
-- [Federalist Party](entities/FederalistParty.md) — Founding-era party rival to Jefferson's Democratic-Republicans in the 1796 and 1800 contests.
+- [Democratic-Republican Party](entities/DemocraticRepublicanParty.md) — Jefferson's founding-era party vehicle, complicated by Burr's 1800 tie and later marginalization.
+- [Federalist Party](entities/FederalistParty.md) — Hamilton-associated founding-era party rival to Jefferson's Democratic-Republicans, active in the 1796, 1800, and Burr 1804 contexts.
 - [和熹邓皇后 / Empress Dowager Deng (late Han)](entities/EmpressDowagerDengLateHan.md) — An-era regent whose record spans Yu Xu's Wudu appointment, restrained Deng Hong honors, Qiang relocation backfire, frontier and fiscal stress, Western Regions underimplementation, internal warning, transfer risk, and contested posthumous memory.
 - [邓鸿 / Deng Hong (late Han)](entities/DengHongLateHan.md) — Deng-family scholar-official whose death becomes a restrained posthumous honor case under Empress Dowager Deng.
 - [武都郡 / Wudu Commandery (late Han)](entities/WuduCommanderyLateHan.md) — Late-Han frontier commandery where Yu Xu is sent as taishou and preserves the position through route deception and Chiting defense.
@@ -5694,7 +5698,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《西方决斗史》 / The History of Duelling](entities/XifangJuedouShi.md) — Millingen book used by episode 78 to separate judicial duel, chivalric tournament, and honor duel culture.
 - [John Gideon Millingen / 约翰·基甸·米林根](entities/JohnGideonMillingen.md) — Nineteenth-century doctor, military surgeon, and dueling-history author read critically by episode 78.
 - [Andrew Jackson / 安德鲁·杰克逊](entities/AndrewJackson.md) — U.S. president used by episode 78 as a high-frequency duelist and American honor-culture example.
-- [Aaron Burr / 阿伦·伯尔](entities/AaronBurr.md) — U.S. vice president whose fatal duel with Alexander Hamilton anchors episode 78's American political-dueling branch.
+- [Aaron Burr / 阿伦·伯尔](entities/AaronBurr.md) — U.S. vice president whose rivalry with Hamilton, 1800 tie, 1804 challenge, and later ruin anchor the American political-dueling branch.
 - [Alexander Pushkin / 普希金](entities/AlexanderPushkin.md) — Literary dueling case used by episode 78 to show reputation, romance, and rumor turning deadly.
 - [Evariste Galois / 伽罗瓦](entities/EvaristeGalois.md) — Mathematician whose fatal duel is used by episode 78 as a compact case of intellectual life destroyed by honor logic.
 - [Richard Brinsley Sheridan / 谢里丹](entities/RichardBrinsleySheridan.md) — Writer and politician used by episode 78 to show dueling apologies, public humiliation, and renewed conflict.
@@ -9103,7 +9107,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Supreme Court](entities/SupremeCourt.md) — U.S. judicial institution used in the America-at-250 source as both democratic guardrail and possible executive-power precedent maker.
 - [Cass Sunstein](entities/CassSunstein.md) — Legal scholar whose impeachment framework treats removal as constitutional repair rather than ordinary punishment or partisan dissatisfaction.
 - [《弹劾》 / Impeachment: A Citizen's Guide](entities/ImpeachmentBook.md) — Sunstein book used by the episode to define impeachment around office abuse, public trust, and constitutional order.
-- [Alexander Hamilton](entities/AlexanderHamilton.md) — Founding-era figure used to explain the case for a strong but removable single executive.
+- [Alexander Hamilton](entities/AlexanderHamilton.md) — Federalist state-builder, executive-power theorist, and fatal participant in the Hamilton-Burr duel.
 - [Andrew Johnson](entities/AndrewJohnson.md) — First impeached U.S. president, used as a historical case for legal charges amid wider constitutional-political conflict.
 - [Richard Nixon](entities/RichardNixon.md) — President used across impeachment, Fed-pressure, and 1970s diplomacy/investigation branches including the Lockheed bribery source.
 - [Robert Guest](entities/RobertGuest.md) — The Intelligence panelist giving the more optimistic account of American democratic resilience, assimilation, and cultural durability.
@@ -10076,8 +10080,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Experience-Forming Education / 生成经验的教育](concepts/ExperienceFormingEducation.md) — Higher-education frame for turning encounters into durable judgment and self-understanding rather than passing activities.
 - [Unlearning Exam Expression / 去除应试表达](concepts/UnlearningExamExpression.md) — Education failure-mode repair in which students undo theme-first, PPT-first, and exam-trained expression habits.
 - [Teacher-Student Co-Field Learning / 师生共同在场学习](concepts/TeacherStudentCoFieldLearning.md) — Pedagogical pattern where teachers and students learn together in uncertain field situations.
-- [First Party System](concepts/FirstPartySystem.md) — Founding-era U.S. party competition between Jeffersonian Democratic-Republicans and Federalists.
-- [Peaceful Transfer of Power](concepts/PeacefulTransferOfPower.md) — Democratic norm illustrated by the bitter but constitutional 1800 transfer from Federalists to Jefferson.
+- [First Party System](concepts/FirstPartySystem.md) — Founding-era U.S. party competition that enabled constitutional transfer while intensifying Hamilton-Burr reputation conflict.
+- [Peaceful Transfer of Power](concepts/PeacefulTransferOfPower.md) — Democratic norm illustrated by the bitter 1800 transfer and Hamilton's choice of Jefferson over Burr.
 - [Jeffersonian Liberty Contradiction](concepts/JeffersonianLibertyContradiction.md) — Problem of Jefferson articulating universal liberty while preserving a slaveholding household and estate.
 - [Coerced Consent Under Slavery](concepts/CoercedConsentUnderSlavery.md) — Frame for why an enslaved person's intimate choices under ownership cannot be read as ordinary free consent.
 - [Founding Father Reputation Revision](concepts/FoundingFatherReputationRevision.md) — Evidence-bound reassessment of revered founders when minimized harms become central.
@@ -10499,7 +10503,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Treasury Buyback Policy](concepts/TreasuryBuybackPolicy.md) — Treasury old-bond buybacks read as off-the-run liquidity support, macro reaction-function signaling, and Fed-Treasury boundary pressure.
 - [U.S.-Japan Currency Intervention](concepts/USJapanCurrencyIntervention.md) — Source-scoped case where yen defense, U.S. export/trade concerns, and Japanese Treasury-holder behavior meet.
 - [Policy Ambiguity As Market Tool](concepts/PolicyAmbiguityAsMarketTool.md) — Strategy of using unclear defense levels, sudden action, and broad toolkits to avoid one-way market targets.
-- [Hamiltonian Economic Nationalism](concepts/HamiltonianEconomicNationalism.md) — Source label for pairing U.S. production-security goals with control over dollar, Treasury, finance, and technology rules.
+- [Hamiltonian Economic Nationalism](concepts/HamiltonianEconomicNationalism.md) — Policy grammar linking central state capacity, banking, manufacturing, finance, trade posture, and national power.
 - [Vehicle Emergency Handle Usability](concepts/VehicleEmergencyHandleUsability.md) — Automotive safety affordance issue where emergency mechanical handles must be visible and usable in crash conditions.
 - [Short-Video Music Distribution](concepts/ShortVideoMusicDistribution.md) — Platform pattern where short-video discovery and traffic reshape music-app competition.
 - [Hotel Retail Flywheel](concepts/HotelRetailFlywheel.md) — Hospitality-retail pattern where in-stay product trial turns hotel bedding and comfort goods into consumer sales.
@@ -12782,12 +12786,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Motivation Crowding Out / 动机挤出](concepts/MotivationCrowdingOut.md) — Reward-design failure where external pay can weaken intrinsic or civic motivation.
 - [人单合一 / RenDanHeYi](concepts/RenDanHeYi.md) — Haier management model discussed as a test case for internal marketization.
 - [Internal Marketization Limit / 企业内部市场化边界](concepts/InternalMarketizationLimit.md) — Boundary on turning firm interiors into markets when hierarchy lowers transaction costs.
-- [Honor Duel Culture / 荣誉决斗文化](concepts/HonorDuelCulture.md) — Social system where insult, reputation, witnesses, courage, and weapon risk make private honor publicly legible.
+- [Honor Duel Culture / 荣誉决斗文化](concepts/HonorDuelCulture.md) — Social system where insult, reputation, witnesses, courage, and political usefulness can make private combat feel compulsory.
 - [Judicial Duel / 司法决斗](concepts/JudicialDuel.md) — Formal combat procedure rooted in divine judgment and legal authority before later honor dueling.
 - [Trial By Ordeal / 神裁法](concepts/TrialByOrdeal.md) — Religious-legal truth test where bodily danger is interpreted as divine evidence.
-- [Proceduralized Violence / 程序化暴力](concepts/ProceduralizedViolence.md) — Dueling paradox where rules, seconds, witnesses, and weapons make violence legible without making it safe.
+- [Proceduralized Violence / 程序化暴力](concepts/ProceduralizedViolence.md) — Dueling paradox where rules, seconds, witnesses, and weapons make violence legible without making it safe or evidentially stable.
 - [Chivalric Tournament Culture / 骑士比武文化](concepts/ChivalricTournamentCulture.md) — Noble spectacle and military-practice culture that helped feed later honor duels.
-- [Weapon Technology And Duel Lethality / 武器技术与决斗致命性](concepts/WeaponTechnologyDuelLethality.md) — How swords, pistols, rifling, and novel technologies alter the risk of dueling rituals.
+- [Weapon Technology And Duel Lethality / 武器技术与决斗致命性](concepts/WeaponTechnologyDuelLethality.md) — How weapon design, handling, accuracy, and ritual setting alter duel risk and perceived threat.
 - [Female Duel Agency / 女性决斗主体性](concepts/FemaleDuelAgency.md) — Frame for women as duel combatants and reputation actors rather than only protected objects in honor culture.
 - [Power Myth Deflation / 权力神话拆解](concepts/PowerMythDeflation.md) — Fallaci-derived concept for refusing to treat rulers, revolutions, institutions, or journalists themselves as sacred figures.
 - [Freedom As Dignity / 自由作为尊严](concepts/FreedomAsDignity.md) — Episode 77 frame where freedom is impossible in absolute form but remains necessary because dignity depends on the capacity to refuse domination.

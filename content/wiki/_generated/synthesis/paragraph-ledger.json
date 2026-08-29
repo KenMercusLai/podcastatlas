@@ -380,12 +380,13 @@
       "75db7802851b00335466c237f5c73df15775e7e42e7213db8107b7ed258053a0",
       "1728ec139408181cbf32d64d0e7235b0b1fbc548128d242cc4265fbc114de8e7",
       "c7333d3c02f7065204859f96df77ddef757d5567ab9c1ac2872b8e018c162577",
-      "fa2bb49857ac26cb533ae14a4cc21fb8c9bcedab808a46832dcf8b31ade00a18"
+      "fa2bb49857ac26cb533ae14a4cc21fb8c9bcedab808a46832dcf8b31ade00a18",
+      "4aec524162783153bd9de6fc8aaf28b4b45a60c3433caa62e6442f020af99d44"
     ],
-    "paragraph_count": 380
+    "paragraph_count": 381
   },
-  "overview_commit": "dff18d489829875a6c03ff66ae0754317ab80f09",
-  "overview_digest": "265788d2594717edee7b8bb340915772caf64b0cc81ced0e75c79a87497d17d0",
+  "overview_commit": "6fef03eade704b4ecab5c83a7b0962ba006b608e",
+  "overview_digest": "81c95c8c583cef8dc8eca6ad9818c3094b1b8d1aadbd01c85ac2efd6ad02299d",
   "paragraphs": [
     {
       "id": "e4e3b8f13f26be35019adef3fced4108842417c6090816eb8705866e259ba103",
@@ -11764,6 +11765,35 @@
         "HubermanLab",
         "LeadershipEmotionalCounterweight",
         "raising-a-dog-mastering-calm-assertive-energy-cesar-millan-scim6380580289"
+      ]
+    },
+    {
+      "id": "4aec524162783153bd9de6fc8aaf28b4b45a60c3433caa62e6442f020af99d44",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[685-hamilton-duel-to-the-death-part-3-glt9231431046|685. Hamilton: Duel to the Death (Part 3)]], a [[TheRestIsHistory]] episode on [[AlexanderHamilton|Alexander Hamilton]], [[AaronBurr|Aaron Burr]], and the [[HamiltonBurrDuel|Hamilton-Burr duel]]. It adds [[HamiltonBurrDuel]], [[ElizaHamilton]], and [[PhilipHamilton]], while extending [[FirstPartySystem]], [[PeacefulTransferOfPower]], [[FederalistParty]], [[DemocraticRepublicanParty]], [[HonorDuelCulture]], [[ProceduralizedViolence]], [[WeaponTechnologyDuelLethality]], and [[HamiltonianEconomicNationalism]]. Its core synthesis is that early U.S. party conflict created institutional democratic precedent and personal honor danger at the same time: Hamilton's anti-Burr interventions helped Jefferson's 1800 transfer, but repeated reputation injury, New York politics, and dueling procedure carried the rivalry outside public institutions at Weehawken. No settled contradiction is recorded; Hamilton's intent, Burr's intent, and the exact shot sequence remain source-scoped because the seconds' accounts conflict.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "culture-and-media": 1,
+        "governance-and-institutions": 3,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "685-hamilton-duel-to-the-death-part-3-glt9231431046",
+        "AaronBurr",
+        "AlexanderHamilton",
+        "DemocraticRepublicanParty",
+        "ElizaHamilton",
+        "FederalistParty",
+        "FirstPartySystem",
+        "HamiltonBurrDuel",
+        "HamiltonianEconomicNationalism",
+        "HonorDuelCulture",
+        "PeacefulTransferOfPower",
+        "PhilipHamilton",
+        "ProceduralizedViolence",
+        "TheRestIsHistory",
+        "WeaponTechnologyDuelLethality"
       ]
     }
   ],

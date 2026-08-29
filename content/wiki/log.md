@@ -13648,3 +13648,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-30] ingest | 685. Hamilton: Duel to the Death (Part 3)
+
+Ingested the 2026-07-05 The Rest Is History episode on Alexander Hamilton, Aaron Burr, the 1800 Jefferson-Burr tie, Burr's 1804 New York governorship bid, honor culture, Code Duello procedure, the Weehawken duel, Hamilton's death, Eliza Hamilton's memory work, and Burr's later ruin. Created the source note plus `HamiltonBurrDuel`, `ElizaHamilton`, and `PhilipHamilton`; updated `AlexanderHamilton`, `AaronBurr`, `HonorDuelCulture`, `ProceduralizedViolence`, `WeaponTechnologyDuelLethality`, `FirstPartySystem`, `FederalistParty`, `DemocraticRepublicanParty`, `PeacefulTransferOfPower`, `HamiltonianEconomicNationalism`, `index`, and `overview`. No settled contradiction found; Hamilton's intent, Burr's intent, and the exact shot sequence remain source-scoped because the seconds' accounts conflict.
+
+## [2026-08-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

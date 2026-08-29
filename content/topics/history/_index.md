@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1504
+topic_total_pages: 1505
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -3687,6 +3687,9 @@ topic_sources:
   - key: "65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922"
     title: "65.龙王之怒：1931年的长江洪水"
     url: "/wiki/sources/65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922/"
+  - key: "685-hamilton-duel-to-the-death-part-3-glt9231431046"
+    title: "685. Hamilton: Duel to the Death (Part 3)"
+    url: "/wiki/sources/685-hamilton-duel-to-the-death-part-3-glt9231431046/"
   - key: "686-jefferson-the-betrayal-of-liberty-part-4-glt6535571769"
     title: "686. Jefferson: The Betrayal of Liberty (Part 4)"
     url: "/wiki/sources/686-jefferson-the-betrayal-of-liberty-part-4-glt6535571769/"

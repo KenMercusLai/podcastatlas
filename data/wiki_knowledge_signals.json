@@ -1257,6 +1257,29 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/aivoicecloningrights/"
     },
+    "AaronBurr": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "78.西方决斗史：出剑吧！为了荣誉！ [687731000].md",
+          "key": "78-xifang-juedou-shi-chujian-ba-weile-rongyu-687731000",
+          "show": "蜜獾吃书",
+          "title": "78.西方决斗史：出剑吧！为了荣誉！",
+          "url": "/wiki/sources/78-xifang-juedou-shi-chujian-ba-weile-rongyu-687731000/"
+        },
+        {
+          "episode_file": "GLT9231431046 [GLT9231431046].md",
+          "key": "685-hamilton-duel-to-the-death-part-3-glt9231431046",
+          "show": "The Rest Is History",
+          "title": "685. Hamilton: Duel to the Death (Part 3)",
+          "url": "/wiki/sources/685-hamilton-duel-to-the-death-part-3-glt9231431046/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/aaronburr/"
+    },
     "AbsoluteGuaranteeTrap": {
       "episode_count": 1,
       "show_count": 1,
@@ -1708,6 +1731,36 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/alextheatre/"
+    },
+    "AlexanderHamilton": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "173.弹劾：如何罢免一位总统 [963141809].md",
+          "key": "173-tanhe-ruhe-bamian-yiwei-zongtong-963141809",
+          "show": "蜜獾吃书",
+          "title": "173.弹劾：如何罢免一位总统",
+          "url": "/wiki/sources/173-tanhe-ruhe-bamian-yiwei-zongtong-963141809/"
+        },
+        {
+          "episode_file": "78.西方决斗史：出剑吧！为了荣誉！ [687731000].md",
+          "key": "78-xifang-juedou-shi-chujian-ba-weile-rongyu-687731000",
+          "show": "蜜獾吃书",
+          "title": "78.西方决斗史：出剑吧！为了荣誉！",
+          "url": "/wiki/sources/78-xifang-juedou-shi-chujian-ba-weile-rongyu-687731000/"
+        },
+        {
+          "episode_file": "GLT9231431046 [GLT9231431046].md",
+          "key": "685-hamilton-duel-to-the-death-part-3-glt9231431046",
+          "show": "The Rest Is History",
+          "title": "685. Hamilton: Duel to the Death (Part 3)",
+          "url": "/wiki/sources/685-hamilton-duel-to-the-death-part-3-glt9231431046/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/alexanderhamilton/"
     },
     "AlexandraSuichBass": {
       "episode_count": 1,
@@ -7445,9 +7498,9 @@
       "url": "/wiki/entities/demishassabis/"
     },
     "DemocraticRepublicanParty": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6535571769 [GLT6535571769].md",
@@ -7455,9 +7508,16 @@
           "show": "The Rest Is History",
           "title": "686. Jefferson: The Betrayal of Liberty (Part 4)",
           "url": "/wiki/sources/686-jefferson-the-betrayal-of-liberty-part-4-glt6535571769/"
+        },
+        {
+          "episode_file": "GLT9231431046 [GLT9231431046].md",
+          "key": "685-hamilton-duel-to-the-death-part-3-glt9231431046",
+          "show": "The Rest Is History",
+          "title": "685. Hamilton: Duel to the Death (Part 3)",
+          "url": "/wiki/sources/685-hamilton-duel-to-the-death-part-3-glt9231431046/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-08-30",
       "url": "/wiki/entities/democraticrepublicanparty/"
     },
     "DengFamilyAnEraLateHan": {
@@ -8776,6 +8836,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/eliteendorsementreputationmaking/"
+    },
+    "ElizaHamilton": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9231431046 [GLT9231431046].md",
+          "key": "685-hamilton-duel-to-the-death-part-3-glt9231431046",
+          "show": "The Rest Is History",
+          "title": "685. Hamilton: Duel to the Death (Part 3)",
+          "url": "/wiki/sources/685-hamilton-duel-to-the-death-part-3-glt9231431046/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/elizahamilton/"
     },
     "ElizabethI": {
       "episode_count": 6,
@@ -10606,9 +10682,9 @@
       "url": "/wiki/concepts/federalresearchfundingpoliticalrisk/"
     },
     "FederalistParty": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6535571769 [GLT6535571769].md",
@@ -10616,9 +10692,16 @@
           "show": "The Rest Is History",
           "title": "686. Jefferson: The Betrayal of Liberty (Part 4)",
           "url": "/wiki/sources/686-jefferson-the-betrayal-of-liberty-part-4-glt6535571769/"
+        },
+        {
+          "episode_file": "GLT9231431046 [GLT9231431046].md",
+          "key": "685-hamilton-duel-to-the-death-part-3-glt9231431046",
+          "show": "The Rest Is History",
+          "title": "685. Hamilton: Duel to the Death (Part 3)",
+          "url": "/wiki/sources/685-hamilton-duel-to-the-death-part-3-glt9231431046/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-08-30",
       "url": "/wiki/entities/federalistparty/"
     },
     "FeiFeiLi": {
@@ -10990,9 +11073,9 @@
       "url": "/wiki/concepts/findesiecleviennacrisisreading/"
     },
     "FirstPartySystem": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6535571769 [GLT6535571769].md",
@@ -11000,9 +11083,16 @@
           "show": "The Rest Is History",
           "title": "686. Jefferson: The Betrayal of Liberty (Part 4)",
           "url": "/wiki/sources/686-jefferson-the-betrayal-of-liberty-part-4-glt6535571769/"
+        },
+        {
+          "episode_file": "GLT9231431046 [GLT9231431046].md",
+          "key": "685-hamilton-duel-to-the-death-part-3-glt9231431046",
+          "show": "The Rest Is History",
+          "title": "685. Hamilton: Duel to the Death (Part 3)",
+          "url": "/wiki/sources/685-hamilton-duel-to-the-death-part-3-glt9231431046/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-08-30",
       "url": "/wiki/concepts/firstpartysystem/"
     },
     "FiveGuys": {
@@ -12874,6 +12964,45 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/haidilao/"
     },
+    "HamiltonBurrDuel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9231431046 [GLT9231431046].md",
+          "key": "685-hamilton-duel-to-the-death-part-3-glt9231431046",
+          "show": "The Rest Is History",
+          "title": "685. Hamilton: Duel to the Death (Part 3)",
+          "url": "/wiki/sources/685-hamilton-duel-to-the-death-part-3-glt9231431046/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/hamiltonburrduel/"
+    },
+    "HamiltonianEconomicNationalism": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "179.先救日元再救长债，“救火队长”贝森特在走一条怎样的钢丝？ [lqJc6VZ_1UNGNKPDW9d5kBSa_oUo].md",
+          "key": "179-xian-jiu-riyuan-zai-jiu-changzhai-jiuhuoduizhang-beisente-zai-zou-yi-tiao-zenyang-de-gangsi-lqjc6vz-1ungnkpdw9d5kbsa-ouo",
+          "show": "起朱楼宴宾客",
+          "title": "179.先救日元再救长债，“救火队长”贝森特在走一条怎样的钢丝？",
+          "url": "/wiki/sources/179-xian-jiu-riyuan-zai-jiu-changzhai-jiuhuoduizhang-beisente-zai-zou-yi-tiao-zenyang-de-gangsi-lqjc6vz-1ungnkpdw9d5kbsa-ouo/"
+        },
+        {
+          "episode_file": "GLT9231431046 [GLT9231431046].md",
+          "key": "685-hamilton-duel-to-the-death-part-3-glt9231431046",
+          "show": "The Rest Is History",
+          "title": "685. Hamilton: Duel to the Death (Part 3)",
+          "url": "/wiki/sources/685-hamilton-duel-to-the-death-part-3-glt9231431046/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/hamiltonianeconomicnationalism/"
+    },
     "HanCavalryFormation": {
       "episode_count": 2,
       "show_count": 1,
@@ -13577,6 +13706,29 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/hongmengzhixingg9/"
+    },
+    "HonorDuelCulture": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "78.西方决斗史：出剑吧！为了荣誉！ [687731000].md",
+          "key": "78-xifang-juedou-shi-chujian-ba-weile-rongyu-687731000",
+          "show": "蜜獾吃书",
+          "title": "78.西方决斗史：出剑吧！为了荣誉！",
+          "url": "/wiki/sources/78-xifang-juedou-shi-chujian-ba-weile-rongyu-687731000/"
+        },
+        {
+          "episode_file": "GLT9231431046 [GLT9231431046].md",
+          "key": "685-hamilton-duel-to-the-death-part-3-glt9231431046",
+          "show": "The Rest Is History",
+          "title": "685. Hamilton: Duel to the Death (Part 3)",
+          "url": "/wiki/sources/685-hamilton-duel-to-the-death-part-3-glt9231431046/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/honorduelculture/"
     },
     "HotelRetailFlywheel": {
       "episode_count": 2,
@@ -23541,9 +23693,9 @@
       "url": "/wiki/entities/paypal/"
     },
     "PeacefulTransferOfPower": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6535571769 [GLT6535571769].md",
@@ -23551,9 +23703,16 @@
           "show": "The Rest Is History",
           "title": "686. Jefferson: The Betrayal of Liberty (Part 4)",
           "url": "/wiki/sources/686-jefferson-the-betrayal-of-liberty-part-4-glt6535571769/"
+        },
+        {
+          "episode_file": "GLT9231431046 [GLT9231431046].md",
+          "key": "685-hamilton-duel-to-the-death-part-3-glt9231431046",
+          "show": "The Rest Is History",
+          "title": "685. Hamilton: Duel to the Death (Part 3)",
+          "url": "/wiki/sources/685-hamilton-duel-to-the-death-part-3-glt9231431046/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-08-30",
       "url": "/wiki/concepts/peacefultransferofpower/"
     },
     "PekingUniversityThirdHospital": {
@@ -23777,6 +23936,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/phaeacians/"
+    },
+    "PhilipHamilton": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9231431046 [GLT9231431046].md",
+          "key": "685-hamilton-duel-to-the-death-part-3-glt9231431046",
+          "show": "The Rest Is History",
+          "title": "685. Hamilton: Duel to the Death (Part 3)",
+          "url": "/wiki/sources/685-hamilton-duel-to-the-death-part-3-glt9231431046/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/philiphamilton/"
     },
     "PhilipOfCoburg": {
       "episode_count": 1,
@@ -24402,6 +24577,29 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/privatefavorappointmenterosion/"
+    },
+    "ProceduralizedViolence": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "78.西方决斗史：出剑吧！为了荣誉！ [687731000].md",
+          "key": "78-xifang-juedou-shi-chujian-ba-weile-rongyu-687731000",
+          "show": "蜜獾吃书",
+          "title": "78.西方决斗史：出剑吧！为了荣誉！",
+          "url": "/wiki/sources/78-xifang-juedou-shi-chujian-ba-weile-rongyu-687731000/"
+        },
+        {
+          "episode_file": "GLT9231431046 [GLT9231431046].md",
+          "key": "685-hamilton-duel-to-the-death-part-3-glt9231431046",
+          "show": "The Rest Is History",
+          "title": "685. Hamilton: Duel to the Death (Part 3)",
+          "url": "/wiki/sources/685-hamilton-duel-to-the-death-part-3-glt9231431046/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/proceduralizedviolence/"
     },
     "ProcedurelessPoliticalPurge": {
       "episode_count": 2,
@@ -31864,6 +32062,29 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/weakpositionpacification/"
+    },
+    "WeaponTechnologyDuelLethality": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "78.西方决斗史：出剑吧！为了荣誉！ [687731000].md",
+          "key": "78-xifang-juedou-shi-chujian-ba-weile-rongyu-687731000",
+          "show": "蜜獾吃书",
+          "title": "78.西方决斗史：出剑吧！为了荣誉！",
+          "url": "/wiki/sources/78-xifang-juedou-shi-chujian-ba-weile-rongyu-687731000/"
+        },
+        {
+          "episode_file": "GLT9231431046 [GLT9231431046].md",
+          "key": "685-hamilton-duel-to-the-death-part-3-glt9231431046",
+          "show": "The Rest Is History",
+          "title": "685. Hamilton: Duel to the Death (Part 3)",
+          "url": "/wiki/sources/685-hamilton-duel-to-the-death-part-3-glt9231431046/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/weapontechnologyduellethality/"
     },
     "WeiHuanLateHan": {
       "episode_count": 1,

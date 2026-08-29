@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2017
+topic_total_pages: 2018
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -4004,6 +4004,9 @@ topic_entities:
   - key: "Hamas"
     title: "Hamas"
     url: "/wiki/entities/hamas/"
+  - key: "HamiltonBurrDuel"
+    title: "Hamilton-Burr Duel"
+    url: "/wiki/entities/hamiltonburrduel/"
   - key: "HansWilsdorfFoundation"
     title: "Hans Wilsdorf Foundation"
     url: "/wiki/entities/hanswilsdorffoundation/"
