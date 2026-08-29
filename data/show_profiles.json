@@ -2,10 +2,10 @@
   "version": 1,
   "shows": {
     "42章经": {
-      "episode_count": 12,
+      "episode_count": 13,
       "earliest_episode_date": "2024-11-09",
-      "latest_episode_date": "2026-08-08",
-      "latest_episode_file": "从蒸馏到合成数据到 RSI，模型竞争的下一个焦点是什么？｜对谈 Evolvent AI 联创孟繁青 [lq1xnhp4MuC3iViDqhVd0Ul77QmI].md",
+      "latest_episode_date": "2026-08-29",
+      "latest_episode_file": "一个人、两周、数百美元，如何训出登顶 Hugging Face 的模型 ｜ 对谈研究员逯雨鑫 [lpXxRnwDHgNSrxuyHrfrv5t1lOjT].md",
       "source_note_count": 12,
       "topic_matched_source_note_count": 10,
       "topics": [
@@ -48,8 +48,8 @@
       "start_here_episode_files": [
         "从蒸馏到合成数据到 RSI，模型竞争的下一个焦点是什么？｜对谈 Evolvent AI 联创孟繁青 [lq1xnhp4MuC3iViDqhVd0Ul77QmI].md",
         "AI 发展了 4 年，把应用发展没了？｜AI 年中复盘 [lgTuy-EszlCI5YaGUocYNdIgwmLX].md",
-        "少有的深度参与过字节、美团组织建设的人｜对谈 AI 创业者魏小康 [loF0mb7U5BUzEC1qTXQrt9krAiUD].md",
-        "泡沫的四个必要不充分条件 ｜ 对谈经济学者朱宁教授 [lo4XhK5fNW1DCoRwaCtTcSfJjr78].md"
+        "一个人、两周、数百美元，如何训出登顶 Hugging Face 的模型 ｜ 对谈研究员逯雨鑫 [lpXxRnwDHgNSrxuyHrfrv5t1lOjT].md",
+        "少有的深度参与过字节、美团组织建设的人｜对谈 AI 创业者魏小康 [loF0mb7U5BUzEC1qTXQrt9krAiUD].md"
       ]
     },
     "Acquired": {
