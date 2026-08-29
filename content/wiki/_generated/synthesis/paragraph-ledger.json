@@ -389,12 +389,13 @@
       "1728ec139408181cbf32d64d0e7235b0b1fbc548128d242cc4265fbc114de8e7",
       "c7333d3c02f7065204859f96df77ddef757d5567ab9c1ac2872b8e018c162577",
       "fa2bb49857ac26cb533ae14a4cc21fb8c9bcedab808a46832dcf8b31ade00a18",
-      "4aec524162783153bd9de6fc8aaf28b4b45a60c3433caa62e6442f020af99d44"
+      "4aec524162783153bd9de6fc8aaf28b4b45a60c3433caa62e6442f020af99d44",
+      "5463cac3a05898616fdcdbe4bbf0fffe113a112bf4093056579dfb7f48e3eca2"
     ],
-    "paragraph_count": 389
+    "paragraph_count": 390
   },
-  "overview_commit": "c8f884784545fd70f854aebe7d47e554d7420ebb",
-  "overview_digest": "76e4e84d85f888597c67667d8eae4acb070f5dbd2b320453bc61d0c8a03c2b40",
+  "overview_commit": "67984d50960b30a588f1962e10c3e04b93419c5f",
+  "overview_digest": "91b764c467b5581988f7bfec16c435087afbecc00892ff4aabf3b9a5ba5b6b36",
   "paragraphs": [
     {
       "id": "61cf6b309b514f4094b53ccabb9cd70b5b4534f498082607452b28eb9aa1614c",
@@ -12019,6 +12020,39 @@
         "ProceduralizedViolence",
         "TheRestIsHistory",
         "WeaponTechnologyDuelLethality"
+      ]
+    },
+    {
+      "id": "5463cac3a05898616fdcdbe4bbf0fffe113a112bf4093056579dfb7f48e3eca2",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "business-and-markets",
+        "governance-and-institutions"
+      ],
+      "text": "The latest addition is [[ep-44-human-centered-credit-building-explainable-ai-for-lending-in-an-agentic-world|EP 44: Human-Centered Credit - Building Explainable AI for Lending in an Agentic World]], a [[DataScienceWithSam]] episode with [[TamaraClay]] of [[MPWRAI]] on credit access and explainable lending AI. It adds [[TamaraClay]], [[MPWRAI]], [[ExplainableAILending]], [[PolicyBoundAgenticLendingSupport]], [[HumanInTheLoopCreditDecisioning]], and [[NontraditionalBorrowerCreditAccess]], while extending [[ExplainableAIBusinessDecisions]], [[AIGovernanceAndCompliance]], [[AIModelBiasGovernance]], [[AIVerification]], [[HumanJudgmentUnderAI]], and [[AIDataReadiness]]. Its core synthesis is that high-stakes lending agents should gather, package, and query borrower information inside lender-policy boundaries while deterministic models, audit trails, bias audits, adverse-action explanations, and human reviewers preserve the final decision boundary. No settled contradiction is recorded; MPWR AI's access, risk, default, and manual-work claims remain founder-reported and source-scoped pending independent outcome evidence.",
+      "topic_scores": {
+        "ai-and-technology": 4,
+        "business-and-markets": 2,
+        "governance-and-institutions": 3,
+        "psychology-and-personal-development": 2,
+        "science-health-and-climate": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AIDataReadiness",
+        "AIGovernanceAndCompliance",
+        "AIModelBiasGovernance",
+        "AIVerification",
+        "DataScienceWithSam",
+        "ExplainableAIBusinessDecisions",
+        "ExplainableAILending",
+        "HumanInTheLoopCreditDecisioning",
+        "HumanJudgmentUnderAI",
+        "MPWRAI",
+        "NontraditionalBorrowerCreditAccess",
+        "PolicyBoundAgenticLendingSupport",
+        "TamaraClay",
+        "ep-44-human-centered-credit-building-explainable-ai-for-lending-in-an-agentic-world"
       ]
     }
   ],

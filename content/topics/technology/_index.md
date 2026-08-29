@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2586
+topic_total_pages: 2587
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1696,6 +1696,9 @@ topic_concepts:
   - key: "ExplainableAIBusinessDecisions"
     title: "Explainable AI for Business Decisions"
     url: "/wiki/concepts/explainableaibusinessdecisions/"
+  - key: "ExplainableAILending"
+    title: "Explainable AI Lending"
+    url: "/wiki/concepts/explainableailending/"
   - key: "ExtremeEnvironmentPhysics"
     title: "Extreme Environment Physics / 极端环境物理"
     url: "/wiki/concepts/extremeenvironmentphysics/"

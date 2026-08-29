@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2024
+topic_total_pages: 2026
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -952,6 +952,9 @@ topic_concepts:
   - key: "ExplainableAIBusinessDecisions"
     title: "Explainable AI for Business Decisions"
     url: "/wiki/concepts/explainableaibusinessdecisions/"
+  - key: "ExplainableAILending"
+    title: "Explainable AI Lending"
+    url: "/wiki/concepts/explainableailending/"
   - key: "ExportTaxFraudCreditCrisis"
     title: "Export Tax Fraud Credit Crisis"
     url: "/wiki/concepts/exporttaxfraudcreditcrisis/"
@@ -2023,6 +2026,9 @@ topic_concepts:
   - key: "PolicyAnnouncementTradingRisk"
     title: "Policy Announcement Trading Risk"
     url: "/wiki/concepts/policyannouncementtradingrisk/"
+  - key: "PolicyBoundAgenticLendingSupport"
+    title: "Policy-Bound Agentic Lending Support"
+    url: "/wiki/concepts/policyboundagenticlendingsupport/"
   - key: "PolicyDrivenMarketRally"
     title: "Policy-Driven Market Rally"
     url: "/wiki/concepts/policydrivenmarketrally/"

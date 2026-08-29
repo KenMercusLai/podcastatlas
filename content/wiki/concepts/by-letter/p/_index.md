@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5968
+wiki_total_pages: 5972
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -650,6 +650,9 @@ wiki_pages:
   - key: "PolicyAnnouncementTradingRisk"
     title: "Policy Announcement Trading Risk"
     url: "/wiki/concepts/policyannouncementtradingrisk/"
+  - key: "PolicyBoundAgenticLendingSupport"
+    title: "Policy-Bound Agentic Lending Support"
+    url: "/wiki/concepts/policyboundagenticlendingsupport/"
   - key: "PolicyDependentLocalDevelopment"
     title: "Policy-Dependent Local Development"
     url: "/wiki/concepts/policydependentlocaldevelopment/"

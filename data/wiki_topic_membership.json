@@ -21085,6 +21085,18 @@
       "url": "/topics/politics/"
     }
   ],
+  "ExplainableAILending": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "ExportMarketCoordination": [
     {
       "key": "economics",
@@ -44911,6 +44923,13 @@
       "label": "Economics",
       "url": "/topics/economics/"
     },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "PolicyBoundAgenticLendingSupport": [
     {
       "key": "politics",
       "label": "Politics",

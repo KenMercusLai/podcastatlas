@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 8370
+wiki_total_pages: 8372
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -65,6 +65,9 @@ wiki_pages:
   - key: "TalkSanlian"
     title: "Talk三联"
     url: "/wiki/entities/talksanlian/"
+  - key: "TamaraClay"
+    title: "Tamara Clay"
+    url: "/wiki/entities/tamaraclay/"
   - key: "TanakaKakuei"
     title: "Tanaka Kakuei / 田中角荣"
     url: "/wiki/entities/tanakakakuei/"

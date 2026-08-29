@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 5968
+wiki_total_pages: 5972
 wiki_pages:
   - key: "NamingPowerSocialChange"
     title: "Naming Power In Social Change / 社会变革中的命名权"
@@ -272,6 +272,9 @@ wiki_pages:
   - key: "NontraditionalAIResearchPath"
     title: "Nontraditional AI Research Path"
     url: "/wiki/concepts/nontraditionalairesearchpath/"
+  - key: "NontraditionalBorrowerCreditAccess"
+    title: "Nontraditional Borrower Credit Access"
+    url: "/wiki/concepts/nontraditionalborrowercreditaccess/"
   - key: "NonviolentSymbolicPower"
     title: "Nonviolent Symbolic Power"
     url: "/wiki/concepts/nonviolentsymbolicpower/"

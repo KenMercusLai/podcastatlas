@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 5968
+wiki_total_pages: 5972
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -572,6 +572,9 @@ wiki_pages:
   - key: "HumanDrivenScientificAI"
     title: "Human-Driven Scientific AI"
     url: "/wiki/concepts/humandrivenscientificai/"
+  - key: "HumanInTheLoopCreditDecisioning"
+    title: "Human-in-the-Loop Credit Decisioning"
+    url: "/wiki/concepts/humanintheloopcreditdecisioning/"
   - key: "HumanInTheLoopLegalAI"
     title: "Human-In-The-Loop Legal AI"
     url: "/wiki/concepts/humaninthelooplegalai/"

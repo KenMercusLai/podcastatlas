@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 8370
+wiki_total_pages: 8372
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -1097,6 +1097,9 @@ wiki_pages:
   - key: "MPEGPatentPool"
     title: "MPEG Patent Pool"
     url: "/wiki/entities/mpegpatentpool/"
+  - key: "MPWRAI"
+    title: "MPWR AI"
+    url: "/wiki/entities/mpwrai/"
   - key: "MrGameShowFlorida"
     title: "Mr. Game Show Florida"
     url: "/wiki/entities/mrgameshowflorida/"

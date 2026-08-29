@@ -17151,6 +17151,10 @@
     "title": "Explainable AI for Business Decisions",
     "url": "/wiki/concepts/explainableaibusinessdecisions/"
   },
+  "ExplainableAILending": {
+    "title": "Explainable AI Lending",
+    "url": "/wiki/concepts/explainableailending/"
+  },
   "ExplodingKittens": {
     "title": "Exploding Kittens",
     "url": "/wiki/entities/explodingkittens/"
@@ -24090,6 +24094,10 @@
   "HumanFlourishingProfit": {
     "title": "Human Flourishing Profit",
     "url": "/wiki/concepts/humanflourishingprofit/"
+  },
+  "HumanInTheLoopCreditDecisioning": {
+    "title": "Human-in-the-Loop Credit Decisioning",
+    "url": "/wiki/concepts/humanintheloopcreditdecisioning/"
   },
   "HumanInTheLoopLegalAI": {
     "title": "Human-In-The-Loop Legal AI",
@@ -31607,6 +31615,10 @@
     "title": "MP Materials",
     "url": "/wiki/entities/mpmaterials/"
   },
+  "MPWRAI": {
+    "title": "MPWR AI",
+    "url": "/wiki/entities/mpwrai/"
+  },
   "MSPChannelDistribution": {
     "title": "MSP Channel Distribution",
     "url": "/wiki/concepts/mspchanneldistribution/"
@@ -36083,6 +36095,10 @@
     "title": "Nontraditional AI Research Path",
     "url": "/wiki/concepts/nontraditionalairesearchpath/"
   },
+  "NontraditionalBorrowerCreditAccess": {
+    "title": "Nontraditional Borrower Credit Access",
+    "url": "/wiki/concepts/nontraditionalborrowercreditaccess/"
+  },
   "NonviolentSymbolicPower": {
     "title": "Nonviolent Symbolic Power",
     "url": "/wiki/concepts/nonviolentsymbolicpower/"
@@ -39138,6 +39154,10 @@
   "PolicyAnnouncementTradingRisk": {
     "title": "Policy Announcement Trading Risk",
     "url": "/wiki/concepts/policyannouncementtradingrisk/"
+  },
+  "PolicyBoundAgenticLendingSupport": {
+    "title": "Policy-Bound Agentic Lending Support",
+    "url": "/wiki/concepts/policyboundagenticlendingsupport/"
   },
   "PolicyDependentLocalDevelopment": {
     "title": "Policy-Dependent Local Development",
@@ -48738,6 +48758,10 @@
   "TallTaleTradition": {
     "title": "Tall-Tale Tradition",
     "url": "/wiki/concepts/talltaletradition/"
+  },
+  "TamaraClay": {
+    "title": "Tamara Clay",
+    "url": "/wiki/entities/tamaraclay/"
   },
   "TamenDeXing": {
     "title": "《他们的性》",
@@ -59370,6 +59394,10 @@
   "ep-4-a-i-talk-with-a-rocket-scientist-from-nasa": {
     "title": "EP 4: A.I. talk with a Rocket Scientist from NASA",
     "url": "/wiki/sources/ep-4-a-i-talk-with-a-rocket-scientist-from-nasa/"
+  },
+  "ep-44-human-centered-credit-building-explainable-ai-for-lending-in-an-agentic-world": {
+    "title": "EP 44: Human-Centered Credit - Building Explainable AI for Lending in an Agentic World",
+    "url": "/wiki/sources/ep-44-human-centered-credit-building-explainable-ai-for-lending-in-an-agentic-world/"
   },
   "ep-45-why-ai-agents-break-in-production-the-missing-harness-in-your-data-stack": {
     "title": "EP 45: Why AI Agents Break in Production: The Missing Harness in Your Data Stack",

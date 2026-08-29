@@ -13736,3 +13736,11 @@ Ran lint without saving a new lint-report.md. Health, identity, deterministic, a
 ## [2026-08-30] lint | Wiki health check
 
 Ran lint after health and identity checks passed. Health scanned 16,053 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-28 with 15,429 nodes while the current lint scan covered 16,053 pages, so bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM and no provider model/key environment variables are configured in this session; a bounded in-session review of the script sample plus orphan and fragile-bridge endpoint pages found no direct contradictions or stale summaries, with depth/schema drift in several legacy concept pages. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-30] ingest | EP 44: Human-Centered Credit - Building Explainable AI for Lending in an Agentic World
+
+Ingested the 2026-07-04 Data Science With Sam episode with Tamara Clay of MPWR AI on explainable AI lending, policy-bound agents for onboarding and underwriting support, deterministic decisioning, audit and bias-review controls, human-in-the-loop credit decisions, adverse-action explainability, and credit access for gig workers, creators, thin-file borrowers, fractional leaders, nomadic workers, and solo entrepreneurs. Created the source note plus `TamaraClay`, `MPWRAI`, `ExplainableAILending`, `PolicyBoundAgenticLendingSupport`, `HumanInTheLoopCreditDecisioning`, and `NontraditionalBorrowerCreditAccess`; updated `index` and `overview`. No settled contradiction found; MPWR AI's access, default-risk, and manual-work KPIs remain source-scoped founder claims pending independent validation.
+
+## [2026-08-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
