@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 5902
+wiki_total_pages: 5907
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -71,6 +71,9 @@ wiki_pages:
   - key: "CancerImmuneRecognitionProblem"
     title: "Cancer Immune Recognition Problem"
     url: "/wiki/concepts/cancerimmunerecognitionproblem/"
+  - key: "CancerImmunotherapyAccess"
+    title: "Cancer Immunotherapy Access"
+    url: "/wiki/concepts/cancerimmunotherapyaccess/"
   - key: "CancerVaccinePlatform"
     title: "Cancer Vaccine Platform"
     url: "/wiki/concepts/cancervaccineplatform/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine](sources/all-in-with-chamath-jason-sacks-friedberg-nvidias-historic-quarter-saas-comeback-bessent-vs-druck-americas-debt-crisis-cancer-vaccine-42597345.md) — All-In episode on Nvidia and Salesforce earnings, AI-era SaaS systems of record, Bessent and Druckenmiller on Treasury buybacks and U.S. debt risk, AI-assisted writing disclosure, persistent Grokbot agents, Meta parental controls, and personalized cancer immunotherapy access.
 - [《资治通鉴·汉纪》813丨古代的高官竟也会被殴打？](sources/zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv.md) — 芮淇讲透资治通鉴 episode on 133 CE Emperor Shun, Lang Yi's drought remonstrance and recommendations, Zuo Xiong's opposition to private-favor titles for Song E and Liang Ji, Liu Ju's nine-minister dignity case, and Li Gu's disaster-policy critique of wet-nurse and outer-relative power.
 - [《资治通鉴·汉纪》814丨当官不为民作主，不如回家卖红薯](sources/zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p.md) — 芮淇讲透资治通鉴 episode on 133 CE Emperor Shun's Xuande Hall ground split inquiry, Li Gu's critique of private-favor appointments, Shangshu and court-core repair, eunuch-power limits, and Ma Rong's public-welfare governance memorial.
 - [Branded fruit: How produce got "Honeycrisp-ified"](sources/branded-fruit-how-produce-got-honeycrisp-ified.md) - Planet Money episode on Scarlet Sunrise, Honeycrisp, plant-variety IP, university produce commercialization, and the race to differentiate fresh produce.
@@ -9941,6 +9942,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Agentic System-of-Record Moat](concepts/AgenticSystemOfRecordMoat.md) — AI-era enterprise software defense where agents need trusted context, permissions, workflows, and auditable state from systems of record.
+- [U.S. Fiscal Debt Spiral Risk](concepts/USFiscalDebtSpiralRisk.md) — Macro risk that deficits, refinancing pressure, high long-term yields, and spending incentives reinforce one another.
+- [AI-Assisted Writing Disclosure](concepts/AIAssistedWritingDisclosure.md) — Norm question for when public writers should disclose AI drafting, editing, or structuring help under a signed byline.
+- [Persistent Cloud Agents](concepts/PersistentCloudAgents.md) — Agent pattern where delegated work continues in cloud infrastructure after the user's local session ends.
+- [Cancer Immunotherapy Access](concepts/CancerImmunotherapyAccess.md) — Cost, patent, regulatory, right-to-try, and patient-access boundary around personalized cancer immunotherapy.
 - [Private Favor Appointment Erosion / 私恩授官侵蚀](concepts/PrivateFavorAppointmentErosion.md) — Pattern where rulers or palace interests convert intimate favor, kinship, wet-nurse status, and attendant proximity into public titles or offices, weakening merit, authority, and political trust.
 - [Ministerial Dignity Protection / 九卿体面保护](concepts/MinisterialDignityProtection.md) — Shun-era institutional repair that treats beating or humiliating nine ministers as damage to public office dignity rather than ordinary discipline.
 - [Court-Core Rectification / 朝廷核心校正式治理](concepts/CourtCoreRectification.md) — Governance pattern where advisers argue that the emperor, Shangshu, central court, and palace access must be repaired before outer administration can be corrected.

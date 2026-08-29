@@ -13145,6 +13145,10 @@ Ingested the Marketplace Tech episode on Meta's proposed teen-safety settlement,
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-29] ingest | Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine
+
+Ingested the 2026-08-29 All-In episode on Nvidia's reported historic quarter, Salesforce's AI-era SaaS rebound, Bessent and Druckenmiller on Treasury buybacks and U.S. debt risk, AI-assisted op-ed disclosure, persistent Grokbot agents, Meta parental controls, and Moderna/Merck personalized cancer immunotherapy. Created the source note plus `AgenticSystemOfRecordMoat`, `USFiscalDebtSpiralRisk`, `AIAssistedWritingDisclosure`, `PersistentCloudAgents`, and `CancerImmunotherapyAccess`; updated `Salesforce`, `StanleyDruckenmiller`, `Grokbot`, `ScottBessent`, `TreasuryBuybackPolicy`, `Moderna`, `CancerVaccinePlatform`, `IndividualizedCancerVaccine`, `IndividualizedCancerVaccineManufacturing`, `index`, and `overview`. No settled contradiction found; market, fiscal, authorship, Ukraine, parental-control, and biotech-cost claims remain source-scoped.
+
 ## [2026-08-29] ingest | 《资治通鉴·汉纪》814丨当官不为民作主，不如回家卖红薯
 
 Ingested the 2026-07-11 芮淇讲透资治通鉴 episode on 133 CE Emperor Shun's Xuande Hall ground split inquiry, Li Gu's critique of private-favor appointments and court-core decay, eunuch-power limits, and Ma Rong's public-welfare governance memorial. Created the source note plus `PrivateFavorAppointmentErosion`, `CourtCoreRectification`, and `BeneficialGovernanceDelivery`; updated `LiGuLateHan`, `EmperorShunOfHan`, `MaRongLateHan`, `OmenCodedRemonstrance`, `index`, and `overview`. No settled contradiction found; the meditation advertisement/opening self-cultivation frame, minor palace-office holders, and exact staffing figures remain source-scoped.
@@ -13376,6 +13380,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-29] ingest | 《资治通鉴·汉纪》813丨古代的高官竟也会被殴打？
 
 Ingested the 2026-07-11 芮淇讲透资治通鉴 episode on 133 CE Emperor Shun, Lang Yi's drought remonstrance and recommendations, Zuo Xiong's opposition to private-favor titles for Song E and Liang Ji, Liu Ju's nine-minister dignity case, and Li Gu's disaster-policy critique of wet-nurse and outer-relative power. Created the source note plus `LangYiLateHan` and `MinisterialDignityProtection`; updated `EmperorShunOfHan`, `ZuoXiongLateHan`, `SongELateHan`, `LiuJuLateHan`, `LiangShangLateHan`, `LiangJiLateHan`, `LiGuLateHan`, `PrivateFavorAppointmentErosion`, `OmenCodedRemonstrance`, `index`, and `overview`. No settled contradiction found; transcript forms 郎毅, 黄穹, 梁毅/乡义侯, and 刘巨 were normalized cautiously to 郎顗, 黄琼, 梁冀/Xiangyi, and 刘矩.
+
+## [2026-08-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-29] lint | Wiki health check
 

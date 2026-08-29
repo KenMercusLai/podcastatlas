@@ -321,6 +321,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/aiassistantaugmentation/"
     },
+    "AIAssistedWritingDisclosure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine [42597345].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-nvidias-historic-quarter-saas-comeback-bessent-vs-druck-americas-debt-crisis-cancer-vaccine-42597345",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-nvidias-historic-quarter-saas-comeback-bessent-vs-druck-americas-debt-crisis-cancer-vaccine-42597345/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/aiassistedwritingdisclosure/"
+    },
     "AIChipSpecialization": {
       "episode_count": 8,
       "show_count": 6,
@@ -1527,6 +1543,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/agenticdataengineeringharness/"
+    },
+    "AgenticSystemOfRecordMoat": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine [42597345].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-nvidias-historic-quarter-saas-comeback-bessent-vs-druck-americas-debt-crisis-cancer-vaccine-42597345",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-nvidias-historic-quarter-saas-comeback-bessent-vs-druck-americas-debt-crisis-cancer-vaccine-42597345/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/agenticsystemofrecordmoat/"
     },
     "AgilityRobotics": {
       "episode_count": 1,
@@ -3935,10 +3967,26 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/cancerimmunerecognitionproblem/"
     },
+    "CancerImmunotherapyAccess": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine [42597345].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-nvidias-historic-quarter-saas-comeback-bessent-vs-druck-americas-debt-crisis-cancer-vaccine-42597345",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-nvidias-historic-quarter-saas-comeback-bessent-vs-druck-americas-debt-crisis-cancer-vaccine-42597345/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/cancerimmunotherapyaccess/"
+    },
     "CancerVaccinePlatform": {
-      "episode_count": 8,
-      "show_count": 7,
-      "source_note_count": 8,
+      "episode_count": 9,
+      "show_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "咖啡豆｜传统美食广场接连闭店，「大食代们」遇到哪些发展阻碍？ [1007530222].md",
@@ -3995,9 +4043,16 @@
           "show": "硅谷101",
           "title": "E250｜mRNA的第二战场：对话英博，拆解Moderna人类首个肿瘤疫苗三期突破",
           "url": "/wiki/sources/e250-mrna-de-dier-zhanchang-duihua-yingbo-chaijie-moderna-renlei-shouge-zhongliu-yimiao-sanqi-tupo-73a69583-98ee-43d6-a892-3e7c93012dd9/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine [42597345].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-nvidias-historic-quarter-saas-comeback-bessent-vs-druck-americas-debt-crisis-cancer-vaccine-42597345",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-nvidias-historic-quarter-saas-comeback-bessent-vs-druck-americas-debt-crisis-cancer-vaccine-42597345/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-29",
       "url": "/wiki/concepts/cancervaccineplatform/"
     },
     "CangtingBattleLateHan": {
@@ -10735,6 +10790,29 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/goodfriendsfilm/"
     },
+    "Grokbot": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback [42442555].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine [42597345].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-nvidias-historic-quarter-saas-comeback-bessent-vs-druck-americas-debt-crisis-cancer-vaccine-42597345",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-nvidias-historic-quarter-saas-comeback-bessent-vs-druck-americas-debt-crisis-cancer-vaccine-42597345/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/grokbot/"
+    },
     "GuanBaLateHan": {
       "episode_count": 3,
       "show_count": 1,
@@ -13016,9 +13094,9 @@
       "url": "/wiki/concepts/importedtroopslocalelitecleavage/"
     },
     "IndividualizedCancerVaccine": {
-      "episode_count": 4,
-      "show_count": 4,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 5,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "咖啡豆｜传统美食广场接连闭店，「大食代们」遇到哪些发展阻碍？ [1007530222].md",
@@ -13047,15 +13125,22 @@
           "show": "硅谷101",
           "title": "E250｜mRNA的第二战场：对话英博，拆解Moderna人类首个肿瘤疫苗三期突破",
           "url": "/wiki/sources/e250-mrna-de-dier-zhanchang-duihua-yingbo-chaijie-moderna-renlei-shouge-zhongliu-yimiao-sanqi-tupo-73a69583-98ee-43d6-a892-3e7c93012dd9/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine [42597345].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-nvidias-historic-quarter-saas-comeback-bessent-vs-druck-americas-debt-crisis-cancer-vaccine-42597345",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-nvidias-historic-quarter-saas-comeback-bessent-vs-druck-americas-debt-crisis-cancer-vaccine-42597345/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-29",
       "url": "/wiki/concepts/individualizedcancervaccine/"
     },
     "IndividualizedCancerVaccineManufacturing": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "E250｜mRNA的第二战场：对话英博，拆解Moderna人类首个肿瘤疫苗三期突破 [73a69583-98ee-43d6-a892-3e7c93012dd9].md",
@@ -13063,9 +13148,16 @@
           "show": "硅谷101",
           "title": "E250｜mRNA的第二战场：对话英博，拆解Moderna人类首个肿瘤疫苗三期突破",
           "url": "/wiki/sources/e250-mrna-de-dier-zhanchang-duihua-yingbo-chaijie-moderna-renlei-shouge-zhongliu-yimiao-sanqi-tupo-73a69583-98ee-43d6-a892-3e7c93012dd9/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine [42597345].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-nvidias-historic-quarter-saas-comeback-bessent-vs-druck-americas-debt-crisis-cancer-vaccine-42597345",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-nvidias-historic-quarter-saas-comeback-bessent-vs-druck-americas-debt-crisis-cancer-vaccine-42597345/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-29",
       "url": "/wiki/concepts/individualizedcancervaccinemanufacturing/"
     },
     "IndustrialInspectionRobotics": {
@@ -19000,9 +19092,9 @@
       "url": "/wiki/concepts/modelinfracodesign/"
     },
     "Moderna": {
-      "episode_count": 4,
-      "show_count": 4,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 5,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "咖啡豆｜传统美食广场接连闭店，「大食代们」遇到哪些发展阻碍？ [1007530222].md",
@@ -19031,9 +19123,16 @@
           "show": "硅谷101",
           "title": "E250｜mRNA的第二战场：对话英博，拆解Moderna人类首个肿瘤疫苗三期突破",
           "url": "/wiki/sources/e250-mrna-de-dier-zhanchang-duihua-yingbo-chaijie-moderna-renlei-shouge-zhongliu-yimiao-sanqi-tupo-73a69583-98ee-43d6-a892-3e7c93012dd9/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine [42597345].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-nvidias-historic-quarter-saas-comeback-bessent-vs-druck-americas-debt-crisis-cancer-vaccine-42597345",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-nvidias-historic-quarter-saas-comeback-bessent-vs-druck-americas-debt-crisis-cancer-vaccine-42597345/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-29",
       "url": "/wiki/entities/moderna/"
     },
     "ModifiableDementiaRiskFactors": {
@@ -20955,6 +21054,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/perplexitycomputer/"
+    },
+    "PersistentCloudAgents": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine [42597345].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-nvidias-historic-quarter-saas-comeback-bessent-vs-druck-americas-debt-crisis-cancer-vaccine-42597345",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-nvidias-historic-quarter-saas-comeback-bessent-vs-druck-americas-debt-crisis-cancer-vaccine-42597345/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/persistentcloudagents/"
     },
     "PersonalGuardAttackSurface": {
       "episode_count": 2,
@@ -23233,6 +23348,36 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/saboramexicosalsas/"
     },
+    "Salesforce": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "E69ADA8664814B454CA68D0D8A92C90~8584430_2026-08-10-215630-8787-0-0-10.128 [E69ADA8664814B454CA68D0D8A92C90~8584430_2026-08-10-215630-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a83899e].md",
+          "key": "ep-16-data-decoded-navigating-the-ai-revolution",
+          "show": "Data Science With Sam",
+          "title": "EP 16: Data Decoded: Navigating the AI Revolution",
+          "url": "/wiki/sources/ep-16-data-decoded-navigating-the-ai-revolution/"
+        },
+        {
+          "episode_file": "AI冲击企业软件巨头？与SAP原欣聊大模型to B的颠覆与边界 (1) [174-1].md",
+          "key": "ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1",
+          "show": "晚点聊 LateTalk",
+          "title": "174: AI冲击企业软件巨头？与SAP原欣聊大模型to B的颠覆与边界",
+          "url": "/wiki/sources/ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine [42597345].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-nvidias-historic-quarter-saas-comeback-bessent-vs-druck-americas-debt-crisis-cancer-vaccine-42597345",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-nvidias-historic-quarter-saas-comeback-bessent-vs-druck-americas-debt-crisis-cancer-vaccine-42597345/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/salesforce/"
+    },
     "SaltRevenueAgriculturalRecovery": {
       "episode_count": 1,
       "show_count": 1,
@@ -23500,9 +23645,9 @@
       "url": "/wiki/concepts/scientificprecariat/"
     },
     "ScottBessent": {
-      "episode_count": 3,
-      "show_count": 2,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "179.先救日元再救长债，“救火队长”贝森特在走一条怎样的钢丝？ [lqJc6VZ_1UNGNKPDW9d5kBSa_oUo].md",
@@ -23524,9 +23669,16 @@
           "show": "Economist Podcasts",
           "title": "Slip the Surly Bonds? Scott Bessent Goes on a Yield Trip",
           "url": "/wiki/sources/slip-the-surly-bonds-scott-bessent-goes-on-a-yield-trip-6a8eb9200c15e359f9599e1a/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine [42597345].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-nvidias-historic-quarter-saas-comeback-bessent-vs-druck-americas-debt-crisis-cancer-vaccine-42597345",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-nvidias-historic-quarter-saas-comeback-bessent-vs-druck-americas-debt-crisis-cancer-vaccine-42597345/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-29",
       "url": "/wiki/entities/scottbessent/"
     },
     "ScyllaAndCharybdis": {
@@ -24800,6 +24952,36 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/stanfordinstituteforhumancenteredai/"
+    },
+    "StanleyDruckenmiller": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "134. 投资大师系列先导篇：“他们不只赚了很多钱，更创造了理解世界的方法” [lqKjPfQc0YmgVNBoEk5JmJycWTYg].md",
+          "key": "134-touzi-dashi-xilie-xiandao-pian-tamen-bu-zhi-zhuan-le-henduo-qian-geng-chuangzao-le-lijie-shijie-de-fangfa-lqkjpfqc0ymgvnboek5jmjycwtyg",
+          "show": "起朱楼宴宾客",
+          "title": "134. 投资大师系列先导篇：“他们不只赚了很多钱，更创造了理解世界的方法”",
+          "url": "/wiki/sources/134-touzi-dashi-xilie-xiandao-pian-tamen-bu-zhi-zhuan-le-henduo-qian-geng-chuangzao-le-lijie-shijie-de-fangfa-lqkjpfqc0ymgvnboek5jmjycwtyg/"
+        },
+        {
+          "episode_file": "142. 雨森的创投观察第2集：Harness、下一个字节、2026大机会和Stanley Druckenmiller [lg4SPHlAUnrJuULqRaXS_1Gc5ufZ].md",
+          "key": "142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "142. 雨森的创投观察第2集：Harness、下一个字节、2026大机会和Stanley Druckenmiller",
+          "url": "/wiki/sources/142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine [42597345].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-nvidias-historic-quarter-saas-comeback-bessent-vs-druck-americas-debt-crisis-cancer-vaccine-42597345",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-nvidias-historic-quarter-saas-comeback-bessent-vs-druck-americas-debt-crisis-cancer-vaccine-42597345/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/stanleydruckenmiller/"
     },
     "StateDependentSelfControl": {
       "episode_count": 1,
@@ -26910,9 +27092,9 @@
       "url": "/wiki/concepts/trashcancorpusscientificai/"
     },
     "TreasuryBuybackPolicy": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "179.先救日元再救长债，“救火队长”贝森特在走一条怎样的钢丝？ [lqJc6VZ_1UNGNKPDW9d5kBSa_oUo].md",
@@ -26927,9 +27109,16 @@
           "show": "Economist Podcasts",
           "title": "Slip the Surly Bonds? Scott Bessent Goes on a Yield Trip",
           "url": "/wiki/sources/slip-the-surly-bonds-scott-bessent-goes-on-a-yield-trip-6a8eb9200c15e359f9599e1a/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine [42597345].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-nvidias-historic-quarter-saas-comeback-bessent-vs-druck-americas-debt-crisis-cancer-vaccine-42597345",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-nvidias-historic-quarter-saas-comeback-bessent-vs-druck-americas-debt-crisis-cancer-vaccine-42597345/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-29",
       "url": "/wiki/concepts/treasurybuybackpolicy/"
     },
     "TrojanHorse": {
@@ -27117,6 +27306,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/usfastfoodchinaexpansion/"
+    },
+    "USFiscalDebtSpiralRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine [42597345].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-nvidias-historic-quarter-saas-comeback-bessent-vs-druck-americas-debt-crisis-cancer-vaccine-42597345",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-nvidias-historic-quarter-saas-comeback-bessent-vs-druck-americas-debt-crisis-cancer-vaccine-42597345/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/usfiscaldebtspiralrisk/"
     },
     "UlsterDefenceAssociation": {
       "episode_count": 2,

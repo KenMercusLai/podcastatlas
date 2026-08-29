@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "u"
-wiki_total_pages: 5902
+wiki_total_pages: 5907
 wiki_pages:
   - key: "US2025ExpectationGaps"
     title: "U.S. 2025 Expectation Gaps"
@@ -26,6 +26,9 @@ wiki_pages:
   - key: "USFederalismVetoPoints"
     title: "U.S. Federalism Veto Points"
     url: "/wiki/concepts/usfederalismvetopoints/"
+  - key: "USFiscalDebtSpiralRisk"
+    title: "U.S. Fiscal Debt Spiral Risk"
+    url: "/wiki/concepts/usfiscaldebtspiralrisk/"
   - key: "USHealthInsuranceDenialPolitics"
     title: "U.S. Health Insurance Denial Politics"
     url: "/wiki/concepts/ushealthinsurancedenialpolitics/"

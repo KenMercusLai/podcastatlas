@@ -1459,6 +1459,10 @@
     "title": "AI-Assisted Website Scams",
     "url": "/wiki/concepts/aiassistedwebsitescams/"
   },
+  "AIAssistedWritingDisclosure": {
+    "title": "AI-Assisted Writing Disclosure",
+    "url": "/wiki/concepts/aiassistedwritingdisclosure/"
+  },
   "AIAtariStage": {
     "title": "AI Atari Stage",
     "url": "/wiki/concepts/aiataristage/"
@@ -3370,6 +3374,10 @@
   "AgenticSoftware": {
     "title": "Agentic Software",
     "url": "/wiki/concepts/agenticsoftware/"
+  },
+  "AgenticSystemOfRecordMoat": {
+    "title": "Agentic System-of-Record Moat",
+    "url": "/wiki/concepts/agenticsystemofrecordmoat/"
   },
   "AgenticWorkflow": {
     "title": "Agentic Workflow",
@@ -8302,6 +8310,10 @@
   "CancerImmuneRecognitionProblem": {
     "title": "Cancer Immune Recognition Problem",
     "url": "/wiki/concepts/cancerimmunerecognitionproblem/"
+  },
+  "CancerImmunotherapyAccess": {
+    "title": "Cancer Immunotherapy Access",
+    "url": "/wiki/concepts/cancerimmunotherapyaccess/"
   },
   "CancerVaccinePlatform": {
     "title": "Cancer Vaccine Platform",
@@ -37871,6 +37883,10 @@
     "title": "Persistent Agent Memory",
     "url": "/wiki/concepts/persistentagentmemory/"
   },
+  "PersistentCloudAgents": {
+    "title": "Persistent Cloud Agents",
+    "url": "/wiki/concepts/persistentcloudagents/"
+  },
   "PersonDependentGovernanceFragility": {
     "title": "Person-Dependent Governance Fragility / 人亡政息式治理脆弱性",
     "url": "/wiki/concepts/persondependentgovernancefragility/"
@@ -50755,6 +50771,10 @@
     "title": "U.S. Federalism Veto Points",
     "url": "/wiki/concepts/usfederalismvetopoints/"
   },
+  "USFiscalDebtSpiralRisk": {
+    "title": "U.S. Fiscal Debt Spiral Risk",
+    "url": "/wiki/concepts/usfiscaldebtspiralrisk/"
+  },
   "USGreenBuildingCouncilOfCalifornia": {
     "title": "U.S. Green Building Council of California",
     "url": "/wiki/entities/usgreenbuildingcouncilofcalifornia/"
@@ -58090,6 +58110,10 @@
   "all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435": {
     "title": "Nikesh Arora: Mythos is Real, Analytical SaaS is Dead, and Google can be a $10T company",
     "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435/"
+  },
+  "all-in-with-chamath-jason-sacks-friedberg-nvidias-historic-quarter-saas-comeback-bessent-vs-druck-americas-debt-crisis-cancer-vaccine-42597345": {
+    "title": "Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine",
+    "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-nvidias-historic-quarter-saas-comeback-bessent-vs-druck-americas-debt-crisis-cancer-vaccine-42597345/"
   },
   "all-in-with-chamath-jason-sacks-friedberg-open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs-42029880": {
     "title": "Open Source Wins, AGI Is Here, and Scorsese's AI Toolkit with CEOs of Cerebras & Black Forest Labs",

@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "23275655c235e7f5ae1bb92e98235cd921b4ab2d135d4306a0671a9b84aa3ccd",
       "34acb5ea9c860fb038766002b67ed509d58847883f441c49dc243ea38dbe80de",
       "7289923d2b13e321867d982395f82f649614488a40794da9e3581d04c5483cb3",
       "1724cee47538c9acfc5d62468943ab82c7830b999682366ada51befd9ca79b5b",
@@ -365,11 +366,44 @@
       "c579b0c3102e48af519244d183c5c41e037740a37bf519bf5b0f4bf5ef849207",
       "56abb716e5b03c8a306adb1a6c6075e7f241a8cf33161741fecbd9f5b886bbb0"
     ],
-    "paragraph_count": 363
+    "paragraph_count": 364
   },
-  "overview_commit": "b557f4442ba39998737ff180b24d91b7a0ba3f3f",
-  "overview_digest": "cd898c94657a4c8cf0cb85427c9b3c55ca146829af005a9876dc6360da4f84cc",
+  "overview_commit": "da0880be04753b3182c188479c5bf76bddcc788f",
+  "overview_digest": "c609d104d8b0f7e860d4d47cf3c492750923ea8e55b96f508c4ab6dd5f84a8e9",
   "paragraphs": [
+    {
+      "id": "23275655c235e7f5ae1bb92e98235cd921b4ab2d135d4306a0671a9b84aa3ccd",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "business-and-markets"
+      ],
+      "text": "The latest addition is [[all-in-with-chamath-jason-sacks-friedberg-nvidias-historic-quarter-saas-comeback-bessent-vs-druck-americas-debt-crisis-cancer-vaccine-42597345]], an [[AllIn|All-In]] episode on [[Nvidia]]'s earnings, [[Salesforce]]'s AI-era SaaS rebound, [[ScottBessent|Scott Bessent / 贝森特]]'s long-bond buybacks, [[StanleyDruckenmiller]]'s AI-assisted op-ed debate, and [[Moderna]] cancer immunotherapy. It adds [[AgenticSystemOfRecordMoat]], [[USFiscalDebtSpiralRisk]], [[AIAssistedWritingDisclosure]], [[PersistentCloudAgents]], and [[CancerImmunotherapyAccess]], while extending [[Salesforce]], [[ScottBessent|Scott Bessent / 贝森特]], [[TreasuryBuybackPolicy]], [[StanleyDruckenmiller]], [[Grokbot]], [[Moderna]], [[CancerVaccinePlatform]], [[IndividualizedCancerVaccine]], and [[IndividualizedCancerVaccineManufacturing]]. Its core synthesis is that AI value is becoming legible through operating bottlenecks: systems of record become more important when agents need trusted context and interfaces; Nvidia's quarter supports near-term AI capex demand without settling every financing assumption; buybacks cannot solve a spending and refinancing problem; and personalized cancer vaccines need access and manufacturing economics as much as biology. No settled contradiction is recorded; the market, Treasury, authorship, Ukraine, parental-control, and biotech-cost claims remain source-scoped host interpretations.",
+      "topic_scores": {
+        "ai-and-technology": 2,
+        "business-and-markets": 2,
+        "governance-and-institutions": 1,
+        "science-health-and-climate": 1
+      },
+      "wikilinks": [
+        "AIAssistedWritingDisclosure",
+        "AgenticSystemOfRecordMoat",
+        "AllIn",
+        "CancerImmunotherapyAccess",
+        "CancerVaccinePlatform",
+        "Grokbot",
+        "IndividualizedCancerVaccine",
+        "IndividualizedCancerVaccineManufacturing",
+        "Moderna",
+        "Nvidia",
+        "PersistentCloudAgents",
+        "Salesforce",
+        "ScottBessent",
+        "StanleyDruckenmiller",
+        "TreasuryBuybackPolicy",
+        "USFiscalDebtSpiralRisk",
+        "all-in-with-chamath-jason-sacks-friedberg-nvidias-historic-quarter-saas-comeback-bessent-vs-druck-americas-debt-crisis-cancer-vaccine-42597345"
+      ]
+    },
     {
       "id": "34acb5ea9c860fb038766002b67ed509d58847883f441c49dc243ea38dbe80de",
       "primary_topic": "governance-and-institutions",

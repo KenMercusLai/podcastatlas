@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2574
+topic_total_pages: 2578
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -79,6 +79,9 @@ topic_concepts:
   - key: "AgenticEconomy"
     title: "Agentic Economy"
     url: "/wiki/concepts/agenticeconomy/"
+  - key: "AgenticSystemOfRecordMoat"
+    title: "Agentic System-of-Record Moat"
+    url: "/wiki/concepts/agenticsystemofrecordmoat/"
   - key: "AGINarrative"
     title: "AGI Narrative"
     url: "/wiki/concepts/aginarrative/"
@@ -814,6 +817,9 @@ topic_concepts:
   - key: "AIAssistedWebsiteScams"
     title: "AI-Assisted Website Scams"
     url: "/wiki/concepts/aiassistedwebsitescams/"
+  - key: "AIAssistedWritingDisclosure"
+    title: "AI-Assisted Writing Disclosure"
+    url: "/wiki/concepts/aiassistedwritingdisclosure/"
   - key: "AICompressedInvestmentResearchAdvantage"
     title: "AI-Compressed Investment Research Advantage"
     url: "/wiki/concepts/aicompressedinvestmentresearchadvantage/"
@@ -2665,6 +2671,9 @@ topic_concepts:
   - key: "PermitAutomationForZonedProjects"
     title: "Permit Automation For Zoned Projects"
     url: "/wiki/concepts/permitautomationforzonedprojects/"
+  - key: "PersistentCloudAgents"
+    title: "Persistent Cloud Agents"
+    url: "/wiki/concepts/persistentcloudagents/"
   - key: "PersonalAIMemory"
     title: "Personal AI Memory"
     url: "/wiki/concepts/personalaimemory/"
@@ -7335,6 +7344,9 @@ topic_sources:
   - key: "no-216-shi-bu-sha-yi-ren-hongyi-dapao-zhouhongyi-de-sanshinian-quanmian-zhanzhengshi-zhongguo-hulianwang-gushi-27-1008693437"
     title: "No.216 ⚔️ 「十步杀一人」：红衣大炮周鸿祎的三十年全面战争史 | 中国互联网故事 27"
     url: "/wiki/sources/no-216-shi-bu-sha-yi-ren-hongyi-dapao-zhouhongyi-de-sanshinian-quanmian-zhanzhengshi-zhongguo-hulianwang-gushi-27-1008693437/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-nvidias-historic-quarter-saas-comeback-bessent-vs-druck-americas-debt-crisis-cancer-vaccine-42597345"
+    title: "Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-nvidias-historic-quarter-saas-comeback-bessent-vs-druck-americas-debt-crisis-cancer-vaccine-42597345/"
   - key: "omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb"
     title: "Omission accomplished: why the Iran-war cycle spins on"
     url: "/wiki/sources/omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb/"

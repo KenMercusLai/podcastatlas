@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2287
+topic_total_pages: 2288
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -172,6 +172,9 @@ topic_concepts:
   - key: "AIProgramAdjustment"
     title: "AI-Assisted Program Adjustment / AI辅助专业调整"
     url: "/wiki/concepts/aiprogramadjustment/"
+  - key: "AIAssistedWritingDisclosure"
+    title: "AI-Assisted Writing Disclosure"
+    url: "/wiki/concepts/aiassistedwritingdisclosure/"
   - key: "AIEraMajorChoice"
     title: "AI-Era Major Choice / AI时代专业选择"
     url: "/wiki/concepts/aieramajorchoice/"

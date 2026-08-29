@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 5902
+wiki_total_pages: 5907
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -374,6 +374,9 @@ wiki_pages:
   - key: "AgenticSoftware"
     title: "Agentic Software"
     url: "/wiki/concepts/agenticsoftware/"
+  - key: "AgenticSystemOfRecordMoat"
+    title: "Agentic System-of-Record Moat"
+    url: "/wiki/concepts/agenticsystemofrecordmoat/"
   - key: "AgenticWorkflow"
     title: "Agentic Workflow"
     url: "/wiki/concepts/agenticworkflow/"
@@ -1160,6 +1163,9 @@ wiki_pages:
   - key: "AIAssistedWebsiteScams"
     title: "AI-Assisted Website Scams"
     url: "/wiki/concepts/aiassistedwebsitescams/"
+  - key: "AIAssistedWritingDisclosure"
+    title: "AI-Assisted Writing Disclosure"
+    url: "/wiki/concepts/aiassistedwritingdisclosure/"
   - key: "AICompressedInvestmentResearchAdvantage"
     title: "AI-Compressed Investment Research Advantage"
     url: "/wiki/concepts/aicompressedinvestmentresearchadvantage/"

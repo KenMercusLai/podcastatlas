@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5902
+wiki_total_pages: 5907
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -317,6 +317,9 @@ wiki_pages:
   - key: "PersistentAgentMemory"
     title: "Persistent Agent Memory"
     url: "/wiki/concepts/persistentagentmemory/"
+  - key: "PersistentCloudAgents"
+    title: "Persistent Cloud Agents"
+    url: "/wiki/concepts/persistentcloudagents/"
   - key: "PersonDependentGovernanceFragility"
     title: "Person-Dependent Governance Fragility / 人亡政息式治理脆弱性"
     url: "/wiki/concepts/persondependentgovernancefragility/"

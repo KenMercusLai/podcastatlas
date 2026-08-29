@@ -2340,6 +2340,18 @@
       "url": "/topics/technology/"
     }
   ],
+  "AIAssistedWritingDisclosure": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "AIAtariStage": [
     {
       "key": "technology",
@@ -5469,6 +5481,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "AgenticSystemOfRecordMoat": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "AggregateIndicatorsLivedExperienceGap": [
@@ -43762,6 +43781,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "PersistentCloudAgents": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "PersonDependentGovernanceFragility": [
     {
       "key": "history",
@@ -66589,6 +66615,13 @@
     }
   ],
   "all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "all-in-with-chamath-jason-sacks-friedberg-nvidias-historic-quarter-saas-comeback-bessent-vs-druck-americas-debt-crisis-cancer-vaccine-42597345": [
     {
       "key": "technology",
       "label": "Technology",
