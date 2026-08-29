@@ -14,14 +14,17 @@ sources:
   - zizhi-tongjian-hanji-793-lishi-zhuming-nvhuang-dengsui-zenme-si-de-lszfgj7waiuusrddzjmv5mbrp1i
   - zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn
   - zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk
+  - zizhi-tongjian-hanji-786-guren-weishenme-paichi-fanji-shuiguo-lmcwqwdxwe0ehuusfeoaqk82msm7
 last_updated: 2026-08-30
 ---
 
 ## Overview
-马贤 / Ma Xian is a late-Han Qiang-front commander whose current profile now begins with the 118-119 CE Langmo pursuit alongside [[RenShangLateHan|Ren Shang]], before a 120 CE campaign cycle under [[EmperorAnOfHan|汉安帝]], hard 121 CE coercion, unstable repair, later victories under [[EmperorShunOfHan|汉顺帝]], and final command collapse at Shegu Mountain. [[zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk|Hanji 790]] shows Ma attached to Ren Shang's pursuit and Fuping victory against Langmo; [[zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn|Hanji 792]] shows Ma fighting Shendi and Dianjian Qiang pressure around Zhangye and Jincheng; [[zizhi-tongjian-hanji-793-lishi-zhuming-nvhuang-dengsui-zenme-si-de-lszfgj7waiuusrddzjmv5mbrp1i|Hanji 793]] shows coercive Qiang-front action against Lu Cong and Du Chong; [[zizhi-tongjian-hanji-796-donghan-mingchen-vs-diwang-shenbianren-shui-neng-ying-lkyzp2v-cjysd65syoyuldlbdb5p|Hanji 796]] shows inadequate appeasement and mixed campaigning around Manu; Hanji 797 and Hanji 805-820 preserve why later courts still saw him as useful; Hanji 821 makes him the negative appointment-fit case who delays, ignores the warning field, and dies with his sons.
+马贤 / Ma Xian is a late-Han Qiang-front commander whose current profile now begins with a brief 113 CE Anding attack on [[XianlingQiang|Xianling Qiang]], then runs through the 118-119 CE Langmo pursuit alongside [[RenShangLateHan|Ren Shang]], a 120 CE campaign cycle under [[EmperorAnOfHan|汉安帝]], hard 121 CE coercion, unstable repair, later victories under [[EmperorShunOfHan|汉顺帝]], and final command collapse at Shegu Mountain. [[zizhi-tongjian-hanji-786-guren-weishenme-paichi-fanji-shuiguo-lmcwqwdxwe0ehuusfeoaqk82msm7|Hanji 786]] gives the earlier Anding notice; [[zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk|Hanji 790]] shows Ma attached to Ren Shang's pursuit and Fuping victory against Langmo; [[zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn|Hanji 792]] shows Ma fighting Shendi and Dianjian Qiang pressure around Zhangye and Jincheng; [[zizhi-tongjian-hanji-793-lishi-zhuming-nvhuang-dengsui-zenme-si-de-lszfgj7waiuusrddzjmv5mbrp1i|Hanji 793]] shows coercive Qiang-front action against Lu Cong and Du Chong; [[zizhi-tongjian-hanji-796-donghan-mingchen-vs-diwang-shenbianren-shui-neng-ying-lkyzp2v-cjysd65syoyuldlbdb5p|Hanji 796]] shows inadequate appeasement and mixed campaigning around Manu; Hanji 797 and Hanji 805-820 preserve why later courts still saw him as useful; Hanji 821 makes him the negative appointment-fit case who delays, ignores the warning field, and dies with his sons.
 
 ## Current Profile
-Hanji 790 now supplies the earliest current layer. Ma appears as cavalry colonel under or beside [[RenShangLateHan|Ren Shang]] in the pursuit of the Xianling Qiang leader Langmo. The campaign lasts more than sixty days and wins at Fuping on the Yellow River, killing more than five thousand, but Langmo escapes. This layer shows Ma as part of a real tactical success that still leaves unresolved completion and later credit conflict between Ren Shang and [[DengZunLateHan|Deng Zun]].
+Hanji 786 supplies the earliest current layer. In 113 CE, Ma Xian and Hou Ba attack Xianling Qiang forces in [[AndingCommandery|Anding]]. The notice is brief and does not yet develop Ma's command style, but it moves his Qiang-front profile earlier than the Langmo pursuit already indexed in Hanji 790.
+
+Hanji 790 then supplies the first fuller campaign layer. Ma appears as cavalry colonel under or beside [[RenShangLateHan|Ren Shang]] in the pursuit of the Xianling Qiang leader Langmo. The campaign lasts more than sixty days and wins at Fuping on the Yellow River, killing more than five thousand, but Langmo escapes. This layer shows Ma as part of a real tactical success that still leaves unresolved completion and later credit conflict between Ren Shang and [[DengZunLateHan|Deng Zun]].
 
 Hanji 792 supplies the next campaign layer. In 120 CE, Ma leads more than ten thousand troops to Zhangye against the Shendi Qiang, kills and captures large numbers, and receives surrender, but that concentration lets Jiwu attack Jincheng. Ma returns and pursues outside the frontier, killing several thousand, yet renewed attacks against Zhangye follow. This layer already shows both operational success and the difficulty of turning mobile Qiang-front victories into settled security.
 
@@ -38,7 +41,7 @@ Hanji 796 then adds unstable repair. Ren Liang and others resent Ma Xian because
 [[zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh|Hanji 821]] carries the warning into catastrophe. [[MaRongLateHan|马融]] says Ma Xian is enjoying feasts, clothing, chariots, and horses instead of striking before Qiang forces unite, and [[HuangfuGuiLateHan|皇甫规]] independently predicts defeat. On 141-01-21, Ma Xian and his two sons are defeated and killed at Shegu Mountain.
 
 ## Key Characteristics
-- Frontier commander whose record begins with the 118-119 CE Langmo pursuit before a 120 CE Qiang campaign cycle, coercive 121 CE action, and mixed An-era appeasement outcomes.
+- Frontier commander whose current record begins with a 113 CE Anding notice before the fuller 118-119 CE Langmo pursuit, 120 CE Qiang campaign cycle, coercive 121 CE action, and mixed An-era appeasement outcomes.
 - Repeated Qiang-front appointee with genuine battlefield successes in 122, 126, 135, and 139 CE layers.
 - Negative appointment-fit case because earlier usefulness does not prove later suitability by age, tempo, and crisis context.
 - Commander associated with delayed action while Qiang forces gained cohesion.
@@ -46,6 +49,7 @@ Hanji 796 then adds unstable repair. Ren Liang and others resent Ma Xian because
 - Source-bounded example of how rejected remonstrance can become military catastrophe.
 
 ## Evidence
+- Earliest Anding notice: [[zizhi-tongjian-hanji-786-guren-weishenme-paichi-fanji-shuiguo-lmcwqwdxwe0ehuusfeoaqk82msm7|Hanji 786]] says Ma Xian and Hou Ba attack Xianling Qiang forces in Anding in the 113 CE layer.
 - Earliest Langmo layer: [[zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk|Hanji 790]] says Ma Xian joins Ren Shang's pursuit of Langmo for more than sixty days and shares the Fuping victory, but Langmo escapes.
 - Opening campaign cycle: [[zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn|Hanji 792]] says Ma Xian defeats Shendi Qiang at Zhangye, returns after Jiwu attacks Jincheng, pursues outside the frontier, and still faces renewed Zhangye pressure.
 - Coercive next layer: [[zizhi-tongjian-hanji-793-lishi-zhuming-nvhuang-dengsui-zenme-si-de-lszfgj7waiuusrddzjmv5mbrp1i|Hanji 793]] says Protector of Qiang Ma Xian executes Lu Cong, attacks Du Chong's group, kills more than two thousand, and drives Ren Liang and others outside the frontier.
@@ -57,18 +61,20 @@ Hanji 796 then adds unstable repair. Ren Liang and others resent Ma Xian because
 - Fatal failure: [[zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh|Hanji 821]] says Shun insists on Ma Xian, Ma delays while Qiang forces consolidate, Ma Rong and Huangfu Gui warn of defeat, and Ma Xian and his sons die at Shegu Mountain.
 
 ## Qualifications
-This page is bounded to Hanji 821, Hanji 820, Hanji 817, Hanji 816, Hanji 805, Hanji 797, Hanji 796, Hanji 793, Hanji 792, and Hanji 790. Hanji 790 adds Ma Xian's earliest current Qiang-war layer but keeps the Ren Shang-Deng Zun credit dispute centered on Ren Shang. Hanji 792 adds the 120 CE campaign cycle before Hanji 793's coercive Qiang-front action and Hanji 796's mixed appeasement-and-campaign field; Hanji 797 and later sources preserve the real basis for Ma's reputation. The current judgment is not that Ma Xian never had frontier ability. It is that prior service could not justify the later appointment once age, delay, rebel consolidation, and explicit warnings pointed the other way. Jiwu, Lu Cong, Du Chong, and Ren Liang remain source-scoped.
+This page is bounded to Hanji 821, Hanji 820, Hanji 817, Hanji 816, Hanji 805, Hanji 797, Hanji 796, Hanji 793, Hanji 792, Hanji 790, and Hanji 786. Hanji 786 adds the earliest current notice but keeps Hou Ba source-scoped. Hanji 790 adds Ma Xian's first fuller Qiang-war layer while keeping the Ren Shang-Deng Zun credit dispute centered on Ren Shang. Hanji 792 adds the 120 CE campaign cycle before Hanji 793's coercive Qiang-front action and Hanji 796's mixed appeasement-and-campaign field; Hanji 797 and later sources preserve the real basis for Ma's reputation. The current judgment is not that Ma Xian never had frontier ability. It is that prior service could not justify the later appointment once age, delay, rebel consolidation, and explicit warnings pointed the other way. Jiwu, Lu Cong, Du Chong, Ren Liang, and Hou Ba remain source-scoped.
 
 ## What Changed
-- Added Hanji 790 as Ma Xian's earliest current layer, emphasizing the 118-119 CE Langmo pursuit and Fuping victory beside Ren Shang.
-- Repositioned Hanji 792 as the next campaign layer, emphasizing 120 CE tactical success plus renewed Qiang mobility before the coercive 121 CE layer.
-- Preserved Hanji 796 as the mixed appeasement-and-campaign layer and Hanji 797 as the first clear victory layer.
+- Added Hanji 786's 113 CE Anding notice as Ma Xian's earliest current layer.
+- Repositioned Hanji 790 as the first fuller campaign layer, emphasizing the 118-119 CE Langmo pursuit and Fuping victory beside Ren Shang.
+- Preserved Hanji 792, Hanji 793, Hanji 796, and Hanji 797 as the An-era campaign, coercion, repair, and victory sequence.
 - Preserved Hanji 805-820 as the evidence explaining why later courts continued using Ma.
-- Reframed the Shegu Mountain disaster as appointment-fit failure after a mixed but often successful career, not as proof of lifelong incompetence.
+- Kept the Shegu Mountain disaster framed as appointment-fit failure after a mixed but often successful career, not as proof of lifelong incompetence.
 
 ## Relationships
 - [[EmperorAnOfHan|汉安帝]] - ruler in whose reign Ma Xian's early Qiang-front coercion, appeasement, battle, inducement, and later pursuit of Manu unfold.
 - [[RenShangLateHan|任尚]] - commander with whom Ma Xian pursues Langmo and wins the Fuping battle.
+- [[AndingCommandery|安定郡]] - location of Ma Xian's earliest current campaign notice.
+- [[XianlingQiang|先零羌]] - Qiang group attacked by Ma Xian in the 113 CE Anding layer.
 - [[DengZunLateHan|邓遵]] - Deng-family commander whose later Langmo credit reframes the campaign's political stakes.
 - [[ShendiQiang|沈氐羌]] - Qiang group defeated by Ma Xian in the 120 CE Zhangye campaign cycle.
 - [[EmpressDowagerDengLateHan|和熹邓皇后]] - regent whose frontier record is qualified by the Qiang war field in which Ma operates.

@@ -51075,6 +51075,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "SeasonalRitualConsumptionRestraint": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "SeasteadingInstitute": [
     {
       "key": "technology",

@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "8b672746ce88116c31bca27d977003ad904e59166db79bc2349a038a57cbe710",
       "e4e3b8f13f26be35019adef3fced4108842417c6090816eb8705866e259ba103",
       "0d7f25fc11fbd57cab678cdf86b6c29ce3204627f14611118f78159a945a218a",
       "606822fad7e328a7e3aed82c62e9551eeec0b3dfcc67709dac3dcec510d9a9e4",
@@ -383,11 +384,38 @@
       "fa2bb49857ac26cb533ae14a4cc21fb8c9bcedab808a46832dcf8b31ade00a18",
       "4aec524162783153bd9de6fc8aaf28b4b45a60c3433caa62e6442f020af99d44"
     ],
-    "paragraph_count": 381
+    "paragraph_count": 382
   },
-  "overview_commit": "6fef03eade704b4ecab5c83a7b0962ba006b608e",
-  "overview_digest": "81c95c8c583cef8dc8eca6ad9818c3094b1b8d1aadbd01c85ac2efd6ad02299d",
+  "overview_commit": "9a592468e89434abba087b5c2fc566600807b70b",
+  "overview_digest": "7c97ffa0590bd6ab3e5853dbfcb4d75ad6fb977fbedf2b7badf7af9510cad014",
   "paragraphs": [
+    {
+      "id": "8b672746ce88116c31bca27d977003ad904e59166db79bc2349a038a57cbe710",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-786-guren-weishenme-paichi-fanji-shuiguo-lmcwqwdxwe0ehuusfeoaqk82msm7|《资治通鉴·汉纪》786丨古人为什么排斥反季水果？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 110-114 CE [[EmperorAnOfHan|汉安帝]] / [[EmpressDowagerDengLateHan|和熹邓皇后]] regency layer before [[zizhi-tongjian-hanji-787-chuanqi-huanghou-yanji-shi-ruhe-yibubu-shangwei-de-lslngjnedmqgh8h5nfc-qmyahqnm|Hanji 787]]. It adds [[SeasonalRitualConsumptionRestraint|时令礼法式饮食约束]] and [[FrontierOfficialAbuseRebellionSpiral|边吏侵害引发反叛螺旋]], while extending [[LiuKaiEasternHan|刘恺]], [[HanyangCommanderyLateHan|汉阳郡]], [[DuJigongLateHan|杜季贡]], [[LinChangQiang|陵昌 / 林昌]], [[XianlingQiang|先零羌]], [[MaXianLateHan|马贤]], [[AndingCommandery|安定郡]], and [[RegencyUnderCompoundCrisis|复合危机下的摄政]]. Its core synthesis is that early An-era pressure is already compound before the better-developed 115-121 sources: ritual seasonality constrains tribute demand, disasters and office changes sit beside Qiang war, and frontier disorder is explained through official abuse, panic, migration, war cost, and a climate-stress hypothesis that remains source-scoped pending the next episode. No settled contradiction is recorded; Du Jigong/Lingchang chronology remains source-scoped compression across Hanji 786, Hanji 787, and Hanji 789.",
+      "topic_scores": {
+        "history-and-geopolitics": 2,
+        "science-health-and-climate": 1
+      },
+      "wikilinks": [
+        "AndingCommandery",
+        "DuJigongLateHan",
+        "EmperorAnOfHan",
+        "EmpressDowagerDengLateHan",
+        "FrontierOfficialAbuseRebellionSpiral",
+        "HanyangCommanderyLateHan",
+        "LinChangQiang",
+        "LiuKaiEasternHan",
+        "MaXianLateHan",
+        "RegencyUnderCompoundCrisis",
+        "RuiqiJiangtouZizhiTongjian",
+        "SeasonalRitualConsumptionRestraint",
+        "XianlingQiang",
+        "zizhi-tongjian-hanji-786-guren-weishenme-paichi-fanji-shuiguo-lmcwqwdxwe0ehuusfeoaqk82msm7",
+        "zizhi-tongjian-hanji-787-chuanqi-huanghou-yanji-shi-ruhe-yibubu-shangwei-de-lslngjnedmqgh8h5nfc-qmyahqnm"
+      ]
+    },
     {
       "id": "e4e3b8f13f26be35019adef3fced4108842417c6090816eb8705866e259ba103",
       "primary_topic": "history-and-geopolitics",

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2018
+topic_total_pages: 2019
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3232,6 +3232,9 @@ topic_concepts:
   - key: "NewlyAttachedRegionLeniency"
     title: "新附地区宽缓治理 / Newly Attached Region Leniency"
     url: "/wiki/concepts/newlyattachedregionleniency/"
+  - key: "SeasonalRitualConsumptionRestraint"
+    title: "时令礼法式饮食约束 / Seasonal Ritual Consumption Restraint"
+    url: "/wiki/concepts/seasonalritualconsumptionrestraint/"
   - key: "UntimelyExtravagance"
     title: "时绌举赢 / Untimely Extravagance"
     url: "/wiki/concepts/untimelyextravagance/"

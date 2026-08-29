@@ -12,16 +12,19 @@ sources:
   - zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk
   - zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi
   - zizhi-tongjian-hanji-788-ling-diren-po-da-fang-wan-zhanshu-de-xin-zhen-zang-lvprh9s7aaagf-t2n-m3bp4icqj0
+  - zizhi-tongjian-hanji-786-guren-weishenme-paichi-fanji-shuiguo-lmcwqwdxwe0ehuusfeoaqk82msm7
 last_updated: 2026-08-30
 ---
 
 ## Overview
 
-和熹邓皇后 / Empress Dowager Deng appears in the current wiki as an An-era regent whose record combines serious domestic crisis governance, capable appointments, restrained family-honor signaling, frontier and fiscal failure, Western Regions underimplementation, Deng-family reward and transfer risk, accepted and rejected warnings, and a posthumous memory contested by purge agents and defenders.
+和熹邓皇后 / Empress Dowager Deng appears in the current wiki as an An-era regent whose record combines seasonal ritual restraint, disaster response, serious domestic crisis governance, capable appointments, restrained family-honor signaling, frontier and fiscal failure, Western Regions underimplementation, Deng-family reward and transfer risk, accepted and rejected warnings, and a posthumous memory contested by purge agents and defenders.
 
 ## Current Profile
 
-Hanji 788 now supplies the earliest current layer. Deng hears that [[YuXuEasternHan|Yu Xu]] has command talent and appoints him [[WuduCommanderyLateHan|Wudu]] taishou with only a small force, turning a capable official into the key instrument of a dangerous Qiang-front assignment. The same source shows the court accepting Yu Xu's cavalry advice through [[RenShangLateHan|Ren Shang]], then records earthquakes, Wuling Man rebellion, and office changes involving [[LiuKaiEasternHan|Liu Kai]] and [[YuanChangLateHan|Yuan Chang]]. Its family-honor branch is also important: after [[DengHongLateHan|Deng Hong]] dies, Deng refuses maximal posthumous rank and clothing in deference to his frugal habits while still granting wealth and later title continuity through his son.
+Hanji 786 supplies the earliest current layer. The regency is already under compound pressure in 110-114 CE: pirates are suppressed in Donglai, Hanyang/Shanggui rebels connect to Qiang forces, disasters accumulate, [[LiuKaiEasternHan|Liu Kai]] enters sikong from taichang, and the court issues a 112 CE edict against fire-warmed and dug-sprouting off-season fresh foods for tomb, temple, and palace offerings. This adds ritual-consumption restraint and early Qiang-war cost to Deng's profile before the better-developed 116-121 CE sources.
+
+Hanji 788 then supplies the Wudu appointment layer. Deng hears that [[YuXuEasternHan|Yu Xu]] has command talent and appoints him [[WuduCommanderyLateHan|Wudu]] taishou with only a small force, turning a capable official into the key instrument of a dangerous Qiang-front assignment. The same source shows the court accepting Yu Xu's cavalry advice through [[RenShangLateHan|Ren Shang]], then records earthquakes, Wuling Man rebellion, and office changes involving Liu Kai and [[YuanChangLateHan|Yuan Chang]]. Its family-honor branch is also important: after [[DengHongLateHan|Deng Hong]] dies, Deng refuses maximal posthumous rank and clothing in deference to his frugal habits while still granting wealth and later title continuity through his son.
 
 Hanji 789 moves the regency into the 116-117 Qiang crisis. The court sends Ren Shang and [[DengZunLateHan|Deng Zun]] against Qiang forces, implements forced civilian relocation that helps produce [[DuJigongLateHan|Du Jigong]]'s defection, manages multi-front pressure from Xianbei and Yizhou, accepts Liu Kai's three-year mourning proposal, and removes Yuan Chang after a court-secret correspondence case. This makes Deng's rule visible as both institutional repair and coercive frontier improvisation.
 
@@ -33,8 +36,8 @@ The posthumous layer is unstable. Hanji 794 says Deng had installed [[EmperorAnO
 
 ## Key Characteristics
 
-- Crisis regent judged through frontier war, fiscal strain, disaster relief, ritual policy, education, family honor, and transfer risk together.
-- Capable of institutional repair and selective restraint, including mourning-policy permission, education, relief measures, ritual restoration, Yu Xu's appointment, and Deng Hong's restrained posthumous handling.
+- Crisis regent judged through frontier war, fiscal strain, disaster relief, seasonal ritual restraint, education, family honor, and transfer risk together.
+- Capable of institutional repair and selective restraint, including the fresh-food edict, mourning-policy permission, education, relief measures, ritual restoration, Yu Xu's appointment, and Deng Hong's restrained posthumous handling.
 - Vulnerable to frontier-policy failure, especially Qiang relocation backfire and Western Regions underimplementation.
 - Governs through a powerful Deng-family field whose military rewards and education roles create both capacity and suspicion.
 - Receives internal family warning from Deng Kang but responds with punishment rather than risk reduction.
@@ -43,6 +46,7 @@ The posthumous layer is unstable. Hanji 794 says Deng had installed [[EmperorAnO
 
 ## Evidence
 
+- Earliest regency restraint and pressure: [[zizhi-tongjian-hanji-786-guren-weishenme-paichi-fanji-shuiguo-lmcwqwdxwe0ehuusfeoaqk82msm7|Hanji 786]] combines the 112 CE seasonal fresh-food edict with disasters, office turnover, Hanyang/Shanggui disorder, Anding Qiang operations, and Han-Qiang war cost under Deng's regency.
 - Wudu appointment and family-honor restraint: [[zizhi-tongjian-hanji-788-ling-diren-po-da-fang-wan-zhanshu-de-xin-zhen-zang-lvprh9s7aaagf-t2n-m3bp4icqj0|Hanji 788]] shows Deng appointing Yu Xu to Wudu, the court accepting his cavalry advice, office turnover under crisis, and Deng Hong's restrained posthumous settlement.
 - Early Qiang and court-pressure layer: [[zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi|Hanji 789]] combines forced relocation, Ren Shang and Deng Zun's campaigns, Liu Kai's mourning proposal, Yuan Chang's dismissal, Xianbei raids, and Yizhou unrest under Deng's regency.
 - Deng-family reward and fiscal pressure: [[zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk|Hanji 790]] shows Qiang-war cost, Deng Zun's marquisate, Ren Shang's execution, Deng-family education, and Tang Tan's refusal to present an omen under strong outer relatives.
@@ -54,12 +58,13 @@ The posthumous layer is unstable. Hanji 794 says Deng had installed [[EmperorAnO
 
 ## Qualifications
 
-The profile remains mixed. The sources do not support a simple hagiography, because Qiang policy, Western Regions implementation, Deng-family concentration, and delayed transfer create real damage. They also do not support reducing Deng to usurpation or family impunity, because relief, austerity, education, ritual repair, Yu Xu's military appointment, restrained Deng Hong honors, and public defense remain substantial in the bounded evidence.
+The profile remains mixed. The sources do not support a simple hagiography, because Qiang policy, Western Regions implementation, Deng-family concentration, and delayed transfer create real damage. They also do not support reducing Deng to usurpation or family impunity, because seasonal restraint, relief, austerity, education, ritual repair, Yu Xu's military appointment, restrained Deng Hong honors, and public defense remain substantial in the bounded evidence. Hanji 786's climate-stress explanation remains source-scoped until the next episode develops it.
 
 ## What Changed
 
-- Added Hanji 788's earlier Wudu and Deng Hong layer before the 116-121 CE regency synthesis.
-- Expanded Deng's profile beyond frontier failure and transfer risk to include capable military appointment and restrained Deng-family posthumous honor management.
+- Added Hanji 786's 110-114 CE seasonal fresh-food edict, disasters, office turnover, Hanyang/Shanggui disorder, Anding Qiang operation, and war-cost layer.
+- Reframed Deng's profile so ritual-consumption restraint appears before the Wudu appointment and forced-relocation layers.
+- Preserved Hanji 788's Wudu appointment and Deng Hong honor management as evidence of capable appointment and family restraint.
 - Preserved Hanji 789's forced-relocation backfire, Hanji 791's partial Western Regions adoption, and Hanji 792's rejected internal warning as major qualifications.
 
 ## Relationships
@@ -74,3 +79,5 @@ The profile remains mixed. The sources do not support a simple hagiography, beca
 - [[RegencyUnderCompoundCrisis]] - concept for judging Deng through simultaneous crisis layers.
 - [[StrategicFrontierAbandonment]] - frontier-accounting problem visible in both Qiang and Western Regions policy.
 - [[CoerciveFrontierRelocationBackfire]] - specific failure mode in the 116-117 CE Qiang response.
+- [[SeasonalRitualConsumptionRestraint]] - early edict branch where ritual supply is constrained by seasonal and burden logic.
+- [[FrontierOfficialAbuseRebellionSpiral]] - broader Han-Qiang causal frame introduced by Hanji 786.

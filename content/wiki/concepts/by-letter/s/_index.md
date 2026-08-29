@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 5960
+wiki_total_pages: 5962
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1691,6 +1691,9 @@ wiki_pages:
   - key: "SchoolAreaMemoryEcology"
     title: "放学后记忆生态 / School-Area Memory Ecology"
     url: "/wiki/concepts/schoolareamemoryecology/"
+  - key: "SeasonalRitualConsumptionRestraint"
+    title: "时令礼法式饮食约束 / Seasonal Ritual Consumption Restraint"
+    url: "/wiki/concepts/seasonalritualconsumptionrestraint/"
   - key: "SuspicionDrivenEliteAlienation"
     title: "猜疑驱动的士族离心 / Suspicion-Driven Elite Alienation"
     url: "/wiki/concepts/suspiciondrivenelitealienation/"

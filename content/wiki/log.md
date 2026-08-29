@@ -13656,3 +13656,11 @@ Ingested the 2026-07-05 The Rest Is History episode on Alexander Hamilton, Aaron
 ## [2026-08-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-30] ingest | 《资治通鉴·汉纪》786丨古人为什么排斥反季水果？
+
+Ingested the 2026-07-05 芮淇讲透资治通鉴 episode on 110-114 CE Emperor An and Deng-regency disaster/frontier pressure, the 112 CE seasonal fresh-food edict, Hanyang/Shanggui rebellion, Liu Kai's sikong appointment, Ma Xian and Hou Ba's Anding attack on Xianling Qiang, Han-Qiang war economic drain, official-abuse panic, and climate-stress setup. Created the source note plus `SeasonalRitualConsumptionRestraint` and `FrontierOfficialAbuseRebellionSpiral`; updated `EmperorAnOfHan`, `EmpressDowagerDengLateHan`, `LiuKaiEasternHan`, `MaXianLateHan`, `DuJigongLateHan`, `LinChangQiang`, `XianlingQiang`, `HanyangCommanderyLateHan`, `AndingCommandery`, `RegencyUnderCompoundCrisis`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; the Du Jigong/Lingchang chronology is preserved as source-scoped compression, and minor actors plus the full climate-war thesis remain source-scoped.
+
+## [2026-08-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
