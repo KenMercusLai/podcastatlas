@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 5893
+wiki_total_pages: 5895
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -704,6 +704,9 @@ wiki_pages:
   - key: "TerminalHezongFailure"
     title: "末次合纵失败 / Terminal Hezong Failure"
     url: "/wiki/concepts/terminalhezongfailure/"
+  - key: "TaShangCeBipartiteStrategy"
+    title: "榻上策二分天下 / Ta Shang Ce Bipartite Strategy"
+    url: "/wiki/concepts/tashangcebipartitestrategy/"
   - key: "TruthSeekingDebateNorm"
     title: "求明理的辩论规范 / Truth-Seeking Debate Norm"
     url: "/wiki/concepts/truthseekingdebatenorm/"

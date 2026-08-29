@@ -6990,6 +6990,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/dongbannanyanglatehan/"
     },
+    "DongXiLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1052丨三国重臣张纮，竟玩弄曹操于股掌？ [ljc3sD7MeIgo37Uy_1fxNKx-PSQG].md",
+          "key": "zizhi-tongjian-hanji-1052-sanguo-zhongchen-zhanghong-jing-wannong-caocao-yu-guzhang-ljc3sd7meigo37uy-1fxnkx-psqg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1052丨三国重臣张纮，竟玩弄曹操于股掌？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1052-sanguo-zhongchen-zhanghong-jing-wannong-caocao-yu-guzhang-ljc3sd7meigo37uy-1fxnkx-psqg/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/dongxilatehan/"
+    },
     "DongYuanLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -14699,9 +14715,9 @@
       "url": "/wiki/entities/lacoste/"
     },
     "LadyWuSunJian": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》982丨扒一扒刘备入徐背后的利益之争 [ljAjdC95XTyLHkn5TeEFz26Yyyz1].md",
@@ -14716,9 +14732,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1039丨东吴第一嘴炮？且看他如何劝降华歆",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1052丨三国重臣张纮，竟玩弄曹操于股掌？ [ljc3sD7MeIgo37Uy_1fxNKx-PSQG].md",
+          "key": "zizhi-tongjian-hanji-1052-sanguo-zhongchen-zhanghong-jing-wannong-caocao-yu-guzhang-ljc3sd7meigo37uy-1fxnkx-psqg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1052丨三国重臣张纮，竟玩弄曹操于股掌？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1052-sanguo-zhongchen-zhanghong-jing-wannong-caocao-yu-guzhang-ljc3sd7meigo37uy-1fxnkx-psqg/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-08-29",
       "url": "/wiki/entities/ladywusunjian/"
     },
     "Laestrygonians": {
@@ -16835,6 +16858,29 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/loyaltycollateraldilemma/"
+    },
+    "LuSu": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1028丨小霸王孙策立威，称霸江东！ [lgur-3FmpR55wy3AjI--0Rm38Y7X].md",
+          "key": "zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1028丨小霸王孙策立威，称霸江东！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1052丨三国重臣张纮，竟玩弄曹操于股掌？ [ljc3sD7MeIgo37Uy_1fxNKx-PSQG].md",
+          "key": "zizhi-tongjian-hanji-1052-sanguo-zhongchen-zhanghong-jing-wannong-caocao-yu-guzhang-ljc3sd7meigo37uy-1fxnkx-psqg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1052丨三国重臣张纮，竟玩弄曹操于股掌？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1052-sanguo-zhongchen-zhanghong-jing-wannong-caocao-yu-guzhang-ljc3sd7meigo37uy-1fxnkx-psqg/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/lusu/"
     },
     "LuZhiLateHan": {
       "episode_count": 7,
@@ -22126,6 +22172,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/reproductiveattritionstrategy/"
     },
+    "ReputationConstrainedWarRestraint": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1052丨三国重臣张纮，竟玩弄曹操于股掌？ [ljc3sD7MeIgo37Uy_1fxNKx-PSQG].md",
+          "key": "zizhi-tongjian-hanji-1052-sanguo-zhongchen-zhanghong-jing-wannong-caocao-yu-guzhang-ljc3sd7meigo37uy-1fxnkx-psqg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1052丨三国重臣张纮，竟玩弄曹操于股掌？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1052-sanguo-zhongchen-zhanghong-jing-wannong-caocao-yu-guzhang-ljc3sd7meigo37uy-1fxnkx-psqg/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/reputationconstrainedwarrestraint/"
+    },
     "ReputationListPersecutionTarget": {
       "episode_count": 2,
       "show_count": 1,
@@ -24691,9 +24753,9 @@
       "url": "/wiki/concepts/successfulaging/"
     },
     "SuccessionAuthorityConsolidation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1053丨跟着孙权，学习如何整顿集团高管 [lq9hy25XONjZHJ1sFIsvauu3bwMI].md",
@@ -24701,6 +24763,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1053丨跟着孙权，学习如何整顿集团高管",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1053-genzhe-sunquan-xuexi-ruhe-zhengdun-jituan-gaoguan-lq9hy25xonjzhj1sfisvauu3bwmi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1052丨三国重臣张纮，竟玩弄曹操于股掌？ [ljc3sD7MeIgo37Uy_1fxNKx-PSQG].md",
+          "key": "zizhi-tongjian-hanji-1052-sanguo-zhongchen-zhanghong-jing-wannong-caocao-yu-guzhang-ljc3sd7meigo37uy-1fxnkx-psqg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1052丨三国重臣张纮，竟玩弄曹操于股掌？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1052-sanguo-zhongchen-zhanghong-jing-wannong-caocao-yu-guzhang-ljc3sd7meigo37uy-1fxnkx-psqg/"
         }
       ],
       "updated": "2026-08-29",
@@ -24975,9 +25044,9 @@
       "url": "/wiki/entities/sunfulatehan/"
     },
     "SunQuan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1028丨小霸王孙策立威，称霸江东！ [lgur-3FmpR55wy3AjI--0Rm38Y7X].md",
@@ -25006,6 +25075,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1053丨跟着孙权，学习如何整顿集团高管",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1053-genzhe-sunquan-xuexi-ruhe-zhengdun-jituan-gaoguan-lq9hy25xonjzhj1sfisvauu3bwmi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1052丨三国重臣张纮，竟玩弄曹操于股掌？ [ljc3sD7MeIgo37Uy_1fxNKx-PSQG].md",
+          "key": "zizhi-tongjian-hanji-1052-sanguo-zhongchen-zhanghong-jing-wannong-caocao-yu-guzhang-ljc3sd7meigo37uy-1fxnkx-psqg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1052丨三国重臣张纮，竟玩弄曹操于股掌？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1052-sanguo-zhongchen-zhanghong-jing-wannong-caocao-yu-guzhang-ljc3sd7meigo37uy-1fxnkx-psqg/"
         }
       ],
       "updated": "2026-08-29",
@@ -25246,6 +25322,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/tcelleducationandthymusaging/"
+    },
+    "TaShangCeBipartiteStrategy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1052丨三国重臣张纮，竟玩弄曹操于股掌？ [ljc3sD7MeIgo37Uy_1fxNKx-PSQG].md",
+          "key": "zizhi-tongjian-hanji-1052-sanguo-zhongchen-zhanghong-jing-wannong-caocao-yu-guzhang-ljc3sd7meigo37uy-1fxnkx-psqg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1052丨三国重臣张纮，竟玩弄曹操于股掌？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1052-sanguo-zhongchen-zhanghong-jing-wannong-caocao-yu-guzhang-ljc3sd7meigo37uy-1fxnkx-psqg/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/tashangcebipartitestrategy/"
     },
     "Tableau": {
       "episode_count": 1,
@@ -30562,6 +30654,43 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/zhanghelatehan/"
     },
+    "ZhangHongLateHan": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1028丨小霸王孙策立威，称霸江东！ [lgur-3FmpR55wy3AjI--0Rm38Y7X].md",
+          "key": "zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1028丨小霸王孙策立威，称霸江东！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》983丨只会骗人的老板永远不是好老板 [lkNR2zyDwjYTjo7Od_rT3Zi_4k_s].md",
+          "key": "zizhi-tongjian-hanji-983-zhi-hui-pianren-de-laoban-yongyuan-bushi-hao-laoban-lknr2zydwjytjo7od-rt3zi-4k-s",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》983丨只会骗人的老板永远不是好老板",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-983-zhi-hui-pianren-de-laoban-yongyuan-bushi-hao-laoban-lknr2zydwjytjo7od-rt3zi-4k-s/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》994丨跟着‌东吴重臣吕范，学习职场智慧 [lgQP2vQmh1mSS96gcwmFLP_cCPFU].md",
+          "key": "zizhi-tongjian-hanji-994-genzhe-dongwu-zhongchen-lvfan-xuexi-zhichang-zhihui-lgqp2vqmh1mss96gcwmflp-ccpfu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》994丨跟着东吴重臣吕范，学习职场智慧",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-994-genzhe-dongwu-zhongchen-lvfan-xuexi-zhichang-zhihui-lgqp2vqmh1mss96gcwmflp-ccpfu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1052丨三国重臣张纮，竟玩弄曹操于股掌？ [ljc3sD7MeIgo37Uy_1fxNKx-PSQG].md",
+          "key": "zizhi-tongjian-hanji-1052-sanguo-zhongchen-zhanghong-jing-wannong-caocao-yu-guzhang-ljc3sd7meigo37uy-1fxnkx-psqg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1052丨三国重臣张纮，竟玩弄曹操于股掌？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1052-sanguo-zhongchen-zhanghong-jing-wannong-caocao-yu-guzhang-ljc3sd7meigo37uy-1fxnkx-psqg/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/zhanghonglatehan/"
+    },
     "ZhangHuanLateHan": {
       "episode_count": 12,
       "show_count": 1,
@@ -30937,9 +31066,9 @@
       "url": "/wiki/entities/zhangyingguanglinglatehan/"
     },
     "ZhangZhaoLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》994丨跟着‌东吴重臣吕范，学习职场智慧 [lgQP2vQmh1mSS96gcwmFLP_cCPFU].md",
@@ -30954,9 +31083,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1045丨他是江东霸业的开创者，可惜死的太窝囊",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1052丨三国重臣张纮，竟玩弄曹操于股掌？ [ljc3sD7MeIgo37Uy_1fxNKx-PSQG].md",
+          "key": "zizhi-tongjian-hanji-1052-sanguo-zhongchen-zhanghong-jing-wannong-caocao-yu-guzhang-ljc3sd7meigo37uy-1fxnkx-psqg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1052丨三国重臣张纮，竟玩弄曹操于股掌？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1052-sanguo-zhongchen-zhanghong-jing-wannong-caocao-yu-guzhang-ljc3sd7meigo37uy-1fxnkx-psqg/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-29",
       "url": "/wiki/entities/zhangzhaolatehan/"
     },
     "ZhaoChengLiGuPetitioner": {

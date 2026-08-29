@@ -13340,3 +13340,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-29] ingest | 《资治通鉴·汉纪》1052丨三国重臣张纮，竟玩弄曹操于股掌？
+
+Ingested the 2026-08-28 芮淇讲透资治通鉴 episode on Zhang Hong restraining Cao Cao from attacking Jiangdong during Sun Quan's mourning, Lady Wu/Zhang Hong/Zhang Zhao/Dong Xi stabilizing the succession, and Lu Su's Ta Shang Ce two-part Yangtze strategy. Created the source note plus `DongXiLateHan`, `TaShangCeBipartiteStrategy`, and `ReputationConstrainedWarRestraint`; updated `ZhangHongLateHan`, `LuSu`, `SunQuan`, `ZhangZhaoLateHan`, `LadyWuSunJian`, `SuccessionAuthorityConsolidation`, `index`, and `overview`. No settled contradiction found; the episode title's "玩弄曹操" and the two-part-versus-three-part strategy contrast are preserved as source-scoped interpretive framing.
+
+## [2026-08-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

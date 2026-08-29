@@ -359,12 +359,13 @@
       "082a8129ce267d83fa695011e4d1d9ec611a2911fab24932213544b548f520cf",
       "6dd2244cfd82de8e2076d8e2587203e47d3343702b97f83715d88073f28b3401",
       "aecaaa49da936c98684cec9f1063846b0672b74bc20fcbd62311f6a489f3c810",
-      "c579b0c3102e48af519244d183c5c41e037740a37bf519bf5b0f4bf5ef849207"
+      "c579b0c3102e48af519244d183c5c41e037740a37bf519bf5b0f4bf5ef849207",
+      "56abb716e5b03c8a306adb1a6c6075e7f241a8cf33161741fecbd9f5b886bbb0"
     ],
-    "paragraph_count": 359
+    "paragraph_count": 360
   },
-  "overview_commit": "e4b5a3a0f54bb945717fa6115481248f124b6837",
-  "overview_digest": "a12febf50c1dfa5ea40fbba35f8bac03286e49c8946dca37780a273a282e2ae8",
+  "overview_commit": "3d3b860fa944a49483e1c32ce5f2c3946403788b",
+  "overview_digest": "c8a7fc50892b984f619799a9ed9f9560546b179f1012c49ba3aa8d7154d7bc18",
   "paragraphs": [
     {
       "id": "750236a3432e0c98c4fa9fe78759f73d329b50598c2bfc4d91296222ee930fff",
@@ -11136,6 +11137,31 @@
         "zizhi-tongjian-hanji-1051-ta-weihe-bei-chengzuo-shi-zui-you-nengli-de-yangzhou-cishi-ltquwyzzq-sqibj33bpbu3qyvz2h",
         "zizhi-tongjian-hanji-1053-genzhe-sunquan-xuexi-ruhe-zhengdun-jituan-gaoguan-lq9hy25xonjzhj1sfisvauu3bwmi",
         "zizhi-tongjian-hanji-1054-jingtan-caocao-yuanshao-liubei-de-mingyun-zhuanzhe-lmd2yjre-cwdbxky2ht5o0n4g6fk"
+      ]
+    },
+    {
+      "id": "56abb716e5b03c8a306adb1a6c6075e7f241a8cf33161741fecbd9f5b886bbb0",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1052-sanguo-zhongchen-zhanghong-jing-wannong-caocao-yu-guzhang-ljc3sd7meigo37uy-1fxnkx-psqg|《资治通鉴·汉纪》1052丨三国重臣张纮，竟玩弄曹操于股掌？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode filling the immediate post-[[SunCe|孙策]] succession layer before [[zizhi-tongjian-hanji-1053-genzhe-sunquan-xuexi-ruhe-zhengdun-jituan-gaoguan-lq9hy25xonjzhj1sfisvauu3bwmi|Hanji 1053]]. It adds [[DongXiLateHan|董袭]], [[TaShangCeBipartiteStrategy|榻上策二分天下]], and [[ReputationConstrainedWarRestraint|名声约束下的战争节制]], while extending [[ZhangHongLateHan|张纮]], [[SunQuan|孙权]], [[LuSu|鲁肃]], [[ZhangZhaoLateHan|张昭]], [[LadyWuSunJian|吴夫人]], and [[SuccessionAuthorityConsolidation|继位权威整合]]. Its core synthesis is that Jiangdong survives Sun Ce's death through both external restraint and internal talent judgment: Zhang Hong turns Cao Cao's attack impulse into court-recognition strategy, Lady Wu and Dong Xi make the early support structure visible, and Lu Su gives Sun Quan a two-part Yangtze plan that remains ambitious before being qualified by later Red Cliffs and three-kingdom outcomes. No settled contradiction is recorded; the title's \"玩弄曹操\" is treated as host framing for strategic mediation rather than proof that Zhang Hong changed camps or controlled Cao Cao.",
+      "topic_scores": {
+        "history-and-geopolitics": 2,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "DongXiLateHan",
+        "LadyWuSunJian",
+        "LuSu",
+        "ReputationConstrainedWarRestraint",
+        "RuiqiJiangtouZizhiTongjian",
+        "SuccessionAuthorityConsolidation",
+        "SunCe",
+        "SunQuan",
+        "TaShangCeBipartiteStrategy",
+        "ZhangHongLateHan",
+        "ZhangZhaoLateHan",
+        "zizhi-tongjian-hanji-1052-sanguo-zhongchen-zhanghong-jing-wannong-caocao-yu-guzhang-ljc3sd7meigo37uy-1fxnkx-psqg",
+        "zizhi-tongjian-hanji-1053-genzhe-sunquan-xuexi-ruhe-zhengdun-jituan-gaoguan-lq9hy25xonjzhj1sfisvauu3bwmi"
       ]
     }
   ],
