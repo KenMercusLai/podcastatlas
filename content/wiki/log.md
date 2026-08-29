@@ -13149,6 +13149,7 @@ Ingested the Marketplace Tech episode on Meta's proposed teen-safety settlement,
 
 Ran lint. See lint-report.md for details.
 
+
 ## [2026-08-29] ingest | Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine
 
 Ingested the 2026-08-29 All-In episode on Nvidia's reported historic quarter, Salesforce's AI-era SaaS rebound, Bessent and Druckenmiller on Treasury buybacks and U.S. debt risk, AI-assisted op-ed disclosure, persistent Grokbot agents, Meta parental controls, and Moderna/Merck personalized cancer immunotherapy. Created the source note plus `AgenticSystemOfRecordMoat`, `USFiscalDebtSpiralRisk`, `AIAssistedWritingDisclosure`, `PersistentCloudAgents`, and `CancerImmunotherapyAccess`; updated `Salesforce`, `StanleyDruckenmiller`, `Grokbot`, `ScottBessent`, `TreasuryBuybackPolicy`, `Moderna`, `CancerVaccinePlatform`, `IndividualizedCancerVaccine`, `IndividualizedCancerVaccineManufacturing`, `index`, and `overview`. No settled contradiction found; market, fiscal, authorship, Ukraine, parental-control, and biotech-cost claims remain source-scoped.
@@ -13408,6 +13409,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-29] ingest | 《资治通鉴·汉纪》810丨他拼个满门被斩，为何也要杀妻？
 
 Ingested the 2026-07-10 芮淇讲透资治通鉴 episode on 129-131 CE Emperor Shun, Yu Xu's restoration of Anding/Beidi/Shangjun, Khotan's seizure of Jumi, Ban Shi's killing of Yincheng Princess and collateral execution, Shen Jing's Hejian cleanup, Yiwu tuntian restoration, Taixue rebuilding, and Ma Xu's reversal of an over-close Qiang tuntian relocation. Created the source note plus `BanShiLateHan`, `YinChengPrincess`, `ShenJingLateHan`, `LiuZhengHejianKing`, `AndingCommandery`, `YiwuGarrisonLateHan`, `FrontierCommanderyRestoration`, `PrincessMarriagePowerAsymmetry`, `TuntianProximitySecurityDilemma`, and `RoyalFiefDiscipline`; updated `EmperorShunOfHan`, `YuXuEasternHan`, `Taixue`, `MaXuLateHan`, `KhotanKingdomLateHan`, `JumiKingdomLateHan`, `index`, and `overview`. No settled contradiction found; Fang Qian, Jumi King Xing, Xu You, Xu Jing, Liu Qi, Geng Ye, Han Hao, minor chronology, and the opening tiger metaphor remain source-scoped.
+
+## [2026-08-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-29] ingest | 《资治通鉴·汉纪》809丨为什么劝你不要乱拍马屁？
+
+Ingested the 2026-07-10 芮淇讲透资治通鉴 episode on 127-129 CE Emperor Shun, Huang Qiong's summons and Shangshu competence, Li Gu's warning against reputation-only reclusion, and Wen Long's large-pearl tribute being returned as flattery after Shun's frugality edict. Created the source note plus `WenLongLateHan`; updated `EmperorShunOfHan`, `HuangQiongLateHan`, `LiGuLateHan`, `AdviceFramingUnderHierarchy`, `ScholarOfficialPublicDuty`, `index`, and `overview`. No settled contradiction found; Huang Xiang, Yang Hou, Fan Ying, Luan Di Ba, Luan Di Xiuli, Huan Yan, Lai Li, Liu Guang, Zhang Hao, Sun Cheng's recalled marquises, and the host's relationship-value frame remain source-scoped.
 
 ## [2026-08-29] lint | Wiki health check
 

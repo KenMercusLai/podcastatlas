@@ -1453,9 +1453,9 @@
       "url": "/wiki/concepts/adversitysilencediscipline/"
     },
     "AdviceFramingUnderHierarchy": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1034丨袁绍的败局，只因不肯听沮授的话？ [loG-Wy2ZVPdJOPbdyexb0IJQmph4].md",
@@ -1491,6 +1491,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》816丨想要“拿下”你的领导，其实很简单",
           "url": "/wiki/sources/zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》809丨为什么劝你不要乱拍马屁？ [lnv2l-EhKzmF2Ifz3SEMSCaQFTKu].md",
+          "key": "zizhi-tongjian-hanji-809-weishenme-quan-ni-buyao-luan-pai-mapi-lnv2l-ehkzmf2ifz3semscaqftku",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》809丨为什么劝你不要乱拍马屁？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-809-weishenme-quan-ni-buyao-luan-pai-mapi-lnv2l-ehkzmf2ifz3semscaqftku/"
         }
       ],
       "updated": "2026-08-29",
@@ -8431,9 +8438,9 @@
       "url": "/wiki/entities/emperorhuanofhan/"
     },
     "EmperorShunOfHan": {
-      "episode_count": 14,
+      "episode_count": 15,
       "show_count": 1,
-      "source_note_count": 14,
+      "source_note_count": 15,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》822丨豺狼当道，他将矛头直指皇帝岳父？ [lqHpMAYVd3p07BYR_zOIv-jyhdv_].md",
@@ -8532,6 +8539,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》810丨他拼个满门被斩，为何也要杀妻？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》809丨为什么劝你不要乱拍马屁？ [lnv2l-EhKzmF2Ifz3SEMSCaQFTKu].md",
+          "key": "zizhi-tongjian-hanji-809-weishenme-quan-ni-buyao-luan-pai-mapi-lnv2l-ehkzmf2ifz3semscaqftku",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》809丨为什么劝你不要乱拍马屁？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-809-weishenme-quan-ni-buyao-luan-pai-mapi-lnv2l-ehkzmf2ifz3semscaqftku/"
         }
       ],
       "updated": "2026-08-29",
@@ -12383,9 +12397,9 @@
       "url": "/wiki/entities/huangfudonghailatehan/"
     },
     "HuangQiongLateHan": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》860丨惊为天人！东汉郭泰有多神？ [ltiHXtkDP08EemcVHhxNPUBYKRUV].md",
@@ -12428,9 +12442,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》838丨贪婪的诱惑，让他狂飙在作死的路上",
           "url": "/wiki/sources/zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》809丨为什么劝你不要乱拍马屁？ [lnv2l-EhKzmF2Ifz3SEMSCaQFTKu].md",
+          "key": "zizhi-tongjian-hanji-809-weishenme-quan-ni-buyao-luan-pai-mapi-lnv2l-ehkzmf2ifz3semscaqftku",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》809丨为什么劝你不要乱拍马屁？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-809-weishenme-quan-ni-buyao-luan-pai-mapi-lnv2l-ehkzmf2ifz3semscaqftku/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-29",
       "url": "/wiki/entities/huangqionglatehan/"
     },
     "HuangYiRobotics": {
@@ -15577,9 +15598,9 @@
       "url": "/wiki/entities/ligaorunanlatehan/"
     },
     "LiGuLateHan": {
-      "episode_count": 15,
+      "episode_count": 16,
       "show_count": 1,
-      "source_note_count": 15,
+      "source_note_count": 16,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》929丨对事不对人，你信了吗？ [lgaXJ0jzoPddmt3C5hiBNExqLhB3].md",
@@ -15685,6 +15706,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》813丨古代的高官竟也会被殴打？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》809丨为什么劝你不要乱拍马屁？ [lnv2l-EhKzmF2Ifz3SEMSCaQFTKu].md",
+          "key": "zizhi-tongjian-hanji-809-weishenme-quan-ni-buyao-luan-pai-mapi-lnv2l-ehkzmf2ifz3semscaqftku",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》809丨为什么劝你不要乱拍马屁？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-809-weishenme-quan-ni-buyao-luan-pai-mapi-lnv2l-ehkzmf2ifz3semscaqftku/"
         }
       ],
       "updated": "2026-08-29",
@@ -23754,9 +23782,9 @@
       "url": "/wiki/entities/scarletsunrise/"
     },
     "ScholarOfficialPublicDuty": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "105.苏东坡：一腔豪迈之气，一肚皮不合时宜 [741072645].md",
@@ -23785,9 +23813,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》859丨古代好人为什么难当好官？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-859-gudai-haoren-weishenme-nan-dang-haoguan-llkyx18ssvserxncvrtkw7xfduad/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》809丨为什么劝你不要乱拍马屁？ [lnv2l-EhKzmF2Ifz3SEMSCaQFTKu].md",
+          "key": "zizhi-tongjian-hanji-809-weishenme-quan-ni-buyao-luan-pai-mapi-lnv2l-ehkzmf2ifz3semscaqftku",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》809丨为什么劝你不要乱拍马屁？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-809-weishenme-quan-ni-buyao-luan-pai-mapi-lnv2l-ehkzmf2ifz3semscaqftku/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-29",
       "url": "/wiki/concepts/scholarofficialpublicduty/"
     },
     "ScienceCommunicationTrustRepair": {
@@ -28811,6 +28846,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/wenchoulatehan/"
+    },
+    "WenLongLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》809丨为什么劝你不要乱拍马屁？ [lnv2l-EhKzmF2Ifz3SEMSCaQFTKu].md",
+          "key": "zizhi-tongjian-hanji-809-weishenme-quan-ni-buyao-luan-pai-mapi-lnv2l-ehkzmf2ifz3semscaqftku",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》809丨为什么劝你不要乱拍马屁？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-809-weishenme-quan-ni-buyao-luan-pai-mapi-lnv2l-ehkzmf2ifz3semscaqftku/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/wenlonglatehan/"
     },
     "Wendys": {
       "episode_count": 1,
