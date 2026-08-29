@@ -46814,6 +46814,13 @@
       "url": "/topics/history/"
     }
   ],
+  "PunishmentPersonalResponsibilityLimit": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "PunishmentTheoryTradeoff": [
     {
       "key": "politics",
@@ -65146,6 +65153,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "ZhaiGuiLateHan": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "ZhaitaiGaozhu": [

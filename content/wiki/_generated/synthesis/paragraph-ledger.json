@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "728ef5af93b8df7401c14f16865c994ef3fbf66483141cdcee877b43d30242b6",
       "caf5d74d2b71e37f734143a4139705b2532c3784434b5be1383381a6e120044a",
       "32b92b1f52aa3614f04ab3f605e40705e80f0665568d25d9ffd3768d5991e64f",
       "549888ed657f9b119f7043536a523a802cc3631a4eebfc4d2f7e307759430713",
@@ -374,11 +375,38 @@
       "c94dbb4bb11fbc67a68689063a003f4343a0087a9f4a369adf5930530cf3dce6",
       "42b428cd16585fd09c60d93170bb1c95fd3df1b9a2ff7182eb0ec9f1136bfe3d"
     ],
-    "paragraph_count": 372
+    "paragraph_count": 373
   },
-  "overview_commit": "c566107ac81c025cee2f76072a765873bf146cd0",
-  "overview_digest": "c2bfb592d1dfdd20a24d26233577130afc3eb1fbda818cbfff61e100e0902e35",
+  "overview_commit": "eb7173ffca054238060493bf21abd5ece188ef11",
+  "overview_digest": "c013c43f64f93ec2bc67e00b8ca448166669083a547c54b7f83f8d515f724745",
   "paragraphs": [
+    {
+      "id": "728ef5af93b8df7401c14f16865c994ef3fbf66483141cdcee877b43d30242b6",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-796-donghan-mingchen-vs-diwang-shenbianren-shui-neng-ying-lkyzp2v-cjysd65syoyuldlbdb5p|《资治通鉴·汉纪》796丨东汉名臣VS帝王身边人，谁能赢？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 120-121 CE [[EmperorAnOfHan|汉安帝]] court immediately before [[zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6|Hanji 797]]. It adds [[LiuGuiLateHan|刘瑰]], [[ZhaiGuiLateHan|翟瑰]], [[LiuKaiEasternHan|刘恺]], [[FengShiFavoriteLateHan|冯石]], and [[PunishmentPersonalResponsibilityLimit|刑罚个人责任边界]], while extending [[YangZhenLateHan|杨震]], [[WangShengPalaceActorLateHan|王圣]], [[BoRongLateHan|伯荣]], [[MaXianLateHan|马贤]], [[Xianbei|鲜卑]], and [[PrivateFavorAppointmentErosion|私恩任官侵蚀]]. Its core synthesis is that An-era private favor is already damaging title, office, fiscal, and feedback channels before the later Yang Zhen crisis: Yang challenges Wang Sheng, Bo Rong, and Liu Gui's title path, Zhai warns that private households are absorbing public wealth and authority, Ma Xian's Qiang-front repair is unstable, while Liu Kai's accepted objection to punishing corrupt officials' descendants shows that An can still accept bounded legal correction. No settled contradiction is recorded; transcript forms 薄荣/刘归/刘沪/翟规/刘凯 are normalized cautiously, and 冯石 is kept separate from [[FengShiLateHan|冯师]].",
+      "topic_scores": {
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "BoRongLateHan",
+        "EmperorAnOfHan",
+        "FengShiFavoriteLateHan",
+        "FengShiLateHan",
+        "LiuGuiLateHan",
+        "LiuKaiEasternHan",
+        "MaXianLateHan",
+        "PrivateFavorAppointmentErosion",
+        "PunishmentPersonalResponsibilityLimit",
+        "RuiqiJiangtouZizhiTongjian",
+        "WangShengPalaceActorLateHan",
+        "Xianbei",
+        "YangZhenLateHan",
+        "ZhaiGuiLateHan",
+        "zizhi-tongjian-hanji-796-donghan-mingchen-vs-diwang-shenbianren-shui-neng-ying-lkyzp2v-cjysd65syoyuldlbdb5p",
+        "zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6"
+      ]
+    },
     {
       "id": "caf5d74d2b71e37f734143a4139705b2532c3784434b5be1383381a6e120044a",
       "primary_topic": "governance-and-institutions",

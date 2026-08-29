@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 8320
+wiki_total_pages: 8324
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -866,6 +866,9 @@ wiki_pages:
   - key: "LiuHeng"
     title: "刘恒 / Emperor Wen of Han"
     url: "/wiki/entities/liuheng/"
+  - key: "LiuKaiEasternHan"
+    title: "刘恺 / Liu Kai (Eastern Han)"
+    url: "/wiki/entities/liukaieasternhan/"
   - key: "LiuQing"
     title: "刘擎 / Liu Qing"
     url: "/wiki/entities/liuqing/"
@@ -893,6 +896,9 @@ wiki_pages:
   - key: "LiuYuAstrologerLateHan"
     title: "刘瑜 / Liu Yu (late Han astrologer)"
     url: "/wiki/entities/liuyuastrologerlatehan/"
+  - key: "LiuGuiLateHan"
+    title: "刘瑰 / Liu Gui (late Han)"
+    url: "/wiki/entities/liuguilatehan/"
   - key: "LiuZhang"
     title: "刘璋 / Liu Zhang"
     url: "/wiki/entities/liuzhang/"

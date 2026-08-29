@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2016
+topic_total_pages: 2017
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3121,6 +3121,9 @@ topic_concepts:
   - key: "GongAnFiction"
     title: "公案小说 / Gong'an Fiction"
     url: "/wiki/concepts/gonganfiction/"
+  - key: "PunishmentPersonalResponsibilityLimit"
+    title: "刑罚个人责任边界 / Punishment Personal Responsibility Limit"
+    url: "/wiki/concepts/punishmentpersonalresponsibilitylimit/"
   - key: "TortureResistantExoneration"
     title: "刑讯守口式申冤 / Torture-Resistant Exoneration"
     url: "/wiki/concepts/tortureresistantexoneration/"

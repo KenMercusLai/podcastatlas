@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 8320
+wiki_total_pages: 8324
 wiki_pages:
   - key: "FortyThreeTalks"
     title: "43talks"
@@ -638,6 +638,9 @@ wiki_pages:
   - key: "FengHuanLateHan"
     title: "冯焕 / Feng Huan (late Han)"
     url: "/wiki/entities/fenghuanlatehan/"
+  - key: "FengShiFavoriteLateHan"
+    title: "冯石 / Feng Shi (Emperor An favorite)"
+    url: "/wiki/entities/fengshifavoritelatehan/"
   - key: "FengChanLateHan"
     title: "冯禅 / Feng Chan (late Han)"
     url: "/wiki/entities/fengchanlatehan/"

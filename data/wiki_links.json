@@ -17875,6 +17875,10 @@
     "title": "冯去疾 / Feng Quji",
     "url": "/wiki/entities/fengquji/"
   },
+  "FengShiFavoriteLateHan": {
+    "title": "冯石 / Feng Shi (Emperor An favorite)",
+    "url": "/wiki/entities/fengshifavoritelatehan/"
+  },
   "FengShiLateHan": {
     "title": "冯师 / Feng Shi (late Han)",
     "url": "/wiki/entities/fengshilatehan/"
@@ -30079,6 +30083,10 @@
     "title": "刘馥 / Liu Fu (late Han)",
     "url": "/wiki/entities/liufulatehan/"
   },
+  "LiuGuiLateHan": {
+    "title": "刘瑰 / Liu Gui (late Han)",
+    "url": "/wiki/entities/liuguilatehan/"
+  },
   "LiuHeLateHan": {
     "title": "刘和 / Liu He (Late Han)",
     "url": "/wiki/entities/liuhelatehan/"
@@ -30114,6 +30122,10 @@
   "LiuKai": {
     "title": "Liu Kai",
     "url": "/wiki/entities/liukai/"
+  },
+  "LiuKaiEasternHan": {
+    "title": "刘恺 / Liu Kai (Eastern Han)",
+    "url": "/wiki/entities/liukaieasternhan/"
   },
   "LiuKefan": {
     "title": "刘可凡 / Liu Kefan",
@@ -40426,6 +40438,10 @@
   "PunishmentAsMoralCredential": {
     "title": "受罚作为名节凭据 / Punishment as Moral Credential",
     "url": "/wiki/concepts/punishmentasmoralcredential/"
+  },
+  "PunishmentPersonalResponsibilityLimit": {
+    "title": "刑罚个人责任边界 / Punishment Personal Responsibility Limit",
+    "url": "/wiki/concepts/punishmentpersonalresponsibilitylimit/"
   },
   "PunishmentTheoryTradeoff": {
     "title": "Punishment Theory Tradeoff",
@@ -56607,6 +56623,10 @@
     "title": "翟超 / Zhai Chao (late Han)",
     "url": "/wiki/entities/zhaichaolatehan/"
   },
+  "ZhaiGuiLateHan": {
+    "title": "翟瑰 / Zhai Gui (late Han)",
+    "url": "/wiki/entities/zhaiguilatehan/"
+  },
   "ZhaitaiGaozhu": {
     "title": "债台高筑 / Zhaitai Gaozhu",
     "url": "/wiki/concepts/zhaitaigaozhu/"
@@ -62126,6 +62146,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-796-donghan-mingchen-vs-diwang-shenbianren-shui-neng-ying-lkyzp2v-cjysd65syoyuldlbdb5p": {
+    "title": "《资治通鉴·汉纪》796丨东汉名臣VS帝王身边人，谁能赢？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-796-donghan-mingchen-vs-diwang-shenbianren-shui-neng-ying-lkyzp2v-cjysd65syoyuldlbdb5p/"
   },
   "zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6": {
     "title": "《资治通鉴·汉纪》797丨古代忠孝真的无法两全吗？",

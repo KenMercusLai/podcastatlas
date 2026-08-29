@@ -10,68 +10,63 @@ sources:
   - zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc
   - zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew
   - zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6
+  - zizhi-tongjian-hanji-796-donghan-mingchen-vs-diwang-shenbianren-shui-neng-ying-lkyzp2v-cjysd65syoyuldlbdb5p
 last_updated: 2026-08-29
 ---
 
 ## Overview
 
-马贤 / Ma Xian is a late-Han frontier commander whose current profile now begins before [[EmperorShunOfHan|Emperor Shun]] with a 122 CE victory against Shaodang Qiang forces under [[EmperorAnOfHan|Emperor An]]. Hanji 797, Hanji 805, Hanji 816, Hanji 817, and Hanji 820 show that Ma Xian had repeated frontier value; Hanji 821 makes him the negative appointment-quality and command-collapse case who delays, ignores the warning field, and dies with his sons at Shegu Mountain.
+马贤 / Ma Xian is a late-Han Qiang-front commander whose current profile now begins with unstable repair under [[EmperorAnOfHan|汉安帝]] before later victories under [[EmperorShunOfHan|汉顺帝]] and final command collapse at Shegu Mountain. [[zizhi-tongjian-hanji-796-donghan-mingchen-vs-diwang-shenbianren-shui-neng-ying-lkyzp2v-cjysd65syoyuldlbdb5p|Hanji 796]] shows inadequate appeasement and mixed campaigning around Manu; Hanji 797 and Hanji 805-820 preserve why later courts still saw him as useful; Hanji 821 makes him the negative appointment-fit case who delays, ignores the warning field, and dies with his sons.
 
 ## Current Profile
 
-The earliest current layer comes from [[zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6|Hanji 797]]. In 122 CE, as Protector of Qiang, Ma Xian pursues the Shaodang Qiang leader Manu to Huangzhong and defeats Qiang forces. The same source later notes Manu's surrender to Hanyang administrator Geng Zhong after famine, keeping Ma's early layer inside a volatile Qiang-front field.
+Hanji 796 now supplies the earliest current layer. Ren Liang and others resent Ma Xian because Manu's brothers are treated as legitimate Shaodang Qiang heirs but Ma has not appeased them adequately. The unrest expands into Huangzhong and Jincheng. Ma leads Xianling Qiang forces in response and fights at Muyuan without victory; after the rebels defeat Wuwei and Zhangye commandery troops, he pursues to Luanniao and induces thousands of households to surrender, but Manu returns south toward Huangzhong. The episode presents this as a cycle of rebellion, inducement to surrender, and renewed conflict.
 
-The next current layer comes from [[zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew|Hanji 805]]. During the opening 126 CE Shun-era settlement, Zhong Qiang rebels in Longxi, and Ma Xian meets them at Lintao, kills more than one thousand, receives their surrender, and temporarily stabilizes Liangzhou. This makes his later failure sharper: the current evidence begins with battlefield usefulness rather than incompetence.
+[[zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6|Hanji 797]] then records a cleaner 122 CE success layer. As Protector of Qiang, Ma pursues the Shaodang Qiang leader Manu to Huangzhong and defeats Qiang forces; the same source later notes Manu's surrender to Hanyang administrator Geng Zhong after famine. This keeps Ma's early record mixed: he is neither simply incompetent nor consistently stabilizing.
 
-[[zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc|Hanji 816]] supplies the next appointment layer. After Liang Feng attacks Longxi and Hanyang, [[EmperorShunOfHan|Emperor Shun]] appoints the former Protector of Qiang Ma Xian as yezhe, putting him back into the Qiang-front response before the later victory and failure layers.
+[[zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew|Hanji 805]] gives the first Shun-era success. In 126 CE, Zhong Qiang rebels in Longxi, and Ma meets them at Lintao, kills more than one thousand, receives their surrender, and temporarily stabilizes Liangzhou. Hanji 816 then shows Shun appointing the former Protector of Qiang Ma Xian as yezhe after Liang Feng attacks Longxi and Hanyang.
 
-The 135 CE success layer comes from [[zizhi-tongjian-hanji-817-kan-si-ruanruo-de-ren-shize-huode-geng-tongtou-llmgqys237de3dzb6ij-4szyetye|Hanji 817]]. During a drought-marked crisis field, Ma Xian attacks and defeats Qiang forces. This makes his later failure sharper: the problem is not that he never had frontier competence, but that earlier service becomes an inadequate guide to later appointment fit.
+[[zizhi-tongjian-hanji-817-kan-si-ruanruo-de-ren-shize-huode-geng-tongtou-llmgqys237de3dzb6ij-4szyetye|Hanji 817]] records a 135 CE success during a drought-marked crisis field, and [[zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap|Hanji 820]] records Ma defeating the Shaodang Qiang leader Na Li in 139 CE. That same Hanji 820 layer also contains [[LiangShangLateHan|梁商]]'s warning that Ma is too old for the renewed Western Qiang crisis and that Song Han would be better. Shun rejects the warning, and Ma delays after receiving the order.
 
-Hanji 820 continues that pre-disaster record. In 139 CE, during the Shaodang Qiang revolt, Ma Xian defeats Na Li. The same source later shows [[EmperorShunOfHan|Emperor Shun]] preparing to use him against a renewed Western Qiang crisis while [[LiangShangLateHan|Liang Shang]] warns that Ma Xian is too old and proposes Song Han instead. Shun refuses the warning, and Ma Xian delays after receiving the order.
-
-[[zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh|Hanji 821]] carries that setup into disaster. [[MaRongLateHan|Ma Rong]] argues that Ma Xian is enjoying feasts, clothing, chariots, and horses instead of striking before Qiang forces unite, and [[HuangfuGuiLateHan|Huangfu Gui]] independently predicts that Ma Xian will lose. On 141-01-21, Ma Xian and his two sons are defeated and killed at Shegu Mountain.
+[[zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh|Hanji 821]] carries the warning into catastrophe. [[MaRongLateHan|马融]] says Ma Xian is enjoying feasts, clothing, chariots, and horses instead of striking before Qiang forces unite, and [[HuangfuGuiLateHan|皇甫规]] independently predicts defeat. On 141-01-21, Ma Xian and his two sons are defeated and killed at Shegu Mountain.
 
 ## Key Characteristics
 
-- Frontier commander with repeated prior Qiang-front appointment and success, now beginning with a 122 CE Shaodang Qiang victory.
-- Negative appointment-fit case because earlier service does not prove later suitability.
+- Frontier commander whose record begins with mixed An-era appeasement and campaign outcomes, not just later victories.
+- Repeated Qiang-front appointee with genuine battlefield successes in 122, 126, 135, and 139 CE layers.
+- Negative appointment-fit case because earlier usefulness does not prove later suitability by age, tempo, and crisis context.
 - Commander associated with delayed action while Qiang forces gained cohesion.
-- Battlefield failure whose defeat widened pressure on Longxi, Guanzhong, and the tomb-security field.
+- Battlefield failure whose death widens pressure on Longxi, Guanzhong, and the tomb-security field.
 - Source-bounded example of how rejected remonstrance can become military catastrophe.
 
 ## Evidence
 
+- Mixed earliest layer: [[zizhi-tongjian-hanji-796-donghan-mingchen-vs-diwang-shenbianren-shui-neng-ying-lkyzp2v-cjysd65syoyuldlbdb5p|Hanji 796]] says Ma Xian's inadequate appeasement of Manu's line contributes to resentment, that he fights at Muyuan without victory, and that his later inducement of thousands of households does not stop Manu's return to Huangzhong.
 - Earliest current success: [[zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6|Hanji 797]] says Protector of Qiang Ma Xian pursues Shaodang Qiang leader Manu to Huangzhong and defeats Qiang forces in 122 CE.
-- Opening Shun-era success: [[zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew|Hanji 805]] says Ma Xian defeats the rebelling Zhong Qiang at Lintao, kills more than one thousand, receives the tribe's surrender, and stabilizes Liangzhou for the moment.
-- Earliest appointment layer: [[zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc|Hanji 816]] says Shun appoints the former Protector of Qiang Ma Xian after Liang Feng attacks Longxi and Hanyang.
-- Later recorded success: [[zizhi-tongjian-hanji-817-kan-si-ruanruo-de-ren-shize-huode-geng-tongtou-llmgqys237de3dzb6ij-4szyetye|Hanji 817]] says Ma Xian attacks and defeats Qiang during the 135 CE drought-year layer.
-- Earlier success: [[zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap|Hanji 820]] says Ma Xian defeats the Shaodang Qiang leader Na Li.
-- Appointment warning: [[zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap|Hanji 820]] says Liang Shang warns Shun against using Ma Xian and recommends Song Han instead.
-- Appointment dispute and delay: [[zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh|Hanji 821]] continues the same appointment field, with Shun insisting on Ma Xian and Ma Xian delaying while Qiang forces consolidate.
-- Ma Rong's warning: [[zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh|Hanji 821]] says Ma Rong asks for 5,000 troops and criticizes Ma Xian's luxury and delay.
-- Huangfu Gui's warning: [[zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh|Hanji 821]] says Huangfu Gui predicts Ma Xian's defeat before the court acts.
-- Defeat and consequence: [[zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh|Hanji 821]] says Ma Xian and his sons die at Shegu Mountain and links the defeat to continued pressure toward Longxi and Guanzhong.
+- Opening Shun-era success: [[zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew|Hanji 805]] says Ma defeats the rebelling Zhong Qiang at Lintao, kills more than one thousand, receives surrender, and stabilizes Liangzhou for the moment.
+- Later appointment basis: [[zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc|Hanji 816]] says Shun appoints the former Protector of Qiang Ma Xian after Liang Feng attacks Longxi and Hanyang, while [[zizhi-tongjian-hanji-817-kan-si-ruanruo-de-ren-shize-huode-geng-tongtou-llmgqys237de3dzb6ij-4szyetye|Hanji 817]] says Ma attacks and defeats Qiang in the 135 CE drought-year layer.
+- Final pre-disaster warning: [[zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap|Hanji 820]] says Ma defeats Na Li but later has Liang Shang warn against his use in the renewed Western Qiang crisis.
+- Fatal failure: [[zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh|Hanji 821]] says Shun insists on Ma Xian, Ma delays while Qiang forces consolidate, Ma Rong and Huangfu Gui warn of defeat, and Ma Xian and his sons die at Shegu Mountain.
 
 ## Qualifications
 
-This page is bounded to Hanji 821, Hanji 820, Hanji 817, Hanji 816, Hanji 805, and Hanji 797. Hanji 797 adds the earliest current success layer under Emperor An, while Hanji 805 adds the first Shun-era success and Hanji 816-820 show later appointment basis and further competence against Qiang opponents. The current judgment is not that Ma Xian never had frontier ability; it is that the later appointment was poorly matched to the moment, tempo, age, and warning evidence available to Shun.
+This page is bounded to Hanji 821, Hanji 820, Hanji 817, Hanji 816, Hanji 805, Hanji 797, and Hanji 796. Hanji 796 adds a mixed pre-victory layer under Emperor An; Hanji 797 and later sources preserve the real basis for Ma's reputation. The current judgment is not that Ma Xian never had frontier ability. It is that prior service could not justify the later appointment once age, delay, rebel consolidation, and explicit warnings pointed the other way.
 
 ## What Changed
 
-- Added Hanji 797 as Ma Xian's earliest current layer, giving him a 122 CE Shaodang Qiang victory before the Shun-era evidence.
-- Preserved Hanji 805 as the first Shun-era layer, with a 126 CE Zhong Qiang victory before the 134 CE appointment and later successes.
-- Preserved Hanji 816, Hanji 817, and Hanji 820 as the next pre-disaster layers, including a further appointment, two victories, and Liang Shang's rejected warning.
-- Reframed Ma Xian from a simple failure profile into a case where prior service did not justify later appointment fit.
+- Added Hanji 796 as Ma Xian's earliest current layer, replacing a simple 122 CE success opening with an unstable appeasement-and-campaign field.
+- Preserved Hanji 797 as the first clear victory layer and Hanji 805-820 as the evidence explaining why later courts continued using Ma.
+- Reframed the Shegu Mountain disaster as appointment-fit failure after a mixed but often successful career, not as proof of lifelong incompetence.
 
 ## Relationships
 
-- [[EmperorAnOfHan|Emperor An]] - ruler in whose 122 CE reign Ma Xian appears as Protector of Qiang defeating Shaodang Qiang forces.
-- [[EmperorShunOfHan|Emperor Shun]] - ruler whose early reign benefits from Ma Xian's 126 CE victory but later insists on Ma Xian's failed appointment.
-- [[LiangShangLateHan|Liang Shang]] - senior figure who warns against Ma Xian before the fatal campaign.
-- [[MaXuLateHan|Ma Xu]] - fellow Ma-family frontier commander whose Hanji 816 and Hanji 820 roles show a different command pattern.
-- [[MaRongLateHan|Ma Rong]] - official who criticizes Ma Xian's delay and asks to replace the ineffective tempo with selected troops.
-- [[HuangfuGuiLateHan|Huangfu Gui]] - remonstrant who predicts Ma Xian's defeat.
-- [[ZhaoChongLateHan|Zhao Chong]] - later Qiang-front commander whose partial success follows Ma Xian's collapse.
-- [[AppointmentQualityAsStateCapacity|Appointment quality as state capacity]] - broader concept for the cost of choosing an unfit commander.
-- [[FrontierCommandCollapse|Frontier command collapse]] - campaign-failure pattern illustrated by Ma Xian's delayed and defeated command.
-- [[MilitaryFinanceCorruption|Military finance corruption]] - adjacent failure field named by Huangfu Gui's memorial after Ma Xian's defeat.
+- [[EmperorAnOfHan|汉安帝]] - ruler in whose reign Ma Xian's Qiang-front appeasement, battle, inducement, and later pursuit of Manu unfold.
+- [[EmperorShunOfHan|汉顺帝]] - ruler whose early reign benefits from Ma's 126 CE victory but later insists on Ma's failed appointment.
+- [[LiangShangLateHan|梁商]] - senior figure who warns against Ma Xian before the fatal campaign.
+- [[MaXuLateHan|马续]] - fellow Ma-family frontier commander whose Hanji 816 and Hanji 820 roles show a different command pattern.
+- [[MaRongLateHan|马融]] - official who criticizes Ma Xian's delay and asks to replace the ineffective tempo with selected troops.
+- [[HuangfuGuiLateHan|皇甫规]] - remonstrant who predicts Ma Xian's defeat.
+- [[ZhaoChongLateHan|赵冲]] - later Qiang-front commander whose partial success follows Ma Xian's collapse.
+- [[AppointmentQualityAsStateCapacity|任官适任性国家能力]] - broader concept for the cost of choosing an unfit commander.
+- [[FrontierCommandCollapse|边将指挥崩盘]] - campaign-failure pattern illustrated by Ma Xian's delayed and defeated command.
+- [[MilitaryFinanceCorruption|军费腐败]] - adjacent failure field named by Huangfu Gui's memorial after Ma Xian's defeat.

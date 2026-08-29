@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-29] ingest | 《资治通鉴·汉纪》796丨东汉名臣VS帝王身边人，谁能赢？
+
+Ingested the 2026-07-07 芮淇讲透资治通鉴 episode on 120-121 CE Emperor An, Yang Zhen's remonstrance against Wang Sheng, Bo Rong, and Liu Gui's title succession, Zhai Gui's anti-favorite warning, Ma Xian's unstable Qiang-front handling, Liu Kai's accepted objection to descendant punishment for corrupt officials, Xianbei raids, and Feng Shi's favored household. Created the source note plus Liu Gui, Zhai Gui, Liu Kai (Eastern Han), Feng Shi (Emperor An favorite), and Punishment Personal Responsibility Limit pages; updated Emperor An, Yang Zhen, Wang Sheng, Bo Rong, Ma Xian, Private-Favor Appointment Erosion, index, and overview. No settled contradiction found; source transcript forms 薄荣, 刘归, 刘沪, 翟规, and 刘凯 are normalized to 伯荣, 刘瑰, 刘护, 翟瑰, and 刘恺, with 冯石 kept distinct from 冯师 and the modern Liu Kai kept distinct from the Eastern Han official.
+
 ## [2026-08-29] ingest | 《资治通鉴·汉纪》804丨给你“糖”的人，不一定是贵人！
 
 Ingested the 2026-07-09 芮淇讲透资治通鉴 episode on the 125 CE eunuch-backed restoration of Emperor Shun, North Palace seal control, Jiade Hall installation, Yan Xian's defeat, Yan-family exile, Sun Cheng's nineteen-eunuch reward bloc, Wang Kang and Miao Guang's merit-list exposure, and Cui Yuan's post-coup non-exposure. Created the source note plus Yan Xian, Wang Kang, Miao Guang, the disambiguated eunuch Wang Guo, Cui Yuan, and Coup Credit Allocation Risk pages; updated Emperor Shun, Sun Cheng, Succession Legitimacy Purge, Palace Coup Symbol Control, Post-Restoration Merit Threat, overview, and index. No settled contradiction found; the eunuch Wang Guo is kept distinct from the later Liangzhou rebel Wang Guo, and Yan Yao, Yan Yan, Liu An, Chen Da, Li Run, Lai Li, Deng Feng, Liu Qiuhong, Chen Guang, Zhao Dai, Beixiang Hou / Liu Yi, Chen Chan, and the Huangmen Ling remain source-scoped.
@@ -13520,6 +13524,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-29] ingest | 《资治通鉴·汉纪》800丨杨震之死：一场奸臣对清官的剿杀
 
 Ingested the 2026-07-08 芮淇讲透资治通鉴 episode on 124 CE Yang Zhen's death, Fan Feng/Zhou Guang/Xie Yun's forged-edict private construction, Zhao Teng's execution after direct criticism, Geng Bao's accusation, Lai Li's rebuke, and Ban Yong's Western Regions submission chain. Created the source note plus `ZhouGuangLateHan`, `XieYunLateHan`, `ZhaoTengLateHan`, and `ForgedEdictPrivateExtraction`; updated `YangZhenLateHan`, `EmperorAnOfHan`, `FanFengEunuchLateHan`, `GengBaoGrandGeneralLateHan`, `LaiLiLateHan`, `BanYongLateHan`, `DirectRemonstranceCriminalization`, `OmenCodedRemonstrance`, `index`, and `overview`. No settled contradiction found; Geng Bao's dahonglu-to-Grand-General chronology, Feng Shi / 冯石, Yi Liang, and minor Western Regions actors remain source-scoped.
+
+## [2026-08-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-29] lint | Wiki health check
 
