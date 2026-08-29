@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 8259
+wiki_total_pages: 8265
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1343,6 +1343,9 @@ wiki_pages:
   - key: "AnneSanitaryNapkin"
     title: "安妮卫生巾 / Anne"
     url: "/wiki/entities/annesanitarynapkin/"
+  - key: "AndingCommandery"
+    title: "安定郡 / Anding Commandery"
+    url: "/wiki/entities/andingcommandery/"
   - key: "Anhui"
     title: "安徽 / Anhui"
     url: "/wiki/entities/anhui/"

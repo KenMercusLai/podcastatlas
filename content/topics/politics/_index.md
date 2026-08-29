@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1999
+topic_total_pages: 2001
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3250,6 +3250,9 @@ topic_concepts:
   - key: "SuspicionDrivenEliteAlienation"
     title: "猜疑驱动的士族离心 / Suspicion-Driven Elite Alienation"
     url: "/wiki/concepts/suspiciondrivenelitealienation/"
+  - key: "RoyalFiefDiscipline"
+    title: "王国相整肃 / Royal Fief Discipline"
+    url: "/wiki/concepts/royalfiefdiscipline/"
   - key: "WangAnshiReforms"
     title: "王安石变法 / Wang Anshi Reforms"
     url: "/wiki/concepts/wanganshireforms/"
@@ -3298,6 +3301,9 @@ topic_concepts:
   - key: "UnauthorizedFrontierCommandIntervention"
     title: "边疆将领擅断干预 / Unauthorized Frontier Command Intervention"
     url: "/wiki/concepts/unauthorizedfrontiercommandintervention/"
+  - key: "FrontierCommanderyRestoration"
+    title: "边郡恢复治理 / Frontier Commandery Restoration"
+    url: "/wiki/concepts/frontiercommanderyrestoration/"
   - key: "YuanjiaoJingongStrategy"
     title: "远交近攻 / Yuanjiao Jingong Strategy"
     url: "/wiki/concepts/yuanjiaojingongstrategy/"

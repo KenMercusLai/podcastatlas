@@ -4347,6 +4347,10 @@
     "title": "Ancient Large-Army Command Limits / 古代大兵团指挥极限",
     "url": "/wiki/concepts/ancientlargearmycommandlimits/"
   },
+  "AndingCommandery": {
+    "title": "安定郡 / Anding Commandery",
+    "url": "/wiki/entities/andingcommandery/"
+  },
   "Andor": {
     "title": "《安多》 / Andor",
     "url": "/wiki/entities/andor/"
@@ -6010,6 +6014,10 @@
   "BambuLab": {
     "title": "Bambu Lab / 拓竹科技",
     "url": "/wiki/entities/bambulab/"
+  },
+  "BanShiLateHan": {
+    "title": "班始 / Ban Shi (late Han)",
+    "url": "/wiki/entities/banshilatehan/"
   },
   "BanalityOfEvil": {
     "title": "Banality Of Evil / 恶的平庸性",
@@ -19223,6 +19231,10 @@
     "title": "Frontier Command Collapse / 边郡军政崩盘",
     "url": "/wiki/concepts/frontiercommandcollapse/"
   },
+  "FrontierCommanderyRestoration": {
+    "title": "边郡恢复治理 / Frontier Commandery Restoration",
+    "url": "/wiki/concepts/frontiercommanderyrestoration/"
+  },
   "FrontierConscriptionBackfire": {
     "title": "边疆征发反噬 / Frontier Conscription Backfire",
     "url": "/wiki/concepts/frontierconscriptionbackfire/"
@@ -27100,7 +27112,7 @@
     "url": "/wiki/entities/jumikingchengguolatehan/"
   },
   "JumiKingdomLateHan": {
-    "title": "居弥国 / Jumi Kingdom (late Han)",
+    "title": "居弥 / 拘弥国 / Jumi Kingdom (late Han)",
     "url": "/wiki/entities/jumikingdomlatehan/"
   },
   "JumillaCF": {
@@ -30090,6 +30102,10 @@
   "LiuZhang": {
     "title": "刘璋 / Liu Zhang",
     "url": "/wiki/entities/liuzhang/"
+  },
+  "LiuZhengHejianKing": {
+    "title": "刘政 / Liu Zheng (Hejian King)",
+    "url": "/wiki/entities/liuzhenghejianking/"
   },
   "LiuZhiTaiyuanLateHan": {
     "title": "刘质 / Liu Zhi (Taiyuan late Han)",
@@ -39391,6 +39407,10 @@
     "title": "Princess Elisabeth of Bohemia / 波西米亚公主伊丽莎白",
     "url": "/wiki/entities/princesselisabethofbohemia/"
   },
+  "PrincessMarriagePowerAsymmetry": {
+    "title": "公主婚姻权力失衡 / Princess Marriage Power Asymmetry",
+    "url": "/wiki/concepts/princessmarriagepowerasymmetry/"
+  },
   "PrincessMononoke": {
     "title": "《幽灵公主》 / Princess Mononoke",
     "url": "/wiki/entities/princessmononoke/"
@@ -42835,6 +42855,10 @@
     "title": "Royal Execution Legitimacy",
     "url": "/wiki/concepts/royalexecutionlegitimacy/"
   },
+  "RoyalFiefDiscipline": {
+    "title": "王国相整肃 / Royal Fief Discipline",
+    "url": "/wiki/concepts/royalfiefdiscipline/"
+  },
   "RoyalHighlandFusiliers": {
     "title": "Royal Highland Fusiliers",
     "url": "/wiki/entities/royalhighlandfusiliers/"
@@ -44638,6 +44662,10 @@
   "ShenGuPhysiognomy": {
     "title": "神骨相法 / Spirit-Bone Physiognomy",
     "url": "/wiki/concepts/shenguphysiognomy/"
+  },
+  "ShenJingLateHan": {
+    "title": "沈景 / Shen Jing (late Han)",
+    "url": "/wiki/entities/shenjinglatehan/"
   },
   "ShenNanpeng": {
     "title": "Shen Nanpeng",
@@ -50535,6 +50563,10 @@
     "title": "Tumor Microenvironment",
     "url": "/wiki/concepts/tumormicroenvironment/"
   },
+  "TuntianProximitySecurityDilemma": {
+    "title": "屯田贴近引发安全困境 / Tuntian Proximity Security Dilemma",
+    "url": "/wiki/concepts/tuntianproximitysecuritydilemma/"
+  },
   "TuntianSystem": {
     "title": "Tuntian System / 屯田制",
     "url": "/wiki/concepts/tuntiansystem/"
@@ -55439,6 +55471,10 @@
     "title": "Yimu Technology / 一目科技",
     "url": "/wiki/entities/yimutechnology/"
   },
+  "YinChengPrincess": {
+    "title": "阴城公主 / Princess Yincheng",
+    "url": "/wiki/entities/yinchengprincess/"
+  },
   "YinJie": {
     "title": "殷姐",
     "url": "/wiki/entities/yinjie/"
@@ -55602,6 +55638,10 @@
   "Yiwu": {
     "title": "Yiwu",
     "url": "/wiki/entities/yiwu/"
+  },
+  "YiwuGarrisonLateHan": {
+    "title": "伊吾屯田 / Yiwu Garrison Farming (late Han)",
+    "url": "/wiki/entities/yiwugarrisonlatehan/"
   },
   "YixianLateHan": {
     "title": "易县 / Yi County (Late Han)",
@@ -61738,6 +61778,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc": {
+    "title": "《资治通鉴·汉纪》810丨他拼个满门被斩，为何也要杀妻？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc/"
   },
   "zizhi-tongjian-hanji-811-gudai-huangdi-jing-kao-chouqian-xuan-huanghou-lghfih9xcrjyrvdlb4obdxvwhl1y": {
     "title": "《资治通鉴·汉纪》811丨古代皇帝竟靠抽签选皇后？",

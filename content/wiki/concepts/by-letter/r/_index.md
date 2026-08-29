@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 5908
+wiki_total_pages: 5912
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -830,6 +830,9 @@ wiki_pages:
   - key: "RootCauseRemonstrance"
     title: "根源诊断式进谏 / Root-Cause Remonstrance"
     url: "/wiki/concepts/rootcauseremonstrance/"
+  - key: "RoyalFiefDiscipline"
+    title: "王国相整肃 / Royal Fief Discipline"
+    url: "/wiki/concepts/royalfiefdiscipline/"
   - key: "RedChamberEntryReading"
     title: "红楼入口式阅读 / Red Chamber Entry Reading"
     url: "/wiki/concepts/redchamberentryreading/"

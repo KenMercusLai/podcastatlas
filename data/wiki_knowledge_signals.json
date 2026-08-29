@@ -1961,6 +1961,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/ancientgreekhonorcommunity/"
     },
+    "AndingCommandery": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》810丨他拼个满门被斩，为何也要杀妻？ [lo8vW0JJ0d6IR7yQBUh_5p9oRZSc].md",
+          "key": "zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》810丨他拼个满门被斩，为何也要杀妻？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/andingcommandery/"
+    },
     "AndrewHuberman": {
       "episode_count": 13,
       "show_count": 1,
@@ -3008,6 +3024,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/baimarelieflatehan/"
+    },
+    "BanShiLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》810丨他拼个满门被斩，为何也要杀妻？ [lo8vW0JJ0d6IR7yQBUh_5p9oRZSc].md",
+          "key": "zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》810丨他拼个满门被斩，为何也要杀妻？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/banshilatehan/"
     },
     "BasicResearchBreakthroughLatency": {
       "episode_count": 1,
@@ -8399,9 +8431,9 @@
       "url": "/wiki/entities/emperorhuanofhan/"
     },
     "EmperorShunOfHan": {
-      "episode_count": 13,
+      "episode_count": 14,
       "show_count": 1,
-      "source_note_count": 13,
+      "source_note_count": 14,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》822丨豺狼当道，他将矛头直指皇帝岳父？ [lqHpMAYVd3p07BYR_zOIv-jyhdv_].md",
@@ -8493,6 +8525,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》811丨古代皇帝竟靠抽签选皇后？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-811-gudai-huangdi-jing-kao-chouqian-xuan-huanghou-lghfih9xcrjyrvdlb4obdxvwhl1y/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》810丨他拼个满门被斩，为何也要杀妻？ [lo8vW0JJ0d6IR7yQBUh_5p9oRZSc].md",
+          "key": "zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》810丨他拼个满门被斩，为何也要杀妻？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc/"
         }
       ],
       "updated": "2026-08-29",
@@ -10096,6 +10135,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/frontiercommandcollapse/"
+    },
+    "FrontierCommanderyRestoration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》810丨他拼个满门被斩，为何也要杀妻？ [lo8vW0JJ0d6IR7yQBUh_5p9oRZSc].md",
+          "key": "zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》810丨他拼个满门被斩，为何也要杀妻？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/frontiercommanderyrestoration/"
     },
     "FrontierConscriptionBackfire": {
       "episode_count": 3,
@@ -14610,9 +14665,9 @@
       "url": "/wiki/entities/jumikingchengguolatehan/"
     },
     "JumiKingdomLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》838丨贪婪的诱惑，让他狂飙在作死的路上 [lrYDIlyNi6O6YzHk1_E74M6aiGWr].md",
@@ -14620,9 +14675,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》838丨贪婪的诱惑，让他狂飙在作死的路上",
           "url": "/wiki/sources/zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》810丨他拼个满门被斩，为何也要杀妻？ [lo8vW0JJ0d6IR7yQBUh_5p9oRZSc].md",
+          "key": "zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》810丨他拼个满门被斩，为何也要杀妻？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-29",
       "url": "/wiki/entities/jumikingdomlatehan/"
     },
     "KaiserWilhelmII": {
@@ -14729,9 +14791,9 @@
       "url": "/wiki/entities/khotankingjianlatehan/"
     },
     "KhotanKingdomLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》838丨贪婪的诱惑，让他狂飙在作死的路上 [lrYDIlyNi6O6YzHk1_E74M6aiGWr].md",
@@ -14739,9 +14801,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》838丨贪婪的诱惑，让他狂飙在作死的路上",
           "url": "/wiki/sources/zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》810丨他拼个满门被斩，为何也要杀妻？ [lo8vW0JJ0d6IR7yQBUh_5p9oRZSc].md",
+          "key": "zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》810丨他拼个满门被斩，为何也要杀妻？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-29",
       "url": "/wiki/entities/khotankingdomlatehan/"
     },
     "KimiDeltaAttention": {
@@ -16943,6 +17012,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/liuzhang/"
     },
+    "LiuZhengHejianKing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》810丨他拼个满门被斩，为何也要杀妻？ [lo8vW0JJ0d6IR7yQBUh_5p9oRZSc].md",
+          "key": "zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》810丨他拼个满门被斩，为何也要杀妻？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/liuzhenghejianking/"
+    },
     "LiuZhiTaiyuanLateHan": {
       "episode_count": 3,
       "show_count": 1,
@@ -17972,9 +18057,9 @@
       "url": "/wiki/entities/maxianlatehan/"
     },
     "MaXuLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》820丨职场警示！小心领导让你背黑锅 [lqKejieIiHMUpFiFuk8sxP3oAdAP].md",
@@ -17989,6 +18074,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》816丨想要“拿下”你的领导，其实很简单",
           "url": "/wiki/sources/zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》810丨他拼个满门被斩，为何也要杀妻？ [lo8vW0JJ0d6IR7yQBUh_5p9oRZSc].md",
+          "key": "zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》810丨他拼个满门被斩，为何也要杀妻？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc/"
         }
       ],
       "updated": "2026-08-29",
@@ -21685,6 +21777,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/preventivehealthscreening/"
     },
+    "PrincessMarriagePowerAsymmetry": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》810丨他拼个满门被斩，为何也要杀妻？ [lo8vW0JJ0d6IR7yQBUh_5p9oRZSc].md",
+          "key": "zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》810丨他拼个满门被斩，为何也要杀妻？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/princessmarriagepowerasymmetry/"
+    },
     "PrincessStephanieOfBelgium": {
       "episode_count": 1,
       "show_count": 1,
@@ -23361,6 +23469,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/royalexecutionlegitimacy/"
     },
+    "RoyalFiefDiscipline": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》810丨他拼个满门被斩，为何也要杀妻？ [lo8vW0JJ0d6IR7yQBUh_5p9oRZSc].md",
+          "key": "zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》810丨他拼个满门被斩，为何也要杀妻？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/royalfiefdiscipline/"
+    },
     "RuleOverKinshipPower": {
       "episode_count": 2,
       "show_count": 1,
@@ -24163,6 +24287,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/shekharnatarajan/"
+    },
+    "ShenJingLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》810丨他拼个满门被斩，为何也要杀妻？ [lo8vW0JJ0d6IR7yQBUh_5p9oRZSc].md",
+          "key": "zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》810丨他拼个满门被斩，为何也要杀妻？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/shenjinglatehan/"
     },
     "ShenPeiLateHan": {
       "episode_count": 5,
@@ -26062,9 +26202,9 @@
       "url": "/wiki/entities/tadunlatehan/"
     },
     "Taixue": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》905丨富贵如何险中求？ [lklXX5nqUka2MTblLXIvk0a7B-fu].md",
@@ -26107,6 +26247,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》827丨一句话引发的帝王之死",
           "url": "/wiki/sources/zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》810丨他拼个满门被斩，为何也要杀妻？ [lo8vW0JJ0d6IR7yQBUh_5p9oRZSc].md",
+          "key": "zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》810丨他拼个满门被斩，为何也要杀妻？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc/"
         }
       ],
       "updated": "2026-08-29",
@@ -27367,6 +27514,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/tumormicroenvironment/"
+    },
+    "TuntianProximitySecurityDilemma": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》810丨他拼个满门被斩，为何也要杀妻？ [lo8vW0JJ0d6IR7yQBUh_5p9oRZSc].md",
+          "key": "zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》810丨他拼个满门被斩，为何也要杀妻？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/tuntianproximitysecuritydilemma/"
     },
     "UAPCompartmentalization": {
       "episode_count": 1,
@@ -30763,6 +30926,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/yijingfortress/"
     },
+    "YinChengPrincess": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》810丨他拼个满门被斩，为何也要杀妻？ [lo8vW0JJ0d6IR7yQBUh_5p9oRZSc].md",
+          "key": "zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》810丨他拼个满门被斩，为何也要杀妻？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/yinchengprincess/"
+    },
     "YinLaoshiZheBing": {
       "episode_count": 1,
       "show_count": 1,
@@ -30917,6 +31096,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/yingchuanfourmagistrates/"
     },
+    "YiwuGarrisonLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》810丨他拼个满门被斩，为何也要杀妻？ [lo8vW0JJ0d6IR7yQBUh_5p9oRZSc].md",
+          "key": "zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》810丨他拼个满门被斩，为何也要杀妻？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/yiwugarrisonlatehan/"
+    },
     "YouthFootballPublicAccess": {
       "episode_count": 1,
       "show_count": 1,
@@ -30980,9 +31175,9 @@
       "url": "/wiki/entities/yufan/"
     },
     "YuXuEasternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》818丨官场为什么要多交友？能救命！ [liYzIuDpEzoA4L6pBSQ0wk2qDjDr].md",
@@ -30990,6 +31185,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》818丨官场为什么要多交友？能救命！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》810丨他拼个满门被斩，为何也要杀妻？ [lo8vW0JJ0d6IR7yQBUh_5p9oRZSc].md",
+          "key": "zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》810丨他拼个满门被斩，为何也要杀妻？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc/"
         }
       ],
       "updated": "2026-08-29",

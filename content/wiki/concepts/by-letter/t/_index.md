@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 5908
+wiki_total_pages: 5912
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -701,6 +701,9 @@ wiki_pages:
   - key: "TaixueCollectivePetition"
     title: "太学集体请命 / Taixue Collective Petition"
     url: "/wiki/concepts/taixuecollectivepetition/"
+  - key: "TuntianProximitySecurityDilemma"
+    title: "屯田贴近引发安全困境 / Tuntian Proximity Security Dilemma"
+    url: "/wiki/concepts/tuntianproximitysecuritydilemma/"
   - key: "TerminalHezongFailure"
     title: "末次合纵失败 / Terminal Hezong Failure"
     url: "/wiki/concepts/terminalhezongfailure/"

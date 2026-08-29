@@ -13404,3 +13404,11 @@ Ingested the 2026-07-10 芮淇讲透资治通鉴 episode on 132 CE Emperor Shun,
 ## [2026-08-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-29] ingest | 《资治通鉴·汉纪》810丨他拼个满门被斩，为何也要杀妻？
+
+Ingested the 2026-07-10 芮淇讲透资治通鉴 episode on 129-131 CE Emperor Shun, Yu Xu's restoration of Anding/Beidi/Shangjun, Khotan's seizure of Jumi, Ban Shi's killing of Yincheng Princess and collateral execution, Shen Jing's Hejian cleanup, Yiwu tuntian restoration, Taixue rebuilding, and Ma Xu's reversal of an over-close Qiang tuntian relocation. Created the source note plus `BanShiLateHan`, `YinChengPrincess`, `ShenJingLateHan`, `LiuZhengHejianKing`, `AndingCommandery`, `YiwuGarrisonLateHan`, `FrontierCommanderyRestoration`, `PrincessMarriagePowerAsymmetry`, `TuntianProximitySecurityDilemma`, and `RoyalFiefDiscipline`; updated `EmperorShunOfHan`, `YuXuEasternHan`, `Taixue`, `MaXuLateHan`, `KhotanKingdomLateHan`, `JumiKingdomLateHan`, `index`, and `overview`. No settled contradiction found; Fang Qian, Jumi King Xing, Xu You, Xu Jing, Liu Qi, Geng Ye, Han Hao, minor chronology, and the opening tiger metaphor remain source-scoped.
+
+## [2026-08-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

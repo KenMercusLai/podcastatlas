@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 5908
+wiki_total_pages: 5912
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1049,6 +1049,9 @@ wiki_pages:
   - key: "FrontierConscriptionBackfire"
     title: "边疆征发反噬 / Frontier Conscription Backfire"
     url: "/wiki/concepts/frontierconscriptionbackfire/"
+  - key: "FrontierCommanderyRestoration"
+    title: "边郡恢复治理 / Frontier Commandery Restoration"
+    url: "/wiki/concepts/frontiercommanderyrestoration/"
   - key: "FenceSittingStrategicExposure"
     title: "骑墙式战略暴露 / Fence-Sitting Strategic Exposure"
     url: "/wiki/concepts/fencesittingstrategicexposure/"

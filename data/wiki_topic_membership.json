@@ -23441,6 +23441,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "FrontierCommanderyRestoration": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "FrontierDefensivePatience": [
     {
       "key": "history",
@@ -49606,6 +49613,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "RoyalFiefDiscipline": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "RoyalMail": [
     {
       "key": "culture",
@@ -71949,6 +71963,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff": [

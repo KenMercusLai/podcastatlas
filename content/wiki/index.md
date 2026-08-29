@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》810丨他拼个满门被斩，为何也要杀妻？](sources/zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc.md) — 芮淇讲透资治通鉴 episode on 129-131 CE Emperor Shun, Yu Xu's Anding/Beidi/Shangjun restoration, Khotan's seizure of Jumi, Ban Shi's killing of Yincheng Princess, Shen Jing's Hejian cleanup, Yiwu tuntian restoration, Taixue rebuilding, and Ma Xu's Qiang-field reversal.
 - [《资治通鉴·汉纪》811丨古代皇帝竟靠抽签选皇后？](sources/zizhi-tongjian-hanji-811-gudai-huangdi-jing-kao-chouqian-xuan-huanghou-lghfih9xcrjyrvdlb4obdxvwhl1y.md) — 芮淇讲透资治通鉴 episode on 132 CE Emperor Shun, Hu Guang and Guo Qian blocking lottery-based empress selection, Liang Na's empress appointment, Liang Shang's elevation, and Zuo Xiong's local-official tenure, inspection, discipline, and Xiaolian reform setup.
 - [《资治通鉴·汉纪》812丨古人40岁才能当官？](sources/zizhi-tongjian-hanji-812-guren-40-sui-caineng-dangguan-lordzuaqhzghyd93tpm0fql1cigv.md) — 芮淇讲透资治通鉴 episode on 132-133 CE Emperor Shun, Zuo Xiong's enforceable Xiaolian age and skill standards, Hu Guang's flexibility objection, Xu Shu's failed exceptional-talent claim, and Lang Yi's disaster-policy memorial.
 - [Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine](sources/all-in-with-chamath-jason-sacks-friedberg-nvidias-historic-quarter-saas-comeback-bessent-vs-druck-americas-debt-crisis-cancer-vaccine-42597345.md) — All-In episode on Nvidia and Salesforce earnings, AI-era SaaS systems of record, Bessent and Druckenmiller on Treasury buybacks and U.S. debt risk, AI-assisted writing disclosure, persistent Grokbot agents, Meta parental controls, and personalized cancer immunotherapy access.
@@ -1681,6 +1682,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [班始 / Ban Shi (late Han)](entities/BanShiLateHan.md) — Ban-family descendant executed after killing Yincheng Princess, with punishment extending to his full siblings.
+- [阴城公主 / Princess Yincheng](entities/YinChengPrincess.md) — Shun's aunt whose marriage to Ban Shi becomes a case of princess-marriage power asymmetry and collateral punishment.
+- [沈景 / Shen Jing (late Han)](entities/ShenJingLateHan.md) — Hejian kingdom minister whose protocol confrontation and local cleanup discipline Liu Zheng's royal fief.
+- [刘政 / Liu Zheng (Hejian King)](entities/LiuZhengHejianKing.md) — Hejian king corrected by Shen Jing after arrogant and lawless early rule.
+- [安定郡 / Anding Commandery](entities/AndingCommandery.md) — Frontier commandery restored under Shun as part of Yu Xu's Anding, Beidi, and Shangjun proposal.
+- [伊吾屯田 / Yiwu Garrison Farming (late Han)](entities/YiwuGarrisonLateHan.md) — Disambiguated Western Regions garrison-farming site restored under Shun to support route security.
 - [Rutgers University](entities/RutgersUniversity.md) - Public research university whose Scarlet Sunrise tomato case links agricultural breeding, IP handoff, and produce branding.
 - [Scarlet Sunrise](entities/ScarletSunrise.md) - Rutgers bicolor grape tomato used by Planet Money to explain branded produce and protected crop varieties.
 - [Pete Nitzsche](entities/PeteNitzsche.md) - Rutgers farm and extension figure who co-developed Scarlet Sunrise and foregrounds farmer profitability and crop management.
@@ -1691,7 +1698,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Cosmic Crisp](entities/CosmicCrisp.md) - University of Washington apple variety used as a later high-revenue example of protected produce commercialization.
 - [University of Washington](entities/UniversityOfWashington.md) - Public university cited through Cosmic Crisp as an agricultural variety commercialization actor.
 - [王龚 / Wang Gong (Taiwei, late Han)](entities/WangGongTaiweiLateHan.md) — Shun-era taiwei whose anti-eunuch accusation is canceled after Li Gu and Liang Shang intervene.
-- [虞诩 / Yu Xu (Eastern Han)](entities/YuXuEasternHan.md) — Shangshu Ling whose rejected warning against increasing Wuling Man taxes is vindicated by revolt.
+- [虞诩 / Yu Xu (Eastern Han)](entities/YuXuEasternHan.md) — Shun-era frontier adviser whose accepted Anding/Beidi/Shangjun restoration proposal and rejected Wuling tax warning show geography and revenue as stability problems.
 - [法真 / Fa Zhen (Eastern Han)](entities/FaZhenEasternHan.md) — Reclusive scholar repeatedly summoned by Emperor Shun who refuses office and is praised as a teacher for later ages.
 - [张防 / Zhang Fang (eunuch, late Han)](entities/ZhangFangEunuchLateHan.md) — Eunuch powerholder whom Wang Gong considers impeaching before relatives invoke Yang Zhen's fate.
 - [张衡 / Zhang Heng (late Han)](entities/ZhangHengLateHan.md) — Learned Shun-era adviser whose profile now spans 133 CE Xiaolian and removal-quality critique plus 134 CE earthquake and anti-tuchen remonstrance.
@@ -1703,7 +1710,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [施延 / Shi Yan (late Han)](entities/ShiYanLateHan.md) — Dahonglu appointed taiwei after Pang Can is dismissed in the 133 CE Shun court.
 - [其至鞬 / Qizhijian (Xianbei)](entities/QizhijianXianbei.md) — Xianbei leader whose death in the Hanji 815 notice is associated with fewer raids into Han interior territory.
 - [李进 / Li Jin (Wuling, late Han)](entities/LiJinWulingLateHan.md) — Wuling administrator who suppresses and settles the 137 CE Wuling Man revolt with follow-up local appointments.
-- [马续 / Ma Xu (late Han)](entities/MaXuLateHan.md) — Frontier commander whose current profile runs from a 134 CE Qiang-front attack on Liang Feng to a 140 CE Southern Xiongnu response built around fortified defense, rewards, and surrender signaling.
+- [马续 / Ma Xu (late Han)](entities/MaXuLateHan.md) — Frontier commander whose profile now runs from a 131 CE Qiang-field proximity reversal through Qiang-front action and fortified Southern Xiongnu surrender policy.
 - [马贤 / Ma Xian (late Han)](entities/MaXianLateHan.md) — Shun-era Qiang-front commander whose profile now runs from 134 CE appointment through later Qiang-front successes to delayed command, ignored warnings, and Shegu Mountain death.
 - [梁商 / Liang Shang (late Han)](entities/LiangShangLateHan.md) — Liang-family grandee whose profile spans empress-linked elevation after Liang Na's appointment, refusal of a title for Liang Ji, reluctant Grand General appointment, Wang Gong's court protection, legal narrowing, family appointment restraint, Southern Xiongnu surrender strategy, and Liang Ji succession.
 - [张乔 / Zhang Qiao (late Han)](entities/ZhangQiaoLateHan.md) — Jiaozhi inspector whose reassurance policy helps settle the 138 CE southern crisis after Li Gu rejects mass expedition.
@@ -1766,9 +1773,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [崔寔 / Cui Shi (late Han)](entities/CuiShiLateHan.md) — Late-Han writer whose Zhenglun argues for diagnosis-based strictness under disorder while Sima Guang qualifies that severity as a temporary corrective.
 - [《正论》 / Zhenglun (Cui Shi)](entities/ZhenglunCuiShi.md) — Cui Shi essay used in Hanji 837 to frame situational law, moral teaching, and strict-lenient governance under late-Han disorder.
 - [王敬 / Wang Jing (Western Regions, late Han)](entities/WangJingXiyuLateHan.md) — Han Western Regions official whose rumor-driven Khotan banquet killing triggers Shubo's retaliatory execution of him and a failed intervention chain.
-- [拘弥国 / Jumi Kingdom (late Han)](entities/JumiKingdomLateHan.md) — Western Regions kingdom used as the information corridor through which King Chengguo steers Han suspicion against Khotan.
+- [居弥 / 拘弥国 / Jumi Kingdom (late Han)](entities/JumiKingdomLateHan.md) — Western Regions kingdom seized by Khotan in Hanji 810 and later used by King Chengguo as an accusation channel against Khotan.
 - [成国 / King Chengguo of Jumi](entities/JumiKingChengguoLateHan.md) — Jumi ruler whose allegations against Khotan King Jian help set up Wang Jing's failed intervention.
-- [于阗国 / Khotan Kingdom (late Han)](entities/KhotanKingdomLateHan.md) — Western Regions kingdom destabilized by accusations, King Jian's killing, Shubo's brief self-enthronement, and Anguo's installation.
+- [于阗国 / Khotan Kingdom (late Han)](entities/KhotanKingdomLateHan.md) — Western Regions kingdom that first seizes Jumi under Fang Qian and later is destabilized by accusation, Wang Jing's killing of King Jian, Shubo, and Anguo's installation.
 - [建 / King Jian of Khotan](entities/KhotanKingJianLateHan.md) — Khotan ruler accused through the Jumi channel and killed at Wang Jing's banquet.
 - [输僰 / Shubo of Khotan](entities/ShuboKhotanLateHan.md) — Khotan general or noble who kills Wang Jing after Jian's death, briefly self-enthrones, and is killed by Khotan people.
 - [安国 / Anguo of Khotan](entities/AnGuoKhotanLateHan.md) — Son of Khotan King Jian installed after Shubo's failed self-enthronement.
@@ -9944,6 +9951,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [边郡恢复治理 / Frontier Commandery Restoration](concepts/FrontierCommanderyRestoration.md) — Strategy of restoring abandoned frontier commanderies when geography, logistics, settlement, and defense make abandonment more dangerous than repair.
+- [公主婚姻权力失衡 / Princess Marriage Power Asymmetry](concepts/PrincessMarriagePowerAsymmetry.md) — Royal-marriage pattern where princess rank and court proximity turn private conflict into asymmetric household and punishment risk.
+- [屯田贴近引发安全困境 / Tuntian Proximity Security Dilemma](concepts/TuntianProximitySecurityDilemma.md) — Frontier pattern where military-agricultural settlement placed too close to neighboring groups creates fear and defensive alliance behavior.
+- [王国相整肃 / Royal Fief Discipline](concepts/RoyalFiefDiscipline.md) — Governance pattern where a kingdom minister forces a royal fief back under public law, ritual hierarchy, and administrative order.
 - [Agentic System-of-Record Moat](concepts/AgenticSystemOfRecordMoat.md) — AI-era enterprise software defense where agents need trusted context, permissions, workflows, and auditable state from systems of record.
 - [U.S. Fiscal Debt Spiral Risk](concepts/USFiscalDebtSpiralRisk.md) — Macro risk that deficits, refinancing pressure, high long-term yields, and spending incentives reinforce one another.
 - [AI-Assisted Writing Disclosure](concepts/AIAssistedWritingDisclosure.md) — Norm question for when public writers should disclose AI drafting, editing, or structuring help under a signed byline.
@@ -10289,7 +10300,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overextended Frontier Expedition / 边境远征过度](concepts/OverextendedFrontierExpedition.md) — Strategic failure pattern where a court escalates frontier raids into deep punitive war despite weak capacity, poor border control, strong opponents, and unsettled internal conditions.
 - [Confidential Remonstrance Leakage / 密奏泄露风险](concepts/ConfidentialRemonstranceLeakage.md) — Late-Han speech-risk pattern where a private corrective memorial is exposed through inner-court access and becomes intelligence for retaliation before advice can become protection or policy.
 - [选官通道竞争 / Official Selection Channel Competition](concepts/OfficialSelectionChannelCompetition.md) — Political-institutional pattern where rival education or recommendation routes compete over finite official posts, including Hongdu Menxue as Emperor Ling's counterchannel against Taixue and great-clan selection control.
-- [太学 / Taixue](concepts/Taixue.md) — Imperial classical-learning institution that functions as Mingjing recommendation pipeline, student petition field, text-standard site, ritual venue, and incumbent education-to-office channel.
+- [太学 / Taixue](concepts/Taixue.md) — Imperial classical-learning institution whose current synthesis spans Shun-era decay and repair, Mingjing selection pipeline, student petition field, text-standard site, ritual venue, and incumbent education-to-office channel.
 - [鸿都门学 / Hongdu Menxue](concepts/HongduMenxue.md) — Late-Han court-sponsored literary and artistic channel that Emperor Ling favors against Taixue and great-clan/士人 prestige, turning cultural recognition into appointment-channel competition.
 - [AI Portfolio Leverage Liquidation](concepts/AIPortfolioLeverageLiquidation.md) — Market-risk pattern where a levered AI equity thesis can be forced out by margin mechanics before long-run fundamentals resolve.
 - [Pacing the Frontier](concepts/PacingTheFrontier.md) — Source-scoped frontier-AI governance proposal framed through safety, government pace-setting, regulatory capture risk, and duopoly incentives.

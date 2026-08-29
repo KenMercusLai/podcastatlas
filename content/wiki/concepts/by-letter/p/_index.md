@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5908
+wiki_total_pages: 5912
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1535,6 +1535,9 @@ wiki_pages:
   - key: "PartyProhibitionKinshipNarrowing"
     title: "党锢亲属牵连缩限 / Party Prohibition Kinship Narrowing"
     url: "/wiki/concepts/partyprohibitionkinshipnarrowing/"
+  - key: "PrincessMarriagePowerAsymmetry"
+    title: "公主婚姻权力失衡 / Princess Marriage Power Asymmetry"
+    url: "/wiki/concepts/princessmarriagepowerasymmetry/"
   - key: "PunishmentAsMoralCredential"
     title: "受罚作为名节凭据 / Punishment as Moral Credential"
     url: "/wiki/concepts/punishmentasmoralcredential/"

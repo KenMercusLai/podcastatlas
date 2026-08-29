@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 8259
+wiki_total_pages: 8265
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -344,6 +344,9 @@ wiki_pages:
   - key: "YiWanFuWengHuiGui"
     title: "亿万富翁回归"
     url: "/wiki/entities/yiwanfuwenghuigui/"
+  - key: "YiwuGarrisonLateHan"
+    title: "伊吾屯田 / Yiwu Garrison Farming (late Han)"
+    url: "/wiki/entities/yiwugarrisonlatehan/"
   - key: "YiqueBattle"
     title: "伊阙之战 / Battle of Yique"
     url: "/wiki/entities/yiquebattle/"
@@ -821,6 +824,9 @@ wiki_pages:
   - key: "YinLihua"
     title: "阴丽华 / Yin Lihua"
     url: "/wiki/entities/yinlihua/"
+  - key: "YinChengPrincess"
+    title: "阴城公主 / Princess Yincheng"
+    url: "/wiki/entities/yinchengprincess/"
   - key: "YalanLuanfanshu"
     title: "雅兰 / Yalan (Luanfanshu)"
     url: "/wiki/entities/yalanluanfanshu/"
