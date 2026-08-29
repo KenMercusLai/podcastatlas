@@ -13752,3 +13752,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-30] ingest | 《资治通鉴·汉纪》776丨汉史探密：蔡伦是怎样发明“造纸术”的？
+
+Ingested the 2026-07-03 芮淇讲透资治通鉴 episode on 102-105 CE Emperor He, Cai Lun's court-backed paper-making improvement, Deng's literary frugality, Xu Fang's Taixue examination reform, eclipse and southern-tour remonstrance, Tang Qiang's Lingnan fresh-fruit tribute memorial, Northern Xiongnu's covenant request, and Goguryeo's 105 CE Liaodong raid. Created the source note plus `CaiLunLateHan`, `XuFangLateHan`, `TangQiangLateHan`, `GengKuiLateHan`, `CourtDemandDrivenPapermaking`, `PerishableTributeLaborBurden`, and `ClassicalExaminationOrthodoxy`; updated `EmperorHeOfHan`, `EmpressDowagerDengLateHan`, `Taixue`, `GoguryeoLateHan`, and `index`. No settled contradiction found; Cai Lun's title-level invention framing is narrowed to improvement, presentation, and diffusion of fiber paper, while minor office changes, Northern Xiongnu envoy details, and Goguryeo king Gong remain source-scoped.
+
+## [2026-08-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

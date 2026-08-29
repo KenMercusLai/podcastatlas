@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 5974
+wiki_total_pages: 5977
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1832,6 +1832,9 @@ wiki_pages:
   - key: "CourtBackchannelSurvival"
     title: "宫廷后门自救 / Court Backchannel Survival"
     url: "/wiki/concepts/courtbackchannelsurvival/"
+  - key: "CourtDemandDrivenPapermaking"
+    title: "宫廷需求驱动造纸 / Court-Demand-Driven Papermaking"
+    url: "/wiki/concepts/courtdemanddrivenpapermaking/"
   - key: "CommandSealTrustRupture"
     title: "将印信任破裂 / Command-Seal Trust Rupture"
     url: "/wiki/concepts/commandsealtrustrupture/"
@@ -1880,6 +1883,9 @@ wiki_pages:
   - key: "CoercedNormality"
     title: "正常性强制 / Coerced Normality"
     url: "/wiki/concepts/coercednormality/"
+  - key: "ClassicalExaminationOrthodoxy"
+    title: "经学考试正统化 / Classical Examination Orthodoxy"
+    url: "/wiki/concepts/classicalexaminationorthodoxy/"
   - key: "CommandAuthorityRecapture"
     title: "统帅权再收束 / Command Authority Recapture"
     url: "/wiki/concepts/commandauthorityrecapture/"

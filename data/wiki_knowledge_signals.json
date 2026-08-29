@@ -4117,6 +4117,36 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/chipsact/"
     },
+    "CaiLunLateHan": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》776丨汉史探密：蔡伦是怎样发明“造纸术”的？ [ljqhhCywXr_YGgZMcgzbbTg-q-hB].md",
+          "key": "zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》776丨汉史探密：蔡伦是怎样发明“造纸术”的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》781丨“愚善”，才是人对己最大的恶 [luvAw93hNNXcbgFnwGSjb7X0hlqZ].md",
+          "key": "zizhi-tongjian-hanji-781-yushan-cai-shi-ren-dui-ji-zui-da-de-e-luvaw93hnnxcbgfnwgsjb7x0hlqz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》781丨“愚善”，才是人对己最大的恶",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-781-yushan-cai-shi-ren-dui-ji-zui-da-de-e-luvaw93hnnxcbgfnwgsjb7x0hlqz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》794丨一代女君邓绥，去世后竟全家遭殃？ [llmlhAbDD09Opca6_pR80Q4mFOXI].md",
+          "key": "zizhi-tongjian-hanji-794-yidai-nvjun-dengsui-qushi-hou-jing-quanjia-zaoyang-llmlhabdd09opca6-pr80q4mfoxi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》794丨一代女君邓绥，去世后竟全家遭殃？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-794-yidai-nvjun-dengsui-qushi-hou-jing-quanjia-zaoyang-llmlhabdd09opca6-pr80q4mfoxi/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/cailunlatehan/"
+    },
     "CaixinMedia": {
       "episode_count": 1,
       "show_count": 1,
@@ -5852,6 +5882,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/cityplacepremium/"
     },
+    "ClassicalExaminationOrthodoxy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》776丨汉史探密：蔡伦是怎样发明“造纸术”的？ [ljqhhCywXr_YGgZMcgzbbTg-q-hB].md",
+          "key": "zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》776丨汉史探密：蔡伦是怎样发明“造纸术”的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/classicalexaminationorthodoxy/"
+    },
     "ClinicalBehaviorChangeRedFlags": {
       "episode_count": 1,
       "show_count": 1,
@@ -6630,6 +6676,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/courtcorerectification/"
+    },
+    "CourtDemandDrivenPapermaking": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》776丨汉史探密：蔡伦是怎样发明“造纸术”的？ [ljqhhCywXr_YGgZMcgzbbTg-q-hB].md",
+          "key": "zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》776丨汉史探密：蔡伦是怎样发明“造纸术”的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/courtdemanddrivenpapermaking/"
     },
     "CourtLegitimacyOverPatronLoyalty": {
       "episode_count": 2,
@@ -9471,9 +9533,9 @@
       "url": "/wiki/entities/emperorchongofhan/"
     },
     "EmperorHeOfHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》777丨比肩武则天，碾压慈禧，这个女人了不得！ [lk7J4Qv_-SQfopzBii6rc_iVbuxS].md",
@@ -9481,6 +9543,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》777丨比肩武则天，碾压慈禧，这个女人了不得！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-777-bi-jian-wuzetian-nianya-cixi-zhege-nvren-liaobude-lk7j4qv-sqfopzbii6rc-ivbuxs/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》776丨汉史探密：蔡伦是怎样发明“造纸术”的？ [ljqhhCywXr_YGgZMcgzbbTg-q-hB].md",
+          "key": "zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》776丨汉史探密：蔡伦是怎样发明“造纸术”的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb/"
         }
       ],
       "updated": "2026-08-30",
@@ -9959,9 +10028,9 @@
       "url": "/wiki/entities/empressdenghuanlatehan/"
     },
     "EmpressDowagerDengLateHan": {
-      "episode_count": 17,
+      "episode_count": 18,
       "show_count": 1,
-      "source_note_count": 17,
+      "source_note_count": 18,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》795丨邓家灭亡后，为何举朝为他们鸣冤？ [lqVmBQrrOOKphB4beCaQbP7h_Wi1].md",
@@ -10081,6 +10150,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》777丨比肩武则天，碾压慈禧，这个女人了不得！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-777-bi-jian-wuzetian-nianya-cixi-zhege-nvren-liaobude-lk7j4qv-sqfopzbii6rc-ivbuxs/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》776丨汉史探密：蔡伦是怎样发明“造纸术”的？ [ljqhhCywXr_YGgZMcgzbbTg-q-hB].md",
+          "key": "zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》776丨汉史探密：蔡伦是怎样发明“造纸术”的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb/"
         }
       ],
       "updated": "2026-08-30",
@@ -12565,6 +12641,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/gengchenglinruhoulatehan/"
     },
+    "GengKuiLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》776丨汉史探密：蔡伦是怎样发明“造纸术”的？ [ljqhhCywXr_YGgZMcgzbbTg-q-hB].md",
+          "key": "zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》776丨汉史探密：蔡伦是怎样发明“造纸术”的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/gengkuilatehan/"
+    },
     "GeometricUnity": {
       "episode_count": 1,
       "show_count": 1,
@@ -12790,9 +12882,9 @@
       "url": "/wiki/concepts/goalkeeperembodiedjudgment/"
     },
     "GoguryeoLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》797丨古代忠孝真的无法两全吗？ [lrU9shBWFwwr9lLUHhd7-xjuAlL6].md",
@@ -12800,9 +12892,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》797丨古代忠孝真的无法两全吗？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》776丨汉史探密：蔡伦是怎样发明“造纸术”的？ [ljqhhCywXr_YGgZMcgzbbTg-q-hB].md",
+          "key": "zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》776丨汉史探密：蔡伦是怎样发明“造纸术”的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-08-30",
       "url": "/wiki/entities/goguryeolatehan/"
     },
     "GoldJewelryValuePerceptionRisk": {
@@ -24658,6 +24757,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/perioperativecircadianrecovery/"
     },
+    "PerishableTributeLaborBurden": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》776丨汉史探密：蔡伦是怎样发明“造纸术”的？ [ljqhhCywXr_YGgZMcgzbbTg-q-hB].md",
+          "key": "zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》776丨汉史探密：蔡伦是怎样发明“造纸术”的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/perishabletributelaborburden/"
+    },
     "PerplexityComputer": {
       "episode_count": 1,
       "show_count": 1,
@@ -30405,9 +30520,9 @@
       "url": "/wiki/entities/tadunlatehan/"
     },
     "Taixue": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》905丨富贵如何险中求？ [lklXX5nqUka2MTblLXIvk0a7B-fu].md",
@@ -30457,9 +30572,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》810丨他拼个满门被斩，为何也要杀妻？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》776丨汉史探密：蔡伦是怎样发明“造纸术”的？ [ljqhhCywXr_YGgZMcgzbbTg-q-hB].md",
+          "key": "zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》776丨汉史探密：蔡伦是怎样发明“造纸术”的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-08-30",
       "url": "/wiki/concepts/taixue/"
     },
     "TaixueCollectivePetition": {
@@ -30650,6 +30772,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/tanghenglatehan/"
+    },
+    "TangQiangLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》776丨汉史探密：蔡伦是怎样发明“造纸术”的？ [ljqhhCywXr_YGgZMcgzbbTg-q-hB].md",
+          "key": "zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》776丨汉史探密：蔡伦是怎样发明“造纸术”的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/tangqianglatehan/"
     },
     "TangTanLateHan": {
       "episode_count": 1,
@@ -34593,6 +34731,36 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/xuchu/"
+    },
+    "XuFangLateHan": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》776丨汉史探密：蔡伦是怎样发明“造纸术”的？ [ljqhhCywXr_YGgZMcgzbbTg-q-hB].md",
+          "key": "zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》776丨汉史探密：蔡伦是怎样发明“造纸术”的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》778丨历史揭秘：权力中心的女人有什么特点？ [lhPn8AUULbgPqeHsk71hZsSrgAGP].md",
+          "key": "zizhi-tongjian-hanji-778-lishi-jiemi-quanli-zhongxin-de-nvren-you-shenme-tedian-lhpn8auulbgpqehsk71hzssrgagp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》778丨历史揭秘：权力中心的女人有什么特点？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-778-lishi-jiemi-quanli-zhongxin-de-nvren-you-shenme-tedian-lhpn8auulbgpqehsk71hzssrgagp/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》780丨最多灾多难的时代：东汉 [lvGCuMRFJbLrOFER532EES3TDOa_].md",
+          "key": "zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》780丨最多灾多难的时代：东汉",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/xufanglatehan/"
     },
     "XuFengBanditLateHan": {
       "episode_count": 1,

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2027
+topic_total_pages: 2028
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3373,6 +3373,9 @@ topic_concepts:
   - key: "ProphecyFulfillmentDisplacement"
     title: "预言兑现错位 / Prophecy Fulfillment Displacement"
     url: "/wiki/concepts/prophecyfulfillmentdisplacement/"
+  - key: "PerishableTributeLaborBurden"
+    title: "鲜贡劳役负担 / Perishable Tribute Labor Burden"
+    url: "/wiki/concepts/perishabletributelaborburden/"
 topic_entities:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"

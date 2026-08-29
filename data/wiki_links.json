@@ -8191,6 +8191,10 @@
     "title": "蔡姬",
     "url": "/wiki/entities/caiji/"
   },
+  "CaiLunLateHan": {
+    "title": "蔡伦 / Cai Lun (late Han)",
+    "url": "/wiki/entities/cailunlatehan/"
+  },
   "CaiMao": {
     "title": "蔡瑁 / Cai Mao",
     "url": "/wiki/entities/caimao/"
@@ -10891,6 +10895,10 @@
     "title": "Classic Reading Complexity",
     "url": "/wiki/concepts/classicreadingcomplexity/"
   },
+  "ClassicalExaminationOrthodoxy": {
+    "title": "经学考试正统化 / Classical Examination Orthodoxy",
+    "url": "/wiki/concepts/classicalexaminationorthodoxy/"
+  },
   "ClassicalPoeticIntertextuality": {
     "title": "Classical Poetic Intertextuality",
     "url": "/wiki/concepts/classicalpoeticintertextuality/"
@@ -12254,6 +12262,10 @@
   "CourtCoreRectification": {
     "title": "朝廷心腹整顿 / Court-Core Rectification",
     "url": "/wiki/concepts/courtcorerectification/"
+  },
+  "CourtDemandDrivenPapermaking": {
+    "title": "宫廷需求驱动造纸 / Court-Demand-Driven Papermaking",
+    "url": "/wiki/concepts/courtdemanddrivenpapermaking/"
   },
   "CourtFeedbackCollapse": {
     "title": "Court Feedback Collapse / 君臣反馈失灵",
@@ -20374,6 +20386,10 @@
   "GengChengLinruHouLateHan": {
     "title": "耿承 / Geng Cheng (Linru marquis, late Han)",
     "url": "/wiki/entities/gengchenglinruhoulatehan/"
+  },
+  "GengKuiLateHan": {
+    "title": "耿夔 / Geng Kui (late Han)",
+    "url": "/wiki/entities/gengkuilatehan/"
   },
   "GengWuLateHan": {
     "title": "耿武 / Geng Wu (late Han)",
@@ -38311,6 +38327,10 @@
     "title": "Perioperative Circadian Recovery",
     "url": "/wiki/concepts/perioperativecircadianrecovery/"
   },
+  "PerishableTributeLaborBurden": {
+    "title": "鲜贡劳役负担 / Perishable Tribute Labor Burden",
+    "url": "/wiki/concepts/perishabletributelaborburden/"
+  },
   "PermafrostZelazny": {
     "title": "《永久冻土》 / Permafrost",
     "url": "/wiki/entities/permafrostzelazny/"
@@ -48855,6 +48875,10 @@
     "title": "唐诗之路 / Tang Poetry Road",
     "url": "/wiki/concepts/tangpoetryroad/"
   },
+  "TangQiangLateHan": {
+    "title": "唐羌 / Tang Qiang (late Han)",
+    "url": "/wiki/entities/tangqianglatehan/"
+  },
   "TangSongTransition": {
     "title": "唐宋转型 / Tang-Song Transition",
     "url": "/wiki/concepts/tangsongtransition/"
@@ -55166,6 +55190,10 @@
   "XuDanLateHan": {
     "title": "许耽 / Xu Dan (late Han)",
     "url": "/wiki/entities/xudanlatehan/"
+  },
+  "XuFangLateHan": {
+    "title": "徐防 / Xu Fang (late Han)",
+    "url": "/wiki/entities/xufanglatehan/"
   },
   "XuFengBanditLateHan": {
     "title": "徐凤 / Xu Feng (bandit, late Han)",
@@ -62490,6 +62518,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb": {
+    "title": "《资治通鉴·汉纪》776丨汉史探密：蔡伦是怎样发明“造纸术”的？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb/"
   },
   "zizhi-tongjian-hanji-777-bi-jian-wuzetian-nianya-cixi-zhege-nvren-liaobude-lk7j4qv-sqfopzbii6rc-ivbuxs": {
     "title": "《资治通鉴·汉纪》777丨比肩武则天，碾压慈禧，这个女人了不得！",

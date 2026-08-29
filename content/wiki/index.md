@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》776丨汉史探密：蔡伦是怎样发明“造纸术”的？](sources/zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb.md) — 芮淇讲透资治通鉴 episode on Cai Lun's court-backed paper-making improvement, Deng's literary frugality, Xu Fang's Taixue examination reform, Tang Qiang's anti-fruit-tribute memorial, Northern Xiongnu diplomacy, and Goguryeo's 105 CE Liaodong raid.
 - [AI Sovereignty Wars, Palantir-Nvidia Deal, SCOTUS Birthright Ruling, Newsom's CA Budget Lie](sources/all-in-with-chamath-jason-sacks-friedberg-ai-sovereignty-wars-palantir-nvidia-deal-scotus-birthright-ruling-newsoms-ca-budget-lie-41958585.md) — All-In episode on AI sovereignty, Palantir-Nvidia, enterprise data/model control, AI jobs, Anthropic export controls, birthright citizenship, immigration, DSA momentum, and California fiscal fragility.
 - [《资治通鉴·汉纪》777丨比肩武则天，碾压慈禧，这个女人了不得！](sources/zizhi-tongjian-hanji-777-bi-jian-wuzetian-nianya-cixi-zhege-nvren-liaobude-lk7j4qv-sqfopzbii6rc-ivbuxs.md) — 芮淇讲透资治通鉴 episode on Emperor He's death, Emperor Shang's infant accession under Empress Dowager Deng, restrained palace-theft and Ji Cheng wugu-case verification, cautious Northern Xiongnu contact, and Wang Huan's strict but compassionate Luoyang governance.
 - [《资治通鉴·汉纪》778丨历史揭秘：权力中心的女人有什么特点？](sources/zizhi-tongjian-hanji-778-lishi-jiemi-quanli-zhongxin-de-nvren-you-shenme-tedian-lhpn8auulbgpqehsk71hzssrgagp.md) — 芮淇讲透资治通鉴 episode on Empress Dowager Deng's opening regency in 106 CE, infant Emperor Shang, Liu Hu's reserve placement, Zhang Yu and Xu Fang's staffing roles, Deng-family reliance and discipline, austerity, disaster-reporting correction, and the Qiuci/Western Regions crisis.
@@ -1724,6 +1725,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [蔡伦 / Cai Lun (late Han)](entities/CaiLunLateHan.md) — Eastern Han palace official whose current profile links court workshop authority, Deng's writing-material demand, fiber-paper improvement, and later Deng-regency political exposure.
+- [徐防 / Xu Fang (late Han)](entities/XuFangLateHan.md) — Eastern Han senior official whose current role centers on 102 CE Taixue examination reform and later Deng-regency staffing and blame-bearing notices.
+- [唐羌 / Tang Qiang (late Han)](entities/TangQiangLateHan.md) — Linwu local official whose memorial reframes Lingnan fresh-fruit tribute as a lethal transport burden accepted by Emperor He.
+- [耿夔 / Geng Kui (late Han)](entities/GengKuiLateHan.md) — Liaodong administrator who defeats Goguryeo after the 105 CE raid on Han border counties.
 - [Hamilton-Burr Duel](entities/HamiltonBurrDuel.md) — July 11, 1804 Weehawken duel where Aaron Burr fatally wounded Alexander Hamilton after party rivalry and honor pressure escalated.
 - [Eliza Hamilton](entities/ElizaHamilton.md) — Hamilton's wife, addressee of his farewell letter, and posthumous memory keeper after the duel.
 - [Philip Hamilton](entities/PhilipHamilton.md) — Hamilton's son whose fatal 1801 duel foreshadows and burdens Hamilton's own 1804 duel.
@@ -10100,6 +10105,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [宫廷需求驱动造纸 / Court-Demand-Driven Papermaking](concepts/CourtDemandDrivenPapermaking.md) — Source-bounded pattern where palace writing-material demand, workshop authority, low-cost fibers, imperial praise, and patronage-backed diffusion shape Cai Lun's paper-making contribution.
+- [鲜贡劳役负担 / Perishable Tribute Labor Burden](concepts/PerishableTributeLaborBurden.md) — Governance pattern where fresh luxury tribute requires dangerous high-speed relay labor until remonstrance converts delicacy into public-cost restraint.
+- [经学考试正统化 / Classical Examination Orthodoxy](concepts/ClassicalExaminationOrthodoxy.md) — Taixue examination repair pattern that constrains classical testing to recognized textual lineages, explicit passages, and approved interpretive points.
 - [Birthright Citizenship Debate](concepts/BirthrightCitizenshipDebate.md) — Constitutional and policy dispute over automatic citizenship for U.S.-born children across legal-resident, temporary-visitor, birth-tourism, and undocumented-family cases.
 - [California Fiscal Fragility](concepts/CaliforniaFiscalFragility.md) — Budget-risk pattern where headline balance depends on debt, volatile high-income revenue, taxpayer mobility, business exits, pensions, and future tax politics.
 - [Low-Cost Model Post-Training / 低成本模型后训](concepts/LowCostModelPostTraining.md) — Narrow-domain model improvement route using an existing base model, SFT, QLoRA, data pipelines, and benchmark iteration at individual or small-team scale.

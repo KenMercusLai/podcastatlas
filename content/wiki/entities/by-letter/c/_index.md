@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 8372
+wiki_total_pages: 8376
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -1550,6 +1550,9 @@ wiki_pages:
   - key: "CangwuCommanderyLateHan"
     title: "苍梧郡 / Cangwu Commandery (late Han)"
     url: "/wiki/entities/cangwucommanderylatehan/"
+  - key: "CaiLunLateHan"
+    title: "蔡伦 / Cai Lun (late Han)"
+    url: "/wiki/entities/cailunlatehan/"
   - key: "CaiJi"
     title: "蔡姬"
     url: "/wiki/entities/caiji/"

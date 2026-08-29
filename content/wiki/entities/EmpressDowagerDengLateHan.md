@@ -21,16 +21,19 @@ sources:
   - zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6
   - zizhi-tongjian-hanji-778-lishi-jiemi-quanli-zhongxin-de-nvren-you-shenme-tedian-lhpn8auulbgpqehsk71hzssrgagp
   - zizhi-tongjian-hanji-777-bi-jian-wuzetian-nianya-cixi-zhege-nvren-liaobude-lk7j4qv-sqfopzbii6rc-ivbuxs
+  - zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb
 last_updated: 2026-08-30
 ---
 
 ## Overview
 
-和熹邓皇后 / Empress Dowager Deng appears in the current wiki as an An-era regent whose record must be judged across compound pressure: post-Emperor-He succession triage, infant accession, palace accusation verification, initial court staffing, succession pre-positioning, education repair, judicial procedure, appointment fit, inherited Eastern Han disaster frequency, Western Regions withdrawal after Ban Chao's achievement, Qiang official-abuse and conscription backlash, coup suppression, disaster-reporting correction, disaster-omen pressure, refugee relief, famine, austerity, rank and salary finance, rebellion management, seasonal ritual restraint, capable appointments, Deng-family reliance and discipline, frontier underimplementation, transfer risk, and contested posthumous memory.
+和熹邓皇后 / Empress Dowager Deng appears in the current wiki first as an Emperor-He-era empress whose literary taste, frugality, and preference for writing materials help set up [[CaiLunLateHan|Cai Lun]]'s paper-making improvement, and then as an An-era regent whose record must be judged across compound pressure: post-Emperor-He succession triage, infant accession, palace accusation verification, initial court staffing, succession pre-positioning, education repair, judicial procedure, appointment fit, inherited Eastern Han disaster frequency, Western Regions withdrawal after Ban Chao's achievement, Qiang official-abuse and conscription backlash, coup suppression, disaster-reporting correction, disaster-omen pressure, refugee relief, famine, austerity, rank and salary finance, rebellion management, seasonal ritual restraint, capable appointments, Deng-family reliance and discipline, frontier underimplementation, transfer risk, and contested posthumous memory.
 
 ## Current Profile
 
-Hanji 777 now supplies the accession threshold. After [[EmperorHeOfHan|Emperor He]] dies, Deng brings secretly fostered princes back to the palace, chooses the infant [[EmperorShangOfHan|Liu Long / Emperor Shang]] over chronically ill Liu Sheng, has him installed that night, and becomes empress dowager and regent. The same source grounds her opening authority in [[PalaceAccusationVerification|palace accusation verification]]: she avoids dragnet interrogation over stolen jewels and rechecks Ji Cheng's apparently clear wugu case until the frame-up is exposed. The closing Wang Huan notice also shows Deng using court recognition to honor effective local administration.
+Hanji 776 now supplies the pre-regency empress layer. Deng is portrayed as culturally literate, fond of books, calligraphy, and painting, and dismissive of rare treasures. Her frugality orders make pens and ink a suitable form of offering, while her writing-material needs give Cai Lun a court demand to answer through [[CourtDemandDrivenPapermaking|court-demand-driven papermaking]].
+
+Hanji 777 supplies the accession threshold. After [[EmperorHeOfHan|Emperor He]] dies, Deng brings secretly fostered princes back to the palace, chooses the infant [[EmperorShangOfHan|Liu Long / Emperor Shang]] over chronically ill Liu Sheng, has him installed that night, and becomes empress dowager and regent. The same source grounds her opening authority in [[PalaceAccusationVerification|palace accusation verification]]: she avoids dragnet interrogation over stolen jewels and rechecks Ji Cheng's apparently clear wugu case until the frame-up is exposed. The closing Wang Huan notice also shows Deng using court recognition to honor effective local administration.
 
 Hanji 778 then moves the opening layer to Deng's first 106 CE regency arrangements. She keeps Zhang Yu close for state deliberation, appoints Xu Fang, treats Emperor Shang's infancy as a succession risk, keeps Liu Hu near the capital before installing him as [[EmperorAnOfHan|Emperor An]], and uses [[DengZhiLateHan|Deng Zhi]] and other Deng relatives while later ordering officials not to shield Deng-family crimes. The same source already shows austerity, palace-labor reduction, local disaster-reporting enforcement, Xianbei pressure, and the Western Regions branch in which [[LiangJinLateHan|Liang Jin]] helps stabilize [[QiuciKingdom|Qiuci]] before later withdrawal.
 
@@ -48,7 +51,7 @@ Hanji 792-795 make the political afterlife explicit. Deng Kang warns that court 
 
 ## Key Characteristics
 
-- Crisis regent whose rule joins post-Emperor-He succession triage, infant accession, palace accusation verification, court staffing, succession pre-positioning, education repair, judicial procedure, appointment fit, inherited disaster pressure, Western Regions withdrawal, Qiang backlash, coup suppression, local-reporting correction, omen pressure, relief, war, famine, fiscal emergency, salary cuts, rank sale, frontier retention, and transfer risk.
+- Pre-regency empress and crisis regent whose profile joins literary-material patronage, frugality, post-Emperor-He succession triage, infant accession, palace accusation verification, court staffing, succession pre-positioning, education repair, judicial procedure, appointment fit, inherited disaster pressure, Western Regions withdrawal, Qiang backlash, coup suppression, local-reporting correction, omen pressure, relief, war, famine, fiscal emergency, salary cuts, rank sale, frontier retention, and transfer risk.
 - Judicially restrained verifier whose early palace handling avoids dragnet interrogation and checks wugu accusations before accepting testimony.
 - Real austerity and relief actor whose court consumption restraint, ritual restraint, palace-labor reduction, pardon use, education, prison review, tax/labor reductions, and local disaster verification remain part of the evidence.
 - Selective institutional repairer who can accept Fan Zhun and Lu Gong, recognize Yu Xu, consult Ban Yong, use Pang Can after criticism, and tolerate some direct policy advice.
@@ -58,6 +61,7 @@ Hanji 792-795 make the political afterlife explicit. Deng Kang warns that court 
 
 ## Evidence
 
+- Pre-regency culture and material demand: [[zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb|Hanji 776]] portrays Deng as literary, frugal, and interested in writing materials, making Cai Lun's paper-making improvement a court-demand response rather than a detached technical anecdote.
 - Accession and palace verification: [[zizhi-tongjian-hanji-777-bi-jian-wuzetian-nianya-cixi-zhege-nvren-liaobude-lk7j4qv-sqfopzbii6rc-ivbuxs|Hanji 777]] shows Deng managing Emperor He's death by installing infant Liu Long, avoiding broad interrogation after jewel theft, rechecking Ji Cheng's wugu accusation, and honoring Wang Huan's local governance after public mourning.
 - Initial staffing, succession reserve, austerity, and reporting correction: [[zizhi-tongjian-hanji-778-lishi-jiemi-quanli-zhongxin-de-nvren-you-shenme-tedian-lhpn8auulbgpqehsk71hzssrgagp|Hanji 778]] shows Deng keeping Zhang Yu near the palace, preparing Liu Hu as reserve successor, reducing palace expenditure and personnel burdens, ordering disaster verification and tax relief, relying on Deng kin, and forbidding officials to shield Deng-family wrongdoing.
 - Education, justice, and Western Regions appointment fit: [[zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6|Hanji 779]] shows Deng accepting Fan Zhun's education memorial and Lu Gong's judicial-calendar proposal while also presiding over Ren Shang's removal and the final Western Regions withdrawal.
@@ -74,19 +78,20 @@ Hanji 792-795 make the political afterlife explicit. Deng Kang warns that court 
 
 ## Qualifications
 
-Deng's page should not collapse into either praise or blame. The evidence supports real court organization, education repair, judicial correction, palace accusation verification, austerity, capable appointments, relief, succession preparation, refugee reassurance, local verification, and institutional repair, but it also supports Western Regions withdrawal, coup suppression, transfer-speech danger, fiscal desperation, official-pay risk, frontier relocation damage, underimplemented Western Regions repair, and family-power concentration. Hanji 777 strengthens the positive opening profile by adding restraint in palace accusation handling, but it does not erase the later frontier, fiscal, kinship, and transfer-risk qualifications. Hanji 778 sharpens the opening paradox: Deng relies on Deng kin early while also requiring legal handling of their misconduct. Hanji 779 sharpens the personnel side: Deng can choose the right adviser in education and justice while still inheriting or accepting a frontier appointment failure costly enough to contribute to withdrawal.
+Deng's page should not collapse into either praise or blame. The evidence supports real court organization, education repair, judicial correction, palace accusation verification, austerity, capable appointments, relief, succession preparation, refugee reassurance, local verification, institutional repair, and now a pre-regency literary-frugality layer. It also supports Western Regions withdrawal, coup suppression, transfer-speech danger, fiscal desperation, official-pay risk, frontier relocation damage, underimplemented Western Regions repair, and family-power concentration. Hanji 776 strengthens the cultural and material background for later austerity, but it does not by itself prove Deng caused papermaking or erase later frontier, fiscal, kinship, and transfer-risk qualifications. Hanji 777 strengthens the positive opening profile by adding restraint in palace accusation handling. Hanji 778 sharpens the opening paradox: Deng relies on Deng kin early while also requiring legal handling of their misconduct. Hanji 779 sharpens the personnel side: Deng can choose the right adviser in education and justice while still inheriting or accepting a frontier appointment failure costly enough to contribute to withdrawal.
 
 ## What Changed
 
-- Added Hanji 777 as the pre-Hanji-778 accession threshold: Emperor He's death, Liu Long's infant accession, and Deng's immediate regency.
-- Added palace accusation verification as an opening capacity: jewel-theft restraint and Ji Cheng wugu-case review.
-- Added Wang Huan's posthumous recognition as evidence that Deng connected local-good-official legitimacy to central rule.
-- Kept Hanji 778 as the following staffing, Liu Hu reserve, austerity, reporting, kin-reliance, and Western Regions layer.
-- Preserved the mixed judgment: early legal and succession competence sit beside later withdrawal, frontier, fiscal, family-power, and transfer-risk failures.
+- Added Hanji 776 as Deng's pre-regency empress layer: literary taste, frugality, writing-material preference, and trust in Cai Lun.
+- Reframed Cai Lun's paper-making account as adjacent evidence for Deng's court culture, not as a replacement for the later regency judgment.
+- Kept Hanji 777 as the accession-threshold layer of infant succession and palace accusation verification.
+- Preserved the mixed judgment: cultural austerity, legal verification, and succession competence sit beside later withdrawal, frontier, fiscal, family-power, and transfer-risk failures.
 
 ## Relationships
 
 - [[EmperorHeOfHan|汉和帝]] - predecessor whose death creates Deng's immediate accession problem.
+- [[CaiLunLateHan|蔡伦]] - trusted palace workshop actor whose paper-making work is tied to Deng's writing-material demand.
+- [[CourtDemandDrivenPapermaking|宫廷需求驱动造纸]] - pre-regency material-innovation pattern connected to Deng's literary and frugal court culture.
 - [[EmperorAnOfHan]] - child ruler installed by Deng and later shaped by delayed transfer and posthumous purge politics.
 - [[EmperorShangOfHan]] - infant ruler whose short reign gives Deng her first regency and creates the succession bridge to An.
 - [[WangHuanLateHan|王涣]] - local official whose posthumous public mourning Deng recognizes.
