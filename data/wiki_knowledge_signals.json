@@ -4436,6 +4436,29 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/caotenglatehan/"
     },
+    "CaoZongLateHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》790丨历史告诉你：如何和领导打交道？ [luLf0R1SdKOD3luZWRU0_KKrIjXK].md",
+          "key": "zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》790丨历史告诉你：如何和领导打交道？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》791丨职场上总有人背后阴你？一招应对 [llZ74eBI88qMw_9050x2QaDdjwQN].md",
+          "key": "zizhi-tongjian-hanji-791-zhichang-shang-zong-you-ren-beihou-yin-ni-yi-zhao-yingdui-llz74ebi88qmw-9050x2qaddjwqn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》791丨职场上总有人背后阴你？一招应对",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-791-zhichang-shang-zong-you-ren-beihou-yin-ni-yi-zhao-yingdui-llz74ebi88qmw-9050x2qaddjwqn/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/caozonglatehan/"
+    },
     "Caperni": {
       "episode_count": 1,
       "show_count": 1,
@@ -7286,9 +7309,9 @@
       "url": "/wiki/entities/democraticrepublicanparty/"
     },
     "DengFamilyAnEraLateHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》795丨邓家灭亡后，为何举朝为他们鸣冤？ [lqVmBQrrOOKphB4beCaQbP7h_Wi1].md",
@@ -7310,9 +7333,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》792丨邓康惹怒太后：打狗为什么要看主人？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》790丨历史告诉你：如何和领导打交道？ [luLf0R1SdKOD3luZWRU0_KKrIjXK].md",
+          "key": "zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》790丨历史告诉你：如何和领导打交道？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-08-30",
       "url": "/wiki/entities/dengfamilyaneralatehan/"
     },
     "DengJiLateHan": {
@@ -7385,6 +7415,52 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/dengwanshilatehan/"
+    },
+    "DengZhiLateHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》790丨历史告诉你：如何和领导打交道？ [luLf0R1SdKOD3luZWRU0_KKrIjXK].md",
+          "key": "zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》790丨历史告诉你：如何和领导打交道？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》794丨一代女君邓绥，去世后竟全家遭殃？ [llmlhAbDD09Opca6_pR80Q4mFOXI].md",
+          "key": "zizhi-tongjian-hanji-794-yidai-nvjun-dengsui-qushi-hou-jing-quanjia-zaoyang-llmlhabdd09opca6-pr80q4mfoxi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》794丨一代女君邓绥，去世后竟全家遭殃？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-794-yidai-nvjun-dengsui-qushi-hou-jing-quanjia-zaoyang-llmlhabdd09opca6-pr80q4mfoxi/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/dengzhilatehan/"
+    },
+    "DengZunLateHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》790丨历史告诉你：如何和领导打交道？ [luLf0R1SdKOD3luZWRU0_KKrIjXK].md",
+          "key": "zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》790丨历史告诉你：如何和领导打交道？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》794丨一代女君邓绥，去世后竟全家遭殃？ [llmlhAbDD09Opca6_pR80Q4mFOXI].md",
+          "key": "zizhi-tongjian-hanji-794-yidai-nvjun-dengsui-qushi-hou-jing-quanjia-zaoyang-llmlhabdd09opca6-pr80q4mfoxi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》794丨一代女君邓绥，去世后竟全家遭殃？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-794-yidai-nvjun-dengsui-qushi-hou-jing-quanjia-zaoyang-llmlhabdd09opca6-pr80q4mfoxi/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/dengzunlatehan/"
     },
     "Derry": {
       "episode_count": 3,
@@ -9295,9 +9371,9 @@
       "url": "/wiki/entities/empressdenghuanlatehan/"
     },
     "EmpressDowagerDengLateHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》795丨邓家灭亡后，为何举朝为他们鸣冤？ [lqVmBQrrOOKphB4beCaQbP7h_Wi1].md",
@@ -9333,6 +9409,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》791丨职场上总有人背后阴你？一招应对",
           "url": "/wiki/sources/zizhi-tongjian-hanji-791-zhichang-shang-zong-you-ren-beihou-yin-ni-yi-zhao-yingdui-llz74ebi88qmw-9050x2qaddjwqn/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》790丨历史告诉你：如何和领导打交道？ [luLf0R1SdKOD3luZWRU0_KKrIjXK].md",
+          "key": "zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》790丨历史告诉你：如何和领导打交道？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk/"
         }
       ],
       "updated": "2026-08-30",
@@ -19706,9 +19789,9 @@
       "url": "/wiki/entities/maronglatehan/"
     },
     "MaXianLateHan": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》821丨不懂老板心思还想晋升？没门！ [lmJXR8fDXGW-ColRLinmuJba74fh].md",
@@ -19772,9 +19855,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》792丨邓康惹怒太后：打狗为什么要看主人？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》790丨历史告诉你：如何和领导打交道？ [luLf0R1SdKOD3luZWRU0_KKrIjXK].md",
+          "key": "zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》790丨历史告诉你：如何和领导打交道？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-08-30",
       "url": "/wiki/entities/maxianlatehan/"
     },
     "MaXuLateHan": {
@@ -24911,9 +25001,9 @@
       "url": "/wiki/concepts/recurrencefreesurvivalendpoint/"
     },
     "RegencyUnderCompoundCrisis": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》793丨历史著名女皇邓绥怎么死的？ [lsZFgj7waiUUsrD_DZjmV5mBRP1I].md",
@@ -24928,9 +25018,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》792丨邓康惹怒太后：打狗为什么要看主人？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》790丨历史告诉你：如何和领导打交道？ [luLf0R1SdKOD3luZWRU0_KKrIjXK].md",
+          "key": "zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》790丨历史告诉你：如何和领导打交道？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-08-30",
       "url": "/wiki/concepts/regencyundercompoundcrisis/"
     },
     "RegistryBasedPoliticalExclusion": {
@@ -25035,6 +25132,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/renjunluoyanglatehan/"
+    },
+    "RenShangLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》790丨历史告诉你：如何和领导打交道？ [luLf0R1SdKOD3luZWRU0_KKrIjXK].md",
+          "key": "zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》790丨历史告诉你：如何和领导打交道？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/renshanglatehan/"
     },
     "ReproductiveAttritionStrategy": {
       "episode_count": 1,
@@ -26844,6 +26957,29 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/shubokhotanlatehan/"
     },
+    "ShuleKingdom": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》897丨职场必读！什么才叫领导力？ [lvRRMkSykaZLSb7W8aBbdmNqfzQQ].md",
+          "key": "zizhi-tongjian-hanji-897-zhichang-bidu-shenme-cai-jiao-lingdaoli-lvrrmksykazlsb7w8abbdmnqfzqq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》897丨职场必读！什么才叫领导力？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-897-zhichang-bidu-shenme-cai-jiao-lingdaoli-lvrrmksykazlsb7w8abbdmnqfzqq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》790丨历史告诉你：如何和领导打交道？ [luLf0R1SdKOD3luZWRU0_KKrIjXK].md",
+          "key": "zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》790丨历史告诉你：如何和领导打交道？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/shulekingdom/"
+    },
     "ShusunWujiLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -27675,9 +27811,9 @@
       "url": "/wiki/concepts/strategicemotionconcealment/"
     },
     "StrategicFrontierAbandonment": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》934丨杀一人则天下安，你杀不杀？ [ltaR8hVDKqCt8oizm3k22Z38B1v8].md",
@@ -27699,6 +27835,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》791丨职场上总有人背后阴你？一招应对",
           "url": "/wiki/sources/zizhi-tongjian-hanji-791-zhichang-shang-zong-you-ren-beihou-yin-ni-yi-zhao-yingdui-llz74ebi88qmw-9050x2qaddjwqn/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》790丨历史告诉你：如何和领导打交道？ [luLf0R1SdKOD3luZWRU0_KKrIjXK].md",
+          "key": "zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》790丨历史告诉你：如何和领导打交道？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk/"
         }
       ],
       "updated": "2026-08-30",
@@ -28375,6 +28518,45 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/sunyutao/"
     },
+    "SuoBanLateHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》790丨历史告诉你：如何和领导打交道？ [luLf0R1SdKOD3luZWRU0_KKrIjXK].md",
+          "key": "zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》790丨历史告诉你：如何和领导打交道？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》791丨职场上总有人背后阴你？一招应对 [llZ74eBI88qMw_9050x2QaDdjwQN].md",
+          "key": "zizhi-tongjian-hanji-791-zhichang-shang-zong-you-ren-beihou-yin-ni-yi-zhao-yingdui-llz74ebi88qmw-9050x2qaddjwqn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》791丨职场上总有人背后阴你？一招应对",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-791-zhichang-shang-zong-you-ren-beihou-yin-ni-yi-zhao-yingdui-llz74ebi88qmw-9050x2qaddjwqn/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/suobanlatehan/"
+    },
+    "SuperiorCreditConflictRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》790丨历史告诉你：如何和领导打交道？ [luLf0R1SdKOD3luZWRU0_KKrIjXK].md",
+          "key": "zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》790丨历史告诉你：如何和领导打交道？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/superiorcreditconflictrisk/"
+    },
     "SupervisedFineTuning": {
       "episode_count": 1,
       "show_count": 1,
@@ -28778,6 +28960,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/tanghenglatehan/"
+    },
+    "TangTanLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》790丨历史告诉你：如何和领导打交道？ [luLf0R1SdKOD3luZWRU0_KKrIjXK].md",
+          "key": "zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》790丨历史告诉你：如何和领导打交道？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/tangtanlatehan/"
     },
     "TangWenbin": {
       "episode_count": 1,
@@ -33626,6 +33824,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/yangqiaolatehan/"
     },
+    "YangSongLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》790丨历史告诉你：如何和领导打交道？ [luLf0R1SdKOD3luZWRU0_KKrIjXK].md",
+          "key": "zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》790丨历史告诉你：如何和领导打交道？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/yangsonglatehan/"
+    },
     "YangYuanqunLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -34011,6 +34225,29 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/yiwugarrisonlatehan/"
+    },
+    "YizhouPacificationByLeniency": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》940丨得民心者得天下，你信不信？ [loipF7b0P5A-yh0Rj2nJNSml8a1J].md",
+          "key": "zizhi-tongjian-hanji-940-de-minxin-zhe-de-tianxia-ni-xin-bu-xin-loipf7b0p5a-yh0rj2njnsml8a1j",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》940丨得民心者得天下，你信不信？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-940-de-minxin-zhe-de-tianxia-ni-xin-bu-xin-loipf7b0p5a-yh0rj2njnsml8a1j/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》790丨历史告诉你：如何和领导打交道？ [luLf0R1SdKOD3luZWRU0_KKrIjXK].md",
+          "key": "zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》790丨历史告诉你：如何和领导打交道？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/yizhoupacificationbyleniency/"
     },
     "YouthFootballPublicAccess": {
       "episode_count": 1,
@@ -34883,9 +35120,9 @@
       "url": "/wiki/entities/zhangpanlatehan/"
     },
     "ZhangQiaoLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》819丨2人功比4万人，他的权谋令人拍案叫绝！ [lsSLJ3Y_kRNd8h-c8x5pgSQeinff].md",
@@ -34900,9 +35137,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》799丨东汉名臣杨震，如何拒绝走后门？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》790丨历史告诉你：如何和领导打交道？ [luLf0R1SdKOD3luZWRU0_KKrIjXK].md",
+          "key": "zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》790丨历史告诉你：如何和领导打交道？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-08-30",
       "url": "/wiki/entities/zhangqiaolatehan/"
     },
     "ZhangShuoLateHan": {

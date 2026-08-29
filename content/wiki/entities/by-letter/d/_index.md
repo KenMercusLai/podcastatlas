@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 8334
+wiki_total_pages: 8341
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -1073,6 +1073,12 @@ wiki_pages:
   - key: "DengTong"
     title: "邓通 / Deng Tong"
     url: "/wiki/entities/dengtong/"
+  - key: "DengZunLateHan"
+    title: "邓遵 / Deng Zun (late Han)"
+    url: "/wiki/entities/dengzunlatehan/"
+  - key: "DengZhiLateHan"
+    title: "邓骘 / Deng Zhi (late Han)"
+    url: "/wiki/entities/dengzhilatehan/"
   - key: "Dujiangyan"
     title: "都江堰 / Dujiangyan"
     url: "/wiki/entities/dujiangyan/"

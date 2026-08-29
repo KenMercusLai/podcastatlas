@@ -9,16 +9,21 @@ sources:
   - zizhi-tongjian-hanji-793-lishi-zhuming-nvhuang-dengsui-zenme-si-de-lszfgj7waiuusrddzjmv5mbrp1i
   - zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn
   - zizhi-tongjian-hanji-791-zhichang-shang-zong-you-ren-beihou-yin-ni-yi-zhao-yingdui-llz74ebi88qmw-9050x2qaddjwqn
+  - zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk
 last_updated: 2026-08-30
 ---
 
 ## Overview
 
-和熹邓皇后 / Empress Dowager Deng now appears as the An-era regent whose danger is visible before as well as after her 121 CE illness and death. Her current profile combines a concrete Western Regions decision that consults [[BanYongLateHan|Ban Yong]] but weakens his forward-defense proposal, the internal [[DengKangLateHan|Deng Kang]] warning against Deng outer-relative overreach, the retrospective [[RegencyUnderCompoundCrisis|compound-crisis regency]] judgment, the pre-purge replacement tension around Pingyuan Wang Liu Yi, and the later contested memory in which Zhu Chong defends Deng and her family.
+和熹邓皇后 / Empress Dowager Deng now appears as the An-era regent whose danger is visible before as well as after her 121 CE illness and death. Her current profile combines 118-119 CE frontier, fiscal, education, and omen-feedback pressure; a concrete Western Regions decision that consults [[BanYongLateHan|Ban Yong]] but weakens his forward-defense proposal; the internal [[DengKangLateHan|Deng Kang]] warning against Deng outer-relative overreach; the retrospective [[RegencyUnderCompoundCrisis|compound-crisis regency]] judgment; the pre-purge replacement tension around Pingyuan Wang Liu Yi; and the later contested memory in which Zhu Chong defends Deng and her family.
 
 ## Current Profile
 
-Deng is active regent during a Western Regions crisis. After Northern Xiongnu pressure breaks Han's Yiwu position and threatens Shanshan, she hears Cao Zong's request for a five-thousand-soldier expedition and the ministers' proposal to close the western passes. She then summons Ban Yong, whose Western Regions experience lets him reject both deep war and full abandonment.
+Hanji 790 supplies an earlier regency-pressure layer. Deng rules amid disasters, Qiang unrest, Goguryeo and Xianbei attacks, southwest rebellion, and a Qiang war whose cumulative cost approaches twenty-four billion. The same episode shows Deng-family power being translated into frontier reward when [[DengZunLateHan|Deng Zun]] is enfeoffed after Langmo's assassination, while [[RenShangLateHan|Ren Shang]] is executed after competing for credit. It also shows [[DengZhiLateHan|Deng Zhi]] punishing his wife and son over a horse received from Ren Shang, suggesting visible discipline inside a powerful outer-relative house.
+
+The educational and symbolic layer is also politically double-edged. Deng gathers royal and Deng-family children in residences, teaches them classics, and supervises examinations. The source treats this as cultural-institutional work but also as a suspicion trigger, especially for [[EmperorAnOfHan|Emperor An]]. [[TangTanLateHan|Tang Tan]]'s refusal to present a lingzhi omen because outer relatives are strong and the ruler is weak adds a local-feedback sign that Deng's regency could not be read only through auspicious rhetoric.
+
+Deng is active regent during the following Western Regions crisis. After Northern Xiongnu pressure breaks Han's Yiwu position and threatens Shanshan, she hears Cao Zong's request for a five-thousand-soldier expedition and the ministers' proposal to close the western passes. She then summons Ban Yong, whose Western Regions experience lets him reject both deep war and full abandonment.
 
 Ban Yong's proposal gives Deng a cost-conscious middle path: restore a Western Regions deputy commandant and send a long clerk with five hundred soldiers to Shanshan, using Dunhuang as rear base while reassuring local states and restraining Han officials from abusing them. Deng accepts only the institutional half, creating the deputy commandant with three hundred troops at Dunhuang but omitting the Shanshan forward post. The source treats that omission as a frontier-policy failure because the office exists without the forward leverage Ban Yong thought necessary.
 
@@ -36,16 +41,19 @@ Deng's contested public memory survives through [[ZhuChongLateHan|Zhu Chong]]'s 
 
 ## Key Characteristics
 
-- Empress dowager and regent whose 121 CE illness and death open Emperor An's personal rule.
+- Empress dowager and regent whose 118-121 CE profile combines frontier crisis, fiscal exhaustion, education policy, and transfer danger before Emperor An's personal rule.
 - Active frontier decision-maker who consults Ban Yong but implements only a weakened version of his Western Regions plan.
+- Outer-relative patronage center whose family military reward, household discipline, and school program all produce political suspicion.
 - Crisis ruler judged under disasters, frontier war, fiscal strain, banditry, and gendered legitimacy pressure.
 - Austerity and relief figure credited with reducing consumption, labor, taxes, and palace burdens while supporting schools, pardons, and regional development.
-- Frontier-fiscal failure figure criticized for Western Regions and Qiang policy that consumed resources and required later repair.
 - Regent who installed Emperor An, delayed returning governing power, and faced an internal Deng-family warning before later replacement politics.
 - Posthumous center of a succession-sensitive accusation involving Pingyuan Wang Liu Yi and the Deng household.
 
 ## Evidence
 
+- Earlier compound-crisis layer: [[zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk|Hanji 790]] places Deng's regency amid disasters, Qiang unrest, Goguryeo and Xianbei attacks, southwest rebellion, and nearly twenty-four billion in Qiang-war costs.
+- Deng-family military reward and discipline: [[zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk|Hanji 790]] records Deng Zun's Wuyang marquisate after Langmo's death and Deng Zhi's punishment of his wife and son for accepting Ren Shang's horse.
+- Education and omen-feedback pressure: [[zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk|Hanji 790]] says Deng educates royal and Deng-family children under close supervision and that Tang Tan rejects auspicious omen presentation under strong outer relatives and weak imperial authority.
 - Western Regions decision: [[zizhi-tongjian-hanji-791-zhichang-shang-zong-you-ren-beihou-yin-ni-yi-zhao-yingdui-llz74ebi88qmw-9050x2qaddjwqn|Hanji 791]] says Deng consults Ban Yong after court debate over attacking Northern Xiongnu or closing the western passes.
 - Partial adoption: [[zizhi-tongjian-hanji-791-zhichang-shang-zong-you-ren-beihou-yin-ni-yi-zhao-yingdui-llz74ebi88qmw-9050x2qaddjwqn|Hanji 791]] says Deng restores a Western Regions deputy commandant with three hundred troops at Dunhuang but omits Ban Yong's proposed Shanshan forward post.
 - Death chronology and death-cause boundary: [[zizhi-tongjian-hanji-793-lishi-zhuming-nvhuang-dengsui-zenme-si-de-lszfgj7waiuusrddzjmv5mbrp1i|Hanji 793]] says Deng becomes ill, issues an amnesty, dies in 121 CE, and is buried later that month without giving a specific medical cause.
@@ -59,12 +67,12 @@ Deng's contested public memory survives through [[ZhuChongLateHan|Zhu Chong]]'s 
 
 ## Qualifications
 
-The current profile is source-bounded. It does not settle Deng's full regency record, whether she truly intended to depose An, the exact legal charges against every Deng relative, Deng Kang's private motive, or how much of Zhu Chong's defense should be treated as forensic truth rather than strategic remonstrance. Hanji 791 does not prove why Deng omitted the Shanshan post from Ban Yong's plan; the source only shows that the resulting Dunhuang-only arrangement lacked the plan's forward leverage. Hanji 793 gives illness and death dates but no specific death cause, and its positive Deng assessment remains balanced by the Western Regions and Qiang criticism.
+The current profile is source-bounded. It does not settle Deng's full regency record, whether she truly intended to depose An, the exact legal charges against every Deng relative, Deng Kang's private motive, or how much of Zhu Chong's defense should be treated as forensic truth rather than strategic remonstrance. Hanji 790 does not prove Deng personally engineered Ren Shang's death or that her education program was a replacement plot; it shows why frontier reward, household access, and royal/Deng schooling created a suspicious environment. Hanji 791 does not prove why Deng omitted the Shanshan post from Ban Yong's plan; the source only shows that the resulting Dunhuang-only arrangement lacked the plan's forward leverage. Hanji 793 gives illness and death dates but no specific death cause, and its positive Deng assessment remains balanced by the Western Regions and Qiang criticism.
 
 ## What Changed
 
-- Added Hanji 791 as a concrete Deng-regency Western Regions decision before Deng Kang's warning and Deng's 121 CE death.
-- Clarified that the frontier qualification includes Deng's partial adoption of Ban Yong's plan, not only later retrospective criticism.
+- Added Hanji 790 as an earlier 118-119 CE layer for frontier finance, Deng-family military reward, household discipline, education policy, and omen-feedback anxiety.
+- Preserved Hanji 791 as a concrete Deng-regency Western Regions decision before Deng Kang's warning and Deng's 121 CE death, with the frontier qualification including Deng's partial adoption of Ban Yong's plan.
 - Kept Hanji 793 as the death chronology and compound-crisis regency-assessment layer without inventing a death cause.
 - Preserved Hanji 794 as the replacement-fear and first purge layer and Hanji 795 as the merit-memory and procedural-critique layer.
 - Kept the An-era Deng dowager separate from later Huan-era Deng pages.
@@ -72,6 +80,10 @@ The current profile is source-bounded. It does not settle Deng's full regency re
 ## Relationships
 
 - [[DengFamilyAnEraLateHan]] - household and outer-relative network punished after her death.
+- [[DengZunLateHan]] - Deng-family military beneficiary whose Qiang-war reward adds to outer-relative suspicion.
+- [[DengZhiLateHan]] - senior Deng-family actor whose household discipline shows internal risk control before the purge.
+- [[RenShangLateHan]] - executed commander whose credit conflict with Deng Zun unfolds under Deng's regency.
+- [[TangTanLateHan]] - local adviser whose omen warning captures strong outer relatives and weak imperial authority.
 - [[DengKangLateHan]] - cousin whose warning against outer-relative overreach is rejected before his expulsion from office.
 - [[EmperorAnOfHan]] - emperor whose post-regency legitimacy depends on how Deng's death, transfer, and household purge are judged.
 - [[BanYongLateHan|班勇]] - Western Regions adviser whose Shanshan-centered proposal Deng only partly adopts.

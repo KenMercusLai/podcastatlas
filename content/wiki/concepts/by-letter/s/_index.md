@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 5955
+wiki_total_pages: 5956
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1634,6 +1634,9 @@ wiki_pages:
   - key: "SanhuLawAppointmentConstraint"
     title: "三互法任官限制 / Sanhu Law Appointment Constraint"
     url: "/wiki/concepts/sanhulawappointmentconstraint/"
+  - key: "SuperiorCreditConflictRisk"
+    title: "与上争功风险 / Superior Credit Conflict Risk"
+    url: "/wiki/concepts/superiorcreditconflictrisk/"
   - key: "SpecialistDelegationLeadership"
     title: "专才分工式领导力 / Specialist Delegation Leadership"
     url: "/wiki/concepts/specialistdelegationleadership/"

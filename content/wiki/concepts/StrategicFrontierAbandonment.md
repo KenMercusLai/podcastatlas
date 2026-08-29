@@ -7,6 +7,7 @@ sources:
   - zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8
   - zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf
   - zizhi-tongjian-hanji-791-zhichang-shang-zong-you-ren-beihou-yin-ni-yi-zhao-yingdui-llz74ebi88qmw-9050x2qaddjwqn
+  - zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk
 last_updated: 2026-08-30
 ---
 
@@ -16,7 +17,9 @@ last_updated: 2026-08-30
 
 ## Current Synthesis
 
-The abandonment error appears most clearly when a court frames frontier policy as a binary choice between expensive expedition and retreat. In the 120 CE Western Regions debate, Cao Zong wants a costly punitive expedition while other ministers want to close the western passes and abandon the region. [[BanYongLateHan|Ban Yong]] rejects both. He argues that the Western Regions deny Xiongnu taxes, manpower, and strategic reach, but that a treasury weakened by long Qiang war cannot support a deep campaign. His alternative is constrained retention through a forward Shanshan post backed by Dunhuang.
+The abandonment error appears first as an enemy-resource problem before it becomes a policy debate. [[zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk|Hanji 790]] says Northern Xiongnu rebuilds strength after the Western Regions are cut off from Han, forces local states, and by 119 CE controls them as a suzerain field. [[CaoZongLateHan|Cao Zong]] responds by asking the court to protect the region, and [[SuoBanLateHan|Suo Ban]] is sent to Yiwu with a small tuntian garrison that initially receives submission from Cheshi Qian and Shanshan. The abandoned buffer has therefore already become a usable enemy rear before Han debates how to re-enter.
+
+The concept appears most clearly when a court frames frontier policy as a binary choice between expensive expedition and retreat. In the 120 CE Western Regions debate, Cao Zong wants a costly punitive expedition while other ministers want to close the western passes and abandon the region. [[BanYongLateHan|Ban Yong]] rejects both. He argues that the Western Regions deny Xiongnu taxes, manpower, and strategic reach, but that a treasury weakened by long Qiang war cannot support a deep campaign. His alternative is constrained retention through a forward Shanshan post backed by Dunhuang.
 
 That case also makes implementation quality part of the concept. [[EmpressDowagerDengLateHan|Empress Dowager Deng]] accepts only the deputy-commandant and Dunhuang-garrison part of Ban Yong's proposal, leaving out the Shanshan forward post. The result is strategically weak: an office and an inner-edge garrison cannot deliver the same deterrent, reassurance, and route-control effect as the forward position.
 
@@ -37,6 +40,8 @@ Together, the sources define the concept as a frontier-accounting error. Withdra
 
 ## Evidence
 
+- Enemy suzerainty after cutoff: [[zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk|Hanji 790]] says Northern Xiongnu strengthens after Han loses the Western Regions connection and by 119 CE dominates the local states as suzerain.
+- Small re-entry attempt: [[zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk|Hanji 790]] says Cao Zong asks for renewed protection and Suo Ban enters Yiwu with more than one thousand men, producing initial submission from Cheshi Qian and Shanshan.
 - Western Regions false binary: [[zizhi-tongjian-hanji-791-zhichang-shang-zong-you-ren-beihou-yin-ni-yi-zhao-yingdui-llz74ebi88qmw-9050x2qaddjwqn|Hanji 791]] says Cao Zong requests a five-thousand-soldier expedition while court ministers argue for closing the western passes and abandoning the region.
 - Cost-aware retention: [[zizhi-tongjian-hanji-791-zhichang-shang-zong-you-ren-beihou-yin-ni-yi-zhao-yingdui-llz74ebi88qmw-9050x2qaddjwqn|Hanji 791]] says Ban Yong rejects the expedition because long Qiang war has emptied the treasury, but still argues that abandonment would strengthen Xiongnu.
 - Forward-position mechanism: [[zizhi-tongjian-hanji-791-zhichang-shang-zong-you-ren-beihou-yin-ni-yi-zhao-yingdui-llz74ebi88qmw-9050x2qaddjwqn|Hanji 791]] says Ban Yong proposes a Shanshan post because it can reassure southern-route states, watch northern-route pressure, and use Dunhuang as rear base.
@@ -49,10 +54,11 @@ Together, the sources define the concept as a frontier-accounting error. Withdra
 
 ## Counterevidence & Qualifications
 
-This concept should not become an automatic anti-withdrawal rule. Hanji 791 itself rejects an immediate large expedition, Hanji 799 preserves fallback options and limited garrisoning, and Hanji 934 occurs in a later fiscal and rebellion context with different capacity constraints. The shared claim is narrower: before abandoning a frontier, the court must price the buffer, corridor, alliance, enemy-resource, and future-defense effects, not only the immediate tax and deployment burden. Hanji 791 also cautions that token retention may fail if the part adopted is not the part that creates strategic leverage.
+This concept should not become an automatic anti-withdrawal rule. Hanji 790 shows that re-entry with a small Yiwu garrison can be fragile; Hanji 791 itself rejects an immediate large expedition, Hanji 799 preserves fallback options and limited garrisoning, and Hanji 934 occurs in a later fiscal and rebellion context with different capacity constraints. The shared claim is narrower: before abandoning a frontier, the court must price the buffer, corridor, alliance, enemy-resource, and future-defense effects, not only the immediate tax and deployment burden. Hanji 791 also cautions that token retention may fail if the part adopted is not the part that creates strategic leverage.
 
 ## What Changed
 
+- Added Hanji 790 as the pre-debate layer showing Northern Xiongnu suzerainty, Cao Zong's protection request, and Suo Ban's initial Yiwu re-entry.
 - Added Hanji 791 as the earlier Western Regions case before the Hanji 799 Liuzhong decision.
 - Made the cost-aware middle path explicit: Ban Yong rejects both deep expedition and total abandonment.
 - Added partial implementation as a qualification because Deng's Dunhuang-only adoption omits Ban Yong's forward Shanshan mechanism.
@@ -68,3 +74,5 @@ This concept should not become an automatic anti-withdrawal rule. Hanji 791 itse
 - [[FinancialPowerAndStateCapacity|财政权力与国家能力]] - fiscal lens that can expose real constraints without reducing frontier value to immediate budget pressure.
 - [[AbsoluteGuaranteeTrap|绝对保证陷阱]] - debate tactic used in Hanji 791 to demand impossible certainty from a constrained-retention policy.
 - [[HexiFourCommanderiesLateHan|河西四郡]] - regional case where Western Regions retention is framed as a condition for Hexi security.
+- [[CaoZongLateHan]] - frontier administrator whose protection request and later expedition proposal expose the recovery side of abandonment.
+- [[SuoBanLateHan]] - field officer whose Yiwu mission shows the fragility of small re-entry after the buffer has shifted away.

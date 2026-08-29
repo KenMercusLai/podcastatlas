@@ -8511,6 +8511,10 @@
     "title": "曹寅 / Cao Yin (late Han)",
     "url": "/wiki/entities/caoyinlatehan/"
   },
+  "CaoZongLateHan": {
+    "title": "曹宗 / Cao Zong (late Han)",
+    "url": "/wiki/entities/caozonglatehan/"
+  },
   "CapTableLiteracy": {
     "title": "Cap Table Literacy",
     "url": "/wiki/concepts/captableliteracy/"
@@ -13966,6 +13970,14 @@
   "DengXiLateHan": {
     "title": "邓羲 / Deng Xi (late Han)",
     "url": "/wiki/entities/dengxilatehan/"
+  },
+  "DengZhiLateHan": {
+    "title": "邓骘 / Deng Zhi (late Han)",
+    "url": "/wiki/entities/dengzhilatehan/"
+  },
+  "DengZunLateHan": {
+    "title": "邓遵 / Deng Zun (late Han)",
+    "url": "/wiki/entities/dengzunlatehan/"
   },
   "DenisJohnsonBicycle": {
     "title": "Denis Johnson (Bicycle)",
@@ -42015,6 +42027,10 @@
     "title": "任宁 / Ren Ning",
     "url": "/wiki/entities/renning/"
   },
+  "RenShangLateHan": {
+    "title": "任尚 / Ren Shang (late Han)",
+    "url": "/wiki/entities/renshanglatehan/"
+  },
   "RenShiQinMerchant": {
     "title": "任氏 / Ren Family (Qin-Han merchant)",
     "url": "/wiki/entities/renshiqinmerchant/"
@@ -47987,6 +48003,10 @@
     "title": "《孙子兵法》 / The Art of War",
     "url": "/wiki/entities/sunzibingfa/"
   },
+  "SuoBanLateHan": {
+    "title": "索班 / Suo Ban (late Han)",
+    "url": "/wiki/entities/suobanlatehan/"
+  },
   "SuoYinReading": {
     "title": "索隐式阅读 / Suo Yin Reading",
     "url": "/wiki/concepts/suoyinreading/"
@@ -48014,6 +48034,10 @@
   "SuperheroTallTaleContinuity": {
     "title": "Superhero Tall-Tale Continuity",
     "url": "/wiki/concepts/superherotalltalecontinuity/"
+  },
+  "SuperiorCreditConflictRisk": {
+    "title": "与上争功风险 / Superior Credit Conflict Risk",
+    "url": "/wiki/concepts/superiorcreditconflictrisk/"
   },
   "SupermarketCanteen": {
     "title": "Supermarket Canteen / 超市食堂",
@@ -48674,6 +48698,10 @@
   "TangStrangeTaleRepaymentEthics": {
     "title": "Tang Strange-Tale Repayment Ethics",
     "url": "/wiki/concepts/tangstrangetalerepaymentethics/"
+  },
+  "TangTanLateHan": {
+    "title": "唐潭 / Tang Tan (late Han)",
+    "url": "/wiki/entities/tangtanlatehan/"
   },
   "TangTao": {
     "title": "唐涛 / 唐唐 / Tang Tao",
@@ -55579,6 +55607,10 @@
     "title": "杨慎",
     "url": "/wiki/entities/yangshen/"
   },
+  "YangSongLateHan": {
+    "title": "杨宋 / Yang Song (late Han)",
+    "url": "/wiki/entities/yangsonglatehan/"
+  },
   "YangWuHanGeneral": {
     "title": "杨武 / Yang Wu (Han)",
     "url": "/wiki/entities/yangwuhangeneral/"
@@ -62246,6 +62278,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk": {
+    "title": "《资治通鉴·汉纪》790丨历史告诉你：如何和领导打交道？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk/"
   },
   "zizhi-tongjian-hanji-791-zhichang-shang-zong-you-ren-beihou-yin-ni-yi-zhao-yingdui-llz74ebi88qmw-9050x2qaddjwqn": {
     "title": "《资治通鉴·汉纪》791丨职场上总有人背后阴你？一招应对",

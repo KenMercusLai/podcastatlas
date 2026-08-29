@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "e4e3b8f13f26be35019adef3fced4108842417c6090816eb8705866e259ba103",
       "0d7f25fc11fbd57cab678cdf86b6c29ce3204627f14611118f78159a945a218a",
       "606822fad7e328a7e3aed82c62e9551eeec0b3dfcc67709dac3dcec510d9a9e4",
       "728ef5af93b8df7401c14f16865c994ef3fbf66483141cdcee877b43d30242b6",
@@ -379,11 +380,43 @@
       "75db7802851b00335466c237f5c73df15775e7e42e7213db8107b7ed258053a0",
       "1728ec139408181cbf32d64d0e7235b0b1fbc548128d242cc4265fbc114de8e7"
     ],
-    "paragraph_count": 377
+    "paragraph_count": 378
   },
-  "overview_commit": "910d0eaf1a2fca7cfad2cc430dc4abff235cc371",
-  "overview_digest": "04aef1a2df82f819b5ddd158b59e0e0f4077de7acba3db0cbcaf49b30e416204",
+  "overview_commit": "efa1adcd8962007b4bc1f76b384183935e6adf08",
+  "overview_digest": "21fb532d787a2ec651b0c00acd57ffecd5115b339b5d99eead05f0ca707fab79",
   "paragraphs": [
+    {
+      "id": "e4e3b8f13f26be35019adef3fced4108842417c6090816eb8705866e259ba103",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk|《资治通鉴·汉纪》790丨历史告诉你：如何和领导打交道？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 118-119 CE [[EmpressDowagerDengLateHan|和熹邓皇后]] regency layer immediately before [[zizhi-tongjian-hanji-791-zhichang-shang-zong-you-ren-beihou-yin-ni-yi-zhao-yingdui-llz74ebi88qmw-9050x2qaddjwqn|Hanji 791]]. It adds [[RenShangLateHan|任尚]], [[DengZunLateHan|邓遵]], [[DengZhiLateHan|邓骘]], [[YangSongLateHan|杨宋]], [[TangTanLateHan|唐潭]], [[CaoZongLateHan|曹宗]], [[SuoBanLateHan|索班]], and [[SuperiorCreditConflictRisk|与上争功风险]], while extending [[MaXianLateHan|马贤]], [[ZhangQiaoLateHan|张乔]], [[ShuleKingdom|疏勒]], [[DengFamilyAnEraLateHan|邓氏]], [[RegencyUnderCompoundCrisis|复合危机下的摄政]], [[YizhouPacificationByLeniency|益州宽惠安抚]], and [[StrategicFrontierAbandonment|弃边失屏]]. Its core synthesis is that Deng-regency crisis management joined battlefield, household, and communication risks: Ren Shang's real Qiang-war merit becomes fatal once he contests credit with Deng Zun, Deng Zhi shows stricter family discipline around gifts, Yang Song pairs force with leniency and local-official punishment in Yizhou, and Cao Zong/Suo Ban open the Western Regions recovery attempt that Hanji 791 turns into a debate over constrained frontier retention. No settled contradiction is recorded; source spellings such as 邓尊/邓遵, Yang Song's exact character form, and Shule's minor succession actors remain source-scoped.",
+      "topic_scores": {
+        "history-and-geopolitics": 2,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "CaoZongLateHan",
+        "DengFamilyAnEraLateHan",
+        "DengZhiLateHan",
+        "DengZunLateHan",
+        "EmpressDowagerDengLateHan",
+        "MaXianLateHan",
+        "RegencyUnderCompoundCrisis",
+        "RenShangLateHan",
+        "RuiqiJiangtouZizhiTongjian",
+        "ShuleKingdom",
+        "StrategicFrontierAbandonment",
+        "SuoBanLateHan",
+        "SuperiorCreditConflictRisk",
+        "TangTanLateHan",
+        "YangSongLateHan",
+        "YizhouPacificationByLeniency",
+        "ZhangQiaoLateHan",
+        "zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk",
+        "zizhi-tongjian-hanji-791-zhichang-shang-zong-you-ren-beihou-yin-ni-yi-zhao-yingdui-llz74ebi88qmw-9050x2qaddjwqn"
+      ]
+    },
     {
       "id": "0d7f25fc11fbd57cab678cdf86b6c29ce3204627f14611118f78159a945a218a",
       "primary_topic": "history-and-geopolitics",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 8334
+wiki_total_pages: 8341
 wiki_pages:
   - key: "RachelReeves"
     title: "Rachel Reeves"
@@ -707,6 +707,9 @@ wiki_pages:
   - key: "RenNing"
     title: "任宁 / Ren Ning"
     url: "/wiki/entities/renning/"
+  - key: "RenShangLateHan"
+    title: "任尚 / Ren Shang (late Han)"
+    url: "/wiki/entities/renshanglatehan/"
   - key: "RenJun"
     title: "任峻 / Ren Jun"
     url: "/wiki/entities/renjun/"
