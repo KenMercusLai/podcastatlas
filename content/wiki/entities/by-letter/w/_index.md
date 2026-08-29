@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 8274
+wiki_total_pages: 8279
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -878,6 +878,9 @@ wiki_pages:
   - key: "WangGuoLateHan"
     title: "王国 / Wang Guo (late Han)"
     url: "/wiki/entities/wangguolatehan/"
+  - key: "WangGuoEunuchLateHan"
+    title: "王国 / Wang Guo (Shun-restoration eunuch)"
+    url: "/wiki/entities/wangguoeunuchlatehan/"
   - key: "WangGuowei"
     title: "王国维"
     url: "/wiki/entities/wangguowei/"
@@ -923,6 +926,9 @@ wiki_pages:
   - key: "WangYinglin"
     title: "王应麟 / Wang Yinglin"
     url: "/wiki/entities/wangyinglin/"
+  - key: "WangKangLateHan"
+    title: "王康 / Wang Kang (late Han)"
+    url: "/wiki/entities/wangkanglatehan/"
   - key: "WangJianFormerShu"
     title: "王建 / Wang Jian (Former Shu)"
     url: "/wiki/entities/wangjianformershu/"

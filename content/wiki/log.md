@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-29] ingest | 《资治通鉴·汉纪》804丨给你“糖”的人，不一定是贵人！
+
+Ingested the 2026-07-09 芮淇讲透资治通鉴 episode on the 125 CE eunuch-backed restoration of Emperor Shun, North Palace seal control, Jiade Hall installation, Yan Xian's defeat, Yan-family exile, Sun Cheng's nineteen-eunuch reward bloc, Wang Kang and Miao Guang's merit-list exposure, and Cui Yuan's post-coup non-exposure. Created the source note plus Yan Xian, Wang Kang, Miao Guang, the disambiguated eunuch Wang Guo, Cui Yuan, and Coup Credit Allocation Risk pages; updated Emperor Shun, Sun Cheng, Succession Legitimacy Purge, Palace Coup Symbol Control, Post-Restoration Merit Threat, overview, and index. No settled contradiction found; the eunuch Wang Guo is kept distinct from the later Liangzhou rebel Wang Guo, and Yan Yao, Yan Yan, Liu An, Chen Da, Li Run, Lai Li, Deng Feng, Liu Qiuhong, Chen Guang, Zhao Dai, Beixiang Hou / Liu Yi, Chen Chan, and the Huangmen Ling remain source-scoped.
+
 ## [2026-08-29] ingest | 《资治通鉴·汉纪》812丨古人40岁才能当官？
 
 Ingested the 2026-07-11 芮淇讲透资治通鉴 episode on 132-133 CE Emperor Shun, Zuo Xiong's Xiaolian recommendation reform, Hu Guang/Guo Qian/Shi Chang's flexibility objection, Xu Shu's failed exceptional-talent claim, and Lang Yi's disaster-policy memorial on high-office accountability, labor relief, frontier preparation, seasonal litigation, and legal simplification. Created the source note; updated `ZuoXiongLateHan`, `LangYiLateHan`, `HuGuangLateHan`, `EmperorShunOfHan`, `AppointmentQualityAsStateCapacity`, `OmenCodedRemonstrance`, `index`, and `overview`. No settled contradiction found; 郎乙 is normalized cautiously to 郎顗, while Guo Qian, Shi Chang, Xu Shu, and the Party Prohibition preview figures remain source-scoped.
@@ -13448,6 +13452,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-29] ingest | 《资治通鉴·汉纪》805丨通透人性的女人，竟能预测吉凶？
 
 Ingested the 2026-07-09 芮淇讲透资治通鉴 episode on 125-126 CE Emperor Shun's restoration settlement, Yang Zhen's vindication, Yan-family purge, Yan Taihou's ritual treatment and death, Yu Xu's cleanup of Yan/eunuch networks, and early Qiang/Xianbei pressure. Created the source note plus `EmpressDowagerYanLateHan` and `DefeatedDowagerLegitimacyManagement`; updated `EmperorShunOfHan`, `YuXuEasternHan`, `ZhouJuLateHan`, `SunChengLateHan`, `YangZhenLateHan`, `MaXianLateHan`, `SuccessionLegitimacyPurge`, `index`, and `overview`. No settled contradiction found; Yan Taihou's death cause and minor names including Chen Chan, Li He, Liu Yi, Feng Shi, Liu Xi, Tao Dun, Zhu Chong, Guo Zhen, Shi Yu, and Qu Boyu remain source-scoped.
+
+## [2026-08-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-29] lint | Wiki health check
 

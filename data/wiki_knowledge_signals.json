@@ -5954,6 +5954,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/countessmariefestetics/"
     },
+    "CoupCreditAllocationRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》804丨给你“糖”的人，不一定是贵人！ [lqONgdqg-hGeTOEgPylV_oS86bUH].md",
+          "key": "zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》804丨给你“糖”的人，不一定是贵人！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/coupcreditallocationrisk/"
+    },
     "CourtAllyProtectionNetwork": {
       "episode_count": 2,
       "show_count": 1,
@@ -6244,6 +6260,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/cuiyanlatehan/"
+    },
+    "CuiYuanLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》804丨给你“糖”的人，不一定是贵人！ [lqONgdqg-hGeTOEgPylV_oS86bUH].md",
+          "key": "zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》804丨给你“糖”的人，不一定是贵人！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/cuiyuanlatehan/"
     },
     "DaShiHua": {
       "episode_count": 1,
@@ -8500,9 +8532,9 @@
       "url": "/wiki/entities/emperorhuanofhan/"
     },
     "EmperorShunOfHan": {
-      "episode_count": 19,
+      "episode_count": 20,
       "show_count": 1,
-      "source_note_count": 19,
+      "source_note_count": 20,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》822丨豺狼当道，他将矛头直指皇帝岳父？ [lqHpMAYVd3p07BYR_zOIv-jyhdv_].md",
@@ -8636,6 +8668,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》805丨通透人性的女人，竟能预测吉凶？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》804丨给你“糖”的人，不一定是贵人！ [lqONgdqg-hGeTOEgPylV_oS86bUH].md",
+          "key": "zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》804丨给你“糖”的人，不一定是贵人！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh/"
         }
       ],
       "updated": "2026-08-29",
@@ -19123,6 +19162,22 @@
       "updated": "2026-08-25",
       "url": "/wiki/entities/mianji/"
     },
+    "MiaoGuangLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》804丨给你“糖”的人，不一定是贵人！ [lqONgdqg-hGeTOEgPylV_oS86bUH].md",
+          "key": "zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》804丨给你“糖”的人，不一定是贵人！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/miaoguanglatehan/"
+    },
     "MichaelKratsios": {
       "episode_count": 3,
       "show_count": 1,
@@ -20852,9 +20907,9 @@
       "url": "/wiki/concepts/packagedwaterpricewar/"
     },
     "PalaceCoupSymbolControl": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》848丨瞬间垮台！我为何说他死有余辜？ [lgqVgMxlwga2fKnmtxPj3Ya9chk0].md",
@@ -20869,9 +20924,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》847丨女人变得好命，从懂得这俩字开始",
           "url": "/wiki/sources/zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》804丨给你“糖”的人，不一定是贵人！ [lqONgdqg-hGeTOEgPylV_oS86bUH].md",
+          "key": "zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》804丨给你“糖”的人，不一定是贵人！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-29",
       "url": "/wiki/concepts/palacecoupsymbolcontrol/"
     },
     "PalaceFavoriteProtectionFragility": {
@@ -21756,6 +21818,36 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/poseidon/"
+    },
+    "PostRestorationMeritThreat": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·周纪》81丨历史早期PUA记实录（2） [lpKSu7523UT_skPMxxH9e-TcBZ0K].md",
+          "key": "zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-2-lpksu7523ut-skpmxxh9e-tcbz0k",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》81丨历史早期PUA记实录（2）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-2-lpksu7523ut-skpmxxh9e-tcbz0k/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》81丨历史早期PUA记实录（1） [ljxBN4GZNUOHEGzYEe0-tUDi9z-y].md",
+          "key": "zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》81丨历史早期PUA记实录（1）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》804丨给你“糖”的人，不一定是贵人！ [lqONgdqg-hGeTOEgPylV_oS86bUH].md",
+          "key": "zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》804丨给你“糖”的人，不一定是贵人！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/postrestorationmeritthreat/"
     },
     "PostSuccessArrogance": {
       "episode_count": 4,
@@ -25830,9 +25922,9 @@
       "url": "/wiki/concepts/successionauthorityconsolidation/"
     },
     "SuccessionLegitimacyPurge": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》943丨权势考验人性，背后藏着巨大凶险 [lg7ia5XOK-swdMHml35YV9qQQkvt].md",
@@ -25854,6 +25946,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》805丨通透人性的女人，竟能预测吉凶？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》804丨给你“糖”的人，不一定是贵人！ [lqONgdqg-hGeTOEgPylV_oS86bUH].md",
+          "key": "zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》804丨给你“糖”的人，不一定是贵人！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh/"
         }
       ],
       "updated": "2026-08-29",
@@ -26089,9 +26188,9 @@
       "url": "/wiki/entities/sunceassassination/"
     },
     "SunChengLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》806丨想要成事，找对人很关键！ [luswh-p-OYutYSXuE6sHWEQcWQxs].md",
@@ -26106,6 +26205,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》805丨通透人性的女人，竟能预测吉凶？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》804丨给你“糖”的人，不一定是贵人！ [lqONgdqg-hGeTOEgPylV_oS86bUH].md",
+          "key": "zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》804丨给你“糖”的人，不一定是贵人！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh/"
         }
       ],
       "updated": "2026-08-29",
@@ -28828,6 +28934,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/wanggongtaiweilatehan/"
     },
+    "WangGuoEunuchLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》804丨给你“糖”的人，不一定是贵人！ [lqONgdqg-hGeTOEgPylV_oS86bUH].md",
+          "key": "zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》804丨给你“糖”的人，不一定是贵人！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/wangguoeunuchlatehan/"
+    },
     "WangHuanLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -28859,6 +28981,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/wangjingxiyulatehan/"
+    },
+    "WangKangLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》804丨给你“糖”的人，不一定是贵人！ [lqONgdqg-hGeTOEgPylV_oS86bUH].md",
+          "key": "zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》804丨给你“糖”的人，不一定是贵人！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/wangkanglatehan/"
     },
     "WangTiaoLiGuStudent": {
       "episode_count": 1,
@@ -30767,6 +30905,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/yanrou/"
+    },
+    "YanXianLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》804丨给你“糖”的人，不一定是贵人！ [lqONgdqg-hGeTOEgPylV_oS86bUH].md",
+          "key": "zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》804丨给你“糖”的人，不一定是贵人！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/yanxianlatehan/"
     },
     "YanXiangCheshiLateHan": {
       "episode_count": 1,

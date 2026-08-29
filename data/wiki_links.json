@@ -12147,6 +12147,10 @@
     "title": "County Platform Labor / 县域平台劳动",
     "url": "/wiki/concepts/countyplatformlabor/"
   },
+  "CoupCreditAllocationRisk": {
+    "title": "Coup Credit Allocation Risk / 宫变功劳分配风险",
+    "url": "/wiki/concepts/coupcreditallocationrisk/"
+  },
   "CouponLedTransactionGrowth": {
     "title": "Coupon-Led Transaction Growth",
     "url": "/wiki/concepts/couponledtransactiongrowth/"
@@ -12622,6 +12626,10 @@
   "CuiYanLateHan": {
     "title": "崔琰 / Cui Yan (late Han)",
     "url": "/wiki/entities/cuiyanlatehan/"
+  },
+  "CuiYuanLateHan": {
+    "title": "崔瑗 / Cui Yuan (late Han)",
+    "url": "/wiki/entities/cuiyuanlatehan/"
   },
   "CuiZhouping": {
     "title": "崔州平 / Cui Zhouping",
@@ -33143,6 +33151,10 @@
     "title": "绵竹 / Mianzhu (late Han)",
     "url": "/wiki/entities/mianzhulatehan/"
   },
+  "MiaoGuangLateHan": {
+    "title": "苗光 / Miao Guang (late Han)",
+    "url": "/wiki/entities/miaoguanglatehan/"
+  },
   "MiaoQian": {
     "title": "苗千 / Miao Qian",
     "url": "/wiki/entities/miaoqian/"
@@ -52135,6 +52147,10 @@
     "title": "王龚 / Wang Gong (Taiwei, late Han)",
     "url": "/wiki/entities/wanggongtaiweilatehan/"
   },
+  "WangGuoEunuchLateHan": {
+    "title": "王国 / Wang Guo (Shun-restoration eunuch)",
+    "url": "/wiki/entities/wangguoeunuchlatehan/"
+  },
   "WangGuoLateHan": {
     "title": "王国 / Wang Guo (late Han)",
     "url": "/wiki/entities/wangguolatehan/"
@@ -52202,6 +52218,10 @@
   "WangKaiLateHan": {
     "title": "王楷 / Wang Kai (Late Han)",
     "url": "/wiki/entities/wangkailatehan/"
+  },
+  "WangKangLateHan": {
+    "title": "王康 / Wang Kang (late Han)",
+    "url": "/wiki/entities/wangkanglatehan/"
   },
   "WangKuangLateHan": {
     "title": "王匡 / Wang Kuang (late Han)",
@@ -55098,6 +55118,10 @@
   "YanXiGong": {
     "title": "燕僖公 / Duke Xi of Yan",
     "url": "/wiki/entities/yanxigong/"
+  },
+  "YanXianLateHan": {
+    "title": "阎显 / Yan Xian (late Han)",
+    "url": "/wiki/entities/yanxianlatehan/"
   },
   "YanXiangCheshiLateHan": {
     "title": "阎祥 / Yan Xiang (Cheshi, late Han)",
@@ -61838,6 +61862,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh": {
+    "title": "《资治通鉴·汉纪》804丨给你“糖”的人，不一定是贵人！",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh/"
   },
   "zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew": {
     "title": "《资治通鉴·汉纪》805丨通透人性的女人，竟能预测吉凶？",

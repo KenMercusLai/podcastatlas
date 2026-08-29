@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 5918
+wiki_total_pages: 5919
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1439,6 +1439,9 @@ wiki_pages:
   - key: "CountyPlatformLabor"
     title: "County Platform Labor / 县域平台劳动"
     url: "/wiki/concepts/countyplatformlabor/"
+  - key: "CoupCreditAllocationRisk"
+    title: "Coup Credit Allocation Risk / 宫变功劳分配风险"
+    url: "/wiki/concepts/coupcreditallocationrisk/"
   - key: "CouponLedTransactionGrowth"
     title: "Coupon-Led Transaction Growth"
     url: "/wiki/concepts/couponledtransactiongrowth/"
