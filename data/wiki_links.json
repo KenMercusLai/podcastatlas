@@ -9683,6 +9683,10 @@
     "title": "Chen Zhi",
     "url": "/wiki/entities/chenzhi/"
   },
+  "ChenZhongLateHan": {
+    "title": "陈忠 / Chen Zhong (late Han)",
+    "url": "/wiki/entities/chenzhonglatehan/"
+  },
   "ChenZhuangWarringStates": {
     "title": "陈庄 / Chen Zhuang (Warring States)",
     "url": "/wiki/entities/chenzhuangwarringstates/"
@@ -17846,6 +17850,10 @@
   "FengJingChuHan": {
     "title": "冯敬 / Feng Jing (Chu-Han)",
     "url": "/wiki/entities/fengjingchuhan/"
+  },
+  "FengLiangLateHan": {
+    "title": "冯良 / Feng Liang (late Han)",
+    "url": "/wiki/entities/fenglianglatehan/"
   },
   "FengLiuYiDai": {
     "title": "《风流一代》 / Caught by the Tides",
@@ -56627,6 +56635,10 @@
     "title": "张躭 / Zhang Dan (Protector of Xiongnu)",
     "url": "/wiki/entities/zhangdanprotectorofxiongnu/"
   },
+  "ZhangDangLateHan": {
+    "title": "张珰 / Zhang Dang (late Han)",
+    "url": "/wiki/entities/zhangdanglatehan/"
+  },
   "ZhangEr": {
     "title": "张耳 / Zhang Er",
     "url": "/wiki/entities/zhanger/"
@@ -57786,6 +57798,10 @@
   "ZhouXiaowang": {
     "title": "周孝王 / King Xiao of Zhou",
     "url": "/wiki/entities/zhouxiaowang/"
+  },
+  "ZhouXieLateHan": {
+    "title": "周燮 / Zhou Xie (late Han)",
+    "url": "/wiki/entities/zhouxielatehan/"
   },
   "ZhouXinLateHan": {
     "title": "周昕 / Zhou Xin (late Han)",
@@ -62058,6 +62074,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf": {
+    "title": "《资治通鉴·汉纪》799丨东汉名臣杨震，如何拒绝走后门？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf/"
   },
   "zizhi-tongjian-hanji-800-yangzhen-zhisi-yi-chang-jianchen-dui-qingguan-de-jiaosha-lk9qcfs4xl-rjd-zpwdtsblybxa8": {
     "title": "《资治通鉴·汉纪》800丨杨震之死：一场奸臣对清官的剿杀",

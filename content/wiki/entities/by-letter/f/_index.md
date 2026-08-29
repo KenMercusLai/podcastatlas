@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 8309
+wiki_total_pages: 8313
 wiki_pages:
   - key: "FortyThreeTalks"
     title: "43talks"
@@ -644,6 +644,9 @@ wiki_pages:
   - key: "FengyishanBattleLateHan"
     title: "冯翊山之战 / Fengyishan Battle (late Han)"
     url: "/wiki/entities/fengyishanbattlelatehan/"
+  - key: "FengLiangLateHan"
+    title: "冯良 / Feng Liang (late Han)"
+    url: "/wiki/entities/fenglianglatehan/"
   - key: "FengGuirenLateHan"
     title: "冯贵人 / Feng Guiren (late Han)"
     url: "/wiki/entities/fengguirenlatehan/"

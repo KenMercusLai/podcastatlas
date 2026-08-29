@@ -7,16 +7,19 @@ sources:
   - zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d
   - zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s
   - zizhi-tongjian-hanji-800-yangzhen-zhisi-yi-chang-jianchen-dui-qingguan-de-jiaosha-lk9qcfs4xl-rjd-zpwdtsblybxa8
+  - zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf
 last_updated: 2026-08-29
 ---
 
 ## Overview
 
-班勇 / Ban Yong appears in this wiki as the Eastern Han Western Regions commander whose frontier reconstruction begins before Emperor Shun's accession and later suffers from court-information distortion. [[zizhi-tongjian-hanji-800-yangzhen-zhisi-yi-chang-jianchen-dui-qingguan-de-jiaosha-lk9qcfs4xl-rjd-zpwdtsblybxa8|Hanji 800]] adds a 124 CE diplomacy-and-pressure layer around Loulan, Qiuci, and Cheshi Qian; [[zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s|Hanji 803]] adds a 125 CE Cheshi Hou campaign; [[zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d|Hanji 807]] presents his later restoration work and wrongful punishment after Zhang Lang's early Yanqi attack.
+班勇 / Ban Yong appears in this wiki as the Eastern Han Western Regions commander whose frontier reconstruction begins with a 123 CE retention decision and later suffers from court-information distortion. [[zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf|Hanji 799]] adds his appointment to Liuzhong after [[ChenZhongLateHan|陈忠]]'s anti-abandonment argument; [[zizhi-tongjian-hanji-800-yangzhen-zhisi-yi-chang-jianchen-dui-qingguan-de-jiaosha-lk9qcfs4xl-rjd-zpwdtsblybxa8|Hanji 800]] adds 124 CE diplomacy and pressure around Loulan, Qiuci, and Cheshi Qian; [[zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s|Hanji 803]] adds a 125 CE Cheshi Hou campaign; [[zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d|Hanji 807]] presents his later restoration work and wrongful punishment after Zhang Lang's early Yanqi attack.
 
 ## Current Profile
 
-[[zizhi-tongjian-hanji-800-yangzhen-zhisi-yi-chang-jianchen-dui-qingguan-de-jiaosha-lk9qcfs4xl-rjd-zpwdtsblybxa8|Hanji 800]] supplies Ban Yong's earliest current layer. In 124 CE, he reaches Loulan, Shanshan renews submission to Han, and Qiuci king Bai Ying first hesitates before Ban Yong combines favors, credibility, and pressure. Bai Ying then brings Gumo and Wensu into submission, Ban Yong raises more than ten thousand infantry and cavalry from Qiuci and other states, drives a Xiongnu Yili king away near Cheshi Qian, receives thousands of Cheshi Qian troops, and returns to Liuzhong for garrison farming.
+[[zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf|Hanji 799]] supplies Ban Yong's starting point in the current wiki. After Zhang Dang and Chen Zhong oppose closing the western passes and abandoning the Western Regions, [[EmperorAnOfHan|Emperor An]] accepts Chen Zhong's argument. Ban Yong is appointed Western Regions chief clerk with five hundred troops and sent beyond the passes to garrison Liuzhong.
+
+[[zizhi-tongjian-hanji-800-yangzhen-zhisi-yi-chang-jianchen-dui-qingguan-de-jiaosha-lk9qcfs4xl-rjd-zpwdtsblybxa8|Hanji 800]] supplies Ban Yong's first operational layer. In 124 CE, he reaches Loulan, Shanshan renews submission to Han, and Qiuci king Bai Ying first hesitates before Ban Yong combines favors, credibility, and pressure. Bai Ying then brings Gumo and Wensu into submission, Ban Yong raises more than ten thousand infantry and cavalry from Qiuci and other states, drives a Xiongnu Yili king away near Cheshi Qian, receives thousands of Cheshi Qian troops, and returns to Liuzhong for garrison farming.
 
 [[zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s|Hanji 803]] supplies Ban Yong's 125 CE campaign layer. As Western Regions chief clerk, he mobilizes cavalry and allied forces from Dunhuang, Zhangye, Jiuquan, Shule, Shanshan, and Cheshi Qian against [[CheshiHouKingdomLateHan|车师后王国]]. The source says the campaign kills thousands, captures King Junjiu and a [[Xiongnu|Xiongnu]] envoy, and executes them at Suo Ban's death site before sending the heads to [[LuoyangLateHan|Luoyang]].
 
@@ -28,8 +31,8 @@ The Yanqi case turns that competence into vulnerability. Ban Yong asks to attack
 
 ## Key Characteristics
 
-- Western Regions operator whose authority works through both Han command and local royal submission.
-- Uses favors, credibility, pressure, allied mobilization, and garrison farming before open campaign dominance.
+- Western Regions operator appointed because the court rejects abandonment and chooses a limited Liuzhong garrison.
+- Authority builder whose methods combine Han command, local royal submission, gifts, pressure, and garrison farming.
 - Campaign commander whose 125 CE victory against Cheshi Hou combines Han commandery cavalry and allied Western Regions forces.
 - Uses dependent-polity commitment as strategy, especially by making Cheshi materially participate against Northern Xiongnu.
 - Coordinates larger multi-force plans rather than only single-column attack.
@@ -38,6 +41,7 @@ The Yanqi case turns that competence into vulnerability. Ban Yong asks to attack
 
 ## Evidence
 
+- 123 CE appointment: [[zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf|Hanji 799]] says Emperor An accepts Chen Zhong's anti-abandonment advice and appoints Ban Yong Western Regions chief clerk with five hundred troops at Liuzhong.
 - 124 CE submission chain: [[zizhi-tongjian-hanji-800-yangzhen-zhisi-yi-chang-jianchen-dui-qingguan-de-jiaosha-lk9qcfs4xl-rjd-zpwdtsblybxa8|Hanji 800]] says Ban Yong reaches Loulan, wins Shanshan's renewed submission, pressures Qiuci king Bai Ying, and brings Gumo and Wensu into Han alignment.
 - 124 CE allied operation: [[zizhi-tongjian-hanji-800-yangzhen-zhisi-yi-chang-jianchen-dui-qingguan-de-jiaosha-lk9qcfs4xl-rjd-zpwdtsblybxa8|Hanji 800]] says Ban Yong mobilizes Qiuci and other troops, drives away a Xiongnu Yili king near Cheshi Qian, receives Cheshi Qian forces, and returns to Liuzhong for tuntian.
 - 125 CE Cheshi Hou campaign: [[zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s|Hanji 803]] says Ban Yong mobilizes commandery cavalry and allied Western Regions forces, defeats Cheshi Hou, captures King Junjiu and a Xiongnu envoy, and executes them at Suo Ban's death site.
@@ -47,22 +51,26 @@ The Yanqi case turns that competence into vulnerability. Ban Yong asks to attack
 
 ## Qualifications
 
-This page is bounded to Hanji 800, Hanji 803, and Hanji 807. It does not attempt a full Ban-family biography or a full reconstruction of Eastern Han Western Regions administration. Hanji 800 supplies Loulan, Shanshan, Qiuci, Gumo, Wensu, Cheshi Qian, Yihe Valley, Yili king, and Liuzhong details, which remain source-scoped until later notes require firmer canonical modeling. Hanji 803 and Hanji 807 supply later campaign, kingship, and blame-distortion layers without settling every local royal name or court-reporting path.
+This page is bounded to Hanji 799, Hanji 800, Hanji 803, and Hanji 807. It does not attempt a full Ban-family biography or a full reconstruction of Eastern Han Western Regions administration. Hanji 799 supplies the policy decision that sends Ban Yong to Liuzhong; Hanji 800, Hanji 803, and Hanji 807 supply later operations without settling every local royal name or court-reporting path.
 
 ## What Changed
 
-- Added Hanji 800 as Ban Yong's earliest current Western Regions layer before the Hanji 803 and Hanji 807 campaigns.
+- Added Hanji 799 as Ban Yong's appointment and Liuzhong-garrison origin layer.
+- Reframed Hanji 800 as the first operational result of the retention policy rather than Ban Yong's starting point.
 - Preserved Hanji 803 as Ban Yong's 125 CE Cheshi Hou victory layer.
 - Preserved Hanji 807 as Ban Yong's kingship-restoration, commitment-binding, Yanqi-plan, and wrongful-imprisonment layer.
 
 ## Relationships
 
-- [[EmperorAnOfHan|汉安帝]] - ruler whose 124 CE reign context contains Ban Yong's earliest current Western Regions work.
+- [[EmperorAnOfHan|汉安帝]] - ruler who appoints Ban Yong after accepting Chen Zhong's 123 CE advice.
+- [[ChenZhongLateHan|陈忠]] - adviser whose anti-abandonment argument leads to Ban Yong's Liuzhong posting.
+- [[ZhangDangLateHan|张珰]] - Dunhuang administrator whose three-plan memorial frames the debate that produces Ban Yong's appointment.
 - [[EmperorShunOfHan|汉顺帝]] - ruler whose early succession year includes Ban Yong's Cheshi Hou victory and whose court later recalls and punishes him.
 - [[CheshiHouKingdomLateHan|车师后王国]] - dependent polity whose kingship and anti-Xiongnu commitment Ban Yong reshapes.
 - [[ShuleKingdom|疏勒]] - allied Western Regions polity named among Ban Yong's 125 CE campaign forces.
 - [[Xiongnu|北匈奴]] - frontier opponent Ban Yong attacks through Western Regions coalition forces.
 - [[ZhangLangLateHan|张郎]] - cooperating commander whose early attack makes Ban Yong appear late.
 - [[YanqiKingdomLateHan|焉耆国]] - target polity in the campaign whose surrender precedes Ban Yong's punishment.
+- [[StrategicFrontierAbandonment|弃边失屏]] - larger strategic debate that makes Ban Yong's Liuzhong posting necessary.
 - [[FrontierProxyCommitmentBinding|边疆代理承诺绑定]] - concept modeled by Ban Yong's Cheshi strategy.
 - [[CommandCreditMisattribution|军功归属错置]] - concept modeled by Ban Yong's wrongful blame after Zhang Lang's early action.

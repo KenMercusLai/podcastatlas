@@ -3072,9 +3072,9 @@
       "url": "/wiki/entities/banshilatehan/"
     },
     "BanYongLateHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》807丨班超之子为何会含冤入狱？ [liIWGi77g2ON1z2VnWAF1_wVph2d].md",
@@ -3096,6 +3096,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》800丨杨震之死：一场奸臣对清官的剿杀",
           "url": "/wiki/sources/zizhi-tongjian-hanji-800-yangzhen-zhisi-yi-chang-jianchen-dui-qingguan-de-jiaosha-lk9qcfs4xl-rjd-zpwdtsblybxa8/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》799丨东汉名臣杨震，如何拒绝走后门？ [lmUFb7Lvb_KZsvjtn6Iu-ZrpIpTf].md",
+          "key": "zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》799丨东汉名臣杨震，如何拒绝走后门？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf/"
         }
       ],
       "updated": "2026-08-29",
@@ -4972,6 +4979,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/chenyuanlatehan/"
+    },
+    "ChenZhongLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》799丨东汉名臣杨震，如何拒绝走后门？ [lmUFb7Lvb_KZsvjtn6Iu-ZrpIpTf].md",
+          "key": "zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》799丨东汉名臣杨震，如何拒绝走后门？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/chenzhonglatehan/"
     },
     "ChengJiLateHan": {
       "episode_count": 1,
@@ -8440,9 +8463,9 @@
       "url": "/wiki/concepts/emotionsasfunctionalcontrolstates/"
     },
     "EmperorAnOfHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》802丨安帝之死！东汉王朝权力大洗牌！ [lgvNE92e0jJzJNzNZfkZ7nvZTNbj].md",
@@ -8464,6 +8487,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》800丨杨震之死：一场奸臣对清官的剿杀",
           "url": "/wiki/sources/zizhi-tongjian-hanji-800-yangzhen-zhisi-yi-chang-jianchen-dui-qingguan-de-jiaosha-lk9qcfs4xl-rjd-zpwdtsblybxa8/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》799丨东汉名臣杨震，如何拒绝走后门？ [lmUFb7Lvb_KZsvjtn6Iu-ZrpIpTf].md",
+          "key": "zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》799丨东汉名臣杨震，如何拒绝走后门？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf/"
         }
       ],
       "updated": "2026-08-29",
@@ -9605,9 +9635,9 @@
       "url": "/wiki/entities/fazheneasternhan/"
     },
     "FanFengEunuchLateHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》802丨安帝之死！东汉王朝权力大洗牌！ [lgvNE92e0jJzJNzNZfkZ7nvZTNbj].md",
@@ -9629,6 +9659,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》800丨杨震之死：一场奸臣对清官的剿杀",
           "url": "/wiki/sources/zizhi-tongjian-hanji-800-yangzhen-zhisi-yi-chang-jianchen-dui-qingguan-de-jiaosha-lk9qcfs4xl-rjd-zpwdtsblybxa8/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》799丨东汉名臣杨震，如何拒绝走后门？ [lmUFb7Lvb_KZsvjtn6Iu-ZrpIpTf].md",
+          "key": "zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》799丨东汉名臣杨震，如何拒绝走后门？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf/"
         }
       ],
       "updated": "2026-08-29",
@@ -10022,6 +10059,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/fengjilatehan/"
+    },
+    "FengLiangLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》799丨东汉名臣杨震，如何拒绝走后门？ [lmUFb7Lvb_KZsvjtn6Iu-ZrpIpTf].md",
+          "key": "zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》799丨东汉名臣杨震，如何拒绝走后门？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/fenglianglatehan/"
     },
     "FengShiLateHan": {
       "episode_count": 2,
@@ -11041,9 +11094,9 @@
       "url": "/wiki/entities/genesismission/"
     },
     "GengBaoGrandGeneralLateHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》802丨安帝之死！东汉王朝权力大洗牌！ [lgvNE92e0jJzJNzNZfkZ7nvZTNbj].md",
@@ -11065,6 +11118,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》800丨杨震之死：一场奸臣对清官的剿杀",
           "url": "/wiki/sources/zizhi-tongjian-hanji-800-yangzhen-zhisi-yi-chang-jianchen-dui-qingguan-de-jiaosha-lk9qcfs4xl-rjd-zpwdtsblybxa8/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》799丨东汉名臣杨震，如何拒绝走后门？ [lmUFb7Lvb_KZsvjtn6Iu-ZrpIpTf].md",
+          "key": "zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》799丨东汉名臣杨震，如何拒绝走后门？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf/"
         }
       ],
       "updated": "2026-08-29",
@@ -12402,6 +12462,29 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/helios/"
+    },
+    "HexiFourCommanderiesLateHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》979丨遭遇同僚背刺，他如何为曹操力挽狂澜？ [luU58a2Ww11g_rADh_5g4l7FCIS_].md",
+          "key": "zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》979丨遭遇同僚背刺，他如何为曹操力挽狂澜？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》799丨东汉名臣杨震，如何拒绝走后门？ [lmUFb7Lvb_KZsvjtn6Iu-ZrpIpTf].md",
+          "key": "zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》799丨东汉名臣杨震，如何拒绝走后门？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/hexifourcommanderieslatehan/"
     },
     "HighBetaScienceFunding": {
       "episode_count": 1,
@@ -16501,9 +16584,9 @@
       "url": "/wiki/entities/lijinwulinglatehan/"
     },
     "LiRunLateHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》803丨汉顺帝如何在腥风血雨中登上皇位？ [lqVnO7t_gcGXtbS3phufLR4ybe2s].md",
@@ -16525,6 +16608,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》805丨通透人性的女人，竟能预测吉凶？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》799丨东汉名臣杨震，如何拒绝走后门？ [lmUFb7Lvb_KZsvjtn6Iu-ZrpIpTf].md",
+          "key": "zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》799丨东汉名臣杨震，如何拒绝走后门？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf/"
         }
       ],
       "updated": "2026-08-29",
@@ -22871,9 +22961,9 @@
       "url": "/wiki/entities/princessstephanieofbelgium/"
     },
     "PrincipledOfficeRefusal": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》849丨苏轼自幼读的《范滂传》，究竟说的谁？ [ltqUgLqZVEZEyp0mQxWgWNLp12lF].md",
@@ -22881,9 +22971,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》849丨苏轼自幼读的《范滂传》，究竟说的谁？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-849-sushi-ziyou-du-de-fanpangzhuan-jiujing-shuo-de-shui-ltquglqzvezeyp0mqxwgwnlp12lf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》799丨东汉名臣杨震，如何拒绝走后门？ [lmUFb7Lvb_KZsvjtn6Iu-ZrpIpTf].md",
+          "key": "zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》799丨东汉名臣杨震，如何拒绝走后门？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-29",
       "url": "/wiki/concepts/principledofficerefusal/"
     },
     "PrisonRitualLegitimacyRefusal": {
@@ -22940,9 +23037,9 @@
       "url": "/wiki/concepts/privateequityaitransformation/"
     },
     "PrivateFavorAppointmentErosion": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》814丨当官不为民作主，不如回家卖红薯 [lqLrFPUEnzhR1tbrdD3UrTOLfW2p].md",
@@ -22957,6 +23054,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》813丨古代的高官竟也会被殴打？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》799丨东汉名臣杨震，如何拒绝走后门？ [lmUFb7Lvb_KZsvjtn6Iu-ZrpIpTf].md",
+          "key": "zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》799丨东汉名臣杨震，如何拒绝走后门？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf/"
         }
       ],
       "updated": "2026-08-29",
@@ -26547,6 +26651,29 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/strategicemotionconcealment/"
     },
+    "StrategicFrontierAbandonment": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》934丨杀一人则天下安，你杀不杀？ [ltaR8hVDKqCt8oizm3k22Z38B1v8].md",
+          "key": "zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》934丨杀一人则天下安，你杀不杀？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》799丨东汉名臣杨震，如何拒绝走后门？ [lmUFb7Lvb_KZsvjtn6Iu-ZrpIpTf].md",
+          "key": "zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》799丨东汉名臣杨震，如何拒绝走后门？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/strategicfrontierabandonment/"
+    },
     "StrengthTrainingJointProtection": {
       "episode_count": 1,
       "show_count": 1,
@@ -29919,9 +30046,9 @@
       "url": "/wiki/entities/wangkanglatehan/"
     },
     "WangShengPalaceActorLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》802丨安帝之死！东汉王朝权力大洗牌！ [lgvNE92e0jJzJNzNZfkZ7nvZTNbj].md",
@@ -29929,6 +30056,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》802丨安帝之死！东汉王朝权力大洗牌！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》799丨东汉名臣杨震，如何拒绝走后门？ [lmUFb7Lvb_KZsvjtn6Iu-ZrpIpTf].md",
+          "key": "zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》799丨东汉名臣杨震，如何拒绝走后门？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf/"
         }
       ],
       "updated": "2026-08-29",
@@ -31178,9 +31312,9 @@
       "url": "/wiki/entities/xiehaoqinghelatehan/"
     },
     "XieYunLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》800丨杨震之死：一场奸臣对清官的剿杀 [lk9qcfs4xL_Rjd-zpWdTsBLYBXA8].md",
@@ -31195,6 +31329,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》802丨安帝之死！东汉王朝权力大洗牌！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》799丨东汉名臣杨震，如何拒绝走后门？ [lmUFb7Lvb_KZsvjtn6Iu-ZrpIpTf].md",
+          "key": "zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》799丨东汉名臣杨震，如何拒绝走后门？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf/"
         }
       ],
       "updated": "2026-08-29",
@@ -31963,9 +32104,9 @@
       "url": "/wiki/entities/yanrou/"
     },
     "YanXianLateHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》804丨给你“糖”的人，不一定是贵人！ [lqONgdqg-hGeTOEgPylV_oS86bUH].md",
@@ -31987,6 +32128,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》802丨安帝之死！东汉王朝权力大洗牌！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》799丨东汉名臣杨震，如何拒绝走后门？ [lmUFb7Lvb_KZsvjtn6Iu-ZrpIpTf].md",
+          "key": "zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》799丨东汉名臣杨震，如何拒绝走后门？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf/"
         }
       ],
       "updated": "2026-08-29",
@@ -32391,9 +32539,9 @@
       "url": "/wiki/entities/yangyuanqunlatehan/"
     },
     "YangZhenLateHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》914丨信任的人，为何总伤你最深？ [lvwit_RZrKScn5A3h6wblNTxpPsO].md",
@@ -32415,6 +32563,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》800丨杨震之死：一场奸臣对清官的剿杀",
           "url": "/wiki/sources/zizhi-tongjian-hanji-800-yangzhen-zhisi-yi-chang-jianchen-dui-qingguan-de-jiaosha-lk9qcfs4xl-rjd-zpwdtsblybxa8/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》799丨东汉名臣杨震，如何拒绝走后门？ [lmUFb7Lvb_KZsvjtn6Iu-ZrpIpTf].md",
+          "key": "zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》799丨东汉名臣杨震，如何拒绝走后门？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf/"
         }
       ],
       "updated": "2026-08-29",
@@ -33093,6 +33248,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/zhangdanprotectorofxiongnu/"
     },
+    "ZhangDangLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》799丨东汉名臣杨震，如何拒绝走后门？ [lmUFb7Lvb_KZsvjtn6Iu-ZrpIpTf].md",
+          "key": "zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》799丨东汉名臣杨震，如何拒绝走后门？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/zhangdanglatehan/"
+    },
     "ZhangFanWanLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -33546,9 +33717,9 @@
       "url": "/wiki/entities/zhangpanlatehan/"
     },
     "ZhangQiaoLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》819丨2人功比4万人，他的权谋令人拍案叫绝！ [lsSLJ3Y_kRNd8h-c8x5pgSQeinff].md",
@@ -33556,6 +33727,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》819丨2人功比4万人，他的权谋令人拍案叫绝！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》799丨东汉名臣杨震，如何拒绝走后门？ [lmUFb7Lvb_KZsvjtn6Iu-ZrpIpTf].md",
+          "key": "zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》799丨东汉名臣杨震，如何拒绝走后门？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf/"
         }
       ],
       "updated": "2026-08-29",
@@ -34142,9 +34320,9 @@
       "url": "/wiki/entities/zhoufulatehan/"
     },
     "ZhouGuangLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》800丨杨震之死：一场奸臣对清官的剿杀 [lk9qcfs4xL_Rjd-zpWdTsBLYBXA8].md",
@@ -34159,6 +34337,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》802丨安帝之死！东汉王朝权力大洗牌！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》799丨东汉名臣杨震，如何拒绝走后门？ [lmUFb7Lvb_KZsvjtn6Iu-ZrpIpTf].md",
+          "key": "zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》799丨东汉名臣杨震，如何拒绝走后门？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf/"
         }
       ],
       "updated": "2026-08-29",
@@ -34246,6 +34431,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/zhoujulatehan/"
+    },
+    "ZhouXieLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》799丨东汉名臣杨震，如何拒绝走后门？ [lmUFb7Lvb_KZsvjtn6Iu-ZrpIpTf].md",
+          "key": "zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》799丨东汉名臣杨震，如何拒绝走后门？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/zhouxielatehan/"
     },
     "ZhouYuLateHan": {
       "episode_count": 7,
