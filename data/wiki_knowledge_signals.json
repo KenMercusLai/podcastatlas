@@ -7185,9 +7185,9 @@
       "url": "/wiki/entities/democraticrepublicanparty/"
     },
     "DengFamilyAnEraLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》795丨邓家灭亡后，为何举朝为他们鸣冤？ [lqVmBQrrOOKphB4beCaQbP7h_Wi1].md",
@@ -7202,6 +7202,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》794丨一代女君邓绥，去世后竟全家遭殃？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-794-yidai-nvjun-dengsui-qushi-hou-jing-quanjia-zaoyang-llmlhabdd09opca6-pr80q4mfoxi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》792丨邓康惹怒太后：打狗为什么要看主人？ [lh3xKJNEqFd9SqIJqO3rgzsA5vwN].md",
+          "key": "zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》792丨邓康惹怒太后：打狗为什么要看主人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn/"
         }
       ],
       "updated": "2026-08-29",
@@ -7222,6 +7229,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/dengjilatehan/"
+    },
+    "DengKangLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》792丨邓康惹怒太后：打狗为什么要看主人？ [lh3xKJNEqFd9SqIJqO3rgzsA5vwN].md",
+          "key": "zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》792丨邓康惹怒太后：打狗为什么要看主人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/dengkanglatehan/"
     },
     "DengWanshiLateHan": {
       "episode_count": 2,
@@ -8604,9 +8627,9 @@
       "url": "/wiki/concepts/emotionsasfunctionalcontrolstates/"
     },
     "EmperorAnOfHan": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》802丨安帝之死！东汉王朝权力大洗牌！ [lgvNE92e0jJzJNzNZfkZ7nvZTNbj].md",
@@ -8677,6 +8700,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》793丨历史著名女皇邓绥怎么死的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-793-lishi-zhuming-nvhuang-dengsui-zenme-si-de-lszfgj7waiuusrddzjmv5mbrp1i/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》792丨邓康惹怒太后：打狗为什么要看主人？ [lh3xKJNEqFd9SqIJqO3rgzsA5vwN].md",
+          "key": "zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》792丨邓康惹怒太后：打狗为什么要看主人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn/"
         }
       ],
       "updated": "2026-08-29",
@@ -9148,9 +9178,9 @@
       "url": "/wiki/entities/empressdenghuanlatehan/"
     },
     "EmpressDowagerDengLateHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》795丨邓家灭亡后，为何举朝为他们鸣冤？ [lqVmBQrrOOKphB4beCaQbP7h_Wi1].md",
@@ -9172,6 +9202,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》793丨历史著名女皇邓绥怎么死的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-793-lishi-zhuming-nvhuang-dengsui-zenme-si-de-lszfgj7waiuusrddzjmv5mbrp1i/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》792丨邓康惹怒太后：打狗为什么要看主人？ [lh3xKJNEqFd9SqIJqO3rgzsA5vwN].md",
+          "key": "zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》792丨邓康惹怒太后：打狗为什么要看主人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn/"
         }
       ],
       "updated": "2026-08-29",
@@ -9315,9 +9352,9 @@
       "url": "/wiki/entities/empressdowagerliangnalatehan/"
     },
     "EmpressDowagerYanLateHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》805丨通透人性的女人，竟能预测吉凶？ [ll3bZoYrKBtnVt-AQU9NqelqoneW].md",
@@ -9353,6 +9390,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》795丨邓家灭亡后，为何举朝为他们鸣冤？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》792丨邓康惹怒太后：打狗为什么要看主人？ [lh3xKJNEqFd9SqIJqO3rgzsA5vwN].md",
+          "key": "zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》792丨邓康惹怒太后：打狗为什么要看主人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn/"
         }
       ],
       "updated": "2026-08-29",
@@ -9853,6 +9897,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/fazheneasternhan/"
+    },
+    "FamilyRiskDiversification": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》792丨邓康惹怒太后：打狗为什么要看主人？ [lh3xKJNEqFd9SqIJqO3rgzsA5vwN].md",
+          "key": "zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》792丨邓康惹怒太后：打狗为什么要看主人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/familyriskdiversification/"
     },
     "FanFengEunuchLateHan": {
       "episode_count": 5,
@@ -12684,9 +12744,9 @@
       "url": "/wiki/entities/heiligenkreuzabbey/"
     },
     "HeirSupportThreatPerception": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》801丨汉安帝为什么狠心废太子？ [lgnHBSqNP6VdigSmQFkxiQmx2vDy].md",
@@ -12701,6 +12761,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》794丨一代女君邓绥，去世后竟全家遭殃？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-794-yidai-nvjun-dengsui-qushi-hou-jing-quanjia-zaoyang-llmlhabdd09opca6-pr80q4mfoxi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》792丨邓康惹怒太后：打狗为什么要看主人？ [lh3xKJNEqFd9SqIJqO3rgzsA5vwN].md",
+          "key": "zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》792丨邓康惹怒太后：打狗为什么要看主人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn/"
         }
       ],
       "updated": "2026-08-29",
@@ -19391,9 +19458,9 @@
       "url": "/wiki/entities/maronglatehan/"
     },
     "MaXianLateHan": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》821丨不懂老板心思还想晋升？没门！ [lmJXR8fDXGW-ColRLinmuJba74fh].md",
@@ -19450,6 +19517,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》793丨历史著名女皇邓绥怎么死的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-793-lishi-zhuming-nvhuang-dengsui-zenme-si-de-lszfgj7waiuusrddzjmv5mbrp1i/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》792丨邓康惹怒太后：打狗为什么要看主人？ [lh3xKJNEqFd9SqIJqO3rgzsA5vwN].md",
+          "key": "zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》792丨邓康惹怒太后：打狗为什么要看主人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn/"
         }
       ],
       "updated": "2026-08-29",
@@ -24476,9 +24550,9 @@
       "url": "/wiki/concepts/recurrencefreesurvivalendpoint/"
     },
     "RegencyUnderCompoundCrisis": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》793丨历史著名女皇邓绥怎么死的？ [lsZFgj7waiUUsrD_DZjmV5mBRP1I].md",
@@ -24486,6 +24560,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》793丨历史著名女皇邓绥怎么死的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-793-lishi-zhuming-nvhuang-dengsui-zenme-si-de-lszfgj7waiuusrddzjmv5mbrp1i/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》792丨邓康惹怒太后：打狗为什么要看主人？ [lh3xKJNEqFd9SqIJqO3rgzsA5vwN].md",
+          "key": "zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》792丨邓康惹怒太后：打狗为什么要看主人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn/"
         }
       ],
       "updated": "2026-08-29",
@@ -26180,9 +26261,9 @@
       "url": "/wiki/entities/shenyuefde/"
     },
     "ShendiQiang": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》855丨你有多无情，就有多强大 [lulBPNUfi8xFijrviUfo6biuY-h1].md",
@@ -26190,9 +26271,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》855丨你有多无情，就有多强大",
           "url": "/wiki/sources/zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》792丨邓康惹怒太后：打狗为什么要看主人？ [lh3xKJNEqFd9SqIJqO3rgzsA5vwN].md",
+          "key": "zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》792丨邓康惹怒太后：打狗为什么要看主人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-29",
       "url": "/wiki/entities/shendiqiang/"
     },
     "ShentuPanLateHan": {

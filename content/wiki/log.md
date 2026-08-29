@@ -13165,6 +13165,10 @@ Ingested the 2026-08-29 Talk三联 episode on Guangzhou Academy of Fine Arts' fi
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-29] ingest | 《资治通鉴·汉纪》792丨邓康惹怒太后：打狗为什么要看主人？
+
+Ingested the 2026-07-07 芮淇讲透资治通鉴 episode on 120 CE Emperor An-era regency politics, Deng Kang's warning against Deng outer-relative overreach, Ma Xian's Qiang-front campaign cycle, Liu Bao's crown-prince appointment, and Yan Hou's early hostility. Created the source note plus `DengKangLateHan` and `FamilyRiskDiversification`; updated `EmpressDowagerDengLateHan`, `DengFamilyAnEraLateHan`, `EmperorAnOfHan`, `EmpressDowagerYanLateHan`, `MaXianLateHan`, `ShendiQiang`, `RegencyUnderCompoundCrisis`, `HeirSupportThreatPerception`, `index`, and `overview`. No settled contradiction found; Deng Kang's motive, the palace attendant, Dianjian leaders, Shanguo tribute, minor royal titles, and exact disaster notices remain source-scoped.
+
 ## [2026-08-29] ingest | 《资治通鉴·汉纪》795丨邓家灭亡后，为何举朝为他们鸣冤？
 
 Ingested the 2026-07-07 芮淇讲透资治通鉴 episode on Emperor An's post-Deng transition, Zhu Chong's coffin memorial for the Deng family, Chen Zhong's restored anti-Deng accusation role, Yang Zhen's early warning against Wang Sheng and Bo Rong, and the immediate rise of Geng/Song/Yan relatives plus Jiang Jing, Li Run, and Fan Feng. Created the source note plus `EmpressDowagerDengLateHan`, `DengFamilyAnEraLateHan`, `ZhuChongLateHan`, `JiangJingLateHan`, and `ProcedurelessPoliticalPurge`; updated the An-era favorite, outer-relative, and remonstrance pages. No settled contradiction found; 李闰 is normalized to the existing `LiRunLateHan` route, and the An-era Deng dowager/family pages are kept distinct from later Huan-era Deng pages.
@@ -13570,5 +13574,9 @@ Ingested the 2026-07-07 芮淇讲透资治通鉴 episode on 121 CE Emperor An's 
 Ran lint. See lint-report.md for details.
 
 ## [2026-08-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

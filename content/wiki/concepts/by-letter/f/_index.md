@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 5944
+wiki_total_pages: 5945
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -95,6 +95,9 @@ wiki_pages:
   - key: "FamilyReadingEcology"
     title: "Family Reading Ecology"
     url: "/wiki/concepts/familyreadingecology/"
+  - key: "FamilyRiskDiversification"
+    title: "Family Risk Diversification / 家族风险分散"
+    url: "/wiki/concepts/familyriskdiversification/"
   - key: "FamilyWorldSimulator"
     title: "Family World Simulator"
     url: "/wiki/concepts/familyworldsimulator/"

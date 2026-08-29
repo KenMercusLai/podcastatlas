@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "0d7f25fc11fbd57cab678cdf86b6c29ce3204627f14611118f78159a945a218a",
       "606822fad7e328a7e3aed82c62e9551eeec0b3dfcc67709dac3dcec510d9a9e4",
       "728ef5af93b8df7401c14f16865c994ef3fbf66483141cdcee877b43d30242b6",
       "caf5d74d2b71e37f734143a4139705b2532c3784434b5be1383381a6e120044a",
@@ -376,11 +377,39 @@
       "c94dbb4bb11fbc67a68689063a003f4343a0087a9f4a369adf5930530cf3dce6",
       "42b428cd16585fd09c60d93170bb1c95fd3df1b9a2ff7182eb0ec9f1136bfe3d"
     ],
-    "paragraph_count": 374
+    "paragraph_count": 375
   },
-  "overview_commit": "f074e8f8f15a7cf8c0ba978560f18777628e87fc",
-  "overview_digest": "e82980c4d4736543e9d068f1c0881e36addc1a605913c5bd4b8ad72379c69237",
+  "overview_commit": "d24c42b1216a6ce689441f2cb993ca8d2db66852",
+  "overview_digest": "ed091e5c2ace5256e13eba207d016676feeff5e753a58cd6991e16aadfd4f9fd",
   "paragraphs": [
+    {
+      "id": "0d7f25fc11fbd57cab678cdf86b6c29ce3204627f14611118f78159a945a218a",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn|《资治通鉴·汉纪》792丨邓康惹怒太后：打狗为什么要看主人？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 120 CE Yongning prelude before [[zizhi-tongjian-hanji-793-lishi-zhuming-nvhuang-dengsui-zenme-si-de-lszfgj7waiuusrddzjmv5mbrp1i|Hanji 793]]. It adds [[DengKangLateHan|邓康]] and [[FamilyRiskDiversification|家族风险分散]], while extending [[EmpressDowagerDengLateHan|和熹邓皇后]], [[DengFamilyAnEraLateHan|邓氏]], [[EmperorAnOfHan|汉安帝]], [[EmpressDowagerYanLateHan|阎太后]], [[MaXianLateHan|马贤]], [[ShendiQiang|沈氐羌]], [[RegencyUnderCompoundCrisis|复合危机下的摄政]], and [[HeirSupportThreatPerception|储君与宗室候选人威胁感]]. Its core synthesis is that the Deng-regency problem is visible before Deng's death: Deng Kang warns from inside the family against outer-relative overreach and is expelled after failed withdrawal and a palace-status insult, Ma Xian's frontier wins do not end mobile Qiang pressure, and [[EmperorShunOfHan|Liu Bao]]'s crown-prince appointment already creates Yan Hou's hostile succession field. No settled contradiction is recorded; Deng Kang's motive, the palace attendant, Dianjian leaders, Shanguo tribute, minor royal titles, and exact disaster notices remain source-scoped.",
+      "topic_scores": {
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "DengFamilyAnEraLateHan",
+        "DengKangLateHan",
+        "EmperorAnOfHan",
+        "EmperorShunOfHan",
+        "EmpressDowagerDengLateHan",
+        "EmpressDowagerYanLateHan",
+        "FamilyRiskDiversification",
+        "HeirSupportThreatPerception",
+        "MaXianLateHan",
+        "RegencyUnderCompoundCrisis",
+        "RuiqiJiangtouZizhiTongjian",
+        "ShendiQiang",
+        "zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn",
+        "zizhi-tongjian-hanji-793-lishi-zhuming-nvhuang-dengsui-zenme-si-de-lszfgj7waiuusrddzjmv5mbrp1i"
+      ]
+    },
     {
       "id": "606822fad7e328a7e3aed82c62e9551eeec0b3dfcc67709dac3dcec510d9a9e4",
       "primary_topic": "governance-and-institutions",

@@ -2,6 +2,23 @@
   "claims": [
     {
       "global_candidate": false,
+      "id": "family-and-career-diversification-reduces-single-channel-risk",
+      "qualifications": [
+        "The historical evidence does not prove Deng Kang intentionally engineered a safe exit.",
+        "The modern multi-path career analogy is a source heuristic, not a demonstrated social-science rule."
+      ],
+      "statement": "[[zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn|Hanji 792]] adds a work-and-society bridge through [[FamilyRiskDiversification]]: [[DengKangLateHan]]'s removal from the [[DengFamilyAnEraLateHan]] power core shows how family or career concentration can become exposure, while separation can read as punishment first and protection later.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn",
+        "FamilyRiskDiversification",
+        "DengKangLateHan",
+        "DengFamilyAnEraLateHan",
+        "EmpressDowagerDengLateHan"
+      ]
+    },
+    {
+      "global_candidate": false,
       "id": "historical-relationship-channels-shape-workable-claims",
       "qualifications": [
         "This is a historical analogy from Hanji 806, not modern workplace, education, or legal advice.",
@@ -192,6 +209,6 @@
       ]
     }
   ],
-  "summary": "The Guangzhou Academy of Fine Arts fieldwork episode adds that undergraduate learning can become formative when students observe, interview, and build experience before polished expression, while still facing grades, specialization, technique, employment pressure, and uncertain long-term outcomes. The Jefferson-Hemings material adds a secondary society case: family, labor, and relationship claims need explicit attention to legal power and coercive status. Hanji access, office-boundary, succession, and reputation cases show that education, merit, dignity, and correct claims need usable channels, public witnesses, role boundaries, and hierarchy-aware handling before they become institutional action. The OCD episode adds a source-scoped public-health education case: mechanism and assessment language can orient action, but exposure practice and treatment planning stay clinically bounded. Work, education, and society sources converge on a practical pattern: durable capability comes from bounded institutions, active learning, realistic workplace judgment, human feedback loops, social trust, pacing, and environments that let people act under real constraints.",
+  "summary": "Hanji 792 adds a source-scoped family and career risk lesson: concentrating every path in one power channel can increase exposure, while separation may look punitive before later conditions make it protective. The Guangzhou Academy of Fine Arts fieldwork episode adds that undergraduate learning can become formative when students observe, interview, and build experience before polished expression, while still facing grades, specialization, technique, employment pressure, and uncertain long-term outcomes. The Jefferson-Hemings material adds a secondary society case: family, labor, and relationship claims need explicit attention to legal power and coercive status. Hanji access, office-boundary, succession, and reputation cases show that education, merit, dignity, and correct claims need usable channels, public witnesses, role boundaries, and hierarchy-aware handling before they become institutional action. The OCD episode adds a source-scoped public-health education case: mechanism and assessment language can orient action, but exposure practice and treatment planning stay clinically bounded. Work, education, and society sources converge on a practical pattern: durable capability comes from bounded institutions, active learning, realistic workplace judgment, human feedback loops, social trust, pacing, and environments that let people act under real constraints.",
   "topic_id": "work-education-and-society"
 }

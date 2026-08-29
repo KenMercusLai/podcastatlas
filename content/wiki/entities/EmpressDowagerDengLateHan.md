@@ -7,13 +7,16 @@ sources:
   - zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1
   - zizhi-tongjian-hanji-794-yidai-nvjun-dengsui-qushi-hou-jing-quanjia-zaoyang-llmlhabdd09opca6-pr80q4mfoxi
   - zizhi-tongjian-hanji-793-lishi-zhuming-nvhuang-dengsui-zenme-si-de-lszfgj7waiuusrddzjmv5mbrp1i
+  - zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn
 last_updated: 2026-08-29
 ---
 
 ## Overview
-和熹邓皇后 / Empress Dowager Deng now appears as the An-era regent whose 121 CE illness and death close a long [[RegencyUnderCompoundCrisis|compound-crisis regency]] before opening [[EmperorAnOfHan|Emperor An]]'s contested personal rule. [[zizhi-tongjian-hanji-793-lishi-zhuming-nvhuang-dengsui-zenme-si-de-lszfgj7waiuusrddzjmv5mbrp1i|Hanji 793]] supplies the death chronology and retrospective governance judgment; [[zizhi-tongjian-hanji-794-yidai-nvjun-dengsui-qushi-hou-jing-quanjia-zaoyang-llmlhabdd09opca6-pr80q4mfoxi|Hanji 794]] supplies the pre-purge tension and first liquidation wave; [[zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1|Hanji 795]] preserves the later contested memory in which Zhu Chong defends her and her family.
+和熹邓皇后 / Empress Dowager Deng now appears as the An-era regent whose danger is visible before as well as after her 121 CE illness and death. [[zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn|Hanji 792]] supplies the internal [[DengKangLateHan|Deng Kang]] warning against Deng outer-relative overreach; [[zizhi-tongjian-hanji-793-lishi-zhuming-nvhuang-dengsui-zenme-si-de-lszfgj7waiuusrddzjmv5mbrp1i|Hanji 793]] supplies the death chronology and retrospective [[RegencyUnderCompoundCrisis|compound-crisis regency]] judgment; [[zizhi-tongjian-hanji-794-yidai-nvjun-dengsui-qushi-hou-jing-quanjia-zaoyang-llmlhabdd09opca6-pr80q4mfoxi|Hanji 794]] supplies the pre-purge tension and first liquidation wave; [[zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1|Hanji 795]] preserves the later contested memory in which Zhu Chong defends her and her family.
 
 ## Current Profile
+Hanji 792 shows Deng still in control in 120 CE, before the death-and-purge sequence. Her cousin Deng Kang, then Yueqi xiaowei and Northern Army manager, repeatedly memorializes that the court's prestige should be raised and outer-relative power weakened. Deng refuses and becomes angry; after Deng Kang feigns illness and insults a palace attendant who had once served in his household, she removes him from office, sends him to his fief, and cancels his registration/status connection.
+
 Hanji 793 makes Deng's death precise but not medically explained. The episode says she becomes ill in the second month of 121 CE, issues an amnesty, dies on the thirteenth day of the third month, and is buried later that month. It does not identify a disease, poisoning, or other specific cause.
 
 The same source evaluates Deng's regency as crisis rule rather than simple palace dominance. She governs through repeated disasters, Qiang and Xianbei pressure, banditry, fiscal depletion, and public criticism sharpened by gender. The positive record includes personal austerity, relief orientation, frugality, school and ritual repair, pardons, reduced labor and taxes, release of old palace women, and Jiangnan development measures. The major qualification is the Western Regions and Qiang problem, where policy failure, long war, office sales, treasury exhaustion, lost territory, and later repair by [[BanYongLateHan|Ban Yong]] make the record mixed.
@@ -29,12 +32,13 @@ Hanji 795 then gives Deng's contested public memory. [[ZhuChongLateHan|Zhu Chong
 - Crisis ruler judged under disasters, frontier war, fiscal strain, banditry, and gendered legitimacy pressure.
 - Austerity and relief figure credited with reducing consumption, labor, taxes, and palace burdens while supporting schools, pardons, and regional development.
 - Frontier-fiscal failure figure criticized for Western Regions and Qiang policy that consumed resources and required later repair.
-- Regent who installed Emperor An but delayed returning governing power and became associated with possible replacement politics.
+- Regent who installed Emperor An, delayed returning governing power, and faced an internal Deng-family warning before later replacement politics.
 - Posthumous center of a succession-sensitive accusation involving Pingyuan Wang Liu Yi and the Deng household.
 - Defended through procedural critique and merit memory rather than a complete innocence brief.
 
 ## Evidence
 - Death chronology and death-cause boundary: [[zizhi-tongjian-hanji-793-lishi-zhuming-nvhuang-dengsui-zenme-si-de-lszfgj7waiuusrddzjmv5mbrp1i|Hanji 793]] says Deng becomes ill, issues an amnesty, dies in 121 CE, and is buried later that month without giving a specific medical cause.
+- Internal family warning and punishment: [[zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn|Hanji 792]] says Deng Kang urges stronger court authority and weaker outer-relative power, but Deng rejects him and later expels him after feigned illness and palace-status disrespect.
 - Compound-crisis regency record: [[zizhi-tongjian-hanji-793-lishi-zhuming-nvhuang-dengsui-zenme-si-de-lszfgj7waiuusrddzjmv5mbrp1i|Hanji 793]] frames Deng's rule through disasters, frontier pressure, banditry, fiscal strain, public criticism, austerity, relief, school repair, pardons, labor reduction, and Jiangnan development.
 - Frontier qualification: [[zizhi-tongjian-hanji-793-lishi-zhuming-nvhuang-dengsui-zenme-si-de-lszfgj7waiuusrddzjmv5mbrp1i|Hanji 793]] treats the Western Regions and Qiang conflict as the largest criticism of Deng's regency because war costs, office sales, and territory loss are only later repaired.
 - Regency tension and replacement fear: [[zizhi-tongjian-hanji-794-yidai-nvjun-dengsui-qushi-hou-jing-quanjia-zaoyang-llmlhabdd09opca6-pr80q4mfoxi|Hanji 794]] says Deng installed An, delayed returning power, brought royal sons to Luoyang, and became the target of slander from Wang Sheng, Li Run, and Jiang Jing.
@@ -43,10 +47,10 @@ Hanji 795 then gives Deng's contested public memory. [[ZhuChongLateHan|Zhu Chong
 - Partial imperial correction: [[zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1|Hanji 795]] has Emperor An blame local officials for over-destruction, permit Deng burials, and return some cousins to Luoyang.
 
 ## Qualifications
-The current profile is source-bounded. It does not settle Deng's full regency record, whether she truly intended to depose An, the exact legal charges against every Deng relative, or how much of Zhu Chong's defense should be treated as forensic truth rather than strategic remonstrance. Hanji 793 gives illness and death dates but no specific death cause, and its positive Deng assessment remains balanced by the Western Regions and Qiang criticism.
+The current profile is source-bounded. It does not settle Deng's full regency record, whether she truly intended to depose An, the exact legal charges against every Deng relative, Deng Kang's private motive, or how much of Zhu Chong's defense should be treated as forensic truth rather than strategic remonstrance. Hanji 793 gives illness and death dates but no specific death cause, and its positive Deng assessment remains balanced by the Western Regions and Qiang criticism.
 
 ## What Changed
-- Added Hanji 793 as Deng's illness, death, and compound-crisis regency-assessment layer.
+- Added Hanji 792 as the pre-death internal warning layer through Deng Kang, while preserving Hanji 793 as Deng's illness, death, and compound-crisis regency-assessment layer.
 - Clarified that the current evidence does not identify a specific cause of death beyond illness before death in 121 CE.
 - Added the Western Regions and Qiang failure as the main qualification on Deng's otherwise positive governance record.
 - Preserved Hanji 794 as the replacement-fear and first purge layer and Hanji 795 as the merit-memory and procedural-critique layer.
@@ -54,6 +58,7 @@ The current profile is source-bounded. It does not settle Deng's full regency re
 
 ## Relationships
 - [[DengFamilyAnEraLateHan]] - household and outer-relative network punished after her death.
+- [[DengKangLateHan]] - cousin whose warning against outer-relative overreach is rejected before his expulsion from office.
 - [[EmperorAnOfHan]] - emperor whose post-regency legitimacy depends on how Deng's death, transfer, and household purge are judged.
 - [[LiuYiPingyuanWangLateHan]] - royal relative whose possible installation is used against Deng's family.
 - [[DuGenLateHan]] - return-power remonstrant punished under Deng and restored after her death.
