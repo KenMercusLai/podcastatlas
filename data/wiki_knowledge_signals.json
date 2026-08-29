@@ -8438,9 +8438,9 @@
       "url": "/wiki/entities/emperorhuanofhan/"
     },
     "EmperorShunOfHan": {
-      "episode_count": 15,
+      "episode_count": 16,
       "show_count": 1,
-      "source_note_count": 15,
+      "source_note_count": 16,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》822丨豺狼当道，他将矛头直指皇帝岳父？ [lqHpMAYVd3p07BYR_zOIv-jyhdv_].md",
@@ -8546,6 +8546,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》809丨为什么劝你不要乱拍马屁？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-809-weishenme-quan-ni-buyao-luan-pai-mapi-lnv2l-ehkzmf2ifz3semscaqftku/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》808丨他究竟是名家还是骗子？ [lhmsW7zUSDkqdDk_ZU27Oj6Hfs2m].md",
+          "key": "zizhi-tongjian-hanji-808-ta-jiujing-shi-mingjia-haishi-pianzi-lhmsw7zusdkqddk-zu27oj6hfs2m",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》808丨他究竟是名家还是骗子？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-808-ta-jiujing-shi-mingjia-haishi-pianzi-lhmsw7zusdkqddk-zu27oj6hfs2m/"
         }
       ],
       "updated": "2026-08-29",
@@ -9315,6 +9322,29 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/fanqinlatehan/"
+    },
+    "FanYingLateHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》808丨他究竟是名家还是骗子？ [lhmsW7zUSDkqdDk_ZU27Oj6Hfs2m].md",
+          "key": "zizhi-tongjian-hanji-808-ta-jiujing-shi-mingjia-haishi-pianzi-lhmsw7zusdkqddk-zu27oj6hfs2m",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》808丨他究竟是名家还是骗子？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-808-ta-jiujing-shi-mingjia-haishi-pianzi-lhmsw7zusdkqddk-zu27oj6hfs2m/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》809丨为什么劝你不要乱拍马屁？ [lnv2l-EhKzmF2Ifz3SEMSCaQFTKu].md",
+          "key": "zizhi-tongjian-hanji-809-weishenme-quan-ni-buyao-luan-pai-mapi-lnv2l-ehkzmf2ifz3semscaqftku",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》809丨为什么劝你不要乱拍马屁？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-809-weishenme-quan-ni-buyao-luan-pai-mapi-lnv2l-ehkzmf2ifz3semscaqftku/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/fanyinglatehan/"
     },
     "FangZhiLateHan": {
       "episode_count": 1,
@@ -22665,6 +22695,29 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/realrobotdatastrategy/"
     },
+    "ReclusionAuthenticityAssessment": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》808丨他究竟是名家还是骗子？ [lhmsW7zUSDkqdDk_ZU27Oj6Hfs2m].md",
+          "key": "zizhi-tongjian-hanji-808-ta-jiujing-shi-mingjia-haishi-pianzi-lhmsw7zusdkqddk-zu27oj6hfs2m",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》808丨他究竟是名家还是骗子？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-808-ta-jiujing-shi-mingjia-haishi-pianzi-lhmsw7zusdkqddk-zu27oj6hfs2m/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》809丨为什么劝你不要乱拍马屁？ [lnv2l-EhKzmF2Ifz3SEMSCaQFTKu].md",
+          "key": "zizhi-tongjian-hanji-809-weishenme-quan-ni-buyao-luan-pai-mapi-lnv2l-ehkzmf2ifz3semscaqftku",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》809丨为什么劝你不要乱拍马屁？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-809-weishenme-quan-ni-buyao-luan-pai-mapi-lnv2l-ehkzmf2ifz3semscaqftku/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/reclusionauthenticityassessment/"
+    },
     "RecognitionBackedFrontierDiplomacy": {
       "episode_count": 4,
       "show_count": 1,
@@ -23782,9 +23835,9 @@
       "url": "/wiki/entities/scarletsunrise/"
     },
     "ScholarOfficialPublicDuty": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "105.苏东坡：一腔豪迈之气，一肚皮不合时宜 [741072645].md",
@@ -23820,6 +23873,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》809丨为什么劝你不要乱拍马屁？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-809-weishenme-quan-ni-buyao-luan-pai-mapi-lnv2l-ehkzmf2ifz3semscaqftku/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》808丨他究竟是名家还是骗子？ [lhmsW7zUSDkqdDk_ZU27Oj6Hfs2m].md",
+          "key": "zizhi-tongjian-hanji-808-ta-jiujing-shi-mingjia-haishi-pianzi-lhmsw7zusdkqddk-zu27oj6hfs2m",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》808丨他究竟是名家还是骗子？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-808-ta-jiujing-shi-mingjia-haishi-pianzi-lhmsw7zusdkqddk-zu27oj6hfs2m/"
         }
       ],
       "updated": "2026-08-29",
@@ -26309,6 +26369,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/taixuecollectivepetition/"
+    },
+    "TalentSummonsRulerSelfExamination": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》808丨他究竟是名家还是骗子？ [lhmsW7zUSDkqdDk_ZU27Oj6Hfs2m].md",
+          "key": "zizhi-tongjian-hanji-808-ta-jiujing-shi-mingjia-haishi-pianzi-lhmsw7zusdkqddk-zu27oj6hfs2m",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》808丨他究竟是名家还是骗子？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-808-ta-jiujing-shi-mingjia-haishi-pianzi-lhmsw7zusdkqddk-zu27oj6hfs2m/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/talentsummonsrulerselfexamination/"
     },
     "TanDing": {
       "episode_count": 1,

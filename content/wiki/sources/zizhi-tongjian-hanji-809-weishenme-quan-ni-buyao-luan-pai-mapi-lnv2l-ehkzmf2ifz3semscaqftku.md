@@ -23,7 +23,7 @@ The title case comes from 129 CE: after Shun announces frugality and bans tribut
 - The opening relationship lesson is a host-level frame: people in a lower-value position should endure pressure, build capacity, and avoid assuming equal leverage before value changes.
 - In 127 CE, Shun's court summons Yang Hou and Huang Qiong; Huang Qiong is introduced through Huang Xiang's filial reputation and Shangshu career.
 - Li Gu urges Huang Qiong to take a middle path between extreme reclusion and unprincipled officeholding, because usable talent should not wait for a perfect Yao- or Shun-like ruler before serving.
-- Li Gu warns that high reputation is dangerous when performance cannot match it; Fan Ying becomes the example of fame that invites suspicion when it does not produce public contribution.
+- Li Gu warns that high reputation is dangerous when performance cannot match it; [[FanYingLateHan|Fan Ying]] becomes the example of fame that invites suspicion when it does not produce public contribution.
 - Huang Qiong becomes yilang and later Shangshu puye; his childhood familiarity with the Shangshu office through Huang Xiang lets him discuss state affairs calmly and submit memorials that are often accepted.
 - Li Gu's own background is framed as serious learned formation: he reads deeply, travels for teachers, hides elite-family identity, and secretly visits his parents while avoiding dependency on pedigree.
 - The 128 CE notices of disasters, Xianbei raiding, high-office removal, Southern Xiongnu succession, and Sun Cheng's recalled marquises show Shun's early personal-rule environment as unstable.
@@ -41,6 +41,7 @@ The title case comes from 129 CE: after Shun announces frugality and bans tribut
 ## Connections
 
 - [[EmperorShunOfHan|汉顺帝]] - central ruler whose early reign is backfilled through summons, disasters, frugality signaling, and the rejected pearl.
+- [[FanYingLateHan|Fan Ying]] - cautionary recluse whose reputation is used by Li Gu to warn Huang Qiong against noncontributing fame.
 - [[HuangQiongLateHan|黄琼]] - summoned scholar-official whose high reputation becomes useful through Shangshu competence.
 - [[LiGuLateHan|李固]] - adviser who tells Huang Qiong to convert reputation into service rather than hide behind impossible purity.
 - [[WenLongLateHan|文龙]] - Guiyang administrator whose pearl tribute becomes the episode's failed-flattery case.
@@ -54,5 +55,5 @@ The title case comes from 129 CE: after Shun announces frugality and bans tribut
 ## Contradictions
 
 - No settled contradiction with the existing wiki was found; the episode mainly backfills events before Hanji 810.
-- The source note keeps Huang Xiang, Yang Hou, Fan Ying, Luan Di Ba, Luan Di Xiuli, Huan Yan, Lai Li, Liu Guang, Zhang Hao, and the host's relationship-value frame source-scoped unless later evidence makes them recurring.
+- The source note keeps Huang Xiang, Yang Hou, Luan Di Ba, Luan Di Xiuli, Huan Yan, Lai Li, Liu Guang, Zhang Hao, and the host's relationship-value frame source-scoped unless later evidence makes them recurring.
 - The episode explicitly distinguishes this Li Gu from the Water Margin figure of the same name; the canonical wiki link is the late-Han [[LiGuLateHan|李固]] page.

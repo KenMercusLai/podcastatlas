@@ -8,6 +8,7 @@ sources:
   - zizhi-tongjian-hanji-875-li-dapu-weihe-ta-yi-ruyu-wei-rong-lgffkjk-0yu-ehfsw59anoych-ld
   - zizhi-tongjian-hanji-859-gudai-haoren-weishenme-nan-dang-haoguan-llkyx18ssvserxncvrtkw7xfduad
   - zizhi-tongjian-hanji-809-weishenme-quan-ni-buyao-luan-pai-mapi-lnv2l-ehkzmf2ifz3semscaqftku
+  - zizhi-tongjian-hanji-808-ta-jiujing-shi-mingjia-haishi-pianzi-lhmsw7zusdkqddk-zu27oj6hfs2m
 last_updated: 2026-08-29
 knowledge_schema: synthesis-v1
 ---
@@ -22,6 +23,8 @@ The concept now spans literary life, modern scholarship, and late-Han office beh
 
 Hanji 809 adds the explicit reclusion boundary. [[LiGuLateHan|李固]] tells [[HuangQiongLateHan|黄琼]] not to wait for a perfect ruler or hide behind high reputation if he is not truly withdrawing from public life. Huang Qiong's later Shangshu competence then shows the positive side of the warning: public duty is not mere willingness to hold office, but the conversion of learned reputation into usable institutional service.
 
+Hanji 808 supplies the complementary withdrawal limit. [[SimaGuang|司马光]] does not make officeholding an absolute duty: when politics is violent, the Way cannot be practiced, or working with奸佞 only harms the upright person, withdrawal can be wise. But that makes the test sharper rather than softer: a recluse's name should be judged by substance, and a ruler should seek benefit to public order rather than the display value of possessing a famous hermit.
+
 The late-Han material sharpens the political cost. In Hanji 859, [[HuangfuGuiLateHan|皇甫规]] recommends [[ZhangHuanLateHan|张奂]] for a higher frontier command and accepts a lower role because public military need outranks his title. [[ZhuMuLateHan|朱穆]] expresses the same duty through remonstrance, arguing that close-attendant offices should be staffed by upright, institutionally literate people rather than eunuchs. The first action succeeds because it solves an urgent frontier problem; the second fails because it attacks [[PalaceProximityPower|palace proximity power]] that the ruler wants to keep.
 
 Hanji 875 adds the punishment layer: honorable士人 can treat persecution as moral evidence when the regime criminalizes upright association. The resulting synthesis is not naive. Public duty can recommend better talent, remonstrate against harmful institutions, govern humanely, and endure punishment, but it does not guarantee effectiveness when the power structure benefits from the very disorder being criticized.
@@ -29,18 +32,20 @@ Hanji 875 adds the punishment layer: honorable士人 can treat persecution as mo
 ## Key Claims
 
 - Public duty converts learning and judgment into service rather than treating cultivation as private distinction.
-- Public duty can require service before conditions are ideal when the alternative is reputation-only withdrawal.
+- Public duty can require service before conditions are ideal, while also allowing principled withdrawal when office cannot serve the Way.
 - A scholar-official may fulfill duty by recommending a more capable person even when that lowers personal status.
 - Remonstrance is a duty practice when institutional drift harms public order.
 - The ethic carries risk because upright advice may threaten the ruler's private access, favorites, or control mechanisms.
 - Persecution can become moral credential when punishment marks refusal to abandon public responsibility.
-- Public duty is strongest when paired with political diagnosis; moral clarity alone may not move a hostile institution.
+- Public duty is strongest when paired with political diagnosis; moral clarity must ask both whether service is possible and whether refusal is mere reputation.
 
 ## Evidence
 
 - Literary-administrative temperament: [[105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645|Su Dongpo source]] frames Su Shi's learning and temperament as resources for public service rather than merely personal brilliance.
 - Research under crisis: [[19-huangye-shang-de-dashi-wo-bei-yu-luanshi-qiu-yanjiu-ben-wei-niliu-zhi-wangju-565412437|Huangye source]] presents scholarship during disorder as a disciplined refusal of intellectual retreat.
 - Reclusion boundary: [[zizhi-tongjian-hanji-809-weishenme-quan-ni-buyao-luan-pai-mapi-lnv2l-ehkzmf2ifz3semscaqftku|Hanji 809]] says Li Gu urges Huang Qiong not to wait for an ideal ruler or maintain high reputation without service.
+- Principled withdrawal boundary: [[zizhi-tongjian-hanji-808-ta-jiujing-shi-mingjia-haishi-pianzi-lhmsw7zusdkqddk-zu27oj6hfs2m|Hanji 808]] says Sima Guang treats withdrawal as justified when politics is violent or the Way cannot be practiced, while distinguishing that from false or reputation-only reclusion.
+- Ruler-side conditions: [[zizhi-tongjian-hanji-808-ta-jiujing-shi-mingjia-haishi-pianzi-lhmsw7zusdkqddk-zu27oj6hfs2m|Hanji 808]] says rulers who cannot attract worthy people should self-examine virtue, court order, and sincerity instead of forcing service.
 - Institutional conversion: [[zizhi-tongjian-hanji-809-weishenme-quan-ni-buyao-luan-pai-mapi-lnv2l-ehkzmf2ifz3semscaqftku|Hanji 809]] says Huang Qiong's Shangshu familiarity lets him discuss state affairs and submit memorials that are often accepted.
 - Talent above title: [[zizhi-tongjian-hanji-859-gudai-haoren-weishenme-nan-dang-haoguan-llkyx18ssvserxncvrtkw7xfduad|Hanji 859]] shows Huangfu Gui recommending Zhang Huan as the better frontier commander and accepting a subordinate role.
 - Institutional remonstrance: [[zizhi-tongjian-hanji-859-gudai-haoren-weishenme-nan-dang-haoguan-llkyx18ssvserxncvrtkw7xfduad|Hanji 859]] shows Zhu Mu arguing that close-attendant offices should return to virtuous and institutionally knowledgeable staffing.
@@ -48,10 +53,11 @@ Hanji 875 adds the punishment layer: honorable士人 can treat persecution as mo
 
 ## Counterevidence & Qualifications
 
-Public duty is an ethic, not a reliable mechanism of institutional success. Hanji 809 criticizes reputation-only withdrawal, but it does not erase the possibility that true reclusion can be principled when office is unusable; Li Gu's warning is aimed at usable talent that still has a viable service path. Hanji 859 is especially important because it contains both a successful public-duty act and a failed one: Huangfu Gui's recommendation works under frontier pressure, while Zhu Mu's anti-eunuch correction fails when it threatens ruler-side palace access. The concept should not collapse all literati action into virtue; it tracks cases where the source frames learning, office, recommendation, or remonstrance as obligation to public order.
+Public duty is an ethic, not a reliable mechanism of institutional success. Hanji 808 makes the limit explicit: true reclusion can be duty-compatible when office is unusable, but reputation-only withdrawal and false oddness remain suspect when they do not match substance or public benefit. Hanji 809 applies the pressure from the other side; Li Gu's warning is aimed at usable talent that still has a viable service path. Hanji 859 is especially important because it contains both a successful public-duty act and a failed one: Huangfu Gui's recommendation works under frontier pressure, while Zhu Mu's anti-eunuch correction fails when it threatens ruler-side palace access. The concept should not collapse all literati action into virtue; it tracks cases where the source frames learning, office, recommendation, or remonstrance as obligation to public order.
 
 ## What Changed
 
+- Hanji 808 adds the principled-withdrawal qualification and ruler self-examination condition for judging reclusion.
 - Hanji 809 adds Li Gu's warning against reputation-only withdrawal and Huang Qiong's Shangshu competence as an early late-Han duty layer.
 - Added the Hanji 859 distinction between public-duty recommendation that succeeds and public-duty remonstrance that fails.
 - Connected scholar-official duty to palace proximity power, showing why correct institutional advice can miss the ruler's private incentive.
@@ -61,6 +67,9 @@ Public duty is an ethic, not a reliable mechanism of institutional success. Hanj
 
 - [[LiGuLateHan|李固]] - early adviser whose letter defines public duty against reputation-only withdrawal.
 - [[HuangQiongLateHan|黄琼]] - scholar-official case where reputation becomes public duty through Shangshu competence.
+- [[FanYingLateHan|樊英]] - ambiguous recluse whose reputation tests the boundary between principled withdrawal and public noncontribution.
+- [[ReclusionAuthenticityAssessment|真隐士与伪隐士辨别]] - judgment frame that separates duty-compatible withdrawal from false reclusion.
+- [[TalentSummonsRulerSelfExamination|求贤中的君主自省]] - ruler-side condition for making service paths trustworthy enough for worthy people.
 - [[AdviceFramingUnderHierarchy|等级场景中的进言包装]] - communication concept adjacent to duty because public service still needs a form power can accept.
 - [[PunishmentAsMoralCredential|受罚作为道德凭证]] - late-Han moral logic where persecution can mark fidelity to public responsibility.
 - [[PalaceProximityPower|宫廷近身权力]] - opposing ruler-side structure that makes some public-duty remonstrance politically unacceptable.

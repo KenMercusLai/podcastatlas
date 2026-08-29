@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 5912
+wiki_total_pages: 5914
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -833,6 +833,9 @@ wiki_pages:
   - key: "RoyalFiefDiscipline"
     title: "王国相整肃 / Royal Fief Discipline"
     url: "/wiki/concepts/royalfiefdiscipline/"
+  - key: "ReclusionAuthenticityAssessment"
+    title: "真隐士与伪隐士辨别 / Reclusion Authenticity Assessment"
+    url: "/wiki/concepts/reclusionauthenticityassessment/"
   - key: "RedChamberEntryReading"
     title: "红楼入口式阅读 / Red Chamber Entry Reading"
     url: "/wiki/concepts/redchamberentryreading/"

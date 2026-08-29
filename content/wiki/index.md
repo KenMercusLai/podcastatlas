@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》808丨他究竟是名家还是骗子？](sources/zizhi-tongjian-hanji-808-ta-jiujing-shi-mingjia-haishi-pianzi-lhmsw7zusdkqddk-zu27oj6hfs2m.md) — 芮淇讲透资治通鉴 episode on Fan Ying's forced summons, repeated refusal of office, Sima Guang's distinction between principled reclusion and false reputation, and ruler self-examination in talent recruitment.
 - [《资治通鉴·汉纪》809丨为什么劝你不要乱拍马屁？](sources/zizhi-tongjian-hanji-809-weishenme-quan-ni-buyao-luan-pai-mapi-lnv2l-ehkzmf2ifz3semscaqftku.md) — 芮淇讲透资治通鉴 episode on 127-129 CE Emperor Shun, Huang Qiong's summons and Shangshu competence, Li Gu's warning against reputation-only reclusion, and Wen Long's pearl tribute being returned as flattery after Shun's frugality edict.
 - [《资治通鉴·汉纪》810丨他拼个满门被斩，为何也要杀妻？](sources/zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc.md) — 芮淇讲透资治通鉴 episode on 129-131 CE Emperor Shun, Yu Xu's Anding/Beidi/Shangjun restoration, Khotan's seizure of Jumi, Ban Shi's killing of Yincheng Princess, Shen Jing's Hejian cleanup, Yiwu tuntian restoration, Taixue rebuilding, and Ma Xu's Qiang-field reversal.
 - [《资治通鉴·汉纪》811丨古代皇帝竟靠抽签选皇后？](sources/zizhi-tongjian-hanji-811-gudai-huangdi-jing-kao-chouqian-xuan-huanghou-lghfih9xcrjyrvdlb4obdxvwhl1y.md) — 芮淇讲透资治通鉴 episode on 132 CE Emperor Shun, Hu Guang and Guo Qian blocking lottery-based empress selection, Liang Na's empress appointment, Liang Shang's elevation, and Zuo Xiong's local-official tenure, inspection, discipline, and Xiaolian reform setup.
@@ -1683,6 +1684,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [樊英 / Fan Ying (late Han)](entities/FanYingLateHan.md) — Nanyang recluse whose repeated refusal of summons becomes a test case for reputation, genuine reclusion, and public contribution under Emperor Shun.
 - [班始 / Ban Shi (late Han)](entities/BanShiLateHan.md) — Ban-family descendant executed after killing Yincheng Princess, with punishment extending to his full siblings.
 - [阴城公主 / Princess Yincheng](entities/YinChengPrincess.md) — Shun's aunt whose marriage to Ban Shi becomes a case of princess-marriage power asymmetry and collateral punishment.
 - [沈景 / Shen Jing (late Han)](entities/ShenJingLateHan.md) — Hejian kingdom minister whose protocol confrontation and local cleanup discipline Liu Zheng's royal fief.
@@ -9953,6 +9955,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [真隐士与伪隐士辨别 / Reclusion Authenticity Assessment](concepts/ReclusionAuthenticityAssessment.md) — Judgment frame distinguishing principled withdrawal, honorable but limited virtue, and false reclusion that arbitrages reputation.
+- [求贤中的君主自省 / Talent Summons Ruler Self-Examination](concepts/TalentSummonsRulerSelfExamination.md) — Recruitment principle that a ruler should inspect virtue, order, advisers, and sincerity before coercing reluctant worthy people.
 - [边郡恢复治理 / Frontier Commandery Restoration](concepts/FrontierCommanderyRestoration.md) — Strategy of restoring abandoned frontier commanderies when geography, logistics, settlement, and defense make abandonment more dangerous than repair.
 - [公主婚姻权力失衡 / Princess Marriage Power Asymmetry](concepts/PrincessMarriagePowerAsymmetry.md) — Royal-marriage pattern where princess rank and court proximity turn private conflict into asymmetric household and punishment risk.
 - [屯田贴近引发安全困境 / Tuntian Proximity Security Dilemma](concepts/TuntianProximitySecurityDilemma.md) — Frontier pattern where military-agricultural settlement placed too close to neighboring groups creates fear and defensive alliance behavior.

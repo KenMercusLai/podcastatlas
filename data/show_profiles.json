@@ -2426,8 +2426,8 @@
       "earliest_episode_date": "2025-12-07",
       "latest_episode_date": "2026-08-28",
       "latest_episode_file": "《资治通鉴·汉纪》1055丨他为表忠心，愿喝用自己儿子熬的肉汤？ [lmR6oWLwlJlFibuKTSyQuQtfi7-O].md",
-      "source_note_count": 550,
-      "topic_matched_source_note_count": 268,
+      "source_note_count": 551,
+      "topic_matched_source_note_count": 269,
       "topics": [
         {
           "key": "history",
@@ -2439,7 +2439,7 @@
           "key": "politics",
           "label": "Politics",
           "url": "/topics/politics/",
-          "source_note_count": 81
+          "source_note_count": 82
         },
         {
           "key": "culture",

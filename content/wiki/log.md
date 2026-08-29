@@ -13149,7 +13149,6 @@ Ingested the Marketplace Tech episode on Meta's proposed teen-safety settlement,
 
 Ran lint. See lint-report.md for details.
 
-
 ## [2026-08-29] ingest | Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine
 
 Ingested the 2026-08-29 All-In episode on Nvidia's reported historic quarter, Salesforce's AI-era SaaS rebound, Bessent and Druckenmiller on Treasury buybacks and U.S. debt risk, AI-assisted op-ed disclosure, persistent Grokbot agents, Meta parental controls, and Moderna/Merck personalized cancer immunotherapy. Created the source note plus `AgenticSystemOfRecordMoat`, `USFiscalDebtSpiralRisk`, `AIAssistedWritingDisclosure`, `PersistentCloudAgents`, and `CancerImmunotherapyAccess`; updated `Salesforce`, `StanleyDruckenmiller`, `Grokbot`, `ScottBessent`, `TreasuryBuybackPolicy`, `Moderna`, `CancerVaccinePlatform`, `IndividualizedCancerVaccine`, `IndividualizedCancerVaccineManufacturing`, `index`, and `overview`. No settled contradiction found; market, fiscal, authorship, Ukraine, parental-control, and biotech-cost claims remain source-scoped.
@@ -13417,6 +13416,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-29] ingest | 《资治通鉴·汉纪》809丨为什么劝你不要乱拍马屁？
 
 Ingested the 2026-07-10 芮淇讲透资治通鉴 episode on 127-129 CE Emperor Shun, Huang Qiong's summons and Shangshu competence, Li Gu's warning against reputation-only reclusion, and Wen Long's large-pearl tribute being returned as flattery after Shun's frugality edict. Created the source note plus `WenLongLateHan`; updated `EmperorShunOfHan`, `HuangQiongLateHan`, `LiGuLateHan`, `AdviceFramingUnderHierarchy`, `ScholarOfficialPublicDuty`, `index`, and `overview`. No settled contradiction found; Huang Xiang, Yang Hou, Fan Ying, Luan Di Ba, Luan Di Xiuli, Huan Yan, Lai Li, Liu Guang, Zhang Hao, Sun Cheng's recalled marquises, and the host's relationship-value frame remain source-scoped.
+
+## [2026-08-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-29] ingest | 《资治通鉴·汉纪》808丨他究竟是名家还是骗子？
+
+Ingested the 2026-07-10 芮淇讲透资治通鉴 episode on Fan Ying's forced summons, repeated office refusal, Sima Guang's reclusion-authenticity judgment, and ruler self-examination in talent recruitment. Created the source note plus `FanYingLateHan`, `ReclusionAuthenticityAssessment`, and `TalentSummonsRulerSelfExamination`; updated `EmperorShunOfHan`, `ScholarOfficialPublicDuty`, `index`, `overview`, and the Hanji 809 source note. No settled contradiction found; the source's Shun/Yongjian chronology and occasional Emperor An wording are preserved as source-scoped label tension, while Wang Yi and Zhang Kai remain source-scoped due name-collision risk.
 
 ## [2026-08-29] lint | Wiki health check
 

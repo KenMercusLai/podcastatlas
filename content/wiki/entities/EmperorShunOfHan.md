@@ -19,6 +19,7 @@ sources:
   - zizhi-tongjian-hanji-811-gudai-huangdi-jing-kao-chouqian-xuan-huanghou-lghfih9xcrjyrvdlb4obdxvwhl1y
   - zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc
   - zizhi-tongjian-hanji-809-weishenme-quan-ni-buyao-luan-pai-mapi-lnv2l-ehkzmf2ifz3semscaqftku
+  - zizhi-tongjian-hanji-808-ta-jiujing-shi-mingjia-haishi-pianzi-lhmsw7zusdkqddk-zu27oj6hfs2m
 last_updated: 2026-08-29
 ---
 
@@ -26,11 +27,13 @@ last_updated: 2026-08-29
 
 ## Overview
 
-汉顺帝 / Emperor Shun of Han appears in this wiki as a late Eastern Han ruler whose reign combines real moments of correction with brittle court, palace, frontier, and succession systems. The current synthesis now spans 127-144 CE: early summons of useful scholar-officials, disaster-framed frugality signaling, commandery, garrison, Taixue, and royal-fief repairs, selective acceptance of personnel and disaster remonstrance, repeated palace and eunuch dependence, mixed frontier judgment, and a final succession that leaves effective power with the Liang family.
+汉顺帝 / Emperor Shun of Han appears in this wiki as a late Eastern Han ruler whose reign combines real moments of correction with brittle court, palace, frontier, and succession systems. The current synthesis now spans the Shun-era backfill through 144 CE: talent summons that tests ruler virtue and coercion, early summons of useful scholar-officials, disaster-framed frugality signaling, commandery, garrison, Taixue, and royal-fief repairs, selective acceptance of personnel and disaster remonstrance, repeated palace and eunuch dependence, mixed frontier judgment, and a final succession that leaves effective power with the Liang family.
 
 ## Current Profile
 
-The 127-129 CE layer now begins before [[zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc|Hanji 810]]. [[zizhi-tongjian-hanji-809-weishenme-quan-ni-buyao-luan-pai-mapi-lnv2l-ehkzmf2ifz3semscaqftku|Hanji 809]] shows Shun's court summoning Yang Hou and [[HuangQiongLateHan|黄琼]], while [[LiGuLateHan|李固]]'s advice to Huang Qiong frames service under an imperfect ruler as still publicly necessary. In 129 CE, after his coming-of-age capping, Shun responds to disasters with an edict of frugality, lowers imperial food, and tells local governments not to offer treasures. [[WenLongLateHan|文龙]] of [[GuiyangCommanderyLateHan|桂阳郡]] presents a large pearl anyway; Shun returns it sealed and calls it flattery. The same layer also records disasters, Xianbei raiding, high-office removals, Southern Xiongnu succession, and the recall of Sun Cheng's nineteen marquises, so personal rule begins amid instability rather than settled control.
+The earliest current layer now begins with [[zizhi-tongjian-hanji-808-ta-jiujing-shi-mingjia-haishi-pianzi-lhmsw7zusdkqddk-zu27oj6hfs2m|Hanji 808]], which the source places at Shun's Yongjian opening despite occasional Emperor An wording. Shun's court seeks [[FanYingLateHan|樊英]], treats him with medical attention, gifts, teacher ritual, consultation, and offices, but cannot convert his reputation into clear public service. The case makes talent summons an early legitimacy problem: a ruler who cannot attract worthy people should examine virtue, court disorder, and sincerity before using rank or punishment to force service.
+
+The following 127-129 CE layer still begins before [[zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc|Hanji 810]]. [[zizhi-tongjian-hanji-809-weishenme-quan-ni-buyao-luan-pai-mapi-lnv2l-ehkzmf2ifz3semscaqftku|Hanji 809]] shows Shun's court summoning Yang Hou and [[HuangQiongLateHan|黄琼]], while [[LiGuLateHan|李固]]'s advice to Huang Qiong frames service under an imperfect ruler as still publicly necessary. In 129 CE, after his coming-of-age capping, Shun responds to disasters with an edict of frugality, lowers imperial food, and tells local governments not to offer treasures. [[WenLongLateHan|文龙]] of [[GuiyangCommanderyLateHan|桂阳郡]] presents a large pearl anyway; Shun returns it sealed and calls it flattery. The same layer also records disasters, Xianbei raiding, high-office removals, Southern Xiongnu succession, and the recall of Sun Cheng's nineteen marquises, so personal rule begins amid instability rather than settled control.
 
 The 129-131 CE layer shows early repair capacity before the later court-failure sequence dominates. Shun accepts [[YuXuEasternHan|虞诩]]'s proposal to restore [[AndingCommandery|安定郡]], [[BeidiCommandery|北地郡]], and [[Shangjun|上郡]], treating frontier geography as protection for Chang'an, imperial tombs, pasture, irrigation, and transport. He also revives [[YiwuGarrisonLateHan|伊吾屯田]], creates a Yiwu sima, repairs [[Taixue|太学]] after lecture stoppage and building decay, and sends [[ShenJingLateHan|沈景]] to discipline [[LiuZhengHejianKing|河间王刘政]] in Hejian.
 
@@ -46,7 +49,7 @@ By the final year, Shun's court still performs repairs but cannot escape structu
 
 ## Key Characteristics
 
-- Uses early public signals, appointments, and frugality gestures to mark personal-rule authority under unstable conditions.
+- Uses early talent summons, public signals, appointments, and frugality gestures to mark personal-rule authority under unstable conditions.
 - Responsive to concrete corrective advice when advisers translate ritual, omen, personnel, or frontier warnings into specific action.
 - Uses appointments and institutional repair as tools of state capacity, from Shen Jing in Hejian and Taixue rebuilding to Zuo Xiong's Xiaolian rules and Li Gu's Jiaozhi plan.
 - Uneven at private-favor and palace boundaries, especially around Song E, eunuch privileges, Liang-family ascent, and direct-edict retaliation.
@@ -56,6 +59,7 @@ By the final year, Shun's court still performs repairs but cannot escape structu
 
 ## Evidence
 
+- Talent summons and reclusion boundary: [[zizhi-tongjian-hanji-808-ta-jiujing-shi-mingjia-haishi-pianzi-lhmsw7zusdkqddk-zu27oj6hfs2m|Hanji 808]] shows Shun's court trying to recruit Fan Ying through courtesy, gifts, offices, and pressure, while Sima Guang's judgment turns failed recruitment into a ruler-side self-examination problem.
 - Early personal-rule signaling: [[zizhi-tongjian-hanji-809-weishenme-quan-ni-buyao-luan-pai-mapi-lnv2l-ehkzmf2ifz3semscaqftku|Hanji 809]] shows Shun's court summoning Huang Qiong, issuing a 129 CE frugality edict after disasters, and returning Wen Long's large pearl as flattery when it violates the ban on precious-object tribute.
 - Unstable opening conditions: [[zizhi-tongjian-hanji-809-weishenme-quan-ni-buyao-luan-pai-mapi-lnv2l-ehkzmf2ifz3semscaqftku|Hanji 809]] also records disasters, Xianbei raiding, high-office removals, Southern Xiongnu succession, and Sun Cheng's recalled marquises in the early Shun layer.
 - Early frontier and institutional repair: [[zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc|Hanji 810]] says Shun restores Anding, Beidi, and Shangjun on Yu Xu's advice, revives Yiwu tuntian, creates a Yiwu sima, repairs Taixue, and appoints Shen Jing to Hejian.
@@ -68,18 +72,21 @@ By the final year, Shun's court still performs repairs but cannot escape structu
 
 ## Qualifications
 
-This page synthesizes fifteen source notes, not a complete reign history. Hanji 809 now supplies the earliest current layer and backfills events before Hanji 810; it shows early summons, frugality signaling, and Wen Long's failed pearl tribute, but it does not by itself prove Shun's full fiscal policy or personal motive. Hanji 810 supplies the next early-reign repair layer; because both are narrated podcast sources, minor figures such as Yang Hou, Huang Xiang, Fan Ying, Huan Yan, Lai Li, Liu Guang, Zhang Hao, Fang Qian, King Xing of Jumi, Xu You, Xu Jing, Liu Qi, Geng Ye, and Han Hao remain source-scoped until recurring evidence appears. The current profile should avoid flattening Shun into either a reformer or a failed ruler alone: the same reign contains accepted repair advice, private-favor leakage, harsh kinship punishment, and frontier misjudgment. Names and route normalizations remain subject to later correction if additional sources sharpen the Western Regions, Qiang, Wuling, Song E, Liang-family, Zhang Kui, or succession sequences.
+This page synthesizes sixteen source notes, not a complete reign history. Hanji 808 now supplies the earliest current talent-summons layer, but the source carries an internal label tension: the chronology points to Shun's Yongjian opening while some wording names Emperor An. Hanji 809 then backfills events before Hanji 810; it shows early summons, frugality signaling, and Wen Long's failed pearl tribute, but it does not by itself prove Shun's full fiscal policy or personal motive. Hanji 810 supplies the next early-reign repair layer; because these are narrated podcast sources, minor figures such as Wang Yi, Zhang Kai, Yang Hou, Huang Xiang, Huan Yan, Lai Li, Liu Guang, Zhang Hao, Fang Qian, King Xing of Jumi, Xu You, Xu Jing, Liu Qi, Geng Ye, and Han Hao remain source-scoped until recurring evidence appears. The current profile should avoid flattening Shun into either a reformer or a failed ruler alone: the same reign contains accepted repair advice, private-favor leakage, harsh kinship punishment, and frontier misjudgment. Names and route normalizations remain subject to later correction if additional sources sharpen the Western Regions, Qiang, Wuling, Song E, Liang-family, Zhang Kui, or succession sequences.
 
 ## What Changed
 
-- Added Hanji 809 as the earliest Shun layer, covering 127 CE summons, the 129 CE coming-of-age and frugality edict, and Wen Long's rejected pearl tribute.
-- Reframed Hanji 810 as the follow-on commandery, garrison, royal-fief, Taixue, and Qiang-field repair layer rather than the earliest Shun evidence.
+- Added Hanji 808 as the earliest current talent-summons layer, with Fan Ying's forced recruitment and Sima Guang's ruler self-examination standard.
+- Kept Hanji 809 as the following 127-129 CE layer, covering 127 CE summons, the 129 CE coming-of-age and frugality edict, and Wen Long's rejected pearl tribute.
 - Compressed the prior Hanji 812-816 material into a single corrective-remonstrance and private-favor boundary synthesis.
 - Preserved the Hanji 817-821 contrast between palace dependence, rejected warning, low-cost repair, and failed frontier command.
 - Preserved the Hanji 822 and Hanji 824 final-year judgment that selective accountability and selection repair coexist with succession fragility.
 
 ## Relationships
 
+- [[FanYingLateHan|樊英]] - recluse whose summons tests Shun's ability to attract talent without coercion.
+- [[ReclusionAuthenticityAssessment|真隐士与伪隐士辨别]] - judgment frame tied to Fan Ying's case under Shun's court.
+- [[TalentSummonsRulerSelfExamination|求贤中的君主自省]] - recruitment principle raised by the failure to convert Fan Ying's reputation into service.
 - [[WenLongLateHan|文龙]] - Guiyang administrator whose pearl Shun rejects as flattery after issuing a frugality edict.
 - [[HuangQiongLateHan|黄琼]] - scholar-official summoned in Shun's early personal-rule layer and later accepted as an effective memorialist.
 - [[LiGuLateHan|李固]] - adviser whose early letter to Huang Qiong frames service under Shun as necessary even without ideal rulership.

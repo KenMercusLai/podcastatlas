@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2001
+topic_total_pages: 2004
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3232,6 +3232,9 @@ topic_concepts:
   - key: "ArmedFollowerIntegrationCost"
     title: "武装部众整合成本 / Armed Follower Integration Cost"
     url: "/wiki/concepts/armedfollowerintegrationcost/"
+  - key: "TalentSummonsRulerSelfExamination"
+    title: "求贤中的君主自省 / Talent Summons Ruler Self-Examination"
+    url: "/wiki/concepts/talentsummonsrulerselfexamination/"
   - key: "FactionalAlignmentExitCapital"
     title: "派系站队退出资本 / Factional Alignment Exit Capital"
     url: "/wiki/concepts/factionalalignmentexitcapital/"
@@ -3268,6 +3271,9 @@ topic_concepts:
   - key: "PhysiognomicInvestmentJudgment"
     title: "看相式政治投资 / Physiognomic Investment Judgment"
     url: "/wiki/concepts/physiognomicinvestmentjudgment/"
+  - key: "ReclusionAuthenticityAssessment"
+    title: "真隐士与伪隐士辨别 / Reclusion Authenticity Assessment"
+    url: "/wiki/concepts/reclusionauthenticityassessment/"
   - key: "TaxationStabilityTradeoff"
     title: "税赋与地方稳定权衡 / Taxation-Stability Tradeoff"
     url: "/wiki/concepts/taxationstabilitytradeoff/"
@@ -5937,6 +5943,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh"
     title: "《资治通鉴·汉纪》185｜一张利嘴，收复中国万里疆土"
     url: "/wiki/sources/zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh/"
+  - key: "zizhi-tongjian-hanji-808-ta-jiujing-shi-mingjia-haishi-pianzi-lhmsw7zusdkqddk-zu27oj6hfs2m"
+    title: "《资治通鉴·汉纪》808丨他究竟是名家还是骗子？"
+    url: "/wiki/sources/zizhi-tongjian-hanji-808-ta-jiujing-shi-mingjia-haishi-pianzi-lhmsw7zusdkqddk-zu27oj6hfs2m/"
   - key: "zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff"
     title: "《资治通鉴·汉纪》819丨2人功比4万人，他的权谋令人拍案叫绝！"
     url: "/wiki/sources/zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff/"

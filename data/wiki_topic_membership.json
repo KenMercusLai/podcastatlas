@@ -47972,6 +47972,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "ReclusionAuthenticityAssessment": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "RecognitionBackedFrontierDiplomacy": [
     {
       "key": "politics",
@@ -56165,6 +56172,13 @@
       "label": "History",
       "url": "/topics/history/"
     },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "TalentSummonsRulerSelfExamination": [
     {
       "key": "politics",
       "label": "Politics",
@@ -71959,6 +71973,13 @@
     }
   ],
   "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "zizhi-tongjian-hanji-808-ta-jiujing-shi-mingjia-haishi-pianzi-lhmsw7zusdkqddk-zu27oj6hfs2m": [
     {
       "key": "politics",
       "label": "Politics",
