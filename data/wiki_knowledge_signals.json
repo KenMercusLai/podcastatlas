@@ -3727,9 +3727,9 @@
       "url": "/wiki/entities/bostondynamics/"
     },
     "BoundarylessKindnessTrap": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》919丨想活得好？先踢开善良的自己 [lrqxfZIR4BQXt0v3cCvfEf8FaaDE].md",
@@ -3772,6 +3772,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》789丨善良没有底线，你将一文不值",
           "url": "/wiki/sources/zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》781丨“愚善”，才是人对己最大的恶 [luvAw93hNNXcbgFnwGSjb7X0hlqZ].md",
+          "key": "zizhi-tongjian-hanji-781-yushan-cai-shi-ren-dui-ji-zui-da-de-e-luvaw93hnnxcbgfnwgsjb7x0hlqz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》781丨“愚善”，才是人对己最大的恶",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-781-yushan-cai-shi-ren-dui-ji-zui-da-de-e-luvaw93hnnxcbgfnwgsjb7x0hlqz/"
         }
       ],
       "updated": "2026-08-30",
@@ -7567,9 +7574,9 @@
       "url": "/wiki/entities/democraticrepublicanparty/"
     },
     "DengFamilyAnEraLateHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》795丨邓家灭亡后，为何举朝为他们鸣冤？ [lqVmBQrrOOKphB4beCaQbP7h_Wi1].md",
@@ -7605,6 +7612,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》785丨东汉邓绥：掌控欲望才能笑到最后",
           "url": "/wiki/sources/zizhi-tongjian-hanji-785-donghan-dengsui-zhangkong-yuwang-caineng-xiaodao-zuihou-llfg4kjaautqlfewhplikvu3ry1u/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》781丨“愚善”，才是人对己最大的恶 [luvAw93hNNXcbgFnwGSjb7X0hlqZ].md",
+          "key": "zizhi-tongjian-hanji-781-yushan-cai-shi-ren-dui-ji-zui-da-de-e-luvaw93hnnxcbgfnwgsjb7x0hlqz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》781丨“愚善”，才是人对己最大的恶",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-781-yushan-cai-shi-ren-dui-ji-zui-da-de-e-luvaw93hnnxcbgfnwgsjb7x0hlqz/"
         }
       ],
       "updated": "2026-08-30",
@@ -7975,6 +7989,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/directremonstrancecriminalization/"
+    },
+    "DisasterOmenCrisisRedirection": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》781丨“愚善”，才是人对己最大的恶 [luvAw93hNNXcbgFnwGSjb7X0hlqZ].md",
+          "key": "zizhi-tongjian-hanji-781-yushan-cai-shi-ren-dui-ji-zui-da-de-e-luvaw93hnnxcbgfnwgsjb7x0hlqz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》781丨“愚善”，才是人对己最大的恶",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-781-yushan-cai-shi-ren-dui-ji-zui-da-de-e-luvaw93hnnxcbgfnwgsjb7x0hlqz/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/disasteromencrisisredirection/"
     },
     "DisciplineOverMotivation": {
       "episode_count": 1,
@@ -9198,9 +9228,9 @@
       "url": "/wiki/concepts/emotionsasfunctionalcontrolstates/"
     },
     "EmperorAnOfHan": {
-      "episode_count": 13,
+      "episode_count": 14,
       "show_count": 1,
-      "source_note_count": 13,
+      "source_note_count": 14,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》802丨安帝之死！东汉王朝权力大洗牌！ [lgvNE92e0jJzJNzNZfkZ7nvZTNbj].md",
@@ -9292,6 +9322,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》786丨古人为什么排斥反季水果？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-786-guren-weishenme-paichi-fanji-shuiguo-lmcwqwdxwe0ehuusfeoaqk82msm7/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》781丨“愚善”，才是人对己最大的恶 [luvAw93hNNXcbgFnwGSjb7X0hlqZ].md",
+          "key": "zizhi-tongjian-hanji-781-yushan-cai-shi-ren-dui-ji-zui-da-de-e-luvaw93hnnxcbgfnwgsjb7x0hlqz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》781丨“愚善”，才是人对己最大的恶",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-781-yushan-cai-shi-ren-dui-ji-zui-da-de-e-luvaw93hnnxcbgfnwgsjb7x0hlqz/"
         }
       ],
       "updated": "2026-08-30",
@@ -9517,6 +9554,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/emperorhuanofhan/"
+    },
+    "EmperorShangOfHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》781丨“愚善”，才是人对己最大的恶 [luvAw93hNNXcbgFnwGSjb7X0hlqZ].md",
+          "key": "zizhi-tongjian-hanji-781-yushan-cai-shi-ren-dui-ji-zui-da-de-e-luvaw93hnnxcbgfnwgsjb7x0hlqz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》781丨“愚善”，才是人对己最大的恶",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-781-yushan-cai-shi-ren-dui-ji-zui-da-de-e-luvaw93hnnxcbgfnwgsjb7x0hlqz/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/emperorshangofhan/"
     },
     "EmperorShunOfHan": {
       "episode_count": 23,
@@ -9763,9 +9816,9 @@
       "url": "/wiki/entities/empressdenghuanlatehan/"
     },
     "EmpressDowagerDengLateHan": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 1,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》795丨邓家灭亡后，为何举朝为他们鸣冤？ [lqVmBQrrOOKphB4beCaQbP7h_Wi1].md",
@@ -9850,6 +9903,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》782丨揭秘东汉奇女子艰难的太后生涯",
           "url": "/wiki/sources/zizhi-tongjian-hanji-782-jiemi-donghan-qi-nvzi-jiannan-de-taihou-shengya-lgfljux9aaocptbhxvvifitrgxcy/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》781丨“愚善”，才是人对己最大的恶 [luvAw93hNNXcbgFnwGSjb7X0hlqZ].md",
+          "key": "zizhi-tongjian-hanji-781-yushan-cai-shi-ren-dui-ji-zui-da-de-e-luvaw93hnnxcbgfnwgsjb7x0hlqz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》781丨“愚善”，才是人对己最大的恶",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-781-yushan-cai-shi-ren-dui-ji-zui-da-de-e-luvaw93hnnxcbgfnwgsjb7x0hlqz/"
         }
       ],
       "updated": "2026-08-30",
@@ -10764,6 +10824,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/fanyinglatehan/"
+    },
+    "FanZhunLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》781丨“愚善”，才是人对己最大的恶 [luvAw93hNNXcbgFnwGSjb7X0hlqZ].md",
+          "key": "zizhi-tongjian-hanji-781-yushan-cai-shi-ren-dui-ji-zui-da-de-e-luvaw93hnnxcbgfnwgsjb7x0hlqz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》781丨“愚善”，才是人对己最大的恶",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-781-yushan-cai-shi-ren-dui-ji-zui-da-de-e-luvaw93hnnxcbgfnwgsjb7x0hlqz/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/fanzhunlatehan/"
     },
     "FangZhiLateHan": {
       "episode_count": 1,
@@ -25880,9 +25956,9 @@
       "url": "/wiki/concepts/recurrencefreesurvivalendpoint/"
     },
     "RegencyUnderCompoundCrisis": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》793丨历史著名女皇邓绥怎么死的？ [lsZFgj7waiUUsrD_DZjmV5mBRP1I].md",
@@ -25953,6 +26029,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》782丨揭秘东汉奇女子艰难的太后生涯",
           "url": "/wiki/sources/zizhi-tongjian-hanji-782-jiemi-donghan-qi-nvzi-jiannan-de-taihou-shengya-lgfljux9aaocptbhxvvifitrgxcy/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》781丨“愚善”，才是人对己最大的恶 [luvAw93hNNXcbgFnwGSjb7X0hlqZ].md",
+          "key": "zizhi-tongjian-hanji-781-yushan-cai-shi-ren-dui-ji-zui-da-de-e-luvaw93hnnxcbgfnwgsjb7x0hlqz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》781丨“愚善”，才是人对己最大的恶",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-781-yushan-cai-shi-ren-dui-ji-zui-da-de-e-luvaw93hnnxcbgfnwgsjb7x0hlqz/"
         }
       ],
       "updated": "2026-08-30",
@@ -37129,6 +37212,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/zhouyulatehan/"
+    },
+    "ZhouZhangLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》781丨“愚善”，才是人对己最大的恶 [luvAw93hNNXcbgFnwGSjb7X0hlqZ].md",
+          "key": "zizhi-tongjian-hanji-781-yushan-cai-shi-ren-dui-ji-zui-da-de-e-luvaw93hnnxcbgfnwgsjb7x0hlqz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》781丨“愚善”，才是人对己最大的恶",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-781-yushan-cai-shi-ren-dui-ji-zui-da-de-e-luvaw93hnnxcbgfnwgsjb7x0hlqz/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/zhouzhanglatehan/"
     },
     "ZhuBiLateHan": {
       "episode_count": 1,

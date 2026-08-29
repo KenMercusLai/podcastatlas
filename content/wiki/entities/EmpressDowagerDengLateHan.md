@@ -16,16 +16,19 @@ sources:
   - zizhi-tongjian-hanji-785-donghan-dengsui-zhangkong-yuwang-caineng-xiaodao-zuihou-llfg4kjaautqlfewhplikvu3ry1u
   - zizhi-tongjian-hanji-783-renxing-qian-guize-nide-jiazhi-jueding-yiqie-lq5qbki6crhieafbv7g5kc07unqe
   - zizhi-tongjian-hanji-782-jiemi-donghan-qi-nvzi-jiannan-de-taihou-shengya-lgfljux9aaocptbhxvvifitrgxcy
+  - zizhi-tongjian-hanji-781-yushan-cai-shi-ren-dui-ji-zui-da-de-e-luvaw93hnnxcbgfnwgsjb7x0hlqz
 last_updated: 2026-08-30
 ---
 
 ## Overview
 
-和熹邓皇后 / Empress Dowager Deng appears in the current wiki as an An-era regent whose record must be judged across compound pressure: Qiang war, famine, disaster, austerity, rank and salary finance, rebellion management, seasonal ritual restraint, capable appointments, Deng-family reliance, Western Regions underimplementation, transfer risk, and contested posthumous memory.
+和熹邓皇后 / Empress Dowager Deng appears in the current wiki as an An-era regent whose record must be judged across compound pressure: infant succession, coup suppression, disaster-omen pressure, refugee relief, Qiang war, Xianbei incorporation, famine, austerity, rank and salary finance, rebellion management, seasonal ritual restraint, capable appointments, Deng-family reliance, Western Regions underimplementation, transfer risk, and contested posthumous memory.
 
 ## Current Profile
 
-Hanji 782 now supplies the earliest current layer in 108-109 CE. Deng's regency is already fiscally and militarily strained: Ren Shang is defeated by Dianling's Qiang coalition, Huangzhong grain prices and hunger deaths make logistics unbearable, Luoyang famine reaches cannibalism, and the court turns to sale of ranks and court-adjacent identities. Deng accepts Pang Can's critique enough to recall Deng Zhi and use Pang in Sanfu, but she also preserves Deng Zhi's status after failure, showing the tension between practical correction and kin reliance.
+Hanji 781 now supplies the earliest current layer in 106-108 CE. Deng's regency begins with succession management after Emperor He's death: she enthrones the infant [[EmperorShangOfHan|Emperor Shang]], prepares Liu Hu in palace because the infant may not survive, and installs Liu Hu as [[EmperorAnOfHan|Emperor An]] after Emperor Shang dies. The same layer shows the regency's hard edge through [[ZhouZhangLateHan|Zhou Zhang]]'s failed coup, while its softer side appears in refugee reassurance, austerity, relief orders, elite education, strict Deng-family discipline, Xianbei hostage-and-trade management, and [[FanZhunLateHan|Fan Zhun]]'s disaster relief memorial. Deng also handles omen pressure by turning drought criticism into prison review and local-official accountability, creating the page's first [[DisasterOmenCrisisRedirection|disaster-omen redirection]] case.
+
+Hanji 782 then supplies the 108-109 CE fiscal-war layer. Deng's regency is already strained by Ren Shang's defeat against Dianling's Qiang coalition, Huangzhong grain prices and hunger deaths, Luoyang famine, and the court's turn to sale of ranks and court-adjacent identities. Deng accepts Pang Can's critique enough to recall Deng Zhi and use Pang in Sanfu, but she also preserves Deng Zhi's status after failure, showing the tension between practical correction and kin reliance.
 
 Hanji 783-786 extend that opening into a broader crisis profile. Zhang Bailu's coastal rebellion, Southern Xiongnu, Wuhuan, and Xianbei pressure, floods, earthquakes, famine, and salary cuts make the regency fiscal before it becomes a fully developed frontier-policy debate. Deng's austerity is real: she reduces court entertainments and ritual display, later restrains off-season fresh-food offerings, and allows Ban Zhao's mourning-resignation advice to turn Deng-family withdrawal into reputation management. The same early layer also shows command limits: amnesty timing, coercive relocation, and frontier official abuse remain hard to control from court.
 
@@ -35,7 +38,7 @@ Hanji 792-795 make the political afterlife explicit. Deng Kang warns that court 
 
 ## Key Characteristics
 
-- Crisis regent whose rule joins war, famine, fiscal emergency, disasters, salary cuts, rank sale, local rebellion, frontier retention, and transfer risk.
+- Crisis regent whose rule joins infant succession, coup suppression, disaster-omen pressure, refugee relief, war, famine, fiscal emergency, salary cuts, rank sale, local rebellion, frontier retention, and transfer risk.
 - Real austerity and relief actor whose court consumption restraint, ritual restraint, pardon use, education, and tax/labor reductions remain part of the evidence.
 - Selective institutional repairer who can recognize Yu Xu, consult Ban Yong, use Pang Can after criticism, and tolerate some direct policy advice.
 - Kin-reliant ruler whose trust in Deng Zhi and Deng-family military credit creates legitimacy exposure even when family members supply capacity.
@@ -45,7 +48,8 @@ Hanji 792-795 make the political afterlife explicit. Deng Kang warns that court 
 
 ## Evidence
 
-- Earliest compound-crisis layer: [[zizhi-tongjian-hanji-782-jiemi-donghan-qi-nvzi-jiannan-de-taihou-shengya-lgfljux9aaocptbhxvvifitrgxcy|Hanji 782]] ties Deng's regency to Ren Shang's defeat, Dianling's Qiang coalition, Pang Can's retrenchment memorial, Deng Zhi's recall and promotion, Luoyang famine, and emergency rank sale.
+- Succession-security opening: [[zizhi-tongjian-hanji-781-yushan-cai-shi-ren-dui-ji-zui-da-de-e-luvaw93hnnxcbgfnwgsjb7x0hlqz|Hanji 781]] ties Deng's regency to Emperor Shang's infant accession and death, Liu Hu's palace preparation and accession as Emperor An, Zhou Zhang's failed coup, refugee reassurance, Fan Zhun's relief memorial, Xianbei incorporation, and disaster-omen redirection.
+- Fiscal-war continuation: [[zizhi-tongjian-hanji-782-jiemi-donghan-qi-nvzi-jiannan-de-taihou-shengya-lgfljux9aaocptbhxvvifitrgxcy|Hanji 782]] ties Deng's regency to Ren Shang's defeat, Dianling's Qiang coalition, Pang Can's retrenchment memorial, Deng Zhi's recall and promotion, Luoyang famine, and emergency rank sale.
 - Austerity, salary pressure, and rebellion: [[zizhi-tongjian-hanji-783-renxing-qian-guize-nide-jiazhi-jueding-yiqie-lq5qbki6crhieafbv7g5kc07unqe|Hanji 783]] links Zhang Bailu's rebellion, multi-front pressure, floods, famine, ritual austerity, salary cuts, and the Liangzhou abandonment prelude.
 - Mourning, amnesty, and family legitimacy: [[zizhi-tongjian-hanji-785-donghan-dengsui-zhangkong-yuwang-caineng-xiaodao-zuihou-llfg4kjaautqlfewhplikvu3ry1u|Hanji 785]] records disasters, Fa Xiong's amnesty-timed pacification, Deng's constrained maternal mourning, Ban Zhao's advice, fengchaoqing access, and destructive forced relocation.
 - Seasonal restraint and early frontier causality: [[zizhi-tongjian-hanji-786-guren-weishenme-paichi-fanji-shuiguo-lmcwqwdxwe0ehuusfeoaqk82msm7|Hanji 786]] combines the fresh-food edict with disasters, office turnover, Hanyang/Shanggui disorder, and early Han-Qiang war cost.
@@ -56,18 +60,21 @@ Hanji 792-795 make the political afterlife explicit. Deng Kang warns that court 
 
 ## Qualifications
 
-Deng's page should not collapse into either praise or blame. The evidence supports real austerity, capable appointments, relief, and institutional repair, but it also supports fiscal desperation, official-pay risk, frontier relocation damage, underimplemented Western Regions policy, and family-power concentration. Hanji 782 strengthens both sides: it shows Deng correcting Deng Zhi's command role after failure, yet also rewarding him afterward.
+Deng's page should not collapse into either praise or blame. The evidence supports real austerity, capable appointments, relief, succession preparation, refugee reassurance, and institutional repair, but it also supports coup suppression, transfer-speech danger, fiscal desperation, official-pay risk, frontier relocation damage, underimplemented Western Regions policy, and family-power concentration. Hanji 781 strengthens both sides by showing humanitarian relief and disaster-case review beside ruthless treatment of a coup threat; Hanji 782 continues the tension by showing Deng correcting Deng Zhi's command role after failure, yet also rewarding him afterward.
 
 ## What Changed
 
-- Added Hanji 782 as the earliest current Deng-regency layer, adding Ren Shang's defeat, Dianling's coalition, Pang Can's memorial, Luoyang famine, emergency rank sale, and Deng Zhi's recall-promotion tension.
-- Reframed Hanji 783's salary-cut layer as continuation rather than the first fiscal layer.
-- Connected Deng's austerity to [[RankSaleDisasterFinance|rank sale disaster finance]] and [[OfficialSalaryExtractionRisk|official salary extraction risk]].
-- Preserved the existing mixed judgment: real institutional repair sits beside frontier, fiscal, family-power, and transfer-risk failures.
+- Added Hanji 781 as the earliest Deng-regency layer, adding Emperor Shang's infant succession, Emperor An's preparation and accession, Zhou Zhang's failed coup, refugee reassurance, Fan Zhun's relief memorial, Xianbei incorporation, and disaster-omen redirection.
+- Reframed Hanji 782 as the fiscal-war continuation rather than the first current Deng-regency layer.
+- Connected Deng's early rule to [[DisasterOmenCrisisRedirection|disaster-omen crisis redirection]] and [[BoundarylessKindnessTrap|boundaryless kindness]] through the source's bounded-kindness frame.
+- Preserved the existing mixed judgment: real succession preparation, relief, and institutional repair sit beside coup suppression, frontier, fiscal, family-power, and transfer-risk failures.
 
 ## Relationships
 
 - [[EmperorAnOfHan]] - child ruler installed by Deng and later shaped by delayed transfer and posthumous purge politics.
+- [[EmperorShangOfHan]] - infant ruler whose short reign gives Deng her first regency and creates the succession bridge to An.
+- [[ZhouZhangLateHan]] - failed coup actor whose plot forces Deng's early regency into coercive boundary-setting.
+- [[FanZhunLateHan]] - relief memorialist whose advice Deng accepts during the early disaster field.
 - [[DengZhiLateHan]] - brother whose failed command, recall, promotion, and later purge expose Deng-family reliance.
 - [[PangCanLateHan]] - critic-official whose retrenchment advice Deng partially accepts in the early Qiang crisis.
 - [[RenShangLateHan]] - field commander whose record begins with defeat under Deng and later turns into merit-credit danger.
@@ -78,6 +85,7 @@ Deng's page should not collapse into either praise or blame. The evidence suppor
 - [[BanYongLateHan]] - Western Regions adviser whom Deng consults but only partly follows.
 - [[DengFamilyAnEraLateHan]] - outer-relative network that gives Deng capacity and legitimacy risk.
 - [[RegencyUnderCompoundCrisis]] - concept that captures Deng's simultaneous disaster, frontier, fiscal, family, and transfer pressures.
+- [[DisasterOmenCrisisRedirection]] - political-administrative maneuver visible when Deng turns drought pressure toward prison review and local-official blame.
 - [[RankSaleDisasterFinance]] - fiscal pattern newly tied to Deng's 109 CE emergency sale of rank and identity.
 - [[OfficialSalaryExtractionRisk]] - fiscal-incentive risk visible when Deng-regency austerity reaches official pay.
 - [[StrategicFrontierAbandonment]] - frontier-accounting problem visible in Liangzhou and Western Regions policy.

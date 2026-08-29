@@ -18057,6 +18057,13 @@
       "url": "/topics/history/"
     }
   ],
+  "DisasterOmenCrisisRedirection": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "DisasterReliefCorruption": [
     {
       "key": "politics",

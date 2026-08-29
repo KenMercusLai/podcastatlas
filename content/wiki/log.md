@@ -13589,6 +13589,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-30] ingest | 《资治通鉴·汉纪》781丨“愚善”，才是人对己最大的恶
+
+Ingested the 2026-07-04 芮淇讲透资治通鉴 episode on 106-108 CE Empress Dowager Deng's regency opening, Emperor Shang's infant reign and death, Emperor An's Deng-prepared accession, Zhou Zhang's failed anti-regency coup, refugee reassurance, disaster relief, Fan Zhun's memorial, early Qiang fighting, Xianbei hostage-trade management, and disaster-omen crisis redirection. Created the source note plus `EmperorShangOfHan`, `ZhouZhangLateHan`, `FanZhunLateHan`, and `DisasterOmenCrisisRedirection`; updated `EmpressDowagerDengLateHan`, `EmperorAnOfHan`, `DengFamilyAnEraLateHan`, `RegencyUnderCompoundCrisis`, `BoundarylessKindnessTrap`, `index`, and `overview`. No settled contradiction found; Liu Sheng, Zheng Zhong, Cai Lun, Zhang Yu, Zhang Min, Yanliyang, Liang Jin, Lu Cang, prison details, and exact disaster notices remain source-scoped.
+
 ## [2026-08-30] ingest | 《资治通鉴·汉纪》783丨人性潜规则：你的价值决定一切
 
 Ingested the 2026-07-05 芮淇讲透资治通鉴 episode on 109-110 CE Deng-regency frontier, disaster, and fiscal pressure, Zhang Bailu's initial rebellion and release cycle, Yang Zhen's Four Knows refusal of Wang Mi's gold, official salary cuts, Ren Shang's campaign drawdown, and the Liangzhou abandonment prelude. Created the source note plus `WangMiLateHan` and `OfficialSalaryExtractionRisk`; updated `YangZhenLateHan`, `ZhangBailuLateHan`, `EmpressDowagerDengLateHan`, `RegencyUnderCompoundCrisis`, `GiftRefusalAsAuthority`, `index`, and `overview`. No settled contradiction found; Zhang Bailu/Bolu naming and minor frontier/military actors remain source-scoped.
@@ -13684,6 +13688,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-30] ingest | 《资治通鉴·汉纪》784丨东汉“钓鱼执法”第一人：虞诩
 
 Ingested the 2026-07-05 芮淇讲透资治通鉴 episode on Yu Xu's Liangzhou-retention argument, elite-hostage proposal, Zhaoge infiltrator and marked-clothing pacification, Southern Xiongnu surrender, and Xianling Qiang pressure. Created the source note plus `ZhaogeCountyLateHan` and `InformationAsymmetricPacification`; updated `YuXuEasternHan`, `DengZhiLateHan`, `PangCanLateHan`, `LiangzhouLateHan`, `StrategicFrontierAbandonment`, `RegencyUnderCompoundCrisis`, `SouthernXiongnu`, `XianlingQiang`, `index`, and `overview`. No settled contradiction found; Ning Ji, the sheep-thief infiltrators, Zheng Qin, Duan Chong, and exact county-level details remain source-scoped.
+
+## [2026-08-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-30] lint | Wiki health check
 

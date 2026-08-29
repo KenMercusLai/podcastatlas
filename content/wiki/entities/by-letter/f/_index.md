@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 8361
+wiki_total_pages: 8364
 wiki_pages:
   - key: "FortyThreeTalks"
     title: "43talks"
@@ -707,6 +707,9 @@ wiki_pages:
   - key: "FanFengEunuchLateHan"
     title: "樊丰 / Fan Feng (late Han eunuch)"
     url: "/wiki/entities/fanfengeunuchlatehan/"
+  - key: "FanZhunLateHan"
+    title: "樊准 / Fan Zhun (late Han)"
+    url: "/wiki/entities/fanzhunlatehan/"
   - key: "FanKuai"
     title: "樊哙 / Fan Kuai"
     url: "/wiki/entities/fankuai/"

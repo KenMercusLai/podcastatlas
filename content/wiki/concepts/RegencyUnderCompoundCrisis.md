@@ -14,16 +14,19 @@ sources:
   - zizhi-tongjian-hanji-784-donghan-diaoyu-zhifa-diyiren-yuxu-ls6zezfw2pvaytoo94igdscfwkpt
   - zizhi-tongjian-hanji-783-renxing-qian-guize-nide-jiazhi-jueding-yiqie-lq5qbki6crhieafbv7g5kc07unqe
   - zizhi-tongjian-hanji-782-jiemi-donghan-qi-nvzi-jiannan-de-taihou-shengya-lgfljux9aaocptbhxvvifitrgxcy
+  - zizhi-tongjian-hanji-781-yushan-cai-shi-ren-dui-ji-zui-da-de-e-luvaw93hnnxcbgfnwgsjb7x0hlqz
 last_updated: 2026-08-30
 ---
 
 ## Definition
 
-Regency Under Compound Crisis / 复合危机下的摄政 is a governance pattern where a regent is judged not by a single succession or family-power question, but by simultaneous disaster, war, fiscal stress, rebellion, appointment quality, court legitimacy, and power-transfer pressure.
+Regency Under Compound Crisis / 复合危机下的摄政 is a governance pattern where a regent is judged not by a single succession or family-power question, but by simultaneous child accession, coup risk, disaster, omen pressure, war, fiscal stress, rebellion, appointment quality, court legitimacy, family power, and power-transfer pressure.
 
 ## Current Synthesis
 
-Hanji 782 now establishes the earliest current Deng-regency layer: the court faces Dianling's Qiang coalition, Ren Shang's defeat, Deng Zhi's recall but continued favor, Pang Can's relief-and-retrenchment memorial, extreme grain and famine stress, Luoyang cannibalism, and emergency rank sale. This makes the concept fiscal and logistical before the later episodes develop salary cuts, coastal rebellion, ritual restraint, and formal Liangzhou debate.
+Hanji 781 now establishes the earliest current Deng-regency layer. The court moves from Emperor He's death to [[EmperorShangOfHan|Emperor Shang]]'s infant accession, then to [[EmperorAnOfHan|Emperor An]]'s prepared installation after Emperor Shang dies; immediately afterward, [[ZhouZhangLateHan|Zhou Zhang]]'s failed coup tests the regency's coercive boundary. The same layer already contains refugees, earthquakes, floods, drought, early Qiang fighting, [[Xianbei|Xianbei]] incorporation, [[FanZhunLateHan|Fan Zhun]]'s relief memorial, and [[DisasterOmenCrisisRedirection|disaster-omen redirection]].
+
+Hanji 782 then establishes the fiscal-war continuation: the court faces Dianling's Qiang coalition, Ren Shang's defeat, Deng Zhi's recall but continued favor, Pang Can's relief-and-retrenchment memorial, extreme grain and famine stress, Luoyang cannibalism, and emergency rank sale. This makes the concept fiscal and logistical before the later episodes develop salary cuts, coastal rebellion, ritual restraint, and formal Liangzhou debate.
 
 Across Hanji 783-786, the regency becomes visibly compound. Zhang Bailu's rebellion, Southern Xiongnu/Wuhuan/Xianbei pressure, floods, earthquakes, famine, salary cuts, Deng's austerity, Fa Xiong's amnesty timing, Ban Zhao's mourning advice, forced relocation, fresh-food restraint, Hanyang disorder, and frontier official abuse all coexist. The point is not that every decision is bad; it is that each repair occurs while other systems are deteriorating.
 
@@ -31,8 +34,9 @@ Hanji 788-793 add the mature pressure field. Deng appoints Yu Xu to Wudu and acc
 
 ## Key Claims
 
-- Compound-crisis regency is multi-axis: disaster, war, fiscal depletion, appointment quality, frontier policy, family power, and transfer timing interact rather than appearing in sequence.
-- Fiscal emergency is central from the beginning because rank sale, salary pressure, grain transport, and war logistics appear before later moral and institutional judgments.
+- Compound-crisis regency is multi-axis: child succession, coup risk, disaster, war, fiscal depletion, appointment quality, frontier policy, family power, omen pressure, and transfer timing interact rather than appearing in sequence.
+- Succession security is central from the beginning because Deng's preparation of Liu Hu, Zhou Zhang's failed coup, and later transfer-power pressure precede the more visible fiscal and frontier layers.
+- Fiscal emergency remains central because rank sale, salary pressure, grain transport, and war logistics appear before later moral and institutional judgments.
 - Austerity and ritual restraint can signal seriousness but cannot by themselves solve revenue collapse, frontier military adaptation, or civilian relocation damage.
 - Capable appointments such as Yu Xu and selective acceptance of Pang Can or Ban Yong show real state capacity inside the crisis, not simple collapse.
 - Kin reliance is double-edged: Deng-family actors supply command and trust, but Deng Zhi's promotion after defeat and Deng Zun's credit field create legitimacy risk.
@@ -40,7 +44,8 @@ Hanji 788-793 add the mature pressure field. Deng appoints Yu Xu to Wudu and acc
 
 ## Evidence
 
-- Fiscal-war opening: [[zizhi-tongjian-hanji-782-jiemi-donghan-qi-nvzi-jiannan-de-taihou-shengya-lgfljux9aaocptbhxvvifitrgxcy|Hanji 782]] combines Qiang coalition war, Ren Shang's defeat, Pang Can's memorial, Deng Zhi's recall and promotion, Luoyang famine, and rank sale.
+- Succession, coup, and disaster opening: [[zizhi-tongjian-hanji-781-yushan-cai-shi-ren-dui-ji-zui-da-de-e-luvaw93hnnxcbgfnwgsjb7x0hlqz|Hanji 781]] combines Emperor Shang's infant accession and death, Emperor An's prepared installation, Zhou Zhang's failed coup, refugee reassurance, Fan Zhun's relief memorial, early Qiang fighting, Xianbei incorporation, and disaster-omen redirection.
+- Fiscal-war continuation: [[zizhi-tongjian-hanji-782-jiemi-donghan-qi-nvzi-jiannan-de-taihou-shengya-lgfljux9aaocptbhxvvifitrgxcy|Hanji 782]] combines Qiang coalition war, Ren Shang's defeat, Pang Can's memorial, Deng Zhi's recall and promotion, Luoyang famine, and rank sale.
 - Salary, rebellion, and austerity: [[zizhi-tongjian-hanji-783-renxing-qian-guize-nide-jiazhi-jueding-yiqie-lq5qbki6crhieafbv7g5kc07unqe|Hanji 783]] connects rebellion, multi-front pressure, disasters, salary cuts, and ritual austerity.
 - Frontier-abandonment pressure: [[zizhi-tongjian-hanji-784-donghan-diaoyu-zhifa-diyiren-yuxu-ls6zezfw2pvaytoo94igdscfwkpt|Hanji 784]] makes Liangzhou retention a strategic and fiscal test inside the regency.
 - Mourning, amnesty, and relocation damage: [[zizhi-tongjian-hanji-785-donghan-dengsui-zhangkong-yuwang-caineng-xiaodao-zuihou-llfg4kjaautqlfewhplikvu3ry1u|Hanji 785]] joins disasters, Fa Xiong's amnesty timing, Deng-family mourning optics, and forced civilian relocation.
@@ -50,13 +55,13 @@ Hanji 788-793 add the mature pressure field. Deng appoints Yu Xu to Wudu and acc
 
 ## Counterevidence & Qualifications
 
-The concept should not become a blanket condemnation of regency. Hanji 782-793 preserve meaningful competence: austerity, relief, seasonal restraint, appointments, tactical adaptation, amnesty timing, and consultation all matter. The stronger claim is narrower: compound crisis makes each successful repair insufficient unless fiscal, frontier, family-power, and transfer constraints are also managed.
+The concept should not become a blanket condemnation of regency. Hanji 781-793 preserve meaningful competence: succession preparation, austerity, relief, seasonal restraint, appointments, tactical adaptation, amnesty timing, prison review, refugee reassurance, and consultation all matter. The stronger claim is narrower: compound crisis makes each successful repair insufficient unless succession, fiscal, frontier, family-power, omen, and transfer constraints are also managed.
 
 ## What Changed
 
-- Added Hanji 782 as the earliest current layer, shifting the concept's opening from salary cuts to Qiang defeat, famine, rank sale, and logistics.
-- Reframed Deng's early regency as fiscal-war crisis before the later Liangzhou and ritual-restraint debates.
-- Added Dianling, Pang Can, Ren Shang, and Deng Zhi's defeat-recall-promotion pattern to the concept's evidence base.
+- Added Hanji 781 as the earliest current layer, shifting the concept's opening from fiscal-war stress to succession fragility, coup suppression, refugees, disaster relief, Xianbei incorporation, and disaster-omen redirection.
+- Reframed Hanji 782 as the fiscal-war continuation before the later Liangzhou and ritual-restraint debates.
+- Added Emperor Shang, Zhou Zhang, Fan Zhun, and Deng's prison-review omen response to the concept's evidence base.
 
 ## Related Concepts
 
@@ -66,4 +71,5 @@ The concept should not become a blanket condemnation of regency. Hanji 782-793 p
 - [[CoerciveFrontierRelocationBackfire]] - civilian-protection failure mode created by crisis improvisation.
 - [[AmnestyTimedPacification]] - rebellion-management repair available only when local command timing supports it.
 - [[SeasonalRitualConsumptionRestraint]] - court-consumption restraint used to reduce burden and signal crisis discipline.
+- [[DisasterOmenCrisisRedirection]] - regency-defense maneuver for converting omen attacks into administrative correction.
 - [[OuterRelativeCourtPower]] - family-power structure that makes regency capacity and legitimacy risk inseparable.

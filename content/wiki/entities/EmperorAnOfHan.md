@@ -17,16 +17,19 @@ sources:
   - zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn
   - zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi
   - zizhi-tongjian-hanji-786-guren-weishenme-paichi-fanji-shuiguo-lmcwqwdxwe0ehuusfeoaqk82msm7
+  - zizhi-tongjian-hanji-781-yushan-cai-shi-ren-dui-ji-zui-da-de-e-luvaw93hnnxcbgfnwgsjb7x0hlqz
 last_updated: 2026-08-30
 ---
 
 ## Overview
 
-汉安帝 / Emperor An of Han now appears in the wiki through a 110-125 CE evidence arc: a child ruler under [[EmpressDowagerDengLateHan|Empress Dowager Deng]]'s regency during disasters, ritual restraint, and Qiang-front pressure; a personal ruler whose early restoration signals do not become durable public order; and a late ruler whose favorite-household politics, Yang Zhen's destruction, Liu Bao's deposition, and concealed death produce another succession crisis.
+汉安帝 / Emperor An of Han now appears in the wiki through a 106-125 CE evidence arc: a child ruler prepared and installed by [[EmpressDowagerDengLateHan|Empress Dowager Deng]] after [[EmperorShangOfHan|Emperor Shang]]'s death; a regency-era emperor surrounded by succession, disaster, ritual restraint, and Qiang-front pressure; a personal ruler whose early restoration signals do not become durable public order; and a late ruler whose favorite-household politics, Yang Zhen's destruction, Liu Bao's deposition, and concealed death produce another succession crisis.
 
 ## Current Profile
 
-Hanji 786 supplies the earliest current layer of An's regency-era court. The 110-114 CE field combines Zhang Bolu's Donglai pirate suppression, Hanyang/Shanggui rebellion around [[DuJigongLateHan|Du Jigong]], locusts, drought, landslide, office turnover, [[LiuKaiEasternHan|Liu Kai]]'s appointment as sikong, the 112 CE fresh-food restraint edict, and [[MaXianLateHan|Ma Xian]] plus Hou Ba attacking [[XianlingQiang|Xianling Qiang]] in [[AndingCommandery|Anding]]. The same source frames Han-Qiang war as an economic and demographic drain while keeping the climate-stress explanation source-scoped.
+Hanji 781 supplies the earliest current layer of An's reign. Deng brings Liu Hu into the palace while [[EmperorShangOfHan|Emperor Shang]] is alive because she fears the infant emperor will not survive; when Emperor Shang dies after about eight months, Deng quickly installs Liu Hu as Emperor An. That opening places An inside a prepared regency, and [[ZhouZhangLateHan|Zhou Zhang]]'s failed plan to demote him and enthrone Liu Sheng shows that his accession is contested from the start.
+
+Hanji 786 supplies the next current layer of An's regency-era court. The 110-114 CE field combines Zhang Bolu's Donglai pirate suppression, Hanyang/Shanggui rebellion around [[DuJigongLateHan|Du Jigong]], locusts, drought, landslide, office turnover, [[LiuKaiEasternHan|Liu Kai]]'s appointment as sikong, the 112 CE fresh-food restraint edict, and [[MaXianLateHan|Ma Xian]] plus Hou Ba attacking [[XianlingQiang|Xianling Qiang]] in [[AndingCommandery|Anding]]. The same source frames Han-Qiang war as an economic and demographic drain while keeping the climate-stress explanation source-scoped.
 
 Hanji 789 and Hanji 792 then show the regency prehistory of An's personal rule. The court confronts Qiang war, forced relocation backfire, Xianbei pressure, Yizhou unrest, Liu Kai's accepted mourning proposal, and Yuan Chang's court-secret case before An directly governs. In 120 CE, [[EmperorShunOfHan|Liu Bao]] is appointed crown prince while Deng Kang warns that court authority must rise and Deng outer-relative power must fall.
 
@@ -40,7 +43,7 @@ Hanji 800-802 close the arc. Fan Feng, Zhou Guang, and Xie Yun's forged-edict co
 
 ## Key Characteristics
 
-- Ruler whose current wiki evidence begins with 110-114 CE Deng-regency disaster, ritual, and Qiang-front pressure before personal rule.
+- Ruler whose current wiki evidence begins with 106 CE prepared accession under Deng after Emperor Shang's death, before later disaster, ritual, and Qiang-front pressure.
 - Capable of accepting narrow legal, ritual, personnel, and frontier advice when framed in bounded terms.
 - Repeatedly unable or unwilling to discipline palace access, wet-nurse households, eunuch favorites, and forged-edict networks.
 - Uses purge to resolve Deng-family replacement fear but then permits new private-power channels to expand.
@@ -50,7 +53,8 @@ Hanji 800-802 close the arc. Fan Feng, Zhou Guang, and Xie Yun's forged-edict co
 
 ## Evidence
 
-- Earliest regency layer: [[zizhi-tongjian-hanji-786-guren-weishenme-paichi-fanji-shuiguo-lmcwqwdxwe0ehuusfeoaqk82msm7|Hanji 786]] places disasters, the 112 CE seasonal fresh-food edict, Hanyang/Shanggui rebellion, Liu Kai's sikong appointment, Anding Qiang operations, and Han-Qiang war cost inside An's early reign under Deng's regency.
+- Accession and contestation: [[zizhi-tongjian-hanji-781-yushan-cai-shi-ren-dui-ji-zui-da-de-e-luvaw93hnnxcbgfnwgsjb7x0hlqz|Hanji 781]] says Deng prepares Liu Hu in palace before Emperor Shang dies, installs him as Emperor An after the infant ruler's death, and then faces Zhou Zhang's plot to demote An in favor of Liu Sheng.
+- Early regency layer: [[zizhi-tongjian-hanji-786-guren-weishenme-paichi-fanji-shuiguo-lmcwqwdxwe0ehuusfeoaqk82msm7|Hanji 786]] places disasters, the 112 CE seasonal fresh-food edict, Hanyang/Shanggui rebellion, Liu Kai's sikong appointment, Anding Qiang operations, and Han-Qiang war cost inside An's early reign under Deng's regency.
 - Regency pressure before personal rule: [[zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi|Hanji 789]] places Qiang war, relocation backfire, Yuan Chang's death, and Liu Kai's mourning policy in An's regency-era court.
 - Crown-prince and Deng warning layer: [[zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn|Hanji 792]] records Liu Bao's crown-prince appointment and Deng Kang's warning before Deng dies.
 - Personal-rule opening: [[zizhi-tongjian-hanji-793-lishi-zhuming-nvhuang-dengsui-zenme-si-de-lszfgj7waiuusrddzjmv5mbrp1i|Hanji 793]] says An restores Du Gen and Cheng Yishi and honors his natal lineage after Deng's death.
@@ -66,17 +70,19 @@ Hanji 800-802 close the arc. Fan Feng, Zhou Guang, and Xie Yun's forged-edict co
 
 ## Qualifications
 
-The profile does not present An as uniformly deaf to advice. Several sources show accepted counsel on personnel, punishment, Goguryeo restraint, and Western Regions retention. Hanji 786 also makes the 112 CE seasonal fresh-food edict a restraint notice rather than a favorite-household failure. The sharper judgment is that accepted bounded advice and ritual restraint did not overcome palace access capture, private favor, succession fear, frontier drain, and information control.
+The profile does not present An as uniformly deaf to advice. Several sources show accepted counsel on personnel, punishment, Goguryeo restraint, and Western Regions retention. Hanji 781 makes his accession a Deng-managed succession event rather than a personal choice by An, and Hanji 786 makes the 112 CE seasonal fresh-food edict a restraint notice rather than a favorite-household failure. The sharper judgment is that accepted bounded advice and ritual restraint did not overcome palace access capture, private favor, succession fear, frontier drain, and information control.
 
 ## What Changed
 
-- Added Hanji 786 as the 110-114 CE starting layer for An's current wiki profile.
-- Reframed An's profile as a 110-125 CE evidence arc rather than a 116-125 CE arc.
-- Added seasonal fresh-food restraint, early Hanyang/Shanggui disorder, Anding Qiang operations, and war-cost pressure before the later Deng-regency and personal-rule sequence.
+- Added Hanji 781 as the 106 CE starting layer for An's current wiki profile, covering Liu Hu's palace preparation, accession after Emperor Shang, and Zhou Zhang's failed plan to demote him.
+- Reframed An's profile as a 106-125 CE evidence arc rather than a 110-125 CE arc.
+- Preserved Hanji 786 as the next regency layer for seasonal fresh-food restraint, Hanyang/Shanggui disorder, Anding Qiang operations, and war-cost pressure.
 
 ## Relationships
 
 - [[EmpressDowagerDengLateHan]] - regent who installs An and whose delayed transfer shapes his personal-rule opening.
+- [[EmperorShangOfHan]] - infant predecessor whose death makes An's Deng-prepared accession possible.
+- [[ZhouZhangLateHan]] - early conspirator whose plan would demote An and install Liu Sheng.
 - [[DengFamilyAnEraLateHan]] - target of An's post-Deng purge and source of replacement fear.
 - [[EmperorShunOfHan]] - Liu Bao, An's crown prince, whom An deposes before Liu later becomes emperor.
 - [[YangZhenLateHan]] - upright critic destroyed under An's captured favorite-household environment.

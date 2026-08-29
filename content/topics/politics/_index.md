@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2022
+topic_total_pages: 2023
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -772,6 +772,9 @@ topic_concepts:
   - key: "DisarmamentWithdrawalSequencing"
     title: "Disarmament Withdrawal Sequencing"
     url: "/wiki/concepts/disarmamentwithdrawalsequencing/"
+  - key: "DisasterOmenCrisisRedirection"
+    title: "Disaster Omen Crisis Redirection / 灾异压力转移"
+    url: "/wiki/concepts/disasteromencrisisredirection/"
   - key: "DisasterResponseStateCapacity"
     title: "Disaster Response State Capacity"
     url: "/wiki/concepts/disasterresponsestatecapacity/"

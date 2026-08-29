@@ -9,6 +9,7 @@ sources:
   - zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0
   - zizhi-tongjian-hanji-837-weiren-chushi-weihe-buneng-xinci-shouruan-luznyzqldwdrbkfm7ce-1huuxm7b
   - zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi
+  - zizhi-tongjian-hanji-781-yushan-cai-shi-ren-dui-ji-zui-da-de-e-luvaw93hnnxcbgfnwgsjb7x0hlqz
 last_updated: 2026-08-30
 knowledge_schema: synthesis-v1
 ---
@@ -19,7 +20,7 @@ Boundaryless kindness is the pattern in which care, compliance, emotional labor,
 
 ## Current Synthesis
 
-Hanji 789 gives the most direct formulation now in the wiki: respect is not won by pleasing others, and kindness without a boundary becomes "愚善." The host links dignity to capability, character, energy, decisive action, and a visible bottom line rather than to constant agreement or softness.
+Hanji 781 and Hanji 789 now give the most direct formulations in the wiki. Hanji 781 defines "愚善" as kindness without self-protection, attack capacity, or reality judgment, while Hanji 789 says respect is not won by pleasing others and kindness without a boundary becomes "愚善." Together they link dignity to capability, character, energy, decisive action, and a visible bottom line rather than to constant agreement or softness.
 
 The later sources keep kindness valuable but structurally vulnerable. Hanji 919 defines the "old good person" problem: giving without boundary, reciprocal protection, or value exchange makes a person easy to load with other people's work, emotion, and responsibility. Hanji 883 sharpens the balance requirement by rejecting both unprincipled softness and pure force; proportionate kindness needs strength behind it.
 
@@ -27,7 +28,7 @@ Hanji 855 and Hanji 848 make the boundary-strength side explicit. Strong boundar
 
 ## Key Claims
 
-- Kindness remains valuable only when it is paired with discernment, reciprocity, and a bottom line.
+- Kindness remains valuable only when it is paired with discernment, reciprocity, self-protection, and a bottom line.
 - Pleasing and fawning do not reliably produce respect; visible capability and boundaries matter more.
 - Boundary strength is not the same as cruelty, because principled restraint can protect both self and order.
 - Boundaryless helpfulness invites extraction when others can shift work, emotion, or risk onto the helper without cost.
@@ -35,7 +36,8 @@ Hanji 855 and Hanji 848 make the boundary-strength side explicit. Strong boundar
 
 ## Evidence
 
-- Direct formula: [[zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi|Hanji 789]] states that kindness without a boundary becomes "愚善" and that respect is not earned by pleasing.
+- Self-protection formula: [[zizhi-tongjian-hanji-781-yushan-cai-shi-ren-dui-ji-zui-da-de-e-luvaw93hnnxcbgfnwgsjb7x0hlqz|Hanji 781]] frames "愚善" as kindness without self-protection, attack capacity, and reality judgment.
+- Direct boundary formula: [[zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi|Hanji 789]] states that kindness without a boundary becomes "愚善" and that respect is not earned by pleasing.
 - Good-person extraction: [[zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade|Hanji 919]] frames the "old good person" as someone who gives without reciprocal protection or value exchange.
 - Balance requirement: [[zizhi-tongjian-hanji-883-laoban-yao-fansi-ruhe-bimian-gaoguan-neihong-lph-fycnqas6hztjq1jbsisvylid|Hanji 883]] says people should avoid both unprincipled softness and pure force.
 - Mild outside, firm inside: [[zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1|Hanji 855]] frames strength as not indiscriminately carrying other people's emotions or compulsions.
@@ -48,8 +50,9 @@ The concept should not be flattened into cynicism. Several sources preserve kind
 
 ## What Changed
 
-- Added Hanji 789 as the clearest title-level formula for boundaryless kindness becoming exploitable "愚善."
-- Reframed respect as coming from capability and bounded action rather than pleasing behavior.
+- Added Hanji 781 as an earlier title-level "愚善" formulation centered on self-protection, attack capacity, and reality judgment.
+- Preserved Hanji 789 as the clearest direct formula for boundaryless kindness becoming exploitable "愚善."
+- Reframed respect as coming from capability, bounded action, and self-protection rather than pleasing behavior.
 
 ## Related Concepts
 
