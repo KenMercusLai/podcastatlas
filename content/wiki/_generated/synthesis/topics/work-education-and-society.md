@@ -4,17 +4,29 @@ generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
 last_updated: 2026-08-30
-as_of_overview_commit: f516098da9dbf6b43d5ccc0fd497ed3e424189b6
-input_digest: 8341d493596708413f0a1c6152c44e8f4ff1354564ed4ac988aa97b9276daeb2
+as_of_overview_commit: 1f16f51388aaea874749e1f6b53aea755e825641
+input_digest: ff5dec540aa727aca0c673bb8bec9150af6cb09d02a8b110bc230a498e4c68bd
 ---
 
 # Work, Education, and Society
 
 ## Current State
 
-Hanji 792 adds a source-scoped family and career risk lesson: concentrating every path in one power channel can increase exposure, while separation may look punitive before later conditions make it protective. The Guangzhou Academy of Fine Arts fieldwork episode adds that undergraduate learning can become formative when students observe, interview, and build experience before polished expression, while still facing grades, specialization, technique, employment pressure, and uncertain long-term outcomes. The Jefferson-Hemings material adds a secondary society case: family, labor, and relationship claims need explicit attention to legal power and coercive status. Hanji access, office-boundary, succession, and reputation cases show that education, merit, dignity, and correct claims need usable channels, public witnesses, role boundaries, and hierarchy-aware handling before they become institutional action. VOL.211 and the OCD episode add source-scoped public-health education cases: mechanism and assessment language can orient action, but training, emergency response, exposure practice, and treatment planning stay clinically bounded. Work, education, and society sources converge on a practical pattern: durable capability comes from bounded institutions, active learning, realistic workplace judgment, human feedback loops, social trust, pacing, and environments that let people act under real constraints.
+Hanji 787 adds a source-scoped family-mobility and selection-channel case: Yan Chang's preparation of Yan Ji for palace entry shows private household investment trying to pass through gendered court selection, imperial favor, and regency approval before becoming public status. Hanji 792 adds a source-scoped family and career risk lesson: concentrating every path in one power channel can increase exposure, while separation may look punitive before later conditions make it protective. The Guangzhou Academy of Fine Arts fieldwork episode adds that undergraduate learning can become formative when students observe, interview, and build experience before polished expression, while still facing grades, specialization, technique, employment pressure, and uncertain long-term outcomes. The Jefferson-Hemings material adds a secondary society case: family, labor, and relationship claims need explicit attention to legal power and coercive status. Hanji access, office-boundary, succession, and reputation cases show that education, merit, dignity, and correct claims need usable channels, public witnesses, role boundaries, and hierarchy-aware handling before they become institutional action. VOL.211 and the OCD episode add source-scoped public-health education cases: mechanism and assessment language can orient action, but training, emergency response, exposure practice, and treatment planning stay clinically bounded. Work, education, and society sources converge on a practical pattern: durable capability comes from bounded institutions, active learning, realistic workplace judgment, human feedback loops, social trust, pacing, and environments that let people act under real constraints.
 
 ## Cross-source Findings
+
+### Palace Selection Turns Family Preparation Into Status Mobility
+
+[[zizhi-tongjian-hanji-787-chuanqi-huanghou-yanji-shi-ruhe-yibubu-shangwei-de-lslngjnedmqgh8h5nfc-qmyahqnm|Hanji 787]] adds a historical work-and-society analogy through [[PalaceMarriageFamilyMobility]]: [[YanChangLateHan]] treats palace selection as household strategy, trains Yan Ji beyond beauty for harem entry, and depends on both [[EmperorAnOfHan]]'s favor and [[EmpressDowagerDengLateHan]]'s approval before [[EmpressDowagerYanLateHan]]'s empress rank turns family preparation into office-adjacent public status.
+
+**Evidence:** [[zizhi-tongjian-hanji-787-chuanqi-huanghou-yanji-shi-ruhe-yibubu-shangwei-de-lslngjnedmqgh8h5nfc-qmyahqnm]], [[PalaceMarriageFamilyMobility]], [[YanChangLateHan]], [[EmpressDowagerYanLateHan]], [[EmperorAnOfHan]], [[EmpressDowagerDengLateHan]], [[OuterRelativeCourtPower]]
+
+**Qualifications:**
+
+- This is a historical analogy from one Hanji source, not modern career, marriage, education, or relationship advice.
+- The claim should not be generalized to all Eastern Han palace selection without additional source notes.
+- The episode foregrounds Yan Chang and Yan Ji, so broader women's agency and coercion questions remain underdeveloped.
 
 ### Family And Career Diversification Reduces Single Channel Risk
 

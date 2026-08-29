@@ -10,16 +10,19 @@ sources:
   - zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy
   - zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1
   - zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn
-last_updated: 2026-08-29
+  - zizhi-tongjian-hanji-787-chuanqi-huanghou-yanji-shi-ruhe-yibubu-shangwei-de-lslngjnedmqgh8h5nfc-qmyahqnm
+last_updated: 2026-08-30
 ---
 
 ## Overview
 
-阎太后 / Empress Dowager Yan is a late-Han dowager whose current wiki profile now begins before dowager power, before Yan-family office access, and before the Liu Bao accusation chain. [[zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn|Hanji 792]] shows Yan Hou's hostility immediately after [[EmperorShunOfHan|Liu Bao]] is made crown prince; [[zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1|Hanji 795]] shows her brothers, including [[YanXianLateHan|Yan Xian]], receiving office and palace-guard access after the [[DengFamilyAnEraLateHan|Deng family]] falls. [[zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy|Hanji 801]] then has Yan Hou help [[FanFengEunuchLateHan|Fan Feng]] fabricate accusations against Liu Bao, while Hanji 802-805 cover Emperor An's hidden death, Beixiang Hou's accession, Shun's restoration, and the defeated-dowager settlement.
+阎太后 / Empress Dowager Yan is a late-Han dowager whose current wiki profile now begins with [[YanChangLateHan|Yan Chang]]'s family strategy, her 114 CE palace entry, and her 115 CE elevation from honored lady to empress. [[zizhi-tongjian-hanji-787-chuanqi-huanghou-yanji-shi-ruhe-yibubu-shangwei-de-lslngjnedmqgh8h5nfc-qmyahqnm|Hanji 787]] shows her rise as unusually hard because [[EmperorAnOfHan|Emperor An]]'s favor and [[EmpressDowagerDengLateHan|Empress Dowager Deng]]'s regency approval both matter, while Eastern Han empress positions usually favor great founding families. Hanji 792 then shows Yan Hou's hostility after [[EmperorShunOfHan|Liu Bao]] is made crown prince; Hanji 795 shows her brothers, including [[YanXianLateHan|Yan Xian]], receiving office and palace-guard access after the [[DengFamilyAnEraLateHan|Deng family]] falls; Hanji 801-805 cover her accusation chain, concealed-death succession control, defeat, and post-restoration dowager treatment.
 
 ## Current Profile
 
-[[zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn|Hanji 792]] supplies the earliest current Yan Hou layer. Liu Bao is made crown prince in 120 CE, but the source says Yan Hou is jealous and hostile, had already killed Liu Bao's birth mother, cannot treat him as her own child, and tries to obstruct him. This turns the later Liu Bao accusation sequence into an escalation of an already hostile palace field rather than a sudden 124 CE development.
+[[zizhi-tongjian-hanji-787-chuanqi-huanghou-yanji-shi-ruhe-yibubu-shangwei-de-lslngjnedmqgh8h5nfc-qmyahqnm|Hanji 787]] supplies the earliest current Yan layer. Yan Chang is presented as a weakly rooted official who prepares Yan Ji from childhood for palace selection because beauty alone is not enough. Yan Ji enters the palace in 114 CE, becomes favored by Emperor An as Yan Guiren, and is made empress in 115 CE while Empress Dowager Deng still controls real authority. The same source says Yan Hou is jealous and poisons the woman who bears Liu Bao, but it does not reconstruct the full event beyond that source claim.
+
+[[zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn|Hanji 792]] supplies the next current Yan Hou layer. Liu Bao is made crown prince in 120 CE, but the source says Yan Hou is jealous and hostile, had already killed Liu Bao's birth mother, cannot treat him as her own child, and tries to obstruct him. This turns the later Liu Bao accusation sequence into an escalation of an already hostile palace field rather than a sudden 124 CE development.
 
 [[zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1|Hanji 795]] supplies the next Yan Hou layer. After the Deng purge, her brothers Yan Xian, Yan Jing, and Yan Yao receive qing/xiao-level posts and command palace guards. The episode does not yet show Yan Hou directing policy herself, but it establishes the family access that later makes Yan-family succession control possible.
 
@@ -35,16 +38,19 @@ The same source shows her first regency choice. Yan Taihou and Yan Xian install 
 
 ## Key Characteristics
 
-- Pre-dowager Liu Bao antagonist whose hostility is visible at his 120 CE crown-prince appointment before later Yan-family office access.
+- Family-mobility empress whose rise is presented as Yan Chang's long preparation inside a court where imperial favor and Deng-regency approval both matter.
+- Pre-dowager Liu Bao antagonist whose hostility is visible before and at his 120 CE crown-prince appointment.
 - Active transition controller before defeat, using fabricated accusation against Liu Bao and later death concealment, return timing, palace announcement, and dowager authority after Emperor An's death.
 - Outer-relative regent whose preferred child ruler makes Yan-family behind-the-throne control easier.
 - Public legitimacy liability because excluding Liu Bao from mourning creates sympathy for him and resentment toward her.
 - Repeat death-concealment actor after Beixiang Hou's later death, now trying to preserve succession choice inside the capital.
-- Gate-and-seal loser whose communication is cut and whose seal surrender marks restoration victory.
-- Defeated dowager whose title still matters to Shun's restored legitimacy.
+- Defeated dowager whose communication cutoff, seal surrender, and retained title all shape Shun's restored legitimacy.
 
 ## Evidence
 
+- Palace-entry preparation: [[zizhi-tongjian-hanji-787-chuanqi-huanghou-yanji-shi-ruhe-yibubu-shangwei-de-lslngjnedmqgh8h5nfc-qmyahqnm|Hanji 787]] says Yan Chang prepares Yan Ji from childhood for harem selection because beauty alone is insufficient.
+- Empress-making environment: [[zizhi-tongjian-hanji-787-chuanqi-huanghou-yanji-shi-ruhe-yibubu-shangwei-de-lslngjnedmqgh8h5nfc-qmyahqnm|Hanji 787]] says Yan Ji enters the palace in 114 CE, wins Emperor An's favor, and becomes empress in 115 CE while Empress Dowager Deng still holds real power.
+- Early Liu Bao hostility and birth-mother claim: [[zizhi-tongjian-hanji-787-chuanqi-huanghou-yanji-shi-ruhe-yibubu-shangwei-de-lslngjnedmqgh8h5nfc-qmyahqnm|Hanji 787]] says Yan Hou is jealous and poisons the woman who gives birth to Liu Bao.
 - Pre-dowager family access: [[zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1|Hanji 795]] says Yan Hou's brothers receive important offices and command palace guards after the Deng family's fall.
 - Earliest Liu Bao hostility: [[zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn|Hanji 792]] says Yan Hou is hostile when Liu Bao is made crown prince, had killed his birth mother, and tries to obstruct him.
 - Pre-dowager accusation: [[zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy|Hanji 801]] says Yan Hou and Fan Feng fabricate evidence against Liu Bao and his palace officers before Emperor An deposes him.
@@ -59,19 +65,19 @@ The same source shows her first regency choice. Yan Taihou and Yan Xian install 
 
 ## Qualifications
 
-This page is bounded to Hanji 801, Hanji 802, Hanji 803, Hanji 805, Hanji 795, and Hanji 792 and does not reconstruct Yan Taihou's earlier life, full regency, private palace conditions, or true cause of death beyond the restoration crisis. Hanji 792 supports early hostility toward Liu Bao and the source's accusation about his birth mother, but it does not reconstruct the full event. Hanji 795 supports early Yan-family office and guard access but not yet direct policy control by Yan Hou herself. Hanji 801 supports her pre-dowager role in fabricated accusation against Liu Bao; Hanji 802 supports her first death-concealment and child-accession move after Emperor An's death; Hanji 803 supports her second concealment after Beixiang Hou's death; Hanji 805 supports Shun's later legitimacy management. The current judgment does not prove the true cause of Yan Taihou's death.
+This page is bounded to Hanji 787, Hanji 792, Hanji 795, Hanji 801, Hanji 802, Hanji 803, and Hanji 805 and does not reconstruct Yan Taihou's full early life, palace education, selection institution, full regency, private palace conditions, or true cause of death beyond the restoration crisis. Hanji 787 supports Yan Chang's strategy, Yan Ji's entry and empress elevation, and the source's accusation about Liu Bao's birth mother, but it does not independently prove private motive or reconstruct the full killing. Hanji 792 supports continuing hostility toward Liu Bao at the crown-prince appointment. Hanji 795 supports Yan-family office and guard access but not yet direct policy control by Yan Hou herself. Hanji 801 supports her pre-dowager role in fabricated accusation against Liu Bao; Hanji 802 supports her first death-concealment and child-accession move after Emperor An's death; Hanji 803 supports her second concealment after Beixiang Hou's death; Hanji 805 supports Shun's later legitimacy management. The current judgment does not prove the true cause of Yan Taihou's death.
 
 ## What Changed
 
-- Added Hanji 792 as Yan Hou's earliest current layer, establishing hostility toward Liu Bao at his 120 CE crown-prince appointment.
-- Preserved Hanji 795 as the later Yan-family office and guard access layer after the Deng fall.
-- Preserved Hanji 801 as Yan Hou's pre-dowager role in the fabricated-accusation chain that removes Liu Bao from crown-prince status.
-- Added Hanji 802 as Yan Taihou's pre-defeat layer: Emperor An's hidden death, Liu Bao's exclusion, Beixiang Hou's accession, and first Yan-family consolidation.
-- Reframed Hanji 803 as her second concealed-death crisis after Beixiang Hou's own death.
+- Added Hanji 787 as Yan Hou's earliest current layer: Yan Chang's preparation strategy, 114 CE palace entry, 115 CE empress elevation, and Deng-regency approval context.
+- Reframed Yan Hou's later Liu Bao hostility as following an empress-making and family-mobility origin rather than beginning only with the 120 CE crown-prince appointment.
+- Preserved Hanji 792, Hanji 795, and Hanji 801 as the crown-prince hostility, Yan-family access, and fabricated-accusation sequence.
+- Preserved Hanji 802-805 as the concealed-death, child-accession, Shun restoration, and defeated-dowager settlement sequence.
 
 ## Relationships
 
 - [[EmperorAnOfHan|汉安帝]] - ruler whose Liu Bao deposition and later hidden tour death let Yan Hou shape two succession windows.
+- [[YanChangLateHan|阎昌]] - father whose palace-marriage strategy creates Yan Hou's first family-mobility layer.
 - [[EmpressDowagerDengLateHan|和熹邓皇后]] - regency context in which Liu Bao's crown-prince appointment and Yan Hou's hostility first appear.
 - [[DengFamilyAnEraLateHan|邓氏]] - defeated outer-relative network whose fall precedes Yan-family access.
 - [[EmperorShunOfHan|汉顺帝]] - Liu Bao, first harmed by Yan Hou's accusation chain and later restored ruler whose legitimacy could be damaged by mishandling Yan Taihou after victory.
@@ -83,4 +89,5 @@ This page is bounded to Hanji 801, Hanji 802, Hanji 803, Hanji 805, Hanji 795, a
 - [[HeirSupportThreatPerception|储君拥戴威胁感]] - pre-dowager succession-security pattern that helps explain Liu Bao's removal.
 - [[ZhouJuLateHan|周举]] - adviser whose warning redirects the court from isolation toward visible ritual respect.
 - [[SuccessionLegitimacyPurge|继位合法性清洗]] - adjacent purge mechanism around the Yan-backed accession and Shun restoration.
+- [[PalaceMarriageFamilyMobility|后宫婚姻式家族跃迁]] - origin mechanism through which Yan Ji's harem success lifts her natal family into outer-relative politics.
 - [[OuterRelativeCourtPower|外戚专权与清算]] - broader late-Han family-power field behind Yan Taihou's rise and fall.

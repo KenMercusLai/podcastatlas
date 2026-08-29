@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5958
+wiki_total_pages: 5959
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -62,6 +62,9 @@ wiki_pages:
   - key: "PalaceFavoriteProtectionFragility"
     title: "Palace Favorite Protection Fragility / 宫廷宠幸保护脆弱性"
     url: "/wiki/concepts/palacefavoriteprotectionfragility/"
+  - key: "PalaceMarriageFamilyMobility"
+    title: "Palace Marriage Family Mobility / 后宫婚姻式家族跃迁"
+    url: "/wiki/concepts/palacemarriagefamilymobility/"
   - key: "PalaceScandalPowerConsolidation"
     title: "Palace Scandal Power Consolidation / 宫廷丑闻式收权"
     url: "/wiki/concepts/palacescandalpowerconsolidation/"

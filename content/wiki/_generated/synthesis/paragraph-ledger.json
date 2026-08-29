@@ -378,12 +378,13 @@
       "c94dbb4bb11fbc67a68689063a003f4343a0087a9f4a369adf5930530cf3dce6",
       "42b428cd16585fd09c60d93170bb1c95fd3df1b9a2ff7182eb0ec9f1136bfe3d",
       "75db7802851b00335466c237f5c73df15775e7e42e7213db8107b7ed258053a0",
-      "1728ec139408181cbf32d64d0e7235b0b1fbc548128d242cc4265fbc114de8e7"
+      "1728ec139408181cbf32d64d0e7235b0b1fbc548128d242cc4265fbc114de8e7",
+      "c7333d3c02f7065204859f96df77ddef757d5567ab9c1ac2872b8e018c162577"
     ],
-    "paragraph_count": 378
+    "paragraph_count": 379
   },
-  "overview_commit": "fb0fe7d596197da570e294be8fac3218bc84d7c1",
-  "overview_digest": "b54cd8786fcfa3e07b73ecf01dc1f236b769b5859e7a7a4965893bc53d259ec8",
+  "overview_commit": "1f16f51388aaea874749e1f6b53aea755e825641",
+  "overview_digest": "cfc98afd7472de82fc89c7c92cf57745555384e2535298ee66d8872f01138e23",
   "paragraphs": [
     {
       "id": "e4e3b8f13f26be35019adef3fced4108842417c6090816eb8705866e259ba103",
@@ -11712,6 +11713,31 @@
         "QLoRA",
         "SupervisedFineTuning",
         "yi-ge-ren-liang-zhou-shu-bai-meiyuan-ruhe-xun-chu-dengding-hugging-face-de-moxing-duitan-yanjiuyuan-lu-yuxin-lpxxrnwdhgnsrxuyhrfrv5t1lojt"
+      ]
+    },
+    {
+      "id": "c7333d3c02f7065204859f96df77ddef757d5567ab9c1ac2872b8e018c162577",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-787-chuanqi-huanghou-yanji-shi-ruhe-yibubu-shangwei-de-lslngjnedmqgh8h5nfc-qmyahqnm|《资治通鉴·汉纪》787丨传奇皇后阎姬是如何一步步上位的？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 115 CE origin layer before [[zizhi-tongjian-hanji-788-ling-diren-po-da-fang-wan-zhanshu-de-xin-zhen-zang-lvprh9s7aaagf-t2n-m3bp4icqj0|Hanji 788]]. It adds [[YanChangLateHan|阎昌]] and [[PalaceMarriageFamilyMobility|后宫婚姻式家族跃迁]], while extending [[EmpressDowagerYanLateHan|阎太后]], [[PangCanLateHan|庞参]], [[EmperorAnOfHan|汉安帝]], [[EmpressDowagerDengLateHan|和熹邓皇后]], [[EmperorShunOfHan|刘保 / 汉顺帝]], and [[RegencyUnderCompoundCrisis|复合危机下的摄政]]. Its core synthesis is that Yan Ji's later succession role begins with a family-mobility mechanism: Yan Chang trains a daughter for palace selection, Yan Ji must satisfy both imperial favor and Deng-regency approval, and empress rank turns a weakly rooted household toward outer-relative status. No settled contradiction is recorded; the Pang Can/Sima Jun/Du Jigong campaign branch overlaps Hanji 789's 116-117 CE account and remains source-scoped chronology compression.",
+      "topic_scores": {
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "EmperorAnOfHan",
+        "EmperorShunOfHan",
+        "EmpressDowagerDengLateHan",
+        "EmpressDowagerYanLateHan",
+        "PalaceMarriageFamilyMobility",
+        "PangCanLateHan",
+        "RegencyUnderCompoundCrisis",
+        "RuiqiJiangtouZizhiTongjian",
+        "YanChangLateHan",
+        "zizhi-tongjian-hanji-787-chuanqi-huanghou-yanji-shi-ruhe-yibubu-shangwei-de-lslngjnedmqgh8h5nfc-qmyahqnm",
+        "zizhi-tongjian-hanji-788-ling-diren-po-da-fang-wan-zhanshu-de-xin-zhen-zang-lvprh9s7aaagf-t2n-m3bp4icqj0"
       ]
     }
   ],

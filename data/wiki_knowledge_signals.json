@@ -9658,9 +9658,9 @@
       "url": "/wiki/entities/empressdowagerliangnalatehan/"
     },
     "EmpressDowagerYanLateHan": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》805丨通透人性的女人，竟能预测吉凶？ [ll3bZoYrKBtnVt-AQU9NqelqoneW].md",
@@ -9703,9 +9703,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》792丨邓康惹怒太后：打狗为什么要看主人？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》787丨传奇皇后阎姬是如何一步步上位的？ [lsLnGJneDMQGh8h5nFC_QMyaHqNM].md",
+          "key": "zizhi-tongjian-hanji-787-chuanqi-huanghou-yanji-shi-ruhe-yibubu-shangwei-de-lslngjnedmqgh8h5nfc-qmyahqnm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》787丨传奇皇后阎姬是如何一步步上位的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-787-chuanqi-huanghou-yanji-shi-ruhe-yibubu-shangwei-de-lslngjnedmqgh8h5nfc-qmyahqnm/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-08-30",
       "url": "/wiki/entities/empressdowageryanlatehan/"
     },
     "EmpressLiangYingLateHan": {
@@ -22949,6 +22956,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/palacefavoriteprotectionfragility/"
     },
+    "PalaceMarriageFamilyMobility": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》787丨传奇皇后阎姬是如何一步步上位的？ [lsLnGJneDMQGh8h5nFC_QMyaHqNM].md",
+          "key": "zizhi-tongjian-hanji-787-chuanqi-huanghou-yanji-shi-ruhe-yibubu-shangwei-de-lslngjnedmqgh8h5nfc-qmyahqnm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》787丨传奇皇后阎姬是如何一步步上位的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-787-chuanqi-huanghou-yanji-shi-ruhe-yibubu-shangwei-de-lslngjnedmqgh8h5nfc-qmyahqnm/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/palacemarriagefamilymobility/"
+    },
     "PalaceProximityPower": {
       "episode_count": 4,
       "show_count": 1,
@@ -23003,9 +23026,9 @@
       "url": "/wiki/entities/panhonglatehan/"
     },
     "PangCanLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》815丨可悲！古代重臣的家风之殇！ [llKHbXo_-63PJw_gK9PihnBFr94V].md",
@@ -23020,6 +23043,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》789丨善良没有底线，你将一文不值",
           "url": "/wiki/sources/zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》787丨传奇皇后阎姬是如何一步步上位的？ [lsLnGJneDMQGh8h5nFC_QMyaHqNM].md",
+          "key": "zizhi-tongjian-hanji-787-chuanqi-huanghou-yanji-shi-ruhe-yibubu-shangwei-de-lslngjnedmqgh8h5nfc-qmyahqnm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》787丨传奇皇后阎姬是如何一步步上位的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-787-chuanqi-huanghou-yanji-shi-ruhe-yibubu-shangwei-de-lslngjnedmqgh8h5nfc-qmyahqnm/"
         }
       ],
       "updated": "2026-08-30",
@@ -33561,6 +33591,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/yanbaihu/"
+    },
+    "YanChangLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》787丨传奇皇后阎姬是如何一步步上位的？ [lsLnGJneDMQGh8h5nFC_QMyaHqNM].md",
+          "key": "zizhi-tongjian-hanji-787-chuanqi-huanghou-yanji-shi-ruhe-yibubu-shangwei-de-lslngjnedmqgh8h5nfc-qmyahqnm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》787丨传奇皇后阎姬是如何一步步上位的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-787-chuanqi-huanghou-yanji-shi-ruhe-yibubu-shangwei-de-lslngjnedmqgh8h5nfc-qmyahqnm/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/yanchanglatehan/"
     },
     "YanDuLateHan": {
       "episode_count": 1,
