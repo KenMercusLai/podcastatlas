@@ -13712,3 +13712,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-30] ingest | 《资治通鉴·汉纪》779丨历史告诉你：用错人竟会亡国灭家？
+
+Ingested the 2026-07-04 芮淇讲透资治通鉴 episode on the talent-virtue distinction, Fan Zhun's Confucian education memorial, Lu Gong's judicial-calendar reform, Ren Shang's failed Western Regions handoff from Ban Chao, Liang Jin's Qiuci rescue, Duan Xi's replacement protectorate, and the court's cost-driven abandonment of the Western Regions. Created the source note plus `LiangJinLateHan`, `DuanXiLateHan`, and `QiuciKingdom`; updated `FanZhunLateHan`, `LuGongLateHan`, `BanChaoEasternHan`, `RenShangLateHan`, `EmpressDowagerDengLateHan`, `TalentVirtueDistinction`, `AppointmentQualityAsStateCapacity`, `StrategicFrontierAbandonment`, `RegencyUnderCompoundCrisis`, `index`, and `overview`. No settled contradiction found; 反准 is normalized to 樊准, the Qinghe prince Liu Qing remains source-scoped to avoid collision with the modern Liu Qing page, and Ba Ba, Pan Tuo, Gumo, Wensu, Zhao Bo, Liu Changbao, and exact minor office/date details remain source-scoped.
+
+## [2026-08-30] lint | Wiki health check
+
+Ran lint without saving a new lint-report.md. Deterministic and graph-aware checks completed; semantic lint was unavailable because LLM_MODEL/provider credentials were not configured.

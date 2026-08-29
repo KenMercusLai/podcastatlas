@@ -2628,9 +2628,9 @@
       "url": "/wiki/concepts/applicationcompanymodelcapability/"
     },
     "AppointmentQualityAsStateCapacity": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》854丨历史告诉你：选官用官很重要！ [lhiN-IwK6y1XR8VvzdmnJch3s2uM].md",
@@ -2687,9 +2687,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》811丨古代皇帝竟靠抽签选皇后？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-811-gudai-huangdi-jing-kao-chouqian-xuan-huanghou-lghfih9xcrjyrvdlb4obdxvwhl1y/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》779丨历史告诉你：用错人竟会亡国灭家？ [liwE_SYvnY7Vfmn4XPy24MgVd_z6].md",
+          "key": "zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》779丨历史告诉你：用错人竟会亡国灭家？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-08-30",
       "url": "/wiki/concepts/appointmentqualityasstatecapacity/"
     },
     "ApprenticeshipBeforeOriginality": {
@@ -3224,9 +3231,9 @@
       "url": "/wiki/entities/baimarelieflatehan/"
     },
     "BanChaoEasternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》780丨最多灾多难的时代：东汉 [lvGCuMRFJbLrOFER532EES3TDOa_].md",
@@ -3234,6 +3241,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》780丨最多灾多难的时代：东汉",
           "url": "/wiki/sources/zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》779丨历史告诉你：用错人竟会亡国灭家？ [liwE_SYvnY7Vfmn4XPy24MgVd_z6].md",
+          "key": "zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》779丨历史告诉你：用错人竟会亡国灭家？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6/"
         }
       ],
       "updated": "2026-08-30",
@@ -8774,6 +8788,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/duanjionglatehan/"
     },
+    "DuanXiLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》779丨历史告诉你：用错人竟会亡国灭家？ [liwE_SYvnY7Vfmn4XPy24MgVd_z6].md",
+          "key": "zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》779丨历史告诉你：用错人竟会亡国灭家？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/duanxilatehan/"
+    },
     "DullDirtyDangerousRobotics": {
       "episode_count": 1,
       "show_count": 1,
@@ -9832,9 +9862,9 @@
       "url": "/wiki/entities/empressdenghuanlatehan/"
     },
     "EmpressDowagerDengLateHan": {
-      "episode_count": 14,
+      "episode_count": 15,
       "show_count": 1,
-      "source_note_count": 14,
+      "source_note_count": 15,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》795丨邓家灭亡后，为何举朝为他们鸣冤？ [lqVmBQrrOOKphB4beCaQbP7h_Wi1].md",
@@ -9933,6 +9963,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》780丨最多灾多难的时代：东汉",
           "url": "/wiki/sources/zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》779丨历史告诉你：用错人竟会亡国灭家？ [liwE_SYvnY7Vfmn4XPy24MgVd_z6].md",
+          "key": "zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》779丨历史告诉你：用错人竟会亡国灭家？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6/"
         }
       ],
       "updated": "2026-08-30",
@@ -10849,9 +10886,9 @@
       "url": "/wiki/entities/fanyinglatehan/"
     },
     "FanZhunLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》781丨“愚善”，才是人对己最大的恶 [luvAw93hNNXcbgFnwGSjb7X0hlqZ].md",
@@ -10859,6 +10896,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》781丨“愚善”，才是人对己最大的恶",
           "url": "/wiki/sources/zizhi-tongjian-hanji-781-yushan-cai-shi-ren-dui-ji-zui-da-de-e-luvaw93hnnxcbgfnwgsjb7x0hlqz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》779丨历史告诉你：用错人竟会亡国灭家？ [liwE_SYvnY7Vfmn4XPy24MgVd_z6].md",
+          "key": "zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》779丨历史告诉你：用错人竟会亡国灭家？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6/"
         }
       ],
       "updated": "2026-08-30",
@@ -18478,6 +18522,29 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/liangjilatehan/"
     },
+    "LiangJinLateHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》781丨“愚善”，才是人对己最大的恶 [luvAw93hNNXcbgFnwGSjb7X0hlqZ].md",
+          "key": "zizhi-tongjian-hanji-781-yushan-cai-shi-ren-dui-ji-zui-da-de-e-luvaw93hnnxcbgfnwgsjb7x0hlqz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》781丨“愚善”，才是人对己最大的恶",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-781-yushan-cai-shi-ren-dui-ji-zui-da-de-e-luvaw93hnnxcbgfnwgsjb7x0hlqz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》779丨历史告诉你：用错人竟会亡国灭家？ [liwE_SYvnY7Vfmn4XPy24MgVd_z6].md",
+          "key": "zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》779丨历史告诉你：用错人竟会亡国灭家？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/liangjinlatehan/"
+    },
     "LiangShangLateHan": {
       "episode_count": 6,
       "show_count": 1,
@@ -19935,9 +20002,9 @@
       "url": "/wiki/concepts/loyaltycollateraldilemma/"
     },
     "LuGongLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》782丨揭秘东汉奇女子艰难的太后生涯 [lgFLjuX9AAOCpTbHXVVIfItrgXcY].md",
@@ -19945,6 +20012,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》782丨揭秘东汉奇女子艰难的太后生涯",
           "url": "/wiki/sources/zizhi-tongjian-hanji-782-jiemi-donghan-qi-nvzi-jiannan-de-taihou-shengya-lgfljux9aaocptbhxvvifitrgxcy/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》779丨历史告诉你：用错人竟会亡国灭家？ [liwE_SYvnY7Vfmn4XPy24MgVd_z6].md",
+          "key": "zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》779丨历史告诉你：用错人竟会亡国灭家？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6/"
         }
       ],
       "updated": "2026-08-30",
@@ -25628,6 +25702,29 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/qiuxianglatehan/"
     },
+    "QiuciKingdom": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》790丨历史告诉你：如何和领导打交道？ [luLf0R1SdKOD3luZWRU0_KKrIjXK].md",
+          "key": "zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》790丨历史告诉你：如何和领导打交道？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》779丨历史告诉你：用错人竟会亡国灭家？ [liwE_SYvnY7Vfmn4XPy24MgVd_z6].md",
+          "key": "zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》779丨历史告诉你：用错人竟会亡国灭家？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/qiucikingdom/"
+    },
     "Qiuzhen": {
       "episode_count": 1,
       "show_count": 1,
@@ -25993,9 +26090,9 @@
       "url": "/wiki/concepts/recurrencefreesurvivalendpoint/"
     },
     "RegencyUnderCompoundCrisis": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 1,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》793丨历史著名女皇邓绥怎么死的？ [lsZFgj7waiUUsrD_DZjmV5mBRP1I].md",
@@ -26080,6 +26177,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》780丨最多灾多难的时代：东汉",
           "url": "/wiki/sources/zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》779丨历史告诉你：用错人竟会亡国灭家？ [liwE_SYvnY7Vfmn4XPy24MgVd_z6].md",
+          "key": "zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》779丨历史告诉你：用错人竟会亡国灭家？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6/"
         }
       ],
       "updated": "2026-08-30",
@@ -26189,9 +26293,9 @@
       "url": "/wiki/entities/renjunluoyanglatehan/"
     },
     "RenShangLateHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》790丨历史告诉你：如何和领导打交道？ [luLf0R1SdKOD3luZWRU0_KKrIjXK].md",
@@ -26220,6 +26324,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》782丨揭秘东汉奇女子艰难的太后生涯",
           "url": "/wiki/sources/zizhi-tongjian-hanji-782-jiemi-donghan-qi-nvzi-jiannan-de-taihou-shengya-lgfljux9aaocptbhxvvifitrgxcy/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》779丨历史告诉你：用错人竟会亡国灭家？ [liwE_SYvnY7Vfmn4XPy24MgVd_z6].md",
+          "key": "zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》779丨历史告诉你：用错人竟会亡国灭家？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6/"
         }
       ],
       "updated": "2026-08-30",
@@ -28949,9 +29060,9 @@
       "url": "/wiki/concepts/strategicemotionconcealment/"
     },
     "StrategicFrontierAbandonment": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》934丨杀一人则天下安，你杀不杀？ [ltaR8hVDKqCt8oizm3k22Z38B1v8].md",
@@ -29008,6 +29119,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》780丨最多灾多难的时代：东汉",
           "url": "/wiki/sources/zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》779丨历史告诉你：用错人竟会亡国灭家？ [liwE_SYvnY7Vfmn4XPy24MgVd_z6].md",
+          "key": "zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》779丨历史告诉你：用错人竟会亡国灭家？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6/"
         }
       ],
       "updated": "2026-08-30",
@@ -30050,6 +30168,71 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/talentsummonsrulerselfexamination/"
+    },
+    "TalentVirtueDistinction": {
+      "episode_count": 8,
+      "show_count": 1,
+      "source_note_count": 8,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》154｜典故“陈平盗嫂”另有隐情？ [li_C6eZwFpeJcvbrpzOjg_xv2gE8].md",
+          "key": "zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》154｜典故“陈平盗嫂”另有隐情？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》47丨燕王哙的理想主义 [lhGl6Rqkv9NONzxc9xQqUzzlz5Pr].md",
+          "key": "zizhi-tongjian-zhouji-47-yanwangkuai-de-lixiangzhuyi-lhgl6rqkv9nonzxc9xqquzzlz5pr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》47丨燕王哙的理想主义",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-47-yanwangkuai-de-lixiangzhuyi-lhgl6rqkv9nonzxc9xqquzzlz5pr/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》63丨 德高望重孟尝君是伪君子？ [lmD0owe3RQ_FAPOnBwZhkAiGpRiN].md",
+          "key": "zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》63丨 德高望重孟尝君是伪君子？",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》56丨 瞧瞧两千多年前啥是大丈夫 [ltoKbuTqGSnRNo-y29xMzWa3DA41].md",
+          "key": "zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》56丨 瞧瞧两千多年前啥是大丈夫",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》52丨 陈庄叛秦 端起碗吃饭放下碗骂娘 [ls13iXMBhFlepjGpeLxgu6IDJQA2].md",
+          "key": "zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》52丨 陈庄叛秦 端起碗吃饭放下碗骂娘",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》06丨魏文侯选谁当宰相呢（1） [lk-6eJGMjhvuKQgTLZ2LOwU8QX_V].md",
+          "key": "zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》06丨魏文侯选谁当宰相呢（1）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》04｜豫让 为智瑶复仇 [ln34tYdHa6IQwlRGmW7iUGqFgFik].md",
+          "key": "zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》04｜豫让 为智瑶复仇",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》779丨历史告诉你：用错人竟会亡国灭家？ [liwE_SYvnY7Vfmn4XPy24MgVd_z6].md",
+          "key": "zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》779丨历史告诉你：用错人竟会亡国灭家？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/talentvirtuedistinction/"
     },
     "TanDing": {
       "episode_count": 1,

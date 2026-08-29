@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "005e9bbcb5249cef48f139653d6b9cfca844f71bf23ee2268e1ceba4cdd1def9",
       "2a7b1aeee15529a29d50bef2ddb7c7e393c1e33c28212d0cd75e8c09628037b2",
       "9e750c18ecea5b57bc7f788216676407f1d0f5829da5764f431a0759bbb02269",
       "9dba460fee1726825853ac474cc0b952fb398e9e3548a1af1470db6a1f913bdf",
@@ -388,11 +389,41 @@
       "fa2bb49857ac26cb533ae14a4cc21fb8c9bcedab808a46832dcf8b31ade00a18",
       "4aec524162783153bd9de6fc8aaf28b4b45a60c3433caa62e6442f020af99d44"
     ],
-    "paragraph_count": 386
+    "paragraph_count": 387
   },
-  "overview_commit": "3cd2854afa668c72babf29b26537a3c4df28610d",
-  "overview_digest": "f5856992928158f18938741af2324ef70c84f9ee517e585e41c3f2e17c4ea39c",
+  "overview_commit": "2f53ba0a7c5affda32f273cbac781e3a9a48e4cd",
+  "overview_digest": "7a8ab40f183c9288c7842e6e8214ed873ac3a57e72befd819eae1771a6df33c4",
   "paragraphs": [
+    {
+      "id": "005e9bbcb5249cef48f139653d6b9cfca844f71bf23ee2268e1ceba4cdd1def9",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6|《资治通鉴·汉纪》779丨历史告诉你：用错人竟会亡国灭家？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 106-107 CE [[EmpressDowagerDengLateHan|和熹邓皇后]] regency layer immediately before [[zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa|Hanji 780]]. It adds [[LiangJinLateHan|梁慬]], [[DuanXiLateHan|段禧]], and [[QiuciKingdom|龟兹]], while extending [[FanZhunLateHan|樊准]], [[LuGongLateHan|鲁恭]], [[BanChaoEasternHan|班超]], [[RenShangLateHan|任尚]], [[EmpressDowagerDengLateHan|和熹邓皇后]], [[TalentVirtueDistinction|才德之分]], [[AppointmentQualityAsStateCapacity|任官适任性国家能力]], [[StrategicFrontierAbandonment|弃边失屏]], and [[RegencyUnderCompoundCrisis|复合危机下的摄政]]. Its core synthesis is that \"用错人\" is a governance-capacity problem: Fan Zhun and Lu Gong show repair through correctly matched advisers, while Ren Shang's military reputation becomes dangerous when he ignores Ban Chao's light-touch Western Regions advice and turns local balancing into rebellion, rescue cost, and eventual withdrawal. No settled contradiction is recorded; the source's 反准 is normalized to 樊准, the Qinghe prince Liu Qing remains source-scoped to avoid collision with [[LiuQing|刘擎]], and Ba Ba, Pan Tuo, Gumo, Wensu, Zhao Bo, and exact minor dates remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 2
+      },
+      "wikilinks": [
+        "AppointmentQualityAsStateCapacity",
+        "BanChaoEasternHan",
+        "DuanXiLateHan",
+        "EmpressDowagerDengLateHan",
+        "FanZhunLateHan",
+        "LiangJinLateHan",
+        "LiuQing",
+        "LuGongLateHan",
+        "QiuciKingdom",
+        "RegencyUnderCompoundCrisis",
+        "RenShangLateHan",
+        "RuiqiJiangtouZizhiTongjian",
+        "StrategicFrontierAbandonment",
+        "TalentVirtueDistinction",
+        "zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6",
+        "zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa"
+      ]
+    },
     {
       "id": "2a7b1aeee15529a29d50bef2ddb7c7e393c1e33c28212d0cd75e8c09628037b2",
       "primary_topic": "governance-and-institutions",
