@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 5957
+wiki_total_pages: 5958
 wiki_pages:
   - key: "ICEWorkforceExpansion"
     title: "ICE Workforce Expansion"
@@ -176,6 +176,9 @@ wiki_pages:
   - key: "IncompleteContract"
     title: "Incomplete Contract / 不完全契约"
     url: "/wiki/concepts/incompletecontract/"
+  - key: "IncreasingStovesDeception"
+    title: "Increasing Stoves Deception / 增灶示强"
+    url: "/wiki/concepts/increasingstovesdeception/"
   - key: "IncumbentPlatformPressure"
     title: "Incumbent Platform Pressure"
     url: "/wiki/concepts/incumbentplatformpressure/"

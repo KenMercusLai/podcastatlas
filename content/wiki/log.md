@@ -13624,3 +13624,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-30] ingest | 《资治通鉴·汉纪》788丨令敌人破大防！玩战术的心真脏？！
+
+Ingested the 2026-07-06 芮淇讲透资治通鉴 episode on Yu Xu's Wudu appointment, cavalry-mobility advice adopted through Ren Shang, false-delay and increasing-stoves deception, Chiting defense with concealed crossbows, fake reinforcements and half-river ambush, Deng Hong's restrained posthumous handling, and Deng-regency earthquake, Wuling, and office-turnover pressure. Created the source note plus `WuduCommanderyLateHan`, `ChitingDefenseLateHan`, `DengHongLateHan`, and `IncreasingStovesDeception`; updated `YuXuEasternHan`, `RenShangLateHan`, `EmpressDowagerDengLateHan`, `RegencyUnderCompoundCrisis`, `HanCavalryFormation`, `LiuKaiEasternHan`, `YuanChangLateHan`, `index`, and `overview`. No settled contradiction found; 于许 is normalized to `YuXuEasternHan`, Wudu Commandery is disambiguated from `Wudu`, and Xia Qin, Deng Guangde, unnamed Qiang actors, exact place details, and casualty figures remain source-scoped.
+
+## [2026-08-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

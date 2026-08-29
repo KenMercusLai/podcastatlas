@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 8346
+wiki_total_pages: 8349
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -827,6 +827,9 @@ wiki_pages:
   - key: "WusuiWarringStates"
     title: "武遂 / Wusui (Warring States)"
     url: "/wiki/entities/wusuiwarringstates/"
+  - key: "WuduCommanderyLateHan"
+    title: "武都郡 / Wudu Commandery (late Han)"
+    url: "/wiki/entities/wuducommanderylatehan/"
   - key: "WuyangJun"
     title: "武阳君 / Wuyang Jun"
     url: "/wiki/entities/wuyangjun/"

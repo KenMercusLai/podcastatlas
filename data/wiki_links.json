@@ -10367,6 +10367,10 @@
     "title": "赤松子 / Chisongzi",
     "url": "/wiki/entities/chisongzi/"
   },
+  "ChitingDefenseLateHan": {
+    "title": "赤亭守战 / Chiting Defense (late Han)",
+    "url": "/wiki/entities/chitingdefenselatehan/"
+  },
   "ChivalricTournamentCulture": {
     "title": "Chivalric Tournament Culture / 骑士比武文化",
     "url": "/wiki/concepts/chivalrictournamentculture/"
@@ -13942,6 +13946,10 @@
   "DengFamilyAnEraLateHan": {
     "title": "邓氏 / Deng Family (An-era late Han)",
     "url": "/wiki/entities/dengfamilyaneralatehan/"
+  },
+  "DengHongLateHan": {
+    "title": "邓鸿 / Deng Hong (late Han)",
+    "url": "/wiki/entities/denghonglatehan/"
   },
   "DengJiLateHan": {
     "title": "邓济 / Deng Ji (late Han)",
@@ -24558,6 +24566,10 @@
   "Incorruptible": {
     "title": "Incorruptible",
     "url": "/wiki/entities/incorruptible/"
+  },
+  "IncreasingStovesDeception": {
+    "title": "Increasing Stoves Deception / 增灶示强",
+    "url": "/wiki/concepts/increasingstovesdeception/"
   },
   "IncumbentPlatformPressure": {
     "title": "Incumbent Platform Pressure",
@@ -54287,6 +54299,10 @@
     "title": "《五蠹》 / Wu Du",
     "url": "/wiki/entities/wudu/"
   },
+  "WuduCommanderyLateHan": {
+    "title": "武都郡 / Wudu Commandery (late Han)",
+    "url": "/wiki/entities/wuducommanderylatehan/"
+  },
   "WuguPoliticalPanic": {
     "title": "Wugu Political Panic / 巫蛊政治恐慌",
     "url": "/wiki/concepts/wugupoliticalpanic/"
@@ -62302,6 +62318,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-788-ling-diren-po-da-fang-wan-zhanshu-de-xin-zhen-zang-lvprh9s7aaagf-t2n-m3bp4icqj0": {
+    "title": "《资治通鉴·汉纪》788丨令敌人破大防！玩战术的心真脏？！",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-788-ling-diren-po-da-fang-wan-zhanshu-de-xin-zhen-zang-lvprh9s7aaagf-t2n-m3bp4icqj0/"
   },
   "zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi": {
     "title": "《资治通鉴·汉纪》789丨善良没有底线，你将一文不值",

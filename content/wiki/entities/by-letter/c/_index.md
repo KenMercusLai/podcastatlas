@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 8346
+wiki_total_pages: 8349
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -1580,6 +1580,9 @@ wiki_pages:
   - key: "CaixinMedia"
     title: "财新传媒 / Caixin Media"
     url: "/wiki/entities/caixinmedia/"
+  - key: "ChitingDefenseLateHan"
+    title: "赤亭守战 / Chiting Defense (late Han)"
+    url: "/wiki/entities/chitingdefenselatehan/"
   - key: "Chisongzi"
     title: "赤松子 / Chisongzi"
     url: "/wiki/entities/chisongzi/"
