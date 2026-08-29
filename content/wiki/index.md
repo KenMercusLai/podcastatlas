@@ -165,6 +165,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》1048丨许攸叛袁献计：官渡战局的惊天变数](sources/zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju.md) — 芮淇讲透资治通鉴 episode on Cao Cao's depleted Guandu supply position, Xun Yu's hold-fast counsel, Xun You's Han Meng convoy strike, Ju Shou's ignored protection warning, Xu You's rejected Xudu raid proposal, and the family-arrest-triggered defection that exposes Wuchao.
 - [《资治通鉴·汉纪》1049丨官渡之战结局揭幕，曹操终于以弱胜强](sources/zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m.md) — 芮淇讲透资治通鉴 episode on Cao Cao's Wuchao night raid, Yuan Shao's mistaken allocation between rescue and Cao-camp attack, Chunyu Qiong's capture and execution, Guo Tu's slander, Zhang He and Gao Lan's surrender, Yuan Shao's flight, and Ju Shou's captured-loyalist ending.
 - [《资治通鉴·汉纪》1050丨从曹操焚信学习宝贵的领导智慧](sources/zizhi-tongjian-hanji-1050-cong-caocao-fenxin-xuexi-baogui-de-lingdao-zhihui-lsqg-qaxozjpaxyukrvxbtf-mcse.md) — 芮淇讲透资治通鉴 episode on Cao Cao burning insider letters after Guandu, Tian Feng's death after Feng Ji's slander, Liu Bang's correction after Lou Jing's warning, and Shen Pei's captured-sons suspicion.
+- [《资治通鉴·汉纪》1054丨惊叹！曹操、袁绍、刘备的命运转折](sources/zizhi-tongjian-hanji-1054-jingtan-caocao-yuanshao-liubei-de-mingyun-zhuanzhe-lmd2yjre-cwdbxky2ht5o0n4g6fk.md) — 芮淇讲透资治通鉴 episode on Xun Yu steering Cao Cao toward continued pressure on Yuan Shao after Guandu, Cangting's post-Guandu victory, Liu Bei's Xinye dormancy under Liu Biao, and Zhang Liao's persuasion of Chang Xi.
 - [腾讯、阿里、字节争夺打工人，互联网大厂为何集体加码 AI 办公？](sources/tengxun-ali-zijie-zhengduo-dagongren-hulianwang-dachang-weihe-jiti-jiama-ai-bangong-1008598460.md) — 声动早咖啡 episode on Tencent, Alibaba, and ByteDance shifting from consumer AI chatbots toward AI office products because agents, coding proof, token costs, enterprise context, and payment uncertainty make office workflows the new AI battleground.
 - [E46 我们从未看见彼此](sources/e46-women-congwei-kanjian-bici-lmliksaiwxakmjbn-p2voaaoenxh.md) — 无人知晓 solo episode on AI-era expression, the film 《好朋友们》, evolved intelligence, interpersonal projection, language labels, algorithmic amplification, and Krishnamurti's total attention.
 - [The $1/Hour Worker: Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs](sources/all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680.md) — All-In robotics special on Anybotics, 1X, Boston Dynamics, and Agility Robotics across industrial inspection, home humanoids, warehouse humanoids, teleoperation, robot data, safety, sovereignty, and dangerous-work automation.
@@ -2047,7 +2048,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [朱灵 / Zhu Ling (late Han)](entities/ZhuLingLateHan.md) — Cao-side officer sent with Liu Bei to intercept Yuan Shu in Hanji 1040.
 - [刘岱 / Liu Dai (Sikong changshi)](entities/LiuDaiSikongZhangshi.md) — Disambiguated Cao-side officer sent with Wang Zhong against Liu Bei in 200 CE.
 - [王忠 / Wang Zhong (late Han)](entities/WangZhongLateHan.md) — Zhonglangjiang in Cao Cao's failed first attack on Liu Bei after the Xuzhou breakaway.
-- [昌豨 / Chang Xi (late Han)](entities/ChangXiLateHan.md) — East Sea local armed leader who joins Liu Bei after the Xuzhou shift.
+- [昌豨 / Chang Xi (late Han)](entities/ChangXiLateHan.md) — East Sea / Donghai local armed leader whose branch now runs from supporting Liu Bei after the Xuzhou shift to surrendering under Zhang Liao's guarantee and rebelling again.
 - [王服 / Wang Fu (Dong Cheng plot)](entities/WangFuDongChengPlot.md) — Disambiguated anti-Cao conspirator executed after the Dong Cheng plot is exposed.
 - [种辑 / Zhong Ji (late Han)](entities/ZhongJiLateHan.md) — Dong Cheng plot participant rendered as "崇基" in the Hanji 1040 transcript.
 - [吴子兰 / Wu Zilan (late Han)](entities/WuZilanLateHan.md) — Dong Cheng plot participant rendered as "吴子澜" in the Hanji 1040 transcript.
@@ -2413,6 +2414,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [汴水之战 / Bianshui Battle (late Han)](entities/BianshuiBattleLateHan.md) — Cao Cao's early anti-Dong-Zhuo defeat by Xu Rong, remembered here for Cao Hong's rescue and Cao's later coalition critique.
 - [酸枣大营 / Suanzao Camp](entities/SuanzaoCamp.md) — anti-Dong-Zhuo coalition camp whose inaction and grain failure expose the limits of shared-enemy mobilization.
 - [襄阳 / Xiangyang (late Han)](entities/XiangyangLateHan.md) — Liu Biao's Jingzhou administrative base after the initial consolidation in Hanji 953.
+- [新野 / Xinye (late Han)](entities/XinyeLateHan.md) — Northern Jingzhou post where Liu Biao stations Liu Bei after defeat, functioning as both refuge and frontline buffer.
 - [高干 / Gao Gan (late Han)](entities/GaoGanLateHan.md) — Yuan Shao's nephew sent with Han Fu insiders to pressure Han Fu into yielding Jizhou.
 - [辛评 / Xin Ping (late Han)](entities/XinPingLateHan.md) — Han Fu-side insider used in Yuan Shao's persuasion mission before the Jizhou transfer.
 - [耿武 / Geng Wu (late Han)](entities/GengWuLateHan.md) — Han Fu subordinate who argues against yielding Jizhou and dies trying to block Yuan Shao.
@@ -2584,8 +2586,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [范仪 / Fan Yi (Late Han)](entities/FanYiLateHan.md) — Lü Bu-side entrant killed by Jin Yun's ambush at Fan County during the Yanzhou crisis.
 - [范县 / Fan County (Late Han)](entities/FanCountyLateHan.md) — Remaining Cao-side Yanzhou county preserved when Jin Yun kills Fan Yi after Cheng Yu's persuasion.
 - [夏侯惇 / Xiahou Dun](entities/XiahouDun.md) — Cao-side commander who warns Xun Yu that leaving Juancheng to meet Guo Gong could risk the city's main stabilizing figure.
+- [夏侯渊 / Xiahou Yuan](entities/XiahouYuan.md) — Cao-side commander sent with Zhang Liao to besiege Chang Xi in Donghai.
 - [许众 / Xu Zhong (Jin commentator)](entities/XuZhongJin.md) — Later commentator whose criticism of Jin Yun frames the Fan County case as a filial-duty and loyalty dilemma.
 - [仓亭津 / Cangting Ford (Late Han)](entities/CangtingFordLateHan.md) — Yellow River crossing where Cheng Yu blocks Chen Gong's advance toward Dong'e and Cao Cao's remaining Yanzhou base.
+- [苍亭之战 / Cangting Battle (late Han)](entities/CangtingBattleLateHan.md) — Post-Guandu battle where Cao Cao keeps pressure on Yuan Shao after Xun Yu's threat-sequencing advice.
 - [东阿 / Dong'e (Late Han)](entities/DongALateHan.md) — Yanzhou city defended by Zao Zhi and Cheng Yu during Cao Cao's 194 CE base crisis.
 - [鄄城 / Juancheng (Late Han)](entities/JuanchengLateHan.md) — Yanzhou stronghold and missed Lü Bu target in Cao Cao's assessment of the 194 CE crisis.
 - [侯汶 / Hou Wen (late Han)](entities/HouWenLateHan.md) — Attendant censor accused by Emperor Xian's gruel test of diverting Chang'an famine relief grain.
@@ -2994,7 +2998,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [伏完 / Fu Wan (late Han)](entities/FuWanLateHan.md) — Fu Shou's father, appointed zhijinwu when Emperor Xian names her empress under Li-Guo coercion in Hanji 985.
 - [士孙瑞 / Shi Sun Rui (late Han)](entities/ShiSunRuiLateHan.md) — Court official killed during Emperor Xian's flight after earlier surviving the Dong Zhuo assassination aftermath.
 - [曹安民 / Cao Anmin](entities/CaoAnmin.md) — Cao Cao nephew killed in the Wancheng night attack alongside Cao Ang and Dian Wei.
-- [刘表 / Liu Biao](entities/LiuBiao.md) — Late-Han Jingzhou ruler read as politically skillful at defensive governance but limited by indecision, suspicion, and Guandu-era fence-sitting exposure.
+- [刘表 / Liu Biao](entities/LiuBiao.md) — Late-Han Jingzhou ruler read as defensively capable and shelter-providing, but limited by indecision, suspicion, Guandu-era fence-sitting exposure, and hosted-rival risk.
 - [于禁 / Yu Jin](entities/YuJin.md) — Cao Cao general whose Wancheng branch includes Hanji 1013 pursuit relief and Hanji 1014 retreat discipline, civilian protection, camp defense, and reward.
 - [丁夫人 / Lady Ding (Cao Cao)](entities/LadyDingCaoCao.md) — Cao Cao's original wife and Cao Ang's foster mother; Hanji 1014 ties Cao Ang's death to the household rupture.
 - [卞夫人 / Lady Bian (Cao Cao)](entities/LadyBianCaoCao.md) — Cao Cao wife who later becomes formal wife after Lady Ding's rupture, source-scoped through Hanji 1014's household list.
@@ -3075,7 +3079,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [郝萌 / Hao Meng](entities/HaoMeng.md) — Lü Bu subordinate whose Xiapi night revolt exposes the fragility of Lü Bu's command before Gao Shun and Cao Xing suppress it.
 - [曹性 / Cao Xing (late Han)](entities/CaoXingLateHan.md) — Hao Meng subordinate who turns against the revolt, wounds Hao Meng, and accuses Yuan Shu and Chen Gong of involvement.
 - [陈宫 / Chen Gong (late Han)](entities/ChenGongLateHan.md) — Yanzhou elite/adviser figure who helps invite Lü Bu against Cao Cao and later remains a gentry counterweight Lü Bu cannot easily discard.
-- [张辽 / Zhang Liao](entities/ZhangLiao.md) — Bingzhou-origin Lü Bu subordinate used in Hanji 1000 as part of the military-core faction balancing Chen Gong's gentry channel.
+- [张辽 / Zhang Liao](entities/ZhangLiao.md) — Bingzhou-origin Lü Bu subordinate later incorporated by Cao Cao, whose Hanji 1054 branch adds battlefield observation and surrender persuasion of Chang Xi.
 - [高顺 / Gao Shun](entities/GaoShun.md) — Loyal Lü Bu subordinate whose suppression of Hao Meng's revolt, disciplined 陷阵营, and ignored warning sharpen Lü Bu's personnel-judgment failure.
 - [魏续 / Wei Xu (late Han)](entities/WeiXuLateHan.md) — Lü Bu's trusted subordinate contrasted with Gao Shun through troop transfer, command dependence, and later betrayal risk.
 - [袁术 / Yuan Shu](entities/YuanShu.md) — Late-Han powerholder whose suspicion cuts Sun Jian's grain before his later resource manipulation, seal-backed imperial ambition, anti-usurpation pressure, and collapse.
@@ -10200,12 +10204,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Vienna Social Housing Scale](concepts/ViennaSocialHousingScale.md) — Large nonprofit, cooperative, supported, and rent-controlled housing supply as a citywide rent-market intervention.
 - [Consortio Group Financing](concepts/ConsortioGroupFinancing.md) — Brazilian formal group self-financing system for large purchases using contracts, bank organization, fees, and drawings.
 - [Institutional Policy Pluralism](concepts/InstitutionalPolicyPluralism.md) — Comparative-economics frame where shared principles are implemented through different local institutions.
-- [Force-Backed Surrender Persuasion / 武力背书式劝降](concepts/ForceBackedSurrenderPersuasion.md) — Hanji 1039 pattern where respectful persuasion, material asymmetry, precedent, and a deadline make surrender the least damaging option under military pressure.
+- [Force-Backed Surrender Persuasion / 武力背书式劝降](concepts/ForceBackedSurrenderPersuasion.md) — Pattern where respect or old ties, material asymmetry, decision pressure, and credible guarantees make surrender the least damaging option under military pressure.
 - [Surrender as Civilian-Protection Tradeoff / 献城保民权衡](concepts/SurrenderAsCivilianProtectionTradeoff.md) — Ethical-political frame for judging surrender against civilian harm from unwinnable resistance rather than only against loyalist ideals.
 - [Captive Submission with Residual Loyalty / 被俘归顺与旧主忠义](concepts/CaptiveSubmissionResidualLoyalty.md) — Hanji 1041-1044 pattern where captured service under a new power coexists with stated prior loyalty, White Horse repayment merit, and gift-sealing exit.
 - [Latent Rival Recognition / 潜在强敌识别](concepts/LatentRivalRecognition.md) — Strategy pattern of reading future threat in a currently weak but resilient actor, created from Cao Cao's judgment of Liu Bei.
 - [Crisis Composure Cover Story / 临场定力与借势遮掩](concepts/CrisisComposureCoverStory.md) — Self-protection pattern where a visible fear response is quickly explained through a plausible scene cue.
 - [Dangerous Guest Release Risk / 放虎归山式宾客释放风险](concepts/DangerousGuestReleaseRisk.md) — Failure mode where a sheltered high-potential actor is released with enough autonomy to rebuild independent power.
+- [Post-Victory Threat Sequencing / 胜后威胁排序](concepts/PostVictoryThreatSequencing.md) — Strategy pattern for converting a major win into target priority by suppressing the wounded main rival before pursuing tempting secondary campaigns.
+- [Active Political Dormancy / 主动蛰伏式政治积累](concepts/ActivePoliticalDormancy.md) — Low-resource survival pattern where apparent stillness preserves a defeated actor's ambition, relationships, and future action space.
 - [AI Expression Baseline / AI 表达基线](concepts/AIExpressionBaseline.md) — E46 frame for AI raising the floor of ordinary expression and making sincere, experience-grounded human deviation more valuable.
 - [Interpersonal Image Projection / 人际意象投射](concepts/InterpersonalImageProjection.md) — Pattern where another person is seen through memory, fear, desire, labels, and disowned parts of the self.
 - [Evolutionary Misrecognition / 进化式误认](concepts/EvolutionaryMisrecognition.md) — E46 synthesis that survival-oriented cognition helps organisms live while making direct seeing structurally difficult.
@@ -10261,7 +10267,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Trademark-Based Event Protection](concepts/TrademarkBasedEventProtection.md) — Protecting an event brand through names, marks, visual systems, training services, and official affiliations when the rules themselves are open.
 - [Authorized Fitness Training Network](concepts/AuthorizedFitnessTrainingNetwork.md) — Gym and course authorization layer tying local training, official programming, community activity, and priority race access to an event brand.
 - [Suspicion-Triggered Command Mutiny / 猜疑触发的部下倒戈](concepts/SuspicionTriggeredCommandMutiny.md) — Hanji 1025 pattern where a besieged commander's suspicion turns a subordinate's loyalty gesture into fear, anger, and organized defection.
-- [纳叛安抚式整合 / Strategic Defector Incorporation](concepts/StrategicDefectorIncorporation.md) — Cao Cao pattern where former enemies, local brokers, past defectors, and post-Wuchao enemy commanders are selectively incorporated to stabilize territory and add capacity.
+- [纳叛安抚式整合 / Strategic Defector Incorporation](concepts/StrategicDefectorIncorporation.md) — Cao Cao pattern where former enemies, local brokers, past defectors, battlefield defectors, and local rebels are selectively incorporated to stabilize territory and add capacity.
 - [Supply Depot Decisive Strike / 粮草命门打击](concepts/SupplyDepotDecisiveStrike.md) — Warfare pattern where a concentrated strike on an enemy supply depot changes material endurance, morale, and command cohesion faster than frontal attrition.
 - [Crisis Persistence Counsel / 危局坚守进言](concepts/CrisisPersistenceCounsel.md) — Advice pattern where a leader under severe pressure is persuaded to hold because retreat would concede the strategic decision.
 - [Rejected Counsel Defection Cascade / 进言拒绝叛逃级联](concepts/RejectedCounselDefectionCascade.md) — Failure pattern where ignored advice plus internal pressure turns an adviser into an enemy intelligence source.

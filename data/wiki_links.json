@@ -2787,6 +2787,10 @@
     "title": "Active Management Style Evolution",
     "url": "/wiki/concepts/activemanagementstyleevolution/"
   },
+  "ActivePoliticalDormancy": {
+    "title": "Active Political Dormancy / 主动蛰伏式政治积累",
+    "url": "/wiki/concepts/activepoliticaldormancy/"
+  },
   "ActiveSoloLiving": {
     "title": "Active Solo Living / 主动独居",
     "url": "/wiki/concepts/activesololiving/"
@@ -8322,6 +8326,10 @@
   "CanghaiJun": {
     "title": "沧海君 / Canghai Jun",
     "url": "/wiki/entities/canghaijun/"
+  },
+  "CangtingBattleLateHan": {
+    "title": "苍亭之战 / Cangting Battle (late Han)",
+    "url": "/wiki/entities/cangtingbattlelatehan/"
   },
   "CangtingFordLateHan": {
     "title": "仓亭津 / Cangting Ford (Late Han)",
@@ -38951,6 +38959,10 @@
     "title": "Post-Victory Oppression Risk / 胜利后的压迫风险",
     "url": "/wiki/concepts/postvictoryoppressionrisk/"
   },
+  "PostVictoryThreatSequencing": {
+    "title": "Post-Victory Threat Sequencing / 胜后威胁排序",
+    "url": "/wiki/concepts/postvictorythreatsequencing/"
+  },
   "PostcardIntelligenceInfrastructure": {
     "title": "Postcard Intelligence Infrastructure",
     "url": "/wiki/concepts/postcardintelligenceinfrastructure/"
@@ -53915,6 +53927,10 @@
     "title": "夏侯婴 / Xiahou Ying",
     "url": "/wiki/entities/xiahouying/"
   },
+  "XiahouYuan": {
+    "title": "夏侯渊 / Xiahou Yuan",
+    "url": "/wiki/entities/xiahouyuan/"
+  },
   "Xiamen": {
     "title": "Xiamen / 厦门",
     "url": "/wiki/entities/xiamen/"
@@ -54318,6 +54334,10 @@
   "XinlingjunDeathSuspicion": {
     "title": "信陵君非正常死亡疑云 / Xinlingjun Death Suspicion",
     "url": "/wiki/concepts/xinlingjundeathsuspicion/"
+  },
+  "XinyeLateHan": {
+    "title": "新野 / Xinye (late Han)",
+    "url": "/wiki/entities/xinyelatehan/"
   },
   "Xinyu": {
     "title": "《新语》 / Xinyu",
@@ -61206,6 +61226,10 @@
   "zizhi-tongjian-hanji-1050-cong-caocao-fenxin-xuexi-baogui-de-lingdao-zhihui-lsqg-qaxozjpaxyukrvxbtf-mcse": {
     "title": "《资治通鉴·汉纪》1050丨从曹操焚信学习宝贵的领导智慧",
     "url": "/wiki/sources/zizhi-tongjian-hanji-1050-cong-caocao-fenxin-xuexi-baogui-de-lingdao-zhihui-lsqg-qaxozjpaxyukrvxbtf-mcse/"
+  },
+  "zizhi-tongjian-hanji-1054-jingtan-caocao-yuanshao-liubei-de-mingyun-zhuanzhe-lmd2yjre-cwdbxky2ht5o0n4g6fk": {
+    "title": "《资治通鉴·汉纪》1054丨惊叹！曹操、袁绍、刘备的命运转折",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-1054-jingtan-caocao-yuanshao-liubei-de-mingyun-zhuanzhe-lmd2yjre-cwdbxky2ht5o0n4g6fk/"
   },
   "zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo": {
     "title": "《资治通鉴·汉纪》139｜“他”再次影响“汉朝”",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 5888
+wiki_total_pages: 5890
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -104,6 +104,9 @@ wiki_pages:
   - key: "ActiveManagementStyleEvolution"
     title: "Active Management Style Evolution"
     url: "/wiki/concepts/activemanagementstyleevolution/"
+  - key: "ActivePoliticalDormancy"
+    title: "Active Political Dormancy / 主动蛰伏式政治积累"
+    url: "/wiki/concepts/activepoliticaldormancy/"
   - key: "ActiveSoloLiving"
     title: "Active Solo Living / 主动独居"
     url: "/wiki/concepts/activesololiving/"

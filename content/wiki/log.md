@@ -13308,3 +13308,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-29] ingest | 《资治通鉴·汉纪》1054丨惊叹！曹操、袁绍、刘备的命运转折
+
+Ingested the 芮淇讲透资治通鉴 episode on Cao Cao's post-Guandu target sequencing, the Cangting follow-up against Yuan Shao, Liu Bei's Xinye dormancy under Liu Biao, and Zhang Liao's persuasion of Chang Xi. Created the source note plus Cangting Battle, Xinye, Xiahou Yuan, Post-Victory Threat Sequencing, and Active Political Dormancy pages; updated Liu Biao, Zhang Liao, Chang Xi, Force-Backed Surrender Persuasion, Strategic Defector Incorporation, index, and overview. No settled contradiction found; Chang Xi's Lü Bu kinship, the motivational "志气" frame, and Cangting/Cangting Ford identity separation remain source-scoped.
+
+## [2026-08-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

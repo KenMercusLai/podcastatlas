@@ -1305,6 +1305,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/actionableorganizationalvalues/"
     },
+    "ActivePoliticalDormancy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1054丨惊叹！曹操、袁绍、刘备的命运转折 [lmd2YJRE-cwDbXKY2ht5o0N4G6fK].md",
+          "key": "zizhi-tongjian-hanji-1054-jingtan-caocao-yuanshao-liubei-de-mingyun-zhuanzhe-lmd2yjre-cwdbxky2ht5o0n4g6fk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1054丨惊叹！曹操、袁绍、刘备的命运转折",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1054-jingtan-caocao-yuanshao-liubei-de-mingyun-zhuanzhe-lmd2yjre-cwdbxky2ht5o0n4g6fk/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/activepoliticaldormancy/"
+    },
     "AddedFreeSugarDistinction": {
       "episode_count": 1,
       "show_count": 1,
@@ -3947,6 +3963,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/cancervaccineplatform/"
     },
+    "CangtingBattleLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1054丨惊叹！曹操、袁绍、刘备的命运转折 [lmd2YJRE-cwDbXKY2ht5o0N4G6fK].md",
+          "key": "zizhi-tongjian-hanji-1054-jingtan-caocao-yuanshao-liubei-de-mingyun-zhuanzhe-lmd2yjre-cwdbxky2ht5o0n4g6fk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1054丨惊叹！曹操、袁绍、刘备的命运转折",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1054-jingtan-caocao-yuanshao-liubei-de-mingyun-zhuanzhe-lmd2yjre-cwdbxky2ht5o0n4g6fk/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/cangtingbattlelatehan/"
+    },
     "CaoJieLateHan": {
       "episode_count": 13,
       "show_count": 1,
@@ -4312,9 +4344,9 @@
       "url": "/wiki/entities/cenovusenergy/"
     },
     "ChangXiLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1040丨乱世英雄，曹操为何独独看好刘备？ [lrAzZWO4BjSpvWMNkx5HOar1Iq3x].md",
@@ -4322,9 +4354,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1040丨乱世英雄，曹操为何独独看好刘备？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1040-luanshi-yingxiong-caocao-weihe-dudu-kanhao-liubei-lrazzwo4bjspvwmnkx5hoar1iq3x/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1054丨惊叹！曹操、袁绍、刘备的命运转折 [lmd2YJRE-cwDbXKY2ht5o0N4G6fK].md",
+          "key": "zizhi-tongjian-hanji-1054-jingtan-caocao-yuanshao-liubei-de-mingyun-zhuanzhe-lmd2yjre-cwdbxky2ht5o0n4g6fk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1054丨惊叹！曹操、袁绍、刘备的命运转折",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1054-jingtan-caocao-yuanshao-liubei-de-mingyun-zhuanzhe-lmd2yjre-cwdbxky2ht5o0n4g6fk/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-08-29",
       "url": "/wiki/entities/changxilatehan/"
     },
     "ChangguangCommanderyLateHan": {
@@ -9441,9 +9480,9 @@
       "url": "/wiki/concepts/foodpleasureengineering/"
     },
     "ForceBackedSurrenderPersuasion": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1039丨东吴第一嘴炮？且看他如何劝降华歆 [lhRE_IH73YNzfwUJO0lNXYJDguYD].md",
@@ -9451,9 +9490,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1039丨东吴第一嘴炮？且看他如何劝降华歆",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1054丨惊叹！曹操、袁绍、刘备的命运转折 [lmd2YJRE-cwDbXKY2ht5o0N4G6fK].md",
+          "key": "zizhi-tongjian-hanji-1054-jingtan-caocao-yuanshao-liubei-de-mingyun-zhuanzhe-lmd2yjre-cwdbxky2ht5o0n4g6fk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1054丨惊叹！曹操、袁绍、刘备的命运转折",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1054-jingtan-caocao-yuanshao-liubei-de-mingyun-zhuanzhe-lmd2yjre-cwdbxky2ht5o0n4g6fk/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-08-29",
       "url": "/wiki/concepts/forcebackedsurrenderpersuasion/"
     },
     "FortifiedAttritionPatience": {
@@ -15745,9 +15791,9 @@
       "url": "/wiki/concepts/lithiumbipolartreatment/"
     },
     "LiuBiao": {
-      "episode_count": 13,
+      "episode_count": 14,
       "show_count": 1,
-      "source_note_count": 13,
+      "source_note_count": 14,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》953丨乱世之中，要不要讲究仁义？ [lrZfImgqAtJXyw9zX9rY2kIWXKON].md",
@@ -15839,9 +15885,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1023丨揭秘曹操与张绣的兵法博弈",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1023-jiemi-caocao-yu-zhangxiu-de-bingfa-boyi-lphbnmfdu0x5w7zjra7k0o8cyel4/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1054丨惊叹！曹操、袁绍、刘备的命运转折 [lmd2YJRE-cwDbXKY2ht5o0N4G6fK].md",
+          "key": "zizhi-tongjian-hanji-1054-jingtan-caocao-yuanshao-liubei-de-mingyun-zhuanzhe-lmd2yjre-cwdbxky2ht5o0n4g6fk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1054丨惊叹！曹操、袁绍、刘备的命运转折",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1054-jingtan-caocao-yuanshao-liubei-de-mingyun-zhuanzhe-lmd2yjre-cwdbxky2ht5o0n4g6fk/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-29",
       "url": "/wiki/entities/liubiao/"
     },
     "LiuChongLateHanMinister": {
@@ -20655,6 +20708,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/postvictoryamnestysignal/"
     },
+    "PostVictoryThreatSequencing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1054丨惊叹！曹操、袁绍、刘备的命运转折 [lmd2YJRE-cwDbXKY2ht5o0N4G6fK].md",
+          "key": "zizhi-tongjian-hanji-1054-jingtan-caocao-yuanshao-liubei-de-mingyun-zhuanzhe-lmd2yjre-cwdbxky2ht5o0n4g6fk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1054丨惊叹！曹操、袁绍、刘备的命运转折",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1054-jingtan-caocao-yuanshao-liubei-de-mingyun-zhuanzhe-lmd2yjre-cwdbxky2ht5o0n4g6fk/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/postvictorythreatsequencing/"
+    },
     "PowerStructureTargeting": {
       "episode_count": 2,
       "show_count": 1,
@@ -24065,9 +24134,9 @@
       "url": "/wiki/entities/stormont/"
     },
     "StrategicDefectorIncorporation": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1026丨揭秘三国第一猛将吕布的落幕 [lhjf_aguJuIgLqCHUMtFf3tfTxg1].md",
@@ -24096,9 +24165,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1049丨官渡之战结局揭幕，曹操终于以弱胜强",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1054丨惊叹！曹操、袁绍、刘备的命运转折 [lmd2YJRE-cwDbXKY2ht5o0N4G6fK].md",
+          "key": "zizhi-tongjian-hanji-1054-jingtan-caocao-yuanshao-liubei-de-mingyun-zhuanzhe-lmd2yjre-cwdbxky2ht5o0n4g6fk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1054丨惊叹！曹操、袁绍、刘备的命运转折",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1054-jingtan-caocao-yuanshao-liubei-de-mingyun-zhuanzhe-lmd2yjre-cwdbxky2ht5o0n4g6fk/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-29",
       "url": "/wiki/concepts/strategicdefectorincorporation/"
     },
     "StrategicEmotionConcealment": {
@@ -28071,6 +28147,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/xiayulatehan/"
     },
+    "XiahouYuan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1054丨惊叹！曹操、袁绍、刘备的命运转折 [lmd2YJRE-cwDbXKY2ht5o0N4G6fK].md",
+          "key": "zizhi-tongjian-hanji-1054-jingtan-caocao-yuanshao-liubei-de-mingyun-zhuanzhe-lmd2yjre-cwdbxky2ht5o0n4g6fk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1054丨惊叹！曹操、袁绍、刘备的命运转折",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1054-jingtan-caocao-yuanshao-liubei-de-mingyun-zhuanzhe-lmd2yjre-cwdbxky2ht5o0n4g6fk/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/xiahouyuan/"
+    },
     "XiangKaiLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -28233,6 +28325,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/xiehaoqinghelatehan/"
+    },
+    "XinyeLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1054丨惊叹！曹操、袁绍、刘备的命运转折 [lmd2YJRE-cwDbXKY2ht5o0N4G6fK].md",
+          "key": "zizhi-tongjian-hanji-1054-jingtan-caocao-yuanshao-liubei-de-mingyun-zhuanzhe-lmd2yjre-cwdbxky2ht5o0n4g6fk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1054丨惊叹！曹操、袁绍、刘备的命运转折",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1054-jingtan-caocao-yuanshao-liubei-de-mingyun-zhuanzhe-lmd2yjre-cwdbxky2ht5o0n4g6fk/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/xinyelatehan/"
     },
     "Xiongnu": {
       "episode_count": 15,
@@ -30141,6 +30249,36 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/zhangkaiduanjiongofficer/"
+    },
+    "ZhangLiao": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1000丨郝萌叛乱，竟逼吕布翻墙逃跑？ [lluThd9hV_0NqBOT4FuctjCuka68].md",
+          "key": "zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1000丨郝萌叛乱，竟逼吕布翻墙逃跑？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1026丨揭秘三国第一猛将吕布的落幕 [lhjf_aguJuIgLqCHUMtFf3tfTxg1].md",
+          "key": "zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1026丨揭秘三国第一猛将吕布的落幕",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1054丨惊叹！曹操、袁绍、刘备的命运转折 [lmd2YJRE-cwDbXKY2ht5o0N4G6fK].md",
+          "key": "zizhi-tongjian-hanji-1054-jingtan-caocao-yuanshao-liubei-de-mingyun-zhuanzhe-lmd2yjre-cwdbxky2ht5o0n4g6fk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1054丨惊叹！曹操、袁绍、刘备的命运转折",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1054-jingtan-caocao-yuanshao-liubei-de-mingyun-zhuanzhe-lmd2yjre-cwdbxky2ht5o0n4g6fk/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/zhangliao/"
     },
     "ZhangLingLateHan": {
       "episode_count": 1,
