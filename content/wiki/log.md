@@ -13157,6 +13157,10 @@ Ingested the 2026-08-29 Talk三联 episode on Guangzhou Academy of Fine Arts' fi
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-29] ingest | 《资治通鉴·汉纪》797丨古代忠孝真的无法两全吗？
+
+Ingested the 2026-07-08 芮淇讲透资治通鉴 episode on 121-122 CE Emperor An's cancellation of three-year mourning for high officials, Chen Zhong's blocked mourning memorial and accepted Goguryeo mourning-restraint advice, Yao Guang and Feng Huan's forged-edict case, Ma Xian's Shaodang Qiang victory, Xianbei raids, and disaster notices. Created the source note plus `GoguryeoLateHan`, `YaoGuangLateHan`, `FengHuanLateHan`, `OfficialMourningDutyConflict`, `MourningDiplomaticRestraint`, and `ForgedEdictLocalExecution`; updated `ChenZhongLateHan`, `EmperorAnOfHan`, `MaXianLateHan`, `index`, and `overview`. No settled contradiction found; Buyeo, Mahan, Mo, Suicheng, Xuantu, Pang Fen, Liu Shou, Liu De, Geng Kui, Geng Zhong, Manu, Hanyang, Yangling, and minor disaster notices remain source-scoped.
+
 ## [2026-08-29] ingest | 《资治通鉴·汉纪》798丨东汉时期的百姓有多苦？
 
 Ingested the 2026-07-08 芮淇讲透资治通鉴 episode on 121 CE Emperor An, Chen Zhong's warnings about disaster-era palace emissary burden and Three Excellencies/Shangshu power-responsibility mismatch, Wang Gong's Runan talent field, Huang Xian's non-office moral reputation, and the Northern Xiongnu/Cheshi Hexi teaser. Created the source note plus `BoRongLateHan`, `HuangXianLateHan`, `YuanLangLateHan`, `DaiLiangLateHan`, `PalaceEnvoyLocalExtraction`, `ThreeExcellenciesBlameWithoutAuthority`, and `MoralPresenceWithoutOffice`; updated `EmperorAnOfHan`, `ChenZhongLateHan`, `WangGongTaiweiLateHan`, `XunShuLateHan`, `GuoTaiLateHan`, `ChenFanLateHan`, `index`, and `overview`. No settled contradiction found; Ganling missions, women envoys, exact local labor/death figures, Yumen Pass, Yangguan, and the Cheshi identity in the closing teaser remain source-scoped.
@@ -13516,6 +13520,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-29] ingest | 《资治通鉴·汉纪》800丨杨震之死：一场奸臣对清官的剿杀
 
 Ingested the 2026-07-08 芮淇讲透资治通鉴 episode on 124 CE Yang Zhen's death, Fan Feng/Zhou Guang/Xie Yun's forged-edict private construction, Zhao Teng's execution after direct criticism, Geng Bao's accusation, Lai Li's rebuke, and Ban Yong's Western Regions submission chain. Created the source note plus `ZhouGuangLateHan`, `XieYunLateHan`, `ZhaoTengLateHan`, and `ForgedEdictPrivateExtraction`; updated `YangZhenLateHan`, `EmperorAnOfHan`, `FanFengEunuchLateHan`, `GengBaoGrandGeneralLateHan`, `LaiLiLateHan`, `BanYongLateHan`, `DirectRemonstranceCriminalization`, `OmenCodedRemonstrance`, `index`, and `overview`. No settled contradiction found; Geng Bao's dahonglu-to-Grand-General chronology, Feng Shi / 冯石, Yi Liang, and minor Western Regions actors remain source-scoped.
+
+## [2026-08-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-29] lint | Wiki health check
 

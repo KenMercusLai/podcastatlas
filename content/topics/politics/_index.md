@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2014
+topic_total_pages: 2016
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3316,6 +3316,9 @@ topic_concepts:
   - key: "DeathDefyingRemonstrance"
     title: "赴死式直谏 / Death-Defying Remonstrance"
     url: "/wiki/concepts/deathdefyingremonstrance/"
+  - key: "MourningDiplomaticRestraint"
+    title: "趁丧不伐 / Mourning Diplomatic Restraint"
+    url: "/wiki/concepts/mourningdiplomaticrestraint/"
   - key: "FrontierProxyCommitmentBinding"
     title: "边疆代理承诺绑定 / Frontier Proxy Commitment Binding"
     url: "/wiki/concepts/frontierproxycommitmentbinding/"
@@ -5360,6 +5363,9 @@ topic_entities:
   - key: "LuJia"
     title: "陆贾 / Lu Jia"
     url: "/wiki/entities/lujia/"
+  - key: "ChenZhongLateHan"
+    title: "陈忠 / Chen Zhong (late Han)"
+    url: "/wiki/entities/chenzhonglatehan/"
   - key: "ChenBaoLateHan"
     title: "陈鲍 / Chen Bao (late Han)"
     url: "/wiki/entities/chenbaolatehan/"

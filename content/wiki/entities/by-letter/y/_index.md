@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 8317
+wiki_total_pages: 8320
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -398,6 +398,9 @@ wiki_pages:
   - key: "YuTheGreat"
     title: "大禹 / Yu the Great"
     url: "/wiki/entities/yuthegreat/"
+  - key: "YaoGuangLateHan"
+    title: "姚光 / Yao Guang (late Han)"
+    url: "/wiki/entities/yaoguanglatehan/"
   - key: "YaoXin"
     title: "姚欣 / Yao Xin"
     url: "/wiki/entities/yaoxin/"

@@ -2,23 +2,30 @@
 title: "汉安帝 / Emperor An of Han"
 type: entity
 knowledge_schema: synthesis-v1
-tags: [person, emperor, eastern-han, late-han, succession]
+tags: [person, emperor, eastern-han, late-han, succession, mourning, frontier]
 sources:
   - zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj
   - zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy
   - zizhi-tongjian-hanji-800-yangzhen-zhisi-yi-chang-jianchen-dui-qingguan-de-jiaosha-lk9qcfs4xl-rjd-zpwdtsblybxa8
   - zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf
   - zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5
+  - zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6
 last_updated: 2026-08-29
 ---
 
 ## Overview
 
-汉安帝 / Emperor An of Han now appears in the wiki through a 121-125 CE sequence that mixes disaster-era extraction, frontier prudence, court-favorite decay, heir insecurity, and death-concealment succession politics. [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|Hanji 798]] shows him ignoring [[ChenZhongLateHan|陈忠]]'s warnings about [[BoRongLateHan|伯荣]] and palace missions burdening local society, as well as a Three Excellencies/Shangshu power-responsibility mismatch. [[zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf|Hanji 799]] then shows him accepting Chen Zhong's anti-abandonment advice but ignoring [[YangZhenLateHan|杨震]] on [[WangShengPalaceActorLateHan|王圣]] and favorite appointment abuse; Hanji 800-802 follow the destruction of Yang Zhen, [[ZhaoTengLateHan|赵腾]]'s execution, [[EmperorShunOfHan|刘保]]'s deposition, and the information vacuum after An dies on tour.
+汉安帝 / Emperor An of Han now appears in the wiki through a 121-125 CE sequence that mixes mourning policy, disaster-era extraction, frontier prudence, court-favorite decay, heir insecurity, and death-concealment succession politics. [[zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6|Hanji 797]] shows him canceling three-year mourning for high officials after eunuchs block [[ChenZhongLateHan|陈忠]]'s defense, yet also accepting Chen's advice not to attack [[GoguryeoLateHan|高句丽]] during royal mourning. [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|Hanji 798]] shows him ignoring Chen's warnings about [[BoRongLateHan|伯荣]] and palace missions burdening local society, as well as a Three Excellencies/Shangshu power-responsibility mismatch. [[zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf|Hanji 799]] then shows him accepting Chen Zhong's anti-abandonment advice but ignoring [[YangZhenLateHan|杨震]] on [[WangShengPalaceActorLateHan|王圣]] and favorite appointment abuse; Hanji 800-802 follow the destruction of Yang Zhen, [[ZhaoTengLateHan|赵腾]]'s execution, [[EmperorShunOfHan|刘保]]'s deposition, and the information vacuum after An dies on tour.
 
 ## Current Profile
 
-[[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|Hanji 798]] places Emperor An in 121 CE, Jian Guang first year. The source gives Chen Zhong's crisis background before his first memorial: heavy rain in Qing and Yi, seawater damage in Xu and Taishan, locusts in Yan and Yu, rice shortfall in Jing and Yang, Qiang rebellion, poverty, and an empty treasury.
+[[zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6|Hanji 797]] places Emperor An in 121 CE, Jian Guang first year, before the current Hanji 798 layer. Shangshu Ling and others propose canceling three-year mourning for officials of 2,000 shi and above. Chen Zhong defends the practice through Han founding precedent and filial moral extension, but eunuchs block his memorial and An cancels the mourning permission on 121-11-23. This makes An's reign begin here with [[OfficialMourningDutyConflict|丁忧任职冲突]] filtered through court access.
+
+The same source gives An a contrasting frontier decision. After [[GoguryeoLateHan|Goguryeo]] attacks Xuantu, suffers defeat with Buyeo's intervention, and enters royal mourning after its king dies, [[YaoGuangLateHan|Yao Guang]] proposes attacking. Chen Zhong calls the timing unrighteous and recommends condolences, rebuke, and pardon. An accepts Chen's advice, after which Suicheng later returns captives and livestock and submits to Xuantu.
+
+Hanji 797 also records the forged-edict case in which enemies of Yao Guang and [[FengHuanLateHan|Feng Huan]] fabricate an imperial command. The court eventually confirms the forgery and summons Pang Fen for punishment, but only after Yao Guang has already been executed. This adds document-authenticity vulnerability to An's early 122 CE state field.
+
+[[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|Hanji 798]] next places Emperor An in 121 CE, Jian Guang first year. The source gives Chen Zhong's crisis background before his first memorial: heavy rain in Qing and Yi, seawater damage in Xu and Taishan, locusts in Yan and Yu, rice shortfall in Jing and Yang, Qiang rebellion, poverty, and an empty treasury.
 
 In that setting, An sends palace-linked messengers and Bo Rong between Ganling and the capital. Chen Zhong says princes, marquises, and senior officials over-honor Bo Rong, while local administrations mobilize roads, stations, supplies, gifts, and old or weak laborers. Chen warns that if An does not ask into the practice, outsiders will read it as the emperor's will. An does not accept the warning, leaving [[PalaceEnvoyLocalExtraction|宫使扰民式地方抽取]] unresolved.
 
@@ -42,16 +49,19 @@ Because An dies away from [[LuoyangLateHan|洛阳]], Yan Hou, Yan Xian, and Fan 
 
 ## Key Characteristics
 
+- Ruler whose early 121 CE court cancels high-official mourning after eunuch obstruction blocks Chen Zhong's defense.
+- Ruler who can accept ritual-framed frontier restraint toward Goguryeo while ignoring other domestic correction.
 - Disaster-era ruler whose court lets palace missions convert imperial proximity into local burden.
-- Ruler who ignores Chen Zhong's warnings about emissary extraction and authority-blame mismatch.
 - Ruler who accepts prudent frontier retention advice in 123 CE but fails to correct court-favorite abuse at home.
 - Patron of Wang Sheng whose wet-nurse title and mansion show private favor entering public expenditure and title order.
 - Executor of Zhao Teng and remover of Yang Zhen, making direct speech and rescue speech dangerous under his authority.
-- Father of Liu Bao, later Emperor Shun, whose 124 CE deposition of the crown prince creates the crisis's legitimacy wound.
-- Dead ruler whose 125 CE tour death creates the temporary information vacuum that enables Yan-side succession control.
+- Father of Liu Bao whose 124 CE deposition and 125 CE tour death create the succession legitimacy wound.
 
 ## Evidence
 
+- Official mourning cancellation: [[zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6|Hanji 797]] says An cancels three-year mourning for officials of 2,000 shi and above after eunuchs block Chen Zhong's opposing memorial.
+- Goguryeo restraint: [[zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6|Hanji 797]] says An accepts Chen Zhong's advice not to attack Goguryeo during royal mourning.
+- Forged-edict correction after harm: [[zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6|Hanji 797]] says the court exposes the forged command against Yao Guang and Feng Huan only after Yao has been executed.
 - Palace-mission burden: [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|Hanji 798]] says An sends Bo Rong and other palace-linked messengers during floods, locusts, crop shortfall, frontier rebellion, poverty, and empty treasury, and Chen Zhong warns that local people bear road, station, supply, gift, and labor costs.
 - Ignored authority-blame warning: [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|Hanji 798]] says Chen Zhong warns that Shangshu channels hold practical authority while Three Excellencies carry disaster blame, but An does not adopt the memorial.
 - Western Regions decision: [[zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf|Hanji 799]] says An accepts Chen Zhong's advice and appoints Ban Yong to Liuzhong instead of abandoning the Western Regions.
@@ -64,18 +74,24 @@ Because An dies away from [[LuoyangLateHan|洛阳]], Yan Hou, Yan Xian, and Fan 
 
 ## Qualifications
 
-This page is bounded to Hanji 798, Hanji 799, Hanji 800, Hanji 801, and Hanji 802. It does not reconstruct Emperor An's full reign, complete Western Regions policy, earlier relationship with the Yan family, or the full background of Ganling missions, women envoys, Geng Bao, Fan Feng, Wang Sheng, Wang Nan, Bing Ji, Zhao Teng, and Yang Zhen. Hanji 798 and Hanji 799 together add a meaningful distinction: An can accept strategic advice on the frontier, but his court still fails to correct domestic palace-channel extraction, hollowed accountability, and favorite abuse.
+This page is bounded to Hanji 802, Hanji 801, Hanji 800, Hanji 799, Hanji 798, and Hanji 797. It does not reconstruct Emperor An's full reign, complete Western Regions policy, earlier relationship with the Yan family, or the full background of Ganling missions, women envoys, Geng Bao, Fan Feng, Wang Sheng, Wang Nan, Bing Ji, Zhao Teng, Yang Zhen, Yao Guang, Feng Huan, and Pang Fen. Hanji 797-799 together add a meaningful distinction: An can accept strategic advice on the frontier, including mourning-restraint diplomacy, but his court still fails to protect domestic ritual argument, correct palace-channel extraction, repair hollowed accountability, or contain favorite abuse.
 
 ## What Changed
 
-- Added Hanji 798 as the 121 CE layer: disaster-era palace missions, Bo Rong's local burden, Chen Zhong's ignored warning, and the Three Excellencies/Shangshu mismatch.
-- Reframed Chen Zhong as an earlier ignored institutional critic before Hanji 799's successful frontier adviser role.
+- Added Hanji 797 as the earliest current layer: official mourning cancellation, Goguryeo mourning-restraint diplomacy, forged-edict correction, and 122 CE frontier/disaster pressure.
+- Preserved Hanji 798 as the 121 CE disaster-era palace-mission and Three Excellencies/Shangshu mismatch layer.
+- Reframed Chen Zhong as both a mourning-policy adviser and frontier adviser before Hanji 799's Western Regions role.
 - Preserved Hanji 799 as the 123 CE split between Western Regions prudence and Wang Sheng/favorite-abuse non-correction.
 - Preserved Hanji 800-802 as the escalation into Yang Zhen's death, Liu Bao's deposition, and An's concealed tour death.
 
 ## Relationships
 
-- [[ChenZhongLateHan|陈忠]] - adviser whose domestic institutional warnings An ignores in 121 CE and whose Western Regions argument An accepts in 123 CE.
+- [[ChenZhongLateHan|陈忠]] - adviser whose blocked mourning memorial An does not convert, whose Goguryeo mourning-restraint and Western Regions arguments An accepts, and whose domestic institutional warnings An ignores.
+- [[OfficialMourningDutyConflict|丁忧任职冲突]] - domestic ritual-policy problem resolved under An by canceling high-official mourning.
+- [[MourningDiplomaticRestraint|趁丧不伐]] - frontier restraint pattern An accepts in the Goguryeo case.
+- [[GoguryeoLateHan|高句丽]] - frontier polity toward which An chooses condolence-backed rebuke rather than mourning-period attack.
+- [[YaoGuangLateHan|姚光]] - Xuantu administrator whose attack proposal An rejects and whose forged-edict death the court later corrects after harm.
+- [[FengHuanLateHan|冯焕]] - Youzhou inspector whose forged-edict arrest is exposed under An's court.
 - [[BoRongLateHan|伯荣]] - palace emissary whose local reception becomes evidence of An-era court-proximity burden.
 - [[BanYongLateHan|班勇]] - commander An appoints to Liuzhong after accepting Chen Zhong's frontier advice.
 - [[YangZhenLateHan|杨震]] - taiwei whose appointment refusals and memorials An fails to support.

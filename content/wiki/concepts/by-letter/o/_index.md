@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 5938
+wiki_total_pages: 5941
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -500,6 +500,9 @@ wiki_pages:
   - key: "OverseasInsuranceRisk"
     title: "Overseas Insurance Risk"
     url: "/wiki/concepts/overseasinsurancerisk/"
+  - key: "OfficialMourningDutyConflict"
+    title: "丁忧任职冲突 / Official Mourning Duty Conflict"
+    url: "/wiki/concepts/officialmourningdutyconflict/"
   - key: "OrientalistMysteryMisdirection"
     title: "东方主义谜题误导 / Orientalist Mystery Misdirection"
     url: "/wiki/concepts/orientalistmysterymisdirection/"

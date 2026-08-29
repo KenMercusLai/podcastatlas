@@ -17847,6 +17847,10 @@
     "title": "冯浩 / Feng Hao (Warring States adviser)",
     "url": "/wiki/entities/fenghaowarringstates/"
   },
+  "FengHuanLateHan": {
+    "title": "冯焕 / Feng Huan (late Han)",
+    "url": "/wiki/entities/fenghuanlatehan/"
+  },
   "FengJiLateHan": {
     "title": "逢纪 / Feng Ji (late Han)",
     "url": "/wiki/entities/fengjilatehan/"
@@ -18722,6 +18726,10 @@
   "ForgeGlobal": {
     "title": "Forge Global",
     "url": "/wiki/entities/forgeglobal/"
+  },
+  "ForgedEdictLocalExecution": {
+    "title": "伪诏地方杀官 / Forged Edict Local Execution",
+    "url": "/wiki/concepts/forgededictlocalexecution/"
   },
   "ForgedEdictPrivateExtraction": {
     "title": "伪诏营私 / Forged Edict Private Extraction",
@@ -20598,6 +20606,10 @@
   "Gob": {
     "title": "Gob",
     "url": "/wiki/entities/gob/"
+  },
+  "GoguryeoLateHan": {
+    "title": "高句丽 / Goguryeo (late Han)",
+    "url": "/wiki/entities/goguryeolatehan/"
   },
   "GoldAsCurrencySpareTire": {
     "title": "Gold As Currency Spare Tire / 黄金备胎",
@@ -34463,6 +34475,10 @@
     "title": "Mountain Pass Rare Earth Mine",
     "url": "/wiki/entities/mountainpassrareearthmine/"
   },
+  "MourningDiplomaticRestraint": {
+    "title": "趁丧不伐 / Mourning Diplomatic Restraint",
+    "url": "/wiki/concepts/mourningdiplomaticrestraint/"
+  },
   "MourningFramedMilitaryAbsorption": {
     "title": "丧礼化收编 / Mourning-Framed Military Absorption",
     "url": "/wiki/concepts/mourningframedmilitaryabsorption/"
@@ -36258,6 +36274,10 @@
   "OfficialLearningMonopoly": {
     "title": "学在王官式知识垄断 / Official Learning Monopoly",
     "url": "/wiki/concepts/officiallearningmonopoly/"
+  },
+  "OfficialMourningDutyConflict": {
+    "title": "丁忧任职冲突 / Official Mourning Duty Conflict",
+    "url": "/wiki/concepts/officialmourningdutyconflict/"
   },
   "OfficialSelectionChannelCompetition": {
     "title": "选官通道竞争 / Official Selection Channel Competition",
@@ -55583,6 +55603,10 @@
     "title": "兖州 / Yanzhou (Late Han)",
     "url": "/wiki/entities/yanzhoulatehan/"
   },
+  "YaoGuangLateHan": {
+    "title": "姚光 / Yao Guang (late Han)",
+    "url": "/wiki/entities/yaoguanglatehan/"
+  },
   "YaoJia": {
     "title": "姚贾 / Yao Jia",
     "url": "/wiki/entities/yaojia/"
@@ -62102,6 +62126,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6": {
+    "title": "《资治通鉴·汉纪》797丨古代忠孝真的无法两全吗？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6/"
   },
   "zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5": {
     "title": "《资治通鉴·汉纪》798丨东汉时期的百姓有多苦？",

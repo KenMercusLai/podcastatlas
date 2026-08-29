@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "caf5d74d2b71e37f734143a4139705b2532c3784434b5be1383381a6e120044a",
       "32b92b1f52aa3614f04ab3f605e40705e80f0665568d25d9ffd3768d5991e64f",
       "549888ed657f9b119f7043536a523a802cc3631a4eebfc4d2f7e307759430713",
       "ade75b50b0091ff998d3e818c8e79170f4b6448365dd83d2e79a67a1683d9616",
@@ -373,11 +374,38 @@
       "c94dbb4bb11fbc67a68689063a003f4343a0087a9f4a369adf5930530cf3dce6",
       "42b428cd16585fd09c60d93170bb1c95fd3df1b9a2ff7182eb0ec9f1136bfe3d"
     ],
-    "paragraph_count": 371
+    "paragraph_count": 372
   },
-  "overview_commit": "91d95b640aa64e1a8086709bea3e41a8b6cbf915",
-  "overview_digest": "683582637c204df95936c300db6ad5a68058f30d8a23538d2a4c76aa4ea1b64f",
+  "overview_commit": "c566107ac81c025cee2f76072a765873bf146cd0",
+  "overview_digest": "c2bfb592d1dfdd20a24d26233577130afc3eb1fbda818cbfff61e100e0902e35",
   "paragraphs": [
+    {
+      "id": "caf5d74d2b71e37f734143a4139705b2532c3784434b5be1383381a6e120044a",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6|《资治通鉴·汉纪》797丨古代忠孝真的无法两全吗？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 121-122 CE [[EmperorAnOfHan|汉安帝]] layer immediately before [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|Hanji 798]]. It adds [[GoguryeoLateHan|高句丽]], [[YaoGuangLateHan|姚光]], [[FengHuanLateHan|冯焕]], [[OfficialMourningDutyConflict|丁忧任职冲突]], [[MourningDiplomaticRestraint|趁丧不伐]], and [[ForgedEdictLocalExecution|伪诏地方杀官]], while extending [[ChenZhongLateHan|陈忠]], [[EmperorAnOfHan|汉安帝]], [[MaXianLateHan|马贤]], and [[Xianbei|鲜卑]]. Its core synthesis is that mourning is a governance problem rather than a private sentiment footnote: An cancels official mourning after Chen Zhong's defense is blocked, accepts mourning-respect diplomacy toward Goguryeo, and then presides over a forged-edict case where command-document obedience turns private revenge into lethal public action. No settled contradiction is recorded; Buyeo, Mahan, Mo, Suicheng, Xuantu, Pang Fen, Liu Shou, Liu De, Geng Kui, Geng Zhong, Manu, Hanyang, Yangling, and minor disaster notices remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "ChenZhongLateHan",
+        "EmperorAnOfHan",
+        "FengHuanLateHan",
+        "ForgedEdictLocalExecution",
+        "GoguryeoLateHan",
+        "MaXianLateHan",
+        "MourningDiplomaticRestraint",
+        "OfficialMourningDutyConflict",
+        "RuiqiJiangtouZizhiTongjian",
+        "Xianbei",
+        "YaoGuangLateHan",
+        "zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6",
+        "zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5"
+      ]
+    },
     {
       "id": "32b92b1f52aa3614f04ab3f605e40705e80f0665568d25d9ffd3768d5991e64f",
       "primary_topic": "history-and-geopolitics",

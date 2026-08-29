@@ -9,16 +9,19 @@ sources:
   - zizhi-tongjian-hanji-817-kan-si-ruanruo-de-ren-shize-huode-geng-tongtou-llmgqys237de3dzb6ij-4szyetye
   - zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc
   - zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew
+  - zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6
 last_updated: 2026-08-29
 ---
 
 ## Overview
 
-马贤 / Ma Xian is a Shun-era late-Han frontier commander whose current profile now runs from a 126 CE Zhong Qiang victory through later Qiang-front appointments and successes to the 141 CE Western Qiang command failure. Hanji 805, Hanji 816, Hanji 817, and Hanji 820 show that Ma Xian had earlier frontier value; Hanji 821 makes him the negative appointment-quality and command-collapse case who delays, ignores the warning field, and dies with his sons at Shegu Mountain.
+马贤 / Ma Xian is a late-Han frontier commander whose current profile now begins before [[EmperorShunOfHan|Emperor Shun]] with a 122 CE victory against Shaodang Qiang forces under [[EmperorAnOfHan|Emperor An]]. Hanji 797, Hanji 805, Hanji 816, Hanji 817, and Hanji 820 show that Ma Xian had repeated frontier value; Hanji 821 makes him the negative appointment-quality and command-collapse case who delays, ignores the warning field, and dies with his sons at Shegu Mountain.
 
 ## Current Profile
 
-The earliest current layer comes from [[zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew|Hanji 805]]. During the opening 126 CE Shun-era settlement, Zhong Qiang rebels in Longxi, and Ma Xian meets them at Lintao, kills more than one thousand, receives their surrender, and temporarily stabilizes Liangzhou. This makes his later failure sharper: the current evidence begins with battlefield usefulness rather than incompetence.
+The earliest current layer comes from [[zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6|Hanji 797]]. In 122 CE, as Protector of Qiang, Ma Xian pursues the Shaodang Qiang leader Manu to Huangzhong and defeats Qiang forces. The same source later notes Manu's surrender to Hanyang administrator Geng Zhong after famine, keeping Ma's early layer inside a volatile Qiang-front field.
+
+The next current layer comes from [[zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew|Hanji 805]]. During the opening 126 CE Shun-era settlement, Zhong Qiang rebels in Longxi, and Ma Xian meets them at Lintao, kills more than one thousand, receives their surrender, and temporarily stabilizes Liangzhou. This makes his later failure sharper: the current evidence begins with battlefield usefulness rather than incompetence.
 
 [[zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc|Hanji 816]] supplies the next appointment layer. After Liang Feng attacks Longxi and Hanyang, [[EmperorShunOfHan|Emperor Shun]] appoints the former Protector of Qiang Ma Xian as yezhe, putting him back into the Qiang-front response before the later victory and failure layers.
 
@@ -30,7 +33,7 @@ Hanji 820 continues that pre-disaster record. In 139 CE, during the Shaodang Qia
 
 ## Key Characteristics
 
-- Frontier commander with repeated prior Qiang-front appointment and success, beginning with the 126 CE Zhong Qiang victory.
+- Frontier commander with repeated prior Qiang-front appointment and success, now beginning with a 122 CE Shaodang Qiang victory.
 - Negative appointment-fit case because earlier service does not prove later suitability.
 - Commander associated with delayed action while Qiang forces gained cohesion.
 - Battlefield failure whose defeat widened pressure on Longxi, Guanzhong, and the tomb-security field.
@@ -38,7 +41,8 @@ Hanji 820 continues that pre-disaster record. In 139 CE, during the Shaodang Qia
 
 ## Evidence
 
-- Opening success: [[zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew|Hanji 805]] says Ma Xian defeats the rebelling Zhong Qiang at Lintao, kills more than one thousand, receives the tribe's surrender, and stabilizes Liangzhou for the moment.
+- Earliest current success: [[zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6|Hanji 797]] says Protector of Qiang Ma Xian pursues Shaodang Qiang leader Manu to Huangzhong and defeats Qiang forces in 122 CE.
+- Opening Shun-era success: [[zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew|Hanji 805]] says Ma Xian defeats the rebelling Zhong Qiang at Lintao, kills more than one thousand, receives the tribe's surrender, and stabilizes Liangzhou for the moment.
 - Earliest appointment layer: [[zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc|Hanji 816]] says Shun appoints the former Protector of Qiang Ma Xian after Liang Feng attacks Longxi and Hanyang.
 - Later recorded success: [[zizhi-tongjian-hanji-817-kan-si-ruanruo-de-ren-shize-huode-geng-tongtou-llmgqys237de3dzb6ij-4szyetye|Hanji 817]] says Ma Xian attacks and defeats Qiang during the 135 CE drought-year layer.
 - Earlier success: [[zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap|Hanji 820]] says Ma Xian defeats the Shaodang Qiang leader Na Li.
@@ -50,16 +54,18 @@ Hanji 820 continues that pre-disaster record. In 139 CE, during the Shaodang Qia
 
 ## Qualifications
 
-This page is bounded to Hanji 821, Hanji 820, Hanji 817, Hanji 816, and Hanji 805. Hanji 805 adds the earliest current success layer, while Hanji 816-820 show later appointment basis and further competence against Qiang opponents. The current judgment is not that Ma Xian never had frontier ability; it is that the later appointment was poorly matched to the moment, tempo, age, and warning evidence available to Shun.
+This page is bounded to Hanji 821, Hanji 820, Hanji 817, Hanji 816, Hanji 805, and Hanji 797. Hanji 797 adds the earliest current success layer under Emperor An, while Hanji 805 adds the first Shun-era success and Hanji 816-820 show later appointment basis and further competence against Qiang opponents. The current judgment is not that Ma Xian never had frontier ability; it is that the later appointment was poorly matched to the moment, tempo, age, and warning evidence available to Shun.
 
 ## What Changed
 
-- Added Hanji 805 as Ma Xian's earliest current layer, giving him a 126 CE Zhong Qiang victory before the 134 CE appointment and later successes.
+- Added Hanji 797 as Ma Xian's earliest current layer, giving him a 122 CE Shaodang Qiang victory before the Shun-era evidence.
+- Preserved Hanji 805 as the first Shun-era layer, with a 126 CE Zhong Qiang victory before the 134 CE appointment and later successes.
 - Preserved Hanji 816, Hanji 817, and Hanji 820 as the next pre-disaster layers, including a further appointment, two victories, and Liang Shang's rejected warning.
 - Reframed Ma Xian from a simple failure profile into a case where prior service did not justify later appointment fit.
 
 ## Relationships
 
+- [[EmperorAnOfHan|Emperor An]] - ruler in whose 122 CE reign Ma Xian appears as Protector of Qiang defeating Shaodang Qiang forces.
 - [[EmperorShunOfHan|Emperor Shun]] - ruler whose early reign benefits from Ma Xian's 126 CE victory but later insists on Ma Xian's failed appointment.
 - [[LiangShangLateHan|Liang Shang]] - senior figure who warns against Ma Xian before the fatal campaign.
 - [[MaXuLateHan|Ma Xu]] - fellow Ma-family frontier commander whose Hanji 816 and Hanji 820 roles show a different command pattern.

@@ -5004,9 +5004,9 @@
       "url": "/wiki/entities/chenyuanlatehan/"
     },
     "ChenZhongLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》799丨东汉名臣杨震，如何拒绝走后门？ [lmUFb7Lvb_KZsvjtn6Iu-ZrpIpTf].md",
@@ -5021,6 +5021,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》798丨东汉时期的百姓有多苦？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》797丨古代忠孝真的无法两全吗？ [lrU9shBWFwwr9lLUHhd7-xjuAlL6].md",
+          "key": "zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》797丨古代忠孝真的无法两全吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6/"
         }
       ],
       "updated": "2026-08-29",
@@ -8509,9 +8516,9 @@
       "url": "/wiki/concepts/emotionsasfunctionalcontrolstates/"
     },
     "EmperorAnOfHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》802丨安帝之死！东汉王朝权力大洗牌！ [lgvNE92e0jJzJNzNZfkZ7nvZTNbj].md",
@@ -8547,6 +8554,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》798丨东汉时期的百姓有多苦？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》797丨古代忠孝真的无法两全吗？ [lrU9shBWFwwr9lLUHhd7-xjuAlL6].md",
+          "key": "zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》797丨古代忠孝真的无法两全吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6/"
         }
       ],
       "updated": "2026-08-29",
@@ -10090,6 +10104,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/fenggunlatehan/"
     },
+    "FengHuanLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》797丨古代忠孝真的无法两全吗？ [lrU9shBWFwwr9lLUHhd7-xjuAlL6].md",
+          "key": "zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》797丨古代忠孝真的无法两全吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/fenghuanlatehan/"
+    },
     "FengJiLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -10404,6 +10434,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/forcebackedsurrenderpersuasion/"
+    },
+    "ForgedEdictLocalExecution": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》797丨古代忠孝真的无法两全吗？ [lrU9shBWFwwr9lLUHhd7-xjuAlL6].md",
+          "key": "zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》797丨古代忠孝真的无法两全吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/forgededictlocalexecution/"
     },
     "ForgedEdictPrivateExtraction": {
       "episode_count": 1,
@@ -11431,6 +11477,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/goalkeeperembodiedjudgment/"
+    },
+    "GoguryeoLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》797丨古代忠孝真的无法两全吗？ [lrU9shBWFwwr9lLUHhd7-xjuAlL6].md",
+          "key": "zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》797丨古代忠孝真的无法两全吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/goguryeolatehan/"
     },
     "GoldJewelryValuePerceptionRisk": {
       "episode_count": 1,
@@ -19054,9 +19116,9 @@
       "url": "/wiki/entities/maronglatehan/"
     },
     "MaXianLateHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》821丨不懂老板心思还想晋升？没门！ [lmJXR8fDXGW-ColRLinmuJba74fh].md",
@@ -19092,6 +19154,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》805丨通透人性的女人，竟能预测吉凶？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》797丨古代忠孝真的无法两全吗？ [lrU9shBWFwwr9lLUHhd7-xjuAlL6].md",
+          "key": "zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》797丨古代忠孝真的无法两全吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6/"
         }
       ],
       "updated": "2026-08-29",
@@ -20565,6 +20634,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/motivationrewardeffortcalculation/"
     },
+    "MourningDiplomaticRestraint": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》797丨古代忠孝真的无法两全吗？ [lrU9shBWFwwr9lLUHhd7-xjuAlL6].md",
+          "key": "zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》797丨古代忠孝真的无法两全吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/mourningdiplomaticrestraint/"
+    },
     "MultiTeacherDistillation": {
       "episode_count": 2,
       "show_count": 2,
@@ -21344,6 +21429,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/officialdutyoverpatroncommand/"
+    },
+    "OfficialMourningDutyConflict": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》797丨古代忠孝真的无法两全吗？ [lrU9shBWFwwr9lLUHhd7-xjuAlL6].md",
+          "key": "zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》797丨古代忠孝真的无法两全吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/concepts/officialmourningdutyconflict/"
     },
     "OilRevenueSanctionsLeverage": {
       "episode_count": 2,
@@ -32767,6 +32868,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/yanqikingdomlatehan/"
+    },
+    "YaoGuangLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》797丨古代忠孝真的无法两全吗？ [lrU9shBWFwwr9lLUHhd7-xjuAlL6].md",
+          "key": "zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》797丨古代忠孝真的无法两全吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/yaoguanglatehan/"
     },
     "YidaiZhao": {
       "episode_count": 1,
