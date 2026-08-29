@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "d6d0975d88c73cc06e30e1905981dcf71f09061d5988d627ac1ebf0bfce6b65f",
       "23275655c235e7f5ae1bb92e98235cd921b4ab2d135d4306a0671a9b84aa3ccd",
       "34acb5ea9c860fb038766002b67ed509d58847883f441c49dc243ea38dbe80de",
       "7289923d2b13e321867d982395f82f649614488a40794da9e3581d04c5483cb3",
@@ -366,11 +367,37 @@
       "c579b0c3102e48af519244d183c5c41e037740a37bf519bf5b0f4bf5ef849207",
       "56abb716e5b03c8a306adb1a6c6075e7f241a8cf33161741fecbd9f5b886bbb0"
     ],
-    "paragraph_count": 364
+    "paragraph_count": 365
   },
-  "overview_commit": "70e1762914014e8389a31917919775e2fadc483f",
-  "overview_digest": "022b9e31b84e96e0005ab0a29433bcb5310593884b1b5b599acf6af1bec8a52c",
+  "overview_commit": "a8f8eaf63656871cd95ed3f7313c05e5b035b4e4",
+  "overview_digest": "df64b96b8917be22cd2b6a1deea635ec99399e0054c686963b624dbbf23dc02f",
   "paragraphs": [
+    {
+      "id": "d6d0975d88c73cc06e30e1905981dcf71f09061d5988d627ac1ebf0bfce6b65f",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-806-xiangyao-chengshi-zhaodui-ren-hen-guanjian-luswh-p-oyutysxue6shweqcwqxs|《资治通鉴·汉纪》806丨想要成事，找对人很关键！]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 126 CE [[EmperorShunOfHan|汉顺帝]] court-access layer before [[zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d|Hanji 807]]. It adds [[SunChengLateHan|孙程]] and [[ZhuChangLateHan|朱伥]], while extending [[YuXuEasternHan|虞诩]], [[ZhangFangEunuchLateHan|张防]], [[GaoFanLateHan|高梵]], [[ZuoXiongLateHan|左雄]], [[ZhouJuLateHan|周举]], [[EmperorShunOfHan|汉顺帝]], and [[CourtAllyProtectionNetwork|朝廷盟友保护网络]]. Its core synthesis is that right claims need access and public witness when palace channels are captured: Yu Xu's anti-Zhang Fang memorial rebounds into prison until Sun Cheng, Gao Fan, family, and students reopen the case, and Sun Cheng's later merit backlash shows restoration credit becoming politically containable. No settled contradiction is recorded; Jia Lang, Yu Yi or Yu Ji, Zhu A Hou, Tao Dun, and the opening jealousy frame remain source-scoped.",
+      "topic_scores": {
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "CourtAllyProtectionNetwork",
+        "EmperorShunOfHan",
+        "GaoFanLateHan",
+        "RuiqiJiangtouZizhiTongjian",
+        "SunChengLateHan",
+        "YuXuEasternHan",
+        "ZhangFangEunuchLateHan",
+        "ZhouJuLateHan",
+        "ZhuChangLateHan",
+        "ZuoXiongLateHan",
+        "zizhi-tongjian-hanji-806-xiangyao-chengshi-zhaodui-ren-hen-guanjian-luswh-p-oyutysxue6shweqcwqxs",
+        "zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d"
+      ]
+    },
     {
       "id": "23275655c235e7f5ae1bb92e98235cd921b4ab2d135d4306a0671a9b84aa3ccd",
       "primary_topic": "ai-and-technology",

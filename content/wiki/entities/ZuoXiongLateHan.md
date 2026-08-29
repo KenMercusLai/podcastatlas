@@ -8,16 +8,19 @@ sources:
   - zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv
   - zizhi-tongjian-hanji-812-guren-40-sui-caineng-dangguan-lordzuaqhzghyd93tpm0fql1cigv
   - zizhi-tongjian-hanji-811-gudai-huangdi-jing-kao-chouqian-xuan-huanghou-lghfih9xcrjyrvdlb4obdxvwhl1y
+  - zizhi-tongjian-hanji-806-xiangyao-chengshi-zhaodui-ren-hen-guanjian-luswh-p-oyutysxue6shweqcwqxs
 last_updated: 2026-08-29
 ---
 
 ## Overview
 
-左雄 / Zuo Xiong is a Shun-era official whose current wiki profile now combines local-official tenure reform, Xiaolian recommendation reform, title-boundary remonstrance, ministerial dignity repair, and recommendation accountability. [[zizhi-tongjian-hanji-811-gudai-huangdi-jing-kao-chouqian-xuan-huanghou-lghfih9xcrjyrvdlb4obdxvwhl1y|Hanji 811]] shows him diagnosing local governance failure through short tenure, fake performance signals, amnesty loopholes, and grassroots extraction before proposing stricter Xiaolian testing; Hanji 812 shows him enforcing age, learning, writing, and exceptional-talent proof in local nominations; Hanji 813 shows him opposing private-favor enfeoffments for [[SongELateHan|宋娥]] and [[LiangJiLateHan|梁冀]] and then stopping the beating of nine ministers through the [[LiuJuLateHan|刘矩]] case; Hanji 819 later shows him corrected by [[ZhouJuLateHan|周举]] after recommending a previously corrupt candidate.
+左雄 / Zuo Xiong is a Shun-era official whose current wiki profile now begins with [[YuXuEasternHan|虞诩]] recommending him as loyal and direct, then expands into local-official tenure reform, Xiaolian recommendation reform, title-boundary remonstrance, ministerial dignity repair, and recommendation accountability. [[zizhi-tongjian-hanji-806-xiangyao-chengshi-zhaodui-ren-hen-guanjian-luswh-p-oyutysxue6shweqcwqxs|Hanji 806]] introduces him as a needed court talent after the Zhang Fang case; Hanji 811 shows him diagnosing local governance failure through short tenure, fake performance signals, amnesty loopholes, and grassroots extraction before proposing stricter Xiaolian testing; Hanji 812 shows him enforcing age, learning, writing, and exceptional-talent proof in local nominations; Hanji 813 shows him opposing private-favor enfeoffments for [[SongELateHan|宋娥]] and [[LiangJiLateHan|梁冀]] and then stopping the beating of nine ministers through the [[LiuJuLateHan|刘矩]] case; Hanji 819 later shows him corrected by [[ZhouJuLateHan|周举]] after recommending a previously corrupt candidate.
 
 ## Current Profile
 
-[[zizhi-tongjian-hanji-811-gudai-huangdi-jing-kao-chouqian-xuan-huanghou-lghfih9xcrjyrvdlb4obdxvwhl1y|Hanji 811]] supplies the earliest current Zuo Xiong layer. Zuo argues that local government is failing because commandery and county heads rotate too quickly, inspections reward fake reputation, accused officials escape through resignation or absconding until amnesty, and underfunded low-level offices pass costs down to commoners. His remedy is to keep and promote good local officials, bar lawless officials from future office, exile absconders and their families to the frontier, staff grassroots posts with clean capable students, and make evaluation distinguish real public benefit from false display.
+[[zizhi-tongjian-hanji-806-xiangyao-chengshi-zhaodui-ren-hen-guanjian-luswh-p-oyutysxue6shweqcwqxs|Hanji 806]] supplies Zuo Xiong's earliest current layer. After Yu Xu is released from the Zhang Fang case, he criticizes court officials who only flatter and build private ties, then recommends Zuo Xiong of Nanyang as loyal, direct, and fit for court office. Shun appoints Zuo as Shangshu, so Zuo enters the wiki first through a recommendation-quality moment before his later reform record.
+
+[[zizhi-tongjian-hanji-811-gudai-huangdi-jing-kao-chouqian-xuan-huanghou-lghfih9xcrjyrvdlb4obdxvwhl1y|Hanji 811]] supplies the next Zuo Xiong layer. Zuo argues that local government is failing because commandery and county heads rotate too quickly, inspections reward fake reputation, accused officials escape through resignation or absconding until amnesty, and underfunded low-level offices pass costs down to commoners. His remedy is to keep and promote good local officials, bar lawless officials from future office, exile absconders and their families to the frontier, staff grassroots posts with clean capable students, and make evaluation distinguish real public benefit from false display.
 
 The same source also sets up Zuo's Xiaolian reform. He proposes that recommended Xiaolian candidates normally be at least forty, that Confucian students be tested on classics, that clerks be tested on memorial drafting, and that results be checked through central channels while leaving an exception for unusual talent. [[EmperorShunOfHan|汉顺帝]] approves the local-official reform and then the Xiaolian proposal, though eunuchs object that Zuo's measures cannot be implemented.
 
@@ -31,16 +34,18 @@ Zuo presses the point even after partial rejection. Liang Shang repeatedly asks 
 
 ## Key Characteristics
 
+- Recommended as a loyal and direct court talent before his later reform record.
 - Local-governance reformer who ties stable tenure, honest inspection, disciplinary finality, and reduced grassroots extraction to office quality.
 - Appointment reformer who turns Xiaolian recommendation into an enforceable age, learning, writing, and exception-proof standard.
 - Title-boundary remonstrant who treats marquisate and landed reward as public instruments rather than private favors.
 - Persistent critic whose advice can be partially accepted, partially rejected, and then restated through disaster language.
 - Defender of Nine Ministers' procedural and ritual dignity after Liu Ju's beating.
-- Recommendation-channel official whose later candidate judgment is corrected by Zhou Ju, showing that his own reform logic also applies back to him.
-- Reputation actor who gains standing by accepting public correction rather than retaliating.
+- Recommendation-channel official whose later candidate judgment is corrected by Zhou Ju and whose standing rises because he accepts public correction.
 
 ## Evidence
 
+- Early recommendation: [[zizhi-tongjian-hanji-806-xiangyao-chengshi-zhaodui-ren-hen-guanjian-luswh-p-oyutysxue6shweqcwqxs|Hanji 806]] says Yu Xu recommends Zuo Xiong of Nanyang as loyal and direct after surviving the Zhang Fang case.
+- Early appointment: [[zizhi-tongjian-hanji-806-xiangyao-chengshi-zhaodui-ren-hen-guanjian-luswh-p-oyutysxue6shweqcwqxs|Hanji 806]] says Shun appoints Zuo Xiong as Shangshu after Yu Xu's recommendation.
 - Local-tenure diagnosis: [[zizhi-tongjian-hanji-811-gudai-huangdi-jing-kao-chouqian-xuan-huanghou-lghfih9xcrjyrvdlb4obdxvwhl1y|Hanji 811]] says Zuo links local disorder to frequent office turnover, fake performance reporting, resignation games, amnesty loopholes, and cost-shifting onto commoners.
 - Local-official remedy: [[zizhi-tongjian-hanji-811-gudai-huangdi-jing-kao-chouqian-xuan-huanghou-lghfih9xcrjyrvdlb4obdxvwhl1y|Hanji 811]] says Zuo wants good local officials promoted and retained, lawless officials barred for life, absconders exiled, and clean capable students appointed to grassroots posts.
 - Imperial adoption with resistance: [[zizhi-tongjian-hanji-811-gudai-huangdi-jing-kao-chouqian-xuan-huanghou-lghfih9xcrjyrvdlb4obdxvwhl1y|Hanji 811]] says Shun approves Zuo's local-official reform and orders rules against false performance, while eunuchs object that the policy cannot be implemented.
@@ -58,19 +63,20 @@ Zuo presses the point even after partial rejection. Liang Shang repeatedly asks 
 
 ## Qualifications
 
-This page is bounded to Hanji 811, Hanji 812, Hanji 813, and Hanji 819. Hanji 811 establishes Zuo's local-governance and Xiaolian setup but does not prove full implementation, since the same source records eunuch resistance and Hanji 812 supplies the enforcement controversy. Hanji 812 establishes appointment enforcement but does not make every later scholar-official outcome a direct product of his action; the Party Prohibition preview is treated as source framing about structural consequences. Hanji 813's transcript uses 梁毅 in the title dispute, normalized here to [[LiangJiLateHan|梁冀]] because the surrounding Liang Shang son and Xiangyi-marquis context matches the existing Liang Ji route. The page does not yet incorporate Zuo Xiong's broader historical reform career unless later source notes are ingested into this page.
+This page is bounded to Hanji 806, Hanji 811, Hanji 812, Hanji 813, and Hanji 819. Hanji 806 establishes a recommendation and appointment entry point but does not give Zuo's own memorial text. Hanji 811 establishes Zuo's local-governance and Xiaolian setup but does not prove full implementation, since the same source records eunuch resistance and Hanji 812 supplies the enforcement controversy. Hanji 812 establishes appointment enforcement but does not make every later scholar-official outcome a direct product of his action; the Party Prohibition preview is treated as source framing about structural consequences. Hanji 813's transcript uses 梁毅 in the title dispute, normalized here to [[LiangJiLateHan|梁冀]] because the surrounding Liang Shang son and Xiangyi-marquis context matches the existing Liang Ji route. The page does not yet incorporate Zuo Xiong's broader historical reform career unless later source notes are ingested into this page.
 
 ## What Changed
 
-- Added Hanji 811 as Zuo Xiong's earliest current layer: local-official tenure, inspection, anti-amnesty discipline, grassroots staffing, and Xiaolian setup.
-- Reframed Hanji 812 as the enforcement continuation of the Xiaolian program rather than the beginning of Zuo's reform profile.
+- Added Hanji 806 as Zuo Xiong's earliest current layer: Yu Xu's loyal-direct recommendation and Shun's Shangshu appointment.
+- Kept Hanji 811 as the local-official tenure, inspection, anti-amnesty discipline, grassroots staffing, and Xiaolian setup layer.
+- Preserved Hanji 812 as the enforcement continuation of the Xiaolian program.
 - Preserved Hanji 813 as the following title-boundary and nine-minister dignity layer.
 - Preserved Hanji 819 as the later recommendation-quality case in which Zhou Ju corrects him.
-- Reframed Zuo's significance around public boundaries: tenure, evaluation, title, office dignity, and candidate fitness.
 
 ## Relationships
 
 - [[EmperorShunOfHan|汉顺帝]] - ruler who accepts Zuo's local-official and Xiaolian reforms while rejecting the Song E title correction.
+- [[YuXuEasternHan|虞诩]] - official who recommends Zuo as loyal and direct after the Zhang Fang case.
 - [[LocalOfficialTenureStability|地方官任期稳定]] - concept directly extended by Zuo's argument that good local officials need stable terms and credible evaluation.
 - [[IndependentOfficialAudit|独立官员考核]] - related audit concern behind Zuo's critique of fake inspection and reputation manufacture.
 - [[CourtFeedbackCollapse]] - failure mode Zuo diagnoses when inspection rewards visible display rather than ground truth.

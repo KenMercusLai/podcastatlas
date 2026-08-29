@@ -13436,3 +13436,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-29] ingest | 《资治通鉴·汉纪》806丨想要成事，找对人很关键！
+
+Ingested the 2026-07-09 芮淇讲透资治通鉴 episode on 126 CE Emperor Shun, Yu Xu's anti-Zhang Fang prosecution, Sun Cheng and Gao Fan reopening the blocked case, Yu Xu's recommendation of Zuo Xiong, and Sun Cheng's nineteen-marquis merit backlash. Created the source note plus `SunChengLateHan` and `ZhuChangLateHan`; updated `YuXuEasternHan`, `ZhangFangEunuchLateHan`, `GaoFanLateHan`, `ZuoXiongLateHan`, `ZhouJuLateHan`, `EmperorShunOfHan`, `CourtAllyProtectionNetwork`, `index`, and `overview`. No settled contradiction found; Jia Lang, Yu Yi or Yu Ji, Zhu A Hou, Tao Dun, and the opening jealousy frame remain source-scoped.
+
+## [2026-08-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

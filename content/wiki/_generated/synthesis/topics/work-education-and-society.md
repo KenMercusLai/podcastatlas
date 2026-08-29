@@ -4,17 +4,29 @@ generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
 last_updated: 2026-08-29
-as_of_overview_commit: b557f4442ba39998737ff180b24d91b7a0ba3f3f
-input_digest: 151f3e143a2eba3309a954fd8a58cf46560dea40d9289a8c991051aed465f6ca
+as_of_overview_commit: a8f8eaf63656871cd95ed3f7313c05e5b035b4e4
+input_digest: 8340c60f82d9a6df61b3ed39f1173752961f408e94e76b8159bef4e1af899c45
 ---
 
 # Work, Education, and Society
 
 ## Current State
 
-A new Hanji 813 historical office-boundary example adds that role dignity, title rules, and feedback channels also shape institutional capacity. Work, education, and society sources converge on a practical pattern: durable capability comes from bounded institutions, active learning, realistic workplace judgment, and human feedback loops. AI and other tools can compress work, but the useful sources keep returning to self-directed effort, context, verification, social trust, pacing, health, and environments that let people act under real constraints.
+A Hanji 806 historical access-and-relationship case adds that correct claims need usable channels, public witnesses, and hierarchy-aware merit handling before they become institutional action. A new Hanji 813 historical office-boundary example adds that role dignity, title rules, and feedback channels also shape institutional capacity. Work, education, and society sources converge on a practical pattern: durable capability comes from bounded institutions, active learning, realistic workplace judgment, and human feedback loops. AI and other tools can compress work, but the useful sources keep returning to self-directed effort, context, verification, social trust, pacing, health, and environments that let people act under real constraints.
 
 ## Cross-source Findings
+
+### Historical Relationship Channels Shape Workable Claims
+
+[[zizhi-tongjian-hanji-806-xiangyao-chengshi-zhaodui-ren-hen-guanjian-luswh-p-oyutysxue6shweqcwqxs|Hanji 806]] adds a historical work-and-society analogy: [[YuXuEasternHan]]'s correct accusation does not work until [[SunChengLateHan]], [[GaoFanLateHan]], family, and students create an effective channel; [[ZuoXiongLateHan]]'s recommendation links relationship access to appointment quality; and [[ZhuChangLateHan]] plus [[ZhouJuLateHan]] show that merit claims still need hierarchy-aware handling under [[EmperorShunOfHan]].
+
+**Evidence:** [[zizhi-tongjian-hanji-806-xiangyao-chengshi-zhaodui-ren-hen-guanjian-luswh-p-oyutysxue6shweqcwqxs]], [[YuXuEasternHan]], [[SunChengLateHan]], [[GaoFanLateHan]], [[ZuoXiongLateHan]], [[ZhuChangLateHan]], [[ZhouJuLateHan]], [[EmperorShunOfHan]]
+
+**Qualifications:**
+
+- This is a historical analogy from Hanji 806, not modern workplace, education, or legal advice.
+- The claim is included in this topic only because the planner marked the paragraph as secondary work/society input through action, people, and institutional-channel language.
+- Jia Lang, Yu Yi or Yu Ji, Zhu A Hou, Tao Dun, and the episode's opening jealousy frame remain source-scoped.
 
 ### Historical Office Boundaries Link Role Dignity And Capacity
 

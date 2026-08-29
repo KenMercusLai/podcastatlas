@@ -5955,9 +5955,9 @@
       "url": "/wiki/entities/countessmariefestetics/"
     },
     "CourtAllyProtectionNetwork": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》818丨官场为什么要多交友？能救命！ [liYzIuDpEzoA4L6pBSQ0wk2qDjDr].md",
@@ -5965,6 +5965,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》818丨官场为什么要多交友？能救命！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》806丨想要成事，找对人很关键！ [luswh-p-OYutYSXuE6sHWEQcWQxs].md",
+          "key": "zizhi-tongjian-hanji-806-xiangyao-chengshi-zhaodui-ren-hen-guanjian-luswh-p-oyutysxue6shweqcwqxs",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》806丨想要成事，找对人很关键！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-806-xiangyao-chengshi-zhaodui-ren-hen-guanjian-luswh-p-oyutysxue6shweqcwqxs/"
         }
       ],
       "updated": "2026-08-29",
@@ -8477,9 +8484,9 @@
       "url": "/wiki/entities/emperorhuanofhan/"
     },
     "EmperorShunOfHan": {
-      "episode_count": 17,
+      "episode_count": 18,
       "show_count": 1,
-      "source_note_count": 17,
+      "source_note_count": 18,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》822丨豺狼当道，他将矛头直指皇帝岳父？ [lqHpMAYVd3p07BYR_zOIv-jyhdv_].md",
@@ -8599,6 +8606,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》807丨班超之子为何会含冤入狱？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》806丨想要成事，找对人很关键！ [luswh-p-OYutYSXuE6sHWEQcWQxs].md",
+          "key": "zizhi-tongjian-hanji-806-xiangyao-chengshi-zhaodui-ren-hen-guanjian-luswh-p-oyutysxue6shweqcwqxs",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》806丨想要成事，找对人很关键！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-806-xiangyao-chengshi-zhaodui-ren-hen-guanjian-luswh-p-oyutysxue6shweqcwqxs/"
         }
       ],
       "updated": "2026-08-29",
@@ -10450,9 +10464,9 @@
       "url": "/wiki/entities/gaoerji/"
     },
     "GaoFanLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》824丨为什么我们要学“守拙” [lpsSY8lTyKugDpvmgrzWcPF6-9V9].md",
@@ -10460,6 +10474,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》824丨为什么我们要学“守拙”",
           "url": "/wiki/sources/zizhi-tongjian-hanji-824-weishenme-women-yao-xue-shouzhuo-lpssy8ltykugdpvmgrzwcpf6-9v9/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》806丨想要成事，找对人很关键！ [luswh-p-OYutYSXuE6sHWEQcWQxs].md",
+          "key": "zizhi-tongjian-hanji-806-xiangyao-chengshi-zhaodui-ren-hen-guanjian-luswh-p-oyutysxue6shweqcwqxs",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》806丨想要成事，找对人很关键！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-806-xiangyao-chengshi-zhaodui-ren-hen-guanjian-luswh-p-oyutysxue6shweqcwqxs/"
         }
       ],
       "updated": "2026-08-29",
@@ -25991,6 +26012,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/sunceassassination/"
     },
+    "SunChengLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》806丨想要成事，找对人很关键！ [luswh-p-OYutYSXuE6sHWEQcWQxs].md",
+          "key": "zizhi-tongjian-hanji-806-xiangyao-chengshi-zhaodui-ren-hen-guanjian-luswh-p-oyutysxue6shweqcwqxs",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》806丨想要成事，找对人很关键！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-806-xiangyao-chengshi-zhaodui-ren-hen-guanjian-luswh-p-oyutysxue6shweqcwqxs/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/sunchenglatehan/"
+    },
     "SunFenFufengLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -31412,9 +31449,9 @@
       "url": "/wiki/entities/yufan/"
     },
     "YuXuEasternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》818丨官场为什么要多交友？能救命！ [liYzIuDpEzoA4L6pBSQ0wk2qDjDr].md",
@@ -31429,6 +31466,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》810丨他拼个满门被斩，为何也要杀妻？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》806丨想要成事，找对人很关键！ [luswh-p-OYutYSXuE6sHWEQcWQxs].md",
+          "key": "zizhi-tongjian-hanji-806-xiangyao-chengshi-zhaodui-ren-hen-guanjian-luswh-p-oyutysxue6shweqcwqxs",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》806丨想要成事，找对人很关键！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-806-xiangyao-chengshi-zhaodui-ren-hen-guanjian-luswh-p-oyutysxue6shweqcwqxs/"
         }
       ],
       "updated": "2026-08-29",
@@ -31722,9 +31766,9 @@
       "url": "/wiki/entities/zhangfanwanlatehan/"
     },
     "ZhangFangEunuchLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》818丨官场为什么要多交友？能救命！ [liYzIuDpEzoA4L6pBSQ0wk2qDjDr].md",
@@ -31732,6 +31776,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》818丨官场为什么要多交友？能救命！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》806丨想要成事，找对人很关键！ [luswh-p-OYutYSXuE6sHWEQcWQxs].md",
+          "key": "zizhi-tongjian-hanji-806-xiangyao-chengshi-zhaodui-ren-hen-guanjian-luswh-p-oyutysxue6shweqcwqxs",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》806丨想要成事，找对人很关键！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-806-xiangyao-chengshi-zhaodui-ren-hen-guanjian-luswh-p-oyutysxue6shweqcwqxs/"
         }
       ],
       "updated": "2026-08-29",
@@ -32754,9 +32805,9 @@
       "url": "/wiki/entities/zhoujinglatehan/"
     },
     "ZhouJuLateHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》821丨不懂老板心思还想晋升？没门！ [lmJXR8fDXGW-ColRLinmuJba74fh].md",
@@ -32778,6 +32829,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》816丨想要“拿下”你的领导，其实很简单",
           "url": "/wiki/sources/zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》806丨想要成事，找对人很关键！ [luswh-p-OYutYSXuE6sHWEQcWQxs].md",
+          "key": "zizhi-tongjian-hanji-806-xiangyao-chengshi-zhaodui-ren-hen-guanjian-luswh-p-oyutysxue6shweqcwqxs",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》806丨想要成事，找对人很关键！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-806-xiangyao-chengshi-zhaodui-ren-hen-guanjian-luswh-p-oyutysxue6shweqcwqxs/"
         }
       ],
       "updated": "2026-08-29",
@@ -32856,6 +32914,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/zhubilatehan/"
+    },
+    "ZhuChangLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》806丨想要成事，找对人很关键！ [luswh-p-OYutYSXuE6sHWEQcWQxs].md",
+          "key": "zizhi-tongjian-hanji-806-xiangyao-chengshi-zhaodui-ren-hen-guanjian-luswh-p-oyutysxue6shweqcwqxs",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》806丨想要成事，找对人很关键！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-806-xiangyao-chengshi-zhaodui-ren-hen-guanjian-luswh-p-oyutysxue6shweqcwqxs/"
+        }
+      ],
+      "updated": "2026-08-29",
+      "url": "/wiki/entities/zhuchanglatehan/"
     },
     "ZhuDaLateHan": {
       "episode_count": 1,
@@ -33104,9 +33178,9 @@
       "url": "/wiki/entities/zuoshenglatehan/"
     },
     "ZuoXiongLateHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》819丨2人功比4万人，他的权谋令人拍案叫绝！ [lsSLJ3Y_kRNd8h-c8x5pgSQeinff].md",
@@ -33135,6 +33209,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》811丨古代皇帝竟靠抽签选皇后？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-811-gudai-huangdi-jing-kao-chouqian-xuan-huanghou-lghfih9xcrjyrvdlb4obdxvwhl1y/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》806丨想要成事，找对人很关键！ [luswh-p-OYutYSXuE6sHWEQcWQxs].md",
+          "key": "zizhi-tongjian-hanji-806-xiangyao-chengshi-zhaodui-ren-hen-guanjian-luswh-p-oyutysxue6shweqcwqxs",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》806丨想要成事，找对人很关键！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-806-xiangyao-chengshi-zhaodui-ren-hen-guanjian-luswh-p-oyutysxue6shweqcwqxs/"
         }
       ],
       "updated": "2026-08-29",

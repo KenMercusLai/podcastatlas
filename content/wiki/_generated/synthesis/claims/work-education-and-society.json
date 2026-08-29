@@ -2,6 +2,27 @@
   "claims": [
     {
       "global_candidate": false,
+      "id": "historical-relationship-channels-shape-workable-claims",
+      "qualifications": [
+        "This is a historical analogy from Hanji 806, not modern workplace, education, or legal advice.",
+        "The claim is included in this topic only because the planner marked the paragraph as secondary work/society input through action, people, and institutional-channel language.",
+        "Jia Lang, Yu Yi or Yu Ji, Zhu A Hou, Tao Dun, and the episode's opening jealousy frame remain source-scoped."
+      ],
+      "statement": "[[zizhi-tongjian-hanji-806-xiangyao-chengshi-zhaodui-ren-hen-guanjian-luswh-p-oyutysxue6shweqcwqxs|Hanji 806]] adds a historical work-and-society analogy: [[YuXuEasternHan]]'s correct accusation does not work until [[SunChengLateHan]], [[GaoFanLateHan]], family, and students create an effective channel; [[ZuoXiongLateHan]]'s recommendation links relationship access to appointment quality; and [[ZhuChangLateHan]] plus [[ZhouJuLateHan]] show that merit claims still need hierarchy-aware handling under [[EmperorShunOfHan]].",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-806-xiangyao-chengshi-zhaodui-ren-hen-guanjian-luswh-p-oyutysxue6shweqcwqxs",
+        "YuXuEasternHan",
+        "SunChengLateHan",
+        "GaoFanLateHan",
+        "ZuoXiongLateHan",
+        "ZhuChangLateHan",
+        "ZhouJuLateHan",
+        "EmperorShunOfHan"
+      ]
+    },
+    {
+      "global_candidate": false,
       "id": "historical-office-boundaries-link-role-dignity-and-capacity",
       "qualifications": [
         "This is a historical office-role analogy from Hanji 813, not modern workplace, education, or legal advice.",
@@ -110,6 +131,6 @@
       ]
     }
   ],
-  "summary": "A new Hanji 813 historical office-boundary example adds that role dignity, title rules, and feedback channels also shape institutional capacity. Work, education, and society sources converge on a practical pattern: durable capability comes from bounded institutions, active learning, realistic workplace judgment, and human feedback loops. AI and other tools can compress work, but the useful sources keep returning to self-directed effort, context, verification, social trust, pacing, health, and environments that let people act under real constraints.",
+  "summary": "A Hanji 806 historical access-and-relationship case adds that correct claims need usable channels, public witnesses, and hierarchy-aware merit handling before they become institutional action. A new Hanji 813 historical office-boundary example adds that role dignity, title rules, and feedback channels also shape institutional capacity. Work, education, and society sources converge on a practical pattern: durable capability comes from bounded institutions, active learning, realistic workplace judgment, and human feedback loops. AI and other tools can compress work, but the useful sources keep returning to self-directed effort, context, verification, social trust, pacing, health, and environments that let people act under real constraints.",
   "topic_id": "work-education-and-society"
 }

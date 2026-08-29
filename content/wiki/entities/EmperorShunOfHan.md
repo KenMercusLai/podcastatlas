@@ -21,6 +21,7 @@ sources:
   - zizhi-tongjian-hanji-809-weishenme-quan-ni-buyao-luan-pai-mapi-lnv2l-ehkzmf2ifz3semscaqftku
   - zizhi-tongjian-hanji-808-ta-jiujing-shi-mingjia-haishi-pianzi-lhmsw7zusdkqddk-zu27oj6hfs2m
   - zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d
+  - zizhi-tongjian-hanji-806-xiangyao-chengshi-zhaodui-ren-hen-guanjian-luswh-p-oyutysxue6shweqcwqxs
 last_updated: 2026-08-29
 ---
 
@@ -28,11 +29,13 @@ last_updated: 2026-08-29
 
 ## Overview
 
-汉顺帝 / Emperor Shun of Han appears in this wiki as a late Eastern Han ruler whose reign combines real moments of correction with brittle court, palace, frontier, and succession systems. The current synthesis now spans the Shun-era backfill from 126 CE through 144 CE: border repair and Western Regions recovery, talent summons that tests ruler virtue and coercion, early summons of useful scholar-officials, disaster-framed frugality signaling, commandery, garrison, Taixue, and royal-fief repairs, selective acceptance of personnel and disaster remonstrance, repeated palace and eunuch dependence, mixed frontier judgment, and a final succession that leaves effective power with the Liang family.
+汉顺帝 / Emperor Shun of Han appears in this wiki as a late Eastern Han ruler whose reign combines real moments of correction with brittle court, palace, frontier, and succession systems. The current synthesis now spans the Shun-era backfill from 126 CE through 144 CE: the Zhang Fang and Yu Xu court-access crisis, Sun Cheng's accession-merit backlash, border repair and Western Regions recovery, talent summons that tests ruler virtue and coercion, early summons of useful scholar-officials, disaster-framed frugality signaling, commandery, garrison, Taixue, and royal-fief repairs, selective acceptance of personnel and disaster remonstrance, repeated palace and eunuch dependence, mixed frontier judgment, and a final succession that leaves effective power with the Liang family.
 
 ## Current Profile
 
-The earliest current layer now begins with [[zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d|Hanji 807]]. In 126-127 CE, Shun's court faces decayed defenses west of Shuofang, Xianbei pressure on [[SouthernXiongnu|南匈奴]], and renewed need for troops and frontier training. The same source shows [[BanYongLateHan|班勇]] recovering Western Regions alignment through [[CheshiHouKingdomLateHan|车师后王国]] and other polities, then being jailed after [[ZhangLangLateHan|张郎]] attacks [[YanqiKingdomLateHan|焉耆国]] ahead of the agreed plan and makes Ban Yong appear late. The layer also records Shun's posthumous honoring of his birth mother Li and the appointment of [[XuJingLateHan|徐敬]], whose nonalignment with earlier outer-relative houses makes him look reliable.
+The earliest current layer now begins with [[zizhi-tongjian-hanji-806-xiangyao-chengshi-zhaodui-ren-hen-guanjian-luswh-p-oyutysxue6shweqcwqxs|Hanji 806]]. In 126 CE, Shun's court tests whether an emperor can still hear loyal accusation when eunuch access and court friendship distort the channel. Zhang Fang's complaint turns Yu Xu's anti-corruption prosecution into Yu Xu's imprisonment and torture, but Sun Cheng, Gao Fan, Yu Xu's family, and students reopen the case. Shun banishes Zhang Fang, punishes Jia Lang and others, releases and promotes Yu Xu, and accepts Yu Xu's recommendation of Zuo Xiong. The same source then shows Shun punishing Sun Cheng's nineteen-marquis group after merit claims become politically threatening, partially accepting Zhu Chang's memorial, restoring Sun Cheng's title after defiance, and still sending him back to his fief.
+
+The next frontier layer comes from [[zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d|Hanji 807]]. In 126-127 CE, Shun's court faces decayed defenses west of Shuofang, Xianbei pressure on [[SouthernXiongnu|南匈奴]], and renewed need for troops and frontier training. The same source shows [[BanYongLateHan|班勇]] recovering Western Regions alignment through [[CheshiHouKingdomLateHan|车师后王国]] and other polities, then being jailed after [[ZhangLangLateHan|张郎]] attacks [[YanqiKingdomLateHan|焉耆国]] ahead of the agreed plan and makes Ban Yong appear late. The layer also records Shun's posthumous honoring of his birth mother Li and the appointment of [[XuJingLateHan|徐敬]], whose nonalignment with earlier outer-relative houses makes him look reliable.
 
 The next early layer comes from [[zizhi-tongjian-hanji-808-ta-jiujing-shi-mingjia-haishi-pianzi-lhmsw7zusdkqddk-zu27oj6hfs2m|Hanji 808]], which the source places at Shun's Yongjian opening despite occasional Emperor An wording. Shun's court seeks [[FanYingLateHan|樊英]], treats him with medical attention, gifts, teacher ritual, consultation, and offices, but cannot convert his reputation into clear public service. The case makes talent summons an early legitimacy problem: a ruler who cannot attract worthy people should examine virtue, court disorder, and sincerity before using rank or punishment to force service.
 
@@ -52,7 +55,7 @@ By the final year, Shun's court still performs repairs but cannot escape structu
 
 ## Key Characteristics
 
-- Uses early frontier repair, Western Regions recovery, talent summons, public signals, appointments, and frugality gestures to mark personal-rule authority under unstable conditions.
+- Uses early court correction, frontier repair, Western Regions recovery, talent summons, public signals, appointments, and frugality gestures to mark personal-rule authority under unstable conditions.
 - Responsive to concrete corrective advice when advisers translate ritual, omen, personnel, or frontier warnings into specific action.
 - Uses appointments and institutional repair as tools of state capacity, from Shen Jing in Hejian and Taixue rebuilding to Zuo Xiong's Xiaolian rules and Li Gu's Jiaozhi plan.
 - Uneven at private-favor and palace boundaries, especially around Song E, eunuch privileges, Liang-family ascent, and direct-edict retaliation.
@@ -62,6 +65,7 @@ By the final year, Shun's court still performs repairs but cannot escape structu
 
 ## Evidence
 
+- Early court-access correction and merit containment: [[zizhi-tongjian-hanji-806-xiangyao-chengshi-zhaodui-ren-hen-guanjian-luswh-p-oyutysxue6shweqcwqxs|Hanji 806]] shows Shun banishing Zhang Fang and releasing Yu Xu only after Sun Cheng, Gao Fan, family, and students reopen the case, then later removing, relocating, and partially restoring Sun Cheng's merit group.
 - Frontier recovery and report distortion: [[zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d|Hanji 807]] shows Shun's opening court repairing border readiness, benefiting from Ban Yong's Western Regions recovery, and then punishing Ban Yong after Zhang Lang's early Yanqi attack distorts the apparent timing.
 - Talent summons and reclusion boundary: [[zizhi-tongjian-hanji-808-ta-jiujing-shi-mingjia-haishi-pianzi-lhmsw7zusdkqddk-zu27oj6hfs2m|Hanji 808]] shows Shun's court trying to recruit Fan Ying through courtesy, gifts, offices, and pressure, while Sima Guang's judgment turns failed recruitment into a ruler-side self-examination problem.
 - Early personal-rule signaling: [[zizhi-tongjian-hanji-809-weishenme-quan-ni-buyao-luan-pai-mapi-lnv2l-ehkzmf2ifz3semscaqftku|Hanji 809]] shows Shun's court summoning Huang Qiong, issuing a 129 CE frugality edict after disasters, and returning Wen Long's large pearl as flattery when it violates the ban on precious-object tribute.
@@ -76,15 +80,15 @@ By the final year, Shun's court still performs repairs but cannot escape structu
 
 ## Qualifications
 
-This page synthesizes seventeen source notes, not a complete reign history. Hanji 807 now supplies the earliest current frontier-recovery and court-reporting layer, but it does not by itself settle the full administrative history of Shuofang defenses, Ban Yong's earlier career, Li Shi's status, or the court's internal handling of Ban Yong's case. Hanji 808 supplies the next talent-summons layer and carries an internal label tension: the chronology points to Shun's Yongjian opening while some wording names Emperor An. Hanji 809 then backfills events before Hanji 810; it shows early summons, frugality signaling, and Wen Long's failed pearl tribute, but it does not by itself prove Shun's full fiscal policy or personal motive. Hanji 810 supplies the next early-reign repair layer; because these are narrated podcast sources, minor figures such as Wang Yi, Zhang Kai, Yang Hou, Huang Xiang, Huan Yan, Lai Li, Liu Guang, Zhang Hao, Fang Qian, King Xing of Jumi, Xu You, Liu Qi, Geng Ye, and Han Hao remain source-scoped until recurring evidence appears. The current profile should avoid flattening Shun into either a reformer or a failed ruler alone: the same reign contains accepted repair advice, private-favor leakage, harsh kinship punishment, distorted reporting, and frontier misjudgment. Names and route normalizations remain subject to later correction if additional sources sharpen the Western Regions, Qiang, Wuling, Song E, Liang-family, Zhang Kui, or succession sequences.
+This page synthesizes eighteen source notes, not a complete reign history. Hanji 806 now supplies the earliest current court-access and merit-containment layer, but it does not by itself settle the full biographies of Jia Lang, Yu Yi or Yu Ji, Zhu A Hou, Tao Dun, Sun Cheng's group, or the later administrative status of Zhang Fang after banishment. Hanji 807 supplies the next frontier-recovery and court-reporting layer, but it does not by itself settle the full administrative history of Shuofang defenses, Ban Yong's earlier career, Li Shi's status, or the court's internal handling of Ban Yong's case. Hanji 808 supplies the next talent-summons layer and carries an internal label tension: the chronology points to Shun's Yongjian opening while some wording names Emperor An. Hanji 809 then backfills events before Hanji 810; it shows early summons, frugality signaling, and Wen Long's failed pearl tribute, but it does not by itself prove Shun's full fiscal policy or personal motive. Hanji 810 supplies the next early-reign repair layer; because these are narrated podcast sources, minor figures such as Wang Yi, Zhang Kai, Yang Hou, Huang Xiang, Huan Yan, Lai Li, Liu Guang, Zhang Hao, Fang Qian, King Xing of Jumi, Xu You, Liu Qi, Geng Ye, and Han Hao remain source-scoped until recurring evidence appears. The current profile should avoid flattening Shun into either a reformer or a failed ruler alone: the same reign contains accepted repair advice, private-favor leakage, harsh kinship punishment, distorted reporting, and frontier misjudgment. Names and route normalizations remain subject to later correction if additional sources sharpen the Western Regions, Qiang, Wuling, Song E, Liang-family, Zhang Kui, or succession sequences.
 
 ## What Changed
 
-- Added Hanji 807 as the earliest current layer, adding border repair, Ban Yong's Western Regions recovery, Yanqi credit distortion, Li Shi's posthumous honoring, and Xu Jing's clean nonalignment.
-- Kept Hanji 808 as the following talent-summons layer, with Fan Ying's forced recruitment and Sima Guang's ruler self-examination standard.
-- Kept Hanji 809 as the following 127-129 CE layer, covering 127 CE summons, the 129 CE coming-of-age and frugality edict, and Wen Long's rejected pearl tribute.
-- Compressed the prior Hanji 812-816 material into a single corrective-remonstrance and private-favor boundary synthesis.
-- Preserved the Hanji 817-821 contrast between palace dependence, rejected warning, low-cost repair, and failed frontier command.
+- Added Hanji 806 as the earliest current court-access layer: Yu Xu versus Zhang Fang, Sun Cheng and Gao Fan's rescue channel, Zuo Xiong's recommendation, and Sun Cheng's merit backlash.
+- Preserved Hanji 807 as the next frontier layer, adding border repair, Ban Yong's Western Regions recovery, Yanqi credit distortion, Li Shi's posthumous honoring, and Xu Jing's clean nonalignment.
+- Kept Hanji 808 and Hanji 809 as the following talent-summons, early summons, frugality, and failed pearl-tribute layers.
+- Preserved Hanji 810's commandery, Yiwu, Taixue, Hejian, Western Regions, royal-kinship, and Qiang-field material.
+- Preserved the Hanji 811-824 contrast between accepted correction, palace dependence, rejected warning, low-cost repair, failed command, Liang-family ascent, and succession fragility.
 
 ## Relationships
 
@@ -92,6 +96,12 @@ This page synthesizes seventeen source notes, not a complete reign history. Hanj
 - [[ZhangLangLateHan|张郎]] - Dunhuang administrator whose early Yanqi attack creates the report environment for Ban Yong's imprisonment.
 - [[YanqiKingdomLateHan|焉耆国]] - Western Regions holdout whose surrender becomes the occasion for Ban Yong's wrongful blame.
 - [[XuJingLateHan|徐敬]] - situ appointed under Shun after preserving a clean record through earlier outer-relative houses.
+- [[YuXuEasternHan|虞诩]] - official whose anti-Zhang Fang prosecution Shun initially mishandles, whose Zuo Xiong recommendation Shun accepts, and whose frontier restoration proposal Shun later accepts before rejecting his Wuling tax warning.
+- [[ZhangFangEunuchLateHan|张防]] - eunuch whose complaint leads Shun to punish Yu Xu before Shun later banishes him under public and palace-channel pressure.
+- [[SunChengLateHan|孙程]] - accession contributor who helps save Yu Xu and later becomes politically contained when his merit group presses Shun.
+- [[GaoFanLateHan|高梵]] - palace channel whose report helps reopen Yu Xu's case under Shun.
+- [[ZhuChangLateHan|朱伥]] - situ whose memorial, pushed by Zhou Ju, gets Shun to partly reconsider the Sun Cheng group case.
+- [[CourtAllyProtectionNetwork|朝廷盟友保护网络]] - protection pattern visible when Shun hears blocked cases only after allies and access channels intervene.
 - [[CommandCreditMisattribution|军功归属错置]] - command-reporting failure visible in Ban Yong's punishment after Zhang Lang's premature action.
 - [[FrontierProxyCommitmentBinding|边疆代理承诺绑定]] - frontier strategy visible in Ban Yong's handling of Cheshi Hou against Northern Xiongnu.
 - [[NonalignedCourtSurvival|不依附式朝廷生存]] - survival pattern visible in Xu Jing's reputation as a nonattached official.
@@ -101,7 +111,6 @@ This page synthesizes seventeen source notes, not a complete reign history. Hanj
 - [[WenLongLateHan|文龙]] - Guiyang administrator whose pearl Shun rejects as flattery after issuing a frugality edict.
 - [[HuangQiongLateHan|黄琼]] - scholar-official summoned in Shun's early personal-rule layer and later accepted as an effective memorialist.
 - [[LiGuLateHan|李固]] - adviser whose early letter to Huang Qiong frames service under Shun as necessary even without ideal rulership.
-- [[YuXuEasternHan|虞诩]] - adviser whose frontier restoration proposal Shun accepts before later rejecting his Wuling tax warning.
 - [[AndingCommandery|安定郡]] - restored commandery in Shun's early frontier-repair layer.
 - [[BeidiCommandery|北地郡]] - restored commandery in Shun's early frontier-repair layer.
 - [[Shangjun|上郡]] - restored commandery in Shun's early frontier-repair layer.
@@ -131,7 +140,7 @@ This page synthesizes seventeen source notes, not a complete reign history. Hanj
 - [[PrivateFavorAppointmentErosion|私恩任官侵蚀]] - Li Gu's diagnosis of Shun's wet-nurse, Liang-kin, and near-attendant appointment problem.
 - [[CourtCoreRectification|朝廷心腹整顿]] - Li Gu's frame for repairing central offices and palace access before outer administration can hold.
 - [[BeneficialGovernanceDelivery|善政实惠落地]] - Ma Rong's standard for judging Shun's promises by concrete household relief.
-- [[ZhouJuLateHan|周举]] - remonstrant whose drought counsel and loyalty criterion show Shun receiving correction before later cases.
+- [[ZhouJuLateHan|周举]] - remonstrant whose pressure on Zhu Chang, drought counsel, and loyalty criterion show correction pressure reaching Shun through multiple channels.
 - [[RootCauseRemonstrance|根源诊断式进谏]] - concept illustrated when Shun's rain-prayer crisis is redirected toward palace and policy causes.
 - [[PangCanLateHan|庞参]] - taiwei whom Shun comforts after Duan Gongcheng's defense and later dismisses after household scandal.
 - [[DuanGongchengLateHan|段恭诚]] - reporting official whose memorial causes Shun to send comfort envoys to Pang Can.
@@ -143,7 +152,6 @@ This page synthesizes seventeen source notes, not a complete reign history. Hanj
 - [[WulingManLateHan|武陵蛮]] - frontier population whose revolt follows Shun's rejected tax-stability warning.
 - [[LiJinWulingLateHan|李进]] - Wuling administrator Shun sends after the revolt.
 - [[FaZhenEasternHan|法真]] - recluse Shun summons repeatedly without success.
-- [[ZhangFangEunuchLateHan|张防]] - eunuch figure whose danger shows the limits of anti-eunuch correction under Shun.
 - [[JiaozhiCommandery|交趾郡]] - southern crisis where Shun chooses appointments over mass expedition.
 - [[ZhangQiaoLateHan|张乔]] - Jiaozhi inspector appointed under Shun after Li Gu's recommendation.
 - [[ZhuLiangLateHan|祝良]] - Jiuzhen administrator appointed under Shun after Li Gu's recommendation.

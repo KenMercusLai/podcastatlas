@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》806丨想要成事，找对人很关键！](sources/zizhi-tongjian-hanji-806-xiangyao-chengshi-zhaodui-ren-hen-guanjian-luswh-p-oyutysxue6shweqcwqxs.md) — 芮淇讲透资治通鉴 episode on 126 CE Emperor Shun, Yu Xu's anti-Zhang Fang prosecution, Sun Cheng and Gao Fan reopening the blocked case, Yu Xu's Zuo Xiong recommendation, and Sun Cheng's restoration-merit backlash.
 - [《资治通鉴·汉纪》807丨班超之子为何会含冤入狱？](sources/zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d.md) — 芮淇讲透资治通鉴 episode on 126-127 CE Emperor Shun, Ban Yong's Western Regions restoration, Zhang Lang's early Yanqi attack, Ban Yong's wrongful imprisonment, and Xu Jing's clean nonalignment under outer-relative power.
 - [《资治通鉴·汉纪》808丨他究竟是名家还是骗子？](sources/zizhi-tongjian-hanji-808-ta-jiujing-shi-mingjia-haishi-pianzi-lhmsw7zusdkqddk-zu27oj6hfs2m.md) — 芮淇讲透资治通鉴 episode on Fan Ying's forced summons, repeated refusal of office, Sima Guang's distinction between principled reclusion and false reputation, and ruler self-examination in talent recruitment.
 - [《资治通鉴·汉纪》809丨为什么劝你不要乱拍马屁？](sources/zizhi-tongjian-hanji-809-weishenme-quan-ni-buyao-luan-pai-mapi-lnv2l-ehkzmf2ifz3semscaqftku.md) — 芮淇讲透资治通鉴 episode on 127-129 CE Emperor Shun, Huang Qiong's summons and Shangshu competence, Li Gu's warning against reputation-only reclusion, and Wen Long's pearl tribute being returned as flattery after Shun's frugality edict.
@@ -1685,6 +1686,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [孙程 / Sun Cheng (late Han)](entities/SunChengLateHan.md) — Shun-era eunuch and restoration merit-holder who helps save Yu Xu from Zhang Fang before his own accession merit is politically contained.
+- [朱伥 / Zhu Chang (late Han)](entities/ZhuChangLateHan.md) — Shun-era Situ pressed by Zhou Ju to remonstrate for Sun Cheng's group after Emperor Shun sends the nineteen marquises away from Luoyang.
 - [班勇 / Ban Yong (late Han)](entities/BanYongLateHan.md) — Eastern Han Western Regions commander whose successful Cheshi and anti-Xiongnu restoration is followed by wrongful punishment after Zhang Lang's early Yanqi attack.
 - [张郎 / Zhang Lang (late Han)](entities/ZhangLangLateHan.md) — Dunhuang administrator whose prior offense pushes him to attack Yanqi early, receive surrender, and shift apparent lateness onto Ban Yong.
 - [焉耆国 / Yanqi Kingdom (late Han)](entities/YanqiKingdomLateHan.md) — Western Regions holdout whose fear-driven surrender to Zhang Lang becomes the occasion for Ban Yong's court blame.
@@ -1706,9 +1709,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Cosmic Crisp](entities/CosmicCrisp.md) - University of Washington apple variety used as a later high-revenue example of protected produce commercialization.
 - [University of Washington](entities/UniversityOfWashington.md) - Public university cited through Cosmic Crisp as an agricultural variety commercialization actor.
 - [王龚 / Wang Gong (Taiwei, late Han)](entities/WangGongTaiweiLateHan.md) — Shun-era taiwei whose anti-eunuch accusation is canceled after Li Gu and Liang Shang intervene.
-- [虞诩 / Yu Xu (Eastern Han)](entities/YuXuEasternHan.md) — Shun-era frontier adviser whose accepted Anding/Beidi/Shangjun restoration proposal and rejected Wuling tax warning show geography and revenue as stability problems.
+- [虞诩 / Yu Xu (Eastern Han)](entities/YuXuEasternHan.md) — Shun-era official whose anti-Zhang Fang prosecution, ally-backed release, Zuo Xiong recommendation, accepted commandery restoration, and rejected Wuling tax warning join court-risk courage with frontier judgment.
 - [法真 / Fa Zhen (Eastern Han)](entities/FaZhenEasternHan.md) — Reclusive scholar repeatedly summoned by Emperor Shun who refuses office and is praised as a teacher for later ages.
-- [张防 / Zhang Fang (eunuch, late Han)](entities/ZhangFangEunuchLateHan.md) — Eunuch powerholder whom Wang Gong considers impeaching before relatives invoke Yang Zhen's fate.
+- [张防 / Zhang Fang (eunuch, late Han)](entities/ZhangFangEunuchLateHan.md) — Shun-era eunuch powerholder whose retaliation against Yu Xu ends in banishment, yet whose later impeachment risk still deters Wang Gong.
 - [张衡 / Zhang Heng (late Han)](entities/ZhangHengLateHan.md) — Learned Shun-era adviser whose profile now spans 133 CE Xiaolian and removal-quality critique plus 134 CE earthquake and anti-tuchen remonstrance.
 - [庞参 / Pang Can (late Han)](entities/PangCanLateHan.md) — Taiwei whose moral reputation and Duan Gongcheng's defense are overwhelmed when household murder gives Zhu Liang an impeachment route.
 - [段恭诚 / Duan Gongcheng (late Han)](entities/DuanGongchengLateHan.md) — Guanghan reporting official whose memorial defends Pang Can as an isolated loyal minister under slander pressure.
@@ -1724,10 +1727,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [梁商 / Liang Shang (late Han)](entities/LiangShangLateHan.md) — Liang-family grandee whose profile spans empress-linked elevation after Liang Na's appointment, refusal of a title for Liang Ji, reluctant Grand General appointment, Wang Gong's court protection, legal narrowing, family appointment restraint, Southern Xiongnu surrender strategy, and Liang Ji succession.
 - [张乔 / Zhang Qiao (late Han)](entities/ZhangQiaoLateHan.md) — Jiaozhi inspector whose reassurance policy helps settle the 138 CE southern crisis after Li Gu rejects mass expedition.
 - [祝良 / Zhu Liang (late Han)](entities/ZhuLiangLateHan.md) — Jiuzhen administrator whose single-carriage entry into rebel camps validates Li Gu's two-person pacification plan.
-- [左雄 / Zuo Xiong (late Han)](entities/ZuoXiongLateHan.md) — Shun-era official who links local-official tenure, inspection truth, anti-amnesty discipline, grassroots staffing, Xiaolian standards, title boundaries, and ministerial dignity to appointment quality.
-- [周举 / Zhou Ju (late Han)](entities/ZhouJuLateHan.md) — Shun-era official whose profile combines drought root-cause remonstrance, hierarchy-aware advice, recommendation-accountability impeachment, omen reading, and remonstrance appointment.
+- [左雄 / Zuo Xiong (late Han)](entities/ZuoXiongLateHan.md) — Shun-era official recommended by Yu Xu as loyal and direct, then linked to local-official tenure, Xiaolian standards, title boundaries, ministerial dignity, and recommendation accountability.
+- [周举 / Zhou Ju (late Han)](entities/ZhouJuLateHan.md) — Shun-era official whose profile combines pressure on Zhu Chang for Sun Cheng's group, drought root-cause remonstrance, hierarchy-aware advice, recommendation-accountability impeachment, and omen reading.
 - [赵冲 / Zhao Chong (late Han)](entities/ZhaoChongLateHan.md) — Qiang-front officer whose 141 CE pursuit and surrender work precede 143-144 CE victories and final death after surrendered Hu defect.
-- [高梵 / Gao Fan (late Han)](entities/GaoFanLateHan.md) — Palace eunuch envoy whose attempt to fetch Crown Prince Liu Bing without edict credentials is blocked by Zhong Hao until authorization is produced.
+- [高梵 / Gao Fan (late Han)](entities/GaoFanLateHan.md) — Palace eunuch whose access helps report Yu Xu's petition to Shun before a later undocumented crown-prince transfer is blocked by Zhong Hao.
 - [汉冲帝 / Emperor Chong of Han](entities/EmperorChongOfHan.md) — Child Eastern Han emperor whose 144 CE crown-prince credential crisis and 145 CE death frame the Liang Na, Li Gu, Liu Suan, and Liu Zuan succession sequence.
 - [张婴 / Zhang Ying (Guangling, late Han)](entities/ZhangYingGuanglingLateHan.md) — Guangling rebel whose surrender to Zhang Gang and later posthumous renewed revolt show both the force and fragility of trusted pacification.
 - [梁并 / Liang Bing (late Han)](entities/LiangBingLateHan.md) — Frontier official whose profile runs from 140 CE Xiongnu-front command and recall to 145 CE trust-based Qiang surrender policy.
@@ -1744,7 +1747,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [徐凤 / Xu Feng (bandit, late Han)](entities/XuFengBanditLateHan.md) — Xu-Yang bandit leader who escapes Teng Fu's campaign, burns Dongcheng, and is killed by Xie An of Xiapi.
 - [张纲 / Zhang Gang (late Han)](entities/ZhangGangLateHan.md) — Late-Han censor, inspector, and Guangling administrator whose profile joins an ignored anti-eunuch privilege memorial, buried-wheel anti-Liang impeachment, and grievance-aware pacification of Zhang Ying.
 - [任峻 / Ren Jun (Luoyang, late Han)](entities/RenJunLuoyangLateHan.md) — Luoyang令 whose staffing and deterrence profile is kept distinct from the later Cao Cao屯田 official of the same name.
-- [汉顺帝 / Emperor Shun of Han](entities/EmperorShunOfHan.md) — Eastern Han ruler whose 127-144 CE profile combines early frugality signaling, Wen Long's rejected pearl, corrected empress selection, Zuo Xiong and Li Gu remonstrance, Ma Xian's failed appointment, Liang-family transition, and child succession.
+- [汉顺帝 / Emperor Shun of Han](entities/EmperorShunOfHan.md) — Eastern Han ruler whose 126-144 CE profile combines Yu Xu's blocked Zhang Fang case, Sun Cheng's merit backlash, early frugality signaling, corrected selection, remonstrance, failed command, Liang-family transition, and child succession.
 - [Legora](entities/Legora.md) - Legal AI company profiled by All-In around legal data, agent orchestration, trust, compliance, and billable-hour disruption.
 - [Cooley](entities/Cooley.md) - Law-firm example of startup-founder legal-service productization through firm materials, precedent, and workflows.
 - [Kirkland Ellis](entities/KirklandEllis.md) - Large law-firm economics example used in All-In's discussion of AI pressure on billable hours and junior-lawyer work.
@@ -10060,7 +10063,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [按亩征税 / Per-Mu Land Taxation](concepts/PerMuLandTaxation.md) — Huan-era fiscal-policy marker for the first source-described order to tax landholders by the mu.
 - [战时绵绢财政资源 / Wartime Textile Fiscal Resource](concepts/WartimeTextileFiscalResource.md) — Hanji 1046 frame for cotton-silk as money-like, portable, reward, diplomatic, and military supply under wartime fiscal stress.
 - [税赋与地方稳定权衡 / Taxation-Stability Tradeoff](concepts/TaxationStabilityTradeoff.md) — Crisis-governance problem where urgent resource collection can signal loyalty yet destabilize the locality being integrated.
-- [朝廷盟友保护网络 / Court Ally Protection Network](concepts/CourtAllyProtectionNetwork.md) — Pattern where credible court allies with access protect an exposed official before hostile accusations harden.
+- [朝廷盟友保护网络 / Court Ally Protection Network](concepts/CourtAllyProtectionNetwork.md) — Pattern where credible allies, public pressure, and court access protect an exposed official before hostile palace or accusation channels harden.
 - [新附地区宽缓治理 / Newly Attached Region Leniency](concepts/NewlyAttachedRegionLeniency.md) — Transitional policy of lighter tax, flexible law, and local discretion for recently attached or remote regions.
 - [政策制度记载压缩 / Chronicle Policy Compression](concepts/ChroniclePolicyCompression.md) — Historiographical pattern where a chronicle records a major institutional decision tersely while leaving mechanism and consequence underdescribed.
 - [Non-Dual Mindfulness](concepts/NonDualMindfulness.md) — Meditation frame where thoughts, emotions, sensations, and selfing appear in awareness without a separate observer behind experience.
