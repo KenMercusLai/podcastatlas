@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "eda9c1a0bec23aeae0a55ed3bb0678f7efc917b8a67a33169610cbbbf3bd36a6",
       "516ae0589f002d0064fb3d7aa9a91354927c9e8ddad73db998f5711abec0562e",
       "a684563cb8c3558d9b15c89a025f0fab84522169f34a3e126efe21913840ec10",
       "53d93e7610f3f1096a82dea6a00e66500773627a3ef008805d900cd4e2ece6b4",
@@ -429,11 +430,40 @@
       "12c2b57062376e50f472c6806ecb08714733b065e8db5d2b809f05f83d802f96",
       "2231d7cf4c1cf8ae29ee2ec0737334356ddcd78d5df4e6b306dab83b98b3febe"
     ],
-    "paragraph_count": 427
+    "paragraph_count": 428
   },
-  "overview_commit": "d6b701044ad4650ea8687609fd9fdb4e96187d7c",
-  "overview_digest": "b4fc31a8a1f4d2763a4b16e644df85d3caaa042152cb1cc9999c8b09a6c4f029",
+  "overview_commit": "d929b6d4a383698b0779c68849cb803e890b0d56",
+  "overview_digest": "7bf005278ba47fb3edd38c64ea1627e000b8a9e5ccb5a3f6b23ea1a510703143",
   "paragraphs": [
+    {
+      "id": "eda9c1a0bec23aeae0a55ed3bb0678f7efc917b8a67a33169610cbbbf3bd36a6",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|《资治通鉴·汉纪》740丨让你醍醐灌顶的职场智慧！(职场必备)]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 70-71 CE [[EmperorMingOfHan|汉明帝]] Chu-king case before [[zizhi-tongjian-hanji-741-weishenme-gudai-xiongnu-zongyao-ruqin-zhongyuan-lllpgozgi6yd5pscw8z5ofidk5rp|Hanji 741]]. It adds [[LiuYingChuKingEasternHan|刘英]], [[LuXuEasternHan|陆续]], [[JianLangEasternHan|寋朗]], [[CoerciveImplicationCascade|刑讯攀引扩大]], and [[PrincipledWorkplaceNonalignment|原则性职场不站队]], while extending [[YuanAnEasternHan|袁安]], [[EmpressMaMingdeEasternHan|明德马皇后]], [[FrugalImperialBurialRestraint|节俭帝陵约束]], [[ReceptiveRemonstranceGovernance|纳谏转政策式治理]], and [[PalaceAccusationVerification|宫廷指控核验]]. Its core synthesis is that Mingdi's court shows both the danger of ruler anger turning treason suspicion into coercive implication and the limited corrective power of grounded verification, personal responsibility, and quiet counsel; the episode's workplace lesson converts that history into principled nonalignment rather than reflexive factional siding. No settled contradiction is recorded; the transcript's 于严/剑郎 are normalized to 虞延 and 寋朗, while the Buddhist-secret-organization explanation remains source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 2,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "CoerciveImplicationCascade",
+        "EmperorMingOfHan",
+        "EmpressMaMingdeEasternHan",
+        "FrugalImperialBurialRestraint",
+        "JianLangEasternHan",
+        "LiuYingChuKingEasternHan",
+        "LuXuEasternHan",
+        "PalaceAccusationVerification",
+        "PrincipledWorkplaceNonalignment",
+        "ReceptiveRemonstranceGovernance",
+        "RuiqiJiangtouZizhiTongjian",
+        "YuanAnEasternHan",
+        "zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew",
+        "zizhi-tongjian-hanji-741-weishenme-gudai-xiongnu-zongyao-ruqin-zhongyuan-lllpgozgi6yd5pscw8z5ofidk5rp"
+      ]
+    },
     {
       "id": "516ae0589f002d0064fb3d7aa9a91354927c9e8ddad73db998f5711abec0562e",
       "primary_topic": "history-and-geopolitics",

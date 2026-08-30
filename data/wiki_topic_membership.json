@@ -14228,6 +14228,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "CoerciveImplicationCascade": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "CoffeeCommodityPolitics": [
     {
       "key": "economics",
@@ -73090,6 +73097,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "zizhi-tongjian-hanji-741-weishenme-gudai-xiongnu-zongyao-ruqin-zhongyuan-lllpgozgi6yd5pscw8z5ofidk5rp": [

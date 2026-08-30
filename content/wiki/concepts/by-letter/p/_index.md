@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6074
+wiki_total_pages: 6076
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1571,6 +1571,9 @@ wiki_pages:
   - key: "PunishmentPersonalResponsibilityLimit"
     title: "刑罚个人责任边界 / Punishment Personal Responsibility Limit"
     url: "/wiki/concepts/punishmentpersonalresponsibilitylimit/"
+  - key: "PrincipledWorkplaceNonalignment"
+    title: "原则性职场不站队 / Principled Workplace Nonalignment"
+    url: "/wiki/concepts/principledworkplacenonalignment/"
   - key: "PunishmentAsMoralCredential"
     title: "受罚作为名节凭据 / Punishment as Moral Credential"
     url: "/wiki/concepts/punishmentasmoralcredential/"

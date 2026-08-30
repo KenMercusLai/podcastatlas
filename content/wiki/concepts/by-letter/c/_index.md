@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6074
+wiki_total_pages: 6076
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1841,6 +1841,9 @@ wiki_pages:
   - key: "CampaignFinanceAccessIncentive"
     title: "军费通道利益驱动 / Campaign Finance Access Incentive"
     url: "/wiki/concepts/campaignfinanceaccessincentive/"
+  - key: "CoerciveImplicationCascade"
+    title: "刑讯攀引扩大 / Coercive Implication Cascade"
+    url: "/wiki/concepts/coerciveimplicationcascade/"
   - key: "CrisisMigrationJudgment"
     title: "危局迁徙判断 / Crisis Migration Judgment"
     url: "/wiki/concepts/crisismigrationjudgment/"

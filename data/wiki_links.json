@@ -11307,6 +11307,10 @@
     "title": "强迁避敌反噬 / Coercive Frontier Relocation Backfire",
     "url": "/wiki/concepts/coercivefrontierrelocationbackfire/"
   },
+  "CoerciveImplicationCascade": {
+    "title": "刑讯攀引扩大 / Coercive Implication Cascade",
+    "url": "/wiki/concepts/coerciveimplicationcascade/"
+  },
   "Coffee": {
     "title": "Coffee / 咖啡",
     "url": "/wiki/entities/coffee/"
@@ -26859,6 +26863,10 @@
     "title": "《甲骨文的故事》",
     "url": "/wiki/entities/jiaguwendegushi/"
   },
+  "JianLangEasternHan": {
+    "title": "寋朗 / Jian Lang (Eastern Han)",
+    "url": "/wiki/entities/jianlangeasternhan/"
+  },
   "JianShuoLateHan": {
     "title": "蹇硕 / Jian Shuo (late Han)",
     "url": "/wiki/entities/jianshuolatehan/"
@@ -30991,6 +30999,10 @@
     "title": "刘盈 / Liu Ying",
     "url": "/wiki/entities/liuying/"
   },
+  "LiuYingChuKingEasternHan": {
+    "title": "刘英 / Liu Ying (Chu King, Eastern Han)",
+    "url": "/wiki/entities/liuyingchukingeasternhan/"
+  },
   "LiuYixun": {
     "title": "刘义逊 / Liu Yixun",
     "url": "/wiki/entities/liuyixun/"
@@ -31790,6 +31802,10 @@
   "LuWineHandanWarCascade": {
     "title": "Lu Wine Handan War Cascade / 鲁酒薄而邯郸围",
     "url": "/wiki/concepts/luwinehandanwarcascade/"
+  },
+  "LuXuEasternHan": {
+    "title": "陆续 / Lu Xu (Eastern Han)",
+    "url": "/wiki/entities/luxueasternhan/"
   },
   "LuXun": {
     "title": "鲁迅",
@@ -40602,6 +40618,10 @@
   "PrincipledOfficeRefusal": {
     "title": "Principled Office Refusal / 原则性拒仕",
     "url": "/wiki/concepts/principledofficerefusal/"
+  },
+  "PrincipledWorkplaceNonalignment": {
+    "title": "原则性职场不站队 / Principled Workplace Nonalignment",
+    "url": "/wiki/concepts/principledworkplacenonalignment/"
   },
   "PrinciplesOfPhilosophy": {
     "title": "Principles of Philosophy / 《哲学原理》",
@@ -63550,6 +63570,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew": {
+    "title": "《资治通鉴·汉纪》740丨让你醍醐灌顶的职场智慧！(职场必备)",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew/"
   },
   "zizhi-tongjian-hanji-741-weishenme-gudai-xiongnu-zongyao-ruqin-zhongyuan-lllpgozgi6yd5pscw8z5ofidk5rp": {
     "title": "《资治通鉴·汉纪》741丨为什么古代匈奴总要入侵中原？",

@@ -4,17 +4,29 @@ generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
 last_updated: 2026-08-31
-as_of_overview_commit: 878b151991041de6dca95f6160688e3195e688e9
-input_digest: 4af879c7e02f9fff6a979bd467b765b8443fb157ec35461de85d7b759c2fe219
+as_of_overview_commit: d929b6d4a383698b0779c68849cb803e890b0d56
+input_digest: 8756009f6da057c3287184735c0c99a3d9eddcfbfc208850550b9060abda0ce9
 ---
 
 # Governance and Institutions
 
 ## Current State
 
-The All-In GLM/Micron episode adds a legitimacy-politics edge: [[DemocraticSocialistsOfAmerica]], [[ZohranMamdani]], [[TravisKalanick]], and [[AllIn]] tie New York primary organizing, social-media politics, truth-and-justice rhetoric, and Silicon Valley AI communication failures to institutional trust; candidate and platform claims remain source-scoped. Hanji 748 now pushes the Emperor Zhang governance branch back to 76 CE: Empress Ma blocks Ma-family enfeoffment, rejects drought-based flattery, models austerity, cuts kin allowances, orders legal limits, and corrects family tomb display before Hanji 749 adds exemplar, in-law command, Qiang, public-works, and Ban Chao layers.
+Hanji 740 pushes the governance branch back to Mingdi's Chu-prison case: ruler anger, torture, and loyalty signaling create a coercive implication cascade, while Lu Xu, Jian Lang, Empress Ma, and Yuan An show correction through character evidence, accusation testing, private counsel, and file review. The topic now treats accusation verification and receptive remonstrance as including late repair after overreach, while preserving the prior AI-legitimacy and Zhangdi/Empress Ma restraint claims as source-scoped.
 
 ## Cross-source Findings
+
+### Late Han 740 Chu Prison Overreach And Correction
+
+[[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|Hanji 740]] pushes the [[EmperorMingOfHan]] governance branch back to the 70-71 CE [[LiuYingChuKingEasternHan]] Chu-prison case before [[zizhi-tongjian-hanji-741-weishenme-gudai-xiongnu-zongyao-ruqin-zhongyuan-lllpgozgi6yd5pscw8z5ofidk5rp|Hanji 741]]: ruler anger, torture, and loyalty signaling create [[CoerciveImplicationCascade]], while [[LuXuEasternHan]], [[JianLangEasternHan]], [[EmpressMaMingdeEasternHan]], and [[YuanAnEasternHan]] show correction through character evidence, accusation testing, private counsel, and unsupported-case file review. [[PalaceAccusationVerification]] and [[ReceptiveRemonstranceGovernance]] therefore include late repair after overreach, and [[FrugalImperialBurialRestraint]] gains Mingdi's Shouling order as a predeath restraint layer.
+
+**Evidence:** [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew]], [[EmperorMingOfHan]], [[LiuYingChuKingEasternHan]], [[zizhi-tongjian-hanji-741-weishenme-gudai-xiongnu-zongyao-ruqin-zhongyuan-lllpgozgi6yd5pscw8z5ofidk5rp]], [[CoerciveImplicationCascade]], [[LuXuEasternHan]], [[JianLangEasternHan]], [[EmpressMaMingdeEasternHan]], [[YuanAnEasternHan]], [[PalaceAccusationVerification]], [[ReceptiveRemonstranceGovernance]], [[FrugalImperialBurialRestraint]]
+
+**Qualifications:**
+
+- This claim is source-scoped to Hanji 740 as a 70-71 CE backfill before Hanji 741; it adds an earlier Mingdi layer without replacing later Zhangdi, Dou, or Deng governance claims.
+- The Buddhist-secret-organization reading and transcript normalizations for Yu Yan and Jian Lang remain source-scoped.
+- The claim treats Mingdi correction as delayed and partial, not as full repair of the deaths, exile, imprisonment, and stigma already produced.
 
 ### Ai Legitimacy And Left Primary Pressure Interact
 

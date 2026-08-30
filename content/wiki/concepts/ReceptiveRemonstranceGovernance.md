@@ -5,48 +5,49 @@ knowledge_schema: synthesis-v1
 tags: [governance, remonstrance, leadership, eastern-han, policy-correction]
 sources:
   - zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx
+  - zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew
 last_updated: 2026-08-31
 ---
 
 ## Definition
 
-纳谏转政策式治理 / receptive remonstrance governance is the leadership pattern where a ruler or senior decision-maker does more than allow advice to be spoken: the advice is heard, tested, and converted into concrete policy, personnel, legal, or burden-relief changes.
+纳谏转政策式治理 / receptive remonstrance governance is the leadership pattern where a ruler or senior decision-maker does more than allow advice to be spoken: advice is heard, tested, and converted into concrete policy, personnel, legal, or burden-relief changes.
 
 ## Current Synthesis
 
-Hanji 746 defines the concept through [[EmperorZhangOfHan|Zhangdi]]'s early reign. The episode's modern leadership question is whether a leader is worth being followed with full commitment; its court answer is that listening matters only when it changes decisions.
+The pattern includes a darker early version where receptivity appears only after severe damage. [[EmperorMingOfHan|Mingdi]] does not begin receptive: after the [[LiuYingChuKingEasternHan|Liu Ying]] case he permits a destructive [[CoerciveImplicationCascade|coercive implication cascade]], and [[JianLangEasternHan|Jian Lang]] is nearly punished for challenging it. Yet the case also shows partial correction once advice and evidence become hard to ignore: Jian Lang's test exposes false implication, [[EmpressMaMingdeEasternHan|Empress Ma]] warns that punishment has become excessive, and [[YuanAnEasternHan|Yuan An]] later releases unsupported households while taking responsibility himself.
 
-[[BaoYuEasternHan|Bao Yu]] supplies the indirect-redress case. Zhangdi asks about drought, and Bao uses the opening to argue that many people implicated in the Chu-king case are likely wronged. Zhangdi accepts the proposal to let exiles return and remove office bans.
+The cleaner Zhangdi version turns correction into an early-reign governing style. [[BaoYuEasternHan|Bao Yu]] uses a drought question to argue for redress in the Chu-king case, [[YangZhongEasternHan|Yang Zhong]] argues against treating inherited frontier policy as automatic filial duty, and [[ChenChongLateHan|Chen Chong]] warns against inherited harshness in official practice. [[EmperorZhangOfHan|Zhangdi]] converts each into release, debate, policy correction, personnel timing, or leniency.
 
-[[YangZhongEasternHan|Yang Zhong]] supplies the policy-reversal case. He argues that continuing Mingdi's Northern Xiongnu and Western Regions approach should not be treated as filial duty if it imposes repeated service and suffering on the people. After a ministerial debate, Zhangdi accepts the correction.
-
-[[ChenChongLateHan|Chen Chong]] supplies the institutional-temperament case. He warns that Mingdi-era harshness remains embedded in official practice and that punishment should not be overused. Zhangdi accepts the memorial, making leniency a courtwide correction rather than a private mood.
+The combined synthesis is that receptive remonstrance is not a ruler's fixed personality trait. It can be delayed, partial, and costly, as in Mingdi's correction after damage; or it can become a more programmatic early-reign governing style, as in Zhangdi's first-year policy package.
 
 ## Key Claims
 
-- Listening becomes governance only when advice changes actual rules, appointments, timing, punishments, or burdens.
-- Indirect framing can help a ruler accept redress without treating correction as humiliation.
+- Listening becomes governance only when advice changes actual rules, punishments, releases, appointments, timing, or public burdens.
+- Receptive remonstrance can be delayed and partial; Mingdi corrects the Chu-prison case only after severe coercive expansion.
+- Evidence-backed remonstrance is stronger than moral complaint alone because it gives the ruler a path to reverse without pure humiliation.
+- Indirect framing can help a ruler accept redress, as Bao Yu's drought answer later shows under Zhangdi.
 - Respect for a predecessor's policy is not enough when continuation harms people under changed conditions.
-- Receptive leadership still needs deliberation; Zhangdi lets ministers dispute Yang Zhong's proposal before accepting it.
-- Leniency in this source is institutional correction against inherited harshness, not merely a gentle personality trait.
-- The pattern depends on both sides: advisers must make actionable claims, and the ruler must be willing to revise decisions.
+- The pattern depends on both sides: advisers must make actionable claims, and the ruler must be willing to convert correction into decisions.
 
 ## Evidence
 
-- Redress conversion: [[zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx|Hanji 746]] says Bao Yu's drought answer leads Zhangdi to let implicated exiles return and lift office bans.
-- Policy debate: [[zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx|Hanji 746]] says Zhangdi submits Yang Zhong's anti-continuation memorial to ministerial discussion before making a decision.
-- People-burden argument: [[zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx|Hanji 746]] says Yang Zhong opposes continuing Northern Xiongnu expedition and Western Regions garrison policy because repeated service harms the people.
-- First-month governing package: [[zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx|Hanji 746]] says Zhangdi's edict prioritizes agriculture and sericulture, defers non-capital cases until autumn, promotes gentle officials, removes greedy and crafty officials, and clears wrongful cases.
-- Harshness correction: [[zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx|Hanji 746]] says Chen Chong memorializes against inherited harsh official practice and Zhangdi accepts the advice fully.
+- Delayed correction under Mingdi: [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|Hanji 740]] says Jian Lang's verification test and death-risk speech lead Mingdi to review prison cases and release more than one thousand people.
+- Quiet counsel under Mingdi: [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|Hanji 740]] says Empress Ma warns that many Chu-prison punishments are excessive and helps stop further expansion.
+- File-review redress: [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|Hanji 740]] says Yuan An reviews unsupported cases before entering office and releases more than four hundred households.
+- Redress conversion under Zhangdi: [[zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx|Hanji 746]] says Bao Yu's drought answer leads Zhangdi to let implicated exiles return and lift office bans.
+- Policy debate under Zhangdi: [[zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx|Hanji 746]] says Zhangdi submits Yang Zhong's anti-continuation memorial to ministerial discussion before making a decision.
+- Harshness correction under Zhangdi: [[zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx|Hanji 746]] says Chen Chong memorializes against inherited harsh official practice and Zhangdi accepts the advice fully.
 
 ## Counterevidence & Qualifications
 
-This concept should not become generic praise of being agreeable. Hanji 746 includes disagreement among ministers, and Bao Yu himself does not take the retrenchment side in the later frontier-policy debate. The source also does not prove that every accepted measure had durable implementation; it supports the narrower claim that Zhangdi repeatedly allowed counsel to alter official direction in the 76 CE opening layer.
+This concept should not become generic praise of being agreeable. Hanji 740 is evidence that a ruler can accept correction only after enormous harm, and Hanji 746 includes disagreement among ministers rather than automatic deference to every adviser. The sources also do not prove that every accepted measure had durable implementation; they support the narrower claim that advice altered official direction in specific legal, policy, and burden-relief decisions.
 
 ## What Changed
 
-- Created the concept from Hanji 746's linked Bao Yu, Yang Zhong, Zhangdi, and Chen Chong cases.
-- Defined listening by policy conversion rather than by temperament or politeness.
+- Added Hanji 740's Mingdi layer to show delayed, partial receptivity after coercive overreach.
+- Reframed Hanji 746's Zhangdi layer as the cleaner and more programmatic version rather than the whole pattern.
+- Added Jian Lang, Empress Ma, and Yuan An as evidence-backed correction channels.
 
 ## Related Concepts
 
@@ -54,5 +55,6 @@ This concept should not become generic praise of being agreeable. Hanji 746 incl
 - [[RootCauseRemonstrance|根源诊断式进谏]] - adjacent diagnosis pattern where advice identifies the cause layer and remedy rather than only voicing dissatisfaction.
 - [[StrategicForbearanceGovernance|退让留余地式治理]] - neighboring Zhangdi-era restraint pattern where accepted counsel preserves credibility, cooperation, and speech.
 - [[CourtFeedbackCollapse|君臣反馈失灵]] - failure contrast because receptive remonstrance keeps correction channels from collapsing.
-- [[SituationalStrictLenientGovernance|宽严相济的因时治理]] - related governance frame because Chen Chong's case treats leniency as condition-specific correction.
+- [[CoerciveImplicationCascade]] - failure mode that Hanji 740's remonstrance and review partially repair.
+- [[PalaceAccusationVerification]] - related evidence discipline because accusation review can make remonstrance actionable.
 - [[ContentOverMotiveRemonstrance|只问对错不问动机的纳谏]] - broader advice-taking principle that tests corrective content before rejecting advice on motive or discomfort.

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2092
+topic_total_pages: 2093
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3220,6 +3220,9 @@ topic_concepts:
   - key: "TortureResistantExoneration"
     title: "刑讯守口式申冤 / Torture-Resistant Exoneration"
     url: "/wiki/concepts/tortureresistantexoneration/"
+  - key: "CoerciveImplicationCascade"
+    title: "刑讯攀引扩大 / Coercive Implication Cascade"
+    url: "/wiki/concepts/coerciveimplicationcascade/"
   - key: "TenKingdomsRelationshipTypes"
     title: "十国关系类型 / Ten Kingdoms Relationship Types"
     url: "/wiki/concepts/tenkingdomsrelationshiptypes/"
