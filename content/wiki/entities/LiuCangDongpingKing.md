@@ -2,18 +2,21 @@
 title: "东平王刘苍 / Liu Cang, Dongping King"
 type: entity
 knowledge_schema: synthesis-v1
-tags: [person, eastern-han, royal-family, ritual, memory]
+tags: [person, eastern-han, royal-family, ritual, remonstrance, memory]
 sources:
   - zizhi-tongjian-hanji-755-zhege-chaodai-huangshang-jiu-kaishi-guli-shengwa-le-lj7bdkxkdtjhpo469yxhskjyfdco
   - zizhi-tongjian-hanji-751-dou-huanghou-gaosu-ni-nvren-bu-hen-diwei-bu-wen-luvqadctbfuzit2ackrqifour2c6
+  - zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi
 last_updated: 2026-08-31
 ---
 
 ## Overview
 
-东平王刘苍 / Liu Cang, Dongping King now spans his final return, illness, death, funeral honors, and later memory under [[EmperorZhangOfHan|Emperor Zhang]]. Hanji 751 gives the 82-83 CE living and death sequence; Hanji 755 returns to him as a deceased uncle whose house, tomb, temple, and loyal retainers structure Zhangdi's 85 CE royal-memory scene.
+东平王刘苍 / Liu Cang, Dongping King now spans an active Zhangdi-era remonstrance layer, his final return, illness, death, funeral honors, and later memory under [[EmperorZhangOfHan|Emperor Zhang]]. Hanji 747 gives the early adviser who turns earthquake and tomb-county planning into frugality counsel; Hanji 751 gives the 82-83 CE living and death sequence; Hanji 755 returns to him as a deceased uncle whose house, tomb, temple, and loyal retainers structure Zhangdi's 85 CE royal-memory scene.
 
 ## Current Profile
+
+Hanji 747 supplies Liu Cang's current active-political layer. After an earthquake in Shanyang and Dongping, Liu Cang sends three suggestions and receives Zhangdi's praise and cash reward. When Zhangdi considers establishing counties at Guangwu's Yuanling and Mingdi's Xianjie tomb, Liu Cang opposes the plan by rejecting Qin precedent, warning against waste and disturbance, and asking Zhangdi to follow the former emperor's frugality. Zhangdi accepts the advice and thereafter often consults him.
 
 Hanji 751 shows Liu Cang before the posthumous memory layer. After officials again ask that he return to his fief, Zhangdi agrees but sends a personal letter, conducts a road-god sacrifice for the farewell, and grants imperial garments, vessels, treasures, vehicles, horses, money, and cloth. When Liu Cang falls ill, Zhangdi sends physicians and xiaohuangmen, keeps illness reports moving by relay, and after Liu Cang dies in early 83 orders his long-kept memorials sealed and sent to court. Zhangdi then sends a high official with a tally to manage the mourning rites and summons royal and princess households to participate.
 
@@ -21,38 +24,44 @@ Hanji 755 shows the later memory of the same relationship. Zhangdi reaches Dongp
 
 The later episode also names retainers Ding Mu and Zhou Xu as men who had followed Liu Cang back from the capital and continued serving Liu Cang's descendants for decades. Zhangdi promotes them to yilang because he pities their long low status and values their loyalty and virtue.
 
-Liu Cang's current page role is therefore posthumous and relational. The source does not develop him as an independent political actor; it uses his absence to reveal Zhangdi's royal-family affection and to reward durable service within a royal household.
+Liu Cang's current page role is therefore both advisory and relational. The source set does not reconstruct his full royal career; it uses his counsel, departure, death, and remembered household to reveal how Zhangdi's kinship affection could coexist with serious remonstrance and ritual honor.
 
 ## Key Characteristics
 
-- Eastern Han royal uncle whose return to his fief is softened by Zhangdi's personal farewell and gifts.
+- Eastern Han royal uncle whose counsel Zhangdi accepts on disaster-era advice and anti-tomb-county frugality.
+- Remonstrant who links ritual construction to public disturbance, dynastic precedent, and ancestral restraint.
+- Adviser whom Zhangdi consults after accepting the tomb-county objection.
+- Royal uncle whose return to his fief is softened by Zhangdi's personal farewell and gifts.
 - Illness and death case where Zhangdi turns kinship concern into physicians, relay reports, preserved memorials, and funeral command.
 - Royal-family memory figure whose house, tomb, and temple become public ritual sites in 85 CE.
-- Source context for Zhangdi's visible grief and kinship attachment.
 - Household-labor and retainer-loyalty node through Ding Mu and Zhou Xu's promotions.
 
 ## Evidence
 
+- Earthquake advice: [[zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi|Hanji 747]] says Liu Cang submits three suggestions after the Shanyang and Dongping earthquake, and Zhangdi praises and rewards him.
+- Tomb-county remonstrance: [[zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi|Hanji 747]] says Liu Cang opposes counties at Yuanling and Xianjie by citing the Qin warning, public burden, and the former emperor's frugality.
+- Consulted adviser: [[zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi|Hanji 747]] says Zhangdi accepts the advice and often consults Liu Cang afterward.
 - Return and farewell: [[zizhi-tongjian-hanji-751-dou-huanghou-gaosu-ni-nvren-bu-hen-diwei-bu-wen-luvqadctbfuzit2ackrqifour2c6|Hanji 751]] says Zhangdi agrees to Liu Cang's return to his fief but sends personal writing, road-god sacrifice, and rich farewell gifts.
 - Illness and funeral command: [[zizhi-tongjian-hanji-751-dou-huanghou-gaosu-ni-nvren-bu-hen-diwei-bu-wen-luvqadctbfuzit2ackrqifour2c6|Hanji 751]] says Zhangdi sends physicians, keeps illness reports moving, preserves Liu Cang's memorials, and assigns high-level funeral management after Liu Cang's death.
 - Dongping visit: [[zizhi-tongjian-hanji-755-zhege-chaodai-huangshang-jiu-kaishi-guli-shengwa-le-lj7bdkxkdtjhpo469yxhskjyfdco|Hanji 755]] says Zhangdi reaches Dongping and tells Liu Cang's sons that he misses their father.
-- Mourning scene: [[zizhi-tongjian-hanji-755-zhege-chaodai-huangshang-jiu-kaishi-guli-shengwa-le-lj7bdkxkdtjhpo469yxhskjyfdco|Hanji 755]] says Zhangdi weeps when seeing Liu Cang's old residence with its owner gone.
-- Ritual honor: [[zizhi-tongjian-hanji-755-zhege-chaodai-huangshang-jiu-kaishi-guli-shengwa-le-lj7bdkxkdtjhpo469yxhskjyfdco|Hanji 755]] says Zhangdi sacrifices at Liu Cang's tomb and in the ancestral temple.
+- Mourning scene and ritual honor: [[zizhi-tongjian-hanji-755-zhege-chaodai-huangshang-jiu-kaishi-guli-shengwa-le-lj7bdkxkdtjhpo469yxhskjyfdco|Hanji 755]] says Zhangdi weeps when seeing Liu Cang's old residence with its owner gone, then sacrifices at Liu Cang's tomb and in the ancestral temple.
 - Retainer promotion: [[zizhi-tongjian-hanji-755-zhege-chaodai-huangshang-jiu-kaishi-guli-shengwa-le-lj7bdkxkdtjhpo469yxhskjyfdco|Hanji 755]] says Zhangdi promotes Ding Mu and Zhou Xu after decades of loyal service to Liu Cang's family.
 
 ## Qualifications
 
-This page is bounded to Hanji 751 and Hanji 755 and does not reconstruct Liu Cang's full royal career. Hanji 751 supplies the final illness and funeral layer, while Hanji 755 supplies later memory and retainer loyalty. Ding Mu, Zhou Xu, the preserved memorial corpus, and the full funeral participant list remain source-scoped.
+This page is bounded to Hanji 747, Hanji 751, and Hanji 755 and does not reconstruct Liu Cang's full royal career. Hanji 747 supplies active counsel but not the full text of the three earthquake suggestions. Hanji 751 supplies the final illness and funeral layer, while Hanji 755 supplies later memory and retainer loyalty. Ding Mu, Zhou Xu, the preserved memorial corpus, and the full funeral participant list remain source-scoped.
 
 ## What Changed
 
-- Added Hanji 751 as Liu Cang's return, illness, death, and funeral-honor layer before the 85 CE memory scene.
-- Reframed Hanji 755's tomb and retainer episode as the afterlife of a relationship already visible in Hanji 751.
-- Preserved Liu Cang as a relational royal-family figure rather than expanding him into a full independent political biography.
+- Added Hanji 747 as Liu Cang's active adviser and remonstrance layer before the return, death, and memory scenes.
+- Reframed Liu Cang as a royal-family figure whose authority includes accepted frugality counsel, not only posthumous affection.
+- Preserved Hanji 751 as Liu Cang's return, illness, death, and funeral-honor layer before the 85 CE memory scene.
+- Reframed Hanji 755's tomb and retainer episode as the afterlife of a relationship already visible in Hanji 747 and Hanji 751.
 
 ## Relationships
 
-- [[EmperorZhangOfHan|汉章帝]] - nephew and ruler who sends Liu Cang away with honors, manages his illness and funeral, mourns him, and promotes his long-serving retainers.
+- [[EmperorZhangOfHan|汉章帝]] - nephew and ruler who accepts Liu Cang's remonstrance, sends him away with honors, manages his illness and funeral, mourns him, and promotes his long-serving retainers.
+- [[RootCauseRemonstrance|根源诊断式进谏]] - related counsel pattern because Liu Cang redirects tomb-building and disaster attention toward burden, precedent, and frugality.
 - [[LiAsPoliticalOrder|礼制政治秩序]] - broader role-order frame for tomb, temple, and royal-family ritual memory.
 - [[RetainerReciprocityEthic|故吏报恩伦理]] - adjacent service-loyalty concept because Ding Mu and Zhou Xu are rewarded for durable household service.
-- [[KinshipProtocolBoundary|亲情名分边界]] - related Zhangdi kinship concept, here expressed as mourning and honor rather than late-reign overfavor.
+- [[KinshipProtocolBoundary|亲情名分边界]] - related Zhangdi kinship concept, here expressed as remonstrance, mourning, and honor rather than late-reign overfavor.

@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [683. Washington: Hero of the Revolution (Part 1)](sources/683-washington-hero-of-the-revolution-part-1-glt3752138067.md) — The Rest Is History episode on George Washington, Valley Forge, Continental Army endurance, French alliance, Black soldiers, and republican self-command.
+- [《资治通鉴·汉纪》747丨班超告诉你：真正的聪明人都有使命感！](sources/zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi.md) — 芮淇讲透资治通鉴 episode on Ban Chao's recall and Shule return, Liu Cang's tomb-frugality remonstrance, Zheng Chun's custom-aware Yongchang rule, Ailao rebellion, Liu Yan's demotion, Xiongnu relief and conflict, and Yiwu withdrawal.
 - [《资治通鉴·汉纪》748丨老祖宗的忠告： 亲戚不共财，共财两无来！](sources/zizhi-tongjian-hanji-748-laozuzong-de-zhonggao-qinqi-bugongcai-gongcai-liangwulai-luqvnld4wbdgc3nrdumyhfhscs4z.md) — 芮淇讲透资治通鉴 episode on Mingde Empress Ma preventing Zhangdi's Ma-family maternal uncles from turning kinship into titles, spending privilege, tomb display, and legal exemption.
 - [《资治通鉴·汉纪》749丨管理人必看：发奖金是管理的最佳手段吗？](sources/zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf.md) — 芮淇讲透资治通鉴 episode on bonus incentives, top-down exemplar governance, Ma Liao's warning to Empress Ma, Fifth Lun's outer-relative command caution, the Ma Fang/Geng Gong Qiang campaign, Deng Xun's cancellation of an infeasible canal project, and Ban Chao's Shicheng attack.
 - [《资治通鉴·汉纪》750丨揭秘东汉完美女性，背后满是牺牲！](sources/zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt.md) — 芮淇讲透资治通鉴 episode on Mingde Empress Ma's childless maternal authority, Ma-family title restraint, the Baihu Guan classics conference, Zhangdi's talent search, and Ban Chao's early Western Regions proxy strategy.
@@ -1772,6 +1773,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Friedrich Wilhelm von Steuben](entities/FriedrichWilhelmVonSteuben.md) — European trainer whose Valley Forge drills and sanitation reforms helped professionalize the Continental Army.
 - [Marquis de Lafayette](entities/MarquisDeLafayette.md) — Young French volunteer close to Washington and tied to the personal Franco-American layer of the Revolution.
 - [Horatio Gates](entities/HoratioGates.md) — Rival commander figure around whom a winter movement to replace Washington briefly formed.
+- [郑纯 / Zheng Chun (Eastern Han)](entities/ZhengChunEasternHan.md) — Yongchang administrator whose clean, custom-aware frontier governance anchors Hanji 747's contrast with the Ailao rebellion after his death.
+- [哀牢王类牢 / Ailao King Lei Lao](entities/AilaoKingLeilao.md) — Ailao ruler whose rebellion after Zheng Chun's death becomes Hanji 747's negative case for frontier governance without local understanding.
 - [白虎观会议 / Baihu Guan Conference](entities/BaihuGuanConference.md) — Zhangdi-era court conference where officials and scholars debated Five Classics differences and produced a recorded classics-consensus proceeding.
 - [徐干 / Xu Gan (Eastern Han)](entities/XuGanEasternHan.md) — Pingling volunteer officer sent with a limited support force to reinforce Ban Chao's Western Regions operations.
 - [明德马皇后 / Empress Ma (Mingde, Eastern Han)](entities/EmpressMaMingdeEasternHan.md) — Childless Zhangdi mother figure whose authority rests on raising, learning, preventive Ma-family restraint, frugal example, court records, and later lost-patronage exposure.
@@ -10273,6 +10276,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [使命驱动的边疆责任 / Mission-Driven Frontier Responsibility](concepts/MissionDrivenFrontierResponsibility.md) — Frontier-duty pattern where formal exit is judged against concrete security collapse among dependent local allies.
 - [抚育胜于生育的母德评价 / Motherhood Beyond Childbirth](concepts/MotherhoodBeyondChildbirth.md) — Maternal-legitimacy pattern where raising, education, virtue, household formation, and recognized authority can outweigh biological birth in political evaluation.
 - [宫廷女性史学 / Court Women Historiography](concepts/CourtWomenHistoriography.md) — Pattern where elite court women shape dynastic memory through palace records, editing, teaching, continuation, or source transmission.
 - [官方经学定议 / Imperial Classics Consensus Building](concepts/ImperialClassicsConsensusBuilding.md) — Governance pattern where a ruler convenes officials and scholars to settle classical disputes and turn interpretation into official record.

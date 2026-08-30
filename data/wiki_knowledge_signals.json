@@ -1677,6 +1677,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/aiboshengwu/"
     },
+    "AilaoKingLeilao": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》747丨班超告诉你：真正的聪明人都有使命感！ [lj5Z9TaYVosA-JCUfyxWuC35dZvi].md",
+          "key": "zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》747丨班超告诉你：真正的聪明人都有使命感！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/ailaokingleilao/"
+    },
     "AimaTechnology": {
       "episode_count": 1,
       "show_count": 1,
@@ -3387,9 +3403,9 @@
       "url": "/wiki/entities/baimarelieflatehan/"
     },
     "BanChaoEasternHan": {
-      "episode_count": 13,
+      "episode_count": 14,
       "show_count": 1,
-      "source_note_count": 13,
+      "source_note_count": 14,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》780丨最多灾多难的时代：东汉 [lvGCuMRFJbLrOFER532EES3TDOa_].md",
@@ -3481,6 +3497,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》749丨管理人必看：发奖金是管理的最佳手段吗？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》747丨班超告诉你：真正的聪明人都有使命感！ [lj5Z9TaYVosA-JCUfyxWuC35dZvi].md",
+          "key": "zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》747丨班超告诉你：真正的聪明人都有使命感！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi/"
         }
       ],
       "updated": "2026-08-31",
@@ -11120,9 +11143,9 @@
       "url": "/wiki/entities/emperorshunofhan/"
     },
     "EmperorZhangOfHan": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 1,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》770丨沉默的真相：皇帝的生母竟是她 [lu5dqu8Uuw277IkZXkBLVqDbPL3q].md",
@@ -11207,6 +11230,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》748丨老祖宗的忠告： 亲戚不共财，共财两无来！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-748-laozuzong-de-zhonggao-qinqi-bugongcai-gongcai-liangwulai-luqvnld4wbdgc3nrdumyhfhscs4z/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》747丨班超告诉你：真正的聪明人都有使命感！ [lj5Z9TaYVosA-JCUfyxWuC35dZvi].md",
+          "key": "zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》747丨班超告诉你：真正的聪明人都有使命感！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi/"
         }
       ],
       "updated": "2026-08-31",
@@ -19848,9 +19878,9 @@
       "url": "/wiki/entities/khotankingjianlatehan/"
     },
     "KhotanKingdomLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》838丨贪婪的诱惑，让他狂飙在作死的路上 [lrYDIlyNi6O6YzHk1_E74M6aiGWr].md",
@@ -19865,9 +19895,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》810丨他拼个满门被斩，为何也要杀妻？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》747丨班超告诉你：真正的聪明人都有使命感！ [lj5Z9TaYVosA-JCUfyxWuC35dZvi].md",
+          "key": "zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》747丨班超告诉你：真正的聪明人都有使命感！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-08-31",
       "url": "/wiki/entities/khotankingdomlatehan/"
     },
     "KimiDeltaAttention": {
@@ -21666,9 +21703,9 @@
       "url": "/wiki/concepts/lifestyleweightmanagement/"
     },
     "LightTouchFrontierGovernance": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》774丨班超接班人如何搞乱西域？ [lnBNOc-uYS8kee7pZ9yEcxecrPyd].md",
@@ -21683,9 +21720,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》779丨历史告诉你：用错人竟会亡国灭家？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》747丨班超告诉你：真正的聪明人都有使命感！ [lj5Z9TaYVosA-JCUfyxWuC35dZvi].md",
+          "key": "zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》747丨班超告诉你：真正的聪明人都有使命感！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-08-31",
       "url": "/wiki/concepts/lighttouchfrontiergovernance/"
     },
     "LiminalSleepTransitionPractice": {
@@ -21934,9 +21978,9 @@
       "url": "/wiki/entities/liubiao/"
     },
     "LiuCangDongpingKing": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》755丨这个朝代皇上就开始鼓励生娃了！ [lj7bdkxKdTJHPO469yXHSkJyFdCo].md",
@@ -21951,6 +21995,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》751丨窦皇后告诉你：女人不狠，地位不稳",
           "url": "/wiki/sources/zizhi-tongjian-hanji-751-dou-huanghou-gaosu-ni-nvren-bu-hen-diwei-bu-wen-luvqadctbfuzit2ackrqifour2c6/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》747丨班超告诉你：真正的聪明人都有使命感！ [lj5Z9TaYVosA-JCUfyxWuC35dZvi].md",
+          "key": "zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》747丨班超告诉你：真正的聪明人都有使命感！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi/"
         }
       ],
       "updated": "2026-08-31",
@@ -22562,9 +22613,9 @@
       "url": "/wiki/entities/liuyandongcommandery/"
     },
     "LiuYanFulingKingEasternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》762丨历史告诉你：男人有权，能有多荒唐？ [liMDO2HFD8epCfKwwsrmZZ9NO0dJ].md",
@@ -22572,9 +22623,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》762丨历史告诉你：男人有权，能有多荒唐？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-762-lishi-gaosu-ni-nanren-youquan-neng-you-duo-huangtang-limdo2hfd8epcfkwwsrmzz9no0dj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》747丨班超告诉你：真正的聪明人都有使命感！ [lj5Z9TaYVosA-JCUfyxWuC35dZvi].md",
+          "key": "zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》747丨班超告诉你：真正的聪明人都有使命感！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-08-31",
       "url": "/wiki/entities/liuyanfulingkingeasternhan/"
     },
     "LiuYeLateHan": {
@@ -25586,6 +25644,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/missionalignedvendorswitching/"
     },
+    "MissionDrivenFrontierResponsibility": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》747丨班超告诉你：真正的聪明人都有使命感！ [lj5Z9TaYVosA-JCUfyxWuC35dZvi].md",
+          "key": "zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》747丨班超告诉你：真正的聪明人都有使命感！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/missiondrivenfrontierresponsibility/"
+    },
     "MissionaryFieldworkInfrastructure": {
       "episode_count": 2,
       "show_count": 2,
@@ -26846,9 +26920,9 @@
       "url": "/wiki/entities/northernrising/"
     },
     "NorthernXiongnuLateHan": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》767丨聪明人，都擅长“演戏” [lq3ol7Y-JDh7dnNFKmtFDG4ibRyq].md",
@@ -26898,9 +26972,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》755丨这个朝代皇上就开始鼓励生娃了！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-755-zhege-chaodai-huangshang-jiu-kaishi-guli-shengwa-le-lj7bdkxkdtjhpo469yxhskjyfdco/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》747丨班超告诉你：真正的聪明人都有使命感！ [lj5Z9TaYVosA-JCUfyxWuC35dZvi].md",
+          "key": "zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》747丨班超告诉你：真正的聪明人都有使命感！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-08-31",
       "url": "/wiki/entities/northernxiongnulatehan/"
     },
     "NutritionLabelSugarTraps": {
@@ -33026,9 +33107,9 @@
       "url": "/wiki/entities/shubokhotanlatehan/"
     },
     "ShuleKingdom": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》897丨职场必读！什么才叫领导力？ [lvRRMkSykaZLSb7W8aBbdmNqfzQQ].md",
@@ -33050,9 +33131,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》754丨古代版窃听风云，结局爽文",
           "url": "/wiki/sources/zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》747丨班超告诉你：真正的聪明人都有使命感！ [lj5Z9TaYVosA-JCUfyxWuC35dZvi].md",
+          "key": "zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》747丨班超告诉你：真正的聪明人都有使命感！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-08-31",
       "url": "/wiki/entities/shulekingdom/"
     },
     "ShusunWujiLateHan": {
@@ -33590,9 +33678,9 @@
       "url": "/wiki/entities/southernocean/"
     },
     "SouthernXiongnu": {
-      "episode_count": 17,
+      "episode_count": 18,
       "show_count": 1,
-      "source_note_count": 17,
+      "source_note_count": 18,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》903丨为什么劝你冤冤相报何时了？ [loKpt93MUc8kasvN44VgsjKI8boM].md",
@@ -33712,9 +33800,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》755丨这个朝代皇上就开始鼓励生娃了！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-755-zhege-chaodai-huangshang-jiu-kaishi-guli-shengwa-le-lj7bdkxkdtjhpo469yxhskjyfdco/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》747丨班超告诉你：真正的聪明人都有使命感！ [lj5Z9TaYVosA-JCUfyxWuC35dZvi].md",
+          "key": "zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》747丨班超告诉你：真正的聪明人都有使命感！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-08-31",
       "url": "/wiki/entities/southernxiongnu/"
     },
     "SpineRehabilitationProgression": {
@@ -34123,9 +34218,9 @@
       "url": "/wiki/concepts/strategicforbearancegovernance/"
     },
     "StrategicFrontierAbandonment": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》934丨杀一人则天下安，你杀不杀？ [ltaR8hVDKqCt8oizm3k22Z38B1v8].md",
@@ -34189,9 +34284,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》779丨历史告诉你：用错人竟会亡国灭家？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》747丨班超告诉你：真正的聪明人都有使命感！ [lj5Z9TaYVosA-JCUfyxWuC35dZvi].md",
+          "key": "zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》747丨班超告诉你：真正的聪明人都有使命感！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-08-31",
       "url": "/wiki/concepts/strategicfrontierabandonment/"
     },
     "StrengthTrainingJointProtection": {
@@ -41642,9 +41744,9 @@
       "url": "/wiki/concepts/yingchuanfourmagistrates/"
     },
     "YiwuGarrisonLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》810丨他拼个满门被斩，为何也要杀妻？ [lo8vW0JJ0d6IR7yQBUh_5p9oRZSc].md",
@@ -41652,9 +41754,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》810丨他拼个满门被斩，为何也要杀妻？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》747丨班超告诉你：真正的聪明人都有使命感！ [lj5Z9TaYVosA-JCUfyxWuC35dZvi].md",
+          "key": "zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》747丨班超告诉你：真正的聪明人都有使命感！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-08-31",
       "url": "/wiki/entities/yiwugarrisonlatehan/"
     },
     "YizhouPacificationByLeniency": {
@@ -43384,6 +43493,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/zhengbaolatehan/"
+    },
+    "ZhengChunEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》747丨班超告诉你：真正的聪明人都有使命感！ [lj5Z9TaYVosA-JCUfyxWuC35dZvi].md",
+          "key": "zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》747丨班超告诉你：真正的聪明人都有使命感！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/zhengchuneasternhan/"
     },
     "ZhengHongEasternHan": {
       "episode_count": 3,

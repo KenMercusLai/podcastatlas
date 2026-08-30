@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 8504
+wiki_total_pages: 8506
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -1325,6 +1325,9 @@ wiki_pages:
   - key: "ZhengXugong"
     title: "郑繻公 / Duke Xu of Zheng"
     url: "/wiki/entities/zhengxugong/"
+  - key: "ZhengChunEasternHan"
+    title: "郑纯 / Zheng Chun (Eastern Han)"
+    url: "/wiki/entities/zhengchuneasternhan/"
   - key: "ZhengXiu"
     title: "郑袖 / Zheng Xiu"
     url: "/wiki/entities/zhengxiu/"

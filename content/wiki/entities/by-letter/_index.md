@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 8504
+wiki_total_pages: 8506
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1340,6 +1340,9 @@ wiki_pages:
   - key: "AntiDongZhuoCoalition"
     title: "反董卓联盟 / Anti-Dong Zhuo Coalition"
     url: "/wiki/entities/antidongzhuocoalition/"
+  - key: "AilaoKingLeilao"
+    title: "哀牢王类牢 / Ailao King Lei Lao"
+    url: "/wiki/entities/ailaokingleilao/"
   - key: "ArcteryxMountainClassroom"
     title: "始祖鸟山地课堂 / Arcteryx Mountain Classroom"
     url: "/wiki/entities/arcteryxmountainclassroom/"

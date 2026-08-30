@@ -21,16 +21,19 @@ sources:
   - zizhi-tongjian-hanji-765-donghan-fengyun-nengchen-nengbuneng-gandiao-bahu-waiqi-ltnvdqnyofuelaklssbquguwivan
   - zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j
   - zizhi-tongjian-hanji-755-zhege-chaodai-huangshang-jiu-kaishi-guli-shengwa-le-lj7bdkxkdtjhpo469yxhskjyfdco
-last_updated: 2026-08-30
+  - zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi
+last_updated: 2026-08-31
 ---
 
 ## Overview
 
-南匈奴 / Southern Xiongnu is the frontier polity whose current wiki profile now begins in 85 CE, when a chanyu succession and a successful attack on [[NorthernXiongnuLateHan|Northern Xiongnu]] create a Han credibility dispute over captives and livestock. Later layers preserve the 88 CE request to use Northern Xiongnu famine and disorder as an offensive opening, the older Han commitment used in the Yu Chu recognition dispute, the An Guo-Shizi crisis, the Fenghou rebellion, surrender notices, the Wusi-Che Niu revolt, the Che'er dispute, and the Huzheng, Qiangqu, Yufuluo, Qubei, and Huchuquan branches.
+南匈奴 / Southern Xiongnu is the frontier polity whose current wiki profile now begins in 77 CE, when Southern Xiongnu remnants cooperate with Han border forces and Wuhuan against [[NorthernXiongnuLateHan|Northern Xiongnu]] and then need grain relief during famine. Later layers preserve the 85 CE chanyu succession and restitution dispute, the 88 CE request to use Northern Xiongnu famine and disorder as an offensive opening, the older Han commitment used in the Yu Chu recognition dispute, the An Guo-Shizi crisis, the Fenghou rebellion, surrender notices, the Wusi-Che Niu revolt, the Che'er dispute, and the Huzheng, Qiangqu, Yufuluo, Qubei, and Huchuquan branches.
 
 ## Current Profile
 
-Hanji 755 supplies the earliest current layer. Southern Xiongnu participates in multi-front pressure on Northern Xiongnu and defeats a Northern Xiongnu force at Zhuoye Mountain, taking captives and livestock. [[MengYunEasternHan|Meng Yun]] warns that keeping those gains could make Northern Xiongnu think Han had deceived them, so Southern Xiongnu success becomes a credibility problem for Han rather than a simple allied victory. The same source records a chanyu succession: the previous chanyu Chang dies, and Xuan, son of the previous chanyu Han, succeeds as Yitu Yulü Chanyu.
+Hanji 747 supplies the earliest current layer. Southern Xiongnu remnants, Han border commandery soldiers, and Wuhuan jointly attack Northern Xiongnu's Gao Lin Wenyu Du king at Zhuoye Mountain and defeat him. The same source says Southern Xiongnu then suffers famine, and [[EmperorZhangOfHan|Zhangdi]] supplies grain. Southern Xiongnu therefore first appears here as both useful frontier partner and relief-dependent submitted polity.
+
+Hanji 755 supplies the next current layer. Southern Xiongnu participates in multi-front pressure on Northern Xiongnu and defeats a Northern Xiongnu force at Zhuoye Mountain, taking captives and livestock. [[MengYunEasternHan|Meng Yun]] warns that keeping those gains could make Northern Xiongnu think Han had deceived them, so Southern Xiongnu success becomes a credibility problem for Han rather than a simple allied victory. The same source records a chanyu succession: the previous chanyu Chang dies, and Xuan, son of the previous chanyu Han, succeeds as Yitu Yulü Chanyu.
 
 Hanji 759 supplies the next early policy layer. Northern Xiongnu famine and disorder send defectors south, and the Southern Xiongnu chanyu asks Han to join an attack while requesting [[GengBingEasternHan|Geng Bing]], [[DengHongHeEraLateHan|Deng Hong]], and border-commandery support. Geng supports the opportunity, but [[SongYiEasternHan|Song Yi]] warns that if Southern Xiongnu return north and Han must restrain [[Xianbei|Xianbei]] for them, Han may create new border danger.
 
@@ -54,8 +57,8 @@ The later notes preserve Southern Xiongnu utility in emperor-escort and successi
 
 ## Key Characteristics
 
-- Frontier polity whose Han-facing order depends on chanyu legitimacy, submission terms, accurate reporting, restitution, and the credibility of court recognition.
-- Earliest current layer is now the 85 CE Southern Xiongnu attack, chanyu succession, and restitution debate before the 88 CE attack request.
+- Frontier polity whose Han-facing order depends on chanyu legitimacy, submission terms, relief, accurate reporting, restitution, and the credibility of court recognition.
+- Earliest current layer is now the 77 CE allied attack on Northern Xiongnu and famine-relief notice before the 85 CE restitution debate.
 - Partner and threat at the same time: Southern Xiongnu actors appear as submitted rulers, captors of transferred Han people, requisitioned auxiliaries, rebels, hostages, and campaign participants.
 - Recurrent succession field where Han commanders and court decisions can stabilize, override, or destabilize internal leadership.
 - Vulnerable to requisition, supply pressure, misinformation, complaint-channel capture, and unauthorized intervention by Han frontier commanders.
@@ -64,6 +67,8 @@ The later notes preserve Southern Xiongnu utility in emperor-escort and successi
 
 ## Evidence
 
+- Earliest allied attack: [[zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi|Hanji 747]] says Southern Xiongnu remnants, Han border commandery soldiers, and Wuhuan defeat Northern Xiongnu at Zhuoye Mountain.
+- Famine relief: [[zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi|Hanji 747]] says Southern Xiongnu suffers famine and Zhangdi supplies grain.
 - Early attack and restitution problem: [[zizhi-tongjian-hanji-755-zhege-chaodai-huangshang-jiu-kaishi-guli-shengwa-le-lj7bdkxkdtjhpo469yxhskjyfdco|Hanji 755]] says Southern Xiongnu attacks Northern Xiongnu at Zhuoye Mountain and takes captives and livestock, prompting Meng Yun's warning that Han credibility may suffer.
 - Early succession marker: [[zizhi-tongjian-hanji-755-zhege-chaodai-huangshang-jiu-kaishi-guli-shengwa-le-lj7bdkxkdtjhpo469yxhskjyfdco|Hanji 755]] says chanyu Chang dies and Xuan succeeds as Yitu Yulü Chanyu.
 - Offensive request and northern-return risk: [[zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j|Hanji 759]] says the Southern Xiongnu chanyu requests Han help against Northern Xiongnu, while Song Yi warns that Southern Xiongnu's northern return could force Han into a new Xianbei problem.
@@ -84,12 +89,12 @@ The later notes preserve Southern Xiongnu utility in emperor-escort and successi
 
 ## Qualifications
 
-This page remains bounded to the listed source notes and does not reconstruct a full Southern Xiongnu history. Hanji 755 gives the earliest current attack, restitution, and succession layer; Hanji 759 gives the later attack-request and northern-return risk layer; Hanji 765 gives the next commitment-and-credibility layer; Hanji 768 gives the An Guo-Shizi prehistory; Hanji 769 gives the next succession rebellion, Deng Hong campaign, and false-report aftermath. Hanji 755, Hanji 784, Hanji 820, Hanji 769, Hanji 768, Hanji 765, and Hanji 759 appear late in the frontmatter evidence list because the list preserves source-ingest order, not chronology. Hanji 903's succession notice stays at group level because the source does not resolve its named-chanyu identity against the later Huzheng-Qiangqu-Yufuluo branch.
+This page remains bounded to the listed source notes and does not reconstruct a full Southern Xiongnu history. Hanji 747 gives the earliest current allied-attack and famine-relief notice; Hanji 755 gives the next attack, restitution, and succession layer; Hanji 759 gives the later attack-request and northern-return risk layer; Hanji 765 gives the next commitment-and-credibility layer; Hanji 768 gives the An Guo-Shizi prehistory; Hanji 769 gives the next succession rebellion, Deng Hong campaign, and false-report aftermath. Hanji 747, Hanji 755, Hanji 784, Hanji 820, Hanji 769, Hanji 768, Hanji 765, and Hanji 759 appear late in the frontmatter evidence list because the list preserves source-ingest order, not chronology. Hanji 903's succession notice stays at group level because the source does not resolve its named-chanyu identity against the later Huzheng-Qiangqu-Yufuluo branch.
 
 ## What Changed
 
-- Added Hanji 755 as the earliest current layer: 85 CE Southern Xiongnu attack, chanyu succession, and restitution-credit dispute.
-- Reframed the profile so allied battlefield success can become a Han credibility problem before later offensive opportunity, recognition, jealousy, succession, reporting, surrender, and requisition layers.
+- Added Hanji 747 as the earliest current layer: 77 CE allied attack on Northern Xiongnu and famine relief from Zhangdi.
+- Reframed Hanji 755 as the next layer where allied battlefield success becomes a Han credibility problem before later offensive opportunity, recognition, jealousy, succession, reporting, surrender, and requisition layers.
 - Preserved the Hanji 768 An Guo-Shizi jealousy crisis and Du Chong/Zhu Hui complaint-channel escalation as the next major chronological layer.
 - Preserved the later Hanji 784, Hanji 820, Hanji 844, and Huzheng-Qiangqu-Yufuluo branches.
 
@@ -97,6 +102,7 @@ This page remains bounded to the listed source notes and does not reconstruct a 
 
 - [[Xiongnu|Xiongnu]] - broader frontier people page.
 - [[NorthernXiongnuLateHan|北匈奴]] - rival Xiongnu field whose weakness, restitution, claimant politics, and collapse pressure Southern Xiongnu commitments.
+- [[YiwuGarrisonLateHan|伊吾屯田]] - adjacent Hanji 747 frontier position whose withdrawal helps Northern Xiongnu regain ground.
 - [[EmperorZhangOfHan|汉章帝]] - ruler whose court handles the 85 CE restitution debate created by Southern Xiongnu gains.
 - [[MengYunEasternHan|孟云]] - frontier official who argues that Southern Xiongnu gains should be returned for Han credibility.
 - [[HuanYuEasternHan|桓虞]] - minister who supports returning the captives and livestock.

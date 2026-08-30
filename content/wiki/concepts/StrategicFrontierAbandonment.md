@@ -13,7 +13,8 @@ sources:
   - zizhi-tongjian-hanji-782-jiemi-donghan-qi-nvzi-jiannan-de-taihou-shengya-lgfljux9aaocptbhxvvifitrgxcy
   - zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa
   - zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6
-last_updated: 2026-08-30
+  - zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi
+last_updated: 2026-08-31
 ---
 
 ## Definition
@@ -22,7 +23,9 @@ Strategic Frontier Abandonment / 弃边失屏 is a pattern where a costly fronti
 
 ## Current Synthesis
 
-Hanji 779 now supplies the immediate Western Regions abandonment mechanism. [[BanChaoEasternHan|Ban Chao]] had held the region through local knowledge, light-touch rule, and pro-Han kingship arrangements such as [[QiuciKingdom|Qiuci]]'s Ba Ba. [[RenShangLateHan|Ren Shang]] inherits the office with military reputation but ignores Ban Chao's advice, governs harshly, triggers rebellion, and leaves the court paying for rescue through [[LiangJinLateHan|Liang Jin]] and [[DuanXiLateHan|Duan Xi]]. The final withdrawal is therefore not only a budget decision; it follows appointment failure that turns a low-support balancing system into an expensive garrison problem.
+Hanji 747 now supplies the earliest Western Regions micro-case. When the court abolishes Western Regions offices and recalls [[BanChaoEasternHan|Ban Chao]], local panic in [[ShuleKingdom|Shule]] and [[KhotanKingdomLateHan|Khotan]] shows that formal withdrawal is already destabilizing allied space. The same source's 77 CE [[YiwuGarrisonLateHan|Yiwu]] notice is even starker: Han withdraws the tuntian troops, and [[NorthernXiongnuLateHan|Northern Xiongnu]] immediately occupies the position again.
+
+Hanji 779 supplies the later Western Regions abandonment mechanism. Ban Chao had held the region through local knowledge, light-touch rule, and pro-Han kingship arrangements such as [[QiuciKingdom|Qiuci]]'s Ba Ba. [[RenShangLateHan|Ren Shang]] inherits the office with military reputation but ignores Ban Chao's advice, governs harshly, triggers rebellion, and leaves the court paying for rescue through [[LiangJinLateHan|Liang Jin]] and [[DuanXiLateHan|Duan Xi]]. The final withdrawal is therefore not only a budget decision; it follows appointment failure that turns a low-support balancing system into an expensive garrison problem.
 
 Hanji 780 broadens that same case into the Deng-regency prelude. Ban Chao's limited-force success becomes the benchmark, while the court's later abandonment follows distance, expedition cost, fiscal exhaustion, disaster, and instability. Hanji 791 and Hanji 799 then show the recovery debate: Ban Yong and Chen Zhong argue against total withdrawal because the Western Regions can become an enemy tax base and expose Hexi if ceded to Northern Xiongnu.
 
@@ -31,6 +34,7 @@ The Liangzhou cases add the domestic-frontier version. Hanji 782 records Pang Ca
 ## Key Claims
 
 - Frontier abandonment becomes tempting when transport, defense, garrison, and tax costs become visible before accumulated prior investment and shield benefits do.
+- Withdrawal can create immediate power vacuums, as the Yiwu garrison notice shows when Northern Xiongnu reoccupies the abandoned position.
 - The Western Regions case shows that personnel misfit can convert an inherited low-cost frontier system into an unaffordable crisis.
 - Humanitarian retrenchment and strategic abandonment can overlap, so the same proposal may reduce immediate suffering while raising future exposure.
 - Yu Xu and Fu Xie supply the clearest current Liangzhou formulation: losing a screen can move danger closer to the core.
@@ -39,6 +43,8 @@ The Liangzhou cases add the domestic-frontier version. Hanji 782 records Pang Ca
 
 ## Evidence
 
+- Early recall and local panic: [[zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi|Hanji 747]] shows Shule and Khotan reacting to Ban Chao's recall as if Han withdrawal will collapse their security.
+- Early Yiwu withdrawal: [[zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi|Hanji 747]] says Zhangdi withdraws Yiwu Lu tuntian troops and Northern Xiongnu occupies the position again.
 - Immediate Western Regions mechanism: [[zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6|Hanji 779]] links Ren Shang's harsh misgovernment, Western Regions rebellion, Liang Jin's rescue, and Duan Xi's failed handoff to the court's final withdrawal.
 - Broader Western Regions cost frame: [[zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa|Hanji 780]] contrasts Ban Chao's limited-force, tuntian-supported achievement with Deng-era abandonment under fiscal exhaustion, distance, expedition cost, and court instability.
 - Recovery and constrained-retention debate: [[zizhi-tongjian-hanji-791-zhichang-shang-zong-you-ren-beihou-yin-ni-yi-zhao-yingdui-llz74ebi88qmw-9050x2qaddjwqn|Hanji 791]] and [[zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf|Hanji 799]] preserve Ban Yong and Chen Zhong's route-control logic against simple withdrawal.
@@ -49,19 +55,22 @@ The Liangzhou cases add the domestic-frontier version. Hanji 782 records Pang Ca
 
 ## Counterevidence & Qualifications
 
-The concept should not imply that every frontier must be held indefinitely. Hanji 779, Hanji 780, and Hanji 782 give serious cost arguments: some positions may be so distant or expensive that continuing the same campaign destroys the population base and treasury the state claims to defend. The current judgment is conditional: abandonment is dangerous when decision-makers count immediate cost without pricing accumulated prior investment, shield function, route leverage, civilian protection, alliance effects, governance fit, and future reconquest expense.
+The concept should not imply that every frontier must be held indefinitely. Hanji 747 itself shows Ban Chao partially reversing one withdrawal crisis by returning to Shule, so the decision space includes selective re-commitment rather than all-or-nothing retention. Hanji 779, Hanji 780, and Hanji 782 give serious cost arguments: some positions may be so distant or expensive that continuing the same campaign destroys the population base and treasury the state claims to defend. The current judgment is conditional: abandonment is dangerous when decision-makers count immediate cost without pricing accumulated prior investment, shield function, route leverage, civilian protection, alliance effects, governance fit, and future reconquest expense.
 
 ## What Changed
 
-- Added Hanji 779 as the immediate Western Regions mechanism behind the withdrawal previously summarized by Hanji 780.
+- Added Hanji 747 as the earliest current source layer, centered on recall panic and Yiwu reoccupation after withdrawal.
+- Reframed Yiwu as a concise garrison example of abandonment creating immediate enemy occupation.
+- Preserved Hanji 779 as the later Western Regions mechanism behind the withdrawal previously summarized by Hanji 780.
 - Reframed Western Regions abandonment as an interaction between appointment failure, local legitimacy loss, rescue cost, and fiscal pressure.
-- Added Qiuci, Liang Jin, Duan Xi, and Ren Shang's failed handoff to the concept's evidence base.
 
 ## Related Concepts
 
+- [[YiwuGarrisonLateHan|伊吾屯田]] - garrison node where withdrawal immediately becomes Northern Xiongnu occupation.
+- [[MissionDrivenFrontierResponsibility|使命驱动的边疆责任]] - counter-pattern where Ban Chao reads withdrawal's concrete local danger and returns to stabilize Shule.
 - [[AppointmentQualityAsStateCapacity]] - personnel fit can determine whether a frontier remains a low-cost balance system or becomes an expensive crisis.
 - [[RegencyUnderCompoundCrisis]] - crisis setting that makes frontier abandonment tempting under fiscal and disaster pressure.
-- [[BanChaoEasternHan]] - Western Regions commander whose achievement clarifies what the Deng court loses by withdrawing.
+- [[BanChaoEasternHan]] - Western Regions commander whose achievement clarifies what later courts lose by withdrawing.
 - [[QiuciKingdom]] - local polity showing that allied territory still has internal legitimacy constraints.
 - [[FrontierConscriptionBackfire]] - conscription failure that makes Western Regions support costs politically dangerous at home.
 - [[CoerciveFrontierRelocationBackfire]] - related failure mode where the state keeps the frontier but destroys civilian capacity.

@@ -11,16 +11,19 @@ sources:
   - zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex
   - zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j
   - zizhi-tongjian-hanji-755-zhege-chaodai-huangshang-jiu-kaishi-guli-shengwa-le-lj7bdkxkdtjhpo469yxhskjyfdco
-last_updated: 2026-08-30
+  - zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi
+last_updated: 2026-08-31
 ---
 
 ## Overview
 
-北匈奴 / Northern Xiongnu is the late Eastern Han frontier field where weakness, Southern Xiongnu opportunism, Han credibility management, restraint debate, [[DouXianEasternHan|Dou Xian]]'s contested campaign, battlefield defeat, client-surrender attempts, Yu Chu recognition, surrender reversal, Xianbei succession pressure, and later migration memory connect. Hanji 755 now supplies the earliest current layer: by 85 CE Northern Xiongnu is already under multi-front pressure, losing groups to Han, and vulnerable to Southern Xiongnu attack, but [[MengYunEasternHan|Meng Yun]] warns that Han still has to manage its credibility toward them.
+北匈奴 / Northern Xiongnu is the late Eastern Han frontier field where weakness, Southern Xiongnu opportunism, Han credibility management, restraint debate, [[DouXianEasternHan|Dou Xian]]'s contested campaign, battlefield defeat, client-surrender attempts, Yu Chu recognition, surrender reversal, Xianbei succession pressure, and later migration memory connect. Hanji 747 now supplies the earliest current layer: in 77 CE Northern Xiongnu is defeated at Zhuoye by Southern Xiongnu, Han border commandery soldiers, and Wuhuan, but it also reoccupies [[YiwuGarrisonLateHan|Yiwu]] after Han withdraws the garrison.
 
 ## Current Profile
 
-The earliest current layer is 85 CE pressure and restitution politics. Hanji 755 says Northern Xiongnu groups defect to Han in many batches while Southern Xiongnu, Dingling, [[Xianbei|Xianbei]], and Western Regions actors attack from different directions. Northern Xiongnu weakness produces migration and dispersal, but it does not remove Han's diplomatic problem. When [[SouthernXiongnu|Southern Xiongnu]] defeats a Northern Xiongnu force at Zhuoye Mountain and seizes captives and livestock, Meng Yun warns that failure to return them could make Northern Xiongnu think Han had deceived them after reconciliation.
+Hanji 747 supplies the earliest current layer. The Gao Lin Wenyu Du king of Northern Xiongnu returns to Zhuoye Mountain, where Southern Xiongnu remnants, Han border commandery soldiers, and Wuhuan jointly attack and defeat the Northern Xiongnu side. The same episode later says Zhangdi withdraws Yiwu Lu tuntian troops, after which Northern Xiongnu occupies the position again. Northern Xiongnu therefore appears first as both a vulnerable target and the immediate beneficiary of Han retrenchment.
+
+The next current layer is 85 CE pressure and restitution politics. Hanji 755 says Northern Xiongnu groups defect to Han in many batches while Southern Xiongnu, Dingling, [[Xianbei|Xianbei]], and Western Regions actors attack from different directions. Northern Xiongnu weakness produces migration and dispersal, but it does not remove Han's diplomatic problem. When [[SouthernXiongnu|Southern Xiongnu]] defeats a Northern Xiongnu force at Zhuoye Mountain and seizes captives and livestock, Meng Yun warns that failure to return them could make Northern Xiongnu think Han had deceived them after reconciliation.
 
 The Hanji 755 debate divides the court: [[ZhengHongEasternHan|Zheng Hong]] and [[FifthLunEasternHan|Fifth Lun]] oppose returning the captured people and livestock, while [[HuanYuEasternHan|Huan Yu]] and [[YuanAnEasternHan|Yuan An]] support restitution. The episode therefore makes Northern Xiongnu the weak party whose treatment still tests Han credibility.
 
@@ -30,7 +33,7 @@ Hanji 761 makes the moral ambiguity sharper once Dou Xian's campaign is proposed
 
 The campaign sources give the first collapse layer. Dou Xian, Geng Bing, the Southern Xiongnu chanyu, and [[DengHongHeEraLateHan|Deng Hong]] advance by separate routes toward Zhuoye Mountain. Dou sends Yan Pan, [[GengKuiLateHan|Geng Kui]], and Geng Tan with Southern Xiongnu cavalry against the Northern Xiongnu chanyu at [[JiluoshanBattleLateHan|Jiluoshan]]. The Han side wins, pursues to Siqu Beihai, records large casualties and captured livestock, receives surrender from many tribes, and memorializes the victory through the [[YanranInscription|Yanran inscription]].
 
-Hanji 763 deepens the collapse through western and later pursuit pressure. Dou first applies pressure by retaking [[Yiwu|Yiwu]], causing nearby Cheshi polities to submit hostages. The Northern Xiongnu chanyu seeks court access after Han returns his hostage brother, but the Southern Xiongnu chanyu attacks first, wounding the chanyu and taking royal family members. Geng Kui and [[RenShangLateHan|Ren Shang]] later defeat the chanyu at Jinwei Mountain.
+Hanji 763 deepens the collapse through western and later pursuit pressure. Dou first applies pressure by retaking [[YiwuGarrisonLateHan|Yiwu]], causing nearby Cheshi polities to submit hostages. The Northern Xiongnu chanyu seeks court access after Han returns his hostage brother, but the Southern Xiongnu chanyu attacks first, wounding the chanyu and taking royal family members. Geng Kui and [[RenShangLateHan|Ren Shang]] later defeat the chanyu at Jinwei Mountain.
 
 Hanji 763 and Hanji 764 both turn this defeat into a long-range historical interpretation. The current judgment stays cautious: the sources associate westward Northern Xiongnu remnants with later Huns, Gothic displacement, and pressure on the [[RomanEmpire|Roman Empire]], but they do not prove a continuous identity chain or make Rome's fall monocausal.
 
@@ -40,16 +43,18 @@ The aftereffect is a steppe-transition story. Hanji 767 says Xianbei occupy aban
 
 ## Key Characteristics
 
-- Distressed frontier power already under multi-front pressure by 85 CE, before the later 88-91 CE campaign sequence.
+- Frontier power already visible by 77 CE as both defeated at Zhuoye and able to reoccupy Yiwu after Han withdrawal.
+- Distressed frontier power under multi-front pressure by 85 CE, before the later 88-91 CE campaign sequence.
 - Weak party in a Han restitution debate after Southern Xiongnu's battlefield success threatens Han credibility.
 - Opportunistic target in later Southern Xiongnu attack requests, qualified by Song Yi's outer-screen restraint argument.
 - Main opponent in Dou Xian's Jiluoshan victory and Yanran commemoration.
-- Migration-memory starting point for a qualified chain from steppe displacement to European Hun and Roman pressure.
 - Recognition field where Yu Chu's submission request threatens older Southern Xiongnu commitments and neighboring Wuhuan-Xianbei relations.
-- Steppe vacuum whose collapse makes Xianbei expansion and remnant identity shift visible in the source sequence.
+- Steppe vacuum whose collapse makes Xianbei expansion, remnant identity shift, and qualified migration memory visible in the source sequence.
 
 ## Evidence
 
+- Earliest Zhuoye defeat: [[zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi|Hanji 747]] says Northern Xiongnu's Gao Lin Wenyu Du king returns to Zhuoye Mountain and is defeated by Southern Xiongnu remnants, Han border commandery soldiers, and Wuhuan.
+- Yiwu reoccupation: [[zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi|Hanji 747]] says Northern Xiongnu occupies Yiwu again after Zhangdi withdraws the Yiwu Lu tuntian troops.
 - Early weakness and multi-front pressure: [[zizhi-tongjian-hanji-755-zhege-chaodai-huangshang-jiu-kaishi-guli-shengwa-le-lj7bdkxkdtjhpo469yxhskjyfdco|Hanji 755]] says Northern Xiongnu receives repeated defections to Han and is attacked by Southern Xiongnu, Dingling, Xianbei, and Western Regions states.
 - Restitution setup: [[zizhi-tongjian-hanji-755-zhege-chaodai-huangshang-jiu-kaishi-guli-shengwa-le-lj7bdkxkdtjhpo469yxhskjyfdco|Hanji 755]] says Southern Xiongnu seizes Northern Xiongnu captives and livestock, and Meng Yun warns that failure to return them could make Han look deceptive.
 - Debate division: [[zizhi-tongjian-hanji-755-zhege-chaodai-huangshang-jiu-kaishi-guli-shengwa-le-lj7bdkxkdtjhpo469yxhskjyfdco|Hanji 755]] says Zheng Hong and Fifth Lun oppose return, while Huan Yu and Yuan An support restitution.
@@ -64,19 +69,22 @@ The aftereffect is a steppe-transition story. Hanji 767 says Xianbei occupy aban
 
 ## Qualifications
 
-This is a narrow late-Eastern-Han remnant page, not a complete Xiongnu history. Hanji 755 and Hanji 759 both show weakness and Southern Xiongnu pressure, but they represent different moments and policy problems: the first concerns restitution after an allied raid, while the second concerns whether Han should join a larger offensive. Hanji 761's large casualty, livestock, surrender, distance, route, and hostage details remain source-scoped. Hanji 763 and Hanji 764 preserve the Northern-Xiongnu-to-Hun-to-Rome chain as a qualified source association, not as settled ethnogenesis, direct causation, or a complete explanation for Rome's fall. Yu Chu's name is normalized under this stable route even though Hanji 765 uses 于除 and Hanji 767 uses 俞厨.
+This is a narrow late-Eastern-Han remnant page, not a complete Xiongnu history. Hanji 747 gives Gao Lin Wenyu Du king, Zhuoye, and Yiwu reoccupation as source-scoped notices without creating a full biography or exact office reconstruction. Hanji 755 and Hanji 759 both show weakness and Southern Xiongnu pressure, but they represent different moments and policy problems: the first concerns restitution after an allied raid, while the second concerns whether Han should join a larger offensive. Hanji 761's large casualty, livestock, surrender, distance, route, and hostage details remain source-scoped. Hanji 763 and Hanji 764 preserve the Northern-Xiongnu-to-Hun-to-Rome chain as a qualified source association, not as settled ethnogenesis, direct causation, or a complete explanation for Rome's fall. Yu Chu's name is normalized under this stable route even though Hanji 765 uses 于除 and Hanji 767 uses 俞厨.
 
 ## What Changed
 
-- Added Hanji 755 as the earliest current layer: 85 CE multi-front pressure, Southern Xiongnu seizure, Meng Yun's credibility warning, and the initial restitution debate.
-- Reframed Northern Xiongnu as a weak opponent that still required credibility management before later famine, campaign, and recognition layers.
+- Added Hanji 747 as the earliest current layer: 77 CE Zhuoye defeat and immediate Yiwu reoccupation after Han withdrawal.
+- Reframed Northern Xiongnu as both vulnerable to allied attack and able to exploit Han retrenchment before the 85 CE restitution debate.
+- Preserved Hanji 755's multi-front pressure, Southern Xiongnu seizure, Meng Yun's credibility warning, and the initial restitution debate.
 - Preserved the Jiluoshan collapse, Yu Chu recognition dispute, surrender reversal, Xianbei transition, and qualified migration-to-Europe chain.
 
 ## Relationships
 
 - [[Xiongnu|匈奴]] - broader steppe-frontier category containing the Northern Xiongnu branch.
 - [[SouthernXiongnu|南匈奴]] - rival Xiongnu field whose attack, cavalry support, and later succession politics shape the northern collapse.
-- [[EmperorZhangOfHan|汉章帝]] - ruler whose court chooses restitution toward Northern Xiongnu after the 85 CE dispute.
+- [[YiwuGarrisonLateHan|伊吾屯田]] - route-security position Northern Xiongnu reoccupies after Han withdrawal.
+- [[EmperorZhangOfHan|汉章帝]] - ruler whose court withdraws Yiwu in 77 CE and later chooses restitution toward Northern Xiongnu after the 85 CE dispute.
+- [[StrategicFrontierAbandonment|弃边失屏]] - concept illustrated by Northern Xiongnu's immediate occupation of Yiwu after Han withdrawal.
 - [[MengYunEasternHan|孟云]] - frontier official who warns that Han credibility depends on returning seized people and livestock.
 - [[HuanYuEasternHan|桓虞]] - minister who supports restitution to Northern Xiongnu in the initial debate.
 - [[YuanAnEasternHan|袁安]] - minister who first supports restitution, then later opposes Yu Chu recognition on credibility grounds.
@@ -89,7 +97,7 @@ This is a narrow late-Eastern-Han remnant page, not a complete Xiongnu history. 
 - [[YanranInscription|燕然勒石]] - commemorative marker after Dou Xian's victory.
 - [[YuChuNorthernXiongnu|于除 / Yu Chu]] - claimant and remnant leader whose recognition request precedes his failed return agreement.
 - [[Xianbei|鲜卑]] - earlier pressure group and later successor occupying former Northern Xiongnu lands.
-- [[Wuhuan|乌桓]] - neighboring frontier group Yuan An says could resent recognition of Yu Chu.
+- [[Wuhuan|乌桓]] - neighboring frontier group involved in Hanji 747's early attack and later in Yuan An's recognition warning.
 - [[RenShangLateHan|任尚]] - Han commander involved in Jinwei Mountain and later Yu Chu pursuit.
 - [[StrategicForbearanceGovernance|退让留余地式治理]] - credibility-preserving restraint pattern applied to the 85-86 CE restitution decision.
 - [[ReputationConstrainedWarRestraint|名声约束下的战争节制]] - concept exposed by arguments against attacking a distant, no-fresh-offense enemy during mourning and farming season.

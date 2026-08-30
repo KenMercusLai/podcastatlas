@@ -17,16 +17,19 @@ sources:
   - zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv
   - zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt
   - zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf
+  - zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi
 last_updated: 2026-08-31
 ---
 
 ## Overview
 
-Ban Chao is the Eastern Han Western Regions commander whose wiki profile now begins with the 78 CE allied Shicheng operation in [[zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf|Hanji 749]], then continues through the 80 CE memorial strategy in [[zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt|Hanji 750]] and the later slander, Shule, Shache, Yuezhi, Qiuci, Yanqi, Gan Ying, succession, and retirement layers. Across the bounded corpus, he is less a simple battlefield hero than a long-horizon frontier operator whose authority depends on credibility, timing, local political manipulation, proxy use, and refusal to let private anger govern public command.
+Ban Chao is the Eastern Han Western Regions commander whose wiki profile now begins with the 76-77 CE recall crisis in [[zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi|Hanji 747]], then continues through the 78 CE allied Shicheng operation in [[zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf|Hanji 749]], the 80 CE memorial strategy in [[zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt|Hanji 750]], and the later slander, Shule, Shache, Yuezhi, Qiuci, Yanqi, Gan Ying, succession, and retirement layers. Across the bounded corpus, he is less a simple battlefield hero than a long-horizon frontier operator whose authority depends on credibility, timing, local political manipulation, proxy use, and refusal to let formal exit or private anger govern public command.
 
 ## Current Profile
 
-Hanji 749 gives Ban Chao the earliest current action layer. In 78 CE, he leads allied forces from Shule, Kangju, Yutian, Jumi, and related Western Regions partners against Gumo's Shicheng. The force reportedly exceeds ten thousand people, captures Shicheng, and kills seven hundred, showing Ban Chao already using allied local manpower before the later memorial formalizes the low-cost proxy strategy.
+Hanji 747 supplies the earliest current layer. After the court abolishes Western Regions offices and recalls him, [[ShuleKingdom|Shule]] and [[KhotanKingdomLateHan|Khotan]] react as if his departure will collapse their security. Shule duwei Li kills himself, Khotan's ruler and officials plead with him to stay, and two Shule cities defect toward [[QiuciKingdom|Qiuci]] and Wutou. Ban Chao returns to Shule, kills the rebels, defeats Wutou, and restores stability. This makes his early profile a case of [[MissionDrivenFrontierResponsibility|mission-driven frontier responsibility]] before the later proxy-conquest strategy is formalized.
+
+Hanji 749 then gives Ban Chao the first allied-field layer. In 78 CE, he leads allied forces from Shule, Kangju, Yutian, Jumi, and related Western Regions partners against Gumo's Shicheng. The force reportedly exceeds ten thousand people, captures Shicheng, and kills seven hundred, showing Ban Chao already using allied local manpower before the later memorial formalizes the low-cost proxy strategy.
 
 Hanji 750 makes Ban Chao a strategist of low-cost frontier advance. After years in Shule with a small following, he argues that Han can complete the Western Regions program by restoring Qiuci hostage prince Ba Ba, drawing Western Regions states into the campaign, using Shache and Shule's fertile supply base, exploiting the weak local legitimacy of Qiuci-installed rulers in Gumo and Wensu, and coordinating with Wusun. [[EmperorZhangOfHan|Zhangdi]] accepts the plan enough to send [[XuGanEasternHan|Xu Gan]] with a limited force and contact Wusun, making Ban Chao's strategy a case of [[FrontierProxyConquestStrategy|frontier proxy conquest]] rather than central-army saturation.
 
@@ -36,16 +39,17 @@ The later Western Regions layers show how that credibility is used and how it ev
 
 ## Key Characteristics
 
-- Allied-force operator whose earliest current layer shows him taking Shicheng with Western Regions partners.
+- Recall-crisis commander whose Western Regions authority becomes visible when Shule and Khotan panic at his departure.
+- Allied-force operator who takes Shicheng with Western Regions partners.
 - Proxy-strategy planner who turns hostage kingship, local supplies, allied polities, and limited Han reinforcement into an operating model.
 - Accusation-resilient commander judged by the behavior of soldiers who still follow him despite homesickness.
 - Public-duty actor who sends Li Yi back rather than using command to satisfy private resentment.
-- Counter-deception operator who survives Shule's succession crisis through timing and motive judgment.
-- Supply-line strategist who defeats the Yuezhi threat by identifying dependence on Qiuci grain and severing it through Shache.
+- Counter-deception and supply-line strategist who survives Shule succession crisis and defeats the Yuezhi threat through timing and grain judgment.
 - Harsh punitive commander when escalation is chosen, especially in the Yanqi campaign.
 
 ## Evidence
 
+- Recall crisis and Shule return: [[zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi|Hanji 747]] says the court recalls Ban Chao and abolishes Western Regions offices, Shule and Khotan panic, two Shule cities defect, and Ban Chao returns to defeat the rebels and Wutou.
 - Early allied Shicheng operation: [[zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf|Hanji 749]] says Ban Chao leads Shule, Kangju, Yutian, Jumi, and other allied forces to capture Gumo's Shicheng and kill seven hundred.
 - Memorial strategy and limited support: [[zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt|Hanji 750]] has Ban Chao propose restoring Qiuci hostage prince Ba Ba, using local Western Regions states and supplies, and receiving Xu Gan's small support force after Zhangdi approves the plan.
 - Shule stabilization: [[zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt|Hanji 750]] says Xu Gan arrives before Ban Chao attacks Pan Chen's rebellion at Shule and kills more than one thousand rebels.
@@ -57,24 +61,27 @@ The later Western Regions layers show how that credibility is used and how it ev
 
 ## Qualifications
 
-The page preserves all prior source slugs while compressing prose; not every date, subordinate, hostage, or oasis polity from the source notes is promoted into a standalone claim. Hanji 749's Shicheng operation adds an earlier field layer, but Gumo, Jumi, and the exact allied composition remain source-scoped. Ban Chao's non-retaliation toward Li Yi does not prove personal forgiveness; the evidence supports a public-duty boundary, not emotional reconciliation. His later Yanqi conduct complicates any purely humane portrait.
+The page preserves all prior source slugs while compressing prose; not every date, subordinate, hostage, or oasis polity from the source notes is promoted into a standalone claim. Hanji 747 adds an earlier recall-crisis layer, but Shule duwei Li, Wutou, and the exact defecting Shule cities remain source-scoped. Ban Chao's return does not prove a general right to ignore recall orders; the evidence supports a bounded judgment under immediate allied collapse. Ban Chao's non-retaliation toward Li Yi does not prove personal forgiveness; the evidence supports a public-duty boundary, not emotional reconciliation. His later Yanqi conduct complicates any purely humane portrait.
 
 ## What Changed
 
-- Added Hanji 749 as the earliest current Ban Chao layer, centered on allied Western Regions forces and the Shicheng attack.
-- Reframed Hanji 750 as the later memorialization of a proxy approach already visible in field operations.
-- Kept Li Yi's slander, Zhangdi's troop-behavior evidence test, and Ban Chao's non-retaliation as the command-trust profile.
+- Added Hanji 747 as the earliest current Ban Chao layer, centered on recall, local panic, Shule defections, return, and stabilization.
+- Added mission-driven frontier responsibility as a narrower frame for the recall crisis before the later proxy strategy.
+- Kept Hanji 749's Shicheng operation and Hanji 750's memorial as successive allied-force and proxy-strategy layers.
+- Preserved Li Yi's slander, Zhangdi's troop-behavior evidence test, and Ban Chao's non-retaliation as the command-trust profile.
 - Connected later Shule, Qiuci, and Yanqi actions to an earlier low-cost local-force operating model.
 
 ## Relationships
 
-- [[FrontierProxyConquestStrategy]] - concept directly grounded in Ban Chao's Hanji 750 memorial and anticipated by Hanji 749 allied-force use.
+- [[MissionDrivenFrontierResponsibility|使命驱动的边疆责任]] - concept directly grounded in Ban Chao's recall crisis, local dependency evidence, and return to Shule.
+- [[FrontierProxyConquestStrategy]] - concept grounded in Ban Chao's Hanji 750 memorial and anticipated by Hanji 749 allied-force use.
 - [[XuGanEasternHan]] - volunteer officer sent to reinforce Ban Chao's Western Regions campaign.
 - [[LiYiEasternHan]] - slanders Ban Chao and becomes the test case for Ban Chao's non-retaliation.
 - [[BehavioralEvidenceLoyaltyJudgment]] - Zhangdi's defense of Ban Chao rests on soldier conduct as evidence of loyalty and command credibility.
 - [[PublicDutyOverPrivateGrievance]] - Ban Chao's decision to send Li Yi back turns private grievance into a duty-bound action.
 - [[EmperorZhangOfHan]] - trusts Ban Chao against slander and authorizes continued Western Regions command.
-- [[ShuleKingdom]] - central oasis theater where Ban Chao's counter-deception and succession strategy are repeatedly tested.
+- [[ShuleKingdom]] - central oasis theater where Ban Chao's recall crisis, return, counter-deception, and succession strategy are repeatedly tested.
+- [[KhotanKingdomLateHan]] - Western Regions polity whose plea in Hanji 747 reveals local dependence on Ban Chao's presence.
 - [[QiuciKingdom]] - rival Western Regions power whose grain, attacks, and hostage politics structure several Ban Chao episodes.
 - [[GanYingEasternHan]] - dispatched by Ban Chao to explore the route toward Da Qin/Rome.
 - [[RenShangLateHan]] - Ban Chao identifies Ren Shang as the only plausible successor but warns about his temperament.

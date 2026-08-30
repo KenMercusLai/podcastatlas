@@ -3451,6 +3451,10 @@
     "title": "爱博生物",
     "url": "/wiki/entities/aiboshengwu/"
   },
+  "AilaoKingLeilao": {
+    "title": "哀牢王类牢 / Ailao King Lei Lao",
+    "url": "/wiki/entities/ailaokingleilao/"
+  },
   "AimaTechnology": {
     "title": "Aima Technology / 爱玛",
     "url": "/wiki/entities/aimatechnology/"
@@ -34571,6 +34575,10 @@
     "title": "Mission Driven Customer Education",
     "url": "/wiki/concepts/missiondrivencustomereducation/"
   },
+  "MissionDrivenFrontierResponsibility": {
+    "title": "使命驱动的边疆责任 / Mission-Driven Frontier Responsibility",
+    "url": "/wiki/concepts/missiondrivenfrontierresponsibility/"
+  },
   "MissionDrivenGovernmentEngineering": {
     "title": "Mission-Driven Government Engineering",
     "url": "/wiki/concepts/missiondrivengovernmentengineering/"
@@ -58643,6 +58651,10 @@
     "title": "Zheng Chenggong / 郑成功",
     "url": "/wiki/entities/zhengchenggong/"
   },
+  "ZhengChunEasternHan": {
+    "title": "郑纯 / Zheng Chun (Eastern Han)",
+    "url": "/wiki/entities/zhengchuneasternhan/"
+  },
   "ZhengGuoCanal": {
     "title": "郑国渠 / Zhengguo Canal",
     "url": "/wiki/entities/zhengguocanal/"
@@ -63402,6 +63414,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi": {
+    "title": "《资治通鉴·汉纪》747丨班超告诉你：真正的聪明人都有使命感！",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi/"
   },
   "zizhi-tongjian-hanji-748-laozuzong-de-zhonggao-qinqi-bugongcai-gongcai-liangwulai-luqvnld4wbdgc3nrdumyhfhscs4z": {
     "title": "《资治通鉴·汉纪》748丨老祖宗的忠告： 亲戚不共财，共财两无来！",

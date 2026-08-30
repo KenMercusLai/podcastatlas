@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2086
+topic_total_pages: 2087
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3190,6 +3190,9 @@ topic_concepts:
   - key: "AppointmentQualityAsStateCapacity"
     title: "任官适任性国家能力 / Appointment Quality as State Capacity"
     url: "/wiki/concepts/appointmentqualityasstatecapacity/"
+  - key: "MissionDrivenFrontierResponsibility"
+    title: "使命驱动的边疆责任 / Mission-Driven Frontier Responsibility"
+    url: "/wiki/concepts/missiondrivenfrontierresponsibility/"
   - key: "DefensiveLocalGovernance"
     title: "保境安民式守成治理 / Defensive Local Governance"
     url: "/wiki/concepts/defensivelocalgovernance/"
