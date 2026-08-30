@@ -11,13 +11,16 @@ sources:
   - zizhi-tongjian-hanji-785-donghan-dengsui-zhangkong-yuwang-caineng-xiaodao-zuihou-llfg4kjaautqlfewhplikvu3ry1u
   - zizhi-tongjian-hanji-781-yushan-cai-shi-ren-dui-ji-zui-da-de-e-luvaw93hnnxcbgfnwgsjb7x0hlqz
   - zizhi-tongjian-hanji-778-lishi-jiemi-quanli-zhongxin-de-nvren-you-shenme-tedian-lhpn8auulbgpqehsk71hzssrgagp
+  - zizhi-tongjian-hanji-775-gan-xiang-mingyun-shuo-no-bukuishi-you-tounao-de-nvzhumu-lh0erdh890ooow6dn0wvf1fbzedf
 last_updated: 2026-08-30
 ---
 
 ## Overview
-The An-era Deng family is the outer-relative network attached to [[EmpressDowagerDengLateHan|Empress Dowager Deng]], visible before its fall through opening-regency appointment, anti-shielding discipline, coup exposure, mourning resignation, fengchaoqing retained access, military reward, household discipline, elite education, and internal warning. Its current profile runs from early use in Deng's first regency architecture through later Deng-family access, reward, warning, purge, public defense, and replacement by new favorite networks.
+The An-era Deng family is the outer-relative network attached to [[EmpressDowagerDengLateHan|Empress Dowager Deng]], now visible first through pre-regency restraint of natal-family palace access, tribute, and rewards, and then through opening-regency appointment, anti-shielding discipline, coup exposure, mourning resignation, fengchaoqing retained access, military reward, household discipline, elite education, and internal warning. Its current profile runs from Deng's early effort to prevent family-patronage criticism through later Deng-family access, reward, warning, purge, public defense, and replacement by new favorite networks.
 
 ## Current Profile
+Hanji 775 adds the pre-regency restraint baseline. When Emperor He lets Deng's mother and brothers enter the palace during Deng's illness, Deng refuses prolonged residence because natal-family access would expose both the ruler and herself to criticism. After she becomes empress, the source says she rejects personal tribute and blocks attempts to raise Deng-family titles or offices, keeping her brother's office below a high-command threshold in the source's telling. This makes Deng-family power visible before the regency as something Deng tries to limit before it becomes formal outer-relative government.
+
 The family is already politically visible before its purge. Hanji 778 shows Deng using kin, including [[DengZhiLateHan|Deng Zhi]], in the first regency leadership structure while ordering officials not to shield Deng relatives. Hanji 781 then shows Deng relatives as likely targets in Zhou Zhang's plan to kill the Deng brothers, remove the regent, and alter the succession. The same episode emphasizes Deng's strict discipline of her own kin and her attempt to educate elite and royal children, making the family both a source of administrative capacity and a legitimacy burden from the regency's opening.
 
 Hanji 785 shows Deng Zhi and other Deng brothers repeatedly requesting permission to leave office and mourn after the death of Empress Dowager Deng's mother. Ban Zhao advises acceptance because it publicly praises restraint and non-monopolization of power. Deng accepts the withdrawal but later gives the brothers fengchaoqing status, keeping them highly ranked and present at major court meetings. This creates the family's first developed access layer: outer relatives can stage withdrawal while preserving consultation.
@@ -33,7 +36,7 @@ The first purge wave is severe. Titles are abolished, offices are removed, prope
 The Deng family's fall also creates a comparative template for later An-era politics. Their removal is followed by the rise of Geng, Song, Yan, eunuch, wet-nurse, and favorite-household networks, making the purge less a restoration of public order than a change in who controls access.
 
 ## Key Characteristics
-- Outer-relative network attached to Empress Dowager Deng's regency, exposed first through opening appointment and anti-shielding discipline, then as coup targets, and later through mourning withdrawal that displays restraint while fengchaoqing preserves high-status court access.
+- Outer-relative network attached to Empress Dowager Deng, exposed first through pre-regency restraint of natal-family access, tribute, and reward, then through opening appointment and anti-shielding discipline, coup targeting, and mourning withdrawal that displays restraint while fengchaoqing preserves high-status court access.
 - Family whose military reward and household discipline show both privilege and reputation-management pressure.
 - Target of succession-replacement accusations centered on Pingyuan Wang Liu Yi.
 - Subject to title abolition, office removal, property confiscation, exile, forced death, and starvation in the first purge wave.
@@ -42,6 +45,7 @@ The Deng family's fall also creates a comparative template for later An-era poli
 - Structural foil for later favorite networks because anti-Deng cleanup quickly gives way to new kin and palace-intimate power.
 
 ## Evidence
+- Pre-regency restraint: [[zizhi-tongjian-hanji-775-gan-xiang-mingyun-shuo-no-bukuishi-you-tounao-de-nvzhumu-lh0erdh890ooow6dn0wvf1fbzedf|Hanji 775]] says Deng refuses prolonged palace residence for her mother and brothers, rejects personal tribute after becoming empress, and blocks Deng-family reward escalation.
 - Opening appointment and discipline: [[zizhi-tongjian-hanji-778-lishi-jiemi-quanli-zhongxin-de-nvren-you-shenme-tedian-lhpn8auulbgpqehsk71hzssrgagp|Hanji 778]] places Deng kin inside the initial regency leadership structure while recording Deng's order that officials not shield her relatives.
 - Early coup exposure and discipline: [[zizhi-tongjian-hanji-781-yushan-cai-shi-ren-dui-ji-zui-da-de-e-luvaw93hnnxcbgfnwgsjb7x0hlqz|Hanji 781]] presents Deng relatives as targets in Zhou Zhang's planned anti-regency coup while also stressing Empress Dowager Deng's strict discipline of her kin.
 - Mourning withdrawal and retained access: [[zizhi-tongjian-hanji-785-donghan-dengsui-zhangkong-yuwang-caineng-xiaodao-zuihou-llfg4kjaautqlfewhplikvu3ry1u|Hanji 785]] records Deng Zhi and other Deng brothers asking to leave office for mourning, Ban Zhao advising acceptance, and Empress Dowager Deng later preserving their access through fengchaoqing.
@@ -55,17 +59,18 @@ The Deng family's fall also creates a comparative template for later An-era poli
 - Replacement by new networks: [[zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1|Hanji 795]] contrasts Deng removal with immediate appointments and titles for Geng, Song, Yan, eunuch, and wet-nurse-connected actors.
 
 ## Qualifications
-The source set does not give a complete charge sheet or family genealogy. Its strongest current claim is procedural and structural: the purge may have had political causes, and the sources do not disprove every accusation, but the visible record does not justify the scale, opacity, or one-sidedness of punishment. Hanji 778 and Hanji 781 show why Deng relatives could become politically useful and dangerous at the same time without proving later anti-Deng accusations; Hanji 785's mourning withdrawal shows public restraint and retained access together; Deng Zun's reward and Deng Zhi's household punishment show privilege and discipline together; Deng Kang's warning and expulsion show internal differentiation, not full exoneration of the family.
+The source set does not give a complete charge sheet or family genealogy. Its strongest current claim is procedural and structural: the purge may have had political causes, and the sources do not disprove every accusation, but the visible record does not justify the scale, opacity, or one-sidedness of punishment. Hanji 775 shows a real pre-regency restraint effort, but it does not prove the family remained politically harmless once the regency relied on Deng kin. Hanji 778 and Hanji 781 show why Deng relatives could become politically useful and dangerous at the same time without proving later anti-Deng accusations; Hanji 785's mourning withdrawal shows public restraint and retained access together; Deng Zun's reward and Deng Zhi's household punishment show privilege and discipline together; Deng Kang's warning and expulsion show internal differentiation, not full exoneration of the family.
 
 ## What Changed
-- Added Hanji 778 as the earliest current layer for Deng-family opening appointment and anti-shielding discipline.
-- Preserved Hanji 781 as the coup-exposure and strict kin-discipline framing layer.
+- Added Hanji 775 as the pre-regency restraint baseline: limiting natal-family palace access, personal tribute, and family reward escalation.
+- Preserved Hanji 778 and Hanji 781 as the opening-regency utility, anti-shielding discipline, and coup-exposure layers.
 - Preserved Hanji 785 and Hanji 790 as the mourning-withdrawal, retained-access, reward, household-discipline, and education-politics layers.
 - Preserved Hanji 792-794 as the internal warning, risk-separation, first purge wave, and Pingyuan Wang Liu Yi accusation layers before Hanji 795's public defense.
-- Reframed the family profile around sequence: opening-regency utility and discipline, pre-purge visibility, internal warning, replacement slander, immediate liquidation, then partial correction.
+- Reframed the family profile around sequence: pre-regency restraint, regency utility and discipline, pre-purge visibility, internal warning, replacement slander, immediate liquidation, then partial correction.
 
 ## Relationships
 - [[EmpressDowagerDengLateHan]] - regency figure whose death exposes the family to liquidation.
+- [[EmpressYinHeLateHan|殷皇后]] - harem rival whose reported threat makes early Deng-family survival risk visible.
 - [[ZhouZhangLateHan]] - failed coup actor whose plan targets Deng relatives as part of removing the regency.
 - [[BanZhaoLateHan]] - adviser whose counsel helps convert Deng-family mourning resignation into a legitimacy signal.
 - [[DengZunLateHan]] - family military beneficiary whose Qiang-war reward adds to the pre-purge profile.

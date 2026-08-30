@@ -3314,9 +3314,9 @@
       "url": "/wiki/entities/banyonglatehan/"
     },
     "BanZhaoLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》785丨东汉邓绥：掌控欲望才能笑到最后 [llFg4KJAAUTQlFEWhpLikvU3Ry1U].md",
@@ -3324,6 +3324,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》785丨东汉邓绥：掌控欲望才能笑到最后",
           "url": "/wiki/sources/zizhi-tongjian-hanji-785-donghan-dengsui-zhangkong-yuwang-caineng-xiaodao-zuihou-llfg4kjaautqlfewhplikvu3ry1u/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》775丨敢向命运说NO，不愧是有头脑的女主母！ [lh0erDH890ooow6DN0WVf1fbZEDf].md",
+          "key": "zizhi-tongjian-hanji-775-gan-xiang-mingyun-shuo-no-bukuishi-you-tounao-de-nvzhumu-lh0erdh890ooow6dn0wvf1fbzedf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》775丨敢向命运说NO，不愧是有头脑的女主母！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-775-gan-xiang-mingyun-shuo-no-bukuishi-you-tounao-de-nvzhumu-lh0erdh890ooow6dn0wvf1fbzedf/"
         }
       ],
       "updated": "2026-08-30",
@@ -6694,9 +6701,9 @@
       "url": "/wiki/concepts/courtcorerectification/"
     },
     "CourtDemandDrivenPapermaking": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》776丨汉史探密：蔡伦是怎样发明“造纸术”的？ [ljqhhCywXr_YGgZMcgzbbTg-q-hB].md",
@@ -6704,6 +6711,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》776丨汉史探密：蔡伦是怎样发明“造纸术”的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》775丨敢向命运说NO，不愧是有头脑的女主母！ [lh0erDH890ooow6DN0WVf1fbZEDf].md",
+          "key": "zizhi-tongjian-hanji-775-gan-xiang-mingyun-shuo-no-bukuishi-you-tounao-de-nvzhumu-lh0erdh890ooow6dn0wvf1fbzedf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》775丨敢向命运说NO，不愧是有头脑的女主母！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-775-gan-xiang-mingyun-shuo-no-bukuishi-you-tounao-de-nvzhumu-lh0erdh890ooow6dn0wvf1fbzedf/"
         }
       ],
       "updated": "2026-08-30",
@@ -7737,9 +7751,9 @@
       "url": "/wiki/entities/democraticrepublicanparty/"
     },
     "DengFamilyAnEraLateHan": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》795丨邓家灭亡后，为何举朝为他们鸣冤？ [lqVmBQrrOOKphB4beCaQbP7h_Wi1].md",
@@ -7789,6 +7803,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》778丨历史揭秘：权力中心的女人有什么特点？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-778-lishi-jiemi-quanli-zhongxin-de-nvren-you-shenme-tedian-lhpn8auulbgpqehsk71hzssrgagp/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》775丨敢向命运说NO，不愧是有头脑的女主母！ [lh0erDH890ooow6DN0WVf1fbZEDf].md",
+          "key": "zizhi-tongjian-hanji-775-gan-xiang-mingyun-shuo-no-bukuishi-you-tounao-de-nvzhumu-lh0erdh890ooow6dn0wvf1fbzedf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》775丨敢向命运说NO，不愧是有头脑的女主母！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-775-gan-xiang-mingyun-shuo-no-bukuishi-you-tounao-de-nvzhumu-lh0erdh890ooow6dn0wvf1fbzedf/"
         }
       ],
       "updated": "2026-08-30",
@@ -9581,9 +9602,9 @@
       "url": "/wiki/entities/emperorchongofhan/"
     },
     "EmperorHeOfHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》777丨比肩武则天，碾压慈禧，这个女人了不得！ [lk7J4Qv_-SQfopzBii6rc_iVbuxS].md",
@@ -9598,6 +9619,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》776丨汉史探密：蔡伦是怎样发明“造纸术”的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》775丨敢向命运说NO，不愧是有头脑的女主母！ [lh0erDH890ooow6DN0WVf1fbZEDf].md",
+          "key": "zizhi-tongjian-hanji-775-gan-xiang-mingyun-shuo-no-bukuishi-you-tounao-de-nvzhumu-lh0erdh890ooow6dn0wvf1fbzedf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》775丨敢向命运说NO，不愧是有头脑的女主母！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-775-gan-xiang-mingyun-shuo-no-bukuishi-you-tounao-de-nvzhumu-lh0erdh890ooow6dn0wvf1fbzedf/"
         }
       ],
       "updated": "2026-08-30",
@@ -10076,9 +10104,9 @@
       "url": "/wiki/entities/empressdenghuanlatehan/"
     },
     "EmpressDowagerDengLateHan": {
-      "episode_count": 18,
+      "episode_count": 19,
       "show_count": 1,
-      "source_note_count": 18,
+      "source_note_count": 19,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》795丨邓家灭亡后，为何举朝为他们鸣冤？ [lqVmBQrrOOKphB4beCaQbP7h_Wi1].md",
@@ -10205,6 +10233,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》776丨汉史探密：蔡伦是怎样发明“造纸术”的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》775丨敢向命运说NO，不愧是有头脑的女主母！ [lh0erDH890ooow6DN0WVf1fbZEDf].md",
+          "key": "zizhi-tongjian-hanji-775-gan-xiang-mingyun-shuo-no-bukuishi-you-tounao-de-nvzhumu-lh0erdh890ooow6dn0wvf1fbzedf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》775丨敢向命运说NO，不愧是有头脑的女主母！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-775-gan-xiang-mingyun-shuo-no-bukuishi-you-tounao-de-nvzhumu-lh0erdh890ooow6dn0wvf1fbzedf/"
         }
       ],
       "updated": "2026-08-30",
@@ -10466,6 +10501,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/empresssisi/"
+    },
+    "EmpressYinHeLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》775丨敢向命运说NO，不愧是有头脑的女主母！ [lh0erDH890ooow6DN0WVf1fbZEDf].md",
+          "key": "zizhi-tongjian-hanji-775-gan-xiang-mingyun-shuo-no-bukuishi-you-tounao-de-nvzhumu-lh0erdh890ooow6dn0wvf1fbzedf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》775丨敢向命运说NO，不愧是有头脑的女主母！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-775-gan-xiang-mingyun-shuo-no-bukuishi-you-tounao-de-nvzhumu-lh0erdh890ooow6dn0wvf1fbzedf/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/empressyinhelatehan/"
     },
     "EmptyReputationRealityGap": {
       "episode_count": 1,
@@ -11334,6 +11385,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/feifeili/"
     },
+    "FemaleCourtEducationEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》775丨敢向命运说NO，不愧是有头脑的女主母！ [lh0erDH890ooow6DN0WVf1fbZEDf].md",
+          "key": "zizhi-tongjian-hanji-775-gan-xiang-mingyun-shuo-no-bukuishi-you-tounao-de-nvzhumu-lh0erdh890ooow6dn0wvf1fbzedf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》775丨敢向命运说NO，不愧是有头脑的女主母！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-775-gan-xiang-mingyun-shuo-no-bukuishi-you-tounao-de-nvzhumu-lh0erdh890ooow6dn0wvf1fbzedf/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/femalecourteducationeasternhan/"
+    },
     "FemaleHormoneHealthPhenotyping": {
       "episode_count": 1,
       "show_count": 1,
@@ -11351,9 +11418,9 @@
       "url": "/wiki/concepts/femalehormonehealthphenotyping/"
     },
     "FemalePowerCenterPoliticalCapacity": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》778丨历史揭秘：权力中心的女人有什么特点？ [lhPn8AUULbgPqeHsk71hZsSrgAGP].md",
@@ -11368,6 +11435,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》777丨比肩武则天，碾压慈禧，这个女人了不得！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-777-bi-jian-wuzetian-nianya-cixi-zhege-nvren-liaobude-lk7j4qv-sqfopzbii6rc-ivbuxs/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》775丨敢向命运说NO，不愧是有头脑的女主母！ [lh0erDH890ooow6DN0WVf1fbZEDf].md",
+          "key": "zizhi-tongjian-hanji-775-gan-xiang-mingyun-shuo-no-bukuishi-you-tounao-de-nvzhumu-lh0erdh890ooow6dn0wvf1fbzedf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》775丨敢向命运说NO，不愧是有头脑的女主母！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-775-gan-xiang-mingyun-shuo-no-bukuishi-you-tounao-de-nvzhumu-lh0erdh890ooow6dn0wvf1fbzedf/"
         }
       ],
       "updated": "2026-08-30",

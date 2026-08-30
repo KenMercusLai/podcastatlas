@@ -387,6 +387,7 @@
       "c6c6df1754e9d754248222dcf13f82295a54a848651f4fcbadd3aa7ff62601b0",
       "0b9a6088836697345dfb5f2798ef943ff4ff564bee061dc51b566adb0d3969f1",
       "c2e3fe8ce9ce3d5050fba2e6b136e324afb1e7e1cb2cd3ced9c1e988436fe78d",
+      "9634699c9eae63881c95a86ed5a97c2f5b6f4d4b860d8866b317c35cebb9e70b",
       "c579b0c3102e48af519244d183c5c41e037740a37bf519bf5b0f4bf5ef849207",
       "56abb716e5b03c8a306adb1a6c6075e7f241a8cf33161741fecbd9f5b886bbb0",
       "c94dbb4bb11fbc67a68689063a003f4343a0087a9f4a369adf5930530cf3dce6",
@@ -398,10 +399,10 @@
       "4aec524162783153bd9de6fc8aaf28b4b45a60c3433caa62e6442f020af99d44",
       "5463cac3a05898616fdcdbe4bbf0fffe113a112bf4093056579dfb7f48e3eca2"
     ],
-    "paragraph_count": 396
+    "paragraph_count": 397
   },
-  "overview_commit": "3c7645a7eaa506f977a849f0906002385989683a",
-  "overview_digest": "91b858af356475681bc1df6423a7bb8f36d50cbee77fbabf84d5c083479c22b8",
+  "overview_commit": "7306d224256304566fe8f82575a3ae2e76541b83",
+  "overview_digest": "4326585483e9dcd9a5ebdedb01df415ec47959cafc2e98da3c7069c95ad780fe",
   "paragraphs": [
     {
       "id": "76439d5a84c3e146cc75ca3dd110deeb51c4dcd3e2e69896481f9ba03f15b1a2",
@@ -11945,6 +11946,34 @@
         "YuanShang",
         "YuanTan",
         "zizhi-tongjian-hanji-1060-hai-si-yuanshao-hou-caocao-weihe-zhuantou-zhiyuan-tade-changzi-lldkbbzf8dmy21otbtqihc-oafx7"
+      ]
+    },
+    {
+      "id": "9634699c9eae63881c95a86ed5a97c2f5b6f4d4b860d8866b317c35cebb9e70b",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [
+        "governance-and-institutions",
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-775-gan-xiang-mingyun-shuo-no-bukuishi-you-tounao-de-nvzhumu-lh0erdh890ooow6dn0wvf1fbzedf|《资治通鉴·汉纪》775丨敢向命运说NO，不愧是有头脑的女主母！]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling [[EmpressDowagerDengLateHan|和熹邓皇后]]'s pre-regency formation before [[zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb|Hanji 776]] and [[zizhi-tongjian-hanji-777-bi-jian-wuzetian-nianya-cixi-zhege-nvren-liaobude-lk7j4qv-sqfopzbii6rc-ivbuxs|Hanji 777]]. It adds [[EmpressYinHeLateHan|殷皇后]] and [[FemaleCourtEducationEasternHan|东汉宫廷女性教育]], while extending [[EmperorHeOfHan|汉和帝]], [[BanZhaoLateHan|班昭]], [[DengFamilyAnEraLateHan|邓氏]], [[FemalePowerCenterPoliticalCapacity|权力中心女性政治能力]], and [[CourtDemandDrivenPapermaking|宫廷需求驱动造纸]]. Its core synthesis is that Deng's later regency capacity begins before formal power: childhood learning, harem deference, avoidance of Empress Yin rivalry, refusal of natal-family palace access, and rejection of tribute or family reward escalation give her legitimacy resources before the 106 CE accession crisis. No settled contradiction is recorded; 邓遂 is normalized to 邓绥, 班照 to 班昭, Zhao Yu the palace maid and the brother-office line remain source-scoped, and the \"world first women's school\" claim is not treated as independent comparative history.",
+      "topic_scores": {
+        "governance-and-institutions": 3,
+        "history-and-geopolitics": 2,
+        "work-education-and-society": 4
+      },
+      "wikilinks": [
+        "BanZhaoLateHan",
+        "CourtDemandDrivenPapermaking",
+        "DengFamilyAnEraLateHan",
+        "EmperorHeOfHan",
+        "EmpressDowagerDengLateHan",
+        "EmpressYinHeLateHan",
+        "FemaleCourtEducationEasternHan",
+        "FemalePowerCenterPoliticalCapacity",
+        "RuiqiJiangtouZizhiTongjian",
+        "zizhi-tongjian-hanji-775-gan-xiang-mingyun-shuo-no-bukuishi-you-tounao-de-nvzhumu-lh0erdh890ooow6dn0wvf1fbzedf",
+        "zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb",
+        "zizhi-tongjian-hanji-777-bi-jian-wuzetian-nianya-cixi-zhege-nvren-liaobude-lk7j4qv-sqfopzbii6rc-ivbuxs"
       ]
     },
     {

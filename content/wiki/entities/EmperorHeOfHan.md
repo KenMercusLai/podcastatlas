@@ -6,14 +6,17 @@ tags: [person, emperor, eastern-han, succession]
 sources:
   - zizhi-tongjian-hanji-777-bi-jian-wuzetian-nianya-cixi-zhege-nvren-liaobude-lk7j4qv-sqfopzbii6rc-ivbuxs
   - zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb
+  - zizhi-tongjian-hanji-775-gan-xiang-mingyun-shuo-no-bukuishi-you-tounao-de-nvzhumu-lh0erdh890ooow6dn0wvf1fbzedf
 last_updated: 2026-08-30
 ---
 
 ## Overview
 
-汉和帝 / Emperor He of Han now appears as more than the deceased ruler whose death creates [[EmpressDowagerDengLateHan|和熹邓皇后]]'s accession crisis. [[zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb|Hanji 776]] gives him an active late-reign profile through court-backed papermaking, Taixue examination reform, eclipse and tour decisions, tribute restraint, Northern Xiongnu diplomacy, and Goguryeo frontier response, while Hanji 777 still makes his death the threshold for Deng's regency.
+汉和帝 / Emperor He of Han now appears as more than the deceased ruler whose death creates [[EmpressDowagerDengLateHan|和熹邓皇后]]'s accession crisis. [[zizhi-tongjian-hanji-775-gan-xiang-mingyun-shuo-no-bukuishi-you-tounao-de-nvzhumu-lh0erdh890ooow6dn0wvf1fbzedf|Hanji 775]] adds his harem and women-education layer through [[EmpressYinHeLateHan|Empress Yin]]'s deposition, Deng Sui's appointment, and North Palace women's study; Hanji 776 gives him an active late-reign profile through court-backed papermaking, Taixue examination reform, eclipse and tour decisions, tribute restraint, Northern Xiongnu diplomacy, and Goguryeo frontier response; and Hanji 777 still makes his death the threshold for Deng's regency.
 
 ## Current Profile
+
+Hanji 775 adds the harem-politics and women-education layer. Emperor He permits Deng's mother and brothers to enter the palace when Deng is ill, but Deng refuses prolonged residence because it would expose both ruler and consort to criticism. After Emperor He's illness and recovery, the source says [[EmpressYinHeLateHan|Empress Yin]]'s threat against the Deng family becomes known and He deposes her, making Deng empress. The same source credits his court with North Palace women's study and [[BanZhaoLateHan|Ban Zhao]]'s teaching, giving the reign a court-sponsored female education branch.
 
 Hanji 776 presents Emperor He's court between 102 and 105 CE. He praises [[CaiLunLateHan|Cai Lun]]'s paper after it is developed in the palace workshop environment, accepts [[XuFangLateHan|Xu Fang]]'s attempt to standardize [[Taixue|Taixue]] examinations, and treats a 103 CE eclipse as his own responsibility rather than a reason to send royal brothers away from the capital. The same source shows him accepting remonstrance twice: he turns back from a planned southern extension toward Jiangling after ministers warn of danger, and he stops the imperial kitchen from receiving fresh Lingnan fruit after [[TangQiangLateHan|Tang Qiang]] exposes the transport deaths behind the tribute.
 
@@ -23,14 +26,16 @@ Hanji 777 records Emperor He's death in Zhangde qian dian and then looks backwar
 
 ## Key Characteristics
 
-- Eastern Han ruler whose late reign is shown through technology patronage, education reform, court travel, tribute restraint, diplomacy, and frontier response.
+- Eastern Han ruler whose reign is shown through harem succession, female court education, technology patronage, education reform, court travel, tribute restraint, diplomacy, and frontier response.
 - Ruler who accepts useful remonstrance in the current sources, especially over the southern tour and lethal fresh-fruit tribute.
 - Court validator of Cai Lun's paper-making improvement and Xu Fang's Taixue examination reform.
+- Ruler whose decision to depose Empress Yin and appoint Deng Sui gives Deng's later regency a pre-accession household layer.
 - Source of an opaque succession field because multiple sons had died young and later-born princes were secretly fostered outside the palace.
 - Posthumous predecessor whose death opens Deng's regency and [[EmperorShangOfHan|Emperor Shang]]'s infant accession.
 
 ## Evidence
 
+- Harem and women-education layer: [[zizhi-tongjian-hanji-775-gan-xiang-mingyun-shuo-no-bukuishi-you-tounao-de-nvzhumu-lh0erdh890ooow6dn0wvf1fbzedf|Hanji 775]] says Emperor He's court permits Deng-family visits during Deng's illness, later deposes Empress Yin, appoints Deng as empress, and supports North Palace women's study with Ban Zhao teaching.
 - Papermaking and education reform: [[zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb|Hanji 776]] says Emperor He praises Cai Lun's paper and accepts Xu Fang's Taixue examination reform.
 - Remonstrance and restraint: [[zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb|Hanji 776]] shows He taking eclipse responsibility himself, turning back after ministers warn against extending the southern tour, and ending acceptance of fresh Lingnan fruit tribute after Tang Qiang's memorial.
 - Frontier and diplomacy: [[zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb|Hanji 776]] records his limited response to Northern Xiongnu requests and the 105 CE Geng Kui counterattack after Goguryeo raiding.
@@ -40,23 +45,26 @@ Hanji 777 records Emperor He's death in Zhangde qian dian and then looks backwar
 
 ## Qualifications
 
-This page remains source-bounded and is still not a full reign biography. Hanji 776 supplies selected 102-105 CE court and frontier notices, while Hanji 777 supplies the death-and-succession bridge. The Northern Xiongnu, Goguryeo, prince-retention, and office-change details are not enough by themselves to reconstruct Emperor He's entire court.
+This page remains source-bounded and is still not a full reign biography. Hanji 775 supplies harem succession and female court education as the current pre-102 layer; Hanji 776 supplies selected 102-105 CE court and frontier notices; and Hanji 777 supplies the death-and-succession bridge. The Empress Yin deposition, Northern Xiongnu, Goguryeo, prince-retention, and office-change details are not enough by themselves to reconstruct Emperor He's entire court.
 
 ## What Changed
 
-- Added Hanji 776 as the active late-reign layer before the Hanji 777 death-and-succession bridge.
-- Expanded the profile from a purely structural predecessor into a ruler shown accepting reform, remonstrance, and tribute restraint.
-- Preserved the succession-opacity qualification around secretly fostered princes and infant accession.
+- Added Hanji 775 as the harem and female-court-education layer before the 102-105 CE material.
+- Preserved Hanji 776 as the active late-reign layer of reform, remonstrance, papermaking, and tribute restraint.
+- Preserved Hanji 777 as the death-and-succession bridge with secretly fostered princes and infant accession.
 
 ## Relationships
 
 - [[EmpressDowagerDengLateHan|和熹邓皇后]] - widow/regent who manages the accession after Emperor He's death.
+- [[EmpressYinHeLateHan|殷皇后]] - deposed empress whose fall precedes Deng's appointment.
+- [[BanZhaoLateHan|班昭]] - court teacher connected to the reign's female-education branch.
 - [[CaiLunLateHan|蔡伦]] - palace official whose paper-making result Emperor He praises.
 - [[XuFangLateHan|徐防]] - senior official whose Taixue examination reform Emperor He accepts.
 - [[TangQiangLateHan|唐羌]] - local official whose tribute-burden memorial changes Emperor He's receiving policy.
 - [[GengKuiLateHan|耿夔]] - Liaodong administrator whose Goguryeo counterattack occurs in Emperor He's late reign.
 - [[EmperorShangOfHan|汉殇帝]] - infant Liu Long, installed after Emperor He's death.
 - [[Taixue|太学]] - institution whose testing reform belongs to Emperor He's active reign layer.
+- [[FemaleCourtEducationEasternHan|东汉宫廷女性教育]] - parallel inner-court education branch attributed to Emperor He's court in Hanji 775.
 - [[PerishableTributeLaborBurden|鲜贡劳役负担]] - consumption-restraint pattern visible in the fruit-tribute order.
 - [[RegencyUnderCompoundCrisis|复合危机下的摄政]] - concept extended by the opaque succession conditions after Emperor He's death.
 - [[PalaceAccusationVerification|宫廷指控核验]] - palace-case pattern arising during the early post-He mourning and regency environment.

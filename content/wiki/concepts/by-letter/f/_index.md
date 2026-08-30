@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 5981
+wiki_total_pages: 5982
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1016,6 +1016,9 @@ wiki_pages:
   - key: "FuturesRollCost"
     title: "Futures Roll Cost / 期货展期损耗"
     url: "/wiki/concepts/futuresrollcost/"
+  - key: "FemaleCourtEducationEasternHan"
+    title: "东汉宫廷女性教育 / Eastern Han Female Court Education"
+    url: "/wiki/concepts/femalecourteducationeasternhan/"
   - key: "FuneraryPrivilegeAbuse"
     title: "丧葬名分僭越 / Funerary Privilege Abuse"
     url: "/wiki/concepts/funeraryprivilegeabuse/"

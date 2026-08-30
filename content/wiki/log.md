@@ -13801,3 +13801,11 @@ Ingested the 2026-08-29 芮淇讲透资治通鉴 episode on Xin Pi persuading Ca
 ## [2026-08-30] lint | Wiki health check
 
 Ran health, identity validation, and lint. Health scanned 16,091 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-28 with 15,429 nodes and 180,855 edges while the current lint scan covered 16,091 pages, so bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest`; bounded in-session spot-check found no direct contradictions or stale summaries in the sampled pages, with legacy depth drift noted for `ExportPorcelainCustomization` and `FinancialPowerAndStateCapacity`. Report returned in-session; `wiki/lint-report.md` was not updated.
+
+## [2026-08-30] ingest | 《资治通鉴·汉纪》775丨敢向命运说NO，不愧是有头脑的女主母！
+
+Ingested the 2026-07-03 芮淇讲透资治通鉴 episode on Deng Sui's pre-regency formation through childhood learning, harem self-restraint, Empress Yin's threat, refusal of natal-family palace access and reward escalation, women-centered court education with Ban Zhao, and the writing-material prelude to Cai Lun's papermaking story. Created the source note plus `EmpressYinHeLateHan` and `FemaleCourtEducationEasternHan`; updated `EmpressDowagerDengLateHan`, `EmperorHeOfHan`, `BanZhaoLateHan`, `DengFamilyAnEraLateHan`, `FemalePowerCenterPoliticalCapacity`, `CourtDemandDrivenPapermaking`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; 邓遂 is normalized to 邓绥, 班照 to 班昭, palace maid Zhao Yu remains distinct from existing `ZhaoYuLateHan`, the brother-office detail rendered as 邓治 remains source-scoped, and the "world first women's school" claim is not treated as independent comparative education history.
+
+## [2026-08-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
