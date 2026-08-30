@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 6073
+wiki_total_pages: 6074
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1238,6 +1238,9 @@ wiki_pages:
   - key: "StealingTigerTalliesToRescueZhao"
     title: "Stealing Tiger Tallies to Rescue Zhao / 窃符救赵"
     url: "/wiki/concepts/stealingtigertalliestorescuezhao/"
+  - key: "SteppePastoralResourcePressure"
+    title: "Steppe Pastoral Resource Pressure / 草原游牧资源压力"
+    url: "/wiki/concepts/steppepastoralresourcepressure/"
   - key: "SteppingStoneExploration"
     title: "Stepping-Stone Exploration"
     url: "/wiki/concepts/steppingstoneexploration/"

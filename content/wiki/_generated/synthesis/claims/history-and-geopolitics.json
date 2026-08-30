@@ -2,6 +2,31 @@
   "claims": [
     {
       "global_candidate": false,
+      "id": "late-han-741-xiongnu-resource-pressure-and-mingdi-frontier-return",
+      "qualifications": [
+        "This is a chronological backfill before Hanji 742 and Hanji 743, not a replacement for the later Ban Chao, Cheshi, Geng Gong, Zhangdi, Dou Xian, or Northern Xiongnu collapse layers.",
+        "Hanji 741 frames Xiongnu raiding through ecological and subsistence pressure without turning that pressure into environmental determinism or moral exoneration.",
+        "Route commanders, force counts, Huyan king identity, exact route gates, commandery-name details, and transcript variants such as 耿炳 / 耿秉 remain source-scoped."
+      ],
+      "statement": "[[zizhi-tongjian-hanji-741-weishenme-gudai-xiongnu-zongyao-ruqin-zhongyuan-lllpgozgi6yd5pscw8z5ofidk5rp|Hanji 741]] moves the late-Han historical branch back to 72-73 CE before [[zizhi-tongjian-hanji-742-banchao-chushi-xiyu-37-ren-da-sha-si-fang-ltutsinxtciar0tmpxkge0mnsnp1|Hanji 742]]: [[SteppePastoralResourcePressure]] explains recurrent [[Xiongnu]] raids through low rainfall, pasture and water movement, overgrazing risk, winter need, and agrarian stores; [[EmperorMingOfHan]] turns renewed [[NorthernXiongnuLateHan]] pressure into a border-credibility problem; [[GengBingEasternHan]] argues for Western Regions recovery; [[DouGuEasternHan]]'s route reaches Tianshan, attacks the Huyan king, and takes [[YiwuGarrisonLateHan]]; and [[ZhaiRongEasternHan]]'s failed route turns command failure into punishment and posthumous reputation.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-741-weishenme-gudai-xiongnu-zongyao-ruqin-zhongyuan-lllpgozgi6yd5pscw8z5ofidk5rp",
+        "zizhi-tongjian-hanji-742-banchao-chushi-xiyu-37-ren-da-sha-si-fang-ltutsinxtciar0tmpxkge0mnsnp1",
+        "SteppePastoralResourcePressure",
+        "Xiongnu",
+        "NomadicCavalryRaidingAsymmetry",
+        "EmperorMingOfHan",
+        "NorthernXiongnuLateHan",
+        "GengBingEasternHan",
+        "DouGuEasternHan",
+        "YiwuGarrisonLateHan",
+        "ZhaiRongEasternHan",
+        "SouthernXiongnu"
+      ]
+    },
+    {
+      "global_candidate": false,
       "id": "late-han-744-geng-gong-mingdi-accession-backfill",
       "qualifications": [
         "This is a chronological backfill before Hanji 745, not a replacement for the later starvation, surrender-refusal, rescue, and recognition sequence.",
@@ -3283,8 +3308,8 @@
       ]
     }
   ],
-  "input_digest": "5a2474cd68b2f87747228544a99a4ea1f7996b4fb20a6ee4877c1375ad566bd0",
-  "summary": "Hanji 744 now pushes the Eastern Han historical branch one step earlier than Hanji 745: Geng Gong's Jinpu and Shule-fortress survival tactics, Mingdi's death and frugal burial instructions, Zhangdi's accession, Liu Cang's anti-tomb-town remonstrance, and Fifth Lun's Sikong appointment make frontier survival and succession restraint part of the same 75 CE transition. Hanji 748 now pushes the Eastern Han historical branch back to 76 CE before Hanji 749: Empress Ma turns Zhangdi’s Ma-family reward impulse into a prevention problem around outer-relative precedent, maternal recognition, frugal court example, household discipline, and legal boundaries.",
+  "input_digest": "40c1e7cc4596a91487dcab34f53b60ee7f751f88090d674133df15696c106732",
+  "summary": "Hanji 741 now pushes the Eastern Han historical branch back to 72-73 CE: steppe pastoral resource pressure explains why Xiongnu raids recur, while Mingdi converts Northern Xiongnu pressure into a border-credibility and Western Regions recovery problem through Geng Bing's advice, Dou Gu's Yiwu success, and Zhai Rong's failed-route reputation case. Hanji 744 and Hanji 748 then continue the early Eastern Han backfill through Geng Gong's 75 CE survival layer, Mingdi's frugal death instructions, Zhangdi's accession, Liu Cang's anti-tomb-town remonstrance, and Empress Ma's preventive restraint of Ma-family reward.",
   "title": "History and Geopolitics",
   "topic_id": "history-and-geopolitics"
 }

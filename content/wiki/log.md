@@ -14158,3 +14158,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-31] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-31] ingest | 《资治通鉴·汉纪》741丨为什么古代匈奴总要入侵中原？
+
+Ingested the 2026-06-26 芮淇讲透资治通鉴 episode on Xiongnu raids as steppe pastoral resource pressure, Emperor Ming's return to active Northern Xiongnu policy, Geng Bing's Western Regions strategy, the 73 CE four-route campaign, Dou Gu's Tianshan/Yiwu success, and Zhai Rong's failed route, punishment, deathbed instruction, and posthumous frontier reputation. Created the source note plus `ZhaiRongEasternHan` and `SteppePastoralResourcePressure`; updated `Xiongnu`, `NorthernXiongnuLateHan`, `EmperorMingOfHan`, `GengBingEasternHan`, `DouGuEasternHan`, `YiwuGarrisonLateHan`, `NomadicCavalryRaidingAsymmetry`, `index`, `overview`, and downstream synthesis inputs. No settled contradiction found; 耿炳 is normalized to 耿秉, while Qin Peng, Geng Zhong, Wu Tang, Lai Miao, Wen Mu, Left Worthy King Xin, force counts, route gates, and commandery-name details remain source-scoped.
+
+## [2026-08-31] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

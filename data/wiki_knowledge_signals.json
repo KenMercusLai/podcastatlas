@@ -9716,9 +9716,9 @@
       "url": "/wiki/entities/doudueasternhan/"
     },
     "DouGuEasternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》743丨戳人心窝的历史瞬间：明帝刘庄的温情梦 [lgWTUqTUg5Bh90qoHwiskccX77hY].md",
@@ -9726,6 +9726,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》743丨戳人心窝的历史瞬间：明帝刘庄的温情梦",
           "url": "/wiki/sources/zizhi-tongjian-hanji-743-chuo-ren-xinwo-de-lishi-shunjian-mingdi-liuzhuang-de-wenqing-meng-lgwtuqtug5bh90qohwiskccx77hy/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》741丨为什么古代匈奴总要入侵中原？ [lllpGoZGI6Yd5pScw8z5oFiDK5rP].md",
+          "key": "zizhi-tongjian-hanji-741-weishenme-gudai-xiongnu-zongyao-ruqin-zhongyuan-lllpgozgi6yd5pscw8z5ofidk5rp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》741丨为什么古代匈奴总要入侵中原？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-741-weishenme-gudai-xiongnu-zongyao-ruqin-zhongyuan-lllpgozgi6yd5pscw8z5ofidk5rp/"
         }
       ],
       "updated": "2026-08-31",
@@ -11334,9 +11341,9 @@
       "url": "/wiki/entities/emperorhuanofhan/"
     },
     "EmperorMingOfHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》899丨好清斗贪官 [ljHIC1PlzmV8k6LU73J5tErihanx].md",
@@ -11358,6 +11365,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》743丨戳人心窝的历史瞬间：明帝刘庄的温情梦",
           "url": "/wiki/sources/zizhi-tongjian-hanji-743-chuo-ren-xinwo-de-lishi-shunjian-mingdi-liuzhuang-de-wenqing-meng-lgwtuqtug5bh90qohwiskccx77hy/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》741丨为什么古代匈奴总要入侵中原？ [lllpGoZGI6Yd5pScw8z5oFiDK5rP].md",
+          "key": "zizhi-tongjian-hanji-741-weishenme-gudai-xiongnu-zongyao-ruqin-zhongyuan-lllpgozgi6yd5pscw8z5ofidk5rp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》741丨为什么古代匈奴总要入侵中原？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-741-weishenme-gudai-xiongnu-zongyao-ruqin-zhongyuan-lllpgozgi6yd5pscw8z5ofidk5rp/"
         }
       ],
       "updated": "2026-08-31",
@@ -15016,9 +15030,9 @@
       "url": "/wiki/entities/gengbaolatehan/"
     },
     "GengBingEasternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》759丨人性各种欲望，最可怕的是权力欲 [lhUJid-1aSI0U96JJVstnj76bt4J].md",
@@ -15047,6 +15061,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》743丨戳人心窝的历史瞬间：明帝刘庄的温情梦",
           "url": "/wiki/sources/zizhi-tongjian-hanji-743-chuo-ren-xinwo-de-lishi-shunjian-mingdi-liuzhuang-de-wenqing-meng-lgwtuqtug5bh90qohwiskccx77hy/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》741丨为什么古代匈奴总要入侵中原？ [lllpGoZGI6Yd5pScw8z5oFiDK5rP].md",
+          "key": "zizhi-tongjian-hanji-741-weishenme-gudai-xiongnu-zongyao-ruqin-zhongyuan-lllpgozgi6yd5pscw8z5ofidk5rp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》741丨为什么古代匈奴总要入侵中原？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-741-weishenme-gudai-xiongnu-zongyao-ruqin-zhongyuan-lllpgozgi6yd5pscw8z5ofidk5rp/"
         }
       ],
       "updated": "2026-08-31",
@@ -27601,9 +27622,9 @@
       "url": "/wiki/concepts/nopositionencoding/"
     },
     "NomadicCavalryRaidingAsymmetry": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》179｜历史上“和亲”怎么来的 [lsLks-OVBoMneORnk4J-q6-ns0X1].md",
@@ -27639,9 +27660,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》841丨绝不手软！揭秘战争的残酷真相",
           "url": "/wiki/sources/zizhi-tongjian-hanji-841-juebu-shouruan-jiemi-zhanzheng-de-canku-zhenxiang-losza81gissyijywwe0vxadw5ia0/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》741丨为什么古代匈奴总要入侵中原？ [lllpGoZGI6Yd5pScw8z5oFiDK5rP].md",
+          "key": "zizhi-tongjian-hanji-741-weishenme-gudai-xiongnu-zongyao-ruqin-zhongyuan-lllpgozgi6yd5pscw8z5ofidk5rp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》741丨为什么古代匈奴总要入侵中原？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-741-weishenme-gudai-xiongnu-zongyao-ruqin-zhongyuan-lllpgozgi6yd5pscw8z5ofidk5rp/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-31",
       "url": "/wiki/concepts/nomadiccavalryraidingasymmetry/"
     },
     "NonAlgorithmicCapabilities": {
@@ -27849,9 +27877,9 @@
       "url": "/wiki/entities/northernrising/"
     },
     "NorthernXiongnuLateHan": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》767丨聪明人，都擅长“演戏” [lq3ol7Y-JDh7dnNFKmtFDG4ibRyq].md",
@@ -27915,6 +27943,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》742丨班超出使西域，37人大杀四方！！！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-742-banchao-chushi-xiyu-37-ren-da-sha-si-fang-ltutsinxtciar0tmpxkge0mnsnp1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》741丨为什么古代匈奴总要入侵中原？ [lllpGoZGI6Yd5pScw8z5oFiDK5rP].md",
+          "key": "zizhi-tongjian-hanji-741-weishenme-gudai-xiongnu-zongyao-ruqin-zhongyuan-lllpgozgi6yd5pscw8z5ofidk5rp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》741丨为什么古代匈奴总要入侵中原？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-741-weishenme-gudai-xiongnu-zongyao-ruqin-zhongyuan-lllpgozgi6yd5pscw8z5ofidk5rp/"
         }
       ],
       "updated": "2026-08-31",
@@ -35224,6 +35259,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/statemonopolyburdenremonstrance/"
     },
+    "SteppePastoralResourcePressure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》741丨为什么古代匈奴总要入侵中原？ [lllpGoZGI6Yd5pScw8z5oFiDK5rP].md",
+          "key": "zizhi-tongjian-hanji-741-weishenme-gudai-xiongnu-zongyao-ruqin-zhongyuan-lllpgozgi6yd5pscw8z5ofidk5rp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》741丨为什么古代匈奴总要入侵中原？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-741-weishenme-gudai-xiongnu-zongyao-ruqin-zhongyuan-lllpgozgi6yd5pscw8z5ofidk5rp/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/steppepastoralresourcepressure/"
+    },
     "SteveYoungMelanomaPatient": {
       "episode_count": 1,
       "show_count": 1,
@@ -41345,9 +41396,9 @@
       "url": "/wiki/entities/xinyelatehan/"
     },
     "Xiongnu": {
-      "episode_count": 15,
+      "episode_count": 16,
       "show_count": 1,
-      "source_note_count": 15,
+      "source_note_count": 16,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮 [liMAFqSkGbLRweTeSTyH39w_hZM4].md",
@@ -41453,9 +41504,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》841丨绝不手软！揭秘战争的残酷真相",
           "url": "/wiki/sources/zizhi-tongjian-hanji-841-juebu-shouruan-jiemi-zhanzheng-de-canku-zhenxiang-losza81gissyijywwe0vxadw5ia0/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》741丨为什么古代匈奴总要入侵中原？ [lllpGoZGI6Yd5pScw8z5oFiDK5rP].md",
+          "key": "zizhi-tongjian-hanji-741-weishenme-gudai-xiongnu-zongyao-ruqin-zhongyuan-lllpgozgi6yd5pscw8z5ofidk5rp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》741丨为什么古代匈奴总要入侵中原？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-741-weishenme-gudai-xiongnu-zongyao-ruqin-zhongyuan-lllpgozgi6yd5pscw8z5ofidk5rp/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-31",
       "url": "/wiki/entities/xiongnu/"
     },
     "XiuliChanyu": {
@@ -43076,9 +43134,9 @@
       "url": "/wiki/concepts/yingchuanfourmagistrates/"
     },
     "YiwuGarrisonLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》810丨他拼个满门被斩，为何也要杀妻？ [lo8vW0JJ0d6IR7yQBUh_5p9oRZSc].md",
@@ -43093,6 +43151,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》747丨班超告诉你：真正的聪明人都有使命感！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》741丨为什么古代匈奴总要入侵中原？ [lllpGoZGI6Yd5pScw8z5oFiDK5rP].md",
+          "key": "zizhi-tongjian-hanji-741-weishenme-gudai-xiongnu-zongyao-ruqin-zhongyuan-lllpgozgi6yd5pscw8z5ofidk5rp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》741丨为什么古代匈奴总要入侵中原？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-741-weishenme-gudai-xiongnu-zongyao-ruqin-zhongyuan-lllpgozgi6yd5pscw8z5ofidk5rp/"
         }
       ],
       "updated": "2026-08-31",
@@ -43703,6 +43768,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/zhaiguilatehan/"
+    },
+    "ZhaiRongEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》741丨为什么古代匈奴总要入侵中原？ [lllpGoZGI6Yd5pScw8z5oFiDK5rP].md",
+          "key": "zizhi-tongjian-hanji-741-weishenme-gudai-xiongnu-zongyao-ruqin-zhongyuan-lllpgozgi6yd5pscw8z5ofidk5rp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》741丨为什么古代匈奴总要入侵中原？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-741-weishenme-gudai-xiongnu-zongyao-ruqin-zhongyuan-lllpgozgi6yd5pscw8z5ofidk5rp/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/zhairongeasternhan/"
     },
     "ZhangBailuLateHan": {
       "episode_count": 3,

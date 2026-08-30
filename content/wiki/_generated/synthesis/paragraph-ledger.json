@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "516ae0589f002d0064fb3d7aa9a91354927c9e8ddad73db998f5711abec0562e",
       "a684563cb8c3558d9b15c89a025f0fab84522169f34a3e126efe21913840ec10",
       "53d93e7610f3f1096a82dea6a00e66500773627a3ef008805d900cd4e2ece6b4",
       "94554e1812f2ee4a85922d90e25a02a413e51e9371063e0478766140bb170f01",
@@ -428,11 +429,34 @@
       "12c2b57062376e50f472c6806ecb08714733b065e8db5d2b809f05f83d802f96",
       "2231d7cf4c1cf8ae29ee2ec0737334356ddcd78d5df4e6b306dab83b98b3febe"
     ],
-    "paragraph_count": 426
+    "paragraph_count": 427
   },
-  "overview_commit": "878b151991041de6dca95f6160688e3195e688e9",
-  "overview_digest": "7ff28607649839fd71049e065a356184b3526d47d9e66b46e8292511214bbc54",
+  "overview_commit": "d6b701044ad4650ea8687609fd9fdb4e96187d7c",
+  "overview_digest": "b4fc31a8a1f4d2763a4b16e644df85d3caaa042152cb1cc9999c8b09a6c4f029",
   "paragraphs": [
+    {
+      "id": "516ae0589f002d0064fb3d7aa9a91354927c9e8ddad73db998f5711abec0562e",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-741-weishenme-gudai-xiongnu-zongyao-ruqin-zhongyuan-lllpgozgi6yd5pscw8z5ofidk5rp|《资治通鉴·汉纪》741丨为什么古代匈奴总要入侵中原？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 72-73 CE prelude before [[zizhi-tongjian-hanji-742-banchao-chushi-xiyu-37-ren-da-sha-si-fang-ltutsinxtciar0tmpxkge0mnsnp1|Hanji 742]]. It adds [[ZhaiRongEasternHan|翟戎]] and [[SteppePastoralResourcePressure|草原游牧资源压力]], while extending [[Xiongnu|匈奴]], [[NorthernXiongnuLateHan|北匈奴]], [[EmperorMingOfHan|汉明帝]], [[GengBingEasternHan|耿秉]], [[DouGuEasternHan|窦固]], [[YiwuGarrisonLateHan|伊吾屯田]], and [[NomadicCavalryRaidingAsymmetry|游牧骑兵劫掠不对称]]. Its core synthesis is that Xiongnu raiding is explained not only as predation but as a pressure pattern formed by low rainfall, seasonal water and pasture movement, overgrazing risk, winter provisioning, and agrarian frontier vulnerability; Mingdi's campaign answer then links border credibility to Western Regions strategy. No settled contradiction is recorded; route commanders, force counts, and transcript name variants remain source-scoped.",
+      "topic_scores": {
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "DouGuEasternHan",
+        "EmperorMingOfHan",
+        "GengBingEasternHan",
+        "NomadicCavalryRaidingAsymmetry",
+        "NorthernXiongnuLateHan",
+        "RuiqiJiangtouZizhiTongjian",
+        "SteppePastoralResourcePressure",
+        "Xiongnu",
+        "YiwuGarrisonLateHan",
+        "ZhaiRongEasternHan",
+        "zizhi-tongjian-hanji-741-weishenme-gudai-xiongnu-zongyao-ruqin-zhongyuan-lllpgozgi6yd5pscw8z5ofidk5rp",
+        "zizhi-tongjian-hanji-742-banchao-chushi-xiyu-37-ren-da-sha-si-fang-ltutsinxtciar0tmpxkge0mnsnp1"
+      ]
+    },
     {
       "id": "a684563cb8c3558d9b15c89a025f0fab84522169f34a3e126efe21913840ec10",
       "primary_topic": "ai-and-technology",
