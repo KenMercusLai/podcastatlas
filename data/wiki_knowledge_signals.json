@@ -1794,6 +1794,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/alexandrasuichbass/"
     },
+    "AlexandriaOcasioCortez": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Nate Silver Predicts： Democrats Take the House, Newsom Is Fading & AOC Might Win It All in 2028 [41866025].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-nate-silver-predicts-democrats-take-the-house-newsom-is-fading-aoc-might-win-it-all-in-2028-41866025",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Nate Silver Predicts: Democrats Take the House, Newsom Is Fading & AOC Might Win It All in 2028",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-nate-silver-predicts-democrats-take-the-house-newsom-is-fading-aoc-might-win-it-all-in-2028-41866025/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/alexandriaocasiocortez/"
+    },
     "AlgorithmicTrustMigration": {
       "episode_count": 1,
       "show_count": 1,
@@ -5326,6 +5342,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/changxilatehan/"
     },
+    "ChangeElectionPolitics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Nate Silver Predicts： Democrats Take the House, Newsom Is Fading & AOC Might Win It All in 2028 [41866025].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-nate-silver-predicts-democrats-take-the-house-newsom-is-fading-aoc-might-win-it-all-in-2028-41866025",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Nate Silver Predicts: Democrats Take the House, Newsom Is Fading & AOC Might Win It All in 2028",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-nate-silver-predicts-democrats-take-the-house-newsom-is-fading-aoc-might-win-it-all-in-2028-41866025/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/changeelectionpolitics/"
+    },
     "ChangguangCommanderyLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -8217,6 +8249,59 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/demishassabis/"
     },
+    "DemocraticFactionMap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Nate Silver Predicts： Democrats Take the House, Newsom Is Fading & AOC Might Win It All in 2028 [41866025].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-nate-silver-predicts-democrats-take-the-house-newsom-is-fading-aoc-might-win-it-all-in-2028-41866025",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Nate Silver Predicts: Democrats Take the House, Newsom Is Fading & AOC Might Win It All in 2028",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-nate-silver-predicts-democrats-take-the-house-newsom-is-fading-aoc-might-win-it-all-in-2028-41866025/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/democraticfactionmap/"
+    },
+    "DemocraticParty": {
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Rahm Emanuel： Trump's Foreign Policy, China, Europe's Decline, Immigration & DSA vs Democrats [42416310].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Rahm Emanuel: Trump's Foreign Policy, China, Europe's Decline, Immigration & DSA vs Democrats",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310/"
+        },
+        {
+          "episode_file": "Socialist mobility： a telling Michigan vote [6a74600ec3e1347e8b5bf216].md",
+          "key": "socialist-mobility-a-telling-michigan-vote-6a74600ec3e1347e8b5bf216",
+          "show": "Economist Podcasts",
+          "title": "Socialist mobility: a telling Michigan vote",
+          "url": "/wiki/sources/socialist-mobility-a-telling-michigan-vote-6a74600ec3e1347e8b5bf216/"
+        },
+        {
+          "episode_file": "sp.05 【刘擎x林垚】＂枪杀医保巨头＂案背后的思考（下）：分裂的美国会有宪政危机吗？ [790241978].md",
+          "key": "sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978",
+          "show": "蜜獾吃书",
+          "title": "sp.05 【刘擎x林垚】\\\"枪杀医保巨头\\\"案背后的思考（下）：分裂的美国会有宪政危机吗？",
+          "url": "/wiki/sources/sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Nate Silver Predicts： Democrats Take the House, Newsom Is Fading & AOC Might Win It All in 2028 [41866025].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-nate-silver-predicts-democrats-take-the-house-newsom-is-fading-aoc-might-win-it-all-in-2028-41866025",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Nate Silver Predicts: Democrats Take the House, Newsom Is Fading & AOC Might Win It All in 2028",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-nate-silver-predicts-democrats-take-the-house-newsom-is-fading-aoc-might-win-it-all-in-2028-41866025/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/democraticparty/"
+    },
     "DemocraticRepublicanParty": {
       "episode_count": 2,
       "show_count": 1,
@@ -9905,6 +9990,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/elanparadoxmachines/"
+    },
+    "ElectionAdministrationTrust": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Nate Silver Predicts： Democrats Take the House, Newsom Is Fading & AOC Might Win It All in 2028 [41866025].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-nate-silver-predicts-democrats-take-the-house-newsom-is-fading-aoc-might-win-it-all-in-2028-41866025",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Nate Silver Predicts: Democrats Take the House, Newsom Is Fading & AOC Might Win It All in 2028",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-nate-silver-predicts-democrats-take-the-house-newsom-is-fading-aoc-might-win-it-all-in-2028-41866025/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/electionadministrationtrust/"
     },
     "ElectricTwoWheelerMarketDivergence": {
       "episode_count": 1,
@@ -13847,6 +13948,43 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/gauravkarna/"
     },
+    "GavinNewsom": {
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "TSR-S5-RonConway-v5 [TSR-S5-RonConway-v5].md",
+          "key": "tsr-s5-ronconway-v5-tsr-s5-ronconway-v5",
+          "show": "The Social Radars",
+          "title": "Ron Conway, Founder, SV Angel: Silicon Valley Bank Crisis",
+          "url": "/wiki/sources/tsr-s5-ronconway-v5-tsr-s5-ronconway-v5/"
+        },
+        {
+          "episode_file": "tech_20260403_0403_MP_TECH_pod_128 [tech_20260403_0403_MP_TECH_pod_128].md",
+          "key": "tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - SpaceX's IPO, Iran threatens U.S. tech firms and California's new AI executive order",
+          "url": "/wiki/sources/tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Adam Carolla on California’s Collapse： Fires, Failed Leadership, and Gyno-Fascism [39710360].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-adam-carolla-on-californias-collapse-fires-failed-leadership-and-gyno-fascism-39710360",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Adam Carolla on California's Collapse: Fires, Failed Leadership, and Gyno-Fascism",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-adam-carolla-on-californias-collapse-fires-failed-leadership-and-gyno-fascism-39710360/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Nate Silver Predicts： Democrats Take the House, Newsom Is Fading & AOC Might Win It All in 2028 [41866025].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-nate-silver-predicts-democrats-take-the-house-newsom-is-fading-aoc-might-win-it-all-in-2028-41866025",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Nate Silver Predicts: Democrats Take the House, Newsom Is Fading & AOC Might Win It All in 2028",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-nate-silver-predicts-democrats-take-the-house-newsom-is-fading-aoc-might-win-it-all-in-2028-41866025/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/gavinnewsom/"
+    },
     "Gele": {
       "episode_count": 1,
       "show_count": 1,
@@ -13894,6 +14032,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/genderedofficehierarchy/"
+    },
+    "GenerationalSocialismAppeal": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Nate Silver Predicts： Democrats Take the House, Newsom Is Fading & AOC Might Win It All in 2028 [41866025].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-nate-silver-predicts-democrats-take-the-house-newsom-is-fading-aoc-might-win-it-all-in-2028-41866025",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Nate Silver Predicts: Democrats Take the House, Newsom Is Fading & AOC Might Win It All in 2028",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-nate-silver-predicts-democrats-take-the-house-newsom-is-fading-aoc-might-win-it-all-in-2028-41866025/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/generationalsocialismappeal/"
     },
     "GenesisMission": {
       "episode_count": 2,
@@ -24704,6 +24858,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/midmarketdatatalentgap/"
     },
+    "MidtermBacklashForecasting": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Nate Silver Predicts： Democrats Take the House, Newsom Is Fading & AOC Might Win It All in 2028 [41866025].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-nate-silver-predicts-democrats-take-the-house-newsom-is-fading-aoc-might-win-it-all-in-2028-41866025",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Nate Silver Predicts: Democrats Take the House, Newsom Is Fading & AOC Might Win It All in 2028",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-nate-silver-predicts-democrats-take-the-house-newsom-is-fading-aoc-might-win-it-all-in-2028-41866025/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/midtermbacklashforecasting/"
+    },
     "MiguelGomez": {
       "episode_count": 1,
       "show_count": 1,
@@ -25473,6 +25643,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/nataliestokel/"
+    },
+    "NateSilver": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Nate Silver Predicts： Democrats Take the House, Newsom Is Fading & AOC Might Win It All in 2028 [41866025].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-nate-silver-predicts-democrats-take-the-house-newsom-is-fading-aoc-might-win-it-all-in-2028-41866025",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Nate Silver Predicts: Democrats Take the House, Newsom Is Fading & AOC Might Win It All in 2028",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-nate-silver-predicts-democrats-take-the-house-newsom-is-fading-aoc-might-win-it-all-in-2028-41866025/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/natesilver/"
     },
     "NationalInstitutesOfHealth": {
       "episode_count": 3,
@@ -27377,6 +27563,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/parthianempire/"
     },
+    "PartisanshipAsElectoralGravity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Nate Silver Predicts： Democrats Take the House, Newsom Is Fading & AOC Might Win It All in 2028 [41866025].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-nate-silver-predicts-democrats-take-the-house-newsom-is-fading-aoc-might-win-it-all-in-2028-41866025",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Nate Silver Predicts: Democrats Take the House, Newsom Is Fading & AOC Might Win It All in 2028",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-nate-silver-predicts-democrats-take-the-house-newsom-is-fading-aoc-might-win-it-all-in-2028-41866025/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/partisanshipaselectoralgravity/"
+    },
     "PartyNetworkTreasonFraming": {
       "episode_count": 3,
       "show_count": 1,
@@ -28089,6 +28291,57 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/popeyes/"
+    },
+    "PopulistDemocraticEnergy": {
+      "episode_count": 6,
+      "show_count": 3,
+      "source_note_count": 6,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Rahm Emanuel： Trump's Foreign Policy, China, Europe's Decline, Immigration & DSA vs Democrats [42416310].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Rahm Emanuel: Trump's Foreign Policy, China, Europe's Decline, Immigration & DSA vs Democrats",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - All-In's 2026 Predictions [39681260].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "All-In's 2026 Predictions",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260/"
+        },
+        {
+          "episode_file": "Socialist mobility： a telling Michigan vote [6a74600ec3e1347e8b5bf216].md",
+          "key": "socialist-mobility-a-telling-michigan-vote-6a74600ec3e1347e8b5bf216",
+          "show": "Economist Podcasts",
+          "title": "Socialist mobility: a telling Michigan vote",
+          "url": "/wiki/sources/socialist-mobility-a-telling-michigan-vote-6a74600ec3e1347e8b5bf216/"
+        },
+        {
+          "episode_file": "sp.05 【刘擎x林垚】＂枪杀医保巨头＂案背后的思考（下）：分裂的美国会有宪政危机吗？ [790241978].md",
+          "key": "sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978",
+          "show": "蜜獾吃书",
+          "title": "sp.05 【刘擎x林垚】\\\"枪杀医保巨头\\\"案背后的思考（下）：分裂的美国会有宪政危机吗？",
+          "url": "/wiki/sources/sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978/"
+        },
+        {
+          "episode_file": "sp.04 【刘擎x林垚】＂枪杀医保巨头＂案背后的思考(上)：关于民粹、私刑和死刑 [790230209].md",
+          "key": "sp-04-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-shang-guanyu-mincui-sixing-he-sixing-790230209",
+          "show": "蜜獾吃书",
+          "title": "sp.04 【刘擎x林垚】“枪杀医保巨头”案背后的思考(上)：关于民粹、私刑和死刑",
+          "url": "/wiki/sources/sp-04-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-shang-guanyu-mincui-sixing-he-sixing-790230209/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Nate Silver Predicts： Democrats Take the House, Newsom Is Fading & AOC Might Win It All in 2028 [41866025].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-nate-silver-predicts-democrats-take-the-house-newsom-is-fading-aoc-might-win-it-all-in-2028-41866025",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Nate Silver Predicts: Democrats Take the House, Newsom Is Fading & AOC Might Win It All in 2028",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-nate-silver-predicts-democrats-take-the-house-newsom-is-fading-aoc-might-win-it-all-in-2028-41866025/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/populistdemocraticenergy/"
     },
     "Poseidon": {
       "episode_count": 1,
@@ -43102,6 +43355,29 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/zhuzhenlatehan/"
+    },
+    "ZohranMamdani": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Chip Stocks Crash, $20B Fund Margin Called, Frontier Labs： SLOW DOWN AI, Mamdani's Grocery Stores [42282790].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-chip-stocks-crash-20b-fund-margin-called-frontier-labs-slow-down-ai-mamdanis-grocery-stores-42282790",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Chip Stocks Crash, $20B Fund Margin Called, Frontier Labs: SLOW DOWN AI, Mamdani's Grocery Stores",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-chip-stocks-crash-20b-fund-margin-called-frontier-labs-slow-down-ai-mamdanis-grocery-stores-42282790/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Nate Silver Predicts： Democrats Take the House, Newsom Is Fading & AOC Might Win It All in 2028 [41866025].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-nate-silver-predicts-democrats-take-the-house-newsom-is-fading-aoc-might-win-it-all-in-2028-41866025",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Nate Silver Predicts: Democrats Take the House, Newsom Is Fading & AOC Might Win It All in 2028",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-nate-silver-predicts-democrats-take-the-house-newsom-is-fading-aoc-might-win-it-all-in-2028-41866025/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/zohranmamdani/"
     },
     "ZongZiLateHan": {
       "episode_count": 2,

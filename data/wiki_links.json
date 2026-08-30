@@ -3731,6 +3731,10 @@
     "title": "Alexandra Suich Bass",
     "url": "/wiki/entities/alexandrasuichbass/"
   },
+  "AlexandriaOcasioCortez": {
+    "title": "Alexandria Ocasio-Cortez",
+    "url": "/wiki/entities/alexandriaocasiocortez/"
+  },
   "AlexandrosPanagoulis": {
     "title": "Alexandros Panagoulis / 亚历山德罗斯·帕纳古利斯",
     "url": "/wiki/entities/alexandrospanagoulis/"
@@ -9275,6 +9279,10 @@
     "title": "《长得好看能当饭吃吗》",
     "url": "/wiki/entities/changdehaokannengdangfanchima/"
   },
+  "ChangeElectionPolitics": {
+    "title": "Change Election Politics",
+    "url": "/wiki/concepts/changeelectionpolitics/"
+  },
   "ChangeHealthcare": {
     "title": "Change Healthcare",
     "url": "/wiki/entities/changehealthcare/"
@@ -14047,6 +14055,10 @@
     "title": "Democracy in America",
     "url": "/wiki/concepts/democracyinamerica/"
   },
+  "DemocraticFactionMap": {
+    "title": "Democratic Faction Map",
+    "url": "/wiki/concepts/democraticfactionmap/"
+  },
   "DemocraticIconComplexLegacy": {
     "title": "Democratic Icon Complex Legacy",
     "url": "/wiki/concepts/democraticiconcomplexlegacy/"
@@ -16126,6 +16138,10 @@
   "ElderlyCareFinancialFraud": {
     "title": "Elderly Care Financial Fraud",
     "url": "/wiki/concepts/elderlycarefinancialfraud/"
+  },
+  "ElectionAdministrationTrust": {
+    "title": "Election Administration Trust",
+    "url": "/wiki/concepts/electionadministrationtrust/"
   },
   "ElectionBettingMarkets": {
     "title": "Election Betting Markets",
@@ -20530,6 +20546,10 @@
   "GenerationalFamilyStrategy": {
     "title": "Generational Family Strategy / 家族代际战略",
     "url": "/wiki/concepts/generationalfamilystrategy/"
+  },
+  "GenerationalSocialismAppeal": {
+    "title": "Generational Socialism Appeal",
+    "url": "/wiki/concepts/generationalsocialismappeal/"
   },
   "GenerationalTechnologyBridge": {
     "title": "Generational Technology Bridge",
@@ -34151,6 +34171,10 @@
     "title": "《切尔诺贝利的午夜》 / Midnight in Chernobyl",
     "url": "/wiki/entities/midnightinchernobyl/"
   },
+  "MidtermBacklashForecasting": {
+    "title": "Midterm Backlash Forecasting",
+    "url": "/wiki/concepts/midtermbacklashforecasting/"
+  },
   "MigrantFamilyRemittanceObligation": {
     "title": "Migrant Family Remittance Obligation / 移民家庭汇款义务",
     "url": "/wiki/concepts/migrantfamilyremittanceobligation/"
@@ -35622,6 +35646,10 @@
   "NateFoster": {
     "title": "Nate Foster",
     "url": "/wiki/entities/natefoster/"
+  },
+  "NateSilver": {
+    "title": "Nate Silver",
+    "url": "/wiki/entities/natesilver/"
   },
   "NathanMost": {
     "title": "Nathan Most",
@@ -38314,6 +38342,10 @@
   "ParticipatoryExhibitions": {
     "title": "Participatory Exhibitions",
     "url": "/wiki/concepts/participatoryexhibitions/"
+  },
+  "PartisanshipAsElectoralGravity": {
+    "title": "Partisanship as Electoral Gravity",
+    "url": "/wiki/concepts/partisanshipaselectoralgravity/"
   },
   "PartitionMinorityTrap": {
     "title": "Partition Minority Trap",
@@ -59550,6 +59582,10 @@
   "all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390": {
     "title": "More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source?, Trump Accounts",
     "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390/"
+  },
+  "all-in-with-chamath-jason-sacks-friedberg-nate-silver-predicts-democrats-take-the-house-newsom-is-fading-aoc-might-win-it-all-in-2028-41866025": {
+    "title": "Nate Silver Predicts: Democrats Take the House, Newsom Is Fading & AOC Might Win It All in 2028",
+    "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-nate-silver-predicts-democrats-take-the-house-newsom-is-fading-aoc-might-win-it-all-in-2028-41866025/"
   },
   "all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435": {
     "title": "Nikesh Arora: Mythos is Real, Analytical SaaS is Dead, and Google can be a $10T company",

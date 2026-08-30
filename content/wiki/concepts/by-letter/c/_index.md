@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6034
+wiki_total_pages: 6040
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -314,6 +314,9 @@ wiki_pages:
   - key: "ChancellorCenteredGovernance"
     title: "Chancellor-Centered Governance / 宰相中心治理"
     url: "/wiki/concepts/chancellorcenteredgovernance/"
+  - key: "ChangeElectionPolitics"
+    title: "Change Election Politics"
+    url: "/wiki/concepts/changeelectionpolitics/"
   - key: "ChannelFocusExperiments"
     title: "Channel Focus Experiments"
     url: "/wiki/concepts/channelfocusexperiments/"

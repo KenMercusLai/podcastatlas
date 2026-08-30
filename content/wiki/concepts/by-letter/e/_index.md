@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 6034
+wiki_total_pages: 6040
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -170,6 +170,9 @@ wiki_pages:
   - key: "ElderlyCareFinancialFraud"
     title: "Elderly Care Financial Fraud"
     url: "/wiki/concepts/elderlycarefinancialfraud/"
+  - key: "ElectionAdministrationTrust"
+    title: "Election Administration Trust"
+    url: "/wiki/concepts/electionadministrationtrust/"
   - key: "ElectionBettingMarkets"
     title: "Election Betting Markets"
     url: "/wiki/concepts/electionbettingmarkets/"

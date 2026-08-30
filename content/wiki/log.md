@@ -14031,6 +14031,14 @@ Ran lint. See lint-report.md for details.
 
 Ingested the 2026-06-29 芮淇讲透资治通鉴 episode on lost patronage, Liang Guiren's family under Dou jealousy, Ma-family overexposure after Empress Ma, Dou Xian's Qinshui Princess estate seizure and non-punishment, and Zhou Yu's Luoyang enforcement. Created the source note plus `EmpressMaMingdeEasternHan`, `MaLiaoEasternHan`, `MaFamilyZhangEraEasternHan`, `YangZhongEasternHan`, `QinshuiPrincessEasternHan`, `ZhouYuLuoyangEasternHan`, `PatronageLossSelfProtection`, and `KnownMisconductNonPunishment`; updated `EmperorZhangOfHan`, `LiangGuirenHeLateHan`, `EmpressDowagerDouHeLateHan`, `DouXianEasternHan`, `DouDuEasternHan`, `FifthLunEasternHan`, `HouseholdMisconductPoliticalLiability`, `StrategicForbearanceGovernance`, `PowerDesireSelfRestraint`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; transcript-sensitive names are normalized cautiously while Ma Fang, Ma Guang, Ma Yu, Huo Yan, and Liang Song remain source-scoped unless later notes warrant standalone pages.
 
+## [2026-08-30] ingest | Nate Silver Predicts: Democrats Take the House, Newsom Is Fading & AOC Might Win It All in 2028
+
+Ingested the 2026-06-29 All-In episode with Nate Silver on California election-count trust, partisanship as electoral gravity, Democratic factions, 2026 House/Senate probabilities, Newsom's 2028 weakness, and AOC's outsider path. Created the source note plus `NateSilver`, `AlexandriaOcasioCortez`, `PartisanshipAsElectoralGravity`, `ElectionAdministrationTrust`, `DemocraticFactionMap`, `ChangeElectionPolitics`, `MidtermBacklashForecasting`, and `GenerationalSocialismAppeal`; updated `GavinNewsom`, `DemocraticParty`, `ZohranMamdani`, `PopulistDemocraticEnergy`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; the episode's polling, prediction-market, gas-price, Iran, and candidate-field claims remain source-dated forecasts.
+
+## [2026-08-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
 ## [2026-08-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

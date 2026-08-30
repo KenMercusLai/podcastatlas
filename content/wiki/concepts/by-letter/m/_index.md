@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 6034
+wiki_total_pages: 6040
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -536,6 +536,9 @@ wiki_pages:
   - key: "MidlifeThreeAccounts"
     title: "Midlife Three Accounts"
     url: "/wiki/concepts/midlifethreeaccounts/"
+  - key: "MidtermBacklashForecasting"
+    title: "Midterm Backlash Forecasting"
+    url: "/wiki/concepts/midtermbacklashforecasting/"
   - key: "MigrantFamilyRemittanceObligation"
     title: "Migrant Family Remittance Obligation / 移民家庭汇款义务"
     url: "/wiki/concepts/migrantfamilyremittanceobligation/"

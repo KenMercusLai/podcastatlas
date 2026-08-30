@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6034
+wiki_total_pages: 6040
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -143,6 +143,9 @@ wiki_pages:
   - key: "ParticipatoryExhibitions"
     title: "Participatory Exhibitions"
     url: "/wiki/concepts/participatoryexhibitions/"
+  - key: "PartisanshipAsElectoralGravity"
+    title: "Partisanship as Electoral Gravity"
+    url: "/wiki/concepts/partisanshipaselectoralgravity/"
   - key: "PartitionMinorityTrap"
     title: "Partition Minority Trap"
     url: "/wiki/concepts/partitionminoritytrap/"

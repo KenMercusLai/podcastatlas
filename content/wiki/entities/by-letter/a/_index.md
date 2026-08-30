@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 8489
+wiki_total_pages: 8491
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -488,6 +488,9 @@ wiki_pages:
   - key: "AlexandraSuichBass"
     title: "Alexandra Suich Bass"
     url: "/wiki/entities/alexandrasuichbass/"
+  - key: "AlexandriaOcasioCortez"
+    title: "Alexandria Ocasio-Cortez"
+    url: "/wiki/entities/alexandriaocasiocortez/"
   - key: "AlexandrosPanagoulis"
     title: "Alexandros Panagoulis / 亚历山德罗斯·帕纳古利斯"
     url: "/wiki/entities/alexandrospanagoulis/"

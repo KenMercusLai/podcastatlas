@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "57a73bf890b331c40aea6ebc9bacd1f1cecf1e3245795fd642c9aab210273b3d",
       "0c993ef28415e6d065838137147c34a805e8cf2eeb30ecb614ac545b48b9db2c",
       "e8990fad7331e9441df0502a49236758d8a7a8fe617e0db2a72761eada274c0d",
       "057b11d5c32277eda442789983bf3ca0776cbb68f94481fdc5a501e04a085e9b",
@@ -418,11 +419,43 @@
       "2f2ccba72e3ff27853c9c5e7edd9f718fa9dd0a3c9c92731bc7ee6f0b1047bd7",
       "12c2b57062376e50f472c6806ecb08714733b065e8db5d2b809f05f83d802f96"
     ],
-    "paragraph_count": 416
+    "paragraph_count": 417
   },
-  "overview_commit": "a767fc4d719c5f42107b02ca311203731c68abb8",
-  "overview_digest": "0ac5f6b488cb550d744395885a2fc50a0297199a288dd957096d53aca56749d3",
+  "overview_commit": "3c558353ea18eb72358b68c18d243c80a46e76fa",
+  "overview_digest": "e30531303a087a28271c8c46fc445ec92073716fa8ddab857f6293a99fd9e614",
   "paragraphs": [
+    {
+      "id": "57a73bf890b331c40aea6ebc9bacd1f1cecf1e3245795fd642c9aab210273b3d",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "governance-and-institutions"
+      ],
+      "text": "The latest addition is [[all-in-with-chamath-jason-sacks-friedberg-nate-silver-predicts-democrats-take-the-house-newsom-is-fading-aoc-might-win-it-all-in-2028-41866025|Nate Silver Predicts: Democrats Take the House, Newsom Is Fading & AOC Might Win It All in 2028]], an [[AllIn|All-In]] episode with [[NateSilver]] on U.S. election mechanics, partisanship, Democratic coalitions, and the 2026-2028 political field. It adds [[NateSilver]], [[AlexandriaOcasioCortez]], [[PartisanshipAsElectoralGravity]], [[ElectionAdministrationTrust]], [[DemocraticFactionMap]], [[ChangeElectionPolitics]], [[MidtermBacklashForecasting]], and [[GenerationalSocialismAppeal]], while extending [[DemocraticParty]], [[GavinNewsom]], [[ZohranMamdani]], [[PopulistDemocraticEnergy]], [[PredictionMarketPublicGoodClaim]], and [[ElectionBettingMarkets]]. Its core synthesis is that suspicious-looking vote-count patterns and partisan predictability should be separated from proven fraud: slow and complex election administration can erode trust even when counts are accurate, partisanship anchors most outcomes, and Democratic strategy depends on whether voters reward continuity or anti-establishment change. No settled contradiction is recorded; the polling, market, gas-price, Iran, and candidate-path claims remain source-dated to the June 29, 2026 episode.",
+      "topic_scores": {
+        "business-and-markets": 2,
+        "governance-and-institutions": 2,
+        "psychology-and-personal-development": 1,
+        "science-health-and-climate": 1
+      },
+      "wikilinks": [
+        "AlexandriaOcasioCortez",
+        "AllIn",
+        "ChangeElectionPolitics",
+        "DemocraticFactionMap",
+        "DemocraticParty",
+        "ElectionAdministrationTrust",
+        "ElectionBettingMarkets",
+        "GavinNewsom",
+        "GenerationalSocialismAppeal",
+        "MidtermBacklashForecasting",
+        "NateSilver",
+        "PartisanshipAsElectoralGravity",
+        "PopulistDemocraticEnergy",
+        "PredictionMarketPublicGoodClaim",
+        "ZohranMamdani",
+        "all-in-with-chamath-jason-sacks-friedberg-nate-silver-predicts-democrats-take-the-house-newsom-is-fading-aoc-might-win-it-all-in-2028-41866025"
+      ]
+    },
     {
       "id": "0c993ef28415e6d065838137147c34a805e8cf2eeb30ecb614ac545b48b9db2c",
       "primary_topic": "governance-and-institutions",

@@ -24,7 +24,7 @@ topic_pages:
     label: "Politics"
     description: "Government, governance, law, diplomacy, elections, regulation, civil liberties, and geopolitical power."
     url: "/topics/politics/"
-    count: 2069
+    count: 2078
   - key: "culture"
     label: "Culture"
     description: "Literature, media, art, film, music, books, education, sport, and the stories and practices through which societies make meaning."

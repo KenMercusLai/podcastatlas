@@ -5852,6 +5852,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "AlexandriaOcasioCortez": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "AlexandrosPanagoulis": [
     {
       "key": "politics",
@@ -12205,6 +12212,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "ChangeElectionPolitics": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "ChangeHealthcare": [
     {
       "key": "technology",
@@ -17573,6 +17587,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "DemocraticFactionMap": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "DemocraticIconComplexLegacy": [
     {
       "key": "politics",
@@ -19745,6 +19766,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "ElectionAdministrationTrust": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "ElectionBettingMarkets": [
@@ -24733,6 +24761,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "GenerationalSocialismAppeal": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "GenerationalTechnologyBridge": [
@@ -38885,6 +38920,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "MidtermBacklashForecasting": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "MigrationWeaponization": [
     {
       "key": "politics",
@@ -40615,6 +40657,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "NateSilver": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "NathanMost": [
@@ -43668,6 +43717,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "PartisanshipAsElectoralGravity": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "PartitionMinorityTrap": [
@@ -67404,6 +67460,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "all-in-with-chamath-jason-sacks-friedberg-nate-silver-predicts-democrats-take-the-house-newsom-is-fading-aoc-might-win-it-all-in-2028-41866025": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435": [
