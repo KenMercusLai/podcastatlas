@@ -19,12 +19,12 @@ topic_pages:
     label: "History"
     description: "Historical people, events, institutions, evidence, and interpretation across Chinese and world history."
     url: "/topics/history/"
-    count: 1530
+    count: 1531
   - key: "politics"
     label: "Politics"
     description: "Government, governance, law, diplomacy, elections, regulation, civil liberties, and geopolitical power."
     url: "/topics/politics/"
-    count: 2101
+    count: 2104
   - key: "culture"
     label: "Culture"
     description: "Literature, media, art, film, music, books, education, sport, and the stories and practices through which societies make meaning."

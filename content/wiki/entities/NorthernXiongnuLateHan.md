@@ -14,16 +14,19 @@ sources:
   - zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi
   - zizhi-tongjian-hanji-742-banchao-chushi-xiyu-37-ren-da-sha-si-fang-ltutsinxtciar0tmpxkge0mnsnp1
   - zizhi-tongjian-hanji-741-weishenme-gudai-xiongnu-zongyao-ruqin-zhongyuan-lllpgozgi6yd5pscw8z5ofidk5rp
+  - zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2
 last_updated: 2026-08-31
 ---
 
 ## Overview
 
-北匈奴 / Northern Xiongnu is the late Eastern Han frontier field where pastoral resource pressure, renewed raids, Western Regions contestation, Han offensive return, envoy intimidation, border attacks, weakness, Southern Xiongnu opportunism, court credibility debates, [[DouXianEasternHan|Dou Xian]]'s contested campaign, battlefield defeat, Yu Chu recognition failure, and Xianbei succession pressure connect. [[zizhi-tongjian-hanji-741-weishenme-gudai-xiongnu-zongyao-ruqin-zhongyuan-lllpgozgi6yd5pscw8z5ofidk5rp|Hanji 741]] now supplies the backfilled starting layer: Northern Xiongnu raids are placed inside the broader [[SteppePastoralResourcePressure|steppe pastoral resource pressure]] frame, and Mingdi's 73 CE campaign begins the concrete Eastern Han answer.
+北匈奴 / Northern Xiongnu is the late Eastern Han frontier field where raids, trade requests, envoy ritual pressure, Southern Xiongnu collusion risk, pastoral resource pressure, Western Regions contestation, Han offensive return, border attacks, weakness, court credibility debates, [[DouXianEasternHan|Dou Xian]]'s contested campaign, battlefield defeat, Yu Chu recognition failure, and Xianbei succession pressure connect. [[zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2|Hanji 737]] now supplies the backfilled starting layer: Northern Xiongnu raids coexist with trade requests, the chanyu demands ritual submission from Zheng Zhong, and Han-Northern contact unsettles Southern Xiongnu enough to help create Duliaoying.
 
 ## Current Profile
 
-Hanji 741 reframes the opening problem. The episode first explains [[Xiongnu|Xiongnu]] raids through low rainfall, water and pasture movement, overgrazing risk, winter pressure, and the attraction of agrarian stores. For late Eastern Han, this broad ecological logic becomes a political problem because Northern Xiongnu raids threaten border confidence in the court. [[EmperorMingOfHan|Mingdi]] consults officials, hears [[GengBingEasternHan|Geng Bing]] argue for recovering the Western Regions, and authorizes a four-route offensive.
+Hanji 737 supplies the earliest current problem. Northern Xiongnu remains strong enough to raid Han borders while also sending envoys to request trade. [[EmperorMingOfHan|Mingdi]] accepts trade as a possible pacification tool, but the same contact creates political risk: the chanyu tries to force [[ZhengZhongFrontierEasternHan|Zheng Zhong]] into a kneeling ritual, and [[XuguDuhouSouthernXiongnu|Xugu Duhou]]'s attempt to seek northern help prompts creation of [[DuliaoCampEasternHan|Duliaoying]].
+
+Hanji 741 reframes the later 73 CE opening problem. The episode first explains [[Xiongnu|Xiongnu]] raids through low rainfall, water and pasture movement, overgrazing risk, winter pressure, and the attraction of agrarian stores. For late Eastern Han, this broad ecological logic becomes a political problem because Northern Xiongnu raids threaten border confidence in the court. Mingdi consults officials, hears [[GengBingEasternHan|Geng Bing]] argue for recovering the Western Regions, and authorizes a four-route offensive.
 
 The 73 CE campaign is uneven but important. [[DouGuEasternHan|Dou Gu]]'s route reaches Tianshan, attacks the Huyan king, kills more than one thousand, takes [[YiwuGarrisonLateHan|Yiwu]], and stations soldiers. Geng Bing's route crosses desert but finds no decisive enemy, while [[ZhaiRongEasternHan|Zhai Rong]]'s route fails after questionable Southern Xiongnu guidance and ends in punishment. Northern Xiongnu is therefore a mobile opponent whose pressure can force Han action even when not every route can find or fix the target.
 
@@ -41,7 +44,7 @@ Hanji 765 and Hanji 767 shift from defeat to failed settlement. After the Northe
 
 ## Key Characteristics
 
-- Late-Han steppe opponent whose raids are now linked to a broader pastoral resource-pressure explanation.
+- Late-Han steppe opponent whose earliest current layer joins raids, trade requests, ritual coercion, and Southern Xiongnu collusion risk before the later pastoral-pressure and campaign layers.
 - Mobile frontier force that can trigger Han credibility problems even when Han commanders struggle to find decisive contact.
 - Western Regions pressure actor whose envoys and supervision shape Shanshan and Khotan before Ban Chao's coercive reversals.
 - Border attacker and route-node occupier, including the Yunzhong attack and later reoccupation of Yiwu after Han withdrawal.
@@ -51,6 +54,8 @@ Hanji 765 and Hanji 767 shift from defeat to failed settlement. After the Northe
 
 ## Evidence
 
+- Earliest raids, trade, and ritual pressure: [[zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2|Hanji 737]] says Northern Xiongnu raids the border while requesting trade, tries to make Zheng Zhong kneel, and becomes the outside contact point for Xugu Duhou's rebellion plan.
+- Southern-collusion containment: [[zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2|Hanji 737]] says Han creates Duliaoying after Zheng catches the messenger linking Southern Xiongnu discontent to Northern Xiongnu help.
 - Resource pressure and 73 CE offensive: [[zizhi-tongjian-hanji-741-weishenme-gudai-xiongnu-zongyao-ruqin-zhongyuan-lllpgozgi6yd5pscw8z5ofidk5rp|Hanji 741]] explains recurring raids through pastoral scarcity and records Mingdi's four-route response, including Dou Gu's Tianshan/Yiwu success and Zhai Rong's failed route.
 - Oasis and border pressure: [[zizhi-tongjian-hanji-742-banchao-chushi-xiyu-37-ren-da-sha-si-fang-ltutsinxtciar0tmpxkge0mnsnp1|Hanji 742]] shows Northern Xiongnu envoys affecting Shanshan, supervisory pressure in Khotan, and the Yunzhong attack answered by Lian Fan.
 - Retrenchment and route-node risk: [[zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi|Hanji 747]] records both a defeat near Zhuoye Mountain and Northern Xiongnu reoccupation of Yiwu after Han withdrawal.
@@ -60,14 +65,15 @@ Hanji 765 and Hanji 767 shift from defeat to failed settlement. After the Northe
 
 ## Qualifications
 
-The page treats Hanji 741's pastoral pressure explanation as an upstream frame, not as a complete explanation for every Northern Xiongnu decision. Later evidence still shows diplomacy, leadership, court faction, Southern Xiongnu incentives, Xianbei incentives, and Han campaign cost shaping outcomes. The Northern-Xiongnu-to-European-Huns chain remains a qualified memory layer rather than a settled identity proof.
+The page treats Hanji 741's pastoral pressure explanation as an upstream frame, not as a complete explanation for every Northern Xiongnu decision. Hanji 737 already shows diplomacy, trade, ritual coercion, and Southern Xiongnu alliance management shaping the field before the 73 CE campaign. Later evidence still shows leadership, court faction, Southern Xiongnu incentives, Xianbei incentives, and Han campaign cost shaping outcomes. The Northern-Xiongnu-to-European-Huns chain remains a qualified memory layer rather than a settled identity proof.
 
 Route commanders, exact force counts, Huyan king identity, Zhuoye/Sanmulou geography, and commandery-name details remain source-scoped where Hanji 741's transcript is noisy.
 
 ## What Changed
 
-- Added Hanji 741 as the backfilled opening layer before Hanji 742's Shanshan/Khotan and Yunzhong pressure.
-- Reframed Northern Xiongnu raids through pastoral resource pressure plus Han border-credibility politics.
+- Added Hanji 737 as the earliest current layer: raids plus trade requests, Zheng Zhong's coerced-kowtow refusal, and Southern/Northern collusion risk.
+- Reframed Hanji 741 as the later pastoral-pressure and 73 CE campaign layer rather than the opening layer.
+- Kept Northern Xiongnu raids tied to both ecological pressure and Han border-credibility politics.
 - Added the 73 CE four-route campaign, Dou Gu's Yiwu result, and Zhai Rong's failed-route contrast.
 - Preserved the later judgment that Northern Xiongnu weakness creates both opportunity and diplomatic risk.
 
@@ -77,6 +83,8 @@ Route commanders, exact force counts, Huyan king identity, Zhuoye/Sanmulou geogr
 - [[SteppePastoralResourcePressure]] - upstream explanation for why raids recur against agrarian frontiers.
 - [[NomadicCavalryRaidingAsymmetry]] - tactical problem exposed when Han routes cannot always fix mobile opponents.
 - [[EmperorMingOfHan]] - ruler who authorizes the 73 CE four-route offensive.
+- [[ZhengZhongFrontierEasternHan|郑众]] - envoy who refuses the chanyu's ritual coercion and warns against credibility damage.
+- [[DuliaoCampEasternHan|都辽营]] - institutional response to Southern/Northern collusion risk involving Northern Xiongnu.
 - [[GengBingEasternHan]] - strategist and commander who argues for Western Regions recovery and later supports another offensive.
 - [[DouGuEasternHan]] - commander whose 73 CE route takes Yiwu and whose later command restores Western Regions offices.
 - [[ZhaiRongEasternHan]] - failed-route commander whose punishment contrasts with Dou Gu's campaign success.

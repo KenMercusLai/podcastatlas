@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 8531
+wiki_total_pages: 8535
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -464,6 +464,9 @@ wiki_pages:
   - key: "ZiShun"
     title: "子顺 / Zi Shun"
     url: "/wiki/entities/zishun/"
+  - key: "ZongJunEasternHan"
+    title: "宗均 / Zong Jun (Eastern Han)"
+    url: "/wiki/entities/zongjuneasternhan/"
   - key: "ZongQinghou"
     title: "宗庆后 / Zong Qinghou"
     url: "/wiki/entities/zongqinghou/"

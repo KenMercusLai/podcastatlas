@@ -11071,6 +11071,10 @@
     "title": "Clean Edition Classic Reading",
     "url": "/wiki/concepts/cleaneditionclassicreading/"
   },
+  "CleanOfficialCapacityGap": {
+    "title": "清官能吏能力差 / Clean Official Capacity Gap",
+    "url": "/wiki/concepts/cleanofficialcapacitygap/"
+  },
   "CleanThrough": {
     "title": "Clean Through",
     "url": "/wiki/entities/cleanthrough/"
@@ -15603,6 +15607,10 @@
     "title": "都江堰 / Dujiangyan",
     "url": "/wiki/entities/dujiangyan/"
   },
+  "DuliaoCampEasternHan": {
+    "title": "都辽营 / Duliao Camp (Eastern Han)",
+    "url": "/wiki/entities/duliaocampeasternhan/"
+  },
   "DullDirtyDangerousRobotics": {
     "title": "Dull Dirty Dangerous Robotics",
     "url": "/wiki/concepts/dulldirtydangerousrobotics/"
@@ -15806,6 +15814,10 @@
   "EachNet": {
     "title": "易趣 / EachNet",
     "url": "/wiki/entities/eachnet/"
+  },
+  "EarlyChineseBuddhismCourtTransmission": {
+    "title": "早期中国佛教宫廷传播 / Early Chinese Buddhism Court Transmission",
+    "url": "/wiki/concepts/earlychinesebuddhismcourttransmission/"
   },
   "EarlyConfucianResistancePolitics": {
     "title": "Early Confucian Resistance Politics / 早期儒家的反抗政治",
@@ -24895,6 +24907,10 @@
     "title": "官方经学定议 / Imperial Classics Consensus Building",
     "url": "/wiki/concepts/imperialclassicsconsensusbuilding/"
   },
+  "ImperialConsortPosthumousTitleSystem": {
+    "title": "皇后谥号制度 / Imperial Consort Posthumous Title System",
+    "url": "/wiki/concepts/imperialconsortposthumoustitlesystem/"
+  },
   "ImperialConstructionOverload": {
     "title": "Imperial Construction Overload / 帝国工程过载",
     "url": "/wiki/concepts/imperialconstructionoverload/"
@@ -24978,6 +24994,10 @@
   "ImperialRitualDistance": {
     "title": "君臣礼制距离 / Imperial Ritual Distance",
     "url": "/wiki/concepts/imperialritualdistance/"
+  },
+  "ImperialSelfCriticismEdict": {
+    "title": "帝王自责诏 / Imperial Self-Criticism Edict",
+    "url": "/wiki/concepts/imperialselfcriticismedict/"
   },
   "ImperialSymbolicStandardization": {
     "title": "Imperial Symbolic Standardization / 帝国符号标准化",
@@ -54671,6 +54691,10 @@
     "title": "White Bear Effect / 白熊效应",
     "url": "/wiki/concepts/whitebeareffect/"
   },
+  "WhiteHorseTemple": {
+    "title": "白马寺 / White Horse Temple",
+    "url": "/wiki/entities/whitehorsetemple/"
+  },
   "WhiteHouse": {
     "title": "White House",
     "url": "/wiki/entities/whitehouse/"
@@ -56386,6 +56410,10 @@
   "Xueqiu": {
     "title": "雪球 / Xueqiu",
     "url": "/wiki/entities/xueqiu/"
+  },
+  "XuguDuhouSouthernXiongnu": {
+    "title": "虚骨都侯 / Xugu Duhou (Southern Xiongnu)",
+    "url": "/wiki/entities/xuguduhousouthernxiongnu/"
   },
   "XujingQitan": {
     "title": "《虚境奇谭》",
@@ -59574,6 +59602,10 @@
   "ZongFuli": {
     "title": "宗馥莉 / Zong Fuli",
     "url": "/wiki/entities/zongfuli/"
+  },
+  "ZongJunEasternHan": {
+    "title": "宗均 / Zong Jun (Eastern Han)",
+    "url": "/wiki/entities/zongjuneasternhan/"
   },
   "ZongQinghou": {
     "title": "宗庆后 / Zong Qinghou",
@@ -63610,6 +63642,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2": {
+    "title": "《资治通鉴·汉纪》737丨皇后谥号制度第一人，刘秀老婆不简单！",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2/"
   },
   "zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu": {
     "title": "《资治通鉴·汉纪》738丨他拼死保全大汉气节，为何惨遭蒙冤？",

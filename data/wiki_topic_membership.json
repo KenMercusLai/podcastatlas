@@ -13962,6 +13962,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "CleanOfficialCapacityGap": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "CleanThrough": [
     {
       "key": "technology",
@@ -29728,6 +29735,13 @@
     }
   ],
   "ImperialRitualDistance": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "ImperialSelfCriticismEdict": [
     {
       "key": "politics",
       "label": "Politics",
@@ -73142,6 +73156,18 @@
     }
   ],
   "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
     {
       "key": "politics",
       "label": "Politics",

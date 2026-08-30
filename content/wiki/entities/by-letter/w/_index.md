@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 8531
+wiki_total_pages: 8535
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -1079,6 +1079,9 @@ wiki_pages:
   - key: "WangGongTaiweiLateHan"
     title: "王龚 / Wang Gong (Taiwei, late Han)"
     url: "/wiki/entities/wanggongtaiweilatehan/"
+  - key: "WhiteHorseTemple"
+    title: "白马寺 / White Horse Temple"
+    url: "/wiki/entities/whitehorsetemple/"
   - key: "WanChengLujiang"
     title: "皖城 / Wan City (Lujiang)"
     url: "/wiki/entities/wanchenglujiang/"

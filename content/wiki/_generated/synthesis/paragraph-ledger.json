@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "8be53566663fad3f26d174e4a6007a033013b7878700639aad6d620a0d2d52c6",
       "6df286aa7341b8d92dcf61fdb2fc450df87948b95ea4b2ef3d81d4174ea65d6a",
       "cf6d52565a33ab9176cf0591265a9d2b0e3e71d6c76e8a2a3a4ac598862d3286",
       "eda9c1a0bec23aeae0a55ed3bb0678f7efc917b8a67a33169610cbbbf3bd36a6",
@@ -432,11 +433,45 @@
       "12c2b57062376e50f472c6806ecb08714733b065e8db5d2b809f05f83d802f96",
       "2231d7cf4c1cf8ae29ee2ec0737334356ddcd78d5df4e6b306dab83b98b3febe"
     ],
-    "paragraph_count": 430
+    "paragraph_count": 431
   },
-  "overview_commit": "fa72dd24e35ac0ead18c5a10ed33d018c5ddd0ad",
-  "overview_digest": "bcf698687c94dd867f6100d183971648a5d1bf4e8ba330e80edb11cc28c11383",
+  "overview_commit": "9184f33b73193e49233a83b3c6950f6199f19e29",
+  "overview_digest": "5f15c2baac6297c0429b250ada6ff0e9c068a08c3e341118a696523f01cb7879",
   "paragraphs": [
+    {
+      "id": "8be53566663fad3f26d174e4a6007a033013b7878700639aad6d620a0d2d52c6",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2|《资治通鉴·汉纪》737丨皇后谥号制度第一人，刘秀老婆不简单！]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling 64-65 CE / Yongping 7-8 immediately before [[zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu|Hanji 738]]. It adds [[ZongJunEasternHan|宗均]], [[DuliaoCampEasternHan|都辽营]], [[XuguDuhouSouthernXiongnu|虚骨都侯]], [[WhiteHorseTemple|白马寺]], [[ImperialConsortPosthumousTitleSystem|皇后谥号制度]], [[CleanOfficialCapacityGap|清官能吏能力差]], [[EarlyChineseBuddhismCourtTransmission|早期中国佛教宫廷传播]], and [[ImperialSelfCriticismEdict|帝王自责诏]], while extending [[YinLihua|阴丽华]], [[EmperorMingOfHan|汉明帝]], [[ZhengZhongFrontierEasternHan|郑众]], [[LiuYingChuKingEasternHan|楚王刘英]], [[NorthernXiongnuLateHan|北匈奴]], [[SouthernXiongnu|南匈奴]], [[DiplomaticRitualDignity|使节礼节国威]], [[FrontierRecognitionCredibilityTradeoff|边疆册封信用权衡]], and [[ReceptiveRemonstranceGovernance|纳谏转政策式治理]]. Its core synthesis is that early Yongping governance is already multi-register: empress memory is formalized through posthumous-title ritual, frontier trade contact creates both pacification hope and Southern Xiongnu defection risk, Zong Jun separates clean reputation from governing competence, Zheng Zhong converts envoy dignity into border intelligence, Liu Ying's Buddhism is first treated as harmless devotion before later suspicion, and Mingdi's eclipse response turns criticism into self-blame. No settled contradiction is recorded; the host's gendered \"示弱\" lesson, Buddhism-origin narrative, and minor personnel notices remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "CleanOfficialCapacityGap",
+        "DiplomaticRitualDignity",
+        "DuliaoCampEasternHan",
+        "EarlyChineseBuddhismCourtTransmission",
+        "EmperorMingOfHan",
+        "FrontierRecognitionCredibilityTradeoff",
+        "ImperialConsortPosthumousTitleSystem",
+        "ImperialSelfCriticismEdict",
+        "LiuYingChuKingEasternHan",
+        "NorthernXiongnuLateHan",
+        "ReceptiveRemonstranceGovernance",
+        "RuiqiJiangtouZizhiTongjian",
+        "SouthernXiongnu",
+        "WhiteHorseTemple",
+        "XuguDuhouSouthernXiongnu",
+        "YinLihua",
+        "ZhengZhongFrontierEasternHan",
+        "ZongJunEasternHan",
+        "zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2",
+        "zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu"
+      ]
+    },
     {
       "id": "6df286aa7341b8d92dcf61fdb2fc450df87948b95ea4b2ef3d81d4174ea65d6a",
       "primary_topic": "work-education-and-society",

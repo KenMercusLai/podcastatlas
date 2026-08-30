@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2101
+topic_total_pages: 2104
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3319,6 +3319,9 @@ topic_concepts:
   - key: "ImperialPrivateDesireGovernanceRisk"
     title: "帝王私欲治理风险 / Imperial Private Desire Governance Risk"
     url: "/wiki/concepts/imperialprivatedesiregovernancerisk/"
+  - key: "ImperialSelfCriticismEdict"
+    title: "帝王自责诏 / Imperial Self-Criticism Edict"
+    url: "/wiki/concepts/imperialselfcriticismedict/"
   - key: "WeakPositionPacification"
     title: "弱势名分安抚 / Weak-Position Pacification"
     url: "/wiki/concepts/weakpositionpacification/"
@@ -3400,6 +3403,9 @@ topic_concepts:
   - key: "QingRumorPolitics"
     title: "清代谣言政治 / Qing Rumor Politics"
     url: "/wiki/concepts/qingrumorpolitics/"
+  - key: "CleanOfficialCapacityGap"
+    title: "清官能吏能力差 / Clean Official Capacity Gap"
+    url: "/wiki/concepts/cleanofficialcapacitygap/"
   - key: "SuspicionDrivenEliteAlienation"
     title: "猜疑驱动的士族离心 / Suspicion-Driven Elite Alienation"
     url: "/wiki/concepts/suspiciondrivenelitealienation/"
@@ -6222,6 +6228,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh"
     title: "《资治通鉴·汉纪》185｜一张利嘴，收复中国万里疆土"
     url: "/wiki/sources/zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh/"
+  - key: "zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2"
+    title: "《资治通鉴·汉纪》737丨皇后谥号制度第一人，刘秀老婆不简单！"
+    url: "/wiki/sources/zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2/"
   - key: "zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu"
     title: "《资治通鉴·汉纪》738丨他拼死保全大汉气节，为何惨遭蒙冤？"
     url: "/wiki/sources/zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu/"

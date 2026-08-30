@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 8531
+wiki_total_pages: 8535
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -1130,6 +1130,9 @@ wiki_pages:
   - key: "Dujiangyan"
     title: "都江堰 / Dujiangyan"
     url: "/wiki/entities/dujiangyan/"
+  - key: "DuliaoCampEasternHan"
+    title: "都辽营 / Duliao Camp (Eastern Han)"
+    url: "/wiki/entities/duliaocampeasternhan/"
   - key: "Dingtao"
     title: "陶 / 定陶 / Dingtao"
     url: "/wiki/entities/dingtao/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 8531
+wiki_total_pages: 8535
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -470,6 +470,9 @@ wiki_pages:
   - key: "XuePeng"
     title: "薛鹏 / Xue Peng"
     url: "/wiki/entities/xuepeng/"
+  - key: "XuguDuhouSouthernXiongnu"
+    title: "虚骨都侯 / Xugu Duhou (Southern Xiongnu)"
+    url: "/wiki/entities/xuguduhousouthernxiongnu/"
   - key: "Xiren"
     title: "袭人 / Xiren"
     url: "/wiki/entities/xiren/"

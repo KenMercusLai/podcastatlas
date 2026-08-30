@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6080
+wiki_total_pages: 6084
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1907,6 +1907,9 @@ wiki_pages:
   - key: "CoercedNormality"
     title: "正常性强制 / Coerced Normality"
     url: "/wiki/concepts/coercednormality/"
+  - key: "CleanOfficialCapacityGap"
+    title: "清官能吏能力差 / Clean Official Capacity Gap"
+    url: "/wiki/concepts/cleanofficialcapacitygap/"
   - key: "ClassicalExaminationOrthodoxy"
     title: "经学考试正统化 / Classical Examination Orthodoxy"
     url: "/wiki/concepts/classicalexaminationorthodoxy/"

@@ -4,17 +4,29 @@ generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
 last_updated: 2026-08-31
-as_of_overview_commit: 5c17c51e81f3dd6b6e009ba797d6f33a6edd85bc
-input_digest: 21da54ff4f7ffc3509f8edefa23b04a1576dcb94c3c564bd7af7f6e41c584ad5
+as_of_overview_commit: 9184f33b73193e49233a83b3c6950f6199f19e29
+input_digest: f42dd49b62d0c0dec4cf182290bcfa3bfd1fead0fcde0dbda3ca98901ff89e91
 ---
 
 # Governance and Institutions
 
 ## Current State
 
-Hanji 739 now pushes the governance branch to Mingdi's 68-71 CE Yongping order, joining royal kinship management, Ailao frontier incorporation, Bianqu hydraulic capacity, and the opening of Liu Ying's case. Hanji 740 then continues the Chu-prison sequence through torture, loyalty signaling, and partial correction by Lu Xu, Jian Lang, Empress Ma, and Yuan An; the topic treats accusation verification and receptive remonstrance as late repair after overreach while preserving AI-legitimacy and Zhangdi/Empress Ma restraint claims as source-scoped.
+Hanji 737 now pushes the governance branch to Mingdi 64-65 CE early Yongping order, joining empress posthumous-title ritual, Northern Xiongnu trade contact, Zheng Zhong envoy dignity and Duliaoying intelligence, Zong Jun capacity-over-reputation personnel warning, Liu Ying initially tolerated Buddhist/Huang-Lao practice, and eclipse-triggered self-criticism. Later Hanji 738-740 claims remain the continuation: official evaluation, classics education, royal-kin law, title duty, Liu Ying accusation, coercive implication, and partial correction.
 
 ## Cross-source Findings
+
+### Late Han 737 Mingdi Ritual Frontier Feedback And Capacity
+
+[[zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2|Hanji 737]] moves the [[EmperorMingOfHan]] governance branch back to 64-65 CE before Hanji 738: [[YinLihua]] and [[ImperialConsortPosthumousTitleSystem]] make empress memory a formal title practice, [[ZongJunEasternHan]] and [[CleanOfficialCapacityGap]] separate clean or literary reputation from administrative capacity, [[ZhengZhongFrontierEasternHan]], [[DuliaoCampEasternHan]], [[SouthernXiongnu]], and [[NorthernXiongnuLateHan]] make frontier contact a containment problem under [[FrontierRecognitionCredibilityTradeoff]] and [[DiplomaticRitualDignity]], [[LiuYingChuKingEasternHan]], [[WhiteHorseTemple]], and [[EarlyChineseBuddhismCourtTransmission]] add tolerated Buddhist/Huang-Lao practice before later suspicion, and [[ImperialSelfCriticismEdict]] extends [[ReceptiveRemonstranceGovernance]] through Mingdi eclipse self-blame.
+
+**Evidence:** [[zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2]], [[EmperorMingOfHan]], [[YinLihua]], [[ImperialConsortPosthumousTitleSystem]], [[ZongJunEasternHan]], [[CleanOfficialCapacityGap]], [[ZhengZhongFrontierEasternHan]], [[DuliaoCampEasternHan]], [[SouthernXiongnu]], [[NorthernXiongnuLateHan]], [[FrontierRecognitionCredibilityTradeoff]], [[DiplomaticRitualDignity]], [[LiuYingChuKingEasternHan]], [[WhiteHorseTemple]], [[EarlyChineseBuddhismCourtTransmission]], [[ImperialSelfCriticismEdict]], [[ReceptiveRemonstranceGovernance]]
+
+**Qualifications:**
+
+- This claim is source-scoped to Hanji 737 as a 64-65 CE backfill before Hanji 738; it changes chronology and early-governance context rather than replacing later Mingdi or Zhangdi claims.
+- The host reading of Yin Lihua showing weakness, the Buddhism-origin narrative, minor personnel notices, and exact Duliaoying details remain source-scoped.
+- Liu Ying religious practice is initially tolerated in Hanji 737, while Hanji 739-740 later make his case politically dangerous in a different context.
 
 ### Late Han 739 Mingdi Kinship Frontier Hydraulics And Chu Case
 

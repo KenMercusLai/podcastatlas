@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-31
-as_of_overview_commit: fa72dd24e35ac0ead18c5a10ed33d018c5ddd0ad
+as_of_overview_commit: 9184f33b73193e49233a83b3c6950f6199f19e29
 summary: "Durable capacity depends on fitting AI, markets, institutions, health, culture, learning, and history to evidence, trust, infrastructure, timing, and bounded roles."
-episode_count: 1770
-source_count: 1770
-paragraph_count: 430
+episode_count: 1771
+source_count: 1771
+paragraph_count: 431
 topic_count: 8
 ---
 
@@ -49,7 +49,7 @@ Culture sources use literature, games, folklore, sports, media, brands, therapy-
 
 ### Governance and Institutions
 
-Governance capacity depends on controls, legal restraint, feedback, burden relief, legitimacy, and implementation incentives; recent Hanji layers keep kinship, frontier incorporation, hydraulics, accusation escalation, and delayed correction visible.
+Governance capacity depends on controls, legal restraint, feedback, burden relief, legitimacy, implementation incentives, and appointment fit; Hanji 737 adds Mingdi self-criticism and frontier containment.
 
 - The California data-broker branch shows that privacy rights depend on compliance workflows: [[CaliforniaDeleteAct]], [[DeleteRequestAndOptOutPlatform]], [[ConsumerDataDeletion]], [[DataBrokerComplianceGap]], and [[CaliforniaPrivacyProtectionAgency]] connect centralized deletion, broker registration, reporting duties, request friction, agency capacity, and private-lawsuit proposals into one implementation problem. Evidence: [[CaliforniaDeleteAct]], [[DeleteRequestAndOptOutPlatform]], [[ConsumerDataDeletion]], [[DataBrokerComplianceGap]], [[CaliforniaPrivacyProtectionAgency]], [[tech-20260825-mp-tech-pod-128-tech-20260825-mp-tech-pod-128]].
 - The early-Han sequence shows victory turning into governance only through family order, capital choice, exit management, reward ranking, ritual hierarchy, frontier containment, [[HanXiongnuHeqinPolicy|heqin]] diplomacy, vassal rollback, investigation-triggered rebellion risk, and finally the failure of personal trust in [[LuWan|Lu Wan]]'s Yan kingship. Evidence: [[LiuBang]], [[StrategicCapitalRelocation]], [[LiAsPoliticalOrder]], [[BaidengEncirclement]], [[HanXiongnuHeqinPolicy]], [[DifferentSurnameKingSuspicion]], [[HuainanKingdomEarlyHan]], [[InvestigationDrivenRebellionEscalation]], [[LuWan]], [[YanState]].

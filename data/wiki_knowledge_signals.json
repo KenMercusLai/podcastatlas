@@ -6756,6 +6756,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/classicalexaminationorthodoxy/"
     },
+    "CleanOfficialCapacityGap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》737丨皇后谥号制度第一人，刘秀老婆不简单！ [lsDhr_gdx-yep3TzPrjG9wTJBUl2].md",
+          "key": "zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》737丨皇后谥号制度第一人，刘秀老婆不简单！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/cleanofficialcapacitygap/"
+    },
     "ClinicalBehaviorChangeRedFlags": {
       "episode_count": 1,
       "show_count": 1,
@@ -9403,9 +9419,9 @@
       "url": "/wiki/concepts/diplomaticpersonaasstrategicasset/"
     },
     "DiplomaticRitualDignity": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》738丨他拼死保全大汉气节，为何惨遭蒙冤？ [lrvC1F6FV2h66Q0PLeCIHmfMDVxU].md",
@@ -9413,6 +9429,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》738丨他拼死保全大汉气节，为何惨遭蒙冤？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》737丨皇后谥号制度第一人，刘秀老婆不简单！ [lsDhr_gdx-yep3TzPrjG9wTJBUl2].md",
+          "key": "zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》737丨皇后谥号制度第一人，刘秀老婆不简单！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2/"
         }
       ],
       "updated": "2026-08-31",
@@ -10491,6 +10514,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/duanxilatehan/"
     },
+    "DuliaoCampEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》737丨皇后谥号制度第一人，刘秀老婆不简单！ [lsDhr_gdx-yep3TzPrjG9wTJBUl2].md",
+          "key": "zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》737丨皇后谥号制度第一人，刘秀老婆不简单！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/duliaocampeasternhan/"
+    },
     "DullDirtyDangerousRobotics": {
       "episode_count": 1,
       "show_count": 1,
@@ -10570,6 +10609,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/ectbipolardepressionboundary/"
+    },
+    "EarlyChineseBuddhismCourtTransmission": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》737丨皇后谥号制度第一人，刘秀老婆不简单！ [lsDhr_gdx-yep3TzPrjG9wTJBUl2].md",
+          "key": "zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》737丨皇后谥号制度第一人，刘秀老婆不简单！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/earlychinesebuddhismcourttransmission/"
     },
     "Echomind": {
       "episode_count": 1,
@@ -11435,9 +11490,9 @@
       "url": "/wiki/entities/emperorhuanofhan/"
     },
     "EmperorMingOfHan": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》899丨好清斗贪官 [ljHIC1PlzmV8k6LU73J5tErihanx].md",
@@ -11487,6 +11542,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》738丨他拼死保全大汉气节，为何惨遭蒙冤？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》737丨皇后谥号制度第一人，刘秀老婆不简单！ [lsDhr_gdx-yep3TzPrjG9wTJBUl2].md",
+          "key": "zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》737丨皇后谥号制度第一人，刘秀老婆不简单！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2/"
         }
       ],
       "updated": "2026-08-31",
@@ -14522,9 +14584,9 @@
       "url": "/wiki/concepts/frontierproxyconqueststrategy/"
     },
     "FrontierRecognitionCredibilityTradeoff": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》765丨东汉风云：能臣能不能干掉跋扈外戚？ [ltnVdqNyoFUELAKlSSBQuGUWIVAN].md",
@@ -14539,6 +14601,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》738丨他拼死保全大汉气节，为何惨遭蒙冤？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》737丨皇后谥号制度第一人，刘秀老婆不简单！ [lsDhr_gdx-yep3TzPrjG9wTJBUl2].md",
+          "key": "zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》737丨皇后谥号制度第一人，刘秀老婆不简单！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2/"
         }
       ],
       "updated": "2026-08-31",
@@ -18775,6 +18844,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/imperialclassicsconsensusbuilding/"
     },
+    "ImperialConsortPosthumousTitleSystem": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》737丨皇后谥号制度第一人，刘秀老婆不简单！ [lsDhr_gdx-yep3TzPrjG9wTJBUl2].md",
+          "key": "zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》737丨皇后谥号制度第一人，刘秀老婆不简单！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/imperialconsortposthumoustitlesystem/"
+    },
     "ImperialDeathConcealment": {
       "episode_count": 5,
       "show_count": 1,
@@ -18882,6 +18967,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/imperialretinuediscipline/"
+    },
+    "ImperialSelfCriticismEdict": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》737丨皇后谥号制度第一人，刘秀老婆不简单！ [lsDhr_gdx-yep3TzPrjG9wTJBUl2].md",
+          "key": "zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》737丨皇后谥号制度第一人，刘秀老婆不简单！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/imperialselfcriticismedict/"
     },
     "ImpermanenceAndNoSelf": {
       "episode_count": 3,
@@ -23742,9 +23843,9 @@
       "url": "/wiki/entities/liuyipingyuanwanglatehan/"
     },
     "LiuYingChuKingEasternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》740丨让你醍醐灌顶的职场智慧！(职场必备) [lih5b-IgHkyoyCAWm5c-dBrNUIEW].md",
@@ -23759,6 +23860,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》739丨坐拥天下美女的皇帝，其实也会孤独",
           "url": "/wiki/sources/zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》737丨皇后谥号制度第一人，刘秀老婆不简单！ [lsDhr_gdx-yep3TzPrjG9wTJBUl2].md",
+          "key": "zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》737丨皇后谥号制度第一人，刘秀老婆不简单！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2/"
         }
       ],
       "updated": "2026-08-31",
@@ -28107,9 +28215,9 @@
       "url": "/wiki/entities/northernrising/"
     },
     "NorthernXiongnuLateHan": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》767丨聪明人，都擅长“演戏” [lq3ol7Y-JDh7dnNFKmtFDG4ibRyq].md",
@@ -28180,6 +28288,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》741丨为什么古代匈奴总要入侵中原？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-741-weishenme-gudai-xiongnu-zongyao-ruqin-zhongyuan-lllpgozgi6yd5pscw8z5ofidk5rp/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》737丨皇后谥号制度第一人，刘秀老婆不简单！ [lsDhr_gdx-yep3TzPrjG9wTJBUl2].md",
+          "key": "zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》737丨皇后谥号制度第一人，刘秀老婆不简单！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2/"
         }
       ],
       "updated": "2026-08-31",
@@ -31923,9 +32038,9 @@
       "url": "/wiki/concepts/realrobotdatastrategy/"
     },
     "ReceptiveRemonstranceGovernance": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》746丨什么样的领导，值得被死心塌追随？ [lvHBdgfbC69T6sdw92K4dIpII_RX].md",
@@ -31940,6 +32055,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》740丨让你醍醐灌顶的职场智慧！(职场必备)",
           "url": "/wiki/sources/zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》737丨皇后谥号制度第一人，刘秀老婆不简单！ [lsDhr_gdx-yep3TzPrjG9wTJBUl2].md",
+          "key": "zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》737丨皇后谥号制度第一人，刘秀老婆不简单！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2/"
         }
       ],
       "updated": "2026-08-31",
@@ -35157,9 +35279,9 @@
       "url": "/wiki/entities/southernocean/"
     },
     "SouthernXiongnu": {
-      "episode_count": 18,
+      "episode_count": 19,
       "show_count": 1,
-      "source_note_count": 18,
+      "source_note_count": 19,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》903丨为什么劝你冤冤相报何时了？ [loKpt93MUc8kasvN44VgsjKI8boM].md",
@@ -35286,6 +35408,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》747丨班超告诉你：真正的聪明人都有使命感！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》737丨皇后谥号制度第一人，刘秀老婆不简单！ [lsDhr_gdx-yep3TzPrjG9wTJBUl2].md",
+          "key": "zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》737丨皇后谥号制度第一人，刘秀老婆不简单！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2/"
         }
       ],
       "updated": "2026-08-31",
@@ -40441,6 +40570,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/whatisourproblem/"
     },
+    "WhiteHorseTemple": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》737丨皇后谥号制度第一人，刘秀老婆不简单！ [lsDhr_gdx-yep3TzPrjG9wTJBUl2].md",
+          "key": "zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》737丨皇后谥号制度第一人，刘秀老婆不简单！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/whitehorsetemple/"
+    },
     "WholeCompanyBranding": {
       "episode_count": 1,
       "show_count": 1,
@@ -42228,6 +42373,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/xuexiaofan/"
     },
+    "XuguDuhouSouthernXiongnu": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》737丨皇后谥号制度第一人，刘秀老婆不简单！ [lsDhr_gdx-yep3TzPrjG9wTJBUl2].md",
+          "key": "zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》737丨皇后谥号制度第一人，刘秀老婆不简单！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/xuguduhousouthernxiongnu/"
+    },
     "XunShuLateHan": {
       "episode_count": 3,
       "show_count": 1,
@@ -43302,6 +43463,29 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/yinlaoshizhebing/"
+    },
+    "YinLihua": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》915丨世上没有真正的口误，这话对吗？ [lgXCODJxnAOZvYEgxQUrgZjI5gUs].md",
+          "key": "zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》915丨世上没有真正的口误，这话对吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》737丨皇后谥号制度第一人，刘秀老婆不简单！ [lsDhr_gdx-yep3TzPrjG9wTJBUl2].md",
+          "key": "zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》737丨皇后谥号制度第一人，刘秀老婆不简单！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/yinlihua/"
     },
     "YinXinDoctor": {
       "episode_count": 1,
@@ -45361,9 +45545,9 @@
       "url": "/wiki/entities/zhengzhongeasternhan/"
     },
     "ZhengZhongFrontierEasternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》746丨什么样的领导，值得被死心塌追随？ [lvHBdgfbC69T6sdw92K4dIpII_RX].md",
@@ -45378,6 +45562,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》738丨他拼死保全大汉气节，为何惨遭蒙冤？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》737丨皇后谥号制度第一人，刘秀老婆不简单！ [lsDhr_gdx-yep3TzPrjG9wTJBUl2].md",
+          "key": "zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》737丨皇后谥号制度第一人，刘秀老婆不简单！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2/"
         }
       ],
       "updated": "2026-08-31",
@@ -46134,6 +46325,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/zohranmamdani/"
+    },
+    "ZongJunEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》737丨皇后谥号制度第一人，刘秀老婆不简单！ [lsDhr_gdx-yep3TzPrjG9wTJBUl2].md",
+          "key": "zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》737丨皇后谥号制度第一人，刘秀老婆不简单！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/zongjuneasternhan/"
     },
     "ZongZiLateHan": {
       "episode_count": 2,

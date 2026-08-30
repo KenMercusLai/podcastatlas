@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 6080
+wiki_total_pages: 6084
 wiki_pages:
   - key: "ICEWorkforceExpansion"
     title: "ICE Workforce Expansion"
@@ -734,6 +734,12 @@ wiki_pages:
   - key: "ImperialPrivateDesireGovernanceRisk"
     title: "帝王私欲治理风险 / Imperial Private Desire Governance Risk"
     url: "/wiki/concepts/imperialprivatedesiregovernancerisk/"
+  - key: "ImperialSelfCriticismEdict"
+    title: "帝王自责诏 / Imperial Self-Criticism Edict"
+    url: "/wiki/concepts/imperialselfcriticismedict/"
+  - key: "ImperialConsortPosthumousTitleSystem"
+    title: "皇后谥号制度 / Imperial Consort Posthumous Title System"
+    url: "/wiki/concepts/imperialconsortposthumoustitlesystem/"
   - key: "ImperialBondservantGovernance"
     title: "皇室包衣治理 / Imperial Bondservant Governance"
     url: "/wiki/concepts/imperialbondservantgovernance/"

@@ -4,17 +4,29 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-08-31
-as_of_overview_commit: 5c17c51e81f3dd6b6e009ba797d6f33a6edd85bc
-input_digest: 57e59e79423d4cede9856613b81c7b2ca98984cb2b6694bc5ac47191f476b28b
+as_of_overview_commit: 9184f33b73193e49233a83b3c6950f6199f19e29
+input_digest: 89f03abf2a5f1f93f71acee6d905ad5d9bbc85f50e82347acdbe69aa20e42d03
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-Hanji 739 now moves the Eastern Han historical branch back to 68-71 CE: Mingdi's reign combines Liu Cang's royal kinship, Ailao submission, Bianqu/Yellow River repair, and the opening of Liu Ying's case. Hanji 740-741 then continue the sequence through Chu-prison expansion, partial correction, Xiongnu frontier return, and later Hanji 744/748 layers around Geng Gong, Mingdi burial restraint, Zhangdi accession, Liu Cang remonstrance, and Empress Ma family restraint.
+Hanji 737 now moves the Eastern Han historical branch back to 64-65 CE before Hanji 738: Yin Lihua posthumous-title ritual, Northern Xiongnu raids and trade, Zheng Zhong original kowtow refusal, Southern Xiongnu collusion risk and Duliaoying creation, Zong Jun local governance, Liu Ying tolerated Buddhist/Huang-Lao devotion, White Horse Temple transmission memory, and Mingdi eclipse self-criticism. Existing Hanji 738-741 claims remain the next sequence of return-mission debate, official evaluation, Liu Ying case escalation, Xiongnu resource pressure, and 73 CE campaign.
 
 ## Cross-source Findings
+
+### Late Han 737 Yongping Ritual Frontier Buddhism And Feedback
+
+[[zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2|Hanji 737]] backfills the Eastern Han historical branch to 64-65 CE before Hanji 738: [[YinLihua]] and [[ImperialConsortPosthumousTitleSystem]] add empress posthumous-title ritual, [[NorthernXiongnuLateHan]] and [[SouthernXiongnu]] move the frontier story to raids, trade contact, [[ZhengZhongFrontierEasternHan]] refusal, [[XuguDuhouSouthernXiongnu]] collusion risk, and [[DuliaoCampEasternHan]] creation, [[ZongJunEasternHan]] and [[CleanOfficialCapacityGap]] add local-governance and personnel-capacity evidence, [[LiuYingChuKingEasternHan]], [[WhiteHorseTemple]], and [[EarlyChineseBuddhismCourtTransmission]] add an initially tolerated Buddhist/Huang-Lao layer, and [[ImperialSelfCriticismEdict]] records Mingdi eclipse self-criticism.
+
+**Evidence:** [[zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2]], [[YinLihua]], [[ImperialConsortPosthumousTitleSystem]], [[NorthernXiongnuLateHan]], [[SouthernXiongnu]], [[ZhengZhongFrontierEasternHan]], [[XuguDuhouSouthernXiongnu]], [[DuliaoCampEasternHan]], [[ZongJunEasternHan]], [[CleanOfficialCapacityGap]], [[LiuYingChuKingEasternHan]], [[WhiteHorseTemple]], [[EarlyChineseBuddhismCourtTransmission]], [[ImperialSelfCriticismEdict]]
+
+**Qualifications:**
+
+- This claim is source-scoped to Hanji 737 and records a chronological backfill before Hanji 738, not a full reassessment of all Eastern Han frontier or Buddhist history.
+- The Buddhism-origin narrative, host interpretation of Yin Lihua, minor office appointments, and exact Duliaoying force details remain source-scoped.
+- No settled contradiction is recorded; the main change is that several later pages now start from a 64-65 CE layer.
 
 ### Late Han 739 Yongping Prelude Frontier Hydraulics And Chu Case
 
