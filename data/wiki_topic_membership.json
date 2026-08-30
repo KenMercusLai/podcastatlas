@@ -8736,6 +8736,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "BaihuGuanConference": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "Baijian": [
     {
       "key": "technology",
@@ -15580,6 +15587,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "CourtWomenHistoriography": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "CoventryLifeSettlements": [
     {
       "key": "economics",
@@ -20234,6 +20248,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "EmpressMaMingdeEasternHan": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "EmptyReputationRealityGap": [
@@ -29555,6 +29576,13 @@
     }
   ],
   "ImperialBondservantGovernance": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "ImperialClassicsConsensusBuilding": [
     {
       "key": "politics",
       "label": "Politics",
@@ -72867,6 +72895,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x": [

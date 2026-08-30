@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2080
+topic_total_pages: 2081
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3262,6 +3262,9 @@ topic_concepts:
   - key: "OfficialSalaryExtractionRisk"
     title: "官吏俸禄不足抽取风险 / Official Salary Extraction Risk"
     url: "/wiki/concepts/officialsalaryextractionrisk/"
+  - key: "ImperialClassicsConsensusBuilding"
+    title: "官方经学定议 / Imperial Classics Consensus Building"
+    url: "/wiki/concepts/imperialclassicsconsensusbuilding/"
   - key: "CourtBackchannelSurvival"
     title: "宫廷后门自救 / Court Backchannel Survival"
     url: "/wiki/concepts/courtbackchannelsurvival/"

@@ -14051,6 +14051,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-31] ingest | 《资治通鉴·汉纪》750丨揭秘东汉完美女性，背后满是牺牲！
+
+Ingested the 2026-06-28 芮淇讲透资治通鉴 episode on Mingde Empress Ma's childless maternal authority, Ma-family title restraint, Zhangdi's Baihu Guan classics conference and talent search, and Ban Chao's early Western Regions proxy strategy. Created the source note plus `BaihuGuanConference`, `XuGanEasternHan`, `MotherhoodBeyondChildbirth`, `CourtWomenHistoriography`, `ImperialClassicsConsensusBuilding`, and `FrontierProxyConquestStrategy`; updated `EmpressMaMingdeEasternHan`, `MaFamilyZhangEraEasternHan`, `MaLiaoEasternHan`, `YangZhongEasternHan`, `EmperorZhangOfHan`, `BanChaoEasternHan`, `QiuciKingdom`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; Jia Guiren, Ma Fang, Ma Guang, Baihu Guan participant details, Wusun force estimates, Pan Chen, Ba Ba, Gumo, Wensu, and the exact royal refief sequence remain source-scoped.
+
 ## [2026-08-31] ingest | 《资治通鉴·汉纪》751丨窦皇后告诉你：女人不狠，地位不稳
 
 Ingested the 2026-06-28 芮淇讲透资治通鉴 episode on Empress Dou's adoption of Liu Zhao, the Song Guiren accusation, Liu Qing's deposition, Cai Lun's early palace role, Zhangdi's travel-burden restraint, and Liu Cang's funeral honors. Created the source note plus `WeaknessAsPoliticalLiability`; updated `SongGuirenZhangHeLateHan`, `LiuQingQingheKing`, `LiangGuirenHeLateHan`, `EmpressDowagerDouHeLateHan`, `EmperorZhangOfHan`, `LiuCangDongpingKing`, `CaiLunLateHan`, `MaternalStatusSuccessionLeverage`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; Song Yang, Yang Gongzhu, Liang-family minor names, exact route details, and funeral participant lists remain source-scoped.
@@ -14066,3 +14070,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-31] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-31] lint | Wiki lint check
+
+Ran health, identity validation, and lint. Health scanned 16,310 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-28 with 15,429 nodes and 180,855 edges while lint scanned 16,310 pages, so bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` and common provider API key variables are unset in this shell. Report returned in-session; `wiki/lint-report.md` was not updated.

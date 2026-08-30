@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 6049
+wiki_total_pages: 6053
 wiki_pages:
   - key: "ICEWorkforceExpansion"
     title: "ICE Workforce Expansion"
@@ -707,6 +707,9 @@ wiki_pages:
   - key: "ImperialRitualDistance"
     title: "君臣礼制距离 / Imperial Ritual Distance"
     url: "/wiki/concepts/imperialritualdistance/"
+  - key: "ImperialClassicsConsensusBuilding"
+    title: "官方经学定议 / Imperial Classics Consensus Building"
+    url: "/wiki/concepts/imperialclassicsconsensusbuilding/"
   - key: "ImperialRetinueDiscipline"
     title: "巡幸随从纪律 / Imperial Retinue Discipline"
     url: "/wiki/concepts/imperialretinuediscipline/"

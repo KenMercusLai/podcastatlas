@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 8499
+wiki_total_pages: 8501
 wiki_pages:
   - key: "BSpecials"
     title: "B Specials"
@@ -962,6 +962,9 @@ wiki_pages:
   - key: "BaiRaoLateHan"
     title: "白绕 / Bai Rao (late Han)"
     url: "/wiki/entities/bairaolatehan/"
+  - key: "BaihuGuanConference"
+    title: "白虎观会议 / Baihu Guan Conference"
+    url: "/wiki/entities/baihuguanconference/"
   - key: "BaiQi"
     title: "白起 / Bai Qi"
     url: "/wiki/entities/baiqi/"

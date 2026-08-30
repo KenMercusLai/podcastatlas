@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 6049
+wiki_total_pages: 6053
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1028,6 +1028,9 @@ wiki_pages:
   - key: "FiveDynastiesTenKingdomsConceptFormation"
     title: "五代十国概念形成 / Five Dynasties Ten Kingdoms Concept Formation"
     url: "/wiki/concepts/fivedynastiestenkingdomsconceptformation/"
+  - key: "FrontierProxyConquestStrategy"
+    title: "以夷攻夷式边疆策略 / Frontier Proxy Conquest Strategy"
+    url: "/wiki/concepts/frontierproxyconqueststrategy/"
   - key: "ForgedEdictLocalExecution"
     title: "伪诏地方杀官 / Forged Edict Local Execution"
     url: "/wiki/concepts/forgededictlocalexecution/"

@@ -13,16 +13,19 @@ sources:
   - zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv
   - zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297
   - zizhi-tongjian-hanji-751-dou-huanghou-gaosu-ni-nvren-bu-hen-diwei-bu-wen-luvqadctbfuzit2ackrqifour2c6
+  - zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt
 last_updated: 2026-08-31
 ---
 
 ## Overview
 
-Emperor Zhang of Han is the Eastern Han ruler whose bounded profile spans consort-family danger, crown-prince replacement, outer-relative discipline, evidence-sensitive accusation handling, burden-aware administration, ritual and classical ambition, legal leniency, and partial tolerance for remonstrance. Hanji 751 now backfills the earliest current layer: Zhangdi accepts [[EmpressDowagerDouHeLateHan|Empress Dou]]'s accusation against [[SongGuirenZhangHeLateHan|Song Guiren]], demotes [[LiuQingQingheKing|Liu Qing]], makes [[EmperorHeOfHan|Liu Zhao]] crown prince, tries to reduce travel burden, and gives [[LiuCangDongpingKing|Liu Cang]] unusually careful royal-family treatment. Hanji 752 then shows the Liang and Ma-family consequences of the same household-risk field.
+Emperor Zhang of Han is the Eastern Han ruler whose bounded profile spans adoptive-maternal legitimacy, outer-relative discipline, classics consensus building, crown-prince replacement, evidence-sensitive accusation handling, burden-aware administration, Western Regions authorization, legal leniency, and partial tolerance for remonstrance. [[zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt|Hanji 750]] now supplies the earliest current layer: Zhangdi honors [[EmpressMaMingdeEasternHan|Empress Ma]] as his mother, grants and limits Ma-family honor, convenes the [[BaihuGuanConference|Baihu Guan Conference]], calls for direct remonstrance after a solar eclipse, looks for practical governing talent, and backs [[BanChaoEasternHan|Ban Chao]] with [[XuGanEasternHan|Xu Gan]]'s limited Western Regions support force.
 
 ## Current Profile
 
-Hanji 751 gives the first current strength-and-limit contrast. Zhangdi's court accepts a palace accusation that turns Song Guiren's illness and rabbit-meat request into a curse charge. He moves Liu Qing out of the crown-prince palace, demotes him to Qinghe king, and replaces him with Liu Zhao. The episode treats this as an accusation-handling failure because Liu Qing's weak maternal backing, not a clear crime, makes him removable.
+Hanji 750 gives Zhangdi a first strength-and-limit contrast around household legitimacy. Because Empress Ma raised him, he treats her family as his maternal kin even though she had no biological children; his biological mother Jia Guiren receives improved treatment only after Empress Ma dies. Zhangdi grants marquisates to Ma Liao, Ma Fang, and Ma Guang, but the Ma brothers' office resignation keeps honor from immediately becoming administrative power. The same episode makes Zhangdi an imperial organizer of knowledge and frontier strategy: he acts on [[YangZhongEasternHan|Yang Zhong]]'s classics proposal, personally attends Baihu Guan discussions, issues a post-eclipse call for criticism, seeks office-ready talent, and accepts Ban Chao's low-cost Western Regions plan by sending Xu Gan west.
+
+Hanji 751 then gives another strength-and-limit contrast. Zhangdi's court accepts a palace accusation that turns Song Guiren's illness and rabbit-meat request into a curse charge. He moves Liu Qing out of the crown-prince palace, demotes him to Qinghe king, and replaces him with Liu Zhao. The episode treats this as an accusation-handling failure because Liu Qing's weak maternal backing, not a clear crime, makes him removable.
 
 The same source also gives Zhangdi a more sympathetic public-conduct layer. During travel to inspect harvest conditions, he orders local officials not to repair roads for his visit, greet him from afar, search out his route, or burden the itinerary with food and lodging service. His treatment of Liu Cang also shows royal-family affection turned into ritual and administrative care: farewell gifts, physicians, illness reporting, preservation of memorials, and high-level funeral management.
 
@@ -34,16 +37,19 @@ Hanji 770 adds the posthumous legitimacy layer. The truth about Liang Guiren as 
 
 ## Key Characteristics
 
-- Household-risk ruler whose court demotes Liu Qing, later restricts the Ma family, and releases Zhou Yu but fails to punish Dou Xian's known misconduct.
-- Evidence-testing ruler who rejects Li Yi's accusation against Ban Chao because it conflicts with soldiers' costly loyalty.
+- Household-risk ruler whose maternal recognition of Empress Ma, crown-prince decisions, Ma-family restrictions, Zhou Yu release, and Dou Xian non-punishment all test kinship governance.
+- Classics and talent ruler who uses Baihu Guan debate, post-eclipse criticism, and practical office selection to make learning administratively useful.
+- Evidence-testing frontier authorizer who accepts Ban Chao's proxy plan and later rejects Li Yi's accusation because it conflicts with soldiers' costly loyalty.
 - Burden-aware administrator who treats Jiaozhi transport, tribute, fertility, travel demands, and frontier restitution as tests of governance.
 - Procedural and legal restrainer who limits interrogation devices and is open to mercy, remonstrance, and continued debate.
-- Appointment-quality ruler who accepts warnings that rank, seniority, and rote legal cleverness do not equal office fit.
-- Ritual and classical emperor invested in calendar correction, sacrifice, teacher respect, kinship memory, and structured imperial symbolism.
+- Ritual emperor invested in calendar correction, sacrifice, teacher respect, kinship memory, and structured imperial symbolism.
 - Humane but uneven sovereign whose restraint can preserve deliberation but can also become insufficient accountability around protected kin.
 
 ## Evidence
 
+- Maternal recognition and Ma-family restraint: [[zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt|Hanji 750]] shows Zhangdi treating childless Empress Ma as his mother, enfeoffing Ma Liao, Ma Fang, and Ma Guang, and accepting their shift from office to title after Empress Ma's concern.
+- Classics consensus, criticism, and practical talent: [[zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt|Hanji 750]] has Zhangdi convene the Baihu Guan conference, call for direct remonstrance after a solar eclipse, and cite Guangwu's preference for testing officials in actual affairs.
+- Early Western Regions authorization: [[zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt|Hanji 750]] says Zhangdi accepts Ban Chao's proposal, sends Xu Gan with a limited support force, and orders envoy contact with Wusun.
 - Succession accusation failure: [[zizhi-tongjian-hanji-751-dou-huanghou-gaosu-ni-nvren-bu-hen-diwei-bu-wen-luvqadctbfuzit2ackrqifour2c6|Hanji 751]] shows Zhangdi accepting the Song Guiren accusation, demoting Liu Qing from crown prince to Qinghe king, and making Liu Zhao crown prince.
 - Travel burden restraint and royal ritual care: [[zizhi-tongjian-hanji-751-dou-huanghou-gaosu-ni-nvren-bu-hen-diwei-bu-wen-luvqadctbfuzit2ackrqifour2c6|Hanji 751]] records Zhangdi's order against road work and remote welcoming during travel, plus his farewell, illness, and funeral treatment of Liu Cang.
 - Outer-relative and household discipline: [[zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297|Hanji 752]] shows Zhangdi's court restricting the Ma family after lost-patronage overexposure, hearing Fifth Lun's warning against Dou-family access, rebuking Dou Xian over the Qinshui Princess estate, and releasing Zhou Yu after the Dou Du night-travel backlash.
@@ -58,28 +64,35 @@ Hanji 770 adds the posthumous legitimacy layer. The truth about Liang Guiren as 
 
 ## Qualifications
 
-Zhangdi's profile should not be flattened into benevolent ritualism, weak leniency, or court fragility alone; the source set shows all three under different conditions. Hanji 751 makes the gap especially sharp: he can issue burden-reducing travel orders and honor Liu Cang carefully, yet still accept the Song accusation that removes Liu Qing. Hanji 752 makes his outer-relative accountability uneven: he restricts the Ma family and notices Dou Xian's coercion, but a returned estate without punishment does not create the same rule signal as law-first sanction. Hanji 753's policy notices still leave Liu Chang of Jiyin, Liu Shang of Rencheng, Liu Fu of Pei, Zhang Lin, exact torture-device details, and exact southern route geography source-scoped. Zhu Hui in Hanji 753 remains [[ZhuHuiZhangEraEasternHan]], not [[ZhuHuiHeEraLateHan]].
+Zhangdi's profile should not be flattened into benevolent ritualism, weak leniency, or court fragility alone; the source set shows all three under different conditions. Hanji 750 makes the opening profile broad but still source-scoped around Jia Guiren, Bao Yu, Huan Yu, Baihu Guan participants, Wusun force estimates, and the exact royal refief sequence. Hanji 751 makes the gap especially sharp: he can issue burden-reducing travel orders and honor Liu Cang carefully, yet still accept the Song accusation that removes Liu Qing. Hanji 752 makes his outer-relative accountability uneven: he restricts the Ma family and notices Dou Xian's coercion, but a returned estate without punishment does not create the same rule signal as law-first sanction. Hanji 753's policy notices still leave Liu Chang of Jiyin, Liu Shang of Rencheng, Liu Fu of Pei, Zhang Lin, exact torture-device details, and exact southern route geography source-scoped. Zhu Hui in Hanji 753 remains [[ZhuHuiZhangEraEasternHan]], not [[ZhuHuiHeEraLateHan]].
 
 ## What Changed
 
-- Added Hanji 751 as the new earliest current layer for Zhangdi's crown-prince replacement, Song Guiren accusation, travel-burden restraint, and Liu Cang ritual care.
-- Reframed Hanji 752 as the next household-risk layer after the Song/Liu Qing case, rather than the beginning of the current Zhangdi profile.
+- Added Hanji 750 as the new earliest current layer for Zhangdi's maternal recognition, Ma-family title restraint, Baihu Guan conference, talent search, and Ban Chao support.
+- Reframed Hanji 751 as the next household-risk layer after Empress Ma's death and the Ma-family honor decision.
+- Reframed Hanji 752 as the later lost-patronage layer after the Ma family fails to preserve the earlier restraint.
 - Preserved the Dou Xian estate case as a boundary where Zhangdi's restraint becomes known-misconduct non-punishment rather than strategic forbearance.
-- Linked the Ma-family restriction and Zhou Yu release to Zhangdi's broader household-risk governance.
+- Linked the Western Regions sequence to Zhangdi's willingness to authorize proxy strategy while limiting central cost.
 
 ## Relationships
 
+- [[EmpressMaMingdeEasternHan|明德马皇后]] - adoptive mother whose status structures Zhangdi's maternal kinship recognition.
+- [[MotherhoodBeyondChildbirth]] - concept explaining why Zhangdi recognizes Empress Ma's maternal authority despite no biological birth.
+- [[BaihuGuanConference|白虎观会议]] - classics conference Zhangdi convenes and personally attends.
+- [[ImperialClassicsConsensusBuilding]] - governance pattern expressed by Zhangdi's Baihu Guan sponsorship.
+- [[YangZhongEasternHan|杨终]] - adviser whose classics proposal Zhangdi accepts.
 - [[EmpressDowagerDouHeLateHan|窦皇后 / 窦太后]] - consort and later dowager whose natal-family ambition exposes Zhangdi's household order.
 - [[SongGuirenZhangHeLateHan|宋贵人]] - consort whose accusation Zhangdi accepts during the crown-prince replacement.
 - [[LiuQingQingheKing|清河王刘庆]] - son demoted from crown prince under Zhangdi's accepted accusation.
 - [[LiuCangDongpingKing|东平王刘苍]] - royal uncle whose return, illness, funeral, and later memory reveal Zhangdi's kinship ritual.
 - [[LiangGuirenHeLateHan|梁贵人]] - consort whose family destruction becomes a posthumous legitimacy problem for Zhangdi's house.
-- [[EmpressMaMingdeEasternHan|明德马皇后]] - former empress whose death changes how Zhangdi handles the Ma family.
 - [[MaFamilyZhangEraEasternHan|马氏]] - former in-law household Zhangdi restricts after lost-patronage overexposure.
 - [[DouXianEasternHan|窦宪]] - outer-relative actor whom Zhangdi rebukes but does not legally punish after the Qinshui Princess estate seizure.
 - [[QinshuiPrincessEasternHan|沁水公主]] - property victim whose estate case exposes Zhangdi's incomplete accountability.
 - [[ZhouYuLuoyangEasternHan|周纡]] - Luoyang magistrate Zhangdi arrests and releases after the Dou Du night-travel case.
-- [[BanChaoEasternHan]] - frontier commander Zhangdi defends against Li Yi's slander.
+- [[BanChaoEasternHan]] - frontier commander Zhangdi supports in Hanji 750 and later defends against Li Yi's slander.
+- [[XuGanEasternHan]] - volunteer officer Zhangdi sends west to reinforce Ban Chao.
+- [[FrontierProxyConquestStrategy]] - frontier approach Zhangdi authorizes through Ban Chao's proposal.
 - [[ZhengHongEasternHan]] - burden-relief adviser and later anti-Dou warning voice under Zhangdi.
 - [[WeiBiaoEasternHan]] - adviser whose office-fit warning Zhangdi accepts.
 - [[FifthLunEasternHan|第五伦]] - minister whose anti-Dou warning and later integrity profile belong to Zhangdi's court.

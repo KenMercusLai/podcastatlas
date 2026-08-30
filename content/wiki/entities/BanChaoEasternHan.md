@@ -15,33 +15,36 @@ sources:
   - zizhi-tongjian-hanji-756-weishenme-quan-ni-de-rao-ren-chu-qie-rao-ren-ltn4tqzy1d-sodhjidncv8dyqxpj
   - zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2
   - zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv
-last_updated: 2026-08-30
+  - zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt
+last_updated: 2026-08-31
 ---
-
-# 班超 / Ban Chao (Eastern Han)
 
 ## Overview
 
-Ban Chao is the Eastern Han Western Regions commander whose wiki profile now begins with the 83 CE slander episode in [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|Hanji 753]] and runs through the Shule, Shache, Yuezhi, Qiuci, Yanqi, Gan Ying, succession, and retirement layers preserved in later source notes. Across the bounded corpus, he is less a simple battlefield hero than a long-horizon frontier operator whose authority depends on credibility, timing, local political manipulation, and refusal to let private anger govern public command.
+Ban Chao is the Eastern Han Western Regions commander whose wiki profile now begins with the 80 CE memorial strategy in [[zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt|Hanji 750]] and then runs through the 83 CE slander episode, Shule, Shache, Yuezhi, Qiuci, Yanqi, Gan Ying, succession, and retirement layers preserved in later source notes. Across the bounded corpus, he is less a simple battlefield hero than a long-horizon frontier operator whose authority depends on credibility, timing, local political manipulation, proxy use, and refusal to let private anger govern public command.
 
 ## Current Profile
 
-The earliest current layer makes Ban Chao an object of accusation before it makes him an expanding conqueror. [[LiYiEasternHan|Li Yi]] claims that Ban Chao is attached to foreign comfort because he has wife and children abroad, but [[EmperorZhangOfHan|Zhangdi]] trusts the harder behavioral evidence: homesick Han troops continue to follow Ban Chao. Ban Chao removes his family to cut off the charge's surface plausibility, then sends Li Yi back with the Wusun hostage prince rather than keep him under command for revenge.
+The earliest current layer makes Ban Chao a strategist of low-cost frontier advance. After years in Shule with a small following, he argues that Han can complete the Western Regions program by restoring Qiuci hostage prince Ba Ba, drawing Western Regions states into the campaign, using Shache and Shule's fertile supply base, exploiting the weak local legitimacy of Qiuci-installed rulers in Gumo and Wensu, and coordinating with Wusun. [[EmperorZhangOfHan|Zhangdi]] accepts the plan enough to send [[XuGanEasternHan|Xu Gan]] with a limited force and contact Wusun, making Ban Chao's strategy a case of [[FrontierProxyConquestStrategy|frontier proxy conquest]] rather than central-army saturation.
+
+Hanji 753 then makes Ban Chao an object of accusation before it makes him an expanding conqueror. [[LiYiEasternHan|Li Yi]] claims that Ban Chao is attached to foreign comfort because he has wife and children abroad, but Zhangdi trusts the harder behavioral evidence: homesick Han troops continue to follow Ban Chao. Ban Chao removes his family to cut off the charge's surface plausibility, then sends Li Yi back with the Wusun hostage prince rather than keep him under command for revenge.
 
 The next Western Regions layers show how that credibility is used. Ban Chao uses timing and counter-deception in the Shule succession crisis, blocks a Yuezhi advance through food-line judgment, later turns Qiuci's removal of Ba Ba into a campaign to install a more favorable Shule order, and finally conducts the Yanqi operation in a much harsher punitive register. The late profile adds his sponsorship of Gan Ying's westward mission, his warning that only his old subordinate Ren Shang can take over, and his request to return east after decades of low-support service.
 
 ## Key Characteristics
 
+- Proxy-strategy planner: Ban Chao turns hostage kingship, local supplies, allied polities, and limited Han reinforcement into a Western Regions operating model.
 - Accusation-resilient commander: Zhangdi judges Ban Chao by the behavior of soldiers who still follow him despite homesickness, not by Li Yi's slander.
 - Public-duty actor: Ban Chao sends Li Yi back because using command to satisfy private resentment would not be loyal minister conduct.
 - Counter-deception operator: he survives Shule's succession crisis by reading Wang Zhong, Jiao Zhong, and Shache timing rather than reacting to surface loyalty.
 - Supply-line strategist: he defeats the Yuezhi threat by identifying the enemy's dependence on Qiuci grain and severing it through Shache.
 - Protectorate builder through local kingship: he treats Shule, Qiuci, and Ba Ba politics as instruments of order rather than as separate court ceremonials.
 - Harsh punitive commander when escalation is chosen: the Yanqi campaign shows Ban Chao using deception, beheading, and fear to reassert Han control.
-- Low-support frontier veteran: his long career depends on operating with small forces, local allies, Gan Ying-style intelligence, and eventual succession planning.
 
 ## Evidence
 
+- Memorial strategy and limited support: [[zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt|Hanji 750]] has Ban Chao propose restoring Qiuci hostage prince Ba Ba, using local Western Regions states and supplies, and receiving Xu Gan's small support force after Zhangdi approves the plan.
+- Shule stabilization: [[zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt|Hanji 750]] says Xu Gan arrives before Ban Chao attacks Pan Chen's rebellion at Shule and kills more than one thousand rebels.
 - Accusation, loyalty evidence, and non-retaliation: [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|Hanji 753]] supplies Li Yi's slander, Zhangdi's troop-behavior test, Ban Chao's family removal, and Ban Chao's decision to send Li Yi back rather than keep him for private revenge.
 - Early Zhangdi context and suspended Western Regions support: [[zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2|Hanji 754]] keeps Ban Chao in the background of a Zhangdi court preoccupied with speech discipline and shows Western Regions policy depending on unstable imperial backing.
 - Field decision under imperial reluctance: [[zizhi-tongjian-hanji-756-weishenme-quan-ni-de-rao-ren-chu-qie-rao-ren-ltn4tqzy1d-sodhjidncv8dyqxpj|Hanji 756]] presents Ban Chao's continued Western Regions posture amid debates over cost, leniency, and frontier abandonment.
@@ -57,17 +60,19 @@ The next Western Regions layers show how that credibility is used. Ban Chao uses
 - The page preserves all prior source slugs while compressing prose; not every date, subordinate, hostage, or oasis polity from the source notes is promoted into a standalone claim.
 - Ban Chao's non-retaliation toward Li Yi does not prove personal forgiveness. The evidence supports a public-duty boundary, not emotional reconciliation.
 - His later Yanqi conduct complicates any purely humane portrait; the corpus shows both disciplined restraint toward a slanderer and severe punitive violence toward rebellious polities.
-- Wusun, Xu Gan, the hostage prince, and Ban Chao's family removal remain source-scoped details unless later evidence gives them independent wiki significance.
+- Ba Ba, Wusun force estimates, Gumo, Wensu, and Ban Chao's family removal remain source-scoped details unless later evidence gives them independent wiki significance.
 
 ## What Changed
 
-- Added Hanji 753 as the earliest current Ban Chao layer, before the Shule and later Western Regions sequence.
-- Added Li Yi's slander and Zhangdi's troop-behavior evidence test to Ban Chao's credibility profile.
-- Added Ban Chao's handling of Li Yi as a public-duty-over-private-grievance case.
-- Rebalanced the profile so the later frontier hero narrative is preceded by accusation management and command credibility.
+- Added Hanji 750 as the earliest current Ban Chao layer, centered on proxy strategy, Qiuci hostage kingship, local supplies, Xu Gan, and Wusun contact.
+- Reframed Hanji 753 as the next layer, where accusation management tests the credibility already built in the Western Regions.
+- Kept Li Yi's slander, Zhangdi's troop-behavior evidence test, and Ban Chao's non-retaliation as the command-trust profile.
+- Connected later Shule, Qiuci, and Yanqi actions to an earlier low-cost proxy operating model.
 
 ## Relationships
 
+- [[FrontierProxyConquestStrategy]] - concept directly grounded in Ban Chao's Hanji 750 memorial.
+- [[XuGanEasternHan]] - volunteer officer sent to reinforce Ban Chao's Western Regions campaign.
 - [[LiYiEasternHan]] - slanders Ban Chao and becomes the test case for Ban Chao's non-retaliation.
 - [[BehavioralEvidenceLoyaltyJudgment]] - Zhangdi's defense of Ban Chao rests on soldier conduct as evidence of loyalty and command credibility.
 - [[PublicDutyOverPrivateGrievance]] - Ban Chao's decision to send Li Yi back turns private grievance into a duty-bound action.

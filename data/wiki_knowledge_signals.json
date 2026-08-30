@@ -3354,6 +3354,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/basulatehan/"
     },
+    "BaihuGuanConference": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》750丨揭秘东汉完美女性，背后满是牺牲！ [lu-96lbDh7R0tsMiOPBQqRj0Q1gt].md",
+          "key": "zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》750丨揭秘东汉完美女性，背后满是牺牲！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/baihuguanconference/"
+    },
     "BaimaReliefLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -3371,9 +3387,9 @@
       "url": "/wiki/entities/baimarelieflatehan/"
     },
     "BanChaoEasternHan": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 1,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》780丨最多灾多难的时代：东汉 [lvGCuMRFJbLrOFER532EES3TDOa_].md",
@@ -3451,9 +3467,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》753丨班超被告黑状",
           "url": "/wiki/sources/zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》750丨揭秘东汉完美女性，背后满是牺牲！ [lu-96lbDh7R0tsMiOPBQqRj0Q1gt].md",
+          "key": "zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》750丨揭秘东汉完美女性，背后满是牺牲！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-08-31",
       "url": "/wiki/entities/banchaoeasternhan/"
     },
     "BanGuEasternHan": {
@@ -7249,6 +7272,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/courtlegitimacyoverpatronloyalty/"
+    },
+    "CourtWomenHistoriography": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》750丨揭秘东汉完美女性，背后满是牺牲！ [lu-96lbDh7R0tsMiOPBQqRj0Q1gt].md",
+          "key": "zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》750丨揭秘东汉完美女性，背后满是牺牲！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/courtwomenhistoriography/"
     },
     "CreativeApertureShift": {
       "episode_count": 1,
@@ -11051,9 +11090,9 @@
       "url": "/wiki/entities/emperorshunofhan/"
     },
     "EmperorZhangOfHan": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》770丨沉默的真相：皇帝的生母竟是她 [lu5dqu8Uuw277IkZXkBLVqDbPL3q].md",
@@ -11117,6 +11156,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》751丨窦皇后告诉你：女人不狠，地位不稳",
           "url": "/wiki/sources/zizhi-tongjian-hanji-751-dou-huanghou-gaosu-ni-nvren-bu-hen-diwei-bu-wen-luvqadctbfuzit2ackrqifour2c6/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》750丨揭秘东汉完美女性，背后满是牺牲！ [lu-96lbDh7R0tsMiOPBQqRj0Q1gt].md",
+          "key": "zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》750丨揭秘东汉完美女性，背后满是牺牲！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt/"
         }
       ],
       "updated": "2026-08-31",
@@ -11615,9 +11661,9 @@
       "url": "/wiki/entities/empressliangyinglatehan/"
     },
     "EmpressMaMingdeEasternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》752丨失去靠山的人该如何处世？ [lt0QB7aLYh0IPf6mK8hVz92cS297].md",
@@ -11625,9 +11671,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》752丨失去靠山的人该如何处世？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》750丨揭秘东汉完美女性，背后满是牺牲！ [lu-96lbDh7R0tsMiOPBQqRj0Q1gt].md",
+          "key": "zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》750丨揭秘东汉完美女性，背后满是牺牲！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-08-31",
       "url": "/wiki/entities/empressmamingdeeasternhan/"
     },
     "EmpressSelectionRitualLegitimacy": {
@@ -13679,6 +13732,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/frontierproxycommitmentbinding/"
+    },
+    "FrontierProxyConquestStrategy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》750丨揭秘东汉完美女性，背后满是牺牲！ [lu-96lbDh7R0tsMiOPBQqRj0Q1gt].md",
+          "key": "zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》750丨揭秘东汉完美女性，背后满是牺牲！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/frontierproxyconqueststrategy/"
     },
     "FrontierRecognitionCredibilityTradeoff": {
       "episode_count": 1,
@@ -17665,6 +17734,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/imperialbirthmotherrecognition/"
+    },
+    "ImperialClassicsConsensusBuilding": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》750丨揭秘东汉完美女性，背后满是牺牲！ [lu-96lbDh7R0tsMiOPBQqRj0Q1gt].md",
+          "key": "zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》750丨揭秘东汉完美女性，背后满是牺牲！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/imperialclassicsconsensusbuilding/"
     },
     "ImperialDeathConcealment": {
       "episode_count": 5,
@@ -23672,9 +23757,9 @@
       "url": "/wiki/entities/mpwrai/"
     },
     "MaFamilyZhangEraEasternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》752丨失去靠山的人该如何处世？ [lt0QB7aLYh0IPf6mK8hVz92cS297].md",
@@ -23682,9 +23767,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》752丨失去靠山的人该如何处世？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》750丨揭秘东汉完美女性，背后满是牺牲！ [lu-96lbDh7R0tsMiOPBQqRj0Q1gt].md",
+          "key": "zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》750丨揭秘东汉完美女性，背后满是牺牲！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-08-31",
       "url": "/wiki/entities/mafamilyzhangeraeasternhan/"
     },
     "MaHaoning": {
@@ -23711,9 +23803,9 @@
       "url": "/wiki/entities/mahaoning/"
     },
     "MaLiaoEasternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》752丨失去靠山的人该如何处世？ [lt0QB7aLYh0IPf6mK8hVz92cS297].md",
@@ -23721,9 +23813,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》752丨失去靠山的人该如何处世？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》750丨揭秘东汉完美女性，背后满是牺牲！ [lu-96lbDh7R0tsMiOPBQqRj0Q1gt].md",
+          "key": "zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》750丨揭秘东汉完美女性，背后满是牺牲！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-08-31",
       "url": "/wiki/entities/maliaoeasternhan/"
     },
     "MaMuLateHan": {
@@ -25794,6 +25893,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/mosquitobiteprevention/"
+    },
+    "MotherhoodBeyondChildbirth": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》750丨揭秘东汉完美女性，背后满是牺牲！ [lu-96lbDh7R0tsMiOPBQqRj0Q1gt].md",
+          "key": "zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》750丨揭秘东汉完美女性，背后满是牺牲！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/motherhoodbeyondchildbirth/"
     },
     "MotivationRewardEffortCalculation": {
       "episode_count": 1,
@@ -29862,9 +29977,9 @@
       "url": "/wiki/entities/qiuxianglatehan/"
     },
     "QiuciKingdom": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》790丨历史告诉你：如何和领导打交道？ [luLf0R1SdKOD3luZWRU0_KKrIjXK].md",
@@ -29886,9 +30001,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》764丨他为了活命，竟间接灭了罗马帝国？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-764-ta-weile-huoming-jing-jianjie-mie-le-luoma-diguo-lpk0c6muneabhk1oonzyjvawwf4/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》750丨揭秘东汉完美女性，背后满是牺牲！ [lu-96lbDh7R0tsMiOPBQqRj0Q1gt].md",
+          "key": "zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》750丨揭秘东汉完美女性，背后满是牺牲！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-08-31",
       "url": "/wiki/entities/qiucikingdom/"
     },
     "Qiuzhen": {
@@ -39786,6 +39908,29 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/xufengbanditlatehan/"
     },
+    "XuGanEasternHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》753丨班超被告黑状 [lt-SKSxrz30sAWit81eQbeonHzV_].md",
+          "key": "zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》753丨班超被告黑状",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》750丨揭秘东汉完美女性，背后满是牺牲！ [lu-96lbDh7R0tsMiOPBQqRj0Q1gt].md",
+          "key": "zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》750丨揭秘东汉完美女性，背后满是牺牲！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/xuganeasternhan/"
+    },
     "XuGongLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -40894,9 +41039,9 @@
       "url": "/wiki/entities/yangzhenlatehan/"
     },
     "YangZhongEasternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》752丨失去靠山的人该如何处世？ [lt0QB7aLYh0IPf6mK8hVz92cS297].md",
@@ -40904,9 +41049,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》752丨失去靠山的人该如何处世？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》750丨揭秘东汉完美女性，背后满是牺牲！ [lu-96lbDh7R0tsMiOPBQqRj0Q1gt].md",
+          "key": "zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》750丨揭秘东汉完美女性，背后满是牺牲！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-08-31",
       "url": "/wiki/entities/yangzhongeasternhan/"
     },
     "YangzhouLateHan": {
