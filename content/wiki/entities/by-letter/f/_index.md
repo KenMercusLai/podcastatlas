@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 8492
+wiki_total_pages: 8499
 wiki_pages:
   - key: "FortyThreeTalks"
     title: "43talks"
@@ -494,6 +494,9 @@ wiki_pages:
   - key: "FriedrichNietzsche"
     title: "Friedrich Nietzsche / 尼采"
     url: "/wiki/entities/friedrichnietzsche/"
+  - key: "FriedrichWilhelmVonSteuben"
+    title: "Friedrich Wilhelm von Steuben"
+    url: "/wiki/entities/friedrichwilhelmvonsteuben/"
   - key: "FriendFeed"
     title: "FriendFeed"
     url: "/wiki/entities/friendfeed/"

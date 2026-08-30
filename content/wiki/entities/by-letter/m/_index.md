@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 8492
+wiki_total_pages: 8499
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -305,6 +305,9 @@ wiki_pages:
   - key: "MarksAndCo"
     title: "Marks & Co. / 马克斯与科恩书店"
     url: "/wiki/entities/marksandco/"
+  - key: "MarquisDeLafayette"
+    title: "Marquis de Lafayette"
+    url: "/wiki/entities/marquisdelafayette/"
   - key: "MarriottInternational"
     title: "Marriott International"
     url: "/wiki/entities/marriottinternational/"
@@ -320,6 +323,9 @@ wiki_pages:
   - key: "MarthaGoddard"
     title: "Martha Goddard"
     url: "/wiki/entities/marthagoddard/"
+  - key: "MarthaWashington"
+    title: "Martha Washington"
+    url: "/wiki/entities/marthawashington/"
   - key: "MartinHeidegger"
     title: "Martin Heidegger / 马丁·海德格尔"
     url: "/wiki/entities/martinheidegger/"

@@ -1647,6 +1647,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "683-washington-hero-of-the-revolution-part-1-glt3752138067": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "684-franklin-revenge-of-the-american-genius-part-2-glt6013835340": [
     {
       "key": "history",
@@ -37560,6 +37567,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "MarquisDeLafayette": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "MarriageAllianceWarExposure": [
     {
       "key": "politics",
@@ -49108,6 +49122,13 @@
     }
   ],
   "RepublicanParty": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "RepublicanRestraintLeadership": [
     {
       "key": "politics",
       "label": "Politics",
@@ -60949,6 +60970,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "ValleyForgeMythLogistics": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "ValleyOfTheDolls": [

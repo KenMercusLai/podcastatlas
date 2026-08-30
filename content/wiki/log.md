@@ -14050,3 +14050,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-31] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-31] ingest | 683. Washington: Hero of the Revolution (Part 1)
+
+Ingested the 2026-06-28 The Rest Is History episode on George Washington, Valley Forge, Continental Army endurance, Steuben's training reforms, French alliance timing, Martha Washington's camp role, Black soldiers, and republican self-command. Created the source note plus `GeorgeWashington`, `ValleyForge`, `ContinentalArmy`, `MarthaWashington`, `FriedrichWilhelmVonSteuben`, `MarquisDeLafayette`, `HoratioGates`, `StrategicEnduranceMilitaryCommand`, `ValleyForgeMythLogistics`, `RepublicanRestraintLeadership`, and `RevolutionaryMilitarySlaveryContradiction`; updated `AmericanRevolution`, `ContinentalCongress`, `FrancoAmericanAlliance1778`, `TheRestIsHistory`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; the Valley Forge prayer story is treated as a later patriotic invention while the camp's logistical and symbolic importance remains intact.
+
+## [2026-08-31] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

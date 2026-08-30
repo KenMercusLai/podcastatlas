@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "v"
-wiki_total_pages: 8492
+wiki_total_pages: 8499
 wiki_pages:
   - key: "VacheronConstantin"
     title: "Vacheron Constantin"
@@ -17,6 +17,9 @@ wiki_pages:
   - key: "Valhalla"
     title: "Valhalla / 瓦尔哈拉"
     url: "/wiki/entities/valhalla/"
+  - key: "ValleyForge"
+    title: "Valley Forge"
+    url: "/wiki/entities/valleyforge/"
   - key: "ValleyOfTheDolls"
     title: "Valley of the Dolls"
     url: "/wiki/entities/valleyofthedolls/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "v"
-wiki_total_pages: 6044
+wiki_total_pages: 6048
 wiki_pages:
   - key: "VacationShame"
     title: "Vacation Shame / 休假羞耻感"
@@ -17,6 +17,9 @@ wiki_pages:
   - key: "ValidatedLearning"
     title: "Validated Learning"
     url: "/wiki/concepts/validatedlearning/"
+  - key: "ValleyForgeMythLogistics"
+    title: "Valley Forge Myth-Logistics"
+    url: "/wiki/concepts/valleyforgemythlogistics/"
   - key: "ValueInvesting"
     title: "Value Investing"
     url: "/wiki/concepts/valueinvesting/"

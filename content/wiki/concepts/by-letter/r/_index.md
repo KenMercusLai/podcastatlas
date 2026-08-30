@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 6044
+wiki_total_pages: 6048
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -335,6 +335,9 @@ wiki_pages:
   - key: "RepublicanMemoryAgainstDictatorship"
     title: "Republican Memory Against Dictatorship / 反独裁的共和记忆"
     url: "/wiki/concepts/republicanmemoryagainstdictatorship/"
+  - key: "RepublicanRestraintLeadership"
+    title: "Republican Restraint Leadership"
+    url: "/wiki/concepts/republicanrestraintleadership/"
   - key: "ReputationListPersecutionTarget"
     title: "Reputation List as Persecution Target / 名望榜单迫害目标化"
     url: "/wiki/concepts/reputationlistpersecutiontarget/"
@@ -548,6 +551,9 @@ wiki_pages:
   - key: "RevolutionaryMartyrdomImageMaking"
     title: "Revolutionary Martyrdom Image-Making / 革命殉道图像制造"
     url: "/wiki/concepts/revolutionarymartyrdomimagemaking/"
+  - key: "RevolutionaryMilitarySlaveryContradiction"
+    title: "Revolutionary Military Slavery Contradiction"
+    url: "/wiki/concepts/revolutionarymilitaryslaverycontradiction/"
   - key: "RevolutionaryTerrorPolitics"
     title: "Revolutionary Terror Politics / 革命恐怖政治"
     url: "/wiki/concepts/revolutionaryterrorpolitics/"

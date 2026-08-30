@@ -1983,9 +1983,9 @@
       "url": "/wiki/concepts/americanculturalexports/"
     },
     "AmericanRevolution": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6013835340 [GLT6013835340].md",
@@ -1993,9 +1993,16 @@
           "show": "The Rest Is History",
           "title": "684. Franklin: Revenge of the American Genius (Part 2)",
           "url": "/wiki/sources/684-franklin-revenge-of-the-american-genius-part-2-glt6013835340/"
+        },
+        {
+          "episode_file": "GLT3752138067 [GLT3752138067].md",
+          "key": "683-washington-hero-of-the-revolution-part-1-glt3752138067",
+          "show": "The Rest Is History",
+          "title": "683. Washington: Hero of the Revolution (Part 1)",
+          "url": "/wiki/sources/683-washington-hero-of-the-revolution-part-1-glt3752138067/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-08-31",
       "url": "/wiki/entities/americanrevolution/"
     },
     "AmnestyExploitationCrime": {
@@ -6855,10 +6862,26 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/contextdependentbiomedicalinterventions/"
     },
-    "ContinentalCongress": {
+    "ContinentalArmy": {
       "episode_count": 1,
       "show_count": 1,
       "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3752138067 [GLT3752138067].md",
+          "key": "683-washington-hero-of-the-revolution-part-1-glt3752138067",
+          "show": "The Rest Is History",
+          "title": "683. Washington: Hero of the Revolution (Part 1)",
+          "url": "/wiki/sources/683-washington-hero-of-the-revolution-part-1-glt3752138067/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/continentalarmy/"
+    },
+    "ContinentalCongress": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6013835340 [GLT6013835340].md",
@@ -6866,9 +6889,16 @@
           "show": "The Rest Is History",
           "title": "684. Franklin: Revenge of the American Genius (Part 2)",
           "url": "/wiki/sources/684-franklin-revenge-of-the-american-genius-part-2-glt6013835340/"
+        },
+        {
+          "episode_file": "GLT3752138067 [GLT3752138067].md",
+          "key": "683-washington-hero-of-the-revolution-part-1-glt3752138067",
+          "show": "The Rest Is History",
+          "title": "683. Washington: Hero of the Revolution (Part 1)",
+          "url": "/wiki/sources/683-washington-hero-of-the-revolution-part-1-glt3752138067/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-08-31",
       "url": "/wiki/entities/continentalcongress/"
     },
     "ContinuousGlucoseMonitoring": {
@@ -13382,9 +13412,9 @@
       "url": "/wiki/entities/franciswalsingham/"
     },
     "FrancoAmericanAlliance1778": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6013835340 [GLT6013835340].md",
@@ -13392,9 +13422,16 @@
           "show": "The Rest Is History",
           "title": "684. Franklin: Revenge of the American Genius (Part 2)",
           "url": "/wiki/sources/684-franklin-revenge-of-the-american-genius-part-2-glt6013835340/"
+        },
+        {
+          "episode_file": "GLT3752138067 [GLT3752138067].md",
+          "key": "683-washington-hero-of-the-revolution-part-1-glt3752138067",
+          "show": "The Rest Is History",
+          "title": "683. Washington: Hero of the Revolution (Part 1)",
+          "url": "/wiki/sources/683-washington-hero-of-the-revolution-part-1-glt3752138067/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-08-31",
       "url": "/wiki/entities/francoamericanalliance1778/"
     },
     "FranzFerdinand": {
@@ -13483,6 +13520,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/freesecuritysoftwarestrategy/"
+    },
+    "FriedrichWilhelmVonSteuben": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3752138067 [GLT3752138067].md",
+          "key": "683-washington-hero-of-the-revolution-part-1-glt3752138067",
+          "show": "The Rest Is History",
+          "title": "683. Washington: Hero of the Revolution (Part 1)",
+          "url": "/wiki/sources/683-washington-hero-of-the-revolution-part-1-glt3752138067/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/friedrichwilhelmvonsteuben/"
     },
     "FrontierCommandCollapse": {
       "episode_count": 3,
@@ -14292,6 +14345,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/georgeiii/"
+    },
+    "GeorgeWashington": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3752138067 [GLT3752138067].md",
+          "key": "683-washington-hero-of-the-revolution-part-1-glt3752138067",
+          "show": "The Rest Is History",
+          "title": "683. Washington: Hero of the Revolution (Part 1)",
+          "url": "/wiki/sources/683-washington-hero-of-the-revolution-part-1-glt3752138067/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/georgewashington/"
     },
     "GeorgeWhitman": {
       "episode_count": 1,
@@ -16281,6 +16350,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/honorduelculture/"
+    },
+    "HoratioGates": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3752138067 [GLT3752138067].md",
+          "key": "683-washington-hero-of-the-revolution-part-1-glt3752138067",
+          "show": "The Rest Is History",
+          "title": "683. Washington: Hero of the Revolution (Part 1)",
+          "url": "/wiki/sources/683-washington-hero-of-the-revolution-part-1-glt3752138067/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/horatiogates/"
     },
     "HostageBackedDependencyTrap": {
       "episode_count": 2,
@@ -24076,6 +24161,38 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/markcarney/"
     },
+    "MarquisDeLafayette": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3752138067 [GLT3752138067].md",
+          "key": "683-washington-hero-of-the-revolution-part-1-glt3752138067",
+          "show": "The Rest Is History",
+          "title": "683. Washington: Hero of the Revolution (Part 1)",
+          "url": "/wiki/sources/683-washington-hero-of-the-revolution-part-1-glt3752138067/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/marquisdelafayette/"
+    },
+    "MarthaWashington": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3752138067 [GLT3752138067].md",
+          "key": "683-washington-hero-of-the-revolution-part-1-glt3752138067",
+          "show": "The Rest Is History",
+          "title": "683. Washington: Hero of the Revolution (Part 1)",
+          "url": "/wiki/sources/683-washington-hero-of-the-revolution-part-1-glt3752138067/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/marthawashington/"
+    },
     "MaryQueenOfScots": {
       "episode_count": 4,
       "show_count": 1,
@@ -30387,6 +30504,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/reproductiveattritionstrategy/"
     },
+    "RepublicanRestraintLeadership": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3752138067 [GLT3752138067].md",
+          "key": "683-washington-hero-of-the-revolution-part-1-glt3752138067",
+          "show": "The Rest Is History",
+          "title": "683. Washington: Hero of the Revolution (Part 1)",
+          "url": "/wiki/sources/683-washington-hero-of-the-revolution-part-1-glt3752138067/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/republicanrestraintleadership/"
+    },
     "ReputationConstrainedWarRestraint": {
       "episode_count": 3,
       "show_count": 1,
@@ -30660,6 +30793,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/revelpharma/"
+    },
+    "RevolutionaryMilitarySlaveryContradiction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3752138067 [GLT3752138067].md",
+          "key": "683-washington-hero-of-the-revolution-part-1-glt3752138067",
+          "show": "The Rest Is History",
+          "title": "683. Washington: Hero of the Revolution (Part 1)",
+          "url": "/wiki/sources/683-washington-hero-of-the-revolution-part-1-glt3752138067/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/revolutionarymilitaryslaverycontradiction/"
     },
     "RickRubin": {
       "episode_count": 2,
@@ -33481,6 +33630,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/strategicemotionconcealment/"
     },
+    "StrategicEnduranceMilitaryCommand": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3752138067 [GLT3752138067].md",
+          "key": "683-washington-hero-of-the-revolution-part-1-glt3752138067",
+          "show": "The Rest Is History",
+          "title": "683. Washington: Hero of the Revolution (Part 1)",
+          "url": "/wiki/sources/683-washington-hero-of-the-revolution-part-1-glt3752138067/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/strategicendurancemilitarycommand/"
+    },
     "StrategicForbearanceGovernance": {
       "episode_count": 4,
       "show_count": 1,
@@ -35332,9 +35497,9 @@
       "url": "/wiki/entities/theodyssey/"
     },
     "TheRestIsHistory": {
-      "episode_count": 13,
+      "episode_count": 14,
       "show_count": 1,
-      "source_note_count": 13,
+      "source_note_count": 14,
       "sources": [
         {
           "episode_file": "GLT4665799025 [GLT4665799025].md",
@@ -35426,9 +35591,16 @@
           "show": "The Rest Is History",
           "title": "684. Franklin: Revenge of the American Genius (Part 2)",
           "url": "/wiki/sources/684-franklin-revenge-of-the-american-genius-part-2-glt6013835340/"
+        },
+        {
+          "episode_file": "GLT3752138067 [GLT3752138067].md",
+          "key": "683-washington-hero-of-the-revolution-part-1-glt3752138067",
+          "show": "The Rest Is History",
+          "title": "683. Washington: Hero of the Revolution (Part 1)",
+          "url": "/wiki/sources/683-washington-hero-of-the-revolution-part-1-glt3752138067/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-08-31",
       "url": "/wiki/entities/therestishistory/"
     },
     "TheTroubles": {
@@ -36804,6 +36976,38 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/vaccinescheduletrustrebuilding/"
+    },
+    "ValleyForge": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3752138067 [GLT3752138067].md",
+          "key": "683-washington-hero-of-the-revolution-part-1-glt3752138067",
+          "show": "The Rest Is History",
+          "title": "683. Washington: Hero of the Revolution (Part 1)",
+          "url": "/wiki/sources/683-washington-hero-of-the-revolution-part-1-glt3752138067/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/valleyforge/"
+    },
+    "ValleyForgeMythLogistics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3752138067 [GLT3752138067].md",
+          "key": "683-washington-hero-of-the-revolution-part-1-glt3752138067",
+          "show": "The Rest Is History",
+          "title": "683. Washington: Hero of the Revolution (Part 1)",
+          "url": "/wiki/sources/683-washington-hero-of-the-revolution-part-1-glt3752138067/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/valleyforgemythlogistics/"
     },
     "VectorBorneInfectionEscalation": {
       "episode_count": 1,

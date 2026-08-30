@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2078
+topic_total_pages: 2080
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -2479,6 +2479,9 @@ topic_concepts:
   - key: "RepublicanForeignPolicyAdaptation"
     title: "Republican Foreign Policy Adaptation"
     url: "/wiki/concepts/republicanforeignpolicyadaptation/"
+  - key: "RepublicanRestraintLeadership"
+    title: "Republican Restraint Leadership"
+    url: "/wiki/concepts/republicanrestraintleadership/"
   - key: "ReputationListPersecutionTarget"
     title: "Reputation List as Persecution Target / 名望榜单迫害目标化"
     url: "/wiki/concepts/reputationlistpersecutiontarget/"
@@ -4508,6 +4511,9 @@ topic_entities:
   - key: "MarkJohnson"
     title: "Mark Johnson"
     url: "/wiki/entities/markjohnson/"
+  - key: "MarquisDeLafayette"
+    title: "Marquis de Lafayette"
+    url: "/wiki/entities/marquisdelafayette/"
   - key: "MartinHeidegger"
     title: "Martin Heidegger / 马丁·海德格尔"
     url: "/wiki/entities/martinheidegger/"

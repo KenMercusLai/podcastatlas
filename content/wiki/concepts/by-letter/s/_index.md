@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 6044
+wiki_total_pages: 6048
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1313,6 +1313,9 @@ wiki_pages:
   - key: "StrategicEmotionConcealment"
     title: "Strategic Emotion Concealment / 情绪不外露的战略纪律"
     url: "/wiki/concepts/strategicemotionconcealment/"
+  - key: "StrategicEnduranceMilitaryCommand"
+    title: "Strategic Endurance Military Command"
+    url: "/wiki/concepts/strategicendurancemilitarycommand/"
   - key: "StrategicFocusUnderIncumbentPressure"
     title: "Strategic Focus Under Incumbent Pressure"
     url: "/wiki/concepts/strategicfocusunderincumbentpressure/"

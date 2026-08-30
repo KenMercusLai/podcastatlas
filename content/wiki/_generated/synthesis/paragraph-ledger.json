@@ -417,13 +417,14 @@
       "0da08e278be0f9698cd22a27d657f9c77e0ffadee5aa5a02f7e114b61da05682",
       "783b85daf8e28c79ebd7838b98cbae32cc3b283841103fa74a279782510e1ecf",
       "2f2ccba72e3ff27853c9c5e7edd9f718fa9dd0a3c9c92731bc7ee6f0b1047bd7",
+      "b2b5ffa7a782b917b85277e5735cccd93b428a604bf09eed2e56f26af253df34",
       "12c2b57062376e50f472c6806ecb08714733b065e8db5d2b809f05f83d802f96",
       "2231d7cf4c1cf8ae29ee2ec0737334356ddcd78d5df4e6b306dab83b98b3febe"
     ],
-    "paragraph_count": 418
+    "paragraph_count": 419
   },
-  "overview_commit": "ce300f9dfd5815092b5f65ed00c4e2aaf34acc67",
-  "overview_digest": "0967117660b103f9d28dc995fb907ad8bf594c6455a4a5626ea95b14ed938454",
+  "overview_commit": "ba3edf2ff2d1ff09ffdb7aba1fb9c5fb3ea8f2e7",
+  "overview_digest": "e4cbd1d0e3facaaf2b15b8eb7b6347244a86c39fc7e6a68ceedb3460008f0616",
   "paragraphs": [
     {
       "id": "57a73bf890b331c40aea6ebc9bacd1f1cecf1e3245795fd642c9aab210273b3d",
@@ -12840,6 +12841,33 @@
         "ThomasHutchinson",
         "TreatyOfParis1783",
         "WilliamFranklin"
+      ]
+    },
+    {
+      "id": "b2b5ffa7a782b917b85277e5735cccd93b428a604bf09eed2e56f26af253df34",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[683-washington-hero-of-the-revolution-part-1-glt3752138067|683. Washington: Hero of the Revolution (Part 1)]], a [[TheRestIsHistory]] episode that backfills the military-command opening of the Founding Fathers sequence before the Franklin, Hamilton, and Jefferson episodes. It adds [[GeorgeWashington]], [[ValleyForge]], [[ContinentalArmy]], [[MarthaWashington]], [[FriedrichWilhelmVonSteuben]], [[MarquisDeLafayette]], [[HoratioGates]], [[StrategicEnduranceMilitaryCommand]], [[ValleyForgeMythLogistics]], [[RepublicanRestraintLeadership]], and [[RevolutionaryMilitarySlaveryContradiction]], while extending [[AmericanRevolution]], [[ContinentalCongress]], [[FrancoAmericanAlliance1778]], and [[TheRestIsHistory]]. Its core synthesis is that Washington's importance lay less in tactical brilliance than in holding together a fragile army, making logistics and disease command problems, performing republican self-command, surviving Valley Forge, and lasting long enough for French intervention to change the war's strategic field. No settled contradiction is recorded; the episode debunks the Valley Forge prayer tableau as later myth while preserving the camp's real military and symbolic force.",
+      "topic_scores": {
+        "history-and-geopolitics": 3
+      },
+      "wikilinks": [
+        "683-washington-hero-of-the-revolution-part-1-glt3752138067",
+        "AmericanRevolution",
+        "ContinentalArmy",
+        "ContinentalCongress",
+        "FrancoAmericanAlliance1778",
+        "FriedrichWilhelmVonSteuben",
+        "GeorgeWashington",
+        "HoratioGates",
+        "MarquisDeLafayette",
+        "MarthaWashington",
+        "RepublicanRestraintLeadership",
+        "RevolutionaryMilitarySlaveryContradiction",
+        "StrategicEnduranceMilitaryCommand",
+        "TheRestIsHistory",
+        "ValleyForge",
+        "ValleyForgeMythLogistics"
       ]
     },
     {

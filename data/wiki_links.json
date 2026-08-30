@@ -1063,6 +1063,10 @@
     "title": "68.疯狂实验史：哎！这该死的求知欲…",
     "url": "/wiki/sources/68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549/"
   },
+  "683-washington-hero-of-the-revolution-part-1-glt3752138067": {
+    "title": "683. Washington: Hero of the Revolution (Part 1)",
+    "url": "/wiki/sources/683-washington-hero-of-the-revolution-part-1-glt3752138067/"
+  },
   "684-franklin-revenge-of-the-american-genius-part-2-glt6013835340": {
     "title": "684. Franklin: Revenge of the American Genius (Part 2)",
     "url": "/wiki/sources/684-franklin-revenge-of-the-american-genius-part-2-glt6013835340/"
@@ -12035,6 +12039,10 @@
     "title": "Context Flywheel",
     "url": "/wiki/concepts/contextflywheel/"
   },
+  "ContinentalArmy": {
+    "title": "Continental Army",
+    "url": "/wiki/entities/continentalarmy/"
+  },
   "ContinentalCongress": {
     "title": "Continental Congress",
     "url": "/wiki/entities/continentalcongress/"
@@ -19675,6 +19683,10 @@
     "title": "Friedrich Nietzsche / 尼采",
     "url": "/wiki/entities/friedrichnietzsche/"
   },
+  "FriedrichWilhelmVonSteuben": {
+    "title": "Friedrich Wilhelm von Steuben",
+    "url": "/wiki/entities/friedrichwilhelmvonsteuben/"
+  },
   "FriendFeed": {
     "title": "FriendFeed",
     "url": "/wiki/entities/friendfeed/"
@@ -20742,6 +20754,10 @@
   "GeorgeWBush": {
     "title": "George W. Bush",
     "url": "/wiki/entities/georgewbush/"
+  },
+  "GeorgeWashington": {
+    "title": "George Washington",
+    "url": "/wiki/entities/georgewashington/"
   },
   "GeorgeWhitman": {
     "title": "George Whitman",
@@ -23674,6 +23690,10 @@
   "HopeIsTheThingWithFeathersBook": {
     "title": "《希望是那长着羽毛的小东西》 / Hope Is the Thing with Feathers",
     "url": "/wiki/entities/hopeisthethingwithfeathersbook/"
+  },
+  "HoratioGates": {
+    "title": "Horatio Gates",
+    "url": "/wiki/entities/horatiogates/"
   },
   "HorikiNoLongerHuman": {
     "title": "堀木 / Horiki",
@@ -32907,6 +32927,10 @@
     "title": "Marks & Co. / 马克斯与科恩书店",
     "url": "/wiki/entities/marksandco/"
   },
+  "MarquisDeLafayette": {
+    "title": "Marquis de Lafayette",
+    "url": "/wiki/entities/marquisdelafayette/"
+  },
   "MarriageAllianceWarExposure": {
     "title": "Marriage Alliance War Exposure / 联姻同盟战场暴露",
     "url": "/wiki/concepts/marriagealliancewarexposure/"
@@ -32942,6 +32966,10 @@
   "MarthaGoddard": {
     "title": "Martha Goddard",
     "url": "/wiki/entities/marthagoddard/"
+  },
+  "MarthaWashington": {
+    "title": "Martha Washington",
+    "url": "/wiki/entities/marthawashington/"
   },
   "MartinHeidegger": {
     "title": "Martin Heidegger / 马丁·海德格尔",
@@ -42871,6 +42899,10 @@
     "title": "Republican People's Party",
     "url": "/wiki/entities/republicanpeoplesparty/"
   },
+  "RepublicanRestraintLeadership": {
+    "title": "Republican Restraint Leadership",
+    "url": "/wiki/concepts/republicanrestraintleadership/"
+  },
   "ReputationConstrainedTalentProtection": {
     "title": "Reputation-Constrained Talent Protection / 名声约束下的人才保护",
     "url": "/wiki/concepts/reputationconstrainedtalentprotection/"
@@ -43198,6 +43230,10 @@
   "RevolutionaryMartyrdomImageMaking": {
     "title": "Revolutionary Martyrdom Image-Making / 革命殉道图像制造",
     "url": "/wiki/concepts/revolutionarymartyrdomimagemaking/"
+  },
+  "RevolutionaryMilitarySlaveryContradiction": {
+    "title": "Revolutionary Military Slavery Contradiction",
+    "url": "/wiki/concepts/revolutionarymilitaryslaverycontradiction/"
   },
   "RevolutionaryTerrorPolitics": {
     "title": "Revolutionary Terror Politics / 革命恐怖政治",
@@ -48219,6 +48255,10 @@
     "title": "Strategic Emotion Concealment / 情绪不外露的战略纪律",
     "url": "/wiki/concepts/strategicemotionconcealment/"
   },
+  "StrategicEnduranceMilitaryCommand": {
+    "title": "Strategic Endurance Military Command",
+    "url": "/wiki/concepts/strategicendurancemilitarycommand/"
+  },
   "StrategicFocusUnderIncumbentPressure": {
     "title": "Strategic Focus Under Incumbent Pressure",
     "url": "/wiki/concepts/strategicfocusunderincumbentpressure/"
@@ -52590,6 +52630,14 @@
   "ValidatedLearning": {
     "title": "Validated Learning",
     "url": "/wiki/concepts/validatedlearning/"
+  },
+  "ValleyForge": {
+    "title": "Valley Forge",
+    "url": "/wiki/entities/valleyforge/"
+  },
+  "ValleyForgeMythLogistics": {
+    "title": "Valley Forge Myth-Logistics",
+    "url": "/wiki/concepts/valleyforgemythlogistics/"
   },
   "ValleyOfTheDolls": {
     "title": "Valley of the Dolls",

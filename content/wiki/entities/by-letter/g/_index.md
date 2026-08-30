@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 8492
+wiki_total_pages: 8499
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -239,6 +239,9 @@ wiki_pages:
   - key: "GeorgeWBush"
     title: "George W. Bush"
     url: "/wiki/entities/georgewbush/"
+  - key: "GeorgeWashington"
+    title: "George Washington"
+    url: "/wiki/entities/georgewashington/"
   - key: "GeorgeWhitman"
     title: "George Whitman"
     url: "/wiki/entities/georgewhitman/"

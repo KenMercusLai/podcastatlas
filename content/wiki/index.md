@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [683. Washington: Hero of the Revolution (Part 1)](sources/683-washington-hero-of-the-revolution-part-1-glt3752138067.md) — The Rest Is History episode on George Washington, Valley Forge, Continental Army endurance, French alliance, Black soldiers, and republican self-command.
 - [《资治通鉴·汉纪》752丨失去靠山的人该如何处世？](sources/zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297.md) — 芮淇讲透资治通鉴 episode on Liang Guiren's family being destroyed by Dou jealousy, the Ma family's lost-patronage overexposure after Empress Ma, Dou Xian's Qinshui Princess estate seizure and non-punishment, and Zhou Yu's risky Luoyang enforcement against protected relatives.
 - [《资治通鉴·汉纪》753丨班超被告黑状](sources/zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv.md) — 芮淇讲透资治通鉴 episode on Li Yi's slander against Ban Chao, Emperor Zhang's evidence-based trust judgment, Ban Chao's non-retaliation, Zheng Hong's Jiaozhi route and tribute relief, Wei Biao's office-fit advice, interrogation limits, southern-tour burden restraint, and Zhu Hui's salt/junshu remonstrance.
 - [《资治通鉴·汉纪》754丨古代版窃听风云，结局爽文](sources/zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2.md) — 芮淇讲透资治通鉴 episode on Kong Xi and Cui Yin's accused Taixue speech, Emperor Zhang's tolerance, Mao Yi and Zheng Jun's integrity stories, Xiongnu trade conflict, and Ban Chao's Shule counter-defection.
@@ -1760,6 +1761,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [George Washington](entities/GeorgeWashington.md) — Revolutionary commander whose endurance strategy, Valley Forge administration, public dignity, and slavery contradiction anchor the Washington episode.
+- [Valley Forge](entities/ValleyForge.md) — 1777-1778 winter encampment where Continental Army hardship, disease, supply failure, training reform, and patriotic memory converge.
+- [Continental Army](entities/ContinentalArmy.md) — Revolutionary army Washington had to preserve, supply, discipline, inoculate, and professionalize during the American Revolution.
+- [Martha Washington](entities/MarthaWashington.md) — Valley Forge camp participant linking Washington's household support, women's camp labor, and enslaved attendants from Mount Vernon.
+- [Friedrich Wilhelm von Steuben](entities/FriedrichWilhelmVonSteuben.md) — European trainer whose Valley Forge drills and sanitation reforms helped professionalize the Continental Army.
+- [Marquis de Lafayette](entities/MarquisDeLafayette.md) — Young French volunteer close to Washington and tied to the personal Franco-American layer of the Revolution.
+- [Horatio Gates](entities/HoratioGates.md) — Rival commander figure around whom a winter movement to replace Washington briefly formed.
 - [明德马皇后 / Empress Ma (Mingde, Eastern Han)](entities/EmpressMaMingdeEasternHan.md) — Posthumous Ma-family protection anchor whose death turns inherited outer-relative status into lost-patronage risk.
 - [马廖 / Ma Liao (Eastern Han)](entities/MaLiaoEasternHan.md) — Cautious Ma-family senior whose failure to discipline younger relatives lets household luxury and guests become political liability.
 - [马氏 / Ma family (Zhang-era Eastern Han)](entities/MaFamilyZhangEraEasternHan.md) — Formerly protected in-law household whose mansions, guests, horses, and Qiang-Hu exactions become dangerous after Empress Ma's death.
@@ -1817,9 +1825,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [David Hume](entities/DavidHume.md) — Scottish Enlightenment figure whose praise marks Franklin's European intellectual reputation.
 - [George III](entities/GeorgeIII.md) — British monarch Franklin admired before turning against British rule.
 - [John Adams](entities/JohnAdams.md) — Founding-era foil whose criticism of Franklin's French social diplomacy clarifies Franklin's effectiveness.
-- [Continental Congress](entities/ContinentalCongress.md) — Revolutionary institution where Franklin served as delegate and Declaration committee member.
-- [American Revolution](entities/AmericanRevolution.md) — Colonial break with Britain presented through Franklin's loyalty rupture, founding work, and French diplomacy.
-- [Franco-American Alliance of 1778](entities/FrancoAmericanAlliance1778.md) — French military and financial support relationship that Franklin's mission helped secure.
+- [Continental Congress](entities/ContinentalCongress.md) — Revolutionary institution where Franklin served as delegate and Declaration committee member and Washington was selected for command.
+- [American Revolution](entities/AmericanRevolution.md) — Colonial break with Britain presented through Franklin's diplomacy and Washington's military endurance at Valley Forge.
+- [Franco-American Alliance of 1778](entities/FrancoAmericanAlliance1778.md) — French military and financial support relationship that Franklin secured and Washington's army benefited from after Valley Forge.
 - [Treaty of Paris (1783)](entities/TreatyOfParis1783.md) — Peace treaty with Britain recognizing American independence and completing Franklin's diplomatic sequence.
 - [曹褒 / Cao Bao (Eastern Han ritualist)](entities/CaoBaoEasternHan.md) — Eastern Han ritual specialist whose Han-rites project moves from Zhangdi's single-compiler commission to completion, use, and later abandonment.
 - [梁王刘畅 / Liu Chang (King of Liang)](entities/LiuChangLiangKing.md) — Eastern Han prince whose retainer's emperor-making speech triggered a limited territorial penalty and a usurpation-taboo case.
@@ -3138,7 +3146,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sydney](entities/Sydney.md) — Australian city used as the source's beach/outdoor lifestyle and drone lifeguard case.
 - [CyberCab](entities/CyberCab.md) — Tesla dedicated robotaxi vehicle in the source's Austin rollout discussion.
 - [Gansu / 甘肃](entities/Gansu.md) — Landing setting for LandSpace's Zhuque-3 Yao-2 first-stage recovery in the source.
-- [The Rest Is History](entities/TheRestIsHistory.md) — History podcast anchoring selected Elizabethan, Troubles, Mayerling/Habsburg, and two-part Odyssey narrative branches.
+- [The Rest Is History](entities/TheRestIsHistory.md) — History podcast anchoring selected Founding Fathers, Elizabethan, Troubles, Mayerling/Habsburg, and two-part Odyssey narrative branches.
 - [The Troubles](entities/TheTroubles.md) — Northern Ireland conflict branch framed through partition, institutional discrimination, loyalist violence, civil-rights protest, and street-war escalation.
 - [Northern Ireland](entities/NorthernIreland.md) — UK region where partition, Catholic grievances, unionist fear, policing legitimacy, and Westminster intervention converge in the sources.
 - [Edward Carson](entities/EdwardCarson.md) — Unionist leader whose 1912 covenant and volunteers supply an armed-precedent memory in the Part 1 source.
@@ -10256,6 +10264,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Strategic Endurance Military Command](concepts/StrategicEnduranceMilitaryCommand.md) — Weaker-side command pattern where army survival, legitimacy, logistics, and enemy exhaustion matter more than frequent tactical victories.
+- [Valley Forge Myth-Logistics](concepts/ValleyForgeMythLogistics.md) — Contrast between patriotic Valley Forge memory and the camp's concrete supply, health, sanitation, discipline, and training crisis.
+- [Republican Restraint Leadership](concepts/RepublicanRestraintLeadership.md) — Leadership pattern where self-command, dignity, symbolic restraint, and giving up power create republican legitimacy.
+- [Revolutionary Military Slavery Contradiction](concepts/RevolutionaryMilitarySlaveryContradiction.md) — Tension between Black military service for revolutionary liberty and the continued slaveholding of revolutionary leaders and households.
 - [Behavioral Evidence Loyalty Judgment / 以行动证忠](concepts/BehavioralEvidenceLoyaltyJudgment.md) — Zhangdi-era judgment pattern where troop behavior and operational following are treated as stronger evidence than a slanderer's motive claim.
 - [Office Fit Over Rote Cleverness / 任职才具重于应对小慧](concepts/OfficeFitOverRoteCleverness.md) — Personnel-selection pattern from Wei Biao's warning that legal familiarity and quick answers do not prove capacity for high confidential office.
 - [Interrogation Torture Constraint / 审讯刑具约束](concepts/InterrogationTortureConstraint.md) — Legal-restraint pattern where interrogation tools and timing are bounded to prevent punitive cruelty from replacing adjudication.
