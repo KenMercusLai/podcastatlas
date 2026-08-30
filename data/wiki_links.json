@@ -1379,6 +1379,10 @@
     "title": "AI Adoption Baseline Measurement",
     "url": "/wiki/concepts/aiadoptionbaselinemeasurement/"
   },
+  "AIAdoptionBehavioralSignals": {
+    "title": "AI Adoption Behavioral Signals",
+    "url": "/wiki/concepts/aiadoptionbehavioralsignals/"
+  },
   "AIAdvertisingTargeting": {
     "title": "AI Advertising Targeting",
     "url": "/wiki/concepts/aiadvertisingtargeting/"
@@ -2138,6 +2142,10 @@
   "AIOutputTrainingSymmetry": {
     "title": "AI Output Training Symmetry",
     "url": "/wiki/concepts/aioutputtrainingsymmetry/"
+  },
+  "AIOverwriteRate": {
+    "title": "AI Overwrite Rate",
+    "url": "/wiki/concepts/aioverwriterate/"
   },
   "AIPCMemoryDemand": {
     "title": "AI PC Memory Demand",
@@ -11383,6 +11391,10 @@
     "title": "Cognitive Dissonance And Accommodation / 认知失调与顺应",
     "url": "/wiki/concepts/cognitivedissonanceandaccommodation/"
   },
+  "CognitiveDiversityAIAdoption": {
+    "title": "Cognitive Diversity in AI Adoption",
+    "url": "/wiki/concepts/cognitivediversityaiadoption/"
+  },
   "CognitiveInertia": {
     "title": "Cognitive Inertia / 认知惰性",
     "url": "/wiki/concepts/cognitiveinertia/"
@@ -13610,6 +13622,10 @@
   "DataPricingInAI": {
     "title": "Data Pricing In AI",
     "url": "/wiki/concepts/datapricinginai/"
+  },
+  "DataReady": {
+    "title": "Data Ready",
+    "url": "/wiki/entities/dataready/"
   },
   "DataRecipeCoCreation": {
     "title": "Data Recipe Co-Creation",
@@ -21699,6 +21715,10 @@
     "title": "Groq",
     "url": "/wiki/entities/groq/"
   },
+  "GroundTruthNewsletter": {
+    "title": "Ground Truth Newsletter",
+    "url": "/wiki/entities/groundtruthnewsletter/"
+  },
   "GroupBoundaryLanguage": {
     "title": "Group-Boundary Language / 群体边界语言",
     "url": "/wiki/concepts/groupboundarylanguage/"
@@ -25498,6 +25518,10 @@
   "InstitutionalSpeechPunishment": {
     "title": "Institutional Speech Punishment",
     "url": "/wiki/concepts/institutionalspeechpunishment/"
+  },
+  "InstitutionalTrustAIAdoption": {
+    "title": "Institutional Trust in AI Adoption",
+    "url": "/wiki/concepts/institutionaltrustaiadoption/"
   },
   "InstitutionalizedSmallFreedom": {
     "title": "Institutionalized Small Freedom",
@@ -38055,6 +38079,10 @@
     "title": "Outrank",
     "url": "/wiki/entities/outrank/"
   },
+  "OutsiderExperienceDiagnosticSkill": {
+    "title": "Outsider Experience as Diagnostic Skill",
+    "url": "/wiki/concepts/outsiderexperiencediagnosticskill/"
+  },
   "OutsiderTalentSignaling": {
     "title": "Outsider Talent Signaling / 厚待外来人才信号",
     "url": "/wiki/concepts/outsidertalentsignaling/"
@@ -42190,6 +42218,10 @@
   "QuickStone": {
     "title": "QuickStone",
     "url": "/wiki/entities/quickstone/"
+  },
+  "QuietAIAdoptionDeparture": {
+    "title": "Quiet AI Adoption Departure",
+    "url": "/wiki/concepts/quietaiadoptiondeparture/"
   },
   "QuizParty": {
     "title": "QuizParty",
@@ -48911,6 +48943,10 @@
     "title": "Sukhothai Kingdom / 苏可泰王朝",
     "url": "/wiki/entities/sukhothaikingdom/"
   },
+  "SumayyaShravani": {
+    "title": "Sumayya Shravani",
+    "url": "/wiki/entities/sumayyashravani/"
+  },
   "SumitomoCorporation": {
     "title": "Sumitomo Corporation / 住友商事",
     "url": "/wiki/entities/sumitomocorporation/"
@@ -52650,6 +52686,10 @@
   "UniversityOfCambridge": {
     "title": "University of Cambridge",
     "url": "/wiki/entities/universityofcambridge/"
+  },
+  "UniversityOfColoradoDenver": {
+    "title": "University of Colorado Denver",
+    "url": "/wiki/entities/universityofcoloradodenver/"
   },
   "UniversityOfIllinoisUrbanaChampaign": {
     "title": "University of Illinois Urbana-Champaign",
@@ -60522,6 +60562,10 @@
   "ep-4-a-i-talk-with-a-rocket-scientist-from-nasa": {
     "title": "EP 4: A.I. talk with a Rocket Scientist from NASA",
     "url": "/wiki/sources/ep-4-a-i-talk-with-a-rocket-scientist-from-nasa/"
+  },
+  "ep-43-the-outsiders-advantage-how-diverse-perspectives-unlock-enterprise-ai-success": {
+    "title": "EP 43: The Outsider's Advantage: How Diverse Perspectives Unlock Enterprise AI Success",
+    "url": "/wiki/sources/ep-43-the-outsiders-advantage-how-diverse-perspectives-unlock-enterprise-ai-success/"
   },
   "ep-44-human-centered-credit-building-explainable-ai-for-lending-in-an-agentic-world": {
     "title": "EP 44: Human-Centered Credit - Building Explainable AI for Lending in an Agentic World",

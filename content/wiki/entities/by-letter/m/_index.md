@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 8535
+wiki_total_pages: 8539
 wiki_pages:
   - key: "MStand"
     title: "M Stand"

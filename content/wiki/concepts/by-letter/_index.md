@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6084
+wiki_total_pages: 6090
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -422,6 +422,9 @@ wiki_pages:
   - key: "AIAdoptionBaselineMeasurement"
     title: "AI Adoption Baseline Measurement"
     url: "/wiki/concepts/aiadoptionbaselinemeasurement/"
+  - key: "AIAdoptionBehavioralSignals"
+    title: "AI Adoption Behavioral Signals"
+    url: "/wiki/concepts/aiadoptionbehavioralsignals/"
   - key: "AIAdvertisingTargeting"
     title: "AI Advertising Targeting"
     url: "/wiki/concepts/aiadvertisingtargeting/"
@@ -929,6 +932,9 @@ wiki_pages:
   - key: "AIOutputTrainingSymmetry"
     title: "AI Output Training Symmetry"
     url: "/wiki/concepts/aioutputtrainingsymmetry/"
+  - key: "AIOverwriteRate"
+    title: "AI Overwrite Rate"
+    url: "/wiki/concepts/aioverwriterate/"
   - key: "AIParentingAdvice"
     title: "AI Parenting Advice"
     url: "/wiki/concepts/aiparentingadvice/"

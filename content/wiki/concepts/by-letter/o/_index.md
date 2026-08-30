@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 6084
+wiki_total_pages: 6090
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -482,6 +482,9 @@ wiki_pages:
   - key: "OutrageTriggeredSkepticism"
     title: "Outrage-Triggered Skepticism"
     url: "/wiki/concepts/outragetriggeredskepticism/"
+  - key: "OutsiderExperienceDiagnosticSkill"
+    title: "Outsider Experience as Diagnostic Skill"
+    url: "/wiki/concepts/outsiderexperiencediagnosticskill/"
   - key: "OutsiderTalentSignaling"
     title: "Outsider Talent Signaling / 厚待外来人才信号"
     url: "/wiki/concepts/outsidertalentsignaling/"

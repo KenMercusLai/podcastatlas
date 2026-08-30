@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP 43: The Outsider's Advantage: How Diverse Perspectives Unlock Enterprise AI Success](sources/ep-43-the-outsiders-advantage-how-diverse-perspectives-unlock-enterprise-ai-success.md) — Data Science With Sam episode with Sumayya Shravani on institutional trust, outsider diagnostic skill, cognitive diversity, and behavior-based enterprise AI adoption signals.
 - [《资治通鉴·汉纪》737丨皇后谥号制度第一人，刘秀老婆不简单！](sources/zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2.md) — 芮淇讲透资治通鉴 episode on Yin Lihua's 光烈 title, Mingdi's Northern Xiongnu trade and Zheng Zhong diplomacy, Zong Jun's local-governance capacity critique, Duliaoying creation, Liu Ying's early Buddhist/Huang-Lao layer, White Horse Temple, and eclipse self-criticism.
 - [《资治通鉴·汉纪》738丨他拼死保全大汉气节，为何惨遭蒙冤？](sources/zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu.md) — 芮淇讲透资治通鉴 episode on Zheng Zhong's Northern Xiongnu envoy refusal, Mingdi's official evaluation and classics education, Liu Jing's royal-kin treason case, and Ding Hong's title-succession duty.
 - [《资治通鉴·汉纪》739丨坐拥天下美女的皇帝，其实也会孤独](sources/zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl.md) — 芮淇讲透资治通鉴 episode on Mingdi's affectionate separation from Liu Cang, Ailao submission, Wang Jing's Bianqu/Huanghe works, and the opening Liu Ying case.
@@ -1779,6 +1780,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Sumayya Shravani](entities/SumayyaShravani.md) — Data Science With Sam guest connecting enterprise AI adoption to institutional trust, outsider experience, cognitive diversity, and behavior-based measurement.
+- [Data Ready](entities/DataReady.md) — Source-scoped four-agent AI readiness system built by Sumayya Shravani to audit semantic layers, documentation, model quality, and governance posture.
+- [University of Colorado Denver](entities/UniversityOfColoradoDenver.md) — Source-scoped institutional setting for Sumayya Shravani's data infrastructure and analytics environment work.
+- [Ground Truth Newsletter](entities/GroundTruthNewsletter.md) — Sumayya Shravani's source-mentioned weekly newsletter on AI tool teardowns in real enterprise workflows.
 - [宗均 / Zong Jun (Eastern Han)](entities/ZongJunEasternHan.md) — Eastern Han official whose Jiujiang root-cause governance and shangshu ling advice separate literary or clean reputation from actual governing capacity.
 - [都辽营 / Duliao Camp (Eastern Han)](entities/DuliaoCampEasternHan.md) — Mingdi-era frontier camp created at Wuyuan after Zheng Zhong detects Southern/Northern Xiongnu collusion risk.
 - [虚骨都侯 / Xugu Duhou (Southern Xiongnu)](entities/XuguDuhouSouthernXiongnu.md) — Source-scoped Southern Xiongnu actor whose attempt to seek Northern Xiongnu help triggers Duliaoying creation.
@@ -10318,6 +10323,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Institutional Trust in AI Adoption](concepts/InstitutionalTrustAIAdoption.md) — Enterprise AI adoption condition where users trust the organization enough to change daily work around a tool.
+- [Outsider Experience as Diagnostic Skill](concepts/OutsiderExperienceDiagnosticSkill.md) — Adoption-design concept that people who learned systems from the outside can notice hidden rules, power structures, and workflow barriers insiders miss.
+- [Cognitive Diversity in AI Adoption](concepts/CognitiveDiversityAIAdoption.md) — Practice of including varied problem frames before AI rollout metrics and definitions of success harden.
+- [AI Adoption Behavioral Signals](concepts/AIAdoptionBehavioralSignals.md) — Workflow-level evidence such as overwrite rate and quiet departure that shows whether AI is changing real work.
+- [Quiet AI Adoption Departure](concepts/QuietAIAdoptionDeparture.md) — Pattern where users try an AI tool and silently stop using it, making non-return a readiness signal.
+- [AI Overwrite Rate](concepts/AIOverwriteRate.md) — Frequency with which users reject or replace AI suggestions, used as diagnostic adoption evidence.
 - [皇后谥号制度 / Imperial Consort Posthumous Title System](concepts/ImperialConsortPosthumousTitleSystem.md) — Dynastic ritual practice where an empress's posthumous title joins personal evaluation to imperial memory and ancestral hierarchy.
 - [清官能吏能力差 / Clean Official Capacity Gap](concepts/CleanOfficialCapacityGap.md) — Governance problem where literary polish or clean reputation is insufficient without practical disorder-handling capacity.
 - [早期中国佛教宫廷传播 / Early Chinese Buddhism Court Transmission](concepts/EarlyChineseBuddhismCourtTransmission.md) — Pattern where Buddhist foreign contact, elite practice, imperial dream, envoy mission, scriptures, monks, and temple institution become court-legible transmission.

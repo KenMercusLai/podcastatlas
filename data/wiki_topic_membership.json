@@ -2162,6 +2162,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "AIAdoptionBehavioralSignals": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AIAdvertisingTargeting": [
     {
       "key": "technology",
@@ -3823,6 +3830,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "AIOverwriteRate": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "AIPCMemoryDemand": [
@@ -14303,6 +14317,13 @@
       "url": "/topics/science/"
     }
   ],
+  "CognitiveDiversityAIAdoption": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "CognitiveInertia": [
     {
       "key": "science",
@@ -16972,6 +16993,18 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "DataReady": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "DataRecipeCoCreation": [
@@ -26147,6 +26180,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "GroundTruthNewsletter": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "GroupPolarization": [
     {
       "key": "science",
@@ -30363,6 +30403,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "InstitutionalTrustAIAdoption": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "InstitutionalizedSmallFreedom": [
@@ -43401,6 +43448,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "OutsiderExperienceDiagnosticSkill": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "OutsiderTalentSignaling": [
     {
       "key": "history",
@@ -48335,6 +48389,13 @@
     }
   ],
   "QuickStone": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "QuietAIAdoptionDeparture": [
     {
       "key": "technology",
       "label": "Technology",
@@ -56290,6 +56351,13 @@
       "url": "/topics/history/"
     }
   ],
+  "SumayyaShravani": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "SummerFoundersProgram": [
     {
       "key": "economics",
@@ -61009,6 +61077,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "UniversityOfColoradoDenver": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "UniversityOfIllinoisUrbanaChampaign": [
@@ -68700,6 +68775,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "ep-43-the-outsiders-advantage-how-diverse-perspectives-unlock-enterprise-ai-success": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "ep-45-why-ai-agents-break-in-production-the-missing-harness-in-your-data-stack": [

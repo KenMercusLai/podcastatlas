@@ -431,12 +431,13 @@
       "2f2ccba72e3ff27853c9c5e7edd9f718fa9dd0a3c9c92731bc7ee6f0b1047bd7",
       "b2b5ffa7a782b917b85277e5735cccd93b428a604bf09eed2e56f26af253df34",
       "12c2b57062376e50f472c6806ecb08714733b065e8db5d2b809f05f83d802f96",
-      "2231d7cf4c1cf8ae29ee2ec0737334356ddcd78d5df4e6b306dab83b98b3febe"
+      "2231d7cf4c1cf8ae29ee2ec0737334356ddcd78d5df4e6b306dab83b98b3febe",
+      "258d3cecfd602d249de03f40e3adf3020a02e0483ced5147541e8a3c20c1b13b"
     ],
-    "paragraph_count": 431
+    "paragraph_count": 432
   },
-  "overview_commit": "9184f33b73193e49233a83b3c6950f6199f19e29",
-  "overview_digest": "5f15c2baac6297c0429b250ada6ff0e9c068a08c3e341118a696523f01cb7879",
+  "overview_commit": "44d1a91549d1c3e2882d2d07a0e7dfd86f429d73",
+  "overview_digest": "17191d973b1a43270985bbbaf98c41ddc06b8875b5ef45a34d217ff289a2758b",
   "paragraphs": [
     {
       "id": "8be53566663fad3f26d174e4a6007a033013b7878700639aad6d620a0d2d52c6",
@@ -13290,6 +13291,43 @@
         "MovementPracticeAsAwareness",
         "WillExposurePractice",
         "movement-practice-to-strengthen-your-mind-body-connection-ido-portal-scim2496765743"
+      ]
+    },
+    {
+      "id": "258d3cecfd602d249de03f40e3adf3020a02e0483ced5147541e8a3c20c1b13b",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "work-education-and-society",
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[ep-43-the-outsiders-advantage-how-diverse-perspectives-unlock-enterprise-ai-success|EP 43: The Outsider's Advantage: How Diverse Perspectives Unlock Enterprise AI Success]], a [[DataScienceWithSam]] episode with [[SumayyaShravani]] on enterprise AI adoption as trust-backed behavior change rather than deployment activity. It adds [[SumayyaShravani]], [[DataReady]], [[UniversityOfColoradoDenver]], [[GroundTruthNewsletter]], [[InstitutionalTrustAIAdoption]], [[OutsiderExperienceDiagnosticSkill]], [[CognitiveDiversityAIAdoption]], [[AIAdoptionBehavioralSignals]], [[QuietAIAdoptionDeparture]], and [[AIOverwriteRate]], while extending [[EnterpriseAIPilotPurgatory]], [[WorkplaceAIReadinessGap]], [[BusinessLedAITransformation]], [[AIAdoptionBaselineMeasurement]], [[AIDataReadiness]], and [[ModelWorkflowFit]]. Its core synthesis is that enterprise AI readiness includes whether users trust the institution enough to change work, whether outsiders and frontline users help define success before metrics harden, and whether adoption teams examine overwrites and quiet departures instead of treating rollout as success. No settled contradiction is recorded; McKinsey and Harvard Business Review figures, Data Ready architecture, and newsletter details remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 2,
+        "business-and-markets": 1,
+        "governance-and-institutions": 1,
+        "psychology-and-personal-development": 2,
+        "science-health-and-climate": 1,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "AIAdoptionBaselineMeasurement",
+        "AIAdoptionBehavioralSignals",
+        "AIDataReadiness",
+        "AIOverwriteRate",
+        "BusinessLedAITransformation",
+        "CognitiveDiversityAIAdoption",
+        "DataReady",
+        "DataScienceWithSam",
+        "EnterpriseAIPilotPurgatory",
+        "GroundTruthNewsletter",
+        "InstitutionalTrustAIAdoption",
+        "ModelWorkflowFit",
+        "OutsiderExperienceDiagnosticSkill",
+        "QuietAIAdoptionDeparture",
+        "SumayyaShravani",
+        "UniversityOfColoradoDenver",
+        "WorkplaceAIReadinessGap",
+        "ep-43-the-outsiders-advantage-how-diverse-perspectives-unlock-enterprise-ai-success"
       ]
     }
   ],

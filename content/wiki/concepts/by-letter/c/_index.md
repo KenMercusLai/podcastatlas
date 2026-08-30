@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6084
+wiki_total_pages: 6090
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -905,6 +905,9 @@ wiki_pages:
   - key: "CognitiveDissonanceAndAccommodation"
     title: "Cognitive Dissonance And Accommodation / 认知失调与顺应"
     url: "/wiki/concepts/cognitivedissonanceandaccommodation/"
+  - key: "CognitiveDiversityAIAdoption"
+    title: "Cognitive Diversity in AI Adoption"
+    url: "/wiki/concepts/cognitivediversityaiadoption/"
   - key: "CognitiveInertia"
     title: "Cognitive Inertia / 认知惰性"
     url: "/wiki/concepts/cognitiveinertia/"

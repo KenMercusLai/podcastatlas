@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 8535
+wiki_total_pages: 8539
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -179,6 +179,9 @@ wiki_pages:
   - key: "Dashengkui"
     title: "Dashengkui / 大盛魁"
     url: "/wiki/entities/dashengkui/"
+  - key: "DataReady"
+    title: "Data Ready"
+    url: "/wiki/entities/dataready/"
   - key: "DataScienceWithSam"
     title: "Data Science With Sam"
     url: "/wiki/entities/datasciencewithsam/"

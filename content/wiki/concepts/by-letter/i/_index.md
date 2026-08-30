@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 6084
+wiki_total_pages: 6090
 wiki_pages:
   - key: "ICEWorkforceExpansion"
     title: "ICE Workforce Expansion"
@@ -386,6 +386,9 @@ wiki_pages:
   - key: "InstitutionalSpeechPunishment"
     title: "Institutional Speech Punishment"
     url: "/wiki/concepts/institutionalspeechpunishment/"
+  - key: "InstitutionalTrustAIAdoption"
+    title: "Institutional Trust in AI Adoption"
+    url: "/wiki/concepts/institutionaltrustaiadoption/"
   - key: "InstitutionalizedSmallFreedom"
     title: "Institutionalized Small Freedom"
     url: "/wiki/concepts/institutionalizedsmallfreedom/"

@@ -201,6 +201,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/aiaccesstojustice/"
     },
+    "AIAdoptionBehavioralSignals": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "DB592327B53E82CF22F1878CE4F02EB6~8584399_2026-08-10-213439-8787-0-0-10.128 [DB592327B53E82CF22F1878CE4F02EB6~8584399_2026-08-10-213439-8787-0-0-10.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a83ab1a].md",
+          "key": "ep-43-the-outsiders-advantage-how-diverse-perspectives-unlock-enterprise-ai-success",
+          "show": "Data Science With Sam",
+          "title": "EP 43: The Outsider's Advantage: How Diverse Perspectives Unlock Enterprise AI Success",
+          "url": "/wiki/sources/ep-43-the-outsiders-advantage-how-diverse-perspectives-unlock-enterprise-ai-success/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/aiadoptionbehavioralsignals/"
+    },
     "AIAdvertisingTargeting": {
       "episode_count": 3,
       "show_count": 1,
@@ -1181,6 +1197,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/aioutputtrainingsymmetry/"
+    },
+    "AIOverwriteRate": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "DB592327B53E82CF22F1878CE4F02EB6~8584399_2026-08-10-213439-8787-0-0-10.128 [DB592327B53E82CF22F1878CE4F02EB6~8584399_2026-08-10-213439-8787-0-0-10.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a83ab1a].md",
+          "key": "ep-43-the-outsiders-advantage-how-diverse-perspectives-unlock-enterprise-ai-success",
+          "show": "Data Science With Sam",
+          "title": "EP 43: The Outsider's Advantage: How Diverse Perspectives Unlock Enterprise AI Success",
+          "url": "/wiki/sources/ep-43-the-outsiders-advantage-how-diverse-perspectives-unlock-enterprise-ai-success/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/aioverwriterate/"
     },
     "AIProfessionalDataSecurity": {
       "episode_count": 3,
@@ -6935,6 +6967,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/cognitiveaging/"
     },
+    "CognitiveDiversityAIAdoption": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "DB592327B53E82CF22F1878CE4F02EB6~8584399_2026-08-10-213439-8787-0-0-10.128 [DB592327B53E82CF22F1878CE4F02EB6~8584399_2026-08-10-213439-8787-0-0-10.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a83ab1a].md",
+          "key": "ep-43-the-outsiders-advantage-how-diverse-perspectives-unlock-enterprise-ai-success",
+          "show": "Data Science With Sam",
+          "title": "EP 43: The Outsider's Advantage: How Diverse Perspectives Unlock Enterprise AI Success",
+          "url": "/wiki/sources/ep-43-the-outsiders-advantage-how-diverse-perspectives-unlock-enterprise-ai-success/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/cognitivediversityaiadoption/"
+    },
     "CognitiveReappraisalEarlyIntervention": {
       "episode_count": 1,
       "show_count": 1,
@@ -8494,6 +8542,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/datafoundationfirstaistrategy/"
+    },
+    "DataReady": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "DB592327B53E82CF22F1878CE4F02EB6~8584399_2026-08-10-213439-8787-0-0-10.128 [DB592327B53E82CF22F1878CE4F02EB6~8584399_2026-08-10-213439-8787-0-0-10.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a83ab1a].md",
+          "key": "ep-43-the-outsiders-advantage-how-diverse-perspectives-unlock-enterprise-ai-success",
+          "show": "Data Science With Sam",
+          "title": "EP 43: The Outsider's Advantage: How Diverse Perspectives Unlock Enterprise AI Success",
+          "url": "/wiki/sources/ep-43-the-outsiders-advantage-how-diverse-perspectives-unlock-enterprise-ai-success/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/dataready/"
     },
     "DataSovereignty": {
       "episode_count": 2,
@@ -12513,9 +12577,9 @@
       "url": "/wiki/concepts/energyabundanceclimatestrategy/"
     },
     "EnterpriseAIPilotPurgatory": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 3,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "AHARO4500147412 [AHARO4500147412].md",
@@ -12551,9 +12615,16 @@
           "show": "Data Science With Sam",
           "title": "EP 46: Fix the Foundation First: Why Your Data Strategy Is Failing Before the AI Gets Involved",
           "url": "/wiki/sources/ep-46-fix-the-foundation-first-why-your-data-strategy-is-failing-before-the-ai-gets-involved/"
+        },
+        {
+          "episode_file": "DB592327B53E82CF22F1878CE4F02EB6~8584399_2026-08-10-213439-8787-0-0-10.128 [DB592327B53E82CF22F1878CE4F02EB6~8584399_2026-08-10-213439-8787-0-0-10.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a83ab1a].md",
+          "key": "ep-43-the-outsiders-advantage-how-diverse-perspectives-unlock-enterprise-ai-success",
+          "show": "Data Science With Sam",
+          "title": "EP 43: The Outsider's Advantage: How Diverse Perspectives Unlock Enterprise AI Success",
+          "url": "/wiki/sources/ep-43-the-outsiders-advantage-how-diverse-perspectives-unlock-enterprise-ai-success/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-31",
       "url": "/wiki/concepts/enterpriseaipilotpurgatory/"
     },
     "EnterpriseAIROIAudit": {
@@ -15840,6 +15911,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/grokbot/"
+    },
+    "GroundTruthNewsletter": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "DB592327B53E82CF22F1878CE4F02EB6~8584399_2026-08-10-213439-8787-0-0-10.128 [DB592327B53E82CF22F1878CE4F02EB6~8584399_2026-08-10-213439-8787-0-0-10.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a83ab1a].md",
+          "key": "ep-43-the-outsiders-advantage-how-diverse-perspectives-unlock-enterprise-ai-success",
+          "show": "Data Science With Sam",
+          "title": "EP 43: The Outsider's Advantage: How Diverse Perspectives Unlock Enterprise AI Success",
+          "url": "/wiki/sources/ep-43-the-outsiders-advantage-how-diverse-perspectives-unlock-enterprise-ai-success/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/groundtruthnewsletter/"
     },
     "GuanBaLateHan": {
       "episode_count": 3,
@@ -19270,6 +19357,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/institutionalpolicypluralism/"
+    },
+    "InstitutionalTrustAIAdoption": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "DB592327B53E82CF22F1878CE4F02EB6~8584399_2026-08-10-213439-8787-0-0-10.128 [DB592327B53E82CF22F1878CE4F02EB6~8584399_2026-08-10-213439-8787-0-0-10.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a83ab1a].md",
+          "key": "ep-43-the-outsiders-advantage-how-diverse-perspectives-unlock-enterprise-ai-success",
+          "show": "Data Science With Sam",
+          "title": "EP 43: The Outsider's Advantage: How Diverse Perspectives Unlock Enterprise AI Success",
+          "url": "/wiki/sources/ep-43-the-outsiders-advantage-how-diverse-perspectives-unlock-enterprise-ai-success/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/institutionaltrustaiadoption/"
     },
     "InstrumentalizedReligiousPower": {
       "episode_count": 3,
@@ -29149,6 +29252,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/outerroundinnersquareconduct/"
     },
+    "OutsiderExperienceDiagnosticSkill": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "DB592327B53E82CF22F1878CE4F02EB6~8584399_2026-08-10-213439-8787-0-0-10.128 [DB592327B53E82CF22F1878CE4F02EB6~8584399_2026-08-10-213439-8787-0-0-10.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a83ab1a].md",
+          "key": "ep-43-the-outsiders-advantage-how-diverse-perspectives-unlock-enterprise-ai-success",
+          "show": "Data Science With Sam",
+          "title": "EP 43: The Outsider's Advantage: How Diverse Perspectives Unlock Enterprise AI Success",
+          "url": "/wiki/sources/ep-43-the-outsiders-advantage-how-diverse-perspectives-unlock-enterprise-ai-success/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/outsiderexperiencediagnosticskill/"
+    },
     "OverextendedFrontierExpedition": {
       "episode_count": 2,
       "show_count": 1,
@@ -31803,6 +31922,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/quantilebalancing/"
+    },
+    "QuietAIAdoptionDeparture": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "DB592327B53E82CF22F1878CE4F02EB6~8584399_2026-08-10-213439-8787-0-0-10.128 [DB592327B53E82CF22F1878CE4F02EB6~8584399_2026-08-10-213439-8787-0-0-10.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a83ab1a].md",
+          "key": "ep-43-the-outsiders-advantage-how-diverse-perspectives-unlock-enterprise-ai-success",
+          "show": "Data Science With Sam",
+          "title": "EP 43: The Outsider's Advantage: How Diverse Perspectives Unlock Enterprise AI Success",
+          "url": "/wiki/sources/ep-43-the-outsiders-advantage-how-diverse-perspectives-unlock-enterprise-ai-success/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/quietaiadoptiondeparture/"
     },
     "RP1Robot": {
       "episode_count": 1,
@@ -36354,6 +36489,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/suitorsofpenelope/"
     },
+    "SumayyaShravani": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "DB592327B53E82CF22F1878CE4F02EB6~8584399_2026-08-10-213439-8787-0-0-10.128 [DB592327B53E82CF22F1878CE4F02EB6~8584399_2026-08-10-213439-8787-0-0-10.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a83ab1a].md",
+          "key": "ep-43-the-outsiders-advantage-how-diverse-perspectives-unlock-enterprise-ai-success",
+          "show": "Data Science With Sam",
+          "title": "EP 43: The Outsider's Advantage: How Diverse Perspectives Unlock Enterprise AI Success",
+          "url": "/wiki/sources/ep-43-the-outsiders-advantage-how-diverse-perspectives-unlock-enterprise-ai-success/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/sumayyashravani/"
+    },
     "SunBenLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -39095,6 +39246,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/universityofcaliforniasanfrancisco/"
+    },
+    "UniversityOfColoradoDenver": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "DB592327B53E82CF22F1878CE4F02EB6~8584399_2026-08-10-213439-8787-0-0-10.128 [DB592327B53E82CF22F1878CE4F02EB6~8584399_2026-08-10-213439-8787-0-0-10.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a83ab1a].md",
+          "key": "ep-43-the-outsiders-advantage-how-diverse-perspectives-unlock-enterprise-ai-success",
+          "show": "Data Science With Sam",
+          "title": "EP 43: The Outsider's Advantage: How Diverse Perspectives Unlock Enterprise AI Success",
+          "url": "/wiki/sources/ep-43-the-outsiders-advantage-how-diverse-perspectives-unlock-enterprise-ai-success/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/universityofcoloradodenver/"
     },
     "UniversityOfMinnesota": {
       "episode_count": 2,

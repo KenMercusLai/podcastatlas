@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 8535
+wiki_total_pages: 8539
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1217,6 +1217,9 @@ wiki_pages:
   - key: "SukhothaiKingdom"
     title: "Sukhothai Kingdom / 苏可泰王朝"
     url: "/wiki/entities/sukhothaikingdom/"
+  - key: "SumayyaShravani"
+    title: "Sumayya Shravani"
+    url: "/wiki/entities/sumayyashravani/"
   - key: "SumitomoCorporation"
     title: "Sumitomo Corporation / 住友商事"
     url: "/wiki/entities/sumitomocorporation/"

@@ -8,7 +8,8 @@ sources:
   - all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420
   - all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790
   - ep-46-fix-the-foundation-first-why-your-data-strategy-is-failing-before-the-ai-gets-involved
-last_updated: 2026-08-27
+  - ep-43-the-outsiders-advantage-how-diverse-perspectives-unlock-enterprise-ai-success
+last_updated: 2026-08-31
 knowledge_schema: synthesis-v1
 ---
 
@@ -22,6 +23,8 @@ The current synthesis is that pilot purgatory is not mainly a model-capability p
 
 The AI-specific sources add two layers. One layer is executive and financial: CEOs want speed, CFOs demand ROI discipline, and CIOs worry about disruption if they wait. The newer data-foundation source makes the upstream blocker sharper: dashboards and pilots can exist for years without answering leadership's real questions if ownership, governance, alignment, and business-user exploration are missing.
 
+Pilot purgatory also has a trust-and-behavior layer. Even when data readiness, sponsorship, and deployment activity are present, users may not change work if they do not trust the institution, if the tool does not fit the workflow, or if rollout teams ignore people who quietly stop using the system. That makes [[AIAdoptionBehavioralSignals]] such as [[AIOverwriteRate]] and [[QuietAIAdoptionDeparture]] part of the evidence needed to escape pilot purgatory.
+
 ## Key Claims
 - Enterprise AI can generate visible pilots before it changes operating workflows.
 - The failure mode often begins with vague use cases, missing success criteria, no baselines, and no handoff owner.
@@ -29,6 +32,7 @@ The AI-specific sources add two layers. One layer is executive and financial: CE
 - Buying licenses or dashboards does not produce productivity unless enablement, governance, and business ownership follow.
 - CFO ROI discipline and CIO disruption concerns can both be valid, so the decision problem is not simply whether to adopt AI.
 - Escape from purgatory requires bounded workflows, measurable outcomes, data foundations, accountable owners, and change management.
+- User trust and observed behavior matter because deployment can look successful while frontline users overwrite outputs, avoid questions, or leave the tool silently.
 
 ## Evidence
 - Enterprise POC discipline: [[enterprise-sales-with-no-product-landing-a-big-four-customer]] shows that pilots fail before AI when proof criteria, budget, buying intent, timing, and rollout path are not explicit.
@@ -36,13 +40,15 @@ The AI-specific sources add two layers. One layer is executive and financial: CE
 - Change-management warning: [[all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420]] argues that giving a business AI does not automatically create efficiency without workflow redesign and accountable owners.
 - Operating-model tension: [[all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790]] frames the problem as value realization under CEO, CFO, and CIO pressure.
 - Data-foundation gap: [[ep-46-fix-the-foundation-first-why-your-data-strategy-is-failing-before-the-ai-gets-involved]] says analytics tools, dashboards, and AI pilots can coexist with an inability to answer important leadership questions when data ownership and governance are unresolved.
+- Trust and behavior gap: [[ep-43-the-outsiders-advantage-how-diverse-perspectives-unlock-enterprise-ai-success]] says adoption teams should ask whether users trust the institution enough to change work, then study overwrite rates and quiet departures rather than only launch activity.
 
 ## Counterevidence & Qualifications
-Pilots are not inherently wasteful. They can be useful when they test specific workflows, reveal data gaps, establish baselines, and clarify ownership before scale. The sources also vary in evidence type: some are founder or investor interpretations, while the EP48 and EP46 sources are practitioner interviews. The stable claim is not that pilots fail by default, but that visible experimentation is weak evidence unless it changes accepted work.
+Pilots are not inherently wasteful. They can be useful when they test specific workflows, reveal data gaps, establish baselines, and clarify ownership before scale. The sources also vary in evidence type: some are founder or investor interpretations, while the EP48, EP46, and EP43 sources are practitioner interviews. The stable claim is not that pilots fail by default, but that visible experimentation is weak evidence unless it changes accepted work. EP43's trust and silent-departure claims remain conceptual because the source does not provide a measured rollout case.
 
 ## What Changed
 - Reframed pilot purgatory to include pre-AI dashboards and analytics tools that fail to drive decisions.
 - Added data ownership, governance, and business-user exploration as upstream blockers.
+- Added institutional trust, overwrite rate, and quiet departure as behavior-level adoption evidence.
 - Preserved the existing ROI, POC, Copilot, and change-management explanations while compressing them into the schema-v1 structure.
 
 ## Related Concepts
@@ -53,3 +59,5 @@ Pilots are not inherently wasteful. They can be useful when they test specific w
 - [[EnterpriseAgentGovernance]] - governance layer needed when pilots become agentic workflows.
 - [[DataTeamAsBusinessPartner]] - decision-culture pattern that helps dashboards become business action.
 - [[AIWorkflowTriage]] - method for choosing bounded workflows before deployment.
+- [[InstitutionalTrustAIAdoption]] - trust condition that explains why users may not change work after deployment.
+- [[AIAdoptionBehavioralSignals]] - observed user-behavior evidence needed beyond launch metrics.

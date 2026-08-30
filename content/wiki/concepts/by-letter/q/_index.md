@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "q"
-wiki_total_pages: 6084
+wiki_total_pages: 6090
 wiki_pages:
   - key: "QDIIAllocation"
     title: "QDII Allocation"
@@ -89,6 +89,9 @@ wiki_pages:
   - key: "QueenMotherRegency"
     title: "Queen-Mother Regency / 太后摄政"
     url: "/wiki/concepts/queenmotherregency/"
+  - key: "QuietAIAdoptionDeparture"
+    title: "Quiet AI Adoption Departure"
+    url: "/wiki/concepts/quietaiadoptiondeparture/"
   - key: "QianjuHougongReversal"
     title: "前倨后恭 / Qianju Hougong Reversal"
     url: "/wiki/concepts/qianjuhougongreversal/"

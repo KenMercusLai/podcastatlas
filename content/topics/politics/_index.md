@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2104
+topic_total_pages: 2105
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3890,6 +3890,9 @@ topic_entities:
   - key: "DarkMatterLabs"
     title: "Dark Matter Labs"
     url: "/wiki/entities/darkmatterlabs/"
+  - key: "DataReady"
+    title: "Data Ready"
+    url: "/wiki/entities/dataready/"
   - key: "DavidBoies"
     title: "David Boies"
     url: "/wiki/entities/davidboies/"
