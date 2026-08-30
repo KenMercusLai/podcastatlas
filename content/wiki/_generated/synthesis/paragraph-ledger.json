@@ -417,12 +417,13 @@
       "0da08e278be0f9698cd22a27d657f9c77e0ffadee5aa5a02f7e114b61da05682",
       "783b85daf8e28c79ebd7838b98cbae32cc3b283841103fa74a279782510e1ecf",
       "2f2ccba72e3ff27853c9c5e7edd9f718fa9dd0a3c9c92731bc7ee6f0b1047bd7",
-      "12c2b57062376e50f472c6806ecb08714733b065e8db5d2b809f05f83d802f96"
+      "12c2b57062376e50f472c6806ecb08714733b065e8db5d2b809f05f83d802f96",
+      "2231d7cf4c1cf8ae29ee2ec0737334356ddcd78d5df4e6b306dab83b98b3febe"
     ],
-    "paragraph_count": 417
+    "paragraph_count": 418
   },
-  "overview_commit": "3c558353ea18eb72358b68c18d243c80a46e76fa",
-  "overview_digest": "e30531303a087a28271c8c46fc445ec92073716fa8ddab857f6293a99fd9e614",
+  "overview_commit": "ce300f9dfd5815092b5f65ed00c4e2aaf34acc67",
+  "overview_digest": "0967117660b103f9d28dc995fb907ad8bf594c6455a4a5626ea95b14ed938454",
   "paragraphs": [
     {
       "id": "57a73bf890b331c40aea6ebc9bacd1f1cecf1e3245795fd642c9aab210273b3d",
@@ -12872,6 +12873,31 @@
         "ZhengJunEasternHan",
         "zizhi-tongjian-hanji-755-zhege-chaodai-huangshang-jiu-kaishi-guli-shengwa-le-lj7bdkxkdtjhpo469yxhskjyfdco",
         "zizhi-tongjian-hanji-756-weishenme-quan-ni-de-rao-ren-chu-qie-rao-ren-ltn4tqzy1d-sodhjidncv8dyqxpj"
+      ]
+    },
+    {
+      "id": "2231d7cf4c1cf8ae29ee2ec0737334356ddcd78d5df4e6b306dab83b98b3febe",
+      "primary_topic": "psychology-and-personal-development",
+      "secondary_topics": [],
+      "text": "The latest addition is [[movement-practice-to-strengthen-your-mind-body-connection-ido-portal-scim2496765743|Movement Practice to Strengthen Your Mind-Body Connection | Ido Portal]], a [[HubermanLab]] episode with [[AndrewHuberman]] and [[IdoPortal]] on movement as awareness practice, will, play, sleep-transition states, bodily resolution, body schema, sport, art, and relationships. It adds [[IdoPortal]], [[MovementPracticeAsAwareness]], [[WillExposurePractice]], [[BodilyResolution]], and [[LiminalSleepTransitionPractice]], while extending [[HubermanLab]], [[AndrewHuberman]], [[MindBodyUnion]], [[DisciplineOverMotivation]], [[EmotionalGranularity]], and [[EmbodiedJudgment]]. Its core synthesis is that movement practice can be a whole-life method for refining attention and internal models rather than only an exercise slot: discipline, motivation, and playfulness are useful scaffolds, but will becomes visible under resistance; bodily and emotional resolution improve through novelty, language, ambiguity, and practice; and sleep transitions may expose recalibration opportunities without becoming sleep-disruption advice. No settled contradiction is recorded; sleep, pain, depression, psychedelic-connectivity, body-schema, and transformation claims remain source-scoped and clinically bounded where relevant.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "culture-and-media": 1,
+        "psychology-and-personal-development": 3
+      },
+      "wikilinks": [
+        "AndrewHuberman",
+        "BodilyResolution",
+        "DisciplineOverMotivation",
+        "EmbodiedJudgment",
+        "EmotionalGranularity",
+        "HubermanLab",
+        "IdoPortal",
+        "LiminalSleepTransitionPractice",
+        "MindBodyUnion",
+        "MovementPracticeAsAwareness",
+        "WillExposurePractice",
+        "movement-practice-to-strengthen-your-mind-body-connection-ido-portal-scim2496765743"
       ]
     }
   ],

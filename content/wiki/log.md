@@ -13598,6 +13598,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-30] ingest | Movement Practice to Strengthen Your Mind-Body Connection | Ido Portal
+
+Ingested the 2026-06-29 Huberman Lab episode with Ido Portal on movement as awareness practice, will versus discipline, play, sleep-transition states, bodily resolution, body schema, sport, art, relationships, and source-scoped transformation claims. Created the source note plus `IdoPortal`, `MovementPracticeAsAwareness`, `WillExposurePractice`, `BodilyResolution`, and `LiminalSleepTransitionPractice`; updated `HubermanLab`, `AndrewHuberman`, `MindBodyUnion`, `DisciplineOverMotivation`, `EmotionalGranularity`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; the source qualifies discipline as useful scaffolding rather than the whole account of will, and keeps sleep-disruption, pain, depression, psychedelic-connectivity, and body-schema claims source-scoped.
+
 ## [2026-08-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -14040,5 +14044,9 @@ Ingested the 2026-06-29 All-In episode with Nate Silver on California election-c
 Ran lint. See lint-report.md for details.
 
 ## [2026-08-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-31] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

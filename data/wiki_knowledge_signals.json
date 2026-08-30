@@ -2164,9 +2164,9 @@
       "url": "/wiki/entities/andingcommandery/"
     },
     "AndrewHuberman": {
-      "episode_count": 16,
+      "episode_count": 17,
       "show_count": 1,
-      "source_note_count": 16,
+      "source_note_count": 17,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -2279,6 +2279,13 @@
           "show": "Huberman Lab",
           "title": "Essentials: Tools for Hormone Optimization in Males | Dr. Kyle Gillett",
           "url": "/wiki/sources/essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415/"
+        },
+        {
+          "episode_file": "SCIM2496765743 [SCIM2496765743].md",
+          "key": "movement-practice-to-strengthen-your-mind-body-connection-ido-portal-scim2496765743",
+          "show": "Huberman Lab",
+          "title": "Movement Practice to Strengthen Your Mind-Body Connection | Ido Portal",
+          "url": "/wiki/sources/movement-practice-to-strengthen-your-mind-body-connection-ido-portal-scim2496765743/"
         }
       ],
       "updated": "2026-08-30",
@@ -3902,6 +3909,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/boronglatehan/"
+    },
+    "BodilyResolution": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2496765743 [SCIM2496765743].md",
+          "key": "movement-practice-to-strengthen-your-mind-body-connection-ido-portal-scim2496765743",
+          "show": "Huberman Lab",
+          "title": "Movement Practice to Strengthen Your Mind-Body Connection | Ido Portal",
+          "url": "/wiki/sources/movement-practice-to-strengthen-your-mind-body-connection-ido-portal-scim2496765743/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/bodilyresolution/"
     },
     "Bogside": {
       "episode_count": 2,
@@ -8881,9 +8904,9 @@
       "url": "/wiki/concepts/disasteromencrisisredirection/"
     },
     "DisciplineOverMotivation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM2090153799 [SCIM2090153799].md",
@@ -8891,9 +8914,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Become Resilient, Forge Your Identity & Lead Others | Jocko Willink",
           "url": "/wiki/sources/essentials-how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim2090153799/"
+        },
+        {
+          "episode_file": "SCIM2496765743 [SCIM2496765743].md",
+          "key": "movement-practice-to-strengthen-your-mind-body-connection-ido-portal-scim2496765743",
+          "show": "Huberman Lab",
+          "title": "Movement Practice to Strengthen Your Mind-Body Connection | Ido Portal",
+          "url": "/wiki/sources/movement-practice-to-strengthen-your-mind-body-connection-ido-portal-scim2496765743/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-30",
       "url": "/wiki/concepts/disciplineovermotivation/"
     },
     "DiscoveryLedDemoSprint": {
@@ -10310,9 +10340,9 @@
       "url": "/wiki/concepts/emotionregulationtoolkit/"
     },
     "EmotionalGranularity": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1222961716 [SCIM1222961716].md",
@@ -10320,9 +10350,16 @@
           "show": "Huberman Lab",
           "title": "Neuroscience of Emotions & Tools for Improving Emotion Regulation | Dr. Ralph Adolphs",
           "url": "/wiki/sources/neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716/"
+        },
+        {
+          "episode_file": "SCIM2496765743 [SCIM2496765743].md",
+          "key": "movement-practice-to-strengthen-your-mind-body-connection-ido-portal-scim2496765743",
+          "show": "Huberman Lab",
+          "title": "Movement Practice to Strengthen Your Mind-Body Connection | Ido Portal",
+          "url": "/wiki/sources/movement-practice-to-strengthen-your-mind-body-connection-ido-portal-scim2496765743/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-30",
       "url": "/wiki/concepts/emotionalgranularity/"
     },
     "EmotionsAsFunctionalControlStates": {
@@ -16988,9 +17025,9 @@
       "url": "/wiki/entities/hubeihumanoidinnovationcenter/"
     },
     "HubermanLab": {
-      "episode_count": 16,
+      "episode_count": 17,
       "show_count": 1,
-      "source_note_count": 16,
+      "source_note_count": 17,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -17103,6 +17140,13 @@
           "show": "Huberman Lab",
           "title": "Essentials: Tools for Hormone Optimization in Males | Dr. Kyle Gillett",
           "url": "/wiki/sources/essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415/"
+        },
+        {
+          "episode_file": "SCIM2496765743 [SCIM2496765743].md",
+          "key": "movement-practice-to-strengthen-your-mind-body-connection-ido-portal-scim2496765743",
+          "show": "Huberman Lab",
+          "title": "Movement Practice to Strengthen Your Mind-Body Connection | Ido Portal",
+          "url": "/wiki/sources/movement-practice-to-strengthen-your-mind-body-connection-ido-portal-scim2496765743/"
         }
       ],
       "updated": "2026-08-30",
@@ -17421,6 +17465,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/hyperscaledatacentermoratorium/"
+    },
+    "IdoPortal": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2496765743 [SCIM2496765743].md",
+          "key": "movement-practice-to-strengthen-your-mind-body-connection-ido-portal-scim2496765743",
+          "show": "Huberman Lab",
+          "title": "Movement Practice to Strengthen Your Mind-Body Connection | Ido Portal",
+          "url": "/wiki/sources/movement-practice-to-strengthen-your-mind-body-connection-ido-portal-scim2496765743/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/idoportal/"
     },
     "ImageNet": {
       "episode_count": 3,
@@ -21326,6 +21386,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/lighttouchfrontiergovernance/"
     },
+    "LiminalSleepTransitionPractice": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2496765743 [SCIM2496765743].md",
+          "key": "movement-practice-to-strengthen-your-mind-body-connection-ido-portal-scim2496765743",
+          "show": "Huberman Lab",
+          "title": "Movement Practice to Strengthen Your Mind-Body Connection | Ido Portal",
+          "url": "/wiki/sources/movement-practice-to-strengthen-your-mind-body-connection-ido-portal-scim2496765743/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/liminalsleeptransitionpractice/"
+    },
     "LinChangQiang": {
       "episode_count": 2,
       "show_count": 1,
@@ -24961,6 +25037,36 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/militaryrewardeunuchgatekeeping/"
     },
+    "MindBodyUnion": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "EP256 AI时代,“自由意志”还存在吗？ [lk9AcI8oqNwerk26JY683NbDddCX].md",
+          "key": "ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx",
+          "show": "Talk三联",
+          "title": "EP256 AI时代，“自由意志”还存在吗？",
+          "url": "/wiki/sources/ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx/"
+        },
+        {
+          "episode_file": "174.读笛卡尔，是件大事 [966856702].md",
+          "key": "174-du-dikaer-shi-jian-dashi-966856702",
+          "show": "蜜獾吃书",
+          "title": "174.读笛卡尔，是件大事",
+          "url": "/wiki/sources/174-du-dikaer-shi-jian-dashi-966856702/"
+        },
+        {
+          "episode_file": "SCIM2496765743 [SCIM2496765743].md",
+          "key": "movement-practice-to-strengthen-your-mind-body-connection-ido-portal-scim2496765743",
+          "show": "Huberman Lab",
+          "title": "Movement Practice to Strengthen Your Mind-Body Connection | Ido Portal",
+          "url": "/wiki/sources/movement-practice-to-strengthen-your-mind-body-connection-ido-portal-scim2496765743/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/mindbodyunion/"
+    },
     "MinisterialDignityProtection": {
       "episode_count": 1,
       "show_count": 1,
@@ -25517,6 +25623,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/mourningdiplomaticrestraint/"
+    },
+    "MovementPracticeAsAwareness": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2496765743 [SCIM2496765743].md",
+          "key": "movement-practice-to-strengthen-your-mind-body-connection-ido-portal-scim2496765743",
+          "show": "Huberman Lab",
+          "title": "Movement Practice to Strengthen Your Mind-Body Connection | Ido Portal",
+          "url": "/wiki/sources/movement-practice-to-strengthen-your-mind-body-connection-ido-portal-scim2496765743/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/movementpracticeasawareness/"
     },
     "MultiTeacherDistillation": {
       "episode_count": 2,
@@ -37921,6 +38043,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/widgeryinquiry/"
+    },
+    "WillExposurePractice": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2496765743 [SCIM2496765743].md",
+          "key": "movement-practice-to-strengthen-your-mind-body-connection-ido-portal-scim2496765743",
+          "show": "Huberman Lab",
+          "title": "Movement Practice to Strengthen Your Mind-Body Connection | Ido Portal",
+          "url": "/wiki/sources/movement-practice-to-strengthen-your-mind-body-connection-ido-portal-scim2496765743/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/willexposurepractice/"
     },
     "WilliamCecil": {
       "episode_count": 4,

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 6040
+wiki_total_pages: 6044
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -245,6 +245,9 @@ wiki_pages:
   - key: "WildlifeTourismSpectacle"
     title: "Wildlife Tourism Spectacle"
     url: "/wiki/concepts/wildlifetourismspectacle/"
+  - key: "WillExposurePractice"
+    title: "Will Exposure Practice"
+    url: "/wiki/concepts/willexposurepractice/"
   - key: "WinRateStartupStrategy"
     title: "Win-Rate Startup Strategy / 优化胜率"
     url: "/wiki/concepts/winratestartupstrategy/"

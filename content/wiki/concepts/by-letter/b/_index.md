@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 6040
+wiki_total_pages: 6044
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -365,6 +365,9 @@ wiki_pages:
   - key: "BloodstainPatternAnalysis"
     title: "Bloodstain Pattern Analysis"
     url: "/wiki/concepts/bloodstainpatternanalysis/"
+  - key: "BodilyResolution"
+    title: "Bodily Resolution"
+    url: "/wiki/concepts/bodilyresolution/"
   - key: "BodilyTabooHumor"
     title: "Bodily Taboo Humor / 身体禁忌幽默"
     url: "/wiki/concepts/bodilytaboohumor/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 6040
+wiki_total_pages: 6044
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -320,6 +320,9 @@ wiki_pages:
   - key: "LimestoneLoopCarbonCapture"
     title: "Limestone Loop Carbon Capture"
     url: "/wiki/concepts/limestoneloopcarboncapture/"
+  - key: "LiminalSleepTransitionPractice"
+    title: "Liminal Sleep Transition Practice"
+    url: "/wiki/concepts/liminalsleeptransitionpractice/"
   - key: "LimitedSKUOperatingModel"
     title: "Limited SKU Operating Model"
     url: "/wiki/concepts/limitedskuoperatingmodel/"

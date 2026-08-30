@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-30
-as_of_overview_commit: 3c558353ea18eb72358b68c18d243c80a46e76fa
+as_of_overview_commit: ce300f9dfd5815092b5f65ed00c4e2aaf34acc67
 summary: "Durable capacity comes from fitting tools, roles, institutions, evidence, culture, care, markets, and governance to real constraints, trust, feedback, and responsibility."
-episode_count: 1751
-source_count: 1751
-paragraph_count: 417
+episode_count: 1752
+source_count: 1752
+paragraph_count: 418
 topic_count: 8
 ---
 
@@ -21,7 +21,7 @@ topic_count: 8
 - [[PoliticalConditionAsHumanExperiment]] uses fiction to expose how political conditions, speed, exile, public performance, rule systems, and dependency reshape human behavior.
 - [[all-in-with-chamath-jason-sacks-friedberg-nate-silver-predicts-democrats-take-the-house-newsom-is-fading-aoc-might-win-it-all-in-2028-41866025]] adds a U.S. election-legitimacy case: [[ElectionAdministrationTrust]] depends on fast, intelligible counting and cohort-aware interpretation, while [[PartisanshipAsElectoralGravity]], [[DemocraticFactionMap]], [[ChangeElectionPolitics]], and [[MidtermBacklashForecasting]] show that partisan baselines, factional candidate choice, and anti-incumbent mood shape whether results and forecasts are accepted.
 - [[AIEmpireSovereigntyRisk]] extends the history-and-geopolitics topic into AI-era dependence: [[AlgorithmicTrustMigration]], [[ModelSovereignty]], and [[SovereignAIModels]] show how foreign-controlled AI systems can become cognitive and institutional infrastructure without formal conquest.
-- [[neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716]] adds a functional emotion-regulation branch: [[EmotionsAsFunctionalControlStates]] treats emotions as useful control states for decision and motivation, while [[EmotionalGranularity]], [[CognitiveReappraisalEarlyIntervention]], [[AutonomicStressTraining]], and [[TaskSwitchingResidue]] frame regulation as monitoring, differentiating, reframing early, shaping environments, respecting body signals, and managing transition costs rather than removing emotion.
+- [[movement-practice-to-strengthen-your-mind-body-connection-ido-portal-scim2496765743|The Ido Portal Huberman Lab episode]] adds a movement-centered self-command branch: [[MovementPracticeAsAwareness]] treats movement as a way to refine attention and internal models, [[WillExposurePractice]] makes will visible under resistance rather than current motivation alone, and [[BodilyResolution]] with [[LiminalSleepTransitionPractice]] frames bodily-emotional recalibration as practice with novelty, language, ambiguity, and bounded sleep-transition awareness.
 - [[SustainableHealthOptimization]] adds a flexible-fundamentals branch: [[MorningLightCircadianAnchoring]], [[SleepAsDailyHealthAccount]], [[SelfTestingMemoryPractice]], [[OlfactoryTraining]], [[FertilityEnergyAvailability]], [[PerimenopauseBrainMetabolism]], [[MenopauseClinicalSharedDecision]], [[AcetylcholineFocusSupport]], and [[PerioperativeCircadianRecovery]] are useful only when fitted to real constraints and clinical context rather than protocol perfection.
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough.
 
@@ -63,7 +63,7 @@ History and geopolitics connect Han frontier and court sequences beginning with 
 
 ### Psychology and Personal Development
 
-Psychology and personal-development sources treat self-command, evidence judgment, emotion and music regulation, abuse boundaries, risk sizing, authorship trust, and moral presence as context-bound practices.
+Psychology and personal-development sources treat self-command, emotion and music regulation, movement practice, abuse boundaries, risk sizing, authorship trust, and moral presence as context-bound practices.
 
 - [[neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716]] adds a functional emotion-regulation branch: [[EmotionsAsFunctionalControlStates]] treats emotions as useful control states for decision and motivation, while [[EmotionalGranularity]], [[CognitiveReappraisalEarlyIntervention]], [[AutonomicStressTraining]], and [[TaskSwitchingResidue]] frame regulation as monitoring, differentiating, reframing early, shaping environments, respecting body signals, and managing transition costs rather than removing emotion. Evidence: [[neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716]], [[EmotionsAsFunctionalControlStates]], [[EmotionalGranularity]], [[CognitiveReappraisalEarlyIntervention]], [[AutonomicStressTraining]], [[TaskSwitchingResidue]], [[EmotionRegulationToolkit]], [[BrainBodyEmotionMapping]].
 - [[essentials-how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim2090153799]] adds a discipline-centered self-command branch: [[DisciplineOverMotivation]] decouples needed action from current motivation, [[AutonomicStressTraining]] treats bodily discomfort as bounded practice, [[OperationalDetachment]] widens attention before decisions, and [[LeadershipEmotionalCounterweight]] with [[ActionAfterAdversity]] frame leadership and resilience as action after emotion rather than emotion-free control. Evidence: [[essentials-how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim2090153799]], [[JockoWillink]], [[DisciplineOverMotivation]], [[AutonomicStressTraining]], [[OperationalDetachment]], [[LeadershipEmotionalCounterweight]], [[ActionAfterAdversity]], [[EmotionRegulationToolkit]], [[MotivationRewardEffortCalculation]], [[AttentionCapacitySelection]].

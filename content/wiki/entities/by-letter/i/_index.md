@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 8491
+wiki_total_pages: 8492
 wiki_pages:
   - key: "ILibertine"
     title: "I, Libertine"
@@ -35,6 +35,9 @@ wiki_pages:
   - key: "IDC"
     title: "IDC"
     url: "/wiki/entities/idc/"
+  - key: "IdoPortal"
+    title: "Ido Portal"
+    url: "/wiki/entities/idoportal/"
   - key: "IfYouCanKeepIt"
     title: "If You Can Keep It"
     url: "/wiki/entities/ifyoucankeepit/"
