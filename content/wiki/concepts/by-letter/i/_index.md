@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 6027
+wiki_total_pages: 6032
 wiki_pages:
   - key: "ICEWorkforceExpansion"
     title: "ICE Workforce Expansion"
@@ -554,6 +554,9 @@ wiki_pages:
   - key: "InterpretationAndOverinterpretation"
     title: "Interpretation And Overinterpretation"
     url: "/wiki/concepts/interpretationandoverinterpretation/"
+  - key: "InterrogationTortureConstraint"
+    title: "Interrogation Torture Constraint / 审讯刑具约束"
+    url: "/wiki/concepts/interrogationtortureconstraint/"
   - key: "InterstateBypassEconomics"
     title: "Interstate Bypass Economics"
     url: "/wiki/concepts/interstatebypasseconomics/"

@@ -8778,6 +8778,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "BanChaoEasternHan": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "BanGuEasternHan": [
     {
       "key": "history",
@@ -9205,6 +9212,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "BehavioralEvidenceLoyaltyJudgment": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "BehavioralInvestingBiases": [
@@ -20133,6 +20147,13 @@
       "url": "/topics/science/"
     }
   ],
+  "EmperorZhangOfHan": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "EmployeeEquityCommunication": [
     {
       "key": "economics",
@@ -30517,6 +30538,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "InterrogationTortureConstraint": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "InterstateBypassEconomics": [
@@ -42078,6 +42106,13 @@
     }
   ],
   "OfficeDutyExitConstraint": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "OfficeFitOverRoteCleverness": [
     {
       "key": "politics",
       "label": "Politics",
@@ -59470,6 +59505,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "TransportRouteBurdenRelief": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "TrashCanCorpusScientificAI": [

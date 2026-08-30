@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-30
-as_of_overview_commit: 67b6152a299e1379bcb81c74c2a8f5f23e6839e2
-summary: "Durable capacity comes from fitting tools, roles, institutions, evidence, culture, care, and governance to real constraints, feedback, and responsibility boundaries."
-episode_count: 1747
-source_count: 1747
-paragraph_count: 415
+as_of_overview_commit: 00b234c9ca4121c803abfb0037f1a737ed9931b5
+summary: "Durable capacity comes from fitting tools, roles, institutions, evidence, culture, care, and governance to real constraints, feedback, public burden, and responsibility boundaries."
+episode_count: 1749
+source_count: 1749
+paragraph_count: 416
 topic_count: 8
 ---
 
@@ -49,21 +49,21 @@ Culture sources use fiction, games, sports, media, folklore, brands, therapeutic
 
 ### Governance and Institutions
 
-Governance turns authority into appointment quality, feedback, legitimacy, compliance, frontier control, labor leverage, household burden relief, and bounded responsibility; Hanji 755-756 add fertility relief and credibility-preserving forbearance.
+Governance turns authority into appointment quality, evidence tests, legal restraint, public burden relief, feedback, legitimacy, compliance, frontier control, and bounded responsibility.
 
 - The California data-broker branch shows that privacy rights depend on compliance workflows: [[CaliforniaDeleteAct]], [[DeleteRequestAndOptOutPlatform]], [[ConsumerDataDeletion]], [[DataBrokerComplianceGap]], and [[CaliforniaPrivacyProtectionAgency]] connect centralized deletion, broker registration, reporting duties, request friction, agency capacity, and private-lawsuit proposals into one implementation problem. Evidence: [[CaliforniaDeleteAct]], [[DeleteRequestAndOptOutPlatform]], [[ConsumerDataDeletion]], [[DataBrokerComplianceGap]], [[CaliforniaPrivacyProtectionAgency]], [[tech-20260825-mp-tech-pod-128-tech-20260825-mp-tech-pod-128]].
 - The early-Han sequence shows victory turning into governance only through family order, capital choice, exit management, reward ranking, ritual hierarchy, frontier containment, [[HanXiongnuHeqinPolicy|heqin]] diplomacy, vassal rollback, investigation-triggered rebellion risk, and finally the failure of personal trust in [[LuWan|Lu Wan]]'s Yan kingship. Evidence: [[LiuBang]], [[StrategicCapitalRelocation]], [[LiAsPoliticalOrder]], [[BaidengEncirclement]], [[HanXiongnuHeqinPolicy]], [[DifferentSurnameKingSuspicion]], [[HuainanKingdomEarlyHan]], [[InvestigationDrivenRebellionEscalation]], [[LuWan]], [[YanState]].
 
 ### History and Geopolitics
 
-History and geopolitics connect Han frontier and court sequences beginning with the 85 CE Hanji 755 backfill, late-Han collapse, title legitimacy, infrastructure routes, religious conflict, handset ecosystems, and AI sovereignty.
+History and geopolitics connect Han frontier and court sequences beginning with the 83-84 CE Hanji 753 backfill, late-Han collapse, title legitimacy, infrastructure routes, religious conflict, handset ecosystems, and AI sovereignty.
 
 - [[UnderseaDataCables]] show contemporary geopolitics moving into physical internet routes: [[UnitedStates]] funding for [[Caribbean]] and [[CentralAmerica]] cable replacement, competition with [[China]], vendor concerns involving [[Russia]], [[CableLandingPointSecurity]], and [[CableNetworkResilience]] make cloud and financial connectivity part of strategic infrastructure rather than only telecom operations. Evidence: [[UnderseaDataCables]], [[UnitedStates]], [[Caribbean]], [[CentralAmerica]], [[China]], [[Russia]], [[CableLandingPointSecurity]], [[CableNetworkResilience]], [[TrustedNetworkGeopolitics]], [[DigitalInfrastructureWarRisk]], [[RegionalNetworkTopologyRisk]], [[AsymmetricInfrastructureAttack]], [[MarketplaceTech]], [[ErinMurphy]], [[tech-20260820-tech-pod-128-tech-20260820-tech-pod-128]].
 - The Hanji 992, 1002, and 1015-1016 branch makes late-Han title order a strategic condition: [[EmperorXianOfHan]]'s ruined Anyi and Chang'an context keeps [[MingqiLegitimacy]] symbolically active but materially thin, [[JuShou]] sees [[LegitimacyWindowSeizure]] for [[YuanShao]] before [[GuoTu]] and [[ChunyuQiong]] help Yuan Shao miss it, [[SunCe]] treats [[YuanShu]]'s planned imperial title as a [[MoralizedWarPretext]] and exits, [[XunYu]] turns the emperor's recognition into [[LegitimacyWindowSeizure]] for [[CaoCao]], Yuan Shu's later Shouchun claim outruns [[TitleRealityRestraint]] and creates [[AntiUsurpationCoalitionPressure]], and [[ChenGui]] blocks [[MarriageAllianceWarExposure]] around [[LyuBu]] and [[Xuzhou]]. Evidence: [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz]], [[EmperorXianOfHan]], [[ChangAnHanCapital]], [[GuanzhongRegion]], [[MingqiLegitimacy]], [[JuShou]], [[LegitimacyWindowSeizure]], [[YuanShao]], [[GuoTu]], [[ChunyuQiong]], [[WartimeAgriculturalLaborCollapse]], [[FamineEntitlementFailure]], [[SunCe]], [[YuanShu]], [[MoralizedWarPretext]], [[XunYu]], [[CaoCao]], [[TitleRealityRestraint]], [[AntiUsurpationCoalitionPressure]], [[ChenGui]], [[MarriageAllianceWarExposure]], [[LyuBu]], [[Xuzhou]], [[XingshiqingStrategicAssessment]], [[GuoJia]], [[ZhongYao]].
 
 ### Psychology and Personal Development
 
-Psychology and personal-development sources treat self-command, emotion and music regulation, abuse boundaries, risk sizing, authorship trust, and moral presence as context-bound practices.
+Psychology and personal-development sources treat self-command, evidence judgment, emotion and music regulation, abuse boundaries, risk sizing, authorship trust, and moral presence as context-bound practices.
 
 - [[neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716]] adds a functional emotion-regulation branch: [[EmotionsAsFunctionalControlStates]] treats emotions as useful control states for decision and motivation, while [[EmotionalGranularity]], [[CognitiveReappraisalEarlyIntervention]], [[AutonomicStressTraining]], and [[TaskSwitchingResidue]] frame regulation as monitoring, differentiating, reframing early, shaping environments, respecting body signals, and managing transition costs rather than removing emotion. Evidence: [[neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716]], [[EmotionsAsFunctionalControlStates]], [[EmotionalGranularity]], [[CognitiveReappraisalEarlyIntervention]], [[AutonomicStressTraining]], [[TaskSwitchingResidue]], [[EmotionRegulationToolkit]], [[BrainBodyEmotionMapping]].
 - [[essentials-how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim2090153799]] adds a discipline-centered self-command branch: [[DisciplineOverMotivation]] decouples needed action from current motivation, [[AutonomicStressTraining]] treats bodily discomfort as bounded practice, [[OperationalDetachment]] widens attention before decisions, and [[LeadershipEmotionalCounterweight]] with [[ActionAfterAdversity]] frame leadership and resilience as action after emotion rather than emotion-free control. Evidence: [[essentials-how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim2090153799]], [[JockoWillink]], [[DisciplineOverMotivation]], [[AutonomicStressTraining]], [[OperationalDetachment]], [[LeadershipEmotionalCounterweight]], [[ActionAfterAdversity]], [[EmotionRegulationToolkit]], [[MotivationRewardEffortCalculation]], [[AttentionCapacitySelection]].

@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "0c993ef28415e6d065838137147c34a805e8cf2eeb30ecb614ac545b48b9db2c",
       "e8990fad7331e9441df0502a49236758d8a7a8fe617e0db2a72761eada274c0d",
       "057b11d5c32277eda442789983bf3ca0776cbb68f94481fdc5a501e04a085e9b",
       "3f97b63f5c826fc5081443ad4d5b4f97918ec40e24baf4b48abf500ff7c11ecc",
@@ -417,11 +418,39 @@
       "2f2ccba72e3ff27853c9c5e7edd9f718fa9dd0a3c9c92731bc7ee6f0b1047bd7",
       "12c2b57062376e50f472c6806ecb08714733b065e8db5d2b809f05f83d802f96"
     ],
-    "paragraph_count": 415
+    "paragraph_count": 416
   },
-  "overview_commit": "201639954a64abb5211a843fd96246e938d5b81b",
-  "overview_digest": "67eabe160484a6d08d345441dd13189866ca081cdfcf125aa4e2a2d4110d6fa1",
+  "overview_commit": "00b234c9ca4121c803abfb0037f1a737ed9931b5",
+  "overview_digest": "873bce02e9fb61c8bd748c408c6ffc5c083c1f35c9343e69a5c2a8c90e1913dc",
   "paragraphs": [
+    {
+      "id": "0c993ef28415e6d065838137147c34a805e8cf2eeb30ecb614ac545b48b9db2c",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "psychology-and-personal-development"
+      ],
+      "text": "[[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|Hanji 753]] adds an earlier Zhangdi-era layer where governance is tested by the quality of evidence and by public burden: [[EmperorZhangOfHan|Zhangdi]] rejects [[LiYiEasternHan|Li Yi]]'s slander against [[BanChaoEasternHan|Ban Chao]] through [[BehavioralEvidenceLoyaltyJudgment|troop-behavior evidence]], Ban Chao answers the injury through [[PublicDutyOverPrivateGrievance|non-retaliatory public duty]], [[ZhengHongEasternHan|Zheng Hong]] reduces Jiaozhi transport and tribute burdens through [[TransportRouteBurdenRelief|route and demand relief]], [[WeiBiaoEasternHan|Wei Biao]] separates high-office capacity from [[OfficeFitOverRoteCleverness|rote cleverness]], Zhangdi reinscribes [[InterrogationTortureConstraint|limits on interrogation violence]], and [[ZhuHuiZhangEraEasternHan|Zhu Hui]] turns opposition to salt and junshu restoration into [[StateMonopolyBurdenRemonstrance|burden-aware fiscal remonstrance]].",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 2
+      },
+      "wikilinks": [
+        "BanChaoEasternHan",
+        "BehavioralEvidenceLoyaltyJudgment",
+        "EmperorZhangOfHan",
+        "InterrogationTortureConstraint",
+        "LiYiEasternHan",
+        "OfficeFitOverRoteCleverness",
+        "PublicDutyOverPrivateGrievance",
+        "StateMonopolyBurdenRemonstrance",
+        "TransportRouteBurdenRelief",
+        "WeiBiaoEasternHan",
+        "ZhengHongEasternHan",
+        "ZhuHuiZhangEraEasternHan",
+        "zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv"
+      ]
+    },
     {
       "id": "e8990fad7331e9441df0502a49236758d8a7a8fe617e0db2a72761eada274c0d",
       "primary_topic": "governance-and-institutions",

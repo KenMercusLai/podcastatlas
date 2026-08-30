@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》753丨班超被告黑状](sources/zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv.md) — 芮淇讲透资治通鉴 episode on Li Yi's slander against Ban Chao, Emperor Zhang's evidence-based trust judgment, Ban Chao's non-retaliation, Zheng Hong's Jiaozhi route and tribute relief, Wei Biao's office-fit advice, interrogation limits, southern-tour burden restraint, and Zhu Hui's salt/junshu remonstrance.
 - [《资治通鉴·汉纪》754丨古代版窃听风云，结局爽文](sources/zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2.md) — 芮淇讲透资治通鉴 episode on Kong Xi and Cui Yin's accused Taixue speech, Emperor Zhang's tolerance, Mao Yi and Zheng Jun's integrity stories, Xiongnu trade conflict, and Ban Chao's Shule counter-defection.
 - [《资治通鉴·汉纪》755丨这个朝代皇上就开始鼓励生娃了！](sources/zizhi-tongjian-hanji-755-zhege-chaodai-huangshang-jiu-kaishi-guli-shengwa-le-lj7bdkxkdtjhpo469yxhskjyfdco.md) — 芮淇讲透资治通鉴 episode on Emperor Zhang's fertility relief, low-disturbance local governance, ritual travel, teacher honor, Liu Cang mourning, and the first Southern/Northern Xiongnu restitution debate.
 - [《资治通鉴·汉纪》756丨为什么劝你得饶人处且饶人？](sources/zizhi-tongjian-hanji-756-weishenme-quan-ni-de-rao-ren-chu-qie-rao-ren-ltn4tqzy1d-sodhjidncv8dyqxpj.md) — 芮淇讲透资治通鉴 episode on Emperor Zhang's forbearance, Zheng Hong's anti-Dou remonstrance, Fifth Lun's self-scrutiny, Zhang Yu's release of Hao Wu, and Ban Chao's Shule counter-deception.
@@ -1756,6 +1757,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [李毅 / Li Yi (Eastern Han)](entities/LiYiEasternHan.md) — Eastern Han envoy whose slander against Ban Chao gives Emperor Zhang and Ban Chao a test of loyalty evidence, accusation handling, and non-retaliation.
+- [韦彪 / Wei Biao (Eastern Han)](entities/WeiBiaoEasternHan.md) — Zhang-era minister who argues selection should prioritize role fit and warns that Shangshu work needs more than legal cleverness and quick replies.
+- [朱晖 / Zhu Hui (Zhang-era remonstrant)](entities/ZhuHuiZhangEraEasternHan.md) — Zhang-era former Linhuai administrator and Shangshu Pushe who resists restoring official salt monopoly and junshu despite imperial anger.
 - [梁玉 / Liang Yu (Eastern Han)](entities/LiangYuEasternHan.md) — Taixue informer whose report against Kong Xi and Cui Yin creates Hanji 754's fact-based historical-critique case.
 - [毛毅 / Mao Yi (Eastern Han)](entities/MaoYiEasternHan.md) — Eastern Han integrity figure whose apparent office-seeking is reinterpreted as filial conduct after he refuses office following his mother's death.
 - [王忠 / Wang Zhong (Shule king)](entities/WangZhongShuleKing.md) — Shule ruler whose Shache-backed defection is contained by Ban Chao through replacement, attack, and Kangju-mediated return.
@@ -10240,6 +10244,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Behavioral Evidence Loyalty Judgment / 以行动证忠](concepts/BehavioralEvidenceLoyaltyJudgment.md) — Zhangdi-era judgment pattern where troop behavior and operational following are treated as stronger evidence than a slanderer's motive claim.
+- [Office Fit Over Rote Cleverness / 任职才具重于应对小慧](concepts/OfficeFitOverRoteCleverness.md) — Personnel-selection pattern from Wei Biao's warning that legal familiarity and quick answers do not prove capacity for high confidential office.
+- [Interrogation Torture Constraint / 审讯刑具约束](concepts/InterrogationTortureConstraint.md) — Legal-restraint pattern where interrogation tools and timing are bounded to prevent punitive cruelty from replacing adjudication.
+- [State Monopoly Burden Remonstrance / 官营垄断扰民进谏](concepts/StateMonopolyBurdenRemonstrance.md) — Fiscal remonstrance pattern where direct state salt and transport monopoly is challenged because treasury gain can create merchant-like officials and public resentment.
+- [Transport Route Burden Relief / 贡道改线减负](concepts/TransportRouteBurdenRelief.md) — Administrative-capacity pattern where route redesign and tribute exemption reduce fatal transport risk and corvee pressure.
 - [生育负担减免政策 / Fertility Burden Relief Policy](concepts/FertilityBurdenReliefPolicy.md) — Premodern fertility-support pattern where grain, tax relief, and labor relief lower household birth costs because population is state capacity.
 - [据史批评容忍 / Historical Critique Tolerance](concepts/HistoricalCritiqueTolerance.md) — Governance norm from Hanji 754 where fact-based historical criticism is distinguished from defamatory slander and left unpunished.
 - [行动托底式反腐劝诫 / Action-Backed Anti-Corruption Persuasion](concepts/ActionBackedAntiCorruptionPersuasion.md) — Integrity pattern where Zheng Jun uses labor and returned earnings to make anti-bribery advice practical rather than abstract.

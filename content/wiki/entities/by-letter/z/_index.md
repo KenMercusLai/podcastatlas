@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 8480
+wiki_total_pages: 8483
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -884,6 +884,9 @@ wiki_pages:
   - key: "ZhuHuiHeEraLateHan"
     title: "朱晖 / Zhu Hui (He-era frontier commander)"
     url: "/wiki/entities/zhuhuiheeralatehan/"
+  - key: "ZhuHuiZhangEraEasternHan"
+    title: "朱晖 / Zhu Hui (Zhang-era remonstrant)"
+    url: "/wiki/entities/zhuhuizhangeraeasternhan/"
   - key: "ZhuZhiLateHan"
     title: "朱治 / Zhu Zhi (Late Han)"
     url: "/wiki/entities/zhuzhilatehan/"

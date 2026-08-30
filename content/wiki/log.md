@@ -13602,6 +13602,20 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-30] ingest | 《资治通鉴·汉纪》753丨班超被告黑状
+
+Ingested `/home/ken/repos/podcastatlas/content/episodes/《资治通鉴·汉纪》753丨班超被告黑状 [lt-SKSxrz30sAWit81eQbeonHzV_].md`.
+
+Created source note `wiki/sources/zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv.md`.
+
+Created entity pages for [[LiYiEasternHan]], [[WeiBiaoEasternHan]], and [[ZhuHuiZhangEraEasternHan]].
+
+Created concept pages for [[BehavioralEvidenceLoyaltyJudgment]], [[OfficeFitOverRoteCleverness]], [[InterrogationTortureConstraint]], [[StateMonopolyBurdenRemonstrance]], and [[TransportRouteBurdenRelief]].
+
+Updated [[BanChaoEasternHan]], [[EmperorZhangOfHan]], [[ZhengHongEasternHan]], and [[PublicDutyOverPrivateGrievance]].
+
+Updated `wiki/index.md` and `wiki/overview.md`; no settled contradictions found, with same-name Zhu Hui identity kept disambiguated.
+
 ## [2026-08-30] ingest | 《资治通鉴·汉纪》756丨为什么劝你得饶人处且饶人？
 
 Ingested the 2026-06-29 芮淇讲透资治通鉴 episode on Zhangdi's court mediation, Northern Xiongnu restitution, Zheng Hong's final anti-Dou remonstrance, Fifth Lun's self-scrutiny, Zhang Yu releasing Hao Wu, and Ban Chao's Shule counter-deception. Created the source note plus `ZhengHongEasternHan`, `FifthLunEasternHan`, `HaoWuQiangLeader`, `JiaoZhongShuleKing`, and `StrategicForbearanceGovernance`; updated `EmperorZhangOfHan`, `DouXianEasternHan`, `BanChaoEasternHan`, `ZhangYuEasternHan`, `MiWuQiangLeader`, `FrontierTrustThroughProtection`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; 第五轮 is normalized to 第五伦, 张鱼 aligned cautiously with the existing Zhang Yu route, and Huan Yu, Wei Biao, Yang Guang, Zhang Ling, Kangju details, and exact Qiang/Shule route details remain source-scoped.
@@ -14005,6 +14019,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-30] ingest | 《资治通鉴·汉纪》754丨古代版窃听风云，结局爽文
 
 Ingested the 2026-06-29 芮淇讲透资治通鉴 episode on Kong Xi and Cui Yin being reported by Liang Yu for Taixue discussion of Han Wudi, Emperor Zhang's refusal to punish fact-based historical criticism, Mao Yi and Zheng Jun's integrity stories, the Northern Xiongnu trade opening disrupted by Southern Xiongnu, and Ban Chao's containment of Wang Zhong's Shule defection. Created the source note plus `LiangYuEasternHan`, `MaoYiEasternHan`, `WangZhongShuleKing`, `HistoricalCritiqueTolerance`, and `ActionBackedAntiCorruptionPersuasion`; updated `EmperorZhangOfHan`, `KongXiEasternHan`, `CuiYinEasternHan`, `ZhengJunEasternHan`, `MengYunEasternHan`, `BanChaoEasternHan`, `ShuleKingdom`, `StrategicForbearanceGovernance`, and `index`. No settled contradiction found; 孔熙 is normalized to the Eastern Han `KongXiEasternHan`/孔僖 route, 崔彤 to `CuiYinEasternHan`/崔骃, and Shache, Kangju, He Gong, the modern corruption notice, and exact Wujicheng details remain source-scoped.
+
+## [2026-08-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-30] lint | Wiki health check
 

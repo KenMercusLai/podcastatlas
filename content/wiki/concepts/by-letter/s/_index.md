@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 6027
+wiki_total_pages: 6032
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1160,6 +1160,9 @@ wiki_pages:
   - key: "StateCyberActorThreatModel"
     title: "State Cyber Actor Threat Model"
     url: "/wiki/concepts/statecyberactorthreatmodel/"
+  - key: "StateMonopolyBurdenRemonstrance"
+    title: "State Monopoly Burden Remonstrance / 官营垄断扰民进谏"
+    url: "/wiki/concepts/statemonopolyburdenremonstrance/"
   - key: "StatePolicingLegitimacyCrisis"
     title: "State Policing Legitimacy Crisis"
     url: "/wiki/concepts/statepolicinglegitimacycrisis/"

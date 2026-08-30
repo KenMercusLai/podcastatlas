@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2589
+topic_total_pages: 2590
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -3391,6 +3391,9 @@ topic_concepts:
   - key: "TransparentAIUse"
     title: "Transparent AI Use"
     url: "/wiki/concepts/transparentaiuse/"
+  - key: "TransportRouteBurdenRelief"
+    title: "Transport Route Burden Relief / 贡道改线减负"
+    url: "/wiki/concepts/transportrouteburdenrelief/"
   - key: "TrashCanCorpusScientificAI"
     title: "Trash Can Corpus Scientific AI"
     url: "/wiki/concepts/trashcancorpusscientificai/"

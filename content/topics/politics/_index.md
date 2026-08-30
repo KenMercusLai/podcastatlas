@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2062
+topic_total_pages: 2067
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -310,6 +310,9 @@ topic_concepts:
   - key: "BattlefieldCommanderReplacementRisk"
     title: "Battlefield Commander Replacement Risk / 阵前换将风险"
     url: "/wiki/concepts/battlefieldcommanderreplacementrisk/"
+  - key: "BehavioralEvidenceLoyaltyJudgment"
+    title: "Behavioral Evidence Loyalty Judgment / 以行动证忠"
+    url: "/wiki/concepts/behavioralevidenceloyaltyjudgment/"
   - key: "BellwetherPlatformTrials"
     title: "Bellwether Platform Trials"
     url: "/wiki/concepts/bellwetherplatformtrials/"
@@ -1441,6 +1444,9 @@ topic_concepts:
   - key: "InternmentWithoutTrial"
     title: "Internment Without Trial"
     url: "/wiki/concepts/internmentwithouttrial/"
+  - key: "InterrogationTortureConstraint"
+    title: "Interrogation Torture Constraint / 审讯刑具约束"
+    url: "/wiki/concepts/interrogationtortureconstraint/"
   - key: "InterstateCascadeDiplomacy"
     title: "Interstate Cascade Diplomacy / 多国连锁外交"
     url: "/wiki/concepts/interstatecascadediplomacy/"
@@ -1828,6 +1834,9 @@ topic_concepts:
   - key: "OathBoundCommandTrust"
     title: "Oath-Bound Command Trust / 盟誓约束下的统帅信任"
     url: "/wiki/concepts/oathboundcommandtrust/"
+  - key: "OfficeFitOverRoteCleverness"
+    title: "Office Fit Over Rote Cleverness / 任职才具重于应对小慧"
+    url: "/wiki/concepts/officefitoverrotecleverness/"
   - key: "OfficeSurveillancePrivacy"
     title: "Office Surveillance And Privacy"
     url: "/wiki/concepts/officesurveillanceprivacy/"
@@ -5375,6 +5384,9 @@ topic_entities:
   - key: "WuShe"
     title: "武涉 / Wu She"
     url: "/wiki/entities/wushe/"
+  - key: "EmperorZhangOfHan"
+    title: "汉章帝 / Emperor Zhang of Han"
+    url: "/wiki/entities/emperorzhangofhan/"
   - key: "Luoyi"
     title: "洛邑 / Luoyi"
     url: "/wiki/entities/luoyi/"
@@ -5393,6 +5405,9 @@ topic_entities:
   - key: "WangYangming"
     title: "王阳明 / Wang Yangming"
     url: "/wiki/entities/wangyangming/"
+  - key: "BanChaoEasternHan"
+    title: "班超 / Ban Chao (Eastern Han)"
+    url: "/wiki/entities/banchaoeasternhan/"
   - key: "GanYingEasternHan"
     title: "甘英 / Gan Ying (Eastern Han)"
     url: "/wiki/entities/ganyingeasternhan/"

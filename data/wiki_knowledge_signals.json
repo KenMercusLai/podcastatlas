@@ -3341,9 +3341,9 @@
       "url": "/wiki/entities/baimarelieflatehan/"
     },
     "BanChaoEasternHan": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》780丨最多灾多难的时代：东汉 [lvGCuMRFJbLrOFER532EES3TDOa_].md",
@@ -3414,6 +3414,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》754丨古代版窃听风云，结局爽文",
           "url": "/wiki/sources/zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》753丨班超被告黑状 [lt-SKSxrz30sAWit81eQbeonHzV_].md",
+          "key": "zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》753丨班超被告黑状",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv/"
         }
       ],
       "updated": "2026-08-30",
@@ -3570,6 +3577,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/bedroomhomestayplatformtrust/"
+    },
+    "BehavioralEvidenceLoyaltyJudgment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》753丨班超被告黑状 [lt-SKSxrz30sAWit81eQbeonHzV_].md",
+          "key": "zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》753丨班超被告黑状",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/behavioralevidenceloyaltyjudgment/"
     },
     "Beijing": {
       "episode_count": 1,
@@ -10839,9 +10862,9 @@
       "url": "/wiki/entities/emperorshunofhan/"
     },
     "EmperorZhangOfHan": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》770丨沉默的真相：皇帝的生母竟是她 [lu5dqu8Uuw277IkZXkBLVqDbPL3q].md",
@@ -10884,6 +10907,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》754丨古代版窃听风云，结局爽文",
           "url": "/wiki/sources/zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》753丨班超被告黑状 [lt-SKSxrz30sAWit81eQbeonHzV_].md",
+          "key": "zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》753丨班超被告黑状",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv/"
         }
       ],
       "updated": "2026-08-30",
@@ -17766,6 +17796,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/interpersonalimageprojection/"
     },
+    "InterrogationTortureConstraint": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》753丨班超被告黑状 [lt-SKSxrz30sAWit81eQbeonHzV_].md",
+          "key": "zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》753丨班超被告黑状",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/interrogationtortureconstraint/"
+    },
     "InvestmentRiskManagement": {
       "episode_count": 59,
       "show_count": 9,
@@ -20496,6 +20542,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/lixielatehan/"
+    },
+    "LiYiEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》753丨班超被告黑状 [lt-SKSxrz30sAWit81eQbeonHzV_].md",
+          "key": "zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》753丨班超被告黑状",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/liyieasternhan/"
     },
     "LiYingLateHan": {
       "episode_count": 10,
@@ -26091,6 +26153,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/officedutyexitconstraint/"
     },
+    "OfficeFitOverRoteCleverness": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》753丨班超被告黑状 [lt-SKSxrz30sAWit81eQbeonHzV_].md",
+          "key": "zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》753丨班超被告黑状",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/officefitoverrotecleverness/"
+    },
     "OfficeOfScienceAndTechnologyPolicy": {
       "episode_count": 2,
       "show_count": 1,
@@ -28726,6 +28804,29 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/publiccorpsehumiliation/"
+    },
+    "PublicDutyOverPrivateGrievance": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》929丨对事不对人，你信了吗？ [lgaXJ0jzoPddmt3C5hiBNExqLhB3].md",
+          "key": "zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》929丨对事不对人，你信了吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》753丨班超被告黑状 [lt-SKSxrz30sAWit81eQbeonHzV_].md",
+          "key": "zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》753丨班超被告黑状",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/publicdutyoverprivategrievance/"
     },
     "PublicExerciseEmergencyPreparedness": {
       "episode_count": 1,
@@ -32664,6 +32765,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/statedependentselfcontrol/"
     },
+    "StateMonopolyBurdenRemonstrance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》753丨班超被告黑状 [lt-SKSxrz30sAWit81eQbeonHzV_].md",
+          "key": "zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》753丨班超被告黑状",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/statemonopolyburdenremonstrance/"
+    },
     "SteveYoungMelanomaPatient": {
       "episode_count": 1,
       "show_count": 1,
@@ -35432,6 +35549,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/transmountainexpansion/"
     },
+    "TransportRouteBurdenRelief": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》753丨班超被告黑状 [lt-SKSxrz30sAWit81eQbeonHzV_].md",
+          "key": "zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》753丨班超被告黑状",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/transportrouteburdenrelief/"
+    },
     "TrashCanCorpusScientificAI": {
       "episode_count": 1,
       "show_count": 1,
@@ -37048,6 +37181,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/weapontechnologyduellethality/"
+    },
+    "WeiBiaoEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》753丨班超被告黑状 [lt-SKSxrz30sAWit81eQbeonHzV_].md",
+          "key": "zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》753丨班超被告黑状",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/weibiaoeasternhan/"
     },
     "WeiHuanLateHan": {
       "episode_count": 1,
@@ -41959,9 +42108,9 @@
       "url": "/wiki/entities/zhengbaolatehan/"
     },
     "ZhengHongEasternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》756丨为什么劝你得饶人处且饶人？ [ltN4TqZy1D_SoDhJIDnCv8DyqxPJ].md",
@@ -41976,6 +42125,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》755丨这个朝代皇上就开始鼓励生娃了！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-755-zhege-chaodai-huangshang-jiu-kaishi-guli-shengwa-le-lj7bdkxkdtjhpo469yxhskjyfdco/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》753丨班超被告黑状 [lt-SKSxrz30sAWit81eQbeonHzV_].md",
+          "key": "zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》753丨班超被告黑状",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv/"
         }
       ],
       "updated": "2026-08-30",
@@ -42608,6 +42764,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/zhuhuiheeralatehan/"
+    },
+    "ZhuHuiZhangEraEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》753丨班超被告黑状 [lt-SKSxrz30sAWit81eQbeonHzV_].md",
+          "key": "zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》753丨班超被告黑状",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/zhuhuizhangeraeasternhan/"
     },
     "ZhuLiangLateHan": {
       "episode_count": 1,

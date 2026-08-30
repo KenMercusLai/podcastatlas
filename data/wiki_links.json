@@ -6467,6 +6467,10 @@
     "title": "Behavioral Age Inference",
     "url": "/wiki/concepts/behavioralageinference/"
   },
+  "BehavioralEvidenceLoyaltyJudgment": {
+    "title": "Behavioral Evidence Loyalty Judgment / 以行动证忠",
+    "url": "/wiki/concepts/behavioralevidenceloyaltyjudgment/"
+  },
   "BehavioralInvestingBiases": {
     "title": "Behavioral Investing Biases",
     "url": "/wiki/concepts/behavioralinvestingbiases/"
@@ -25607,6 +25611,10 @@
     "title": "Interpretation And Overinterpretation",
     "url": "/wiki/concepts/interpretationandoverinterpretation/"
   },
+  "InterrogationTortureConstraint": {
+    "title": "Interrogation Torture Constraint / 审讯刑具约束",
+    "url": "/wiki/concepts/interrogationtortureconstraint/"
+  },
   "InterstateBypassEconomics": {
     "title": "Interstate Bypass Economics",
     "url": "/wiki/concepts/interstatebypasseconomics/"
@@ -29982,6 +29990,10 @@
   "LiYanhong": {
     "title": "Li Yanhong",
     "url": "/wiki/entities/liyanhong/"
+  },
+  "LiYiEasternHan": {
+    "title": "李毅 / Li Yi (Eastern Han)",
+    "url": "/wiki/entities/liyieasternhan/"
   },
   "LiYingLateHan": {
     "title": "李膺 / Li Ying (late Han)",
@@ -36886,6 +36898,10 @@
   "OfficeDutyMartyrdom": {
     "title": "Office-Duty Martyrdom / 守官赴死",
     "url": "/wiki/concepts/officedutymartyrdom/"
+  },
+  "OfficeFitOverRoteCleverness": {
+    "title": "Office Fit Over Rote Cleverness / 任职才具重于应对小慧",
+    "url": "/wiki/concepts/officefitoverrotecleverness/"
   },
   "OfficeLinkedProfitAccounting": {
     "title": "Office-Linked Profit Accounting",
@@ -47759,6 +47775,10 @@
     "title": "State-Mediated Remittance System / 国家中介汇款体系",
     "url": "/wiki/concepts/statemediatedremittancesystem/"
   },
+  "StateMonopolyBurdenRemonstrance": {
+    "title": "State Monopoly Burden Remonstrance / 官营垄断扰民进谏",
+    "url": "/wiki/concepts/statemonopolyburdenremonstrance/"
+  },
   "StateOwnedCeramicFactorySystem": {
     "title": "State-Owned Ceramic Factory System / 国营瓷厂体系",
     "url": "/wiki/concepts/stateownedceramicfactorysystem/"
@@ -51343,6 +51363,10 @@
     "title": "Transport Corridor Severance / 交通线切割",
     "url": "/wiki/concepts/transportcorridorseverance/"
   },
+  "TransportRouteBurdenRelief": {
+    "title": "Transport Route Burden Relief / 贡道改线减负",
+    "url": "/wiki/concepts/transportrouteburdenrelief/"
+  },
   "TrashCanCorpusScientificAI": {
     "title": "Trash Can Corpus Scientific AI",
     "url": "/wiki/concepts/trashcancorpusscientificai/"
@@ -53886,6 +53910,10 @@
   "WeiBao": {
     "title": "魏豹 / Wei Bao",
     "url": "/wiki/entities/weibao/"
+  },
+  "WeiBiaoEasternHan": {
+    "title": "韦彪 / Wei Biao (Eastern Han)",
+    "url": "/wiki/entities/weibiaoeasternhan/"
   },
   "WeiBoyang": {
     "title": "Wei Boyang / 魏伯阳",
@@ -58943,6 +58971,10 @@
     "title": "朱晖 / Zhu Hui (He-era frontier commander)",
     "url": "/wiki/entities/zhuhuiheeralatehan/"
   },
+  "ZhuHuiZhangEraEasternHan": {
+    "title": "朱晖 / Zhu Hui (Zhang-era remonstrant)",
+    "url": "/wiki/entities/zhuhuizhangeraeasternhan/"
+  },
   "ZhuJiaLu": {
     "title": "朱家 / Zhu Jia (Lu)",
     "url": "/wiki/entities/zhujialu/"
@@ -63170,6 +63202,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv": {
+    "title": "《资治通鉴·汉纪》753丨班超被告黑状",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv/"
   },
   "zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2": {
     "title": "《资治通鉴·汉纪》754丨古代版窃听风云，结局爽文",
