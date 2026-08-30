@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 5986
+wiki_total_pages: 5989
 wiki_pages:
   - key: "ICEWorkforceExpansion"
     title: "ICE Workforce Expansion"
@@ -728,6 +728,9 @@ wiki_pages:
   - key: "ImperialFiscalElasticity"
     title: "皇室财政弹性 / Imperial Fiscal Elasticity"
     url: "/wiki/concepts/imperialfiscalelasticity/"
+  - key: "ImperialBirthMotherRecognition"
+    title: "皇帝生母名分追认 / Imperial Birth-Mother Recognition"
+    url: "/wiki/concepts/imperialbirthmotherrecognition/"
   - key: "InvestigationDrivenRebellionEscalation"
     title: "调查推动式反叛升级 / Investigation-Driven Rebellion Escalation"
     url: "/wiki/concepts/investigationdrivenrebellionescalation/"

@@ -16375,6 +16375,10 @@
     "title": "汉献帝 / Emperor Xian of Han",
     "url": "/wiki/entities/emperorxianofhan/"
   },
+  "EmperorZhangOfHan": {
+    "title": "汉章帝 / Emperor Zhang of Han",
+    "url": "/wiki/entities/emperorzhangofhan/"
+  },
   "EmperorZhiOfHan": {
     "title": "汉质帝 / Emperor Zhi of Han",
     "url": "/wiki/entities/emperorzhiofhan/"
@@ -16426,6 +16430,10 @@
   "EmpressDowagerDongLateHan": {
     "title": "董太后 / Empress Dowager Dong (late Han)",
     "url": "/wiki/entities/empressdowagerdonglatehan/"
+  },
+  "EmpressDowagerDouHeLateHan": {
+    "title": "窦太后 / Empress Dowager Dou (Emperor He era)",
+    "url": "/wiki/entities/empressdowagerdouhelatehan/"
   },
   "EmpressDowagerDouMiao": {
     "title": "窦妙 / Empress Dowager Dou Miao",
@@ -24519,6 +24527,10 @@
     "title": "Imperfect Action Practice",
     "url": "/wiki/concepts/imperfectactionpractice/"
   },
+  "ImperialBirthMotherRecognition": {
+    "title": "皇帝生母名分追认 / Imperial Birth-Mother Recognition",
+    "url": "/wiki/concepts/imperialbirthmotherrecognition/"
+  },
   "ImperialBondservantGovernance": {
     "title": "皇室包衣治理 / Imperial Bondservant Governance",
     "url": "/wiki/concepts/imperialbondservantgovernance/"
@@ -29791,6 +29803,10 @@
     "title": "梁不疑 / Liang Buyi (late Han)",
     "url": "/wiki/entities/liangbuyilatehan/"
   },
+  "LiangGuirenHeLateHan": {
+    "title": "梁贵人 / Liang Guiren (Emperor He era)",
+    "url": "/wiki/entities/liangguirenhelatehan/"
+  },
   "LiangHuLateHan": {
     "title": "梁鹄 / Liang Hu (late Han)",
     "url": "/wiki/entities/lianghulatehan/"
@@ -30426,6 +30442,10 @@
   "LiuQing": {
     "title": "刘擎 / Liu Qing",
     "url": "/wiki/entities/liuqing/"
+  },
+  "LiuQingQingheKing": {
+    "title": "清河王刘庆 / Liu Qing (Qinghe king)",
+    "url": "/wiki/entities/liuqingqingheking/"
   },
   "LiuRuyi": {
     "title": "刘如意 / Liu Ruyi",
@@ -37402,6 +37422,10 @@
   "OuterRelativeCourtPower": {
     "title": "外戚专权与清算 / Outer-Relative Court Power",
     "url": "/wiki/concepts/outerrelativecourtpower/"
+  },
+  "OuterRelativeRecurrence": {
+    "title": "外戚轮回 / Outer-Relative Recurrence",
+    "url": "/wiki/concepts/outerrelativerecurrence/"
   },
   "OutlierDrivenAngelInvesting": {
     "title": "Outlier-Driven Angel Investing",
@@ -46523,6 +46547,10 @@
     "title": "宋初建国合法性表演 / Song Founding Legitimacy Performance",
     "url": "/wiki/concepts/songfoundinglegitimacyperformance/"
   },
+  "SongGuirenZhangHeLateHan": {
+    "title": "宋贵人 / Song Guiren (Zhang-He era)",
+    "url": "/wiki/entities/songguirenzhanghelatehan/"
+  },
   "SongHongEasternHan": {
     "title": "宋弘 / Song Hong (Eastern Han)",
     "url": "/wiki/entities/songhongeasternhan/"
@@ -47662,6 +47690,10 @@
   "StorytimeToys": {
     "title": "Storytime Toys",
     "url": "/wiki/entities/storytimetoys/"
+  },
+  "StraightRedressWithoutRevenge": {
+    "title": "以直报怨式平反 / Straight Redress Without Revenge",
+    "url": "/wiki/concepts/straightredresswithoutrevenge/"
   },
   "StraitOfHormuz": {
     "title": "Strait of Hormuz",
@@ -57375,6 +57407,10 @@
     "title": "章平 / Zhang Ping (Qin General)",
     "url": "/wiki/entities/zhangpingqingeneral/"
   },
+  "ZhangPuEasternHan": {
+    "title": "张酺 / Zhang Pu (Eastern Han)",
+    "url": "/wiki/entities/zhangpueasternhan/"
+  },
   "ZhangQi": {
     "title": "Zhang Qi / 张奇",
     "url": "/wiki/entities/zhangqi/"
@@ -62662,6 +62698,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q": {
+    "title": "《资治通鉴·汉纪》770丨沉默的真相：皇帝的生母竟是她",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q/"
   },
   "zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf": {
     "title": "《资治通鉴·汉纪》771丨寻找罗马！汉使甘英的世界旅行",

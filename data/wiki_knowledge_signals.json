@@ -9669,9 +9669,9 @@
       "url": "/wiki/entities/emperorchongofhan/"
     },
     "EmperorHeOfHan": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》777丨比肩武则天，碾压慈禧，这个女人了不得！ [lk7J4Qv_-SQfopzBii6rc_iVbuxS].md",
@@ -9721,6 +9721,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》771丨寻找罗马！汉使甘英的世界旅行",
           "url": "/wiki/sources/zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》770丨沉默的真相：皇帝的生母竟是她 [lu5dqu8Uuw277IkZXkBLVqDbPL3q].md",
+          "key": "zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》770丨沉默的真相：皇帝的生母竟是她",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q/"
         }
       ],
       "updated": "2026-08-30",
@@ -10124,6 +10131,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/emperorshunofhan/"
     },
+    "EmperorZhangOfHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》770丨沉默的真相：皇帝的生母竟是她 [lu5dqu8Uuw277IkZXkBLVqDbPL3q].md",
+          "key": "zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》770丨沉默的真相：皇帝的生母竟是她",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/emperorzhangofhan/"
+    },
     "EmperorZhiOfHan": {
       "episode_count": 4,
       "show_count": 1,
@@ -10346,6 +10369,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/empressdowagerdenglatehan/"
+    },
+    "EmpressDowagerDouHeLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》770丨沉默的真相：皇帝的生母竟是她 [lu5dqu8Uuw277IkZXkBLVqDbPL3q].md",
+          "key": "zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》770丨沉默的真相：皇帝的生母竟是她",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/empressdowagerdouhelatehan/"
     },
     "EmpressDowagerDouMiao": {
       "episode_count": 9,
@@ -15983,6 +16022,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/immunesystemastunablesensornetwork/"
     },
+    "ImperialBirthMotherRecognition": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》770丨沉默的真相：皇帝的生母竟是她 [lu5dqu8Uuw277IkZXkBLVqDbPL3q].md",
+          "key": "zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》770丨沉默的真相：皇帝的生母竟是她",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/imperialbirthmotherrecognition/"
+    },
     "ImperialDeathConcealment": {
       "episode_count": 5,
       "show_count": 1,
@@ -19180,6 +19235,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/liangbuyilatehan/"
     },
+    "LiangGuirenHeLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》770丨沉默的真相：皇帝的生母竟是她 [lu5dqu8Uuw277IkZXkBLVqDbPL3q].md",
+          "key": "zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》770丨沉默的真相：皇帝的生母竟是她",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/liangguirenhelatehan/"
+    },
     "LiangJiLateHan": {
       "episode_count": 21,
       "show_count": 1,
@@ -20029,6 +20100,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/liupirunanlatehan/"
+    },
+    "LiuQingQingheKing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》770丨沉默的真相：皇帝的生母竟是她 [lu5dqu8Uuw277IkZXkBLVqDbPL3q].md",
+          "key": "zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》770丨沉默的真相：皇帝的生母竟是她",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/liuqingqingheking/"
     },
     "LiuSuanLateHan": {
       "episode_count": 5,
@@ -22539,9 +22626,9 @@
       "url": "/wiki/concepts/metabolicpsychiatry/"
     },
     "MiTangQiangLeader": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》772丨他为何宁愿成为逃犯，也不愿继承家业？ [lrou5nayE7opB5FavWUz6BQbgGAe].md",
@@ -22556,6 +22643,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》771丨寻找罗马！汉使甘英的世界旅行",
           "url": "/wiki/sources/zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》770丨沉默的真相：皇帝的生母竟是她 [lu5dqu8Uuw277IkZXkBLVqDbPL3q].md",
+          "key": "zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》770丨沉默的真相：皇帝的生母竟是她",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q/"
         }
       ],
       "updated": "2026-08-30",
@@ -24695,6 +24789,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/outerrelativecourtpower/"
+    },
+    "OuterRelativeRecurrence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》770丨沉默的真相：皇帝的生母竟是她 [lu5dqu8Uuw277IkZXkBLVqDbPL3q].md",
+          "key": "zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》770丨沉默的真相：皇帝的生母竟是她",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/outerrelativerecurrence/"
     },
     "PCOSCardiometabolicRisk": {
       "episode_count": 1,
@@ -29130,9 +29240,9 @@
       "url": "/wiki/entities/shanxiayousong/"
     },
     "ShaodangQiang": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》773丨东汉美女政治家邓绥，如何逆袭成皇后？ [lsmM5ngThJ368GuuMM2xbwC3veA5].md",
@@ -29175,6 +29285,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》772丨他为何宁愿成为逃犯，也不愿继承家业？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》770丨沉默的真相：皇帝的生母竟是她 [lu5dqu8Uuw277IkZXkBLVqDbPL3q].md",
+          "key": "zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》770丨沉默的真相：皇帝的生母竟是她",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q/"
         }
       ],
       "updated": "2026-08-30",
@@ -29972,6 +30089,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/songelatehan/"
     },
+    "SongGuirenZhangHeLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》770丨沉默的真相：皇帝的生母竟是她 [lu5dqu8Uuw277IkZXkBLVqDbPL3q].md",
+          "key": "zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》770丨沉默的真相：皇帝的生母竟是她",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/songguirenzhanghelatehan/"
+    },
     "SongHongEasternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -30312,6 +30445,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/stormont/"
+    },
+    "StraightRedressWithoutRevenge": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》770丨沉默的真相：皇帝的生母竟是她 [lu5dqu8Uuw277IkZXkBLVqDbPL3q].md",
+          "key": "zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》770丨沉默的真相：皇帝的生母竟是她",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/straightredresswithoutrevenge/"
     },
     "StrategicDefectorIncorporation": {
       "episode_count": 5,
@@ -38444,6 +38593,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/zhangpanlatehan/"
+    },
+    "ZhangPuEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》770丨沉默的真相：皇帝的生母竟是她 [lu5dqu8Uuw277IkZXkBLVqDbPL3q].md",
+          "key": "zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》770丨沉默的真相：皇帝的生母竟是她",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/zhangpueasternhan/"
     },
     "ZhangQiaoLateHan": {
       "episode_count": 3,

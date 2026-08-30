@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 5986
+wiki_total_pages: 5989
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1643,6 +1643,9 @@ wiki_pages:
   - key: "SpecialistDelegationLeadership"
     title: "专才分工式领导力 / Specialist Delegation Leadership"
     url: "/wiki/concepts/specialistdelegationleadership/"
+  - key: "StraightRedressWithoutRevenge"
+    title: "以直报怨式平反 / Straight Redress Without Revenge"
+    url: "/wiki/concepts/straightredresswithoutrevenge/"
   - key: "SongUnificationStrategy"
     title: "先南后北 / Song Unification Strategy"
     url: "/wiki/concepts/songunificationstrategy/"

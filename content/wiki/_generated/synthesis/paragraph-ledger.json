@@ -400,12 +400,13 @@
       "5463cac3a05898616fdcdbe4bbf0fffe113a112bf4093056579dfb7f48e3eca2",
       "1aac611f89d8236d69b21c1363cb0d72ac05c8cc15f9f381be278ac7b89f2bd6",
       "f44e5469f37f332e8fdbac6a5ae1a2c4a5935bfc6ab6eaaf3380385fb8cb290a",
-      "0944897fad2beac2f301b796bb694027832267e2eb18cd26f5a96047fddc2fde"
+      "0944897fad2beac2f301b796bb694027832267e2eb18cd26f5a96047fddc2fde",
+      "0da08e278be0f9698cd22a27d657f9c77e0ffadee5aa5a02f7e114b61da05682"
     ],
-    "paragraph_count": 400
+    "paragraph_count": 401
   },
-  "overview_commit": "c126abb8e44fecadaa1b46eef3a2f6e2b3e8ab19",
-  "overview_digest": "645ab3c90ece15023a59ce7de8569678d4a61740c7fbdd9fccb94df33f1aed97",
+  "overview_commit": "8c9ff48e61bb7910b65e6976029cc66a5f05da84",
+  "overview_digest": "6bf755eeed7e6c576b3f04f0faf423c9aad07c4f38ff2fccde1e523aeb87171f",
   "paragraphs": [
     {
       "id": "76439d5a84c3e146cc75ca3dd110deeb51c4dcd3e2e69896481f9ba03f15b1a2",
@@ -12338,6 +12339,34 @@
         "zizhi-tongjian-hanji-773-donghan-meinv-zhengzhijia-dengsui-ruhe-nixi-cheng-huanghou-lsmm5ngthj368guumm2xbwc3vea5",
         "zizhi-tongjian-hanji-774-banchao-jiebanren-ruhe-gaoluan-xiyu-lnbnoc-uys8kee7pz9yecxecrpyd",
         "zizhi-tongjian-hanji-775-gan-xiang-mingyun-shuo-no-bukuishi-you-tounao-de-nvzhumu-lh0erdh890ooow6dn0wvf1fbzedf"
+      ]
+    },
+    {
+      "id": "0da08e278be0f9698cd22a27d657f9c77e0ffadee5aa5a02f7e114b61da05682",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q|《资治通鉴·汉纪》770丨沉默的真相：皇帝的生母竟是她]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 96-97 CE [[EmperorHeOfHan|汉和帝]] layer before [[zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf|Hanji 771]]. It adds [[LiangGuirenHeLateHan|梁贵人]], [[EmpressDowagerDouHeLateHan|窦太后]], [[ZhangPuEasternHan|张酺]], [[LiuQingQingheKing|清河王刘庆]], [[SongGuirenZhangHeLateHan|宋贵人]], [[EmperorZhangOfHan|汉章帝]], [[StraightRedressWithoutRevenge|以直报怨式平反]], [[ImperialBirthMotherRecognition|皇帝生母名分追认]], and [[OuterRelativeRecurrence|外戚轮回]], while extending [[MiTangQiangLeader|弥唐]] and [[ShaodangQiang|烧当羌]]. Its core synthesis is that Emperor He answers a hidden birth-mother grievance through active redress but refuses revenge-like erasure of the adoptive mother who raised him, and that the same repair raises the Liang maternal line into a future outer-relative risk. No settled contradiction is recorded; 清河王刘庆 is disambiguated from modern [[LiuQing|刘擎]], and this 窦太后 is kept separate from later [[EmpressDowagerDouMiao|窦妙]].",
+      "topic_scores": {
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "EmperorHeOfHan",
+        "EmperorZhangOfHan",
+        "EmpressDowagerDouHeLateHan",
+        "EmpressDowagerDouMiao",
+        "ImperialBirthMotherRecognition",
+        "LiangGuirenHeLateHan",
+        "LiuQing",
+        "LiuQingQingheKing",
+        "MiTangQiangLeader",
+        "OuterRelativeRecurrence",
+        "RuiqiJiangtouZizhiTongjian",
+        "ShaodangQiang",
+        "SongGuirenZhangHeLateHan",
+        "StraightRedressWithoutRevenge",
+        "ZhangPuEasternHan",
+        "zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q",
+        "zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf"
       ]
     }
   ],

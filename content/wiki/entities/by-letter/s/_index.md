@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 8398
+wiki_total_pages: 8404
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1712,6 +1712,9 @@ wiki_pages:
   - key: "SongXiangGong"
     title: "宋襄公"
     url: "/wiki/entities/songxianggong/"
+  - key: "SongGuirenZhangHeLateHan"
+    title: "宋贵人 / Song Guiren (Zhang-He era)"
+    url: "/wiki/entities/songguirenzhanghelatehan/"
   - key: "SongPigong"
     title: "宋辟公 / Duke Pi of Song"
     url: "/wiki/entities/songpigong/"

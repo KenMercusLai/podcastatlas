@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2036
+topic_total_pages: 2037
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3127,6 +3127,9 @@ topic_concepts:
   - key: "HumaneLocalGovernance"
     title: "仁厚地方治理 / Humane Local Governance"
     url: "/wiki/concepts/humanelocalgovernance/"
+  - key: "StraightRedressWithoutRevenge"
+    title: "以直报怨式平反 / Straight Redress Without Revenge"
+    url: "/wiki/concepts/straightredresswithoutrevenge/"
   - key: "OfficeDutyExitConstraint"
     title: "任官责任退出受限 / Office Duty Exit Constraint"
     url: "/wiki/concepts/officedutyexitconstraint/"
