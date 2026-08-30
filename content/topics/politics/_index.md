@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2054
+topic_total_pages: 2055
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3139,6 +3139,9 @@ topic_concepts:
   - key: "TemporaryFrontierRetrenchment"
     title: "临时边防收缩 / Temporary Frontier Retrenchment"
     url: "/wiki/concepts/temporaryfrontierretrenchment/"
+  - key: "KinshipProtocolBoundary"
+    title: "亲情名分边界 / Kinship Protocol Boundary"
+    url: "/wiki/concepts/kinshipprotocolboundary/"
   - key: "HumaneLocalGovernance"
     title: "仁厚地方治理 / Humane Local Governance"
     url: "/wiki/concepts/humanelocalgovernance/"

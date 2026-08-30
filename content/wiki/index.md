@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》758丨所有高情商，背后都是分寸感](sources/zizhi-tongjian-hanji-758-suoyou-gaoqingshang-beihou-doushi-fencungan-lr-6tzffmwdtzidkf3y8ule35qf7.md) — 芮淇讲透资治通鉴 episode on Emperor Zhang's late-reign royal-kin overfavor, Cao Bao's ritual code, Ban Chao's Shache deception, and He Chang/Song Yi's fiscal and protocol remonstrance.
 - [Dolly Parton’s “9 to 5,” the true story behind the anthem (bonus)](sources/default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177-default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177.md) — Planet Money bonus episode on Karen Nussbaum, 9to5, Jane Fonda, Patricia Resnick, Dolly Parton, and how a clerical-worker labor movement became the film and song "9 to 5".
 - [《资治通鉴·汉纪》759丨人性各种欲望，最可怕的是权力欲](sources/zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j.md) — 芮淇讲透资治通鉴 episode on Emperor Zhang's death, Emperor He's child accession, Empress Dowager Dou's regency, Dou Xian's early court power, Cui Yin and Deng Biao's roles, and the Geng Bing/Song Yi Northern Xiongnu debate.
 - [《资治通鉴·汉纪》760丨历史揭秘：皇后出轨被抓，下场惨不惨？](sources/zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi.md) — 芮淇讲透资治通鉴 episode on Empress Dowager Dou's Liu Chang affair, Dou Xian's murder and campaign-redemption request, Deng Xun's protective Qiang-frontier policy, and Yuan An/Ren Kui's anti-expedition resistance.
@@ -10219,6 +10220,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [亲情名分边界 / Kinship Protocol Boundary](concepts/KinshipProtocolBoundary.md) — Court-governance principle that royal affection remains safe only when kept inside public hierarchy, ritual form, fiscal limits, and territorial distance.
 - [Office Worker Labor Organizing](concepts/OfficeWorkerLaborOrganizing.md) — Collective conversion of clerical and administrative workplace grievances into demands over pay, promotion, dignity, leave, child care, and bargaining power.
 - [Gendered Office Hierarchy](concepts/GenderedOfficeHierarchy.md) — Workplace pattern where feminized clerical roles sit below male-dominated managerial authority, promotion control, and credit.
 - [Culture-Led Labor Organizing](concepts/CultureLedLaborOrganizing.md) — Use of songs, films, comedy, television, and public performance to turn dispersed workplace frustrations into collective recognition and action.

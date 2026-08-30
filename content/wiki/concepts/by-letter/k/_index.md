@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "k"
-wiki_total_pages: 6018
+wiki_total_pages: 6019
 wiki_pages:
   - key: "K12ComputerScienceAccess"
     title: "K-12 Computer Science Access"
@@ -86,6 +86,9 @@ wiki_pages:
   - key: "KRASOncologyTarget"
     title: "KRAS Oncology Target"
     url: "/wiki/concepts/krasoncologytarget/"
+  - key: "KinshipProtocolBoundary"
+    title: "亲情名分边界 / Kinship Protocol Boundary"
+    url: "/wiki/concepts/kinshipprotocolboundary/"
   - key: "KuaijiCommanderyCoup"
     title: "会稽郡守府夺权 / Kuaiji Commandery Coup"
     url: "/wiki/concepts/kuaijicommanderycoup/"

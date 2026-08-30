@@ -13602,6 +13602,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-30] ingest | 《资治通鉴·汉纪》758丨所有高情商，背后都是分寸感
+
+Ingested the 2026-06-30 芮淇讲透资治通鉴 episode on Emperor Zhang's late-reign "分寸感" problem, Cao Bao's ritual-code completion, Ban Chao's Shache deception, He Chang's fiscal remonstrance, Song Yi's royal-kin protocol warning, Zhangdi's deathbed frugality, and the transition toward Empress Dowager Dou's regency. Created the source note plus `KinshipProtocolBoundary`; updated `EmperorZhangOfHan`, `CaoBaoEasternHan`, `BanChaoEasternHan`, `HeChangEasternHan`, `SongYiEasternHan`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; royal-prince identities, Shache/Yutian/Wensu/Gumo/Weitou details, and exact force counts remain source-scoped.
+
 ## [2026-08-30] ingest | 《资治通鉴·汉纪》761丨从死刑犯到沙场英雄，他是如何做到的？
 
 Ingested the 2026-06-30 芮淇讲透资治通鉴 episode on Dou Xian's contested Northern Xiongnu expedition, the court's mourning/farming/public-burden objections, Empress Dowager Dou's mansion orders for Dou Du and Dou Jing, Zhi Shou's public refusal of Dou's private request, He Chang's partial rescue memorial, the Jiluoshan victory, Yanran commemoration, and the Dou brothers' post-victory command power. Created the source note plus `ZhiShouEasternHan`, `HeChangEasternHan`, and `DouDuEasternHan`; updated Dou Xian, Northern Xiongnu, Jiluoshan, Yanran, Dou Jing, Empress Dowager Dou, Le Hui, Han Leng, Zhu Hui, Deng Hong, Geng Kui, outer-relative court power, direct remonstrance criminalization, retaliatory political terror, reputation-constrained war restraint, `index`, and `overview`. No settled contradiction found; 致授/致恽 and 朱徽 are normalized to 郅寿/郅恽 and 朱晖, while minor route geography, hostage handling, and casualty figures remain source-scoped.
@@ -13961,6 +13965,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-30] ingest | Dolly Parton’s “9 to 5,” the true story behind the anthem (bonus)
 
 Ingested the 2026-08-30 Planet Money bonus episode on the real clerical-worker labor movement behind Dolly Parton's "9 to 5." Created the source note plus `KarenNussbaum`, `JaneFonda`, `PatriciaResnick`, `NineToFiveOrganization`, `NineToFiveFilm`, `OfficeWorkerLaborOrganizing`, `GenderedOfficeHierarchy`, `CultureLedLaborOrganizing`, and `SexualHarassmentNamingLag`; updated `DollyParton`, `WomenWorkplaceProgressStall`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; the source extends Dolly Parton's cultural-memory page with a labor-history layer and qualifies the film's recognition effect by preserving its unfinished child care, harassment, leave, equal-pay, union-decline, and race-scope limits.
+
+## [2026-08-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-30] lint | Wiki health check
 

@@ -11,16 +11,19 @@ sources:
   - zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i
   - zizhi-tongjian-hanji-764-ta-weile-huoming-jing-jianjie-mie-le-luoma-diguo-lpk0c6muneabhk1oonzyjvawwf4
   - zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb
+  - zizhi-tongjian-hanji-758-suoyou-gaoqingshang-beihou-doushi-fencungan-lr-6tzffmwdtzidkf3y8ule35qf7
 last_updated: 2026-08-30
 ---
 
 ## Overview
 
-班超 / Ban Chao appears in the current wiki as the Eastern Han Western Regions commander whose record now begins with supply-line judgment against a large [[Yuezhi|Yuezhi]] attack and then extends through protectorate restoration, Qiuci kingship intervention, Yanqi conquest, far-western envoy sponsorship, late return, and ignored light-touch handoff advice. Across the listed sources, Ban Chao functions as a benchmark for frontier governance: he can coerce when necessary, but his durable advantage lies in reading local incentives, logistics, pride, and legitimacy more accurately than later successors.
+班超 / Ban Chao appears in the current wiki as the Eastern Han Western Regions commander whose record now begins with the Shache deception in Hanji 758 and then extends through supply-line judgment against a large [[Yuezhi|Yuezhi]] attack, protectorate restoration, Qiuci kingship intervention, Yanqi conquest, far-western envoy sponsorship, late return, and ignored light-touch handoff advice. Across the listed sources, Ban Chao functions as a benchmark for frontier governance: he can deceive and coerce when necessary, but his durable advantage lies in reading local incentives, logistics, pride, and legitimacy more accurately than later successors.
 
 ## Current Profile
 
-Hanji 763 adds the earliest current combat layer. After the Yuezhi king's request to marry a Han princess is refused, the Yuezhi deputy king Xie leads a large army against Ban Chao. Ban does not answer the numerical imbalance with a decisive field battle. He judges that the enemy is far from home and dependent on supplies, harvests local grain, closes the city, and waits until shortage forces the attacker to seek provisions from [[QiuciKingdom|Qiuci]]. He then ambushes the food mission, sends the severed heads to the Yuezhi camp, and lets the stunned attacker withdraw. The result is annual Yuezhi tribute in the source's telling.
+Hanji 758 supplies the earliest current campaign layer. Ban Chao raises Yutian and other allied forces to attack Shache, while the [[QiuciKingdom|Qiuci]] king leads a larger relief force from Wensu, Gumo, and Weitou. Ban does not meet the larger coalition directly. He deliberately releases a captive with false retreat information, lets the Qiuci and Wensu forces split to block his supposed withdrawal routes, and then attacks Shache's exposed camp. Shache surrenders, and the relief coalition withdraws.
+
+Hanji 763 adds a second combat-and-logistics layer. After the Yuezhi king's request to marry a Han princess is refused, the Yuezhi deputy king Xie leads a large army against Ban Chao. Ban judges that the enemy is far from home and dependent on supplies, harvests local grain, closes the city, waits until shortage forces the attacker to seek provisions from Qiuci, and ambushes the food mission. The result is withdrawal and annual Yuezhi tribute in the source's telling.
 
 Hanji 764 supplies the protectorate-restoration layer. After Qiuci, Gumo, and Wensu submit, the court reestablishes the Western Regions Protector and Wuji Colonel offices, appoints Ban Chao as Protector, and places Xu Gan as chief clerk. Ban Chao and [[YaoGuangLateHan|Yao Guang]] then coerce Qiuci into deposing Youliduo and installing the pro-Han hostage prince Ba Ba, making Qiuci's Taqian City the protectorate base while Xu Gan remains at [[ShuleKingdom|Shule]].
 
@@ -30,20 +33,22 @@ Hanji 771 then shows Ban Chao's Western Regions position as an intelligence plat
 
 Hanji 774 and Hanji 779 define the handoff lesson. Ban Chao grows old after more than thirty years in the Western Regions, is recalled after [[BanZhaoLateHan|Ban Zhao]] petitions [[EmperorHeOfHan|Emperor He]], returns to Luoyang, and dies soon afterward. Before [[RenShangLateHan|Ren Shang]] succeeds him, Ban warns that Western Regions garrison people and polities are proud, volatile, and difficult to discipline; the successor should govern loosely, forgive small faults, and hold the larger pattern. Ren Shang dismisses the advice and later governs harshly, triggering rebellion and contributing to eventual withdrawal.
 
-Hanji 780 preserves the summary judgment: Ban Chao turns Zhang Qian's opening of the Western Regions into durable Eastern Han control through limited direct troops, local balancing, and garrison farming. The Yuezhi episode from Hanji 763 sharpens that judgment because it shows the same frontier intelligence in battle form: the decisive variable is often supply, timing, and local geography rather than visible troop count.
+Hanji 780 preserves the summary judgment: Ban Chao turns Zhang Qian's opening of the Western Regions into durable Eastern Han control through limited direct troops, local balancing, and garrison farming. The Shache and Yuezhi episodes sharpen that judgment because they show the same frontier intelligence in battle form: the decisive variable is often enemy expectation, supply, timing, and coalition alignment rather than visible troop count.
 
 ## Key Characteristics
 
+- Deception-and-timing commander who defeats Shache by releasing false information, splitting the relief force, and attacking the exposed camp.
 - Supply-line reader who defeats a larger Yuezhi attack by denying grain, waiting out distance, and ambushing the provisioning mission.
 - Protector and local-kingship operator appointed after Western Regions office restoration, with Qiuci's Ba Ba installation anchoring protectorate placement.
 - Forceful campaign commander whose Yanqi victory uses allied Western Regions troops, execution, replacement kingship, and hostage submission.
 - Low-support frontier operator whose wider success depends on local balancing, limited direct force, garrison farming, and patience.
 - Sponsor of Gan Ying's mission toward Da Qin and Tiaozhi, making frontier control a platform for geographic intelligence.
 - Late-return adviser whose handoff counsel defines the contrast with Ren Shang's harsh and misfit rule.
-- Strategic benchmark for judging later Western Regions abandonment, recovery debates, and appointment quality.
 
 ## Evidence
 
+- Shache deception: [[zizhi-tongjian-hanji-758-suoyou-gaoqingshang-beihou-doushi-fencungan-lr-6tzffmwdtzidkf3y8ule35qf7|Hanji 758]] says Ban Chao lets a captive carry false retreat news, causing Qiuci and Wensu forces to divide before he attacks Shache.
+- Shache outcome: [[zizhi-tongjian-hanji-758-suoyou-gaoqingshang-beihou-doushi-fencungan-lr-6tzffmwdtzidkf3y8ule35qf7|Hanji 758]] says Shache surrenders after the camp attack and the Qiuci-led coalition withdraws.
 - Yuezhi supply-line defense: [[zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb|Hanji 763]] says Ban Chao harvests local grain, closes the city, waits for Yuezhi shortage, ambushes the Qiuci-bound food mission, and forces withdrawal.
 - Yuezhi tributary outcome: [[zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb|Hanji 763]] says the Yuezhi side is shocked after the ambush and thereafter sends annual tribute.
 - Protectorate restoration: [[zizhi-tongjian-hanji-764-ta-weile-huoming-jing-jianjie-mie-le-luoma-diguo-lpk0c6muneabhk1oonzyjvawwf4|Hanji 764]] says the court reestablishes the Western Regions Protector and Wuji Colonel offices and appoints Ban Chao as Protector after Qiuci, Gumo, and Wensu submit.
@@ -57,19 +62,20 @@ Hanji 780 preserves the summary judgment: Ban Chao turns Zhang Qian's opening of
 
 ## Qualifications
 
-This page remains source-bounded. It does not attempt a full Ban Chao biography, complete campaign chronology, Western Regions administrative history, or reconstruction of Gan Ying's exact route. Hanji 763's Yuezhi force size, tributary result, and deputy-king identity remain source-scoped. Hanji 769's Yanqi material shows a hard coercive campaign, so the later handoff advice in Hanji 774 and Hanji 779 should be read as context-specific frontier management rather than a claim that Ban Chao avoided force.
+This page remains source-bounded. It does not attempt a full Ban Chao biography, complete campaign chronology, Western Regions administrative history, or reconstruction of Gan Ying's exact route. Hanji 758's Shache force sizes and local names remain source-scoped because no standalone Shache, Yutian, Wensu, Gumo, or Weitou pages are warranted from this note alone. Hanji 763's Yuezhi force size, tributary result, and deputy-king identity also remain source-scoped. Hanji 769's Yanqi material shows a hard coercive campaign, so the later handoff advice in Hanji 774 and Hanji 779 should be read as context-specific frontier management rather than a claim that Ban Chao avoided force.
 
 ## What Changed
 
-- Added Hanji 763 as Ban Chao's earliest current combat-and-logistics layer.
-- Reframed Ban Chao's frontier skill around supply judgment, local grain control, and enemy-distance diagnosis before protectorate restoration.
-- Preserved coercive Yanqi conquest alongside light-touch handoff advice so the profile remains balanced.
+- Added Hanji 758 as Ban Chao's earliest current Shache deception layer.
+- Reframed Ban Chao's frontier skill around expectation management, supply judgment, local grain control, and enemy-coalition diagnosis.
+- Preserved coercive Yanqi conquest alongside deception, logistics, and light-touch handoff advice so the profile remains balanced.
 - Kept Ban Chao as the benchmark for Ren Shang's failure, Deng-regency withdrawal, and Ban Yong's later recovery debates.
 
 ## Relationships
 
+- [[QiuciKingdom|龟兹]] - opposing relief power in Hanji 758 and later target of Ban Chao's kingship intervention.
+- [[CoalitionFractureExploitation|联盟裂解利用]] - tactical pattern visible when Ban Chao splits the Shache relief force through false retreat news.
 - [[Yuezhi|月氏]] - attacker whose failed campaign in Hanji 763 shows Ban Chao's supply-line judgment.
-- [[QiuciKingdom|龟兹]] - Western Regions polity tied both to the Yuezhi food mission and Ban Chao's later kingship intervention.
 - [[YaoGuangLateHan|姚光]] - Han officer who joins Ban Chao in forcing the Qiuci kingship change.
 - [[ShuleKingdom|疏勒]] - Western Regions base where Ban Chao defends against Yuezhi and where Xu Gan later remains.
 - [[YanqiKingdomLateHan|焉耆国]] - Western Regions polity conquered in Ban Chao's earlier campaign and later restored as a Ban Yong problem.

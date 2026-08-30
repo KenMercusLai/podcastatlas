@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "3f97b63f5c826fc5081443ad4d5b4f97918ec40e24baf4b48abf500ff7c11ecc",
       "4614617554245fe08b9d3ec6102e4dd3b6d4f87029c6065197f71a80b755be3a",
       "b20ef8f0318c4adef23db057f30b80ec541bbaed2238a467d8f980a84fae77d6",
       "9cfbb5efa04faa7e8c7721250a49ecc26f9f65a22e6ab25130ec061dff5b53f9",
@@ -413,11 +414,37 @@
       "783b85daf8e28c79ebd7838b98cbae32cc3b283841103fa74a279782510e1ecf",
       "2f2ccba72e3ff27853c9c5e7edd9f718fa9dd0a3c9c92731bc7ee6f0b1047bd7"
     ],
-    "paragraph_count": 411
+    "paragraph_count": 412
   },
-  "overview_commit": "06c01ba168f5e00c50191042a6be39eafb70f8ff",
-  "overview_digest": "b73ce08374d1d9fa8115aaf3fda824190cb9aa07983c9429fc13f240af3a7927",
+  "overview_commit": "049a39cd6be910ddbf1d849204a78d32513c64fd",
+  "overview_digest": "ebe39ffa12320873d0a5278f8a5f200dc812ca2a71be7d6b45da6f75c8f3e094",
   "paragraphs": [
+    {
+      "id": "3f97b63f5c826fc5081443ad4d5b4f97918ec40e24baf4b48abf500ff7c11ecc",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-758-suoyou-gaoqingshang-beihou-doushi-fencungan-lr-6tzffmwdtzidkf3y8ule35qf7|《资治通鉴·汉纪》758丨所有高情商，背后都是分寸感]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling [[EmperorZhangOfHan|汉章帝]]'s late 88 CE layer immediately before [[zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j|Hanji 759]]. It adds [[KinshipProtocolBoundary|亲情名分边界]], while extending [[CaoBaoEasternHan|曹褒]], [[BanChaoEasternHan|班超]], [[HeChangEasternHan|何敞]], [[SongYiEasternHan|宋意]], [[LiAsPoliticalOrder|礼制政治秩序]], [[UntimelyExtravagance|时绌举赢]], and [[GoodIntentionsPoliticalLimits|善意的政治限度]]. Its core synthesis is that Zhangdi's final-year kindness is a bounded-virtue problem: Cao Bao's rites and Ban Chao's Shache deception show order and timing working, while over-favored royal kin, exhausted finances, and He Chang/Song Yi remonstrance show affection and generosity turning risky when they override budget, hierarchy, fief distance, and subject status. No settled contradiction is recorded; this backfills the access and regency prelude before Hanji 759, while royal-prince identities and Western Regions local names remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "BanChaoEasternHan",
+        "CaoBaoEasternHan",
+        "EmperorZhangOfHan",
+        "GoodIntentionsPoliticalLimits",
+        "HeChangEasternHan",
+        "KinshipProtocolBoundary",
+        "LiAsPoliticalOrder",
+        "RuiqiJiangtouZizhiTongjian",
+        "SongYiEasternHan",
+        "UntimelyExtravagance",
+        "zizhi-tongjian-hanji-758-suoyou-gaoqingshang-beihou-doushi-fencungan-lr-6tzffmwdtzidkf3y8ule35qf7",
+        "zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j"
+      ]
+    },
     {
       "id": "4614617554245fe08b9d3ec6102e4dd3b6d4f87029c6065197f71a80b755be3a",
       "primary_topic": "history-and-geopolitics",
