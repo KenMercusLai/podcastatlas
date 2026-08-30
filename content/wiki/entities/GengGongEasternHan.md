@@ -7,16 +7,21 @@ sources:
   - zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf
   - zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx
   - zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d
+  - zizhi-tongjian-hanji-744-dahan-genggong-qiusheng-caipu-jingrang-beiye-wangchenmoji-lvsumpsnpb1tpk7t0xrx7vatd5mx
 last_updated: 2026-08-31
 ---
 
 ## Overview
 
-耿恭 / Geng Gong is an Eastern Han frontier officer whose current profile now has three linked layers: [[zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d|Hanji 745]] records the isolated siege, starvation, and refusal of [[NorthernXiongnuLateHan|Northern Xiongnu]] surrender; [[zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx|Hanji 746]] records the rescue and recognition endpoint; and [[zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf|Hanji 749]] records later Qiang-frontier effectiveness followed by politically distorted accountability after he offends [[MaFangEasternHan|Ma Fang]].
+耿恭 / Geng Gong is an Eastern Han frontier officer whose current profile now has four linked layers: [[zizhi-tongjian-hanji-744-dahan-genggong-qiusheng-caipu-jingrang-beiye-wangchenmoji-lvsumpsnpb1tpk7t0xrx7vatd5mx|Hanji 744]] records his first Jinpu and Shule-fortress survival defense; [[zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d|Hanji 745]] records the deeper isolation, starvation, and refusal of [[NorthernXiongnuLateHan|Northern Xiongnu]] surrender; [[zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx|Hanji 746]] records the rescue and recognition endpoint; and [[zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf|Hanji 749]] records later Qiang-frontier effectiveness followed by politically distorted accountability after he offends [[MaFangEasternHan|Ma Fang]].
 
 ## Current Profile
 
-Hanji 745 gives Geng Gong the siege layer before the rescue. In 75 CE, after [[EmperorMingOfHan|Mingdi]] dies and the court is slowed by imperial mourning, [[CheshiHouKingdomLateHan|Cheshi]] renews rebellion and joins Northern Xiongnu pressure against Geng Gong's isolated Shule fortress. The defenders exhaust their grain, survive by boiling armor and bow leather, and are reduced to dozens while still staying with Geng.
+Hanji 744 gives the first siege layer. After Northern Xiongnu attacks [[CheshiHouKingdomLateHan|Cheshi]], destroys Geng Gong's first 300-person relief detachment, kills Cheshi Hou king Ande, and attacks Jinpu, Geng Gong uses poisoned arrows and the slogan "Han divine arrows" to make wounded enemies fear supernatural consequences. A storm follows, he sorties, and the attackers withdraw.
+
+The same source then has Geng Gong move to a Shule fortress, where Xiongnu besiegers cut the water source. His troops endure extreme thirst, including the source's detail that they squeezed liquid from horse dung, before digging deeply enough to reach spring water. Geng Gong's decision to pour water from the wall converts recovered supply into psychological signaling, convincing the besiegers that heaven assists the Han defenders and forcing another withdrawal.
+
+Hanji 745 gives Geng Gong the deeper siege layer before the rescue. In 75 CE, after [[EmperorMingOfHan|Mingdi]] dies and the court is slowed by imperial mourning, Cheshi renews rebellion and joins Northern Xiongnu pressure against Geng Gong's isolated Shule fortress. The defenders exhaust their grain, survive by boiling armor and bow leather, and are reduced to dozens while still staying with Geng.
 
 The same source makes refusal central to his profile. The Northern Xiongnu chanyu offers Geng Gong kingship and marriage if he surrenders. Geng instead kills the envoy and continues defense. [[BaoYuEasternHan|Bao Yu]] then argues at court that abandoning Geng and Guan Chong would encourage frontier opponents and wound loyal service, leading [[EmperorZhangOfHan|Zhangdi]] to dispatch a multi-commandery and Shanshan rescue force.
 
@@ -32,16 +37,18 @@ The ending changes the meaning of that success. Because Geng Gong had previously
 
 ## Key Characteristics
 
-- Eastern Han frontier officer whose current evidence spans siege endurance, refusal of surrender, rescue, recognition, and later Qiang-frontier command.
-- Isolated defender whose endurance is made visible first by Bao Yu's rescue argument and then by Fan Qiang's arrival.
+- Eastern Han frontier officer whose current evidence spans tactical siege survival, starvation endurance, surrender refusal, rescue, recognition, and later Qiang-frontier command.
+- Tactical defender who uses battlefield psychology, poisoned arrows, weather timing, and supply display to shape enemy perception.
+- Isolated loyalist whose endurance is made visible first by Bao Yu's rescue argument and then by Fan Qiang's arrival.
 - Recognition case because Zheng Zhong's memorial converts extreme survival into official merit.
 - Zhangdi-era Qiang-frontier commander operating inside Ma Fang's campaign structure.
 - Effective field officer who secures additional Qiang submissions after the main commander is recalled.
-- Subordinate power-risk case because prior offense against Ma Fang becomes relevant after victory.
-- Example of accountability distortion when monitors anticipate the preference of an imperial in-law commander.
+- Accountability-distortion case when monitors anticipate the preference of an imperial in-law commander.
 
 ## Evidence
 
+- First-stage siege and psychological defense: [[zizhi-tongjian-hanji-744-dahan-genggong-qiusheng-caipu-jingrang-beiye-wangchenmoji-lvsumpsnpb1tpk7t0xrx7vatd5mx|Hanji 744]] describes Northern Xiongnu destroying the initial relief force, killing Cheshi Hou king Ande, attacking Jinpu, and retreating after Geng Gong's poisoned-arrow messaging, storm timing, and sortie.
+- Water-crisis survival: [[zizhi-tongjian-hanji-744-dahan-genggong-qiusheng-caipu-jingrang-beiye-wangchenmoji-lvsumpsnpb1tpk7t0xrx7vatd5mx|Hanji 744]] records the Shule-fortress water cutoff, extreme thirst, deep digging, spring emergence, and water-pouring signal from the wall.
 - Siege and starvation: [[zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d|Hanji 745]] says Geng Gong's isolated force runs out of grain, boils armor and bow leather, and is reduced to dozens while holding a Shule fortress.
 - Refusal of surrender: [[zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d|Hanji 745]] says the Northern Xiongnu chanyu offers kingship and marriage, and Geng Gong kills the envoy rather than surrender.
 - Court rescue decision: [[zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d|Hanji 745]] says Bao Yu's rescue argument persuades Zhangdi to dispatch Zhangye, Jiuquan, Dunhuang, and Shanshan forces.
@@ -55,13 +62,13 @@ The ending changes the meaning of that success. Because Geng Gong had previously
 
 ## Qualifications
 
-The current page is bounded to Hanji 749, Hanji 746, and Hanji 745. Hanji 745 supplies the siege chronology, surrender offer, and rescue-policy setup, while Hanji 746 supplies the rescue endpoint and recognition. The "Shule city" in the Geng Gong episodes is still kept source-scoped and is not merged with the existing [[ShuleKingdom|Shule Kingdom]] route. Hanji 749 supports an accountability-risk reading, but it does not prove that Ma Fang personally ordered the impeachment.
+The current page is bounded to Hanji 749, Hanji 746, Hanji 745, and Hanji 744. Hanji 744 supplies the first Jinpu and Shule-fortress survival layer; Hanji 745 supplies the deeper siege chronology, surrender offer, and rescue-policy setup; Hanji 746 supplies the rescue endpoint and recognition; and Hanji 749 supplies the later Qiang-command and accountability layer. The "Shule city" or fortress in the Geng Gong episodes is still kept source-scoped and is not merged with the existing [[ShuleKingdom|Shule Kingdom]] route. Jinpu, Cheshi Hou king Ande, the water-cutoff detail, and the exact fortress geography remain source-scoped. Hanji 749 supports an accountability-risk reading, but it does not prove that Ma Fang personally ordered the impeachment.
 
 ## What Changed
 
-- Added Hanji 745 as Geng Gong's starvation, refusal-of-surrender, and rescue-decision layer.
-- Added Hanji 746 as Geng Gong's earlier isolated-defense, Fan Qiang rescue, Zheng Zhong memorial, and cavalry-commandant recognition layer.
-- Reframed Geng Gong as both a rescued loyalist hero and a later Qiang-frontier commander.
+- Added Hanji 744 as Geng Gong's first Jinpu, poisoned-arrow, Shule-fortress water-crisis, well-digging, and water-display layer.
+- Reframed the Hanji 745 starvation and surrender-refusal material as the second siege layer rather than the beginning of the crisis.
+- Preserved Hanji 746 as the Fan Qiang rescue, Zheng Zhong memorial, and cavalry-commandant recognition layer.
 - Preserved Hanji 749's accountability-distortion judgment while narrowing it away from any claim that Ma Fang personally ordered removal.
 
 ## Relationships
@@ -69,9 +76,11 @@ The current page is bounded to Hanji 749, Hanji 746, and Hanji 745. Hanji 745 su
 - [[FanQiangEasternHan|范羌]] - former follower whose rescue makes Geng Gong's survival visible.
 - [[BaoYuEasternHan|鲍昱]] - minister whose rescue argument prevents the siege from becoming abandonment.
 - [[ZhengZhongFrontierEasternHan|郑众]] - frontier commander who memorializes Geng Gong's endurance and merit.
-- [[NorthernXiongnuLateHan|北匈奴]] - siege and pursuit opponent in the Hanji 746 rescue branch.
+- [[NorthernXiongnuLateHan|北匈奴]] - siege and pursuit opponent in the Hanji 744-746 rescue sequence.
+- [[CheshiHouKingdomLateHan|车师后王国]] - frontier polity whose crisis and rebellion shape the siege field.
 - [[RescueReciprocityCommandTrust|救援互惠式统帅信任]] - concept positively extended by Geng Gong's rescue and recognition.
-- [[EmperorZhangOfHan|汉章帝]] - ruler whose court sends the Qiang campaign, recognizes Geng's rescue merit, and later accepts his recall and removal.
+- [[EmperorMingOfHan|汉明帝]] - predecessor emperor whose death and mourning context delay resolution of the frontier crisis.
+- [[EmperorZhangOfHan|汉章帝]] - ruler whose court sends the rescue campaign, recognizes Geng's rescue merit, and later accepts his recall and removal.
 - [[MaFangEasternHan|马防]] - campaign superior or leading commander whose offense context shapes Geng Gong's later removal.
 - [[BuqiaoQiangLeader|布桥]] - Qiang opponent whose surrender precedes Geng Gong's remaining-field operations.
 - [[MiWuQiangLeader|弥务]] - Qiang coalition figure in the rebellion Geng Gong helps suppress.

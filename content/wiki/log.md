@@ -14110,3 +14110,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-31] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-31] ingest | 《资治通鉴·汉纪》744丨大汉耿恭求生菜谱，竟让贝爷望尘莫及？
+
+Ingested the 2026-06-27 芮淇讲透资治通鉴 episode on Geng Gong's first 75 CE Jinpu and Shule-fortress survival defense, poisoned-arrow psychological warfare, well digging and water display, Mingdi's death and frugal burial instructions, Zhangdi's accession and palace-gate order, Liu Cang's anti-tomb-city remonstrance, and Fifth Lun's Sikong appointment. Created the source note plus `FrugalImperialBurialRestraint`; updated `GengGongEasternHan`, `EmperorMingOfHan`, `EmperorZhangOfHan`, `FifthLunEasternHan`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; Jinpu city, Cheshi Hou king Ande, Yang Ren, Zhao Xi, Mou Rong, exact Shule-fortress geography, Fifth-surname genealogy, and exact tomb-date details remain source-scoped.
+
+## [2026-08-31] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2088
+topic_total_pages: 2089
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3436,6 +3436,9 @@ topic_concepts:
   - key: "QiangOfficialAbuseRebellionTrigger"
     title: "羌地官吏侵扰叛乱触发 / Qiang Official Abuse Rebellion Trigger"
     url: "/wiki/concepts/qiangofficialabuserebelliontrigger/"
+  - key: "FrugalImperialBurialRestraint"
+    title: "节俭帝陵约束 / Frugal Imperial Burial Restraint"
+    url: "/wiki/concepts/frugalimperialburialrestraint/"
   - key: "RumorDrivenFrontierIntervention"
     title: "谣言驱动的边疆干预 / Rumor-Driven Frontier Intervention"
     url: "/wiki/concepts/rumordrivenfrontierintervention/"

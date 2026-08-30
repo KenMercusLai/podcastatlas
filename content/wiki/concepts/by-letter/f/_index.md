@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 6060
+wiki_total_pages: 6061
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1073,6 +1073,9 @@ wiki_pages:
   - key: "FertilityBurdenReliefPolicy"
     title: "生育负担减免政策 / Fertility Burden Relief Policy"
     url: "/wiki/concepts/fertilityburdenreliefpolicy/"
+  - key: "FrugalImperialBurialRestraint"
+    title: "节俭帝陵约束 / Frugal Imperial Burial Restraint"
+    url: "/wiki/concepts/frugalimperialburialrestraint/"
   - key: "FuChen"
     title: "负臣 / Corrective Disobedient Minister"
     url: "/wiki/concepts/fuchen/"

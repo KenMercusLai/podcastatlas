@@ -4,17 +4,29 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-08-31
-as_of_overview_commit: 1e26ad9c959cfc2ee7eb461a6ac26a1096456341
-input_digest: 30e19f3e94063a5cc7f10f160fb9426ef24aeb2d53839c6174229b2b947d3b9d
+as_of_overview_commit: 9efcb0f616a0e0d8fdda50a1adeedcc9dc92119c
+input_digest: 5a2474cd68b2f87747228544a99a4ea1f7996b4fb20a6ee4877c1375ad566bd0
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-Hanji 748 now pushes the Eastern Han historical branch back to 76 CE before Hanji 749: Empress Ma turns Zhangdi’s Ma-family reward impulse into a prevention problem around outer-relative precedent, maternal recognition, frugal court example, household discipline, and legal boundaries.
+Hanji 744 now pushes the Eastern Han historical branch one step earlier than Hanji 745: Geng Gong's Jinpu and Shule-fortress survival tactics, Mingdi's death and frugal burial instructions, Zhangdi's accession, Liu Cang's anti-tomb-town remonstrance, and Fifth Lun's Sikong appointment make frontier survival and succession restraint part of the same 75 CE transition. Hanji 748 now pushes the Eastern Han historical branch back to 76 CE before Hanji 749: Empress Ma turns Zhangdi’s Ma-family reward impulse into a prevention problem around outer-relative precedent, maternal recognition, frugal court example, household discipline, and legal boundaries.
 
 ## Cross-source Findings
+
+### Late Han 744 Geng Gong Mingdi Accession Backfill
+
+[[zizhi-tongjian-hanji-744-dahan-genggong-qiusheng-caipu-jingrang-beiye-wangchenmoji-lvsumpsnpb1tpk7t0xrx7vatd5mx|Hanji 744]] backfills the Eastern Han branch before [[zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d|Hanji 745]]: [[GengGongEasternHan]] survives initial [[NorthernXiongnuLateHan]] pressure against [[CheshiHouKingdomLateHan]] through poisoned-arrow signaling, storm timing, well digging, and water display, while [[EmperorMingOfHan]]'s death, [[EmperorZhangOfHan]]'s accession, [[LiuCangDongpingKing]]'s anti-tomb-town remonstrance, [[FifthLunEasternHan]]'s Sikong appointment, and [[FrugalImperialBurialRestraint]] make the same transition a court-restraint and succession-management layer.
+
+**Evidence:** [[zizhi-tongjian-hanji-744-dahan-genggong-qiusheng-caipu-jingrang-beiye-wangchenmoji-lvsumpsnpb1tpk7t0xrx7vatd5mx]], [[zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d]], [[GengGongEasternHan]], [[NorthernXiongnuLateHan]], [[CheshiHouKingdomLateHan]], [[EmperorMingOfHan]], [[EmperorZhangOfHan]], [[LiuCangDongpingKing]], [[FifthLunEasternHan]], [[FrugalImperialBurialRestraint]], [[RescueReciprocityCommandTrust]]
+
+**Qualifications:**
+
+- This is a chronological backfill before Hanji 745, not a replacement for the later starvation, surrender-refusal, rescue, and recognition sequence.
+- Jinpu city, Cheshi Hou king Ande, Yang Ren, Zhao Xi, Mou Rong, the exact Shule-fortress geography, Fifth-surname genealogy, and exact burial dates remain source-scoped.
+- The siege claim combines poison, psychological framing, storm timing, sortie, water recovery, and enemy interpretation rather than isolating a single cause for Xiongnu withdrawal.
 
 ### Late Han 748 Ma Empress Preventive Restraint Prelude
 

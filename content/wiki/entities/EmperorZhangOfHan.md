@@ -19,22 +19,25 @@ sources:
   - zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi
   - zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx
   - zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d
+  - zizhi-tongjian-hanji-744-dahan-genggong-qiusheng-caipu-jingrang-beiye-wangchenmoji-lvsumpsnpb1tpk7t0xrx7vatd5mx
 last_updated: 2026-08-31
 ---
 
 ## Overview
 
-Emperor Zhang of Han is the Eastern Han ruler whose current profile now begins with Hanji 745's 75 CE rescue decision and first Ma-family office warning, then follows Hanji 746-758 through listening-and-leniency, frontier decisions, Ma-family restraint, classics consensus, accusation handling, burden relief, legal restraint, ritual codification, and kinship-boundary problems. Across the bounded source set he is unusually receptive to remonstrance, but the same evidence also shows recurring weakness where household affection, protected relatives, palace accusation, and known wrongdoing test accountability.
+Emperor Zhang of Han is the Eastern Han ruler whose current profile now begins with [[zizhi-tongjian-hanji-744-dahan-genggong-qiusheng-caipu-jingrang-beiye-wangchenmoji-lvsumpsnpb1tpk7t0xrx7vatd5mx|Hanji 744]]'s accession layer: succession after [[EmperorMingOfHan|Mingdi]]'s death, honoring [[EmpressMaMingdeEasternHan|Empress Ma]] as empress dowager, approving Yang Ren's palace-gate discipline, accepting [[LiuCangDongpingKing|Liu Cang]]'s anti-Xianjie tomb-town advice, and installing senior ministers including [[FifthLunEasternHan|Fifth Lun]]. It then follows Hanji 745-758 through rescue policy, listening-and-leniency, frontier decisions, Ma-family restraint, classics consensus, accusation handling, burden relief, legal restraint, ritual codification, and kinship-boundary problems. Across the bounded source set he is unusually receptive to remonstrance, but the same evidence also shows recurring weakness where household affection, protected relatives, palace accusation, and known wrongdoing test accountability.
 
 ## Current Profile
 
-Hanji 745 supplies the earliest current layer. Soon after [[EmperorMingOfHan|Mingdi]] dies, Zhangdi accepts [[BaoYuEasternHan|Bao Yu]]'s argument that rescuing isolated officers [[GengGongEasternHan|Geng Gong]] and Guan Chong protects frontier morale, loyal-service credit, and Han deterrence, so he sends more than seven thousand troops from the Hexi and Shanshan base. The same episode shows Zhangdi needing [[FifthLunEasternHan|Fifth Lun]]'s warning that intended appointments for [[MaLiaoEasternHan|Ma Liao]], [[MaFangEasternHan|Ma Fang]], and Ma Guang are already drawing guest networks and large gifts around the [[MaFamilyZhangEraEasternHan|Ma family]].
+Hanji 744 supplies the accession and inherited-restraint layer. Zhangdi succeeds at eighteen after Mingdi dies, honors Empress Ma as empress dowager, and treats Beigong guard commandant Yang Ren favorably after Yang blocks the Ma brothers from entering the palace without proper authorization. The same source has Zhangdi accept Liu Cang's argument against building a Xianjie tomb town because the project would violate Mingdi's frugal intent, drain resources, and disturb the people. This opening makes Zhangdi's rule an inheritance-management problem before it is a policy style: mourning, maternal kin, tomb frugality, palace access, and appointments must be ordered while [[GengGongEasternHan|Geng Gong]] remains trapped on the frontier.
 
-Hanji 746 then supplies the early listening-and-leniency layer. Zhangdi opens his reign by accepting [[BaoYuEasternHan|Bao Yu]]'s indirect redress advice around the Chu-king case, accepting [[YangZhongEasternHan|Yang Zhong]]'s argument against mechanically continuing people-burdening Northern Xiongnu and Western Regions policy, issuing an agriculture-and-seasonal-justice edict, and accepting [[ChenChongLateHan|Chen Chong]]'s remonstrance against inherited harsh official practice. The same episode adds the rescue-recognition branch: [[FanQiangEasternHan|Fan Qiang]] rescues [[GengGongEasternHan|Geng Gong]], [[ZhengZhongFrontierEasternHan|Zheng Zhong]] memorializes the survivors' endurance, and the court appoints Geng Gong cavalry commandant.
+Hanji 745 then gives Zhangdi's first rescue-decision layer. Soon after Mingdi dies, Zhangdi accepts [[BaoYuEasternHan|Bao Yu]]'s argument that rescuing isolated officers Geng Gong and Guan Chong protects frontier morale, loyal-service credit, and Han deterrence, so he sends more than seven thousand troops from the Hexi and Shanshan base. The same episode shows Zhangdi needing Fifth Lun's warning that intended appointments for [[MaLiaoEasternHan|Ma Liao]], [[MaFangEasternHan|Ma Fang]], and Ma Guang are already drawing guest networks and large gifts around the [[MaFamilyZhangEraEasternHan|Ma family]].
 
-Hanji 747-750 continue the early-reign picture. Zhangdi accepts [[LiuCangDongpingKing|Liu Cang]]'s opposition to imperial-tomb counties, oversees Ban Chao's recall and return crisis around Western Regions dependency, receives [[EmpressMaMingdeEasternHan|Empress Ma]]'s prevention of Ma-family enfeoffment, allows Ma-family titles but not immediate office power after Ma's death, convenes the [[BaihuGuanConference|Baihu Guan Conference]], searches for practical talent, and authorizes [[BanChaoEasternHan|Ban Chao]]'s low-cost Western Regions strategy through [[XuGanEasternHan|Xu Gan]].
+Hanji 746 supplies the early listening-and-leniency layer. Zhangdi accepts Bao Yu's indirect redress advice around the Chu-king case, accepts [[YangZhongEasternHan|Yang Zhong]]'s argument against mechanically continuing people-burdening Northern Xiongnu and Western Regions policy, issues an agriculture-and-seasonal-justice edict, and accepts [[ChenChongLateHan|Chen Chong]]'s remonstrance against inherited harsh official practice. The same episode adds the rescue-recognition branch: [[FanQiangEasternHan|Fan Qiang]] rescues Geng Gong, [[ZhengZhongFrontierEasternHan|Zheng Zhong]] memorializes the survivors' endurance, and the court appoints Geng Gong cavalry commandant.
 
-Hanji 749 also adds a warning boundary. Zhangdi sends [[MaFangEasternHan|Ma Fang]] to heavy Qiang command despite [[FifthLunEasternHan|Fifth Lun]]'s warning that imperial in-laws in major office create a law-versus-kinship dilemma. Ma Fang succeeds militarily, but Geng Gong's later removal after offending Ma Fang leaves the appointment-risk concern alive.
+Hanji 747-750 continue the early-reign picture. Zhangdi again appears in Liu Cang's anti-tomb-county and disaster-remonstrance field, oversees Ban Chao's recall and return crisis around Western Regions dependency, receives Empress Ma's prevention of Ma-family enfeoffment, allows Ma-family titles but not immediate office power after Ma's death, convenes the [[BaihuGuanConference|Baihu Guan Conference]], searches for practical talent, and authorizes [[BanChaoEasternHan|Ban Chao]]'s low-cost Western Regions strategy through [[XuGanEasternHan|Xu Gan]].
+
+Hanji 749 also adds a warning boundary. Zhangdi sends Ma Fang to heavy Qiang command despite Fifth Lun's warning that imperial in-laws in major office create a law-versus-kinship dilemma. Ma Fang succeeds militarily, but Geng Gong's later removal after offending Ma Fang leaves the appointment-risk concern alive.
 
 Hanji 751-752 develop the household-risk side. Zhangdi accepts the accusation that destroys [[SongGuirenZhangHeLateHan|Song Guiren]]'s standing and demotes [[LiuQingQingheKing|Liu Qing]], while his ritual care for Liu Cang and low-disturbance travel orders show the same reign's humane and affective side. He can restrict the Ma family and rebuke [[DouXianEasternHan|Dou Xian]] over the [[QinshuiPrincessEasternHan|Qinshui Princess]] estate, but Dou Xian is not punished, making this the profile's clearest known-misconduct non-punishment case.
 
@@ -44,21 +47,22 @@ Hanji 770 adds the posthumous legitimacy layer. The revelation that [[LiangGuire
 
 ## Key Characteristics
 
+- Accession-and-inheritance ruler who must order mourning, palace access, maternal kin, burial restraint, and senior appointments after Mingdi's death.
 - Receptive-remonstrance ruler who repeatedly lets advice change legal, frontier, household, and burden policy.
 - Burden-aware administrator who treats drought, agriculture, seasonal justice, public works, tribute, fertility, travel, and frontier deployment as governance tests.
 - Filial and maternal-recognition ruler whose desire to reward or honor kin is repeatedly checked by stronger advisers.
-- Evidence-testing frontier authorizer who backs Ban Chao's mission and judges accusations by command behavior.
+- Evidence-testing frontier authorizer who backs Geng Gong's rescue and Ban Chao's mission while judging accusations by command behavior.
 - Legal-temperament reformer open to mercy, reduced torture, seasonal case timing, and correction of harsh official culture.
 - Household-risk ruler whose Song Guiren decision, Dou Xian non-punishment, and royal-kin overfavor expose limits in accountability.
-- Ritual and classics ruler who uses Baihu Guan, Cao Bao's ritual commission, teacher honor, and royal mourning to stabilize public order.
 
 ## Evidence
 
+- Accession, palace discipline, and inherited frugality: [[zizhi-tongjian-hanji-744-dahan-genggong-qiusheng-caipu-jingrang-beiye-wangchenmoji-lvsumpsnpb1tpk7t0xrx7vatd5mx|Hanji 744]] shows Zhangdi succeeding at eighteen, honoring Empress Ma, favoring Yang Ren after proper gate enforcement, accepting Liu Cang's anti-Xianjie tomb-town counsel, issuing amnesty, and installing senior ministers including Fifth Lun.
 - Rescue decision and early Ma warning: [[zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d|Hanji 745]] shows Zhangdi accepting Bao Yu's rescue argument for Geng Gong and Guan Chong while also receiving Fifth Lun's warning about Ma-family appointments, guest networks, and large gifts.
 - Listening converted into policy: [[zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx|Hanji 746]] shows Zhangdi accepting Bao Yu's redress proposal, Yang Zhong's anti-continuation argument, and Chen Chong's anti-harshness remonstrance.
 - Agriculture, justice, and official selection: [[zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx|Hanji 746]] gives Zhangdi's edict on farming and sericulture, autumn handling of non-capital cases, gentle official promotion, and removal of greedy or crafty officials.
 - Rescue recognition: [[zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx|Hanji 746]] says the court appoints Geng Gong after Fan Qiang's rescue and Zheng Zhong's memorial.
-- Earliest frontier and tomb-frugality layer: [[zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi|Hanji 747]] shows Zhangdi accepting Liu Cang's anti-tomb-county advice, sparing Liu Yan from execution, supplying famine grain to Southern Xiongnu, and overseeing the Yiwu withdrawal and Ailao crisis.
+- Frontier responsibility and tomb-frugality continuation: [[zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi|Hanji 747]] shows Zhangdi accepting Liu Cang's anti-tomb-county advice, sparing Liu Yan from execution, supplying famine grain to Southern Xiongnu, and overseeing the Yiwu withdrawal and Ailao crisis.
 - Ma-family title restraint: [[zizhi-tongjian-hanji-748-laozuzong-de-zhonggao-qinqi-bugongcai-gongcai-liangwulai-luqvnld4wbdgc3nrdumyhfhscs4z|Hanji 748]] shows Zhangdi trying to enfeoff maternal uncles and then being checked by Empress Ma's precedent, merit, drought-relief, and outer-relative-risk arguments.
 - Early exemplar and in-law-command tension: [[zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf|Hanji 749]] shows Ma Liao's example-setting warning, Ma Fang's Qiang command despite Fifth Lun's warning, Geng Gong's later removal, and Deng Xun's infeasible-canal cancellation.
 - Maternal legitimacy, classics, and Western Regions strategy: [[zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt|Hanji 750]] shows Zhangdi honoring childless Empress Ma as mother, convening Baihu Guan, calling for criticism after a solar eclipse, and sending Xu Gan to reinforce Ban Chao.
@@ -72,29 +76,30 @@ Hanji 770 adds the posthumous legitimacy layer. The revelation that [[LiangGuire
 
 ## Qualifications
 
-Zhangdi's profile should not be flattened into benevolent ritualism, weak leniency, or court fragility alone; the source set shows all three under different conditions. Hanji 745 adds rescue approval and early Ma-family appointment warning, but Guan Chong, Ma Guang, rescue-route detail, and the exact Shule fortress geography remain source-scoped. Hanji 746 adds a strong listening-and-leniency layer, but it also leaves Mou Rong, Wang Meng, Duan Peng, and the exact Chu-case lists source-scoped. The page's frontmatter source order preserves the established bounded inventory order and appends Hanji 745 as the newest evidence, even though the body treats it chronologically as the earliest current layer. Several identity cautions remain active: Hanji 746's Yang Zhong spelling is normalized to [[YangZhongEasternHan|杨终]], its Zheng Zhong is kept separate from [[ZhengZhongEasternHan|the eunuch Zheng Zhong]], and Zhu Hui in Hanji 753 remains [[ZhuHuiZhangEraEasternHan]], not [[ZhuHuiHeEraLateHan]].
+Zhangdi's profile should not be flattened into benevolent ritualism, weak leniency, or court fragility alone; the source set shows all three under different conditions. The page's frontmatter source order preserves the established bounded inventory order and appends Hanji 744 as the newest evidence, even though the body treats it chronologically as the accession layer. Hanji 744 adds Yang Ren's palace-gate enforcement, Zhao Xi and Mou Rong appointments, Fifth Lun's Sikong appointment, exact mourning and burial dates, and Xianjie tomb-town debate, but those details remain source-scoped unless later notes warrant separate canonical pages. Hanji 745 adds rescue approval and early Ma-family appointment warning, but Guan Chong, Ma Guang, rescue-route detail, and the exact Shule fortress geography remain source-scoped. Several identity cautions remain active: Hanji 746's Yang Zhong spelling is normalized to [[YangZhongEasternHan|杨终]], its Zheng Zhong is kept separate from [[ZhengZhongEasternHan|the eunuch Zheng Zhong]], and Zhu Hui in Hanji 753 remains [[ZhuHuiZhangEraEasternHan]], not [[ZhuHuiHeEraLateHan]].
 
 ## What Changed
 
-- Added Hanji 745 as the new earliest Zhangdi layer: rescue authorization for Geng Gong and first Ma-family office/gift warning.
-- Added Hanji 746 as the new earliest current layer for Zhangdi's accepted advice from Bao Yu, Yang Zhong, and Chen Chong.
-- Reframed Zhangdi's "listening" as policy conversion rather than only a gentle temperament.
-- Added Geng Gong's rescue and recognition as an early Zhangdi-era command-memory case.
+- Added Hanji 744 as Zhangdi's accession, palace-gate discipline, inherited Mingdi-frugality, Liu Cang tomb-town remonstrance, and initial appointment layer.
+- Reframed Zhangdi's early reign as inheritance management before the Hanji 745 rescue and Hanji 746 listening-policy layers.
+- Preserved Zhangdi's receptive-remonstrance profile while making household affection and palace access part of the opening risk field.
 - Preserved existing household-risk and known-misconduct non-punishment limits around Song Guiren, Liu Qing, and Dou Xian.
 
 ## Relationships
 
+- [[EmperorMingOfHan|汉明帝]] - predecessor whose death instructions, frugality, and mourning context shape Zhangdi's accession.
+- [[EmpressMaMingdeEasternHan|明德马皇后]] - adoptive mother elevated to empress dowager and central to Zhangdi's maternal kinship recognition.
+- [[LiuCangDongpingKing|东平王刘苍]] - royal uncle whose remonstrance, return, illness, funeral, and later memory reveal Zhangdi's consultative and kinship-ritual sides.
+- [[FrugalImperialBurialRestraint|节俭帝陵约束]] - concept strengthened by Zhangdi's acceptance of the anti-Xianjie tomb-town argument.
 - [[BaoYuEasternHan|鲍昱]] - adviser whose rescue and drought arguments Zhangdi turns into policy.
 - [[YangZhongEasternHan|杨终]] - adviser whose anti-continuation policy argument and classics proposal Zhangdi accepts.
 - [[ChenChongLateHan|陈宠]] - adviser whose anti-harshness memorial Zhangdi accepts.
-- [[ReceptiveRemonstranceGovernance|纳谏转政策式治理]] - governance pattern strengthened by Zhangdi's Hanji 746 response to advice.
-- [[GengGongEasternHan|耿恭]] - frontier officer whose rescue merit receives court recognition under Zhangdi.
+- [[ReceptiveRemonstranceGovernance|纳谏转政策式治理]] - governance pattern strengthened by Zhangdi's response to advice.
+- [[GengGongEasternHan|耿恭]] - frontier officer whose survival and rescue merit receive Zhangdi-era court recognition.
 - [[FanQiangEasternHan|范羌]] - rescuer whose action gives Zhangdi's court a loyalty-recognition case.
 - [[ZhengZhongFrontierEasternHan|郑众]] - memorializer whose report helps convert Geng Gong's endurance into rank.
-- [[LiuCangDongpingKing|东平王刘苍]] - royal uncle whose remonstrance, return, illness, funeral, and later memory reveal Zhangdi's consultative and kinship-ritual sides.
-- [[EmpressMaMingdeEasternHan|明德马皇后]] - adoptive mother whose status structures Zhangdi's maternal kinship recognition and who restrains his early Ma-family rewards.
 - [[MaFamilyZhangEraEasternHan|马氏]] - former in-law household Zhangdi honors, uses in command, and later restricts after overexposure.
-- [[FifthLunEasternHan|第五伦]] - minister whose warnings about Ma-family appointments, Ma Fang's command, and Dou-family access test Zhangdi's response to outer-relative risk.
+- [[FifthLunEasternHan|第五伦]] - minister whose Sikong appointment, Ma-family warning, Ma Fang command warning, and Dou-family warning test Zhangdi's response to outer-relative risk.
 - [[DouXianEasternHan|窦宪]] - outer-relative actor whom Zhangdi rebukes but does not legally punish after the Qinshui Princess estate seizure.
 - [[BanChaoEasternHan|班超]] - frontier commander whose recall crisis, Shicheng operation, and later memorial strategy Zhangdi-era policy shapes.
 - [[NorthernXiongnuLateHan|北匈奴]] - frontier opponent or weak party whose treatment tests Zhangdi-era burden, credibility, and campaign choices.

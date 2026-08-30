@@ -10972,6 +10972,29 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/emperorhuanofhan/"
     },
+    "EmperorMingOfHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》899丨好清斗贪官 [ljHIC1PlzmV8k6LU73J5tErihanx].md",
+          "key": "zizhi-tongjian-hanji-899-hao-qing-dou-tanguan-ljhic1plzmv8k6lu73j5terihanx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》899丨好清斗贪官",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-899-hao-qing-dou-tanguan-ljhic1plzmv8k6lu73j5terihanx/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》744丨大汉耿恭求生菜谱，竟让贝爷望尘莫及？ [lvsUMPsnPB1TPk7t0xrX7vaTd5MX].md",
+          "key": "zizhi-tongjian-hanji-744-dahan-genggong-qiusheng-caipu-jingrang-beiye-wangchenmoji-lvsumpsnpb1tpk7t0xrx7vatd5mx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》744丨大汉耿恭求生菜谱，竟让贝爷望尘莫及？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-744-dahan-genggong-qiusheng-caipu-jingrang-beiye-wangchenmoji-lvsumpsnpb1tpk7t0xrx7vatd5mx/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/emperormingofhan/"
+    },
     "EmperorShangOfHan": {
       "episode_count": 3,
       "show_count": 1,
@@ -11173,9 +11196,9 @@
       "url": "/wiki/entities/emperorshunofhan/"
     },
     "EmperorZhangOfHan": {
-      "episode_count": 15,
+      "episode_count": 16,
       "show_count": 1,
-      "source_note_count": 15,
+      "source_note_count": 16,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》770丨沉默的真相：皇帝的生母竟是她 [lu5dqu8Uuw277IkZXkBLVqDbPL3q].md",
@@ -11281,6 +11304,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》745丨东汉最血性之战：拯救大兵耿恭！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》744丨大汉耿恭求生菜谱，竟让贝爷望尘莫及？ [lvsUMPsnPB1TPk7t0xrX7vaTd5MX].md",
+          "key": "zizhi-tongjian-hanji-744-dahan-genggong-qiusheng-caipu-jingrang-beiye-wangchenmoji-lvsumpsnpb1tpk7t0xrx7vatd5mx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》744丨大汉耿恭求生菜谱，竟让贝爷望尘莫及？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-744-dahan-genggong-qiusheng-caipu-jingrang-beiye-wangchenmoji-lvsumpsnpb1tpk7t0xrx7vatd5mx/"
         }
       ],
       "updated": "2026-08-31",
@@ -13150,9 +13180,9 @@
       "url": "/wiki/concepts/fictionashistoricalevidence/"
     },
     "FifthLunEasternHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》756丨为什么劝你得饶人处且饶人？ [ltN4TqZy1D_SoDhJIDnCv8DyqxPJ].md",
@@ -13188,6 +13218,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》745丨东汉最血性之战：拯救大兵耿恭！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》744丨大汉耿恭求生菜谱，竟让贝爷望尘莫及？ [lvsUMPsnPB1TPk7t0xrX7vaTd5MX].md",
+          "key": "zizhi-tongjian-hanji-744-dahan-genggong-qiusheng-caipu-jingrang-beiye-wangchenmoji-lvsumpsnpb1tpk7t0xrx7vatd5mx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》744丨大汉耿恭求生菜谱，竟让贝爷望尘莫及？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-744-dahan-genggong-qiusheng-caipu-jingrang-beiye-wangchenmoji-lvsumpsnpb1tpk7t0xrx7vatd5mx/"
         }
       ],
       "updated": "2026-08-31",
@@ -13987,6 +14024,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/frontiertrustthroughprotection/"
     },
+    "FrugalImperialBurialRestraint": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》744丨大汉耿恭求生菜谱，竟让贝爷望尘莫及？ [lvsUMPsnPB1TPk7t0xrX7vaTd5MX].md",
+          "key": "zizhi-tongjian-hanji-744-dahan-genggong-qiusheng-caipu-jingrang-beiye-wangchenmoji-lvsumpsnpb1tpk7t0xrx7vatd5mx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》744丨大汉耿恭求生菜谱，竟让贝爷望尘莫及？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-744-dahan-genggong-qiusheng-caipu-jingrang-beiye-wangchenmoji-lvsumpsnpb1tpk7t0xrx7vatd5mx/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/frugalimperialburialrestraint/"
+    },
     "FuGan": {
       "episode_count": 2,
       "show_count": 1,
@@ -14528,9 +14581,9 @@
       "url": "/wiki/entities/gengchenglinruhoulatehan/"
     },
     "GengGongEasternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》749丨管理人必看：发奖金是管理的最佳手段吗？ [lnhHOH0oxlStuWaKl3rsqvcsS_Cf].md",
@@ -14552,6 +14605,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》745丨东汉最血性之战：拯救大兵耿恭！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》744丨大汉耿恭求生菜谱，竟让贝爷望尘莫及？ [lvsUMPsnPB1TPk7t0xrX7vaTd5MX].md",
+          "key": "zizhi-tongjian-hanji-744-dahan-genggong-qiusheng-caipu-jingrang-beiye-wangchenmoji-lvsumpsnpb1tpk7t0xrx7vatd5mx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》744丨大汉耿恭求生菜谱，竟让贝爷望尘莫及？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-744-dahan-genggong-qiusheng-caipu-jingrang-beiye-wangchenmoji-lvsumpsnpb1tpk7t0xrx7vatd5mx/"
         }
       ],
       "updated": "2026-08-31",
