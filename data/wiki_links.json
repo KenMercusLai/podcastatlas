@@ -6239,6 +6239,10 @@
     "title": "薄姬 / Lady Bo",
     "url": "/wiki/entities/baoji/"
   },
+  "BaoJunEasternHan": {
+    "title": "鲍峻 / Bao Jun (Eastern Han)",
+    "url": "/wiki/entities/baojuneasternhan/"
+  },
   "BaoShuya": {
     "title": "鲍叔牙 / Bao Shuya",
     "url": "/wiki/entities/baoshuya/"
@@ -14655,6 +14659,10 @@
     "title": "Diplomatic Persona as Strategic Asset",
     "url": "/wiki/concepts/diplomaticpersonaasstrategicasset/"
   },
+  "DiplomaticRitualDignity": {
+    "title": "使节礼节国威 / Diplomatic Ritual Dignity",
+    "url": "/wiki/concepts/diplomaticritualdignity/"
+  },
   "Dipsig": {
     "title": "Dipsig",
     "url": "/wiki/entities/dipsig/"
@@ -17838,6 +17846,10 @@
   "FanQinLateHan": {
     "title": "繁钦 / Fan Qin (late Han)",
     "url": "/wiki/entities/fanqinlatehan/"
+  },
+  "FanTiaoEasternHan": {
+    "title": "樊鯈 / Fan Tiao (Eastern Han)",
+    "url": "/wiki/entities/fantiaoeasternhan/"
   },
   "FanWuji": {
     "title": "樊无忌 / Fan Wuji",
@@ -30830,6 +30842,10 @@
   "LiuJinbiao": {
     "title": "Liu Jinbiao / 刘金彪",
     "url": "/wiki/entities/liujinbiao/"
+  },
+  "LiuJingGuanglingKingEasternHan": {
+    "title": "广陵王刘荆 / Liu Jing, Guangling King (Eastern Han)",
+    "url": "/wiki/entities/liujingguanglingkingeasternhan/"
   },
   "LiuJuLateHan": {
     "title": "刘矩 / Liu Ju (late Han)",
@@ -44147,6 +44163,10 @@
     "title": "Royal Highland Fusiliers",
     "url": "/wiki/entities/royalhighlandfusiliers/"
   },
+  "RoyalKinTreasonLawBoundary": {
+    "title": "宗室谋逆法度边界 / Royal Kin Treason Law Boundary",
+    "url": "/wiki/concepts/royalkintreasonlawboundary/"
+  },
   "RoyalMail": {
     "title": "Royal Mail",
     "url": "/wiki/entities/royalmail/"
@@ -51202,6 +51222,10 @@
   "TitleRealityRestraint": {
     "title": "Title-Reality Restraint / 名实相符式名号节制",
     "url": "/wiki/concepts/titlerealityrestraint/"
+  },
+  "TitleSuccessionPublicDuty": {
+    "title": "封爵继承公共责任 / Title Succession Public Duty",
+    "url": "/wiki/concepts/titlesuccessionpublicduty/"
   },
   "TlatelolcoMassacre": {
     "title": "Tlatelolco Massacre / 三文化广场枪击",
@@ -63586,6 +63610,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu": {
+    "title": "《资治通鉴·汉纪》738丨他拼死保全大汉气节，为何惨遭蒙冤？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu/"
   },
   "zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl": {
     "title": "《资治通鉴·汉纪》739丨坐拥天下美女的皇帝，其实也会孤独",

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》738丨他拼死保全大汉气节，为何惨遭蒙冤？](sources/zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu.md) — 芮淇讲透资治通鉴 episode on Zheng Zhong's Northern Xiongnu envoy refusal, Mingdi's official evaluation and classics education, Liu Jing's royal-kin treason case, and Ding Hong's title-succession duty.
 - [《资治通鉴·汉纪》739丨坐拥天下美女的皇帝，其实也会孤独](sources/zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl.md) — 芮淇讲透资治通鉴 episode on Mingdi's affectionate separation from Liu Cang, Ailao submission, Wang Jing's Bianqu/Huanghe works, and the opening Liu Ying case.
 - [Socialists Sweep NYC, China Catches Up in Coding, AI Memory Crunch, Micron's Blowout Quarter](sources/all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335.md) — All-In episode on New York DSA primary wins, Mamdani's communication playbook, GLM 5.2 and Chinese open-weight AI, Micron/HBM supply, modular and orbital data-center economics, and AI IPO absorption.
 - [《资治通鉴·汉纪》740丨让你醍醐灌顶的职场智慧！(职场必备)](sources/zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew.md) — 芮淇讲透资治通鉴 episode on the Chu king Liu Ying case, torture-driven implication, Lu Xu's character evidence, Jian Lang's risky verification, Yuan An's review, Empress Ma's restraint counsel, and anti-faction workplace judgment.
@@ -1777,6 +1778,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [广陵王刘荆 / Liu Jing, Guangling King (Eastern Han)](entities/LiuJingGuanglingKingEasternHan.md) — Mingdi's royal brother whose rebellion-suggestive speech, curse rituals, suicide, and abolished fief define a royal-kin treason boundary.
+- [樊鯈 / Fan Tiao (Eastern Han)](entities/FanTiaoEasternHan.md) — Eastern Han reviewer who tells Mingdi that royal kinship cannot turn Liu Jing's treason case into private family property.
+- [鲍峻 / Bao Jun (Eastern Han)](entities/BaoJunEasternHan.md) — Ding Hong's friend and recommender who reframes title inheritance as state-assigned public responsibility.
 - [Travis Kalanick](entities/TravisKalanick.md) — Operator guest connecting truth norms, social-media age-gate tradeoffs, communism critiques, and energy-rich property use for possible AI compute.
 - [鄯善国 / Shanshan Kingdom (late Han)](entities/ShanshanKingdomLateHan.md) — Western Regions swing polity whose 73 CE reception of Ban Chao turns after Northern Xiongnu envoys arrive, before Ban Chao's night attack forces hostage submission.
 - [廉范 / Lian Fan (Eastern Han)](entities/LianFanEasternHan.md) — Eastern Han official whose current profile joins Yunzhong torch-display deception against Northern Xiongnu with Chengdu night-fire permission plus water-preparedness governance.
@@ -1797,7 +1801,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Horatio Gates](entities/HoratioGates.md) — Rival commander figure around whom a winter movement to replace Washington briefly formed.
 - [鲍昱 / Bao Yu (Eastern Han)](entities/BaoYuEasternHan.md) — Mingdi-appointed Situ whose Zhangdi-era profile joins rescue-credit advocacy, drought-framed Chu-case redress, and qualified frontier-policy judgment.
 - [范羌 / Fan Qiang (Eastern Han)](entities/FanQiangEasternHan.md) — Eastern Han frontier officer who risks a deep-snow rescue of Geng Gong, making loyal followership a shared-risk command case.
-- [郑众 / Zheng Zhong (Eastern Han frontier commander)](entities/ZhengZhongFrontierEasternHan.md) — Non-eunuch Zheng Zhong who receives Geng Gong's survivors at Yumen and memorializes their endurance for court recognition.
+- [郑众 / Zheng Zhong (Eastern Han frontier commander)](entities/ZhengZhongFrontierEasternHan.md) — Non-eunuch Zheng Zhong whose profile spans Northern Xiongnu envoy-refusal dignity, misread imprisonment, rehabilitation, and later recognition of Geng Gong's survivors.
 - [郑纯 / Zheng Chun (Eastern Han)](entities/ZhengChunEasternHan.md) — Yongchang administrator whose clean, custom-aware frontier governance anchors Hanji 747's contrast with the Ailao rebellion after his death.
 - [哀牢王柳貌 / Ailao King Liu Mao](entities/AilaoKingLiuMao.md) — Ailao ruler whose 69 CE submission leads to Eastern Han county creation and Bonan/Lancang route works.
 - [哀牢王类牢 / Ailao King Lei Lao](entities/AilaoKingLeilao.md) — Ailao ruler whose rebellion after Zheng Chun's death becomes Hanji 747's negative case for frontier governance without local understanding.
@@ -1856,7 +1860,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [乐恢 / Le Hui (Eastern Han)](entities/LeHuiEasternHan.md) — Eastern Han remonstrating official whose anti-expedition objection, exposure of officials, and advice to maternal uncles end in suicide after Dou-linked pressure.
 - [韩棱 / Han Leng (Eastern Han)](entities/HanLengEasternHan.md) — Eastern Han official whose Liu Chang murder-case judgment, anti-expedition remonstrance, and blocked "wansui" salute defend court hierarchy against Dou Xian.
 - [周荣 / Zhou Rong (Eastern Han)](entities/ZhouRongEasternHan.md) — Yuan An's memorial drafter who turns a Dou-retainer death threat into public deterrence and attribution control.
-- [丁鸿 / Ding Hong (Eastern Han)](entities/DingHongEasternHan.md) — Eastern Han minister who uses a solar eclipse and dynastic precedent to warn against Dou Xian's outer-relative monopoly.
+- [丁鸿 / Ding Hong (Eastern Han)](entities/DingHongEasternHan.md) — Eastern Han minister whose profile spans title-succession duty under Mingdi and later solar-eclipse remonstrance against Dou Xian's outer-relative monopoly.
 - [窦瑰 / Dou Gui (Eastern Han)](entities/DouGuiEasternHan.md) — Restrained Dou-family member used by Yuan An as an internal counterexample before Zhang Pu later secures evidence-specific mercy for him.
 - [和嵩 / He Song (Eastern Han)](entities/HeSongEasternHan.md) — Upright Eastern Han tutor-official sent to Jinan after Dou Xian learns of Yuan An's sealed memorial, remembered for generous local governance and difficult royal remonstrance.
 - [阜陵王刘延 / Liu Yan (Fuling King, Eastern Han)](entities/LiuYanFulingKingEasternHan.md) — Disambiguated Eastern Han prince whose profile now starts with Emperor Ming's Huaiyang-to-Fuling punishment before later prophecy-linked accusations, restoration, and death notice.
@@ -2439,7 +2443,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [孟陀 / Meng Tuo (late Han)](entities/MengTuoLateHan.md) — Merchant-turned-Liangzhou inspector who manufactures access to Zhang Rang through a staged kneeling scene before failing against Shule.
 - [谷永 / Gu Yong (late Han)](entities/GuYongLateHan.md) — Frontier administrator whose trust-based submission and county-establishment case contrasts with Meng Tuo's failed command.
 - [疏勒 / Shule Kingdom](entities/ShuleKingdom.md) — Western Regions kingdom whose Qiuci-backed Duti removal and Zhong installation precede Ban Chao's recall crisis, Wang Zhong defection, later succession, regional balancing, and resistance to Meng Tuo.
-- [汉明帝 / Emperor Ming of Han](entities/EmperorMingOfHan.md) — Eastern Han emperor whose profile links royal affection, Ailao incorporation, Bianqu hydraulic capacity, Chu-prison overreach, partial correction, Confucian ritual, frontier restoration, filial grief, frugal burial, and outer-relative restraint.
+- [汉明帝 / Emperor Ming of Han](entities/EmperorMingOfHan.md) — Eastern Han emperor whose profile links frontier diplomacy, official evaluation, classics education, royal-kin judgment, Ailao incorporation, hydraulic capacity, Chu-prison correction, ritual, filial grief, and frugal restraint.
 - [胡广 / Hu Guang (late Han)](entities/HuGuangLateHan.md) — Late-Han senior official whose anti-lottery empress-selection objection, Xiaolian-rule flexibility argument, initial Liu Suan recommendation, later 146 CE succession accommodation, and Teng Fu impeachment precede Hanji 900's survival case.
 - [滕抚 / Teng Fu (late Han)](entities/TengFuLateHan.md) — Upright late-Han anti-bandit official whose 145 CE Xu-Yang and southeast suppression merit later turns into blocked reward and dismissal.
 - [侯览 / Hou Lan (late Han)](entities/HouLanLateHan.md) — Late-Han eunuch whose profile now starts with a 148 CE appointment-pressure branch before post-Liang rewards, protected-servant reversal, Zhang Jian retaliation, and office-removal suicide.
@@ -10309,6 +10313,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [使节礼节国威 / Diplomatic Ritual Dignity](concepts/DiplomaticRitualDignity.md) — Frontier-diplomacy pattern where an envoy's ritual posture can become a state-level dignity and recognition signal.
+- [宗室谋逆法度边界 / Royal Kin Treason Law Boundary](concepts/RoyalKinTreasonLawBoundary.md) — Court-governance boundary where imperial kinship affects procedure but cannot privatize treason suspicion.
+- [封爵继承公共责任 / Title Succession Public Duty](concepts/TitleSuccessionPublicDuty.md) — Governance ethic treating inherited state-conferred title as public responsibility rather than private preference.
 - [Modular AI Data Centers](concepts/ModularAIDataCenters.md) — Prefabricated AI compute infrastructure deployed near available power, cooling, gas, or industrial sites for faster distributed inference capacity.
 - [先胜后战式兵法 / Advantage-First Combat Doctrine](concepts/AdvantageFirstCombatDoctrine.md) — Strategy pattern where commanders create information, timing, morale, or political advantage before fighting instead of treating battle as a gamble.
 - [自污式政治自保 / Self-Deprecating Political Survival](concepts/SelfDeprecatingPoliticalSurvival.md) — Survival tactic where a vulnerable high-status actor lowers perceived virtue, ability, or ambition to reduce court suspicion.
@@ -11155,7 +11162,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Transcendent Exit Political Camouflage / 假托神仙式权力退场](concepts/TranscendentExitPoliticalCamouflage.md) — Hanji 171 pattern where Zhang Liang uses immortal and Daoist withdrawal language to make post-founding exit from power respectable and non-threatening.
 - [旧敌忠义重释 / Former Enemy Loyalty Reframing](concepts/FormerEnemyLoyaltyReframing.md) — Founding-order move where a victor reclassifies a former enemy's hostile service as loyalty that the new regime can pardon and use.
 - [Battlefield Victory To Founding Order](concepts/BattlefieldVictoryToFoundingOrder.md) — Transition pattern from final battlefield victory into pacification, command control, reward, repair, frontier recognition, ritual, and dynastic founding.
-- [边疆册封信用权衡 / Frontier Recognition Credibility Tradeoff](concepts/FrontierRecognitionCredibilityTradeoff.md) — Hanji 765 pattern where recognizing a frontier claimant can damage prior commitments, neighboring frontier relations, and public finances.
+- [边疆册封信用权衡 / Frontier Recognition Credibility Tradeoff](concepts/FrontierRecognitionCredibilityTradeoff.md) — Eastern Han frontier pattern where envoy contact or title recognition can damage prior commitments, neighboring relations, ritual hierarchy, and public finances.
 - [Recognition-Backed Frontier Diplomacy / 册封威慑式边疆外交](concepts/RecognitionBackedFrontierDiplomacy.md) — Pattern where formal title recognition and credible alternatives make submission or restored vassal rule safer than frontier resistance or outside alignment.
 - [战后复员安民 / Postwar Return and Veteran Relief](concepts/PostwarReturnAndVeteranRelief.md) — Liu Bang's early Han policy of returning displaced people, restoring property, restraining local officials, and supporting or exempting demobilized soldiers.
 - [专才分工式领导力 / Specialist Delegation Leadership](concepts/SpecialistDelegationLeadership.md) — Liu Bang's South Palace explanation that he won by recognizing and using Zhang Liang, Xiao He, and Han Xin rather than matching their specialist abilities.

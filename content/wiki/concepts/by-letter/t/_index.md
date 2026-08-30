@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 6077
+wiki_total_pages: 6080
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -722,6 +722,9 @@ wiki_pages:
   - key: "TaixueCollectivePetition"
     title: "太学集体请命 / Taixue Collective Petition"
     url: "/wiki/concepts/taixuecollectivepetition/"
+  - key: "TitleSuccessionPublicDuty"
+    title: "封爵继承公共责任 / Title Succession Public Duty"
+    url: "/wiki/concepts/titlesuccessionpublicduty/"
   - key: "TuntianProximitySecurityDilemma"
     title: "屯田贴近引发安全困境 / Tuntian Proximity Security Dilemma"
     url: "/wiki/concepts/tuntianproximitysecuritydilemma/"

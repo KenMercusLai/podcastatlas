@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 6077
+wiki_total_pages: 6080
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -830,6 +830,9 @@ wiki_pages:
   - key: "ReputationConstrainedWarRestraint"
     title: "名声约束下的战争节制 / Reputation-Constrained War Restraint"
     url: "/wiki/concepts/reputationconstrainedwarrestraint/"
+  - key: "RoyalKinTreasonLawBoundary"
+    title: "宗室谋逆法度边界 / Royal Kin Treason Law Boundary"
+    url: "/wiki/concepts/royalkintreasonlawboundary/"
   - key: "RitualAmbushCountercoup"
     title: "宗庙仪式反制政变 / Ritual Ambush Countercoup"
     url: "/wiki/concepts/ritualambushcountercoup/"

@@ -3805,6 +3805,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/banzhaolatehan/"
     },
+    "BaoJunEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》738丨他拼死保全大汉气节，为何惨遭蒙冤？ [lrvC1F6FV2h66Q0PLeCIHmfMDVxU].md",
+          "key": "zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》738丨他拼死保全大汉气节，为何惨遭蒙冤？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/baojuneasternhan/"
+    },
     "BaoYuEasternHan": {
       "episode_count": 3,
       "show_count": 1,
@@ -9348,9 +9364,9 @@
       "url": "/wiki/entities/digitrobot/"
     },
     "DingHongEasternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》766丨历史教给你：为什么要故意发脾气？ [lrs-mguYfmnxE970HdWjvMEvL8Oc].md",
@@ -9358,9 +9374,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》766丨历史教给你：为什么要故意发脾气？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-766-lishi-jiaogei-ni-weishenme-yao-guyi-fa-piqi-lrs-mguyfmnxe970hdwjvmevl8oc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》738丨他拼死保全大汉气节，为何惨遭蒙冤？ [lrvC1F6FV2h66Q0PLeCIHmfMDVxU].md",
+          "key": "zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》738丨他拼死保全大汉气节，为何惨遭蒙冤？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-08-31",
       "url": "/wiki/entities/dinghongeasternhan/"
     },
     "DiplomaticPersonaAsStrategicAsset": {
@@ -9378,6 +9401,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/diplomaticpersonaasstrategicasset/"
+    },
+    "DiplomaticRitualDignity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》738丨他拼死保全大汉气节，为何惨遭蒙冤？ [lrvC1F6FV2h66Q0PLeCIHmfMDVxU].md",
+          "key": "zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》738丨他拼死保全大汉气节，为何惨遭蒙冤？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/diplomaticritualdignity/"
     },
     "DirectRemonstranceCriminalization": {
       "episode_count": 6,
@@ -11396,9 +11435,9 @@
       "url": "/wiki/entities/emperorhuanofhan/"
     },
     "EmperorMingOfHan": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》899丨好清斗贪官 [ljHIC1PlzmV8k6LU73J5tErihanx].md",
@@ -11441,6 +11480,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》739丨坐拥天下美女的皇帝，其实也会孤独",
           "url": "/wiki/sources/zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》738丨他拼死保全大汉气节，为何惨遭蒙冤？ [lrvC1F6FV2h66Q0PLeCIHmfMDVxU].md",
+          "key": "zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》738丨他拼死保全大汉气节，为何惨遭蒙冤？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu/"
         }
       ],
       "updated": "2026-08-31",
@@ -13110,6 +13156,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/fanqinlatehan/"
     },
+    "FanTiaoEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》738丨他拼死保全大汉气节，为何惨遭蒙冤？ [lrvC1F6FV2h66Q0PLeCIHmfMDVxU].md",
+          "key": "zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》738丨他拼死保全大汉气节，为何惨遭蒙冤？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/fantiaoeasternhan/"
+    },
     "FanYingLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -14460,9 +14522,9 @@
       "url": "/wiki/concepts/frontierproxyconqueststrategy/"
     },
     "FrontierRecognitionCredibilityTradeoff": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》765丨东汉风云：能臣能不能干掉跋扈外戚？ [ltnVdqNyoFUELAKlSSBQuGUWIVAN].md",
@@ -14470,9 +14532,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》765丨东汉风云：能臣能不能干掉跋扈外戚？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-765-donghan-fengyun-nengchen-nengbuneng-gandiao-bahu-waiqi-ltnvdqnyofuelaklssbquguwivan/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》738丨他拼死保全大汉气节，为何惨遭蒙冤？ [lrvC1F6FV2h66Q0PLeCIHmfMDVxU].md",
+          "key": "zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》738丨他拼死保全大汉气节，为何惨遭蒙冤？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-08-31",
       "url": "/wiki/concepts/frontierrecognitioncredibilitytradeoff/"
     },
     "FrontierResourceIntegration": {
@@ -23063,6 +23132,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/liuguilatehan/"
+    },
+    "LiuJingGuanglingKingEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》738丨他拼死保全大汉气节，为何惨遭蒙冤？ [lrvC1F6FV2h66Q0PLeCIHmfMDVxU].md",
+          "key": "zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》738丨他拼死保全大汉气节，为何惨遭蒙冤？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/liujingguanglingkingeasternhan/"
     },
     "LiuJuLateHan": {
       "episode_count": 2,
@@ -33099,6 +33184,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/royalfiefdiscipline/"
     },
+    "RoyalKinTreasonLawBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》738丨他拼死保全大汉气节，为何惨遭蒙冤？ [lrvC1F6FV2h66Q0PLeCIHmfMDVxU].md",
+          "key": "zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》738丨他拼死保全大汉气节，为何惨遭蒙冤？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/royalkintreasonlawboundary/"
+    },
     "RoyalSociety": {
       "episode_count": 2,
       "show_count": 2,
@@ -38094,6 +38195,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/titlerealityrestraint/"
+    },
+    "TitleSuccessionPublicDuty": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》738丨他拼死保全大汉气节，为何惨遭蒙冤？ [lrvC1F6FV2h66Q0PLeCIHmfMDVxU].md",
+          "key": "zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》738丨他拼死保全大汉气节，为何惨遭蒙冤？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/titlesuccessionpublicduty/"
     },
     "TokenTaxOnAI": {
       "episode_count": 1,
@@ -45244,9 +45361,9 @@
       "url": "/wiki/entities/zhengzhongeasternhan/"
     },
     "ZhengZhongFrontierEasternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》746丨什么样的领导，值得被死心塌追随？ [lvHBdgfbC69T6sdw92K4dIpII_RX].md",
@@ -45254,6 +45371,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》746丨什么样的领导，值得被死心塌追随？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》738丨他拼死保全大汉气节，为何惨遭蒙冤？ [lrvC1F6FV2h66Q0PLeCIHmfMDVxU].md",
+          "key": "zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》738丨他拼死保全大汉气节，为何惨遭蒙冤？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu/"
         }
       ],
       "updated": "2026-08-31",

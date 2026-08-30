@@ -18139,6 +18139,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "DiplomaticRitualDignity": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "Dipsig": [
     {
       "key": "technology",
@@ -20238,6 +20245,13 @@
       "url": "/topics/science/"
     }
   ],
+  "EmperorMingOfHan": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "EmperorZhangOfHan": [
     {
       "key": "politics",
@@ -21668,6 +21682,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "FanTiaoEasternHan": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "FanWuji": [
@@ -50451,6 +50472,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "RoyalKinTreasonLawBoundary": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "RoyalMail": [
     {
       "key": "culture",
@@ -59205,6 +59233,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "TitleSuccessionPublicDuty": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "TlatelolcoMassacre": [
     {
       "key": "politics",
@@ -66735,6 +66770,13 @@
       "url": "/topics/history/"
     }
   ],
+  "ZhengZhongFrontierEasternHan": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "ZhengZhu": [
     {
       "key": "history",
@@ -73100,6 +73142,18 @@
     }
   ],
   "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
     {
       "key": "politics",
       "label": "Politics",

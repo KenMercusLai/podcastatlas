@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "6df286aa7341b8d92dcf61fdb2fc450df87948b95ea4b2ef3d81d4174ea65d6a",
       "cf6d52565a33ab9176cf0591265a9d2b0e3e71d6c76e8a2a3a4ac598862d3286",
       "eda9c1a0bec23aeae0a55ed3bb0678f7efc917b8a67a33169610cbbbf3bd36a6",
       "516ae0589f002d0064fb3d7aa9a91354927c9e8ddad73db998f5711abec0562e",
@@ -431,11 +432,38 @@
       "12c2b57062376e50f472c6806ecb08714733b065e8db5d2b809f05f83d802f96",
       "2231d7cf4c1cf8ae29ee2ec0737334356ddcd78d5df4e6b306dab83b98b3febe"
     ],
-    "paragraph_count": 429
+    "paragraph_count": 430
   },
-  "overview_commit": "5c17c51e81f3dd6b6e009ba797d6f33a6edd85bc",
-  "overview_digest": "581e2ae44aa853d3d98fdae0295897f4563dcf0bec2ca4e647f79cc17323c3b4",
+  "overview_commit": "fa72dd24e35ac0ead18c5a10ed33d018c5ddd0ad",
+  "overview_digest": "bcf698687c94dd867f6100d183971648a5d1bf4e8ba330e80edb11cc28c11383",
   "paragraphs": [
+    {
+      "id": "6df286aa7341b8d92dcf61fdb2fc450df87948b95ea4b2ef3d81d4174ea65d6a",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu|《资治通鉴·汉纪》738丨他拼死保全大汉气节，为何惨遭蒙冤？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling 65-67 CE / Yongping 8-10 before [[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl|Hanji 739]]. It adds [[LiuJingGuanglingKingEasternHan|广陵王刘荆]], [[FanTiaoEasternHan|樊鯈]], [[BaoJunEasternHan|鲍峻]], [[DiplomaticRitualDignity|使节礼节国威]], [[RoyalKinTreasonLawBoundary|宗室谋逆法度边界]], and [[TitleSuccessionPublicDuty|封爵继承公共责任]], while extending [[EmperorMingOfHan|汉明帝]], [[ZhengZhongFrontierEasternHan|郑众]], [[DingHongEasternHan|丁鸿]], and [[FrontierRecognitionCredibilityTradeoff|边疆册封信用权衡]]. Its core synthesis is that early Yongping order combines official evaluation, classics education, and royal-family discipline with a fragile frontier signal regime: Zheng reads a Northern Xiongnu return mission and coerced kowtow as damage to Han credibility, Mingdi first misreads that as defiance, and later testimony recasts it as loyalty. No settled contradiction is recorded; 郑仲/正宗, 刘经/刘金, 丁弘, and 凡条 transcript forms are normalized to Zheng Zhong, Liu Jing, Ding Hong, and Fan Tiao.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "BaoJunEasternHan",
+        "DingHongEasternHan",
+        "DiplomaticRitualDignity",
+        "EmperorMingOfHan",
+        "FanTiaoEasternHan",
+        "FrontierRecognitionCredibilityTradeoff",
+        "LiuJingGuanglingKingEasternHan",
+        "RoyalKinTreasonLawBoundary",
+        "RuiqiJiangtouZizhiTongjian",
+        "TitleSuccessionPublicDuty",
+        "ZhengZhongFrontierEasternHan",
+        "zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu",
+        "zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl"
+      ]
+    },
     {
       "id": "cf6d52565a33ab9176cf0591265a9d2b0e3e71d6c76e8a2a3a4ac598862d3286",
       "primary_topic": "governance-and-institutions",
