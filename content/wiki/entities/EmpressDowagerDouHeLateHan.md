@@ -7,16 +7,19 @@ sources:
   - zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q
   - zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex
   - zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi
+  - zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j
 last_updated: 2026-08-30
 ---
 
 ## Overview
 
-窦太后 / Empress Dowager Dou now has three bounded He-era layers in the wiki. Hanji 760 shows her living authority and vulnerability after [[EmperorZhangOfHan|Emperor Zhang]]'s death: her relationship with [[LiuChangDuxiangHouEasternHan|Duxiang marquis Liu Chang]] leads [[DouXianEasternHan|Dou Xian]] to kill Liu Chang, and she ultimately protects Dou by letting military service replace ordinary punishment. Hanji 761 then shows her ignoring anti-campaign remonstrance, supporting Dou-family mansion construction, favoring Dou in the [[ZhiShouEasternHan|Zhi Shou]] case, and receiving Dou's Northern Xiongnu hostage report. Hanji 770 later shows her posthumous status becoming contested after [[EmperorHeOfHan|Emperor He]] learns the hidden [[LiangGuirenHeLateHan|Liang Guiren]] birth-mother case.
+窦太后 / Empress Dowager Dou now has four bounded He-era layers in the wiki. Hanji 759 shows her first living-regency layer after [[EmperorZhangOfHan|Emperor Zhang]]'s death: child [[EmperorHeOfHan|Emperor He]] succeeds, she governs as dowager, the Dou brothers gain near-court access, and she consults [[GengBingEasternHan|Geng Bing]] on the Southern Xiongnu request. Hanji 760 then shows her vulnerability after her relationship with [[LiuChangDuxiangHouEasternHan|Duxiang marquis Liu Chang]] leads [[DouXianEasternHan|Dou Xian]] to kill Liu Chang, and she ultimately protects Dou by letting military service replace ordinary punishment. Hanji 761 shows her ignoring anti-campaign remonstrance, supporting Dou-family mansion construction, favoring Dou in the [[ZhiShouEasternHan|Zhi Shou]] case, and receiving Dou's Northern Xiongnu hostage report. Hanji 770 later shows her posthumous status becoming contested after Emperor He learns the hidden [[LiangGuirenHeLateHan|Liang Guiren]] birth-mother case.
 
 ## Current Profile
 
-Hanji 760 presents the living dowager as both ruler-adjacent authority and family protector. After Emperor Zhang dies, she holds political power and develops a hidden relationship with Liu Chang during the mourning period. When Dou Xian kills Liu Chang and frames [[LiuGangEasternHan|Liu Gang]], the case is eventually solved and she becomes angry enough to confine Dou inside the palace. Yet the final decision protects her brother: Dou asks to attack [[NorthernXiongnuLateHan|Northern Xiongnu]] to redeem his death offense, and she accepts that alternative.
+Hanji 759 presents the first living-dowager layer. After Emperor Zhang dies, Emperor He is ten years old, and Dou governs from the empress-dowager position. Her authority lets Dou Xian and the Dou brothers stand close to the emperor and dowager, and the same source shows her court receiving the first Southern Xiongnu request to attack [[NorthernXiongnuLateHan|Northern Xiongnu]]. She consults Geng Bing, who supports the campaign idea.
+
+Hanji 760 presents the living dowager as both ruler-adjacent authority and family protector. She develops a hidden relationship with Liu Chang during the mourning period. When Dou Xian kills Liu Chang and frames [[LiuGangEasternHan|Liu Gang]], the case is eventually solved and she becomes angry enough to confine Dou inside the palace. Yet the final decision protects her brother: Dou asks to attack Northern Xiongnu to redeem his death offense, and she accepts that alternative.
 
 Hanji 761 presents the next living-dowager layer as broader enablement of Dou-family power. Officials object to the Northern Xiongnu expedition on mourning, farming, logistics, and legitimacy grounds, but she does not accept the objections. She then orders mansions built for [[DouDuEasternHan|Dou Du]] and [[DouJingEasternHan|Dou Jing]], making family privilege visible during public mobilization and fiscal strain.
 
@@ -28,7 +31,7 @@ Her current profile is therefore ambivalent in two directions. As living dowager
 
 ## Key Characteristics
 
-- Emperor He's adoptive mother and formal empress dowager.
+- Emperor He's adoptive mother and formal empress dowager whose authority opens Dou-family access around a child emperor.
 - Living authority whose relationship with Liu Chang creates the murder-case prelude to Dou Xian's campaign.
 - Family protector who lets Dou Xian seek military redemption instead of ordinary punishment.
 - Living authority who ignores anti-campaign remonstrance and backs Dou-family construction.
@@ -38,6 +41,7 @@ Her current profile is therefore ambivalent in two directions. As living dowager
 
 ## Evidence
 
+- Initial regency and consultation: [[zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j|Hanji 759]] says Empress Dowager Dou governs after Emperor Zhang's death, Dou Xian and the Dou brothers gain palace proximity, and she consults Geng Bing about the Southern Xiongnu request.
 - Affair and murder-case prelude: [[zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi|Hanji 760]] says Empress Dowager Dou repeatedly summons Liu Chang, gives him favor, and reacts after Liu Chang is murdered.
 - Brother protection: [[zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi|Hanji 760]] says the case points to Dou Xian, the dowager confines him, and then lets his Northern Xiongnu campaign request replace execution.
 - Ignored remonstrance and construction order: [[zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex|Hanji 761]] says Han Leng, Zhu Hui, Le Hui, and other critics oppose Dou Xian's expedition, but the dowager does not accept the advice and orders mansions for Dou Du and Dou Jing.
@@ -49,19 +53,20 @@ Her current profile is therefore ambivalent in two directions. As living dowager
 
 ## Qualifications
 
-This page remains bounded to Hanji 760, Hanji 761, and Hanji 770 and does not reconstruct Dou Taihou's full life, independent defense, or every regency decision. Hanji 760 gives the private relationship, murder-case, and brother-protection layer; Hanji 761 gives the campaign, construction, and Zhi Shou power layer; Hanji 770 gives a posthumous status and victim-redress layer. The page treats those as sequentially compatible rather than as a contradiction.
+This page remains bounded to Hanji 759, Hanji 760, Hanji 761, and Hanji 770 and does not reconstruct Dou Taihou's full life, independent defense, or every regency decision. Hanji 759 gives the initial regency, Dou-family access, and frontier-consultation layer; Hanji 760 gives the private relationship, murder-case, and brother-protection layer; Hanji 761 gives the campaign, construction, and Zhi Shou power layer; Hanji 770 gives a posthumous status and victim-redress layer. The page treats those as sequentially compatible rather than as a contradiction.
 
 ## What Changed
 
-- Added Hanji 760 as the earliest living-dowager layer: Liu Chang relationship, murder-case exposure, Dou Xian confinement, and military redemption.
-- Rebalanced the page so her later campaign approval in Hanji 761 follows an explicit family-protection decision.
+- Added Hanji 759 as the earliest living-dowager layer: child-emperor regency, Dou-family palace access, and consultation over the Southern Xiongnu request.
+- Rebalanced the page so her later family protection and campaign approval follow an explicit accession-regency context.
 - Preserved Hanji 770's posthumous dignity and victim-redress tension beside earlier evidence of active Dou-family favoritism.
 - Preserved disambiguation from the later Dou Miao empress-dowager page.
 
 ## Relationships
 
 - [[EmperorHeOfHan|汉和帝]] - adoptive son who later refuses to strip her posthumous status.
-- [[DouXianEasternHan|窦宪]] - brother or close Dou-family powerholder whose campaign and retaliation she enables in Hanji 761.
+- [[DouXianEasternHan|窦宪]] - brother or close Dou-family powerholder whose early access, campaign, and retaliation she enables.
+- [[GengBingEasternHan|耿秉]] - general she consults on the Southern Xiongnu campaign request.
 - [[LiuChangDuxiangHouEasternHan|都乡侯刘畅]] - favorite whose murder exposes the private and political stakes of her authority.
 - [[LiuGangEasternHan|刘刚]] - framed brother in the murder case tied to her household power.
 - [[DouDuEasternHan|窦笃]] - mansion beneficiary under her construction order.

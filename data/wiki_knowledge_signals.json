@@ -7297,6 +7297,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/cuiyanlatehan/"
     },
+    "CuiYinEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》759丨人性各种欲望，最可怕的是权力欲 [lhUJid-1aSI0U96JJVstnj76bt4J].md",
+          "key": "zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》759丨人性各种欲望，最可怕的是权力欲",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/cuiyineasternhan/"
+    },
     "CuiYuanLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -8103,6 +8119,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/democraticrepublicanparty/"
+    },
+    "DengBiaoEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》759丨人性各种欲望，最可怕的是权力欲 [lhUJid-1aSI0U96JJVstnj76bt4J].md",
+          "key": "zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》759丨人性各种欲望，最可怕的是权力欲",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/dengbiaoeasternhan/"
     },
     "DengFamilyAnEraLateHan": {
       "episode_count": 8,
@@ -9100,9 +9132,9 @@
       "url": "/wiki/entities/douwulatehan/"
     },
     "DouXianEasternHan": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》767丨聪明人，都擅长“演戏” [lq3ol7Y-JDh7dnNFKmtFDG4ibRyq].md",
@@ -9159,6 +9191,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》760丨历史揭秘：皇后出轨被抓，下场惨不惨？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》759丨人性各种欲望，最可怕的是权力欲 [lhUJid-1aSI0U96JJVstnj76bt4J].md",
+          "key": "zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》759丨人性各种欲望，最可怕的是权力欲",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j/"
         }
       ],
       "updated": "2026-08-30",
@@ -10935,9 +10974,9 @@
       "url": "/wiki/entities/empressdowagerdenglatehan/"
     },
     "EmpressDowagerDouHeLateHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》770丨沉默的真相：皇帝的生母竟是她 [lu5dqu8Uuw277IkZXkBLVqDbPL3q].md",
@@ -10959,6 +10998,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》760丨历史揭秘：皇后出轨被抓，下场惨不惨？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》759丨人性各种欲望，最可怕的是权力欲 [lhUJid-1aSI0U96JJVstnj76bt4J].md",
+          "key": "zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》759丨人性各种欲望，最可怕的是权力欲",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j/"
         }
       ],
       "updated": "2026-08-30",
@@ -13642,6 +13688,36 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/gengbaolatehan/"
+    },
+    "GengBingEasternHan": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》759丨人性各种欲望，最可怕的是权力欲 [lhUJid-1aSI0U96JJVstnj76bt4J].md",
+          "key": "zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》759丨人性各种欲望，最可怕的是权力欲",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》760丨历史揭秘：皇后出轨被抓，下场惨不惨？ [lgZ2sC9XT8ULltVWeMiZ2uzFgHQI].md",
+          "key": "zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》760丨历史揭秘：皇后出轨被抓，下场惨不惨？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》761丨从死刑犯到沙场英雄，他是如何做到的？ [lmcLLzGpJ19DSTNzfZtStrKAWuEX].md",
+          "key": "zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》761丨从死刑犯到沙场英雄，他是如何做到的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/gengbingeasternhan/"
     },
     "GengChengLinruHouLateHan": {
       "episode_count": 1,
@@ -25314,9 +25390,9 @@
       "url": "/wiki/entities/northernrising/"
     },
     "NorthernXiongnuLateHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》767丨聪明人，都擅长“演戏” [lq3ol7Y-JDh7dnNFKmtFDG4ibRyq].md",
@@ -25352,6 +25428,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》761丨从死刑犯到沙场英雄，他是如何做到的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》759丨人性各种欲望，最可怕的是权力欲 [lhUJid-1aSI0U96JJVstnj76bt4J].md",
+          "key": "zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》759丨人性各种欲望，最可怕的是权力欲",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j/"
         }
       ],
       "updated": "2026-08-30",
@@ -25925,9 +26008,9 @@
       "url": "/wiki/concepts/outdoorvehiclelifestyledesign/"
     },
     "OuterRelativeCourtPower": {
-      "episode_count": 19,
+      "episode_count": 20,
       "show_count": 1,
-      "source_note_count": 19,
+      "source_note_count": 20,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》848丨瞬间垮台！我为何说他死有余辜？ [lgqVgMxlwga2fKnmtxPj3Ya9chk0].md",
@@ -26061,6 +26144,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》761丨从死刑犯到沙场英雄，他是如何做到的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》759丨人性各种欲望，最可怕的是权力欲 [lhUJid-1aSI0U96JJVstnj76bt4J].md",
+          "key": "zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》759丨人性各种欲望，最可怕的是权力欲",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j/"
         }
       ],
       "updated": "2026-08-30",
@@ -27412,6 +27502,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/powercenterproximityadvantage/"
+    },
+    "PowerDesireSelfRestraint": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》759丨人性各种欲望，最可怕的是权力欲 [lhUJid-1aSI0U96JJVstnj76bt4J].md",
+          "key": "zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》759丨人性各种欲望，最可怕的是权力欲",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/powerdesireselfrestraint/"
     },
     "PowerMonopolyBackfire": {
       "episode_count": 1,
@@ -29129,9 +29235,9 @@
       "url": "/wiki/concepts/reproductiveattritionstrategy/"
     },
     "ReputationConstrainedWarRestraint": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1052丨三国重臣张纮，竟玩弄曹操于股掌？ [ljc3sD7MeIgo37Uy_1fxNKx-PSQG].md",
@@ -29146,6 +29252,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》761丨从死刑犯到沙场英雄，他是如何做到的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》759丨人性各种欲望，最可怕的是权力欲 [lhUJid-1aSI0U96JJVstnj76bt4J].md",
+          "key": "zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》759丨人性各种欲望，最可怕的是权力欲",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j/"
         }
       ],
       "updated": "2026-08-30",
@@ -31657,6 +31770,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/songhongeasternhan/"
     },
+    "SongYiEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》759丨人性各种欲望，最可怕的是权力欲 [lhUJid-1aSI0U96JJVstnj76bt4J].md",
+          "key": "zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》759丨人性各种欲望，最可怕的是权力欲",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/songyieasternhan/"
+    },
     "SongYouEasternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -31690,9 +31819,9 @@
       "url": "/wiki/entities/southernocean/"
     },
     "SouthernXiongnu": {
-      "episode_count": 15,
+      "episode_count": 16,
       "show_count": 1,
-      "source_note_count": 15,
+      "source_note_count": 16,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》903丨为什么劝你冤冤相报何时了？ [loKpt93MUc8kasvN44VgsjKI8boM].md",
@@ -31798,6 +31927,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》765丨东汉风云：能臣能不能干掉跋扈外戚？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-765-donghan-fengyun-nengchen-nengbuneng-gandiao-bahu-waiqi-ltnvdqnyofuelaklssbquguwivan/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》759丨人性各种欲望，最可怕的是权力欲 [lhUJid-1aSI0U96JJVstnj76bt4J].md",
+          "key": "zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》759丨人性各种欲望，最可怕的是权力欲",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j/"
         }
       ],
       "updated": "2026-08-30",
@@ -37403,9 +37539,9 @@
       "url": "/wiki/entities/xiahouyuan/"
     },
     "Xianbei": {
-      "episode_count": 14,
+      "episode_count": 15,
       "show_count": 1,
-      "source_note_count": 14,
+      "source_note_count": 15,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》903丨为什么劝你冤冤相报何时了？ [loKpt93MUc8kasvN44VgsjKI8boM].md",
@@ -37504,6 +37640,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》765丨东汉风云：能臣能不能干掉跋扈外戚？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-765-donghan-fengyun-nengchen-nengbuneng-gandiao-bahu-waiqi-ltnvdqnyofuelaklssbquguwivan/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》759丨人性各种欲望，最可怕的是权力欲 [lhUJid-1aSI0U96JJVstnj76bt4J].md",
+          "key": "zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》759丨人性各种欲望，最可怕的是权力欲",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j/"
         }
       ],
       "updated": "2026-08-30",

@@ -9,16 +9,19 @@ sources:
   - zizhi-tongjian-hanji-764-ta-weile-huoming-jing-jianjie-mie-le-luoma-diguo-lpk0c6muneabhk1oonzyjvawwf4
   - zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb
   - zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex
+  - zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j
 last_updated: 2026-08-30
 ---
 
 ## Overview
 
-北匈奴 / Northern Xiongnu is the late Emperor-He-era frontier field where [[DouXianEasternHan|Dou Xian]]'s contested campaign, Southern Xiongnu opportunism, battlefield defeat, client-surrender attempts, Yu Chu recognition, surrender reversal, Xianbei succession pressure, and later migration memory connect. Hanji 761 now supplies the earliest detailed layer: critics say the northern enemy is already distant, weakened by [[Xianbei|Xianbei]], and guilty of no fresh offense, yet the campaign proceeds to [[JiluoshanBattleLateHan|Jiluoshan]] and [[YanranInscription|Yanran]].
+北匈奴 / Northern Xiongnu is the late Emperor-He-era frontier field where famine, [[SouthernXiongnu|Southern Xiongnu]] opportunism, restraint debate, [[DouXianEasternHan|Dou Xian]]'s contested campaign, battlefield defeat, client-surrender attempts, Yu Chu recognition, surrender reversal, Xianbei succession pressure, and later migration memory connect. Hanji 759 now supplies the earliest detailed layer: Northern Xiongnu weakness attracts a Southern Xiongnu attack request, [[GengBingEasternHan|Geng Bing]] supports action, and [[SongYiEasternHan|Song Yi]] argues for allowing submission and using Northern Xiongnu as an outer screen.
 
 ## Current Profile
 
-Hanji 761 makes Northern Xiongnu weakness and moral ambiguity visible before the later recognition dispute. Officials argue that attacking a far-off, already pressured enemy during mourning and spring farming is not righteous and will burden the people. [[HeChangEasternHan|He Chang]] adds that Northern Xiongnu has not committed a new offense requiring revenge. Those objections fail, and the campaign proceeds.
+Hanji 759 makes Northern Xiongnu weakness visible before the Liu Chang murder and campaign-redemption branch. Famine and internal disorder push thousands to defect yearly to Southern Xiongnu. The Southern Xiongnu chanyu asks Han to join an attack, but Song Yi argues that Xianbei have already pressured Northern Xiongnu, that prior Xiongnu wars were too costly, and that accepting Northern Xiongnu submission as an outer screen may serve Han better than immediate conquest.
+
+Hanji 761 makes the moral ambiguity sharper once Dou Xian's campaign is proposed. Officials argue that attacking a far-off, already pressured enemy during mourning and spring farming is not righteous and will burden the people. [[HeChangEasternHan|He Chang]] adds that Northern Xiongnu has not committed a new offense requiring revenge. Those objections fail, and the campaign proceeds.
 
 The same source gives the first Jiluoshan layer. Dou Xian, Geng Bing, the Southern Xiongnu chanyu, and [[DengHongHeEraLateHan|Deng Hong]] advance by separate routes toward Zhuoye Mountain. Dou sends Yan Pan, [[GengKuiLateHan|Geng Kui]], and Geng Tan with Southern Xiongnu cavalry against the Northern Xiongnu chanyu at Jiluoshan. The Han side wins, pursues to Siqu Beihai, records large casualties and captured livestock, and receives surrender from many tribes.
 
@@ -32,7 +35,7 @@ The aftereffect is a steppe-transition story. Hanji 767 says Xianbei occupy aban
 
 ## Key Characteristics
 
-- Remnant frontier power already described by critics as distant, weakened, and without a fresh offense in Hanji 761.
+- Remnant frontier power whose famine and disorder create both Southern Xiongnu opportunism and Song Yi's outer-screen restraint argument.
 - Main opponent in Dou Xian's Jiluoshan victory and Yanran commemoration.
 - Target of Southern Xiongnu attack, Han pursuit, and leadership disappearance.
 - Migration-memory starting point for a qualified chain from steppe displacement to European Hun and Roman pressure.
@@ -42,6 +45,8 @@ The aftereffect is a steppe-transition story. Hanji 767 says Xianbei occupy aban
 
 ## Evidence
 
+- First weakness and restraint layer: [[zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j|Hanji 759]] says Northern Xiongnu suffer famine and internal disorder, with thousands defecting yearly to Southern Xiongnu.
+- Southern Xiongnu request and Song Yi alternative: [[zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j|Hanji 759]] says Southern Xiongnu asks Han to join an attack, while Song Yi argues for submission management and an outer-screen role.
 - Restraint objections: [[zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex|Hanji 761]] says officials argue Northern Xiongnu has already been pushed far away, has been defeated by Xianbei, and has committed no fresh direct offense.
 - Jiluoshan campaign: [[zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex|Hanji 761]] says Yan Pan, Geng Kui, and Geng Tan lead Southern Xiongnu cavalry against the northern chanyu at Jiluoshan and win.
 - Pursuit, capture, and surrender: [[zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex|Hanji 761]] reports pursuit to Siqu Beihai, large casualties, captured livestock, many submitted tribes, and Yanran commemoration.
@@ -54,12 +59,12 @@ The aftereffect is a steppe-transition story. Hanji 767 says Xianbei occupy aban
 
 ## Qualifications
 
-This is a narrow late-Han remnant page, not a complete Xiongnu history. Hanji 761's large casualty, livestock, surrender, distance, route, and hostage details remain source-scoped. Hanji 763 and Hanji 764 preserve the Northern-Xiongnu-to-Hun-to-Rome chain as a qualified source association, not as settled ethnogenesis, direct causation, or a complete explanation for Rome's fall. Yu Chu's name is normalized under this stable route even though Hanji 765 uses 于除 and Hanji 767 uses 俞厨.
+This is a narrow late-Han remnant page, not a complete Xiongnu history. Hanji 759's famine, defection, and policy-debate details remain source-scoped unless later notes add independent evidence. Hanji 761's large casualty, livestock, surrender, distance, route, and hostage details remain source-scoped. Hanji 763 and Hanji 764 preserve the Northern-Xiongnu-to-Hun-to-Rome chain as a qualified source association, not as settled ethnogenesis, direct causation, or a complete explanation for Rome's fall. Yu Chu's name is normalized under this stable route even though Hanji 765 uses 于除 and Hanji 767 uses 俞厨.
 
 ## What Changed
 
-- Added Hanji 761 as the earliest current layer: restraint objections, Jiluoshan route detail, client-arrangement attempt, and Yanran aftermath.
-- Reframed Northern Xiongnu as both a questionable opportunistic target and a defeated battlefield opponent.
+- Added Hanji 759 as the earliest current layer: famine, Southern Xiongnu attack request, Geng Bing's support, and Song Yi's submission-as-outer-screen alternative.
+- Reframed Northern Xiongnu as both a distressed frontier remnant and a questionable opportunistic target before its battlefield defeat.
 - Preserved the Yu Chu recognition dispute, surrender reversal, Xianbei transition, and qualified migration-to-Europe chain.
 
 ## Relationships
@@ -67,6 +72,8 @@ This is a narrow late-Han remnant page, not a complete Xiongnu history. Hanji 76
 - [[Xiongnu|匈奴]] - broader steppe-frontier category containing the Northern Xiongnu branch.
 - [[SouthernXiongnu|南匈奴]] - rival Xiongnu field whose attack and cavalry support shape the northern collapse.
 - [[DouXianEasternHan|窦宪]] - Han commander whose campaign breaks Northern Xiongnu power and whose fall destabilizes surrender arrangements.
+- [[GengBingEasternHan|耿秉]] - Han general who supports joining Southern Xiongnu's attack request.
+- [[SongYiEasternHan|宋意]] - shangshu who argues for submission management and an outer-screen role.
 - [[JiluoshanBattleLateHan|稽落山之战]] - battlefield marker for the main defeat in Hanji 761 and Hanji 763.
 - [[YanranInscription|燕然勒石]] - commemorative marker after Dou Xian's victory.
 - [[YuChuNorthernXiongnu|于除 / Yu Chu]] - claimant and remnant leader whose recognition request precedes his failed return agreement.

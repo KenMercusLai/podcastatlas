@@ -12791,6 +12791,10 @@
     "title": "崔琰 / Cui Yan (late Han)",
     "url": "/wiki/entities/cuiyanlatehan/"
   },
+  "CuiYinEasternHan": {
+    "title": "崔骃 / Cui Yin (Eastern Han)",
+    "url": "/wiki/entities/cuiyineasternhan/"
+  },
   "CuiYuanLateHan": {
     "title": "崔瑗 / Cui Yuan (late Han)",
     "url": "/wiki/entities/cuiyuanlatehan/"
@@ -14062,6 +14066,10 @@
   "DemotedVassalSafetySignal": {
     "title": "Demoted Vassal Safety Signal / 降爵诸侯安全信号",
     "url": "/wiki/concepts/demotedvassalsafetysignal/"
+  },
+  "DengBiaoEasternHan": {
+    "title": "邓彪 / Deng Biao (Eastern Han)",
+    "url": "/wiki/entities/dengbiaoeasternhan/"
   },
   "DengFamilyAnEraLateHan": {
     "title": "邓氏 / Deng Family (An-era late Han)",
@@ -20542,6 +20550,10 @@
   "GengBiLateHan": {
     "title": "耿鄙 / Geng Bi (late Han)",
     "url": "/wiki/entities/gengbilatehan/"
+  },
+  "GengBingEasternHan": {
+    "title": "耿秉 / Geng Bing (Eastern Han)",
+    "url": "/wiki/entities/gengbingeasternhan/"
   },
   "GengChengLinruHouLateHan": {
     "title": "耿承 / Geng Cheng (Linru marquis, late Han)",
@@ -39951,6 +39963,10 @@
     "title": "权力中心接近优势 / Power Center Proximity Advantage",
     "url": "/wiki/concepts/powercenterproximityadvantage/"
   },
+  "PowerDesireSelfRestraint": {
+    "title": "权力欲自律 / Power Desire Self-Restraint",
+    "url": "/wiki/concepts/powerdesireselfrestraint/"
+  },
   "PowerEtiquetteReading": {
     "title": "Power Etiquette Reading / 权力礼仪细读",
     "url": "/wiki/concepts/poweretiquettereading/"
@@ -46882,6 +46898,10 @@
   "SongYi": {
     "title": "宋义 / Song Yi",
     "url": "/wiki/entities/songyi/"
+  },
+  "SongYiEasternHan": {
+    "title": "宋意 / Song Yi (Eastern Han)",
+    "url": "/wiki/entities/songyieasternhan/"
   },
   "SongYiLateHan": {
     "title": "宋翼 / Song Yi (late Han)",
@@ -63050,6 +63070,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j": {
+    "title": "《资治通鉴·汉纪》759丨人性各种欲望，最可怕的是权力欲",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j/"
   },
   "zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi": {
     "title": "《资治通鉴·汉纪》760丨历史揭秘：皇后出轨被抓，下场惨不惨？",

@@ -23,16 +23,19 @@ sources:
   - zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj
   - zizhi-tongjian-hanji-766-lishi-jiaogei-ni-weishenme-yao-guyi-fa-piqi-lrs-mguyfmnxe970hdwjvmevl8oc
   - zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex
+  - zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j
 last_updated: 2026-08-30
 ---
 
 ## Definition
 
-Outer-relative court power is the late-Han pattern in which imperial in-laws convert dowager authority, marriage, harem rank, death-news control, child-ruler selection, military prestige, office succession, household access, retainers, estates, tribute channels, appointment access, and palace guards into a governing bloc. Its danger is not only private enrichment: it can override remonstrance, criminalize critics, monopolize appointments, distort frontier policy, punish social contact, kill rulers or ministers, suppress warnings, and then require closed-palace liquidation that strengthens other insider powers.
+Outer-relative court power is the late-Han pattern in which imperial in-laws convert dowager authority, marriage, harem rank, death-news control, child-ruler selection, near-body access, procedural shells, military prestige, office succession, household access, retainers, estates, tribute channels, appointment access, and palace guards into a governing bloc. Its danger is not only private enrichment: it can override remonstrance, criminalize critics, monopolize appointments, distort frontier policy, punish social contact, kill rulers or ministers, suppress warnings, and then require closed-palace liquidation that strengthens other insider powers.
 
 ## Current Synthesis
 
-The Dou-family branch now begins with Hanji 761. [[DouXianEasternHan|Dou Xian]] seeks a Northern Xiongnu expedition over objections based on mourning, farming, logistics, and no fresh enemy offense. [[EmpressDowagerDouHeLateHan|Empress Dowager Dou]] ignores memorials, orders mansions for [[DouDuEasternHan|Dou Du]] and [[DouJingEasternHan|Dou Jing]], and favors Dou when [[ZhiShouEasternHan|Zhi Shou]] publicizes Dou's private letter and is accused of slander. [[HeChangEasternHan|He Chang]] changes death to exile, but Zhi's suicide shows that the court's formal mitigation cannot fully protect loyal speech. The later Jiluoshan-Yanran victory makes the branch more dangerous because Dou controls military power while Dou Du and Dou Jing command palace guards.
+The Dou-family branch now begins with Hanji 759. After [[EmperorZhangOfHan|Emperor Zhang]] dies and child [[EmperorHeOfHan|Emperor He]] succeeds, [[EmpressDowagerDouHeLateHan|Empress Dowager Dou]] holds regency authority while [[DouXianEasternHan|Dou Xian]] and the Dou brothers gain palace proximity. [[CuiYinEasternHan|Cui Yin]] warns Dou that outer relatives born into rank and favor often fall through arrogance, but he also becomes part of Dou's talent network. [[DengBiaoEasternHan|Deng Biao]] gives Dou a formal procedure channel, Dou's revenge killing against Han Yu's family shows private grievance already using coercive power, and Cui's fake-edict solution removes five princes' pressure.
+
+Hanji 761 then shows the same branch moving from access to campaign authorization and criminalized remonstrance. Dou seeks a Northern Xiongnu expedition over objections based on mourning, farming, logistics, and no fresh enemy offense. Empress Dowager Dou ignores memorials, orders mansions for [[DouDuEasternHan|Dou Du]] and [[DouJingEasternHan|Dou Jing]], and favors Dou when [[ZhiShouEasternHan|Zhi Shou]] publicizes Dou's private letter and is accused of slander. [[HeChangEasternHan|He Chang]] changes death to exile, but Zhi's suicide shows that the court's formal mitigation cannot fully protect loyal speech. The later Jiluoshan-Yanran victory makes the branch more dangerous because Dou controls military power while Dou Du and Dou Jing command palace guards.
 
 Hanji 762 and Hanji 766 provide the Dou branch's domestic overreach and cleanup mechanics. Hanji 762 shows restored rank above the Three Excellencies, Dou Jing's household abuse, unauthorized frontier-cavalry recall, and Yuan An's legal-historical warning. Hanji 766 shows the mature crisis: new governors and two-thousand-shi officials first visit Dou's household, Yuan An and Ren Kui keep opposition visible, Zhou Rong turns a private threat public, Ding Hong uses a solar eclipse against maternal-uncles monopoly, and [[EmperorHeOfHan|Emperor He]] breaks the bloc through secret planning with [[ZhengZhongEasternHan|Zheng Zhong]] and [[LiuQingQingheKing|Liu Qing]], closed gates, guards, executions, and seal removal.
 
@@ -46,7 +49,7 @@ Hanji 833 through Hanji 848 show the saturation and liquidation of Liang power. 
 
 ## Key Claims
 
-- Outer-relative dominance can begin through campaign authorization and dowager favor, death-news control, or office succession before it becomes full palace monopoly.
+- Outer-relative dominance can begin through child-emperor access, procedural shells, campaign authorization and dowager favor, death-news control, or office succession before it becomes full palace monopoly.
 - Marriage, dowager authority, household access, estates, palace guards, military prestige, and harem rank make private kinship a public governing channel.
 - Warnings, lawful enforcement, visitor contact, omitted deference, property refusal, mourning, and public exposure of private requests can become punishable when a family bloc monopolizes political safety.
 - Formal ritual and office procedure can expose overreach, but bounded sanctions or sentence mitigation do not equal systemic control.
@@ -56,6 +59,8 @@ Hanji 833 through Hanji 848 show the saturation and liquidation of Liang power. 
 
 ## Evidence
 
+- Dou accession and procedural access: [[zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j|Hanji 759]] says child-emperor succession gives the Dou brothers palace proximity, Cui Yin warns Dou Xian about outer-relative arrogance, and Deng Biao's Taifu role gives Dou a formal procedure channel.
+- Dou private revenge and pressure removal: [[zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j|Hanji 759]] says Dou Xian has Han Yu's son killed over his father's case, and Cui Yin's circle sends five princes back to their fiefs through a fake edict.
 - Dou campaign and criminalized remonstrance: [[zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex|Hanji 761]] says Empress Dowager Dou ignores anti-campaign memorials, orders mansions for Dou Du and Dou Jing, favors Dou Xian in the Zhi Shou case, and leaves He Chang able only to reduce death to exile.
 - Dou victory and guard power: [[zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex|Hanji 761]] says Dou wins at Jiluoshan, orders Yanran commemoration, controls military power afterward, and has Dou Du plus Dou Jing command palace guards.
 - Dou household authorization and liquidation: [[zizhi-tongjian-hanji-762-lishi-gaosu-ni-nanren-youquan-neng-you-duo-huangtang-limdo2hfd8epcfkwwsrmzz9no0dj|Hanji 762]] and [[zizhi-tongjian-hanji-766-lishi-jiaogei-ni-weishenme-yao-guyi-fa-piqi-lrs-mguyfmnxe970hdwjvmevl8oc|Hanji 766]] show Dou rank elevation, Dou Jing's unauthorized cavalry recall, officials visiting Dou before taking office, anti-Dou warning, and Emperor He's closed-palace seal-centered purge.
@@ -70,20 +75,23 @@ Hanji 833 through Hanji 848 show the saturation and liquidation of Liang power. 
 
 ## Counterevidence & Qualifications
 
-This concept is grounded mainly in the Dou, Yan, and Liang cases and should not be treated as a complete typology of all Eastern Han outer-relative politics. Hanji 761 complicates the Dou branch because the criticized expedition succeeds militarily; the concept's claim is about court-power risk, not military incompetence. Hanji 761, Hanji 826, and Hanji 830 also show limits inside terror: He Chang, Li Gu, petitions, and burial permission can mitigate or contest punishment. Those limits do not erase the pattern because the family bloc still controls the risk environment. The episode set keeps an existing timing tension between Hanji 847, where Xuan survives a failed assassination attempt and helps catalyze the anti-Liang move, and Hanji 848, where Xuan is compressed into a death-triggered lead-up.
+This concept is grounded mainly in the Dou, Yan, and Liang cases and should not be treated as a complete typology of all Eastern Han outer-relative politics. Hanji 759 complicates the Dou branch because talent recruitment and formal procedure are real capacities even when they serve dangerous power. Hanji 761 complicates it further because the criticized expedition succeeds militarily; the concept's claim is about court-power risk, not military incompetence. Hanji 761, Hanji 826, and Hanji 830 also show limits inside terror: He Chang, Li Gu, petitions, and burial permission can mitigate or contest punishment. Those limits do not erase the pattern because the family bloc still controls the risk environment. The episode set keeps an existing timing tension between Hanji 847, where Xuan survives a failed assassination attempt and helps catalyze the anti-Liang move, and Hanji 848, where Xuan is compressed into a death-triggered lead-up.
 
 ## What Changed
 
-- Added Hanji 761 as the earliest current Dou-family branch: contested campaign authorization, dowager-backed mansions, Zhi Shou's criminalized refusal, He Chang's partial rescue, Jiluoshan-Yanran victory, and Dou-family guard power.
-- Reframed Dou Xian's branch so military success is part of outer-relative danger rather than a separate heroic exception.
+- Added Hanji 759 as the earliest current Dou-family branch: child-emperor accession, Dou-family palace proximity, Cui Yin's warning, Deng Biao's procedural shell, private revenge, and fake-edict pressure removal.
+- Reframed Dou Xian's branch so talent attraction, procedure, and military success can all be part of outer-relative danger rather than separate heroic exceptions.
 - Preserved Hanji 766 as the mature Dou liquidation layer rather than the branch's starting point.
 - Kept Yan and Liang branches intact while compressing repeated Liang evidence into office succession, protected corruption, imperial murder, succession capture, saturation, and palace-coup liquidation.
 - Added mitigation limits as a qualification rather than treating terror as frictionless.
 
 ## Related Concepts
 
-- [[DouXianEasternHan|窦宪]] - He-era outer-relative whose campaign success and household power become the earliest current branch.
-- [[EmpressDowagerDouHeLateHan|窦太后]] - dowager authority enabling campaign approval, mansion construction, and Zhi Shou's sentence.
+- [[DouXianEasternHan|窦宪]] - He-era outer-relative whose palace access, revenge, campaign success, and household power become the earliest current branch.
+- [[EmpressDowagerDouHeLateHan|窦太后]] - dowager authority enabling early access, campaign approval, mansion construction, and Zhi Shou's sentence.
+- [[CuiYinEasternHan|崔骃]] - adviser whose warning and fake-edict service expose talent's ambivalent role under outer-relative power.
+- [[DengBiaoEasternHan|邓彪]] - formal official whose Taifu channel shows procedure serving a family bloc.
+- [[PowerDesireSelfRestraint|权力欲自律]] - behavioral relationship because the Dou branch begins with failed restraint of power desire.
 - [[ZhiShouEasternHan|郅寿]] - remonstrant whose public refusal of Dou's private request exposes criminalized feedback.
 - [[HeChangEasternHan|何敞]] - mitigation actor who shows institutional limits inside Dou-family pressure.
 - [[EmperorHeOfHan|汉和帝]] - ruler who later breaks the Dou bloc through palace planning and symbol control.

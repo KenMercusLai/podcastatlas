@@ -1660,6 +1660,10 @@ Added source page for a Keji Luandun episode on Huawei's Tau Law, 3D chip stacki
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-30] ingest | 《资治通鉴·汉纪》759丨人性各种欲望，最可怕的是权力欲
+
+Ingested the 2026-06-30 芮淇讲透资治通鉴 episode on Emperor Zhang's death, Emperor He's child accession, Empress Dowager Dou's regency, Dou Xian's early palace access, Cui Yin's warning and fake-edict service, Deng Biao's procedural shell, Dou Xian's private revenge against Han Yu's family, the five-prince pressure episode, Southern Xiongnu's Northern Xiongnu attack request, Geng Bing's support, and Song Yi's restraint memorial. Created the source note plus `CuiYinEasternHan`, `DengBiaoEasternHan`, `GengBingEasternHan`, `SongYiEasternHan`, and `PowerDesireSelfRestraint`; updated `DouXianEasternHan`, `EmpressDowagerDouHeLateHan`, `NorthernXiongnuLateHan`, `SouthernXiongnu`, `Xianbei`, `OuterRelativeCourtPower`, `ReputationConstrainedWarRestraint`, `index`, and `overview`. No settled contradiction found; `SongYiEasternHan` is kept distinct from `SongYouEasternHan`, `SongYi`, and `SongYiLateHan`, while Han Yu, the five princes, salt-iron liberalization, exact dates, and minor frontier details remain source-scoped.
+
 
 ## [2026-08-30] ingest | 《资治通鉴·汉纪》782丨揭秘东汉奇女子艰难的太后生涯
 
@@ -13957,6 +13961,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-30] ingest | Dolly Parton’s “9 to 5,” the true story behind the anthem (bonus)
 
 Ingested the 2026-08-30 Planet Money bonus episode on the real clerical-worker labor movement behind Dolly Parton's "9 to 5." Created the source note plus `KarenNussbaum`, `JaneFonda`, `PatriciaResnick`, `NineToFiveOrganization`, `NineToFiveFilm`, `OfficeWorkerLaborOrganizing`, `GenderedOfficeHierarchy`, `CultureLedLaborOrganizing`, and `SexualHarassmentNamingLag`; updated `DollyParton`, `WomenWorkplaceProgressStall`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; the source extends Dolly Parton's cultural-memory page with a labor-history layer and qualifies the film's recognition effect by preserving its unfinished child care, harassment, leave, equal-pay, union-decline, and race-scope limits.
+
+## [2026-08-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-30] lint | Wiki health check
 

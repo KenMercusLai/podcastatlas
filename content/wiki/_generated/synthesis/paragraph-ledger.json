@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "4614617554245fe08b9d3ec6102e4dd3b6d4f87029c6065197f71a80b755be3a",
       "b20ef8f0318c4adef23db057f30b80ec541bbaed2238a467d8f980a84fae77d6",
       "9cfbb5efa04faa7e8c7721250a49ecc26f9f65a22e6ab25130ec061dff5b53f9",
       "d2262369cd3bb76959f878595a106e7167b579216f8d7b14ad80484a85f194a1",
@@ -412,11 +413,41 @@
       "783b85daf8e28c79ebd7838b98cbae32cc3b283841103fa74a279782510e1ecf",
       "2f2ccba72e3ff27853c9c5e7edd9f718fa9dd0a3c9c92731bc7ee6f0b1047bd7"
     ],
-    "paragraph_count": 410
+    "paragraph_count": 411
   },
-  "overview_commit": "75236db0cb74c142746646c5bcfb654f2a71bebd",
-  "overview_digest": "3bac91983ff049d70c4c973b01537de308bb69d9a35e999678437457d76148a3",
+  "overview_commit": "06c01ba168f5e00c50191042a6be39eafb70f8ff",
+  "overview_digest": "b73ce08374d1d9fa8115aaf3fda824190cb9aa07983c9429fc13f240af3a7927",
   "paragraphs": [
+    {
+      "id": "4614617554245fe08b9d3ec6102e4dd3b6d4f87029c6065197f71a80b755be3a",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j|《资治通鉴·汉纪》759丨人性各种欲望，最可怕的是权力欲]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 88 CE accession and pre-campaign layer before [[zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi|Hanji 760]] and [[zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex|Hanji 761]]. It adds [[CuiYinEasternHan|崔骃]], [[DengBiaoEasternHan|邓彪]], [[GengBingEasternHan|耿秉]], [[SongYiEasternHan|宋意]], and [[PowerDesireSelfRestraint|权力欲自律]], while extending [[DouXianEasternHan|窦宪]], [[EmpressDowagerDouHeLateHan|窦太后]], [[NorthernXiongnuLateHan|北匈奴]], [[SouthernXiongnu|南匈奴]], [[Xianbei|鲜卑]], [[OuterRelativeCourtPower|外戚专权与清算]], and [[ReputationConstrainedWarRestraint|名声约束下的战争节制]]. Its core synthesis is that Dou-family power begins before the later Liu Chang murder: a child emperor, dowager regency, talent recruitment, Deng Biao's procedural shell, private revenge against Han Yu's family, and fake-edict handling of five princes make power desire the inner-court problem, while Geng Bing and Song Yi turn Northern Xiongnu weakness into a debate over opportunistic attack versus frontier balance. No settled contradiction is recorded; [[SongYiEasternHan|宋意]] is kept distinct from [[SongYouEasternHan|宋游]] and the two existing Song Yi routes, while Han Yu, the five princes, salt-iron liberalization, exact annal dates, and minor frontier details remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 2,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "CuiYinEasternHan",
+        "DengBiaoEasternHan",
+        "DouXianEasternHan",
+        "EmpressDowagerDouHeLateHan",
+        "GengBingEasternHan",
+        "NorthernXiongnuLateHan",
+        "OuterRelativeCourtPower",
+        "PowerDesireSelfRestraint",
+        "ReputationConstrainedWarRestraint",
+        "RuiqiJiangtouZizhiTongjian",
+        "SongYiEasternHan",
+        "SongYouEasternHan",
+        "SouthernXiongnu",
+        "Xianbei",
+        "zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j",
+        "zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi",
+        "zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex"
+      ]
+    },
     {
       "id": "b20ef8f0318c4adef23db057f30b80ec541bbaed2238a467d8f980a84fae77d6",
       "primary_topic": "culture-and-media",
