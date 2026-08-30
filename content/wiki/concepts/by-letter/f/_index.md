@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 6024
+wiki_total_pages: 6025
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1067,6 +1067,9 @@ wiki_pages:
   - key: "FactionalAlignmentExitCapital"
     title: "派系站队退出资本 / Factional Alignment Exit Capital"
     url: "/wiki/concepts/factionalalignmentexitcapital/"
+  - key: "FertilityBurdenReliefPolicy"
+    title: "生育负担减免政策 / Fertility Burden Relief Policy"
+    url: "/wiki/concepts/fertilityburdenreliefpolicy/"
   - key: "FuChen"
     title: "负臣 / Corrective Disobedient Minister"
     url: "/wiki/concepts/fuchen/"

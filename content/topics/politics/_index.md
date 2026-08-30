@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2059
+topic_total_pages: 2061
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3337,6 +3337,9 @@ topic_concepts:
   - key: "WangAnshiReforms"
     title: "王安石变法 / Wang Anshi Reforms"
     url: "/wiki/concepts/wanganshireforms/"
+  - key: "FertilityBurdenReliefPolicy"
+    title: "生育负担减免政策 / Fertility Burden Relief Policy"
+    url: "/wiki/concepts/fertilityburdenreliefpolicy/"
   - key: "ImperialBondservantGovernance"
     title: "皇室包衣治理 / Imperial Bondservant Governance"
     url: "/wiki/concepts/imperialbondservantgovernance/"
@@ -5309,6 +5312,9 @@ topic_entities:
   - key: "KongXiangxi"
     title: "孔祥熙"
     url: "/wiki/entities/kongxiangxi/"
+  - key: "MengYunEasternHan"
+    title: "孟云 / Meng Yun (Eastern Han)"
+    url: "/wiki/entities/mengyuneasternhan/"
   - key: "ParthianEmpire"
     title: "安息 / Parthian Empire"
     url: "/wiki/entities/parthianempire/"

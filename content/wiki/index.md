@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》755丨这个朝代皇上就开始鼓励生娃了！](sources/zizhi-tongjian-hanji-755-zhege-chaodai-huangshang-jiu-kaishi-guli-shengwa-le-lj7bdkxkdtjhpo469yxhskjyfdco.md) — 芮淇讲透资治通鉴 episode on Emperor Zhang's fertility relief, low-disturbance local governance, ritual travel, teacher honor, Liu Cang mourning, and the first Southern/Northern Xiongnu restitution debate.
 - [《资治通鉴·汉纪》756丨为什么劝你得饶人处且饶人？](sources/zizhi-tongjian-hanji-756-weishenme-quan-ni-de-rao-ren-chu-qie-rao-ren-ltn4tqzy1d-sodhjidncv8dyqxpj.md) — 芮淇讲透资治通鉴 episode on Emperor Zhang's forbearance, Zheng Hong's anti-Dou remonstrance, Fifth Lun's self-scrutiny, Zhang Yu's release of Hao Wu, and Ban Chao's Shule counter-deception.
 - [《资治通鉴·汉纪》757丨人生想少走弯路？先找准定位！](sources/zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x.md) — 芮淇讲透资治通鉴 episode on Guo Gong's legal fit, Cao Bao's ritual commission, Fu Yu and Zhang Yu's Qiang-frontier failures, Mi Tang's coalition, and He Chang's omen skepticism.
 - [《资治通鉴·汉纪》758丨所有高情商，背后都是分寸感](sources/zizhi-tongjian-hanji-758-suoyou-gaoqingshang-beihou-doushi-fencungan-lr-6tzffmwdtzidkf3y8ule35qf7.md) — 芮淇讲透资治通鉴 episode on Emperor Zhang's late-reign royal-kin overfavor, Cao Bao's ritual code, Ban Chao's Shache deception, and He Chang/Song Yi's fiscal and protocol remonstrance.
@@ -1754,6 +1755,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [郑均 / Zheng Jun (Eastern Han)](entities/ZhengJunEasternHan.md) — White-clothed Shangshu figure honored by Emperor Zhang and used by Hanji 755 as an anti-corruption integrity example.
+- [孔僖 / Kong Xi (Eastern Han)](entities/KongXiEasternHan.md) — Confucius descendant whose modest answer at Zhangdi's Qufu sacrifice earns appointment and is kept distinct from Kong Xi / 孔熙.
+- [东平王刘苍 / Liu Cang, Dongping King](entities/LiuCangDongpingKing.md) — Emperor Zhang's deceased uncle whose house, tomb, and loyal retainers structure Hanji 755's royal-memory scene.
+- [孟云 / Meng Yun (Eastern Han)](entities/MengYunEasternHan.md) — Wuwei administrator who frames the 85 CE Xiongnu captive-and-livestock issue as a Han credibility problem.
+- [桓虞 / Huan Yu (Eastern Han)](entities/HuanYuEasternHan.md) — Situ on the pro-restitution side of the Hanji 755 Southern/Northern Xiongnu policy debate.
 - [郑洪 / Zheng Hong (Eastern Han)](entities/ZhengHongEasternHan.md) — Eastern Han taiwei whose policy dispute, early anti-Dou warnings, retaliatory counteraccusation, and final memorial make him a death-facing remonstrance figure.
 - [第五伦 / Fifth Lun (Eastern Han)](entities/FifthLunEasternHan.md) — Eastern Han senior official whose clean officeholding and horse-gift self-scrutiny turn integrity into private-motive vigilance.
 - [浩武 / Hao Wu (Qiang leader)](entities/HaoWuQiangLeader.md) — Qiang leader released by Zhang Yu after promising to disperse rebel forces, creating a tactical forbearance case.
@@ -1811,7 +1817,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [邓鸿 / Deng Hong (He-era commander)](entities/DengHongHeEraLateHan.md) — Disambiguated He-era commander in the Northern Xiongnu three-route expedition and later Southern Xiongnu Fenghou campaign, executed for delay.
 - [梁贵人 / Liang Guiren (Emperor He era)](entities/LiangGuirenHeLateHan.md) — Hidden birth mother of Emperor He whose posthumous recognition includes title, reburial, family recall, and later Liang outer-relative risk.
 - [窦太后 / Empress Dowager Dou (Emperor He era)](entities/EmpressDowagerDouHeLateHan.md) — Emperor He's adoptive mother whose child-regency authority, Dou-family access, Liu Chang relationship, Dou Xian protection, and posthumous redress disputes define her current profile.
-- [张酺 / Zhang Pu (Eastern Han)](entities/ZhangPuEasternHan.md) — Eastern Han official whose current profile runs from Taixue-orthodoxy opposition to Cao Bao's rites to later Liang birth-mother redress advice.
+- [张酺 / Zhang Pu (Eastern Han)](entities/ZhangPuEasternHan.md) — Eastern Han official whose profile runs from Emperor Zhang's former Shangshu teacher to Taixue-orthodoxy opposition and later Liang birth-mother redress advice.
 - [窦宪 / Dou Xian (Eastern Han)](entities/DouXianEasternHan.md) — Outer-relative powerholder whose profile now begins with Zhangdi-era Zheng Hong warnings before later palace access, murder, campaign redemption, Jiluoshan-Yanran victory, and palace removal.
 - [稽落山之战 / Jiluoshan Battle (late Han)](entities/JiluoshanBattleLateHan.md) — Dou Xian's Northern Xiongnu battlefield centerpiece with Hanji 761 route and cavalry detail, leading to Yanran commemoration and qualified migration-cascade framing.
 - [燕然勒石 / Yanran Inscription](entities/YanranInscription.md) — Campaign commemoration ordered by Dou Xian and written by Ban Gu after Jiluoshan, mass submission, and deep frontier pursuit.
@@ -1820,11 +1826,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [郑众 / Zheng Zhong (Eastern Han eunuch)](entities/ZhengZhongEasternHan.md) — Eunuch promoted after the Dou purge whose humility and trusted access mark the episode's beginning of eunuch power.
 - [邓训 / Deng Xun (Eastern Han)](entities/DengXunEasternHan.md) — Protector of the Qiang whose protection of threatened Hu families, Mi Tang defeat, and postwar settlement explain later cross-community mourning.
 - [聂尚 / Nie Shang (Eastern Han)](entities/NieShangLateHan.md) — Shu commandery administrator and Qiang protector whose rushed conciliation of Mi Tang ends with murdered envoys and dismissal.
-- [北匈奴 / Northern Xiongnu (late Han)](entities/NorthernXiongnuLateHan.md) — Northern Xiongnu field whose famine, Southern Xiongnu attack request, Song Yi restraint argument, Jiluoshan/Jinwei defeats, Yu Chu dispute, and Xianbei transition define the current layer.
+- [北匈奴 / Northern Xiongnu (late Han)](entities/NorthernXiongnuLateHan.md) — Northern Xiongnu field whose 85 CE weakness, restitution dispute, later famine, Southern Xiongnu attack request, Jiluoshan/Jinwei defeats, Yu Chu dispute, and Xianbei transition define the current layer.
 - [于除 / 俞厨 / Yu Chu (Northern Xiongnu)](entities/YuChuNorthernXiongnu.md) — Dou Xian-sponsored Northern Xiongnu claimant whose recognition request creates a frontier-credibility dispute before his later defection and destruction.
 - [清河王刘庆 / Liu Qing (Qinghe king)](entities/LiuQingQingheKing.md) — Eastern Han royal relative whose post-Dou caution precedes his Song Guiren sacrifice request after Liang Guiren's redress; kept distinct from modern Liu Qing.
 - [宋贵人 / Song Guiren (Zhang-He era)](entities/SongGuirenZhangHeLateHan.md) — Liu Qing's mother and parallel Dou Taihou victim whose recognition takes the narrower form of seasonal sacrifices.
-- [汉章帝 / Emperor Zhang of Han](entities/EmperorZhangOfHan.md) — Eastern Han emperor whose current profile includes court-speech preservation, Xiongnu restitution, farming care, legal leniency, ritual sponsorship, Qiang-frontier response, royal-kin overfavor, omen politics, and later tomb-order disputes.
+- [汉章帝 / Emperor Zhang of Han](entities/EmperorZhangOfHan.md) — Eastern Han emperor whose profile includes fertility relief, low-disturbance local governance, court-speech preservation, Xiongnu restitution, farming care, legal leniency, ritual sponsorship, royal-kin overfavor, and later tomb-order disputes.
 - [蔡伦 / Cai Lun (late Han)](entities/CaiLunLateHan.md) — Eastern Han palace official whose current profile links court workshop authority, Deng's writing-material demand, fiber-paper improvement, and later Deng-regency political exposure.
 - [徐防 / Xu Fang (late Han)](entities/XuFangLateHan.md) — Eastern Han senior official whose current role centers on 102 CE Taixue examination reform and later Deng-regency staffing and blame-bearing notices.
 - [唐羌 / Tang Qiang (late Han)](entities/TangQiangLateHan.md) — Linwu local official whose memorial reframes Lingnan fresh-fruit tribute as a lethal transport burden accepted by Emperor He.
@@ -3020,7 +3026,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [汉灵帝 / Emperor Ling of Han](entities/EmperorLingOfHan.md) — Late-Han emperor whose reign includes Hongdu Menxue patronage, Xidi office-sale pricing, palace-market play, private-treasury extraction, captured feedback, succession non-designation, and unresolved frontier appeals.
 - [董卓 / Dong Zhuo](entities/DongZhuo.md) — Late-Han warlord whose arc now runs from Luoyang terror and coerced scholar legitimacy through forced relocation, assassination, and Meiwu/Yijing fortress comparison.
 - [郿坞 / Meiwu Fortress](entities/MeiwuFortress.md) — Dong Zhuo's stronghold used as the comparison case for Yijing-style false security.
-- [南匈奴 / Southern Xiongnu](entities/SouthernXiongnu.md) — Han frontier group whose branch now starts with the 88 CE Northern Xiongnu attack request before the Yu Chu credibility dispute, An Guo-Shizi, Shizi-Fenghou, later revolt, intervention, and Yufuluo/Qubei/Huchuquan layers.
+- [南匈奴 / Southern Xiongnu](entities/SouthernXiongnu.md) — Han frontier group whose branch now starts with the 85 CE attack, succession, and restitution dispute before later anti-Northern-Xiongnu, Yu Chu, An Guo-Shizi, revolt, and Huchuquan layers.
 - [车儿 / Che'er Chanyu](entities/CheerChanyu.md) — Southern Xiongnu chanyu whose earlier accession notice precedes Zhang Huan's later detention proposal and Emperor Huan's hereditary-restoration decision.
 - [于扶罗 / Yufuluo Chanyu](entities/YufuluoChanyu.md) — Southern Xiongnu chanyu whose death is recorded at the end of Hanji 998.
 - [呼厨泉 / Huchuquan Chanyu](entities/HuchuquanChanyu.md) — Yufuluo's younger brother and Southern Xiongnu successor stationed at Pingyang.
@@ -10230,6 +10236,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [生育负担减免政策 / Fertility Burden Relief Policy](concepts/FertilityBurdenReliefPolicy.md) — Premodern fertility-support pattern where grain, tax relief, and labor relief lower household birth costs because population is state capacity.
 - [退让留余地式治理 / Strategic Forbearance Governance](concepts/StrategicForbearanceGovernance.md) — Governance pattern where restraint preserves cooperation, credibility, withdrawal, or future action instead of maximizing immediate punishment or advantage.
 - [人生定位与适配 / Career Positioning Through Fit](concepts/CareerPositioningThroughFit.md) — Career judgment pattern where effort compounds better when ability, temperament, role, and inherited resources fit before commitment.
 - [单人负责式制度编纂 / Single-Author Institutional Codification](concepts/SingleAuthorInstitutionalCodification.md) — Institutional-design tradeoff where one accountable compiler turns inherited precedent into usable rules when broad deliberation may stall.
@@ -13946,7 +13953,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [宋代党争 / Song Factional Politics](concepts/SongFactionalPolitics.md) — New-party/old-party conflict frame around reforms, retaliation, and political speech risk.
 - [王安石变法 / Wang Anshi Reforms](concepts/WangAnshiReforms.md) — Northern Song policy-reform field read through motive, implementation, suffering, and backlash.
 - [Poetry As Political Evidence / 诗文作为政治证据](concepts/PoetryAsPoliticalEvidence.md) — Mechanism by which Su Shi's poems and memorials could be turned into accusations.
-- [Local Governance As Care / 地方治理作为照护](concepts/LocalGovernanceAsCare.md) — Frame for water works, flood defense, medicine, infant rescue, burial, bridges, and schools as concrete public duty.
+- [Local Governance As Care / 地方治理作为照护](concepts/LocalGovernanceAsCare.md) — Frame for local authority as practical care through infrastructure, public health, schooling, services, household burden reduction, and non-harassing administration.
 - [Heptapod B / 七文B](concepts/HeptapodB.md) — Fictional nonlinear writing system whose completed graphic form links language, cognition, and time perception.
 - [Linguistic Relativity](concepts/LinguisticRelativity.md) — Idea that language habits can shape cognition, pushed by Chiang's story into a speculative transformation of time experience.
 - [Nonlinear Time Perception](concepts/NonlinearTimePerception.md) — Whole-path perception of past, present, and future rather than ordinary causal sequence.

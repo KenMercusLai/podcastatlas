@@ -414,12 +414,13 @@
       "0944897fad2beac2f301b796bb694027832267e2eb18cd26f5a96047fddc2fde",
       "0da08e278be0f9698cd22a27d657f9c77e0ffadee5aa5a02f7e114b61da05682",
       "783b85daf8e28c79ebd7838b98cbae32cc3b283841103fa74a279782510e1ecf",
-      "2f2ccba72e3ff27853c9c5e7edd9f718fa9dd0a3c9c92731bc7ee6f0b1047bd7"
+      "2f2ccba72e3ff27853c9c5e7edd9f718fa9dd0a3c9c92731bc7ee6f0b1047bd7",
+      "12c2b57062376e50f472c6806ecb08714733b065e8db5d2b809f05f83d802f96"
     ],
-    "paragraph_count": 414
+    "paragraph_count": 415
   },
-  "overview_commit": "121e6e9753b992323663ba50032fd9b64574615b",
-  "overview_digest": "c87965491166b995af17ba4caeffd65da7b754292875f2a194950620e002aa2b",
+  "overview_commit": "67b6152a299e1379bcb81c74c2a8f5f23e6839e2",
+  "overview_digest": "67eabe160484a6d08d345441dd13189866ca081cdfcf125aa4e2a2d4110d6fa1",
   "paragraphs": [
     {
       "id": "e8990fad7331e9441df0502a49236758d8a7a8fe617e0db2a72761eada274c0d",
@@ -12776,6 +12777,39 @@
         "ThomasHutchinson",
         "TreatyOfParis1783",
         "WilliamFranklin"
+      ]
+    },
+    {
+      "id": "12c2b57062376e50f472c6806ecb08714733b065e8db5d2b809f05f83d802f96",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-755-zhege-chaodai-huangshang-jiu-kaishi-guli-shengwa-le-lj7bdkxkdtjhpo469yxhskjyfdco|《资治通鉴·汉纪》755丨这个朝代皇上就开始鼓励生娃了！]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 85 CE [[EmperorZhangOfHan|汉章帝]] layer before [[zizhi-tongjian-hanji-756-weishenme-quan-ni-de-rao-ren-chu-qie-rao-ren-ltn4tqzy1d-sodhjidncv8dyqxpj|Hanji 756]]. It adds [[FertilityBurdenReliefPolicy|生育负担减免政策]], [[ZhengJunEasternHan|郑均]], [[KongXiEasternHan|孔僖]], [[LiuCangDongpingKing|东平王刘苍]], [[MengYunEasternHan|孟云]], and [[HuanYuEasternHan|桓虞]], while extending [[EmperorZhangOfHan|汉章帝]], [[LocalGovernanceAsCare|地方治理作为照护]], [[StrategicForbearanceGovernance|退让留余地式治理]], [[NorthernXiongnuLateHan|北匈奴]], [[SouthernXiongnu|南匈奴]], [[ZhengHongEasternHan|郑洪]], [[FifthLunEasternHan|第五伦]], [[YuanAnEasternHan|袁安]], and [[ZhangPuEasternHan|张酺]]. Its core synthesis is that Zhangdi's governance is household-aware and credibility-aware: fertility relief treats population as future fiscal and military capacity, local official standards favor non-harassment over harsh display, ritual travel converts classical memory into public order, and the Xiongnu dispute shows that allied battlefield gains may still need restitution to preserve Han trustworthiness. No settled contradiction is recorded; 孔僖 is kept distinct from [[KongXi|孔熙]], and Liu Fang, Ding Mu, Zhou Xu, Sifen-calendar technicians, exact date conversions, and minor place names remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 2
+      },
+      "wikilinks": [
+        "EmperorZhangOfHan",
+        "FertilityBurdenReliefPolicy",
+        "FifthLunEasternHan",
+        "HuanYuEasternHan",
+        "KongXi",
+        "KongXiEasternHan",
+        "LiuCangDongpingKing",
+        "LocalGovernanceAsCare",
+        "MengYunEasternHan",
+        "NorthernXiongnuLateHan",
+        "RuiqiJiangtouZizhiTongjian",
+        "SouthernXiongnu",
+        "StrategicForbearanceGovernance",
+        "YuanAnEasternHan",
+        "ZhangPuEasternHan",
+        "ZhengHongEasternHan",
+        "ZhengJunEasternHan",
+        "zizhi-tongjian-hanji-755-zhege-chaodai-huangshang-jiu-kaishi-guli-shengwa-le-lj7bdkxkdtjhpo469yxhskjyfdco",
+        "zizhi-tongjian-hanji-756-weishenme-quan-ni-de-rao-ren-chu-qie-rao-ren-ltn4tqzy1d-sodhjidncv8dyqxpj"
       ]
     }
   ],

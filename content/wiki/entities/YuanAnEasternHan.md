@@ -9,81 +9,77 @@ sources:
   - zizhi-tongjian-hanji-764-ta-weile-huoming-jing-jianjie-mie-le-luoma-diguo-lpk0c6muneabhk1oonzyjvawwf4
   - zizhi-tongjian-hanji-762-lishi-gaosu-ni-nanren-youquan-neng-you-duo-huangtang-limdo2hfd8epcfkwwsrmzz9no0dj
   - zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi
+  - zizhi-tongjian-hanji-755-zhege-chaodai-huangshang-jiu-kaishi-guli-shengwa-le-lj7bdkxkdtjhpo469yxhskjyfdco
 last_updated: 2026-08-30
 ---
 
-# 袁安 / Yuan An (Eastern Han)
-
 ## Overview
 
-袁安 / Yuan An appears as a senior Eastern Han minister who keeps opposition to [[DouXianEasternHan|Dou Xian]] institutionally visible before [[EmperorHeOfHan|Emperor He]] can safely act. [[zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi|Hanji 760]] now backfills his earliest current anti-expedition role: after [[SongYouEasternHan|Song You]] retreats from signing, Yuan and [[RenKuiEasternHan|Ren Kui]] repeatedly object to attacking [[NorthernXiongnuLateHan|Northern Xiongnu]] without a fresh frontier offense. [[zizhi-tongjian-hanji-762-lishi-gaosu-ni-nanren-youquan-neng-you-duo-huangtang-limdo2hfd8epcfkwwsrmzz9no0dj|Hanji 762]] then adds the domestic layer: Yuan impeaches [[DouJingEasternHan|Dou Jing]] over unauthorized frontier cavalry recall and uses sealed historical precedent to warn against indulging dangerous relatives. [[zizhi-tongjian-hanji-764-ta-weile-huoming-jing-jianjie-mie-le-luoma-diguo-lpk0c6muneabhk1oonzyjvawwf4|Hanji 764]] continues the pattern when Yuan and Ren impeach dozens of Dou-linked officials, and their reputation makes direct retaliation politically costly. In [[zizhi-tongjian-hanji-766-lishi-jiaogei-ni-weishenme-yao-guyi-fa-piqi-lrs-mguyfmnxe970hdwjvmevl8oc|Hanji 766]], Yuan's stance against Dou's Northern Xiongnu arrangement gives [[ZhouRongEasternHan|Zhou Rong]] the drafting platform that turns private risk into public political evidence.
-
-[[zizhi-tongjian-hanji-765-donghan-fengyun-nengchen-nengbuneng-gandiao-bahu-waiqi-ltnvdqnyofuelaklssbquguwivan|Hanji 765]] now supplies the policy substance behind that stance: Yuan argues that recognizing [[YuChuNorthernXiongnu|Yu Chu / 于除]] as a Northern Xiongnu chanyu would betray the older [[SouthernXiongnu|Southern Xiongnu]] commitment, damage Han credibility with frontier groups, anger [[Wuhuan|Wuhuan]] and [[Xianbei|Xianbei]], and add heavy state cost.
+袁安 / Yuan An now begins in the wiki as a Zhangdi-era frontier credibility minister before his later anti-[[DouXianEasternHan|Dou Xian]] profile. Hanji 755 places him as taipu on the pro-restitution side of the [[NorthernXiongnuLateHan|Northern Xiongnu]] captive-and-livestock dispute. Hanji 760-766 then show him as the senior Eastern Han minister who keeps opposition to Dou institutionally visible through anti-expedition objections, [[DouJingEasternHan|Dou Jing]] impeachment, historical-allusive warning, mass impeachment of Dou-linked officials, and resistance to the [[YuChuNorthernXiongnu|Yu Chu]] recognition plan.
 
 ## Current Profile
 
-Hanji 760 supplies the earliest current remonstrance layer. Three Excellencies and Nine Ministers object that the Northern Xiongnu has not invaded the frontier and that an unprovoked expedition is not a state-minded policy. Song You becomes afraid and does not sign, but Yuan An and Ren Kui keep arguing, repeatedly submitting objections even when other officials worry for them.
+The earliest current layer is not yet the anti-Dou struggle but a frontier-restraint debate. After [[SouthernXiongnu|Southern Xiongnu]] troops seize Northern Xiongnu captives and livestock, [[MengYunEasternHan|Meng Yun]] recommends restitution to prevent Northern Xiongnu from seeing Han as deceptive. Yuan An and [[HuanYuEasternHan|Huan Yu]] support returning the gains, while [[ZhengHongEasternHan|Zheng Hong]] and [[FifthLunEasternHan|Fifth Lun]] oppose it. This makes Yuan's first current position a credibility-preserving one before his later better-known objections to Dou Xian.
 
-Hanji 762 presents Yuan An as a legal and historical-precedent remonstrator before the later frontier-policy dispute. He argues that Dou Jing's unauthorized recall of border cavalry deserves capital treatment and that the Sili colonel and Henan Yin should be punished for concealing outer-relative wrongdoing.
+Hanji 760 supplies the first anti-Dou remonstrance layer. Three Excellencies and Nine Ministers object that the Northern Xiongnu has not invaded the frontier and that an unprovoked expedition is not a state-minded policy. [[SongYouEasternHan|Song You]] becomes afraid and does not sign, but Yuan An and [[RenKuiEasternHan|Ren Kui]] keep arguing, repeatedly submitting objections even when other officials worry for them.
 
-When open memorials do not work, Yuan sends a sealed memorial that reframes restraint of relatives as protection: he uses the examples of Wu Jiang and Shu Duan, then Duke Zhuang of Wei and Zhou Xu, to argue that unrestrained favor makes royal and noble relatives destructive. He also proposes consulting [[DouGuiEasternHan|Dou Gui]] as a restrained Dou-family counterexample.
+Hanji 762 presents Yuan An as a legal and historical-precedent remonstrator. He argues that Dou Jing's unauthorized recall of border cavalry deserves capital treatment and that the Sili colonel and Henan Yin should be punished for concealing outer-relative wrongdoing. When open memorials do not work, Yuan sends a sealed memorial that reframes restraint of relatives as protection: he uses older precedents to argue that unrestrained favor makes royal and noble relatives destructive. He also proposes consulting [[DouGuiEasternHan|Dou Gui]] as a restrained Dou-family counterexample.
 
-Hanji 764 then presents Yuan An as a reputationally protected counterweight inside a dangerous court. Together with Ren Kui, he impeaches more than forty officials tied to Dou Xian's recommendation and extraction network. Dou's brothers hate the two ministers, but the source says they fear Yuan and Ren's public standing. Yuan therefore functions as one of the few visible supports around a young ruler under outer-relative pressure.
+Hanji 764 then presents Yuan An as a reputationally protected counterweight inside a dangerous court. Together with Ren Kui, he impeaches more than forty officials tied to Dou Xian's recommendation and extraction network. Dou's brothers hate the two ministers, but the source says they fear Yuan and Ren's public standing.
 
-Yuan An's profile is defined by policy-grounded ministerial resistance under an outer-relative-dominated court. Hanji 765 shows that his opposition is not only anti-Dou factional posture: it combines precedent, frontier credit, intergroup resentment, and public finance into a coherent objection to Dou Xian's preferred settlement.
+Hanji 765 supplies the policy substance behind the later Northern Xiongnu settlement dispute. Yuan argues that recognizing Yu Chu as Northern Xiongnu chanyu would betray the older Southern Xiongnu commitment, damage Han credibility with frontier groups, anger [[Wuhuan|Wuhuan]] and [[Xianbei|Xianbei]], and add heavy state cost. His opposition is therefore not only anti-Dou factional posture; it combines precedent, frontier credit, intergroup resentment, and public finance.
 
-He does not personally overthrow the Dou bloc, but his persistence makes Dou Xian's policy and intimidation problem legible inside the bureaucracy before the palace coup phase. His death in the third month removes one open ministerial counterweight, after which [[DingHongEasternHan|Ding Hong]] takes up the warning function through omen-coded remonstrance. Yuan therefore belongs to the pre-coup visibility layer of the anti-Dou sequence rather than the operational layer.
+Hanji 766 keeps Yuan in the pre-coup visibility layer. He and Ren Kui continue opposing Dou's Northern Xiongnu arrangement after Song You retreats, and [[ZhouRongEasternHan|Zhou Rong]] drafts anti-Dou memorials through Yuan's office. Yuan does not personally overthrow the Dou bloc. His death removes one open ministerial counterweight, after which [[DingHongEasternHan|Ding Hong]] takes up the warning function through omen-coded remonstrance.
 
 ## Key Characteristics
 
-- Senior ministerial dissenter whose anti-Dou role begins with pre-campaign objections after other high officials retreat.
-- Early impeacher of Dou Jing's unlawful frontier-troop mobilization and household abuse.
-- Impeachment actor whose reputation makes retaliation by Dou Xian's bloc more costly.
-- Treats frontier title recognition as a commitment and cost problem, not only a submission opportunity.
-- Uses historical allusion to frame restraint of favored relatives as protection rather than simple attack.
-- Provides the institutional channel through which Zhou Rong drafts anti-Dou memorials.
-- Functions as an early counterweight before Emperor He's closed-palace operation.
+- Senior minister whose earliest current layer supports restitution to protect Han frontier credibility.
+- Anti-Dou dissenter whose campaign objections continue after other high officials retreat.
+- Impeacher of Dou Jing's unlawful frontier-troop mobilization and household abuse.
+- Historical-allusive memorialist who frames restraint of favored relatives as protection.
+- Reputation-protected bureaucratic counterweight against Dou-linked office networks.
+- Frontier-policy thinker who treats title recognition as a commitment, alliance, and cost problem.
+- Institutional visibility actor before Emperor He's closed-palace operation, not the operation's commander.
 
 ## Evidence
 
+- Restitution stance: [[zizhi-tongjian-hanji-755-zhege-chaodai-huangshang-jiu-kaishi-guli-shengwa-le-lj7bdkxkdtjhpo469yxhskjyfdco|Hanji 755]] says Yuan An and Huan Yu support returning captives and livestock to Northern Xiongnu after Meng Yun warns about Han credibility.
 - Pre-campaign dissent: [[zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi|Hanji 760]] says Yuan An and Ren Kui continue opposing Dou Xian's Northern Xiongnu expedition after Song You and other high officials retreat.
 - Repeated memorials: [[zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi|Hanji 760]] says Yuan and Ren remove their caps and submit objections around ten times.
-- Dou Jing impeachment: [[zizhi-tongjian-hanji-762-lishi-gaosu-ni-nanren-youquan-neng-you-duo-huangtang-limdo2hfd8epcfkwwsrmzz9no0dj|Hanji 762]] has Yuan An charge Dou Jing over unauthorized frontier cavalry recall and wider household abuse.
-- Official-concealment charge: [[zizhi-tongjian-hanji-762-lishi-gaosu-ni-nanren-youquan-neng-you-duo-huangtang-limdo2hfd8epcfkwwsrmzz9no0dj|Hanji 762]] has Yuan argue that the Sili colonel and Henan Yin deserve punishment for hiding outer-relative misconduct.
-- Allusive remonstrance: [[zizhi-tongjian-hanji-762-lishi-gaosu-ni-nanren-youquan-neng-you-duo-huangtang-limdo2hfd8epcfkwwsrmzz9no0dj|Hanji 762]] presents Yuan's sealed memorial through Spring and Autumn precedents about destructive indulgence of relatives.
-- Internal counterexample: [[zizhi-tongjian-hanji-762-lishi-gaosu-ni-nanren-youquan-neng-you-duo-huangtang-limdo2hfd8epcfkwwsrmzz9no0dj|Hanji 762]] says Yuan proposes consulting Dou Gui because he is scholarly, frugal, self-cultivating, and power-averse.
-- Impeachment resistance: [[zizhi-tongjian-hanji-764-ta-weile-huoming-jing-jianjie-mie-le-luoma-diguo-lpk0c6muneabhk1oonzyjvawwf4|Hanji 764]] says Yuan An and Ren Kui impeach more than forty Dou-linked officials for demotion or removal.
-- Reputation shield: [[zizhi-tongjian-hanji-764-ta-weile-huoming-jing-jianjie-mie-le-luoma-diguo-lpk0c6muneabhk1oonzyjvawwf4|Hanji 764]] says Dou's brothers hate Yuan and Ren but fear their public reputation.
+- Dou Jing impeachment and concealment charge: [[zizhi-tongjian-hanji-762-lishi-gaosu-ni-nanren-youquan-neng-you-duo-huangtang-limdo2hfd8epcfkwwsrmzz9no0dj|Hanji 762]] has Yuan An charge Dou Jing over unauthorized frontier cavalry recall and argue that officials who hid outer-relative misconduct deserve punishment.
+- Allusive remonstrance and internal counterexample: [[zizhi-tongjian-hanji-762-lishi-gaosu-ni-nanren-youquan-neng-you-duo-huangtang-limdo2hfd8epcfkwwsrmzz9no0dj|Hanji 762]] presents Yuan's sealed memorial through precedents about destructive indulgence of relatives and says he proposes consulting Dou Gui.
+- Impeachment resistance and reputation shield: [[zizhi-tongjian-hanji-764-ta-weile-huoming-jing-jianjie-mie-le-luoma-diguo-lpk0c6muneabhk1oonzyjvawwf4|Hanji 764]] says Yuan An and Ren Kui impeach more than forty Dou-linked officials, while Dou's brothers hate them but fear their public reputation.
 - Policy substance: [[zizhi-tongjian-hanji-765-donghan-fengyun-nengchen-nengbuneng-gandiao-bahu-waiqi-ltnvdqnyofuelaklssbquguwivan|Hanji 765]] has Yuan argue that the Southern Xiongnu line had served Han for more than forty years and should not be displaced by a new Northern Xiongnu claimant.
-- Credibility and cost: [[zizhi-tongjian-hanji-765-donghan-fengyun-nengchen-nengbuneng-gandiao-bahu-waiqi-ltnvdqnyofuelaklssbquguwivan|Hanji 765]] says Yuan warns that bad faith would damage frontier trust, that Wuhuan and Xianbei would resent recognition of Youliu's brother, and that a distant Northern Xiongnu arrangement would add heavy expenses.
-- Ministerial dissent: [[zizhi-tongjian-hanji-766-lishi-jiaogei-ni-weishenme-yao-guyi-fa-piqi-lrs-mguyfmnxe970hdwjvmevl8oc|Hanji 766]] presents Yuan An and [[RenKuiEasternHan|Ren Kui]] as continuing to oppose Dou Xian's Northern Xiongnu proposal after Song You retreats from the dispute.
-- Drafting channel: [[zizhi-tongjian-hanji-766-lishi-jiaogei-ni-weishenme-yao-guyi-fa-piqi-lrs-mguyfmnxe970hdwjvmevl8oc|Hanji 766]] says [[ZhouRongEasternHan|Zhou Rong]], as Yuan An's official, writes the memorials attacking Dou Xian's plan.
-- Transition marker: [[zizhi-tongjian-hanji-766-lishi-jiaogei-ni-weishenme-yao-guyi-fa-piqi-lrs-mguyfmnxe970hdwjvmevl8oc|Hanji 766]] records Yuan An's death before Ding Hong becomes situ and uses the solar eclipse to criticize outer-relative dominance.
+- Credibility, neighbor, and cost analysis: [[zizhi-tongjian-hanji-765-donghan-fengyun-nengchen-nengbuneng-gandiao-bahu-waiqi-ltnvdqnyofuelaklssbquguwivan|Hanji 765]] says Yuan warns that bad faith would damage frontier trust, that Wuhuan and Xianbei would resent recognition of Youliu's brother, and that a distant Northern Xiongnu arrangement would add heavy expenses.
+- Drafting channel and transition: [[zizhi-tongjian-hanji-766-lishi-jiaogei-ni-weishenme-yao-guyi-fa-piqi-lrs-mguyfmnxe970hdwjvmevl8oc|Hanji 766]] says Zhou Rong drafts Yuan An's anti-Dou memorials and records Yuan's death before Ding Hong's solar-eclipse warning.
 
 ## Qualifications
 
-Yuan An is not depicted here as part of Emperor He's secret operational planning with Zheng Zhong and Liu Qing. His importance lies in open remonstrance, repeated pre-campaign objection, impeachment, sealed historical warning, policy argument, and bureaucratic resistance, not palace command. Hanji 762 also notes that Dou Xian learns of Yuan's sealed memorial before the emperor sees it, so the page treats the episode as evidence of both Yuan's warning and the vulnerability of confidential remonstrance under an outer-relative power center. Hanji 765 records the host's judgment that later events vindicated Yuan's warning after Yu Chu rebelled, but the page keeps that as source-framed retrospective confirmation rather than independent proof that every similar recognition plan must fail.
+Yuan An is not depicted here as part of Emperor He's secret operational planning with Zheng Zhong and Liu Qing. His importance lies in open remonstrance, repeated pre-campaign objection, impeachment, sealed historical warning, policy argument, and bureaucratic resistance. Hanji 755 makes his earliest current stance pro-restitution, while Hanji 765 later has him oppose a different Northern Xiongnu arrangement. Those positions are compatible because the first protects a reconciliation commitment by returning seized goods, whereas the second rejects creating a new claimant arrangement that could damage older commitments and finances. Hanji 762 also notes that Dou Xian learns of Yuan's sealed memorial before the emperor sees it, so the page treats the episode as evidence of both Yuan's warning and the vulnerability of confidential remonstrance under outer-relative power.
 
 ## What Changed
 
-- Added Hanji 760 as the earliest current anti-expedition layer before Yuan's later Dou Jing impeachment.
-- Reframed Yuan's resistance as beginning with sustained objection after Song You and other officials retreat from risk.
-- Preserved Hanji 762 as the legal-historical warning layer and Hanji 765 as the later Yu Chu credibility-policy layer.
-- Preserved Hanji 766's Zhou Rong and Ding Hong transition layer.
+- Added Hanji 755 as Yuan An's earliest current layer: a pro-restitution, frontier-credibility stance before the anti-Dou sequence.
+- Reframed Yuan's later Yu Chu objection as continuous with credibility reasoning but different in policy object.
+- Preserved Hanji 760-766 as the main anti-Dou remonstrance, impeachment, and pre-coup visibility sequence.
 
 ## Relationships
 
+- [[EmperorZhangOfHan|汉章帝]] - ruler before whom Yuan supports restitution in the first current Xiongnu debate.
+- [[HuanYuEasternHan|桓虞]] - pro-restitution minister paired with Yuan in Hanji 755.
+- [[MengYunEasternHan|孟云]] - frontier official whose warning supports Yuan's restitution side.
+- [[ZhengHongEasternHan|郑洪]] - no-restitution counterpart in the same early debate.
+- [[FifthLunEasternHan|第五伦]] - no-restitution counterpart in the same early debate.
 - [[DouXianEasternHan|Dou Xian]] - opposes Dou's Northern Xiongnu arrangement and helps expose Dou overreach.
 - [[DouJingEasternHan|Dou Jing]] - immediate target of Yuan's early impeachment over household abuse and unauthorized troop recall.
 - [[DouGuiEasternHan|Dou Gui]] - restrained Dou-family member whom Yuan recommends consulting.
 - [[RenKuiEasternHan|Ren Kui]] - shares the ministerial resistance role against Dou Xian.
 - [[SongYouEasternHan|Song You]] - contrast figure who retreats from the anti-expedition memorial that Yuan continues.
-- [[LeHuiEasternHan|Le Hui]] - fellow anti-Dou figure whose remonstrance shows the retaliation risk Yuan's reputation partly contains.
-- [[HanLengEasternHan|Han Leng]] - ritual-boundary counterpart in the same early anti-Dou field.
 - [[ZhouRongEasternHan|Zhou Rong]] - uses Yuan An's office as the drafting channel for anti-Dou memorials.
 - [[DingHongEasternHan|Ding Hong]] - succeeds Yuan's open resistance layer with omen-coded warning after Yuan's death.
-- [[EmperorHeOfHan|Emperor He]] - benefits from the visibility that Yuan's opposition creates before the palace operation.
-- [[FrontierRecognitionCredibilityTradeoff|Frontier Recognition Credibility Tradeoff]] - captures Yuan's argument that title recognition can damage prior commitments, alliances, and finances.
+- [[SouthernXiongnu|南匈奴]] - frontier partner whose captured gains Yuan would return in Hanji 755 and whose older service he later cites against Yu Chu recognition.
+- [[NorthernXiongnuLateHan|北匈奴]] - frontier field in both the 85 CE restitution dispute and the later Yu Chu recognition dispute.
+- [[StrategicForbearanceGovernance|退让留余地式治理]] - captures the earlier restitution logic Yuan supports.
+- [[FrontierRecognitionCredibilityTradeoff|Frontier Recognition Credibility Tradeoff]] - captures Yuan's later argument that title recognition can damage prior commitments, alliances, and finances.
 - [[ReputationConstrainedWarRestraint|Reputation-Constrained War Restraint]] - earlier argument field because Yuan opposes attacking a no-fresh-offense enemy.
-- [[OuterRelativeCourtPower|Outer-Relative Court Power]] - provides the structural problem Yuan resists.
-- [[StrategicAngerDeterrence|Strategic Anger Deterrence]] - Zhou Rong's deterrent anger grows out of threats triggered by Yuan's anti-Dou memorials.
+- [[OuterRelativeCourtPower|Outer-Relative Court Power]] - structural problem Yuan resists.

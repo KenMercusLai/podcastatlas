@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 8472
+wiki_total_pages: 8477
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -1238,6 +1238,9 @@ wiki_pages:
   - key: "Miaoya"
     title: "妙鸭"
     url: "/wiki/entities/miaoya/"
+  - key: "MengYunEasternHan"
+    title: "孟云 / Meng Yun (Eastern Han)"
+    url: "/wiki/entities/mengyuneasternhan/"
   - key: "MengYi"
     title: "孟依"
     url: "/wiki/entities/mengyi/"

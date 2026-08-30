@@ -13993,3 +13993,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-30] ingest | 《资治通鉴·汉纪》755丨这个朝代皇上就开始鼓励生娃了！
+
+Ingested the 2026-06-29 芮淇讲透资治通鉴 episode on Emperor Zhang's fertility burden relief, low-disturbance local governance, Sifen calendar and ritual travel, Zhang Pu teacher honor, Zheng Jun, Kong Xi, Liu Cang, and the Southern/Northern Xiongnu restitution debate. Created the source note plus `FertilityBurdenReliefPolicy`, `ZhengJunEasternHan`, `KongXiEasternHan`, `LiuCangDongpingKing`, `MengYunEasternHan`, and `HuanYuEasternHan`; updated `EmperorZhangOfHan`, `NorthernXiongnuLateHan`, `SouthernXiongnu`, `ZhengHongEasternHan`, `FifthLunEasternHan`, `YuanAnEasternHan`, `ZhangPuEasternHan`, `StrategicForbearanceGovernance`, `LocalGovernanceAsCare`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; 孔僖 is disambiguated from existing 孔熙, and minor officials/calendar details remain source-scoped.
+
+## [2026-08-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 8472
+wiki_total_pages: 8477
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -1274,6 +1274,9 @@ wiki_pages:
   - key: "ZhengGuoCanal"
     title: "郑国渠 / Zhengguo Canal"
     url: "/wiki/entities/zhengguocanal/"
+  - key: "ZhengJunEasternHan"
+    title: "郑均 / Zheng Jun (Eastern Han)"
+    url: "/wiki/entities/zhengjuneasternhan/"
   - key: "ZhengAnping"
     title: "郑安平 / Zheng Anping"
     url: "/wiki/entities/zhenganping/"
