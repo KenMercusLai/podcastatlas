@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2312
+topic_total_pages: 2313
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2362,6 +2362,9 @@ topic_concepts:
   - key: "ClothCladAngerPersuasion"
     title: "布衣之怒 / Cloth-Clad Anger Persuasion"
     url: "/wiki/concepts/clothcladangerpersuasion/"
+  - key: "ImperialTeacherHonorRitual"
+    title: "帝王尊师礼制 / Imperial Teacher-Honor Ritual"
+    url: "/wiki/concepts/imperialteacherhonorritual/"
   - key: "GuaitanLiterature"
     title: "怪谈文学 / Guaitan Literature"
     url: "/wiki/concepts/guaitanliterature/"

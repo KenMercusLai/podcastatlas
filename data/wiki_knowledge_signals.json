@@ -11586,9 +11586,9 @@
       "url": "/wiki/entities/emperorhuanofhan/"
     },
     "EmperorMingOfHan": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》899丨好清斗贪官 [ljHIC1PlzmV8k6LU73J5tErihanx].md",
@@ -11659,6 +11659,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》735丨13岁入宫终生未育，她的贤明真罕见！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》734丨桓荣成大儒，因为明帝是个好捧哏？ [lhWbxrqocF102Or9k0nb6Z93gzx9].md",
+          "key": "zizhi-tongjian-hanji-734-huanrong-cheng-daru-yinwei-mingdi-shige-hao-penggen-lhwbxrqocf102or9k0nb6z93gzx9",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》734丨桓荣成大儒，因为明帝是个好捧哏？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-734-huanrong-cheng-daru-yinwei-mingdi-shige-hao-penggen-lhwbxrqocf102or9k0nb6z93gzx9/"
         }
       ],
       "updated": "2026-08-31",
@@ -18114,6 +18121,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/huaxin/"
     },
+    "HuanRongEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》734丨桓荣成大儒，因为明帝是个好捧哏？ [lhWbxrqocF102Or9k0nb6Z93gzx9].md",
+          "key": "zizhi-tongjian-hanji-734-huanrong-cheng-daru-yinwei-mingdi-shige-hao-penggen-lhwbxrqocf102or9k0nb6z93gzx9",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》734丨桓荣成大儒，因为明帝是个好捧哏？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-734-huanrong-cheng-daru-yinwei-mingdi-shige-hao-penggen-lhwbxrqocf102or9k0nb6z93gzx9/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/huanrongeasternhan/"
+    },
     "HuanYanLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -19167,6 +19190,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/imperialselfcriticismedict/"
+    },
+    "ImperialTeacherHonorRitual": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》734丨桓荣成大儒，因为明帝是个好捧哏？ [lhWbxrqocF102Or9k0nb6Z93gzx9].md",
+          "key": "zizhi-tongjian-hanji-734-huanrong-cheng-daru-yinwei-mingdi-shige-hao-penggen-lhwbxrqocf102or9k0nb6z93gzx9",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》734丨桓荣成大儒，因为明帝是个好捧哏？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-734-huanrong-cheng-daru-yinwei-mingdi-shige-hao-penggen-lhwbxrqocf102or9k0nb6z93gzx9/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/imperialteacherhonorritual/"
     },
     "ImpermanenceAndNoSelf": {
       "episode_count": 3,

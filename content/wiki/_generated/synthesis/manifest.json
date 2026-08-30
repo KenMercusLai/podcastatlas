@@ -1,8 +1,8 @@
 {
   "content_date": "2026-08-31",
   "corpus": {
-    "episode_count": 1774,
-    "source_count": 1774
+    "episode_count": 1775,
+    "source_count": 1775
   },
   "generated": true,
   "global": {
@@ -16,13 +16,13 @@
     "output_digest": "7fc67a086a3543d77e208a7866fb3ac4b9e0e278fcf7283f6de422b009898d5b",
     "overview_commit": "5fa90547354c2135e550f7a4cb25e9c752a76a46",
     "overview_digest": "d49bcb5c3002bcca2acefd18d632a4c6c9965bf61c697936a4a0f4c28aa6252d",
-    "pending_ingests": 1,
+    "pending_ingests": 2,
     "pending_topics": [
       "governance-and-institutions"
     ]
   },
-  "overview_commit": "a42cbe1cd5c9e6c190ee6a3a37ad887f78ca6afb",
-  "overview_digest": "a6b445bae441d13896afdd56572d534814a6b33f50ea04e838a9962fb332df5c",
+  "overview_commit": "78923fa90b122fb1701ab5a903e886f3735117e7",
+  "overview_digest": "1c4bba21436fcd7938a4d0e1e12b86cfe500d91a76d769c975e699bbb5de673c",
   "paragraph_count": 434,
   "schema_version": 1,
   "topics": {
