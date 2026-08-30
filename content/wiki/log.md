@@ -13594,6 +13594,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-30] ingest | 《资治通鉴·汉纪》768丨历史告诉你：嫉妒是杀心！
+
+Ingested the 2026-07-02 芮淇讲透资治通鉴 episode backfilling the 93-94 CE Emperor He layer: Cao Bao's Han-rites project being abandoned under Zhang Pu and Zhang Min pressure, Liang King Liu Chang's emperor-making speech case, Guan You's Qiang coalition-splitting campaign against Mi Tang, and An Guo's jealousy-driven failed plot against Shizi in the Southern Xiongnu. Created the source note plus `CaoBaoEasternHan`, `LiuChangLiangKing`, `GuanYouLateHan`, `AnGuoSouthernXiongnu`, `ShiziChanyu`, `HuangfuLengLateHan`, `ZhuHuiHeEraLateHan`, `DuChongProtectorOfXiongnu`, `WeakAuthorityLeadership`, `RoyalUsurpationSpeechTaboo`, and `JealousyAsPoliticalViolence`; updated `ZhangPuEasternHan`, `MiTangQiangLeader`, `CoalitionFractureExploitation`, `EmperorHeOfHan`, `SouthernXiongnu`, `index`, and `overview`. No settled contradiction found; 曹褒 is kept separate from 曹豹, Liang King 刘畅 from modern 刘畅 and Huainan 刘长, and Southern Xiongnu 安国 from Khotan An Guo.
+
 ## [2026-08-30] ingest | 《资治通鉴·汉纪》769丨公务员该怎么考？古人告诉你
 
 Ingested the 2026-07-02 芮淇讲透资治通鉴 episode on 94-96 CE Emperor He, Ban Chao's Yanqi campaign, Southern Xiongnu rebellion and An Guo false-report crisis, Chen Chong's tingwei appointment, Huang Xiang's refusal of the Dong Commandery transfer, and the broader claim that proximity to court information and decision makers can outweigh nominal office rank. Created the source note plus `HuangXiangLateHan`, `ChenChongLateHan`, `DengHongHeEraLateHan`, and `PowerCenterProximityAdvantage`; updated `EmperorHeOfHan`, `BanChaoEasternHan`, `YanqiKingdomLateHan`, `SouthernXiongnu`, `ShangshuTaiImperialAccess`, `UnauthorizedFrontierCommandIntervention`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; the He-era Deng Hong commander is kept distinct from the existing `DengHongLateHan` page, and minor frontier actors, royal-house notices, exact casualty figures, and modern analogy details remain source-scoped.
@@ -13853,6 +13857,18 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-30] lint | Wiki health check
+
+Ran health, identity validation, and lint. Health scanned 16,139 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-28 with 15,429 nodes and 180,855 edges; current graph checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest` without a provider-qualified model/key in this shell. Report returned in-session; `wiki/lint-report.md` was not updated.
+
+## [2026-08-30] ingest | 《资治通鉴·汉纪》767丨聪明人，都擅长“演戏”
+
+Ingested the 2026-07-02 芮淇讲透资治通鉴 episode on outer-round inner-square conduct, Li He's delayed gift mission around Dou Xian's fall, Liu Qing's cautious post-Dou favor, Zheng Zhong's trusted eunuch-power opening, Deng Xun's posthumous frontier legitimacy, Nie Shang's failed conciliation of Mi Tang, Yu Chu's destruction, and Xianbei expansion after Northern Xiongnu collapse. Created the source note plus `DouXianEasternHan`, `BanGuEasternHan`, `LiHeEasternHan`, `ZhengZhongEasternHan`, `DengXunEasternHan`, `NieShangLateHan`, `NorthernXiongnuLateHan`, `YuChuNorthernXiongnu`, `OuterRoundInnerSquareConduct`, `WishfulFrontierConciliation`, and `TrustedEunuchPowerFormation`; updated `EmperorHeOfHan`, `BanZhaoLateHan`, `LiuQingQingheKing`, `MiTangQiangLeader`, `RenShangLateHan`, `TacticalDelayRiskTransfer`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; Yuan An's son 袁尚 is not merged with the later `YuanShang` page, and Bi Que, Tian Si, Xu Heng, Wang Fu, Ren Tun, Liu Wansui, Liu Kang, Liu Fang, Deng Biao, Song You, Ren Kui, Yin Mu, southern Man notices, and exact annal dates remain source-scoped.
 
 ## [2026-08-30] lint | Wiki health check
 

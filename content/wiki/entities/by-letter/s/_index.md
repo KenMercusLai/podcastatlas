@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 8407
+wiki_total_pages: 8423
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1763,6 +1763,9 @@ wiki_pages:
   - key: "ShiBei"
     title: "市被 / Shi Bei"
     url: "/wiki/entities/shibei/"
+  - key: "ShiziChanyu"
+    title: "师子 / Shizi Chanyu"
+    url: "/wiki/entities/shizichanyu/"
   - key: "ShiYiguanLateHan"
     title: "师宜官 / Shi Yiguan"
     url: "/wiki/entities/shiyiguanlatehan/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 5990
+wiki_total_pages: 5996
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -515,6 +515,9 @@ wiki_pages:
   - key: "OralHistoryMemoryAnalysis"
     title: "口述记忆分析 / Oral History Memory Analysis"
     url: "/wiki/concepts/oralhistorymemoryanalysis/"
+  - key: "OuterRoundInnerSquareConduct"
+    title: "外圆内方式处世 / Outer-Round Inner-Square Conduct"
+    url: "/wiki/concepts/outerroundinnersquareconduct/"
   - key: "OuterRelativeCourtPower"
     title: "外戚专权与清算 / Outer-Relative Court Power"
     url: "/wiki/concepts/outerrelativecourtpower/"

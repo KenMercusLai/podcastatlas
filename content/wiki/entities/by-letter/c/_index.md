@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 8407
+wiki_total_pages: 8423
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -1433,6 +1433,9 @@ wiki_pages:
   - key: "CaoJieLateHan"
     title: "曹节 / Cao Jie (late Han eunuch)"
     url: "/wiki/entities/caojielatehan/"
+  - key: "CaoBaoEasternHan"
+    title: "曹褒 / Cao Bao (Eastern Han ritualist)"
+    url: "/wiki/entities/caobaoeasternhan/"
   - key: "CaoQianLateHan"
     title: "曹谦 / Cao Qian (late Han)"
     url: "/wiki/entities/caoqianlatehan/"

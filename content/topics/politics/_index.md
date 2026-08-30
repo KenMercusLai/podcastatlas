@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2038
+topic_total_pages: 2042
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -1474,6 +1474,9 @@ topic_concepts:
   - key: "JapaneseEquityRepricing"
     title: "Japanese Equity Repricing / 日本股市再定价"
     url: "/wiki/concepts/japaneseequityrepricing/"
+  - key: "JealousyAsPoliticalViolence"
+    title: "Jealousy as Political Violence / 嫉妒转化为政治杀机"
+    url: "/wiki/concepts/jealousyaspoliticalviolence/"
   - key: "JiangXiangHeInternalUnity"
     title: "Jiang-Xiang Harmony / 将相和式内部团结"
     url: "/wiki/concepts/jiangxiangheinternalunity/"
@@ -2485,6 +2488,9 @@ topic_concepts:
   - key: "RoyalExecutionLegitimacy"
     title: "Royal Execution Legitimacy"
     url: "/wiki/concepts/royalexecutionlegitimacy/"
+  - key: "RoyalUsurpationSpeechTaboo"
+    title: "Royal Usurpation Speech Taboo / 宗室帝位言说禁忌"
+    url: "/wiki/concepts/royalusurpationspeechtaboo/"
   - key: "RuleOverKinshipPower"
     title: "Rule Over Kinship Power / 法度压过亲缘特权"
     url: "/wiki/concepts/ruleoverkinshippower/"
@@ -3055,6 +3061,9 @@ topic_concepts:
   - key: "WaterSourceAuthenticityRisk"
     title: "Water Source Authenticity Risk"
     url: "/wiki/concepts/watersourceauthenticityrisk/"
+  - key: "WeakAuthorityLeadership"
+    title: "Weak Authority Leadership / 弱势领导威信"
+    url: "/wiki/concepts/weakauthorityleadership/"
   - key: "WeakOverWeakPredation"
     title: "Weak-Over-Weak Predation / 弱者向更弱者转嫁压迫"
     url: "/wiki/concepts/weakoverweakpredation/"
@@ -3115,6 +3124,9 @@ topic_concepts:
   - key: "ZhouRoyalSymbolicDeterrence"
     title: "Zhou Royal Symbolic Deterrence / 周王室象征威慑"
     url: "/wiki/concepts/zhouroyalsymbolicdeterrence/"
+  - key: "WishfulFrontierConciliation"
+    title: "一厢情愿式边疆怀柔 / Wishful Frontier Conciliation"
+    url: "/wiki/concepts/wishfulfrontierconciliation/"
   - key: "SanhuLawAppointmentConstraint"
     title: "三互法任官限制 / Sanhu Law Appointment Constraint"
     url: "/wiki/concepts/sanhulawappointmentconstraint/"

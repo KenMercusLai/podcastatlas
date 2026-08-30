@@ -7,14 +7,17 @@ sources:
   - zizhi-tongjian-hanji-785-donghan-dengsui-zhangkong-yuwang-caineng-xiaodao-zuihou-llfg4kjaautqlfewhplikvu3ry1u
   - zizhi-tongjian-hanji-775-gan-xiang-mingyun-shuo-no-bukuishi-you-tounao-de-nvzhumu-lh0erdh890ooow6dn0wvf1fbzedf
   - zizhi-tongjian-hanji-774-banchao-jiebanren-ruhe-gaoluan-xiyu-lnbnoc-uys8kee7pz9yecxecrpyd
+  - zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq
 last_updated: 2026-08-30
 ---
 
 ## Overview
 
-班昭 / Ban Zhao is presented in the current sources as an Eastern Han court intellectual, teacher, and adviser whose role links [[BanChaoEasternHan|Ban Chao]]'s final-return petition, [[FemaleCourtEducationEasternHan|female court education]] under [[EmperorHeOfHan|Emperor He]], and later counsel on how [[EmpressDowagerDengLateHan|Empress Dowager Deng]] manages the Deng family's public legitimacy.
+班昭 / Ban Zhao is presented in the current sources as an Eastern Han court intellectual, historiographical continuator, teacher, and adviser. Her role now links [[BanGuEasternHan|Ban Gu]]'s unfinished `Han Shu`, [[BanChaoEasternHan|Ban Chao]]'s final-return petition, [[FemaleCourtEducationEasternHan|female court education]] under [[EmperorHeOfHan|Emperor He]], and later counsel on how [[EmpressDowagerDengLateHan|Empress Dowager Deng]] manages the Deng family's public legitimacy.
 
 ## Current Profile
+
+Hanji 767 adds the earliest current Ban Zhao layer. After Ban Gu dies in prison during the [[DouXianEasternHan|Dou Xian]] cleanup, Emperor He orders Ban Zhao, identified as Ban Gu's younger sister and Cao Shishu's wife, to continue completing `Han Shu`. This makes Ban Zhao's current profile begin with historiographical succession before her later petitioning, teaching, and Deng-regency advisory roles.
 
 Hanji 774 adds Ban Zhao's direct petitioning role before the later Deng-regency material. Because Emperor He's court has invited her to teach palace women, she has a channel for memorializing on behalf of her elder brother Ban Chao. Her argument is both familial and public: Ban Chao is over seventy, frontier peoples may exploit his age, and a sudden Western Regions failure would damage the state's accumulated achievement as well as a loyal minister's life work. Emperor He accepts the petition and recalls Ban Chao.
 
@@ -27,6 +30,7 @@ Ban Zhao advises acceptance of the mourning withdrawal as a public signal that t
 ## Key Characteristics
 
 - Court teacher and adviser who can speak into both women-centered education and high-stakes political decisions.
+- Historiographical continuator ordered to carry forward Ban Gu's unfinished `Han Shu` after his prison death.
 - Petitioning advocate whose Ban Chao memorial turns family concern into a frontier-stability argument.
 - Named mediator between scholarship and inner-court women's learning in the Hanji 775 account.
 - Reputation strategist who frames Deng-family resignation as evidence against monopolizing power.
@@ -35,6 +39,7 @@ Ban Zhao advises acceptance of the mourning withdrawal as a public signal that t
 
 ## Evidence
 
+- Historiographical continuation: [[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq|Hanji 767]] says Emperor He orders Ban Zhao to continue `Han Shu` after Ban Gu dies in prison.
 - Ban Chao petition: [[zizhi-tongjian-hanji-774-banchao-jiebanren-ruhe-gaoluan-xiyu-lnbnoc-uys8kee7pz9yecxecrpyd|Hanji 774]] says Ban Zhao petitions Emperor He to recall her aged brother because Western Regions disorder would endanger both state achievement and Ban Chao's remaining life.
 - Court teaching: [[zizhi-tongjian-hanji-775-gan-xiang-mingyun-shuo-no-bukuishi-you-tounao-de-nvzhumu-lh0erdh890ooow6dn0wvf1fbzedf|Hanji 775]] says Emperor He's court invited Ban Zhao to teach palace women at North Palace women's study.
 - Family-power legitimacy: [[zizhi-tongjian-hanji-785-donghan-dengsui-zhangkong-yuwang-caineng-xiaodao-zuihou-llfg4kjaautqlfewhplikvu3ry1u|Hanji 785]] reports Ban Zhao advising Deng to let the Deng brothers depart for mourning so the court can display praise for non-exclusive power.
@@ -43,18 +48,20 @@ Ban Zhao advises acceptance of the mourning withdrawal as a public signal that t
 
 ## Qualifications
 
-The current profile remains source-bounded to three court episodes. It does not yet cover Ban Zhao's broader authorship, family background beyond Ban Chao, role in Han historiography, or any independent political program outside the Ban Chao petition, women's-school, and Deng-family mourning episodes. Hanji 775's "world first women's school" claim is preserved as source-scoped rather than treated as settled comparative education history.
+The current profile remains source-bounded to four court episodes. It now includes Ban Zhao's `Han Shu` continuation role after Ban Gu's death, but it still does not reconstruct her broader authorship, family background beyond Ban Gu and Ban Chao, or any independent political program outside the historiography, Ban Chao petition, women's-school, and Deng-family mourning episodes. Hanji 775's "world first women's school" claim is preserved as source-scoped rather than treated as settled comparative education history.
 
 ## What Changed
 
-- Added Hanji 774 as Ban Zhao's direct petitioning layer on behalf of Ban Chao.
-- Connected the petition to her court-teacher access under Emperor He.
+- Added Hanji 767 as Ban Zhao's earliest current layer: continuation of Ban Gu's unfinished `Han Shu` after his prison death.
+- Repositioned Hanji 774 as her later direct petitioning layer on behalf of Ban Chao.
 - Preserved Hanji 775 and Hanji 785 as the education and Deng-family legitimacy-management layers.
 
 ## Relationships
 
+- [[BanGuEasternHan|班固]] - elder brother whose unfinished `Han Shu` Ban Zhao is ordered to continue.
 - [[BanChaoEasternHan|班超]] - elder brother whose final return depends on Ban Zhao's petition.
 - [[EmperorHeOfHan|汉和帝]] - ruler whose court gives Ban Zhao access and accepts her petition.
+- [[DouXianEasternHan|窦宪]] - fallen outer-relative whose cleanup supplies the context for Ban Gu's prison death.
 - [[FemaleCourtEducationEasternHan|东汉宫廷女性教育]] - teaching role that grounds the concept's named intellectual channel.
 - [[EmpressDowagerDengLateHan]] - advises the regent to accept Deng-family mourning withdrawal as a legitimacy-preserving public signal.
 - [[DengZhiLateHan]] - his resignation request becomes the concrete personnel case that Ban Zhao reframes.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "j"
-wiki_total_pages: 5990
+wiki_total_pages: 5996
 wiki_pages:
   - key: "JankyMVP"
     title: "Janky MVP"
@@ -137,6 +137,9 @@ wiki_pages:
   - key: "JargonBoundaryMaking"
     title: "Jargon Boundary Making"
     url: "/wiki/concepts/jargonboundarymaking/"
+  - key: "JealousyAsPoliticalViolence"
+    title: "Jealousy as Political Violence / 嫉妒转化为政治杀机"
+    url: "/wiki/concepts/jealousyaspoliticalviolence/"
   - key: "JeffersonianLibertyContradiction"
     title: "Jeffersonian Liberty Contradiction"
     url: "/wiki/concepts/jeffersonianlibertycontradiction/"

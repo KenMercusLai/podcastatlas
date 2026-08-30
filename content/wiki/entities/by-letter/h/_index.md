@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 8407
+wiki_total_pages: 8423
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -938,6 +938,9 @@ wiki_pages:
   - key: "HuangfuSongLateHan"
     title: "皇甫嵩 / Huangfu Song (late Han)"
     url: "/wiki/entities/huangfusonglatehan/"
+  - key: "HuangfuLengLateHan"
+    title: "皇甫棱 / Huangfu Leng (late Han)"
+    url: "/wiki/entities/huangfulenglatehan/"
   - key: "HuangfuGuiLateHan"
     title: "皇甫规 / Huangfu Gui (late Han)"
     url: "/wiki/entities/huangfuguilatehan/"

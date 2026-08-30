@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 5990
+wiki_total_pages: 5996
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -110,6 +110,9 @@ wiki_pages:
   - key: "WaterSystemCyberResilience"
     title: "Water System Cyber Resilience"
     url: "/wiki/concepts/watersystemcyberresilience/"
+  - key: "WeakAuthorityLeadership"
+    title: "Weak Authority Leadership / 弱势领导威信"
+    url: "/wiki/concepts/weakauthorityleadership/"
   - key: "WeakInstitutionsMarketBuilding"
     title: "Weak Institutions Market Building / 弱制度启动市场"
     url: "/wiki/concepts/weakinstitutionsmarketbuilding/"
@@ -380,6 +383,9 @@ wiki_pages:
   - key: "WuxiaIntertextualCraft"
     title: "Wuxia Intertextual Craft"
     url: "/wiki/concepts/wuxiaintertextualcraft/"
+  - key: "WishfulFrontierConciliation"
+    title: "一厢情愿式边疆怀柔 / Wishful Frontier Conciliation"
+    url: "/wiki/concepts/wishfulfrontierconciliation/"
   - key: "WudaiAdoptiveSonSystem"
     title: "五代义子假子制度 / Five Dynasties Adoptive-Son System"
     url: "/wiki/concepts/wudaiadoptivesonsystem/"

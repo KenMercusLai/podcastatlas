@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 844
+topic_total_pages: 845
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -709,6 +709,9 @@ topic_concepts:
   - key: "JapanRiceSupplyFragility"
     title: "Japan Rice Supply Fragility / 日本大米供应脆弱性"
     url: "/wiki/concepts/japanricesupplyfragility/"
+  - key: "JealousyAsPoliticalViolence"
+    title: "Jealousy as Political Violence / 嫉妒转化为政治杀机"
+    url: "/wiki/concepts/jealousyaspoliticalviolence/"
   - key: "JianghuScamCraft"
     title: "Jianghu Scam Craft"
     url: "/wiki/concepts/jianghuscamcraft/"

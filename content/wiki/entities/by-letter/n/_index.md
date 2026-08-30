@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 8407
+wiki_total_pages: 8423
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -599,6 +599,9 @@ wiki_pages:
   - key: "NeihuangBattleLateHan"
     title: "内黄之战 / Neihuang Battle (Late Han)"
     url: "/wiki/entities/neihuangbattlelatehan/"
+  - key: "NorthernXiongnuLateHan"
+    title: "北匈奴 / Northern Xiongnu (late Han)"
+    url: "/wiki/entities/northernxiongnulatehan/"
   - key: "NorthernSong"
     title: "北宋 / Northern Song"
     url: "/wiki/entities/northernsong/"
@@ -656,6 +659,9 @@ wiki_pages:
   - key: "NetEaseKaola"
     title: "网易考拉 / NetEase Kaola"
     url: "/wiki/entities/neteasekaola/"
+  - key: "NieShangLateHan"
+    title: "聂尚 / Nie Shang (Eastern Han)"
+    url: "/wiki/entities/nieshanglatehan/"
   - key: "NieZheng"
     title: "聂政 / Nie Zheng"
     url: "/wiki/entities/niezheng/"

@@ -8752,6 +8752,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "BanGuEasternHan": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "BanZhaoLateHan": [
     {
       "key": "history",
@@ -31237,6 +31244,18 @@
       "url": "/topics/science/"
     }
   ],
+  "JealousyAsPoliticalViolence": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "JeanFrancoisChampollion": [
     {
       "key": "history",
@@ -49973,6 +49992,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "RoyalUsurpationSpeechTaboo": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "RuJi": [
     {
       "key": "history",
@@ -61957,6 +61983,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "WeakAuthorityLeadership": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "WeakInstitutionsMarketBuilding": [
     {
       "key": "economics",
@@ -62859,6 +62892,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "WishfulFrontierConciliation": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "WitchHuntMechanism": [

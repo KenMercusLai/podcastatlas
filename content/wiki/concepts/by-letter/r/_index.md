@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 5990
+wiki_total_pages: 5996
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -752,6 +752,9 @@ wiki_pages:
   - key: "RoyalExecutionLegitimacy"
     title: "Royal Execution Legitimacy"
     url: "/wiki/concepts/royalexecutionlegitimacy/"
+  - key: "RoyalUsurpationSpeechTaboo"
+    title: "Royal Usurpation Speech Taboo / 宗室帝位言说禁忌"
+    url: "/wiki/concepts/royalusurpationspeechtaboo/"
   - key: "RSIData"
     title: "RSI Data"
     url: "/wiki/concepts/rsidata/"

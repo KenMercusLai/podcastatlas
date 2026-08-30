@@ -1,6 +1,8 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "0b2c8997f5dbfea22e48e434976328c9229ce4d1040b99d76580ca3cc56f14dd",
+      "88dfacd5e6d2c14f7e5cf25ebaf9fd83f40de73aab91c883714e6bbacb0bfb75",
       "0358edddfef89002b03154f5e2a02cfaa563c7cec947ccf0462625bb67373890",
       "76439d5a84c3e146cc75ca3dd110deeb51c4dcd3e2e69896481f9ba03f15b1a2",
       "61cf6b309b514f4094b53ccabb9cd70b5b4534f498082607452b28eb9aa1614c",
@@ -404,11 +406,82 @@
       "0944897fad2beac2f301b796bb694027832267e2eb18cd26f5a96047fddc2fde",
       "0da08e278be0f9698cd22a27d657f9c77e0ffadee5aa5a02f7e114b61da05682"
     ],
-    "paragraph_count": 402
+    "paragraph_count": 404
   },
-  "overview_commit": "e60dfa42197ca5f1781d9575772037f2f510f680",
-  "overview_digest": "5d1f438b77652be5ceb4ec72a0811bdbbc6505c0d163f7643bd277453769248b",
+  "overview_commit": "a41730dac552dfce14573ae806446634a8e2d2e1",
+  "overview_digest": "7493a5edfc4a45f12709ec50b0a5998e923cccd72e7e3b0f28515f2646f0ff4e",
   "paragraphs": [
+    {
+      "id": "0b2c8997f5dbfea22e48e434976328c9229ce4d1040b99d76580ca3cc56f14dd",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq|《资治通鉴·汉纪》767丨聪明人，都擅长“演戏”]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 92-93 CE [[EmperorHeOfHan|汉和帝]] layer before [[zizhi-tongjian-hanji-768-lishi-gaosu-ni-jidu-shi-shaxin-lgk8qoxvs5ax8oikgecrxqvispna|Hanji 768]]. It adds [[DouXianEasternHan|窦宪]], [[BanGuEasternHan|班固]], [[LiHeEasternHan|李郃]], [[ZhengZhongEasternHan|郑众]], [[DengXunEasternHan|邓训]], [[NieShangLateHan|聂尚]], [[NorthernXiongnuLateHan|北匈奴]], [[YuChuNorthernXiongnu|俞厨]], [[OuterRoundInnerSquareConduct|外圆内方式处世]], [[WishfulFrontierConciliation|一厢情愿式边疆怀柔]], and [[TrustedEunuchPowerFormation|信任型宦官权力形成]], while extending [[EmperorHeOfHan|汉和帝]], [[BanZhaoLateHan|班昭]], [[LiuQingQingheKing|清河王刘庆]], [[MiTangQiangLeader|弥唐]], [[RenShangLateHan|任尚]], and [[TacticalDelayRiskTransfer|延时转责式政治化解]]. Its core synthesis is that political intelligence is principled adaptability rather than simple smoothness: Li He delays a dangerous gift mission until Dou Xian falls, Liu Qing keeps favor through caution, Zheng Zhong's humility opens a trusted eunuch channel, Deng Xun's legitimacy survives his death, Nie Shang's one-sided conciliation fails, and the Northern Xiongnu collapse feeds Xianbei expansion. No settled contradiction is recorded; Yuan An's son 袁尚 is not merged with the later [[YuanShang|Yuan Shang]], and Bi Que, Tian Si, Xu Heng, Wang Fu, Ren Tun, Liu Wansui, Liu Kang, Liu Fang, Deng Biao, and southern Man notices remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 3,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "BanGuEasternHan",
+        "BanZhaoLateHan",
+        "DengXunEasternHan",
+        "DouXianEasternHan",
+        "EmperorHeOfHan",
+        "LiHeEasternHan",
+        "LiuQingQingheKing",
+        "MiTangQiangLeader",
+        "NieShangLateHan",
+        "NorthernXiongnuLateHan",
+        "OuterRoundInnerSquareConduct",
+        "RenShangLateHan",
+        "RuiqiJiangtouZizhiTongjian",
+        "TacticalDelayRiskTransfer",
+        "TrustedEunuchPowerFormation",
+        "WishfulFrontierConciliation",
+        "YuChuNorthernXiongnu",
+        "YuanShang",
+        "ZhengZhongEasternHan",
+        "zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq",
+        "zizhi-tongjian-hanji-768-lishi-gaosu-ni-jidu-shi-shaxin-lgk8qoxvs5ax8oikgecrxqvispna"
+      ]
+    },
+    {
+      "id": "88dfacd5e6d2c14f7e5cf25ebaf9fd83f40de73aab91c883714e6bbacb0bfb75",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-768-lishi-gaosu-ni-jidu-shi-shaxin-lgk8qoxvs5ax8oikgecrxqvispna|《资治通鉴·汉纪》768丨历史告诉你：嫉妒是杀心！]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 93-94 CE [[EmperorHeOfHan|汉和帝]] layer before [[zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i|Hanji 769]]. It adds [[CaoBaoEasternHan|曹褒]], [[LiuChangLiangKing|梁王刘畅]], [[GuanYouLateHan|贯友]], [[AnGuoSouthernXiongnu|安国]], [[ShiziChanyu|师子]], [[HuangfuLengLateHan|皇甫棱]], [[ZhuHuiHeEraLateHan|朱晖]], [[DuChongProtectorOfXiongnu|杜崇]], [[WeakAuthorityLeadership|弱势领导威信]], [[RoyalUsurpationSpeechTaboo|宗室帝位言说禁忌]], and [[JealousyAsPoliticalViolence|嫉妒转化为政治杀机]], while extending [[ZhangPuEasternHan|张酺]], [[MiTangQiangLeader|弥唐]], [[SouthernXiongnu|南匈奴]], [[CoalitionFractureExploitation|联盟裂缝利用]], and [[SubordinateSuccessNonJealousy|下属成就不嫉妒]]. Its core synthesis is that weak authority and jealousy create different political failure modes: Emperor He lets Cao Bao's ritual reform lapse under orthodox pressure, Liu Chang survives by retreating from emperor-making speech, Guan You reduces Qiang danger by breaking alliance, and An Guo turns Shizi's ability into an imagined threat that brings his own death. No settled contradiction is recorded; 曹褒 is kept distinct from [[CaoBaoLateHan|曹豹]], 梁王刘畅 from modern [[LiuChang|刘畅]] and [[LiuChangHuainanKing|淮南王刘长]], and Xiongnu 安国 from [[AnGuoKhotanLateHan|Khotan An Guo]].",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "AnGuoKhotanLateHan",
+        "AnGuoSouthernXiongnu",
+        "CaoBaoEasternHan",
+        "CaoBaoLateHan",
+        "CoalitionFractureExploitation",
+        "DuChongProtectorOfXiongnu",
+        "EmperorHeOfHan",
+        "GuanYouLateHan",
+        "HuangfuLengLateHan",
+        "JealousyAsPoliticalViolence",
+        "LiuChang",
+        "LiuChangHuainanKing",
+        "LiuChangLiangKing",
+        "MiTangQiangLeader",
+        "RoyalUsurpationSpeechTaboo",
+        "RuiqiJiangtouZizhiTongjian",
+        "ShiziChanyu",
+        "SouthernXiongnu",
+        "SubordinateSuccessNonJealousy",
+        "WeakAuthorityLeadership",
+        "ZhangPuEasternHan",
+        "ZhuHuiHeEraLateHan",
+        "zizhi-tongjian-hanji-768-lishi-gaosu-ni-jidu-shi-shaxin-lgk8qoxvs5ax8oikgecrxqvispna",
+        "zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i"
+      ]
+    },
     {
       "id": "0358edddfef89002b03154f5e2a02cfaa563c7cec947ccf0462625bb67373890",
       "primary_topic": "governance-and-institutions",

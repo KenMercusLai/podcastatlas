@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 5990
+wiki_total_pages: 5996
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -674,6 +674,9 @@ wiki_pages:
   - key: "TemporaryFrontierRetrenchment"
     title: "临时边防收缩 / Temporary Frontier Retrenchment"
     url: "/wiki/concepts/temporaryfrontierretrenchment/"
+  - key: "TrustedEunuchPowerFormation"
+    title: "信任型宦官权力形成 / Trusted Eunuch Power Formation"
+    url: "/wiki/concepts/trustedeunuchpowerformation/"
   - key: "TrustAsMoralRisk"
     title: "信赖作为道德风险 / Trust As Moral Risk"
     url: "/wiki/concepts/trustasmoralrisk/"

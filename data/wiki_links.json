@@ -4291,6 +4291,10 @@
     "title": "安国 / Anguo (Khotan, late Han)",
     "url": "/wiki/entities/anguokhotanlatehan/"
   },
+  "AnGuoSouthernXiongnu": {
+    "title": "安国 / An Guo (Southern Xiongnu)",
+    "url": "/wiki/entities/anguosouthernxiongnu/"
+  },
   "AnQi": {
     "title": "安琪",
     "url": "/wiki/entities/anqi/"
@@ -6046,6 +6050,10 @@
   "BanChaoEasternHan": {
     "title": "班超 / Ban Chao (Eastern Han)",
     "url": "/wiki/entities/banchaoeasternhan/"
+  },
+  "BanGuEasternHan": {
+    "title": "班固 / Ban Gu (Eastern Han)",
+    "url": "/wiki/entities/bangueasternhan/"
   },
   "BanShiLateHan": {
     "title": "班始 / Ban Shi (late Han)",
@@ -8446,6 +8454,10 @@
   "CaoAnmin": {
     "title": "曹安民 / Cao Anmin",
     "url": "/wiki/entities/caoanmin/"
+  },
+  "CaoBaoEasternHan": {
+    "title": "曹褒 / Cao Bao (Eastern Han ritualist)",
+    "url": "/wiki/entities/caobaoeasternhan/"
   },
   "CaoBaoLateHan": {
     "title": "曹豹 / Cao Bao (late Han)",
@@ -14051,6 +14063,10 @@
     "title": "邓羲 / Deng Xi (late Han)",
     "url": "/wiki/entities/dengxilatehan/"
   },
+  "DengXunEasternHan": {
+    "title": "邓训 / Deng Xun (Eastern Han)",
+    "url": "/wiki/entities/dengxuneasternhan/"
+  },
   "DengZhiLateHan": {
     "title": "邓骘 / Deng Zhi (late Han)",
     "url": "/wiki/entities/dengzhilatehan/"
@@ -15067,6 +15083,10 @@
     "title": "窦武 / Dou Wu (late Han)",
     "url": "/wiki/entities/douwulatehan/"
   },
+  "DouXianEasternHan": {
+    "title": "窦宪 / Dou Xian (Eastern Han)",
+    "url": "/wiki/entities/douxianeasternhan/"
+  },
   "DouaiReimsSeminaries": {
     "title": "Douai and Reims Seminaries",
     "url": "/wiki/entities/douaireimsseminaries/"
@@ -15238,6 +15258,10 @@
   "DryElectrodeManufacturing": {
     "title": "Dry Electrode Manufacturing",
     "url": "/wiki/concepts/dryelectrodemanufacturing/"
+  },
+  "DuChongProtectorOfXiongnu": {
+    "title": "杜崇 / Du Chong (Protector of Xiongnu)",
+    "url": "/wiki/entities/duchongprotectorofxiongnu/"
   },
   "DuFamilyGirls": {
     "title": "杜氏女孩 / Du Family Girls",
@@ -21515,6 +21539,10 @@
     "title": "灌婴 / Guan Ying",
     "url": "/wiki/entities/guanying/"
   },
+  "GuanYouLateHan": {
+    "title": "贯友 / Guan You (late Han)",
+    "url": "/wiki/entities/guanyoulatehan/"
+  },
   "GuanYu": {
     "title": "关羽 / Guan Yu",
     "url": "/wiki/entities/guanyu/"
@@ -23987,6 +24015,10 @@
     "title": "皇甫规 / Huangfu Gui (late Han)",
     "url": "/wiki/entities/huangfuguilatehan/"
   },
+  "HuangfuLengLateHan": {
+    "title": "皇甫棱 / Huangfu Leng (late Han)",
+    "url": "/wiki/entities/huangfulenglatehan/"
+  },
   "HuangfuLiLateHan": {
     "title": "皇甫郦 / Huangfu Li (late Han)",
     "url": "/wiki/entities/huangfulilatehan/"
@@ -26206,6 +26238,10 @@
   "JayBhattacharya": {
     "title": "Jay Bhattacharya",
     "url": "/wiki/entities/jaybhattacharya/"
+  },
+  "JealousyAsPoliticalViolence": {
+    "title": "Jealousy as Political Violence / 嫉妒转化为政治杀机",
+    "url": "/wiki/concepts/jealousyaspoliticalviolence/"
   },
   "JeanClaudeBiver": {
     "title": "Jean-Claude Biver",
@@ -29495,6 +29531,10 @@
     "title": "李昊 / Li Hao (late Han)",
     "url": "/wiki/entities/lihaolatehan/"
   },
+  "LiHeEasternHan": {
+    "title": "李郃 / Li He (Eastern Han)",
+    "url": "/wiki/entities/liheeasternhan/"
+  },
   "LiHongjun": {
     "title": "李洪军 / Li Hongjun",
     "url": "/wiki/entities/lihongjun/"
@@ -30322,6 +30362,10 @@
   "LiuChangHuainanKing": {
     "title": "刘长 / Liu Chang (Huainan king)",
     "url": "/wiki/entities/liuchanghuainanking/"
+  },
+  "LiuChangLiangKing": {
+    "title": "梁王刘畅 / Liu Chang (King of Liang)",
+    "url": "/wiki/entities/liuchangliangking/"
   },
   "LiuCheng": {
     "title": "刘诚",
@@ -35927,6 +35971,10 @@
     "title": "聂辉华",
     "url": "/wiki/entities/niehuihua/"
   },
+  "NieShangLateHan": {
+    "title": "聂尚 / Nie Shang (Eastern Han)",
+    "url": "/wiki/entities/nieshanglatehan/"
+  },
   "NieYing": {
     "title": "聂英 / Nie Ying",
     "url": "/wiki/entities/nieying/"
@@ -36302,6 +36350,10 @@
   "NorthernWhiteRhinoceros": {
     "title": "Northern White Rhinoceros / 北部白犀牛",
     "url": "/wiki/entities/northernwhiterhinoceros/"
+  },
+  "NorthernXiongnuLateHan": {
+    "title": "北匈奴 / Northern Xiongnu (late Han)",
+    "url": "/wiki/entities/northernxiongnulatehan/"
   },
   "Northvolt": {
     "title": "Northvolt",
@@ -37438,6 +37490,10 @@
   "OuterRelativeRecurrence": {
     "title": "外戚轮回 / Outer-Relative Recurrence",
     "url": "/wiki/concepts/outerrelativerecurrence/"
+  },
+  "OuterRoundInnerSquareConduct": {
+    "title": "外圆内方式处世 / Outer-Round Inner-Square Conduct",
+    "url": "/wiki/concepts/outerroundinnersquareconduct/"
   },
   "OutlierDrivenAngelInvesting": {
     "title": "Outlier-Driven Angel Investing",
@@ -43539,6 +43595,10 @@
     "title": "Royal Ulster Constabulary",
     "url": "/wiki/entities/royalulsterconstabulary/"
   },
+  "RoyalUsurpationSpeechTaboo": {
+    "title": "Royal Usurpation Speech Taboo / 宗室帝位言说禁忌",
+    "url": "/wiki/concepts/royalusurpationspeechtaboo/"
+  },
   "RuJi": {
     "title": "如姬 / Ru Ji",
     "url": "/wiki/entities/ruji/"
@@ -45606,6 +45666,10 @@
   "Shiyan": {
     "title": "Shiyan / 十堰",
     "url": "/wiki/entities/shiyan/"
+  },
+  "ShiziChanyu": {
+    "title": "师子 / Shizi Chanyu",
+    "url": "/wiki/entities/shizichanyu/"
   },
   "ShizilukouCrossing": {
     "title": "Shizilukou Crossing",
@@ -51191,6 +51255,10 @@
     "title": "Trust-Sensitive SaaS Switching",
     "url": "/wiki/concepts/trustsensitivesaasswitching/"
   },
+  "TrustedEunuchPowerFormation": {
+    "title": "信任型宦官权力形成 / Trusted Eunuch Power Formation",
+    "url": "/wiki/concepts/trustedeunuchpowerformation/"
+  },
   "TrustedFlaggerSystem": {
     "title": "Trusted Flagger System",
     "url": "/wiki/concepts/trustedflaggersystem/"
@@ -53399,6 +53467,10 @@
     "title": "WeRide",
     "url": "/wiki/entities/weride/"
   },
+  "WeakAuthorityLeadership": {
+    "title": "Weak Authority Leadership / 弱势领导威信",
+    "url": "/wiki/concepts/weakauthorityleadership/"
+  },
   "WeakInstitutionsMarketBuilding": {
     "title": "Weak Institutions Market Building / 弱制度启动市场",
     "url": "/wiki/concepts/weakinstitutionsmarketbuilding/"
@@ -54174,6 +54246,10 @@
   "WiseChildrenCarter": {
     "title": "《明智的孩子》 / Wise Children",
     "url": "/wiki/entities/wisechildrencarter/"
+  },
+  "WishfulFrontierConciliation": {
+    "title": "一厢情愿式边疆怀柔 / Wishful Frontier Conciliation",
+    "url": "/wiki/concepts/wishfulfrontierconciliation/"
   },
   "WitchHuntMechanism": {
     "title": "Witch-Hunt Mechanism / 猎巫机制",
@@ -56671,6 +56747,10 @@
     "title": "Yu Chengdong",
     "url": "/wiki/entities/yuchengdong/"
   },
+  "YuChuNorthernXiongnu": {
+    "title": "俞厨 / Yu Chu (Northern Xiongnu)",
+    "url": "/wiki/entities/yuchunorthernxiongnu/"
+  },
   "YuDuLateHan": {
     "title": "于毒 / Yu Du (Late Han)",
     "url": "/wiki/entities/yudulatehan/"
@@ -58067,6 +58147,10 @@
     "title": "Zheng Zhilong / 郑芝龙",
     "url": "/wiki/entities/zhengzhilong/"
   },
+  "ZhengZhongEasternHan": {
+    "title": "郑众 / Zheng Zhong (Eastern Han eunuch)",
+    "url": "/wiki/entities/zhengzhongeasternhan/"
+  },
   "ZhengZhu": {
     "title": "郑朱 / Zheng Zhu",
     "url": "/wiki/entities/zhengzhu/"
@@ -58498,6 +58582,10 @@
   "ZhuHaoLateHan": {
     "title": "朱皓 / Zhu Hao (late Han)",
     "url": "/wiki/entities/zhuhaolatehan/"
+  },
+  "ZhuHuiHeEraLateHan": {
+    "title": "朱晖 / Zhu Hui (He-era frontier commander)",
+    "url": "/wiki/entities/zhuhuiheeralatehan/"
   },
   "ZhuJiaLu": {
     "title": "朱家 / Zhu Jia (Lu)",
@@ -62714,6 +62802,14 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq": {
+    "title": "《资治通鉴·汉纪》767丨聪明人，都擅长“演戏”",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq/"
+  },
+  "zizhi-tongjian-hanji-768-lishi-gaosu-ni-jidu-shi-shaxin-lgk8qoxvs5ax8oikgecrxqvispna": {
+    "title": "《资治通鉴·汉纪》768丨历史告诉你：嫉妒是杀心！",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-768-lishi-gaosu-ni-jidu-shi-shaxin-lgk8qoxvs5ax8oikgecrxqvispna/"
   },
   "zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i": {
     "title": "《资治通鉴·汉纪》769丨公务员该怎么考？古人告诉你",

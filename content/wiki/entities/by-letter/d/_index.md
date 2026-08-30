@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 8407
+wiki_total_pages: 8423
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -917,6 +917,9 @@ wiki_pages:
   - key: "DuShaoqing"
     title: "杜少卿"
     url: "/wiki/entities/dushaoqing/"
+  - key: "DuChongProtectorOfXiongnu"
+    title: "杜崇 / Du Chong (Protector of Xiongnu)"
+    url: "/wiki/entities/duchongprotectorofxiongnu/"
   - key: "DuGenLateHan"
     title: "杜根 / Du Gen (late Han)"
     url: "/wiki/entities/dugenlatehan/"
@@ -992,6 +995,9 @@ wiki_pages:
   - key: "DuKangMap"
     title: "督亢地图 / Du Kang Map"
     url: "/wiki/entities/dukangmap/"
+  - key: "DouXianEasternHan"
+    title: "窦宪 / Dou Xian (Eastern Han)"
+    url: "/wiki/entities/douxianeasternhan/"
   - key: "DouWuLateHan"
     title: "窦武 / Dou Wu (late Han)"
     url: "/wiki/entities/douwulatehan/"
@@ -1082,6 +1088,9 @@ wiki_pages:
   - key: "DengLaoban"
     title: "邓老板"
     url: "/wiki/entities/denglaoban/"
+  - key: "DengXunEasternHan"
+    title: "邓训 / Deng Xun (Eastern Han)"
+    url: "/wiki/entities/dengxuneasternhan/"
   - key: "DengTong"
     title: "邓通 / Deng Tong"
     url: "/wiki/entities/dengtong/"

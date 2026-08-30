@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 8407
+wiki_total_pages: 8423
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -875,6 +875,9 @@ wiki_pages:
   - key: "ZhuXiaodongSportsRights"
     title: "朱晓东 / Zhu Xiaodong"
     url: "/wiki/entities/zhuxiaodongsportsrights/"
+  - key: "ZhuHuiHeEraLateHan"
+    title: "朱晖 / Zhu Hui (He-era frontier commander)"
+    url: "/wiki/entities/zhuhuiheeralatehan/"
   - key: "ZhuZhiLateHan"
     title: "朱治 / Zhu Zhi (Late Han)"
     url: "/wiki/entities/zhuzhilatehan/"
@@ -1250,6 +1253,9 @@ wiki_pages:
   - key: "ZouState"
     title: "邹国 / Zou State"
     url: "/wiki/entities/zoustate/"
+  - key: "ZhengZhongEasternHan"
+    title: "郑众 / Zheng Zhong (Eastern Han eunuch)"
+    url: "/wiki/entities/zhengzhongeasternhan/"
   - key: "ZhengGuoHydraulicEngineer"
     title: "郑国 / Zheng Guo (Hydraulic Engineer)"
     url: "/wiki/entities/zhengguohydraulicengineer/"
