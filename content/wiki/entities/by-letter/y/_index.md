@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 8443
+wiki_total_pages: 8445
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -659,6 +659,9 @@ wiki_pages:
   - key: "YanWuchengwang"
     title: "燕武成王 / King Wucheng of Yan"
     url: "/wiki/entities/yanwuchengwang/"
+  - key: "YanranInscription"
+    title: "燕然勒石 / Yanran Inscription"
+    url: "/wiki/entities/yanraninscription/"
   - key: "YanWangKuai"
     title: "燕王哙 / King Kuai of Yan"
     url: "/wiki/entities/yanwangkuai/"

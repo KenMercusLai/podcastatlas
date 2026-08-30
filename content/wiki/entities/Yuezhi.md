@@ -1,20 +1,60 @@
 ---
 title: "月氏 / Yuezhi"
 type: entity
-tags: [people, frontier, central-asia, xiongnu]
-sources: [zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf]
-last_updated: 2026-08-23
+knowledge_schema: synthesis-v1
+tags: [people, frontier, central-asia, xiongnu, western-regions]
+sources:
+  - zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf
+  - zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb
+last_updated: 2026-08-30
 ---
 
-# 月氏 / Yuezhi
+## Overview
 
-月氏 / Yuezhi enters the wiki through [[zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf|Hanji 175]] as the western neighbor used in [[ToumanChanyu|头曼单于]]'s attempted removal of [[MaoDunChanyu|冒顿单于]]. Touman sends Modu there as hostage and then attacks Yuezhi, which gives Yuezhi reason to kill the hostage before Modu escapes.
+月氏 / Yuezhi is currently a source-bounded Central Asian frontier people whose wiki profile begins in the early Xiongnu succession field and later reappears as a Western Regions attacker checked by [[BanChaoEasternHan|Ban Chao]]. [[zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf|Hanji 175]] makes Yuezhi the western hostageship setting that [[ToumanChanyu|Touman Chanyu]] tries to weaponize against [[MaoDunChanyu|Modu]]. [[zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb|Hanji 763]] later shows a Yuezhi king seeking marriage with Han and then sending a major force against Ban Chao after the request is refused.
 
-The episode later returns to Yuezhi after Modu takes power. Once [[Donghu|东胡]] is destroyed, Modu attacks Yuezhi; the source says some Yuezhi move west toward the Amu Darya region as Da Yuezhi while remaining groups are called Xiao Yuezhi. The page keeps that migration note source-scoped because this ingest is about Modu's rise and early Han frontier pressure rather than a full Yuezhi history.
+## Current Profile
 
-## Connections
-- [[MaoDunChanyu|冒顿单于]] and [[ToumanChanyu|头曼单于]] - hostage and succession-trap actors.
-- [[Xiongnu|匈奴]] - rival power that first attacks under Touman and later under Modu.
-- [[Donghu|东胡]] - defeated steppe power after which Modu turns west.
+Hanji 175 introduces Yuezhi through an earlier Xiongnu power struggle. Touman sends Modu as a hostage to Yuezhi, then attacks Yuezhi so the hostage will likely be killed. Modu escapes, turns the attempted removal into the prehistory for his command training and patricidal seizure of power, and later attacks Yuezhi after defeating [[Donghu|Donghu]]. The source says some Yuezhi move west toward the Amu Darya region as Da Yuezhi while remaining groups are called Xiao Yuezhi.
+
+Hanji 763 gives a much later Eastern Han Western Regions layer. The Yuezhi king asks to marry a Han princess, but Ban Chao refuses. The Yuezhi side responds by sending deputy king Xie with a large army against Ban. The campaign fails because Ban reads the force as logistically vulnerable: he harvests the local grain, closes the city, waits for shortages, and ambushes the mission sent to [[QiuciKingdom|Qiuci]] to buy food. After the ambush, Xie asks forgiveness and withdraws; the source says Yuezhi thereafter sends annual tribute.
+
+The current synthesis treats Yuezhi as an actor whose role changes by period. In Hanji 175, Yuezhi is a hostage and migration pressure point in the rise of Xiongnu power. In Hanji 763, it is a distant attacker whose scale does not overcome supply weakness and local Han-aligned frontier command.
+
+## Key Characteristics
+
+- Western frontier people first visible as the hostage setting in Touman's attempted removal of Modu.
+- Target of Modu's later expansion after Xiongnu consolidation against Donghu.
+- Migration-linked group in Hanji 175, with Da Yuezhi and Xiao Yuezhi labels kept source-scoped.
+- Later Eastern Han actor that seeks marriage ties with Han and attacks Ban Chao after refusal.
+- Logistically vulnerable attacker in Hanji 763, defeated through grain denial and interception rather than direct numerical superiority.
+
+## Evidence
+
+- Hostage trap: [[zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf|Hanji 175]] says Touman sends Modu to Yuezhi as hostage and then attacks Yuezhi to put him in danger.
+- Modu's later attack: [[zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf|Hanji 175]] says Modu attacks Yuezhi after destroying Donghu and consolidating Xiongnu power.
+- Migration note: [[zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf|Hanji 175]] says some Yuezhi move west toward the Amu Darya region as Da Yuezhi while remaining groups are called Xiao Yuezhi.
+- Marriage refusal: [[zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb|Hanji 763]] says the Yuezhi king seeks a Han princess marriage and resents Ban Chao's refusal.
+- Failed attack on Ban Chao: [[zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb|Hanji 763]] says deputy king Xie attacks with a large force, but Ban Chao denies grain, waits for supply exhaustion, ambushes the food mission to Qiuci, and forces withdrawal.
+- Tributary result: [[zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb|Hanji 763]] says Yuezhi thereafter sends annual tribute to Han.
+
+## Qualifications
+
+This page remains bounded to two source notes and does not reconstruct full Yuezhi, Da Yuezhi, Kushan, or Central Asian history. Hanji 175's westward movement labels, Amu Darya placement, and Modu campaign details remain source-scoped. Hanji 763's marriage request, deputy king Xie, force size, and tributary outcome are recorded as the episode's account, not as a complete diplomatic history.
+
+## What Changed
+
+- Migrated the legacy Yuezhi page to `synthesis-v1` while preserving the original Hanji 175 source.
+- Added Hanji 763 as the later Eastern Han layer in which Yuezhi attacks Ban Chao and loses through supply-line vulnerability.
+- Reframed Yuezhi as a period-shifting frontier actor rather than only a Modu-rise background group.
+
+## Relationships
+
+- [[ToumanChanyu|头曼单于]] - Xiongnu ruler who tries to weaponize Yuezhi hostageship against Modu.
+- [[MaoDunChanyu|冒顿单于]] - escaped hostage and later Xiongnu ruler who attacks Yuezhi.
+- [[Xiongnu|匈奴]] - rival steppe power that attacks Yuezhi in the early Han source.
+- [[Donghu|东胡]] - defeated steppe power after which Modu turns west against Yuezhi.
+- [[BanChaoEasternHan|班超]] - Eastern Han commander who defeats the Yuezhi attack through supply denial.
+- [[QiuciKingdom|龟兹]] - target of the Yuezhi food mission that Ban Chao intercepts.
+- [[StrategicFrontierAbandonment|弃边失屏]] - adjacent Western Regions problem because Ban Chao's control depends on local logistics and partner geography.
 - [[AbsoluteCommandObedience|绝对服从式指挥训练]] - Modu's command method after escaping the hostage trap.
-- [[zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf|Hanji 175]] - source page.

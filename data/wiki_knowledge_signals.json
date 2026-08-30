@@ -3318,9 +3318,9 @@
       "url": "/wiki/entities/baimarelieflatehan/"
     },
     "BanChaoEasternHan": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》780丨最多灾多难的时代：东汉 [lvGCuMRFJbLrOFER532EES3TDOa_].md",
@@ -3363,6 +3363,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》764丨他为了活命，竟间接灭了罗马帝国？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-764-ta-weile-huoming-jing-jianjie-mie-le-luoma-diguo-lpk0c6muneabhk1oonzyjvawwf4/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》763丨改写历史！东汉窦宪破北匈奴之战 [ltlCTmb--IPRvGgOit46_QoHM0tb].md",
+          "key": "zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》763丨改写历史！东汉窦宪破北匈奴之战",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb/"
         }
       ],
       "updated": "2026-08-30",
@@ -8980,9 +8987,9 @@
       "url": "/wiki/entities/douwulatehan/"
     },
     "DouXianEasternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》767丨聪明人，都擅长“演戏” [lq3ol7Y-JDh7dnNFKmtFDG4ibRyq].md",
@@ -9011,6 +9018,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》764丨他为了活命，竟间接灭了罗马帝国？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-764-ta-weile-huoming-jing-jianjie-mie-le-luoma-diguo-lpk0c6muneabhk1oonzyjvawwf4/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》763丨改写历史！东汉窦宪破北匈奴之战 [ltlCTmb--IPRvGgOit46_QoHM0tb].md",
+          "key": "zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》763丨改写历史！东汉窦宪破北匈奴之战",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb/"
         }
       ],
       "updated": "2026-08-30",
@@ -13466,9 +13480,9 @@
       "url": "/wiki/entities/gengchenglinruhoulatehan/"
     },
     "GengKuiLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》776丨汉史探密：蔡伦是怎样发明“造纸术”的？ [ljqhhCywXr_YGgZMcgzbbTg-q-hB].md",
@@ -13476,6 +13490,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》776丨汉史探密：蔡伦是怎样发明“造纸术”的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》763丨改写历史！东汉窦宪破北匈奴之战 [ltlCTmb--IPRvGgOit46_QoHM0tb].md",
+          "key": "zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》763丨改写历史！东汉窦宪破北匈奴之战",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb/"
         }
       ],
       "updated": "2026-08-30",
@@ -18027,6 +18048,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/jiddukrishnamurti/"
+    },
+    "JiluoshanBattleLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》763丨改写历史！东汉窦宪破北匈奴之战 [ltlCTmb--IPRvGgOit46_QoHM0tb].md",
+          "key": "zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》763丨改写历史！东汉窦宪破北匈奴之战",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/jiluoshanbattlelatehan/"
     },
     "JinShang": {
       "episode_count": 3,
@@ -24856,9 +24893,9 @@
       "url": "/wiki/entities/northernrising/"
     },
     "NorthernXiongnuLateHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》767丨聪明人，都擅长“演戏” [lq3ol7Y-JDh7dnNFKmtFDG4ibRyq].md",
@@ -24880,6 +24917,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》764丨他为了活命，竟间接灭了罗马帝国？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-764-ta-weile-huoming-jing-jianjie-mie-le-luoma-diguo-lpk0c6muneabhk1oonzyjvawwf4/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》763丨改写历史！东汉窦宪破北匈奴之战 [ltlCTmb--IPRvGgOit46_QoHM0tb].md",
+          "key": "zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》763丨改写历史！东汉窦宪破北匈奴之战",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb/"
         }
       ],
       "updated": "2026-08-30",
@@ -28514,9 +28558,9 @@
       "url": "/wiki/entities/renkuieasternhan/"
     },
     "RenShangLateHan": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》790丨历史告诉你：如何和领导打交道？ [luLf0R1SdKOD3luZWRU0_KKrIjXK].md",
@@ -28566,6 +28610,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》767丨聪明人，都擅长“演戏”",
           "url": "/wiki/sources/zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》763丨改写历史！东汉窦宪破北匈奴之战 [ltlCTmb--IPRvGgOit46_QoHM0tb].md",
+          "key": "zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》763丨改写历史！东汉窦宪破北匈奴之战",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb/"
         }
       ],
       "updated": "2026-08-30",
@@ -34063,9 +34114,9 @@
       "url": "/wiki/concepts/toydesignhumancreativityboundary/"
     },
     "TransEurasianMigrationCascade": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》764丨他为了活命，竟间接灭了罗马帝国？ [lpk0c6MUNEAbhk1oonZYjvawwF4_].md",
@@ -34073,6 +34124,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》764丨他为了活命，竟间接灭了罗马帝国？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-764-ta-weile-huoming-jing-jianjie-mie-le-luoma-diguo-lpk0c6muneabhk1oonzyjvawwf4/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》763丨改写历史！东汉窦宪破北匈奴之战 [ltlCTmb--IPRvGgOit46_QoHM0tb].md",
+          "key": "zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》763丨改写历史！东汉窦宪破北匈奴之战",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb/"
         }
       ],
       "updated": "2026-08-30",
@@ -38545,6 +38603,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/yanqikingdomlatehan/"
     },
+    "YanranInscription": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》763丨改写历史！东汉窦宪破北匈奴之战 [ltlCTmb--IPRvGgOit46_QoHM0tb].md",
+          "key": "zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》763丨改写历史！东汉窦宪破北匈奴之战",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/yanraninscription/"
+    },
     "YaoGuangLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -39225,6 +39299,29 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/yuewanrou/"
+    },
+    "Yuezhi": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》175｜必看刘邦的皇家礼仪课 [loS9hsomNdNhyQpXAFSTGYQuomZF].md",
+          "key": "zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》175｜必看刘邦的皇家礼仪课",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》763丨改写历史！东汉窦宪破北匈奴之战 [ltlCTmb--IPRvGgOit46_QoHM0tb].md",
+          "key": "zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》763丨改写历史！东汉窦宪破北匈奴之战",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/yuezhi/"
     },
     "YuvalNoahHarari": {
       "episode_count": 1,

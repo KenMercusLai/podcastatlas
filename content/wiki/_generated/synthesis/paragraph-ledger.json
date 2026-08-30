@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "785bf7ff71754786438c2822b30df12bdae76d6fe5014fabbb32740ba7f9d6ff",
       "0b2c8997f5dbfea22e48e434976328c9229ce4d1040b99d76580ca3cc56f14dd",
       "88dfacd5e6d2c14f7e5cf25ebaf9fd83f40de73aab91c883714e6bbacb0bfb75",
       "0358edddfef89002b03154f5e2a02cfaa563c7cec947ccf0462625bb67373890",
@@ -408,11 +409,33 @@
       "783b85daf8e28c79ebd7838b98cbae32cc3b283841103fa74a279782510e1ecf",
       "2f2ccba72e3ff27853c9c5e7edd9f718fa9dd0a3c9c92731bc7ee6f0b1047bd7"
     ],
-    "paragraph_count": 406
+    "paragraph_count": 407
   },
-  "overview_commit": "9718cd9555c72147578ffe66e40eff5c5a487f27",
-  "overview_digest": "a0139ee7fdb4fc671430dc802aa2dab7ee7ea79ea0b0088f2f4ce0447f1b3dfa",
+  "overview_commit": "5fde09f2eed968749633d7cca9e8f1cce103c836",
+  "overview_digest": "9c28fef5c5dded8b4db48fdfbcbe979581624aef4cbd8d83fb9efd7fd3bbe510",
   "paragraphs": [
+    {
+      "id": "785bf7ff71754786438c2822b30df12bdae76d6fe5014fabbb32740ba7f9d6ff",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb|《资治通鉴·汉纪》763丨改写历史！东汉窦宪破北匈奴之战]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the immediate pre-[[zizhi-tongjian-hanji-764-ta-weile-huoming-jing-jianjie-mie-le-luoma-diguo-lpk0c6muneabhk1oonzyjvawwf4|Hanji 764]] frontier and court layer. It adds [[JiluoshanBattleLateHan|稽落山之战]] and [[YanranInscription|燕然勒石]], while extending [[DouXianEasternHan|窦宪]], [[NorthernXiongnuLateHan|北匈奴]], [[BanChaoEasternHan|班超]], [[Yuezhi|月氏]], and [[TransEurasianMigrationCascade|欧亚迁徙连锁]]. Its core synthesis is that the campaign begins in court danger rather than pure loyalty: Dou Xian turns punishment risk after Liu Chang's murder into a northern war request, then converts Southern Xiongnu disruption, pursuit at Jinwei and Jiluoshan, and Ban Gu's Yanran inscription into a real military achievement whose long-range migration meaning remains qualified. No settled contradiction is recorded; Ban Chao's Yuezhi victory is treated as supply-line judgment, and the Northern-Xiongnu-to-Europe chain remains source-scoped because this episode previews rather than proves the European evidence.",
+      "topic_scores": {
+        "history-and-geopolitics": 4,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "BanChaoEasternHan",
+        "DouXianEasternHan",
+        "JiluoshanBattleLateHan",
+        "NorthernXiongnuLateHan",
+        "RuiqiJiangtouZizhiTongjian",
+        "TransEurasianMigrationCascade",
+        "YanranInscription",
+        "Yuezhi",
+        "zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb",
+        "zizhi-tongjian-hanji-764-ta-weile-huoming-jing-jianjie-mie-le-luoma-diguo-lpk0c6muneabhk1oonzyjvawwf4"
+      ]
+    },
     {
       "id": "0b2c8997f5dbfea22e48e434976328c9229ce4d1040b99d76580ca3cc56f14dd",
       "primary_topic": "governance-and-institutions",

@@ -11,16 +11,19 @@ sources:
   - zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6
   - zizhi-tongjian-hanji-774-banchao-jiebanren-ruhe-gaoluan-xiyu-lnbnoc-uys8kee7pz9yecxecrpyd
   - zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq
+  - zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb
 last_updated: 2026-08-30
 ---
 
 ## Overview
 
-任尚 / Ren Shang appears as a capable but repeatedly exposed frontier commander whose current profile now begins with an early cavalry pursuit against [[YuChuNorthernXiongnu|Yu Chu]] after the fall of [[DouXianEasternHan|Dou Xian]]. It then moves through a hollow Western Regions handoff from [[BanChaoEasternHan|Ban Chao]], misgovernment, Pingxiang defeat, Qiang-front adaptation, real military merit, and fatal conflict with Deng-family credit politics.
+任尚 / Ren Shang appears as a capable but repeatedly exposed frontier commander whose current profile now begins with the 91 CE Jinwei Mountain pursuit against the [[NorthernXiongnuLateHan|Northern Xiongnu]] chanyu under [[DouXianEasternHan|Dou Xian]]'s wider campaign. It then moves through the post-Dou pursuit of [[YuChuNorthernXiongnu|Yu Chu]], a hollow Western Regions handoff from [[BanChaoEasternHan|Ban Chao]], misgovernment, Pingxiang defeat, Qiang-front adaptation, real military merit, and fatal conflict with Deng-family credit politics.
 
 ## Current Profile
 
-Hanji 767 adds the earliest current Ren Shang layer. After Yu Chu abandons a Northern Xiongnu return arrangement following Dou Xian's dismissal, Emperor He sends Wang Fu with more than one thousand cavalry and zhonglangjiang Ren Shang to pursue him. Yu Chu is killed and the force destroyed, making Ren's first current appearance a successful punitive operation in a post-Dou credibility crisis.
+Hanji 763 adds the earliest current Ren Shang layer. In 91 CE, after Southern Xiongnu pressure badly damages the northern chanyu's camp, [[GengKuiLateHan|Geng Kui]] and Ren Shang attack through Juyan, defeat Northern Xiongnu forces at Jinwei Mountain, and force the chanyu to flee. This places Ren inside the final destruction phase of Dou Xian's northern campaign before his later post-Dou cleanup role.
+
+Hanji 767 follows with a second successful Northern Xiongnu operation. After Yu Chu abandons a return arrangement following Dou Xian's dismissal, Emperor He sends Wang Fu with more than one thousand cavalry and zhonglangjiang Ren Shang to pursue him. Yu Chu is killed and the force destroyed, making Ren's early current profile one of operational competence in the Northern Xiongnu remnant field.
 
 Hanji 774 supplies the earliest Western Regions layer. Ren formally asks Ban Chao for advice before taking over the protectorate, but the episode makes the performance gap explicit: after hearing that he should govern loosely, forgive small faults, and hold the big picture, Ren privately treats the advice as ordinary and expects some more unusual strategy. His failure begins before policy execution, at the point where ceremonial consultation does not become actual learning.
 
@@ -32,16 +35,18 @@ Hanji 788-789 show Ren Shang as an adaptable Qiang-front commander. He implement
 
 ## Key Characteristics
 
-- Early zhonglangjiang in a successful punitive cavalry pursuit against Yu Chu.
+- Early frontier commander in the Jinwei Mountain pursuit against the Northern Xiongnu chanyu.
+- Zhonglangjiang in a later successful punitive cavalry pursuit against Yu Chu.
 - Formal successor whose deferential Western Regions handoff questions do not translate into acceptance of predecessor experience.
 - Frontier commander whose military reputation does not guarantee fit for indirect governance.
 - Western Regions protector who ignores Ban Chao's [[LightTouchFrontierGovernance|light-touch advice]] and provokes rebellion through harsh rule.
 - Qiang-front commander whose later evidence begins with Pingxiang defeat but continues through retained command.
-- Tactical implementer who benefits from Yu Xu's light-cavalry advice in later operations.
 - Real military performer whose achievements around Lin Chang and Langmo make his later credit dispute with Deng Zun politically fatal.
 
 ## Evidence
 
+- Jinwei Mountain operation: [[zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb|Hanji 763]] says Geng Kui and Ren Shang attack from Juyan, defeat Northern Xiongnu forces at Jinwei Mountain, and force the chanyu to flee.
+- Dou Xian campaign context: [[zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb|Hanji 763]] places Ren's earliest current role inside Dou Xian's broader Northern Xiongnu campaign and the source's qualified migration-cascade prelude.
 - Yu Chu pursuit: [[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq|Hanji 767]] says Emperor He sends Wang Fu and Ren Shang with cavalry after Yu Chu abandons the Northern Xiongnu return arrangement.
 - Early success: [[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq|Hanji 767]] says Yu Chu is killed and his force destroyed after the pursuit.
 - Handoff posture: [[zizhi-tongjian-hanji-774-banchao-jiebanren-ruhe-gaoluan-xiyu-lnbnoc-uys8kee7pz9yecxecrpyd|Hanji 774]] says Ren Shang asks Ban Chao for advice but privately dismisses the loose, simple, big-picture answer as ordinary.
@@ -54,18 +59,21 @@ Hanji 788-789 show Ren Shang as an adaptable Qiang-front commander. He implement
 
 ## Qualifications
 
-Ren Shang should not be read as merely incompetent because Hanji 767 and Hanji 788-790 preserve capability and achievement. He should also not be read as simply a victim of court politics because Hanji 774, Hanji 779, and Hanji 782 place damaging frontier failures near the start of the current evidence. The durable pattern is that military usefulness, governance fit, willingness to learn, and political survivability are separate measures.
+Ren Shang should not be read as merely incompetent because Hanji 763, Hanji 767, and Hanji 788-790 preserve capability and achievement. He should also not be read as simply a victim of court politics because Hanji 774, Hanji 779, and Hanji 782 place damaging frontier failures near the start of the current evidence. The durable pattern is that military usefulness, governance fit, willingness to learn, and political survivability are separate measures.
 
 ## What Changed
 
-- Added Hanji 767 as the earliest current Ren Shang layer: a successful punitive pursuit against Yu Chu after Dou Xian's fall.
-- Repositioned Hanji 774 as the start of Ren's Western Regions misfit rather than his first appearance.
+- Added Hanji 763 as the earliest current Ren Shang layer: a successful Jinwei Mountain pursuit against the Northern Xiongnu chanyu.
+- Repositioned Hanji 767 as a second Northern Xiongnu remnant operation after Dou Xian's fall.
+- Preserved Hanji 774 as the start of Ren's Western Regions misfit rather than his first appearance.
 - Preserved Ren's later Qiang-front competence so the profile remains a role-fit and political-survival problem rather than a simple incompetence label.
 
 ## Relationships
 
-- [[YuChuNorthernXiongnu|俞厨]] - Northern Xiongnu remnant leader killed in Ren Shang's earliest current operation.
-- [[NorthernXiongnuLateHan|北匈奴]] - frontier field of the Yu Chu pursuit.
+- [[GengKuiLateHan|耿夔]] - paired commander in the Jinwei Mountain pursuit.
+- [[DouXianEasternHan|窦宪]] - wider campaign patron and commander whose Northern Xiongnu offensive frames Ren's earliest current role.
+- [[NorthernXiongnuLateHan|北匈奴]] - frontier opponent in both the Jinwei Mountain operation and the later Yu Chu pursuit.
+- [[YuChuNorthernXiongnu|俞厨]] - Northern Xiongnu remnant leader killed in Ren Shang's post-Dou operation.
 - [[EmperorHeOfHan|汉和帝]] - ruler who sends Ren Shang and Wang Fu against Yu Chu.
 - [[BanChaoEasternHan]] - predecessor whose handoff advice Ren Shang dismisses.
 - [[LightTouchFrontierGovernance]] - governing method Ren rejects before his Western Regions rule fails.

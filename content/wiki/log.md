@@ -13913,3 +13913,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-30] ingest | 《资治通鉴·汉纪》763丨改写历史！东汉窦宪破北匈奴之战
+
+Ingested the 2026-07-01 芮淇讲透资治通鉴 episode on Dou Xian's punishment-avoidance Northern Xiongnu campaign, Ban Chao's supply-line defeat of a Yuezhi attack, Southern Xiongnu's strike on the northern chanyu, Jiluoshan, Yanran commemoration, and the qualified migration-cascade prelude later developed in Hanji 764. Created the source note plus `JiluoshanBattleLateHan` and `YanranInscription`; updated `DouXianEasternHan`, `NorthernXiongnuLateHan`, `BanChaoEasternHan`, `Yuezhi`, `GengKuiLateHan`, `RenShangLateHan`, `TransEurasianMigrationCascade`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; the Northern-Xiongnu-to-Europe chain remains source-scoped and the European evidence is deferred to Hanji 764.
+
+## [2026-08-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
