@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 8424
+wiki_total_pages: 8435
 wiki_pages:
   - key: "BSpecials"
     title: "B Specials"
@@ -269,6 +269,9 @@ wiki_pages:
   - key: "BenjaminAlarie"
     title: "Benjamin Alarie"
     url: "/wiki/entities/benjaminalarie/"
+  - key: "BenjaminFranklin"
+    title: "Benjamin Franklin"
+    url: "/wiki/entities/benjaminfranklin/"
   - key: "BenjaminLarson"
     title: "Benjamin Larson"
     url: "/wiki/entities/benjaminlarson/"

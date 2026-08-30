@@ -1950,6 +1950,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/americanculturalexports/"
     },
+    "AmericanRevolution": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6013835340 [GLT6013835340].md",
+          "key": "684-franklin-revenge-of-the-american-genius-part-2-glt6013835340",
+          "show": "The Rest Is History",
+          "title": "684. Franklin: Revenge of the American Genius (Part 2)",
+          "url": "/wiki/sources/684-franklin-revenge-of-the-american-genius-part-2-glt6013835340/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/americanrevolution/"
+    },
     "AmnestyExploitationCrime": {
       "episode_count": 1,
       "show_count": 1,
@@ -3512,6 +3528,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/beneficialgovernancedelivery/"
+    },
+    "BenjaminFranklin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6013835340 [GLT6013835340].md",
+          "key": "684-franklin-revenge-of-the-american-genius-part-2-glt6013835340",
+          "show": "The Rest Is History",
+          "title": "684. Franklin: Revenge of the American Genius (Part 2)",
+          "url": "/wiki/sources/684-franklin-revenge-of-the-american-genius-part-2-glt6013835340/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/benjaminfranklin/"
     },
     "BerntBornich": {
       "episode_count": 1,
@@ -6259,6 +6291,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/cognitiveresilience/"
     },
+    "ColonialLoyaltyRupture": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6013835340 [GLT6013835340].md",
+          "key": "684-franklin-revenge-of-the-american-genius-part-2-glt6013835340",
+          "show": "The Rest Is History",
+          "title": "684. Franklin: Revenge of the American Genius (Part 2)",
+          "url": "/wiki/sources/684-franklin-revenge-of-the-american-genius-part-2-glt6013835340/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/colonialloyaltyrupture/"
+    },
     "CommandContinuityDamageControl": {
       "episode_count": 2,
       "show_count": 1,
@@ -6585,6 +6633,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/contextdependentbiomedicalinterventions/"
+    },
+    "ContinentalCongress": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6013835340 [GLT6013835340].md",
+          "key": "684-franklin-revenge-of-the-american-genius-part-2-glt6013835340",
+          "show": "The Rest Is History",
+          "title": "684. Franklin: Revenge of the American Genius (Part 2)",
+          "url": "/wiki/sources/684-franklin-revenge-of-the-american-genius-part-2-glt6013835340/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/continentalcongress/"
     },
     "ContinuousGlucoseMonitoring": {
       "episode_count": 2,
@@ -7718,6 +7782,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/davidanderson/"
     },
+    "DavidHume": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6013835340 [GLT6013835340].md",
+          "key": "684-franklin-revenge-of-the-american-genius-part-2-glt6013835340",
+          "show": "The Rest Is History",
+          "title": "684. Franklin: Revenge of the American Genius (Part 2)",
+          "url": "/wiki/sources/684-franklin-revenge-of-the-american-genius-part-2-glt6013835340/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/davidhume/"
+    },
     "DaymondJohn": {
       "episode_count": 1,
       "show_count": 1,
@@ -7818,9 +7898,9 @@
       "url": "/wiki/concepts/deceptivesurrenderlull/"
     },
     "DeclarationOfIndependence": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6535571769 [GLT6535571769].md",
@@ -7828,9 +7908,16 @@
           "show": "The Rest Is History",
           "title": "686. Jefferson: The Betrayal of Liberty (Part 4)",
           "url": "/wiki/sources/686-jefferson-the-betrayal-of-liberty-part-4-glt6535571769/"
+        },
+        {
+          "episode_file": "GLT6013835340 [GLT6013835340].md",
+          "key": "684-franklin-revenge-of-the-american-genius-part-2-glt6013835340",
+          "show": "The Rest Is History",
+          "title": "684. Franklin: Revenge of the American Genius (Part 2)",
+          "url": "/wiki/sources/684-franklin-revenge-of-the-american-genius-part-2-glt6013835340/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-08-30",
       "url": "/wiki/entities/declarationofindependence/"
     },
     "DeepZ": {
@@ -8373,6 +8460,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/digitrobot/"
+    },
+    "DiplomaticPersonaAsStrategicAsset": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6013835340 [GLT6013835340].md",
+          "key": "684-franklin-revenge-of-the-american-genius-part-2-glt6013835340",
+          "show": "The Rest Is History",
+          "title": "684. Franklin: Revenge of the American Genius (Part 2)",
+          "url": "/wiki/sources/684-franklin-revenge-of-the-american-genius-part-2-glt6013835340/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/diplomaticpersonaasstrategicasset/"
     },
     "DirectRemonstranceCriminalization": {
       "episode_count": 5,
@@ -12516,6 +12619,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/foundingfatherreputationrevision/"
     },
+    "FoundingLibertySlaverySelfCorrection": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6013835340 [GLT6013835340].md",
+          "key": "684-franklin-revenge-of-the-american-genius-part-2-glt6013835340",
+          "show": "The Rest Is History",
+          "title": "684. Franklin: Revenge of the American Genius (Part 2)",
+          "url": "/wiki/sources/684-franklin-revenge-of-the-american-genius-part-2-glt6013835340/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/foundinglibertyslaveryselfcorrection/"
+    },
     "FrancisWalsingham": {
       "episode_count": 6,
       "show_count": 1,
@@ -12566,6 +12685,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/franciswalsingham/"
+    },
+    "FrancoAmericanAlliance1778": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6013835340 [GLT6013835340].md",
+          "key": "684-franklin-revenge-of-the-american-genius-part-2-glt6013835340",
+          "show": "The Rest Is History",
+          "title": "684. Franklin: Revenge of the American Genius (Part 2)",
+          "url": "/wiki/sources/684-franklin-revenge-of-the-american-genius-part-2-glt6013835340/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/francoamericanalliance1778/"
     },
     "FranzFerdinand": {
       "episode_count": 1,
@@ -13271,6 +13406,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/georgvonschonerer/"
+    },
+    "GeorgeIII": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6013835340 [GLT6013835340].md",
+          "key": "684-franklin-revenge-of-the-american-genius-part-2-glt6013835340",
+          "show": "The Rest Is History",
+          "title": "684. Franklin: Revenge of the American Genius (Part 2)",
+          "url": "/wiki/sources/684-franklin-revenge-of-the-american-genius-part-2-glt6013835340/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/georgeiii/"
     },
     "GeorgeWhitman": {
       "episode_count": 1,
@@ -17876,6 +18027,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/johannloschek/"
+    },
+    "JohnAdams": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6013835340 [GLT6013835340].md",
+          "key": "684-franklin-revenge-of-the-american-genius-part-2-glt6013835340",
+          "show": "The Rest Is History",
+          "title": "684. Franklin: Revenge of the American Genius (Part 2)",
+          "url": "/wiki/sources/684-franklin-revenge-of-the-american-genius-part-2-glt6013835340/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/johnadams/"
     },
     "JohnCade": {
       "episode_count": 1,
@@ -27286,6 +27453,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/punitivehairremovalhumiliation/"
     },
+    "PuritanEnlightenmentPracticalEthic": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6013835340 [GLT6013835340].md",
+          "key": "684-franklin-revenge-of-the-american-genius-part-2-glt6013835340",
+          "show": "The Rest Is History",
+          "title": "684. Franklin: Revenge of the American Genius (Part 2)",
+          "url": "/wiki/sources/684-franklin-revenge-of-the-american-genius-part-2-glt6013835340/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/puritanenlightenmentpracticalethic/"
+    },
     "QLoRA": {
       "episode_count": 1,
       "show_count": 1,
@@ -28870,6 +29053,29 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/royalfiefdiscipline/"
     },
+    "RoyalSociety": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "26.牛顿与伪币制造者：可能是斯内普的原型？ [580065317].md",
+          "key": "26-niudun-yu-weibi-zhizaozhe-keneng-shi-sineipu-de-yuanxing-580065317",
+          "show": "蜜獾吃书",
+          "title": "26.牛顿与伪币制造者：可能是斯内普的原型？",
+          "url": "/wiki/sources/26-niudun-yu-weibi-zhizaozhe-keneng-shi-sineipu-de-yuanxing-580065317/"
+        },
+        {
+          "episode_file": "GLT6013835340 [GLT6013835340].md",
+          "key": "684-franklin-revenge-of-the-american-genius-part-2-glt6013835340",
+          "show": "The Rest Is History",
+          "title": "684. Franklin: Revenge of the American Genius (Part 2)",
+          "url": "/wiki/sources/684-franklin-revenge-of-the-american-genius-part-2-glt6013835340/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/royalsociety/"
+    },
     "RoyalUsurpationSpeechTaboo": {
       "episode_count": 1,
       "show_count": 1,
@@ -29066,6 +29272,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/samharris/"
+    },
+    "SamuelJohnson": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6013835340 [GLT6013835340].md",
+          "key": "684-franklin-revenge-of-the-american-genius-part-2-glt6013835340",
+          "show": "The Rest Is History",
+          "title": "684. Franklin: Revenge of the American Genius (Part 2)",
+          "url": "/wiki/sources/684-franklin-revenge-of-the-american-genius-part-2-glt6013835340/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/samueljohnson/"
     },
     "Sanguozhi": {
       "episode_count": 2,
@@ -32881,9 +33103,9 @@
       "url": "/wiki/entities/theodyssey/"
     },
     "TheRestIsHistory": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 1,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "GLT4665799025 [GLT4665799025].md",
@@ -32968,9 +33190,16 @@
           "show": "The Rest Is History",
           "title": "687. The Odyssey: Hero of the Trojan Horse (Part 1)",
           "url": "/wiki/sources/687-the-odyssey-hero-of-the-trojan-horse-part-1-glt2393125423/"
+        },
+        {
+          "episode_file": "GLT6013835340 [GLT6013835340].md",
+          "key": "684-franklin-revenge-of-the-american-genius-part-2-glt6013835340",
+          "show": "The Rest Is History",
+          "title": "684. Franklin: Revenge of the American Genius (Part 2)",
+          "url": "/wiki/sources/684-franklin-revenge-of-the-american-genius-part-2-glt6013835340/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-08-30",
       "url": "/wiki/entities/therestishistory/"
     },
     "TheTroubles": {
@@ -33025,6 +33254,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/thomashowarddukeofnorfolk/"
+    },
+    "ThomasHutchinson": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6013835340 [GLT6013835340].md",
+          "key": "684-franklin-revenge-of-the-american-genius-part-2-glt6013835340",
+          "show": "The Rest Is History",
+          "title": "684. Franklin: Revenge of the American Genius (Part 2)",
+          "url": "/wiki/sources/684-franklin-revenge-of-the-american-genius-part-2-glt6013835340/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/thomashutchinson/"
     },
     "ThomasJefferson": {
       "episode_count": 1,
@@ -33615,6 +33860,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/treasurybuybackpolicy/"
+    },
+    "TreatyOfParis1783": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6013835340 [GLT6013835340].md",
+          "key": "684-franklin-revenge-of-the-american-genius-part-2-glt6013835340",
+          "show": "The Rest Is History",
+          "title": "684. Franklin: Revenge of the American Genius (Part 2)",
+          "url": "/wiki/sources/684-franklin-revenge-of-the-american-genius-part-2-glt6013835340/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/treatyofparis1783/"
     },
     "TrojanHorse": {
       "episode_count": 1,
@@ -35496,6 +35757,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/williamcecil/"
+    },
+    "WilliamFranklin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6013835340 [GLT6013835340].md",
+          "key": "684-franklin-revenge-of-the-american-genius-part-2-glt6013835340",
+          "show": "The Rest Is History",
+          "title": "684. Franklin: Revenge of the American Genius (Part 2)",
+          "url": "/wiki/sources/684-franklin-revenge-of-the-american-genius-part-2-glt6013835340/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/williamfranklin/"
     },
     "WillieWhitelaw": {
       "episode_count": 1,

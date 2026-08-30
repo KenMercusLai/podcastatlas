@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [684. Franklin: Revenge of the American Genius (Part 2)](sources/684-franklin-revenge-of-the-american-genius-part-2-glt6013835340.md) — The Rest Is History episode on Benjamin Franklin's self-made career, science, British loyalty rupture, French diplomacy, founding documents, and late abolitionist turn.
 - [《资治通鉴·汉纪》767丨聪明人，都擅长“演戏”](sources/zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq.md) — 芮淇讲透资治通鉴 episode on Li He's delayed gift mission after Dou Xian's fall, Liu Qing's cautious favor, Zheng Zhong's trusted eunuch-power opening, Deng Xun's posthumous frontier legitimacy, Nie Shang's failed conciliation of Mi Tang, and Xianbei expansion after Northern Xiongnu collapse.
 - [《资治通鉴·汉纪》768丨历史告诉你：嫉妒是杀心！](sources/zizhi-tongjian-hanji-768-lishi-gaosu-ni-jidu-shi-shaxin-lgk8qoxvs5ax8oikgecrxqvispna.md) — 芮淇讲透资治通鉴 episode on Emperor He abandoning Cao Bao's Han rites under Zhang Pu pressure, Liang King Liu Chang's usurpation-taboo speech, Guan You splitting Qiang alliances against Mi Tang, and An Guo's jealous plot against Shizi in the Southern Xiongnu.
 - [《资治通鉴·汉纪》769丨公务员该怎么考？古人告诉你](sources/zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i.md) — 芮淇讲透资治通鉴 episode on 94-96 CE Emperor He, Ban Chao's Yanqi campaign, Southern Xiongnu rebellion and false reporting, Chen Chong's tingwei appointment, Huang Xiang's Shangshu-retention case, and power-center proximity advantage.
@@ -1740,6 +1741,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Benjamin Franklin](entities/BenjaminFranklin.md) — Founding-era printer, scientist, diplomat, and revolutionary whose public persona helped secure French support while his slavery record remains morally qualified.
+- [William Franklin](entities/WilliamFranklin.md) — Benjamin Franklin's loyalist son and New Jersey governor, used by the source to make colonial rupture personal.
+- [Thomas Hutchinson](entities/ThomasHutchinson.md) — Massachusetts governor whose letters about colonial liberties became a catalyst in Franklin's break with Britain.
+- [Samuel Johnson](entities/SamuelJohnson.md) — British critic used by the Franklin source to expose slaveholding Americans' liberty contradiction.
+- [David Hume](entities/DavidHume.md) — Scottish Enlightenment figure whose praise marks Franklin's European intellectual reputation.
+- [George III](entities/GeorgeIII.md) — British monarch Franklin admired before turning against British rule.
+- [John Adams](entities/JohnAdams.md) — Founding-era foil whose criticism of Franklin's French social diplomacy clarifies Franklin's effectiveness.
+- [Continental Congress](entities/ContinentalCongress.md) — Revolutionary institution where Franklin served as delegate and Declaration committee member.
+- [American Revolution](entities/AmericanRevolution.md) — Colonial break with Britain presented through Franklin's loyalty rupture, founding work, and French diplomacy.
+- [Franco-American Alliance of 1778](entities/FrancoAmericanAlliance1778.md) — French military and financial support relationship that Franklin's mission helped secure.
+- [Treaty of Paris (1783)](entities/TreatyOfParis1783.md) — Peace treaty with Britain recognizing American independence and completing Franklin's diplomatic sequence.
 - [曹褒 / Cao Bao (Eastern Han ritualist)](entities/CaoBaoEasternHan.md) — Eastern Han ritual specialist whose Han-rites project was used by Emperor He and then abandoned after Zhang Pu and Zhang Min's repeated opposition.
 - [梁王刘畅 / Liu Chang (King of Liang)](entities/LiuChangLiangKing.md) — Eastern Han prince whose retainer's emperor-making speech triggered a limited territorial penalty and a usurpation-taboo case.
 - [贯友 / Guan You (late Han)](entities/GuanYouLateHan.md) — Protector of the Qiang who split Mi Tang's coalition with envoys, interpreters, and money before attacking and consolidating the Yu valley frontier.
@@ -10168,6 +10180,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Diplomatic Persona as Strategic Asset](concepts/DiplomaticPersonaAsStrategicAsset.md) — Pattern where reputation, costume, symbolism, and sociability become part of diplomatic leverage.
+- [Puritan-Enlightenment Practical Ethic](concepts/PuritanEnlightenmentPracticalEthic.md) — Franklin pattern joining inherited discipline, moral improvement, wit, and useful experiment.
+- [Colonial Loyalty Rupture](concepts/ColonialLoyaltyRupture.md) — Process by which loyal British imperial identity becomes independence politics under cumulative pressure.
+- [Founding Liberty-Slavery Self-Correction](concepts/FoundingLibertySlaverySelfCorrection.md) — Franklin-centered pattern where late abolitionist revision matters without erasing earlier slaveholding.
 - [Weak Authority Leadership / 弱势领导威信](concepts/WeakAuthorityLeadership.md) — Leadership failure pattern where nominal authority cannot defend useful work, reward competence, or punish obstruction strongly enough to make hierarchy operational.
 - [Royal Usurpation Speech Taboo / 宗室帝位言说禁忌](concepts/RoyalUsurpationSpeechTaboo.md) — Political sensitivity around royal kin speaking, praying, or being flattered as future emperors even without open rebellion.
 - [Jealousy as Political Violence / 嫉妒转化为政治杀机](concepts/JealousyAsPoliticalViolence.md) — Pattern where status anxiety turns another person's ability or popularity into a perceived survival threat and then into attempted elimination.

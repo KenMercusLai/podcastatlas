@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 5999
+wiki_total_pages: 6003
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -950,6 +950,9 @@ wiki_pages:
   - key: "ColocationDataCenter"
     title: "Colocation Data Center"
     url: "/wiki/concepts/colocationdatacenter/"
+  - key: "ColonialLoyaltyRupture"
+    title: "Colonial Loyalty Rupture"
+    url: "/wiki/concepts/colonialloyaltyrupture/"
   - key: "ColonialTemporalDiscipline"
     title: "Colonial Temporal Discipline"
     url: "/wiki/concepts/colonialtemporaldiscipline/"

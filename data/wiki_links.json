@@ -1063,6 +1063,10 @@
     "title": "68.疯狂实验史：哎！这该死的求知欲…",
     "url": "/wiki/sources/68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549/"
   },
+  "684-franklin-revenge-of-the-american-genius-part-2-glt6013835340": {
+    "title": "684. Franklin: Revenge of the American Genius (Part 2)",
+    "url": "/wiki/sources/684-franklin-revenge-of-the-american-genius-part-2-glt6013835340/"
+  },
   "685-hamilton-duel-to-the-death-part-3-glt9231431046": {
     "title": "685. Hamilton: Duel to the Death (Part 3)",
     "url": "/wiki/sources/685-hamilton-duel-to-the-death-part-3-glt9231431046/"
@@ -4211,6 +4215,10 @@
     "title": "American Public Media",
     "url": "/wiki/entities/americanpublicmedia/"
   },
+  "AmericanRevolution": {
+    "title": "American Revolution",
+    "url": "/wiki/entities/americanrevolution/"
+  },
   "AmericanSocietyOfTravelAdvisers": {
     "title": "American Society of Travel Advisers",
     "url": "/wiki/entities/americansocietyoftraveladvisers/"
@@ -6634,6 +6642,10 @@
   "BenjaminAlarie": {
     "title": "Benjamin Alarie",
     "url": "/wiki/entities/benjaminalarie/"
+  },
+  "BenjaminFranklin": {
+    "title": "Benjamin Franklin",
+    "url": "/wiki/entities/benjaminfranklin/"
   },
   "BenjaminLarson": {
     "title": "Benjamin Larson",
@@ -11399,6 +11411,10 @@
     "title": "Colombia",
     "url": "/wiki/entities/colombia/"
   },
+  "ColonialLoyaltyRupture": {
+    "title": "Colonial Loyalty Rupture",
+    "url": "/wiki/concepts/colonialloyaltyrupture/"
+  },
   "ColonialTemporalDiscipline": {
     "title": "Colonial Temporal Discipline",
     "url": "/wiki/concepts/colonialtemporaldiscipline/"
@@ -11982,6 +11998,10 @@
   "ContextFlywheel": {
     "title": "Context Flywheel",
     "url": "/wiki/concepts/contextflywheel/"
+  },
+  "ContinentalCongress": {
+    "title": "Continental Congress",
+    "url": "/wiki/entities/continentalcongress/"
   },
   "ContingentAgreement": {
     "title": "Contingent Agreement / 权变协议",
@@ -13619,6 +13639,10 @@
     "title": "David Horowitz",
     "url": "/wiki/entities/davidhorowitz/"
   },
+  "DavidHume": {
+    "title": "David Hume",
+    "url": "/wiki/entities/davidhume/"
+  },
   "DavidKirkpatrick": {
     "title": "David Kirkpatrick",
     "url": "/wiki/entities/davidkirkpatrick/"
@@ -14518,6 +14542,10 @@
   "Dionysus": {
     "title": "Dionysus / 狄俄尼索斯",
     "url": "/wiki/entities/dionysus/"
+  },
+  "DiplomaticPersonaAsStrategicAsset": {
+    "title": "Diplomatic Persona as Strategic Asset",
+    "url": "/wiki/concepts/diplomaticpersonaasstrategicasset/"
   },
   "Dipsig": {
     "title": "Dipsig",
@@ -19271,6 +19299,10 @@
     "title": "Founding Father Reputation Revision",
     "url": "/wiki/concepts/foundingfatherreputationrevision/"
   },
+  "FoundingLibertySlaverySelfCorrection": {
+    "title": "Founding Liberty-Slavery Self-Correction",
+    "url": "/wiki/concepts/foundinglibertyslaveryselfcorrection/"
+  },
   "FoundingMeritHierarchy": {
     "title": "建国功臣排序 / Founding Merit Hierarchy",
     "url": "/wiki/concepts/foundingmerithierarchy/"
@@ -19370,6 +19402,10 @@
   "FrancisWalsingham": {
     "title": "Francis Walsingham",
     "url": "/wiki/entities/franciswalsingham/"
+  },
+  "FrancoAmericanAlliance1778": {
+    "title": "Franco-American Alliance of 1778",
+    "url": "/wiki/entities/francoamericanalliance1778/"
   },
   "FrancoisDukeOfAnjou": {
     "title": "Francois, Duke of Anjou",
@@ -20566,6 +20602,10 @@
   "GeorgeHalas": {
     "title": "George Halas",
     "url": "/wiki/entities/georgehalas/"
+  },
+  "GeorgeIII": {
+    "title": "George III",
+    "url": "/wiki/entities/georgeiii/"
   },
   "GeorgeKurtz": {
     "title": "George Kurtz",
@@ -27082,6 +27122,10 @@
   "JohannLoschek": {
     "title": "Johann Loschek",
     "url": "/wiki/entities/johannloschek/"
+  },
+  "JohnAdams": {
+    "title": "John Adams",
+    "url": "/wiki/entities/johnadams/"
   },
   "JohnBogle": {
     "title": "John Bogle",
@@ -40931,6 +40975,10 @@
     "title": "Pure Rationality Trap",
     "url": "/wiki/concepts/purerationalitytrap/"
   },
+  "PuritanEnlightenmentPracticalEthic": {
+    "title": "Puritan-Enlightenment Practical Ethic",
+    "url": "/wiki/concepts/puritanenlightenmentpracticalethic/"
+  },
   "PurposeDrivenBusiness": {
     "title": "Purpose Driven Business",
     "url": "/wiki/concepts/purposedrivenbusiness/"
@@ -44130,6 +44178,10 @@
   "SamuelBretton": {
     "title": "Samuel Bretton",
     "url": "/wiki/entities/samuelbretton/"
+  },
+  "SamuelJohnson": {
+    "title": "Samuel Johnson",
+    "url": "/wiki/entities/samueljohnson/"
   },
   "SamuelMoyn": {
     "title": "Samuel Moyn",
@@ -50179,6 +50231,10 @@
     "title": "Thomas Howard / Duke of Norfolk",
     "url": "/wiki/entities/thomashowarddukeofnorfolk/"
   },
+  "ThomasHutchinson": {
+    "title": "Thomas Hutchinson",
+    "url": "/wiki/entities/thomashutchinson/"
+  },
   "ThomasJWatson": {
     "title": "Thomas J. Watson / 托马斯·沃森",
     "url": "/wiki/entities/thomasjwatson/"
@@ -51130,6 +51186,10 @@
   "TreatyOfNonsuch": {
     "title": "Treaty of Nonsuch",
     "url": "/wiki/entities/treatyofnonsuch/"
+  },
+  "TreatyOfParis1783": {
+    "title": "Treaty of Paris (1783)",
+    "url": "/wiki/entities/treatyofparis1783/"
   },
   "TreeProtectionOrdinances": {
     "title": "Tree Protection Ordinances",
@@ -54142,6 +54202,10 @@
   "WilliamDurant": {
     "title": "William Durant / 威廉·杜兰特",
     "url": "/wiki/entities/williamdurant/"
+  },
+  "WilliamFranklin": {
+    "title": "William Franklin",
+    "url": "/wiki/entities/williamfranklin/"
   },
   "WilliamGodwin": {
     "title": "William Godwin / 威廉·戈德温",

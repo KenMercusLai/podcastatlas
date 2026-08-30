@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2302
+topic_total_pages: 2303
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -3980,6 +3980,9 @@ topic_entities:
   - key: "SamuelBeckett"
     title: "Samuel Beckett"
     url: "/wiki/entities/samuelbeckett/"
+  - key: "SamuelJohnson"
+    title: "Samuel Johnson"
+    url: "/wiki/entities/samueljohnson/"
   - key: "SandyDininger"
     title: "Sandy Dininger"
     url: "/wiki/entities/sandydininger/"

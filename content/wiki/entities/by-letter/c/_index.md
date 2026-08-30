@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 8424
+wiki_total_pages: 8435
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -980,6 +980,9 @@ wiki_pages:
   - key: "ConsumerReports"
     title: "Consumer Reports"
     url: "/wiki/entities/consumerreports/"
+  - key: "ContinentalCongress"
+    title: "Continental Congress"
+    url: "/wiki/entities/continentalcongress/"
   - key: "ConvectiveCapital"
     title: "Convective Capital"
     url: "/wiki/entities/convectivecapital/"

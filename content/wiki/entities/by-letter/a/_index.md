@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 8424
+wiki_total_pages: 8435
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -716,6 +716,9 @@ wiki_pages:
   - key: "AmericanPublicMedia"
     title: "American Public Media"
     url: "/wiki/entities/americanpublicmedia/"
+  - key: "AmericanRevolution"
+    title: "American Revolution"
+    url: "/wiki/entities/americanrevolution/"
   - key: "AmericanSocietyOfTravelAdvisers"
     title: "American Society of Travel Advisers"
     url: "/wiki/entities/americansocietyoftraveladvisers/"

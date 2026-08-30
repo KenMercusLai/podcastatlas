@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 8424
+wiki_total_pages: 8435
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -110,6 +110,9 @@ wiki_pages:
   - key: "SamuelBretton"
     title: "Samuel Bretton"
     url: "/wiki/entities/samuelbretton/"
+  - key: "SamuelJohnson"
+    title: "Samuel Johnson"
+    url: "/wiki/entities/samueljohnson/"
   - key: "SamuelMoyn"
     title: "Samuel Moyn"
     url: "/wiki/entities/samuelmoyn/"

@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1508
+topic_total_pages: 1509
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -3696,6 +3696,9 @@ topic_sources:
   - key: "65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922"
     title: "65.龙王之怒：1931年的长江洪水"
     url: "/wiki/sources/65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922/"
+  - key: "684-franklin-revenge-of-the-american-genius-part-2-glt6013835340"
+    title: "684. Franklin: Revenge of the American Genius (Part 2)"
+    url: "/wiki/sources/684-franklin-revenge-of-the-american-genius-part-2-glt6013835340/"
   - key: "685-hamilton-duel-to-the-death-part-3-glt9231431046"
     title: "685. Hamilton: Duel to the Death (Part 3)"
     url: "/wiki/sources/685-hamilton-duel-to-the-death-part-3-glt9231431046/"

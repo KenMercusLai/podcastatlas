@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 8424
+wiki_total_pages: 8435
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -449,6 +449,9 @@ wiki_pages:
   - key: "ThomasHowardDukeOfNorfolk"
     title: "Thomas Howard / Duke of Norfolk"
     url: "/wiki/entities/thomashowarddukeofnorfolk/"
+  - key: "ThomasHutchinson"
+    title: "Thomas Hutchinson"
+    url: "/wiki/entities/thomashutchinson/"
   - key: "ThomasJWatson"
     title: "Thomas J. Watson / 托马斯·沃森"
     url: "/wiki/entities/thomasjwatson/"
@@ -749,6 +752,9 @@ wiki_pages:
   - key: "TreatyOfNonsuch"
     title: "Treaty of Nonsuch"
     url: "/wiki/entities/treatyofnonsuch/"
+  - key: "TreatyOfParis1783"
+    title: "Treaty of Paris (1783)"
+    url: "/wiki/entities/treatyofparis1783/"
   - key: "TressLondon"
     title: "Tress London"
     url: "/wiki/entities/tresslondon/"

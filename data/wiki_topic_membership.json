@@ -1647,6 +1647,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "684-franklin-revenge-of-the-american-genius-part-2-glt6013835340": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "685-hamilton-duel-to-the-death-part-3-glt9231431046": [
     {
       "key": "history",
@@ -6500,6 +6512,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "AmericanRevolution": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "AmericanSportsCapitalInEuropeanFootball": [
     {
       "key": "economics",
@@ -9429,6 +9448,18 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "BenjaminFranklin": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "BenjaminLarson": [
@@ -17996,6 +18027,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "DiplomaticPersonaAsStrategicAsset": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "Dipsig": [
     {
       "key": "technology",
@@ -23386,6 +23424,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "FrancoAmericanAlliance1778": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "FrancoisDukeOfAnjou": [
@@ -32093,6 +32138,13 @@
     }
   ],
   "JohannJakobBachofen": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "JohnAdams": [
     {
       "key": "politics",
       "label": "Politics",
@@ -50587,6 +50639,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "SamuelJohnson": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "SamuelMoyn": [
     {
       "key": "politics",
@@ -58255,6 +58319,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "ThomasHutchinson": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "ThomasJWatson": [
     {
       "key": "economics",
@@ -59371,6 +59442,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "TreatyOfParis1783": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "TrendFollowing": [

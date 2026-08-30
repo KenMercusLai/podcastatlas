@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 847
+topic_total_pages: 848
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1556,6 +1556,9 @@ topic_entities:
   - key: "BenStapleton"
     title: "Ben Stapleton"
     url: "/wiki/entities/benstapleton/"
+  - key: "BenjaminFranklin"
+    title: "Benjamin Franklin"
+    url: "/wiki/entities/benjaminfranklin/"
   - key: "BenjaminLibet"
     title: "Benjamin Libet / 利比特"
     url: "/wiki/entities/benjaminlibet/"

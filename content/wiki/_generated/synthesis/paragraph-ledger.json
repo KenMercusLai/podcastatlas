@@ -405,12 +405,13 @@
       "f44e5469f37f332e8fdbac6a5ae1a2c4a5935bfc6ab6eaaf3380385fb8cb290a",
       "0944897fad2beac2f301b796bb694027832267e2eb18cd26f5a96047fddc2fde",
       "0da08e278be0f9698cd22a27d657f9c77e0ffadee5aa5a02f7e114b61da05682",
-      "783b85daf8e28c79ebd7838b98cbae32cc3b283841103fa74a279782510e1ecf"
+      "783b85daf8e28c79ebd7838b98cbae32cc3b283841103fa74a279782510e1ecf",
+      "2f2ccba72e3ff27853c9c5e7edd9f718fa9dd0a3c9c92731bc7ee6f0b1047bd7"
     ],
-    "paragraph_count": 405
+    "paragraph_count": 406
   },
-  "overview_commit": "09178896eedac2d58454aebbe403df7aecc67356",
-  "overview_digest": "69a71985aac01a439875774a93c481fc77791dbde00c76b92e58c2c42118e7a2",
+  "overview_commit": "ebf6397bad5e6d5419996c9e83a3f8dbe924322a",
+  "overview_digest": "3ed5e376ab1ef193edbb9e0ebbc4c965c0ad9916ec097c4f88164505650df084",
   "paragraphs": [
     {
       "id": "0b2c8997f5dbfea22e48e434976328c9229ce4d1040b99d76580ca3cc56f14dd",
@@ -12500,6 +12501,40 @@
         "MedicalRiskManagement",
         "SustainableHealthOptimization",
         "essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415"
+      ]
+    },
+    {
+      "id": "2f2ccba72e3ff27853c9c5e7edd9f718fa9dd0a3c9c92731bc7ee6f0b1047bd7",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[684-franklin-revenge-of-the-american-genius-part-2-glt6013835340|684. Franklin: Revenge of the American Genius (Part 2)]], a [[TheRestIsHistory]] episode centering [[BenjaminFranklin|Benjamin Franklin]] as printer, scientist, diplomat, and mutable founder. It adds [[BenjaminFranklin]], [[WilliamFranklin]], [[ThomasHutchinson]], [[SamuelJohnson]], [[DavidHume]], [[GeorgeIII]], [[JohnAdams]], [[ContinentalCongress]], [[AmericanRevolution]], [[FrancoAmericanAlliance1778]], [[TreatyOfParis1783]], [[DiplomaticPersonaAsStrategicAsset]], [[PuritanEnlightenmentPracticalEthic]], [[ColonialLoyaltyRupture]], and [[FoundingLibertySlaverySelfCorrection]], while updating [[DeclarationOfIndependence]], [[RoyalSociety]], and [[TheRestIsHistory]]. Its core synthesis is that Franklin's historical effect came from a rare combination of self-made Puritan discipline, Enlightenment experiment, British loyalty rupture, public persona, and pragmatic diplomacy: his fame and performed simplicity helped make French support for American independence plausible, while his slaveholding and late abolitionist turn keep moral self-correction separate from absolution. No settled contradiction is recorded; the episode complements the Hamilton and Jefferson founding branch by adding the diplomatic and scientific route through which American independence became internationally viable.",
+      "topic_scores": {
+        "business-and-markets": 1,
+        "history-and-geopolitics": 2,
+        "psychology-and-personal-development": 1,
+        "science-health-and-climate": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "684-franklin-revenge-of-the-american-genius-part-2-glt6013835340",
+        "AmericanRevolution",
+        "BenjaminFranklin",
+        "ColonialLoyaltyRupture",
+        "ContinentalCongress",
+        "DavidHume",
+        "DeclarationOfIndependence",
+        "DiplomaticPersonaAsStrategicAsset",
+        "FoundingLibertySlaverySelfCorrection",
+        "FrancoAmericanAlliance1778",
+        "GeorgeIII",
+        "JohnAdams",
+        "PuritanEnlightenmentPracticalEthic",
+        "RoyalSociety",
+        "SamuelJohnson",
+        "TheRestIsHistory",
+        "ThomasHutchinson",
+        "TreatyOfParis1783",
+        "WilliamFranklin"
       ]
     }
   ],

@@ -13678,6 +13678,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-30] ingest | 684. Franklin: Revenge of the American Genius (Part 2)
+
+Ingested the 2026-07-01 The Rest Is History episode on Benjamin Franklin's movement from Puritan self-making and British loyalty through science, the Hutchinson letters, the Continental Congress, French diplomacy, the Treaty of Paris, constitutional compromise, and late abolitionist self-correction. Created the source note plus `BenjaminFranklin`, `WilliamFranklin`, `ThomasHutchinson`, `SamuelJohnson`, `DavidHume`, `GeorgeIII`, `JohnAdams`, `ContinentalCongress`, `AmericanRevolution`, `FrancoAmericanAlliance1778`, `TreatyOfParis1783`, `DiplomaticPersonaAsStrategicAsset`, `PuritanEnlightenmentPracticalEthic`, `ColonialLoyaltyRupture`, and `FoundingLibertySlaverySelfCorrection`; updated `DeclarationOfIndependence`, `RoyalSociety`, `TheRestIsHistory`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; Franklin's late abolitionist turn qualifies the founding liberty-slavery branch without erasing his earlier slaveholding or 1770 pro-slavery defense.
+
 ## [2026-08-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -13881,3 +13885,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-30] lint | Wiki health check
+
+Ran health, identity validation, and lint. Health scanned 16,172 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest` without a provider-qualified model/key in this shell. Report returned in-session; `wiki/lint-report.md` was not updated.
