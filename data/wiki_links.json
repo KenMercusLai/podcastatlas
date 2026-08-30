@@ -19679,6 +19679,10 @@
     "title": "边疆代理承诺绑定 / Frontier Proxy Commitment Binding",
     "url": "/wiki/concepts/frontierproxycommitmentbinding/"
   },
+  "FrontierRecognitionCredibilityTradeoff": {
+    "title": "边疆册封信用权衡 / Frontier Recognition Credibility Tradeoff",
+    "url": "/wiki/concepts/frontierrecognitioncredibilitytradeoff/"
+  },
   "FrontierResourceIntegration": {
     "title": "边疆资源整合治理 / Frontier Resource Integration",
     "url": "/wiki/concepts/frontierresourceintegration/"
@@ -56848,7 +56852,7 @@
     "url": "/wiki/entities/yuchengdong/"
   },
   "YuChuNorthernXiongnu": {
-    "title": "俞厨 / Yu Chu (Northern Xiongnu)",
+    "title": "于除 / 俞厨 / Yu Chu (Northern Xiongnu)",
     "url": "/wiki/entities/yuchunorthernxiongnu/"
   },
   "YuDuLateHan": {
@@ -62914,6 +62918,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-765-donghan-fengyun-nengchen-nengbuneng-gandiao-bahu-waiqi-ltnvdqnyofuelaklssbquguwivan": {
+    "title": "《资治通鉴·汉纪》765丨东汉风云：能臣能不能干掉跋扈外戚？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-765-donghan-fengyun-nengchen-nengbuneng-gandiao-bahu-waiqi-ltnvdqnyofuelaklssbquguwivan/"
   },
   "zizhi-tongjian-hanji-766-lishi-jiaogei-ni-weishenme-yao-guyi-fa-piqi-lrs-mguyfmnxe970hdwjvmevl8oc": {
     "title": "《资治通鉴·汉纪》766丨历史教给你：为什么要故意发脾气？",

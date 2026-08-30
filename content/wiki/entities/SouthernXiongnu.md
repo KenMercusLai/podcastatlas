@@ -18,16 +18,19 @@ sources:
   - zizhi-tongjian-hanji-784-donghan-diaoyu-zhifa-diyiren-yuxu-ls6zezfw2pvaytoo94igdscfwkpt
   - zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i
   - zizhi-tongjian-hanji-768-lishi-gaosu-ni-jidu-shi-shaxin-lgk8qoxvs5ax8oikgecrxqvispna
+  - zizhi-tongjian-hanji-765-donghan-fengyun-nengchen-nengbuneng-gandiao-bahu-waiqi-ltnvdqnyofuelaklssbquguwivan
 last_updated: 2026-08-30
 ---
 
 ## Overview
 
-南匈奴 / Southern Xiongnu is the late-Han frontier polity whose wiki profile now starts with a 93-94 CE Emperor-He-era An Guo-Shizi jealousy and complaint-channel crisis in Hanji 768, then continues through the Shizi-Fenghou rebellion and false-report aftermath in Hanji 769, an early Deng-regency surrender notice in Hanji 784, the 140 CE [[WusiSouthernXiongnu|Wusi]] and [[CheNiuChanyu|Che Niu]] revolt, the 158 CE [[CheerChanyu|Che'er]] surrender dispute, and the later Huzheng, Qiangqu, Yufuluo, Qubei, and Huchuquan branches. Across the current sources, Southern Xiongnu politics are repeatedly shaped by Han frontier command, chanyu legitimacy, requisition pressure, surrender terms, reporting integrity, jealousy, complaint-channel capture, and opportunistic movement through a collapsing central-plains order.
+南匈奴 / Southern Xiongnu is the frontier polity whose current wiki profile now begins as an older Han commitment in the Yu Chu recognition dispute: [[YuanAnEasternHan|Yuan An]] argues that the Southern Xiongnu line had served Han for more than forty years and should not be displaced or morally undercut by a new Northern Xiongnu client. The later chronological layers start with a 93-94 CE Emperor-He-era An Guo-Shizi jealousy and complaint-channel crisis in Hanji 768, then continue through the Shizi-Fenghou rebellion and false-report aftermath in Hanji 769, an early Deng-regency surrender notice in Hanji 784, the 140 CE [[WusiSouthernXiongnu|Wusi]] and [[CheNiuChanyu|Che Niu]] revolt, the 158 CE [[CheerChanyu|Che'er]] surrender dispute, and the later Huzheng, Qiangqu, Yufuluo, Qubei, and Huchuquan branches. Across the current sources, Southern Xiongnu politics are repeatedly shaped by Han frontier command, chanyu legitimacy, requisition pressure, surrender terms, reporting integrity, jealousy, complaint-channel capture, and opportunistic movement through a collapsing central-plains order.
 
 ## Current Profile
 
-Hanji 768 now supplies the earliest current layer. After the previous chanyu dies, [[AnGuoSouthernXiongnu|An Guo]] succeeds but envies [[ShiziChanyu|Shizi]], a brave and broadly respected heir-line figure trusted by the Han court and Southern Xiongnu people. [[HuangfuLengLateHan|Huangfu Leng]] protects Shizi by keeping him away from An Guo's court meetings, while [[DuChongProtectorOfXiongnu|Du Chong]] and An Guo fall into conflict. An Guo's complaint against Du Chong is intercepted, Du Chong and [[ZhuHuiHeEraLateHan|Zhu Hui]] countercharge An Guo with rebellion, and An Guo dies after failing to attack Shizi at Manbo.
+Hanji 765 now supplies the earliest current layer. Yuan An and [[RenKuiEasternHan|Ren Kui]] oppose [[DouXianEasternHan|Dou Xian]]'s proposal to recognize [[YuChuNorthernXiongnu|Yu Chu / 于除]] as Northern Xiongnu chanyu partly because Southern Xiongnu submission under Guangwu had been a contingent strategy for pressuring Northern Xiongnu, not a license to create a second durable client. Yuan's sealed memorial stresses that Southern Xiongnu leaders had served Han for more than forty years; if Han discarded or humiliated them after the northern desert was pacified, other frontier groups would read Han as faithless.
+
+Hanji 768 supplies the next chronological layer. After the previous chanyu dies, [[AnGuoSouthernXiongnu|An Guo]] succeeds but envies [[ShiziChanyu|Shizi]], a brave and broadly respected heir-line figure trusted by the Han court and Southern Xiongnu people. [[HuangfuLengLateHan|Huangfu Leng]] protects Shizi by keeping him away from An Guo's court meetings, while [[DuChongProtectorOfXiongnu|Du Chong]] and An Guo fall into conflict. An Guo's complaint against Du Chong is intercepted, Du Chong and [[ZhuHuiHeEraLateHan|Zhu Hui]] countercharge An Guo with rebellion, and An Guo dies after failing to attack Shizi at Manbo.
 
 Hanji 769 supplies the next current layer. After Shizi succeeds as chanyu, several hundred former Northern Xiongnu surrenderers attack him and are defeated by Wang Tian. The crisis then expands: fifteen tribes and more than two hundred thousand people rebel and force Fenghou, son of the previous chanyu Tuntuhe, into the chanyu position. [[EmperorHeOfHan|Emperor He]] sends [[DengHongHeEraLateHan|Deng Hong]] with Han troops, border forces, [[Wuhuan|Wuhuan]], and [[Xianbei|Xianbei]] contingents; the campaign defeats parts of the rebel force, but Fenghou escapes beyond the passes. The same source later records the court's execution of Zhu Hui and Du Chong for deception in the aftermath of the An Guo branch.
 
@@ -46,7 +49,7 @@ The later notes preserve Southern Xiongnu utility in emperor-escort and successi
 ## Key Characteristics
 
 - Frontier polity whose Han-facing order depends on chanyu legitimacy, submission terms, accurate reporting, and the credibility of court recognition.
-- Earliest current layer is now an Emperor-He-era An Guo-Shizi jealousy and complaint-channel crisis before the Shizi-Fenghou rebellion and false-report aftermath.
+- Earliest current layer is now the older Southern Xiongnu commitment used against Yu Chu's Northern Xiongnu recognition before the An Guo-Shizi crisis.
 - Partner and threat at the same time: Southern Xiongnu actors appear as submitted rulers, captors of transferred Han people, requisitioned auxiliaries, rebels, hostages, and campaign participants.
 - Recurrent succession field where Han commanders and court decisions can stabilize, override, or destabilize internal leadership.
 - Vulnerable to requisition, supply pressure, misinformation, complaint-channel capture, and unauthorized intervention by Han frontier commanders.
@@ -55,6 +58,8 @@ The later notes preserve Southern Xiongnu utility in emperor-escort and successi
 
 ## Evidence
 
+- Prior commitment benchmark: [[zizhi-tongjian-hanji-765-donghan-fengyun-nengchen-nengbuneng-gandiao-bahu-waiqi-ltnvdqnyofuelaklssbquguwivan|Hanji 765]] says Yuan An and Ren Kui cite Guangwu's Southern Xiongnu settlement as a contingent anti-Northern-Xiongnu strategy rather than a precedent for multiplying chanyu clients.
+- Credibility stakes: [[zizhi-tongjian-hanji-765-donghan-fengyun-nengchen-nengbuneng-gandiao-bahu-waiqi-ltnvdqnyofuelaklssbquguwivan|Hanji 765]] says Yuan An warns that abandoning a line that served Han for more than forty years would damage Han's frontier trustworthiness.
 - An Guo-Shizi prehistory: [[zizhi-tongjian-hanji-768-lishi-gaosu-ni-jidu-shi-shaxin-lgk8qoxvs5ax8oikgecrxqvispna|Hanji 768]] says An Guo succeeds as chanyu, envies Shizi, and aligns with surrendered Northern Xiongnu who hate Shizi.
 - Protection and access control: [[zizhi-tongjian-hanji-768-lishi-gaosu-ni-jidu-shi-shaxin-lgk8qoxvs5ax8oikgecrxqvispna|Hanji 768]] says Huangfu Leng protects Shizi by not sending him to An Guo's court meetings.
 - Complaint-channel escalation: [[zizhi-tongjian-hanji-768-lishi-gaosu-ni-jidu-shi-shaxin-lgk8qoxvs5ax8oikgecrxqvispna|Hanji 768]] says An Guo's complaint against Du Chong is intercepted and Du Chong and Zhu Hui countercharge An Guo with rebellion.
@@ -74,20 +79,25 @@ The later notes preserve Southern Xiongnu utility in emperor-escort and successi
 
 ## Qualifications
 
-This page remains bounded to the listed source notes and does not reconstruct a full Southern Xiongnu history. Hanji 768 gives the earliest current An Guo-Shizi prehistory; Hanji 769 gives the next succession rebellion, Deng Hong campaign, and false-report aftermath; Hanji 784 then gives a brief early surrender and captive-return notice, while Hanji 820 remains the first fuller Southern Xiongnu revolt-and-recognition sequence after those backfilled layers. Hanji 903's succession notice stays at group level because the source does not resolve its named-chanyu identity against the later Huzheng-Qiangqu-Yufuluo branch. Hanji 784, Hanji 820, Hanji 769, and Hanji 768 appear late in the frontmatter evidence list because the list preserves source-ingest order, not chronology.
+This page remains bounded to the listed source notes and does not reconstruct a full Southern Xiongnu history. Hanji 765 gives the earliest current commitment-and-credibility layer; Hanji 768 gives the next An Guo-Shizi prehistory; Hanji 769 gives the next succession rebellion, Deng Hong campaign, and false-report aftermath; Hanji 784 then gives a brief early surrender and captive-return notice, while Hanji 820 remains the first fuller Southern Xiongnu revolt-and-recognition sequence after those backfilled layers. Hanji 903's succession notice stays at group level because the source does not resolve its named-chanyu identity against the later Huzheng-Qiangqu-Yufuluo branch. Hanji 784, Hanji 820, Hanji 769, Hanji 768, and Hanji 765 appear late in the frontmatter evidence list because the list preserves source-ingest order, not chronology.
 
 ## What Changed
 
-- Added Hanji 768 as the earliest current Southern Xiongnu layer, before Hanji 769 and Hanji 784.
-- Added the An Guo-Shizi jealousy crisis, Huangfu Leng's protective access control, and Du Chong/Zhu Hui complaint-channel escalation.
-- Reframed the profile so jealousy and complaint-channel capture join succession legitimacy, reporting integrity, surrender management, and requisition pressure.
+- Added Hanji 765 as the earliest current layer, turning Southern Xiongnu into the prior commitment benchmark in the Yu Chu recognition dispute.
+- Reframed the profile so frontier credibility joins jealousy, complaint-channel capture, succession legitimacy, reporting integrity, surrender management, and requisition pressure.
+- Preserved the Hanji 768 An Guo-Shizi jealousy crisis and Du Chong/Zhu Hui complaint-channel escalation as the next chronological layer.
 - Preserved the later Hanji 784, Hanji 820, Hanji 844, and Huzheng-Qiangqu-Yufuluo branches.
 
 ## Relationships
 
 - [[Xiongnu|Xiongnu]] - broader frontier people page.
-- [[EmperorHeOfHan]] - ruler whose 94-96 CE court handles the Fenghou rebellion, Deng Hong campaign, and An Guo aftermath.
-- [[AnGuoSouthernXiongnu|安国]] - chanyu whose jealousy and complaint escalation create the earliest current layer.
+- [[EmperorHeOfHan]] - ruler who accepts Yu Chu's recognition despite Southern Xiongnu credibility objections and later handles the Fenghou rebellion.
+- [[YuanAnEasternHan|袁安]] - minister who uses Southern Xiongnu service as the core evidence against Yu Chu recognition.
+- [[RenKuiEasternHan|任隗]] - ministerial co-dissenter who joins Yuan An's Southern Xiongnu precedent argument.
+- [[YuChuNorthernXiongnu|于除 / Yu Chu]] - Northern Xiongnu claimant whose recognition threatens Southern Xiongnu credibility in Yuan An's argument.
+- [[NorthernXiongnuLateHan|北匈奴]] - rival Xiongnu field whose collapse and claimant politics pressure Southern Xiongnu commitments.
+- [[FrontierRecognitionCredibilityTradeoff|边疆册封信用权衡]] - concept for the tradeoff between a new claimant and an older frontier partner.
+- [[AnGuoSouthernXiongnu|安国]] - chanyu whose jealousy and complaint escalation create the next major internal-crisis layer.
 - [[ShiziChanyu|师子]] - successor whose reputation and survival trigger the crisis.
 - [[HuangfuLengLateHan|皇甫棱]] - Duliao general who protects Shizi from dangerous court meetings.
 - [[DuChongProtectorOfXiongnu|杜崇]] - Protector of Xiongnu whose conflict with An Guo pulls Han command into the crisis.

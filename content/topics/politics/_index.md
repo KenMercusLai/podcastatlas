@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2051
+topic_total_pages: 2052
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3376,6 +3376,9 @@ topic_concepts:
   - key: "FrontierProxyCommitmentBinding"
     title: "边疆代理承诺绑定 / Frontier Proxy Commitment Binding"
     url: "/wiki/concepts/frontierproxycommitmentbinding/"
+  - key: "FrontierRecognitionCredibilityTradeoff"
+    title: "边疆册封信用权衡 / Frontier Recognition Credibility Tradeoff"
+    url: "/wiki/concepts/frontierrecognitioncredibilitytradeoff/"
   - key: "UnauthorizedFrontierCommandIntervention"
     title: "边疆将领擅断干预 / Unauthorized Frontier Command Intervention"
     url: "/wiki/concepts/unauthorizedfrontiercommandintervention/"

@@ -5,6 +5,7 @@ knowledge_schema: synthesis-v1
 tags: [person, eastern-han, minister, remonstrance, court-politics]
 sources:
   - zizhi-tongjian-hanji-766-lishi-jiaogei-ni-weishenme-yao-guyi-fa-piqi-lrs-mguyfmnxe970hdwjvmevl8oc
+  - zizhi-tongjian-hanji-765-donghan-fengyun-nengchen-nengbuneng-gandiao-bahu-waiqi-ltnvdqnyofuelaklssbquguwivan
 last_updated: 2026-08-30
 ---
 
@@ -14,35 +15,39 @@ last_updated: 2026-08-30
 
 袁安 / Yuan An appears as a senior Eastern Han minister who keeps opposition to [[DouXianEasternHan|Dou Xian]] institutionally visible before [[EmperorHeOfHan|Emperor He]] can safely act. In [[zizhi-tongjian-hanji-766-lishi-jiaogei-ni-weishenme-yao-guyi-fa-piqi-lrs-mguyfmnxe970hdwjvmevl8oc|Hanji 766]], his stance against Dou's Northern Xiongnu arrangement gives [[ZhouRongEasternHan|Zhou Rong]] the drafting platform that turns private risk into public political evidence.
 
+[[zizhi-tongjian-hanji-765-donghan-fengyun-nengchen-nengbuneng-gandiao-bahu-waiqi-ltnvdqnyofuelaklssbquguwivan|Hanji 765]] now supplies the policy substance behind that stance: Yuan argues that recognizing [[YuChuNorthernXiongnu|Yu Chu / 于除]] as a Northern Xiongnu chanyu would betray the older [[SouthernXiongnu|Southern Xiongnu]] commitment, damage Han credibility with frontier groups, anger [[Wuhuan|Wuhuan]] and [[Xianbei|Xianbei]], and add heavy state cost.
+
 ## Current Profile
 
-Yuan An's profile is defined by principled ministerial resistance under an outer-relative-dominated court. He does not personally overthrow the Dou bloc, but his persistence makes Dou Xian's policy and intimidation problem legible inside the bureaucracy before the palace coup phase.
+Yuan An's profile is defined by policy-grounded ministerial resistance under an outer-relative-dominated court. Hanji 765 shows that his opposition is not only anti-Dou factional posture: it combines precedent, frontier credit, intergroup resentment, and public finance into a coherent objection to Dou Xian's preferred settlement.
 
-His death in the third month removes one open ministerial counterweight, after which [[DingHongEasternHan|Ding Hong]] takes up the warning function through omen-coded remonstrance. Yuan therefore belongs to the pre-coup visibility layer of the anti-Dou sequence rather than the operational layer.
+He does not personally overthrow the Dou bloc, but his persistence makes Dou Xian's policy and intimidation problem legible inside the bureaucracy before the palace coup phase. His death in the third month removes one open ministerial counterweight, after which [[DingHongEasternHan|Ding Hong]] takes up the warning function through omen-coded remonstrance. Yuan therefore belongs to the pre-coup visibility layer of the anti-Dou sequence rather than the operational layer.
 
 ## Key Characteristics
 
-- Senior ministerial dissenter who challenges Dou Xian's Northern Xiongnu settlement.
+- Senior ministerial dissenter who challenges Dou Xian's Northern Xiongnu settlement on policy and credibility grounds.
+- Treats frontier title recognition as a commitment and cost problem, not only a submission opportunity.
 - Provides the institutional channel through which Zhou Rong drafts anti-Dou memorials.
 - Helps keep Dou overreach public enough that retaliation against opponents would carry evidentiary cost.
 - Functions as an early counterweight before Emperor He's closed-palace operation.
-- His death marks a transition from direct ministerial resistance to Ding Hong's omen-coded warning.
 
 ## Evidence
 
+- Policy substance: [[zizhi-tongjian-hanji-765-donghan-fengyun-nengchen-nengbuneng-gandiao-bahu-waiqi-ltnvdqnyofuelaklssbquguwivan|Hanji 765]] has Yuan argue that the Southern Xiongnu line had served Han for more than forty years and should not be displaced by a new Northern Xiongnu claimant.
+- Credibility and cost: [[zizhi-tongjian-hanji-765-donghan-fengyun-nengchen-nengbuneng-gandiao-bahu-waiqi-ltnvdqnyofuelaklssbquguwivan|Hanji 765]] says Yuan warns that bad faith would damage frontier trust, that Wuhuan and Xianbei would resent recognition of Youliu's brother, and that a distant Northern Xiongnu arrangement would add heavy expenses.
 - Ministerial dissent: [[zizhi-tongjian-hanji-766-lishi-jiaogei-ni-weishenme-yao-guyi-fa-piqi-lrs-mguyfmnxe970hdwjvmevl8oc|Hanji 766]] presents Yuan An and [[RenKuiEasternHan|Ren Kui]] as continuing to oppose Dou Xian's Northern Xiongnu proposal after Song You retreats from the dispute.
 - Drafting channel: [[zizhi-tongjian-hanji-766-lishi-jiaogei-ni-weishenme-yao-guyi-fa-piqi-lrs-mguyfmnxe970hdwjvmevl8oc|Hanji 766]] says [[ZhouRongEasternHan|Zhou Rong]], as Yuan An's official, writes the memorials attacking Dou Xian's plan.
 - Transition marker: [[zizhi-tongjian-hanji-766-lishi-jiaogei-ni-weishenme-yao-guyi-fa-piqi-lrs-mguyfmnxe970hdwjvmevl8oc|Hanji 766]] records Yuan An's death before Ding Hong becomes situ and uses the solar eclipse to criticize outer-relative dominance.
 
 ## Qualifications
 
-Yuan An is not depicted here as part of Emperor He's secret operational planning with Zheng Zhong and Liu Qing. His importance lies in open remonstrance and bureaucratic resistance, not palace command.
+Yuan An is not depicted here as part of Emperor He's secret operational planning with Zheng Zhong and Liu Qing. His importance lies in open remonstrance, policy argument, and bureaucratic resistance, not palace command. Hanji 765 records the host's judgment that later events vindicated Yuan's warning after Yu Chu rebelled, but the page keeps that as source-framed retrospective confirmation rather than independent proof that every similar recognition plan must fail.
 
 ## What Changed
 
-- Hanji 766 creates Yuan An as a standalone Eastern Han entity.
-- The current profile frames him as a pre-coup visibility actor in the anti-Dou sequence.
-- His relationship to Zhou Rong and Ding Hong is now the main connective tissue for this page.
+- Added Hanji 765 as the policy substance behind Yuan's anti-Dou stance.
+- Reframed Yuan as a frontier credibility and fiscal-remonstrance actor, not only a pre-coup visibility actor.
+- Preserved Hanji 766's Zhou Rong and Ding Hong transition layer.
 
 ## Relationships
 
@@ -51,5 +56,6 @@ Yuan An is not depicted here as part of Emperor He's secret operational planning
 - [[ZhouRongEasternHan|Zhou Rong]] - uses Yuan An's office as the drafting channel for anti-Dou memorials.
 - [[DingHongEasternHan|Ding Hong]] - succeeds Yuan's open resistance layer with omen-coded warning after Yuan's death.
 - [[EmperorHeOfHan|Emperor He]] - benefits from the visibility that Yuan's opposition creates before the palace operation.
+- [[FrontierRecognitionCredibilityTradeoff|Frontier Recognition Credibility Tradeoff]] - captures Yuan's argument that title recognition can damage prior commitments, alliances, and finances.
 - [[OuterRelativeCourtPower|Outer-Relative Court Power]] - provides the structural problem Yuan resists.
 - [[StrategicAngerDeterrence|Strategic Anger Deterrence]] - Zhou Rong's deterrent anger grows out of threats triggered by Yuan's anti-Dou memorials.

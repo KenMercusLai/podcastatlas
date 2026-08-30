@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 6005
+wiki_total_pages: 6006
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1076,6 +1076,9 @@ wiki_pages:
   - key: "FrontierProxyCommitmentBinding"
     title: "边疆代理承诺绑定 / Frontier Proxy Commitment Binding"
     url: "/wiki/concepts/frontierproxycommitmentbinding/"
+  - key: "FrontierRecognitionCredibilityTradeoff"
+    title: "边疆册封信用权衡 / Frontier Recognition Credibility Tradeoff"
+    url: "/wiki/concepts/frontierrecognitioncredibilitytradeoff/"
   - key: "FrontierConscriptionBackfire"
     title: "边疆征发反噬 / Frontier Conscription Backfire"
     url: "/wiki/concepts/frontierconscriptionbackfire/"

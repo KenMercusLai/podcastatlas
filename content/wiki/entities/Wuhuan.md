@@ -8,17 +8,20 @@ sources:
   - zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2
   - zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna
   - zizhi-tongjian-hanji-844-ruhe-liyu-bubaizhidi-lsp49uw8atyiufrf-ryo-9ctos5z
-last_updated: 2026-08-28
+  - zizhi-tongjian-hanji-765-donghan-fengyun-nengchen-nengbuneng-gandiao-bahu-waiqi-ltnvdqnyofuelaklssbquguwivan
+last_updated: 2026-08-30
 knowledge_schema: synthesis-v1
 ---
 
 ## Overview
 
-乌桓 / Wuhuan is a late-Han northern frontier group whose wiki profile now begins chronologically with [[ZhangHuanLateHan|张奂]] turning Wuhuan away from the [[SouthernXiongnu|Southern Xiongnu]] side in 158 CE. Later sources show Wuhuan as auxiliary cavalry, rebellion infrastructure, a pacified frontier group, a local-order contact around [[TianChou|田筹]], and part of [[YanRou|阎柔]]'s anti-[[GongsunZan|公孙瓒]] coalition.
+乌桓 / Wuhuan is a northern frontier group whose wiki profile now begins with [[YuanAnEasternHan|Yuan An]] treating Wuhuan as a neighboring audience that could resent Han recognition of [[YuChuNorthernXiongnu|Yu Chu / 于除]] after Wuhuan and Xianbei had killed Youliu chanyu. Later sources show Wuhuan as a group [[ZhangHuanLateHan|张奂]] turns away from the [[SouthernXiongnu|Southern Xiongnu]] side, then as auxiliary cavalry, rebellion infrastructure, a pacified frontier group, a local-order contact around [[TianChou|田筹]], and part of [[YanRou|阎柔]]'s anti-[[GongsunZan|公孙瓒]] coalition.
 
 ## Current Profile
 
-The earliest chronological Wuhuan layer is the 158 CE frontier fracture in [[zizhi-tongjian-hanji-844-ruhe-liyu-bubaizhidi-lsp49uw8atyiufrf-ryo-9ctos5z|Hanji 844]]. Wuhuan initially appear aligned with Southern Xiongnu pressure on the Han frontier, but Zhang Huan secretly sends envoys, reaches reconciliation, and uses Wuhuan force against Xiongnu leaders. The episode treats this not as simple submission but as a deliberate rupture in the enemy coalition.
+The earliest current Wuhuan layer is Hanji 765. Yuan An warns that Wuhuan and [[Xianbei|Xianbei]] had killed Youliu chanyu, so recognizing Youliu's brother Yu Chu as Northern Xiongnu chanyu could anger groups Han also needs to manage. Wuhuan are not a campaign actor in this source; they are a diplomatic-risk audience whose reaction helps define the cost of recognition.
+
+The next chronological Wuhuan layer is the 158 CE frontier fracture in [[zizhi-tongjian-hanji-844-ruhe-liyu-bubaizhidi-lsp49uw8atyiufrf-ryo-9ctos5z|Hanji 844]]. Wuhuan initially appear aligned with Southern Xiongnu pressure on the Han frontier, but Zhang Huan secretly sends envoys, reaches reconciliation, and uses Wuhuan force against Xiongnu leaders. The episode treats this not as simple submission but as a deliberate rupture in the enemy coalition.
 
 The later 187-188 CE sources show why Wuhuan alignment remains brittle. [[zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh|Hanji 938]] says [[ZhangWenLateHan|张温]] recruits Wuhuan cavalry under Gongsun Zan, but supply and pay failures near Ji cause many riders to desert, feeding the disorder around [[ZhangChunLateHan|张纯]], [[ZhangJuLateHan|张举]], and [[QiuLijuLateHan|丘力居]]. [[zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z|Hanji 942]] then shows [[LiuYuLateHan|刘虞]] inducing submission through envoys and rewards rather than Gongsun Zan's over-deep military pursuit.
 
@@ -26,7 +29,7 @@ The later 187-188 CE sources show why Wuhuan alignment remains brittle. [[zizhi-
 
 ## Key Characteristics
 
-- Relationship-sensitive frontier group whose alignment shifts with inducement, supply, reputation, and security conditions.
+- Relationship-sensitive frontier group whose alignment shifts with recognition choices, inducement, supply, reputation, and security conditions.
 - Appears as opponent, auxiliary, deserter, submitted group, local-order contact, and coalition component across the late-Han sources.
 - Supply and pay failures can turn Wuhuan cavalry from usable auxiliary force into rebellion infrastructure.
 - Envoy, reward, reassurance, and credible local governance can stabilize Wuhuan relations more durably than overextended pursuit.
@@ -35,6 +38,7 @@ The later 187-188 CE sources show why Wuhuan alignment remains brittle. [[zizhi-
 
 ## Evidence
 
+- Recognition-risk audience: [[zizhi-tongjian-hanji-765-donghan-fengyun-nengchen-nengbuneng-gandiao-bahu-waiqi-ltnvdqnyofuelaklssbquguwivan|Hanji 765]] says Yuan An warned that Wuhuan and Xianbei had killed Youliu chanyu, so recognizing Youliu's brother Yu Chu could create resentment.
 - 158 CE coalition fracture: [[zizhi-tongjian-hanji-844-ruhe-liyu-bubaizhidi-lsp49uw8atyiufrf-ryo-9ctos5z|Hanji 844]] says Zhang Huan secretly reconciles with Wuhuan and uses Wuhuan forces against the Southern Xiongnu side.
 - Failed auxiliary supply: [[zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh|Hanji 938]] links Wuhuan cavalry recruitment, Gongsun Zan's command, desertion after supply/pay failure, and the wider Zhang Chun-Zhang Ju-Qiu Liju crisis.
 - Pacification through envoys and rewards: [[zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z|Hanji 942]] shows Liu Yu inducing Wuhuan submission after Gongsun Zan's harder pursuit fails.
@@ -43,17 +47,20 @@ The later 187-188 CE sources show why Wuhuan alignment remains brittle. [[zizhi-
 
 ## Qualifications
 
-This page remains bounded to the listed source notes and does not provide a full ethnographic or dynastic history of Wuhuan. Hanji 844 is chronologically earliest but appears last in the frontmatter list because the list preserves source-ingest order. The current synthesis treats Wuhuan alignment as situational rather than assuming stable loyalty or stable hostility.
+This page remains bounded to the listed source notes and does not provide a full ethnographic or dynastic history of Wuhuan. Hanji 765 is chronologically earliest but appears last in the frontmatter list because the list preserves source-ingest order. The current synthesis treats Wuhuan alignment as situational rather than assuming stable loyalty or stable hostility.
 
 ## What Changed
 
-- Migrated the page to synthesis-v1 after touching it for Hanji 844.
-- Added the 158 CE Zhang Huan episode as the earliest chronological Wuhuan layer.
-- Reframed Wuhuan around alliance sensitivity, auxiliary supply failure, and trusted frontier intermediaries.
-- Converted the former connection list into grouped evidence and relationships.
+- Added Hanji 765 as the earliest current Wuhuan layer, where Wuhuan function as a recognition-risk audience rather than a campaign actor.
+- Reframed Wuhuan around recognition sensitivity, alliance sensitivity, auxiliary supply failure, and trusted frontier intermediaries.
+- Preserved the 158 CE Zhang Huan episode as the next chronological Wuhuan layer.
 
 ## Relationships
 
+- [[YuanAnEasternHan|袁安]] - minister who names Wuhuan resentment as a reason not to recognize Yu Chu.
+- [[YuChuNorthernXiongnu|于除 / Yu Chu]] - Northern Xiongnu claimant whose recognition could anger Wuhuan in Yuan An's warning.
+- [[Xianbei|鲜卑]] - paired frontier group in the Youliu chanyu warning and later coalition politics.
+- [[FrontierRecognitionCredibilityTradeoff|边疆册封信用权衡]] - concept using Wuhuan reaction as part of the recognition-cost calculation.
 - [[ZhangHuanLateHan|张奂]] - commander who turns Wuhuan from opponent alignment into pressure against the Xiongnu side.
 - [[SouthernXiongnu|南匈奴]] - frontier partner-opponent whose alignment with Wuhuan is broken in Hanji 844.
 - [[CheerChanyu|车儿]] - Southern Xiongnu chanyu whose post-surrender status follows the Wuhuan-Xiongnu fracture.

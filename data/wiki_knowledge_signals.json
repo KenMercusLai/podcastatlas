@@ -8957,9 +8957,9 @@
       "url": "/wiki/entities/douwulatehan/"
     },
     "DouXianEasternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》767丨聪明人，都擅长“演戏” [lq3ol7Y-JDh7dnNFKmtFDG4ibRyq].md",
@@ -8974,6 +8974,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》766丨历史教给你：为什么要故意发脾气？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-766-lishi-jiaogei-ni-weishenme-yao-guyi-fa-piqi-lrs-mguyfmnxe970hdwjvmevl8oc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》765丨东汉风云：能臣能不能干掉跋扈外戚？ [ltnVdqNyoFUELAKlSSBQuGUWIVAN].md",
+          "key": "zizhi-tongjian-hanji-765-donghan-fengyun-nengchen-nengbuneng-gandiao-bahu-waiqi-ltnvdqnyofuelaklssbquguwivan",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》765丨东汉风云：能臣能不能干掉跋扈外戚？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-765-donghan-fengyun-nengchen-nengbuneng-gandiao-bahu-waiqi-ltnvdqnyofuelaklssbquguwivan/"
         }
       ],
       "updated": "2026-08-30",
@@ -10013,9 +10020,9 @@
       "url": "/wiki/entities/emperorchongofhan/"
     },
     "EmperorHeOfHan": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 1,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》777丨比肩武则天，碾压慈禧，这个女人了不得！ [lk7J4Qv_-SQfopzBii6rc_iVbuxS].md",
@@ -10100,6 +10107,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》766丨历史教给你：为什么要故意发脾气？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-766-lishi-jiaogei-ni-weishenme-yao-guyi-fa-piqi-lrs-mguyfmnxe970hdwjvmevl8oc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》765丨东汉风云：能臣能不能干掉跋扈外戚？ [ltnVdqNyoFUELAKlSSBQuGUWIVAN].md",
+          "key": "zizhi-tongjian-hanji-765-donghan-fengyun-nengchen-nengbuneng-gandiao-bahu-waiqi-ltnvdqnyofuelaklssbquguwivan",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》765丨东汉风云：能臣能不能干掉跋扈外戚？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-765-donghan-fengyun-nengchen-nengbuneng-gandiao-bahu-waiqi-ltnvdqnyofuelaklssbquguwivan/"
         }
       ],
       "updated": "2026-08-30",
@@ -12956,6 +12970,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/frontierproxycommitmentbinding/"
+    },
+    "FrontierRecognitionCredibilityTradeoff": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》765丨东汉风云：能臣能不能干掉跋扈外戚？ [ltnVdqNyoFUELAKlSSBQuGUWIVAN].md",
+          "key": "zizhi-tongjian-hanji-765-donghan-fengyun-nengchen-nengbuneng-gandiao-bahu-waiqi-ltnvdqnyofuelaklssbquguwivan",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》765丨东汉风云：能臣能不能干掉跋扈外戚？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-765-donghan-fengyun-nengchen-nengbuneng-gandiao-bahu-waiqi-ltnvdqnyofuelaklssbquguwivan/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/frontierrecognitioncredibilitytradeoff/"
     },
     "FrontierResourceIntegration": {
       "episode_count": 2,
@@ -24764,9 +24794,9 @@
       "url": "/wiki/entities/northernrising/"
     },
     "NorthernXiongnuLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》767丨聪明人，都擅长“演戏” [lq3ol7Y-JDh7dnNFKmtFDG4ibRyq].md",
@@ -24774,6 +24804,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》767丨聪明人，都擅长“演戏”",
           "url": "/wiki/sources/zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》765丨东汉风云：能臣能不能干掉跋扈外戚？ [ltnVdqNyoFUELAKlSSBQuGUWIVAN].md",
+          "key": "zizhi-tongjian-hanji-765-donghan-fengyun-nengchen-nengbuneng-gandiao-bahu-waiqi-ltnvdqnyofuelaklssbquguwivan",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》765丨东汉风云：能臣能不能干掉跋扈外戚？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-765-donghan-fengyun-nengchen-nengbuneng-gandiao-bahu-waiqi-ltnvdqnyofuelaklssbquguwivan/"
         }
       ],
       "updated": "2026-08-30",
@@ -28371,9 +28408,9 @@
       "url": "/wiki/entities/renjunluoyanglatehan/"
     },
     "RenKuiEasternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》766丨历史教给你：为什么要故意发脾气？ [lrs-mguYfmnxE970HdWjvMEvL8Oc].md",
@@ -28381,6 +28418,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》766丨历史教给你：为什么要故意发脾气？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-766-lishi-jiaogei-ni-weishenme-yao-guyi-fa-piqi-lrs-mguyfmnxe970hdwjvmevl8oc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》765丨东汉风云：能臣能不能干掉跋扈外戚？ [ltnVdqNyoFUELAKlSSBQuGUWIVAN].md",
+          "key": "zizhi-tongjian-hanji-765-donghan-fengyun-nengchen-nengbuneng-gandiao-bahu-waiqi-ltnvdqnyofuelaklssbquguwivan",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》765丨东汉风云：能臣能不能干掉跋扈外戚？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-765-donghan-fengyun-nengchen-nengbuneng-gandiao-bahu-waiqi-ltnvdqnyofuelaklssbquguwivan/"
         }
       ],
       "updated": "2026-08-30",
@@ -30969,9 +31013,9 @@
       "url": "/wiki/entities/southernocean/"
     },
     "SouthernXiongnu": {
-      "episode_count": 14,
+      "episode_count": 15,
       "show_count": 1,
-      "source_note_count": 14,
+      "source_note_count": 15,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》903丨为什么劝你冤冤相报何时了？ [loKpt93MUc8kasvN44VgsjKI8boM].md",
@@ -31070,6 +31114,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》768丨历史告诉你：嫉妒是杀心！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-768-lishi-gaosu-ni-jidu-shi-shaxin-lgk8qoxvs5ax8oikgecrxqvispna/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》765丨东汉风云：能臣能不能干掉跋扈外戚？ [ltnVdqNyoFUELAKlSSBQuGUWIVAN].md",
+          "key": "zizhi-tongjian-hanji-765-donghan-fengyun-nengchen-nengbuneng-gandiao-bahu-waiqi-ltnvdqnyofuelaklssbquguwivan",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》765丨东汉风云：能臣能不能干掉跋扈外戚？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-765-donghan-fengyun-nengchen-nengbuneng-gandiao-bahu-waiqi-ltnvdqnyofuelaklssbquguwivan/"
         }
       ],
       "updated": "2026-08-30",
@@ -36327,9 +36378,9 @@
       "url": "/wiki/concepts/wugupoliticalpanic/"
     },
     "Wuhuan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》938丨历史的警醒！软弱只会带来屈辱 [lnlNrkETgFbADHFJbZDJjtrMQFsH].md",
@@ -36365,9 +36416,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》844丨如何立于不败之地？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-844-ruhe-liyu-bubaizhidi-lsp49uw8atyiufrf-ryo-9ctos5z/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》765丨东汉风云：能臣能不能干掉跋扈外戚？ [ltnVdqNyoFUELAKlSSBQuGUWIVAN].md",
+          "key": "zizhi-tongjian-hanji-765-donghan-fengyun-nengchen-nengbuneng-gandiao-bahu-waiqi-ltnvdqnyofuelaklssbquguwivan",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》765丨东汉风云：能臣能不能干掉跋扈外戚？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-765-donghan-fengyun-nengchen-nengbuneng-gandiao-bahu-waiqi-ltnvdqnyofuelaklssbquguwivan/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-30",
       "url": "/wiki/entities/wuhuan/"
     },
     "WulingManLateHan": {
@@ -36590,6 +36648,113 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/xiahouyuan/"
+    },
+    "Xianbei": {
+      "episode_count": 14,
+      "show_count": 1,
+      "source_note_count": 14,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》903丨为什么劝你冤冤相报何时了？ [loKpt93MUc8kasvN44VgsjKI8boM].md",
+          "key": "zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》903丨为什么劝你冤冤相报何时了？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》904丨觉照内观：获得心灵大自由的秘诀 [lopN_oKbzr4LJvqmgzCsb7qAv0n2].md",
+          "key": "zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》904丨觉照内观：获得心灵大自由的秘诀",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》905丨富贵如何险中求？ [lklXX5nqUka2MTblLXIvk0a7B-fu].md",
+          "key": "zizhi-tongjian-hanji-905-fugui-ruhe-xianzhong-qiu-lklxx5nquka2mtbllxivk0a7b-fu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》905丨富贵如何险中求？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-905-fugui-ruhe-xianzhong-qiu-lklxx5nquka2mtbllxivk0a7b-fu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》906丨厉害的人，为什么享受冲突？ [lvc3WEDriFdZdU_yv1QHOCl8usS2].md",
+          "key": "zizhi-tongjian-hanji-906-lihai-de-ren-weishenme-xiangshou-chongtu-lvc3wedrifdzdu-yv1qhocl8uss2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》906丨厉害的人，为什么享受冲突？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-906-lihai-de-ren-weishenme-xiangshou-chongtu-lvc3wedrifdzdu-yv1qhocl8uss2/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》907丨所有的病都是你的心病 [ltQzyOHCauDUWuaNlvqPH9L81d79].md",
+          "key": "zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》907丨所有的病都是你的心病",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》909丨2025如何养成一身贵气？ [lomnDMpHR_YBUnJbBbbn9EBAFcsj].md",
+          "key": "zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》909丨2025如何养成一身贵气？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》910丨社会生存，我劝你多点城府 [lp2fvuYb8AMPzoEYR7Znztnr0fgK].md",
+          "key": "zizhi-tongjian-hanji-910-shehui-shengcun-wo-quan-ni-duodian-chengfu-lp2fvuyb8ampzoeyr7znztnr0fgk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》910丨社会生存，我劝你多点城府",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-910-shehui-shengcun-wo-quan-ni-duodian-chengfu-lp2fvuyb8ampzoeyr7znztnr0fgk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》913丨看懂“塞翁失马”，悟透人生福祸 [lkFbrwTGsJmA85BZugqONZK3Hy4g].md",
+          "key": "zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》913丨看懂“塞翁失马”，悟透人生福祸",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》918丨事情不顺利时，为什么要闭嘴？ [lh-tBOhgO96qw8bJqu3x1Yp6CZV5].md",
+          "key": "zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》918丨事情不顺利时，为什么要闭嘴？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》920丨明悟这个道理，才能赚大钱 [lqMAbg3bpYz6Ct2V4ArX-IUn57Ws].md",
+          "key": "zizhi-tongjian-hanji-920-mingwu-zhege-daoli-caineng-zhuan-daqian-lqmabg3bpyz6ct2v4arx-iun57ws",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》920丨明悟这个道理，才能赚大钱",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-920-mingwu-zhege-daoli-caineng-zhuan-daqian-lqmabg3bpyz6ct2v4arx-iun57ws/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》936丨乱世先杀圣母心，这话对吗？ [lmL_kUyC7yYS2IJH2KT46PWNUgAR].md",
+          "key": "zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》936丨乱世先杀圣母心，这话对吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》942丨越优秀的人活得越累，合理吗？ [lkwlRcgnT-kxXC2qqZ6z6WKG7e5z].md",
+          "key": "zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》942丨越优秀的人活得越累，合理吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》998丨白马将军公孙瓒：从三千白马到困守孤城 [lp-1L2GvBsBFnyZNUTDGhxwwvqNA].md",
+          "key": "zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》998丨白马将军公孙瓒：从三千白马到困守孤城",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》765丨东汉风云：能臣能不能干掉跋扈外戚？ [ltnVdqNyoFUELAKlSSBQuGUWIVAN].md",
+          "key": "zizhi-tongjian-hanji-765-donghan-fengyun-nengchen-nengbuneng-gandiao-bahu-waiqi-ltnvdqnyofuelaklssbquguwivan",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》765丨东汉风云：能臣能不能干掉跋扈外戚？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-765-donghan-fengyun-nengchen-nengbuneng-gandiao-bahu-waiqi-ltnvdqnyofuelaklssbquguwivan/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/xianbei/"
     },
     "XiangBiao": {
       "episode_count": 1,
@@ -38594,9 +38759,9 @@
       "url": "/wiki/entities/yuchenglatehan/"
     },
     "YuChuNorthernXiongnu": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》767丨聪明人，都擅长“演戏” [lq3ol7Y-JDh7dnNFKmtFDG4ibRyq].md",
@@ -38604,6 +38769,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》767丨聪明人，都擅长“演戏”",
           "url": "/wiki/sources/zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》765丨东汉风云：能臣能不能干掉跋扈外戚？ [ltnVdqNyoFUELAKlSSBQuGUWIVAN].md",
+          "key": "zizhi-tongjian-hanji-765-donghan-fengyun-nengchen-nengbuneng-gandiao-bahu-waiqi-ltnvdqnyofuelaklssbquguwivan",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》765丨东汉风云：能臣能不能干掉跋扈外戚？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-765-donghan-fengyun-nengchen-nengbuneng-gandiao-bahu-waiqi-ltnvdqnyofuelaklssbquguwivan/"
         }
       ],
       "updated": "2026-08-30",
@@ -38691,9 +38863,9 @@
       "url": "/wiki/entities/yuxueasternhan/"
     },
     "YuanAnEasternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》766丨历史教给你：为什么要故意发脾气？ [lrs-mguYfmnxE970HdWjvMEvL8Oc].md",
@@ -38701,6 +38873,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》766丨历史教给你：为什么要故意发脾气？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-766-lishi-jiaogei-ni-weishenme-yao-guyi-fa-piqi-lrs-mguyfmnxe970hdwjvmevl8oc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》765丨东汉风云：能臣能不能干掉跋扈外戚？ [ltnVdqNyoFUELAKlSSBQuGUWIVAN].md",
+          "key": "zizhi-tongjian-hanji-765-donghan-fengyun-nengchen-nengbuneng-gandiao-bahu-waiqi-ltnvdqnyofuelaklssbquguwivan",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》765丨东汉风云：能臣能不能干掉跋扈外戚？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-765-donghan-fengyun-nengchen-nengbuneng-gandiao-bahu-waiqi-ltnvdqnyofuelaklssbquguwivan/"
         }
       ],
       "updated": "2026-08-30",

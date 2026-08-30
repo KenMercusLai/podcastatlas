@@ -13594,6 +13594,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-30] ingest | 《资治通鉴·汉纪》765丨东汉风云：能臣能不能干掉跋扈外戚？
+
+Ingested the 2026-07-01 芮淇讲透资治通鉴 episode on Yuan An and Ren Kui opposing Dou Xian's proposal to recognize Yu Chu as a Northern Xiongnu chanyu. Created the source note plus `FrontierRecognitionCredibilityTradeoff`; updated `YuanAnEasternHan`, `RenKuiEasternHan`, `DouXianEasternHan`, `EmperorHeOfHan`, `NorthernXiongnuLateHan`, `YuChuNorthernXiongnu`, `SouthernXiongnu`, `Wuhuan`, `Xianbei`, `index`, and `overview`. No settled contradiction found; 于除 and 俞厨 are normalized under the stable `YuChuNorthernXiongnu` route, and Song You, Liu Fang, the unnamed finance official, Puli Sea, Youliu chanyu, Tuntuhe, and exact budget figures remain source-scoped.
+
 ## [2026-08-30] ingest | Essentials: Tools for Hormone Optimization in Males | Dr. Kyle Gillett
 
 Ingested the 2026-07-02 Huberman Lab Essentials episode with Kyle Gillett on male hormone phenotyping, testosterone, SHBG, DHT, IGF-1, lifestyle foundations, exercise load, fertility risk, androgen-support supplements, testosterone therapy, clomiphene, tadalafil, and hair-loss treatment boundaries. Created the source note plus `KyleGillett`, `MaleHormoneHealthPhenotyping`, `AndrogenInterventionClinicalBoundary`, and `AndrogenSupportSupplementBoundary`; updated `HubermanLab`, `AndrewHuberman`, `SustainableHealthOptimization`, `FertilityEnergyAvailability`, `ExerciseLoadManagement`, `ContextDependentBiomedicalInterventions`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; supplement, testosterone-therapy, clomiphene, tadalafil, topical hair-loss, alcohol, and dosing claims remain source-scoped public education rather than individualized medical advice.
@@ -13893,6 +13897,10 @@ Ran health, identity validation, and lint. Health scanned 16,172 wiki pages with
 ## [2026-08-30] ingest | 《资治通鉴·汉纪》766丨历史教给你：为什么要故意发脾气？
 
 Ingested the 2026-07-01 芮淇讲透资治通鉴 episode on the 92 CE anti-Dou operation: Yuan An and Ren Kui's resistance to Dou Xian, Zhou Rong's deliberate anger as deterrence against a Dou-retainer threat, Ding Hong's solar-eclipse warning, Emperor He's Liu Qing/Zheng Zhong historical-precedent search, palace-gate and seal control, Zhang Pu's defense of Dou Gui, and the eunuch-power hazard created by relying on trusted inner-court access. Created the source note plus `YuanAnEasternHan`, `RenKuiEasternHan`, `ZhouRongEasternHan`, `DingHongEasternHan`, `DouGuiEasternHan`, `StrategicAngerDeterrence`, and `HistoricalPrecedentCrisisPlanning`; updated `EmperorHeOfHan`, `DouXianEasternHan`, `LiuQingQingheKing`, `ZhengZhongEasternHan`, `ZhangPuEasternHan`, `OuterRelativeCourtPower`, `OmenCodedRemonstrance`, `PalaceCoupSymbolControl`, `TrustedEunuchPowerFormation`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; 丁弘 is normalized to 丁鸿, and the transcript tension around Dou brothers being forced to die while Dou Gui survives is kept source-scoped.
+
+## [2026-08-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-30] lint | Wiki health check
 
