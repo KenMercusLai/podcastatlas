@@ -14051,9 +14051,17 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-31] ingest | 《资治通鉴·汉纪》751丨窦皇后告诉你：女人不狠，地位不稳
+
+Ingested the 2026-06-28 芮淇讲透资治通鉴 episode on Empress Dou's adoption of Liu Zhao, the Song Guiren accusation, Liu Qing's deposition, Cai Lun's early palace role, Zhangdi's travel-burden restraint, and Liu Cang's funeral honors. Created the source note plus `WeaknessAsPoliticalLiability`; updated `SongGuirenZhangHeLateHan`, `LiuQingQingheKing`, `LiangGuirenHeLateHan`, `EmpressDowagerDouHeLateHan`, `EmperorZhangOfHan`, `LiuCangDongpingKing`, `CaiLunLateHan`, `MaternalStatusSuccessionLeverage`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; Song Yang, Yang Gongzhu, Liang-family minor names, exact route details, and funeral participant lists remain source-scoped.
+
 ## [2026-08-31] ingest | 683. Washington: Hero of the Revolution (Part 1)
 
 Ingested the 2026-06-28 The Rest Is History episode on George Washington, Valley Forge, Continental Army endurance, Steuben's training reforms, French alliance timing, Martha Washington's camp role, Black soldiers, and republican self-command. Created the source note plus `GeorgeWashington`, `ValleyForge`, `ContinentalArmy`, `MarthaWashington`, `FriedrichWilhelmVonSteuben`, `MarquisDeLafayette`, `HoratioGates`, `StrategicEnduranceMilitaryCommand`, `ValleyForgeMythLogistics`, `RepublicanRestraintLeadership`, and `RevolutionaryMilitarySlaveryContradiction`; updated `AmericanRevolution`, `ContinentalCongress`, `FrancoAmericanAlliance1778`, `TheRestIsHistory`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; the Valley Forge prayer story is treated as a later patriotic invention while the camp's logistical and symbolic importance remains intact.
+
+## [2026-08-31] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-31] lint | Wiki health check
 

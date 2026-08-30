@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 6048
+wiki_total_pages: 6049
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -416,6 +416,9 @@ wiki_pages:
   - key: "WeakPositionPacification"
     title: "弱势名分安抚 / Weak-Position Pacification"
     url: "/wiki/concepts/weakpositionpacification/"
+  - key: "WeaknessAsPoliticalLiability"
+    title: "弱小即政治原罪 / Weakness as Political Liability"
+    url: "/wiki/concepts/weaknessaspoliticalliability/"
   - key: "WarringStatesFourLords"
     title: "战国四公子 / Warring States Four Lords"
     url: "/wiki/concepts/warringstatesfourlords/"

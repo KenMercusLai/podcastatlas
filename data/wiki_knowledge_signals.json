@@ -4452,9 +4452,9 @@
       "url": "/wiki/entities/chipsact/"
     },
     "CaiLunLateHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》776丨汉史探密：蔡伦是怎样发明“造纸术”的？ [ljqhhCywXr_YGgZMcgzbbTg-q-hB].md",
@@ -4476,9 +4476,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》794丨一代女君邓绥，去世后竟全家遭殃？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-794-yidai-nvjun-dengsui-qushi-hou-jing-quanjia-zaoyang-llmlhabdd09opca6-pr80q4mfoxi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》751丨窦皇后告诉你：女人不狠，地位不稳 [luvqADCtBfuZIT2acKRqifOuR2C6].md",
+          "key": "zizhi-tongjian-hanji-751-dou-huanghou-gaosu-ni-nvren-bu-hen-diwei-bu-wen-luvqadctbfuzit2ackrqifour2c6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》751丨窦皇后告诉你：女人不狠，地位不稳",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-751-dou-huanghou-gaosu-ni-nvren-bu-hen-diwei-bu-wen-luvqadctbfuzit2ackrqifour2c6/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-08-31",
       "url": "/wiki/entities/cailunlatehan/"
     },
     "CaixinMedia": {
@@ -11044,9 +11051,9 @@
       "url": "/wiki/entities/emperorshunofhan/"
     },
     "EmperorZhangOfHan": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》770丨沉默的真相：皇帝的生母竟是她 [lu5dqu8Uuw277IkZXkBLVqDbPL3q].md",
@@ -11103,9 +11110,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》752丨失去靠山的人该如何处世？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》751丨窦皇后告诉你：女人不狠，地位不稳 [luvqADCtBfuZIT2acKRqifOuR2C6].md",
+          "key": "zizhi-tongjian-hanji-751-dou-huanghou-gaosu-ni-nvren-bu-hen-diwei-bu-wen-luvqadctbfuzit2ackrqifour2c6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》751丨窦皇后告诉你：女人不狠，地位不稳",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-751-dou-huanghou-gaosu-ni-nvren-bu-hen-diwei-bu-wen-luvqadctbfuzit2ackrqifour2c6/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-08-31",
       "url": "/wiki/entities/emperorzhangofhan/"
     },
     "EmperorZhiOfHan": {
@@ -11332,9 +11346,9 @@
       "url": "/wiki/entities/empressdowagerdenglatehan/"
     },
     "EmpressDowagerDouHeLateHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》770丨沉默的真相：皇帝的生母竟是她 [lu5dqu8Uuw277IkZXkBLVqDbPL3q].md",
@@ -11370,9 +11384,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》752丨失去靠山的人该如何处世？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》751丨窦皇后告诉你：女人不狠，地位不稳 [luvqADCtBfuZIT2acKRqifOuR2C6].md",
+          "key": "zizhi-tongjian-hanji-751-dou-huanghou-gaosu-ni-nvren-bu-hen-diwei-bu-wen-luvqadctbfuzit2ackrqifour2c6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》751丨窦皇后告诉你：女人不狠，地位不稳",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-751-dou-huanghou-gaosu-ni-nvren-bu-hen-diwei-bu-wen-luvqadctbfuzit2ackrqifour2c6/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-08-31",
       "url": "/wiki/entities/empressdowagerdouhelatehan/"
     },
     "EmpressDowagerDouMiao": {
@@ -21088,9 +21109,9 @@
       "url": "/wiki/entities/liangbuyilatehan/"
     },
     "LiangGuirenHeLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》770丨沉默的真相：皇帝的生母竟是她 [lu5dqu8Uuw277IkZXkBLVqDbPL3q].md",
@@ -21105,9 +21126,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》752丨失去靠山的人该如何处世？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》751丨窦皇后告诉你：女人不狠，地位不稳 [luvqADCtBfuZIT2acKRqifOuR2C6].md",
+          "key": "zizhi-tongjian-hanji-751-dou-huanghou-gaosu-ni-nvren-bu-hen-diwei-bu-wen-luvqadctbfuzit2ackrqifour2c6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》751丨窦皇后告诉你：女人不狠，地位不稳",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-751-dou-huanghou-gaosu-ni-nvren-bu-hen-diwei-bu-wen-luvqadctbfuzit2ackrqifour2c6/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-08-31",
       "url": "/wiki/entities/liangguirenhelatehan/"
     },
     "LiangJiLateHan": {
@@ -21717,9 +21745,9 @@
       "url": "/wiki/entities/liubiao/"
     },
     "LiuCangDongpingKing": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》755丨这个朝代皇上就开始鼓励生娃了！ [lj7bdkxKdTJHPO469yXHSkJyFdCo].md",
@@ -21727,9 +21755,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》755丨这个朝代皇上就开始鼓励生娃了！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-755-zhege-chaodai-huangshang-jiu-kaishi-guli-shengwa-le-lj7bdkxkdtjhpo469yxhskjyfdco/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》751丨窦皇后告诉你：女人不狠，地位不稳 [luvqADCtBfuZIT2acKRqifOuR2C6].md",
+          "key": "zizhi-tongjian-hanji-751-dou-huanghou-gaosu-ni-nvren-bu-hen-diwei-bu-wen-luvqadctbfuzit2ackrqifour2c6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》751丨窦皇后告诉你：女人不狠，地位不稳",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-751-dou-huanghou-gaosu-ni-nvren-bu-hen-diwei-bu-wen-luvqadctbfuzit2ackrqifour2c6/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-08-31",
       "url": "/wiki/entities/liucangdongpingking/"
     },
     "LiuChangDuxiangHouEasternHan": {
@@ -22057,9 +22092,9 @@
       "url": "/wiki/entities/liupirunanlatehan/"
     },
     "LiuQingQingheKing": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》770丨沉默的真相：皇帝的生母竟是她 [lu5dqu8Uuw277IkZXkBLVqDbPL3q].md",
@@ -22081,9 +22116,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》766丨历史教给你：为什么要故意发脾气？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-766-lishi-jiaogei-ni-weishenme-yao-guyi-fa-piqi-lrs-mguyfmnxe970hdwjvmevl8oc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》751丨窦皇后告诉你：女人不狠，地位不稳 [luvqADCtBfuZIT2acKRqifOuR2C6].md",
+          "key": "zizhi-tongjian-hanji-751-dou-huanghou-gaosu-ni-nvren-bu-hen-diwei-bu-wen-luvqadctbfuzit2ackrqifour2c6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》751丨窦皇后告诉你：女人不狠，地位不稳",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-751-dou-huanghou-gaosu-ni-nvren-bu-hen-diwei-bu-wen-luvqadctbfuzit2ackrqifour2c6/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-08-31",
       "url": "/wiki/entities/liuqingqingheking/"
     },
     "LiuSuanLateHan": {
@@ -24284,6 +24326,50 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/masudhusain/"
+    },
+    "MaternalStatusSuccessionLeverage": {
+      "episode_count": 5,
+      "show_count": 1,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》918丨事情不顺利时，为什么要闭嘴？ [lh-tBOhgO96qw8bJqu3x1Yp6CZV5].md",
+          "key": "zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》918丨事情不顺利时，为什么要闭嘴？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》943丨权势考验人性，背后藏着巨大凶险 [lg7ia5XOK-swdMHml35YV9qQQkvt].md",
+          "key": "zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》943丨权势考验人性，背后藏着巨大凶险",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》97-4丨史上为事业送老婆第一人 [lo8omg01gkWloJkPIflaep99X-vz].md",
+          "key": "zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》97-4丨史上为事业送老婆第一人",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》97-3丨吕不韦：历史上风投第一人 [lswa9b864oc_S8vAXtDu15aRyDu2].md",
+          "key": "zizhi-tongjian-zhouji-97-3-lvbuwei-lishishang-fengtou-di-yi-ren-lswa9b864oc-s8vaxtdu15arydu2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》97-3丨吕不韦：历史上风投第一人",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-97-3-lvbuwei-lishishang-fengtou-di-yi-ren-lswa9b864oc-s8vaxtdu15arydu2/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》751丨窦皇后告诉你：女人不狠，地位不稳 [luvqADCtBfuZIT2acKRqifOuR2C6].md",
+          "key": "zizhi-tongjian-hanji-751-dou-huanghou-gaosu-ni-nvren-bu-hen-diwei-bu-wen-luvqadctbfuzit2ackrqifour2c6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》751丨窦皇后告诉你：女人不狠，地位不稳",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-751-dou-huanghou-gaosu-ni-nvren-bu-hen-diwei-bu-wen-luvqadctbfuzit2ackrqifour2c6/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/maternalstatussuccessionleverage/"
     },
     "MaxBennett": {
       "episode_count": 1,
@@ -33064,9 +33150,9 @@
       "url": "/wiki/entities/songelatehan/"
     },
     "SongGuirenZhangHeLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》770丨沉默的真相：皇帝的生母竟是她 [lu5dqu8Uuw277IkZXkBLVqDbPL3q].md",
@@ -33074,9 +33160,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》770丨沉默的真相：皇帝的生母竟是她",
           "url": "/wiki/sources/zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》751丨窦皇后告诉你：女人不狠，地位不稳 [luvqADCtBfuZIT2acKRqifOuR2C6].md",
+          "key": "zizhi-tongjian-hanji-751-dou-huanghou-gaosu-ni-nvren-bu-hen-diwei-bu-wen-luvqadctbfuzit2ackrqifour2c6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》751丨窦皇后告诉你：女人不狠，地位不稳",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-751-dou-huanghou-gaosu-ni-nvren-bu-hen-diwei-bu-wen-luvqadctbfuzit2ackrqifour2c6/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-08-31",
       "url": "/wiki/entities/songguirenzhanghelatehan/"
     },
     "SongHongEasternHan": {
@@ -37896,6 +37989,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/weakpositionpacification/"
+    },
+    "WeaknessAsPoliticalLiability": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》751丨窦皇后告诉你：女人不狠，地位不稳 [luvqADCtBfuZIT2acKRqifOuR2C6].md",
+          "key": "zizhi-tongjian-hanji-751-dou-huanghou-gaosu-ni-nvren-bu-hen-diwei-bu-wen-luvqadctbfuzit2ackrqifour2c6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》751丨窦皇后告诉你：女人不狠，地位不稳",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-751-dou-huanghou-gaosu-ni-nvren-bu-hen-diwei-bu-wen-luvqadctbfuzit2ackrqifour2c6/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/weaknessaspoliticalliability/"
     },
     "WeaponTechnologyDuelLethality": {
       "episode_count": 2,
