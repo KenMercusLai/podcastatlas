@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 5978
+wiki_total_pages: 5979
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1673,6 +1673,9 @@ wiki_pages:
   - key: "CrossProjectCashTransfer"
     title: "Cross-Project Cash Transfer"
     url: "/wiki/concepts/crossprojectcashtransfer/"
+  - key: "CrossingVulnerabilityStrike"
+    title: "Crossing Vulnerability Strike / 半渡击敌"
+    url: "/wiki/concepts/crossingvulnerabilitystrike/"
   - key: "CrosstalkLiteraryRhythm"
     title: "Crosstalk Literary Rhythm"
     url: "/wiki/concepts/crosstalkliteraryrhythm/"

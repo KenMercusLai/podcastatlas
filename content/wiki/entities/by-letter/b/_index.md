@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 8380
+wiki_total_pages: 8385
 wiki_pages:
   - key: "BSpecials"
     title: "B Specials"
@@ -860,6 +860,9 @@ wiki_pages:
   - key: "Banlatte"
     title: "半拿铁"
     url: "/wiki/entities/banlatte/"
+  - key: "BowangSlopeBattleLateHan"
+    title: "博望坡之战 / Bowang Slope Battle (Late Han)"
+    url: "/wiki/entities/bowangslopebattlelatehan/"
   - key: "Bolangsha"
     title: "博浪沙 / Bolangsha"
     url: "/wiki/entities/bolangsha/"

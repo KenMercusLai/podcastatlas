@@ -382,6 +382,7 @@
       "082a8129ce267d83fa695011e4d1d9ec611a2911fab24932213544b548f520cf",
       "6dd2244cfd82de8e2076d8e2587203e47d3343702b97f83715d88073f28b3401",
       "aecaaa49da936c98684cec9f1063846b0672b74bc20fcbd62311f6a489f3c810",
+      "af15d280e7c015e96cf4ef5ac50dcdd94bc96d4bbdf0ab557078605604e41512",
       "c6c6df1754e9d754248222dcf13f82295a54a848651f4fcbadd3aa7ff62601b0",
       "c579b0c3102e48af519244d183c5c41e037740a37bf519bf5b0f4bf5ef849207",
       "56abb716e5b03c8a306adb1a6c6075e7f241a8cf33161741fecbd9f5b886bbb0",
@@ -394,10 +395,10 @@
       "4aec524162783153bd9de6fc8aaf28b4b45a60c3433caa62e6442f020af99d44",
       "5463cac3a05898616fdcdbe4bbf0fffe113a112bf4093056579dfb7f48e3eca2"
     ],
-    "paragraph_count": 392
+    "paragraph_count": 393
   },
-  "overview_commit": "a82497e96a5f728702ebb5bdfdeb84da243f12d2",
-  "overview_digest": "3e5a07211f2bee9d1e76077358fc5a9d4459a560722bdb3457eb6b695f773c41",
+  "overview_commit": "6f715ca10b543d612cfb404584991b16746cb3c1",
+  "overview_digest": "73231338a7d2e54d17f2c62b122f647db2463c27535ec77fe0f3f84fa5575326",
   "paragraphs": [
     {
       "id": "76439d5a84c3e146cc75ca3dd110deeb51c4dcd3e2e69896481f9ba03f15b1a2",
@@ -11799,6 +11800,35 @@
         "YanPuLateHan",
         "ZhangLuFivePecks",
         "zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o"
+      ]
+    },
+    {
+      "id": "af15d280e7c015e96cf4ef5ac50dcdd94bc96d4bbdf0ab557078605604e41512",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1057-da-bu-liao-zhang-de-jiangjun-bushi-youxiu-de-shufajia-ljhy16leevjd8i-7vmuxtqm96ytg|《资治通鉴·汉纪》1057丨打不了仗的将军，不是优秀的书法家]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode filling the Jian'an 7 bridge before [[zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg|Hanji 1058]]. It adds [[GuoYuanLateHan|郭元]], [[PangDe|庞德]], [[LiDian|李典]], [[PingyangDefenseLateHan|平阳守战]], [[BowangSlopeBattleLateHan|博望坡之战]], and [[CrossingVulnerabilityStrike|半渡击敌]], while extending [[ZhongYao|钟繇]], [[MaTeng|马腾]], [[XiahouDun|夏侯惇]], [[LiuBei|刘备]], [[SouthernXiongnu|南匈奴]], [[LureEnemyOutOfPosition|诱敌离位]], [[HostageBackedDependencyTrap|家属质押式依附陷阱]], and [[RomanceOfTheThreeKingdoms|《三国演义》]]. Its core synthesis is that northwestern security and battlefield timing reinforce each other: Zhong Yao's prior reassurance of Ma Teng helps prevent Yuan-family western pressure from becoming a stable front, and his Pingyang choice converts Guo Yuan's proud river crossing into defeat, while Liu Bei's Bowang burned-camp retreat shows the same broader problem of visible weakness becoming bait. No settled contradiction is recorded; the parenting opening, \"乱世无亲\" generalization, Guo Yuan motive reading, and Bowang Romance contrast remain source-scoped.",
+      "topic_scores": {
+        "history-and-geopolitics": 2,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "BowangSlopeBattleLateHan",
+        "CrossingVulnerabilityStrike",
+        "GuoYuanLateHan",
+        "HostageBackedDependencyTrap",
+        "LiDian",
+        "LiuBei",
+        "LureEnemyOutOfPosition",
+        "MaTeng",
+        "PangDe",
+        "PingyangDefenseLateHan",
+        "RomanceOfTheThreeKingdoms",
+        "RuiqiJiangtouZizhiTongjian",
+        "SouthernXiongnu",
+        "XiahouDun",
+        "ZhongYao",
+        "zizhi-tongjian-hanji-1057-da-bu-liao-zhang-de-jiangjun-bushi-youxiu-de-shufajia-ljhy16leevjd8i-7vmuxtqm96ytg",
+        "zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg"
       ]
     },
     {

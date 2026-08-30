@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-30
-as_of_overview_commit: a82497e96a5f728702ebb5bdfdeb84da243f12d2
+as_of_overview_commit: 6f715ca10b543d612cfb404584991b16746cb3c1
 summary: "The wiki maps AI, markets, governance, history, psychology, health, culture, and work as systems where capability needs context, trust, evidence, and boundaries."
-episode_count: 1718
-source_count: 1718
-paragraph_count: 392
+episode_count: 1719
+source_count: 1719
+paragraph_count: 393
 topic_count: 8
 ---
 
@@ -55,7 +55,7 @@ Governance sources show formal power working only when controls, symbols, exits,
 
 ### History and Geopolitics
 
-History and geopolitics sources now run from ancient succession and state-building to late-Han fragmentation, Elizabethan religion, Northern Ireland, and AI sovereignty; Hanji 1058 adds Sun Quan hostage refusal and Guo Jia pressure-release exploitation of the Yuan heirs.
+History and geopolitics sources now run from ancient succession and state-building to late-Han fragmentation, Elizabethan religion, Northern Ireland, and AI sovereignty; Hanji 1057 adds Zhong Yao's Pingyang half-crossing strike and Liu Bei's Bowang lure before Hanji 1058's Sun Quan hostage refusal and Guo Jia pressure-release exploitation of the Yuan heirs.
 
 - [[UnderseaDataCables]] show contemporary geopolitics moving into physical internet routes: [[UnitedStates]] funding for [[Caribbean]] and [[CentralAmerica]] cable replacement, competition with [[China]], vendor concerns involving [[Russia]], [[CableLandingPointSecurity]], and [[CableNetworkResilience]] make cloud and financial connectivity part of strategic infrastructure rather than only telecom operations. Evidence: [[UnderseaDataCables]], [[UnitedStates]], [[Caribbean]], [[CentralAmerica]], [[China]], [[Russia]], [[CableLandingPointSecurity]], [[CableNetworkResilience]], [[TrustedNetworkGeopolitics]], [[DigitalInfrastructureWarRisk]], [[RegionalNetworkTopologyRisk]], [[AsymmetricInfrastructureAttack]], [[MarketplaceTech]], [[ErinMurphy]], [[tech-20260820-tech-pod-128-tech-20260820-tech-pod-128]].
 - The Hanji 992, 1002, and 1015-1016 branch makes late-Han title order a strategic condition: [[EmperorXianOfHan]]'s ruined Anyi and Chang'an context keeps [[MingqiLegitimacy]] symbolically active but materially thin, [[JuShou]] sees [[LegitimacyWindowSeizure]] for [[YuanShao]] before [[GuoTu]] and [[ChunyuQiong]] help Yuan Shao miss it, [[SunCe]] treats [[YuanShu]]'s planned imperial title as a [[MoralizedWarPretext]] and exits, [[XunYu]] turns the emperor's recognition into [[LegitimacyWindowSeizure]] for [[CaoCao]], Yuan Shu's later Shouchun claim outruns [[TitleRealityRestraint]] and creates [[AntiUsurpationCoalitionPressure]], and [[ChenGui]] blocks [[MarriageAllianceWarExposure]] around [[LyuBu]] and [[Xuzhou]]. Evidence: [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz]], [[EmperorXianOfHan]], [[ChangAnHanCapital]], [[GuanzhongRegion]], [[MingqiLegitimacy]], [[JuShou]], [[LegitimacyWindowSeizure]], [[YuanShao]], [[GuoTu]], [[ChunyuQiong]], [[WartimeAgriculturalLaborCollapse]], [[FamineEntitlementFailure]], [[SunCe]], [[YuanShu]], [[MoralizedWarPretext]], [[XunYu]], [[CaoCao]], [[TitleRealityRestraint]], [[AntiUsurpationCoalitionPressure]], [[ChenGui]], [[MarriageAllianceWarExposure]], [[LyuBu]], [[Xuzhou]], [[XingshiqingStrategicAssessment]], [[GuoJia]], [[ZhongYao]].

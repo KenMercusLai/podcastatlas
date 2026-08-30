@@ -13768,3 +13768,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-30] ingest | 《资治通鉴·汉纪》1057丨打不了仗的将军，不是优秀的书法家
+
+Ingested the 2026-08-29 芮淇讲透资治通鉴 episode on Zhong Yao's Pingyang defense against Guo Yuan, Pang De's beheading and Zhong Yao's kinship-duty response, Ma Teng and Southern Xiongnu northwestern stabilization, Liu Bei's Bowang burned-camp ambush and Li Dian's rescue of Xiahou Dun, and the setup for Sun Quan's hostage-demand dilemma. Created the source note plus `GuoYuanLateHan`, `PangDe`, `LiDian`, `PingyangDefenseLateHan`, `BowangSlopeBattleLateHan`, and `CrossingVulnerabilityStrike`; updated `ZhongYao`, `MaTeng`, `XiahouDun`, `LureEnemyOutOfPosition`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; the parenting opening, "乱世无亲" generalization, Guo Yuan motive reading, exact minor office details, and Romance-vs-history Bowang contrast remain source-scoped.
+
+## [2026-08-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

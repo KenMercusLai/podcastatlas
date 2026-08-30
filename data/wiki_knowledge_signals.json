@@ -3853,6 +3853,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/bountymobilizedpacification/"
     },
+    "BowangSlopeBattleLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1057丨打不了仗的将军，不是优秀的书法家 [ljHY16LEevJD8I-7VmuXtqm96YtG].md",
+          "key": "zizhi-tongjian-hanji-1057-da-bu-liao-zhang-de-jiangjun-bushi-youxiu-de-shufajia-ljhy16leevjd8i-7vmuxtqm96ytg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1057丨打不了仗的将军，不是优秀的书法家",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1057-da-bu-liao-zhang-de-jiangjun-bushi-youxiu-de-shufajia-ljhy16leevjd8i-7vmuxtqm96ytg/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/bowangslopebattlelatehan/"
+    },
     "BrainBodyEmotionMapping": {
       "episode_count": 1,
       "show_count": 1,
@@ -6880,6 +6896,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/crosscoalitionculturalicon/"
+    },
+    "CrossingVulnerabilityStrike": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1057丨打不了仗的将军，不是优秀的书法家 [ljHY16LEevJD8I-7VmuXtqm96YtG].md",
+          "key": "zizhi-tongjian-hanji-1057-da-bu-liao-zhang-de-jiangjun-bushi-youxiu-de-shufajia-ljhy16leevjd8i-7vmuxtqm96ytg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1057丨打不了仗的将军，不是优秀的书法家",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1057-da-bu-liao-zhang-de-jiangjun-bushi-youxiu-de-shufajia-ljhy16leevjd8i-7vmuxtqm96ytg/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/crossingvulnerabilitystrike/"
     },
     "CrownPrinceRudolf": {
       "episode_count": 2,
@@ -13588,6 +13620,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/guoyilatehan/"
     },
+    "GuoYuanLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1057丨打不了仗的将军，不是优秀的书法家 [ljHY16LEevJD8I-7VmuXtqm96YtG].md",
+          "key": "zizhi-tongjian-hanji-1057-da-bu-liao-zhang-de-jiangjun-bushi-youxiu-de-shufajia-ljhy16leevjd8i-7vmuxtqm96ytg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1057丨打不了仗的将军，不是优秀的书法家",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1057-da-bu-liao-zhang-de-jiangjun-bushi-youxiu-de-shufajia-ljhy16leevjd8i-7vmuxtqm96ytg/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/guoyuanlatehan/"
+    },
     "GuoZhenLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -18278,6 +18326,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/lexisnexis/"
     },
+    "LiDian": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1057丨打不了仗的将军，不是优秀的书法家 [ljHY16LEevJD8I-7VmuXtqm96YtG].md",
+          "key": "zizhi-tongjian-hanji-1057-da-bu-liao-zhang-de-jiangjun-bushi-youxiu-de-shufajia-ljhy16leevjd8i-7vmuxtqm96ytg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1057丨打不了仗的将军，不是优秀的书法家",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1057-da-bu-liao-zhang-de-jiangjun-bushi-youxiu-de-shufajia-ljhy16leevjd8i-7vmuxtqm96ytg/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/lidian/"
+    },
     "LiDuLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -20682,9 +20746,9 @@
       "url": "/wiki/entities/luobopaidui/"
     },
     "LureEnemyOutOfPosition": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 1,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮 [liMAFqSkGbLRweTeSTyH39w_hZM4].md",
@@ -20762,9 +20826,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1043丨袁绍痛骂曹操，竟治好了他的偏头疼？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1043-yuanshao-tongma-caocao-jing-zhihaole-tade-piantouteng-ltibjj6xizsrynpgr9oyf-q3ydna/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1057丨打不了仗的将军，不是优秀的书法家 [ljHY16LEevJD8I-7VmuXtqm96YtG].md",
+          "key": "zizhi-tongjian-hanji-1057-da-bu-liao-zhang-de-jiangjun-bushi-youxiu-de-shufajia-ljhy16leevjd8i-7vmuxtqm96ytg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1057丨打不了仗的将军，不是优秀的书法家",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1057-da-bu-liao-zhang-de-jiangjun-bushi-youxiu-de-shufajia-ljhy16leevjd8i-7vmuxtqm96ytg/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-30",
       "url": "/wiki/concepts/lureenemyoutofposition/"
     },
     "Luxeed": {
@@ -21169,6 +21240,57 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/maronglatehan/"
+    },
+    "MaTeng": {
+      "episode_count": 6,
+      "show_count": 1,
+      "source_note_count": 6,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》938丨历史的警醒！软弱只会带来屈辱 [lnlNrkETgFbADHFJbZDJjtrMQFsH].md",
+          "key": "zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》938丨历史的警醒！软弱只会带来屈辱",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》973丨长平观之战：生死之敌战后竟重归于好？ [lgAZc9DEWFaYb8QnknCFkfa12YeT].md",
+          "key": "zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》973丨长平观之战：生死之敌战后竟重归于好？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》981丨三国最刚谋士程昱：一句话让曹操叹服 [lhLHlRMf2GVSPwyvjkxG6Kz44FTH].md",
+          "key": "zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》981丨三国最刚谋士程昱：一句话让曹操叹服",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》984丨凉州系军阀内斗，他为何第一个倒下？ [lurb2qfZSa7E_OwH_dL-M-sCczE5].md",
+          "key": "zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》984丨凉州系军阀内斗，他为何第一个倒下？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1015丨三国乱世，为什么袁术敢称帝？ [liM0JEMKWYjCESJ2nvSr3jNdhxFK].md",
+          "key": "zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1015丨三国乱世，为什么袁术敢称帝？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1057丨打不了仗的将军，不是优秀的书法家 [ljHY16LEevJD8I-7VmuXtqm96YtG].md",
+          "key": "zizhi-tongjian-hanji-1057-da-bu-liao-zhang-de-jiangjun-bushi-youxiu-de-shufajia-ljhy16leevjd8i-7vmuxtqm96ytg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1057丨打不了仗的将军，不是优秀的书法家",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1057-da-bu-liao-zhang-de-jiangjun-bushi-youxiu-de-shufajia-ljhy16leevjd8i-7vmuxtqm96ytg/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/mateng/"
     },
     "MaXianLateHan": {
       "episode_count": 11,
@@ -24375,6 +24497,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/pangcanlatehan/"
     },
+    "PangDe": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1057丨打不了仗的将军，不是优秀的书法家 [ljHY16LEevJD8I-7VmuXtqm96YtG].md",
+          "key": "zizhi-tongjian-hanji-1057-da-bu-liao-zhang-de-jiangjun-bushi-youxiu-de-shufajia-ljhy16leevjd8i-7vmuxtqm96ytg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1057丨打不了仗的将军，不是优秀的书法家",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1057-da-bu-liao-zhang-de-jiangjun-bushi-youxiu-de-shufajia-ljhy16leevjd8i-7vmuxtqm96ytg/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/pangde/"
+    },
     "PangXiLateHan": {
       "episode_count": 3,
       "show_count": 1,
@@ -25094,6 +25232,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/physicsstagnationclaim/"
+    },
+    "PingyangDefenseLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1057丨打不了仗的将军，不是优秀的书法家 [ljHY16LEevJD8I-7VmuXtqm96YtG].md",
+          "key": "zizhi-tongjian-hanji-1057-da-bu-liao-zhang-de-jiangjun-bushi-youxiu-de-shufajia-ljhy16leevjd8i-7vmuxtqm96ytg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1057丨打不了仗的将军，不是优秀的书法家",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1057-da-bu-liao-zhang-de-jiangjun-bushi-youxiu-de-shufajia-ljhy16leevjd8i-7vmuxtqm96ytg/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/pingyangdefenselatehan/"
     },
     "PlantVarietyIntellectualProperty": {
       "episode_count": 1,
@@ -34544,6 +34698,43 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/xiayulatehan/"
     },
+    "XiahouDun": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》953丨乱世之中，要不要讲究仁义？ [lrZfImgqAtJXyw9zX9rY2kIWXKON].md",
+          "key": "zizhi-tongjian-hanji-953-luanshi-zhizhong-yaobuyao-jiangjiu-renyi-lrzfimgqatjxyw9zx9ry2kiwxkon",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》953丨乱世之中，要不要讲究仁义？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-953-luanshi-zhizhong-yaobuyao-jiangjiu-renyi-lrzfimgqatjxyw9zx9ry2kiwxkon/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》975丨兖州之乱：荀彧如何帮曹操守大本营？ [ln0Hh4jroKkWTqSmXMqHdJzCOSdr].md",
+          "key": "zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》975丨兖州之乱：荀彧如何帮曹操守大本营？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》978丨孤身劝退数万敌军，他怎么做到的？ [lhgD8vSvUAf5oi9aEfh0wxABmzwV].md",
+          "key": "zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》978丨孤身劝退数万敌军，他怎么做到的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1057丨打不了仗的将军，不是优秀的书法家 [ljHY16LEevJD8I-7VmuXtqm96YtG].md",
+          "key": "zizhi-tongjian-hanji-1057-da-bu-liao-zhang-de-jiangjun-bushi-youxiu-de-shufajia-ljhy16leevjd8i-7vmuxtqm96ytg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1057丨打不了仗的将军，不是优秀的书法家",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1057-da-bu-liao-zhang-de-jiangjun-bushi-youxiu-de-shufajia-ljhy16leevjd8i-7vmuxtqm96ytg/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/xiahoudun/"
+    },
     "XiahouYuan": {
       "episode_count": 1,
       "show_count": 1,
@@ -38124,6 +38315,50 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/zhongjinlatehan/"
+    },
+    "ZhongYao": {
+      "episode_count": 5,
+      "show_count": 1,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》968丨揭秘三国最厉害的阳谋 [lg4QfKDGw_stIxRebHJDoshil6YJ].md",
+          "key": "zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》968丨揭秘三国最厉害的阳谋",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》969丨袁氏兄弟内斗，谁能捡漏？ [lsgj6sewO35jPSGFm_kOIvIJtr6r].md",
+          "key": "zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》969丨袁氏兄弟内斗，谁能捡漏？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》976丨三国谋士大盘点，谁是你心中的神？ [ljGPbosQ-9XIoWpgaEyossmgSt6x].md",
+          "key": "zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》976丨三国谋士大盘点，谁是你心中的神？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1015丨三国乱世，为什么袁术敢称帝？ [liM0JEMKWYjCESJ2nvSr3jNdhxFK].md",
+          "key": "zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1015丨三国乱世，为什么袁术敢称帝？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1057丨打不了仗的将军，不是优秀的书法家 [ljHY16LEevJD8I-7VmuXtqm96YtG].md",
+          "key": "zizhi-tongjian-hanji-1057-da-bu-liao-zhang-de-jiangjun-bushi-youxiu-de-shufajia-ljhy16leevjd8i-7vmuxtqm96ytg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1057丨打不了仗的将军，不是优秀的书法家",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1057-da-bu-liao-zhang-de-jiangjun-bushi-youxiu-de-shufajia-ljhy16leevjd8i-7vmuxtqm96ytg/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/zhongyao/"
     },
     "ZhongchangTongLateHan": {
       "episode_count": 1,
