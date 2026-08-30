@@ -13594,6 +13594,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-30] ingest | Essentials: Tools for Hormone Optimization in Males | Dr. Kyle Gillett
+
+Ingested the 2026-07-02 Huberman Lab Essentials episode with Kyle Gillett on male hormone phenotyping, testosterone, SHBG, DHT, IGF-1, lifestyle foundations, exercise load, fertility risk, androgen-support supplements, testosterone therapy, clomiphene, tadalafil, and hair-loss treatment boundaries. Created the source note plus `KyleGillett`, `MaleHormoneHealthPhenotyping`, `AndrogenInterventionClinicalBoundary`, and `AndrogenSupportSupplementBoundary`; updated `HubermanLab`, `AndrewHuberman`, `SustainableHealthOptimization`, `FertilityEnergyAvailability`, `ExerciseLoadManagement`, `ContextDependentBiomedicalInterventions`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; supplement, testosterone-therapy, clomiphene, tadalafil, topical hair-loss, alcohol, and dosing claims remain source-scoped public education rather than individualized medical advice.
+
 ## [2026-08-30] ingest | 《资治通鉴·汉纪》768丨历史告诉你：嫉妒是杀心！
 
 Ingested the 2026-07-02 芮淇讲透资治通鉴 episode backfilling the 93-94 CE Emperor He layer: Cao Bao's Han-rites project being abandoned under Zhang Pu and Zhang Min pressure, Liang King Liu Chang's emperor-making speech case, Guan You's Qiang coalition-splitting campaign against Mi Tang, and An Guo's jealousy-driven failed plot against Shizi in the Southern Xiongnu. Created the source note plus `CaoBaoEasternHan`, `LiuChangLiangKing`, `GuanYouLateHan`, `AnGuoSouthernXiongnu`, `ShiziChanyu`, `HuangfuLengLateHan`, `ZhuHuiHeEraLateHan`, `DuChongProtectorOfXiongnu`, `WeakAuthorityLeadership`, `RoyalUsurpationSpeechTaboo`, and `JealousyAsPoliticalViolence`; updated `ZhangPuEasternHan`, `MiTangQiangLeader`, `CoalitionFractureExploitation`, `EmperorHeOfHan`, `SouthernXiongnu`, `index`, and `overview`. No settled contradiction found; 曹褒 is kept separate from 曹豹, Liang King 刘畅 from modern 刘畅 and Huainan 刘长, and Southern Xiongnu 安国 from Khotan An Guo.
@@ -13869,6 +13873,10 @@ Ran health, identity validation, and lint. Health scanned 16,139 wiki pages with
 ## [2026-08-30] ingest | 《资治通鉴·汉纪》767丨聪明人，都擅长“演戏”
 
 Ingested the 2026-07-02 芮淇讲透资治通鉴 episode on outer-round inner-square conduct, Li He's delayed gift mission around Dou Xian's fall, Liu Qing's cautious post-Dou favor, Zheng Zhong's trusted eunuch-power opening, Deng Xun's posthumous frontier legitimacy, Nie Shang's failed conciliation of Mi Tang, Yu Chu's destruction, and Xianbei expansion after Northern Xiongnu collapse. Created the source note plus `DouXianEasternHan`, `BanGuEasternHan`, `LiHeEasternHan`, `ZhengZhongEasternHan`, `DengXunEasternHan`, `NieShangLateHan`, `NorthernXiongnuLateHan`, `YuChuNorthernXiongnu`, `OuterRoundInnerSquareConduct`, `WishfulFrontierConciliation`, and `TrustedEunuchPowerFormation`; updated `EmperorHeOfHan`, `BanZhaoLateHan`, `LiuQingQingheKing`, `MiTangQiangLeader`, `RenShangLateHan`, `TacticalDelayRiskTransfer`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; Yuan An's son 袁尚 is not merged with the later `YuanShang` page, and Bi Que, Tian Si, Xu Heng, Wang Fu, Ren Tun, Liu Wansui, Liu Kang, Liu Fang, Deng Biao, Song You, Ren Kui, Yin Mu, southern Man notices, and exact annal dates remain source-scoped.
+
+## [2026-08-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-30] lint | Wiki health check
 

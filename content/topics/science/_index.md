@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 845
+topic_total_pages: 847
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -73,6 +73,9 @@ topic_concepts:
   - key: "AnchoringEffect"
     title: "Anchoring Effect / 锚定效应"
     url: "/wiki/concepts/anchoringeffect/"
+  - key: "AndrogenInterventionClinicalBoundary"
+    title: "Androgen Intervention Clinical Boundary"
+    url: "/wiki/concepts/androgeninterventionclinicalboundary/"
   - key: "AnimalExperimentEthics"
     title: "Animal Experiment Ethics"
     url: "/wiki/concepts/animalexperimentethics/"
@@ -2448,6 +2451,9 @@ topic_sources:
   - key: "essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647"
     title: "Essentials: The Science & Treatment of Obsessive Compulsive Disorder (OCD)"
     url: "/wiki/sources/essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647/"
+  - key: "essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415"
+    title: "Essentials: Tools for Hormone Optimization in Males | Dr. Kyle Gillett"
+    url: "/wiki/sources/essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415/"
   - key: "fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd"
     title: "Fear-jerker: America's AI backlash"
     url: "/wiki/sources/fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd/"

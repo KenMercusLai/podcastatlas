@@ -2116,9 +2116,9 @@
       "url": "/wiki/entities/andingcommandery/"
     },
     "AndrewHuberman": {
-      "episode_count": 15,
+      "episode_count": 16,
       "show_count": 1,
-      "source_note_count": 15,
+      "source_note_count": 16,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -2224,10 +2224,49 @@
           "show": "Huberman Lab",
           "title": "Raising a Dog & Mastering Calm Assertive Energy | Cesar Millan",
           "url": "/wiki/sources/raising-a-dog-mastering-calm-assertive-energy-cesar-millan-scim6380580289/"
+        },
+        {
+          "episode_file": "SCIM5974928415 [SCIM5974928415].md",
+          "key": "essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415",
+          "show": "Huberman Lab",
+          "title": "Essentials: Tools for Hormone Optimization in Males | Dr. Kyle Gillett",
+          "url": "/wiki/sources/essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415/"
         }
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/andrewhuberman/"
+    },
+    "AndrogenInterventionClinicalBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5974928415 [SCIM5974928415].md",
+          "key": "essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415",
+          "show": "Huberman Lab",
+          "title": "Essentials: Tools for Hormone Optimization in Males | Dr. Kyle Gillett",
+          "url": "/wiki/sources/essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/androgeninterventionclinicalboundary/"
+    },
+    "AndrogenSupportSupplementBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5974928415 [SCIM5974928415].md",
+          "key": "essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415",
+          "show": "Huberman Lab",
+          "title": "Essentials: Tools for Hormone Optimization in Males | Dr. Kyle Gillett",
+          "url": "/wiki/sources/essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/androgensupportsupplementboundary/"
     },
     "AndyBurnham": {
       "episode_count": 7,
@@ -6525,9 +6564,9 @@
       "url": "/wiki/concepts/consumerdatadeletion/"
     },
     "ContextDependentBiomedicalInterventions": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7009523546 [SCIM7009523546].md",
@@ -6535,9 +6574,16 @@
           "show": "Huberman Lab",
           "title": "How Your Immune System Works & How to Improve It | Dr. Max Krummel",
           "url": "/wiki/sources/how-your-immune-system-works-how-to-improve-it-dr-max-krummel-scim7009523546/"
+        },
+        {
+          "episode_file": "SCIM5974928415 [SCIM5974928415].md",
+          "key": "essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415",
+          "show": "Huberman Lab",
+          "title": "Essentials: Tools for Hormone Optimization in Males | Dr. Kyle Gillett",
+          "url": "/wiki/sources/essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-30",
       "url": "/wiki/concepts/contextdependentbiomedicalinterventions/"
     },
     "ContinuousGlucoseMonitoring": {
@@ -11164,9 +11210,9 @@
       "url": "/wiki/concepts/exerciseassistivegearboundary/"
     },
     "ExerciseLoadManagement": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lqtWr4m-9nPye9GIib1_OM-TYlMY [lqtWr4m-9nPye9GIib1_OM-TYlMY].md",
@@ -11181,6 +11227,13 @@
           "show": "这病说来话长",
           "title": "VOL.211 越运动越“垮脸”？整形医生与心血管医生的「健身祛魅」指南",
           "url": "/wiki/sources/vol-211-yue-yundong-yue-kualian-zhengxing-yisheng-yu-xinxueguan-yisheng-de-jianshen-qumei-zhinan-lsp1xlzq1iapc-qale-mzutigv0u/"
+        },
+        {
+          "episode_file": "SCIM5974928415 [SCIM5974928415].md",
+          "key": "essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415",
+          "show": "Huberman Lab",
+          "title": "Essentials: Tools for Hormone Optimization in Males | Dr. Kyle Gillett",
+          "url": "/wiki/sources/essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415/"
         }
       ],
       "updated": "2026-08-30",
@@ -11996,9 +12049,9 @@
       "url": "/wiki/entities/fengyishanbattlelatehan/"
     },
     "FertilityEnergyAvailability": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM2882548864 [SCIM2882548864].md",
@@ -12006,9 +12059,16 @@
           "show": "Huberman Lab",
           "title": "Your Top Health Questions Answered",
           "url": "/wiki/sources/your-top-health-questions-answered-scim2882548864/"
+        },
+        {
+          "episode_file": "SCIM5974928415 [SCIM5974928415].md",
+          "key": "essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415",
+          "show": "Huberman Lab",
+          "title": "Essentials: Tools for Hormone Optimization in Males | Dr. Kyle Gillett",
+          "url": "/wiki/sources/essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-30",
       "url": "/wiki/concepts/fertilityenergyavailability/"
     },
     "FictionAsHistoricalEvidence": {
@@ -15758,9 +15818,9 @@
       "url": "/wiki/entities/hubeihumanoidinnovationcenter/"
     },
     "HubermanLab": {
-      "episode_count": 15,
+      "episode_count": 16,
       "show_count": 1,
-      "source_note_count": 15,
+      "source_note_count": 16,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -15866,6 +15926,13 @@
           "show": "Huberman Lab",
           "title": "Raising a Dog & Mastering Calm Assertive Energy | Cesar Millan",
           "url": "/wiki/sources/raising-a-dog-mastering-calm-assertive-energy-cesar-millan-scim6380580289/"
+        },
+        {
+          "episode_file": "SCIM5974928415 [SCIM5974928415].md",
+          "key": "essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415",
+          "show": "Huberman Lab",
+          "title": "Essentials: Tools for Hormone Optimization in Males | Dr. Kyle Gillett",
+          "url": "/wiki/sources/essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415/"
         }
       ],
       "updated": "2026-08-30",
@@ -18405,6 +18472,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/kouronglatehan/"
+    },
+    "KyleGillett": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5974928415 [SCIM5974928415].md",
+          "key": "essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415",
+          "show": "Huberman Lab",
+          "title": "Essentials: Tools for Hormone Optimization in Males | Dr. Kyle Gillett",
+          "url": "/wiki/sources/essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/kylegillett/"
     },
     "KylieJenner": {
       "episode_count": 1,
@@ -22283,6 +22366,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/majorprojectsofficecanada/"
+    },
+    "MaleHormoneHealthPhenotyping": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5974928415 [SCIM5974928415].md",
+          "key": "essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415",
+          "show": "Huberman Lab",
+          "title": "Essentials: Tools for Hormone Optimization in Males | Dr. Kyle Gillett",
+          "url": "/wiki/sources/essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/malehormonehealthphenotyping/"
     },
     "ManagedServiceAutomationLayer": {
       "episode_count": 1,
@@ -31922,9 +32021,9 @@
       "url": "/wiki/concepts/suspiciondrivenelitealienation/"
     },
     "SustainableHealthOptimization": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM2882548864 [SCIM2882548864].md",
@@ -31932,9 +32031,16 @@
           "show": "Huberman Lab",
           "title": "Your Top Health Questions Answered",
           "url": "/wiki/sources/your-top-health-questions-answered-scim2882548864/"
+        },
+        {
+          "episode_file": "SCIM5974928415 [SCIM5974928415].md",
+          "key": "essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415",
+          "show": "Huberman Lab",
+          "title": "Essentials: Tools for Hormone Optimization in Males | Dr. Kyle Gillett",
+          "url": "/wiki/sources/essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-30",
       "url": "/wiki/concepts/sustainablehealthoptimization/"
     },
     "SweetenerUncertainty": {

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 5996
+wiki_total_pages: 5999
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1415,6 +1415,12 @@ wiki_pages:
   - key: "AncientLargeArmyCommandLimits"
     title: "Ancient Large-Army Command Limits / 古代大兵团指挥极限"
     url: "/wiki/concepts/ancientlargearmycommandlimits/"
+  - key: "AndrogenInterventionClinicalBoundary"
+    title: "Androgen Intervention Clinical Boundary"
+    url: "/wiki/concepts/androgeninterventionclinicalboundary/"
+  - key: "AndrogenSupportSupplementBoundary"
+    title: "Androgen Support Supplement Boundary"
+    url: "/wiki/concepts/androgensupportsupplementboundary/"
   - key: "AngelicIntelligence"
     title: "Angelic Intelligence"
     url: "/wiki/concepts/angelicintelligence/"

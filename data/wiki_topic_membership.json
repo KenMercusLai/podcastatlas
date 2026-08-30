@@ -6801,6 +6801,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "AndrogenInterventionClinicalBoundary": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "Anduril": [
     {
       "key": "technology",
@@ -68671,6 +68678,13 @@
     }
   ],
   "essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415": [
     {
       "key": "science",
       "label": "Science",

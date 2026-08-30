@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-30
-as_of_overview_commit: a41730dac552dfce14573ae806446634a8e2d2e1
-summary: "Capacity depends on disciplined translation: authority, evidence, infrastructure, feedback, and trust must stay accountable across domains."
-episode_count: 1731
-source_count: 1731
-paragraph_count: 404
+as_of_overview_commit: 09178896eedac2d58454aebbe403df7aecc67356
+summary: "Across domains, durable capacity comes from bounded translation: evidence, workflow, infrastructure, trust, and clinical context turn claims into practice."
+episode_count: 1732
+source_count: 1732
+paragraph_count: 405
 topic_count: 8
 ---
 
@@ -22,7 +22,7 @@ topic_count: 8
 - The early-Han sequence shows victory turning into governance only through family order, capital choice, exit management, reward ranking, ritual hierarchy, frontier containment, [[HanXiongnuHeqinPolicy|heqin]] diplomacy, vassal rollback, investigation-triggered rebellion risk, and finally the failure of personal trust in [[LuWan|Lu Wan]]'s Yan kingship.
 - [[UnderseaDataCables]] show contemporary geopolitics moving into physical internet routes: [[UnitedStates]] funding for [[Caribbean]] and [[CentralAmerica]] cable replacement, competition with [[China]], vendor concerns involving [[Russia]], [[CableLandingPointSecurity]], and [[CableNetworkResilience]] make cloud and financial connectivity part of strategic infrastructure rather than only telecom operations.
 - [[neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716]] adds a functional emotion-regulation branch: [[EmotionsAsFunctionalControlStates]] treats emotions as useful control states for decision and motivation, while [[EmotionalGranularity]], [[CognitiveReappraisalEarlyIntervention]], [[AutonomicStressTraining]], and [[TaskSwitchingResidue]] frame regulation as monitoring, differentiating, reframing early, shaping environments, respecting body signals, and managing transition costs rather than removing emotion.
-- [[SustainableHealthOptimization]] adds a flexible-fundamentals branch: [[MorningLightCircadianAnchoring]], [[SleepAsDailyHealthAccount]], [[SelfTestingMemoryPractice]], [[OlfactoryTraining]], [[FertilityEnergyAvailability]], [[PerimenopauseBrainMetabolism]], [[MenopauseClinicalSharedDecision]], [[AcetylcholineFocusSupport]], and [[PerioperativeCircadianRecovery]] are useful only when fitted to real constraints and clinical context rather than protocol perfection.
+- [[MaleHormoneHealthPhenotyping]] adds a male-hormone branch: [[AndrogenInterventionClinicalBoundary]] and [[AndrogenSupportSupplementBoundary]] frame testosterone, SHBG/free testosterone, DHT, IGF-1, fertility goals, alcohol, supplements, tadalafil, TRT, clomiphene, and hair-loss treatment as phenotype- and context-dependent choices rather than a testosterone chase.
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough.
 
 ## Synthesis by Domain
@@ -49,14 +49,14 @@ Culture sources use fiction, games, sports, media, devices, folklore, brands, an
 
 ### Governance and Institutions
 
-Governance turns authority into appointment quality, feedback, legitimacy, compliance, frontier control, and bounded responsibility. Hanji 767 adds post-Dou exposure around gift exchange, grievance, Zheng Zhong's eunuch access, Deng Xun/Nie Shang, and Yu Chu/Xianbei; Hanji 768 then adds rites, Liang royalty, Qiang coalition-splitting, and Southern Xiongnu complaint channels.
+Governance turns authority into appointment quality, feedback, legitimacy, compliance, frontier control, and bounded responsibility across ancient and modern institutions.
 
 - The California data-broker branch shows that privacy rights depend on compliance workflows: [[CaliforniaDeleteAct]], [[DeleteRequestAndOptOutPlatform]], [[ConsumerDataDeletion]], [[DataBrokerComplianceGap]], and [[CaliforniaPrivacyProtectionAgency]] connect centralized deletion, broker registration, reporting duties, request friction, agency capacity, and private-lawsuit proposals into one implementation problem. Evidence: [[CaliforniaDeleteAct]], [[DeleteRequestAndOptOutPlatform]], [[ConsumerDataDeletion]], [[DataBrokerComplianceGap]], [[CaliforniaPrivacyProtectionAgency]], [[tech-20260825-mp-tech-pod-128-tech-20260825-mp-tech-pod-128]].
 - The early-Han sequence shows victory turning into governance only through family order, capital choice, exit management, reward ranking, ritual hierarchy, frontier containment, [[HanXiongnuHeqinPolicy|heqin]] diplomacy, vassal rollback, investigation-triggered rebellion risk, and finally the failure of personal trust in [[LuWan|Lu Wan]]'s Yan kingship. Evidence: [[LiuBang]], [[StrategicCapitalRelocation]], [[LiAsPoliticalOrder]], [[BaidengEncirclement]], [[HanXiongnuHeqinPolicy]], [[DifferentSurnameKingSuspicion]], [[HuainanKingdomEarlyHan]], [[InvestigationDrivenRebellionEscalation]], [[LuWan]], [[YanState]].
 
 ### History and Geopolitics
 
-History and geopolitics center on state capacity, legitimacy, kinship redress, frontier pressure, infrastructure, title order, route control, and security. Hanji 768 now backfills the 93-94 CE prelude: [[EmperorHeOfHan]] abandons Cao Bao's rites, contains Liang royal usurpation speech, presides over Guan You's Qiang campaign, and enters the [[SouthernXiongnu]] An Guo-Shizi succession conflict.
+History and geopolitics center on state capacity, legitimacy, kinship redress, frontier pressure, infrastructure, title order, route control, and security.
 
 - [[UnderseaDataCables]] show contemporary geopolitics moving into physical internet routes: [[UnitedStates]] funding for [[Caribbean]] and [[CentralAmerica]] cable replacement, competition with [[China]], vendor concerns involving [[Russia]], [[CableLandingPointSecurity]], and [[CableNetworkResilience]] make cloud and financial connectivity part of strategic infrastructure rather than only telecom operations. Evidence: [[UnderseaDataCables]], [[UnitedStates]], [[Caribbean]], [[CentralAmerica]], [[China]], [[Russia]], [[CableLandingPointSecurity]], [[CableNetworkResilience]], [[TrustedNetworkGeopolitics]], [[DigitalInfrastructureWarRisk]], [[RegionalNetworkTopologyRisk]], [[AsymmetricInfrastructureAttack]], [[MarketplaceTech]], [[ErinMurphy]], [[tech-20260820-tech-pod-128-tech-20260820-tech-pod-128]].
 - The Hanji 992, 1002, and 1015-1016 branch makes late-Han title order a strategic condition: [[EmperorXianOfHan]]'s ruined Anyi and Chang'an context keeps [[MingqiLegitimacy]] symbolically active but materially thin, [[JuShou]] sees [[LegitimacyWindowSeizure]] for [[YuanShao]] before [[GuoTu]] and [[ChunyuQiong]] help Yuan Shao miss it, [[SunCe]] treats [[YuanShu]]'s planned imperial title as a [[MoralizedWarPretext]] and exits, [[XunYu]] turns the emperor's recognition into [[LegitimacyWindowSeizure]] for [[CaoCao]], Yuan Shu's later Shouchun claim outruns [[TitleRealityRestraint]] and creates [[AntiUsurpationCoalitionPressure]], and [[ChenGui]] blocks [[MarriageAllianceWarExposure]] around [[LyuBu]] and [[Xuzhou]]. Evidence: [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz]], [[EmperorXianOfHan]], [[ChangAnHanCapital]], [[GuanzhongRegion]], [[MingqiLegitimacy]], [[JuShou]], [[LegitimacyWindowSeizure]], [[YuanShao]], [[GuoTu]], [[ChunyuQiong]], [[WartimeAgriculturalLaborCollapse]], [[FamineEntitlementFailure]], [[SunCe]], [[YuanShu]], [[MoralizedWarPretext]], [[XunYu]], [[CaoCao]], [[TitleRealityRestraint]], [[AntiUsurpationCoalitionPressure]], [[ChenGui]], [[MarriageAllianceWarExposure]], [[LyuBu]], [[Xuzhou]], [[XingshiqingStrategicAssessment]], [[GuoJia]], [[ZhongYao]].
@@ -70,7 +70,7 @@ Psychology and personal-development sources treat self-command, emotion regulati
 
 ### Science, Health, and Climate
 
-Science and health sources combine mechanisms with safety boundaries across sugar, exercise, OCD, hormones, bipolar care, diagnostics, climate, space, animal welfare, and health AI.
+Science, health, and climate sources favor measured mechanisms over headline labels: hormone phenotyping, exercise, diagnostics, psychiatric care, oncology, bite care, animal welfare, space, climate, policy, insurance, and health AI all depend on implementation and supervision boundaries.
 
 - [[PracticalSugarControl]] adds a nutrition-literacy branch: [[AddedFreeSugarDistinction]], [[LiquidSugarRisk]], [[LowGIMarketingTrap]], [[NutritionLabelSugarTraps]], [[SweetenerUncertainty]], [[GlycationSkinAnxiety]], and [[FoodPleasureEngineering]] make sugar control a question of food structure, beverage format, label interpretation, and clinical boundaries rather than blanket avoidance of sweetness or staple foods. Evidence: [[vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z]], [[PracticalSugarControl]], [[AddedFreeSugarDistinction]], [[LiquidSugarRisk]], [[LowGIMarketingTrap]], [[NutritionLabelSugarTraps]], [[SweetenerUncertainty]], [[GlycationSkinAnxiety]], [[FoodPleasureEngineering]], [[LifestyleWeightManagement]], [[MedicalRiskManagement]], [[LifestyleDiseasePrevention]], [[ZheBingShuoLaiHuaChang]], [[Atang]], [[YueWanrou]], [[DaShiHua]].
 - [[SustainableHealthOptimization]] adds a flexible-fundamentals branch: [[MorningLightCircadianAnchoring]], [[SleepAsDailyHealthAccount]], [[SelfTestingMemoryPractice]], [[OlfactoryTraining]], [[FertilityEnergyAvailability]], [[PerimenopauseBrainMetabolism]], [[MenopauseClinicalSharedDecision]], [[AcetylcholineFocusSupport]], and [[PerioperativeCircadianRecovery]] are useful only when fitted to real constraints and clinical context rather than protocol perfection. Evidence: [[SustainableHealthOptimization]], [[MorningLightCircadianAnchoring]], [[SleepAsDailyHealthAccount]], [[SelfTestingMemoryPractice]], [[OlfactoryTraining]], [[FertilityEnergyAvailability]], [[PerimenopauseBrainMetabolism]], [[MenopauseClinicalSharedDecision]], [[AcetylcholineFocusSupport]], [[PerioperativeCircadianRecovery]], [[your-top-health-questions-answered-scim2882548864]].

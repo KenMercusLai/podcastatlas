@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 5996
+wiki_total_pages: 5999
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -77,6 +77,9 @@ wiki_pages:
   - key: "MakerCommunity"
     title: "Maker Community"
     url: "/wiki/concepts/makercommunity/"
+  - key: "MaleHormoneHealthPhenotyping"
+    title: "Male Hormone Health Phenotyping"
+    url: "/wiki/concepts/malehormonehealthphenotyping/"
   - key: "MaleMenopauseVisibility"
     title: "Male Menopause Visibility / 男性更年期可见性"
     url: "/wiki/concepts/malemenopausevisibility/"

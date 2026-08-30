@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 8423
+wiki_total_pages: 8424
 wiki_pages:
   - key: "KunyangBattle"
     title: "Battle of Kunyang / 昆阳之战"
@@ -455,6 +455,9 @@ wiki_pages:
   - key: "KyleChayka"
     title: "Kyle Chayka"
     url: "/wiki/entities/kylechayka/"
+  - key: "KyleGillett"
+    title: "Kyle Gillett"
+    url: "/wiki/entities/kylegillett/"
   - key: "KyleVogt"
     title: "Kyle Vogt"
     url: "/wiki/entities/kylevogt/"

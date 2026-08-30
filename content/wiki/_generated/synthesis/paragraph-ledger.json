@@ -404,12 +404,13 @@
       "1aac611f89d8236d69b21c1363cb0d72ac05c8cc15f9f381be278ac7b89f2bd6",
       "f44e5469f37f332e8fdbac6a5ae1a2c4a5935bfc6ab6eaaf3380385fb8cb290a",
       "0944897fad2beac2f301b796bb694027832267e2eb18cd26f5a96047fddc2fde",
-      "0da08e278be0f9698cd22a27d657f9c77e0ffadee5aa5a02f7e114b61da05682"
+      "0da08e278be0f9698cd22a27d657f9c77e0ffadee5aa5a02f7e114b61da05682",
+      "783b85daf8e28c79ebd7838b98cbae32cc3b283841103fa74a279782510e1ecf"
     ],
-    "paragraph_count": 404
+    "paragraph_count": 405
   },
-  "overview_commit": "a41730dac552dfce14573ae806446634a8e2d2e1",
-  "overview_digest": "7493a5edfc4a45f12709ec50b0a5998e923cccd72e7e3b0f28515f2646f0ff4e",
+  "overview_commit": "09178896eedac2d58454aebbe403df7aecc67356",
+  "overview_digest": "69a71985aac01a439875774a93c481fc77791dbde00c76b92e58c2c42118e7a2",
   "paragraphs": [
     {
       "id": "0b2c8997f5dbfea22e48e434976328c9229ce4d1040b99d76580ca3cc56f14dd",
@@ -12472,6 +12473,33 @@
         "ZhangPuEasternHan",
         "zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q",
         "zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf"
+      ]
+    },
+    {
+      "id": "783b85daf8e28c79ebd7838b98cbae32cc3b283841103fa74a279782510e1ecf",
+      "primary_topic": "science-health-and-climate",
+      "secondary_topics": [],
+      "text": "The latest addition is [[essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415|Essentials: Tools for Hormone Optimization in Males | Dr. Kyle Gillett]], a [[HubermanLab]] Essentials episode with [[AndrewHuberman]] and [[KyleGillett]] on male hormone optimization. It adds [[KyleGillett]], [[MaleHormoneHealthPhenotyping]], [[AndrogenInterventionClinicalBoundary]], and [[AndrogenSupportSupplementBoundary]], while extending [[HubermanLab]], [[AndrewHuberman]], [[SustainableHealthOptimization]], [[FertilityEnergyAvailability]], [[ExerciseLoadManagement]], [[ContextDependentBiomedicalInterventions]], [[FemaleHormoneHealthPhenotyping]], [[MaleMenopauseVisibility]], and [[MedicalRiskManagement]]. Its core synthesis is that male hormone optimization starts with a phenotype rather than a testosterone chase: testosterone should be read with SHBG or free testosterone, DHT and IGF-1 sit inside developmental and lifestyle context, and supplements or prescriptions depend on age, fertility goals, dose, side effects, product quality, and clinician supervision. No settled contradiction is recorded; testosterone therapy, clomiphene, tadalafil, hair-loss topicals, alcohol, and supplement dosing claims remain source-scoped public education rather than individualized medical advice.",
+      "topic_scores": {
+        "business-and-markets": 1,
+        "science-health-and-climate": 3,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AndrewHuberman",
+        "AndrogenInterventionClinicalBoundary",
+        "AndrogenSupportSupplementBoundary",
+        "ContextDependentBiomedicalInterventions",
+        "ExerciseLoadManagement",
+        "FemaleHormoneHealthPhenotyping",
+        "FertilityEnergyAvailability",
+        "HubermanLab",
+        "KyleGillett",
+        "MaleHormoneHealthPhenotyping",
+        "MaleMenopauseVisibility",
+        "MedicalRiskManagement",
+        "SustainableHealthOptimization",
+        "essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415"
       ]
     }
   ],
