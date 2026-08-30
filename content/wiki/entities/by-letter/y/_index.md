@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 8483
+wiki_total_pages: 8489
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -590,6 +590,9 @@ wiki_pages:
   - key: "YangDuanhe"
     title: "杨端和 / Yang Duanhe"
     url: "/wiki/entities/yangduanhe/"
+  - key: "YangZhongEasternHan"
+    title: "杨终 / Yang Zhong (Eastern Han)"
+    url: "/wiki/entities/yangzhongeasternhan/"
   - key: "YangGuifei"
     title: "杨贵妃 / Yang Guifei"
     url: "/wiki/entities/yangguifei/"

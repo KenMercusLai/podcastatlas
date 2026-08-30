@@ -16575,6 +16575,10 @@
     "title": "梁盈 / Empress Liang Ying (late Han)",
     "url": "/wiki/entities/empressliangyinglatehan/"
   },
+  "EmpressMaMingdeEasternHan": {
+    "title": "明德马皇后 / Empress Ma (Mingde, Eastern Han)",
+    "url": "/wiki/entities/empressmamingdeeasternhan/"
+  },
   "EmpressSelectionRitualLegitimacy": {
     "title": "皇后册立礼法合法性 / Empress Selection Ritual Legitimacy",
     "url": "/wiki/concepts/empressselectionrituallegitimacy/"
@@ -28471,6 +28475,10 @@
     "title": "Knowledge Work Fragmentation",
     "url": "/wiki/concepts/knowledgeworkfragmentation/"
   },
+  "KnownMisconductNonPunishment": {
+    "title": "知奸不除式威慑失效 / Known-Misconduct Non-Punishment",
+    "url": "/wiki/concepts/knownmisconductnonpunishment/"
+  },
   "KobayashiRyoichi": {
     "title": "小林亮一 / Kobayashi Ryoichi",
     "url": "/wiki/entities/kobayashiryoichi/"
@@ -32035,9 +32043,17 @@
     "title": "马东 / Ma Dong",
     "url": "/wiki/entities/madong/"
   },
+  "MaFamilyZhangEraEasternHan": {
+    "title": "马氏 / Ma family (Zhang-era Eastern Han)",
+    "url": "/wiki/entities/mafamilyzhangeraeasternhan/"
+  },
   "MaHaoning": {
     "title": "马浩宁 / Ma Haoning",
     "url": "/wiki/entities/mahaoning/"
+  },
+  "MaLiaoEasternHan": {
+    "title": "马廖 / Ma Liao (Eastern Han)",
+    "url": "/wiki/entities/maliaoeasternhan/"
   },
   "MaMuLateHan": {
     "title": "马睦 / Ma Mu (late Han)",
@@ -38487,6 +38503,10 @@
     "title": "Patron Succession Exposure / 靠山更替暴露风险",
     "url": "/wiki/concepts/patronsuccessionexposure/"
   },
+  "PatronageLossSelfProtection": {
+    "title": "失去靠山后的低调自保 / Patronage-Loss Self-Protection",
+    "url": "/wiki/concepts/patronagelossselfprotection/"
+  },
   "PaulBrown": {
     "title": "Paul Brown",
     "url": "/wiki/entities/paulbrown/"
@@ -41686,6 +41706,10 @@
   "QingzhouYellowTurbans": {
     "title": "青州黄巾军 / Qingzhou Yellow Turbans",
     "url": "/wiki/entities/qingzhouyellowturbans/"
+  },
+  "QinshuiPrincessEasternHan": {
+    "title": "沁水公主 / Qinshui Princess (Eastern Han)",
+    "url": "/wiki/entities/qinshuiprincesseasternhan/"
   },
   "QiongQiong": {
     "title": "琼琼 / Qiongqiong",
@@ -56475,6 +56499,10 @@
     "title": "杨整修 / Yang Zhengxiu (late Han)",
     "url": "/wiki/entities/yangzhengxiulatehan/"
   },
+  "YangZhongEasternHan": {
+    "title": "杨终 / Yang Zhong (Eastern Han)",
+    "url": "/wiki/entities/yangzhongeasternhan/"
+  },
   "YangZhu": {
     "title": "杨朱 / Yang Zhu",
     "url": "/wiki/entities/yangzhu/"
@@ -58886,6 +58914,10 @@
   "ZhouYuLateHan": {
     "title": "周瑜 / Zhou Yu",
     "url": "/wiki/entities/zhouyulatehan/"
+  },
+  "ZhouYuLuoyangEasternHan": {
+    "title": "周纡 / Zhou Yu (Luoyang magistrate, Eastern Han)",
+    "url": "/wiki/entities/zhouyuluoyangeasternhan/"
   },
   "ZhouYuan": {
     "title": "周源 / Zhou Yuan",
@@ -63202,6 +63234,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297": {
+    "title": "《资治通鉴·汉纪》752丨失去靠山的人该如何处世？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297/"
   },
   "zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv": {
     "title": "《资治通鉴·汉纪》753丨班超被告黑状",

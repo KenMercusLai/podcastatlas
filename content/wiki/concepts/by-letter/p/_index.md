@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6032
+wiki_total_pages: 6034
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1571,6 +1571,9 @@ wiki_pages:
   - key: "PunishmentAsMoralCredential"
     title: "受罚作为名节凭据 / Punishment as Moral Credential"
     url: "/wiki/concepts/punishmentasmoralcredential/"
+  - key: "PatronageLossSelfProtection"
+    title: "失去靠山后的低调自保 / Patronage-Loss Self-Protection"
+    url: "/wiki/concepts/patronagelossselfprotection/"
   - key: "PrudentAmbiguitySelfProtection"
     title: "审慎含混式自保 / Prudent Ambiguity Self-Protection"
     url: "/wiki/concepts/prudentambiguityselfprotection/"

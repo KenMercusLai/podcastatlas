@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2067
+topic_total_pages: 2069
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3223,6 +3223,9 @@ topic_concepts:
   - key: "TaixueCollectivePetition"
     title: "太学集体请命 / Taixue Collective Petition"
     url: "/wiki/concepts/taixuecollectivepetition/"
+  - key: "PatronageLossSelfProtection"
+    title: "失去靠山后的低调自保 / Patronage-Loss Self-Protection"
+    url: "/wiki/concepts/patronagelossselfprotection/"
   - key: "ShouzhuoDecisiveRestraint"
     title: "守拙式临事决断 / Shouzhuo Decisive Restraint"
     url: "/wiki/concepts/shouzhuodecisiverestraint/"
@@ -3367,6 +3370,9 @@ topic_concepts:
   - key: "ReclusionAuthenticityAssessment"
     title: "真隐士与伪隐士辨别 / Reclusion Authenticity Assessment"
     url: "/wiki/concepts/reclusionauthenticityassessment/"
+  - key: "KnownMisconductNonPunishment"
+    title: "知奸不除式威慑失效 / Known-Misconduct Non-Punishment"
+    url: "/wiki/concepts/knownmisconductnonpunishment/"
   - key: "TaxationStabilityTradeoff"
     title: "税赋与地方稳定权衡 / Taxation-Stability Tradeoff"
     url: "/wiki/concepts/taxationstabilitytradeoff/"

@@ -33473,6 +33473,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "KnownMisconductNonPunishment": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "KochDisruptiveTechnologies": [
     {
       "key": "technology",
@@ -43883,6 +43890,13 @@
       "label": "History",
       "url": "/topics/history/"
     },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "PatronageLossSelfProtection": [
     {
       "key": "politics",
       "label": "Politics",

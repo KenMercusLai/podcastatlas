@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 8483
+wiki_total_pages: 8489
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -1493,9 +1493,15 @@ wiki_pages:
   - key: "MaShaonainaiLihun"
     title: "马少奶奶（《离婚》） / Ma Shaonainai"
     url: "/wiki/entities/mashaonainailihun/"
+  - key: "MaLiaoEasternHan"
+    title: "马廖 / Ma Liao (Eastern Han)"
+    url: "/wiki/entities/maliaoeasternhan/"
   - key: "MaRidiLateHan"
     title: "马日磾 / Ma Ridi (late Han)"
     url: "/wiki/entities/maridilatehan/"
+  - key: "MaFamilyZhangEraEasternHan"
+    title: "马氏 / Ma family (Zhang-era Eastern Han)"
+    url: "/wiki/entities/mafamilyzhangeraeasternhan/"
   - key: "MaHaoning"
     title: "马浩宁 / Ma Haoning"
     url: "/wiki/entities/mahaoning/"

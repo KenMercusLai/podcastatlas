@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "q"
-wiki_total_pages: 8483
+wiki_total_pages: 8489
 wiki_pages:
   - key: "Qatar"
     title: "Qatar"
@@ -206,6 +206,9 @@ wiki_pages:
   - key: "QishuiMusic"
     title: "汽水音乐 / Qishui Music"
     url: "/wiki/entities/qishuimusic/"
+  - key: "QinshuiPrincessEasternHan"
+    title: "沁水公主 / Qinshui Princess (Eastern Han)"
+    url: "/wiki/entities/qinshuiprincesseasternhan/"
   - key: "QinghuaJianXinian"
     title: "清华简《系年》 / Qinghua Bamboo Slips Xinian"
     url: "/wiki/entities/qinghuajianxinian/"

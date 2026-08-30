@@ -5,51 +5,56 @@ knowledge_schema: synthesis-v1
 tags: [person, eastern-han, harem-politics, imperial-mother, outer-relative-power]
 sources:
   - zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q
+  - zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297
 last_updated: 2026-08-30
 ---
 
 ## Overview
 
-梁贵人 / Liang Guiren enters the wiki as [[EmperorHeOfHan|Emperor He of Han]]'s hidden birth mother and the center of a 97 CE posthumous redress case. Hanji 770 treats her less as an active palace actor than as the suppressed maternal identity through which truth, ritual title, burial, maternal kin, and outer-relative consequences become politically joined.
+梁贵人 / Liang Guiren is [[EmperorHeOfHan|Emperor He of Han]]'s birth mother, now represented through both the Zhangdi-era suppression and the 97 CE posthumous redress. Hanji 752 shows her family becoming dangerous when Liu Zhao is made crown prince and [[EmpressDowagerDouHeLateHan|Empress Dou]] wants the maternal status attached to him. Hanji 770 then shows the suppressed identity returning after Dou Taihou's death through title, burial, kin recall, and restrained redress.
 
 ## Current Profile
 
-Hanji 770 says Liang Guiren had given birth to Emperor He, but palace insiders kept that fact hidden after her death. The source attributes her death to pressure from [[EmpressDowagerDouHeLateHan|Dou Taihou]], so Emperor He learns only after Dou dies that the woman who bore him had been wronged and left without the status normally attached to an emperor's mother.
+Hanji 752 gives the chronological origin. After Liu Zhao becomes crown prince, Liang Guiren's family celebrates because her birth-mother status could make the Liang line politically significant. The source says Empress Dou becomes jealous and the Liang household is pulled into an accusation against Liang Song. Liang relatives are imprisoned or exiled to Jiuzhen, and Liang Guiren and her sister die in grief. In this layer, Liang Guiren is not an active factional operator; she is the vulnerable birth-mother line whose very existence threatens a stronger adoptive-mother project.
 
-The redress is multi-part. [[ZhangPuEasternHan|Zhang Pu]] reports the Liang relatives' petition and advises the emperor to recognize his birth mother and locate the maternal uncles. Emperor He then posthumously honors Liang Guiren as Gonghuai empress dowager, reburies her and Liang Da Guiren west of [[EmperorZhangOfHan|Emperor Zhang]]'s tomb, honors her father Liang Song, recalls Liang relatives, and grants titles and favor to members of the Liang family.
+Hanji 770 shows the delayed repair. After Dou Taihou dies, Liang relatives petition and [[ZhangPuEasternHan|Zhang Pu]] advises Emperor He to recognize his birth mother and locate the maternal uncles. Emperor He posthumously honors Liang Guiren as Gonghuai empress dowager, reburying her and Liang Da Guiren west of [[EmperorZhangOfHan|Emperor Zhang]]'s tomb, honoring Liang Song, recalling Liang relatives, and granting titles and favor to members of the Liang family.
 
-Her case is therefore not only a family revelation. It becomes the source's model of [[ImperialBirthMotherRecognition|imperial birth-mother recognition]] and [[StraightRedressWithoutRevenge|straight redress without revenge]]: Emperor He repairs Liang's status without erasing Dou Taihou's adoptive-mother role. The host also treats Liang's posthumous restoration as the beginning of a later [[OuterRelativeRecurrence|outer-relative recurrence]], because the Liang line eventually becomes a new court danger.
+Her case is therefore both a victim record and an institutional case. It defines [[ImperialBirthMotherRecognition|imperial birth-mother recognition]] and [[StraightRedressWithoutRevenge|straight redress without revenge]] because Emperor He repairs Liang's status without erasing Dou Taihou's adoptive-mother role. The host also treats Liang's restoration as the beginning of later [[OuterRelativeRecurrence|outer-relative recurrence]], because the Liang line eventually becomes a new court danger.
 
 ## Key Characteristics
 
-- Hidden birth mother of Emperor He whose identity is revealed after Dou Taihou dies.
+- Birth mother of Emperor He whose family becomes dangerous once Liu Zhao is crown prince.
+- Victim of harem and maternal-clan politics because Dou's adoptive-mother ambition makes Liang visibility threatening.
+- Figure whose suppression includes Liang-family imprisonment, exile, and grief deaths before later truth recovery.
 - Posthumously redressed through title, reburial, maternal-kin recall, and family rewards.
 - Central case for distinguishing truth-and-status repair from revenge against an adoptive mother.
 - Source of the Liang family's renewed court ascent after earlier suppression.
-- Source-bounded figure whose independent life, palace role, and death details are not yet reconstructed beyond Hanji 770.
 
 ## Evidence
 
+- Crown-prince danger: [[zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297|Hanji 752]] says Liu Zhao's elevation makes Liang Guiren's family celebrate and makes Empress Dou view Liang maternal status as a threat.
+- Suppression sequence: [[zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297|Hanji 752]] links the Liang Song accusation, imprisonment, Jiuzhen exile, and the deaths of Liang Guiren and her sister in grief.
 - Hidden maternal identity: [[zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q|Hanji 770]] says Liang Guiren was Emperor He's birth mother, but the fact was concealed until Liang relatives petitioned after Dou Taihou's death.
 - Redress advice: [[zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q|Hanji 770]] says Zhang Pu advised posthumous recognition and restoration of the maternal relatives' status.
-- Title and burial recognition: [[zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q|Hanji 770]] records Liang Guiren's posthumous elevation as Gonghuai empress dowager and reburial near Emperor Zhang's tomb field.
-- Maternal-kin settlement: [[zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q|Hanji 770]] says Emperor He honors Liang Song and grants titles, recall, rewards, and favor to Liang relatives.
+- Title, burial, and kin settlement: [[zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q|Hanji 770]] records Liang Guiren's posthumous elevation as Gonghuai empress dowager, reburial near Emperor Zhang's tomb field, honors for Liang Song, and grants to Liang relatives.
 - Later consequence warning: [[zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q|Hanji 770]] says the Liang clan rises from this redress, while the host warns that later Liang outer relatives become a court harm.
 
 ## Qualifications
 
-The page is bounded to Hanji 770. It does not independently verify the full formal charges against Dou Taihou, reconstruct Liang Guiren's life, or identify every Liang relative named in the settlement. The later Liang-family harm is recorded as a source-scoped foreshadowing rather than a complete Liang Ji-era synthesis on this page.
+This page remains bounded to Hanji 752 and Hanji 770. Hanji 752 supplies the suppression sequence but still leaves Liang Song/Liang Shu details and the exact case record source-scoped. Hanji 770 supplies the formal redress but does not independently verify every allegation against Dou Taihou or reconstruct Liang Guiren's full palace life. The later Liang-family harm is recorded as source-scoped foreshadowing rather than a complete Liang Ji-era synthesis on this page.
 
 ## What Changed
 
-- Created Liang Guiren as Emperor He's hidden birth-mother redress case.
-- Framed her posthumous restoration as status repair that also opens a later outer-relative cycle.
+- Added Hanji 752 as the suppression origin before Hanji 770's posthumous revelation.
+- Reframed Liang Guiren as a birth-mother line made dangerous by Liu Zhao's crown-prince status and Dou's maternal-status ambition.
+- Preserved Hanji 770's title, burial, maternal-kin, and straight-redress synthesis.
 
 ## Relationships
 
-- [[EmperorHeOfHan|汉和帝]] - son who learns her identity after Dou Taihou's death and restores her status.
-- [[EmpressDowagerDouHeLateHan|窦太后]] - adoptive mother whose alleged pressure against Liang creates the posthumous grievance.
+- [[EmperorHeOfHan|汉和帝]] - son whose crown-prince status first endangers Liang's line and who later restores her status.
+- [[EmpressDowagerDouHeLateHan|窦皇后 / 窦太后]] - adoptive mother whose jealousy and pressure suppress Liang's birth-mother line.
 - [[ZhangPuEasternHan|张酺]] - official whose advice turns the Liang petition into formal redress.
-- [[EmperorZhangOfHan|汉章帝]] - deceased emperor whose tomb field anchors Liang's reburial context.
+- [[EmperorZhangOfHan|汉章帝]] - emperor whose household order fails to protect Liang's maternal identity while alive and whose tomb field anchors the later reburial.
 - [[ImperialBirthMotherRecognition|皇帝生母名分追认]] - concept modeled by Liang's posthumous title, burial, and kin settlement.
+- [[StraightRedressWithoutRevenge|以直报怨式平反]] - concept modeled by repairing Liang's status without stripping Dou's formal mother role.
 - [[OuterRelativeRecurrence|外戚轮回]] - later consequence pattern because Liang-family restoration can become new kin-power risk.

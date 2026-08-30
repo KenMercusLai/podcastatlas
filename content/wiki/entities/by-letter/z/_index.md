@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 8483
+wiki_total_pages: 8489
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -413,6 +413,9 @@ wiki_pages:
   - key: "ZhouZhangLateHan"
     title: "周章 / Zhou Zhang (late Han)"
     url: "/wiki/entities/zhouzhanglatehan/"
+  - key: "ZhouYuLuoyangEasternHan"
+    title: "周纡 / Zhou Yu (Luoyang magistrate, Eastern Han)"
+    url: "/wiki/entities/zhouyuluoyangeasternhan/"
   - key: "ZhouKe"
     title: "周苛 / Zhou Ke"
     url: "/wiki/entities/zhouke/"

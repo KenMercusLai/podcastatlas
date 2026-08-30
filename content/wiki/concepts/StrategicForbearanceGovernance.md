@@ -7,6 +7,7 @@ sources:
   - zizhi-tongjian-hanji-756-weishenme-quan-ni-de-rao-ren-chu-qie-rao-ren-ltn4tqzy1d-sodhjidncv8dyqxpj
   - zizhi-tongjian-hanji-755-zhege-chaodai-huangshang-jiu-kaishi-guli-shengwa-le-lj7bdkxkdtjhpo469yxhskjyfdco
   - zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2
+  - zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297
 last_updated: 2026-08-30
 ---
 
@@ -20,9 +21,9 @@ Hanji 754 broadens the concept before the Hanji 755-756 frontier debate. In the 
 
 The same source supplies the market-contact setup for the Xiongnu branch. [[NorthernXiongnuLateHan|Northern Xiongnu]] asks for mutual trade; [[MengYunEasternHan|Meng Yun]] memorializes, Zhangdi approves, and Northern Xiongnu bring livestock before [[SouthernXiongnu|Southern Xiongnu]] raid and seize many animals. Hanji 755 then makes the credibility risk explicit: Meng Yun warns that keeping the gains could make Northern Xiongnu think Han had lured them into reconciliation and then betrayed them. [[ZhengHongEasternHan|Zheng Hong]] and [[FifthLunEasternHan|Fifth Lun]] oppose restitution, while [[HuanYuEasternHan|Huan Yu]] and [[YuanAnEasternHan|Yuan An]] support it.
 
-Hanji 756 shows Zhangdi turning that disagreement into policy. He refuses to let ministerial anger become resignation, pays the Southern Xiongnu side for the captives and livestock, and returns them to Northern Xiongnu. Forbearance here is not private softness; it trades a short-term advantage for frontier credibility and preserves the court's ability to deliberate under conflict.
+Hanji 756 shows Zhangdi turning that disagreement into policy. He refuses to let ministerial anger become resignation, pays the Southern Xiongnu side for the captives and livestock, and returns them to Northern Xiongnu. Forbearance here is not private softness; it trades a short-term advantage for frontier credibility and preserves the court's ability to deliberate under conflict. The Qiang case gives the operational version: [[ZhangYuEasternHan|Zhang Yu]] releases [[HaoWuQiangLeader|Hao Wu]], and Hao Wu disperses the troops.
 
-The Qiang case gives the operational version. [[HaoWuQiangLeader|Hao Wu]] tells [[ZhangYuEasternHan|Zhang Yu]] that killing him will not weaken the Qiang but releasing him can end the attack. Zhang Yu releases him, and Hao Wu disperses the troops. The boundary cases are Ban Chao's Shule episodes: [[WangZhongShuleKing|Wang Zhong]]'s defection requires replacement and pressure in Hanji 754, while [[JiaoZhongShuleKing|Jiao Zhong]]'s false surrender requires lethal counter-deception in Hanji 756.
+Hanji 752 adds a boundary case. Zhangdi's decision to make [[DouXianEasternHan|Dou Xian]] return [[QinshuiPrincessEasternHan|Qinshui Princess]]'s estate without punishing him is restraint, but it is not strategic forbearance in this schema. The offender is known, protected, coercive, and attempting truth suppression; the preserved asset is not future cooperation but Dou's impunity. The case belongs better to [[KnownMisconductNonPunishment|known-misconduct non-punishment]].
 
 ## Key Claims
 
@@ -30,7 +31,7 @@ The Qiang case gives the operational version. [[HaoWuQiangLeader|Hao Wu]] tells 
 - Forbearance can preserve decision capacity when court conflict would otherwise push capable officials out of office.
 - Leaving room is strategic only when it protects a future asset such as cooperation, credibility, submission, information, speech, or withdrawal.
 - Frontier restraint can require compensating one partner's immediate gains to preserve trust with another frontier actor.
-- The pattern depends on judgment: bribed defection, false surrender, or active deception may require coercion rather than leniency.
+- The pattern depends on judgment: bribed defection, false surrender, active deception, or known protected wrongdoing may require sanction rather than leniency.
 - The concept differs from simple kindness because it evaluates what the state gains or loses by exhausting the other side's room to move.
 
 ## Evidence
@@ -42,17 +43,18 @@ The Qiang case gives the operational version. [[HaoWuQiangLeader|Hao Wu]] tells 
 - Court speech preservation: [[zizhi-tongjian-hanji-756-weishenme-quan-ni-de-rao-ren-chu-qie-rao-ren-ltn4tqzy1d-sodhjidncv8dyqxpj|Hanji 756]] says Emperor Zhang treats disagreement as normal in major affairs and stops officials from leaving after the heated dispute.
 - Frontier restitution: [[zizhi-tongjian-hanji-756-weishenme-quan-ni-de-rao-ren-chu-qie-rao-ren-ltn4tqzy1d-sodhjidncv8dyqxpj|Hanji 756]] says Zhangdi pays to recover captives and livestock and returns them to Northern Xiongnu, while still rewarding Southern Xiongnu killings under precedent.
 - Captive release and fulfilled cooperation: [[zizhi-tongjian-hanji-756-weishenme-quan-ni-de-rao-ren-chu-qie-rao-ren-ltn4tqzy1d-sodhjidncv8dyqxpj|Hanji 756]] says Zhang Yu releases Hao Wu, after which Hao Wu disperses the troops and Mi Wu withdraws north of the Yellow River.
-- Boundary conditions: [[zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2|Hanji 754]] says Ban Chao uses replacement and pressure against Wang Zhong's defection, while [[zizhi-tongjian-hanji-756-weishenme-quan-ni-de-rao-ren-chu-qie-rao-ren-ltn4tqzy1d-sodhjidncv8dyqxpj|Hanji 756]] says Ban Chao kills Jiao Zhong after seeing through a false surrender.
+- Boundary conditions: [[zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2|Hanji 754]] says Ban Chao uses replacement and pressure against [[WangZhongShuleKing|Wang Zhong]]'s defection, while [[zizhi-tongjian-hanji-756-weishenme-quan-ni-de-rao-ren-chu-qie-rao-ren-ltn4tqzy1d-sodhjidncv8dyqxpj|Hanji 756]] says Ban Chao kills [[JiaoZhongShuleKing|Jiao Zhong]] after seeing through a false surrender.
+- Non-forbearance boundary: [[zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297|Hanji 752]] says Dou Xian coerces Qinshui Princess's estate, tries to suppress the truth before Zhangdi, returns the estate, but receives no legal punishment.
 
 ## Counterevidence & Qualifications
 
-This concept is source-bounded and should not be generalized into a universal preference for softness. Hanji 754 shows that forbearance can protect speech but also that accusation still begins the case. Hanji 755 shows that forbearance can look unfair to a frontier partner that has just won a fight, and Hanji 756 contrasts Zhangdi and Zhang Yu's restrained choices with Ban Chao's coercive counter-deception. Forbearance works here when the other side has a usable cooperation path; when alignment is broken or surrender is a trap, restraint without verification would become a governance failure.
+This concept is source-bounded and should not be generalized into a universal preference for softness. Hanji 754 shows that forbearance can protect speech but also that accusation still begins the case. Hanji 755 shows that forbearance can look unfair to a frontier partner that has just won a fight, and Hanji 756 contrasts Zhangdi and Zhang Yu's restrained choices with Ban Chao's coercive counter-deception. Hanji 752 sharpens the boundary: when wrongdoing is known and protected, restraint without sanction can weaken deterrence rather than preserve a future asset.
 
 ## What Changed
 
-- Added Hanji 754 as the speech-tolerance layer before Hanji 755-756's court and frontier forbearance layers.
-- Added the Northern Xiongnu market-opening setup that makes later restitution a protection of prior contact, not only aftermath repair.
-- Clarified that Ban Chao's Wang Zhong and Jiao Zhong cases are boundary conditions where forbearance yields to threat assessment.
+- Added Hanji 752 as a negative boundary case: Zhangdi's Dou Xian response is restraint but not strategic forbearance.
+- Clarified that forbearance requires a preserved cooperation, credibility, speech, information, or withdrawal path.
+- Preserved Hanji 754-756 as the positive speech, court-deliberation, frontier-restitution, and captive-release evidence base.
 
 ## Related Concepts
 
@@ -62,4 +64,5 @@ This concept is source-bounded and should not be generalized into a universal pr
 - [[ReputationConstrainedWarRestraint|声誉约束下的战争克制]] - related restraint pattern where future reputation limits immediate violence.
 - [[FrontierRecognitionCredibilityTradeoff|边疆承认与信用取舍]] - related tradeoff between authority claims and practical frontier credibility.
 - [[BreachOfSurrenderTrust|破坏归降信任]] - negative contrast where exploiting surrender destroys future trust.
+- [[KnownMisconductNonPunishment|知奸不除式威慑失效]] - boundary contrast because known protected wrongdoing needs credible consequence, not mere rebuke.
 - [[StrategicCompromiseAsAgency|妥协作为主动选择]] - broader agency pattern where not pressing the maximum claim can increase later freedom of action.
