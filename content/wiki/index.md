@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》757丨人生想少走弯路？先找准定位！](sources/zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x.md) — 芮淇讲透资治通鉴 episode on Guo Gong's legal fit, Cao Bao's ritual commission, Fu Yu and Zhang Yu's Qiang-frontier failures, Mi Tang's coalition, and He Chang's omen skepticism.
 - [《资治通鉴·汉纪》758丨所有高情商，背后都是分寸感](sources/zizhi-tongjian-hanji-758-suoyou-gaoqingshang-beihou-doushi-fencungan-lr-6tzffmwdtzidkf3y8ule35qf7.md) — 芮淇讲透资治通鉴 episode on Emperor Zhang's late-reign royal-kin overfavor, Cao Bao's ritual code, Ban Chao's Shache deception, and He Chang/Song Yi's fiscal and protocol remonstrance.
 - [Dolly Parton’s “9 to 5,” the true story behind the anthem (bonus)](sources/default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177-default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177.md) — Planet Money bonus episode on Karen Nussbaum, 9to5, Jane Fonda, Patricia Resnick, Dolly Parton, and how a clerical-worker labor movement became the film and song "9 to 5".
 - [《资治通鉴·汉纪》759丨人性各种欲望，最可怕的是权力欲](sources/zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j.md) — 芮淇讲透资治通鉴 episode on Emperor Zhang's death, Emperor He's child accession, Empress Dowager Dou's regency, Dou Xian's early court power, Cui Yin and Deng Biao's roles, and the Geng Bing/Song Yi Northern Xiongnu debate.
@@ -1752,6 +1753,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [郭公 / Guo Gong (Eastern Han jurist)](entities/GuoGongEasternHanJurist.md) — Eastern Han tingwei whose legal family training and lighter-punishment proposal anchor Hanji 757's career-positioning frame.
+- [富裕 / Fu Yu (Eastern Han Qiang protector)](entities/FuYuEasternHan.md) — Eastern Han Qiang protector whose failed Qiang-Hu manipulation and premature pursuit of Mi Wu end in the Sandou Valley defeat.
+- [张于 / Zhang Yu (Eastern Han Qiang protector)](entities/ZhangYuEasternHan.md) — Eastern Han Qiang protector who kills Mi Wu and many Qiang leaders after surrender contact, creating a frontier trust breach.
+- [迷雾 / Mi Wu (Qiang leader)](entities/MiWuQiangLeader.md) — Qiang leader who kills Fu Yu at Sandou Valley and whose later banquet death under Zhang Yu becomes Mi Tang's rebellion prehistory.
 - [Karen Nussbaum](entities/KarenNussbaum.md) — Office-worker organizer who helped build 9to5 and connect clerical-worker demands to the 1980 film "9 to 5".
 - [Jane Fonda](entities/JaneFonda.md) — Actor-activist who turned 9to5's clerical-worker movement into a Hollywood film project.
 - [Patricia Resnick](entities/PatriciaResnick.md) — Screenwriter who translated clerical workers' office stories into the "9 to 5" script.
@@ -1765,7 +1770,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [刘刚 / Liu Gang (Eastern Han)](entities/LiuGangEasternHan.md) — Falsely accused brother in Liu Chang's murder case, used to show scapegoating risk under outer-relative pressure.
 - [宋游 / Song You (Eastern Han)](entities/SongYouEasternHan.md) — Taiwei who enables He Chang's murder-case review but retreats from signing the anti-Dou expedition memorial.
 - [郅寿 / Zhi Shou (Eastern Han)](entities/ZhiShouEasternHan.md) — Eastern Han official whose public refusal of Dou Xian's private request becomes a criminalized-remonstrance and retaliatory-terror case.
-- [何敞 / He Chang (Eastern Han)](entities/HeChangEasternHan.md) — Eastern Han official whose Liu Chang murder-case correction precedes anti-campaign, anti-luxury, and Zhi Shou rescue remonstrance.
+- [何敞 / He Chang (Eastern Han)](entities/HeChangEasternHan.md) — Eastern Han official whose omen skepticism, fiscal restraint, Liu Chang case correction, anti-campaign criticism, and Zhi Shou rescue define repeated remonstrance.
 - [窦笃 / Dou Du (Eastern Han)](entities/DouDuEasternHan.md) — Dou-family brother whose mansion construction and palace-guard command make household power visible beside Dou Jing.
 - [袁安 / Yuan An (Eastern Han)](entities/YuanAnEasternHan.md) — Eastern Han minister whose anti-Dou resistance runs from pre-campaign objection through Dou Jing impeachment, Yu Chu frontier policy, and Zhou Rong's drafting platform.
 - [窦景 / Dou Jing (Eastern Han)](entities/DouJingEasternHan.md) — Dou-family brother whose mansion, palace-guard command, household abuse, and unauthorized frontier cavalry recall make outer-relative overreach concrete.
@@ -1788,7 +1793,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [American Revolution](entities/AmericanRevolution.md) — Colonial break with Britain presented through Franklin's loyalty rupture, founding work, and French diplomacy.
 - [Franco-American Alliance of 1778](entities/FrancoAmericanAlliance1778.md) — French military and financial support relationship that Franklin's mission helped secure.
 - [Treaty of Paris (1783)](entities/TreatyOfParis1783.md) — Peace treaty with Britain recognizing American independence and completing Franklin's diplomatic sequence.
-- [曹褒 / Cao Bao (Eastern Han ritualist)](entities/CaoBaoEasternHan.md) — Eastern Han ritual specialist whose Han-rites project was used by Emperor He and then abandoned after Zhang Pu and Zhang Min's repeated opposition.
+- [曹褒 / Cao Bao (Eastern Han ritualist)](entities/CaoBaoEasternHan.md) — Eastern Han ritual specialist whose Han-rites project moves from Zhangdi's single-compiler commission to completion, use, and later abandonment.
 - [梁王刘畅 / Liu Chang (King of Liang)](entities/LiuChangLiangKing.md) — Eastern Han prince whose retainer's emperor-making speech triggered a limited territorial penalty and a usurpation-taboo case.
 - [贯友 / Guan You (late Han)](entities/GuanYouLateHan.md) — Protector of the Qiang who split Mi Tang's coalition with envoys, interpreters, and money before attacking and consolidating the Yu valley frontier.
 - [安国 / An Guo (Southern Xiongnu)](entities/AnGuoSouthernXiongnu.md) — Southern Xiongnu chanyu whose envy of Shizi turned into a failed killing plot and his own death.
@@ -1814,7 +1819,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [于除 / 俞厨 / Yu Chu (Northern Xiongnu)](entities/YuChuNorthernXiongnu.md) — Dou Xian-sponsored Northern Xiongnu claimant whose recognition request creates a frontier-credibility dispute before his later defection and destruction.
 - [清河王刘庆 / Liu Qing (Qinghe king)](entities/LiuQingQingheKing.md) — Eastern Han royal relative whose post-Dou caution precedes his Song Guiren sacrifice request after Liang Guiren's redress; kept distinct from modern Liu Qing.
 - [宋贵人 / Song Guiren (Zhang-He era)](entities/SongGuirenZhangHeLateHan.md) — Liu Qing's mother and parallel Dou Taihou victim whose recognition takes the narrower form of seasonal sacrifices.
-- [汉章帝 / Emperor Zhang of Han](entities/EmperorZhangOfHan.md) — Deceased Eastern Han emperor whose tomb field anchors the Dou Taihou burial dispute and Liang Guiren reburial context.
+- [汉章帝 / Emperor Zhang of Han](entities/EmperorZhangOfHan.md) — Eastern Han emperor whose current profile includes legal leniency, ritual sponsorship, Qiang-frontier response, royal-kin overfavor, omen politics, and later tomb-order disputes.
 - [蔡伦 / Cai Lun (late Han)](entities/CaiLunLateHan.md) — Eastern Han palace official whose current profile links court workshop authority, Deng's writing-material demand, fiber-paper improvement, and later Deng-regency political exposure.
 - [徐防 / Xu Fang (late Han)](entities/XuFangLateHan.md) — Eastern Han senior official whose current role centers on 102 CE Taixue examination reform and later Deng-regency staffing and blame-bearing notices.
 - [唐羌 / Tang Qiang (late Han)](entities/TangQiangLateHan.md) — Linwu local official whose memorial reframes Lingnan fresh-fruit tribute as a lethal transport burden accepted by Emperor He.
@@ -1845,7 +1850,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [班昭 / Ban Zhao (late Han)](entities/BanZhaoLateHan.md) — Eastern Han historiographical continuator, court teacher, and adviser whose profile links Ban Gu's `Han Shu`, Ban Chao's final-return petition, North Palace women's study, and later Deng-family mourning legitimacy management.
 - [贾逵 / Jia Kui (Eastern Han classicist)](entities/JiaKuiEasternHan.md) — Emperor-He-era shizhong and classicist who defends Liu Kai's yielding and participates in the court classics debate.
 - [鲁丕 / Lu Pi (Eastern Han classicist)](entities/LuPiEasternHan.md) — Classicist whose Emperor-He court debate argument makes reason-giving, non-punitive disagreement a governance norm.
-- [弥唐 / Mi Tang (Qiang leader)](entities/MiTangQiangLeader.md) — Shaodang Qiang leader whose sequence begins with Deng Xun's protective counterstrategy before Nie Shang's failed conciliation, Guan You's coalition split, Longxi pressure, surrender, failed incorporation, and remnant collapse.
+- [弥唐 / Mi Tang (Qiang leader)](entities/MiTangQiangLeader.md) — Shaodang Qiang leader whose sequence begins after Mi Wu's banquet death, then runs through Deng Xun's protection strategy, later conciliation failure, attacks, surrender, failed incorporation, and collapse.
 - [曹凤 / Cao Feng (late Han)](entities/CaoFengLateHan.md) — Emperor-He-era frontier official whose policy prelude and West Sea memorial link Shaodang Qiang instability to fertile land, fishery, salt, migration, tuntian, and state resource administration.
 - [烧当羌 / Shaodang Qiang](entities/ShaodangQiang.md) — Qiang group whose current evidence begins with Mi Tang's Longxi attack before failed incorporation, Cao Feng's West Sea resource diagnosis, and later An- and Shun-era campaign notices.
 - [汉和帝 / Emperor He of Han](entities/EmperorHeOfHan.md) — Eastern Han emperor whose current profile spans Yu Chu recognition, anti-Dou planning, post-Dou consolidation, Zheng Zhong's trusted eunuch access, Ban-family historiography, Qiang and Xiongnu frontier handling, Liang Guiren redress, court reform, harem succession, and infant succession after his death.
@@ -10220,13 +10225,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [人生定位与适配 / Career Positioning Through Fit](concepts/CareerPositioningThroughFit.md) — Career judgment pattern where effort compounds better when ability, temperament, role, and inherited resources fit before commitment.
+- [单人负责式制度编纂 / Single-Author Institutional Codification](concepts/SingleAuthorInstitutionalCodification.md) — Institutional-design tradeoff where one accountable compiler turns inherited precedent into usable rules when broad deliberation may stall.
+- [受降失信 / Breach of Surrender Trust](concepts/BreachOfSurrenderTrust.md) — Frontier-governance failure where surrender contact is betrayed, producing tactical gain but long-term credibility damage.
+- [祥瑞怀疑式进谏 / Omen Skepticism Remonstrance](concepts/OmenSkepticismRemonstrance.md) — Court-speech pattern where favorable omen narratives are challenged as possible warnings about governance and palace order.
 - [亲情名分边界 / Kinship Protocol Boundary](concepts/KinshipProtocolBoundary.md) — Court-governance principle that royal affection remains safe only when kept inside public hierarchy, ritual form, fiscal limits, and territorial distance.
 - [Office Worker Labor Organizing](concepts/OfficeWorkerLaborOrganizing.md) — Collective conversion of clerical and administrative workplace grievances into demands over pay, promotion, dignity, leave, child care, and bargaining power.
 - [Gendered Office Hierarchy](concepts/GenderedOfficeHierarchy.md) — Workplace pattern where feminized clerical roles sit below male-dominated managerial authority, promotion control, and credit.
 - [Culture-Led Labor Organizing](concepts/CultureLedLaborOrganizing.md) — Use of songs, films, comedy, television, and public performance to turn dispersed workplace frustrations into collective recognition and action.
 - [Sexual Harassment Naming Lag](concepts/SexualHarassmentNamingLag.md) — Gap between workers recognizing unwanted sexualized workplace conduct and having stable public or institutional vocabulary for it.
 - [死罪转军功式任用 / Punishment Converted to Campaign Command](concepts/PunishmentConvertedToCampaignCommand.md) — Court-politics pattern where protected liability is redirected into military command and possible public merit.
-- [保护换信任式边疆安抚 / Frontier Trust Through Protection](concepts/FrontierTrustThroughProtection.md) — Frontier governance pattern where protecting threatened groups creates allegiance, information, and coalition leverage.
+- [保护换信任式边疆安抚 / Frontier Trust Through Protection](concepts/FrontierTrustThroughProtection.md) — Frontier governance pattern where protection rebuilds credibility after prior bad faith and converts threatened groups into allegiance, information, and coalition leverage.
 - [Clinical Music Therapy](concepts/ClinicalMusicTherapy.md) — Trained, goal-directed music intervention separated from wellness listening by assessment, treatment goals, therapist relationship, and professional boundaries.
 - [Music Memory Cueing](concepts/MusicMemoryCueing.md) — Use of familiar songs, lyrics, rhythm, and musical recall to support older adults' memory, identity, confidence, and life-story expression.
 - [Therapeutic Musical Synchrony](concepts/TherapeuticMusicalSynchrony.md) — Music-therapy interaction pattern where the therapist first follows the client's rhythm or movement, then builds attention, agency, and participation.
@@ -10651,7 +10660,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [党锢亲属牵连扩大 / Party Prohibition Kinship Expansion](concepts/PartyProhibitionKinshipExpansion.md) — Late-Han pattern where post-coup and party-prohibition punishment expands from named figures into kin, students, old subordinates, hosts, recommended officials, and other social ties.
 - [守陵孝行进身凭证 / Filial Mourning Access Credential](concepts/FilialMourningAccessCredential.md) — Late-Han appointment-risk pattern where public mourning and filial display become credentials for palace or heir proximity unless institutionally verified.
 - [丁忧任职冲突 / Official Mourning Duty Conflict](concepts/OfficialMourningDutyConflict.md) — An-era pattern where Liu Kai's accepted three-year mourning permission later collides with administrative presence pressure, simplified ritual precedent, and eunuch information control.
-- [Overextended Frontier Expedition / 边境远征过度](concepts/OverextendedFrontierExpedition.md) — Strategic failure pattern where a court escalates frontier raids into deep punitive war despite weak capacity, poor border control, strong opponents, and unsettled internal conditions.
+- [Overextended Frontier Expedition / 边境远征过度](concepts/OverextendedFrontierExpedition.md) — Strategic failure pattern where frontier attacks outrun capacity, timing, pursuit discipline, or support conditions despite a real threat.
 - [Confidential Remonstrance Leakage / 密奏泄露风险](concepts/ConfidentialRemonstranceLeakage.md) — Late-Han speech-risk pattern where a private corrective memorial is exposed through inner-court access and becomes intelligence for retaliation before advice can become protection or policy.
 - [选官通道竞争 / Official Selection Channel Competition](concepts/OfficialSelectionChannelCompetition.md) — Political-institutional pattern where rival education or recommendation routes compete over finite official posts, including Hongdu Menxue as Emperor Ling's counterchannel against Taixue and great-clan selection control.
 - [太学 / Taixue](concepts/Taixue.md) — Imperial classical-learning institution whose current synthesis spans Shun-era decay and repair, Mingjing selection pipeline, student petition field, text-standard site, ritual venue, and incumbent education-to-office channel.

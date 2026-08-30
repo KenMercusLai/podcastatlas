@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2310
+topic_total_pages: 2311
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2305,6 +2305,9 @@ topic_concepts:
   - key: "CapitalPoetrySociality"
     title: "京城诗社交性 / Capital Poetry Sociality"
     url: "/wiki/concepts/capitalpoetrysociality/"
+  - key: "CareerPositioningThroughFit"
+    title: "人生定位与适配 / Career Positioning Through Fit"
+    url: "/wiki/concepts/careerpositioningthroughfit/"
   - key: "TrustAsMoralRisk"
     title: "信赖作为道德风险 / Trust As Moral Risk"
     url: "/wiki/concepts/trustasmoralrisk/"

@@ -5,6 +5,7 @@ knowledge_schema: synthesis-v1
 tags: [frontier, governance, trust, qiang, eastern-han]
 sources:
   - zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi
+  - zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x
 last_updated: 2026-08-30
 ---
 
@@ -14,13 +15,16 @@ last_updated: 2026-08-30
 
 ## Current Synthesis
 
-Hanji 760 supplies the first case through [[DengXunEasternHan|Deng Xun]]. When [[MiTangQiangLeader|Mi Tang]] threatens Hu communities near the frontier, other officials argue that letting Hu and Qiang groups hurt one another would benefit Han. Deng rejects that calculation, names prior official bad faith as a cause of rebellion, opens his office to protect Hu wives and children, and sends troops to defend them.
+Hanji 757 supplies the negative prehistory. [[ZhangYuEasternHan|Zhang Yu]] kills [[MiWuQiangLeader|Mi Wu]] and many Qiang leaders after surrender contact and banquet hospitality, after which [[MiTangQiangLeader|Mi Tang]] reconciles groups, intermixes marriages, exchanges hostages, and concentrates renewed rebellion. That prior breach makes later trust-building begin from damaged credibility rather than from a neutral frontier field.
+
+Hanji 760 supplies the positive case through [[DengXunEasternHan|Deng Xun]]. When Mi Tang threatens Hu communities near the frontier, other officials argue that letting Hu and Qiang groups hurt one another would benefit Han. Deng rejects that calculation, names prior official bad faith as a cause of rebellion, opens his office to protect Hu wives and children, and sends troops to defend them.
 
 That protection becomes political capital. Hu leaders describe Deng's treatment as parental protection and submit to his direction; Deng then uses surrendered Qiang intermediaries and rewards to pull more groups away from Mi Tang before attacking and defeating him. The concept therefore overlaps with people-based security and root-cause pacification, but it is narrower: the trust is built by taking a protective stance at the moment a vulnerable group is under threat.
 
 ## Key Claims
 
 - Protection can be a frontier-governance tool when threatened groups are deciding whether Han authority is safer than rebel coercion.
+- Protective trust-building is especially important after earlier state bad faith has made surrender or contact dangerous.
 - Refusing to exploit intergroup violence can build more durable allegiance than watching rivals weaken one another.
 - Trust is operational: it produces submission, intelligence, intermediaries, troops, and coalition fracture.
 - Protective pacification still allows force against the coercive actor; Deng's policy protects Hu families and then attacks Mi Tang.
@@ -28,6 +32,8 @@ That protection becomes political capital. Hu leaders describe Deng's treatment 
 
 ## Evidence
 
+- Prior breach: [[zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x|Hanji 757]] says Zhang Yu kills Mi Wu and many Qiang leaders after surrender contact.
+- Coalition aftereffect: [[zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x|Hanji 757]] says Mi Tang responds by reconciling groups, intermarrying, exchanging hostages, and continuing rebellion in the Yu valleys.
 - Rejected divide-and-watch advice: [[zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi|Hanji 760]] says officials advise Deng Xun not to protect Hu groups because Hu-Qiang conflict would help Han.
 - Bad-faith diagnosis: [[zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi|Hanji 760]] says Deng connects Qiang rebellion to earlier official breach of trust.
 - Protective action: [[zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi|Hanji 760]] says Deng opens his office to endangered Hu wives and children and sends soldiers to guard them.
@@ -36,10 +42,11 @@ That protection becomes political capital. Hu leaders describe Deng's treatment 
 
 ## Counterevidence & Qualifications
 
-The concept does not say frontier protection is sufficient by itself. Hanji 760 includes rewards, surrendered intermediaries, direct attack, pursuit, and postwar garrison farming. Later Hanji 767 also shows that copying a soft posture without Deng's accumulated legitimacy can fail in Nie Shang's case. Protection works here because it is paired with credible conduct, incentives, and force.
+The concept does not say frontier protection is sufficient by itself. Hanji 757 shows that coercive success can worsen trust when surrender contact is betrayed, while Hanji 760 includes rewards, surrendered intermediaries, direct attack, pursuit, and postwar garrison farming. Later Hanji 767 also shows that copying a soft posture without Deng's accumulated legitimacy can fail in Nie Shang's case. Protection works here because it is paired with credible conduct, incentives, and force.
 
 ## What Changed
 
+- Added Hanji 757 as the bad-faith prehistory that makes Deng Xun's protective trust-building legible.
 - Created the concept from Hanji 760's Deng Xun protection-and-submission sequence.
 - Distinguished protective trust-building from both passive divide-and-rule and wishful conciliation.
 
@@ -47,6 +54,8 @@ The concept does not say frontier protection is sufficient by itself. Hanji 760 
 
 - [[DengXunEasternHan|邓训]] - source official whose protection of Hu families builds allegiance.
 - [[MiTangQiangLeader|弥唐]] - coercive frontier actor whose threat creates the protection test.
+- [[ZhangYuEasternHan|张于 / Zhang Yu]] - prior Han official whose breach damages the trust baseline.
+- [[BreachOfSurrenderTrust|受降失信]] - negative contrast where surrendered contact is turned into killing.
 - [[ShaodangQiang|烧当羌]] - Qiang group context for Mi Tang's pressure and Deng's campaign.
 - [[PeopleBasedPoliticalSecurity|民心型政治安全]] - broader relationship because social trust becomes practical security capacity.
 - [[RootCausePacification|查因安抚式治理]] - related governance frame because Deng names prior bad faith as a cause of rebellion.

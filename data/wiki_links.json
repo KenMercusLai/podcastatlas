@@ -7639,6 +7639,10 @@
     "title": "Brazil",
     "url": "/wiki/entities/brazil/"
   },
+  "BreachOfSurrenderTrust": {
+    "title": "受降失信 / Breach of Surrender Trust",
+    "url": "/wiki/concepts/breachofsurrendertrust/"
+  },
   "BreadTalk": {
     "title": "面包新语 / BreadTalk",
     "url": "/wiki/entities/breadtalk/"
@@ -8794,6 +8798,10 @@
   "CareerOptionality": {
     "title": "Career Optionality",
     "url": "/wiki/concepts/careeroptionality/"
+  },
+  "CareerPositioningThroughFit": {
+    "title": "人生定位与适配 / Career Positioning Through Fit",
+    "url": "/wiki/concepts/careerpositioningthroughfit/"
   },
   "CareerSelfRescue": {
     "title": "Career Self-Rescue",
@@ -19771,6 +19779,10 @@
     "title": "傅宇 / Fu Yu",
     "url": "/wiki/entities/fuyu/"
   },
+  "FuYuEasternHan": {
+    "title": "富裕 / Fu Yu (Eastern Han Qiang protector)",
+    "url": "/wiki/entities/fuyueasternhan/"
+  },
   "FuZhiLateHan": {
     "title": "服直 / Fu Zhi (late Han)",
     "url": "/wiki/entities/fuzhilatehan/"
@@ -21814,6 +21826,10 @@
   "GuoDaLateHan": {
     "title": "郭大 / Guo Da (late Han)",
     "url": "/wiki/entities/guodalatehan/"
+  },
+  "GuoGongEasternHanJurist": {
+    "title": "郭公 / Guo Gong (Eastern Han jurist)",
+    "url": "/wiki/entities/guogongeasternhanjurist/"
   },
   "GuoGongLateHan": {
     "title": "郭贡 / Guo Gong (Late Han)",
@@ -33807,6 +33823,10 @@
     "title": "芈完 / 楚考烈王 / Mi Wan",
     "url": "/wiki/entities/miwan/"
   },
+  "MiWuQiangLeader": {
+    "title": "迷雾 / Mi Wu (Qiang leader)",
+    "url": "/wiki/entities/miwuqiangleader/"
+  },
   "MiXin": {
     "title": "芈心 / Mi Xin / Later Chu Huai Wang",
     "url": "/wiki/entities/mixin/"
@@ -37054,6 +37074,10 @@
   "OmenLaunderedPurge": {
     "title": "Omen-Laundered Purge / 天象包装式清洗",
     "url": "/wiki/concepts/omenlaunderedpurge/"
+  },
+  "OmenSkepticismRemonstrance": {
+    "title": "祥瑞怀疑式进谏 / Omen Skepticism Remonstrance",
+    "url": "/wiki/concepts/omenskepticismremonstrance/"
   },
   "OmerKhan": {
     "title": "Omer Khan",
@@ -46274,6 +46298,10 @@
   "SingerSewingMachine": {
     "title": "Singer Sewing Machine",
     "url": "/wiki/entities/singersewingmachine/"
+  },
+  "SingleAuthorInstitutionalCodification": {
+    "title": "单人负责式制度编纂 / Single-Author Institutional Codification",
+    "url": "/wiki/concepts/singleauthorinstitutionalcodification/"
   },
   "SingleCellAutoencoderRepresentation": {
     "title": "Single-Cell Autoencoder Representation",
@@ -57919,6 +57947,10 @@
     "title": "张永德 / Zhang Yongde",
     "url": "/wiki/entities/zhangyongde/"
   },
+  "ZhangYuEasternHan": {
+    "title": "张于 / Zhang Yu (Eastern Han Qiang protector)",
+    "url": "/wiki/entities/zhangyueasternhan/"
+  },
   "ZhangYueguang": {
     "title": "张月光",
     "url": "/wiki/entities/zhangyueguang/"
@@ -63074,6 +63106,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x": {
+    "title": "《资治通鉴·汉纪》757丨人生想少走弯路？先找准定位！",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x/"
   },
   "zizhi-tongjian-hanji-758-suoyou-gaoqingshang-beihou-doushi-fencungan-lr-6tzffmwdtzidkf3y8ule35qf7": {
     "title": "《资治通鉴·汉纪》758丨所有高情商，背后都是分寸感",

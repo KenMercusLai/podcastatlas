@@ -13602,6 +13602,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-30] ingest | 《资治通鉴·汉纪》757丨人生想少走弯路？先找准定位！
+
+Ingested the 2026-06-30 芮淇讲透资治通鉴 episode backfilling the 86-87 CE Zhangdi layer. Created the source note plus `GuoGongEasternHanJurist`, `FuYuEasternHan`, `ZhangYuEasternHan`, `MiWuQiangLeader`, `CareerPositioningThroughFit`, `SingleAuthorInstitutionalCodification`, `BreachOfSurrenderTrust`, and `OmenSkepticismRemonstrance`; updated `EmperorZhangOfHan`, `CaoBaoEasternHan`, `HeChangEasternHan`, `MiTangQiangLeader`, `FrontierTrustThroughProtection`, `OverextendedFrontierExpedition`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; the source mainly adds role-fit, ritual-commission, Qiang-frontier trust, and omen-skepticism layers before Hanji 758.
+
 ## [2026-08-30] ingest | 《资治通鉴·汉纪》758丨所有高情商，背后都是分寸感
 
 Ingested the 2026-06-30 芮淇讲透资治通鉴 episode on Emperor Zhang's late-reign "分寸感" problem, Cao Bao's ritual-code completion, Ban Chao's Shache deception, He Chang's fiscal remonstrance, Song Yi's royal-kin protocol warning, Zhangdi's deathbed frugality, and the transition toward Empress Dowager Dou's regency. Created the source note plus `KinshipProtocolBoundary`; updated `EmperorZhangOfHan`, `CaoBaoEasternHan`, `BanChaoEasternHan`, `HeChangEasternHan`, `SongYiEasternHan`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; royal-prince identities, Shache/Yutian/Wensu/Gumo/Weitou details, and exact force counts remain source-scoped.
@@ -13965,6 +13969,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-30] ingest | Dolly Parton’s “9 to 5,” the true story behind the anthem (bonus)
 
 Ingested the 2026-08-30 Planet Money bonus episode on the real clerical-worker labor movement behind Dolly Parton's "9 to 5." Created the source note plus `KarenNussbaum`, `JaneFonda`, `PatriciaResnick`, `NineToFiveOrganization`, `NineToFiveFilm`, `OfficeWorkerLaborOrganizing`, `GenderedOfficeHierarchy`, `CultureLedLaborOrganizing`, and `SexualHarassmentNamingLag`; updated `DollyParton`, `WomenWorkplaceProgressStall`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; the source extends Dolly Parton's cultural-memory page with a labor-history layer and qualifies the film's recognition effect by preserving its unfinished child care, harassment, leave, equal-pay, union-decline, and race-scope limits.
+
+## [2026-08-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-30] lint | Wiki health check
 

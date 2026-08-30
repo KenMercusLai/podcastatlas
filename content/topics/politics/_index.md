@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2055
+topic_total_pages: 2058
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3178,6 +3178,9 @@ topic_concepts:
   - key: "TenKingdomsRelationshipTypes"
     title: "十国关系类型 / Ten Kingdoms Relationship Types"
     url: "/wiki/concepts/tenkingdomsrelationshiptypes/"
+  - key: "SingleAuthorInstitutionalCodification"
+    title: "单人负责式制度编纂 / Single-Author Institutional Codification"
+    url: "/wiki/concepts/singleauthorinstitutionalcodification/"
   - key: "SouthernTourPoliticalTheater"
     title: "南巡政治剧场 / Southern Tour Political Theater"
     url: "/wiki/concepts/southerntourpoliticaltheater/"
@@ -5441,6 +5444,9 @@ topic_entities:
   - key: "ZhengZhu"
     title: "郑朱 / Zheng Zhu"
     url: "/wiki/entities/zhengzhu/"
+  - key: "GuoGongEasternHanJurist"
+    title: "郭公 / Guo Gong (Eastern Han jurist)"
+    url: "/wiki/entities/guogongeasternhanjurist/"
   - key: "GuoMoruo"
     title: "郭沫若"
     url: "/wiki/entities/guomoruo/"
@@ -6093,6 +6099,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh"
     title: "《资治通鉴·汉纪》185｜一张利嘴，收复中国万里疆土"
     url: "/wiki/sources/zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh/"
+  - key: "zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x"
+    title: "《资治通鉴·汉纪》757丨人生想少走弯路？先找准定位！"
+    url: "/wiki/sources/zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x/"
   - key: "zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf"
     title: "《资治通鉴·汉纪》771丨寻找罗马！汉使甘英的世界旅行"
     url: "/wiki/sources/zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf/"

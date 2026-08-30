@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 8464
+wiki_total_pages: 8468
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -1454,6 +1454,9 @@ wiki_pages:
   - key: "MiuLiu"
     title: "谬刘 / Miu Liu"
     url: "/wiki/entities/miuliu/"
+  - key: "MiWuQiangLeader"
+    title: "迷雾 / Mi Wu (Qiang leader)"
+    url: "/wiki/entities/miwuqiangleader/"
   - key: "MeiwuFortress"
     title: "郿坞 / Meiwu Fortress"
     url: "/wiki/entities/meiwufortress/"

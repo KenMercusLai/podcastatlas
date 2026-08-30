@@ -4193,6 +4193,29 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/brandedproducedifferentiation/"
     },
+    "BreachOfSurrenderTrust": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》757丨人生想少走弯路？先找准定位！ [lrI1zyiq8210yMQJAKzNyP3v4K6x].md",
+          "key": "zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》757丨人生想少走弯路？先找准定位！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》760丨历史揭秘：皇后出轨被抓，下场惨不惨？ [lgZ2sC9XT8ULltVWeMiZ2uzFgHQI].md",
+          "key": "zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》760丨历史揭秘：皇后出轨被抓，下场惨不惨？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/breachofsurrendertrust/"
+    },
     "BrianFaulkner": {
       "episode_count": 2,
       "show_count": 1,
@@ -4740,9 +4763,9 @@
       "url": "/wiki/entities/cangtingbattlelatehan/"
     },
     "CaoBaoEasternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》768丨历史告诉你：嫉妒是杀心！ [lgK8qoXvS5Ax8oIKGeCrxQviSpNa].md",
@@ -4757,6 +4780,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》758丨所有高情商，背后都是分寸感",
           "url": "/wiki/sources/zizhi-tongjian-hanji-758-suoyou-gaoqingshang-beihou-doushi-fencungan-lr-6tzffmwdtzidkf3y8ule35qf7/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》757丨人生想少走弯路？先找准定位！ [lrI1zyiq8210yMQJAKzNyP3v4K6x].md",
+          "key": "zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》757丨人生想少走弯路？先找准定位！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x/"
         }
       ],
       "updated": "2026-08-30",
@@ -5100,6 +5130,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/careercognitioneducation/"
+    },
+    "CareerPositioningThroughFit": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》757丨人生想少走弯路？先找准定位！ [lrI1zyiq8210yMQJAKzNyP3v4K6x].md",
+          "key": "zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》757丨人生想少走弯路？先找准定位！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/careerpositioningthroughfit/"
     },
     "CarmeliteConventMayerling": {
       "episode_count": 1,
@@ -10749,9 +10795,9 @@
       "url": "/wiki/entities/emperorshunofhan/"
     },
     "EmperorZhangOfHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》770丨沉默的真相：皇帝的生母竟是她 [lu5dqu8Uuw277IkZXkBLVqDbPL3q].md",
@@ -10766,6 +10812,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》758丨所有高情商，背后都是分寸感",
           "url": "/wiki/sources/zizhi-tongjian-hanji-758-suoyou-gaoqingshang-beihou-doushi-fencungan-lr-6tzffmwdtzidkf3y8ule35qf7/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》757丨人生想少走弯路？先找准定位！ [lrI1zyiq8210yMQJAKzNyP3v4K6x].md",
+          "key": "zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》757丨人生想少走弯路？先找准定位！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x/"
         }
       ],
       "updated": "2026-08-30",
@@ -13270,9 +13323,9 @@
       "url": "/wiki/concepts/frontierresourceintegration/"
     },
     "FrontierTrustThroughProtection": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》760丨历史揭秘：皇后出轨被抓，下场惨不惨？ [lgZ2sC9XT8ULltVWeMiZ2uzFgHQI].md",
@@ -13280,6 +13333,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》760丨历史揭秘：皇后出轨被抓，下场惨不惨？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》757丨人生想少走弯路？先找准定位！ [lrI1zyiq8210yMQJAKzNyP3v4K6x].md",
+          "key": "zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》757丨人生想少走弯路？先找准定位！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x/"
         }
       ],
       "updated": "2026-08-30",
@@ -13330,6 +13390,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/furonglatehan/"
+    },
+    "FuYuEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》757丨人生想少走弯路？先找准定位！ [lrI1zyiq8210yMQJAKzNyP3v4K6x].md",
+          "key": "zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》757丨人生想少走弯路？先找准定位！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/fuyueasternhan/"
     },
     "FuZhiLateHan": {
       "episode_count": 1,
@@ -14481,6 +14557,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/guiderobotdogs/"
     },
+    "GuoGongEasternHanJurist": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》757丨人生想少走弯路？先找准定位！ [lrI1zyiq8210yMQJAKzNyP3v4K6x].md",
+          "key": "zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》757丨人生想少走弯路？先找准定位！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/guogongeasternhanjurist/"
+    },
     "GuoGuirenHuanLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -15222,9 +15314,9 @@
       "url": "/wiki/concepts/hardtechfinancingdiscipline/"
     },
     "HeChangEasternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》761丨从死刑犯到沙场英雄，他是如何做到的？ [lmcLLzGpJ19DSTNzfZtStrKAWuEX].md",
@@ -15246,6 +15338,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》758丨所有高情商，背后都是分寸感",
           "url": "/wiki/sources/zizhi-tongjian-hanji-758-suoyou-gaoqingshang-beihou-doushi-fencungan-lr-6tzffmwdtzidkf3y8ule35qf7/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》757丨人生想少走弯路？先找准定位！ [lrI1zyiq8210yMQJAKzNyP3v4K6x].md",
+          "key": "zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》757丨人生想少走弯路？先找准定位！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x/"
         }
       ],
       "updated": "2026-08-30",
@@ -23840,9 +23939,9 @@
       "url": "/wiki/concepts/metabolicpsychiatry/"
     },
     "MiTangQiangLeader": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》772丨他为何宁愿成为逃犯，也不愿继承家业？ [lrou5nayE7opB5FavWUz6BQbgGAe].md",
@@ -23885,10 +23984,33 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》760丨历史揭秘：皇后出轨被抓，下场惨不惨？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》757丨人生想少走弯路？先找准定位！ [lrI1zyiq8210yMQJAKzNyP3v4K6x].md",
+          "key": "zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》757丨人生想少走弯路？先找准定位！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x/"
         }
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/mitangqiangleader/"
+    },
+    "MiWuQiangLeader": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》757丨人生想少走弯路？先找准定位！ [lrI1zyiq8210yMQJAKzNyP3v4K6x].md",
+          "key": "zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》757丨人生想少走弯路？先找准定位！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/miwuqiangleader/"
     },
     "Mianji": {
       "episode_count": 19,
@@ -25854,6 +25976,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/omencodedremonstrance/"
     },
+    "OmenSkepticismRemonstrance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》757丨人生想少走弯路？先找准定位！ [lrI1zyiq8210yMQJAKzNyP3v4K6x].md",
+          "key": "zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》757丨人生想少走弯路？先找准定位！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/omenskepticismremonstrance/"
+    },
     "OnPolicyDistillation": {
       "episode_count": 2,
       "show_count": 2,
@@ -26231,6 +26369,29 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/outerroundinnersquareconduct/"
+    },
+    "OverextendedFrontierExpedition": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》909丨2025如何养成一身贵气？ [lomnDMpHR_YBUnJbBbbn9EBAFcsj].md",
+          "key": "zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》909丨2025如何养成一身贵气？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》757丨人生想少走弯路？先找准定位！ [lrI1zyiq8210yMQJAKzNyP3v4K6x].md",
+          "key": "zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》757丨人生想少走弯路？先找准定位！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/overextendedfrontierexpedition/"
     },
     "PCOSCardiometabolicRisk": {
       "episode_count": 1,
@@ -31412,6 +31573,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/simajunlatehan/"
+    },
+    "SingleAuthorInstitutionalCodification": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》757丨人生想少走弯路？先找准定位！ [lrI1zyiq8210yMQJAKzNyP3v4K6x].md",
+          "key": "zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》757丨人生想少走弯路？先找准定位！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/singleauthorinstitutionalcodification/"
     },
     "Sirens": {
       "episode_count": 1,
@@ -40983,6 +41160,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/zhangyingguanglinglatehan/"
+    },
+    "ZhangYuEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》757丨人生想少走弯路？先找准定位！ [lrI1zyiq8210yMQJAKzNyP3v4K6x].md",
+          "key": "zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》757丨人生想少走弯路？先找准定位！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/zhangyueasternhan/"
     },
     "ZhangZhaoLateHan": {
       "episode_count": 3,

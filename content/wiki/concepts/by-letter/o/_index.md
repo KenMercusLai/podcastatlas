@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 6019
+wiki_total_pages: 6023
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -542,6 +542,9 @@ wiki_pages:
   - key: "OrdinaryPeopleHistoricalVisibility"
     title: "普通人历史可见性 / Ordinary People Historical Visibility"
     url: "/wiki/concepts/ordinarypeoplehistoricalvisibility/"
+  - key: "OmenSkepticismRemonstrance"
+    title: "祥瑞怀疑式进谏 / Omen Skepticism Remonstrance"
+    url: "/wiki/concepts/omenskepticismremonstrance/"
   - key: "OfficialSelectionChannelCompetition"
     title: "选官通道竞争 / Official Selection Channel Competition"
     url: "/wiki/concepts/officialselectionchannelcompetition/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6019
+wiki_total_pages: 6023
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1829,6 +1829,9 @@ wiki_pages:
   - key: "CapitalPoetrySociality"
     title: "京城诗社交性 / Capital Poetry Sociality"
     url: "/wiki/concepts/capitalpoetrysociality/"
+  - key: "CareerPositioningThroughFit"
+    title: "人生定位与适配 / Career Positioning Through Fit"
+    url: "/wiki/concepts/careerpositioningthroughfit/"
   - key: "CommandCreditMisattribution"
     title: "军功归属错置 / Command Credit Misattribution"
     url: "/wiki/concepts/commandcreditmisattribution/"

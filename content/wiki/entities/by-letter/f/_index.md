@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 8464
+wiki_total_pages: 8468
 wiki_pages:
   - key: "FortyThreeTalks"
     title: "43talks"
@@ -677,6 +677,9 @@ wiki_pages:
   - key: "FullgoalFund"
     title: "富国基金 / Fullgoal Fund"
     url: "/wiki/entities/fullgoalfund/"
+  - key: "FuYuEasternHan"
+    title: "富裕 / Fu Yu (Eastern Han Qiang protector)"
+    url: "/wiki/entities/fuyueasternhan/"
   - key: "FengXuLateHan"
     title: "封谞 / Feng Xu (late Han)"
     url: "/wiki/entities/fengxulatehan/"

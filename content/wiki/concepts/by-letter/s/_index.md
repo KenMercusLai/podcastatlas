@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 6019
+wiki_total_pages: 6023
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1652,6 +1652,9 @@ wiki_pages:
   - key: "SongUnificationStrategy"
     title: "先南后北 / Song Unification Strategy"
     url: "/wiki/concepts/songunificationstrategy/"
+  - key: "SingleAuthorInstitutionalCodification"
+    title: "单人负责式制度编纂 / Single-Author Institutional Codification"
+    url: "/wiki/concepts/singleauthorinstitutionalcodification/"
   - key: "SouthernTourPoliticalTheater"
     title: "南巡政治剧场 / Southern Tour Political Theater"
     url: "/wiki/concepts/southerntourpoliticaltheater/"

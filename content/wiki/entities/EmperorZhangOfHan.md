@@ -6,14 +6,19 @@ tags: [person, emperor, eastern-han, imperial-burial, court-politics]
 sources:
   - zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q
   - zizhi-tongjian-hanji-758-suoyou-gaoqingshang-beihou-doushi-fencungan-lr-6tzffmwdtzidkf3y8ule35qf7
+  - zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x
 last_updated: 2026-08-30
 ---
 
 ## Overview
 
-汉章帝 / Emperor Zhang of Han now has two bounded layers in the wiki. Hanji 758 makes him a living late-reign ruler whose loyal and humane temperament is praised but whose generosity toward royal kin exceeds fiscal, ritual, and court-rank limits. Hanji 770 later makes him the deceased emperor whose tomb and spouse order frame the posthumous status dispute around [[EmpressDowagerDouHeLateHan|Dou Taihou]] and [[LiangGuirenHeLateHan|Liang Guiren]].
+汉章帝 / Emperor Zhang of Han now has three bounded layers in the wiki. Hanji 757 shows him as an active institutional ruler who accepts [[GuoGongEasternHanJurist|Guo Gong]]'s legal leniency proposal, assigns [[CaoBaoEasternHan|Cao Bao]] to revise Han rites through a single-compiler process, appoints [[ZhangYuEasternHan|Zhang Yu]] after [[FuYuEasternHan|Fu Yu]]'s frontier death, and changes the era name amid auspicious signs that [[HeChangEasternHan|He Chang]] reads cautiously. Hanji 758 makes him a living late-reign ruler whose loyal and humane temperament is praised but whose generosity toward royal kin exceeds fiscal, ritual, and court-rank limits. Hanji 770 later makes him the deceased emperor whose tomb and spouse order frame the posthumous status dispute around [[EmpressDowagerDouHeLateHan|Dou Taihou]] and [[LiangGuirenHeLateHan|Liang Guiren]].
 
 ## Current Profile
+
+Hanji 757 supplies the institutional-action layer. Zhangdi appoints the Yingchuan jurist Guo Gong as tingwei and accepts Guo's proposal to treat forty-one heavy-punishment provisions more lightly. He also responds to Cao Bao's request for Han ritual institutions by choosing execution over broad scholar deliberation: despite Chao Kan's status objection and [[BanGuEasternHan|Ban Gu]]'s proposal for wide consultation, Zhangdi assigns Cao Bao alone and gives him [[ShusunTong|Shusun Tong]]'s twelve `Han Yi` chapters as the base for revision.
+
+The same source shows Zhangdi reacting to frontier and omen pressures. After Fu Yu dies in a failed Qiang-frontier expedition, Zhangdi is alarmed and appoints Longxi administrator Zhang Yu as Protector of the Qiang. Later, after many auspicious signs are reported, he changes the era name to Zhanghe. He Chang's warning at that moment qualifies the celebratory reading: palace anomalies can be danger signs, not only legitimacy signals.
 
 Hanji 758 supplies the final-year governing profile. Zhangdi's court is not portrayed as empty failure: he travels through southern regions, receives large Northern Xiongnu submissions, accepts [[CaoBaoEasternHan|Cao Bao's]] Han ritual code, and presides over a frontier environment in which [[BanChaoEasternHan|Ban Chao]] can defeat Shache. The same source also says Zhangdi is naturally broad, kind, and attached to kin.
 
@@ -27,15 +32,20 @@ Hanji 770 supplies the later posthumous layer. After Dou Taihou dies and the hid
 
 ## Key Characteristics
 
-- Late Eastern Han emperor whose current living profile combines humane rule, ritual sponsorship, frontier stability, and generosity that exceeds proportion.
-- Sponsor of Cao Bao's Han-rites project before Emperor He's later weaker enforcement of it.
+- Late Eastern Han emperor whose living profile combines legal leniency, ritual sponsorship, frontier response, omen politics, humane rule, and generosity that exceeds proportion.
+- Sponsor of Cao Bao's Han-rites project from single-compiler commission through later acceptance.
+- Ruler who accepts Guo Gong's lighter-punishment proposal, giving the source a law-and-leniency layer.
+- Frontier decision maker who appoints Zhang Yu after Fu Yu's failed Qiang campaign.
 - Ruler whose royal-kin favoritism becomes a case of blurred public hierarchy and fiscal overextension.
 - Deathbed frugality figure whose simple-burial order qualifies but does not erase the overgenerosity problem.
 - Deceased spouse of Dou Taihou, whose burial pairing Emperor He preserves.
-- Tomb-field anchor for Liang Guiren's posthumous reburial after Emperor He's birth-mother redress.
 
 ## Evidence
 
+- Legal leniency: [[zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x|Hanji 757]] says Zhangdi appoints Guo Gong as tingwei and accepts his proposal to lighten forty-one heavy-punishment provisions.
+- Ritual commission: [[zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x|Hanji 757]] says Zhangdi rejects broad scholar deliberation, assigns Cao Bao alone, and gives him Shusun Tong's twelve `Han Yi` chapters for revision.
+- Frontier replacement: [[zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x|Hanji 757]] says Zhangdi appoints Zhang Yu as Protector of the Qiang after Fu Yu's death.
+- Era-change and warning: [[zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x|Hanji 757]] says Zhangdi changes the era name because of many auspicious signs, while He Chang warns that strange palace signs require caution.
 - Late-reign context: [[zizhi-tongjian-hanji-758-suoyou-gaoqingshang-beihou-doushi-fencungan-lr-6tzffmwdtzidkf3y8ule35qf7|Hanji 758]] records Zhangdi's southern tour, Northern Xiongnu submission notices, Cao Bao's completed ritual code, and Ban Chao's Shache victory in the same late-reign frame.
 - Ritual sponsorship: [[zizhi-tongjian-hanji-758-suoyou-gaoqingshang-beihou-doushi-fencungan-lr-6tzffmwdtzidkf3y8ule35qf7|Hanji 758]] says Zhangdi accepts Cao Bao's rites without sending them through another review.
 - Royal-kin overfavor: [[zizhi-tongjian-hanji-758-suoyou-gaoqingshang-beihou-doushi-fencungan-lr-6tzffmwdtzidkf3y8ule35qf7|Hanji 758]] says royal relatives visiting the capital receive high treatment, long residence, large gifts, and unusual court privileges.
@@ -48,10 +58,11 @@ Hanji 770 supplies the later posthumous layer. After Dou Taihou dies and the hid
 
 ## Qualifications
 
-This page is still source-bounded and does not attempt a full Zhangdi reign biography. Hanji 758 gives a late-reign synthesis filtered through the host's "分寸感" frame, not a complete institutional history. Its royal-kin criticism is compatible with Fan Ye's positive assessment because the source itself holds both points together: Zhangdi is praised for humane governance, but humane temperament does not remove the need for fiscal and ritual boundaries. Hanji 770 remains a posthumous-status layer rather than evidence for Zhangdi's own decision-making.
+This page is still source-bounded and does not attempt a full Zhangdi reign biography. Hanji 757 gives a selective 86-87 CE layer of law, ritual, frontier replacement, and omen interpretation. Hanji 758 gives a late-reign synthesis filtered through the host's "分寸感" frame, not a complete institutional history. Its royal-kin criticism is compatible with Fan Ye's positive assessment because the source itself holds both points together: Zhangdi is praised for humane governance, but humane temperament does not remove the need for fiscal and ritual boundaries. Hanji 770 remains a posthumous-status layer rather than evidence for Zhangdi's own decision-making.
 
 ## What Changed
 
+- Added Hanji 757 as Zhangdi's law, ritual-commission, Qiang-frontier, and omen-politics layer.
 - Added Hanji 758 as Zhangdi's living late-reign layer, replacing the prior tomb-only profile.
 - Reframed Zhangdi around bounded virtue: loyal, humane, and ritually minded, but prone to overgenerous royal-kin treatment.
 - Preserved Hanji 770's posthumous burial-order role as a later consequence rather than the whole profile.
@@ -62,6 +73,11 @@ This page is still source-bounded and does not attempt a full Zhangdi reign biog
 - [[EmpressDowagerDouHeLateHan|窦太后]] - spouse whose dowager role follows Zhangdi's death and whose burial pairing with Zhang remains intact.
 - [[LiangGuirenHeLateHan|梁贵人]] - consort whose posthumous reburial is placed west of Zhang's tomb.
 - [[CaoBaoEasternHan|曹褒]] - ritualist whose Han-rites project Zhangdi accepts.
+- [[GuoGongEasternHanJurist|郭公]] - jurist whose tingwei appointment and leniency proposal Zhangdi accepts.
+- [[SingleAuthorInstitutionalCodification|单人负责式制度编纂]] - process pattern created by Zhangdi's choice to assign Cao Bao alone.
+- [[FuYuEasternHan|富裕]] - protector whose death triggers Zhangdi's frontier replacement decision.
+- [[ZhangYuEasternHan|张于 / Zhang Yu]] - Longxi administrator Zhangdi appoints as Qiang protector after Fu Yu's death.
+- [[OmenSkepticismRemonstrance|祥瑞怀疑式进谏]] - warning pattern prompted by Zhangdi's Zhanghe era change.
 - [[BanChaoEasternHan|班超]] - Western Regions commander whose Shache victory belongs to Zhangdi's late-reign background.
 - [[HeChangEasternHan|何敞]] - official who criticizes Zhangdi's excessive rewards under fiscal strain.
 - [[SongYiEasternHan|宋意]] - official who criticizes Zhangdi's royal-kin protocol as a breach of subject status.
