@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2081
+topic_total_pages: 2086
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3163,6 +3163,12 @@ topic_concepts:
   - key: "SanhuLawAppointmentConstraint"
     title: "三互法任官限制 / Sanhu Law Appointment Constraint"
     url: "/wiki/concepts/sanhulawappointmentconstraint/"
+  - key: "TopDownExemplarGovernance"
+    title: "上行下效式政风治理 / Top-Down Exemplar Governance"
+    url: "/wiki/concepts/topdownexemplargovernance/"
+  - key: "InfeasiblePublicWorksCancellation"
+    title: "不可成工程止损 / Infeasible Public-Works Cancellation"
+    url: "/wiki/concepts/infeasiblepublicworkscancellation/"
   - key: "EnvoyKillingTaboo"
     title: "不斩来使 / Envoy Killing Taboo"
     url: "/wiki/concepts/envoykillingtaboo/"
@@ -3241,6 +3247,9 @@ topic_concepts:
   - key: "GrassrootsOfficialNetwork"
     title: "基层官吏网络政治资本 / Grassroots Official Network"
     url: "/wiki/concepts/grassrootsofficialnetwork/"
+  - key: "OuterRelativeCommandAppointmentRisk"
+    title: "外戚任重职风险 / Outer-Relative Command Appointment Risk"
+    url: "/wiki/concepts/outerrelativecommandappointmentrisk/"
   - key: "TaixueCollectivePetition"
     title: "太学集体请命 / Taixue Collective Petition"
     url: "/wiki/concepts/taixuecollectivepetition/"
@@ -3418,6 +3427,9 @@ topic_concepts:
   - key: "SuccessionAuthorityConsolidation"
     title: "继位权威整合 / Succession Authority Consolidation"
     url: "/wiki/concepts/successionauthorityconsolidation/"
+  - key: "QiangOfficialAbuseRebellionTrigger"
+    title: "羌地官吏侵扰叛乱触发 / Qiang Official Abuse Rebellion Trigger"
+    url: "/wiki/concepts/qiangofficialabuserebelliontrigger/"
   - key: "RumorDrivenFrontierIntervention"
     title: "谣言驱动的边疆干预 / Rumor-Driven Frontier Intervention"
     url: "/wiki/concepts/rumordrivenfrontierintervention/"
@@ -6168,6 +6180,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh"
     title: "《资治通鉴·汉纪》185｜一张利嘴，收复中国万里疆土"
     url: "/wiki/sources/zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh/"
+  - key: "zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf"
+    title: "《资治通鉴·汉纪》749丨管理人必看：发奖金是管理的最佳手段吗？"
+    url: "/wiki/sources/zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf/"
   - key: "zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x"
     title: "《资治通鉴·汉纪》757丨人生想少走弯路？先找准定位！"
     url: "/wiki/sources/zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x/"

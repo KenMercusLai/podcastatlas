@@ -17669,6 +17669,13 @@
       "url": "/topics/history/"
     }
   ],
+  "DengXunEasternHan": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "DenisJohnsonBicycle": [
     {
       "key": "economics",
@@ -29940,6 +29947,18 @@
     }
   ],
   "InfanticideCustomCorrection": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "InfeasiblePublicWorksCancellation": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
     {
       "key": "politics",
       "label": "Politics",
@@ -43230,6 +43249,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "OuterRelativeCommandAppointmentRisk": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "OutlierDrivenAngelInvesting": [
     {
       "key": "economics",
@@ -47600,6 +47626,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "QiangOfficialAbuseRebellionTrigger": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "QianglieTan": [
@@ -59335,6 +59368,18 @@
     }
   ],
   "ToolRationalitySpillover": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "TopDownExemplarGovernance": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
     {
       "key": "culture",
       "label": "Culture",
@@ -72891,6 +72936,18 @@
     }
   ],
   "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
     {
       "key": "politics",
       "label": "Politics",

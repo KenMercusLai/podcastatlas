@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 6053
+wiki_total_pages: 6057
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -527,6 +527,9 @@ wiki_pages:
   - key: "OuterRelativeCourtPower"
     title: "外戚专权与清算 / Outer-Relative Court Power"
     url: "/wiki/concepts/outerrelativecourtpower/"
+  - key: "OuterRelativeCommandAppointmentRisk"
+    title: "外戚任重职风险 / Outer-Relative Command Appointment Risk"
+    url: "/wiki/concepts/outerrelativecommandappointmentrisk/"
   - key: "OuterRelativeRecurrence"
     title: "外戚轮回 / Outer-Relative Recurrence"
     url: "/wiki/concepts/outerrelativerecurrence/"

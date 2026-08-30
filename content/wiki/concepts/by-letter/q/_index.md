@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "q"
-wiki_total_pages: 6053
+wiki_total_pages: 6057
 wiki_pages:
   - key: "QDIIAllocation"
     title: "QDII Allocation"
@@ -110,6 +110,9 @@ wiki_pages:
   - key: "QinBookBurningPolicy"
     title: "秦代焚书令 / Qin Book-Burning Policy"
     url: "/wiki/concepts/qinbookburningpolicy/"
+  - key: "QiangOfficialAbuseRebellionTrigger"
+    title: "羌地官吏侵扰叛乱触发 / Qiang Official Abuse Rebellion Trigger"
+    url: "/wiki/concepts/qiangofficialabuserebelliontrigger/"
   - key: "QingYuQuJiu"
     title: "轻于去就 / Qing Yu Qu Jiu"
     url: "/wiki/concepts/qingyuqujiu/"

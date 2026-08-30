@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 8501
+wiki_total_pages: 8504
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -1532,6 +1532,9 @@ wiki_pages:
   - key: "Mayi"
     title: "马邑 / Mayi"
     url: "/wiki/entities/mayi/"
+  - key: "MaFangEasternHan"
+    title: "马防 / Ma Fang (Eastern Han)"
+    url: "/wiki/entities/mafangeasternhan/"
   - key: "MalingBattle"
     title: "马陵之战 / Battle of Maling"
     url: "/wiki/entities/malingbattle/"

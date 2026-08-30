@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 6053
+wiki_total_pages: 6057
 wiki_pages:
   - key: "ICEWorkforceExpansion"
     title: "ICE Workforce Expansion"
@@ -698,6 +698,9 @@ wiki_pages:
   - key: "IvyLeagueMeritocracy"
     title: "Ivy League Meritocracy"
     url: "/wiki/concepts/ivyleaguemeritocracy/"
+  - key: "InfeasiblePublicWorksCancellation"
+    title: "不可成工程止损 / Infeasible Public-Works Cancellation"
+    url: "/wiki/concepts/infeasiblepublicworkscancellation/"
   - key: "InformationAsymmetricPacification"
     title: "信息不对称式平叛 / Information-Asymmetric Pacification"
     url: "/wiki/concepts/informationasymmetricpacification/"

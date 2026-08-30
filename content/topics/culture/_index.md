@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2311
+topic_total_pages: 2312
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2296,6 +2296,9 @@ topic_concepts:
   - key: "ZhiguaiArchiveValue"
     title: "Zhiguai Archive Value"
     url: "/wiki/concepts/zhiguaiarchivevalue/"
+  - key: "TopDownExemplarGovernance"
+    title: "上行下效式政风治理 / Top-Down Exemplar Governance"
+    url: "/wiki/concepts/topdownexemplargovernance/"
   - key: "OrientalistMysteryMisdirection"
     title: "东方主义谜题误导 / Orientalist Mystery Misdirection"
     url: "/wiki/concepts/orientalistmysterymisdirection/"

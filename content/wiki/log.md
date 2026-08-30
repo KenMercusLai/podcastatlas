@@ -14074,3 +14074,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-31] lint | Wiki lint check
 
 Ran health, identity validation, and lint. Health scanned 16,310 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-28 with 15,429 nodes and 180,855 edges while lint scanned 16,310 pages, so bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` and common provider API key variables are unset in this shell. Report returned in-session; `wiki/lint-report.md` was not updated.
+
+## [2026-08-31] ingest | 《资治通鉴·汉纪》749丨管理人必看：发奖金是管理的最佳手段吗？
+
+Ingested the 2026-06-28 芮淇讲透资治通鉴 episode on bonus incentives, top-down exemplar governance, Ma Liao's warning to Empress Ma, Qiang official-abuse escalation, Ma Fang and Geng Gong's Qiang campaign, Fifth Lun's warning against in-law command, Deng Xun's cancellation of the Hutuo/Shijiu canal project, Ban Chao's Shicheng attack, and Zhangdi keeping royal brothers in the capital. Created the source note plus `MaFangEasternHan`, `GengGongEasternHan`, `BuqiaoQiangLeader`, `TopDownExemplarGovernance`, `OuterRelativeCommandAppointmentRisk`, `QiangOfficialAbuseRebellionTrigger`, and `InfeasiblePublicWorksCancellation`; updated `EmperorZhangOfHan`, `EmpressMaMingdeEasternHan`, `MaLiaoEasternHan`, `MaFamilyZhangEraEasternHan`, `FifthLunEasternHan`, `DengXunEasternHan`, `BanChaoEasternHan`, `MiWuQiangLeader`, `EmpressDowagerDouHeLateHan`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; 滇吾 is not linked to the later `DianWuQiang` page, and Zong Yan, Liu Yu, Si Ye, Dou Xun, exact Qiang/canal figures, Liu Xian/Liu Gong/Liu Dang, and Ma Fang's precise role in Geng Gong's impeachment remain source-scoped.
+
+## [2026-08-31] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

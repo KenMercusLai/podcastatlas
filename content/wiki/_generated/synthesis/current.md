@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-31
-as_of_overview_commit: ba3edf2ff2d1ff09ffdb7aba1fb9c5fb3ea8f2e7
+as_of_overview_commit: 2c520afd8613766e277897b2cab3c59b4ff3463f
 summary: "Durable capacity comes from fitting tools, roles, institutions, evidence, culture, care, markets, and governance to real constraints, trust, feedback, and responsibility."
-episode_count: 1753
-source_count: 1753
-paragraph_count: 419
+episode_count: 1756
+source_count: 1756
+paragraph_count: 420
 topic_count: 8
 ---
 
@@ -36,20 +36,20 @@ AI value concentrates when models are embedded in controlled workflows with cont
 
 ### Business and Markets
 
-Market value appears when demand, distribution, payment proof, operating fit, trust, local control, regulation, and source-dated market information align across AI, consumer, infrastructure, finance, brand, and event-market cases.
+Market value appears when demand, distribution, payment proof, operating fit, trust, local control, regulation, and source-dated information align.
 
 - [[the-continent-nobody-owns-everyone-benefits-from-summer-school]] adds that market value can be created or protected by institutional design outside ordinary ownership: [[NonMarketEnvironmentalValuation]] makes [[Antarctica]] and [[SouthernOcean]] climate services visible, [[ParkingCostInternalization]] prices [[Tokyo]] street storage, [[ViennaSocialHousingScale]] uses nonprofit and public supply to affect rents, and [[ConsortioGroupFinancing]] formalizes mutual purchasing finance in [[Brazil]]. Evidence: [[the-continent-nobody-owns-everyone-benefits-from-summer-school]], [[NonMarketEnvironmentalValuation]], [[Antarctica]], [[SouthernOcean]], [[AntarcticClimateServices]], [[ParkingCostInternalization]], [[Tokyo]], [[ViennaSocialHousingScale]], [[Vienna]], [[ConsortioGroupFinancing]], [[Brazil]], [[ExternalityInternalization]], [[HousingAffordabilitySupplyMechanics]].
 - [[CustomerPull]], [[ProductLedWillingnessToPay]], and [[PreProductSelling]] become durable only when distribution, buyer-commitment, payment proof, and operating gates such as [[CPGDistribution]], [[RetailLineReview]], [[PlanogramGatekeeping]], [[RetailPricePointProductScoping]], [[MassRetailProductionDeadline]], [[EnterprisePOCDiscipline]], [[EnterpriseCustomerAsMarket]], [[AIOfficeAgent]], [[NontraditionalBorrowerCreditAccess]], [[ExplainableAILending]], [[HumanInTheLoopCreditDecisioning]], [[RobotRepurchaseDemand]], [[RobotTrainingCenters]], [[EgocentricRobotData]], [[FounderPitchEvidenceFit]], [[SmallRetailerChannelTest]], [[NicheOriginStoryExpansion]], and [[MissionAlignedVendorSwitching]] can repeatedly deliver value after initial attention. Evidence: [[CustomerPull]], [[ProductLedWillingnessToPay]], [[PreProductSelling]], [[CPGDistribution]], [[RetailLineReview]], [[PlanogramGatekeeping]], [[RetailPricePointProductScoping]], [[MassRetailProductionDeadline]], [[EnterprisePOCDiscipline]], [[EnterpriseCustomerAsMarket]], [[Templafy]], [[RobotRepurchaseDemand]], [[AIOfficeAgent]], [[AICommercializationPressure]], [[AIConsumerGrowthMetrics]], [[AIInferenceCostStructure]], [[DingTalk]], [[Feishu]], [[TencentWorkBuddy]], [[DoubaoWork]], [[tengxun-ali-zijie-zhengduo-dagongren-hulianwang-dachang-weihe-jiti-jiama-ai-bangong-1008598460]], [[ep-46-fix-the-foundation-first-why-your-data-strategy-is-failing-before-the-ai-gets-involved]], [[MidMarketDataTalentGap]], [[ParadoxMachines]], [[advice-line-with-daymond-john-of-fubu-0961848f-0f5a-4fb7-932c-3a04f08bc8d4]], [[HowIBuiltThis]], [[DaymondJohn]], [[FUBU]], [[SaborAMexicoSalsas]], [[RaisedNutrition]], [[CooksWhoFeed]], [[FounderPitchEvidenceFit]], [[SmallRetailerChannelTest]], [[NicheOriginStoryExpansion]], [[MissionAlignedVendorSwitching]], [[StoryLedConsumerBranding]], [[LocalMarketProof]], [[InStoreDemos]], [[CoreTribePositioning]], [[PurposeDrivenBusiness]], [[RelationshipLedGrowth]], [[FounderLedLiveSelling]], [[RobotTrainingCenters]], [[EgocentricRobotData]], [[HubeiHumanoidInnovationCenter]], [[JDCom]], [[bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf]], [[ep-44-human-centered-credit-building-explainable-ai-for-lending-in-an-agentic-world]], [[MPWRAI]], [[TamaraClay]], [[NontraditionalBorrowerCreditAccess]], [[ExplainableAILending]], [[PolicyBoundAgenticLendingSupport]], [[HumanInTheLoopCreditDecisioning]].
 
 ### Culture and Media
 
-Culture sources use fiction, games, sports, media, folklore, brands, therapeutic audio, epic, film, and song as evidence about agency, memory, identity, labor recognition, political conditions, and human meaning.
+Culture sources use fiction, games, sports, media, folklore, brands, therapeutic audio, epic, film, and song to examine agency, memory, identity, labor recognition, and meaning.
 
 - [[PoliticalConditionAsHumanExperiment]] uses fiction to expose how political conditions, speed, exile, public performance, rule systems, and dependency reshape human behavior. Evidence: [[PoliticalConditionAsHumanExperiment]], [[PublicMoralPerformance]], [[SlownessAsModernityCritique]], [[AntiAuthoritarianEducation]], [[SafetyAsControl]], [[BuddhistLifeAffirmingLiterature]].
 
 ### Governance and Institutions
 
-Governance turns authority into appointment quality, evidence tests, legal restraint, public burden relief, feedback, legitimacy, compliance, election administration, frontier control, and bounded responsibility.
+Governance turns authority into appointment quality, evidence tests, legal restraint, public burden relief, feedback, legitimacy, compliance, election administration, frontier control, and bounded responsibility; Hanji 749 adds Zhangdi-era exemplar governance, in-law command risk, Qiang official-abuse escalation, and infeasible-project cancellation.
 
 - The California data-broker branch shows that privacy rights depend on compliance workflows: [[CaliforniaDeleteAct]], [[DeleteRequestAndOptOutPlatform]], [[ConsumerDataDeletion]], [[DataBrokerComplianceGap]], and [[CaliforniaPrivacyProtectionAgency]] connect centralized deletion, broker registration, reporting duties, request friction, agency capacity, and private-lawsuit proposals into one implementation problem. Evidence: [[CaliforniaDeleteAct]], [[DeleteRequestAndOptOutPlatform]], [[ConsumerDataDeletion]], [[DataBrokerComplianceGap]], [[CaliforniaPrivacyProtectionAgency]], [[tech-20260825-mp-tech-pod-128-tech-20260825-mp-tech-pod-128]].
 - The early-Han sequence shows victory turning into governance only through family order, capital choice, exit management, reward ranking, ritual hierarchy, frontier containment, [[HanXiongnuHeqinPolicy|heqin]] diplomacy, vassal rollback, investigation-triggered rebellion risk, and finally the failure of personal trust in [[LuWan|Lu Wan]]'s Yan kingship. Evidence: [[LiuBang]], [[StrategicCapitalRelocation]], [[LiAsPoliticalOrder]], [[BaidengEncirclement]], [[HanXiongnuHeqinPolicy]], [[DifferentSurnameKingSuspicion]], [[HuainanKingdomEarlyHan]], [[InvestigationDrivenRebellionEscalation]], [[LuWan]], [[YanState]].

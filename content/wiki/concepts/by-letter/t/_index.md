@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 6053
+wiki_total_pages: 6057
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -677,6 +677,9 @@ wiki_pages:
   - key: "ThreeKingdomsStruggleStrategyReading"
     title: "三国斗争策略读法 / Three Kingdoms Struggle Strategy Reading"
     url: "/wiki/concepts/threekingdomsstrugglestrategyreading/"
+  - key: "TopDownExemplarGovernance"
+    title: "上行下效式政风治理 / Top-Down Exemplar Governance"
+    url: "/wiki/concepts/topdownexemplargovernance/"
   - key: "TemporaryFrontierRetrenchment"
     title: "临时边防收缩 / Temporary Frontier Retrenchment"
     url: "/wiki/concepts/temporaryfrontierretrenchment/"

@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2590
+topic_total_pages: 2592
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -3562,6 +3562,9 @@ topic_concepts:
   - key: "ZeroTrustSecurity"
     title: "Zero Trust Security"
     url: "/wiki/concepts/zerotrustsecurity/"
+  - key: "InfeasiblePublicWorksCancellation"
+    title: "不可成工程止损 / Infeasible Public-Works Cancellation"
+    url: "/wiki/concepts/infeasiblepublicworkscancellation/"
   - key: "HistoricalReportingAIHallucination"
     title: "历史报道中的AI幻觉 / Historical Reporting AI Hallucination"
     url: "/wiki/concepts/historicalreportingaihallucination/"
@@ -6605,6 +6608,9 @@ topic_entities:
   - key: "LuYuxin"
     title: "逯雨鑫 / 逯雨昕 / Lu Yuxin"
     url: "/wiki/entities/luyuxin/"
+  - key: "DengXunEasternHan"
+    title: "邓训 / Deng Xun (Eastern Han)"
+    url: "/wiki/entities/dengxuneasternhan/"
   - key: "ZhengGuoCanal"
     title: "郑国渠 / Zhengguo Canal"
     url: "/wiki/entities/zhengguocanal/"

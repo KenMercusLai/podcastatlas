@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 8501
+wiki_total_pages: 8504
 wiki_pages:
   - key: "BSpecials"
     title: "B Specials"
@@ -896,6 +896,9 @@ wiki_pages:
   - key: "BaCommanderyLateHan"
     title: "巴郡 / Ba Commandery (late Han)"
     url: "/wiki/entities/bacommanderylatehan/"
+  - key: "BuqiaoQiangLeader"
+    title: "布桥 / Buqiao (Qiang leader)"
+    url: "/wiki/entities/buqiaoqiangleader/"
   - key: "BingzhouLateHan"
     title: "并州 / Bingzhou (Late Han)"
     url: "/wiki/entities/bingzhoulatehan/"

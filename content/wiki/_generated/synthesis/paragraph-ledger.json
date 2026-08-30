@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "dd951ea4029edaa84f38ca5b3253a456b3d8003f3b00d97b63aab6903469f430",
       "57a73bf890b331c40aea6ebc9bacd1f1cecf1e3245795fd642c9aab210273b3d",
       "0c993ef28415e6d065838137147c34a805e8cf2eeb30ecb614ac545b48b9db2c",
       "e8990fad7331e9441df0502a49236758d8a7a8fe617e0db2a72761eada274c0d",
@@ -421,11 +422,44 @@
       "12c2b57062376e50f472c6806ecb08714733b065e8db5d2b809f05f83d802f96",
       "2231d7cf4c1cf8ae29ee2ec0737334356ddcd78d5df4e6b306dab83b98b3febe"
     ],
-    "paragraph_count": 419
+    "paragraph_count": 420
   },
-  "overview_commit": "c642287c59e66f6c6100833261947a9c58e60093",
-  "overview_digest": "668f82e2a272e0af93eedd9807e7e3e7880e23b46480614742d7c8c071880f90",
+  "overview_commit": "2c520afd8613766e277897b2cab3c59b4ff3463f",
+  "overview_digest": "bab2d7c1f33bdc8f085eaaad05c3d4612e1d39d67932d1bcf91f6df3eb59561d",
   "paragraphs": [
+    {
+      "id": "dd951ea4029edaa84f38ca5b3253a456b3d8003f3b00d97b63aab6903469f430",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf|《资治通鉴·汉纪》749丨管理人必看：发奖金是管理的最佳手段吗？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 76-78 CE [[EmperorZhangOfHan|汉章帝]] opening layer before [[zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt|Hanji 750]]. It adds [[MaFangEasternHan|马防]], [[GengGongEasternHan|耿恭]], [[BuqiaoQiangLeader|布桥]], [[TopDownExemplarGovernance|上行下效式政风治理]], [[OuterRelativeCommandAppointmentRisk|外戚任重职风险]], [[QiangOfficialAbuseRebellionTrigger|羌地官吏侵扰叛乱触发]], and [[InfeasiblePublicWorksCancellation|不可成工程止损]], while extending [[EmpressMaMingdeEasternHan|明德马皇后]], [[MaLiaoEasternHan|马廖]], [[FifthLunEasternHan|第五伦]], [[DengXunEasternHan|邓训]], [[BanChaoEasternHan|班超]], [[MiWuQiangLeader|弥务]], [[EmpressDowagerDouHeLateHan|窦皇后 / 窦太后]], [[MaFamilyZhangEraEasternHan|马氏]], and [[EmperorZhangOfHan|汉章帝]]. Its core synthesis is that early Zhangdi governance is framed by visible example and burden-aware correction: Ma Liao warns that capital and court behavior shape local imitation more than isolated frugality orders or bonuses; Fifth Lun identifies the law-versus-kinship risk of giving in-laws heavy office; Qiang unrest begins with official abuse; Deng Xun stops an impossible canal project; and Ban Chao is already using allied Western Regions forces before the later proxy-strategy memorial. No settled contradiction is recorded; Zong Yan, Liu Yu, Si Ye, Dou Xun, Ma Fang's precise influence on Geng Gong's impeachment, exact Qiang/canal figures, and the royal brothers Liu Xian, Liu Gong, and Liu Dang remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "BanChaoEasternHan",
+        "BuqiaoQiangLeader",
+        "DengXunEasternHan",
+        "EmperorZhangOfHan",
+        "EmpressDowagerDouHeLateHan",
+        "EmpressMaMingdeEasternHan",
+        "FifthLunEasternHan",
+        "GengGongEasternHan",
+        "InfeasiblePublicWorksCancellation",
+        "MaFamilyZhangEraEasternHan",
+        "MaFangEasternHan",
+        "MaLiaoEasternHan",
+        "MiWuQiangLeader",
+        "OuterRelativeCommandAppointmentRisk",
+        "QiangOfficialAbuseRebellionTrigger",
+        "RuiqiJiangtouZizhiTongjian",
+        "TopDownExemplarGovernance",
+        "zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf",
+        "zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt"
+      ]
+    },
     {
       "id": "57a73bf890b331c40aea6ebc9bacd1f1cecf1e3245795fd642c9aab210273b3d",
       "primary_topic": "business-and-markets",

@@ -7951,6 +7951,10 @@
     "title": "Bump",
     "url": "/wiki/entities/bump/"
   },
+  "BuqiaoQiangLeader": {
+    "title": "布桥 / Buqiao (Qiang leader)",
+    "url": "/wiki/entities/buqiaoqiangleader/"
+  },
   "BureauOfLaborStatistics": {
     "title": "Bureau of Labor Statistics",
     "url": "/wiki/entities/bureauoflaborstatistics/"
@@ -20639,6 +20643,10 @@
     "title": "耿承 / Geng Cheng (Linru marquis, late Han)",
     "url": "/wiki/entities/gengchenglinruhoulatehan/"
   },
+  "GengGongEasternHan": {
+    "title": "耿恭 / Geng Gong (Eastern Han)",
+    "url": "/wiki/entities/genggongeasternhan/"
+  },
   "GengKuiLateHan": {
     "title": "耿夔 / Geng Kui (late Han)",
     "url": "/wiki/entities/gengkuilatehan/"
@@ -25150,6 +25158,10 @@
   "InfanticideCustomCorrection": {
     "title": "Infanticide Custom Correction / 杀婴风俗纠偏",
     "url": "/wiki/concepts/infanticidecustomcorrection/"
+  },
+  "InfeasiblePublicWorksCancellation": {
+    "title": "不可成工程止损 / Infeasible Public-Works Cancellation",
+    "url": "/wiki/concepts/infeasiblepublicworkscancellation/"
   },
   "InfectiousDiseasePublicLiteracy": {
     "title": "Infectious Disease Public Literacy",
@@ -32115,6 +32127,10 @@
     "title": "马氏 / Ma family (Zhang-era Eastern Han)",
     "url": "/wiki/entities/mafamilyzhangeraeasternhan/"
   },
+  "MaFangEasternHan": {
+    "title": "马防 / Ma Fang (Eastern Han)",
+    "url": "/wiki/entities/mafangeasternhan/"
+  },
   "MaHaoning": {
     "title": "马浩宁 / Ma Haoning",
     "url": "/wiki/entities/mahaoning/"
@@ -37863,6 +37879,10 @@
     "title": "Outdoor Vehicle Lifestyle Design / 户外车辆生活方式设计",
     "url": "/wiki/concepts/outdoorvehiclelifestyledesign/"
   },
+  "OuterRelativeCommandAppointmentRisk": {
+    "title": "外戚任重职风险 / Outer-Relative Command Appointment Risk",
+    "url": "/wiki/concepts/outerrelativecommandappointmentrisk/"
+  },
   "OuterRelativeCourtPower": {
     "title": "外戚专权与清算 / Outer-Relative Court Power",
     "url": "/wiki/concepts/outerrelativecourtpower/"
@@ -41474,6 +41494,10 @@
   "QianTuWuLiang": {
     "title": "前途无量",
     "url": "/wiki/entities/qiantuwuliang/"
+  },
+  "QiangOfficialAbuseRebellionTrigger": {
+    "title": "羌地官吏侵扰叛乱触发 / Qiang Official Abuse Rebellion Trigger",
+    "url": "/wiki/concepts/qiangofficialabuserebelliontrigger/"
   },
   "QianglieTan": {
     "title": "强烈谈 / Qianglie Tan",
@@ -51258,6 +51282,10 @@
   "ToolRationalitySpillover": {
     "title": "Tool Rationality Spillover",
     "url": "/wiki/concepts/toolrationalityspillover/"
+  },
+  "TopDownExemplarGovernance": {
+    "title": "上行下效式政风治理 / Top-Down Exemplar Governance",
+    "url": "/wiki/concepts/topdownexemplargovernance/"
   },
   "TopGunMaverick": {
     "title": "Top Gun: Maverick",
@@ -63370,6 +63398,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf": {
+    "title": "《资治通鉴·汉纪》749丨管理人必看：发奖金是管理的最佳手段吗？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf/"
   },
   "zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt": {
     "title": "《资治通鉴·汉纪》750丨揭秘东汉完美女性，背后满是牺牲！",

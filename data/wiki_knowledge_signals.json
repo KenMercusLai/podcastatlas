@@ -3387,9 +3387,9 @@
       "url": "/wiki/entities/baimarelieflatehan/"
     },
     "BanChaoEasternHan": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 1,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》780丨最多灾多难的时代：东汉 [lvGCuMRFJbLrOFER532EES3TDOa_].md",
@@ -3474,6 +3474,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》750丨揭秘东汉完美女性，背后满是牺牲！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》749丨管理人必看：发奖金是管理的最佳手段吗？ [lnhHOH0oxlStuWaKl3rsqvcsS_Cf].md",
+          "key": "zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》749丨管理人必看：发奖金是管理的最佳手段吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf/"
         }
       ],
       "updated": "2026-08-31",
@@ -4450,6 +4457,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/budgetedfrontiersuppression/"
+    },
+    "BuqiaoQiangLeader": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》749丨管理人必看：发奖金是管理的最佳手段吗？ [lnhHOH0oxlStuWaKl3rsqvcsS_Cf].md",
+          "key": "zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》749丨管理人必看：发奖金是管理的最佳手段吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/buqiaoqiangleader/"
     },
     "CHIPSAct": {
       "episode_count": 2,
@@ -8616,9 +8639,9 @@
       "url": "/wiki/entities/dengwanshilatehan/"
     },
     "DengXunEasternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》767丨聪明人，都擅长“演戏” [lq3ol7Y-JDh7dnNFKmtFDG4ibRyq].md",
@@ -8633,9 +8656,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》760丨历史揭秘：皇后出轨被抓，下场惨不惨？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》749丨管理人必看：发奖金是管理的最佳手段吗？ [lnhHOH0oxlStuWaKl3rsqvcsS_Cf].md",
+          "key": "zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》749丨管理人必看：发奖金是管理的最佳手段吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-08-31",
       "url": "/wiki/entities/dengxuneasternhan/"
     },
     "DengZhiLateHan": {
@@ -11090,9 +11120,9 @@
       "url": "/wiki/entities/emperorshunofhan/"
     },
     "EmperorZhangOfHan": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》770丨沉默的真相：皇帝的生母竟是她 [lu5dqu8Uuw277IkZXkBLVqDbPL3q].md",
@@ -11163,6 +11193,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》750丨揭秘东汉完美女性，背后满是牺牲！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》749丨管理人必看：发奖金是管理的最佳手段吗？ [lnhHOH0oxlStuWaKl3rsqvcsS_Cf].md",
+          "key": "zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》749丨管理人必看：发奖金是管理的最佳手段吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf/"
         }
       ],
       "updated": "2026-08-31",
@@ -11392,9 +11429,9 @@
       "url": "/wiki/entities/empressdowagerdenglatehan/"
     },
     "EmpressDowagerDouHeLateHan": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》770丨沉默的真相：皇帝的生母竟是她 [lu5dqu8Uuw277IkZXkBLVqDbPL3q].md",
@@ -11437,6 +11474,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》751丨窦皇后告诉你：女人不狠，地位不稳",
           "url": "/wiki/sources/zizhi-tongjian-hanji-751-dou-huanghou-gaosu-ni-nvren-bu-hen-diwei-bu-wen-luvqadctbfuzit2ackrqifour2c6/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》749丨管理人必看：发奖金是管理的最佳手段吗？ [lnhHOH0oxlStuWaKl3rsqvcsS_Cf].md",
+          "key": "zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》749丨管理人必看：发奖金是管理的最佳手段吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf/"
         }
       ],
       "updated": "2026-08-31",
@@ -11661,9 +11705,9 @@
       "url": "/wiki/entities/empressliangyinglatehan/"
     },
     "EmpressMaMingdeEasternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》752丨失去靠山的人该如何处世？ [lt0QB7aLYh0IPf6mK8hVz92cS297].md",
@@ -11678,6 +11722,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》750丨揭秘东汉完美女性，背后满是牺牲！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》749丨管理人必看：发奖金是管理的最佳手段吗？ [lnhHOH0oxlStuWaKl3rsqvcsS_Cf].md",
+          "key": "zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》749丨管理人必看：发奖金是管理的最佳手段吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf/"
         }
       ],
       "updated": "2026-08-31",
@@ -12995,9 +13046,9 @@
       "url": "/wiki/concepts/fictionashistoricalevidence/"
     },
     "FifthLunEasternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》756丨为什么劝你得饶人处且饶人？ [ltN4TqZy1D_SoDhJIDnCv8DyqxPJ].md",
@@ -13019,9 +13070,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》752丨失去靠山的人该如何处世？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》749丨管理人必看：发奖金是管理的最佳手段吗？ [lnhHOH0oxlStuWaKl3rsqvcsS_Cf].md",
+          "key": "zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》749丨管理人必看：发奖金是管理的最佳手段吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-08-31",
       "url": "/wiki/entities/fifthluneasternhan/"
     },
     "FifthZhongLateHan": {
@@ -14357,6 +14415,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/gengchenglinruhoulatehan/"
+    },
+    "GengGongEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》749丨管理人必看：发奖金是管理的最佳手段吗？ [lnhHOH0oxlStuWaKl3rsqvcsS_Cf].md",
+          "key": "zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》749丨管理人必看：发奖金是管理的最佳手段吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/genggongeasternhan/"
     },
     "GengKuiLateHan": {
       "episode_count": 3,
@@ -18033,6 +18107,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/infanticidecustomcorrection/"
+    },
+    "InfeasiblePublicWorksCancellation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》749丨管理人必看：发奖金是管理的最佳手段吗？ [lnhHOH0oxlStuWaKl3rsqvcsS_Cf].md",
+          "key": "zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》749丨管理人必看：发奖金是管理的最佳手段吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/infeasiblepublicworkscancellation/"
     },
     "InfinityVentureStudio": {
       "episode_count": 1,
@@ -23757,9 +23847,9 @@
       "url": "/wiki/entities/mpwrai/"
     },
     "MaFamilyZhangEraEasternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》752丨失去靠山的人该如何处世？ [lt0QB7aLYh0IPf6mK8hVz92cS297].md",
@@ -23774,10 +23864,47 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》750丨揭秘东汉完美女性，背后满是牺牲！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》749丨管理人必看：发奖金是管理的最佳手段吗？ [lnhHOH0oxlStuWaKl3rsqvcsS_Cf].md",
+          "key": "zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》749丨管理人必看：发奖金是管理的最佳手段吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf/"
         }
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/mafamilyzhangeraeasternhan/"
+    },
+    "MaFangEasternHan": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》749丨管理人必看：发奖金是管理的最佳手段吗？ [lnhHOH0oxlStuWaKl3rsqvcsS_Cf].md",
+          "key": "zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》749丨管理人必看：发奖金是管理的最佳手段吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》750丨揭秘东汉完美女性，背后满是牺牲！ [lu-96lbDh7R0tsMiOPBQqRj0Q1gt].md",
+          "key": "zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》750丨揭秘东汉完美女性，背后满是牺牲！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》752丨失去靠山的人该如何处世？ [lt0QB7aLYh0IPf6mK8hVz92cS297].md",
+          "key": "zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》752丨失去靠山的人该如何处世？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/mafangeasternhan/"
     },
     "MaHaoning": {
       "episode_count": 2,
@@ -23803,9 +23930,9 @@
       "url": "/wiki/entities/mahaoning/"
     },
     "MaLiaoEasternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》752丨失去靠山的人该如何处世？ [lt0QB7aLYh0IPf6mK8hVz92cS297].md",
@@ -23820,6 +23947,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》750丨揭秘东汉完美女性，背后满是牺牲！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》749丨管理人必看：发奖金是管理的最佳手段吗？ [lnhHOH0oxlStuWaKl3rsqvcsS_Cf].md",
+          "key": "zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》749丨管理人必看：发奖金是管理的最佳手段吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf/"
         }
       ],
       "updated": "2026-08-31",
@@ -25010,9 +25144,9 @@
       "url": "/wiki/entities/mitangqiangleader/"
     },
     "MiWuQiangLeader": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》757丨人生想少走弯路？先找准定位！ [lrI1zyiq8210yMQJAKzNyP3v4K6x].md",
@@ -25027,9 +25161,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》756丨为什么劝你得饶人处且饶人？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-756-weishenme-quan-ni-de-rao-ren-chu-qie-rao-ren-ltn4tqzy1d-sodhjidncv8dyqxpj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》749丨管理人必看：发奖金是管理的最佳手段吗？ [lnhHOH0oxlStuWaKl3rsqvcsS_Cf].md",
+          "key": "zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》749丨管理人必看：发奖金是管理的最佳手段吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-08-31",
       "url": "/wiki/entities/miwuqiangleader/"
     },
     "Mianji": {
@@ -27325,6 +27466,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/outdoorvehiclelifestyledesign/"
+    },
+    "OuterRelativeCommandAppointmentRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》749丨管理人必看：发奖金是管理的最佳手段吗？ [lnhHOH0oxlStuWaKl3rsqvcsS_Cf].md",
+          "key": "zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》749丨管理人必看：发奖金是管理的最佳手段吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/outerrelativecommandappointmentrisk/"
     },
     "OuterRelativeCourtPower": {
       "episode_count": 20,
@@ -29784,6 +29941,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/qixiangdong/"
+    },
+    "QiangOfficialAbuseRebellionTrigger": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》749丨管理人必看：发奖金是管理的最佳手段吗？ [lnhHOH0oxlStuWaKl3rsqvcsS_Cf].md",
+          "key": "zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》749丨管理人必看：发奖金是管理的最佳手段吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/qiangofficialabuserebelliontrigger/"
     },
     "QiaoXuanLateHan": {
       "episode_count": 5,
@@ -36382,6 +36555,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/tongzhilatehan/"
+    },
+    "TopDownExemplarGovernance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》749丨管理人必看：发奖金是管理的最佳手段吗？ [lnhHOH0oxlStuWaKl3rsqvcsS_Cf].md",
+          "key": "zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》749丨管理人必看：发奖金是管理的最佳手段吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/topdownexemplargovernance/"
     },
     "TotalAttentionPractice": {
       "episode_count": 1,
