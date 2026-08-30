@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2028
+topic_total_pages: 2029
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -1582,6 +1582,9 @@ topic_concepts:
   - key: "LiberalismPaternalismBoundary"
     title: "Liberalism-Paternalism Boundary"
     url: "/wiki/concepts/liberalismpaternalismboundary/"
+  - key: "LightTouchFrontierGovernance"
+    title: "Light-Touch Frontier Governance / 宽简边疆治理"
+    url: "/wiki/concepts/lighttouchfrontiergovernance/"
   - key: "LiquidationPreferenceStack"
     title: "Liquidation Preference Stack"
     url: "/wiki/concepts/liquidationpreferencestack/"

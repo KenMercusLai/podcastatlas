@@ -3231,9 +3231,9 @@
       "url": "/wiki/entities/baimarelieflatehan/"
     },
     "BanChaoEasternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》780丨最多灾多难的时代：东汉 [lvGCuMRFJbLrOFER532EES3TDOa_].md",
@@ -3248,6 +3248,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》779丨历史告诉你：用错人竟会亡国灭家？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》774丨班超接班人如何搞乱西域？ [lnBNOc-uYS8kee7pZ9yEcxecrPyd].md",
+          "key": "zizhi-tongjian-hanji-774-banchao-jiebanren-ruhe-gaoluan-xiyu-lnbnoc-uys8kee7pz9yecxecrpyd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》774丨班超接班人如何搞乱西域？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-774-banchao-jiebanren-ruhe-gaoluan-xiyu-lnbnoc-uys8kee7pz9yecxecrpyd/"
         }
       ],
       "updated": "2026-08-30",
@@ -3270,9 +3277,9 @@
       "url": "/wiki/entities/banshilatehan/"
     },
     "BanYongLateHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》807丨班超之子为何会含冤入狱？ [liIWGi77g2ON1z2VnWAF1_wVph2d].md",
@@ -3308,15 +3315,22 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》791丨职场上总有人背后阴你？一招应对",
           "url": "/wiki/sources/zizhi-tongjian-hanji-791-zhichang-shang-zong-you-ren-beihou-yin-ni-yi-zhao-yingdui-llz74ebi88qmw-9050x2qaddjwqn/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》774丨班超接班人如何搞乱西域？ [lnBNOc-uYS8kee7pZ9yEcxecrPyd].md",
+          "key": "zizhi-tongjian-hanji-774-banchao-jiebanren-ruhe-gaoluan-xiyu-lnbnoc-uys8kee7pz9yecxecrpyd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》774丨班超接班人如何搞乱西域？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-774-banchao-jiebanren-ruhe-gaoluan-xiyu-lnbnoc-uys8kee7pz9yecxecrpyd/"
         }
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/banyonglatehan/"
     },
     "BanZhaoLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》785丨东汉邓绥：掌控欲望才能笑到最后 [llFg4KJAAUTQlFEWhpLikvU3Ry1U].md",
@@ -3331,6 +3345,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》775丨敢向命运说NO，不愧是有头脑的女主母！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-775-gan-xiang-mingyun-shuo-no-bukuishi-you-tounao-de-nvzhumu-lh0erdh890ooow6dn0wvf1fbzedf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》774丨班超接班人如何搞乱西域？ [lnBNOc-uYS8kee7pZ9yEcxecrPyd].md",
+          "key": "zizhi-tongjian-hanji-774-banchao-jiebanren-ruhe-gaoluan-xiyu-lnbnoc-uys8kee7pz9yecxecrpyd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》774丨班超接班人如何搞乱西域？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-774-banchao-jiebanren-ruhe-gaoluan-xiyu-lnbnoc-uys8kee7pz9yecxecrpyd/"
         }
       ],
       "updated": "2026-08-30",
@@ -9602,9 +9623,9 @@
       "url": "/wiki/entities/emperorchongofhan/"
     },
     "EmperorHeOfHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》777丨比肩武则天，碾压慈禧，这个女人了不得！ [lk7J4Qv_-SQfopzBii6rc_iVbuxS].md",
@@ -9626,6 +9647,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》775丨敢向命运说NO，不愧是有头脑的女主母！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-775-gan-xiang-mingyun-shuo-no-bukuishi-you-tounao-de-nvzhumu-lh0erdh890ooow6dn0wvf1fbzedf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》774丨班超接班人如何搞乱西域？ [lnBNOc-uYS8kee7pZ9yEcxecrPyd].md",
+          "key": "zizhi-tongjian-hanji-774-banchao-jiebanren-ruhe-gaoluan-xiyu-lnbnoc-uys8kee7pz9yecxecrpyd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》774丨班超接班人如何搞乱西域？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-774-banchao-jiebanren-ruhe-gaoluan-xiyu-lnbnoc-uys8kee7pz9yecxecrpyd/"
         }
       ],
       "updated": "2026-08-30",
@@ -19315,6 +19343,29 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/lifestyleweightmanagement/"
     },
+    "LightTouchFrontierGovernance": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》774丨班超接班人如何搞乱西域？ [lnBNOc-uYS8kee7pZ9yEcxecrPyd].md",
+          "key": "zizhi-tongjian-hanji-774-banchao-jiebanren-ruhe-gaoluan-xiyu-lnbnoc-uys8kee7pz9yecxecrpyd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》774丨班超接班人如何搞乱西域？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-774-banchao-jiebanren-ruhe-gaoluan-xiyu-lnbnoc-uys8kee7pz9yecxecrpyd/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》779丨历史告诉你：用错人竟会亡国灭家？ [liwE_SYvnY7Vfmn4XPy24MgVd_z6].md",
+          "key": "zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》779丨历史告诉你：用错人竟会亡国灭家？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/lighttouchfrontiergovernance/"
+    },
     "LinChangQiang": {
       "episode_count": 2,
       "show_count": 1,
@@ -27243,9 +27294,9 @@
       "url": "/wiki/entities/renjunluoyanglatehan/"
     },
     "RenShangLateHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》790丨历史告诉你：如何和领导打交道？ [luLf0R1SdKOD3luZWRU0_KKrIjXK].md",
@@ -27281,6 +27332,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》779丨历史告诉你：用错人竟会亡国灭家？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》774丨班超接班人如何搞乱西域？ [lnBNOc-uYS8kee7pZ9yEcxecrPyd].md",
+          "key": "zizhi-tongjian-hanji-774-banchao-jiebanren-ruhe-gaoluan-xiyu-lnbnoc-uys8kee7pz9yecxecrpyd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》774丨班超接班人如何搞乱西域？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-774-banchao-jiebanren-ruhe-gaoluan-xiyu-lnbnoc-uys8kee7pz9yecxecrpyd/"
         }
       ],
       "updated": "2026-08-30",

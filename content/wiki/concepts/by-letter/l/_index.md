@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 5982
+wiki_total_pages: 5983
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -314,6 +314,9 @@ wiki_pages:
   - key: "LightAndDarkWorldDuality"
     title: "Light And Dark World Duality / 光明与黑暗世界二分"
     url: "/wiki/concepts/lightanddarkworldduality/"
+  - key: "LightTouchFrontierGovernance"
+    title: "Light-Touch Frontier Governance / 宽简边疆治理"
+    url: "/wiki/concepts/lighttouchfrontiergovernance/"
   - key: "LimestoneLoopCarbonCapture"
     title: "Limestone Loop Carbon Capture"
     url: "/wiki/concepts/limestoneloopcarboncapture/"

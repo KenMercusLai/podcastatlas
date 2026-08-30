@@ -13594,6 +13594,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-30] ingest | 《资治通鉴·汉纪》774丨班超接班人如何搞乱西域？
+
+Ingested the 2026-07-03 芮淇讲透资治通鉴 episode on Ban Chao's late Western Regions recall, Ban Zhao's petition to Emperor He, Ban Chao's return to Luoyang and death, Ren Shang's hollow handoff consultation, and the light-touch frontier governance advice that Hanji 779 later shows being ignored. Created the source note plus `LightTouchFrontierGovernance`; updated `BanChaoEasternHan`, `RenShangLateHan`, `BanZhaoLateHan`, `EmperorHeOfHan`, `BanYongLateHan`, and `index`. No settled contradiction found; Ren Shang astrology commentary and the Deng Yu descendant teaser remain source-scoped.
+
 ## [2026-08-30] ingest | AI Sovereignty Wars, Palantir-Nvidia Deal, SCOTUS Birthright Ruling, Newsom's CA Budget Lie
 
 Ingested the 2026-07-03 All-In episode on AI sovereignty, Palantir-Nvidia, enterprise control over compute/data/model weights, provider learning risk, AI labor-displacement debate, Anthropic export controls, Chinese open models, birthright citizenship, immigration policy, DSA momentum, and California fiscal fragility. Created the source note plus `BirthrightCitizenshipDebate` and `CaliforniaFiscalFragility`; updated `DataSovereignty`, `ModelSovereignty`, `EnterpriseOwnedModels`, `index`, and `overview`. No settled contradiction found; benchmark, jobs, export-control, constitutional, immigration-polling, California budget, debt, pension, company-exodus, and tax claims remain source-scoped host claims.
@@ -13809,3 +13813,7 @@ Ingested the 2026-07-03 芮淇讲透资治通鉴 episode on Deng Sui's pre-regen
 ## [2026-08-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-30] lint | Wiki health check
+
+Ran health, identity validation, and lint. Health scanned 16,096 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-28 with 15,429 nodes and 180,855 edges while the current lint scan covered 16,096 pages, so bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest` and no provider model/key variables are configured in this shell. Report returned in-session; `wiki/lint-report.md` was not updated.

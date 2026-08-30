@@ -9,16 +9,19 @@ sources:
   - zizhi-tongjian-hanji-800-yangzhen-zhisi-yi-chang-jianchen-dui-qingguan-de-jiaosha-lk9qcfs4xl-rjd-zpwdtsblybxa8
   - zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf
   - zizhi-tongjian-hanji-791-zhichang-shang-zong-you-ren-beihou-yin-ni-yi-zhao-yingdui-llz74ebi88qmw-9050x2qaddjwqn
+  - zizhi-tongjian-hanji-774-banchao-jiebanren-ruhe-gaoluan-xiyu-lnbnoc-uys8kee7pz9yecxecrpyd
 last_updated: 2026-08-30
 ---
 
 ## Overview
 
-班勇 / Ban Yong appears in this wiki as the Eastern Han Western Regions strategist and commander whose frontier reconstruction begins before he receives the later Liuzhong posting. The bounded evidence now spans his 120 CE advice to [[EmpressDowagerDengLateHan|Empress Dowager Deng]] after Northern Xiongnu pressure, his 123 CE appointment to Liuzhong, his 124 CE diplomacy and pressure around Loulan, Qiuci, and Cheshi Qian, his 125 CE Cheshi Hou campaign, and his later restoration work and wrongful punishment after Zhang Lang's early Yanqi attack.
+班勇 / Ban Yong appears in this wiki as the Eastern Han Western Regions strategist and commander whose frontier reconstruction has a Ban-family prelude before his own policy work. The bounded evidence now begins with [[BanChaoEasternHan|Ban Chao]] sending him inward during the elder commander's final return request, then spans his 120 CE advice to [[EmpressDowagerDengLateHan|Empress Dowager Deng]], 123 CE Liuzhong appointment, 124 CE diplomacy and pressure around Loulan, Qiuci, and Cheshi Qian, 125 CE Cheshi Hou campaign, and later restoration work and wrongful punishment after Zhang Lang's early Yanqi attack.
 
 ## Current Profile
 
-Ban Yong's earliest current wiki layer is strategic advice under Deng's regency. After [[Xiongnu|Northern Xiongnu]] attacks Yiwu, kills the Han long clerk Suo Ban, and threatens Han-aligned Shanshan through Cheshi pressure, Empress Dowager Deng asks Ban Yong to evaluate two court options: Cao Zong's request for a five-thousand-soldier punitive expedition and the ministers' proposal to close the western passes and abandon the Western Regions.
+Hanji 774 supplies a family and exposure prelude rather than a mature policy role. As Ban Chao grows old in the Western Regions, he sends Ban Yong inward with an Anxi tribute mission so the son can see the central lands while the father keeps asking to return. The episode does not yet present Ban Yong as a decision-maker, but it makes the later court habit of treating him as a Ban-family Western Regions expert more legible.
+
+Ban Yong's earliest substantive policy layer is strategic advice under Deng's regency. After [[Xiongnu|Northern Xiongnu]] attacks Yiwu, kills the Han long clerk Suo Ban, and threatens Han-aligned Shanshan through Cheshi pressure, Empress Dowager Deng asks Ban Yong to evaluate two court options: Cao Zong's request for a five-thousand-soldier punitive expedition and the ministers' proposal to close the western passes and abandon the Western Regions.
 
 Ban Yong rejects both. He argues that the Western Regions matter because they deny Xiongnu a tax base and strategic arm, but he also says a deep expedition is unrealistic after the long Qiang war has drained the treasury. His alternative is constrained retention: restore the Western Regions deputy commandant, send a long clerk with five hundred troops to Shanshan, use Dunhuang as rear support, reassure southern-route states, check northern-route pressure, and keep Han officials from harassing local Hu communities.
 
@@ -38,16 +41,17 @@ The Yanqi case turns that competence into vulnerability. Ban Yong asks to attack
 
 ## Key Characteristics
 
+- Ban-family Western Regions figure whose current evidence begins with Ban Chao sending him inward during the father's final return request.
 - Strategic adviser who rejects a false binary between expensive expedition and total Western Regions abandonment.
 - Cost-conscious frontier operator who treats treasury capacity, distance, and forward position as linked constraints.
 - Administrative trust builder whose plan includes restraining Han officials from harassing Western Regions communities.
 - Authority builder whose later methods combine Han command, local royal submission, gifts, pressure, and garrison farming.
 - Campaign commander whose 125 CE victory against Cheshi Hou combines Han commandery cavalry and allied Western Regions forces.
-- Uses dependent-polity commitment as strategy, especially by making Cheshi materially participate against Northern Xiongnu.
 - Vulnerable to credit and blame distortion when a cooperating commander changes timing.
 
 ## Evidence
 
+- Ban-family prelude: [[zizhi-tongjian-hanji-774-banchao-jiebanren-ruhe-gaoluan-xiyu-lnbnoc-uys8kee7pz9yecxecrpyd|Hanji 774]] says Ban Chao sends Ban Yong inward with an Anxi mission while seeking recall from the Western Regions.
 - 120 CE policy assessment: [[zizhi-tongjian-hanji-791-zhichang-shang-zong-you-ren-beihou-yin-ni-yi-zhao-yingdui-llz74ebi88qmw-9050x2qaddjwqn|Hanji 791]] says Ban Yong rejects both Cao Zong's deep punitive expedition and court ministers' abandonment proposal.
 - Constrained forward posture: [[zizhi-tongjian-hanji-791-zhichang-shang-zong-you-ren-beihou-yin-ni-yi-zhao-yingdui-llz74ebi88qmw-9050x2qaddjwqn|Hanji 791]] says Ban Yong proposes a Western Regions deputy commandant and a five-hundred-soldier Shanshan post backed by Dunhuang.
 - Administrative trust function: [[zizhi-tongjian-hanji-791-zhichang-shang-zong-you-ren-beihou-yin-ni-yi-zhao-yingdui-llz74ebi88qmw-9050x2qaddjwqn|Hanji 791]] says the offices should both manage Western Regions Hu communities and monitor Han officials so they do not harass locals.
@@ -63,18 +67,17 @@ The Yanqi case turns that competence into vulnerability. Ban Yong asks to attack
 
 ## Qualifications
 
-This page is bounded to five episode source notes covering 120 CE policy advice and guarantee counterframing, the 123 CE Liuzhong appointment, 124 CE operations, the 125 CE Cheshi Hou campaign, and the later restoration-and-Yanqi punishment sequence. It does not attempt a full Ban-family biography or a full reconstruction of Eastern Han Western Regions administration, and it does not settle every local royal name or court-reporting path.
+This page is bounded to six episode source notes covering Ban Yong's family prelude, 120 CE policy advice and guarantee counterframing, the 123 CE Liuzhong appointment, 124 CE operations, the 125 CE Cheshi Hou campaign, and the later restoration-and-Yanqi punishment sequence. Hanji 774 does not yet show Ban Yong acting independently; it only adds the family and frontier-exposure context for his later role.
 
 ## What Changed
 
-- Added Hanji 791 as Ban Yong's earliest current wiki layer before the 123 CE Liuzhong appointment.
-- Distinguished Ban Yong's full Shanshan-forward proposal from Deng's partial Dunhuang-only adoption.
-- Added Ban Yong's response to the impossible Xiongnu guarantee demand through [[AbsoluteGuaranteeTrap]].
-- Reframed Hanji 799 as a later reactivation of the Western Regions retention line rather than Ban Yong's first strategic appearance.
-- Preserved Hanji 800, Hanji 803, and Hanji 807 as the later operational and wrongful-blame sequence.
+- Added Hanji 774 as Ban Yong's earliest current evidence layer through Ban Chao's Anxi-mission arrangement.
+- Reframed Hanji 791 as the first substantive policy layer rather than the first appearance of Ban Yong in the wiki.
+- Preserved Hanji 799, Hanji 800, Hanji 803, and Hanji 807 as the later operational and wrongful-blame sequence.
 
 ## Relationships
 
+- [[BanChaoEasternHan|班超]] - father whose Western Regions career and final-return request form Ban Yong's family prelude.
 - [[EmpressDowagerDengLateHan|和熹邓皇后]] - regent who consults Ban Yong in 120 CE and adopts only part of his Western Regions proposal.
 - [[EmperorAnOfHan|汉安帝]] - ruler whose court later appoints Ban Yong after accepting Chen Zhong's 123 CE advice.
 - [[ChenZhongLateHan|陈忠]] - adviser whose anti-abandonment argument leads to Ban Yong's Liuzhong posting.
