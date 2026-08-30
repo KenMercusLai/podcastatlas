@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-31
-as_of_overview_commit: ffd5eb34548f6f0e00039939a4086703c0963f55
-summary: "Durable capacity comes from fitting AI, markets, institutions, care, culture, and learning to real workflows, evidence, trust, rewards, and constraints."
-episode_count: 1762
-source_count: 1762
-paragraph_count: 424
+as_of_overview_commit: 4c5b7dcf122516e12702bce13f20e954a6946bb7
+summary: "Durable capacity comes from fitting AI, markets, institutions, care, culture, and learning to real workflows, evidence, trust, finance discipline, and constraints."
+episode_count: 1763
+source_count: 1763
+paragraph_count: 425
 topic_count: 8
 ---
 
@@ -36,7 +36,7 @@ AI value concentrates when models are embedded in controlled workflows with cont
 
 ### Business and Markets
 
-Market value appears when demand, distribution, payment proof, operating fit, ROI, trust, local control, regulation, and source-dated information align.
+Market value appears when demand, distribution, payment proof, operating fit, leverage discipline, ROI, trust, local control, regulation, and source-dated information align.
 
 - [[the-continent-nobody-owns-everyone-benefits-from-summer-school]] adds that market value can be created or protected by institutional design outside ordinary ownership: [[NonMarketEnvironmentalValuation]] makes [[Antarctica]] and [[SouthernOcean]] climate services visible, [[ParkingCostInternalization]] prices [[Tokyo]] street storage, [[ViennaSocialHousingScale]] uses nonprofit and public supply to affect rents, and [[ConsortioGroupFinancing]] formalizes mutual purchasing finance in [[Brazil]]. Evidence: [[the-continent-nobody-owns-everyone-benefits-from-summer-school]], [[NonMarketEnvironmentalValuation]], [[Antarctica]], [[SouthernOcean]], [[AntarcticClimateServices]], [[ParkingCostInternalization]], [[Tokyo]], [[ViennaSocialHousingScale]], [[Vienna]], [[ConsortioGroupFinancing]], [[Brazil]], [[ExternalityInternalization]], [[HousingAffordabilitySupplyMechanics]].
 - [[CustomerPull]], [[ProductLedWillingnessToPay]], and [[PreProductSelling]] become durable only when distribution, buyer-commitment, payment proof, and operating gates such as [[CPGDistribution]], [[RetailLineReview]], [[PlanogramGatekeeping]], [[RetailPricePointProductScoping]], [[MassRetailProductionDeadline]], [[EnterprisePOCDiscipline]], [[EnterpriseCustomerAsMarket]], [[AIOfficeAgent]], [[IndustrialAIROIFilter]], [[ScenarioLevelRewardSignal]], [[AutoRLProductionLoop]], [[NontraditionalBorrowerCreditAccess]], [[ExplainableAILending]], [[HumanInTheLoopCreditDecisioning]], [[RobotRepurchaseDemand]], [[RobotTrainingCenters]], [[EgocentricRobotData]], [[FounderPitchEvidenceFit]], [[SmallRetailerChannelTest]], [[NicheOriginStoryExpansion]], and [[MissionAlignedVendorSwitching]] can repeatedly deliver value after initial attention. Evidence: [[CustomerPull]], [[ProductLedWillingnessToPay]], [[PreProductSelling]], [[CPGDistribution]], [[RetailLineReview]], [[PlanogramGatekeeping]], [[RetailPricePointProductScoping]], [[MassRetailProductionDeadline]], [[EnterprisePOCDiscipline]], [[EnterpriseCustomerAsMarket]], [[Templafy]], [[RobotRepurchaseDemand]], [[AIOfficeAgent]], [[AICommercializationPressure]], [[AIConsumerGrowthMetrics]], [[AIInferenceCostStructure]], [[DingTalk]], [[Feishu]], [[TencentWorkBuddy]], [[DoubaoWork]], [[tengxun-ali-zijie-zhengduo-dagongren-hulianwang-dachang-weihe-jiti-jiama-ai-bangong-1008598460]], [[ep-46-fix-the-foundation-first-why-your-data-strategy-is-failing-before-the-ai-gets-involved]], [[MidMarketDataTalentGap]], [[ParadoxMachines]], [[advice-line-with-daymond-john-of-fubu-0961848f-0f5a-4fb7-932c-3a04f08bc8d4]], [[HowIBuiltThis]], [[DaymondJohn]], [[FUBU]], [[SaborAMexicoSalsas]], [[RaisedNutrition]], [[CooksWhoFeed]], [[FounderPitchEvidenceFit]], [[SmallRetailerChannelTest]], [[NicheOriginStoryExpansion]], [[MissionAlignedVendorSwitching]], [[StoryLedConsumerBranding]], [[LocalMarketProof]], [[InStoreDemos]], [[CoreTribePositioning]], [[PurposeDrivenBusiness]], [[RelationshipLedGrowth]], [[FounderLedLiveSelling]], [[RobotTrainingCenters]], [[EgocentricRobotData]], [[HubeiHumanoidInnovationCenter]], [[JDCom]], [[bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf]], [[ep-44-human-centered-credit-building-explainable-ai-for-lending-in-an-agentic-world]], [[MPWRAI]], [[TamaraClay]], [[NontraditionalBorrowerCreditAccess]], [[ExplainableAILending]], [[PolicyBoundAgenticLendingSupport]], [[HumanInTheLoopCreditDecisioning]], [[ai-xia-banchang-buhui-zhisheng-yige-chaoji-moxing-duitan-kevin-ding-pyromind-chuangshiren-ceo-lsq-rke8nfrbi5xalgst3a8uncfd]], [[KevinDing]], [[Pyromind]], [[Echomind]], [[IndustrialAIROIFilter]], [[ScenarioLevelRewardSignal]], [[AutoRLProductionLoop]], [[OutcomeBasedAIPricing]], [[ForwardDeployedEngineer]].

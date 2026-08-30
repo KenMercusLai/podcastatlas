@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 1877
+topic_total_pages: 1879
 topic_concepts:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -769,6 +769,9 @@ topic_concepts:
   - key: "DesignForOnePerson"
     title: "Design For One Person"
     url: "/wiki/concepts/designforoneperson/"
+  - key: "DeveloperHiddenDebtStack"
+    title: "Developer Hidden Debt Stack / 房企隐性债务堆叠"
+    url: "/wiki/concepts/developerhiddendebtstack/"
   - key: "DevelopmentEconomics"
     title: "Development Economics"
     url: "/wiki/concepts/developmenteconomics/"
@@ -5283,6 +5286,9 @@ topic_sources:
   - key: "ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p"
     title: "EP90 从美加墨世界杯看懂期权—华尔街的终极武器"
     url: "/wiki/sources/ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p/"
+  - key: "ep93-yanjian-hengda-qi-gaolou-zhuanyan-shoufu-ru-gaoqiang-lhsjpbzdfjta0phfxrtnybq57o4c"
+    title: "EP93 眼见恒大起高楼，转眼首富入高墙"
+    url: "/wiki/sources/ep93-yanjian-hengda-qi-gaolou-zhuanyan-shoufu-ru-gaoqiang-lhsjpbzdfjta0phfxrtnybq57o4c/"
   - key: "tsr-s4-ericm-v2-tsr-s4-ericm-v2"
     title: "Eric Migicovsky on Pebble, Kickstarter, and Building for Yourself"
     url: "/wiki/sources/tsr-s4-ericm-v2-tsr-s4-ericm-v2/"

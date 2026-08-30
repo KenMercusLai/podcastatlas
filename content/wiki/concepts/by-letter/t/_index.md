@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 6065
+wiki_total_pages: 6070
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -311,6 +311,9 @@ wiki_pages:
   - key: "ThreeQinContainment"
     title: "Three Qin Containment / 三秦压制"
     url: "/wiki/concepts/threeqincontainment/"
+  - key: "ThreeRedLinesPolicy"
+    title: "Three Red Lines Policy / 三条红线政策"
+    url: "/wiki/concepts/threeredlinespolicy/"
   - key: "ThreeLayerScaleEconomies"
     title: "Three-Layer Scale Economies"
     url: "/wiki/concepts/threelayerscaleeconomies/"

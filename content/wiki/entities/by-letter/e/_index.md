@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 8514
+wiki_total_pages: 8516
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -416,6 +416,9 @@ wiki_pages:
   - key: "Evergrande"
     title: "Evergrande"
     url: "/wiki/entities/evergrande/"
+  - key: "EvergrandeWealth"
+    title: "Evergrande Wealth / 恒大财富"
+    url: "/wiki/entities/evergrandewealth/"
   - key: "EvergreenSettlements"
     title: "Evergreen Settlements"
     url: "/wiki/entities/evergreensettlements/"

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2089
+topic_total_pages: 2091
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -1234,6 +1234,9 @@ topic_concepts:
   - key: "GreenlandStrategicAccess"
     title: "Greenland Strategic Access"
     url: "/wiki/concepts/greenlandstrategicaccess/"
+  - key: "GuaranteedHomeDeliveryCrisis"
+    title: "Guaranteed Home Delivery Crisis / 保交楼危机"
+    url: "/wiki/concepts/guaranteedhomedeliverycrisis/"
   - key: "GuestExpulsionOrder"
     title: "Guest Expulsion Order / 逐客令"
     url: "/wiki/concepts/guestexpulsionorder/"
@@ -2911,6 +2914,9 @@ topic_concepts:
   - key: "ThreeExcellenciesBlameWithoutAuthority"
     title: "Three Excellencies Blame Without Authority / 三公无权背责"
     url: "/wiki/concepts/threeexcellenciesblamewithoutauthority/"
+  - key: "ThreeRedLinesPolicy"
+    title: "Three Red Lines Policy / 三条红线政策"
+    url: "/wiki/concepts/threeredlinespolicy/"
   - key: "TitleRealityRestraint"
     title: "Title-Reality Restraint / 名实相符式名号节制"
     url: "/wiki/concepts/titlerealityrestraint/"

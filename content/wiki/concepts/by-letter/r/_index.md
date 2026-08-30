@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 6065
+wiki_total_pages: 6070
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -92,6 +92,9 @@ wiki_pages:
   - key: "ReadingMediumPluralism"
     title: "Reading Medium Pluralism / 阅读媒介多元主义"
     url: "/wiki/concepts/readingmediumpluralism/"
+  - key: "RealEstateHighTurnoverLeverage"
+    title: "Real Estate High-Turnover Leverage / 房地产高周转杠杆"
+    url: "/wiki/concepts/realestatehighturnoverleverage/"
   - key: "RealEstateInvestmentTrust"
     title: "Real Estate Investment Trust"
     url: "/wiki/concepts/realestateinvestmenttrust/"

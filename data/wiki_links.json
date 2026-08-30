@@ -14307,6 +14307,10 @@
     "title": "Developer-First Payment Infrastructure",
     "url": "/wiki/concepts/developerfirstpaymentinfrastructure/"
   },
+  "DeveloperHiddenDebtStack": {
+    "title": "Developer Hidden Debt Stack / 房企隐性债务堆叠",
+    "url": "/wiki/concepts/developerhiddendebtstack/"
+  },
   "DevelopmentAsVariationSystem": {
     "title": "Development As Variation System / 发展作为变异系统",
     "url": "/wiki/concepts/developmentasvariationsystem/"
@@ -17170,6 +17174,10 @@
   "Evergrande": {
     "title": "Evergrande",
     "url": "/wiki/entities/evergrande/"
+  },
+  "EvergrandeWealth": {
+    "title": "Evergrande Wealth / 恒大财富",
+    "url": "/wiki/entities/evergrandewealth/"
   },
   "EvergreenSettlements": {
     "title": "Evergreen Settlements",
@@ -21839,6 +21847,10 @@
     "title": "《管子》 / Guanzi",
     "url": "/wiki/entities/guanzitext/"
   },
+  "GuaranteedHomeDeliveryCrisis": {
+    "title": "Guaranteed Home Delivery Crisis / 保交楼危机",
+    "url": "/wiki/concepts/guaranteedhomedeliverycrisis/"
+  },
   "GuestExpulsionOrder": {
     "title": "Guest Expulsion Order / 逐客令",
     "url": "/wiki/concepts/guestexpulsionorder/"
@@ -23966,6 +23978,10 @@
   "HousingExperienceInvestmentSplit": {
     "title": "Housing Experience Investment Split",
     "url": "/wiki/concepts/housingexperienceinvestmentsplit/"
+  },
+  "HousingPresaleFinancingRisk": {
+    "title": "Housing Presale Financing Risk / 住宅预售融资风险",
+    "url": "/wiki/concepts/housingpresalefinancingrisk/"
   },
   "HousingRestrictionBackfire": {
     "title": "Housing Restriction Backfire",
@@ -42411,6 +42427,10 @@
     "title": "Reading Medium Pluralism / 阅读媒介多元主义",
     "url": "/wiki/concepts/readingmediumpluralism/"
   },
+  "RealEstateHighTurnoverLeverage": {
+    "title": "Real Estate High-Turnover Leverage / 房地产高周转杠杆",
+    "url": "/wiki/concepts/realestatehighturnoverleverage/"
+  },
   "RealEstateInvestmentTrust": {
     "title": "Real Estate Investment Trust",
     "url": "/wiki/concepts/realestateinvestmenttrust/"
@@ -42894,6 +42914,10 @@
   "RenXiao": {
     "title": "任嚣 / Ren Xiao",
     "url": "/wiki/entities/renxiao/"
+  },
+  "RenZeping": {
+    "title": "Ren Zeping / 任泽平",
+    "url": "/wiki/entities/renzeping/"
   },
   "RenZhengfei": {
     "title": "Ren Zhengfei",
@@ -50818,6 +50842,10 @@
   "ThreeQinContainment": {
     "title": "Three Qin Containment / 三秦压制",
     "url": "/wiki/concepts/threeqincontainment/"
+  },
+  "ThreeRedLinesPolicy": {
+    "title": "Three Red Lines Policy / 三条红线政策",
+    "url": "/wiki/concepts/threeredlinespolicy/"
   },
   "ThreeRefusalsIntegrity": {
     "title": "三不沾式清廉自守 / Three-Refusals Integrity",
@@ -60738,6 +60766,10 @@
   "ep91-dingfang-dingpiao-dingjiangshan-xiecheng-51-yi-wei-aoman-maidan-lovhfkz4rklv1ik-uqyeswrdf3uw": {
     "title": "EP91 订房订票定江山，携程51亿为傲慢买单",
     "url": "/wiki/sources/ep91-dingfang-dingpiao-dingjiangshan-xiecheng-51-yi-wei-aoman-maidan-lovhfkz4rklv1ik-uqyeswrdf3uw/"
+  },
+  "ep93-yanjian-hengda-qi-gaolou-zhuanyan-shoufu-ru-gaoqiang-lhsjpbzdfjta0phfxrtnybq57o4c": {
+    "title": "EP93 眼见恒大起高楼，转眼首富入高墙",
+    "url": "/wiki/sources/ep93-yanjian-hengda-qi-gaolou-zhuanyan-shoufu-ru-gaoqiang-lhsjpbzdfjta0phfxrtnybq57o4c/"
   },
   "eric-ries-incorruptible-by-design-wrgromn5peq": {
     "title": "Eric Ries: Incorruptible by Design",

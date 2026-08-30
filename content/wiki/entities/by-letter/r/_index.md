@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 8514
+wiki_total_pages: 8516
 wiki_pages:
   - key: "RachelReeves"
     title: "Rachel Reeves"
@@ -185,6 +185,9 @@ wiki_pages:
   - key: "RemoraCarbon"
     title: "Remora Carbon"
     url: "/wiki/entities/remoracarbon/"
+  - key: "RenZeping"
+    title: "Ren Zeping / 任泽平"
+    url: "/wiki/entities/renzeping/"
   - key: "RenZhengfei"
     title: "Ren Zhengfei"
     url: "/wiki/entities/renzhengfei/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 6065
+wiki_total_pages: 6070
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -359,6 +359,9 @@ wiki_pages:
   - key: "DeterministicDataAgentValidation"
     title: "Deterministic Data Agent Validation"
     url: "/wiki/concepts/deterministicdataagentvalidation/"
+  - key: "DeveloperHiddenDebtStack"
+    title: "Developer Hidden Debt Stack / 房企隐性债务堆叠"
+    url: "/wiki/concepts/developerhiddendebtstack/"
   - key: "DeveloperFirstPaymentInfrastructure"
     title: "Developer-First Payment Infrastructure"
     url: "/wiki/concepts/developerfirstpaymentinfrastructure/"

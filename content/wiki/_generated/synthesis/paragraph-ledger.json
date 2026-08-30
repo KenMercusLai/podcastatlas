@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "53d93e7610f3f1096a82dea6a00e66500773627a3ef008805d900cd4e2ece6b4",
       "94554e1812f2ee4a85922d90e25a02a413e51e9371063e0478766140bb170f01",
       "40146ef4d28330ba1e5d49457517bc7badeeecc05031b8d720554c6221eb3371",
       "50b91013141ee289af61a6aafabf6ee8fb34faeb73495e3da1310b9ef3cf7f55",
@@ -426,11 +427,39 @@
       "12c2b57062376e50f472c6806ecb08714733b065e8db5d2b809f05f83d802f96",
       "2231d7cf4c1cf8ae29ee2ec0737334356ddcd78d5df4e6b306dab83b98b3febe"
     ],
-    "paragraph_count": 424
+    "paragraph_count": 425
   },
-  "overview_commit": "ffd5eb34548f6f0e00039939a4086703c0963f55",
-  "overview_digest": "b244631ca5c9ef3bd304552c92ab38fac0e7ba5bb48b56bb02fe0f96803946ee",
+  "overview_commit": "4c5b7dcf122516e12702bce13f20e954a6946bb7",
+  "overview_digest": "983f082042c59489c99325a8c94877db7e7b552cc55ea0e1d3dd163381e94815",
   "paragraphs": [
+    {
+      "id": "53d93e7610f3f1096a82dea6a00e66500773627a3ef008805d900cd4e2ece6b4",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "The latest addition is [[ep93-yanjian-hengda-qi-gaolou-zhuanyan-shoufu-ru-gaoqiang-lhsjpbzdfjta0phfxrtnybq57o4c|EP93 眼见恒大起高楼，转眼首富入高墙]], a [[YiLaoYongYi|一劳永逸]] episode that turns [[Evergrande]] from a broad [[ChinaRealEstateDebtCycle]] example into a detailed company-finance case. It adds [[EvergrandeWealth]], [[RenZeping]], [[RealEstateHighTurnoverLeverage]], [[HousingPresaleFinancingRisk]], [[DeveloperHiddenDebtStack]], [[ThreeRedLinesPolicy]], and [[GuaranteedHomeDeliveryCrisis]], while extending [[XuJiayin]], [[ChinaRealEstateDebtCycle]], [[JapaneseHousingPresaleProtection]], [[ChineseBankWealthManagement]], and [[InvestmentRiskManagement]]. Its core synthesis is that Evergrande's rise depended on speed as leverage: cheap land, contractor advances, presale cash, low-price fast sales, listed-company credit, dollar bonds, perpetual bonds, commercial paper, wealth products, and strategic-investor promises all worked while property prices and refinancing confidence held, then reversed into supplier losses, retail-investor nonpayment, unfinished homes, and a government-facing delivery crisis. No settled contradiction is recorded; legal, debt, owner-count, delivery-progress, and side-agreement figures remain source-scoped episode claims.",
+      "topic_scores": {
+        "business-and-markets": 5,
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "ChinaRealEstateDebtCycle",
+        "ChineseBankWealthManagement",
+        "DeveloperHiddenDebtStack",
+        "Evergrande",
+        "EvergrandeWealth",
+        "GuaranteedHomeDeliveryCrisis",
+        "HousingPresaleFinancingRisk",
+        "InvestmentRiskManagement",
+        "JapaneseHousingPresaleProtection",
+        "RealEstateHighTurnoverLeverage",
+        "RenZeping",
+        "ThreeRedLinesPolicy",
+        "XuJiayin",
+        "YiLaoYongYi",
+        "ep93-yanjian-hengda-qi-gaolou-zhuanyan-shoufu-ru-gaoqiang-lhsjpbzdfjta0phfxrtnybq57o4c"
+      ]
+    },
     {
       "id": "94554e1812f2ee4a85922d90e25a02a413e51e9371063e0478766140bb170f01",
       "primary_topic": "ai-and-technology",

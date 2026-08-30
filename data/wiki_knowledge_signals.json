@@ -6205,6 +6205,50 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/chinahomesharingsupplymotivation/"
     },
+    "ChinaRealEstateDebtCycle": {
+      "episode_count": 5,
+      "show_count": 3,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "165.年报季中的真实中国2026 [lpredEVU_gAKn92dwutMuLYtMsLo].md",
+          "key": "165-nianbaoji-zhong-de-zhenshi-zhongguo-2026-lpredevu-gakn92dwutmulytmslo",
+          "show": "起朱楼宴宾客",
+          "title": "165.年报季中的真实中国2026",
+          "url": "/wiki/sources/165-nianbaoji-zhong-de-zhenshi-zhongguo-2026-lpredevu-gakn92dwutmulytmslo/"
+        },
+        {
+          "episode_file": "153.全球宏观和资本市场2026展望：大年之后，仍是大年？ [luPeQjDszON-wp5zdq06w3ustw2d].md",
+          "key": "153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d",
+          "show": "起朱楼宴宾客",
+          "title": "153.全球宏观和资本市场2026展望：大年之后，仍是大年？",
+          "url": "/wiki/sources/153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d/"
+        },
+        {
+          "episode_file": "131.我在日本买了一套自住房 [lloFkgAJ-hyAJksrPkoYLAKuoCXz].md",
+          "key": "131-wo-zai-riben-mai-le-yi-tao-zizhu-fang-llofkgaj-hyajksrpkoylakuocxz",
+          "show": "起朱楼宴宾客",
+          "title": "131.我在日本买了一套自住房",
+          "url": "/wiki/sources/131-wo-zai-riben-mai-le-yi-tao-zizhu-fang-llofkgaj-hyajksrpkoylakuocxz/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_5c39ca8bbdbf89c6ef326681052f6a26_40467297 [default.mp3_ywr3ahjkcgo_5c39ca8bbdbf89c6ef326681052f6a26_40467297].md",
+          "key": "building-things-and-breaking-things-in-china-summer-school-world-tour",
+          "show": "Planet Money",
+          "title": "Building things and breaking things in China (Summer School World Tour)",
+          "url": "/wiki/sources/building-things-and-breaking-things-in-china-summer-school-world-tour/"
+        },
+        {
+          "episode_file": "EP93 眼见恒大起高楼，转眼首富入高墙 [lhSJpbzDfJTA0PHFXrTnyBq57O4C].md",
+          "key": "ep93-yanjian-hengda-qi-gaolou-zhuanyan-shoufu-ru-gaoqiang-lhsjpbzdfjta0phfxrtnybq57o4c",
+          "show": "一劳永逸",
+          "title": "EP93 眼见恒大起高楼，转眼首富入高墙",
+          "url": "/wiki/sources/ep93-yanjian-hengda-qi-gaolou-zhuanyan-shoufu-ru-gaoqiang-lhsjpbzdfjta0phfxrtnybq57o4c/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/chinarealestatedebtcycle/"
+    },
     "ChinaWomensNationalFootballTeam": {
       "episode_count": 1,
       "show_count": 1,
@@ -8916,6 +8960,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/deutschebahn/"
+    },
+    "DeveloperHiddenDebtStack": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "EP93 眼见恒大起高楼，转眼首富入高墙 [lhSJpbzDfJTA0PHFXrTnyBq57O4C].md",
+          "key": "ep93-yanjian-hengda-qi-gaolou-zhuanyan-shoufu-ru-gaoqiang-lhsjpbzdfjta0phfxrtnybq57o4c",
+          "show": "一劳永逸",
+          "title": "EP93 眼见恒大起高楼，转眼首富入高墙",
+          "url": "/wiki/sources/ep93-yanjian-hengda-qi-gaolou-zhuanyan-shoufu-ru-gaoqiang-lhsjpbzdfjta0phfxrtnybq57o4c/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/developerhiddendebtstack/"
     },
     "DiagnosticSafetyNetting": {
       "episode_count": 1,
@@ -12234,6 +12294,45 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/eunuchpatronageviolenceshield/"
     },
+    "Evergrande": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_5c39ca8bbdbf89c6ef326681052f6a26_40467297 [default.mp3_ywr3ahjkcgo_5c39ca8bbdbf89c6ef326681052f6a26_40467297].md",
+          "key": "building-things-and-breaking-things-in-china-summer-school-world-tour",
+          "show": "Planet Money",
+          "title": "Building things and breaking things in China (Summer School World Tour)",
+          "url": "/wiki/sources/building-things-and-breaking-things-in-china-summer-school-world-tour/"
+        },
+        {
+          "episode_file": "EP93 眼见恒大起高楼，转眼首富入高墙 [lhSJpbzDfJTA0PHFXrTnyBq57O4C].md",
+          "key": "ep93-yanjian-hengda-qi-gaolou-zhuanyan-shoufu-ru-gaoqiang-lhsjpbzdfjta0phfxrtnybq57o4c",
+          "show": "一劳永逸",
+          "title": "EP93 眼见恒大起高楼，转眼首富入高墙",
+          "url": "/wiki/sources/ep93-yanjian-hengda-qi-gaolou-zhuanyan-shoufu-ru-gaoqiang-lhsjpbzdfjta0phfxrtnybq57o4c/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/evergrande/"
+    },
+    "EvergrandeWealth": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "EP93 眼见恒大起高楼，转眼首富入高墙 [lhSJpbzDfJTA0PHFXrTnyBq57O4C].md",
+          "key": "ep93-yanjian-hengda-qi-gaolou-zhuanyan-shoufu-ru-gaoqiang-lhsjpbzdfjta0phfxrtnybq57o4c",
+          "show": "一劳永逸",
+          "title": "EP93 眼见恒大起高楼，转眼首富入高墙",
+          "url": "/wiki/sources/ep93-yanjian-hengda-qi-gaolou-zhuanyan-shoufu-ru-gaoqiang-lhsjpbzdfjta0phfxrtnybq57o4c/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/evergrandewealth/"
+    },
     "EvolutionaryMisrecognition": {
       "episode_count": 1,
       "show_count": 1,
@@ -15374,6 +15473,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/guangzhouacademyoffinearts/"
     },
+    "GuaranteedHomeDeliveryCrisis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "EP93 眼见恒大起高楼，转眼首富入高墙 [lhSJpbzDfJTA0PHFXrTnyBq57O4C].md",
+          "key": "ep93-yanjian-hengda-qi-gaolou-zhuanyan-shoufu-ru-gaoqiang-lhsjpbzdfjta0phfxrtnybq57o4c",
+          "show": "一劳永逸",
+          "title": "EP93 眼见恒大起高楼，转眼首富入高墙",
+          "url": "/wiki/sources/ep93-yanjian-hengda-qi-gaolou-zhuanyan-shoufu-ru-gaoqiang-lhsjpbzdfjta0phfxrtnybq57o4c/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/guaranteedhomedeliverycrisis/"
+    },
     "GuideRobotDogs": {
       "episode_count": 1,
       "show_count": 1,
@@ -16918,6 +17033,29 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/householdmisconductpoliticalliability/"
+    },
+    "HousingPresaleFinancingRisk": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "EP93 眼见恒大起高楼，转眼首富入高墙 [lhSJpbzDfJTA0PHFXrTnyBq57O4C].md",
+          "key": "ep93-yanjian-hengda-qi-gaolou-zhuanyan-shoufu-ru-gaoqiang-lhsjpbzdfjta0phfxrtnybq57o4c",
+          "show": "一劳永逸",
+          "title": "EP93 眼见恒大起高楼，转眼首富入高墙",
+          "url": "/wiki/sources/ep93-yanjian-hengda-qi-gaolou-zhuanyan-shoufu-ru-gaoqiang-lhsjpbzdfjta0phfxrtnybq57o4c/"
+        },
+        {
+          "episode_file": "131.我在日本买了一套自住房 [lloFkgAJ-hyAJksrPkoYLAKuoCXz].md",
+          "key": "131-wo-zai-riben-mai-le-yi-tao-zizhu-fang-llofkgaj-hyajksrpkoylakuocxz",
+          "show": "起朱楼宴宾客",
+          "title": "131.我在日本买了一套自住房",
+          "url": "/wiki/sources/131-wo-zai-riben-mai-le-yi-tao-zizhu-fang-llofkgaj-hyajksrpkoylakuocxz/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/housingpresalefinancingrisk/"
     },
     "HousingSupplyOverRentControl": {
       "episode_count": 1,
@@ -30799,6 +30937,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/raybansmartglasses/"
     },
+    "RealEstateHighTurnoverLeverage": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "EP93 眼见恒大起高楼，转眼首富入高墙 [lhSJpbzDfJTA0PHFXrTnyBq57O4C].md",
+          "key": "ep93-yanjian-hengda-qi-gaolou-zhuanyan-shoufu-ru-gaoqiang-lhsjpbzdfjta0phfxrtnybq57o4c",
+          "show": "一劳永逸",
+          "title": "EP93 眼见恒大起高楼，转眼首富入高墙",
+          "url": "/wiki/sources/ep93-yanjian-hengda-qi-gaolou-zhuanyan-shoufu-ru-gaoqiang-lhsjpbzdfjta0phfxrtnybq57o4c/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/realestatehighturnoverleverage/"
+    },
     "RealRobotDataStrategy": {
       "episode_count": 9,
       "show_count": 5,
@@ -31297,6 +31451,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/renshanglatehan/"
+    },
+    "RenZeping": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "EP93 眼见恒大起高楼，转眼首富入高墙 [lhSJpbzDfJTA0PHFXrTnyBq57O4C].md",
+          "key": "ep93-yanjian-hengda-qi-gaolou-zhuanyan-shoufu-ru-gaoqiang-lhsjpbzdfjta0phfxrtnybq57o4c",
+          "show": "一劳永逸",
+          "title": "EP93 眼见恒大起高楼，转眼首富入高墙",
+          "url": "/wiki/sources/ep93-yanjian-hengda-qi-gaolou-zhuanyan-shoufu-ru-gaoqiang-lhsjpbzdfjta0phfxrtnybq57o4c/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/renzeping/"
     },
     "ReproductiveAttritionStrategy": {
       "episode_count": 1,
@@ -36650,6 +36820,29 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/threeqwar/"
     },
+    "ThreeRedLinesPolicy": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_5c39ca8bbdbf89c6ef326681052f6a26_40467297 [default.mp3_ywr3ahjkcgo_5c39ca8bbdbf89c6ef326681052f6a26_40467297].md",
+          "key": "building-things-and-breaking-things-in-china-summer-school-world-tour",
+          "show": "Planet Money",
+          "title": "Building things and breaking things in China (Summer School World Tour)",
+          "url": "/wiki/sources/building-things-and-breaking-things-in-china-summer-school-world-tour/"
+        },
+        {
+          "episode_file": "EP93 眼见恒大起高楼，转眼首富入高墙 [lhSJpbzDfJTA0PHFXrTnyBq57O4C].md",
+          "key": "ep93-yanjian-hengda-qi-gaolou-zhuanyan-shoufu-ru-gaoqiang-lhsjpbzdfjta0phfxrtnybq57o4c",
+          "show": "一劳永逸",
+          "title": "EP93 眼见恒大起高楼，转眼首富入高墙",
+          "url": "/wiki/sources/ep93-yanjian-hengda-qi-gaolou-zhuanyan-shoufu-ru-gaoqiang-lhsjpbzdfjta0phfxrtnybq57o4c/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/threeredlinespolicy/"
+    },
     "ThreeRefusalsIntegrity": {
       "episode_count": 2,
       "show_count": 1,
@@ -40684,6 +40877,29 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/xuhuanglatehan/"
+    },
+    "XuJiayin": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_5c39ca8bbdbf89c6ef326681052f6a26_40467297 [default.mp3_ywr3ahjkcgo_5c39ca8bbdbf89c6ef326681052f6a26_40467297].md",
+          "key": "building-things-and-breaking-things-in-china-summer-school-world-tour",
+          "show": "Planet Money",
+          "title": "Building things and breaking things in China (Summer School World Tour)",
+          "url": "/wiki/sources/building-things-and-breaking-things-in-china-summer-school-world-tour/"
+        },
+        {
+          "episode_file": "EP93 眼见恒大起高楼，转眼首富入高墙 [lhSJpbzDfJTA0PHFXrTnyBq57O4C].md",
+          "key": "ep93-yanjian-hengda-qi-gaolou-zhuanyan-shoufu-ru-gaoqiang-lhsjpbzdfjta0phfxrtnybq57o4c",
+          "show": "一劳永逸",
+          "title": "EP93 眼见恒大起高楼，转眼首富入高墙",
+          "url": "/wiki/sources/ep93-yanjian-hengda-qi-gaolou-zhuanyan-shoufu-ru-gaoqiang-lhsjpbzdfjta0phfxrtnybq57o4c/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/xujiayin/"
     },
     "XuJingLateHan": {
       "episode_count": 1,

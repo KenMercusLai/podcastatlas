@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP93 眼见恒大起高楼，转眼首富入高墙](sources/ep93-yanjian-hengda-qi-gaolou-zhuanyan-shoufu-ru-gaoqiang-lhsjpbzdfjta0phfxrtnybq57o4c.md) — 一劳永逸 episode on Evergrande and Xu Jiayin, high-turnover property leverage, presale financing risk, hidden developer debt, Evergrande Wealth, commercial-paper defaults, three red lines, and the 保交楼 crisis.
 - [AI 下半场，不会只剩一个超级模型｜对谈 Kevin Ding：Pyromind 创始人/CEO](sources/ai-xia-banchang-buhui-zhisheng-yige-chaoji-moxing-duitan-kevin-ding-pyromind-chuangshiren-ceo-lsq-rke8nfrbi5xalgst3a8uncfd.md) — 十字路口Crossing episode with Kevin Ding on Pyromind, Auto RL, scenario rewards, FDE boundaries, industrial ROI filters, PyroDash, and why AI may not converge to one supermodel.
 - [683. Washington: Hero of the Revolution (Part 1)](sources/683-washington-hero-of-the-revolution-part-1-glt3752138067.md) — The Rest Is History episode on George Washington, Valley Forge, Continental Army endurance, French alliance, Black soldiers, and republican self-command.
 - [《资治通鉴·汉纪》744丨大汉耿恭求生菜谱，竟让贝爷望尘莫及？](sources/zizhi-tongjian-hanji-744-dahan-genggong-qiusheng-caipu-jingrang-beiye-wangchenmoji-lvsumpsnpb1tpk7t0xrx7vatd5mx.md) — 芮淇讲透资治通鉴 episode on Geng Gong's first 75 CE Jinpu and Shule-fortress survival defense, Mingdi's death and frugal burial, Zhangdi's accession, Liu Cang's anti-tomb-city remonstrance, and Fifth Lun's Sikong appointment.
@@ -7702,8 +7703,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hoover Institution](entities/HooverInstitution.md) — Policy research institution named as Dan Wang's affiliation.
 - [Desmond Shum](entities/DesmondShum.md) — Property developer whose airport-logistics deal grounds the real-estate boom case.
 - [Whitney Duan](entities/WhitneyDuan.md) — Desmond Shum's business partner in the airport-logistics development story.
-- [Evergrande](entities/Evergrande.md) — Chinese property developer used as the central debt-cycle case.
-- [Xu Jiayin](entities/XuJiayin.md) — Evergrande founder used by the episode to symbolize boom-era property excess.
+- [Evergrande](entities/Evergrande.md) — Chinese property developer used as the central high-turnover, hidden-debt, wealth-product, and home-delivery crisis case.
+- [Xu Jiayin](entities/XuJiayin.md) — Evergrande founder whose rise, richest-person peak, financing model, and reported legal endpoint symbolize property-boom excess.
+- [Evergrande Wealth / 恒大财富](entities/EvergrandeWealth.md) — Evergrande-linked wealth-product arm whose failed repayment spread the developer crisis to employees, owners, and retail investors.
+- [Ren Zeping / 任泽平](entities/RenZeping.md) — Economist used by EP93 as a boom-era housing-price confidence signal during Evergrande's 2017 peak.
 - [Xi Jinping](entities/XiJinping.md) — Chinese leader whose anti-speculation housing line marks the policy pivot in the episode.
 - [Nancy Qian](entities/NancyQian.md) — Economist explaining China's youth unemployment, job scarcity, and productivity risk.
 - [Aze](entities/Aze.md) — Young Beijing woman whose hidden unemployment grounds the youth case study.
@@ -10288,6 +10291,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Real Estate High-Turnover Leverage / 房地产高周转杠杆](concepts/RealEstateHighTurnoverLeverage.md) — Evergrande-style property model using low-price fast sales, presale cash, contractor credit, land collateral, and refinancing to scale quickly.
+- [Housing Presale Financing Risk / 住宅预售融资风险](concepts/HousingPresaleFinancingRisk.md) — Risk created when buyer payments before completion become developer financing exposure, contrasted with Japanese handover-funded presale protection.
+- [Developer Hidden Debt Stack / 房企隐性债务堆叠](concepts/DeveloperHiddenDebtStack.md) — Layered developer obligations across dollar bonds, perpetual bonds, commercial bills, wealth products, contractor advances, and investor buybacks.
+- [Three Red Lines Policy / 三条红线政策](concepts/ThreeRedLinesPolicy.md) — China property-developer debt-control framework that exposed rollover dependence at highly leveraged developers such as Evergrande.
+- [Guaranteed Home Delivery Crisis / 保交楼危机](concepts/GuaranteedHomeDeliveryCrisis.md) — Social and governance crisis when presold homes cannot be completed after a developer's financing chain breaks.
 - [Auto RL Production Loop](concepts/AutoRLProductionLoop.md) — Post-training workflow that captures production trajectories, derives rewards, trains, and redeploys improved models into the operating scene.
 - [Scenario-Level Reward Signal](concepts/ScenarioLevelRewardSignal.md) — Demand-side definition of better performance for a production scene, grounded in data, labels, workflow outcomes, privacy constraints, and economics.
 - [Industrial AI ROI Filter](concepts/IndustrialAIROIFilter.md) — Customer and scene-selection rule favoring production data, clear labels, capability gaps, measurable ROI, and repeatability.
@@ -14368,7 +14376,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Friendship Recession](concepts/FriendshipRecession.md) — Social-anxiety frame around adults having fewer close friendships and seeking structured offline connection.
 - [Engineering State](concepts/EngineeringState.md) — Dan Wang's frame for a state that treats development as building, technical systems, and physical transformation.
 - [Infrastructure Malinvestment](concepts/InfrastructureMalinvestment.md) — Pattern where visible infrastructure absorbs resources despite weaker local demand or more urgent public-service needs.
-- [China Real Estate Debt Cycle](concepts/ChinaRealEstateDebtCycle.md) — Property boom-bust loop linking households, developers, local governments, land finance, debt caps, and unfinished apartments.
+- [China Real Estate Debt Cycle](concepts/ChinaRealEstateDebtCycle.md) — Property boom-bust loop linking households, developers, land finance, high-turnover leverage, hidden debt, debt caps, and unfinished apartments.
 - [China Youth Unemployment](concepts/ChinaYouthUnemployment.md) — Labor-market and expectations crisis facing young Chinese graduates after boom-era mobility weakens.
 - [China Low-Redistribution State](concepts/ChinaLowRedistributionState.md) — Episode frame for China's thin welfare support, low tax regime, and limited redistribution despite socialist language.
 - [Build, Build, Regulate](concepts/BuildBuildRegulate.md) — U.S. lesson from the China comparison: build more housing, infrastructure, and manufacturing with stronger guardrails.

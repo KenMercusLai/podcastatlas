@@ -14126,3 +14126,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-31] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-31] ingest | EP93 眼见恒大起高楼，转眼首富入高墙
+
+Ingested the 2026-08-30 一劳永逸 episode on Evergrande and Xu Jiayin's rise and collapse: low-price fast sales, presale financing, high-turnover leverage, Hong Kong listing credit, dollar bonds, perpetual bonds, commercial paper, Evergrande Wealth, strategic-investor pressure, three red lines, supplier defaults, unfinished homes, delisting, and liquidation. Created the source note plus `EvergrandeWealth`, `RenZeping`, `RealEstateHighTurnoverLeverage`, `HousingPresaleFinancingRisk`, `DeveloperHiddenDebtStack`, `ThreeRedLinesPolicy`, and `GuaranteedHomeDeliveryCrisis`; updated `Evergrande`, `XuJiayin`, `ChinaRealEstateDebtCycle`, `index`, and `overview`. No settled contradiction found; legal punishment, debt totals, owner counts, delivery progress, and possible side agreements remain source-scoped episode claims.
+
+## [2026-08-31] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
