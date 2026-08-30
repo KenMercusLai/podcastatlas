@@ -4,15 +4,15 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-08-31
-as_of_overview_commit: 5fa90547354c2135e550f7a4cb25e9c752a76a46
-input_digest: 82d45cd5405fc70e7aea6cb11ced45d06111ef6ca39b91ba7326c78ee3a2d310
+as_of_overview_commit: 43f900689adbad3361ccf60354ca64281d2186db
+input_digest: 33f7a59655211a47cde627e215b492725036cd6185f8a113202c1ccfef38802e
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-Hanji 736 now moves the Eastern Han historical branch back to 61-63 CE / Yongping 4-6, combining Liu Cang's royal-kin withdrawal, Zheng Zhong's pre-frontier client-network refusal, Khotan king Guangde's Shache conquest under Northern Xiongnu counterpressure, Dou-family forged-authority scandal, and Mingdi's anti-flattery omen handling. Hanji 737 now moves the Eastern Han historical branch back to 64-65 CE before Hanji 738: Yin Lihua posthumous-title ritual, Northern Xiongnu raids and trade, Zheng Zhong original kowtow refusal, Southern Xiongnu collusion risk and Duliaoying creation, Zong Jun local governance, Liu Ying tolerated Buddhist/Huang-Lao devotion, White Horse Temple transmission memory, and Mingdi eclipse self-criticism. Existing Hanji 738-741 claims remain the next sequence of return-mission debate, official evaluation, Liu Ying case escalation, Xiongnu resource pressure, and 73 CE campaign.
+Hanji 736 now moves the Eastern Han historical branch back to 61-63 CE / Yongping 4-6, combining Liu Cang's royal-kin withdrawal, Zheng Zhong's pre-frontier client-network refusal, Khotan king Guangde's Shache conquest under Northern Xiongnu counterpressure, Dou-family forged-authority scandal, and Mingdi's anti-flattery omen handling. Hanji 737 now moves the Eastern Han historical branch back to 64-65 CE before Hanji 738: Yin Lihua posthumous-title ritual, Northern Xiongnu raids and trade, Zheng Zhong original kowtow refusal, Southern Xiongnu collusion risk and Duliaoying creation, Zong Jun local governance, Liu Ying tolerated Buddhist/Huang-Lao devotion, White Horse Temple transmission memory, and Mingdi eclipse self-criticism. Existing Hanji 738-741 claims remain the next sequence of return-mission debate, official evaluation, Liu Ying case escalation, Xiongnu resource pressure, and 73 CE campaign. Hanji 733-3 sits outside the chronological Eastern Han sequence and adds a classical-text reception branch: HanyaoFu, attributed to Lyu Mengzheng, frames fate, timing, and reversal with cautious normalization rather than new dynastic event history.
 
 ## Cross-source Findings
 
@@ -1457,3 +1457,15 @@ The immediate Guandu setup now starts before Zhang Xiu's submission: [[zizhi-ton
 - The episode distinguishes Washington's public authority and strategic endurance from tactical brilliance; it says he lost more battles than he won.
 - The Valley Forge prayer tableau is treated as a later patriotic invention, while the camp's logistical, disease, training, and symbolic significance remains intact.
 - The Black-soldier and slavery evidence complicates revolutionary liberty but does not by itself settle Washington's full slavery record or postwar emancipation history.
+
+### Hanji 733 Hanyao Fu Fate Timing Text
+
+[[zizhi-tongjian-hanji-733-3-juju-jieshi-qiangu-mingyan-qijie-quan-ni-yiding-yao-du-lkck6rsfd-xtzwipdy-stdhwebey|Hanji 733-3]] adds a history-and-culture-adjacent classical-text branch: [[RuiqiJiangtouZizhiTongjian]] reads [[HanyaoFu]] as a fate and timing text attributed to [[LyuMengzheng]], using [[FateTimingExternalConditions]] to frame success and failure as mediated by external conditions while extending [[FortuneMisfortuneReversal]] beyond a single court-survival case.
+
+**Evidence:** [[zizhi-tongjian-hanji-733-3-juju-jieshi-qiangu-mingyan-qijie-quan-ni-yiding-yao-du-lkck6rsfd-xtzwipdy-stdhwebey]], [[RuiqiJiangtouZizhiTongjian]], [[HanyaoFu]], [[LyuMengzheng]], [[FateTimingExternalConditions]], [[FortuneMisfortuneReversal]]
+
+**Qualifications:**
+
+- This is not a chronological Eastern Han event; it is a podcast text-reading inside the Hanji series.
+- The transcript title, variant-title, and author-name forms are normalized cautiously and remain source-scoped.
+- The fate and timing claim is recorded as the source interpretation, not as independent metaphysical proof.

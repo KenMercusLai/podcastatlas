@@ -14063,6 +14063,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-31] ingest | 《资治通鉴·汉纪》733-3丨句句皆是千古名言！淇姐劝你一定要读！
+
+Ingested the 2026-06-25 芮淇讲透资治通鉴 episode reading 《寒窑赋》 as a compact fate, timing, life-course reversal, and self-possession text attributed to 吕蒙正. Created the source note plus `HanyaoFu`, `LyuMengzheng`, and `FateTimingExternalConditions`; migrated `FortuneMisfortuneReversal` to synthesis-v1 with the new source appended; updated `index`, `overview`, and downstream synthesis inputs. No settled contradiction found; the transcript forms 韩遥赋, 破遥赋, and 吕蒙政 are normalized cautiously while title history, attribution, and metaphysical claims remain source-scoped.
+
 ## [2026-08-31] ingest | 《资治通鉴·汉纪》734丨桓荣成大儒，因为明帝是个好捧哏？
 
 Ingested the 2026-06-25 芮淇讲透资治通鉴 episode backfilling Yongping 2 / 59 CE: Mingdi's public honoring of Huan Rong through Biyong elder-care ritual, Taichang teacher protocol, sickbed care, mourning, and burial honors, plus source-scoped notices on Zhongshan king Liu Yan, Xiao He/Huo Guang sacrifices, Dou Lin, Yin Feng and Princess Liyi, Five Suburban seasonal rites, and South Xiongnu succession. Created the source note plus `HuanRongEasternHan` and `ImperialTeacherHonorRitual`; updated `EmperorMingOfHan`, `index`, `overview`, and downstream synthesis inputs. No settled contradiction found; minor ritual offices, exact ceremony details, Zhongshan Liu Yan identity, and elite-household notices remain source-scoped.
@@ -14194,6 +14198,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-31] ingest | 《资治通鉴·汉纪》741丨为什么古代匈奴总要入侵中原？
 
 Ingested the 2026-06-26 芮淇讲透资治通鉴 episode on Xiongnu raids as steppe pastoral resource pressure, Emperor Ming's return to active Northern Xiongnu policy, Geng Bing's Western Regions strategy, the 73 CE four-route campaign, Dou Gu's Tianshan/Yiwu success, and Zhai Rong's failed route, punishment, deathbed instruction, and posthumous frontier reputation. Created the source note plus `ZhaiRongEasternHan` and `SteppePastoralResourcePressure`; updated `Xiongnu`, `NorthernXiongnuLateHan`, `EmperorMingOfHan`, `GengBingEasternHan`, `DouGuEasternHan`, `YiwuGarrisonLateHan`, `NomadicCavalryRaidingAsymmetry`, `index`, `overview`, and downstream synthesis inputs. No settled contradiction found; 耿炳 is normalized to 耿秉, while Qin Peng, Geng Zhong, Wu Tang, Lai Miao, Wen Mu, Left Worthy King Xin, force counts, route gates, and commandery-name details remain source-scoped.
+
+## [2026-08-31] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-31] lint | Wiki health check
 

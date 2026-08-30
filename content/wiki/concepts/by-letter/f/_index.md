@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 6093
+wiki_total_pages: 6094
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1061,6 +1061,9 @@ wiki_pages:
   - key: "FormerEnemyLoyaltyReframing"
     title: "旧敌忠义重释 / Former Enemy Loyalty Reframing"
     url: "/wiki/concepts/formerenemyloyaltyreframing/"
+  - key: "FateTimingExternalConditions"
+    title: "时运制约命运 / Fate Timing External Conditions"
+    url: "/wiki/concepts/fatetimingexternalconditions/"
   - key: "FolkloreAsSocialMemory"
     title: "民俗作为社会记忆 / Folklore As Social Memory"
     url: "/wiki/concepts/folkloreassocialmemory/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 8549
+wiki_total_pages: 8551
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -671,6 +671,9 @@ wiki_pages:
   - key: "HowToBeAnImperfectionist"
     title: "《如何成为不完美主义者》 / How to Be an Imperfectionist"
     url: "/wiki/entities/howtobeanimperfectionist/"
+  - key: "HanyaoFu"
+    title: "《寒窑赋》 / Hanyao Fu"
+    url: "/wiki/entities/hanyaofu/"
   - key: "HopeIsTheThingWithFeathersBook"
     title: "《希望是那长着羽毛的小东西》 / Hope Is the Thing with Feathers"
     url: "/wiki/entities/hopeisthethingwithfeathersbook/"

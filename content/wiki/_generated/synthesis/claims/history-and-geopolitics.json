@@ -3407,8 +3407,27 @@
         "ValleyForgeMythLogistics",
         "RevolutionaryMilitarySlaveryContradiction"
       ]
+    },
+    {
+      "global_candidate": false,
+      "id": "hanji-733-hanyao-fu-fate-timing-text",
+      "qualifications": [
+        "This is not a chronological Eastern Han event; it is a podcast text-reading inside the Hanji series.",
+        "The transcript title, variant-title, and author-name forms are normalized cautiously and remain source-scoped.",
+        "The fate and timing claim is recorded as the source interpretation, not as independent metaphysical proof."
+      ],
+      "statement": "[[zizhi-tongjian-hanji-733-3-juju-jieshi-qiangu-mingyan-qijie-quan-ni-yiding-yao-du-lkck6rsfd-xtzwipdy-stdhwebey|Hanji 733-3]] adds a history-and-culture-adjacent classical-text branch: [[RuiqiJiangtouZizhiTongjian]] reads [[HanyaoFu]] as a fate and timing text attributed to [[LyuMengzheng]], using [[FateTimingExternalConditions]] to frame success and failure as mediated by external conditions while extending [[FortuneMisfortuneReversal]] beyond a single court-survival case.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-733-3-juju-jieshi-qiangu-mingyan-qijie-quan-ni-yiding-yao-du-lkck6rsfd-xtzwipdy-stdhwebey",
+        "RuiqiJiangtouZizhiTongjian",
+        "HanyaoFu",
+        "LyuMengzheng",
+        "FateTimingExternalConditions",
+        "FortuneMisfortuneReversal"
+      ]
     }
   ],
-  "summary": "Hanji 736 now moves the Eastern Han historical branch back to 61-63 CE / Yongping 4-6, combining Liu Cang's royal-kin withdrawal, Zheng Zhong's pre-frontier client-network refusal, Khotan king Guangde's Shache conquest under Northern Xiongnu counterpressure, Dou-family forged-authority scandal, and Mingdi's anti-flattery omen handling. Hanji 737 now moves the Eastern Han historical branch back to 64-65 CE before Hanji 738: Yin Lihua posthumous-title ritual, Northern Xiongnu raids and trade, Zheng Zhong original kowtow refusal, Southern Xiongnu collusion risk and Duliaoying creation, Zong Jun local governance, Liu Ying tolerated Buddhist/Huang-Lao devotion, White Horse Temple transmission memory, and Mingdi eclipse self-criticism. Existing Hanji 738-741 claims remain the next sequence of return-mission debate, official evaluation, Liu Ying case escalation, Xiongnu resource pressure, and 73 CE campaign.",
+  "summary": "Hanji 736 now moves the Eastern Han historical branch back to 61-63 CE / Yongping 4-6, combining Liu Cang's royal-kin withdrawal, Zheng Zhong's pre-frontier client-network refusal, Khotan king Guangde's Shache conquest under Northern Xiongnu counterpressure, Dou-family forged-authority scandal, and Mingdi's anti-flattery omen handling. Hanji 737 now moves the Eastern Han historical branch back to 64-65 CE before Hanji 738: Yin Lihua posthumous-title ritual, Northern Xiongnu raids and trade, Zheng Zhong original kowtow refusal, Southern Xiongnu collusion risk and Duliaoying creation, Zong Jun local governance, Liu Ying tolerated Buddhist/Huang-Lao devotion, White Horse Temple transmission memory, and Mingdi eclipse self-criticism. Existing Hanji 738-741 claims remain the next sequence of return-mission debate, official evaluation, Liu Ying case escalation, Xiongnu resource pressure, and 73 CE campaign. Hanji 733-3 sits outside the chronological Eastern Han sequence and adds a classical-text reception branch: HanyaoFu, attributed to Lyu Mengzheng, frames fate, timing, and reversal with cautious normalization rather than new dynastic event history.",
   "topic_id": "history-and-geopolitics"
 }

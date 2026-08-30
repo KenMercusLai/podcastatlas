@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "014f4592e0aed54117e20c9725eb4fd6136cc5dfb66a786b35b13035e868ab46",
       "95f9ae3aed5123bf49c59a2515065ceaafb0b3eea65c7aa8e9afdfcc2056ba57",
       "2bf659c39682f4c176550216929e8417c558421e22fb2fa621f5b6890e7c9c3b",
       "8be53566663fad3f26d174e4a6007a033013b7878700639aad6d620a0d2d52c6",
@@ -436,11 +437,31 @@
       "2231d7cf4c1cf8ae29ee2ec0737334356ddcd78d5df4e6b306dab83b98b3febe",
       "258d3cecfd602d249de03f40e3adf3020a02e0483ced5147541e8a3c20c1b13b"
     ],
-    "paragraph_count": 434
+    "paragraph_count": 435
   },
-  "overview_commit": "78923fa90b122fb1701ab5a903e886f3735117e7",
-  "overview_digest": "1c4bba21436fcd7938a4d0e1e12b86cfe500d91a76d769c975e699bbb5de673c",
+  "overview_commit": "43f900689adbad3361ccf60354ca64281d2186db",
+  "overview_digest": "e4b2fc6b954b2c91244d22858ffab503b25d9fd50d29a6da8fb8207b9fd23aae",
   "paragraphs": [
+    {
+      "id": "014f4592e0aed54117e20c9725eb4fd6136cc5dfb66a786b35b13035e868ab46",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-733-3-juju-jieshi-qiangu-mingyan-qijie-quan-ni-yiding-yao-du-lkck6rsfd-xtzwipdy-stdhwebey|《资治通鉴·汉纪》733-3丨句句皆是千古名言！淇姐劝你一定要读！]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode that steps out of the immediate Eastern Han sequence to read [[HanyaoFu|《寒窑赋》]] as a fate, timing, and self-possession text. It adds [[HanyaoFu|《寒窑赋》]], [[LyuMengzheng|吕蒙正]], and [[FateTimingExternalConditions|时运制约命运]], while extending [[FortuneMisfortuneReversal|塞翁失马式福祸反转]]. Its core synthesis is that the source treats success and failure as mediated by timing and external conditions: talent, virtue, ambition, and labor do not automatically produce outcomes, so adversity calls for preserved dignity and prosperity calls for humility and restraint. No settled contradiction is recorded; the transcript's 韩遥赋/破遥赋 and 吕蒙政 forms are normalized cautiously to 寒窑赋/破窑赋 and 吕蒙正, while the attribution and metaphysical claims remain source-scoped.",
+      "topic_scores": {
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "FateTimingExternalConditions",
+        "FortuneMisfortuneReversal",
+        "HanyaoFu",
+        "LyuMengzheng",
+        "RuiqiJiangtouZizhiTongjian",
+        "zizhi-tongjian-hanji-733-3-juju-jieshi-qiangu-mingyan-qijie-quan-ni-yiding-yao-du-lkck6rsfd-xtzwipdy-stdhwebey"
+      ]
+    },
     {
       "id": "95f9ae3aed5123bf49c59a2515065ceaafb0b3eea65c7aa8e9afdfcc2056ba57",
       "primary_topic": "governance-and-institutions",

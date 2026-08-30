@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》733-3丨句句皆是千古名言！淇姐劝你一定要读！](sources/zizhi-tongjian-hanji-733-3-juju-jieshi-qiangu-mingyan-qijie-quan-ni-yiding-yao-du-lkck6rsfd-xtzwipdy-stdhwebey.md) — 芮淇讲透资治通鉴 episode reading 《寒窑赋》 as a fate, timing, life-course reversal, and self-possession text attributed to 吕蒙正.
 - [EP 43: The Outsider's Advantage: How Diverse Perspectives Unlock Enterprise AI Success](sources/ep-43-the-outsiders-advantage-how-diverse-perspectives-unlock-enterprise-ai-success.md) — Data Science With Sam episode with Sumayya Shravani on institutional trust, outsider diagnostic skill, cognitive diversity, and behavior-based enterprise AI adoption signals.
 - [《资治通鉴·汉纪》734丨桓荣成大儒，因为明帝是个好捧哏？](sources/zizhi-tongjian-hanji-734-huanrong-cheng-daru-yinwei-mingdi-shige-hao-penggen-lhwbxrqocf102or9k0nb6z93gzx9.md) — 芮淇讲透资治通鉴 episode on Mingdi's public honoring of Huan Rong through Biyong and Taichang teacher protocol, elder-care ritual, sickbed and funeral honors, royal-kin favor, Dou/Yin elite discipline, and Five Suburban seasonal rites.
 - [《资治通鉴·汉纪》735丨13岁入宫终生未育，她的贤明真罕见！](sources/zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq.md) — 芮淇讲透资治通鉴 episode on Mingde Empress Ma's palace entry, adoption of Liu Da, empress selection, Zhongli Yi's North Palace remonstrance, Mingdi's harshness and omen self-warning, Liu Ping and Guo He as local-governance exemplars, and the Shache-Khotan prelude.
@@ -1783,6 +1784,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《寒窑赋》 / Hanyao Fu](entities/HanyaoFu.md) — Attributed admonitory text used by Hanji 733-3 to frame fate, timing, reversals of fortune, and conduct in poverty or success.
+- [吕蒙正 / Lyu Mengzheng](entities/LyuMengzheng.md) — Northern Song figure to whom Hanji 733-3 attributes 《寒窑赋》, kept source-scoped with name and authorship caution.
 - [Sumayya Shravani](entities/SumayyaShravani.md) — Data Science With Sam guest connecting enterprise AI adoption to institutional trust, outsider experience, cognitive diversity, and behavior-based measurement.
 - [Data Ready](entities/DataReady.md) — Source-scoped four-agent AI readiness system built by Sumayya Shravani to audit semantic layers, documentation, model quality, and governance posture.
 - [University of Colorado Denver](entities/UniversityOfColoradoDenver.md) — Source-scoped institutional setting for Sumayya Shravani's data infrastructure and analytics environment work.
@@ -10336,6 +10339,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [时运制约命运 / Fate Timing External Conditions](concepts/FateTimingExternalConditions.md) — Source-scoped frame where timing and external conditions mediate ability, virtue, ambition, and visible outcomes.
 - [Institutional Trust in AI Adoption](concepts/InstitutionalTrustAIAdoption.md) — Enterprise AI adoption condition where users trust the organization enough to change daily work around a tool.
 - [Outsider Experience as Diagnostic Skill](concepts/OutsiderExperienceDiagnosticSkill.md) — Adoption-design concept that people who learned systems from the outside can notice hidden rules, power structures, and workflow barriers insiders miss.
 - [Cognitive Diversity in AI Adoption](concepts/CognitiveDiversityAIAdoption.md) — Practice of including varied problem frames before AI rollout metrics and definitions of success harden.
@@ -11220,7 +11224,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Heart-Field Ethics / 心田处世伦理](concepts/HeartFieldEthics.md) — Hanji 161 part 4 relationship frame where timely help, crisis support, accumulated good conduct, and cultivated heart-field shape fortune and human relations.
 - [求财先明道 / Wealth Through Dao Frame](concepts/WealthThroughDaoFrame.md) — Hanji 920 wealth ethic that treats money as the visible result of grasping rules, trends, value, human feeling, and moral limits.
 - [Cognition As Fortune Root / 认知通达决定福禄](concepts/CognitionAsFortuneRoot.md) — Claim that clear cognition and changed worldview shape fortune, now extended by Hanji 920's narrower wealth-through-Dao formulation.
-- [Fortune-Misfortune Reversal / 塞翁失马式福祸反转](concepts/FortuneMisfortuneReversal.md) — Hanji 913 frame where an apparent loss can remove a person from a worse danger without making suffering intrinsically good.
+- [Fortune-Misfortune Reversal / 塞翁失马式福祸反转](concepts/FortuneMisfortuneReversal.md) — Frame where apparent loss can reduce danger or become part of a broader timing-driven reversal without making suffering intrinsically good.
 - [Fate Change Through Virtue Practice / 积善修心式改命](concepts/FateChangeThroughVirtuePractice.md) — Hanji 161 part 4 frame where inherited命数 can be altered through intention,修心,发愿, accumulated good deeds, and embodied practice.
 - [High-Dimensional Consciousness Entanglement / 高维意识纠缠](concepts/HighDimensionalConsciousnessEntanglement.md) — Hanji 161 part 3 synthesis where Daoist/Buddhist transcendence, parallel worlds, all-things-have-spirit, and Tesla-style frequency language become the source's strongest quantum-consciousness claim.
 - [Buddhist Consciousness Projection Frame / 佛教心识投射框架](concepts/BuddhistConsciousnessProjectionFrame.md) — Hanji 161 part 3 frame using 《金刚经》, 心, 识, 相, 空, and practice levels to explain appearance as consciousness-shaped rather than final reality.
