@@ -12,16 +12,19 @@ sources:
   - zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae
   - zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf
   - zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q
+  - zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i
 last_updated: 2026-08-30
 ---
 
 ## Overview
 
-汉和帝 / Emperor He of Han now appears as an active late-reign ruler whose current profile begins with hidden birth-mother revelation, posthumous redress, and restraint toward [[EmpressDowagerDouHeLateHan|Dou Taihou]], then continues through [[GanYingEasternHan|Gan Ying]]'s far-western report, moral-exception succession rulings, court classics debate, [[MiTangQiangLeader|Mi Tang]] and [[ShaodangQiang|Shaodang Qiang]] crisis, West Sea frontier restoration, [[BanChaoEasternHan|Ban Chao]]'s recall, Taixue ritual, Empress Yin's wugu-linked deposition, Deng Sui's appointment, female court education, court-backed reform and tribute restraint, frontier notices, and the infant succession field after his death.
+汉和帝 / Emperor He of Han now appears as an active late-reign ruler whose current profile begins with 94-96 CE court and frontier management: [[BanChaoEasternHan|Ban Chao]]'s Yanqi campaign, [[SouthernXiongnu|Southern Xiongnu]] rebellion, [[ChenChongLateHan|Chen Chong]]'s judicial appointment, [[HuangXiangLateHan|Huang Xiang]]'s Shangshu-retention case, and the appointment of [[EmpressYinHeLateHan|Empress Yin]]. It then continues through hidden birth-mother revelation, posthumous redress, restraint toward [[EmpressDowagerDouHeLateHan|Dou Taihou]], [[GanYingEasternHan|Gan Ying]]'s far-western report, moral-exception succession rulings, court classics debate, [[MiTangQiangLeader|Mi Tang]] and [[ShaodangQiang|Shaodang Qiang]] crisis, West Sea frontier restoration, Ban Chao's recall, Taixue ritual, Empress Yin's wugu-linked deposition, Deng Sui's appointment, female court education, court-backed reform and tribute restraint, frontier notices, and the infant succession field after his death.
 
 ## Current Profile
 
-Hanji 770 supplies the earliest current late-reign layer. After [[EmpressDowagerDouHeLateHan|Dou Taihou]] dies in 97 CE, Liang relatives reveal that [[LiangGuirenHeLateHan|Liang Guiren]] was Emperor He's birth mother and had died under Dou's pressure. [[ZhangPuEasternHan|Zhang Pu]] reports the matter and advises recognition; Emperor He posthumously honors Liang Guiren, recalls and rewards Liang relatives, and also grants [[LiuQingQingheKing|Qinghe King Liu Qing]]'s request for seasonal sacrifices to [[SongGuirenZhangHeLateHan|Song Guiren]]. Yet he rejects officials' proposal to remove Dou Taihou's title or deny her burial with [[EmperorZhangOfHan|Emperor Zhang]], making the source's core pattern [[StraightRedressWithoutRevenge|straight redress without revenge]]. The same episode records an earlier Mi Tang attack on Longxi and a costly Han pursuit victory that does not capture him.
+Hanji 769 now supplies the earliest current late-reign layer. In 94-96 CE, Emperor He's court oversees Ban Chao's forceful conquest of [[YanqiKingdomLateHan|Yanqi]], sends [[DengHongHeEraLateHan|Deng Hong]] and allied frontier forces against the Southern Xiongnu Fenghou rebellion, appoints Chen Chong as tingwei, and keeps Huang Xiang as shangshu ling after Huang refuses an outwardly higher [[DongCommandery|Dong Commandery]] appointment. The same source records the An Guo false-report case, in which Zhu Hui and Du Chong are later executed after distorting the court's information, plus disaster, royal-house, harem, and frontier notices including Yin Shi's appointment as empress.
+
+Hanji 770 supplies the next current late-reign layer. After [[EmpressDowagerDouHeLateHan|Dou Taihou]] dies in 97 CE, Liang relatives reveal that [[LiangGuirenHeLateHan|Liang Guiren]] was Emperor He's birth mother and had died under Dou's pressure. [[ZhangPuEasternHan|Zhang Pu]] reports the matter and advises recognition; Emperor He posthumously honors Liang Guiren, recalls and rewards Liang relatives, and also grants [[LiuQingQingheKing|Qinghe King Liu Qing]]'s request for seasonal sacrifices to [[SongGuirenZhangHeLateHan|Song Guiren]]. Yet he rejects officials' proposal to remove Dou Taihou's title or deny her burial with [[EmperorZhangOfHan|Emperor Zhang]], making the source's core pattern [[StraightRedressWithoutRevenge|straight redress without revenge]]. The same episode records an earlier Mi Tang attack on Longxi and a costly Han pursuit victory that does not capture him.
 
 Hanji 771 then supplies the far-western report and 98 CE court layer. During Ban Chao's Western Regions command, [[GanYingEasternHan|Gan Ying]] is sent toward [[DaQin|Da Qin]] / the [[RomanEmpire|Roman Empire]] and [[TiaozhiKingdom|Tiaozhi]], reaches [[ParthianEmpire|Parthia]]'s western boundary, turns back after the sea route is described as dangerous, and reports what he learned to Emperor He. The same source records a Luoyang flood, Han Leng's death and Chao Kan's appointment as sikong, Liu Shang and Zhao Shi being removed rather than executed after a military-fear accusation, and [[MiTangQiangLeader|Mi Tang]]'s surrender and tribute prelude.
 
@@ -41,16 +44,21 @@ Hanji 777 records Emperor He's death in Zhangde qian dian and then looks backwar
 
 ## Key Characteristics
 
-- Eastern Han ruler whose current evidence spans birth-mother redress, Gan Ying's far-western report, succession exception, classics adjudication, West Sea restoration, frontier recall, harem succession, female court education, technology patronage, education reform, court ritual and travel, tribute restraint, diplomacy, and frontier response.
+- Eastern Han ruler whose current evidence spans Yanqi and Southern Xiongnu frontier handling, judicial appointment, Shangshu office retention, birth-mother redress, Gan Ying's far-western report, succession exception, classics adjudication, West Sea restoration, frontier recall, harem succession, female court education, technology patronage, education reform, court ritual and travel, tribute restraint, diplomacy, and frontier response.
 - Ruler who answers the Liang and Song maternal grievances through title, burial, kin settlement, and sacrifice while refusing to erase Dou Taihou's adoptive-mother status.
+- Ruler whose 94-96 CE court treats truthful reporting and central office access as politically consequential, visible in the An Guo case and Huang Xiang's Shangshu retention.
 - Ruler who can convert moral reputation into a bounded legal exception while preserving the exception as court-authorized.
 - Ruler who accepts a resource-centered Qiang policy after Mi Tang's military pressure and failed submission expose the limits of one-off pursuit or surrender management.
-- Ruler who accepts useful petitions and remonstrance in the current sources, especially over Liang Guiren's status, Ban Chao's recall, the southern tour, and lethal fresh-fruit tribute.
-- Court validator of Cai Lun's paper-making improvement and Xu Fang's Taixue examination reform.
+- Ruler who accepts useful petitions, remonstrance, and reform proposals in the current sources, including Liang Guiren's status, Ban Chao's recall, the southern tour, lethal fresh-fruit tribute, Cai Lun's paper, and Xu Fang's Taixue examination reform.
 - Ruler whose harem and succession decisions shape Deng Sui's later regency, first through Empress Yin's deposition and later through an opaque infant succession field.
 
 ## Evidence
 
+- Early frontier and office layer: [[zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i|Hanji 769]] records Ban Chao's Yanqi campaign, Southern Xiongnu rebellion response, Chen Chong's appointment, Huang Xiang's Shangshu retention, and Yin Shi's appointment as empress.
+- Yanqi and Western Regions control: [[zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i|Hanji 769]] says Ban Chao kills Yanqi king Guang, installs Yuanmeng, and produces broad hostage submission from Western Regions states.
+- Southern Xiongnu campaign and accountability: [[zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i|Hanji 769]] says Emperor He sends Deng Hong against the Fenghou rebellion and Deng Hong is later executed for delay and lost opportunity.
+- Judicial and Shangshu appointments: [[zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i|Hanji 769]] says Chen Chong's tingwei appointment softens harsh legal practice and Huang Xiang remains shangshu ling after declining Dong Commandery.
+- Reporting-integrity boundary: [[zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i|Hanji 769]] says Zhu Hui and Du Chong are executed after An Guo's blocked complaint and countercharge are exposed.
 - Birth-mother truth and redress: [[zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q|Hanji 770]] says Emperor He learns after Dou Taihou's death that Liang Guiren was his birth mother, accepts Zhang Pu's recognition advice, and posthumously honors Liang.
 - Adoptive-mother restraint: [[zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q|Hanji 770]] says Emperor He refuses to remove Dou Taihou's title or deny burial with Emperor Zhang because he had served her as mother for ten years.
 - Parallel Song Guiren repair: [[zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q|Hanji 770]] says Emperor He grants Qinghe King Liu Qing's request for seasonal sacrifices to Song Guiren.
@@ -74,19 +82,28 @@ Hanji 777 records Emperor He's death in Zhangde qian dian and then looks backwar
 
 ## Qualifications
 
-This page remains source-bounded and is still not a full reign biography. Hanji 770 supplies the 96-97 CE birth-mother redress, Dou Taihou restraint, Liu Qing/Song Guiren ritual repair, and early Mi Tang campaign layer; Hanji 771 backfills a 98 CE layer of far-western reporting, disaster and office notices, military accountability, and Mi Tang's surrender prelude; Hanji 772 supplies title refusal, court debate, Shaodang Qiang collapse, and frontier recommendation; Hanji 773 supplies the 102 CE West Sea, Taixue, Wushan Man, and Empress Yin deposition layer; Hanji 774 supplies the Ban Chao recall and Western Regions handoff prelude; Hanji 775 supplies harem succession and female court education; Hanji 776 supplies selected 102-105 CE court and frontier notices; and Hanji 777 supplies the death-and-succession bridge. These details are not enough by themselves to reconstruct Emperor He's entire court.
+This page remains source-bounded and is still not a full reign biography. Hanji 769 supplies the 94-96 CE Yanqi, Southern Xiongnu, judicial appointment, Shangshu-retention, false-report, disaster, harem, and royal-house notice layer; Hanji 770 supplies the 96-97 CE birth-mother redress, Dou Taihou restraint, Liu Qing/Song Guiren ritual repair, and early Mi Tang campaign layer; Hanji 771 backfills a 98 CE layer of far-western reporting, disaster and office notices, military accountability, and Mi Tang's surrender prelude; Hanji 772 supplies title refusal, court debate, Shaodang Qiang collapse, and frontier recommendation; Hanji 773 supplies the 102 CE West Sea, Taixue, Wushan Man, and Empress Yin deposition layer; Hanji 774 supplies the Ban Chao recall and Western Regions handoff prelude; Hanji 775 supplies harem succession and female court education; Hanji 776 supplies selected 102-105 CE court and frontier notices; and Hanji 777 supplies the death-and-succession bridge. These details are not enough by themselves to reconstruct Emperor He's entire court. The Deng Hong in Hanji 769 remains disambiguated from the later [[DengHongLateHan]] route.
 
 ## What Changed
 
-- Added Hanji 770 as the earliest current layer: Liang Guiren birth-mother revelation, Dou Taihou posthumous restraint, Liu Qing's Song Guiren request, and an earlier Mi Tang campaign.
-- Reframed Emperor He's responsiveness as spanning maternal redress, distant knowledge gathering, frontier resource integration and personnel, court reform, travel, and tribute restraint.
-- Kept Hanji 771 as the far-western report and Mi Tang surrender sequel after the 97 CE redress and campaign layer.
-- Preserved Hanji 772-777 as the title-refusal, West Sea, Ban Chao recall, harem, reform, death, and succession evidence set.
+- Added Hanji 769 as the earliest current layer: Yanqi conquest, Southern Xiongnu rebellion, Chen Chong's tingwei appointment, Huang Xiang's Shangshu retention, and An Guo false-report accountability.
+- Reframed Emperor He's responsiveness as spanning frontier command, information integrity, central office value, maternal redress, distant knowledge gathering, resource policy, court reform, travel, and tribute restraint.
+- Shifted Hanji 770 from earliest layer to the next late-reign layer after the 94-96 CE backfill.
+- Preserved Hanji 771-777 as the far-western report, title-refusal, West Sea, Ban Chao recall, harem, reform, death, and succession evidence set.
 
 ## Relationships
 
 - [[GanYingEasternHan|甘英]] - envoy whose Da Qin route report reaches Emperor He.
-- [[LiangGuirenHeLateHan|梁贵人]] - hidden birth mother whose posthumous recognition begins the current Emperor He profile.
+- [[BanChaoEasternHan|班超]] - Western Regions commander whose Yanqi campaign and later recall both occur inside Emperor He's current profile.
+- [[YanqiKingdomLateHan|焉耆国]] - Western Regions polity conquered during the 94 CE layer.
+- [[SouthernXiongnu|南匈奴]] - frontier polity whose rebellion, campaign, and An Guo false-report crisis are handled under Emperor He.
+- [[DengHongHeEraLateHan|邓鸿]] - commander sent against the Fenghou rebellion and later executed.
+- [[ChenChongLateHan|陈宠]] - tingwei appointment through which Emperor He's court softens legal temperament in Hanji 769.
+- [[HuangXiangLateHan|黄香]] - shangshu ling retained and elevated after refusing the Dong Commandery transfer.
+- [[ShangshuTaiImperialAccess|尚书台近侍权力]] - office-access mechanism visible in Huang Xiang's retention.
+- [[PowerCenterProximityAdvantage|权力中心接近优势]] - career and institutional pattern created from the Huang Xiang case.
+- [[UnauthorizedFrontierCommandIntervention|边疆将领擅断干预]] - boundary concept extended by Zhu Hui and Du Chong's false-report handling of An Guo.
+- [[LiangGuirenHeLateHan|梁贵人]] - hidden birth mother whose posthumous recognition defines the Hanji 770 redress layer.
 - [[EmpressDowagerDouHeLateHan|窦太后]] - adoptive mother whose title and burial Emperor He preserves after learning the Liang grievance.
 - [[ZhangPuEasternHan|张酺]] - taiwei who reports the Liang petition and advises maternal recognition.
 - [[LiuQingQingheKing|清河王刘庆]] - imperial kinsman whose Song Guiren sacrifice request Emperor He grants.

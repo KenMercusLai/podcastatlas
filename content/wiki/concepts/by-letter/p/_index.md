@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5989
+wiki_total_pages: 5990
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1601,6 +1601,9 @@ wiki_pages:
   - key: "PressureReleaseInfightingStrategy"
     title: "撤压诱发内斗 / Pressure-Release Infighting Strategy"
     url: "/wiki/concepts/pressurereleaseinfightingstrategy/"
+  - key: "PowerCenterProximityAdvantage"
+    title: "权力中心接近优势 / Power Center Proximity Advantage"
+    url: "/wiki/concepts/powercenterproximityadvantage/"
   - key: "PeiCountyUprisingMobilization"
     title: "沛县起义动员 / Pei County Uprising Mobilization"
     url: "/wiki/concepts/peicountyuprisingmobilization/"

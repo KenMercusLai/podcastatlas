@@ -13594,6 +13594,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-30] ingest | 《资治通鉴·汉纪》769丨公务员该怎么考？古人告诉你
+
+Ingested the 2026-07-02 芮淇讲透资治通鉴 episode on 94-96 CE Emperor He, Ban Chao's Yanqi campaign, Southern Xiongnu rebellion and An Guo false-report crisis, Chen Chong's tingwei appointment, Huang Xiang's refusal of the Dong Commandery transfer, and the broader claim that proximity to court information and decision makers can outweigh nominal office rank. Created the source note plus `HuangXiangLateHan`, `ChenChongLateHan`, `DengHongHeEraLateHan`, and `PowerCenterProximityAdvantage`; updated `EmperorHeOfHan`, `BanChaoEasternHan`, `YanqiKingdomLateHan`, `SouthernXiongnu`, `ShangshuTaiImperialAccess`, `UnauthorizedFrontierCommandIntervention`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; the He-era Deng Hong commander is kept distinct from the existing `DengHongLateHan` page, and minor frontier actors, royal-house notices, exact casualty figures, and modern analogy details remain source-scoped.
+
 ## [2026-08-30] ingest | 《资治通鉴·汉纪》770丨沉默的真相：皇帝的生母竟是她
 
 Ingested the 2026-07-02 芮淇讲透资治通鉴 episode on Emperor He learning that Liang Guiren was his hidden birth mother after Dou Taihou's death, Zhang Pu's advice to restore Liang's title and maternal kin, Emperor He's refusal to strip Dou Taihou's title or burial pairing with Emperor Zhang, Qinghe King Liu Qing's request for Song Guiren sacrifices, Mi Tang's Longxi attack, and the outer-relative recurrence warning around the Liang family. Created the source note plus `LiangGuirenHeLateHan`, `EmpressDowagerDouHeLateHan`, `ZhangPuEasternHan`, `LiuQingQingheKing`, `SongGuirenZhangHeLateHan`, `EmperorZhangOfHan`, `StraightRedressWithoutRevenge`, `ImperialBirthMotherRecognition`, and `OuterRelativeRecurrence`; updated `EmperorHeOfHan`, `MiTangQiangLeader`, `ShaodangQiang`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; 清河王刘庆 is disambiguated from modern `LiuQing`, 窦太后 is kept separate from `EmpressDowagerDouMiao`, and minor frontier officials, Liang/Song relatives, disaster notices, and the Guangwu/Li Taihou precedent remain source-scoped.
@@ -13837,6 +13841,10 @@ Ran health, identity validation, and lint. Health scanned 16,100 wiki pages with
 ## [2026-08-30] ingest | 《资治通鉴·汉纪》772丨他为何宁愿成为逃犯，也不愿继承家业？
 
 Ingested the 2026-07-03 芮淇讲透资治通鉴 episode on Liu Kai's title refusal and flight, Jia Kui's ritual-yielding defense, Emperor He's exceptional succession ruling, Mi Tang's failed surrender and Shaodang Qiang rebellion/collapse, Emperor He's court classics debate, frontier xiaolian quota adjustment, Xianbei/Wushan Man notices, and Cao Feng's Qinghai/Huangshui tuntian proposal. Created the source note plus `LiuXianEasternHan`, `JiaKuiEasternHan`, `LuPiEasternHan`, `MiTangQiangLeader`, and `RitualRenunciationPoliticalCapital`; updated `LiuKaiEasternHan`, `EmperorHeOfHan`, `ShaodangQiang`, `CaoFengLateHan`, `FrontierResourceIntegration`, `TruthSeekingDebateNorm`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; 刘凯/刘县/贾奎 are normalized to 刘恺/刘宪/贾逵, the "曹丕" line is treated as 鲁丕 rather than Cao Pi, and minor frontier officers, disaster notices, and recommendation cadence details remain source-scoped.
+
+## [2026-08-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-30] lint | Wiki health check
 

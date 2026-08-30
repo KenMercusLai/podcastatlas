@@ -2,6 +2,30 @@
   "claims": [
     {
       "global_candidate": false,
+      "id": "late-han-94-96-he-yanqi-xiongnu-and-court-layer",
+      "qualifications": [
+        "This claim is source-scoped to Hanji 769 and backfills 94-96 CE before Hanji 770 rather than replacing later Western Regions, Southern Xiongnu, Deng-regency, or Emperor He claims.",
+        "Yanqi royal names, Southern Xiongnu claimant names, casualty figures, and several royal-house and disaster notices remain source-scoped unless later notes make them durable pages.",
+        "The source presents Ban Chao's Yanqi campaign as effective but harsh; the current synthesis should not flatten Ban Chao into either purely coercive or purely light-touch frontier governance."
+      ],
+      "statement": "[[zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i|Hanji 769]] pushes the late-Han historical branch back to the 94-96 CE [[EmperorHeOfHan]] layer before [[zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q|Hanji 770]]: [[BanChaoEasternHan]] conquers [[YanqiKingdomLateHan]], kills its king, installs a pro-Han replacement, and produces broad Western Regions hostage submission; [[SouthernXiongnu]] politics then move through Shizi's troubled succession, Fenghou's rebel chanyu claim, [[DengHongHeEraLateHan]]'s punitive expedition, and An Guo's false-report death branch. The episode also adds [[ChenChongLateHan]] and [[HuangXiangLateHan]] to Emperor He's court chronology, making 94-96 a combined frontier, office, judicial, disaster, and royal-house prelude to Hanji 770's birth-mother redress.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i",
+        "zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q",
+        "EmperorHeOfHan",
+        "BanChaoEasternHan",
+        "YanqiKingdomLateHan",
+        "SouthernXiongnu",
+        "DengHongHeEraLateHan",
+        "ChenChongLateHan",
+        "HuangXiangLateHan",
+        "ShangshuTaiImperialAccess",
+        "UnauthorizedFrontierCommandIntervention"
+      ]
+    },
+    {
+      "global_candidate": false,
       "id": "late-han-96-97-he-birth-mother-redress-and-outer-relative-risk",
       "qualifications": [
         "This claim is source-scoped to Hanji 770 and backfills the 96-97 CE layer before Hanji 771 rather than replacing later Emperor He, Gan Ying, or Qiang-frontier claims.",

@@ -4,8 +4,8 @@ generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
 last_updated: 2026-08-30
-as_of_overview_commit: 7306d224256304566fe8f82575a3ae2e76541b83
-input_digest: bc1edb350e22c8fcba31b6c8add1375d0094b258b515e8f9f87cc1e208a45909
+as_of_overview_commit: e60dfa42197ca5f1781d9575772037f2f510f680
+input_digest: 2f8db5edf9e9618358f7db16563a580d7cce50aa4c947a43cbae90cdbb8a4841
 ---
 
 # Work, Education, and Society
@@ -15,6 +15,18 @@ input_digest: bc1edb350e22c8fcba31b6c8add1375d0094b258b515e8f9f87cc1e208a45909
 Hanji 775 adds a source-scoped education and family-boundary case: Deng Sui turns childhood study, disciplined court behavior, refusal of natal-family palace advantage, and North Palace women-centered learning into social capacity before formal regency. Hanji 785 adds a source-scoped work-and-society bridge: Deng-family mourning withdrawal shows how kinship duty, public reputation, and retained access can turn office exit into status management rather than simple retirement. Hanji 787 adds a source-scoped family-mobility and selection-channel case: Yan Chang's preparation of Yan Ji for palace entry shows private household investment trying to pass through gendered court selection, imperial favor, and regency approval before becoming public status. Hanji 792 adds a source-scoped family and career risk lesson: concentrating every path in one power channel can increase exposure, while separation may look punitive before later conditions make it protective. The Guangzhou Academy of Fine Arts fieldwork episode adds that undergraduate learning can become formative when students observe, interview, and build experience before polished expression, while still facing grades, specialization, technique, employment pressure, and uncertain long-term outcomes. The Jefferson-Hemings material adds a secondary society case: family, labor, and relationship claims need explicit attention to legal power and coercive status. Hanji access, office-boundary, succession, and reputation cases show that education, merit, dignity, and correct claims need usable channels, public witnesses, role boundaries, and hierarchy-aware handling before they become institutional action. VOL.211 and the OCD episode add source-scoped public-health education cases: mechanism and assessment language can orient action, but training, emergency response, exposure practice, and treatment planning stay clinically bounded. Work, education, and society sources converge on a practical pattern: durable capability comes from bounded institutions, active learning, realistic workplace judgment, human feedback loops, social trust, pacing, and environments that let people act under real constraints. Hanji 1056 adds a source-scoped role-and-channel case: Yuan-family succession ambiguity lets advisers convert self-protection into claimant installation, while Jia Kui and Fu Gan show that local trust and legitimacy framing can still redirect action under military pressure. Hanji 1058 adds a historical work-and-society analogy: new authority needs trusted adviser channels and boundaries around status offers, while ignored corrective counsel in Yuan Tan's camp shows how feedback can fail under succession grievance. Hanji 1059 adds a secondary organizational analogy: mediation language, outside-aid requests, and adviser sequencing matter because Liu Biao, Xin Pi, and Xun You are managing coalition timing rather than simply stating moral preferences. Hanji 1060 adds a narrow organizational-channel continuation: Xin Pi uses Guo Jia access to move Cao Cao from passive waiting to a timed intervention choice, but the claim remains secondary to late-Han strategy.
 
 ## Cross-source Findings
+
+### Historical Office Value Depends On Power Center Proximity
+
+[[zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i|Hanji 769]] adds a historical work-and-career analogy through [[HuangXiangLateHan]] and [[PowerCenterProximityAdvantage]]: a role's value can come from proximity to decision makers, information, documents, and promotion visibility rather than rank alone. [[ShangshuTaiImperialAccess]] qualifies the case because Huang Xiang's retained shangshu ling post works where the office connects to central authority and source-grounded information flow.
+
+**Evidence:** [[zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i]], [[HuangXiangLateHan]], [[PowerCenterProximityAdvantage]], [[ShangshuTaiImperialAccess]], [[EmperorHeOfHan]]
+
+**Qualifications:**
+
+- This is a historical work-and-society analogy from Hanji 769, not modern career advice or a universal organization rule.
+- The source explicitly says local taishou authority is large, so the claim is about comparative role value under central-advancement conditions rather than a blanket preference for headquarters roles.
+- Huang Xiang's stated self-fit explanation and the host's rational-positioning interpretation should remain distinguishable.
 
 ### Palace Selection Turns Family Preparation Into Status Mobility
 

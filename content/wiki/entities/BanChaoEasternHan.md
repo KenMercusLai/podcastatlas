@@ -8,16 +8,19 @@ sources:
   - zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6
   - zizhi-tongjian-hanji-774-banchao-jiebanren-ruhe-gaoluan-xiyu-lnbnoc-uys8kee7pz9yecxecrpyd
   - zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf
+  - zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i
 last_updated: 2026-08-30
 ---
 
 ## Overview
 
-班超 / Ban Chao appears in the current wiki as the Eastern Han Western Regions commander whose low-support frontier achievement, far-western envoy sponsorship, late return, and ignored light-touch handoff advice become the benchmark against which later Deng-regency withdrawal and Ban-family recovery debates are judged.
+班超 / Ban Chao appears in the current wiki as the Eastern Han Western Regions commander whose forceful Yanqi conquest, low-support frontier achievement, far-western envoy sponsorship, late return, and ignored light-touch handoff advice become the benchmark against which later Deng-regency withdrawal and Ban-family recovery debates are judged.
 
 ## Current Profile
 
-Ban Chao's profile now includes both outward reach and exit. Hanji 771 shows him using the Western Regions command as a platform for long-distance knowledge gathering: he sends [[GanYingEasternHan|Gan Ying]] toward [[DaQin|Da Qin]] / the [[RomanEmpire|Roman Empire]] and [[TiaozhiKingdom|Tiaozhi]]. Gan Ying reaches [[ParthianEmpire|Parthia]]'s western boundary, turns back after hearing the sea route described as dangerous, and reports mediated far-western knowledge to the Han court.
+Hanji 769 now supplies the earliest current campaign layer. Ban Chao mobilizes more than seventy thousand troops from [[QiuciKingdom|Qiuci]], Shanshan, and other Western Regions states against [[YanqiKingdomLateHan|Yanqi]], kills Yanqi king Guang and the Weili king at Chen Mu's old city, sends their heads to [[LuoyangLateHan|Luoyang]], installs Yuanmeng, and forces broad hostage submission from more than fifty Western Regions states. The source reads the campaign as brutally effective, making Ban Chao's control visible as coercive alliance management as well as frontier skill.
+
+Hanji 771 shows Ban Chao using the Western Regions command as a platform for long-distance knowledge gathering: he sends [[GanYingEasternHan|Gan Ying]] toward [[DaQin|Da Qin]] / the [[RomanEmpire|Roman Empire]] and [[TiaozhiKingdom|Tiaozhi]]. Gan Ying reaches [[ParthianEmpire|Parthia]]'s western boundary, turns back after hearing the sea route described as dangerous, and reports mediated far-western knowledge to the Han court.
 
 Hanji 774 then presents Ban Chao after more than thirty years in the Western Regions, old enough to fear dying outside the passes. He asks to return, sends [[BanYongLateHan|Ban Yong]] inward with an Anxi mission, and is finally recalled after [[BanZhaoLateHan|Ban Zhao]] warns [[EmperorHeOfHan|Emperor He]] that leaving an aged commander in place could waste decades of frontier work. He reaches [[LuoyangLateHan|Luoyang]], receives the she sheng xiaowei appointment, and dies the next month in 102 CE.
 
@@ -28,15 +31,17 @@ Hanji 780 supplies the broader achievement frame: Ban Chao turns Zhang Qian's op
 ## Key Characteristics
 
 - Western Regions commander remembered here for making Han influence effective after Zhang Qian's earlier opening.
-- Low-support operator whose success depends on local balancing, limited force, and garrison farming.
-- Late-return figure whose final recall depends on Ban Zhao's petition and Emperor He's acceptance.
+- Forceful campaign operator whose Yanqi victory uses allied Western Regions troops, killing, replacement kingship, and hostage submission.
+- Low-support operator whose wider success also depends on local balancing, limited force, and garrison farming.
 - Sponsor of Gan Ying's mission toward Da Qin and Tiaozhi, showing Western Regions control as a diplomatic and geographic-intelligence platform.
+- Late-return figure whose final recall depends on Ban Zhao's petition and Emperor He's acceptance.
 - Adviser whose plain handoff counsel defines [[LightTouchFrontierGovernance|light-touch frontier governance]] through simple rule, tolerance of minor faults, and big-picture control.
-- Strategic benchmark for judging Ren Shang's failure and the Deng court's later Western Regions withdrawal.
-- Ban-family predecessor to later [[BanYongLateHan|Ban Yong]] debates over how much Western Regions presence the Eastern Han can sustain.
+- Strategic benchmark for judging Ren Shang's failure, the Deng court's later Western Regions withdrawal, and Ban Yong's constrained recovery.
 
 ## Evidence
 
+- Yanqi campaign: [[zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i|Hanji 769]] says Ban Chao raises allied troops from Qiuci, Shanshan, and other states, kills Yanqi king Guang and the Weili king, and installs Yuanmeng.
+- Hostage-submission result: [[zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i|Hanji 769]] says more than fifty Western Regions states send sons as hostages after the campaign.
 - Final return and death: [[zizhi-tongjian-hanji-774-banchao-jiebanren-ruhe-gaoluan-xiyu-lnbnoc-uys8kee7pz9yecxecrpyd|Hanji 774]] says Ban Chao asks to return after decades in the Western Regions, is recalled after Ban Zhao's petition, reaches Luoyang, receives office, and dies in 102 CE.
 - Far-western envoy sponsorship: [[zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf|Hanji 771]] says Ban Chao sends Gan Ying toward Da Qin / Rome and Tiaozhi before the mission stops at Parthia's western boundary.
 - Achievement frame: [[zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa|Hanji 780]] summarizes the Western Regions line as beginning with Zhang Qian and being completed through Ban Chao.
@@ -48,15 +53,18 @@ Hanji 780 supplies the broader achievement frame: Ban Chao turns Zhang Qian's op
 
 ## Qualifications
 
-This page remains source-bounded. It does not attempt a full Ban Chao biography, campaign chronology, Western Regions administrative history, or reconstruction of Gan Ying's exact route. Hanji 774 and Hanji 779 report Ban Chao's advice through the episode's interpretive frame; they show the later value of his experience, but they do not prove that his exact method could have survived every later fiscal and political constraint.
+This page remains source-bounded. It does not attempt a full Ban Chao biography, campaign chronology, Western Regions administrative history, or reconstruction of Gan Ying's exact route. Hanji 769's Yanqi material shows a hard coercive campaign, not merely light-touch governance; the later handoff advice in Hanji 774 and Hanji 779 therefore should be read as context-specific frontier management, not as a claim that Ban Chao avoided force. Those later sources show the value of his experience, but they do not prove that his exact method could have survived every later fiscal and political constraint.
 
 ## What Changed
 
-- Added Hanji 771's Gan Ying mission as an outward-facing knowledge-gathering layer before Ban Chao's final recall.
-- Reframed Ban Chao's Western Regions legacy as both a route-knowledge platform and the later benchmark for handoff and withdrawal debates.
+- Added Hanji 769 as the earlier Yanqi conquest, replacement-kingship, and hostage-submission layer.
+- Rebalanced Ban Chao's profile so coercive conquest, diplomatic knowledge gathering, and light-touch handoff advice all coexist.
+- Preserved Ban Chao as the benchmark for Ren Shang's failure, Deng-regency withdrawal, and Ban Yong's later recovery debates.
 
 ## Relationships
 
+- [[YanqiKingdomLateHan]] - Western Regions polity conquered in Ban Chao's earlier campaign and later restored as a Ban Yong problem.
+- [[QiuciKingdom]] - allied Western Regions polity whose troops support Ban Chao's Yanqi campaign.
 - [[BanZhaoLateHan]] - sister whose petition helps secure Ban Chao's return before death.
 - [[GanYingEasternHan]] - envoy Ban Chao sends toward Da Qin and Tiaozhi.
 - [[DaQin]] - far-western target of Ban Chao's Gan Ying mission.

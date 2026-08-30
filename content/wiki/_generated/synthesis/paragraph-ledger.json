@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "0358edddfef89002b03154f5e2a02cfaa563c7cec947ccf0462625bb67373890",
       "76439d5a84c3e146cc75ca3dd110deeb51c4dcd3e2e69896481f9ba03f15b1a2",
       "61cf6b309b514f4094b53ccabb9cd70b5b4534f498082607452b28eb9aa1614c",
       "d822934e2dd6289d02213ae61c1f806ab6bf8726110a7f7aab778addc161d620",
@@ -403,11 +404,42 @@
       "0944897fad2beac2f301b796bb694027832267e2eb18cd26f5a96047fddc2fde",
       "0da08e278be0f9698cd22a27d657f9c77e0ffadee5aa5a02f7e114b61da05682"
     ],
-    "paragraph_count": 401
+    "paragraph_count": 402
   },
-  "overview_commit": "8c9ff48e61bb7910b65e6976029cc66a5f05da84",
-  "overview_digest": "6bf755eeed7e6c576b3f04f0faf423c9aad07c4f38ff2fccde1e523aeb87171f",
+  "overview_commit": "e60dfa42197ca5f1781d9575772037f2f510f680",
+  "overview_digest": "5d1f438b77652be5ceb4ec72a0811bdbbc6505c0d163f7643bd277453769248b",
   "paragraphs": [
+    {
+      "id": "0358edddfef89002b03154f5e2a02cfaa563c7cec947ccf0462625bb67373890",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics",
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i|《资治通鉴·汉纪》769丨公务员该怎么考？古人告诉你]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 94-96 CE [[EmperorHeOfHan|汉和帝]] layer before [[zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q|Hanji 770]]. It adds [[HuangXiangLateHan|黄香]], [[ChenChongLateHan|陈宠]], [[DengHongHeEraLateHan|邓鸿]], and [[PowerCenterProximityAdvantage|权力中心接近优势]], while extending [[BanChaoEasternHan|班超]], [[YanqiKingdomLateHan|焉耆国]], [[SouthernXiongnu|南匈奴]], [[ShangshuTaiImperialAccess|尚书台近侍权力]], and [[UnauthorizedFrontierCommandIntervention|边疆将领擅断干预]]. Its core synthesis is that rank and jurisdiction do not fully measure office value: Huang Xiang's choice to remain near Shangshu documents and imperial decision makers shows information, visibility, and central access as career resources, while the An Guo false-report case shows that truthfulness to the emperor can outweigh a frontier actor's local tactical success. No settled contradiction is recorded; the He-era Deng Hong commander is kept distinct from the existing [[DengHongLateHan|Deng Hong]] page, and minor frontier, royal-house, and modern analogy details remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "BanChaoEasternHan",
+        "ChenChongLateHan",
+        "DengHongHeEraLateHan",
+        "DengHongLateHan",
+        "EmperorHeOfHan",
+        "HuangXiangLateHan",
+        "PowerCenterProximityAdvantage",
+        "RuiqiJiangtouZizhiTongjian",
+        "ShangshuTaiImperialAccess",
+        "SouthernXiongnu",
+        "UnauthorizedFrontierCommandIntervention",
+        "YanqiKingdomLateHan",
+        "zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i",
+        "zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q"
+      ]
+    },
     {
       "id": "76439d5a84c3e146cc75ca3dd110deeb51c4dcd3e2e69896481f9ba03f15b1a2",
       "primary_topic": "ai-and-technology",

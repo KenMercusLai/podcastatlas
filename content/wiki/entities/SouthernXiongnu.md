@@ -16,16 +16,19 @@ sources:
   - zizhi-tongjian-hanji-844-ruhe-liyu-bubaizhidi-lsp49uw8atyiufrf-ryo-9ctos5z
   - zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap
   - zizhi-tongjian-hanji-784-donghan-diaoyu-zhifa-diyiren-yuxu-ls6zezfw2pvaytoo94igdscfwkpt
+  - zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i
 last_updated: 2026-08-30
 ---
 
 ## Overview
 
-南匈奴 / Southern Xiongnu is the late-Han frontier polity whose wiki profile now starts with an early Deng-regency surrender notice in Hanji 784, then continues through the 140 CE [[WusiSouthernXiongnu|Wusi]] and [[CheNiuChanyu|Che Niu]] revolt, the 158 CE [[CheerChanyu|Che'er]] surrender dispute, and the later Huzheng, Qiangqu, Yufuluo, Qubei, and Huchuquan branches. Across the current sources, Southern Xiongnu politics are repeatedly shaped by Han frontier command, chanyu legitimacy, requisition pressure, surrender terms, and opportunistic movement through a collapsing central-plains order.
+南匈奴 / Southern Xiongnu is the late-Han frontier polity whose wiki profile now starts with a 94-96 CE Emperor-He-era succession and complaint-channel crisis in Hanji 769, then continues through an early Deng-regency surrender notice in Hanji 784, the 140 CE [[WusiSouthernXiongnu|Wusi]] and [[CheNiuChanyu|Che Niu]] revolt, the 158 CE [[CheerChanyu|Che'er]] surrender dispute, and the later Huzheng, Qiangqu, Yufuluo, Qubei, and Huchuquan branches. Across the current sources, Southern Xiongnu politics are repeatedly shaped by Han frontier command, chanyu legitimacy, requisition pressure, surrender terms, reporting integrity, and opportunistic movement through a collapsing central-plains order.
 
 ## Current Profile
 
-Hanji 784 now supplies the earliest current layer. Han forces under Pang Xiong, Liang Jin, and Geng Zhong advance against Huze and the Southern Xiongnu with a large combined force, making the chanyu fear that the earlier report about Han weakness was false. The chanyu submits, appears barefoot and bareheaded in a ritualized apology, receives pardon and continued treatment, and returns captured Han people. The source also says more than ten thousand Han captives had first been seized by Qiang forces and then sold to the Xiongnu side, tying Southern Xiongnu order to the wider Qiang-front crisis.
+Hanji 769 now supplies the earliest current layer. After Shizi succeeds as chanyu, several hundred former Northern Xiongnu surrenderers attack him and are defeated by Wang Tian. The crisis then expands: fifteen tribes and more than two hundred thousand people rebel and force Fenghou, son of the previous chanyu Tuntuhe, into the chanyu position. [[EmperorHeOfHan|Emperor He]] sends [[DengHongHeEraLateHan|Deng Hong]] with Han troops, border forces, [[Wuhuan|Wuhuan]], and [[Xianbei|Xianbei]] contingents; the campaign defeats parts of the rebel force, but Fenghou escapes beyond the passes. The same source later records chanyu An Guo's complaint against Du Chong being intercepted, Du Chong and Zhu Hui countercharging An Guo with rebellion, An Guo's flight and death, and the court's later execution of Zhu Hui and Du Chong for deception.
+
+Hanji 784 supplies the next current layer. Han forces under Pang Xiong, Liang Jin, and Geng Zhong advance against Huze and the Southern Xiongnu with a large combined force, making the chanyu fear that the earlier report about Han weakness was false. The chanyu submits, appears barefoot and bareheaded in a ritualized apology, receives pardon and continued treatment, and returns captured Han people. The source also says more than ten thousand Han captives had first been seized by Qiang forces and then sold to the Xiongnu side, tying Southern Xiongnu order to the wider Qiang-front crisis.
 
 The next fuller chronological layer is Hanji 820. Wusi and Che Niu besiege Meiji and kill frontier officials; [[MaXuLateHan|Ma Xu]] and [[LiangBingLateHan|Liang Bing]] defeat them but do not end the revolt. [[XiuliChanyu|Xiuli]] is described as uninvolved and goes to apologize, yet [[ChenGuiDuliaoGeneralLateHan|Chen Gui]] later forces Xiuli and the Left Wise King to suicide. That unauthorized intervention turns a rebellion into a chanyu-legitimacy crisis. [[LiangShangLateHan|Liang Shang]] then persuades [[EmperorShunOfHan|Emperor Shun]] to have Ma Xu use fortified defense, rewards, deadlines, grace, and trust to induce surrender, while [[ZhangDanProtectorOfXiongnu|Zhang Dan]] later defeats Che Niu at Mayi. Wusi continues after Che Niu submits.
 
@@ -39,16 +42,19 @@ The later notes preserve Southern Xiongnu utility in emperor-escort and successi
 
 ## Key Characteristics
 
-- Frontier polity whose Han-facing order depends on chanyu legitimacy, submission terms, and the credibility of court recognition.
-- Earliest current layer is a Deng-regency surrender notice rather than the later 140 CE revolt.
+- Frontier polity whose Han-facing order depends on chanyu legitimacy, submission terms, accurate reporting, and the credibility of court recognition.
+- Earliest current layer is now an Emperor-He-era succession rebellion and false-report crisis rather than the later Deng-regency surrender notice.
 - Partner and threat at the same time: Southern Xiongnu actors appear as submitted rulers, captors of transferred Han people, requisitioned auxiliaries, rebels, hostages, and campaign participants.
 - Recurrent succession field where Han commanders and court decisions can stabilize, override, or destabilize internal leadership.
-- Vulnerable to requisition, supply pressure, misinformation, and unauthorized intervention by Han frontier commanders.
+- Vulnerable to requisition, supply pressure, misinformation, complaint-channel capture, and unauthorized intervention by Han frontier commanders.
 - Often connected through alliances or fractures with Wuhuan, Tuge Hu, Qiang groups, Han commanders, Baibo forces, Yuan Shao, and Cao Cao rather than as an isolated actor.
-- Late-Han chronology is tracked through named leaders and claimants: Xiuli, Che Niu, Che'er, Huzheng, Qiangqu, Yufuluo, Qubei, and Huchuquan.
+- Late-Han chronology is tracked through named leaders and claimants including Shizi, Fenghou, An Guo, Xiuli, Che Niu, Che'er, Huzheng, Qiangqu, Yufuluo, Qubei, and Huchuquan.
 
 ## Evidence
 
+- He-era succession rebellion: [[zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i|Hanji 769]] says attacks on Shizi chanyu expand into a fifteen-tribe rebellion backing Fenghou as chanyu.
+- Han-allied campaign: [[zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i|Hanji 769]] says Deng Hong leads Han, border, Wuhuan, and Xianbei forces against the rebellion, but Fenghou escapes beyond the passes.
+- Complaint and false-report crisis: [[zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i|Hanji 769]] says An Guo's complaint against Du Chong is intercepted, An Guo is countercharged and killed after flight, and Zhu Hui and Du Chong are later executed.
 - Early surrender and captive return: [[zizhi-tongjian-hanji-784-donghan-diaoyu-zhifa-diyiren-yuxu-ls6zezfw2pvaytoo94igdscfwkpt|Hanji 784]] says the Southern Xiongnu chanyu submits after Han forces advance, receives pardon, and returns captured Han people.
 - Qiang-Xiongnu captive transfer: [[zizhi-tongjian-hanji-784-donghan-diaoyu-zhifa-diyiren-yuxu-ls6zezfw2pvaytoo94igdscfwkpt|Hanji 784]] says Han captives first taken by Qiang and then sold to the Xiongnu side number more than ten thousand.
 - 140 CE revolt and legitimacy rupture: [[zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap|Hanji 820]] says Wusi and Che Niu rebel, Xiuli is treated as uninvolved, Chen Gui coerces Xiuli and the Left Wise King into suicide, and Wusi later installs Che Niu as chanyu.
@@ -61,18 +67,21 @@ The later notes preserve Southern Xiongnu utility in emperor-escort and successi
 
 ## Qualifications
 
-This page remains bounded to the listed source notes and does not reconstruct a full Southern Xiongnu history. Hanji 784 gives a brief early surrender and captive-return notice, while Hanji 820 remains the first fuller Southern Xiongnu revolt-and-recognition sequence. Hanji 903's succession notice stays at group level because the source does not resolve its named-chanyu identity against the later Huzheng-Qiangqu-Yufuluo branch. Hanji 784 and Hanji 820 appear last in the frontmatter evidence list because the list preserves source-ingest order, not chronology.
+This page remains bounded to the listed source notes and does not reconstruct a full Southern Xiongnu history. Hanji 769 gives the earliest current succession rebellion, Deng Hong campaign, and An Guo false-report branch; Hanji 784 then gives a brief early surrender and captive-return notice, while Hanji 820 remains the first fuller Southern Xiongnu revolt-and-recognition sequence after those backfilled layers. Hanji 903's succession notice stays at group level because the source does not resolve its named-chanyu identity against the later Huzheng-Qiangqu-Yufuluo branch. Hanji 784, Hanji 820, and Hanji 769 appear last in the frontmatter evidence list because the list preserves source-ingest order, not chronology.
 
 ## What Changed
 
-- Added Hanji 784 as the earliest current Southern Xiongnu layer.
-- Reframed the profile so early surrender management and captive return precede the 140 CE revolt and 158 CE Che'er dispute.
-- Preserved unauthorized chanyu coercion as a recurring legitimacy hazard in the fuller Hanji 820 and Hanji 917 layers.
-- Kept the later Huzheng-Qiangqu-Yufuluo and Qubei/Huchuquan branches intact.
+- Added Hanji 769 as the earliest current Southern Xiongnu layer, before Hanji 784.
+- Added the Shizi-Fenghou succession rebellion, Deng Hong campaign, and An Guo false-report crisis.
+- Reframed the profile so reporting integrity joins succession legitimacy, surrender management, and requisition pressure.
+- Preserved the later Hanji 784, Hanji 820, Hanji 844, and Huzheng-Qiangqu-Yufuluo branches.
 
 ## Relationships
 
 - [[Xiongnu|Xiongnu]] - broader frontier people page.
+- [[EmperorHeOfHan]] - ruler whose 94-96 CE court handles the Fenghou rebellion, Deng Hong campaign, and An Guo aftermath.
+- [[DengHongHeEraLateHan]] - commander sent against the Fenghou rebellion and later punished after the campaign.
+- [[UnauthorizedFrontierCommandIntervention]] - concept extended by the An Guo complaint-blocking and false-report case.
 - [[RegencyUnderCompoundCrisis|复合危机下的摄政]] - early Deng-regency crisis field that includes the Hanji 784 surrender notice.
 - [[XianlingQiang|先零羌]] - adjacent frontier pressure in Hanji 784, with captive transfer linking Qiang and Southern Xiongnu disorder.
 - [[XiuliChanyu|Xiuli]] - 140 CE chanyu treated as uninvolved before Chen Gui coerces his suicide.

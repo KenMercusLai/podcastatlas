@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 8404
+wiki_total_pages: 8407
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -1091,6 +1091,9 @@ wiki_pages:
   - key: "DengZhiLateHan"
     title: "邓骘 / Deng Zhi (late Han)"
     url: "/wiki/entities/dengzhilatehan/"
+  - key: "DengHongHeEraLateHan"
+    title: "邓鸿 / Deng Hong (He-era commander)"
+    url: "/wiki/entities/denghongheeralatehan/"
   - key: "DengHongLateHan"
     title: "邓鸿 / Deng Hong (late Han)"
     url: "/wiki/entities/denghonglatehan/"

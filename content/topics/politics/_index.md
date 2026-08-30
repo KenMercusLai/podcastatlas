@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2037
+topic_total_pages: 2038
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3271,6 +3271,9 @@ topic_concepts:
   - key: "TerminalHezongFailure"
     title: "末次合纵失败 / Terminal Hezong Failure"
     url: "/wiki/concepts/terminalhezongfailure/"
+  - key: "PowerCenterProximityAdvantage"
+    title: "权力中心接近优势 / Power Center Proximity Advantage"
+    url: "/wiki/concepts/powercenterproximityadvantage/"
   - key: "CupWineDisarmsGenerals"
     title: "杯酒释兵权 / Cup of Wine Disarms Generals"
     url: "/wiki/concepts/cupwinedisarmsgenerals/"

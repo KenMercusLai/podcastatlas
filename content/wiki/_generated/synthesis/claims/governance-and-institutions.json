@@ -2,6 +2,29 @@
   "claims": [
     {
       "global_candidate": false,
+      "id": "late-han-94-96-he-office-proximity-and-reporting-integrity",
+      "qualifications": [
+        "This claim is source-scoped to Hanji 769 as a 94-96 CE backfill before Hanji 770; it adds an earlier Emperor He layer rather than replacing later maternal-redress, Gan Ying, Deng-regency, or Qiang-frontier claims.",
+        "The modern headquarters-versus-branch analogy and Qing-after-Yongzheng comparison are preserved as source-scoped interpretation, not a universal bureaucracy rule.",
+        "The He-era Deng Hong commander remains disambiguated from the existing later DengHongLateHan route unless a later bounded source connects them."
+      ],
+      "statement": "[[zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i|Hanji 769]] pushes the [[EmperorHeOfHan]] governance branch back to 94-96 CE before [[zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q|Hanji 770]]: [[HuangXiangLateHan]] refuses a nominally higher commandery appointment and remains shangshu ling, creating [[PowerCenterProximityAdvantage]] and extending [[ShangshuTaiImperialAccess]] because information, document routing, ruler proximity, and visibility can outweigh rank or jurisdiction. The same source adds [[ChenChongLateHan]] as a tingwei appointment that changes judicial temperament, while the [[SouthernXiongnu]] An Guo case extends [[UnauthorizedFrontierCommandIntervention]] by showing that blocked complaints and false reports to the emperor can be politically fatal even when field actors claim military success.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i",
+        "zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q",
+        "EmperorHeOfHan",
+        "HuangXiangLateHan",
+        "PowerCenterProximityAdvantage",
+        "ShangshuTaiImperialAccess",
+        "ChenChongLateHan",
+        "SouthernXiongnu",
+        "UnauthorizedFrontierCommandIntervention",
+        "DengHongHeEraLateHan"
+      ]
+    },
+    {
+      "global_candidate": false,
       "id": "late-han-772-773-he-exception-frontier-and-harem-danger",
       "qualifications": [
         "This claim is source-scoped to Hanji 772 and Hanji 773 as backfills before Hanji 774 and Hanji 775; it adds an Emperor-He prelude rather than replacing later Deng-regency, Western Regions, Qiang-war, or succession claims.",

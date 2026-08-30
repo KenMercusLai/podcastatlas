@@ -3231,9 +3231,9 @@
       "url": "/wiki/entities/baimarelieflatehan/"
     },
     "BanChaoEasternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》780丨最多灾多难的时代：东汉 [lvGCuMRFJbLrOFER532EES3TDOa_].md",
@@ -3262,6 +3262,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》771丨寻找罗马！汉使甘英的世界旅行",
           "url": "/wiki/sources/zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》769丨公务员该怎么考？古人告诉你 [ltgXekMkpIOy11b2_q2KKJ93JA0i].md",
+          "key": "zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》769丨公务员该怎么考？古人告诉你",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i/"
         }
       ],
       "updated": "2026-08-30",
@@ -5113,6 +5120,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/cheerchanyu/"
+    },
+    "ChenChongLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》769丨公务员该怎么考？古人告诉你 [ltgXekMkpIOy11b2_q2KKJ93JA0i].md",
+          "key": "zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》769丨公务员该怎么考？古人告诉你",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/chenchonglatehan/"
     },
     "ChenFanLateHan": {
       "episode_count": 20,
@@ -7882,6 +7905,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/dengfamilyaneralatehan/"
     },
+    "DengHongHeEraLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》769丨公务员该怎么考？古人告诉你 [ltgXekMkpIOy11b2_q2KKJ93JA0i].md",
+          "key": "zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》769丨公务员该怎么考？古人告诉你",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/denghongheeralatehan/"
+    },
     "DengHongLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -9669,9 +9708,9 @@
       "url": "/wiki/entities/emperorchongofhan/"
     },
     "EmperorHeOfHan": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》777丨比肩武则天，碾压慈禧，这个女人了不得！ [lk7J4Qv_-SQfopzBii6rc_iVbuxS].md",
@@ -9728,6 +9767,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》770丨沉默的真相：皇帝的生母竟是她",
           "url": "/wiki/sources/zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》769丨公务员该怎么考？古人告诉你 [ltgXekMkpIOy11b2_q2KKJ93JA0i].md",
+          "key": "zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》769丨公务员该怎么考？古人告诉你",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i/"
         }
       ],
       "updated": "2026-08-30",
@@ -15351,6 +15397,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/huangxianlatehan/"
+    },
+    "HuangXiangLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》769丨公务员该怎么考？古人告诉你 [ltgXekMkpIOy11b2_q2KKJ93JA0i].md",
+          "key": "zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》769丨公务员该怎么考？古人告诉你",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/huangxianglatehan/"
     },
     "HuangYiRobotics": {
       "episode_count": 1,
@@ -26082,6 +26144,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/postvictorythreatsequencing/"
     },
+    "PowerCenterProximityAdvantage": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》769丨公务员该怎么考？古人告诉你 [ltgXekMkpIOy11b2_q2KKJ93JA0i].md",
+          "key": "zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》769丨公务员该怎么考？古人告诉你",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/powercenterproximityadvantage/"
+    },
     "PowerMonopolyBackfire": {
       "episode_count": 1,
       "show_count": 1,
@@ -29194,9 +29272,9 @@
       "url": "/wiki/entities/shangxiabanchang/"
     },
     "ShangshuTaiImperialAccess": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》916丨命好和运好哪个更重要？ [lmZudJq5zFkfSUKMhDeIuMESM9qu].md",
@@ -29211,6 +29289,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》780丨最多灾多难的时代：东汉",
           "url": "/wiki/sources/zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》769丨公务员该怎么考？古人告诉你 [ltgXekMkpIOy11b2_q2KKJ93JA0i].md",
+          "key": "zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》769丨公务员该怎么考？古人告诉你",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i/"
         }
       ],
       "updated": "2026-08-30",
@@ -30138,9 +30223,9 @@
       "url": "/wiki/entities/southernocean/"
     },
     "SouthernXiongnu": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 1,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》903丨为什么劝你冤冤相报何时了？ [loKpt93MUc8kasvN44VgsjKI8boM].md",
@@ -30225,6 +30310,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》784丨东汉“钓鱼执法”第一人：虞诩",
           "url": "/wiki/sources/zizhi-tongjian-hanji-784-donghan-diaoyu-zhifa-diyiren-yuxu-ls6zezfw2pvaytoo94igdscfwkpt/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》769丨公务员该怎么考？古人告诉你 [ltgXekMkpIOy11b2_q2KKJ93JA0i].md",
+          "key": "zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》769丨公务员该怎么考？古人告诉你",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i/"
         }
       ],
       "updated": "2026-08-30",
@@ -33334,9 +33426,9 @@
       "url": "/wiki/entities/ulsterdefenceassociation/"
     },
     "UnauthorizedFrontierCommandIntervention": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》917丨如何迅速找到升职加薪的破局点？ [lk2zT5C3ONvUi9A4PPBowsHY66Tg].md",
@@ -33351,9 +33443,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》820丨职场警示！小心领导让你背黑锅",
           "url": "/wiki/sources/zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》769丨公务员该怎么考？古人告诉你 [ltgXekMkpIOy11b2_q2KKJ93JA0i].md",
+          "key": "zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》769丨公务员该怎么考？古人告诉你",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-08-30",
       "url": "/wiki/concepts/unauthorizedfrontiercommandintervention/"
     },
     "UnboundedEliteRewardDemand": {
@@ -37244,9 +37343,9 @@
       "url": "/wiki/entities/yanjinbattlelatehan/"
     },
     "YanqiKingdomLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》807丨班超之子为何会含冤入狱？ [liIWGi77g2ON1z2VnWAF1_wVph2d].md",
@@ -37254,9 +37353,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》807丨班超之子为何会含冤入狱？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》769丨公务员该怎么考？古人告诉你 [ltgXekMkpIOy11b2_q2KKJ93JA0i].md",
+          "key": "zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》769丨公务员该怎么考？古人告诉你",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-08-30",
       "url": "/wiki/entities/yanqikingdomlatehan/"
     },
     "YaoGuangLateHan": {

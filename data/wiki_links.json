@@ -9527,6 +9527,10 @@
     "title": "陈仓之战 / Chen Cang Battle (late Han)",
     "url": "/wiki/entities/chencangbattlelatehan/"
   },
+  "ChenChongLateHan": {
+    "title": "陈宠 / Chen Chong (late Han)",
+    "url": "/wiki/entities/chenchonglatehan/"
+  },
   "ChenCihong": {
     "title": "Chen Cihong / 陈慈黉",
     "url": "/wiki/entities/chencihong/"
@@ -14006,6 +14010,10 @@
   "DengFamilyAnEraLateHan": {
     "title": "邓氏 / Deng Family (An-era late Han)",
     "url": "/wiki/entities/dengfamilyaneralatehan/"
+  },
+  "DengHongHeEraLateHan": {
+    "title": "邓鸿 / Deng Hong (He-era commander)",
+    "url": "/wiki/entities/denghongheeralatehan/"
   },
   "DengHongLateHan": {
     "title": "邓鸿 / Deng Hong (late Han)",
@@ -23918,6 +23926,10 @@
   "HuangXianLateHan": {
     "title": "黄宪 / Huang Xian (late Han)",
     "url": "/wiki/entities/huangxianlatehan/"
+  },
+  "HuangXiangLateHan": {
+    "title": "黄香 / Huang Xiang (late Han)",
+    "url": "/wiki/entities/huangxianglatehan/"
   },
   "HuangYanLateHan": {
     "title": "黄衍 / Huang Yan (late Han)",
@@ -39706,6 +39718,10 @@
   "PowerBatteryWhitelist": {
     "title": "Power Battery Whitelist",
     "url": "/wiki/concepts/powerbatterywhitelist/"
+  },
+  "PowerCenterProximityAdvantage": {
+    "title": "权力中心接近优势 / Power Center Proximity Advantage",
+    "url": "/wiki/concepts/powercenterproximityadvantage/"
   },
   "PowerEtiquetteReading": {
     "title": "Power Etiquette Reading / 权力礼仪细读",
@@ -62698,6 +62714,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i": {
+    "title": "《资治通鉴·汉纪》769丨公务员该怎么考？古人告诉你",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i/"
   },
   "zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q": {
     "title": "《资治通鉴·汉纪》770丨沉默的真相：皇帝的生母竟是她",

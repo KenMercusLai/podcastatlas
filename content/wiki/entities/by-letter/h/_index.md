@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 8404
+wiki_total_pages: 8407
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -1217,6 +1217,9 @@ wiki_pages:
   - key: "HuangYanLateHan"
     title: "黄衍 / Huang Yan (late Han)"
     url: "/wiki/entities/huangyanlatehan/"
+  - key: "HuangXiangLateHan"
+    title: "黄香 / Huang Xiang (late Han)"
+    url: "/wiki/entities/huangxianglatehan/"
   - key: "HeishanArmy"
     title: "黑山军 / Heishan Army"
     url: "/wiki/entities/heishanarmy/"

@@ -2,6 +2,24 @@
   "claims": [
     {
       "global_candidate": false,
+      "id": "historical-office-value-depends-on-power-center-proximity",
+      "qualifications": [
+        "This is a historical work-and-society analogy from Hanji 769, not modern career advice or a universal organization rule.",
+        "The source explicitly says local taishou authority is large, so the claim is about comparative role value under central-advancement conditions rather than a blanket preference for headquarters roles.",
+        "Huang Xiang's stated self-fit explanation and the host's rational-positioning interpretation should remain distinguishable."
+      ],
+      "statement": "[[zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i|Hanji 769]] adds a historical work-and-career analogy through [[HuangXiangLateHan]] and [[PowerCenterProximityAdvantage]]: a role's value can come from proximity to decision makers, information, documents, and promotion visibility rather than rank alone. [[ShangshuTaiImperialAccess]] qualifies the case because Huang Xiang's retained shangshu ling post works where the office connects to central authority and source-grounded information flow.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i",
+        "HuangXiangLateHan",
+        "PowerCenterProximityAdvantage",
+        "ShangshuTaiImperialAccess",
+        "EmperorHeOfHan"
+      ]
+    },
+    {
+      "global_candidate": false,
       "id": "palace-selection-turns-family-preparation-into-status-mobility",
       "qualifications": [
         "This is a historical analogy from one Hanji source, not modern career, marriage, education, or relationship advice.",
