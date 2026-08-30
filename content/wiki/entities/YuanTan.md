@@ -10,6 +10,7 @@ sources:
   - zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg
   - zizhi-tongjian-hanji-1059-yuanjia-xiongdi-neidou-liubiao-weihe-zhudong-dang-heshilao-lrgnhcx-fokuitrtfufdtzl1wfos
   - zizhi-tongjian-hanji-1056-yuanshao-sihou-tade-erzimen-zhijie-fanmu-chengchou-lqxhhayal-srq4fm4yy-hnfu15ye
+  - zizhi-tongjian-hanji-1060-hai-si-yuanshao-hou-caocao-weihe-zhuantou-zhiyuan-tade-changzi-lldkbbzf8dmy21otbtqihc-oafx7
 last_updated: 2026-08-30
 ---
 
@@ -31,6 +32,8 @@ Hanji 1058 changes Yuan Tan from injured claimant into active fraternal combatan
 
 Hanji 1059 keeps Yuan Tan at the point where fraternal rivalry has become outside-power dependence. [[LiuBiao|刘表]]'s letter frames Yuan Tan's appeal to Cao Cao as shameful because it abandons father-avenging and brotherly duty, but the practical issue is strategic: Yuan Tan's desperation gives Cao Cao a route into the Yuan-family conflict.
 
+Hanji 1060 sharpens that route. [[XinPiLateHan|辛毗]] tells Cao Cao not to decide on the basis of Yuan Tan's trustworthiness; the request matters because it proves Yuan Tan is near collapse. Yuan Tan becomes the rear-pressure wedge in Xin Pi's plan: if Cao attacks [[YeLateHan|邺城]], Yuan Shang must either abandon the Yuan base or return and let Yuan Tan threaten him from behind.
+
 ## Key Characteristics
 - Yuan Shao son and Qingzhou-side appointee whose early rise is tied to the Yuan Shao-Gongsun Zan rivalry.
 - Builds battlefield reputation through Tian Kai and Beihai operations, then loses moral-political credibility through pride and poor adviser selection.
@@ -38,7 +41,7 @@ Hanji 1059 keeps Yuan Tan at the point where fraternal rivalry has become outsid
 - Eldest-son claimant disadvantaged by adoption out of the direct succession line and by Yuan Shang's fast installation at Ye.
 - Turns grievance into first open violence by killing Feng Ji after a troop request is refused.
 - Cooperates with Yuan Shang under Cao Cao's direct pressure, then resumes rivalry when trust and material support break down.
-- Becomes the claimant whose outside-aid request lets Cao Cao consider turning Yuan-family civil conflict into intervention.
+- Becomes the claimant whose outside-aid request lets Cao Cao turn Yuan-family civil conflict into intervention, less as a trusted ally than as a desperate wedge against Yuan Shang.
 
 ## Evidence
 - Qingzhou appointment and proxy war: [[zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r|Hanji 969]] places Yuan Tan as Yuan Shao's son and Qingzhou-side actor fighting Tian Kai.
@@ -48,14 +51,16 @@ Hanji 1059 keeps Yuan Tan at the point where fraternal rivalry has become outsid
 - First violent break: [[zizhi-tongjian-hanji-1056-yuanshao-sihou-tade-erzimen-zhijie-fanmu-chengchou-lqxhhayal-srq4fm4yy-hnfu15ye|Hanji 1056]] records Yuan Tan styling himself chariots-and-cavalry general at Liyang and killing Feng Ji after being denied more troops.
 - Temporary cooperation under pressure: [[zizhi-tongjian-hanji-1056-yuanshao-sihou-tade-erzimen-zhijie-fanmu-chengchou-lqxhhayal-srq4fm4yy-hnfu15ye|Hanji 1056]] has Yuan Tan ask Yuan Shang for help when Cao Cao attacks, and Yuan Shang personally reinforces him.
 - Succession fault line and outside-aid threshold: [[zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg|Hanji 1058]] and [[zizhi-tongjian-hanji-1059-yuanjia-xiongdi-neidou-liubiao-weihe-zhudong-dang-heshilao-lrgnhcx-fokuitrtfufdtzl1wfos|Hanji 1059]] show the later armor dispute, ignored reconciliation counsel, and Xin Pi mission to Cao Cao.
+- Desperation as strategic evidence: [[zizhi-tongjian-hanji-1060-hai-si-yuanshao-hou-caocao-weihe-zhuantou-zhiyuan-tade-changzi-lldkbbzf8dmy21otbtqihc-oafx7|Hanji 1060]] has Xin Pi argue that Yuan Tan's request proves he is at the end of his options and can be used to threaten Yuan Shang's rear if Cao Cao attacks Ye.
 
 ## Qualifications
-Yuan Tan's page is not a full biography. The sources select him for Qingzhou proxy politics, reputation loss, Cao-side security calculations, and the later succession split. Hanji 1056 and Hanji 1058 show loyal figures and rational grievances around him, so his collapse should not be reduced to simple disloyalty; the stronger claim is that he cannot turn grievance, loyalty, and advice into a stable settlement.
+Yuan Tan's page is not a full biography. The sources select him for Qingzhou proxy politics, reputation loss, Cao-side security calculations, and the later succession split. Hanji 1056 and Hanji 1058 show loyal figures and rational grievances around him, so his collapse should not be reduced to simple disloyalty; the stronger claim is that he cannot turn grievance, loyalty, and advice into a stable settlement. Hanji 1060 also does not prove Cao Cao trusts him; it uses his appeal as evidence of dependency and exhaustion.
 
 ## What Changed
 - Added Hanji 1056's missing succession-origin layer: adoption out, distance from Ye, Yuan Shang's installation, and Yuan Tan's self-styled Liyang command.
 - Added Feng Ji's killing as Yuan Tan's first open violent break with Yuan Shang's camp.
 - Added temporary cooperation under Cao Cao's attack as the precondition for the later pressure-release reading.
+- Added Hanji 1060's refinement that Yuan Tan's request matters less as alliance trust than as proof of desperation and as a rear-pressure lever against Yuan Shang.
 
 ## Relationships
 - [[YuanShao|袁绍]] - father and power base behind Yuan Tan's Qingzhou appointment and later succession claim.
@@ -76,3 +81,4 @@ Yuan Tan's page is not a full biography. The sources select him for Qingzhou pro
 - [[SuccessionNonDesignationRisk|未定继承人风险]] - concept explaining why Yuan Tan's claim becomes unstable.
 - [[PressureReleaseInfightingStrategy|撤压诱发内斗]] - strategy that exploits Yuan Tan's rivalry with Yuan Shang.
 - [[MutualExhaustionThirdPartyGain|两败俱伤、旁人得利]] - pattern Liu Biao invokes to warn that Yuan Tan and Yuan Shang's fighting benefits Cao Cao.
+- [[DisorderCollapseExploitation|取乱侮亡]] - Hanji 1060 pattern that treats Yuan Tan's dependence as one sign of Yuan-family collapse.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 5980
+wiki_total_pages: 5981
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -569,6 +569,9 @@ wiki_pages:
   - key: "DisneyVaultHomeVideoEconomics"
     title: "Disney Vault Home Video Economics"
     url: "/wiki/concepts/disneyvaulthomevideoeconomics/"
+  - key: "DisorderCollapseExploitation"
+    title: "Disorder-Collapse Exploitation / 取乱侮亡"
+    url: "/wiki/concepts/disordercollapseexploitation/"
   - key: "DispersedInformationProblem"
     title: "Dispersed Information Problem"
     url: "/wiki/concepts/dispersedinformationproblem/"

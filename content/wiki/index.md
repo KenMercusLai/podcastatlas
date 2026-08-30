@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1060丨害死袁绍后，曹操为何转头支援他的长子？](sources/zizhi-tongjian-hanji-1060-hai-si-yuanshao-hou-caocao-weihe-zhuantou-zhiyuan-tade-changzi-lldkbbzf8dmy21otbtqihc-oafx7.md) — 芮淇讲透资治通鉴 episode on Xin Pi persuading Cao Cao to support Yuan Tan, exploit Yuan Tan and Yuan Shang's exhaustion, attack the Ye dilemma, and choose Hebei over Jingzhou.
 - [《资治通鉴·汉纪》776丨汉史探密：蔡伦是怎样发明“造纸术”的？](sources/zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb.md) — 芮淇讲透资治通鉴 episode on Cai Lun's court-backed paper-making improvement, Deng's literary frugality, Xu Fang's Taixue examination reform, Tang Qiang's anti-fruit-tribute memorial, Northern Xiongnu diplomacy, and Goguryeo's 105 CE Liaodong raid.
 - [AI Sovereignty Wars, Palantir-Nvidia Deal, SCOTUS Birthright Ruling, Newsom's CA Budget Lie](sources/all-in-with-chamath-jason-sacks-friedberg-ai-sovereignty-wars-palantir-nvidia-deal-scotus-birthright-ruling-newsoms-ca-budget-lie-41958585.md) — All-In episode on AI sovereignty, Palantir-Nvidia, enterprise data/model control, AI jobs, Anthropic export controls, birthright citizenship, immigration, DSA momentum, and California fiscal fragility.
 - [《资治通鉴·汉纪》777丨比肩武则天，碾压慈禧，这个女人了不得！](sources/zizhi-tongjian-hanji-777-bi-jian-wuzetian-nianya-cixi-zhege-nvren-liaobude-lk7j4qv-sqfopzbii6rc-ivbuxs.md) — 芮淇讲透资治通鉴 episode on Emperor He's death, Emperor Shang's infant accession under Empress Dowager Deng, restrained palace-theft and Ji Cheng wugu-case verification, cautious Northern Xiongnu contact, and Wang Huan's strict but compassionate Luoyang governance.
@@ -3151,11 +3152,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [董承 / Dong Cheng (late Han)](entities/DongChengLateHan.md) — Court-side actor who remains with Han Xian in ruined Luoyang, later appeals against him, and gives Cao Cao an overt reason to enter.
 - [洛阳 / Luoyang (late Han)](entities/LuoyangLateHan.md) — Damaged imperial city whose burned palaces, starving officials, weak supplies, and unstable military surroundings make the Xu relocation plausible.
 - [孙静 / Sun Jing (late Han)](entities/SunJingLateHan.md) — Sun Ce's uncle and Kuaiji campaign adviser whose detour-and-rear-attack plan breaks Wang Lang's Guling defense.
-- [袁谭 / Yuan Tan](entities/YuanTan.md) — Yuan Shao son whose adoption, Qingzhou base, self-styled command, and killing of Feng Ji turn succession grievance into open rivalry with Yuan Shang.
-- [袁尚 / Yuan Shang](entities/YuanShang.md) — Yuan Shao son privately favored and factionally installed, whose rivalry with Yuan Tan becomes strategically exploitable after Cao Cao eases pressure.
+- [袁谭 / Yuan Tan](entities/YuanTan.md) — Yuan Shao son whose Qingzhou base, succession grievance, and desperate request for Cao Cao's aid make him a wedge against Yuan Shang.
+- [袁尚 / Yuan Shang](entities/YuanShang.md) — Yuan Shao son privately favored and factionally installed, whose rivalry with Yuan Tan leaves him vulnerable to Xin Pi's Ye-centered dilemma.
 - [王修 / Wang Xiu (late Han)](entities/WangXiuLateHan.md) — Yuan Tan-side adviser who urges reconciliation with Yuan Shang before the fraternal split hardens.
 - [管统 / Guan Tong (late Han)](entities/GuanTongLateHan.md) — Donglai official whose costly loyalty to Yuan Tan survives a Qingzhou defection wave.
-- [辛毗 / Xin Pi (late Han)](entities/XinPiLateHan.md) — Xin Ping's younger brother sent by Yuan Tan to request Cao Cao's aid against Yuan Shang.
+- [辛毗 / Xin Pi (late Han)](entities/XinPiLateHan.md) — Xin Ping's younger brother and Yuan Tan envoy who persuades Cao Cao to exploit Yuan-family exhaustion through the Hebei opening.
 - [郑玄 / Zheng Xuan](entities/ZhengXuan.md) — Late-Han Confucian scholar honored by Kong Rong, used in Hanji 1007 to separate scholarly prestige from actual governing capacity.
 - [左承祖 / Zuo Chengzu](entities/ZuoChengzu.md) — Beihai adviser whose realistic advice to rely on a stronger power is rejected and punished by Kong Rong.
 - [刘义逊 / Liu Yixun](entities/LiuYixun.md) — Respected Beihai guest who leaves after Kong Rong kills Zuo Chengzu, marking the wider collapse of safe advice.
@@ -10120,6 +10121,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Disorder-Collapse Exploitation / 取乱侮亡](concepts/DisorderCollapseExploitation.md) — Strategy timing pattern for intervening when internal disorder and material collapse make a rival newly attackable.
 - [宫廷需求驱动造纸 / Court-Demand-Driven Papermaking](concepts/CourtDemandDrivenPapermaking.md) — Source-bounded pattern where palace writing-material demand, workshop authority, low-cost fibers, imperial praise, and patronage-backed diffusion shape Cai Lun's paper-making contribution.
 - [鲜贡劳役负担 / Perishable Tribute Labor Burden](concepts/PerishableTributeLaborBurden.md) — Governance pattern where fresh luxury tribute requires dangerous high-speed relay labor until remonstrance converts delicacy into public-cost restraint.
 - [经学考试正统化 / Classical Examination Orthodoxy](concepts/ClassicalExaminationOrthodoxy.md) — Taixue examination repair pattern that constrains classical testing to recognized textual lineages, explicit passages, and approved interpretive points.
@@ -10481,8 +10483,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Latent Rival Recognition / 潜在强敌识别](concepts/LatentRivalRecognition.md) — Strategy pattern of reading future threat in a currently weak but resilient actor, created from Cao Cao's judgment of Liu Bei.
 - [Crisis Composure Cover Story / 临场定力与借势遮掩](concepts/CrisisComposureCoverStory.md) — Self-protection pattern where a visible fear response is quickly explained through a plausible scene cue.
 - [Dangerous Guest Release Risk / 放虎归山式宾客释放风险](concepts/DangerousGuestReleaseRisk.md) — Failure mode where a sheltered high-potential actor is released with enough autonomy to rebuild independent power.
-- [Post-Victory Threat Sequencing / 胜后威胁排序](concepts/PostVictoryThreatSequencing.md) — Strategy pattern for converting a major win into target priority by suppressing the wounded main rival before pursuing tempting secondary campaigns.
-- [两败俱伤、旁人得利 / Mutual Exhaustion Third-Party Gain](concepts/MutualExhaustionThirdPartyGain.md) — Conflict pattern where rival exhaustion creates third-party opportunity, qualified by the risk that one rival may reconsolidate before the outsider acts.
+- [Post-Victory Threat Sequencing / 胜后威胁排序](concepts/PostVictoryThreatSequencing.md) — Strategy pattern for converting a major win into target priority, including claimant support when the wounded rival bloc splits.
+- [两败俱伤、旁人得利 / Mutual Exhaustion Third-Party Gain](concepts/MutualExhaustionThirdPartyGain.md) — Conflict pattern where rival exhaustion creates third-party opportunity, qualified by the timing choice between waiting and intervention.
 - [Active Political Dormancy / 主动蛰伏式政治积累](concepts/ActivePoliticalDormancy.md) — Low-resource survival pattern where apparent stillness preserves a defeated actor's ambition, relationships, and future action space.
 - [AI Expression Baseline / AI 表达基线](concepts/AIExpressionBaseline.md) — E46 frame for AI raising the floor of ordinary expression and making sincere, experience-grounded human deviation more valuable.
 - [Interpersonal Image Projection / 人际意象投射](concepts/InterpersonalImageProjection.md) — Pattern where another person is seen through memory, fear, desire, labels, and disowned parts of the self.
@@ -11364,7 +11366,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Three Jin Vassal Recognition / 三晋受封](concepts/ThreeJinVassalRecognition.md) — Zhou Weilie Wang's formal recognition of Wei, Zhao, and Han as vassal rulers.
 - [Tian Family Replacement of Qi / 田氏代齐](concepts/TianFamilyReplacementOfQi.md) — Tian He's displacement of Qi Kang Gong and pursuit of Zhou recognition after Three Jin precedent has lowered the cost of formalizing power shifts.
 - [Succession Non-Designation Risk / 未定继承人风险](concepts/SuccessionNonDesignationRisk.md) — Frame for disorder when a ruler-centered polity or family bloc lacks a legible, enforceable succession path and leaves factions with armed or narrative leverage.
-- [撤压诱发内斗 / Pressure-Release Infighting Strategy](concepts/PressureReleaseInfightingStrategy.md) — Strategy of easing external pressure so unresolved rivalries inside an opponent's bloc reappear after direct pressure had temporarily suppressed them.
+- [撤压诱发内斗 / Pressure-Release Infighting Strategy](concepts/PressureReleaseInfightingStrategy.md) — Strategy of easing external pressure so unresolved rivalries reappear, then intervening once exhaustion makes the split actionable.
 - [Patron Succession Exposure / 靠山更替暴露风险](concepts/PatronSuccessionExposure.md) — Risk that a minister protected by one ruler or court balance becomes exposed when succession lets a new regime revalue prior service.
 - [Local Official Tenure Stability / 地方官任期稳定](concepts/LocalOfficialTenureStability.md) — Zuo Xiong and Lu Zhi tenure-stability concept tying local-official continuity, truthful inspection, multi-year observation, and appointment-pipeline constraints to state capacity.
 - [Independent Official Audit / 独立考核地方官](concepts/IndependentOfficialAudit.md) — Qi Wei Wang's method of testing local official performance against independent evidence rather than court reputation.

@@ -1656,6 +1656,7 @@ Added source page for a Keji Luandun episode on Huawei's Tau Law, 3D chip stacki
 
 Ran lint. See lint-report.md for details.
 
+
 ## [2026-08-30] ingest | 《资治通鉴·汉纪》782丨揭秘东汉奇女子艰难的太后生涯
 
 Ingested the 2026-07-05 芮淇讲透资治通鉴 episode on 108-109 CE Empress Dowager Deng's Qiang-war, famine, and fiscal crisis, including Deng Zhi's failed campaign and later promotion, Ren Shang's Pingxiang defeat and Hanyang command, Pang Can's imprisoned retrenchment memorial, Dianling's Qiang coalition, Lu Gong's famine-era dismissal and recommendation-boundary anecdote, Luoyang famine, and emergency rank sale. Created the source note plus `DianlingQiang` and `LuGongLateHan`; updated `EmpressDowagerDengLateHan`, `DengZhiLateHan`, `RenShangLateHan`, `PangCanLateHan`, `RegencyUnderCompoundCrisis`, `StrategicFrontierAbandonment`, `OfficialSalaryExtractionRisk`, `RankSaleDisasterFinance`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; Liang Jin, Xia Qin, Pang Jun, Dong Bing, Han Cong, succession notices, Wuhuan-Hu raids, and minor disaster notices remain source-scoped.
@@ -13792,3 +13793,11 @@ Ingested the 2026-08-29 芮淇讲透资治通鉴 episode on Yuan Shao's death, Y
 ## [2026-08-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-30] ingest | 《资治通鉴·汉纪》1060丨害死袁绍后，曹操为何转头支援他的长子？
+
+Ingested the 2026-08-29 芮淇讲透资治通鉴 episode on Xin Pi persuading Cao Cao to support Yuan Tan, treat Yuan Tan and Yuan Shang's exhaustion as a Hebei intervention window, use an attack on Ye to force Yuan Shang's dilemma, and choose the Yuan-family opening over wealthy Jingzhou. Created the source note plus `DisorderCollapseExploitation`; updated `YuanTan`, `YuanShang`, `XinPiLateHan`, `PressureReleaseInfightingStrategy`, `PostVictoryThreatSequencing`, `MutualExhaustionThirdPartyGain`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; Hanji 1059's Xun You emphasis and Hanji 1060's Xin Pi emphasis are treated as complementary decision-room layers, while the easy-victory forecast remains source-scoped.
+
+## [2026-08-30] lint | Wiki health check
+
+Ran health, identity validation, and lint. Health scanned 16,091 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-28 with 15,429 nodes and 180,855 edges while the current lint scan covered 16,091 pages, so bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest`; bounded in-session spot-check found no direct contradictions or stale summaries in the sampled pages, with legacy depth drift noted for `ExportPorcelainCustomization` and `FinancialPowerAndStateCapacity`. Report returned in-session; `wiki/lint-report.md` was not updated.

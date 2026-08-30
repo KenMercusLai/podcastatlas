@@ -7,6 +7,7 @@ sources:
   - zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg
   - zizhi-tongjian-hanji-1059-yuanjia-xiongdi-neidou-liubiao-weihe-zhudong-dang-heshilao-lrgnhcx-fokuitrtfufdtzl1wfos
   - zizhi-tongjian-hanji-1056-yuanshao-sihou-tade-erzimen-zhijie-fanmu-chengchou-lqxhhayal-srq4fm4yy-hnfu15ye
+  - zizhi-tongjian-hanji-1060-hai-si-yuanshao-hou-caocao-weihe-zhuantou-zhiyuan-tade-changzi-lldkbbzf8dmy21otbtqihc-oafx7
 last_updated: 2026-08-30
 ---
 
@@ -26,6 +27,8 @@ Hanji 1058 then frames Yuan Shang through the instability left by Yuan Shao's no
 
 Hanji 1059 adds Liu Biao's attempt to pull Yuan Shang back from escalation. [[LiuBiao|刘表]] flatters Yuan Shang as the more magnanimous brother and urges him to absorb Yuan Tan's faults so the two can defeat Cao Cao together. The warning fails, leaving Yuan Shang's pressure on Yuan Tan as the condition that brings Xin Pi to Cao Cao.
 
+Hanji 1060 makes Yuan Shang's position part of [[XinPiLateHan|辛毗]]'s argument for immediate Cao intervention. Xin Pi says Yuan Shang knows Yuan Tan is desperate but still cannot finish him, proving that Yuan Shang has reached exhaustion as well. The proposed attack on [[YeLateHan|邺城]] would force him into a lose-lose choice between saving the Yuan base and guarding against Yuan Tan behind him.
+
 ## Key Characteristics
 - Favored younger son whose claim depends on private preference and factional installation rather than a clear public succession settlement.
 - Successor claimant backed by Shen Pei and Feng Ji before Yuan Tan can return to Ye.
@@ -33,7 +36,7 @@ Hanji 1059 adds Liu Biao's attempt to pull Yuan Shang back from escalation. [[Li
 - Capable of temporary anti-Cao cooperation with Yuan Tan while external pressure is direct.
 - Attempts to widen the anti-Cao field through Guo Yuan, Gao Gan, the Southern Xiongnu, and Ma Teng.
 - Suspicious of Yuan Tan's military requests, treating an anti-Cao pursuit proposal as a possible threat to himself.
-- Target of Liu Biao's self-interested mediation, which asks him to subordinate personal rivalry to anti-Cao coalition logic.
+- Target of outside strategic readings: Liu Biao asks him to subordinate rivalry to anti-Cao coalition logic, while Xin Pi treats his Ye-defense dilemma as Cao Cao's intervention opening.
 
 ## Evidence
 - Private preference and factional installation: [[zizhi-tongjian-hanji-1056-yuanshao-sihou-tade-erzimen-zhijie-fanmu-chengchou-lqxhhayal-srq4fm4yy-hnfu15ye|Hanji 1056]] says Yuan Shao favors Yuan Shang but leaves no public will, after which Shen Pei and Feng Ji install Yuan Shang through a claimed final order.
@@ -43,14 +46,16 @@ Hanji 1059 adds Liu Biao's attempt to pull Yuan Shang back from escalation. [[Li
 - Pressure-sensitive split: [[zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg|Hanji 1058]] uses Guo Jia's advice to show that the brothers cooperate under Cao Cao's pressure but split when pressure eases.
 - Open conflict: [[zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg|Hanji 1058]] narrates Yuan Shang refusing Yuan Tan's armor request, defeating Yuan Tan outside Ye, and later besieging him at Pingyuan.
 - Failed mediation: [[zizhi-tongjian-hanji-1059-yuanjia-xiongdi-neidou-liubiao-weihe-zhudong-dang-heshilao-lrgnhcx-fokuitrtfufdtzl1wfos|Hanji 1059]] records Liu Biao's letter urging Yuan Shang to tolerate Yuan Tan and unite against Cao Cao, while the brothers do not accept the warning.
+- Exhaustion and Ye dilemma: [[zizhi-tongjian-hanji-1060-hai-si-yuanshao-hou-caocao-weihe-zhuantou-zhiyuan-tade-changzi-lldkbbzf8dmy21otbtqihc-oafx7|Hanji 1060]] has Xin Pi argue that Yuan Shang's failure to destroy desperate Yuan Tan shows exhaustion, and that Cao Cao can attack Ye to force Yuan Shang between home defense and rear attack.
 
 ## Qualifications
-This page currently rests on three adjacent source notes and should not be treated as a complete biography of Yuan Shang. The episodes emphasize how Yuan Shang functions inside the Yuan-family succession breakdown rather than his full administrative or military career. Hanji 1056 gives the strongest claim that his succession was factionally engineered, but the page keeps motive claims about Shen Pei and Feng Ji bounded to that source's account.
+This page currently rests on four adjacent source notes and should not be treated as a complete biography of Yuan Shang. The episodes emphasize how Yuan Shang functions inside the Yuan-family succession breakdown rather than his full administrative or military career. Hanji 1056 gives the strongest claim that his succession was factionally engineered, while Hanji 1060 gives Xin Pi's interested assessment of Yuan Shang's exhaustion rather than an independent campaign result.
 
 ## What Changed
 - Added Hanji 1056's origin layer for Yuan Shang's succession: private preference, claimed last order, and installation by Shen Pei and Feng Ji.
 - Added the first Yuan Tan conflict sequence, including troop restriction, Feng Ji's supervision, and Yuan Shang's later rescue of Yuan Tan under Cao Cao's attack.
 - Added Yuan Shang's western pressure plan through Guo Yuan, Gao Gan, the Southern Xiongnu, and Ma Teng.
+- Added Hanji 1060's reading of Yuan Shang as exhausted and vulnerable to a Ye-centered dilemma.
 
 ## Relationships
 - [[YuanShao|袁绍]] - father whose non-designation leaves Yuan Shang's claim exposed to rivalry.
@@ -68,3 +73,4 @@ This page currently rests on three adjacent source notes and should not be treat
 - [[SuccessionNonDesignationRisk|未定继承人风险]] - conceptual pattern explaining why Yuan Shang's claim becomes unstable.
 - [[PressureReleaseInfightingStrategy|撤压诱发内斗]] - strategic pattern that turns Yuan Shang's rivalry with Yuan Tan into an exploitable fault line.
 - [[MutualExhaustionThirdPartyGain|两败俱伤、旁人得利]] - warning pattern Liu Biao uses to describe the cost of Yuan Shang and Yuan Tan's continued fighting.
+- [[DisorderCollapseExploitation|取乱侮亡]] - Hanji 1060 frame that treats Yuan Shang's exhaustion and Ye dilemma as Cao Cao's opening.

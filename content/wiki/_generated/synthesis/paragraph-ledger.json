@@ -386,6 +386,7 @@
       "af15d280e7c015e96cf4ef5ac50dcdd94bc96d4bbdf0ab557078605604e41512",
       "c6c6df1754e9d754248222dcf13f82295a54a848651f4fcbadd3aa7ff62601b0",
       "0b9a6088836697345dfb5f2798ef943ff4ff564bee061dc51b566adb0d3969f1",
+      "c2e3fe8ce9ce3d5050fba2e6b136e324afb1e7e1cb2cd3ced9c1e988436fe78d",
       "c579b0c3102e48af519244d183c5c41e037740a37bf519bf5b0f4bf5ef849207",
       "56abb716e5b03c8a306adb1a6c6075e7f241a8cf33161741fecbd9f5b886bbb0",
       "c94dbb4bb11fbc67a68689063a003f4343a0087a9f4a369adf5930530cf3dce6",
@@ -397,10 +398,10 @@
       "4aec524162783153bd9de6fc8aaf28b4b45a60c3433caa62e6442f020af99d44",
       "5463cac3a05898616fdcdbe4bbf0fffe113a112bf4093056579dfb7f48e3eca2"
     ],
-    "paragraph_count": 395
+    "paragraph_count": 396
   },
-  "overview_commit": "792e4426905abafa96a49a07a18b671ac4196af9",
-  "overview_digest": "bae2b26c667928e4acb7ee38d122336ff04ddfd719544ed2d238ece6138ed176",
+  "overview_commit": "3c7645a7eaa506f977a849f0906002385989683a",
+  "overview_digest": "91b858af356475681bc1df6423a7bb8f36d50cbee77fbabf84d5c083479c22b8",
   "paragraphs": [
     {
       "id": "76439d5a84c3e146cc75ca3dd110deeb51c4dcd3e2e69896481f9ba03f15b1a2",
@@ -11919,6 +11920,31 @@
         "YuanTan",
         "zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg",
         "zizhi-tongjian-hanji-1059-yuanjia-xiongdi-neidou-liubiao-weihe-zhudong-dang-heshilao-lrgnhcx-fokuitrtfufdtzl1wfos"
+      ]
+    },
+    {
+      "id": "c2e3fe8ce9ce3d5050fba2e6b136e324afb1e7e1cb2cd3ced9c1e988436fe78d",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [
+        "work-education-and-society",
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1060-hai-si-yuanshao-hou-caocao-weihe-zhuantou-zhiyuan-tade-changzi-lldkbbzf8dmy21otbtqihc-oafx7|《资治通鉴·汉纪》1060丨害死袁绍后，曹操为何转头支援他的长子？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continuing Cao Cao's Jian'an 8 choice after Hanji 1059. It adds [[DisorderCollapseExploitation|取乱侮亡]], while extending [[XinPiLateHan|辛毗]], [[YuanTan|袁谭]], [[YuanShang|袁尚]], [[PressureReleaseInfightingStrategy|撤压诱发内斗]], [[PostVictoryThreatSequencing|胜后威胁排序]], and [[MutualExhaustionThirdPartyGain|两败俱伤、旁人得利]]. Its core synthesis is that the Yuan-family split has moved from a condition to watch into a condition to exploit: Xin Pi tells Cao Cao that Yuan Tan's plea, Yuan Shang's inability to finish him, adviser killings, territorial fracture, and famine make Hebei a better immediate target than wealthy but unexposed Jingzhou. No settled contradiction is recorded; Hanji 1059's Xun You emphasis and Hanji 1060's Xin Pi emphasis are treated as complementary parts of the same decision window, while the easy-victory forecast remains source-scoped until later campaign notes are integrated.",
+      "topic_scores": {
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "DisorderCollapseExploitation",
+        "MutualExhaustionThirdPartyGain",
+        "PostVictoryThreatSequencing",
+        "PressureReleaseInfightingStrategy",
+        "RuiqiJiangtouZizhiTongjian",
+        "XinPiLateHan",
+        "YuanShang",
+        "YuanTan",
+        "zizhi-tongjian-hanji-1060-hai-si-yuanshao-hou-caocao-weihe-zhuantou-zhiyuan-tade-changzi-lldkbbzf8dmy21otbtqihc-oafx7"
       ]
     },
     {
