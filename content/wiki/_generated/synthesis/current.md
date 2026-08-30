@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-31
-as_of_overview_commit: 1e26ad9c959cfc2ee7eb461a6ac26a1096456341
-summary: "Durable capacity comes from fitting tools, roles, institutions, evidence, culture, care, markets, and governance to real constraints, trust, feedback, and responsibility."
-episode_count: 1757
-source_count: 1757
-paragraph_count: 421
+as_of_overview_commit: af8ae17bc874b2ac7848bccba3fed9f3f11bd14c
+summary: "Durable capacity comes from fitting tools, roles, institutions, evidence, culture, care, markets, governance, and trust to real constraints and feedback."
+episode_count: 1760
+source_count: 1760
+paragraph_count: 422
 topic_count: 8
 ---
 
@@ -63,7 +63,7 @@ History and geopolitics connect Han frontier and court sequences, title legitima
 
 ### Psychology and Personal Development
 
-Psychology and personal-development sources treat self-command, emotion and music regulation, movement practice, abuse boundaries, risk sizing, authorship trust, and moral presence as context-bound practices.
+Psychology and personal-development sources treat self-command, emotion and music regulation, movement practice, abuse boundaries, risk sizing, authorship trust, command trust, and moral presence as context-bound practices.
 
 - [[neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716]] adds a functional emotion-regulation branch: [[EmotionsAsFunctionalControlStates]] treats emotions as useful control states for decision and motivation, while [[EmotionalGranularity]], [[CognitiveReappraisalEarlyIntervention]], [[AutonomicStressTraining]], and [[TaskSwitchingResidue]] frame regulation as monitoring, differentiating, reframing early, shaping environments, respecting body signals, and managing transition costs rather than removing emotion. Evidence: [[neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716]], [[EmotionsAsFunctionalControlStates]], [[EmotionalGranularity]], [[CognitiveReappraisalEarlyIntervention]], [[AutonomicStressTraining]], [[TaskSwitchingResidue]], [[EmotionRegulationToolkit]], [[BrainBodyEmotionMapping]].
 - [[essentials-how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim2090153799]] adds a discipline-centered self-command branch: [[DisciplineOverMotivation]] decouples needed action from current motivation, [[AutonomicStressTraining]] treats bodily discomfort as bounded practice, [[OperationalDetachment]] widens attention before decisions, and [[LeadershipEmotionalCounterweight]] with [[ActionAfterAdversity]] frame leadership and resilience as action after emotion rather than emotion-free control. Evidence: [[essentials-how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim2090153799]], [[JockoWillink]], [[DisciplineOverMotivation]], [[AutonomicStressTraining]], [[OperationalDetachment]], [[LeadershipEmotionalCounterweight]], [[ActionAfterAdversity]], [[EmotionRegulationToolkit]], [[MotivationRewardEffortCalculation]], [[AttentionCapacitySelection]].

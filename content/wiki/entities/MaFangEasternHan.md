@@ -7,14 +7,17 @@ sources:
   - zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf
   - zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt
   - zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297
+  - zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d
 last_updated: 2026-08-31
 ---
 
 ## Overview
 
-马防 / Ma Fang is a Zhangdi-era [[MaFamilyZhangEraEasternHan|Ma-family]] outer relative whose current profile combines real military success with the structural risk of giving imperial in-laws heavy command. [[zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf|Hanji 749]] makes him acting chariot-and-cavalry general against Qiang rebels despite [[FifthLunEasternHan|Fifth Lun]]'s warning, while [[zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt|Hanji 750]] and [[zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297|Hanji 752]] show his title, office restraint, later display, and demotion inside Ma-family patronage politics.
+马防 / Ma Fang is a Zhangdi-era [[MaFamilyZhangEraEasternHan|Ma-family]] outer relative whose profile now starts with early office-and-gift exposure, then moves into real military success and later overreach. [[zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d|Hanji 745]] places him in [[FifthLunEasternHan|Fifth Lun]]'s warning about Ma-family appointments, guest networks, and large private gifts; [[zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf|Hanji 749]] then makes him acting chariot-and-cavalry general against Qiang rebels despite a renewed warning, while [[zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt|Hanji 750]] and [[zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297|Hanji 752]] show his title, office restraint, later display, and demotion inside Ma-family patronage politics.
 
 ## Current Profile
+
+Hanji 745 supplies Ma Fang's earliest current layer. After [[EmperorZhangOfHan|Zhangdi]] succeeds [[EmperorMingOfHan|Mingdi]], he wants to appoint [[MaLiaoEasternHan|Ma Liao]] as weiwei, Ma Fang as zhonglangjiang, and Ma Guang as yueqi xiaowei. Fifth Lun sees officials and scholars crowding around the Ma household and reports that Ma Fang privately gives three million coins to Chang'an-area scholars, making Ma Fang an office-and-gift warning case before his later heavy command.
 
 Hanji 749 gives Ma Fang an earlier command layer than the Ma-family title sequence. When Qiang groups under Mi Wu and Buqiao attack Longxi and Hanyang, [[EmperorZhangOfHan|Zhangdi]] sends Ma Fang with Geng Gong and other generals despite Fifth Lun's warning that in-laws should not be placed in heavy office. Ma Fang defeats Buqiao near Lintao, kills or captures a reported four thousand-plus people, receives many submissions, and later forces Buqiao's surrender with more than ten thousand followers.
 
@@ -27,6 +30,7 @@ Hanji 752 supplies the later failure layer. After Empress Ma dies, Ma Fang and M
 ## Key Characteristics
 
 - Ma-family outer relative whose status comes from Zhangdi's recognition of Empress Ma as mother.
+- Early office-and-gift warning figure before his later Qiang command.
 - Qiang-campaign commander who defeats Buqiao and helps end the 76-78 CE revolt cycle.
 - Example of why military success does not remove the structural risk of in-law command.
 - Marquisate recipient who belongs to the early title-without-office restraint pattern.
@@ -35,6 +39,8 @@ Hanji 752 supplies the later failure layer. After Empress Ma dies, Ma Fang and M
 
 ## Evidence
 
+- Planned office exposure: [[zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d|Hanji 745]] says Zhangdi wants to appoint Ma Fang as zhonglangjiang while also promoting Ma Liao and Ma Guang.
+- Gift-network warning: [[zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d|Hanji 745]] says Fifth Lun reports Ma Fang's three-million-coin private gifts to Chang'an-area scholars as part of a wider Ma-family access problem.
 - Qiang command and victory: [[zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf|Hanji 749]] says Zhangdi sends Ma Fang against Mi Wu and Buqiao, and Ma Fang defeats Buqiao near Lintao with large reported kills, captures, and submissions.
 - Structural warning context: [[zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf|Hanji 749]] places Ma Fang's appointment immediately beside Fifth Lun's warning that relatives should not hold heavy offices because punishment and law will conflict.
 - Buqiao surrender and recall: [[zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf|Hanji 749]] says Buqiao later surrenders with more than ten thousand people, after which Zhangdi recalls Ma Fang and leaves Geng Gong in the field.
@@ -44,10 +50,11 @@ Hanji 752 supplies the later failure layer. After Empress Ma dies, Ma Fang and M
 
 ## Qualifications
 
-Ma Fang's current profile is not a full biography. Hanji 749 supports a bounded judgment: he is both a successful Qiang commander and the central example through which Fifth Lun's warning about in-law command becomes operational. The source does not establish that Ma Fang personally directed Geng Gong's impeachment; it only makes his prior offense and the monitor's guessed preference part of the accountability context. Ma Guang and Ma Yu remain source-scoped on this page unless later notes give them independent arcs.
+Ma Fang's current profile is not a full biography. Hanji 745 makes him an early office-and-gift warning case but does not by itself prove command abuse; Hanji 749 supports the bounded judgment that he is both a successful Qiang commander and the central example through which Fifth Lun's warning about in-law command becomes operational. The source does not establish that Ma Fang personally directed Geng Gong's impeachment; it only makes his prior offense and the monitor's guessed preference part of the accountability context. Ma Guang and Ma Yu remain source-scoped on this page unless later notes give them independent arcs.
 
 ## What Changed
 
+- Added Hanji 745 as Ma Fang's earliest office-and-gift exposure layer before the Qiang command story.
 - Created Ma Fang as a standalone page because Hanji 749 gives him independent command action before the existing Ma-family title and decline layers.
 - Connected his military success to Fifth Lun's outer-relative appointment warning rather than treating him only as a Ma-family caution.
 - Preserved the Geng Gong removal as an accountability shadow without asserting unproven direct instruction by Ma Fang.

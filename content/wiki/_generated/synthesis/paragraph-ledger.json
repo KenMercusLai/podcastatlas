@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "50b91013141ee289af61a6aafabf6ee8fb34faeb73495e3da1310b9ef3cf7f55",
       "1745c791e7ec19501ebd27a4c1e3bba5e60a579be2754ae0323f12c8e334f464",
       "dd951ea4029edaa84f38ca5b3253a456b3d8003f3b00d97b63aab6903469f430",
       "57a73bf890b331c40aea6ebc9bacd1f1cecf1e3245795fd642c9aab210273b3d",
@@ -423,11 +424,39 @@
       "12c2b57062376e50f472c6806ecb08714733b065e8db5d2b809f05f83d802f96",
       "2231d7cf4c1cf8ae29ee2ec0737334356ddcd78d5df4e6b306dab83b98b3febe"
     ],
-    "paragraph_count": 421
+    "paragraph_count": 422
   },
-  "overview_commit": "3a8aa740cdaf0781703c8702176307a135cfbd84",
-  "overview_digest": "2460538216cd4c527f793561f6d16f40d4b9d8b4f6962c00bfb1b32c1a733b78",
+  "overview_commit": "af8ae17bc874b2ac7848bccba3fed9f3f11bd14c",
+  "overview_digest": "7c4379d9f967c8fbf9d31b57ee65066da9436fffebf6f99f62cc24093adbd27a",
   "paragraphs": [
+    {
+      "id": "50b91013141ee289af61a6aafabf6ee8fb34faeb73495e3da1310b9ef3cf7f55",
+      "primary_topic": "psychology-and-personal-development",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d|《资治通鉴·汉纪》745丨东汉最血性之战：拯救大兵耿恭！]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 75 CE [[GengGongEasternHan|耿恭]] siege-and-rescue-decision layer before [[zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx|Hanji 746]]. It extends [[GengGongEasternHan|耿恭]], [[BaoYuEasternHan|鲍昱]], [[FifthLunEasternHan|第五伦]], [[EmperorZhangOfHan|汉章帝]], [[MaFamilyZhangEraEasternHan|马氏]], [[MaLiaoEasternHan|马廖]], [[MaFangEasternHan|马防]], [[NorthernXiongnuLateHan|北匈奴]], [[CheshiHouKingdomLateHan|车师]], [[RescueReciprocityCommandTrust|救援互惠式统帅信任]], and [[OuterRelativePreventiveRestraint|外戚预防性约束]]. Its core synthesis is that isolated-defense rescue is a state-credit problem: Bao Yu argues that abandoning Geng Gong and Guan Chong would encourage frontier enemies and wound loyal service, while Fifth Lun's Ma-family warning shows that office appointments, guests, and large gifts can become outer-relative risk before formal title or command crises mature. No settled contradiction is recorded; Guan Chong, Ma Guang, the exact Shule fortress geography, survivor counts, and the detailed rescue route remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 2,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "BaoYuEasternHan",
+        "CheshiHouKingdomLateHan",
+        "EmperorZhangOfHan",
+        "FifthLunEasternHan",
+        "GengGongEasternHan",
+        "MaFamilyZhangEraEasternHan",
+        "MaFangEasternHan",
+        "MaLiaoEasternHan",
+        "NorthernXiongnuLateHan",
+        "OuterRelativePreventiveRestraint",
+        "RescueReciprocityCommandTrust",
+        "RuiqiJiangtouZizhiTongjian",
+        "zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d",
+        "zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx"
+      ]
+    },
     {
       "id": "1745c791e7ec19501ebd27a4c1e3bba5e60a579be2754ae0323f12c8e334f464",
       "primary_topic": "ai-and-technology",

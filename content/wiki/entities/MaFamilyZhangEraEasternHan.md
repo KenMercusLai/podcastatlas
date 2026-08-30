@@ -8,16 +8,19 @@ sources:
   - zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt
   - zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf
   - zizhi-tongjian-hanji-748-laozuzong-de-zhonggao-qinqi-bugongcai-gongcai-liangwulai-luqvnld4wbdgc3nrdumyhfhscs4z
+  - zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d
 last_updated: 2026-08-31
 ---
 
 ## Overview
 
-The Zhang-era Ma family is the outer-relative household whose profile now starts with blocked title privilege before moving through exemplar governance, military command, title-with-office restraint, and lost-patronage exposure. [[zizhi-tongjian-hanji-748-laozuzong-de-zhonggao-qinqi-bugongcai-gongcai-liangwulai-luqvnld4wbdgc3nrdumyhfhscs4z|Hanji 748]] shows [[EmpressMaMingdeEasternHan|Empress Ma]] preventing [[EmperorZhangOfHan|Zhangdi]] from enfeoffing his Ma-family maternal uncles and disciplining household display, [[zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf|Hanji 749]] shows [[MaLiaoEasternHan|Ma Liao]] advising Empress Ma on elite example while [[MaFangEasternHan|Ma Fang]] receives heavy Qiang command despite Fifth Lun's warning, [[zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt|Hanji 750]] shows the family receiving marquisates but leaving office, and [[zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297|Hanji 752]] uses the family as the main example of why formerly protected people must lower display and discipline guests.
+The Zhang-era Ma family is the outer-relative household whose profile now starts with early office and gift-network risk before moving through blocked title privilege, exemplar governance, military command, title-with-office restraint, and lost-patronage exposure. [[zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d|Hanji 745]] shows [[FifthLunEasternHan|Fifth Lun]] warning that [[MaLiaoEasternHan|Ma Liao]], [[MaFangEasternHan|Ma Fang]], and Ma Guang are gaining office while their household attracts guests and distributes large gifts. [[zizhi-tongjian-hanji-748-laozuzong-de-zhonggao-qinqi-bugongcai-gongcai-liangwulai-luqvnld4wbdgc3nrdumyhfhscs4z|Hanji 748]] then shows [[EmpressMaMingdeEasternHan|Empress Ma]] preventing [[EmperorZhangOfHan|Zhangdi]] from enfeoffing his Ma-family maternal uncles and disciplining household display. [[zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf|Hanji 749]] shows Ma Liao advising Empress Ma on elite example while Ma Fang receives heavy Qiang command despite Fifth Lun's warning, [[zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt|Hanji 750]] shows the family receiving marquisates but leaving office, and [[zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297|Hanji 752]] uses the family as the main example of why formerly protected people must lower display and discipline guests.
 
 ## Current Profile
 
-The family appears through several members rather than a single policy program. Hanji 748 gives the earliest current layer. Zhangdi wants to enfeoff several maternal uncles from Empress Ma's natal family, but Empress Ma refuses by invoking Former Han outer-relative failure, Guangwu and Mingdi precedent, and the Ma brothers' inadequate merit. She then treats the family's behavior as part of the same political risk: she cuts brothers' annual allowances, orders strict punishment for Ma relatives who use kinship to disturb government, and has Ma Liao correct an over-height family burial mound.
+The family appears through several members rather than a single policy program. Hanji 745 gives the earliest current risk signal. Zhangdi wants to appoint Ma Liao as weiwei, Ma Fang as zhonglangjiang, and Ma Guang as yueqi xiaowei after [[EmpressMaMingdeEasternHan|Empress Ma]]'s brothers had remained unpromoted under Mingdi. Officials and scholars begin attaching themselves to the Ma household, and Fifth Lun reports large Ma-family distributions of cloth, cash, sheep, grain, and meat to capital elites. The source treats these gifts as a danger because private generosity can become status-purchase and political dependency when joined to office.
+
+Hanji 748 then gives the preventive-title layer. Zhangdi wants to enfeoff several maternal uncles from Empress Ma's natal family, but Empress Ma refuses by invoking Former Han outer-relative failure, Guangwu and Mingdi precedent, and the Ma brothers' inadequate merit. She then treats the family's behavior as part of the same political risk: she cuts brothers' annual allowances, orders strict punishment for Ma relatives who use kinship to disturb government, and has Ma Liao correct an over-height family burial mound.
 
 Hanji 749 gives two next layers. Ma Liao writes to Empress Ma that court and capital elites must visibly model frugality if lower officials are to imitate it. In the same episode, Zhangdi sends Ma Fang as acting chariot-and-cavalry general against Qiang rebels despite Fifth Lun's warning that relatives should not receive heavy offices. Ma Fang's victories over Buqiao prove capacity, while Geng Gong's later impeachment after offending Ma Fang leaves an accountability shadow.
 
@@ -30,15 +33,17 @@ The political arc is fast once the household loses protection. [[YangZhongEaster
 ## Key Characteristics
 
 - Outer-relative household honored because Zhangdi recognizes Empress Ma as his mother but initially blocked from title privilege by Empress Ma herself.
-- Family whose earliest current layer is preventive discipline over enfeoffment, allowances, tomb scale, and kinship interference.
+- Family whose earliest current layer is Fifth Lun's warning about office access, guest accumulation, and large gift distribution.
+- Family then subjected to Empress Ma's preventive discipline over enfeoffment, allowances, tomb scale, and kinship interference.
 - Family whose next layer pairs Ma Liao's exemplar warning with Ma Fang's risky heavy command.
-- Family whose Hanji 750 layer tries to separate noble title from direct court office.
 - Formerly protected household whose safety declines after Empress Ma's death.
 - Family whose wealth, guests, residences, horses, and frontier exactions become political liabilities.
 - Household where Ma Liao's personal caution does not prevent younger relatives' overreach.
 
 ## Evidence
 
+- Office and guest-network warning: [[zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d|Hanji 745]] says Zhangdi plans posts for Ma Liao, Ma Fang, and Ma Guang, while officials and scholars compete to attach themselves to the Ma household.
+- Gift-distribution signal: [[zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d|Hanji 745]] reports Fifth Lun's warning about Ma Liao's cloth, Ma Fang's cash, and Ma Guang's sacrificial-season distributions to capital elites.
 - Blocked enfeoffment: [[zizhi-tongjian-hanji-748-laozuzong-de-zhonggao-qinqi-bugongcai-gongcai-liangwulai-luqvnld4wbdgc3nrdumyhfhscs4z|Hanji 748]] says Empress Ma stops Zhangdi from enfeoffing Ma-family maternal uncles by citing outer-relative precedent and the brothers' insufficient merit.
 - Household and legal restraint: [[zizhi-tongjian-hanji-748-laozuzong-de-zhonggao-qinqi-bugongcai-gongcai-liangwulai-luqvnld4wbdgc3nrdumyhfhscs4z|Hanji 748]] records allowance cuts, a warning that Ma relatives disturbing government must be punished by law, and correction of the family tomb-height violation through Ma Liao.
 - Luxury as warning sign: [[zizhi-tongjian-hanji-748-laozuzong-de-zhonggao-qinqi-bugongcai-gongcai-liangwulai-luqvnld4wbdgc3nrdumyhfhscs4z|Hanji 748]] contrasts Empress Ma's austerity with Ma-family and royal-relative display, making household style part of political evidence.
@@ -52,15 +57,15 @@ The political arc is fast once the household loses protection. [[YangZhongEaster
 
 ## Qualifications
 
-This page aggregates the Ma household because the sources develop a family-risk pattern more than separate full biographies for every member. Hanji 748 strengthens the family profile but still leaves the exact identities of some brothers and memorial authors source-scoped. Hanji 749 gives Ma Fang enough independent profile for a standalone page, but Ma Guang and Ma Yu remain source-scoped until additional source notes give them independent arcs. Hanji 750 shows genuine early restraint, so Hanji 752 should be read as a later failure of continuity rather than proof that the family was always openly reckless. Hanji 749 also shows Ma Fang's real military success, so Fifth Lun's warning is structural rather than a claim of incompetence.
+This page aggregates the Ma household because the sources develop a family-risk pattern more than separate full biographies for every member. Hanji 745 strengthens the earliest risk layer but does not yet prove the family has captured court power; it shows the warning signs of office access, guest attachment, and gift distribution. Hanji 748 strengthens the family profile but still leaves the exact identities of some brothers and memorial authors source-scoped. Hanji 749 gives Ma Fang enough independent profile for a standalone page, but Ma Guang and Ma Yu remain source-scoped until additional source notes give them independent arcs. Hanji 750 shows genuine early restraint, so Hanji 752 should be read as a later failure of continuity rather than proof that the family was always openly reckless. Hanji 749 also shows Ma Fang's real military success, so Fifth Lun's warning is structural rather than a claim of incompetence.
 
 ## What Changed
 
+- Added Hanji 745 as the earliest Ma-family risk signal: planned office appointments, guest attachment, and large gifts.
 - Added Hanji 748 as the earliest Ma-family restraint layer: blocked enfeoffment, allowance cuts, legal limits, tomb correction, and luxury warning.
 - Reframed Hanji 749 as the later exemplar-and-command layer for Ma Liao and Ma Fang.
 - Preserved Ma Fang's standalone status from Hanji 749's independent Qiang campaign and appointment-risk role.
 - Reframed Hanji 750 as honor-with-restraint after earlier preventive discipline.
-- Reframed Hanji 752 decline as failure to sustain restraint after Empress Ma's protection disappears.
 
 ## Relationships
 
@@ -68,6 +73,7 @@ This page aggregates the Ma household because the sources develop a family-risk 
 - [[MaLiaoEasternHan|马廖]] - senior member who advises on exemplar governance, accepts title, resigns office, and later fails to discipline the family.
 - [[MaFangEasternHan|马防]] - member whose Qiang command, title, and later exposure carry the family's appointment-risk profile.
 - [[YangZhongEasternHan|杨终]] - warning voice who identifies the household's danger before the fall.
+- [[FifthLunEasternHan|第五伦]] - early warning voice who flags office access, guests, and gifts before later command-risk and anti-Dou warnings.
 - [[EmperorZhangOfHan|汉章帝]] - ruler whose appointment, rewards, restrictions, and removals shape the family's arc.
 - [[OuterRelativePreventiveRestraint|外戚预防性约束]] - concept grounded by the family's first blocked enfeoffment and household discipline layer.
 - [[TopDownExemplarGovernance|上行下效式政风治理]] - concept grounded by Ma Liao's early warning about elite example.

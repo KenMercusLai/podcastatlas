@@ -14055,6 +14055,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-31] ingest | 《资治通鉴·汉纪》745丨东汉最血性之战：拯救大兵耿恭！
+
+Ingested the 2026-06-27 芮淇讲透资治通鉴 episode on Geng Gong's 75 CE Shule-fortress siege, his refusal of Northern Xiongnu surrender, Bao Yu's argument that rescue protects frontier credit and loyal-service morale, Zhangdi's reinforcement decision through Hexi and Shanshan forces, and Fifth Lun's early warning about Ma-family office and gift networks. Created the source note; updated `BaoYuEasternHan`, `GengGongEasternHan`, `FifthLunEasternHan`, `MaFamilyZhangEraEasternHan`, `MaLiaoEasternHan`, `MaFangEasternHan`, `EmperorZhangOfHan`, `RescueReciprocityCommandTrust`, `OuterRelativePreventiveRestraint`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; Guan Chong, Ma Guang, the exact Shule fortress geography, survivor counts, and rescue-route details remain source-scoped.
+
 ## [2026-08-31] ingest | 《资治通鉴·汉纪》746丨什么样的领导，值得被死心塌追随？
 
 Ingested the 2026-06-27 芮淇讲透资治通鉴 episode on Zhangdi's accepted remonstrance, Bao Yu's Chu-case redress, Yang Zhong's people-burden argument against inherited frontier policy, Chen Chong's anti-harshness advice, and Fan Qiang's rescue of Geng Gong. Created the source note plus `BaoYuEasternHan`, `FanQiangEasternHan`, `ZhengZhongFrontierEasternHan`, and `ReceptiveRemonstranceGovernance`; updated `EmperorZhangOfHan`, `GengGongEasternHan`, `YangZhongEasternHan`, `ChenChongLateHan`, `RescueReciprocityCommandTrust`, `index`, and `overview`. No settled contradiction found; 杨忠 is normalized to 杨终, the frontier commander 郑众 is kept distinct from the later eunuch Zheng Zhong, and Mou Rong, Duan Peng, Wang Meng, Shule-fortress geography, route details, and force counts remain source-scoped.
@@ -14090,6 +14094,10 @@ Ran health, identity validation, and lint. Health scanned 16,310 wiki pages with
 ## [2026-08-31] ingest | 《资治通鉴·汉纪》749丨管理人必看：发奖金是管理的最佳手段吗？
 
 Ingested the 2026-06-28 芮淇讲透资治通鉴 episode on bonus incentives, top-down exemplar governance, Ma Liao's warning to Empress Ma, Qiang official-abuse escalation, Ma Fang and Geng Gong's Qiang campaign, Fifth Lun's warning against in-law command, Deng Xun's cancellation of the Hutuo/Shijiu canal project, Ban Chao's Shicheng attack, and Zhangdi keeping royal brothers in the capital. Created the source note plus `MaFangEasternHan`, `GengGongEasternHan`, `BuqiaoQiangLeader`, `TopDownExemplarGovernance`, `OuterRelativeCommandAppointmentRisk`, `QiangOfficialAbuseRebellionTrigger`, and `InfeasiblePublicWorksCancellation`; updated `EmperorZhangOfHan`, `EmpressMaMingdeEasternHan`, `MaLiaoEasternHan`, `MaFamilyZhangEraEasternHan`, `FifthLunEasternHan`, `DengXunEasternHan`, `BanChaoEasternHan`, `MiWuQiangLeader`, `EmpressDowagerDouHeLateHan`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; 滇吾 is not linked to the later `DianWuQiang` page, and Zong Yan, Liu Yu, Si Ye, Dou Xun, exact Qiang/canal figures, Liu Xian/Liu Gong/Liu Dang, and Ma Fang's precise role in Geng Gong's impeachment remain source-scoped.
+
+## [2026-08-31] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-31] lint | Wiki health check
 

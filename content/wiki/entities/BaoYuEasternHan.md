@@ -5,16 +5,19 @@ knowledge_schema: synthesis-v1
 tags: [person, eastern-han, minister, remonstrance, justice, court-politics]
 sources:
   - zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx
+  - zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d
 last_updated: 2026-08-31
 ---
 
 ## Overview
 
-鲍昱 / Bao Yu enters the wiki as the Zhangdi-era minister whose drought answer turns disaster consultation into practical redress for people implicated in the Chu-king case. His profile is not simple policy softness: the same source later places him among ministers resisting Yang Zhong's frontier retrenchment advice.
+鲍昱 / Bao Yu is a Zhangdi-era minister whose current profile combines frontier rescue advocacy with later disaster-framed legal redress. [[zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d|Hanji 745]] makes him the Situ who argues that rescuing [[GengGongEasternHan|Geng Gong]] and Guan Chong protects state credit and loyal-service morale, while [[zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx|Hanji 746]] shows his drought answer turning the Chu-king implication cases into concrete redress.
 
 ## Current Profile
 
-Hanji 746 presents Bao Yu as Situ when [[EmperorZhangOfHan|Zhangdi]] asks how to respond to drought. Bao does not directly demand a full reversal of the Chu-king case. Instead, he says wrongful implication is likely widespread and recommends allowing exiles to return home and removing the ban that keeps them from office.
+Hanji 745 gives Bao Yu's earlier rescue layer. When Guan Chong requests aid for the isolated Western Regions defenders, [[FifthLunEasternHan|Fifth Lun]] opposes dispatching troops. Bao Yu argues the opposite: [[NorthernXiongnuLateHan|Northern Xiongnu]] has failed to take two small Han positions for months, so it is tired, and abandoning the defenders would externally embolden frontier enemies while internally injuring those who die for Han. [[EmperorZhangOfHan|Zhangdi]] accepts the argument and orders reinforcements from Zhangye, Jiuquan, Dunhuang, and Shanshan.
+
+Hanji 746 then presents Bao Yu as Situ when Zhangdi asks how to respond to drought. Bao does not directly demand a full reversal of the Chu-king case. Instead, he says wrongful implication is likely widespread and recommends allowing exiles to return home and removing the ban that keeps them from office.
 
 Zhangdi accepts the recommendation, so Bao's importance in the source is both rhetorical and administrative. He identifies a human cause of political grievance under the language of drought response and converts it into a limited but concrete remedy.
 
@@ -23,6 +26,8 @@ The same episode keeps Bao Yu politically mixed. In the later debate over Northe
 ## Key Characteristics
 
 - Zhangdi-era senior minister consulted during the 76 CE drought.
+- Rescue advocate who treats isolated frontier defenders as a test of Han credit and loyal-service morale.
+- Strategic reasoner who reads prolonged enemy failure as evidence that relief may be feasible.
 - Uses disaster-response language to reopen wrongful-implication and exile policy.
 - Favors a limited remedy that avoids a direct institutional humiliation of the ruler.
 - Persuades Zhangdi to convert counsel into return-home and office-ban relief.
@@ -30,6 +35,9 @@ The same episode keeps Bao Yu politically mixed. In the later debate over Northe
 
 ## Evidence
 
+- Rescue debate: [[zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d|Hanji 745]] says Bao Yu argues for sending aid after Guan Chong requests rescue for the isolated commanders.
+- State-credit argument: [[zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d|Hanji 745]] has Bao Yu warn that non-rescue would encourage frontier enemies and wound loyal ministers who face death.
+- Accepted rescue policy: [[zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d|Hanji 745]] says Zhangdi accepts Bao's proposal and dispatches multi-commandery and Shanshan forces.
 - Drought consultation: [[zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx|Hanji 746]] says Zhangdi asks Bao Yu how to remove the drought condition.
 - Wrongful-implication diagnosis: [[zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx|Hanji 746]] says Bao Yu links drought anxiety to the Chu-king case and argues many implicated people were likely wronged.
 - Concrete remedy: [[zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx|Hanji 746]] says Bao recommends letting exiles return and lifting the official-service ban.
@@ -38,16 +46,19 @@ The same episode keeps Bao Yu politically mixed. In the later debate over Northe
 
 ## Qualifications
 
-This page is bounded to Hanji 746 and does not reconstruct Bao Yu's full career. The source supports a strong claim about his advice-framing in the Chu-king aftermath, but it does not make him uniformly lenient or uniformly anti-expedition.
+This page is bounded to Hanji 746 and Hanji 745 and does not reconstruct Bao Yu's full career. Hanji 745 supports a rescue-credit argument, not a general claim that every isolated force should always be relieved. Hanji 746 supports a strong claim about his advice-framing in the Chu-king aftermath, but it does not make him uniformly lenient or uniformly anti-expedition.
 
 ## What Changed
 
-- Created Bao Yu as a Zhangdi-era minister whose drought answer produces legal redress.
-- Preserved his later disagreement with Yang Zhong as a qualification to any simplified "burden relief" profile.
+- Added Hanji 745 as Bao Yu's earlier rescue-debate layer.
+- Reframed Bao Yu as both a state-credit rescue advocate and a later legal-redress remonstrant.
+- Preserved his later disagreement with Yang Zhong as a qualification to any simplified "burden relief" or anti-frontier profile.
 
 ## Relationships
 
 - [[EmperorZhangOfHan|汉章帝]] - ruler who asks Bao Yu about drought and accepts his redress proposal.
+- [[GengGongEasternHan|耿恭]] - isolated commander whose relief Bao Yu advocates.
+- [[RescueReciprocityCommandTrust|救援互惠式统帅信任]] - adjacent concept because Bao frames rescue as loyalty-preserving state conduct.
 - [[ReceptiveRemonstranceGovernance|纳谏转政策式治理]] - concept modeled by Bao's accepted advice becoming policy.
 - [[AdviceFramingUnderHierarchy|等级场景中的进言包装]] - related communication pattern because Bao uses an indirect route to make reversal acceptable.
 - [[RootCauseRemonstrance|根源诊断式进谏]] - adjacent pattern because Bao treats drought consultation as a cause-and-remedy opening around wrongful punishment.

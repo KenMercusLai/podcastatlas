@@ -3630,9 +3630,9 @@
       "url": "/wiki/entities/banzhaolatehan/"
     },
     "BaoYuEasternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》746丨什么样的领导，值得被死心塌追随？ [lvHBdgfbC69T6sdw92K4dIpII_RX].md",
@@ -3640,6 +3640,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》746丨什么样的领导，值得被死心塌追随？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》745丨东汉最血性之战：拯救大兵耿恭！ [lhG3ppPaOVL5mXaWgmJ-DGJGTh4D].md",
+          "key": "zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》745丨东汉最血性之战：拯救大兵耿恭！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d/"
         }
       ],
       "updated": "2026-08-31",
@@ -11166,9 +11173,9 @@
       "url": "/wiki/entities/emperorshunofhan/"
     },
     "EmperorZhangOfHan": {
-      "episode_count": 14,
+      "episode_count": 15,
       "show_count": 1,
-      "source_note_count": 14,
+      "source_note_count": 15,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》770丨沉默的真相：皇帝的生母竟是她 [lu5dqu8Uuw277IkZXkBLVqDbPL3q].md",
@@ -11267,6 +11274,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》746丨什么样的领导，值得被死心塌追随？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》745丨东汉最血性之战：拯救大兵耿恭！ [lhG3ppPaOVL5mXaWgmJ-DGJGTh4D].md",
+          "key": "zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》745丨东汉最血性之战：拯救大兵耿恭！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d/"
         }
       ],
       "updated": "2026-08-31",
@@ -13136,9 +13150,9 @@
       "url": "/wiki/concepts/fictionashistoricalevidence/"
     },
     "FifthLunEasternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》756丨为什么劝你得饶人处且饶人？ [ltN4TqZy1D_SoDhJIDnCv8DyqxPJ].md",
@@ -13167,6 +13181,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》749丨管理人必看：发奖金是管理的最佳手段吗？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》745丨东汉最血性之战：拯救大兵耿恭！ [lhG3ppPaOVL5mXaWgmJ-DGJGTh4D].md",
+          "key": "zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》745丨东汉最血性之战：拯救大兵耿恭！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d/"
         }
       ],
       "updated": "2026-08-31",
@@ -14507,9 +14528,9 @@
       "url": "/wiki/entities/gengchenglinruhoulatehan/"
     },
     "GengGongEasternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》749丨管理人必看：发奖金是管理的最佳手段吗？ [lnhHOH0oxlStuWaKl3rsqvcsS_Cf].md",
@@ -14524,6 +14545,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》746丨什么样的领导，值得被死心塌追随？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》745丨东汉最血性之战：拯救大兵耿恭！ [lhG3ppPaOVL5mXaWgmJ-DGJGTh4D].md",
+          "key": "zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》745丨东汉最血性之战：拯救大兵耿恭！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d/"
         }
       ],
       "updated": "2026-08-31",
@@ -23972,9 +24000,9 @@
       "url": "/wiki/entities/mpwrai/"
     },
     "MaFamilyZhangEraEasternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》752丨失去靠山的人该如何处世？ [lt0QB7aLYh0IPf6mK8hVz92cS297].md",
@@ -24003,15 +24031,22 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》748丨老祖宗的忠告： 亲戚不共财，共财两无来！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-748-laozuzong-de-zhonggao-qinqi-bugongcai-gongcai-liangwulai-luqvnld4wbdgc3nrdumyhfhscs4z/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》745丨东汉最血性之战：拯救大兵耿恭！ [lhG3ppPaOVL5mXaWgmJ-DGJGTh4D].md",
+          "key": "zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》745丨东汉最血性之战：拯救大兵耿恭！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d/"
         }
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/mafamilyzhangeraeasternhan/"
     },
     "MaFangEasternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》749丨管理人必看：发奖金是管理的最佳手段吗？ [lnhHOH0oxlStuWaKl3rsqvcsS_Cf].md",
@@ -24033,6 +24068,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》752丨失去靠山的人该如何处世？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》745丨东汉最血性之战：拯救大兵耿恭！ [lhG3ppPaOVL5mXaWgmJ-DGJGTh4D].md",
+          "key": "zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》745丨东汉最血性之战：拯救大兵耿恭！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d/"
         }
       ],
       "updated": "2026-08-31",
@@ -24062,9 +24104,9 @@
       "url": "/wiki/entities/mahaoning/"
     },
     "MaLiaoEasternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》752丨失去靠山的人该如何处世？ [lt0QB7aLYh0IPf6mK8hVz92cS297].md",
@@ -24093,6 +24135,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》748丨老祖宗的忠告： 亲戚不共财，共财两无来！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-748-laozuzong-de-zhonggao-qinqi-bugongcai-gongcai-liangwulai-luqvnld4wbdgc3nrdumyhfhscs4z/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》745丨东汉最血性之战：拯救大兵耿恭！ [lhG3ppPaOVL5mXaWgmJ-DGJGTh4D].md",
+          "key": "zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》745丨东汉最血性之战：拯救大兵耿恭！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d/"
         }
       ],
       "updated": "2026-08-31",
@@ -27802,9 +27851,9 @@
       "url": "/wiki/concepts/outerrelativecourtpower/"
     },
     "OuterRelativePreventiveRestraint": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》748丨老祖宗的忠告： 亲戚不共财，共财两无来！ [luqVnlD4wBDgC3NRDUmyHFHSCs4Z].md",
@@ -27812,6 +27861,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》748丨老祖宗的忠告： 亲戚不共财，共财两无来！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-748-laozuzong-de-zhonggao-qinqi-bugongcai-gongcai-liangwulai-luqvnld4wbdgc3nrdumyhfhscs4z/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》745丨东汉最血性之战：拯救大兵耿恭！ [lhG3ppPaOVL5mXaWgmJ-DGJGTh4D].md",
+          "key": "zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》745丨东汉最血性之战：拯救大兵耿恭！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d/"
         }
       ],
       "updated": "2026-08-31",
@@ -31156,9 +31212,9 @@
       "url": "/wiki/concepts/reputationlistpersecutiontarget/"
     },
     "RescueReciprocityCommandTrust": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1030丨手握好牌，公孙瓒为何打得稀烂？ [lpKntYOv4viqYzGXgcUjN36qHv8_].md",
@@ -31180,6 +31236,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》746丨什么样的领导，值得被死心塌追随？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》745丨东汉最血性之战：拯救大兵耿恭！ [lhG3ppPaOVL5mXaWgmJ-DGJGTh4D].md",
+          "key": "zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》745丨东汉最血性之战：拯救大兵耿恭！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d/"
         }
       ],
       "updated": "2026-08-31",
