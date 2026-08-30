@@ -15211,6 +15211,10 @@
     "title": "窦笃 / Dou Du (Eastern Han)",
     "url": "/wiki/entities/doudueasternhan/"
   },
+  "DouGuEasternHan": {
+    "title": "窦固 / Dou Gu (Eastern Han)",
+    "url": "/wiki/entities/dougueasternhan/"
+  },
   "DouGuiEasternHan": {
     "title": "窦瑰 / Dou Gui (Eastern Han)",
     "url": "/wiki/entities/douguieasternhan/"
@@ -30847,6 +30851,10 @@
     "title": "Liu Ming-Yu / 刘洺堉",
     "url": "/wiki/entities/liumingyu/"
   },
+  "LiuMuBeihaiKing": {
+    "title": "北海王刘睦 / Liu Mu, Beihai King",
+    "url": "/wiki/entities/liumubeihaiking/"
+  },
   "LiuNaLateHan": {
     "title": "刘纳 / Liu Na (late Han)",
     "url": "/wiki/entities/liunalatehan/"
@@ -43548,7 +43556,7 @@
     "url": "/wiki/entities/ritan/"
   },
   "RitualAffectiveOrder": {
-    "title": "Ritual Affective Order / 仪式感秩序生成",
+    "title": "仪式感秩序生成 / Ritual Affective Order",
     "url": "/wiki/concepts/ritualaffectiveorder/"
   },
   "RitualAmbushCountercoup": {
@@ -45298,6 +45306,10 @@
   "SelfDefeatingResourceDrainStrategy": {
     "title": "Self-Defeating Resource-Drain Strategy / 疲敌反强敌",
     "url": "/wiki/concepts/selfdefeatingresourcedrainstrategy/"
+  },
+  "SelfDeprecatingPoliticalSurvival": {
+    "title": "自污式政治自保 / Self-Deprecating Political Survival",
+    "url": "/wiki/concepts/selfdeprecatingpoliticalsurvival/"
   },
   "SelfDirectedLearning": {
     "title": "Self-Directed Learning",
@@ -63506,6 +63518,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-743-chuo-ren-xinwo-de-lishi-shunjian-mingdi-liuzhuang-de-wenqing-meng-lgwtuqtug5bh90qohwiskccx77hy": {
+    "title": "《资治通鉴·汉纪》743丨戳人心窝的历史瞬间：明帝刘庄的温情梦",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-743-chuo-ren-xinwo-de-lishi-shunjian-mingdi-liuzhuang-de-wenqing-meng-lgwtuqtug5bh90qohwiskccx77hy/"
   },
   "zizhi-tongjian-hanji-744-dahan-genggong-qiusheng-caipu-jingrang-beiye-wangchenmoji-lvsumpsnpb1tpk7t0xrx7vatd5mx": {
     "title": "《资治通鉴·汉纪》744丨大汉耿恭求生菜谱，竟让贝爷望尘莫及？",

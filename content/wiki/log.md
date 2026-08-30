@@ -14059,6 +14059,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-31] ingest | 《资治通鉴·汉纪》743丨戳人心窝的历史瞬间：明帝刘庄的温情梦
+
+Ingested the 2026-06-27 芮淇讲透资治通鉴 episode on Mingdi's 74 CE dream of his parents and Yuanling mourning, Liu Mu's royal-kin self-protection through self-deprecation, Bao Yu's Situ appointment, Ban Chao's Shule intervention against Qiuci-backed Duti, Geng Bing and Dou Gu's Cheshi campaign, and the restoration of Western Regions offices. Created the source note plus `LiuMuBeihaiKing`, `DouGuEasternHan`, and `SelfDeprecatingPoliticalSurvival`; updated `EmperorMingOfHan`, `BaoYuEasternHan`, `BanChaoEasternHan`, `WangZhongShuleKing`, `ShuleKingdom`, `QiuciKingdom`, `GengBingEasternHan`, `CheshiHouKingdomLateHan`, `RitualAffectiveOrder`, `StrategicForbearanceGovernance`, `FrontierProxyConquestStrategy`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; Chen Mu, Liu Zhang, Tian Lu, Duti, Pantuo, Bailang/Tangzhui, exact poems, and detailed garrison-office chronology remain source-scoped.
+
 ## [2026-08-31] ingest | 《资治通鉴·汉纪》745丨东汉最血性之战：拯救大兵耿恭！
 
 Ingested the 2026-06-27 芮淇讲透资治通鉴 episode on Geng Gong's 75 CE Shule-fortress siege, his refusal of Northern Xiongnu surrender, Bao Yu's argument that rescue protects frontier credit and loyal-service morale, Zhangdi's reinforcement decision through Hexi and Shanshan forces, and Fifth Lun's early warning about Ma-family office and gift networks. Created the source note; updated `BaoYuEasternHan`, `GengGongEasternHan`, `FifthLunEasternHan`, `MaFamilyZhangEraEasternHan`, `MaLiaoEasternHan`, `MaFangEasternHan`, `EmperorZhangOfHan`, `RescueReciprocityCommandTrust`, `OuterRelativePreventiveRestraint`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; Guan Chong, Ma Guang, the exact Shule fortress geography, survivor counts, and rescue-route details remain source-scoped.
@@ -14130,6 +14134,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-31] ingest | EP93 眼见恒大起高楼，转眼首富入高墙
 
 Ingested the 2026-08-30 一劳永逸 episode on Evergrande and Xu Jiayin's rise and collapse: low-price fast sales, presale financing, high-turnover leverage, Hong Kong listing credit, dollar bonds, perpetual bonds, commercial paper, Evergrande Wealth, strategic-investor pressure, three red lines, supplier defaults, unfinished homes, delisting, and liquidation. Created the source note plus `EvergrandeWealth`, `RenZeping`, `RealEstateHighTurnoverLeverage`, `HousingPresaleFinancingRisk`, `DeveloperHiddenDebtStack`, `ThreeRedLinesPolicy`, and `GuaranteedHomeDeliveryCrisis`; updated `Evergrande`, `XuJiayin`, `ChinaRealEstateDebtCycle`, `index`, and `overview`. No settled contradiction found; legal punishment, debt totals, owner counts, delivery progress, and possible side agreements remain source-scoped episode claims.
+
+## [2026-08-31] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-31] lint | Wiki health check
 

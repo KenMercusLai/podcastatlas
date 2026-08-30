@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 6070
+wiki_total_pages: 6071
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1745,6 +1745,9 @@ wiki_pages:
   - key: "SelfProtectiveAccessionChoice"
     title: "自保式继位选择 / Self-Protective Accession Choice"
     url: "/wiki/concepts/selfprotectiveaccessionchoice/"
+  - key: "SelfDeprecatingPoliticalSurvival"
+    title: "自污式政治自保 / Self-Deprecating Political Survival"
+    url: "/wiki/concepts/selfdeprecatingpoliticalsurvival/"
   - key: "SettingBasedMystery"
     title: "设定系推理 / Setting-Based Mystery"
     url: "/wiki/concepts/settingbasedmystery/"

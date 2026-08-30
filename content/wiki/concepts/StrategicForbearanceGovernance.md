@@ -8,7 +8,8 @@ sources:
   - zizhi-tongjian-hanji-755-zhege-chaodai-huangshang-jiu-kaishi-guli-shengwa-le-lj7bdkxkdtjhpo469yxhskjyfdco
   - zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2
   - zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297
-last_updated: 2026-08-30
+  - zizhi-tongjian-hanji-743-chuo-ren-xinwo-de-lishi-shunjian-mingdi-liuzhuang-de-wenqing-meng-lgwtuqtug5bh90qohwiskccx77hy
+last_updated: 2026-08-31
 ---
 
 ## Definition
@@ -17,7 +18,9 @@ last_updated: 2026-08-30
 
 ## Current Synthesis
 
-Hanji 754 broadens the concept before the Hanji 755-756 frontier debate. In the Taixue speech case, [[LiangYuEasternHan|Liang Yu]] reports [[KongXiEasternHan|Kong Xi]] and [[CuiYinEasternHan|Cui Yin]] for defaming imperial reputation, but [[EmperorZhangOfHan|Emperor Zhang]] stops the case and appoints Kong Xi. This is forbearance applied to speech: refusing to punish historically grounded criticism preserves correction capacity and avoids making educated discussion collapse into fear.
+Hanji 743 adds an early frontier mercy case. [[BanChaoEasternHan|Ban Chao]] first uses coercion decisively: he has Duti arrested, denounces Qiuci's interference, and installs a locally legitimate Shule successor. But after establishing control, he rejects local calls to kill Duti and releases him to show Han grace and authority to [[QiuciKingdom|Qiuci]]. This is forbearance after dominance, not weakness before conflict.
+
+Hanji 754 broadens the concept to speech. In the Taixue speech case, [[LiangYuEasternHan|Liang Yu]] reports [[KongXiEasternHan|Kong Xi]] and [[CuiYinEasternHan|Cui Yin]] for defaming imperial reputation, but [[EmperorZhangOfHan|Emperor Zhang]] stops the case and appoints Kong Xi. This is forbearance applied to criticism: refusing to punish historically grounded critique preserves correction capacity and avoids making educated discussion collapse into fear.
 
 The same source supplies the market-contact setup for the Xiongnu branch. [[NorthernXiongnuLateHan|Northern Xiongnu]] asks for mutual trade; [[MengYunEasternHan|Meng Yun]] memorializes, Zhangdi approves, and Northern Xiongnu bring livestock before [[SouthernXiongnu|Southern Xiongnu]] raid and seize many animals. Hanji 755 then makes the credibility risk explicit: Meng Yun warns that keeping the gains could make Northern Xiongnu think Han had lured them into reconciliation and then betrayed them. [[ZhengHongEasternHan|Zheng Hong]] and [[FifthLunEasternHan|Fifth Lun]] oppose restitution, while [[HuanYuEasternHan|Huan Yu]] and [[YuanAnEasternHan|Yuan An]] support it.
 
@@ -29,13 +32,15 @@ Hanji 752 adds a boundary case. Zhangdi's decision to make [[DouXianEasternHan|D
 
 - Forbearance can preserve speech and correction capacity when accusation would otherwise silence historically grounded criticism.
 - Forbearance can preserve decision capacity when court conflict would otherwise push capable officials out of office.
-- Leaving room is strategic only when it protects a future asset such as cooperation, credibility, submission, information, speech, or withdrawal.
-- Frontier restraint can require compensating one partner's immediate gains to preserve trust with another frontier actor.
+- Leaving room is strategic only when it protects a future asset such as cooperation, credibility, speech, information, legitimacy, or withdrawal.
+- Frontier restraint can require returning a defeated or captured actor after control has already been established.
+- Frontier restraint can also require compensating one partner's immediate gains to preserve trust with another frontier actor.
 - The pattern depends on judgment: bribed defection, false surrender, active deception, or known protected wrongdoing may require sanction rather than leniency.
 - The concept differs from simple kindness because it evaluates what the state gains or loses by exhausting the other side's room to move.
 
 ## Evidence
 
+- Duti release after control: [[zizhi-tongjian-hanji-743-chuo-ren-xinwo-de-lishi-shunjian-mingdi-liuzhuang-de-wenqing-meng-lgwtuqtug5bh90qohwiskccx77hy|Hanji 743]] says Ban Chao arrests Duti, installs Zhong, and then releases Duti to show Han grace and authority to Qiuci.
 - Speech-space preservation: [[zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2|Hanji 754]] says Emperor Zhang stops pursuing the Taixue historical-critique case and appoints Kong Xi after his defense.
 - Market-contact setup: [[zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2|Hanji 754]] says Meng Yun's Wuwei memorial supports Northern Xiongnu mutual trade before Southern Xiongnu raid the livestock contact.
 - Policy setup and credibility warning: [[zizhi-tongjian-hanji-755-zhege-chaodai-huangshang-jiu-kaishi-guli-shengwa-le-lj7bdkxkdtjhpo469yxhskjyfdco|Hanji 755]] says Meng Yun warns that Southern Xiongnu gains against Northern Xiongnu could make Han look deceptive if captives and livestock are not returned.
@@ -48,16 +53,18 @@ Hanji 752 adds a boundary case. Zhangdi's decision to make [[DouXianEasternHan|D
 
 ## Counterevidence & Qualifications
 
-This concept is source-bounded and should not be generalized into a universal preference for softness. Hanji 754 shows that forbearance can protect speech but also that accusation still begins the case. Hanji 755 shows that forbearance can look unfair to a frontier partner that has just won a fight, and Hanji 756 contrasts Zhangdi and Zhang Yu's restrained choices with Ban Chao's coercive counter-deception. Hanji 752 sharpens the boundary: when wrongdoing is known and protected, restraint without sanction can weaken deterrence rather than preserve a future asset.
+This concept is source-bounded and should not be generalized into a universal preference for softness. Hanji 743 shows forbearance only after Ban Chao has already neutralized Duti and restored Shule's line. Hanji 754 shows that forbearance can protect speech but also that accusation still begins the case. Hanji 755 shows that forbearance can look unfair to a frontier partner that has just won a fight, and Hanji 756 contrasts Zhangdi and Zhang Yu's restrained choices with Ban Chao's coercive counter-deception. Hanji 752 sharpens the boundary: when wrongdoing is known and protected, restraint without sanction can weaken deterrence rather than preserve a future asset.
 
 ## What Changed
 
-- Added Hanji 752 as a negative boundary case: Zhangdi's Dou Xian response is restraint but not strategic forbearance.
-- Clarified that forbearance requires a preserved cooperation, credibility, speech, information, or withdrawal path.
+- Added Hanji 743 as an earlier positive frontier case: Duti is released after Ban Chao restores local control.
+- Clarified that strategic forbearance can preserve legitimacy and signaling room as well as speech, credibility, and cooperation.
 - Preserved Hanji 754-756 as the positive speech, court-deliberation, frontier-restitution, and captive-release evidence base.
+- Preserved Hanji 752 as a negative boundary case where non-punishment protects impunity rather than a future public asset.
 
 ## Related Concepts
 
+- [[FrontierProxyConquestStrategy]] - related frontier strategy because Ban Chao's Duti release follows a local-line replacement move.
 - [[HistoricalCritiqueTolerance|据史批评容忍]] - speech-specific form where ruler restraint preserves historically grounded correction.
 - [[FrontierTrustThroughProtection|保护换信任式边疆安抚]] - adjacent frontier mechanism where restraint or protection creates usable trust.
 - [[LightTouchFrontierGovernance|宽简边疆治理]] - related frontier-governance style that depends on credibility rather than maximal coercion.

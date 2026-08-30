@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 8516
+wiki_total_pages: 8518
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -1001,6 +1001,9 @@ wiki_pages:
   - key: "DuKangMap"
     title: "督亢地图 / Du Kang Map"
     url: "/wiki/entities/dukangmap/"
+  - key: "DouGuEasternHan"
+    title: "窦固 / Dou Gu (Eastern Han)"
+    url: "/wiki/entities/dougueasternhan/"
   - key: "DouXianEasternHan"
     title: "窦宪 / Dou Xian (Eastern Han)"
     url: "/wiki/entities/douxianeasternhan/"
