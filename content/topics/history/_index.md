@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1511
+topic_total_pages: 1512
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1315,6 +1315,9 @@ topic_concepts:
   - key: "HistoricalComplexityAgainstLabels"
     title: "拒绝历史人物标签 / Historical Complexity Against Labels"
     url: "/wiki/concepts/historicalcomplexityagainstlabels/"
+  - key: "HistoricalCritiqueTolerance"
+    title: "据史批评容忍 / Historical Critique Tolerance"
+    url: "/wiki/concepts/historicalcritiquetolerance/"
   - key: "ChuaimoTechnique"
     title: "揣摩 / Chuaimo Technique"
     url: "/wiki/concepts/chuaimotechnique/"

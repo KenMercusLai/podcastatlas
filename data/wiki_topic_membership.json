@@ -27723,6 +27723,18 @@
       "url": "/topics/history/"
     }
   ],
+  "HistoricalCritiqueTolerance": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "HistoricalDetectiveReasoning": [
     {
       "key": "history",
@@ -38311,6 +38323,11 @@
     }
   ],
   "MengYunEasternHan": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
     {
       "key": "politics",
       "label": "Politics",

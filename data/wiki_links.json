@@ -2791,6 +2791,10 @@
     "title": "Action Against Anxiety",
     "url": "/wiki/concepts/actionagainstanxiety/"
   },
+  "ActionBackedAntiCorruptionPersuasion": {
+    "title": "行动托底式反腐劝诫 / Action-Backed Anti-Corruption Persuasion",
+    "url": "/wiki/concepts/actionbackedanticorruptionpersuasion/"
+  },
   "ActionDefinesIdentity": {
     "title": "Action Defines Identity",
     "url": "/wiki/concepts/actiondefinesidentity/"
@@ -23319,6 +23323,10 @@
     "title": "拒绝历史人物标签 / Historical Complexity Against Labels",
     "url": "/wiki/concepts/historicalcomplexityagainstlabels/"
   },
+  "HistoricalCritiqueTolerance": {
+    "title": "据史批评容忍 / Historical Critique Tolerance",
+    "url": "/wiki/concepts/historicalcritiquetolerance/"
+  },
   "HistoricalDetectiveReasoning": {
     "title": "Historical Detective Reasoning",
     "url": "/wiki/concepts/historicaldetectivereasoning/"
@@ -30095,6 +30103,10 @@
     "title": "梁衍 / Liang Yan (late Han)",
     "url": "/wiki/entities/liangyanlatehan/"
   },
+  "LiangYuEasternHan": {
+    "title": "梁玉 / Liang Yu (Eastern Han)",
+    "url": "/wiki/entities/liangyueasternhan/"
+  },
   "LiangYusheng": {
     "title": "梁羽生 / Liang Yusheng",
     "url": "/wiki/entities/liangyusheng/"
@@ -32546,6 +32558,10 @@
   "MaoWenchao": {
     "title": "毛文超 / Mao Wenchao",
     "url": "/wiki/entities/maowenchao/"
+  },
+  "MaoYiEasternHan": {
+    "title": "毛毅 / Mao Yi (Eastern Han)",
+    "url": "/wiki/entities/maoyieasternhan/"
   },
   "MaocaoYuanxingzhe": {
     "title": "猫草 / Maocao",
@@ -53491,6 +53507,10 @@
     "title": "王忠 / Wang Zhong (late Han)",
     "url": "/wiki/entities/wangzhonglatehan/"
   },
+  "WangZhongShuleKing": {
+    "title": "王忠 / Wang Zhong (Shule king)",
+    "url": "/wiki/entities/wangzhongshuleking/"
+  },
   "WangZhongwen": {
     "title": "王仲闻 / Wang Zhongwen",
     "url": "/wiki/entities/wangzhongwen/"
@@ -63150,6 +63170,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2": {
+    "title": "《资治通鉴·汉纪》754丨古代版窃听风云，结局爽文",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2/"
   },
   "zizhi-tongjian-hanji-755-zhege-chaodai-huangshang-jiu-kaishi-guli-shengwa-le-lj7bdkxkdtjhpo469yxhskjyfdco": {
     "title": "《资治通鉴·汉纪》755丨这个朝代皇上就开始鼓励生娃了！",

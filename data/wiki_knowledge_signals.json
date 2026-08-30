@@ -1351,6 +1351,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/actionafteradversity/"
     },
+    "ActionBackedAntiCorruptionPersuasion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》754丨古代版窃听风云，结局爽文 [ltvYmH_2r-iC5DiQfh-2Ic9CUDQ2].md",
+          "key": "zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》754丨古代版窃听风云，结局爽文",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/actionbackedanticorruptionpersuasion/"
+    },
     "ActionableOrganizationalValues": {
       "episode_count": 1,
       "show_count": 1,
@@ -3325,9 +3341,9 @@
       "url": "/wiki/entities/baimarelieflatehan/"
     },
     "BanChaoEasternHan": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》780丨最多灾多难的时代：东汉 [lvGCuMRFJbLrOFER532EES3TDOa_].md",
@@ -3391,6 +3407,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》756丨为什么劝你得饶人处且饶人？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-756-weishenme-quan-ni-de-rao-ren-chu-qie-rao-ren-ltn4tqzy1d-sodhjidncv8dyqxpj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》754丨古代版窃听风云，结局爽文 [ltvYmH_2r-iC5DiQfh-2Ic9CUDQ2].md",
+          "key": "zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》754丨古代版窃听风云，结局爽文",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2/"
         }
       ],
       "updated": "2026-08-30",
@@ -7365,9 +7388,9 @@
       "url": "/wiki/entities/cuiyanlatehan/"
     },
     "CuiYinEasternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》759丨人性各种欲望，最可怕的是权力欲 [lhUJid-1aSI0U96JJVstnj76bt4J].md",
@@ -7375,6 +7398,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》759丨人性各种欲望，最可怕的是权力欲",
           "url": "/wiki/sources/zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》754丨古代版窃听风云，结局爽文 [ltvYmH_2r-iC5DiQfh-2Ic9CUDQ2].md",
+          "key": "zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》754丨古代版窃听风云，结局爽文",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2/"
         }
       ],
       "updated": "2026-08-30",
@@ -10809,9 +10839,9 @@
       "url": "/wiki/entities/emperorshunofhan/"
     },
     "EmperorZhangOfHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》770丨沉默的真相：皇帝的生母竟是她 [lu5dqu8Uuw277IkZXkBLVqDbPL3q].md",
@@ -10847,6 +10877,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》755丨这个朝代皇上就开始鼓励生娃了！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-755-zhege-chaodai-huangshang-jiu-kaishi-guli-shengwa-le-lj7bdkxkdtjhpo469yxhskjyfdco/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》754丨古代版窃听风云，结局爽文 [ltvYmH_2r-iC5DiQfh-2Ic9CUDQ2].md",
+          "key": "zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》754丨古代版窃听风云，结局爽文",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2/"
         }
       ],
       "updated": "2026-08-30",
@@ -15760,6 +15797,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/historicalcomplexityagainstlabels/"
     },
+    "HistoricalCritiqueTolerance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》754丨古代版窃听风云，结局爽文 [ltvYmH_2r-iC5DiQfh-2Ic9CUDQ2].md",
+          "key": "zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》754丨古代版窃听风云，结局爽文",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/historicalcritiquetolerance/"
+    },
     "HistoricalPrecedentCrisisPlanning": {
       "episode_count": 1,
       "show_count": 1,
@@ -19429,9 +19482,9 @@
       "url": "/wiki/entities/kongrongmother/"
     },
     "KongXiEasternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》755丨这个朝代皇上就开始鼓励生娃了！ [lj7bdkxKdTJHPO469yXHSkJyFdCo].md",
@@ -19439,6 +19492,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》755丨这个朝代皇上就开始鼓励生娃了！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-755-zhege-chaodai-huangshang-jiu-kaishi-guli-shengwa-le-lj7bdkxkdtjhpo469yxhskjyfdco/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》754丨古代版窃听风云，结局爽文 [ltvYmH_2r-iC5DiQfh-2Ic9CUDQ2].md",
+          "key": "zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》754丨古代版窃听风云，结局爽文",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2/"
         }
       ],
       "updated": "2026-08-30",
@@ -20844,6 +20904,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/liangshanglatehan/"
+    },
+    "LiangYuEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》754丨古代版窃听风云，结局爽文 [ltvYmH_2r-iC5DiQfh-2Ic9CUDQ2].md",
+          "key": "zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》754丨古代版窃听风云，结局爽文",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/liangyueasternhan/"
     },
     "LiangzhouLateHan": {
       "episode_count": 3,
@@ -23556,6 +23632,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/maoronglatehan/"
     },
+    "MaoYiEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》754丨古代版窃听风云，结局爽文 [ltvYmH_2r-iC5DiQfh-2Ic9CUDQ2].md",
+          "key": "zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》754丨古代版窃听风云，结局爽文",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/maoyieasternhan/"
+    },
     "MarkCarney": {
       "episode_count": 2,
       "show_count": 1,
@@ -23978,9 +24070,9 @@
       "url": "/wiki/entities/mengyan/"
     },
     "MengYunEasternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》755丨这个朝代皇上就开始鼓励生娃了！ [lj7bdkxKdTJHPO469yXHSkJyFdCo].md",
@@ -23988,6 +24080,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》755丨这个朝代皇上就开始鼓励生娃了！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-755-zhege-chaodai-huangshang-jiu-kaishi-guli-shengwa-le-lj7bdkxkdtjhpo469yxhskjyfdco/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》754丨古代版窃听风云，结局爽文 [ltvYmH_2r-iC5DiQfh-2Ic9CUDQ2].md",
+          "key": "zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》754丨古代版窃听风云，结局爽文",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2/"
         }
       ],
       "updated": "2026-08-30",
@@ -31718,9 +31817,9 @@
       "url": "/wiki/entities/shubokhotanlatehan/"
     },
     "ShuleKingdom": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》897丨职场必读！什么才叫领导力？ [lvRRMkSykaZLSb7W8aBbdmNqfzQQ].md",
@@ -31735,6 +31834,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》790丨历史告诉你：如何和领导打交道？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》754丨古代版窃听风云，结局爽文 [ltvYmH_2r-iC5DiQfh-2Ic9CUDQ2].md",
+          "key": "zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》754丨古代版窃听风云，结局爽文",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2/"
         }
       ],
       "updated": "2026-08-30",
@@ -32732,9 +32838,9 @@
       "url": "/wiki/concepts/strategicemotionconcealment/"
     },
     "StrategicForbearanceGovernance": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》756丨为什么劝你得饶人处且饶人？ [ltN4TqZy1D_SoDhJIDnCv8DyqxPJ].md",
@@ -32749,6 +32855,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》755丨这个朝代皇上就开始鼓励生娃了！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-755-zhege-chaodai-huangshang-jiu-kaishi-guli-shengwa-le-lj7bdkxkdtjhpo469yxhskjyfdco/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》754丨古代版窃听风云，结局爽文 [ltvYmH_2r-iC5DiQfh-2Ic9CUDQ2].md",
+          "key": "zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》754丨古代版窃听风云，结局爽文",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2/"
         }
       ],
       "updated": "2026-08-30",
@@ -36786,6 +36899,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/wangzhonglatehan/"
+    },
+    "WangZhongShuleKing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》754丨古代版窃听风云，结局爽文 [ltvYmH_2r-iC5DiQfh-2Ic9CUDQ2].md",
+          "key": "zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》754丨古代版窃听风云，结局爽文",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/wangzhongshuleking/"
     },
     "WangmenTouzhi": {
       "episode_count": 2,
@@ -41853,9 +41982,9 @@
       "url": "/wiki/entities/zhenghongeasternhan/"
     },
     "ZhengJunEasternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》755丨这个朝代皇上就开始鼓励生娃了！ [lj7bdkxKdTJHPO469yXHSkJyFdCo].md",
@@ -41863,6 +41992,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》755丨这个朝代皇上就开始鼓励生娃了！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-755-zhege-chaodai-huangshang-jiu-kaishi-guli-shengwa-le-lj7bdkxkdtjhpo469yxhskjyfdco/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》754丨古代版窃听风云，结局爽文 [ltvYmH_2r-iC5DiQfh-2Ic9CUDQ2].md",
+          "key": "zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》754丨古代版窃听风云，结局爽文",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2/"
         }
       ],
       "updated": "2026-08-30",

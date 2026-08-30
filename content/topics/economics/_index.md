@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 1876
+topic_total_pages: 1877
 topic_concepts:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -4748,6 +4748,9 @@ topic_entities:
   - key: "KongXiangxi"
     title: "孔祥熙"
     url: "/wiki/entities/kongxiangxi/"
+  - key: "MengYunEasternHan"
+    title: "孟云 / Meng Yun (Eastern Han)"
+    url: "/wiki/entities/mengyuneasternhan/"
   - key: "SongZiwen"
     title: "宋子文"
     url: "/wiki/entities/songziwen/"

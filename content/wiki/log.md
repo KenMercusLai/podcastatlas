@@ -14001,3 +14001,11 @@ Ingested the 2026-06-29 芮淇讲透资治通鉴 episode on Emperor Zhang's fert
 ## [2026-08-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-30] ingest | 《资治通鉴·汉纪》754丨古代版窃听风云，结局爽文
+
+Ingested the 2026-06-29 芮淇讲透资治通鉴 episode on Kong Xi and Cui Yin being reported by Liang Yu for Taixue discussion of Han Wudi, Emperor Zhang's refusal to punish fact-based historical criticism, Mao Yi and Zheng Jun's integrity stories, the Northern Xiongnu trade opening disrupted by Southern Xiongnu, and Ban Chao's containment of Wang Zhong's Shule defection. Created the source note plus `LiangYuEasternHan`, `MaoYiEasternHan`, `WangZhongShuleKing`, `HistoricalCritiqueTolerance`, and `ActionBackedAntiCorruptionPersuasion`; updated `EmperorZhangOfHan`, `KongXiEasternHan`, `CuiYinEasternHan`, `ZhengJunEasternHan`, `MengYunEasternHan`, `BanChaoEasternHan`, `ShuleKingdom`, `StrategicForbearanceGovernance`, and `index`. No settled contradiction found; 孔熙 is normalized to the Eastern Han `KongXiEasternHan`/孔僖 route, 崔彤 to `CuiYinEasternHan`/崔骃, and Shache, Kangju, He Gong, the modern corruption notice, and exact Wujicheng details remain source-scoped.
+
+## [2026-08-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

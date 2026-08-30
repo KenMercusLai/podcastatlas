@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 8477
+wiki_total_pages: 8480
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -1319,6 +1319,9 @@ wiki_pages:
   - key: "MaoHuiLateHan"
     title: "毛晖 / Mao Hui (late Han)"
     url: "/wiki/entities/maohuilatehan/"
+  - key: "MaoYiEasternHan"
+    title: "毛毅 / Mao Yi (Eastern Han)"
+    url: "/wiki/entities/maoyieasternhan/"
   - key: "MaoJie"
     title: "毛玠 / Mao Jie"
     url: "/wiki/entities/maojie/"

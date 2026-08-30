@@ -2,35 +2,38 @@
 title: "崔骃 / Cui Yin (Eastern Han)"
 type: entity
 knowledge_schema: synthesis-v1
-tags: [person, eastern-han, adviser, scholarship, court-politics]
+tags: [person, eastern-han, adviser, scholarship, court-politics, speech]
 sources:
   - zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j
+  - zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2
 last_updated: 2026-08-30
 ---
 
 ## Overview
 
-崔骃 / Cui Yin enters the wiki as a learned adviser whose position under [[DouXianEasternHan|Dou Xian]] is deliberately ambivalent. Hanji 759 presents him warning Dou that outer relatives who inherit rank and favor often become arrogant and fall, while also becoming one of the talents Dou attracts and then using palace procedure to protect Dou from royal-prince pressure.
+崔骃 / Cui Yin now has an earlier Taixue speech layer and a later Dou Xian service layer. Hanji 754 presents him as [[KongXiEasternHan|Kong Xi]]'s co-discussant in a historical-critique case reported by [[LiangYuEasternHan|Liang Yu]]. Hanji 759 presents him warning [[DouXianEasternHan|Dou Xian]] about outer-relative arrogance while still becoming one of the talents Dou attracts and uses.
 
 ## Current Profile
 
-Hanji 759 makes Cui Yin a source for both moral warning and technical service. He tells Dou Xian that nobles born into wealth often become careless about danger, and that Han outer relatives have repeatedly suffered because they did not restrain arrogance. The warning fits the episode's broader claim that the most dangerous desire is the desire for power.
+Hanji 754 makes Cui Yin part of the speech-boundary case. He and Kong Xi discuss Emperor Wu's early virtues and later failures at Taixue; Liang Yu reports the conversation as defamation. Kong Xi's memorial supplies the source's explicit defense, but Cui's role matters because the accusation covers both learned discussants and shows how scholarly historical evaluation can be converted into risk.
 
-The same source also shows why the warning does not automatically become resistance. Dou Xian treats talent respectfully and greets Cui Yin with the episode's "躧履迎门" image, while Cui and [[BanGuEasternHan|Ban Gu]] gather under Dou. Cui then proposes using [[DengBiaoEasternHan|Deng Biao]] as Taifu so Deng can handle writing and memorial procedure while Dou reports to [[EmpressDowagerDouHeLateHan|Empress Dowager Dou]].
+Hanji 759 then gives Cui Yin a more developed court-politics profile. He tells Dou Xian that nobles born into wealth often become careless about danger and that Han outer relatives repeatedly suffer because they fail to restrain arrogance. The warning fits the episode's broader claim that the desire for power is especially dangerous.
 
-Cui's most consequential act is procedural. When five princes jointly ask the court to punish Dou Xian after the Han Yu revenge killing, Cui and other advisers draft a fake edict ordering the princes back to their fiefs. His profile therefore sits between literati remonstrance, talent absorption, and complicity in outer-relative damage control.
+The same source also shows why the warning does not automatically become resistance. Dou treats talent respectfully, and Cui and [[BanGuEasternHan|Ban Gu]] gather under him. Cui proposes using [[DengBiaoEasternHan|Deng Biao]] as Taifu so Deng can process writing and memorial procedure while Dou reports to [[EmpressDowagerDouHeLateHan|Empress Dowager Dou]]. When five princes ask the court to punish Dou after the Han Yu revenge killing, Cui and other advisers draft a fake edict sending the princes back to their fiefs.
 
 ## Key Characteristics
 
-- Learned Eastern Han adviser attached to Dou Xian before the later campaign branch.
-- Directly warns Dou Xian that outer-relative privilege tends toward arrogance and disaster.
-- Example of talent attracted by respectful treatment even under a dangerous powerholder.
-- Helps create a Taifu-Shangshu procedural channel through Deng Biao.
-- Uses edict procedure to neutralize five princes' pressure against Dou Xian.
+- Learned Eastern Han figure first visible as a Taixue discussant in a reported historical-critique case.
+- Co-accused with Kong Xi when imperial-history discussion is reframed as slander.
+- Adviser who warns Dou Xian that outer-relative privilege tends toward arrogance and disaster.
+- Talent attracted by respectful treatment even under a dangerous powerholder.
+- Procedural helper who helps create the Deng Biao channel and fake-edict protection for Dou.
 - Ambivalent figure whose insight does not prevent service to a growing Dou-family bloc.
 
 ## Evidence
 
+- Taixue speech role: [[zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2|Hanji 754]] says Cui Yin and Kong Xi discuss Emperor Wu's record and are reported by Liang Yu.
+- Speech-risk result: [[zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2|Hanji 754]] makes their discussion the occasion for Kong Xi's defense that historical record should not be treated as invented slander.
 - Warning to Dou: [[zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j|Hanji 759]] says Cui Yin tells Dou Xian that those born noble and wealthy usually become arrogant and that Han outer relatives often end badly.
 - Talent attraction: [[zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j|Hanji 759]] says Dou Xian can attract talent and receives Cui Yin with extraordinary courtesy.
 - Procedural design: [[zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j|Hanji 759]] says Cui Yin suggests placing Deng Biao as Taifu and using him to process documents and reports.
@@ -38,15 +41,19 @@ Cui's most consequential act is procedural. When five princes jointly ask the co
 
 ## Qualifications
 
-This page is bounded to Hanji 759 and does not reconstruct Cui Yin's full biography, literary career, family line, or later reception. The current judgment is about his source role: he understands the risk of outer-relative arrogance but is still used inside Dou Xian's court network.
+This page remains bounded to Hanji 754 and Hanji 759. It does not reconstruct Cui Yin's full biography, literary career, family line, or later reception. The Hanji 754 transcript form 崔彤 is normalized to the existing Cui Yin/崔骃 route because the Taixue speech episode points to the same Eastern Han scholar, but that spelling remains a source-transcript caution.
 
 ## What Changed
 
-- Created Cui Yin as a new bounded Eastern Han entity from Hanji 759.
-- Marked his role as both warning voice and procedural helper rather than treating him as a simple opponent of Dou Xian.
+- Added Hanji 754 as an earlier Taixue historical-critique layer.
+- Reframed Cui Yin as both a vulnerable learned discussant and a later ambivalent Dou Xian adviser.
+- Preserved the Hanji 759 judgment that insight into outer-relative danger does not make Cui a simple opponent of Dou.
 
 ## Relationships
 
+- [[KongXiEasternHan|孔僖]] - Taixue co-discussant in the Hanji 754 speech case.
+- [[LiangYuEasternHan|梁玉]] - informer whose report turns Cui and Kong Xi's discussion into accusation.
+- [[HistoricalCritiqueTolerance|据史批评容忍]] - concept tested by the reported discussion.
 - [[DouXianEasternHan|窦宪]] - powerholder whom Cui warns, serves, and helps shield from royal-prince pressure.
 - [[DengBiaoEasternHan|邓彪]] - formal Taifu figure whom Cui recommends as Dou's procedural channel.
 - [[BanGuEasternHan|班固]] - fellow talent gathered under Dou Xian in the same source layer.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》754丨古代版窃听风云，结局爽文](sources/zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2.md) — 芮淇讲透资治通鉴 episode on Kong Xi and Cui Yin's accused Taixue speech, Emperor Zhang's tolerance, Mao Yi and Zheng Jun's integrity stories, Xiongnu trade conflict, and Ban Chao's Shule counter-defection.
 - [《资治通鉴·汉纪》755丨这个朝代皇上就开始鼓励生娃了！](sources/zizhi-tongjian-hanji-755-zhege-chaodai-huangshang-jiu-kaishi-guli-shengwa-le-lj7bdkxkdtjhpo469yxhskjyfdco.md) — 芮淇讲透资治通鉴 episode on Emperor Zhang's fertility relief, low-disturbance local governance, ritual travel, teacher honor, Liu Cang mourning, and the first Southern/Northern Xiongnu restitution debate.
 - [《资治通鉴·汉纪》756丨为什么劝你得饶人处且饶人？](sources/zizhi-tongjian-hanji-756-weishenme-quan-ni-de-rao-ren-chu-qie-rao-ren-ltn4tqzy1d-sodhjidncv8dyqxpj.md) — 芮淇讲透资治通鉴 episode on Emperor Zhang's forbearance, Zheng Hong's anti-Dou remonstrance, Fifth Lun's self-scrutiny, Zhang Yu's release of Hao Wu, and Ban Chao's Shule counter-deception.
 - [《资治通鉴·汉纪》757丨人生想少走弯路？先找准定位！](sources/zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x.md) — 芮淇讲透资治通鉴 episode on Guo Gong's legal fit, Cao Bao's ritual commission, Fu Yu and Zhang Yu's Qiang-frontier failures, Mi Tang's coalition, and He Chang's omen skepticism.
@@ -1755,10 +1756,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
-- [郑均 / Zheng Jun (Eastern Han)](entities/ZhengJunEasternHan.md) — White-clothed Shangshu figure honored by Emperor Zhang and used by Hanji 755 as an anti-corruption integrity example.
-- [孔僖 / Kong Xi (Eastern Han)](entities/KongXiEasternHan.md) — Confucius descendant whose modest answer at Zhangdi's Qufu sacrifice earns appointment and is kept distinct from Kong Xi / 孔熙.
+- [梁玉 / Liang Yu (Eastern Han)](entities/LiangYuEasternHan.md) — Taixue informer whose report against Kong Xi and Cui Yin creates Hanji 754's fact-based historical-critique case.
+- [毛毅 / Mao Yi (Eastern Han)](entities/MaoYiEasternHan.md) — Eastern Han integrity figure whose apparent office-seeking is reinterpreted as filial conduct after he refuses office following his mother's death.
+- [王忠 / Wang Zhong (Shule king)](entities/WangZhongShuleKing.md) — Shule ruler whose Shache-backed defection is contained by Ban Chao through replacement, attack, and Kangju-mediated return.
+- [郑均 / Zheng Jun (Eastern Han)](entities/ZhengJunEasternHan.md) — White-clothed Shangshu figure whose labor-backed anti-corruption persuasion and later imperial honor make clean conduct publicly legible.
+- [孔僖 / Kong Xi (Eastern Han)](entities/KongXiEasternHan.md) — Taixue historical-critique defender and Confucius descendant whose Zhangdi-era speech and ritual answers earn appointment.
 - [东平王刘苍 / Liu Cang, Dongping King](entities/LiuCangDongpingKing.md) — Emperor Zhang's deceased uncle whose house, tomb, and loyal retainers structure Hanji 755's royal-memory scene.
-- [孟云 / Meng Yun (Eastern Han)](entities/MengYunEasternHan.md) — Wuwei administrator who frames the 85 CE Xiongnu captive-and-livestock issue as a Han credibility problem.
+- [孟云 / Meng Yun (Eastern Han)](entities/MengYunEasternHan.md) — Wuwei administrator who supports Northern Xiongnu trade contact and later frames Southern Xiongnu gains as a Han credibility problem.
 - [桓虞 / Huan Yu (Eastern Han)](entities/HuanYuEasternHan.md) — Situ on the pro-restitution side of the Hanji 755 Southern/Northern Xiongnu policy debate.
 - [郑洪 / Zheng Hong (Eastern Han)](entities/ZhengHongEasternHan.md) — Eastern Han taiwei whose policy dispute, early anti-Dou warnings, retaliatory counteraccusation, and final memorial make him a death-facing remonstrance figure.
 - [第五伦 / Fifth Lun (Eastern Han)](entities/FifthLunEasternHan.md) — Eastern Han senior official whose clean officeholding and horse-gift self-scrutiny turn integrity into private-motive vigilance.
@@ -1773,7 +1777,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Patricia Resnick](entities/PatriciaResnick.md) — Screenwriter who translated clerical workers' office stories into the "9 to 5" script.
 - [9to5](entities/NineToFiveOrganization.md) — Clerical-worker labor organization that converted office grievances into national organizing and union campaigns.
 - [9 to 5 (1980 film)](entities/NineToFiveFilm.md) — Workplace comedy built from 9to5's office-worker movement and later used as an organizing amplifier.
-- [崔骃 / Cui Yin (Eastern Han)](entities/CuiYinEasternHan.md) — Eastern Han adviser whose warning, talent-service role, and fake-edict strategy make literati service ambivalent under Dou Xian's power.
+- [崔骃 / Cui Yin (Eastern Han)](entities/CuiYinEasternHan.md) — Eastern Han scholar first exposed in a Taixue speech case and later made ambivalent by warning, serving, and shielding Dou Xian.
 - [邓彪 / Deng Biao (Eastern Han)](entities/DengBiaoEasternHan.md) — Taifu figure used as a formal procedure channel for Dou Xian's Shangshu-facing and dowager-facing action.
 - [耿秉 / Geng Bing (Eastern Han)](entities/GengBingEasternHan.md) — Frontier general who supports using Southern Xiongnu against Northern Xiongnu before serving as Dou Xian's deputy.
 - [宋意 / Song Yi (Eastern Han)](entities/SongYiEasternHan.md) — Shangshu whose anti-expedition memorial argues from campaign cost, jimi policy, Xianbei incentives, and Northern Xiongnu outer-screen logic.
@@ -1830,7 +1834,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [于除 / 俞厨 / Yu Chu (Northern Xiongnu)](entities/YuChuNorthernXiongnu.md) — Dou Xian-sponsored Northern Xiongnu claimant whose recognition request creates a frontier-credibility dispute before his later defection and destruction.
 - [清河王刘庆 / Liu Qing (Qinghe king)](entities/LiuQingQingheKing.md) — Eastern Han royal relative whose post-Dou caution precedes his Song Guiren sacrifice request after Liang Guiren's redress; kept distinct from modern Liu Qing.
 - [宋贵人 / Song Guiren (Zhang-He era)](entities/SongGuirenZhangHeLateHan.md) — Liu Qing's mother and parallel Dou Taihou victim whose recognition takes the narrower form of seasonal sacrifices.
-- [汉章帝 / Emperor Zhang of Han](entities/EmperorZhangOfHan.md) — Eastern Han emperor whose profile includes fertility relief, low-disturbance local governance, court-speech preservation, Xiongnu restitution, farming care, legal leniency, ritual sponsorship, royal-kin overfavor, and later tomb-order disputes.
+- [汉章帝 / Emperor Zhang of Han](entities/EmperorZhangOfHan.md) — Eastern Han emperor whose profile includes historical-critique tolerance, fertility relief, low-disturbance local governance, court-speech preservation, Xiongnu restitution, farming care, legal leniency, ritual sponsorship, royal-kin overfavor, and later tomb-order disputes.
 - [蔡伦 / Cai Lun (late Han)](entities/CaiLunLateHan.md) — Eastern Han palace official whose current profile links court workshop authority, Deng's writing-material demand, fiber-paper improvement, and later Deng-regency political exposure.
 - [徐防 / Xu Fang (late Han)](entities/XuFangLateHan.md) — Eastern Han senior official whose current role centers on 102 CE Taixue examination reform and later Deng-regency staffing and blame-bearing notices.
 - [唐羌 / Tang Qiang (late Han)](entities/TangQiangLateHan.md) — Linwu local official whose memorial reframes Lingnan fresh-fruit tribute as a lethal transport burden accepted by Emperor He.
@@ -1853,7 +1857,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lewis and Clark Expedition](entities/LewisAndClarkExpedition.md) — Jefferson-commissioned western exploration project linking scientific inquiry and imperial ambition.
 - [Democratic-Republican Party](entities/DemocraticRepublicanParty.md) — Jefferson's founding-era party vehicle, complicated by Burr's 1800 tie and later marginalization.
 - [Federalist Party](entities/FederalistParty.md) — Hamilton-associated founding-era party rival to Jefferson's Democratic-Republicans, active in the 1796, 1800, and Burr 1804 contexts.
-- [班超 / Ban Chao (Eastern Han)](entities/BanChaoEasternHan.md) — Eastern Han Western Regions commander whose Shule and Shache counter-deception, Yuezhi supply-line defense, protectorate restoration, Qiuci kingship intervention, Yanqi conquest, Gan Ying mission sponsorship, final recall, and light-touch handoff advice benchmark later abandonment and recovery debates.
+- [班超 / Ban Chao (Eastern Han)](entities/BanChaoEasternHan.md) — Eastern Han Western Regions commander whose Shule counter-defection, Shule and Shache counter-deception, Yuezhi supply-line defense, protectorate restoration, Qiuci kingship intervention, Yanqi conquest, Gan Ying mission sponsorship, final recall, and light-touch handoff advice benchmark later abandonment and recovery debates.
 - [甘英 / Gan Ying (Eastern Han)](entities/GanYingEasternHan.md) — Eastern Han envoy sent by Ban Chao toward Da Qin/Rome and Tiaozhi, reaching Parthia's western boundary before route warnings turned him back.
 - [大秦 / Da Qin](entities/DaQin.md) — Han-era exonym for the Roman Empire in Hanji 771, capturing Rome as a far-western polity known through mediated route reports.
 - [安息 / Parthian Empire](entities/ParthianEmpire.md) — Intermediary polity whose officials' sea-route warning stops Gan Ying's mission toward Da Qin/Rome.
@@ -2369,7 +2373,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [董宠 / Dong Chong (late Han)](entities/DongChongLateHan.md) — Imperial relative whose false invocation of Empress Dowager Dong turns private requests into court-legitimacy risk.
 - [孟陀 / Meng Tuo (late Han)](entities/MengTuoLateHan.md) — Merchant-turned-Liangzhou inspector who manufactures access to Zhang Rang through a staged kneeling scene before failing against Shule.
 - [谷永 / Gu Yong (late Han)](entities/GuYongLateHan.md) — Frontier administrator whose trust-based submission and county-establishment case contrasts with Meng Tuo's failed command.
-- [疏勒 / Shule Kingdom](entities/ShuleKingdom.md) — Western Regions kingdom whose early succession and Shache-alignment layer precede later successful resistance to Meng Tuo's allied attack.
+- [疏勒 / Shule Kingdom](entities/ShuleKingdom.md) — Western Regions kingdom whose Ban Chao-era Wang Zhong defection layer precedes later succession, regional balancing, and resistance to Meng Tuo's allied attack.
 - [汉明帝 / Emperor Ming of Han](entities/EmperorMingOfHan.md) — Eastern Han emperor used by Hanji 899 as the filial precedent behind Guangwu Yuanling tomb-sacrifice practice.
 - [胡广 / Hu Guang (late Han)](entities/HuGuangLateHan.md) — Late-Han senior official whose anti-lottery empress-selection objection, Xiaolian-rule flexibility argument, initial Liu Suan recommendation, later 146 CE succession accommodation, and Teng Fu impeachment precede Hanji 900's survival case.
 - [滕抚 / Teng Fu (late Han)](entities/TengFuLateHan.md) — Upright late-Han anti-bandit official whose 145 CE Xu-Yang and southeast suppression merit later turns into blocked reward and dismissal.
@@ -10237,7 +10241,9 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Concepts
 - [生育负担减免政策 / Fertility Burden Relief Policy](concepts/FertilityBurdenReliefPolicy.md) — Premodern fertility-support pattern where grain, tax relief, and labor relief lower household birth costs because population is state capacity.
-- [退让留余地式治理 / Strategic Forbearance Governance](concepts/StrategicForbearanceGovernance.md) — Governance pattern where restraint preserves cooperation, credibility, withdrawal, or future action instead of maximizing immediate punishment or advantage.
+- [据史批评容忍 / Historical Critique Tolerance](concepts/HistoricalCritiqueTolerance.md) — Governance norm from Hanji 754 where fact-based historical criticism is distinguished from defamatory slander and left unpunished.
+- [行动托底式反腐劝诫 / Action-Backed Anti-Corruption Persuasion](concepts/ActionBackedAntiCorruptionPersuasion.md) — Integrity pattern where Zheng Jun uses labor and returned earnings to make anti-bribery advice practical rather than abstract.
+- [退让留余地式治理 / Strategic Forbearance Governance](concepts/StrategicForbearanceGovernance.md) — Governance pattern where restraint preserves speech, cooperation, credibility, withdrawal, or future action instead of maximizing immediate punishment or advantage.
 - [人生定位与适配 / Career Positioning Through Fit](concepts/CareerPositioningThroughFit.md) — Career judgment pattern where effort compounds better when ability, temperament, role, and inherited resources fit before commitment.
 - [单人负责式制度编纂 / Single-Author Institutional Codification](concepts/SingleAuthorInstitutionalCodification.md) — Institutional-design tradeoff where one accountable compiler turns inherited precedent into usable rules when broad deliberation may stall.
 - [受降失信 / Breach of Surrender Trust](concepts/BreachOfSurrenderTrust.md) — Frontier-governance failure where surrender contact is betrayed, producing tactical gain but long-term credibility damage.

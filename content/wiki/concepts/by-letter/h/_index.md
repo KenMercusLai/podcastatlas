@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 6025
+wiki_total_pages: 6027
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -644,6 +644,9 @@ wiki_pages:
   - key: "HistoricalComplexityAgainstLabels"
     title: "拒绝历史人物标签 / Historical Complexity Against Labels"
     url: "/wiki/concepts/historicalcomplexityagainstlabels/"
+  - key: "HistoricalCritiqueTolerance"
+    title: "据史批评容忍 / Historical Critique Tolerance"
+    url: "/wiki/concepts/historicalcritiquetolerance/"
   - key: "HospitalityPredation"
     title: "接纳者掠杀 / Hospitality Predation"
     url: "/wiki/concepts/hospitalitypredation/"

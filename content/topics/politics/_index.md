@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2061
+topic_total_pages: 2062
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3274,6 +3274,9 @@ topic_concepts:
   - key: "PerMuLandTaxation"
     title: "按亩征税 / Per-Mu Land Taxation"
     url: "/wiki/concepts/permulandtaxation/"
+  - key: "HistoricalCritiqueTolerance"
+    title: "据史批评容忍 / Historical Critique Tolerance"
+    url: "/wiki/concepts/historicalcritiquetolerance/"
   - key: "ChuaimoTechnique"
     title: "揣摩 / Chuaimo Technique"
     url: "/wiki/concepts/chuaimotechnique/"
