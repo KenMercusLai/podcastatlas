@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2602
+topic_total_pages: 2605
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2437,6 +2437,9 @@ topic_concepts:
   - key: "ModernizationAsCompoundGrowth"
     title: "Modernization As Compound Growth / 复合增长式现代化"
     url: "/wiki/concepts/modernizationascompoundgrowth/"
+  - key: "ModularAIDataCenters"
+    title: "Modular AI Data Centers"
+    url: "/wiki/concepts/modularaidatacenters/"
   - key: "MoneyMovementInfrastructure"
     title: "Money Movement Infrastructure"
     url: "/wiki/concepts/moneymovementinfrastructure/"
@@ -6083,6 +6086,9 @@ topic_entities:
   - key: "TransMountainExpansion"
     title: "Trans Mountain Expansion"
     url: "/wiki/entities/transmountainexpansion/"
+  - key: "TravisKalanick"
+    title: "Travis Kalanick"
+    url: "/wiki/entities/traviskalanick/"
   - key: "TrevorBlackwell"
     title: "Trevor Blackwell"
     url: "/wiki/entities/trevorblackwell/"
@@ -7464,6 +7470,9 @@ topic_sources:
   - key: "so-are-we-in-an-ai-bubble-here-are-clues-to-look-for"
     title: "So are we in an AI bubble? Here are clues to look for."
     url: "/wiki/sources/so-are-we-in-an-ai-bubble-here-are-clues-to-look-for/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335"
+    title: "Socialists Sweep NYC, China Catches Up in Coding, AI Memory Crunch, Micron's Blowout Quarter"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335/"
   - key: "tech-20260814-tech-pod-128-tech-20260814-tech-pod-128"
     title: "States rush to police AI deepfakes ahead of midterm elections"
     url: "/wiki/sources/tech-20260814-tech-pod-128-tech-20260814-tech-pod-128/"

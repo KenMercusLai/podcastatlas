@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Socialists Sweep NYC, China Catches Up in Coding, AI Memory Crunch, Micron's Blowout Quarter](sources/all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335.md) — All-In episode on New York DSA primary wins, Mamdani's communication playbook, GLM 5.2 and Chinese open-weight AI, Micron/HBM supply, modular and orbital data-center economics, and AI IPO absorption.
 - [《资治通鉴·汉纪》742丨班超出使西域，37人大杀四方！！！](sources/zizhi-tongjian-hanji-742-banchao-chushi-xiyu-37-ren-da-sha-si-fang-ltutsinxtciar0tmpxkge0mnsnp1.md) — 芮淇讲透资治通鉴 episode on Ban Chao's 73 CE Shanshan night attack, Khotan shaman-killing shock diplomacy, Liu Yan's Huaiyang/Fuling punishment, and Lian Fan's Yunzhong/Chengdu governance cases.
 - [《资治通鉴·汉纪》743丨戳人心窝的历史瞬间：明帝刘庄的温情梦](sources/zizhi-tongjian-hanji-743-chuo-ren-xinwo-de-lishi-shunjian-mingdi-liuzhuang-de-wenqing-meng-lgwtuqtug5bh90qohwiskccx77hy.md) — 芮淇讲透资治通鉴 episode on Mingdi's Yuanling dream and filial mourning, Liu Mu's self-deprecating royal-kin survival, Bao Yu's Situ appointment, Ban Chao's Shule intervention, and Dou Gu/Geng Bing's Cheshi campaign restoring Western Regions offices.
 - [EP93 眼见恒大起高楼，转眼首富入高墙](sources/ep93-yanjian-hengda-qi-gaolou-zhuanyan-shoufu-ru-gaoqiang-lhsjpbzdfjta0phfxrtnybq57o4c.md) — 一劳永逸 episode on Evergrande and Xu Jiayin, high-turnover property leverage, presale financing risk, hidden developer debt, Evergrande Wealth, commercial-paper defaults, three red lines, and the 保交楼 crisis.
@@ -1773,6 +1774,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Travis Kalanick](entities/TravisKalanick.md) — Operator guest connecting truth norms, social-media age-gate tradeoffs, communism critiques, and energy-rich property use for possible AI compute.
 - [鄯善国 / Shanshan Kingdom (late Han)](entities/ShanshanKingdomLateHan.md) — Western Regions swing polity whose 73 CE reception of Ban Chao turns after Northern Xiongnu envoys arrive, before Ban Chao's night attack forces hostage submission.
 - [廉范 / Lian Fan (Eastern Han)](entities/LianFanEasternHan.md) — Eastern Han official whose current profile joins Yunzhong torch-display deception against Northern Xiongnu with Chengdu night-fire permission plus water-preparedness governance.
 - [北海王刘睦 / Liu Mu, Beihai King](entities/LiuMuBeihaiKing.md) — Eastern Han royal kinsman who survives court suspicion by instructing an envoy to lower, not praise, his visible reputation.
@@ -2474,7 +2476,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [杨震 / Yang Zhen (late Han)](entities/YangZhenLateHan.md) — Late-Han taiwei whose Wang Mi gold refusal, Four Knows reputation, Liu Gui title-succession objection, appointment refusals, anti-favorite memorials, forged-edict evidence, death, and later vindication form a moral-official arc.
 - [王密 / Wang Mi (late Han)](entities/WangMiLateHan.md) — Changyi magistrate and former Yang Zhen recommendation whose nighttime gold gift becomes the foil for the Four Knows integrity story.
 - [Leopold Aschenbrenner](entities/LeopoldAschenbrenner.md) — Former OpenAI employee and AI investor used by All-In as a source-scoped case in levered AI-stock liquidation risk.
-- [Zohran Mamdani](entities/ZohranMamdani.md) — New York political figure connecting city-owned grocery politics, affordability-driven socialism, and Democratic-left factional energy.
+- [Zohran Mamdani](entities/ZohranMamdani.md) — New York political figure connecting city-owned grocery politics, DSA-aligned primary momentum, affordability-driven socialism, and Democratic-left factional energy.
 - [Nate Silver](entities/NateSilver.md) — Statistician, gambler, podcaster, and election analyst grounding the source's partisanship, election-administration, midterm, and 2028 claims.
 - [Alexandria Ocasio-Cortez](entities/AlexandriaOcasioCortez.md) — Democratic-left figure treated by Nate Silver as a serious nonzero 2028 outsider scenario.
 - [王吉 / Wang Ji (late Han)](entities/WangJiLateHan.md) — Wang Fu's adopted son and Pei chancellor whose alleged killings and corpse displays become the local-abuse trigger for Yang Qiu's anti-Wang Fu prosecution.
@@ -4454,7 +4456,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gwen Shotwell](entities/GwenShotwell.md) — SpaceX executive named by Brad Gerstner as contributing SpaceX shares to the Trump accounts effort.
 - [Vlad Tenev](entities/VladTenev.md) — Robinhood co-founder and Trump accounts execution-team participant named in the All-In source.
 - [ElevenLabs](entities/ElevenLabs.md) — AI audio company used in the episode as an application-layer example for specialized models and model fungibility.
-- [Gavin Baker](entities/GavinBaker.md) — Atreides Management investor voice in the All-In secondaries episode, contrasting public-market discipline with access-driven private-market incentives.
+- [Gavin Baker](entities/GavinBaker.md) — Atreides Management investor voice connecting public-market discipline, HBM/DRAM bottlenecks, Chinese open-weight model routing, and AI IPO mechanics.
 - [Atreides Management](entities/AtreidesManagement.md) — Investment-firm context for Gavin Baker's public/private-market discipline comments in the All-In secondaries episode.
 - [Fivetran](entities/Fivetran.md) — Enterprise data company named in All-In's source-scoped antitrust side story about alleged interlocking directorates involving Andreessen Horowitz and Databricks.
 - [Kelly Rodriques](entities/KellyRodriques.md) — Forge Global CEO explaining regulated SPVs, Forge/Schwab infrastructure, and democratized but risk-aware private-market access.
@@ -4885,7 +4887,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Haley Stevens](entities/HaleyStevens.md) — Establishment-backed Michigan Democrat defeated by Abdul El-Sayed in the source's primary account.
 - [Mike Rogers](entities/MikeRogers.md) — Republican Senate nominee positioned as the general-election test for El-Sayed's Michigan primary win.
 - [Gabriel Crossley](entities/GabrielCrossley.md) — Source voice explaining the Yangtze River's fishing-ban recovery and its remaining ecological and social caveats.
-- [Democratic Socialists of America](entities/DemocraticSocialistsOfAmerica.md) — U.S. left organization used as context for comparing urban progressive wins with Michigan's statewide result.
+- [Democratic Socialists of America](entities/DemocraticSocialistsOfAmerica.md) — U.S. left organization tracked through affordability politics, Democratic primary pressure, New York organizing, and contested governing-majority claims.
 - [United Auto Workers / UAW](entities/UnitedAutoWorkers.md) — Labor base named in the source's explanation of why Michigan is a meaningful Democratic test state.
 - [Royal Mail](entities/RoyalMail.md) — British postal-service benchmark for the source's postcard and letter-volume decline frame.
 - [English Heritage](entities/EnglishHeritage.md) — Heritage organization cited for the source's statistic that few British adults now send postcards.
@@ -8944,7 +8946,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hassan Benchikran](entities/HassanBenchikran.md) — San Diego pulmonary and critical/intensive care physician arguing that patients will use AI health answers and should be encouraged to bring them into appointments for contextual review.
 - [Anita Ramaswamy](entities/AnitaRamaswamy.md) — The Information columnist and Marketplace Tech guest connecting AI markets, infrastructure, product trust, platform safety, and data-center permitting.
 - [The Information](entities/TheInformation.md) — Technology business publication affiliation for Anita Ramaswamy in the Marketplace Tech AI market roundup.
-- [Micron Technology](entities/MicronTechnology.md) — Memory supplier used to explain high-bandwidth memory demand and consumer-storage pressure from AI data-center growth.
+- [Micron Technology](entities/MicronTechnology.md) — Memory supplier used to explain HBM/DRAM scarcity, AI data-center demand, consumer-memory pressure, and U.S. fab-governance constraints.
 - [SK Hynix](entities/SKHynix.md) — Memory supplier peer named alongside Micron and Samsung in the AI memory demand cycle.
 - [Blue Owl Capital](entities/BlueOwlCapital.md) — Capital provider named in reporting discussed by Marketplace Tech about withdrawal from an Oracle-linked Michigan data-center project.
 - [Merriam-Webster](entities/MerriamWebster.md) — Dictionary publisher whose 2025 word-of-the-year selection of "slop" grounds the episode's AI-generated content discussion.
@@ -9820,7 +9822,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Project Glassfin](entities/ProjectGlassfin.md) — Anthropic security effort discussed as an AI-assisted vulnerability-discovery case with coordinated remediation implications.
 - [Dario Amodei](entities/DarioAmodei.md) — Anthropic leader used by the episode as the main case for AI safety rhetoric feeding model access restrictions.
 - [Zhipu AI](entities/ZhipuAI.md) — Chinese AI company framed through GLM 5.2 as an open-model response to closed-model access restrictions.
-- [GLM 5.2](entities/GLM52.md) — Zhipu AI model release discussed through long context, coding improvement, slower speed, and open-model substitution.
+- [GLM 5.2](entities/GLM52.md) — Zhipu AI model release discussed through long context, coding improvement, open-weight substitution, model routing, and frontier-gap pressure.
 - [SK Telecom](entities/SKTelecom.md) — Telecom company mentioned in a rumor-level Anthropic access story illustrating partner-access sensitivity.
 - [China Unicom](entities/ChinaUnicom.md) — Telecom company named in the episode's disputed SK Telecom/Anthropic partner-access story.
 - [PGP](entities/PGP.md) — Cryptography software used as a historical analogy for why intangible software export controls can fail.
@@ -10297,6 +10299,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Modular AI Data Centers](concepts/ModularAIDataCenters.md) — Prefabricated AI compute infrastructure deployed near available power, cooling, gas, or industrial sites for faster distributed inference capacity.
 - [先胜后战式兵法 / Advantage-First Combat Doctrine](concepts/AdvantageFirstCombatDoctrine.md) — Strategy pattern where commanders create information, timing, morale, or political advantage before fighting instead of treating battle as a gamble.
 - [自污式政治自保 / Self-Deprecating Political Survival](concepts/SelfDeprecatingPoliticalSurvival.md) — Survival tactic where a vulnerable high-status actor lowers perceived virtue, ability, or ambition to reduce court suspicion.
 - [Real Estate High-Turnover Leverage / 房地产高周转杠杆](concepts/RealEstateHighTurnoverLeverage.md) — Evergrande-style property model using low-price fast sales, presale cash, contractor credit, land collateral, and refinancing to scale quickly.
@@ -12291,7 +12294,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Prefix Caching](concepts/PrefixCaching.md) — Reuse of stable prompt prefixes in inference, especially important for coding-agent harnesses with repeated context.
 - [Test-Time Scaling](concepts/TestTimeScaling.md) — Spending more inference compute through repeated sampling, long thinking tokens, or agent-environment loops.
 - [Hardware Lottery](concepts/HardwareLottery.md) — Model-design risk that algorithms survive only when they fit available accelerators, memory, and communication systems.
-- [Chinese Open-Weight AI Strategy](concepts/ChineseOpenWeightAIStrategy.md) — Chinese model-release strategy using downloadable weights for cost, accessibility, local control, ecosystem influence, and geopolitical soft-power positioning.
+- [Chinese Open-Weight AI Strategy](concepts/ChineseOpenWeightAIStrategy.md) — Chinese model-release strategy using deployable weights, cost, local control, technical credibility, and policy-delay pressure against closed frontier APIs.
 - [Enterprise Resource Planning](concepts/EnterpriseResourcePlanning.md) — ERP as the backend business-process system coordinating finance, people, materials, procurement, orders, suppliers, payments, and audit-critical data.
 - [ERP Trust Moat](concepts/ERPTrustMoat.md) — Defensibility of ERP systems rooted in governed processes, trusted data, compliance, localization, auditability, and industry know-how rather than code alone.
 - [Autonomous Enterprise](concepts/AutonomousEnterprise.md) — SAP's bounded agent-era vision of moving enterprise software from recording activity toward executable workflows with human review.
@@ -15258,7 +15261,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Founder-Investor Learning](concepts/FounderInvestorLearning.md) — Pattern where operators translate founder experience into investor services, advice, sourcing, validation, syndication, and community design.
 - [Patient AI Use](concepts/PatientAIUse.md) — Pattern where patients use large language models to interpret symptoms, results, diagnoses, treatment possibilities, or medical decisions before bringing those outputs into care.
 - [Doctor-Guided AI Interpretation](concepts/DoctorGuidedAIInterpretation.md) — Clinical practice of reviewing patient AI outputs with medical history, context, and professional responsibility rather than treating AI as an independent doctor.
-- [High Bandwidth Memory](concepts/HighBandwidthMemory.md) — Fast AI-adjacent memory category used to explain data-center bottlenecks, HBM supplier demand, and why alternatives do not fully replace HBM.
+- [High Bandwidth Memory](concepts/HighBandwidthMemory.md) — Stacked fast memory category used to explain AI accelerator bottlenecks, Micron/SK Hynix/Samsung supply pressure, and consumer-market spillovers.
 - [AI Data Center Memory Hierarchy](concepts/AIDataCenterMemoryHierarchy.md) — Layered SRAM, HBM, DRAM, NAND, and hard-drive frame for AI data-center storage tradeoffs.
 - [Memory Wall](concepts/MemoryWall.md) — Bottleneck where accelerator compute grows faster than data movement, making bandwidth, latency, packaging, and memory hierarchy strategic.
 - [AI Storage Supercycle](concepts/AIStorageSupercycle.md) — AI-driven memory/storage upcycle combining DRAM, HBM, NAND, packaging, and infrastructure capacity demand while retaining cyclical risk.
@@ -15820,8 +15823,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Career Optionality](concepts/CareerOptionality.md) — Non-trading options-thinking frame for small, survivable experiments that preserve future career upside.
 - [Reusable Rocket Economics](concepts/ReusableRocketEconomics.md) — Cost-structure shift created when launch vehicles can return and fly again instead of being discarded after each mission.
 - [Second-Stage Reuse Constraint](concepts/SecondStageReuseConstraint.md) — Upper-stage bottleneck where partial rocket reuse still leaves major per-flight production cost, certification work, and launch-cadence limits.
-- [Space Based AI Infrastructure](concepts/SpaceBasedAIInfrastructure.md) — Scenario where AI compute, data transport, energy, and data centers move partly into orbit.
-- [Orbital Data Center Economics](concepts/OrbitalDataCenterEconomics.md) — E239 cost model for whether orbital AI compute can beat terrestrial data centers after launch, satellites, GPUs, cooling, reliability, and demand are counted.
+- [Space Based AI Infrastructure](concepts/SpaceBasedAIInfrastructure.md) — Scenario where AI compute, data transport, energy, and data centers move partly into orbit if Starship economics can beat terrestrial power and cooling constraints.
+- [Orbital Data Center Economics](concepts/OrbitalDataCenterEconomics.md) — Cost model for whether orbital AI compute can beat terrestrial data centers after launch, satellites, chips, cooling, reliability, maintenance, and workload fit are counted.
 - [Orbital Data Center Thermal Management](concepts/OrbitalDataCenterThermalManagement.md) — Vacuum heat-rejection problem for orbital compute, centered on radiation, radiator area, chip temperature, and heat transport.
 - [Orbital Compute Governance](concepts/OrbitalComputeGovernance.md) — Governance layer for scaled orbital compute covering traffic coordination, debris risk, data sovereignty, jurisdiction, and enforcement capacity.
 - [Orbital Debris Governance](concepts/OrbitalDebrisGovernance.md) — Management of abandoned space hardware, satellite debris, collision risk, disposal, and accountability as space infrastructure scales.
@@ -16109,7 +16112,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI Inference Cost Structure](concepts/AIInferenceCostStructure.md) — Usage-linked token, GPU, electricity, and infrastructure costs behind large-model services.
 - [AI Interactive Content Platforms](concepts/AIInteractiveContentPlatforms.md) — Platform problem of creation, distribution, consumption, remixing, and retention for AI-generated interactive experiences.
 - [AI Interactive Entertainment](concepts/AIInteractiveEntertainment.md) — Broader frame for AI games, creator tools, AI NPCs, interactive video, and social entertainment experiences.
-- [AI IPO Valuation](concepts/AIIPOValuation.md) — Investing frame for separating real AI technology progress from attractive public-market entry price.
+- [AI IPO Valuation](concepts/AIIPOValuation.md) — Investing frame for separating real AI progress from public-market entry price, float, disclosure, lockups, index exposure, and broken-deal-price risk.
 - [AI Interpretability By AI](concepts/AIInterpretabilityByAI.md) — Safety-relevant idea that stronger AI may help humans understand AI systems themselves.
 - [AI Investment Research](concepts/AIInvestmentResearch.md) — Use of AI assistants and monitoring routines to understand markets, filings, valuation, and risks without outsourcing final investment decisions.
 - [AI Materials Discovery](concepts/AIMaterialsDiscovery.md) — AI-for-science workflow for generating, predicting, validating, scaling, and commercializing new materials.

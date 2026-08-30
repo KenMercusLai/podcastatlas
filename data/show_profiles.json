@@ -149,26 +149,26 @@
       "earliest_episode_date": "2026-01-08",
       "latest_episode_date": "2026-08-29",
       "latest_episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine [42597345].md",
-      "source_note_count": 40,
-      "topic_matched_source_note_count": 36,
+      "source_note_count": 41,
+      "topic_matched_source_note_count": 37,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 27
+          "source_note_count": 28
         },
         {
           "key": "economics",
           "label": "Economics",
           "url": "/topics/economics/",
-          "source_note_count": 13
+          "source_note_count": 14
         },
         {
           "key": "politics",
           "label": "Politics",
           "url": "/topics/politics/",
-          "source_note_count": 13
+          "source_note_count": 14
         },
         {
           "key": "science",
@@ -228,11 +228,11 @@
           "episode_count": 5
         },
         {
-          "key": "BradGerstner",
-          "title": "Brad Gerstner",
-          "url": "/wiki/entities/bradgerstner/",
-          "kind": "person",
-          "episode_count": 3
+          "key": "DemocraticSocialistsOfAmerica",
+          "title": "Democratic Socialists of America",
+          "url": "/wiki/entities/democraticsocialistsofamerica/",
+          "kind": "organization",
+          "episode_count": 4
         }
       ],
       "start_here_episode_files": [

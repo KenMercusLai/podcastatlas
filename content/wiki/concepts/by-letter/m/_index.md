@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 6072
+wiki_total_pages: 6073
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -782,6 +782,9 @@ wiki_pages:
   - key: "ModifiableDementiaRiskFactors"
     title: "Modifiable Dementia Risk Factors"
     url: "/wiki/concepts/modifiabledementiariskfactors/"
+  - key: "ModularAIDataCenters"
+    title: "Modular AI Data Centers"
+    url: "/wiki/concepts/modularaidatacenters/"
   - key: "ModularCustomization"
     title: "Modular Customization / 模块化定制"
     url: "/wiki/concepts/modularcustomization/"

@@ -2,41 +2,57 @@
 title: "Micron Technology"
 type: entity
 tags: [company, semiconductors, memory, ai]
-sources: [all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390, 172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2, tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128, tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]
-last_updated: 2026-08-20
+knowledge_schema: synthesis-v1
+sources:
+  - all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390
+  - 172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2
+  - tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128
+  - tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128
+  - tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128
+  - cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1
+  - all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335
+last_updated: 2026-08-31
 ---
 
 # Micron Technology
 
-[[all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390]] adds a philanthropic/public-policy branch. [[BradGerstner|Brad Gerstner]] names Micron among the institutions contributing to [[TrumpAccounts|Trump accounts]], so the company is linked here to [[UniversalEquityOwnership]] separately from its existing AI-memory and high-bandwidth-memory role.
+## Overview
+Micron Technology is tracked as a memory supplier whose wiki role connects high-bandwidth memory, AI data-center demand, consumer-memory allocation pressure, U.S. manufacturing commitments, and occasional public-policy references.
 
-[[172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2]] adds Micron as a memory-cycle example in the AI capex rebound. The source links stronger memory long-order expectations and profit improvement to the Q2 shift back toward global AI equities, reinforcing Micron's role in [[AIHardwareSupplyChainPressure]] and [[AICapexReturnWindow]].
+## Current Profile
+Micron's current profile is an AI-infrastructure beneficiary and memory-cycle case study. Earlier Marketplace and What's Next sources make it one of the small set of HBM suppliers alongside [[SKHynix|SK Hynix]] and [[Samsung]], while also showing how AI data-center demand can redirect supply away from consumer RAM and storage. The new All-In episode adds a market-cycle update: Micron is described as having 2026 supply sold out, a large year-over-year revenue increase, and upside guidance because stacked DRAM/HBM demand is a binding AI bottleneck.
 
-[[tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128]] adds Micron through its planned [[MicronClayMegaFab|mega fab]] in [[ClayNewYork|Clay, New York]]. The [[MarketplaceTech]] Bytes episode says Micron is one of the few companies making [[HighBandwidthMemory|high-bandwidth memory]] essential to AI processing, but it uses the fab mainly as a public-accountability test: local civil rights, environmental, and labor groups want hiring, environmental, emissions, and water commitments enforceable in court.
+## Key Characteristics
+- One of the few suppliers tied to AI high-bandwidth memory capacity.
+- Memory-cycle beneficiary when AI capex and data-center demand strengthen.
+- Example of AI demand reshaping consumer memory allocation and pricing.
+- U.S. manufacturing case through the [[MicronClayMegaFab|Clay mega fab]] and local accountability demands.
+- Public-policy participant in [[TrumpAccounts|Trump accounts]] in a separate All-In source.
+- Source-scoped example of 2026 HBM/DRAM scarcity and sold-out supply.
 
-Micron Technology appears in [[tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128]] as the semiconductor company anchoring the episode's memory-chip segment. [[AnitaRamaswamy]] explains that Micron sells several memory products, but that [[HighBandwidthMemory]] is the fast-growing category because AI processing needs fast memory close to accelerators.
+## Evidence
+- HBM supplier role: [[tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128]], [[tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128]], and [[cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]] place Micron in the small HBM supplier set with SK Hynix and Samsung.
+- AI hardware pressure: [[172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2]] links Micron to stronger memory long-order expectations, profit improvement, and renewed global AI-equity appetite.
+- Consumer spillover: [[tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128]] says Micron's consumer-RAM exit shows data-center customers pulling supplier attention toward higher-margin infrastructure markets.
+- Local manufacturing governance: [[tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128]] uses the Clay, New York fab as a test of enforceable hiring, water, emissions, environmental, and labor commitments.
+- New quarter and supply signal: [[all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335]] says Micron's revenue rose sharply, guidance beat expectations, and 2026 HBM supply was already sold out.
+- Public-policy branch: [[all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390]] names Micron among contributors to Trump accounts through [[UniversalEquityOwnership]].
 
-The source makes Micron a case in [[AIHardwareSupplyChainPressure]]. AI data-center demand can improve memory suppliers' growth while also redirecting supply, pricing power, and product focus away from ordinary consumers; the episode says Micron has decided to exit consumer drives.
+## Qualifications
+Micron is treated here as a supplier and memory-cycle indicator, not as a cloud platform or model company. Financial figures and supply-allocation comments from the new All-In episode are source-scoped and should be checked against Micron filings for investment use. The Clay fab sources emphasize that strategic domestic capacity still faces local environmental, labor, land, and water questions.
 
-[[cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]] adds Micron to the three-supplier HBM contest with [[SKHynix]] and [[Samsung]]. The source says Micron had meaningful HBM3E share but also notes uncertainty around later-generation allocations in [[Nvidia]]'s Rubin-era roadmap.
+## What Changed
+- Migrated the page to the synthesis-first entity schema.
+- Added the All-In account of Micron's blowout quarter, guidance beat, and sold-out 2026 HBM supply.
+- Elevated HBM/DRAM scarcity as Micron's central AI-infrastructure role.
+- Preserved consumer-market and local-governance spillovers from earlier source notes.
 
-[[tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128]] adds a consumer-RAM allocation angle through [[TomMinelli]] of [[IDC]]. Minelli says Micron announced in December that it would exit the consumer RAM market because data-center customers are larger and margins are better, making Micron a case of AI demand pulling capacity and attention away from ordinary device markets.
-
-## Source Position
-- Micron is treated as a beneficiary of AI data-center growth, not as a model company or cloud provider.
-- The source links Micron to [[Nvidia]] system demand through high memory intensity in AI chips.
-- The episode compares Micron's momentum with [[SKHynix]] and [[Samsung]], positioning AI memory as a broader supplier cycle.
-- Consumer storage pressure is presented as a downstream effect of AI demand rather than an isolated retail-price story.
-- The What's Next source positions Micron inside a longer [[AIStorageSupercycle]], while preserving the risk that memory remains cyclical.
-- The Marketplace Tech January 13 source treats Micron's consumer-RAM exit as evidence that higher-margin AI infrastructure customers can reshape supplier priorities.
-- The Marketplace Tech January 23 source treats Micron's U.S. manufacturing expansion as locally conditional: strategic memory capacity still has to answer questions about jobs, water, emissions, and land use.
-
-## Connections
-- [[HighBandwidthMemory]] - main product category discussed.
-- [[MicronClayMegaFab]], [[ClayNewYork|Clay, New York]], and [[EnforceableCommunityBenefits]] - local facility and commitment branch added by Marketplace Tech.
-- [[AIHardwareSupplyChainPressure]] - supply-chain pattern the episode illustrates.
-- [[Nvidia]] - AI chip platform whose memory intensity makes HBM strategically important.
-- [[SKHynix]] and [[Samsung]] - memory-market peers named in the source.
-- [[MarketplaceTech]] and [[AnitaRamaswamy]] - episode and analyst context.
-- [[AIStorageSupercycle]], [[StorageIndustryCyclicality]], and [[MemoryCapacityLockIn]] - market-cycle context from What's Next.
-- [[TomMinelli]], [[IDC]], and [[MemoryChipShortage]] - consumer-RAM shortage context added by Marketplace Tech.
+## Relationships
+- [[HighBandwidthMemory]] - main AI memory category attached to Micron.
+- [[AIHardwareSupplyChainPressure]] - broader supply-chain pattern Micron illustrates.
+- [[SKHynix]] - peer HBM supplier.
+- [[Samsung]] - peer HBM supplier.
+- [[Nvidia]] - accelerator platform whose memory intensity drives HBM demand.
+- [[MemoryChipShortage]] - consumer-spillover branch from AI memory allocation.
+- [[MicronClayMegaFab]] - U.S. manufacturing and local-governance branch.
+- [[TrumpAccounts]] - separate public-policy contribution branch.

@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 1879
+topic_total_pages: 1880
 topic_concepts:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -5457,6 +5457,9 @@ topic_sources:
   - key: "so-are-we-in-an-ai-bubble-here-are-clues-to-look-for"
     title: "So are we in an AI bubble? Here are clues to look for."
     url: "/wiki/sources/so-are-we-in-an-ai-bubble-here-are-clues-to-look-for/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335"
+    title: "Socialists Sweep NYC, China Catches Up in Coding, AI Memory Crunch, Micron's Blowout Quarter"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335/"
   - key: "tsr-s5-spenserskates-v2audio-tsr-s5-spenserskates-v2audio"
     title: "Spenser Skates, Founder & CEO, Amplitude"
     url: "/wiki/sources/tsr-s5-spenserskates-v2audio-tsr-s5-spenserskates-v2audio/"

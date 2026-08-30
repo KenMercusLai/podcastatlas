@@ -935,6 +935,120 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/aihardwareprivacyexchange/"
     },
+    "AIIPOValuation": {
+      "episode_count": 15,
+      "show_count": 6,
+      "source_note_count": 15,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback [42442555].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source？, Trump Accounts [42041390].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source?, Trump Accounts",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - World's First Trillionaire, Anthropic Fable Banned, The New Oligarchs, Iran Peace Deal [41706545].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "World's First Trillionaire, Anthropic Fable Banned, The New Oligarchs, Iran Peace Deal",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Inside the Private Stock Market Boom： SpaceX, Anthropic, OpenAI & the Rise of Secondaries [41564170].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-inside-the-private-stock-market-boom-spacex-anthropic-openai-the-rise-of-secondaries-41564170",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Inside the Private Stock Market Boom: SpaceX, Anthropic, OpenAI & the Rise of Secondaries",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-inside-the-private-stock-market-boom-spacex-anthropic-openai-the-rise-of-secondaries-41564170/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - All-In's 2026 Predictions [39681260].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "All-In's 2026 Predictions",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260/"
+        },
+        {
+          "episode_file": "172.全球宏观和资本市场2026半年度复盘与展望：AI叙事的下一步 [lvj6L_TwEuld-GvkpqURqpm4GpT2].md",
+          "key": "172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2",
+          "show": "起朱楼宴宾客",
+          "title": "172.全球宏观和资本市场2026半年度复盘与展望：AI叙事的下一步",
+          "url": "/wiki/sources/172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2/"
+        },
+        {
+          "episode_file": "tech_20260130_0130_MP_TECH_pod_128 [tech_20260130_0130_MP_TECH_pod_128].md",
+          "key": "tech-20260130-0130-mp-tech-pod-128-tech-20260130-0130-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Are we in an AI bubble?",
+          "url": "/wiki/sources/tech-20260130-0130-mp-tech-pod-128-tech-20260130-0130-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260123_0123_MP_TECH_pod_128 [tech_20260123_0123_MP_TECH_pod_128].md",
+          "key": "tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - SpaceX eyes an IPO, community members want legal commitments from Micron, and YouTube to ditch AI slop",
+          "url": "/wiki/sources/tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260403_0403_MP_TECH_pod_128 [tech_20260403_0403_MP_TECH_pod_128].md",
+          "key": "tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - SpaceX's IPO, Iran threatens U.S. tech firms and California's new AI executive order",
+          "url": "/wiki/sources/tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260206_0206_MP_TECH_pod_128 [tech_20260206_0206_MP_TECH_pod_128].md",
+          "key": "tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - SpaceX and xAI merge, Nvidia and OpenAI's funding relationship and U.S. TikTok's rough start",
+          "url": "/wiki/sources/tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "EP88 穿越量化之父西蒙斯：AI会让普通人更容易赚钱，还是更难？ [lhvIGzza2uGmAYezkBrxUfKmP4L1].md",
+          "key": "ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1",
+          "show": "一劳永逸",
+          "title": "EP88 穿越量化之父西蒙斯：AI会让普通人更容易赚钱，还是更难？",
+          "url": "/wiki/sources/ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1/"
+        },
+        {
+          "episode_file": "EP39 风满楼下集：全球衰退慢慢逼近，严防死守步步为营！漫聊下半年美股、美债、汇率 [lgZ718uN4sJVgXqbydFIKyXZ0hcJ].md",
+          "key": "ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj",
+          "show": "一劳永逸",
+          "title": "EP39 风满楼下集：全球衰退慢慢逼近，严防死守步步为营！漫聊下半年美股、美债、汇率",
+          "url": "/wiki/sources/ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj/"
+        },
+        {
+          "episode_file": "145. 口述SpaceX开发史：和前高管洪力德聊，马斯克用人观、最大IPO、太空与AI、人类文明扩张前奏？ [lua5jan_xOpZ99VwXmLshdTC-gSp].md",
+          "key": "145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "145. 口述SpaceX开发史：和前高管洪力德聊，马斯克用人观、最大IPO、太空与AI、人类文明扩张前奏？",
+          "url": "/wiki/sources/145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou/"
+        },
+        {
+          "episode_file": "Far Crimea： war comes to Russia’s door [6a3e560c26d5a6687a90c658].md",
+          "key": "far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658",
+          "show": "Economist Podcasts",
+          "title": "Far Crimea: war comes to Russia's door",
+          "url": "/wiki/sources/far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Socialists Sweep NYC, China Catches Up in Coding, AI Memory Crunch, Micron's Blowout Quarter [41835335].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Socialists Sweep NYC, China Catches Up in Coding, AI Memory Crunch, Micron's Blowout Quarter",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/aiipovaluation/"
+    },
     "AIIndustrySelfRegulation": {
       "episode_count": 2,
       "show_count": 1,
@@ -6357,6 +6471,57 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/chineselightluxurybagpremiumization/"
     },
+    "ChineseOpenWeightAIStrategy": {
+      "episode_count": 6,
+      "show_count": 4,
+      "source_note_count": 6,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source？, Trump Accounts [42041390].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source?, Trump Accounts",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390/"
+        },
+        {
+          "episode_file": "蒸馏风暴：一场无人公开谈论的技术竞赛 (1) [179-1].md",
+          "key": "zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1",
+          "show": "晚点聊 LateTalk",
+          "title": "179: 蒸馏风暴：一场无人公开谈论的技术竞赛",
+          "url": "/wiki/sources/zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1/"
+        },
+        {
+          "episode_file": "详解Kimi K3：强到冲击Anthropic估值的模型什么样？ (1) [177-1].md",
+          "key": "xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1",
+          "show": "晚点聊 LateTalk",
+          "title": "177: 详解Kimi K3：强到冲击Anthropic估值的模型什么样？",
+          "url": "/wiki/sources/xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1/"
+        },
+        {
+          "episode_file": "E246｜何谓蒸馏？聊聊硅谷如何看中国开放模型逼近前沿 [5fd236d7-9a72-4b15-9e84-e83ceadd1b41].md",
+          "key": "e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41",
+          "show": "硅谷101",
+          "title": "E246｜何谓蒸馏？聊聊硅谷如何看中国开放模型逼近前沿",
+          "url": "/wiki/sources/e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41/"
+        },
+        {
+          "episode_file": "tech_20260804_0803_MP_TECH_pod_128 [tech_20260804_0803_MP_TECH_pod_128].md",
+          "key": "tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "China's soft power play in the global AI arms race",
+          "url": "/wiki/sources/tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Socialists Sweep NYC, China Catches Up in Coding, AI Memory Crunch, Micron's Blowout Quarter [41835335].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Socialists Sweep NYC, China Catches Up in Coding, AI Memory Crunch, Micron's Blowout Quarter",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/chineseopenweightaistrategy/"
+    },
     "ChineseStyleFDE": {
       "episode_count": 5,
       "show_count": 4,
@@ -8603,6 +8768,50 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/democraticrepublicanparty/"
+    },
+    "DemocraticSocialistsOfAmerica": {
+      "episode_count": 5,
+      "show_count": 2,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up [42513830].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Rahm Emanuel： Trump's Foreign Policy, China, Europe's Decline, Immigration & DSA vs Democrats [42416310].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Rahm Emanuel: Trump's Foreign Policy, China, Europe's Decline, Immigration & DSA vs Democrats",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - All-In's 2026 Predictions [39681260].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "All-In's 2026 Predictions",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260/"
+        },
+        {
+          "episode_file": "Socialist mobility： a telling Michigan vote [6a74600ec3e1347e8b5bf216].md",
+          "key": "socialist-mobility-a-telling-michigan-vote-6a74600ec3e1347e8b5bf216",
+          "show": "Economist Podcasts",
+          "title": "Socialist mobility: a telling Michigan vote",
+          "url": "/wiki/sources/socialist-mobility-a-telling-michigan-vote-6a74600ec3e1347e8b5bf216/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Socialists Sweep NYC, China Catches Up in Coding, AI Memory Crunch, Micron's Blowout Quarter [41835335].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Socialists Sweep NYC, China Catches Up in Coding, AI Memory Crunch, Micron's Blowout Quarter",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/democraticsocialistsofamerica/"
     },
     "DengBiaoEasternHan": {
       "episode_count": 1,
@@ -14429,6 +14638,43 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/fuyoutiandi/"
     },
+    "GLM52": {
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "E249｜Token经济转点：OpenClaw、Hermes到本地自研的Agent进化之路 [6242033d-a14a-44e3-a622-cbfc7d3c3817].md",
+          "key": "e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817",
+          "show": "硅谷101",
+          "title": "E249｜Token经济转点：OpenClaw、Hermes到本地自研的Agent进化之路",
+          "url": "/wiki/sources/e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817/"
+        },
+        {
+          "episode_file": "【AI季报 26Q2】从 coding 到 RSI，强者愈强的未来？ (1) [171-1].md",
+          "key": "ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1",
+          "show": "晚点聊 LateTalk",
+          "title": "171: 【AI季报 26Q2】从 coding 到 RSI，强者愈强的未来？",
+          "url": "/wiki/sources/ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1/"
+        },
+        {
+          "episode_file": "把 AI 吹成核武器的人，亲手拉下了新冷战铁幕 ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [把-ai-吹成核武器的人，亲手拉下了新冷战铁幕-1].md",
+          "key": "ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1",
+          "show": "科技乱炖",
+          "title": "把 AI 吹成核武器的人，亲手拉下了新冷战铁幕",
+          "url": "/wiki/sources/ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Socialists Sweep NYC, China Catches Up in Coding, AI Memory Crunch, Micron's Blowout Quarter [41835335].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Socialists Sweep NYC, China Catches Up in Coding, AI Memory Crunch, Micron's Blowout Quarter",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/glm52/"
+    },
     "GanYingEasternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -14554,6 +14800,36 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/gauravkarna/"
+    },
+    "GavinBaker": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback [42442555].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Inside the Private Stock Market Boom： SpaceX, Anthropic, OpenAI & the Rise of Secondaries [41564170].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-inside-the-private-stock-market-boom-spacex-anthropic-openai-the-rise-of-secondaries-41564170",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Inside the Private Stock Market Boom: SpaceX, Anthropic, OpenAI & the Rise of Secondaries",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-inside-the-private-stock-market-boom-spacex-anthropic-openai-the-rise-of-secondaries-41564170/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Socialists Sweep NYC, China Catches Up in Coding, AI Memory Crunch, Micron's Blowout Quarter [41835335].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Socialists Sweep NYC, China Catches Up in Coding, AI Memory Crunch, Micron's Blowout Quarter",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/gavinbaker/"
     },
     "GavinNewsom": {
       "episode_count": 4,
@@ -16631,6 +16907,71 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/hexifourcommanderieslatehan/"
+    },
+    "HighBandwidthMemory": {
+      "episode_count": 8,
+      "show_count": 5,
+      "source_note_count": 8,
+      "sources": [
+        {
+          "episode_file": "tech_20260123_0123_MP_TECH_pod_128 [tech_20260123_0123_MP_TECH_pod_128].md",
+          "key": "tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - SpaceX eyes an IPO, community members want legal commitments from Micron, and YouTube to ditch AI slop",
+          "url": "/wiki/sources/tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260113_0113_MP_TECH_pod_128 [tech_20260113_0113_MP_TECH_pod_128].md",
+          "key": "tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI is eating up the world's computing memory",
+          "url": "/wiki/sources/tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "E230｜1万亿收入预期背后：英伟达的巅峰与软肋 [d97446f1-d6e3-4894-89d1-dca0a362b10b].md",
+          "key": "e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b",
+          "show": "硅谷101",
+          "title": "E230｜1万亿收入预期背后：英伟达的巅峰与软肋",
+          "url": "/wiki/sources/e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b/"
+        },
+        {
+          "episode_file": "tech_20251219_1219_MP_TECH_pod_128 [tech_20251219_1219_MP_TECH_pod_128].md",
+          "key": "tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Micron''s big earnings, Oracle''s data center woes and \"slop\" is Merriam-Webster''s word of the year",
+          "url": "/wiki/sources/tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "存储三巨头破万亿市值，存储超级周期何时能见顶？｜ S10E13 [c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1].md",
+          "key": "cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1",
+          "show": "What's Next｜科技早知道",
+          "title": "存储三巨头破万亿市值，存储超级周期何时能见顶？｜ S10E13",
+          "url": "/wiki/sources/cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1/"
+        },
+        {
+          "episode_file": "EP270 一枚芯片的漫长征途：我们离“算力自由”还有多远？ [lm7lXLMCnjWNAWTQ_9TYpc_fNRci].md",
+          "key": "ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci",
+          "show": "Talk三联",
+          "title": "EP270 一枚芯片的漫长征途：我们离“算力自由”还有多远？",
+          "url": "/wiki/sources/ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci/"
+        },
+        {
+          "episode_file": "E228｜谷歌TPU能撼动英伟达吗？前TPU工程师首次揭秘 [fd17090c-0d72-4c0d-aa3e-9b00bc062149].md",
+          "key": "e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149",
+          "show": "硅谷101",
+          "title": "E228｜谷歌TPU能撼动英伟达吗？前TPU工程师首次揭秘",
+          "url": "/wiki/sources/e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Socialists Sweep NYC, China Catches Up in Coding, AI Memory Crunch, Micron's Blowout Quarter [41835335].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Socialists Sweep NYC, China Catches Up in Coding, AI Memory Crunch, Micron's Blowout Quarter",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/highbandwidthmemory/"
     },
     "HighBetaScienceFunding": {
       "episode_count": 1,
@@ -25938,6 +26279,64 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/michaelkratsios/"
     },
+    "MicronTechnology": {
+      "episode_count": 7,
+      "show_count": 4,
+      "source_note_count": 7,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source？, Trump Accounts [42041390].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source?, Trump Accounts",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390/"
+        },
+        {
+          "episode_file": "172.全球宏观和资本市场2026半年度复盘与展望：AI叙事的下一步 [lvj6L_TwEuld-GvkpqURqpm4GpT2].md",
+          "key": "172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2",
+          "show": "起朱楼宴宾客",
+          "title": "172.全球宏观和资本市场2026半年度复盘与展望：AI叙事的下一步",
+          "url": "/wiki/sources/172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2/"
+        },
+        {
+          "episode_file": "tech_20260123_0123_MP_TECH_pod_128 [tech_20260123_0123_MP_TECH_pod_128].md",
+          "key": "tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - SpaceX eyes an IPO, community members want legal commitments from Micron, and YouTube to ditch AI slop",
+          "url": "/wiki/sources/tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260113_0113_MP_TECH_pod_128 [tech_20260113_0113_MP_TECH_pod_128].md",
+          "key": "tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI is eating up the world's computing memory",
+          "url": "/wiki/sources/tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20251219_1219_MP_TECH_pod_128 [tech_20251219_1219_MP_TECH_pod_128].md",
+          "key": "tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Micron''s big earnings, Oracle''s data center woes and \"slop\" is Merriam-Webster''s word of the year",
+          "url": "/wiki/sources/tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "存储三巨头破万亿市值，存储超级周期何时能见顶？｜ S10E13 [c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1].md",
+          "key": "cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1",
+          "show": "What's Next｜科技早知道",
+          "title": "存储三巨头破万亿市值，存储超级周期何时能见顶？｜ S10E13",
+          "url": "/wiki/sources/cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Socialists Sweep NYC, China Catches Up in Coding, AI Memory Crunch, Micron's Blowout Quarter [41835335].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Socialists Sweep NYC, China Catches Up in Coding, AI Memory Crunch, Micron's Blowout Quarter",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/microntechnology/"
+    },
     "MidMarketDataTalentGap": {
       "episode_count": 1,
       "show_count": 1,
@@ -26510,6 +26909,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/modifiabledementiariskfactors/"
+    },
+    "ModularAIDataCenters": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Socialists Sweep NYC, China Catches Up in Coding, AI Memory Crunch, Micron's Blowout Quarter [41835335].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Socialists Sweep NYC, China Catches Up in Coding, AI Memory Crunch, Micron's Blowout Quarter",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/modularaidatacenters/"
     },
     "Monticello": {
       "episode_count": 1,
@@ -28055,6 +28470,36 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/oralhistorymemoryanalysis/"
+    },
+    "OrbitalDataCenterEconomics": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "E239｜SpaceX要让太空算力从科幻走向现实，但它划算吗？ [259291f5-2715-4dde-bcfe-b5beb4df5793].md",
+          "key": "e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793",
+          "show": "硅谷101",
+          "title": "E239｜SpaceX要让太空算力从科幻走向现实，但它划算吗？",
+          "url": "/wiki/sources/e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793/"
+        },
+        {
+          "episode_file": "tech_20260123_0123_MP_TECH_pod_128 [tech_20260123_0123_MP_TECH_pod_128].md",
+          "key": "tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - SpaceX eyes an IPO, community members want legal commitments from Micron, and YouTube to ditch AI slop",
+          "url": "/wiki/sources/tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Socialists Sweep NYC, China Catches Up in Coding, AI Memory Crunch, Micron's Blowout Quarter [41835335].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Socialists Sweep NYC, China Catches Up in Coding, AI Memory Crunch, Micron's Blowout Quarter",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/orbitaldatacentereconomics/"
     },
     "OrdinaryPeopleHistoricalVisibility": {
       "episode_count": 1,
@@ -34535,6 +34980,71 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/southernxiongnu/"
     },
+    "SpaceBasedAIInfrastructure": {
+      "episode_count": 8,
+      "show_count": 5,
+      "source_note_count": 8,
+      "sources": [
+        {
+          "episode_file": "tech_20260807_0807_MP_TECH_pod_128 [tech_20260807_0807_MP_TECH_pod_128].md",
+          "key": "tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Gig workers train humanoids on household chores",
+          "url": "/wiki/sources/tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "The Elon game： Musk’s vision of the future [6a633594d19896314260e5c4].md",
+          "key": "the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4",
+          "show": "Economist Podcasts",
+          "title": "The Elon game: Musk's vision of the future",
+          "url": "/wiki/sources/the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4/"
+        },
+        {
+          "episode_file": "tech_20260123_0123_MP_TECH_pod_128 [tech_20260123_0123_MP_TECH_pod_128].md",
+          "key": "tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - SpaceX eyes an IPO, community members want legal commitments from Micron, and YouTube to ditch AI slop",
+          "url": "/wiki/sources/tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260403_0403_MP_TECH_pod_128 [tech_20260403_0403_MP_TECH_pod_128].md",
+          "key": "tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - SpaceX's IPO, Iran threatens U.S. tech firms and California's new AI executive order",
+          "url": "/wiki/sources/tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260206_0206_MP_TECH_pod_128 [tech_20260206_0206_MP_TECH_pod_128].md",
+          "key": "tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - SpaceX and xAI merge, Nvidia and OpenAI's funding relationship and U.S. TikTok's rough start",
+          "url": "/wiki/sources/tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "145. 口述SpaceX开发史：和前高管洪力德聊，马斯克用人观、最大IPO、太空与AI、人类文明扩张前奏？ [lua5jan_xOpZ99VwXmLshdTC-gSp].md",
+          "key": "145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "145. 口述SpaceX开发史：和前高管洪力德聊，马斯克用人观、最大IPO、太空与AI、人类文明扩张前奏？",
+          "url": "/wiki/sources/145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou/"
+        },
+        {
+          "episode_file": "E239｜SpaceX要让太空算力从科幻走向现实，但它划算吗？ [259291f5-2715-4dde-bcfe-b5beb4df5793].md",
+          "key": "e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793",
+          "show": "硅谷101",
+          "title": "E239｜SpaceX要让太空算力从科幻走向现实，但它划算吗？",
+          "url": "/wiki/sources/e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Socialists Sweep NYC, China Catches Up in Coding, AI Memory Crunch, Micron's Blowout Quarter [41835335].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Socialists Sweep NYC, China Catches Up in Coding, AI Memory Crunch, Micron's Blowout Quarter",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/spacebasedaiinfrastructure/"
+    },
     "SpineRehabilitationProgression": {
       "episode_count": 1,
       "show_count": 1,
@@ -37603,6 +38113,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/trashcancorpusscientificai/"
+    },
+    "TravisKalanick": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Socialists Sweep NYC, China Catches Up in Coding, AI Memory Crunch, Micron's Blowout Quarter [41835335].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Socialists Sweep NYC, China Catches Up in Coding, AI Memory Crunch, Micron's Blowout Quarter",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/traviskalanick/"
     },
     "TreasuryBuybackPolicy": {
       "episode_count": 3,
@@ -45154,9 +45680,9 @@
       "url": "/wiki/entities/zhuzhenlatehan/"
     },
     "ZohranMamdani": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Chip Stocks Crash, $20B Fund Margin Called, Frontier Labs： SLOW DOWN AI, Mamdani's Grocery Stores [42282790].md",
@@ -45171,9 +45697,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Nate Silver Predicts: Democrats Take the House, Newsom Is Fading & AOC Might Win It All in 2028",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-nate-silver-predicts-democrats-take-the-house-newsom-is-fading-aoc-might-win-it-all-in-2028-41866025/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Socialists Sweep NYC, China Catches Up in Coding, AI Memory Crunch, Micron's Blowout Quarter [41835335].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Socialists Sweep NYC, China Catches Up in Coding, AI Memory Crunch, Micron's Blowout Quarter",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-08-31",
       "url": "/wiki/entities/zohranmamdani/"
     },
     "ZongZiLateHan": {

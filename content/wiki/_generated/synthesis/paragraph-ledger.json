@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "a684563cb8c3558d9b15c89a025f0fab84522169f34a3e126efe21913840ec10",
       "53d93e7610f3f1096a82dea6a00e66500773627a3ef008805d900cd4e2ece6b4",
       "94554e1812f2ee4a85922d90e25a02a413e51e9371063e0478766140bb170f01",
       "40146ef4d28330ba1e5d49457517bc7badeeecc05031b8d720554c6221eb3371",
@@ -427,11 +428,43 @@
       "12c2b57062376e50f472c6806ecb08714733b065e8db5d2b809f05f83d802f96",
       "2231d7cf4c1cf8ae29ee2ec0737334356ddcd78d5df4e6b306dab83b98b3febe"
     ],
-    "paragraph_count": 425
+    "paragraph_count": 426
   },
-  "overview_commit": "be2ebdbfef8b5b14f8db2ea1b4bf38fba30a7c73",
-  "overview_digest": "06cfa6e1ba73c502f0632ca1cdb522e67d5a4994c485f86f7d857191871dc462",
+  "overview_commit": "878b151991041de6dca95f6160688e3195e688e9",
+  "overview_digest": "7ff28607649839fd71049e065a356184b3526d47d9e66b46e8292511214bbc54",
   "paragraphs": [
+    {
+      "id": "a684563cb8c3558d9b15c89a025f0fab84522169f34a3e126efe21913840ec10",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "business-and-markets",
+        "governance-and-institutions"
+      ],
+      "text": "The latest addition is [[all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335|Socialists Sweep NYC, China Catches Up in Coding, AI Memory Crunch, Micron's Blowout Quarter]], an [[AllIn|All-In]] episode with [[TravisKalanick|Travis Kalanick]] and [[GavinBaker|Gavin Baker]] tying New York [[DemocraticSocialistsOfAmerica|DSA]] primary momentum to Chinese open-weight AI, memory supply, and public-market absorption. It adds [[TravisKalanick]] and [[ModularAIDataCenters]], while extending [[ZohranMamdani]], [[GavinBaker]], [[GLM52|GLM 5.2]], [[ChineseOpenWeightAIStrategy]], [[MicronTechnology]], [[HighBandwidthMemory]], [[SpaceBasedAIInfrastructure]], [[OrbitalDataCenterEconomics]], and [[AIIPOValuation]]. Its core synthesis is that the AI boom is now constrained by legitimacy and physical infrastructure at the same time: pro-AI capitalism is losing narrative ground to affordability politics, Chinese open weights narrow capability gaps while U.S. release gates create delay risk, HBM and DRAM capacity pace both data centers and consumer electronics, and AI IPOs must be priced for public-market digestion rather than only private-market excitement. No settled contradiction is recorded; DSA election readings, GLM benchmark details, Micron figures, SpaceX liquidity claims, and Anthropic valuation scenarios remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 3,
+        "business-and-markets": 2,
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1,
+        "science-health-and-climate": 1
+      },
+      "wikilinks": [
+        "AIIPOValuation",
+        "AllIn",
+        "ChineseOpenWeightAIStrategy",
+        "DemocraticSocialistsOfAmerica",
+        "GLM52",
+        "GavinBaker",
+        "HighBandwidthMemory",
+        "MicronTechnology",
+        "ModularAIDataCenters",
+        "OrbitalDataCenterEconomics",
+        "SpaceBasedAIInfrastructure",
+        "TravisKalanick",
+        "ZohranMamdani",
+        "all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335"
+      ]
+    },
     {
       "id": "53d93e7610f3f1096a82dea6a00e66500773627a3ef008805d900cd4e2ece6b4",
       "primary_topic": "business-and-markets",

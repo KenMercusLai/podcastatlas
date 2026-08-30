@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-31] ingest | Socialists Sweep NYC, China Catches Up in Coding, AI Memory Crunch, Micron's Blowout Quarter
+
+Ingested the 2026-06-26 All-In episode on New York DSA primary wins, Mamdani's communication playbook, GLM 5.2 and Chinese open-weight AI, model-release delays and cyber-defense framing, Micron/HBM supply, modular and orbital data-center economics, and AI IPO absorption. Created the source note plus `TravisKalanick` and `ModularAIDataCenters`; updated `DemocraticSocialistsOfAmerica`, `ZohranMamdani`, `GavinBaker`, `GLM52`, `ChineseOpenWeightAIStrategy`, `MicronTechnology`, `HighBandwidthMemory`, `SpaceBasedAIInfrastructure`, `OrbitalDataCenterEconomics`, `AIIPOValuation`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; DSA election interpretation, GLM benchmark details, Micron figures, SpaceX liquidity comments, and Anthropic valuation scenarios remain source-scoped.
+
 ## [2026-08-31] ingest | AI 下半场，不会只剩一个超级模型｜对谈 Kevin Ding：Pyromind 创始人/CEO
 
 Ingested the 2026-08-30 十字路口Crossing episode with Kevin Ding on Pyromind's Auto RL thesis, Studio/Echomind/PyroDash product split, industrial ROI filtering, FDE boundaries, scenario reward signals, and worker/base model routing. Created the source note plus Kevin Ding, Pyromind, Pyromind Studio, Echomind, PyroDash, Auto RL Production Loop, Scenario-Level Reward Signal, Industrial AI ROI Filter, and Worker-Base Model Routing pages; updated index and overview. No settled contradiction found; funding, team size, customer count, benchmark, cost-saving, pricing, and quality-inspection metrics remain source-scoped.
@@ -14138,6 +14142,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-31] ingest | EP93 眼见恒大起高楼，转眼首富入高墙
 
 Ingested the 2026-08-30 一劳永逸 episode on Evergrande and Xu Jiayin's rise and collapse: low-price fast sales, presale financing, high-turnover leverage, Hong Kong listing credit, dollar bonds, perpetual bonds, commercial paper, Evergrande Wealth, strategic-investor pressure, three red lines, supplier defaults, unfinished homes, delisting, and liquidation. Created the source note plus `EvergrandeWealth`, `RenZeping`, `RealEstateHighTurnoverLeverage`, `HousingPresaleFinancingRisk`, `DeveloperHiddenDebtStack`, `ThreeRedLinesPolicy`, and `GuaranteedHomeDeliveryCrisis`; updated `Evergrande`, `XuJiayin`, `ChinaRealEstateDebtCycle`, `index`, and `overview`. No settled contradiction found; legal punishment, debt totals, owner counts, delivery progress, and possible side agreements remain source-scoped episode claims.
+
+## [2026-08-31] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-31] lint | Wiki health check
 

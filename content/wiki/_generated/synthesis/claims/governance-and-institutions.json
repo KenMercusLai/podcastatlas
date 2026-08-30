@@ -2,6 +2,24 @@
   "claims": [
     {
       "global_candidate": false,
+      "id": "ai-legitimacy-and-left-primary-pressure-interact",
+      "qualifications": [
+        "The DSA platform, candidate names, district results, voter-base descriptions, and social-media radicalization claims are source-scoped host interpretations.",
+        "The claim does not treat one New York primary discussion as a national governing mandate or as neutral analysis of socialist policy."
+      ],
+      "statement": "The GLM/Micron All-In source links AI-era legitimacy to electoral pressure: [[DemocraticSocialistsOfAmerica]] and [[ZohranMamdani]] show left-populist organizing and communication gaining force in New York primaries, while [[TravisKalanick]], [[GavinBaker]], and [[AllIn]] frame truth norms, social-media age gates, and Silicon Valley AI messaging failures as institutional trust problems rather than only campaign tactics.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335",
+        "DemocraticSocialistsOfAmerica",
+        "ZohranMamdani",
+        "TravisKalanick",
+        "GavinBaker",
+        "AllIn"
+      ]
+    },
+    {
+      "global_candidate": false,
       "id": "late-han-748-zhangdi-ma-restraint-and-exemplar-prelude",
       "qualifications": [
         "This claim is source-scoped to Hanji 748 as a 76 CE backfill before Hanji 749 and does not replace later Ma-family title, command, or lost-patronage layers.",
@@ -3473,7 +3491,7 @@
     }
   ],
   "input_digest": "15e7ba0332ec3baa010349d12690a73e73c83fbe1fabd046762d973fa36f4f83",
-  "summary": "Hanji 748 now pushes the Emperor Zhang governance branch back to 76 CE: Empress Ma blocks Ma-family enfeoffment, rejects drought-based flattery, models austerity, cuts kin allowances, orders legal limits, and corrects family tomb display before Hanji 749 adds exemplar, in-law command, Qiang, public-works, and Ban Chao layers.",
+  "summary": "The All-In GLM/Micron episode adds a legitimacy-politics edge: [[DemocraticSocialistsOfAmerica]], [[ZohranMamdani]], [[TravisKalanick]], and [[AllIn]] tie New York primary organizing, social-media politics, truth-and-justice rhetoric, and Silicon Valley AI communication failures to institutional trust; candidate and platform claims remain source-scoped. Hanji 748 now pushes the Emperor Zhang governance branch back to 76 CE: Empress Ma blocks Ma-family enfeoffment, rejects drought-based flattery, models austerity, cuts kin allowances, orders legal limits, and corrects family tomb display before Hanji 749 adds exemplar, in-law command, Qiang, public-works, and Ban Chao layers.",
   "title": "Governance and Institutions",
   "topic_id": "governance-and-institutions"
 }
