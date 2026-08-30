@@ -5,47 +5,53 @@ knowledge_schema: synthesis-v1
 tags: [person, eastern-han, dou-family, court-politics, outer-relative]
 sources:
   - zizhi-tongjian-hanji-762-lishi-gaosu-ni-nanren-youquan-neng-you-duo-huangtang-limdo2hfd8epcfkwwsrmzz9no0dj
+  - zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex
 last_updated: 2026-08-30
 ---
 
-# 窦景 / Dou Jing (Eastern Han)
-
 ## Overview
 
-窦景 / Dou Jing appears in [[zizhi-tongjian-hanji-762-lishi-gaosu-ni-nanren-youquan-neng-you-duo-huangtang-limdo2hfd8epcfkwwsrmzz9no0dj|Hanji 762]] as the abusive Dou-family brother whose household conduct makes [[DouXianEasternHan|Dou Xian]]'s restored power socially visible before the later palace-crisis layer. His importance is not independent statecraft but the way private household impunity, rank proximity, and military access expose a dangerous outer-relative bloc.
+窦景 / Dou Jing appears as the Dou-family brother whose household conduct, mansion construction, private force access, and palace-guard command make [[DouXianEasternHan|Dou Xian]]'s family power socially and militarily visible. Hanji 761 now adds the earlier construction and guard layer, while Hanji 762 gives the later household-abuse and unauthorized cavalry-recall case.
 
 ## Current Profile
 
-Dou Jing is described as holding the post of zhijinwu while acting without meaningful constraint. The source says he relies on his family position to let household servants and cavalry harass commoners, seize property, and humiliate women. This turns court rank into everyday coercion.
+Hanji 761 places Dou Jing beside [[DouDuEasternHan|Dou Du]] as a beneficiary of [[EmpressDowagerDouHeLateHan|Empress Dowager Dou]]'s ignored-remonstrance order. While officials object to the Northern Xiongnu campaign and public burdens, the dowager orders mansions built for the brothers. [[HeChangEasternHan|He Chang]] criticizes those residences as connected luxury projects imposed during campaign mobilization, commoner distress, and fiscal emptiness.
 
-The most serious charge is unauthorized force mobilization. [[YuanAnEasternHan|Yuan An]] impeaches Dou Jing for recalling elite border cavalry to guard his residence without the formal tally authorization required for troop movement. That makes Dou Jing a concrete example of the Dou family's drift from influence into command-like private power.
+The same source says the brothers' power grows after Dou Xian's northern victory. Dou Xian controls military power, while Dou Du and Dou Jing command palace guard forces. Dou Jing therefore marks the guard-power layer of the Dou household as well as the luxury layer.
+
+Hanji 762 then makes the social and legal danger concrete. Dou Jing holds the zhijinwu post while household servants and cavalry harass commoners, seize property, and humiliate women. [[YuanAnEasternHan|Yuan An]] impeaches him for recalling elite border cavalry to guard his residence without the formal tally authorization required for troop movement.
 
 ## Key Characteristics
 
-- Dou-family brother whose office and kinship make private coercion hard to check.
+- Dou-family brother whose kinship and office make private coercion hard to check.
+- Mansion beneficiary during a moment of campaign mobilization and public strain.
+- Palace-guard commander after Dou Xian's Northern Xiongnu victory.
 - Household-centered abuser whose servants and riders damage ordinary people and commerce.
-- Uses frontier cavalry for private security without proper authorization.
-- Becomes Yuan An's clearest early legal target in the anti-Dou sequence.
-- Illustrates how outer-relative dominance reaches beyond palace politics into social intimidation.
+- Yuan An's clearest early legal target for unauthorized frontier-troop use.
+- Evidence node for how outer-relative dominance reaches beyond palace politics into social intimidation.
 
 ## Evidence
 
+- Mansion construction and burden: [[zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex|Hanji 761]] says Empress Dowager Dou orders mansions built for Dou Jing and Dou Du, and He Chang criticizes the work as public burden during mobilization and fiscal strain.
+- Palace guard command: [[zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex|Hanji 761]] says Dou Jing and Dou Du command palace guard forces after Dou Xian's victory.
 - Household abuse: [[zizhi-tongjian-hanji-762-lishi-gaosu-ni-nanren-youquan-neng-you-duo-huangtang-limdo2hfd8epcfkwwsrmzz9no0dj|Hanji 762]] says Dou Jing's servants and riders rob or seize property, humiliate women, and intimidate merchants.
 - Private troop access: [[zizhi-tongjian-hanji-762-lishi-gaosu-ni-nanren-youquan-neng-you-duo-huangtang-limdo2hfd8epcfkwwsrmzz9no0dj|Hanji 762]] says Dou Jing recalls frontier cavalry to guard his residence.
 - Impeachment target: [[zizhi-tongjian-hanji-762-lishi-gaosu-ni-nanren-youquan-neng-you-duo-huangtang-limdo2hfd8epcfkwwsrmzz9no0dj|Hanji 762]] has Yuan An argue that unauthorized frontier-troop movement should be capitally punishable and that officials who concealed Dou Jing's conduct should also be punished.
 
 ## Qualifications
 
-The page is bounded to Hanji 762. It does not reconstruct Dou Jing's full office chronology or later fate, and it treats the source's household-abuse claims as the episode's framing rather than an independently cross-checked biography.
+This page does not reconstruct Dou Jing's full office chronology or later fate. Hanji 761 and Hanji 762 give adjacent but source-scoped layers: luxury construction and guard command in one note, then household abuse and unauthorized frontier-cavalry recall in the next.
 
 ## What Changed
 
-- Hanji 762 creates Dou Jing as a standalone Eastern Han entity.
-- The current profile frames him as the concrete household-abuse and private-force example inside early Dou-family overreach.
+- Added Hanji 761 as Dou Jing's mansion-construction and palace-guard command layer before Hanji 762's household-abuse evidence.
+- Reframed Dou Jing as both a private-force and palace-guard example of Dou-family overreach.
 
 ## Relationships
 
-- [[DouXianEasternHan|Dou Xian]] - brother whose restored rank forms the broader family-power context for Dou Jing's abuse.
-- [[YuanAnEasternHan|Yuan An]] - impeaches Dou Jing and makes his unauthorized troop recall a legal-political issue.
-- [[DouGuiEasternHan|Dou Gui]] - restrained Dou relative whom Yuan An contrasts with the aggressive Dou brothers.
-- [[OuterRelativeCourtPower|Outer-Relative Court Power]] - provides the structural pattern Dou Jing exemplifies.
+- [[DouXianEasternHan|Dou Xian]] - brother whose victory and restored rank form the broader family-power context for Dou Jing.
+- [[DouDuEasternHan|Dou Du]] - paired brother in mansion construction and palace-guard command.
+- [[EmpressDowagerDouHeLateHan|窦太后]] - dowager whose order enables the mansion construction.
+- [[HeChangEasternHan|何敞]] - official who criticizes the mansion project as public burden.
+- [[YuanAnEasternHan|Yuan An]] - impeaches Dou Jing and makes unauthorized troop recall a legal-political issue.
+- [[OuterRelativeCourtPower|Outer-Relative Court Power]] - structural pattern Dou Jing exemplifies through luxury, guards, and private coercion.

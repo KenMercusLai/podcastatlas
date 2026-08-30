@@ -5,51 +5,59 @@ knowledge_schema: synthesis-v1
 tags: [person, eastern-han, empress-dowager, harem-politics, court-politics]
 sources:
   - zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q
+  - zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex
 last_updated: 2026-08-30
 ---
 
 ## Overview
 
-窦太后 / Empress Dowager Dou enters the wiki as the adoptive mother of [[EmperorHeOfHan|Emperor He]] whose death exposes the hidden [[LiangGuirenHeLateHan|Liang Guiren]] birth-mother case. In Hanji 770, she is both the alleged source of Liang and [[SongGuirenZhangHeLateHan|Song Guiren]]'s deaths and the deceased mother-figure whose posthumous title and burial Emperor He refuses to strip.
+窦太后 / Empress Dowager Dou now has two bounded He-era layers in the wiki. Hanji 761 shows her acting authority during [[DouXianEasternHan|Dou Xian]]'s Northern Xiongnu campaign: she ignores remonstrance, supports Dou-family mansion construction, favors Dou in the [[ZhiShouEasternHan|Zhi Shou]] case, and receives Dou's report on the Northern Xiongnu hostage. Hanji 770 later shows her posthumous status becoming contested after [[EmperorHeOfHan|Emperor He]] learns the hidden [[LiangGuirenHeLateHan|Liang Guiren]] birth-mother case.
 
 ## Current Profile
 
-Hanji 770 begins after Dou Taihou's death in 97 CE. Liang relatives tell the Three Excellencies that Han custom honors the emperor's birth mother, but Liang Guiren, who bore Emperor He, had received no proper title because the truth had been concealed. The source says Emperor He is shocked when [[ZhangPuEasternHan|Zhang Pu]] reports the claim and later learns more about Liang's death under Dou's pressure.
+Hanji 761 presents the living dowager as a political enabler of Dou-family power. Officials object to the Northern Xiongnu expedition on mourning, farming, logistics, and legitimacy grounds, but she does not accept the objections. She then orders mansions built for [[DouDuEasternHan|Dou Du]] and [[DouJingEasternHan|Dou Jing]], making family privilege visible during public mobilization and fiscal strain.
 
-The court response makes Dou's status contested. The Three Excellencies and many officials propose following a precedent associated with Guangwu and Li Taihou by removing Dou's dowager title and denying burial with [[EmperorZhangOfHan|Emperor Zhang]]. Emperor He rejects that advice. He says he had served Dou as mother for ten years, will not divide her from Zhang's tomb, and will not keep reopening the demotion proposal.
+The same source makes her judicial role dangerous. When Dou Xian retaliates against Zhi Shou for publicizing a private letter and attacking the campaign, the dowager favors Dou's accusation, and Zhi receives a death sentence before [[HeChangEasternHan|He Chang]] secures mitigation to exile. She also serves as the authority to whom Dou reports when the Northern Xiongnu chanyu's younger brother is sent as hostage and then returned because the chanyu does not personally come.
 
-Dou's current profile is therefore morally and ritually ambivalent. The source treats her prior conduct as harmful, especially toward Liang Guiren and Song Guiren, but Emperor He's decision keeps her posthumous mother status intact. Her page is the negative and necessary counterpart to [[StraightRedressWithoutRevenge|straight redress without revenge]]: redress of victims can occur without turning family guilt into total erasure of a deceased dowager's recognized role.
+Hanji 770 begins after Dou Taihou's death in 97 CE. Liang relatives reveal that Liang Guiren, Emperor He's birth mother, had not received proper recognition because the truth had been concealed, and the source says Liang and [[SongGuirenZhangHeLateHan|Song Guiren]] were forced to death under Dou's pressure. Senior officials propose stripping Dou's dowager title and burial pairing with [[EmperorZhangOfHan|Emperor Zhang]], but Emperor He refuses because he had served her as mother for ten years.
+
+Her current profile is therefore ambivalent in two directions. As living dowager, she enables the Dou brothers' power and suppresses criticism. As deceased adoptive mother, she remains ritually protected by Emperor He even while victims are redressed.
 
 ## Key Characteristics
 
-- Emperor He's adoptive mother and formal empress dowager until her death in 97 CE.
-- Alleged source of lethal pressure against Liang Guiren and Song Guiren in Hanji 770.
+- Emperor He's adoptive mother and formal empress dowager.
+- Living authority who ignores anti-campaign remonstrance and backs Dou-family construction.
+- Judicially consequential patron because her favoritism helps turn Zhi Shou's criticism into a death sentence.
 - Posthumous status target after officials ask Emperor He to remove her title and burial pairing.
 - Retains dowager dignity because Emperor He preserves the adoptive mother-son relationship and burial order.
 - Kept separate from the later [[EmpressDowagerDouMiao|Dou Miao]] route despite the shared "窦太后" title.
 
 ## Evidence
 
+- Ignored remonstrance and construction order: [[zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex|Hanji 761]] says Han Leng, Zhu Hui, Le Hui, and other critics oppose Dou Xian's expedition, but the dowager does not accept the advice and orders mansions for Dou Du and Dou Jing.
+- Zhi Shou death sentence: [[zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex|Hanji 761]] says the dowager favors Dou Xian after he accuses Zhi Shou, leading to a death sentence before He Chang's mitigation.
+- Hostage-return authority: [[zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex|Hanji 761]] says Dou reports to the dowager before returning the Northern Xiongnu chanyu's hostage brother.
 - Death and revelation trigger: [[zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q|Hanji 770]] says Dou Taihou dies before Liang relatives reveal the hidden birth-mother case.
 - Harm allegation: [[zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q|Hanji 770]] says Liang Guiren and Song Guiren had both been forced to death by Dou Taihou.
-- Demotion proposal: [[zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q|Hanji 770]] records senior officials asking to remove Dou's title and deny burial with Emperor Zhang.
-- Imperial refusal: [[zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q|Hanji 770]] says Emperor He refuses because he had served Dou as mother for ten years and will not separate her from the deceased emperor.
-- Parallel victim case: [[zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q|Hanji 770]] says Liu Qing later requests seasonal sacrifices for Song Guiren after the Liang redress.
+- Demotion refusal: [[zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q|Hanji 770]] records senior officials asking to remove Dou's title and burial pairing, while Emperor He refuses because he had served Dou as mother.
 
 ## Qualifications
 
-This page is bounded to Hanji 770 and does not reconstruct Dou Taihou's full life, earlier regency politics, or independent defense. The harm claims are recorded as the episode's account of the Liang and Song grievances; the page's synthesis focuses on the posthumous status problem created after those claims reach Emperor He.
+This page remains bounded to Hanji 761 and Hanji 770 and does not reconstruct Dou Taihou's full life, independent defense, or every regency decision. Hanji 761 gives a living political-power layer; Hanji 770 gives a posthumous status and victim-redress layer. The page treats those as sequentially compatible rather than as a contradiction.
 
 ## What Changed
 
-- Created the Emperor-He-era Dou Taihou page as the adoptive-mother and disputed posthumous-status actor.
-- Explicitly disambiguated her from the later Dou Miao empress-dowager page.
+- Added Hanji 761 as the living dowager authority layer behind campaign approval, mansion construction, and the Zhi Shou case.
+- Rebalanced the page so her posthumous dignity in Hanji 770 sits beside earlier evidence of active Dou-family favoritism.
+- Preserved disambiguation from the later Dou Miao empress-dowager page.
 
 ## Relationships
 
-- [[EmperorHeOfHan|汉和帝]] - adoptive son who refuses to strip her posthumous status.
-- [[LiangGuirenHeLateHan|梁贵人]] - birth mother whose hidden death grievance exposes Dou's conduct.
+- [[EmperorHeOfHan|汉和帝]] - adoptive son who later refuses to strip her posthumous status.
+- [[DouXianEasternHan|窦宪]] - brother or close Dou-family powerholder whose campaign and retaliation she enables in Hanji 761.
+- [[DouDuEasternHan|窦笃]] - mansion beneficiary under her construction order.
+- [[DouJingEasternHan|窦景]] - mansion beneficiary under her construction order.
+- [[ZhiShouEasternHan|郅寿]] - remonstrant whose death sentence follows her favoritism toward Dou Xian.
+- [[LiangGuirenHeLateHan|梁贵人]] - birth mother whose hidden death grievance exposes Dou's conduct in Hanji 770.
 - [[SongGuirenZhangHeLateHan|宋贵人]] - parallel consort said to have been forced to death by Dou.
-- [[EmperorZhangOfHan|汉章帝]] - deceased spouse whose burial pairing remains protected.
 - [[StraightRedressWithoutRevenge|以直报怨式平反]] - concept defined by repairing Dou's victims without erasing her formal mother role.
-- [[ImperialBurialLegitimacy|帝后合葬名分]] - adjacent ritual-status issue because burial pairing becomes a political judgment.

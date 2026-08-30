@@ -1,46 +1,61 @@
 ---
 title: "名声约束下的战争节制 / Reputation-Constrained War Restraint"
 type: concept
+knowledge_schema: synthesis-v1
 tags: [war, reputation, legitimacy, statecraft, late-han]
 sources:
   - zizhi-tongjian-hanji-1052-sanguo-zhongchen-zhanghong-jing-wannong-caocao-yu-guzhang-ljc3sd7meigo37uy-1fxnkx-psqg
-last_updated: 2026-08-29
-knowledge_schema: synthesis-v1
+  - zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex
+last_updated: 2026-08-30
 ---
 
-# 名声约束下的战争节制 / Reputation-Constrained War Restraint
-
 ## Definition
-名声约束下的战争节制 / Reputation-Constrained War Restraint is the pattern where a ruler or commander restrains an opportunistic attack because the public moral cost and enemy-creation risk outweigh the immediate military opening.
+
+名声约束下的战争节制 / Reputation-Constrained War Restraint is the pattern where a ruler, commander, or court restrains an opportunistic attack because the public moral cost, ritual timing, civilian burden, or enemy-creation risk outweighs the immediate military opening.
 
 ## Current Synthesis
-Hanji 1052 supplies the current case through [[ZhangHongLateHan|张纮]]'s advice to [[CaoCao|曹操]]. After [[SunCe|孙策]] dies, Cao Cao considers attacking [[SunQuan|孙权]] while Jiangdong is in mourning. Zhang Hong argues that such a move would look unrighteous and would be strategically foolish if it failed, because it could create a fresh enemy.
 
-The concept is not simple pacifism. Zhang Hong's argument protects Sun-family interests, but it also gives Cao Cao a self-interested reason to avoid reputational damage and escalation. Cao's alternative response, recommending Sun Quan for office, shows how restraint can convert a vulnerable moment into recognition politics rather than immediate war.
+The concept now has two bounded branches. In Hanji 1052, [[ZhangHongLateHan|Zhang Hong]] restrains [[CaoCao|Cao Cao]] from attacking mourning Jiangdong after [[SunCe|Sun Ce]] dies. His argument combines moral reputation and strategy: attacking during mourning looks unrighteous, and failure could create a durable enemy in [[SunQuan|Sun Quan]]. Cao's alternative response, recommending Sun Quan for office, shows restraint becoming recognition politics rather than immediate war.
+
+Hanji 761 adds an earlier Eastern Han court branch. Officials object to [[DouXianEasternHan|Dou Xian]]'s Northern Xiongnu expedition because the state is still in mourning, spring mobilization disrupts farming, supply is already strained, and the [[NorthernXiongnuLateHan|Northern Xiongnu]] has been pushed far from the frontier without a fresh direct offense. [[HeChangEasternHan|He Chang]] sharpens the argument by saying attack and Dou-family mansion construction together make the court look unworthy of later emulation.
+
+The current synthesis is that reputation-constrained restraint is not pacifism. It is a decision discipline that ties morality to practical risk: public norms, mourning, farming season, frontier legitimacy, and future enemies can make a tempting strike worse than delay, recognition, or diplomatic handling.
 
 ## Key Claims
-- A visible violation of mourning or ritual norms can make a militarily tempting action politically expensive.
-- Restraint can be strategic when a failed attack would manufacture a durable enemy.
-- Reputation arguments work best when they connect moral language to the decision-maker's own risk.
-- Recognition can become an alternative to attack when formal office gives the stronger party influence without open war.
-- The pattern differs from moralized war pretext because morality restrains the use of force instead of licensing it.
+
+- Mourning or ritual timing can make a militarily tempting action politically expensive.
+- Restraint becomes stronger when moral language is tied to concrete costs such as farming disruption, fiscal strain, logistics, or enemy creation.
+- Opportunistic attack against a weakened opponent can damage legitimacy when the target has not committed a fresh offense.
+- Recognition, delay, or diplomatic handling can become alternatives to force when open attack would create public and strategic backlash.
+- The pattern differs from moralized war pretext because moral judgment restrains force rather than licensing it.
 
 ## Evidence
-- Attack temptation: [[zizhi-tongjian-hanji-1052-sanguo-zhongchen-zhanghong-jing-wannong-caocao-yu-guzhang-ljc3sd7meigo37uy-1fxnkx-psqg|Hanji 1052]] says Cao Cao wants to attack Jiangdong after Sun Ce's death while Sun Quan is newly succeeding.
-- Moral and strategic restraint: [[zizhi-tongjian-hanji-1052-sanguo-zhongchen-zhanghong-jing-wannong-caocao-yu-guzhang-ljc3sd7meigo37uy-1fxnkx-psqg|Hanji 1052]] presents Zhang Hong's argument that attacking during mourning is not righteous and may create a new enemy if unsuccessful.
-- Recognition alternative: [[zizhi-tongjian-hanji-1052-sanguo-zhongchen-zhanghong-jing-wannong-caocao-yu-guzhang-ljc3sd7meigo37uy-1fxnkx-psqg|Hanji 1052]] has Cao Cao accept the restraint and recommend Sun Quan as 讨虏将军 and Kuaiji administrator instead.
-- Succession consequence: [[zizhi-tongjian-hanji-1052-sanguo-zhongchen-zhanghong-jing-wannong-caocao-yu-guzhang-ljc3sd7meigo37uy-1fxnkx-psqg|Hanji 1052]] connects the external restraint to Jiangdong's ability to stabilize around Sun Quan.
+
+- Mourning-attack restraint: [[zizhi-tongjian-hanji-1052-sanguo-zhongchen-zhanghong-jing-wannong-caocao-yu-guzhang-ljc3sd7meigo37uy-1fxnkx-psqg|Hanji 1052]] says Zhang Hong argues against Cao Cao attacking Jiangdong while Sun Quan is newly succeeding after Sun Ce's death.
+- Enemy-creation risk: [[zizhi-tongjian-hanji-1052-sanguo-zhongchen-zhanghong-jing-wannong-caocao-yu-guzhang-ljc3sd7meigo37uy-1fxnkx-psqg|Hanji 1052]] says failed attack could create a new enemy, giving Cao a self-interested reason to avoid reputational damage.
+- Recognition alternative: [[zizhi-tongjian-hanji-1052-sanguo-zhongchen-zhanghong-jing-wannong-caocao-yu-guzhang-ljc3sd7meigo37uy-1fxnkx-psqg|Hanji 1052]] has Cao accept restraint and recommend Sun Quan as 讨虏将军 and Kuaiji administrator.
+- Eastern Han mourning and farming objection: [[zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex|Hanji 761]] says officials oppose Dou Xian's expedition because the state is still in mourning and spring conscription disrupts farming.
+- No-fresh-offense argument: [[zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex|Hanji 761]] says critics argue Northern Xiongnu has no fresh rebellion or direct humiliation requiring revenge.
+- Public-burden frame: [[zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex|Hanji 761]] says He Chang links mobilization, fiscal emptiness, public distress, and Dou-family luxury construction into one warning.
 
 ## Counterevidence & Qualifications
-The episode does not prove that Cao Cao became morally gentle or that reputation always overrides military opportunity. The restraint is contingent: Zhang Hong makes a case that combines public shame, ritual timing, and enemy-creation risk. The title's dramatic language should also remain source-scoped; the evidence supports persuasion and mediation, not total control over Cao Cao.
+
+Hanji 761 is also the clearest qualification: the restraint argument fails, and Dou Xian wins a major victory at [[JiluoshanBattleLateHan|Jiluoshan]]. The concept therefore does not claim that restraint arguments always prevail or that a criticized war cannot succeed militarily. It only identifies a recurring decision argument: an attack can be strategically tempting yet still carry moral, reputational, fiscal, and future-order costs.
+
+Hanji 1052 likewise does not prove that Cao Cao became morally gentle. Zhang Hong's success depends on aligning public shame with Cao's own risk calculus.
 
 ## What Changed
-- Created the concept from Hanji 1052's Zhang Hong-Cao Cao restraint scene.
+
+- Added Hanji 761 as an Eastern Han mourning, farming, fiscal, and no-fresh-offense branch before the Zhang Hong-Cao Cao case.
+- Reframed the concept around public-cost and legitimacy constraints, not only enemy-creation risk.
+- Kept the concept qualified because Hanji 761's restraint argument loses to a successful campaign.
 
 ## Related Concepts
+
 - [[MoralizedWarPretext|道德化战争借口]] - contrast because moral language here restrains war rather than justifying it.
 - [[MingqiLegitimacy|名器合法性]] - legitimacy relationship because recognition through office replaces attack as Cao Cao's chosen move.
-- [[ReputationConstrainedTalentProtection|名声约束下的人才保护]] - parallel mechanism where reputation pressure limits destructive treatment of valuable people.
-- [[PoliticalSurvivalFirst|安全第一政治生存]] - pragmatic relationship because the argument ties morality to avoiding a newly created enemy.
+- [[HeChangEasternHan|何敞]] - Eastern Han source case for joining war restraint to public-cost critique.
+- [[DouXianEasternHan|窦宪]] - commander whose successful campaign qualifies the force of restraint arguments.
+- [[NorthernXiongnuLateHan|北匈奴]] - weakened target whose distance and lack of fresh offense become restraint arguments in Hanji 761.
+- [[PoliticalSurvivalFirst|安全第一政治生存]] - pragmatic relationship because reputation arguments work when tied to decision-maker risk.
 - [[PeopleBasedPoliticalSecurity|民心型政治安全]] - social-security relationship because visible public judgment can make coercion politically unsafe.
-- [[SuccessionAuthorityConsolidation|继位权威整合]] - succession relationship because restraint gives Sun Quan's internal support structure time to become visible.
