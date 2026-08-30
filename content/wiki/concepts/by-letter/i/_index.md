@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 5985
+wiki_total_pages: 5986
 wiki_pages:
   - key: "ICEWorkforceExpansion"
     title: "ICE Workforce Expansion"
@@ -485,6 +485,9 @@ wiki_pages:
   - key: "InterleavedThinking"
     title: "Interleaved Thinking"
     url: "/wiki/concepts/interleavedthinking/"
+  - key: "IntermediaryRouteGatekeeping"
+    title: "Intermediary Route Gatekeeping / 中介路线门控"
+    url: "/wiki/concepts/intermediaryroutegatekeeping/"
   - key: "IntermediarySpeechPressure"
     title: "Intermediary Speech Pressure"
     url: "/wiki/concepts/intermediaryspeechpressure/"

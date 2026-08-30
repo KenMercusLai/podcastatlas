@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 8394
+wiki_total_pages: 8398
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -791,6 +791,9 @@ wiki_pages:
   - key: "PrinceShenWei"
     title: "太子申 / Prince Shen of Wei"
     url: "/wiki/entities/princeshenwei/"
+  - key: "ParthianEmpire"
+    title: "安息 / Parthian Empire"
+    url: "/wiki/entities/parthianempire/"
   - key: "ParisForeignMissionsSociety"
     title: "巴黎外方传教会 / Paris Foreign Missions Society"
     url: "/wiki/entities/parisforeignmissionssociety/"

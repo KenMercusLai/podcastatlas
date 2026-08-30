@@ -12995,6 +12995,10 @@
     "title": "呆萝卜 / Da Luobo",
     "url": "/wiki/entities/daluobo/"
   },
+  "DaQin": {
+    "title": "大秦 / Da Qin",
+    "url": "/wiki/entities/daqin/"
+  },
   "DaShiHua": {
     "title": "大食话 / Da Shi Hua",
     "url": "/wiki/entities/dashihua/"
@@ -20023,6 +20027,10 @@
     "title": "甘宁 / Gan Ning",
     "url": "/wiki/entities/ganning/"
   },
+  "GanYingEasternHan": {
+    "title": "甘英 / Gan Ying (Eastern Han)",
+    "url": "/wiki/entities/ganyingeasternhan/"
+  },
   "GanbaMushroom": {
     "title": "干巴菌 / Ganba Mushroom",
     "url": "/wiki/entities/ganbamushroom/"
@@ -25250,6 +25258,10 @@
   "InterleavedThinking": {
     "title": "Interleaved Thinking",
     "url": "/wiki/concepts/interleavedthinking/"
+  },
+  "IntermediaryRouteGatekeeping": {
+    "title": "Intermediary Route Gatekeeping / 中介路线门控",
+    "url": "/wiki/concepts/intermediaryroutegatekeeping/"
   },
   "IntermediarySpeechPressure": {
     "title": "Intermediary Speech Pressure",
@@ -37903,6 +37915,10 @@
     "title": "PartNet / PartNet Mobility",
     "url": "/wiki/entities/partnet/"
   },
+  "ParthianEmpire": {
+    "title": "安息 / Parthian Empire",
+    "url": "/wiki/entities/parthianempire/"
+  },
   "PartialAbdicationPowerSplit": {
     "title": "Partial Abdication Power Split / 退位留权式权力分裂",
     "url": "/wiki/concepts/partialabdicationpowersplit/"
@@ -50351,6 +50367,10 @@
     "title": "天线宝宝猞猁 / Tianxian Baobao Lynx",
     "url": "/wiki/entities/tianxianbaobaolynx/"
   },
+  "TiaozhiKingdom": {
+    "title": "条支国 / Tiaozhi Kingdom",
+    "url": "/wiki/entities/tiaozhikingdom/"
+  },
   "TiborKalman": {
     "title": "Tibor Kalman",
     "url": "/wiki/entities/tiborkalman/"
@@ -62642,6 +62662,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf": {
+    "title": "《资治通鉴·汉纪》771丨寻找罗马！汉使甘英的世界旅行",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf/"
   },
   "zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae": {
     "title": "《资治通鉴·汉纪》772丨他为何宁愿成为逃犯，也不愿继承家业？",

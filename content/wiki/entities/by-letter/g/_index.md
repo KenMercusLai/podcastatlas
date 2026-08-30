@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 8394
+wiki_total_pages: 8398
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -887,6 +887,9 @@ wiki_pages:
   - key: "GanquanPalace"
     title: "甘泉宫 / Ganquan Palace"
     url: "/wiki/entities/ganquanpalace/"
+  - key: "GanYingEasternHan"
+    title: "甘英 / Gan Ying (Eastern Han)"
+    url: "/wiki/entities/ganyingeasternhan/"
   - key: "GanMao"
     title: "甘茂 / Gan Mao"
     url: "/wiki/entities/ganmao/"

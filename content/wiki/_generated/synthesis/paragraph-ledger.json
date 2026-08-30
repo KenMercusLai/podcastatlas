@@ -398,13 +398,14 @@
       "fa2bb49857ac26cb533ae14a4cc21fb8c9bcedab808a46832dcf8b31ade00a18",
       "4aec524162783153bd9de6fc8aaf28b4b45a60c3433caa62e6442f020af99d44",
       "5463cac3a05898616fdcdbe4bbf0fffe113a112bf4093056579dfb7f48e3eca2",
+      "1aac611f89d8236d69b21c1363cb0d72ac05c8cc15f9f381be278ac7b89f2bd6",
       "f44e5469f37f332e8fdbac6a5ae1a2c4a5935bfc6ab6eaaf3380385fb8cb290a",
       "0944897fad2beac2f301b796bb694027832267e2eb18cd26f5a96047fddc2fde"
     ],
-    "paragraph_count": 399
+    "paragraph_count": 400
   },
-  "overview_commit": "55212dd61e9708c7472251baef7f4a96c2cafe6c",
-  "overview_digest": "2646fe85e26f4b8b24320f276fbff9dee6a5ab1e9ff23214866996c2ddb8a68c",
+  "overview_commit": "c126abb8e44fecadaa1b46eef3a2f6e2b3e8ab19",
+  "overview_digest": "645ab3c90ece15023a59ce7de8569678d4a61740c7fbdd9fccb94df33f1aed97",
   "paragraphs": [
     {
       "id": "76439d5a84c3e146cc75ca3dd110deeb51c4dcd3e2e69896481f9ba03f15b1a2",
@@ -12262,6 +12263,29 @@
         "PolicyBoundAgenticLendingSupport",
         "TamaraClay",
         "ep-44-human-centered-credit-building-explainable-ai-for-lending-in-an-agentic-world"
+      ]
+    },
+    {
+      "id": "1aac611f89d8236d69b21c1363cb0d72ac05c8cc15f9f381be278ac7b89f2bd6",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf|《资治通鉴·汉纪》771丨寻找罗马！汉使甘英的世界旅行]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 98 CE [[EmperorHeOfHan|汉和帝]] layer before [[zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae|Hanji 772]]. It adds [[GanYingEasternHan|甘英]], [[DaQin|大秦]], [[ParthianEmpire|安息 / 帕提亚帝国]], [[TiaozhiKingdom|条支国]], and [[IntermediaryRouteGatekeeping|中介路线门控]], while extending [[BanChaoEasternHan|班超]], [[RomanEmpire|罗马帝国]], [[EmperorHeOfHan|汉和帝]], and [[MiTangQiangLeader|弥唐]]. Its core synthesis is that Gan Ying's failure to reach Rome still expands Han knowledge: Ban Chao's Western Regions command becomes a platform for far-western inquiry, while Parthian sea-route warnings turn route information into practical gatekeeping. No settled contradiction is recorded; the Persian Gulf reading of the \"great sea\" is kept as the host's preferred geography rather than a resolved conclusion, and Han Leng, Chao Kan, Liu Shang, Zhao Shi, Wang Xin, Geng Tan, Marcus Aurelius, and exact route details remain source-scoped.",
+      "topic_scores": {
+        "history-and-geopolitics": 3
+      },
+      "wikilinks": [
+        "BanChaoEasternHan",
+        "DaQin",
+        "EmperorHeOfHan",
+        "GanYingEasternHan",
+        "IntermediaryRouteGatekeeping",
+        "MiTangQiangLeader",
+        "ParthianEmpire",
+        "RomanEmpire",
+        "RuiqiJiangtouZizhiTongjian",
+        "TiaozhiKingdom",
+        "zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf",
+        "zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae"
       ]
     },
     {

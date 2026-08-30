@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2031
+topic_total_pages: 2036
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -1417,6 +1417,9 @@ topic_concepts:
   - key: "InterestBasedCoalitionSabotage"
     title: "Interest-Based Coalition Sabotage / 利益瓦解合纵"
     url: "/wiki/concepts/interestbasedcoalitionsabotage/"
+  - key: "IntermediaryRouteGatekeeping"
+    title: "Intermediary Route Gatekeeping / 中介路线门控"
+    url: "/wiki/concepts/intermediaryroutegatekeeping/"
   - key: "InternalSafetyResearchExposure"
     title: "Internal Safety Research Exposure"
     url: "/wiki/concepts/internalsafetyresearchexposure/"
@@ -5246,6 +5249,9 @@ topic_entities:
   - key: "KongXiangxi"
     title: "孔祥熙"
     url: "/wiki/entities/kongxiangxi/"
+  - key: "ParthianEmpire"
+    title: "安息 / Parthian Empire"
+    url: "/wiki/entities/parthianempire/"
   - key: "SongZiwen"
     title: "宋子文"
     url: "/wiki/entities/songziwen/"
@@ -5276,6 +5282,9 @@ topic_entities:
   - key: "LiTongLateHan"
     title: "李通 / Li Tong (late Han)"
     url: "/wiki/entities/litonglatehan/"
+  - key: "TiaozhiKingdom"
+    title: "条支国 / Tiaozhi Kingdom"
+    url: "/wiki/entities/tiaozhikingdom/"
   - key: "Hangzhou"
     title: "杭州 / Hangzhou"
     url: "/wiki/entities/hangzhou/"
@@ -5315,6 +5324,9 @@ topic_entities:
   - key: "WangYangming"
     title: "王阳明 / Wang Yangming"
     url: "/wiki/entities/wangyangming/"
+  - key: "GanYingEasternHan"
+    title: "甘英 / Gan Ying (Eastern Han)"
+    url: "/wiki/entities/ganyingeasternhan/"
   - key: "BaidengEncirclement"
     title: "白登之围 / Baideng Encirclement"
     url: "/wiki/entities/baidengencirclement/"
@@ -6024,6 +6036,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh"
     title: "《资治通鉴·汉纪》185｜一张利嘴，收复中国万里疆土"
     url: "/wiki/sources/zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh/"
+  - key: "zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf"
+    title: "《资治通鉴·汉纪》771丨寻找罗马！汉使甘英的世界旅行"
+    url: "/wiki/sources/zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf/"
   - key: "zizhi-tongjian-hanji-808-ta-jiujing-shi-mingjia-haishi-pianzi-lhmsw7zusdkqddk-zu27oj6hfs2m"
     title: "《资治通鉴·汉纪》808丨他究竟是名家还是骗子？"
     url: "/wiki/sources/zizhi-tongjian-hanji-808-ta-jiujing-shi-mingjia-haishi-pianzi-lhmsw7zusdkqddk-zu27oj6hfs2m/"

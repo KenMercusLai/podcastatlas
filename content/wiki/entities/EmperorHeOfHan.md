@@ -10,16 +10,19 @@ sources:
   - zizhi-tongjian-hanji-774-banchao-jiebanren-ruhe-gaoluan-xiyu-lnbnoc-uys8kee7pz9yecxecrpyd
   - zizhi-tongjian-hanji-773-donghan-meinv-zhengzhijia-dengsui-ruhe-nixi-cheng-huanghou-lsmm5ngthj368guumm2xbwc3vea5
   - zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae
+  - zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf
 last_updated: 2026-08-30
 ---
 
 ## Overview
 
-汉和帝 / Emperor He of Han now appears as an active late-reign ruler whose current profile spans moral-exception succession rulings, court classics debate, Mi Tang and Shaodang Qiang crisis, West Sea frontier restoration, Ban Chao's recall, Taixue ritual, Empress Yin's wugu-linked deposition, Deng Sui's appointment, female court education, court-backed reform and tribute restraint, frontier notices, and the infant succession field after his death.
+汉和帝 / Emperor He of Han now appears as an active late-reign ruler whose current profile spans Gan Ying's far-western report, moral-exception succession rulings, court classics debate, Mi Tang and Shaodang Qiang crisis, West Sea frontier restoration, Ban Chao's recall, Taixue ritual, Empress Yin's wugu-linked deposition, Deng Sui's appointment, female court education, court-backed reform and tribute restraint, frontier notices, and the infant succession field after his death.
 
 ## Current Profile
 
-Hanji 772 supplies an earlier late-reign layer. Emperor He accepts [[JiaKuiEasternHan|Jia Kui]]'s argument that [[LiuKaiEasternHan|Liu Kai]]'s refusal of hereditary succession can be treated as an exceptional act of moral yielding, allowing [[LiuXianEasternHan|Liu Xian]] to inherit while later bringing Liu Kai into office. The same episode places He over a court classics debate involving [[LuPiEasternHan|Lu Pi]], southern Xiongnu succession notices, Mi Tang's failed surrender and renewed [[ShaodangQiang|Shaodang Qiang]] rebellion, frontier xiaolian quota adjustment, and [[CaoFengLateHan|Cao Feng]]'s preliminary resource-policy recommendation.
+Hanji 771 supplies the earliest current late-reign layer. During Ban Chao's Western Regions command, [[GanYingEasternHan|Gan Ying]] is sent toward [[DaQin|Da Qin]] / the [[RomanEmpire|Roman Empire]] and [[TiaozhiKingdom|Tiaozhi]], reaches [[ParthianEmpire|Parthia]]'s western boundary, turns back after the sea route is described as dangerous, and reports what he learned to Emperor He. The same source records a Luoyang flood, Han Leng's death and Chao Kan's appointment as sikong, Liu Shang and Zhao Shi being removed rather than executed after a military-fear accusation, and [[MiTangQiangLeader|Mi Tang]]'s surrender and tribute prelude.
+
+Hanji 772 then supplies the title-refusal and failed-incorporation sequel. Emperor He accepts [[JiaKuiEasternHan|Jia Kui]]'s argument that [[LiuKaiEasternHan|Liu Kai]]'s refusal of hereditary succession can be treated as an exceptional act of moral yielding, allowing [[LiuXianEasternHan|Liu Xian]] to inherit while later bringing Liu Kai into office. The same episode places He over a court classics debate involving [[LuPiEasternHan|Lu Pi]], southern Xiongnu succession notices, Mi Tang's failed surrender and renewed [[ShaodangQiang|Shaodang Qiang]] rebellion, frontier xiaolian quota adjustment, and [[CaoFengLateHan|Cao Feng]]'s preliminary resource-policy recommendation.
 
 Hanji 773 places Emperor He in a 102 CE frontier and palace decision layer before the Ban Chao recall narrative. He accepts [[CaoFengLateHan|Cao Feng]]'s memorial that [[ShaodangQiang|Shaodang Qiang]] power around the West Sea rests on fertile land, fishery, and salt, then restores the former West Sea commandery area, moves the Jincheng western commandant office there, appoints Cao Feng, and expands garrison farming. The same source records a Taixue village archery rite, amnesty, Wushan Man suppression and relocation, and [[EmpressYinHeLateHan|Empress Yin]]'s wugu-linked deposition.
 
@@ -35,7 +38,7 @@ Hanji 777 records Emperor He's death in Zhangde qian dian and then looks backwar
 
 ## Key Characteristics
 
-- Eastern Han ruler whose reign is shown through succession exception, classics adjudication, West Sea restoration, frontier recall, harem succession, female court education, technology patronage, education reform, court ritual and travel, tribute restraint, diplomacy, and frontier response.
+- Eastern Han ruler whose reign is shown through Gan Ying's far-western report, succession exception, classics adjudication, West Sea restoration, frontier recall, harem succession, female court education, technology patronage, education reform, court ritual and travel, tribute restraint, diplomacy, and frontier response.
 - Ruler who can convert moral reputation into a bounded legal exception while preserving the exception as court-authorized.
 - Ruler who accepts a resource-centered Qiang policy after Mi Tang's failed submission exposes the limits of one-off surrender management.
 - Ruler who accepts useful petitions and remonstrance in the current sources, especially over Ban Chao's recall, the southern tour, and lethal fresh-fruit tribute.
@@ -45,6 +48,7 @@ Hanji 777 records Emperor He's death in Zhangde qian dian and then looks backwar
 
 ## Evidence
 
+- Far-western report and 98 CE court notices: [[zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf|Hanji 771]] says Gan Ying reports his Parthian-boundary mission and Roman/Da Qin information to Emperor He, while the same annal layer records Luoyang flood, office succession, military accountability, and Mi Tang's surrender.
 - Title-refusal exception: [[zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae|Hanji 772]] says Emperor He accepts Jia Kui's defense of Liu Kai's refusal and allows Liu Xian to inherit.
 - Classics debate norm: [[zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae|Hanji 772]] presents Emperor He's court as a setting where Lu Pi argues for reason-giving and non-punitive disagreement in classics examination debate.
 - Mi Tang and Shaodang crisis: [[zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae|Hanji 772]] records Mi Tang's surrender, refusal to return to the old residence, renewed rebellion, defeat, relocation, and remnant collapse.
@@ -63,18 +67,21 @@ Hanji 777 records Emperor He's death in Zhangde qian dian and then looks backwar
 
 ## Qualifications
 
-This page remains source-bounded and is still not a full reign biography. Hanji 772 backfills a pre-Hanji-773 layer of title refusal, court debate, Shaodang Qiang collapse, and frontier recommendation; Hanji 773 supplies the 102 CE West Sea, Taixue, Wushan Man, and Empress Yin deposition layer; Hanji 774 supplies the Ban Chao recall and Western Regions handoff prelude; Hanji 775 supplies harem succession and female court education; Hanji 776 supplies selected 102-105 CE court and frontier notices; and Hanji 777 supplies the death-and-succession bridge. These details are not enough by themselves to reconstruct Emperor He's entire court.
+This page remains source-bounded and is still not a full reign biography. Hanji 771 backfills a 98 CE layer of far-western reporting, disaster and office notices, military accountability, and Mi Tang's surrender prelude; Hanji 772 supplies title refusal, court debate, Shaodang Qiang collapse, and frontier recommendation; Hanji 773 supplies the 102 CE West Sea, Taixue, Wushan Man, and Empress Yin deposition layer; Hanji 774 supplies the Ban Chao recall and Western Regions handoff prelude; Hanji 775 supplies harem succession and female court education; Hanji 776 supplies selected 102-105 CE court and frontier notices; and Hanji 777 supplies the death-and-succession bridge. These details are not enough by themselves to reconstruct Emperor He's entire court.
 
 ## What Changed
 
-- Added Hanji 772 as an earlier late-reign layer of title-refusal exception, court classics debate, Shaodang Qiang crisis, and frontier recommendation.
-- Reframed the West Sea restoration in Hanji 773 as following Hanji 772's Mi Tang and Shaodang Qiang failure sequence rather than standing alone.
-- Added Hanji 774 as a late-reign petition-and-recall layer involving Ban Zhao and Ban Chao.
-- Reframed Emperor He's responsiveness as spanning frontier resource integration and personnel as well as court reform, travel, and tribute restraint.
-- Preserved Hanji 775-777 as the harem, reform, death, and succession evidence set.
+- Added Hanji 771 as the earliest current layer: Gan Ying's Da Qin mission report, 98 CE disaster and office notices, military accountability, and Mi Tang's surrender prelude.
+- Kept Hanji 772 as the title-refusal, court debate, Shaodang failure, and frontier recommendation sequel to the 98 CE prelude.
+- Reframed Emperor He's responsiveness as spanning distant knowledge gathering, frontier resource integration and personnel, court reform, travel, and tribute restraint.
+- Preserved Hanji 773-777 as the West Sea, Ban Chao recall, harem, reform, death, and succession evidence set.
 
 ## Relationships
 
+- [[GanYingEasternHan|甘英]] - envoy whose Da Qin route report reaches Emperor He.
+- [[DaQin|大秦]] - far-western polity whose mediated description enters Emperor He's court through Gan Ying.
+- [[ParthianEmpire|安息 / 帕提亚帝国]] - intermediary route setting behind Gan Ying's report.
+- [[IntermediaryRouteGatekeeping|中介路线门控]] - route-information pattern attached to Emperor He's far-western report layer.
 - [[LiuKaiEasternHan|刘恺]] - title refuser whose case Emperor He handles as a bounded moral exception.
 - [[LiuXianEasternHan|刘宪]] - younger brother allowed to inherit through Emperor He's exception.
 - [[JiaKuiEasternHan|贾逵]] - memorialist whose defense helps Emperor He authorize the succession outcome.

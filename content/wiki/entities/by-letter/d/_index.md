@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 8394
+wiki_total_pages: 8398
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -857,6 +857,9 @@ wiki_pages:
   - key: "DabaNiuTeacher"
     title: "大白牛老师 / Daba Niu Teacher"
     url: "/wiki/entities/dabaniuteacher/"
+  - key: "DaQin"
+    title: "大秦 / Da Qin"
+    url: "/wiki/entities/daqin/"
   - key: "Dalaoshi"
     title: "大老师 / Dalaoshi"
     url: "/wiki/entities/dalaoshi/"

@@ -3231,9 +3231,9 @@
       "url": "/wiki/entities/baimarelieflatehan/"
     },
     "BanChaoEasternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》780丨最多灾多难的时代：东汉 [lvGCuMRFJbLrOFER532EES3TDOa_].md",
@@ -3255,6 +3255,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》774丨班超接班人如何搞乱西域？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-774-banchao-jiebanren-ruhe-gaoluan-xiyu-lnbnoc-uys8kee7pz9yecxecrpyd/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》771丨寻找罗马！汉使甘英的世界旅行 [lnrjUbKEOAhAvfk55rPIwNW15njF].md",
+          "key": "zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》771丨寻找罗马！汉使甘英的世界旅行",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf/"
         }
       ],
       "updated": "2026-08-30",
@@ -7058,6 +7065,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/cuiyuanlatehan/"
     },
+    "DaQin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》771丨寻找罗马！汉使甘英的世界旅行 [lnrjUbKEOAhAvfk55rPIwNW15njF].md",
+          "key": "zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》771丨寻找罗马！汉使甘英的世界旅行",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/daqin/"
+    },
     "DaShiHua": {
       "episode_count": 1,
       "show_count": 1,
@@ -9646,9 +9669,9 @@
       "url": "/wiki/entities/emperorchongofhan/"
     },
     "EmperorHeOfHan": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》777丨比肩武则天，碾压慈禧，这个女人了不得！ [lk7J4Qv_-SQfopzBii6rc_iVbuxS].md",
@@ -9691,6 +9714,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》772丨他为何宁愿成为逃犯，也不愿继承家业？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》771丨寻找罗马！汉使甘英的世界旅行 [lnrjUbKEOAhAvfk55rPIwNW15njF].md",
+          "key": "zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》771丨寻找罗马！汉使甘英的世界旅行",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf/"
         }
       ],
       "updated": "2026-08-30",
@@ -12660,6 +12690,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/fuyoutiandi/"
+    },
+    "GanYingEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》771丨寻找罗马！汉使甘英的世界旅行 [lnrjUbKEOAhAvfk55rPIwNW15njF].md",
+          "key": "zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》771丨寻找罗马！汉使甘英的世界旅行",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/ganyingeasternhan/"
     },
     "GaoErji": {
       "episode_count": 1,
@@ -16412,6 +16458,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/interpath001/"
+    },
+    "IntermediaryRouteGatekeeping": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》771丨寻找罗马！汉使甘英的世界旅行 [lnrjUbKEOAhAvfk55rPIwNW15njF].md",
+          "key": "zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》771丨寻找罗马！汉使甘英的世界旅行",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/intermediaryroutegatekeeping/"
     },
     "InterpersonalImageProjection": {
       "episode_count": 1,
@@ -22477,9 +22539,9 @@
       "url": "/wiki/concepts/metabolicpsychiatry/"
     },
     "MiTangQiangLeader": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》772丨他为何宁愿成为逃犯，也不愿继承家业？ [lrou5nayE7opB5FavWUz6BQbgGAe].md",
@@ -22487,6 +22549,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》772丨他为何宁愿成为逃犯，也不愿继承家业？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》771丨寻找罗马！汉使甘英的世界旅行 [lnrjUbKEOAhAvfk55rPIwNW15njF].md",
+          "key": "zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》771丨寻找罗马！汉使甘英的世界旅行",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf/"
         }
       ],
       "updated": "2026-08-30",
@@ -25076,6 +25145,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/parkingcostinternalization/"
+    },
+    "ParthianEmpire": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》771丨寻找罗马！汉使甘英的世界旅行 [lnrjUbKEOAhAvfk55rPIwNW15njF].md",
+          "key": "zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》771丨寻找罗马！汉使甘英的世界旅行",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/parthianempire/"
     },
     "PartyNetworkTreasonFraming": {
       "episode_count": 3,
@@ -28023,6 +28108,29 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/robottrainingcenters/"
+    },
+    "RomanEmpire": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
+          "key": "124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361",
+          "show": "蜜獾吃书",
+          "title": "124. 恺撒之死：历史的韵脚，是否已失效？",
+          "url": "/wiki/sources/124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》771丨寻找罗马！汉使甘英的世界旅行 [lnrjUbKEOAhAvfk55rPIwNW15njF].md",
+          "key": "zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》771丨寻找罗马！汉使甘英的世界旅行",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/romanempire/"
     },
     "RomanceOfTheThreeKingdoms": {
       "episode_count": 4,
@@ -32513,6 +32621,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/tiangongultra/"
+    },
+    "TiaozhiKingdom": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》771丨寻找罗马！汉使甘英的世界旅行 [lnrjUbKEOAhAvfk55rPIwNW15njF].md",
+          "key": "zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》771丨寻找罗马！汉使甘英的世界旅行",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/tiaozhikingdom/"
     },
     "TimUrban": {
       "episode_count": 1,

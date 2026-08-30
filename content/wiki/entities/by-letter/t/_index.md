@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 8394
+wiki_total_pages: 8398
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1157,6 +1157,9 @@ wiki_pages:
   - key: "ThinkReasonLtd"
     title: "思考理性有限公司 / Think Reason Ltd."
     url: "/wiki/entities/thinkreasonltd/"
+  - key: "TiaozhiKingdom"
+    title: "条支国 / Tiaozhi Kingdom"
+    url: "/wiki/entities/tiaozhikingdom/"
   - key: "TanZi"
     title: "檀子 / Tan Zi"
     url: "/wiki/entities/tanzi/"

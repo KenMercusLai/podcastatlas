@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1506
+topic_total_pages: 1507
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -472,6 +472,9 @@ topic_concepts:
   - key: "InterestBasedCoalitionSabotage"
     title: "Interest-Based Coalition Sabotage / 利益瓦解合纵"
     url: "/wiki/concepts/interestbasedcoalitionsabotage/"
+  - key: "IntermediaryRouteGatekeeping"
+    title: "Intermediary Route Gatekeeping / 中介路线门控"
+    url: "/wiki/concepts/intermediaryroutegatekeeping/"
   - key: "InternetHistoryFragility"
     title: "Internet History Fragility"
     url: "/wiki/concepts/internethistoryfragility/"
