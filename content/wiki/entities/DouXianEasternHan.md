@@ -13,16 +13,21 @@ sources:
   - zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex
   - zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi
   - zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j
+  - zizhi-tongjian-hanji-756-weishenme-quan-ni-de-rao-ren-chu-qie-rao-ren-ltn4tqzy1d-sodhjidncv8dyqxpj
 last_updated: 2026-08-30
 ---
 
 ## Overview
 
-窦宪 / Dou Xian now appears as the He-era outer-relative powerholder whose profile begins before battlefield glory and before the Liu Chang murder case. Hanji 759 adds the accession layer: after [[EmperorZhangOfHan|Emperor Zhang]] dies and child [[EmperorHeOfHan|Emperor He]] succeeds under [[EmpressDowagerDouHeLateHan|Empress Dowager Dou]], Dou gains inner-court proximity, attracts [[CuiYinEasternHan|Cui Yin]] and [[BanGuEasternHan|Ban Gu]], uses [[DengBiaoEasternHan|Deng Biao]] as a formal channel, and already turns old resentment into private revenge. Hanji 760 then says he kills [[LiuChangDuxiangHouEasternHan|Duxiang marquis Liu Chang]], frames [[LiuGangEasternHan|Liu Gang]], is exposed after [[HanLengEasternHan|Han Leng]] and [[HeChangEasternHan|He Chang]] redirect the investigation, and asks to attack [[NorthernXiongnuLateHan|Northern Xiongnu]] to redeem a capital crime. Hanji 761-767 extend that origin through contested campaign authorization, [[ZhiShouEasternHan|Zhi Shou]]'s death after refusing Dou's private request, [[JiluoshanBattleLateHan|Jiluoshan]] and [[YanranInscription|Yanran]] fame, rank elevation, family abuse, patronage, Yu Chu policy, palace removal, and post-Dou aftershocks.
+窦宪 / Dou Xian now appears as an outer-relative powerholder whose risk is visible before the He-era accession crisis. Hanji 756 adds the Zhangdi-era warning layer: [[ZhengHongEasternHan|Zheng Hong]] repeatedly says Dou's power is too great, then faces Dou's counteraccusation after an impeachment involving Dou-linked officials leaks. Hanji 759 adds the accession layer: after [[EmperorZhangOfHan|Emperor Zhang]] dies and child [[EmperorHeOfHan|Emperor He]] succeeds under [[EmpressDowagerDouHeLateHan|Empress Dowager Dou]], Dou gains inner-court proximity, attracts [[CuiYinEasternHan|Cui Yin]] and [[BanGuEasternHan|Ban Gu]], uses [[DengBiaoEasternHan|Deng Biao]] as a formal channel, and already turns old resentment into private revenge. Hanji 760 then says he kills [[LiuChangDuxiangHouEasternHan|Duxiang marquis Liu Chang]], frames [[LiuGangEasternHan|Liu Gang]], is exposed after [[HanLengEasternHan|Han Leng]] and [[HeChangEasternHan|He Chang]] redirect the investigation, and asks to attack [[NorthernXiongnuLateHan|Northern Xiongnu]] to redeem a capital crime. Hanji 761-767 extend that origin through contested campaign authorization, [[ZhiShouEasternHan|Zhi Shou]]'s death after refusing Dou's private request, [[JiluoshanBattleLateHan|Jiluoshan]] and [[YanranInscription|Yanran]] fame, rank elevation, family abuse, patronage, Yu Chu policy, palace removal, and post-Dou aftershocks.
 
 ## Current Profile
 
-Hanji 759 supplies the earliest current layer. After Emperor Zhang dies in 88 CE, Emperor He is a child ruler and Empress Dowager Dou governs from behind the court. Dou Xian and the Dou brothers gain privileged proximity; Cui Yin warns Dou that outer relatives born into rank and favor easily become arrogant and fall, yet Dou also attracts Cui, Ban Gu, and other talent. Cui's Deng Biao arrangement gives Dou a formal procedure channel, while Dou's revenge killing against Han Yu's family shows private grievance already using coercive power before the Liu Chang case.
+Hanji 756 supplies the earliest current warning layer. During Emperor Zhang's reign, Zheng Hong repeatedly submits memorials warning that Dou Xian's power is too heavy. The source presents Dou as the empress's brother and a descendant of Dou Rong's line, so the danger is not just an individual officeholder but a palace-linked outer-relative field.
+
+The same source shows the warning becoming costly. Zheng Hong impeaches Dou-linked Zhang Ling and Luoyang magistrate Yang Guang for corruption and brutality, but news of the memorial reaches Yang Guang through a friendly clerk. Yang Guang reports it to Dou, and Dou counteraccuses Zheng Hong of leaking court secrets. Zhangdi strips Zheng Hong's seal and ribbon; Zheng Hong is later released, asks to retire, and sends a final memorial before death saying Dou's evil threatens state survival.
+
+Hanji 759 supplies the accession layer. After Emperor Zhang dies in 88 CE, Emperor He is a child ruler and Empress Dowager Dou governs from behind the court. Dou Xian and the Dou brothers gain privileged proximity; Cui Yin warns Dou that outer relatives born into rank and favor easily become arrogant and fall, yet Dou also attracts Cui, Ban Gu, and other talent. Cui's Deng Biao arrangement gives Dou a formal procedure channel, while Dou's revenge killing against Han Yu's family shows private grievance already using coercive power before the Liu Chang case.
 
 Hanji 760 supplies the next current layer. During mourning for Emperor Zhang, Empress Dowager Dou forms a relationship with Liu Chang and gives him favor. Dou reads Liu Chang as a threat to his own inner-court access, has him murdered in the guarded capital setting, and redirects blame toward Liu Gang. Han Leng argues that the killer should be sought near the capital, He Chang helps reopen the case, and the investigation points to Dou. The dowager imprisons him but protects him; Dou asks to attack Northern Xiongnu to redeem the death offense, and he is appointed chariot-and-cavalry general with [[GengBingEasternHan|Geng Bing]] as deputy.
 
@@ -40,7 +45,7 @@ Hanji 766 and Hanji 767 complete the fall and aftermath. Emperor He cannot safel
 
 ## Key Characteristics
 
-- Dowager-backed outer-relative whose earliest current layer combines child-emperor access, talent attraction, procedural shells, and private revenge.
+- Zhangdi-era outer-relative risk already criticized before the child-emperor accession layer combines palace access, talent attraction, procedural shells, and private revenge.
 - Powerholder who treats a dowager favorite as a threat, kills him, and converts murder liability into campaign command.
 - Early campaign and family luxury beneficiary despite repeated remonstrance.
 - Capable commander whose Jiluoshan victory and Yanran commemoration become real public achievements.
@@ -50,6 +55,9 @@ Hanji 766 and Hanji 767 complete the fall and aftermath. Emperor He cannot safel
 
 ## Evidence
 
+- Early anti-Dou warning: [[zizhi-tongjian-hanji-756-weishenme-quan-ni-de-rao-ren-chu-qie-rao-ren-ltn4tqzy1d-sodhjidncv8dyqxpj|Hanji 756]] says Zheng Hong repeatedly warns Emperor Zhang that Dou Xian's power is too great.
+- Counteraccusation against Zheng Hong: [[zizhi-tongjian-hanji-756-weishenme-quan-ni-de-rao-ren-chu-qie-rao-ren-ltn4tqzy1d-sodhjidncv8dyqxpj|Hanji 756]] says Dou Xian accuses Zheng Hong of leaking court secrets after Zheng Hong's impeachment material reaches Yang Guang.
+- Final warning: [[zizhi-tongjian-hanji-756-weishenme-quan-ni-de-rao-ren-chu-qie-rao-ren-ltn4tqzy1d-sodhjidncv8dyqxpj|Hanji 756]] says Zheng Hong's terminal memorial frames Dou Xian as a state-survival danger.
 - Accession and talent layer: [[zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j|Hanji 759]] says Dou Xian gains privileged access after Emperor Zhang's death, receives Cui Yin with unusual courtesy, and gathers Cui Yin and Ban Gu under him.
 - Procedural shell and private revenge: [[zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j|Hanji 759]] says Cui Yin recommends Deng Biao as Taifu to handle writing and reports, while Dou has Han Yu's son killed to avenge his father Dou Xun.
 - Early pressure removal: [[zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j|Hanji 759]] says five princes jointly memorialize against Dou, but Cui Yin and others use a fake edict to send them back to their fiefs.
@@ -68,10 +76,11 @@ Hanji 766 and Hanji 767 complete the fall and aftermath. Emperor He cannot safel
 
 ## Qualifications
 
-This page remains bounded to the listed source notes and does not reconstruct Dou Xian's full biography, family rise, exact campaign route, or all office chronology. Hanji 759 makes his earlier power-access and private-revenge layer visible, while Hanji 760 and Hanji 763 both make the Liu Chang murder the origin of Dou's campaign path. Hanji 761 refines the anti-campaign objection and battlefield layers. The sources therefore separate four judgments: inner-court access already creates danger, the murder case is a court-accountability failure, the expedition is contested before launch, and the later campaign succeeds militarily. Hanji 763 and Hanji 764 associate Northern Xiongnu displacement with later Eurasian migration pressure; the page treats that as a qualified source association rather than proof that Dou Xian directly destroyed Rome. Hanji 766 contains a local tension around the Dou brothers' deaths and Dou Gui's survival; the wiki records [[DouGuiEasternHan|Dou Gui]] as the specific resolved mercy case.
+This page remains bounded to the listed source notes and does not reconstruct Dou Xian's full biography, family rise, exact campaign route, or all office chronology. Hanji 756 supplies an early warning and counteraccusation layer, not a full account of Dou's office powers before Emperor He's accession. Hanji 759 makes his later power-access and private-revenge layer visible, while Hanji 760 and Hanji 763 both make the Liu Chang murder the origin of Dou's campaign path. Hanji 761 refines the anti-campaign objection and battlefield layers. The sources therefore separate four judgments: inner-court access already creates danger, the murder case is a court-accountability failure, the expedition is contested before launch, and the later campaign succeeds militarily. Hanji 763 and Hanji 764 associate Northern Xiongnu displacement with later Eurasian migration pressure; the page treats that as a qualified source association rather than proof that Dou Xian directly destroyed Rome. Hanji 766 contains a local tension around the Dou brothers' deaths and Dou Gui's survival; the wiki records [[DouGuiEasternHan|Dou Gui]] as the specific resolved mercy case.
 
 ## What Changed
 
+- Added Hanji 756 as the early Zhangdi-era anti-Dou warning and counteraccusation layer.
 - Added Hanji 759 as the earliest current layer: child-emperor accession, Dou-family palace access, Cui Yin's warning, Deng Biao's procedural shell, private revenge, and fake-edict pressure removal.
 - Rebalanced Dou's profile so the later Jiluoshan-Yanran victory remains tied to earlier access abuse and the Liu Chang accountability failure.
 - Preserved punishment-converted-to-command as the pre-campaign mechanism that Hanji 760, Hanji 761, and Hanji 763 later develop.
@@ -79,6 +88,8 @@ This page remains bounded to the listed source notes and does not reconstruct Do
 
 ## Relationships
 
+- [[ZhengHongEasternHan|郑洪]] - early Zhangdi-era minister who warns against Dou's power and is counteraccused by Dou after an impeachment leak.
+- [[EmperorZhangOfHan|汉章帝]] - ruler during the earliest current warning layer against Dou Xian.
 - [[EmpressDowagerDouHeLateHan|窦太后]] - sister or dowager patron whose regency, dependence, and favoritism help Dou's access, campaign, and retaliation proceed.
 - [[EmperorHeOfHan|汉和帝]] - ruler who later plans and executes the palace operation against Dou's bloc.
 - [[CuiYinEasternHan|崔骃]] - adviser whose warning and fake-edict service show talent absorbed into Dou's network.

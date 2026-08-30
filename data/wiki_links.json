@@ -18379,6 +18379,10 @@
     "title": "The Fifth Dimension / 第五维度",
     "url": "/wiki/entities/fifthdimension/"
   },
+  "FifthLunEasternHan": {
+    "title": "第五伦 / Fifth Lun (Eastern Han)",
+    "url": "/wiki/entities/fifthluneasternhan/"
+  },
   "FifthZhongLateHan": {
     "title": "第五种 / Fifth Zhong (late Han)",
     "url": "/wiki/entities/fifthzhonglatehan/"
@@ -22514,6 +22518,10 @@
   "HaoMengDongjunLateHan": {
     "title": "郝猛 / Hao Meng (Dong Commandery, late Han)",
     "url": "/wiki/entities/haomengdongjunlatehan/"
+  },
+  "HaoWuQiangLeader": {
+    "title": "浩武 / Hao Wu (Qiang leader)",
+    "url": "/wiki/entities/haowuqiangleader/"
   },
   "Haoda": {
     "title": "豪大",
@@ -26814,6 +26822,10 @@
   "JiaoYiZhiSheliWangjiDongwuyuan": {
     "title": "《教一只猞猁忘记动物园》",
     "url": "/wiki/entities/jiaoyizhisheliwangjidongwuyuan/"
+  },
+  "JiaoZhongShuleKing": {
+    "title": "叫中 / Jiao Zhong (Shule king)",
+    "url": "/wiki/entities/jiaozhongshuleking/"
   },
   "JiaoheAncientCity": {
     "title": "交河故城 / Jiaohe Ancient City",
@@ -33824,7 +33836,7 @@
     "url": "/wiki/entities/miwan/"
   },
   "MiWuQiangLeader": {
-    "title": "迷雾 / Mi Wu (Qiang leader)",
+    "title": "弥务 / 迷雾 / Mi Wu (Qiang leader)",
     "url": "/wiki/entities/miwuqiangleader/"
   },
   "MiXin": {
@@ -48083,6 +48095,10 @@
     "title": "Strategic Focus Under Incumbent Pressure",
     "url": "/wiki/concepts/strategicfocusunderincumbentpressure/"
   },
+  "StrategicForbearanceGovernance": {
+    "title": "退让留余地式治理 / Strategic Forbearance Governance",
+    "url": "/wiki/concepts/strategicforbearancegovernance/"
+  },
   "StrategicFrontierAbandonment": {
     "title": "Strategic Frontier Abandonment / 弃边失屏",
     "url": "/wiki/concepts/strategicfrontierabandonment/"
@@ -57948,7 +57964,7 @@
     "url": "/wiki/entities/zhangyongde/"
   },
   "ZhangYuEasternHan": {
-    "title": "张于 / Zhang Yu (Eastern Han Qiang protector)",
+    "title": "张鱼 / 张于 / Zhang Yu (Eastern Han Qiang official)",
     "url": "/wiki/entities/zhangyueasternhan/"
   },
   "ZhangYueguang": {
@@ -58378,6 +58394,10 @@
   "ZhengGuoHydraulicEngineer": {
     "title": "郑国 / Zheng Guo (Hydraulic Engineer)",
     "url": "/wiki/entities/zhengguohydraulicengineer/"
+  },
+  "ZhengHongEasternHan": {
+    "title": "郑洪 / Zheng Hong (Eastern Han)",
+    "url": "/wiki/entities/zhenghongeasternhan/"
   },
   "ZhengKangGong": {
     "title": "郑康公 / Duke Kang of Zheng",
@@ -63106,6 +63126,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-756-weishenme-quan-ni-de-rao-ren-chu-qie-rao-ren-ltn4tqzy1d-sodhjidncv8dyqxpj": {
+    "title": "《资治通鉴·汉纪》756丨为什么劝你得饶人处且饶人？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-756-weishenme-quan-ni-de-rao-ren-chu-qie-rao-ren-ltn4tqzy1d-sodhjidncv8dyqxpj/"
   },
   "zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x": {
     "title": "《资治通鉴·汉纪》757丨人生想少走弯路？先找准定位！",

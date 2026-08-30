@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 8468
+wiki_total_pages: 8472
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -1268,6 +1268,9 @@ wiki_pages:
   - key: "MengTuoLateHan"
     title: "孟陀 / Meng Tuo (late Han)"
     url: "/wiki/entities/mengtuolatehan/"
+  - key: "MiWuQiangLeader"
+    title: "弥务 / 迷雾 / Mi Wu (Qiang leader)"
+    url: "/wiki/entities/miwuqiangleader/"
   - key: "MiTangQiangLeader"
     title: "弥唐 / Mi Tang (Qiang leader)"
     url: "/wiki/entities/mitangqiangleader/"
@@ -1454,9 +1457,6 @@ wiki_pages:
   - key: "MiuLiu"
     title: "谬刘 / Miu Liu"
     url: "/wiki/entities/miuliu/"
-  - key: "MiWuQiangLeader"
-    title: "迷雾 / Mi Wu (Qiang leader)"
-    url: "/wiki/entities/miwuqiangleader/"
   - key: "MeiwuFortress"
     title: "郿坞 / Meiwu Fortress"
     url: "/wiki/entities/meiwufortress/"

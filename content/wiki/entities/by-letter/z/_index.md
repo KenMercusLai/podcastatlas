@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 8468
+wiki_total_pages: 8472
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -521,9 +521,6 @@ wiki_pages:
   - key: "ZhangQiaoLateHan"
     title: "张乔 / Zhang Qiao (late Han)"
     url: "/wiki/entities/zhangqiaolatehan/"
-  - key: "ZhangYuEasternHan"
-    title: "张于 / Zhang Yu (Eastern Han Qiang protector)"
-    url: "/wiki/entities/zhangyueasternhan/"
   - key: "ZhangWuchang"
     title: "张五常"
     url: "/wiki/entities/zhangwuchang/"
@@ -818,6 +815,9 @@ wiki_pages:
   - key: "ZhangFei"
     title: "张飞 / Zhang Fei"
     url: "/wiki/entities/zhangfei/"
+  - key: "ZhangYuEasternHan"
+    title: "张鱼 / 张于 / Zhang Yu (Eastern Han Qiang official)"
+    url: "/wiki/entities/zhangyueasternhan/"
   - key: "ZhangLuFivePecks"
     title: "张鲁 / Zhang Lu (Five Pecks of Rice)"
     url: "/wiki/entities/zhanglufivepecks/"
@@ -1301,6 +1301,9 @@ wiki_pages:
   - key: "ZhengTaiLateHan"
     title: "郑泰 / Zheng Tai (late Han)"
     url: "/wiki/entities/zhengtailatehan/"
+  - key: "ZhengHongEasternHan"
+    title: "郑洪 / Zheng Hong (Eastern Han)"
+    url: "/wiki/entities/zhenghongeasternhan/"
   - key: "ZhengYuanjie"
     title: "郑渊洁"
     url: "/wiki/entities/zhengyuanjie/"

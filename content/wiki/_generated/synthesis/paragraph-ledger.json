@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "e8990fad7331e9441df0502a49236758d8a7a8fe617e0db2a72761eada274c0d",
       "057b11d5c32277eda442789983bf3ca0776cbb68f94481fdc5a501e04a085e9b",
       "3f97b63f5c826fc5081443ad4d5b4f97918ec40e24baf4b48abf500ff7c11ecc",
       "4614617554245fe08b9d3ec6102e4dd3b6d4f87029c6065197f71a80b755be3a",
@@ -415,11 +416,40 @@
       "783b85daf8e28c79ebd7838b98cbae32cc3b283841103fa74a279782510e1ecf",
       "2f2ccba72e3ff27853c9c5e7edd9f718fa9dd0a3c9c92731bc7ee6f0b1047bd7"
     ],
-    "paragraph_count": 413
+    "paragraph_count": 414
   },
-  "overview_commit": "47399dda5c417fde0b76c74591e4fe4a61588a2c",
-  "overview_digest": "586bcfda5f6854bfba9f5b87aaac4c50a3e984d128e3c8799c2f5120a3c6d4ed",
+  "overview_commit": "121e6e9753b992323663ba50032fd9b64574615b",
+  "overview_digest": "c87965491166b995af17ba4caeffd65da7b754292875f2a194950620e002aa2b",
   "paragraphs": [
+    {
+      "id": "e8990fad7331e9441df0502a49236758d8a7a8fe617e0db2a72761eada274c0d",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-756-weishenme-quan-ni-de-rao-ren-chu-qie-rao-ren-ltn4tqzy1d-sodhjidncv8dyqxpj|《资治通鉴·汉纪》756丨为什么劝你得饶人处且饶人？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 86 CE [[EmperorZhangOfHan|汉章帝]] layer before [[zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x|Hanji 757]]. It adds [[ZhengHongEasternHan|郑洪]], [[FifthLunEasternHan|第五伦]], [[HaoWuQiangLeader|浩武]], [[JiaoZhongShuleKing|叫中]], and [[StrategicForbearanceGovernance|退让留余地式治理]], while extending [[DouXianEasternHan|窦宪]], [[BanChaoEasternHan|班超]], [[ZhangYuEasternHan|张鱼 / 张于]], [[MiWuQiangLeader|弥务 / 迷雾]], [[FrontierTrustThroughProtection|保护换信任式边疆安抚]], [[NorthernXiongnuLateHan|北匈奴]], and [[SouthernXiongnu|南匈奴]]. Its core synthesis is that \"得饶人处且饶人\" functions as bounded statecraft: Zhangdi preserves court speech, restores frontier credibility by returning people and livestock, and Zhang Yu releases Hao Wu for withdrawal, while Zheng Hong's final anti-Dou warning and Ban Chao's killing of a false surrenderer show that forbearance still needs power-risk and deception assessment. No settled contradiction is recorded; 第五轮, 张鱼, 迷雾/弥务, and 元安 are normalized cautiously while minor officials, Kangju details, and route geography remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "BanChaoEasternHan",
+        "DouXianEasternHan",
+        "EmperorZhangOfHan",
+        "FifthLunEasternHan",
+        "FrontierTrustThroughProtection",
+        "HaoWuQiangLeader",
+        "JiaoZhongShuleKing",
+        "MiWuQiangLeader",
+        "NorthernXiongnuLateHan",
+        "RuiqiJiangtouZizhiTongjian",
+        "SouthernXiongnu",
+        "StrategicForbearanceGovernance",
+        "ZhangYuEasternHan",
+        "ZhengHongEasternHan",
+        "zizhi-tongjian-hanji-756-weishenme-quan-ni-de-rao-ren-chu-qie-rao-ren-ltn4tqzy1d-sodhjidncv8dyqxpj",
+        "zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x"
+      ]
+    },
     {
       "id": "057b11d5c32277eda442789983bf3ca0776cbb68f94481fdc5a501e04a085e9b",
       "primary_topic": "work-education-and-society",

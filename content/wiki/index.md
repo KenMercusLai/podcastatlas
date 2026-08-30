@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》756丨为什么劝你得饶人处且饶人？](sources/zizhi-tongjian-hanji-756-weishenme-quan-ni-de-rao-ren-chu-qie-rao-ren-ltn4tqzy1d-sodhjidncv8dyqxpj.md) — 芮淇讲透资治通鉴 episode on Emperor Zhang's forbearance, Zheng Hong's anti-Dou remonstrance, Fifth Lun's self-scrutiny, Zhang Yu's release of Hao Wu, and Ban Chao's Shule counter-deception.
 - [《资治通鉴·汉纪》757丨人生想少走弯路？先找准定位！](sources/zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x.md) — 芮淇讲透资治通鉴 episode on Guo Gong's legal fit, Cao Bao's ritual commission, Fu Yu and Zhang Yu's Qiang-frontier failures, Mi Tang's coalition, and He Chang's omen skepticism.
 - [《资治通鉴·汉纪》758丨所有高情商，背后都是分寸感](sources/zizhi-tongjian-hanji-758-suoyou-gaoqingshang-beihou-doushi-fencungan-lr-6tzffmwdtzidkf3y8ule35qf7.md) — 芮淇讲透资治通鉴 episode on Emperor Zhang's late-reign royal-kin overfavor, Cao Bao's ritual code, Ban Chao's Shache deception, and He Chang/Song Yi's fiscal and protocol remonstrance.
 - [Dolly Parton’s “9 to 5,” the true story behind the anthem (bonus)](sources/default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177-default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177.md) — Planet Money bonus episode on Karen Nussbaum, 9to5, Jane Fonda, Patricia Resnick, Dolly Parton, and how a clerical-worker labor movement became the film and song "9 to 5".
@@ -1753,10 +1754,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [郑洪 / Zheng Hong (Eastern Han)](entities/ZhengHongEasternHan.md) — Eastern Han taiwei whose policy dispute, early anti-Dou warnings, retaliatory counteraccusation, and final memorial make him a death-facing remonstrance figure.
+- [第五伦 / Fifth Lun (Eastern Han)](entities/FifthLunEasternHan.md) — Eastern Han senior official whose clean officeholding and horse-gift self-scrutiny turn integrity into private-motive vigilance.
+- [浩武 / Hao Wu (Qiang leader)](entities/HaoWuQiangLeader.md) — Qiang leader released by Zhang Yu after promising to disperse rebel forces, creating a tactical forbearance case.
+- [叫中 / Jiao Zhong (Shule king)](entities/JiaoZhongShuleKing.md) — Shule ruler whose Kangju-backed false surrender is read and defeated by Ban Chao.
 - [郭公 / Guo Gong (Eastern Han jurist)](entities/GuoGongEasternHanJurist.md) — Eastern Han tingwei whose legal family training and lighter-punishment proposal anchor Hanji 757's career-positioning frame.
 - [富裕 / Fu Yu (Eastern Han Qiang protector)](entities/FuYuEasternHan.md) — Eastern Han Qiang protector whose failed Qiang-Hu manipulation and premature pursuit of Mi Wu end in the Sandou Valley defeat.
-- [张于 / Zhang Yu (Eastern Han Qiang protector)](entities/ZhangYuEasternHan.md) — Eastern Han Qiang protector who kills Mi Wu and many Qiang leaders after surrender contact, creating a frontier trust breach.
-- [迷雾 / Mi Wu (Qiang leader)](entities/MiWuQiangLeader.md) — Qiang leader who kills Fu Yu at Sandou Valley and whose later banquet death under Zhang Yu becomes Mi Tang's rebellion prehistory.
+- [张鱼 / 张于 / Zhang Yu (Eastern Han Qiang official)](entities/ZhangYuEasternHan.md) — Eastern Han Qiang-frontier official whose Hao Wu release shows tactical forbearance before his later poisoned-banquet killing of Mi Wu creates a trust breach.
+- [弥务 / 迷雾 / Mi Wu (Qiang leader)](entities/MiWuQiangLeader.md) — Qiang leader whose withdrawal follows Hao Wu's release before he kills Fu Yu and later dies in Zhang Yu's poisoned-banquet betrayal.
 - [Karen Nussbaum](entities/KarenNussbaum.md) — Office-worker organizer who helped build 9to5 and connect clerical-worker demands to the 1980 film "9 to 5".
 - [Jane Fonda](entities/JaneFonda.md) — Actor-activist who turned 9to5's clerical-worker movement into a Hollywood film project.
 - [Patricia Resnick](entities/PatriciaResnick.md) — Screenwriter who translated clerical workers' office stories into the "9 to 5" script.
@@ -1807,7 +1812,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [梁贵人 / Liang Guiren (Emperor He era)](entities/LiangGuirenHeLateHan.md) — Hidden birth mother of Emperor He whose posthumous recognition includes title, reburial, family recall, and later Liang outer-relative risk.
 - [窦太后 / Empress Dowager Dou (Emperor He era)](entities/EmpressDowagerDouHeLateHan.md) — Emperor He's adoptive mother whose child-regency authority, Dou-family access, Liu Chang relationship, Dou Xian protection, and posthumous redress disputes define her current profile.
 - [张酺 / Zhang Pu (Eastern Han)](entities/ZhangPuEasternHan.md) — Eastern Han official whose current profile runs from Taixue-orthodoxy opposition to Cao Bao's rites to later Liang birth-mother redress advice.
-- [窦宪 / Dou Xian (Eastern Han)](entities/DouXianEasternHan.md) — He-era outer-relative powerholder whose early palace access, talent network, private revenge, Liu Chang murder, campaign-redemption request, Jiluoshan-Yanran victory, and palace removal frame later aftershocks.
+- [窦宪 / Dou Xian (Eastern Han)](entities/DouXianEasternHan.md) — Outer-relative powerholder whose profile now begins with Zhangdi-era Zheng Hong warnings before later palace access, murder, campaign redemption, Jiluoshan-Yanran victory, and palace removal.
 - [稽落山之战 / Jiluoshan Battle (late Han)](entities/JiluoshanBattleLateHan.md) — Dou Xian's Northern Xiongnu battlefield centerpiece with Hanji 761 route and cavalry detail, leading to Yanran commemoration and qualified migration-cascade framing.
 - [燕然勒石 / Yanran Inscription](entities/YanranInscription.md) — Campaign commemoration ordered by Dou Xian and written by Ban Gu after Jiluoshan, mass submission, and deep frontier pursuit.
 - [班固 / Ban Gu (Eastern Han)](entities/BanGuEasternHan.md) — Han historian whose prison death during the Dou-family cleanup leaves `Han Shu` completion to Ban Zhao.
@@ -1819,7 +1824,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [于除 / 俞厨 / Yu Chu (Northern Xiongnu)](entities/YuChuNorthernXiongnu.md) — Dou Xian-sponsored Northern Xiongnu claimant whose recognition request creates a frontier-credibility dispute before his later defection and destruction.
 - [清河王刘庆 / Liu Qing (Qinghe king)](entities/LiuQingQingheKing.md) — Eastern Han royal relative whose post-Dou caution precedes his Song Guiren sacrifice request after Liang Guiren's redress; kept distinct from modern Liu Qing.
 - [宋贵人 / Song Guiren (Zhang-He era)](entities/SongGuirenZhangHeLateHan.md) — Liu Qing's mother and parallel Dou Taihou victim whose recognition takes the narrower form of seasonal sacrifices.
-- [汉章帝 / Emperor Zhang of Han](entities/EmperorZhangOfHan.md) — Eastern Han emperor whose current profile includes legal leniency, ritual sponsorship, Qiang-frontier response, royal-kin overfavor, omen politics, and later tomb-order disputes.
+- [汉章帝 / Emperor Zhang of Han](entities/EmperorZhangOfHan.md) — Eastern Han emperor whose current profile includes court-speech preservation, Xiongnu restitution, farming care, legal leniency, ritual sponsorship, Qiang-frontier response, royal-kin overfavor, omen politics, and later tomb-order disputes.
 - [蔡伦 / Cai Lun (late Han)](entities/CaiLunLateHan.md) — Eastern Han palace official whose current profile links court workshop authority, Deng's writing-material demand, fiber-paper improvement, and later Deng-regency political exposure.
 - [徐防 / Xu Fang (late Han)](entities/XuFangLateHan.md) — Eastern Han senior official whose current role centers on 102 CE Taixue examination reform and later Deng-regency staffing and blame-bearing notices.
 - [唐羌 / Tang Qiang (late Han)](entities/TangQiangLateHan.md) — Linwu local official whose memorial reframes Lingnan fresh-fruit tribute as a lethal transport burden accepted by Emperor He.
@@ -1842,7 +1847,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lewis and Clark Expedition](entities/LewisAndClarkExpedition.md) — Jefferson-commissioned western exploration project linking scientific inquiry and imperial ambition.
 - [Democratic-Republican Party](entities/DemocraticRepublicanParty.md) — Jefferson's founding-era party vehicle, complicated by Burr's 1800 tie and later marginalization.
 - [Federalist Party](entities/FederalistParty.md) — Hamilton-associated founding-era party rival to Jefferson's Democratic-Republicans, active in the 1796, 1800, and Burr 1804 contexts.
-- [班超 / Ban Chao (Eastern Han)](entities/BanChaoEasternHan.md) — Eastern Han Western Regions commander whose Yuezhi supply-line defense, protectorate restoration, Qiuci kingship intervention, Yanqi conquest, Gan Ying mission sponsorship, final recall, and light-touch handoff advice benchmark later abandonment and recovery debates.
+- [班超 / Ban Chao (Eastern Han)](entities/BanChaoEasternHan.md) — Eastern Han Western Regions commander whose Shule and Shache counter-deception, Yuezhi supply-line defense, protectorate restoration, Qiuci kingship intervention, Yanqi conquest, Gan Ying mission sponsorship, final recall, and light-touch handoff advice benchmark later abandonment and recovery debates.
 - [甘英 / Gan Ying (Eastern Han)](entities/GanYingEasternHan.md) — Eastern Han envoy sent by Ban Chao toward Da Qin/Rome and Tiaozhi, reaching Parthia's western boundary before route warnings turned him back.
 - [大秦 / Da Qin](entities/DaQin.md) — Han-era exonym for the Roman Empire in Hanji 771, capturing Rome as a far-western polity known through mediated route reports.
 - [安息 / Parthian Empire](entities/ParthianEmpire.md) — Intermediary polity whose officials' sea-route warning stops Gan Ying's mission toward Da Qin/Rome.
@@ -10225,6 +10230,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [退让留余地式治理 / Strategic Forbearance Governance](concepts/StrategicForbearanceGovernance.md) — Governance pattern where restraint preserves cooperation, credibility, withdrawal, or future action instead of maximizing immediate punishment or advantage.
 - [人生定位与适配 / Career Positioning Through Fit](concepts/CareerPositioningThroughFit.md) — Career judgment pattern where effort compounds better when ability, temperament, role, and inherited resources fit before commitment.
 - [单人负责式制度编纂 / Single-Author Institutional Codification](concepts/SingleAuthorInstitutionalCodification.md) — Institutional-design tradeoff where one accountable compiler turns inherited precedent into usable rules when broad deliberation may stall.
 - [受降失信 / Breach of Surrender Trust](concepts/BreachOfSurrenderTrust.md) — Frontier-governance failure where surrender contact is betrayed, producing tactical gain but long-term credibility damage.
@@ -10235,7 +10241,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Culture-Led Labor Organizing](concepts/CultureLedLaborOrganizing.md) — Use of songs, films, comedy, television, and public performance to turn dispersed workplace frustrations into collective recognition and action.
 - [Sexual Harassment Naming Lag](concepts/SexualHarassmentNamingLag.md) — Gap between workers recognizing unwanted sexualized workplace conduct and having stable public or institutional vocabulary for it.
 - [死罪转军功式任用 / Punishment Converted to Campaign Command](concepts/PunishmentConvertedToCampaignCommand.md) — Court-politics pattern where protected liability is redirected into military command and possible public merit.
-- [保护换信任式边疆安抚 / Frontier Trust Through Protection](concepts/FrontierTrustThroughProtection.md) — Frontier governance pattern where protection rebuilds credibility after prior bad faith and converts threatened groups into allegiance, information, and coalition leverage.
+- [保护换信任式边疆安抚 / Frontier Trust Through Protection](concepts/FrontierTrustThroughProtection.md) — Frontier governance pattern where protection or credibility-preserving restraint rebuilds trust and converts threatened or released groups into withdrawal, allegiance, information, and coalition leverage.
 - [Clinical Music Therapy](concepts/ClinicalMusicTherapy.md) — Trained, goal-directed music intervention separated from wellness listening by assessment, treatment goals, therapist relationship, and professional boundaries.
 - [Music Memory Cueing](concepts/MusicMemoryCueing.md) — Use of familiar songs, lyrics, rhythm, and musical recall to support older adults' memory, identity, confidence, and life-story expression.
 - [Therapeutic Musical Synchrony](concepts/TherapeuticMusicalSynchrony.md) — Music-therapy interaction pattern where the therapist first follows the client's rhythm or movement, then builds attention, agency, and participation.

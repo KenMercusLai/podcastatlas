@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 8468
+wiki_total_pages: 8472
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -917,6 +917,9 @@ wiki_pages:
   - key: "Haoge"
     title: "浩哥 / Haoge"
     url: "/wiki/entities/haoge/"
+  - key: "HaoWuQiangLeader"
+    title: "浩武 / Hao Wu (Qiang leader)"
+    url: "/wiki/entities/haowuqiangleader/"
   - key: "Hisense"
     title: "海信 / Hisense"
     url: "/wiki/entities/hisense/"

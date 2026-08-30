@@ -12,14 +12,17 @@ sources:
   - zizhi-tongjian-hanji-764-ta-weile-huoming-jing-jianjie-mie-le-luoma-diguo-lpk0c6muneabhk1oonzyjvawwf4
   - zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb
   - zizhi-tongjian-hanji-758-suoyou-gaoqingshang-beihou-doushi-fencungan-lr-6tzffmwdtzidkf3y8ule35qf7
+  - zizhi-tongjian-hanji-756-weishenme-quan-ni-de-rao-ren-chu-qie-rao-ren-ltn4tqzy1d-sodhjidncv8dyqxpj
 last_updated: 2026-08-30
 ---
 
 ## Overview
 
-班超 / Ban Chao appears in the current wiki as the Eastern Han Western Regions commander whose record now begins with the Shache deception in Hanji 758 and then extends through supply-line judgment against a large [[Yuezhi|Yuezhi]] attack, protectorate restoration, Qiuci kingship intervention, Yanqi conquest, far-western envoy sponsorship, late return, and ignored light-touch handoff advice. Across the listed sources, Ban Chao functions as a benchmark for frontier governance: he can deceive and coerce when necessary, but his durable advantage lies in reading local incentives, logistics, pride, and legitimacy more accurately than later successors.
+班超 / Ban Chao appears in the current wiki as the Eastern Han Western Regions commander whose record now begins with the [[ShuleKingdom|Shule]] counter-deception in Hanji 756, then extends through the Shache deception in Hanji 758, supply-line judgment against a large [[Yuezhi|Yuezhi]] attack, protectorate restoration, Qiuci kingship intervention, Yanqi conquest, far-western envoy sponsorship, late return, and ignored light-touch handoff advice. Across the listed sources, Ban Chao functions as a benchmark for frontier governance: he can deceive and coerce when necessary, but his durable advantage lies in reading local incentives, logistics, pride, threat, and legitimacy more accurately than later successors.
 
 ## Current Profile
+
+Hanji 756 supplies the earliest current Western Regions layer. [[JiaoZhongShuleKing|Jiao Zhong]], ruler or holder of Shule, borrows troops from Kangju and offers Ban Chao a false surrender. Ban sees through the plan, accepts outwardly, kills Jiao Zhong when he arrives with young fighting men, defeats the followers, and opens the southern route. This adds a counter-deception boundary: restraint and acceptance are useful only after the commander has judged whether the surrender path is real.
 
 Hanji 758 supplies the earliest current campaign layer. Ban Chao raises Yutian and other allied forces to attack Shache, while the [[QiuciKingdom|Qiuci]] king leads a larger relief force from Wensu, Gumo, and Weitou. Ban does not meet the larger coalition directly. He deliberately releases a captive with false retreat information, lets the Qiuci and Wensu forces split to block his supposed withdrawal routes, and then attacks Shache's exposed camp. Shache surrenders, and the relief coalition withdraws.
 
@@ -37,7 +40,7 @@ Hanji 780 preserves the summary judgment: Ban Chao turns Zhang Qian's opening of
 
 ## Key Characteristics
 
-- Deception-and-timing commander who defeats Shache by releasing false information, splitting the relief force, and attacking the exposed camp.
+- Counter-deception and timing commander who defeats Jiao Zhong's false surrender at Shule and later defeats Shache by releasing false information, splitting the relief force, and attacking the exposed camp.
 - Supply-line reader who defeats a larger Yuezhi attack by denying grain, waiting out distance, and ambushing the provisioning mission.
 - Protector and local-kingship operator appointed after Western Regions office restoration, with Qiuci's Ba Ba installation anchoring protectorate placement.
 - Forceful campaign commander whose Yanqi victory uses allied Western Regions troops, execution, replacement kingship, and hostage submission.
@@ -47,6 +50,8 @@ Hanji 780 preserves the summary judgment: Ban Chao turns Zhang Qian's opening of
 
 ## Evidence
 
+- Shule false surrender: [[zizhi-tongjian-hanji-756-weishenme-quan-ni-de-rao-ren-chu-qie-rao-ren-ltn4tqzy1d-sodhjidncv8dyqxpj|Hanji 756]] says Jiao Zhong borrows Kangju troops, offers false surrender, and arrives before Ban Chao with young fighting men.
+- Shule counter-deception: [[zizhi-tongjian-hanji-756-weishenme-quan-ni-de-rao-ren-chu-qie-rao-ren-ltn4tqzy1d-sodhjidncv8dyqxpj|Hanji 756]] says Ban Chao sees through the plan, accepts outwardly, kills Jiao Zhong, defeats the followers, and clears the Western Regions southern route.
 - Shache deception: [[zizhi-tongjian-hanji-758-suoyou-gaoqingshang-beihou-doushi-fencungan-lr-6tzffmwdtzidkf3y8ule35qf7|Hanji 758]] says Ban Chao lets a captive carry false retreat news, causing Qiuci and Wensu forces to divide before he attacks Shache.
 - Shache outcome: [[zizhi-tongjian-hanji-758-suoyou-gaoqingshang-beihou-doushi-fencungan-lr-6tzffmwdtzidkf3y8ule35qf7|Hanji 758]] says Shache surrenders after the camp attack and the Qiuci-led coalition withdraws.
 - Yuezhi supply-line defense: [[zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb|Hanji 763]] says Ban Chao harvests local grain, closes the city, waits for Yuezhi shortage, ambushes the Qiuci-bound food mission, and forces withdrawal.
@@ -62,10 +67,11 @@ Hanji 780 preserves the summary judgment: Ban Chao turns Zhang Qian's opening of
 
 ## Qualifications
 
-This page remains source-bounded. It does not attempt a full Ban Chao biography, complete campaign chronology, Western Regions administrative history, or reconstruction of Gan Ying's exact route. Hanji 758's Shache force sizes and local names remain source-scoped because no standalone Shache, Yutian, Wensu, Gumo, or Weitou pages are warranted from this note alone. Hanji 763's Yuezhi force size, tributary result, and deputy-king identity also remain source-scoped. Hanji 769's Yanqi material shows a hard coercive campaign, so the later handoff advice in Hanji 774 and Hanji 779 should be read as context-specific frontier management rather than a claim that Ban Chao avoided force.
+This page remains source-bounded. It does not attempt a full Ban Chao biography, complete campaign chronology, Western Regions administrative history, or reconstruction of Gan Ying's exact route. Hanji 756's Jiao Zhong, Kangju support, force composition, and southern-route result remain source-scoped. Hanji 758's Shache force sizes and local names remain source-scoped because no standalone Shache, Yutian, Wensu, Gumo, or Weitou pages are warranted from this note alone. Hanji 763's Yuezhi force size, tributary result, and deputy-king identity also remain source-scoped. Hanji 769's Yanqi material shows a hard coercive campaign, so the later handoff advice in Hanji 774 and Hanji 779 should be read as context-specific frontier management rather than a claim that Ban Chao avoided force.
 
 ## What Changed
 
+- Added Hanji 756 as Ban Chao's earliest current Shule false-surrender and counter-deception layer.
 - Added Hanji 758 as Ban Chao's earliest current Shache deception layer.
 - Reframed Ban Chao's frontier skill around expectation management, supply judgment, local grain control, and enemy-coalition diagnosis.
 - Preserved coercive Yanqi conquest alongside deception, logistics, and light-touch handoff advice so the profile remains balanced.
@@ -73,6 +79,8 @@ This page remains source-bounded. It does not attempt a full Ban Chao biography,
 
 ## Relationships
 
+- [[JiaoZhongShuleKing|叫中]] - Shule opponent whose false surrender Ban Chao sees through and defeats.
+- [[StrategicForbearanceGovernance|退让留余地式治理]] - boundary concept because Ban Chao shows that restraint cannot mean accepting a trap.
 - [[QiuciKingdom|龟兹]] - opposing relief power in Hanji 758 and later target of Ban Chao's kingship intervention.
 - [[CoalitionFractureExploitation|联盟裂解利用]] - tactical pattern visible when Ban Chao splits the Shache relief force through false retreat news.
 - [[Yuezhi|月氏]] - attacker whose failed campaign in Hanji 763 shows Ban Chao's supply-line judgment.

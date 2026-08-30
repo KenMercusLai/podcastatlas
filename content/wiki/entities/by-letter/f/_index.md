@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 8468
+wiki_total_pages: 8472
 wiki_pages:
   - key: "FortyThreeTalks"
     title: "43talks"
@@ -761,6 +761,9 @@ wiki_pages:
   - key: "FuRongLateHan"
     title: "符融 / Fu Rong (late Han)"
     url: "/wiki/entities/furonglatehan/"
+  - key: "FifthLunEasternHan"
+    title: "第五伦 / Fifth Lun (Eastern Han)"
+    url: "/wiki/entities/fifthluneasternhan/"
   - key: "FifthZhongLateHan"
     title: "第五种 / Fifth Zhong (late Han)"
     url: "/wiki/entities/fifthzhonglatehan/"
