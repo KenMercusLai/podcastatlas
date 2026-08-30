@@ -4,8 +4,8 @@ generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
 last_updated: 2026-08-31
-as_of_overview_commit: 5fa90547354c2135e550f7a4cb25e9c752a76a46
-input_digest: 518b55905cab3aaa6d0da2a43f69641bf09dccfd3f0d0650d7781818232d8e4a
+as_of_overview_commit: a42cbe1cd5c9e6c190ee6a3a37ad887f78ca6afb
+input_digest: c017dff8406e8b2190400ba785f50b26b42bbe7be72165f91ccccff805bc9660
 ---
 
 # Governance and Institutions
@@ -15,6 +15,18 @@ input_digest: 518b55905cab3aaa6d0da2a43f69641bf09dccfd3f0d0650d7781818232d8e4a
 Hanji 736 now pushes the governance branch back to Mingdi 61-63 CE, adding Liu Cang's trust-preserving withdrawal from central office, Zheng Zhong's refusal of risky princely retainer recruitment, Liang Song's client-network exposure, Dou Mu's forged dowager authority, and Mingdi's anti-flattery treasure-cauldron response. Hanji 737 now pushes the governance branch to Mingdi 64-65 CE early Yongping order, joining empress posthumous-title ritual, Northern Xiongnu trade contact, Zheng Zhong envoy dignity and Duliaoying intelligence, Zong Jun capacity-over-reputation personnel warning, Liu Ying initially tolerated Buddhist/Huang-Lao practice, and eclipse-triggered self-criticism. Later Hanji 738-740 claims remain the continuation: official evaluation, classics education, royal-kin law, title duty, Liu Ying accusation, coercive implication, and partial correction.
 
 ## Cross-source Findings
+
+### Late Han 735 Mingdi Empress Remonstrance And Local Exemplars
+
+[[zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq|Hanji 735]] pushes the [[EmperorMingOfHan]] governance branch back to Yongping 3 / 60 CE before [[zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup|Hanji 736]]: [[EmpressMaMingdeEasternHan]] and [[MotherhoodBeyondChildbirth]] connect empress selection to raising Liu Da as crown prince, [[ZhongliYiEasternHan]], [[ReceptiveRemonstranceGovernance]], and [[ImperialSelfCriticismEdict]] turn omen language into stopped construction and later eclipse self-warning, [[LiuPingEasternHan]], [[GuoHeEasternHan]], and [[HumaneLocalGovernance]] make local trust and public reward visible, [[YaoSongEasternHan]] shows ritual speech defusing Mingdi's harsh anger, and [[KhotanKingdomLateHan]], [[KhotanKingGuangdeLateHan]], and [[ShacheKingdomLateHan]] supply the pre-Hanji-736 Western Regions chronology.
+
+**Evidence:** [[zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq]], [[EmperorMingOfHan]], [[zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup]], [[EmpressMaMingdeEasternHan]], [[MotherhoodBeyondChildbirth]], [[ZhongliYiEasternHan]], [[ReceptiveRemonstranceGovernance]], [[ImperialSelfCriticismEdict]], [[LiuPingEasternHan]], [[GuoHeEasternHan]], [[HumaneLocalGovernance]], [[YaoSongEasternHan]], [[KhotanKingdomLateHan]], [[KhotanKingGuangdeLateHan]], [[ShacheKingdomLateHan]]
+
+**Qualifications:**
+
+- This claim is source-scoped to Hanji 735 as a Yongping 3 / 60 CE backfill before Hanji 736; it adds an earlier Mingdi, Empress Ma, and Western Regions layer rather than replacing the Hanji 736-740 sequence.
+- Jia Guiren, Yin Taihou's selection role, Ma Yuan's Yuntai omission, Zhao Xi, Guo Dan, Yu Yan, Liu Jian, Liu Xian, the Tianchuan star, North Palace, Junde, Xiumoba, Dawan, Qiuci, exact flood details, and exact date conversions remain source-scoped.
+- The Shache-Khotan material also belongs to history and geopolitics; in this governance claim it is secondary to succession, remonstrance, local-official trust, and court-temperament patterns.
 
 ### Late Han 736 Mingdi Proximity Boundary And Feedback
 

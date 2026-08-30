@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2107
+topic_total_pages: 2108
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -5588,6 +5588,9 @@ topic_entities:
   - key: "JinYong"
     title: "金庸 / Jin Yong"
     url: "/wiki/entities/jinyong/"
+  - key: "ZhongliYiEasternHan"
+    title: "钟离意 / Zhongli Yi (Eastern Han)"
+    url: "/wiki/entities/zhongliyieasternhan/"
   - key: "ChangguangCommanderyLateHan"
     title: "长广郡 / Changguang Commandery (late Han)"
     url: "/wiki/entities/changguangcommanderylatehan/"

@@ -14063,6 +14063,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-31] ingest | 《资治通鉴·汉纪》735丨13岁入宫终生未育，她的贤明真罕见！
+
+Ingested the 2026-06-25 芮淇讲透资治通鉴 episode on Mingde Empress Ma's palace entry, adoption of Liu Da, empress selection, harem generosity, learning, plain conduct, and refusal of natal-family favors; Zhongli Yi's Tianchuan-star remonstrance stopping North Palace construction; Mingdi's harshness, Yao Song's ritual deflection, eclipse self-warning, and public reward for Guo He; Liu Ping's trust-producing Quanjiao governance; and the Shache-Khotan conflict before Hanji 736. Created the source note plus `ZhongliYiEasternHan`, `LiuPingEasternHan`, `YaoSongEasternHan`, and `GuoHeEasternHan`; updated `EmpressMaMingdeEasternHan`, `EmperorMingOfHan`, `EmperorZhangOfHan`, `MotherhoodBeyondChildbirth`, `ReceptiveRemonstranceGovernance`, `ImperialSelfCriticismEdict`, `HumaneLocalGovernance`, `KhotanKingGuangdeLateHan`, `ShacheKingdomLateHan`, `KhotanKingdomLateHan`, `index`, and `overview`. No settled contradiction found; Jia Guiren, Yin Taihou's selection role, Ma Yuan's Yuntai omission, Zhao Xi, Guo Dan, Yu Yan, Liu Jian, Liu Xian, North Palace, Junde, Xiumoba, Dawan, Qiuci, exact dates, and flood details remain source-scoped. 姚松 is routed to the disambiguated Eastern Han page, distinct from modern `YaoSong`.
+
 ## [2026-08-31] ingest | 《资治通鉴·汉纪》736丨生在皇权下，他凭什么能安度晚年
 
 Ingested the 2026-06-25 芮淇讲透资治通鉴 episode on Liu Cang's voluntary withdrawal from central power under Mingdi, Zheng Zhong's refusal of risky princely client recruitment, Liang Song's slander case and implicated guests, Khotan King Guangde's Shache king-making, Dou Mu's forged Yin Taihou authority, and Mingdi's anti-flattery treasure-cauldron edict. Created the source note plus `LiangSongLinxiangMarquis`, `DouRongEasternHan`, `DouMuEasternHan`, `KhotanKingGuangdeLateHan`, `ShacheKingdomLateHan`, `RoyalKinPowerWithdrawal`, and `PrivateRetainerNetworkRisk`; updated `EmperorMingOfHan`, `LiuCangDongpingKing`, `ZhengZhongFrontierEasternHan`, `KhotanKingdomLateHan`, `KinshipProtocolBoundary`, `ImperialSelfCriticismEdict`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; Liu Jian, Guo Dan, Feng Fang, Fan Qian, Fu Gong, Liu Xu, Neihuang Princess, Dou Xun, Dou Xuan, Wangluo Mountain, and Shache succession names remain source-scoped.
@@ -14186,6 +14190,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-31] ingest | 《资治通鉴·汉纪》741丨为什么古代匈奴总要入侵中原？
 
 Ingested the 2026-06-26 芮淇讲透资治通鉴 episode on Xiongnu raids as steppe pastoral resource pressure, Emperor Ming's return to active Northern Xiongnu policy, Geng Bing's Western Regions strategy, the 73 CE four-route campaign, Dou Gu's Tianshan/Yiwu success, and Zhai Rong's failed route, punishment, deathbed instruction, and posthumous frontier reputation. Created the source note plus `ZhaiRongEasternHan` and `SteppePastoralResourcePressure`; updated `Xiongnu`, `NorthernXiongnuLateHan`, `EmperorMingOfHan`, `GengBingEasternHan`, `DouGuEasternHan`, `YiwuGarrisonLateHan`, `NomadicCavalryRaidingAsymmetry`, `index`, `overview`, and downstream synthesis inputs. No settled contradiction found; 耿炳 is normalized to 耿秉, while Qin Peng, Geng Zhong, Wu Tang, Lai Miao, Wen Mu, Left Worthy King Xin, force counts, route gates, and commandery-name details remain source-scoped.
+
+## [2026-08-31] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-31] lint | Wiki health check
 

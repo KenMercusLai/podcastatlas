@@ -22027,6 +22027,10 @@
     "title": "郭贵人 / Guo Guiren (Huan-era)",
     "url": "/wiki/entities/guoguirenhuanlatehan/"
   },
+  "GuoHeEasternHan": {
+    "title": "郭贺 / Guo He (Eastern Han inspector)",
+    "url": "/wiki/entities/guoheeasternhan/"
+  },
   "GuoHongLateHan": {
     "title": "郭闳 / Guo Hong (late Han)",
     "url": "/wiki/entities/guohonglatehan/"
@@ -30962,6 +30966,10 @@
   "LiuPiRunanLateHan": {
     "title": "刘辟 / Liu Pi (Runan late Han)",
     "url": "/wiki/entities/liupirunanlatehan/"
+  },
+  "LiuPingEasternHan": {
+    "title": "刘平 / Liu Ping (Eastern Han official)",
+    "url": "/wiki/entities/liupingeasternhan/"
   },
   "LiuQing": {
     "title": "刘擎 / Liu Qing",
@@ -57031,6 +57039,10 @@
     "title": "Yao Song / 姚颂",
     "url": "/wiki/entities/yaosong/"
   },
+  "YaoSongEasternHan": {
+    "title": "姚松 / Yao Song (Eastern Han official)",
+    "url": "/wiki/entities/yaosongeasternhan/"
+  },
   "YaoXin": {
     "title": "姚欣 / Yao Xin",
     "url": "/wiki/entities/yaoxin/"
@@ -59130,6 +59142,10 @@
   "ZhongliMo": {
     "title": "钟离眜 / Zhongli Mo",
     "url": "/wiki/entities/zhonglimo/"
+  },
+  "ZhongliYiEasternHan": {
+    "title": "钟离意 / Zhongli Yi (Eastern Han)",
+    "url": "/wiki/entities/zhongliyieasternhan/"
   },
   "ZhongouFund": {
     "title": "中欧基金 / Zhongou Fund",
@@ -63714,6 +63730,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq": {
+    "title": "《资治通鉴·汉纪》735丨13岁入宫终生未育，她的贤明真罕见！",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq/"
   },
   "zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup": {
     "title": "《资治通鉴·汉纪》736丨生在皇权下，他凭什么能安度晚年",

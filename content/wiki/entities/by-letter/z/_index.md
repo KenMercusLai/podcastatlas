@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 8544
+wiki_total_pages: 8548
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -1352,6 +1352,9 @@ wiki_pages:
   - key: "ZhongHaoYingchuanLateHan"
     title: "钟皓 / Zhong Hao (Yingchuan, late Han)"
     url: "/wiki/entities/zhonghaoyingchuanlatehan/"
+  - key: "ZhongliYiEasternHan"
+    title: "钟离意 / Zhongli Yi (Eastern Han)"
+    url: "/wiki/entities/zhongliyieasternhan/"
   - key: "ZhongliChun"
     title: "钟离春 / 钟无艳 / Zhongli Chun"
     url: "/wiki/entities/zhonglichun/"

@@ -20,14 +20,17 @@ sources:
   - zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx
   - zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d
   - zizhi-tongjian-hanji-744-dahan-genggong-qiusheng-caipu-jingrang-beiye-wangchenmoji-lvsumpsnpb1tpk7t0xrx7vatd5mx
+  - zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq
 last_updated: 2026-08-31
 ---
 
 ## Overview
 
-Emperor Zhang of Han is the Eastern Han ruler whose current profile now begins with [[zizhi-tongjian-hanji-744-dahan-genggong-qiusheng-caipu-jingrang-beiye-wangchenmoji-lvsumpsnpb1tpk7t0xrx7vatd5mx|Hanji 744]]'s accession layer: succession after [[EmperorMingOfHan|Mingdi]]'s death, honoring [[EmpressMaMingdeEasternHan|Empress Ma]] as empress dowager, approving Yang Ren's palace-gate discipline, accepting [[LiuCangDongpingKing|Liu Cang]]'s anti-Xianjie tomb-town advice, and installing senior ministers including [[FifthLunEasternHan|Fifth Lun]]. It then follows Hanji 745-758 through rescue policy, listening-and-leniency, frontier decisions, Ma-family restraint, classics consensus, accusation handling, burden relief, legal restraint, ritual codification, and kinship-boundary problems. Across the bounded source set he is unusually receptive to remonstrance, but the same evidence also shows recurring weakness where household affection, protected relatives, palace accusation, and known wrongdoing test accountability.
+Emperor Zhang of Han is the Eastern Han ruler whose current profile now begins before accession with [[zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq|Hanji 735]]'s Liu Da layer: Jia Guiren gives birth to him, [[EmpressMaMingdeEasternHan|Empress Ma]] raises him, and [[EmperorMingOfHan|Mingdi]] makes him crown prince in Yongping 3. [[zizhi-tongjian-hanji-744-dahan-genggong-qiusheng-caipu-jingrang-beiye-wangchenmoji-lvsumpsnpb1tpk7t0xrx7vatd5mx|Hanji 744]] then supplies the accession layer: succession after Mingdi's death, honoring Empress Ma as empress dowager, approving Yang Ren's palace-gate discipline, accepting [[LiuCangDongpingKing|Liu Cang]]'s anti-Xianjie tomb-town advice, and installing senior ministers including [[FifthLunEasternHan|Fifth Lun]]. It then follows Hanji 745-758 through rescue policy, listening-and-leniency, frontier decisions, Ma-family restraint, classics consensus, accusation handling, burden relief, legal restraint, ritual codification, and kinship-boundary problems. Across the bounded source set he is unusually receptive to remonstrance, but the same evidence also shows recurring weakness where household affection, protected relatives, palace accusation, and known wrongdoing test accountability.
 
 ## Current Profile
+
+Hanji 735 supplies the pre-accession origin layer. Liu Da is Jia Guiren's biological son, but Mingdi gives him to Ma to raise, and the source emphasizes deep maternal care and filial response. When Ma becomes empress, Liu Da is made crown prince. The page therefore treats Zhangdi's later Ma-family attachment and Empress Ma's empress-dowager authority as grounded in a recognized raising relationship before he becomes emperor.
 
 Hanji 744 supplies the accession and inherited-restraint layer. Zhangdi succeeds at eighteen after Mingdi dies, honors Empress Ma as empress dowager, and treats Beigong guard commandant Yang Ren favorably after Yang blocks the Ma brothers from entering the palace without proper authorization. The same source has Zhangdi accept Liu Cang's argument against building a Xianjie tomb town because the project would violate Mingdi's frugal intent, drain resources, and disturb the people. This opening makes Zhangdi's rule an inheritance-management problem before it is a policy style: mourning, maternal kin, tomb frugality, palace access, and appointments must be ordered while [[GengGongEasternHan|Geng Gong]] remains trapped on the frontier.
 
@@ -47,16 +50,17 @@ Hanji 770 adds the posthumous legitimacy layer. The revelation that [[LiangGuire
 
 ## Key Characteristics
 
+- Adopted heir whose crown-prince status and later maternal-kin politics begin with Empress Ma raising Jia Guiren's son Liu Da.
 - Accession-and-inheritance ruler who must order mourning, palace access, maternal kin, burial restraint, and senior appointments after Mingdi's death.
 - Receptive-remonstrance ruler who repeatedly lets advice change legal, frontier, household, and burden policy.
 - Burden-aware administrator who treats drought, agriculture, seasonal justice, public works, tribute, fertility, travel, and frontier deployment as governance tests.
 - Filial and maternal-recognition ruler whose desire to reward or honor kin is repeatedly checked by stronger advisers.
 - Evidence-testing frontier authorizer who backs Geng Gong's rescue and Ban Chao's mission while judging accusations by command behavior.
 - Legal-temperament reformer open to mercy, reduced torture, seasonal case timing, and correction of harsh official culture.
-- Household-risk ruler whose Song Guiren decision, Dou Xian non-punishment, and royal-kin overfavor expose limits in accountability.
 
 ## Evidence
 
+- Adopted heir and crown prince: [[zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq|Hanji 735]] says Jia Guiren gives birth to Liu Da, Mingdi gives him to Ma to raise, Ma treats him with deep care, and Liu Da becomes crown prince when Ma becomes empress.
 - Accession, palace discipline, and inherited frugality: [[zizhi-tongjian-hanji-744-dahan-genggong-qiusheng-caipu-jingrang-beiye-wangchenmoji-lvsumpsnpb1tpk7t0xrx7vatd5mx|Hanji 744]] shows Zhangdi succeeding at eighteen, honoring Empress Ma, favoring Yang Ren after proper gate enforcement, accepting Liu Cang's anti-Xianjie tomb-town counsel, issuing amnesty, and installing senior ministers including Fifth Lun.
 - Rescue decision and early Ma warning: [[zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d|Hanji 745]] shows Zhangdi accepting Bao Yu's rescue argument for Geng Gong and Guan Chong while also receiving Fifth Lun's warning about Ma-family appointments, guest networks, and large gifts.
 - Listening converted into policy: [[zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx|Hanji 746]] shows Zhangdi accepting Bao Yu's redress proposal, Yang Zhong's anti-continuation argument, and Chen Chong's anti-harshness remonstrance.
@@ -76,19 +80,20 @@ Hanji 770 adds the posthumous legitimacy layer. The revelation that [[LiangGuire
 
 ## Qualifications
 
-Zhangdi's profile should not be flattened into benevolent ritualism, weak leniency, or court fragility alone; the source set shows all three under different conditions. The page's frontmatter source order preserves the established bounded inventory order and appends Hanji 744 as the newest evidence, even though the body treats it chronologically as the accession layer. Hanji 744 adds Yang Ren's palace-gate enforcement, Zhao Xi and Mou Rong appointments, Fifth Lun's Sikong appointment, exact mourning and burial dates, and Xianjie tomb-town debate, but those details remain source-scoped unless later notes warrant separate canonical pages. Hanji 745 adds rescue approval and early Ma-family appointment warning, but Guan Chong, Ma Guang, rescue-route detail, and the exact Shule fortress geography remain source-scoped. Several identity cautions remain active: Hanji 746's Yang Zhong spelling is normalized to [[YangZhongEasternHan|杨终]], its Zheng Zhong is kept separate from [[ZhengZhongEasternHan|the eunuch Zheng Zhong]], and Zhu Hui in Hanji 753 remains [[ZhuHuiZhangEraEasternHan]], not [[ZhuHuiHeEraLateHan]].
+Zhangdi's profile should not be flattened into benevolent ritualism, weak leniency, or court fragility alone; the source set shows all three under different conditions. The page's frontmatter source order preserves the established bounded inventory order and appends Hanji 735 as the newest evidence, even though the body treats it chronologically as the pre-accession origin layer. Hanji 735 strengthens the raising-based maternal layer but leaves Jia Guiren source-scoped. Hanji 744 adds Yang Ren's palace-gate enforcement, Zhao Xi and Mou Rong appointments, Fifth Lun's Sikong appointment, exact mourning and burial dates, and Xianjie tomb-town debate, but those details remain source-scoped unless later notes warrant separate canonical pages. Hanji 745 adds rescue approval and early Ma-family appointment warning, but Guan Chong, Ma Guang, rescue-route detail, and the exact Shule fortress geography remain source-scoped. Several identity cautions remain active: Hanji 746's Yang Zhong spelling is normalized to [[YangZhongEasternHan|杨终]], its Zheng Zhong is kept separate from [[ZhengZhongEasternHan|the eunuch Zheng Zhong]], and Zhu Hui in Hanji 753 remains [[ZhuHuiZhangEraEasternHan]], not [[ZhuHuiHeEraLateHan]].
 
 ## What Changed
 
-- Added Hanji 744 as Zhangdi's accession, palace-gate discipline, inherited Mingdi-frugality, Liu Cang tomb-town remonstrance, and initial appointment layer.
-- Reframed Zhangdi's early reign as inheritance management before the Hanji 745 rescue and Hanji 746 listening-policy layers.
+- Added Hanji 735 as Zhangdi's pre-accession origin layer: Jia Guiren's birth, Empress Ma's raising, and Liu Da's crown-prince designation.
+- Preserved Hanji 744 as Zhangdi's accession, palace-gate discipline, inherited Mingdi-frugality, Liu Cang tomb-town remonstrance, and initial appointment layer.
+- Reframed Zhangdi's early reign as inheritance management built on a prior raising-based maternal relationship before the Hanji 745 rescue and Hanji 746 listening-policy layers.
 - Preserved Zhangdi's receptive-remonstrance profile while making household affection and palace access part of the opening risk field.
 - Preserved existing household-risk and known-misconduct non-punishment limits around Song Guiren, Liu Qing, and Dou Xian.
 
 ## Relationships
 
 - [[EmperorMingOfHan|汉明帝]] - predecessor whose death instructions, frugality, and mourning context shape Zhangdi's accession.
-- [[EmpressMaMingdeEasternHan|明德马皇后]] - adoptive mother elevated to empress dowager and central to Zhangdi's maternal kinship recognition.
+- [[EmpressMaMingdeEasternHan|明德马皇后]] - adoptive mother who raises Liu Da before his crown-prince designation and later becomes empress dowager.
 - [[LiuCangDongpingKing|东平王刘苍]] - royal uncle whose remonstrance, return, illness, funeral, and later memory reveal Zhangdi's consultative and kinship-ritual sides.
 - [[FrugalImperialBurialRestraint|节俭帝陵约束]] - concept strengthened by Zhangdi's acceptance of the anti-Xianjie tomb-town argument.
 - [[BaoYuEasternHan|鲍昱]] - adviser whose rescue and drought arguments Zhangdi turns into policy.

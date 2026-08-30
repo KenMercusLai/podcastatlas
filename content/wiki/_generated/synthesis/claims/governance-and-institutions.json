@@ -2,6 +2,34 @@
   "claims": [
     {
       "global_candidate": false,
+      "id": "late-han-735-mingdi-empress-remonstrance-and-local-exemplars",
+      "qualifications": [
+        "This claim is source-scoped to Hanji 735 as a Yongping 3 / 60 CE backfill before Hanji 736; it adds an earlier Mingdi, Empress Ma, and Western Regions layer rather than replacing the Hanji 736-740 sequence.",
+        "Jia Guiren, Yin Taihou's selection role, Ma Yuan's Yuntai omission, Zhao Xi, Guo Dan, Yu Yan, Liu Jian, Liu Xian, the Tianchuan star, North Palace, Junde, Xiumoba, Dawan, Qiuci, exact flood details, and exact date conversions remain source-scoped.",
+        "The Shache-Khotan material also belongs to history and geopolitics; in this governance claim it is secondary to succession, remonstrance, local-official trust, and court-temperament patterns."
+      ],
+      "statement": "[[zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq|Hanji 735]] pushes the [[EmperorMingOfHan]] governance branch back to Yongping 3 / 60 CE before [[zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup|Hanji 736]]: [[EmpressMaMingdeEasternHan]] and [[MotherhoodBeyondChildbirth]] connect empress selection to raising Liu Da as crown prince, [[ZhongliYiEasternHan]], [[ReceptiveRemonstranceGovernance]], and [[ImperialSelfCriticismEdict]] turn omen language into stopped construction and later eclipse self-warning, [[LiuPingEasternHan]], [[GuoHeEasternHan]], and [[HumaneLocalGovernance]] make local trust and public reward visible, [[YaoSongEasternHan]] shows ritual speech defusing Mingdi's harsh anger, and [[KhotanKingdomLateHan]], [[KhotanKingGuangdeLateHan]], and [[ShacheKingdomLateHan]] supply the pre-Hanji-736 Western Regions chronology.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq",
+        "EmperorMingOfHan",
+        "zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup",
+        "EmpressMaMingdeEasternHan",
+        "MotherhoodBeyondChildbirth",
+        "ZhongliYiEasternHan",
+        "ReceptiveRemonstranceGovernance",
+        "ImperialSelfCriticismEdict",
+        "LiuPingEasternHan",
+        "GuoHeEasternHan",
+        "HumaneLocalGovernance",
+        "YaoSongEasternHan",
+        "KhotanKingdomLateHan",
+        "KhotanKingGuangdeLateHan",
+        "ShacheKingdomLateHan"
+      ]
+    },
+    {
+      "global_candidate": false,
       "id": "late-han-736-mingdi-proximity-boundary-and-feedback",
       "qualifications": [
         "This claim is source-scoped to Hanji 736 as a 61-63 CE Yongping backfill before Hanji 737; it adds an earlier Mingdi governance layer rather than replacing the later Hanji 737-740 sequence.",

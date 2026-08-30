@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "95f9ae3aed5123bf49c59a2515065ceaafb0b3eea65c7aa8e9afdfcc2056ba57",
       "2bf659c39682f4c176550216929e8417c558421e22fb2fa621f5b6890e7c9c3b",
       "8be53566663fad3f26d174e4a6007a033013b7878700639aad6d620a0d2d52c6",
       "6df286aa7341b8d92dcf61fdb2fc450df87948b95ea4b2ef3d81d4174ea65d6a",
@@ -435,11 +436,42 @@
       "2231d7cf4c1cf8ae29ee2ec0737334356ddcd78d5df4e6b306dab83b98b3febe",
       "258d3cecfd602d249de03f40e3adf3020a02e0483ced5147541e8a3c20c1b13b"
     ],
-    "paragraph_count": 433
+    "paragraph_count": 434
   },
-  "overview_commit": "5fa90547354c2135e550f7a4cb25e9c752a76a46",
-  "overview_digest": "d49bcb5c3002bcca2acefd18d632a4c6c9965bf61c697936a4a0f4c28aa6252d",
+  "overview_commit": "a42cbe1cd5c9e6c190ee6a3a37ad887f78ca6afb",
+  "overview_digest": "a6b445bae441d13896afdd56572d534814a6b33f50ea04e838a9962fb332df5c",
   "paragraphs": [
+    {
+      "id": "95f9ae3aed5123bf49c59a2515065ceaafb0b3eea65c7aa8e9afdfcc2056ba57",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq|《资治通鉴·汉纪》735丨13岁入宫终生未育，她的贤明真罕见！]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling Yongping 3 / 60 CE before [[zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup|Hanji 736]]. It adds [[ZhongliYiEasternHan|钟离意]], [[LiuPingEasternHan|刘平]], [[YaoSongEasternHan|姚松]], and [[GuoHeEasternHan|郭贺]], while extending [[EmpressMaMingdeEasternHan|明德马皇后]], [[EmperorMingOfHan|汉明帝]], [[EmperorZhangOfHan|汉章帝]], [[MotherhoodBeyondChildbirth|抚育胜于生育的母德评价]], [[ReceptiveRemonstranceGovernance|纳谏转政策式治理]], [[ImperialSelfCriticismEdict|帝王自责诏]], [[HumaneLocalGovernance|仁厚地方治理]], [[KhotanKingdomLateHan|于阗国]], [[KhotanKingGuangdeLateHan|于阗王广德]], and [[ShacheKingdomLateHan|莎车国]]. Its core synthesis is that early Yongping order depends on operational checks on virtue and power: Empress Ma stabilizes palace succession through raising, generosity, learning, and non-extraction; Zhongli Yi turns omen language into stopped construction; Liu Ping and Guo He make local trust and public reward visible; Yao Song shows ritual speech defusing imperial anger; and the Shache-Khotan notice supplies the pre-Hanji-736 Western Regions chronology. No settled contradiction is recorded; Jia Guiren, Yin Taihou's selection role, Ma Yuan's Yuntai omission, Zhao Xi, Guo Dan, Yu Yan, Liu Jian, Liu Xian, the Tianchuan star, North Palace, Junde, Xiumoba, Dawan, Qiuci, and exact flood/date details remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "EmperorMingOfHan",
+        "EmperorZhangOfHan",
+        "EmpressMaMingdeEasternHan",
+        "GuoHeEasternHan",
+        "HumaneLocalGovernance",
+        "ImperialSelfCriticismEdict",
+        "KhotanKingGuangdeLateHan",
+        "KhotanKingdomLateHan",
+        "LiuPingEasternHan",
+        "MotherhoodBeyondChildbirth",
+        "ReceptiveRemonstranceGovernance",
+        "RuiqiJiangtouZizhiTongjian",
+        "ShacheKingdomLateHan",
+        "YaoSongEasternHan",
+        "ZhongliYiEasternHan",
+        "zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq",
+        "zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup"
+      ]
+    },
     {
       "id": "2bf659c39682f4c176550216929e8417c558421e22fb2fa621f5b6890e7c9c3b",
       "primary_topic": "governance-and-institutions",

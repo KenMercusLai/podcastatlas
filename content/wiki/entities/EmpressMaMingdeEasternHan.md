@@ -9,16 +9,19 @@ sources:
   - zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf
   - zizhi-tongjian-hanji-748-laozuzong-de-zhonggao-qinqi-bugongcai-gongcai-liangwulai-luqvnld4wbdgc3nrdumyhfhscs4z
   - zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew
+  - zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq
 last_updated: 2026-08-31
 ---
 
 ## Overview
 
-明德马皇后 / Empress Ma now begins in the wiki with a Mingdi-era counsel layer before the Zhang-era empress-dowager profile. [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|Hanji 740]] shows her warning [[EmperorMingOfHan|Mingdi]] that the Chu-prison case has punished too broadly. Hanji 748-752 then show her better-known pattern of preventive Ma-family restraint, public frugality, raising-based motherhood, court records, and the loss of that discipline after her death.
+明德马皇后 / Empress Ma now begins in the wiki with a Yongping 3 origin layer before the later Zhang-era empress-dowager profile. [[zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq|Hanji 735]] shows her entering the palace young, raising Jia Guiren's son Liu Da, becoming empress, treating favored women generously, keeping plain dress and learning, and refusing private advantage for her natal family. Hanji 740 then shows her legal-restraint counsel under [[EmperorMingOfHan|Mingdi]], while Hanji 748-752 show preventive Ma-family restraint, public frugality, raising-based motherhood, court records, and the loss of that discipline after her death.
 
 ## Current Profile
 
-Hanji 740 supplies the earliest current layer. During the [[LiuYingChuKingEasternHan|Liu Ying]] Chu-prison crisis, Empress Ma uses a private opening to tell Mingdi that the case has become excessive and contains many people who were swept in indiscriminately. Her counsel is not framed as command authority, but it contributes to the broader correction alongside [[JianLangEasternHan|Jian Lang]]'s remonstrance and [[YuanAnEasternHan|Yuan An]]'s later file review.
+Hanji 735 supplies the earliest current layer. Empress Ma enters the palace at thirteen, has no biological son, receives Jia Guiren's son Liu Da to raise, and becomes empress in the same year that Liu Da is made crown prince. The episode makes her authority depend on cultivated conduct: she treats the boy with care, treats Mingdi's favored women without jealousy, recommends beauties rather than hoarding favor, dresses plainly, reads widely, helps Mingdi reason through difficult memorials, and does not seek favors for the Ma family.
+
+Hanji 740 then gives the next Mingdi-era counsel layer. During the [[LiuYingChuKingEasternHan|Liu Ying]] Chu-prison crisis, Empress Ma uses a private opening to tell Mingdi that the case has become excessive and contains many people who were swept in indiscriminately. Her counsel is not framed as command authority, but it contributes to the broader correction alongside [[JianLangEasternHan|Jian Lang]]'s remonstrance and [[YuanAnEasternHan|Yuan An]]'s later file review.
 
 Hanji 748 then gives her background as the youngest daughter of Ma Yuan, shaped by family decline after Ma Yuan's death and by learning, self-control, and frugal household practice. It also gives the adoption setup: she has no biological child, receives Jia Guiren's son Liu Da to raise, and becomes the recognized mother of the future [[EmperorZhangOfHan|Zhangdi]].
 
@@ -32,16 +35,18 @@ Hanji 752 then presents her indirectly after death. Ma Liao, [[MaFangEasternHan|
 
 ## Key Characteristics
 
+- Early palace-stabilizing empress who raises Liu Da, treats rival women generously, maintains plain learned conduct, and avoids natal-family favor.
 - Quiet legal-restraint adviser who warns Mingdi that the Chu-prison case has punished too broadly.
 - Preventive outer-relative restrainer who blocks Ma-family enfeoffment, office conversion, luxury display, and kinship-based legal exemption.
 - Frugal empress dowager whose personal austerity becomes credible because she disciplines her own natal household first.
-- Childless maternal authority figure whose legitimacy rests on raising Zhangdi rather than giving birth to him.
 - Kinship boundary actor who worries that Ma-family titles can become reputation and power risks even when Zhangdi's affection is sincere.
 - Learned court record figure associated in the source with `显宗起居注` and early female historiography.
 - Lost patron whose death exposes the Ma family's wealth, guests, and younger relatives.
 
 ## Evidence
 
+- Empress selection and adopted heir: [[zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq|Hanji 735]] says Ma is made empress in Yongping 3, while Liu Da, Jia Guiren's son whom Ma raises, is made crown prince.
+- Palace conduct and natal restraint: [[zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq|Hanji 735]] emphasizes her generosity toward favored women, plain dress, love of books, advice on difficult memorials, and refusal to seek Ma-family privilege.
 - Chu-prison counsel: [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|Hanji 740]] says Empress Ma privately warns Mingdi that many Chu-prison punishments are excessive, helping stop further expansion.
 - Background and adoption: [[zizhi-tongjian-hanji-748-laozuzong-de-zhonggao-qinqi-bugongcai-gongcai-liangwulai-luqvnld4wbdgc3nrdumyhfhscs4z|Hanji 748]] describes Empress Ma's Ma Yuan family background, frugal learning, childlessness, and adoption of Jia Guiren's son Liu Da.
 - Refusal of Ma-family enfeoffment: [[zizhi-tongjian-hanji-748-laozuzong-de-zhonggao-qinqi-bugongcai-gongcai-liangwulai-luqvnld4wbdgc3nrdumyhfhscs4z|Hanji 748]] says she rejects Zhangdi's plan to enfeoff maternal uncles by invoking Former Han outer-relative collapse and Guangwu/Mingdi restraint.
@@ -54,12 +59,12 @@ Hanji 752 then presents her indirectly after death. Ma Liao, [[MaFangEasternHan|
 
 ## Qualifications
 
-The page still does not reconstruct Empress Ma's full life, Ma Yuan's posthumous case, Jia Guiren's full court history, Yin Taihou's role, or the exact identities behind every Ma-brother allowance episode. Hanji 740 shows private counsel during a legal crisis but not direct administrative command. Hanji 748 proves an early preventive-restraint pattern, but it does not prove that the pattern survived after Empress Ma's death. Hanji 749 shows Empress Ma accepting a memorial about example-setting, but it does not by itself prove a long-term court-culture transformation. Hanji 750's claims about "education over childbirth" and "first female historian" remain important source interpretations that need corroboration before becoming universal wiki judgments.
+The page still does not reconstruct Empress Ma's full life, Ma Yuan's posthumous case, Jia Guiren's full court history, Yin Taihou's selection role, or the exact identities behind every Ma-brother allowance episode. Hanji 735 supplies the earliest palace and succession layer, but it remains a virtue-focused episode rather than a complete institutional biography. Hanji 740 shows private counsel during a legal crisis but not direct administrative command. Hanji 748 proves an early preventive-restraint pattern, but it does not prove that the pattern survived after Empress Ma's death. Hanji 749 shows Empress Ma accepting a memorial about example-setting, but it does not by itself prove a long-term court-culture transformation. Hanji 750's claims about "education over childbirth" and "first female historian" remain important source interpretations that need corroboration before becoming universal wiki judgments.
 
 ## What Changed
 
-- Added Hanji 740 as the earliest current layer: Empress Ma's warning that the Chu-prison case was punishing too broadly.
-- Reframed her role as legal-restraint counsel before the Zhang-era outer-relative and exemplar-governance sequence.
+- Added Hanji 735 as the earliest current layer: palace entry, empress selection, Liu Da adoption, harem generosity, learning, plain conduct, and refusal of private family favor.
+- Reframed her role as palace-stabilizing empress and legal-restraint counsel before the Zhang-era outer-relative and exemplar-governance sequence.
 - Preserved Hanji 748-752 as the main Ma-family restraint, motherhood, court-record, and lost-patronage profile.
 
 ## Relationships
@@ -68,7 +73,7 @@ The page still does not reconstruct Empress Ma's full life, Ma Yuan's posthumous
 - [[LiuYingChuKingEasternHan]] - accused Chu king whose case creates the punishment crisis she warns about.
 - [[CoerciveImplicationCascade]] - failure mode her counsel helps stop from expanding further.
 - [[ReceptiveRemonstranceGovernance]] - governance pattern illustrated by her counsel becoming part of Mingdi's correction.
-- [[EmperorZhangOfHan|汉章帝]] - raised son and ruler whose wish to honor the Ma clan is restrained by Empress Ma's preventive logic.
+- [[EmperorZhangOfHan|汉章帝]] - raised son whose crown-prince legitimacy and later Ma-clan honor depend on Empress Ma's maternal position.
 - [[MaFamilyZhangEraEasternHan|马氏]] - natal or in-law family whose honor and later safety depend on her protection and restraint model.
 - [[MaLiaoEasternHan|马廖]] - senior Ma-family brother through whom she enforces tomb restraint and later receives exemplar-governance counsel.
 - [[MaFangEasternHan|马防]] - Ma-family brother whose later command and overexposure test her restraint legacy.

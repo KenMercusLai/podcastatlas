@@ -11586,9 +11586,9 @@
       "url": "/wiki/entities/emperorhuanofhan/"
     },
     "EmperorMingOfHan": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》899丨好清斗贪官 [ljHIC1PlzmV8k6LU73J5tErihanx].md",
@@ -11652,6 +11652,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》736丨生在皇权下，他凭什么能安度晚年",
           "url": "/wiki/sources/zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》735丨13岁入宫终生未育，她的贤明真罕见！ [lj2lyiE73xK9fUbEBzWogd-w7HRQ].md",
+          "key": "zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》735丨13岁入宫终生未育，她的贤明真罕见！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq/"
         }
       ],
       "updated": "2026-08-31",
@@ -11858,9 +11865,9 @@
       "url": "/wiki/entities/emperorshunofhan/"
     },
     "EmperorZhangOfHan": {
-      "episode_count": 16,
+      "episode_count": 17,
       "show_count": 1,
-      "source_note_count": 16,
+      "source_note_count": 17,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》770丨沉默的真相：皇帝的生母竟是她 [lu5dqu8Uuw277IkZXkBLVqDbPL3q].md",
@@ -11973,6 +11980,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》744丨大汉耿恭求生菜谱，竟让贝爷望尘莫及？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-744-dahan-genggong-qiusheng-caipu-jingrang-beiye-wangchenmoji-lvsumpsnpb1tpk7t0xrx7vatd5mx/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》735丨13岁入宫终生未育，她的贤明真罕见！ [lj2lyiE73xK9fUbEBzWogd-w7HRQ].md",
+          "key": "zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》735丨13岁入宫终生未育，她的贤明真罕见！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq/"
         }
       ],
       "updated": "2026-08-31",
@@ -12478,9 +12492,9 @@
       "url": "/wiki/entities/empressliangyinglatehan/"
     },
     "EmpressMaMingdeEasternHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》752丨失去靠山的人该如何处世？ [lt0QB7aLYh0IPf6mK8hVz92cS297].md",
@@ -12516,6 +12530,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》740丨让你醍醐灌顶的职场智慧！(职场必备)",
           "url": "/wiki/sources/zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》735丨13岁入宫终生未育，她的贤明真罕见！ [lj2lyiE73xK9fUbEBzWogd-w7HRQ].md",
+          "key": "zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》735丨13岁入宫终生未育，她的贤明真罕见！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq/"
         }
       ],
       "updated": "2026-08-31",
@@ -16269,6 +16290,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/guoguirenhuanlatehan/"
     },
+    "GuoHeEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》735丨13岁入宫终生未育，她的贤明真罕见！ [lj2lyiE73xK9fUbEBzWogd-w7HRQ].md",
+          "key": "zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》735丨13岁入宫终生未育，她的贤明真罕见！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/guoheeasternhan/"
+    },
     "GuoHongLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -18655,9 +18692,9 @@
       "url": "/wiki/concepts/humanrobotsafetycertification/"
     },
     "HumaneLocalGovernance": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》870丨古代体制内，不干了没有退路 [lpWBNiU9IFPT6Cp4ip9cZqwSh5XD].md",
@@ -18728,9 +18765,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》777丨比肩武则天，碾压慈禧，这个女人了不得！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-777-bi-jian-wuzetian-nianya-cixi-zhege-nvren-liaobude-lk7j4qv-sqfopzbii6rc-ivbuxs/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》735丨13岁入宫终生未育，她的贤明真罕见！ [lj2lyiE73xK9fUbEBzWogd-w7HRQ].md",
+          "key": "zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》735丨13岁入宫终生未育，她的贤明真罕见！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-08-31",
       "url": "/wiki/concepts/humanelocalgovernance/"
     },
     "HumanoidRobotCommercialization": {
@@ -19095,9 +19139,9 @@
       "url": "/wiki/concepts/imperialretinuediscipline/"
     },
     "ImperialSelfCriticismEdict": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》737丨皇后谥号制度第一人，刘秀老婆不简单！ [lsDhr_gdx-yep3TzPrjG9wTJBUl2].md",
@@ -19112,6 +19156,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》736丨生在皇权下，他凭什么能安度晚年",
           "url": "/wiki/sources/zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》735丨13岁入宫终生未育，她的贤明真罕见！ [lj2lyiE73xK9fUbEBzWogd-w7HRQ].md",
+          "key": "zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》735丨13岁入宫终生未育，她的贤明真罕见！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq/"
         }
       ],
       "updated": "2026-08-31",
@@ -21066,9 +21117,9 @@
       "url": "/wiki/entities/kevinding/"
     },
     "KhotanKingGuangdeLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》736丨生在皇权下，他凭什么能安度晚年 [lisegz1IA5nAJEWgHXaqirKAFvUP].md",
@@ -21083,6 +21134,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》742丨班超出使西域，37人大杀四方！！！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-742-banchao-chushi-xiyu-37-ren-da-sha-si-fang-ltutsinxtciar0tmpxkge0mnsnp1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》735丨13岁入宫终生未育，她的贤明真罕见！ [lj2lyiE73xK9fUbEBzWogd-w7HRQ].md",
+          "key": "zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》735丨13岁入宫终生未育，她的贤明真罕见！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq/"
         }
       ],
       "updated": "2026-08-31",
@@ -21105,9 +21163,9 @@
       "url": "/wiki/entities/khotankingjianlatehan/"
     },
     "KhotanKingdomLateHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》838丨贪婪的诱惑，让他狂飙在作死的路上 [lrYDIlyNi6O6YzHk1_E74M6aiGWr].md",
@@ -21143,6 +21201,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》736丨生在皇权下，他凭什么能安度晚年",
           "url": "/wiki/sources/zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》735丨13岁入宫终生未育，她的贤明真罕见！ [lj2lyiE73xK9fUbEBzWogd-w7HRQ].md",
+          "key": "zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》735丨13岁入宫终生未育，她的贤明真罕见！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq/"
         }
       ],
       "updated": "2026-08-31",
@@ -23656,6 +23721,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/liupirunanlatehan/"
+    },
+    "LiuPingEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》735丨13岁入宫终生未育，她的贤明真罕见！ [lj2lyiE73xK9fUbEBzWogd-w7HRQ].md",
+          "key": "zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》735丨13岁入宫终生未育，她的贤明真罕见！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/liupingeasternhan/"
     },
     "LiuQingQingheKing": {
       "episode_count": 4,
@@ -27612,9 +27693,9 @@
       "url": "/wiki/concepts/mosquitobiteprevention/"
     },
     "MotherhoodBeyondChildbirth": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》750丨揭秘东汉完美女性，背后满是牺牲！ [lu-96lbDh7R0tsMiOPBQqRj0Q1gt].md",
@@ -27629,6 +27710,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》748丨老祖宗的忠告： 亲戚不共财，共财两无来！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-748-laozuzong-de-zhonggao-qinqi-bugongcai-gongcai-liangwulai-luqvnld4wbdgc3nrdumyhfhscs4z/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》735丨13岁入宫终生未育，她的贤明真罕见！ [lj2lyiE73xK9fUbEBzWogd-w7HRQ].md",
+          "key": "zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》735丨13岁入宫终生未育，她的贤明真罕见！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq/"
         }
       ],
       "updated": "2026-08-31",
@@ -32295,9 +32383,9 @@
       "url": "/wiki/concepts/realrobotdatastrategy/"
     },
     "ReceptiveRemonstranceGovernance": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》746丨什么样的领导，值得被死心塌追随？ [lvHBdgfbC69T6sdw92K4dIpII_RX].md",
@@ -32319,6 +32407,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》737丨皇后谥号制度第一人，刘秀老婆不简单！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》735丨13岁入宫终生未育，她的贤明真罕见！ [lj2lyiE73xK9fUbEBzWogd-w7HRQ].md",
+          "key": "zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》735丨13岁入宫终生未育，她的贤明真罕见！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq/"
         }
       ],
       "updated": "2026-08-31",
@@ -34355,9 +34450,9 @@
       "url": "/wiki/concepts/sexualharassmentnaminglag/"
     },
     "ShacheKingdomLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》736丨生在皇权下，他凭什么能安度晚年 [lisegz1IA5nAJEWgHXaqirKAFvUP].md",
@@ -34372,6 +34467,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》758丨所有高情商，背后都是分寸感",
           "url": "/wiki/sources/zizhi-tongjian-hanji-758-suoyou-gaoqingshang-beihou-doushi-fencungan-lr-6tzffmwdtzidkf3y8ule35qf7/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》735丨13岁入宫终生未育，她的贤明真罕见！ [lj2lyiE73xK9fUbEBzWogd-w7HRQ].md",
+          "key": "zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》735丨13岁入宫终生未育，她的贤明真罕见！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq/"
         }
       ],
       "updated": "2026-08-31",
@@ -43698,6 +43800,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/yaoguanglatehan/"
     },
+    "YaoSongEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》735丨13岁入宫终生未育，她的贤明真罕见！ [lj2lyiE73xK9fUbEBzWogd-w7HRQ].md",
+          "key": "zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》735丨13岁入宫终生未育，她的贤明真罕见！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/yaosongeasternhan/"
+    },
     "YidaiZhao": {
       "episode_count": 1,
       "show_count": 1,
@@ -46085,6 +46203,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/zhongchangtonglatehan/"
+    },
+    "ZhongliYiEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》735丨13岁入宫终生未育，她的贤明真罕见！ [lj2lyiE73xK9fUbEBzWogd-w7HRQ].md",
+          "key": "zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》735丨13岁入宫终生未育，她的贤明真罕见！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/zhongliyieasternhan/"
     },
     "ZhouFuLateHan": {
       "episode_count": 1,

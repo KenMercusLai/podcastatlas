@@ -13,16 +13,21 @@ sources:
   - zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu
   - zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2
   - zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup
+  - zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq
 last_updated: 2026-08-31
 ---
 
 ## Overview
 
-[[EmperorMingOfHan|汉明帝]] is now synthesized from a Hanji 736-738 early Yongping layer of royal-kin withdrawal, private-client risk, elite punishment, Western Regions volatility, omen humility, empress ritual memory, Northern Xiongnu trade and envoy dignity, Southern Xiongnu containment, official-capacity advice, eclipse self-criticism, official evaluation, classics education, royal-kin treason judgment, and title-duty correction. Later sources extend that profile through royal affection, Ailao incorporation, Bianqu/Huanghe hydraulic capacity, the Liu Ying case, Confucian ritual, frontier restoration, filial affect, frugal burial, outer-relative restraint, and later ritual precedent. The current profile keeps two traits together: Mingdi can build disciplined order and correct mistakes, but he can also misread loyal remonstrance or treason fear until outside evidence, courageous officials, or a public feedback event force reinterpretation.
+[[EmperorMingOfHan|汉明帝]] is now synthesized from a Hanji 735-738 early Yongping layer of empress and heir designation, construction-burden remonstrance, punitive temperament, local-official exemplars, royal-kin withdrawal, private-client risk, elite punishment, Western Regions volatility, omen humility, empress ritual memory, Northern Xiongnu trade and envoy dignity, Southern Xiongnu containment, official-capacity advice, eclipse self-criticism, official evaluation, classics education, royal-kin treason judgment, and title-duty correction. Later sources extend that profile through royal affection, Ailao incorporation, Bianqu/Huanghe hydraulic capacity, the Liu Ying case, Confucian ritual, frontier restoration, filial affect, frugal burial, outer-relative restraint, and later ritual precedent. The current profile keeps two traits together: Mingdi can build disciplined order and correct mistakes, but he can also rule through surveillance, anger, and overreach until evidence, ritual constraint, courageous officials, or a public feedback event force reinterpretation.
 
 ## Current Profile
 
-Hanji 736 supplies the earliest current layer. In 61-63 CE, Mingdi responds to [[LiuCangDongpingKing|Liu Cang]]'s remonstrance by turning back from a planned hunt, then lets Liu Cang return to Dongping after repeated requests to leave the central power field while retaining the piaoji general seal and receiving major gifts. The same source shows Mingdi punishing [[LiangSongLinxiangMarquis|Liang Song]]'s court slander, the implicated-guest danger that [[ZhengZhongFrontierEasternHan|Zheng Zhong]] had avoided earlier, and [[DouMuEasternHan|Dou Mu]]'s false use of [[YinLihua|Yin Taihou]]'s authority for marriage coercion. Mingdi's treasure-cauldron edict adds another restraint layer: auspicious objects may be recognized, but exaggerated saintly praise is to be rejected rather than rewarded.
+Hanji 735 supplies the earliest current layer. In Yongping 3 / 60 CE, Mingdi removes and appoints senior ministers, makes [[EmpressMaMingdeEasternHan|Ma]] empress, and establishes Liu Da, the child Ma raises, as crown prince. The same source shows the best and worst sides of his court: [[ZhongliYiEasternHan|Zhongli Yi]] can persuade him to stop North Palace construction by linking an omen to people's farming burden, yet Mingdi is also described as strict, surveillance-prone, and sometimes personally violent toward officials. [[YaoSongEasternHan|Yao Song]]'s ritual quotation defuses one anger scene, while Zhongli Yi's later leniency memorial is protected but not adopted.
+
+Hanji 735 also gives a local and frontier background. [[LiuPingEasternHan|Liu Ping]]'s Quanjiao governance creates unusually strong trust signals, and [[GuoHeEasternHan|Guo He]] is publicly rewarded so commoners can see good administration honored. The Western Regions notice places [[ShacheKingdomLateHan|Shache]] and [[KhotanKingdomLateHan|Khotan]] in violent churn before the Hanji 736 continuation.
+
+Hanji 736 then follows. In 61-63 CE, Mingdi responds to [[LiuCangDongpingKing|Liu Cang]]'s remonstrance by turning back from a planned hunt, then lets Liu Cang return to Dongping after repeated requests to leave the central power field while retaining the piaoji general seal and receiving major gifts. The same source shows Mingdi punishing [[LiangSongLinxiangMarquis|Liang Song]]'s court slander, the implicated-guest danger that [[ZhengZhongFrontierEasternHan|Zheng Zhong]] had avoided earlier, and [[DouMuEasternHan|Dou Mu]]'s false use of [[YinLihua|Yin Taihou]]'s authority for marriage coercion. Mingdi's treasure-cauldron edict adds another restraint layer: auspicious objects may be recognized, but exaggerated saintly praise is to be rejected rather than rewarded.
 
 Hanji 737 supplies the next early Yongping layer. In 64 CE, Mingdi's court buries [[YinLihua|Empress Dowager Yin Lihua]] and gives her the 光烈 posthumous title, tying maternal dynastic memory to [[ImperialConsortPosthumousTitleSystem|empress posthumous-title practice]]. In 65 CE, Mingdi accepts trade contact with [[NorthernXiongnuLateHan|Northern Xiongnu]] despite ongoing raids, receives [[ZongJunEasternHan|Zong Jun]]'s warning that literary or merely clean officials are not enough for actual governance, and reacts to a solar eclipse by soliciting confidential criticism, publishing it, and treating the criticisms as his own crimes.
 
@@ -46,16 +51,20 @@ Hanji 899 supplies later ritual memory. When [[EmperorLingOfHan|Lingdi]] visits 
 
 ## Key Characteristics
 
-- Eastern Han second emperor whose profile joins royal-kin distance management, elite punishment, frontier diplomacy, official evaluation, Confucian education, material state capacity, legal overreach, correction, ritual, filial grief, and frugal restraint.
-- Correctable ruler whose judgment can change after external testimony, evidence, or courageous remonstrance, but often only after imprisonment, fear, or death has already occurred.
+- Eastern Han second emperor whose profile joins succession designation, royal-kin distance management, elite punishment, frontier diplomacy, local exemplars, official evaluation, Confucian education, material state capacity, legal overreach, correction, ritual, filial grief, and frugal restraint.
+- Correctable ruler whose judgment can change after evidence, public criticism, or courageous remonstrance, but whose harshness can require subordinates to manage anger and retaliation risk.
 - Frontier ruler who treats Northern Xiongnu pressure as a credibility problem, yet initially misses Zheng Zhong's warning about diplomatic and ritual signaling.
 - Administrative and educational ruler who uses annual official review, classics schooling, agrarian ritual, and later conference-style learning to stabilize court order.
 - Royal-family ruler whose affection and kinship restraint coexist with treason-law boundaries in the Liu Jing and Liu Ying cases.
-- State-capacity ruler whose Liu Cang settlement, Ailao incorporation, Bianqu works, Northern Xiongnu campaign, and Western Regions restoration show high Yongping mobilization.
+- State-capacity ruler whose halted North Palace works, Liu Cang settlement, Ailao incorporation, Bianqu works, Northern Xiongnu campaign, and Western Regions restoration show both ambition and capacity for correction.
 - Filial and frugal ritual actor whose Yuanling grief, Shouling order, death instructions, and later ritual memory convert dynastic memory into disciplined form.
 
 ## Evidence
 
+- Empress and heir designation: [[zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq|Hanji 735]] records Mingdi making Ma empress and making Liu Da crown prince after Liu Da has been raised by Ma.
+- Stopped construction through remonstrance: [[zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq|Hanji 735]] records Zhongli Yi's North Palace remonstrance, Mingdi's stoppage of the works, expense reduction, and apology to ministers.
+- Harshness and ritual deflection: [[zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq|Hanji 735]] describes Mingdi's strict temper and has Yao Song defuse an anger scene with ritual language.
+- Local governance exemplars: [[zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq|Hanji 735]] records Liu Ping's trust-producing county governance and Mingdi's visible reward for Guo He.
 - Frontier diplomacy and envoy dignity: [[zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu|Hanji 738]] records Zheng Zhong's warning against a Northern Xiongnu return mission, Mingdi's imprisonment of Zheng, and later rehabilitation after hostile-side testimony confirms Zheng's refusal to bow.
 - Official evaluation and classics education: [[zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu|Hanji 738]] records annual best/worst official reporting, classics education for royal and official households, outer-relative schooling, guard-unit study, and Xiongnu noble sons studying at Han.
 - Royal-kin and title-duty judgment: [[zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu|Hanji 738]] records Liu Jing's restricted authority, Fan Tiao's public-law answer, Liu Jing's suicide, Ding Hong's title-yielding attempt, Bao Jun's correction, and Ding's appointment.
@@ -73,14 +82,13 @@ Hanji 899 supplies later ritual memory. When [[EmperorLingOfHan|Lingdi]] visits 
 
 ## Qualifications
 
-Mingdi should not be flattened into either benevolent filial ruler or punitive autocrat. The current profile holds both together: he builds evaluation, education, frontier capacity, hydraulic works, ritual order, and frugal memory, while also needing feedback mechanisms to correct misread frontier advice and later treason overreach. Hanji 736's Liu Jian death notice, Three Excellencies personnel changes, Liu Xu marriage target, minor Dou-family names, Shache succession names, and exact treasure-cauldron provenance remain source-scoped. Hanji 737's gendered Yin Lihua reading, Buddhism transmission narrative, and exact Duliaoying details remain source-scoped. Hanji 738's Zheng Zhong and Ding Hong normalizations remain source-sensitive; Liu Gong, Liu Dang, Four Surnames minor marquises, Ding family details, and minor ritual dates remain source-scoped. Hanji 740's Buddhist-secret-organization explanation remains source-scoped rather than a settled cause.
+Mingdi should not be flattened into either benevolent filial ruler or punitive autocrat. The current profile holds both together: he builds evaluation, education, frontier capacity, hydraulic works, ritual order, local exemplar display, and frugal memory, while also needing feedback mechanisms to correct construction burdens, misread frontier advice, anger, and later treason overreach. Hanji 735's Zhao Xi, Guo Dan, Yu Yan, Ma Yuan/Yuntai omission, Liu Jian, Liu Xian, exact star-field details, and Shache-Khotan minor succession actors remain source-scoped. Hanji 736's Liu Jian death notice, Three Excellencies personnel changes, Liu Xu marriage target, minor Dou-family names, Shache succession names, and exact treasure-cauldron provenance remain source-scoped. Hanji 737's gendered Yin Lihua reading, Buddhism transmission narrative, and exact Duliaoying details remain source-scoped. Hanji 738's Zheng Zhong and Ding Hong normalizations remain source-sensitive; Liu Gong, Liu Dang, Four Surnames minor marquises, Ding family details, and minor ritual dates remain source-scoped. Hanji 740's Buddhist-secret-organization explanation remains source-scoped rather than a settled cause.
 
 ## What Changed
 
-- Added Hanji 736 as Mingdi's earliest current layer: Liu Cang's managed withdrawal, Zheng Zhong's client-risk background, Liang Song and Dou Mu punishment, Khotan/Shache frontier volatility, and the anti-flattery treasure-cauldron edict.
-- Added Hanji 737 as Mingdi's next early Yongping layer: Yin Lihua's 光烈 title, Northern Xiongnu trade, Zong Jun's personnel warning, Zheng Zhong's original mission, Duliaoying, Liu Ying's tolerated Buddhism, and eclipse self-criticism.
-- Reframed Mingdi's correctability as visible through both public self-blame and later reversals after misread frontier or legal evidence.
-- Complicated Liu Ying's arc by adding the earlier退赎诏 tolerance before Hanji 739-740 suspicion and coercive implication.
+- Added Hanji 735 as Mingdi's earliest current layer: Empress Ma, Liu Da's crown-prince designation, North Palace remonstrance, harshness, Yao Song's ritual deflection, Liu Ping, Guo He, and the earlier Shache-Khotan branch.
+- Reframed Mingdi's correctability to include halted construction and public self-blame as well as later reversals after misread frontier or legal evidence.
+- Preserved Hanji 736-737 as early Yongping royal-kin, anti-flattery, empress-ritual, Northern Xiongnu, Liu Ying tolerance, Duliaoying, and eclipse layers.
 - Preserved Hanji 738's official evaluation, classics schooling, Liu Jing's royal-kin case, Ding Hong's title-duty branch, and the later Liu Cang, Ailao, Bianqu, Chu-prison, frontier-restoration, filial, frugal, and outer-relative layers.
 
 ## Relationships
@@ -91,6 +99,10 @@ Mingdi should not be flattened into either benevolent filial ruler or punitive a
 - [[DouMuEasternHan|窦穆]] - elite-family offender whose false dowager-order marriage coercion Mingdi punishes.
 - [[YinLihua|阴丽华]] - mother whose death and 光烈 title tie Mingdi's reign to empress posthumous-title ritual.
 - [[ZongJunEasternHan|宗均]] - official whose warning corrects Mingdi's preference for literary or merely clean officials.
+- [[ZhongliYiEasternHan|钟离意]] - remonstrator whose burden argument stops Mingdi's North Palace construction.
+- [[YaoSongEasternHan|姚松]] - official whose ritual quotation defuses Mingdi's punitive anger.
+- [[LiuPingEasternHan|刘平]] - local administrator whose trust signals enter Mingdi's early Yongping profile.
+- [[GuoHeEasternHan|郭贺]] - Jingzhou inspector whom Mingdi publicly rewards as a local-governance exemplar.
 - [[DuliaoCampEasternHan|都辽营]] - frontier institution created during Mingdi's reign to contain Southern/Northern Xiongnu collusion risk.
 - [[ImperialSelfCriticismEdict|帝王自责诏]] - concept grounded by Mingdi's eclipse response and publication of criticism.
 - [[EarlyChineseBuddhismCourtTransmission|早期中国佛教宫廷传播]] - concept tied to Mingdi's Liu Ying edict and White Horse Temple transmission narrative.
