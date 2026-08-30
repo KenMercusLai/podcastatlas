@@ -19281,9 +19281,9 @@
       "url": "/wiki/concepts/lithiumbipolartreatment/"
     },
     "LiuBiao": {
-      "episode_count": 15,
+      "episode_count": 16,
       "show_count": 1,
-      "source_note_count": 15,
+      "source_note_count": 16,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》953丨乱世之中，要不要讲究仁义？ [lrZfImgqAtJXyw9zX9rY2kIWXKON].md",
@@ -19389,9 +19389,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1053丨跟着孙权，学习如何整顿集团高管",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1053-genzhe-sunquan-xuexi-ruhe-zhengdun-jituan-gaoguan-lq9hy25xonjzhj1sfisvauu3bwmi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1059丨袁家兄弟内斗，刘表为何主动当和事佬？ [lrgNHcx-fOkUitrTFuFDTZl1wFOs].md",
+          "key": "zizhi-tongjian-hanji-1059-yuanjia-xiongdi-neidou-liubiao-weihe-zhudong-dang-heshilao-lrgnhcx-fokuitrtfufdtzl1wfos",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1059丨袁家兄弟内斗，刘表为何主动当和事佬？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1059-yuanjia-xiongdi-neidou-liubiao-weihe-zhudong-dang-heshilao-lrgnhcx-fokuitrtfufdtzl1wfos/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-08-30",
       "url": "/wiki/entities/liubiao/"
     },
     "LiuChongLateHanMinister": {
@@ -23019,6 +23026,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/multimodaladultneuroplasticity/"
     },
+    "MutualExhaustionThirdPartyGain": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1059丨袁家兄弟内斗，刘表为何主动当和事佬？ [lrgNHcx-fOkUitrTFuFDTZl1wFOs].md",
+          "key": "zizhi-tongjian-hanji-1059-yuanjia-xiongdi-neidou-liubiao-weihe-zhudong-dang-heshilao-lrgnhcx-fokuitrtfufdtzl1wfos",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1059丨袁家兄弟内斗，刘表为何主动当和事佬？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1059-yuanjia-xiongdi-neidou-liubiao-weihe-zhudong-dang-heshilao-lrgnhcx-fokuitrtfufdtzl1wfos/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/mutualexhaustionthirdpartygain/"
+    },
     "NanJiHe": {
       "episode_count": 1,
       "show_count": 1,
@@ -25475,9 +25498,9 @@
       "url": "/wiki/concepts/postvictoryamnestysignal/"
     },
     "PostVictoryThreatSequencing": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1054丨惊叹！曹操、袁绍、刘备的命运转折 [lmd2YJRE-cwDbXKY2ht5o0N4G6fK].md",
@@ -25485,9 +25508,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1054丨惊叹！曹操、袁绍、刘备的命运转折",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1054-jingtan-caocao-yuanshao-liubei-de-mingyun-zhuanzhe-lmd2yjre-cwdbxky2ht5o0n4g6fk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1059丨袁家兄弟内斗，刘表为何主动当和事佬？ [lrgNHcx-fOkUitrTFuFDTZl1wFOs].md",
+          "key": "zizhi-tongjian-hanji-1059-yuanjia-xiongdi-neidou-liubiao-weihe-zhudong-dang-heshilao-lrgnhcx-fokuitrtfufdtzl1wfos",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1059丨袁家兄弟内斗，刘表为何主动当和事佬？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1059-yuanjia-xiongdi-neidou-liubiao-weihe-zhudong-dang-heshilao-lrgnhcx-fokuitrtfufdtzl1wfos/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-08-30",
       "url": "/wiki/concepts/postvictorythreatsequencing/"
     },
     "PowerMonopolyBackfire": {
@@ -25594,9 +25624,9 @@
       "url": "/wiki/concepts/prefrontalcortexoverattribution/"
     },
     "PressureReleaseInfightingStrategy": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？ [lgqS4-A9QGf21wOEH_pPinW4Z9jg].md",
@@ -25604,6 +25634,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1059丨袁家兄弟内斗，刘表为何主动当和事佬？ [lrgNHcx-fOkUitrTFuFDTZl1wFOs].md",
+          "key": "zizhi-tongjian-hanji-1059-yuanjia-xiongdi-neidou-liubiao-weihe-zhudong-dang-heshilao-lrgnhcx-fokuitrtfufdtzl1wfos",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1059丨袁家兄弟内斗，刘表为何主动当和事佬？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1059-yuanjia-xiongdi-neidou-liubiao-weihe-zhudong-dang-heshilao-lrgnhcx-fokuitrtfufdtzl1wfos/"
         }
       ],
       "updated": "2026-08-30",
@@ -34982,9 +35019,9 @@
       "url": "/wiki/entities/xieyunlatehan/"
     },
     "XinPiLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？ [lgqS4-A9QGf21wOEH_pPinW4Z9jg].md",
@@ -34992,6 +35029,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1059丨袁家兄弟内斗，刘表为何主动当和事佬？ [lrgNHcx-fOkUitrTFuFDTZl1wFOs].md",
+          "key": "zizhi-tongjian-hanji-1059-yuanjia-xiongdi-neidou-liubiao-weihe-zhudong-dang-heshilao-lrgnhcx-fokuitrtfufdtzl1wfos",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1059丨袁家兄弟内斗，刘表为何主动当和事佬？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1059-yuanjia-xiongdi-neidou-liubiao-weihe-zhudong-dang-heshilao-lrgnhcx-fokuitrtfufdtzl1wfos/"
         }
       ],
       "updated": "2026-08-30",
@@ -35569,9 +35613,9 @@
       "url": "/wiki/entities/xunshuanglatehan/"
     },
     "XunYou": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1025丨败于曹操，吕布错在禁酒令？ [ljJT1t2mK77si6re_-WEW_hPl8qZ].md",
@@ -35621,9 +35665,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1048丨许攸叛袁献计：官渡战局的惊天变数",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1059丨袁家兄弟内斗，刘表为何主动当和事佬？ [lrgNHcx-fOkUitrTFuFDTZl1wFOs].md",
+          "key": "zizhi-tongjian-hanji-1059-yuanjia-xiongdi-neidou-liubiao-weihe-zhudong-dang-heshilao-lrgnhcx-fokuitrtfufdtzl1wfos",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1059丨袁家兄弟内斗，刘表为何主动当和事佬？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1059-yuanjia-xiongdi-neidou-liubiao-weihe-zhudong-dang-heshilao-lrgnhcx-fokuitrtfufdtzl1wfos/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-30",
       "url": "/wiki/entities/xunyou/"
     },
     "YaMengDoctor": {
@@ -36885,9 +36936,9 @@
       "url": "/wiki/entities/yuanlanglatehan/"
     },
     "YuanShang": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？ [lgqS4-A9QGf21wOEH_pPinW4Z9jg].md",
@@ -36895,15 +36946,22 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1059丨袁家兄弟内斗，刘表为何主动当和事佬？ [lrgNHcx-fOkUitrTFuFDTZl1wFOs].md",
+          "key": "zizhi-tongjian-hanji-1059-yuanjia-xiongdi-neidou-liubiao-weihe-zhudong-dang-heshilao-lrgnhcx-fokuitrtfufdtzl1wfos",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1059丨袁家兄弟内斗，刘表为何主动当和事佬？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1059-yuanjia-xiongdi-neidou-liubiao-weihe-zhudong-dang-heshilao-lrgnhcx-fokuitrtfufdtzl1wfos/"
         }
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/yuanshang/"
     },
     "YuanTan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》969丨袁氏兄弟内斗，谁能捡漏？ [lsgj6sewO35jPSGFm_kOIvIJtr6r].md",
@@ -36932,6 +36990,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1059丨袁家兄弟内斗，刘表为何主动当和事佬？ [lrgNHcx-fOkUitrTFuFDTZl1wFOs].md",
+          "key": "zizhi-tongjian-hanji-1059-yuanjia-xiongdi-neidou-liubiao-weihe-zhudong-dang-heshilao-lrgnhcx-fokuitrtfufdtzl1wfos",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1059丨袁家兄弟内斗，刘表为何主动当和事佬？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1059-yuanjia-xiongdi-neidou-liubiao-weihe-zhudong-dang-heshilao-lrgnhcx-fokuitrtfufdtzl1wfos/"
         }
       ],
       "updated": "2026-08-30",

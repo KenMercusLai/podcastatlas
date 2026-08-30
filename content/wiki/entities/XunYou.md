@@ -10,7 +10,8 @@ sources:
   - zizhi-tongjian-hanji-1044-guanyu-qianli-zou-danqi-xu-ganxie-caocao-busha-enqing-lpptlnc-e4zu4lcjr49bquxdw0pm
   - zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m
   - zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju
-last_updated: 2026-08-28
+  - zizhi-tongjian-hanji-1059-yuanjia-xiongdi-neidou-liubiao-weihe-zhudong-dang-heshilao-lrgnhcx-fokuitrtfufdtzl1wfos
+last_updated: 2026-08-30
 knowledge_schema: synthesis-v1
 ---
 
@@ -28,11 +29,13 @@ Hanji 1048 adds a logistics-target case inside the [[GuanduCampaign|官渡 Campa
 
 Hanji 1049 extends Xun You from timing advice into surrender interpretation. After the [[WuchaoRaidLateHan|Wuchao Raid]], [[ZhangHeLateHan|Zhang He]] and [[GaoLanLateHan|Gao Lan]] come over from Yuan Shao's camp, and [[CaoHong|Cao Hong]] initially doubts them. Xun You argues that Zhang He is credible because his correct Wuchao advice was rejected and [[GuoTu|Guo Tu]]'s slander made continued service dangerous.
 
+Hanji 1059 adds a post-Yuan-Shao target-order case. When [[XinPiLateHan|辛毗]] brings [[YuanTan|袁谭]]'s request for aid and many Cao-side officials prefer attacking [[LiuBiao|刘表]] while the Yuan brothers exhaust each other, Xun You argues that Liu Biao is defensive, while the Yuan family still has enough four-province depth to become dangerous again if one brother absorbs the other. He therefore turns [[YuanShang|袁尚]] and Yuan Tan's rivalry into an immediate northern opportunity rather than a conflict to watch indefinitely.
+
 ## Key Characteristics
 - Keeps intelligence controlled and less publicly exposed than more dramatic advisers.
 - Enters Cao Cao's adviser field through Xun Yu's recommendation after the Xudu court position becomes legible.
 - Reads timing as conditional: delay against Zhang Xiu when enemy alliance incentives favor waiting, but press Lü Bu when enemy morale and planning are fragile.
-- Recognizes exploitable timing and target vulnerabilities, from Yanjin bait to Han Meng's careless convoy command.
+- Recognizes exploitable timing and target vulnerabilities, from Yanjin bait and Han Meng's careless convoy command to the Yuan brothers' post-succession split.
 - Screens enemy surrender by reading whether the defection has a credible internal-camp cause.
 - Protects advice through secrecy, discipline, and low-profile conduct rather than status display.
 - Complements Guo Jia by supplying caution and tempo discipline alongside bolder strategic judgment.
@@ -45,6 +48,7 @@ Hanji 1049 extends Xun You from timing advice into surrender interpretation. Aft
 - Bait timing: [[zizhi-tongjian-hanji-1044-guanyu-qianli-zou-danqi-xu-ganxie-caocao-busha-enqing-lpptlnc-e4zu4lcjr49bquxdw0pm|Hanji 1044]] has Xun You identify Cao Cao's exposed baggage at Yanjin as a lure and prevent premature retreat before the counterattack.
 - Supply-target selection: [[zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju|Hanji 1048]] has Xun You judge Han Meng brave but careless and recommend attacking Yuan Shao's convoy, after which Cao sends Xu Huang and Shi Huan to burn the baggage.
 - Surrender screening: [[zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m|Hanji 1049]] has Xun You tell Cao Hong that Zhang He's surrender is credible because Yuan Shao rejected his Wuchao advice and Guo Tu's slander left him exposed.
+- Target-order advice: [[zizhi-tongjian-hanji-1059-yuanjia-xiongdi-neidou-liubiao-weihe-zhudong-dang-heshilao-lrgnhcx-fokuitrtfufdtzl1wfos|Hanji 1059]] has Xun You argue that Cao Cao should exploit Yuan Tan's request before Yuan-family infighting resolves into a reunited northern force.
 
 ## Qualifications
 The transcript forms "徐悠" and "巡邮" are normalized cautiously to 荀攸 / Xun You because the surrounding adviser and campaign sequences match him. Hanji 1022 records advice that Cao Cao rejects, so it shows Xun You's judgment entering the camp's debate rather than controlling the final decision.
@@ -54,6 +58,7 @@ The transcript forms "徐悠" and "巡邮" are normalized cautiously to 荀攸 /
 - Added Hanji 1049's surrender-screening case after the Wuchao Raid.
 - Extended Xun You from timing and bait recognition into interpreting whether enemy commanders can be safely received.
 - Connected Xun You to Zhang He and Gao Lan's Guandu defection.
+- Added Hanji 1059's advice to prioritize the Yuan-family opening over a Liu Biao campaign.
 
 ## Relationships
 - [[CaoCao|曹操]] - ruler whose adviser system includes Xun You.
@@ -70,8 +75,12 @@ The transcript forms "徐悠" and "巡邮" are normalized cautiously to 荀攸 /
 - [[WuchaoRaidLateHan|乌巢夜袭]] - campaign crisis after which Xun You evaluates the credibility of Zhang He's surrender.
 - [[ZhangHeLateHan|张郃]] and [[GaoLanLateHan|高览]] - surrenderers whose acceptance is supported by Xun You's reading of Yuan-camp dynamics.
 - [[CaoHong|曹洪]] - Cao-side commander whose hesitation Xun You answers in Hanji 1049.
+- [[YuanTan|袁谭]] and [[YuanShang|袁尚]] - rival Yuan heirs whose conflict Xun You judges as a time-limited opening.
+- [[XinPiLateHan|辛毗]] - envoy whose arrival creates the decision point for Xun You's Hanji 1059 advice.
 - [[LureEnemyOutOfPosition|诱敌离位]] - tactic pattern illustrated by Xun You's Yanjin advice.
 - [[StrategicDefectorIncorporation|纳叛安抚式整合]] - incorporation pattern supported by Xun You's surrender-screening judgment.
+- [[PostVictoryThreatSequencing|胜后威胁排序]] - target-order concept extended by Xun You's choice of the Yuan-family opening over Liu Biao.
+- [[MutualExhaustionThirdPartyGain|两败俱伤、旁人得利]] - conflict pattern Xun You qualifies by warning that passive waiting can expire.
 - [[PoliticalSurvivalFirst|安全第一政治生存]] - survival frame for Xun You's low-profile public posture.
 - [[WarCostTempoDiscipline|战争成本与速决纪律]] - campaign-tempo concept exemplified by the Xiapi advice.
 - [[XingshiqingStrategicAssessment|行势情战略评估]] - broader strategic-assessment frame shared with the Guo Jia branch.

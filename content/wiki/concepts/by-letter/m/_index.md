@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 5979
+wiki_total_pages: 5980
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1028,6 +1028,9 @@ wiki_pages:
   - key: "MarketForLemons"
     title: "The Market For Lemons"
     url: "/wiki/concepts/marketforlemons/"
+  - key: "MutualExhaustionThirdPartyGain"
+    title: "两败俱伤、旁人得利 / Mutual Exhaustion Third-Party Gain"
+    url: "/wiki/concepts/mutualexhaustionthirdpartygain/"
   - key: "MourningFramedMilitaryAbsorption"
     title: "丧礼化收编 / Mourning-Framed Military Absorption"
     url: "/wiki/concepts/mourningframedmilitaryabsorption/"

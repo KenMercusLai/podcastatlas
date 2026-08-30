@@ -4,15 +4,15 @@ generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
 last_updated: 2026-08-30
-as_of_overview_commit: a82497e96a5f728702ebb5bdfdeb84da243f12d2
-input_digest: 900fc1aab36b8b5f7112ab5690df0e9fb9eeab1083024b7949e4c4ed55f56ac5
+as_of_overview_commit: a7003fbde31f2ad488c6fb841865a2a34e6b6a3a
+input_digest: cdf7533238a491e3dff84d6b96fbd5e86def5b70dcb10e04091c32e6c59982c6
 ---
 
 # Work, Education, and Society
 
 ## Current State
 
-Hanji 785 adds a source-scoped work-and-society bridge: Deng-family mourning withdrawal shows how kinship duty, public reputation, and retained access can turn office exit into status management rather than simple retirement. Hanji 787 adds a source-scoped family-mobility and selection-channel case: Yan Chang's preparation of Yan Ji for palace entry shows private household investment trying to pass through gendered court selection, imperial favor, and regency approval before becoming public status. Hanji 792 adds a source-scoped family and career risk lesson: concentrating every path in one power channel can increase exposure, while separation may look punitive before later conditions make it protective. The Guangzhou Academy of Fine Arts fieldwork episode adds that undergraduate learning can become formative when students observe, interview, and build experience before polished expression, while still facing grades, specialization, technique, employment pressure, and uncertain long-term outcomes. The Jefferson-Hemings material adds a secondary society case: family, labor, and relationship claims need explicit attention to legal power and coercive status. Hanji access, office-boundary, succession, and reputation cases show that education, merit, dignity, and correct claims need usable channels, public witnesses, role boundaries, and hierarchy-aware handling before they become institutional action. VOL.211 and the OCD episode add source-scoped public-health education cases: mechanism and assessment language can orient action, but training, emergency response, exposure practice, and treatment planning stay clinically bounded. Work, education, and society sources converge on a practical pattern: durable capability comes from bounded institutions, active learning, realistic workplace judgment, human feedback loops, social trust, pacing, and environments that let people act under real constraints. Hanji 1058 adds a historical work-and-society analogy: new authority needs trusted adviser channels and boundaries around status offers, while ignored corrective counsel in Yuan Tan's camp shows how feedback can fail under succession grievance.
+Hanji 785 adds a source-scoped work-and-society bridge: Deng-family mourning withdrawal shows how kinship duty, public reputation, and retained access can turn office exit into status management rather than simple retirement. Hanji 787 adds a source-scoped family-mobility and selection-channel case: Yan Chang's preparation of Yan Ji for palace entry shows private household investment trying to pass through gendered court selection, imperial favor, and regency approval before becoming public status. Hanji 792 adds a source-scoped family and career risk lesson: concentrating every path in one power channel can increase exposure, while separation may look punitive before later conditions make it protective. The Guangzhou Academy of Fine Arts fieldwork episode adds that undergraduate learning can become formative when students observe, interview, and build experience before polished expression, while still facing grades, specialization, technique, employment pressure, and uncertain long-term outcomes. The Jefferson-Hemings material adds a secondary society case: family, labor, and relationship claims need explicit attention to legal power and coercive status. Hanji access, office-boundary, succession, and reputation cases show that education, merit, dignity, and correct claims need usable channels, public witnesses, role boundaries, and hierarchy-aware handling before they become institutional action. VOL.211 and the OCD episode add source-scoped public-health education cases: mechanism and assessment language can orient action, but training, emergency response, exposure practice, and treatment planning stay clinically bounded. Work, education, and society sources converge on a practical pattern: durable capability comes from bounded institutions, active learning, realistic workplace judgment, human feedback loops, social trust, pacing, and environments that let people act under real constraints. Hanji 1058 adds a historical work-and-society analogy: new authority needs trusted adviser channels and boundaries around status offers, while ignored corrective counsel in Yuan Tan's camp shows how feedback can fail under succession grievance. Hanji 1059 adds a secondary organizational analogy: mediation language, outside-aid requests, and adviser sequencing matter because Liu Biao, Xin Pi, and Xun You are managing coalition timing rather than simply stating moral preferences.
 
 ## Cross-source Findings
 
@@ -193,3 +193,14 @@ As a secondary work-and-society input, [[686-jefferson-the-betrayal-of-liberty-p
 - This is a historical analogy and not modern workplace, legal, or organizational advice.
 - Sun Quan and Yuan Tan remain political actors inside late-Han succession pressure, so the claim should stay source-scoped.
 - The source shows feedback failure and status-boundary pressure in selected scenes rather than a full institutional theory.
+
+### Hanji 1059 Mediation And Adviser Sequencing Source Scoped
+
+[[zizhi-tongjian-hanji-1059-yuanjia-xiongdi-neidou-liubiao-weihe-zhudong-dang-heshilao-lrgnhcx-fokuitrtfufdtzl1wfos|Hanji 1059]] adds a work-and-society-adjacent analogy about mediation and decision channels: [[LiuBiao]] uses moral language to manage the [[YuanTan]]-[[YuanShang]] split, while [[XinPiLateHan]] and [[XunYou]] force a leadership sequencing choice between waiting for [[MutualExhaustionThirdPartyGain]] and acting through [[PressureReleaseInfightingStrategy]] / [[PostVictoryThreatSequencing]].
+
+**Evidence:** [[zizhi-tongjian-hanji-1059-yuanjia-xiongdi-neidou-liubiao-weihe-zhudong-dang-heshilao-lrgnhcx-fokuitrtfufdtzl1wfos]], [[LiuBiao]], [[YuanTan]], [[YuanShang]], [[XinPiLateHan]], [[XunYou]], [[MutualExhaustionThirdPartyGain]], [[PressureReleaseInfightingStrategy]], [[PostVictoryThreatSequencing]]
+
+**Qualifications:**
+
+- The organizational reading is secondary to the source's late-Han political-military content.
+- The source keeps the opening relationship advice and Liu Biao character labels source-scoped.

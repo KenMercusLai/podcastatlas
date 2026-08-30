@@ -13776,3 +13776,11 @@ Ingested the 2026-08-29 芮淇讲透资治通鉴 episode on Zhong Yao's Pingyang
 ## [2026-08-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-30] ingest | 《资治通鉴·汉纪》1059丨袁家兄弟内斗，刘表为何主动当和事佬？
+
+Ingested the 2026-08-29 芮淇讲透资治通鉴 episode on Liu Biao's self-interested mediation between Yuan Tan and Yuan Shang, the Hanlu-Dongguo mutual-exhaustion parable, Xin Pi's request for Cao Cao's aid, and Xun You's argument to exploit the Yuan-family split before one side reconsolidates. Created the source note plus `MutualExhaustionThirdPartyGain`; updated `YuanTan`, `YuanShang`, `XinPiLateHan`, `LiuBiao`, `XunYou`, `PressureReleaseInfightingStrategy`, `PostVictoryThreatSequencing`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; Liu Biao's character labels, the opening relationship reflection, Xiping location details, and the Hanlu-Dongguo application remain source-scoped.
