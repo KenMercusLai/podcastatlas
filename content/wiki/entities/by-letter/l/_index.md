@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 8539
+wiki_total_pages: 8544
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -1433,6 +1433,9 @@ wiki_pages:
   - key: "LiangJie"
     title: "梁杰"
     url: "/wiki/entities/liangjie/"
+  - key: "LiangSongLinxiangMarquis"
+    title: "梁松 / Liang Song, Linxiang Marquis"
+    url: "/wiki/entities/liangsonglinxiangmarquis/"
   - key: "LiangfuMountain"
     title: "梁父山 / Liangfu Mountain"
     url: "/wiki/entities/liangfumountain/"

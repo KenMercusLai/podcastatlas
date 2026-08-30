@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 8539
+wiki_total_pages: 8544
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1958,6 +1958,9 @@ wiki_pages:
   - key: "SouthernJingzhouLateHan"
     title: "荆南 / Southern Jingzhou (late Han)"
     url: "/wiki/entities/southernjingzhoulatehan/"
+  - key: "ShacheKingdomLateHan"
+    title: "莎车国 / Shache Kingdom (late Han)"
+    url: "/wiki/entities/shachekingdomlatehan/"
   - key: "ShuHouNingTong"
     title: "蜀侯宁通 / Shu Hou Ning Tong"
     url: "/wiki/entities/shuhouningtong/"

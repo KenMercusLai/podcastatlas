@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2105
+topic_total_pages: 2107
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3286,6 +3286,9 @@ topic_concepts:
   - key: "RoyalKinTreasonLawBoundary"
     title: "宗室谋逆法度边界 / Royal Kin Treason Law Boundary"
     url: "/wiki/concepts/royalkintreasonlawboundary/"
+  - key: "RoyalKinPowerWithdrawal"
+    title: "宗室退权自保 / Royal Kin Power Withdrawal"
+    url: "/wiki/concepts/royalkinpowerwithdrawal/"
   - key: "OfficialSalaryExtractionRisk"
     title: "官吏俸禄不足抽取风险 / Official Salary Extraction Risk"
     url: "/wiki/concepts/officialsalaryextractionrisk/"
@@ -3436,6 +3439,9 @@ topic_concepts:
   - key: "KnownMisconductNonPunishment"
     title: "知奸不除式威慑失效 / Known-Misconduct Non-Punishment"
     url: "/wiki/concepts/knownmisconductnonpunishment/"
+  - key: "PrivateRetainerNetworkRisk"
+    title: "私人宾客网络风险 / Private Retainer Network Risk"
+    url: "/wiki/concepts/privateretainernetworkrisk/"
   - key: "TaxationStabilityTradeoff"
     title: "税赋与地方稳定权衡 / Taxation-Stability Tradeoff"
     url: "/wiki/concepts/taxationstabilitytradeoff/"

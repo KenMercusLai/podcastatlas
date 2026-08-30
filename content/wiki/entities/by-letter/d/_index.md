@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 8539
+wiki_total_pages: 8544
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -1019,9 +1019,15 @@ wiki_pages:
   - key: "DouGuiEasternHan"
     title: "窦瑰 / Dou Gui (Eastern Han)"
     url: "/wiki/entities/douguieasternhan/"
+  - key: "DouMuEasternHan"
+    title: "窦穆 / Dou Mu (Eastern Han)"
+    url: "/wiki/entities/doumueasternhan/"
   - key: "DouDuEasternHan"
     title: "窦笃 / Dou Du (Eastern Han)"
     url: "/wiki/entities/doudueasternhan/"
+  - key: "DouRongEasternHan"
+    title: "窦融 / Dou Rong (Eastern Han)"
+    url: "/wiki/entities/dourongeasternhan/"
   - key: "DiHuang"
     title: "翟黄 / Di Huang"
     url: "/wiki/entities/dihuang/"

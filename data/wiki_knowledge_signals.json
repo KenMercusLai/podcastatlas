@@ -9965,6 +9965,38 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/doujingeasternhan/"
     },
+    "DouMuEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》736丨生在皇权下，他凭什么能安度晚年 [lisegz1IA5nAJEWgHXaqirKAFvUP].md",
+          "key": "zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》736丨生在皇权下，他凭什么能安度晚年",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/doumueasternhan/"
+    },
+    "DouRongEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》736丨生在皇权下，他凭什么能安度晚年 [lisegz1IA5nAJEWgHXaqirKAFvUP].md",
+          "key": "zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》736丨生在皇权下，他凭什么能安度晚年",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/dourongeasternhan/"
+    },
     "DouWuLateHan": {
       "episode_count": 13,
       "show_count": 1,
@@ -11554,9 +11586,9 @@
       "url": "/wiki/entities/emperorhuanofhan/"
     },
     "EmperorMingOfHan": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》899丨好清斗贪官 [ljHIC1PlzmV8k6LU73J5tErihanx].md",
@@ -11613,6 +11645,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》737丨皇后谥号制度第一人，刘秀老婆不简单！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》736丨生在皇权下，他凭什么能安度晚年 [lisegz1IA5nAJEWgHXaqirKAFvUP].md",
+          "key": "zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》736丨生在皇权下，他凭什么能安度晚年",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup/"
         }
       ],
       "updated": "2026-08-31",
@@ -19056,9 +19095,9 @@
       "url": "/wiki/concepts/imperialretinuediscipline/"
     },
     "ImperialSelfCriticismEdict": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》737丨皇后谥号制度第一人，刘秀老婆不简单！ [lsDhr_gdx-yep3TzPrjG9wTJBUl2].md",
@@ -19066,6 +19105,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》737丨皇后谥号制度第一人，刘秀老婆不简单！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》736丨生在皇权下，他凭什么能安度晚年 [lisegz1IA5nAJEWgHXaqirKAFvUP].md",
+          "key": "zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》736丨生在皇权下，他凭什么能安度晚年",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup/"
         }
       ],
       "updated": "2026-08-31",
@@ -21019,6 +21065,29 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/kevinding/"
     },
+    "KhotanKingGuangdeLateHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》736丨生在皇权下，他凭什么能安度晚年 [lisegz1IA5nAJEWgHXaqirKAFvUP].md",
+          "key": "zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》736丨生在皇权下，他凭什么能安度晚年",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》742丨班超出使西域，37人大杀四方！！！ [ltUtSINxtciaR0TmpXKgE0mnSNP1].md",
+          "key": "zizhi-tongjian-hanji-742-banchao-chushi-xiyu-37-ren-da-sha-si-fang-ltutsinxtciar0tmpxkge0mnsnp1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》742丨班超出使西域，37人大杀四方！！！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-742-banchao-chushi-xiyu-37-ren-da-sha-si-fang-ltutsinxtciar0tmpxkge0mnsnp1/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/khotankingguangdelatehan/"
+    },
     "KhotanKingJianLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -21036,9 +21105,9 @@
       "url": "/wiki/entities/khotankingjianlatehan/"
     },
     "KhotanKingdomLateHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》838丨贪婪的诱惑，让他狂飙在作死的路上 [lrYDIlyNi6O6YzHk1_E74M6aiGWr].md",
@@ -21067,6 +21136,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》742丨班超出使西域，37人大杀四方！！！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-742-banchao-chushi-xiyu-37-ren-da-sha-si-fang-ltutsinxtciar0tmpxkge0mnsnp1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》736丨生在皇权下，他凭什么能安度晚年 [lisegz1IA5nAJEWgHXaqirKAFvUP].md",
+          "key": "zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》736丨生在皇权下，他凭什么能安度晚年",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup/"
         }
       ],
       "updated": "2026-08-31",
@@ -21175,9 +21251,9 @@
       "url": "/wiki/entities/kimik3/"
     },
     "KinshipProtocolBoundary": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》758丨所有高情商，背后都是分寸感 [lr-6TZFFmWDtZIdKf3Y8uLE35QF7].md",
@@ -21185,9 +21261,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》758丨所有高情商，背后都是分寸感",
           "url": "/wiki/sources/zizhi-tongjian-hanji-758-suoyou-gaoqingshang-beihou-doushi-fencungan-lr-6tzffmwdtzidkf3y8ule35qf7/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》736丨生在皇权下，他凭什么能安度晚年 [lisegz1IA5nAJEWgHXaqirKAFvUP].md",
+          "key": "zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》736丨生在皇权下，他凭什么能安度晚年",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-08-31",
       "url": "/wiki/concepts/kinshipprotocolboundary/"
     },
     "KirklandEllis": {
@@ -22782,6 +22865,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/liangshanglatehan/"
     },
+    "LiangSongLinxiangMarquis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》736丨生在皇权下，他凭什么能安度晚年 [lisegz1IA5nAJEWgHXaqirKAFvUP].md",
+          "key": "zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》736丨生在皇权下，他凭什么能安度晚年",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/liangsonglinxiangmarquis/"
+    },
     "LiangYuEasternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -23159,9 +23258,9 @@
       "url": "/wiki/entities/liubiao/"
     },
     "LiuCangDongpingKing": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》755丨这个朝代皇上就开始鼓励生娃了！ [lj7bdkxKdTJHPO469yXHSkJyFdCo].md",
@@ -23190,6 +23289,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》739丨坐拥天下美女的皇帝，其实也会孤独",
           "url": "/wiki/sources/zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》736丨生在皇权下，他凭什么能安度晚年 [lisegz1IA5nAJEWgHXaqirKAFvUP].md",
+          "key": "zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》736丨生在皇权下，他凭什么能安度晚年",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup/"
         }
       ],
       "updated": "2026-08-31",
@@ -31094,6 +31200,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/privatefavorappointmenterosion/"
     },
+    "PrivateRetainerNetworkRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》736丨生在皇权下，他凭什么能安度晚年 [lisegz1IA5nAJEWgHXaqirKAFvUP].md",
+          "key": "zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》736丨生在皇权下，他凭什么能安度晚年",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/privateretainernetworkrisk/"
+    },
     "ProceduralizedViolence": {
       "episode_count": 2,
       "show_count": 2,
@@ -33441,6 +33563,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/royalfiefdiscipline/"
     },
+    "RoyalKinPowerWithdrawal": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》736丨生在皇权下，他凭什么能安度晚年 [lisegz1IA5nAJEWgHXaqirKAFvUP].md",
+          "key": "zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》736丨生在皇权下，他凭什么能安度晚年",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/royalkinpowerwithdrawal/"
+    },
     "RoyalKinTreasonLawBoundary": {
       "episode_count": 1,
       "show_count": 1,
@@ -34215,6 +34353,29 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/sexualharassmentnaminglag/"
+    },
+    "ShacheKingdomLateHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》736丨生在皇权下，他凭什么能安度晚年 [lisegz1IA5nAJEWgHXaqirKAFvUP].md",
+          "key": "zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》736丨生在皇权下，他凭什么能安度晚年",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》758丨所有高情商，背后都是分寸感 [lr-6TZFFmWDtZIdKf3Y8uLE35QF7].md",
+          "key": "zizhi-tongjian-hanji-758-suoyou-gaoqingshang-beihou-doushi-fencungan-lr-6tzffmwdtzidkf3y8ule35qf7",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》758丨所有高情商，背后都是分寸感",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-758-suoyou-gaoqingshang-beihou-doushi-fencungan-lr-6tzffmwdtzidkf3y8ule35qf7/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/shachekingdomlatehan/"
     },
     "ShakeShack": {
       "episode_count": 1,
@@ -45712,9 +45873,9 @@
       "url": "/wiki/entities/zhengzhongeasternhan/"
     },
     "ZhengZhongFrontierEasternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》746丨什么样的领导，值得被死心塌追随？ [lvHBdgfbC69T6sdw92K4dIpII_RX].md",
@@ -45736,6 +45897,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》737丨皇后谥号制度第一人，刘秀老婆不简单！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》736丨生在皇权下，他凭什么能安度晚年 [lisegz1IA5nAJEWgHXaqirKAFvUP].md",
+          "key": "zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》736丨生在皇权下，他凭什么能安度晚年",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup/"
         }
       ],
       "updated": "2026-08-31",

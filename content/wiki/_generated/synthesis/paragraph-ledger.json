@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "2bf659c39682f4c176550216929e8417c558421e22fb2fa621f5b6890e7c9c3b",
       "8be53566663fad3f26d174e4a6007a033013b7878700639aad6d620a0d2d52c6",
       "6df286aa7341b8d92dcf61fdb2fc450df87948b95ea4b2ef3d81d4174ea65d6a",
       "cf6d52565a33ab9176cf0591265a9d2b0e3e71d6c76e8a2a3a4ac598862d3286",
@@ -434,11 +435,43 @@
       "2231d7cf4c1cf8ae29ee2ec0737334356ddcd78d5df4e6b306dab83b98b3febe",
       "258d3cecfd602d249de03f40e3adf3020a02e0483ced5147541e8a3c20c1b13b"
     ],
-    "paragraph_count": 432
+    "paragraph_count": 433
   },
-  "overview_commit": "44d1a91549d1c3e2882d2d07a0e7dfd86f429d73",
-  "overview_digest": "17191d973b1a43270985bbbaf98c41ddc06b8875b5ef45a34d217ff289a2758b",
+  "overview_commit": "5fa90547354c2135e550f7a4cb25e9c752a76a46",
+  "overview_digest": "d49bcb5c3002bcca2acefd18d632a4c6c9965bf61c697936a4a0f4c28aa6252d",
   "paragraphs": [
+    {
+      "id": "2bf659c39682f4c176550216929e8417c558421e22fb2fa621f5b6890e7c9c3b",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics",
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup|《资治通鉴·汉纪》736丨生在皇权下，他凭什么能安度晚年]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling 61-63 CE / Yongping 4-6 before [[zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2|Hanji 737]]. It adds [[LiangSongLinxiangMarquis|梁松]], [[DouRongEasternHan|窦融]], [[DouMuEasternHan|窦穆]], [[KhotanKingGuangdeLateHan|于阗王广德]], [[ShacheKingdomLateHan|莎车国]], [[RoyalKinPowerWithdrawal|宗室退权自保]], and [[PrivateRetainerNetworkRisk|私人宾客网络风险]], while extending [[EmperorMingOfHan|汉明帝]], [[LiuCangDongpingKing|东平王刘苍]], [[ZhengZhongFrontierEasternHan|郑众]], [[KhotanKingdomLateHan|于阗国]], [[KinshipProtocolBoundary|亲情名分边界]], and [[ImperialSelfCriticismEdict|帝王自责诏]]. Its core synthesis is that early Yongping safety depends on reading proximity to power before accusation hardens: Liu Cang exits the capital without dishonoring Mingdi, Zheng Zhong refuses private princely recruitment before Liang Song's guests are implicated, Guangde shows Western Regions king-making as control over dependent rulers, Dou Mu abuses dowager authority for marriage coercion, and Mingdi turns a treasure-cauldron omen into anti-flattery discipline. No settled contradiction is recorded; Liu Jian, Guo Dan, Feng Fang, Fan Qian, Fu Gong, Liu Xu, Neihuang Princess, Dou Xun, Dou Xuan, Wangluo Mountain, and Shache succession names remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "DouMuEasternHan",
+        "DouRongEasternHan",
+        "EmperorMingOfHan",
+        "ImperialSelfCriticismEdict",
+        "KhotanKingGuangdeLateHan",
+        "KhotanKingdomLateHan",
+        "KinshipProtocolBoundary",
+        "LiangSongLinxiangMarquis",
+        "LiuCangDongpingKing",
+        "PrivateRetainerNetworkRisk",
+        "RoyalKinPowerWithdrawal",
+        "RuiqiJiangtouZizhiTongjian",
+        "ShacheKingdomLateHan",
+        "ZhengZhongFrontierEasternHan",
+        "zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup",
+        "zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2"
+      ]
+    },
     {
       "id": "8be53566663fad3f26d174e4a6007a033013b7878700639aad6d620a0d2d52c6",
       "primary_topic": "governance-and-institutions",

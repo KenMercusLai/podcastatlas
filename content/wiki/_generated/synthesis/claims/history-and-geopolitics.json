@@ -2,6 +2,31 @@
   "claims": [
     {
       "global_candidate": false,
+      "id": "late-han-736-yongping-proximity-western-regions-and-dou-family",
+      "qualifications": [
+        "This is an Eastern Han chronological backfill before Hanji 737, not a replacement for the later Zheng Zhong frontier, Ban Chao Western Regions, or Dou-family power arcs.",
+        "The source supports Guangde, Khotan, Shache, and Northern Xiongnu king-making pressure, but Bujuzheng, Qili, and King Xian remain source-scoped succession figures.",
+        "The episode records no settled contradiction with existing Khotan, Zheng Zhong, Liu Cang, Mingdi, or Dou-family pages."
+      ],
+      "statement": "[[zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup|Hanji 736]] moves the Eastern Han historical sequence back to 61-63 CE / Yongping 4-6: [[LiuCangDongpingKing]] withdraws from central power under [[EmperorMingOfHan]], [[ZhengZhongFrontierEasternHan]] refuses recruitment through [[LiangSongLinxiangMarquis]], [[KhotanKingGuangdeLateHan]] and [[KhotanKingdomLateHan]] reshape [[ShacheKingdomLateHan]] under [[NorthernXiongnuLateHan]] pressure, [[DouMuEasternHan]] stains the late [[DouRongEasternHan]] household through forged authority, and Mingdi uses [[ImperialSelfCriticismEdict]] against treasure-cauldron flattery.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup",
+        "LiuCangDongpingKing",
+        "EmperorMingOfHan",
+        "ZhengZhongFrontierEasternHan",
+        "LiangSongLinxiangMarquis",
+        "KhotanKingGuangdeLateHan",
+        "KhotanKingdomLateHan",
+        "ShacheKingdomLateHan",
+        "NorthernXiongnuLateHan",
+        "DouMuEasternHan",
+        "DouRongEasternHan",
+        "ImperialSelfCriticismEdict"
+      ]
+    },
+    {
+      "global_candidate": false,
       "id": "late-han-737-yongping-ritual-frontier-buddhism-and-feedback",
       "qualifications": [
         "This claim is source-scoped to Hanji 737 and records a chronological backfill before Hanji 738, not a full reassessment of all Eastern Han frontier or Buddhist history.",
@@ -3384,9 +3409,6 @@
       ]
     }
   ],
-  "input_digest": "57e59e79423d4cede9856613b81c7b2ca98984cb2b6694bc5ac47191f476b28b",
-  "schema_version": 1,
-  "summary": "Hanji 737 now moves the Eastern Han historical branch back to 64-65 CE before Hanji 738: Yin Lihua posthumous-title ritual, Northern Xiongnu raids and trade, Zheng Zhong original kowtow refusal, Southern Xiongnu collusion risk and Duliaoying creation, Zong Jun local governance, Liu Ying tolerated Buddhist/Huang-Lao devotion, White Horse Temple transmission memory, and Mingdi eclipse self-criticism. Existing Hanji 738-741 claims remain the next sequence of return-mission debate, official evaluation, Liu Ying case escalation, Xiongnu resource pressure, and 73 CE campaign.",
-  "title": "History and Geopolitics",
+  "summary": "Hanji 736 now moves the Eastern Han historical branch back to 61-63 CE / Yongping 4-6, combining Liu Cang's royal-kin withdrawal, Zheng Zhong's pre-frontier client-network refusal, Khotan king Guangde's Shache conquest under Northern Xiongnu counterpressure, Dou-family forged-authority scandal, and Mingdi's anti-flattery omen handling. Hanji 737 now moves the Eastern Han historical branch back to 64-65 CE before Hanji 738: Yin Lihua posthumous-title ritual, Northern Xiongnu raids and trade, Zheng Zhong original kowtow refusal, Southern Xiongnu collusion risk and Duliaoying creation, Zong Jun local governance, Liu Ying tolerated Buddhist/Huang-Lao devotion, White Horse Temple transmission memory, and Mingdi eclipse self-criticism. Existing Hanji 738-741 claims remain the next sequence of return-mission debate, official evaluation, Liu Ying case escalation, Xiongnu resource pressure, and 73 CE campaign.",
   "topic_id": "history-and-geopolitics"
 }

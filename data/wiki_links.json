@@ -15267,6 +15267,14 @@
     "title": "窦景 / Dou Jing (Eastern Han)",
     "url": "/wiki/entities/doujingeasternhan/"
   },
+  "DouMuEasternHan": {
+    "title": "窦穆 / Dou Mu (Eastern Han)",
+    "url": "/wiki/entities/doumueasternhan/"
+  },
+  "DouRongEasternHan": {
+    "title": "窦融 / Dou Rong (Eastern Han)",
+    "url": "/wiki/entities/dourongeasternhan/"
+  },
   "DouWuLateHan": {
     "title": "窦武 / Dou Wu (late Han)",
     "url": "/wiki/entities/douwulatehan/"
@@ -28503,6 +28511,10 @@
     "title": "Khmer Empire / 吴哥王朝",
     "url": "/wiki/entities/khmerempire/"
   },
+  "KhotanKingGuangdeLateHan": {
+    "title": "于阗王广德 / King Guangde of Khotan",
+    "url": "/wiki/entities/khotankingguangdelatehan/"
+  },
   "KhotanKingJianLateHan": {
     "title": "于阗王建 / King Jian of Khotan",
     "url": "/wiki/entities/khotankingjianlatehan/"
@@ -30322,6 +30334,10 @@
   "LiangSicheng": {
     "title": "梁思成",
     "url": "/wiki/entities/liangsicheng/"
+  },
+  "LiangSongLinxiangMarquis": {
+    "title": "梁松 / Liang Song, Linxiang Marquis",
+    "url": "/wiki/entities/liangsonglinxiangmarquis/"
   },
   "LiangState": {
     "title": "梁国 / Liang State",
@@ -40799,6 +40815,10 @@
     "title": "Private Regulatory Power",
     "url": "/wiki/concepts/privateregulatorypower/"
   },
+  "PrivateRetainerNetworkRisk": {
+    "title": "私人宾客网络风险 / Private Retainer Network Risk",
+    "url": "/wiki/concepts/privateretainernetworkrisk/"
+  },
   "PrivateRevengeModernLaw": {
     "title": "Private Revenge And Modern Law",
     "url": "/wiki/concepts/privaterevengemodernlaw/"
@@ -44215,6 +44235,10 @@
     "title": "Royal Highland Fusiliers",
     "url": "/wiki/entities/royalhighlandfusiliers/"
   },
+  "RoyalKinPowerWithdrawal": {
+    "title": "宗室退权自保 / Royal Kin Power Withdrawal",
+    "url": "/wiki/concepts/royalkinpowerwithdrawal/"
+  },
   "RoyalKinTreasonLawBoundary": {
     "title": "宗室谋逆法度边界 / Royal Kin Treason Law Boundary",
     "url": "/wiki/concepts/royalkintreasonlawboundary/"
@@ -45722,6 +45746,10 @@
   "ShabanaMahmood": {
     "title": "Shabana Mahmood",
     "url": "/wiki/entities/shabanamahmood/"
+  },
+  "ShacheKingdomLateHan": {
+    "title": "莎车国 / Shache Kingdom (late Han)",
+    "url": "/wiki/entities/shachekingdomlatehan/"
   },
   "ShadowAI": {
     "title": "Shadow AI",
@@ -63686,6 +63714,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup": {
+    "title": "《资治通鉴·汉纪》736丨生在皇权下，他凭什么能安度晚年",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup/"
   },
   "zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2": {
     "title": "《资治通鉴·汉纪》737丨皇后谥号制度第一人，刘秀老婆不简单！",

@@ -4,17 +4,29 @@ generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
 last_updated: 2026-08-31
-as_of_overview_commit: 9184f33b73193e49233a83b3c6950f6199f19e29
-input_digest: f42dd49b62d0c0dec4cf182290bcfa3bfd1fead0fcde0dbda3ca98901ff89e91
+as_of_overview_commit: 5fa90547354c2135e550f7a4cb25e9c752a76a46
+input_digest: 518b55905cab3aaa6d0da2a43f69641bf09dccfd3f0d0650d7781818232d8e4a
 ---
 
 # Governance and Institutions
 
 ## Current State
 
-Hanji 737 now pushes the governance branch to Mingdi 64-65 CE early Yongping order, joining empress posthumous-title ritual, Northern Xiongnu trade contact, Zheng Zhong envoy dignity and Duliaoying intelligence, Zong Jun capacity-over-reputation personnel warning, Liu Ying initially tolerated Buddhist/Huang-Lao practice, and eclipse-triggered self-criticism. Later Hanji 738-740 claims remain the continuation: official evaluation, classics education, royal-kin law, title duty, Liu Ying accusation, coercive implication, and partial correction.
+Hanji 736 now pushes the governance branch back to Mingdi 61-63 CE, adding Liu Cang's trust-preserving withdrawal from central office, Zheng Zhong's refusal of risky princely retainer recruitment, Liang Song's client-network exposure, Dou Mu's forged dowager authority, and Mingdi's anti-flattery treasure-cauldron response. Hanji 737 now pushes the governance branch to Mingdi 64-65 CE early Yongping order, joining empress posthumous-title ritual, Northern Xiongnu trade contact, Zheng Zhong envoy dignity and Duliaoying intelligence, Zong Jun capacity-over-reputation personnel warning, Liu Ying initially tolerated Buddhist/Huang-Lao practice, and eclipse-triggered self-criticism. Later Hanji 738-740 claims remain the continuation: official evaluation, classics education, royal-kin law, title duty, Liu Ying accusation, coercive implication, and partial correction.
 
 ## Cross-source Findings
+
+### Late Han 736 Mingdi Proximity Boundary And Feedback
+
+[[zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup|Hanji 736]] pushes the [[EmperorMingOfHan]] governance branch back to 61-63 CE before Hanji 737: [[LiuCangDongpingKing]] and [[RoyalKinPowerWithdrawal]] make voluntary royal-kin distance a trust-preserving office boundary, [[ZhengZhongFrontierEasternHan]], [[LiangSongLinxiangMarquis]], and [[PrivateRetainerNetworkRisk]] show why crown-prince and royal-prince client networks can become incriminating, [[DouMuEasternHan]] and [[DouRongEasternHan]] expose forged dowager authority inside elite kinship, and [[ImperialSelfCriticismEdict]] gains an auspicious-omen anti-flattery branch under Mingdi.
+
+**Evidence:** [[zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup]], [[EmperorMingOfHan]], [[LiuCangDongpingKing]], [[RoyalKinPowerWithdrawal]], [[ZhengZhongFrontierEasternHan]], [[LiangSongLinxiangMarquis]], [[PrivateRetainerNetworkRisk]], [[DouMuEasternHan]], [[DouRongEasternHan]], [[ImperialSelfCriticismEdict]]
+
+**Qualifications:**
+
+- This claim is source-scoped to Hanji 736 as a 61-63 CE Yongping backfill before Hanji 737; it adds an earlier Mingdi governance layer rather than replacing the later Hanji 737-740 sequence.
+- Liu Jian, Guo Dan, Feng Fang, Fan Qian, Fu Gong, Liu Xu, Neihuang Princess, Dou Xun, Dou Xuan, Wangluo Mountain, and Shache succession names remain source-scoped.
+- The Khotan-Shache material also belongs to history and geopolitics; in this governance claim it is secondary to office boundary, retainer-network, forged-authority, and anti-flattery patterns.
 
 ### Late Han 737 Mingdi Ritual Frontier Feedback And Capacity
 

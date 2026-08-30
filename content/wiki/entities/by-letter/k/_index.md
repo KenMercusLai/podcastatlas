@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 8539
+wiki_total_pages: 8544
 wiki_pages:
   - key: "KunyangBattle"
     title: "Battle of Kunyang / 昆阳之战"
@@ -512,6 +512,9 @@ wiki_pages:
   - key: "KhotanKingdomLateHan"
     title: "于阗国 / Khotan Kingdom (late Han)"
     url: "/wiki/entities/khotankingdomlatehan/"
+  - key: "KhotanKingGuangdeLateHan"
+    title: "于阗王广德 / King Guangde of Khotan"
+    url: "/wiki/entities/khotankingguangdelatehan/"
   - key: "KhotanKingJianLateHan"
     title: "于阗王建 / King Jian of Khotan"
     url: "/wiki/entities/khotankingjianlatehan/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 6090
+wiki_total_pages: 6092
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -833,6 +833,9 @@ wiki_pages:
   - key: "RoyalKinTreasonLawBoundary"
     title: "宗室谋逆法度边界 / Royal Kin Treason Law Boundary"
     url: "/wiki/concepts/royalkintreasonlawboundary/"
+  - key: "RoyalKinPowerWithdrawal"
+    title: "宗室退权自保 / Royal Kin Power Withdrawal"
+    url: "/wiki/concepts/royalkinpowerwithdrawal/"
   - key: "RitualAmbushCountercoup"
     title: "宗庙仪式反制政变 / Ritual Ambush Countercoup"
     url: "/wiki/concepts/ritualambushcountercoup/"
