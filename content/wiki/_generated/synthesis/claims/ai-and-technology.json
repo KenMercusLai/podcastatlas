@@ -142,6 +142,34 @@
     },
     {
       "global_candidate": true,
+      "id": "production-post-training-needs-scenario-rewards",
+      "qualifications": [
+        "The Pyromind source is a founder interview, so funding, customer-count, benchmark, cost-saving, payment-size, and false-positive metrics remain source-scoped.",
+        "The claim does not prove Auto RL generalizes to every enterprise domain; the source keeps FDE cold starts, ROI clarity, production data, labels, and cross-scenario repeatability as gates."
+      ],
+      "statement": "[[ai-xia-banchang-buhui-zhisheng-yige-chaoji-moxing-duitan-kevin-ding-pyromind-chuangshiren-ceo-lsq-rke8nfrbi5xalgst3a8uncfd|AI 下半场，不会只剩一个超级模型]] adds a production post-training branch: [[Pyromind]], [[KevinDing]], [[PyromindStudio]], [[Echomind]], [[AutoRLProductionLoop]], and [[ScenarioLevelRewardSignal]] frame enterprise self-improvement as production trajectory capture, reward construction, training, and redeployment, while [[PyroDash]], [[WorkerBaseModelRouting]], [[ForwardDeployedEngineer]], [[AIVisualQualityInspection]], [[OutcomeBasedAIPricing]], and [[ModelRoutingCostControl]] show why ROI, FDE-bounded scene entry, privacy, cost, and model routing can matter more than a single supermodel.",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "ai-xia-banchang-buhui-zhisheng-yige-chaoji-moxing-duitan-kevin-ding-pyromind-chuangshiren-ceo-lsq-rke8nfrbi5xalgst3a8uncfd",
+        "KevinDing",
+        "Pyromind",
+        "PyromindStudio",
+        "Echomind",
+        "PyroDash",
+        "AutoRLProductionLoop",
+        "ScenarioLevelRewardSignal",
+        "IndustrialAIROIFilter",
+        "WorkerBaseModelRouting",
+        "RecursiveSelfImprovement",
+        "AgentPostTraining",
+        "ForwardDeployedEngineer",
+        "AIVisualQualityInspection",
+        "OutcomeBasedAIPricing",
+        "ModelRoutingCostControl"
+      ]
+    },
+    {
+      "global_candidate": true,
       "id": "enterprise-ai-adoption-needs-operating-model",
       "qualifications": [
         "This claim is reinforced by EP48's Microsoft 365 Copilot case, but the specific 90-day rollout sequence remains source-scoped to Jim Spignardo's interview.",

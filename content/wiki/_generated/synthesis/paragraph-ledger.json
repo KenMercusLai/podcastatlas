@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "94554e1812f2ee4a85922d90e25a02a413e51e9371063e0478766140bb170f01",
       "40146ef4d28330ba1e5d49457517bc7badeeecc05031b8d720554c6221eb3371",
       "50b91013141ee289af61a6aafabf6ee8fb34faeb73495e3da1310b9ef3cf7f55",
       "1745c791e7ec19501ebd27a4c1e3bba5e60a579be2754ae0323f12c8e334f464",
@@ -425,11 +426,42 @@
       "12c2b57062376e50f472c6806ecb08714733b065e8db5d2b809f05f83d802f96",
       "2231d7cf4c1cf8ae29ee2ec0737334356ddcd78d5df4e6b306dab83b98b3febe"
     ],
-    "paragraph_count": 423
+    "paragraph_count": 424
   },
-  "overview_commit": "9efcb0f616a0e0d8fdda50a1adeedcc9dc92119c",
-  "overview_digest": "3272215ecde68063f0de3d85e4211199e26936c5bc8112f8256b5f85aec27c66",
+  "overview_commit": "ffd5eb34548f6f0e00039939a4086703c0963f55",
+  "overview_digest": "b244631ca5c9ef3bd304552c92ab38fac0e7ba5bb48b56bb02fe0f96803946ee",
   "paragraphs": [
+    {
+      "id": "94554e1812f2ee4a85922d90e25a02a413e51e9371063e0478766140bb170f01",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "business-and-markets"
+      ],
+      "text": "The latest addition is [[ai-xia-banchang-buhui-zhisheng-yige-chaoji-moxing-duitan-kevin-ding-pyromind-chuangshiren-ceo-lsq-rke8nfrbi5xalgst3a8uncfd|AI 下半场，不会只剩一个超级模型｜对谈 Kevin Ding：Pyromind 创始人/CEO]], a [[ShizilukouCrossing|十字路口Crossing]] episode with [[KevinDing]] on [[Pyromind]]'s shift from RL Service toward [[AutoRLProductionLoop|Auto RL production loops]]. It adds [[KevinDing]], [[Pyromind]], [[PyromindStudio]], [[Echomind]], [[PyroDash]], [[AutoRLProductionLoop]], [[ScenarioLevelRewardSignal]], [[IndustrialAIROIFilter]], and [[WorkerBaseModelRouting]], while connecting [[RecursiveSelfImprovement]], [[AgentPostTraining]], [[ForwardDeployedEngineer]], [[AIVisualQualityInspection]], [[OutcomeBasedAIPricing]], and [[ModelRoutingCostControl]]. Its core synthesis is that enterprise post-training value comes less from a single supermodel than from scenario-level rewards, production feedback, FDE-bounded cold starts, measurable ROI, and worker/base routing that can improve cost and privacy while base models continue to advance. No settled contradiction is recorded; angel-round, customer-count, false-positive, benchmark, cost-saving, and payment-size claims remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 4,
+        "business-and-markets": 2
+      },
+      "wikilinks": [
+        "AIVisualQualityInspection",
+        "AgentPostTraining",
+        "AutoRLProductionLoop",
+        "Echomind",
+        "ForwardDeployedEngineer",
+        "IndustrialAIROIFilter",
+        "KevinDing",
+        "ModelRoutingCostControl",
+        "OutcomeBasedAIPricing",
+        "PyroDash",
+        "Pyromind",
+        "PyromindStudio",
+        "RecursiveSelfImprovement",
+        "ScenarioLevelRewardSignal",
+        "ShizilukouCrossing",
+        "WorkerBaseModelRouting",
+        "ai-xia-banchang-buhui-zhisheng-yige-chaoji-moxing-duitan-kevin-ding-pyromind-chuangshiren-ceo-lsq-rke8nfrbi5xalgst3a8uncfd"
+      ]
+    },
     {
       "id": "40146ef4d28330ba1e5d49457517bc7badeeecc05031b8d720554c6221eb3371",
       "primary_topic": "history-and-geopolitics",

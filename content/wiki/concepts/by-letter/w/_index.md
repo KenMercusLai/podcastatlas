@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 6061
+wiki_total_pages: 6065
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -314,6 +314,9 @@ wiki_pages:
   - key: "WorkerPhotographicArchive"
     title: "Worker Photographic Archive / 工人摄影档案"
     url: "/wiki/concepts/workerphotographicarchive/"
+  - key: "WorkerBaseModelRouting"
+    title: "Worker-Base Model Routing"
+    url: "/wiki/concepts/workerbasemodelrouting/"
   - key: "WorkplaceAIReadinessGap"
     title: "Workplace AI Readiness Gap"
     url: "/wiki/concepts/workplaceaireadinessgap/"

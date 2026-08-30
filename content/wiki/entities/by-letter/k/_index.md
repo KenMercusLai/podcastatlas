@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 8509
+wiki_total_pages: 8514
 wiki_pages:
   - key: "KunyangBattle"
     title: "Battle of Kunyang / 昆阳之战"
@@ -233,6 +233,9 @@ wiki_pages:
   - key: "KESA"
     title: "KESA"
     url: "/wiki/entities/kesa/"
+  - key: "KevinDing"
+    title: "Kevin Ding"
+    url: "/wiki/entities/kevinding/"
   - key: "KevinKelly"
     title: "Kevin Kelly"
     url: "/wiki/entities/kevinkelly/"

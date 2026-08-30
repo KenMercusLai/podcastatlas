@@ -115,9 +115,10 @@
         "The mid-market data-services branch adds that customers may have clear demand for answers and AI readiness while still lacking the budget or hiring capacity for a full senior data team.",
         "The Daymond John Advice Line adds that founder story is proof only when paired with numbers, staged channel evidence, first-tribe expansion discipline, or low-risk B2B switching tests; caller sales figures, meal counts, client examples, and channel recommendations remain source-scoped.",
         "The Intelligence humanoid source adds that training-center purchases and data collection can create near-term demand, but they do not yet prove household or broad industrial willingness to pay.",
-        "EP44 adds that fintech lending demand is not just borrower need: MPWR AI has to prove acquisition, default-risk, manual-work, explainability, and compliance outcomes around nontraditional borrowers."
+        "EP44 adds that fintech lending demand is not just borrower need: MPWR AI has to prove acquisition, default-risk, manual-work, explainability, and compliance outcomes around nontraditional borrowers.",
+        "The Pyromind source adds that Auto RL demand is strongest when production data, labels, ROI, and repeatability are present; reported customer-count, pricing, benchmark, and false-positive metrics remain source-scoped."
       ],
-      "statement": "[[CustomerPull]], [[ProductLedWillingnessToPay]], and [[PreProductSelling]] become durable only when distribution, buyer-commitment, payment proof, and operating gates such as [[CPGDistribution]], [[RetailLineReview]], [[PlanogramGatekeeping]], [[RetailPricePointProductScoping]], [[MassRetailProductionDeadline]], [[EnterprisePOCDiscipline]], [[EnterpriseCustomerAsMarket]], [[AIOfficeAgent]], [[NontraditionalBorrowerCreditAccess]], [[ExplainableAILending]], [[HumanInTheLoopCreditDecisioning]], [[RobotRepurchaseDemand]], [[RobotTrainingCenters]], [[EgocentricRobotData]], [[FounderPitchEvidenceFit]], [[SmallRetailerChannelTest]], [[NicheOriginStoryExpansion]], and [[MissionAlignedVendorSwitching]] can repeatedly deliver value after initial attention.",
+      "statement": "[[CustomerPull]], [[ProductLedWillingnessToPay]], and [[PreProductSelling]] become durable only when distribution, buyer-commitment, payment proof, and operating gates such as [[CPGDistribution]], [[RetailLineReview]], [[PlanogramGatekeeping]], [[RetailPricePointProductScoping]], [[MassRetailProductionDeadline]], [[EnterprisePOCDiscipline]], [[EnterpriseCustomerAsMarket]], [[AIOfficeAgent]], [[IndustrialAIROIFilter]], [[ScenarioLevelRewardSignal]], [[AutoRLProductionLoop]], [[NontraditionalBorrowerCreditAccess]], [[ExplainableAILending]], [[HumanInTheLoopCreditDecisioning]], [[RobotRepurchaseDemand]], [[RobotTrainingCenters]], [[EgocentricRobotData]], [[FounderPitchEvidenceFit]], [[SmallRetailerChannelTest]], [[NicheOriginStoryExpansion]], and [[MissionAlignedVendorSwitching]] can repeatedly deliver value after initial attention.",
       "status": "qualified",
       "supporting_wikilinks": [
         "CustomerPull",
@@ -173,7 +174,16 @@
         "NontraditionalBorrowerCreditAccess",
         "ExplainableAILending",
         "PolicyBoundAgenticLendingSupport",
-        "HumanInTheLoopCreditDecisioning"
+        "HumanInTheLoopCreditDecisioning",
+        "ai-xia-banchang-buhui-zhisheng-yige-chaoji-moxing-duitan-kevin-ding-pyromind-chuangshiren-ceo-lsq-rke8nfrbi5xalgst3a8uncfd",
+        "KevinDing",
+        "Pyromind",
+        "Echomind",
+        "IndustrialAIROIFilter",
+        "ScenarioLevelRewardSignal",
+        "AutoRLProductionLoop",
+        "OutcomeBasedAIPricing",
+        "ForwardDeployedEngineer"
       ]
     },
     {
@@ -231,9 +241,10 @@
         "China's humanoid race sharpens the physical-AI version of the pattern: demos and sales forecasts need conversion into task-specific data, trained behaviors, safety, and useful deployment.",
         "The newest All-In source adds the Salesforce/Friedberg build-versus-buy case: AI coding tools lower prototype cost, but complete enterprise systems still require trusted data, permissions, integrations, and operational coverage.",
         "The 42章经 Lu Yuxin source adds that small-model post-training can be economically accessible, but only where the operator owns data, evaluation targets, and workflow context; exact cost, ranking, and model-name claims remain source-scoped.",
-        "EP44 adds the credit-decision version: richer AI-supported borrower analysis becomes market value only if policy boundaries, deterministic decisioning, human review, adverse-action explanations, and risk/default measurement hold."
+        "EP44 adds the credit-decision version: richer AI-supported borrower analysis becomes market value only if policy boundaries, deterministic decisioning, human review, adverse-action explanations, and risk/default measurement hold.",
+        "The Pyromind source adds the post-training service version: Auto RL capability becomes market value only where production trajectories, rewards, FDE-bounded scene entry, measurable ROI, and repeatable industrial modalities hold."
       ],
-      "statement": "Technical or creative capability becomes market value only after operational translation: [[ForwardDeployedEngineer]], [[ChineseStyleFDE]], [[BusinessLedAITransformation]], [[EnterpriseAIPilotPurgatory]], [[EnterpriseAIROIAudit]], [[AIDataReadiness]], [[DataFoundationFirstAIStrategy]], [[MidMarketDataTalentGap]], [[DataTeamAsBusinessPartner]], [[DataSovereignty]], [[ApplicationCompanyModelCapability]], [[LowCostModelPostTraining]], [[DataFirstPostTraining]], [[SupervisedFineTuning]], [[QLoRA]], [[ParadoxMachines]], [[RetrievalAugmentedGeneration]], [[DigitalEmployees]], [[AIEngineeringThinking]], [[AICodingVerification]], [[AIOfficeAgent]], [[AgentHarness]], [[AgentFacingInterfaces]], [[AgenticSystemOfRecordMoat]], [[MPWRAI]], [[ExplainableAILending]], [[PolicyBoundAgenticLendingSupport]], [[HumanInTheLoopCreditDecisioning]], [[NontraditionalBorrowerCreditAccess]], [[AIGameIndustrialization]], [[AIForScience]], [[CausalWorldModels]], [[HumanoidRobotCommercialization]], [[RealRobotDataStrategy]], [[RobotTrainingCenters]], and [[EgocentricRobotData]] all make capability depend on workflow fit, customer authority, evidence, verification, interfaces, prepared data, ownership, senior expertise, application-specific training targets, experiments, grounded data, scene fit, or repeated use.",
+      "statement": "Technical or creative capability becomes market value only after operational translation: [[ForwardDeployedEngineer]], [[ChineseStyleFDE]], [[BusinessLedAITransformation]], [[EnterpriseAIPilotPurgatory]], [[EnterpriseAIROIAudit]], [[AIDataReadiness]], [[DataFoundationFirstAIStrategy]], [[MidMarketDataTalentGap]], [[DataTeamAsBusinessPartner]], [[DataSovereignty]], [[ApplicationCompanyModelCapability]], [[LowCostModelPostTraining]], [[DataFirstPostTraining]], [[SupervisedFineTuning]], [[QLoRA]], [[AutoRLProductionLoop]], [[ScenarioLevelRewardSignal]], [[IndustrialAIROIFilter]], [[WorkerBaseModelRouting]], [[ParadoxMachines]], [[RetrievalAugmentedGeneration]], [[DigitalEmployees]], [[AIEngineeringThinking]], [[AICodingVerification]], [[AIOfficeAgent]], [[AgentHarness]], [[AgentFacingInterfaces]], [[AgenticSystemOfRecordMoat]], [[MPWRAI]], [[ExplainableAILending]], [[PolicyBoundAgenticLendingSupport]], [[HumanInTheLoopCreditDecisioning]], [[NontraditionalBorrowerCreditAccess]], [[AIGameIndustrialization]], [[AIForScience]], [[CausalWorldModels]], [[HumanoidRobotCommercialization]], [[RealRobotDataStrategy]], [[RobotTrainingCenters]], and [[EgocentricRobotData]] all make capability depend on workflow fit, customer authority, evidence, verification, interfaces, prepared data, ownership, senior expertise, application-specific training targets, experiments, grounded data, scene fit, measurable reward, routing economics, or repeated use.",
       "status": "supported",
       "supporting_wikilinks": [
         "ForwardDeployedEngineer",
@@ -292,7 +303,18 @@
         "ExplainableAILending",
         "PolicyBoundAgenticLendingSupport",
         "HumanInTheLoopCreditDecisioning",
-        "NontraditionalBorrowerCreditAccess"
+        "NontraditionalBorrowerCreditAccess",
+        "ai-xia-banchang-buhui-zhisheng-yige-chaoji-moxing-duitan-kevin-ding-pyromind-chuangshiren-ceo-lsq-rke8nfrbi5xalgst3a8uncfd",
+        "Pyromind",
+        "KevinDing",
+        "Echomind",
+        "PyroDash",
+        "AutoRLProductionLoop",
+        "ScenarioLevelRewardSignal",
+        "IndustrialAIROIFilter",
+        "WorkerBaseModelRouting",
+        "AIVisualQualityInspection",
+        "OutcomeBasedAIPricing"
       ]
     },
     {

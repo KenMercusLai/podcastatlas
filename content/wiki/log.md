@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-31] ingest | AI 下半场，不会只剩一个超级模型｜对谈 Kevin Ding：Pyromind 创始人/CEO
+
+Ingested the 2026-08-30 十字路口Crossing episode with Kevin Ding on Pyromind's Auto RL thesis, Studio/Echomind/PyroDash product split, industrial ROI filtering, FDE boundaries, scenario reward signals, and worker/base model routing. Created the source note plus Kevin Ding, Pyromind, Pyromind Studio, Echomind, PyroDash, Auto RL Production Loop, Scenario-Level Reward Signal, Industrial AI ROI Filter, and Worker-Base Model Routing pages; updated index and overview. No settled contradiction found; funding, team size, customer count, benchmark, cost-saving, pricing, and quality-inspection metrics remain source-scoped.
+
 ## [2026-08-31] ingest | 《资治通鉴·汉纪》747丨班超告诉你：真正的聪明人都有使命感！
 
 Ingested the 2026-06-28 芮淇讲透资治通鉴 episode on Ban Chao's recall and return to Shule, Liu Cang's anti-tomb-county remonstrance, Zheng Chun's Yongchang governance, Ailao King Lei Lao's rebellion and suppression, Fuling King Liu Yan's demotion, Southern/Northern Xiongnu pressure and relief, and Yiwu withdrawal. Created the source note plus `ZhengChunEasternHan`, `AilaoKingLeilao`, and `MissionDrivenFrontierResponsibility`; updated Ban Chao, Liu Cang, Liu Yan, Emperor Zhang, Shule, Khotan, Yiwu garrison, Northern Xiongnu, Southern Xiongnu, Light-Touch Frontier Governance, Strategic Frontier Abandonment, index, and overview. No settled contradiction found; Liu Huang/Liu Fang remains source-scoped, while Shule duwei Li, Wutou, Gao Lin Wenyu Du king, Bonan, Kunming Yi, exact Yongchang successor identity, and the Ma-family enfeoffment-drought argument remain source-scoped.
@@ -14114,6 +14118,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-31] ingest | 《资治通鉴·汉纪》744丨大汉耿恭求生菜谱，竟让贝爷望尘莫及？
 
 Ingested the 2026-06-27 芮淇讲透资治通鉴 episode on Geng Gong's first 75 CE Jinpu and Shule-fortress survival defense, poisoned-arrow psychological warfare, well digging and water display, Mingdi's death and frugal burial instructions, Zhangdi's accession and palace-gate order, Liu Cang's anti-tomb-city remonstrance, and Fifth Lun's Sikong appointment. Created the source note plus `FrugalImperialBurialRestraint`; updated `GengGongEasternHan`, `EmperorMingOfHan`, `EmperorZhangOfHan`, `FifthLunEasternHan`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; Jinpu city, Cheshi Hou king Ande, Yang Ren, Zhao Xi, Mou Rong, exact Shule-fortress geography, Fifth-surname genealogy, and exact tomb-date details remain source-scoped.
+
+## [2026-08-31] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-31] lint | Wiki health check
 

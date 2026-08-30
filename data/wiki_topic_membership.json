@@ -8355,6 +8355,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "AutoRLProductionLoop": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AutoRepossession": [
     {
       "key": "economics",
@@ -19409,6 +19416,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "Echomind": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "EcoFlow": [
     {
       "key": "technology",
@@ -29894,6 +29908,13 @@
       "url": "/topics/science/"
     }
   ],
+  "IndustrialAIROIFilter": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "IndustrialControlSystemCyberRisk": [
     {
       "key": "technology",
@@ -33357,6 +33378,13 @@
     }
   ],
   "KernelDevelopmentAgents": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "KevinDing": [
     {
       "key": "technology",
       "label": "Technology",
@@ -47494,6 +47522,27 @@
       "url": "/topics/economics/"
     }
   ],
+  "PyroDash": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "Pyromind": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "PyromindStudio": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "QDIIAllocation": [
     {
       "key": "economics",
@@ -51295,6 +51344,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "ScenarioLevelRewardSignal": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "ScenarioSpecificAI": [
@@ -63462,6 +63518,13 @@
       "url": "/topics/science/"
     }
   ],
+  "WorkerBaseModelRouting": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "Workmagic": [
     {
       "key": "technology",
@@ -67293,6 +67356,13 @@
     }
   ],
   "ai-shidai-de-chaoji-rukou-haishi-shouji-ma-s10e17-523a0d42-4c16-4dd6-a2ab-9277fec1a731": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "ai-xia-banchang-buhui-zhisheng-yige-chaoji-moxing-duitan-kevin-ding-pyromind-chuangshiren-ceo-lsq-rke8nfrbi5xalgst3a8uncfd": [
     {
       "key": "technology",
       "label": "Technology",

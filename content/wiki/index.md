@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [AI 下半场，不会只剩一个超级模型｜对谈 Kevin Ding：Pyromind 创始人/CEO](sources/ai-xia-banchang-buhui-zhisheng-yige-chaoji-moxing-duitan-kevin-ding-pyromind-chuangshiren-ceo-lsq-rke8nfrbi5xalgst3a8uncfd.md) — 十字路口Crossing episode with Kevin Ding on Pyromind, Auto RL, scenario rewards, FDE boundaries, industrial ROI filters, PyroDash, and why AI may not converge to one supermodel.
 - [683. Washington: Hero of the Revolution (Part 1)](sources/683-washington-hero-of-the-revolution-part-1-glt3752138067.md) — The Rest Is History episode on George Washington, Valley Forge, Continental Army endurance, French alliance, Black soldiers, and republican self-command.
 - [《资治通鉴·汉纪》744丨大汉耿恭求生菜谱，竟让贝爷望尘莫及？](sources/zizhi-tongjian-hanji-744-dahan-genggong-qiusheng-caipu-jingrang-beiye-wangchenmoji-lvsumpsnpb1tpk7t0xrx7vatd5mx.md) — 芮淇讲透资治通鉴 episode on Geng Gong's first 75 CE Jinpu and Shule-fortress survival defense, Mingdi's death and frugal burial, Zhangdi's accession, Liu Cang's anti-tomb-city remonstrance, and Fifth Lun's Sikong appointment.
 - [《资治通鉴·汉纪》745丨东汉最血性之战：拯救大兵耿恭！](sources/zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d.md) — 芮淇讲透资治通鉴 episode on Geng Gong's isolated 75 CE siege, Bao Yu's rescue-credit argument, Zhangdi's reinforcement decision, and Fifth Lun's early warning about Ma-family office and gift networks.
@@ -1769,6 +1770,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Kevin Ding](entities/KevinDing.md) — Pyromind founder and CEO explaining Auto RL, scenario rewards, FDE boundaries, and plural enterprise AI architectures.
+- [Pyromind](entities/Pyromind.md) — Enterprise post-training company moving from RL Service toward Auto RL loops, training infrastructure, and worker/base inference routing.
+- [Pyromind Studio](entities/PyromindStudio.md) — Pyromind training-infrastructure layer for serverless service nodes, training logic, parameters, and resource-based use.
+- [Echomind](entities/Echomind.md) — Pyromind Auto RL product for proxy-based trajectory capture, reward construction, training, and deployment back into production scenes.
+- [PyroDash](entities/PyroDash.md) — Pyromind collaborative inference engine routing between a small local worker model and a larger base model.
 - [George Washington](entities/GeorgeWashington.md) — Revolutionary commander whose endurance strategy, Valley Forge administration, public dignity, and slavery contradiction anchor the Washington episode.
 - [Valley Forge](entities/ValleyForge.md) — 1777-1778 winter encampment where Continental Army hardship, disease, supply failure, training reform, and patriotic memory converge.
 - [Continental Army](entities/ContinentalArmy.md) — Revolutionary army Washington had to preserve, supply, discipline, inoculate, and professionalize during the American Revolution.
@@ -10282,6 +10288,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Auto RL Production Loop](concepts/AutoRLProductionLoop.md) — Post-training workflow that captures production trajectories, derives rewards, trains, and redeploys improved models into the operating scene.
+- [Scenario-Level Reward Signal](concepts/ScenarioLevelRewardSignal.md) — Demand-side definition of better performance for a production scene, grounded in data, labels, workflow outcomes, privacy constraints, and economics.
+- [Industrial AI ROI Filter](concepts/IndustrialAIROIFilter.md) — Customer and scene-selection rule favoring production data, clear labels, capability gaps, measurable ROI, and repeatability.
+- [Worker-Base Model Routing](concepts/WorkerBaseModelRouting.md) — Inference architecture where a small worker model handles simple or sensitive tasks locally and routes harder work to a larger base model.
 - [纳谏转政策式治理 / Receptive Remonstrance Governance](concepts/ReceptiveRemonstranceGovernance.md) — Leadership pattern where advice matters because it is heard, tested, and converted into concrete legal, personnel, policy, or burden-relief change.
 - [使命驱动的边疆责任 / Mission-Driven Frontier Responsibility](concepts/MissionDrivenFrontierResponsibility.md) — Frontier-duty pattern where formal exit is judged against concrete security collapse among dependent local allies.
 - [抚育胜于生育的母德评价 / Motherhood Beyond Childbirth](concepts/MotherhoodBeyondChildbirth.md) — Maternal-legitimacy pattern where raising, education, virtue, household formation, and recognized authority can outweigh biological birth in political evaluation.

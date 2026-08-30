@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 6061
+wiki_total_pages: 6065
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -131,6 +131,9 @@ wiki_pages:
   - key: "ScamCompoundPoliticalProtection"
     title: "Scam Compound Political Protection"
     url: "/wiki/concepts/scamcompoundpoliticalprotection/"
+  - key: "ScenarioLevelRewardSignal"
+    title: "Scenario-Level Reward Signal"
+    url: "/wiki/concepts/scenariolevelrewardsignal/"
   - key: "ScenarioSpecificAI"
     title: "Scenario-Specific AI"
     url: "/wiki/concepts/scenariospecificai/"

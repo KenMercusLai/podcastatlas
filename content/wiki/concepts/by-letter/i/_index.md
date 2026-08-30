@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 6061
+wiki_total_pages: 6065
 wiki_pages:
   - key: "ICEWorkforceExpansion"
     title: "ICE Workforce Expansion"
@@ -230,6 +230,9 @@ wiki_pages:
   - key: "IndividualizedCancerVaccineManufacturing"
     title: "Individualized Cancer Vaccine Manufacturing"
     url: "/wiki/concepts/individualizedcancervaccinemanufacturing/"
+  - key: "IndustrialAIROIFilter"
+    title: "Industrial AI ROI Filter"
+    url: "/wiki/concepts/industrialairoifilter/"
   - key: "IndustrialCapabilityBailout"
     title: "Industrial Capability Bailout"
     url: "/wiki/concepts/industrialcapabilitybailout/"

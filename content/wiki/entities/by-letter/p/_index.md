@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 8509
+wiki_total_pages: 8514
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -737,6 +737,15 @@ wiki_pages:
   - key: "PwC"
     title: "PwC"
     url: "/wiki/entities/pwc/"
+  - key: "PyroDash"
+    title: "PyroDash"
+    url: "/wiki/entities/pyrodash/"
+  - key: "Pyromind"
+    title: "Pyromind"
+    url: "/wiki/entities/pyromind/"
+  - key: "PyromindStudio"
+    title: "Pyromind Studio"
+    url: "/wiki/entities/pyromindstudio/"
   - key: "PyTorch"
     title: "PyTorch"
     url: "/wiki/entities/pytorch/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6061
+wiki_total_pages: 6065
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1862,6 +1862,9 @@ wiki_pages:
   - key: "AutoResearch"
     title: "Auto Research"
     url: "/wiki/concepts/autoresearch/"
+  - key: "AutoRLProductionLoop"
+    title: "Auto RL Production Loop"
+    url: "/wiki/concepts/autorlproductionloop/"
   - key: "AutoFormalization"
     title: "Auto-Formalization"
     url: "/wiki/concepts/autoformalization/"

@@ -5651,6 +5651,10 @@
     "title": "AutoNavi / Gaode",
     "url": "/wiki/entities/autonavi/"
   },
+  "AutoRLProductionLoop": {
+    "title": "Auto RL Production Loop",
+    "url": "/wiki/concepts/autorlproductionloop/"
+  },
   "AutoRepossession": {
     "title": "Auto Repossession",
     "url": "/wiki/concepts/autorepossession/"
@@ -15863,6 +15867,10 @@
     "title": "Echo Locker",
     "url": "/wiki/entities/echolocker/"
   },
+  "Echomind": {
+    "title": "Echomind",
+    "url": "/wiki/entities/echomind/"
+  },
   "EcoFlow": {
     "title": "EcoFlow / 正浩",
     "url": "/wiki/entities/ecoflow/"
@@ -25123,6 +25131,10 @@
     "title": "Indonesia",
     "url": "/wiki/entities/indonesia/"
   },
+  "IndustrialAIROIFilter": {
+    "title": "Industrial AI ROI Filter",
+    "url": "/wiki/concepts/industrialairoifilter/"
+  },
   "IndustrialCapabilityBailout": {
     "title": "Industrial Capability Bailout",
     "url": "/wiki/concepts/industrialcapabilitybailout/"
@@ -28358,6 +28370,10 @@
   "KetogenicDietMentalHealth": {
     "title": "Ketogenic Diet and Mental Health",
     "url": "/wiki/concepts/ketogenicdietmentalhealth/"
+  },
+  "KevinDing": {
+    "title": "Kevin Ding",
+    "url": "/wiki/entities/kevinding/"
   },
   "KevinKelly": {
     "title": "Kevin Kelly",
@@ -41411,6 +41427,18 @@
     "title": "Pyramiding",
     "url": "/wiki/concepts/pyramiding/"
   },
+  "PyroDash": {
+    "title": "PyroDash",
+    "url": "/wiki/entities/pyrodash/"
+  },
+  "Pyromind": {
+    "title": "Pyromind",
+    "url": "/wiki/entities/pyromind/"
+  },
+  "PyromindStudio": {
+    "title": "Pyromind Studio",
+    "url": "/wiki/entities/pyromindstudio/"
+  },
   "QDIIAllocation": {
     "title": "QDII Allocation",
     "url": "/wiki/concepts/qdiiallocation/"
@@ -44834,6 +44862,10 @@
   "ScarletSunrise": {
     "title": "Scarlet Sunrise",
     "url": "/wiki/entities/scarletsunrise/"
+  },
+  "ScenarioLevelRewardSignal": {
+    "title": "Scenario-Level Reward Signal",
+    "url": "/wiki/concepts/scenariolevelrewardsignal/"
   },
   "ScenarioSpecificAI": {
     "title": "Scenario-Specific AI",
@@ -54907,6 +54939,10 @@
     "title": "Workday",
     "url": "/wiki/entities/workday/"
   },
+  "WorkerBaseModelRouting": {
+    "title": "Worker-Base Model Routing",
+    "url": "/wiki/concepts/workerbasemodelrouting/"
+  },
   "WorkerPhotographicArchive": {
     "title": "Worker Photographic Archive / 工人摄影档案",
     "url": "/wiki/concepts/workerphotographicarchive/"
@@ -59634,6 +59670,10 @@
   "ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing": {
     "title": "AI Startup Hits $8.6M ARR With V0 MVP and EUR85 Pricing",
     "url": "/wiki/sources/ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing/"
+  },
+  "ai-xia-banchang-buhui-zhisheng-yige-chaoji-moxing-duitan-kevin-ding-pyromind-chuangshiren-ceo-lsq-rke8nfrbi5xalgst3a8uncfd": {
+    "title": "AI 下半场，不会只剩一个超级模型｜对谈 Kevin Ding：Pyromind 创始人/CEO",
+    "url": "/wiki/sources/ai-xia-banchang-buhui-zhisheng-yige-chaoji-moxing-duitan-kevin-ding-pyromind-chuangshiren-ceo-lsq-rke8nfrbi5xalgst3a8uncfd/"
   },
   "ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz": {
     "title": "AI4S 需要狂人与野心家｜对话英灵殿 Odin：\\\"如果神存在，我怎能容忍自己不是神？\\\"【公路播客】",

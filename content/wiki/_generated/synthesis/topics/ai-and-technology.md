@@ -4,8 +4,8 @@ generated: true
 topic_id: ai-and-technology
 title: "AI and Technology"
 last_updated: 2026-08-31
-as_of_overview_commit: 1e26ad9c959cfc2ee7eb461a6ac26a1096456341
-input_digest: 8f98059b6251362e0c66dee61c53bc9433403048e62691317e0756e6812277ad
+as_of_overview_commit: ffd5eb34548f6f0e00039939a4086703c0963f55
+input_digest: 2534721a8c7589bcdd44050130493ea052143e44ec3aa4fd4c7b63a946bac73f
 ---
 
 # AI and Technology
@@ -63,6 +63,17 @@ The agent branch now points to a token-efficient operating discipline: [[TokenEf
 
 - Cost, leaderboard ranking, benchmark choice, model identity, and 逯雨鑫/雨昕 spelling details remain source-scoped to the 42章经 episode.
 - The claim covers narrow post-training and application-company capability, not frontier pretraining, large-scale inference serving, or proof that local models already match frontier assistants.
+
+### Production Post Training Needs Scenario Rewards
+
+[[ai-xia-banchang-buhui-zhisheng-yige-chaoji-moxing-duitan-kevin-ding-pyromind-chuangshiren-ceo-lsq-rke8nfrbi5xalgst3a8uncfd|AI 下半场，不会只剩一个超级模型]] adds a production post-training branch: [[Pyromind]], [[KevinDing]], [[PyromindStudio]], [[Echomind]], [[AutoRLProductionLoop]], and [[ScenarioLevelRewardSignal]] frame enterprise self-improvement as production trajectory capture, reward construction, training, and redeployment, while [[PyroDash]], [[WorkerBaseModelRouting]], [[ForwardDeployedEngineer]], [[AIVisualQualityInspection]], [[OutcomeBasedAIPricing]], and [[ModelRoutingCostControl]] show why ROI, FDE-bounded scene entry, privacy, cost, and model routing can matter more than a single supermodel.
+
+**Evidence:** [[ai-xia-banchang-buhui-zhisheng-yige-chaoji-moxing-duitan-kevin-ding-pyromind-chuangshiren-ceo-lsq-rke8nfrbi5xalgst3a8uncfd]], [[KevinDing]], [[Pyromind]], [[PyromindStudio]], [[Echomind]], [[PyroDash]], [[AutoRLProductionLoop]], [[ScenarioLevelRewardSignal]], [[IndustrialAIROIFilter]], [[WorkerBaseModelRouting]], [[RecursiveSelfImprovement]], [[AgentPostTraining]], [[ForwardDeployedEngineer]], [[AIVisualQualityInspection]], [[OutcomeBasedAIPricing]], [[ModelRoutingCostControl]]
+
+**Qualifications:**
+
+- The Pyromind source is a founder interview, so funding, customer-count, benchmark, cost-saving, payment-size, and false-positive metrics remain source-scoped.
+- The claim does not prove Auto RL generalizes to every enterprise domain; the source keeps FDE cold starts, ROI clarity, production data, labels, and cross-scenario repeatability as gates.
 
 ### Enterprise Ai Adoption Needs Operating Model
 
