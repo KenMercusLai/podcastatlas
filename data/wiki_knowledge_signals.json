@@ -8264,9 +8264,9 @@
       "url": "/wiki/entities/dengwanshilatehan/"
     },
     "DengXunEasternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》767丨聪明人，都擅长“演戏” [lq3ol7Y-JDh7dnNFKmtFDG4ibRyq].md",
@@ -8274,6 +8274,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》767丨聪明人，都擅长“演戏”",
           "url": "/wiki/sources/zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》760丨历史揭秘：皇后出轨被抓，下场惨不惨？ [lgZ2sC9XT8ULltVWeMiZ2uzFgHQI].md",
+          "key": "zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》760丨历史揭秘：皇后出轨被抓，下场惨不惨？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi/"
         }
       ],
       "updated": "2026-08-30",
@@ -9070,9 +9077,9 @@
       "url": "/wiki/entities/douwulatehan/"
     },
     "DouXianEasternHan": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》767丨聪明人，都擅长“演戏” [lq3ol7Y-JDh7dnNFKmtFDG4ibRyq].md",
@@ -9122,6 +9129,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》761丨从死刑犯到沙场英雄，他是如何做到的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》760丨历史揭秘：皇后出轨被抓，下场惨不惨？ [lgZ2sC9XT8ULltVWeMiZ2uzFgHQI].md",
+          "key": "zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》760丨历史揭秘：皇后出轨被抓，下场惨不惨？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi/"
         }
       ],
       "updated": "2026-08-30",
@@ -10898,9 +10912,9 @@
       "url": "/wiki/entities/empressdowagerdenglatehan/"
     },
     "EmpressDowagerDouHeLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》770丨沉默的真相：皇帝的生母竟是她 [lu5dqu8Uuw277IkZXkBLVqDbPL3q].md",
@@ -10915,6 +10929,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》761丨从死刑犯到沙场英雄，他是如何做到的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》760丨历史揭秘：皇后出轨被抓，下场惨不惨？ [lgZ2sC9XT8ULltVWeMiZ2uzFgHQI].md",
+          "key": "zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》760丨历史揭秘：皇后出轨被抓，下场惨不惨？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi/"
         }
       ],
       "updated": "2026-08-30",
@@ -13158,6 +13179,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/frontierresourceintegration/"
     },
+    "FrontierTrustThroughProtection": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》760丨历史揭秘：皇后出轨被抓，下场惨不惨？ [lgZ2sC9XT8ULltVWeMiZ2uzFgHQI].md",
+          "key": "zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》760丨历史揭秘：皇后出轨被抓，下场惨不惨？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/frontiertrustthroughprotection/"
+    },
     "FuGan": {
       "episode_count": 2,
       "show_count": 1,
@@ -14770,9 +14807,9 @@
       "url": "/wiki/concepts/hancavalryformation/"
     },
     "HanLengEasternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》764丨他为了活命，竟间接灭了罗马帝国？ [lpk0c6MUNEAbhk1oonZYjvawwF4_].md",
@@ -14787,6 +14824,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》761丨从死刑犯到沙场英雄，他是如何做到的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》760丨历史揭秘：皇后出轨被抓，下场惨不惨？ [lgZ2sC9XT8ULltVWeMiZ2uzFgHQI].md",
+          "key": "zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》760丨历史揭秘：皇后出轨被抓，下场惨不惨？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi/"
         }
       ],
       "updated": "2026-08-30",
@@ -15042,9 +15086,9 @@
       "url": "/wiki/concepts/hardtechfinancingdiscipline/"
     },
     "HeChangEasternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》761丨从死刑犯到沙场英雄，他是如何做到的？ [lmcLLzGpJ19DSTNzfZtStrKAWuEX].md",
@@ -15052,6 +15096,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》761丨从死刑犯到沙场英雄，他是如何做到的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》760丨历史揭秘：皇后出轨被抓，下场惨不惨？ [lgZ2sC9XT8ULltVWeMiZ2uzFgHQI].md",
+          "key": "zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》760丨历史揭秘：皇后出轨被抓，下场惨不惨？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi/"
         }
       ],
       "updated": "2026-08-30",
@@ -20703,6 +20754,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/liubiao/"
     },
+    "LiuChangDuxiangHouEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》760丨历史揭秘：皇后出轨被抓，下场惨不惨？ [lgZ2sC9XT8ULltVWeMiZ2uzFgHQI].md",
+          "key": "zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》760丨历史揭秘：皇后出轨被抓，下场惨不惨？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/liuchangduxianghoueasternhan/"
+    },
     "LiuChangLiangKing": {
       "episode_count": 1,
       "show_count": 1,
@@ -20796,6 +20863,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/liufulatehan/"
+    },
+    "LiuGangEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》760丨历史揭秘：皇后出轨被抓，下场惨不惨？ [lgZ2sC9XT8ULltVWeMiZ2uzFgHQI].md",
+          "key": "zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》760丨历史揭秘：皇后出轨被抓，下场惨不惨？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/liugangeasternhan/"
     },
     "LiuGuiLateHan": {
       "episode_count": 1,
@@ -23566,9 +23649,9 @@
       "url": "/wiki/concepts/metabolicpsychiatry/"
     },
     "MiTangQiangLeader": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》772丨他为何宁愿成为逃犯，也不愿继承家业？ [lrou5nayE7opB5FavWUz6BQbgGAe].md",
@@ -23604,6 +23687,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》767丨聪明人，都擅长“演戏”",
           "url": "/wiki/sources/zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》760丨历史揭秘：皇后出轨被抓，下场惨不惨？ [lgZ2sC9XT8ULltVWeMiZ2uzFgHQI].md",
+          "key": "zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》760丨历史揭秘：皇后出轨被抓，下场惨不惨？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi/"
         }
       ],
       "updated": "2026-08-30",
@@ -27903,6 +27993,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/punishmentasmoralcredential/"
     },
+    "PunishmentConvertedToCampaignCommand": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》760丨历史揭秘：皇后出轨被抓，下场惨不惨？ [lgZ2sC9XT8ULltVWeMiZ2uzFgHQI].md",
+          "key": "zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》760丨历史揭秘：皇后出轨被抓，下场惨不惨？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/punishmentconvertedtocampaigncommand/"
+    },
     "PunishmentPersonalResponsibilityLimit": {
       "episode_count": 1,
       "show_count": 1,
@@ -28770,9 +28876,9 @@
       "url": "/wiki/entities/renjunluoyanglatehan/"
     },
     "RenKuiEasternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》766丨历史教给你：为什么要故意发脾气？ [lrs-mguYfmnxE970HdWjvMEvL8Oc].md",
@@ -28794,6 +28900,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》764丨他为了活命，竟间接灭了罗马帝国？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-764-ta-weile-huoming-jing-jianjie-mie-le-luoma-diguo-lpk0c6muneabhk1oonzyjvawwf4/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》760丨历史揭秘：皇后出轨被抓，下场惨不惨？ [lgZ2sC9XT8ULltVWeMiZ2uzFgHQI].md",
+          "key": "zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》760丨历史揭秘：皇后出轨被抓，下场惨不惨？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi/"
         }
       ],
       "updated": "2026-08-30",
@@ -31392,6 +31505,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/songhongeasternhan/"
+    },
+    "SongYouEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》760丨历史揭秘：皇后出轨被抓，下场惨不惨？ [lgZ2sC9XT8ULltVWeMiZ2uzFgHQI].md",
+          "key": "zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》760丨历史揭秘：皇后出轨被抓，下场惨不惨？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/songyoueasternhan/"
     },
     "SouthernOcean": {
       "episode_count": 1,
@@ -39322,9 +39451,9 @@
       "url": "/wiki/entities/yuxueasternhan/"
     },
     "YuanAnEasternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》766丨历史教给你：为什么要故意发脾气？ [lrs-mguYfmnxE970HdWjvMEvL8Oc].md",
@@ -39353,6 +39482,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》762丨历史告诉你：男人有权，能有多荒唐？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-762-lishi-gaosu-ni-nanren-youquan-neng-you-duo-huangtang-limdo2hfd8epcfkwwsrmzz9no0dj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》760丨历史揭秘：皇后出轨被抓，下场惨不惨？ [lgZ2sC9XT8ULltVWeMiZ2uzFgHQI].md",
+          "key": "zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》760丨历史揭秘：皇后出轨被抓，下场惨不惨？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi/"
         }
       ],
       "updated": "2026-08-30",

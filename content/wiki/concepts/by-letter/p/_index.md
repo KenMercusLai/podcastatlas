@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6011
+wiki_total_pages: 6013
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1607,6 +1607,9 @@ wiki_pages:
   - key: "PowerCenterProximityAdvantage"
     title: "权力中心接近优势 / Power Center Proximity Advantage"
     url: "/wiki/concepts/powercenterproximityadvantage/"
+  - key: "PunishmentConvertedToCampaignCommand"
+    title: "死罪转军功式任用 / Punishment Converted to Campaign Command"
+    url: "/wiki/concepts/punishmentconvertedtocampaigncommand/"
   - key: "PeiCountyUprisingMobilization"
     title: "沛县起义动员 / Pei County Uprising Mobilization"
     url: "/wiki/concepts/peicountyuprisingmobilization/"

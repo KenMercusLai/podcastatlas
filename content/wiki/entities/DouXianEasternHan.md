@@ -11,16 +11,19 @@ sources:
   - zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb
   - zizhi-tongjian-hanji-762-lishi-gaosu-ni-nanren-youquan-neng-you-duo-huangtang-limdo2hfd8epcfkwwsrmzz9no0dj
   - zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex
+  - zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi
 last_updated: 2026-08-30
 ---
 
 ## Overview
 
-窦宪 / Dou Xian now appears as the He-era outer-relative powerholder whose profile begins with contested campaign authorization, not only with later restored rank or military glory. Hanji 761 shows critics opposing his Northern Xiongnu expedition, [[ZhiShouEasternHan|Zhi Shou]] dying after refusing his private request, [[HeChangEasternHan|He Chang]] trying to rescue loyal speech, and Dou's victory at [[JiluoshanBattleLateHan|Jiluoshan]] strengthening family control. Hanji 762-767 then extend that arc through rank elevation, family abuse, campaign memory, patronage, Yu Chu policy, palace removal, and post-Dou aftershocks.
+窦宪 / Dou Xian now appears as the He-era outer-relative powerholder whose profile begins with a court murder case, not with battlefield glory. Hanji 760 says he kills [[LiuChangDuxiangHouEasternHan|Duxiang marquis Liu Chang]], frames [[LiuGangEasternHan|Liu Gang]], is exposed after [[HanLengEasternHan|Han Leng]] and [[HeChangEasternHan|He Chang]] redirect the investigation, and then asks to attack [[NorthernXiongnuLateHan|Northern Xiongnu]] to redeem a capital crime. Hanji 761-767 extend that origin through contested campaign authorization, [[ZhiShouEasternHan|Zhi Shou]]'s death after refusing Dou's private request, [[JiluoshanBattleLateHan|Jiluoshan]] and [[YanranInscription|Yanran]] fame, rank elevation, family abuse, patronage, Yu Chu policy, palace removal, and post-Dou aftershocks.
 
 ## Current Profile
 
-Hanji 761 supplies the earliest current layer. Officials oppose Dou's planned expedition because the court is still in mourning, spring mobilization burdens farmers, supplies are strained, and the [[NorthernXiongnuLateHan|Northern Xiongnu]] has been pushed far from the frontier without a fresh direct offense. [[EmpressDowagerDouHeLateHan|Empress Dowager Dou]] ignores those objections, orders mansions for [[DouDuEasternHan|Dou Du]] and [[DouJingEasternHan|Dou Jing]], and favors Dou when he counteraccuses Zhi Shou after Zhi publicizes Dou's private letter.
+Hanji 760 supplies the earliest current layer. During mourning for [[EmperorZhangOfHan|Emperor Zhang]], [[EmpressDowagerDouHeLateHan|Empress Dowager Dou]] forms a relationship with Liu Chang and gives him favor. Dou reads Liu Chang as a threat to his own inner-court access, has him murdered in the guarded capital setting, and redirects blame toward Liu Gang. Han Leng argues that the killer should be sought near the capital, He Chang helps reopen the case, and the investigation points to Dou. The dowager imprisons him but protects him; Dou asks to attack Northern Xiongnu to redeem the death offense, and he is appointed chariot-and-cavalry general with Geng Bing as deputy.
+
+Hanji 761 follows the same campaign as contested authorization. Officials oppose Dou's planned expedition because the court is still in mourning, spring mobilization burdens farmers, supplies are strained, and the Northern Xiongnu has been pushed far from the frontier without a fresh direct offense. The dowager ignores those objections, orders mansions for [[DouDuEasternHan|Dou Du]] and [[DouJingEasternHan|Dou Jing]], and favors Dou when he counteraccuses Zhi Shou after Zhi publicizes Dou's private letter.
 
 The same source gives the first campaign-success layer. Dou and Geng Bing move from Jilu Pass, the Southern Xiongnu chanyu and [[DengHongHeEraLateHan|Deng Hong]] advance by other routes, and Dou sends Yan Pan, [[GengKuiLateHan|Geng Kui]], and Geng Tan with Southern Xiongnu cavalry to defeat the northern chanyu at Jiluoshan. Pursuit to Siqu Beihai, large captures, and mass surrender culminate in Dou and Geng Bing climbing Yanran Mountain while [[BanGuEasternHan|Ban Gu]] records the achievement. The victory then increases Dou-family command: Dou controls military power, while Dou Du and Dou Jing command palace guards.
 
@@ -34,16 +37,18 @@ Hanji 766 and Hanji 767 complete the fall and aftermath. Emperor He cannot safel
 
 ## Key Characteristics
 
-- Dowager-backed outer-relative whose early campaign and family luxury proceed despite repeated remonstrance.
+- Dowager-backed outer-relative who treats a dowager favorite as a threat, kills him, and converts murder liability into campaign command.
+- Early campaign and family luxury beneficiary despite repeated remonstrance.
 - Capable commander whose Jiluoshan victory and Yanran commemoration become real public achievements.
 - Powerholder who converts private-request refusal and direct criticism into retaliatory accusation.
 - Family-bloc leader whose brothers' mansions, household abuse, private troop access, and palace-guard command make court capture concrete.
-- Postwar patronage operator whose household becomes an unofficial authorization, recommendation, and extraction center.
 - Frontier-policy sponsor whose Yu Chu recognition plan prevails despite credibility and fiscal objections.
 - Fallen general-in-chief whose removal destabilizes followers, literary staff, gift-givers, and Northern Xiongnu arrangements.
 
 ## Evidence
 
+- Murder-case origin: [[zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi|Hanji 760]] says Dou Xian has Duxiang marquis Liu Chang killed after Liu Chang receives the dowager's favor, then frames Liu Gang.
+- Investigation and punishment conversion: [[zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi|Hanji 760]] says Han Leng and He Chang help redirect the case, the result points to Dou, and Dou asks to attack Northern Xiongnu to redeem a capital offense.
 - Ignored anti-campaign advice: [[zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex|Hanji 761]] says officials oppose Dou's expedition on mourning, farming, logistics, public-burden, and no-fresh-offense grounds, but Empress Dowager Dou does not accept the memorials.
 - Zhi Shou retaliation: [[zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex|Hanji 761]] says Zhi Shou refuses Dou's private request, publicizes the letter, attacks Dou's policies, and is accused by Dou before receiving a death sentence later reduced to exile.
 - Jiluoshan and Yanran: [[zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex|Hanji 761]] reports the Jiluoshan victory, pursuit to Siqu Beihai, mass submission, and Ban Gu's ordered Yanran inscription.
@@ -57,22 +62,24 @@ Hanji 766 and Hanji 767 complete the fall and aftermath. Emperor He cannot safel
 
 ## Qualifications
 
-This page remains bounded to the listed source notes and does not reconstruct Dou Xian's full biography, family rise, exact campaign route, or all office chronology. Hanji 761 refines the earliest campaign layer and shows that moral objections preceded victory, but it also confirms that the criticized campaign succeeded militarily. Hanji 763 and Hanji 764 associate Northern Xiongnu displacement with later Eurasian migration pressure; the page treats that as a qualified source association rather than proof that Dou Xian directly destroyed Rome. Hanji 766 contains a local tension around the Dou brothers' deaths and Dou Gui's survival; the wiki records [[DouGuiEasternHan|Dou Gui]] as the specific resolved mercy case.
+This page remains bounded to the listed source notes and does not reconstruct Dou Xian's full biography, family rise, exact campaign route, or all office chronology. Hanji 760 and Hanji 763 both make the Liu Chang murder the origin of Dou's campaign path, while Hanji 761 refines the anti-campaign objection and battlefield layers. The sources therefore separate three judgments: the murder case is a court-accountability failure, the expedition is contested before launch, and the later campaign succeeds militarily. Hanji 763 and Hanji 764 associate Northern Xiongnu displacement with later Eurasian migration pressure; the page treats that as a qualified source association rather than proof that Dou Xian directly destroyed Rome. Hanji 766 contains a local tension around the Dou brothers' deaths and Dou Gui's survival; the wiki records [[DouGuiEasternHan|Dou Gui]] as the specific resolved mercy case.
 
 ## What Changed
 
-- Added Hanji 761 as the earliest current layer: anti-campaign remonstrance, Zhi Shou's criminalized refusal, He Chang's rescue, Jiluoshan route details, Yanran, and post-victory family guard power.
-- Rebalanced Dou's profile so military success and court danger begin together rather than in separate later phases.
-- Added Dou Du and Zhi Shou as concrete nodes in the early Dou-family power field.
-- Kept the Northern-Xiongnu-to-Rome chain qualified rather than treating Dou's victory as direct causal proof.
-- Preserved the later Yu Chu recognition dispute, palace removal, and post-Dou aftershock layers.
+- Added Hanji 760 as the earliest current layer: Liu Chang's murder, Liu Gang's framing, case reversal, and Dou's request to redeem a death offense through war.
+- Rebalanced Dou's profile so the later Jiluoshan-Yanran victory remains tied to the earlier accountability failure.
+- Added punishment-converted-to-command as the pre-campaign mechanism that Hanji 761 and Hanji 763 later develop.
+- Preserved the later Yu Chu recognition dispute, palace removal, post-Dou aftershocks, and qualified migration-cascade layers.
 
 ## Relationships
 
 - [[EmpressDowagerDouHeLateHan|窦太后]] - sister or dowager patron whose dependence and favoritism help Dou's campaign and retaliation proceed.
 - [[EmperorHeOfHan|汉和帝]] - ruler who later plans and executes the palace operation against Dou's bloc.
+- [[LiuChangDuxiangHouEasternHan|都乡侯刘畅]] - murder victim whose death creates Dou's campaign-redemption path.
+- [[LiuGangEasternHan|刘刚]] - framed brother in Dou's attempted deflection of the murder case.
 - [[ZhiShouEasternHan|郅寿]] - official whose public refusal of Dou's private request becomes a lethal case.
 - [[HeChangEasternHan|何敞]] - remonstrant who attacks Dou's campaign and mansions and rescues Zhi Shou from execution.
+- [[HanLengEasternHan|韩棱]] - official who helps redirect the Liu Chang case and later blocks ruler-like ritual acclamation for Dou.
 - [[DouDuEasternHan|窦笃]] - brother whose mansion and guard command expose family-wide privilege.
 - [[DouJingEasternHan|窦景]] - brother whose household abuse, mansion, guard command, and private troop access expose family overreach.
 - [[NorthernXiongnuLateHan|北匈奴]] - frontier opponent broken by Dou's campaign and destabilized again after his fall.
@@ -83,6 +90,6 @@ This page remains bounded to the listed source notes and does not reconstruct Do
 - [[YuanAnEasternHan|袁安]] - senior minister whose opposition keeps Dou's policy danger visible.
 - [[RenKuiEasternHan|任隗]] - ministerial co-dissenter against Dou's Northern Xiongnu arrangement.
 - [[LeHuiEasternHan|乐恢]] - official whose resistance runs from early objection to later suicide after Dou-linked pressure.
-- [[HanLengEasternHan|韩棱]] - official who blocks ruler-like ritual acclamation for Dou.
 - [[OuterRelativeCourtPower|外戚专权与清算]] - broader pattern for outer-relative dominance and cleanup risk.
+- [[PunishmentConvertedToCampaignCommand|死罪转军功式任用]] - concept for Dou's murder-case liability becoming military command.
 - [[PalaceCoupSymbolControl|宫廷政变中的符印与门户控制]] - operational pattern through which Dou's seal and command title become unusable.

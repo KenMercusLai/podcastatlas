@@ -19711,6 +19711,10 @@
     "title": "Frontier Trade Systems",
     "url": "/wiki/concepts/frontiertradesystems/"
   },
+  "FrontierTrustThroughProtection": {
+    "title": "保护换信任式边疆安抚 / Frontier Trust Through Protection",
+    "url": "/wiki/concepts/frontiertrustthroughprotection/"
+  },
   "FrontierVassalContainment": {
     "title": "边境迁封式牵制 / Frontier Vassal Containment",
     "url": "/wiki/concepts/frontiervassalcontainment/"
@@ -30471,6 +30475,10 @@
     "title": "刘畅 / Liu Chang",
     "url": "/wiki/entities/liuchang/"
   },
+  "LiuChangDuxiangHouEasternHan": {
+    "title": "都乡侯刘畅 / Liu Chang (Duxiang marquis)",
+    "url": "/wiki/entities/liuchangduxianghoueasternhan/"
+  },
   "LiuChangHuainanKing": {
     "title": "刘长 / Liu Chang (Huainan king)",
     "url": "/wiki/entities/liuchanghuainanking/"
@@ -30526,6 +30534,10 @@
   "LiuFuLateHan": {
     "title": "刘馥 / Liu Fu (late Han)",
     "url": "/wiki/entities/liufulatehan/"
+  },
+  "LiuGangEasternHan": {
+    "title": "刘刚 / Liu Gang (Eastern Han)",
+    "url": "/wiki/entities/liugangeasternhan/"
   },
   "LiuGuiLateHan": {
     "title": "刘瑰 / Liu Gui (late Han)",
@@ -41015,6 +41027,10 @@
     "title": "受罚作为名节凭据 / Punishment as Moral Credential",
     "url": "/wiki/concepts/punishmentasmoralcredential/"
   },
+  "PunishmentConvertedToCampaignCommand": {
+    "title": "死罪转军功式任用 / Punishment Converted to Campaign Command",
+    "url": "/wiki/concepts/punishmentconvertedtocampaigncommand/"
+  },
   "PunishmentPersonalResponsibilityLimit": {
     "title": "刑罚个人责任边界 / Punishment Personal Responsibility Limit",
     "url": "/wiki/concepts/punishmentpersonalresponsibilitylimit/"
@@ -46834,6 +46850,10 @@
   "SongYiLateHan": {
     "title": "宋翼 / Song Yi (late Han)",
     "url": "/wiki/entities/songyilatehan/"
+  },
+  "SongYouEasternHan": {
+    "title": "宋游 / Song You (Eastern Han)",
+    "url": "/wiki/entities/songyoueasternhan/"
   },
   "SongYu": {
     "title": "宋玉 / Song Yu",
@@ -62990,6 +63010,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi": {
+    "title": "《资治通鉴·汉纪》760丨历史揭秘：皇后出轨被抓，下场惨不惨？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi/"
   },
   "zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex": {
     "title": "《资治通鉴·汉纪》761丨从死刑犯到沙场英雄，他是如何做到的？",

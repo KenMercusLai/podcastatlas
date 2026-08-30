@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-30] ingest | 《资治通鉴·汉纪》760丨历史揭秘：皇后出轨被抓，下场惨不惨？
+
+Ingested the 2026-06-30 芮淇讲透资治通鉴 episode on Empress Dowager Dou's relationship with Duxiang marquis Liu Chang, Dou Xian's murder and framing of Liu Gang, Han Leng and He Chang's investigative correction, Dou Xian's request to redeem a death offense through a Northern Xiongnu campaign, Deng Xun's trust-building protection of Hu families and defeat of Mi Tang, and Yuan An/Ren Kui's persistent anti-expedition remonstrance after Song You retreats. Created the source note plus `LiuChangDuxiangHouEasternHan`, `LiuGangEasternHan`, `SongYouEasternHan`, `PunishmentConvertedToCampaignCommand`, and `FrontierTrustThroughProtection`; updated `DouXianEasternHan`, `EmpressDowagerDouHeLateHan`, `DengXunEasternHan`, `MiTangQiangLeader`, `YuanAnEasternHan`, `RenKuiEasternHan`, `HeChangEasternHan`, `HanLengEasternHan`, `index`, and `overview`. No settled contradiction found; 窦县, 邓迅, 何畅, and 任委 are normalized to 窦宪, 邓训, 何敞, and 任隗, while Qi Shang Wang Liu Shi, Zhang Yu, Geng Bing, Hao Wu, Huangzhong/Huangzhong Hu, exact campaign figures, and route geography remain source-scoped.
+
 ## [2026-08-30] ingest | 《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？
 
 Ingested the 2026-08-29 芮淇讲透资治通鉴 episode on Sun Quan refusing Cao Cao's hostage demand through Zhou Yu's analysis and Lady Wu's endorsement, plus Guo Jia's advice to relax pressure so the Yuan Tan-Yuan Shang split emerges after Liyang. Created the source note plus Yuan Shang, Wang Xiu, Guan Tong, Xin Pi, and Pressure-Release Infighting Strategy pages; updated Sun Quan, Zhou Yu, Lady Wu, Guo Jia, Yuan Tan, Guo Tu, Xin Ping, Liyang, Hostage-Backed Dependency Trap, Succession Authority Consolidation, Succession Non-Designation Risk, index, and overview. No settled contradiction found; the opening intimacy-psychology segment, Cao Cao mind-reading, Jia Xin, and the 刘询 rebellion notice remain source-scoped.
@@ -13929,6 +13933,10 @@ Ingested the 2026-07-01 芮淇讲透资治通鉴 episode on Dou Xian's punishmen
 ## [2026-08-30] ingest | 《资治通鉴·汉纪》762丨历史告诉你：男人有权，能有多荒唐？
 
 Ingested the 2026-07-01 芮淇讲透资治通鉴 episode on Dou Xian's restored rank, Dou Jing's household abuses and unauthorized frontier cavalry recall, Yuan An's impeachment and historical-allusive sealed memorial, Dou Gui's restrained family contrast, He Song's Jinan tutorship, Fuling King Liu Yan's death notice, floods, amnesty, and solar-eclipse setup. Created the source note plus `DouJingEasternHan`, `HeSongEasternHan`, and `LiuYanFulingKingEasternHan`; updated `DouXianEasternHan`, `YuanAnEasternHan`, `DouGuiEasternHan`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; Fuling King Liu Yan is kept distinct from the existing Liu Yan pages, and disaster/omen notices remain source-scoped.
+
+## [2026-08-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-30] lint | Wiki health check
 
